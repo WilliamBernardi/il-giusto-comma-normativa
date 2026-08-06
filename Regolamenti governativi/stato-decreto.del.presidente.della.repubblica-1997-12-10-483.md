@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Regolamenti governativi
 vigenza_date: 2023-05-30
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:11Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -31,6 +31,40 @@ Sulla proposta del Ministro della sanita';
 ## - Titolo I AMMISSIONE AGLI IMPIEGHI Capo I Norme generali per lo svolgimento dei concorsi
 
 ## Art. 1. — Requisiti generali di ammissione
+
+1.
+                        
+                            
+                                Ai sensi dell'articolo 18, comma 1, del decreto legislativo 30 dicembre 1992, n. 502, e successive modificazioni e integrazioni, possono partecipare ai concorsi coloro che possiedono i seguenti requisiti generali: 
+ 
+                            
+                            
+                                a)
+                                
+                                    cittadinanza italiana, salve le equiparazioni stabilite dalle leggi vigenti, o cittadinanza di uno dei Paesi dell'Unione europea; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    idoneita' fisica all'impiego: 
+ 1) l'accertamento della idoneita' fisica all'impiego - con la osservanza delle norme in tema di categorie protette - e' effettuato, a cura dell'Unita' sanitaria locale (U.s.l.) o dell'azienda ospedaliera, prima dell'immissione in servizio; 
+ 2) il personale dipendente da pubbliche ammininistrazioni ed il personale dipendente dagli istituti, ospedali ed enti di cui agli articoli 25 e 26 comma 1, del decreto del Presidente della Repubblica 20 dicembre 1979, n. 761, e' dispensato dalla visita medica; ((4))
+                                    
+                                
+                            
+                            
+                                c)
+                                
+                                    titolo di studio per l'accesso alle rispettive carriere; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    iscrizione all'albo professionale, ove richiesta, per l'esercizio professionale. L'iscrizione al corrispondente albo professionale di uno dei Paesi dell'Unione europea consente la partecipazione ai concorsi, fermo restando l'obbligo dell'iscrizione all'albo in Italia prima dell'assunzione in servizio.
 
 Non possono accedere agli impieghi coloro che siano stati esclusi dall'elettorato attivo nonche' coloro che siano stati dispensati dall'impiego presso una pubblica amministrazione per aver conseguito l'impiego stesso mediante la produzione di documenti falsi o viziati da invalidita' non sanabile.
 
@@ -58,6 +92,59 @@ Il termine per la presentazione delle domande di partecipazione ai concorsi scad
 Per le domande inoltrate a mezzo del servizio postale, la data di spedizione e' comprovata dal timbro a data dell'ufficio postale accettante.
 
 ## Art. 3. — Domande di ammissione ai concorsi
+
+1.
+                        
+                            
+                                Per l'ammissione ai concorsi, gli aspiranti devono presentare domanda redatta in carta semplice nella quale devono indicare:
+ 
+                            
+                            
+                                a)
+                                
+                                    la data, il luogo di nascita e la residenza;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il possesso della cittadinanza italiana o equivalente;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il comune nelle cui liste elettorali sono iscritti ovvero i motivi della loro non iscrizione o della cancellazione dalle liste medesime;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    le eventuali condanne penali riportate;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    i titoli di studio posseduti;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    la loro posizione nei riguardi degli obblighi militari;
+
+                                
+                            
+                            
+                                g)
+                                
+                                    i servizi prestati come impiegati presso pubbliche amministrazioni e le eventuali cause di cessazione di precedenti rapporti di pubblico impiego.
 
 Alla domanda di partecipazione al concorso, i concorrenti devono allegare tutte le certificazioni relative ai titoli che ritengano opportuno presentare agli effetti della valutazione di merito, ivi compreso un curriculum formativo e professionale, datato e firmato.
 
@@ -166,6 +253,43 @@ Al termine dei lavori, i verbali, unitamente a tutti gli atti del concorso, sono
 
 ## Art. 11. — Criteri di valutazione dei titoli
 
+1.
+                        
+                            
+                                Nei concorsi per titoli ed esami, la determinazione dei criteri di massima si effettua prima dell'espletamento della prova scritta; per la valutazione dei titoli la commissione si deve attenere ai seguenti principi:
+ 
+                            
+                            
+                                a)
+                                
+                                    titoli di carriera:
+ 1) i periodi di servizio omogeneo sono cumulabili;
+ 2) le frazioni di anno sono valutate in ragione mensile considerando, come mese intero, periodi continuativi di giorni trenta o frazioni superiori a quindici giorni;
+ 3) nel caso in cui al concorso siano ammessi candidati appartenenti a profili professionali diversi da quello medico non si applicano le maggiorazioni previste per il tempo pieno per il profilo professionale medico;
+ 4) in caso di servizi contemporanei e' valutato quello piu' favorevole al candidato;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    pubblicazioni:
+ 1) la valutazione delle pubblicazioni deve essere adeguatamente motivata, in relazione alla originalita' della produzione scientifica, all'importanza della rivista, alla continuita' ed ai contenuti dei singoli lavori, al grado di attinenza dei lavori stessi con la posizione funzionale da conferire, all'eventuale collaborazione di piu' autori. Non possono essere valutate le pubblicazioni delle quali non risulti l'apporto del candidato;
+ 2) la commissione deve, peraltro, tenere conto, ai fini di una corretta valutazione:
+ a) della data di pubblicazione dei lavori in relazione all'eventuale conseguimento di titoli accademici gia' valutati in altra categoria di punteggi;
+ b) del fatto che le pubblicazioni contengano mere esposizioni di dati e casistiche, non adeguatamente avvalorate ed interpretate, ovvero abbiano contenuto solamente compilativo o divulgativo, ovvero ancora costituiscano monografie di alta originalita';
+
+                                
+                            
+                            
+                                c)
+                                
+                                    curriculum formativo e professionale:
+ 1) nel curriculum formativo e professionale sono valutate le attivita' professionali e di studio, formalmente documentate, non riferibili a titoli gia valutati nelle precedenti categorie, idonee ad evidenziare, ulteriormente, il livello di qualificazione professionale acquisito nell'arco della intera carriera e specifiche rispetto alla posizione funzionale da conferire nonche' gli incarichi di insegnamento conferiti da enti pubblici;
+ 2) in tale categoria rientra anche la partecipazione a congressi, convegni, o seminari che abbiano finalita' di formazione e di aggiornamento professionale e di avanzamento di ricerca scientifica.
+Per la dirigenza sanitaria la partecipazione e' valutata tenendo conto dei criteri stabiliti in materia dal regolamento sull'accesso al secondo livello dirigenziale per il personale del ruolo sanitario del Servizio sanitario nazionale. Nel curriculum sono valutate, altresi', la idoneita' nazionale nella disciplina prevista dal pregresso ordinamento e l'attestato di formazione manageriale disciplinato dal predetto regolamento. Non sono valutate le idoneita' conseguite in precedenti concorsi;
+ 3) il punteggio attribuito dalla commissione e' globale ma deve essere adeguatamente motivato con riguardo ai singoli elementi documentali che hanno contribuito a determinarlo. La motivazione deve essere riportata nel verbale dei lavori della commissione.
+
 ## Art. 12. — Prova scritta: modalita' di espletamento
 
 1. il giorno stesso ed immediatamente prima della prova scritta, la commissione al completo predispone una terna di temi o di questionari a risposte sintetiche, li registra con numeri progressivi, fissando il tempo a disposizione dei candidati per lo svolgimento della prova.
@@ -248,6 +372,31 @@ Le graduatorie dei vincitori rimangono efficaci per un termine di diciotto mesi 
 
 ## Art. 19. — Adempimenti dei vincitori
 
+1.
+                        
+                            
+                                I candidati dichiarati vincitori sono invitati dall'U.s.l. o dall'azienda ospedaliera, ai fini della stipula del contratto individuale di lavoro, a presentare, nel termine e con le modalita' stabilite dal bando di concorso e in carta legale, a pena di decadenza nei diritti conseguenti alla partecipazione allo stesso:
+ 
+                            
+                            
+                                a)
+                                
+                                    i documenti corrispondenti alle dichiarazioni contenute nella domanda di partecipazione al concorso;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    certificato generale del casellario giudiziale;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    altri titoli che danno diritto ad usufruire della riserva, precedenza e preferenza a parita' di valutazione.
+
 I candidati dichiarati vincitori hanno facolta' di richiedere all'amministrazione che ha bandito il concorso, entro dieci giorni dalla comunicazione dell'esito del concorso, l'applicazione dell'arti- colo 18, comma 3, della legge 7 agosto 1990, n. 241.
 
 La U.s.l. o l'azienda ospedaliera, verificata la sussistenza dei requisiti, procede alla stipula del contratto nel quale sara' indicata la data di presa di servizio. Gli effetti economici decorrono dalla data di effettiva presa di servizio.
@@ -289,11 +438,230 @@ Il servizio prestato presso organismi internazionali e' riconosciuto con le proc
 ## Art. 24. — Concorso, per titoli ed esami per il primo livello dirigenziale
  medico - Requisiti specifici di ammissione
 
+1.
+                        
+                            
+                                I requisiti specifici di ammissione al concorso sono i seguenti:
+ 
+                            
+                            
+                                a)
+                                
+                                    laurea in medicina e chirurgia;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    specializzazione nella disciplina oggetto del concorso;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    iscrizione all'albo dell'ordine dei medicichirurghi, attestata da certificato in data non anteriore a sei mesi rispetto a quella di scadenza del bando.
+
 ## Art. 25. — Commissione esaminatrice
+
+1.
+                        
+                            
+                                La commissione esaminatrice e' nominata dal direttore generale della U.s.l. o dell'azienda ospedaliera ed e' composta da:
+ 
+                            
+                            
+                                a)
+                                
+                                    presidente:
+ il dirigente del secondo livello dirigenziale nel profilo professionale della disciplina oggetto del concorso, preposto alla struttura. In caso di pluralita' di strutture o in caso di carenza di titolare l'individua-zione e' operata dal direttore generale, o per delega dal direttore sanitario nell'ambito dell'area alla quale appartiene la struttura il cui posto si intende ricoprire;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    componenti:
+ due dirigenti del secondo livello dirigenziale appartenenti al profilo ed alla disciplina oggetto del concorso, di cui uno sorteggiato tra il personale indicato nell'articolo 6, comma 2, ed uno designato dalla regione, fra il personale di cui sopra;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    segretario:
+ un funzionario amministrativo della U.s.l. o della azienda ospedaliera appartenente ad un livello non inferiore al settimo.
 
 ## Art. 26. — Prove d'esame
 
+1.
+                        
+                            
+                                Le prove d'esame sono le seguenti:
+ 
+                            
+                            
+                                a)
+                                
+                                    prova scritta:
+ relazione su caso clinico simulato o su argomenti inerenti alla disciplina messa a concorso o soluzione di una serie di quesiti a risposta sintetica inerenti alla disciplina stessa;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    prova pratica:
+ 1) su tecniche e manualita' peculiari della disciplina messa a concorso;
+ 2) per le discipline dell'area chirurgica la prova, in relazione anche al numero dei candidati, si svolge su cadavere o materiale anatomico in sala autoptica, ovvero con altra modalita' a giudizio insindacabile della commissione;
+ 3) la prova pratica deve comunque essere anche illustrata schematicamente per iscritto;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    prova orale:
+ sulle materie inerenti alla disciplina a concorso nonche' sui compiti connessi alla funzione da conferire.
+
 ## Art. 27. — Punteggio
+
+1.
+                        
+                            
+                                La commissione dispone, complessivamente, di 100 punti cosi' ripartiti:
+ 
+                            
+                            
+                                a)
+                                
+                                    20 punti per i titoli;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    80 punti per le prove d'esame.
+
+2.
+                        
+                            
+                                I punti per le prove d'esame sono cosi' ripartiti:
+ 
+                            
+                            
+                                a)
+                                
+                                    30 punti per la prova scritta;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    30 punti per la prova pratica;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    20 punti per la prova orale.
+
+3.
+                        
+                            
+                                I punti per la valutazione dei titoli sono cosi' ripartiti:
+ 
+                            
+                            
+                                a)
+                                
+                                    titoli di carriera: 10;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    titoli accademici e di studio: 3
+
+                                
+                            
+                            
+                                c)
+                                
+                                    pubblicazioni e titoli scientifici: 3;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    curriculum formativo e professionale: 4.
+
+4.
+                        
+                            
+                                Titoli di carriera:
+ 
+                            
+                            
+                                a)
+                                
+                                    servizi di ruolo prestati presso le unita' sanitarie locali o le aziende ospedaliere e servizi equipollenti ai sensi degli articoli 22 e 23:
+ 1) servizio nel livello dirigenziale a concorso, o livello superiore, nella disciplina, punti 1,00 per anno;
+ 2) servizio in altra posizione funzionale nella disciplina a concorso, punti 0,50 per anno;
+ 3) servizio in disciplina affine ovvero in altra disciplina da valutare con i punteggi di cui sopra ridotti rispettivamente del 25 e del 50 per cento;
+ 4) servizio prestato a tempo pieno da valutare con i punteggi di cui sopra aumentati del 20 per cento;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    servizio di ruolo quale medico presso pubbliche amministrazioni nelle varie qualifiche secondo i rispettivi ordinamenti, punti 0,50 per anno.
+
+5.
+                        
+                            
+                                Titoli accademici e di studio:
+ 
+                            
+                            
+                                a)
+                                
+                                    specializzazione nella disciplina oggetto del concorso, punti 1,00;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    specializzazione in una disciplina affine, punti 0,50;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    specializzazione in altra disciplina, punti 0,25;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    altre specializzazioni di ciascun gruppo da valutare con i punteggi di cui sopra ridotti del 50 per cento;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    altre lauree, oltre quella richiesta per l'ammissione al concorso comprese tra quelle previste per l'appartenenza al ruolo sanitario, punti 0,50 per ognuna, fino ad un massimo di punti 1,00.
 
 Non e' valutabile la specializzazione fatta valere come requisito di ammissione.
 
@@ -304,13 +672,233 @@ Per la valutazione delle pubblicazioni, dei titoli scientifici e del curriculum 
 
 ## Art. 28. — Concorso, per titoli ed esami, per il primo livello dirigenziale odontoiatra - Requisiti specifici di ammissione.
 
+1.
+                        
+                            
+                                I requisiti specifici di ammissione al concorso sono i seguenti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    laurea in odontoiatria e protesi dentaria, nonche' laurea in medicina per i laureati in medicina e chirurgia legittimati all'esercizio della professione di odontoiatra; 
 
+                                
+                            
+                            
+                                b)
+                                
+                                    
+                                        ((LETTERA ABROGATA DAL D.L. 30 MARZO 2023, N.34, CONVERTITO, CON MODIFICAZIONI, DALLA L. 26 MAGGIO 2023, N. 56)); 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    iscrizione secondo le modalita' indicate dalla legge 24 luglio 1985, n. 409, al rispettivo albo dell'ordine dei medici chirurghi e degli odontoiatri, attestata da certificato in data non anteriore a sei mesi rispetto a quella di scadenza del bando.
+
+((COMMA ABROGATO DAL D.L. 30 MARZO 2023, N.34, CONVERTITO, CON MODIFICAZIONI, DALLA L. 26 MAGGIO 2023, N. 56)).
 
 ## Art. 29. — Commissione esaminatrice
 
+1.
+                        
+                            
+                                La commissione esaminatrice e' nominata dal direttore generale della U.s.l. o dell'azienda ospedaliera ed e' composta da:
+ 
+                            
+                            
+                                a)
+                                
+                                    presidente:
+ il dirigente del secondo livello dirigenziale nel profilo professionale della disciplina oggetto del concorso, preposto alla struttura. In caso di pluralita' di strutture o in caso di carenza di titolare l'individuazione e' operata dal direttore generale, o per delega dal direttore sanitario, nell'ambito dell'area alla quale appartiene la struttura il cui posto si intende ricoprire;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    componenti:
+ due dirigenti del secondo livello dirigenziale appartenenti alla disciplina ed al profilo oggetto del concorso, di cui uno sorteggiato fra il personale indicato nell'articolo 6, comma 2, ed uno designato dalla regione, fra il personale di cui sopra;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    segretario:
+ un funzionario amministrativo della U.s.l. o della azienda ospedaliera appartenente ad un livello non inferiore al settimo.
+
 ## Art. 30. — Prove d'esame
 
+1.
+                        
+                            
+                                Le prove d'esame sono le seguenti:
+ 
+                            
+                            
+                                a)
+                                
+                                    prova scritta:
+ relazione su caso clinico simulato o su argomenti inerenti alla disciplina messa a concorso, o soluzione di una serie di quesiti a risposta sintetica inerenti alla disciplina stessa;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    prova pratica:
+ su tecniche e manualita' peculiari della disciplina. La prova pratica deve comunque essere anche illustrata schematicamente per iscritto;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    prova orale:
+ sulle materie inerenti alla disciplina a concorso nonche' sui compiti connessi alla funzione da conferire.
+
 ## Art. 31. — Punteggio
+
+1.
+                        
+                            
+                                La commissione dispone, complessivamente, di 100 punti cosi' ripartiti:
+ 
+                            
+                            
+                                a)
+                                
+                                    20 punti per i titoli;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    80 per le prove di esame.
+
+2.
+                        
+                            
+                                I punti per le prove d'esame sono cosi' ripartiti:
+ 
+                            
+                            
+                                a)
+                                
+                                    30 punti per la prova scritta;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    30 punti per la prova pratica;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    20 punti per la prova orale.
+
+3.
+                        
+                            
+                                I punti per la valutazione dei titoli sono cosi' ripartiti:
+ 
+                            
+                            
+                                a)
+                                
+                                    titoli di carriera: 10;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    titoli accademici e di studio: 3;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    pubblicazioni e titoli scientifici: 3;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    curriculum formativo e professionale: 4.
+
+4.
+                        
+                            
+                                Titoli di carriera:
+ 
+                            
+                            
+                                a)
+                                
+                                    servizi di ruolo prestati presso le unita' sanitarie locali o le aziende ospedaliere e servizi equipollenti ai sensi degli articoli 22 e 23:
+ 1) nel livello dirigenziale a concorso, o livello superiore, nella disciplina, punti 1,00 per anno;
+ 2) in altra posizione nella disciplina a concorso, punti 0,50 per anno;
+ 3) servizio prestato in disciplina affine ovvero in altra disciplina da valutare con i punteggi di cui sopra ridotti rispettivamente del 25 per cento e del 50 per cento;
+ 4) servizio a tempo pieno da valutare con i punteggi di cui sopra aumentati del 20 per cento.
+
+                                
+                            
+                            
+                                b)
+                                
+                                    servizio di ruolo quale odontoiatra presso pubbliche amministrazioni nelle varie qualifiche secondo i rispettivi ordinamenti, punti 0,50 per anno.
+
+5.
+                        
+                            
+                                Titoli accademici e di studio:
+ 
+                            
+                            
+                                a)
+                                
+                                    specializzazione nella disciplina oggetto del concorso, punti 1,00;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    specializzazione in disciplina affine, punti 0,50;
+ fo on
+
+                                
+                            
+                            
+                                c)
+                                
+                                    specializzazione in altra disciplina, punti 0,25;
+ fo on
+
+                                
+                            
+                            
+                                d)
+                                
+                                    altre specializzazioni di ciascun gruppo da valutare con i punteggi di cui sopra ridotti del 50 per cento;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    altre lauree, oltre quella richiesta per l'ammissione al concorso comprese tra quelle previste per l'appartenenza al ruolo sanitario, punti 0,50 per ognuna, fino ad un massimo di punti 1,00.
 
 Non e' valutabile la specializzazione fatta valere come requisito di ammissione.
 
@@ -320,11 +908,236 @@ Per la valutazione delle pubblicazioni, dei titoli scientifici e del curriculum 
 
 ## Art. 32. — Concorso, per titoli ed esami, per il primo livello dirigenziale farmacista - Requisiti specifici di ammissione.
 
+1.
+                        
+                            
+                                I requisiti specifici di ammissione al concorso sono i seguenti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    laurea in farmacia o in chimica e tecnologie farmaceutiche; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    specializzazione nella disciplina oggetto del concorso; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    iscrizione all'albo dell'ordine dei farmacisti attestata da certificato in data non anteriore a sei mesi rispetto a quello di scadenza del bando.
+
 ## Art. 33. — Commissione esaminatrice
+
+1.
+                        
+                            
+                                La commissione esaminatrice e' nominata dal direttore generale della U.s.l. o dell'azienda ospedaliera ed e' composta da:
+ 
+                            
+                            
+                                a)
+                                
+                                    presidente:
+ il dirigente del secondo livello dirigenziale nel profilo professio- nale della disciplina oggetto del concorso, preposto alla struttura. In caso di pluralita' di strutture o in caso di carenza di titolare l'individuazione e' operata dal direttore generale, o per delega dal direttore sanitario, nell'ambito dell'area alla quale appartiene la struttura il cui posto si intende ricoprire.
+
+                                
+                            
+                            
+                                b)
+                                
+                                    componenti:
+ due dirigenti del secondo livello dirigenziale appartenenti alla disciplina ed al profilo oggetto del concorso, di cui uno sorteggiato fra il personale indicato nell'articolo 6, comma 2, ed uno designato dalla regione, fra il personale di cui sopra.
+
+                                
+                            
+                            
+                                c)
+                                
+                                    segretario:
+ un funzionario amministrativo della U.s.l. o della azienda ospeda- liera appartenente ad un livello non inferiore al settimo.
 
 ## Art. 34. — Prove d'esame
 
+1.
+                        
+                            
+                                Le prove d'esame sono le seguenti:
+ 
+                            
+                            
+                                a)
+                                
+                                    prova scritta:
+ svolgimento di un tema su argomenti di farmacologia o risoluzione di una serie di quesiti a risposta sintetica inerenti alla materia stessa;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    prova pratica:
+ tecniche e manualita' peculiari della disciplina farmaceutica messa a concorso. La prova pratica deve comunque essere anche illustrata schematicamente per iscritto;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    prova orale:
+ sulle materie inerenti alla disciplina a concorso nonche' sui compiti connessi alla funzione da conferire.
+
 ## Art. 35. — Punteggio
+
+1.
+                        
+                            
+                                La commissione dispone, complessivamente, di 100 punti cosi' ripartiti:
+ 
+                            
+                            
+                                a)
+                                
+                                    20 punti per i titoli;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    80 punti per le prove d'esame.
+
+2.
+                        
+                            
+                                I punti per le prove d'esame sono cosi' ripartiti:
+ 
+                            
+                            
+                                a)
+                                
+                                    30 punti per la prova scritta;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    30 punti per la prova pratica;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    20 punti per la prova orale.
+
+3.
+                        
+                            
+                                I punti per la valutazione dei titoli sono cosi' ripartiti:
+ 
+                            
+                            
+                                a)
+                                
+                                    titoli di carriera: 10;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    titoli accademici e di studio: 3;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    pubblicazioni e titoli scientifici: 3;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    curriculum formativo e professionale: 4.
+
+4.
+                        
+                            
+                                Titoli di carriera:
+ 
+                            
+                            
+                                a)
+                                
+                                    servizi di ruolo prestati presso le unita' sanitarie locali o le aziende ospedaliere e servizi equipollenti ai sensi degli articoli 22 e 23:
+ 1) nel livello dirigenziale a concorso, o livello superiore, nella disciplina, punti 1,00 per anno;
+ 2) in altra posizione funzionale nella disciplina a concorso, punti 0,50 per anno;
+ 3) servizio prestato in disciplina affine ovvero in altra disciplina da valutare con i punteggi di cui sopra ridotti rispettivamente del 25 per cento e del 50 per cento;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    servizio di ruolo presso farmacie comunali o municipalizzate:
+ 1) come direttore, punti 1,00 per anno;
+ 2) come collaboratore, punti 0,50 per anno.
+
+                                
+                            
+                            
+                                c)
+                                
+                                    servizio di ruolo quale farmacista presso pubbliche amministrazioni con le varie qualifiche previste dai rispettivi ordinamenti, punti 0,50 per anno.
+
+5.
+                        
+                            
+                                Titoli accademici e di studio:
+ 
+                            
+                            
+                                a)
+                                
+                                    specializzazione nella disciplina oggetto del concorso, punti 1,00;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    specializzazione in disciplina affine, punti 0,50;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    specializzazione in altra disciplina, punti 0,25;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    altre specializzazioni di ciascun gruppo, da valutare con i punteggi di cui sopra ridotti del 50 per cento;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    altre lauree, oltre quella fatta valere come requisito per l'ammissione al concorso, ((comprese tra quelle previste per l'appartenenza al ruolo sanitario,)) punti 0,50 per ognuna, fino ad un massimo di punti 1,00.
 
 Non e' valutabile la specializzazione fatta valere come requisito di ammissione.
 
@@ -335,11 +1148,228 @@ Per la valutazione delle pubblicazioni, dei titoli scientifici e del curriculum 
 ## Art. 36. — Concorso, per titoli ed esani, per il primo livello dirigenziale
  veterinario - Requisiti specifici di ammissione.
 
+1.
+                        
+                            
+                                I requisiti specifici di ammissione al concorso sono i seguenti:
+ 
+                            
+                            
+                                a)
+                                
+                                    diploma di laurea in medicina veterinaria;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    specializzazione nella disciplina oggetto del concorso;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    iscrizione all'albo dell'ordine dei veterinari, attestata da certificato in data non anteriore a sei mesi rispetto a quella di scadenza del bando.
+
 ## Art. 37. — Commissione esaminatrice
+
+1.
+                        
+                            
+                                La commissione esaminatrice e' nominata dal direttore generale della U.s.l. ed e' composta da:
+ 
+                            
+                            
+                                a)
+                                
+                                    presidente:
+ il dirigente del secondo livello dirigenziale nel profilo professionale della disciplina oggetto del concorso, preposto alla struttura. In caso di pluralita' di strutture o in caso di carenza di titolare l'individuazione e' operata dal direttore generale, o per delega dal direttore sanitario, nell'ambito dell'area alla quale appartiene la struttura il cui posto si intende ricoprire;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    componenti:
+ due dirigenti del secondo livello dirigenziale appartenenti alla disciplina ed al profilo oggetto del concorso, di cui uno sorteggiato fra il personale indicato nell'articolo 6, comma 2, ed uno designato dalla regione, fra il personale di cui sopra;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    segretario:
+ un funzionario amministrativo della U.s.l. o della azienda ospedaliera appartenente ad un livello non inferiore al settimo.
 
 ## Art. 38. — Prove d'esame
 
+1.
+                        
+                            
+                                Le prove d'esame sono le seguenti:
+ 
+                            
+                            
+                                a)
+                                
+                                    prova scritta:
+ relazione su argomenti inerenti alla materia oggetto del concorso o soluzione di una serie di quesiti a risposta sintetica inerenti alla materia stessa;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    prova pratica:
+ su tecniche e manualita' peculiari della materia oggetto del concorso. La prova pratica deve comunque essere anche illustrata schematicamente per iscritto;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    prova orale:
+ sulle materie inerenti alla disciplina a concorso, nonche' sui compiti connessi alla funzione da conferire.
+
 ## Art. 39. — Punteggio
+
+1.
+                        
+                            
+                                La commissione dispone, complessivamente, di 100 punti cosi' ripartiti:
+ 
+                            
+                            
+                                a)
+                                
+                                    20 punti per i titoli;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    80 punti per le prove d'esame.
+
+2.
+                        
+                            
+                                I punti per le prove d'esame sono cosi' ripartiti:
+ 
+                            
+                            
+                                a)
+                                
+                                    30 punti per la prova scritta;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    30 punti per la prova pratica;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    20 punti per la prova orale.
+
+3.
+                        
+                            
+                                I punti per la valutazione dei titoli sono cosi' ripartiti:
+ 
+                            
+                            
+                                a)
+                                
+                                    titoli di carriera: 10;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    titoli accademici e di studio: 3;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    pubblicazioni e titoli scientifici: 3;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    curriculum formativo e professionale: 4.
+
+4.
+                        
+                            
+                                Titoli di carriera:
+ 
+                            
+                            
+                                a)
+                                
+                                    servizi di ruolo prestati presso le unita' sanitarie locali o le aziende ospedaliere e servizi equipollenti ai sensi degli articoli 22 e 23;
+ 1) nel livello dirigenziale a concorso, o livello superiore, nella disciplina, punti 1,00 per anno;
+ 2) in altra posizione funzionale nella disciplina a concorso, punti 0,50 per anno;
+ 3) servizio in disciplina affine ovvero in altra disciplina da valutare con i punteggi di cui sopra ridotti rispettivamente del 25 per cento e del 50 per cento;
+ 4) servizio prestato a tempo pieno da valutare con i punteggi di cui sopra aumentati del 20 per cento.
+
+                                
+                            
+                            
+                                b)
+                                
+                                    servizio di ruolo quale veterinario presso pubbliche amministrazioni nelle varie qualifiche secondo i rispettivi ordinamenti, punti 0,50 per anno.
+
+5.
+                        
+                            
+                                Titoli accademici e di studio:
+ 
+                            
+                            
+                                a)
+                                
+                                    specializzazione nella disciplina oggetto del concorso, punti 1,00;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    specializzazione in disciplina affine, punti 0,50;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    specializzazione in altra disciplina, punti 0,25;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    altre specializzazioni di ciascun gruppo da valutare con i punteggi di cui sopra ridotti del 50 per cento;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    altre lauree, oltre quella richiesta per l'ammissione al concorso comprese tra quelle previste per l'appartenenza al ruolo sanitario, punti 0,50 per ognuna, fino ad un massimo di punti 1,00.
 
 Non e' valutabile la specializzazione fatta valere come requisito di ammissione.
 
@@ -350,11 +1380,224 @@ Per la valutazione delle pubblicazioni dei titoli scientifici e del curriculum f
 ## Art. 40. — Concorso, per titoli ed esami, per la posizione funzionale di primo
  livello dirigenziale del profilo professionale di biologo - Requisiti specifici di ammissione.
 
+1.
+                        
+                            
+                                I requisiti specifici di ammissione al concorso sono i seguenti:
+ 
+                            
+                            
+                                a)
+                                
+                                    diploma di laurea in scienze biologiche;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    specializzazione nella disciplina oggetto del concorso;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    iscrizione nell'albo dell'ordine professionale attestata da certificato in data non anteriore a sei mesi rispetto a quella di scadenza del bando.
+
 ## Art. 41. — Commissione esaminatrice
+
+1.
+                        
+                            
+                                La commissione esaminatrice e' nominata dal direttore generale della U.s.l. o dell'azienda ospedaliera ed e' composta da:
+ 
+                            
+                            
+                                a)
+                                
+                                    presidente: il dirigente del secondo livello dirigenziale nel profilo professionale della disciplina oggetto del concorso, ((preposto alla struttura,)). In caso di pluralita' di strutture o in caso di carenza di titolare l'individuazione e' operata dal direttore generale, o per delega dal direttore sanitario, nell'ambito dell'area alla quale appartiene la struttura il cui posto si intende ricoprire;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    componenti: due dirigenti del secondo livello dirigenziale appartenenti alla disciplina ed al profilo oggetto del concorso, di cui uno sorteggiato fra il personale indicato nell'articolo 6, comma 2, ed uno designato dalla regione, fra il personale di cui sopra;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    segretario: un funzionario amministrativo della U.s.l. o della azienda ospedaliera appartenente ad un livello non inferiore al settimo.
 
 ## Art. 42. — Prove d'esame
 
+1.
+                        
+                            
+                                Le prove d'esame per il concorso per il profilo professionale di biologo:
+ 
+                            
+                            
+                                a)
+                                
+                                    prova scritta:
+ svolgimento di un tema su argomenti inerenti alla disciplina a concorso e impostazione di un piano di lavoro o soluzione di una serie di quesiti a risposta sintetica inerenti alla disciplina stessa;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    prova pratica:
+ esecuzione di misure strumentali o di prove di laboratorio o soluzione di un test su tecniche e manualita' peculiari della disciplina messa a concorso, con relazione scritta sul procedimento seguito;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    prova orale:
+ sulle materie inerenti alla disciplina a concorso, nonche' sui compiti connessi alla funzione da conferire.
+
 ## Art. 43. — Punteggio
+
+1.
+                        
+                            
+                                La commissione dispone, complessivamente, di 100 punti cosi' ripartiti:
+ 
+                            
+                            
+                                a)
+                                
+                                    20 punti per i titoli;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    80 punti per le prove d'esame.
+
+2.
+                        
+                            
+                                I punti per le prove d'esame sono cosi' ripartiti:
+ 
+                            
+                            
+                                a)
+                                
+                                    30 punti per la prova scritta;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    30 punti per la prova pratica;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    20 punti per la prova orale.
+
+3.
+                        
+                            
+                                I punti per la valutazione dei titoli sono cosi' ripartiti:
+ 
+                            
+                            
+                                a)
+                                
+                                    titoli di carriera: 10;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    titoli accademici e di studio: 3;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    pubblicazioni e titoli scientifici: 3;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    curriculum formativo e professionale: 4.
+
+4.
+                        
+                            
+                                Titoli di carriera:
+ 
+                            
+                            
+                                a)
+                                
+                                    servizi di ruolo prestati presso le unita' sanitarie locali o le aziende ospedaliere e servizi equipollenti ai sensi degli articoli 22 e 23:
+ 1) servizio nel livello dirigenziale a concorso, o livello superiore, nella disciplina, punti 1,00 per anno;
+ 2) servizio in altra posizione funzionale nella disciplina a concorso, punti 0,50 per anno;
+ 3) servizio in disciplina affine ovvero in altra disciplina da valutare con i punteggi di cui sopra ridotti rispettivamente del 25 per cento e del 50 per cento;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    servizio di ruolo quale biologo presso pubbliche amministrazioni nelle varie qualifiche secondo i rispettivi ordinamenti: punti 0,50 per anno.
+
+5.
+                        
+                            
+                                Titoli accademici e di studio:
+ 
+                            
+                            
+                                a)
+                                
+                                    specializzazione nella disciplina oggetto del concorso, punti 1,00;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    specializzazione in disciplina affine, punti 0,50;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    specializzazione in altra disciplina, punti 0,25;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    altre specializzazioni di ciascun gruppo da valutare con i punteggi di cui sopra ridotti del 50 per cento;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    altre lauree, oltre quella richiesta per l'ammissione al concorso comprese tra quelle previste per l'appartenenza al ruolo sanitario, punti 0,50 per ognuna, fino ad un massimo di punti 1,00.
 
 Non e' valutabile la specializzazione fatta valere come requisito di ammissione.
 
@@ -363,11 +1606,227 @@ Per la valutazione delle pubblicazioni, dei titoli scientifici e del curriculum 
 ## Art. 44. — Concorso, per titoli ed esami, per la posizione funzionale di primo
  livello dirigenziale del profilo professionale di chimico - Requisiti specifici di ammissione.
 
+1.
+                        
+                            
+                                I requisiti specifici di ammissione al concorso sono i seguenti:
+ 
+                            
+                            
+                                a)
+                                
+                                    diploma di laurea in chimica;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    specializzazione nella disciplina oggetto del concorso;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    iscrizione nell'albo dell'ordine professionale attestata da certificato in data non anteriore a sei mesi rispetto a quella di scadenza del bando.
+
 ## Art. 45. — Commissione esaminatrice
+
+1.
+                        
+                            
+                                La commissione esaminatrice e' nominata dal direttore generale della U.s.l. o dell'azienda ospedaliera ed e' composta da:
+ 
+                            
+                            
+                                a)
+                                
+                                    presidente:
+ il dirigente del secondo livello dirigenziale nel profilo professionale della disciplina oggetto del concorso, preposto alla struttura. In caso di pluralita' di strutture o in caso di carenza di titolare l'individuazione e' operata dal direttore generale, o per delega dal direttore sanitario, nell'ambito dell'area alla quale appartiene la struttura il cui posto si intende ricoprire;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    componenti:
+ due dirigenti del secondo livello dirigenziale appartenenti alla disciplina ed al profilo oggetto del concorso, di cui uno sorteggiato fra il personale indicato nell'articolo 6, comma 2, ed uno designato dalla regione, fra il personale di cui sopra;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    segretario:
+ un funzionario amministrativo della U.s.l. o della azienda ospedaliera appartenente ad un livello non inferiore al settimo.
 
 ## Art. 46. — Prove d'esame
 
+1.
+                        
+                            
+                                Le prove d'esame per il concorso per il profilo professionale di chimico:
+ 
+                            
+                            
+                                a)
+                                
+                                    prova scritta:
+ svolgimento di un tema su argomenti inerenti alla disciplina a concorso e impostazione di un piano di lavoro o soluzione di una serie di quesiti a risposta sintetica inerenti alla disciplina stessa;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    prova pratica:
+ esecuzione di misure strumentali o di prove di laboratorio o0solu- zione di un test su tecniche e manualita' peculiari della disciplina messa a concorso, con relazione scritta sul procedimento seguito;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    prova orale:
+ sulle materie inerenti alla disciplina a concorso, nonche' sui compiti connessi alla funzione da conferire.
+
 ## Art. 47. — Punteggio
+
+1.
+                        
+                            
+                                La commissione dispone, complessivamente, di 100 punti cosi' ripartiti:
+ 
+                            
+                            
+                                a)
+                                
+                                    20 punti per i titoli;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    80 punti per le prove d'esame.
+
+2.
+                        
+                            
+                                I punti per le prove d'esame sono cosi' ripartiti:
+ 
+                            
+                            
+                                a)
+                                
+                                    30 punti per la prova scritta;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    30 punti per la prova pratica;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    20 punti per la prova orale.
+
+3.
+                        
+                            
+                                I punti per la valutazione dei titoli sono cosi' ripartiti:
+ 
+                            
+                            
+                                a)
+                                
+                                    titoli di carriera: 10;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    titoli accademici e di studio: 3;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    pubblicazioni e titoli scientifici: 3;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    curriculum formativo e professionale: 4.
+
+4.
+                        
+                            
+                                Titoli di carriera:
+ 
+                            
+                            
+                                a)
+                                
+                                    servizi di ruolo prestati presso le unita' sanitarie locali o le aziende ospedaliere e servizi equipollenti ai sensi degli articoli 22 e 23:
+ 1) nel livello dirigenziale a concorso, o livello superiore, nella disciplina, punti 1,00 per anno;
+ ((2) in altra posizione funzionale nella disciplina a concorso, punti 0,50 per anno;))
+ 3) servizio in disciplina affine ovvero in altra disciplina da valutare con i punteggi di cui sopra ridotti rispettivamente del 25 per cento e del 50 per cento;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    servizio di ruolo quale chimico presso pubbliche amministrazioni nelle varie qualifiche secondo i rispettivi ordinamenti: punti 0,50 per anno.
+
+5.
+                        
+                            
+                                Titoli accademici e di studio:
+ 
+                            
+                            
+                                a)
+                                
+                                    specializzazione nella disciplina oggetto del concorso, punti 1,00;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    specializzazione in disciplina affine, punti 0,50;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    specializzazione in altra disciplina, punti 0,25;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    altre specializzazioni di ciascun gruppo da valutare con i punteggi di cui sopra ridotti del 50 per cento;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    altre lauree, oltre quella richiesta per l'ammissione al concorso comprese tra quelle previste per l'appartenenza al ruolo sanitario, punti 0,50 per ognuna, fino ad un massimo di punti 1,00.
 
 Non e' valutabile la specializzazione fatta valere come requisito di ammissione.
 
@@ -378,11 +1837,213 @@ Per la valutazione delle pubblicazioni, dei titoli scientifici e del curriculum 
 ## Art. 48. — Concorso, per titoli ed esami, per la posizione funzionale di primo
  livello dirigenziale del profilo professionale di fisico - Requisiti specifici di ammissione.
 
+1.
+                        
+                            
+                                I requisiti specifici di ammissione al concorso sono i seguenti:
+ 
+                            
+                            
+                                a)
+                                
+                                    diploma di laurea in fisica;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    specializzazione nella disciplina oggetto del concorso.
+
 ## Art. 49. — Commissione esaminatrice
+
+1.
+                        
+                            
+                                La commissione esaminatrice e' nominata dal direttore generale della U.s.l. o dell'azienda ospedaliera ed e' composta da:
+ 
+                            
+                            
+                                a)
+                                
+                                    presidente:
+ il dirigente del secondo livello dirigenziale nel profilo professionale della disciplina oggetto del concorso, preposto alla struttura. In caso di pluralita' di strutture o in caso di carenza di titolare l'individuazione e' operata dal direttore generale, o per delega dal direttore sanitario, nell'ambito dell'area alla quale appartiene la struttura il cui posto si intende ricoprire;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    componenti:
+ due dirigenti del secondo livello dirigenziale appartenenti alla disciplina ed al profilo oggetto del concorso, di cui uno sorteggiato fra il personale indicato nell'articolo 6, comma 2, ed uno designato dalla regione, fra il personale di cui sopra;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    segretario:
+ un funzionario amministrativo della U.s.l. o della azienda ospedaliera appartenente ad un livello non inferiore al settimo.
 
 ## Art. 50. — Prove d'esame
 
+1.
+                        
+                            
+                                Le prove d'esame per il concorso per il profilo professionale di fisico:
+ 
+                            
+                            
+                                a)
+                                
+                                    prova scritta:
+ svolgimento di un tema su argomenti inerenti alla disciplina a concorso e impostazione di un piano di lavoro o soluzione di una serie di quesiti a risposta sintetica inerenti alla disciplina stessa;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    prova pratica:
+ esecuzione di misure strumentali o di prove di laboratorio o soluzione di un test su tecniche e manualita' peculiari della disciplina messa a concorso, con relazione scritta sul procedimento seguito;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    prova orale:
+ sulle materie inerenti alla disciplina a concorso, nonche' sui compiti connessi alla funzione da conferire.
+
 ## Art. 51. — Punteggio
+
+1.
+                        
+                            
+                                La commissione dispone, complessivamente, di 100 punti cosi' ripartiti:
+ 
+                            
+                            
+                                a)
+                                
+                                    20 punti per i titoli;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    80 punti per le prove d'esame.
+
+2.
+                        
+                            
+                                I punti per le prove d'esame sono cosi' ripartiti:
+ 
+                            
+                            
+                                a)
+                                
+                                    30 punti per la prova scritta;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    30 punti per la prova pratica;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    20 punti per la prova orale.
+
+3.
+                        
+                            
+                                I punti per la valutazione dei titoli sono cosi' ripartiti:
+ 
+                            
+                            
+                                a)
+                                
+                                    titoli di carriera: 10;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    titoli accademici e di studio: 3;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    pubblicazioni e titoli scientifici: 3;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    curriculum formativo e professionale: 4.
+
+4.
+                        
+                            
+                                Titoli di carriera:
+ 
+                            
+                            
+                                a)
+                                
+                                    servizi di ruolo prestati presso le unita' sanitarie locali o le aziende ospedaliere e servizi equipollenti ai sensi degli articoli 22 e 23:
+ 1) nel livello dirigenziale a concorso, o livello superiore, nella disciplina, punti 1,00 per anno;
+ 2) in altra posizione funzionale nella disciplina a concorso, punti 0,50 per anno;
+ 3) servizio in disciplina affine ovvero in altra disciplina da valutare con i punteggi di cui sopra ridotti rispettivamente del 25 per cento e del 50 per cento;
+
+5.
+                        
+                            
+                                Titoli accademici e di studio:
+ 
+                            
+                            
+                                a)
+                                
+                                    specializzazione nella disciplina oggetto del concorso, punti 1,00;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    specializzazione in disciplina affine, punti 0,50;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    specializzazione in altra disciplina, punti 0,25;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    altre specializzazioni di ciascun gruppo da valutare con i punteggi di cui sopra ridotti del 50 per cento;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    altre lauree, oltre quella richiesta per l'ammissione al concorso comprese tra quelle previste per l'appartenenza al ruolo sanitario, punti 0,50 per ognuna, fino ad un massimo di punti 1,00.
 
 Non e' valutabile la specializzazione fatta valere come requisito di ammissione.
 
@@ -393,11 +2054,220 @@ Per la valutazione delle pubblicazioni, dei titoli scientifici e del curriculum 
 ## Art. 52. — Concorso, per titoli ed esami, per la posizione funzionale di primo
  livello dirigenziale del profilo professionale di psicologo - Requisiti specifici di ammissione.
 
+1.
+                        
+                            
+                                I requisiti specifici di ammissione al concorso sono i seguenti:
+ 
+                            
+                            
+                                a)
+                                
+                                    diploma di laurea in psicologia;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    specializzazione nella disciplina oggetto del concorso;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    iscrizione nell'albo dell'ordine professionale attestata da certificato in data non anteriore a sei mesi rispetto a quella di scadenza del bando.
+
 ## Art. 53. — Commissione esaminatrice
+
+1.
+                        
+                            
+                                La commissione esaminatrice e' nominata dal direttore generale della U.s.l. o dell'azienda ospedaliera ed e' composta da:
+ 
+                            
+                            
+                                a)
+                                
+                                    presidente:
+ il dirigente del secondo livello dirigenziale nel profilo professionale della disciplina oggetto del concorso, preposto alla struttura. In caso di pluralita' di strutture o in caso di carenza di titolare l'individuazione e' operata dal direttore generale, o per delega dal direttore sanitario, nell'ambito dell'area alla quale appartiene la struttura il cui posto si intende ricoprire;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    componenti:
+ due dirigenti del secondo livello dirigenziale appartenenti alla disciplina ed al profilo oggetto del concorso, di cui uno sorteggiato fra il personale indicato nell'articolo 6, comma 2, ed uno designato dalla regione, fra il personale di cui sopra;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    segretario:
+ un funzionario amministrativo della U.s.l. o della azienda ospedaliera appartenente ad un livello non inferiore al settimo.
 
 ## Art. 54. — Prove d'esame
 
+1.
+                        
+                            
+                                Le prove d'esame per il concorso per il profilo professionale di psicologo:
+ 
+                            
+                            
+                                a)
+                                
+                                    prova scritta:
+ impostazione di un piano di lavoro su di un caso psico-patologico presentato dalla commissione sotto forma di storia psico-clinica scritta o di colloquio registrato e proposte per gli interventi ritenuti necessari o soluzione di quesiti a risposta sintetica inerenti alla disciplina a concorso;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    prova pratica:
+ esame di un soggetto, raccolta della anamnesi e discussione sul caso, ovvero: esame dei risultati di tests diagnostici e diagnosi psicologica. La prova pratica deve essere anche illustrata schematicamente per iscritto;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    prova orale:
+ sulle materie inerenti alla disciplina a concorso, nonche' sui compiti connessi alla funzione da conferire.
+
 ## Art. 55. — Punteggio
+
+1.
+                        
+                            
+                                La commissione dispone, complessivamente, di 100 punti cosi' ripartiti:
+ 
+                            
+                            
+                                a)
+                                
+                                    20 punti per i titoli;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    80 punti per le prove d'esame.
+
+2.
+                        
+                            
+                                I punti per le prove d'esame sono cosi' ripartiti:
+ 
+                            
+                            
+                                a)
+                                
+                                    30 punti per la prova scritta;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    30 punti per la prova pratica;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    20 punti per la prova orale.
+
+3.
+                        
+                            
+                                I punti per la valutazione dei titoli sono cosi' ripartiti:
+ 
+                            
+                            
+                                a)
+                                
+                                    titoli di carriera; 10;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    titoli accademici e di studio: 3;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    pubblicazioni e titoli scientifici: 3;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    curriculum formativo e professionale: 4.
+
+4.
+                        
+                            
+                                Titoli di carriera:
+ 
+                            
+                            
+                                a)
+                                
+                                    servizi di ruolo prestati presso le unita' sanitarie locali o le aziende ospedaliere e servizi equipollenti ai sensi degli articoli 22 e 23:
+ 1) nel livello dirigenziale a concorso, o livello superiore, nella disciplina, punti 1,00 per anno;
+ 2) in altra posizione funzionale nella disciplina a concorso, punti 0,50 per anno;
+ 3) servizio in disciplina affine ovvero in altra disciplina da valutare con i punteggi di cui sopra ridotti rispettivamente del 25 per cento e del 50 per cento;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    servizio di ruolo quale psicologo presso pubbliche amministrazioni nelle varie qualifiche secondo i rispettivi ordinamenti: punti 0,50 per anno.
+
+5.
+                        
+                            
+                                Titoli accademici e di studio:
+ 
+                            
+                            
+                                a)
+                                
+                                    specializzazione nella disciplina oggetto del concorso, punti 1,00;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    specializzazione in altra disciplina, punti 0,25;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    altre specializzazioni di ciascun gruppo da valutare con i punteggi di cui sopra ridotti del 50 per cento;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    altre lauree, oltre quella richiesta per l'ammissione al concorso comprese tra quelle previste per l'appartenenza al ruolo sanitario, punti 0,50 per ognuna, fino ad un massimo di punti 1,00.
 
 Non e' valutabile la specializzazione fatta valere come requisito di ammissione.
 
@@ -420,11 +2290,210 @@ I concorsi in discipline con accesso riservato a piu' categorie professionali si
 ## Art. 58. — Concorso, per titoli ed esami, per la posizione funzionale di dirigente
  avvocato - Requisiti specifici di ammissione.
 
+1.
+                        
+                            
+                                I requisiti specifici di ammissione al concorso sono i seguenti:
+ 
+                            
+                            
+                                a)
+                                
+                                    diploma di laurea in giurisprudenza;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    titolo di avvocato;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    anzianita' di cinque anni di servizio effettivo corrispondente alla medesima professionalita' prestato in enti del Servizio sanitario nazionale nella posizione funzionale di settimo, ottavo livello, ovvero in qualifiche funzionali di settimo, ottavo e nono livello di altre pubbliche amministrazioni;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    iscrizione all'ordine professionale, attestata da certificato in data non anteriore a sei mesi rispetto a quella di scadenza del bando.
+
 ## Art. 59. — Commissione esaminatrice
+
+1.
+                        
+                            
+                                La commissione esaminatrice e' nominata dal direttore generale della U.s.l. o della azienda ospedaliera ed e' composta da:
+ 
+                            
+                            
+                                a)
+                                
+                                    presidente:
+ il direttore amministrativo della U.s.l. o della azienda ospedaliera o su delega un responsabile di struttura amministrativa;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    componenti:
+ due dirigenti del ruolo professionale del profilo a concorso, di cui uno scelto dal direttore generale nell'ambito del personale in servizio presso le U.s.l. o le aziende ospedaliere situate nel territorio della regione e uno designato dalla regione;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    segretario:
+ un funzionario amministrativo della U.s.l. o della azienda ospedaliera, appartenente ad un livello non inferiore al settimo.
 
 ## Art. 60. — Prove d'esame
 
+1.
+                        
+                            
+                                Le prove d'esame sono le seguenti:
+ 
+                            
+                            
+                                a)
+                                
+                                    prova scritta:
+ svolgimento di un tema in diritto amministrativo o costituzionale o civile o penale;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    prova teorico pratica:
+ predisposizione di atti riguardanti l'attivita' di servizio o stesura di un atto difensionale di diritto e procedura civile o di diritto amministrativo;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    prova orale:
+ colloquio nelle materie delle prove scritte, nonche' su altre materie richieste nel bando di concorso.
+
 ## Art. 61. — P u n t e g g i o
+
+1.
+                        
+                            
+                                La commissione dispone, complessivamente, di 100 punti cosi' ripartiti:
+ 
+                            
+                            
+                                a)
+                                
+                                    20 punti per i titoli;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    80 punti per le prove d'esame.
+
+2.
+                        
+                            
+                                I punti per le prove d'esame sono cosi ripartiti:
+ 
+                            
+                            
+                                a)
+                                
+                                    30 punti per la prova scritta;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    30 punti per la prova pratica;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    20 punti per la prova orale.
+
+3.
+                        
+                            
+                                I punti per la valutazione dei titoli sono cosi' ripartiti:
+ 
+                            
+                            
+                                a)
+                                
+                                    titoli di carriera: 10;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    titoli accademici e di studio: 3;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    pubblicazioni e titoli scientifici: 3;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    curriculum formativo e professionale: 4.
+
+4.
+                        
+                            
+                                Titoli di carriera:
+ 
+                            
+                            
+                                a)
+                                
+                                    servizio di ruolo nel livello a concorso o in livello superiore presso le U.s.l., le aziende ospedaliere, gli enti di cui agli articoli 22 e 23 e presso altre pubbliche amministrazioni, punti 1,00 per anno;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    servizio di ruolo in altra posizione funzionale presso gli enti di cui alla lettera a), punti 0,50.
+
+5.
+                        
+                            
+                                Titoli accademici e di studio:
+ 
+                            
+                            
+                                a)
+                                
+                                    specializzazione di livello universitario in materie attinenti alla posizione funzionale da conferire, punti 1,00 per ognuna;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    altre lauree, oltre quella richiesta per l'ammissione al concorso purche' attinenti alla posizione funzionale da conferire, punti 0,50 per ognuna, fino ad un massimo di punti 1,00.
 
 Per la valutazione delle pubblicazioni, dei titoli scientifici e del curriculum formativo e professionale si applicano i criteri indicati nell'articolo 11.
 
@@ -433,11 +2502,212 @@ Per la valutazione delle pubblicazioni, dei titoli scientifici e del curriculum 
 ## Art. 62. — Concorso, per titoli ed esami, per la posizione funzionale di dirigente:
  ingegnere, architetto, geologo - Requisiti specifici di ammissione.
 
+1.
+                        
+                            
+                                I requisiti specifici di ammissione al concorso sono i seguenti:
+ 
+                            
+                            
+                                a)
+                                
+                                    diploma di laurea rispettivamente in ingegneria nelle branche specifiche da indicarsi nel bando, in architettura, in scienze geologiche;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    abilitazione all'esercizio professionale;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    cinque anni di servizio effettivo corrispondente alla medesima professionalita', relativa al concorso specifico, prestato in enti del Servizio sanitario nazionale nella posizione funzionale di settimo e ottavo livello, ovvero in qualifiche funzionali di settimo, ottavo e nono livello di altre pubbliche amministrazioni;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    iscrizione ai rispettivi albi professionali, attestata da certificato in data non anteriore a sei mesi rispetto a quella di scadenza del bando.
+
 ## Art. 63. — Commissione esaminatrice
+
+1.
+                        
+                            
+                                La commissione esaminatrice e' nominata dal direttore generale della U.s.l. o della azienda ospedaliera:
+ 
+                            
+                            
+                                a)
+                                
+                                    presidente: il direttore amministrativo della U.s.l. o della azienda ospedaliera o su delega un responsabile di struttura riconducibile al settore afferente al concorso;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    componenti: due dirigenti del profilo professionale a concorso, di cui uno scelto dal direttore generale nell'ambito del personale in servizio presso le U.s.l. o le aziende ospedaliere situate nel territorio della regione ed uno designato dalla regione;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    segretario: un funzionario amministrativo della U.s.l. o della azienda ospedaliera, appartenente ad un livello non inferiore al settimo.
 
 ## Art. 64. — Prove d'esame
 
+1.
+                        
+                            
+                                Le prove d'esame per il concorso sono le seguenti:
+ 
+                            
+                            
+                                a)
+                                
+                                    prova scritta:
+ relazione su argomenti scientifici relativi alle materie inerenti al profilo messo a concorso o soluzione di una serie di quesiti a risposta sintetica inerenti alle materie stesse;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    prova teorico pratica:
+ esame e parere scritto su di un progetto o impianto. Per il concorso per la posizione funzionale di geologo: esame e parere scritto sui risultati di dati oro-idrografici e di laboratorio;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    prova orale:
+ colloquio nelle materie delle prove scritte, nonche' su altre materie indicate nel bando di concorso.
+
 ## Art. 65. — P u n t e g g i o
+
+1.
+                        
+                            
+                                La commissione dispone, complessivamente, di 100 punti cosi' ripartiti:
+ 
+                            
+                            
+                                a)
+                                
+                                    20 punti per i titoli;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    80 punti per le prove d'esame.
+
+2.
+                        
+                            
+                                I punti per le prove d'esame sono cosi' ripartiti:
+ 
+                            
+                            
+                                a)
+                                
+                                    30 punti per la prova scritta;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    30 punti per la prova pratica;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    20 punti per la prova orale.
+
+3.
+                        
+                            
+                                I punti per la valutazione dei titoli sono cosi' ripartiti:
+ 
+                            
+                            
+                                a)
+                                
+                                    titoli di carriera: 10;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    titoli accademici e di tudio: 3;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    pubblicazioni e titoli scientifici: 3;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    curriculum formativo e professionale: 4.
+
+4.
+                        
+                            
+                                Titoli di carriera:
+ 
+                            
+                            
+                                a)
+                                
+                                    servizio di ruolo prestato presso le unita' sanitarie locali o le aziende ospedaliere e servizi equipollenti ai sensi degli articoli 22 e 23:
+ 1) nel livello a concorso, o nel livello superiore, punti 1,00 per anno;
+ 2) in posizione funzionale inferiore, punti 0,50 per anno;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    servizio di ruolo presso altre pubbliche amministrazioni:
+ 1) come direttore o dirigente o qualifiche corrispondenti, punti 1,00 per anno;
+ 2) come ispettore generale o direttore di divisione nei ruoli ad esaurimento dello Stato o nell'ottava qualifica funzionale, o in qualifiche corrispondenti, punti 0,50 per anno;
+ 3) come assistente, collaboratore o nella settima qualifica funzionale, o qualifiche corrispondenti, punti 0,30 per anno.
+
+5.
+                        
+                            
+                                Titoli accademici e di studio:
+ 
+                            
+                            
+                                a)
+                                
+                                    specializzazioni di livello universitario, in materie attinenti alla posizione funzionale da conferire, punti 1,00 per ognuna;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    altre lauree, oltre quella richiesta per l'ammissione al concorso per la posizione funzionale iniziale, purche' attinenti al posto da conferire, punti 0,50 per ognuna, fino ad un massimo di punti 1,00.
 
 Per la valutazione delle pubblicazioni, dei titoli scientifici e del curriculum formativo e professionale si applicano i criteri previsti dall'articolo 11.
 
@@ -446,11 +2716,271 @@ Per la valutazione delle pubblicazioni, dei titoli scientifici e del curriculum 
 ## Art. 66. — Concorso, per titoli ed esami, per la posizione funzionale di dirigente
  analista, statistico, sociologo - Requisiti specifici di ammissione.
 
+1.
+                        
+                            
+                                I requisiti specifici di ammissione al concorso per la posizione funzionale di dirigente analista, statistico, sociologo sono i seguenti:
+ 
+                            
+                            
+                                a)
+                                
+                                    analista:
+ 1) diploma di laurea in informatica, in statistica, in matematica, in fisica, in ingegneria nelle branche specifiche da indicarsi nel bando, in economia e commercio o altra laurea con diploma di scuola universitaria di specializzazione specifica da indicarsi nel bando;
+ 2) cinque anni di servizio effettivo corrispondente alla medesima professionalita' prestato in enti del Servizio sanitario nazionale nella posizione funzionale di settimo e ottavo livello, ovvero in qualifiche funzionali di settimo, ottavo e nono livello di altre pubbliche amministrazioni;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    statistico:
+ 1) diploma di laurea in scienze statistiche demografiche e sociali, in scienze statistiche ed attuariali, in scienze statistiche ed economiche o altra laurea equipollente;
+ 2) cinque anni di servizio effettivo corrispondente alla medesima professionalita' prestato in enti del Servizio sanitario nazionale nella posizione funzionale di settimo e ottavo livello, ovvero in qualifiche funzionali di settimo, ottavo e nono livello di altre pubbliche amministrazioni;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    sociologo:
+ 1) diploma di laurea in sociologia o laurea in scienze politiche a indirizzo politico-sociale (sociologico);
+ 2) cinque anni di servizio effettivo corrispondente alla medesima professionalita' prestato in enti del Servizio sanitario nazionale nella posizione funzionale di settimo e ottavo livello, ovvero in qualifiche funzionali di settimo, ottavo e nono livello di altre pubbliche amministrazioni.
+ 3. Iscrizione ai rispettivi albi professionali, ove esistenti, attestata da certificato in data non anteriore a sei mesi, rispetto a quella di scadenza del bando.
+
 ## Art. 67. — Commissione esaminatrice
+
+1.
+                        
+                            
+                                La commissione esaminatrice e' nominata dal direttore generale della U.s.l. o dell'azienda ospedaliera ed e' composta da:
+ 
+                            
+                            
+                                a)
+                                
+                                    presidente:
+ il direttore amministrativo della U.s.l. o dell'azienda ospedaliera o su delega un responsabile di struttura riconducibile al settore afferente al concorso;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    componenti:
+ due dirigenti del profilo a concorso, di cui uno scelto dal direttore generale nell'ambito del personale in servizio presso le U.s.l. o le aziende ospedaliere situate nel territorio della regione ed uno designato dalla regione;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    segretario:
+ un funzionario amministrativo della U.s.l. o dell'azienda ospedaliera, appartenente ad un livello non inferiore al settimo.
 
 ## Art. 68. — Prove d'esame
 
+1.
+                        
+                            
+                                Le prove di esame per il concorso per la posizione funzionale di dirigente analista sono le seguenti:
+ 
+                            
+                            
+                                a)
+                                
+                                    prova scritta:
+ vertente su argomenti attinenti alla applicazione di tecniche rispettivamente di micro e macro computerizzazione o soluzione di quesiti a risposta sintetica nelle materie inerenti al profilo a concorso;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    prova teorico pratica:
+ concernente l'esame di progetti per le applicazioni di sistemi informatici a livello di unita' sanitarie locali o di aziende ospedaliere, con relazione scritta;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    prova orale:
+ colloquio nelle materie delle prove scritte, sull'organizzazione dei servizi sanitari, nonche' su altre materie indicate nel bando di concorso.
+
+2.
+                        
+                            
+                                Le prove di esame per il concorso per la posizione funzionale di dirigente statistico sono le seguenti:
+ 
+                            
+                            
+                                a)
+                                
+                                    prova scritta:
+ concernente argomenti attinenti alla indagine epidemiologica ed alla metodologia statistica nel campo sanitario o soluzione di quesiti a risposta sintetica nelle materie inerenti al profilo a concorso;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    prova teorico pratica:
+ vertente su progetti dell'indagine statistica, delle classificazioni nosologiche e sulle rilevazioni statistiche a livello di U.s.l. o di azienda ospedaliera, con relazione scritta;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    prova orale:
+ colloquio nelle materie delle prove scritte, sulla organizzazione dei servizi sanitari, nonche' su altre materie indicate nel bando di concorso.
+
+3.
+                        
+                            
+                                Le prove di esame per il concorso per la posizione funzionale di dirigente sociologo sono le seguenti:
+ 
+                            
+                            
+                                a)
+                                
+                                    prova scritta:
+ concernente metodologia per la valutazione di un servizio ed i suoi obiettivi in funzione del suo bacino di utenza o soluzione di quesiti a risposta sintetica nelle materie inerenti al profilo a concorso;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    prova teorico pratica:
+ vertente su valutazione ed interpretazione di questionari e di risultati di ricerche socio-sanitarie, con relazione scritta;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    prova orale:
+ colloquio nelle materie delle prove scritte, sulla organizzazione dei servizi sanitari, nonche' su altre materie indicate nel bando di concorso.
+
 ## Art. 69. — P u n t e g g i o
+
+1.
+                        
+                            
+                                La commissione dispone, complessivamente, di 100 punti cosi ripartiti:
+ 
+                            
+                            
+                                a)
+                                
+                                    20 punti per i titoli;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    80 punti per le prove di esame.
+
+2.
+                        
+                            
+                                I punti per le prove di esame sono cosi' ripartiti:
+ 
+                            
+                            
+                                a)
+                                
+                                    30 punti per la prova scritta;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    30 punti per la prova pratica;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    20 punti per la prova orale.
+
+3.
+                        
+                            
+                                I punti per la valutazione dei titoli sono cosi' ripartiti:
+ 
+                            
+                            
+                                a)
+                                
+                                    titoli di carriera: 10;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    titoli accademici e di studio: 3;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    pubblicazioni e titoli scientifici: 3;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    curriculum formativo e professionale: 4.
+
+4.
+                        
+                            
+                                Titoli di carriera:
+ 
+                            
+                            
+                                a)
+                                
+                                    servizio di ruolo prestato presso le unita' sanitarie locali o le aziende ospedaliere e servizi equipollenti ai sensi degli articoli 22 e 23:
+ 1) nel livello dirigenziale a concorso o nel livello superiore, punti 1,00 per anno;
+ 2) nella posizione funzionale inferiore, punti 0,50 per anno;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    servizio di ruolo quale analista o statistico o sociologo presso pubbliche amministrazioni:
+ 1) come direttore o dirigente o qualifiche corrispondenti, punti 1,00 per anno;
+ 2) come ispettore generale o direttore di divisione dei ruoli ad esaurimento dello Stato o nell'ottavo e nono livello o qualifiche corrispondenti ((. . .)), punti 0,50 per anno;
+ 3) come assistente, collaboratore o nel settimo livello o qualifiche corrispondenti, punti 0,30 per anno.
+
+5.
+                        
+                            
+                                Titoli accademici di studio e professionali:
+ 
+                            
+                            
+                                a)
+                                
+                                    specializzazioni di livello universitario, in materie attinenti alla posizione funzionale da conferire, punti 1,00 per ognuna;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    altre lauree, oltre quella richiesta per l'ammissione al concorso purche' attinenti al posto da conferire, punti 0,50 per ognuna, fino ad un massimo di punti 1,00.
 
 Per la valutazione delle pubblicazioni e dei titoli scientifici e del curriculum formativo e professionale si applicano i criteri previsti dall'articolo 11.
 
@@ -459,11 +2989,196 @@ Per la valutazione delle pubblicazioni e dei titoli scientifici e del curriculum
 ## Art. 70. — Concorso, per titoli ed esami, per la posizione funzionale di dirigente
  amministrativo - Requisiti specifici di ammissione.
 
+1.
+                        
+                            
+                                I requisiti specifici di ammissione al concorso sono i seguenti:
+ 
+                            
+                            
+                                a)
+                                
+                                    diploma di laurea in giurisprudenza o in scienze politiche o in economia e commercio o altra laurea equipollente;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    anzianita' di servizio effettivo di almeno cinque anni corrispondente alla medesima professionalita' prestato in enti del Servizio sanitario nazionale nella posizione funzionale di livello settimo, ottavo e ottavo bis, ovvero qualifiche funzionali di settimo, ottavo e nono livello di altre pubbliche amministrazioni.
+
 ## Art. 71. — Commissione esaminatrice
+
+1.
+                        
+                            
+                                La commissione esaminatrice e' nominata dal direttore generale della U.s.l. o dell'azienda ospedaliera ed e' composta da:
+ 
+                            
+                            
+                                a)
+                                
+                                    presidente:
+ il direttore amministrativo della U.s.l. o dell'azienda ospedaliera o, su delega, un responsabile di struttura amministrativa;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    componenti:
+ due dirigenti amministrativi di ruolo di cui uno scelto dal direttore generale nell'ambito del personale in servizio presso le unita' sanitarie locali o le aziende ospedaliere situate nel territorio della regione ed uno designato dalla regione;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    segretario:
+ un funzionario amministrativo della U.s.l. o dell'azienda ospedaliera, appartenente ad un livello non inferiore al settimo.
 
 ## Art. 72. — Prove d'esame
 
+1.
+                        
+                            
+                                Le prove di esame sono le seguenti:
+ 
+                            
+                            
+                                a)
+                                
+                                    prova scritta:
+ su argomenti di diritto amministrativo o costituzionale o soluzione di una serie di quesiti a risposta sintetica nelle suddette materie;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    prova teorico pratica:
+ predisposizione di atti o provvedimenti riguardanti l'attivita' del servizio;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    prova orale:
+ vertente sulle materie oggetto della prova scritta nonche' sulle seguenti materie: diritto civile, contabilita' di Stato, leggi e regolamenti concernenti il settore sanitario, elementi di diritto del lavoro e di legislazione sociale, elementi di economia politica e scienze delle finanze, elementi di diritto penale.
+
 ## Art. 73. — Punteggio
+
+1.
+                        
+                            
+                                La commissione dispone, complessivamente, di 100 punti cosi' ripartiti:
+ 
+                            
+                            
+                                a)
+                                
+                                    20 punti per i titoli;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    80 punti per le prove di esame.
+
+2.
+                        
+                            
+                                I punti per le prove di esame sono cosi' ripartiti:
+ 
+                            
+                            
+                                a)
+                                
+                                    30 punti per la prova scritta;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    30 punti per la prova pratica;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    20 punti per la prova orale.
+
+3.
+                        
+                            
+                                I punti per la valutazione dei titoli sono cosi' ripartiti:
+ 
+                            
+                            
+                                a)
+                                
+                                    titoli di carriera: 10;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    titoli accademici, di studio: 3;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    pubblicazioni e titoli scientifici: 3;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    curriculum formativo e professionale: 4.
+
+4.
+                        
+                            
+                                Titoli di carriera:
+ 
+                            
+                            
+                                a)
+                                
+                                    servizio di ruolo nella posizione funzionale del profilo a concorso o in posizione funzionale superiore o nella medesima professionalita' in posizione funzionale di livello ottavo e ottavo bis presso enti del Servizio sanitario nazionale ovvero in qualifiche funzionali di ottavo e nono livello di altre pubbliche amministrazioni, punti 1,00 per anno;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    servizio di ruolo di medesima professionalita' nella posizione funzionale di settimo livello presso enti del Servizio sanitario nazionale ovvero in qualifiche funzionali di settimo livello di altre pubbliche amministrazioni, punti 0,50 per anno.
+
+5.
+                        
+                            
+                                Titoli accademici di studio:
+ 
+                            
+                            
+                                a)
+                                
+                                    specializzazioni di livello universitario, in materie attinenti alla posizione funzionale da conferire, punti 1,00 per ognuna;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    altre lauree, oltre quella richiesta per l'ammissione al concorso, purche' attinenti alla posizione funzionale da conferire, punti 0,50 per ognuna, fino ad un massimo di punti 1,00.
 
 Per la valutazione delle pubblicazioni e dei titoli scientifici e del curriculum formativo e professionale si applicano i criteri previsti dall'articolo 11.
 

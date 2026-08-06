@@ -8,8 +8,8 @@ codice_redazionale: 008G0009
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:39Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -29,6 +29,31 @@ Udito il parere del Consiglio di Stato, espresso dalla sezione consultiva per gl
 L'iscrizione nell'elenco regionale delle scuole non paritarie e' disposta, su domanda, dall'ufficio scolastico regionale competente per territorio.
 
 La domanda e' presentata dal gestore o dal rappresentante legale del gestore all'ufficio scolastico della regione in cui la scuola ha sede, entro il termine del 31 marzo di ciascun anno. Essa contiene la dichiarazione del possesso dei requisiti di cui all'articolo 1-bis, comma 4, del decreto-legge 5 dicembre 2005, n. 250, convertito, con modificazioni, dalla legge 3 febbraio 2006, n. 27.
+
+3.
+                    
+                        
+                            Alla domanda deve essere allegata, in particolare, la documentazione riguardante:
+ 
+                        
+                        
+                            a)
+                            
+                                la predisposizione di un progetto educativo della scuola, adottato in armonia con i principi costituzionali;
+
+                            
+                        
+                        
+                            b)
+                            
+                                la predisposizione delle linee essenziali del piano dell'offerta formativa elaborato in conformita' agli ordinamenti vigenti;
+
+                            
+                        
+                        
+                            c)
+                            
+                                la disponibilita' di locali, arredi e attrezzature conformi alle norme vigenti in materia di igiene e sicurezza di locali scolastici e adeguati alla funzione, in relazione al numero degli studenti.
 
 Per le scuole dell'infanzia che richiedono l'iscrizione negli elenchi regionali delle scuole non paritarie, si prescinde dal possesso del requisito relativo alla correlazione dell'attivita' didattica al conseguimento di un titolo di studio.
 

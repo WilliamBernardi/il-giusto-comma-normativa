@@ -8,8 +8,8 @@ codice_redazionale: 090G0107
 vigente: true
 source: normattiva-opendata
 collection: DPR
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:47:53Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -55,6 +55,24 @@ Sono trasferiti alla regione le funzioni amministrative ed i compiti gia' attrib
  Istituto nazionale per le assicurazioni contro gli infortuni sul lavoro (I.N.A.I.L.).
 
 ## Art. 4.
+
+1.
+                        
+                            
+                                Unitamente alle funzioni ed ai compiti di cui all'art. 3, passano alla regione:
+ 
+                            
+                            
+                                a)
+                                
+                                    le strutture operative e gli uffici degli enti ivi considerati, esistenti nel Friuli-Venezia Giulia;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    i beni mobili ed immobili, di spettanza dei medesimi, esistenti nel Friuli-Venezia Giulia ed amministrati dall'ufficio stralcio di cui all'art. 119 del decreto del Presidente della Repubblica 24 luglio 1977, n. 616.
 
 Per l'attuazione di quanto disposto nel comma 1, si segue il procedimento stabilito dall'art. 6 del decreto del Presidente della Repubblica 18 dicembre 1979, n. 839, facendosi decorrere il termine ivi stabilito dalla data di entrata in vigore del presente decreto.
 

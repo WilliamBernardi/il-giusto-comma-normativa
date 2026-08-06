@@ -8,8 +8,8 @@ vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
 vigenza_date: 2019-12-31
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:28Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -36,11 +36,114 @@ All'articolo 1, comma 1, della legge 28 gennaio 1994, n. 84, e' inserito, in fin
 ## Art. 2. — Modifiche all'articolo 2 
  della legge 28 gennaio 1994, n. 84
 
+1.
+                    
+                        
+                            All'articolo 2, della legge 28 gennaio 1994, n. 84, sono apportate le seguenti modifiche: 
+ 
+                        
+                        
+                            a)
+                            
+                                la rubrica e' cosi' sostituita: «Organizzazioni portuali, autorita' di sistema portuale, uffici territoriali portuali e autorita' marittime»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 2, le parole: «autorita' portuali» sono sostituite dalle seguenti: «autorita' di sistema portuale»; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                dopo il comma 2, e' inserito il seguente: «2-bis. Sono uffici territoriali portuali ai sensi della presente legge le strutture di cui all'articolo 6-bis.».
+
 ## Art. 3. — Modifiche all'articolo 3 
  della legge 28 gennaio 1994, n. 84
 
+1.
+                    
+                        
+                            All'articolo 3, comma 1, della legge 28 gennaio 1994, n. 84, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                dopo le parole «comando generale del Corpo delle capitanerie di porto» sono inserite le seguenti: «- Guardia costiera»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                le parole «Ministero dei trasporti e della navigazione» sono sostituite dalle parole «Ministero delle infrastrutture e dei trasporti» ovunque ricorrano; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                le parole: «l'articolo 3 del decreto legislativo del Capo provvisorio dello Stato 31 marzo 1947, n. 396, e svolge le attribuzioni di cui al regio decreto 19 febbraio 1940, n. 194, e successive modificazioni e integrazioni» sono sostituite dalle seguenti: «il decreto del Presidente del Consiglio dei ministri 11 febbraio 2014, n. 72, e svolge le attribuzioni previste dalle disposizioni vigenti»; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                l'ultimo periodo e' sostituito dal seguente: «Le capitanerie di porto dipendono funzionalmente dal Ministero dell'ambiente e della tutela del territorio e del mare e dal Ministero delle politiche agricole alimentari e forestali, per le materie di rispettiva competenza.».
+
 ## Art. 4. — Modifiche all'articolo 4 
  della legge 28 gennaio 1994, n. 84
+
+1.
+                    
+                        
+                            All'articolo 4, della legge 28 gennaio 1994, n. 84, sono apportate le seguenti modifiche: 
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 1-bis, le parole: «autorita' portuale» sono sostituite dalle seguenti: «autorita' di sistema portuale»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 2, le parole: «i Ministri dei trasporti e della navigazione e dei lavori pubblici» sono sostituite dalle seguenti: «il Ministro delle infrastrutture e dei trasporti»; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                al comma 3, alla lettera a), dopo la parola: «commerciale» inserire le seguenti: «e logistica» e alla lettera c), dopo la parola: «passeggeri» inserire le seguenti: «, ivi compresi i crocieristi»; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                al comma 4, le parole: «autorita' portuali» sono sostituite dalle seguenti: «autorita' di sistema portuale» e le parole: «dei trasporti e della navigazione» sono sostituite dalle seguenti: «delle infrastrutture e dei trasporti»; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                al comma 5, le parole: «dei trasporti e della navigazione» sono sostituite dalle seguenti: «delle infrastrutture e dei trasporti»; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                al comma 6, le parole: «autorita' portuali» sono sostituite dalle seguenti: «autorita' di sistema portuale» e le parole: «dei trasporti e della navigazione» sono sostituite dalle seguenti: «delle infrastrutture e dei trasporti».
 
 ## Art. 5. — Introduzione dell'articolo 4-bis 
  alla legge 28 gennaio 1994, n. 84
@@ -56,10 +159,161 @@ Dopo l'articolo 4, inserire il seguente:
 ## Art. 6. — Modifiche all'articolo 5 
  della legge 28 gennaio 1994, n. 84
 
+1.
+                    
+                        
+                            All'articolo 5, della legge 28 gennaio 1994, n. 84, sono apportate le seguenti modifiche: 
+ 
+                        
+                        
+                            a)
+                            
+                                la rubrica e' sostituita dalla seguente: «(Programmazione e realizzazione delle opere portuali. Piano regolatore di sistema portuale e piano regolatore portuale)»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                il comma 1, e' sostituto dai seguenti: «1. Nei porti ricompresi nelle circoscrizioni territoriali di cui all'articolo 6, comma 1, l'ambito e l'assetto complessivo dei porti costituenti il sistema, ivi comprese le aree destinate alla produzione industriale, all'attivita' cantieristica e alle infrastrutture stradali e ferroviarie, sono delimitati e disegnati dal piano regolatore di sistema portuale, che individua, altresi', le caratteristiche e la destinazione funzionale delle aree interessate. Il Ministero delle infrastrutture e dei trasporti, su proposta del Consiglio superiore dei lavori pubblici, entro il 30 novembre 2016, predispone apposite linee guida per la redazione dei piani regolatori di sistema portuale, delle varianti stralcio e degli adeguamenti tecnico funzionali. 
+ 1-bis. Nei porti di cui alla categoria II, classe III, con esclusione di quelli aventi le funzioni di cui all'articolo 4, comma 3, lettera e), l'ambito e l'assetto complessivo del porto, ivi comprese le aree destinate alla produzione industriale, all'attivita' cantieristica e alle infrastrutture stradali e ferroviarie, sono delimitati e disegnati dal piano regolatore portuale, che individua, altresi', le caratteristiche e la destinazione funzionale delle aree interessate.»; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                il comma 3 e' sostituito dai seguenti: «3. Nei porti di cui al comma 1 nei quali e' istituita l'autorita' di sistema portuale, il piano regolatore di sistema portuale, corredato del rapporto ambientale di cui al decreto legislativo n. 152 del 2006, e' adottato dal comitato di gestione di cui all'articolo 9, previa intesa con il comune o i comuni interessati. Tale piano e', quindi, inviato per il parere al Consiglio superiore dei lavori pubblici, che si esprime entro quarantacinque giorni dal ricevimento dell'atto. Decorso inutilmente tale termine, il parere si intende reso in senso favorevole. Il piano, esaurita la procedura di cui al presente comma e a quella di cui al comma 4, e' approvato dalla regione interessata entro trenta giorni decorrenti dalla conclusione della procedura VAS, previa intesa con il Ministro delle infrastrutture e dei trasporti.
+Qualora non si raggiunga l'intesa si applica la procedura di cui all'articolo 14-quater della legge 7 agosto 1990, n. 241. 
+ 3-bis. Nei porti di cui al comma 1-bis, nei quali non e' istituita l'AdSP, il piano regolatore e' adottato e approvato dalla Regione di pertinenza o, ove istituita, dall'autorita' di sistema portuale regionale, previa intesa con il comune o i comuni interessati, ciascuno per il proprio ambito di competenza, nel rispetto delle normative vigenti e delle proprie norme regolamentari. Sono fatte salve, altresi', le disposizioni legislative regionali vigenti in materia di pianificazione dei porti di interesse regionali. 
+ 3-ter. Il Piano Regolatore di Sistema Portuale delle AdSP di cui al comma 1, la cui circoscrizione territoriale e' ricompresa in piu' Regioni, e' approvato con atto della Regione ove ha sede la stessa AdSP, previa intesa con le Regioni nel cui territorio sono ricompresi gli altri porti amministrati dalla stessa AdSP e con il Ministro delle infrastrutture e dei trasporti.»; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                il comma 4 e' sostituito dal seguente: «4. I piani di cui ai commi 1 e 1-bis sono sottoposti, ai sensi della normativa vigente in materia, alla procedura di VAS.»; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                al comma 5, dopo le parole: «dei porti» sono inserite le seguenti: «di cui ai commi 1 e 1-bis» e sono, in fine, aggiunti i seguenti periodi: «Le varianti al Piano regolatore di Sistema Portuale seguono il medesimo procedimento previsto per l'adozione del Piano Regolatore di Sistema Portuale. Il Presidente del comitato di gestione dell'autorita' del sistema portuale, autonomamente o su richiesta della regione o del Comune interessati, puo' promuovere al Comitato di gestione, per la successiva adozione, varianti-stralcio concernenti la qualificazione funzionale del singolo scalo marittimo.
+Le varianti-stralcio al piano regolatore di sistema portuale, relative al singolo scalo marittimo, sono sottoposte al procedimento previsto per l'approvazione del piano regolatore di sistema portuale, fermo restando che in luogo della previa intesa con il comune o i comuni interessati e' prevista l'acquisizione della dichiarazione di non contrasto con gli strumenti urbanistici vigenti da parte dei medesimi comuni e che in luogo della procedura di VAS si svolge la procedura di verifica di assoggettabilita' a VAS ai sensi dell'articolo 12 del decreto legislativo n. 152 del 2006. Le varianti-stralcio di porti ricompresi in una AdSP la cui circoscrizione territoriale ricade in piu' Regioni, e' approvato con atto della Regione nel cui territorio e' ubicato il porto oggetto di variante-stralcio, sentite le Regioni nel cui territorio sono ricompresi gli altri porti amministrati dalla medesima AdSP, previa intesa con il Ministero delle infrastrutture e dei trasporti. Le modifiche che non alterano in modo sostanziale la struttura del piano regolatore di sistema portuale in termini di obiettivi, scelte strategiche e caratterizzazione funzionale delle aree portuali, relativamente al singolo scalo marittimo, costituiscono adeguamenti tecnico-funzionali del piano regolatore di sistema portuale. Gli adeguamenti tecnico-funzionali sono adottati dal Comitato di gestione dell'Autorita' di sistema portuale, previa acquisizione della dichiarazione di non contrasto con gli strumenti urbanistici vigenti da parte del comune o dei comuni interessati. E' successivamente acquisito il parere del Consiglio superiore dei lavori pubblici, che si esprime entro quarantacinque giorni, decorrenti dalla ricezione della proposta di adeguamento tecnico funzionale. L'adeguamento tecnico funzionale e' approvato con atto della Regione nel cui territorio e' ubicato il porto interessato dall'adeguamento medesimo.»; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                dopo il comma 5, e' inserito il seguente: «5-bis. L'esecuzione delle opere nei porti da parte della Autorita' di Sistema Portuale e' autorizzata ai sensi della normativa vigente. Fatto salvo quanto previsto dall'articolo 5-bis, nonche' dalle norme vigenti in materia di autorizzazione di impianti e infrastrutture energetiche, nonche' di opere ad essi connesse, l'esecuzione di opere nei porti da parte di privati e' autorizzata, sotto tutti i profili rilevanti, in esito ad apposita conferenza di servizi convocata dalla autorita' di sistema portuale o, laddove non istituita, dalla autorita' marittima, ai sensi dell'articolo 14 della legge 7 agosto 1990, n. 241 e successive modifiche ed integrazioni, a cui sono chiamate tutte le Amministrazioni competenti.»; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                al comma 8, le parole da: «Le disposizioni» fino a «statuti.» sono soppresse; «autorita' portuale» sono sostituite dalle seguenti: «autorita' di sistema portuale» e le parole: «autorita' portuali» sono sostituite dalle seguenti: «autorita' di sistema portuale»; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                al comma 10, le parole: «dei trasporti e della navigazione» sono sostituite dalle seguenti: «delle infrastrutture e dei trasporti» e le parole: «autorita' portuali» sono sostituite dalle seguenti: «autorita' di sistema portuale»; 
+
+                            
+                        
+                        
+                            i)
+                            
+                                al comma 11, le parole: «dei trasporti e della navigazione» sono sostituite dalle seguenti: «delle infrastrutture e dei trasporti».
+
 All'articolo 5-bis della legge 28 gennaio 1994, n. 84, il comma 7 e' abrogato.
 
 ## Art. 7. — Modifiche all'articolo 6 
  della legge 28 gennaio 1994, n. 84
+
+1.
+                    
+                        
+                            L'articolo 6 della legge 28 gennaio 1994, n. 84, e' sostituito dal seguente: 
+ «Art. 6 (Autorita' di sistema portuali). - 1. Sono istituite quindici Autorita' di Sistema Portuale: 
+ a) del Mare Ligure occidentale; 
+ b) del Mare Ligure orientale; 
+ c) del Mar Tirreno settentrionale; 
+ d) del Mar Tirreno centro-settentrionale; 
+ e) del Mar Tirreno centrale; 
+ f) dei Mari Tirreno meridionale e Jonio e dello Stretto; 
+ g) del Mare di Sardegna; 
+ h) del Mare di Sicilia occidentale; 
+ i) del Mare di Sicilia orientale; 
+ l) del Mare Adriatico meridionale; 
+ m) del Mare Ionio; 
+ n) del Mare Adriatico centrale; 
+ o) del Mare Adriatico centro-settentrionale; 
+ p) del Mare Adriatico settentrionale; 
+ q) del Mare Adriatico orientale. 
+ 2. I porti rientranti nelle AdSP di cui al comma 1, sono indicati nell'Allegato A, che costituisce parte integrante della presente legge, fatto salvo quanto previsto dal comma 2-bis e dall'articolo 22, comma 2. 
+ 2-bis. Con regolamento, da adottare, su proposta del Ministro delle infrastrutture e dei trasporti, ai sensi dell'articolo 17, comma 2, della legge 23 agosto 1988, n. 400, possono essere apportate, su richiesta motivata del Presidente della Regione interessata, modifiche all'allegato A alla presente legge, al fine di consentire: 
+ a) l'inserimento di un porto di rilevanza economica regionale o di un porto di rilevanza economica nazionale la cui gestione e' stata trasferita alla regione all'interno del sistema dell'AdSP territorialmente competente; 
+ b) il trasferimento di un porto a una diversa AdSP, previa intesa con la Regione nel cui territorio ha sede l'AdSP di destinazione.». 
+ 3. Sede della AdSP e' la sede del porto centrale, individuato nel Regolamento (UE) n. 1315/2013 del Parlamento europeo e del Consiglio, dell'11 dicembre 2013, ricadente nella stessa AdSP. In caso di due o piu' porti centrali ricadenti nella medesima AdSP il Ministro indica la sede della stessa. Il Ministro, su proposta motivata della regione o delle regioni il cui territorio e' interessato dall'AdSP, ha facolta' di individuare in altra sede di soppressa Autorita' Portuale aderente alla AdSP, la sede della stessa. 
+ 4. L'AdSP nel perseguimento degli obiettivi e delle finalita' di cui all'articolo 1 svolge i seguenti compiti: 
+ 
+                        
+                        
+                            a)
+                            
+                                indirizzo, programmazione, coordinamento, regolazione, promozione e controllo, anche mediante gli uffici territoriali portuali secondo quanto previsto all'articolo 6-bis, comma 1, lettera c), delle operazioni e dei servizi portuali, delle attivita' autorizzatorie e concessorie di cui agli articoli 16, 17 e 18 e delle altre attivita' commerciali ed industriali esercitate nei porti e nelle circoscrizioni territoriali. All'autorita' di sistema portuale sono, altresi', conferiti poteri di ordinanza, anche in riferimento alla sicurezza rispetto a rischi di incidenti connessi alle attivita' e alle condizioni di igiene sul lavoro ai sensi dell'articolo 24; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                manutenzione ordinaria e straordinaria delle parti comuni nell'ambito portuale, ivi compresa quella per il mantenimento dei fondali; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                affidamento e controllo delle attivita' dirette alla fornitura a titolo oneroso agli utenti portuali di servizi di interesse generale, non coincidenti ne' strettamente connessi alle operazioni portuali di cui all'articolo 16, comma 1, individuati con decreto del Ministro delle infrastrutture e dei trasporti; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                coordinamento delle attivita' amministrative esercitate dagli enti e dagli organismi pubblici nell'ambito dei porti e nelle aree demaniali marittime comprese nella circoscrizione territoriale; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                amministrazione in via esclusiva delle aree e dei beni del demanio marittimo ricompresi nella propria circoscrizione; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                promuove forme di raccordo con i sistemi logistici retro portuali e interportuali. 
+ 5. L'AdSP e' ente pubblico non economico di rilevanza nazionale a ordinamento speciale ed e' dotato di autonomia amministrativa, organizzativa, regolamentare, di bilancio e finanziaria. Ad essa non si applicano le disposizioni della legge 20 marzo 1975, n. 70, e successive modificazioni. Si applicano i principi di cui al titolo I del decreto legislativo 30 marzo 2001, n. 165. Le AdSP adeguano i propri ordinamenti ai predetti principi e adottano, con propri provvedimenti, criteri e modalita' per il reclutamento del personale dirigenziale e non dirigenziale nel rispetto dei principi di cui all'articolo 35, comma 3, del medesimo decreto legislativo. I medesimi provvedimenti disciplinano, secondo criteri di trasparenza ed imparzialita', le procedure di conferimento degli incarichi dirigenziali e di ogni altro incarico. Gli atti adottati in attuazione del presente comma sono sottoposti all'approvazione del Ministero delle infrastrutture e dei trasporti. Per il Presidente dell'AdSP e il Segretario generale si applicano le disposizioni di cui agli articoli 8 e 10. Per il periodo di durata dell'incarico di Presidente dell'AdSP e di Segretario generale, i dipendenti delle pubbliche amministrazioni sono collocati in aspettativa senza assegni, con riconoscimento dell'anzianita' di servizio. 
+ 6. Il personale dirigenziale e non dirigenziale delle istituite AdSP e' assunto mediante procedure selettive di natura comparativa, secondo principi di adeguata pubblicita', imparzialita', oggettivita' e trasparenza, in coerenza con quanto stabilito dall'articolo 10, comma 6. 
+ 7. L'AdSP e' sottoposta ai poteri di indirizzo e vigilanza del Ministro delle infrastrutture e dei trasporti ai sensi dell'articolo 12. Ferma restando la facolta' di attribuire l'attivita' consultiva in materia legale e la rappresentanza a difesa dell'AdSP dinanzi a qualsiasi giurisdizione, nel rispetto della disciplina dell'ordinamento forense, agli avvocati dell'ufficio legale interno della stessa Autorita' o ad avvocati del libero foro, le AdSP possono valersi del patrocinio dell'Avvocatura di Stato. 
+ 8. La gestione contabile e finanziaria di ciascuna AdSP e' disciplinata da un regolamento proposto dal Presidente dell'AdSP, deliberato dal Comitato di gestione di cui all'articolo 9 e approvato dal Ministro delle infrastrutture e dei trasporti, di concerto con il Ministro dell'economia e delle finanze. Si applicano, altresi', le disposizioni attuative dell'articolo 2 della legge 31 dicembre 2009, n. 196, in materia di armonizzazione dei sistemi contabili di cui al decreto legislativo 31 maggio 2011, n. 91. Il conto consuntivo delle autorita' di sistema portuale e' allegato allo stato di previsione del Ministero delle infrastrutture e dei trasporti per l'esercizio successivo a quello di riferimento. Le AdSP assicurano il massimo livello di trasparenza sull'uso delle proprie risorse e sui risultati ottenuti, secondo le previsioni del decreto legislativo 14 marzo 2013, n. 33. 
+ 9. Il rendiconto della gestione finanziaria dell'autorita' di sistema portuale e' soggetto al controllo della Corte dei conti. 
+ 10. L'esecuzione delle attivita' di cui al comma 4, lettera b) e c) e' affidata in concessione dall'AdSP mediante procedura di evidenza pubblica, secondo quanto previsto dal decreto legislativo 18 aprile 2016, n. 50. 
+ 11. Le AdSP non possono svolgere, ne' direttamente ne' tramite societa' partecipate, operazioni portuali e attivita' ad esse strettamente connesse. Con le modalita' e le procedure di cui all'articolo 15 della legge 7 agosto 1990, n. 241 e successive modifiche ed integrazioni, l'AdSP puo' sempre disciplinare lo svolgimento di attivita' e servizi di interesse comune e utili per il piu' efficace compimento delle funzioni attribuite, in collaborazione con Regioni, enti locali e amministrazioni pubbliche. Essa puo', inoltre, assumere partecipazioni, a carattere societario di minoranza, in iniziative finalizzate alla promozione di collegamenti logistici e intermodali, funzionali allo sviluppo del sistema portuale, ai sensi dell'articolo 46 del decreto-legge 6 dicembre 2011, n. 201, convertito, con modificazioni, dalla legge 22 dicembre 2011, n. 214. 
+ 12. E' fatta salva la disciplina vigente per i punti franchi compresi nella zona del porto franco di Trieste. Sono fatte salve, altresi', le discipline vigenti per i punti franchi delle zone franche esistenti in altri ambiti portuali. Il Ministro delle infrastrutture e dei trasporti, di concerto con il Ministro dell'economia e delle finanze, sentita l'AdSP territorialmente competente, con proprio decreto stabilisce l'organizzazione amministrativa per la gestione di detti punti. 
+ 13. All'interno delle circoscrizioni portuali, le AdSP amministrano, in via esclusiva, in forza di quanto previsto dalla presente legge e dal codice della navigazione, le aree e i beni del demanio marittimo, fatte salve le eventuali competenze regionali e la legislazione speciale per la salvaguardia di Venezia e della sua Laguna. Per la gestione delle attivita' inerenti le funzioni sul demanio marittimo le AdSP si avvalgono del Sistema informativo del demanio marittimo (S.I.D.).». 
+ 14. Decorsi tre anni dalla data di entrata in vigore del decreto di cui all'articolo 8, comma 1, lettera f), della legge 7 agosto 2015, n. 124, con decreto del Presidente della Repubblica, su proposta del Ministro delle infrastrutture e dei trasporti, ai sensi dell'articolo 17, comma 2, della legge 23 agosto 1988, n. 400, valutate le interazioni fra le piattaforme logistiche e i volumi di traffico, puo' essere ulteriormente ridotto il numero delle AdSP; sullo schema di regolamento e', altresi', acquisito il parere della Conferenza unificata di cui all'articolo 8 del decreto legislativo 28 agosto 1997, n. 281. Con la medesima procedura sono individuati i volumi di traffico minimo al venir meno dei quali le autorita' di sistema portuale sono soppresse e le relative funzioni sono accorpate. 
+ 15. Con decreto del Presidente della Repubblica, su proposta del Ministro delle infrastrutture e dei trasporti, ai sensi dell'articolo 17, comma 2, della legge 23 agosto 1988, n. 400, previo parere della Conferenza unificata di cui all'articolo 8 del decreto legislativo 28 agosto 1997, n. 281, possono essere modificati i limiti territoriali di ciascuna delle istituite autorita' di sistema portuale.».
 
 ## Art. 8. — Introduzione dell'articolo 6-bis 
  alla legge 28 gennaio 1994, n. 84
@@ -143,6 +397,59 @@ L'articolo 9 della legge 28 gennaio 1994, n. 84, e' sostituito dal seguente:
 ## Art. 12. — Modifiche all'articolo 10 
  della legge 28 gennaio 1994, n. 84
 
+1.
+                    
+                        
+                            All'articolo 10 della legge 28 gennaio 1994, n. 84, sono apportate le seguenti modifiche: 
+ 
+                        
+                        
+                            a)
+                            
+                                il comma 2, e' sostituito dal seguente: «2. Il Segretario generale e' nominato dal Comitato di gestione, su proposta del presidente dell'AdSP, scelto tra esperti di comprovata esperienza manageriale o qualificazione professionale nel settore disciplinato dalla presente legge nonche' nelle materie amministrativo-contabili.»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 3, al secondo periodo, le parole: «in qualsiasi momento» sono soppresse, dopo la parola: «proposta» e' inserita la seguente: «motivata» e la parola: «portuale» e' sostituita dalle seguenti: «di gestione»; e' aggiunto il seguente periodo: «Il Segretario generale e' soggetto all'applicazione della disciplina dettata in materia di responsabilita' dirigenziale, incompatibilita', cumulo di impieghi e incarichi di cui all'articolo 53 del decreto legislativo 30 marzo 2001, n. 165 e del decreto legislativo 8 aprile 2013, n. 39, nonche' sui limiti retributivi di cui all'articolo 23-ter del decreto-legge n. 201 del 2011, convertito, con modificazioni, dalla legge n. 214 del 2011. Il contratto di diritto privato stipulato dal Segretario generale si conforma alla contrattazione collettiva di riferimento delle AdSP.»; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                al comma 4, alla lettera b), le parole: «autorita' portuale» sono sostituite dalle seguenti: «autorita' di sistema portuale e sovrintende e coordina le attivita' degli uffici territoriali portuali di cui all'articolo 6-bis della presente legge»; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                al comma 4, lettere c),
+                            
+                        
+                        
+                            e)
+                            
+                                e g), la parola: «portuale» e' sostituita dalle seguenti: «di gestione»; 
+ e) al comma 4, lettera f), dopo la parola: «regolatore» sono inserite le seguenti: «di sistema»; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                al comma 5, le parole: «organizzazioni portuali» sono sostituite dalle seguenti: «soppresse autorita' portuali»; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                al comma 6, le parole: «autorita' portuali», ovunque ricorrono, sono sostituite dalle seguenti: «autorita' di sistema portuali» e le parole: «dei trasporti e della navigazione» sono sostituite dalle seguenti: «delle infrastrutture e dei trasporti».
+
 ## Art. 13. — Modifiche all'articolo 11 
  della legge 28 gennaio 1994, n. 84
 
@@ -190,11 +497,82 @@ Presso ciascuna autorita' di sistema portuale e' istituito l'Organismo di parten
 ## Art. 15. — Modifiche all'articolo 12 
  della legge 28 gennaio 1994, n. 84
 
+1.
+                    
+                        
+                            All'articolo 12 della legge 28 gennaio 1994, n. 84, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                la rubrica e' cosi' sostituita: «Indirizzo e vigilanza sulle autorita' di sistema portuali»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 1 dopo la parola: «autorita'» inserire le parole: «di sistema», dopo la parola: «sottoposta» inserire le parole: «all'indirizzo e», e le parole: «dei trasporti e della navigazione» sono sostituite dalle seguenti: «delle infrastrutture e dei trasporti»; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                al comma 2 la parola: «portuale» e' sostituita dalle seguenti: «di gestione»; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                al comma 3 le parole: «dei trasporti e della navigazione di concerto con il Ministro del tesoro» sono sostituite dalle seguenti: «delle infrastrutture e dei trasporti di concerto con il Ministro dell'economia e delle finanze».
+
 ## Art. 16. — Modifiche all'articolo 14 
  della legge 28 gennaio 1994, n. 84
 
+1.
+                    
+                        
+                            All'articolo 14 della legge 28 gennaio 1994, n. 84, sono apportate le seguenti modifiche: 
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 1 le parole: «dei trasporti e della navigazione» sono sostituite dalle seguenti: «delle infrastrutture e dei trasporti»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 1-bis, le parole: «dei trasporti e della navigazione» sono sostituite dalle seguenti: «delle infrastrutture e dei trasporti» e dopo le parole: «delle autorita'» sono inserite le seguenti: «di sistema»; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                al comma 1-ter, le parole: «autorita' portuale» sono sostituite dalle seguenti: «autorita' di sistema portuale» e le parole: «dei trasporti e della navigazione» sono sostituite dalle seguenti: «delle infrastrutture e dei trasporti».
+
 ## Art. 17. — Modifiche all'articolo 15 
  della legge 28 gennaio 1994, n. 84
+
+1.
+                    
+                        
+                            All'articolo 15 della legge 28 gennaio 1994, n. 84, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                il comma 1 e' sostituito dal seguente: «1. Con decreto del Ministero delle infrastrutture e dei trasporti e' istituita, in ogni porto, una commissione consultiva composta da cinque rappresentanti dei lavoratori delle imprese operanti in porto, da un rappresentante dei lavoratori dell'Autorita' di sistema portuale e da un rappresentante di ciascuna delle seguenti categorie imprenditoriali operanti nel porto: armatori; industriali; imprenditori di cui agli articoli 16 e 18 della medesima legge n. 84; spedizionieri; agenti e raccomandatari marittimi; autotrasportatori operanti nell'ambito portuale; 
+ b) il comma 1-bis e' sostituito dal seguente: «1-bis. I rappresentanti dei lavoratori sono designati dalle organizzazioni sindacali maggiormente rappresentative a livello nazionale, i rappresentanti delle categorie imprenditoriali sono designati dalle rispettive associazioni nazionali di categoria, il rappresentante degli autotrasportatori e' designato dal comitato centrale dell'albo degli autotrasportatori. Nei porti che non sono sede di Autorita' di sistema portuale o degli uffici di cui all'articolo 6-bis, i rappresentanti dei lavoratori delle imprese operanti in porto sono in numero di sei. La commissione e' presieduta dal Presidente dell'Autorita' di sistema portuale ovvero, laddove non istituita, dal comandante del porto. La designazione dei rappresentanti dei lavoratori e delle categorie imprenditoriali indicate al comma 1 deve pervenire al Ministero delle infrastrutture e dei trasporti entro trenta giorni dalla richiesta; l'inutile decorso del termine non pregiudica il funzionamento dell'organo; 
+ c) al comma 2, le parole: «delle autorizzazioni e delle concessioni di cui rispettivamente agli articoli 16 e 18» sono sostituite dalle seguenti: «delle autorizzazioni di cui all'articolo 17»; 
+ d) il comma 3 e' abrogato.
 
 ## Art. 18. — Introduzione dell'articolo 15-bis alla legge 28 gennaio 1994, n. 84
 
@@ -205,6 +583,24 @@ Dopo l'articolo 15 della legge 28 gennaio 1994, n. 84, e' inserito il seguente:
 
 ## Art. 19. — Modifiche all'articolo 18-bis 
  della legge 28 gennaio 1994, n. 84
+
+1.
+                    
+                        
+                            All'articolo 18-bis, della legge 28 gennaio 1994, n. 84, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 3, le parole: «Le autorita' portuali» sono sostituite dalle seguenti: «Le autorita' di sistema portuali»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 5, le parole: «le autorita' portuali» sono sostituite dalle seguenti: «le autorita' di sistema portuali».
 
 ## Art. 20. — Sportello unico doganale e dei controlli
 
@@ -232,6 +628,31 @@ I limiti territoriali delle AdSP individuate nell'allegato A che, ai sensi di cu
 Fino all'approvazione del regolamento di contabilita' di cui all'articolo 6, comma 9, della legge n. 84 del 1994, come modificato dal presente decreto, l'autorita' di sistema portuale applica il regolamento di contabilita' della soppressa autorita' portuale dove ha sede la stessa autorita' di sistema portuale. I bilanci delle soppresse autorita' portuali che costituiscono l'autorita' di sistema portuale sono mantenuti distinti fino alla chiusura dell'esercizio finanziario in corso all'entrata in vigore del presente decreto.
 
 Le AdSP subentrano alle Autorita' portuali cessate nella proprieta' e nel possesso dei beni ed in tutti i rapporti giuridici in corso, ivi compresi quelli lavorativi.
+
+6.
+                    
+                        
+                            Nei porti di cui all'articolo 6, comma 1, della legge n. 84 del 1994, nei quali e' istituita l'AdSP, i piani regolatori portuali che siano gia' stati adottati dal comitato portuale o dall'autorita' marittima alla data di entrata in vigore del presente decreto, sono approvati nel rispetto della normativa vigente al momento della loro adozione. Nei medesimi porti, fino all'approvazione dei piani regolatori di sistema portuale, sono ammesse varianti localizzate ai piani regolatori portuali vigenti, purche' la loro adozione da parte del Comitato di gestione avvenga entro il ((31 dicembre 2022)). Le varianti localizzate: 
+ 
+                        
+                        
+                            a)
+                            
+                                prevedono interventi di natura infrastrutturale e improcrastinabili, il cui ritardo rappresenta un ostacolo alla sicurezza e allo sviluppo del porto ovvero influisce sul corretto utilizzo di fondi nazionali ed europei caratterizzati da scadenze di esecuzione e di spesa; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                sono finalizzate anche alla qualificazione funzionale del porto; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                sono sottoposte al medesimo procedimento previsto per l'approvazione delle varianti-stralcio di cui all'articolo 5, comma 4, della legge 28 gennaio 1994, n. 84, previa intesa con il comune interessato, che si esprime entro sessanta giorni. Decorso detto termine l'intesa si intende acquisita)).
 
 In sede di prima applicazione, ai fini dell'approvazione del piano regolatore di sistema portuale, il Consiglio Superiore dei Lavori Pubblici e l'autorita' competente per la VAS esprimono le proprie valutazioni esclusivamente sugli elementi e contenuti di piano che risultano integrativi o modificativi rispetto alle previsioni dei piani regolatori dei porti ricadenti all'interno della autorita' di sistema portuale, purche' detti piani siano stati approvati a seguito di valutazione ambientale strategica o di valutazione di impatto ambientale.
 

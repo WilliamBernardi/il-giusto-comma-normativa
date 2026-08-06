@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: DPR
 vigenza_date: 2025-05-03
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:47:46Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -1479,6 +1479,31 @@ Gli importi di cui al precedente comma 2 riassorbono gli incrementi attribuiti a
 
 ## Art. 5. — Fondo per l'efficienza dei servizi istituzionali
 
+1.
+                        
+                            
+                                Il Fondo per l'efficienza dei servizi istituzionali di cui all'articolo 5, del decreto del Presidente della Repubblica 11 settembre 2007, n. 171, e' ulteriormente incrementato delle seguenti risorse economiche annue:
+ 
+                            
+                            
+                                a)
+                                
+                                    per l'anno 2007, euro 15.073.000;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    per l'anno 2008, euro 53.413.000;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    a decorrere dall'anno 2009, euro 21.519.000.
+
 Gli importi di cui alle lettere a), b) e c), del comma 1, non comprendono gli oneri contributivi e l'IRAP a carico dello Stato.
 Quelli afferenti all'anno 2007 e all'anno 2008 non hanno effetto di trascinamento negli anni successivi.
 
@@ -1742,6 +1767,31 @@ Maggiore        | 101,25  | 10,48 |      11,84      |     13,66"
 Ferme restando le vigenti disposizioni in materia di buoni pasto, a decorrere dal 31 dicembre 2008 e a valere dall'anno 2009, l'importo del buono pasto di cui all'articolo 17, del decreto del Presidente della Repubblica 13 giugno 2002, n. 163, e' rideterminato in euro 7,00.
 
 ## Art. 8. — Assegno funzionale
+
+1.
+                        
+                            
+                                A decorrere dal 1° dicembre 2008, fermi restando i requisiti di cui all'articolo 5, comma 4, del decreto del Presidente della Repubblica 16 marzo 1999, n. 255, all'assegno funzionale pensionabile di cui all'articolo 3, commi 1 e 2, del decreto del Presidente della Repubblica 28 aprile 2006, n. 221, sono apportate le seguenti modifiche: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la misura prevista al compimento di 29 anni di servizio per i gradi di 1° Caporal Maggiore, Caporal Maggiore scelto, Caporal Maggiore Capo, Caporal Maggiore Capo scelto, viene incrementata di euro 781,00 annui lordi; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le misure previste al compimento di 29 anni, ivi compresa quella di cui al punto precedente, vengono attribuite al compimento di 27 anni di servizio; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    al compimento di 32 anni di servizio, le misure attribuite a 27 anni di servizio vengono rideterminate negli importi indicati nella colonna 4 della tabella di cui al successivo comma 2 e nella colonna 4 della tabella di cui al successivo comma 3.(3) (4)
 
 Per effetto di quanto previsto al precedente comma 1, a decorrere dal 1° dicembre 2008, le misure dell'assegno funzionale sono fissate negli importi annui lordi di cui alla tabella seguente:  
                             
@@ -2355,6 +2405,66 @@ A decorrere dall'entrata in vigore del decreto del Presidente della Repubblica 1
 Per agevolare il soddisfacimento di particolari esigenze collegate a terapie o visite specialistiche di cui al comma 1, le amministrazioni favoriscono un'idonea articolazione dell'orario di lavoro nei confronti dei soggetti interessati.
 
 ## Art. 17. — Tutela delle lavoratrici madri
+
+1.
+                        
+                            
+                                Oltre a quanto previsto dal decreto legislativo 26 marzo 2001, n. 151, al personale delle Forze armate si applicano le seguenti disposizioni:
+ 
+                            
+                            
+                                a)
+                                
+                                    esonero dalla sovrapposizione completa dell'orario di servizio, a richiesta degli interessati, tra coniugi dipendenti dalla stessa Amministrazione con figli fino a sei anni di eta';
+
+                                
+                            
+                            
+                                b)
+                                
+                                    esonero, a domanda, per la madre o, alternativamente, per il padre, dal servizio notturno sino al compimento del terzo anno di eta' del figlio;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    esonero, a domanda, sino al compimento del terzo anno di eta' del figlio, per la madre dal servizio notturno o da turni continuativi articolati sulle 24 ore, o per le situazioni monoparentali da turni continuativi articolati sulle 24 ore;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    esonero, a domanda, dal servizio notturno per le situazioni monoparentali, ivi compreso il genitore unico affidatario, sino al compimento del dodicesimo anno di eta' del figlio convivente;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    divieto di inviare in missione fuori sede o in servizio di ordine pubblico per piu' di una giornata, senza il consenso dell'interessato, il personale con figli di eta' inferiore a tre anni che ha proposto istanza per essere esonerato dai servizi continuativi e notturni e dalla sovrapposizione dei servizi;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    esonero, a domanda, dal turno notturno per i dipendenti che abbiano a proprio carico un soggetto disabile ai sensi della legge 5 febbraio 1992, n. 104;
+
+                                
+                            
+                            
+                                g)
+                                
+                                    possibilita' per le lavoratrici madri e per i lavoratori padri vincitori di concorso interno, con figli fino al dodicesimo anno di eta', di frequentare il corso di formazione presso la scuola piu' vicina al luogo di residenza, tra quelle in cui il corso stesso si svolge;
+
+                                
+                            
+                            
+                                h)
+                                
+                                    divieto di impiegare la madre o il padre che fruiscono dei riposi giornalieri, ai sensi degli articoli 39 e 40 del decreto legislativo 26 marzo 2001, n. 151 in servizi continuativi articolati sulle 24 ore.
 
 Nel caso di adozione o affidamento preadottivo, i benefici di cui ai commi 1 e 2 si applicano dalla data di effettivo ingresso del bambino nella famiglia.
 

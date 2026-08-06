@@ -8,8 +8,8 @@ vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
 vigenza_date: 2026-02-20
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:32Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -53,6 +53,37 @@ All'articolo 6 del decreto-legge 9 giugno 2021, n. 80, convertito, con modificaz
 
 Inclusione sociale e accesso delle persone con disabilita' tra gli obiettivi di produttivita' nella pubblica amministrazione
 
+1.
+                    
+                        
+                            Al decreto legislativo 27 ottobre 2009, n. 150, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                
+                                    all'articolo 3, dopo il comma 4, e' inserito il seguente: 
+ «4-bis. Nel valutare la performance individuale ed organizzativa di cui al comma 4 si tiene conto del raggiungimento o meno degli obiettivi per l'effettiva inclusione sociale e la possibilita' di accesso alle persone con disabilita' di cui all'articolo 5, comma 2-bis, anche ai fini dell'applicazione dei commi 5 e 5-bis del presente articolo.»;
+                                
+                            
+                        
+                        
+                            b)
+                            
+                                
+                                    all'articolo 5, dopo il comma 2, e' aggiunto, in fine, il seguente: 
+ «2-bis. Gli obiettivi, anche nell'ottica di una corretta allocazione delle risorse, assicurano l'effettiva inclusione sociale e le possibilita' di accesso delle persone con disabilita'.»;
+                                
+                            
+                        
+                        
+                            c)
+                            
+                                
+                                    all'articolo 9, comma 1, dopo la lettera d), e' aggiunta, in fine, la seguente: 
+ «d-bis) agli indicatori di performance relativi al raggiungimento degli obiettivi derivanti dalla programmazione strategica della piena accessibilita' delle amministrazioni, da parte delle persone con disabilita'.».
+
 ## Art. 5. — Rappresentanti delle associazioni
 
 Le associazioni rappresentative delle persone con disabilita' iscritte al Registro unico nazionale del Terzo settore di cui all'articolo 45 del decreto legislativo 3 luglio 2017, n. 117, partecipano, nei modi definiti dall'Organismo indipendente di valutazione, sentito il dirigente di cui all'articolo 6, comma 2-bis, del decreto-legge 9 giugno 2021, n. 80, convertito, con modificazioni, dalla legge 6 agosto 2021, n. 113, come inserito dal presente decreto, secondo criteri di maggiore rappresentativita' nazionale o territoriale e sulla base di specifiche competenze ed esperienze per materia, alla formazione della sezione del Piano integrato di attivita' ed organizzazione di cui all'articolo 6, comma 2, lettera f), del medesimo decreto-legge n. 80 del 2021 e alla predisposizione delle proposte che il dirigente di cui al citato articolo 6, comma 2-bis, del decreto-legge n. 80 del 2021, come inserito dal presente decreto, formula per l'elaborazione delle parti del Piano relativamente alle lettere a) e b) del comma 2 del medesimo articolo 6.
@@ -62,6 +93,27 @@ Le associazioni rappresentative delle persone con disabilita' iscritte al Regist
 ## Art. 6.
 
 Responsabile del processo di inserimento delle persone con disabilita' nell'ambiente di lavoro
+
+1.
+                    
+                        
+                            All'articolo 39-ter del decreto legislativo 30 marzo 2001, n. 165, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                
+                                    al comma 1, le parole: «Al fine di garantire» sono sostituite dalle seguenti: «Al fine di dare attuazione all'articolo 7, comma 1, e garantire», le parole «con piu' di duecento dipendenti» sono soppresse e sono aggiunte, in fine, le seguenti parole: «in ambiente di lavoro delle persone con disabilita' individuato nell'ambito del personale in servizio»;
+                                
+                            
+                        
+                        
+                            b)
+                            
+                                
+                                    dopo il comma 1, e' inserito il seguente: 
+ «1-bis. Il responsabile di cui al comma 1 e' individuato tra i dirigenti di ruolo ovvero tra gli altri dipendenti ed e' scelto prioritariamente tra coloro i quali abbiano esperienza sui temi dell'inclusione sociale e dell'accessibilita' delle persone con disabilita' anche comprovata da specifica formazione.
 
 ## Art. 7. — Carta dei servizi
 

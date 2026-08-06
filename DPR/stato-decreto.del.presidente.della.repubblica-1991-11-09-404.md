@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: DPR
 vigenza_date: 2020-09-15
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:47:42Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -105,6 +105,31 @@ Il corrispettivo di punzonatura previsto dall'art. 3 della legge n. 640 del 1950
 
 ## Art. 7.
 
+1.
+                        
+                            
+                                Il contributo speciale di cui all'art. 3, comma 4, della legge n. 145 del 1990 e' dovuto, in aggiunta al corrispettivo di punzonatura, per le bombole importate di eta' superiore ad anni 5 e con riferimento ai servizi di cui all'art. 13, primo comma, numeri 1), 2) e 3), della legge n. 640 del 1950. Il contributo e' determinato dal comitato, in misura forfettaria, tenuto conto dell'eta' delle bombole, della loro capacita' e secondo i seguenti criteri: 
+ 
+                            
+                            
+                                a)
+                                
+                                    valore medio della percentuale di scarto delle bombole presentate alle revisioni negli ultimi 5 anni; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    costo medio di una bombola di nuova fabbricazione di capacita' fino a litri 65, ovvero superiori a litri 65; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    costo medio delle operazioni di revisione per bombola negli ultimi 5 anni.
+
 Il contributo di cui al comma 1 e' trasmesso al fondo da parte dell'ENI. 
  
  ((1))
@@ -117,6 +142,40 @@ Il contributo di cui al comma 1 e' trasmesso al fondo da parte dell'ENI.
 ## - Capo III POTERI E FUNZIONI DEL COMITATO
 
 ## Art. 8.
+
+1.
+                        
+                            
+                                Il comitato provvede all'amministrazione del fondo ed in particolare: 
+ 
+                            
+                            
+                                a)
+                                
+                                    determina i contributi di cui all'art. 3, commi 1, 2 e 4, della legge n. 145 del 1990; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    delibera su ogni operazione gestionale e promozionale ai sensi dell'art. 13 della legge n. 640 del 1950, come modificato dall'art. 4, comma 1, lettera d), della legge n. 145 del 1990; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    vigila sull'espletamento dei servizi tecnici ed amministrativi; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    formula e trasmette il rendiconto annuale ai sensi dell'art. 15 della legge n. 640 del 1950, come modificato dall'art. 4, comma 1, lettera e), della legge n. 145 del 1990. 
+ 
+ ((1))
 
 --------------
                             AGGIORNAMENTO (1)
@@ -137,6 +196,45 @@ I soggetti che forniscono gas metano per autotrazione alle stazioni di compressi
  Il D.L. 16 luglio 2020, n. 76, convertito con modificazioni dalla L. 11 settembre 2020, n. 120, ha disposto (con l'art. 62-bis, comma 2) che "Con decreto del Ministro dello sviluppo economico, di concerto con il Ministro delle infrastrutture e dei trasporti, sono disciplinate le modalita' di esecuzione della legge 8 luglio 1950, n. 640, e della legge 7 giugno 1990, n. 145, come modificate ai sensi del presente articolo, al fine di semplificare gli adempimenti connessi allo svolgimento delle attivita' di cui al comma 1. A decorrere dalla data di entrata in vigore dello stesso decreto cessa di avere efficacia il regolamento di esecuzione delle leggi 8 luglio 1950, n. 640, e 7 giugno 1990, n. 145, di cui al decreto del Presidente della Repubblica 9 novembre 1991, n. 404".
 
 ## Art. 10.
+
+1.
+                        
+                            
+                                I soggetti di cui all'art. 3, comma 2, della legge n. 145 del 1990 sono tenuti ad inviare all'ENI, entro il termine di dieci giorni dalla data dell'avvenuto collaudo da parte degli uffici provinciali della motorizzazione civile e dei trasporti in concessione, l'elenco delle bombole installate sui carri bombolai completo dei seguenti dati: 
+ 
+                            
+                            
+                                a)
+                                
+                                    numero di matricola; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    capacita'; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    diametro; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    data di fabbricazione; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    data dell'ultima revisione.
 
 Ogni variazione che dovesse intervenire nei dati di cui al comma 1 deve essere comunicata entro dieci giorni ed ha effetto a decorrere dal trimestre solare successivo alla comunicazione. 
  
@@ -185,6 +283,40 @@ Il pagamento deve avvenire con valuta fissa al quinto giorno del secondo mese su
 ## - Capo V DEI SERVIZI TECNICI ED AMMINISTRATIVI
 
 ## Art. 14.
+
+1.
+                        
+                            
+                                L'ENI svolge, direttamente o a mezzo di propri incaricati, i servizi tecnici ed amministrativi inerenti all'applicazione della legge n. 145 del 1990, della legge n. 640 del 1950 e del presente regolamento. In particolare: 
+ 
+                            
+                            
+                                a)
+                                
+                                    promuove il collaudo e la revisione delle bombole da parte degli organi competenti; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    provvede alla punzonatura delle bombole; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    cura la manutenzione delle valvole; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    provvede alla sostituzione delle bombole che, in occasione di collaudi o revisioni, siano dichiarate non piu' idonee all'uso. 
+ 
+ ((1))
 
 --------------
                             AGGIORNAMENTO (1)
@@ -281,6 +413,38 @@ L'ENI puo' richiedere l'intervento della forza pubblica per l'accertamento delle
 
 ## Art. 22.
 
+1.
+                        
+                            
+                                Nel libro dei proprietari dei carri bombolai, da istituirsi ai sensi dell'art. 3, comma 3, della legge n. 145 del 1990, sono annotati: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il cognome, il nome, la residenza e il domicilio del proprietario del carro ovvero, se trattasi di ente o di societa', la denominazione o la ragione sociale e la sede; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    i dati relativi all'identita' ed alle principali caratteristiche del veicolo, risultanti dal documento di circolazione; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il numero complessivo delle bombole installate sul carro, specificando per ciascuna di esse i dati di cui all'art. 10; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    qualsiasi altra notizia che, a parere dell'ENI, possa efficacemente contribuire a realizzare le finalita' della legge.
+
 Il libro suddetto, prima dell'uso, dovra' essere vidimato dal presidente del comitato o da un membro all'uopo delegato, foglio per foglio. 
  
  ((1))
@@ -315,6 +479,31 @@ Ove vengano riscontrate, con riferimento al periodo transitorio, carenze o ecced
 I fabbricanti e chiunque abbia immesso nel territorio nazionale bombole di capacita' superiore a litri 65, antecedentemente alla data di entrata in vigore della legge n. 145 del 1990, sono tenuti a fornire all'ENI, ove richiesti, ogni dato disponibile concernente il numero delle bombole prodotte o importate, la capacita', il diametro, il peso a vuoto, la data di fabbricazione o di importazione.
 
 Le bombole di cui al comma 1 sono punzonate all'atto della prima revisione successiva alla data di entrata in vigore del presente regolamento.
+
+3.
+                        
+                            
+                                Il contributo speciale di cui all'art. 3, comma 4, della legge n. 145 del 1990 e' dovuto, in aggiunta al corrispettivo di punzonatura, per le bombole di eta' superiore ad anni 5 e con riferimento ai servizi di cui all'art. 13, primo comma, numeri 1), 2) e 3), della legge n. 640 del 1950. Il contributo e' determinato dal comitato in misura forfettaria, tenuto conto dell'eta' delle bombole, secondo i seguenti criteri: 
+ 
+                            
+                            
+                                a)
+                                
+                                    valore medio della percentuale di scarto delle bombole presentate alle revisioni negli ultimi cinque anni; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    costo medio di una bombola di nuova fabbricazione di capacita' superiore a litri 65; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    costo medio delle operazioni di revisione per bombola negli ultimi cinque anni.
 
 Il contributo di cui al comma 3 e' trasmesso al fondo da parte dell'ENI. 
  

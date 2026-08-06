@@ -8,8 +8,8 @@ codice_redazionale: 091G0222
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:40Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -28,6 +28,59 @@ Data comunicazione al Presidente del Consiglio dei Ministri ai sensi dell'art. 1
 ## Art. 1.
 
 Il concorso interno, per titoli di servizio ed esami, per la nomina alla qualifica di vice ispettore e' indetto con decreto ministeriale.
+
+2.
+                    
+                        
+                            Il bando di concorso di cui al comma 1 deve indicare:
+ 
+                        
+                        
+                            a)
+                            
+                                il numero dei posti messi a concorso;
+
+                            
+                        
+                        
+                            b)
+                            
+                                i requisiti richiesti per la partecipazione al concorso;
+
+                            
+                        
+                        
+                            c)
+                            
+                                le modalita' di presentazione delle domande di partecipazione e della eventuale documentazione;
+
+                            
+                        
+                        
+                            d)
+                            
+                                i titoli di servizio ammessi a valutazione e i punteggi massimi attribuibili a ciascuna categoria di titoli;
+
+                            
+                        
+                        
+                            e)
+                            
+                                le materie d'esame;
+
+                            
+                        
+                        
+                            f)
+                            
+                                il punteggio minimo da conseguire nella prova scritta e nel colloquio;
+
+                            
+                        
+                        
+                            g)
+                            
+                                ogni altra prescrizione o notizia ritenuta utile.
 
 ## Art. 2.
 
@@ -70,6 +123,58 @@ Al colloquio sono ammessi i candidati che abbiano riportato nella prova scritta 
 Il colloquio non si intende superato se il candidato non avra' riportato la votazione di almeno trentasei cinquantesimi.
 
 ## Art. 6.
+
+1.
+                    
+                        
+                            Le categorie di titoli di servizio ammessi a valutazione ed il punteggio massimo attribuibile a ciascuna categoria sono stabiliti come segue:
+ 
+                        
+                        
+                            a)
+                            
+                                rapporti informativi e giudizi
+complessivi del biennio anteriore fino a punti 16
+                            
+                        
+                        
+                            b)
+                            
+                                qualita' delle mansioni svolte
+con particolare riferimento alla
+specifica competenza professionale
+dimostrata ed al grado di responsabilita'
+assunta anche in relazione alla sede
+di servizio " " 12
+                            
+                        
+                        
+                            c)
+                            
+                                incarichi e servizi speciali
+conferiti con specifico provvedimento
+dall'Amministrazione, che comportino un
+rilevante aggravio di lavoro e
+presuppongano una particolare competenza
+professionale " " 6
+                            
+                        
+                        
+                            d)
+                            
+                                titoli attinenti alla formazione professionale del candidato, con particolare riguardo ai corsi professionali e di specializzazione frequentati e superati " " 4
+                            
+                        
+                        
+                            e)
+                            
+                                speciali riconoscimenti " " 6
+                            
+                        
+                        
+                            f)
+                            
+                                anzianita' complessiva di servizio " " 6 La valutazione dei titoli e' effettuata nei confronti dei candidati che abbiano superato le prove d'esame.
 
 ## Art. 7.
 

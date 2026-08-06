@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
 vigenza_date: 1995-04-28
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:39Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -84,6 +84,52 @@ Peraltro, l'eventuale ritiro dalla produzione di una superficie inferiore alla m
 
 ## Art. 4. — Destinazione delle terre
 
+1.
+                    
+                        
+                            La concessione degli aiuti di cui all'art. 1 e' in ogni caso subordinata alla destinazione della superficie ai seguenti scopi: 
+ 
+                        
+                        
+                            a)
+                            
+                                imboschimento, con particolare riguardo a specie forestali autoctone e pregiate, ai pioppeti e ad altre specie a rapido accrescimento compatibili con l'ambiente; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                utilizzazioni a scopi non agricoli incluse quelle agrituristiche e sportive ed escluse quelle che comportino costruzioni permanenti non attinenti alle attivita' aziendali; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                messa a riposo; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                messa a riposo in rotazione; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                creazione di pascoli destinati all'allevamento estensivo; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                produzione di lenticchie, ceci e vecce eventualmente anche in rotazione.
+
 La destinazione di seminativi ritirati dalla produzione a pascolo permanente estensivo puo' essere decisa anche da aziende non zootecniche che, pertanto, hanno diritto al premio di cui all'art. 5, comma 3. Sono esclusi dalla destinazione in questione i seminativi gia' utilizzati a pascolo permanente nel periodo di riferimento.
 
 Le utilizzazioni di cui alle lettere e) ed f), ferma restando la durata dell'impegno indicata dal richiedente, possono essere pescelte fino al 30 aprile 1991, salvo diversa determinazione del Consiglio delle Comunita' europee.
@@ -125,6 +171,87 @@ Nel caso di utilizzo per fini non agricoli, diversi dall'imboschimento, e nel ca
 L'aiuto di cui all'art. 6, comma 2, puo' essere concesso, su domanda, ai seminativi ritirati dalla produzione e destinati a bosco per un periodo massimo di 20 anni ed e' cumulabile con gli altri aiuti previsti dalla normativa comunitaria e nazionale.
 
 I seminativi ritirati dalla produzione destinati all'imboschimento restano assoggettati ai vincoli previsti dalle vigenti norme sui boschi, per la sola durata del ciclo produttivo delle essenze impiegate.
+
+3.
+                    
+                        
+                            Sulla base delle proposte presentate dalle regioni e dalla provincia autonoma di Bolzano sono state individuate, col decreto ministeriale n. 35/1990, le seguenti zone preferenziali: 
+ 
+                        
+                        
+                            a)
+                            
+                                parchi e riserve naturali, nonche' i relativi territori di protezione esterna; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                territori contermini ai laghi, compresi in una fascia della profondita' di 300 metri dalla linea di battigia, anche se elevati sui laghi di cui alla legge n. 431 dell'8 agosto 1985; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                fiumi, torrenti e corsi d'acqua iscritti negli elenchi di cui al testo unico delle disposizioni di legge sulle acque ed impianti elettrici, approvato con regio decreto 11 dicembre 1933, n. 1775, e relative sponde o piede degli argini per una fascia di 150 metri ciascuna di cui alla legge n. 431 dell'8 agosto 1985; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                territori costieri compresi in una fascia della profondita' di 300 metri dalla linea di battigia, anche se elevati sul mare di cui alla gia' citata legge n. 431 dell'8 agosto 1985; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                zone umide incluse nell'elenco di cui al decreto del Presidente della Repubblica 13 marzo 1976, n. 448; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                aziende faunistico-venatorie e agro-venatorie; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                oasi di protezione della fauna selvatica e zone di ripopolamento e cattura, ex legge n. 968/1977; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                territori a gestione sociale della caccia, ex legge n. 968/1977; 
+
+                            
+                        
+                        
+                            i)
+                            
+                                aree di salvaguardia delle risorse idriche di cui all'art. 4 del decreto del Presidente della Repubblica 24 maggio 1988, n. 236; 
+
+                            
+                        
+                        
+                            l)
+                            
+                                zone svantaggiate di cui all'art. 3, paragrafi 3 e 4, della direttiva CEE n. 75/268. 
+ Il Ministero, d'intesa con le predette amministrazioni, con successivo regolamento, potra' limitare la superficie delle zone preferenziali e in particolare di quelle indicate alla lettera l).(1) 
+ 4) Nelle aree preferenziali: 
+ (( a) l'aiuto all'imboschimento di cui all'art. 25 del regolamento CEE n.2328/91 e' concesso nella misura massima di 3.000 ECU ad ettaro, per una superficie non inferiore a due ettari e limitatamente agli impianti di specie forestali di cui all'art. 4, comma 1, lettera a). Tuttavia per il noce l'aiuto e' concesso per un importo massimo di 2500 ECU ad ettaro, mentre per il pioppo tale importo e' ridotto a 1800 ECU ad ettaro)). 
+ b) il premio di cui all'art. 20- bis del regolamento CEE n. 797/85 e' concesso nella misura massima di 50 ECU per ettaro imboschito all'anno, per una superficie non inferiore a due ettari, per un periodo non speriore a 20 anni e limitatamente agli impianti di specie forestali di cui all'art. 4, comma 1, lettera a). Tuttavia per i pioppeti il premio e' concesso nella misura massima di 25 ECU ad ettaro. 
+ 5. Gli aiuti di cui al precedente comma vengono corrisposti su domanda degli interessati, presentata, in duplice copia, utilizzando esclusivamente l'apposito modulo allegato al presente decreto ed in distribuzione presso gli uffici regionali competenti e corredata di un piano di imboschimento che deve indicare almeno le essenze e le tecniche di impianto prescelte. 
+ 6. La domanda relativa agli aiuti in questione puo' essere presentata dai singoli agricoltori interessati o da consorzi forestali, consorzi di bonifica e di miglioramento fondiario, comunita' montane e da altri raggruppamenti di produttori che abbiano predisposto un piano globale di imboschimento riguardante l'insieme dei seminativi degli associati ritirati dalla produzione e destinati a bosco. Sara' cura delle amministrazioni regionali e della provincia autonoma di Bolzano provvedere, entro novanta giorni dalla scadenza del termine di presentazione delle domande, al completamento dell'istruttoria delle domande medesime. 
+ 7. Quando la domanda viene presentata da un raggruppamento di produttori, gli aiuti vengono corrisposti, per conto di singoli agricoltori, al raggruppamento, il quale puo' trattenere per conto dei singoli agricoltori i costi concordati con gli associati per i servizi effettuati. In deroga alla norma di cui all'art. 3, comma 4, gli aiuti e i premi di cui agli articoli 6 e 7 sono concessi anche alle superfici non contigue inferiori a mezzo ettaro.
 
 --------------
                         AGGIORNAMENTO (1)
@@ -186,6 +313,37 @@ Qualora la discordanza venga verificata nel corso di un controllo successivo al 
 ))
 
 Qualora la differenza di cui sopra oltrepassi i limiti del 10% e dei 2 Ha di cui al comma precedente, non viene concesso alcun aiuto per nessun periodo dell'impegno; in questo caso, qualora siano stati gia' corrisposti aiuti per le annualita' precedenti, il beneficiario decade totalmente dal regime, con gli effetti di cui ai seguenti commi 8 e 9, salvo che possa provare che la differenza riscontrata non sia stata originata da dolo o da colpa.
+
+6.
+                    
+                        
+                            Il beneficiario decade totalmente dall'aiuto nel corso dell'impegno: 
+ 
+                        
+                        
+                            a)
+                            
+                                se si accerta che la superficie non poteva essere sottoposta al regime per mancanza dei requisiti soggettivi od oggettivi richiesti dalla normativa comunitaria e nazionale; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                se si accerta che la superficie oggetto del regime non e' stata in realta' ritirata dalla produzione; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                al di fuori del caso che sia stato prescelto lo scopo di cui all'art. 4, comma 1, lettera e), del regolamento di cui al decreto ministeriale n. 63/1991, se si accerta che la superficie ritirata e' stata oggetto di pascolo, salvo che il beneficiario possa provare che il pascolo sia avvenuto in via abusiva, contro la propria volonta'; 
+                            
+                        
+                        
+                            d)
+                            
+                                nei casi previsti dai commi 3, 5 e 11 del presente articolo.
 
 Se le condizioni di cui al precedente comma si riferiscono solo a parte della superficie oggetto dell'impegno, che non superi nella sua estensione il 10% della superficie del seminativo aziendale sottoposto al regime, con un massimo di due ettari, la decadenza dall'aiuto e' limitata alla sola parte interessata dalle irregolarita'.
 

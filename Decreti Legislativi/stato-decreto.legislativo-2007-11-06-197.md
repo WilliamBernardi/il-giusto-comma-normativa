@@ -8,8 +8,8 @@ codice_redazionale: 007G0211
 vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:31Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -38,6 +38,24 @@ Al vettore o all'esercente comunitario che, pur avendo contratto l'assicurazione
 Al vettore o all'esercente non comunitario che, pur avendo contratto l'assicurazione per passeggeri, bagagli, merci e terzi, non esibisce il certificato di assicurazione o altra documentazione probatoria equipollente, e' vietato il decollo dal suolo italiano fino alla regolarizzazione della documentazione assicurativa. E' applicata, altresi', una sanzione amministrativa pecuniaria da quindicimila euro a trentamila euro.
 
 ## Art. 4. — Sanzioni per mancato rispetto dei requisiti minimi assicurativi
+
+1.
+                    
+                        
+                            Fuori dai casi previsti dall'articolo 5 del presente decreto:
+ 
+                        
+                        
+                            a)
+                            
+                                al vettore o esercente che non rispetta i requisiti minimi assicurativi, di cui agli articoli 6 e 7 del regolamento, e' applicata la sanzione amministrativa pecuniaria da trentamila euro a sessantamila euro;
+
+                            
+                        
+                        
+                            b)
+                            
+                                nel caso di vettore o esercente non comunitario, e' applicata, altresi', la sanzione amministrativa accessoria del divieto di operare sul territorio italiano fino alla regolarizzazione del contratto di assicurazione con i requisiti minimi prescritti agli articoli 6 e 7 del regolamento.
 
 ## Art. 5. — Omessa assicurazione obbligatoria
 

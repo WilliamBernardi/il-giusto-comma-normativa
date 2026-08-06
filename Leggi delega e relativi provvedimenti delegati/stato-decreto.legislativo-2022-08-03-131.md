@@ -7,8 +7,8 @@ urn: urn:nir:stato:decreto.legislativo:2022-08-03;131
 vigente: true
 source: normattiva-opendata
 collection: Leggi delega e relativi provvedimenti delegati
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:41:16Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -23,6 +23,62 @@ Acquisiti i pareri delle competenti Commissioni della Camera dei deputati e del 
 Sulla proposta del Presidente del Consiglio dei ministri e del Ministro dell'economia e delle finanze, di concerto con i Ministri degli affari esteri e della cooperazione internazionale, della giustizia, dello sviluppo economico e del lavoro e delle politiche sociali;
 
 ## Art. 1. — Modifiche al decreto legislativo 24 febbraio 1998, n. 58
+
+1.
+                    
+                        
+                            Dopo l'articolo 4-septies.1 del decreto legislativo 24 febbraio 1998, n. 58, e' inserito il seguente: 
+ «Art. 4-septies.2 (Individuazione delle autorita' nazionali competenti ai sensi del regolamento (UE) 2017/2402 che stabilisce un quadro generale per la cartolarizzazione, instaura un quadro specifico per cartolarizzazioni semplici, trasparenti e standardizzate). - 1. La Banca d'Italia, la CONSOB, l'IVASS e la COVIP sono le autorita' nazionali competenti ai sensi del regolamento (UE) 2017/2402, secondo le rispettive attribuzioni e conformemente a quanto disposto dal presente articolo. 
+ 2. Ai fini del presente articolo valgono le seguenti definizioni: 
+ a) "cartolarizzazione": l'operazione o lo schema di cui all'articolo 2, numero 1) del regolamento (UE) 2017/2402; 
+ b) "societa' veicolo per la cartolarizzazione" o "SSPE": un soggetto di cui all'articolo 2, numero 2) del regolamento (UE) 2017/2402; 
+ c) "cedente": un soggetto di cui all'articolo 2, numero 3) del regolamento (UE) 2017/2402; 
+ d) "promotore": un soggetto di cui all'articolo 2, numero 5) del regolamento (UE) 2017/2402. 
+ e) "investitore istituzionale": un investitore di cui all'articolo 2, numero 12) del regolamento (UE) 2017/2402; 
+ f) "prestatore originario": un soggetto di cui all'articolo 2, numero 20) del regolamento (UE) 2017/2402; 
+ g) "impresa di assicurazione": il soggetto di cui alla lettera u) dell'articolo 1, comma 1, del decreto legislativo 7 settembre 2005, n. 209, incluse le sedi secondarie in Italia di imprese aventi sede legale in uno Stato terzo; 
+ h) "impresa di riassicurazione": il soggetto di cui alla lettera cc) dell'articolo 1, comma 1, del decreto legislativo 7 settembre 2005, n. 209, incluse le sedi secondarie in Italia di imprese aventi sede legale in uno Stato terzo; 
+ i) "ente pensionistico aziendale o professionale": un fondo pensione che risulti iscritto all'albo tenuto dalla COVIP e che rientri tra quelli di cui agli articoli 4, comma 1, e 12 del decreto legislativo 5 dicembre 2005, n. 252, ovvero tra quelli dell'articolo 20 del medesimo decreto aventi soggettivita' giuridica.». 
+ 3. Ai fini del comma 1, fermi restando i compiti attribuiti alla Banca Centrale Europea (BCE) dal regolamento (UE) n. 1024/2013, la Banca d'Italia e' l'autorita' competente a: 
+ 
+                        
+                        
+                            a)
+                            
+                                vigilare sul rispetto degli obblighi stabiliti all'articolo 5 del regolamento (UE) 2017/2402 per banche, imprese di investimento, gestori, nonche' per gli intermediari finanziari iscritti nell'albo previsto dall'articolo 106 del T.U. bancario che detengono una posizione verso una cartolarizzazione o che ricevono istruzioni di adempiere agli obblighi di un altro investitore istituzionale ai sensi dell'articolo 5, paragrafo 5, del regolamento (UE) 2017/2402; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                vigilare sull'adempimento degli obblighi stabiliti agli articoli 6, 7, 8 e 9 del regolamento (UE). 2017/2402 nelle cartolarizzazioni in cui il cedente o il prestatore originario o il promotore o la SSPE siano banche, imprese di investimento, gestori, o intermediari finanziari iscritti nell'albo previsto dall'articolo 106 del T.U. bancario. 
+ 4. Ai fini del comma 1, l'IVASS e' l'autorita' competente a: 
+ a) vigilare sul rispetto degli obblighi stabiliti all'articolo 5 del regolamento (UE) 2017/2402 per le imprese di assicurazione o di riassicurazione che detengono una posizione verso una cartolarizzazione o che ricevono istruzioni di adempiere agli obblighi di un altro investitore istituzionale ai sensi dell'articolo 5, paragrafo 5, del regolamento (UE) 2017/2402; 
+ b) vigilare sull'adempimento degli obblighi stabiliti agli articoli 6, 7, 8 e 9 del regolamento (UE) 2017/2402 nelle cartolarizzazioni in cui il cedente o il prestatore originario siano imprese di assicurazione o di riassicurazione. 
+ 5. Ai fini del comma 1, la COVIP e' l'autorita' competente a: 
+ a) vigilare sul rispetto degli obblighi stabiliti all'articolo 5 del regolamento (UE) 2017/240 per gli enti pensionistici aziendali o professionali; 
+ b) vigilare sull'adempimento degli obblighi stabiliti agli articoli 6, 7, 8 e 9 del regolamento (UE) 2017/2402 nelle cartolarizzazioni in cui il cedente sia un ente pensionistico aziendale o professionale. 
+ 6. Ai fini del comma 1, la CONSOB e' l'autorita' competente a: 
+ a) vigilare sul rispetto degli obblighi stabiliti all'articolo 3 del regolamento (UE) 2017/2402; 
+ b) vigilare sull'adempimento degli obblighi stabiliti agli articoli 6, 7, 8 e 9 del regolamento (UE) 2017/2402 quando ne' il cedente ne' il prestatore originario ne' la SSPE stabiliti nell'Unione siano soggetti vigilati; per soggetti vigilati si intendono quelli contemplati dagli atti legislativi dell'Unione citati all'articolo 29, paragrafo 3, del regolamento (UE) 2017/2402; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                vigilare sulla conformita' da parte di cedenti, promotori e SSPE agli articoli da 18 a 27 del regolamento (UE) 2017/2402; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                autorizzare il verificatore terzo di cui all'articolo 27, comma 2, del regolamento (UE). 2017/2402 secondo quanto previsto dall'articolo 28 del medesimo regolamento, vigilare sulla conformita' di questo soggetto all'articolo 28 del medesimo regolamento, nonche' revocare la citata autorizzazione. 
+ 7. Nei confronti dei cedenti, dei prestatori originari, dei promotori e delle SSPE, anche quando siano soggetti non vigilati, la Banca d'Italia, la CONSOB, l'IVASS e la COVIP esercitano i poteri di vigilanza e di indagine previsti dall'articolo 30 del regolamento (UE) 2017/2402 e dalla normativa di settore, ivi inclusi quelli previsti dall'art. 6-bis, secondo le rispettive attribuzioni indicate nei commi precedenti. La CONSOB puo' esercitare, altresi', nei confronti di chiunque gli ulteriori poteri previsti dall'articolo 187-octies, secondo le modalita' ivi stabilite e puo' dettare disposizioni inerenti alla procedura di autorizzazione dei verificatori terzi di cui all'articolo 27, paragrafo 2, del regolamento (UE) 2017/2402 e di eventuale revoca. Le predette autorita' adempiono agli obblighi informativi verso l'AESFEM previsti dall'articolo 37, paragrafo 6, del regolamento (UE) 2017/2402 secondo le rispettive attribuzioni. 
+ 8. Ai fini dei commi 3 lettera b), 4 lettera b) e 5 lettera b), se i cedenti, i prestatori originari, i promotori e le SSPE non sono tutti soggetti vigilati, la Banca d'Italia, l'IVASS e la COVIP esercitano i poteri di vigilanza e d'indagine previsti dal comma 7 per il tramite dei soggetti vigilati. A questi fini, i soggetti non vigilati trasmettono le informazioni necessarie a quelli vigilati, che li inviano alla propria Autorita' di vigilanza. Resta ferma la facolta' per la Banca d'Italia, l'IVASS e la COVIP, di chiedere le informazioni direttamente ai soggetti non vigilati. 
+ 9. Per assicurare il rispetto del presente articolo nonche' del regolamento indicato dal comma 1, la Banca d'Italia, la CONSOB, l'IVASS e la COVIP possono emanare disposizioni di attuazione del presente articolo, ciascuna nell'ambito delle proprie competenze. Nel rispetto della reciproca indipendenza, esse individuano inoltre forme di coordinamento operativo, anche ai sensi dell'articolo 20 della legge 28 dicembre 2005, n. 262, per l'esercizio delle competenze e dei poteri loro attribuiti ai sensi del presente articolo, anche attraverso protocolli d'intesa, senza nuovi o maggiori oneri a carico della finanza pubblica, anche al fine di disciplinare i casi in cui ai sensi dei commi 3, lettera b), 4, lettera b), 5, lettera b), per la medesima operazione di cartolarizzazione siano coinvolte piu' autorita' di vigilanza. Le citate autorita' collaborano tra loro, anche ai sensi dell'articolo 21 della legge 28 dicembre 2005, n. 262, per agevolare l'esercizio delle competenze e dei poteri loro attribuiti e si scambiano informazioni.».
 
 Dopo l'articolo 190-bis.1 del decreto legislativo 24 febbraio 1998, n. 58, e' inserito il seguente: 
  «Art. 190-bis.2 (Sanzioni amministrative relative alle violazioni delle disposizioni del regolamento (UE) 2017/2402). - 1. Per le violazioni degli articoli 3, 5, 6, 7, 9, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27 paragrafi 1 e 4 e 28 paragrafo 2 del regolamento (UE) 2017/2402 e delle norme tecniche di regolamentazione e attuazione previste dal medesimo regolamento, si applica: 

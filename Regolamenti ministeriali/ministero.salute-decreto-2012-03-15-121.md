@@ -8,8 +8,8 @@ codice_redazionale: 012G0144
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:42Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -26,6 +26,17 @@ IL MINISTRO DELL'ECONOMIA E DELLE FINANZE
 Udito il parere del Consiglio di Stato numero 2065/2001 espresso nella seduta del 7 ottobre 2011;
 
 ## Art. 1.
+
+1.
+                    
+                        
+                            L'articolo 3 del D.M. 28 aprile 2009, n. 132, e' modificato come segue: 
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 1, lettera a) dopo le parole "per i soggetti talassemici" sono aggiunte le seguenti parole: ", i soggetti affetti da drepanocitosi o anemia falciforme".
 
 ## Art. 2.
 

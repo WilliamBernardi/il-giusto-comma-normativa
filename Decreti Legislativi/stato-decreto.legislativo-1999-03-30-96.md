@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
 vigenza_date: 2001-05-03
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:28Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -37,6 +37,31 @@ Fino alla data di entrata in vigore di ciascuna legge regionale di cui all'artic
 ## - Titolo I SVILUPPO ECONOMICO E ATTIVITA' PRODUTTIVE Capo I Artigianato
 
 ## Art. 2. — Funzioni della regione
+
+1.
+                        
+                            
+                                Sono esercitate dalla regione le funzioni amministrative relative:
+ 
+                            
+                            
+                                a)
+                                
+                                    alla definizione di interventi cofinanziati con lo Stato ai sensi dell'articolo 13, comma 1, lettera b), del decreto legislativo n. 112 del 1998;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    alla previsione di incentivazioni alle imprese artigiane;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    alla definizione delle eventuali intese con lo Stato per consentire l'avvalimento dei comitati tecnici regionali, ai sensi dell'articolo 13, comma 1, del decreto legislativo n. 112 del 1998. ((1))
 
 ----------------
                             AGGIORNAMENTO (1)
@@ -98,6 +123,31 @@ Sono esercitate dalla regione le funzioni amministrative previste dall'articolo 
 
 ## Art. 9. — Funzioni delle province
 
+1.
+                        
+                            
+                                Sono esercitate dalle province le funzioni amministrative di vigilanza e di polizia sulle attivita' di ricerca, coltivazione e utilizzazione delle acque minerali e termali, nonche' le funzioni di polizia mineraria in materia di coltivazione di cave e torbiere, ed inoltre:
+ 
+                            
+                            
+                                a)
+                                
+                                    le funzioni di polizia mineraria su terraferma che le leggi vigenti attribuiscono agli ingegneri capo dei distretti minerari ed ai prefetti;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le funzioni di polizia mineraria relative alle risorse geotermiche su terraferma;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    le funzioni di concessione ed erogazione degli ausili finanziari previsti da leggi dello Stato. ((1))
+
 ----------------
                             AGGIORNAMENTO (1)
                              La Corte Costituzionale, con sentenza 22 marzo-27 aprile 2001, n. 110 (in G.U. 1a S.S. 2/5/2001, n. 17) ha dichiarato l'illegittimita' del decreto legislativo 30 marzo 1999, n. 96 (Intervento sostitutivo del Governo per la ripartizione di funzioni amministrative tra Regioni ed enti locali a norma dell'art. 4, comma 5, della legge 15 marzo 1997, n. 59), nella parte in cui si applica alla Regione Veneto.
@@ -115,6 +165,52 @@ Sono esercitate dalla regione le funzioni di controllo sugli organi delle camere
 ## - Titolo I SVILUPPO ECONOMICO E ATTIVITA' PRODUTTIVE Capo VI Fiere, mercati e commercio
 
 ## Art. 11. — Funzioni della regione
+
+1.
+                        
+                            
+                                Sono esercitate dalla regione le funzioni amministrative relative:
+ 
+                            
+                            
+                                a)
+                                
+                                    al riconoscimento della qualifica delle manifestazioni fieristiche di rilevanza nazionale e regionale, nonche' al rilascio dell'autorizzazione allo svolgimento;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    alla pubblicazione del calendario annuale delle manifestazioni fieristiche;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    alla promozione dell'associazionismo e della cooperazione nel settore del commercio;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    alla definizione di interventi per l'assistenza integrativa alle piccole e medie imprese del settore del commercio e per la qualificazione della rete di vendita e dei servizi connessi;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    al coordinamento dei tempi di svolgimento delle manifestazioni fieristiche;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    agli enti fieristici di Milano, Verona e Bari. ((1))
 
 ----------------
                             AGGIORNAMENTO (1)
@@ -186,6 +282,38 @@ Sono esercitate dalla regione le funzioni amministrative di cui all'articolo 60 
 
 ## Art. 19. — Funzioni dei comuni
 
+1.
+                        
+                            
+                                Sono esercitate dai comuni le funzioni amministrative relative:
+ 
+                            
+                            
+                                a)
+                                
+                                    all'individuazione, ai fini della programmazione regionale, delle tipologie di intervento atte a soddisfare i fabbisogni rilevati;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    all'individuazione degli operatori privati incaricati della realizzazione degli interventi localizzati nel proprio territorio;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    alla concessione di contributi agli operatori incaricati della realizzazione degli interventi;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    alla gestione e all'attuazione degli interventi. ((1))
+
 ----------------
                             AGGIORNAMENTO (1)
                              La Corte Costituzionale, con sentenza 22 marzo-27 aprile 2001, n. 110 (in G.U. 1a S.S. 2/5/2001, n. 17) ha dichiarato l'illegittimita' del decreto legislativo 30 marzo 1999, n. 96 (Intervento sostitutivo del Governo per la ripartizione di funzioni amministrative tra Regioni ed enti locali a norma dell'art. 4, comma 5, della legge 15 marzo 1997, n. 59), nella parte in cui si applica alla Regione Veneto.
@@ -220,6 +348,24 @@ Sono esercitate dai comuni le funzioni amministrative di cui all'articolo 70, co
 
 ## Art. 23. — Funzioni della regione
 
+1.
+                        
+                            
+                                Sono esercitate dalla regione le funzioni amministrative concernenti:
+ 
+                            
+                            
+                                a)
+                                
+                                    l'individuazione delle aree ad elevata concentrazione di attivita' industriale che possono comportare maggiori rischi di incidenti rilevanti;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'approvazione dei piani di risanamento relativi alle aree ad elevata concentrazione di attivita' industriale che possono comportare maggiori rischi di incidenti rilevanti. ((1))
+
 ----------------
                             AGGIORNAMENTO (1)
                              La Corte Costituzionale, con sentenza 22 marzo-27 aprile 2001, n. 110 (in G.U. 1a S.S. 2/5/2001, n. 17) ha dichiarato l'illegittimita' del decreto legislativo 30 marzo 1999, n. 96 (Intervento sostitutivo del Governo per la ripartizione di funzioni amministrative tra Regioni ed enti locali a norma dell'art. 4, comma 5, della legge 15 marzo 1997, n. 59), nella parte in cui si applica alla Regione Veneto.
@@ -235,6 +381,31 @@ Sono esercitate dalle province tutte le funzioni amministrative di cui all'artic
 ## - Titolo II TERRITORIO, AMBIENTE E INFRASTRUTTURE Capo V Aree ad elevato rischio ambientale
 
 ## Art. 25. — Funzioni della regione
+
+1.
+                        
+                            
+                                Sono esercitate dalla regione le funzioni amministrative concernenti le aree ad elevato rischio di crisi ambientale, di cui all'articolo 74 del decreto legislativo n. 112 del 1998, ed in particolare la regione:
+ 
+                            
+                            
+                                a)
+                                
+                                    individua, sentiti gli enti locali territorialmente interessati, le aree caratterizzate da gravi alterazioni degli equilibri ecologici nei corpi idrici, nell'atmosfera e nel suolo, comportanti rischio per l'ambiente e la popolazione;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    dichiara lo stato di elevata crisi ambientale;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    predispone ed approva i piani di risanamento, con la individuazione delle priorita' di intervento. ((1))
 
 ----------------
                             AGGIORNAMENTO (1)
@@ -296,6 +467,24 @@ Sono esercitate dalla regione le funzioni amministrative di cui all'articolo 84 
 
 ## Art. 32. — Funzioni delle province
 
+1.
+                        
+                            
+                                Sono esercitate dalle province le funzioni amministrative concernenti il rilevamento, la disciplina ed il controllo delle emissioni atmosferiche e sonore, di cui all'articolo 84 del decreto legislativo n. 112 del 1998, e in particolare quelle relative:
+ 
+                            
+                            
+                                a)
+                                
+                                    alla tenuta e all'aggiornamento degli inventari delle fonti di emissione;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    al rilascio della abilitazione alla conduzione di impianti termici e alla istituzione dei relativi corsi di formazione. ((1))
+
 ----------------
                             AGGIORNAMENTO (1)
                              La Corte Costituzionale, con sentenza 22 marzo-27 aprile 2001, n. 110 (in G.U. 1a S.S. 2/5/2001, n. 17) ha dichiarato l'illegittimita' del decreto legislativo 30 marzo 1999, n. 96 (Intervento sostitutivo del Governo per la ripartizione di funzioni amministrative tra Regioni ed enti locali a norma dell'art. 4, comma 5, della legge 15 marzo 1997, n. 59), nella parte in cui si applica alla Regione Veneto.
@@ -311,6 +500,73 @@ Sono esercitate dalla regione le funzioni amministrative di cui all'articolo 89,
                              La Corte Costituzionale, con sentenza 22 marzo-27 aprile 2001, n. 110 (in G.U. 1a S.S. 2/5/2001, n. 17) ha dichiarato l'illegittimita' del decreto legislativo 30 marzo 1999, n. 96 (Intervento sostitutivo del Governo per la ripartizione di funzioni amministrative tra Regioni ed enti locali a norma dell'art. 4, comma 5, della legge 15 marzo 1997, n. 59), nella parte in cui si applica alla Regione Veneto.
 
 ## Art. 34. — Funzioni delle province
+
+1.
+                        
+                            
+                                Sono esercitate dalle province le funzioni amministrative di cui agli articoli 86 e 89, comma 1, del decreto legislativo n. 112 del 1998, e in particolare quelle relative:
+ 
+                            
+                            
+                                a)
+                                
+                                    alla progettazione, realizzazione e gestione delle opere idrauliche di qualsiasi natura;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    alle dighe non comprese tra quelle indicate all'articolo 91, comma 1, del decreto legislativo n. 112 del 1998;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    ai compiti di polizia idraulica e di pronto intervento;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    alle concessioni di estrazione di materiale litoide dai corsi d'acqua;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    alle concessioni di spiagge lacuali, superfici e pertinenze dei laghi;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    alle concessioni di pertinenze idrauliche e di aree fluviali;
+
+                                
+                            
+                            
+                                g)
+                                
+                                    alla polizia delle acque;
+
+                                
+                            
+                            
+                                h)
+                                
+                                    alla programmazione, pianificazione e gestione integrata degli interventi di difesa delle coste e degli abitati costieri;
+
+                                
+                            
+                            
+                                i)
+                                
+                                    alla gestione del demanio idrico. ((1))
 
 ----------------
                             AGGIORNAMENTO (1)
@@ -328,11 +584,61 @@ Sono esercitate dalla regione le funzioni amministrative di cui all'articolo 94 
 
 ## Art. 36. — Funzioni delle province
 
+1.
+                        
+                            
+                                Sono esercitate dalle province le funzioni amministrative in materia di opere pubbliche relative:
+ 
+                            
+                            
+                                a)
+                                
+                                    all'autorizzazione alla costruzione di elettrodotti con tensione normale sino a 150 kV;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    alla valutazione tecnicoamministrativa e all'attivita' consultiva relative a progetti di opere pubbliche di competenza provinciale. ((1))
+
 ----------------
                             AGGIORNAMENTO (1)
                              La Corte Costituzionale, con sentenza 22 marzo-27 aprile 2001, n. 110 (in G.U. 1a S.S. 2/5/2001, n. 17) ha dichiarato l'illegittimita' del decreto legislativo 30 marzo 1999, n. 96 (Intervento sostitutivo del Governo per la ripartizione di funzioni amministrative tra Regioni ed enti locali a norma dell'art. 4, comma 5, della legge 15 marzo 1997, n. 59), nella parte in cui si applica alla Regione Veneto.
 
 ## Art. 37. — Funzioni dei comuni
+
+1.
+                        
+                            
+                                Sono esercitate dai comuni le funzioni amministrative relative:
+ 
+                            
+                            
+                                a)
+                                
+                                    all'edilizia di culto;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    alla progettazione, esecuzione e manutenzione straordinaria degli immobili destinati a ospitare uffici dell'amministrazione dello Stato;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    alla esecuzione delle opere di ripristino in seguito ad eventi bellici o a calamita' naturali.
+
+                                
+                            
+                            
+                                d)
+                                
+                                    alla valutazione tecnicoamministrativa e all'attivita' consultiva relative a progetti di opere pubbliche di competenza comunale. ((1))
 
 ----------------
                             AGGIORNAMENTO (1)
@@ -403,6 +709,24 @@ Sono esercitate dai comuni le funzioni amministrative concernenti la pubblicita'
 ## - Titolo III SERVIZI ALLA PERSONA E ALLA COMUNITA' Capo II Servizi sociali
 
 ## Art. 45. — Funzioni della regione
+
+1.
+                        
+                            
+                                Sono esercitate dalla regione le funzioni di programmazione, coordinamento e di verifica, nonche' le funzioni amministrative relative:
+ 
+                            
+                            
+                                a)
+                                
+                                    alla determinazione, per tutto il territorio regionale, di eventuali benefici aggiuntivi di cui all'articolo 130, comma 2, del decreto legislativo n. 112 del 1998;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    alla definizione dei criteri generali per le procedure di rilascio della concessione di nuovi trattamenti economici a favore degli invalidi civili, e per i raccordi con la fase dell'accertamento sanitario disciplinata dal decreto del Presidente della Repubblica 21 settembre 1994, n. 698, emanato in attuazione della legge 24 dicembre 1993, n. 537. ((1))
 
 ----------------
                             AGGIORNAMENTO (1)

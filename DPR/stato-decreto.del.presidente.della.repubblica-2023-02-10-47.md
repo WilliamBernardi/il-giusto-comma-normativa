@@ -7,8 +7,8 @@ urn: urn:nir:stato:decreto.del.presidente.della.repubblica:2023-02-10;47
 vigente: true
 source: normattiva-opendata
 collection: DPR
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:47:57Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -34,7 +34,96 @@ Sono escluse dall'ambito di applicazione del presente regolamento le attivita' d
 
 ## Art. 2. — Definizioni
 
+1.
+                    
+                        
+                            Ai fini del presente decreto si intende per: 
+ 
+                        
+                        
+                            a)
+                            
+                                «centri di riferimento»: strutture universitarie, aziende ospedaliere di alta specialita' e istituti di ricovero e cura a carattere scientifico (IRCCS), individuati per la conservazione e l'utilizzazione dei corpi dei defunti ai fini di studio, di formazione e di ricerca scientifica di cui all'articolo 4, comma 1, della legge n. 10 del 2020, e iscritti nell'elenco nazionale dei centri di riferimento di cui articolo 5 della medesima legge; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                «disponente»: persona che dispone del proprio corpo o dei tessuti post mortem, mediante una dichiarazione di consenso all'utilizzo dei medesimi redatta nelle forme previste dall'articolo 4, comma 6, della legge 22 dicembre 2017, n. 219, relativa al consenso informato e alle disposizioni anticipate di trattamento; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                «fiduciario»: persona di fiducia del disponente indicata dal medesimo nella dichiarazione di consenso all'utilizzo del proprio corpo o dei tessuti post mortem e incaricata di comunicare al medico che ha accertato il decesso l'esistenza dell'atto di disposizione del proprio corpo o dei tessuti post mortem del disponente.
+
 ## Art. 3. — Cause di esclusione dell'utilizzo
+
+1.
+                    
+                        
+                            Ferma restando l'applicazione delle norme previste per i casi di morte violenta o quando vi e' il sospetto che la morte sia dovuta a reato, sono esclusi dall'utilizzo ai fini di studio, di formazione e di ricerca scientifica i corpi: 
+ 
+                        
+                        
+                            a)
+                            
+                                affetti da HIV, HBV, HCV, tubercolosi, sifilide, encefalopatie spongiformi trasmissibili, infezioni correlate all'assistenza - nei casi in cui l'infezione costituisca causa esclusiva o prevalente del decesso - e infezioni correlate all'antimicrobico-resistenza, SARS-CoV-2 - inclusi i casi probabili, sospetti e confermati -, infezioni emergenti o particolari patologie in grado di esporre a grave rischio la salute degli operatori del settore; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                sottoposti a trattamenti recenti con radionuclidi terapeutici; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                sottoposti a riscontro diagnostico o ad autopsia giudiziaria; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                con gravi mutilazioni ed estese ferite aperte di natura post-traumatica; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                di individui suicidi; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                di individui deceduti all'estero.
+
+2.
+                    
+                        
+                            Il centro di riferimento competente per territorio ha la facolta' di rifiutare il corpo, dandone immediatamente informazione al medico che ha accertato il decesso nei seguenti casi: 
+ 
+                        
+                        
+                            a)
+                            
+                                mancato ricevimento da parte dell'Azienda sanitaria locale della certificazione medica attestante l'assenza di malattie infettive o diffusive entro cinque giorni dal decesso; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                trasporto differito, che non consente l'arrivo della salma presso il centro di riferimento entro sette giorni dal decesso.
 
 ## Art. 4.
 
@@ -68,6 +157,24 @@ Qualora il corpo venga restituito alla famiglia o nel caso in cui il corpo non s
 Nell'ipotesi in cui la famiglia non richieda la restituzione del corpo, il responsabile del centro di riferimento formula apposita istanza all'ufficiale dello stato civile, nel caso di inumazione e di tumulazione, o al Sindaco-ufficiale di stato civile, nel caso di cremazione, del comune ove ha avuto luogo il decesso del disponente.
 
 ## Art. 6. — Disciplina delle iniziative di informazione rivolta alle regioni e alle strutture sanitarie per dare diffusione all'informazione.
+
+1.
+                    
+                        
+                            Le regioni e le aziende sanitarie locali, anche attraverso il coinvolgimento dei centri di riferimento, adottano le iniziative di informazione e di comunicazione di cui all'articolo 2, comma 2, della legge n. 10 del 2020, tenendo conto delle seguenti indicazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                l'informazione del personale medico e sanitario avviene attraverso la diffusione della conoscenza della disciplina in tema di disposizioni del proprio corpo e dei tessuti post mortem ai fini di studio, di formazione e di ricerca scientifica e, in particolare, delle relative modalita' di attuazione; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                il materiale informativo deve contenere le indicazioni necessarie per la corretta informazione dei cittadini sull'utilizzo del corpo umano e dei tessuti post mortem ai fini di studio, di formazione e di ricerca scientifica e deve esserne data diffusione sul territorio anche tramite le amministrazioni comunali e le associazioni di volontariato.
 
 ## Art. 7. — Clausola di invarianza finanziaria
 

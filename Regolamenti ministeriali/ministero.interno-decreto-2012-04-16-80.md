@@ -8,8 +8,8 @@ codice_redazionale: 012G0100
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:40Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -37,6 +37,45 @@ In relazione a particolari esigenze dell'amministrazione, il bando di concorso p
 
 ## Art. 2. — Requisiti di ammissione
 
+1.
+                    
+                        
+                            Per l'ammissione al concorso pubblico di accesso alla qualifica iniziale del ruolo dei direttivi del Corpo nazionale dei vigili del fuoco, i candidati debbono risultare in possesso, alla data di scadenza del termine stabilito per la presentazione delle domande, dei seguenti requisiti: 
+ 
+                        
+                        
+                            a)
+                            
+                                requisiti generali per la partecipazione ai pubblici concorsi per l'accesso ai pubblici impieghi previsti dal decreto del Presidente della Repubblica 9 maggio 1994, n. 487; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                eta' non superiore a quella stabilita dal regolamento adottato ai sensi dell'articolo 3, comma 6, della legge 15 maggio 1997, n. 127, e successive modificazioni; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                idoneita' fisica, psichica e attitudinale al servizio, secondo i requisiti stabiliti con il regolamento del Ministro dell'interno 11 marzo 2008, n. 78; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                qualita' morali e di condotta di cui all'articolo 26 della legge 1° febbraio 1989, n. 53; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                gli altri requisiti previsti dall'articolo 41 del decreto legislativo 13 ottobre 2005, n. 217.
+
 ## Art. 3. — Prova preselettiva
 
 Qualora il numero delle domande presentate superi di venti volte il numero dei posti messi a concorso, l'ammissione dei candidati alle prove d'esame puo' essere subordinata al superamento di una prova preselettiva.
@@ -58,9 +97,116 @@ Il punteggio della prova preselettiva non concorre alla formazione del voto fina
 
 Le prove di esame sono costituite da due prove scritte e da una prova orale.
 
+2.
+                    
+                        
+                            La prima prova scritta consiste nello svolgimento di un elaborato su un argomento di scienza e/o tecnica delle costruzioni.
+La seconda prova scritta verte, a scelta del candidato, su una delle tre tracce proposte dalla commissione, tra le seguenti materie: 
+ 
+                        
+                        
+                            a)
+                            
+                                elettrotecnica, impianti di distribuzione e di utilizzazione; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                ingegneria chimica, chimica industriale e impianti chimici; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                macchine e meccanica applicata alle macchine; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                idraulica e costruzioni idrauliche; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                costruzioni civili e industriali; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                fisica nucleare e impianti nucleari.
+
 Nel bando di concorso sono specificati gli argomenti relativi alle suddette materie, sui quali vertono le prove stesse.
 
 Sono ammessi alla successiva prova orale i candidati che abbiano riportato in ciascuna delle prove scritte una votazione non inferiore a 21/30 (ventuno/trentesimi).
+
+5.
+                    
+                        
+                            La prova orale verte, oltre che sulle materie oggetto delle prove scritte, sulle seguenti materie: 
+ 
+                        
+                        
+                            a)
+                            
+                                fisica tecnica; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                chimica; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                meccanica; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                elementi di legislazione sociale e norme sulla tutela della salute e della sicurezza nei luoghi di lavoro; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                elementi di diritto amministrativo, costituzionale e comunitario; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                lingua straniera, a scelta del candidato, tra quelle indicate nel bando di concorso; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                conoscenza dell'uso delle apparecchiature e delle applicazioni informatiche piu' diffuse; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                ordinamento del Ministero dell'interno, con particolare riferimento al Dipartimento dei Vigili del Fuoco, del Soccorso Pubblico e della Difesa Civile.
 
 Nel bando di concorso sono specificati gli argomenti relativi alle suddette materie, sui quali verte la prova stessa.
 
@@ -77,6 +223,38 @@ In relazione al numero dei candidati, la commissione, unico restando il presiden
 Per le ipotesi di assenza o impedimento del presidente, di uno o piu' componenti e del segretario della commissione, i relativi supplenti sono nominati con il decreto di nomina della commissione medesima o con successivo provvedimento.
 
 ## Art. 6. — Titoli
+
+1.
+                    
+                        
+                            I titoli ammessi alla valutazione, a parita' di punteggio, sono, in ordine di preferenza: 
+ 
+                        
+                        
+                            a)
+                            
+                                dottorato di ricerca in ingegneria o architettura; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                diploma di specializzazione post-universitario in ingegneria o architettura; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                altra laurea magistrale di cui all'articolo 41, comma 1, lettera d), del decreto legislativo 13 ottobre 2005, n. 217; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                laurea magistrale non attinente alle funzioni del ruolo.
 
 Non sono valutati i titoli la cui documentazione non sia conforme a quanto prescritto dal bando di concorso ovvero che siano pervenuti all'amministrazione dopo la scadenza del termine stabilito nel bando stesso, salvo i casi di regolarizzazione formale da effettuarsi entro il termine assegnato dall'amministrazione stessa.
 La commissione, prima dello svolgimento delle prove scritte, determina i criteri per la valutazione dei titoli di cui al comma 1.

@@ -8,8 +8,8 @@ codice_redazionale: 095G0137
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:39Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -83,6 +83,31 @@ Nella data e nell'orario stabiliti per le votazioni, l'elettore, dopo aver dimos
 Il voto e' individuale e segreto. Ogni segno di indentificazione dell'elettore comporta l'annullamento della scheda elettorale.
 
 Terminate le operazioni di voto, il presidente del seggio procede al controllo del numero dei votanti, accertandone la rispondenza con il numero delle schede votate.
+
+4.
+                        
+                            
+                                Il segretario del seggio redige quindi un verbale, sottoscritto dal presidente, contenente le seguenti notizie:
+ 
+                            
+                            
+                                a)
+                                
+                                    numero delle schede ricevute per ciascuna categoria;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    numero delle schede votate per ciascuna categoria;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    numero delle schede non utilizzate.
 
 Le schede votate sono raggruppate per categoria in plichi separati. In altro plico sono inserite le schede non utilizzate o annullate nel corso delle operazioni elettorali, il verbale e gli elenchi degli elettori. Detti plichi, sigillati e firmati da tutti i componenti del seggio, sono riuniti in un unico plico che viene consegnato agli uffici amministrativi delle universita' e degli istituti che ne curano la trasmissione al Ministero.
 

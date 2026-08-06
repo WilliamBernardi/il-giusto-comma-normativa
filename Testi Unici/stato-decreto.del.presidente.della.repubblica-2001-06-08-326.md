@@ -8,8 +8,8 @@ codice_redazionale: 001G0371
 vigente: true
 source: normattiva-opendata
 collection: Testi Unici
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:39:59Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -106,6 +106,31 @@ Vincoli derivanti da atti diversi dai piani urbanistici generali
 ## Art. 11. — (L-R) 
  La partecipazione degli interessati
 
+1.
+                        
+                            
+                                Al proprietario del bene sul quale si intende apporre il vincolo preordinato all'esproprio, che risulti dai registri catastali, va inviato l'avviso dell'avvio del procedimento: 
+
+                            
+                            
+                                a)
+                                
+                                    nel caso di adozione di una variante al piano regolatore per la realizzazione di una singola opera pubblica, almeno venti giorni prima della delibera del consiglio comunale; 
+                                
+                            
+                            
+                                b)
+                                
+                                    nei casi previsti dall'articolo 10, comma 1, almeno venti giorni prima dell'emanazione dell'atto, se cio' risulti compatibile con le esigenze di celerita' del procedimento; 
+                                
+                            
+                            
+                                c)
+                                
+                                    nei casi previsti dall'articolo 12, comma 1, lettera c), l'avviso di avvio del procedimento e' comunicato agli interessati alle singole opere previste dal progetto, dandone altresi' pubblico avviso su uno o piu' quotidiani a diffusione nazionale e locale. 
+ Gli interessati possono formulare entro i successivi trenta giorni 
+ osservazioni che vengono valutate dalla conferenza di servizi ai fini delle definitive determinazioni. (R)
+
 Qualora il vincolo preordinato all'esproprio sorga dall'inserimento dell'opera pubblica nel programma dei lavori, al proprietario dell'area va inviato l'avviso dell'avvio del procedimento di approvazione del medesimo programma. (R) 
  
 --------------- 
@@ -138,6 +163,36 @@ Contenuto ed effetti dell'atto che comporta
 ## Art. 14. — (L-R) 
 Istituzione degli elenchi degli atti che dichiarano la pubblica utilita'
 
+3.
+                        
+                            
+                                L'autorita' espropriante comunica all'ufficio di cui al comma 2: 
+ 
+                            
+                            
+                                a)
+                                
+                                    quale sia lo stato del procedimento d'esproprio, almeno sei mesi e non oltre tre mesi prima della data di scadenza degli effetti della dichiarazione di pubblica utilita'; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    se sia stato eseguito entro il prescritto termine il decreto d'esproprio ovvero se il medesimo termine sia inutilmente scaduto; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    se siano stati impugnati gli atti di adozione e di approvazione del piano urbanistico generale, il programma dei lavori, l'atto che dichiara la pubblica utilita' dell'opera o il decreto di esproprio. (R) 
+ 
+--------------- 
+Nota redazionale 
+ Il testo del presente articolo e' gia' integrato con le correzioni apportate dall'avviso di rettifica pubblicato in G.U. 14/09/2001, n. 214 durante il periodo di "vacatio legis". 
+ E' possibile visualizzare il testo originario accedendo alla versione pdf della relativa Gazzetta di pubblicazione.
+
 ## - Sezione II Disposizioni particolari sulla approvazione del progetto definitivo dell'opera
 
 ## Art. 15. — (L-R)
@@ -161,6 +216,45 @@ Il proprietario e il possessore del bene possono assistere alle operazioni, anch
 In ogni caso, lo schema dell'atto di approvazione del progetto deve descrivere i terreni e gli edifici di cui e' prevista l'espropriazione, con l'indicazione dell'estensione e dei confini, nonche', possibilmente, dei dati identificativi catastali e con il nome ed il cognome dei proprietari iscritti nei registri catastali. (R)
 
 L'autorizzazione rilasciata ai sensi dell'articolo 15 consente anche l'effettuazione delle operazioni previste dal comma 2. (R)
+
+4.
+                        
+                            
+                                Al proprietario dell'area ove e' prevista la realizzazione dell'opera e' inviato l'avviso dell'avvio del procedimento ed e' trasmesso lo schema dell'atto di approvazione del progetto unitamente ad una relazione, dalla quale risultino:
+ 
+                            
+                            
+                                a)
+                                
+                                    la natura e lo scopo dell'opera da eseguirsi o dell'intervento da realizzare;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la spesa presunta;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    i dati dell'area, come risultanti dalle mappe catastali, nonche' quelli delle aree di cui e' prevista l'espropriazione;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    i nominativi degli altri proprietari delle aree oggetto del medesimo procedimento, ove essi risultino;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    l'indicazione del responsabile del procedimento. (R)
 
 Se la comunicazione prevista dal comma 4 non ha luogo per irreperibilita' o assenza del proprietario risultante dai registri catastali, il progetto puo' essere ugualmente approvato. (R)
 
@@ -236,6 +330,23 @@ Nel caso di comunicazione positiva del proprietario, l'autorita' espropriante no
 Il presidente del tribunale civile, nella cui circoscrizione si trova il bene da stimare, nomina il terzo tecnico, su istanza di chi vi abbia interesse. (R)
 
 Il presidente del tribunale civile sceglie il terzo tecnico tra i professori universitari, anche associati, di estimo, ovvero tra coloro che risultano inseriti nell'albo dei periti e dei consulenti tecnici del tribunale civile nella cui circoscrizione si trova il bene. (R)
+
+6.
+                        
+                            
+                                Le spese per la nomina dei tecnici: 
+
+                            
+                            
+                                a)
+                                
+                                    sono liquidate dall'autorita' espropriante, in base alle tariffe professionali; 
+                                
+                            
+                            
+                                b)
+                                
+                                    sono poste a carico del proprietario se la stima e' inferiore alla somma determinata in via provvisoria, sono divise per meta' tra il beneficiario dell'esproprio e l'espropriato se la differenza con la somma determinata in via provvisoria non supera il decimo e, negli altri casi, sono poste a carico del beneficiario dell'esproprio. (R)
 
 I tecnici comunicano agli interessati il luogo, la data e l'ora delle operazioni, mediante lettera raccomandata con avviso di ricevimento o strumento telematico, almeno sette giorni prima della data stabilita. (R)
 
@@ -343,6 +454,24 @@ In seguito alla presentazione, da parte del promotore dell'espropriazione, degli
 L'autorita' espropriante autorizza il pagamento della somma depositata al proprietario od agli aventi diritto, qualora sia divenuta definitiva rispetto a tutti la determinazione dell'indennita' di espropriazione, ovvero non sia stata tempestivamente notificata l'opposizione al pagamento o sia stato concluso tra tutte le parti interessate l'accordo per la distribuzione dell'indennita'. (R)
 
 L'autorizzazione e' disposta su istanza delle parti interessate, su proposta del responsabile del procedimento successiva alla audizione delle parti, da cui risulti anche la mancata notifica di opposizioni di terzi. (R)
+
+3.
+                        
+                            
+                                Unitamente all'istanza, vanno depositati:
+ 
+                            
+                            
+                                a)
+                                
+                                    un certificato dei registri immobiliari, da cui risulta che non vi sono trascrizioni o iscrizioni di diritti o di azioni di terzi;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    un attestato del promotore dell'espropriazione, da cui risulti che non gli sono state notificate opposizioni di terzi. (R)
 
 ## Art. 29. — (L)
  Pagamento dell'indennita' a seguito

@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: DPR
 vigenza_date: 2025-04-19
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:47:45Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -23,6 +23,38 @@ DECRETO DEL PRESIDENTE DELLA REPUBBLICA
 ## Art. 1. — Istituzione di ruoli e carriera
 
 
+
+1.
+                        
+                            
+                                Per le esigenze operative di polizia e, in generale, di supporto del Ministero dell'interno nonche', fatte salve le predette esigenze, della Presidenza del Consiglio dei ministri, in relazione all'ultimo comma dell' articolo 1 della legge 1° aprile 1981, n. 121, nell'ambito dell'Amministrazione della pubblica sicurezza sono istituiti i seguenti ruoli e la seguente carriera del personale della Polizia di Stato che svolge attivita' tecnico-scientifica o tecnica: 
+ 
+                            
+                            
+                                a)
+                                
+                                    ruolo degli agenti e assistenti tecnici; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    ruolo dei sovrintendenti tecnici; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    ruolo degli ispettori tecnici; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    carriera dei funzionari tecnici.
 
 Le relative dotazioni organiche sono fissate nella allegata tabella A.
 
@@ -66,7 +98,57 @@ Gli appartenenti alle qualifiche di assistente tecnico e assistente capo tecnico
 
 In relazione al qualificato profilo professionale raggiunto, agli assistenti capo tecnici, che maturano ((cinque)) anni di effettivo servizio nella qualifica, possono essere affidati, anche permanendo nello stesso incarico, compiti di maggiore responsabilita', tra le mansioni di cui ai commi ((1, 2, 3 e 4)), ed e' attribuita, ferma restando la qualifica rivestita, la denominazione di «coordinatore», che determina, in relazione alla data di conferimento, preminenza gerarchica, anche nei casi di pari qualifica con diversa anzianita'. I soggetti di cui al primo periodo svolgono altresi' mansioni di coordinamento del personale del medesimo ruolo, anche in servizi non operativi, al fine di assicurare la funzionalita' degli uffici e lo svolgimento delle attivita' istituzionali.
 
+4-ter.
+                        
+                            
+                                E' escluso dall'attribuzione della denominazione di cui al comma 4-bis, il personale: 
+ 
+                            
+                            
+                                a)
+                                
+                                    che nel triennio precedente abbia riportato un giudizio inferiore a «distinto» o che nel quinquennio precedente abbia riportato una sanzione disciplinare piu' grave della pena pecuniaria; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    sospeso cautelarmente dal servizio, rinviato a giudizio o ammesso ai riti alternativi per delitti non colposi ovvero sottoposto a procedimento disciplinare per l'applicazione di una sanzione piu' grave della pena pecuniaria. La denominazione e' attribuita dopo la definizione dei relativi procedimenti, fermo restando quanto previsto dal presente comma. Si applicano le disposizioni contenute negli articoli 94 e 95 del decreto del Presidente della Repubblica 10 gennaio 1957, n. 3.
+
 ## Art. 5. — Nomina ad agente tecnico
+
+1.
+                        
+                            
+                                L'accesso alla qualifica iniziale del ruolo degli agenti e assistenti tecnici avviene mediante pubblico concorso per titoli ed esame, al quale sono ammessi a partecipare i cittadini italiani in possesso dei seguenti requisiti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    godimento dei diritti civili e politici; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    eta' non superiore a ventisei anni stabilita dal regolamento adottato ai sensi dell'articolo 3, comma 6, della legge 15 maggio 1997, n. 127, fatte salve le deroghe di cui al predetto regolamento; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    diploma di istruzione secondaria di secondo grado che consente l'iscrizione ai corsi per il conseguimento del diploma universitario, ovvero di titolo di abilitazione professionale conseguito dopo l'acquisizione del diploma di istruzione secondaria di primo grado; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    qualita' di condotta di cui all'articolo 26 della legge 1° febbraio 1989, n. 53.
 
 L'idoneita' fisica, psichica e attitudinale servizio dei candidati e' accertata secondo quanto stabilito con regolamento del Ministro dell'interno, da emanare ai sensi dell'articolo 17, comma 3, della legge 23 agosto 1988, n. 400.
 
@@ -95,6 +177,39 @@ che "Fino alla data di entrata in vigore dei decreti e dei regolamenti di cui ag
 ## Art. 5-bis. — (( (Dimissioni dal corso per la nomina ad agente tecnico).))
 
 ((
+
+1.
+                        
+                            
+                                Sono dimessi dal corso: 
+ 
+                            
+                            
+                                a)
+                                
+                                    gli allievi che non superano gli esami di fine corso di cui all'articolo 5, comma 6; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    gli allievi che non siano riconosciuti idonei al servizio di polizia; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    gli allievi che dichiarino di rinunciare al corso; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    gli allievi che siano stati per qualsiasi motivo assenti dal corso per piu' di trenta giorni, anche non consecutivi, ovvero quarantacinque giorni se l'assenza e' stata determinata da infermita' contratta durante il corso; in quest'ultimo caso gli allievi, dopo la riacquistata idoneita' fisico-psichica, sono ammessi a partecipare al primo corso successivo. 
+ Nel caso in cui l'assenza e' dovuta a gravi infermita', anche non dipendenti da causa di servizio, che richiedono terapie salvavita ed impediscono lo svolgimento delle attivita' giornaliere, o ad altre ad esse assimilabili secondo le indicazioni dell'Ufficio medico legale dell'Azienda sanitaria competente per territorio, il personale, a domanda, e' ammesso a partecipare al corrispondente primo corso successivo al riconoscimento della sua idoneita' psico-fisica e sempre che nel periodo precedente a detto corso non sia intervenuta una delle cause di esclusione previste per la partecipazione alle procedure per l'accesso alla qualifica. Gli allievi di sesso femminile, la cui assenza oltre trenta giorni sia stata determinata da maternita', sono ammessi a partecipare al primo corso successivo al periodo di assenza dal lavoro previsto dalle disposizioni sulla tutela delle lavoratrici madri.
 
 Sono espulsi dal corso gli allievi responsabili di mancanze punibili con sanzioni disciplinari piu' gravi della deplorazione.
 
@@ -197,6 +312,24 @@ Collabora con i propri superiori gerarchici e puo' sostituirli in caso di tempor
 
 Al personale della qualifica sovrintendente capo tecnico, oltre a quanto gia' specificato, possono essere attribuiti incarichi specialistici richiedenti particolari conoscenze tecniche ed attitudini. In relazione al qualificato profilo professionale raggiunto, ai sovrintendenti capo tecnici, che maturano otto anni di effettivo servizio nella qualifica, possono essere affidati, anche permanendo nello stesso incarico, compiti di maggiore responsabilita', tra le mansioni previste dai commi 1 e 2, ed e' attribuita, ferma restando la qualifica rivestita, la denominazione di «coordinatore», che determina, in relazione alla data di conferimento, preminenza gerarchica, anche nei casi di pari qualifica con diversa anzianita'. I soggetti di cui al secondo periodo svolgono altresi' mansioni di coordinamento del personale dipendente, anche in servizi non operativi, al fine di assicurare la funzionalita' degli uffici e lo svolgimento delle attivita' istituzionali. ((20))
 
+3-bis.
+                        
+                            
+                                E' escluso dall'attribuzione della denominazione di cui al comma 3, il personale: 
+ 
+                            
+                            
+                                a)
+                                
+                                    che nel triennio precedente abbia riportato un giudizio inferiore a «distinto» o che nel quinquennio precedente abbia riportato una sanzione disciplinare piu' grave della pena pecuniaria; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    sospeso cautelarmente dal servizio, rinviato a giudizio o ammesso ai riti alternativi per delitti non colposi ovvero sottoposto a procedimento disciplinare per l'applicazione di una sanzione piu' grave della pena pecuniaria. La denominazione e' attribuita dopo la definizione dei relativi procedimenti, fermo restando quanto previsto dal presente comma. Si applicano le disposizioni contenute negli articoli 94 e 95 del decreto del Presidente della Repubblica 10 gennaio 1957, n. 3.
+
 Al suddetto personale possono essere attribuiti compiti di istruzione del personale sottordinato.
 
 ---------------
@@ -205,6 +338,42 @@ Al suddetto personale possono essere attribuiti compiti di istruzione del person
  Il D.Lgs. 27 dicembre 2019, n. 172, ha disposto (con l'art. 4, comma 1, lettera e)) che " 2) al comma 3, al primo periodo, la parola «otto» e' sostituita dalla seguente: «sei»".
 
 ## Art. 20-quater. — (Nomina a vice sovrintendente tecnico)
+
+1.
+                        
+                            
+                                L'accesso alla qualifica iniziale del ruolo dei sovrintendenti tecnici della Polizia di Stato avviene, a domanda: 
+ 
+                            
+                            
+                                a)
+                                
+                                    nel limite del settanta per cento dei posti disponibili al 31 dicembre di ogni anno, mediante selezione effettuata con scrutinio per merito comparativo e superamento di un successivo corso di formazione tecnico-professionale, della durata non superiore a tre mesi, espletato anche con modalita' telematiche, riservato agli assistenti capo tecnici, assicurando la permanenza nella sede di servizio al personale interessato, ove esistano uffici che ne consentano l'impiego; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    nel limite del restante trenta per cento dei posti disponibili al 31 dicembre di ogni anno, mediante concorso, espletato in via prioritaria con modalita' telematiche, per titoli ed esame, consistente in risposte ad un questionario tendente ad accertare prevalentemente il grado di preparazione tecnico-professionale, soprattutto a livello pratico ed operativo, e successivo corso di formazione tecnico-professionale, della durata non superiore a tre mesi, espletato anche con modalita' telematiche, riservato al personale del ruolo degli agenti e assistenti tecnici che abbia compiuto almeno quattro anni di effettivo servizio.
+
+2.
+                        
+                            
+                                Alle procedure di cui al comma 1 e' ammesso il personale, in possesso dei requisiti ivi previsti, che: 
+ 
+                            
+                            
+                                a)
+                                
+                                    abbia riportato, nell'ultimo biennio, un giudizio complessivo non inferiore a buono; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    non abbia riportato, nell'ultimo biennio, sanzioni disciplinari piu' gravi della deplorazione.
 
 ((
 
@@ -241,6 +410,31 @@ La facolta' di rinunciare all'accesso alla qualifica iniziale del ruolo dei sovr
 ## Art. 20-quinquies. — Dimissione dal corso
 
 
+
+1.
+                        
+                            
+                                E' dimesso dal corso di cui all'articolo 20-quater, il personale che: 
+ 
+                            
+                            
+                                a)
+                                
+                                    dichiara di rinunciare al corso; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    non supera gli esami di fine corso; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    e' stato per qualsiasi motivo assente dal corso per un periodo superiore ad un quarto delle giornate di studio, anche se non continuative. Nell'ipotesi di assenza dovuta ad infermita' contratta durante il corso ovvero ad infermita' dipendente da causa di servizio, il personale e' ammesso a partecipare di diritto al corrispondente primo corso successivo al riconoscimento della sua idoneita' psico-fisica e sempre che nel periodo precedente a detto corso non sia intervenuta una delle cause di esclusione previste per la partecipazione alle procedure di cui all'articolo 20-quater. ((Nel caso in cui l'assenza e' dovuta a gravi infermita', anche non dipendenti da causa di servizio, che richiedono terapie salvavita ed impediscono lo svolgimento delle attivita' giornaliere, o ad altre ad esse assimilabili secondo le indicazioni dell'Ufficio medico legale dell'Azienda sanitaria competente per territorio, il personale, a domanda, e' ammesso a partecipare al corrispondente primo corso successivo al riconoscimento della sua idoneita' psico-fisica e sempre che nel periodo precedente a detto corso non sia intervenuta una delle cause di esclusione previste per la partecipazione alle procedure di cui all'articolo 20-quater.))
 
 Il personale di sesso femminile, la cui assenza oltre i limiti di cui al comma 1 e' stata determinata da maternita', e' ammesso a partecipare al corrispondente primo corso successivo ai periodi di assenza dal lavoro previsti dalle disposizioni sulla tutela delle lavoratrici madri.
 
@@ -313,7 +507,45 @@ Il personale appartenente alla qualifiche di ispettore superiore tecnico ((e di 
 
 In relazione al qualificato profilo professionale raggiunto, ((ai sostituti commissari tecnici)), che maturano quattro anni di effettivo servizio nella qualifica, possono essere affidati, anche permanendo nello stesso incarico, compiti di maggiore responsabilita', secondo la graduazione e i criteri fissati con provvedimento del capo della polizia-direttore generale della pubblica sicurezza, tra le funzioni di cui ai commi 3 e 5, ed e' attribuita, ferma restando la qualifica rivestita, la denominazione di «coordinatore», che determina, in relazione alla data di conferimento, preminenza gerarchica, anche nei casi di pari qualifica con diversa anzianita'.
 
+5-ter.
+                        
+                            
+                                E' escluso dall'attribuzione della denominazione di cui al comma 5-bis, il personale: 
+ 
+                            
+                            
+                                a)
+                                
+                                    che nel triennio precedente abbia riportato un giudizio inferiore a «ottimo» o che nel quinquennio precedente abbia riportato una sanzione disciplinare piu' grave della pena pecuniaria; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    sospeso cautelarmente dal servizio, rinviato a giudizio o ammesso ai riti alternativi per delitti non colposi ovvero sottoposto a procedimento disciplinare per l'applicazione di una sanzione piu' grave della pena pecuniaria. La denominazione e' attribuita dopo la definizione dei relativi procedimenti, fermo restando quanto previsto dal presente comma. Si applicano le disposizioni contenute negli articoli 94 e 95 del decreto del Presidente della Repubblica 10 gennaio 1957, n. 3.
+
 ## Art. 25. — (Nomina a vice ispettore tecnico)
+
+1.
+                        
+                            
+                                La nomina alla qualifica di vice ispettore tecnico si consegue: 
+ 
+                            
+                            
+                                a)
+                                
+                                    
+                                        ((in misura non superiore al sessanta per cento e non inferiore al cinquanta per cento)) dei posti disponibili al 31 dicembre di ogni anno, mediante pubblico concorso per titoli ed esami; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    
+                                        ((in misura non superiore al cinquanta per cento e non inferiore al quaranta per cento)) dei posti disponibili al 31 dicembre di ogni anno, mediante concorso interno per titoli ed esami.
 
 I posti disponibili di cui al comma 1, messi a concorso e non coperti, sono portati in aumento alla vacanza di organico complessivo per l'anno successivo.
 
@@ -326,6 +558,45 @@ Al fine di garantire l'organico sviluppo della progressione del personale del ru
 ## Art. 25-bis. — (Concorso pubblico per la nomina a vice ispettore tecnico)
 
 ((
+
+1.
+                        
+                            
+                                Al concorso pubblico di cui all'articolo 25, comma 1, lettera a), possono partecipare i cittadini italiani in possesso dei seguenti requisiti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    godimento dei diritti civili e politici; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    eta' non superiore a ventotto anni stabilita dal regolamento adottato ai sensi dell'articolo 3, comma 6, della legge 15 maggio 1997, n. 127, fatte salve le deroghe di cui al predetto regolamento; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    specifico titolo di studio di istruzione secondaria di secondo grado che consente l'iscrizione ai corsi per il conseguimento del diploma universitario, nonche', ove sia previsto dalla legge, del diploma o attestato di abilitazione ovvero laurea triennale, tutti attinenti all'esercizio dell'attivita' inerente al profilo professionale per il quale si concorre; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    idoneita' fisica, psichica e attitudinale al servizio secondo i requisiti stabiliti con regolamento del Ministro dell'interno, da adottare ai sensi dell'articolo 17, comma 3, della legge 23 agosto 1988, n. 400; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    qualita' di condotta di cui all'articolo 26 della legge 1° febbraio 1989, n. 53.
 
 ))
 
@@ -380,6 +651,31 @@ AGGIORNAMENTO (18)
 ## Art. 25-quater. — (Dimissioni dal corso)
 
 ((
+
+1.
+                        
+                            
+                                Sono dimessi dai corsi di formazione tecnico-professionale di cui agli articoli 25-bis, commi 8 e 8-bis, e 25-ter, comma 4, gli allievi che: 
+ 
+                            
+                            
+                                a)
+                                
+                                    dichiarano di rinunciare al corso; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    non superano gli esami di fine corso; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    sono stati per qualsiasi motivo assenti dal corso per piu' di sessanta o novanta giorni, anche non consecutivi, rispettivamente per i frequentatori dei corsi di durata semestrale e per quelli di durata biennale, elevati, per questi ultimi, a centoventi giorni nell'ipotesi di assenza determinata da infermita' contratta durante il corso ovvero da infermita' dipendente da causa di servizio. In caso di dimissioni per assenze causate da tali infermita', il personale e' ammesso a partecipare di diritto al primo corso successivo al riconoscimento della sua idoneita' psico-fisica. Nel caso in cui l'assenza e' dovuta a gravi infermita', anche non dipendenti da causa di servizio, che richiedono terapie salvavita ed impediscono lo svolgimento delle attivita' giornaliere, o ad altre ad esse assimilabili secondo le indicazioni dell'Ufficio medico legale dell'Azienda sanitaria competente per territorio, il personale, a domanda, e' ammesso a partecipare al corrispondente primo corso successivo al riconoscimento della sua idoneita' psico-fisica e sempre che nel periodo precedente a detto corso non sia intervenuta una delle cause di esclusione previste per la partecipazione alle procedure per l'accesso alla qualifica. I frequentatori provenienti dai ruoli del personale della Polizia di Stato, dimessi dal corso per infermita' o altra causa indipendente dalla propria volonta' sono ammessi di diritto, per una sola volta, a partecipare al primo corso successivo al cessare della causa impeditiva.
 
 ))
 

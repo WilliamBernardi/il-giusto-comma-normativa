@@ -8,8 +8,8 @@ codice_redazionale: 092G0449
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:39Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -35,6 +35,31 @@ Udito il parere del Consiglio di Stato espresso nella adunanza generale del 23 l
 
 Si definisce area di telecomunicazioni avanzata, anche ai fini dell'applicazione delle tariffe per i collegamenti ad elevata intensita' di traffico, una zona territorialmente limitata, destinata ad insediamenti a prevalente attivita' terziaria, nel cui ambito si prevede una particolare concentrazione di utenti che svolgano attivita' di servizi, di affari e professionali, caratterizzati da intensa richiesta di scambi di flussi informativi e di telecomunicazioni tale da giustificare investimenti per l'apprestamento di particolari infrastrutture di rete da parte del gestore della rete pubblica.
 
+2.
+                    
+                        
+                            Per questa utenza, nell'ambito dell'area di telecomunicazioni avanzata, e' assicurata dal gestore pubblico:
+ 
+                        
+                        
+                            a)
+                            
+                                l'offerta delle prestazioni di reti occorrenti per l'espletamento dei servizi di telecomunicazione definiti dal piano regolatore nazionale delle telecomunicazioni;
+
+                            
+                        
+                        
+                            b)
+                            
+                                l'impiego delle tecnologie piu' avanzate, sia per la sperimentazione di nuovi servizi, sia per una piu' elevata qualita' dei servizi stessi;
+
+                            
+                        
+                        
+                            c)
+                            
+                                l'applicazione di una politica tariffaria per i servizi regolamentati, ispirata all'incentivazione dell'uso delle telecomunicazioni.
+
 Chiunque, anche nell'ambito dell'area di telecomunicazioni avanzata, puo' offrire servizi applicativi e/o a valore aggiunto servendosi delle prestazioni di rete fornite in esclusiva dal gestore della rete pubblica.
 
 Il gestore della rete pubblica assicura, all'occorrenza anche tramite strutture specializzate, l'interconnessione tra varie aree, ferma restando l'applicazione delle tariffe di cui all'art. 6 esclusivamente agli utenti ubicati in ciascuna area.
@@ -45,11 +70,97 @@ Le aree di telecominicazioni avanzate, con le caratteristiche ed i requisiti di 
 
 ## Art. 3. — Caratteristiche dell'area
 
+1.
+                    
+                        
+                            Le caratteristiche dell'area di telecomunicazioni avanzata sono le seguenti:
+ 
+                        
+                        
+                            a)
+                            
+                                il perimetro deve essere identificato e racchiudere una superficie di norma non inferiore a 25 ettari e non superiore a 1.000 ettari;
+
+                            
+                        
+                        
+                            b)
+                            
+                                l'area deve essere gia' provvista di opere di urbanizzazione primarie e secondarie di tipo integrato;
+
+                            
+                        
+                        
+                            c)
+                            
+                                l'area e' individuata sulla base del parere espresso, ai sensi della legge 7 agosto 1990, n. 241, dalle autorita' locali, aventi competenza urbanistica, circa le caratteristiche comportanti un preminente interesse per lo sviluppo socio-economico del territorio interessato.
+
 ## Art. 4. — Requisiti progettuali dell'area
+
+1.
+                    
+                        
+                            L'area di telecomunicazioni avanzata deve soddisfare i seguenti requisiti progettuali:
+ 
+                        
+                        
+                            a)
+                            
+                                superficie edificata di almeno 150.000 metri quadrati destinata agli usi di cui all'art. 2, per almeno 7.000 addetti;
+
+                            
+                        
+                        
+                            b)
+                            
+                                il raggiungimento di almeno 2.400 collegamenti su rete pubblica commutata con un numero di impulsi annui per collegamento di almeno 25.000;
+
+                            
+                        
+                        
+                            c)
+                            
+                                350 punti di accesso a reti dati (PARD) su circuiti diretti o su rete pubblica per trasmissione dati ovvero di 10 Mbit/s in termini di velocita' nominale.
 
 ## Art. 5. — Piano tecnico
 
 Per la definizione di ciascuna area di telecomunicazioni avanzata, il gestore della rete pubblica di telecomunicazioni sottopone al Ministero delle poste e delle telecomunicazioni un apposito piano tecnico esecutivo, con previsioni triennali, che e' assoggettato, per l'approvazione, alla stessa procedura prevista per i piani tecnici compartimentali esecutivi.
+
+2.
+                    
+                        
+                            Per l'approvazione del piano sono condizioni necessarie:
+ 
+                        
+                        
+                            a)
+                            
+                                il rispetto delle caratteristiche di cui all'art. 3;
+
+                            
+                        
+                        
+                            b)
+                            
+                                l'indicazione dei tempi di realizzazione degli edifici e degli impianti di telecomunicazioni di cui sia prevista la costruzione e l'installazione nell'area di telecomunicazioni avanzata.
+
+3.
+                    
+                        
+                            Successivamente all'approvazione del piano tecnico, per l'applicazione delle tariffe di cui all'art. 6, e' necessario che siano soddisfatte le seguenti condizioni:
+ 
+                        
+                        
+                            a)
+                            
+                                l'insediamento di almeno il 10% della potenzialita' globale dell'area, in termini di metri quadrati edificati, numero di addetti, di collegamenti e di punti di accesso a reti dati;
+
+                            
+                        
+                        
+                            b)
+                            
+                                la presenza nell'area e negli edifici che insistono sulla stessa di tutte le opere necessarie (canalizzazioni, locali, ecc.) all'installazione delle infrastrutture della rete pubblica di telecomunicazioni; tali opere sono definite in sede di progettazione con il gestore pubblico di telecomunicazioni.
 
 ## Art. 6. — T a r i f f e
 

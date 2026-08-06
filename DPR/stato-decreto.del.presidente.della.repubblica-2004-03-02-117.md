@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: DPR
 vigenza_date: 2009-07-04
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:47:43Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -29,6 +29,59 @@ Udito il parere del Consiglio di Stato, espresso dalla Sezione consultiva per gl
 Sulla proposta del Ministro per la funzione pubblica e del Ministro per l'innovazione e le tecnologie, di concerto con i Ministri dell'economia e delle finanze e dell'interno;
 
 ## Art. 1. — Definizioni
+
+1.
+                    
+                        
+                            Ai fini del presente decreto si intende per:
+ 
+                        
+                        
+                            a)
+                            
+                                carta nazionale dei servizi: il documento rilasciato su supporto informatico per consentire l'accesso per via telematica ai servizi erogati dalle pubbliche amministrazioni;
+
+                            
+                        
+                        
+                            b)
+                            
+                                carta di identita' elettronica: la carta d'identita' elettronica di cui all'articolo 36 del decreto del Presidente della Repubblica 28 dicembre 2000, n. 445;
+
+                            
+                        
+                        
+                            c)
+                            
+                                indice nazionale delle anagrafi: il sistema del Ministero dell'interno, Centro nazionale per i servizi demografici di cui all'articolo 2-quater del decreto-legge 27 dicembre 2000, n. 392, convertito, con modificazioni, dalla legge 28 febbraio 2001, n. 26;
+
+                            
+                        
+                        
+                            d)
+                            
+                                dati identificativi del titolare: il nome, il cognome, il sesso, la data ed il luogo di nascita, il luogo di residenza al momento del rilascio della carta nazionale dei servizi e il codice fiscale;
+
+                            
+                        
+                        
+                            e)
+                            
+                                pubbliche amministrazioni: le amministrazioni di cui all'articolo 1, comma 2, ed all'articolo 70, comma 4, del decreto legislativo 30 marzo 2001, n. 165;
+
+                            
+                        
+                        
+                            f)
+                            
+                                lista di emissione: l'elenco delle carte nazionali dei servizi emesse che sono state segnalate all'indice nazionale delle anagrafi;
+
+                            
+                        
+                        
+                            g)
+                            
+                                lista di revoca: gli elenchi delle carte nazionali dei servizi che sono state segnalate all'indice nazionale delle anagrafi come emesse e che sono revocate dalle amministrazioni emittenti.
 
 ## Art. 2. — Rilascio della carta nazionale dei servizi
 
@@ -49,6 +102,24 @@ L'onere economico di produzione e rilascio delle carte nazionale dei servizi e' 
 La carta nazionale dei servizi contiene un certificato di autenticazione, consistente nell'attestato elettronico che assicura l'autenticita' delle informazioni necessarie per l'identificazione in rete del titolare della carta nazionale dei servizi, rilasciato da un certificatore accreditato di cui all'articolo 1, comma 1, lettera z), del decreto del Presidente della Repubblica 28 dicembre 2000, n. 445.
 
 Le caratteristiche del certificato di autenticazione sono stabilite dalle regole tecniche di cui all'articolo 9.
+
+3.
+                    
+                        
+                            La carta nazionale dei servizi contiene:
+ 
+                        
+                        
+                            a)
+                            
+                                i dati identificativi del titolare;
+
+                            
+                        
+                        
+                            b)
+                            
+                                il codice numerico di identificazione della carta, nonche' le date del suo rilascio e della sua scadenza.
 
 La carta nazionale dei servizi riporta impresso in modo leggibile, sul dorso, la dicitura: «CARTA NAZIONALE DEI SERVIZI» ed il nome della pubblica amministrazione che l'ha emessa.
 

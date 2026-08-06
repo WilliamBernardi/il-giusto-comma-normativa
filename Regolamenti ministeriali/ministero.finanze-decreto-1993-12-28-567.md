@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
 vigenza_date: 2024-08-08
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:41Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -175,6 +175,45 @@ Con decreto del Ministro delle finanze, da pubblicare nella Gazzetta Ufficiale, 
 
 ## Art. 14. — Aggiornamento dei conti fiscali
 
+1.
+                        
+                            
+                                I concessionari del servizio della riscossione sono tenuti ad aggiornare i singoli conti fiscali nei seguenti termini:
+ 
+                            
+                            
+                                a)
+                                
+                                    nella stessa giornata di presentazione da parte degli intestatari delle richieste di rimborso e di erogazione dei rimborsi da parte dei concessionari;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    entro il terzo giorno successivo a quello di ricevimento dei versamenti allo sportello del concessionario;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    entro il quindicesimo giorno successivo a quello di comunicazione al concessionario, da parte dell'amministrazione postale, dell'avvenuto accreditamento dei versamenti sul conto corrente vincolato;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    entro il quindicesimo giorno successivo a quello dei versamenti conseguenti ad iscrizione a ruolo;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    entro la fine di ciascun mese per i versamenti effettuati mediante delega alle aziende di credito nel mese precedente.
+
 ## Art. 15. — Estratto conto
 
 Entro il 20 marzo di ciascun anno, il concessionario del servizio della riscossione invia, a ciascun contribuente intestatario di un conto fiscale, un estratto conto dei versamenti registrati e dei rimborsi eseguiti entro il mese di febbraio.
@@ -287,6 +326,38 @@ Per l'omesso o ritardato versamento alle sezioni di tesoreria provinciale o alle
 ## - Titolo terzo DISPOSIZIONl TRANSITORIE E FINALI
 
 ## Art. 25. — Limiti alla erogazione dei rimborsi
+
+1.
+                        
+                            
+                                Fino al 31 dicembre 1997, le richieste di rimborso presentate dagli intestatari al concessionario del servizio della riscossione ai sensi dell'art. 20 non possono complessivamente eccedere per i tributi e le altre somme affluenti sul conto fiscale i seguenti limiti:
+ 
+                            
+                            
+                                a)
+                                
+                                    lire 20 milioni nel 1994;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    lire 40 milioni nel 1995;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    lire 60 milioni nel 1996;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    lire 80 milioni nel 1997.
 
 Qualora nei singoli anni vengano presentate richieste di rimborso complessivamente superiori ai limiti di cui al precedente comma, i concessionari sono tenuti ad erogare i rimborsi nell'ambito dei suddetti limiti. Nei confronti dei concessionari inadempienti, si applicano le sanzioni previste dall'art. 104 del decreto del Presidente della Repubblica 28 gennaio 1988, n. 43.
 

@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
 vigenza_date: 2015-10-29
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:39Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -56,6 +56,38 @@ Gli impianti facoltativi possono anche essere esentati dagli obblighi previsti d
 
 ## Art. 6. — Aree di navigazione
 
+1.
+                        
+                            
+                                Ai fini del presente regolamento, in conformita' delle definizioni di cui agli emendamenti alla Convenzione internazionale per la salvaguardia della vita umana in mare SOLAS 74/83 Regola 2, in vigore dal 1° febbraio 1992, citati nelle premesse, si intende:
+ 
+                            
+                            
+                                a)
+                                
+                                    per «zona oceanica A1» una zona situata all'interno della zona di copertura radiotelefonica di almeno una stazione costiera che opera su onde metriche e nella quale la funzione di allarme DSC e' disponibile in permanenza;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    per «zona oceanica A2» una zona, ad esclusione della zona oceanica A1, situata all'interno della zona di copertura radiotelefonica avente almeno una stazione costiera operante su onde ettometriche ed in cui la funzione di allarme CSN e' disponibile in permanenza;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    per «zona oceanica A3» una zona, ad esclusione delle zone oceaniche A1 ed A2, situata all'interno della zona di copertura di un satellite geostazionario d'INMARSAT ed in cui la funzione di allarme e' disponibile in permanenza;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    per «zona oceanica A4» una zona situata all'esterno delle zone oceaniche A1, A2 ed A3.
+
 ## Art. 7. — Impianto di radiocomunicazioni: dotazione obbligatoria
 
 L'impianto di radiocomunicazioni a bordo delle navi che ne hanno l'obbligo in base alla normativa vigente, deve essere costituito, per le diverse aree di navigazione A1, A1+A2, A1+A2+A3, A1+A2+A3+A4 e salvo diverse prescrizioni previste dalla normativa stessa per particolari categorie di navi, secondo quanto previsto dal Capitolo III / Regola 6 e dal Capitolo IV / Regole 6, 7, 8, 9, 10 e 11 degli emendamenti 1988 alla «convenzione internazionale per la salvaguardia della vita umana in mare (SOLAS 74/83)», pubblicati nel supplemento ordinario alla Gazzetta Ufficiale della Repubblica italiana n. 62 del 14 marzo 1992.
@@ -66,7 +98,57 @@ Il trasponditore radar di cui alla Regola 7, punto 7.3, del Capitolo IV degli em
 
 Inoltre devono essere previste delle facilitazioni per consentire le comunicazioni in VHF dalle ali di plancia; il VHF portatile della dotazione delle lance di salvataggio puo' soddisfare tale obbligo purche' autorizzato per le comunicazioni di bordo.
 
+3.
+                        
+                            
+                                L'apparato per la generazione, la trasmissione e la ricezione delle «chiamate selettive di tipo digitale» (DSC) deve operare in accordo almeno alle seguenti classi di apparato:
+ 
+                            
+                            
+                                a)
+                                
+                                    classe A o classe B per le onde metriche;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    classe A o classe B per le onde ettometriche;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    classe A per le onde ettometriche/decametriche.
+
 La classe A contiene tutti i requisiti previsti dalla Raccomandazione ITU-R 493.
+
+5.
+                        
+                            
+                                La classe B contiene i requisiti minimi che l'apparato deve soddisfare per poter:
+ 
+                            
+                            
+                                a)
+                                
+                                    ricevere segnali di allarme, dare la «conferma di ricezione della chiamata» e ritrasmettere detti segnali di allarme;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    effettuare chiamate e dare la «conferma di ricezione della chiamata» per radiocomunicazioni di carattere generale;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    effettuare chiamate in connessione con servizi automatici o semiautomatici, come definito dalla Raccomandazione ITU-R M493, annesso 2, sottoparagrafo 3.
 
 ## Art. 9. — Impianto di radiocomunicazioni: garanzia di efficienza
 
@@ -77,6 +159,61 @@ Nei successivi commi 3, 4, 5, 6 e 7 sono elencati gli apparati da sistemare a bo
 Tutti gli impianti di duplicazione devono essere connessi ad antenne dedicate ed installati in modo da consentirne un rapido utilizzo. Il terminale INMARSAT-C, installato come duplicazione, puo' soddisfare l'obbligo della ricezione delle informazioni marittime di sicurezza (MSI) diffuse nell'ambito INMARSAT con il sistema EGC purche' omologato dall'INMARSAT per tale scopo (CLASSE 2 o CLASSE 3).
 
 Indipendentemente dall'area di navigazione, ogni nave deve essere dotata di un impianto radioelettrico ad onde metriche (VHF) abilitato alla ricetrasmissione sulla frequenza 156,525 MHz (canale 70) con tecnica DSC e sulle frequenze 156,300 MHz (canale 6), 156,650 MHz (canale 13) e 156,800 MHz (canale 16) in radiotelefonia.
+
+5.
+                        
+                            
+                                Le navi che operano nell'area di navigazione A1+A2 devono essere dotate, in aggiunta a quanto prescritto al precedente comma 4, degli impianti di seguito indicati:
+ 
+                            
+                            
+                                a)
+                                
+                                    un impianto radioelettrico ad onde ettometriche che consenta, ai fini del soccorso e della sicurezza, di trasmettere e ricevere sulle frequenze 2187,5 kHz con tecnica DSC e 2182 kHz in radiotelefonia o un impianto radioelettrico ad onde ettometriche e decametriche che consenta di trasmettere e ricevere nelle bande 1605-3800 kHz e 4000-27500 kHz in DSC, in radiotelefonia ed in telegrafia automatica a stampa diretta o un terminale INMARSAT.
+
+6.
+                        
+                            
+                                Le navi invece che operano nell'area di navigazione A1+A2+A3 devono essere dotate, in aggiunta a quanto prescritto al comma 4, dei seguenti impianti:
+ 
+                            
+                            
+                                a)
+                                
+                                    un impianto radioelettrico ad onde ettometriche e decametriche che consenta, ai fini del soccorso e della sicurezza, di trasmettere e ricevere nelle bande 1606,5-3800 kHz e 4000-27500 kHz in DSC, in radiotelefonia ed in telegrafia automatica a stampa diretta;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    un impianto radioelettrico che consenta di mantenere un ascolto continuo in DSC sulle frequenze 2187,5 e 8414,5 kHz piu' almeno una tra le frequenze 4207,5-6312-12577-16804,5 kHz (scanning); l'impianto puo' essere combinato con l'impianto di cui alla lettera a);
+
+                                
+                            
+                            
+                                c)
+                                
+                                    in alternativa agli impianti a) e b) un terminale INMARSAT.
+
+7.
+                        
+                            
+                                Le navi invece che operano senza alcuna limitazione (aree di navigazione A1+A2+A3+A4) devono essere dotate, in aggiunta a quanto prescritto al comma 4, dei seguenti impianti:
+ 
+                            
+                            
+                                a)
+                                
+                                    un impianto radioelettrico ad onde ettometriche e decametriche che consenta, ai fini del soccorso e della sicurezza, di trasmettere e ricevere nelle bande 1605-3800 kHz e 4000-27500 kHz in DSC, in radiotelefonia ed in telegrafia automatica a stampa diretta;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    un impianto radioelettrico che consenta di mantenere un ascolto continuo in DSC sulle frequenze 2187,5 e 8414,5 kHz piu' almeno una tra le frequenze 4207,5-6312-12577-16804,5 kHz (scanning).
+L'impianto puo' essere combinato con l'impianto di cui alla lettera a).
 
 ## Art. 10. — Impianto di radionavigazione
 
@@ -114,9 +251,117 @@ Deve essere previsto un dispositivo automatico di commutazione che deve consenti
 
 ## Art. 13. — Sorgente di energia elettrica di riserva
 
+1.
+                        
+                            
+                                La sorgente di energia elettrica di riserva dell'impianto di radiocomunicazioni (dotazione obbligatoria e duplicazione, qualora prevista) deve essere:
+ 
+                            
+                            
+                                a)
+                                
+                                    indipendente da quella richiesta per la propulsione della nave e della rete elettrica di bordo;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    preferibilmente costituita da batterie di accumulatori ricaricabili;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    situata, per quanto praticamente possibile, nella parte piu' elevata della nave in vicinanza ed almeno allo stesso livello degli impianti da alimentare;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    di agevole e rapida inserzione.
+
+2.
+                        
+                            
+                                Le batterie di accumulatori costituenti la sorgente di energia di riserva devono essere posizionate ed installate in modo da:
+ 
+                            
+                            
+                                a)
+                                
+                                    assicurare il miglior servizio possibile;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    assicurare una ragionevole durata;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    assicurare un ragionevole grado di sicurezza;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    fornire, quando sono in piena carica, almeno il minimo di ore di funzionamento prescritto indipendentemente dalle condizioni ambientali;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    assicurare che la temperatura di esercizio nelle differenti condizioni di funzionamento e di carica rimanga entro le specifiche del costruttore.
+
 Deve essere previsto un sistema di carica automatica delle stesse con un tempo di ricarica alla minima capacita' richiesta, massimo di 10 ore. La capacita' delle batterie deve essere verificata, se la nave non e' in mare, ad intervalli non superiori a 12 mesi.
 
 La sorgente di energia elettrica di riserva deve prevedere un voltmetro, un amperometro ed un quadro di distribuzione con protezioni per ciascun impianto alimentato, da installarsi nel locale dove sono installati gli impianti radio.
+
+5.
+                        
+                            
+                                La sorgente di energia elettrica di riserva deve poter assicurare, con commutazione automatica, il funzionamento dei seguenti impianti:
+ 
+                            
+                            
+                                a)
+                                
+                                    impianto radioelettrico ad onde metriche (VHF) di cui alla Regola 7.1.1 del Capitolo IV citato al precedente articolo 7;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    impianto di illuminazione di riserva degli apparati;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    qualsiasi dispositivo di commutazione automatica;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    apparati remoti per la trasmissione automatica e monitoraggio dei segnali d'allarme e, a secondo delle aree operative della nave, dei seguenti impianti:
+ 1) impianto radioelettrico ad onde ettometriche di cui alla Regola 9.1.1 del Capitolo IV citato al precedente articolo 7;
+ 2) terminale INMARSAT di cui alla Regola 10.1.1 del Capitolo IV citato al precedente articolo 7;
+ 3) impianto ad onde ettometriche e decametriche di cui alla Regola 10.2.1 o 11.1 del Capitolo IV citato al precedente articolo 7;
+ 4) gli impianti di duplicazione, qualora prevista, di cui al precedente articolo 9, commi 4, 5, 6, 7;
+ 5) gli impianti, integrati e non, necessari all'espletamento delle funzioni DSC e di telegrafia a stampa diretta.
 
 Gli impianti di duplicazione, qualora prevista, dovranno essere alimentati con linea indipendente provvista di interruttore e protezioni sul quadro di distribuzione.
 
@@ -124,10 +369,89 @@ Qualora un impianto radioelettrico, per poter espletare pienamente la sua funzio
 
 La sorgente di energia elettrica di riserva puo' essere adibita, in via facoltativa e limitatamente agli impianti riportati all'articolo 5 del presente regolamento, all'alimentazione di altri apparati di radiocomunicazione purche' le batterie siano di capacita' sufficiente ad assicurare la prescritta autonomia. La linea di alimentazione relativa dovra' pero' essere indipendente, provvista di interruttore e protezioni sul quadro di distribuzione.
 
+9.
+                        
+                            
+                                La batteria di accumulatori deve avere capacita' sufficiente ad assicurare il funzionamento degli impianti di cui al precedenti commi 5 e 8 per:
+ 
+                            
+                            
+                                a)
+                                
+                                    un periodo di almeno 1 ora se gli impianti di radiocomunicazione sono anche alimentati mediante il dispositivo di commutazione automatica di cui al comma 7 dell'articolo 12 dalla sorgente di energia elettrica di emergenza;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    un periodo di almeno 6 ore se la sorgente di energia elettrica di emergenza non e' disponibile. Per gli apparati aventi consumo diverso nelle condizioni di piena trasmissione e ricezione esso si calcola come il consumo in ricezione piu' 1/2 del consumo in piena trasmissione.
+
 Il locale degli accumulatori costituenti la sorgente di energia elettrica di riserva deve essere provvisto di sfogatoi nella parte piu' elevata per l'uscita dei gas che si producono durante la carica.
 E' ammesso che gli accumulatori vengano sistemati nell'area in cui e' allocato l'impianto radioelettrico, purche' posti in uno scompartimento perfettamente stagno e munito di sfogatoi di gas verso l'esterno. Gli accumulatori possono essere anche sistemati in cassoni esterni appositamente protetti.
 
 ## Art. 14. — Alimentazione degli impianti
+
+1.
+                        
+                            
+                                Gli impianti espletanti le seguenti funzioni:
+ 
+                            
+                            
+                                a)
+                                
+                                    VHF - DSC - DSC WATCH;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    MF - DSC - DSC WATCH;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    MF/HF - DSC - DSC WATCH - NBDP;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    terminale INMARSAT;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    ricevitore radiotelefonico di guardia sulla frequenza 2182 kHz;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    radiogoniometro;
+
+                                
+                            
+                            
+                                g)
+                                
+                                    ricevitore NAVTEX;
+
+                                
+                            
+                            
+                                h)
+                                
+                                    VHF aeronautico;
+devono essere alimentati separatamente ovvero uno o piu' alimentatori non potranno alimentare piu' di uno dei sopracitati gruppi.
 
 Il ricevitore NAVTEX, il ricevitore radiotelefonico di guardia sulla frequenza 2182 kHz, il radiogoniometro ed il VHF aeronautico possono essere alimentati, in alternativa, dal quadro di distribuzione che alimenta gli impianti di ausilio alla navigazione.
 
@@ -177,7 +501,85 @@ L'impianto radioelettrico (dotazione obbligatoria e, qualora prevista, duplicazi
 
 ## Art. 18. — Sistemazione in un locale adiacente alla plancia
 
+1.
+                        
+                            
+                                L'impianto radioelettrico puo' essere situato in un locale adiacente alla plancia e con accesso diretto dalla stessa. In tal caso occorre rendere disponibili nella plancia, quanto piu' possibile vicino alla postazione di governo nave, almeno le seguenti funzioni:
+ 
+                            
+                            
+                                a)
+                                
+                                    comunicazioni radiotelefoniche ad onde metriche (VHF) da assicurarsi con apparato sul quale e' possibile eseguire la selezione dei canali ed il controllo dei parametri operativi. L'impianto puo' essere quello della dotazione base;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    trasmissione automatica con priorita' assoluta (per gli apparati della dotazione base, per aree operative e della duplicazione) delle chiamate di soccorso con tecnica DSC nella gamma delle onde metriche (VHF) e delle onde ettometriche (MF) o ettometriche/decametriche (MF/HF), nonche' attraverso i terminali INMARSAT se la nave e' dotata di tali impianti;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    monitoraggio, per gli apparati della dotazione base, per aree operative e di quelli della duplicazione, degli allarmi di soccorso DSC nella gamma delle onde metriche (VHF) e delle onde ettometriche (MF) o ettometriche/decametriche (MF/HF) e di quelli INMARSAT se la nave e' dotata di tali impianti; il monitoraggio potra' avvenire mediante segnalazioni acustiche e visive degli allarmi ricevuti a bordo;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    ricezione delle informazioni marittime di sicurezza (MSI) emanate attraverso il sistema NAVTEX, il cui apparato ricevente deve essere disposto in maniera da poter consentire un sicuro monitoraggio della ricezione delle informazioni stesse;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    monitoraggio, mediante indicazione acustica e visiva, della ricezione delle informazioni marittime di sicurezza (MSI) emanate attraverso l'INMARSAT con il sistema delle chiamate di gruppo (EGC) o a mezzo diffusione telegrafica a stampa diretta su onde ettometriche/decametriche;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    allarme ottico e acustico di fine autonomia della batteria di accumulatori costituenti la sorgente elettrica di riserva.
+
 ## Art. 19. — Sistemazione in un locale non adiacente alla plancia
+
+1.
+                        
+                            
+                                L'impianto radioelettrico puo' essere situato in un locale differente dalla plancia e ad essa non adiacente. In tal caso occorre rendere disponibili nella plancia, quanto piu' possibile vicino alla postazione di governo nave, almeno le seguenti funzioni:
+ 
+                            
+                            
+                                a)
+                                
+                                    le funzioni di cui ai punti a), b), c), d), f) del comma 1 dell'articolo 18;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la ricezione delle informazioni marittime di sicurezza (MSI) emanate attraverso l'INMARSAT con il sistema della chiamata di gruppo (EGC) o a mezzo diffusione telegrafica a stampa diretta su onde ettometriche e decametriche. L'obbligo puo' essere soddisfatto installando la sola stampante in plancia;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    comunicazioni di sicurezza nella gamma delle onde metriche e delle onde ettometriche o ettometriche/decametriche, se la nave e' dotata di tali impianti;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    comunicazione bilaterale con il locale dove sono sistemati gli apparati radioelettrici da assicurarsi a mezzo tubo portavoce con fischietto o telefono magnetofonico con linea dedicata.
 
 I cavi di collegamento tra il locale radio e la plancia devono essere del tipo non propaganti la fiamma se i due locali non sono situati nella stessa area resistente al fuoco.
 
@@ -294,11 +696,243 @@ L'ingresso del ricevitore deve essere provvisto di un dispositivo di protezione 
 
 ## Art. 30. — Dotazione delle stazioni di radiocomunicazioni per la manutenzione e la riparazione degli impianti
 
+1.
+                        
+                            
+                                Per consentire le piccole riparazioni degli impianti durante la navigazione, si devono rendere disponibili i seguenti strumenti, attrezzi e materiali:
+ 
+                            
+                            
+                                a)
+                                
+                                    analizzatore universale portatile (tester);
+
+                                
+                            
+                            
+                                b)
+                                
+                                    densimetro per acqua distillata per accumulatori, ove necessario;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    acqua distillata per accumulatori, ove necessario;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    saldatore elettrico;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    accessori per saldatura a stagno (rotolo di stagno, barattolo di pasta salda);
+
+                                
+                            
+                            
+                                f)
+                                
+                                    barattolo di vasellina;
+
+                                
+                            
+                            
+                                g)
+                                
+                                    una forbice da elettricista;
+
+                                
+                            
+                            
+                                h)
+                                
+                                    una serie di pinze e cacciaviti da elettricista;
+
+                                
+                            
+                            
+                                i)
+                                
+                                    una serie di chiavi fisse;
+
+                                
+                            
+                            
+                                l)
+                                
+                                    due rotoli di nastri isolante;
+
+                                
+                            
+                            
+                                m)
+                                
+                                    una lampada portatile con gabbia;
+
+                                
+                            
+                            
+                                n)
+                                
+                                    due lampade di scorta per illuminazione di riserva;
+
+                                
+                            
+                            
+                                o)
+                                
+                                    una torcia stagna con pile incluse.
+
 ## Art. 31. — Dotazioni di ricambio degli apparati radioelettrici
 
 Ogni apparato deve essere dotato di parti di ricambio facilmente sostituibili dall'operatore di bordo durante la navigazione.
 
 ## Art. 32. — Documenti in dotazione alla nave riferiti all'impianto radio GMDSS
+
+1.
+                        
+                            
+                                L'elenco dei documenti in dotazione alla nave riferiti all'impianto radio GMDSS e' il seguente:
+ 
+                            
+                            
+                                a)
+                                
+                                    licenza di esercizio corredata del verbale di collaudo e dei verbali di ispezione;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    idonea certificazione relativa alla stazione radioelettrica;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    certificato di ogni operatore;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    documentazione attestante la presenza, nel ruolo equipaggio, di personale abilitato a svolgere la «manutenzione di bordo», qualora prevista;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    documentazione attestante lo svolgimento della «manutenzione a terra», qualora prevista, previa autorizzazione da parte del Ministero delle comunicazioni;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    tabella di rilevamento delle deviazioni residuali;
+
+                                
+                            
+                            
+                                g)
+                                
+                                    quaderno delle registrazioni di verifica della curva di taratura del radiogoniometro;
+
+                                
+                            
+                            
+                                h)
+                                
+                                    giornale di bordo GMDSS;
+
+                                
+                            
+                            
+                                i)
+                                
+                                    lista alfabetica indicativi di chiamata e di identita' numerica;
+
+                                
+                            
+                            
+                                l)
+                                
+                                    nomenclatura stazioni costiere;
+
+                                
+                            
+                            
+                                m)
+                                
+                                    nomenclatura stazioni di nave;
+
+                                
+                            
+                            
+                                n)
+                                
+                                    nomenclatura di stazioni che effettuano servizi speciali;
+
+                                
+                            
+                            
+                                o)
+                                
+                                    manuale del servizio mobile marittimo e via satellite;
+
+                                
+                            
+                            
+                                p)
+                                
+                                    piano di sistemazione delle antenne;
+
+                                
+                            
+                            
+                                q)
+                                
+                                    monografie degli apparati radioelettrici in dotazione della stazione, conformi a quelle richieste per la valutazione della conformita';
+
+                                
+                            
+                            
+                                r)
+                                
+                                    copia della certificazione INMARSAT per i terminali installati;
+
+                                
+                            
+                            
+                                s)
+                                
+                                    schema a blocchi comprensivo della parte alimentazione dell'impianto radioelettrico di bordo;
+
+                                
+                            
+                            
+                                t)
+                                
+                                    master Plan dell'I.M.O;
+
+                                
+                            
+                            
+                                u)
+                                
+                                    schema a blocchi delle procedure di soccorso di cui all'articolo 16, comma 8.
 
 ## Art. 33. — Corrispondenza pubblica
 

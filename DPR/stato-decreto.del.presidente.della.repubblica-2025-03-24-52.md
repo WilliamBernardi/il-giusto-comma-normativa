@@ -7,8 +7,8 @@ urn: urn:nir:stato:decreto.del.presidente.della.repubblica:2025-03-24;52
 vigente: true
 source: normattiva-opendata
 collection: DPR
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:47:57Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -99,6 +99,45 @@ Al fondo per l'efficienza dei servizi istituzionali di cui all'articolo 5 del de
 Gli importi di cui ai commi precedenti non comprendono gli oneri contributivi e l'IRAP a carico dello Stato.
 
 Le risorse assegnate e non utilizzate nell'esercizio di competenza sono riassegnate, per le medesime esigenze, nell'anno successivo.
+
+7.
+                    
+                        
+                            Le risorse destinate al fondo per l'efficienza dei servizi istituzionali sono utilizzate per attribuire compensi finalizzati a: 
+ 
+                        
+                        
+                            a)
+                            
+                                fronteggiare particolari situazioni di servizio; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                incentivare l'impiego del personale nelle attivita' operative e di funzionamento individuate dai rispettivi vertici; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                compensare l'incentivazione della produttivita' collettiva per il miglioramento dei servizi; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                compensare l'impiego in compiti o incarichi che comportino l'assunzione di specifiche responsabilita' o disagio; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                compensare la presenza qualificata.
 
 All'articolo 5 del decreto del Presidente della Repubblica 11 settembre 2007, n. 171, sono apportate le seguenti modificazioni: 
  a. il comma 6 e' sostituito dal seguente: 
@@ -375,6 +414,52 @@ Il comma 2 dell'articolo 19 del decreto del Presidente della Repubblica 31 lugli
 Al personale di cui al presente decreto continuano ad applicarsi, ove non in contrasto, le norme previste dai provvedimenti di concertazione recepiti con decreto del Presidente della Repubblica.
 
 ## Art. 36. — Copertura finanziaria
+
+1.
+                    
+                        
+                            Agli oneri derivanti dall'attuazione del presente decreto, pari a euro 1.973.778 per l'anno 2022, euro 2.871.439 per l'anno 2023, euro 315.811.378 per l'anno 2024, euro 316.566.436 per l'anno 2025 e ad euro 319.707.413 annui a decorrere dall'anno 2026, si provvede: 
+ 
+                        
+                        
+                            a)
+                            
+                                quanto a complessivi euro 7.716.656 per gli anni 2022, 2023 e 2024 mediante corrispondente utilizzo delle disponibilita' in conto residui di cui all'articolo 1, comma 609, della legge 30 dicembre 2021, n. 234 che sono versate all'entrata del bilancio dello Stato; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                quanto a euro 304.209.939 per l'anno 2024 mediante corrispondente utilizzo delle disponibilita' in conto residui di cui all'articolo 1, comma 27, della legge 30 dicembre 2023, n. 213 che sono versate all'entrata del bilancio dello Stato; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                quanto a euro 8.730.000 per l'anno 2024 mediante corrispondente utilizzo delle disponibilita' in conto residui di cui all'articolo 1, comma 347, della legge 30 dicembre 2023, n. 213 che sono versate all'entrata del bilancio dello Stato; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                quanto a euro 2.871.439 annui a decorrere dall'anno 2025 mediante corrispondente riduzione delle risorse di cui all'articolo 1, comma 609, della legge 30 dicembre 2021, n. 234; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                quanto a euro 304.994.997 per l'anno 2025 e ad euro 305.415.974 annui a decorrere dall'anno 2026 mediante corrispondente riduzione delle risorse di cui all'articolo 1, comma 27, della legge 30 dicembre 2023, n. 213; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                quanto a euro 8.700.000 per l'anno 2025 e ad euro 11.420.000 annui a decorrere dall'anno 2026 mediante corrispondente riduzione delle risorse di cui all'articolo 1, comma 347, della legge 30 dicembre 2023, n. 213.
 
 Il Ministro dell'economia e delle finanze e' autorizzato ad apportare, con propri decreti, le occorrenti variazioni di bilancio.
 

@@ -8,8 +8,8 @@ codice_redazionale: 011G0174
 vigente: true
 source: normattiva-opendata
 collection: DPR
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:48:06Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -29,11 +29,142 @@ Sulla proposta del Ministro dell'istruzione, dell'universita' e della ricerca, d
 
 ## Art. 1. — Dipartimento per l'istruzione
 
+1.
+                    
+                        
+                            All'articolo 5, del decreto del Presidente della Repubblica 20 gennaio 2009, n. 17, sono apportate le seguenti modifiche: 
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 2, le parole: «n. 1 ufficio dirigenziale non generale di studio, ricerca e consulenza, i cui compiti sono definiti con il decreto ministeriale di cui all'articolo 10, e n. 40 posizioni dirigenziali non generali di funzione tecnico-ispettiva» sono sostituite dalle seguenti: «n. 36 posizioni dirigenziali non generali di funzione tecnico-ispettiva»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 7, primo periodo, le parole: «e in n. 3 uffici dirigenziali non generali di studio, ricerca e consulenza» sono soppresse; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                al comma 8, primo periodo, le parole: «n. 9 uffici dirigenziali non generali e in n. 1 ufficio dirigenziale non generale di studio, ricerca e consulenza», sono sostituite dalle seguenti: «n. 8 uffici dirigenziali non generali».
+
 ## Art. 2. — Dipartimento per l'universita', l'alta formazione artistica, 
  musicale e coreutica e per la ricerca
 
+1.
+                    
+                        
+                            All'articolo 6, del decreto del Presidente della Repubblica 20 gennaio 2009, n. 17, sono apportate le seguenti modifiche: 
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 2, le parole: «e n. 1 ufficio dirigenziale non generale di studio, ricerca e consulenza» sono soppresse; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 4, le parole: «n. 10 uffici dirigenziali non generali», sono sostituite dalle seguenti: «n. 9 uffici dirigenziali non generali»; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                al comma 4, la lettera m) e' sostituita dalla seguente: «m) utilizzo e cura della banca dati sull'offerta formativa delle universita', definizione dei fabbisogni informativi, delle operazioni di controllo qualitativo e quantitativo dei dati, delle procedure di acquisizione e rilascio dei dati, anche ai fini della programmazione e del finanziamento del sistema universitario;»; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                al comma 6, le parole: «n. 7 uffici dirigenziali non generali», sono sostituite dalle seguenti: «n. 6 uffici dirigenziali non generali».
+
 ## Art. 3. — Dipartimento per la programmazione e la gestione 
  delle risorse umane, finanziarie e strumentali
+
+1.
+                    
+                        
+                            All'articolo 7, del decreto del Presidente della Repubblica 20 gennaio 2009, n. 17, sono apportate le seguenti modifiche: 
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 2, le parole: «e 1 ufficio dirigenziale non generale di studio, ricerca e consulenza» sono soppresse; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 4, le parole: «e in 4 uffici dirigenziali non generali di studio, ricerca e consulenza» sono soppresse; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                il comma 5 e' sostituito dal seguente: 
+ «5. La Direzione generale per la politica finanziaria e per il bilancio, che si articola in 7 uffici dirigenziali non generali, svolge le funzioni e i compiti di spettanza del Ministero nei seguenti ambiti: 
+ a) attivita' di supporto alla definizione della politica finanziaria del Ministero e cura della redazione delle proposte per il documento di decisione di finanza pubblica; 
+ b) rilevazione del fabbisogno finanziario del Ministero avvalendosi dei dati forniti dai dipartimenti e dagli uffici scolastici regionali; 
+ c) cura della predisposizione dello stato di previsione della spesa del Ministero, delle operazioni di variazione e assestamento, della redazione delle proposte per la legge di bilancio e per la legge di stabilita', dell'attivita' di rendicontazione al Parlamento e agli organi di controllo in attuazione delle direttive del Ministro e in coordinamento con i dipartimenti; 
+ d) definizione, sviluppo e gestione del modello di controllo di gestione per garantire la coerenza dell'utilizzo dei fondi finalizzati allo sviluppo ed all'attuazione delle politiche relative ai settori di competenza del Ministero; 
+ e) raccordo con i sistemi di controllo di gestione adottati dai soggetti finanziati in misura ordinaria dal Ministero; 
+ f) predisposizione delle relazioni tecniche sui provvedimenti normativi anche sulla base dei dati forniti dagli uffici competenti; 
+ g) predisposizione dei programmi di ripartizione delle risorse finanziarie provenienti da leggi, fondi e provvedimenti in relazione alle destinazioni per essi previste; 
+ h) predisposizione degli atti connessi con l'assegnazione delle risorse finanziarie ai vari centri di responsabilita' e ai centri di costo; 
+ i) cura della redazione delle proposte del Ministero per il documento di decisione di finanza pubblica; 
+ l) coordinamento dei programmi di acquisizione delle risorse finanziarie nazionali, in relazione alle diverse fonti di finanziamento; 
+ m) analisi e monitoraggio dei dati gestionali, dei flussi finanziari e dell'andamento della spesa; 
+ n) assegnazione alle istituzioni scolastiche delle risorse finanziarie nell'ambito dei capitoli di bilancio affidati alla sua gestione; 
+ o) elaborazione delle istruzioni generali per la gestione amministrativo-contabile delle istituzioni scolastiche; 
+ p) attivita' di assistenza tecnica sulle materie giuridico-contabili di competenza dei diversi uffici centrali e periferici; 
+ q) supporto all'istruttoria nella predisposizione degli atti e nella formulazione delle proposte che il Ministero sottopone al CIPE, nonche' nell'esame degli argomenti all'ordine del giorno del Comitato interministeriale per la programmazione economica (CIPE) relativi ai settori di competenza del Ministero; 
+ r) funzione di autorita' di audit, secondo i regolamenti internazionali IIA 2010, sui fondi internazionali finalizzati allo sviluppo ed all'attuazione delle politiche relative ai settori di competenza del Ministero; 
+ s) coordinamento, organizzazione e formazione della funzione di revisione contabile nelle istituzioni scolastiche, in raccordo con la Direzione generale per le risorse umane del Ministero, acquisti e affari generali.»; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                al comma 6, le parole: «n. 10 uffici dirigenziali non generali», sono sostituite dalle seguenti: «n. 8 uffici dirigenziali non generali»; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                al comma 6 la lettera e) e' sostituita dalla seguente: 
+ «e) attuazione delle linee strategiche per la riorganizzazione e la digitalizzazione dell'amministrazione e coordinamento strategico dello sviluppo dei sistemi informativi di telecomunicazione e fonia, nonche' indirizzo, pianificazione, coordinamento e monitoraggio della sicurezza informatica, ai sensi dell'articolo 17 del decreto legislativo 7 marzo 2005, n.82, e successive modificazioni;»; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                al comma 6, dopo la lettera n) sono aggiunte, in fine, le seguenti: 
+ «n-bis) progettazione e sviluppo della banca dati sull'offerta formativa delle universita' in collaborazione con la direzione generale per l'universita', lo studente e il diritto allo studio universitario, senza nuovi o maggiori oneri a carico della finanza pubblica; 
+ n-ter) cura dell'anagrafe nazionale degli alunni delle scuole di ogni ordine e grado e utilizzo dei dati ai fini della programmazione, gestione e valutazione del sistema scolastico, senza nuovi o maggiori oneri a carico della finanza pubblica.»; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                al comma 8, le parole: «e in 1 ufficio dirigenziale non generale di studio, ricerca e consulenza» sono soppresse.
 
 ## Art. 4. — Uffici scolastici regionali
 

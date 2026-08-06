@@ -9,7 +9,7 @@ vigente: true
 source: normattiva-opendata
 collection: Atti di recepimento direttive UE
 zip_date: 2026-07-30
-fetched_at: 2026-08-02T09:40:49Z
+fetched_at: 2026-07-30
 ---
 
 DECRETO LEGISLATIVO
@@ -29,11 +29,224 @@ Sulla proposta del Ministro per gli affari europei e del Ministro dell'economia 
 
 Il presente decreto fissa le norme di mutua assistenza per il recupero dei crediti sorti nel territorio nazionale o in un altro Stato membro, nelle materie di cui al comma 2.
 
+2.
+                    
+                        
+                            Le disposizioni del presente decreto si applicano ai crediti relativi: 
+ 
+                        
+                        
+                            a)
+                            
+                                ai tributi e ai dazi, di qualsiasi tipo, riscossi da uno Stato membro o dalle sue ripartizioni territoriali o amministrative, o per conto di essi, comprese le autorita' locali, ovvero per conto dell'Unione; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                le restituzioni, gli interventi e le altre misure che fanno parte del sistema di finanziamento integrale o parziale del Fondo europeo agricolo di garanzia (FEAGA) e del Fondo europeo agricolo per lo sviluppo rurale (FEASR), ivi compresi gli importi da riscuotere nel quadro di queste azioni; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                i contributi e gli altri dazi previsti nell'ambito dell'organizzazione comune dei mercati nel settore dello zucchero; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                penali, sanzioni, tasse e soprattasse di natura amministrativa relative ai crediti di cui alle lettere a), b) e c), per i quali l'assistenza reciproca puo' essere chiesta, irrogate dalle autorita' amministrative competenti in materia di accertamento e di riscossione o confermate da organi amministrativi o giudiziari su richiesta delle suddette autorita' amministrative; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                corrispettivi per il rilascio di certificati o documenti analoghi in relazione a procedure amministrative che riguardano dazi o tributi; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                interessi e spese relativi ai crediti di cui alle lettere a), b), c), d) ed e), per i quali l'assistenza reciproca puo' essere chiesta.
+
+3.
+                    
+                        
+                            Le disposizioni del presente decreto non si applicano: 
+ 
+                        
+                        
+                            a)
+                            
+                                ai contributi previdenziali obbligatori dovuti ad uno Stato membro o ad una ripartizione dello stesso o ad organismi di previdenza sociale di diritto pubblico; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                ai corrispettivi diversi da quelli di cui alla lettera e) del comma 2; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                ai diritti di natura contrattuale quali corrispettivi per pubblici servizi; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                qualsiasi sanzione pecuniaria di natura penale determinata dalla normativa vigente nello Stato membro in cui ha sede l'autorita' adita.
+
 ## Art. 2. — Definizioni
+
+1.
+                    
+                        
+                            Ai fini del presente decreto si intende per: 
+ 
+                        
+                        
+                            a)
+                            
+                                'autorita' richiedente': un ufficio centrale di collegamento, un ufficio di collegamento o un servizio di collegamento di uno Stato membro che presenta una domanda di assistenza per uno dei crediti di cui all'articolo 1; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                'autorita' adita': un ufficio centrale di collegamento, un ufficio di collegamento o un servizio di collegamento di uno Stato membro che riceve una domanda di assistenza per uno dei crediti di cui all'articolo 1; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                'ufficio centrale di collegamento': l'ufficio nazionale responsabile principale dei contatti con la Commissione e con gli altri Stati membri ai fini dell'attivita' di mutua assistenza; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                'ufficio di collegamento': l'ufficio nazionale responsabile dei contatti con gli altri Stati membri per l'attivita' di mutua assistenza relativa ai crediti di cui all'articolo 1, comma 2; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                'persona': 
+ 1) una persona fisica; 
+ 2) una persona giuridica; 
+ 3) un'associazione di persone priva di personalita' giuridica alla quale e' riconosciuta la capacita' di compiere atti giuridici; 
+ 4) un istituto giuridico di qualunque natura e forma, con o senza personalita' giuridica, che possiede o gestisce beni che, compreso il reddito da essi derivato, sono soggetti a uno dei tributi cui si applica il presente decreto; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                'titolo uniforme (UIPE)': il titolo che riporta il contenuto del titolo iniziale emesso dallo Stato membro richiedente e che consente l'esecuzione nello Stato membro adito. Esso costituisce l'unica base per le misure di recupero e le misure cautelari adottate nello Stato membro adito e non e' oggetto di alcun atto di riconoscimento, completamento o sostituzione in detto Stato membro; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                'modulo standard di notifica (UNF)': il modulo che accompagna la richiesta di notifica formulata da uno Stato membro ad un altro Stato membro e che contiene le informazioni sui documenti da notificare; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                'per via elettronica': mediante attrezzature elettroniche di trattamento, compresa la compressione digitale, e di memorizzazione di dati e utilizzando fili, radio, mezzi ottici o altri mezzi elettromagnetici; 
+
+                            
+                        
+                        
+                            i)
+                            
+                                'rete CCN': la piattaforma comune basata sulla rete comune di comunicazione (CCN) sviluppata dall'Unione europea per assicurare tutte le trasmissioni con mezzi elettronici tra l'autorita' richiedente di uno Stato membro e l'autorita' adita di un altro Stato membro nel settore della fiscalita'.
 
 ## Art. 3. — Organizzazione
 
 L'autorita' competente per il territorio nazionale e' il Direttore generale delle finanze.
+
+2.
+                    
+                        
+                            Le autorita' nazionali abilitate a formulare e ricevere una domanda di mutua assistenza per i crediti di cui all'articolo 1, comma 2, sono: 
+ 
+                        
+                        
+                            a)
+                            
+                                l'ufficio di collegamento dell'Agenzia delle entrate; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                l'ufficio di collegamento dell'Agenzia delle dogane; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                l'ufficio di collegamento dell'Agenzia del territorio; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                l'ufficio di collegamento del Dipartimento delle finanze.
+
+3.
+                    
+                        
+                            Gli uffici di collegamento indicati al comma 2, ai fini dell'attivita' di mutua assistenza per i crediti di cui all'articolo 1, comma 2, hanno le seguenti competenze: 
+ 
+                        
+                        
+                            a)
+                            
+                                l'ufficio di collegamento dell'Agenzia delle entrate e' competente a formulare e ricevere una domanda di mutua assistenza per i crediti di cui all'articolo 1, comma 2, relativi ai tributi rientranti nella propria competenza ai sensi dell'articolo 62 di cui al decreto legislativo 30 luglio 1999, n. 300; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                l'ufficio di collegamento dell'Agenzia delle dogane e' competente a formulare e ricevere una domanda di mutua assistenza per i crediti di cui all'articolo 1, comma 2, relativi ai tributi rientranti nella propria competenza ai sensi dell'articolo 63 del decreto legislativo 30 luglio 1999, n. 300; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                l'ufficio di collegamento dell'Agenzia del territorio e' competente a formulare e ricevere una domanda di mutua assistenza per i crediti di cui all'articolo 1, comma 2, relativi ai tributi rientranti nella propria competenza ai sensi dell'articolo 64 del decreto legislativo 30 luglio 1999, n. 300; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                l'ufficio di collegamento del Dipartimento delle finanze e' competente a formulare e ricevere una domanda di mutua assistenza per i crediti di cui all'articolo 1, comma 2, relativi ai tributi rientranti nella propria competenza ai sensi del decreto del Presidente della Repubblica 30 gennaio 2008, n. 43.
 
 Il Direttore generale delle finanze designa, con apposito provvedimento, l'ufficio centrale di collegamento, nonche' l'ufficio di collegamento di cui al comma 3, lettera d).
 
@@ -62,6 +275,24 @@ I funzionari autorizzati dall'autorita' richiedente di un altro Stato membro dev
 
 ## Art. 7. — Assistenza per le richieste di notifica
 
+1.
+                    
+                        
+                            L'autorita' richiedente di uno Stato membro puo' chiedere l'assistenza per la notifica solo: 
+ 
+                        
+                        
+                            a)
+                            
+                                se non sia in grado di provvedere direttamente alla notifica conformemente alle norme che disciplinano la notifica dei documenti in questione nello Stato membro in cui essa ha sede; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                qualora tale notifica dia luogo a difficolta' eccessive.
+
 La richiesta di notifica formulata da uno Stato membro ad un altro Stato membro e' accompagnata dal modulo standard di notifica contenente informazioni sui documenti da notificare, approvato dal regolamento di esecuzione (CE) n. 1189/2011 della Commissione, del 18 novembre 2011.
 
 Qualora si verifichino i presupposti di cui al comma 1, su domanda dell'autorita' richiedente dell'altro Stato membro, gli uffici di collegamento secondo le competenze previste dall'articolo 3, comma 3, e in base alle norme di legge in vigore nel territorio nazionale, notificano, anche avvalendosi delle proprie strutture territoriali, al destinatario tutti i documenti, anche di natura giudiziaria, concernenti i crediti di cui all'articolo 1, comma 2, o il loro recupero, prodotti dallo Stato membro in cui ha sede l'autorita' richiedente, accompagnati dal modulo standard di notifica.
@@ -80,6 +311,26 @@ Le notifiche di tutti i documenti, anche di natura giudiziaria, concernenti i cr
 Qualora si verifichino i presupposti di cui al comma 1, gli uffici di collegamento, secondo le competenze previste dall'articolo 3, comma 3, effettuano la richiesta di notifica agli altri Stati membri.
 
 ## Art. 8. — Assistenza per il recupero dei crediti
+
+1.
+                    
+                        
+                            L'autorita' richiedente puo' formulare una domanda di recupero soltanto: 
+ 
+                        
+                        
+                            a)
+                            
+                                se e fino a quando il credito o il titolo che ne permette l'esecuzione non sono contestati nello Stato membro in cui essa ha sede, salva l'espressa richiesta motivata di procedere comunque al recupero in caso di contestazione; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                quando essa ha avviato, nello Stato membro in cui ha sede, le procedure di recupero, salvo che: 
+ 1) non vi siano beni utili al recupero nello Stato membro richiedente o che le procedure di recupero non porteranno al pagamento integrale del credito e l'autorita' richiedente e' in possesso di specifiche informazioni secondo cui l'interessato dispone di beni nel territorio nazionale; 
+ 2) il ricorso alle procedure di recupero nello Stato membro richiedente sarebbe eccessivamente difficoltoso.
 
 Le domande di recupero dei crediti di cui all'articolo 1, comma 2, sono accompagnate dal titolo uniforme che consente l'esecuzione nello Stato membro adito e costituisce l'unica base per le misure di recupero e le misure cautelari. A tale fine, le autorita' richiedenti utilizzano il modulo standard approvato dal regolamento di esecuzione n. 1189/2011 della Commissione, del 18 novembre 2011. Il titolo uniforme e' compilato sulla base del contenuto del titolo esecutivo iniziale emesso dallo Stato membro richiedente. Un unico titolo uniforme puo' riguardare anche crediti diversi.
 

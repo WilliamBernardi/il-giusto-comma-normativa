@@ -8,8 +8,8 @@ codice_redazionale: 096G0537
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:38Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -28,6 +28,31 @@ DEL COMMERCIO E DELL'ARTIGIANATO
 Udito il parere del Consiglio di Stato, reso nell'adunanza generale del 25 gennaio 1996;
 
 ## Art. 1.
+
+1.
+                    
+                        
+                            I compensi degli onorari minimi a vacazione, di cui all'art. 13 del capo II del decreto ministeriale 18 novembre 1971 in Gazzetta Ufficiale n. 306 del 3 dicembre 1971, modificato con decreto ministeriale 7 novembre 1991, n. 456, sono fissati nella misura di:
+ 
+                        
+                        
+                            a)
+                            
+                                L. 110.000 per ogni ora o frazione di ora per il professionista incaricato;
+
+                            
+                        
+                        
+                            b)
+                            
+                                L. 73.500 per ogni ora o frazione di ora per l'aiuto iscritto all'albo;
+
+                            
+                        
+                        
+                            c)
+                            
+                                L. 55.000 per ogni ora o frazione di ora per l'aiuto di concetto.
 
 ## Art. 2.
 

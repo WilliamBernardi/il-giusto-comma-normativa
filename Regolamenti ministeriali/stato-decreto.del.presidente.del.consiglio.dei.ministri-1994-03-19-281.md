@@ -8,8 +8,8 @@ codice_redazionale: 094G0306
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:42Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DEL CONSIGLIO DEI MINISTRI
@@ -27,6 +27,80 @@ n. 400;
  stati e qualita' personali
 
 I soggetti, persone fisiche o legali rappresentanti di persone giuridiche, che presentino all'amministrazione istanze tendenti ad ottenere provvedimenti che presuppongono l'accertamento o l'assenza di stati, fatti o qualita', indicati al comma 2, in luogo della esibizione della prescritta documentazione, possono rendere una dichiarazione temporanea sostitutiva, anche nel testo dell'istanza, purche' quest'ultima, o la dichiarazione separata, rechino la sottoscrizione autenticata da un notaio, cancelliere, segretario comunale o altro funzionario incaricato dal sindaco.
+
+2.
+                    
+                        
+                            La dichiarazione sostitutiva di cui al comma 1, puo' riguardare i seguenti stati, fatti o qualita':
+ 
+                        
+                        
+                            a)
+                            
+                                l'iscrizione nel registro delle ditte tenuto dalle camere di commercio;
+
+                            
+                        
+                        
+                            b)
+                            
+                                l'iscrizione nel registro degli esercenti il commercio tenuto dalle camere di commercio;
+
+                            
+                        
+                        
+                            c)
+                            
+                                la qualita' di legale rappresentante di societa' commerciali;
+
+                            
+                        
+                        
+                            d)
+                            
+                                l'assenza, sia a carico di imprenditori individuali che di societa' commerciali, di procedure esecutive concorsuali o di procedure equivalenti secondo legislazioni straniere;
+
+                            
+                        
+                        
+                            e)
+                            
+                                l'assenza di condanne per determinati reati;
+
+                            
+                        
+                        
+                            f)
+                            
+                                l'assenza di comunicazione di procedure dirette ad irrogare misure di prevenzione della criminalita';
+
+                            
+                        
+                        
+                            g)
+                            
+                                l'assolvimento degli obblighi contributivi, assistenziali e previdenziali nascenti dalla qualita' di datore di lavoro;
+
+                            
+                        
+                        
+                            h)
+                            
+                                la regolare posizione rispetto ad obblighi tributari, nascenti dalla legislazione italiana o da legislazioni straniere;
+
+                            
+                        
+                        
+                            i)
+                            
+                                lo stato di disoccupazione;
+
+                            
+                        
+                        
+                            l)
+                            
+                                la qualita' di invalido e il tipo o grado o classe o natura dell'invalidita', nonche' l'iscrizione negli elenchi degli invalidi.
 
 L'autenticazione della dichiarazione o della domanda viene effettuata, a richiesta degli interessati, dal funzionario incaricato di ricevere la documentazione.
 

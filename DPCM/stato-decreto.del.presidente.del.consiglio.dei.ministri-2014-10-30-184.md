@@ -7,8 +7,8 @@ urn: urn:nir:stato:decreto.del.presidente.del.consiglio.dei.ministri:2014-10-30;
 vigente: true
 source: normattiva-opendata
 collection: DPCM
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:40:13Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DEL CONSIGLIO DEI MINISTRI
@@ -27,6 +27,66 @@ Udito il parere del Consiglio di Stato, reso dalla sezione consultiva per gli at
 Sulla proposta del Ministro degli affari esteri e della cooperazione internazionale, di concerto con il Ministro dell'economia e delle finanze e con il Ministro per la semplificazione e la pubblica amministrazione;
 
 ## Art. 1. — Definizioni
+
+1.
+                    
+                        
+                            Ai fini del presente regolamento si intendono: 
+ 
+                        
+                        
+                            a)
+                            
+                                «esperti nazionali distaccati», di seguito «END»: i dipendenti delle amministrazioni pubbliche di cui all'articolo 32, comma 1, lettera a) del decreto legislativo 30 marzo 2001, n. 165; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                «altri distacchi»: le fattispecie di distacco presso le organizzazioni, gli enti internazionali e le amministrazioni pubbliche di cui all'articolo 32, comma 1, lettere b) e
+                            
+                        
+                        
+                            c)
+                            
+                                del decreto legislativo 30 marzo 2001, n. 165; 
+ c) «amministrazioni»: le amministrazioni pubbliche di cui all'articolo 1, comma 2 del decreto legislativo 30 marzo 2001, n. 165; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                «Ministero»: il Ministero degli affari esteri e della cooperazione internazionale; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                «rappresentanza diplomatica»: la rappresentanza diplomatica italiana competente per il Paese o per l'organizzazione internazionale di distacco; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                «ufficio consolare»: l'ufficio consolare italiano competente per il Paese o per l'organizzazione internazionale di distacco; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                «Presidenza»: il Dipartimento della funzione pubblica e il Dipartimento delle politiche europee della Presidenza del Consiglio dei ministri nei Capi I e III, il Dipartimento della funzione pubblica della Presidenza del Consiglio dei ministri nel Capo II; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                «Unione europea»: le istituzioni, gli organi e gli organismi dell'Unione europea, inclusi il Parlamento europeo, il Consiglio dell'Unione europea, la Commissione europea e il Servizio europeo per l'azione esterna e le agenzie.
 
 ## - Capo I Esperti nazionali distaccati presso l'Unione europea
 
@@ -103,6 +163,38 @@ Resta fermo quanto previsto dalla legge 27 luglio 1962, n. 1114.
 ## - Capo III Disposizioni comuni
 
 ## Art. 8. — Banca dati
+
+1.
+                        
+                            
+                                Presso il Ministero e' istituita una banca dati, organizzata in sezioni, in cui sono raccolti i profili di potenziali candidati a posizioni di distacco di cui al presente regolamento, qualificati dal punto di vista della competenza in materia europea e internazionale e delle conoscenze linguistiche, individuati tra le seguenti categorie: 
+ 
+                            
+                            
+                                a)
+                                
+                                    dipendenti di amministrazioni pubbliche che hanno prestato o prestano servizio come END presso le istituzioni dell'Unione europea con l'indicazione dell'ufficio o degli uffici presso i quali hanno prestato o prestano servizio; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    dipendenti di amministrazioni pubbliche le cui candidature a posizioni END sono state trasmesse all'Unione europea; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    potenziali candidati a posizioni di END, segnalati, con il consenso degli interessati, dalle amministrazioni pubbliche con l'indicazione dei settori d'interesse per un eventuale distacco nell'ambito dell'Unione europea; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    dipendenti di amministrazioni pubbliche che hanno prestato o prestano servizio come distaccati presso le organizzazioni, gli enti internazionali e le amministrazioni pubbliche di cui all'articolo 32, comma 1, lettere b) e c) del decreto legislativo 30 marzo 2001, n. 165.
 
 Il Ministero riceve le informazioni di cui al comma 1 dalle amministrazioni di appartenenza degli interessati e le registra nella banca dati. In sede di prima applicazione del presente regolamento, le informazioni di cui al comma 1, lettera a), gia' in possesso del Ministero, sono immesse nella banca dati.
 

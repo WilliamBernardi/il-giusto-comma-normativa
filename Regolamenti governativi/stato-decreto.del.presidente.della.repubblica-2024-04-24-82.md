@@ -7,8 +7,8 @@ urn: urn:nir:stato:decreto.del.presidente.della.repubblica:2024-04-24;82
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti governativi
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:16Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -28,6 +28,168 @@ Sulla proposta del Ministro dell'universita' e della ricerca, di concerto con il
 
 ## Art. 1. — Modifiche al decreto del Presidente della Repubblica 8 luglio 2005, n. 212
 
+1.
+                    
+                        
+                            All'articolo 1, comma 1, del decreto del Presidente della Repubblica 8 luglio 2005, n. 212, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                
+                                    alla lettera a), le parole: «dell'istruzione,» sono soppresse;
+                                
+                            
+                        
+                        
+                            b)
+                            
+                                
+                                    alla lettera b), le parole: «l'Accademia nazionale di danza,» sono soppresse,
+                                    e le parole: «, i Conservatori di musica e gli Istituti musicali pareggiati» sono sostituite dalle seguenti: «e gli Istituti superiori di studi musicali e coreutici»;
+                                
+                            
+                        
+                        
+                            c)
+                            
+                                
+                                    la lettera d) e' sostituita dalla seguente: 
+ «d) per ANVUR: l'Agenzia Nazionale di Valutazione del Sistema Universitario e della Ricerca;»;
+                                
+                            
+                        
+                        
+                            d)
+                            
+                                
+                                    la lettera g) e' sostituita dalla seguente: 
+ «g) per regolamento didattico generale: il regolamento adottato da ciascuna istituzione concernente la disciplina degli aspetti generali di organizzazione dell'attivita' didattica comuni ai corsi di studio;»;
+                                
+                            
+                        
+                        
+                            e)
+                            
+                                
+                                    dopo la lettera g), e' inserita la seguente: 
+ «g-bis) per regolamenti dei corsi: i regolamenti adottati da ciascuna istituzione concernenti l'ordinamento dei singoli corsi di studio;»;
+                                
+                            
+                        
+                        
+                            f)
+                            
+                                
+                                    la lettera h) e' sostituita dalla seguente: 
+ «h) per corsi: i corsi di diploma accademico di primo livello, di diploma accademico di secondo livello, di diploma accademico di secondo livello a ciclo unico, i corsi di specializzazione, i corsi di dottorato di ricerca, i corsi di perfezionamento e i master;»;
+                                
+                            
+                        
+                        
+                            g)
+                            
+                                
+                                    alla lettera i), le parole: «formazione alla ricerca» sono sostituite dalle seguenti: «dottorato di ricerca»;
+                                
+                            
+                        
+                        
+                            h)
+                            
+                                
+                                    la lettera m) e' sostituita dalla seguente: 
+ «m) per dipartimento: la struttura di coordinamento delle attivita' didattiche e di ricerca dei corsi e delle eventuali scuole ad esso afferenti;».
+
+2.
+                    
+                        
+                            All'articolo 3 del decreto del Presidente della Repubblica 8 luglio 2005, n. 212, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                
+                                    al comma 1, lettera b), sono aggiunte, in fine, le seguenti parole: «o del corso di diploma accademico di secondo livello a ciclo unico»;
+                                
+                            
+                        
+                        
+                            b)
+                            
+                                
+                                    al comma 1, lettera d), le parole: «diploma accademico di formazione alla ricerca» sono sostituite dalle seguenti: «diploma accademico di dottorato di ricerca,» e le parole: «corso di formazione alla ricerca» sono sostituite dalle seguenti: «corso di dottorato di ricerca»;
+                                
+                            
+                        
+                        
+                            c)
+                            
+                                
+                                    al comma 1, lettera e,) dopo le parole: «corso di perfezionamento» sono aggiunte, in fine, le seguenti: «o del corso di master»;
+                                
+                            
+                        
+                        
+                            d)
+                            
+                                
+                                    il comma 2 e' sostituito dal seguente: «2. A decorrere dall'anno accademico 2023/2024 le istituzioni e le istituzioni non statali accreditate ai sensi dell'articolo 11 provvedono autonomamente al rilascio delle pergamene originali dei titoli rilasciati trasmettendo al termine di ciascun anno accademico al Ministero l'elenco degli studenti ai quali sono state rilasciate le pergamene, con l'indicazione del corso frequentato e dell'anno di iscrizione allo stesso.»;
+                                
+                            
+                        
+                        
+                            e)
+                            
+                                
+                                    al comma 5, le parole: «, individuati con il decreto del Ministro di cui all'articolo 5» sono soppresse;
+                                
+                            
+                        
+                        
+                            f)
+                            
+                                
+                                    al comma 6, le parole: «formazione alla ricerca» sono sostituite dalle seguenti: «dottorato di ricerca»;
+                                
+                            
+                        
+                        
+                            g)
+                            
+                                
+                                    il comma 7 e' sostituito dal il seguente: «7. Il corso di perfezionamento risponde ad esigenze culturali di approfondimento in determinati settori di studio. Il corso di master risponde ad esigenze di aggiornamento o di riqualificazione professionale e di alta formazione permanente e ricorrente.».
+
+3.
+                    
+                        
+                            All'articolo 4 del decreto del Presidente della Repubblica 8 luglio 2005, n. 212, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                
+                                    al comma 2, dopo le parole: «nei propri bilanci» sono inserite le seguenti: «e senza pregiudizio dei corsi di cui al comma 1 dell'articolo 3», e dopo le parole: «educazione degli adulti,» sono inserite le seguenti: «all'aggiornamento e alla riqualificazione professionale,»;
+                                
+                            
+                        
+                        
+                            b)
+                            
+                                
+                                    al comma 3, dopo le parole: «regolamento didattico» e' aggiunta, in fine, la seguente: «generale»;
+                                
+                            
+                        
+                        
+                            c)
+                            
+                                
+                                    al comma 4, al primo periodo dopo le parole: «regolamento didattico» e' inserita la seguente: «generale».
+
 L'articolo 5 del decreto del Presidente della Repubblica 8 luglio 2005, n. 212, e' sostituito dal seguente: 
  «Art. 5 (Ordinamento didattico generale, dipartimenti, corsi e scuole). - 1. L'offerta formativa delle istituzioni e' articolata in corsi di diverso livello. Le istituzioni, con delibera del consiglio accademico, possono raggruppare corsi di materie omogenee in scuole.
 I corsi e le scuole afferiscono ai dipartimenti. 
@@ -36,6 +198,130 @@ I corsi e le scuole afferiscono ai dipartimenti.
  4. Nell'organo collegiale di coordinamento di ciascun dipartimento e, laddove costituita, di ciascuna scuola, e' nominato almeno un rappresentante degli studenti con diritto di voto. In mancanza del rappresentante degli studenti la funzione di rappresentanza, nell'organo collegiale di coordinamento di ciascun dipartimento e, laddove costituita, di ciascuna scuola e' svolta da uno studente individuato dalla consulta degli studenti dell'istituzione. 
  5. Fino all'adozione da parte del consiglio accademico della delibera di cui al comma 3, l'offerta formativa dell'istituzione rimane articolata nei corsi, scuole e dipartimenti esistenti. 
  6. Ai componenti dell'organo collegiale di coordinamento non spettano compensi, gettoni di presenza, rimborsi di spese o emolumenti comunque denominati».
+
+5.
+                    
+                        
+                            All'articolo 6 del decreto del Presidente della Repubblica 8 luglio 2005, n. 212, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                
+                                    dopo il comma 2, e' inserito il seguente: 
+ «2-bis. La quantita' media di impegno di apprendimento, svolto in un anno da uno studente a tempo parziale e' convenzionalmente fissata in trentasei crediti.»;
+                                
+                            
+                        
+                        
+                            b)
+                            
+                                
+                                    al comma 3, al primo periodo, le parole: «per ciascuna scuola» sono sostituite dalle seguenti: «per ciascun corso»;
+                                
+                            
+                        
+                        
+                            c)
+                            
+                                
+                                    al comma 4, le parole: «all'articolo 10, comma 4, lettera d)» sono sostituite dalle seguenti: «all'articolo 10, comma 2, lettera d)»;
+                                
+                            
+                        
+                        
+                            d)
+                            
+                                
+                                    al comma 5, dopo le parole: «o universita'» sono inserite le seguenti: «o istituti tecnici superiori» e, alla fine, le parole «, con procedure e criteri predeterminati stabiliti nel rispettivo regolamento didattico.» sono sostituite dalle seguenti: «. Le relative procedure sono stabilite nel regolamento didattico generale e seguono specifici criteri prestabiliti nel rispettivo regolamento del corso.»;
+                                
+                            
+                        
+                        
+                            e)
+                            
+                                
+                                    al comma 6, la parola: «didattici» e' sostituita dalle seguenti: «dei corsi»;
+                                
+                            
+                        
+                        
+                            f)
+                            
+                                
+                                    al comma 7, la parola; «didattico» e' sostituita dalle seguenti: «del corso».
+
+6.
+                    
+                        
+                            All'articolo 7 del decreto del Presidente della Repubblica 8 luglio 2005, n. 212, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                
+                                    al comma 1, dopo le parole: «diploma di primo livello» sono inserite le seguenti: «o a un corso di diploma accademico a ciclo unico» e le parole: «, riconosciuto idoneo» sono sostituite dalle seguenti: «e riconosciuto equipollente»;
+                                
+                            
+                        
+                        
+                            b)
+                            
+                                
+                                    al comma 2, la parola: «didattici» e' sostituita dalle seguenti: «dei corsi» e le parole: «10, comma 4, lettera g)» sono sostituite dalle seguenti: «10, comma 2, lettera h)»;
+                                
+                            
+                        
+                        
+                            c)
+                            
+                                
+                                    il comma 3 e' sostituito dal seguente: 
+ «3. Gli Istituti superiori di studi musicali e coreutici possono ammettere ai corsi di diploma accademico di primo livello studenti con spiccate capacita' e attitudini, ancorche' privi del diploma di istruzione secondaria superiore, comunque necessario per il conseguimento del diploma accademico.».
+                                
+                            
+                        
+                        
+                            d)
+                            
+                                
+                                    al comma 4, le parole: «, riconosciuto idoneo» sono sostituite dalle seguenti: «e riconosciuto equipollente»;
+                                
+                            
+                        
+                        
+                            e)
+                            
+                                
+                                    il comma 5 e' sostituito dal seguente: 
+ «5. Per essere ammessi ad un corso di specializzazione, occorre essere in possesso di diploma accademico di secondo livello o di laurea magistrale o di titoli previgenti ad essi equiparati, ovvero di altro titolo di studio conseguito all'estero riconosciuto equipollente.»;
+                                
+                            
+                        
+                        
+                            f)
+                            
+                                
+                                    al comma 6, le parole: «formazione alla ricerca» sono sostituite dalle seguenti: «dottorato di ricerca» e la parola: «idoneo» e' sostituita dalla seguente: «equipollente»;
+                                
+                            
+                        
+                        
+                            g)
+                            
+                                
+                                    il comma 7 e' sostituito dal seguente: 
+ «7. Per essere ammessi ad un corso di perfezionamento o ad un master di primo livello, occorre essere in possesso di diploma accademico di primo livello o di laurea. Per essere ammesso ad un master di secondo livello, e' richiesto il possesso del diploma accademico di secondo livello o della laurea magistrale o titoli previgenti ad essi equiparati ovvero altro titolo di studio conseguito all'estero e riconosciuto equipollente.»;
+                                
+                            
+                        
+                        
+                            h)
+                            
+                                
+                                    al comma 8, le parole: «dell'idoneita'» sono sostituite dalle seguenti: «dell'equipollenza».
 
 All' articolo 8, del decreto del Presidente della Repubblica 8 luglio 2005, n. 212, il comma 2, e' sostituito dal seguente: 
  «2. Per conseguire il diploma accademico di secondo livello, lo studente deve aver acquisito almeno 120 crediti. Per conseguire il diploma accademico di secondo livello a ciclo unico, lo studente deve aver acquisito almeno 300 crediti. Il numero dei crediti di cui al primo e al secondo periodo puo' essere modificato con il decreto del Ministro di cui all'articolo 10, comma 1, in relazione a specifiche esigenze didattiche anche con riferimento alla necessita' di allineamento ai parametri di riconoscimento internazionale dei titoli.».
@@ -78,6 +364,74 @@ Al decreto del Presidente della Repubblica 8 luglio 2005, n. 212, dopo l'articol
  3. Ciascuna istituzione puo' attribuire al massimo un diploma accademico ad honorem e un dottorato di ricerca ad honorem per ciascun anno accademico. 
  Art. 10-ter (Diplomi in restauro). - 1. I diplomi rilasciati dalle accademie di belle arti ai soggetti in possesso del diploma di istruzione secondaria di secondo grado al termine dei corsi quadriennali in restauro autorizzati in via sperimentale nell'ambito degli ordinamenti previgenti alla legge 21 dicembre 1999, n. 508, sono equiparati al diploma accademico di secondo livello in Restauro (DASLQ01) di cui all'articolo 2 del decreto interministeriale 30 dicembre 2010, n. 302. 
  2. I diplomi rilasciati dalle accademie di belle arti ai soggetti in possesso del diploma di I livello in restauro DAPL 07 al termine dei corsi di diploma accademico di II livello sperimentali in restauro precedentemente all'accreditamento ai sensi del decreto del Ministro dei beni e le attivita' culturali, di concerto con il Ministro dell'istruzione, dell'universita' e della ricerca, 26 maggio 2009, n. 87, sono equiparati al diploma accademico abilitante di secondo livello in Restauro (DASLQ01) di cui all'articolo 2 del decreto del Ministro dell'universita' e della ricerca, 30 dicembre 2010, n. 302, di cui al comunicato pubblicato nella Gazzetta Ufficiale n. 29 del 5 febbraio 2011.».
+
+10.
+                    
+                        
+                            All'articolo 11 del decreto del Presidente della Repubblica 8 luglio 2005, n. 212, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                
+                                    il comma 1 e' sostituito dal seguente: 
+ «1. A decorrere dall'anno accademico 2025/2026 e fino all'entrata in vigore del regolamento che disciplina le procedure, i tempi e le modalita' per la programmazione, il riequilibrio e lo sviluppo dell'offerta didattica, ai sensi dell'articolo 2, comma 7, lettera g), della legge, l'autorizzazione a rilasciare i titoli di Alta formazione artistica, musicale e coreutica puo' essere conferita con decreto del Ministro, a qualificate istituzioni non statali con pluriennale esperienza nell'alta formazione artistica, musicale e coreutica, in coerenza con linee generali d'indirizzo adottate con cadenza triennale dal Ministero sulla base delle esigenze di sviluppo a livello territoriale dell'offerta formativa. A tale fine, le istituzioni interessate presentano una relazione tecnica corredata dalla documentazione attestante la loro qualificazione, la conformita' dell'ordinamento didattico adottato alle disposizioni vigenti per le istituzioni statali, nonche' la disponibilita' di idonee strutture e di adeguate risorse finanziarie e di personale.»;
+                                
+                            
+                        
+                        
+                            b)
+                            
+                                
+                                    il comma 2 e' sostituito dal seguente: 
+ «2. L'autorizzazione e' concessa, su parere del CNAM, in ordine alla qualificazione dell'istituzione e alla conformita' dell'ordinamento didattico per i corsi proposti, e dell'ANVUR, in ordine all'adeguatezza delle strutture, delle risorse finanziarie e del personale alla tipologia dei corsi da attivare. A tale fine l'ANVUR puo' avvalersi di esperti della valutazione ai sensi e nei limiti di cui all'articolo 12, comma 4, lettera d, del decreto del Presidente della Repubblica 1° febbraio 2010, n. 76.»;
+                                
+                            
+                        
+                        
+                            c)
+                            
+                                
+                                    al comma 4, dopo il primo periodo, e' aggiunto, in fine, il seguente: «Tali istituzioni sono soggette a valutazione periodica da parte dell'ANVUR ai fini della verifica della permanenza dei requisiti di cui al presente articolo e dei risultati conseguiti. In caso di esito positivo di tale valutazione con le medesime procedure di cui ai precedenti commi puo' essere concessa l'autorizzazione di ulteriori corsi, ivi compresi i corsi di diploma accademico di secondo livello, corsi di master e corsi di dottorato di ricerca.».
+
+11.
+                    
+                        
+                            All'articolo 12 del decreto del Presidente della Repubblica 8 luglio 2005, n. 212, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                
+                                    al comma 2, le parole: «Le istituzioni» sono sostituite dalle seguenti: «Nel caso di introduzione di nuovi ordinamenti didattici, le istituzioni»;
+                                
+                            
+                        
+                        
+                            b)
+                            
+                                
+                                    il comma 3 e' sostituito dal seguente: 
+ «3. Gli Istituti superiori di studi musicali e coreutici possono continuare a organizzare corsi propedeutici e attivita' non curricolari di cui al decreto adottato ai sensi dell'articolo 15 del decreto legislativo 13 aprile 2017, n. 60.»;
+                                
+                            
+                        
+                        
+                            c)
+                            
+                                
+                                    dopo il comma 3 e' inserito il seguente: 
+ «3-bis. Le istituzioni possono erogare i corsi di cui all'articolo 3 mediante convenzioni esclusivamente in base all'articolo 64-bis, comma 8, del decreto-legge 31 maggio 2021, n. 77, convertito, con modificazioni, dalla legge 29 luglio 2021, n. 108.»;
+                                
+                            
+                        
+                        
+                            d)
+                            
+                                
+                                    i commi 4 e 5 sono abrogati.
 
 All'articolo 13 del decreto del Presidente della Repubblica 8 luglio 2005, n. 212, dopo le parole: «per la finanza pubblica» sono aggiunte, in fine, le seguenti: «e agli adempimenti previsti le istituzioni provvedono con le risorse umane, strumentali e finanziarie disponibili a legislazione vigente».
 

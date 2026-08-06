@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
 vigenza_date: 2001-11-15
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:29Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -44,6 +44,43 @@ Resta fermo quanto previsto dall'articolo 17 della legge 24 dicembre 1976, n. 89
 
 ## Art. 2. — Modifiche all'articolo 5 del decreto del Presidente della Repubblica 22 marzo 1974, n. 381, e disposizioni in materia di piano generale
  per l'utilizzazione delle acque pubbliche
+
+1.
+                        
+                            
+                                All'articolo 5 del decreto del Presidente della Repubblica 22 marzo 1974, n. 381, sono apportate le seguenti modifiche:
+ 
+                            
+                            
+                                a)
+                                
+                                    il primo comma e' sostituito dal seguente:
+ "In relazione al trasferimento alle province autonome di Trento e di Bolzano del demanio idrico ai sensi dell'articolo 8, primo comma, lettera e), del decreto del Presidente della Repubblica 20 gennaio 1973, n. 115, le province stesse esercitano tutte le attribuzioni inerenti alla titolarita' di tale demanio ed in particolare quelle concernenti la polizia idraulica e la difesa delle acque dall'inquinamento, fatto salvo quanto diversamente disposto dal presente decreto e dal decreto del Presidente della Repubblica 26 marzo 1977, n. 235.";
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il secondo comma e' sostituito dal seguente:
+ "Le province di Trento e di Bolzano provvedono, ciascuna per il proprio territorio, alla tenuta dell'elenco delle acque pubbliche ed alla compilazione ed approvazione dei relativi elenchi suppletivi.";
+
+                                
+                            
+                            
+                                c)
+                                
+                                    dopo il secondo comma e' inserito il seguente:
+ "Le province possono avvalersi del Registro italiano dighe (RID) per l'identificazione e l'approvazione tecnica dei progetti e per la vigilanza sulla costruzione e sulle operazioni di controllo spettanti ai concessionari con riferimento alle dighe di ritenuta, alle opere di sbarramento o alle traverse inferiori o pari a 15 metri di altezza o che determinano volume di invaso inferiore o pari a 1.000.000 di metri cubi. Per le medesime opere superiori a 15 metri di altezza e che determinano invasi di volume superiore a 1.000.000 di metri cubi le province stesse affidano i predetti compiti al RID; in tale ultimo caso si osserva altresi' la normativa tecnica statale relativa alla progettazione e alla costruzione.";
+
+                                
+                            
+                            
+                                d)
+                                
+                                    i commi terzo e quarto sono sostituiti dai seguenti:
+ "Il piano generale per l'utilizzazione delle acque pubbliche previsto dall'articolo 14 del decreto del Presidente della Repubblica 31 agosto 1972, n. 670, vale anche, per il rispettivo territorio, quale piano di bacino di rilievo nazionale. Il Ministro dei lavori pubblici nella sua qualita' di presidente del comitato istituzionale delle relative autorita' di bacino di rilievo nazionale, ed il presidente della provincia interessata assicurano, mediante apposite intese, il coordinamento e l'integrazione delle attivita' di pianificazione nell'ambito delle attribuzioni loro conferite dal presente decreto e dalla legge 18 maggio 1989, n. 183. Ai fini della definizione della predetta intesa il Ministro dei lavori pubblici, sentiti i comitati istituzionali delle autorita' di bacino di rilievo nazionale interessati, assicura, attraverso opportuni strumenti di raccordo, la compatibilizzazione degli interessi comuni a piu' regioni e province autonome il cui territorio ricade in bacini idrografici di rilievo nazionale. ((1))
+ Per i piani e i programmi statali che prevedano il riparto o l'utilizzo a favore delle regioni, anche tramite le autorita' di bacino, di finanziamenti, si osservano le disposizioni di cui all'articolo 5 della legge 30 novembre 1989, n. 386, e le relative norme di attuazione di cui al decreto legislativo 16 marzo 1992, n. 268.".
 
 -----------------
                             AGGIORNAMENTO (1)
@@ -164,7 +201,53 @@ Al primo comma dell'articolo 4 del decreto del Presidente della Repubblica 26 ma
 
 ## Art. 16. — Modificazioni all'articolo 5 del decreto del Presidente della Repubblica 26 marzo 1977, n. 235, in materia di assunzione del servizio di distribuzione dell'energia elettrica da parte degli enti locali e di indennizzi.
 
+1.
+                        
+                            
+                                All'articolo 5 del decreto del Presidente della Repubblica 26 marzo 1977, n. 235, sono apportate le seguenti modifiche:
+ 
+                            
+                            
+                                a)
+                                
+                                    alle lettere a) e
+                                
+                            
+                            
+                                b)
+                                
+                                    del primo comma le parole: "specie 1/A" sono soppresse;
+ b) al terzo comma le parole: "del Ministro per l'industria, il commercio e l'artigianato" sono sostituite dalle seguenti: "del presidente della giunta provinciale territorialmente competente" e le parole: "del 7,50 per cento" sono sostituite dalle seguenti: "pari al tasso previsto, in sostituzione del tasso ufficiale di sconto, dall'articolo 1, comma l, del decreto legislativo 24 giugno 1998, n. 213, e vigente alla data di entrata in vigore della presente disposizione, aumentato di 0,50 punti";
+
+                                
+                            
+                            
+                                c)
+                                
+                                    dopo il terzo comma e' aggiunto il seguente:
+ "A seguito della presentazione di formale richiesta di trasferimento da parte degli enti locali di cui all'articolo 1, resa esecutiva ai sensi dell'articolo 2, o degli enti e delle societa' di cui all'articolo 10, gli impianti di cui agli articoli precedenti sono trasferiti nel termine di novanta giorni. Il Commissario del Governo a seguito del trasferimento dara' inizio alla procedura volta alla determinazione dell'indennizzo secondo le modalita' di cui ai commi precedenti.".
+
 ## Art. 17. — Modifica all'articolo 6 del decreto del Presidente della Repubblica 26 marzo 1977, n. 235, concernente il trasferimento all'ente locale di imprese esercitanti attivita' elettriche.
+
+1.
+                        
+                            
+                                All'articolo 6 del decreto del Presidente della Repubblica 26 marzo 1977, n. 235, sono apportate le seguenti modifiche:
+ 
+                            
+                            
+                                a)
+                                
+                                    il primo comma e' sostituito dal seguente:
+ "In tutti i casi in cui le imprese di cui all'articolo 4, n. 8), della legge 6 dicembre 1962, n. 1643, non possano proseguire o comunque cessino la loro attivita', gli impianti di produzione e di distribuzione e, a richiesta, i beni ad essi relativi, sono trasferiti con decreto del presidente della provincia all'esercente del servizio di distribuzione, operante nel medesimo ambito territoriale, ove si tratti del soggetto di cui all'articolo 10 o di un'azienda speciale o di una societa' di enti locali.";
+
+                                
+                            
+                            
+                                b)
+                                
+                                    al secondo comma, le parole: "dell'art. 3 del decreto del Presidente della Repubblica 25 febbraio 1963, n. 138" sono sostituite dalle seguenti: "di cui all'articolo 5, primo comma, lettera b);
+ c) al terzo comma, le parole: "dell'ente" sono sostituite dalle seguenti: "del beneficiario del trasferimento".
 
 ## Art. 18. — Modificazioni all'articolo 9 del decreto del Presidente della Repubblica 26 marzo 1977, n. 235, in materia di rete nazionale di trasmissione dell'energia elettrica.
 
@@ -181,6 +264,38 @@ Alla lettera a) del primo comma dell'articolo 10 del decreto del Presidente dell
 
 ## Art. 20. — Abrogazioni di disposizioni dei decreti del Presidente della Repubblica 22 marzo 1974, n. 381, 26 marzo 1977, n. 235, e 31 luglio 1978, n. 1017.
 
+1.
+                        
+                            
+                                Nel decreto del Presidente della Repubblica 22 marzo 1974, n. 381, sono abrogate le seguenti disposizioni:
+ 
+                            
+                            
+                                a)
+                                
+                                    l'articolo 12;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'articolo 15;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il n. 1) del primo comma dell'articolo 16;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    la lettera f) del primo comma dell'articolo 19.
+
 Gli articoli 11 e 12 del decreto del Presidente della Repubblica 26 marzo 1977, n. 235, sono abrogati.
 
 L'articolo 8 del decreto del Presidente della Repubblica 31 luglio 1978, n. 1017, e' abrogato.
@@ -196,6 +311,24 @@ Sono trasferite alle province autonome di Trento e di Bolzano, con effetto dal 1
 Il personale statale con contratto di lavoro a tempo indeterminato, in servizio alla data di cui al comma 1 presso le predette sezioni, previamente individuato dalla competente amministrazione statale, e' trasferito alle province con effetto dalla medesima data e con onere a carico delle province stesse. Con effetto dalla data del 1 gennaio 2000 e secondo quanto disposto dalla rispettiva normativa provinciale, a detto personale si applicano le norme legislative, regolamentari e contrattuali rispettivamente previste per il corrispondente personale delle province, fermo restando il rispetto dello stato giuridico e del trattamento economico in godimento.
 
 Fino a quando non sia diversamente disposto dalla rispettiva normativa provinciale, le sezioni di cui al comma 1 continuano ad esercitare le funzioni ad esse attribuite dalle norme in vigore attinenti le funzioni di competenza delle province, ivi comprese quelle ad esse delegate.
+
+4.
+                        
+                            
+                                Le somme spettanti annualmente alle province autonome di Trento e di Bolzano per l'esercizio delle funzioni delegate ai sensi dell'articolo 7 del decreto del Presidente della Repubblica 22 marzo 1974, n. 381, come modificato dall'articolo 4 del presente decreto, in materia di opere idrauliche di prima e seconda categoria, nonche' ai sensi dell'articolo 1-bis del decreto del Presidente della Repubblica 26 marzo 1977, n. 235, come introdotto dall'articolo 11 del presente decreto, in materia di concessioni di grandi derivazioni di acque pubbliche a scopo idroelettrico, sono cosi' determinate:
+ 
+                            
+                            
+                                a)
+                                
+                                    per le spese correnti relative al personale ed al funzionamento degli uffici nonche' alla manutenzione delle opere idrauliche, in misura pari alla media annua delle corrispondenti spese sostenute dallo Stato nel territorio delle province autonome negli anni tra il 1996 e il 1998, incrementate a decorrere dall'anno 2001 in misura pari alle variazioni percentuali previste, per ciascun anno di riferimento, nel documento di programmazione economicafinanziaria dello Stato per l'andamento della spesa corrente a carico del bilancio dello Stato medesimo;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    per le spese di investimento relative alle opere idrauliche di prima e seconda categoria, nella misura corrispondente alla spesa prevista per manutenzioni straordinarie ed investimenti dai piani pluriennali di cui all'articolo 7 del decreto del Presidente della Repubblica n. 381 del 1974, come sostituito dall'articolo 4 del presente decreto, fermo restando quanto previsto dall'articolo 5 del medesimo decreto del Presidente della Repubblica n. 381 del 1974, come modificato dall'articolo 2 del presente decreto.
 
 I dati occorrenti per la determinazione delle somme spettanti annualmente alle province autonome di Trento e di Bolzano ai sensi del comma 4 sono accertati in contraddittorio da funzionari a cio' delegati rispettivamente dalle province medesime e dal Ministero dei lavori pubblici. Il pagamento delle somme dovute e' effettuato con periodicita' trimestrale; per le somme riferite al rimborso delle spese di investimento, il relativo pagamento e' effettuato in relazione allo stato di avanzamento dei lavori, sulla base di dichiarazioni rilasciate dal presidente della giunta provinciale interessata.
 

@@ -7,8 +7,8 @@ urn: urn:nir:stato:decreto.del.presidente.della.repubblica:2022-09-23;177
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti governativi
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:12Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -28,12 +28,136 @@ Sulla proposta del Presidente del Consiglio dei ministri e Ministro delle infras
 
 ## Art. 1. — Definizioni
 
+1.
+                    
+                        
+                            Ai fini del presente regolamento, si intende per: 
+ 
+                        
+                        
+                            a)
+                            
+                                
+                                    codice della strada: il decreto legislativo 30 aprile 1992, n. 285; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                documento unico: il documento unico di circolazione e di proprieta' di cui all'articolo 1 del decreto legislativo 29 maggio 2017, n. 98; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                registro unico: il registro unico telematico dei veicoli fuori uso, di cui all'articolo 5, comma 10, del decreto legislativo 24 giugno 2003, n. 209, come modificato dall'articolo 1, comma 1, lettera m), del decreto legislativo 3 settembre 2020, n. 119; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                CRD: il certificato di rottamazione di cui all'articolo 5, comma 6 e 7, del decreto legislativo 24 giugno 2003, n. 209 e il certificato di cui all'articolo 231, comma 4, del decreto legislativo 3 aprile 2006, n. 152, generati in formato digitale; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                Direzione generale per la motorizzazione: la Direzione generale per la motorizzazione e per i servizi ai cittadini e alle imprese in materia di trasporti e navigazione di cui all'articolo 6, comma 3, del decreto del Presidente del Consiglio dei ministri 23 dicembre 2020, n. 190; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                CED: il Centro elaborazione dati della Direzione generale per la motorizzazione e per i servizi ai cittadini e alle imprese in materia di trasporti e navigazione; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                UMC: l'Ufficio o gli Uffici motorizzazione civile e relative sezioni coordinate; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                ANV: l'Archivio nazionale dei veicoli di cui agli articoli 225 e 226 del codice della strada; 
+
+                            
+                        
+                        
+                            i)
+                            
+                                ACI: l'Automobile Club d'Italia; 
+
+                            
+                        
+                        
+                            l)
+                            
+                                PRA: il Pubblico registro automobilistico; 
+
+                            
+                        
+                        
+                            m)
+                            
+                                centro di raccolta: l'impianto di trattamento autorizzato che, a norma del decreto legislativo 24 giugno 2003, n. 209, e del decreto legislativo 3 aprile 2006, n. 152, effettua almeno le operazioni relative alla messa in sicurezza e alla demolizione del veicolo fuori uso; 
+
+                            
+                        
+                        
+                            n)
+                            
+                                FD: la firma digitale ai sensi dell'articolo 1, comma 1, lettera q), del decreto del Presidente del Consiglio dei ministri 22 febbraio 2013.
+
 Si applicano altresi' le definizioni di cui all'articolo 3 del decreto legislativo 24 giugno 2003, n. 209.
 
 ## Art. 2. — Registro unico telematico dei veicoli fuori uso 
  e certificato di radiazione in formato digitale
 
 Il registro unico telematico dei veicoli fuori uso, istituito presso il CED, contiene i dati di cui al comma 2 trasmessi in via telematica dal centro di raccolta, ovvero dal concessionario o dal gestore della succursale della casa costruttrice o dell'automercato.
+
+2.
+                    
+                        
+                            Il registro unico si compone di due sezioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                la sezione veicoli iscritti al PRA, nella quale sono annotati: 
+ 1) il numero di targa e il numero di telaio del veicolo, nonche' la marca e il modello; 
+ 2) le generalita', l'indirizzo di residenza e gli estremi di identificazione dell'intestatario del veicolo, ovvero dell'avente titolo o del detentore che conferisce il veicolo e della persona da questi eventualmente delegata, nonche', nel caso in cui il veicolo sia conferito da un soggetto diverso dal proprietario, il nome, il luogo, la data di nascita, l'indirizzo e la nazionalita' del proprietario stesso; 
+ 3) la data e l'ora di presa in carico del veicolo conferito e dei relativi documenti di circolazione da parte del centro di raccolta o del concessionario, del gestore della succursale della casa costruttrice o dell'automercato; 
+ 4) la data e il numero identificativo del certificato di rottamazione; 
+ 5) il codice identificativo del concessionario o del gestore della succursale della casa costruttrice o dell'automercato; 
+ 6) la data di conferimento del veicolo al centro di raccolta da parte del concessionario, del gestore della succursale della casa costruttrice o dell'automercato; 
+ 7) la data di avvenuta cancellazione del veicolo fuori uso dall'ANV e dal PRA; 
+ 8) la data di avvenuta distruzione della carta di circolazione, ovvero del documento unico, delle targhe e del certificato di proprieta', se presente in formato cartaceo; 
+ 9) il codice identificativo del centro di raccolta; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                la sezione veicoli non iscritti al PRA, nella quale sono annotati: 
+ 1) il numero di targa, se presente, e il numero di telaio del veicolo, nonche' la marca e il modello; 
+ 2) le generalita', l'indirizzo di residenza e gli estremi di identificazione dell'intestatario del veicolo ovvero dell'avente titolo o del detentore che conferisce il veicolo e della persona da questi eventualmente delegata, nonche', nel caso in cui il veicolo sia conferito da un soggetto diverso dal proprietario, il nome, il luogo, la data di nascita, l'indirizzo e la nazionalita' del proprietario stesso; 
+ 3) la data e l'ora di presa in carico del veicolo conferito e dei relativi documenti di circolazione; 
+ 4) la data e il numero identificativo del certificato di rottamazione; 
+ 5) il codice identificativo del concessionario o del gestore della succursale della casa costruttrice o dell'automercato; 
+ 6) la data di conferimento del veicolo al centro di raccolta da parte del concessionario, del gestore della succursale della casa costruttrice o dell'automercato; 
+ 7) la data di avvenuta distruzione della carta di circolazione o del certificato di circolazione e delle targhe; 
+ 8) il codice identificativo del centro di raccolta.
 
 Le procedure telematiche di gestione del registro unico consentono, mediante apposito applicativo, di generare il CRD e di stamparlo su supporto cartaceo per la consegna all'intestatario del veicolo, ovvero all'avente titolo o al detentore o ad altro soggetto eventualmente delegato. In caso di impedimento tecnico all'utilizzo delle procedure telematiche, il certificato di rottamazione e' generato in formato cartaceo ed e' trasmesso al CED, in formato digitale e sottoscritto con FD, mediante l'utilizzo dell'apposito applicativo, entro il termine previsto dal comma 6. Le medesime procedure consentono altresi' di acquisire, mediante apposito applicativo, la riproduzione digitale, sottoscritta con FD, dei documenti di circolazione del veicolo fuori uso, del certificato di proprieta', se rilasciato su supporto cartaceo, ovvero, in caso di furto, smarrimento o distruzione dei predetti documenti o delle targhe, la dichiarazione sostitutiva dell'atto di notorieta', resa ai sensi dell'articolo 47 del decreto del Presidente della Repubblica 28 dicembre 2000, n. 445, comprovante la resa denuncia agli organi di polizia.
 
@@ -71,6 +195,24 @@ L'operativita' dei collegamenti telematici e' sempre sospesa o disabilitata nel 
 In caso di disabilitazione dei collegamenti telematici ai sensi del comma 3, l'UMC puo' adottare un nuovo provvedimento di abilitazione all'utilizzo dei collegamenti stessi non prima che siano decorsi cinque anni dalla data di comunicazione del provvedimento di disabilitazione.
 
 ## Art. 5. — Disposizioni finali e transitorie
+
+1.
+                    
+                        
+                            Con uno o piu' decreti del direttore della Direzione generale per la motorizzazione sono stabilite: 
+ 
+                        
+                        
+                            a)
+                            
+                                le modalita' di svolgimento delle attivita' di rilascio del codice identificativo del concessionario, del gestore della succursale della casa costruttrice o dell'automercato e del centro di raccolta, e di abilitazione del collegamento telematico con il CED, da completare entro sei mesi dalla data di entrata in vigore del presente regolamento; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                le modalita' per la graduale implementazione e ottimizzazione delle procedure telematiche previste dal presente regolamento, da completare entro diciotto mesi dalla data di entrata in vigore del presente regolamento.
 
 Il registro unico e' avviato il giorno successivo alla scadenza del termine di cui al comma 1, lettera b).
 

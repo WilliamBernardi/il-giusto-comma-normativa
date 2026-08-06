@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Leggi delega e relativi provvedimenti delegati
 vigenza_date: 2021-11-09
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:41:15Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -29,11 +29,82 @@ Sulla proposta del Presidente del Consiglio dei Ministri e del Ministro dell'uni
 
 ## Art. 1. — Istituzione dell'ente
 
+1.
+                        
+                            
+                                E' istituito, con le modalita' e i tempi di cui all'articolo 6, l'Istituto nazionale di geofisica e vulcanologia (INGV), come ente di ricerca non strumentale, nel quale confluiscono l'Istituto nazionale di geofisica (ING), l'Osservatorio vesuviano (OV), nonche' i seguenti istituti del Consiglio nazionale delle ricerche (CNR): 
+ 
+                            
+                            
+                                a)
+                                
+                                    Istituto internazionale di vulcanologia di Catania (IIV); 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    Istituto di geochimica dei fluidi di Palermo (IGF); 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    Istituto di ricerca sul rischio sismico di Milano (IRRS).
+
 L'INGV ha personalita' giuridica di diritto pubblico con autonomia scientifica, organizzativa, finanziaria e contabile e si dota di un ordinamento autonomo in conformita' al presente decreto, alla legge 9 maggio 1989, n. 168, e successive modificazioni e integrazioni, al decreto legislativo 5 giugno 1998, n. 204, nonche', per quanto non previsto dalle predette disposizioni, al codice civile.
 
 Il Ministro dell'universita' e della ricerca scientifica e tecnologica esercita nei confronti dell'ente le competenze previste dalle disposizioni di cui al comma 2.
 
 ## Art. 2. — Attivita' dell'INGV
+
+1.
+                        
+                            
+                                L'INGV: 
+ 
+                            
+                            
+                                a)
+                                
+                                    promuove ed effettua, anche nell'ambito di programmi dell'Unione europea e di organismi internazionali, attivita' di ricerca nel campo delle discipline geofisiche, della vulcanologia e delle loro applicazioni, ivi compresi lo studio dei fenomeni fisici e chimici precursori dei terremoti e delle eruzioni vulcaniche, dei metodi di valutazione del rischio sismico e vulcanico, della pericolosita' sismica e vulcanica del territorio anche in collaborazione con le universita' e con altri soggetti pubblici e privati, nazionali e internazionali; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    progetta e coordina programmi nazionali ed internazionali di ricerca finalizzati al rilevamento sistematico dei fenomeni geofisici, vulcanici e geochimici, anche a mezzo di osservatori geofisici, sismici e vulcanici; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    svolge funzioni di sorveglianza sismica e vulcanica del territorio nazionale e di coordinamento delle reti sismiche regionali e locali, ivi comprese le funzioni di sorveglianza sismica e vulcanica della Sicilia orientale (progetto Poseidon) di cui all'articolo 2, comma 2, del decreto-legge 3 maggio 1991, n. 142, convertito dalla legge 3 luglio 1991, n. 195; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    provvede alla organizzazione e gestione della rete sismica nazionale integrata; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    e' sede e fornisce supporto all'attivita' del Gruppo nazionale per la difesa dai terremoti e al Gruppo nazionale per la vulcanologia, istituiti ai sensi dell'articolo 17 della legge 24 febbraio 1992, n. 225, con le condizioni di autonomia previste dalla predetta disposizione; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    rende disponibili per tutta la comunita' scientifica i dati raccolti dalle proprie reti di monitoraggio, nazionale e locali. (2)
 
 L'INGV e' componente del servizio nazionale della protezione civile di cui all'articolo 6 della legge 24 febbraio 1992, n. 225, e le attivita' di cui alle lettere a), relativamente alla valutazione dei rischi e della pericolosita', nonche' c), d) ed e) del comma 1, sono svolte nel quadro di accordi pluriennali attuati mediante convenzioni di durata almeno biennale con il Dipartimento della protezione civile, in conformita' a quanto previsto dall'articolo 19, commi 1 e 2, ((del codice della protezione civile, di cui al decreto legislativo 2 gennaio 2018, n. 1,)) ferma restando l'autonomia scientifica ((dell'Istituto)). Per lo svolgimento di tali attivita' ((,)) con le convenzioni di cui al primo periodo vengono determinati, a decorrere dall'anno 2022, l'ammontare delle risorse assegnate all'INGV, in misura non inferiore a 7,5 milioni di euro annui, e le modalita' di assegnazione e rendicontazione, in modo da agevolare l'efficace impiego delle medesime da parte del Dipartimento della protezione civile, a valere sulle risorse gia' disponibili a legislazione vigente sul bilancio autonomo della Presidenza del Consiglio dei ministri, senza nuovi o maggiori oneri per la finanza pubblica. (2)
 
@@ -48,6 +119,38 @@ In particolare:
  s) gli articoli 6 e 17 della legge n. 225 del 1992, citati nell'articolo 2, commi 1 e 2, del decreto legislativo 29 settembre 1999, n. 381, devono intendersi rispettivamente riferiti agli articoli 4, 13 e 19 del presente decreto".
 
 ## Art. 3. — Organi dell'ente
+
+1.
+                        
+                            
+                                Sono organi dell'ente:
+ 
+                            
+                            
+                                a)
+                                
+                                    il presidente;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il consiglio direttivo;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il comitato di consulenza scientifica;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    il collegio dei revisori dei conti.
 
 Il presidente ha la rappresentanza legale dell'ente, ne sovrintende all'andamento, convoca e presiede il consiglio direttivo e il comitato di consulenza scientifica, stabilendone l'ordine del giorno. Il presidente, scelto tra personalita' di alta qualificazione scientifica, e' nominato ai sensi dell'articolo 6, comma 2, del decreto legislativo 5 giugno 1998, n. 204. Il presidente dura in carica quattro anni e puo' essere confermato solo una volta.
 
@@ -80,6 +183,66 @@ L'INGV opera sulla base di un piano triennale di attivita', aggiornabile annualm
 
 ## Art. 5. — Norme applicabili all'INGV
 
+1.
+                        
+                            
+                                All'INGV sono estese le seguenti disposizioni di cui al decreto legislativo 30 gennaio 1999, n. 19:
+ 
+                            
+                            
+                                a)
+                                
+                                    articolo 2, comma 1, lettere c), e), g) e h) in materia di funzioni;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    articolo 3, in materia di strumenti;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    articolo 5, in materia di comitato di valutazione;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    articolo 6, comma 2, in materia di organici e di assunzioni di personale;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    articolo 9, commi 1 e 2, in materia di controlli e di competenze ministeriali;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    articolo 10, in materia di risorse finanziarie;
+
+                                
+                            
+                            
+                                g)
+                                
+                                    articolo 11, in materia di gestione del personale, fatto salvo quanto previsto agli articoli 6 e 12 del presente decreto;
+
+                                
+                            
+                            
+                                h)
+                                
+                                    articolo 12, in materia di mobilita' temporanea del personale.
+
 Costituiscono risorse finanziarie anche i contributi di soggetti pubblici per lo svolgimento di funzioni di cui all'articolo 2, comma 1, lettere c), d) ed e).
 
 L'ente si dota di ordinamento autonomo ai sensi dell'articolo 8 della legge 9 maggio 1989, n. 168, mediante appositi regolamenti di organizzazione e funzionamento, nonche' di amministrazione, contabilita' e finanza, applicando, per questi ultimi, anche i principi e criteri direttivi di cui all'articolo 7, comma 1, lettera a), numeri 2, 3 e 5, adottando per le sezioni quanto ivi previsto per gli istituti, nonche' b), del decreto legislativo 30 gennaio 1999, n. 19.
@@ -99,6 +262,80 @@ In prima applicazione del presente decreto e' costituito, con decreto del Minist
 Il comitato predispone gli schemi dei regolamenti di organizzazione e funzionamento, ivi compreso il riordino della rete scientifica secondo i principi di cui all'articolo 5, comma 5, nonche' di amministrazione, contabilita' e finanza, che sottopone al Ministro dell'universita' e della ricerca scientifica e tecnologica per l'esercizio delle competenze di cui all'articolo 8 della legge 9 maggio 1989, n. 168, e successive modificazioni e integrazioni. Per la redazione dei regolamenti il comitato si avvale anche dei direttori dell'ING, dell'IRRS, dell'OV e dell'IIV, dell'IGF e del Poseidon.
 
 Qualora il comitato non trasmetta al Ministro dell'universita' e della ricerca scientifica e tecnologica gli schemi dei regolamenti di cui al comma 2 entro quattro mesi dalla data di insediamento, esso decade e il Ministro nomina un commissario con l'incarico di completare la redazione dei regolamenti medesimi. I componenti del comitato decaduto non possono far parte del consiglio direttivo dell'INGV.
+
+4.
+                        
+                            
+                                A seguito dell'approvazione definitiva dei regolamenti di cui al comma 2, da parte del comitato di cui al comma 1 ovvero del commissario di cui al comma 3, il presidente e i componenti del comitato assumono rispettivamente le funzioni di presidente e di membri del consiglio direttivo dell'INGV ovvero, nel caso di cui al comma 3, sono nominati, con le procedure indicate al comma 1, il consiglio direttivo e il presidente dell'INGV. I membri designati dagli organi direttivi dell'ING, dell'IRRS, dell'OV, dell'IIV, dell'IGF e del Poseidon, decadono all'atto della nomina dei membri designati dai CSN dell'area scientifica corrispondente. Dalla data di insediamento del presidente e del consiglio direttivo:
+ 
+                            
+                            
+                                a)
+                                
+                                    e' istituito l'INGV;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    e' soppresso l'ING;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    l'Osservatorio vesuviano perde la personalita' giuridica e si trasforma in sezione dell'ente;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    il patrimonio e il personale dei predetti enti diventano patrimonio e personale dell'INGV, salvo quanto previsto al comma 9;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    il personale e i beni mobili e immobili in uso all'IIV, all'IRRS, all'IGF e al Poseidon, nonche' le attrezzature in uso al gruppo nazionale per la difesa dai terremoti e al gruppo nazionale per la vulcanologia sono trasferiti, senza oneri per l'ente, all'INGV, salvo quanto previsto al comma 9;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    all'INGV sono trasferiti i gruppi nazionali di ricerca scientifica di cui all'articolo 2, comma 1, lettera e);
+
+                                
+                            
+                            
+                                g)
+                                
+                                    al personale assunto a tempo determinato dal CNR per concorrere all'attivita' dei gruppi di cui all'articolo 2, comma 1, lettera e), in servizio al 1 aprile 1999, e' mantenuto il rapporto in essere a meno che non opti per il trasferimento all'INGV con identiche funzioni e rapporto di lavoro, con domanda da presentarsi entro 60 giorni dall'entrata in vigore dei regolamenti di funzionamento dell'istituto;
+
+                                
+                            
+                            
+                                h)
+                                
+                                    i regolamenti di cui al comma 2 acquistano efficacia come regolamenti dell'INGV;
+
+                                
+                            
+                            
+                                i)
+                                
+                                    l'INGV subentra a tutti i rapporti attivi e passivi dei predetti enti e istituti;
+
+                                
+                            
+                            
+                                l)
+                                
+                                    e' soppresso il Consiglio nazionale geofisico (CONAG).
 
 Fino alla data di insediamento del consiglio direttivo di cui al comma 4 sono prorogati gli organi direttivi dell'Osservatorio vesuviano e sono fatte salve le deliberazioni e gli atti da essi adottati. Fino alla data di approvazione del primo piano triennale da parte del CNR, l'organico del CNR e' ridotto del numero di unita' trasferite all'INGV.
 
@@ -153,6 +390,73 @@ Al consorzio obbligatorio per la gestione dell'area per la ricerca scientifica e
 
 Il consorzio opera sulla base di uno statuto che disciplina i compiti, le facolta', gli organi e le rispettive competenze, i principi generali di organizzazione e funzionamento, nonche' di appositi regolamenti, emanati anche in deroga alle norme di contabilita' generale dello Stato ma comunque nel rispetto dei relativi principi. Per l'esame dello statuto e dei regolamenti si applicano le disposizioni di cui all'articolo 8 della legge 9 maggio 1989, n. 168.
 
+3.
+                        
+                            
+                                Al consorzio si applicano l'articolo 51, comma 6, della legge 27 dicembre 1997, n. 449, nonche' le seguenti disposizioni di cui al decreto legislativo 30 gennaio 1999, n. 19:
+ 
+                            
+                            
+                                a)
+                                
+                                    articolo 2, comma 1, lettere c), e), g) ed h);
+
+                                
+                            
+                            
+                                b)
+                                
+                                    articolo 3;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    articolo 5, con riferimento anche all'attivita' dei soggetti che operano nelle aree;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    articolo 6;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    articolo 7, comma 1, lettera a), numero 5, e lettera b);
+
+                                
+                            
+                            
+                                f)
+                                
+                                    articolo 9, comma 1, salve le parole: "di cui agli articoli 7 e 8", e comma 2;
+
+                                
+                            
+                            
+                                g)
+                                
+                                    articolo 10, comma 1;
+
+                                
+                            
+                            
+                                h)
+                                
+                                    articolo 11, applicandosi, per quanto riguarda le aree scientifiche e i settori tecnologici, l'articolo 12 del presente decreto;
+
+                                
+                            
+                            
+                                i)
+                                
+                                    articolo 12.
+
 In sede di prima applicazione del presente decreto il consiglio di amministrazione e' integrato con un componente nominato dal Ministro dell'universita' e della ricerca scientifica e tecnologica, nonche' da un rappresentante per ciascuno dei soci di diritto di cui all'articolo 1, comma 1, del decreto del Presidente della Repubblica 6 marzo 1978, n. 102. Entro novanta giorni dalla predetta nomina il consiglio di amministrazione trasmette al MURST le modifiche e integrazioni allo statuto e ai regolamenti per l'adeguamento al presente decreto. Alla data di pubblicazione dello statuto cosi' modificato e integrato sono abrogati gli articoli 12, commi primo, secondo e terzo, 13, 16, 17 e 18 del decreto del Presidente della Repubblica 6 marzo 1978, n. 102, e i commi 4, 5, 6 e 7 dell'articolo 7 della legge 29 gennaio 1986, n. 26.
 
 In considerazione della rilevanza del polo scientifico e tecnologico del Friuli-Venezia Giulia e delle sue relazioni con l'estero, il consorzio ogni anno convoca, per conto del Ministero dell'universita' e della ricerca scientifica e tecnologica, una conferenza degli enti di ricerca nazionali ed internazionali che ricevono contributi dallo Stato, aventi sede nella regione Friuli-Venezia Giulia, al fine di valutare i programmi ed i risultati ottenuti anche sotto il profilo delle collaborazioni e delle interazioni avviate fra gli stessi. Alla conferenza prendono parte i rappresentanti della regione, delle province e dei capoluogni di provincia del Friuli-Venezia Giulia e possono partecipare i rappresentanti delle due Universita' di Trieste e di Udine, delle imprese e delle organizzazioni sindacali.
@@ -160,6 +464,113 @@ In considerazione della rilevanza del polo scientifico e tecnologico del Friuli-
 ## - Titolo IV Norme generali per gli enti di ricerca
 
 ## Art. 10. — Estensione di disposizioni in vigore per enti di ricerca
+
+1.
+                        
+                            
+                                Agli enti di ricerca di cui all'allegato n. 1, di competenza del MURST, sono estese le seguenti disposizioni di cui al decreto legislativo 30 gennaio 1999, n. 19:
+ 
+                            
+                            
+                                a)
+                                
+                                    articolo 2, comma 1, lettere c), e), g) e h) in materia di funzioni;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    articolo 3, in materia di strumenti;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    articolo 5, in materia di comitato di valutazione;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    articolo 6, in materia di piano triennale, di organici e di assunzioni di personale;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    articolo 7, comma 1, lettera a) numero 5 e lettera b), in materia di principi applicativi ai regolamenti di organizzazione e funzionamento, di amministrazione, finanza e contabilita';
+
+                                
+                            
+                            
+                                f)
+                                
+                                    articolo 9, commi 1 e 2, in materia di controlli e di competenze ministeriali;
+
+                                
+                            
+                            
+                                g)
+                                
+                                    articolo 10, comma 1, in materia di risorse finanziarie;
+
+                                
+                            
+                            
+                                h)
+                                
+                                    articolo 11, in materia di procedure di assunzione del personale, fatte salve, per gli enti interessati, le disposizioni di cui all'articolo 1 della legge 29 aprile 1988, n. 143, e di cui all'articolo 5, comma 2, della legge 7 agosto 1997, n. 266. Per l'indicazione di aree scientifiche e settori tecnologici ai fini delle assunzioni, si applica l'articolo 12 del presente decreto;
+
+                                
+                            
+                            
+                                i)
+                                
+                                    articolo 12, in materia di mobilita' temporanea del personale.
+
+2.
+                        
+                            
+                                L'Istituto nazionale per studi ed esperienze di architettura navale (INSEAN) e l'Istituto per la ricerca scientifica e tecnologica applicata al mare (ICRAM), fermi restando i poteri di indirizzo e di direttiva del rispettivo Ministro vigilante e previa determinazione, con decreto del Ministro vigilante, degli atti dell'ente da sottoporre ad approvazione o a comunicazione, possono dotarsi di ordinamenti autonomi, mediante appositi regolamenti di organizzazione e funzionamento, nonche' di amministrazione, contabilita' e finanza anche sulla base dei principi di cui all'articolo 7, comma 1, lettera a), numero 5), e b), del decreto legislativo 30 gennaio 1999, n. 19.
+In ordine ai medesimi regolamenti il Ministro vigilante esercita i controlli di cui all'articolo 8, comma 4, della legge 9 maggio 1989, n. 168. Agli enti di cui al presente comma si applicano le disposizioni di cui all'articolo 6 del decreto legislativo 30 gennaio 1999, n. 19, con approvazione del piano da parte del Ministro vigilante; ai predetti enti, nonche' agli enti di ricerca vigilati dal Ministero per le politiche agricole, si applicano altresi' le seguenti disposizioni di cui al predetto decreto n. 19:
+ 
+                            
+                            
+                                a)
+                                
+                                    articolo 2, comma 1, lettere c), e), g) ed h), in materia di funzioni;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    articolo 3 in materia di strumenti, attribuendo al Ministro vigilante le competenze ivi assegnate al Ministro dell'universita' e della ricerca scientifica e tecnologica;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    articolo 5, in materia di comitato di valutazione, relativamente all'attivita' di ricerca dell'ente;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    articolo 11, in materia di reclutamento del personale, determinando autonomamente le aree scientifiche e i settori tecnologici di inquadramento;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    articolo 12.
 
 Le disposizioni di cui all'articolo 12 del decreto legislativo 30 gennaio 1999, n. 19, sono estese anche all'Istituto di studi e di analisi economiche (ISAE).
 
@@ -188,6 +599,45 @@ All'articolo 5 del decreto legislativo 5 giugno 1998, n. 204, il secondo periodo
 Gli enti di cui agli articoli 9, 10, comma 1, e all'allegato 1 del presente decreto, nonche' l'INGV e il CNR, in sede di applicazione dell'articolo 11 del decreto legislativo 30 gennaio 1999, n. 19, ove operanti in piu' aree scientifiche e settori tecnologici, indicano le predette aree e settori per le assunzioni dei ricercatori e dei tecnologi, sulla base di criteri generali determinati con decreto del Ministro dell'universita' e della ricerca scientifica e tecnologica, con la finalita' di assicurare la compatibilita' con le competenze scientifiche in essere, procedure di revisione periodica e di variazione delle afferenze, nonche' di agevolare i passaggi diretti tra enti di ricerca ai sensi dell'articolo 33 del decreto legislativo 3 febbraio 1993, n. 29, e successive modificazioni ed integrazioni, e la mobilita' con le universita'. Nelle more dell'emanazione del decreto, al fine di poter effettuare le assunzioni, gli enti possono determinare aree e settori provvisori, che saranno adeguati successivamente all'emanazione del medesimo decreto, assicurando le finalita' di cui al presente comma.
 
 ## Art. 13. — Principi per l'attivita' di ricerca
+
+1.
+                        
+                            
+                                L'attivita' degli enti di cui all'articolo 12, comma 1, si ispira ai seguenti principi:
+ 
+                            
+                            
+                                a)
+                                
+                                    ai ricercatori e tecnologi, secondo quanto previsto alle lettere b) e c), sono garantite la liberta' di ricerca e l'autonomia professionale;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    relativamente alle ricerche programmate dall'ente di appartenenza, i ricercatori e i tecnologi, secondo le direttive dell'ente, sono tenuti a svolgere le attivita' necessarie al conseguimento degli obiettivi previsti dai programmi dell'ente, secondo le rispettive competenze;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    fatto salvo l'assolvimento dei compiti di ricerca programmata definiti dagli enti, il personale di ricerca ha facolta' di svolgere ricerca libera, in coerenza con quanto espresso dai programmi e senza oneri aggiuntivi per l'ente. Gli enti favoriscono inoltre la partecipazione dei ricercatori e dei tecnologi ad attivita' finalizzate allo sviluppo delle competenze scientifiche e all'arricchimento culturale, di aggiornamento, di studio e collaborazione scientifica, senza necessariamente sopportarne il costo;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    gli enti favoriscono, per le attivita' di ricerca, compatibilmente con i propri programmi di attivita', l'accesso ai programmi e alle fonti di finanziamento sia nazionali che internazionali;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    i ricercatori hanno diritto a sottoporre a valutazione la propria attivita' scientifica.
 
 ## Art. 14. — Norme finali
 

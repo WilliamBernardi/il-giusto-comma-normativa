@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Leggi delega e relativi provvedimenti delegati
 vigenza_date: 2026-04-25
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:41:20Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -31,6 +31,31 @@ Sulla proposta del Ministro delle finanze, di concerto con i Ministri per la fun
 
 ## Art. 1. — Istituzione ruoli
 
+1.
+                        
+                            
+                                Nell'ambito del Corpo della guardia di finanza sono istituiti i seguenti ruoli: 
+ 
+                            
+                            
+                                a)
+                                
+                                    ruolo "ispettori"; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    ruolo "sovrintendenti"; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    ruolo "appuntati e finanzieri".
+
 L'ordinamento gerarchico dei ruoli e la corrispondenza dei gradi o qualifiche di ciascun ruolo, fra gli appartenenti al personale del Corpo della guardia di finanza e il personale appartenente alle Forze di polizia a ordinamento militare e civile, sono stabiliti dalla tabella A allegata al presente decreto. 
  
 --------------- 
@@ -41,6 +66,35 @@ Nota redazionale
 ## - TITOLO II RUOLO APPUNTATI E FINANZIERI Capo I ORDINAMENTO DEL PERSONALE DEL RUOLO APPUNTATI E FINANZIERI
 
 ## Art. 2. — Ruolo "appuntati e finanzieri"
+
+1.
+                        
+                            
+                                Il ruolo "appuntati e finanzieri" e' articolato nei seguenti quattro gradi gerarchici: 
+
+                            
+                            
+                                a)
+                                
+                                    appuntato scelto; 
+                                
+                            
+                            
+                                b)
+                                
+                                    appuntato; 
+                                
+                            
+                            
+                                c)
+                                
+                                    finanziere scelto; 
+                                
+                            
+                            
+                                d)
+                                
+                                    finanziere.
 
 ## Art. 3. — Consistenza organica del ruolo 
  "appuntati e finanzieri"
@@ -79,6 +133,32 @@ Il personale di cui al comma 1 svolge mansioni esecutive, con i margini di inizi
 Gli appuntati scelti che maturano ((cinque)) anni di anzianita' nel grado conseguono la qualifica di «qualifica speciale».
 La qualifica e' attribuita, a decorrere dal giorno successivo a quello di maturazione del requisito di anzianita' di grado, con determinazione del Comandante generale della guardia di finanza. Si applicano gli articoli 10, 11, 12 e 13 in quanto compatibili, nonche' l'articolo 15 delle norme di attuazione, di coordinamento e transitorie del codice di procedura penale, approvate con decreto legislativo 28 luglio 1989, n. 271. (13) ((16))
 
+2-ter.
+                        
+                            
+                                Le disposizioni di cui al comma 2-bis si applicano, previa verifica del possesso dei requisiti da parte della Commissione di cui all'articolo 55-bis, agli appuntati scelti che: 
+ 
+                            
+                            
+                                a)
+                                
+                                    abbiano riportato in sede di valutazione caratteristica, nell'ultimo triennio, la qualifica non inferiore a «superiore alla media» o giudizio equivalente; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    non abbiano riportato nell'ultimo biennio sanzioni penali per delitto non colposo o disciplinari piu' gravi della «consegna»; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    LETTERA ABROGATA DAL D.LGS. 5 OTTOBRE 2018, N. 126. 
+ 2-ter.1. Al personale non in possesso dei requisiti di cui al comma 2-ter, la qualifica e' attribuita con decorrenza dal giorno successivo a quello di maturazione dei medesimi requisiti di cui al comma 2-ter, ferme restando le condizioni per l'iscrizione a ruolo e il possesso dell'anzianita' di grado di cui al comma 2-bis.
+
 L'appuntato scelto «qualifica speciale» ha rango preminente sul parigrado non in possesso della medesima qualifica. In presenza di piu' appuntati scelti «qualifica speciale» prevale quello con maggiore anzianita' nella medesima qualifica.
 
 In relazione al qualificato profilo professionale raggiunto, l'appuntato scelto «qualifica speciale» e' principalmente impiegato in incarichi di maggiore responsabilita' nell'ambito del ruolo di appartenenza. Il medesimo puo' essere impiegato altresi' in compiti di coordinamento del personale dipendente, anche in servizi non operativi, al fine di assicurare la funzionalita' dei reparti e lo svolgimento delle attivita' istituzionali.
@@ -108,6 +188,102 @@ Al fine di garantire la piena funzionalita' del Corpo della guardia di finanza, 
 
 ## Art. 6. — Requisiti per l'ammissione al corso
 
+1.
+                        
+                            
+                                L'ammissione al corso per la promozione a finanziere ha luogo mediante un concorso al quale possono essere ammessi i giovani in possesso dei seguenti requisiti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    cittadinanza italiana e godimento dei diritti civili e politici; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    eta', alla data indicata nel bando di concorso, non inferiore ad anni 18 e non superiore ad anni 24. PERIODO SOPPRESSO DAL D.LGS. 29 MAGGIO 2017, N. 95; (13) 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    LETTERA SOPPRESSA DAL D.LGS. 29 MAGGIO 2017, N. 95; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    idoneita' fisico-attitudinale al servizio incondizionato nella Guardia di finanza; 
+
+                                
+                            
+                            
+                                d-bis)
+                                
+                                    assenza di tatuaggi o di altre permanenti alterazioni volontarie dell'aspetto fisico, non conseguenti a interventi di natura comunque sanitaria, lesivi del decoro dell'uniforme o della dignita' della condizione dell'appartenente al Corpo della guardia di finanza di cui all'articolo 721 del decreto del Presidente della Repubblica 15 marzo 2010, n. 90, secondo quanto stabilito dal bando di concorso; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    rientrare nei parametri fisici correlati alla composizione corporea, alla forza muscolare e alla massa metabolicamente attiva, secondo le tabelle stabilite dal decreto del Presidente della Repubblica 17 dicembre 2015, n. 207; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    possesso del diploma di istruzione secondaria di secondo grado che consente l'iscrizione ai corsi per il conseguimento della laurea; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    non essere, alla data dell'effettivo incorporamento, imputato o condannato ovvero non aver ottenuto l'applicazione della pena ai sensi dell'articolo 444 del codice di procedura penale per delitto non colposo, ne' essere o essere stato sottoposto a misure di prevenzione; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    non trovarsi, alla data dell'effettivo incorporamento, in situazioni comunque incompatibili con l'acquisizione o la conservazione dello stato giuridico di finanziere; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    essere in possesso dei requisiti di cui all'articolo 26 della legge 1° febbraio 1989, n. 53. A tal fine, il Corpo della guardia di finanza accerta, d'ufficio, l'irreprensibilita' del comportamento del candidato in rapporto alle funzioni proprie del grado da rivestire.
+Sono causa di esclusione dall'arruolamento anche l'esito positivo agli accertamenti diagnostici, ((...)) l'uso o la detenzione di sostanze stupefacenti o psicotrope a scopo non terapeutico, anche se saltuari, occasionali o risalenti; (23) 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    non essere stato destituito, dispensato o dichiarato decaduto dall'impiego presso una Pubblica amministrazione, licenziato dal lavoro alle dipendenze delle pubbliche amministrazioni a seguito di procedimento disciplinare, ovvero prosciolto, d'autorita' o d'ufficio, da precedente arruolamento nelle Forze armate o di polizia, a eccezione dei proscioglimenti per inattitudine alla vita di bordo o al volo, qualora compatibili con il contingente per il quale si concorre; 
+
+                                
+                            
+                            
+                                m)
+                                
+                                    aver ottenuto, per gli aspiranti gia' sottoposti all'apposita visita, l'idoneita' fisica alla leva. 
+
+                                
+                            
+                            
+                                m-bis)
+                                
+                                    non essere stato dimesso, per motivi disciplinari o per inattitudine alla vita militare, da accademie, scuole o istituti di formazione delle Forze armate o di polizia. (13)
+
 Per il reclutamento degli allievi finanzieri da destinare ai gruppi sportivi in qualita' di atleti, non sono richiesti i requisiti indicati alle lettere e) e f) del comma 1. Gli aspiranti devono essere in possesso del diploma di istruzione secondaria di primo grado.
 
 Possono inoltre essere ammessi al corso per la promozione a finanziere, nell'ambito delle vacanze disponibili, il coniuge ed i figli superstiti, nonche' i fratelli o le sorelle del personale delle Forze di' polizia, deceduto o reso permanentemente invalido al servizio, con invalidita' non inferiore all'ottanta per cento della capacita' lavorativa, in conseguenza delle azioni criminose di cui all'articolo 82, comma 1, della legge 23 dicembre 2000, n. 388 ed alle leggi ivi richiamate ovvero per effetto di ferite o lesioni riportate nell'espletamento di servizi di polizia o di soccorso pubblico, i quali ne facciano richiesta, purche' siano in possesso dei requisiti di cui al comma 1.
@@ -130,7 +306,101 @@ Le disposizioni di cui al comma 2 si applicano, altresi', al coniuge ed ai figli
 
 ## Art. 7. — (Modalita' dei concorsi)
 
+1.
+                        
+                            
+                                Nei bandi di concorso per l'arruolamento degli allievi finanzieri, indetti con determinazione del Comandante generale della guardia di finanza, sono stabiliti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il numero e le tipologie dei posti da mettere a concorso; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le modalita' e la data di scadenza per la presentazione della domanda di ammissione al concorso; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    le date entro le quali gli aspiranti devono possedere e conservare i titoli e i requisiti richiesti per l'ammissione al concorso; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    le modalita' e la data di scadenza per la presentazione della documentazione comprovante il possesso dei requisiti; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    la composizione della commissione giudicatrice, ripartita in sottocommissioni, presieduta e formata da personale in servizio nel Corpo della guardia di finanza, con l'intervento, ove necessario, di uno o piu' esperti o docenti nelle materie o prove oggetto di valutazione, in servizio presso istituti pubblici o in quiescenza da non piu' di tre anni alla data di nomina della commissione; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    le modalita' di accertamento dei requisiti e di esclusione dei concorrenti per difetto dei medesimi; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    le tipologie e le modalita' di svolgimento e di valutazione delle prove e delle fasi concorsuali, nonche' l'ordine di successione delle stesse; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    i titoli che devono essere valutati ai fini della redazione delle graduatorie finali di merito.
+
 Al fine di accrescere l'efficienza del Servizio di soccorso alpino e della componente specialistica Anti Terrorismo e Pronto Impiego (A.T.P.I.) del Corpo della guardia di finanza, in deroga agli articoli 703 e 2199 del decreto legislativo 15 marzo 2010, n. 66, le riserve di cui ai medesimi articoli 703 e 2199 non operano per i posti messi a concorso per le predette specialita' nel limite massimo di 180 unita' annuali, ferma restando la dotazione organica di cui all'articolo
+
+3.
+                        
+                            
+                                
+                                    ((22)) 
+ 3. Con determinazioni del Comandante generale della guardia di finanza: 
+ 
+                            
+                            
+                                a)
+                                
+                                    e' nominata la commissione giudicatrice dei concorsi; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    sono approvate le graduatorie, distinte per le tipologie di posti a concorso, e sono dichiarati vincitori del concorso i candidati che nell'ordine delle singole graduatorie risultino compresi nel numero dei posti messi a concorso; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    possono essere dichiarati vincitori del concorso altri concorrenti idonei nell'ordine delle graduatorie, per ricoprire i posti resisi comunque disponibili, nei trenta giorni dall'inizio dei corsi di formazione, tra i concorrenti precedentemente dichiarati vincitori; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    sono stabilite la durata, le modalita' di svolgimento, la sede e il rinvio dai corsi.
 
 Decorso il termine di cui al comma 3, lettera c), le graduatorie redatte al termine del concorso cessano di avere validita'.
 
@@ -165,6 +435,24 @@ Gli allievi finanzieri frequentatori di corso presso le scuole di formazione, di
 
 L'inettitudine per una delle cause di cui al comma 1 deve risultare da verbale redatto da una commissione nominata dal Comandante generale della guardia di finanza.
 
+3.
+                        
+                            
+                                Gli allievi finanzieri possono altresi' essere prosciolti dal Corpo della guardia di finanza, con determinazione del Comandante generale: 
+ 
+                            
+                            
+                                a)
+                                
+                                    a domanda dell'interessato; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    per infermita', quando siano riconosciuti non piu' idonei al servizio militare incondizionato da parte della competente autorita' sanitaria militare.
+
 La posizione degli allievi prosciolti ai sensi dei commi 1, 2 e 3, nei riguardi degli obblighi di leva e del servizio militare, e' comunicata al competente reparto dell'Esercito italiano o della Marina militare, in relazione al contingente di provenienza.
 
 ))
@@ -188,11 +476,61 @@ Per il passaggio in servizio permanente per il personale appartenente al ruolo "
 
 ((
 
+1.
+                        
+                            
+                                Gli appartenenti al ruolo appuntati e finanzieri si distinguono in: 
+ 
+                            
+                            
+                                a)
+                                
+                                    appuntati scelti, appuntati, finanzieri scelti e finanzieri in servizio permanente; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    finanzieri in ferma volontaria; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    appuntati scelti, appuntati, finanzieri scelti e finanzieri in congedo illimitato, nell'ausiliaria, nella riserva e in congedo assoluto.
+
 I posti in organico sono occupati solo dai militari di cui alle lettere a) e b) del comma 1.
 
 ))
 
 ## Art. 9-ter. — (Posizione di stato degli appartenenti al ruolo appuntati e finanzieri in servizio permanente)
+
+1.
+                        
+                            
+                                Gli appartenenti al ruolo appuntati e finanzieri in servizio permanente sono vincolati da rapporto d'impiego di carattere stabile e possono trovarsi in una delle seguenti posizioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    servizio permanente effettivo; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    sospesi ((dall'impiego)); 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    in aspettativa.
 
 ## Art. 9-quater. — (( (Idoneita' fisica al servizio effettivo degli appartenenti al ruolo appuntati e finanzieri).))
 
@@ -236,6 +574,80 @@ Ai militari in aspettativa per motivi privati non compete lo stipendio o altro a
 
 ((
 
+1.
+                        
+                            
+                                Gli appartenenti al ruolo appuntati e finanzieri in servizio permanente cessano dal rapporto di impiego per una delle seguenti cause: 
+ 
+                            
+                            
+                                a)
+                                
+                                    per eta'; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    per infermita'; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    per scarso rendimento, nonche' gravi reiterate mancanze disciplinari che siano state oggetto di consegna di rigore; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    a domanda; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    a seguito di nomina all'impiego civile; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    a seguito di transito all'impiego civile; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    per infermita', a seguito di rinuncia al transito a domanda nell'impiego civile; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    per perdita del grado; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    per decadenza, ai sensi dell'articolo 898 del decreto legislativo 15 marzo 2010, n. 66; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    a seguito della perdita dello stato di militare, ai sensi dell'articolo 622 del decreto legislativo 15 marzo 2010, n. 66.
+
 Il provvedimento di cessazione dal servizio permanente e' adottato con determinazione del Comandante generale della guardia di finanza.
 
 Il militare cessa dal servizio nel momento in cui nei suoi riguardi si verifica una delle predette cause, anche se si trova sottoposto a procedimento penale o disciplinare. Se detto procedimento si conclude successivamente con un provvedimento di perdita del grado, la cessazione dal servizio si considera avvenuta per tale causa.
@@ -254,9 +666,59 @@ Gli appartenenti al ruolo appuntati e finanzieri cessano dal servizio permanente
 
 ((
 
+1.
+                        
+                            
+                                Il personale del ruolo appuntati e finanzieri in congedo appartiene a una delle seguenti categorie: 
+ 
+                            
+                            
+                                a)
+                                
+                                    ausiliaria; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    riserva; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    congedo illimitato; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    congedo assoluto.
+
 L'ausiliaria riguarda il personale cessato dal servizio permanente e collocato in detta categoria del congedo secondo quanto stabilito dall'articolo 886 del decreto legislativo 15 marzo 2010, n. 66.
 
 La riserva e' composta dai militari che cessano dal servizio permanente o che vi transitano dalla categoria dell'ausiliaria. I militari della riserva hanno obblighi di servizio soltanto in tempo di guerra o di grave crisi internazionale. Cessano di appartenere alla riserva e sono collocati in congedo assoluto al compimento del sessantacinquesimo anno di eta'.
+
+4.
+                        
+                            
+                                Il congedo illimitato riguarda i militari in ferma volontaria e i militari cessati dal servizio permanente, a domanda, con meno di venti anni di servizio effettivo. In tale categoria sono soggetti ai seguenti obblighi di servizio: 
+ 
+                            
+                            
+                                a)
+                                
+                                    in tempo di pace, rispondere ai richiami in servizio per eccezionali esigenze, nonche' alle chiamate di controllo; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    in tempo di guerra, rimanere costantemente a disposizione del Governo per essere, all'occorrenza, richiamati in servizio.
 
 I militari in congedo assoluto non sono piu' vincolati a obblighi di servizio attivo in tempo di pace, in tempo di guerra o di grave crisi internazionale, conservano il grado e l'onore dell'uniforme e sono soggetti alle disposizioni di legge riflettenti il grado e la disciplina.
 
@@ -265,6 +727,31 @@ I militari in congedo assoluto non sono piu' vincolati a obblighi di servizio at
 ## Art. 9-novies. — (( (Infermita').))
 
 ((
+
+1.
+                        
+                            
+                                Gli appartenenti al ruolo appuntati e finanzieri, che devono assicurare in costanza di servizio i requisiti di idoneita' specifici previsti dal Libro IV, Titolo II, Capo II, del decreto del Presidente della Repubblica 15 marzo 2010, n. 90 e accertati secondo le apposite metodologie ivi previste, cessano dal servizio permanente e sono collocati in congedo, a seconda dell'idoneita', nella riserva o in congedo assoluto, quando: 
+ 
+                            
+                            
+                                a)
+                                
+                                    sono divenuti permanentemente inidonei al servizio militare incondizionato; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    non hanno riacquistato l'idoneita' allo scadere del periodo massimo di aspettativa per infermita' temporanea; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    sono giudicati non idonei al servizio militare incondizionato dopo che, nel quinquennio, hanno fruito del periodo massimo di aspettativa e sono state concesse loro le licenze spettanti.
 
 Il provvedimento adottato in applicazione del comma 1 decorre, a seconda dei casi, dalla data di scadenza del periodo massimo di aspettativa o dalla data dell'accertamento sanitario definitivo o dalla data di rinuncia al transito nell'impiego civile, di cui all'articolo 9-sexies, comma 1, lettera g).
 
@@ -339,6 +826,24 @@ L'avanzamento del personale appartenente al ruolo "appuntati e finanzieri" ((in 
 
 Le promozioni sono conferite con decorrenza dal giorno successivo a quello di compimento del periodo minimo ((...)) di permanenza nel grado, data in cui ha inizio la procedura di valutazione, previo giudizio sull'idoneita' o non idoneita' all'avanzamento espresso dalla commissione di cui ((agli articoli 55-bis e 55-ter)).
 
+3.
+                        
+                            
+                                Il giudizio sulla idoneita' o non idoneita' all'avanzamento e' formulato con riferimento al possesso dei seguenti requisiti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    avere bene assolto le funzioni inerenti al grado rivestito; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    fisici, intellettuali, culturali, morali, caratteriali e professionali necessari per adempiere degnamente le funzioni del grado superiore.
+
 Nel caso in cui la commissione di cui al comma 2 esprima giudizio di non idoneita' all'avanzamento per il militare interessato, tale giudizio dovra' essere motivato con riferimento alle disposizioni richiamate al comma 3.
 
 La commissione esprime i giudizi di avanzamento sulla base degli elementi risultanti dalla documentazione personale di ciascun militare.
@@ -394,6 +899,38 @@ La promozione di cui ai precedenti commi e' conferita, previo giudizio espresso 
 
 Gli appuntati e finanzieri sono iscritti a ruolo nel contingente e nel grado di appartenenza in ordine di anzianita' giuridica.
 
+2.
+                        
+                            
+                                A parita' di condizioni di cui al comma 1, l'iscrizione avviene in ordine: 
+ 
+                            
+                            
+                                a)
+                                
+                                    di anzianita' giuridica nei gradi, gerarchicamente ordinati, rivestiti dal militare; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    di data di arruolamento; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    di data di nascita; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    alfabetico.
+
 Il personale che e' trasferito di contingente conserva l'anzianita' posseduta prima del trasferimento ed e' iscritto nel contingente di destinazione secondo i criteri di cui ai commi 1 e 2.
 
 ))
@@ -445,6 +982,39 @@ Tenuto conto della forza organica del ruolo "appuntati e finanzieri" di cui all'
 
 ## Art. 18. — Funzioni del personale appartenente al ruolo "sovrintendenti"
 
+1.
+                        
+                            
+                                Agli appartenenti al ruolo "sovrintendenti" sono attribuite le qualifiche di ufficiale di polizia giudiziaria, di ufficiale di polizia tributaria e di agente di pubblica sicurezza. 
+ 2. ll personale di cui al comma 1 svolge mansioni esecutive, ((anche qualificate e complesse,)) richiedenti una adeguata preparazione professionale e con i margini di iniziativa e discrezionalita' inerenti alle qualifiche di ufficiale di polizia giudiziaria e tributaria, nonche' di agente di pubblica sicurezza. Al medesimo personale possono essere affidati il comando di uno o piu' militari, cui impartisce ordini dei quali controlla l'esecuzione e di cui risponde, nonche' compiti di carattere operativo e di insegnamento, formazione e istruzione del personale del Corpo in relazione alla professionalita' posseduta. Lo stesso collabora, altresi', con i propri superiori gerarchici, con possibilita' di sostituire il proprio superiore diretto in caso di temporanea assenza o impedimento. 
+ 3. Ai brigadieri capo, oltre alle funzioni di cui ai precedenti commi, possono essere attribuite mansioni che implicano, nell'ambito del ruolo di appartenenza, maggiori livelli di responsabilita' e di apporto professionale, incarichi operativi di piu' elevato impegno nonche' il comando di piccole unita' operative, in sostituzione del proprio superiore diretto del ruolo ispettori in caso di assenza o impedimento. 
+ 3-bis. I brigadieri capo che maturano ((sei)) anni di anzianita' nel grado conseguono la qualifica di «qualifica speciale» dal giorno successivo a quello di maturazione del requisito di anzianita' di grado e, in relazione al qualificato profilo professionale raggiunto, sono principalmente impiegati in incarichi di maggiore responsabilita' nell'ambito del ruolo di appartenenza. I medesimi possono essere impiegati altresi' in compiti di coordinamento del personale dipendente, anche in servizi non operativi, al fine di assicurare la funzionalita' dei reparti e lo svolgimento delle attivita' istituzionali. La qualifica e' attribuita con determinazione del Comandante generale della guardia di finanza. Si applicano gli articoli 55, 56 e 59, nonche' l'articolo 15 delle norme di attuazione, di coordinamento e transitorie del codice di procedura penale, approvate con decreto legislativo 28 luglio 1989, n. 271. 
+ 3-ter. Le disposizioni di cui al comma 3-bis si applicano, previa verifica del possesso dei requisiti da parte della Commissione di cui all'articolo 55-bis, ai brigadieri capo che: 
+ 
+                            
+                            
+                                a)
+                                
+                                    abbiano riportato in sede di valutazione caratteristica, nell'ultimo triennio, la qualifica non inferiore a «superiore alla media» o giudizio equivalente; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    non abbiano riportato nell'ultimo biennio sanzioni penali per delitto non colposo o disciplinari piu' gravi della «consegna»; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    LETTERA ABROGATA DAL D.LGS. 5 OTTOBRE 2018, N. 126. 
+ 3-ter.1. Al personale non in possesso dei requisiti di cui al comma 3-ter, la qualifica e' attribuita con decorrenza dal giorno successivo a quello di maturazione dei medesimi requisiti di cui al comma 3-ter, ferme restando le condizioni per l'iscrizione a ruolo e il possesso dell'anzianita' di grado di cui al comma 3-bis. 
+ 3-quater. Il brigadiere capo «qualifica speciale» ha rango preminente sul parigrado non in possesso della medesima qualifica. In presenza di piu' brigadieri capo «qualifica speciale» prevale quello con maggiore anzianita' nella medesima qualifica. 
+ 
+ (13)
+
 ---------------
                             AGGIORNAMENTO (13)
                             
@@ -461,6 +1031,24 @@ Tenuto conto della forza organica del ruolo "appuntati e finanzieri" di cui all'
 ## - Capo II RUOLO SOVRINTENDENTI SEZIONE II RECLUTAMENTO E STATO
 
 ## Art. 19. — Accesso al ruolo "sovrintendenti"
+
+1.
+                        
+                            
+                                I vicebrigadieri in servizio permanente della Guardia di finanza sono tratti, annualmente, con le modalita' indicate nei successivi articoli, nei limiti delle seguenti percentuali dei posti complessivamente messi a concorso: 
+ 
+                            
+                            
+                                a)
+                                
+                                    per una percentuale non superiore al 70 per cento, attraverso un concorso interno, per titoli, riservato agli appuntati scelti, previo superamento del corso di formazione di cui all'articolo 27; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    per la rimanente percentuale, attraverso un concorso interno, per titoli ed esami, riservato agli appartenenti al ruolo "appuntati e finanzieri" in servizio permanente, previo superamento del corso di formazione di cui all'articolo 27.
 
 Nell'ambito dello stesso anno solare, il corso di formazione di cui al comma 1, lettera a), ha termine anteriormente a quello di cui alla lettera b) dello stesso comma.
 
@@ -482,11 +1070,150 @@ I posti eventualmente non coperti nell'ambito del concorso di cui al comma 1, le
 
 Requisiti per l'ammissione al ruolo "sovrintendenti"
 
+1.
+                        
+                            
+                                Ai concorsi di cui all'articolo 19, puo' essere ammesso il personale ((in servizio permanente)) che, oltre ai requisiti di grado rispettivamente indicati nel predetto articolo: 
+ 
+                            
+                            
+                                a)
+                                
+                                    abbia riportato, in sede di valutazione caratteristica nell'ultimo biennio di servizio, una qualifica di almeno "nella media" o giudizio equivalente; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    non abbia riportato sanzioni disciplinari nell'ultimo biennio piu' gravi della consegna; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    
+                                        ((non risulti imputato o condannato ovvero non abbia ottenuto l'applicazione della pena ai sensi dell'articolo 444 c.p.p. per delitto non colposo, ne' sia o sia stato sottoposto a misure di prevenzione;))
+                                    
+                                
+                            
+                            
+                                d)
+                                
+                                    non sia sottoposto ad un procedimento disciplinare di corpo da cui possa derivare l'irrogazione di una sanzione piu' grave della consegna, ad un procedimento disciplinare di stato o ad un procedimento disciplinare ai sensi dell'articolo 17 del decreto legislativo 28 luglio 1989, n. 271; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    non sia sospeso ((dall'impiego)) o in aspettativa; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    non sia stato dichiarato non idoneo all'avanzamento al grado superiore, ovvero se dichiarato non idoneo al grado superiore, abbia successivamente conseguito un giudizio di idoneita' e siano trascorsi almeno due anni dalla dichiarazione di non idoneita'; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    non sia comunque gia' stato rinviato d'autorita' dal corso per la nomina a vicebrigadiere.
+
 Gli aspiranti che presenteranno domanda di partecipazione per un contingente diverso da quello di appartenenza non verranno ammessi ai concorsi di cui al comma 1.
 
 Gli appuntati scelti possono partecipare, per ciascun anno, soltanto ad uno dei concorsi di cui al precedente articolo l9.
 
 ## Art. 21. — (Modalita' dei concorsi)
+
+1.
+                        
+                            
+                                Nei bandi di concorso, indetti con determinazione del Comandante generale della guardia di finanza, sono stabiliti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il numero e le tipologie dei posti da mettere a concorso; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le modalita' e la data di scadenza per la presentazione della domanda di ammissione al concorso; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    le date entro le quali gli aspiranti devono possedere e conservare i titoli e i requisiti richiesti per l'ammissione al concorso; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    le modalita' e la data di scadenza per la presentazione della documentazione comprovante il possesso dei requisiti; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    la composizione della commissione giudicatrice, ripartita in sottocommissioni, presieduta e formata da personale in servizio nel Corpo della guardia di finanza, con l'intervento, ove necessario, di uno o piu' esperti o docenti nelle materie o prove oggetto di valutazione, in servizio presso istituti pubblici o in quiescenza da non piu' di tre anni alla data di nomina della commissione; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    le modalita' di accertamento dei requisiti e di esclusione dei concorrenti per difetto dei medesimi; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    per i soli concorsi di cui all'articolo 19, comma 1, lettera b), le tipologie e le modalita' di svolgimento e di valutazione delle prove e delle fasi concorsuali, nonche' l'ordine di successione delle stesse; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    i titoli che devono essere valutati ai fini della redazione delle graduatorie finali di merito.
+
+2.
+                        
+                            
+                                Con determinazioni del Comandante generale della guardia di finanza: 
+ 
+                            
+                            
+                                a)
+                                
+                                    e' nominata la commissione giudicatrice dei concorsi; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    sono approvate le graduatorie, distinte per le tipologie di posti a concorso, e sono dichiarati vincitori del concorso i candidati che nell'ordine delle singole graduatorie risultino compresi nel numero dei posti messi a concorso. A parita' di punteggio prevalgono, nell'ordine, il grado, l'anzianita' di grado, l'anzianita' di servizio nel Corpo della guardia di finanza e la maggiore anzianita' anagrafica; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    possono essere dichiarati vincitori del concorso altri concorrenti idonei nell'ordine delle graduatorie per ricoprire i posti resisi comunque disponibili nel periodo corrispondente a un ((sesto)) della durata dei corsi di formazione di cui all'articolo 27, tra i concorrenti precedentemente dichiarati vincitori.
 
 La nomina a vincitore di concorso e' revocata nei confronti del candidato di uno dei concorsi di cui all'articolo 19, comma 1, lettere a) e b), che, dopo l'approvazione della graduatoria finale di merito, ha effettuato il transito di contingente ai sensi dell'articolo 68-bis. In deroga a quanto previsto dal presente comma e fermo restando il numero complessivo dei posti messi a concorso, il candidato transitato e' comunque ammesso a frequentare il corso di formazione previsto per il contingente di destinazione se il punteggio finale di merito conseguito, da rideterminare secondo le disposizioni del bando di concorso, e' utile ai fini della nomina a vincitore per il medesimo contingente. L'incremento dei posti a concorso per il contingente di destinazione e' pari al decremento dei posti per il contingente di provenienza.
 
@@ -524,11 +1251,61 @@ COMMA ABROGATO DAL D.LGS. 29 MAGGIO 2017, N. 95.
 
 Gli ammessi alla frequenza dei corsi di cui all'articolo 27 possono ottenere, a domanda, di essere rinviati dagli stessi per rinunzia.
 
+2.
+                        
+                            
+                                Sono rinviati dai corsi, d'autorita', i frequentatori che: 
+ 
+                            
+                            
+                                a)
+                                
+                                    dimostrino, in qualsiasi momento, di non possedere le qualita' necessarie per ben esercitare le funzioni del nuovo grado; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    vengano riprovati agli esami di seconda sessione, dopo aver gia' ripetuto per una volta i corsi; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    siano stati, per qualsiasi motivo, assenti dalle attivita' didattiche per periodi, anche non continuativi, superiori a un ((quarto)) delle rispettive durate; 
+
+                                
+                            
+                            
+                                c-bis)
+                                
+                                    siano stati, per qualsiasi motivo, assenti alle sessioni di esame.
+
 PERIODO SOPPRESSO DAL D.LGS. 5 OTTOBRE 2018, N. 126. I frequentatori rinviati per assenze dovute a infermita' o altre cause indipendenti dalla loro volonta' sono ammessi per un massimo di due volte a frequentare, alla cessazione della causa impeditiva, il relativo corso successivo senza essere considerati ripetenti.
 
 I provvedimenti di cui ai commi 1, 2 e 3 sono adottati con determinazione del comandante generale della Guardia di finanza.
 
 ## Art. 29. — (Nomina a vicebrigadiere)
+
+1.
+                        
+                            
+                                Al termine dei corsi di cui all'articolo 27, ai frequentatori: 
+ 
+                            
+                            
+                                a)
+                                
+                                    se dichiarati idonei in prima sessione, viene conferita con determinazione del comandante generale della Guardia di finanza ((...)), la nomina a vicebrigadiere nell'ordine determinato dalle graduatorie finali del corso, con decorrenza dal giorno successivo a quello di termine degli esami di idoneita'. Gli stessi, secondo il medesimo ordine, sono iscritti in ruolo; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    se dichiarati idonei in seconda sessione, viene conferita con determinazione del comandante generale della Guardia di finanza ((...)), la nomina a vicebrigadiere con decorrenza giuridica dal giorno successivo a quello di termine degli esami di idoneita' di seconda sessione al corso, nell'ordine determinato dalle graduatorie finali. Gli stessi sono iscritti in ruolo secondo il medesimo ordine e, comunque, dopo quelli dichiarati idonei ai sensi della lettera a).
 
 Il frequentatore che non supera i corsi di cui all'articolo 27 permane nel grado rivestito, senza detrazioni di anzianita', ed e' restituito al normale servizio d'istituto.
 
@@ -553,6 +1330,45 @@ Le disposizioni di cui al presente capo si applicano ai concorsi da indire succe
 ## Art. 32. — Ruolo "ispettori"
 
 ((
+
+1.
+                        
+                            
+                                Il ruolo ispettori, con carriera a sviluppo direttivo, e' articolato nei seguenti cinque gradi gerarchici: 
+ 
+                            
+                            
+                                a)
+                                
+                                    luogotenente; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    maresciallo aiutante; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    maresciallo capo; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    maresciallo ordinario; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    maresciallo.
 
 ))
 
@@ -592,11 +1408,83 @@ Tenuto conto di quanto stabilito dall'art. 17 del presente decreto, relativament
 
 Agli appartenenti al ruolo "ispettori" sono attribuite le qualifiche di ufficiale di polizia tributaria, di ufficiale di polizia giudiziaria e di agente di pubblica sicurezza.
 
+2.
+                        
+                            
+                                Il personale di cui al comma 1: 
+ 
+                            
+                            
+                                a)
+                                
+                                    collabora con il superiore diretto, che puo' sostituire in caso di impedimento o di assenza; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    assolve, in via prioritaria, funzioni di polizia tributaria, con particolare riguardo all'attivita' di ricerca e di constatazione delle violazioni tributarie, finanziarie ed economiche; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    svolge funzioni di polizia giudiziaria, con particolare riguardo all'attivita' investigativa; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    di norma e' preposto al comando di unita' operative, di reparti territoriali o di addestramento e di mezzi tecnici; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    svolge, di norma, in relazione alla professionalita' posseduta, compiti di insegnamento, formazione e di istruzione del personale del Corpo; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    espleta attivita' di studio e pianificazione, nonche' mansioni la cui esecuzione richiede continuita' di impiego per elevata specializzazione e capacita' di utilizzazione di strumentazioni tecnologiche.
+
 Ai marescialli aiutanti, oltre alle funzioni di cui ai precedenti commi, sono di norma attribuite mansioni che implicano, nell'ambito del ruolo di appartenenza, maggiori livelli di responsabilita' e di apporto professionale, nonche' incarichi di comando ed operativi di piu' elevato impegno. Essi, in relazione alla formazione accademica e professionale acquisita, svolgono altresi' funzioni di indirizzo e di coordinamento del personale dipendente, anche del medesimo ruolo degli ispettori.
 
 I luogotenenti sono principalmente impiegati in incarichi di massima responsabilita' ed impegno operativo tra quelli di cui ai commi 2 e 3.
 
 I luogotenenti che maturano quattro anni di anzianita' nel grado conseguono la qualifica di «cariche speciali» con decorrenza dal giorno successivo a quello di maturazione del requisito di anzianita' di grado e sono principalmente impiegati in incarichi di piu' qualificato rango, da individuare con determinazione del Comandante generale, nell'ambito del grado di appartenenza e in sostituzione dell'ufficiale da cui dipendono direttamente. Si applicano gli articoli 55, 56 e 59, nonche' l'articolo 15 delle norme di attuazione, di coordinamento e transitorie del codice di procedura penale, approvate con decreto legislativo 28 luglio 1989, n. 271.((16))
+
+5-bis.
+                        
+                            
+                                Le disposizioni di cui al comma 5 si applicano, previa verifica del possesso dei requisiti da parte della Commissione di cui all'articolo 55-bis, ai luogotenenti che: 
+ 
+                            
+                            
+                                a)
+                                
+                                    abbiano riportato in sede di valutazione caratteristica, nell'ultimo triennio, la qualifica di «eccellente» o giudizio equivalente; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    non abbiano riportato nell'ultimo biennio sanzioni penali per delitto non colposo o disciplinari piu' gravi della «consegna»; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    LETTERA ABROGATA DAL D.LGS. 5 OTTOBRE 2018, N. 126. 
+ 5-bis.1. Al personale non in possesso dei requisiti di cui al comma 5-bis, la qualifica e' attribuita con decorrenza dal giorno successivo a quello di maturazione dei medesimi requisiti di cui al comma 5-bis, ferme restando le condizioni per l'iscrizione a ruolo e il possesso dell'anzianita' di grado di cui al comma 5.
 
 Il luogotenente «cariche speciali» ha rango preminente sul parigrado non in possesso della medesima qualifica. In presenza di piu' luogotenenti «cariche speciali» prevale quello con maggiore anzianita' nella medesima qualifica.
 
@@ -626,6 +1514,26 @@ La qualifica di «cariche speciali» e' conferita con determinazione del Comanda
 
 ## Art. 35. — (Accesso al ruolo ispettori)
 
+1.
+                        
+                            
+                                I marescialli della Guardia di finanza sono tratti, annualmente, con le modalita' indicate nei successivi articoli, nei limiti delle seguenti percentuali dei posti complessivamente messi a concorso: 
+ 
+                            
+                            
+                                a)
+                                
+                                    per il 70%, attraverso un concorso pubblico, per titoli ed esami, aperto a tutti i cittadini in possesso dei requisiti previsti all'articolo 36, comma 1; (13) (14) 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    per il 30%, attraverso un concorso interno: 
+ 1) per titoli, nel limite dei posti stabili nel bando di concorso di cui all'articolo 46, riservato ai brigadieri capo in servizio permanente in possesso dei requisiti di cui all'articolo 36, comma 5, lettera a); 
+ 2) per titoli ed esami, per il restante numero di posti stabiliti, eventualmente anche per singolo ruolo, nel bando di concorso di cui al medesimo articolo 46, riservato al personale dei ruoli sovrintendenti, appuntati e finanzieri in servizio permanente in possesso dei requisiti previsti nell'articolo 36, comma 5. (13) (14)
+
 I vincitori del concorso di cui al comma 1, lettere a) e b), sono immessi in ruolo previo superamento, rispettivamente, del corso di cui all'articolo 44 e di un corso di formazione di durata non inferiore a sei mesi.
 
 I posti eventualmente non coperti nell'ambito dei concorsi di cui al comma 1, lettera b), numero 1) sono devoluti in favore dei concorrenti risultati idonei ma non vincitori del concorso di cui al numero 2) della medesima lettera b). Il medesimo meccanismo opera in caso contrario. 
@@ -652,15 +1560,99 @@ I posti eventualmente non coperti nell'ambito dei concorsi di cui al comma 1, le
 
 ## Art. 36. — Requisiti per la partecipazione ai concorsi
 
+1.
+                        
+                            
+                                Al concorso di cui all'articolo 35, comma 1, lettera a), indetto con le modalita' di cui all'articolo 37, sono ammessi: 
+ 
+                            
+                            
+                                a)
+                                
+                                    gli appartenenti al ruolo sovrintendenti ed al ruolo appuntati e finanzieri, gli allievi finanzieri, i finanzieri ausiliari e gli allievi finanzieri ausiliari nonche' gli ufficiali di complemento o in ferma prefissata, che abbiano completato diciotto mesi di servizio, del Corpo della guardia di finanza che: 
+ 1) non abbiano superato il trentacinquesimo anno di eta'; 
+ 2) siano in possesso del diploma di istruzione secondaria di secondo grado che consenta l'iscrizione ai corsi per il conseguimento della laurea; 
+ 3) non abbiano demeritato durante il servizio prestato, secondo le disposizioni emanate con determinazione del Comandante generale, sulla base dei requisiti di cui all'articolo 10, comma 3; 
+ 4) se in servizio permanente, non siano stati dichiarati non idonei all'avanzamento al grado superiore ovvero, se dichiarati non idonei al grado superiore, abbiano successivamente conseguito un giudizio di idoneita' e siano trascorsi almeno due anni dalla dichiarazione di non idoneita'; 
+ 5) non risultino imputati o condannati ovvero non abbiano ottenuto l'applicazione della pena ai sensi dell'articolo 444 c.p.p. per delitto non colposo, ne' siano o siano stati sottoposti a misure di prevenzione; 
+ 6) non siano sottoposti ad un procedimento disciplinare di corpo da cui possa derivare l'irrogazione di una sanzione piu' grave della consegna, ad un procedimento disciplinare di stato o ad un procedimento disciplinare ai sensi dell'articolo 17 del decreto legislativo 28 luglio 1989, n. 271; 
+ 7) non siano sospesi dall'impiego o in aspettativa; 
+ 7-bis) siano riconosciuti in possesso dell'idoneita' attitudinale al servizio incondizionato quale maresciallo del Corpo della guardia di finanza; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    i giovani, anche se alle armi, che posseggono i seguenti requisiti: 
+ 1) cittadinanza italiana e godimento dei diritti civili e politici; 
+ 2) eta' non inferiore ad anni 17 e non superiore ad anni 26; 
+ 3) rientrare nei parametri fisici correlati alla composizione corporea, alla forza muscolare e alla massa metabolicamente attiva, secondo le tabelle stabilite dal decreto del Presidente della Repubblica 17 dicembre 2015, n. 207; 
+ 4) non essere, alla data dell'effettivo incorporamento, imputato o condannato ovvero non aver ottenuto l'applicazione della pena ai sensi dell'articolo 444 del codice di procedura penale per delitto non colposo, ne' essere o essere stato sottoposto a misure di prevenzione; 
+ 5) non trovarsi, alla data dell'effettivo incorporamento, in situazioni comunque incompatibili con l'acquisizione o la conservazione dello stato di ispettore del Corpo della guardia di finanza; 
+ 6) essere in possesso dei requisiti di cui all'articolo 26 della legge 1° febbraio 1989, n. 53. A tal fine, il Corpo della guardia di finanza accerta, d'ufficio, l'irreprensibilita' del comportamento del candidato in rapporto alle funzioni proprie del grado da rivestire. Sono causa di esclusione dall'arruolamento anche l'esito positivo agli accertamenti diagnostici, ((...)) l'uso o la detenzione di sostanze stupefacenti o psicotrope a scopo non terapeutico, anche se saltuari, occasionali o risalenti; 
+ 7) possesso del diploma di istruzione secondaria di secondo grado che consenta l'iscrizione ai corsi per il conseguimento della laurea; 
+ 8) essere riconosciuto in possesso dell'idoneita' psico-fisica e attitudinale al servizio incondizionato quale maresciallo in ferma volontaria del Corpo della guardia di finanza; (13) (14) 
+ 8-bis) assenza di tatuaggi o di altre permanenti alterazioni volontarie dell'aspetto fisico, non conseguenti a interventi di natura comunque sanitaria, lesivi del decoro dell'uniforme o della dignita' della condizione dell'appartenente al Corpo della guardia di finanza di cui all'articolo 721 del decreto del Presidente della Repubblica 15 marzo 2010, n. 90, secondo quanto stabilito dal bando di concorso; 
+ 9) non essere stato destituito, dispensato o dichiarato decaduto dall'impiego presso una Pubblica amministrazione, licenziato dal lavoro alle dipendenze delle pubbliche amministrazioni a seguito di procedimento disciplinare, ovvero prosciolto, d'autorita' o d'ufficio, da precedente arruolamento nelle Forze armate o di polizia, a eccezione dei proscioglimenti per inattitudine alla vita di bordo o al volo, qualora compatibili con il contingente per il quale si concorre; 
+ 10) non essere stato dimesso, per motivi disciplinari o per inattitudine alla vita militare, da accademie, scuole, istituti di formazione delle Forze armate e di polizia.
+
 Il personale in possesso dei requisiti stabiliti dal comma 1, lett. a), che abbia frequentato, con esito favorevole, il corso motoristi navali presso la scuola nautica della Guardia di finanza, se qualificato meritevole dalle autorita' di cui al comma 1, lettera a), numero 3), puo' essere ammesso, a domanda, nel limite massimo di un quinto dei posti disponibili per il contingente di mare, al corso di cui all'art. 35 con esonero dalle relative prove concorsuali. I posti disponibili sono assegnati ai militari giudicati meritevoli che abbiano conseguito la specializiazione di motorista navale con maggior punteggio di merito, maggiorato degli eventuali titoli ovvero, a parita' di punteggio, nell'ordine, a quelli di maggior grado, di maggiore anzianita' di servizio e di maggiore eta'.
 
 La partecipazione al concorso di cui al comma 2 non e' ammessa per piu' di due volte.
 
 Non si applicano gli aumenti dci limiti di eta' previsti per l'ammissione ai pubblici concorsi.
 
+5.
+                        
+                            
+                                Al concorso di cui all'art. 35, comma 1, lett. b), indetto con le modalita' di cui all'art. 46, possono essere ammessi: 
+ 
+                            
+                            
+                                a)
+                                
+                                    gli appartenenti al ruolo "sovrintendenti" che: 
+ 1) abbiano riportato, nell'ultimo triennio, la qualifica almeno di "superiore alla media" o giudizio equivalente; 
+ 2) non abbiano riportato, nell'ultimo biennio, sanzioni disciplinari piu' gravi della consegna ; 
+ 3) non siano gia' stati rinviati, d'autorita', dal corso previsto dall'art. 44 del presente decreto ovvero da corsi equipollenti per il conseguimento della nomina a maresciallo; 
+ 4) non risultino imputati o condannati ovvero non abbiano ottenuto l'applicazione della pena ai sensi dell'articolo 444 c.p.p. per delitto non colposo, ne' siano o siano stati sottoposti a misure di prevenzione; 
+ 5) non siano sottoposti ad un procedimento disciplinare di corpo da cui possa derivare l'irrogazione di una sanzione piu' grave della consegna, ad un procedimento disciplinare di stato o ad un procedimento disciplinare ai sensi dell'articolo 17 del decreto legislativo 28 luglio 1989, n. 271; 
+ 6) non siano sospesi dall'impiego o in aspettativa; 
+ 7) non siano stati dichiarati non idonei all'avanzamento al grado superiore, ovvero, se dichiarati non idonei al grado superiore, abbiano successivamente conseguito un giudizio di idoneita' e siano trascorsi almeno due anni dalla dichiarazione di non idoneita'; 
+ 8) siano in possesso di un diploma di istruzione secondaria che consenta l'iscrizione ai corsi universitari, qualora partecipano al concorso di cui all'articolo 35, comma 1, lettera b), n. 1), ovvero della laurea triennale in discipline economico-giuridiche qualora partecipano al concorso di cui al successivo comma 1, lettera b), n. 2), dello stesso articolo 35; 
+ 8-bis) siano riconosciuti in possesso dell'idoneita' attitudinale al servizio incondizionato quale maresciallo del Corpo della guardia di finanza; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    gli appartenenti al ruolo «appuntati e finanzieri» che, oltre a possedere i requisiti di cui alla precedente lettera a), hanno compiuto almeno cinque anni di servizio nel Corpo: 
+ 1) abbiano compiuto almeno 7 anni di servizio nel corpo; 
+ 2) siano in possesso del diploma di istruzione secondaria di secondo grado.
+
 Gli aspiranti che presentano domanda di partecipazione per un contingente diverso da quello di appartenenza non sono ammessi ai concorsi di cui all'articolo 35, comma 1, lettera b).
 
 I brigadieri capo possono partecipare, per ciascun anno, soltanto ad uno dei concorsi di cui all'articolo 35, comma 1, lettera b).
+
+5-quater.
+                        
+                            
+                                In aggiunta ai requisiti di cui al comma 1 e di cui all'articolo 3, commi 2 e 3, del decreto del Presidente della Repubblica 12 ottobre 2004, n. 287, per la partecipazione ai concorsi per la nomina a esecutore e archivista in servizio permanente della Banda musicale del Corpo della guardia di finanza, e' richiesto: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il possesso di un'eta' non inferiore ad anni 18 e non superiore ad anni 40. Per il personale in servizio nel Corpo della guardia di finanza, nelle Forze armate, nelle Forze di polizia e nel Corpo nazionale dei vigili del fuoco, il limite anagrafico massimo e' elevato a 45 anni; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    di non essere stati giudicati non idonei a prestare servizio nel medesimo complesso bandistico.
 
 Con determinazione del comandante generale della Guardia di finanza puo' essere disposta, in ogni momento, l'esclusione dei concorrenti di cui all'articolo 35, comma 1, lettere a) e b), per difetto dei prescritti requisiti.
 
@@ -683,7 +1675,92 @@ Con determinazione del comandante generale della Guardia di finanza puo' essere 
 
 ## Art. 37. — (Modalita' dei concorsi pubblici)
 
+1.
+                        
+                            
+                                Nel bando di concorso di cui all'articolo 35, comma 1, lettera a), indetto con determinazione del Comandante generale della guardia di finanza, sono stabiliti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il numero e le tipologie dei posti da mettere a concorso; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le modalita' e la data di scadenza per la presentazione della domanda di ammissione al concorso; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    le date entro le quali gli aspiranti devono possedere e conservare i titoli e i requisiti richiesti per l'ammissione al concorso; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    le modalita' e la data di scadenza per la presentazione della documentazione comprovante il possesso dei requisiti; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    la composizione della commissione giudicatrice, ripartita in sottocommissioni, presieduta e formata da personale in servizio nel Corpo della guardia di finanza, con l'intervento, ove necessario, di uno o piu' esperti o docenti nelle materie o prove oggetto di valutazione, in servizio presso istituti pubblici o in quiescenza da non piu' di tre anni alla data di nomina della commissione; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    le modalita' di accertamento dei requisiti e di esclusione dei concorrenti per difetto dei medesimi; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    le tipologie e le modalita' di svolgimento e di valutazione delle prove e delle fasi concorsuali, nonche' l'ordine di successione delle stesse; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    i titoli che devono essere valutati ai fini della redazione delle graduatorie finali di merito; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    la durata del corso.
+
 Nell'ambito delle graduatorie finali di merito, distinte per le tipologie di posti a concorso, a parita' di merito e' data la precedenza, nell'ordine, agli orfani di guerra ed equiparati, ai figli di decorati al valor militare, nonche' ai figli di decorati di medaglia d'oro al valor di marina, al valor aeronautico o al valor civile, ai militari in servizio nel soccorso alpino della Guardia di finanza.
+
+3.
+                        
+                            
+                                Con determinazioni del Comandante generale della guardia di finanza: 
+ 
+                            
+                            
+                                a)
+                                
+                                    e' nominata la commissione giudicatrice; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    sono approvate le graduatorie e sono dichiarati vincitori del concorso i candidati che nell'ordine delle singole graduatorie risultino compresi nel numero dei posti messi a concorso.
 
 Con determinazione del Comandante generale della guardia di finanza possono essere dichiarati vincitori del concorso altri concorrenti idonei nell'ordine delle graduatorie ((...)): 
  ((a) nel massimo di un quinto dei posti messi a concorso e comunque nel limite delle vacanze organiche nel ruolo ispettori nell'anno in cui gli aspiranti dovrebbero conseguire la nomina al grado di maresciallo, fermo restando il numero di assunzioni annualmente autorizzate secondo quanto previsto dalla normativa vigente;))
@@ -772,13 +1849,137 @@ Al venir meno delle singole cause impeditive richiamate al comma 6, purche' suss
 
 I frequentatori del corso possono ottenere, a domanda, di essere rinviati dal corso per rinunzia.
 
+2.
+                        
+                            
+                                Sono rinviati dal corso, d'autorita', ((gli allievi marescialli)) che: 
+ 
+                            
+                            
+                                a)
+                                
+                                    dimostrino, in qualsiasi momento, di non possedere le qualita' necessarie per bene esercitare le funzioni del grado cui aspirano; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    riportino un punto caratteristico inferiore a 10 ventesimi; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    vengano riprovati agli esami dopo aver gia' ripetuto un anno di corso. 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    siano stati per qualsiasi motivo assenti ((, per singolo anno di corso, piu' di novanta giorni)), anche se non continuativi((;))
+                                    
+                                
+                            
+                            
+                                d-bis)
+                                
+                                    siano stati, per qualsiasi motivo, assenti alle sessioni di esame.
+
 ((PERIODO SOPPRESSO DAL D.LGS. 5 OTTOBRE 2018, N. 126)). ((I frequentatori rinviati per assenze dovute a infermita' o altre cause indipendenti dalla loro volonta')) sono ammessi, per un massimo di due volte , a frequentare, nell'anno scolastico successivo a quello di cessazione della causa impeditiva, ((il primo o il secondo)) anno di corso senza essere considerati ripetenti ai sensi del comma 5 dell'art. 44.
 
 I provvedimenti di rinvio di cui ai commi ((1 e 2)) sono adottati con determinazione del comandante generale della Guardia di finanza.
 
 ## Art. 46. — (Modalita' dei concorsi interni)
 
+1.
+                        
+                            
+                                Nei bandi di concorso di cui all'articolo 35, comma 1, lettera b), indetti con determinazione del Comandante generale della guardia di finanza, sono stabiliti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il numero e le tipologie dei posti da mettere a concorso; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le modalita' e la data di scadenza per la presentazione della domanda di ammissione al concorso; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    le date entro le quali gli aspiranti devono possedere e conservare i requisiti richiesti per l'ammissione al concorso, nonche' i titoli indicati nel bando; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    le modalita' e la data di scadenza per la presentazione della documentazione comprovante il possesso dei requisiti; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    la composizione della commissione giudicatrice, ripartita in sottocommissioni, presieduta e formata da personale in servizio nel Corpo della guardia di finanza, con l'intervento, ove necessario, di uno o piu' docenti nelle materie o prove oggetto di valutazione, in servizio presso istituti pubblici o in quiescenza da non piu' di tre anni alla data di nomina della commissione; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    le modalita' di accertamento dei requisiti e di esclusione dei concorrenti per difetto dei medesimi; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    se previste, le tipologie e le modalita' di svolgimento e di valutazione delle prove e delle fasi concorsuali, nonche' l'ordine di successione delle stesse; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    i titoli che devono essere valutati ai fini della redazione delle graduatorie finali di merito; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    la durata del corso.
+
 Nell'ambito delle graduatorie finali di merito, distinte per le tipologie di posti a concorso, a parita' di punteggio prevalgono, nell'ordine, il grado, l'anzianita' di grado, l'anzianita' di servizio e la maggiore anzianita' anagrafica.
+
+3.
+                        
+                            
+                                Con determinazioni del Comandante generale della guardia di finanza: 
+ 
+                            
+                            
+                                a)
+                                
+                                    e' nominata la commissione giudicatrice; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    sono approvate le graduatorie e sono dichiarati vincitori del concorso i candidati che nell'ordine delle singole graduatorie risultino compresi nel numero dei posti messi a concorso.
 
 Con determinazione del Comandante generale della guardia di finanza possono essere dichiarati vincitori del concorso altri concorrenti idonei nell'ordine delle graduatorie, per ricoprire i posti resisi comunque disponibili ((nel periodo corrispondente a un nono della durata)) del corso di cui all'articolo 48, tra i concorrenti precedentemente dichiarati vincitori.
 
@@ -796,6 +1997,24 @@ Per quanto non disciplinato dal presente decreto si osservano le norme concernen
 
 Per l'avvio e lo svolgimento del corso, per l'esclusione e per il rinvio dallo stesso, si applicano le disposizioni di cui agli articoli 21, comma 2-bis, 27 e 28 del presente decreto. ((Ai fini del presente comma, il periodo indicato all'articolo 28, comma 2, lettera c), e' pari a un sesto della durata del corso.))
 
+2.
+                        
+                            
+                                Al termine del corso ai relativi frequentatori: 
+ 
+                            
+                            
+                                a)
+                                
+                                    se dichiarati idonei in prima sessione, e' conferita la nomina a maresciallo, con determinazione del Comandante generale della guardia di finanza, nell'ordine determinato dalle graduatorie finali, con decorrenza dal giorno successivo a quello di termine degli esami di idoneita' di prima sessione al corso. Gli stessi, secondo il medesimo ordine, sono iscritti a ruolo, dopo l'ultimo dei parigrado nominati nello stesso anno, anche in seconda sessione, maresciallo al termine del corso di cui all'art. 44 del presente decreto; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    se dichiarati idonei in seconda sessione, e' conferita la nomina a maresciallo, con determinazione del Comandante generale della guardia di finanza, con decorrenza dal giorno successivo a quello di termine degli esami di idoneita' di seconda sessione al corso, nell'ordine determinato dalle graduatorie finali. Gli stessi sono iscritti a ruolo secondo il medesimo ordine e, comunque, dopo quelli dichiarati idonei nella prima sessione.
+
 Il conferimento della nomina a maresciallo e' sospeso nel caso in cui il frequentatore del corso, dichiarato idoneo ai sensi del comma 2, venga a trovarsi in una delle situazioni di cui all'art. 55, comma 2, lettere a), b) e c), del presente decreto.
 
 Al venir meno delle singole cause impeditive richiamate al comma 3, purche' sussistano i requisiti di legge per l'iscrizione a ruolo, il frequentatore del corso deve essere nominato con la stessa decorrenza che gli sarebbe spettata qualora la nomina al grado di maresciallo non fosse stata sospesa.
@@ -803,6 +2022,56 @@ Al venir meno delle singole cause impeditive richiamate al comma 3, purche' suss
 ## - Capo III RUOLO ISPETTORI SEZIONE III STATO
 
 ## Art. 49. — Posizione di Stato dei frequentatori dei corsi per il conferimento della nomina a maresciallo
+
+1.
+                        
+                            
+                                I frequentatori del corso di cui all'art. 44: 
+ 
+                            
+                            
+                                a)
+                                
+                                    se provenienti dai civili, assumono lo stato, il grado e il trattamento economico di allievo finanziere e sono promossi finanzieri dopo sei mesi dalla data di arruolamento, con l'osservanza della disposizione di cui all'art. 8, commi 3 e 4, del presente decreto. I militari in servizio e in congedo delle altre Forze armate e quelli in congedo della Guardia di finanza, nonche' il personale appartenente alle Forze di polizia ad ordinamento civile perdono, rispettivamente, il grado e la qualifica; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    se provenienti dagli allievi finanzieri, conseguono la promozione a finanziere dopo sei mesi dalla data di arruolamento nel Corpo, con osservanza delle disposizioni di cui all'art. 8, commi 3 e 4, del presente decreto; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    se provenienti dal ruolo "appuntati e finanzieri", mantengono lo stato giuridico della categoria di appartenenza; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    se provenienti dal ruolo "sovrintendenti" mantengono lo stato giuridico della categoria di appartenenza.
+
+2.
+                        
+                            
+                                I frequentatori del corso di cui al comma 1, lettere a) e b): 
+ 
+                            
+                            
+                                a)
+                                
+                                    contraggono una ferma volontaria di quattro anni, con decorrenza dalla data di arruolamento; ((24))
+                                    
+                                
+                            
+                            
+                                b)
+                                
+                                    al termine del corso, i dichiarati idonei, vengono nominati maresciallo in ferma volontaria e inviati ai reparti di impiego.
 
 Al termine del complessivo periodo di ferma volontaria previsto dalle rispettive norme di stato giuridico, i marescialli di cui al comma 2 ed il personale di cui al comma 1, lettera c) che ha conseguito la nomina a maresciallo, che conservino l'idoneita' psico-fisica al servizio incondizionato e siano meritevoli, per qualita' morali e culturali, per buona condotta, per attitudini e rendimento, di continuare a prestare servizio nel Corpo sono ammessi, salvo esplicita rinunzia, al servizio permanente con determinazione del comandante generale, o dell'autorita' dal medesimo delegata.
 
@@ -816,6 +2085,31 @@ Il periodo di tempo eventualmente trascorso in servizio oltre la scadenza della 
 All'atto del congedo, al personale di cui al comma 6 e' corrisposto un premio pari all'ultimo stipendio mensile percepito per ogni anno o frazione superiore a sei mesi di servizio prestato. Tale premio non e' comunque cumulabile con la indennita' di anzianita' di servizio che dovesse essere corrisposta per effetto di altra normativa.
 
 L'ispettore che alla scadenza della ferma volontaria non possa essere ammesso in servizio permanente per temporanea inidoneita' psico-fisica al servizio incondizionato, congedo obbligatorio per maternita' o perche' imputato in procedimento penale per delitto non colposo o sottoposto a procedimento disciplinare di Stato, anche se sospeso dal servizio, puo' ottenere, a domanda, di continuare a permanere in ferma volontaria. Qualora la ferma sia prolungata per imputazione in procedimento penale, la concessione di tale beneficio non condiziona le valutazioni concernenti la successiva istanza di ammissione in servizio permanente e non preclude la possibilita' di disporre il proscioglimento dalla ferma.
+
+9.
+                        
+                            
+                                La durata complessiva del prolungamento della ferma: 
+ 
+                            
+                            
+                                a)
+                                
+                                    per l'ispettore temporaneamente non idoneo al servizio incondizionato, non puo' superare il periodo massimo previsto per l'aspettativa; 
+
+                                
+                            
+                            
+                                a-bis)
+                                
+                                    per l'ispettore in congedo obbligatorio per maternita', non puo' superare il periodo concesso ai sensi dell'articolo 16 o dell'articolo 20 del decreto legislativo 26 marzo 2001, n. 151; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    per l'ispettore imputato in procedimento penale ovvero sottoposto a procedimento disciplinare di Stato, non puo' protrarsi oltre la data entro la quale viene definito il procedimento stesso.
 
 L'ispettore che abbia riacquistato l'idoneita' psico-fisica incondizionata, quello nei cui confronti sia terminato il periodo di congedo obbligatorio per maternita' e quello nei cui confronti il procedimento penale o disciplinare di stato si sia concluso favorevolmente possono ottenere, a domanda, l'ammissione in servizio permanente con decorrenza dal giorno successivo alla scadenza della ferma volontaria precedentemente contratta. In caso di conclusione del procedimento penale, la domanda puo' essere presentata soltanto successivamente alla definizione della conseguente posizione disciplinare.
 
@@ -853,6 +2147,45 @@ Le disposizioni di cui al presente capo si applicano ai concorsi da indire succe
 ## - Capo IV AVANZAMENTO
 
 ## Art. 52. — Forme di avanzamento
+
+1.
+                        
+                            
+                                L'avanzamento degli ispettori e dei sovrintendenti del Corpo della Guardia di finanza ha luogo: 
+ 
+                            
+                            
+                                a)
+                                
+                                    ad anzianita'; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    a scelta; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    LETTERA SOPPRESSA DAL D.LGS. 29 MAGGIO 2017, N. 95; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    per meriti eccezionali; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    LETTERA SOPPRESSA DAL D.LGS. 29 MAGGIO 2017, N. 95. (13)((16))
 
 L'avanzamento di cui alle lettere a) e b) si effettua secondo quanto stabilito dalle tabelle D/1 e D/2 allegate al presente decreto.
 
@@ -905,6 +2238,24 @@ Per la valutazione ai fini dell'avanzamento ad anzianita' e a scelta e per la co
 
 ((
 
+1.
+                        
+                            
+                                La commissione permanente di avanzamento e' costituita come segue: 
+ 
+                            
+                            
+                                a)
+                                
+                                    presidente: un ufficiale generale; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    membri ordinari: tre ufficiali superiori, dei quali il piu' anziano assume il ruolo di vice presidente e il meno anziano quello di segretario; un luogotenente «cariche speciali» o un brigadiere capo «qualifica speciale» ovvero un appuntato scelto «qualifica speciale», rispettivamente se trattasi di valutazione di personale del ruolo ispettori, sovrintendenti ovvero appuntati e finanzieri, che possa far parte della commissione almeno per l'intero anno solare a cui si riferiscono le valutazioni da effettuare.
+
 Per la commissione di cui al comma 1 sono nominati membri supplenti.
 
 ))
@@ -945,6 +2296,31 @@ La commissione esprime i giudizi sull'avanzamento a scelta dichiarando prelimina
 
 Successivamente la commissione valuta gli ispettori giudicati idonei, attribuendo a ciascuno di essi un punto di merito secondo i criteri di cui al comma 3.
 
+3.
+                        
+                            
+                                Ogni componente della commissione assegna distintamente per ciascun ispettore un punto da 1 a 30 per ognuno dei seguenti complessi di elementi: 
+ 
+                            
+                            
+                                a)
+                                
+                                    qualita' morali, caratteriali e fisiche; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    benemerenze di guerra e comportamento in guerra, benemerenze di pace, qualita' professionali dimostrate durante la carriera, specialmente nel grado rivestito, con particolare riguardo al servizio prestato presso reparti o in imbarco, eventuale attivita' svolta al comando di minori unita', nonche' numero e importanza degli incarichi ricoperti e delle specializzazioni possedute; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    doti culturali e risultati di corsi, esami ed esperimenti.
+
 Le somme dei punti assegnati per ciascun complesso di elementi di cui alle lettere a), b) e c), sono divise per il numero dei votanti e i relativi quozienti, calcolati al centesimo, sono sommati tra loro. Il totale cosi' ottenuto e' quindi diviso per tre, calcolando il quoziente al centesimo. Detto quoziente costituisce il punto di merito attribuito all'ispettore dalla commissione. Sulla base della graduatoria di merito risultante da tali punteggi la commissione compila il relativo quadro d'avanzamento.
 
 I quadri d'avanzamento a scelta sono pubblicati sul portale istituzionale del Comando generale della guardia di finanza.
@@ -971,6 +2347,24 @@ La promozione dell'ispettore ovvero del sovrintendente e' sospesa nel caso in cu
 
 Avanzamento "ad anzianita'"
 
+1.
+                        
+                            
+                                L'avanzamento "ad anzianita'" avviene secondo le modalita' di cui all'articolo ((55-quinquies)), attraverso la formulazione dei giudizi di idoneita' o di non idoneita' ivi specificati, espressi con riferimento al possesso, da parte del valutando, dei seguenti requisiti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    aver bene assolto le funzioni inerenti il proprio grado; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    fisici, intellettuali, di cultura, morali e di carattere, professionali necessari per adempiere degnamente le funzioni del grado superiore.
+
 Il giudizio di non idoneita' all'avanzamento deve essere motivato indicando quali dei requisiti di cui al comma 1 facciano difetto.
 
 Il personale iscritto nel quadro di avanzamento "ad anzianita'" e' promosso, con determinazione del ((Comandante)) generale della Guardia di finanza ((...)), a ruolo aperto, dal giorno successivo a quello del compimento del periodo di permanenza nel grado previsto dalle tabelle D/1 e D/2 allegate al presente decreto.
@@ -980,6 +2374,31 @@ Il personale iscritto nel quadro di avanzamento "ad anzianita'" e' promosso, con
 L'avanzamento "a scelta" avviene secondo le modalita' di cui all'art. 55-sexies, attraverso la formulazione dei giudizi di idoneita' o di non idoneita' ivi specificati, espressi con riferimento al possesso, da parte dell'ispettore interessato, dei requisiti specificati all'art. 57, comma 1.
 
 Il giudizio di non idoneita' all'avanzamento "a scelta" deve essere motivato indicando quali dei requisiti prescritti facciano difetto.
+
+2.
+                        
+                            
+                                Nell'avanzamento "a scelta", le promozioni da effettuare sono cosi' determinate: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il primo terzo degli iscritti nel quadro d'avanzamento a scelta, relativo alla prima valutazione, e' promosso al grado superiore con decorrenza dal giorno successivo a quello di compimento del periodo minimo di permanenza nel grado rivestito, previsto dalla tabella D/2 allegata al presente decreto; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    per il restante personale, si procede ad una seconda valutazione, per l'avanzamento "a scelta", all'epoca della formazione delle corrispondenti aliquote di scrutinio dell'anno successivo. Fra questi, la prima meta' viene promossa con un anno di ritardo rispetto al periodo minimo di permanenza nel grado rivestito previsto dalla tabella D/2, prendendo posto nel ruolo di appartenenza, a parita' di anzianita' assoluta di grado, dopo i parigrado iscritti nel primo terzo del quadro di avanzamento relativo alla prima valutazione, formato nel medesimo anno; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    la seconda meta' del quadro di avanzamento di cui alla lettera b), in deroga a quanto previsto dai commi 2, 3 e 4 dell'articolo 55-sexies, viene promossa, previo giudizio di idoneita' all'avanzamento, con due anni di ritardo rispetto al periodo minimo di permanenza nel grado previsto dalla tabella D/2, prendendo posto nel ruolo di appartenenza, a parita' di anzianita' assoluta di grado, dopo i parigrado iscritti nella prima meta' del quadro di avanzamento relativo alla seconda valutazione, formato nel medesimo anno. I militari giudicati idonei in terza valutazione sono iscritti nel relativo quadro di avanzamento in ordine di ruolo.
 
 Le promozioni di cui al presente articolo sono conferite con determinazione del Comandante generale della Guardia di finanza.
 
@@ -1040,6 +2459,26 @@ Possono beneficiare della promozione straordinaria per meriti eccezionali anche 
 
 Gli appartenenti al ruolo dei sottufficiali ed al ruolo finanzieri e appuntati ((sono inquadrati nei ruoli)) "ispettori", "sovrintendenti" ed "appuntati e finanzieri", secondo i criteri di cui ai successivi articoli.
 
+2.
+                        
+                            
+                                Gli inquadramenti di cui al comma 1: 
+ 
+                            
+                            
+                                a)
+                                
+                                    hanno effetto giuridico ed economico a decorrere dal 1 settembre 1995; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    sono effettuati sulla base dell'anzianita' di servizio maturata dal momento di iscrizione al rispettivo ruolo di appartenenza, calcolata, per ciascun grado, secondo i criteri di cui ai seguenti provvedimenti: 
+ 1) per il personale appartenente al ruolo "Sottufficiali", la legge 31 luglio 1954, n. 599, il decreto del Presidente della Repubblica 26 agosto 1959, n. 1088, e la legge 10 maggio 1983, n. 212; 
+ 2) per il personale appartenente al ruolo "finanzieri e appuntati", la legge 3 agosto 1961, n. 833, e la legge 1 febbraio 1989, n. 53.
+
 ## Art. 63. — Inquadramento nel ruolo "appuntati e finanzieri"
 
 Gli appuntati scelti, ad eccezione di quelli menzionati al successivo art. 64, gli appuntati, i finanzieri scelti e i finanzieri del Corpo della guardia di finanza, in servizio alla data del 1 settembre 1995, sono inquadrati a tale data, con la medesima anzianita' di servizio e di grado rivestita e secondo le modalita' di cui al successivo art. 66, nel ruolo "appuntati e finanzieri".
@@ -1050,11 +2489,63 @@ Gli appartenenti al ruolo "finanzieri ed appuntati" di cui alla legge 1 febbraio
 
 ## Art. 64. — Inquadramento nel ruolo "sovrintendenti"
 
+1.
+                        
+                            
+                                Gli appuntati scelti ufficiali di polizia giudiziaria e gli appuntati scelti del Corpo della guardia di finanza che abbiano superato il corso per l'esercizio delle funzioni di ufficiale di polizia giudiziaria, di cui all'art. 13, comma 5, della legge 1 febbraio 1989, n. 53, comunque in servizio alla data del 1 settembre 1995, sono inquadrati nei seguenti gradi del ruolo "sovrintendenti": 
+
+                            
+                            
+                                a)
+                                
+                                    nel grado di brigadiere capo, i graduati con oltre ventinove anni di servizio; 
+                                
+                            
+                            
+                                b)
+                                
+                                    nel grado di brigadiere, i graduati con oltre 22 anni di servizio e fino a ventinove anni di servizio compreso; 
+                                
+                            
+                            
+                                c)
+                                
+                                    nel grado di vice brigadiere, i rimanenti graduati.
+
 Gli appuntati scelti della Guardia di finanza comunque in servizio alla data del 1 settembre 1995, aventi a tale data l'anzianita' prescritta per il conseguimento della qualifica di ufficiale di polizia giudiziaria, sono avviati, a domanda, alla frequenza di un corso straordinario, della durata di un mese, da effettuarsi con le modalita' da stabilirsi con determinazione del comandante generale della Guardia di finanza. Al termine del predetto corso, i graduati dichiarati idonei, previo conferimento della qualifica di ufficiale di polizia giudiziaria con decorrenza 1 settembre 1995, sono inquadrati nel ruolo "sovrintendenti" secondo i criteri di cui al comma 1.
 
 Gli appuntati scelti che non partecipano al corso di cui al comma 2 o che non risultano idonei al termine del corso stesso, sono inquadrati nel ruolo "appuntati e finanzieri", conservando la medesima anzianita' di servizio e di grado rivestita, secondo i criteri previsti dall'art. 63.
 
 ## Art. 65. — Inquadramento nel ruolo "ispettori"
+
+1.
+                        
+                            
+                                I marescialli maggiori, i marescialli capi, i marescialli ordinari, i brigadieri e i vice brigadieri della Guardia di finanza, comunque in servizio alla data del 1 settembre 1995, sono inquadrati, con le modalita' indicate nel comma 2, nei seguenti gradi del ruolo "ispettori": 
+
+                            
+                            
+                                a)
+                                
+                                    nel grado di maresciallo aiutante, i sottufficiali che, alla predetta data del 1 settembre 1995, rivestono il grado di maresciallo maggiore, compresi quelli che rivestono la qualifica di "aiutante" e la nomina a "cariche speciali", nonche' i marescialli capi utilmente iscritti, ai fini della promozione al grado superiore, nei quadri di avanzamento, formati alla suddetta data, ai sensi della legge 10 maggio 1983, n. 212, e del presente decreto; 
+                                
+                            
+                            
+                                b)
+                                
+                                    nel grado di maresciallo capo, i sottufficiali che, alla predetta data del 1 settembre 1995, rivestono il grado di maresciallo capo e di maresciallo ordinario, nonche' i brigadieri utilmente iscritti, ai fini della promozione al grado superiore, nei quadri di avanzamento, formati alla suddetta data, ai sensi della legge 10 maggio 1983, n. 212, e del presente decreto; 
+                                
+                            
+                            
+                                c)
+                                
+                                    nel grado di maresciallo ordinario, i sottufficiali che alla predetta data del 1 settembre 1995, rivestono il grado di brigadiere, nonche' i sottufficiali utilmente iscritti, ai fini della promozione al grado di brigadiere, nei quadri di avanzamento, formati alla suddetta data, ai sensi della legge 10 maggio 1983, n. 212, e del presente decreto; 
+                                
+                            
+                            
+                                d)
+                                
+                                    nel grado di maresciallo, i vice brigadieri.
 
 L'inquadramento di cui al comma 1 avviene, per il personale indicato alle lettere b), c) e d) dello stesso comma, previa rideterminazione dell'anzianita' di grado di ciascun sottufficiale sulla base di quella precedentemente maturata ai sensi della legge 10 maggio 1983, n. 212, aumentata di un quinto dei tempi residui di permanenza minima nel grado per conseguire il diritto alla valutazione al grado superiore ai sensi della tabella C allegata alla legge 10 maggio 1983, n. 212.
 
@@ -1091,6 +2582,31 @@ Alla stessa data del 31 agosto 1995 i marescialli capo e i brigadieri, gia' valu
 I sottufficiali esclusi a qualsiasi titolo dalle aliquote determinate secondo i criteri di cui alla legge 10 maggio 1983, n. 212, o di cui a leggi previgenti, ivi comprese le aliquote straordinarie determinate al 31 agosto 1995 di cui al precedente comma, al venir meno delle cause impeditive, purche' mantengano le condizioni di legge per l'iscrizione nel ruolo, saranno valutati, anche in deroga a quanto stabilito dalle disposizioni del presente decreto, con i medesimi criteri fissati dalla predetta legge e, nell'avanzamento, prenderanno posto, se idonei, nella graduatoria di merito dei parigrado, con i quali sarebbero stati valutati in assenza delle cause impeditive. Gli stessi saranno promossi con le modalita' previste dalle disposizioni precedentemente in vigore.
 Successivamente saranno inquadrati secondo le disposizioni, con le modalita' e con il riconoscimento degli eventuali ulteriori avanzamenti cui avranno titolo ai sensi delle disposizioni del presente decreto.
 
+3.
+                        
+                            
+                                Le disposizioni di cui al precedente comma 2 si applicano nei confronti dei sottufficiali: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la cui valutazione sia stata sospesa ai sensi della predetta legge 10 maggio 1983, n. 212; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la cui promozione sia stata sospesa ai sensi degli articoli 8 e 12 del decreto del Presidente della Repubblica 26 agosto 1959, n. 1088, e successive modificazioni; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    la cui nomina a "cariche speciali" sia stata sospesa ai sensi delle disposizioni richiamate nella lettera b).
+
 A coloro che rivestono il grado di maresciallo maggiore della Guardia di finanza, che, ai sensi dell'art. 22 del decreto del Presidente della Repubblica 26 agosto 1959, n. 1088, sono stati iscritti nell'elenco ivi menzionato e nei cui confronti, a tutto il 1 settembre 1995, in virtu' di mancanza di vacanze nel contingente di nomina a "cariche speciali" da conferire agli appartenenti al ruolo sottufficiali di cui alla legge 10 maggio 1983, n. 212, non sia stata ancora conferita la predetta nomina, e' attribuita, prima dell'effettuazione del predetto inquadramento di cui all'art. 65, la nomina a "cariche speciali" con decorrenza 1 settembre 1995, anche in deroga alle disposizioni abrogative contenute nel presente decreto.
 
 ## - Capo III NORME TRANSITORIE
@@ -1102,6 +2618,38 @@ Il personale appartenente ai ruoli "ispettori", "sovrintendenti" e "appuntati e 
 La disposizione di cui al comma 1 si applica anche nei confronti del personale collocato in congedo per infermita', sempreche' abbia chiesto ed ottenuto presso le competenti autorita' sanitarie militari la revisione del giudizio di permanente inidoneita' con attribuzione della relativa idoneita' a poter prestare servizio incondizionato nel Corpo. Il termine di un anno in questo caso, decorre dalla data della riacquistata idoneita' fisica.
 
 La previsione di cui al comma 2 non si applica nei confronti di coloro che, ai sensi dell'articolo 14, comma 5, della legge 28 luglio 1999, n. 266, hanno ottenuto il transito nelle qualifiche funzionali del personale civile del Ministero delle Finanze.
+
+4.
+                        
+                            
+                                La riammissione in servizio e' disposta dal comandante generale della Guardia di finanza, nei limiti delle vacanze esistenti nei ruoli organici, tenuto conto: 
+ 
+                            
+                            
+                                a)
+                                
+                                    dei precedenti di carriera, disciplinari e sanitari; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    delle valutazioni caratteristiche riportate in servizio; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    del comportamento tenuto nel periodo trascorso in congedo; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    delle qualita' morali.
 
 E' escluso dalla riammissione in servizio il personale collocato in congedo d'autorita', ad eccezione di quanto indicato al precedente comma 2.
 
@@ -1118,6 +2666,24 @@ Il personale del Corpo della guardia di finanza, appartenente ai ruoli ispettori
  ((2) per motivi non riconducibili a cause di carattere sanitario, con decorrenza dalla data del provvedimento di transito.))
 
 ((
+
+1-bis.
+                        
+                            
+                                Con determinazioni del Comandante generale: 
+ 
+                            
+                            
+                                a)
+                                
+                                    fermi restando i requisiti di cui al comma 1, lettera a), per il passaggio dal contingente ordinario a quello di mare puo' essere stabilita l'eta' anagrafica massima, comunque non superiore a 35 anni, di cui devono essere in possesso gli aspiranti all'atto della presentazione della domanda; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    all'esito della definizione della procedura di cui al comma 1, e' disposto il transito di contingente.
 
 ))
 
@@ -1157,6 +2723,41 @@ Dopo il comma 2 dell'art. 7 della legge 1 febbraio 1989, n. 53 e' aggiunto il se
 
 ## Art. 71. — Abrogazione e modifiche di norme in contrasto con il presente decreto
 
+1.
+                        
+                            
+                                Sono abrogati, a decorrere dal l settembre 1995: 
+
+                            
+                            
+                                a)
+                                
+                                    la legge 10 dicembre 1942, n. 1551; 
+                                
+                            
+                            
+                                b)
+                                
+                                    gli articoli 1, 3, 6, 7, 8 e successive modificazioni, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37 e 38 del decreto del Presidente della Repubblica 26 agosto 1959, n. 1088; 
+                                
+                            
+                            
+                                c)
+                                
+                                    la legge 13 luglio 1966, n. 558; 
+                                
+                            
+                            
+                                d)
+                                
+                                    gli articoli da 1 a 20 compreso, nonche' i primi tre commi dell'art. 21 della legge 11 novembre 1975, n. 627, e successive modificazioni; 
+                                
+                            
+                            
+                                e)
+                                
+                                    tutte le disposizioni di legge in contrasto o, comunque, incompatibili con le norme del presente decreto, oltre a quelle espressamente menzionate nei precedenti e nel presente articolo.
+
 Gli articoli 2 e 3 della legge 22 luglio 1971, n. 536, nonche' l'art. 20, commi 2 e 3 della legge 5 maggio 1976, n. 187, a far data dal 1 settembre 1995 non si applicano al personale appartenente ai ruoli sottufficiali della Guardia di finanza.
 
 Al personale che, alla data del 31 agosto 1995, si trova nella posizione di ausiliaria non si applicano le disposizioni del presente decreto ai fini dell'adeguamento dell'indennita' prevista dagli articoli 46 della legge 10 maggio 1983, n. 212, e successive modificazioni, e 12 della legge 1 febbraio 1989, n. 53, e successive modificazioni. Ai fini della determinazione dell'indennita' di ausiliaria spettante al medesimo personale, restano in vigore i livelli retributivi di inquadramento di cui al decreto-legge 7 gennaio 1992, n. 5, e alla relativa legge di conversione 6 marzo 1992, n. 216.
@@ -1164,6 +2765,29 @@ Al personale che, alla data del 31 agosto 1995, si trova nella posizione di ausi
 ## Art. 72. — Personale in forza alla banda musicale del Corpo della guardia di finanza
 
 In deroga alle disposizioni di cui al presente decreto, al personale inquadrato nei ruoli degli appartenenti alla banda musicale della Guardia di finanza continuano ad applicarsi le disposizioni del decreto legislativo 27 febbraio 1991, n. 79, salvo quanto previsto nel presente articolo.
+
+2.
+                        
+                            
+                                A decorrere dal 1 settembre 1995, fatte salve le posizioni del personale gia' in forza, a tale data, alla banda musicale della Guardia di finanza quale esecutore ed archivista: 
+
+                            
+                            
+                                a)
+                                
+                                    la tabella E allegata al decreto legislativo 27 febbraio 1991, n. 79 e' sostituita dalla tabella F allegata al presente decreto; 
+                                
+                            
+                            
+                                b)
+                                
+                                    la tabella F allegata al predetto decreto legislativo n. 79 del 1991 e' sostituita dalla tabella G allegata al presente decreto; 
+                                
+                            
+                            
+                                c)
+                                
+                                    la tabella I allegata al menzionato decreto legislativo n. 79 del 1991 e' sostituita dalla tabella H allegata al presente decreto.
 
 Il personale del ruolo degli esecutori della banda musicale del Corpo della guardia di finanza, in servizio al 1 settembre 1995, e' inquadrato, a tale data, secondo l'ordine di iscrizione a ruolo, nel grado di maresciallo aiutante, mantenendo l'anzianita' di servizio maturata quale esecutore ovvero archivista nel complesso bandistico sino alla predetta data e ferma restando la collocazione nella parte e per lo strumento suonato alla data anzidetta, nonche' conservando il trattamento economico in godimento, se piu' favorevole.
 
@@ -1244,6 +2868,24 @@ Ai sensi dell'art. 18 del regio decreto 31 agosto 1907, n. 690, al personale del
 ((
 
 Con specifica domanda, da presentarsi in data coincidente con l'ultimo giorno di servizio effettivo, e' conferita la nomina a "vice brigadiere di complemento" ovvero a "maresciallo di complemento", all'atto del collocamento in congedo, rispettivamente, agli appuntati scelti ovvero ai brigadieri capo, a condizione che gli stessi abbiano compiuto il periodo minimo di servizio prescritto.
+
+2.
+                        
+                            
+                                Con le medesime modalita' di cui al precedente comma, tale nomina ai suddetti gradi e' conferita agli appartenenti ai ruoli "appuntati e finanzieri" e "sovrintendenti" che: 
+ 
+                            
+                            
+                                a)
+                                
+                                    abbiano maturato almeno sei anni di servizio; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    siano in possesso del diploma di scuola media superiore.
 
 Le suddette nomine sono conferite previo giudizio di idoneita' formulato dalle autorita' incaricate ad esprimere i giudizi sull'avanzamento al grado superiore, sempreche' gli interessati cessino dal servizio per motivi diversi da quelli penali, disciplinari ovvero per infermita'.
 

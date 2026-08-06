@@ -7,8 +7,8 @@ urn: urn:nir:stato:decreto.del.presidente.della.repubblica:2018-03-15;42
 vigente: true
 source: normattiva-opendata
 collection: DPR
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:48:02Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -596,17 +596,123 @@ Agli effetti del trattamento di fine servizio, si considerano solo gli scagliona
 
 ## Art. 8. — Fondo per la retribuzione di rischio e di posizione e per la retribuzione di risultato dei dirigenti di livello non generale
 
+1.
+                        
+                            
+                                Il Fondo per la retribuzione di rischio e di posizione e per la retribuzione di risultato, con riferimento ai primi dirigenti e ai dirigenti superiori del Corpo nazionale dei vigili del fuoco, di cui all'articolo 10 del decreto del Presidente della Repubblica 19 novembre 2010, n. 250 e' aumentato dalle seguenti risorse annue: 
+ 
+                            
+                            
+                                a)
+                                
+                                    per l'anno 2016: euro 19.806,69; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    per l'anno 2017: euro 52.688,97; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    a decorrere dall'anno 2018: euro 175.263,11.
+
 Gli importi afferenti gli anni 2016 e 2017 non hanno effetto di trascinamento nell'anno successivo.
 
 Restano ferme le disposizioni relative alla composizione del predetto Fondo ed all'utilizzo dello stesso.
+
+4.
+                        
+                            
+                                La quota fissa della retribuzione di rischio e posizione e' stabilita nei seguenti importi annui lordi per tredici mensilita': 
+ 
+                            
+                            
+                                a)
+                                
+                                    per l'anno 2016: 
+ posizioni funzionali della qualifica di dirigente superiore: euro 25.089,96; 
+ posizioni funzionali della qualifica di primo dirigente: euro 20.072,02; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    per l'anno 2017: 
+ posizioni funzionali della qualifica di dirigente superiore: euro 25.272,48; 
+ posizioni funzionali della qualifica di primo dirigente: euro 20.218,01; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    a decorrere dall'anno 2018: 
+ posizioni funzionali della qualifica di dirigente superiore: euro 25.869,96; 
+ posizioni funzionali della qualifica di primo dirigente: euro 20.696,02.
 
 La quota variabile della retribuzione di rischio e di posizione e' determinata con decreto del Capo del Dipartimento dei vigili del fuoco, del soccorso pubblico e della difesa civile in relazione alla graduazione degli incarichi di funzione disposta con decreto del Ministro dell'interno ai sensi dell'articolo 77 del decreto legislativo 13 ottobre 2005, n. 217.
 
 ## Art. 9. — Fondo per la retribuzione di rischio e di posizione e per la retribuzione di risultato dei dirigenti di livello generale
 
+1.
+                        
+                            
+                                Il Fondo per la retribuzione di rischio e di posizione e per la retribuzione di risultato, con riferimento ai dirigenti generali del Corpo nazionale dei vigili del fuoco, di cui all'articolo 10 del decreto del Presidente della Repubblica 19 novembre 2010, n. 250, e' aumentato dalle seguenti risorse annue: 
+ 
+                            
+                            
+                                a)
+                                
+                                    per l'anno 2016: euro 4.951,67; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    per l'anno 2017: euro 13.172,24; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    a decorrere dall'anno 2018: euro 43.815,78.
+
 Gli importi afferenti gli anni 2016 e 2017 non hanno effetto di trascinamento nell'anno successivo.
 
 Restano ferme le disposizioni relative alla composizione del predetto Fondo ed all'utilizzo dello stesso.
+
+4.
+                        
+                            
+                                La quota fissa della retribuzione di rischio e posizione e' stabilita nei seguenti importi annui lordi per tredici mensilita': 
+ 
+                            
+                            
+                                a)
+                                
+                                    per l'anno 2016: euro 35.125,97; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    per l'anno 2017: euro 35.381,55; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    a decorrere dall'anno 2018: euro 36.217,97.
 
 La quota variabile della retribuzione di rischio e di posizione e' determinata con il decreto di cui all'articolo 8, comma 5.
 
@@ -631,6 +737,31 @@ Con gli accordi integrativi nazionali di cui all'articolo 84, comma 1, del decre
 Al personale di cui al presente decreto continuano ad applicarsi, ove non in contrasto, le norme previste dai precedenti accordi collettivi.
 
 ## Art. 14. — Copertura finanziaria
+
+1.
+                        
+                            
+                                All'onere derivante dall'attuazione del presente decreto, pari a euro 3.081.594 per l'anno 2018 e a euro 2.184.990 annui a decorrere dall'anno 2019, si provvede: 
+ 
+                            
+                            
+                                a)
+                                
+                                    quanto a 437.496 euro per l'anno 2018, mediante corrispondente utilizzo delle disponibilita' in conto residui relative all'autorizzazione di spesa di cui all'articolo 1, comma 466, della legge 28 dicembre 2015, n. 208, che sono versate all'entrata del bilancio dello Stato; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    quanto a euro 459.108 per l'anno 2018, mediante corrispondente utilizzo delle disponibilita' in conto residui relative all'autorizzazione di spesa di cui all'articolo 1, comma 365, punto a), della legge 11 dicembre 2016, n. 232, che sono versate all'entrata del bilancio dello Stato; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    quanto a complessivi euro 2.184.990 annui a decorrere dall'anno 2018, mediante corrispondente riduzione, per euro 218.748, dell'autorizzazione di spesa di cui all'articolo 1, comma 466, della legge 28 dicembre 2015, n. 208, per euro 459.108, dell'autorizzazione di spesa di cui all'articolo 1, comma 365, punto a), della legge 11 dicembre 2016, n. 232 e, per euro 1.507.134, dell'autorizzazione di spesa di cui all'articolo 1, comma 679, della legge 27 dicembre 2017, n. 205.
 
 Il Ministro dell'economia e delle finanze e' autorizzato ad apportare, con propri decreti, le occorrenti variazioni di bilancio.
 

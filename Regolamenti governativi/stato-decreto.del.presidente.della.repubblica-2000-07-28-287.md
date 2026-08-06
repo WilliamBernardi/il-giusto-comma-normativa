@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Regolamenti governativi
 vigenza_date: 2010-12-18
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:09Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -27,6 +27,52 @@ Sulla proposta del Ministro del tesoro, del bilancio e della programmazione econ
 
 ## Art. 1. — Definizioni
 
+1.
+                    
+                        
+                            Ai sensi del presente regolamento si intendono:
+ 
+                        
+                        
+                            a)
+                            
+                                per "legge", la legge 7 marzo 1996, n. 108;
+
+                            
+                        
+                        
+                            b)
+                            
+                                per "testo unico bancario", il decreto legislativo 1o settembre 1993, n. 385, recante il Testo unico delle leggi in materia bancaria e creditizia e successive modifiche e integrazioni;
+
+                            
+                        
+                        
+                            c)
+                            
+                                per "UIC", l'Ufficio italiano dei cambi;
+
+                            
+                        
+                        
+                            d)
+                            
+                                per "albo", l'albo dei mediatori creditizi di cui all'articolo 16, comma 1, della legge 7 marzo 1996, n. 108;
+
+                            
+                        
+                        
+                            e)
+                            
+                                per "mediatori creditizi", i soggetti che svolgono l'attivita' di cui all'articolo 16, comma 1, della citata legge n. 108 del 1996;
+
+                            
+                        
+                        
+                            f)
+                            
+                                per "intermediari finanziari", i soggetti iscritti nell'elenco previsto dall'articolo 106 del Testo unico bancario.(1) ((2))
+
 ------------
                         AGGIORNAMENTO (1)
                          Il D.Lgs. 13 agosto 2010, n. 141 ha disposto (con l'art. 28, comma 1, lettera b)) che"A decorrere dalla data di entrata in vigore delle disposizioni di attuazione del titolo VI-bis del decreto legislativo 1° settembre 1993, n. 385 e del presente decreto, sono abrogati:
@@ -42,6 +88,24 @@ b) l'articolo 16 della legge 7 marzo 1996, n. 108, ad eccezione del comma 9, e i
 E' mediatore creditizio, ai sensi della legge e del presente regolamento, colui che professionalmente, anche se non a titolo esclusivo, ovvero abitualmente mette in relazione, anche attraverso attivita' di consulenza, banche o intermediari finanziari determinati con la potenziale clientela al fine della concessione di finanziamenti sotto qualsiasi forma.
 
 I mediatori creditizi svolgono la loro attivita' senza essere legati ad alcuna delle parti da rapporti di collaborazione, di dipendenza o di rappresentanza. Ad essi e' vietato concludere contratti nonche' effettuare, per conto di banche o di intermediari finanziari, l'erogazione di finanziamenti e ogni forma di pagamento o di incasso di denaro contante, di altri mezzi di pagamento o di titoli di credito.
+
+3.
+                    
+                        
+                            Non integra mediazione creditizia la raccolta, nell'ambito della specifica attivita' svolta e strumentalmente ad essa, di richieste di finanziamento, effettuata sulla base di apposite convenzioni stipulate con banche e intermediari finanziari, da parte di:
+ 
+                        
+                        
+                            a)
+                            
+                                soggetti iscritti in ruoli, albi o elenchi, tenuti da pubbliche autorita', da ordini o da consigli professionali;
+
+                            
+                        
+                        
+                            b)
+                            
+                                fornitori di beni o servizi.
 
 In conformita' all'articolo 5, comma 1, della legge 3 febbraio 1989, n. 39, per l'esercizio dell'attivita' di mediazione creditizia non e' richiesta la licenza prevista dall'articolo 115 del testo unico delle leggi di pubblica sicurezza, approvato con regio decreto 18 giugno 1931, n. 773.(1) ((2))
 
@@ -78,6 +142,63 @@ b) l'articolo 16 della legge 7 marzo 1996, n. 108, ad eccezione del comma 9, e i
 
 ## Art. 4. — Requisiti per l'iscrizione nell'albo
 
+1.
+                    
+                        
+                            Possono iscriversi nell'albo i cittadini italiani o di uno Stato membro dell'Unione europea o di uno Stato con il quale esista trattamento di reciprocita' in possesso dei seguenti requisiti:
+ 
+                        
+                        
+                            a)
+                            
+                                domicilio in Italia;
+
+                            
+                        
+                        
+                            b)
+                            
+                                diploma di scuola media superiore ovvero iscrizione nei ruoli di cui alla legge 3 febbraio 1989, n. 39;
+
+                            
+                        
+                        
+                            c)
+                            
+                                onorabilita' ai sensi dell'articolo 109 del testo unico bancario.
+
+2.
+                    
+                        
+                            Possono altresi' iscriversi nell'albo le societa' con sede legale in Italia e le stabili organizzazioni in Italia di societa' aventi sede legale all'estero che rispondano ai seguenti requisiti:
+ 
+                        
+                        
+                            a)
+                            
+                                oggetto sociale comprendente la mediazione creditizia;
+
+                            
+                        
+                        
+                            b)
+                            
+                                possesso dei requisiti di cui al comma 1, lettera c), da parte dei soci di controllo ai sensi dell'articolo 23 del testo unico bancario;
+
+                            
+                        
+                        
+                            c)
+                            
+                                possesso dei requisiti di cui al comma 1, lettera c), da parte dei soggetti che svolgono funzioni di amministrazione, direzione e controllo;
+
+                            
+                        
+                        
+                            d)
+                            
+                                svolgimento dell'attivita' di mediazione creditizia per il tramite di soggetti iscritti all'albo.(1) ((2))
+
 ------------
                         AGGIORNAMENTO (1)
                          Il D.Lgs. 13 agosto 2010, n. 141 ha disposto (con l'art. 28, comma 1, lettera b)) che"A decorrere dalla data di entrata in vigore delle disposizioni di attuazione del titolo VI-bis del decreto legislativo 1° settembre 1993, n. 385 e del presente decreto, sono abrogati:
@@ -91,6 +212,88 @@ b) l'articolo 16 della legge 7 marzo 1996, n. 108, ad eccezione del comma 9, e i
 ## Art. 5. — Domanda di iscrizione nell'albo
 
 La domanda di iscrizione nell'albo deve essere inoltrata con le modalita' stabilite dall'UIC che, effettuate le necessarie verifiche, procede all'iscrizione, dandone comunicazione al Ministero del tesoro, del bilancio e della programmazione economica.
+
+2.
+                    
+                        
+                            Nella domanda di iscrizione nell'albo inoltrata da persona fisica l'interessato deve dichiarare:
+ 
+                        
+                        
+                            a)
+                            
+                                il cognome, il nome, il luogo, la data di nascita e il numero di codice fiscale;
+
+                            
+                        
+                        
+                            b)
+                            
+                                la residenza, anche all'estero, il domicilio in Italia e, se diverso, anche il domicilio fiscale;
+
+                            
+                        
+                        
+                            c)
+                            
+                                il possesso dei requisiti di cui all'articolo 4, comma 1, lettera c);
+
+                            
+                        
+                        
+                            d)
+                            
+                                il possesso del diploma di scuola media superiore ovvero l'iscrizione nei ruoli di cui alla legge 3 febbraio 1989, n. 39.
+
+3.
+                    
+                        
+                            Nella domanda di iscrizione nell'albo inoltrata da parte di societa', il legale rappresentante deve dichiarare:
+ 
+                        
+                        
+                            a)
+                            
+                                la denominazione o la ragione sociale;
+
+                            
+                        
+                        
+                            b)
+                            
+                                la sede principale o secondaria con rappresentanza stabile in Italia;
+
+                            
+                        
+                        
+                            c)
+                            
+                                il numero di codice fiscale;
+
+                            
+                        
+                        
+                            d)
+                            
+                                gli estremi dell'iscrizione nell'albo dei soggetti per il tramite dei quali la societa' svolge l'attivita' di mediazione creditizia o, in mancanza, le relative domande in allegato.
+
+4.
+                    
+                        
+                            Alla domanda di cui al comma 3 sono allegate:
+ 
+                        
+                        
+                            a)
+                            
+                                copia dell'atto costitutivo e certificato attestante l'iscrizione nel registro delle imprese;
+
+                            
+                        
+                        
+                            b)
+                            
+                                le dichiarazioni sottoscritte dai soci di controllo ai sensi dell'articolo 23 del testo unico bancario e dai soggetti che svolgono funzioni di amministrazione, direzione e controllo, relative al possesso dei requisiti di cui all'articolo 4, comma 1, lettera c).
 
 L'UIC ha facolta' di richiedere agli interessati ogni necessaria informazione.
 

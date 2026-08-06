@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Leggi delega e relativi provvedimenti delegati
 vigenza_date: 2003-10-09
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:41:14Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -27,6 +27,80 @@ Acquisito il parere delle competenti commissioni parlamentari;
 Sulla proposta del Ministro delle comunicazioni, di concerto con il Ministro della salute, con il Ministro dell'ambiente e della tutela del territorio, con il Ministro dell'economia e delle finanze, con il Ministro per gli affari regionali e con il Ministro per l'innovazione e le tecnologie;
 
 ## Art. 1. — Obiettivi
+
+1.
+                    
+                        
+                            Il presente decreto legislativo detta principi fondamentali in materia di installazione e modifica delle categorie di infrastrutture di telecomunicazioni, considerate strategiche ai sensi dell'articolo 1, comma 1, della legge 21 dicembre 2001, n. 443, al fine di:
+ 
+                        
+                        
+                            a)
+                            
+                                agevolare la liberalizzazione del settore delle telecomunicazioni, consentendo a tutti gli operatori di installare proprie infrastrutture celermente, creando cosi' un mercato effettivamente concorrenziale;
+
+                            
+                        
+                        
+                            b)
+                            
+                                consentire la realizzazione di infrastrutture di nuova generazione e l'adeguamento di quelle esistenti idonee a soddisfare le esigenze connesse con lo sviluppo tecnologico;
+
+                            
+                        
+                        
+                            c)
+                            
+                                razionalizzare le procedure autorizzatorie per l'installazione di impianti di telecomunicazioni sul territorio nazionale, secondo principi di efficienza, pubblicita', concentrazione e speditezza;
+
+                            
+                        
+                        
+                            d)
+                            
+                                assicurare che la realizzazione delle infrastrutture di telecomunicazioni sia coerente con la tutela dell'ambiente e della salute per quanto attiene ai limiti di esposizione, ai valori di attenzione ed agli obiettivi di qualita', relativamente alle emissioni elettromagnetiche di cui alla legge 22 febbraio 2001, n. 36, e relativi provvedimenti di attuazione;
+
+                            
+                        
+                        
+                            e)
+                            
+                                dare certezza ai termini per la conclusione dei relativi procedimenti amministrativi, conformemente ad un quadro normativo omogeneo a livello nazionale anche per quanto attiene ai livelli delle emissioni elettromagnetiche degli impianti radioelettrici;
+
+                            
+                        
+                        
+                            f)
+                            
+                                favorire il raggiungimento degli obiettivi di qualita' relativamente alle predette emissioni elettromagnetiche nelle aree a tal fine determinate a livello locale nel rispetto delle competenze regionali di cui alla legge 22 febbraio 2001, n. 36;
+
+                            
+                        
+                        
+                            g)
+                            
+                                assicurare condizioni che consentano agli operatori di offrire, in regime di libero mercato, servizi innovativi ai cittadini ed agli utenti, incentivando cosi' il perseguimento degli obiettivi di qualita' da parte degli operatori del settore;
+
+                            
+                        
+                        
+                            h)
+                            
+                                assicurare l'osservanza dei principi di concorrenza e non discriminazione con riferimento alle attivita' di installazione delle infrastrutture di telecomunicazioni ed all'espletamento del relativo servizio al pubblico;
+
+                            
+                        
+                        
+                            i)
+                            
+                                favorire una adeguata diffusione delle infrastrutture di telecomunicazione sull'intero territorio nazionale;
+
+                            
+                        
+                        
+                            j)
+                            
+                                facilitare la realizzazione delle reti radio per le comunicazioni relative alle emergenze sanitarie ed alla protezione civile di cui, rispettivamente, al decreto del Ministro della sanita' in data 6 ottobre 1998, pubblicato nella Gazzetta Ufficiale n. 257 del 3 novembre 1998, ed al decreto del Ministro delle comunicazioni in data 22 dicembre 1998, pubblicato nella Gazzetta Ufficiale n. 302 del 29 dicembre 1998. ((1))
 
 ---------------
                         AGGIORNAMENTO (1)

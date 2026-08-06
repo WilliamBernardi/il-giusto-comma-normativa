@@ -8,8 +8,8 @@ codice_redazionale: 099G0538
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:40Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -55,10 +55,62 @@ Sono ammissibili al finanziamento le spese sostenute nel periodo di realizzazion
 
 Si considerano "sostenute" le spese effettuate alla data in cui avviene l'effettivo pagamento del bene o servizio.
 
+5.
+                    
+                        
+                            Per le spese relative a campionamenti, stoccaggio, materiale pubblicitario, materiali, attrezzature e macchinari non destinati alla vendita, ma alla dotazione della struttura estera, anziche' alla data di effettivo pagamento, e' ammesso il riferimento alla data di spossessamento o di invio all'estero del bene per l'utilizzo nell'ambito del programma finanziato. Sulla base di quanto precede, si considerano ammissibili le spese individuate ai seguenti punti:
+ 
+                        
+                        
+                            a)
+                            
+                                costi sostenuti dall'impresa precedentemente all'esecuzione del programma finanziato, per l'acquisto di materiali di abituale utilizzo (come ad esempio: materiale specifico e generico di officine, attrezzature e macchinari ecc.) e giacenti a magazzino che vengono inviati all'estero, in data successiva all'approvazione del programma da parte del comitato preposto, per la realizzazione del programma stesso;
+
+                            
+                        
+                        
+                            b)
+                            
+                                costi sostenuti dall'impresa per gli acquisti dei materiali destinati in modo specifico al programma approvato da parte del comitato ed inviati all'estero in data successiva alla predetta approvazione;
+
+                            
+                        
+                        
+                            c)
+                            
+                                temporanee esportazioni effettuate; in relazione all'esecuzione del programma, in data antecedente all'approvazione del programma, a fronte delle quali i relativi materiali possono essere:
+ convertiti in definitiva esportazione "franco valuta" in data successiva all'approvazione da parte del comitato (caso relativo, ad esempio, al precedente invio all'estero di macchinari: attrezzature ecc., che vengono successivamente destinati al programma, per la costituzione di centri di assistenza, filiali ecc.);
+ reimportati in data successiva all'approvazione del comitato ed in base alle tempistiche e modalita' previste dal programma.
+
 Il comitato puo' stabilire i limiti di finanziabilita' di ciascuna voce di spesa in relazione alla situazione economicofinanziaria e al settore di attivita' dell'impresa, alla tipologia del programma e delle relative spese, nonche' alle caratteristiche del mercato di destinazione.
 
 ## Art. 4. — Modalita' di realizzazione del programma
  Collaborazione con operatori locali
+
+1.
+                    
+                        
+                            I programmi possono essere realizzati:
+ 
+                        
+                        
+                            a)
+                            
+                                mediante gestione diretta, tramite la costituzione all'estero o il potenziamento di insediamenti durevoli, gestiti direttamente con l'impiego di proprio personale;
+
+                            
+                        
+                        
+                            b)
+                            
+                                mediante una societa' partecipata di diritto locale;
+
+                            
+                        
+                        
+                            c)
+                            
+                                mediante collaborazione con importatori, distributori, rappresentanti o altri tipi di imprese di diritto locale.
 
 Qualora l'impresa intenda realizzare il programma secondo le modalita' sub c) del precedente comma, nella domanda di finanziamento deve essere indicata la denominazione sociale dell'operatore locale, l'ubicazione della sede, il tipo di attivita' da esso svolta e la forma di collaborazione concordata, che deve prevedere l'utilizzo di locali dell'operatore estero e l'impiego di personale stabile in loco.
 
@@ -174,10 +226,106 @@ La valutazione dell'imputabilita' all'impresa della chiusura anticipata con cons
 ## Art. 15. — Realizzazione del programma
  e consolidamento dell'agevolazione
 
+1.
+                    
+                        
+                            Ai fini dell'adozione delle delibere di consolidamento da parte del comitato, il soggetto gestore:
+ 
+                        
+                        
+                            a)
+                            
+                                predispone una relazione discendente dal raffronto fra le spese approvate e quelle idoneamente documentate;
+
+                            
+                        
+                        
+                            b)
+                            
+                                trasmette copia della propria relazione al Ministero per l'acquisizione di un parere sulla validita' commerciale e promozionale dell'attivita' svolta dall'impresa e sul conseguimento degli obiettivi previsti nel programma finanziato;
+
+                            
+                        
+                        
+                            c)
+                            
+                                sottopone la propria relazione ed il parere del Ministero al comitato.
+
 Il Ministero esprime il proprio parere entro trenta giorni dalla ricezione della relativa richiesta.
+
+3.
+                    
+                        
+                            Le decisioni relative al consolidamento sono adottate dal comitato entro i tre mesi successivi alla scadenza del periodo di utilizzo. Esse sono basate sull'esame:
+ 
+                        
+                        
+                            a)
+                            
+                                della documentazione di spesa, prodotta dalle imprese;
+
+                            
+                        
+                        
+                            b)
+                            
+                                delle relazioni intermedia e finale, presentate dalle imprese;
+
+                            
+                        
+                        
+                            c)
+                            
+                                delle relazioni predisposte dal soggetto gestore;
+
+                            
+                        
+                        
+                            d)
+                            
+                                del parere del Ministero;
+
+                            
+                        
+                        
+                            e)
+                            
+                                dei risultati delle verifiche sulla realizzazione del programma effettuate dal Ministero, tramite gli uffici ICE o direttamente nel Paese di destinazione del programma.
 
 ## Art. 16. — Realizzazione totale, parziale o mancata
  realizzazione del programma
+
+1.
+                    
+                        
+                            Il comitato valuta se il programma sia stato realizzato totalmente, parzialmente o non sia stato realizzato e adotta, conseguentemente, le seguenti decisioni:
+ 
+                        
+                        
+                            a)
+                            
+                                in caso di realizzazione totale del programma approvato, delibera il consolidamento dal finanziamento e la restituzione dell'importo erogato ed idoneamente documentato con gli interessi a tasso agevolato e secondo le modalita' di cui all'articolo 10;
+
+                            
+                        
+                        
+                            b)
+                            
+                                in caso di realizzazione parziale del programma per cause non imputabili all'impresa, delibera il consolidamento dell'importo erogato ed idoneamente documentato, con conseguente rimborso dello stesso alle condizioni di cui alla lettera a);
+
+                            
+                        
+                        
+                            c)
+                            
+                                in caso di realizzazione parziale del programma per cause imputabili all'impresa, delibera la restituzione dell'importo erogato e idoneamente documentato, secondo le modalita' di cui all'articolo 10 e con gli interessi calcolati a tasso agevolato, qualora dalle spese sostenute risulti la realizzazione o il funzionamento dell'insediamento durevole preventivato. Qualora dalle spese sostenute e idoneamente documentate risulti che non sia stata realizzata la struttura estera o assicurato il funzionamento dell'insediamento durevole, come indicato sul preventivato importo, il comitato delibera di non consolidare l'importo e di far restituire l'importo erogato e la restituzione entro sei mesi dalla relativa comunicazione all'impresa, con gli interessi calcolati a tasso di riferimento;
+
+                            
+                        
+                        
+                            d)
+                            
+                                in caso di non realizzazione del programma e in caso di mancata o inidonea documentazione, il rimborso dell'importo erogato deve avvenire con gli interessi calcolati a tasso di riferimento ed entro sei mesi dalla relativa comunicazione all'impresa.
 
 La valutazione dell'imputabilita' della mancata o parziale realizzazione dei programmi e' effettuata dal comitato caso per caso, sulla base di criteri di massima adottati preventivamente in via generale con apposita deliberazione.
 

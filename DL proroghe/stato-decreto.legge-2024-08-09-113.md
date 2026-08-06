@@ -8,8 +8,8 @@ vigente: true
 source: normattiva-opendata
 collection: DL proroghe
 vigenza_date: 2026-01-01
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:39:27Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO-LEGGE
@@ -31,9 +31,59 @@ Ritenuta la straordinaria necessita' e urgenza di prevedere proroghe di termini 
 A pena di decadenza dall'agevolazione, gli operatori economici che hanno presentato la comunicazione di cui all'articolo 5, comma 1, del decreto del Ministro per gli affari europei, il Sud, le politiche di coesione e il PNRR 17 maggio 2024, pubblicato nella Gazzetta ufficiale n. 117 del 21 maggio 2024, inviano dal 18 novembre 2024 al 2 dicembre 2024 all'Agenzia delle entrate una comunicazione integrativa attestante l'avvenuta realizzazione entro il termine del 15 novembre 2024 degli investimenti indicati nella comunicazione presentata ai sensi del predetto articolo 5, comma 1. La comunicazione integrativa di cui al primo periodo, a pena del rigetto della comunicazione stessa, reca, altresi', l'indicazione dell'ammontare del credito di imposta maturato in relazione agli investimenti effettivamente realizzati e delle relative fatture elettroniche e degli estremi della certificazione prevista dall'articolo 7, comma 14, del predetto decreto ministeriale. Fermo restando quanto previsto dal secondo periodo, mediante la comunicazione integrativa di cui al ((primo periodo possono)) essere indicati anche investimenti realizzati nel periodo compreso tra il 1° gennaio 2024 e il 15 novembre 2024, ulteriori rispetto a quelli risultanti dalla comunicazione presentata ai sensi dell'articolo 5, comma 1, del citato decreto ministeriale, ovvero di importo superiore rispetto a quello risultante dalla citata comunicazione, unitamente all'ammontare del maggior credito d'imposta maturato e alla documentazione probatoria di cui al secondo periodo. Le disposizioni di cui al presente comma si applicano anche qualora la comunicazione inviata ai sensi dell'articolo 5, comma 1, del citato decreto ministeriale rechi l'indicazione di investimenti agevolabili e gia' realizzati alla data di trasmissione della medesima comunicazione.
 Con provvedimento adottato dal direttore dell'Agenzia delle entrate entro trenta giorni dalla data di entrata in vigore del presente decreto e' approvato il modello di comunicazione integrativa, con le relative istruzioni, da utilizzare per le finalita' di cui al presente comma e sono definite le relative modalita' di trasmissione telematica.
 
+2.
+                        
+                            
+                                Ai fini del rispetto del limite di spesa di cui all'articolo 16, comma 6, del decreto-legge 19 settembre 2023, n. 124, convertito, con modificazioni, dalla legge 13 novembre 2023, n. 162, l'ammontare massimo del credito d'imposta fruibile da ciascun beneficiario e' pari all'importo del credito d'imposta risultante dalla comunicazione integrativa di cui al comma 1, primo e secondo periodo, moltiplicato per la percentuale resa nota con provvedimento del direttore dell'Agenzia delle entrate, da emanare entro dieci giorni dalla scadenza del termine di presentazione delle comunicazioni integrative. Detta percentuale e' ottenuta rapportando il limite di spesa all'ammontare complessivo dei crediti di imposta indicati nelle comunicazioni integrative di cui al citato comma 1. Qualora il credito di imposta fruibile, come determinato ai sensi del primo periodo, risulti inferiore alla misura definita ai sensi del comma 1 del suddetto articolo 16, l'autorizzazione di spesa di cui al comma 6 del medesimo articolo e' incrementata, ferma restando la predetta misura e nel limite massimo complessivo di 1.600 milioni di euro per l'anno 2024, mediante versamento all'entrata del bilancio dello Stato e successiva riassegnazione in spesa, nel seguente ordine, delle risorse di cui: 
+ 
+                            
+                            
+                                a)
+                                
+                                    all'articolo 8 del presente decreto nel limite massimo di 750 milioni di euro per l'anno 2024, attingendo in modo proporzionale alle relative autorizzazioni di spesa; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    all'articolo 1, comma 177, della legge 30 dicembre 2020, n. 178, con imputazione alla quota afferente alle amministrazioni centrali ai sensi dell'articolo 1, comma 178, lettera b), numero 1), della medesima legge n. 178 del 2020, nel limite massimo di 560 milioni di euro per l'anno 2024; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    all'articolo 26, comma 7, del decreto-legge 17 maggio 2022, n. 50 convertito con modificazioni dalla legge 15 luglio 2022, n. 91, nel limite massimo di 290 milioni di euro per l'anno 2024.
+
 I versamenti all'entrata di cui al comma 2 possono essere disposti direttamente alla contabilita' speciale n. 1778 intestata all'Agenzia delle entrate.
 
 Qualora il credito di imposta fruibile, come determinato ai sensi del comma 2 ((del presente articolo)) , risulti pari al limite massimo di cui all'articolo 16, comma 1 , del decreto-legge 19 settembre 2023, n. 124, convertito, con modificazioni, dalla legge 13 novembre 2023, n. 162, con il provvedimento del Direttore dell'Agenzia delle entrate di cui al comma 2 ((del presente articolo)) e' determinato l'ammontare massimo del credito di imposta residuo fruibile da ciascun beneficiario in relazione agli ulteriori o maggiori investimenti realizzati di cui al terzo periodo del comma 1 ((del presente articolo)) . Detta percentuale e' determinata, fermo restando il limite di cui al citato articolo 16, comma 1 ((, del decreto-legge n. 124 del 2023)) , rapportando l'importo delle eventuali risorse residue risultanti a seguito dell'applicazione della procedura ((prevista dal comma 2 del presente articolo)) all'ammontare complessivo dei crediti di imposta indicati nelle comunicazioni integrative ai sensi del comma 1, terzo periodo, del presente articolo.
+
+4.
+                        
+                            
+                                Con il medesimo provvedimento del direttore dell'Agenzia delle entrate di cui al comma 2, sono altresi' resi noti, per ciascuna regione della Zona economica speciale per il Mezzogiorno - ZES Unica ed in modo distinto per ciascuna delle categorie di microimprese, di piccole imprese, di medie imprese e di grandi imprese come definite dalla Carta degli aiuti a finalita' regionale 2022-2027: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il numero delle comunicazioni inviate entro i termini previsti dal comma 1; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la tipologia di investimenti realizzati entro la data del 15 novembre 2024; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    l'ammontare complessivo del credito di imposta complessivamente richiesto.
 
 Fermo restando quanto previsto dall'articolo 16, comma 5, secondo periodo, del citato decreto-legge n. 124 del 2023, qualora il provvedimento di cui ai commi 2 e 4 del presente articolo indichi un credito di imposta inferiore a quello massimo riconoscibile nelle zone assistite delle regioni Campania, Puglia, Basilicata, Calabria, Sicilia, Sardegna e Molise, ammissibili alla deroga prevista dall'articolo 107, paragrafo 3, lettera a), del Trattato sul funzionamento dell'Unione europea, e nelle zone assistite della regione Abruzzo, ammissibili alla deroga prevista dall'articolo 107, paragrafo 3, lettera c), del Trattato sul funzionamento dell'Unione europea, come individuate dalla Carta degli aiuti a finalita' regionale 2022-2027, il Ministero delle imprese e del made in Italy e le regioni della ZES unica rendono nota entro il 15 gennaio 2025, mediante apposita comunicazione inviata al Dipartimento per le politiche di coesione e il Sud della Presidenza del Consiglio dei ministri, la possibilita' di agevolare i medesimi investimenti a valere sulle risorse dei programmi della politica di coesione europea relativi al periodo di programmazione 2021- 2027 di loro titolarita', ove ne ricorrano i presupposti e nel rispetto delle procedure, dei vincoli territoriali, programmatici e finanziari previsti da detti programmi, indicando l'entita' delle risorse finanziarie disponibili per il finanziamento della misura. Il Ministero delle imprese e del made in Italy e le regioni che intendono avvalersi della facolta' di cui al primo periodo definiscono con propri provvedimenti le modalita' di riconoscimento dell'agevolazione e gli adempimenti richiesti agli operatori economici, anche tenendo conto di quanto previsto dall'articolo 16 del citato decreto-legge n. 124 del 2023 e dal citato decreto del Ministro per gli affari europei, il Sud, le politiche di coesione e il PNRR 17 maggio 2024.
 
@@ -47,6 +97,30 @@ All'articolo 24-bis, comma 2, primo periodo, del testo unico delle imposte sui r
 Le disposizioni di cui al comma 1 si applicano ai soggetti che hanno trasferito nel territorio dello Stato la residenza ai fini dell'articolo 43 del codice civile successivamente alla data di entrata in vigore del presente decreto.
 
 ## Art. 2-bis. — (Disposizioni in materia di benefici corrisposti ai lavoratori dipendenti)
+
+1.
+                        
+                            
+                                Nelle more dell'introduzione del regime fiscale sostitutivo previsto dall'articolo 5, comma 1, lettera a), numero 2.4), della legge 9 agosto 2023, n. 111, per l'anno 2024 e' erogata un'indennita', di importo pari a 100 euro, ai lavoratori dipendenti per i quali ricorrono congiuntamente le seguenti condizioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il lavoratore ha un reddito complessivo non superiore a 28.000 euro; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il lavoratore ha almeno un figlio, anche se nato fuori del matrimonio, riconosciuto, adottivo, affiliato o affidato, che si trova nelle condizioni previste dall'articolo 12, comma 2, del testo unico delle imposte sui redditi, di cui al decreto del Presidente della Repubblica 22 dicembre 1986, n. 917;
+                                
+                            
+                            
+                                c)
+                                
+                                    l'imposta lorda determinata sui redditi di cui all'articolo 49 del citato testo unico delle imposte sui redditi, con esclusione di quelli indicati nel comma 2, lettera a), del medesimo articolo, percepiti dal lavoratore, e' di importo superiore a quello della detrazione spettante ai sensi dell'articolo 13, comma 1, del citato testo unico delle imposte sui redditi.
 
 L'indennita' di cui al comma 1, che non concorre alla formazione del reddito complessivo del lavoratore dipendente, e' rapportata al periodo di lavoro.
 
@@ -62,6 +136,46 @@ I sostituti d'imposta di cui agli articoli 23 e 29 del decreto del Presidente de
 
 L'indennita' di cui al comma 1 e' rideterminata nella dichiarazione dei redditi presentata ((dal lavoratore beneficiario)) ed e' riconosciuta anche qualora non sia stata erogata dal sostituto d'imposta ovvero se le remunerazioni percepite non sono state assoggettate a ritenuta. L'indennita' risultante dalla dichiarazione dei redditi e' computata nella determinazione del saldo dell'imposta sul reddito delle persone fisiche. Qualora l'indennita' erogata dal sostituto d'imposta risulti non spettante o spettante in misura inferiore, il relativo importo e' restituito in sede di dichiarazione.
 
+6.
+                        
+                            
+                                Agli oneri derivanti dal presente articolo, valutati in 100,3 milioni di euro per l'anno 2024, si provvede: 
+ 
+                            
+                            
+                                a)
+                                
+                                    quanto a 34 milioni di euro per l'anno 2024, mediante corrispondente riduzione dell'importo di cui all'articolo 1, comma 185, della legge 30 dicembre 2023, n. 213; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    quanto a 32,3 milioni di euro per l'anno 2024, mediante corrispondente riduzione del Fondo per interventi strutturali di politica economica, di cui all'articolo 10, comma 5, del decreto-legge 29 novembre 2004, n. 282, convertito, con modificazioni, dalla legge 27 dicembre 2004, n. 307; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    quanto a 34 milioni di euro per l'anno 2024, mediante corrispondente riduzione dello stanziamento del fondo speciale di parte corrente iscritto, ai fini del bilancio triennale 2024-2026, nell'ambito del programma "Fondi di riserva e speciali" della missione "Fondi da ripartire" dello stato di previsione del Ministero dell'economia e delle finanze per l'anno 2024, allo scopo parzialmente utilizzando: 
+ 1) l'accantonamento relativo al Ministero dell'economia e delle finanze, per 1.597.255 euro; 
+ 2) l'accantonamento relativo al Ministero delle imprese e del made in Italy, per 469.799 euro; 
+ 3) l'accantonamento relativo al Ministero del lavoro e delle politiche sociali, per 1.074.267 euro; 
+ 4) l'accantonamento relativo al Ministero della giustizia, per 13.806 euro; 
+ 5) l'accantonamento relativo al Ministero degli affari esteri e della cooperazione internazionale, per 15.558.680 euro; 
+ 6) l'accantonamento relativo al Ministero dell'istruzione e del merito, per 729.527 euro; 
+ 7) l'accantonamento relativo al Ministero dell'interno, per 21.844 euro; 
+ 8) l'accantonamento relativo al Ministero dell'ambiente e della sicurezza energetica, per 1.611.835 euro; 
+ 9) l'accantonamento relativo al Ministero delle infrastrutture e dei trasporti, per 6.103.790 euro; 
+ 10) l'accantonamento relativo al Ministero dell'universita' e della ricerca, per 1.638.839 euro; 
+ 11) l'accantonamento relativo al Ministero della difesa, per 2.157.569 euro; 
+ 12) l'accantonamento relativo al Ministero dell'agricoltura, della sovranita' alimentare e delle foreste, per 254.188 euro; 
+ 13) l'accantonamento relativo al Ministero della cultura, per 2.670.467 euro; 
+ 14) l'accantonamento relativo al Ministero della salute, per 40.338 euro; 
+ 15) l'accantonamento relativo al Ministero del turismo, per 57.796 euro.
+
 ## Art. 2-ter. — (( (Trattamento sanzionatorio per i soggetti che non aderiscono al concordato preventivo biennale o ne decadono). ))
 
 ((
@@ -76,11 +190,139 @@ Le disposizioni di cui al comma 1 del presente articolo si applicano anche nei c
 
 I soggetti che hanno applicato gli indici sintetici di affidabilita' fiscale (ISA) e che aderiscono, entro il 31 ottobre 2024, al concordato preventivo biennale di cui agli articoli 6 e seguenti del decreto legislativo 12 febbraio 2024, n. 13, possono adottare il regime di ravvedimento di cui al presente articolo, versando l'imposta sostitutiva delle imposte sui redditi e delle relative addizionali nonche' dell'imposta regionale sulle attivita' produttive, di cui ai commi da 2 a 7 del presente articolo.
 
+2.
+                        
+                            
+                                Ai fini del comma 1, la base imponibile dell'imposta sostitutiva delle imposte sui redditi e delle relative addizionali e' costituita dalla differenza tra il reddito d'impresa o di lavoro autonomo gia' dichiarato, alla data di entrata in vigore della legge di conversione del presente decreto, in ciascuna annualita' e il valore dello stesso incrementato nella misura del: 
+ 
+                            
+                            
+                                a)
+                                
+                                    5 per cento per i soggetti con punteggio ISA pari a 10; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    10 per cento per i soggetti con punteggio ISA pari o superiore a 8 e inferiore a 10; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    20 per cento per i soggetti con punteggio ISA pari o superiore a 6 e inferiore a 8; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    30 per cento per i soggetti con punteggio ISA pari o superiore a 4 e inferiore a 6; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    40 per cento per i soggetti con punteggio ISA pari o superiore a 3 e inferiore a 4; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    50 per cento per i soggetti con punteggio ISA inferiore a
+
 3. Ai fini del comma 1, la base imponibile dell'imposta sostitutiva dell'imposta regionale sulle attivita' produttive e' costituita dalla differenza tra il valore della produzione netta gia' dichiarato in ciascuna annualita' e il valore dello stesso incrementato nella misura stabilita dal comma 2.
+
+4.
+                        
+                            
+                                Per le annualita' 2018, 2019 e 2022, i soggetti di cui al comma 1 applicano l'imposta sostitutiva delle imposte sui redditi e delle relative addizionali con l'aliquota del: 
+ 
+                            
+                            
+                                a)
+                                
+                                    10 per cento, se nel singolo periodo d'imposta il livello di affidabilita' fiscale e' pari o superiore a 8; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    12 per cento, se nel singolo periodo d'imposta il livello di affidabilita' fiscale e' pari o superiore a 6 ma inferiore a 8; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    15 per cento, se nel singolo periodo d'imposta il livello di affidabilita' fiscale e' inferiore a 6.
 
 Per le annualita' 2018, 2019 e 2022, i soggetti di cui al comma 1 applicano l'imposta sostitutiva dell'imposta regionale sulle attivita' produttive con l'aliquota del 3,9 per cento.
 
 In considerazione della pandemia di COVID-19, per i soli periodi d'imposta 2020 e 2021, i soggetti di cui al comma 1 applicano le imposte sostitutive di cui ai commi 4 e 5 diminuite del 30 per cento.
+
+6-bis.
+                        
+                            
+                                I soggetti di cui al comma 1 del presente articolo , con un ammontare di ricavi di cui all'articolo 85, comma 1, esclusi quelli di cui alle lettere c), d) ed e), o compensi di cui all'articolo 54, comma 1, del testo unico delle imposte sui redditi, di cui al decreto del Presidente della Repubblica 22 dicembre 1986, n. 917, fino a 5.164.569 euro e che non determinano il reddito con criteri forfetari, possono accedere al regime di ravvedimento di cui al presente articolo nel caso in cui sussista una delle seguenti circostanze anche per una delle annualita' comprese tra il 2018 e il 2022: 
+ 
+                            
+                            
+                                a)
+                                
+                                    hanno dichiarato una delle cause di esclusione dall'applicazione degli ISA correlate alla diffusione della pandemia da COVID-19, introdotte con i decreti del Ministro dell'economia e delle finanze adottati in attuazione del combinato disposto dell'articolo 9-bis, comma 7, del decreto-legge 24 aprile 2017, n. 50, convertito, con modificazioni, dalla legge 21 giugno 2017, n. 96, e dell'articolo 148 del decreto-legge 19 maggio 2020, n. 34, convertito, con modificazioni, dalla legge 17 luglio 2020, n. 77; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    hanno dichiarato la sussistenza di una condizione di non normale svolgimento dell'attivita' di cui all'articolo 9-bis, comma 6, lettera a), del decreto-legge 24 aprile 2017, n. 50, convertito, con modificazioni, dalla legge 21 giugno 2017, n. 96. 
+
+                                
+                            
+                            
+                                b-bis)
+                                
+                                    hanno dichiarato una causa di esclusione dall'applicazione degli ISA correlata all'esercizio di due o piu' attivita' di impresa, non rientranti nel medesimo ISA, qualora l'importo dei ricavi dichiarati relativi alle attivita' non rientranti tra quelle prese in considerazione dall'ISA relativo all'attivita' prevalente superi il 30 per cento dell'ammontare totale dei ricavi dichiarati.
+
+6-ter.
+                        
+                            
+                                Per le annualita' in cui sussistono le circostanze previste dal comma 6-bis, lettere a), b) e b-bis), ai fini del calcolo dell'imposta sostitutiva da versare per il ravvedimento: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la base imponibile dell'imposta sostitutiva delle imposte sui redditi e delle relative addizionali e' costituita dalla differenza tra il reddito d'impresa o di lavoro autonomo gia' dichiarato, alla data di entrata in vigore della legge di conversione del presente decreto, per l'annualita' interessata e il valore dello stesso incrementato nella misura del 25 per cento; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'imposta sostitutiva delle imposte sui redditi e delle relative addizionali e' determinata applicando all'incremento di cui alla lettera a) l'aliquota del 12,5 per cento; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    la base imponibile dell'imposta sostitutiva dell'imposta regionale sulle attivita' produttive e' costituita dalla differenza tra il valore della produzione netta gia' dichiarato per l'annualita' interessata e il valore dello stesso incrementato nella misura del 25 per cento; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    l'imposta sostitutiva dell'imposta regionale sulle attivita' produttive e' determinata applicando all'incremento di cui alla lettera c) l'aliquota del 3,9 per cento.
 
 Le imposte sostitutive delle imposte sui redditi e delle relative addizionali e dell'imposta regionale sulle attivita' produttive, determinate con le modalita' di cui al comma 6-ter sono diminuite del 30 per cento, ad eccezione delle ipotesi di cui al comma 6-bis, lettera b-bis)";
 
@@ -89,6 +331,38 @@ In ogni caso, il valore complessivo dell'imposta sostitutiva delle imposte sui r
 Il versamento dell'imposta sostitutiva di cui al presente articolo e' effettuato in un'unica soluzione entro il 31 marzo 2025 oppure mediante pagamento rateale in un massimo di ventiquattro rate mensili di pari importo maggiorate di interessi calcolati al tasso legale con decorrenza dal 31 marzo 2025. In caso di pagamento rateale, l'opzione, per ciascuna annualita', si perfeziona mediante il pagamento di tutte le rate. Il pagamento di una delle rate, diverse dalla prima, entro il termine di pagamento della rata successiva non comporta la decadenza dal beneficio della rateazione. ((E' considerato tempestivo il pagamento, in unica soluzione o della prima rata o unica rata degli importi dovuti, effettuato entro i cinque giorni successivi alla scadenza prevista, purche' il pagamento sia comunque eseguito anteriormente alla notifica degli atti di cui al comma 9)). Non si fa comunque luogo al rimborso delle somme versate a titolo di imposta sostitutiva in ipotesi di decadenza dalla rateizzazione. Con riguardo ai redditi prodotti in forma associata dai soggetti di cui all'articolo 5 del testo unico delle imposte sui redditi, di cui al decreto del Presidente della Repubblica 22 dicembre 1986, n. 917, imputati ai singoli soci o associati, ovvero in caso di redditi prodotti dai soggetti di cui all'articolo 73, comma 1, lettera a), del suddetto testo unico, imputati ai singoli soci ai sensi degli articoli 115 e 116 del medesimo testo unico, il versamento dell'imposta sostitutiva delle imposte sui redditi e delle relative addizionali puo' essere eseguito dalla societa' o associazione in luogo dei singoli soci o associati.
 
 Il ravvedimento non si perfeziona se il pagamento, in unica soluzione o della prima rata delle imposte sostitutive, e' successivo alla notifica di processi verbali di constatazione o schemi di atto di accertamento, di cui all'articolo 6-bis della legge 27 luglio 2000, n. 212, ovvero di atti di recupero di crediti inesistenti.
+
+10.
+                        
+                            
+                                Eseguito il versamento in unica rata ovvero nel corso del regolare pagamento rateale di cui al comma 8, nei confronti dei soggetti di cui al comma 1, per i periodi d'imposta 2018, 2019, 2020, 2021 e 2022, le rettifiche del reddito d'impresa o di lavoro autonomo di cui all'articolo 39 del decreto del Presidente della Repubblica 29 settembre 1973, n. 600, nonche' quelle di cui all'articolo 54, secondo comma, secondo periodo, del decreto del Presidente della Repubblica 26 ottobre 1972, n. 633, non possono essere effettuate, fatta eccezione per la ricorrenza di uno dei seguenti casi: 
+ 
+                            
+                            
+                                a)
+                                
+                                    intervenuta decadenza dal concordato preventivo biennale di cui all'articolo 22 del decreto legislativo 12 febbraio 2024, n. 13; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    applicazione nei confronti dei soggetti di cui al comma 1 di una misura cautelare, personale o reale, ovvero notifica di un provvedimento di rinvio a giudizio per uno dei delitti previsti dal decreto legislativo 10 marzo 2000, n. 74, ad eccezione delle fattispecie di cui agli articoli 4, 10-bis, 10-ter e 10-quater, comma 1, nonche' dell'articolo 2621 del codice civile e degli articoli 648-bis, 648-ter e 648-ter.1 del codice penale, commessi nel corso degli anni d'imposta dal 2018 al 2022; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    mancato perfezionamento del ravvedimento per decadenza dalla rateazione di cui al comma 8 del presente articolo; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    dichiarazione infedele della causa di esclusione di cui al comma 6-bis.
 
 Nei casi di cui alla lettera b) del comma 10 e in caso di mancato pagamento di una delle rate previste dal comma 8, la decadenza intervenuta riguarda unicamente l'annualita' di riferimento. In tutti i casi di cui al primo periodo restano comunque validi i pagamenti gia' effettuati, non si da' luogo a rimborso ed e' possibile procedere ad accertamento secondo i termini di cui al comma 14.
 
@@ -141,6 +415,31 @@ Al minor gettito derivante dal comma 4, valutato in 1,54 milioni di euro per l'a
 
 ## Art. 6. — Tassazione dei redditi di talune categorie di lavoratori frontalieri
 
+1.
+                        
+                            
+                                I lavoratori dipendenti residenti nei comuni di cui all'allegato 1 ((al presente decreto)) possono optare per l'applicazione, sui redditi da lavoro dipendente percepiti in Svizzera, di una imposta sostitutiva dell'imposta sul reddito delle persone fisiche e delle addizionali regionali e comunali, pari al 25 per cento delle imposte applicate in Svizzera sugli stessi redditi, se sussistono le seguenti condizioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il lavoratore si qualifica come frontaliere ai sensi dell'articolo 2 dell'Accordo tra la Repubblica italiana e la Confederazione svizzera relativo all'imposizione dei lavoratori frontalieri, fatto a Roma il 23 dicembre 2020, ratificato e reso esecutivo ai sensi della legge 13 giugno 2023, n. 83; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il lavoratore, alla data di entrata in vigore dell'Accordo di cui alla lettera a), svolgeva, ovvero tra il 31 dicembre 2018 e la predetta data aveva svolto, un'attivita' di lavoro dipendente in Svizzera nei cantoni dei Grigioni, del Ticino e del Vallese per un datore di lavoro residente in Svizzera o avente una stabile organizzazione o una base fissa in Svizzera; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    i redditi sono assoggettati a tassazione in Svizzera secondo i criteri indicati nell'articolo 3 del citato Accordo tra la Repubblica italiana e la Confederazione svizzera.
+
 A seguito dell'esercizio dell'opzione di cui al comma 1, in deroga a quanto previsto dall'articolo 11, comma 4, del testo unico delle imposte sui redditi di cui al decreto del Presidente della Repubblica 22 dicembre 1986, n. 917, le imposte pagate in Svizzera sui redditi assoggettati all'imposta sostitutiva non sono ammesse in detrazione.
 
 L'opzione di cui al comma 1 e' esercitata dal contribuente nella dichiarazione dei redditi. Il versamento dell'imposta sostitutiva di cui al comma 1 e' effettuato entro il termine per il versamento a saldo delle imposte sui redditi.
@@ -158,6 +457,33 @@ Le disposizioni del presente articolo si applicano a decorrere dal periodo d'imp
 ## Art. 6-bis. — (( (Modifiche alla legge 14 luglio 2023, n. 93, in materia di disabilitazione dell'accesso a contenuti diffusi abusivamente). ))
 
 ((
+
+1.
+                        
+                            
+                                Alla legge 14 luglio 2023, n. 93, sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    all'articolo 2: 
+ 1) al comma 1, la parola: "univocamente" e' sostituita dalla seguente: "prevalentemente"; 
+ 2) al comma 3, primo periodo, dopo le parole: "compresi i prestatori di servizi di accesso alla rete" sono inserite le seguenti: "nonche' i fornitori di servizi di VPN e quelli di DNS pubblicamente disponibili ovunque residenti e ovunque localizzati"; 
+ 3) al comma 3, quarto periodo, dopo le parole: "destinatario del provvedimento" sono aggiunte le seguenti: "garantendo altresi' ad ogni soggetto che dimostri di possedere un interesse qualificato la possibilita' di chiedere la revoca dei provvedimenti di inibizione all'accesso, per documentata carenza dei requisiti di legge, anche sopravvenuta"; 
+ 4) al comma 5, primo periodo, dopo le parole: "ai prestatori di servizi di accesso alla rete," sono inserite le seguenti: "compresi i fornitori di servizi di VPN e quelli di DNS pubblicamente disponibili, ovunque residenti e ovunque localizzati,"; 
+ 5) al comma 5, terzo periodo, dopo le parole: "provvedono comunque" sono inserite le seguenti: ", entro il medesimo termine massimo di trenta minuti dalla notificazione del provvedimento di disabilitazione,"; 
+ 6) dopo il comma 5 e' inserito il seguente: 
+ "5-bis. I prestatori di servizi di assegnazione di indirizzi IP, il Registro italiano per il country code Top Level Domain (ccTLD) .it, i prestatori di servizi di registrazione di nome a dominio per i ccTLD diversi da quello italiano e per i nomi a generic Top Level Domain (gTLD), provvedono periodicamente a riabilitare la risoluzione dei nomi di dominio e l'instradamento del traffico di rete verso gli indirizzi IP bloccati ai sensi del presente articolo, decorsi almeno sei mesi dal blocco, e che non risultino utilizzati per finalita' illecite"; 
+ 7) dopo il comma 7 e' aggiunto il seguente: 
+ "7-bis. L'Autorita', al fine di garantire il piu' efficiente avvio del funzionamento della piattaforma e l'esecuzione efficace degli ordini di inibizione, fissa, limitatamente al primo anno di funzionamento della piattaforma, limiti quantitativi massimi di indirizzi IP e di Fully Qualified Domain Name (FQDN) che possono essere oggetto di blocco contemporaneamente. Decorso il primo anno di operativita' della piattaforma nessun limite quantitativo e' consentito. L'Autorita', al fine di garantire il corretto funzionamento del processo di oscuramento dei FQDN e degli indirizzi IP, in base al raggiungimento della capacita' massima dei sistemi di blocco implementata dagli Internet Service Provider (ISP) secondo le specifiche tecniche gia' definite ovvero anche in base alla segnalazione dei soggetti di cui al comma 4, ordina di riabilitare la risoluzione DNS dei nomi di dominio e di sbloccare l'instradamento del traffico di rete verso gli indirizzi IP bloccati da almeno sei mesi, pubblicando la lista aggiornata degli indirizzi IP e dei nomi di dominio DNS sulla piattaforma tecnologica unica con funzionamento automatizzato, di cui all'articolo 6, comma 2"; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    all'articolo 6, comma 2, dopo le parole: "destinatari dei provvedimenti di disabilitazione" sono inserite le seguenti: "di cui al medesimo articolo 2, comma 5".
 
 ))
 
@@ -241,6 +567,39 @@ Per le risorse del ((Piano nazionale per gli investimenti complementari)) divers
 
 ((
 
+1.
+                        
+                            
+                                All'articolo 1 della legge 30 dicembre 2018, n. 145, sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    al comma 140, la lettera c) e' sostituita dalla seguente: 
+ "c) il contributo puo' essere richiesto per investimenti destinati a opere pubbliche in materia di messa in sicurezza del territorio a rischio idrogeologico, di messa in sicurezza di strade, ponti e viadotti nonche' di messa in sicurezza ed efficientamento energetico degli edifici, con precedenza per gli edifici scolastici"; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    al comma 141, il primo e il secondo periodo sono sostituiti dai seguenti: "L'ammontare del contributo attribuito a ciascun ente e' determinato, entro il 15 novembre dell'esercizio precedente all'anno di riferimento del contributo, con decreto del Ministero dell'interno, di concerto con il Ministero dell'economia e delle finanze. Qualora l'entita' delle richieste pervenute superi l'ammontare delle risorse disponibili, l'attribuzione e' effettuata a favore degli enti che presentano la minore incidenza del risultato di amministrazione, al netto della quota accantonata, rispetto alle entrate finali di competenza, ascrivibili ai titoli 1, 2, 3, 4 e 5 dello schema di bilancio previsto dal decreto legislativo 23 giugno 2011, n. 118, risultanti dai rendiconti della gestione del penultimo esercizio precedente a quello di riferimento, assicurando comunque ai comuni con risultato di amministrazione, al netto della quota accantonata, negativo, un ammontare non superiore alla meta' delle risorse disponibili"; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    al comma 143, le parole: ", fermi restando in ogni caso le scadenze e gli obblighi previsti dal Piano nazionale di ripresa e resilienza" sono soppresse; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    al comma 148-ter, dopo il secondo periodo e' aggiunto il seguente: "Parimenti non sono soggetti a revoca i contributi riferiti all'anno 2022, assegnati con decreto del Ministero dell'interno del 18 luglio 2022, di cui all'avviso pubblicato nella Gazzetta Ufficiale n. 175 del 28 luglio 2022, relativi alle opere per le quali alla data del 15 settembre 2024 risulta stipulato il contratto di affidamento dei lavori".
+
 ))
 
 ## Art. 8-ter. — (( (Disposizioni urgenti in materia di interventi di rigenerazione urbana). ))
@@ -269,6 +628,105 @@ All'articolo 26 del ((testo unico in materia di societa' a partecipazione pubbli
 
 ((1-bis. All'articolo 4, comma 9-quater, del citato testo unico di cui al decreto legislativo 19 agosto 2016, n. 175, le parole: "e dei prodotti lattiero-caseari" sono sostituite dalle seguenti: ", dei prodotti lattiero-caseari e dei prodotti ortofrutticoli"))
 
+2.
+                        
+                            
+                                All'articolo 8 della legge 10 ottobre 1990, n. 287, sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il comma 2-quater e' abrogato; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    al comma 2-quinquies le parole: «2-bis, 2-ter e 2-quater» sono sostituite dalle seguenti: «2-bis e 2-ter».
+
+3.
+                        
+                            
+                                Ai fini dell'attuazione della fase pilota della Riforma 1.15 del PNRR, di cui alla milestone M1C1-118, sono tenute alla produzione e trasmissione degli schemi di bilancio per l'esercizio 2025, ((di cui al comma 6)), le amministrazioni pubbliche di seguito elencate: 
+ 
+                            
+                            
+                                a)
+                                
+                                    le amministrazioni centrali incluse nel bilancio dello Stato, la Presidenza del Consiglio dei ministri e le agenzie fiscali; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    gli enti e le istituzioni nazionali di ricerca; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    le regioni e le province autonome; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    le province e le citta' metropolitane; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    i comuni con popolazione residente pari o superiore a cinquemila abitanti al 1° gennaio 2024; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    gli enti e le aziende del servizio sanitario nazionale; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    le universita' e gli istituti di istruzione universitaria pubblici; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    le camere di commercio, industria, artigianato e agricoltura e le loro unioni regionali; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    le autorita' di sistema portuale; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    gli enti nazionali di previdenza e assistenza; 
+
+                                
+                            
+                            
+                                m)
+                                
+                                    gli enti e le amministrazioni di cui all'articolo 1, comma 2, della legge 31 dicembre 2009, n. 196, diverse da quelle di cui alle lettere da a) a l) del presente comma, fatto salvo quanto disposto dal comma 4.
+
 Sono esclusi dalla predisposizione degli schemi di bilancio, per l'esercizio 2025, le societa', nonche' gli enti ((di cui al comma 3)), lettera m), che, con riferimento alle risultanze del bilancio di esercizio o rendiconto del 2023, hanno un numero di dipendenti a tempo indeterminato inferiore a cinquanta unita' e, contestualmente, un volume complessivo annuo di entrate correnti ed in conto capitale, per le amministrazioni in contabilita' finanziaria, ovvero un valore della produzione annua, per le amministrazioni in contabilita' economico-patrimoniale, inferiore a 8,8 milioni di euro. Restano, altresi', esclusi dalla predisposizione degli schemi di bilancio per l'esercizio 2025 gli istituti scolastici di ogni ordine e grado, gli istituti di alta formazione artistica, musicale e coreutica (AFAM) e gli uffici dotati di autonomia speciale del Ministero della cultura, nonche' le amministrazioni pubbliche assoggettate a procedure di liquidazione. Restano altresi' esclusi dalla predisposizione degli schemi di bilancio gli organi costituzionali e a rilevanza costituzionale.
 
 Con determina del Ragioniere generale dello Stato, da adottare entro sessanta giorni dalla data di entrata in vigore del presente decreto, sono individuate le amministrazioni di cui al comma 3.
@@ -293,6 +751,42 @@ All'attuazione delle disposizioni di cui ai commi da 3 a 11 si provvede nell'amb
 Allo scopo di consentire l'integrazione e l'adeguamento dei sistemi informativi delle amministrazioni pubbliche, anche in vista dell'adozione del sistema di contabilita' economico-patrimoniale unico e per le finalita' di cui al presente articolo, nell'ottica della valorizzazione del patrimonio immobiliare pubblico e dell'efficientamento della spesa pubblica, con uno o piu' decreti del Ministro dell'economia e delle finanze sono individuati i criteri e le modalita' per avviare processi di interoperabilita' con la banca dati degli immobili pubblici, realizzata dal Ministero dell'economia e delle finanze ai sensi dell'articolo 2, comma 222, della legge 23 dicembre 2009, n. 191, dei dati, dei censimenti e delle informazioni relativi al patrimonio immobiliare pubblico, posseduti in banche dati delle amministrazioni di cui all'articolo 1, comma 2, del decreto legislativo 30 marzo 2001, n. 165, nonche', sentito il Ministero dell'interno, dell'Agenzia istituita ai sensi del decreto-legge 4 febbraio 2010, n. 4, convertito, con modificazioni, dalla legge 31 marzo 2010, n. 50. Per l'attuazione delle disposizioni di cui al presente comma e' autorizzata la spesa di 50.000 euro per l'anno 2024. Ai relativi oneri si provvede mediante corrispondente riduzione dello stanziamento del fondo speciale di conto capitale iscritto, ai fini del bilancio triennale 2024-2026, nell'ambito del programma "Fondi di riserva e speciali" della missione "Fondi da ripartire" dello stato di previsione del Ministero dell'economia e delle finanze per l'anno 2024, allo scopo parzialmente utilizzando l'accantonamento relativo al medesimo Ministero.
 
 12-ter. All'articolo 8, comma 20, secondo periodo, del decreto-legge 2 marzo 2024, n. 19, convertito, con modificazioni, dalla legge 29 aprile 2024, n. 56, dopo le parole: "con risorse europee" sono inserite le seguenti: "e per gli adempimenti connessi con l'attuazione della nuova governance europea"))
+
+13.
+                        
+                            
+                                In considerazione del fatto che la concessionaria Societa' Autostrade Alto Adriatico S.p.A., ai sensi dell'articolo 6 dell'ordinanza del Presidente del Consiglio dei Ministri 8 settembre 2008, n. 3702, provvede alla copertura economica e finanziaria dei lavori di competenza del Commissario delegato per l'emergenza determinatasi nel settore del traffico e della mobilita' nell'autostrada A4, nella tratta Quarto d'Altino-Trieste e nel raccordo autostradale Villesse-Gorizia, garantendo altresi' al medesimo ((Commissario)) il necessario supporto tecnico-operativo-logistico per la progettazione e la realizzazione di tali lavori, non si applicano alla suddetta Societa', sino alla durata dello stato di emergenza e comunque non oltre il 31 dicembre 2024, le seguenti disposizioni nonche' gli eventuali ulteriori provvedimenti normativi o regolamentari che dovessero comunque disciplinare le medesime materie: 
+ 
+                            
+                            
+                                a)
+                                
+                                    
+                                        articolo 62 del decreto-legge 25 giugno 2008, n. 112, convertito, con modificazioni, dalla legge 6 agosto 2008, n. 133; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    
+                                        articolo 6, comma 14, del decreto-legge 31 maggio 2010, n. 78, convertito, con modificazioni, dalla legge 30 luglio 2010, n. 122; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    
+                                        articolo 5, commi 2, 3 e 7 del decreto-legge 6 luglio 2012, n. 95, convertito, con modificazioni, dalla legge 7 agosto 2012, n. 135; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    
+                                        articolo 1, commi 2, 3 e 4 del decreto-legge 31 agosto 2013, n. 101, convertito, con modificazioni, dalla legge 30 ottobre 2013, n. 125.
 
 ((
 
@@ -348,6 +842,26 @@ Il decreto del Ministro dell'economia e delle finanze, di concerto con il Minist
 
 ## Art. 11-ter. — (Disposizioni per il sostegno alla ricerca clinica e traslazionale)
 
+1.
+                        
+                            
+                                All'articolo 42 del decreto-legge 19 maggio 2020, n. 34, convertito, con modificazioni, dalla legge 17 luglio 2020, n. 77, sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    al comma 5: 
+ 1) le parole: "sottoposta alla vigilanza del Ministero dello sviluppo economico, che, mediante l'adozione di un atto di indirizzo, puo' definirne gli obiettivi strategici" sono sostituite dalle seguenti: "sottoposta alla vigilanza del Ministero delle imprese e del made in Italy e del Ministero della salute che, mediante l'adozione di un atto di indirizzo, possono definirne gli obiettivi strategici"; 
+ 2) e' aggiunto, in fine, il seguente periodo: "La Fondazione puo' altresi' operare nel settore della ricerca, prevalentemente clinica e traslazionale, nel campo biomedico e in quello dell'organizzazione e della gestione dei servizi sanitari di ricovero e cura di alta specializzazione e di eccellenza"; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    al comma 6 e' aggiunto, in fine, il seguente periodo: "Quando opera nella gestione dei servizi sanitari e di cura di elevata specialita', la Fondazione, acquisito il parere vincolante della regione nel cui territorio sono erogati i servizi predetti, agisce attraverso la costituzione di un soggetto non profit partecipato dalla stessa regione".
+
 All'articolo 1, comma 951, primo periodo, della legge 30 dicembre 2021, n. 234, dopo le parole: "sono da destinare alla promozione della ricerca e riconversione industriale del settore biomedicale" sono aggiunte le seguenti: "nonche' alla ricerca clinica e traslazionale nel campo biomedico e in quello dell'organizzazione e della gestione dei servizi sanitari di ricovero e cura di alta specializzazione e di eccellenza".
 
 Al fine di garantire l'integrita' e la continuita' delle prestazioni specialistiche del Servizio sanitario nazionale, in caso di vendita di complessi aziendali operanti nei settori di cui al comma 1, lettera a), numero 2), disposta nell'ambito di una procedura di amministrazione straordinaria, e' riconosciuto il diritto di prelazione alle fondazioni di diritto pubblico o di diritto privato istituite per legge che svolgono attivita' nel settore della ricerca biomedicale o che sono abilitate ad operare nei settori di cui al comma 1, lettera a), numero 2), agli enti pubblici dotati di competenza nei predetti settori nonche' agli organismi dai medesimi costituiti o partecipati. In tale ipotesi il commissario straordinario menziona l'esistenza del diritto di prelazione nell'avviso di vendita e, contestualmente alla sua pubblicazione, trasmette l'avviso al Ministero delle imprese e del made in Italy il quale ne da' idonea pubblicita' mediante pubblicazione nel proprio sito internet istituzionale. All'esito della valutazione delle offerte pervenute, compiuta ai sensi dell'articolo 63 del decreto legislativo 8 luglio 1999, n. 270, il commissario straordinario comunica al Ministero delle imprese e del made in Italy le condizioni dell'offerta piu' vantaggiosa e il Ministero, nei successivi dieci giorni, procede con la pubblicazione della comunicazione nel proprio sito internet istituzionale. Il diritto di prelazione e' esercitato, entro trenta giorni dalla pubblicazione di cui al terzo periodo, mediante invio di una dichiarazione di impegno all'acquisto del complesso aziendale nei tempi e alle condizioni contenuti nell'offerta risultata piu' vantaggiosa e con il versamento della cauzione prevista nell'avviso di vendita. La dichiarazione di impegno e' inviata all'indirizzo di posta elettronica indicato nella procedura. Decorso il termine di trenta giorni senza che il diritto di prelazione sia esercitato, il complesso aziendale e' trasferito all'offerente risultato aggiudicatario. Se non sono pervenute offerte, con la comunicazione di cui al terzo periodo il commissario straordinario indica le condizioni della vendita fissate nell'avviso di vendita e la dichiarazione di impegno all'acquisto, fermi i tempi e le altre condizioni stabiliti nell'avviso di vendita, e' efficace anche se contiene un prezzo inferiore di non oltre un quarto al prezzo stabilito nello stesso avviso.
@@ -361,6 +875,24 @@ La regione Lazio puo' costituire o partecipare alla costituzione di soggetti non
 Disposizioni urgenti in materia di promozione dell'attivita' di ricerca svolta dalle universita'
 
 Per l'anno 2024 le risorse stanziate sul fondo per il finanziamento ordinario delle universita' ((...)) ai sensi dell'articolo 238, comma 5, del decreto-legge 19 maggio 2020, n. 34, convertito, con modificazioni, dalla legge 17 luglio 2020, n. 77 sono destinate alla integrazione della quota base del medesimo fondo di cui all'articolo 12 del decreto-legge 20 giugno 2017, n. 91, convertito, con modificazioni, dalla legge 3 agosto 2017, n. 123. Le universita' statali concorrono al conseguimento degli obiettivi di promozione dell'attivita' di ricerca svolta dalle universita' e alla valorizzazione del contributo del Paese in coerenza con le linee generali d'indirizzo della programmazione triennale 2024-2026, adottate ai sensi dell'articolo 1-ter del decreto-legge 31 gennaio 2005, n. 7, convertito, con modificazioni, dalla legge 31 marzo 2005, n. 43, utilizzando le risorse a tal fine destinate per gli anni 2025 e 2026.
+
+2.
+                        
+                            
+                                All'articolo 15 del decreto-legge 31 maggio 2024, n. 71, convertito, con modificazioni, dalla legge 29 luglio 2024, n. 106 sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    al comma 1-bis ((, alinea)), dopo le parole: «31 dicembre 2025», sono inserite le seguenti: «e con presa di servizio entro il 31 dicembre 2026»; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    al comma 1-quinquies, le parole: «nei termini indicati dai medesimi provvedimenti» sono sostituite dalle seguenti: «entro i termini, rispettivamente, del 31 dicembre 2026 e del 31 dicembre 2027» e le parole: «derivanti dall'applicazione del presente articolo» sono sostituite dalle seguenti: «e non docente».
 
 ## Art. 13. — Misure economiche urgenti in materia di collegi di merito
 
@@ -409,6 +941,32 @@ Al fine di sostenere gli operatori della filiera suinicola danneggiati dal blocc
 La concessione dei contributi economici di cui al comma 1 e' subordinata alla preventiva verifica della compatibilita' dei medesimi con la normativa dell'Unione europea in materia di aiuti di Stato nel settore agricolo e agroalimentare.
 
 Agli oneri derivanti dal comma 1, pari complessivamente a 10 milioni di euro per l'anno 2024, si provvede, quanto a 5 milioni di euro, mediante le risorse rivenienti dalle economie residue derivanti dall'attuazione degli interventi di cui all'articolo 26, comma 1, del decreto-legge 27 gennaio 2022, n. 4, convertito, con modificazioni, dalla legge 28 marzo 2022, n. 25, e, quanto a 5 milioni di euro, mediante le risorse rivenienti dalle economie residue derivanti dall'attuazione degli interventi di cui all'articolo 223, comma 1, del decreto-legge 19 maggio 2020, n. 34, convertito, con modificazioni, dalla legge 17 luglio 2020, n. 77, gia' nella disponibilita' dell'AGEA. Alla compensazione degli effetti finanziari in termini di fabbisogno e di indebitamento netto, pari a 10 milioni di euro per l'anno 2024, si provvede mediante corrispondente riduzione del Fondo per la compensazione degli effetti finanziari non previsti a legislazione vigente conseguenti all'attualizzazione di contributi pluriennali, di cui all'articolo 6, comma 2, del decreto-legge 7 ottobre 2008, n. 154, convertito, con modificazioni, dalla legge 4 dicembre 2008, n. 189.
+
+4.
+                        
+                            
+                                All'articolo 2 del decreto-legge 17 febbraio 2022, n. 9, convertito, con modificazioni, dalla legge 7 aprile 2022, n. 29, sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    al comma 2-bis, al primo periodo, dopo le parole: "idonee al contenimento dei cinghiali selvatici" sono aggiunte le seguenti: "; spetta alle societa' concessionarie autostradali e agli enti proprietari delle strade attuare gli interventi necessari per il rafforzamento delle barriere stradali e autostradali mediante la chiusura, ove possibile, dei varchi che corrono al di sotto del solido stradale, quali strade bianche, tombini, sottopassi o corsi d'acqua, ovvero al di sopra nei tratti in galleria, previa approvazione da parte del Commissario straordinario degli interventi e delle modalita' di finanziamento dei corrispondenti oneri" e, al terzo periodo, dopo le parole: "per l'anno 2022" sono aggiunte le seguenti: "e di 13 milioni di euro per l'anno 2025"; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    al comma 2-quinquies, le parole: ", pari a 10 milioni di euro per l'anno 2022," sono soppresse, dopo le parole: "si provvede" sono inserite le seguenti: ", quanto a 10 milioni di euro per l'anno 2022," e dopo le parole: "dalla legge 28 marzo 2022, n. 25" sono aggiunte le seguenti: ", quanto a 10 milioni di euro per l'anno 2025, mediante corrispondente riduzione del Fondo istituito dall'articolo 1, comma 443, della legge 30 dicembre 2023, n. 213, e, quanto a 3 milioni di euro per l'anno 2025, mediante corrispondente riduzione del fondo di conto capitale di cui all'articolo 34-ter, comma 5, della legge 31 dicembre 2009, n. 196, iscritto nello stato di previsione della spesa del Ministero della salute per il triennio 2024-2026"; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    dopo il comma 2-quinquies e' inserito il seguente: "2-sexies.
+Al fine di potenziare la ricerca delle carcasse nelle aree destinate al depopolamento intorno alle barriere artificiali deputate al confinamento dei cinghiali, il Commissario straordinario e' altresi' autorizzato a riconoscere un contributo, nel limite massimo di 150 euro per unita', in favore dei soggetti che, abilitati al contenimento con metodi selettivi, conferiscono carcasse nelle aree di stoccaggio o nei macelli autorizzati. A tal fine e' autorizzata la spesa di 1 milione di euro per l'anno 2025, che confluisce nella contabilita' speciale intestata al Commissario straordinario".
 
 5. Agli oneri derivanti dalle disposizioni di cui al comma 4, lettera c), pari complessivamente a 1 milione di euro per l'anno 2025, si provvede mediante riduzione delle proiezioni dello stanziamento del fondo speciale di parte corrente iscritto, ai fini del bilancio triennale 2024-2026, nell'ambito del programma "Fondi di riserva e speciali" della missione "Fondi da ripartire" dello stato di previsione del Ministero dell'economia e delle finanze per l'anno 2024, allo scopo parzialmente utilizzando l'accantonamento del Ministero dell'agricoltura, della sovranita' alimentare e delle foreste))
 
@@ -467,6 +1025,24 @@ Il segretario che, durante i periodi di incarico conferiti ai sensi del presente
 
 I periodi di incarico svolti ai sensi del presente articolo rilevano esclusivamente ai fini economici, ferma restando la sola maturazione dell'anzianita' di servizio prevista dall'articolo 31, comma 1, lettera b), del citato CCNL del 16 maggio 2001.
 
+6.
+                        
+                            
+                                All'articolo 16-ter, comma 1, del decreto-legge 30 dicembre 2019, n. 162, convertito, con modificazioni, dalla legge 28 febbraio 2020, n. 8, sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    al primo periodo, le parole: "sei mesi" sono sostituite dalle seguenti: "un mese, con svolgimento di almeno 120 ore di formazione, anche con modalita' telematiche," e le parole: "due mesi" sono sostituite dalle seguenti: "un mese"; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    al terzo periodo, le parole: "Nel biennio successivo alla" sono sostituite dalle seguenti: "Nei tre anni dalla".
+
 All'articolo 12-bis, comma 2, del decreto-legge 27 gennaio 2022, n. 4, convertito, con modificazioni, dalla legge 28 marzo 2022, n. 25, la lettera a) e' abrogata.
 
 Le procedure semplificate per l'accesso alla carriera di segretario comunale e provinciale, di cui all'articolo 25-bis del decreto-legge 14 agosto 2020, n. 104, convertito, con modificazioni, dalla legge 13 ottobre 2020, n. 126, possono essere applicate ai bandi di concorso per il reclutamento dei segretari comunali e provinciali fino al 31 dicembre 2026. 
@@ -493,9 +1069,255 @@ Con decreto del Ministro dell'economia e delle finanze, da adottare entro sessan
 
 ## Art. 19. — Misure in materia di revisione della spesa in favore delle regioni
 
+1.
+                        
+                            
+                                All'articolo 1 della legge 30 dicembre 2023, n. 213, sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    al comma 527: 
+ 1) al secondo periodo, le parole «31 maggio 2024» sono sostituite dalle seguenti: «20 settembre 2024»; 
+ 2) al terzo periodo, le parole «30 giugno 2024» sono sostituite dalle seguenti: «20 ottobre 2024»; 
+ 3) al quarto periodo, le parole «entro il 31 luglio 2024 per l'anno 2024 ed» sono soppresse; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    dopo il comma 527, sono inseriti i seguenti: 
+ «527-bis. Per il solo anno 2024, il contributo di cui al comma 527 e' corrisposto secondo le modalita' di cui ai commi 527-ter, 527-quater e 527-quinquies. 
+ 527-ter. Al fine di assolvere in termini di indebitamento netto e fabbisogno al contributo alla finanza pubblica previsto dal comma 527, le regioni a statuto ordinario che sono in disavanzo di amministrazione al 31 dicembre 2023, compreso il disavanzo da debito autorizzato e non contratto, con legge regionale autorizzano, ((entro novanta giorni dalla data di entrata in vigore della presente disposizione)), l'iscrizione di un fondo nella parte corrente del primo esercizio del bilancio di previsione 2024-2026, di importo pari a quelli indicati ((nell'allegato VI-bis)) alla presente legge, fermo restando il rispetto dell'equilibrio di bilancio di parte corrente di cui all'articolo 40 del decreto legislativo 23 giugno 2011, n. 118. ((Restano valide le disposizioni delle leggi regionali in vigore antecedentemente alla data di entrata in vigore della presente disposizione, se sono coerenti con le disposizioni del presente comma e l'importo del fondo e' capiente rispetto al contributo previsto dall'allegato VI-bis)). Alla fine dell'esercizio 2024, il fondo di cui al primo periodo, su cui non e' possibile disporre impegni, costituisce un'economia che concorre al ripiano del disavanzo di amministrazione, da effettuare per un importo pari a quello previsto nel bilancio di previsione per l'esercizio 2024 incrementato dal suddetto fondo. 
+ 527-quater. Qualora((,)) in sede di approvazione del rendiconto 2024, il disavanzo di amministrazione ((non sia migliorato)), rispetto a quello dell'esercizio precedente, di un importo almeno pari a quello definitivamente iscritto alla voce "Disavanzo di amministrazione" del bilancio di previsione per l'esercizio 2024 incrementato dell'importo del fondo di cui al comma 527-ter, fatto salvo l'incremento del disavanzo da debito autorizzato e non contratto per il finanziamento di investimenti dell'esercizio 2024, le quote del disavanzo non recuperate sono interamente applicate al primo esercizio del bilancio di previsione in corso di gestione, in aggiunta alle quote del recupero previste dai piani di rientro in corso di gestione con riferimento al medesimo esercizio. La costituzione del fondo di cui al comma 527-ter e' finanziata attraverso risorse di parte corrente, ad esclusione degli stanziamenti di spesa riguardanti «Redditi da lavoro dipendente», sanita' e trasferimenti agli enti locali. 
+ 527-quinquies. Il concorso alla finanza pubblica in termini di saldo netto da finanziare di cui al comma 527 per le Regioni a statuto ordinario e' realizzato mediante la riduzione per un importo pari a 305 milioni di euro nell'anno 2024 delle risorse iscritte nell'ambito della missione «Politiche economico-finanziarie e di bilancio e tutela della finanza pubblica», programma «Oneri finanziari relativi alla gestione della tesoreria», azione «Interessi sui conti di tesoreria» dello stato di previsione del Ministero dell'economia e delle finanze.»; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    dopo l'allegato VI, e' inserito il seguente: 
+ «Allegato VI-bis 
+ (Articolo 1, comma 527-ter) 
+ 
+((...))
+                                    
+                                    
+                                        
+                                            
+                                                 REGIONI 
+                                            
+                                            
+                                                Percentuali di riparto 
+                                            
+                                            
+                                                Riparto contributo RSO per l'anno 2024 
+                                            
+                                        
+                                        
+                                            
+                                                Abruzzo 
+                                            
+                                            
+                                                3,16 
+                                            
+                                            
+                                                9.645.865,79 
+                                            
+                                        
+                                        
+                                            
+                                                Basilicata 
+                                            
+                                            
+                                                2,50 
+                                            
+                                            
+                                                7.620.665,79 
+                                            
+                                        
+                                        
+                                            
+                                                Calabria 
+                                            
+                                            
+                                                4,46 
+                                            
+                                            
+                                                13.604.765,79 
+                                            
+                                        
+                                        
+                                            
+                                                Campania 
+                                            
+                                            
+                                                10,54 
+                                            
+                                            
+                                                32.146.518,41 
+                                            
+                                        
+                                        
+                                            
+                                                Emilia-Romagna 
+                                            
+                                            
+                                                8,51 
+                                            
+                                            
+                                                25.945.065,79 
+                                            
+                                        
+                                        
+                                            
+                                                Lazio 
+                                            
+                                            
+                                                11,70 
+                                            
+                                            
+                                                35.695.113,16 
+                                            
+                                        
+                                        
+                                            
+                                                Liguria 
+                                            
+                                            
+                                                3,10 
+                                            
+                                            
+                                                9.457.407,90 
+                                            
+                                        
+                                        
+                                            
+                                                Lombardia 
+                                            
+                                            
+                                                17,48 
+                                            
+                                            
+                                                53.321.705,27 
+                                            
+                                        
+                                        
+                                            
+                                                Marche 
+                                            
+                                            
+                                                3,48 
+                                            
+                                            
+                                                10.621.223,69 
+                                            
+                                        
+                                        
+                                            
+                                                Molise 
+                                            
+                                            
+                                                0,96 
+                                            
+                                            
+                                                2.919.492,10 
+                                            
+                                        
+                                        
+                                            
+                                                Piemonte 
+                                            
+                                            
+                                                8,23 
+                                            
+                                            
+                                                25.092.992,10 
+                                            
+                                        
+                                        
+                                            
+                                                Puglia 
+                                            
+                                            
+                                                8,15 
+                                            
+                                            
+                                                24.865.686,83 
+                                            
+                                        
+                                        
+                                            
+                                                Toscana 
+                                            
+                                            
+                                                7,82 
+                                            
+                                            
+                                                23.842.813,17 
+                                            
+                                        
+                                        
+                                            
+                                                Umbria 
+                                            
+                                            
+                                                1,96 
+                                            
+                                            
+                                                5.984.260,52 
+                                            
+                                        
+                                        
+                                            
+                                                Veneto 
+                                            
+                                            
+                                                7,95 
+                                            
+                                            
+                                                24.236.423,69 
+                                            
+                                        
+                                        
+                                            
+                                                TOTALE 
+                                            
+                                            
+                                                100,00 
+                                            
+                                            
+                                                305.000.000,00 
+                                            
+                                        
+                                    
+                                    
+».
+
 ## Art. 20. — Sostegno al turismo nei comuni ubicati all'interno di comprensori e delle aree sciistiche della dorsale appenninica
 
 Al fine di contrastare la crisi causata dalla scarsita' di precipitazioni nevose e dalla conseguente diminuzione delle presenze turistiche, nel periodo dal 1° novembre 2023 al 31 marzo 2024, nei comuni montani degli Appennini, e' riconosciuto, nel rispetto della normativa europea in materia di aiuti di Stato, un contributo a fondo perduto in favore degli esercenti attivita' di impianti di risalita a fune e di innevamento artificiale, nonche' di preparazione delle piste da sci, dei noleggiatori di attrezzature per sport invernali, dei maestri di sci, iscritti negli appositi albi professionali, e delle scuole di sci presso le quali i medesimi maestri di sci risultano operanti, delle agenzie di viaggio, dei tour operator, dei gestori di stabilimenti termali, delle imprese turistico-ricettive e delle imprese di ristorazione, che svolgono la propria attivita' nei comuni ubicati all'interno dei comprensori e delle aree sciistiche della dorsale appenninica. A tal fine e' autorizzata la spesa di euro 13.000.000 per l'anno 2024.
+
+2.
+                        
+                            
+                                Agli oneri derivanti dall'attuazione del comma 1, pari a euro 13.000.000 per l'anno 2024, si provvede: 
+ 
+                            
+                            
+                                a)
+                                
+                                    quanto a euro 6.500.000, mediante corrispondente riduzione dello stanziamento del fondo speciale di parte corrente iscritto, ai fini del bilancio triennale 2024-2026, nell'ambito del programma «Fondi di riserva e speciali» della missione «Fondi da ripartire» dello stato di previsione del Ministero dell'economia e delle finanze per l'anno 2024, allo scopo parzialmente utilizzando l'accantonamento relativo al Ministero del turismo; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    quanto a euro 6.500.000, mediante corrispondente versamento all'entrata del bilancio dello Stato delle somme in conto residui del fondo ((di cui)) all'articolo 4 del decreto-legge 10 agosto 2023 n. 104, convertito, con modificazioni, dalla legge 9 ottobre 2023, n. 136.
 
 Ai fini del rilascio del contributo di cui al comma 1 possono presentare istanza al Ministero del turismo i soggetti indicati al medesimo comma che, nel periodo dal 1° novembre 2023 al 31 marzo 2024, hanno subito una riduzione dei ricavi di cui all'articolo 85, comma 1, lettere a) e b), del Testo unico delle imposte sui redditi di cui al decreto del Presidente della Repubblica 22 dicembre 1986, n. 917, non inferiore al ((30 per cento)) rispetto a quelli conseguiti nel periodo dal 1° novembre 2021 al 31 marzo 2022.
 

@@ -8,8 +8,8 @@ vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
 vigenza_date: 2025-02-25
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:39Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -43,9 +43,55 @@ Entrambe le sezioni di cui ai commi 1 e 2 sono di seguito denominate «albo».
 
 ## Art. 2. — Soggetti iscrivibili
 
+1.
+                        
+                            
+                                Nell'albo sono iscritti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    le societa' di capitale aventi per oggetto la gestione delle attivita' di liquidazione e di accertamento dei tributi e quelle di riscossione dei tributi e di altre entrate degli enti locali, nonche' le societa' di capitale che svolgono esclusivamente le funzioni e le attivita' di supporto propedeutiche all'accertamento e alla riscossione delle entrate degli enti locali e delle societa' da essi partecipate: 
+ 1) i cui soci non esercitano il controllo ai sensi dell'articolo 2359, commi primo e secondo del codice civile, nei confronti di altri soggetti iscritti nell'albo; 
+ 2) i cui soci non effettuano l'attivita' di commercializzazione della pubblicita'; 
+ 3) che non siano controllate da societa' che svolgono l'attivita' di cui al n. 2); 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le societa' di cui all'articolo 52, comma 5, lettera b), numero 4), del decreto legislativo n. 446 del 1997.
+
 In ogni caso, le societa' di cui alle lettere a) e b) del comma 1 non possono svolgere l'attivita' di commercializzazione della pubblicita'.
 
 Nella sezione separata dell'albo sono iscritte le societa' di capitale che svolgono esclusivamente le funzioni e le attivita' di supporto propedeutiche all'accertamento e alla riscossione delle entrate degli enti locali e delle societa' da essi partecipate.
+
+4.
+                        
+                            
+                                Nell'albo possono richiedere di essere iscritti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    gli operatori degli Stati membri stabiliti in un Paese dell'Unione europea che esercitano le attivita' di cui ai commi 1 e 3; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le societa' a capitale interamente pubblico, di cui all'articolo 52, comma 5, lettera b), numero 3), del decreto legislativo n. 446 del 1997; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    l'agente della riscossione, «Agenzia delle entrate-Riscossione» di cui al decreto legge 22 ottobre 2016, n. 193, convertito, con modificazioni, dalla legge 1° dicembre 2006, n. 225, di seguito denominato «ADER» che esercita l'attivita' di riscossione delle entrate degli enti locali ai sensi dell'articolo 2 del citato decreto legge n. 193 del 2016. In caso di richiesta ADER e' iscritta di diritto nell'albo e ad essa non si applicano le disposizioni del comma 1, lettera a), n. 1 del presente articolo nonche' degli articoli 4, 5, 6, 7, 8, 9, 10, 12, 14, commi 2 e 3, 15, 16 e 17.
 
 Non e' iscrivibile, in ogni caso, la societa' precedentemente cancellata dall'albo, salvo il caso in cui la cancellazione e' stata richiesta dalla societa' stessa.
 
@@ -81,13 +127,125 @@ L'esistenza del requisito finanziario del capitale interamente versato non puo' 
 
 ## Art. 7. — Requisiti tecnici
 
+1.
+                        
+                            
+                                Ai fini dell'iscrizione nell'albo, le societa' interessate sono tenute a dimostrare i seguenti requisiti tecnici: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il possesso di idoneo apparato organizzativo funzionale allo svolgimento dei servizi affidati, nonche' la presenza delle necessarie figure professionali; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la disponibilita' di idonei sistemi informativi le cui caratteristiche tecniche consentano la necessaria interoperabilita' tra il sistema operativo della societa' e quelli degli enti locali in gestione, con obbligo di fornitura a questi ultimi delle necessarie abilitazioni al fine di garantire l'interscambio continuo di informazioni e l'accesso alla banca dati relativa alla gestione delle attivita' affidate con possibilita' di estrarne copie.
+
 ## Art. 8.
 
 Requisiti di onorabilita' e professionalita'
 
+1.
+                        
+                            
+                                Non possono essere legali rappresentanti, amministratori, sindaci, dipendenti muniti di rappresentanza, procuratori generali o speciali, soci di societa' iscritte nell'albo: 
+ 
+                            
+                            
+                                a)
+                                
+                                    coloro che, per legge o per provvedimento giudiziale, non hanno la libera amministrazione dei loro beni ovvero sono in stato di fallimento dichiarato, salvi gli effetti della riabilitazione; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    coloro che sono stati sottoposti a misure di prevenzione disposte dall'autorita' giudiziaria, ai sensi del decreto legislativo 6 settembre 2011, n. 159, salvi gli effetti della riabilitazione; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    coloro che sono stati condannati con sentenza irrevocabile, salvi gli effetti della riabilitazione, a: 
+ 1) pena detentiva non inferiore a sei mesi per uno dei reati previsti dalle norme che disciplinano l'attivita' bancaria, finanziaria, mobiliare, assicurativa e dalle norme in materia di mercati e valori mobiliari e di strumenti di pagamento; 
+ 2) pena detentiva non inferiore a sei mesi per uno dei delitti previsti nel titolo XI del libro V del codice civile e nel regio decreto 16 marzo 1942, n. 267; 
+ 3) reclusione non inferiore ad un anno, per un delitto contro la pubblica amministrazione, contro la fede pubblica, contro il patrimonio, contro l'ordine pubblico, contro l'economia pubblica ovvero per un delitto in materia tributaria; 
+ 4) pena detentiva per un reato di associazione per delinquere di tipo mafioso; 
+ 5) reclusione non inferiore a due anni, per un qualunque delitto non colposo; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    coloro che siano stati condannati ad una delle pene di cui alla lettera c), con sentenza che applica la pena su richiesta delle parti, salvo il caso dell'estinzione del reato.
+
+2.
+                        
+                            
+                                I legali rappresentanti e gli amministratori anche temporanei delle societa' iscritte nell'albo devono essere in possesso dei seguenti requisiti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    assenza delle cause di incompatibilita' di cui all'articolo 9; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    possesso almeno di titolo di studio di scuola secondaria di secondo grado o, in mancanza, di idonea esperienza professionale almeno quinquennale in un ente o in una societa' che svolga un'attivita' in campo tributario, finanziario e contabile.
+
 ## Art. 9.
 
 Cause di incompatibilita'
+
+1.
+                        
+                            
+                                Non possono essere legali rappresentanti, amministratori, sindaci, dipendenti muniti di rappresentanza, procuratori generali o speciali, soci di societa' iscritte nell'albo: 
+ 
+                            
+                            
+                                a)
+                                
+                                    i membri del Parlamento e del Governo; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    i presidenti, i sindaci, i consiglieri e gli assessori degli enti locali affidanti, nonche' i membri degli organi di controllo sugli atti degli enti locali, limitatamente all'ambito territoriale in cui esercitano il loro mandato; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    i ministri di culto; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    il coniuge ed i parenti entro il primo grado dei soggetti di cui alle lettere a), b) e c); 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    i pubblici dipendenti, salvo che ricorra l'autorizzazione prevista dall'articolo 53 del decreto legislativo 30 marzo 2001, n. 165.
 
 Resta ferma l'applicazione delle altre norme in materia di incompatibilita' previste, in via generale, dalla legislazione vigente.
 
@@ -101,6 +259,42 @@ Per la partecipazione alle gare per l'affidamento dei servizi di liquidazione e 
 L'eventuale inesistenza dei requisiti attestati comporta, oltre a quanto previsto dall'articolo 76 del decreto del Presidente della Repubblica n. 445 del 2000, anche la cancellazione dall'albo e la decadenza dalle gestioni, ai sensi degli articoli 14 e 16.
 
 ## Art. 12. — Obblighi degli iscritti in ordine alla revisione annuale
+
+1.
+                        
+                            
+                                Ai fini della revisione annuale per la verifica della sussistenza dei requisiti cui e' subordinata l'iscrizione nell'albo, gli iscritti sono tenuti a far pervenire alla Direzione legislazione tributaria e federalismo fiscale del Ministero dell'economia e delle finanze, esclusivamente tramite posta elettronica certificata: 
+ 
+                            
+                            
+                                a)
+                                
+                                    entro il 31 marzo di ciascun anno una specifica dichiarazione, resa ai sensi del citato articolo 47 del decreto del Presidente della Repubblica n. 445 del 2000 attestante: ((1)) 
+ 1) la permanenza dei requisiti previsti dal presente regolamento per l'iscrizione; 
+ 2) il rispetto dell'obbligo previsto dall'articolo 53, comma 1, secondo periodo, del decreto legislativo n. 446 del 1997, il quale prevede che sono escluse le attivita' di incasso diretto; 
+ 3) di non aver effettuato, direttamente o indirettamente, anticipazioni finanziarie comunque onerose nei confronti degli enti locali affidanti, non previste dagli atti di gara o dal contratto; 
+ 4) di aver fornito agli enti locali affidanti adeguate cauzioni a garanzia delle gestioni in atto, ove previste dagli atti di gara o dal contratto; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la relazione sulla gestione dell'attivita' svolta, inviata all'ente affidante entro il bimestre successivo alla chiusura dell'esercizio finanziario, redatta sulla base di uno schema approvato con decreto del Direttore Generale delle Finanze entro sei mesi dalla pubblicazione nella Gazzetta Ufficiale della Repubblica Italiana del presente regolamento; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    entro trenta giorni dalla sua approvazione, il bilancio d'esercizio; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    entro trenta giorni dalla comunicazione, i dati o notizie richiesti dalla Commissione.
 
 ---------------
                             AGGIORNAMENTO (1)
@@ -117,15 +311,174 @@ Per lo svolgimento delle attivita' di cui al comma 1, la Direzione legislazione 
 
 La cancellazione dall'albo puo' essere richiesta dalla societa' iscritta in qualsiasi momento.
 
+2.
+                        
+                            
+                                La Commissione procede alla cancellazione, anche su istanza dell'ente locale affidante, per i seguenti motivi: 
+ 
+                            
+                            
+                                a)
+                                
+                                    per il venir meno dei requisiti di cui all'articolo 2; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    per aver fornito da parte dei legali rappresentanti o dei soci false attestazioni in ordine a quanto prescritto dall'articolo 5; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    per aver conferito il servizio in subappalto a terzi in violazione delle disposizioni di cui al richiamato decreto legislativo n. 50 del 2016 o a terzi non iscritti nell'albo; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    per la scoperta preesistenza o la mancata rimozione di una delle cause di incompatibilita' previste dall'articolo 9; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    per gravi irregolarita' o reiterati abusi commessi nell'acquisizione o nella conduzione dei servizi; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    per il venir meno dei requisiti finanziari, tecnici e di onorabilita' e professionalita' di cui agli articoli 6, 7 e 8; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    per aver rifiutato l'esibizione della documentazione richiesta o per non aver presentato alle prescritte scadenze la documentazione di cui all'articolo 12; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    il mancato rispetto, definitivamente accertato, degli obblighi derivanti dalle leggi in materia di lavoro, tributaria e previdenziale, nonche' dei contratti collettivi di lavoro degli addetti, susseguente alla contestazione dell'addebito; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    il mancato rispetto dell'obbligo di cui all'articolo 53, comma 1, del decreto legislativo n. 446 del 1997.
+
 La cancellazione dall'albo comporta la decadenza da tutte le gestioni.
 
 ## Art. 15. — Sospensione dell'iscrizione nell'albo
+
+1.
+                        
+                            
+                                La Commissione procede alla sospensione dell'iscrizione nell'albo, anche su istanza dell'ente locale affidante, per i seguenti motivi: 
+ 
+                            
+                            
+                                a)
+                                
+                                    per violazione degli obblighi derivanti dalle leggi in materia di lavoro, tributaria e previdenziale, nonche' dei contratti collettivi di lavoro degli addetti; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    per aver ritardato l'esibizione della documentazione richiesta; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    per aver compiuto irregolarita' nella conduzione del servizio che non rivestono carattere di gravita' tale da comportare la cancellazione di cui all'articolo 14; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    per aver assunto, da parte dei legali rappresentanti o dei soci, la condizione di imputato per i reati indicati dall'articolo 8, comma 1, lettera c), salvo che gli stessi vengano sostituiti da altri soggetti; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    per la mancata osservanza delle disposizioni di cui al Regolamento (UE) 2016/679 del Parlamento europeo e del Consiglio del 27 aprile 2016 accertata con provvedimento sanzionatorio emanato dal Garante per la protezione dei dati personali; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    per la mancata osservanza delle disposizioni di cui al decreto legislativo 21 novembre 2007, n. 231; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    per il mancato rispetto nei confronti dei cittadini e delle imprese delle disposizioni recate dal citato decreto legislativo n. 82 del 2005 segnalato dall'Agenzia per l'Italia Digitale (AgID).
 
 La Commissione assegna un termine non inferiore a sessanta giorni e non superiore a centoventi giorni, ulteriormente prorogabile fino a un massimo di altri centoventi giorni, per la regolarizzazione degli adempimenti prescritti, decorso inutilmente il quale procede alla cancellazione a norma dell'articolo 14, comma 2.
 
 La sospensione dall'albo inibisce la partecipazione alle gare per l'affidamento dei servizi ma non comporta decadenza dalle gestioni in atto.
 
 ## Art. 16. — Decadenza
+
+1.
+                        
+                            
+                                La Commissione dispone la decadenza dalla gestione, anche su istanza dell'ente locale affidante, nei seguenti casi: 
+ 
+                            
+                            
+                                a)
+                                
+                                    per la cancellazione dall'albo; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    per non aver iniziato il servizio alla data fissata senza giustificato motivo; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    per inosservanza degli obblighi previsti dall'atto di affidamento e dal relativo capitolato d'oneri; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    per non aver prestato o adeguato la cauzione stabilita per l'effettuazione del servizio; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    per aver omesso la presentazione del conto annuale della gestione, ovvero la relazione sulla gestione dell'attivita' svolta.
 
 ## Art. 17. — Effetti della decadenza
 
@@ -142,6 +495,70 @@ La cancellazione e la sospensione dall'albo e la decadenza dalle gestioni non at
 ## - Capo II Commissione per la gestione dell'Albo
 
 ## Art. 19. — Composizione della Commissione
+
+1.
+                        
+                            
+                                La Commissione per l'esame delle domande di iscrizione, per la revisione periodica, la cancellazione e la sospensione dall'albo, la revoca e la decadenza dalla gestione delle attivita' di liquidazione e di accertamento dei tributi e di riscossione dei tributi e delle altre entrate degli enti locali, prevista dal citato articolo 53, comma 2, del decreto legislativo n. 446 del 1997, e' nominata con decreto del Ministero dell'economia e delle finanze ed e' composta: 
+ 
+                            
+                            
+                                a)
+                                
+                                    dal direttore della Direzione legislazione tributaria e federalismo fiscale del Ministero dell'economia e delle finanze, con funzione di presidente; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    da due dirigenti del Dipartimento delle finanze del Ministero dell'economia e delle finanze, di cui almeno uno appartenente alla Direzione legislazione tributaria e federalismo fiscale; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    da due rappresentanti dei comuni e da un rappresentante delle citta' metropolitane designati dall'Associazione nazionale comuni italiani; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    da un rappresentante delle province designato dall'Unione province italiane; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    da due rappresentanti dei soggetti iscritti nell'albo, di cui uno in rappresentanza dei soggetti cui al comma 1, dell'articolo 1 e uno in rappresentanza dei soggetti di cui al comma 2 del medesimo articolo 1; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    da 5 membri supplenti, in sostituzione di quelli effettivi in caso di impedimento di questi ultimi, di cui uno in rappresentanza del Dipartimento delle finanze del Ministero dell'economia e delle finanze, uno dei comuni e delle citta' metropolitane, uno in rappresentanza delle province, uno dei soggetti iscritti nell'albo di cui all'articolo 1, comma 1 e uno dei soggetti di cui al comma 2 del medesimo articolo 1.
+
+2.
+                        
+                            
+                                Sono incompatibili con la qualifica di componente della Commissione coloro: 
+ 
+                            
+                            
+                                a)
+                                
+                                    i quali ricoprono o hanno ricoperto nel triennio precedente una funzione o un incarico in una societa' iscritta nell'albo; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    per i quali sussiste una responsabilita' penale, accertata con sentenza non sospesa, a titolo di dolo o di colpa grave.
 
 Al momento dell'accettazione dell'incarico, i componenti della Commissione dichiarano ai sensi del citato articolo 47 del decreto del Presidente della Repubblica n. 445 del 2000, l'inesistenza delle cause di incompatibilita' di cui al comma 2.
 

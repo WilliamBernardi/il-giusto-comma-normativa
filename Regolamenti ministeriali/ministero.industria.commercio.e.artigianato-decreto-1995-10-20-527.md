@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
 vigenza_date: 2001-02-24
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:38Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -50,6 +50,53 @@ La convenzione deve altresi' riservare al Ministero dell'industria, del commerci
 ## Art. 1-bis. — Verifica e programmazione degli interventi
 
 
+
+1.
+                    
+                        
+                            Il Ministero dell'industria, del commercio e dell'artigianato, nell'ambito degli interventi previsti dal presente decreto, promuove un piu' stretto raccordo con le amministrazioni regionali interessate tramite ricorso agli strumenti procedimentali di coordinamento di cui agli articoli 14 e 15 della legge 7 agosto 1990, n. 241, per quanto riguarda, in particolare, l'esame contestuale degli interessi pubblici coinvolti e lo svolgimento delle seguenti attivita':
+ 
+                        
+                        
+                            a)
+                            
+                                valutazione dell'efficacia degli interventi stessi rispetto allo sviluppo economico delle aree interessate;
+
+                            
+                        
+                        
+                            b)
+                            
+                                verifica dello stato di attuazione complessivo degli interventi, con particolare riferimento a quelli oggetto di cofinanziamento comunitario;
+
+                            
+                        
+                        
+                            c)
+                            
+                                elaborazione di proposte circa la programmazione delle risorse, tenuto conto delle esigenze di sviluppo delle aree interessate;
+
+                            
+                        
+                        
+                            d)
+                            
+                                elaborazione di proposte per la necessaria integrazione degli interventi con quelli di competenza regionale;
+
+                            
+                        
+                        
+                            e)
+                            
+                                valutazione (( delle proposte )) di cui all'art. 6-bis; ((2))
+                                
+                            
+                        
+                        
+                            f)
+                            
+                                elaborazione di proposte per la promozione e l'attuazione
+degli interventi. (1)
 
 ---------------
                         AGGIORNAMENTO (1)
@@ -116,7 +163,59 @@ Per quanto concerne (( i programmi di cui al comma 1 volti )) a rispondere alle 
 
 ## Art. 4. — Spese ammissibili
 
+1.
+                    
+                        
+                            Le spese ammissibili sono quelle relative all'acquisto all'acquisizione mediante locazione finanziaria o alla costruzione di immobilizzazioni ((, come definite dagli articoli 2423 e seguenti del codice civile, )) nella misura in cui queste ultime sono necessarie alle finalita' ((del programma)) oggetto della domanda di agevolazioni. Dette spese riguardano: ((2))
+                            
+                        
+                        
+                            a)
+                            
+                                progettazione e direzione lavori, studi di fattibilita' economicofinanziaria e di valutazione di impatto ambientale, oneri per le concessioni edilizie e collaudi di legge ((. . .)); (1) ((2))
+                                
+                            
+                        
+                        
+                            b)
+                            
+                                suolo aziendale, sue sistemazioni e indagini geognostiche;
+                            
+                        
+                        
+                            c)
+                            
+                                opere murarie e assimilate; (1)
 
+                            
+                        
+                        
+                            d)
+                            
+                                infrastrutture specifiche aziendali;
+
+                            
+                        
+                        
+                            e)
+                            
+                                macchinari, impianti ed attrezzature varie, nuovi di fabbrica, ivi compresi quelli necessari all'attivita' amministrativa dell'impresa, ed esclusi quelli relativi all'attivita' di rappresentanza; mezzi mobili strettamente necessari al ciclo di produzione o per il trasporto in conservazione condizionata dei prodotti, purche' dimensionati alla effettiva produzione, identificabili singolarmente ed a servizio esclusivo dell'impianto oggetto delle agevolazioni;
+
+                            
+                        
+                        
+                            f)
+                            
+                                programmi informatici commisurati alle esigenze produttive e gestionali dell'impresa;
+
+                            
+                        
+                        
+                            g)
+                            
+                                brevetti concernenti nuove tecnologie di prodotti e processi produttivi, per la parte in cui sono utilizzati per l'attivita' svolta nell'unita' produttiva interessata (( dal programma )); la relativa spesa di acquisto deve risultare compatibile con il conto economico relativo (( al programma medesimo )). ((PERIODO ABROGATO DAL DECRETO 9 MARZO 2000, N. 133)). ((PERIODO ABROGATO DAL DECRETO 9 MARZO 2000, N. 133)). ((2))
+
+((2. Con la medesima circolare di cui all'articolo 5, comma 1, il Ministero dell'industria, del commercio e dell'artigianato provvede, ai fini dell'attivita' istruttoria di cui all'articolo 6, alla individuazione di eventuali limiti all'ammissibilita' delle singole tipologie di spese, incluse quelle relative a commesse interne di lavorazione, anche tenuto conto degli orientamenti comunitari in materia e delle specificita' delle singole attivita' ammissibili))
 
 ((2))
 
@@ -154,6 +253,60 @@ A garanzia della volonta' dell'impresa di realizzare il programma agevolato, la 
 
 ## Art. 6. — Procedure e termini per l'istruttoria e per la formazione delle
  graduatorie
+
+1.
+                    
+                        
+                            Ai fini della formazione delle graduatorie, le banche concessionarie, sulla base delle domande complete pervenute, (( e tenuto anche conto delle indicazioni fornite dal Ministero dell'industria, del commercio e dell'artigianatocon la circolare di cui all'articolo 5, comma 1, )) accertano: ((2))
+                            
+                        
+                        
+                            a)
+                            
+                                la completezza e la pertinenza della prescritta documentazione;
+
+                            
+                        
+                        
+                            b)
+                            
+                                la consistenza patrimoniale e finanziaria dell'impresa richiedente (( e, ove occorra, )) dei soggetti promotori, con particolare riferimento alla comprovata possibilita' che essi siano in grado di fare fronte agli impegni finanziari derivanti dalla realizzazione (( del programma )); (1) ((2))
+                                
+                            
+                        
+                        
+                            c)
+                            
+                                la validita' tecnico - economico - finanziaria ((del programma)), con specifico riferimento alla redditivita', alle prospettive di mercato ed al piano finanziario per la copertura dei fabbisogni derivanti dalla realizzazione degli investimenti e dalla normale gestione ed in particolare all'adeguatezza ed alla tempestiva immissione dei mezzi propri dell'impresa, in tempi coerenti con la realizzazione (( del programma )), attraverso la simulazione dei bilanci e dei flussi finanziari dall'esercizio di avvio a realizzazione ((del programma )) a quello di entrata a regime ((del programma))
+                                    ((medesimo)) ; ((2))
+                                
+                            
+                        
+                        
+                            d)
+                            
+                                la sussistenza delle condizioni per l'accesso alle agevolazioni anche con riferimento alla dimensione dell'impresa richiedente ed alla localizzazione, al settore di attivita' ed alla tipologia ((del programma)) da agevolare; ((2))
+                                
+                            
+                        
+                        
+                            e)
+                            
+                                la pertinenza e la congruita' delle spese esposte nella domanda, al fine di indicare gli investimenti suddivisi per capitoli e per anno solare ed attualizzati; (1)
+
+                            
+                        
+                        
+                            f)
+                            
+                                gli elementi che consentano la determinazione degli indicatori di cui al comma 4.
+
+                            
+                        
+                        
+                            g)
+                            
+                                LETTERA ABROGATA DAL DECRETO 31 LUGLIO 1997, N. 319. (1)
 
 Le banche concessionarie inviano al Ministero dell'industria, del commercio e dell'artigianato, ai fini della definizione delle graduatorie di cui al comma 3, il modulo di domanda di cui all'art. 5, ((comma 1)) e le risultanze degli accertamenti di cui al comma 1, su supporto magnetico e cartaceo, secondo lo schema definito in sede di convenzione di cui all'art. 1, comma 2, nonche' la documentazione definita in sede di convenzione stessa. L'invio avviene tra il ((sessantesimo ed il novantesimo giorno)) successivo al termine finale di presentazione delle domande di cui all'art. 5, comma 1.
 Contestualmente all'invio di dette risultanze al Ministero, le banche concessionarie inviano a ciascuna impresa la cui domanda e' istruita con esito positivo una nota contenente i dati proposti per il calcolo degli indicatori di cui al comma 4; una copia di detta nota e' inviata per conoscenza alla regione interessata. (1) ((2))
@@ -242,7 +395,27 @@ Nel caso in cui le banche concessionarie si avvalgano di istituti collaboratori,
 
 ## Art. 8. — Revoca delle agevolazioni
 
-di cui al comma 1, la revoca delle agevolazioni e' parziale, in relazione alle spese ammesse alle agevolazioni afferenti i beni oggetto di altre agevolazioni, qualora la rilevazione del mancato rispetto del divieto in argomento derivi dalla segnalazione dell'impresa beneficiaria e qualora quest'ultima intenda mantenere le altre dette agevolazioni; qualora il mancato rispetto venga rilevato nel corso degli accertamenti o delle ispezioni di cui agli articoli 10 e 11 senza che l'impresa ne abbia dato precedente segnalazione, la revoca e' totale. Nell'ipotesi subb) di cui al comma 1, la revoca delle agevolazioni e' parziale ed e' commisurata alla spesa ammessa alle agevolazioni afferente, direttamente o indirettamente, l'immobilizzazione distratta ed al periodo di mancato utilizzo dell'immobilizzazione medesima con riferimento al prescritto quinquennio. A tal fine, l'impresa comunica tempestivamente alla banca concessionaria l'eventuale distrazione delle immobilizzazioni agevolate prima del suddetto quinquennio.
+1.
+                    
+                        
+                            
+                                (( Fatto salvo quanto previsto dall'articolo 9, comma 2, dall'articolo 10, comma 4 e dall'articolo 11, comma 1-bis, le )) agevolazioni sono revocate in tutto o in parte dal Ministero dell'industria, del commercio e dell'artigianato, anche su segnalazione della banca concessionaria: ((2))
+                            
+                        
+                        
+                            a)
+                            
+                                qualora per i beni (( del medesimo programma )) oggetto della concessione siano state assegnate agevolazioni di qualsiasi natura previste da altre norme statali, regionali o comunitarie o comunque concesse da enti o istituzioni pubbliche (( , fatto salvo quanto eventualmente previsto dalle direttive di cui all'articolo 1, comma 1 )); (1) ((2))
+ b)qualora vengano distolte ((, in qualsiasi forma, anche mediante cessione di attivita' ad altro imprenditore, )) dall'uso previsto le immobilizzazioni materiali o immateriali, la cui realizzazione od acquisizione e' stata oggetto dell'agevolazione, prima di cinque anni dalla data di entrata in funzione dell'impianto; ((2))
+ c) qualora non vengano osservati nei confronti dei lavoratori dipendenti le norme sul lavoro ed i contratti collettivi di lavoro;
+ c1) qualora l'impresa non abbia maturato, alla data della disponibilita' dell'ultima quota di cui all'articolo 7, comma 1, le condizioni previste per l'erogazione a stato d'avanzamento della prima quota; (( a tal fine, per i programmi i cui beni sono in parte acquistati direttamente dall'impresa ed in parte acquisiti tramite locazione finanziaria, si fa riferimento allo stato d'avanzamento raggiunto dall'intero programma; )) (1) ((2))
+ d) (( qualora il programma non venga ultimato entro quarantotto mesi dalla data del relativo decreto di concessione provvisoria delle agevolazioni, ovvero, per i programmi di cui all'articolo 7, comma 1, per i quali l'importo dell'agevolazione concessa e' reso disponibile in due quote, entro ventiquattro mesi dalla data medesima)); detti termini possono essere eccezionalmente prorogati una sola volta, previa preventiva richiesta, per non oltre sei mesi per cause di forza maggiore; ((per i programmi soggetti alla notifica alla Commissione europea di cui all'articolo 2, comma 3, il detto termine di quarantotto mesi decorre dal provvedimento del Ministero dell'industria, del commercio e dell'artigianato relativo agli esiti della detta notifica;)) sono fatti salvi i minori termini eventualmente previsti dal Ministero dell'industria, del commercio e dell'artigianato per consentire l'ammissibilita ((dei programmi medesimi al cofinanziamento comunitario)). (1) ((2))
+ e) qualora siano gravemente violate specifiche norme settoriali anche appartenenti all'ordinamento comunitario;
+ f) qualora, calcolati gli scostamenti in diminuzione degli indicatori di cui all'art. 6, comma 4, suscettibili di subire variazioni ((,))
+                                    (( . . . )) anche solo uno degli scostamenti stessi di tali indicatori rispetto ai corrispondenti valori assunti per la formazione della graduatoria o la media degli scostamenti medesimi superi, rispettivamente, i 30 o i 20 punti percentuali; (1) ((2))
+ g) qualora, nel corso di realizzazione del programma di investimenti, venga modificato l'indirizzo produttivo dell'impianto, con il conseguimento di produzioni finali inquadrabili in una "divisione" della "Classificazione delle attivita' economiche ISTAT '91" diversa da quella relativa alle produzioni indicate nel programma originario gia' approvato.
+
+((Nell'ipotesi sub a) di cui al comma 1, la revoca delle agevolazioni e' parziale, in relazione alle spese ammesse alle agevolazioni afferenti i beni oggetto di altre agevolazioni, qualora la rilevazione del mancato rispetto del divieto in argomento derivi dalla segnalazione dell'impresa beneficiaria e qualora quest'ultima intenda mantenere le altre dette agevolazioni; qualora il mancato rispetto venga rilevato nel corso degli accertamenti o delle ispezioni di cui agli articoli 10 e 11 senza che l'impresa ne abbia dato precedente segnalazione, la revoca e' totale. Nell'ipotesi subb) di cui al comma 1, la revoca delle agevolazioni e' parziale ed e' commisurata alla spesa ammessa alle agevolazioni afferente, direttamente o indirettamente, l'immobilizzazione distratta ed al periodo di mancato utilizzo dell'immobilizzazione medesima con riferimento al prescritto quinquennio. A tal fine, l'impresa comunica tempestivamente alla banca concessionaria l'eventuale distrazione delle immobilizzazioni agevolate prima del suddetto quinquennio.
 Qualora la detta distrazione dovesse essere rilevata nel corso degli accertamenti o delle ispezioni di cui agli articoli 10 e 11 senza che l'impresa ne abbia dato comunicazione come sopra specificato, la revoca e' comunque parziale ma commisurata all'intera spesa ammessa afferente, direttamente o indirettamente, l'immobilizzazione distratta, indipendentemente dal periodo di mancato utilizzo; nel caso in cui la distrazione dall'uso previsto delle immobilizzazioni agevolate prima dei cinque anni dalla data di entrata in funzione dell'impianto costituisca una variazione sostanziale del programma stesso, determinando, di conseguenza, il mancato raggiungimento degli obiettivi prefissati, la revoca e' pari all'intero contributo concesso a fronte del programma approvato. Ai fini di cui sopra, la banca concessionaria invia al Ministero dell'industria, del commercio e dell'artigianato il proprio motivato parere circa la necessita' di ricorrere alla revoca totale o parziale delle agevolazioni indicandone, in quest'ultima ipotesi, anche l'ammontare, e ne da' contestuale comunicazione motivata anche all'impresa interessata. ((2))
 
 Nell'ipotesi sub c) di cui al comma 1 il Ministero dell'industria, del commercio e dell'artigianato provvede a fissare un termine non superiore a sessanta giorni per consentire all'impresa di regolarizzare la propria posizione. Trascorso inutilmente tale termine il Ministero medesimo procede alla revoca totale delle agevolazioni. Nei casi piu' gravi o nel caso di recidiva puo' essere disposta l'esclusione dell'impresa per un tempo fino a cinque anni da qualsiasi ulteriore concessione di agevolazioni.
@@ -268,13 +441,116 @@ Entro sei mesi dalla data di ultimazione del programma di investimenti risultant
 
 Salvi gravi e giustificati motivi, qualora decorso il termine di cui al comma 1, l'impresa o la societa' di leasing non abbia ancora provveduto ad inviare la documentazione finale di spesa, la banca concessionaria propone al Ministero dell'industria, del commercio e dell'artigianato la revoca dell'agevolazione (( e ne da' contestuale comunicazione motivata anche all'impresa interessata )). ((2))
 
+3.
+                    
+                        
+                            La documentazione finale di spesa consiste, in alternativa, in:
+ 
+                        
+                        
+                            a)
+                            
+                                fatture e documentazioni fiscalmente regolari in originale quietanzate, o in copia autenticata, e, per i casi consentiti ((. . .)), commesse interne di lavorazione con l'indicazione dei materiali impiegati, delle ore effettivamente utilizzate e corredate da idonea documentazione; ((2))
+                                
+                            
+                        
+                        
+                            b)
+                            
+                                elenchi di fatture o di altri titoli di spesa;
+
+                            
+                        
+                        
+                            c)
+                            
+                                elaborati anche meccanografici di contabilita' industriale, nonche' elaborati informatizzati ((La documentazione finale di spesa contenente gli elenchi o gli elaborati di cui alle lettere b) e c) non e' ritenuta valida e viene restituita dalla banca concessionaria all'impresa o alla societa' di leasing, dandone, in tale ultimo caso, comunicazione all'impresa stessa, qualora gli elenchi o gli elaborati medesimi non contengano una chiara descrizione sufficiente alla univoca individuazione delle singole immobilizzazioni acquisite. 2))
+
 I documenti, gli elenchi e gli elaborati sub a), b) e c) di cui al comma 3 sono suddivisi per capitoli omogenei di spesa; gli elenchi e gli elaborati riportano il numero della fattura o della commessa interna di lavorazione, la relativa data, la ditta fornitrice, ((la)) descrizione del bene acquistato o realizzato e l'importo al netto dell'IVA. ((2))
+
+5.
+                    
+                        
+                            Alla documentazione di cui al comma 3 sono allegate specifiche dichiarazioni attestanti in particolare:
+ 
+                        
+                        
+                            a)
+                            
+                                la data, trascorsa o prevista, di entrata a regime (( del programma agevolato; ai fini della verifica dei risultati del programma, l'entrata a regime si intende raggiunta, qualora non intervenuta prima, dodici mesi dopo l'entrata in funzione del programma stesso; ))
+                                    ((2))
+                                
+                            
+                        
+                        
+                            b)
+                            
+                                la conformita' degli elenchi o degli elaborati sub b) e
+                            
+                        
+                        
+                            c)
+                            
+                                del comma 3 ai documenti originali e che questi ultimi sono fiscalmente regolari;
+ c) che la documentazione prodotta e' regolare e si riferisce a spese sostenute unicamente per la realizzazione ((del programma)) oggetto della specifica domanda di agevolazione; ((2))
+                                
+                            
+                        
+                        
+                            d)
+                            
+                                che tutti i materiali, macchinari, impianti ed attrezzature relativi alle spese documentate sono stati acquisiti ed installati nello stabilimento di cui si tratta allo stato "nuovi di fabbrica";
+
+                            
+                        
+                        
+                            e)
+                            
+                                che le spese sono capitalizzate, non si riferiscono a materiali di consumo, ricambi e manutenzioni, che non riguardano la gestione e che sono al netto dell'IVA e di altre imposte e tasse; 2
+                            
+                        
+                        
+                            f)
+                            
+                                che le forniture sono state pagate a saldo e che sulle stesse non sono stati praticati sconti o abbuoni al di fuori di quelli eventualmente gia' evidenziati.
+
+                            
+                        
+                        
+                            g)
+                            
+                                LETTERA ABROGATA DAL DECRETO 31 LUGLIO 1997, N. 319. (1)
 
 Per(( i programmi ))con spese ammesse di importo complessivamente inferiore a tre miliardi di lire, ai fini di quanto previsto all'art. 10, comma 2, alla documentazione di cui al comma 3 ed alle dichiarazioni di cui al comma 5 devono essere allegate ulteriori dichiarazioni, secondo lo schema definito in sede di circolare di cui all'art. 5,((comma 1)) , attestanti la sussistenza dei requisiti e delle condizioni per la concessione definitiva delle agevolazioni. ((2))
 
 Le dichiarazioni di cui ai commi 5 e 6 sono rese dal legale rappresentante dell'impresa o suo procuratore speciale (( ai sensi dell'articolo 4 della legge 4 gennaio 1968, n. 15, e successive modifiche e integrazioni.)) Nel caso di beni acquisiti mediante locazione finanziaria, le dichiarazioni di cui al comma 5, ad eccezione di quelle sub a), d) ed e), che restano a carico dell'impresa, vengono rese, con le stesse modalita' di cui sopra, dalla societa' di leasing. (1) ((2
 
 Le banche concessionarie, ricevuta la documentazione finale di spesa e le dichiarazioni di cui al comma 5 e, nei casi previsti, di cui al comma 6, ne verificano la completezza e la pertinenza al programma agevolato.)) ((2
+
+9.
+                    
+                        
+                            In relazione a quanto disposto al successivo articolo 10, comma 3, entro novanta giorni dal ricevimento della documentazione finale di spesa le banche concessionarie trasmettono al Ministero dell'industria, del commercio e dell'artigianato:
+ 
+                        
+                        
+                            a)
+                            
+                                una relazione sullo stato finale del programma, comprendente un giudizio di pertinenza e congruita' delle spese, che evidenzi le variazioni sostanziali intervenute in sede esecutiva rispetto al progetto posto a base della istruttoria e rappresenti gli investimenti finali ammissibili suddivisi per capitolo e per anno solare ed attualizzati, elencando i relativi beni nei confronti dei quali sussiste l'obbligo di non distrazione di cui all'articolo 8, comma 1, lettera b); detta relazione indica, inoltre, la data, trascorsa o prevista, di entrata a regime, le risultanze dell'accertamento da parte della banca medesima sull'effettivo ammontare del capitale proprio investito dall'impresa nel programma, nonche' gli altri eventuali elementi di valutazione individuati dal Ministero dell'industria, del commercio e dell'artigianato;
+
+                            
+                        
+                        
+                            b)
+                            
+                                per i programmi di cui all'articolo 9, comma 6, le dichiarazioni di cui al comma 6 medesimo;
+
+                            
+                        
+                        
+                            c)
+                            
+                                per gli altri programmi, le dichiarazioni di cui al comma 5 unitamente alla documentazione finale di spesa vistata dalle banche medesime. )) ((2))
 
 (( COMMA SOPPRESSO DAL DECRETO 9 MARZO 2000, N. 133 )). ((2))
 

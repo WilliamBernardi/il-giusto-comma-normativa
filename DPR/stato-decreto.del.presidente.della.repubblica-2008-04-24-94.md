@@ -8,8 +8,8 @@ codice_redazionale: 008G0116
 vigente: true
 source: normattiva-opendata
 collection: DPR
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:48:06Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -109,6 +109,31 @@ Il presente decreto concerne il periodo dal 1° gennaio 2006 al 31 dicembre 2007
 
 ## Art. 3. — Struttura del trattamento economico
 
+1.
+                    
+                        
+                            La struttura del trattamento economico dei funzionari appartenenti alla carriera diplomatica, a decorrere dal 1° gennaio 2006, e' articolata nelle seguenti componenti:
+ 
+                        
+                        
+                            a)
+                            
+                                stipendio tabellare, retribuzione individuale di anzianita', ove acquisita e spettante, e indennita' integrativa speciale, ferme restando le disposizioni dell'articolo 17 del decreto del Presidente della Repubblica 20 gennaio 2006, n. 107;
+
+                            
+                        
+                        
+                            b)
+                            
+                                retribuzione di posizione, correlata alle posizioni funzionali ricoperte;
+
+                            
+                        
+                        
+                            c)
+                            
+                                retribuzione di risultato, correlata ai risultati conseguiti rispetto agli obiettivi assegnati.
+
 Il trattamento economico di cui al comma l e' onnicomprensivo e remunera tutte le funzioni, i compiti e gli incarichi attribuiti ai funzionari diplomatici.
 
 ## Art. 4. — Stipendio tabellare
@@ -133,6 +158,24 @@ Restano ferme le disposizioni dell'articolo 16 del decreto del Presidente della 
 
 ## Art. 6. — Fondo per la retribuzione di posizione e la retribuzione di risultato
 
+1.
+                    
+                        
+                            Il fondo di cui all'articolo 17 del decreto del Presidente della Repubblica 20 febbraio 2001, n. 114, ferme restando le modifiche ed integrazioni previste dall'articolo 4 del decreto del Presidente della Repubblica 15 maggio 2003, n. 144, e dall'articolo 19 del decreto del Presidente della Repubblica 20 gennaio 2006, n. 107, continua ad essere definito con le modalita' ivi indicate ed e' alimentato dalle seguenti ulteriori risorse finanziarie:
+ 
+                        
+                        
+                            a)
+                            
+                                euro 230 mensili pro capite per tredici mensilita' per l'anno 2007;
+
+                            
+                        
+                        
+                            b)
+                            
+                                euro 252,5 mensili pro capite per tredici mensilita' a decorrere dal 31 dicembre 2007.
+
 Le risorse di cui al comma 1 sono determinate con riferimento al personale della carriera diplomatica in servizio alla data del 31 dicembre 2005.
 
 Nell'ambito del fondo di cui al comma l una quota pari al 28,67 per cento viene destinata al finanziamento della retribuzione di risultato.
@@ -145,11 +188,103 @@ Le risorse del fondo di cui al comma 1 eventualmente non utilizzate alla fine de
 
 Ferme restando le disposizioni di cui all'articolo 18 del decreto del Presidente della Repubblica 20 febbraio 2001, n. 114, a decorrere dal 1° gennaio 2006, le misure della retribuzione di posizione, correlata alle posizioni funzionali che sono state individuate nell'articolo 1 del decreto del Ministro degli affari esteri n. 2069 del 5 luglio 2000 rimangono determinate nei valori annui lordi per tredici mensilita' stabiliti nell'articolo 20, comma 2, del decreto del Presidente della Repubblica 20 gennaio 2006, n. 107.
 
+2.
+                    
+                        
+                            A decorrere dal l° gennaio 2007, le misure della retribuzione di posizione, correlata alle posizioni funzionali che sono state individuate nell'articolo 1 del decreto del Ministro degli affari esteri n. 2069 del 5 luglio 2000 sono rideterminate nei seguenti valori annui lordi per tredici mensilita':
+ 
+                        
+                        
+                            a)
+                            
+                                Segretario generale, euro 116.600,00;
+
+                            
+                        
+                        
+                            b)
+                            
+                                Capo di Gabinetto e rimanenti posizioni funzionali di cui all'articolo 1, lettera b), del decreto n. 2069, euro 80.000,00;
+
+                            
+                        
+                        
+                            c)
+                            
+                                Vice Capo di Gabinetto e rimanenti posizioni funzionali di cui all'articolo 1, lettera c), del decreto n. 2069, euro 50.000,00;
+
+                            
+                        
+                        
+                            d)
+                            
+                                Capi degli uffici di livello dirigenziale e rimanenti posizioni funzionali di cui all'articolo 1, lettera d), del decreto n. 2069, euro 30.850,00;
+
+                            
+                        
+                        
+                            e)
+                            
+                                Funzionari di cui all'articolo 1, lettera e), del decreto n. 2069, euro 13.500,00;
+
+                            
+                        
+                        
+                            f)
+                            
+                                Funzionari addetti agli uffici, euro 9.609.05.
+
 Le misure minime della retribuzione di posizione per ciascun grado della carriera diplomatica, tenuto conto di quanto stabilito al comma 1, nonche' all'articolo 16 del decreto del Presidente della Repubblica 5 gennaio 1967, n. 18, come sostituito dall'articolo 16 del decreto legislativo 24 marzo 2000, n. 85, rimangono determinate, per il biennio economico 1° gennaio 2006-31 dicembre 2007, nei valori annui lordi per tredici mensilita' stabiliti nell'articolo 20, comma 3, del decreto del Presidente della Repubblica 20 gennaio 2006, n. 107.
 
 ## Art. 8. — Retribuzione di risultato
 
 Ferme restando le disposizioni di cui all'articolo 19 del decreto del Presidente della Repubblica 20 febbraio 2001, n. 114, a decorrere dal 1° gennaio 2006, i parametri della retribuzione di risultato, ivi fissati in relazione alle diverse posizioni funzionali individuate nell'articolo 1 del decreto del Ministro degli affari esteri n. 2069 del 5 luglio 2000, e successive modificazioni, rimangono definiti dall'articolo 21, comma 2, del decreto del Presidente della Repubblica 20 gennaio 2006, n. 107.
+
+2.
+                    
+                        
+                            A decorrere dal 1° gennaio 2007 la retribuzione di risultato e' ridefinita nei seguenti valori annui lordi per tredici mensilita':
+ 
+                        
+                        
+                            a)
+                            
+                                Segretario Generale, euro 72.322,59;
+
+                            
+                        
+                        
+                            b)
+                            
+                                Capo di Gabinetto e rimanenti posizioni funzionali di cui all'articolo 1, lettera b), del decreto n. 2069, euro 52.795,49;
+
+                            
+                        
+                        
+                            c)
+                            
+                                Vice Capo di Gabinetto e rimanenti posizioni funzionali di cui all'articolo 1, lettera c), del decreto n. 2069, euro 34.714,84;
+
+                            
+                        
+                        
+                            d)
+                            
+                                Capi degli uffici di livello dirigenziale e rimanenti posizioni funzionali di cui all'articolo 1, lettera d), del decreto n. 2069, euro 17.357,42;
+
+                            
+                        
+                        
+                            e)
+                            
+                                Funzionari di cui all'articolo 1, lettera e), del decreto n. 2069, euro 8.534,07;
+
+                            
+                        
+                        
+                            f)
+                            
+                                Funzionari addetti agli uffici, euro 7.159,94.
 
 ## Art. 9. — Effetti del nuovo trattamento economico
 

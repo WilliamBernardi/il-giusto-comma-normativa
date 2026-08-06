@@ -8,8 +8,8 @@ codice_redazionale: 099G0440
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:38Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -43,6 +43,24 @@ Negli elenchi non sono compresi i rimborsi originati dall'annullamento delle del
 
 Il comune invia gli elenchi al centro di servizio delle imposte dirette del Ministero delle finanze nella cui circoscrizione territoriale e' compreso. Per i comuni della regione Lombardia, l'invio e' effettuato al centro di servizio di Milano; per i comuni delle regioni Marche, Toscana ed Umbria, l'invio e' effettuato al centro di servizio di Pescara.
 
+8.
+                    
+                        
+                            I centri di servizio:
+ 
+                        
+                        
+                            a)
+                            
+                                determinano, separatamente per ciascun elenco, l'ammontare delle somme da restituire al comune; la restituzione, per imposta ed interessi, e' integrale, se nel comune vigeva per l'anno 1993 l'aliquota del 4 per mille; e', invece, quantificata nella misura corrispondente all'aliquota del 4 per mille, se nel comune vigeva per il predetto anno 1993 una aliquota superiore, mediante un rapporto semplice;
+
+                            
+                        
+                        
+                            b)
+                            
+                                inviano, entro il mese successivo a quello di ricevimento degli elenchi, alle direzioni regionali delle entrate, territorialmente competenti in relazione alla regione di appartenenza dei comuni interessati, prospetti riepilogativi con l'indicazione delle somme complessivamente spettanti a ciascun comune e la specificazione dell'elenco comunale corrispondente.
+
 Le direzioni regionali delle entrate, sulla base dei prospetti di cui alla lettera b) del comma 8, emettono ordinativi di pagamento in favore dei comuni aventi diritto, estinguibili mediante accreditamento in contabilita' speciale oppure sul conto corrente postale limitatamente ai comuni il cui servizio di tesoreria e' gestito da un soggetto diverso da quello indicato nell'articolo 50 del decreto legislativo 25 febbraio 1995, n. 77, e successive modificazioni e integrazioni. Per le finalita' di cui al presente comma si provvede mediante utilizzo dei fondi iscritti nell'unita' previsionale di base 4.1.2.2. - Restituzioni e rimborsi di imposte - capitolo 3525 dello stato di previsione del Ministero delle finanze per l'anno finanziario 2000 e corrispondenti unita' per gli esercizi successivi.
 
 ## Art. 2.
@@ -52,6 +70,24 @@ Le somme riscosse dal comune, a titolo di imposta comunale sugli immobili dovuta
 Per le finalita' di cui al comma 1, il comune, nel mese di giugno del 2000, invia un "elenco delle riscossioni ICI 1993" protocollato, datato e firmato dal sindaco o da un assessore delegato, contenente, distintamente per ciascun contribuente, l'indicazione: del nome e cognome o ragione sociale, del codice fiscale, degli estremi del provvedimento, degli ammontari integrali delle riscossioni a titolo di imposta o maggiore imposta, di maggiorazione di imposta ai sensi del predetto articolo 11, comma 1, terzo periodo, di interessi e di sanzioni; successivi elenchi integrativi, similmente compilati, sono inviati nel mese di giugno di ciascun anno; nel primo elenco e' specificata anche l'aliquota vigente nel comune per l'anno 1993. Per i provvedimenti impugnati dai contribuenti, le relative riscossioni sono inserite negli elenchi solo successivamente alla intervenuta definizione e nell'ammontare definito.
 
 Il comune invia gli elenchi al centro di servizio delle imposte dirette del Ministero delle finanze nella cui circoscrizione territoriale e' compreso. Per i comuni della regione Lombardia l'invio e' effettuato al centro di servizio di Milano; per i comuni delle regioni Marche, Toscana ed Umbria, l'invio e' effettuato al centro di servizio di Pescara.
+
+4.
+                    
+                        
+                            I centri di servizio:
+ 
+                        
+                        
+                            a)
+                            
+                                determinano, separatamente per ciascun elenco, l'ammontare delle somme di spettanza dello Stato, in base ad un rapporto semplice tra l'aliquota vigente nel comune per l'anno 1993 e l'aliquota del 3 per mille;
+
+                            
+                        
+                        
+                            b)
+                            
+                                invitano il comune, dandone comunicazione al competente Dipartimento provinciale del Tesoro - Ragioneria provinciale dello Stato, a versare, entro sessanta giorni, le predette somme, presso la competente tesoreria provinciale dello Stato, facendole affluire al capitolo 3758 dell'entrata del bilancio dello Stato.
 
 Il predetto Dipartimento - Ragioneria provinciale dello Stato verifica che il comune esegua il versamento.
 

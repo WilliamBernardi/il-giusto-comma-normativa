@@ -8,8 +8,8 @@ codice_redazionale: 093G0030
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:40Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -27,9 +27,103 @@ Udito il parere del Consiglio di Stato espresso nella adunanza generale del 5 ot
 
 ## Art. 1. — Imprese industriali, commerciali ed agricole
 
+1.
+                        
+                            
+                                Le autorizzazioni alle procedure semplificate di accertamento in materia doganale possono essere rilasciate alle imprese industriali, commerciali ed agricole, sia pubbliche che private:
+ 
+                            
+                            
+                                a)
+                                
+                                    che, in relazione all'attivita' esercitata, effettuino abituali e ricorrenti operazioni di scambio di merci con l'estero, anche con carattere discontinuo, comprese quelle limitate a determinati periodi dell'anno;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la cui organizzazione e contabilita' aziendale possano assicurare un efficace controllo sulle operazioni doganali compiute e sull'osservanza dei divieti e restrizioni all'importazione e all'esportazione di merci e delle altre disposizioni che regolano le destinazioni doganali da conferire. In particolare, dovranno essere predisposte apposite scritture aziendali che consentano di individuare la movimentazione delle merci con specifico riferimento ai dati identificativi delle stesse, al momento dell'arrivo o della partenza, nonche' alla loro destinazione finale;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    alle quali non siano state inflitte negli ultimi tre anni, per infrazioni in materia fiscale ovvero alle norme che disciplinano gli scambi con l'estero, sanzioni superiori alla pena pecuniaria di lire trenta milioni;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    che dichiarino di essere disposte a prestare, in relazione alle destinazioni doganali da conferire alle merci, e salvo quanto previsto dall'art. 90 del testo unico delle disposizioni legislative in materia doganale, approvato con decreto del Presidente della Repubblica 23 gennaio 1973, n. 43, una garanzia globale, nella misura fissata dal ricevitore della dogana tenendo conto della presumibile entita' dei diritti doganali da garantire mensilmente con riferimento all'ammontare mensile degli stessi relativo al precedente anno. La garanzia deve essere integrata, a pena di decadenza, entro due giorni dalla richiesta della dogana, qualora sia divenuta insufficiente; puo' altresi' essere ridotta, a seguito di circostanziata richiesta del beneficiario, in caso di significative diminuzioni dei diritti da garantire;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    che siano nel pieno e libero esercizio dei propri diritti e non siano in stato di fallimento ne' sottoposte a procedura di concordato preventivo, di amministrazione controllata o di liquidazione coatta amministrativa;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    i cui legali rappresentanti non risultino formalmente imputati per un delitto previsto dalle leggi finanziarie e dalle leggi rela- tive alla disciplina dei divieti economici e valutari, ovvero per uno dei delitti non colposi previsti dai titoli II, VII e XIII del libro secondo del codice penale e per ogni altro delitto non colposo per il quale la legge commini la pena della reclusione non inferiore nel minimo a tre anni o nel massimo a dieci anni e non siano stati condannati, in seguito a sentenza passata in giudicato, per uno dei delitti sopramenzionati;
+
+                                
+                            
+                            
+                                g)
+                                
+                                    alle quali non siano state applicate misure di prevenzione ai sensi della legge 31 maggio 1965, n. 575, e successive modificazioni.
+ AVVERTENZA:
+ Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, comma 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con decreto del Presidente della Repubblica 28 dicembre 1985, n. 1092, al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
+
 ## - Capo I SOGGETTI AUTORIZZATI ALLE PROCEDURE SEMPLIFICATE DI ACCERTAMENTO
 
 ## Art. 2. — Imprese di spedizione internazionale
+
+1.
+                        
+                            
+                                Le autorizzazioni alle procedure semplificate di accertamento in materia doganale possono essere rilasciate alle imprese di spedizione internazionale che, in aggiunta ai requisiti e alle condizioni di cui all'art. 1:
+ 
+                            
+                            
+                                a)
+                                
+                                    risultino iscritte nell'elenco degli esercenti l'attivita' di spedizione, ai sensi della legge 14 novembre 1941, n. 1442;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    svolgano prevalentemente attivita' di spedizione di merci da e per l'estero, in misura tale che l'ammontare del fatturato per ciascun anno dell'ultimo triennio, relativo alle operazioni connesse all'attivita' di spedizione, ivi comprese quelle ricadenti sotto la previsione normativa di cui all'art. 9, comma 1, n. 4, del decreto del Presidente della Repubblica 26 ottobre 1972, n. 633 e successive modificazioni, costituisca almeno il 51% del volume di affari dell'impresa realizzato nel medesimo periodo;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    per le merci ammesse alle procedure semplificate concludano il contratto di trasporto e compiano le relative operazioni accessorie ovvero, laddove effettuino le sole operazioni accessorie, siano menzionate nella lettera di vettura internazionale;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    predispongano sistemi di scritture e di contabilita' aziendali che contengano ogni utile elemento relativo ai trasporti in arrivo ed in partenza, con specifico riferimento al dati identificativi delle merci, al momento dell'arrivo o della partenza, nonche' alla loro destinazione finale;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    dispongano di un'apposita area attrezzata per il carico, lo scarico e la movimentazione delle merci, da destinare quale luogo di arrivo o di partenza delle merci stesse oggetto delle operazioni doganali in procedura semplificata di accertamento.
 
 ## Art. 3. — Magazzini generali
 
@@ -39,9 +133,94 @@ Le autorizzazioni alle procedure semplificate di accertamento in materia doganal
 
 Le autorizzazioni alle procedure semplificate di accertamento in materia doganale possono essere rilasciate agli spedizionieri doganali, nell'ambito della circoscrizione doganale presso la quale sono abilitati al compimento delle operazioni doganali, che in tale loro qualita' effettuino frequentemente operazioni doganali nell'interesse di imprese industriali, commerciali ed agricole sempre che, nell'esercizio della loro attivita' professionale, presentino in dogana le merci di proprieta' di tali imprese.
 
+2.
+                        
+                            
+                                Gli spedizionieri doganali, in aggiunta ai requisiti e alle condizioni di cui all'art. 1, lettere a), b), c), d) e g), devono:
+ 
+                            
+                            
+                                a)
+                                
+                                    risultare iscritti da almeno tre anni nell'albo professonale istituito con legge 22 dicembre 1960, n. 1612;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    non risultare sospesi dall'attivita' professionale ai sensi dell'art. 53 del testo unico delle disposizioni legislative in materia doganale, approvato con decreto del Presidente della Repubblica 23 gennaio 1973, n. 43 e non essere incorsi, nell'ultimo triennio, in provvedimenti definitivi di sospensione di durata superiore ai trenta giorni;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    esercitare l'attivita' professionale non vincolati a rapporto di lavoro subordinato;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    predisporre sistemi di scrittura e contabilita' che contengano ogni utile elemento relativo alla movimentazione delle merci, con specifico riferimento ai dati identificativi delle stesse, al momento dell'arrivo o della partenza, nonche' alla loro destinazione finale;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    disporre di uffici idonei alla gestione ed alla conservazione dei dati relativi alle operazioni doganali effettuate in procedura semplificata di accertamento;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    disporre di una apposita area attrezzata per il carico, lo scarico e la movimentazione delle merci da destinare quale luogo di arrivo o di partenza delle merci stesse oggetto delle operazioni doganali in procedura semplificata di accertamento.
+
 ## Art. 5. — Corrieri aerei internazionali
 
 Le autorizzazioni alle procedure semplificate di accertamento in materia doganale possono essere rilasciate ai corrieri aerei internazionali che svolgano frequentemente il servizio di raccolta, trasporto e distribuzione di corrispondenza epistolare, campioni, colli e pacchi postali e che in tale loro qualita' assumano l'incarico di svolgere, oltre ai cennati servizi, anche le operazioni accessorie, ivi comprese quelle di natura doganale, sempre che, nell'esercizio della loro attivita' professionale, presentino in dogana nell'interesse delle imprese industriali, commerciali ed agricole le merci di proprieta' di tali imprese.
+
+2.
+                        
+                            
+                                I corrieri aerei internazionali, in aggiunta ai requisiti e alle condizioni di cui all'art. 1, devono:
+ 
+                            
+                            
+                                a)
+                                
+                                    risultare iscritti nel registro delle imprese tenuto presso la competente camera di commercio, industria, artigianato ed agricoltura;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    essere muniti della prescritta autorizzazione del Ministero delle poste e delle telecomunicazioni per il trasporto dei colli e pacchi;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    fare parte di un raggruppamento internazionale di societa', con organizzazione e gestione integrata, le cui dimensioni possano farlo considerare un corriere aereo internazionale;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    predisporre sistemi di scritture e di contabilita' aziendali che contengano ogni utile elemento relativo ai trasporti in arrivo ed in partenza con specifico riferimento ai dati identificativi delle stesse, al momento dell'arrivo o della partenza, nonche' alla loro destinazione finale;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    disporre, in via continuativa ed esclusiva, di una installazione fissa completa di uffici, aree, infrastrutture ed attrezzature finalizzate al compimento della specifica attivita' di arrivo e partenza delle merci.
 
 ## Art. 6. — Rilascio, revoca e decadenza delle autorizzazioni
 
@@ -57,9 +236,80 @@ L'autorizzazione non esime il soggetto autorizzato dal munirsi delle autorizzazi
 
 ## Art. 7. — Contenuto delle autorizzazioni
 
+1.
+                        
+                            
+                                Nelle autorizzazioni devono risultare:
+ 
+                            
+                            
+                                a)
+                                
+                                    le destinazioni doganali per le quali e' accordata la procedura semplificata;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la denominazione commerciale delle merci che formano oggetto di ciascuna delle destinazioni doganali predette;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    gli uffici doganali competenti ad eseguire l'accertamento ed i controlli relativi alla procedura semplificata;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    i luoghi ove il soggetto beneficiario intende ricevere o spedire le merci; tali luoghi non possono essere situati negli spazi doganali, salvo quanto previsto nel successivo comma 4;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    i mezzi e le modalita' per il suggellamento dei colli, dei contenitori e dei veicoli relativi alle merci da spedire, nonche' gli eventuali altri mezzi di identificazione ritenuti idonei dalla amministrazione, nonche' l'indicazione delle merci per le quali viene consentito l'esonero dal suggellamento stesso, se trattasi di merci alla rinfusa o di massa, di facile riconoscimento e di limitata incidenza fiscale o di scarso valore;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    gli altri eventuali elementi ritenuti necessari ai fini dell'applicazione della procedura semplificata.
+
 Nelle autorizzazioni rilasciate ai soggetti di cui agli articoli 2, 3, 4 e 5 si puo' prescindere dall'indicazione della denominazione commerciale delle merci, fatte salve le limitazioni e le cautele di cui all'art. 6, comma 3.
 
 Alle imprese di spedizione internazionale ed ai corrieri aerei internazionali aventi nel territorio nazionale piu' sedi stabili ed organizzate puo' essere rilasciata un'autorizzazione per ciascuna di tali sedi. Si intendono per sedi stabili ed organizzate i luoghi in cui l'impresa ha costituito in via continuativa una installazione fissa completa di uffici, aree, infrastrutture ed attrezzature finalizzate al compimento della propria specifica attivita', secondo quanto attestato dalla competente camera di commercio, industria, artigianato ed agricoltura.
+
+4.
+                        
+                            
+                                I luoghi di cui al comma 1, lettera d), possono essere situati anche nell'ambito degli spazi doganali degli uffici doganali di con- fine, di mare ed aeroportuali soltanto quando:
+ 
+                            
+                            
+                                a)
+                                
+                                    le operazioni da eseguirvi con la procedura semplificata di accertamento consistano nell'introduzione o nella estrazione di merci dai depositi doganali esistenti in detti spazi;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le operazioni da eseguirvi riguardino merci in arrivo dall'estero o spedite all'estero per via di mare ed il trasporto delle merci stesse da tali luoghi verso l'interno del territorio doganale o dall'interno del territorio doganale verso tali luoghi avvenga mediante tubazioni, nastri trasportatori od altri impianti fissi di trasporto;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    le operazioni da eseguirvi in procedura semplificata di accertamento, avuto riguardo alla natura dell'attivita' esercitata ed all'interesse degli operatori economici, non rischino di pregiudicare i compiti di vigilanza e di controllo della amministrazione doganale.
 
 Per il trasporto verso l'interno mediante tubazioni di oli minerali greggi ed oli combustibili, destinati alla lavorazione, che siano stati nazionalizzati con la procedura semplificata, si prescinde dall'obbligo dell'accompagnamento con bolletta di cauzione, subordinatamente all'osservanza delle prescrizioni dirette ad accettare l'effettiva destinazione ricevuta dalle merci. Tali prescrizioni sono impartite dall'ufficio doganale competente ad eseguire l'accertamento ed i controlli relativi alla procedura semplificata ed al medesimo ufficio e' affidato anche il compito di verificarne l'osservanza.
 
@@ -71,6 +321,31 @@ La disposizione del precedente comma si applica altresi' per le operazioni di es
 
 La procedura semplificata di accertamento di cui al presente capo consente ai soggetti autorizzati di disporre delle merci provenienti dall'estero, secondo la destinazione doganale prescelta, subito dopo il loro arrivo nei luoghi appositamente designati, prescindendo dalla presentazione delle merci stesse alla dogana e prima della presentazione della relativa dichiarazione doganale.
 
+2.
+                        
+                            
+                                La procedura di cui al comma 1 e' applicabile alle seguenti destinazioni doganali:
+ 
+                            
+                            
+                                a)
+                                
+                                    importazione definitiva, compresa la reimportazione di merci temporaneamente esportate;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    importazione temporanea;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    deposito.
+
 Le destinazioni per l'importazione comprendono anche l'introduzione di merci comunitarie e l'immissione in libera pratica di merci terze.
 
 La procedura e' applicabile, altresi', alle operazioni doganali relative alle destinazioni dell'importazione definitiva e temporanea aventi per oggetto l'estrazione dai depositi doganali di merci introdotte con analoga procedura anche se le dichiarazioni doganali di estrazione sono intestate a coloro per conto dei quali si effettuano le operazioni doganali.
@@ -80,6 +355,24 @@ Nei confronti delle imprese di spedizione internazionale, dei magazzini generali
 ## Art. 9. — Comunicazione degli arrivi e preavviso
 
 Al momento dell'arrivo delle merci nei luoghi appositamente designati, il titolare dell'autorizzazione deve comunicare tale arrivo all'ufficio doganale, per consentire allo stesso l'eventuale intervento nell'operazione, anche senza preavviso.
+
+2.
+                        
+                            
+                                Sempre che il controllo della regolarita' delle operazioni non ne risulti inficiato, l'ufficio doganale competente ad eseguire l'accertamento ed i controlli relativi alla procedura semplificata doganale puo':
+ 
+                            
+                            
+                                a)
+                                
+                                    permettere che la comunicazione di cui al comma 1 sia effettuata quando l'arrivo della merce sia imminente o sia sostituita dalla comunicazione, anche con cadenza settimanale, del programma giornaliero degli arrivi;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    in talune circostanze particolari, giustificate dalla natura delle merci e dal ritmo accelerato degli arrivi, dispensare il titolare dell'autorizzazione, su sua motivata richiesta, dall'obbligo di comunicare all'ufficio doganale ogni arrivo di merci, a condizione che egli fornisca qualsiasi informazione dall'ufficio stesso ritenuta necessaria per potere esercitare, all'occorrenza, il proprio diritto di visitare la merce.
 
 Nella comunicazione di arrivo, oltre alla descrizione delle merci, deve essere fornita alla dogana l'indicazione dell'identita' e della provenienza del mezzo di trasporto. Le modalita' da osservare per la comunicazione ed il preavviso, che possono essere effettuati anche con mezzi informatici e telematici, sono stabilite dall'ufficio doganale.
 
@@ -129,6 +422,31 @@ L'accertamento e' eseguito, presso l'ufficio doganale, attraverso l'esame della 
 
 La procedura semplificata di accertamento di cui al presente capo consente ai soggetti autorizzati di spedire le merci destinate all'estero direttamente dai luoghi appositamente designati prescindendo dalla presentazione della dichiarazione doganale e delle merci all'ufficio doganale del luogo di partenza, previa prestazione della cauzione di cui all'art. 1, lettera d, nella misura ritenuta congrua dal ricevitore doganale, a garanzia del pagamento dei diritti gravanti sulle merci medesime.
 
+2.
+                        
+                            
+                                La procedura di cui al comma 1 e' applicabile alle seguenti destinazioni doganali:
+ 
+                            
+                            
+                                a)
+                                
+                                    esportazione definitiva, compresa la riesportazione di merci temporaneamente importate;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    esportazione temporanea;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    transito.
+
 Le destinazioni per l'esportazione comprendono anche la spedizione verso altri Paesi comunitari.
 
 La procedura e' applicabile, altresi', alle operazioni doganali relative alle predette destinazioni, aventi per oggetto l'estrazione dai depositi doganali di merci introdotte con analoga procedura, anche se le dichiarazioni doganali di estrazione sono intestate a coloro per conto dei quali si effettuano le operazioni doganali.
@@ -143,6 +461,24 @@ I documenti doganali che devono scortare le singole spedizioni sono redatti, nel
 ## Art. 14. — Comunicazione della spedizione e preavviso
 
 Il titolare dell'autorizzazione e' tenuto a comunicare l'orario di partenza delle merci all'ufficio doganale, per consentire allo stesso l'eventuale intervento nell'operazione, anche senza preavviso.
+
+2.
+                        
+                            
+                                Sempre che il controllo della regolarita' delle operazioni non risulti inficiato, l'ufficio doganale competente ad eseguire l'accertamento ed i controlli relativi alla procedura semplificata doganale puo':
+ 
+                            
+                            
+                                a)
+                                
+                                    permettere che la comunicazione di cui al comma 1 sia effettuata quando la partenza della merce sia imminente o sia sostituita dalla comunicazione, anche con cadenza settimanale, del programma giornaliero delle partenze;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    in talune circostanze particolari giustificate dalla natura delle merci e dal ritmo accelerato delle partenze, dispensare il titolare dell'autorizzazione, su sua motivata richiesta, dall'obbligo di comunicare all'ufficio doganale ogni partenza delle merci, a condizione che egli fornisca qualsiasi informazione dallo stesso ufficio ritenuta necessaria per poter esercitare, all'occorrenza, il proprio diritto di visitare le merci.
 
 Le modalita' da osservare per la comunicazione ed il preavviso, che possono essere effettuati anche con mezzi informatici e telematici, sono stabilite dall'ufficio doganale.
 

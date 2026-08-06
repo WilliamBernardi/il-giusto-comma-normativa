@@ -8,8 +8,8 @@ codice_redazionale: 000G0357
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:42Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -34,6 +34,52 @@ L'Osservatorio nazionale sui rifiuti e' un organo istituito per lo svolgimento d
 Esso ha sede in Roma, presso il Ministero dell'ambiente, che provvede a rendere disponibili locali idonei al suo funzionamento.
 
 ## Art. 2. — Composizione dell'Osservatorio
+
+1.
+                    
+                        
+                            Ai sensi dell'articolo 26, comma 2, del decreto legislativo n. 22/1997, l'Osservatorio e' costituito con decreto del Ministro dell'ambiente di concerto con il Ministro dell'industria, del commercio e dell'artigianato, ed e' composto da nove membri, scelti tra persone esperte in materia, di cui:
+ 
+                        
+                        
+                            a)
+                            
+                                tre designati dal Ministero dell'ambiente, di cui uno con funzioni di presidente;
+
+                            
+                        
+                        
+                            b)
+                            
+                                due designati dal Ministero dell'industria, di cui uno con funzioni di vice-presidente;
+
+                            
+                        
+                        
+                            c)
+                            
+                                uno designato dal Ministero della sanita';
+
+                            
+                        
+                        
+                            d)
+                            
+                                uno designato dal Ministero delle risorse agricole, alimentari e forestali;
+
+                            
+                        
+                        
+                            e)
+                            
+                                uno designato dal Ministero del tesoro;
+
+                            
+                        
+                        
+                            f)
+                            
+                                uno designato dalla Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome.
 
 I componenti dell'Osservatorio, a pena di decadenza, non possono esercitare direttamente o indirettamente qualsiasi forma di attivita' lavorativa, economica o professionale che possa causare conflitti di interesse con l'attivita' istituzionale dell'Osservatorio. A tal fine i componenti dell'Osservatorio sono tenuti a dichiarare eventuali situazioni di incompatibilita' o conflitti di interesse all'atto della nomina o entro trenta giorni dalla loro eventuale sopravvenienza. Il provvedimento di decadenza conseguente alla situazione di incompatibilita' e' adottato dal Ministro dell'ambiente di concerto con il Ministro dell'industria, del commercio e dell'artigianato all'esito di un procedimento in contraddittorio con l'interessato.
 

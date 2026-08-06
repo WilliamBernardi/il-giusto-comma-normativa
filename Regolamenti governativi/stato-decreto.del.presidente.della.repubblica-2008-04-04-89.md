@@ -8,8 +8,8 @@ codice_redazionale: 008G0112
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti governativi
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:09Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -26,4 +26,31 @@ Udito in proposito il parere del Consiglio di Stato, espresso dalla sezione cons
 Sulla proposta del Ministro dei trasporti;
 
 ## Art. 1.
+
+1.
+                    
+                        
+                            Al comma 1-bis dell'appendice XI - articoli 255 e 256 del decreto del Presidente della Repubblica 16 dicembre 1992, n. 495, e successive modificazioni, sono apportate le seguenti modifiche:
+ 
+                        
+                        
+                            a)
+                            
+                                dopo le parole: "Campobasso CB" sono inserite le seguenti: "Carbonia-Iglesias CI";
+
+                            
+                        
+                        
+                            b)
+                            
+                                dopo le parole: "Matera MT" sono inserite le seguenti: "Medio Campidano VS";
+
+                            
+                        
+                        
+                            c)
+                            
+                                dopo le parole: "Nuoro NU" sono inserite le seguenti:
+ "Ogliastra OG;
+ Olbia-Tempio OT".
 

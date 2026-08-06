@@ -8,8 +8,8 @@ vigente: true
 source: normattiva-opendata
 collection: DPR
 vigenza_date: 2025-05-03
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:47:41Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -1994,6 +1994,31 @@ Qualora entro il 31 dicembre 2018 non si provveda alla definizione dell'accordo,
 Al personale di cui al presente decreto continuano ad applicarsi, ove non in contrasto con il presente decreto, le norme previste dai precedenti provvedimenti di concertazione.
 
 ## Art. 21. — Copertura finanziaria
+
+1.
+                        
+                            
+                                All'onere derivante dall'attuazione del presente decreto ed all'onere indiretto rilevato ai sensi dell'articolo 17, comma 7, della legge 31 dicembre 2009, n. 196, complessivamente pari ad euro 352.489.696 per l'anno 2018 e a euro 239.794.525 annui a decorrere dall'anno 2019, si provvede: 
+ 
+                            
+                            
+                                a)
+                                
+                                    quanto a 61.184.972 euro per l'anno 2018, mediante corrispondente utilizzo delle disponibilita' in conto residui relative all'autorizzazione di spesa di cui all'articolo 1, comma 466, della legge 28 dicembre 2015, n. 208 che sono versate all'entrata del bilancio dello Stato; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    quanto a complessivi 51.510.199 euro per l'anno 2018 mediante corrispondente utilizzo delle disponibilita' in conto residui relative all'autorizzazione di spesa di cui all'articolo 1, comma 365, punto a), della legge 11 dicembre 2016, n. 232, che sono versate all'entrata del bilancio dello Stato; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    quanto a complessivi 239.794.525 euro annui a decorrere dall'anno 2018 mediante riduzione, per euro 30.592.486, dell'autorizzazione di spesa di cui all'articolo 1, comma 466, della legge 28 dicembre 2015, n. 208, per euro 51.510.199, dell'autorizzazione di spesa di cui all'articolo 1, comma 365 punto a), della legge 11 dicembre 2016, n. 232 e, per euro 157.691.840, dell'autorizzazione di spesa di cui all'articolo 1, comma 679, della legge 27 dicembre 2017, n. 205.
 
 Il Ministro dell'economia e delle finanze e' autorizzato ad apportare, con propri decreti, le occorrenti variazioni di bilancio.
 

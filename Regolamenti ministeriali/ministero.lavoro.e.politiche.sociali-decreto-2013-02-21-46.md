@@ -7,8 +7,8 @@ urn: urn:nir:ministero.lavoro.e.politiche.sociali:decreto:2013-02-21;46
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:38Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -47,6 +47,80 @@ In nessun caso le soglie numeriche indicate nel presente decreto e nelle tabelle
 
 Tipologia di attivita'
 
+1.
+                        
+                            
+                                Per l'applicazione delle disposizioni del presente decreto, sono individuate le seguenti attivita' svolte dai Consulenti del lavoro: 
+ 
+                            
+                            
+                                a)
+                                
+                                    amministrazione del personale (subordinato, autonomo e parasubordinato); 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    calcolo del costo del lavoro, determinazione e calcolo del trattamento di fine rapporto; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    ammortizzatori sociali; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    risoluzione rapporti; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    dichiarazioni e denunce previdenziali, assistenziali, assicurative e fiscali; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    contenzioso fiscale, dichiarazioni e prestazioni amministrative, contabili, fiscali-tributarie; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    contenzioso del lavoro, amministrativo, previdenziale, assicurativo, sindacale, giudiziale e stragiudiziale; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    contrattualistica; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    consulenze tecniche di parte; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    altre prestazioni specifiche e compensi a tempo.
+
 ## Art. 3. — Definizioni
 
 Ai fini del presente decreto, si intendono per: 
@@ -59,6 +133,45 @@ Ai fini del presente decreto, si intendono per:
  g) «ammortizzatori sociali»: ogni misura di agevolazione e sostegno alle imprese che comporti una integrazione del reddito dei lavoratori.
 
 ## Art. 4. — Parametri generali
+
+1.
+                        
+                            
+                                Il compenso del professionista e' determinato con riferimento ai seguenti parametri: 
+ 
+                            
+                            
+                                a)
+                                
+                                    valore e natura della pratica; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    importanza, difficolta', complessita' della pratica; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    condizioni d'urgenza per l'espletamento dell'incarico; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    risultati e vantaggi, anche non economici, ottenuti dal cliente; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    impegno profuso e pregio dell'opera prestata, anche in considerazione del tempo impiegato;
 
 Il valore della prestazione e' determinato, in relazione alle singole attivita' svolte dal professionista, secondo i criteri specificati nelle disposizioni della sezione seconda del presente decreto.
 

@@ -8,8 +8,8 @@ codice_redazionale: 006G0272
 vigente: true
 source: normattiva-opendata
 collection: DPR
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:48:03Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -43,6 +43,88 @@ Dall'attuazione del presente regolamento non devono derivare nuovi o maggiori on
 
 ## Art. 2. — Definizioni
 
+1.
+                        
+                            
+                                Ai fini del presente regolamento si intende per:
+ 
+                            
+                            
+                                a)
+                                
+                                    legge: la legge 15 aprile 2004, n. 106;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    Ministro: il Ministro per i beni e le attivita' culturali;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    Ministero: il Ministero per i beni e le attivita' culturali;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    soggetti obbligati al deposito: le persone fisiche o giuridiche, obbligate al deposito legale, ai sensi dell'articolo 3 della legge;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    uso pubblico: la distribuzione, la immissione in circolazione, in commercio o comunque la diffusione al pubblico dei documenti di cui al presente regolamento, anche tramite reti informatiche;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    documenti: i prodotti editoriali destinati all'uso pubblico sia a titolo oneroso che gratuito, contenuti su qualsiasi supporto sia analogico che digitale, nonche' su ulteriori supporti prodotti dall'evoluzione tecnologica nell'ambito delle finalita' previste dalla legge;
+ 1) documenti su supporto informatico: documenti su qualunque supporto tecnologico, di tipo riscrivibile o non riscrivibile, contenenti informazioni digitali;
+ 2) documenti diffusi tramite rete informatica: documenti trasmessi per via telematica, con qualunque rete mobile o fissa;
+ 3) documenti sonori e video: fonogrammi, videogrammi e audiovisivi, diversi da quelli di cui ai numeri 4) e 5);
+ 4) film: spettacolo realizzato su supporti di qualsiasi natura, anche digitale, con contenuto narrativo o documentaristico, iscritto al pubblico registro cinematografico;
+ 5) documenti fotografici: esemplari di fotografie di qualsiasi natura, inclusi esemplari di immagini che documentino opere delle altre arti, qualunque siano il procedimento, analogico, digitale o altro, la tecnica e il supporto utilizzati per la loro realizzazione e diffusione, tra quelli previsti dalla legge 22 aprile 1941, n. 633, e successive modificazioni;
+ 6) grafica d'arte: esemplari di opere grafiche tratte da matrici realizzate con qualsiasi procedimento, manuale o meccanico, tirate in piu' esemplari su qualsiasi supporto, purche' rispondenti alle tecniche e al sistema di stampa dichiarati, prescelti dall'autore stesso nella volonta' di creare un'opera originale dell'ingegno, protetta ai sensi della legge 22 aprile 1941, n. 633, e successive modificazioni;
+ 7) video d'artista: videogrammi di qualsiasi natura, qualunque sia il loro supporto o metodo tecnico di produzione, prescelti dall'autore stesso nella volonta' di creare un'opera dell'ingegno protetta ai sensi della legge 22 aprile 1941, n. 633, e successive modificazioni;
+ 8) microforme: documenti che contengono microimmagini di dati e di documenti su supporto fotochimico, quale la pellicola, solitamente in forma di microfiches o microfilm;
+
+                                
+                            
+                            
+                                g)
+                                
+                                    istituti depositari: le strutture nelle quali, sulla base delle rispettive competenze e specificita', sono raccolti e conservati i documenti oggetto di deposito legale;
+
+                                
+                            
+                            
+                                h)
+                                
+                                    responsabile della pubblicazione: la persona fisica o giuridica che ha prodotto il documento o che lo ha commissionato; nel caso di coedizioni il responsabile della pubblicazione coincide, di norma, con il responsabile della distribuzione;
+
+                                
+                            
+                            
+                                i)
+                                
+                                    produttore di opere filmiche: la persona fisica o giuridica che organizza la produzione di film prodotti totalmente o parzialmente in Italia, o riconosciuti di nazionalita' italiana ai sensi dell'articolo 5 del decreto legislativo 22 gennaio 2004, n. 28;
+
+                                
+                            
+                            
+                                l)
+                                
+                                    pubblicazioni ufficiali: documenti in cui sono pubblicati atti o provvedimenti adottati da istituzioni e amministrazioni pubbliche nell'esercizio delle proprie funzioni. Sono altresi' considerate ufficiali le pubblicazioni dei predetti soggetti pubblici previste da norma di legge o di regolamento.
+
 ## Art. 3. — Archivio nazionale della produzione editoriale
 
 Ai fini della costituzione dell'Archivio nazionale della produzione editoriale, i soggetti obbligati provvedono al deposito legale dei documenti, in numero non superiore a due, presso gli istituti depositari indicati e secondo le modalita' stabilite nel presente regolamento in relazione a ciascuna specie di documento soggetto a deposito legale.
@@ -65,6 +147,45 @@ Fino all'adozione dei decreti di cui al comma 4, restano in vigore i decreti min
 
 Gli istituti depositari sono obbligati a raccogliere, conservare e catalogare i documenti depositati in assolvimento degli obblighi di deposito legale.
 
+2.
+                        
+                            
+                                In particolare gli istituti sono tenuti a:
+ 
+                            
+                            
+                                a)
+                                
+                                    acquisire e catalogare i documenti, secondo le norme definite dagli standard nazionali per le diverse categorie;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    assicurare, ognuno per le proprie competenze e specificita', non appena concluse le procedure gestionali, l'accesso ai documenti, nel rispetto delle norme sul diritto d'autore e sui diritti connessi;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    assicurare la conservazione dei documenti nella loro integrita';
+
+                                
+                            
+                            
+                                d)
+                                
+                                    effettuare, ove necessario, copie a fini conservativi dei documenti depositati e raccolti, nel rispetto delle norme sul diritto d'autore e sui diritti connessi;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    verificare l'esatto adempimento delle prescrizioni della legge e del presente regolamento, reclamare i documenti non pervenuti, eventualmente segnalando l'inadempienza secondo le modalita' di cui all'articolo 44.
+
 Al fine di garantire la sicurezza dei dati relativi ai soggetti obbligati che diffondono i documenti su supporto informatico o tramite rete informatica, gli istituti depositari assicurano che i loro archivi siano conformi alla vigente normativa in materia di sicurezza e protezione dei dati personali degli archivi informatici e agli standard nazionali ed internazionali, in particolare alla norma ISO 14721.
 
 ## - Capo II Deposito dei documenti stampati
@@ -76,6 +197,59 @@ Gli stampati e i documenti a questi assimilabili sono inviati agli istituti depo
 Una copia e' consegnata alla Biblioteca nazionale centrale di Roma e una copia alla Biblioteca nazionale centrale di Firenze.
 
 Due ulteriori copie sono consegnate agli istituti che saranno individuati dalla Conferenza unificata di cui all'articolo 8 del decreto legislativo 28 agosto 1997, n. 281, ai sensi dell'articolo 4.
+
+4.
+                        
+                            
+                                Negli istituti di cui ai commi 2 e 3 sono depositati:
+ 
+                            
+                            
+                                a)
+                                
+                                    libri;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    opuscoli;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    pubblicazioni periodiche;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    carte geografiche e topografiche;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    atlanti;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    manifesti;
+
+                                
+                            
+                            
+                                g)
+                                
+                                    musica a stampa.
 
 Le disposizioni del presente capo si applicano, altresi', ai documenti realizzati per essere fruibili da parte di soggetti disabili.
 
@@ -98,6 +272,52 @@ Ove venga utilizzato il servizio pubblico postale, l'obbligo di deposito legale 
 
 ## Art. 8. — Esonero totale
 
+1.
+                        
+                            
+                                Per l'archivio nazionale della produzione editoriale non sono soggette al deposito legale le seguenti categorie di documenti:
+ 
+                            
+                            
+                                a)
+                                
+                                    estratti, quali i fascicoli contenenti un articolo di rivista o una parte di un libro, che siano stampati a parte utilizzando la stessa composizione, ad esclusione degli estratti di musica a stampa;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    bozze di stampa;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    registri e modulistica;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    elenchi dei protesti cambiari e documenti assimilabili;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    mappe catastali;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    materiale di ordinaria e minuta pubblicita' per il commercio.
+
 Per gli archivi regionali della produzione editoriale non sono soggette al deposito legale le categorie di documenti di cui alle lettere a), b), c), d) ed f) del comma 1, nonche' le ristampe inalterate. Non sono soggette a deposito legale le mappe catastali.
 
 ## Art. 9. — Esonero parziale
@@ -110,11 +330,61 @@ Il Ministero, sentita la Commissione di cui all'articolo 42, o, rispettivamente,
 
 ## Art. 10. — Elementi identificativi da apporre ai documenti stampati
 
+1.
+                        
+                            
+                                Su ogni documento consegnato per il deposito legale, nonche' sugli allegati che eventualmente lo accompagnano, sono apposti, a cura del soggetto obbligato al deposito, i seguenti elementi identificativi:
+ 
+                            
+                            
+                                a)
+                                
+                                    nome, ovvero denominazione o ragione sociale e domicilio o sede legale del soggetto obbligato al deposito;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    anno di effettiva pubblicazione o di produzione o di diffusione in Italia;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    codice identificativo corrispondente alle norme nazionali o internazionali International Standard Book Number (ISBN), International Standard Serial Number (ISSN), se utilizzato dall'editore.
+
 Sui documenti e' altresi' apposta, a cura del soggetto obbligato, la dicitura: «esemplare fuori commercio per il deposito legale agli effetti della legge 15 aprile 2004, n. 106».
 
 Con successivo decreto del Ministro possono essere definite ulteriori modalita' di apposizione di codici identificativi da parte del soggetto obbligato, sentito il parere della Commissione di cui all'articolo 42.
 
 ## Art. 11. — Determinazione del valore commerciale dei documenti stampati ai fini dell'irrogazione delle sanzioni amministrative
+
+1.
+                        
+                            
+                                Nel caso in cui il valore commerciale dei documenti non sia dichiarato, la sua determinazione e' stabilita, al fini dell'irrogazione della sanzione amministrativa di cui all'articolo 7 della legge, dal Ministero, su indicazione degli istituti depositari, sentita la regione competente, sulla base dei seguenti criteri:
+ 
+                            
+                            
+                                a)
+                                
+                                    prezzo medio per pagina della classe ISTAT nella quale la pubblicazione rientra;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    tiratura complessiva dell'edizione;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    confronto con edizioni similari per contenuti e veste grafica.
 
 ## Art. 12. — Particolari categorie di documenti stampati e speciali criteri e modalita' di deposito
 
@@ -164,6 +434,24 @@ Gli elementi identificativi da apporre su ogni documento sonoro e video consegna
 
 ## Art. 18. — Determinazione del valore commerciale dei documenti sonori e video ai fini dell'applicazione delle sanzioni amministrative
 
+1.
+                        
+                            
+                                Nel caso in cui il valore commerciale dei documenti sonori e video non sia dichiarato, la sua determinazione e' stabilita, ai fini dell'irrogazione della sanzione amministrativa di cui all'articolo 7 della legge, secondo le modalita' di cui all'articolo 11, comma 1, sulla base dei seguenti criteri:
+ 
+                            
+                            
+                                a)
+                                
+                                    tiratura complessiva dell'edizione;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    confronto con edizioni similari per contenuti, veste editoriale e tipologia di supporto.
+
 ## Art. 19. — Categorie dei documenti sonori e video e speciali criteri e modalita' di deposito
 
 In deroga a quanto previsto dall'articolo 15, gli istituti depositari possono concordare con i soggetti obbligati forme cumulative di consegna dei documenti sonori e video, secondo scadenze al massimo semestrali.
@@ -202,16 +490,158 @@ L'accettazione definitiva dei documenti di cui all'articolo 2, comma 1, lettera 
 
 ## Art. 22. — Esonero totale
 
+1.
+                        
+                            
+                                Non sono soggette al deposito legale le seguenti categorie di documenti:
+ 
+                            
+                            
+                                a)
+                                
+                                    esemplari di opere a stampa divulgative, impresse su supporti di diverso genere, che abbiano esclusivo esito riproduttivo di opere pertinenti ai diversi linguaggi creativi quali la pittura, la scultura, l'architettura, realizzate con procedimenti fotomeccanici di tipo industriale quali l'offset, la fotolitografia, la fotoserigrafia, la tipografia, o analoghi;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    opere di grafica d'arte, documenti fotografici e video d'artista che siano prodotti in un solo esemplare, quali monotipi, prove di stampa, prove di stato, o che non superino per limiti tecnici le dieci copie;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    ristampe inalterate di opere di grafica d'arte, di documenti fotografici e di video d'artista gia' depositati;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    documenti fotografici che riproducano altre fotografie o opere pertinenti ai diversi linguaggi creativi, la cui matrice analogica o digitale sia gia' conservata presso archivi o fototeche di enti pubblici o di altri soggetti con analoghe funzioni pubblicistiche.
+
 ## Art. 23. — Esonero parziale
+
+1.
+                        
+                            
+                                Il soggetto obbligato puo' proporre istanza al Ministero o, rispettivamente, alla regione competente per territorio, per essere parzialmente esonerato dal deposito legale per:
+ 
+                            
+                            
+                                a)
+                                
+                                    opere di grafica d'arte, documenti fotografici e video d'artista di particolare pregio, per valore commerciale, sempre che il prezzo sia valutabile in misura superiore a 15.000,00 euro;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    opere di grafica d'arte, documenti fotografici e video d'artista prodotti per conto di enti pubblici che conservino a loro volta gli esemplari relativi alle singole realizzazioni;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    tirature o sequenze di documenti fotografici di particolare pregio, al fine di prevedere, a seconda dei casi, una selezione del materiale destinato al deposito, o per concordare la tipologia e la forma piu' appropriata in cui i documenti devono essere depositati.
 
 Il Ministero, o la regione competente, decidono sull'istanza ai sensi dell'articolo 9, comma 3.
 
 ## Art. 24. — Elementi identificativi da apporre ai documenti di grafica d'arte, video d'artista ed ai documenti fotografici
 
+1.
+                        
+                            
+                                Su ogni documento di grafica d'arte consegnato per il deposito legale sono apposti, a cura del soggetto obbligato al deposito, i seguenti elementi identificativi:
+ 
+                            
+                            
+                                a)
+                                
+                                    sul recto:
+ 1) la firma dell'autore, se vivente, quale attestazione della provenienza dell'opera dall'invenzione creativa dell'autore;
+ 2) l'eventuale numerazione araba degli esemplari espressa in frazione, in cui il numeratore indica il numero progressivo del singolo esemplare e il denominatore il numero totale degli esemplari stampati; oppure la sigla corrispondente all'indicazione di «prova d'autore», o «prova d'artista», eventualmente seguita dalla numerazione in numeri romani ed espressa in frazione, in cui il numeratore indica il numero progressivo del singolo esemplare e il denominatore il numero totale degli esemplari;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    sul verso, la dicitura «esemplare fuori commercio per il deposito legale agli effetti della legge 15 aprile 2004, n. 106»;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    nell'elenco di cui all'articolo 21, comma 5:
+ 1) il nome dell'autore;
+ 2) l'indicazione del titolo;
+ 3) l'anno e il luogo, quale la sede editoriale o espositiva, di effettiva pubblicazione, produzione o di diffusione in Italia;
+ 4) l'anno di eventuali precedenti pubblicazioni;
+ 5) la tecnica con la quale e' stata realizzata la matrice, nonche' il sistema di stampa con il quale sono stati tirati gli esemplari;
+ 6) l'indicazione della tiratura;
+ 7) il nome, ovvero la denominazione o la ragione sociale e il domicilio o la sede legale del soggetto obbligato al deposito.
+
+2.
+                        
+                            
+                                Su ogni documento fotografico consegnato per il deposito legale sono apposti, a cura del soggetto obbligato al deposito, i seguenti elementi identificativi:
+ 
+                            
+                            
+                                a)
+                                
+                                    sul recto o sul verso la firma dell'autore, se vivente, quale attestazione della provenienza dell'opera dall'invenzione creativa dell'autore;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    sul verso, la dicitura: «esemplare fuori commercio per il deposito legale agli effetti della legge 15 aprile 2004, n. 106»;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    nell'elenco di cui all'articolo 21, comma 5:
+ 1) il nome del fotografo o la denominazione della ditta da cui il fotografo dipende, o del committente;
+ 2) l'indicazione del titolo o del soggetto raffigurato;
+ 3) l'anno e il luogo, quale la sede editoriale, la sede espositiva, o altro contesto di pubblica diffusione, di effettiva produzione o pubblicazione o di diffusione in Italia;
+ 4) l'anno di eventuali precedenti pubblicazioni;
+ 5) l'indicazione del procedimento utilizzato per la realizzazione del documento e la sua diffusione;
+ 6) l'indicazione della tiratura, ove esista;
+ 7) il nome dell'autore dell'opera riprodotta nel caso si tratti di documentazione di altre opere;
+ 8) il nome, ovvero la denominazione o la ragione sociale e il domicilio o la sede legale del soggetto obbligato al deposito.
+
 Su ogni video d'artista consegnato per il deposito legale sono apposti, a cura del soggetto obbligato al deposito, quali elementi identificativi dell'opera, il nome dell'autore e l'indicazione del titolo, nonche' gli elementi di cui ai numeri da 3) a 6) del comma 2.
 E' altresi riportata la dicitura: «esemplare fuori commercio per il deposito legale agli effetti della legge 15 aprile 2004, n. 106».
 
 ## Art. 25. — Determinazione del valore commerciale dei documenti di grafica d'arte, dei video d'artista, dei documenti fotografici ai fini dell'irrogazione delle sanzioni amministrative.
+
+1.
+                        
+                            
+                                Nel caso in cui il valore commerciale dei documenti di grafica d'arte, fotografici, nonche' dei video d'artista non sia dichiarato, la sua determinazione e' stabilita, ai fini dell'irrogazione della sanzione amministrativa di cui all'articolo 7 della legge, secondo le modalita' di cui all'articolo 11, comma 1, sulla base dei seguenti criteri:
+ 
+                            
+                            
+                                a)
+                                
+                                    tiratura complessiva dell'edizione;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    confronto con edizioni similari dello stesso autore per contenuti e veste grafica ed editoriale.
 
 ## - Capo V Deposito dei film, dei soggetti, dei trattamenti e delle sceneggiature cinematografiche
 
@@ -236,6 +666,45 @@ La consegna dei film e dei documenti di cui all'articolo 4, comma 1, lettera p),
 Per le finalita' indicate dall'articolo 2, comma 1, lettera a), della legge, i soggetti obbligati al deposito forniscono, previo accordo con gli istituti depositari, film e documenti di cui all'articolo 4, comma 1, lettera p), della legge, dai quali sia possibile effettuare copia.
 
 ## Art. 29. — Elementi identificativi da apporre ai documenti cinematografici
+
+1.
+                        
+                            
+                                Su ogni documento consegnato per il deposito legale sono apposti, a cura del soggetto obbligato al deposito, i seguenti elementi identificativi:
+ 
+                            
+                            
+                                a)
+                                
+                                    il nome, ovvero la denominazione o la ragione sociale e il domicilio, ovvero la sede legale del produttore di opere filmiche;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'anno di ultimazione delle lavorazioni per i film;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    l'anno di inizio della lavorazione per i soggetti, per i trattamenti e le sceneggiature di cui all'articolo 4, comma 1, lettera p), della legge;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    in allegato, il nulla osta per la visione del film rilasciato dalla Direzione generale per il cinema;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    per i documenti di cui all'articolo 4, comma 1, lettera p), relativi a film non realizzati, un numero progressivo per anno fornito gratuitamente dalla Cineteca nazionale.
 
 ## Art. 30. — Determinazione del valore commerciale dei film ai fini dell'irrogazione delle sanzioni amministrative
 
@@ -271,9 +740,52 @@ Sono esonerati dal deposito legale i documenti su supporto informatico indicati 
 
 ## Art. 35. — Elementi identificativi da apporre ai documenti diffusi su supporto informatico
 
+1.
+                        
+                            
+                                Su ogni documento su supporto informatico consegnato per il deposito legale, nonche' sugli allegati che eventualmente lo accompagnano, sono apposti, a cura del soggetto obbligato al deposito, i seguenti elementi identificativi:
+ 
+                            
+                            
+                                a)
+                                
+                                    il nome, ovvero la denominazione o la ragione sociale e il domicilio o la sede legale del soggetto obbligato al deposito;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'anno di effettiva pubblicazione o produzione o di diffusione in Italia;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il codice identificativo corrispondente alle norme nazionali o internazionali, quali l'International Standard Book Number (ISBN), International Standard Serial Number (ISSN), Digital Object Identifier (DOI), se utilizzato dal produttore.
+
 Sui documenti e' apposta al cura del soggetto obbligato la dicitura: «Esemplare fuori commercio per il deposito legale agli effetti della legge 15 aprile 2004, n. 106».
 
 ## Art. 36. — Determinazione del valore commerciale dei documenti diffusi su supporto informatico
+
+1.
+                        
+                            
+                                Nel caso in cui il valore commerciale dei documenti su supporto informatico non sia dichiarato, la sua determinazione e' stabilita, ai fini dell'irrogazione della sanzione amministrativa di cui all'articolo 7 della legge, secondo le modalita' di cui all'articolo 11, comma 1, sulla base dei seguenti criteri:
+ 
+                            
+                            
+                                a)
+                                
+                                    valore commerciale di edizioni similari;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    costi di produzione stimati.
 
 ## - Capo VII Deposito dei documenti diffusi tramite rete informatica
 
@@ -282,6 +794,38 @@ Sui documenti e' apposta al cura del soggetto obbligato la dicitura: «Esemplare
 Le modalita' di deposito dei documenti diffusi tramite rete informatica sono definite con successivo regolamento adottato ai sensi dell'articolo 5, comma 1, della legge 15 aprile 2004, n. 106, su proposta del Ministro per i beni e le attivita' culturali, di concerto con il Ministro delegato per l'innovazione e le tecnologie, sentite le associazioni di categoria interessate, nonche' la Commissione per il deposito legale, di cui all'articolo 42 e il Comitato consultivo permanente per il diritto d'autore.
 
 Il Ministero promuove forme volontarie di sperimentazione del deposito, di cui al comma 1, sentita la Commissione per il deposito legale di cui all'articolo 42, mediante la stipulazione di appositi accordi con i soggetti obbligati al deposito. Gli accordi definiscono le modalita' tecniche del deposito prevedendo, ove possibile, anche forme automatiche di raccolta, secondo le migliori pratiche e conoscenze internazionali del settore.
+
+3.
+                        
+                            
+                                Il Ministero, nella stipulazione degli accordi di cui al comma 2, assicura prioritariamente la raccolta delle seguenti tipologie di documenti:
+ 
+                            
+                            
+                                a)
+                                
+                                    documenti che assicurino la continuita' delle collezioni gia' avviate, anche su supporti e mediante tecnologie tradizionali;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    documenti concernenti la produzione scientifica delle universita', dei centri di ricerca e delle istituzioni culturali;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    documenti elaborati e messi in rete da soggetti pubblici;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    documenti relativi a siti che si aggiornano con piu' frequenza, ovvero contenuti in siti che sono maggiormente citati da altri siti.
 
 La Commissione di cui all'articolo 42 cura il monitoraggio della fase di sperimentazione di cui al comma 2, anche al fine dell'istruttoria tecnica propedeutica alla proposta di cui al comma 1.
 
@@ -317,6 +861,133 @@ E' istituita, presso il Ministero, un'apposita Commissione, denominata: «Commis
 
 La Commissione esprime, su richiesta della competente Direzione generale del Ministero, pareri sulle problematiche specifiche derivanti dall'attuazione della legge e propone linee guida e di indirizzo al Ministero, anche in ordine alla individuazione di nuove categorie di documenti e circa i criteri e le modalita' delle esenzioni di cui all'articolo 5, comma 5, lettera d), della legge.
 
+3.
+                        
+                            
+                                La Commissione e' composta:
+ 
+                            
+                            
+                                a)
+                                
+                                    dal Direttore generale per i beni librari e gli istituti culturali;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    da un rappresentante designato dal Ministro per l'innovazione e le tecnologie;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    dal Direttore della Biblioteca nazionale centrale di Roma;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    dal Direttore della Biblioteca nazionale centrale di Firenze;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    dal Direttore della Discoteca di Stato e del Museo dell'audiovisivo;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    dal Direttore dell'Istituto nazionale della grafica;
+
+                                
+                            
+                            
+                                g)
+                                
+                                    dal Direttore della Cineteca nazionale;
+
+                                
+                            
+                            
+                                h)
+                                
+                                    dal Direttore della Biblioteca centrale giuridica del Ministero della giustizia;
+
+                                
+                            
+                            
+                                i)
+                                
+                                    da un rappresentante designato dall'ANCI;
+
+                                
+                            
+                            
+                                l)
+                                
+                                    da un rappresentante designato dall'UPI;
+
+                                
+                            
+                            
+                                m)
+                                
+                                    da un rappresentante designato dal Coordinamento dei presidenti delle regioni e delle province autonome di Trento e di Bolzano.
+
+4.
+                        
+                            
+                                In relazione agli argomenti trattati possono essere sentiti:
+ 
+                            
+                            
+                                a)
+                                
+                                    il Direttore della Biblioteca del Senato della Repubblica;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il Direttore della Biblioteca della Camera dei deputati;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il Direttore della Biblioteca del Consiglio nazionale delle ricerche;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    un rappresentante della Societa' italiana autori ed editori (SIAE);
+
+                                
+                            
+                            
+                                e)
+                                
+                                    i rappresentanti dei soggetti obbligati al deposito indicati dalle rispettive associazioni di categoria, compresi i rappresentanti degli operatori di telecomunicazioni e di internet;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    un rappresentante dell'Associazione italiana biblioteche (AIB).
+
 La partecipazione alla Commissione e' a titolo gratuito. Ai componenti della commissione non sono attribuiti gettoni, indennita' e rimborsi di alcun tipo.
 
 Il supporto segretariale per il funzionamento della Commissione e' assicurato dalla Direzione generale per i beni librari e gli istituti culturali.
@@ -346,4 +1017,29 @@ Il pagamento della sanzione amministrativa non esclude l'obbligo della consegna 
 Le somme derivanti dall'applicazione della sanzione amministrativa da parte dei competenti Uffici ministeriali, sono versate, a cura del soggetto obbligato, all'entrata del bilancio dello Stato, con imputazione al capitolo 2301.
 
 ## Art. 46. — Abrogazioni
+
+1.
+                        
+                            
+                                A decorrere dalla data di entrata in vigore del presente regolamento sono abrogati:
+ 
+                            
+                            
+                                a)
+                                
+                                    la legge 2 febbraio 1939, n. 374, come modificata dal decreto legislativo luogotenenziale 31 agosto 1945, n. 660;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il regolamento di cui al regio decreto 12 dicembre 1940, n. 2052;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    l'articolo 23 del decreto legislativo luogotenenziale 1° marzo 1945, n. 82.
 

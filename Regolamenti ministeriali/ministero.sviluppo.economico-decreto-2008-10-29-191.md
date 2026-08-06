@@ -8,8 +8,8 @@ codice_redazionale: 008G0212
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:38Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -31,9 +31,122 @@ Udito il parere del Consiglio di Stato, espresso dalla sezione consultiva per gl
 
 ## Art. 1. — Definizioni
 
+1.
+                    
+                        
+                            Ai fini del presente regolamento si intende per:
+ 
+                        
+                        
+                            a)
+                            
+                                «assicurazione obbligatoria della responsabilita' civile derivante dalla circolazione dei veicoli a motore e dei natanti»: l'assicurazione obbligatoria della responsabilita' civile derivante dalla circolazione dei veicoli a motore per i rischi del ramo 10, diversi dalla responsabilita' del vettore, e per i rischi del ramo 12 di cui all'articolo 2, comma 3, del decreto legislativo 7 settembre 2005, n. 209;
+
+                            
+                        
+                        
+                            b)
+                            
+                                «contraente»: la persona fisica o giuridica che stipula il contratto di assicurazione obbligatoria della responsabilita' civile derivante dalla circolazione dei veicoli a motore e dei natanti;
+
+                            
+                        
+                        
+                            c)
+                            
+                                «Codice»: il decreto legislativo 7 settembre 2005, n. 209, recante il Codice delle assicurazioni private;
+
+                            
+                        
+                        
+                            d)
+                            
+                                «impresa gestionaria»: l'impresa tenuta alla gestione del danno ai sensi delle norme e delle convenzioni che regolano il sistema di' risarcimento diretto;
+
+                            
+                        
+                        
+                            e)
+                            
+                                «impresa debitrice»: l'impresa che, assicurando il veicolo responsabile in tutto o in parte del sinistro, e' tenuta al rimborso del risarcimento effettuato dall'impresa gestionaria;
+
+                            
+                        
+                        
+                            f)
+                            
+                                «imprese» o «imprese esercenti l'assicurazione obbligatoria della responsabilita' civile derivante dalla circolazione dei veicoli a motore e dei natanti»: le imprese di assicurazione con sede legale in Italia o in uno Stato terzo, autorizzate all'esercizio sul territorio della Repubblica dei rami 10 (esclusa la responsabilita' del vettore) e 12 di cui all'articolo 2, comma 3, del decreto legislativo 7 settembre 2005, n. 209, nonche' le imprese di assicurazione aventi sede legale in un altro Stato membro dello Spazio economico europeo abilitate in Italia, in regime di stabilimento o di libera prestazione di servizi, all'esercizio dei predetti rami;
+
+                            
+                        
+                        
+                            g)
+                            
+                                «punto vendita»: il locale ovvero la sede o la dipendenza dell'intermediario o della compagnia, accessibile al pubblico o adibito al ricevimento del pubblico ove sia possibile sottoscrivere il contratto o ritirare la documentazione attestante la copertura assicurativa obbligatoria.
+
 ## Art. 2. — Ambito di applicazione
 
 I contraenti, gli assicurati ed i danneggiati hanno diritto di accesso agli atti nei confronti delle imprese di assicurazione esercenti l'assicurazione obbligatoria della responsabilita' civile derivante dalla circolazione dei veicoli a motore e dei natanti, relativamente ai procedimenti di valutazione, constatazione e liquidazione dei danni che li riguardano.
+
+2.
+                    
+                        
+                            Sono soggette all'accesso tutte le tipologie di atti, inerenti i procedimenti di cui al comma 1, contenuti nel fascicolo di sinistro, ivi compresi:
+ 
+                        
+                        
+                            a)
+                            
+                                le denunce di sinistro dei soggetti coinvolti;
+
+                            
+                        
+                        
+                            b)
+                            
+                                le richieste di risarcimento dei soggetti coinvolti;
+
+                            
+                        
+                        
+                            c)
+                            
+                                il rapporto delle Autorita' intervenute sul luogo del sinistro;
+
+                            
+                        
+                        
+                            d)
+                            
+                                le dichiarazioni testimoniali sulle modalita' del sinistro con esclusione dei riferimenti anagrafici dei testimoni;
+
+                            
+                        
+                        
+                            e)
+                            
+                                le perizie dei danni materiali;
+
+                            
+                        
+                        
+                            f)
+                            
+                                le perizie medico-legali relative al richiedente;
+
+                            
+                        
+                        
+                            g)
+                            
+                                i preventivi e le fatture riguardanti i veicoli e/o le cose danneggiate;
+
+                            
+                        
+                        
+                            h)
+                            
+                                le quietanze di liquidazione.
 
 Sono escluse dall'accesso le perizie medico-legali relative a persone diverse dal richiedente, salvo che nei limiti in cui sia strettamente indispensabile e solo laddove la situazione giuridicamente rilevante, che si intende tutelare con la richiesta, sia di rango almeno pari ai diritti dell'interessato ovvero consista in un diritto della personalita' o in altro diritto o liberta' fondamentale e inviolabile.
 
@@ -42,6 +155,27 @@ Fatto salvo quanto disposto per l'accesso agli atti contenenti dati di carattere
 Per l'accesso agli atti riguardanti persone decedute si osservano le disposizioni di cui all'articolo 9, comma 3, del decreto legislativo 30 giugno 2003, n. 196.
 
 ## Art. 3. — Esercizio del diritto di accesso
+
+1.
+                    
+                        
+                            Il diritto di accesso agli atti puo' essere esercitato dai contraenti, dagli assicurati e dai danneggiati quando siano conclusi i procedimenti di cui all'articolo 2, comma 1, ed in particolare:
+ 
+                        
+                        
+                            a)
+                            
+                                dal momento in cui l'avente diritto riceve comunicazione della misura della somma offerta per il risarcimento o dei motivi per i quali non si ritiene di fare offerta, ovvero, in caso di mancata offerta o di mancata comunicazione del diniego dell'offerta:
+ 1) decorsi trenta giorni dalla data di ricezione della richiesta di risarcimento, se si tratta di danni a cose e se il modulo di denuncia e' stato sottoscritto dai conducenti dei veicoli;
+ 2) decorsi sessanta giorni dalla data di ricezione della richiesta di risarcimento, se si tratta di danni a cose;
+ 3) decorsi novanta giorni dalla data di ricezione della richiesta di risarcimento, se il sinistro ha causato lesioni personali o il decesso;
+
+                            
+                        
+                        
+                            b)
+                            
+                                decorsi centoventi giorni dalla data di accadimento del sinistro.
 
 Qualora l'impresa, avendo ricevuto una richiesta di risarcimento incompleta, abbia richiesto le necessarie integrazioni entro trenta giorni dalla ricezione della stessa, ai sensi dell'articolo 148, comma 5, del Codice, i termini di cui al comma 1, lettera a), numeri 1), 2) e 3), decorrono dalla data di ricezione da parte dell'impresa dei dati e dei documenti integrativi richiesti.
 

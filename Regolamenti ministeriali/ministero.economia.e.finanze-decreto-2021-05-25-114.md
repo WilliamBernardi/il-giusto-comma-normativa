@@ -7,8 +7,8 @@ urn: urn:nir:ministero.economia.e.finanze:decreto:2021-05-25;114
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:38Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -54,6 +54,138 @@ Formalita' per l'iscrizione
 
 La parte che richiede l'iscrizione nel Registro pegni o il suo rappresentante deve presentare al conservatore, per via telematica, il titolo costitutivo del pegno non possessorio, unitamente ad una domanda sottoscritta digitalmente. Quando l'iscrizione e' richiesta da un rappresentante al conservatore e' presentata anche la procura sottoscritta digitalmente.
 
+2.
+                        
+                            
+                                Nella domanda di iscrizione sono indicati, in conformita' al titolo: 
+ 
+                            
+                            
+                                a)
+                                
+                                    le generalita' del creditore, del debitore e dell'eventuale terzo datore di pegno, con indicazione del cognome, del nome, del luogo e della data di nascita, per gli imprenditori individuali, ovvero della denominazione o ragione sociale e della sede per le persone giuridiche, le societa' e gli altri enti che svolgono attivita' d'impresa; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il codice fiscale delle parti; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il luogo e il numero di iscrizione nel registro imprese del debitore e del datore del pegno; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    il domicilio del creditore, del debitore e del terzo datore del pegno; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    l'indirizzo di posta elettronica certificata del debitore, del datore del pegno e del creditore; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    la data del titolo costitutivo del pegno non possessorio; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    l'importo massimo garantito; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    la descrizione del credito garantito se trattasi di credito presente o la descrizione del rapporto giuridico esistente dal quale potra' sorgere il credito futuro; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    l'indicazione dei beni o crediti gravati con la descrizione degli elementi che ne permettono l'identificazione, ed in particolare: 
+ 1) la natura e se trattasi di bene o credito presente o futuro; 
+ 2) il luogo di ubicazione dei beni, se indicato nel titolo; 
+ 3) il marchio e il numero identificativo, se indicati nel titolo; 
+ 4) la qualita' e la quantita', in caso di insieme di beni; 
+ 5) il tipo di diritto di proprieta' industriale o intellettuale e i relativi estremi di registrazione, se indicati nel titolo, ovvero in mancanza di registrazione, i relativi elementi distintivi; 
+ 6) la natura, la quantita' e gli estremi identificativi delle azioni, ovvero delle partecipazioni gravate; 
+ 7) la categoria merceologica cui appartengono, secondo la nomenclatura stabilita con provvedimento del direttore dell'Agenzia delle entrate da adottarsi entro sessanta giorni dalla pubblicazione del presente decreto nella Gazzetta Ufficiale; 
+ 8) il valore complessivo dei beni gravati come indicato nell'atto di pegno; 
+ 9) la specifica descrizione del credito gravato, se trattasi di credito presente, o la descrizione del rapporto giuridico esistente dal quale potra' sorgere il credito futuro; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    la destinazione economica del bene gravato come dichiarata dal datore del pegno nell'atto di costituzione; 
+
+                                
+                            
+                            
+                                m)
+                                
+                                    l'indicazione della facolta', ove prevista, per il creditore di locare il bene oggetto di pegno al verificarsi degli eventi che ne determinano l'escussione; 
+
+                                
+                            
+                            
+                                n)
+                                
+                                    l'indicazione della facolta' per il creditore, ove prevista, di appropriarsi dei beni oggetto di pegno al verificarsi degli eventi che ne determinano l'escussione; 
+
+                                
+                            
+                            
+                                o)
+                                
+                                    la specifica indicazione che l'acquisto del bene gia' gravato da pegno mobiliare non possessorio e' stato finanziato con un credito garantito da riserva di proprieta' o da altro pegno non possessorio, ove ricorra tale ipotesi; 
+
+                                
+                            
+                            
+                                p)
+                                
+                                    ove il contratto disponga in tal senso, la volonta' delle parti di non consentire al costituente la garanzia di trasformare il bene oggetto del pegno (o di alienarlo o comunque di disporne); 
+
+                                
+                            
+                            
+                                q)
+                                
+                                    la dichiarazione del debitore e, se diverso, del datore del pegno, sottoscritta digitalmente e resa a norma dell'articolo 47 del decreto del Presidente della Repubblica 28 dicembre 2000, n. 445, che i beni o i crediti oggetto di pegno, nonche' il credito garantito, sono destinati ovvero inerenti l'esercizio dell'impresa; 
+
+                                
+                            
+                            
+                                r)
+                                
+                                    la dichiarazione del datore del pegno, sottoscritta digitalmente e resa ai sensi dell'articolo 47 del decreto del Presidente della Repubblica 28 dicembre 2000, n. 445, sull'esistenza o meno di precedente garanzia sui beni o i crediti dati in pegno, costituita a norma di disposizioni diverse dall'articolo 1 del decreto-legge 3 maggio 2016, n. 59, convertito, con modificazioni, dalla legge 30 giugno 2016, n. 119; 
+
+                                
+                            
+                            
+                                s)
+                                
+                                    le condizioni contrattuali che disciplinano il patto di rotativita', ove previsto.
+
 E' facolta' delle parti indicare nella domanda di iscrizione ogni altro elemento ritenuto utile alla individuazione del bene, del credito o del rapporto.
 
 Le iscrizioni e le altre formalita' non si possono eseguire se non in forza di atto pubblico, di scrittura privata autenticata o accertata giudizialmente, di contratto sottoscritto digitalmente ai sensi dell'articolo 24 del decreto legislativo 7 marzo 2005, n. 82, o di provvedimento dell'autorita' giudiziaria.
@@ -92,6 +224,38 @@ Con il medesimo provvedimento sono stabilite le modalita' per la registrazione d
 
 Al fine di procedere all'iscrizione e alle altre formalita' previste nel presente regolamento, il conservatore verifica la presenza delle condizioni richieste per il relativo inserimento nel registro e la conformita' della domanda al titolo.
 
+2.
+                        
+                            
+                                Il conservatore non puo' ricevere le domande e i titoli quando: 
+ 
+                            
+                            
+                                a)
+                                
+                                    sono non intellegibili o in lingua diversa da quella italiana, salvo quanto previsto in tema di bilinguismo; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    non sono trasmessi per via telematica; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il titolo non ha i requisiti previsti dall'articolo 3, comma 4; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    le domande di iscrizione non hanno i requisiti previsti dall'articolo 3, comma 2.
+
 Il conservatore, nel caso in cui non riceva i titoli e le domande ai sensi del presente regolamento, indica sulla domanda i motivi del rifiuto e la restituisce telematicamente, secondo le modalita' stabilite con il provvedimento di cui all'articolo 7, alla parte richiedente. Contro il rifiuto del conservatore, la parte puo' avvalersi del procedimento stabilito nell'articolo 745, secondo comma, del codice di procedura civile.
 
 ## Art. 9. — Conservazione delle domande e dei titoli
@@ -104,6 +268,25 @@ Il Registro pegni, la raccolta delle domande e i titoli consegnati al conservato
  mobiliari non possessori
 
 Il Registro pegni e la raccolta delle domande sono consultabili da chiunque per via telematica.
+
+2.
+                        
+                            
+                                Per ogni richiesta di visura devono essere indicati: 
+ 
+                            
+                            
+                                a)
+                                
+                                    i dati identificativi del debitore o del datore di pegno ovvero il relativo codice fiscale; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    i dati del richiedente; 
+ La richiesta puo' essere limitata a specifiche categorie di beni.
 
 Per il rilascio di ogni certificato, generale o speciale, delle formalita' iscritte nel Registro pegni e per ogni copia delle medesime formalita', il richiedente deve presentare apposita domanda indicando gli elementi di cui al comma 2.
 

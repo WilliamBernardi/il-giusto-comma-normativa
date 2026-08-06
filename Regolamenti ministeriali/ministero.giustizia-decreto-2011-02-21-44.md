@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
 vigenza_date: 2024-01-15
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:38Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -39,6 +39,172 @@ Udito il parere del Consiglio di Stato, espresso dalla sezione consultiva per gl
 Il presente decreto stabilisce le regole tecniche per l'adozione nel processo civile e nel processo penale delle tecnologie dell'informazione e della comunicazione ai sensi dell'articolo 4, comma 1, del decreto-legge 29 dicembre 2009, n. 193, convertito nella legge 22 febbraio 2010 n. 24, recante «Interventi urgenti in materia di funzionalita' del sistema giudiziario» ed in attuazione del decreto legislativo 7 marzo 2005, n. 82, recante «Codice dell'amministrazione digitale» e successive modificazioni.
 
 ## Art. 2. — Definizioni
+
+1.
+                        
+                            
+                                Ai fini del presente decreto si intendono per: 
+ 
+                            
+                            
+                                a)
+                                
+                                    dominio giustizia: l'insieme delle risorse hardware e software, mediante il quale il Ministero della giustizia tratta in via informatica e telematica qualsiasi tipo di attivita', di dato, di servizio, di comunicazione e di procedura; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    portale dei servizi telematici: ((piattaforma informatica)) che fornisce l'accesso ((o il collegamento)) ai servizi telematici resi disponibili dal dominio giustizia, secondo le regole tecnico-operative riportate nel presente decreto; 
+ ((b-bis): portale dei depositi telematici: piattaforma informatica che consente il deposito di atti e documenti in formato digitale da parte dei soggetti abilitati esterni e degli utenti privati; 
+ b-ter): portale delle notizie di reato: piattaforma informatica che consente il deposito di atti e documenti in formato digitale riservata agli ufficiali e agenti di polizia giudiziaria ed a ogni altro soggetto tenuto per legge alla trasmissione della notizia di reato;))
+                                    
+                                
+                            
+                            
+                                c)
+                                
+                                    punto di accesso: struttura tecnologica-organizzativa che fornisce ai soggetti abilitati esterni al dominio giustizia i servizi di connessione al portale dei servizi telematici, secondo le regole tecnico-operative riportate nel presente decreto; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    gestore dei servizi telematici: sistema informatico, interno al dominio giustizia, che consente l'interoperabilita' tra i sistemi informatici utilizzati dai soggetti abilitati interni, il portale dei servizi telematici e il gestore di posta elettronica certificata del Ministero della giustizia; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    posta elettronica certificata: sistema di posta elettronica nel quale e' fornita al mittente documentazione elettronica attestante l'invio e la consegna di documenti informatici, di cui al decreto del Presidente della Repubblica 11 febbraio 2005, n. 68; 
+ ((e-bis): servizio elettronico di recapito certificato qualificato: il servizio elettronico di recapito certificato qualificato come definito dal Regolamento (UE) n. 910/2014 (eIDAS);))
+                                    
+                                
+                            
+                            
+                                f)
+                                
+                                    identificazione informatica: processo di identificazione dell'utente abilitato interno o esterno per l'accesso ai servizi, alle piattaforme e alle risorse del dominio giustizia, mediante autenticazione elettronica, in conformita' alle disposizioni dettate in materia di identificazione e autenticazione elettronica dal decreto legislativo 7 marzo 2005, n. 82 e dal Regolamento (UE) n. 910/2014 (eIDAS);
+                                
+                            
+                            
+                                g)
+                                
+                                    firma digitale: firma elettronica ((qualificata))
+                                        ((...)), di cui al decreto legislativo 7 marzo 2005, n. 82; 
+ ((g-bis): firma elettronica qualificata: firma elettronica avanzata, creata da un dispositivo per la creazione di una firma elettronica qualificata e basata su un certificato qualificato per firme elettroniche, di cui al Regolamento (UE) n. 910/2014 (eIDAS);))
+                                    
+                                
+                            
+                            
+                                h)
+                                
+                                    fascicolo informatico: fascicolo contenente gli atti e i documenti redatti in forma di documento informatico nonche' le copie informatiche di atti e documenti redatti in forma di documento analogico, nel rispetto di quanto stabilito dal codice dell'amministrazione digitale e dalla disciplina processuale vigente;
+                                
+                            
+                            
+                                h-bis)
+                                
+                                    applicativo informatico: insieme di programmi messi a disposizione dal Ministero della giustizia ai soggetti abilitati interni;
+                                
+                            
+                            
+                                i)
+                                
+                                    
+                                        codice dell'amministrazione digitale (CAD): decreto legislativo 7 marzo 2005, n. 82, recante "Codice dell'amministrazione digitale" e successive modificazioni; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    
+                                        codice in materia di protezione dei dati personali: decreto legislativo 30 giugno 2003, n. 196, recante "Codice in materia di protezione dei dati personali" e successive modificazioni; 
+
+                                
+                            
+                            
+                                m)
+                                
+                                    soggetti abilitati: i soggetti abilitati all'utilizzo dei servizi di consultazione di informazioni e trasmissione di documenti informatici relativi al processo. In particolare si intende per: 
+ 1) soggetti abilitati interni: i magistrati, il personale degli uffici giudiziari e degli UNEP; 
+ 2) soggetti abilitati esterni: i soggetti abilitati esterni privati e i soggetti abilitati esterni pubblici; 
+ 3) soggetti abilitati esterni privati: i difensori delle parti private, gli avvocati iscritti negli elenchi speciali, gli esperti e gli ausiliari del giudice ((, nonche' le persone fisiche che possono stare in giudizio personalmente e quelle che rappresentano un ente privato)); 
+ ((4) soggetti abilitati esterni pubblici: l'Avvocatura generale dello Stato, le avvocature distrettuali dello Stato, gli avvocati e i procuratori dello Stato, gli altri dipendenti di amministrazioni statali, regionali, metropolitane, provinciali e comunali nonche' il personale di polizia giudiziaria ed ogni altro soggetto tenuto per legge alla trasmissione della notizia di reato e delle comunicazioni successive;))
+                                    
+                                
+                            
+                            
+                                n)
+                                
+                                    utente privato: la persona fisica o giuridica, quando opera al di fuori dei casi previsti dalla lettera m); 
+
+                                
+                            
+                            
+                                o)
+                                
+                                    certificazione del soggetto abilitato esterno privato: attestazione di iscrizione all'albo, all'albo speciale, al registro ovvero di possesso della qualifica che legittima l'esercizio delle funzioni professionali e l'assenza di cause ostative all'accesso; 
+
+                                
+                            
+                            
+                                p)
+                                
+                                    certificazione del soggetto abilitato esterno pubblico: attestazione di appartenenza del soggetto all'amministrazione pubblica e dello svolgimento di funzioni tali da legittimare l'accesso; 
+
+                                
+                            
+                            
+                                q)
+                                
+                                    specifiche tecniche: le disposizioni di carattere tecnico emanate, ai sensi dell'articolo 34, dal responsabile per i sistemi informativi automatizzati del Ministero della giustizia, ((sentita l'Agenzia per l'Italia Digitale)) e il Garante per la protezione dei dati personali, limitatamente ai profili inerenti la protezione dei dati personali; 
+
+                                
+                            
+                            
+                                r)
+                                
+                                    spam: messaggi indesiderati; 
+
+                                
+                            
+                            
+                                s)
+                                
+                                    software antispam: software studiato e progettato per rilevare ed eliminare lo spam; 
+
+                                
+                            
+                            
+                                t)
+                                
+                                    log: documento informatico contenente la registrazione cronologica di una o piu' operazioni informatiche, generato automaticamente dal sistema informatico; 
+
+                                
+                            
+                            
+                                u)
+                                
+                                    pagoPA: il sistema dei pagamenti a favore delle pubbliche amministrazioni e dei gestori di pubblici servizi, che si avvale della piattaforma tecnologica di cui all'articolo 5, comma 2, del CAD;
+                                
+                            
+                            
+                                v)
+                                
+                                    Identificativo unico di versamento: codice numerico conforme agli standard stabiliti da pagoPA, che costituisce elemento identificativo delle operazioni che transitano su pagoPA.
+                                
+                            
+                            
+                                z)
+                                
+                                    
+                                        ((LETTERA SOPPRESSA DAL DECREO 29 DICEMBRE 2023, N. 217)); 
+ aa)((LETTERA SOPPRESSA DAL DECREO 29 DICEMBRE 2023, N. 217));
 
 ## - Capo II SISTEMI INFORMATICI DEL DOMINIO GIUSTIZIA
 
@@ -125,6 +291,31 @@ Il sistema di gestione del fascicolo informatico e' la parte del sistema documen
 Restano fermi gli obblighi di conservazione dei documenti originali unici su supporto cartaceo previsti dal codice dell'amministrazione digitale o di atti e documenti depositati o comunque acquisiti in forma di documento analogico in conformita' alla disciplina processuale vigente.
 
 ))
+
+4.
+                        
+                            
+                                Il fascicolo informatico reca l'indicazione: 
+ 
+                            
+                            
+                                a)
+                                
+                                    dell'ufficio titolare del procedimento, che cura ((la formazione)) e la gestione del fascicolo medesimo; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    dell'oggetto del procedimento ((e di ogni altro specifico contenuto previsto dalla normativa processuale e regolamentare)); 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    dell'elenco dettagliato degli atti e dei documenti depositati o comunque acquisiti, compresi quelli in forma di documento analogico;
 
 Il fascicolo informatico e' formato in modo da garantire la facile reperibilita' ed il collegamento degli atti ivi contenuti in relazione alla data di deposito, al loro contenuto, ed alle finalita' dei singoli documenti.
 
@@ -304,9 +495,94 @@ La violazione da parte del gestore di un punto di accesso dei livelli di sicurez
 
 Il Ministero della giustizia dispone ispezioni tecniche, anche a campione, per verificare l'attuazione delle prescrizioni di sicurezza.
 
+6.
+                        
+                            
+                                Possono gestire uno o piu' punti di accesso: 
+ 
+                            
+                            
+                                a)
+                                
+                                    i consigli degli ordini professionali, i collegi ed i Consigli nazionali professionali, limitatamente ai propri iscritti; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il Consiglio nazionale forense, ove delegato da uno o piu' consigli degli ordini degli avvocati, limitatamente agli iscritti del consiglio delegante; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il Consiglio nazionale del notariato, limitatamente ai propri iscritti; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    l'Avvocatura dello Stato, le amministrazioni statali o equiparate, e gli enti pubblici, limitatamente ai loro iscritti e dipendenti; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    le Regioni, le citta' metropolitane, le provincie ed i Comuni, o enti consorziati tra gli stessi. 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    Le Camere di Commercio, per le imprese iscritte nel relativo registro.
+
 I punti di accesso possono essere altresi' gestiti da societa' di capitali in possesso di un capitale sociale interamente versato non inferiore a un milione di euro.
 
 ## Art. 24. — Elenco pubblico dei punti di accesso
+
+1.
+                        
+                            
+                                L'elenco pubblico dei punti di accesso attivi presso il Ministero della giustizia comprende le seguenti informazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    identificativo del punto di accesso; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    sede legale del soggetto titolare del punto di accesso; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    indirizzo internet; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    dati relativi al legale rappresentante del punto di accesso o a un suo delegato, comprendenti: nome, cognome, codice fiscale, indirizzo di posta elettronica certificata, numero di telefono e di fax; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    recapiti relativi ai referenti tecnici da contattare in caso di problemi.
 
 ## Art. 25. — Iscrizione nell'elenco pubblico dei punti di accesso
 

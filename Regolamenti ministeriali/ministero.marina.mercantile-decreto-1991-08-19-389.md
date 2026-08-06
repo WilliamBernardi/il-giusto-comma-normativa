@@ -8,8 +8,8 @@ codice_redazionale: 091G0440
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:38Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -30,6 +30,31 @@ Udito il parere del Consiglio di Stato espresso nell'adunanza generale del 30 ot
 ## Art. 1.
 
 Gli enti e le associazioni nautiche a livello nazionale che gestiscono scuole per il conseguimento delle patenti nautiche possono richiedere lo svolgimento degli esami presso le proprie sedi per i soci che abbiano frequentato i relativi corsi di preparazione. A tal fine devono inoltrare apposita domanda alle capitanerie di porto o agli uffici circondariali marittimi o agli uffici provinciali della motorizzazione civile competenti per territorio.
+
+2.
+                    
+                        
+                            La domanda deve contenere:
+ 
+                        
+                        
+                            a)
+                            
+                                l'elenco nominativo dei candidati (non inferiore a 10 per ogni sessione di esame);
+
+                            
+                        
+                        
+                            b)
+                            
+                                l'indicazione della sede di svolgimento degli esami teorici e pratici;
+
+                            
+                        
+                        
+                            c)
+                            
+                                il nominativo del proprio rappresentante e del supplente in seno alla commissione d'esame.
 
 Devono inoltre essere trasmesse, in allegato, le domande di ammissione agli esami presentate dai candidati nelle forme e con le modalita' previste dagli articoli 4 e 5.
 
@@ -64,6 +89,31 @@ In caso di esito favorevole dell'esame le patenti vengono rilasciate dalle capit
 Ai sensi e per gli effetti del presente regolamento il Ministero della marina mercantile e il Ministero dei trasporti redigono un apposito elenco degli enti e delle associazioni nautiche considerati a livello nazionale.
 
 Di tale elenco viene data comunicazione ai rispettivi uffici periferici.
+
+3.
+                    
+                        
+                            Gli enti e le associazioni nautiche per essere considerate a livello nazionale devono, all'atto della domanda di inserimento nell'apposito elenco di cui al precedente comma:
+ 
+                        
+                        
+                            a)
+                            
+                                avere lo scopo previsto dallo statuto o dall'atto costitutivo di diffondere la pratica di attivita' sportive e ricreative non a fine di lucro;
+
+                            
+                        
+                        
+                            b)
+                            
+                                avere svolto attivita' d'istruzione nel campo della nautica da diporto da almeno cinque anni;
+
+                            
+                        
+                        
+                            c)
+                            
+                                operare sul territorio nazionale con un minimo di cinque sezioni o delegazioni costituite da almeno tre anni; ciascuna sezione o delegazione deve avere almeno cinquanta soci e disporre di una sede in prossimita' delle acque marittime od interne idonea allo svolgimento dell'attivita' nautica.
 
 ## Art. 8.
 

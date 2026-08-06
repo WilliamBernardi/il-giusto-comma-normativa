@@ -8,8 +8,8 @@ codice_redazionale: 099G0245
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:41Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DEL CONSIGLIO DEI MINISTRI
@@ -43,6 +43,45 @@ Nell'ambito della Presidenza del Consiglio dei Ministri e' istituito l'"Ufficio 
 ## Art. 2. — Competenze
 
 L'Ufficio fornisce al Ministro il supporto necessario allo svolgimento delle funzioni delegate in materia di contrasto alla disoccupazione e di promozione dell'occupazione, in un contesto di pari opportunita' per l'accesso al lavoro, nelle aree depresse, con particolare riferimento al Mezzogiorno ed alle aree di crisi, nonche' in materia di emersione del lavoro irregolare.
+
+2.
+                    
+                        
+                            L'Ufficio provvede, in particolare, agli adempimenti riguardanti:
+ 
+                        
+                        
+                            a)
+                            
+                                la raccolta, l'analisi e l'elaborazione delle informazioni e dei dati, acquisiti dalle amministrazioni, dagli enti e dalle istituzioni, concernenti l'andamento dell'occupazione nelle aree depresse, con specifico riguardo al Mezzogiorno ed alle aree di crisi, al fine di proporre strategie e misure di contrasto e di verificarne ed ottimizzarne gli effetti;
+
+                            
+                        
+                        
+                            b)
+                            
+                                il monitoraggio delle situazioni di tensione occupazionale, al fine di formulare proposte per il coordinato utilizzo delle risorse e degli strumenti disponibili, in vista di soluzioni operative a breve e medio termine;
+
+                            
+                        
+                        
+                            c)
+                            
+                                l'esame delle relazioni periodiche predisposte dal Comitato per il coordinamento delle iniziative per l'occupazione, al fine di trarne valutazioni e proposte utili alla enucleazione degli obiettivi;
+
+                            
+                        
+                        
+                            d)
+                            
+                                l'istruttoria dei procedimenti di individuazione delle aree di crisi, di cui all'articolo 2, comma 203, lettera f), della legge 23 dicembre 1996, n. 662;
+
+                            
+                        
+                        
+                            e)
+                            
+                                il supporto tecnico ed amministrativo relativo ai processi di reindustrializzazione e sviluppo economico nelle aree indicate dall'articolo 2, commi 9 e 9-bis, del decretolegge 20 maggio 1993, n. 148, convertito, con modificazioni, dalla legge 19 luglio 1993, n. 236.
 
 ## Art. 3. — Capo dell'Ufficio
 

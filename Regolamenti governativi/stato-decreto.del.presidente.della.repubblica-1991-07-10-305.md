@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Regolamenti governativi
 vigenza_date: 1997-07-27
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:10Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -38,6 +38,24 @@ L'autorizzazione e' concessa, dopo aver valutato i motivi di interesse pubblico 
 
 ## Art. 4.
 
+1.
+                    
+                        
+                            Sono ammessi ad usufruire del servizio le seguenti categorie di utenti:
+ 
+                        
+                        
+                            a)
+                            
+                                categoria A: organi dello Stato, enti pubblici titolari, a norma di legge, dei diritti di acquisizione o di consultazione gratuita degli atti dei catasti;
+
+                            
+                        
+                        
+                            b)
+                            
+                                categoria B: enti, persone giuridiche non comprese nella categoria A e persone fisiche.
+
 ## Art. 5.
 
 L'autorizzazione puo' cessare per le cause previste nella convenzione di rilascio. Il Ministero delle finanze puo' revocare, sospendere o limitare la concessione nel caso in cui subentrino motivi di interesse pubblico o si verifichino gravi violazioni degli obblighi assunti dall'utente. La revoca o la limitazione e' comunicata attraverso lettera raccomandata con ricevuta di ritorno, con tassa a carico del destinatario ed ha effetto dal decimo giorno successivo al suo ricevimento.
@@ -63,6 +81,31 @@ E' fatto divieto all'utente di utilizzare le informazioni assunte per fini diver
 La violazione dei divieti di cui all'art. 9 comporta la revoca della concessione e, ove ricorra il caso, la denuncia del fatto all'autorita' giudiziaria.
 
 ## Art. 11.
+
+1.
+                    
+                        
+                            L'utenza del servizio e' concessa dietro pagamento dei corrispettivi di seguito indicati: 
+ 
+                        
+                        
+                            a)
+                            
+                                cauzione a garanzia degli obblighi derivanti dalla convenzione da versarsi all'atto della stipula della stessa. L'importo della cauzione verra' trattenuto dal Ministero delle finanze e sara' restituito al termine della utenza; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                canone di abbonamento per ciascun anno della durata della convenzione da versarsi in rate trimestrali anticipate. Per il primo anno di durata della convenzione il canone e' dovuto in ragione di tanti dodicesimi quanti sono i mesi intercorrenti fra quello di stipula e la fine dell'anno. Il mese in cui viene rilasciata l'autorizzazione e' computato nei dodicesimi; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                addebito a consuntivo per le visure effettuate nel trimestre precedente in base alla tariffa unitaria in vigore.
 
 Gli importi suddetti sono fissati con decreto del Ministro delle finanze, di concerto con il Ministro del tesoro, ad eccezione di quello previsto dalla lettera c) del comma 1 che e' determinato nella stessa misura di quello stabilito dalla tabella A allegata al decreto del Presidente della Repubblica 26 ottobre 1972, n. 648, modificato dall'art. 8, comma 3, del decreto-legge 30 settembre 1989, n. 332, convertito, con modificazioni, dalla legge 27 novembre 1989, n. 384.
 Il canone di abbonamento viene revisionato in relazione alla variazione accertata dall'Istituto centrale di statistica dell'indice dei prezzi al consumo per le famiglie di operai e impiegati verificatasi nel biennio precedente.

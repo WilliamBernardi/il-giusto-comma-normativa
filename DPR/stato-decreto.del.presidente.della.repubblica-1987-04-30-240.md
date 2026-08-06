@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: DPR
 vigenza_date: 2022-12-28
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:47:46Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -93,9 +93,45 @@ AGGIORNAMENTO ((5))
 
 ## Art. 7. — Organico
 
+1.
+                        
+                            
+                                La dotazione organica della banda musicale della Polizia di Stato e' cosi' determinata:
+ 
+                            
+                            
+                                a)
+                                
+                                    un maestro direttore;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    un maestro vice direttore;
+
 Le suddette dotazioni sono comprese nell'organico complessivo della Polizia di Stato.
 
 ## Art. 8. — Ruoli
+
+1.
+                        
+                            
+                                I ruoli degli appartenenti alla banda musicale della Polizia di Stato sono i seguenti:
+ 
+                            
+                            
+                                a)
+                                
+                                    ruolo del maestro direttore: un posto;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    ruolo del maestro vice direttore: un posto;
 
 I ruoli di cui del presente articolo fanno parte dei ruoli del personale della Polizia di Stato che svolge delle attivita' tecnico-scientifica o tecnica.
 
@@ -254,15 +290,111 @@ Gli scatti aggiuntivi di cui agli articoli 15-quater e 15-quinquies sono riassor
 ## Art. 16. — Commissione esaminatrice del concorso a maestro direttore e a
 maestro vice direttore.
 
+1.
+                        
+                            
+                                La commissione esaminatrice dei concorsi previsti dagli articoli ((12 e 13)) e' nominata con decreto del Ministro dell'interno ed e' composta da:
+ 
+                            
+                            
+                                a)
+                                
+                                    un dirigente generale in servizio presso il Dipartimento della pubblica sicurezza che la presiede;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    un funzionario dirigente in servizio presso il Dipartimento della pubblica sicurezza;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    un insegnante di composizione presso un conservatorio statale;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    due insegnanti di strumentazione per banda presso un conservatorio statale o due esperti della materia.
+
 Nella commissione esaminatrice del concorso a maestro vice direttore uno dei membri di cui alla lettera d) del comma 1 puo' essere il maestro direttore della banda.
 
 Le funzioni di segretario sono disimpegnate da un funzionario della carriera direttiva in servizio presso il Dipartimento della pubblica sicurezza.
 
 ## Art. 17. — (( (Commissione esaminatrice del concorso ad orchestrale) ))
 
+1.
+                        
+                            
+                                La commissione esaminatrice del concorso previsto dall'articolo 14 e' nominata con decreto del Ministro dell'interno ed e' composta da:
+ 
+                            
+                            
+                                a)
+                                
+                                    un funzionario dirigente in servizio presso il Dipartimento della pubblica sicurezza, che la presiede;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    un funzionario direttivo con la qualifica non inferiore a vice questore aggiunto o equiparata in servizio presso lo stesso Dipartimento;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il maestro direttore della banda musicale della Polizia di Stato;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    due insegnanti presso un conservatorio statale o due esperti, di cui uno docente o esperto dello strumento per il quale e' bandito il concorso.
+
 Le funzioni di segretario sono disimpegnate da un funzionario della carriera direttiva in servizio presso il Dipartimento della pubblica sicurezza.
 
 ## Art. 18. — Concorso per la nomina a maestro direttore
+
+1.
+                        
+                            
+                                I candidati al concorso di cui all'articolo 12 sostengono le seguenti prove:
+ 
+                            
+                            
+                                a)
+                                
+                                    tre prove scritte su temi dati dalla commissione, cosi' distinte:
+ 1) composizione di una fuga a quattro parti, da svolgere in un tempo massimo di diciotto ore;
+ 2) composizione di una marcia eroica o funebre o trionfale o militare per pianoforte con qualche accenno strumentale, da svolgere in un tempo massimo di diciotto ore;
+ 3) strumentazione per banda di un brano di musica per pianoforte, organo o per orchestra, da svolgere in un tempo massimo di diciotto ore.
+
+                                
+                            
+                            
+                                b)
+                                
+                                    una prova orale vertente sulle seguenti materie:
+ 1) organizzazione delle bande musicali e loro sviluppo storico;
+ 2) tecnica di tutti gli strumenti compresi nell'organico strumentale;
+ 3) vari tipi di partitura;
+ 4) impiego degli strumenti suddetti.
+
+                                
+                            
+                            
+                                c)
+                                
+                                    una prova pratica consistente nella concertazione e direzione di uno o piu' brani, a scelta della commissione, che saranno lasciati al candidato per un tempo conveniente, stabilito dalla stessa commissione esaminatrice.
 
 Il punteggio di merito delle prove scritte e' dato dalla media dei punti riportati in ciascuna prova.
 
@@ -274,6 +406,37 @@ Il punteggio di merito finale per la formazione della graduatoria e' dato dalla 
 
 ## Art. 19. — Concorso per la nomina a maestro vice direttore
 
+1.
+                        
+                            
+                                I candidati al concorso di cui all'articolo 13 sostengono le seguenti prove:
+ 
+                            
+                            
+                                a)
+                                
+                                    tre prove scritte su temi dati dalla commissione, cosi' distinte:
+ 1) armonizzazione a quattro parti di un brano, da svolgere nel tempo massimo di otto ore;
+ 2) composizione di una marcia militare per pianoforte con qualche accenno strumentale, da svolgere in un tempo massimo di diciotto ore;
+ 3) strumentazione per banda di un brano di musica per pianoforte, da svolgere in un tempo massimo di diciotto ore.
+
+                                
+                            
+                            
+                                b)
+                                
+                                    prova orale vertente sulle seguenti materie:
+ 1) tecnica di tutti gli strumenti compresi nell'organico strumentale;
+ 2) vari tipi di partitura;
+ 3) impiego degli strumenti suddetti.
+
+                                
+                            
+                            
+                                c)
+                                
+                                    una prova pratica consistente nella concertazione e direzione di uno o piu' brani scelti dalla commissione, che saranno lasciati al candidato per un tempo conveniente stabilito dalla stessa commissione esaminatrice.
+
 Il punteggio complessivo di merito delle prove scritte e' dato dalla media dei punti riportati in ciascuna prova.
 
 E' ammesso alla prova orale ed alla prova pratica il candidato che abbia riportato un punteggio di merito di almeno 35/50 in ciascuna delle prove scritte ed un punteggio complessivo di merito non inferiore a 40/50.
@@ -283,6 +446,31 @@ La prova orale e la prova pratica si intendono superate se il candidato ha ripor
 Il punteggio di merito finale per la formazione della graduatoria e' dato dalla somma della media dei punteggi riportati nelle prove d'esame e del punteggio attribuito nella valutazione dei titoli.
 
 ## Art. 20. — (( (Concorso per la nomina ad orchestrale) ))
+
+1.
+                        
+                            
+                                I candidati al concorso di cui all'art. 14 sostengono le seguenti prove:
+ 
+                            
+                            
+                                a)
+                                
+                                    esecuzione con lo strumento per il quale e' stato bandito il concorso di un brano da concerto, scelto dal candidato, e di uno studio di adeguate difficolta' tecniche, scelto dalla commissione giudicatrice fra tre proposti dal candidato;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    lettura ed esecuzione a prima vista di uno o piu' brani scelti dalla commissione;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    colloquio vertente su nozioni relative alla struttura fisico-acustica ed alla storia dello strumento suonato.
 
 Per i concorrenti a posti di prima e seconda parte, le suddette prove sono integrate dall'esecuzione, nell'insieme della banda, di uno o piu' brani, a scelta della commissione, tratti dal repertorio lirico o sinfonico riguardante lo strumento suonato.
 
@@ -419,6 +607,31 @@ Le prove sono preordinate all'accertamento dell'idoneita' allo svolgimento delle
 
 ## Art. 38. — Commissione esaminatrice
 
+1.
+                        
+                            
+                                La commissione esaminatrice delle prove musicali di cui all'articolo 37, e' nominata con decreto del Ministro dell'interno ed e' costituita da:
+ 
+                            
+                            
+                                a)
+                                
+                                    un dirigente superiore in servizio presso il Dipartimento della pubblica sicurezza, con funzioni di presidente;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    un funzionario direttivo con qualifica di vice questore aggiunto, o equiparata, in servizio presso lo stesso Dipartimento;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    tre esperti musicali estranei all'Amministrazione di cui uno esperto per lo strumento il quale si effettua la prova.
+
 Svolge le funzioni di segretario un funzionario direttivo in servizio presso il Dipartimento della pubblica sicurezza.
 
 ## Art. 39. — Prova musicale per gli esecutori
@@ -429,6 +642,49 @@ Per l'accesso alla terza parte A, la prova musicale consiste nell'esecuzione, co
 
 ## Art. 40. — Prove musicali per il maestro direttore
  ed il maestro vice direttore
+
+1.
+                        
+                            
+                                Per accedere al ruolo del maestro direttore della banda musicale, il personale di cui agli articoli 35 e 36 deve sostenere una prova musicale cosi' articolata:
+ 
+                            
+                            
+                                a)
+                                
+                                    strumentazione per banda di un brano di musica per pianoforte, organo od orchestra, da svolgere in tempo massimo di diciotto ore;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    composizione di una marcia eroica o funebre o trionfale o militare per pianoforte con qualche accenno strumentale da svolgere in tempo massimo di diciotto ore;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    concertazione e direzione di uno o piu' brani scelti dalla commissione, che saranno lasciati al candidato per un tempo conveniente stabilito dalla stessa commissione esaminatrice.
+
+2.
+                        
+                            
+                                Per accedere al ruolo del maestro vice direttore il personale di cui al comma 1 dell'art. 34 deve sostenere le seguenti prove:
+ 
+                            
+                            
+                                a)
+                                
+                                    strumentazione per banda di un brano di musica per pianoforte, da svolgere in un tempo massimo di diciotto ore;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    concertazione e direzione di uno o piu' brani scelti dalla commissione, che saranno lasciati al candidato per un tempo conveniente stabilito dalla stessa commissione esaminatrice.
 
 ## Art. 41. — Punteggio di merito
 

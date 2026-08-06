@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
 vigenza_date: 2026-06-19
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:34Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -41,7 +41,117 @@ Nel rispetto della Costituzione ed in conformita' ai principi contenuti nei trat
 
 Sono riconosciuti e garantiti i diritti e gli interessi individuali e collettivi dei consumatori e degli utenti, ne e' promossa la tutela in sede nazionale e locale, anche in forma collettiva e associativa, sono favorite le iniziative rivolte a perseguire tali finalita', anche attraverso la disciplina dei rapporti tra le associazioni dei consumatori e degli utenti e le pubbliche amministrazioni.
 
+2.
+                        
+                            
+                                Ai consumatori ed agli utenti sono riconosciuti come fondamentali i diritti:
+ 
+                            
+                            
+                                a)
+                                
+                                    alla tutela della salute;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    alla sicurezza e alla qualita' dei prodotti e dei servizi;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    ad una adeguata informazione e ad una corretta pubblicita';
+
+                                
+                            
+                            
+                                c-bis)
+                                
+                                    all'esercizio delle pratiche commerciali secondo principi di buona fede, correttezza e lealta';
+                                
+                            
+                            
+                                d)
+                                
+                                    all'educazione al consumo;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    alla correttezza, alla trasparenza ed all'equita' nei rapporti contrattuali;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    alla promozione e allo sviluppo dell'associazionismo libero, volontario e democratico tra i consumatori e gli utenti;
+
+                                
+                            
+                            
+                                g)
+                                
+                                    all'erogazione di servizi pubblici secondo standard di qualita' e di efficienza.
+
 ## Art. 3. — Definizioni
+
+1.
+                        
+                            
+                                Ai fini del presente codice ove non diversamente previsto, si intende per: 
+ 
+                            
+                            
+                                a)
+                                
+                                    consumatore o utente: la persona fisica che agisce per scopi estranei all'attivita' imprenditoriale, commerciale, artigianale o professionale eventualmente svolta; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    associazioni dei consumatori e degli utenti: le formazioni sociali che abbiano per scopo statutario esclusivo la tutela dei diritti e degli interessi dei consumatori o degli utenti; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    professionista: la persona fisica o giuridica che agisce nell'esercizio della propria attivita' imprenditoriale ,commerciale, artigianale o professionale, ovvero un suo intermediario; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    produttore: fatto salvo quanto stabilito ((...)) nell'articolo 115, comma 2-bis e nell'articolo 128, comma 2, lettera d), il fabbricante del bene o il fornitore del servizio, o un suo intermediario, nonche' l'importatore del bene o del servizio nel territorio dell'Unione europea o qualsiasi altra persona fisica o giuridica che si presenta come produttore identificando il bene o il servizio con il proprio nome, marchio o altro segno distintivo; (42) 
+                                
+                            
+                            
+                                e)
+                                
+                                    prodotto: fatto salvo quanto stabilito nell'articolo 18, comma 1, lettera c), e) nell'articolo 115, comma 1, qualsiasi prodotto destinato al consumatore, anche nel quadro di una prestazione di servizi, o suscettibile, in condizioni ragionevolmente prevedibili, di essere utilizzato dal consumatore, anche se non a lui destinato, fornito o reso disponibile a titolo oneroso o gratuito nell'ambito di un'attivita' commerciale, indipendentemente dal fatto che sia nuovo, usato o rimesso a nuovo; tale definizione non si applica ai prodotti usati, forniti come pezzi d'antiquariato, o come prodotti da riparare o da rimettere a nuovo prima dell'utilizzazione, purche' il fornitore ne informi per iscritto la persona cui fornisce il prodotto; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    codice: il presente decreto legislativo di riassetto delle disposizioni vigenti in materia di tutela dei consumatori. 
+ 
+ 
+----------------
+ 
+AGGIORNAMENTO (42) 
+ Il D.Lgs. 4 novembre 2021, n. 170 ha disposto (con l'art. 2, comma 1) che la presente modifica acquista efficacia a decorrere dal 1° gennaio 2022 e si applica ai contratti conclusi successivamente a tale data.
 
 ## - Parte II ((EDUCAZIONE, INFORMAZIONE, PRATICHE COMMERCIALI, PUBBLICITA')) - - Titolo I EDUCAZIONE DEL CONSUMATORE
 
@@ -64,6 +174,51 @@ Le informazioni al consumatore, da chiunque provengano, devono essere adeguate a
 ## - - Capo II Indicazione dei prodotti
 
 ## Art. 6. — Contenuto minimo delle informazioni
+
+1.
+                        
+                            
+                                I prodotti o le confezioni dei prodotti destinati al consumatore, commercializzati sul territorio nazionale, riportano, chiaramente visibili e leggibili, almeno le indicazioni relative: 
+ 
+                            
+                            
+                                a)
+                                
+                                    alla denominazione legale o merceologica del prodotto; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    al nome o ragione sociale o marchio e alla sede legale del produttore o di un importatore stabilito nell'Unione europea ((, nonche' il loro indirizzo postale ed elettronico e, se diverso, l'indirizzo postale o elettronico del punto unico di contatto al quale possono essere contattati)); 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    al Paese di origine se situato fuori dell'Unione europea; (2) 
+                                
+                            
+                            
+                                d)
+                                
+                                    all'eventuale presenza di materiali o sostanze che possono arrecare danno all'uomo, alle cose o all'ambiente; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    ai materiali impiegati ed ai metodi di lavorazione ove questi siano determinanti per la qualita' o le caratteristiche merceologiche del prodotto; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    alle istruzioni, alle eventuali precauzioni e alla destinazione d'uso, ove utili ai fini di fruizione e sicurezza del prodotto.
 
 ---------------
                             AGGIORNAMENTO (2)
@@ -114,6 +269,52 @@ Le sanzioni sono applicate ai sensi della legge 24 novembre 1981, n. 689. Fermo 
 
 ## Art. 13. — Definizioni
 
+1.
+                        
+                            
+                                Ai fini del presente capo si intende per:
+ 
+                            
+                            
+                                a)
+                                
+                                    prezzo di vendita: il prezzo finale, valido per una unita' di prodotto o per una determinata quantita' del prodotto, comprensivo dell'IVA e di ogni altra imposta;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    prezzo per unita' di misura: il prezzo finale, comprensivo dell'IVA e di ogni altra imposta, valido per una quantita' di un chilogrammo, di un litro, di un metro, di un metro quadrato o di un metro cubo del prodotto o per una singola unita' di quantita' diversa, se essa e' impiegata generalmente e abitualmente per la commercializzazione di prodotti specifici;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    prodotto commercializzato sfuso: un prodotto che non costituisce oggetto di alcuna confezione preliminare ed e' misurato alla presenza del consumatore;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    prodotto venduto al pezzo: un prodotto che non puo' essere frazionato senza subire una modifica della sua natura o delle sue proprieta';
+
+                                
+                            
+                            
+                                e)
+                                
+                                    prodotto venduto a collo: insieme di pezzi omogenei contenuti in un imballaggio;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    prodotto preconfezionato: l'unita' di vendita destinata ad essere presentata come tale al consumatore ed alle collettivita', costituita da un prodotto e dall'imballaggio in cui e' stato immesso prima di essere posto in vendita, avvolta interamente o in parte in tale imballaggio ma comunque in modo che il contenuto non possa essere modificato senza che la confezione sia aperta o alterata.
+
 ## Art. 14. — Campo di applicazione
 
 Al fine di migliorare l'informazione del consumatore e di agevolare il raffronto dei prezzi, i prodotti offerti dai commercianti ai consumatori recano, oltre alla indicazione del prezzo di vendita, secondo le disposizioni vigenti, l'indicazione del prezzo per unita' di misura, fatto salvo quanto previsto all'articolo 16.
@@ -123,6 +324,32 @@ Il prezzo per unita' di misura non deve essere indicato quando e' identico al pr
 Per i prodotti commercializzati sfusi e' indicato soltanto il prezzo per unita' di misura.
 
 La pubblicita' in tutte le sue forme ed i cataloghi recano l'indicazione del prezzo per unita' di misura quando e' indicato il prezzo di vendita, fatti salvi i casi di esenzione di cui all'articolo 16.
+
+5.
+                        
+                            
+                                
+                                    ((La presente sezione non si applica)): 
+ 
+                            
+                            
+                                a)
+                                
+                                    ai prodotti forniti in occasione di una prestazione di servizi, ivi compresa la somninistrazione di alimenti e bevande; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    ai prodotti offerti nelle vendite all'asta; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    agli oggetti d'arte e d'antiquariato.
 
 ## Art. 15. — Modalita' di indicazione del prezzo per unita' di misura
 
@@ -145,6 +372,73 @@ L'obbligo di informazione di cui al comma 1 si applica per un periodo di sei mes
 Le disposizioni del presente articolo si applicano ((a decorrere dal 1° luglio 2026)).
 
 ## Art. 16. — Esenzioni
+
+1.
+                        
+                            
+                                Sono esenti dall'obbligo dell'indicazione del prezzo per unita' di misura i prodotti per i quali tale indicazione non risulti utile a motivo della loro natura o della loro destinazione, o sia di natura tale da dare luogo a confusione. Sono da considerarsi tali i seguenti prodotti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    prodotti commercializzati sfusi che, in conformita' alle disposizioni di esecuzione della legge 5 agosto 1981, n. 441, e successive modificazioni, recante disposizioni sulla vendita a peso netto delle merci, possono essere venduti a pezzo o a collo; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    prodotti di diversa natura posti in una stessa confezione; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    prodotti commercializzati nei distributori automatici; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    prodotti destinati ad essere mescolati per una preparazione e contenuti in un unico imballaggio; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    prodotti preconfezionati che siano esentati dall'obbligo di indicazione della quantita' netta secondo quanto previsto dall'articolo 9 del decreto legislativo 27 gennaio 1992, n. 109, e successive modificazioni, concernenti l'attuazione delle direttive comunitarie in materia di etichettatura dei prodotti alimentari; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    alimenti precucinati o preparati o da preparare, costituiti da due o piu' elementi separati, contenuti in un unico imballaggio, che necessitano di lavorazione da parte del consumatore per ottenere l'alimento finito; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    prodotti di fantasia; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    gelati monodose; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    prodotti non alimentari che possono essere venduti unicamente al pezzo o a collo.
 
 Il Ministro ((dello sviluppo economico)), con proprio decreto, puo' aggiornare l'elenco delle esenzioni di cui al comma 1, nonche' indicare espressamente prodotti o categorie di prodotti non alimentari ai quali non si applicano le predette esenzioni.((25))
 
@@ -198,6 +492,212 @@ f) eventuali altri fattori aggravanti o attenuanti applicabili alle circostanze 
 
 ## Art. 18. — Definizioni
 
+1.
+                        
+                            
+                                Ai fini del presente titolo, si intende per: 
+ 
+                            
+                            
+                                a)
+                                
+                                    "consumatore": qualsiasi persona fisica che, nelle pratiche commerciali oggetto del presente titolo, agisce per fini che non rientrano nel quadro della sua attivita' commerciale, industriale, artigianale o professionale; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    "professionista": qualsiasi persona fisica o giuridica che, nelle pratiche commerciali oggetto del presente titolo, agisce nel quadro della sua attivita' commerciale, industriale, artigianale o professionale e chiunque agisce in nome o per conto di un professionista; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    "prodotto": qualsiasi bene o servizio, compresi i beni immobili, i servizi digitali e il contenuto digitale, nonche' i diritti e gli obblighi; 
+
+                                
+                            
+                            
+                                c-bis)
+                                
+                                    
+                                        (("beni": 
+ 1) qualsiasi bene mobile materiale anche da assemblare; l'acqua, il gas e l'energia elettrica quando sono confezionati per la vendita in un volume delimitato o in quantita' determinata; 
+ 2) qualsiasi bene mobile materiale che incorpora, o e' interconnesso con, un contenuto digitale o un servizio digitale in modo tale che la mancanza di detto contenuto digitale o servizio digitale impedirebbe lo svolgimento delle funzioni proprie del bene ("beni con elementi digitali"); 
+ 3) gli animali vivi;))
+                                        ((57))
+                                    
+                                
+                            
+                            
+                                d)
+                                
+                                    "pratiche commerciali tra professionisti e consumatori" (di seguito denominate: "pratiche commerciali"): qualsiasi azione, omissione, condotta o dichiarazione, comunicazione commerciale ivi compresa la pubblicita' e la commercializzazione del prodotto, posta in essere da un professionista, in relazione alla promozione, vendita o fornitura di un prodotto ai consumatori; 
+
+                                
+                            
+                            
+                                d-bis)
+                                
+                                    'microimprese': entita', societa' o associazioni che, a prescindere dalla forma giuridica, esercitano un'attivita' economica, anche a titolo individuale o familiare, occupando meno di dieci persone e realizzando un fatturato annuo oppure un totale di bilancio annuo non superiori a due milioni di euro, ai sensi dell'articolo 2, paragrafo 3, dell'allegato alla raccomandazione n. 2003/361/CE della Commissione, del 6 maggio 2003; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    "falsare in misura rilevante il comportamento economico dei consumatori": l'impiego di una pratica commerciale idonea ad alterare sensibilmente la capacita' del consumatore di prendere una decisione consapevole, inducendolo pertanto ad assumere una decisione di natura commerciale che non avrebbe altrimenti preso; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    "codice di condotta": un accordo o una normativa che non e' imposta dalle disposizioni legislative, regolamentari o amministrative di uno Stato membro e che definisce il comportamento dei professionisti che si impegnano a rispettare tale codice in relazione a una o piu' pratiche commerciali o ad uno o piu' settori imprenditoriali specifici; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    "responsabile del codice": qualsiasi soggetto, compresi un professionista o un gruppo di professionisti, responsabile della formulazione e revisione di un codice di condotta ovvero del controllo del rispetto del codice da parte di coloro che si sono impegnati a rispettarlo; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    "diligenza professionale": il normale grado della specifica competenza ed attenzione che ragionevolmente i consumatori attendono da un professionista nei loro confronti rispetto ai principi generali di correttezza e di buona fede nel settore di attivita' del professionista; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    "invito all'acquisto": una comunicazione commerciale indicante le caratteristiche e il prezzo del prodotto in forme appropriate rispetto al mezzo impiegato per la comunicazione commerciale e pertanto tale da consentire al consumatore di effettuare un acquisto; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    "indebito condizionamento": lo sfruttamento di una posizione di potere rispetto al consumatore per esercitare una pressione, anche senza il ricorso alla forza fisica o la minaccia di tale ricorso, in modo da limitare notevolmente la capacita' del consumatore di prendere una decisione consapevole; 
+
+                                
+                            
+                            
+                                m)
+                                
+                                    "decisione di natura commerciale": la decisione presa da un consumatore relativa a se acquistare o meno un prodotto, in che modo farlo e a quali condizioni, se pagare integralmente o parzialmente, se tenere un prodotto o disfarsene o se esercitare un diritto contrattuale in relazione al prodotto; tale decisione puo' portare il consumatore a compiere un'azione o all'astenersi dal compierla; 
+
+                                
+                            
+                            
+                                n)
+                                
+                                    "professione regolamentata": attivita' professionale, o insieme di attivita' professionali, l'accesso alle quali e il cui esercizio, o una delle cui modalita' di esercizio, e' subordinata direttamente o indirettamente, in base a disposizioni legislative, regolamentari o amministrative, al possesso di determinate qualifiche professionali. 
+
+                                
+                            
+                            
+                                n-bis)
+                                
+                                    "classificazione": rilevanza relativa attribuita ai prodotti, come illustrato, organizzato o comunicato dal professionista, a prescindere dai mezzi tecnologici usati per tale presentazione, organizzazione o comunicazione; 
+
+                                
+                            
+                            
+                                n-ter)
+                                
+                                    "mercato online": un servizio che utilizza un software, compresi siti web, parte di siti web o un'applicazione, gestito da o per conto del professionista, che permette ai consumatori di concludere contratti a distanza con altri professionisti o consumatori. 
+
+                                
+                            
+                            
+                                n-quater)
+                                
+                                    
+                                        (("asserzione ambientale": nel contesto di una comunicazione commerciale, qualsiasi messaggio o rappresentazione avente carattere non obbligatorio a norma del diritto dell'Unione europea o nazionale, in qualsiasi forma, compresi testi e rappresentazioni figurative, grafiche o simboliche, quali marchi, nomi di marche, nomi di societa' o nomi di prodotti, che asserisce o implica che un dato prodotto, categoria di prodotto, marca o operatore economico ha un impatto positivo o nullo sull'ambiente oppure e' meno dannoso per l'ambiente rispetto ad altri prodotti, categorie di prodotto, marche o operatori economici oppure ha migliorato il proprio impatto nel corso del tempo;))
+                                        ((57))
+                                    
+                                
+                            
+                            
+                                n-quinquies)
+                                
+                                    
+                                        (("asserzione ambientale generica": qualsiasi asserzione ambientale formulata per iscritto o in forma orale, anche attraverso media audiovisivi, non inclusa in una etichetta di sostenibilita' e la cui specificazione non e' fornita in termini chiari ed evidenti tramite lo stesso mezzo di comunicazione;))
+                                        ((57))
+                                    
+                                
+                            
+                            
+                                n-sexies)
+                                
+                                    
+                                        (("etichetta di sostenibilita'": qualsiasi marchio di fiducia, marchio di qualita' o equivalente, pubblico o privato, avente carattere volontario, che mira a distinguere e promuovere un prodotto, un processo o un'impresa con riferimento alle sue caratteristiche ambientali o sociali oppure a entrambe, esclusi i marchi obbligatori richiesti a norma del diritto dell'Unione europea o nazionale;))
+                                        ((57))
+                                    
+                                
+                            
+                            
+                                n-septies)
+                                
+                                    
+                                        (("sistema di certificazione": un sistema di verifica da parte di terzi che certifica che un prodotto, un processo o un'impresa e' conforme a determinati requisiti, che consente l'uso di una corrispondente etichetta di sostenibilita' e le cui condizioni, compresi i requisiti, sono accessibili al pubblico e soddisfano i criteri seguenti: 
+ 1) il sistema, nel rispetto di condizioni trasparenti, eque e non discriminatorie, e' aperto a tutti gli operatori economici disposti e in grado di conformarsi ai suoi requisiti; 
+ 2) i requisiti del sistema sono elaborati dal titolare dello stesso in consultazione con gli esperti pertinenti e i portatori di interessi; 
+ 3) il sistema stabilisce procedure per affrontare i casi di non conformita' ai requisiti del sistema e prevede la revoca o la sospensione dell'uso dell'etichetta di sostenibilita' da parte dell'operatore economico in caso di non conformita' ai requisiti del sistema; 
+ 4) il monitoraggio della conformita' dell'operatore economico ai requisiti del sistema e' oggetto di una procedura obiettiva ed e' svolto da un terzo la cui competenza e la cui indipendenza, sia dal titolare del sistema, sia dall'operatore economico, si basano su norme e procedure internazionali, dell'Unione europea o nazionali;))
+                                        ((57))
+                                    
+                                
+                            
+                            
+                                n-octies)
+                                
+                                    
+                                        (("eccellenza riconosciuta delle prestazioni ambientali": prestazioni ambientali conformi al regolamento (CE) n. 66/2010 del Parlamento europeo e del Consiglio, del 25 novembre 2009 (Ecolabel UE), a un sistema nazionale o regionale di assegnazione di marchi di qualita' ecologica di tipo I in conformita' della norma EN ISO 14024, ufficialmente riconosciuto negli Stati membri, oppure conformi alle migliori prestazioni ambientali ai sensi delle altre disposizioni applicabili del diritto dell'Unione europea;))
+                                        ((57))
+                                    
+                                
+                            
+                            
+                                n-novies)
+                                
+                                    
+                                        (("durabilita'": la capacita' dei beni di mantenere le loro specifiche funzioni e prestazioni attraverso un uso normale;))
+                                        ((57))
+                                    
+                                
+                            
+                            
+                                n-decies)
+                                
+                                    
+                                        (("aggiornamento del software": un aggiornamento necessario per mantenere conformi agli articoli 130 e 135-undecies i beni comprendenti elementi digitali, contenuti digitali e servizi digitali, compreso un aggiornamento di sicurezza, oppure un aggiornamento delle funzionalita';))
+                                        ((57))
+                                    
+                                
+                            
+                            
+                                n-undecies)
+                                
+                                    
+                                        (("materiali di consumo": componente di un bene che giunge ad esaurimento ricorrentemente e che deve essere sostituito o reintegrato affinche' il bene funzioni come previsto;))
+                                        ((57))
+                                    
+                                
+                            
+                            
+                                n-duodecies)
+                                
+                                    
+                                        (("funzionalita'": la capacita' del bene di svolgere tutte le sue funzioni in considerazione del suo scopo.))
+                                        ((57))
+
 ---------------
                             AGGIORNAMENTO (57)
                             
@@ -206,6 +706,38 @@ f) eventuali altri fattori aggravanti o attenuanti applicabili alle circostanze 
 ## Art. 19. — Ambito di applicazione
 
 Il presente titolo si applica alle pratiche commerciali scorrette tra professionisti e consumatori poste in essere prima, durante e dopo un'operazione commerciale relativa a un prodotto ((, nonche' alle pratiche commerciali scorrette tra professionisti e microimprese. Per le microimprese la tutela in materia di pubblicita' ingannevole e di pubblicita' comparativa illecita e' assicurata in via esclusiva dal decreto legislativo 2 agosto 2007, n.145.)).
+
+2.
+                        
+                            
+                                Il presente titolo non pregiudica: 
+ 
+                            
+                            
+                                a)
+                                
+                                    l'applicazione delle disposizioni normative in materia contrattuale, in particolare delle norme sulla formazione, validita' od efficacia del contratto; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'applicazione delle disposizioni normative, comunitarie o nazionali, in materia di salute e sicurezza dei prodotti; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    l'applicazione delle disposizioni normative che determinano la competenza giurisdizionale; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    l'applicazione delle disposizioni normative relative allo stabilimento, o ai regimi di autorizzazione, o i codici deontologici o altre norme specifiche che disciplinano le professioni regolamentate, per garantire livelli elevati di correttezza professionale.
 
 In caso di contrasto, le disposizioni contenute in direttive o in altre disposizioni comunitarie e nelle relative norme nazionali di recepimento che disciplinano aspetti specifici delle pratiche commerciali scorrette prevalgono sulle disposizioni del presente titolo e si applicano a tali aspetti specifici.
 
@@ -223,6 +755,24 @@ Una pratica commerciale e' scorretta se e' contraria alla diligenza professional
 
 Le pratiche commerciali che, pur raggiungendo gruppi piu' ampi di consumatori, sono idonee a falsare in misura apprezzabile il comportamento economico solo di un gruppo di consumatori chiaramente individuabile, particolarmente vulnerabili alla pratica o al prodotto cui essa si riferisce a motivo della loro infermita' mentale o fisica, della loro eta' o ingenuita', in un modo che il professionista poteva ragionevolmente prevedere, sono valutate nell'ottica del membro medio di tale gruppo. E' fatta salva la pratica pubblicitaria comune e legittima consistente in dichiarazioni esagerate o in dichiarazioni che non sono destinate ad essere prese alla lettera.
 
+4.
+                        
+                            
+                                In particolare, sono scorrette le pratiche commerciali:
+ 
+                            
+                            
+                                a)
+                                
+                                    ingannevoli di cui agli articoli 21, 22 e 23 o
+
+                                
+                            
+                            
+                                b)
+                                
+                                    aggressive di cui agli articoli 24, 25 e 26.
+
 Gli articoli 23 e 26 riportano l'elenco delle pratiche commerciali, rispettivamente ingannevoli e aggressive, considerate in ogni caso scorrette.
 
 ))
@@ -230,6 +780,104 @@ Gli articoli 23 e 26 riportano l'elenco delle pratiche commerciali, rispettivame
 ## - - ((SEZIONE I Pratiche commerciali ingannevoli))
 
 ## Art. 21. — Azioni ingannevoli
+
+1.
+                        
+                            
+                                E' considerata ingannevole una pratica commerciale che contiene informazioni non rispondenti al vero o, seppure di fatto corretta, in qualsiasi modo, anche nella sua presentazione complessiva, induce o e' idonea ad indurre in errore il consumatore medio riguardo ad uno o piu' dei seguenti elementi e, in ogni caso, lo induce o e' idonea a indurlo ad assumere una decisione di natura commerciale che non avrebbe altrimenti preso: 
+ 
+                            
+                            
+                                a)
+                                
+                                    l'esistenza o la natura del prodotto; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    
+                                        ((le caratteristiche principali del prodotto, quali la sua disponibilita', i vantaggi, i rischi, l'esecuzione, la composizione, le caratteristiche ambientali o sociali, gli accessori, gli aspetti relativi alla circolarita', quali la durabilita', la riparabilita' o la riciclabilita', l'assistenza post-vendita al consumatore e il trattamento dei reclami, il metodo e la data di fabbricazione o della prestazione, la consegna, l'idoneita' allo scopo, gli usi, la quantita', la descrizione, l'origine geografica o commerciale o i risultati che si possono attendere dal suo uso, o i risultati e le caratteristiche fondamentali di prove e controlli effettuati sul prodotto;))
+                                        ((57))
+                                    
+                                
+                            
+                            
+                                c)
+                                
+                                    la portata degli impegni del professionista, i motivi della pratica commerciale e la natura del processo di vendita, qualsiasi dichiarazione o simbolo relativi alla sponsorizzazione o all'approvazione dirette o indirette del professionista o del prodotto; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    il prezzo o il modo in cui questo e' calcolato o l'esistenza di uno specifico vantaggio quanto al prezzo; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    la necessita' di una manutenzione, ricambio, sostituzione o riparazione; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    la natura, le qualifiche e i diritti del professionista o del suo agente, quali l'identita', il patrimonio, le capacita', lo status, il riconoscimento, l'affiliazione o i collegamenti e i diritti di proprieta' industriale, commerciale o intellettuale o i premi e i riconoscimenti; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    i diritti del consumatore, incluso il diritto di sostituzione o di rimborso ai sensi dell'articolo 130 del presente Codice.
+
+2.
+                        
+                            
+                                E' altresi' considerata ingannevole una pratica commerciale che, nella fattispecie concreta, tenuto conto di tutte le caratteristiche e circostanze del caso, induce o e' idonea ad indurre il consumatore medio ad assumere una decisione di natura commerciale che non avrebbe altrimenti preso e comporti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    una qualsivoglia attivita' di commercializzazione del prodotto che ingenera confusione con i prodotti, i marchi, la denominazione sociale e altri segni distintivi di un concorrente, ivi compresa la pubblicita' comparativa illecita; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il mancato rispetto da parte del professionista degli impegni contenuti nei codici di condotta che il medesimo si e' impegnato a rispettare, ove si tratti di un impegno fermo e verificabile, e il professionista indichi in una pratica commerciale che e' vincolato dal codice. 
+
+                                
+                            
+                            
+                                b-bis)
+                                
+                                    una qualsivoglia attivita' di marketing che promuova un bene, in uno Stato membro dell'Unione europea, come identico a un bene commercializzato in altri Stati membri, mentre questo bene ha una composizione o caratteristiche significativamente diverse, salvo laddove cio' sia giustificato da fattori legittimi e oggettivi. 
+
+                                
+                            
+                            
+                                b-ter)
+                                
+                                    
+                                        ((la formulazione di un'asserzione ambientale relativa a prestazioni ambientali future senza includere impegni chiari, oggettivi, pubblicamente disponibili e verificabili stabiliti in un piano di attuazione dettagliato e realistico che includa obiettivi misurabili e con scadenze precise, cosi' come altri elementi pertinenti necessari per sostenerne l'attuazione, come l'assegnazione delle risorse, e che sia verificato periodicamente da un terzo indipendente, le cui conclusioni sono messe a disposizione dei consumatori;))
+                                        ((57))
+                                    
+                                
+                            
+                            
+                                b-quater)
+                                
+                                    
+                                        ((la pubblicizzazione come vantaggi per i consumatori di elementi irrilevanti che non derivano dalle caratteristiche del prodotto o dell'impresa.))
+                                        ((57))
 
 E' considerata scorretta la pratica commerciale che, riguardando prodotti suscettibili di porre in pericolo la salute e la sicurezza dei consumatori, omette di darne notizia in modo da indurre i consumatori a trascurare le normali regole di prudenza e vigilanza.
 
@@ -252,6 +900,52 @@ Una pratica commerciale e' altresi' considerata un'omissione ingannevole quando 
 
 Qualora il mezzo di comunicazione impiegato per la pratica commerciale imponga restrizioni in termini di spazio o di tempo, nel decidere se vi sia stata un'omissione di informazioni, si tiene conto di dette restrizioni e di qualunque misura adottata dal professionista per rendere disponibili le informazioni ai consumatori con altri mezzi.
 
+4.
+                        
+                            
+                                Nel caso di un invito all'acquisto sono considerate rilevanti, ai sensi del comma 1, le informazioni seguenti, qualora non risultino gia' evidenti dal contesto: 
+ 
+                            
+                            
+                                a)
+                                
+                                    le caratteristiche principali del prodotto in misura adeguata al mezzo di comunicazione e al prodotto stesso; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'indirizzo geografico e l'identita' del professionista, come la sua denominazione sociale e, ove questa informazione sia pertinente, l'indirizzo geografico e l'identita' del professionista per conto del quale egli agisce; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il prezzo comprensivo delle imposte o, se la natura del prodotto comporta l'impossibilita' di calcolare ragionevolmente il prezzo in anticipo, le modalita' di calcolo del prezzo e, se del caso, tutte le spese aggiuntive di spedizione, consegna o postali oppure, qualora tali spese non possano ragionevolmente essere calcolate in anticipo, l'indicazione che tali spese potranno essere addebitate al consumatore; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    le modalita' di pagamento, consegna ed esecuzione qualora esse siano difformi dagli obblighi imposti dalla diligenza professionale; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    l'esistenza di un diritto di recesso o scioglimento del contratto per i prodotti e le operazioni commerciali che comportino tale diritto. 
+
+                                
+                            
+                            
+                                e-bis)
+                                
+                                    per i prodotti offerti su mercati online, se il terzo che offre i prodotti e' un professionista o meno, sulla base della dichiarazione del terzo stesso al fornitore del mercato online.
+
 Nel caso in cui sia fornita ai consumatori la possibilita' di cercare prodotti offerti da professionisti diversi o da consumatori sulla base di una ricerca sotto forma di parola chiave, frase o altri dati, indipendentemente dal luogo in cui le operazioni siano poi effettivamente concluse, sono considerate rilevanti le informazioni generali, rese disponibili in un'apposita sezione dell'interfaccia online che sia direttamente e facilmente accessibile dalla pagina in cui sono presentati i risultati della ricerca, in merito ai parametri principali che determinano la classificazione dei prodotti presentati al consumatore come risultato della sua ricerca e all'importanza relativa di tali parametri rispetto ad altri parametri. Il presente comma non si applica ai fornitori di motori di ricerca online definiti ai sensi dell'articolo 2, punto 6, del regolamento (UE) 2019/1150 del Parlamento europeo e del Consiglio.
 
 Sono considerati rilevanti, ai sensi del comma 1, gli obblighi di informazione, previsti dal diritto comunitario, connessi alle comunicazioni commerciali, compresa la pubblicita' o la commercializzazione del prodotto.
@@ -272,6 +966,312 @@ Se un professionista fornisce l'accesso alle recensioni dei consumatori sui prod
 
 ## Art. 23. — Pratiche commerciali considerate in ogni caso ingannevoli
 
+1.
+                        
+                            
+                                Sono considerate in ogni caso ingannevoli le seguenti pratiche commerciali: 
+ 
+                            
+                            
+                                a)
+                                
+                                    affermazione non rispondente al vero, da parte di un professionista, di essere firmatario di un codice di condotta; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    esibire un marchio di fiducia, un marchio di qualita' o un marchio equivalente senza aver ottenuto la necessaria autorizzazione; 
+
+                                
+                            
+                            
+                                b-bis)
+                                
+                                    
+                                        ((esibire una etichetta di sostenibilita' che non e' basata su un sistema di certificazione o non e' stabilita da autorita' pubbliche;))
+                                        ((57))
+                                    
+                                
+                            
+                            
+                                c)
+                                
+                                    asserire, contrariamente al vero, che un codice di condotta ha l'approvazione di un organismo pubblico o di altra natura; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    asserire, contrariamente al vero, che un professionista, le sue pratiche commerciali o un suo prodotto sono stati autorizzati, accettati o approvati, da un organismo pubblico o privato o che sono state rispettate le condizioni dell'autorizzazione, dell'accettazione o dell'approvazione ricevuta; 
+
+                                
+                            
+                            
+                                d-bis)
+                                
+                                    
+                                        ((formulare un'asserzione ambientale generica per la quale il professionista non e' in grado di dimostrare l'eccellenza riconosciuta delle prestazioni ambientali pertinenti all'asserzione;))
+                                        ((57))
+                                    
+                                
+                            
+                            
+                                d-ter)
+                                
+                                    
+                                        ((formulare un'asserzione ambientale concernente il prodotto nel suo complesso o l'attivita' del professionista nel suo complesso quando riguarda soltanto un determinato aspetto del prodotto o uno specifico elemento dell'attivita' del professionista;))
+                                        ((57))
+                                    
+                                
+                            
+                            
+                                d-quater)
+                                
+                                    
+                                        ((asserire, sulla base della compensazione delle emissioni di gas a effetto serra, che un prodotto ha un impatto neutro, ridotto o positivo sull'ambiente in termini di emissioni di gas a effetto serra;))
+                                        ((57))
+                                    
+                                
+                            
+                            
+                                e)
+                                
+                                    invitare all'acquisto di prodotti ad un determinato prezzo senza rivelare l'esistenza di ragionevoli motivi che il professionista puo' avere per ritenere che non sara' in grado di fornire o di far fornire da un altro professionista quei prodotti o prodotti equivalenti a quel prezzo entro un periodo e in quantita' ragionevoli in rapporto al prodotto, all'entita' della pubblicita' fatta del prodotto e al prezzo offerti; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    invitare all'acquisto di prodotti ad un determinato prezzo e successivamente: 
+ 1) rifiutare di mostrare l'articolo pubblicizzato ai 
+consumatori, oppure 
+ 2) rifiutare di accettare ordini per l'articolo o di 
+consegnarlo entro un periodo di tempo ragionevole, oppure 
+ 3) fare la dimostrazione dell'articolo con un campione difettoso, con l'intenzione di promuovere un altro prodotto. 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    dichiarare, contrariamente al vero, che il prodotto sara' disponibile solo per un periodo molto limitato o che sara' disponibile solo a condizioni particolari per un periodo di tempo molto limitato, in modo da ottenere una decisione immediata e privare i consumatori della possibilita' o del tempo sufficiente per prendere una decisione consapevole; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    impegnarsi a fornire l'assistenza post-vendita a consumatori con i quali il professionista ha comunicato prima dell'operazione commerciale in una lingua diversa dalla lingua ufficiale dello Stato membro in cui il professionista e' stabilito e poi offrire concretamente tale servizio soltanto in un'altra lingua, senza che questo sia chiaramente comunicato al consumatore prima del suo impegno a concludere l'operazione; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    affermare, contrariamente al vero, o generare comunque l'impressione che la vendita del prodotto e' lecita; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    presentare i diritti conferiti ai consumatori dalla legge come una caratteristica propria dell'offerta fatta dal professionista; 
+
+                                
+                            
+                            
+                                l-bis)
+                                
+                                    
+                                        ((presentare requisiti imposti per legge sul mercato dell'Unione europea per tutti i prodotti appartenenti a una data categoria come se fossero un tratto distintivo dell'offerta del professionista;))
+                                        ((57))
+                                    
+                                
+                            
+                            
+                                m)
+                                
+                                    salvo quanto previsto dal decreto legislativo 31 luglio 2005, n. 177, e successive modificazioni, impiegare contenuti redazionali nei mezzi di comunicazione per promuovere un prodotto, qualora i costi di tale promozione siano stati sostenuti dal professionista senza che cio' emerga dai contenuti o da immagini o suoni chiaramente individuabili per il consumatore; 
+
+                                
+                            
+                            
+                                m-bis)
+                                
+                                    fornire risultati di ricerca in risposta a una ricerca online del consumatore senza che sia chiaramente indicato ogni eventuale annuncio pubblicitario a pagamento o pagamento specifico per ottenere una classificazione migliore dei prodotti all'interno di tali risultati; 
+
+                                
+                            
+                            
+                                n)
+                                
+                                    formulare affermazioni di fatto inesatte per quanto riguarda la natura e la portata dei rischi per la sicurezza personale del consumatore o della sua famiglia se egli non acquistasse il prodotto; 
+
+                                
+                            
+                            
+                                o)
+                                
+                                    promuovere un prodotto simile a quello fabbricato da un altro produttore in modo tale da fuorviare deliberatamente il consumatore inducendolo a ritenere, contrariamente al vero, che il prodotto e' fabbricato dallo stesso produttore; 
+
+                                
+                            
+                            
+                                p)
+                                
+                                    avviare, gestire o promuovere un sistema di promozione a carattere piramidale nel quale il consumatore fornisce un contributo in cambio della possibilita' di ricevere un corrispettivo derivante principalmente dall'entrata di altri consumatori nel sistema piuttosto che dalla vendita o dal consumo di prodotti; 
+
+                                
+                            
+                            
+                                q)
+                                
+                                    affermare, contrariamente al vero, che il professionista e' in procinto di cessare l'attivita' o traslocare; 
+
+                                
+                            
+                            
+                                r)
+                                
+                                    affermare che alcuni prodotti possono facilitare la vincita in giochi basati sulla sorte; 
+
+                                
+                            
+                            
+                                s)
+                                
+                                    affermare, contrariamente al vero, che un prodotto ha la capacita' di curare malattie, disfunzioni o malformazioni; 
+
+                                
+                            
+                            
+                                t)
+                                
+                                    comunicare informazioni inesatte sulle condizioni di mercato o sulla possibilita' di ottenere il prodotto allo scopo d'indurre il consumatore all'acquisto a condizioni meno favorevoli di quelle normali di mercato; 
+
+                                
+                            
+                            
+                                u)
+                                
+                                    affermare in una pratica commerciale che si organizzano concorsi o promozioni a premi senza attribuire i premi descritti o un equivalente ragionevole; 
+
+                                
+                            
+                            
+                                v)
+                                
+                                    descrivere un prodotto come gratuito o senza alcun onere, se il consumatore deve pagare un supplemento di prezzo rispetto al normale costo necessario per rispondere alla pratica commerciale e ritirare o farsi recapitare il prodotto; 
+
+                                
+                            
+                            
+                                z)
+                                
+                                    includere nel materiale promozionale una fattura o analoga richiesta di pagamento che lasci intendere, contrariamente al vero, al consumatore di aver gia' ordinato il prodotto; 
+
+                                
+                            
+                            
+                                aa)
+                                
+                                    dichiarare o lasciare intendere, contrariamente al vero, che il professionista non agisce nel quadro della sua attivita' commerciale, industriale, artigianale o professionale, o presentarsi, contrariamente al vero, come consumatore; 
+
+                                
+                            
+                            
+                                bb)
+                                
+                                    lasciare intendere, contrariamente al vero, che i servizi post-vendita relativi a un prodotto siano disponibili in uno Stato membro diverso da quello in cui e' venduto il prodotto. 
+
+                                
+                            
+                            
+                                bb-bis)
+                                
+                                    rivendere ai consumatori biglietti per eventi, se il professionista ha acquistato tali biglietti utilizzando strumenti automatizzati per eludere qualsiasi limite imposto riguardo al numero di biglietti che una persona puo' acquistare o qualsiasi altra norma applicabile all'acquisto di biglietti; 
+
+                                
+                            
+                            
+                                bb-ter)
+                                
+                                    indicare che le recensioni di un prodotto sono inviate da consumatori che hanno effettivamente utilizzato o acquistato il prodotto senza adottare misure ragionevoli e proporzionate per verificare che le recensioni provengano da tali consumatori; 
+
+                                
+                            
+                            
+                                bb-quater)
+                                
+                                    inviare, o incaricare un'altra persona giuridica o fisica di inviare, recensioni di consumatori false o falsi apprezzamenti o di fornire false informazioni in merito a recensioni di consumatori o ad apprezzamenti sui media sociali, al fine di promuovere prodotti. 
+
+                                
+                            
+                            
+                                bb-quinquies)
+                                
+                                    
+                                        ((non informare il consumatore del fatto che un dato aggiornamento del software incidera' negativamente sul funzionamento di beni che comprendono elementi digitali o sull'uso del contenuto digitale o dei servizi digitali;))
+                                        ((57))
+                                    
+                                
+                            
+                            
+                                bb-sexies)
+                                
+                                    
+                                        ((presentare come necessario un aggiornamento del software che si limita a migliorare alcune caratteristiche di funzionalita';))
+                                        ((57))
+                                    
+                                
+                            
+                            
+                                bb-septies)
+                                
+                                    
+                                        ((qualsiasi comunicazione commerciale relativa a un bene contenente una caratteristica introdotta per limitarne la durabilita', nonostante le informazioni sulla caratteristica e sui suoi effetti sulla durabilita' del bene siano a disposizione del professionista;))
+                                        ((57))
+                                    
+                                
+                            
+                            
+                                bb-octies)
+                                
+                                    
+                                        ((asserire falsamente che, in condizioni d'uso normali, il bene presenta una determinata durabilita' in termini di tempo o intensita' d'uso;))
+                                        ((57))
+                                    
+                                
+                            
+                            
+                                bb-novies)
+                                
+                                    
+                                        ((presentare il bene come riparabile quando non lo e';))
+                                        ((57))
+                                    
+                                
+                            
+                            
+                                bb-decies)
+                                
+                                    
+                                        ((indurre il consumatore a sostituire o reintegrare materiali di consumo del bene prima di quanto sarebbe necessario per motivi tecnici;))
+                                        ((57))
+                                    
+                                
+                            
+                            
+                                bb-undecies)
+                                
+                                    
+                                        ((non informare che la funzionalita' di un bene sara' compromessa dall'utilizzo di materiali di consumo, pezzi di ricambio o accessori non forniti dal produttore originale, o asserire falsamente che tale compromissione si verifichera'.))
+                                        ((57))
+
 ---------------
                             AGGIORNAMENTO (57)
                             
@@ -291,9 +1291,108 @@ E' considerata aggressiva una pratica commerciale che, nella fattispecie concret
 
 ((
 
+1.
+                        
+                            
+                                Nel determinare se una pratica commerciale comporta, ai fini del presente capo, molestie, coercizione, compreso il ricorso alla forza fisica, o indebito condizionamento, sono presi in considerazione i seguenti elementi:
+ 
+                            
+                            
+                                a)
+                                
+                                    i tempi, il luogo, la natura o la persistenza;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il ricorso alla minaccia fisica o verbale;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    lo sfruttamento da parte del professionista di qualsivoglia evento tragico o circostanza specifica di gravita' tale da alterare la capacita' di valutazione del consumatore, al fine di influenzarne la decisione relativa al prodotto;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    qualsiasi ostacolo non contrattuale, oneroso o sproporzionato, imposto dal professionista qualora un consumatore intenda esercitare diritti contrattuali, compresi il diritto di risolvere un contratto o quello di cambiare prodotto o rivolgersi ad un altro professionista;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    qualsiasi minaccia di promuovere un'azione legale ove tale azione sia manifestamente temeraria o infondata.
+
 ))
 
 ## Art. 26. — Pratiche commerciali considerate in ogni caso aggressive
+
+1.
+                        
+                            
+                                Sono considerate in ogni caso aggressive le seguenti pratiche commerciali: 
+ 
+                            
+                            
+                                a)
+                                
+                                    creare l'impressione che il consumatore non possa lasciare i locali commerciali fino alla conclusione del contratto; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    effettuare visite presso l'abitazione del consumatore, ignorando gli inviti del consumatore a lasciare la sua residenza o a non ritornarvi, fuorche' nelle circostanze e nella misura in cui siano giustificate dalla legge nazionale ai fini dell'esecuzione di un'obbligazione contrattuale; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    effettuare ripetute e non richieste sollecitazioni commerciali per telefono, via fax, per posta elettronica o mediante altro mezzo di comunicazione a distanza, fuorche' nelle circostanze e nella misura in cui siano giustificate dalla legge nazionale ai fini dell'esecuzione di un'obbligazione contrattuale, fatti salvi l'articolo 58 e l'articolo 130 del decreto legislativo 30 giugno 2003, n. 196; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    imporre al consumatore che intenda presentare una richiesta di risarcimento del danno in virtu' di una polizza di assicurazione di esibire documenti che non possono ragionevolmente essere considerati pertinenti per stabilire la fondatezza della richiesta, o omettere sistematicamente di rispondere alla relativa corrispondenza, al fine di dissuadere un consumatore dall'esercizio dei suoi diritti contrattuali; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    salvo quanto previsto dal decreto legislativo 31 luglio 2005, n. 177, e successive modificazioni, includere in un messaggio pubblicitario un'esortazione diretta ai bambini affinche' acquistino o convincano i genitori o altri adulti ad acquistare loro i prodotti reclamizzati; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    esigere il pagamento immediato o differito o la restituzione o la custodia di prodotti che il professionista ha fornito, ma che il consumatore non ha richiesto, ((salvo quanto previsto dall'articolo 66-sexies, comma 2)); ((24))
+                                    
+                                
+                            
+                            
+                                g)
+                                
+                                    informare esplicitamente il consumatore che, se non acquista il prodotto o il servizio saranno in pericolo il lavoro o la sussistenza del professionista; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    lasciare intendere, contrariamente al vero, che il consumatore abbia gia' vinto, vincera' o potra' vincere compiendo una determinata azione un premio o una vincita equivalente, mentre in effetti non esiste alcun premio ne' vincita equivalente oppure che qualsiasi azione volta a reclamare il premio o altra vincita equivalente e' subordinata al versamento di denaro o al sostenimento di costi da parte del consumatore.
 
 -------------
                             AGGIORNAMENTO (24)
@@ -335,6 +1434,52 @@ Con il provvedimento che vieta la pratica commerciale scorretta, l'Autorita' dis
 ((
 
 In caso di sanzioni inflitte a norma dell'articolo 21 del regolamento (UE) 2017/2394 del Parlamento europeo e del Consiglio, del 12 dicembre 2017, l'importo massimo della sanzione irrogata dall'Autorita' e' pari al 4 per cento del fatturato annuo del professionista realizzato in Italia ovvero negli Stati membri dell'Unione europea interessati dalla relativa violazione. Qualora le informazioni sul fatturato annuo non siano disponibili, l'importo massimo della sanzione irrogata dall'Autorita' e' pari a 2.000.000 di euro.
+
+9-ter.
+                        
+                            
+                                Ai fini dell'irrogazione delle sanzioni di cui ai commi 9 e 9-bis, l'Autorita' tiene conto, ove appropriato, dei seguenti criteri non esaustivi: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la natura, gravita', entita' e durata della violazione; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le eventuali azioni intraprese dal professionista per attenuare il danno subito dai consumatori o per porvi rimedio; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    eventuali violazioni commesse in precedenza dal professionista; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    i benefici finanziari conseguiti o le perdite evitate dal professionista in conseguenza della violazione, se i relativi dati sono disponibili; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    le sanzioni inflitte al professionista per la medesima violazione in altri Stati membri in casi transfrontalieri, in cui informazioni relative a tali sanzioni sono disponibili attraverso il meccanismo istituito dal regolamento (UE) 2017/2394 del Parlamento europeo e del Consiglio, del 12 dicembre 2017; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    eventuali altri fattori aggravanti o attenuanti applicabili alle circostanze del caso.
 
 ))
 
@@ -395,6 +1540,31 @@ Iniziata la procedura davanti ad un organismo di autodisciplina, le parti posson
 
 L'Autorita' garante della concorrenza e del mercato e le associazioni o le organizzazioni imprenditoriali e professionali di cui all'articolo 27-bis, comunicano periodicamente al Ministero dello sviluppo economico le decisioni adottate ai sensi del presente titolo.
 
+2.
+                        
+                            
+                                Il Ministero dello sviluppo economico provvedera' affinche' sul proprio sito siano disponibili:
+ 
+                            
+                            
+                                a)
+                                
+                                    le informazioni generali sulle procedure relative ai meccanismi di reclamo e ricorso disponibili in caso di controversie, nonche' sui codici di condotta adottati ai sensi dell'articolo 27-bis;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    gli estremi delle autorita', organizzazioni o associazioni presso le quali si possono ottenere ulteriori informazioni o assistenza;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    gli estremi e la sintesi delle decisioni significative riguardo a controversie, comprese quelle adottate dagli organi di composizione extragiudiziale.
+
 ))
 
 ## - - ((Titolo IV)) Particolari modalita' della comunicazione pubblicitaria ((Capo I)) Rafforzamento della tutela del consumatore in materia di televendite
@@ -415,6 +1585,39 @@ Le televendite non devono contenere dichiarazioni o rappresentazioni che possono
 
 ## Art. 31. — Tutela dei minori
 
+1.
+                        
+                            
+                                La televendita non deve esortare i minorenni a stipulare contratti di compravendita o di locazione di prodotti e di servizi.
+La televendita non deve arrecare pregiudizio morale o fisico ai minorenni e deve rispettare i seguenti criteri a loro tutela:
+ 
+                            
+                            
+                                a)
+                                
+                                    non esortare i minorenni ad acquistare un prodotto o un servizio, sfruttandone l'inesperienza o la credulita';
+
+                                
+                            
+                            
+                                b)
+                                
+                                    non esortare i minorenni a persuadere genitori o altri ad acquistare tali prodotti o servizi;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    non sfruttare la particolare fiducia che i minorenni ripongono nei genitori, negli insegnanti o in altri;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    non mostrare minorenni in situazioni pericolose.
+
 ## Art. 32. — Sanzioni
 
 Salvo che il fatto costituisca reato, e fatte salve le disposizioni ed il regime sanzionatorio stabiliti per i contratti a distanza, cosi' ((come disciplinati alla parte III, titolo III, capo I, sezione II)), dall'articolo 50 all'articolo 61, del codice, nonche' le ulteriori disposizioni stabilite in materia di pubblicita', alle televendite sono applicabili altresi' le sanzioni di cui all'articolo 2, comma 20, lettera c), della legge 14 novembre 1995, n. 481, e di cui all'articolo 1, comma 31, della legge 31 luglio 1997, n. 249.
@@ -424,6 +1627,168 @@ Salvo che il fatto costituisca reato, e fatte salve le disposizioni ed il regime
 ## Art. 33. — Clausole vessatorie nel contratto tra professionista e consumatore
 
 Nel contratto concluso tra il consumatore ed il professionista si considerano vessatorie le clausole che, malgrado la buona fede, determinano a carico del consumatore un significativo squilibrio dei diritti e degli obblighi derivanti dal contratto.
+
+2.
+                        
+                            
+                                Si presumono vessatorie fino a prova contraria le clausole che hanno per oggetto, o per effetto, di: 
+ 
+                            
+                            
+                                a)
+                                
+                                    escludere o limitare la responsabilita' del professionista in caso di morte o danno alla persona del consumatore, risultante da un fatto o da un'omissione del professionista; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    escludere o limitare le azioni o i diritti del consumatore nei confronti del professionista o di un'altra parte in caso di inadempimento totale o parziale o di adempimento inesatto da parte del professionista; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    escludere o limitare l'opportunita' da parte del consumatore della compensazione di un debito nei confronti del professionista con un credito vantato nei confronti di quest'ultimo; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    prevedere un impegno definitivo del consumatore mentre l'esecuzione della prestazione del professionista e' subordinata ad una condizione il cui adempimento dipende unicamente dalla sua volonta'; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    consentire al professionista di trattenere una somma di denaro versata dal consumatore se quest'ultimo non conclude il contratto o recede da esso, senza prevedere il diritto del consumatore di esigere dal professionista il doppio della somma corrisposta se e' quest'ultimo a non concludere il contratto oppure a recedere; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    imporre al consumatore, in caso di inadempimento o di ritardo nell'adempimento, il pagamento di una somma di denaro a titolo di risarcimento, clausola penale o altro titolo equivalente d'importo manifestamente eccessivo; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    riconoscere al solo professionista e non anche al consumatore la facolta' di recedere dal contratto, nonche' consentire al professionista di trattenere anche solo in parte la somma versata dal consumatore a titolo di corrispettivo per prestazioni non ancora adempiute, quando sia il professionista a recedere dal contratto; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    consentire al professionista di recedere da contratti a tempo indeterminato senza un ragionevole preavviso, tranne nel caso di giusta causa; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    stabilire un termine eccessivamente anticipato rispetto alla scadenza del contratto per comunicare la disdetta al fine di evitare la tacita proroga o rinnovazione; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    prevedere l'estensione dell'adesione del consumatore a clausole che non ha avuto la possibilita' di conoscere prima della conclusione del contratto; 
+
+                                
+                            
+                            
+                                m)
+                                
+                                    consentire al professionista di modificare unilateralmente le clausole del contratto, ovvero le caratteristiche del prodotto o del servizio da fornire, senza un giustificato motivo indicato nel contratto stesso; 
+
+                                
+                            
+                            
+                                n)
+                                
+                                    stabilire che il prezzo dei beni o dei servizi sia determinato al momento della consegna o della prestazione; 
+
+                                
+                            
+                            
+                                o)
+                                
+                                    consentire al professionista di aumentare il prezzo del bene o del servizio senza che il consumatore possa recedere se il prezzo finale e' eccessivamente elevato rispetto a quello originariamente convenuto; 
+
+                                
+                            
+                            
+                                p)
+                                
+                                    riservare al professionista il potere di accertare la conformita' del bene venduto o del servizio prestato a quello previsto nel contratto o conferirgli il diritto esclusivo d'interpretare una clausola qualsiasi del contratto; 
+
+                                
+                            
+                            
+                                q)
+                                
+                                    limitare la responsabilita' del professionista rispetto alle obbligazioni derivanti dai contratti stipulati in suo nome dai mandatari o subordinare l'adempimento delle suddette obbligazioni al rispetto di particolari formalita'; 
+
+                                
+                            
+                            
+                                r)
+                                
+                                    limitare o escludere l'opponibilita' dell'eccezione d'inadempimento da parte del consumatore; 
+
+                                
+                            
+                            
+                                s)
+                                
+                                    consentire al professionista di sostituire a se' un terzo nei rapporti derivanti dal contratto, anche nel caso di preventivo consenso del consumatore, qualora risulti diminuita la tutela dei diritti di quest'ultimo; 
+
+                                
+                            
+                            
+                                t)
+                                
+                                    sancire a carico del consumatore decadenze, limitazioni della facolta' di opporre eccezioni, deroghe alla competenza dell'autorita' giudiziaria, limitazioni all'adduzione di prove, inversioni o modificazioni dell'onere della prova, restrizioni alla liberta' contrattuale nei rapporti con i terzi; 
+
+                                
+                            
+                            
+                                u)
+                                
+                                    stabilire come sede del foro competente sulle controversie localita' diversa da quella di residenza o domicilio elettivo del consumatore; 
+
+                                
+                            
+                            
+                                v)
+                                
+                                    prevedere l'alienazione di un diritto o l'assunzione di un obbligo come subordinati ad una condizione sospensiva dipendente dalla mera volonta' del professionista a fronte di un'obbligazione immediatamente efficace del consumatore. E' fatto salvo il disposto dell'articolo 1355 del codice civile;
+
+3.
+                        
+                            
+                                Se il contratto ha ad oggetto la prestazione di servizi finanziari a tempo indeterminato il professionista puo', in deroga alle lettere h) e m) del comma 2: 
+ 
+                            
+                            
+                                a)
+                                
+                                    recedere, qualora vi sia un giustificato motivo, senza preavviso, dandone immediata comunicazione al consumatore; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    modificare, qualora sussista un giustificato motivo, le condizioni del contratto, preavvisando entro un congruo termine il consumatore, che ha diritto di recedere dal contratto.
 
 Se il contratto ha ad oggetto la prestazione di servizi finanziari il professionista puo' modificare, senza preavviso, sempreche' vi sia un giustificato motivo in deroga alle lettere n) e o) del comma 2, il tasso di interesse o l'importo di qualunque altro onere relativo alla prestazione finanziaria originariamente convenuti, dandone immediata comunicazione al consumatore che ha diritto di recedere dal contratto.
 
@@ -460,6 +1825,31 @@ La disposizione di cui al comma 2 non si applica nei casi di cui all'articolo 37
 
 Le clausole considerate vessatorie ai sensi degli articoli 33 e 34 sono nulle mentre il contratto rimane valido per il resto.
 
+2.
+                        
+                            
+                                Sono nulle le clausole che, quantunque oggetto di trattativa, abbiano per oggetto o per effetto di:
+ 
+                            
+                            
+                                a)
+                                
+                                    escludere o limitare la responsabilita' del professionista in caso di morte o danno alla persona del consumatore, risultante da un fatto o da un'omissione del professionista;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    escludere o limitare le azioni del consumatore nei confronti del professionista o di un'altra parte in caso di inadempimento totale o parziale o di adempimento inesatto da parte del professionista;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    prevedere l'adesione del consumatore come estesa a clausole che non ha avuto, di fatto, la possibilita' di conoscere prima della conclusione del contratto.
+
 La nullita' opera soltanto a vantaggio del consumatore e puo' essere rilevata d'ufficio dal giudice.
 
 Il venditore ha diritto di regresso nei confronti del fornitore per i danni che ha subito in conseguenza della declaratoria di nullita' delle clausole dichiarate abusive.
@@ -487,6 +1877,52 @@ In caso di inottemperanza alle disposizioni di cui al presente comma, l'Autorita
 ((
 
 Qualora l'Autorita' accerti, in alcuno dei contratti di cui al comma 1, l'utilizzo di clausole vessatorie come definite all'articolo 33, comma 1, applica una sanzione amministrativa pecuniaria nella misura prevista dall'articolo 27, comma 9, primo periodo. In caso di sanzioni inflitte a norma dell'articolo 21 del regolamento (UE) 2017/2394 del Parlamento europeo e del Consiglio, del 12 dicembre 2017, l'importo massimo della sanzione irrogata dall'Autorita' e' pari al 4 per cento del fatturato annuo del professionista realizzato in Italia ovvero negli Stati membri dell'Unione europea interessati dalla relativa violazione.
+
+2-ter.
+                        
+                            
+                                Ai fini dell'irrogazione delle sanzioni di cui al comma 2-bis, l'Autorita' tiene conto, ove appropriato, dei seguenti criteri non esaustivi: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la natura, gravita', entita' e durata della violazione; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le eventuali azioni intraprese dal professionista per attenuare il danno subito dai consumatori o per porvi rimedio; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    eventuali violazioni commesse in precedenza dal professionista; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    i benefici finanziari conseguiti o le perdite evitate dal professionista in conseguenza della violazione, se i relativi dati sono disponibili; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    le sanzioni inflitte al professionista per la medesima violazione in altri Stati membri in casi transfrontalieri, in cui informazioni relative a tali sanzioni sono disponibili attraverso il meccanismo istituito dal citato regolamento (UE) 2017/2394; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    eventuali altri fattori aggravanti o attenuanti applicabili alle circostanze del caso.
 
 Per le sanzioni amministrative pecuniarie inflitte ai sensi del presente articolo si osservano, in quanto applicabili, le disposizioni contenute nel capo I, sezione I e negli articoli 26, 27, 28 e 29 della legge 24 novembre 1981, n. 689. Il pagamento delle sanzioni amministrative di cui al presente articolo e' effettuato entro trenta giorni dalla notifica del provvedimento dell'Autorita'.
 
@@ -544,6 +1980,221 @@ Ove non diversamente disciplinato dal presente codice, per la disciplina del set
 
 ## Art. 45. — Definizioni
 
+1.
+                        
+                            
+                                Ai fini delle Sezioni da I a IV del presente capo, si intende per: 
+ 
+                            
+                            
+                                a)
+                                
+                                    "consumatore": la persona fisica, di cui all'articolo 3, comma 1, lettera a); 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    "professionista": il soggetto, di cui all'articolo 3, comma 1, lettera c); 
+
+                                
+                            
+                            
+                                b-bis)
+                                
+                                    
+                                        (("produttore": il fabbricante di un bene, l'importatore di un bene nel territorio dell'Unione europea o qualsiasi altra persona che si presenta come produttore apponendo sul bene il suo nome, marchio o altro segno distintivo;))
+                                        ((57))
+                                    
+                                
+                            
+                            
+                                c)
+                                
+                                    "beni": 
+ 1) qualsiasi bene mobile materiale anche da assemblare, l'acqua, il gas e l'energia elettrica quando sono confezionati per la vendita in un volume delimitato o in quantita' determinata; 
+ 2) qualsiasi bene mobile materiale che incorpora, o e' interconnesso con, un contenuto digitale o un servizio digitale in modo tale che la mancanza di detto contenuto digitale o servizio digitale impedirebbe lo svolgimento delle funzioni proprie del bene, anche denominati "beni con elementi digitali"); 
+ 3) gli animali vivi; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    "beni prodotti secondo le indicazioni del consumatore": qualsiasi bene non prefabbricato prodotto in base a una scelta o decisione individuale del consumatore; 
+
+                                
+                            
+                            
+                                d-bis)
+                                
+                                    "dato personale": dato personale quale definito dall'articolo 4, punto 1), del regolamento (UE) 2016/679 del Parlamento europeo e del Consiglio, del 27 aprile 2016; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    "contratto di vendita": qualsiasi contratto in base al quale il professionista trasferisce o si impegna a trasferire la proprieta' di beni al consumatore, inclusi i contratti che hanno come oggetto sia beni che servizi; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    "contratto di servizi": qualsiasi contratto diverso da un contratto di vendita in base al quale il professionista fornisce o si impegna a fornire un servizio, compreso un servizio digitale, al consumatore; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    "contratto a distanza": qualsiasi contratto concluso tra il professionista e il consumatore nel quadro di un regime organizzato di vendita o di prestazione di servizi a distanza senza la presenza fisica e simultanea del professionista e del consumatore, mediante l'uso esclusivo di uno o piu' mezzi di comunicazione a distanza fino alla conclusione del contratto, compresa la conclusione del contratto stesso; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    "contratto negoziato fuori dei locali commerciali": qualsiasi contratto tra il professionista e il consumatore: 
+ 1) concluso alla presenza fisica e simultanea del professionista e del consumatore, in un luogo diverso dai locali del professionista; 
+ 2) per cui e' stata fatta un'offerta da parte del consumatore, nelle stesse circostanze di cui al numero 1; 
+ 3) concluso nei locali del professionista o mediante qualsiasi mezzo di comunicazione a distanza immediatamente dopo che il consumatore e' stato avvicinato personalmente e singolarmente in un luogo diverso dai locali del professionista, alla presenza fisica e simultanea del professionista e del consumatore; oppure; 
+ 4) concluso durante un viaggio promozionale organizzato dal professionista e avente lo scopo o l'effetto di promuovere e vendere beni o servizi al consumatore; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    "locali commerciali": 
+ 1) qualsiasi locale immobile adibito alla vendita al dettaglio in cui il professionista esercita la sua attivita' su base permanente; oppure; 
+ 2) qualsiasi locale mobile adibito alla vendita al dettaglio in cui il professionista esercita la propria attivita' a carattere abituale; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    "supporto durevole": ogni strumento che permetta al consumatore o al professionista di conservare le informazioni che gli sono personalmente indirizzate in modo da potervi accedere in futuro per un periodo di tempo adeguato alle finalita' cui esse sono destinate e che permetta la riproduzione identica delle informazioni memorizzate; 
+
+                                
+                            
+                            
+                                m)
+                                
+                                    "contenuto digitale": i dati prodotti e forniti in formato digitale; 
+
+                                
+                            
+                            
+                                n)
+                                
+                                    "servizio finanziario": qualsiasi servizio di natura bancaria, creditizia, assicurativa, servizi pensionistici individuali, di investimento o di pagamento; 
+
+                                
+                            
+                            
+                                o)
+                                
+                                    "asta pubblica": metodo di vendita in cui beni o servizi sono offerti dal professionista ai consumatori che partecipano o cui e' data la possibilita' di partecipare all'asta di persona, mediante una trasparente procedura competitiva di offerte gestita da una casa d'aste e in cui l'aggiudicatario e' vincolato all'acquisto dei beni o servizi; 
+
+                                
+                            
+                            
+                                p)
+                                
+                                    "garanzia": qualsiasi impegno di un professionista o di un produttore (il "garante"), assunto nei confronti del consumatore, in aggiunta agli obblighi di legge in merito alla garanzia di conformita', di rimborsare il prezzo pagato, sostituire, riparare, o intervenire altrimenti sul bene, qualora esso non corrisponda alle caratteristiche, o a qualsiasi altro requisito non relativo alla conformita', enunciati nella dichiarazione di garanzia o nella relativa pubblicita' disponibile al momento o prima della conclusione del contratto; 
+
+                                
+                            
+                            
+                                p-bis)
+                                
+                                    
+                                        (("garanzia commerciale di durabilita'": una garanzia commerciale di durabilita' del produttore di cui all'articolo 135-quinquies, in base alla quale il produttore e' responsabile direttamente nei confronti del consumatore per la riparazione o la sostituzione dei beni nell'arco di tutto il periodo di durata della garanzia commerciale di durabilita' in conformita' all'articolo 135-ter, se i beni non mantengono la propria durabilita';))
+                                        ((57))
+                                    
+                                
+                            
+                            
+                                p-ter)
+                                
+                                    
+                                        (("durabilita'": la capacita' dei beni di mantenere le loro specifiche funzioni e prestazioni attraverso un uso normale;))
+                                        ((57))
+                                    
+                                
+                            
+                            
+                                p-quater)
+                                
+                                    
+                                        (("indice di riparabilita'": indice che esprime l'idoneita' di un bene ad essere riparato sulla base di requisiti armonizzati stabiliti a livello dell'Unione europea;))
+                                        ((57))
+                                    
+                                
+                            
+                            
+                                p-quinquies)
+                                
+                                    
+                                        (("aggiornamento del software": aggiornamento gratuito, compreso un aggiornamento di sicurezza, necessario per mantenere conformi all'articolo 130 e all'articolo 135-undecies i beni comprendenti elementi digitali, contenuti digitali e servizi digitali, compreso un aggiornamento di sicurezza, oppure un aggiornamento delle funzionalita';))
+                                        ((57))
+                                    
+                                
+                            
+                            
+                                q)
+                                
+                                    "contratto accessorio": un contratto mediante il quale il consumatore acquista beni o servizi connessi a un contratto a distanza o negoziato fuori dei locali commerciali e in cui tali beni o servizi sono forniti dal professionista o da un terzo in base ad un accordo tra il terzo e il professionista. 
+
+                                
+                            
+                            
+                                q-bis)
+                                
+                                    "servizio digitale": 
+ 1) un servizio che consente al consumatore di creare, trasformare, archiviare i dati o di accedervi in formato digitale; oppure 
+ 2) un servizio che consente la condivisione di dati in formato digitale, caricati o creati dal consumatore e da altri utenti di tale servizio, o qualsiasi altra interazione con tali dati; 
+
+                                
+                            
+                            
+                                q-ter)
+                                
+                                    "mercato online": un servizio che utilizza un software, compresi siti web, parte di siti web o un'applicazione, gestito da o per conto del professionista, che permette ai consumatori di concludere contratti a distanza con altri professionisti o consumatori; 
+
+                                
+                            
+                            
+                                q-quater)
+                                
+                                    "fornitore di mercato online": qualsiasi professionista che fornisce un mercato online ai consumatori; 
+
+                                
+                            
+                            
+                                q-quinquies)
+                                
+                                    "compatibilita'": la capacita' del contenuto digitale o del servizio digitale di funzionare con hardware o software con cui sono normalmente utilizzati contenuti digitali o servizi digitali dello stesso tipo, senza che sia necessario convertire il contenuto digitale o il servizio digitale; 
+
+                                
+                            
+                            
+                                q-sexies)
+                                
+                                    "funzionalita'": la capacita' del contenuto digitale o del servizio digitale di svolgere tutte le sue funzioni in considerazione del suo scopo; 
+
+                                
+                            
+                            
+                                q-septies)
+                                
+                                    "interoperabilita'": la capacita' del contenuto digitale o del servizio digitale di funzionare con hardware o software diversi da quelli con cui sono normalmente utilizzati i contenuti digitali o i servizi digitali dello stesso tipo.)) 
+ (24)
+
 -------------
                             AGGIORNAMENTO (24)
                             
@@ -580,6 +2231,110 @@ Le disposizioni delle Sezioni da I a IV del presente Capo non impediscono ai pro
 
 ## Art. 47. — Esclusioni
 
+1.
+                        
+                            
+                                Le disposizioni delle Sezioni da I a IV del presente Capo non si applicano ai contratti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    per i servizi sociali, compresi gli alloggi popolari, l'assistenza all'infanzia e il sostegno alle famiglie e alle persone temporaneamente o permanentemente in stato di bisogno, ivi compresa l'assistenza a lungo termine; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    di assistenza sanitaria, per i servizi prestati da professionisti sanitari a pazienti, al fine di valutare, mantenere o ristabilire il loro stato di salute, ivi compresa la prescrizione, la somministrazione e la fornitura di medicinali e dispositivi medici, sia essa fornita o meno attraverso le strutture di assistenza sanitaria; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    di attivita' di azzardo che implicano una posta di valore pecuniario in giochi di fortuna, comprese le lotterie, i giochi d'azzardo nei casino' e le scommesse; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    
+                                        ((di servizi finanziari non contemplati dalla sezione II-bis - parte III - titolo III - capo I;))
+                                        ((55))
+                                    
+                                
+                            
+                            
+                                e)
+                                
+                                    aventi ad oggetto la creazione di beni immobili o la costituzione o il trasferimento di diritti su beni immobili; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    per la costruzione di nuovi edifici, la trasformazione sostanziale di edifici esistenti e per la locazione di alloggi a scopo residenziale; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    che rientrano nell'ambito di applicazione della disciplina concernente i contratti del turismo organizzato, di cui al Capo I del Titolo VI dell'Allegato 1 al decreto legislativo 23 maggio 2011, n. 79; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    che rientrano nell'ambito di applicazione della disciplina concernente la tutela dei consumatori per quanto riguarda taluni aspetti dei contratti di multiproprieta', dei contratti relativi ai prodotti per le vacanze di lungo termine e dei contratti di rivendita e di scambio, di cui agli articoli da 69 a 81-bis del presente Codice; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    stipulati con l'intervento di un pubblico ufficiale, tenuto per legge all'indipendenza e all'imparzialita', il quale deve garantire, fornendo un'informazione giuridica completa, che il consumatore concluda il contratto soltanto sulla base di una decisione giuridica ponderata e con conoscenza della sua rilevanza giuridica; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    di fornitura di alimenti, bevande o altri beni destinati al consumo corrente nella famiglia e fisicamente forniti da un professionista in giri frequenti e regolari al domicilio, alla residenza o al posto di lavoro del consumatore; 
+
+                                
+                            
+                            
+                                m)
+                                
+                                    di servizi di trasporto passeggeri, fatti salvi l'articolo 51, comma 2, e gli articoli 62, 64 e 65; (49) 
+
+                                
+                            
+                            
+                                n)
+                                
+                                    conclusi tramite distributori automatici o locali commerciali automatizzati; 
+
+                                
+                            
+                            
+                                o)
+                                
+                                    conclusi con operatori delle telecomunicazioni impiegando telefoni pubblici a pagamento per il loro utilizzo o conclusi per l'utilizzo di un solo collegamento tramite telefono, Internet o fax, stabilito dal consumatore. 
+
+                                
+                            
+                            
+                                o-bis)
+                                
+                                    relativi ai beni oggetto di vendita forzata o comunque venduti secondo altre modalita' dalle autorita' giudiziarie.
+
 Le disposizioni delle Sezioni da I a IV del presente Capo non si applicano ai contratti negoziati fuori dei locali commerciali in base ai quali il corrispettivo che il consumatore deve pagare non e' superiore a 50 euro. Tuttavia, si applicano le disposizioni del presente Capo nel caso di piu' contratti stipulati contestualmente tra le medesime parti, qualora l'entita' del corrispettivo globale che il consumatore deve pagare, indipendentemente dall'importo dei singoli contratti, superi l'importo di 50 euro. 
  (24)
 
@@ -599,6 +2354,122 @@ Le disposizioni delle Sezioni da I a IV del presente Capo non si applicano ai co
 ## - - Sezione I ((Informazioni precontrattuali per i consumatori nei contratti diversi dai contratti a distanza o negoziati fuori dei locali commerciali))
 
 ## Art. 48. — Obblighi d'informazione nei contratti diversi dai contratti a distanza o negoziati fuori dei locali commerciali
+
+1.
+                        
+                            
+                                Prima che il consumatore sia vincolato da un contratto diverso da un contratto a distanza o negoziato fuori dei locali commerciali o da una corrispondente offerta, il professionista fornisce al consumatore le seguenti informazioni in modo chiaro e comprensibile, qualora esse non siano gia' apparenti dal contesto: 
+ 
+                            
+                            
+                                a)
+                                
+                                    le caratteristiche principali dei beni o servizi, nella misura adeguata al supporto e ai beni o servizi; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'identita' del professionista, l'indirizzo geografico in cui e' stabilito e il numero di telefono e, ove questa informazione sia pertinente, l'indirizzo geografico e l'identita' del professionista per conto del quale egli agisce; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il prezzo totale dei beni o servizi comprensivo delle imposte o, se la natura dei beni o dei servizi comporta l'impossibilita' di calcolare ragionevolmente il prezzo in anticipo, le modalita' di calcolo del prezzo e, se applicabili, tutte le spese aggiuntive di spedizione, consegna o postali oppure, qualora tali spese non possano ragionevolmente essere calcolate in anticipo, l'indicazione che tali spese potranno essere addebitate al consumatore; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    se applicabili, le modalita' di pagamento, consegna ed esecuzione, la data entro la quale il professionista si impegna a consegnare i beni o a prestare il servizio e il trattamento dei reclami da parte del professionista; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    
+                                        ((un promemoria dell'esistenza della garanzia legale di conformita' per i beni e dei suoi elementi principali, compresa la durata minima di due anni ai sensi dell'articolo 133, in modo visibile, utilizzando l'avviso armonizzato di cui all'articolo 65-ter;))
+                                        ((57))
+                                    
+                                
+                            
+                            
+                                e-bis)
+                                
+                                    
+                                        ((se il produttore offre al consumatore una garanzia commerciale di durabilita' senza costi aggiuntivi, che copre il bene nel suo complesso ed ha una durata superiore a due anni e mette tali informazioni a disposizione dell'operatore economico, l'informazione che tale bene beneficia di tale garanzia, l'indicazione della relativa durata e un promemoria dell'esistenza della garanzia legale di conformita', in modo visibile, mediante l'etichetta armonizzata di cui all'articolo 65-ter;))
+                                        ((57))
+                                    
+                                
+                            
+                            
+                                e-ter)
+                                
+                                    
+                                        ((un promemoria dell'esistenza della garanzia legale di conformita' per il contenuto digitale e i servizi digitali;))
+                                        ((57))
+                                    
+                                
+                            
+                            
+                                e-quater)
+                                
+                                    
+                                        ((se applicabili, l'esistenza e le condizioni dei servizi postvendita e delle garanzie commerciali;))
+                                        ((57))
+                                    
+                                
+                            
+                            
+                                e-quinquies)
+                                
+                                    
+                                        ((per i beni comprendenti elementi digitali, per i contenuti digitali e per i servizi digitali, se il produttore o il fornitore mette a disposizione dell'operatore economico le informazioni, il periodo minimo, sia esso espresso mediante un termine o con riferimento a una data, per il quale il produttore o il fornitore fornisce aggiornamenti del software;))
+                                        ((57))
+                                    
+                                
+                            
+                            
+                                f)
+                                
+                                    la durata del contratto, se applicabile, o, se il contratto e' a tempo indeterminato o e' un contratto a rinnovo automatico, le condizioni di risoluzione del contratto; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    se applicabile, la funzionalita' dei beni con elementi digitali, del contenuto digitale e dei servizi digitali, comprese le misure applicabili di protezione tecnica; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    qualsiasi compatibilita' e interoperabilita' pertinente dei beni con elementi digitali, del contenuto digitale e dei servizi digitali, di cui il professionista sia a conoscenza o di cui ci si puo' ragionevolmente attendere che sia venuto a conoscenza, se applicabili. 
+
+                                
+                            
+                            
+                                h-bis)
+                                
+                                    
+                                        ((se applicabile, l'indice di riparabilita' dei beni;))
+                                        ((57))
+                                    
+                                
+                            
+                            
+                                h-ter)
+                                
+                                    
+                                        ((se la lettera h-bis) non e' applicabile e a condizione che il produttore metta le informazioni a disposizione dell'operatore economico, informazioni concernenti la disponibilita', il costo stimato e la procedura di ordinazione dei pezzi di ricambio necessari per mantenere la conformita' dei beni, informazioni sulla disponibilita' di istruzioni per la riparazione e la manutenzione e informazioni sulle restrizioni alla riparazione;))
+                                        ((57))
 
 Gli obblighi di informazione precontrattuali, di cui al comma 1, si applicano anche ai contratti per la fornitura di acqua, gas o elettricita', quando non sono messi in vendita in un volume limitato o in quantita' determinata, di teleriscaldamento o di contenuto digitale non fornito su un supporto materiale.
 
@@ -622,6 +2493,206 @@ Sono fatte salve le disposizioni di cui agli articoli da 6 a 12 del presente Cod
 ## - - Sezione II ((Informazioni precontrattuali per il consumatore e diritto di recesso nei contratti a distanza e nei contratti negoziati fuori dei locali commerciali))
 
 ## Art. 49. — Obblighi di informazione nei contratti a distanza e nei contratti negoziati fuori dei locali commerciali
+
+1.
+                        
+                            
+                                Prima che il consumatore sia vincolato da un contratto a distanza o negoziato fuori dei locali commerciali o da una corrispondente offerta, il professionista fornisce al consumatore le informazioni seguenti, in maniera chiara e comprensibile: 
+ 
+                            
+                            
+                                a)
+                                
+                                    le caratteristiche principali dei beni o servizi, nella misura adeguata al supporto e ai beni o servizi; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'identita' del professionista; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    l'indirizzo geografico dove il professionista e' stabilito, il suo numero di telefono e il suo indirizzo elettronico. Inoltre, se il professionista fornisce qualsiasi altro mezzo di comunicazione elettronica che garantisca al consumatore di poter intrattenere con lui una corrispondenza scritta, che rechi la data e l'orario dei relativi messaggi, su un supporto durevole, il professionista deve fornire anche le informazioni relative a tale altro mezzo. Tutti questi mezzi di comunicazione forniti dal professionista devono consentire al consumatore di contattarlo rapidamente e di comunicare efficacemente con lui. Ove applicabile, il professionista fornisce anche l'indirizzo geografico e l'identita' del professionista per conto del quale agisce; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    se diverso dall'indirizzo fornito in conformita' della lettera c), l'indirizzo geografico della sede del professionista a cui il consumatore puo' indirizzare eventuali reclami e, se applicabile, quello del professionista per conto del quale agisce; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    il prezzo totale dei beni o dei servizi comprensivo delle imposte o, se la natura dei beni o servizi comporta l'impossibilita' di calcolare ragionevolmente il prezzo in anticipo, le modalita' di calcolo del prezzo e, se del caso, tutte le spese aggiuntive di spedizione, consegna o postali e ogni altro costo oppure, qualora tali spese non possano ragionevolmente essere calcolate in anticipo, l'indicazione che tali spese potranno essere addebitate al consumatore; nel caso di un contratto a tempo indeterminato o di un contratto comprendente un abbonamento, il prezzo totale include i costi totali per periodo di fatturazione; quando tali contratti prevedono l'addebitamento di una tariffa fissa, il prezzo totale equivale anche ai costi mensili totali; se i costi totali non possono essere ragionevolmente calcolati in anticipo, devono essere fornite le modalita' di calcolo del prezzo; 
+
+                                
+                            
+                            
+                                e-bis)
+                                
+                                    se applicabile, l'informazione che il prezzo e' stato personalizzato sulla base di un processo decisionale automatizzato, ferme le garanzie di cui all'articolo 22 del regolamento (UE) 2016/679 del Parlamento europeo e del Consiglio, del 27 aprile 2016; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    il costo dell'utilizzo del mezzo di comunicazione a distanza per la conclusione del contratto quando tale costo e' calcolato su una base diversa dalla tariffa di base; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    
+                                        ((le modalita' di pagamento, consegna, incluse ove disponibili opzioni di consegna rispettose dell'ambiente, esecuzione, la data entro la quale il professionista si impegna a consegnare i beni o a prestare i servizi e, se del caso, il trattamento dei reclami da parte del professionista;))
+                                        ((57))
+                                    
+                                
+                            
+                            
+                                h)
+                                
+                                    in caso di sussistenza di un diritto di recesso, le condizioni, i termini e le procedure per esercitare tale diritto conformemente all'articolo 54, comma 1, nonche' il modulo tipo di recesso di cui all'allegato I, parte B e, se del caso, le informazioni circa l'esistenza e la collocazione della funzione di recesso di cui all'articolo 54-bis; (55) 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    se applicabile, l'informazione che il consumatore dovra' sostenere il costo della restituzione dei beni in caso di recesso e in caso di contratti a distanza qualora i beni per loro natura non possano essere normalmente restituiti a mezzo posta; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    che, se il consumatore esercita il diritto di recesso dopo aver presentato una richiesta ai sensi dell'articolo 50, comma 3, o dell'articolo 51, comma 8, egli e' responsabile del pagamento al professionista di costi ragionevoli, ai sensi dell'articolo 57, comma 3; 
+
+                                
+                            
+                            
+                                m)
+                                
+                                    se non e' previsto un diritto di recesso ai sensi dell'articolo 59, l'informazione che il consumatore non beneficera' di un diritto di recesso o, se del caso, le circostanze in cui il consumatore perde il diritto di recesso; 
+
+                                
+                            
+                            
+                                n)
+                                
+                                    
+                                        ((un promemoria dell'esistenza della garanzia legale di conformita' per i beni e dei suoi elementi principali, compresa la durata minima di due anni ai sensi dell'articolo 133, in modo visibile, utilizzando l'avviso armonizzato di cui all'articolo 65-ter;))
+                                        ((57))
+                                    
+                                
+                            
+                            
+                                n-bis)
+                                
+                                    
+                                        ((se il produttore offre al consumatore una garanzia commerciale di durabilita' senza costi aggiuntivi, che copre il bene nel suo complesso ed ha una durata superiore a due anni e mette tali informazioni a disposizione dell'operatore economico, l'informazione che tale bene beneficia di tale garanzia, l'indicazione della relativa durata e un promemoria dell'esistenza della garanzia legale di conformita', in modo visibile, mediante l'etichetta armonizzata di cui all'articolo 65-ter;))
+                                        ((57))
+                                    
+                                
+                            
+                            
+                                n-ter)
+                                
+                                    
+                                        ((un promemoria dell'esistenza della garanzia legale di conformita' per il contenuto digitale e i servizi digitali;))
+                                        ((57))
+                                    
+                                
+                            
+                            
+                                n-quater)
+                                
+                                    
+                                        ((per i beni comprendenti elementi digitali, per i contenuti digitali o per i servizi digitali, se il produttore o il fornitore mette a disposizione dell'operatore economico tali informazioni, il periodo minimo, sia esso espresso mediante un termine o con riferimento a una data, per il quale il produttore o il fornitore fornisce aggiornamenti del software;))
+                                        ((57))
+                                    
+                                
+                            
+                            
+                                o)
+                                
+                                    se applicabili, l'esistenza e le condizioni dell'assistenza postvendita al consumatore, dei servizi postvendita e delle garanzie commerciali; 
+
+                                
+                            
+                            
+                                p)
+                                
+                                    l'esistenza di codici di condotta pertinenti, come definiti all'articolo 18, comma 1, lettera f), del presente Codice, e come possa esserne ottenuta copia, se del caso; 
+
+                                
+                            
+                            
+                                q)
+                                
+                                    la durata del contratto, se applicabile, o, se il contratto e' a tempo indeterminato o e' un contratto a rinnovo automatico, le condizioni per recedere dal contratto; 
+
+                                
+                            
+                            
+                                r)
+                                
+                                    se applicabile, la durata minima degli obblighi del consumatore a norma del contratto; 
+
+                                
+                            
+                            
+                                s)
+                                
+                                    se applicabili, l'esistenza e le condizioni di depositi o altre garanzie finanziarie che il consumatore e' tenuto a pagare o fornire su richiesta del professionista; 
+
+                                
+                            
+                            
+                                t)
+                                
+                                    se applicabile, la funzionalita' dei beni con elementi digitali, del contenuto digitale e dei servizi digitali, comprese le misure applicabili di protezione tecnica; 
+
+                                
+                            
+                            
+                                u)
+                                
+                                    qualsiasi compatibilita' e interoperabilita' pertinente dei beni con elementi digitali, del contenuto digitale e dei servizi digitali, di cui il professionista sia a conoscenza o di cui ci si puo' ragionevolmente attendere che sia venuto a conoscenza, se applicabile; 
+
+                                
+                            
+                            
+                                v)
+                                
+                                    se applicabile, la possibilita' di servirsi di un meccanismo extra-giudiziale di reclamo e ricorso cui il professionista e' soggetto e le condizioni per avervi accesso. 
+
+                                
+                            
+                            
+                                v-bis)
+                                
+                                    
+                                        ((se applicabile, l'indice di riparabilita' dei beni;))
+                                        ((57))
+                                    
+                                
+                            
+                            
+                                v-ter)
+                                
+                                    
+                                        ((se la lettera v-bis) non e' applicabile e a condizione che il produttore metta tali informazioni a disposizione del professionista, informazioni concernenti la disponibilita', il costo stimato e la procedura di ordinazione dei pezzi di ricambio necessari per mantenere la conformita' del bene, informazioni sulla disponibilita' di istruzioni per la riparazione e la manutenzione e informazioni sulle restrizioni alla riparazione.))
+                                        ((57))
 
 Gli obblighi di informazione precontrattuali, di cui al comma 1, si applicano anche ai contratti per la fornitura di acqua, gas o elettricita', quando non sono messi in vendita in un volume limitato o in quantita' determinata, di teleriscaldamento o di contenuto digitale non fornito su un supporto materiale.
 
@@ -660,6 +2731,38 @@ L'onere della prova relativo all'adempimento degli obblighi di informazione di c
 
 ((
 
+1.
+                        
+                            
+                                Prima che un consumatore sia vincolato da un contratto a distanza, o da una corrispondente offerta, su un mercato online, il fornitore del mercato online, fermo restando quanto previsto dalla parte II, Titolo III, indica altresi' al consumatore, in maniera chiara e comprensibile e in modo appropriato al mezzo di comunicazione a distanza: 
+ 
+                            
+                            
+                                a)
+                                
+                                    informazioni generali, rese disponibili in un'apposita sezione dell'interfaccia online che sia direttamente e facilmente accessibile dalla pagina in cui sono presentate le offerte, in merito ai principali parametri che determinano la classificazione, quale definita all'articolo 18, comma 1, lettera n-bis), delle offerte presentate al consumatore come un risultato della sua ricerca e all'importanza relativa di tali parametri rispetto ad altri parametri; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    se il terzo che offre beni, servizi o contenuto digitale e' un professionista o meno, sulla base della dichiarazione del terzo stesso al fornitore del mercato online; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    nel caso in cui il terzo che offre i beni, i servizi o il contenuto digitale non sia un professionista, che al contratto non si applicano i diritti dei consumatori derivanti dal diritto dell'Unione europea sulla tutela dei consumatori; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    se del caso, il modo in cui gli obblighi relativi al contratto sono ripartiti tra il terzo che offre i beni, i servizi o il contenuto digitale e il fornitore del mercato online. Tali informazioni lasciano impregiudicata la responsabilita' che il fornitore del mercato online o il professionista terzo ha in relazione al contratto in base ad altre norme di diritto europeo o nazionale.
+
 Le presenti disposizioni lasciano impregiudicata l'applicazione, per quanto di competenza, delle norme contenute nel decreto legislativo 9 aprile 2003, n. 70, in materia di obblighi di informazione per i fornitori dei mercati online.
 
 ))
@@ -675,6 +2778,25 @@ Il professionista fornisce al consumatore una copia del contratto firmato o la c
 Se un consumatore vuole che la prestazione dei servizi ovvero la fornitura di acqua, gas o elettricita', quando non sono messi in vendita in un volume limitato o in quantita' determinata, o di teleriscaldamento inizi durante il periodo di recesso previsto all'articolo 52, comma 2, e il contratto impone al consumatore l'obbligo di pagare, il professionista esige che il consumatore ne faccia esplicita richiesta su un supporto durevole e chiede inoltre al consumatore di riconoscere che, una volta che il contratto sara' stato interamente eseguito dal professionista, il consumatore non avra' piu' il diritto di recesso.
 
 ))
+
+4.
+                        
+                            
+                                Per i contratti negoziati fuori dei locali commerciali in cui il consumatore ha chiesto espressamente i servizi del professionista ai fini dell'effettuazione di lavori di riparazione o manutenzione e in virtu' dei quali il professionista e il consumatore adempiono immediatamente ai propri obblighi contrattuali e l'importo a carico del consumatore non supera i 200 euro: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il professionista fornisce al consumatore, prima che questi sia vincolato dal contratto, le informazioni di cui all'articolo 49, comma 1, lettere b) e c), e le informazioni concernenti il prezzo o le modalita' di calcolo del prezzo, accompagnate da una stima del prezzo totale, su supporto cartaceo o, se il consumatore e' d'accordo, su un altro mezzo durevole. Il professionista fornisce le informazioni di cui all'articolo 49, comma 1, lettere a), h) ed m), ma puo' scegliere di non fornirle su formato cartaceo o su un altro mezzo durevole se il consumatore ha espressamente acconsentito; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la conferma del contratto fornita conformemente al comma 2 del presente articolo contiene tutte le informazioni di cui all'articolo 49, comma 1. 
+ (24)
 
 -------------
                             AGGIORNAMENTO (24)
@@ -694,6 +2816,24 @@ Se il contratto e' concluso mediante un mezzo di comunicazione a distanza che co
 Fatto salvo il comma 4, se il professionista telefona al consumatore al fine di concludere un contratto a distanza, all'inizio della conversazione con il consumatore egli deve rivelare la sua identita' e, ove applicabile, l'identita' della persona per conto della quale effettua la telefonata, nonche' lo scopo commerciale della chiamata e l'informativa di cui all'articolo 10 del decreto del Presidente della Repubblica 7 settembre 2010, n. 178.
 
 Quando un contratto a distanza deve essere concluso per telefono, il professionista deve confermare l'offerta al consumatore, il quale e' vincolato solo dopo aver firmato l'offerta o dopo averla accettata per iscritto; in tali casi il documento informatico puo' essere sottoscritto con firma elettronica ai sensi dell'articolo 21 del decreto legislativo 7 marzo 2005, n. 82, e successive modificazioni. Dette conferme possono essere effettuate, se il consumatore acconsente, anche su un supporto durevole. In ogni caso il consenso non e' valido se il consumatore non ha preliminarmente confermato la ricezione del documento contenente tutte le condizioni contrattuali, trasmesse su supporto cartaceo o altro supporto durevole disponibile e accessibile.
+
+7.
+                        
+                            
+                                Il professionista fornisce al consumatore la conferma del contratto concluso su un mezzo durevole, entro un termine ragionevole dopo la conclusione del contratto a distanza e al piu' tardi al momento della consegna dei beni oppure prima che l'esecuzione del servizio abbia inizio. Tale conferma comprende: 
+ 
+                            
+                            
+                                a)
+                                
+                                    tutte le informazioni di cui all'articolo 49, comma 1, a meno che il professionista non abbia gia' fornito l'informazione al consumatore su un mezzo durevole prima della conclusione del contratto a distanza; e 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    se del caso, la conferma del previo consenso espresso e dell'accettazione del consumatore conformemente all'articolo 59, lettera o).
 
 Se un consumatore vuole che la prestazione dei servizi ovvero la fornitura di acqua, gas o elettricita', quando non sono messi in vendita in un volume limitato o in quantita' determinata, o di teleriscaldamento inizi durante il periodo di recesso previsto all'articolo 52, comma 2, e il contratto impone al consumatore l'obbligo di pagare, il professionista esige che il consumatore ne faccia richiesta esplicita e chiede inoltre al consumatore di riconoscere che, una volta che il contratto sara' stato interamente eseguito dal professionista, il consumatore non avra' piu' il diritto di recesso.
 
@@ -722,6 +2862,35 @@ Fatte salve le eccezioni di cui all'articolo 59, il consumatore dispone di un pe
 
 ((1-bis. Il periodo di recesso di quattordici giorni di cui al comma 1 e' prolungato a trenta giorni, per i contratti conclusi nel contesto di visite non richieste di un professionista presso l'abitazione di un consumatore oppure di escursioni organizzate da un professionista con lo scopo o con l'effetto di promuovere o vendere prodotti ai consumatori. La disposizione di cui al presente comma non si applica ai contratti conclusi nel contesto di visite domiciliari da parte di un professionista, richieste da un consumatore e non organizzate dal medesimo in forma collettiva))
 
+2.
+                        
+                            
+                                
+                                    ((Fatto salvo l'articolo 53, il periodo di recesso di cui al comma 1 del presente articolo termina dopo quattrodici giorni, o, nei casi di cui al comma 1-bis, dopo trenta giorni a decorrere:))
+                                
+                            
+                            
+                                a)
+                                
+                                    nel caso dei contratti di servizi, dal giorno della conclusione del contratto; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    nel caso di contratti di vendita, dal giorno in cui il consumatore o un terzo, diverso dal vettore e designato dal consumatore, acquisisce il possesso fisico dei beni o: 
+ 1) nel caso di beni multipli ordinati dal consumatore mediante un solo ordine e consegnati separatamente, dal giorno in cui il consumatore o un terzo, diverso dal vettore e designato dal consumatore, acquisisce il possesso fisico dell'ultimo bene; 
+ 2) nel caso di consegna di un bene costituito da lotti o pezzi multipli, dal giorno in cui il consumatore o un terzo, diverso dal vettore e designato dal consumatore, acquisisce il possesso fisico dell'ultimo lotto o pezzo; 
+ 3) nel caso di contratti per la consegna periodica di beni durante un determinato periodo di tempo, dal giorno in cui il consumatore o un terzo, diverso dal vettore e designato dal consumatore, acquisisce il possesso fisico del primo bene; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    nel caso di contratti per la fornitura di acqua, gas o elettricita', quando non sono messi in vendita in un volume limitato o in quantita' determinata, di teleriscaldamento o di contenuto digitale non fornito su un supporto materiale, dal giorno della conclusione del contratto.
+
 Le parti del contratto possono adempiere ai loro obblighi contrattuali durante il periodo di recesso. Tuttavia, nel caso di contratti negoziati fuori dei locali commerciali, il professionista non puo' accettare, a titolo di corrispettivo, effetti cambiari che abbiano una scadenza inferiore a quindici giorni dalla conclusione del contratto per i contratti di servizi o dall'acquisizione del possesso fisico dei beni per i contratti di vendita e non puo' presentarli allo sconto prima di tale termine.
 
 ((3-bis. Nel caso di cui al comma 1-bis, il professionista non puo' accettare, a titolo di corrispettivo, effetti cambiari che abbiano una scadenza inferiore a trentuno giorni dalla conclusione del contratto per i contratti di servizi o all'acquisizione del possesso fisico dei beni per i contratti di vendita e non puo' presentarli allo sconto prima di tale termine.))
@@ -746,6 +2915,24 @@ Se in violazione dell'articolo 49, comma 1, lettera h), il professionista non fo
 
 ((
 
+1.
+                        
+                            
+                                Prima della scadenza del periodo di recesso, il consumatore informa il professionista della sua decisione di esercitare il diritto di recesso dal contratto. A tal fine il consumatore puo': 
+ 
+                            
+                            
+                                a)
+                                
+                                    utilizzare il modulo tipo di recesso di cui all'allegato I, parte B; oppure 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    presentare una qualsiasi altra dichiarazione esplicita della sua decisione di recedere dal contratto.
+
 Il consumatore ha esercitato il proprio diritto di recesso entro il periodo di recesso di cui all'articolo 52, comma 2, e all'articolo 53 se la comunicazione relativa all'esercizio del diritto di recesso e' inviata dal consumatore prima della scadenza del periodo di recesso.
 
 Il professionista, oltre alle possibilita' di cui al comma 1, puo' offrire al consumatore l'opzione di compilare e inviare elettronicamente il modulo di recesso tipo riportato all'allegato I, parte B, o una qualsiasi altra dichiarazione esplicita sul sito web del professionista. In tali casi il professionista comunica senza indugio al consumatore una conferma di ricevimento, su un supporto durevole, del recesso esercitato.
@@ -762,6 +2949,35 @@ Il professionista, oltre alle possibilita' di cui al comma 1, puo' offrire al co
 ## Art. 54-bis. — (( (Esercizio del diritto di recesso dai contratti a distanza conclusi mediante un'interfaccia online).))
 
 
+
+2.
+                        
+                            
+                                
+                                    ((La funzione di recesso consente al consumatore di inviare una dichiarazione di recesso online che informa il professionista della sua decisione di recedere dal contratto. Tale dichiarazione di recesso online consente al consumatore di fornire o confermare facilmente le seguenti informazioni:))
+                                
+                            
+                            
+                                a)
+                                
+                                    
+                                        ((il suo nome;))
+                                    
+                                
+                            
+                            
+                                b)
+                                
+                                    
+                                        ((le informazioni che identificano il contratto dal quale intende recedere;))
+                                    
+                                
+                            
+                            
+                                c)
+                                
+                                    
+                                        ((le informazioni relative al mezzo elettronico tramite il quale la conferma del recesso sara' inviata al consumatore.))
 
 ((La funzione di recesso e' indicata in modo facilmente leggibile con le parole: "recedere dal contratto qui" o con un'altra formulazione equivalente altrettanto inequivocabile. Tale funzione e' resa disponibile in maniera continuativa per tutto il periodo in cui puo' essere esercitato il diritto di recesso, figura in modo ben visibile sull'interfaccia online ed e' facilmente accessibile al consumatore.))
 
@@ -803,6 +3019,38 @@ Salvo che il professionista abbia offerto di ritirare egli stesso i beni, con ri
 
 Per quanto riguarda i dati personali del consumatore, il professionista rispetta gli obblighi applicabili a norma del regolamento (UE) 2016/679 del Parlamento europeo e del Consiglio, del 27 aprile 2016.
 
+3-ter.
+                        
+                            
+                                Il professionista si astiene dall'utilizzare qualsiasi contenuto, diverso dai dati personali, che e' stato fornito o creato dal consumatore durante l'utilizzo del contenuto digitale o del servizio digitale fornito dal professionista, salvo quando tale contenuto: 
+ 
+                            
+                            
+                                a)
+                                
+                                    e' privo di utilita' al di fuori del contesto del contenuto digitale o del servizio digitale fornito dal professionista; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    riguarda unicamente l'attivita' del consumatore durante l'utilizzo del contenuto digitale o del servizio digitale fornito dal professionista; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    e' stato aggregato dal professionista ad altri dati e non puo' essere disaggregato o puo' esserlo soltanto con sforzi sproporzionati; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    e' stato generato congiuntamente dal consumatore e da altre persone, e se altri consumatori possono continuare a farne uso.
+
 Fatta eccezione per le situazioni di cui al comma 3-ter, lettera a), b) o c), il professionista, su richiesta del consumatore, mette a disposizione di questi qualsiasi contenuto, diverso dai dati personali, fornito o creato dal consumatore durante l'utilizzo del contenuto digitale o del servizio digitale fornito dal professionista.
 
 Il consumatore ha il diritto di recuperare dal professionista tali contenuti digitali gratuitamente e senza impedimenti, entro un lasso di tempo ragionevole e in un formato di uso comune e leggibile da dispositivo automatico.
@@ -828,6 +3076,29 @@ In caso di recesso dal contratto, il consumatore si astiene dall'utilizzare il c
 ))
 
 Qualora un consumatore eserciti il diritto di recesso dopo aver presentato una richiesta in conformita' dell'articolo 50, comma 3, o dell'articolo 51, comma 8, il consumatore versa al professionista un importo proporzionale a quanto e' stato fornito fino al momento in cui il consumatore ha informato il professionista dell'esercizio del diritto di recesso, rispetto a tutte le prestazioni previste dal contratto. L'importo proporzionale che il consumatore deve pagare al professionista e' calcolato sulla base del prezzo totale concordato nel contratto. Se detto prezzo totale e' eccessivo, l'importo proporzionale e' calcolato sulla base del valore di mercato di quanto e' stato fornito.
+
+4.
+                        
+                            
+                                Il consumatore non sostiene alcun costo per: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la prestazione di servizi o la fornitura di acqua, gas o elettricita', quando non sono messi in vendita in un volume limitato o in quantita' determinata, o di teleriscaldamento, in tutto o in parte, durante il periodo di recesso quando: 
+ 1) il professionista ha omesso di fornire informazioni in conformita' all'articolo 49, comma 1, lettere h) ed l); oppure 
+ 2) il consumatore non ha espressamente chiesto che la prestazione iniziasse durante il periodo di recesso in conformita' all'articolo 50, comma 3, e dell'articolo 51, comma 8; oppure 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la fornitura, in tutto o in parte, del contenuto digitale che non e' fornito su un supporto materiale quando: 
+ ((1) il consumatore non ha dato il suo previo consenso espresso circa l'inizio della prestazione prima della fine del periodo di quattordici o trenta giorni di cui all'articolo 52;)) 
+ 2) il consumatore non ha riconosciuto di perdere il diritto di recesso quando ha espresso il suo consenso; oppure 
+ 3) il professionista ha omesso di fornire la conferma conformemente all'articolo 50, comma 2, o all'articolo 51, comma 7.
 
 Fatto salvo quanto previsto nell'articolo 56, comma 2, e nel presente articolo, l'esercizio del diritto di recesso non comporta alcuna responsabilita' per il consumatore. 
  (24)
@@ -907,6 +3178,28 @@ DI SERVIZI FINANZIARI AI CONSUMATORI))
 
 ## Art. 59-ter. — (( (Definizioni).))
 
+1.
+                        
+                            
+                                
+                                    ((Ai fini della presente sezione si applicano, oltre alle definizioni di cui all'articolo 45, le seguenti:))
+                                
+                            
+                            
+                                a)
+                                
+                                    
+                                        (("interfaccia online": interfaccia online quale definita dall'articolo 3, lettera m), del regolamento (UE) 2022/2065 del Parlamento europeo e del Consiglio del 19 ottobre 2022;))
+                                    
+                                
+                            
+                            
+                                b)
+                                
+                                    
+                                        (("stratificazione": tecnica in base alla quale determinate informazioni sono considerate fondamentali e quindi poste in evidenza nel primo livello di visualizzazione e le altre informazioni precontrattuali sono presentate nei livelli accessori.))
+                                        ((55))
+
 -------------
                             AGGIORNAMENTO (55)
                             
@@ -914,7 +3207,196 @@ DI SERVIZI FINANZIARI AI CONSUMATORI))
 
 ## Art. 59-quater. — (( (Obblighi di informazione concernenti i contratti a distanza per i servizi finanziari ai consumatori).))
 
+1.
+                        
+                            
+                                
+                                    ((Nella fase delle trattative, e comunque in tempo utile prima che il consumatore sia vincolato da un contratto a distanza o da una corrispondente offerta, il professionista fornisce al consumatore le seguenti informazioni, in maniera chiara e comprensibile:))
+                                
+                            
+                            
+                                a)
+                                
+                                    
+                                        ((l'identita' e l'attivita' principale del professionista e, se applicabile, l'identita' e l'attivita' principale del professionista per conto del quale agisce;))
+                                    
+                                
+                            
+                            
+                                b)
+                                
+                                    
+                                        ((l'indirizzo geografico in cui il professionista e' stabilito, il proprio numero di telefono e il proprio indirizzo di posta elettronica o informazioni relative a qualsiasi altro mezzo di comunicazione offerto dal professionista e, se del caso, quelli del professionista per conto del quale agisce. I suddetti mezzi di comunicazione offerti dal professionista consentono al consumatore di contattare rapidamente il professionista e di intrattenere con quest'ultimo una corrispondenza scritta su un supporto durevole;))
+                                    
+                                
+                            
+                            
+                                c)
+                                
+                                    
+                                        ((le pertinenti informazioni di contatto che consentono al consumatore di indirizzare eventuali reclami al professionista e, se del caso, al professionista per conto del quale agisce;))
+                                    
+                                
+                            
+                            
+                                d)
+                                
+                                    
+                                        ((se il professionista e' iscritto in un registro commerciale o in un pubblico registro analogo, il registro in cui il professionista e' iscritto e il numero di registrazione o un elemento equivalente per identificarlo nel registro;))
+                                    
+                                
+                            
+                            
+                                e)
+                                
+                                    
+                                        ((se l'attivita' del professionista e' soggetta ad autorizzazione, il nome, l'indirizzo, il sito web ed eventuali altre informazioni di contatto dell'autorita' di controllo competente;))
+                                    
+                                
+                            
+                            
+                                f)
+                                
+                                    
+                                        ((una descrizione delle principali caratteristiche del servizio finanziario;))
+                                    
+                                
+                            
+                            
+                                g)
+                                
+                                    
+                                        ((il prezzo totale che il consumatore dovra' corrispondere al professionista per il servizio finanziario, compresi tutti i relativi oneri, commissioni e spese e tutte le imposte versate tramite il professionista o, se non e' possibile indicare il prezzo esatto, la base di calcolo del prezzo, che consente al consumatore di verificare quest'ultimo;))
+                                    
+                                
+                            
+                            
+                                h)
+                                
+                                    
+                                        ((se applicabile, le informazioni sulle conseguenze dei ritardi nei pagamenti o dei mancati pagamenti;))
+                                    
+                                
+                            
+                            
+                                i)
+                                
+                                    
+                                        ((se applicabile, il fatto che il prezzo e' stato personalizzato sulla base di un processo decisionale automatizzato;))
+                                    
+                                
+                            
+                            
+                                l)
+                                
+                                    
+                                        ((se applicabile, un avviso indicante che il servizio finanziario e' in rapporto con strumenti che implicano particolari rischi dovuti a loro specifiche caratteristiche o alle operazioni da effettuare o il cui prezzo dipende dalle fluttuazioni dei mercati finanziari su cui il professionista non esercita alcun controllo e un avviso indicante che i risultati ottenuti in passato non costituiscono elementi indicativi riguardo ai risultati futuri;))
+                                    
+                                
+                            
+                            
+                                m)
+                                
+                                    
+                                        ((l'indicazione dell'eventuale esistenza di altre imposte e/o di costi non versati tramite il professionista o non imposti da quest'ultimo;))
+                                    
+                                
+                            
+                            
+                                n)
+                                
+                                    
+                                        ((qualsiasi limite del periodo durante il quale sono valide le informazioni fornite conformemente al presente comma;))
+                                    
+                                
+                            
+                            
+                                o)
+                                
+                                    
+                                        ((le modalita' di pagamento e di esecuzione;))
+                                    
+                                
+                            
+                            
+                                p)
+                                
+                                    
+                                        ((qualsiasi costo specifico aggiuntivo per il consumatore relativo all'utilizzazione del mezzo di comunicazione a distanza, se addebitato;))
+                                    
+                                
+                            
+                            
+                                q)
+                                
+                                    
+                                        ((se fattori ambientali o sociali sono integrati nella strategia di investimento del servizio finanziario, gli eventuali obiettivi ambientali o sociali perseguiti dal servizio finanziario stesso;))
+                                    
+                                
+                            
+                            
+                                r)
+                                
+                                    
+                                        ((l'esistenza o la mancanza del diritto di recesso e, se tale diritto esiste, la sua durata e le condizioni per esercitarlo, comprese le informazioni relative all'importo che il consumatore puo' essere tenuto a versare e alle conseguenze derivanti dal mancato esercizio del suddetto diritto;))
+                                    
+                                
+                            
+                            
+                                s)
+                                
+                                    
+                                        ((la durata minima del contratto a distanza, in caso di prestazione permanente o periodica di servizi finanziari;))
+                                    
+                                
+                            
+                            
+                                t)
+                                
+                                    
+                                        ((eventuali diritti delle parti, secondo i termini del contratto a distanza, di risolvere lo stesso prima della sua scadenza ovvero recedere, comprese le penali eventualmente stabilite dal contratto in tali casi;))
+                                    
+                                
+                            
+                            
+                                u)
+                                
+                                    
+                                        ((istruzioni pratiche e procedure per l'esercizio del diritto di recesso conformemente all'articolo 59-octies, commi 1, 2 e 4 comprendenti, tra l'altro, il proprio numero di telefono e il proprio indirizzo di posta elettronica o informazioni relative ad altri mezzi di comunicazione rilevanti ai fini dell'invio della dichiarazione di recesso e, per i contratti di servizi finanziari conclusi mediante un'interfaccia online, informazioni circa l'esistenza e la collocazione della funzione di recesso di cui all'articolo 54-bis;))
+                                    
+                                
+                            
+                            
+                                v)
+                                
+                                    
+                                        ((qualsiasi clausola contrattuale che stabilisce la legislazione applicabile al contratto a distanza e/o il foro competente;))
+                                    
+                                
+                            
+                            
+                                z)
+                                
+                                    
+                                        ((la lingua o le lingue in cui sono comunicate le condizioni contrattuali e le informazioni preliminari di cui al presente articolo, nonche' la lingua o le lingue in cui il professionista, con l'accordo del consumatore, s'impegna a comunicare per la durata del contratto a distanza;))
+                                    
+                                
+                            
+                            
+                                aa)
+                                
+                                    
+                                        ((se applicabile, la possibilita' di avvalersi di un meccanismo extragiudiziale di reclamo e di ricorso cui sia assoggettato il professionista e le relative modalita' di accesso;))
+                                    
+                                
+                            
+                            
+                                bb)
+                                
+                                    
+                                        ((l'esistenza di fondi di garanzia o di altri dispositivi di indennizzo.))
 
+((Se le informazioni di cui al comma 1 sono fornite meno di un giorno prima che il consumatore sia vincolato dal contratto a distanza, il professionista invia al consumatore un promemoria sulla possibilita' di recedere dal contratto a distanza e sulla procedura da seguire per il recesso, conformemente all'articolo 59-octies. Tale promemoria e' fornito al consumatore, su un supporto durevole, tra uno e sette giorni dopo la conclusione del contratto a distanza.))
 
 ((Le informazioni di cui al comma 1 sono fornite al consumatore su un supporto durevole e sono di facile lettura. Su richiesta, le informazioni di cui al comma 1 sono fornite ai consumatori con disabilita', compresi quelli con disabilita' visive, in un formato adeguato e accessibile.))
 
@@ -963,10 +3445,68 @@ DI SERVIZI FINANZIARI AI CONSUMATORI))
 
 
 
+2.
+                        
+                            
+                                
+                                    ((Il termine durante il quale puo' essere esercitato il diritto di recesso decorre, alternativamente:))
+                                
+                            
+                            
+                                a)
+                                
+                                    
+                                        ((dalla data della conclusione del contratto a distanza;))
+                                    
+                                
+                            
+                            
+                                b)
+                                
+                                    
+                                        ((dalla data in cui il consumatore riceve le condizioni contrattuali e le informazioni conformemente agli articoli 59-quater, 59-quinquies e 59-septies, se tale giorno e' successivo a quello di conclusione del contratto.))
+
 ((L'efficacia dei contratti relativi ai servizi di investimento e' sospesa durante la decorrenza del termine previsto per l'esercizio del diritto di recesso.))
 
 ((Se il consumatore non ha ricevuto le condizioni contrattuali e le informazioni di cui agli articoli 59-quater, 59-quinquies e 59-septies, il termine di recesso scade in ogni caso dopo dodici mesi e quattordici giorni dalla conclusione del contratto a distanza.
 Questa disposizione non si applica se il consumatore non e' stato informato del suo diritto di recesso conformemente all'articolo 59-quater, comma 1, lettera r).))
+
+5.
+                        
+                            
+                                
+                                    ((Il diritto di recesso non si applica:))
+                                
+                            
+                            
+                                a)
+                                
+                                    
+                                        ((ai servizi finanziari ai consumatori, diversi dal servizio di gestione su base individuale di portafogli di investimento se gli investimenti non sono stati gia' avviati, il cui prezzo dipende da fluttuazioni del mercato finanziario che il professionista non e' in grado di controllare e che possono aver luogo durante il periodo di recesso, quali ad esempio i servizi riguardanti: 
+ 1) operazioni di cambio; 
+ 2) strumenti del mercato monetario; 
+ 3) valori mobiliari; 
+ 4) quote di un organismo di investimento collettivo; 
+ 5) contratti a termine fermo (futures) su strumenti finanziari, compresi gli strumenti equivalenti che si regolano in contanti; 
+ 6) contratti a termine su tassi di interesse (FRA); 
+ 7) contratti swaps su tassi d'interesse, su valute o contratti di scambio connessi ad azioni o a indici azionari (equity swaps); 
+ 8) opzioni per acquistare o vendere qualsiasi strumento previsto dalla presente lettera, compresi gli strumenti equivalenti che si regolano in contanti. Sono comprese in particolare in questa categoria le opzioni su valute e su tassi d'interesse;))
+                                    
+                                
+                            
+                            
+                                b)
+                                
+                                    
+                                        ((alle polizze di assicurazione viaggio e bagagli o alle analoghe polizze assicurative a breve termine di durata inferiore a un mese;))
+                                    
+                                
+                            
+                            
+                                c)
+                                
+                                    
+                                        ((ai contratti interamente eseguiti da entrambe le parti su esplicita richiesta scritta del consumatore prima che quest'ultimo eserciti il suo diritto di recesso.))
 
 ((Il diritto di recesso si considera esercitato dal consumatore entro il termine di recesso previsto dai commi 1, 2, 3, 4 e 5 se la dichiarazione di recesso e' trasmessa dallo stesso consumatore prima della scadenza del termine di recesso.))
 
@@ -984,7 +3524,28 @@ Questa disposizione non si applica se il consumatore non e' stato informato del 
 
 ## Art. 59-novies. — (( (Pagamento del servizio prestato prima del recesso).))
 
+1.
+                        
+                            
+                                
+                                    ((Il consumatore che esercita il diritto di recesso previsto dall'articolo 59-octies puo' essere tenuto a pagare solo l'importo del servizio finanziario effettivamente prestato dal professionista conformemente al contratto a distanza. Il consumatore paga senza indebito ritardo tale servizio. L'importo non puo':))
+                                
+                            
+                            
+                                a)
+                                
+                                    
+                                        ((eccedere un importo proporzionale all'importanza del servizio gia' prestato in rapporto a tutte le prestazioni previste dal contratto a distanza;))
+                                    
+                                
+                            
+                            
+                                b)
+                                
+                                    
+                                        ((essere tale da poter costituire una penale.))
 
+((Il consumatore non e' tenuto a pagare alcun importo se recede da un contratto di assicurazione.))
 
 ((Il professionista non puo' esigere dal consumatore il pagamento di un importo in base al comma 1 se non e' in grado di provare che il consumatore e' stato debitamente informato dell'importo dovuto, in conformita' all'articolo 59-quater, comma l, lettera r). Egli non puo', comunque, esigere tale pagamento se ha dato inizio all'esecuzione del contratto prima della scadenza del termine di esercizio del diritto di recesso di cui all'articolo 59-octies, comma 1, senza che vi fosse una preventiva richiesta del consumatore.))
 
@@ -1000,7 +3561,36 @@ Questa disposizione non si applica se il consumatore non e' stato informato del 
 
 ## Art. 59-decies. — (( (Chiarimenti adeguati).))
 
+1.
+                        
+                            
+                                
+                                    ((Prima della conclusione del contratto, i professionisti offrono al consumatore chiarimenti adeguati sui contratti di servizi finanziari proposti per consentirgli di valutare se il contratto e i servizi accessori proposti sono adatti alle sue esigenze e alla sua situazione finanziaria. Tali chiarimenti sono forniti al consumatore gratuitamente e hanno ad oggetto almeno:))
+                                
+                            
+                            
+                                a)
+                                
+                                    
+                                        ((le informazioni precontrattuali obbligatorie;))
+                                    
+                                
+                            
+                            
+                                b)
+                                
+                                    
+                                        ((le caratteristiche essenziali del contratto proposto, compresi gli eventuali servizi accessori;))
+                                    
+                                
+                            
+                            
+                                c)
+                                
+                                    
+                                        ((gli effetti specifici che il contratto proposto puo' avere sul consumatore, incluse, se del caso, le conseguenze del mancato pagamento o di ritardi di pagamento da parte del consumatore.))
 
+((Le disposizioni della normativa di settore che disciplinano l'offerta del servizio o del prodotto interessato specificano le modalita' e la portata dei chiarimenti da fornire ai sensi del presente articolo anche in base al contesto nel quale il servizio finanziario e' offerto, al destinatario e alla natura del servizio finanziario offerto.))
 
 ((Se il professionista utilizza strumenti online, il consumatore ha il diritto di chiedere e ottenere l'intervento umano nella stessa lingua utilizzata per le informazioni precontrattuali fornite in conformita' dell'articolo 59-quater, comma 1, nella fase precontrattuale e, in casi giustificati, dopo la conclusione del contratto a distanza. Per casi giustificati si intendono, a titolo esemplificativo, il rinnovo di un contratto, gravi difficolta' per il consumatore o la necessita' di ulteriori spiegazioni in merito alle condizioni contrattuali.))
 
@@ -1087,6 +3677,31 @@ Salva diversa pattuizione delle parti del contratto di vendita, il professionist
 L'obbligazione di consegna e' adempiuta mediante il trasferimento della disponibilita' materiale o comunque del controllo dei beni al consumatore.
 
 Se il professionista non adempie all'obbligo di consegna dei beni entro il termine pattuito ovvero entro il termine di cui al comma 1, il consumatore lo invita ad effettuare la consegna entro un termine supplementare appropriato alle circostanze. Se il termine supplementare cosi' concesso scade senza che i beni gli siano stati consegnati, il consumatore e' legittimato a risolvere il contratto, salvo il diritto al risarcimento dei danni.
+
+4.
+                        
+                            
+                                Il consumatore non e' gravato dall'onere di concedere al professionista il termine supplementare di cui al comma 3 se: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il professionista si e' espressamente rifiutato di consegnare i beni, ovvero; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    se il rispetto del termine pattuito dalle parti per la consegna del bene deve considerarsi essenziale, tenuto conto di tutte le circostanze che hanno accompagnato la conclusione del contratto, ovvero; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    se il consumatore ha informato il professionista, prima della conclusione del contratto, che la consegna entro o ad una data determinata e' essenziale.
 
 Nei casi previsti dal comma 4, se non riceve in consegna il bene entro il termine pattuito con il professionista ovvero entro il termine di cui al comma 1, il consumatore e' legittimato a risolvere immediatamente il contratto, salvo il diritto al risarcimento dei danni.
 
@@ -1370,6 +3985,80 @@ Alle offerte di servizi della societa' dell'informazione, effettuate ai consumat
 
 ((
 
+1.
+                        
+                            
+                                Ai fini del presente capo, si intende per:
+ 
+                            
+                            
+                                a)
+                                
+                                    "contratto di multiproprieta'": un contratto di durata superiore a un anno tramite il quale un consumatore acquisisce a titolo oneroso il diritto di godimento su uno o piu' alloggi per il pernottamento per piu' di un periodo di occupazione;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    "contratto relativo a un prodotto per le vacanze di lungo termine": un contratto di durata superiore a un anno ai sensi del quale un consumatore acquisisce a titolo oneroso essenzialmente il diritto di ottenere sconti o altri vantaggi relativamente ad un alloggio, separatamente o unitamente al viaggio o ad altri servizi;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    "contratto di rivendita": un contratto ai sensi del quale un operatore assiste a titolo oneroso un consumatore nella vendita o nell'acquisto di una multiproprieta' o di un prodotto per le vacanze di lungo termine;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    "contratto di scambio": un contratto ai sensi del quale un consumatore partecipa a titolo oneroso a un sistema di scambio che gli consente l'accesso all'alloggio per il pernottamento o ad altri servizi in cambio della concessione ad altri dell'accesso temporaneo ai vantaggi che risultano dai diritti derivanti dal suo contratto di multiproprieta';
+
+                                
+                            
+                            
+                                e)
+                                
+                                    "operatore": il "professionista", di cui all'articolo 3, comma 1, lettera c);
+
+                                
+                            
+                            
+                                f)
+                                
+                                    "consumatore": la persona fisica, di cui all'articolo 3, comma 1, lettera a);
+
+                                
+                            
+                            
+                                g)
+                                
+                                    "contratto accessorio": un contratto ai sensi del quale il consumatore acquista servizi connessi a un contratto di multiproprieta' o a un contratto relativo a un prodotto per le vacanze di lungo termine e forniti dall'operatore o da un terzo sulla base di un accordo tra il terzo e l'operatore;
+
+                                
+                            
+                            
+                                h)
+                                
+                                    "supporto durevole": qualsiasi strumento che permetta al consumatore o all'operatore di memorizzare informazioni a lui personalmente dirette in modo che possano essere utilizzate per riferimento futuro per un periodo di tempo adeguato ai fini cui sono destinate le informazioni e che consenta la riproduzione immutata delle informazioni memorizzate;
+
+                                
+                            
+                            
+                                i)
+                                
+                                    "codice di condotta": un accordo o un insieme di regole che definisce il comportamento degli operatori che si impegnano a rispettare tale codice in relazione a una o piu' pratiche commerciali o ad uno o piu' settori d'attivita' specifici;
+
+                                
+                            
+                            
+                                l)
+                                
+                                    "responsabile del codice": qualsiasi soggetto, compresi un operatore o un gruppo di operatori, responsabile dell'elaborazione e della revisione di un codice di condotta o del controllo dell'osservanza del codice da parte di coloro che si sono impegnati a rispettarlo.
+
 Nel calcolo della durata di un contratto di multiproprieta' o di un contratto relativo a un prodotto per le vacanze di lungo termine, quale definito al comma 1, rispettivamente alle lettere a) e b), si tiene conto di qualunque disposizione del contratto che ne consenta il rinnovo tacito o la proroga.
 
 ))
@@ -1391,6 +4080,38 @@ Una multiproprieta' o un prodotto per le vacanze di lungo termine non sono comme
 
 ((
 
+1.
+                        
+                            
+                                In tempo utile prima che il consumatore sia vincolato da un contratto o da un'offerta, l'operatore fornisce al consumatore, in maniera chiara e comprensibile, informazioni accurate e sufficienti, secondo le seguenti modalita':
+ 
+                            
+                            
+                                a)
+                                
+                                    nel caso di un contratto di multiproprieta', tramite il formulario informativo di cui all'allegato II- bis e le informazioni elencate nella parte 3 di detto formulario;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    nel caso di un contratto relativo a un prodotto per le vacanze di lungo termine, tramite il formulario informativo di cui all'allegato II-ter e le informazioni elencate nella parte 3 di detto formulario;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    nel caso di un contratto di rivendita, tramite il formulario informativo di cui all'allegato II-quater e le informazioni elencate nella parte 3 di detto formulario;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    nel caso di un contratto di scambio, tramite il formulario informativo di cui all'allegato II-quinquies e le informazioni elencate nella parte 3 di detto formulario.
+
 Le informazioni di cui al comma 1 sono fornite a titolo gratuito dall'operatore su carta o altro supporto durevole facilmente accessibile al consumatore.
 
 Le informazioni di cui al comma 1, sono redatte nella lingua italiana e in una delle lingue dello Stato dell'Unione europea in cui il consumatore risiede oppure di cui e' cittadino, a scelta di quest'ultimo, purche' si tratti di una lingua ufficiale della Unione europea.
@@ -1408,6 +4129,24 @@ Nel caso di un contratto di multiproprieta' relativo a un bene immobile specific
 In ogni caso, per qualsiasi tipo di contratto disciplinato dal presente Capo, all'operatore che svolge la propria attivita' di vendita nel territorio nazionale e' fatto obbligo di fornire al consumatore il relativo contratto anche nella lingua italiana.
 
 Le informazioni di cui all'articolo 71, comma 1, costituiscono parte integrante e sostanziale del contratto e non possono essere modificate salvo qualora vi sia l'accordo esplicito delle parti oppure qualora le modifiche siano causate da circostanze eccezionali e imprevedibili, indipendenti dalla volonta' dell'operatore, le cui conseguenze non avrebbero potuto essere evitate neanche con la dovuta diligenza. Tali modifiche, indicate espressamente nel contratto, sono comunicate al consumatore su carta o altro supporto durevole a lui facilmente accessibile, prima della conclusione del contratto.
+
+5.
+                        
+                            
+                                Il contratto contiene, oltre alle informazioni di cui all'articolo 71, comma 1, i seguenti ulteriori elementi:
+ 
+                            
+                            
+                                a)
+                                
+                                    l'identita', il luogo di residenza e la firma di ciascuna delle parti;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la data e il luogo di conclusione del contratto.
 
 Prima della conclusione del contratto l'operatore informa il consumatore sulle clausole contrattuali concernenti l'esistenza del diritto di recesso, la durata del periodo di recesso di cui all'articolo 73 e il divieto di versare acconti durante il periodo di recesso di cui all'articolo 76, le quali devono essere sottoscritte separatamente dal consumatore. Il contratto include un formulario separato di recesso, come riportato nell'allegato II-sexies, inteso ad agevolare l'esercizio del diritto di recesso in conformita' all'articolo 73.
 
@@ -1434,6 +4173,42 @@ Le garanzie di cui ai commi 1 e 2 non possono imporre al consumatore la preventi
 ((
 
 Al consumatore e' concesso un periodo di quattordici giorni, naturali e consecutivi, per recedere, senza specificare il motivo, dal contratto di multiproprieta', dal contratto relativo a prodotti per le vacanze di lungo termine, dal contratto di rivendita e di scambio.
+
+2.
+                        
+                            
+                                Il periodo di recesso si calcola:
+ 
+                            
+                            
+                                a)
+                                
+                                    dal giorno della conclusione del contratto definitivo o del contratto preliminare;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    dal giorno in cui il consumatore riceve il contratto definitivo o il contratto preliminare, se posteriore alla data di cui alla lettera a).
+
+3.
+                        
+                            
+                                Il periodo di recesso scade:
+ 
+                            
+                            
+                                a)
+                                
+                                    dopo un anno e quattordici giorni a decorrere dalla data di cui al comma 2 del presente articolo se il formulario di recesso separato previsto all'articolo 72, comma 4, non e' stato compilato dall'operatore e consegnato al consumatore per iscritto, su carta o altro supporto durevole;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    dopo tre mesi e quattordici giorni a partire dalla data di cui al comma 2 del presente articolo se le informazioni di cui all'articolo 71, comma 1, incluso il formulario informativo applicabile di cui agli allegati da III a VI, non sono state fornite al consumatore per iscritto, su carta o altro supporto durevole.
 
 Se il formulario separato di recesso previsto all'articolo 72, comma 4, e' stato compilato dall'operatore e consegnato al consumatore per iscritto, su carta o altro supporto durevole, entro un anno dalla data di cui al comma 2 del presente articolo, il periodo di recesso inizia a decorrere dal giorno in cui il consumatore riceve tale formulario. Analogamente, se le informazioni di cui all'articolo 71, comma 1, incluso il formulario informativo applicabile di cui agli allegati da III a VI, sono state fornite al consumatore per iscritto, su carta o altro supporto durevole, entro tre mesi dal giorno di cui al comma 2 del presente articolo, il periodo di recesso inizia a decorrere dal giorno in cui il consumatore riceve tali informazioni.
 
@@ -1497,6 +4272,24 @@ Sono nulle le clausole contrattuali o i patti aggiunti di rinuncia del consumato
 Per le controversie derivanti dall'applicazione del presente capo, la competenza territoriale inderogabile e' del giudice del luogo di residenza o di domicilio del consumatore, se ubicati nel territorio dello Stato.
 
 Ove le parti abbiano scelto di applicare ai contratti di cui al presente capo, una legislazione diversa da quella italiana, al consumatore devono comunque essere riconosciute le condizioni di tutela previste dal presente capo.
+
+4.
+                        
+                            
+                                Ove la legge applicabile sia quella di un paese extracomunitario, i consumatori non possono essere privati della tutela garantita dal presente codice, nel caso di:
+ 
+                            
+                            
+                                a)
+                                
+                                    uno qualsiasi dei beni immobili interessati e' situato sul territorio nazionale o di uno Stato dell'Unione europea;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    nel caso di un contratto non direttamente collegato a beni immobili, l'operatore svolga attivita' commerciali o professionali in Italia o in uno Stato dell'Unione europea o diriga tali attivita', con qualsiasi mezzo, verso l'Italia o uno Stato dell'Unione europea e il contratto rientri nell'ambito di dette attivita'.
 
 ))
 
@@ -1822,11 +4615,82 @@ Le disposizioni del presente articolo si applicano al prodotto importato nella U
 
 ## Art. 117. — Prodotto difettoso
 
+1.
+                        
+                            
+                                Un prodotto e' difettoso quando non offre la sicurezza che ci si puo' legittimamente attendere tenuto conto di tutte le circostanze, tra cui:
+ 
+                            
+                            
+                                a)
+                                
+                                    il modo in cui il prodotto e' stato messo in circolazione, la sua presentazione, le sue caratteristiche palesi, le istruzioni e le avvertenze fornite;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'uso al quale il prodotto puo' essere ragionevolmente destinato e i comportamenti che, in relazione ad esso, si possono ragionevolmente prevedere;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il tempo in cui il prodotto e' stato messo in circolazione.
+
 Un prodotto non puo' essere considerato difettoso per il solo fatto che un prodotto piu' perfezionato sia stato in qualunque tempo messo in commercio.
 
 Un prodotto e' difettoso se non offre la sicurezza offerta normalmente dagli altri esemplari della medesima serie.
 
 ## Art. 118. — Esclusione della responsabilita'
+
+1.
+                        
+                            
+                                La responsabilita' e' esclusa:
+ 
+                            
+                            
+                                a)
+                                
+                                    se il produttore non ha messo il prodotto in circolazione;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    se il difetto che ha cagionato il danno non esisteva quando il produttore ha messo il prodotto in circolazione;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    se il produttore non ha fabbricato il prodotto per la vendita o per qualsiasi altra forma di distribuzione a titolo oneroso, ne' lo ha fabbricato o distribuito nell'esercizio della sua attivita' professionale;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    se il difetto e' dovuto alla conformita' del prodotto a una norma giuridica imperativa o a un provvedimento vincolante;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    se lo stato delle conoscenze scientifiche e tecniche, al momento in cui il produttore ha messo in circolazione il prodotto, non permetteva ancora di considerare il prodotto come difettoso;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    nel caso del produttore o fornitore di una parte componente o di una materia prima, se il difetto e' interamente dovuto alla concezione del prodotto in cui e' stata incorporata la parte o materia prima o alla conformita' di questa alle istruzioni date dal produttore che la ha utilizzata.
 
 ## Art. 119. — Messa in circolazione del prodotto
 
@@ -1859,6 +4723,24 @@ Il risarcimento non e' dovuto quando il danneggiato sia stato consapevole del di
 Nell'ipotesi di danno a cosa, la colpa del detentore di questa e' parificata alla colpa del danneggiato.
 
 ## Art. 123. — Danno risarcibile
+
+1.
+                        
+                            
+                                E' risarcibile in base alle disposizioni del presente titolo:
+ 
+                            
+                            
+                                a)
+                                
+                                    il danno cagionato dalla morte o da lesioni personali;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la distruzione o il deterioramento di una cosa diversa dal prodotto difettoso, purche' di tipo normalmente destinato all'uso o consumo privato e cosi' principalmente utilizzata dal danneggiato.
 
 Il danno a cose e' risarcibile solo nella misura che ecceda la somma di euro trecentottantasette.
 
@@ -1896,8 +4778,140 @@ Le disposizioni del presente titolo non si applicano ai prodotti messi in circol
 
 Il presente capo disciplina taluni aspetti dei contratti di vendita conclusi tra consumatore e venditore fra i quali la conformita' dei beni al contratto, i rimedi in caso di difetto di conformita', le modalita' di esercizio di tali rimedi e le garanzie convenzionali. A tali fini, ai contratti di vendita sono equiparati i contratti di permuta e di somministrazione nonche' quelli di appalto, d'opera e tutti gli altri contratti comunque finalizzati alla fornitura di beni da fabbricare o produrre.
 
+2.
+                        
+                            
+                                Ai fini del presente capo si intende per: 
+ 
+                            
+                            
+                                a)
+                                
+                                    contratto di vendita: qualsiasi contratto in base al quale il venditore trasferisce o si impegna a trasferire la proprieta' di beni al consumatore e il consumatore ne paga o si impegna a pagare il prezzo; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    consumatore: la persona fisica di cui all'articolo 3, comma 1, lettera a); 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    venditore: qualsiasi persona fisica o giuridica, pubblica o privata, che nell'esercizio della propria attivita' imprenditoriale o professionale, anche tramite altra persona che agisca in suo nome o per suo conto, utilizza i contratti di cui al comma 1, primo periodo, ivi compreso il fornitore di piattaforme se agisce per finalita' che rientrano nel quadro della sua attivita' e quale controparte contrattuale del consumatore per la fornitura di contenuto digitale o di servizi digitali; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    produttore: il fabbricante di un bene, l'importatore di un bene nel territorio dell'Unione o qualsiasi altra persona che si presenta come produttore apponendo sul bene il suo nome, marchio o altro segno distintivo; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    bene: 
+ 1) qualsiasi bene mobile materiale anche da assemblare; l'acqua, il gas e l'energia elettrica quando sono confezionati per la vendita in un volume delimitato o in quantita' determinata; 
+ 2) qualsiasi bene mobile materiale che incorpora, o e' interconnesso con, un contenuto digitale o un servizio digitale in modo tale che la mancanza di detto contenuto digitale o servizio digitale impedirebbe lo svolgimento delle funzioni proprie del bene ("beni con elementi digitali"); 
+ 3) gli animali vivi; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    contenuto digitale: i dati prodotti e forniti in formato digitale; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    servizio digitale: 
+ 1) un servizio che consente al consumatore di creare, trasformare, memorizzare i dati o di accedervi in formato digitale; oppure 
+ 2) un servizio che consente la condivisione di dati in formato digitale caricati o creati dal consumatore o da altri utenti di tale servizio o qualsiasi altra interazione con tali dati; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    compatibilita': la capacita' del bene di funzionare con hardware o software con cui sono normalmente utilizzati i beni del medesimo tipo, senza che sia necessario convertire i beni, l'hardware o il software; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    funzionalita': la capacita' del bene di svolgere tutte le sue funzioni in considerazione del suo scopo; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    interoperabilita': la capacita' del bene di funzionare con hardware o software diversi da quelli con cui sono normalmente utilizzati i beni dello stesso tipo; 
+
+                                
+                            
+                            
+                                m)
+                                
+                                    supporto durevole: ogni strumento che permetta al consumatore o al venditore di conservare le informazioni che gli sono personalmente indirizzate, in modo da potervi accedere in futuro per un periodo di tempo adeguato alle finalita' cui esse sono destinate e che permetta la riproduzione identica delle informazioni memorizzate; 
+
+                                
+                            
+                            
+                                n)
+                                
+                                    garanzia convenzionale: qualsiasi impegno di un venditore o di un produttore (il "garante"), assunto nei confronti del consumatore, in aggiunta agli obblighi di legge in merito alla garanzia di conformita', di rimborsare il prezzo pagato, sostituire, riparare, o intervenire altrimenti sul bene, qualora esso non corrisponda alle caratteristiche, o a qualsiasi altro requisito non relativo alla conformita', enunciati nella dichiarazione di garanzia o nella relativa pubblicita' disponibile al momento o prima della conclusione del contratto; 
+
+                                
+                            
+                            
+                                o)
+                                
+                                    durabilita': la capacita' dei beni di mantenere le loro specifiche funzioni e prestazioni attraverso un uso normale; 
+
+                                
+                            
+                            
+                                p)
+                                
+                                    senza spese: senza i costi necessari per rendere conformi i beni, con particolare riferimento alle spese di spedizione, di trasporto, di mano d'opera e di materiali; 
+
+                                
+                            
+                            
+                                q)
+                                
+                                    asta pubblica: metodo di vendita in cui i beni o servizi sono offerti dal venditore ai consumatori che partecipano, o ai quali e' data la possibilita' di partecipare personalmente all'asta, la quale si svolge mediante una trasparente procedura competitiva gestita da una casa d'aste e in cui l'aggiudicatario e' tenuto all'acquisto dei beni o servizi.
+
 Le disposizioni del presente capo non si applicano ai contratti di fornitura di un contenuto digitale o di un servizio digitale, i quali rientrano nel campo di applicazione delle disposizioni di attuazione della direttiva (UE) 2019/770 del Parlamento europeo e del Consiglio, del 20 maggio 2019, relativa a determinati aspetti dei contratti di fornitura di contenuti digitali o servizi digitali. Esse si applicano ai contenuti digitali o ai servizi digitali incorporati o interconnessi con beni, ai sensi del comma 2, lettera e), numero 2), i quali sono forniti con il bene in forza del contratto di vendita, indipendentemente dal fatto che i predetti contenuti digitali o servizi digitali siano forniti dal venditore o da terzi.
 Quando e' dubbio se la fornitura di un contenuto o di un servizio digitale incorporato o interconnesso faccia parte del contratto di vendita, si presume che tale fornitura rientri nel contratto di vendita.
+
+4.
+                        
+                            
+                                Le disposizioni del presente capo non si applicano inoltre: 
+ 
+                            
+                            
+                                a)
+                                
+                                    al supporto materiale che funge esclusivamente da vettore del contenuto digitale; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    ai beni oggetto di vendita forzata o comunque venduti dalle autorita' giudiziarie, anche mediante delega ai notai, o secondo altre modalita' previste dalla legge.
 
 5. Le disposizioni del presente capo si applicano alla vendita di beni usati, tenuto conto del tempo del pregresso utilizzo, limitatamente ai difetti non derivanti dall'uso normale della cosa, anche nel caso in cui siano venduti in aste pubbliche qualora non siano state messe a disposizione dei consumatori informazioni chiare e complete circa l'inapplicabilita' delle disposizioni del presente capo.))
 
@@ -1913,6 +4927,38 @@ Quando e' dubbio se la fornitura di un contenuto o di un servizio digitale incor
 ((
 
 Il venditore fornisce al consumatore beni che soddisfano i requisiti di cui ai commi 2 e 3, nonche' le previsioni degli articoli 130 e 131 in quanto compatibili, fatto salvo quanto previsto dall'articolo 132.
+
+2.
+                        
+                            
+                                Per essere conforme al contratto di vendita, il bene deve possedere i seguenti requisiti soggettivi, ove pertinenti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    corrispondere alla descrizione, al tipo, alla quantita' e alla qualita' contrattuali e possedere la funzionalita', la compatibilita', l'interoperabilita' e le altre caratteristiche come previste dal contratto di vendita; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    essere idoneo ad ogni utilizzo particolare voluto dal consumatore, che sia stato da questi portato a conoscenza del venditore al piu' tardi al momento della conclusione del contratto di vendita e che il venditore abbia accettato; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    essere fornito assieme a tutti gli accessori, alle istruzioni, anche inerenti all'installazione, previsti dal contratto di vendita; e 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    essere fornito con gli aggiornamenti come previsto dal contratto di vendita.
 
 3. Oltre a rispettare i requisiti soggettivi di conformita', per essere conforme al contratto di vendita il bene deve possedere i seguenti requisiti oggettivi, ove pertinenti:
 
@@ -1934,6 +4980,67 @@ d) essere della quantita' e possedere le qualita' e altre caratteristiche, anche
 ## Art. 130. — (( (Obblighi del venditore e condotta del consumatore). ))
 
 ((
+
+1.
+                        
+                            
+                                Il venditore non e' vincolato dalle dichiarazioni pubbliche di cui all'articolo 129, comma 3, lettera d), quando, anche alternativamente, dimostra che: 
+ 
+                            
+                            
+                                a)
+                                
+                                    non era a conoscenza della dichiarazione pubblica in questione e non poteva conoscerla con l'ordinaria diligenza; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la dichiarazione pubblica e' stata adeguatamente corretta entro il momento della conclusione del contratto con le stesse modalita', o con modalita' simili a quelle con le quali e' stata resa; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    la decisione di acquistare il bene non e' stata influenzata dalla dichiarazione pubblica.
+
+2.
+                        
+                            
+                                Nel caso di beni con elementi digitali, il venditore e' obbligato a tenere informato il consumatore sugli aggiornamenti disponibili, anche di sicurezza, necessari al fine di mantenere la conformita' di tali beni, e a fornirglieli, nel periodo di tempo: 
+ 
+                            
+                            
+                                a)
+                                
+                                    che il consumatore puo' ragionevolmente aspettarsi, date la tipologia e la finalita' dei beni e degli elementi digitali, e tenendo conto delle circostanze e della natura del contratto, se il contratto di vendita prevede un unico atto di fornitura del contenuto digitale o del servizio digitale; oppure 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    indicato all'articolo 133, commi 2 o 3, a seconda dei casi, se il contratto di vendita prevede una fornitura continuativa del contenuto digitale o del servizio digitale nell'arco di un periodo di tempo.
+
+3.
+                        
+                            
+                                Se il consumatore non installa entro un congruo termine gli aggiornamenti forniti a norma del comma 2, il venditore non e' responsabile per qualsiasi difetto di conformita' derivante unicamente dalla mancanza dell'aggiornamento pertinente, a condizione che: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il venditore abbia informato il consumatore della disponibilita' dell'aggiornamento e delle conseguenze della mancata installazione dello stesso da parte del consumatore; e 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la mancata, o errata, installazione dell'aggiornamento da parte del consumatore non sia dovuta a carenze delle istruzioni di installazione fornite dal venditore al consumatore.
 
 4. Non vi e' difetto di conformita' ai sensi dell'articolo 129, comma 3, e dell'articolo 130, comma 2, se, al momento della conclusione del contratto di vendita, il consumatore era stato specificamente informato del fatto che una caratteristica particolare del bene si discostava dai requisiti oggettivi di conformita' previsti da tali norme e il consumatore ha espressamente e separatamente accettato tale scostamento al momento della conclusione del contratto di vendita.))
 
@@ -2020,7 +5127,64 @@ Salvo prova contraria, si presume che qualsiasi difetto di conformita' che si ma
 
 In caso di difetto di conformita' del bene, il consumatore ha diritto al ripristino della conformita', o a ricevere una riduzione proporzionale del prezzo, o alla risoluzione del contratto sulla base delle condizioni stabilite nei seguenti commi.
 
+2.
+                        
+                            
+                                Ai fini del ripristino della conformita' del bene, il consumatore puo' scegliere tra riparazione e sostituzione, purche' il rimedio prescelto non sia impossibile o, rispetto al rimedio alternativo, non imponga al venditore costi sproporzionati, tenuto conto di tutte le circostanze e, in particolare, delle seguenti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il valore che il bene avrebbe in assenza del difetto di conformita'; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'entita' del difetto di conformita'; e 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    la possibilita' di esperire il rimedio alternativo senza notevoli inconvenienti per il consumatore.
+
 Il venditore puo' rifiutarsi di rendere conformi i beni se la riparazione e la sostituzione sono impossibili o se i costi che il venditore dovrebbe sostenere sono sproporzionati, tenuto conto di tutte le circostanze, comprese quelle di cui al comma 2, lettere a) e b).
+
+4.
+                        
+                            
+                                Il consumatore ha diritto ad una riduzione proporzionale del prezzo o alla risoluzione del contratto di vendita ai sensi dell'articolo 135-quater nel caso in cui: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il venditore non ha effettuato la riparazione o la sostituzione oppure non ha effettuato la riparazione o la sostituzione, ove possibile, ai sensi dell'articolo 135-ter, commi 1, 2 e 3, oppure ha rifiutato di rendere conformi i beni ai sensi del comma 3; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    si manifesta un difetto di conformita', nonostante il tentativo del venditore di ripristinare la conformita' del bene; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il difetto di conformita' e' talmente grave da giustificare l'immediata riduzione del prezzo o la risoluzione del contratto di vendita; oppure 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    il venditore ha dichiarato o risulta chiaramente dalle circostanze, che non procedera' al ripristino della conformita' del bene entro un periodo ragionevole o senza notevoli inconvenienti per il consumatore.
 
 Il consumatore non ha il diritto di risolvere il contratto se il difetto di conformita' e' solo di lieve entita'. L'onere della prova della lieve entita' del difetto e' a carico del venditore.
 
@@ -2036,6 +5200,31 @@ Il consumatore non ha il diritto di risolvere il contratto se il difetto di conf
 ## Art. 135-ter. — (( (Riparazione o sostituzione). ))
 
 ((
+
+1.
+                        
+                            
+                                La riparazione o la sostituzione sono effettuate: 
+ 
+                            
+                            
+                                a)
+                                
+                                    senza spese; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    entro un congruo periodo di tempo dal momento in cui il venditore e' stato informato dal consumatore del difetto di conformita'; e 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    senza notevoli inconvenienti per il consumatore, tenuto conto della natura del bene e dello scopo per il quale il consumatore ha voluto il bene.
 
 Qualora si debba rimediare al difetto di conformita' mediante riparazione o sostituzione dei beni, il consumatore deve metterli a disposizione del venditore. Il venditore riprende i beni sostituiti a proprie spese.
 
@@ -2078,6 +5267,45 @@ b) il venditore rimborsa al consumatore il prezzo pagato per il bene al ricevime
 ((
 
 La garanzia convenzionale vincola chi la offre secondo le modalita' indicate nella dichiarazione di garanzia medesima e nella relativa pubblicita' disponibile al momento o prima della conclusione del contratto. Secondo le condizioni stabilite nel presente articolo e fatte salve eventuali altre disposizioni applicabili del diritto dell'Unione o nazionale, quando un produttore offre al consumatore una garanzia convenzionale concernente la durabilita' di determinati beni nell'arco di un determinato periodo di tempo, il produttore e' direttamente responsabile nei confronti del consumatore durante l'intero periodo di durata della garanzia per la riparazione o la sostituzione dei beni in conformita' dell'articolo 135-ter. Nella dichiarazione di garanzia convenzionale di durabilita' il produttore puo' offrire al consumatore condizioni piu' favorevoli. Se le condizioni stabilite nella dichiarazione di garanzia convenzionale sono meno vantaggiose per il consumatore rispetto alle condizioni stabilite nella relativa pubblicita', la garanzia convenzionale vincola secondo le condizioni stabilite nella pubblicita' relativa alla garanzia convenzionale, a meno che la pubblicita' associata sia stata corretta prima della conclusione del contratto secondo le stesse modalita', o con modalita' simili a quelle in cui e' stata resa.
+
+2.
+                        
+                            
+                                La dichiarazione di garanzia convenzionale e' fornita al consumatore su supporto durevole al piu' tardi al momento della consegna dei beni. La dichiarazione di garanzia convenzionale e' redatta in un linguaggio semplice e comprensibile. Essa comprende i seguenti elementi: 
+ 
+                            
+                            
+                                a)
+                                
+                                    una dichiarazione chiara che il consumatore dispone per legge, a titolo gratuito, di rimedi per i difetti di conformita' nei confronti del venditore e che tali rimedi non sono pregiudicati dalla garanzia convenzionale; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    nome e indirizzo del garante; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    la procedura che il consumatore deve seguire per far valere la garanzia convenzionale; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    la designazione dei beni cui si applica la garanzia convenzionale; e 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    le condizioni della garanzia convenzionale.
 
 La garanzia deve essere redatta in lingua italiana con caratteri non meno evidenti di quelli di eventuali altre lingue.
 
@@ -2125,6 +5353,103 @@ Per quanto non previsto dal presente capo, si applicano le disposizioni del codi
 
 Il presente capo disciplina taluni aspetti dei contratti di fornitura di contenuto digitale o di servizi digitali conclusi tra consumatore e professionista, fra i quali la conformita' del contenuto digitale o del servizio digitale al contratto, i rimedi in caso di difetto di conformita' al contratto o di mancata fornitura, le modalita' di esercizio degli stessi, nonche' la modifica del contenuto digitale o del servizio digitale.
 
+2.
+                        
+                            
+                                Ai fini del presente capo si intende per: 
+ 
+                            
+                            
+                                a)
+                                
+                                    contenuto digitale: i dati prodotti e forniti in formato digitale; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    servizio digitale: 
+ 1) un servizio che consente al consumatore di creare, trasformare, archiviare i dati o di accedervi in formato digitale; oppure 
+ 2) un servizio che consente la condivisione di dati in formato digitale, caricati o creati dal consumatore e da altri utenti di tale servizio, o qualsiasi altra interazione con tali dati; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    beni con elementi digitali: qualsiasi bene mobile materiale che incorpora o e' interconnesso con un contenuto digitale o un servizio digitale in modo tale che la mancanza di detto contenuto digitale o servizio digitale impedirebbe lo svolgimento delle funzioni del bene; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    integrazione: il collegamento del contenuto o del servizio digitale con le componenti dell'ambiente digitale del consumatore e l'incorporazione in dette componenti affinche' il contenuto digitale o il servizio digitale sia utilizzato nel rispetto dei requisiti di conformita' previsti dal presente capo; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    professionista: qualsiasi persona fisica o giuridica, indipendentemente dal fatto che si tratti di un soggetto pubblico o privato, ovvero un suo intermediario, che agisca per finalita' che rientrano nel quadro della sua attivita' commerciale, industriale, artigianale o professionale, in relazione ai contratti oggetto dal presente capo, ivi compreso il fornitore di piattaforme se agisce per finalita' che rientrano nel quadro della sua attivita' e in quanto controparte contrattuale del consumatore per la fornitura di contenuto digitale o di servizi digitali; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    consumatore: la persona fisica di cui all'articolo 3, comma 1, lettera a); 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    prezzo: la somma di denaro o una rappresentazione digitale del valore dovuto come corrispettivo per la fornitura di contenuto digitale o di servizio digitale; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    dati personali: i dati personali quali definiti all'articolo 4, punto 1), del regolamento (UE) 2016/679; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    ambiente digitale: l'hardware, il software e le connessioni di rete di cui il consumatore si serve per accedere al contenuto digitale o al servizio digitale o per usarlo; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    compatibilita': la capacita' del contenuto digitale o del servizio digitale di funzionare con hardware o software con cui sono normalmente utilizzati contenuti digitali o servizi digitali dello stesso tipo, senza che sia necessario convertire il contenuto digitale o il servizio digitale; 
+
+                                
+                            
+                            
+                                m)
+                                
+                                    funzionalita': la capacita' del contenuto digitale o del servizio digitale di svolgere tutte le sue funzioni in considerazione del suo scopo; 
+
+                                
+                            
+                            
+                                n)
+                                
+                                    interoperabilita': la capacita' del contenuto digitale o del servizio digitale di funzionare con hardware o software diversi da quelli con cui sono normalmente utilizzati i contenuti digitali o i servizi digitali dello stesso tipo; 
+
+                                
+                            
+                            
+                                o)
+                                
+                                    supporto durevole: ogni strumento che permetta al consumatore o al professionista di archiviare le informazioni che gli sono personalmente indirizzate, in modo da potervi accedere in futuro per un periodo di tempo adeguato alle finalita' cui esse sono destinate e che permetta la riproduzione identica delle informazioni archiviate.
+
 Le disposizioni del presente capo si applicano a qualsiasi contratto in cui il professionista fornisce, o si obbliga a fornire, un contenuto digitale o un servizio digitale al consumatore e il consumatore corrisponde un prezzo o si obbliga a corrispondere un prezzo.
 
 Le disposizioni del presente capo si applicano altresi' nel caso in cui il professionista fornisce o si obbliga a fornire un contenuto digitale o un servizio digitale al consumatore e il consumatore fornisce o si obbliga a fornire dati personali al professionista, fatto salvo il caso in cui i dati personali forniti dal consumatore siano trattati esclusivamente dal professionista ai fini della fornitura del contenuto digitale o del servizio digitale a norma del presente capo o per consentire l'assolvimento degli obblighi di legge cui e' soggetto il professionista e quest'ultimo non tratti tali dati per scopi diversi da quelli previsti.
@@ -2145,6 +5470,84 @@ Le disposizioni del presente capo si applicano anche se il contenuto digitale o 
 ((
 
 Le disposizioni del presente capo non si applicano ai contenuti digitali o ai servizi digitali incorporati o interconnessi con beni di cui all'articolo 135-octies, comma 2, lettera c), e che sono forniti con il bene ai sensi di un contratto di vendita relativo a tali beni, indipendentemente dal fatto che detti contenuti digitali o servizi digitali siano forniti dal venditore o da un terzo. Quando e' dubbio che la fornitura del contenuto digitale incorporato o interconnesso o servizio digitale incorporato o interconnesso faccia parte del contratto di vendita, si presume che il contenuto digitale o il servizio digitale incorporato o interconnesso rientri nel contratto di vendita del bene.
+
+2.
+                        
+                            
+                                Le disposizioni del presente capo non si applicano ai contratti concernenti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la fornitura di servizi diversi dai servizi digitali, indipendentemente dal fatto che il professionista ricorra o meno a forme o mezzi digitali per ottenere il risultato del servizio o consegnarlo o trasmetterlo al consumatore; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    servizi di comunicazioni elettroniche ai sensi dell'articolo 2, punto 4), della direttiva (UE) 2018/1972 ad eccezione dei servizi di comunicazioni interpersonale senza numero di cui all'articolo 2, punto 7), di tale direttiva; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    servizi di assistenza sanitaria, per i servizi prestati da professionisti sanitari a pazienti, al fine di valutare, mantenere o ristabilire il loro stato di salute, ivi compresa la prescrizione, la somministrazione e la fornitura di medicinali e dispositivi medici, sia essa fornita o meno attraverso le strutture di assistenza sanitaria; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    servizi di gioco d'azzardo, vale a dire servizi che implicano una posta di valore pecuniario in giochi di fortuna, compresi quelli con un elemento di abilita', come le lotterie, i giochi d'azzardo nei casino', il poker e le scommesse, che vengano forniti mediante strumenti elettronici o qualsiasi altra tecnologia che facilita le comunicazioni e su richiesta individuale di un destinatario di tali servizi; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    servizi finanziari, vale a dire qualsiasi servizio di natura bancaria, creditizia, assicurativa, servizi pensionistici individuali, di investimento o di pagamento; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    software offerto dal professionista sulla base di una licenza libera e aperta, in cui il consumatore non corrisponde un prezzo e i dati personali forniti dal consumatore stesso sono trattati esclusivamente dal professionista al fine di migliorare la sicurezza, la compatibilita' o l'interoperabilita' del software specifico; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    la fornitura di contenuto digitale se il contenuto digitale e' messo a disposizione del pubblico con mezzi diversi dalla trasmissione di segnale quale parte di uno spettacolo o di un evento, come le proiezioni cinematografiche digitali; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    contenuto digitale fornito da enti pubblici, a norma della direttiva 2019/1024 del Parlamento europeo e del Consiglio relativa al riutilizzo dell'informazione del settore pubblico.
+
+3.
+                        
+                            
+                                Fatto salvo quanto previsto dal comma 1, qualora un singolo contratto tra professionista e consumatore comprenda in un unico pacchetto elementi di fornitura di contenuto digitale o di un servizio digitale ed elementi relativi alla fornitura di altri beni o servizi, le disposizioni del presente capo si applicano unicamente agli elementi del contratto che riguardano il contenuto digitale o il servizio digitale. L'articolo 135-vicies semel non si applica se un pacchetto di servizi o di servizi e apparecchiature disciplinato dal codice europeo delle comunicazioni elettroniche include elementi: 
+ 
+                            
+                            
+                                a)
+                                
+                                    di un servizio di comunicazione elettronica a disposizione del pubblico che fornisce accesso a Internet, ovvero connettivita' a praticamente tutti i punti finali di Internet, a prescindere dalla tecnologia di rete e dalle apparecchiature terminali utilizzate; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    o di un servizio di comunicazioni interpersonale che si connette a risorse di numerazione assegnate pubblicamente - ossia uno o piu' numeri che figurano in un piano di numerazione nazionale o internazionale - o consente la comunicazione con uno o piu' numeri che figurano in un piano di numerazione nazionale o internazionale.
 
 Se il consumatore ha il diritto di risolvere qualsiasi elemento del pacchetto di cui al comma 3 prima della scadenza contrattuale concordata per ragioni di mancata conformita' al contratto o di mancata fornitura, ha diritto di risolvere il contratto in relazione a tutti gli elementi del pacchetto.
 
@@ -2167,7 +5570,57 @@ Le disposizioni nazionali e quelle del diritto dell'Unione in materia di protezi
 
 Il professionista fornisce il contenuto digitale o il servizio digitale al consumatore. Salvo diverso accordo tra le parti, il professionista fornisce il contenuto digitale o il servizio digitale al consumatore senza ritardo ingiustificato dopo la conclusione del contratto.
 
+2.
+                        
+                            
+                                Il professionista ha adempiuto l'obbligo di fornitura quando: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il contenuto digitale o qualunque mezzo idoneo per accedere al contenuto digitale o per scaricarlo e' reso disponibile o accessibile al consumatore, o all'impianto fisico o virtuale scelto a tal fine dal consumatore; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il servizio digitale e' reso accessibile al consumatore o a un impianto fisico o virtuale scelto all'uopo dal consumatore.
+
 Il professionista fornisce al consumatore beni che soddisfano i requisiti di cui ai commi 4 e 5, nonche' quelli di cui agli articoli 135-undecies e 135-duodecies in quanto compatibili, fatto salvo quanto previsto dall'articolo 135-terdecies.
+
+4.
+                        
+                            
+                                Per essere conforme al contratto il contenuto digitale o il servizio digitale deve possedere i seguenti requisiti soggettivi, ove pertinenti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    corrispondere alla descrizione, alla quantita' e alla qualita' previste dal contratto e presentare funzionalita', compatibilita', interoperabilita' e le altre caratteristiche previste dal contratto; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    essere idoneo ad ogni uso particolare voluto dal consumatore e che e' stato da questi portato a conoscenza del professionista al piu' tardi al momento della conclusione del contratto e che il professionista ha accettato; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    essere fornito con tutti gli accessori, le istruzioni, anche in merito all'installazione e l'assistenza ai clienti, come previsti dal contratto; e 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    essere aggiornato come previsto dal contratto.
 
 5. Oltre a rispettare i requisiti soggettivi di conformita', il bene per essere conforme al contratto di vendita deve possedere i seguenti requisiti oggettivi, ove pertinenti:
 
@@ -2192,6 +5645,42 @@ d) essere conforme all'eventuale versione di prova o anteprima del contenuto dig
 ## Art. 135-undecies. — (( (Obblighi del professionista e condotta del consumatore). ))
 
 ((
+
+1.
+                        
+                            
+                                Il professionista e' obbligato a tenere informato il consumatore sugli aggiornamenti disponibili, anche di sicurezza, necessari al fine di mantenere la conformita' del contenuto digitale o del servizio digitale, e a fornirglieli, nel periodo di tempo: 
+ 
+                            
+                            
+                                a)
+                                
+                                    durante il quale il contenuto digitale o il servizio digitale deve essere fornito a norma del contratto, se questo prevede una fornitura continua per un determinato periodo di tempo; oppure 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    che il consumatore puo' ragionevolmente aspettarsi, date la tipologia e la finalita' del contenuto digitale o del servizio digitale e tenendo conto delle circostanze e della natura del contratto, se questo prevede un unico atto di fornitura o una serie di singoli atti di fornitura.
+
+2.
+                        
+                            
+                                Se il consumatore non installa entro un congruo termine gli aggiornamenti forniti dal professionista ai sensi del comma 1, il professionista non e' responsabile per qualsiasi difetto di conformita' derivante unicamente dalla mancanza dell'aggiornamento pertinente, a condizione che: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il professionista abbia informato il consumatore della disponibilita' dell'aggiornamento e delle conseguenze della mancata installazione dello stesso da parte del consumatore; e 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la mancata installazione o l'installazione errata dell'aggiornamento da parte del consumatore non e' dovuta a carenze delle istruzioni di installazione fornite dal professionista.
 
 Se il contratto prevede che il contenuto digitale o il servizio digitale sia fornito in modo continuativo per un determinato periodo di tempo, l'obbligo di assicurare la conformita' del contenuto digitale o il servizio digitale permane per l'intera durata di tale periodo.
 
@@ -2406,6 +5895,66 @@ Il Consiglio, che si avvale, per le proprie iniziative, della struttura e del pe
 
 Il Consiglio invita alle proprie riunioni rappresentanti delle associazioni di tutela ambientale riconosciute e delle associazioni nazionali delle cooperative dei consumatori. Possono altresi' essere invitati i rappresentanti di enti ed organismi che svolgono funzioni di regolamentazione o di normazione del mercato, delle categorie economiche e sociali interessate, delle pubbliche amministrazioni competenti, nonche' esperti delle materie trattate.
 
+4.
+                        
+                            
+                                E' compito del Consiglio: 
+ 
+                            
+                            
+                                a)
+                                
+                                    esprimere pareri, ove richiesto, sugli schemi di atti normativi che riguardino i diritti e gli interessi dei consumatori e degli utenti; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    formulare proposte in materia di tutela dei consumatori e degli utenti, anche in riferimento ai programmi e alle politiche comunitarie; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    promuovere studi, ricerche e conferenze sui problemi del consumo e sui diritti dei consumatori e degli utenti, ed il controllo della qualita' e della sicurezza dei prodotti e dei servizi; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    elaborare programmi per la diffusione delle informazioni presso i consumatori e gli utenti; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    favorire iniziative volte a promuovere il potenziamento dell'accesso dei consumatori e degli utenti ai mezzi di giustizia previsti per la soluzione delle controversie; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    favorire ogni forma di raccordo e coordinamento tra le politiche nazionali e regionali in materia di tutela dei consumatori e degli utenti, assumendo anche iniziative dirette a promuovere la piu' ampia rappresentanza degli interessi dei consumatori e degli utenti nell'ambito delle autonomie locali. A tale fine il presidente convoca una volta all'anno una sessione a carattere programmatico cui partecipano di diritto i presidenti degli organismi rappresentativi dei consumatori e degli utenti previsti dagli ordinamenti regionali e delle province autonome di Trento e di Bolzano; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    stabilire rapporti con analoghi organismi pubblici o privati di altri Paesi e dell'Unione europea; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    segnalare alla Presidenza del Consiglio dei Ministri - Dipartimento della funzione pubblica, eventuali difficolta', impedimenti od ostacoli, relativi all'attuazione delle disposizioni in materia di semplificazione procedimentale e documentale nelle pubbliche amministrazioni. Le segnalazioni sono verificate dal predetto Dipartimento anche mediante l'Ispettorato della funzione pubblica e l'Ufficio per l'attivita' normativa e amministrativa di semplificazione delle norme e delle procedure.
+
 -------------
                             AGGIORNAMENTO (25)
                             
@@ -2414,6 +5963,52 @@ Il Consiglio invita alle proprie riunioni rappresentanti delle associazioni di t
 ## Art. 137. — Elenco delle associazioni dei consumatori e degli utenti rappresentative a livello nazionale
 
 Presso il Ministero ((dello sviluppo economico)) e' istituito l'elenco delle associazioni dei consumatori e degli utenti rappresentative a livello nazionale.((25))
+
+2.
+                        
+                            
+                                L'iscrizione nell'elenco e' subordinata al possesso, da comprovare con la presentazione di documentazione conforme alle prescrizioni e alle procedure stabilite con decreto del Ministro ((dello sviluppo economico)), dei seguenti requisiti:((25))
+                                
+                            
+                            
+                                a)
+                                
+                                    avvenuta costituzione, per atto pubblico o per scrittura privata autenticata, da almeno tre anni e possesso di uno statuto che sancisca un ordinamento a base democratica e preveda come scopo esclusivo la tutela dei consumatori e degli utenti, senza fine di lucro; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    tenuta di un elenco degli iscritti, aggiornato annualmente con l'indicazione delle quote versate direttamente all'associazione per gli scopi statutari; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    numero di iscritti non inferiore allo 0,5 per mille della popolazione nazionale e presenza sul territorio di almeno cinque regioni o province autonome, con un numero di iscritti non inferiore allo 0,2 per mille degli abitanti di ciascuna di esse, da certificare con dichiarazione sostitutiva dell'atto di notorieta' resa dal legale rappresentante dell'associazione con le modalita' di cui agli articoli 46 e seguenti del testo unico delle disposizioni legislative e regolamentari in materia di documentazione amministrativa, di cui al decreto del Presidente della Repubblica 28 dicembre 2000, n. 445; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    elaborazione di un bilancio annuale delle entrate e delle uscite con indicazione delle quote versate dagli associati e tenuta dei libri contabili, conformemente alle norme vigenti in materia di contabilita' delle associazioni non riconosciute; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    svolgimento di un'attivita' continuativa nei tre anni precedenti; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    non avere i suoi rappresentanti legali subito alcuna condanna, passata in giudicato, in relazione all'attivita' dell'associazione medesima, e non rivestire i medesimi rappresentanti la qualifica di imprenditori o di amministratori di imprese di produzione e servizi in qualsiasi forma costituite, per gli stessi settori in cui opera l'associazione.
 
 Alle associazioni dei consumatori e degli utenti e' preclusa ogni attivita' di promozione o pubblicita' commerciale avente per oggetto beni o servizi prodotti da terzi ed ogni connessione di interessi con imprese di produzione o di distribuzione.
 
@@ -2518,6 +6113,73 @@ Il Ministero ((dello sviluppo economico)) comunica alla Commissione europea l'el
 
 ((
 
+1.
+                        
+                            
+                                Ai fini del presente titolo, si intende per: 
+ 
+                            
+                            
+                                a)
+                                
+                                    consumatore: la persona fisica, di cui all'articolo 3, comma 1, lettera a); 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    professionista: qualsiasi persona fisica o giuridica che, indipendentemente dal fatto che si tratti di un soggetto pubblico o privato, agisce, anche tramite un altro soggetto che opera in suo nome o per suo conto, per fini relativi alla propria attivita' commerciale, imprenditoriale, artigianale o professionale; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    interessi collettivi dei consumatori: gli interessi di un numero di consumatori che sono stati o potrebbero essere danneggiati da una violazione delle disposizioni di cui all'allegato II-septies; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    ente legittimato: gli enti disciplinati dall'articolo 140-quater, nonche' gli enti iscritti nell'elenco elaborato e pubblicato dalla Commissione europea ai sensi dell'articolo 5, paragrafo 1, comma 2, della direttiva (UE) 2020/1828 del Parlamento europeo e del Consiglio del 25 novembre 2020; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    azione rappresentativa: un'azione per la tutela degli interessi collettivi dei consumatori promossa, nelle materie di cui all'allegato II-septies, da un ente legittimato in quanto parte ricorrente per conto dei consumatori e finalizzata a ottenere un provvedimento inibitorio o un provvedimento compensativo; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    azione rappresentativa nazionale: un'azione rappresentativa promossa, nelle materie di cui all'allegato II-septies, innanzi al giudice italiano da un'associazione dei consumatori e degli utenti inserita nell'elenco di cui all'articolo 137 ovvero da organismi pubblici indipendenti nazionali; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    azione rappresentativa transfrontaliera: un'azione rappresentativa promossa, nelle materie di cui all'allegato II-septies, innanzi al giudice italiano da uno o piu' enti legittimati di altri Stati membri ed inseriti nell'elenco di cui all'articolo 5, paragrafo 1, comma 2, della direttiva (UE) 2020/1828 del Parlamento europeo e del Consiglio del 25 novembre 2020, ovvero un'azione rappresentativa intentata in un altro Stato membro da un ente legittimato ai sensi dell'articolo 140-quinquies, anche unitamente ad altri enti legittimati di diversi Stati membri; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    provvedimento compensativo: una misura rivolta a rimediare al pregiudizio subito dal consumatore, anche attraverso il pagamento di una somma di denaro, la riparazione, la sostituzione, la riduzione del prezzo, la risoluzione del contratto o il rimborso del prezzo pagato, secondo quanto previsto dalle disposizioni di cui all'allegato II-septies; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    provvedimento inibitorio: un provvedimento con il quale il giudice ordina la cessazione o il divieto di reiterazione della condotta omissiva o commissiva posta in essere in violazione delle disposizioni di cui all'allegato II-septies e ordina la pubblicazione del provvedimento, integralmente o per estratto, su uno o piu' quotidiani a diffusione nazionale o locale ovvero la pubblicazione di una rettifica.
+
 Le disposizioni di cui al presente titolo si applicano alle azioni rappresentative promosse nei confronti di professionisti per violazioni delle disposizioni di cui all'allegato II-septies, che ledono o possono ledere interessi collettivi dei consumatori. Nel caso previsto dal primo periodo, gli enti legittimati non possono agire con l'azione di classe prevista dal titolo VIII-bis del libro IV del codice di procedura civile. Restano fermi i rimedi contrattuali ed extracontrattuali comunque previsti a favore dei consumatori.
 
 L'azione rappresentativa puo' essere promossa anche se le violazioni sono cessate.
@@ -2551,6 +6213,52 @@ Le associazioni dei consumatori e degli utenti inserite nell'elenco di cui all'a
 ((
 
 Nell'elenco previsto dall'articolo 137 e' istituita una sezione speciale, nella quale sono iscritti gli enti e le associazioni dei consumatori e degli utenti legittimati a proporre azioni rappresentative transfrontaliere.
+
+2.
+                        
+                            
+                                Possono essere iscritti nella sezione speciale di cui al comma 1 gli enti che ne fanno richiesta e le associazioni iscritte nell'elenco previsto dall'articolo 137 che lo richiedono, purche' in possesso dei seguenti requisiti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    avvenuta costituzione, per atto pubblico o per scrittura privata autenticata, e dimostrazione di attivita' pubblica effettiva a tutela degli interessi dei consumatori nei dodici mesi precedenti la richiesta di iscrizione; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    possesso di uno statuto che preveda come scopo la tutela dei consumatori, nelle materie di cui all'allegato II-septies, e l'assenza di fine di lucro; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    non essere assoggettati a procedure per la regolazione dell'insolvenza; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    previsione nello statuto di regole, anche riferite alle cause di incompatibilita' relative ai rappresentanti legali, idonee ad assicurare l'indipendenza dell'associazione e l'assenza di influenza da parte di persone diverse dai consumatori e in particolare da parte di professionisti che hanno un interesse economico a intentare azioni rappresentative, nonche' misure idonee a prevenire e a risolvere conflitti di interesse che potrebbero insorgere tra l'associazione, i suoi finanziatori e gli interessi dei consumatori; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    previsione della nomina di un organo di controllo, che vigila sul rispetto dei principi di indipendenza e delle misure di prevenzione e risoluzione dei conflitti di interessi e al quale si applica l'articolo 30, commi 5, 6, 7 e 8, del decreto legislativo 3 luglio 2017, n. 117, in quanto compatibile; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    rendere pubblico sul proprio sito internet e con eventuali altri mezzi appropriati lo statuto e una sintetica descrizione dell'attivita' svolta, redatta in un linguaggio semplice e comprensibile, comprensiva delle informazioni relative alla propria costituzione, all'oggetto sociale, all'attivita' effettivamente svolta a tutela degli interessi dei consumatori, all'iscrizione nella sezione speciale dell'elenco di cui all'articolo 137, all'inesistenza di procedure per la regolazione dell'insolvenza aperte nei propri confronti, alla propria indipendenza, nonche' di informazioni sulle proprie fonti di finanziamento.
 
 Possono essere designati come enti legittimati a proporre azioni rappresentative transfrontaliere anche gli organismi pubblici indipendenti nazionali di cui all'articolo 3, numero 6), del regolamento (UE) 2017/2394 del Parlamento europeo e del Consiglio del 12 dicembre 2017, che facciano richiesta di essere legittimati.
 
@@ -2599,6 +6307,52 @@ Nel ricorso l'ente legittimato indica gli elementi necessari a determinare il gr
 Il ricorso, unitamente al decreto di fissazione dell'udienza, e' pubblicato ai sensi dell'articolo 840-ter, secondo comma, del codice di procedura civile.
 
 Il procedimento e' regolato dal rito semplificato di cui al libro secondo, titolo I, capo III-quater, del codice di procedura civile, in quanto compatibile. Non si applica il primo comma dell'articolo 281-duodecies del codice di procedura civile. In ogni caso, resta fermo il diritto all'azione individuale, salvo quanto previsto all'articolo 840-undecies, nono comma, del codice di procedura civile. Non e' ammesso l'intervento dei terzi ai sensi dell'articolo 105 del codice di procedura civile. Entro il termine di trenta giorni dalla prima udienza, il tribunale decide con ordinanza sull'ammissibilita' della domanda, ma puo' sospendere il giudizio quando sui fatti rilevanti ai fini del decidere e' in corso un'istruttoria davanti a un'autorita' indipendente ovvero un giudizio davanti al giudice amministrativo. Restano ferme le disposizioni del decreto legislativo 19 gennaio 2017, n. 3.
+
+8.
+                        
+                            
+                                La domanda e' inammissibile: 
+ 
+                            
+                            
+                                a)
+                                
+                                    quando e' manifestamente infondata; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    se e' priva degli elementi necessari ad individuare il gruppo dei consumatori interessati dall'azione rappresentativa; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    se il tribunale non ravvisa l'omogeneita' dei diritti individuali per cui e' richiesta l'adozione dei provvedimenti compensativi previsti dall'articolo 140-novies; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    se, anche a seguito di contestazione del convenuto, risulta che l'ente ricorrente e' privo dei requisiti necessari per la legittimazione all'azione; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    quando l'azione e' promossa in conflitto di interessi, in particolare se risulta che il soggetto che ha finanziato l'azione e' concorrente del convenuto o dipende da quest'ultimo. In questo caso il giudice solleva anche di ufficio la questione ed assegna all'ente ricorrente un termine entro cui rifiutare o modificare il finanziamento; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    se l'oggetto sociale dell'ente legittimato che ha proposto la domanda non giustifica l'esercizio dell'azione.
 
 L'ordinanza che decide sull'ammissibilita' e' pubblicata, a cura della cancelleria, nell'area pubblica del portale dei servizi telematici di cui all'articolo 840-ter, secondo comma, del codice di procedura civile, entro quindici giorni dalla pronuncia.
 
@@ -2722,11 +6476,223 @@ Tali somme sono versate ad apposito capitolo dell'entrata del bilancio dello Sta
 
 ## Art. 141. — (Disposizioni generali: definizioni ed ambito di applicazione).
 
+1.
+                        
+                            
+                                Ai fini del presente titolo, si intende per: 
+ 
+                            
+                            
+                                a)
+                                
+                                    «consumatore»: la persona fisica, di cui all'articolo 3, comma 1, lettera a); 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    «professionista»: il soggetto, di cui all'articolo 3, comma 1, lettera c); 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    «contratto di vendita»: il contratto di cui all'articolo 45, comma 1, lettera e); 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    «contratto di servizi»: il contratto di cui all'articolo 45, comma 1, lettera f); 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    «controversia nazionale»: una controversia relativa ad obbligazioni contrattuali derivanti da un contratto di vendita o di servizi, nell'ambito della quale il consumatore, quando ordina i beni o i servizi, risiede nello stesso Stato membro dell'Unione europea in cui e' stabilito il professionista; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    «controversia transfrontaliera»: una controversia relativa ad obbligazioni contrattuali derivanti da un contratto di vendita o di servizi, nell'ambito della quale il consumatore, quando ordina i beni o i servizi, risiede in uno Stato membro dell'Unione europea diverso da quello in cui e' stabilito il professionista; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    «procedura ADR»: una procedura di risoluzione extragiudiziale delle controversie conforme ai requisiti di cui al presente titolo ed eseguita da un organismo ADR-Alternative Dispute Resolution; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    «organismo ADR»: qualsiasi organismo, a prescindere dalla sua denominazione, istituito su base permanente, che offre la risoluzione di una controversia attraverso una procedura ADR ed e' iscritto nell'elenco di cui all'articolo 141-decies; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    «autorita' competente»: le autorita' indicate dall'articolo 141-octies; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    «domanda»: la domanda presentata all'organismo per avviare la procedura ADR; 
+
+                                
+                            
+                            
+                                m)
+                                
+                                    «servizi non economici di interesse generale»: i servizi di interesse generale che non sono prestati a fini economici, a prescindere dalla forma giuridica sotto la quale tali servizi sono prestati, e, in particolare i servizi prestati, senza corrispettivo economico, da pubbliche amministrazioni o per conto delle stesse.
+
+2.
+                        
+                            
+                                Ai fini del presente titolo il professionista si considera stabilito: 
+ 
+                            
+                            
+                                a)
+                                
+                                    se si tratta di una persona fisica, presso la sua sede di attivita'; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    se si tratta di una societa' o di un'altra persona giuridica o di un'associazione di persone fisiche o giuridiche, presso la sua sede legale, la sua amministrazione centrale o la sua sede di attivita', comprese le filiali, le agenzie o qualsiasi altra sede.
+
+3.
+                        
+                            
+                                Ai fini del presente titolo, l'organismo ADR si considera stabilito: 
+ 
+                            
+                            
+                                a)
+                                
+                                    se e' gestito da una persona fisica, nel luogo in cui svolge le attivita' ADR; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    se e' gestito da una persona giuridica o da un'associazione di persone fisiche o di persone giuridiche, nel luogo in cui tale persona giuridica o associazione di persone fisiche o giuridiche svolge le attivita' ADR o ha la sua sede legale; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    se e' gestito da un'autorita' o da un altro ente pubblico, nel luogo in cui tale autorita' o altro ente pubblico ha la propria sede.
+
 Le disposizioni di cui al presente titolo, si applicano alle procedure volontarie di composizione extragiudiziale per la risoluzione, anche in via telematica, delle controversie nazionali e transfrontaliere, tra consumatori e professionisti residenti e stabiliti nell'Unione europea, nell'ambito delle quali l'organismo ADR propone una soluzione o riunisce le parti al fine di agevolare una soluzione amichevole e, in particolare, agli organismi di mediazione per la trattazione degli affari in materia di consumo iscritti nella sezione speciale di cui all'articolo 16, commi 2 e 4, del decreto legislativo 4 marzo 2010, n. 28, e agli altri organismi ADR istituiti o iscritti presso gli elenchi tenuti e vigilati dalle autorita' di cui al comma 1, lettera i), previa la verifica della sussistenza dei requisiti e della conformita' della propria organizzazione e delle proprie procedure alle prescrizioni del presente titolo. Le disposizioni di cui al presente titolo si applicano, altresi', alle eventuali procedure, previste ai sensi del comma 7, in cui l'organismo ADR adotta una decisione.
 
 Le disposizioni di cui al presente titolo si applicano altresi' alle procedure di conciliazione paritetica di cui all'articolo 141-ter.
 
+6.
+                        
+                            
+                                Sono fatte salve le seguenti disposizioni che prevedono l'obbligatorieta' delle procedure di risoluzione extragiudiziale delle controversie: 
+ 
+                            
+                            
+                                a)
+                                
+                                    
+                                        articolo 5, comma 1-bis, del decreto legislativo 4 marzo 2010, n. 28, che disciplina i casi di condizione di procedibilita' con riferimento alla mediazione finalizzata alla conciliazione delle controversie civili e commerciali; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    
+                                        articolo 1, comma 11, della legge 31 luglio 1997, n. 249, che prevede il tentativo obbligatorio di conciliazione nel settore delle comunicazioni elettroniche; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    
+                                        articolo 2, comma 24, lettera b), della legge 14 novembre 1995, n. 481, che prevede il tentativo obbligatorio di conciliazione nelle materie di competenza dell'Autorita' per l'energia elettrica, il gas e il sistema idrico, e le cui modalita' di svolgimento sono regolamentate dall'Autorita' per l'energia elettrica, il gas e il sistema idrico con propri provvedimenti.
+
 Le procedure svolte nei settori di competenza dell'Autorita' per l'energia elettrica, il gas ed il sistema idrico, della Banca d'Italia, ((dell'Istituto per la vigilanza sulle assicurazioni,)) della Commissione nazionale per la societa' e la borsa e dell'Autorita' per le garanzie nelle comunicazioni, ivi comprese quelle che prevedono la partecipazione obbligatoria del professionista, sono considerate procedure ADR ai sensi del presente Codice, se rispettano i principi, le procedure e i requisiti delle disposizioni di cui al presente titolo.
+
+8.
+                        
+                            
+                                Le disposizioni di cui al presente titolo non si applicano: 
+ 
+                            
+                            
+                                a)
+                                
+                                    alle procedure presso sistemi di trattamento dei reclami dei consumatori gestiti dal professionista; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    ai servizi non economici d'interesse generale; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    alle controversie fra professionisti; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    alla negoziazione diretta tra consumatore e professionista; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    ai tentativi di conciliazione giudiziale per la composizione della controversia nel corso di un procedimento giudiziario riguardante la controversia stessa; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    alle procedure avviate da un professionista nei confronti di un consumatore; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    ai servizi di assistenza sanitaria, prestati da professionisti sanitari a pazienti, al fine di valutare, mantenere o ristabilire il loro stato di salute, compresa la prescrizione, la somministrazione e la fornitura di medicinali e dispositivi medici; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    agli organismi pubblici di istruzione superiore o di formazione continua.
 
 Le disposizioni di cui al presente titolo non precludono il funzionamento di eventuali organismi ADR istituiti nell'ambito delle norme e provvedimenti, di cui ai commi 7 e 8, ed in cui i funzionari pubblici sono incaricati delle controversie e considerati rappresentanti sia degli interessi dei consumatori e sia degli interessi dei professionisti.
 
@@ -2742,7 +6708,157 @@ Il consumatore non puo' essere privato in nessun caso del diritto di adire il gi
 
 ((
 
+1.
+                        
+                            
+                                E' fatto obbligo agli organismi ADR di: 
+ 
+                            
+                            
+                                a)
+                                
+                                    mantenere un sito web aggiornato che fornisca alle parti un facile accesso alle informazioni concernenti il funzionamento della procedura ADR e che consenta ai consumatori di presentare la domanda e la documentazione di supporto necessaria in via telematica; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    mettere a disposizione delle parti, su richiesta delle stesse, le informazioni di cui alla lettera a), su un supporto durevole, cosi' come definito dall'articolo 45, comma 1, lettera l); 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    consentire al consumatore la possibilita', ove applicabile, di presentare la domanda anche in modalita' diverse da quella telematica; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    consentire lo scambio di informazioni tra le parti per via elettronica o, se applicabile, attraverso i servizi postali; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    accettare sia le controversie nazionali sia quelle transfrontaliere, comprese le controversie oggetto del regolamento (UE) n. 524/2013, anche attraverso il ricorso a reti di organismi ADR; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    adottare i provvedimenti necessari a garantire che il trattamento dei dati personali avvenga nel rispetto delle regole di cui al decreto legislativo 30 giugno 2003, n. 196, e successive modificazioni.
+
+2.
+                        
+                            
+                                Gli organismi ADR possono, salve le diverse prescrizioni contenute in altre norme applicabili ovvero nelle deliberazioni delle autorita' di regolazione di settore, mantenere e introdurre norme procedurali che consentano loro di rifiutare il trattamento di una determinata controversia per i seguenti motivi: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il consumatore non ha tentato di contattare il professionista interessato per discutere il proprio reclamo ne' cercato, come primo passo, di risolvere la questione direttamente con il professionista; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la controversia e' futile o temeraria; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    la controversia e' in corso di esame o e' gia' stata esaminata da un altro organismo ADR o da un organo giurisdizionale; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    il valore della controversia e' inferiore o superiore a una soglia monetaria prestabilita a un livello tale da non nuocere in modo significativo all'accesso del consumatore al trattamento dei reclami; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    il consumatore non ha presentato la domanda all'organismo ADR entro un limite di tempo prestabilito, che non deve essere inferiore a un anno dalla data in cui il consumatore ha presentato il reclamo al professionista; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    il trattamento di questo tipo di controversia rischierebbe di nuocere significativamente all'efficace funzionamento dell'organismo ADR.
+
 Qualora, conformemente alle proprie norme procedurali, un organismo ADR non e' in grado di prendere in considerazione una controversia che gli e' stata presentata, tale organismo ADR fornisce a entrambe le parti una spiegazione motivata delle ragioni della sua decisione di non prendere in considerazione la controversia entro ventuno giorni dal ricevimento del fascicolo della domanda. Tali norme procedurali non devono nuocere in modo significativo all'accesso da parte dei consumatori alle procedure ADR, compreso in caso di controversie transfrontaliere.
+
+4.
+                        
+                            
+                                E' fatto obbligo agli organismi ADR di prevedere e garantire che le persone fisiche da essi incaricate della risoluzione delle controversie siano: 
+ 
+                            
+                            
+                                a)
+                                
+                                    in possesso delle conoscenze e delle competenze in materia di risoluzione alternativa o giudiziale delle controversie dei consumatori, inclusa una comprensione generale del diritto provvedendo, se del caso, alla loro formazione; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    nominate per un incarico di durata sufficiente a garantire l'indipendenza dell'attivita' da svolgere, non potendo essere sostituito o revocato nell'incarico senza una giusta causa; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    non soggette ad istruzioni dell'una o dell'altra delle parti o dei loro rappresentanti; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    retribuite indipendentemente dall'esito della procedura.
+
+5.
+                        
+                            
+                                E' fatto altresi' obbligo alle persone fisiche incaricate della risoluzione delle controversie, di comunicare tempestivamente all'organismo ADR tutte le circostanze, emerse durante l'intera procedura ADR, idonee ad incidere sulla loro indipendenza e imparzialita' o capaci di generare conflitti di interessi con l'una o l'altra delle parti della controversia che sono chiamate a risolvere.
+In tale ipotesi, se le parti non sono soddisfatte delle prestazioni o del funzionamento della procedura medesima, l'organismo ADR deve: 
+ 
+                            
+                            
+                                a)
+                                
+                                    sostituire la persona fisica interessata, affidando la conduzione della procedura ADR ad altra persona fisica; o in mancanza 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    garantire che la persona fisica interessata si astenga dal condurre la procedura ADR e, se possibile, proporre alle parti di presentare la controversia ad un altro organismo ADR competente a trattare la controversia; o in mancanza 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    consentire alla persona fisica interessata di continuare a condurre la procedura solo se le parti, dopo essere state informate delle circostanze e del loro diritto di opporsi, non hanno sollevato obiezioni.
 
 Resta fermo il diritto delle parti di ritirarsi in qualsiasi momento dalla procedura ADR, salvo quanto previsto dall'articolo 141-quater, comma 5, lettera a).
 
@@ -2766,6 +6882,45 @@ Restano ferme le disposizioni in materia di formazione dei mediatori di cui ai c
 
 ((
 
+1.
+                        
+                            
+                                Le procedure svolte dinanzi agli organismi ADR in cui parte delle persone fisiche incaricate della risoluzione delle controversie sono assunte o retribuite esclusivamente dal professionista o da un'organizzazione professionale o da un'associazione di imprese di cui il professionista e' membro, sono considerate procedure ADR, ai sensi del presente Codice, se, oltre all'osservanza delle disposizioni di cui al presente titolo, rispettano i seguenti ulteriori requisiti specifici di indipendenza e trasparenza: 
+ 
+                            
+                            
+                                a)
+                                
+                                    le persone fisiche incaricate della risoluzione delle controversie devono far parte di una commissione paritetica composta da un numero uguale di rappresentanti delle associazioni dei consumatori e degli utenti, di cui all'articolo 137, e di rappresentanti del professionista, e sono nominate a seguito di una procedura trasparente; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le persone fisiche incaricate della risoluzione delle controversie devono ricevere un incarico di almeno tre anni per garantire l'indipendenza della loro azione; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    e' fatto obbligo al rappresentante delle associazioni dei consumatori e degli utenti, di cui all'articolo 137, di non avere alcun rapporto lavorativo con il professionista, con un'organizzazione professionale o un'associazione di imprese di cui il professionista sia membro, per l'intera durata dell'incarico e per un periodo di tre anni decorrenti dalla cessazione del proprio incarico nell'organismo ADR, ne' di avere contributi finanziari diretti da parte degli stessi; gli eventuali contributi erogati dal professionista o dall'organizzazione professionale o dall'associazione di imprese di cui il professionista fa parte, quale parziale rimborso all'associazione dei consumatori per gli oneri sostenuti per prestare assistenza gratuita al consumatore nella procedura ADR, devono essere erogati in modo trasparente, informandone l'autorita' competente o secondo le procedure dalla stessa stabilite; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    e' fatto, altresi', obbligo al rappresentante del professionista, se tale rapporto lavorativo non era gia' in corso al momento di conferimento dell'incarico, di non avere alcun rapporto lavorativo con il professionista, con un'organizzazione professionale o un'associazione di imprese di cui il professionista sia membro, per un periodo di tre anni decorrenti dalla cessazione del proprio incarico nell'organismo ADR; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    l'organismo di risoluzione delle controversie, ove non abbia distinta soggettivita' giuridica rispetto al professionista o all'organizzazione professionale o all'associazione di imprese di cui il professionista fa parte, deve essere dotato di sufficiente autonomia e di un organo paritetico di garanzia privo di collegamenti gerarchici o funzionali con il professionista, deve essere chiaramente separato dagli organismi operativi del professionista ed avere a sua disposizione risorse finanziarie sufficienti, distinte dal bilancio generale del professionista, per lo svolgimento dei suoi compiti.
+
 2. Rientrano nelle procedure di cui al comma 1 esclusivamente le negoziazioni paritetiche disciplinate da protocolli di intesa stipulati tra i professionisti o loro associazioni e un numero non inferiore a un terzo delle associazioni dei consumatori e degli utenti, di cui all'articolo 137, nonche' quelle disciplinate da protocolli di intesa stipulati nel settore dei servizi pubblici locali secondo i criteri a tal fine indicati nell'accordo sancito in sede di Conferenza unificata Stato-regioni e Stato-citta' ed autonomie locali del 26 settembre 2013, pubblicato nella Gazzetta Ufficiale n. 254 del 29 ottobre 2013.))
 
 ((25))
@@ -2778,6 +6933,239 @@ Restano ferme le disposizioni in materia di formazione dei mediatori di cui ai c
 ## Art. 141-quater. — (( (Trasparenza, efficacia, equita' e liberta'). ))
 
 ((
+
+1.
+                        
+                            
+                                E' fatto obbligo agli organismi ADR, di rendere disponibili al pubblico sui loro siti web, su supporto durevole su richiesta e in qualsiasi altra modalita' funzionale al perseguimento delle finalita' di trasparenza, efficacia, equita' e liberta', informazioni chiare e facilmente comprensibili riguardanti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    le modalita' di contatto, l'indirizzo postale e quello di posta elettronica; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il proprio inserimento nell'elenco di cui all'articolo 141-decies, secondo comma; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    le persone fisiche incaricate della procedura ADR, i criteri seguiti per il conferimento dell'incarico nonche' per la loro successiva designazione e la durata del loro incarico; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    la competenza, l'imparzialita' e l'indipendenza delle persone fisiche incaricate della procedura ADR qualora siano assunte o retribuite esclusivamente dal professionista; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    l'eventuale appartenenza a reti di organismi ADR che agevolano la risoluzione delle controversie transfrontaliere; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    il settore di competenza specifica, incluso, eventualmente, il limite di valore di competenza; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    le norme che disciplinano la procedura di risoluzione stragiudiziale della controversia per la quale l'organismo di ADR e' stato iscritto e i motivi per cui l'organismo ADR puo' rifiutare di trattare una determinata controversia ai sensi dell'articolo 141-bis, comma 2; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    le lingue nelle quali possono essere presentati i reclami all'organismo ADR e secondo le quali si svolge la procedura ADR; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    se l'organismo ADR risolve le controversie in base a disposizioni giuridiche, considerazioni di equita', codici di condotta o altri tipi di regole; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    eventuali attivita' che le parti sono tenute a rispettare prima di avviare la procedura ADR, incluso il tentativo di risoluzione della controversia mediante negoziazione diretta con il professionista; 
+
+                                
+                            
+                            
+                                m)
+                                
+                                    la possibilita' o meno per le parti di ritirarsi dalla procedura; 
+
+                                
+                            
+                            
+                                n)
+                                
+                                    gli eventuali costi che le parti dovranno sostenere, comprese le norme sulla ripartizione delle spese al termine della procedura; 
+
+                                
+                            
+                            
+                                o)
+                                
+                                    la durata media della procedura ADR; 
+
+                                
+                            
+                            
+                                p)
+                                
+                                    l'effetto giuridico dell'esito della procedura ADR; 
+
+                                
+                            
+                            
+                                q)
+                                
+                                    l'esecutivita' della decisione ADR, nei casi eventualmente previsti dalle norme vigenti.
+
+2.
+                        
+                            
+                                E' fatto obbligo agli organismi ADR di rendere disponibili al pubblico sui loro siti web, su un supporto durevole su richiesta e in altra modalita' funzionale al perseguimento delle finalita' di trasparenza, le relazioni annuali d'attivita'. Tali relazioni, con riferimento alle controversie sia nazionali che transfrontaliere, devono comprendere le seguenti informazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    numero di reclami ricevuti e tipologie di controversie cui si riferiscono; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    eventuali cause sistematiche o significative generatrici delle controversie tra consumatori e professionisti; tali informazioni possono essere accompagnate, se del caso, da raccomandazioni idonee ad evitare o risolvere problematiche analoghe in futuro, a migliorare le norme dei professionisti e ad agevolare lo scambio di informazioni e di migliori prassi; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    la percentuale di controversie che l'organismo ADR ha rifiutato di trattare e la quota in percentuale dei tipi di motivo per i rifiuti di cui all'articolo 141-bis, comma 2; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    nel caso di procedure di cui dell'articolo 141-ter, le quote percentuali di soluzioni proposte a favore del consumatore e a favore del professionista, e di controversie risolte con una composizione amichevole; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    la quota percentuale delle procedure ADR interrotte e, se noti, i motivi della loro interruzione; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    il tempo medio necessario per la risoluzione delle controversie; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    la percentuale di rispetto, se nota, degli esiti delle procedure ADR; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    l'eventuale cooperazione con organismi ADR all'interno di reti di organismi ADR che agevolano la risoluzione delle controversie transfrontaliere.
+
+3.
+                        
+                            
+                                Le procedure ADR devono rispettare le seguenti prescrizioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    essere disponibili e facilmente accessibili online e offline per entrambe le parti, a prescindere dalla loro ubicazione; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    consentire la partecipazione alle parti senza obbligo di assistenza legale; e' fatto sempre salvo il diritto delle parti di ricorrere al parere di un soggetto indipendente o di essere rappresentate o assistite da terzi in qualsiasi fase della procedura; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    essere gratuite o disponibili a costi minimi per i consumatori; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    l'organismo ADR che ha ricevuto una domanda da' alle parti comunicazione dell'avvio della procedura relativa alla controversia non appena riceve il fascicolo completo della domanda; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    concludersi entro il termine di novanta giorni dalla data di ricevimento del fascicolo completo della domanda da parte dell'organismo ADR; in caso di controversie particolarmente complesse, l'organismo ADR puo', a sua discrezione, prorogare il termine fino a un massimo di novanta giorni; le parti devono essere informate di tale proroga e del nuovo termine di conclusione della procedura.
+
+4.
+                        
+                            
+                                Nell'ambito delle procedure ADR deve essere garantito altresi' che: 
+ 
+                            
+                            
+                                a)
+                                
+                                    le parti abbiano la possibilita', entro un periodo di tempo ragionevole di esprimere la loro opinione, di ottenere dall'organismo ADR le argomentazioni, le prove, i documenti e i fatti presentati dall'altra parte, salvo che la parte non abbia espressamente richiesto che gli stessi debbano restare riservati, le eventuali dichiarazioni rilasciate e opinioni espresse da esperti e di poter esprimere osservazioni in merito; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le parti siano informate del fatto che non sono obbligate a ricorrere a un avvocato o consulente legale, ma possono chiedere un parere indipendente o essere rappresentate o assistite da terzi in qualsiasi fase della procedura; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    alle parti sia notificato l'esito della procedura ADR per iscritto o su un supporto durevole, e sia data comunicazione dei motivi sui quali e' fondato.
 
 5. Nell'ipotesi di procedure ADR volte a risolvere la controversia proponendo una soluzione, gli organismi ADR garantiscono che:
 
@@ -2869,6 +7257,59 @@ La cooperazione e lo scambio di informazioni di cui ai commi 1, 2 e 3 devono avv
 
 ## Art. 141-octies. — (Autorita' competenti e punto di contatto unico).
 
+1.
+                        
+                            
+                                Per lo svolgimento delle funzioni di cui agli articoli 141-nonies e 141-decies, sono designate le seguenti autorita' competenti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    Ministero della giustizia unitamente al Ministero dello sviluppo economico, con riferimento al registro degli organismi di mediazione relativo alla materia del consumo, di cui all'articolo 16, commi 2 e 4, del decreto legislativo 4 marzo 2010, n. 28; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    Commissione nazionale per le societa' e la borsa (CONSOB), di cui all'articolo 1 della legge 7 giugno 1974, n. 216, con riferimento ai sistemi di risoluzione stragiudiziale delle controversie disciplinati ai sensi dell'articolo 2 del decreto legislativo 8 ottobre 2007, n. 179, e dei regolamenti attuativi, e con oneri a carico delle risorse di cui all'articolo 40, comma 3, della legge 23 dicembre 1994, n. 724, e successive modificazioni, nonche' dei soggetti che si avvalgono delle procedure medesime; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    Autorita' per l'energia elettrica, il gas e il sistema idrico (AEEGSI), di cui all'articolo 2 della legge 14 novembre 1995, n. 481, per il settore di competenza; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    Autorita' per le garanzie nelle comunicazioni (AGCOM), di cui all'articolo 1 della legge 31 luglio 1997, n. 249, per il settore di competenza; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    Banca d'Italia, con riferimento ai sistemi di risoluzione stragiudiziale delle controversie disciplinati ai sensi dell'articolo 128-bis del decreto legislativo 1° settembre 1993, n. 385; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    altre autorita' amministrative indipendenti, di regolazione di specifici settori, ove disciplinino specifiche procedure ADR secondo le proprie competenze; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    Ministero dello sviluppo economico, con riferimento alle negoziazioni paritetiche di cui all'articolo 141-ter relative ai settori non regolamentati o per i quali le relative autorita' indipendenti di regolazione non applicano o non adottano specifiche disposizioni, nonche' con riferimento agli organismi di conciliazione istituiti ai sensi dell'articolo 2, comma 2, lettera g) e comma 4, della legge 29 dicembre 1993, n. 580, limitatamente alle controversie tra consumatori e professionisti, non rientranti nell'elenco di cui alla lettera a).
+
 Il Ministero dello sviluppo economico e' designato punto di contatto unico con la Commissione europea.
 
 Al fine di definire uniformita' di indirizzo nel compimento delle funzioni delle autorita' competenti di cui al comma 1 e' istituito presso il Ministero dello sviluppo economico un tavolo di coordinamento e di indirizzo. Lo stesso e' composto da un rappresentante per ciascuna autorita' competente. Al Ministero dello sviluppo economico e' attribuito il compito di convocazione e di raccordo. Al tavolo sono assegnati compiti di definizione degli indirizzi relativi all'attivita' di iscrizione e di vigilanza delle autorita' competenti, nonche' ai criteri generali di trasparenza e imparzialita', e alla misura dell'indennita' dovuta per il servizio prestato dagli organismi ADR. Ai componenti del predetto tavolo di coordinamento ed indirizzo non spetta alcun compenso, gettone di presenza o altro emolumento comunque denominato e a qualsiasi titolo dovuto. 
@@ -2917,6 +7358,59 @@ Presso ciascuna autorita' competente e' istituito, rispettivamente con decreto m
 
 Ogni autorita' competente provvede all'iscrizione, alla sospensione e alla cancellazione degli iscritti e vigila sull'elenco nonche' sui singoli organismi ADR.
 
+3.
+                        
+                            
+                                Ciascuna autorita' competente sulla base di propri provvedimenti, tiene l'elenco e disciplina le modalita' di iscrizione degli organismi ADR. Tale elenco comprende: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il nome, le informazioni di contatto e i siti internet degli organismi ADR di cui al comma 1; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le loro tariffe, se del caso; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    la lingua o le lingue in cui possono essere presentati i reclami e in cui e' svolta la procedura ADR; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    i tipi di controversie contemplati dalla procedura ADR; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    i settori e le categorie di controversie trattati da ciascun organismo ADR; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    se del caso, l'esigenza della presenza fisica delle parti o dei loro rappresentanti, compresa una dichiarazione dell'organismo ADR relativa alla possibilita' di svolgere la procedura ADR in forma orale o scritta; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    i motivi per cui un organismo ADR puo' rifiutare il trattamento di una determinata controversia a norma dell'articolo 141-bis, comma 2.
+
 Se un organismo ADR non soddisfa piu' i requisiti di cui al comma 1, l'autorita' competente interessata lo contatta per segnalargli tale non conformita', invitandolo a ovviarvi immediatamente. Se allo scadere di un termine di tre mesi l'organismo ADR continua a non soddisfare i requisiti di cui al comma 1, l'autorita' competente cancella l'organismo dall'elenco di cui al comma 2. Detto elenco e' aggiornato senza indugio e le informazioni pertinenti sono trasmesse al Ministero dello sviluppo economico quale punto di contatto unico con la Commissione europea.
 
 Ogni autorita' competente notifica senza indugio l'elenco di cui ai commi 1 e 3, e ogni suo successivo aggiornamento, al Ministero dello sviluppo economico quale punto di contatto unico con la Commissione europea.
@@ -2961,6 +7455,65 @@ Ogni intervento normativo incidente sul codice, o sulle materie dallo stesso dis
 
 ## Art. 144-bis. — (Cooperazione tra le autorita' nazionali per la tutela dei consumatori)
 
+1.
+                        
+                            
+                                Il Ministero dello sviluppo economico, salve le disposizioni in materia bancaria, finanziaria, assicurativa e di sistemi di pagamento e le competenze delle autorita' indipendenti di settore, che continuano a svolgere le funzioni di autorita' competente ai sensi dell'articolo 3, numero 6), del regolamento (UE) 2017/2394 del Parlamento europeo e del Consiglio, del 12 dicembre 2017, nonche' le disposizioni vigenti nelle ulteriori materie per le quali e' prevista la competenza di altre autorita' nazionali, svolge le funzioni di autorita' competente, ai sensi del medesimo articolo 3, numero 6), del regolamento (UE) 2017/2394, in materia di: 
+ 
+                            
+                            
+                                a)
+                                
+                                    LETTERA SOPPRESSA DAL D.LGS. 21 FEBBRAIO 2014, N. 21; (24) 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    LETTERA SOPPRESSA DAL D.LGS. 21 FEBBRAIO 2014, N. 21; (24) 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    garanzia nella vendita dei beni di consumo, di cui alla parte IV, titolo III, capo I; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    
+                                        ((LETTERA ABROGATA DAL D.LGS. 31 DICEMBRE 2025, N. 212)); ((56))
+                                    
+                                
+                            
+                            
+                                e)
+                                
+                                    commercio elettronico, di cui alla parte III, titolo III, capo II; 
+                                
+                            
+                            
+                                f)
+                                
+                                    LETTERA SOPPRESSA DAL D.LGS. 21 FEBBRAIO 2014, N. 21; (24)
+                                
+                            
+                            
+                                g)
+                                
+                                    LETTERA SOPPRESSA DAL D.LGS. 21 FEBBRAIO 2014, N. 21; (24) 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    contratti di multiproprieta', contratti relativi ai prodotti per le vacanze di lungo termine, contratti di rivendita e di scambio, di cui alla parte III, titolo IV, capo I. (24)
+
 Il Ministero dello sviluppo economico e le altre autorita' competenti ai sensi dell'articolo 3, numero 6), del regolamento (UE) 2017/2394, che dispongono di tutti i poteri minimi di cui all'articolo 9 dello stesso regolamento e li esercitano conformemente all'articolo 10 del medesimo regolamento, conservano gli ulteriori e piu' ampi poteri loro attribuiti dalla normativa vigente. Con riferimento alle infrazioni lesive degli interessi collettivi dei consumatori in ambito nazionale, escluse dall'applicazione del citato regolamento (UE) 2017/2394, le autorita' di cui al primo periodo del presente comma, fermi restando gli ulteriori e piu' ampi poteri loro attribuiti dalla normativa vigente, esercitano i medesimi poteri di indagine e di esecuzione di cui all'articolo 9 del citato regolamento, in conformita' all'articolo 10 del medesimo regolamento, con facolta' di avvalersi anche di soggetti appositamente incaricati, che acquisiscono i dati, le notizie e le informazioni secondo le competenze e le modalita' stabilite dai rispettivi regolamenti.
 
 Per lo svolgimento dei compiti di cui ai commi 1 e 2, il Ministero dello sviluppo economico puo' avvalersi delle camere di commercio, industria, artigianato e agricoltura, nonche´ del Corpo della Guardia di finanza che agisce con i poteri ad esso attribuiti per l'accertamento dell'imposta sul valore aggiunto e delle imposte sui redditi. Puo' inoltre definire forme di collaborazione con altre pubbliche amministrazioni. Limitatamente ai poteri di cui all'articolo 139, puo' avvalersi delle associazioni dei consumatori e degli utenti di cui all'articolo 137.
@@ -2996,4 +7549,169 @@ Il Centro nazionale della rete europea per i consumatori (ECC-NET) e' designato 
 Sono fatte salve le disposizioni adottate dalle regioni e dalle province autonome di Trento e di Bolzano nell'esercizio delle proprie competenze legislative in materia di educazione e informazione del consumatore.
 
 ## Art. 146. — Abrogazioni
+
+1.
+                        
+                            
+                                Dalla data di entrata in vigore del presente codice sono abrogati:
+ 
+                            
+                            
+                                a)
+                                
+                                    il decreto del Presidente della Repubblica 24 maggio 1988, n. 224, cosi' come modificato dal decreto legislativo 2 febbraio 2001, n. 25, recante attuazione della direttiva 85/374/CEE, relativa al ravvicinamento delle disposizioni legislative, regolamentari e amministrative degli Stati membri in materia di responsabilita' per danno da prodotti difettosi, ai sensi dell'articolo 15 della legge 16 aprile 1987, n. 183;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la legge 10 aprile 1991, n. 126, cosi' come modificata dalla legge 22 febbraio 1994, n. 146, recante norme per l'informazione del consumatore;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il decreto legislativo 15 gennaio 1992, n. 50, recante attuazione della direttiva 85/577/CEE, in materia di contratti negoziati fuori dei locali commerciali;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    
+                                        decreto legislativo 25 gennaio 1992, n. 74, cosi' come modificato dal decreto legislativo 25 febbraio 2000, n. 67, recante attuazione della direttiva 84/450/CEE, in materia di pubblicita' ingannevole e comparativa;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    
+                                        decreto legislativo 17 marzo 1995, n. 111, cosi' come modificato dalla legge 5 marzo 2001, n. 57, recante attuazione della direttiva 90/314/CEE, concernente i viaggi, le vacanze ed i circuiti "tutto compreso";
+
+                                
+                            
+                            
+                                f)
+                                
+                                    la legge 30 luglio 1998, n. 281, recante disciplina dei diritti dei consumatori e degli utenti, cosi' come modificata dalla legge 24 novembre 2000, n. 340, dal decreto legislativo 23 aprile 2001, n. 224, e dall'articolo 11 della legge 1° marzo 2002, n. 39, recante disposizioni per l'adempimento di obblighi derivanti dall'appartenenza dell'Italia alle Comunita' europee - legge comunitaria 2001, sono fatte salve le disposizioni di cui all'articolo 7, con riferimento alle attivita' promozionali del Consiglio nazionale dei consumatori e degli utenti di cui all'articolo 136 e alle agevolazioni di cui all'articolo 138;
+
+                                
+                            
+                            
+                                g)
+                                
+                                    il decreto legislativo 9 novembre 1998, n 427, recante attuazione della direttiva 94/47/CE, concernente la tutela dell'acquirente per taluni aspetti dei contratti relativi all'acquisizione di un diritto di godimento a tempo parziale di beni immobili;
+
+                                
+                            
+                            
+                                h)
+                                
+                                    il decreto legislativo 22 maggio 1999, n 185, recante attuazione della direttiva 97/7/CE, relativa alla protezione dei consumatori in materia di contratti a distanza;
+
+                                
+                            
+                            
+                                i)
+                                
+                                    il decreto legislativo 25 febbraio 2000, n 63, recante attuazione della direttiva 98/7/CE, che modifica la direttiva 87/102/CEE, in materia di credito al consumo;
+
+                                
+                            
+                            
+                                l)
+                                
+                                    il decreto legislativo 25 febbraio 2000, n. 67, recante attuazione della direttiva 97/55/CE, che modifica la direttiva 84/450/CEE, in materia di pubblicita' ingannevole e comparativa;
+
+                                
+                            
+                            
+                                m)
+                                
+                                    il decreto legislativo 25 febbraio 2000, n. 84, recante attuazione della direttiva 98/6/CE, relativa alla protezione dei
+ consumatori in materia di indicazione dei prezzi offerti ai medesimi;
+                                
+                            
+                            
+                                n)
+                                
+                                    il decreto legislativo 23 aprile 2001, n. 224, recante
+attuazione della direttiva 98/27/CE, relativa a provvedimenti inibitori a tutela degli interessi dei consumatori;
+
+                                
+                            
+                            
+                                o)
+                                
+                                    il decreto legislativo 21 maggio 2004, n. 172, recante attuazione della direttiva 2001/95/CE, relativa alla sicurezza generale dei prodotti;
+
+                                
+                            
+                            
+                                p)
+                                
+                                    il comma 7 dell'articolo 18 del decreto legislativo 31 marzo 1998, n. 114, recante riforma della disciplina relativa al settore del commercio, a norma dell'articolo 4, comma 4, della legge 15 marzo 1997, n. 59;
+
+                                
+                            
+                            
+                                q)
+                                
+                                    il comma 9 dell'articolo 19 del decreto legislativo 31 marzo 1998, n. 114, recante riforma della disciplina relativa al settore del commercio, a norma dell'articolo 4, comma 4, della legge 15 marzo 1997, n. 59;
+
+                                
+                            
+                            
+                                r)
+                                
+                                    commi 4 e 5 dell'articolo 125 del testo unico delle leggi in materia bancaria e creditizia, di cui al decreto legislativo 1° settembre 1993, n. 385, e successive modificazioni;
+
+                                
+                            
+                            
+                                s)
+                                
+                                    gli articoli 1519-bis, 1519-ter, 1519-quater, 1519-quinquies, 1519-sexies, 1519-septies, 1519-octies e 1519-nonies del codice civile;
+
+                                
+                            
+                            
+                                t)
+                                
+                                    la legge 6 aprile 2005, n. 49, recante modifiche all'articolo 7 del decreto legislativo 25 gennaio 1992, n. 74, in materia di messaggi pubblicitari ingannevoli diffusi attraverso mezzi di comunicazione.
+
+2.
+                        
+                            
+                                Dalla data di entrata in vigore del presente codice restano abrogati:
+ 
+                            
+                            
+                                a)
+                                
+                                    il decreto del Presidente della Repubblica 23 agosto 1982, n. 903, recante attuazione della direttiva 79/581/CEE, relativa alla indicazione dei prezzi dei prodotti alimentari ai fini della protezione dei consumatori;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il decreto legislativo 25 gennaio 1992, n. 76, recante attuazione della direttiva 88/315/CEE, concernente l'indicazione dei prezzi dei prodotti alimentari ai fini della protezione dei consumatori;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il decreto legislativo 27 gennaio 1992, n. 78, recante attuazione della direttiva 88/314/CEE, concernente l'indicazione dei prezzi dei prodotti non alimentari ai fini della protezione dei consumatori;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    il decreto legislativo 17 marzo 1995, n. 115, recante attuazione della direttiva 92/59/CEE, relativa alla sicurezza generale dei prodotti.
 

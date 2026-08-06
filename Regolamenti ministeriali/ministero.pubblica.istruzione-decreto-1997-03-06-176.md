@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
 vigenza_date: 2009-07-02
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:38Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -60,9 +60,91 @@ L'esclusione puo' avere luogo in qualsiasi momento, quando ne siano emersi i mot
 
 ## Art. 4. — Modalita' di presentazione della domanda
 
+1.
+                    
+                        
+                            Nella domanda di ammissione agli esami, corredata della documentazione prevista dal successivo articolo 5, i candidati debbono indicare:
+
+                        
+                        
+                            a)
+                            
+                                cognome e nome;
+                            
+                        
+                        
+                            b)
+                            
+                                luogo e data di nascita;
+                            
+                        
+                        
+                            c)
+                            
+                                la residenza anagrafica e l'indirizzo al quale desiderano che vengano loro inviate le eventuali comunicazioni relative agli esami;
+                            
+                        
+                        
+                            d)
+                            
+                                l'istituto professionale agrario presso il quale e' stato conseguito il diploma di agrotecnico e l'anno scolastico relativo;
+                            
+                        
+                        
+                            e)
+                            
+                                il certificato comprovante il possesso di uno dei requisiti di cui all'articolo 1, comma 2, lettera d), della legge 6 giugno 1986, n. 251, nel testo modificato all'art. 1 della legge 5 marzo 1991, n. 91;
+                            
+                        
+                        
+                            f)
+                            
+                                la dichiarazione sotto la propria responsabilita', pena l'esclusione in qualsiasi momento dagli esami, di non aver prodotto per la stessa sessione altra domanda di ammissione ad una diversa sede in esame;
+                            
+                        
+                        
+                            g)
+                            
+                                data e firma.
+
 La firma dei candidati apposta in calce alla domanda deve essere autenticata, a norma delle vigenti disposizioni.
 
 ## Art. 5. — Documentazione
+
+1.
+                    
+                        
+                            Alla domanda di ammissione agli esami devono essere allegati i seguenti documenti rilasciati con l'osservanza delle vigenti disposizioni sul bollo:
+
+                        
+                        
+                            a)
+                            
+                                diploma di maturita' professionale di agrotecnico in originale o copia autentica;
+                            
+                        
+                        
+                            b)
+                            
+                                un breve curriculum in carta semplice, sottoscritto dal candidato, relativo all'attivita' professionale ed agli eventuali ulteriori studi compiuti dopo il conseguimento del diploma di maturita';
+                            
+                        
+                        
+                            c)
+                            
+                                eventuali pubblicazioni di carattere professionale;
+                            
+                        
+                        
+                            d)
+                            
+                                ricevute da cui risulti l'avvenuto versamento della tassa di ammissione agli esami nella misura di L. 96.000 dovuta all'erario e del contributo nella misura di L. 3.000 dovuto all'istituto professionale di Stato per l'agricoltura sede di esame, a norma della legge 8 dicembre 1956, n. 1378, e successive modificazioni;
+                            
+                        
+                        
+                            e)
+                            
+                                un elenco sottoscritto su carta semplice dei documenti, numerati in ordine progressivo, prodotti a corredo della domanda.
 
 ## Art. 6. — Adempimenti del Collegio nazionale degli agrotecnici
 
@@ -75,6 +157,24 @@ Ciascuna domanda dovra' in ogni caso contenere la certificazione relativa al pos
 ## Art. 7. — Commissioni esaminatrici
 
 Le commissioni esaminatrici sono nominate con decreto del Ministro della pubblica istruzione e sono composte dal presidente e da quattro membri.
+
+2.
+                    
+                        
+                            Il presidente viene scelto nelle seguenti categorie:
+
+                        
+                        
+                            a)
+                            
+                                professori universitari di ruolo ordinario o straordinario;
+                            
+                        
+                        
+                            b)
+                            
+                                professori universitari associati o fuori ruolo.
+ I professori universitari di cui alle lettere a) e b) possono essere scelti anche fra coloro che si trovino in pensione.
 
 Due dei membri della commissione vengono scelti tra i docenti laureati di ruolo di discipline agrarie, che insegnino da almeno un quinquennio od abbiano insegnato per un pari periodo negli istituti professionali di Stato per l'agricoltura. Tali membri vengono scelti nell'ambito di terne di nominativi segnalate dal Collegio nazionale degli agrotecnici, in numero corrispondente ai commissari da nominare.
 

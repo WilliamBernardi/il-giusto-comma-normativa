@@ -7,8 +7,8 @@ urn: urn:nir:ministero.ambiente.e.tutela.territorio.e.mare:decreto:2016-06-10;14
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:39Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -34,11 +34,100 @@ Udito il parere del Consiglio di Stato n. 1079/2016, espresso dalla Sezione cons
 
 Finalita'
 
+1.
+                    
+                        
+                            Il presente regolamento, in coerenza con le misure previste dal Programma nazionale di prevenzione dei rifiuti di cui all'articolo 180, comma 1-bis, del decreto legislativo 3 aprile 2006, n. 152, disciplina le misure dirette a: 
+ 
+                        
+                        
+                            a)
+                            
+                                promuovere la cooperazione tra produttori e operatori degli impianti di trattamento, recupero e riciclaggio; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                favorire la progettazione e la produzione ecocompatibili di apparecchiature elettriche ed elettroniche (di seguito AEE), al fine di facilitare le operazioni di riutilizzo e recupero dei rifiuti di apparecchiature elettriche ed elettroniche (di seguito RAEE); 
+
+                            
+                        
+                        
+                            c)
+                            
+                                sostenere il mercato dei materiali riciclati anche per la produzione di nuove AEE.
+
 ## Art. 2. — Definizioni
+
+1.
+                    
+                        
+                            Ferme restando le definizioni contenute nell'articolo 4 del decreto legislativo 14 marzo 2014, n. 49, ai fini del seguente regolamento si intende per: 
+ 
+                        
+                        
+                            a)
+                            
+                                «costo di gestione di fine vita dell'AEE»: somma dei costi di raccolta, recupero, trattamento e riciclaggio di un'apparecchiatura elettrica ed elettronica, intesi sia come costi economici che come costi ambientali; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                «fine vita»: insieme delle attivita' di raccolta, recupero, trattamento e riciclaggio con le quali si garantisce la gestione del bene divenuto rifiuto; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                «prodotto ricondizionato»: bene che dopo essere stato sottoposto ad un processo di riparazione e manutenzione, sia di tipo estetico che meccanico-funzionale viene immesso sul mercato.
 
 ## Art. 3. — Incentivazione della produzione ecocompatibile di AEE
 
 Le misure previste relative alla progettazione ecocompatibile delle AEE fanno riferimento al decreto legislativo 16 febbraio 2011, n. 15, e agli specifici regolamenti europei citati in premessa.
+
+2.
+                    
+                        
+                            Ai fini dell'ottimizzazione del «fine vita» delle AEE, ovvero dell'insieme delle attivita' necessarie per il corretto trattamento, recupero e riciclaggio dei rifiuti delle AEE, i produttori prevedono l'implementazione di strategie di eco-progettazione volte a facilitare le operazioni di riuso e riciclo, incluse quelle relative a: 
+ 
+                        
+                        
+                            a)
+                            
+                                uso di materiali riciclabili e biodegradabili; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                riduzione della quantita' e della diversita' dei materiali; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                aumento della riciclabilita' del prodotto e delle sue componenti; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                limitazione dell'uso di sostanze pericolose; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                ottimizzazione del disassemblaggio del prodotto.
 
 I produttori di AEE che, a seguito della verifica della documentazione presentata al Comitato di vigilanza e di controllo sulla gestione dei RAEE e delle pile, degli accumulatori e dei relativi rifiuti (di seguito Comitato) prima dell'immissione sul mercato delle AEE, ai sensi dell'articolo 35 del decreto legislativo 14 marzo 2014, n. 49, dimostrano di avere ridotto il costo di gestione di fine vita dell'AEE, possono richiedere una riduzione dell'eco-contributo secondo quanto previsto dal comma 4. La documentazione da presentare contiene le relazioni e i dati riportati nell'Allegato 1, che costituisce parte integrante del presente regolamento, ed eventuali altre informazioni che il produttore ritiene necessarie.
 
@@ -55,6 +144,31 @@ I produttori di AEE e gli operatori degli impianti di trattamento adeguato, di r
 Per favorire le azioni di promozione della cooperazione tra produttori di AEE e operatori degli impianti di trattamento adeguato e di recupero e riciclaggio, il Centro di coordinamento, di cui all'articolo 33, del decreto legislativo 14 marzo 2014, n. 49, mette a disposizione un'apposita banca dati, secondo le modalita' previste dall'articolo 27, comma 4 del decreto legislativo 14 marzo 2014, n. 49, aggiornata con le informazioni periodicamente fornite dai produttori di AEE.
 
 ## Art. 5. — Prevenzione e preparazione per il riutilizzo
+
+1.
+                    
+                        
+                            I produttori di AEE coerentemente con le misure previste dal Programma nazionale di prevenzione dei rifiuti di cui all'articolo 180, comma 1-bis, del decreto legislativo 3 aprile 2006, n. 152, favoriscono azioni volte a: 
+ 
+                        
+                        
+                            a)
+                            
+                                aumentare la durata e l'affidabilita' del prodotto; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                facilitare la manutenzione e la riparazione; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                facilitare lo sviluppo tecnico e la progettazione modulare dei prodotti.
 
 I produttori di AEE promuovono e favoriscono l'istituzione di corsi di formazione per addetti ai centri e reti accreditati di riparazione/riutilizzo di riutilizzo accreditati in conformita' all'articolo 180-bis, comma 1, lettera b), del decreto legislativo 3 aprile 2006, n. 152. I produttori di AEE sostengono la costituzione di centri e reti accreditate di riparazione e riutilizzo di AEE per garantirne il ricondizionamento. I prodotti ricondizionati, immessi sul mercato dopo 90 giorni dall'entrata in vigore del presente regolamento, sono coperti da garanzia minima di 12 mesi e riconoscibili ai consumatori finali per la presenza di un'apposita etichetta che reca l'indicazione «prodotto ricondizionato».
 

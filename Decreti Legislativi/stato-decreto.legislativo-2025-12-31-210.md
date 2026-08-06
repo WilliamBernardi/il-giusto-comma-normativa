@@ -7,8 +7,8 @@ urn: urn:nir:stato:decreto.legislativo:2025-12-31;210
 vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:32Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -25,6 +25,25 @@ Acquisiti i pareri delle competenti Commissioni della Camera dei deputati e del 
 Sulla proposta del Ministro per gli affari europei, il PNRR e le politiche di coesione e del Ministro dell'economia e delle finanze, di concerto con i Ministri degli affari esteri e della cooperazione internazionale e della giustizia;
 
 ## Art. 1. — Modifiche al decreto legislativo 21 novembre 2007, n. 231
+
+1.
+                    
+                        
+                            All'articolo 21 del decreto legislativo 21 novembre 2007, n. 231, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 2, lettera f), il primo periodo e' sostituito dai seguenti: «dietro pagamento dei diritti di segreteria di cui all'articolo 18 della legge 29 dicembre 1993, n. 580, ai soggetti privati, compresi quelli portatori di interessi diffusi, titolari di un interesse giuridico rilevante e differenziato, nei casi in cui la conoscenza della titolarita' effettiva sia necessaria per curare o difendere un interesse corrispondente a una situazione giuridicamente tutelata, qualora abbiano evidenze concrete e documentate della non corrispondenza tra titolarita' effettiva e titolarita' legale.
+L'interesse deve essere diretto, concreto e attuale e, nel caso di enti rappresentativi di interessi diffusi, non deve coincidere con l'interesse di singoli appartenenti alla categoria rappresentata.»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 5, lettera d), dopo le parole: «ai soggetti di cui» sono inserite le seguenti: «al comma 2, lettera f), e».
 
 ## Art. 2. — Clausola di invarianza finanziaria
 

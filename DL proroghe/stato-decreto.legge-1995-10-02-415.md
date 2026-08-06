@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: DL proroghe
 vigenza_date: 2006-02-02
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:39:27Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO-LEGGE
@@ -28,6 +28,81 @@ Ritenuta la straordinaria necessita' ed urgenza di emanare disposizioni concerne
 Sulla proposta del Presidente del Consiglio dei Ministri e Ministro del tesoro e del Ministro delle finanze, di concerto con il Ministro dell'interno;
 
 ## Art. 1. — Proroga di termini a favore dei soggetti residenti nelle zone colpite da alluvione nel novembre 1994
+
+1.
+                    
+                        
+                            All'articolo 6 del decreto-legge 24 novembre 1994, n. 646, convertito, con modificazioni, dalla legge 21 gennaio 1995, n. 22, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                nel comma 2, primo e secondo periodo, le parole: "30 aprile 1995" sono sostituite dalle seguenti: "31 ottobre 1995"; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                nel comma 5 le parole: "30 aprile 1995" e "5 maggio 1995" sono sostituite, rispettivamente, dalle parole: "31 ottobre 1995" e "5 novembre 1995" e le parole da: "La dichiarazione" a "5 giugno 1995" sono sostituite dalle seguenti: "Le dichiarazioni annuali dell'imposta sul valore aggiunto relative agli anni 1994 e 1995 devono essere presentate entro il 5 dicembre 1996."; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                il comma 6 e' sostituito dal seguente: " 6. I soggetti di cui ai commi 2 e 3 tenuti, alla data del 4 novembre 1994 e fino al 31 ottobre 1995, agli obblighi di liquidazione e versamento dell'imposta sul valore aggiunto, ai sensi degli articoli 27, 33 e 74, quarto comma, del decreto del presidente della Repubblica 26 ottobre 1972, n. 633, sono esonerati dai suddetti obblighi e debbono comprendere nella dichiarazione annuale dell'imposta sul valore aggiunto relativa all'anno 1994 anche le operazioni effettuate, registrate o soggette a registrazione dal 4 novembre al 31 dicembre 1994 liquidando e versando l'imposta relativa entro il 30 aprile 1996; i medesimi soggetti debbono procedere alle liquidazioni mensili ed alle liquidazioni trimestrali relative alle operazioni effettuate, registrate o soggette a registrazione dal 1 gennaio 1995 al 31 ottobre 1995, liquidando e versando l'imposta relativa entro la predetta data del 30 aprile 1996. Sono altresi' sospesi, fino alla data del 30 giugno 1996, gli obblighi di liquidazione e versamento relativi all'imposta sul valore aggiunto, ai sensi degli articoli 27, 33 e 74, quarto comma, del decreto del Presidente della Repubblica 26 ottobre 1972, n. 633. I medesimi soggetti debbono procedere alle liquidazioni mensili ed alle liquidazioni trimestrali relative alle operazioni effettuate, registrate o soggette a registrazione dal 1 novembre 1995 al 30 giugno 1996 liquidando e versando l'imposta relativa entro la data del 5 novembre 1996. Il versamento da effettuare entro la data del 30 aprile 1996 puo' essere eseguito in tre rate di uguale importo nei mesi di luglio 1996; luglio 1997; luglio 1998, e quello da effettuare entro il 5 novembre 1996 puo' essere eseguito in tre rate di uguale importo nei mesi di gennaio 1997; gennaio 1998; gennaio 1999; sugli importi rateizzati sono dovuti gli interessi al saggio legale."; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                il comma 7 e' sostituito dal seguente: " 7. I termini per la presentazione delle dichiarazioni previste dagli articoli 9, 10 e 11 del decreto del Presidente della Repubblica 29 settembre 1973, n. 600, scadenti nel periodo di sospensione previsto dal comma 2, sono prorogati al 30 novembre 1995; i versamenti dovuti in base alle predette dichiarazioni i cui termini scadono nel suddetto periodo di sospensione, devono essere eseguiti entro il 30 aprile 1996. Sono altresi' sospesi, per il periodo compreso tra il 1 novembre 1995 e il 30 giugno 1996, i versamenti dovuti in base alle dichiarazioni dei redditi previste dagli articoli 9, 10 e 11 del decreto del Presidente della Repubblica 29 settembre 1973, n. 600. Tali versamenti debbono essere eseguiti entro il 31 ottobre 1996. Il versamento da effettuare entro la data del 30 aprile 1996 puo' essere eseguito in tre rate di uguale importo nei mesi di luglio 1996; luglio 1997; luglio 1998, e quello da effettuare entro il 31 ottobre 1996 puo' essere eseguito in tre rate di uguale importo nei mesi di gennaio 1997; gennaio 1998; gennaio 1999; sugli importi rateizzati sono dovuti gli interessi al saggio legale."; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                dopo il comma 7 e' inserito il seguente: " 7-bis. Le disposizioni di cui al precedente comma si applicano anche ai soggetti che non rientrano tra quelli di cui ai commi 2 e 3, e posseggono soltanto redditi di partecipazione in societa' di persone, imprese familiari ed aziende coniugali, nonche' in gruppi europei di interesse economico destinatari delle disposizioni recate dal presente articolo, sempreche' abbiano subito danno rilevante nella misura prevista dal successivo comma 16-bis in proporzione alle quote di partecipazione. Qualora i soggetti medesimi posseggano anche altri redditi, debbono presentare la dichiarazione annuale, relativamente a detti redditi, nei normali termini di legge ed effettuare i relativi versamenti. Debbono poi produrre una successiva dichiarazione dei redditi, sostitutiva della precedente, comprensiva dei redditi o delle perdite di partecipazione con le modalita' precedentemente indicate provvedendo al versamento dell'eventuale maggiore imposta dovuta o esponendo l'eventuale credito da portare in diminuzione dagli acconti o dalle imposte dovute per la successiva dichiarazione o chiedendo rimborso dell'imposta in eccedenza."; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                dopo il comma 7-bis inserire il seguente: "7-ter. In deroga a quanto disposto dal comma 2-ter dell'articolo 3 del decreto-legge 30 settembre 1994, n. 564, convertito, con modificazioni, dalla legge 30 novembre 1994, n. 656, introdotto dall'articolo 41 del decreto-legge 23 febbraio 1995, n. 41, convertito, con modificazioni, dalla legge 22 marzo 1995, n. 85, i soggetti di cui ai commi 2 e 3, previa presentazione della certificazione di cui al comma 12, possono effettuare i versamenti delle somme dovute ai fini del perfezionamento dell'accertamento con adesione per anni pregressi senza applicazione degli interessi legali, entro il 15 dicembre 1996. 
+Qualora ricorrano le condizioni previste dall'articolo 3, comma 2-quinquies, del decreto-legge 30 settembre 1994, n. 564, convertito, con modificazioni, dalla legge 30 novembre 1994, n. 656, introdotto dall'articolo 1, comma 1, lettera b), del decreto-legge 9 agosto 1995, n. 345, le date ivi indicate del 31 marzo 1996, 30 settembre 1996 e 15 dicembre 1995 devono intendersi sostituite, rispettivamente, dalle date 31 marzo 1997, 30 settembre 1997 e 15 dicembre 1996."; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                dopo il comma 7-ter inserire il seguente: " 7-quater. Il recupero delle somme iscritte a ruolo alla data del 4 novembre 1994 e non corrisposte per effetto delle agevolazioni concesse fino al 30 giugno 1996 dovra' essere effettuato a decorrere dal mese di febbraio 1997 alle date stabilite dal decreto del Presidente della Repubblica 29 settembre 1973, n. 602."; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                il comma 11 e' sostituito dal seguente: " 11. Il versamento delle somme dovute e non corrisposte per effetto delle disposizioni di cui al presente articolo per i tributi diversi da quelli di cui ai commi 6, 7 e 7-quater, potra' avvenire mediante rateizzazione in tre anni a decorrere dal mese successivo alla scadenza delle sospensioni medesime. Sugli importi rateizzati sono dovuti gli interessi al saggio legale."; 
+
+                            
+                        
+                        
+                            i)
+                            
+                                dopo il comma 11 e' inserito il seguente: "11-bis. Con decreto del Ministro delle finanze, sono stabilite le modalita' e i termini di versamento delle somme di cui al presente articolo."; 
+
+                            
+                        
+                        
+                            l)
+                            
+                                nel comma 12-bis, primo periodo, le parole: "20 dicembre 1994" sono sostituite dalle seguenti: "30 aprile 1995".
 
 Le disposizioni del comma 1, lettera d), non si applicano ai soggetti che si avvalgono del differimento dei termini previsto dall'articolo 12-quinquies del decreto-legge 19 dicembre 1994, n. 691, convertito, con modificazioni, dalla legge 16 febbraio 1995, n. 35.
 
@@ -82,8 +157,105 @@ All'articolo 6, comma 1, del decreto-legge 24 novembre 1994, n. 646, convertito,
 ## Art. 4. — Modificazioni alla disciplina IVA in materia di autoconsumo, di
  rettifica della detrazione e di aliquota per le radiodiffusioni.
 
+1.
+                    
+                        
+                            Al decreto-legge 23 febbraio 1995, n. 41, convertito, con modificazioni, dalla legge 22 marzo 1995, n. 85, sono apportate le seguenti modificazioni:
+ 
+                        
+                        
+                            a)
+                            
+                                nell'articolo 10, comma 2, lettera b), numero 2-bis), dopo le parole "prosciutto cotto", sono aggiunte le seguenti: "(v.d. ex 16.02)";
+
+                            
+                        
+                        
+                            b)
+                            
+                                l'articolo 16-bis e' sostituito dal seguente:
+ "Art. 16-bis (Modifiche in materia di autoconsumo e di rettifica della detrazione IVA). - 1. Al decreto del Presidente della Repubblica 26 ottobre 1972, n. 633, sono apportate le seguenti modificazioni:
+ a) nell'articolo 2, secondo comma, il numero 4) e' sostituito dal seguente:
+ '4) le cessioni gratuite di beni ad esclusione di quelli la cui produzione o il cui commercio non rientra nell'attivita' propria dell'impresa se di costo unitario non superiore a lire cinquantamila e di quelli per i quali non sia stata operata, all'atto dell'acquisto o dell'importazione, la detrazione dell'imposta a norma dell'articolo 19, anche se per effetto dell'opzione di cui all'articolo 36-bis;';
+ b) nell'articolo 3, terzo comma, e' premesso il seguente periodo: 'Le prestazioni indicate nei commi primo e secondo sempreche' l'imposta afferente agli acquisti di beni e servizi relativi alla loro esecuzione sia detraibile, costituiscono per ogni operazione di valore superiore a lire cinquantamila prestazioni di servizi anche se effettuate per l'uso personale o familiare dell'imprenditore, ovvero a titolo gratuito per altre finalita' estranee all'esercizio dell'impresa, ad esclusione delle somministrazioni nelle mense aziendali e delle prestazioni di trasporto, didattiche, educative e ricreative, di assistenza sociale e sanitaria, a favore del personale dipendente ((, nonche' delle operazioni di divulgazione pubblicitaria svolte a beneficio delle attivita' istituzionali di enti e associazioni che senza scopo di lucro perseguono finalita' educative, culturali, sportive, religiose e di assistenza e solidarieta' sociale, e delle diffusioni di messaggi, rappresentazioni, immagini o comunicazioni di pubblico interesse richieste o patrocinate dallo Stato o da enti pubblici)).';
+ c) nell'articolo 6, terzo comma, e' aggiunto, in fine, il seguente periodo: 'Quelle indicate nell'articolo 3, terzo comma, primo periodo, si considerano effettuate al momento in cui sono rese, ovvero, se di carattere periodico o continuativo, nel mese successivo a quello in cui sono rese.';
+ ((d) nell'articolo 13, secondo comma, la lettera c) e' sostituita dalla seguente:
+ 'c) per le cessioni indicate ai numeri 4), 5) e 6) del secondo comma dell'articolo 2, per le cessioni di beni e per le prestazioni di servizi effettuate per estinguere precedenti obbligazioni e per quelle di cui all'articolo 3, terzo comma, primo periodo, dal valore normale dei beni e delle prestazioni; per le assegnazioni di cui all'articolo 3, terzo comma, secondo periodo, dalle spese sostenute dal soggetto passivo per la prestazione dei servizi'));
+ e) nell'articolo 18, il terzo comma e' sostituito dal seguente:
+ 'La rivalsa non e' obbligatoria per le cessioni di cui ai numeri 4) e 5) del secondo comma dell'articolo 2 e per le prestazioni di servizi di cui al terzo comma, primo periodo, dell'articolo 3.';
+ f) nell'articolo 19-bis, sesto comma, dopo le parole 'Se i beni ammortizzabili' sono inserite le seguenti: 'o comunque gli immobili'.";
+
+                            
+                        
+                        
+                            c)
+                            
+                                all'articolo 34, comma 5, le parole "di cui all'ultimo periodo dei commi 2 e 3 per i casi ivi previsti" sono sostituite dalle seguenti: "di cui all'ultimo periodo del comma 2 e agli ultimi due periodi del comma 3 per i casi ivi previsti";
+
+                            
+                        
+                        
+                            d)
+                            
+                                nell'articolo 35, comma 1, al primo e al secondo periodo, le parole "31 maggio 1995" sono sostituite dalle seguenti: "((20 dicembre 1995))"; al terzo periodo, le parole "all'ultimo periodo" sono sostituite dalle seguenti: "agli ultimi due periodi";
+
+                            
+                        
+                        
+                            e)
+                            
+                                all'articolo 36, sono apportate le seguenti modificazioni:
+ ((1) al comma 5, lettera b), dopo le parole: "prodotti editoriali" sono aggiunte le seguenti: "di antiquariato"; nel medesimo comma 5, dopo la lettera b), sono aggiunte le seguenti:
+ "b-bis al 25 per cento del prezzo di vendita per le cessioni di prodotti editoriali diversi da quelli di antiquariato;
+ b-ter al 50 per cento del prezzo di vendita per le cessioni di francobolli da collezione e di collezioni di francobolli nonche' di parti, pezzi di ricambio o componenti derivanti dalla demolizione di mezzi di trasporto o di apparecchiature elettromeccaniche"));
+ 2) al comma 6, le parole "Il margine di cui al comma 1 e' determinato globalmente" sono sostituite dalle seguenti: "Salva l'opzione per la determinazione del margine ai sensi del comma 1 da comunicare con le modalita' indicate al comma 8, il margine e' determinato globalmente"; nello stesso comma: le parole "lettera b)" sono sostituite dalle seguenti: (("lettere b), b-bis) e b-ter)"; la parola: "francobolli" e le parole: "di parti, pezzi di ricambio o componenti derivanti dalla demolizione di mezzi di trasporto o di apparecchiature elettromeccaniche," sono soppresse;)) le parole "di libri" sono sostituite dalle seguenti: "di prodotti editoriali di antiquariato"; sono aggiunte, in fine, le seguenti parole: "nell'ipotesi di applicazione del margine globale";
+ 3) al comma 10, le parole "Agli effetti della presente sezione" sono sostituite dalle seguenti: "Negli scambi intracomunitari tra soggetti passivi di imposta che applicano il regime del margine"; nello stesso comma, secondo periodo, dopo le parole "mezzi di trasporto usati" sono inserite le seguenti: "da chiunque";
+
+                            
+                        
+                        
+                            f)
+                            
+                                all'articolo 40, comma 1, primo periodo, sono soppresse le parole: "acquistati o importati a decorrere dalla stessa data"; nello stesso comma, ultimo periodo, le parole "entro tre mesi" sono sostituite dalle seguenti: "entro cinque mesi";
+
+                            
+                        
+                        
+                            g)
+                            
+                                all'articolo 46, comma 1, capoverso 3-bis) , le parole "entro il" sono sostituite dalle seguenti: "entro i venti giorni successivi al".
+
 Nell'articolo 10 del decreto del Presidente della Repubblica 26 ottobre 1972, n. 633, il numero 15) e' sostituito dal seguente:
  "15) le prestazioni di trasporto di malati o feriti con veicoli all'uopo equipaggiati, effettuate da imprese autorizzate;".
+
+3.
+                    
+                        
+                            Alla tabella A, parte seconda, allegata al decreto del Presidente della Repubblica 26 ottobre 1972, n. 633, sono apportate le seguenti modificazioni:
+ 
+                        
+                        
+                            a)
+                            
+                                nel numero 9), dopo le parole "ex 10.07" sono aggiunte le seguenti: ", ex 21.07.02";
+
+                            
+                        
+                        
+                            b)
+                            
+                                il numero 31) e' sostituito dal seguente:
+ "31) poltrone e veicoli simili per invalidi anche con motore o altro meccanismo di propulsione (v.d. 87.11), intendendosi compresi i servoscala e altri mezzi simili atti al superamento di barriere architettoniche per soggetti con ridotte o impedite capacita' motorie ((nonche' le prestazioni rese da officine per adattare i veicoli dei titolari di patenti speciali e relativi accessori e strumenti montati sul veicolo)); veicoli di cilindrata fino a 2000 centimetri cubici, se con motore a benzina, e a 2500 centimetri cubici, se con motore diesel, adattati ad invalidi, titolari di patente F per ridotte o impedite capacita' motorie;";
+
+                            
+                        
+                        
+                            c)
+                            
+                                
+                                    ((LETTERA SOPPRESSA DALLA L. 29 NOVEMBRE 1995, N. 507));
+ ((3-bis) Alla tabella A, parte terza, allegata al decreto del Presidente della Repubblica 26 ottobre 1972, n. 633, e succesive modificazioni, dopo il numero 123-bis) e' inserito il seguente:
+"123-ter canoni di abbonamento alle radiodiffusioni circolari trasmesse in forma codificata")).
 
 Le disposizioni del comma 1, lettere a) e b), e quelle dei commi 2 e 3 si applicano dal 24 marzo 1995 ((ad eccezione delle disposizioni di cui al comma 3, lettera b-bis), che si applicano dal 1 gennaio 1996. Le disposizioni di cui al comma 3-bis si applicano dal 1 gennaio 1996)).
 
@@ -102,6 +274,56 @@ Alla tabella A, parte seconda, allegata al decreto del Presidente della Repubbli
 
 ## Art. 5. — Altre disposizioni fiscali urgenti e di contenimento della spesa
  pubblica
+
+1.
+                    
+                        
+                            Al decreto-legge 23 febbraio 1995, n. 41, convertito, con modificazioni, dalla legge 22 marzo 1995, n. 85, sono apportate le seguenti modificazioni:
+ 
+                        
+                        
+                            a)
+                            
+                                nell'articolo 17, comma 6, le parole "a decorrere dal 1 gennaio 1996" sono soppresse; nel comma 8 dello stesso articolo il primo periodo e' sostituito dal seguente: "L'aliquota d'imposta stabilita nel comma 6, lettera a), si applica a decorrere dalle fatture emesse dal 1 gennaio 1996 e quelle stabilite nei commi 4, 5 e 6, lettera b), si applicano a partire dalle fatturazioni emesse dalla data di entrata in vigore del presente decreto, limitatamente ai consumi attribuibili, su base giornaliera, al periodo successivo alla data di applicazione delle predette aliquote, considerando costante il consumo nel periodo.";
+
+                            
+                        
+                        
+                            b)
+                            
+                                all'articolo 19-bis, sono apportate le seguenti modificazioni:
+ 1) nel comma 3, dopo le le parole "31 dicembre 1994", ovunque ricorrano, sono aggiunte le seguenti: "ovvero a condizione che, entro i termini stabiliti, siano stati eseguiti versamenti delle imposte dichiarate e a condizione che vengano presentate le relative dichiarazioni entro il 30 giugno 1995";
+ 2) nel comma 5, primo periodo, alla lettera c), le parole: "fondo di dotazione inferiore a" sono sostituite dalle seguenti: "fondo di dotazione, come risultante dall'ultimo bilancio approvato, fino a"; e al medesimo comma 5, lettera d), le parole: "fondo di dotazione" sono sostituite dalle seguenti: "fondo di dotazione, come risultante dall'ultimo bilancio approvato,";
+ 2-bis) dopo il comma 5 e' inserito il seguente:
+ "5-bis. Le sanzioni amministrative previste dall'articolo 44 del decreto del Presidente della Repubblica 26 ottobre 1972, n. 633, e successive modificazioni, e dall'articolo 92 del decreto del Presidente della Repubblica 29 settembre 1973, n. 602, e successive modificazioni, non si applicano ai contribuenti e ai sostituti d'imposta che hanno provveduto entro il 31 dicembre 1994 al pagamento delle imposte o delle ritenute dovute a tale data risultanti dalle dichiarazioni annuali e dalle dichiarazioni o liquidazioni periodiche dell'imposta sul valore aggiunto relative ai periodi di imposta il cui termine per la presentazione della dichiarazione annuale e' scaduto anteriormente alla data predetta. Su istanza degli interessati gli uffici delle imposte provvedono allo sgravio delle soprattasse iscritte a ruolo non ancora pagate alla data del 10 aprile 1995 o al rimborso di quelle pagate a partire dalla data medesima. Se le imposte e le ritenute non versate sono state iscritte in ruoli emessi al 31 dicembre 1994, la soprattassa non e' dovuta limitatamente alle rate non ancora scadute alla data del 10 aprile 1995 a condizione che le imposte e le ritenute non versate iscritte a ruolo siano state pagate o vengano pagate alle relative scadenze del ruolo";
+
+                            
+                        
+                        
+                            c)
+                            
+                                nell'articolo 2, commi 2 e 6, le parole "decorrenti da esercizi precedenti" sono soppresse. Al relativo onere, pari a lire 11.010 milioni per l'anno 1995 e a lire 23.010 milioni per ciascuno degli anni 1996 e 1997, si provvede, quanto a lire 3.000 milioni per il 1995 ed a lire 6.000 milioni per ciascuno degli anni 1996 e 1997, mediante riduzione dello stanziamento iscritto, ai fini del bilancio triennale 1995-1997, sul capitolo 6856 dello stato di previsione del Ministero del tesoro per il 1995, all'uopo utilizzando parte dell'accantonamento relativo alla Presidenza del Consiglio dei Ministri e, quanto a lire 8.010 milioni per l'anno 1995 ed a lire 17.010 milioni per ciascuno degli anni 1996 e 1997, mediante riduzione dello stanziamento iscritto, ai fini del bilancio triennale 1995-1997, sul capitolo 9001 del medesimo stato di previsione per il 1995, all'uopo utilizzando, quanto a lire 8.010 milioni per l'anno 1995, parte dell'accantonamento relativo al Ministero dell'industria, del commercio e dell'artigianato e, quanto a lire 17.010 milioni per ciascuno degli anni 1996 e 1997, parte dell'accantonamento relativo al Ministero dei lavori pubblici. Il Ministro del tesoro e' autorizzato ad apportare, con propri decreti, le occorrenti variazioni di bilancio.
+
+                            
+                        
+                        
+                            c-bis)
+                            
+                                all'articolo 21, comma 3, primo periodo, le parole: "31 ottobre 1995" sono sostituite dalle seguenti: "20 dicembre 1995";
+
+                            
+                        
+                        
+                            c-ter)
+                            
+                                all'articolo 22, comma 11, secondo periodo, le parole: "31 ottobre 1995" sono sostituite dalle seguenti: "20 dicembre 1995";
+
+                            
+                        
+                        
+                            c-quater)
+                            
+                                all'articolo 23, comma 5, secondo periodo, le parole: "31 ottobre 1995" sono sostituite dalle seguenti: "20 dicembre 1995".
 
 All'articolo 2, quarto comma, della legge 23 marzo 1977, n. 97, e successive modificazioni, e' aggiunta, in fine, la seguente lettera:
  "b-bis) quando, essendo stata presentata dai coniugi dichiarazione congiunta, l'acconto conformemente alle risultanze di tale dichiarazione, sia stato omesso o versato in misura inferiore rispetto all'imposta dovuta da parte di uno dei coniugi, nel caso in cui nell'anno successivo uno o ambedue i coniugi presentino dichiarazione separata, rispettivamente, a causa del decesso dell'altro coniuge o di separazione legale ed effettiva, ovvero qualora, a partire dal 1993, siano state presentate dichiarazioni separate per fruire dell'assistenza fiscale di cui all'articolo 78 della legge 30 dicembre 1991, n. 413".

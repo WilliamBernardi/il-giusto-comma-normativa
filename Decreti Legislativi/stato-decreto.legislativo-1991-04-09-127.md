@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
 vigenza_date: 2025-08-10
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:31Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -427,6 +427,24 @@ Lo stesso obbligo, hanno gli enti di cui all'art. 2201 del codice civile, le soc
 
 Agli effetti dell'art. 25 sono considerate imprese controllate quelle indicate nei numeri 1) e 2) del primo comma dell'art. 2359 del codice civile.
 
+2.
+                        
+                            
+                                Agli stessi effetti sono in ogni caso considerate controllate: 
+ 
+                            
+                            
+                                a)
+                                
+                                    le imprese su cui un'altra ha il diritto, in virtu' di un contratto o di una clausola statutaria, di esercitare un'influenza dominante, quando la legge applicabile consenta tali contratti o clausole; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le imprese in cui un'altra, in base ad accordi con altri soci, controlla da sola la maggioranza dei diritti di voto.
+
 Ai fini dell'applicazione del comma precedente si considerano anche i diritti spettanti a societa' controllate, a societa' fiduciarie e a persone interposte; non si considerano quelli spettanti per conto di terzi.
 
 ((3-bis. Ai medesimi fini dei commi 1 e 2, la totalita' dei diritti di voto dei soci dell'impresa partecipata e' ridotta dei diritti di voto inerenti alle azioni o alle quote proprie detenute dall'impresa partecipata stessa, o da una sua controllata, o detenute da terzi per conto di tali imprese.))
@@ -444,6 +462,31 @@ Ai fini dell'applicazione del comma precedente si considerano anche i diritti sp
 
 ## Art. 27. — Casi di esonero dall'obbligo di redazione del bilancio consolidato
 
+1.
+                        
+                            
+                                Non sono soggette all'obbligo indicato nell'art. 25 le imprese controllanti che, unitamente alle imprese controllate, non abbiano superato, su base consolidata, per due esercizi consecutivi, due dei seguenti limiti: (15) 
+ 
+                            
+                            
+                                a)
+                                
+                                    25.000.000 euro nel totale degli attivi degli stati patrimoniali; (13) (16) ((17))
+                                    
+                                
+                            
+                            
+                                b)
+                                
+                                    50.000.000 euro nel totale dei ricavi delle vendite e delle prestazioni; (13) (16) ((17))
+                                    
+                                
+                            
+                            
+                                c)
+                                
+                                    250 dipendenti occupati in media durante l'esercizio.
+
 La verifica del superamento dei limiti numerici indicati al comma 1 puo' essere effettuata su base aggregata senza effettuare le operazioni di consolidamento. In tale caso, i limiti numerici indicati al comma 1, lettere a) e b), sono maggiorati del 20 per cento. (15)
 
 L'esonero previsto dal comma 1 non si applica se l'impresa controllante o una delle imprese controllate e' un ente di interesse pubblico ai sensi dell'articolo 16 del decreto legislativo 27 gennaio 2010, n. 39 ovvero un ente sottoposto a regime intermedio ai sensi dell'articolo 19-ter del medesimo decreto legislativo. (13) (15)
@@ -451,6 +494,24 @@ L'esonero previsto dal comma 1 non si applica se l'impresa controllante o una de
 Non sono inoltre soggette all'obbligo indicato nell'art. 25 le imprese a loro volta controllate quando la controllante sia titolare di oltre il novantacinque per cento delle azioni o quote dell'impresa controllata ovvero, in difetto di tale condizione, quando la redazione del bilancio consolidato non sia richiesta almeno sei mesi prima della fine dell'esercizio da tanti soci che rappresentino almeno il 5% del capitale.
 
 Non sono altresi' soggette all'obbligo indicato nell'articolo 25 le imprese che controllano solo imprese che, individualmente e nel loro insieme, sono irrilevanti ai fini indicati nel secondo comma dell'articolo 29, nonche' le imprese che controllano solo imprese che possono essere escluse dal consolidamento ai sensi dell'articolo 28. (13)
+
+4.
+                        
+                            
+                                L'esonero previsto dal comma 3 e' subordinato alle seguenti condizioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    che l'impresa controllante, soggetta al diritto di uno Stato membro dell'Unione europea, rediga e sottoponga a controllo il bilancio consolidato secondo il presente decreto ovvero secondo il diritto di altro Stato membro dell'Unione europea o in conformita' ai principi contabili internazionali adottati dall'Unione europea, fermi restando gli obblighi di cui all'articolo 4 del decreto legislativo adottato in attuazione dell'articolo 13 della legge 21 febbraio 2024, n. 15; (13) (16) ((17))
+                                    
+                                
+                            
+                            
+                                b)
+                                
+                                    che l'impresa controllata non abbia emesso valori mobiliari ammessi alla negoziazione in mercati regolamentati italiani o dell'Unione europea. (13)
 
 Le ragioni dell'esonero devono essere indicate nella nota integrativa al bilancio di esercizio. Nel caso previsto dal terzo comma, la nota integrativa deve altresi' indicare la denominazione e la sede della societa' controllante che redige il bilancio consolidato; copia dello stesso, della relazione sulla gestione e di quella dell'organo di controllo, redatti in lingua italiana o nella lingua comunemente utilizzata negli ambienti della finanza internazionale, devono essere depositati presso l'ufficio del registro delle imprese del luogo ove e' la sede dell'impresa controllata. (13) 
 (VII Direttiva, articoli 6, 7, 8, 9 e 11).
@@ -492,6 +553,40 @@ Le ragioni dell'esonero devono essere indicate nella nota integrativa al bilanci
 ## Art. 28. — Casi di esclusione dal consolidamento
 
 COMMA ABROGATO DAL D.LGS. 2 FEBBRAIO 2007, N. 32.
+
+2.
+                        
+                            
+                                Possono essere escluse dal consolidamento le imprese controllate quando: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la loro inclusione sarebbe irrilevante ai fini indicati nel secondo comma dell'art. 29, sempre che il complesso di tali esclusioni non contrasti con i fini suddetti; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'esercizio effettivo dei diritti della controllante e' soggetto a gravi e durature restrizioni; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    
+                                        ((in casi eccezionali,)) non e' possibile ottenere tempestivamente, o senza spese sproporzionate, le necessarie informazioni; ((13))
+                                    
+                                
+                            
+                            
+                                d)
+                                
+                                    le loro azioni o quote sono possedute esclusivamente allo scopo della successiva alienazione. 
+(VII Direttiva, articoli 13 e 14).
 
 ----------
                             AGGIORNAMENTO (13)
@@ -538,6 +633,38 @@ Se la data di chiusura dell'esercizio di un'impresa inclusa nel consolidamento e
 ## Art. 31. — Principi di consolidamento
 
 Nella redazione del bilancio consolidato gli elementi dell'attivo e del passivo nonche' i proventi e gli oneri delle imprese incluse nel consolidamento sono ripresi integralmente.
+
+2.
+                        
+                            
+                                Sono invece eliminati: 
+ 
+                            
+                            
+                                a)
+                                
+                                    le partecipazioni in imprese incluse nel consolidamento e le corrispondenti frazioni del patrimonio netto di queste; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    i crediti e i debiti tra le imprese incluse nel consolidamento; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    i proventi e gli oneri relativi ad operazioni effettuate fra le imprese medesime; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    gli utili e le perdite conseguenti ad operazioni effettuate tra tali imprese e relative a valori compresi nel patrimonio, diversi da lavori in corso su ordinazione di terzi.
 
 Possono non essere eliminati, indicandone il motivo nella nota integrativa: gli importi ((...)) di cui alla lettera d) relativi ad operazioni correnti dell'impresa, concluse a normali condizioni di mercato, se la loro eliminazione comporta costi sproporzionati. ((13))
 
@@ -629,6 +756,167 @@ In tal caso l'inclusione nel consolidamento avviene secondo il criterio della pr
 
 ## Art. 38. — Contenuto della nota integrativa
 
+1.
+                        
+                            
+                                La nota integrativa deve indicare, oltre a quanto stabilito da altre disposizioni del presente decreto: 
+ 
+                            
+                            
+                                a)
+                                
+                                    i criteri di valutazioni applicati; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    i criteri e i tassi applicati nella conversione dei bilanci espressi in moneta non avente corso legale nello Stato; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    le ragioni delle piu' significative variazioni intervenute nella consistenza delle ((altre)) voci dell'attivo e del passivo; ((13))
+                                    
+                                
+                            
+                            
+                                d)
+                                
+                                    la composizione delle voci "costi di impianto e ampliamento" e (("costi di sviluppo")); ((13))
+                                    
+                                
+                            
+                            
+                                e)
+                                
+                                    distintamente per ciascuna voce, l'ammontare dei crediti e dei debiti di durata residua superiore a cinque anni, e dei debiti assistiti da garanzie reali su beni di imprese incluse nel consolidamento, con specifica indicazione della natura delle garanzie; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    la composizione delle voci "ratei e risconti" e della voce "altri accantonamenti" dello stato patrimoniale, ((...)); ((13))
+                                    
+                                
+                            
+                            
+                                g)
+                                
+                                    l'ammontare degli oneri finanziari imputati nell'esercizio ai valori iscritti nell'attivo dello stato patrimoniale, distintamente per ciascuna voce; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    
+                                        ((...)) la suddivisione dei ricavi delle vendite e delle prestazioni secondo categorie di attivita' e secondo aree geografiche; ((13))
+                                    
+                                
+                            
+                            
+                                l)
+                                
+                                    la suddivisione degli interessi e degli altri oneri finanziari tra prestiti obbligazionari, debiti verso banche ed altri; 
+
+                                
+                            
+                            
+                                n)
+                                
+                                    il numero medio, suddiviso per categorie, dei dipendenti delle imprese incluse nel consolidamento, con separata indicazione di quello relativo alle imprese incluse ai sensi dell'art. 37; 
+
+                                
+                            
+                            
+                                o-bis)
+                                
+                                    
+                                        ((LETTERA ABROGATA DAL D.LGS. 18 AGOSTO 2015, N. 139)); ((13))
+                                    
+                                
+                            
+                            
+                                o-ter)
+                                
+                                    per ciascuna categoria di strumenti finanziari derivati:  ((1) il loro fair value;))
+                                        ((13))
+                                        ((2) informazioni sulla loro entita' e sulla loro natura, compresi i termini e le condizioni significative che possono influenzare l'importo, le scadenze e la certezza dei flussi finanziari futuri;))
+                                        ((13))
+                                        ((2-bis) gli assunti fondamentali su cui si basano i modelli e le tecniche di valutazione, qualora il fair value non sia stato determinato sulla base di evidenze di mercato;))
+                                        ((13))
+                                        ((2-ter) le variazioni di valore iscritte direttamente nel conto economico, nonche' quelle imputate alle riserve di patrimonio netto;))
+                                        ((13))
+                                        ((2-quater) una tabella che indichi i movimenti delle riserve di fair value avvenuti nell'esercizio;))
+                                        ((13))
+                                    
+                                
+                            
+                            
+                                o-quater)
+                                
+                                    per le immobilizzazioni finanziarie iscritte a un valore superiore al loro fair value, con esclusione delle partecipazioni in societa' controllate e collegate ai sensi dell'articolo 2359 del codice civile e delle partecipazioni in joint venture: 
+ 1) il valore contabile e il fair value delle singole attivita', o di appropriati raggruppamenti di tali attivita'; 
+ 2) i motivi per i quali il valore contabile non e' stato ridotto, inclusa la natura degli elementi sostanziali sui quali si basa il convincimento che tale valore possa essere recuperato; 
+
+                                
+                            
+                            
+                                o-quinquies)
+                                
+                                    le operazioni realizzate con parti correlate, precisando l'importo, la natura del rapporto e ogni altra informazione necessaria per la comprensione del bilancio relativa a tali operazioni, qualora ((...)) e non siano state concluse a normali condizioni di mercato. Le informazioni relative alle singole operazioni possono essere aggregate secondo la loro natura, salvo quando la loro separata evidenza sia necessaria per comprendere gli effetti delle operazioni medesime sulla situazione patrimoniale e finanziaria e sul risultato economico consolidati; ((13))
+                                    
+                                
+                            
+                            
+                                o-sexies)
+                                
+                                    la natura e l'obiettivo economico di accordi non risultanti dallo stato patrimoniale, con indicazione del loro effetto patrimoniale, finanziario ed economico, a condizione che i rischi e i benefici da essi derivanti siano significativi e l'indicazione degli stessi sia necessaria per valutare la situazione patrimoniale e finanziaria e il risultato economico consolidati. 
+
+                                
+                            
+                            
+                                o-septies)
+                                
+                                    separatamente, l'importo dei corrispettivi spettanti al revisore legale o alla societa' di revisione legale per la revisione dei conti consolidati, per gli altri servizi di verifica, per i servizi di consulenza fiscale e per altri servizi diversi dalla revisione legale forniti al gruppo.
+
+2.
+                        
+                            
+                                La nota integrativa deve inoltre contenere: 
+ 
+                            
+                            
+                                a)
+                                
+                                    l'elenco delle imprese incluse nel consolidamento col metodo integrale ai sensi dell'art. 26; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'elenco delle imprese incluse nel consolidamento col metodo proporzionale ai sensi dell'art. 37; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    l'elenco delle partecipazioni valutate con il metodo del patrimonio netto ai sensi del comma 1 dell'art. 36; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    l'elenco delle altre partecipazioni in imprese controllate e collegate.
+
 Ai fini dell'applicazione del comma 1, lettere o-ter), o-quater) e o-quinquies) e dell'articolo 40, comma 2, lettera d-bis), per le definizioni di "strumento finanziario", "strumento finanziario derivato", "fair value" e "parte correlata" si fa riferimento ai principi contabili internazionali adottati dall'Unione europea.
 
 -------------
@@ -638,7 +926,32 @@ Ai fini dell'applicazione del comma 1, lettere o-ter), o-quater) e o-quinquies) 
 
 ## Art. 39. — Elenchi delle imprese incluse nel bilancio consolidato e delle partecipazioni
 
+1.
+                        
+                            
+                                Gli elenchi previsti nell'art. 38, comma 2, devono indicare per ciascuna impresa: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la denominazione, la sede e il capitale; 
 
+                                
+                            
+                            
+                                b)
+                                
+                                    le quote possedute, direttamente o per il tramite di societa' fiduciarie o per interposta persona, dalla controllante e da ciascuna delle controllate; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    se diversa, la percentuale dei voti complessivamente spettanti nell'assemblea ordinaria.
+
+((1-bis. L'elenco previsto dall'articolo 38, comma 2, lettera d), deve altresi' indicare, per ciascuna impresa, l'importo del patrimonio netto e dell'utile o della perdita risultante dall'ultimo bilancio approvato. Tali informazioni possono essere omesse quando l'impresa controllata non e' tenuta a pubblicare il suo stato patrimoniale in base alle disposizioni della legge nazionale applicabile))
 
 ((15))
 
@@ -660,6 +973,23 @@ Il bilancio consolidato deve essere corredato da una relazione degli amministrat
 
 L'analisi di cui al comma 1 e' coerente con l'entita' e la complessita' degli affari dell'insieme delle imprese incluse nel bilancio consolidato e contiene, nella misura necessaria alla comprensione della situazione dell'insieme delle imprese incluse nel consolidamento e dell'andamento e del risultato della loro gestione, gli indicatori di risultato finanziari e, se del caso, quelli di sostenibilita' pertinenti alle attivita' specifiche delle imprese, comprese le informazioni attinenti all'ambiente e al personale.
 L'analisi contiene, ove opportuno, riferimenti agli importi riportati nel bilancio consolidato e chiarimenti aggiuntivi su di essi. Per le imprese di grandi dimensioni e per le piccole e medie imprese, a eccezione delle micro-imprese, i cui valori mobiliari sono ammessi alla negoziazione su mercati regolamentati, l'analisi di cui al comma 1 e', altresi', corredata delle informazioni sulle risorse immateriali essenziali e spiega in che modo il modello aziendale dell'impresa e del gruppo dipende fondamentalmente da tali risorse e come tali risorse costituiscono una fonte di creazione del valore per l'impresa e per il gruppo. Tali ultime informazioni sono inserite nella relazione sulla gestione. (16) ((17))
+
+2.
+                        
+                            
+                                Dalla relazione devono in ogni caso risultare: 
+ 
+                            
+                            
+                                a)
+                                
+                                    le attivita' di ricerca e di sviluppo; 
+ b)LETTERA ABROGATA DAL D.LGS. 18 AGOSTO 2015, N. 139;(13) 
+ c) l'evoluzione prevedibile della gestione; 
+ d) il numero e il valore nominale delle azioni o quote dell'impresa controllante possedute da essa o da imprese controllate, anche per il tramite di societa' fiduciarie o per interposta persona, con l'indicazione della quota di capitale corrispondente. 
+ d-bis) in relazione all'uso da parte delle imprese incluse nel bilancio consolidato di strumenti finanziari e se rilevanti per la valutazione della situazione patrimoniale e finanziaria e del risultato economico dell'esercizio complessivi: 
+ 1) gli obiettivi e le politiche delle imprese in materia di gestione del rischio finanziario, comprese le loro politiche di copertura per ciascuna principale categoria di operazioni previste; 
+ 2) l'esposizione delle imprese al rischio di prezzo, al rischio di credito, al rischio di liquidita' e al rischio di variazione dei flussi finanziari.
 
 La relazione di cui al comma 1 e la relazione di cui all'articolo 2428 del codice civile possono essere presentate in un unico documento, dando maggiore rilievo, ove opportuno, alle questioni che sono rilevanti per il complesso delle imprese incluse nel consolidamento.
 

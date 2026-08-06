@@ -7,8 +7,8 @@ urn: urn:nir:stato:decreto.del.presidente.della.repubblica:2019-05-22;67
 vigente: true
 source: normattiva-opendata
 collection: DPR
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:47:53Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -29,6 +29,24 @@ Udito il parere del Consiglio di Stato, espresso dalla Sezione consultiva per gl
 Su proposta del Presidente del Consiglio dei ministri, di concerto con i Ministri per i beni e le attivita' culturali, dell'istruzione, dell'universita' e della ricerca e dell'economia e delle finanze;
 
 ## Art. 1. — Compiti e funzioni del Comitato promotore delle celebrazioni ovidiane
+
+1.
+                    
+                        
+                            Il Comitato promotore delle celebrazioni ovidiane, di seguito denominato «Comitato promotore»: 
+ 
+                        
+                        
+                            a)
+                            
+                                promuove, valorizza e diffonde, in Italia e all'estero, la conoscenza della vita e dell'opera di Ovidio anche attraverso gli interventi e le iniziative di cui all'articolo 2 della legge 29 dicembre 2017, n. 226, negli anni 2017, 2018 o 2019, conclusi ovvero di cui e' prevista la conclusione entro il 31 dicembre 2019, avvalendosi del contributo straordinario di cui all'articolo 4 della suddetta legge; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                redige un programma delle attivita', ne monitora l'attuazione e individua i soggetti attuatori di ogni specifica attivita'.
 
 Il Comitato promotore e' convocato dal suo presidente. La prima seduta ha luogo entro dieci giorni dalla data di entrata in vigore del presente regolamento. Nella prima seduta sono definite le modalita' operative di funzionamento del Comitato stesso. Delle riunioni del Comitato promotore e' redatto verbale.
 
@@ -73,9 +91,98 @@ Le spese di funzionamento di cui al comma 2 non possono comunque superare la mis
 
 Sulla base degli indirizzi generali del Comitato scientifico e della propria istruttoria, il Comitato promotore redige il programma delle attivita' e individua gli interventi di cui all'articolo 2, comma 1, della legge n. 226 del 2017, rientranti nei progetti di promozione, ricerca, tutela e diffusione della conoscenza della vita, dell'opera e dei luoghi legati alla figura di Ovidio, riconosciuti meritevoli di finanziamento.
 
+2.
+                    
+                        
+                            Con riferimento agli interventi di recupero edilizio e riorganizzazione dei luoghi di cui all'articolo 2, comma 1, lettera c), della legge n. 226 del 2017: 
+ 
+                        
+                        
+                            a)
+                            
+                                rilevano le iniziative concernenti i luoghi situati nella Citta' di Sulmona e negli altri Comuni di Bugnara, Campo di Giove, Cansano, Corfinio, Introdacqua, Pacentro, Pettorano sul Gizio, Pratola Peligna, Prezza, Raiano, Roccacasale, in quanto appartenenti alla Valle Peligna; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                per «minimi aumenti di volumetria» si intendono gli scostamenti dai parametri autorizzati di altezza, distacchi, cubatura o superficie coperta inferiori o uguali alla soglia minima di rilevanza di misura in materia edilizia, pari al 2 per cento delle misure progettuali per singola unita' immobiliare, ai sensi dell'articolo 34, comma 2-ter, del decreto del Presidente della Repubblica 6 giugno 2001, n. 380.
+
 Entro il termine di venti giorni dalla data di entrata in vigore del presente regolamento, i soggetti interessati a sottoporre a valutazione attivita' e iniziative ritenute meritevoli di finanziamento in base alla legge n. 226 del 2017 possono inoltrare segnalazione al Comitato promotore esclusivamente a mezzo di posta elettronica certificata (PEC) all'indirizzo celebrazioniovidiane@pec.governo.it, indicando il soggetto beneficiario del contributo e ogni altra informazione utile a individuare l'intervento segnalato.
 
 Il Comitato promotore trasmette al Comitato scientifico le segnalazioni pervenute ai fini della formulazione degli indirizzi generali da parte del medesimo Comitato scientifico.
+
+5.
+                    
+                        
+                            Per consentire l'espletamento della fase istruttoria di competenza del Comitato promotore, su richiesta del medesimo Comitato e a pena di inammissibilita', i soggetti beneficiari provvedono a inoltrare i documenti di seguito indicati: 
+ 
+                        
+                        
+                            a)
+                            
+                                relazione generale attestante la tipologia e le caratteristiche dell'intervento individuato ai sensi dell'articolo 2 della legge n. 226 del 2017, il costo complessivo e il piano finanziario con indicazione delle specifiche coperture ed evidenza di eventuali cofinanziamenti, i beneficiari diretti e indiretti, i tempi di esecuzione, le aree interessate dallo svolgimento dell'intervento; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                il cronoprogramma relativo ai tempi di realizzazione dell'intervento; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                l'attestazione riguardante lo stato di avanzamento aggiornato dell'intervento; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                la documentazione attestante, ove necessario, il possesso delle autorizzazioni necessarie e la conformita' alla normativa urbanistica, di tutela del patrimonio culturale e del paesaggio e ambientale o l'eventuale avanzamento dei procedimenti in corso per il relativo rilascio.
+
+6.
+                    
+                        
+                            Il Comitato promotore, ai fini della individuazione degli interventi meritevoli di finanziamento, applica i seguenti criteri: 
+ 
+                        
+                        
+                            a)
+                            
+                                rilievo per la promozione, la ricerca, la tutela e la diffusione della conoscenza della vita, dell'opera e dei luoghi legati alla figura di Ovidio; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                specifica individuazione del progetto; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                tempestivita' ed esecutivita' degli interventi; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                fattibilita' economica e finanziaria; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                qualita' e innovativita' sotto il profilo organizzativo, gestionale, ecologico ambientale e architettonico.
 
 Il finanziamento puo' essere finalizzato alla copertura dei costi di realizzazione dell'intervento, nonche' dei costi di progettazione e dei costi delle procedure di gara e affidamento.
 L'ammontare del finanziamento per ciascun intervento meritevole e' determinato dal Comitato promotore sulla base degli indirizzi generali del Comitato scientifico, dell'istruttoria svolta all'esito della valutazione effettuata in applicazione dei criteri di cui al comma 6. In ogni caso, una quota non inferiore al 20 per cento del contributo straordinario e' destinata alle iniziative di recupero edilizio e riorganizzazione di cui all'articolo 2, comma 1, lettera c), della legge n. 226 del 2017. Il Comitato promotore, al termine della propria attivita', approva la graduatoria finale degli interventi meritevoli, con l'indicazione per ogni intervento dell'entita' del finanziamento.

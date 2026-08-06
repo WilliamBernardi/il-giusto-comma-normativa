@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
 vigenza_date: 2004-02-24
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:22Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -51,6 +51,73 @@ Ove lo statuto non venga adottato entro il termine di centocinquanta giorni dall
 
 ((
 
+1.
+                    
+                        
+                            L'Istituto ha le seguenti finalita':
+ 
+                        
+                        
+                            a)
+                            
+                                coordinare a livello nazionale, anche mediante accordi con le regioni e gli enti locali, l'attivita' teatrale presso i teatri greco-romani, promuovendo la rappresentazione del teatro classico greco e latino, nonche' di altre attivita' culturali ed artistiche ad esso relative;
+
+                            
+                        
+                        
+                            b)
+                            
+                                provvedere alla produzione ed alla rappresentazione dei testi drammatici greci e latini nel teatro greco di Siracusa, in altri teatri ed in ambienti di particolare rilievo culturale;
+
+                            
+                        
+                        
+                            c)
+                            
+                                curare la pubblicazione dei testi classici, delle monografie, degli studi specializzati e della rivista dell'Istituto;
+
+                            
+                        
+                        
+                            d)
+                            
+                                curare la biblioteca dell'Istituto ed incrementarne le acquisizioni;
+
+                            
+                        
+                        
+                            e)
+                            
+                                provvedere alla costituzione del Museo dell'Istituto, con sede in Siracusa;
+
+                            
+                        
+                        
+                            f)
+                            
+                                provvedere all'organizzazione di convegni ed altre attivita' di studi e di ricerca sui temi della classicita' greca e latina;
+
+                            
+                        
+                        
+                            g)
+                            
+                                provvedere al mantenimento ed allo sviluppo della scuola di teatro "Giusto Monaco" in Siracusa;
+
+                            
+                        
+                        
+                            h)
+                            
+                                attivare le iniziative necessarie al coinvolgimento degli istituti scolastici per la realizzazione di spettacoli del teatro classico greco e latino, anche attraverso apposite rassegne, tra le quali il Festival internazionale dei giovani di Palazzolo Acreide;
+
+                            
+                        
+                        
+                            i)
+                            
+                                promuovere, anche in coordinamento con le universita', lo studio dei testi teatrali della classicita' greca e latina.
+
 L'Istituto agevola la libera partecipazione di tutti gli interessati alla propria attivita' culturale e favorisce, anche mediante convenzioni, la circolazione del proprio patrimonio culturale presso enti, istituzioni ed associazioni culturali, scuole ed universita'.
 
 L'Istituto puo', previa autorizzazione del Ministero per i beni e le attivita' culturali, partecipare a societa' di capitali, o promuoverne la costituzione, e puo' altresi' svolgere attivita' commerciali ed altre attivita' accessorie, in conformita' agli scopi istituzionali. Le societa' di cui al periodo precedente non possono svolgere compiti attribuiti al sovrintendente di cui all'articolo 6.
@@ -76,9 +143,115 @@ Lo statuto determina la composizione e le competenze del collegio dei revisori, 
 
 ((
 
+1.
+                    
+                        
+                            Il consiglio di amministrazione e' nominato con decreto del Ministro per i beni e le attivita' culturali, ed e' composto:
+ 
+                        
+                        
+                            a)
+                            
+                                dal Sindaco di Siracusa, che e' il presidente dell'Istituto;
+
+                            
+                        
+                        
+                            b)
+                            
+                                da un consigliere designato dal Ministro per i beni e le attivita' culturali, con funzioni di consigliere delegato previste al comma 6;
+
+                            
+                        
+                        
+                            c)
+                            
+                                da due consiglieri, rispettivamente designati uno dal Ministro per i beni e le attivita' culturali ed uno dal Ministro dell'istruzione, dell'universita' e della ricerca;
+
+                            
+                        
+                        
+                            d)
+                            
+                                da un consigliere, designato dalla Regione siciliana;
+
+                            
+                        
+                        
+                            e)
+                            
+                                da un consigliere, designato dalla provincia di Siracusa;
+
+                            
+                        
+                        
+                            f)
+                            
+                                da un consigliere, designato dalla Conferenza unificata di cui all'articolo 8 del decreto legislativo 28 agosto 1997, n. 281;
+
+                            
+                        
+                        
+                            g)
+                            
+                                da un consigliere, in rappresentanza di partecipanti privati, qualora questi raggiungano una partecipazione al patrimonio dell'Istituto non inferiore al 15 per cento; tale misura e' ridotta al 5 per cento nei casi in cui i partecipanti sono costituiti dai soggetti che gia' partecipavano all'Istituto. Lo statuto puo' prevedere un ulteriore componente del consiglio di amministrazione, qualora gli apporti dei partecipanti superino il 25 per cento del patrimonio. Lo statuto stabilisce le modalita' per la designazione dei consiglieri in rappresentanza dei privati.
+
 Fino a quando non si sara' verificata la condizione di cui al comma 1, lettera g), il componente di cui alla stessa disposizione e' designato dal Ministro per i beni e le attivita' culturali.
 
 Il componente del consiglio di amministrazione di cui alla lettera b) e' individuato tra personalita' di elevato profilo culturale e con comprovate capacita' organizzative; i componenti di cui alle lettere c), d), e), f) e g) sono individuati tra personalita' di elevato profilo culturale, con particolare riguardo al campo degli studi sul teatro antico e della letteratura classica latina e greca, e con comprovate capacita' organizzative. Sui componenti di cui alle lettere b) e c) del comma 1, e del componente di cui al comma 2, sono sentite le competenti commissioni parlamentari.
+
+4.
+                    
+                        
+                            Il consiglio di amministrazione opera con la nomina della maggioranza dei suoi componenti e delibera a maggioranza dei partecipanti alle sedute. In caso di parita', prevale il voto del presidente. In particolare, il consiglio di amministrazione:
+ 
+                        
+                        
+                            a)
+                            
+                                delibera lo statuto e le sue successive modificazioni, da sottoporre all'approvazione del Ministro per i beni e le attivita' culturali, di concerto con il Ministro dell'economia e delle finanze;
+
+                            
+                        
+                        
+                            b)
+                            
+                                su proposta del consigliere delegato, definisce gli indirizzi artistico-culturali dell'Istituto;
+
+                            
+                        
+                        
+                            c)
+                            
+                                delibera il bilancio di esercizio;
+
+                            
+                        
+                        
+                            d)
+                            
+                                formula la proposta al Ministro per i beni e le attivita' culturali per la nomina del Sovrintendente, secondo quanto previsto dall'articolo 6, comma 1;
+
+                            
+                        
+                        
+                            e)
+                            
+                                approva, su proposta del Sovrintendente, i programmi di attivita';
+
+                            
+                        
+                        
+                            f)
+                            
+                                delibera su tutte le materie riguardanti le attivita' istituzionali e le iniziative culturali dell'Istituto;
+
+                            
+                        
+                        
+                            g)
+                            
+                                determina con propria deliberazione, soggetta alla approvazione del Ministro per i beni e le attivita' culturali, di concerto con il Ministro dell'economia e delle finanze, il compenso spettante al presidente, la misura dell'indennita' spettante agli altri componenti del consiglio di amministrazione per la partecipazione alle sedute, nonche' il compenso spettante ai componenti del collegio dei revisori.
 
 Il presidente ha la legale rappresentanza dell'Istituto.
 
@@ -94,6 +267,31 @@ Al rappresentante viene attribuito diritto di voto qualora al consiglio di ammin
 ((
 
 Il sovrintendente e' nominato con decreto del Ministro per i beni e le attivita' culturali, sulla base di una rosa di tre nominativi proposta dal consiglio di amministrazione, tra persone in possesso di elevato profilo culturale e di comprovati requisiti tecnico-professionali, in relazione alle finalita' dell'Istituto.
+
+2.
+                    
+                        
+                            Il sovrintendente:
+ 
+                        
+                        
+                            a)
+                            
+                                elabora, sulla base degli indirizzi artistico-culturali proposti dal consigliere delegato, i programmi di attivita' dell'Istituto, da sottoporre alla deliberazione del consiglio di amministrazione;
+
+                            
+                        
+                        
+                            b)
+                            
+                                dirige e coordina in autonomia, nel rispetto dei programmi approvati e del vincolo di bilancio, l'attivita' dell'Istituto;
+
+                            
+                        
+                        
+                            c)
+                            
+                                partecipa, senza diritto di voto, alle sedute del consiglio di amministrazione.
 
 L'incarico del sovrintendente e' conferito dal presidente con contratto a tempo determinato della durata massima di quattro anni e rinnovabile.
 
@@ -115,6 +313,52 @@ Le eventuali procedure di mobilita', conseguenti alla destinazione presso le sed
 
 ## Art. 8. — Disponibilita' finanziarie e gestione
 
+1.
+                    
+                        
+                            L'Istituto provvede ai suoi compiti con:
+ 
+                        
+                        
+                            a)
+                            
+                                i redditi del suo patrimonio, fermo quanto previsto dall'articolo 10, comma 2;
+
+                            
+                        
+                        
+                            b)
+                            
+                                i contributi ordinari dello Stato, destinati alle finalita' istituzionali della Fondazione, stanziati con determinazione triennale, negli stati di previsione della spesa del Ministero per i beni e le attivita' culturali, con riferimento al Fondo unico dello spettacolo, nell'ambito delle somme destinate al teatro di prosa;
+
+                            
+                        
+                        
+                            c)
+                            
+                                eventuali contributi straordinari dello Stato e di altri enti pubblici;
+
+                            
+                        
+                        
+                            d)
+                            
+                                eventuali proventi di gestione;
+
+                            
+                        
+                        
+                            e)
+                            
+                                eventuali contributi ed assegnazioni, anche a titolo di sponsorizzazione, di altri soggetti o enti pubblici o privati, italiani e stranieri;
+
+                            
+                        
+                        
+                            f)
+                            
+                                eventuali altre entrate, derivanti dall'esercizio di attivita' commerciali.
+
 Ai fini dell'assegnazione del contributo di cui al comma 1, lettera b), l'Istituto presenta ogni tre anni, entro il 31 ottobre dell'anno antecedente il triennio di riferimento, un programma delle attivita' con relazione finanziaria ed evidenziazione delle risorse necessarie al perseguimento delle singole finalita' istituzionali. Il contributo e' assegnato, in misura non inferiore all'1 per cento delle somme indicate al comma 1, lettera b), sentita la commissione consultiva per il teatro, con decreto del Ministro per i beni e le attivita' culturali, avente efficacia triennale, salvo revoca o modificazioni. (1)
 
 La gestione finanziaria e' soggetta al controllo della Corte dei conti alle condizioni e con le modalita' di cui ((all'articolo 12 della)) legge 21 marzo 1958, n. 259.
@@ -128,6 +372,38 @@ Il bilancio di esercizio deve essere trasmesso, entro quindici giorni dalla deli
                          Il D.Lgs. 21 dicembre 1998, n. 492 ha disposto (con l'art. 3, comma 2) che "In sede di prima applicazione, il programma dell'attivita' di cui all'articolo 8, comma 1-bis, del decreto legislativo 29 gennaio 1998, n. 20, e' presentato entro centoventi giorni dalla data di entrata in vigore del presente decreto".
 
 ## Art. 9. — Vigilanza e amministrazione straordinaria
+
+1.
+                    
+                        
+                            L'((Ministero per i beni e le attivita' culturali)) e' titolare del potere di vigilanza sulla gestione dell'Istituto. Puo' disporre lo scioglimento del consiglio di amministrazione quando:
+ 
+                        
+                        
+                            a)
+                            
+                                risultano gravi irregolarita' nell'amministrazione, ovvero gravi violazioni delle disposizioni legislative, amministrative o statutarie che regolano l'attivita' dell'Istituto;
+
+                            
+                        
+                        
+                            b)
+                            
+                                il conto economico chiude con una perdita superiore al 30 per cento del patrimonio per due esercizi consecutivi, ovvero sono previste perdite del patrimonio di analoga entita';
+
+                            
+                        
+                        
+                            c)
+                            
+                                non viene ricostituito il patrimonio, ai sensi dell'articolo 10, comma 2;
+
+                            
+                        
+                        
+                            d)
+                            
+                                vi e' impossibilita' di funzionamento degli organi.
 
 Con il decreto di scioglimento viene nominato un commissario straordinario e ne vengono determinati la durata dell'incarico ed il compenso. Il commissario straordinario esercita tutti i poteri del presidente e del consiglio di amministrazione.
 

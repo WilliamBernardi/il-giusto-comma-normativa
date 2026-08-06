@@ -8,8 +8,8 @@ vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
 vigenza_date: 2026-04-21
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:33Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -41,12 +41,169 @@ Le disposizioni del presente decreto sono finalizzate a garantire, in coerenza c
 
 ## Art. 2. — Definizioni
 
+1.
+                        
+                            
+                                Ai fini del presente decreto, si applicano le seguenti definizioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    «condizione di disabilita'»: una duratura compromissione fisica, mentale, intellettiva, del neurosviluppo o sensoriale che, in interazione con barriere di diversa natura, puo' ostacolare la piena ed effettiva partecipazione nei diversi contesti di vita su base di uguaglianza con gli altri; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    «persona con disabilita'»: persona definita dall'articolo 3, comma 1, della legge 5 febbraio 1992, n. 104, come modificato dal presente decreto; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    «ICF»: Classificazione internazionale del funzionamento, della disabilita' e della salute - International Classification of Functioning Disability and Health (ICF), adottata dall'Organizzazione mondiale della sanita' conformemente agli articoli 21, lettera b), e 22 del Protocollo concernente la costituzione dell'Organizzazione mondiale della sanita', stipulato a New York il 22 luglio 1946, reso esecutivo con decreto legislativo del Capo provvisorio dello Stato 4 marzo 1947, n. 1068; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    «ICD»: Classificazione internazionale delle malattie - International Classification of Diseases (ICD), adottata dall'Organizzazione mondiale della sanita' conformemente agli articoli 21, lettera b), e 22 del Protocollo concernente la costituzione dell'Organizzazione mondiale della sanita', stipulato a New York il 22 luglio 1946, reso esecutivo con decreto legislativo del Capo provvisorio dello Stato 4 marzo 1947, n. 1068; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    «duratura compromissione»: compromissione derivante da qualsiasi perdita, limitazione o anomalia a carico di strutture o di funzioni corporee, come classificate dalla ICF, che persiste nel tempo o per la quale e' possibile una regressione o attenuazione solo nel lungo periodo; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    «profilo di funzionamento»: descrizione dello stato di salute di una persona attraverso la codificazione delle funzioni e strutture corporee, delle attivita' e della partecipazione secondo la ICF tenendo conto della ICD, quale variabile evolutiva correlata all'eta', alla condizione di salute, ai fattori personali e ai determinanti di contesto, che puo' ricomprendere anche il profilo di funzionamento ai fini scolastici; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    «WHODAS»: WHO Disability Assessment Schedule, questionario di valutazione basato sull'ICF che misura la salute e la condizione di disabilita'; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    «sostegni»: i servizi, gli interventi, le prestazioni e i benefici individuati a conclusione dell'accertamento della condizione di disabilita' e nel progetto di vita per migliorare le capacita' della persona e la sua inclusione, nonche' per contrastare la restrizione nella sua partecipazione sociale, graduati in «sostegno» e «sostegno intensivo», in ragione della frequenza, della durata e della continuita' del sostegno; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    «piano di intervento»: documento di pianificazione e di coordinamento dei sostegni individuali relativi ad un'area di intervento; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    «valutazione di base»: procedimento volto ad accertare, attraverso l'utilizzo delle classificazioni ICD e ICF e dei correlati strumenti tecnici operativi di valutazione, la condizione di disabilita' ai fini dell'accesso al sostegno, lieve o medio, o al sostegno intensivo, elevato o molto elevato; 
+
+                                
+                            
+                            
+                                m)
+                                
+                                    «valutazione multidimensionale»: procedimento volto a delineare con la persona con disabilita' il suo profilo di funzionamento all'interno dei suoi contesti di vita, anche rispetto agli ostacoli e ai facilitatori in essi presenti, e a definire, anche in base ai suoi desideri e alle sue aspettative e preferenze, gli obiettivi a cui deve essere diretto il progetto di vita; 
+
+                                
+                            
+                            
+                                n)
+                                
+                                    «progetto di vita»: progetto individuale, personalizzato e partecipato della persona con disabilita' che, partendo dai suoi desideri e dalle sue aspettative e preferenze, e' diretto ad individuare, in una visione esistenziale unitaria, i sostegni, formali e informali, per consentire alla persona stessa di migliorare la qualita' della propria vita, di sviluppare tutte le sue potenzialita', di poter scegliere i contesti di vita e partecipare in condizioni di pari opportunita' rispetto agli altri; 
+
+                                
+                            
+                            
+                                o)
+                                
+                                    «domini della qualita' di vita»: ambiti o dimensioni rilevanti nella vita di una persona con disabilita' valutabili con appropriati indicatori; 
+
+                                
+                            
+                            
+                                p)
+                                
+                                    «budget di progetto»: insieme delle risorse umane, professionali, tecnologiche, strumentali ed economiche, pubbliche e private, attivabili anche in seno alla comunita' territoriale e al sistema dei supporti informali, da destinare al progetto di vita.
+
 ## Art. 3. — Modifiche all'articolo 3 
  della legge 5 febbraio 1992, n. 104
+
+1.
+                        
+                            
+                                All'articolo 3 della legge 5 febbraio 1992, n. 104, sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    
+                                        i commi 1, 2 e 3 sono sostituiti da seguenti: 
+ «1. E' persona con disabilita' chi presenta durature compromissioni fisiche, mentali, intellettive o sensoriali che, in interazione con barriere di diversa natura, possono ostacolare la piena ed effettiva partecipazione nei diversi contesti di vita su base di uguaglianza con gli altri, accertate all'esito della valutazione di base. 
+ 2. La persona con disabilita' ha diritto alle prestazioni stabilite in suo favore in relazione alla necessita' di sostegno o di sostegno intensivo, correlata ai domini della Classificazione internazionale del funzionamento, della disabilita' e della salute (ICF) dell'Organizzazione mondiale della sanita', individuata all'esito della valutazione di base, anche in relazione alla capacita' complessiva individuale residua e alla efficacia delle terapie. La necessita' di sostegno puo' essere di livello lieve o medio, mentre il sostegno intensivo e' sempre di livello elevato o molto elevato. 
+ 3. Qualora la compromissione, singola o plurima, abbia ridotto l'autonomia personale, correlata all'eta', in modo da rendere necessario un intervento assistenziale permanente, continuativo e globale nella sfera individuale o in quella di relazione, il sostegno e' intensivo e determina priorita' nei programmi e negli interventi dei servizi pubblici.»;
+                                    
+                                
+                            
+                            
+                                b)
+                                
+                                    
+                                        la rubrica e' sostituita dalla seguente: «Persona con disabilita' avente diritto ai sostegni».
 
 ## Art. 4.
 
 Terminologia in materia di disabilita'
+
+1.
+                        
+                            
+                                A decorrere dalla data di entrata in vigore del presente decreto: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la parola: «handicap», ovunque ricorre, e' sostituita dalle seguenti: «condizione di disabilita'»; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le parole: «persona handicappata», «portatore di handicap», «persona affetta da disabilita'», «disabile» e «diversamente abile», ovunque ricorrono, sono sostituite dalle seguenti: «persona con disabilita'»; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    le parole: «con connotazione di gravita'» e «in situazione di gravita'», ove ricorrono e sono riferite alle persone indicate alla lettera b) sono sostituite dalle seguenti: «con necessita' di sostegno elevato o molto elevato»; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    le parole: «disabile grave», ove ricorrono, sono sostituite dalle seguenti: «persona con necessita' di sostegno intensivo».
 
 ## - Capo II Procedimento valutativo di base e accomodamento ragionevole
 
@@ -55,7 +212,113 @@ Terminologia in materia di disabilita'
 Finalita', ambito, principi ed effetti 
  della valutazione di base
 
+1.
+                        
+                            
+                                La valutazione di base e' il procedimento unitario volto al riconoscimento della condizione di disabilita' definita dall'articolo 2, comma 1, lettera a), che comprende ogni accertamento dell'invalidita' civile previsto dalla normativa vigente e, in particolare: 
+ 
+                            
+                            
+                                a)
+                                
+                                    l'accertamento dell'invalidita' civile di cui alla legge 30 marzo 1971, n. 118, e delle condizioni di cui alla legge 11 febbraio 1980, n. 18, alla legge 21 novembre 1988, n. 508, nonche' alla legge 11 ottobre 1990, n. 289; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'accertamento della cecita' civile, ai sensi della legge 27 maggio 1970, n. 382, e della legge 3 aprile 2001, n. 138; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    l'accertamento della sordita' civile, ai sensi della legge 26 maggio 1970, n. 381; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    l'accertamento della sordocecita', ai sensi della legge 24 giugno 2010, n. 107; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    l'accertamento della condizione di disabilita' in eta' evolutiva ai fini dell'inclusione scolastica, ai sensi dell'articolo 5 del decreto legislativo 13 aprile 2017, n. 66; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    l'accertamento della condizione di disabilita' ai fini dell'inclusione lavorativa, ai sensi della legge 12 marzo 1999, n. 68; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    l'individuazione dei presupposti per la concessione di assistenza protesica, sanitaria e riabilitativa, prevista dai livelli essenziali di assistenza; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    l'individuazione degli elementi utili alla definizione della condizione di non autosufficienza, nonche' di disabilita' gravissima, ai sensi del decreto del Ministro del lavoro e delle politiche sociali 26 settembre 2016, pubblicato nella Gazzetta Ufficiale n. 280 del 30 novembre 2016; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    l'individuazione dei requisiti necessari per l'accesso ad agevolazioni fiscali, tributarie e relative alla mobilita', conseguenti all'accertamento dell'invalidita' e ad ogni altra prestazione prevista dalla legge.
+
 La valutazione di base di cui al comma 1 si applica anche ai minori e alle persone anziane, fermo quanto previsto dall'articolo 27, comma 11, del decreto legislativo 15 marzo 2024, n. 29 per le persone anziane non autosufficienti che abbiano superato il settantesimo anno d'eta'. Ai sensi di quanto disposto dall'art. 2, comma 2 del citato decreto legislativo n. 29 del 2024, alle persone anziane non autosufficienti in eta' compresa tra i 65 e i 70 anni e' garantito l'accesso al progetto assistenziale integrato (PAI) di cui all'art. 1, comma 163, della legge 30 dicembre 2021, n. 234.
+
+3.
+                        
+                            
+                                Il procedimento di valutazione di base e' informato ai seguenti criteri: 
+ 
+                            
+                            
+                                a)
+                                
+                                    orientamento dell'intero processo valutativo medico-legale sulla base dell'ICD e degli strumenti descrittivi ICF, con particolare riferimento all'attivita' e alla partecipazione della persona, in termini di capacita' dell'ICF; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    utilizzo, quale strumento integrativo e di partecipazione della persona, ad eccezione dei minori di eta', del WHODAS e dei suoi successivi aggiornamenti, nonche' di ulteriori strumenti di valutazione scientificamente validati ed individuati dall'Organizzazione mondiale della sanita' ai fini della descrizione e dell'analisi del funzionamento, della disabilita' e della salute; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    considerazione dell'attivita' della persona, al fine di accertare le necessita' di sostegno o di sostegno intensivo; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    per i soli effetti della valutazione dell'invalidita' civile di cui al comma 1, lettera a), impiego di tabelle medico-legali relative alla condizione conseguente alla compromissione duratura, elaborate sulla base delle piu' aggiornate conoscenze e acquisizioni scientifiche; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    tempestivita', prossimita', efficienza e trasparenza.
 
 Il riconoscimento della condizione di disabilita' della persona determina l'acquisizione di una tutela proporzionata al livello di disabilita', con priorita' per le disabilita' che presentano necessita' di sostegno intensivo e delle correlate prestazioni previste dalla legge, incluse quelle volte a favorire l'inclusione scolastica, presso le istituzioni della formazione superiore e lavorativa. Al riconoscimento della condizione di disabilita' consegue anche la tutela dell'accomodamento ragionevole ai sensi dell'articolo 5-bis della legge 5 febbraio 1992, n. 104 e la possibilita' della richiesta dell'avvio del procedimento di valutazione multidimensionale per l'elaborazione del progetto di vita individuale, secondo quanto previsto dagli articoli 17 e 18.
 
@@ -94,6 +357,38 @@ Costituisce presupposto per l'avvio del procedimento valutativo di base la trasm
 
 L'INPS, secondo le modalita' indicate dal Ministero della salute, acquisisce la documentazione relativa alla formazione effettuata, nell'ambito del programma «Educazione continua in medicina», in materia di classificazioni internazionali dell'Organizzazione mondiale della sanita', di promozione della salute, di accertamenti sanitari di base oppure di prestazioni assistenziali, ai fini dell'individuazione dei medici di cui al secondo periodo del comma 1. L'INPS provvede alle attivita' di cui al presente comma nell'ambito delle risorse umane, strumentali e finanziarie disponibili a legislazione vigente, senza nuovi o maggiori oneri a carico della finanza pubblica.
 
+3.
+                        
+                            
+                                Il certificato medico introduttivo reca quale contenuto essenziale: 
+ 
+                            
+                            
+                                a)
+                                
+                                    i dati anagrafici, il codice fiscale, il numero di tessera sanitaria della persona per cui si richiede la valutazione di base; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la documentazione relativa all'accertamento diagnostico, comprensivo di dati anamnestici e catamnestici, inclusi gli esiti dei trattamenti terapeutici di natura farmacologica, chirurgica e riabilitativa; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    la diagnosi codificata in base al sistema dell'ICD; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    il decorso e la prognosi delle eventuali patologie riscontrate.
+
 Il medico certificatore riporta nel certificato di cui al comma 3 l'eventuale elezione di domicilio dell'interessato, anche presso un patronato o una delle associazioni di cui all'articolo 4, comma 4, della legge 5 febbraio 1992, n. 104, come modificato dall'articolo 9 del presente decreto, ai fini delle ulteriori comunicazioni inerenti al procedimento per la valutazione di base.
 
 Il certificato medico introduttivo ai fini della valutazione di base e' inserito, con la trasmissione all'INPS, anche nel fascicolo sanitario elettronico.
@@ -118,6 +413,31 @@ PERIODO SOPPRESSO DAL D.L. 19 FEBBRAIO 2026, N. 19.
 
 Al fine di garantire la semplificazione e razionalizzazione degli oneri procedurali connessi all'espletamento della valutazione di base, l'INPS, sulla base delle risorse disponibili a legislazione vigente, puo' stipulare apposite convenzioni con le regioni per avvalersi delle risorse strumentali e organizzative delle aziende sanitarie locali e aziende ospedaliere, necessarie allo svolgimento dei procedimenti di valutazione di base.
 
+5.
+                        
+                            
+                                Nell'ambito della propria autonomia organizzativa, l'INPS, ai fini della gestione della valutazione di base: 
+ 
+                            
+                            
+                                a)
+                                
+                                    garantisce l'omogeneita' e la prossimita' dell'attivita' valutativa su tutto il territorio nazionale; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    impronta i procedimenti amministrativi strumentali alla valutazione di base e relativi alla concessione ed erogazione delle prestazioni a criteri di semplificazione, razionalizzazione, efficacia e trasparenza; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    definisce il sistema organizzativo interno secondo criteri che individuano competenze e responsabilita' degli organi e degli uffici, nonche' gli ambiti di competenza degli uffici centrali e periferici.
+
 Al fine di garantire piena attuazione alle disposizioni contenute nel presente articolo, l'INPS per il triennio 2024-2026, in aggiunta alle vigenti facolta' assunzionali, e' autorizzato, con incremento della propria dotazione organica, a bandire e, conseguentemente, ad assumere, per l'anno 2026, con contratto di lavoro subordinato a tempo indeterminato, mediante procedure concorsuali pubbliche, per titoli ed esami, anche mediante scorrimento di vigenti graduatorie di concorsi pubblici e mediante bandi di mobilita', 1.069 unita' di personale da inquadrare nell'Area dei Medici di primo livello per l'assolvimento delle funzioni medico-legali di propria competenza, 142 unita' di personale non dirigenziale da inquadrare nell'Area dei Funzionari amministrativi e 920 unita' di personale non dirigenziale da inquadrare nell'Area dei Funzionari sanitari del Comparto Funzioni Centrali.
 
 Per le assunzioni di cui al comma 6 e' autorizzata la spesa di euro 165.196.120 per l'anno 2026 e di euro 215.371.872 annui a decorrere dall'anno 2027. E' altresi' autorizzata, in favore dell'INPS, una spesa pari ad euro 2.483.256 per l'anno 2024, di cui euro 2.086.769 per la gestione delle procedure concorsuali ed euro 396.487 per le spese di funzionamento, e una spesa pari a euro 6.625.593 per l'anno 2025, di cui 5.000.000 per la gestione delle procedure concorsuali e 1.625.593 per le spese di funzionamento, e pari a euro 198.244 annui a decorrere dall'anno 2026 per le spese di funzionamento. Alla copertura degli oneri derivanti dal presente comma si provvede ai sensi dell'articolo 34. (3)
@@ -135,6 +455,52 @@ Agli oneri derivanti dalla partecipazione alle unita' di valutazione di base di 
 Procedimento valutativo di base 
  e riconoscimento della condizione di disabilita'
 
+1.
+                        
+                            
+                                Il riconoscimento della condizione di disabilita' costituisce il risultato del procedimento valutativo di base, comprendente: 
+ 
+                            
+                            
+                                a)
+                                
+                                    l'accertamento e la verifica della condizione di salute della persona, descritta nel certificato medico introduttivo con i codici ICD; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la valutazione delle durature e significative compromissioni dello stato di salute, funzionali, mentali, intellettive o sensoriali, in conformita' alle indicazioni dell'ICF e tenendo conto dell'ICD; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    l'individuazione dei deficit funzionali e strutturali che ostacolano, in termini di salute, l'agire della persona e che rilevano in termini di capacita' secondo l'ICF; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    l'individuazione del profilo di funzionamento della persona, limitatamente ai domini della mobilita' e dell'autonomia nelle attivita' di base e strumentali agli atti di vita quotidiana, con necessita' di sostegni continuativi; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    la valutazione della ricaduta delle compromissioni funzionali e strutturali in termini di capacita' secondo la classificazione ICF, nei domini relativi all'attivita' e alla partecipazione, considerando anche i domini relativi al lavoro e all'apprendimento nell'ambito della formazione superiore; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    la valutazione del livello delle necessita' di sostegno, lieve o medio, o di sostegno intensivo, elevato o molto elevato, correlate ai domini dell'ICF sull'attivita' e sulla partecipazione.
+
 Il riconoscimento della condizione di disabilita' per i minori e' effettuato ai sensi del comma 1 e comprende, per la valutazione di cui alla lettera e) del medesimo comma, i domini relativi all'apprendimento, anche scolastico.
 
 ## Art. 11. — Adozione della classificazione ICF ed ICD e loro aggiornamenti ai fini dello svolgimento della valutazione di base
@@ -148,6 +514,87 @@ Con decreto del Ministro della salute, di concerto con i Ministri dell'economia 
 Aggiornamento delle definizioni, dei criteri e delle modalita' di accertamento e di valutazione di base, a seguito dell'adozione delle classificazioni ICD e ICF
 
 Nel rispetto di quanto previsto dall'articolo 117 della Costituzione e in coerenza con quanto stabilito dal decreto del Presidente del Consiglio dei ministri 12 gennaio 2017, pubblicato nella Gazzetta Ufficiale n. 65 del 18 marzo 2017, con regolamento del Ministro della salute, adottato ai sensi dell'articolo 17, comma 3, della legge 23 agosto 1988, n. 400, di concerto con il Ministro dell'economia e delle finanze, con l'Autorita' politica delegata in materia di disabilita' e con il Ministro del lavoro e delle politiche sociali, sentito il Ministro dell'istruzione e del merito, previa intesa in sede di Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome di Trento e di Bolzano, sentito l'INPS, da adottare entro il ((30 novembre 2026)), si provvede, sulla base delle classificazioni ICD e ICF e in conformita' con la definizione di disabilita' di cui all'articolo 2, comma 1, lettera a), all'aggiornamento delle definizioni, dei criteri e delle modalita' di accertamento dell'invalidita' civile, della cecita' civile, della sordita' civile e della sordocecita' civile previsti dal decreto del Ministro della sanita' 5 febbraio 1992, pubblicato nella Gazzetta Ufficiale n. 47 del 26 febbraio 1992.
+
+2.
+                        
+                            
+                                Ai fini di cui all'articolo 5, con il decreto di cui al comma 1, sono individuati, tenendo conto delle differenze di sesso e di eta': 
+ 
+                            
+                            
+                                a)
+                                
+                                    i criteri per accertare l'esistenza e la significativita' delle compromissioni delle strutture e delle funzioni corporee in base all'ICF, tenendo conto dell'ICD; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    i criteri per accertare se le compromissioni sono di lunga durata; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    fermi restanti i casi di esonero gia' stabiliti dalla normativa vigente, l'elenco delle particolari condizioni patologiche, non reversibili, per le quali sono esclusi i controlli nel tempo; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    i criteri per stabilire gli eccezionali casi nei quali la revisione della condizione di disabilita' e' ammessa al termine della scadenza indicata nel certificato di cui all'articolo 6, comma 7, di regola dopo due anni e secondo procedimenti semplificati fondati anche sull'impiego della telemedicina o sull'accertamento agli atti; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    le tabelle che portano ad individuare, ai soli fini dell'articolo 5, comma 1, lettere a), una percentuale correlata alle limitazioni nel funzionamento determinate dalla duratura compromissione; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    i criteri, secondo l'ICF, per l'individuazione del profilo di funzionamento limitatamente ai domini di cui all'articolo 10, comma 1, lettera d); 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    i criteri per la definizione della condizione di non autosufficienza, fermo restando quanto previsto dall'articolo 5, comma 2; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    il complesso di codici ICF con cui verificare in che misura le compromissioni strutturali e funzionali ostacolano, in termini di capacita', l'attivita' e la partecipazione, inclusi i domini relativi al lavoro e alla formazione superiore per gli adulti e all'apprendimento, anche scolastico, per i minori; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    un sistema delineato per fasce, volto ad individuare l'intensita' di sostegno e di sostegno intensivo, differenziandoli tra i livelli di lieve, media, elevata e molto elevata intensita'; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    i criteri per individuare le compromissioni funzionali per le quali riconoscere l'efficacia provvisoria alle certificazioni mediche di cui all'articolo 7; 
+
+                                
+                            
+                            
+                                m)
+                                
+                                    gli eccezionali casi in cui il richiedente puo' chiedere l'accertamento sulla sola base degli atti.
 
 Con il medesimo decreto di cui al comma 1, in relazione a quanto previsto dall'articolo 5, comma 1, lettera e), sono stabilite le modalita' per ricondurre l'accertamento della condizione di disabilita' in eta' evolutiva ai fini scolastici di cui all'articolo 5 del decreto legislativo 13 aprile 2017, n. 66, all'interno del procedimento per la valutazione di base.
 
@@ -272,6 +719,38 @@ La persona con disabilita' puo' allegare all'istanza una proposta di progetto di
 
 L'avvio del procedimento e' comunicato all'istante da parte del responsabile del procedimento, entro quindici giorni dalla presentazione dell'istanza o dalla ricezione della comunicazione di cui all'articolo 15, comma 2.
 
+5.
+                        
+                            
+                                Fermo restando quanto previsto dall'articolo 8 della legge 7 agosto 1990, n. 241, la comunicazione dell'avvio del procedimento contiene l'indicazione dei seguenti elementi: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la data di presentazione dell'istanza o dell'assenso manifestato alla commissione ai sensi dell'articolo 15, comma 3, per l'elaborazione del progetto di vita; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    nel caso di cui all'articolo 15, comma 3, l'indicazione della trasmissione del certificato della condizione di disabilita' e del deposito della documentazione; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    l'indicazione che la persona con disabilita' puo' farsi assistere da una persona che lo supporta ai sensi dell'articolo 22; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    la data entro cui termina il procedimento per la redazione del progetto di vita.
+
 La persona con disabilita' puo' rinunciare all'istanza o al progetto di vita, anche se gia' definito. La rinuncia non preclude il diritto di ripresentare istanza per l'avvio di un nuovo procedimento.
 
 Il procedimento per la formazione del progetto di vita si conclude entro novanta giorni dall'avvio del procedimento, salva diversa disposizione regionale.
@@ -281,6 +760,137 @@ Il procedimento per la formazione del progetto di vita si conclude entro novanta
 Unita' di valutazione multidimensionale
 
 L'unita' di valutazione multidimensionale elabora il progetto di vita a seguito della valutazione di cui all'articolo 25, secondo la volonta' della persona con disabilita' e nel rispetto dei suoi diritti civili e sociali.
+
+2.
+                        
+                            
+                                Sono componenti dell'unita' di valutazione multidimensionale: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la persona con disabilita'; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'esercente la responsabilita' genitoriale in caso di minore, il tutore o l'amministratore di sostegno, se dotato di poteri; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    la persona di cui all'articolo 22, se nominato dall'interessato; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    un assistente sociale, un educatore o un altro operatore dei servizi sociali territoriali; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    uno o piu' professionisti sanitari designati dalla azienda sanitaria o dal distretto sanitario col compito di garantire l'integrazione sociosanitaria; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    un rappresentante dell'istituzione scolastica nei casi di cui all'articolo 6 del decreto legislativo 13 aprile 2017, n. 66; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    ove necessario, un rappresentante dei servizi per l'inserimento lavorativo delle persone con disabilita' di cui all'articolo 6 della legge 12 marzo 1999, n. 68, nei casi di cui all'articolo 1, comma 1, della medesima legge; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    il medico di medicina generale o il pediatra di libera scelta della persona con disabilita', senza oneri a carico della finanza pubblica.
+
+3.
+                        
+                            
+                                Possono partecipare all'unita' di valutazione multidimensionale, su richiesta della persona con disabilita' o di chi la rappresenta o su richiesta degli altri componenti dell'unita' di valutazione multidimensionale di cui al comma 2, lettere d), e), f), g) e h), e senza oneri a carico della pubblica amministrazione: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il coniuge, un parente, un affine, una persona con vincoli di cui alla legge 20 maggio 2016, n. 76, o il caregiver di cui all'articolo 1, comma 255, della legge 27 dicembre 2017, n. 205; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    un medico specialista o specialisti dei servizi sanitari o sociosanitari; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    un rappresentante di associazione, fondazione, agenzia o altro ente con specifica competenza nella costruzione di progetti di vita, anche del terzo settore; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    referenti dei servizi pubblici e privati presso i quali la persona con disabilita' fruisce di servizi o prestazioni, anche informale.
+
+4.
+                        
+                            
+                                Entro sei mesi dalla data di entrata in vigore del presente decreto, le regioni, al fine della predisposizione del progetto di vita, programmano e stabiliscono le modalita' di riordino e unificazione, all'interno delle unita' di valutazione multidimensionale di cui al comma 1, delle attivita' e dei compiti svolti dalle unita' di valutazione multidimensionale operanti per: 
+ 
+                            
+                            
+                                a)
+                                
+                                    l'individuazione di prestazioni e trasferimenti monetari connessi alla condizione di non autosufficienza, eccettuata quella dei soggetti anziani; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'individuazione di prestazioni e trasferimenti monetari connessi alla condizione di disabilita' gravissima di cui all'articolo 3 del decreto del Ministro del lavoro e delle politiche sociali 26 settembre 2016, pubblicato nella Gazzetta Ufficiale n. 280 del 30 novembre 2016; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    l'individuazione delle misure di sostegno ai caregiver; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    la redazione dei progetti individuali di cui all'articolo 14 della legge 8 novembre 2000, n. 328; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    l'individuazione dei servizi, degli interventi e delle prestazioni di cui all'articolo 4 della legge 22 giugno 2016, n. 112.
 
 Nello stesso termine di cui al comma 4, le regioni individuano i criteri con cui attribuire, tra i componenti dell'unita' di valutazione di cui al comma 2, lettere d) ed e), senza ulteriori oneri a carico della finanza pubblica, le funzioni di coordinamento dell'unita' stessa, garantendo un raccordo tra gli ambiti sociali e sanitari, anche al fine di identificare i soggetti responsabili del trattamento dei dati personali.
 
@@ -294,6 +904,38 @@ All'attuazione delle disposizioni di cui al presente articolo si provvede nei li
 
 Il procedimento di valutazione multidimensionale e' svolto sulla base di un metodo multidisciplinare ed e' fondato sull'approccio bio-psico-sociale, tenendo conto delle indicazioni dell'ICF e dell'ICD.
 
+2.
+                        
+                            
+                                Il procedimento si articola in quattro fasi: 
+ 
+                            
+                            
+                                a)
+                                
+                                    nel rispetto dell'esito della valutazione di base, rileva gli obiettivi della persona secondo i suoi desideri e le sue aspettative e definisce il profilo di funzionamento, anche in termini di capacita' e performance dell'ICF, nei differenti ambiti di vita liberamente scelti; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    individua le barriere e i facilitatori negli ambiti di cui alla lettera a) e le competenze adattive; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    formula le valutazioni inerenti al profilo di salute fisica, mentale, intellettiva e sensoriale, ai bisogni della persona e ai domini della qualita' di vita, in relazione alle priorita' della persona con disabilita'; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    definisce gli obiettivi da realizzare con il progetto di vita, partendo dal censimento di eventuali piani specifici di sostegno gia' attivati e dai loro obiettivi.
+
 Nel caso di minori, la valutazione multidimensionale considera anche il profilo di funzionamento redatto ai fini scolastici secondo quanto disposto dall'articolo 5, comma 4, del decreto legislativo 13 aprile 2017, n. 66.
 
 Ciascuna fase di cui al comma 2 e' svolta collegialmente, ferma restando la possibilita' di delegare ad uno dei componenti dell'unita' di valutazione specifici compiti.
@@ -303,6 +945,70 @@ Ciascuna fase di cui al comma 2 e' svolta collegialmente, ferma restando la poss
 Sulla base degli esiti della valutazione multidimensionale di cui all'articolo 25, i soggetti che hanno preso parte, ai sensi dell'articolo 24, al relativo procedimento predispongono il progetto di vita che individua i sostegni, il budget di progetto e gli accomodamenti ragionevoli che garantiscono l'effettivo godimento dei diritti e delle liberta' fondamentali.
 
 Nel caso in cui la persona con disabilita' o chi la rappresenta abbia presentato una proposta di progetto di vita, l'unita' di valutazione multidimensionale ne verifica l'adeguatezza e l'appropriatezza e, contestualmente, definisce il budget di progetto.
+
+3.
+                        
+                            
+                                Il progetto individua: 
+ 
+                            
+                            
+                                a)
+                                
+                                    gli obiettivi della persona con disabilita' risultanti all'esito della valutazione multidimensionale; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    gli interventi individuati nelle seguenti aree: 
+ 1) apprendimento, socialita' ed affettivita'; 
+ 2) formazione, lavoro; 
+ 3) casa e habitat sociale; 
+ 4) salute; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    i servizi, le misure relative ai processi di cura e di assistenza, gli accomodamenti ragionevoli volti a perseguire la migliore qualita' di vita e a favorire la partecipazione della persona con disabilita' nei diversi ambiti della vita, nonche' i sostegni e gli interventi idonei e pertinenti a garantire la piena inclusione e il godimento, sulla base di uguaglianza con gli altri, dei diritti civili e sociali e delle liberta' fondamentali, incluse le prestazioni di cui al decreto del Presidente del Consiglio dei ministri del 12 gennaio 2017, pubblicato nella Gazzetta Ufficiale n. 65 del 18 marzo 2017; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    i piani operativi e specifici individualizzati delle azioni e dei sostegni correlati agli obiettivi del progetto, con indicazione di eventuali priorita', o, nel caso di piani gia' esistenti, il loro riallineamento, anche in termini di obiettivi, prestazioni e interventi; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    gli operatori e le altre figure coinvolte nella fornitura dei sostegni indicati con l'indicazione di compiti e responsabilita'; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    il referente per la sua attuazione; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    la programmazione di tempi e le modalita' delle verifiche periodiche e di aggiornamento, anche al fine di controllare la persistenza e l'adeguatezza delle prestazioni rese rispetto agli obiettivi; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    il dettaglio e l'insieme delle risorse umane, professionali, tecnologiche, strumentali ed economiche, pubbliche, private e del terzo settore, gia' presenti o attivabili anche in seno alla comunita' territoriale, alla rete familiare nonche' al sistema dei supporti informali, che compongono il budget di progetto di cui all'articolo 28.
 
 Nel progetto di vita sono definite le sfere di competenza e le attribuzioni di ciascun soggetto coinvolto nella sua attuazione, inclusi gli enti del terzo settore, fermo restando quanto previsto dall'articolo 29 per il referente per l'attuazione del progetto di vita.
 
@@ -347,6 +1053,45 @@ Fermo restando quanto previsto dal comma 5, per le finalita' di cui all'articolo
 
 ## Art. 29. — Referente per l'attuazione del progetto di vita
 
+1.
+                        
+                            
+                                Le regioni disciplinano i profili soggettivi per l'individuazione del referente per l'attuazione del progetto di vita, i relativi compiti. In ogni caso, il referente ha i seguenti compiti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    curare la realizzazione del progetto e dare impulso all'avvio dei servizi, degli interventi e delle prestazioni in esso previsti; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    assistere i responsabili e i referenti degli interventi, dei servizi e delle prestazioni, secondo quanto indicato nel progetto di vita, anche al fine di assicurare il coordinamento tra i singoli servizi o piani operativi; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    curare il monitoraggio in corso di attuazione del progetto, raccogliendo, se del caso, le segnalazioni trasmesse dai terzi; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    garantire il pieno coinvolgimento della persona con disabilita' e del suo caregiver o di altri familiari nel monitoraggio e nelle successive verifiche; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    richiedere la convocazione dell'unita' di valutazione multidimensionale al fine di rimodulare il progetto di vita.
+
 All'attuazione delle disposizioni del presente articolo si provvede con le risorse umane, strumentali e finanziarie disponibili a legislazione vigente e, comunque, senza nuovi o maggiori oneri per la finanza pubblica.
 
 ## Art. 30. — Coordinamento per l'integrazione delle programmazioni 
@@ -371,6 +1116,24 @@ Le risorse del Fondo, che costituiscono comunque un limite di spesa per l'attuaz
 ## Art. 32. — Misure di formazione
 
 Al fine di garantire una formazione integrata dei soggetti coinvolti nella valutazione di base nonche' dei soggetti coinvolti nella valutazione multidimensionale e nell'elaborazione del progetto di vita, con regolamento dell'Autorita' politica delegata in materia di disabilita', adottato ai sensi dell'articolo 17, comma 3, della legge 23 agosto 1988, n. 400, di concerto con i Ministri della salute, del lavoro e delle politiche sociali e dell'istruzione e del merito, previa intesa in sede di Conferenza unificata di cui all'articolo 8 del decreto legislativo 28 agosto 1997, n. 281, entro novanta giorni dalla data di entrata in vigore del presente decreto, sono stabilite le misure di formazione dei soggetti coinvolti nella valutazione di base nonche' del personale delle unita' di valutazione multidimensionale e dei servizi pubblici scolastici, della formazione superiore, sociali, sanitari e lavorativi per l'attuazione delle attivita' previste dagli articoli 24, 25, 26, 27, 28 e 29.
+
+2.
+                        
+                            
+                                Il decreto di cui al comma 1 definisce: 
+ 
+                            
+                            
+                                a)
+                                
+                                    iniziative formative di carattere nazionale congiunte per la fase della valutazione di base, nonche' rivolte al personale dell'unita' di valutazione multidimensionale, dei servizi pubblici e del terzo settore; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    trasferimenti di risorse alle regioni per formazione di carattere territoriale, previa predisposizione di un piano, e relativa attivita' di monitoraggio.
 
 Per l'attuazione del presente articolo e' istituito nello stato di previsione della spesa del Ministero dell'economia e delle finanze, per il successivo trasferimento al bilancio autonomo della Presidenza del Consiglio dei ministri, un fondo con una dotazione di 20 milioni di euro per l'anno 2024 e di 30 milioni di euro per l'anno 2025. Agli oneri di cui al presente comma si provvede ai sensi dell'articolo 34. ((6))
 
@@ -441,6 +1204,45 @@ Le disposizioni del presente decreto sono applicabili nelle regioni a statuto sp
 Resta fermo che nelle province autonome di Trento e di Bolzano il procedimento valutativo di base e' assicurato ai sensi dei rispettivi ordinamenti e che alle funzioni attribuite dal presente decreto all'INPS provvedono le medesime province.
 
 ## Art. 39. — Abrogazioni
+
+1.
+                        
+                            
+                                Fermo restando quanto previsto dall'articolo 15 delle disposizioni preliminari al codice civile e fatto salvo quanto previsto dall'articolo 35, comma 2, secondo periodo, a decorrere dal ((1° gennaio 2027)) sono o restano abrogati: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la legge 15 ottobre 1990, n. 295; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'articolo 10, commi 1, 2 e 3, del decreto-legge 30 settembre 2005, n. 203, convertito, con modificazioni, dalla legge 2 dicembre 2005, n. 248; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    l'articolo 20 del decreto-legge 1° luglio 2009, n. 78, convertito, con modificazioni, dalla legge 3 agosto 2009, n. 102, ad esclusione del comma 2, primo periodo, e del comma 4; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    l'articolo 10, commi 4, 4-bis e 5, del decreto-legge 31 maggio 2010, n. 78, convertito, con modificazioni, dalla legge 30 luglio 2010, n. 122; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    l'articolo 18, comma 22, del decreto-legge 6 luglio 2011, n. 98, convertito, con modificazioni, dalla legge 15 luglio 2011, n. 111.
 
 ## Art. 40. — Entrata in vigore
 

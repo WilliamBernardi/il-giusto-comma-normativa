@@ -8,8 +8,8 @@ codice_redazionale: 000G0200
 vigente: true
 source: normattiva-opendata
 collection: DPCM
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:40:12Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DEL CONSIGLIO DEI MINISTRI
@@ -30,6 +30,41 @@ Sentito il Garante per la protezione dei dati personali;
 Udito il parere del Consiglio di Stato, espresso dalla sezione consultiva per gli atti normativi nell'adunanza dell'8 novembre 1999;
 
 ## Art. 1. — Criteri
+
+1.
+                    
+                        
+                            L'individuazione dei soggetti privati che svolgono funzioni o servizi d'interesse pubblico o si configurano come essenziali per il raggiungimento degli obiettivi del Sistema statistico nazionale (SISTAN) avviene, nel rispetto dei principi d'imparzialita' e completezza dell'informazione statistica, secondo i seguenti criteri: 
+
+                        
+                        
+                            a)
+                            
+                                potenziamento della capacita' informativa del SISTAN, mediante la copertura di nuovi settori di informazione o la disponibilita' di informazioni complementari ed integrabili con altre gia' disponibili presso il sistema stesso; 
+                            
+                        
+                        
+                            b)
+                            
+                                incremento della capacita' organizzativa del sistema, apportando, quale ente titolare di una rilevazione o intermedio rispetto ad altro ente, un contributo significativo nel processo di produzione dei dati o nella creazione di sistemi informativi statistici; 
+                            
+                        
+                        
+                            c)
+                            
+                                realizzazione di economie nello svolgimento delle rilevazioni determinando risultati che non potrebbero conseguirsi se non attraverso un consistente impiego di risorse; 
+                            
+                        
+                        
+                            d)
+                            
+                                diminuzione del carico statistico sui rispondenti; 
+                            
+                        
+                        
+                            e)
+                            
+                                garanzia dell'osservanza delle disposizioni del decreto legislativo 6 settembre 1989, n. 322, della legge 31 dicembre 1996, n. 675, e successive modificazioni ed integrazioni, nonche' del decreto legislativo 30 luglio 1999, n. 281, con particolare riferimento alla tutela della riservatezza.
 
 ## Art. 2. — Procedimento
 

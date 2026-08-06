@@ -8,8 +8,8 @@ codice_redazionale: 011G0095
 vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:23Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -26,6 +26,99 @@ Acquisiti i pareri delle competenti commissioni della Camera dei deputati e del 
 Sulla proposta del Presidente del Consiglio dei Ministri e del Ministro dell'economia e delle finanze;
 
 ## Art. 1. — Modifiche alle disposizioni tributarie in materia di accisa
+
+1.
+                    
+                        
+                            Nel testo unico delle disposizioni legislative concernenti le imposte sulla produzione e sui consumi e relative sanzioni penali e amministrative, di cui al decreto legislativo 26 ottobre 1995, n. 504, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                all'articolo 6, comma 15, dopo le parole: «regime doganale sospensivo» sono aggiunte, in fine, le seguenti: «, nonche' ai prodotti di cui all'articolo 39-bis, comma 1, lettere d) ed e)»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                all'articolo 11, dopo il comma 2, e' inserito il seguente:
+«2-bis. A decorrere dal 1° gennaio 2014 per le sigarette acquistate, ai sensi del comma 1, nel territorio di uno degli Stati membri menzionati all'articolo 2, paragrafo 2, terzo comma, della direttiva 92/79/CEE e che applicano, alle medesime sigarette, un'accisa inferiore a quanto indicato dall'articolo 2, paragrafo 2, primo comma, della medesima direttiva 92/79/CEE, il quantitativo di cui al comma 2, lettera e), del presente articolo e' ridotto a 300 pezzi.
+Con provvedimento del Direttore dell'amministrazione autonoma dei monopoli di Stato, da pubblicare nella Gazzetta Ufficiale della Repubblica italiana, sono individuati, con cadenza annuale, gli Stati membri per i quali vige la riduzione indicata nel primo periodo del presente comma.»; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                all'articolo 18, comma 3: 
+ 1) nell'alinea, le parole: «Gli ufficiali e sottufficiali» sono sostituite dalle seguenti: «Gli ufficiali, gli ispettori ed i sovrintendenti»; 
+ 2) alla lettera b), dopo la parola: «comandante», le parole: «di zona» sono sostituite dalla seguente: «regionale»; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                all'articolo 39-bis: 
+ 1) la rubrica e' sostituita dalla seguente: «(Oggetto dell'imposizione)»; 
+ 2) al comma 1, l'alinea e' sostituito dal seguente: «I tabacchi lavorati sono sottoposti ad accisa. Per tabacchi lavorati si intendono:»; 
+ 3) il comma 2 e' sostituito dal seguente: 
+ «2. I tabacchi lavorati di cui al comma 1 sono cosi' definiti: 
+ a) sono considerati sigari o sigaretti, se possono essere e se, tenuto conto delle loro proprieta' e delle normali attese dei consumatori, sono esclusivamente destinati ad essere fumati tali e quali: 
+ 1) i rotoli di tabacco muniti di una fascia esterna di tabacco naturale; 
+ 2) i rotoli di tabacco riempiti di una miscela di tabacco battuto e muniti di una fascia esterna del colore tipico dei sigari, di tabacco ricostituito, ricoprente interamente il prodotto, compreso l'eventuale filtro, ma escluso il bocchino nei sigari che ne sono provvisti, aventi peso unitario, esclusi il filtro o il bocchino, non inferiore a 2,3 grammi e non superiore a 10 grammi e la cui circonferenza misurabile su almeno un terzo della lunghezza non e' inferiore a 34 millimetri. 
+ b) sono considerati sigarette: 
+ 1) i rotoli che possono essere fumati tali e quali e che non sono sigari o sigaretti a norma della lettera a) del presente comma; 
+ 2) i rotoli di tabacco che, previa una semplice manipolazione non industriale, sono inseriti in tubi per sigarette o arrotolati in fogli di carta per sigarette. 
+ c) sono considerati tabacchi da fumo: 
+ 1) il tabacco, anche trinciato o in altro modo frazionato, filato o compresso in tavolette, che puo' essere fumato senza successiva trasformazione industriale; 
+ 2) i cascami di tabacco preparati per la vendita al minuto, non compresi nelle lettere a) e b), e che possono essere fumati; sono considerati "cascami di tabacco" i residui delle foglie di tabacco e i sottoprodotti della lavorazione del tabacco o della fabbricazione di prodotti del tabacco. 
+ d) e' considerato come tabacco da fiuto il tabacco in polvere o in grani specialmente preparato per essere fiutato, ma non fumato; 
+ e) e' considerato come tabacco da masticare il tabacco presentato in rotoli, in barre, in lamine, in cubi o in tavolette, condizionato per la vendita al minuto e specialmente preparato per essere masticato, ma non fumato.»; 
+ 4) al comma 3, le parole: «larghezza di taglio inferiore ad un millimetro» sono sostituite dalle seguenti: «lunghezza di taglio inferiore ad 1,5 millimetri.»; 
+ 5) il comma 5 e' abrogato; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                all'articolo 39-ter il comma 1 e' sostituito dal seguente: «1.
+Sono assimilati ai sigari e ai sigaretti i prodotti costituiti parzialmente da sostanze diverse dal tabacco, ma che rispondono agli altri criteri di cui all'articolo 39-bis, comma 2, lettera a).»; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                all'articolo 39-quater, il comma 5 e' abrogato; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                all'articolo 39-quinquies: 
+ 1) al comma 2, dopo le parole: «trimestre solare» sono aggiunte, in fine, le seguenti: «e, per quanto attiene alla determinazione dell'elemento specifico dell'accisa, al PMP-sigarette di cui al comma 2-bis»; 
+ 2) dopo il comma 2 e' aggiunto, in fine, il seguente: 
+ «2-bis. Entro il primo marzo di ogni anno solare l'amministrazione autonoma dei monopoli di Stato provvede a determinare, per le sigarette di cui all'articolo 39-bis, comma 1, lettera b), il prezzo medio ponderato di vendita al minuto per chilogrammo convenzionale, d'ora in avanti denominato "PMP-sigarette", pari al rapporto, espresso in euro con troncamento dei decimali, tra il valore totale, calcolato con riferimento al prezzo di vendita al minuto comprensivo di tutte le imposte, delle sigarette immesse in consumo nell'anno solare precedente e la quantita' totale delle medesime sigarette.»; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                all'articolo 39-octies: 
+ 1) dopo il comma 2-ter sono inseriti i seguenti: 
+ «2-quater. Per i tabacchi lavorati di cui all'articolo 39-bis, comma 1), lettera a), di peso inferiore a 3 grammi, l'accisa dovuta sui prezzi inferiori al prezzo medio ponderato e' fissata nella misura del 100 per cento dell'accisa applicata su tale prezzo. 
+ 2-quinquies. Il prezzo medio ponderato di cui al comma 2-quater e' espresso in euro con troncamento dei decimali ed e' determinato trimestralmente secondo i dati di vendita rilevati nel trimestre precedente.»; 
+ 2) al comma 5, la lettera a) e' sostituita dalla seguente: «a) un importo specifico fisso, pari al 5 per cento fino al 31 dicembre 2011, pari al 5,5 per cento a decorrere dal 1° gennaio 2012, pari al 6 per cento a decorrere dal 1° gennaio 2013, pari al 7,5 per cento a decorrere dal 1° gennaio 2014, della somma dell'accisa globale e dell'ammontare dell'imposta sul valore aggiunto calcolate con riferimento al PMP-sigarette di cui all'articolo 39-quinquies, comma 2-bis;»; 
+ 3) il comma 6 e' sostituito dal seguente: 
+ «6. Ai fini dell'applicazione dell'accisa, un prodotto incluso tra quelli previsti dall'articolo 39-bis, comma 2, lettera b), e' considerato come due sigarette quando ha una lunghezza, esclusi filtro e bocchino, maggiore di 8 centimetri, ma non superiore a 11 centimetri, come tre sigarette quando ha una lunghezza, esclusi filtro e bocchino, maggiore di 11 centimetri ma non superiore a 14 centimetri, e cosi' via.»; 
+ 4) il comma 7 e' sostituito dal seguente: 
+ «7. L'accisa globale sulle sigarette non puo' essere inferiore a 64 euro per mille sigarette e, a decorrere dal 1° gennaio 2014, a 90 euro per mille sigarette, indipendentemente dal PMP-sigarette di cui all'articolo 39-quinquies, comma 2-bis.».
 
 ## Art. 2. — Disposizioni transitorie
 

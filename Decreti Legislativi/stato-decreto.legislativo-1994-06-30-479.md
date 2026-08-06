@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
 vigenza_date: 2023-12-17
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:23Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -27,6 +27,38 @@ Acquisito il parere delle commissioni permanenti della Camera dei deputati e del
 Sulla proposta del Presidente del Consiglio dei Ministri e del Ministro del lavoro e della previdenza sociale, di concerto con i Ministri del tesoro e per la funzione pubblica;
 
 ## Art. 1. — Disposizioni di carattere generale
+
+1.
+                    
+                        
+                            Il presente decreto legislativo determina principi comuni e generali per la gestione delle forme di previdenza e assistenza obbligatorie le cui funzioni sono esercitate dai seguenti enti pubblici: 
+ 
+                        
+                        
+                            a)
+                            
+                                l'Istituto nazionale di previdenza per i dipendenti dell'amministrazione pubblica (INPDAP), istituito ai sensi dell'art. 4 del presente decreto, per quanto attiene alla previdenza dei dipendenti delle amministrazioni pubbliche; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                l'Istituto nazionale della previdenza sociale (INPS), per quanto attiene alla previdenza dei lavoratori dipendenti del settore privato e dei lavoratori autonomi; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                l'Istituto nazionale per l'assicurazione contro gli infortuni sul lavoro e le malattie professionali (INAIL), per quanto attiene alla materia infortunistica; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                l'Istituto di previdenza per il settore marittimo (IPSEMA), ente istituito dall'art. 2 del presente decreto legislativo, per quanto attiene all'assicurazione per gli infortuni sul lavoro e le malattie della gente di mare.
 
 Con decreti del Presidente della Repubblica, su proposta del Ministro del lavoro e della previdenza sociale, di concerto con i Ministri della funzione pubblica e del tesoro, da emanarsi ai sensi dell'art. 17 della legge 23 agosto 1988, n. 400, sono disciplinati, entro il termine di novanta giorni dalla data di entrata in vigore del presente decreto, e per quanto non espressamente ivi previsto, l'organizzazione e il funzionamento degli enti di cui al comma 1, secondo i criteri stabiliti nell'art.
 
@@ -71,6 +103,52 @@ L'Istituto e' iscritto alla categoria prima della tabella allegata alla legge 20
 
 L'ordinamento degli enti pubblici di cui al presente decreto e' determinato dai regolamenti previsti dal comma 2 dell'art. 1 in conformita' ai seguenti criteri di carattere generale.
 
+2.
+                    
+                        
+                            Sono organi degli Enti: 
+ 
+                        
+                        
+                            a)
+                            
+                                il presidente; 
+
+                            
+                        
+                        
+                            a-bis)
+                            
+                                LETTERA ABROGATA DAL D.L. 10 MAGGIO 2023, N. 51, CONVERTITO CON MODIFICAZIONI DALLA L. 3 LUGLIO 2023, N. 87; 
+
+                            
+                        
+                        
+                            a-ter)
+                            
+                                il consiglio di amministrazione; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                il consiglio di indirizzo e vigilanza; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                il collegio dei sindaci; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                il direttore generale. (9)
+
 Il Presidente ha la rappresentanza legale dell'Istituto; convoca e presiede il consiglio di amministrazione; puo' assistere alle sedute del consiglio di indirizzo e vigilanza. Il Presidente e' nominato ai sensi della legge 24 gennaio 1978, n. 14, con la procedura di cui all'articolo 3 della legge 23 agosto 1988, n. 400, tra persone di comprovata competenza e professionalita', con specifica esperienza nonche' di indiscussa moralita' e indipendenza, nel rispetto dei criteri di imparzialita' e garanzia; la deliberazione del Consiglio dei ministri e' adottata su proposta del Ministro del lavoro e delle politiche sociali di concerto con il Ministro dell'economia e delle finanze.
 
 COMMA ABROGATO DAL D.L. 10 MAGGIO 2023, N. 51, CONVERTITO CON MODIFICAZIONI DALLA L. 3 LUGLIO 2023, N. 87.
@@ -81,6 +159,28 @@ Il consiglio di amministrazione predispone i piani pluriennali, i criteri genera
 Il consiglio esercita inoltre ogni altra funzione che non sia compresa nella sfera di competenza degli altri organi dell'ente. Il consiglio e' composto dal Presidente dell'Istituto, che lo presiede, e da quattro membri, tutti scelti tra persone di comprovata competenza e professionalita', con specifica esperienza nonche' di indiscussa moralita' e indipendenza, nel rispetto dei criteri di imparzialita' e garanzia. Si applicano, riguardo ai requisiti, le disposizioni di cui al decreto legislativo 14 marzo 2013, n. 33, e al decreto legislativo 8 aprile 2013, n. 39. La carica di consigliere di amministrazione e' incompatibile con quella di componente del consiglio di indirizzo e vigilanza.
 
 Il direttore generale e' nominato dal Ministro del lavoro e delle politiche sociali, su proposta del consiglio di amministrazione, tra persone di comprovata competenza e professionalita' nonche' di indiscussa moralita' e indipendenza, nel rispetto dei criteri di imparzialita' e garanzia; puo' assistere alle sedute del consiglio di indirizzo e vigilanza; ha la responsabilita' dell'attivita' diretta al conseguimento dei risultati e degli obiettivi fissati dal consiglio di amministrazione; sovraintende al personale e all'organizzazione dei servizi, assicurandone l'unita' operativa e di indirizzo tecnico-amministrativo; esercita i poteri di cui agli articoli 8 del decreto del Presidente della Repubblica 30 aprile 1970, n. 639, e 48 della legge 9 marzo 1989, n. 88, nonche' tutti gli altri previsti dalla legislazione vigente.
+
+7.
+                    
+                        
+                            Il collegio dei sindaci, che esercita le funzioni di cui all'art. 2403 e seguenti del codice civile, e' composto: 
+                        
+                        
+                            a)
+                            
+                                per l'INPS e l'INAIL da sette membri di cui quattro in rappresentanza del Ministero del lavoro e della previdenza sociale e tre in rappresentanza del Ministero del tesoro;
+                            
+                        
+                        
+                            b)
+                            
+                                per l'INPDAP da sette membri di cui tre in rappresentanza del Ministero del lavoro e della previdenza sociale e quattro in rappresentanza del Ministero del tesoro;
+                            
+                        
+                        
+                            c)
+                            
+                                per l'IPSEMA da cinque membri di cui tre in rappresentanza del Ministero del lavoro e della previdenza sociale e due in rappresentanza del Ministero del tesoro. Uno dei rappresentanti del Ministero del lavoro e della previdenza sociale svolge le funzioni di presidente. I rappresentanti delle Amministrazioni pubbliche, di qualifica non inferiore a dirigente generale, sono collocati fuori ruolo secondo le disposizioni dei vigenti ordinamenti di appartenenza. Per ciascuno dei componenti e' nominato un membro supplente. (9)
 
 Il consiglio di indirizzo e vigilanza e nominato con decreto del Presidente del Consiglio dei Ministri, su proposta del Ministro del lavoro e della previdenza sociale, sulla base di designazioni delle confederazioni e delle organizzazioni di cui al comma 4. La nomina del collegio dei sindaci e' disciplinata dall'art. 10, commi 7 e 8, della legge 9 marzo 1989, n. 88. Il consiglio di amministrazione e' nominato con decreto del Presidente del Consiglio dei ministri su proposta del Ministro del lavoro e delle politiche sociali di concerto con il Ministro dell'economia e delle finanze.
 

@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Codici
 vigenza_date: 2026-06-07
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:38:35Z
+zip_date: 2026-08-04
+fetched_at: 2026-08-04
 ---
 
 DECRETO LEGISLATIVO
@@ -155,7 +155,60 @@ Il mandato delle consigliere e dei consiglieri di cui all'articolo 12, effettivi
 
 ## Art. 15. — (Compiti e funzioni)
 
+1.
+                        
+                            
+                                Le consigliere ed i consiglieri di parita' ((operano in coordinamento con l'Organismo per la parita' e, tenendo conto degli indirizzi generali di attivita' di quest'ultimo,)) intraprendono ogni utile iniziativa, nell'ambito delle competenze ((delle regioni, delle citta' metropolitane e degli enti di area vasta di cui alla legge 7 aprile 2014, n. 56)), ai fini del rispetto del principio di non discriminazione e della promozione di pari opportunita' per lavoratori e lavoratrici, svolgendo in particolare i seguenti compiti: ((18))
+                                
+                            
+                            
+                                a)
+                                
+                                    rilevazione delle situazioni di squilibrio di genere, anche in collaborazione con le direzioni interregionali e territoriali del lavoro, al fine di svolgere le funzioni promozionali e di garanzia contro le discriminazioni nell'accesso al lavoro, nella promozione e nella formazione professionale, ivi compresa la progressione professionale e di carriera, nelle condizioni di lavoro compresa la retribuzione, nonche' in relazione alle forme pensionistiche complementari collettive di cui al decreto legislativo 5 dicembre 2005, n. 252; 
 
+                                
+                            
+                            
+                                b)
+                                
+                                    promozione di progetti di azioni positive, anche attraverso l'individuazione delle risorse dell'Unione europea, nazionali e locali finalizzate allo scopo; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    promozione della coerenza della programmazione delle politiche di sviluppo territoriale rispetto agli indirizzi dell'unione europea e di quelli nazionali e regionali in materia di pari opportunita'; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    promozione delle politiche di pari opportunita' nell'ambito delle politiche attive del lavoro, comprese quelle formative; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    collaborazione con le direzioni interregionali e territoriali del lavoro al fine di rilevare l'esistenza delle violazioni della normativa in materia di parita', pari opportunita' e garanzia contro le discriminazioni, anche mediante la progettazione di appositi pacchetti formativi; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    diffusione della conoscenza e dello scambio di buone prassi e attivita' di informazione e formazione culturale sui problemi delle pari opportunita' e sulle varie forme di discriminazione; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    collegamento e collaborazione con i competenti assessorati e con gli organismi di parita' degli enti locali.
+
+((COMMA ABROGATO DAL D.LGS. 7 MAGGIO 2026, N. 91)). ((18))
 
 Le consigliere e i consiglieri ((...)) regionali partecipano ai tavoli di partenariato locale e ai comitati di sorveglianza di cui al regolamento (CE) n. 1303/2013 del Parlamento europeo e del Consiglio del 17 dicembre 2013. Le consigliere e i consiglieri regionali, delle citta' metropolitane e degli enti di area vasta sono inoltre componenti delle commissioni di parita' del corrispondente livello territoriale, ovvero di organismi diversamente denominati che svolgono funzioni analoghe. ((PERIODO SOPPRESSO DAL D.LGS. 7 MAGGIO 2026, N. 91)). ((18))
 
@@ -363,6 +416,31 @@ Le prestazioni ai superstiti previste dal testo unico delle disposizioni per l'a
 
 ((
 
+1.
+                        
+                            
+                                Nelle forme pensionistiche complementari collettive di cui al decreto legislativo 5 dicembre 2005, n. 252, e' vietata qualsiasi discriminazione diretta o indiretta, specificamente per quanto riguarda:
+ 
+                            
+                            
+                                a)
+                                
+                                    il campo d'applicazione di tali forme pensionistiche e relative condizioni d'accesso;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'obbligo di versare i contributi e il calcolo degli stessi;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il calcolo delle prestazioni, comprese le maggiorazioni da corrispondere per il coniuge e per le persone a carico, nonche' le condizioni relative alla durata e al mantenimento del diritto alle prestazioni.
+
 La fissazione di livelli differenti per le prestazioni e' consentita soltanto se necessaria per tener conto di elementi di calcolo attuariale differenti per i due sessi nel caso di forme pensionistiche a contribuzione definita. Nel caso di forme pensionistiche a prestazioni definite, finanziate mediante capitalizzazione, alcuni elementi possono variare sempreche' l'ineguaglianza degli importi sia da attribuire alle conseguenze dell'utilizzazione di fattori attuariali che variano a seconda del sesso all'atto dell'attuazione del finanziamento del regime.
 
 I dati attuariali che giustificano trattamenti diversificati ai sensi del comma 2 devono essere affidabili, pertinenti ed accurati.
@@ -403,6 +481,31 @@ Salvo quanto previsto dal comma 5, si presume che il licenziamento della dipende
 
 Sono nulle le dimissioni presentate dalla lavoratrice nel periodo di cui al comma 3, salvo che siano dalla medesima confermate entro un mese alla Direzione ((della citta' metropolitana e dell'ente di area vasta di cui alla legge 7 aprile 2014, n. 56)) del lavoro.
 
+5.
+                        
+                            
+                                Al datore di lavoro e' data facolta' di provare che il licenziamento della lavoratrice, avvenuto nel periodo di cui al comma 3, e' stato effettuato non a causa di matrimonio, ma per una delle seguenti ipotesi: 
+ 
+                            
+                            
+                                a)
+                                
+                                    colpa grave da parte della lavoratrice, costituente giusta causa per la risoluzione del rapporto di lavoro; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    cessazione dell'attivita' dell'azienda cui essa e' addetta; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    ultimazione della prestazione per la quale la lavoratrice e' stata assunta o di risoluzione del rapporto di lavoro per la scadenza del termine.
+
 Con il provvedimento che dichiara la nullita' dei licenziamenti di cui ai commi 1, 2, 3 e 4 e' disposta la corresponsione, a favore della lavoratrice allontanata dal lavoro, della retribuzione globale di fatto sino al giorno della riammissione in servizio.
 
 La lavoratrice che, invitata a riassumere servizio, dichiari di recedere dal contratto, ha diritto al trattamento previsto per le dimissioni per giusta causa, ferma restando la corresponsione della retribuzione fino alla data del recesso.
@@ -414,6 +517,47 @@ Le disposizioni precedenti si applicano sia alle lavoratrici dipendenti da impre
 ## Art. 35-bis. — (( (Assistenza alle vittime).))
 
 
+
+2.
+                        
+                            
+                                
+                                    ((L' Organismo per la parita' offre assistenza gratuita alle vittime, fornendo loro una consulenza mirata alla loro situazione specifica ed informandole in merito:))
+                                
+                            
+                            
+                                a)
+                                
+                                    
+                                        ((alla normativa applicabile;))
+                                    
+                                
+                            
+                            
+                                b)
+                                
+                                    ai servizi offerti e ai relativi aspetti procedurali; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    ai mezzi di ricorso disponibili, sia in via giudiziale che stragiudiziale; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    alle disposizioni applicabili in materia di riservatezza e protezione dei dati personali; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    alla possibilita' di ottenere un sostegno psicologico o di altro tipo, anche per il tramite di altri organismi od organizzazioni, quali i centri antiviolenza.))
 
 ((Effettuata una prima istruttoria, l'Organismo per la parita' stabilisce con parere motivato se dar seguito alla denuncia o archiviarla e ne informa i denuncianti.))
 
@@ -521,6 +665,59 @@ La tutela giurisdizionale di cui al presente capo si applica, altresi', avverso 
 
 Le azioni positive, consistenti in misure volte alla rimozione degli ostacoli che di fatto impediscono la realizzazione di pari opportunita', nell'ambito della competenza statale, sono dirette a favorire l'occupazione femminile e realizzate l'uguaglianza sostanziale tra uomini e donne nel lavoro.
 
+2.
+                        
+                            
+                                Le azioni positive di cui al comma 1 hanno in particolare lo scopo di:
+ 
+                            
+                            
+                                a)
+                                
+                                    eliminare le disparita' nella formazione scolastica e professionale, nell'accesso al lavoro, nella progressione di carriera, nella vita lavorativa e nei periodi di mobilita';
+
+                                
+                            
+                            
+                                b)
+                                
+                                    favorire la diversificazione delle scelte professionali delle donne in particolare attraverso l'orientamento scolastico e professionale e gli strumenti della formazione;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    favorire l'accesso al lavoro autonomo e alla formazione imprenditoriale e la qualificazione professionale delle lavoratrici autonome e delle imprenditrici;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    superare condizioni, organizzazione e distribuzione del lavoro che provocano effetti diversi, a seconda del sesso, nei confronti dei dipendenti con pregiudizio nella formazione, nell'avanzamento professionale e di carriera ovvero nel trattamento economico e retributivo;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    promuovere l'inserimento delle donne nelle attivita', nei settori professionali e nei livelli nei quali esse sono sottorappresentate e in particolare nei settori tecnologicamente avanzati ed ai livelli di responsabilita';
+
+                                
+                            
+                            
+                                f)
+                                
+                                    favorire, anche mediante una diversa organizzazione del lavoro, delle condizioni e del tempo di lavoro, l'equilibrio tra responsabilita' familiari e professionali e una migliore ripartizione di tali responsabilita' tra i due sessi.
+
+                                
+                            
+                            
+                                f-bis)
+                                
+                                    valorizzare il contenuto professionale delle mansioni a piu' forte presenza femminile.
+
 ## Art. 43. — Promozione delle azioni positive 
  
  (legge 10 aprile 1991, n. 125, articolo 1, comma 3)
@@ -576,6 +773,38 @@ Nel caso di rapporto mendace o incompleto si applica una sanzione amministrativa
 ((
 
 A decorrere dal 1° gennaio 2022 e' istituita la certificazione della parita' di genere al fine di attestare le politiche e le misure concrete adottate dai datori di lavoro per ridurre il divario di genere in relazione alle opportunita' di crescita in azienda, alla parita' salariale a parita' di mansioni, alle politiche di gestione delle differenze di genere e alla tutela della maternita'.
+
+2.
+                        
+                            
+                                Con uno o piu' decreti del Presidente del Consiglio dei ministri, su proposta del Ministro delegato per le pari opportunita', di concerto con il Ministro del lavoro e delle politiche sociali e con il Ministro dello sviluppo economico, sono stabiliti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    i parametri minimi per il conseguimento della certificazione della parita' di genere da parte delle aziende di cui all'articolo 46, commi 1 e 1-bis, con particolare riferimento alla retribuzione corrisposta, alle opportunita' di progressione in carriera e alla conciliazione dei tempi di vita e di lavoro, anche con riguardo ai lavoratori occupati di sesso femminile in stato di gravidanza; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le modalita' di acquisizione e di monitoraggio dei dati trasmessi dai datori di lavoro e resi disponibili dal Ministero del lavoro e delle politiche sociali; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    le modalita' di coinvolgimento delle rappresentanze sindacali aziendali e delle consigliere e dei consiglieri di parita' regionali, delle citta' metropolitane e degli enti di area vasta di cui alla legge 7 aprile 2014, n. 56, nel controllo e nella verifica del rispetto dei parametri di cui alla lettera a); 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    le forme di pubblicita' della certificazione della parita' di genere.
 
 E' istituito, presso il Dipartimento per le pari opportunita' della Presidenza del Consiglio dei ministri, un Comitato tecnico permanente sulla certificazione di genere nelle imprese, costituito da rappresentanti del medesimo Dipartimento per le pari opportunita', del Ministero del lavoro e delle politiche sociali, del Ministero dello sviluppo economico, delle consigliere e dei consiglieri di parita', da rappresentanti sindacali e da esperti, individuati secondo modalita' definite con decreto del Presidente del Consiglio dei ministri o del Ministro delegato per le pari opportunita', di concerto con il Ministro del lavoro e delle politiche sociali e con il Ministro dello sviluppo economico.
 
@@ -637,13 +866,88 @@ La tutela ed il sostegno della maternita' e paternita' e' disciplinata dal decre
 ## Art. 52. — Principi in materia di azioni positive per l'imprenditoria femminile 
  (legge 25 febbraio 1992, n. 215, articolo 1, commi 1 e 2)
 
+1.
+                        
+                            
+                                Il presente capo indica i principi generali volti a promuovere l'uguaglianza sostanziale e le pari opportunita' tra uomini e donne nell'attivita' economica e imprenditoriale, e, in particolare, i principi diretti a:
+ 
+                            
+                            
+                                a)
+                                
+                                    favorire la creazione e lo sviluppo dell'imprenditoria femminile, anche in forma cooperativa;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    promuovere la formazione imprenditoriale e qualificare la professionalita' delle donne imprenditrici;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    agevolare l'accesso al credito per le imprese a conduzione o a prevalente partecipazione femminile;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    favorire la qualificazione imprenditoriale e la gestione delle imprese familiari da parte delle donne;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    promuovere la presenza delle imprese a conduzione o a prevalente partecipazione femminile nei comparti piu' innovativi dei diversi settori produttivi.
+
 ## Art. 53. — Principi in materia di beneficiari delle azioni positive
 
  (legge 25 febbraio 1992, n. 215, articolo 2, comma 1)
 
+1.
+                        
+                            
+                                I principi in materia di azioni positive per l'imprenditoria femminile si rivolgono ai seguenti soggetti:
+ 
+                            
+                            
+                                a)
+                                
+                                    le societa' cooperative e le societa' di persone, costituite in misura non inferiore al 60 per cento da donne, le societa' di capitali le cui quote di partecipazione spettino in misura non inferiore ai due terzi a donne e i cui organi di amministrazione siano costituiti per almeno i due terzi da donne, nonche' le imprese individuali gestite da donne, che operino nei settori dell'industria, dell'artigianato, dell'agricoltura, del commercio, del turismo e dei servizi;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le imprese, o i loro consorzi, le associazioni, gli enti, le societa' di promozione imprenditoriale anche a capitale misto pubblico e privato, i centri di formazione e gli ordini professionali che promuovono corsi di formazione imprenditoriale o servizi di consulenza e di assistenza tecnica e manageriale riservati per una quota non inferiore al settanta per cento a donne.
+
 ## Art. 54. — Fondo nazionale per l'imprenditoria femminile
 
  (legge 25 febbraio 1992, n. 215, articolo 3, comma 1)
+
+1.
+                        
+                            
+                                A valere sulle disponibilita' del Fondo, istituito con l'articolo 3, comma 1, della legge 25 febbraio 1992, n. 215, con apposito capitolo nello stato di previsione della spesa del ((Ministero dello sviluppo economico)), possono essere concesse ai soggetti indicati all'articolo 53, comma 1, lettera a), nel rispetto dei principi fondamentali dell'ordinamento anche comunitario, le agevolazioni previste dalla disciplina vigente:
+ 
+                            
+                            
+                                a)
+                                
+                                    per impianti ed attrezzature sostenute per l'avvio o per l'acquisto di attivita' commerciali e turistiche o di attivita' nel settore dell'industria, dell'artigianato, del commercio o dei servizi, nonche' per i progetti aziendali connessi all'introduzione di qualificazione e di innovazione di prodotto, tecnologica od organizzativa;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    per l'acquisizione di servizi destinati all'aumento della produttivita', all'innovazione organizzativa, al trasferimento delle tecnologie, alla ricerca di nuovi mercati per il collocamento dei prodotti, all'acquisizione di nuove tecniche di produzione, di gestione e di commercializzazione, nonche' per lo sviluppo di sistemi di qualita'.
 
 Ai soggetti di cui all'articolo 53, comma 1, lettera b), possono essere concesse agevolazioni per le spese sostenute per le attivita' ivi previste.
 
@@ -678,6 +982,31 @@ Non costituiscono discriminazione, ai sensi del presente titolo, le differenze d
 E' vietata ogni discriminazione diretta e indiretta fondata sul sesso nell'accesso a beni e servizi e loro fornitura.
 
 Il divieto di cui al comma 1 si applica a tutti i soggetti, pubblici e privati, fornitori di beni e servizi che sono a disposizione del pubblico e che sono offerti al di fuori dell'area della vita privata e familiare e delle transazioni ivi effettuate.
+
+3.
+                        
+                            
+                                Sono escluse dall'ambito di applicazione del comma 1 le seguenti aree:
+ 
+                            
+                            
+                                a)
+                                
+                                    impiego e occupazione, anche nell'ambito del lavoro autonomo nella misura in cui sia applicabile una diversa disciplina;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    contenuto dei mezzi di comunicazione e della pubblicita';
+
+                                
+                            
+                            
+                                c)
+                                
+                                    istruzione pubblica e privata.
 
 Resta impregiudicata la liberta' contrattuale delle parti, nella misura in cui la scelta del contraente non si basa sul sesso della persona.
 
@@ -769,6 +1098,59 @@ Al fine di promuovere il principio della parita' di trattamento nell'accesso a b
 
 I compiti di promozione, analisi, controllo e sostegno della parita' di trattamento nell'accesso a beni e servizi e loro fornitura, senza discriminazioni fondate sul sesso, sono svolti dall'Ufficio di livello dirigenziale generale della Presidenza del Consiglio dei Ministri - Dipartimento per i diritti e le pari opportunita', individuato ai sensi del comma 4. Tale ufficio svolge, in modo autonomo e imparziale, nel predetto ambito, attivita' di promozione della parita' e di rimozione di qualsiasi forma di discriminazione fondata sul sesso.
 
+2.
+                        
+                            
+                                In particolare, i compiti attribuiti all'Ufficio di cui al comma 1 sono i seguenti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    fornire un'assistenza indipendente alle persone lese dalla violazione del divieto di cui all'articolo 55-ter; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    svolgere, nel rispetto delle prerogative e delle funzioni dell'autorita' giudiziaria, inchieste indipendenti in materia al fine di verificare l'esistenza di fenomeni discriminatori; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    promuovere l'adozione, da parte di soggetti pubblici e privati, in particolare da parte delle associazioni e degli enti di cui all'articolo 55-septies, di misure specifiche, ivi compresi progetti di azioni positive, dirette a evitare il prodursi di discriminazioni per ragioni di sesso nell'accesso a beni e servizi e loro fornitura; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    diffondere la massima conoscenza possibile degli strumenti di tutela vigenti anche mediante azioni di sensibilizzazione dell'opinione pubblica sul principio della parita' di trattamento nell'accesso a beni e servizi e loro fornitura e la realizzazione di campagne di informazione e comunicazione; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    formulare raccomandazioni e pareri su questioni connesse alle discriminazioni per ragioni di sesso nell'accesso a beni e servizi e  loro fornitura, nonche' proposte di modifica della normativa vigente; 
+                                
+                            
+                            
+                                f)
+                                
+                                    redigere una relazione annuale per il Parlamento 
+sull'effettiva applicazione del principio di parita' di trattamento nell'accesso a beni e servizi e loro fornitura e sull'efficacia dei meccanismi di tutela e una relazione annuale al Presidente del Consiglio dei Ministri sull'attivita' svolta; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    promuovere studi, ricerche, corsi di formazione e scambi di esperienze, in collaborazione anche con le associazioni e gli enti di cui all'articolo 55-septies, con le altre organizzazioni non governative operanti nel settore e con gli istituti specializzati di rilevazione statistica, anche al fine di elaborare linee guida in materia di lotta alle discriminazioni.
+
 L'Ufficio ha facolta' di richiedere ad enti, persone ed imprese che ne siano in possesso, di fornire le informazioni e di esibire i documenti utili ai fini dell'espletamento dei compiti di cui al comma 2.
 
 Con decreto del Presidente del Consiglio dei Ministri, o per sua delega del Ministro per i diritti e le pari opportunita', da adottarsi entro un mese dalla data di entrata in vigore del presente decreto legislativo, e' individuato, nell'ambito di quelli esistenti, senza nuovi o maggiori oneri per il bilancio dello Stato, l'Ufficio di cui al comma 1.
@@ -800,6 +1182,94 @@ Per i movimenti e i partiti politici presentatori di liste che non abbiano rispe
 La somma eventualmente derivante dalla riduzione di cui al comma 2 e' erogata ai partiti o gruppi politici organizzati che abbiano avuto proclamata eletta, ai sensi dell'articolo 22 della legge 24 gennaio 1979, n. 18, e successive modificazioni, una quota superiore ad un terzo di candidati di entrambi i sessi. Tale somma e' ripartita in misura proporzionale ai voti ottenuti da ciascun partito o gruppo politico organizzato.
 
 ## Art. 57. — Disposizioni abrogate
+
+1.
+                        
+                            
+                                Sono abrogate le seguenti disposizioni:
+ 
+                            
+                            
+                                a)
+                                
+                                    la legge 9 gennaio 1963, n. 7;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'articolo 1 della legge 9 febbraio 1963, n. 66;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    gli articoli 1, 2, 3, 4, 9, 10, 11, 12, 15 e 16, comma 1, della legge 9 dicembre 1977, n. 903;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    gli articoli 1 e 2 della legge 13 dicembre 1986, n. 874;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    l'articolo 11 della legge 6 agosto 1990, n. 223;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    la legge 10 aprile 1991, n. 125, ad eccezione dell'articolo 11;
+
+                                
+                            
+                            
+                                g)
+                                
+                                    la legge 25 febbraio 1992, n. 215, ad eccezione degli articoli 10, comma 6, 12 e 13;
+
+                                
+                            
+                            
+                                h)
+                                
+                                    l'articolo 5 del decreto legislativo 30 luglio 1999, n. 303;
+
+                                
+                            
+                            
+                                i)
+                                
+                                    il decreto legislativo 31 gennaio 2000, n. 24;
+
+                                
+                            
+                            
+                                l)
+                                
+                                    il decreto legislativo 23 maggio 2000, n. 196, ad eccezione dell'articolo 10, comma 4;
+
+                                
+                            
+                            
+                                m)
+                                
+                                    il decreto legislativo 31 luglio 2003, n. 226, ad eccezione degli articoli 6, comma 2, e 7, comma 1;
+
+                                
+                            
+                            
+                                n)
+                                
+                                    l'articolo 3 della legge 8 aprile 2004, n. 90.
 
 ## Art. 58. — Disposizioni finanziarie
 

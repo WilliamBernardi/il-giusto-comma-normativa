@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: DPR
 vigenza_date: 2022-06-15
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:47:45Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -1146,6 +1146,30 @@ A decorrere dal 1° ottobre 2007, le misure dell'indennita' mensile pensionabile
 
 ## Art. 5. — Fondo per l'efficienza dei servizi istituzionali
 
+1.
+                        
+                            
+                                Per ogni Forza di polizia ad ordinamento civile il Fondo per l'efficienza dei servizi istituzionali, di cui all'articolo 14 del decreto del Presidente della Repubblica 18 giugno 2002, n. 164, cosi' come incrementato dall'articolo 3 del decreto del Presidente della Repubblica 19 novembre 2003, n. 348, dall'articolo 7 del decreto del Presidente della Repubblica 5 novembre 2004, n. 301, e dall'articolo 4 del decreto del Presidente della Repubblica 28 aprile 2006, n. 220, e' ulteriormente incrementato delle seguenti risorse economiche annue:
+ 
+                            
+                            
+                                a)
+                                
+                                    per l'anno 2007:
+ 1) Polizia di Stato: euro 10.530.000,00;
+ 2) Polizia penitenziaria: euro 4.020.000,00;
+ 3) Corpo forestale dello Stato: euro 542.000,00;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    a decorrere dal 31 dicembre 2007 e a valere dal 2008:
+ 1) Polizia di Stato: euro 20.836.000,00;
+ 2) Polizia penitenziaria: euro 7.994.000,00;
+ 3) Corpo forestale dello Stato: euro 1.000.000,00.
+
 Gli importi di cui alle lettere a) e b) del comma 1 non comprendono gli oneri contributivi e l'IRAP a carico dello Stato.
 Quelli afferenti all'anno 2007 non hanno effetto di trascinamento nell'anno successivo.
 
@@ -1270,6 +1294,59 @@ In caso di patologie gravi che richiedano terapie salvavita ed altre ad esse ass
 Per agevolare il soddisfacimento di particolari esigenze collegate a terapie o visite specialistiche di cui al comma 1, le amministrazioni favoriscono un'idonea articolazione dell'orario di lavoro nei confronti dei soggetti interessati.
 
 ## Art. 14. — Tutela delle lavoratrici madri
+
+1.
+                        
+                            
+                                Oltre a quanto previsto dal decreto legislativo 26 marzo 2001, n. 151, al personale delle Forze di Polizia ad ordinamento civile si applicano le seguenti disposizioni:
+ 
+                            
+                            
+                                a)
+                                
+                                    esonero dalla sovrapposizione completa dei turni, a richiesta degli interessati, tra coniugi dipendenti dalla stessa Amministrazione con figli fino a sei anni di eta';
+
+                                
+                            
+                            
+                                b)
+                                
+                                    esonero, a domanda, per la madre o, alternativamente, per il padre, dal turno notturno sino al compimento del terzo anno di eta' del figlio;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    esonero, a domanda, per la madre o per le situazioni monoparentali dal turno notturno o da turni continuativi articolati sulle 24 ore sino al compimento del terzo anno di eta' del figlio;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    divieto di inviare in missione fuori sede o in servizio di ordine pubblico per piu' di una giornata, senza il consenso dell'interessato, il personale con figli di eta' inferiore a tre anni che ha proposto istanza per essere esonerato dai turni continuativi e notturni e dalla sovrapposizione dei turni;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    esonero, a domanda, dal turno notturno per i dipendenti che abbiano a proprio carico un soggetto disabile ai sensi della legge 5 febbraio 1992, n. 104;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    possibilita' per le lavoratrici madri vincitrici di concorso interno, con figli fino al dodicesimo anno di eta', di frequentare il corso di formazione presso la scuola piu' vicina al luogo di residenza, tra quelle in cui il corso stesso si svolge;
+
+                                
+                            
+                            
+                                g)
+                                
+                                    divieto di impiegare la madre o il padre che fruiscono dei riposi giornalieri, ai sensi degli articoli 39 e 40, del decreto legislativo 26 marzo 2001, n. 151 in turni continuativi articolati sulle 24 ore.
 
 La disposizione di cui all'articolo 9, comma 1, del decreto legislativo 26 marzo 2001, n. 151, si applica anche alle appartenenti al Corpo forestale dello Stato.
 
@@ -2386,6 +2463,28 @@ A decorrere dal 1° ottobre 2007, le misure dell'indennita' mensile pensionabile
 
 ## Art. 23. — Fondo per l'efficienza dei servizi istituzionali
 
+1.
+                        
+                            
+                                Per ogni Forza di polizia ad ordinamento militare il Fondo per l'efficienza dei servizi istituzionali, di cui all'articolo 53 del decreto del Presidente della Repubblica 18 giugno 2002, n. 164, cosi' come incrementato dall'articolo 8 del decreto del Presidente della Repubblica 19 novembre 2003, n. 348, dall'articolo 14 del decreto del Presidente della Repubblica 5 novembre 2004, n. 301, e dall'articolo 8 del decreto del Presidente della Repubblica 28 aprile 2006, n. 220 e' ulteriormente incrementato delle seguenti risorse economiche annue:
+ 
+                            
+                            
+                                a)
+                                
+                                    per l'anno 2007:
+ 1) Arma dei carabinieri: euro 11.737.000,00;
+ 2) Guardia di Finanza: euro 7.260.000,00;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    a decorrere dal 31 dicembre 2007 e a valere dal 2008:
+ 1) Arma dei carabinieri: euro 23.353.000,00;
+ 2) Guardia di Finanza: euro 14.680.000,00.
+
 Gli importi di cui alle lettere a) e b) del comma 1 non comprendono gli oneri contributivi e l'IRAP a carico dello Stato.
 Quelli afferenti all'anno 2007 non hanno effetto di trascinamento nell'anno successivo.
 
@@ -2510,6 +2609,59 @@ Per agevolare il soddisfacimento di particolari esigenze collegate a terapie o v
 
 ## Art. 32. — Tutela delle lavoratrici madri
 
+1.
+                        
+                            
+                                Oltre a quanto previsto dal decreto legislativo 26 marzo 2001, n. 151, al personale delle Forze di polizia ad ordinamento militare si applicano le seguenti disposizioni:
+ 
+                            
+                            
+                                a)
+                                
+                                    esonero dalla sovrapposizione completa dell'orario di servizio, a richiesta degli interessati, tra coniugi dipendenti dalla stessa Amministrazione con figli fino a sei anni di eta';
+
+                                
+                            
+                            
+                                b)
+                                
+                                    esonero, a domanda, per la madre o, alternativamente, per il padre, dal servizio notturno sino al compimento del terzo anno di eta' del figlio;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    esonero, a domanda, per la madre o per le situazioni monoparentali dal servizio notturno o dal servizio su turni continuativi articolati sulle 24 ore sino al compimento del terzo anno di eta' del figlio;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    divieto di inviare in missione fuori sede o in servizio di ordine pubblico per piu' di una giornata, senza il consenso dell'interessato, il personale con figli di eta' inferiore a tre anni che ha proposto istanza per essere esonerato dai servizi continuativi e notturni e dalla sovrapposizione dei servizi;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    esonero, a domanda, dal servizio notturno per i dipendenti che abbiano a proprio carico un soggetto disabile ai sensi della legge 5 febbraio 1992, n. 104;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    possibilita' per le lavoratrici madri vincitrici di concorso interno, con figli fino al dodicesimo anno di eta', di frequentare il corso di formazione presso la scuola piu' vicina al luogo di residenza, tra quelle in cui il corso stesso si svolge;
+
+                                
+                            
+                            
+                                g)
+                                
+                                    divieto di impiegare la madre o il padre che fruiscono dei riposi giornalieri, ai sensi degli articoli 39 e 40 del decreto legislativo 26 marzo 2001, n. 151, in servizi continuativi articolati sulle 24 ore.
+
 Nel caso di adozione o affidamento preadottivo, i benefici di cui al comma 1 si applicano dalla data di effettivo ingresso del bambino nella famiglia.
 
 ## Art. 33. — Licenza straordinaria per congedo parentale
@@ -2565,6 +2717,31 @@ Salvo quanto espressamente previsto, le disposizioni dei precedenti articoli han
 Le procedure di cui al decreto legislativo 12 maggio 1995, n. 195, da attivare subordinatamente alle risorse rese disponibili dalla legge finanziaria per l'anno 2008 integreranno, anche con riguardo alla parte normativa, le previsioni contenute nel presente decreto.
 
 ## Art. 40. — Copertura finanziaria
+
+1.
+                        
+                            
+                                All'onere derivante dall'attuazione del presente decreto, valutato in 49,775 milioni di euro per l'anno 2006, in 326,567 milioni di euro per l'anno 2007 e in 720,576 milioni di euro a decorrere dall'anno 2008, si provvede:
+ 
+                            
+                            
+                                a)
+                                
+                                    per l'anno 2006, mediante riduzione dell'autorizzazione di spesa prevista dall'articolo 1, comma 184, della legge 23 dicembre 2005, n. 266;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    per l'anno 2007, quanto a 75,000 milioni di euro mediante riduzione dell'autorizzazione di spesa prevista dall'articolo 1, comma 184, della legge 23 dicembre 2005, n. 266 e quanto a 251,567 milioni di euro mediante riduzione dell'autorizzazione di spesa prevista dall'articolo 1, comma 549, della legge 27 dicembre 2006, n. 296;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    a decorrere dall'anno 2008, quanto a 75,000 milioni di euro mediante riduzione dell'autorizzazione di spesa prevista dall'articolo 1, comma 184, della legge 23 dicembre 2005, n. 266 e quanto a 645,576 milioni di euro mediante riduzione dell'autorizzazione di spesa prevista dall'articolo 1, comma 549, della legge 27 dicembre 2006, n. 296; autorizzazioni iscritte nell'ambito dell'unita' previsionale di base 4.1.5.4 "Fondi da ripartire per oneri di personale", al capitolo 3027 dello stato di previsione del Ministero dell'economia e delle finanze per gli anni medesimi.
 
 Il Ministro dell'economia e delle finanze e' autorizzato ad apportare, con propri decreti, le necessarie variazioni di bilancio.
 

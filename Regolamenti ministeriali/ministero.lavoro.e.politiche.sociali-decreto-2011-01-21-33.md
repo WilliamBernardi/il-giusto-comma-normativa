@@ -8,8 +8,8 @@ codice_redazionale: 011G0071
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:40Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -45,6 +45,24 @@ Il Fondo gode di autonoma gestione finanziaria e patrimoniale, ai sensi dell'art
 
 ## Art. 2. — Finalita' del Fondo
 
+1.
+                    
+                        
+                            Il Fondo ha lo scopo di attuare, nei confronti dei lavoratori delle imprese cui si applica il contratto collettivo di settore, interventi che, nell'ambito e in connessione con processi di ristrutturazione e/o di situazioni di crisi ai sensi dell'articolo 2, comma 28, della legge 23 dicembre 1996, n. 662, o di rilevante riorganizzazione aziendale o di riduzione o trasformazione di attivita' o di lavoro: 
+ 
+                        
+                        
+                            a)
+                            
+                                favoriscano il mutamento e il rinnovamento delle professionalita'; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                realizzino politiche attive di sostegno del reddito e dell'occupazione.
+
 ## Art. 3. — Amministrazione del Fondo
 
 Il Fondo e' gestito da un «Comitato amministratore» composto da cinque esperti designati dall'ANIA e cinque esperti designati dalle Organizzazioni Sindacali stipulanti il contratto collettivo nazionale di lavoro e firmatarie del presente accordo nominati con decreto del Ministero del lavoro e delle politiche sociali. Il Comitato amministratore si compone altresi' di due rappresentanti con qualifica non inferiore a dirigente, rispettivamente del Ministero del lavoro e delle politiche sociali e del Ministero dell'economia e delle finanze.
@@ -61,7 +79,85 @@ Ai componenti del Comitato di cui al presente articolo non e' corrisposto alcun 
 
 ## Art. 4. — Compiti del Comitato Amministratore del Fondo
 
+1.
+                    
+                        
+                            Il Comitato amministratore: 
+ 
+                        
+                        
+                            a)
+                            
+                                predispone, sulla base dei criteri stabiliti dal consiglio di indirizzo e vigilanza dell'INPS, i bilanci annuali della gestione, preventivo e consuntivo, corredati da una relazione, e deliberare sui bilanci tecnici relativi alla gestione stessa; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                delibera gli interventi in conformita' alle regole di precedenza e turnazione fra le aziende, di cui all'articolo 9; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                delibera, sentite le parti firmatarie dell'accordo, la misura del contributo addizionale di cui all'articolo 6, comma 1, lettera b), nonche' la misura, espressa in termini percentuali, del contributo straordinario di cui al comma 3 dello stesso articolo; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                delibera le sospensioni ai sensi dell'articolo 6, comma 4; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                vigila sulla affluenza dei contributi, sulla erogazione delle prestazioni nonche' sull'andamento della gestione, studiando e proponendo i provvedimenti necessari per il miglior funzionamento del Fondo, nel rispetto del criterio di massima economicita', formulando proposte in merito agli oneri di funzionamento del Fondo medesimo; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                decide, in unica istanza, sui ricorsi in materia di contributi e prestazioni; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                delibera le revoche degli assegni straordinari nei casi di non cumulabilita' di cui all'articolo 11; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                assolve ogni altro compito che sia ad esso demandato da leggi o regolamenti;
+
 ## Art. 5. — Prestazioni
+
+1.
+                    
+                        
+                            Il Fondo provvede, nell'ambito dei processi di cui all'articolo 2 in via ordinaria: 
+ 
+                        
+                        
+                            a)
+                            
+                                a contribuire al finanziamento di programmi formativi di riconversione o riqualificazione professionale, anche in concorso con gli appositi Fondi nazionali o comunitari; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al finanziamento di specifici trattamenti a favore dei lavoratori interessati da riduzione dell'orario di lavoro o da sospensione temporanea dell'attivita' lavorativa anche in concorso con gli appositi strumenti di sostegno previsti dalla legislazione vigente.
 
 Il Fondo provvede, in via straordinaria, all'erogazione di assegni straordinari per il sostegno al reddito, in forma rateale, ed al versamento della contribuzione correlata di cui all'articolo 2, comma 28, della legge n. 662 del 1996, riconosciuti ai lavoratori ammessi a fruirne per un periodo massimo di 60 mesi fino alla maturazione dei requisiti per la pensione INPS, i piu' prossimi tra anzianita' e vecchiaia. Detto assegno sara' altresi' erogato nel periodo intercorrente tra la suddetta maturazione e la data di decorrenza dell'erogazione della pensione INPS, escluso per quest'ultimo periodo il versamento della contribuzione correlata.
 
@@ -77,6 +173,24 @@ Ai fini dell'applicazione dei criteri di cui ai commi da 1 a 4, si dovra' tener 
 Il Fondo versa, altresi', la contribuzione di cui al comma 2 dovuta alla competente gestione assicurativa obbligatoria.
 
 ## Art. 6. — Finanziamento
+
+1.
+                    
+                        
+                            Per le prestazioni di cui all'articolo 5, comma 1, sono dovuti al Fondo: 
+ 
+                        
+                        
+                            a)
+                            
+                                un contributo ordinario dello 0,50%, di cui lo 0,375% a carico del datore di lavoro e lo 0,125% a carico del lavoratore, calcolato sulla retribuzione imponibile ai fini previdenziali di tutti i lavoratori dipendenti con contratto a tempo indeterminato; per il primo anno di operativita' del Fondo l'onere sara' a totale carico del datore di lavoro; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                un contributo addizionale, a carico del datore di lavoro, in caso di fruizione delle prestazioni di cui all'articolo 5, comma 1, lettera b), nella misura non superiore all'1,50%, calcolato sulla retribuzione imponibile di cui alla lettera a), con l'applicazione di un coefficiente correttivo pari al rapporto tra le retribuzioni parzialmente o totalmente perdute dai dipendenti che fruiscono delle prestazioni, e le retribuzioni che restano in carico al datore di lavoro.
 
 Eventuali variazioni della misura del contributo ordinario dello 0,50% sono ripartite tra datore di lavoro e lavoratori in ragione degli stessi criteri di ripartizione di cui al comma 1, lettera a).
 
@@ -98,12 +212,55 @@ Qualora la gestione di liquidazione non risulti chiusa nel termine di cui al com
 
 ## Art. 7. — Accesso alle prestazioni
 
+1.
+                    
+                        
+                            L'accesso alle prestazioni di cui all'articolo 5 e' subordinato: 
+ 
+                        
+                        
+                            a)
+                            
+                                per le prestazioni di cui all'articolo 5, comma 1, lettera a), all'espletamento delle procedure contrattuali previste dall'articolo 15 del vigente CCNL; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                per le prestazioni di cui all'articolo 5, comma 1, lettera b), all'espletamento delle procedure contrattuali previste dall'articolo 15 del vigente CCNL nonche' di quelle legislative, laddove espressamente previste; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                per le prestazioni di cui all'articolo 5, comma 2, all'espletamento delle procedure contrattuali di cui all'articolo 16 del vigente CCNL.
+
 L'accesso alle prestazioni di cui all'articolo 5 e' altresi' subordinato alla condizione che le suddette procedure sindacali di cui al comma 1 si concludano con accordo aziendale che, anche in relazione alle esigenze tecnico-produttive ed organizzativo-aziendali, individui, per i casi di cui alle lettere b) e c) del comma 1, una pluralita' di strumenti secondo quanto indicato dalle normative vigenti in materia di processi che modificano le condizioni di lavoro del personale, ovvero determinano la riduzione dei livelli occupazionali. Qualora non si raggiunga l'accordo aziendale rimane fermo quanto previsto agli articoli 15 e 16 del vigente CCNL.
 
 Nei processi che determinano la riduzione dei livelli occupazionali, ferme le procedure di cui al comma 1, lettera c), si puo' accedere anche alle prestazioni di cui all'articolo 5, comma 1, lettere a) e b).
 
 ## Art. 8. — Lavoratori destinatari 
  delle prestazioni straordinarie
+
+1.
+                    
+                        
+                            Le prestazioni straordinarie del Fondo sono rivolte ai lavoratori coinvolti in processi di ristrutturazione o riorganizzazione che si trovino nelle condizioni di maturare i requisiti minimi per la fruizione del trattamento pensionistico a carico dell'AGO, i piu' prossimi tra anzianita' e vecchiaia entro un periodo massimo di cinque anni, il cui rapporto di lavoro si risolva ai sensi delle seguenti lettere a) o b). L'accordo aziendale di cui all'articolo 7, comma 2, dovra' prevedere due fasi: 
+ 
+                        
+                        
+                            a)
+                            
+                                una prima fase, la cui durata e' non superiore a 12 mesi, che preveda la risoluzione consensuale dei rapporti di lavoro; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                una seconda fase, qualora al termine della prima fase permangano esuberi, che preveda una verifica complessiva dei risultati della prima fase medesima ed individui regole, modalita', tempi e strumenti effettivamente idonei al raggiungimento degli obiettivi di cui all'accordo sopra indicato. In mancanza di accordo l'azienda sara' libera di assumere le iniziative del caso.
 
 ## Art. 9. — Criteri di precedenza e turnazioni 
  per le prestazioni ordinarie
@@ -139,6 +296,28 @@ Per l'accesso alle prestazioni ordinarie di cui all'articolo 5, comma 1, lettera
 La paga oraria di cui al comma 1 del presente articolo e' quella individuata secondo le disposizioni di cui al comma 2 dell'articolo 110 del CCNL.
 
 Per i lavoratori a tempo parziale l'importo dell'assegno ordinario viene determinato proporzionando lo stesso alla minore durata della prestazione lavorativa.
+
+9.
+                    
+                        
+                            Nei casi di cui all'articolo 5, comma 2, il Fondo eroga un assegno straordinario di sostegno al reddito il cui valore e' pari: 
+ 
+                        
+                        
+                            a)
+                            
+                                per i lavoratori che possono conseguire la pensione di anzianita' prima di quella di vecchiaia, alla somma dei seguenti importi: 
+ 1) l'importo netto del trattamento pensionistico spettante nell'assicurazione generale obbligatoria con la maggiorazione dell'anzianita' contributiva mancante per il diritto alla pensione di anzianita'; 
+ 2) l'importo delle ritenute di legge sull'assegno straordinario; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                per i lavoratori che possono conseguire la pensione di vecchiaia prima di quella di anzianita', alla somma dei seguenti importi: 
+ 1) l'importo netto del trattamento pensionistico spettante nell'assicurazione generale obbligatoria con la maggiorazione dell'anzianita' contributiva mancante per il diritto alla pensione di vecchiaia; 
+ 2) l'importo delle ritenute di legge sull'assegno straordinario.
 
 Per i lavoratori destinatari dell'assegno straordinario in forma rateale, la prosecuzione della contribuzione alla previdenza integrativa ed il riconoscimento di forme di copertura assicurativa sanitaria, ove esistente, saranno oggetto di accordo a livello aziendale.
 

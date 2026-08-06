@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
 vigenza_date: 2013-03-06
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:39Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -38,6 +38,80 @@ Il presente regolamento detta criteri, condizioni e modalita' per l'attuazione d
 
 ## Art. 2. — Definizioni
 
+1.
+                    
+                        
+                            Ai fini del presente regolamento si intende per:
+ 
+                        
+                        
+                            a)
+                            
+                                biocarburanti e altri carburanti rinnovabili da immettere in consumo: il biodiesel, il bioetanolo e i suoi derivati, l'ETBE e il bioidrogeno; ai fini del presente decreto la percentuale in volume di ETBE considerata biocarburante e' del 47 per cento;
+
+                            
+                        
+                        
+                            b)
+                            
+                                benzina: quota parte minerale dei prodotti ottenuti a partire da fonti primarie non rinnovabili, conformi alle specifiche tecniche EN 228 e immessi in consumo nel territorio nazionale come carburanti;
+
+                            
+                        
+                        
+                            c)
+                            
+                                gasolio: quota parte minerale dei prodotti ottenuti a partire da fonti primarie non rinnovabili, conformi alle specifiche tecniche EN 590 e immessi in consumo nel territorio nazionale come carburanti;
+
+                            
+                        
+                        
+                            d)
+                            
+                                soggetti tenuti all'obbligo in un dato anno: soggetti che nell'anno precedente hanno immesso in consumo benzina e gasolio, individuati secondo quanto previsto al comma 2;
+
+                            
+                        
+                        
+                            e)
+                            
+                                produttori di biocarburanti: soggetti che producono i carburanti di cui alla lettera a);
+
+                            
+                        
+                        
+                            f)
+                            
+                                legge: la legge 11 marzo 2006, n. 81, cosi' come modificata dall'articolo 1, comma 368, della legge 27 dicembre 2006, n. 296;
+
+                            
+                        
+                        
+                            g)
+                            
+                                quantitativo minimo: la quantita' di biocarburanti da immettere in consumo in un dato anno da parte di ciascun soggetto tenuto all'obbligo ai fini del rispetto della legge, calcolata sulla base della formula di cui all'articolo 3, comma 5;
+
+                            
+                        
+                        
+                            h)
+                            
+                                intesa di filiera: l'intesa stipulata ai sensi dell'articolo 9 del decreto legislativo 27 maggio 2005, n. 102, che ha come scopo l'integrazione di filiera e la valorizzazione dei prodotti agricoli ed agroalimentari, o intese equiparate, previa verifica di conformita' al decreto legislativo 27 maggio 2005, n. 102, da parte del Ministero delle politiche agricole alimentari e forestali;
+
+                            
+                        
+                        
+                            i)
+                            
+                                contratto quadro: il contratto concluso ai sensi e per gli scopi di cui agli articoli 10 e 11 del decreto legislativo 27 maggio 2005, n. 102, tra le organizzazioni di produttori e le organizzazioni di imprese di trasformazione, distribuzione e commercializzazione, di cui alle lettere c) e d) dell'articolo 1 del medesimo decreto legislativo n. 102 del 2005, relativo ad uno o piu' prodotti agricoli ed avente per oggetto, senza che derivi l'obbligo di praticare un prezzo determinato, la produzione, la trasformazione, la commercializzazione, la distribuzione dei prodotti, nonche' i criteri e le condizioni generali che le parti si impegnano a rispettare;
+
+                            
+                        
+                        
+                            j)
+                            
+                                biocarburanti fiscalmente agevolati: biocarburanti sottoposti ad accisa con aliquota ridotta.
+
 Ai fini del presente decreto l'immissione in consumo di benzina e gasolio e' desunta dal verificarsi dei presupposti per il pagamento dell'accisa.
 
 Ai fini del calcolo del quantitativo minimo si assumono le specifiche convenzionali dei carburanti e dei biocarburanti riportate nella tabella allegato 1. Le specifiche convenzionali del bioidrogeno e dei derivati del bioetanolo sono definite, in relazione all'effettiva disponibilita' dei medesimi, con successivo decreto del Ministro delle politiche agricole alimentari e forestali, di concerto con il Ministro dello sviluppo economico, il Ministro dell'ambiente e della tutela del territorio e del mare e il Ministro dell'economia e delle finanze.
@@ -45,6 +119,24 @@ Ai fini del calcolo del quantitativo minimo si assumono le specifiche convenzion
 Fatto salvo quanto previsto dall'articolo 22-bis del testo unico delle disposizioni legislative concernenti le imposte di produzione e sui consumi e relative sanzioni penali e amministrative di cui al decreto legislativo 26 ottobre 1995, n. 504, come modificato dal decreto legislativo 2 febbraio 2007, n. 26, le caratteristiche fiscali del biodiesel sono definite nella tabella allegato 2a) del presente regolamento, mentre le caratteristiche fiscali del bioetanolo sono definite nella tabella allegato 2b) del presente regolamento. Per il bioidrogeno, l'ETBE e gli altri derivati del bioetanolo, le stesse caratteristiche sono definite, in relazione all'effettiva disponibilita' dei medesimi, con successivo decreto del Ministro delle politiche agricole alimentari e forestali, di concerto con il Ministro dello sviluppo economico, il Ministro dell'ambiente e della tutela del territorio e del mare e il Ministro dell'economia e delle finanze.
 
 ## Art. 3. — Determinazione delle quantita' annue di biocarburanti da immettere obbligatoriamente in consumo
+
+1.
+                    
+                        
+                            Entro trenta giorni dalla data di entrata in vigore del presente provvedimento e successivamente entro il 31 gennaio di ciascun anno, i soggetti tenuti all'obbligo comunicano al Ministero delle politiche agricole alimentari e forestali:
+ 
+                        
+                        
+                            a)
+                            
+                                i quantitativi complessivi, espressi in Gcal, di benzina e gasolio come definiti dall'articolo 2 comma 1, lettere b) e c), immessi in consumo nel corso dell'anno precedente;
+
+                            
+                        
+                        
+                            b)
+                            
+                                i quantitativi di biocarburanti, espressi in Gcal, da immettere in consumo nell'anno in corso, calcolati con le modalita' di cui al successivo comma 5.
 
 Entro trenta giorni dalla data di entrata in vigore del presente provvedimento e successivamente entro il 31 gennaio di ciascun anno, i soggetti tenuti all'obbligo comunicano al Ministero delle politiche agricole alimentari e forestali i quantitativi di biocarburanti immessi in consumo nell'anno precedente. I predetti quantitativi sono cosi' differenziati:
  a1) prodotto, fiscalmente non agevolato, non derivante da contratto quadro, intesa di filiera o contratti ad essi equiparati;
@@ -128,6 +220,52 @@ Il Ministero dell'ambiente e della tutela del territorio e del mare e il Ministe
 A partire dal 2008, entro il 30 giugno di ogni anno, con riferimento all'obbligo dell'anno successivo, il Ministro delle politiche agricole alimentari e forestali di concerto con il Ministro dello sviluppo economico, il Ministro dell'economia e delle finanze e il Ministro dell'ambiente e della tutela del territorio e del mare, procede ad eventuali modifiche dei parametri di cui all'articolo 5, comma 2, e all'articolo 6, comma 2, anche al fine di garantire il corretto livello di incentivazione dei certificati di cui ai predetti articoli.
 
 ## Art. 9. — Bollettino annuale
+
+1.
+                    
+                        
+                            A decorrere dal 2008, il Ministero delle politiche agricole alimentari e forestali, sentite le Amministrazioni interessate, anche avvalendosi del supporto tecnico dell'Agenzia per le erogazioni in agricoltura (AGEA), pubblica un bollettino annuale contenente dati aggregati, non riferibili al singolo soggetto tenuto all'obbligo, con indicazione:
+ 
+                        
+                        
+                            a)
+                            
+                                dei dati relativi a benzina e gasolio immessi in consumo nell'anno precedente;
+
+                            
+                        
+                        
+                            b)
+                            
+                                dei dati relativi ai biocarburanti immessi in consumo nell'anno precedente, riferiti a ciascuna delle tipologie di cui all'articolo 3, comma 2;
+
+                            
+                        
+                        
+                            c)
+                            
+                                dei certificati emessi per ciascuna delle medesime tipologie;
+
+                            
+                        
+                        
+                            d)
+                            
+                                degli esiti delle verifiche e delle compensazioni effettuate;
+
+                            
+                        
+                        
+                            e)
+                            
+                                delle attivita' eseguite in attuazione del presente regolamento;
+
+                            
+                        
+                        
+                            f)
+                            
+                                delle notizie utili a supportare il corretto funzionamento delle contrattazioni di cui all'articolo 5, comma 4, e articolo 6, comma 4.
 
 ## Art. 10. — Entrata in vigore
 

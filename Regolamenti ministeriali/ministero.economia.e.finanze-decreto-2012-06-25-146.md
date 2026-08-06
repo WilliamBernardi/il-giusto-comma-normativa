@@ -8,8 +8,8 @@ codice_redazionale: 012G0165
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:40Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -45,6 +45,45 @@ Possono chiedere l'iscrizione al Registro del tirocinio coloro che sono in posse
 
 Presso il Ministero dell'economia e delle finanze e' istituito il Registro del tirocinio.
 
+2.
+                        
+                            
+                                Nel registro del tirocinio sono indicati, per ciascun tirocinante iscritto: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il cognome, il nome, il luogo e la data di nascita; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il recapito indicato per l'invio delle comunicazioni concernenti il tirocinio; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    la data di inizio del tirocinio, secondo il termine di decorrenza previsto dall'articolo 10, comma 1; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    il revisore legale o la societa' di revisione legale presso cui si svolge il tirocinio; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    i trasferimenti, le sospensioni ed ogni altro fatto modificativo concernente lo svolgimento del tirocinio.
+
 Le informazioni di cui al comma 2 sono conservate in forma elettronica e sono accessibili gratuitamente sul sito internet del Ministero dell'economia e delle finanze.
 
 ## - Capo II Tenuta del registro
@@ -55,6 +94,91 @@ La domanda di iscrizione nel Registro del tirocinio, debitamente compilata e sot
 
 ## Art. 5. — Contenuto della domanda
 
+1.
+                        
+                            
+                                Nella domanda, redatta su modelli conformi disponibili sul sito internet del Ministero dell'economia e delle finanze, il richiedente dichiara, anche ai sensi dell'articolo 46 del decreto del Presidente della Repubblica 28 dicembre 2000, n. 445, quanto segue: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il cognome, il nome, il luogo e la data di nascita ed il codice fiscale; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la residenza e, se all'estero, il domicilio in Italia; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    l'attivita' esercitata e, se dipendente pubblico, l'amministrazione o ente di appartenenza; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    il possesso dei requisiti di onorabilita' di cui all'articolo 2, comma 2, lettera a), del decreto legislativo 27 gennaio 2010, n. 39; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    titolo di studio posseduto, tra quelli di cui all'articolo 2, comma 2, lettera b), del decreto legislativo 27 gennaio 2010, n. 39; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    il recapito, anche elettronico, presso il quale devono essere inviate tutte le comunicazioni relative ai provvedimenti concernenti il tirocinio; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    l'indicazione del nome e del numero d'iscrizione nel Registro del soggetto presso il quale si svolge il tirocinio; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    di aver provveduto al versamento del contributo di iscrizione di cui all'articolo 9 del presente regolamento, indicando gli estremi identificativi della transazione necessari per identificare in maniera univoca l'avvenuto pagamento.
+
+2.
+                        
+                            
+                                Alla domanda di cui al comma 1 sono allegati: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la dichiarazione di assenso e della capacita' di assicurare la formazione pratica, conforme alle prescrizioni di legge in materia di bollo, del soggetto presso il quale si intende svolgere tirocinio; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    copia, anche per immagine su supporto informatico, del documento d'identita' del revisore legale o di un soggetto munito di legale rappresentanza della societa' di revisione; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    copia, anche per immagine su supporto informatico, del documento d'identita' del richiedente.
+
 Il Ministero dell'economia e delle finanze disciplina, con appositi provvedimenti, sentito il Garante per la protezione dei dati personali, le modalita' di presentazione, di trasmissione e di gestione dell'avvenuta ricezione delle domande di cui al comma 1, nonche' della documentazione allegata di cui al comma 2, mediante l'utilizzo delle tecnologie dell'informazione e della comunicazione, nel rispetto delle misure di sicurezza necessarie per assicurare l'identificazione certa del soggetto e la validazione temporale del documento informatico formato.
 
 ## Art. 6. — Iscrizione nel registro del tirocinio
@@ -64,6 +188,38 @@ Il Ministero dell'economia e delle finanze, Ragioneria generale dello Stato, ent
 Il Ministero dell'economia e delle finanze ha facolta' di verificare in ogni momento, presso le amministrazioni interessate, la veridicita' delle dichiarazioni contenute nella domanda di iscrizione nel registro del tirocinio.
 
 ## Art. 7. — Obblighi degli iscritti al Registro del tirocinio
+
+1.
+                        
+                            
+                                L'iscritto nel Registro del tirocinio comunica al Ministero dell'economia e delle finanze ogni variazione delle informazioni ad esso relative. In particolare, e' tenuto a comunicare: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la variazione dei propri dati anagrafici, di residenza o domicilio; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la cessazione del tirocinio presso il revisore legale o la societa' di revisione legale precedentemente indicati, anche per il verificarsi di eventi che rendano impossibile la prosecuzione del rapporto con riferimento al soggetto presso cui il tirocinio si sta svolgendo; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    l'indicazione delle generalita' e del numero d'iscrizione nel Registro dei revisori del nuovo soggetto presso il quale si svolge il tirocinio; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    le cause di sospensione del tirocinio indicate dal presente regolamento.
 
 Le variazioni di cui al comma 1 dovranno essere comunicate dall'iscritto al Ministero dell'economia e delle finanze entro 15 giorni dall'avvenuta modifica.
 
@@ -136,6 +292,38 @@ La comunicazione della cancellazione e' inviata all'interessato all'indirizzo an
 In caso di cancellazione dal registro, il periodo di tirocinio gia' effettuato rimane privo di effetti.
 
 ## Art. 15. — Ulteriori ipotesi di sospensione del tirocinio
+
+1.
+                        
+                            
+                                La sospensione del tirocinio e' altresi' ammessa nei casi di: 
+ 
+                            
+                            
+                                a)
+                                
+                                    servizio militare o civile per un periodo non superiore ad un anno; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    gravidanza e puerperio, per un periodo non superiore ad un anno; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    malattia e infortunio, adeguatamente certificati, che determinino un impedimento al tirocinio per un periodo superiore ad un anno; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    trasferimento all'estero per motivi di studio o di lavoro per un periodo massimo di due anni.
 
 Entro quindici giorni dal verificarsi di uno dei casi di cui al comma 1, il tirocinante ne da' comunicazione al Ministero dell'economia e delle finanze, che ne dispone la sospensione.
 

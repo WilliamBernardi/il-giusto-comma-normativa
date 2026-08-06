@@ -8,8 +8,8 @@ codice_redazionale: 011G0034
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:41Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -28,6 +28,38 @@ Sentite le Federazioni degli Ordini e Collegi delle professioni sanitarie dei me
 Udito il parere n. 4838/2009 del Consiglio di Stato, espresso dalla Sezione consultiva per gli atti normativi nell'adunanza del 14 dicembre 2009;
 
 ## Art. 1. — Definizioni
+
+1.
+                    
+                        
+                            Ai fini del presente regolamento si intende per: 
+ 
+                        
+                        
+                            a)
+                            
+                                «decreto legislativo» il decreto legislativo 9 novembre 2007, n. 206; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                «richiedente» il cittadino comunitario che domanda, ai fini dell'esercizio, in Italia, delle professioni di medico chirurgo, medico specialista, medico veterinario, farmacista, odontoiatra, psicologo, ostetrica, tecnico sanitario di radiologia medica, infermiere, il riconoscimento del titolo rilasciato dallo Stato membro di origine attestante una formazione professionale al cui possesso la legislazione del medesimo Stato subordina l'accesso o l'esercizio della professione; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                «Conferenza dei servizi» la Conferenza dei servizi di cui all'articolo 16, comma 6, del decreto legislativo 9 novembre 2007, indetta ai sensi della legge 7 agosto 1990, n. 241, per la valutazione dei titoli professionali. 
+
+                            
+                        
+                        
+                            d)
+                            
+                                «Ministero» il Ministero della salute.
 
 ## Art. 2. — Avvio delle procedure
 

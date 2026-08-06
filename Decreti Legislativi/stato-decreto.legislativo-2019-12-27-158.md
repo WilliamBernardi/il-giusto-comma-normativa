@@ -8,8 +8,8 @@ vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
 vigenza_date: 2024-07-11
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:23Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -52,6 +52,31 @@ Ai fini del coordinamento della finanza pubblica e dell'integrazione tra control
 Con legge regionale, entro il 31 dicembre 2020, e' disciplinato l'istituzione dell'elenco regionale dei revisori dei conti, determinati i compensi dei componenti il Collegio ed eventuali norme integrative sulle funzioni e competenze.
 
 ## Art. 4. — Composizione del Collegio dei revisori dei conti
+
+1.
+                        
+                            
+                                Il Collegio dura in carica cinque anni ed e' composto da tre membri, che non possono essere confermati, sorteggiati da un elenco regionale i cui iscritti devono: 
+ 
+                            
+                            
+                                a)
+                                
+                                    essere persone di riconosciuta indipendenza e comprovata competenza, esperienza e specifica ed alta qualificazione professionale in materia di contabilita' pubblica e gestione economica e finanziaria anche degli enti territoriali, secondo i criteri individuati dalla Corte dei conti; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    possedere i requisiti previsti dai principi contabili internazionali; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    avere la qualifica di revisori legali di cui al decreto legislativo 27 gennaio 2010, n. 39.
 
 Nella legge regionale di cui all'articolo 3, comma 3, si prevede l'estrazione, tra gli iscritti all'elenco regionale, di una ulteriore lista ristretta di componenti, in misura pari a tre volte gli eligendi, tra i quali saranno sorteggiati i componenti del Collegio dei revisori.
 

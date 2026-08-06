@@ -7,8 +7,8 @@ urn: urn:nir:ministero.giustizia:decreto:2013-10-09;130
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:38Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -34,13 +34,130 @@ Acquisito il concerto del Ministro per la Pubblica amministrazione e la semplifi
 
 ## Art. 1. — Definizioni
 
+1.
+                        
+                            
+                                Ai fini del presente decreto, si intendono: 
+ 
+                            
+                            
+                                a)
+                                
+                                    per Ministro, il Ministro della giustizia; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    per Amministrazione, l'Amministrazione penitenziaria; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    per Provveditorato, il Provveditorato regionale dell'Amministrazione penitenziaria; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    per Direttore generale, il Direttore generale del personale e della formazione del Dipartimento dell'Amministrazione penitenziaria; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    per Corpo, il Corpo di polizia penitenziaria di cui alla legge 15 dicembre 1990, n. 395; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    per Laboratorio, il Laboratorio Centrale per la banca dati nazionale del DNA, cosi' come istituito ai sensi dell'articolo 5, comma 2, della legge 30 giugno 2009, n. 85, presso il Dipartimento dell'Amministrazione penitenziaria del Ministero della giustizia.
+
 ## Art. 2. — Requisiti generali
+
+1.
+                        
+                            
+                                Per la partecipazione ai concorsi pubblici per l'accesso alla qualifica iniziale dei ruoli degli operatori tecnici, dei revisori tecnici, dei periti tecnici e dei direttori tecnici del Corpo di polizia penitenziaria, sono richiesti i seguenti requisiti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    cittadinanza italiana; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    godimento dei diritti politici; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    possesso delle qualita' morali e di condotta previste dall'articolo 35, comma 6, del decreto legislativo 30 marzo 2001, n. 165; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    idoneita' fisica, psichica ed attitudinale all'espletamento dei compiti connessi con l'attivita' propria dei ruoli e della qualifica da rivestire; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    titolo di studio richiesto per l'accesso alla qualifica individuato in relazione ai ruoli ed ai diversi profili tecnici; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    eventuale abilitazione all'esercizio professionale, ove previsto dalle disposizioni vigenti, in relazione al profilo ed al ruolo.
 
 I requisiti devono essere posseduti alla data di scadenza del termine utile per la presentazione delle domande di partecipazione al concorso.
 
 ## Art. 3.
 
 Requisiti di idoneita' fisica e psichica e cause di non idoneita' per l'ammissione ai concorsi pubblici per l'accesso ai ruoli tecnici del Corpo di polizia penitenziaria.
+
+1.
+                        
+                            
+                                I requisiti di idoneita' fisica e psichica di cui devono essere in possesso i candidati ai concorsi pubblici per l'accesso ai ruoli tecnici sono i seguenti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    sana e robusta costituzione fisica; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    statura non inferiore a m. 1,65 per gli uomini e m. 1,61 per le donne. Il rapporto altezza-peso, il tono e l'efficienza delle masse muscolari, la distribuzione del pannicolo adiposo e il trofismo devono rispecchiare un'armonia atta a configurare la robusta costituzione e la necessaria agilita' indispensabile per l'espletamento dei servizi di polizia; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    senso cromatico e luminoso normale, campo visivo normale, visione notturna sufficiente, visione binoculare e stereoscopica sufficiente. Visus corretto non inferiore a 10/10 per ciascun occhio, con una correzione massima complessiva di tre diottrie per i seguenti vizi di rifrazione: miopia, ipermetropia, astigmatismo semplice (miopico e ipermetropico) e di tre diottrie quale somma complessiva dei singoli vizi di rifrazione per l'astigmatismo composto e l'astigmatismo misto.
 
 Costituiscono, inoltre, cause di non idoneita' per l'ammissione ai concorsi di cui al comma 1 le imperfezioni e infermita' indicate nell'allegata tabella 2.
 
@@ -50,11 +167,159 @@ Per i candidati ai concorsi per l'accesso ai ruoli tecnici, l'esame attitudinale
 
 ## Art. 5. — Bando di concorso
 
+1.
+                        
+                            
+                                I concorsi sono indetti con decreto del Direttore generale, da pubblicare nella Gazzetta Ufficiale della Repubblica Italiana, nel quale sono indicati: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il numero dei posti messi a concorso con la ripartizione tra i vari profili professionali; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    i requisiti per la partecipazione; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il numero dei posti riservati ai sensi della vigente normativa in favore di determinate categorie di concorrenti; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    i documenti prescritti, le categorie di titoli valutabili nonche' il punteggio massimo attribuibile a ciascuna di esse; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    le modalita' ed i termini di presentazione della domanda di partecipazione e della relativa documentazione; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    le materie oggetto delle prove d'esame; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    il diario delle prove scritte di esame o della eventuale prova preselettiva con l'indicazione della sede o delle sedi di effettuazione e la ripartizione dei candidati tra le stesse, ovvero la data della Gazzetta Ufficiale nella quale sara' pubblicato il diario delle suddette prove. La pubblicazione ha valore di notifica a tutti gli effetti; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    la votazione minima da conseguire nell'eventuale prova preselettiva e nelle prove d'esame; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    il riferimento al decreto legislativo 11 aprile 2006, n. 198, che garantisce pari opportunita' tra uomini e donne per l'accesso al lavoro; 
+
+                                
+                            
+                            
+                                j)
+                                
+                                    i titoli di riserva ovvero di preferenza o precedenza previsti dall'articolo 5, commi 4 e 5, del decreto del Presidente della Repubblica 9 maggio 1994, n. 487, nonche' i termini e le modalita' della loro presentazione.
+
 ## Art. 6. — Domande di partecipazione ai concorsi
 
 Le domande di partecipazione ai concorsi sono presentate alla direzione generale del personale e della formazione del Dipartimento dell'Amministrazione penitenziaria entro il termine perentorio di trenta giorni, che decorre dal giorno successivo alla data di pubblicazione del bando di concorso nella Gazzetta Ufficiale della Repubblica Italiana.
 
 Ai fini della verifica del rispetto del termine previsto dal comma 1, il bando medesimo indica gli strumenti idonei a comprovarne la data di trasmissione.
+
+3.
+                        
+                            
+                                Gli aspiranti devono dichiarare nella domanda: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il cognome e il nome; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la data e il luogo di nascita; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il possesso della cittadinanza italiana; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    il comune ove sono iscritti nelle liste elettorali ovvero il motivo della non iscrizione o della cancellazione dalle liste medesime; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    l'immunita' da condanne penali, ovvero le condanne penali riportate e i procedimenti penali pendenti a loro carico; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    il possesso del titolo di studio richiesto con l'indicazione dell'istituto o dell'universita' che lo ha rilasciato e della data in cui e' stato conseguito; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    i servizi eventualmente prestati come dipendenti presso le pubbliche amministrazioni e le cause di risoluzione di precedenti rapporti di pubblico impiego; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    la lingua straniera, scelta tra quelle eventualmente indicate nel bando di concorso, sulla quale intendono sostenere la prova; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    l'eventuale possesso dei titoli di riserva ovvero di preferenza o precedenza, previsti dall'articolo 5, commi 4 e 5, del decreto del Presidente della Repubblica 9 maggio 1994, n. 487, e successive modificazioni, posseduti entro la data di scadenza dei termini previsti nel relativo bando di concorso; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    ogni altra indicazione specificamente richiesta dal bando di concorso.
 
 Nei concorsi per l'accesso alla qualifica iniziale del ruolo dei periti e dei direttori tecnici i candidati, oltre a quanto previsto dal comma 3, devono indicare il profilo professionale per il quale intendono concorrere.
 
@@ -278,6 +543,24 @@ Il decreto di approvazione delle graduatorie suddette e di dichiarazione dei vin
 
 ## Art. 23. — Commissione esaminatrice
 
+1.
+                        
+                            
+                                La commissione esaminatrice dei concorsi per l'accesso ai ruoli dei direttori tecnici, nominata con decreto del Direttore generale, e' presieduta da un dirigente generale dell'Amministrazione penitenziaria, o da un consigliere di Stato, o da un magistrato o avvocato dello Stato di corrispondente qualifica, con funzioni di presidente, ed e' composta da: 
+ 
+                            
+                            
+                                a)
+                                
+                                    un dirigente dell'Amministrazione penitenziaria; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    tre esperti nelle materie relative ai profili professionali messi a concorso anche esterni all'Amministrazione.
+
 Per le prove relative alle lingue straniere indicate nel bando di concorso, la commissione esaminatrice, limitatamente all'espletamento delle predette prove, e' integrata da un esperto nelle lingue straniere.
 
 Svolge le funzioni di segretario un funzionario del Corpo di polizia penitenziaria.
@@ -327,6 +610,73 @@ Il decreto di approvazione delle graduatorie suddette e di dichiarazione dei vin
 
 ## Art. 27. — Bando di concorso
 
+1.
+                        
+                            
+                                I concorsi interni per titoli ed esame per l'accesso alla qualifica iniziale dei ruoli dei revisori tecnici sono indetti con decreto del Direttore generale, da pubblicare nel Bollettino Ufficiale del personale del Ministero della giustizia, nel quale sono indicati: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il numero dei posti messi a concorso; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il numero dei posti riservato al personale con qualifica di assistente capo tecnico; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    i requisiti richiesti per la partecipazione al concorso; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    il termine e le modalita' di presentazione delle domande di partecipazione; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    le categorie di titoli ammessi a valutazione ed i punteggi massimi attribuibili a ciascuna di esse; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    le materie oggetto della prova d'esame; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    la votazione minima da conseguire nella prova d'esame; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    il riferimento al decreto legislativo 11 aprile 2006, n. 198, che garantisce pari opportunita' tra uomini e donne per l'accesso al lavoro; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    il diario della prova di esame, con l'indicazione della sede o delle sedi di effettuazione e la ripartizione dei candidati tra le stesse, ovvero la data della Gazzetta Ufficiale nella quale sara' pubblicato il diario della suddetta prova. La pubblicazione ha valore di notifica a tutti gli effetti.
+
 ## Art. 28. — Domande di partecipazione ai concorsi
 
 Le domande di partecipazione ai concorsi di cui al comma 1 dell'articolo 28, redatte su carta libera, oppure compilate su modello predisposto dall'Amministrazione, sono dirette alla Direzione generale del personale e della formazione dell'Amministrazione penitenziaria.
@@ -366,6 +716,61 @@ La predisposizione del questionario puo' essere affidata a qualificati istituti 
 La prova si intende superata se il candidato riporta una votazione non inferiore a sette decimi.
 
 ## Art. 33. — Titoli valutabili
+
+1.
+                        
+                            
+                                Le categorie dei titoli di servizio ammessi a valutazione ed il punteggio massimo attribuito a ciascuna categoria sono stabiliti come segue: 
+ 
+                            
+                            
+                                a)
+                                
+                                    rapporti informativi e giudizi complessivi del triennio anteriore, fino a punti 21; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    qualita' delle funzioni svolte con particolare riferimento alla specifica competenza professionale dimostrata ed al grado di responsabilita' assunta, fino a punti 12; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    incarichi e servizi speciali conferiti con specifico provvedimento dell'Amministrazione, che comportino un rilevante aggravio di lavoro e presuppongano una particolare competenza professionale, fino a punti 8; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    titoli attinenti alla formazione ed al perfezionamento professionale del candidato, fino a punti 6. 
+ Rientrano in tale categoria i corsi professionali frequentati e superati, con esclusione dei seminari e dei corsi di formazione obbligatori, in materie attinenti al settore tecnico di appartenenza, nonche' gli altri corsi teorici o pratici che siano, a giudizio della Commissione, idonei a potenziare le capacita' tecnico-professionali ovvero operative del candidato stesso. Rientrano, inoltre, in tale categoria i titoli di studio e le abilitazioni professionali purche' inerenti al profilo professionale per cui si partecipa; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    lavori originali elaborati per il servizio, fino a punti 6. 
+ Sono da considerare lavori originali elaborati per il servizio quelli che il candidato ha svolto nell'esercizio delle proprie attribuzioni o per speciale incarico conferitogli dall'amministrazione di appartenenza e che vertono su problemi tecnici ovvero su questioni di particolare rilievo attinenti al profilo professionale di appartenenza; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    speciali riconoscimenti, fino a punti 4; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    anzianita' complessiva di servizio, fino a punti 14.
 
 Nell'ambito delle suddette categorie la Commissione esaminatrice determina i titoli valutabili ed i criteri di massima per la valutazione degli stessi e per l'attribuzione dei relativi punteggi.
 

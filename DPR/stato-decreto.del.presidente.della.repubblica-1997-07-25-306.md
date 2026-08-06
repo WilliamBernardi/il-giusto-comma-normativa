@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: DPR
 vigenza_date: 2018-01-01
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:47:45Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -27,6 +27,47 @@ Udito il parere del Consiglio di Stato reso dalla sezione consultiva per gli att
 Sulla proposta del Presidente del Consiglio dei Ministri e del Ministro per la funzione pubblica, di concerto con il Ministro dell'universita' e della ricerca scientifica e tecnologica;
 
 ## Art. 1. — Definizioni
+
+1.
+                    
+                        
+                            Ai sensi del presente regolamento si intendono:
+ 
+                        
+                        
+                            a)
+                            
+                                per studenti, gli iscritti ai corsi universitari attivati per il rilascio dei titoli di cui alla legge 19 novembre 1990, n. 341, articoli 1, lettere a), b), c) e 7;
+
+                            
+                        
+                        
+                            b)
+                            
+                                per universita' o ateneo, le universita' e gli istituti di istruzione universitaria o di grado universitario statali;
+
+                            
+                        
+                        
+                            c)
+                            
+                                per Ministero, il Ministero dell'universita' e della ricerca scientifica e tecnologica;
+
+                            
+                        
+                        
+                            d)
+                            
+                                per contribuzione per studente, la somma dell'importo della tassa di iscrizione e dei contributi universitari di cui all'articolo 2 per singolo studente;
+
+                            
+                        
+                        
+                            e)
+                            
+                                per contribuzione studentesca, l'ammontare complessivo della contribuzione a carico degli studenti di ogni universita' comprensiva, ai sensi e per gli effetti di cui all'articolo 20, comma 8, lettera c), legge 15 marzo 1997, n. 59, del gettito della tassa di iscrizione e dei contributi universitari, calcolato per il complesso degli studenti dell'ateneo, come accertato nel bilancio consuntivo del medesimo.
+ Avvertenza:
+ Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, commi 2 e 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con D.P.R. 28 dicembre 1985, n. 1092, al solo fine di facilitare la lettura delle disposizioni di legge modificate o alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
 
 ## Art. 2. — ((ARTICOLO ABROGATO DALLA L. 11 DICEMBRE 2016, N. 232))((2))
 
@@ -59,6 +100,31 @@ Il gettito della tassa di iscrizione e dei contributi universitari per i corsi d
 Fatto salvo quanto disposto al comma 2 del presente articolo e all'articolo 4, la contribuzione studentesca non puo' eccedere il 20 per cento dell'importo del finanziamento ordinario annuale dello Stato, a valere sul fondo di cui all'articolo 5, comma 1, lettera a), e comma 3, della legge 24 dicembre 1993, n. 537.
 
 Ai fini del raggiungimento del limite di cui al comma 1, non vengono computati gli importi della contribuzione studentesca disposti, ai sensi del presente comma e del comma 1-ter, ((per gli studenti internazionali e)) per gli studenti iscritti oltre la durata normale dei rispettivi corsi di studio di primo e secondo livello. I relativi incrementi possono essere disposti dalle universita' entro i limiti massimi e secondo i criteri individuati con decreto del Ministro dell'istruzione, dell'universita' e della ricerca, da adottare entro il 31 marzo di ogni anno, sulla base dei principi di equita', progressivita' e redistribuzione e tenendo conto degli anni di ritardo rispetto alla durata normale dei rispettivi corsi di studio, del reddito familiare ISEE, del numero degli studenti appartenenti al nucleo familiare iscritti all'universita' e della specifica condizione degli studenti lavoratori.
+
+1-ter.
+                    
+                        
+                            In ogni caso, i limiti disposti dal decreto di cui al comma 1-bis non possono superare: 
+ 
+                        
+                        
+                            a)
+                            
+                                il 25 per cento della corrispondente contribuzione prevista per gli studenti in corso, per gli studenti iscritti oltre la durata normale dei rispettivi corsi di studio il cui ISEE familiare sia inferiore alla soglia di euro 90.000, come individuata dall'articolo 2, comma 1, del decreto-legge 13 agosto 2011, n. 138, convertito, con modificazioni, dalla legge 14 settembre 2011, n. 148; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                il 50 per cento della corrispondente contribuzione prevista per gli studenti in corso, per gli studenti iscritti oltre la durata normale dei rispettivi corsi di studio il cui ISEE familiare sia compreso tra la soglia di euro 90.000 e la soglia di euro 150.000, come individuata dall'articolo 2, comma 1, del citato decreto-legge n. 138 del 2011; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                il 100 per cento della corrispondente contribuzione prevista per gli studenti in corso, per gli studenti oltre la durata normale dei rispettivi corsi di studio il cui ISEE familiare sia superiore alla soglia di euro 150.000, come individuata dall'articolo 2, comma 1, del citato decreto-legge n. 138 del 2011.
 
 Gli incrementi della contribuzione studentesca disposti ai sensi del comma 1-ter sono destinati in misura non inferiore al 50 per cento del totale ad integrazione delle risorse disponibili per le borse di studio di cui all'articolo 18 del decreto legislativo 29 marzo 2012, n. 68, e per la parte residua ad altri interventi di sostegno al diritto allo studio, con particolare riferimento a servizi abitativi, servizi di ristorazione, servizi di orientamento e tutorato, attivita' a tempo parziale, trasporti, assistenza sanitaria, accesso alla cultura, servizi per la mobilita' internazionale e materiale didattico.
 

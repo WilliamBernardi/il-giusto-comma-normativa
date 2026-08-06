@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
 vigenza_date: 2021-11-10
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:27Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -26,6 +26,31 @@ Acquisito il parere delle competenti Commissioni della Camera dei deputati;
 Sulla proposta del Ministro delle infrastrutture e dei trasporti, di concerto con il Ministro della giustizia, con il Ministro per le politiche comunitarie, e con il Ministro delle attivita' produttive;
 
 ## Art. 1. — Oggetto e finalita'
+
+1.
+                    
+                        
+                            Il presente decreto legislativo attua gli articoli 1, comma 1, lettera a), e 2, commi 1, lettere a), b) e c), e 2, lettera a), della legge 1° marzo 2005, n. 32. A tale fine:
+ 
+                        
+                        
+                            a)
+                            
+                                stabilisce le condizioni idonee al migliore soddisfacimento della domanda di mobilita' delle persone nell'ambito dei servizi automobilistici interregionali di competenza statale, cosi' come definiti all'articolo 2, comma 1, lettera a), del presente decreto legislativo;
+
+                            
+                        
+                        
+                            b)
+                            
+                                individua le misure atte a garantire la sicurezza dei viaggiatori, la qualita' dei servizi offerti e il rispetto della normativa posta a base della sicurezza sociale;
+
+                            
+                        
+                        
+                            c)
+                            
+                                tutela la concorrenza tra le imprese e la trasparenza del mercato.
 
 ## Art. 2. — Definizioni
 
@@ -48,6 +73,82 @@ Ai fini del presente decreto, si intende per:
 
 I servizi di linea di cui al presente decreto legislativo sono soggetti ad autorizzazione avente termine massimo di validita' di cinque anni, ((rilasciata dal Ministero delle infrastrutture e della mobilita' sostenibili, nel rispetto della vigente normativa in materia di sicurezza, relativamente al percorso e alle aree di fermata del servizio di linea proposto e)) secondo le modalita' e i criteri previsti dal decreto ministeriale di cui al successivo art. 4, comma 1.
 
+2.
+                    
+                        
+                            Per ottenere l'autorizzazione ad esercitare servizi di linea, l'impresa richiedente, iscritta al registro delle imprese di cui all'articolo 2188 del codice civile, deve soddisfare le seguenti condizioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                essere in possesso dei requisiti previsti dalla vigente normativa in materia di accesso alla professione di trasportatore su strada di persone, di cui al decreto legislativo 22 dicembre 2000, n. 
+395, e successive modificazioni; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                possedere la certificazione relativa alla qualita' aziendale secondo le norme UNI EN ISO 9000 nella versione piu' recente; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                applicare nei confronti degli addetti, in materia di rapporto di lavoro, le norme di diritto comune e le norme del contratto collettivo nazionale di lavoro di settore; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                rispettare le disposizioni di cui all'articolo 1, comma 5, del Regolamento (CEE) n. 1191/69 del Consiglio, del 26 giugno 1969, cosi' come sostituito dal Regolamento (CEE) n. 1893/91 del Consiglio, del 20 giugno 1991 in materia di separazione contabile, nell'ipotesi in cui la medesima gestisca anche servizi soggetti ad obblighi di servizio pubblico; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                disporre di personale, impianti e strutture in misura idonea ad assicurare il regolare esercizio del servizio di linea; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                disporre di autobus classificati, ai sensi del decreto del Ministro delle infrastrutture e dei trasporti in data 23 dicembre 2003, pubblicato nella Gazzetta Ufficiale n. 30 del 6 febbraio 2004, come classe "B" o classe "III" e non acquistati con sovvenzioni pubbliche di cui non possano beneficiare la totalita' delle imprese, in misura idonea ad assicurare il regolare esercizio del servizio di linea. Dal 1° gennaio 2011, le imprese devono disporre di autobus immatricolati per la prima volta da non piu' di sette anni; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                non aver commesso, nel periodo di un anno precedente alla data di presentazione della domanda per ottenere l'autorizzazione di cui al comma 1, piu' di due infrazioni considerate molto gravi, ai sensi dell'articolo 7, commi 1, 2 e 3; 
+
+                            
+                        
+                        
+                            i)
+                            
+                                non aver commesso, nel periodo di un anno precedente alla data di presentazione della domanda, piu' di cinque infrazioni considerate gravi, ai sensi dell'articolo 7, commi 1, 4 e 5; 
+
+                            
+                        
+                        
+                            l)
+                            
+                                non essere incorsa, nel periodo di un anno precedente alla data di presentazione della domanda, nella revoca di un titolo legale per l'esercizio di servizi di trasporto di persone su strada mediante autobus; 
+
+                            
+                        
+                        
+                            m)
+                            
+                                
+                                    ((LETTERA ABROGATA DAL D.L. 10 SETTEMBRE 2021, N. 121, CONVERTITO, CON MODIFICAZIONI, DALLA L. 9 NOVEMBRE 2021, N. 156)).
+
 Nel caso di esercizio richiesto da una riunione di imprese, le condizioni di cui al comma 2, ad eccezione delle lettere e), f) ((e g) )), si intendono riferite alle singole imprese facenti parte della riunione di imprese. Le condizioni previste alle lettere e), f) e g) del comma 2 si intendono riferite alla riunione di imprese.
 Nell'ambito dei servizi di linea interregionali di competenza statale, per riunione di imprese, ai fini del presente comma, si intende il raggruppamento verticale o orizzontale; per raggruppamento verticale si intende un raggruppamento di operatori economici il cui mandatario esegue le attivita' principali di trasporto di passeggeri su strada e i mandanti quelle indicate come secondarie; per raggruppamento orizzontale si intende un raggruppamento in cui gli operatori economici eseguono il medesimo tipo di prestazione. Gli accertamenti sulla sussistenza delle condizioni di sicurezza e regolarita' dei servizi ai sensi del comma 2, lettera g), relativamente all'ubicazione delle aree di fermata, sono validi fino a quando non sia accertato il venire meno delle condizioni di sicurezza.
 
@@ -65,6 +166,102 @@ Entro il termine di novanta giorni dalla data di entrata in vigore del presente 
 
 ## Art. 5. — Obblighi delle imprese
 
+1.
+                    
+                        
+                            L'impresa, per tutto il periodo di validita' dell'autorizzazione, deve rispettare: 
+ 
+                        
+                        
+                            a)
+                            
+                                le condizioni previste all'articolo 3, comma 2, dalla lettera a) alla lettera f) del presente decreto legislativo; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                le prescrizioni contenute nell'autorizzazione; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                le prescrizioni relative alla sicurezza del percorso e delle fermate, nonche' quelle relative alla circolazione stradale stabilite dalle competenti Autorita'.
+
+2.
+                    
+                        
+                            L'impresa e' tenuta a: 
+ 
+                        
+                        
+                            a)
+                            
+                                dall'anno successivo a quello di iscrizione all'elenco di cui all'articolo 4, comma 2, produrre con cadenza annuale, entro il mese di maggio, al Ministero delle infrastrutture e dei trasporti, apposita dichiarazione, resa ai sensi del decreto del Presidente della Repubblica 28 dicembre 2000, n. 445, dalla quale risulti il rispetto delle condizioni previste all'articolo 3, comma 2, del presente decreto legislativo; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                comunicare al Ministero delle infrastrutture e dei trasporti l'eventuale intenzione di cessare l'esercizio del servizio di linea autorizzato. Tale comunicazione, opportunamente motivata, deve essere inoltrata almeno trenta giorni prima della cessazione del servizio e resa nota all'utenza nei termini stabiliti nel decreto ministeriale di cui all'articolo 4, comma 1; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                adibire al servizio di linea autobus in propria disponibilita', salvo impiegare autobus di rinforzo per far fronte a situazioni temporanee ed eccezionali, previo rilascio di apposita autorizzazione da parte del Ministero delle infrastrutture e dei trasporti, secondo le modalita' stabilite dal decreto ministeriale di cui all'articolo 4, comma 1; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                adottare la Carta della mobilita', sulla base di quanto previsto dal decreto del Presidente del Consiglio dei Ministri in data 30 dicembre 1998, pubblicato nella Gazzetta Ufficiale n. 26 del 2 febbraio 1999, e rendere noto, nei termini stabiliti nel decreto ministeriale di cui all'articolo 4, comma 1, l'itinerario sul quale e' effettuato il servizio, le fermate, gli orari, i prezzi applicati e le altre condizioni di esercizio, in modo da garantire trasparenza dell'informazione ed agevole accesso agli utenti interessati, secondo le modalita' previste dal medesimo decreto ministeriale di cui all'articolo 4, comma 1; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                rilasciare ai viaggiatori trasportati un titolo di viaggio nel quale debbono necessariamente figurare: la denominazione dell'impresa emittente, le localita' di partenza e di destinazione, il periodo di validita' ed il valore, nonche' tutti gli elementi previsti dalla normativa fiscale; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                fornire al Ministero delle infrastrutture e dei trasporti i dati richiesti per lo svolgimento dell'attivita' di monitoraggio e controllo di cui all'articolo 6; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                attivare l'esercizio del servizio entro novanta giorni dalla data di inizio del periodo di validita' dell'autorizzazione.
+
+3.
+                    
+                        
+                            L'impresa e' tenuta a corrispondere al Ministero delle infrastrutture e dei trasporti i seguenti contributi, per far fronte alle spese derivanti dall'attivita' di cui all'articolo 6, commi 1 e 2: 
+ 
+                        
+                        
+                            a)
+                            
+                                un contributo di iscrizione all'elenco di cui all'articolo 4, comma 2, entro sessanta giorni dalla data di inizio del periodo di validita' della prima autorizzazione, nonche' un contributo annuale da versare all'atto della dichiarazione di cui al comma 2, lettera a); 
+
+                            
+                        
+                        
+                            b)
+                            
+                                un contributo, ai fini dell'accertamento della regolarita' e sicurezza dei servizi di linea autorizzati, da versare per ciascun servizio di linea autorizzato, nella misura determinata in ragione dei chilometri e del numero di fermate previsti nel programma di esercizio, rapportato al periodo di validita' dell'autorizzazione. Le imprese titolari di concessioni di servizi di linea sono tenute a versare detto contributo con cadenza annuale, entro il mese di marzo.
+
 Le imprese titolari di concessioni di servizi di linea sono tenute a versare il contributo di iscrizione all'elenco di cui all'articolo 4, comma 2, entro sessanta giorni dalla data di entrata in vigore del presente decreto legislativo.
 
 La misura dei contributi di cui ai commi 3 e 4 e' indicata nella tabella allegata al presente decreto legislativo e viene aggiornata ogni tre anni con decreto del Ministro delle infrastrutture e dei trasporti, di concerto con il Ministro dell'economia e delle finanze.
@@ -73,11 +270,131 @@ La misura dei contributi di cui ai commi 3 e 4 e' indicata nella tabella allegat
 
 Al fine di valutare l'impatto sul mercato della disciplina contenuta nel presente decreto legislativo, in relazione all'andamento della domanda di mobilita' ed all'offerta dei servizi di linea, il Ministero delle infrastrutture e dei trasporti promuove iniziative di studio e svolge una costante attivita' di monitoraggio del settore, attraverso l'acquisizione e l'elaborazione dei dati relativi ai servizi di linea.
 
+2.
+                    
+                        
+                            Il Ministero delle infrastrutture e dei trasporti dispone controlli e verifiche periodiche sulla sussistenza delle condizioni di cui all'articolo 3, comma 2, e sul rispetto, da parte delle imprese autorizzate, degli obblighi di cui all'articolo 5, al fine di assicurare la leale e corretta concorrenza tra le imprese esercenti i servizi di linea, nonche' il rispetto delle disposizioni contenute nel presente decreto legislativo. A tale fine gli organi addetti al controllo sono abilitati a:
+ 
+                        
+                        
+                            a)
+                            
+                                esaminare i libri ed ogni altro documento relativo alla gestione dell'impresa;
+
+                            
+                        
+                        
+                            b)
+                            
+                                fare copie o prelevare estratti dei libri e dei documenti nei locali dell'impresa;
+
+                            
+                        
+                        
+                            c)
+                            
+                                accedere a tutti i locali, i terreni ed i veicoli dell'impresa;
+
+                            
+                        
+                        
+                            d)
+                            
+                                acquisire qualsiasi dato informativo sull'attivita' dell'impresa.
+
 Le spese per l'accertamento della regolarita' e sicurezza dei servizi di linea autorizzati, nonche' quelle per le attivita' di cui ai commi 1 e 2, sono a carico delle imprese.
 
 Le somme di cui al comma 3, i contributi versati dalle imprese ai sensi dell'articolo 5, commi 3 e 4, nonche' i proventi delle sanzioni pecuniarie di cui all'articolo 7, esclusi i proventi delle sanzioni comminate per violazioni del decreto legislativo 30 aprile 1992, n. 285, e successive modificazioni, sono versati all'entrata del bilancio dello Stato per essere successivamente riassegnati, con decreto del Ministro dell'economia e delle finanze, alla competente unita' previsionale di base del Ministero delle infrastrutture e dei trasporti.
 
 ## Art. 7. — Infrazioni e sanzioni amministrative pecuniarie
+
+1.
+                    
+                        
+                            Le infrazioni relative all'esercizio di un servizio di linea si verificano quando l'impresa:
+ 
+                        
+                        
+                            a)
+                            
+                                non rispetta l'obbligo previsto all'articolo 5, comma 2, lettera d);
+
+                            
+                        
+                        
+                            b)
+                            
+                                non rispetta l'obbligo previsto all'articolo 5, comma 2, lettera h), o esercita un servizio di linea nel periodo di sospensione dell'autorizzazione, disposta conformemente a quanto previsto all'articolo 8;
+
+                            
+                        
+                        
+                            c)
+                            
+                                non rispetta le prescrizioni essenziali contenute nell'autorizzazione relative al percorso, alle relazioni di traffico autorizzate e agli autobus impiegati, nonche' l'obbligo previsto all'articolo 5, comma 1, lettera c);
+
+                            
+                        
+                        
+                            d)
+                            
+                                non rispetta l'obbligo previsto all'articolo 5, comma 2, lettera f), relativo al rilascio del titolo di viaggio;
+
+                            
+                        
+                        
+                            e)
+                            
+                                impedisce, senza un giustificato motivo, agli organi preposti di svolgere l'attivita' di controllo di cui al precedente articolo 6, comma 2;
+
+                            
+                        
+                        
+                            f)
+                            
+                                non rispetta l'obbligo previsto all'articolo 5, comma 3, lettera b);
+
+                            
+                        
+                        
+                            g)
+                            
+                                reitera le infrazioni oggetto del provvedimento di richiamo disposto ai sensi dell'articolo 8, comma 11;
+
+                            
+                        
+                        
+                            h)
+                            
+                                non rispetta l'obbligo previsto all'articolo 5, comma 1, lettera b), relativamente alle prescrizioni non essenziali contenute nell'autorizzazione, diverse da quelle indicate nelle precedenti lettere c) e d);
+
+                            
+                        
+                        
+                            i)
+                            
+                                sospende o interrompe in modo definitivo l'esercizio, senza aver informato il Ministero delle infrastrutture e dei trasporti, ai sensi dell'articolo 5, comma 2, lettera b), oppure non provvede, in qualita' di impresa titolare dell'autorizzazione, a riattivare entro il termine massimo di cinque giorni, il servizio di linea sospeso o interrotto a seguito di sanzioni accessorie comminate ai sensi dell'articolo 8, commi 4 e 5, dandone comunicazione al Ministero delle infrastrutture e dei trasporti;
+
+                            
+                        
+                        
+                            l)
+                            
+                                non rispetta l'obbligo previsto all'articolo 5, comma 2, lettera c), relativo al possesso della dichiarazione concernente il rapporto di lavoro tra il conducente e l'impresa autorizzata a svolgere il servizio di linea;
+
+                            
+                        
+                        
+                            m)
+                            
+                                ritarda reiteratamente di almeno venti minuti la partenza dal capolinea del servizio di linea senza giustificato motivo;
+
+                            
+                        
+                        
+                            n)
+                            
+                                utilizza, nell'esercizio del servizio di linea, autobus in uno stato insufficiente sotto il profilo igienico e/o sanitario, secondo quanto previsto dalla disciplina vigente in materia.
 
 Le infrazioni individuate nel comma 1, dalla lettera a) alla lettera e), sono considerate molto gravi. Le imprese che commettono tali infrazioni sono soggette al pagamento di una sanzione amministrativa pecuniaria da euro 400,00 a euro 1.600,00.
 
@@ -90,6 +407,59 @@ Sono considerate gravi le infrazioni compiute dall'impresa e sanzionate ai sensi
 Le infrazioni individuate nel comma 1, dalla lettera l) alla lettera n), sono considerate lievi. Le imprese che commettono tali infrazioni sono soggette al pagamento di una sanzione amministrativa pecuniaria da euro 150,00 a euro 600,00.
 
 Sono considerate lievi le infrazioni compiute dall'impresa e sanzionate ai sensi dell'articolo 180, comma 7, del decreto legislativo 30 aprile 1992, n. 285, e successive modificazioni.
+
+8.
+                    
+                        
+                            Le infrazioni che non riguardano specificatamente l'esercizio di un singolo servizio di linea si verificano quando l'impresa:
+ 
+                        
+                        
+                            a)
+                            
+                                non possiede i requisiti per l'accesso alla professione di trasportatore su strada di viaggiatori, previsti dal decreto legislativo 22 dicembre 2000, n. 395, e successive modificazioni;
+
+                            
+                        
+                        
+                            b)
+                            
+                                non possiede la certificazione relativa alla qualita' aziendale secondo le norme UNI EN ISO 9000 nella versione piu' recente;
+
+                            
+                        
+                        
+                            c)
+                            
+                                non applica nei confronti degli addetti, in materia di rapporto di lavoro, le norme di diritto comune e le norme del contratto collettivo nazionale di lavoro di settore;
+
+                            
+                        
+                        
+                            d)
+                            
+                                non rispetta le disposizioni di cui all'articolo 1, comma 5, del Regolamento (CEE) n. 1191/69 del Consiglio, del 26 giugno 1969, cosi' come sostituito dal Regolamento (CEE) n. 1893/91 del Consiglio, del 20 giugno 1991, in materia di separazione contabile, nell'ipotesi in cui la medesima gestisca anche servizi soggetti ad obblighi di servizio pubblico;
+
+                            
+                        
+                        
+                            e)
+                            
+                                non produce la dichiarazione di cui all'articolo 5, comma 2, lettera a), del presente decreto legislativo;
+
+                            
+                        
+                        
+                            f)
+                            
+                                non rispetta l'obbligo previsto all'articolo 5, comma 3, lettera a), e, ove trattisi di impresa concessionaria, non rispetta il corrispondente obbligo previsto all'articolo 5, comma 4;
+
+                            
+                        
+                        
+                            g)
+                            
+                                non rispetta gli obblighi previsti all'articolo 5, comma 2, lettere e) e g).
 
 Le infrazioni individuate dalla lettera a) alla lettera f) del comma 8 sono considerate molto gravi. Le imprese che commettono tali infrazioni sono soggette al pagamento di una sanzione amministrativa pecuniaria da euro 400,00 a euro 1.600,00.
 

@@ -8,8 +8,8 @@ codice_redazionale: 000G0145
 vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:22Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -25,7 +25,100 @@ Sulla proposta del Ministro delle finanze, di concerto con i Ministri della gius
  tributarie non penali in materia di imposte dirette,
  di imposta sul valore aggiunto e di riscossione dei tributi
 
+1.
+                    
+                        
+                            Al decreto legislativo 18 dicembre 1997, n. 471, come modificato dal decreto legislativo 5 giugno 1998, n. 203, sono apportate le seguenti modificazioni:
+
+                        
+                        
+                            a)
+                            
+                                nell'articolo 5, riguardante le violazioni relative alla dichiarazione dell'imposta sul valore aggiunto e ai rimborsi:
+ 1) al comma 1, primo periodo, la parola "periodica" e' soppressa;
+ 2) al comma 3, secondo periodo, dopo le parole "anche se e' omessa la dichiarazione" sono inserite le seguenti: "periodica o quella";
+ 3) al comma 4 e' aggiunto, in fine, il seguente periodo "se la violazione riguarda la dichiarazione periodica si applica la sanzione prevista dal comma 3";
+                            
+                        
+                        
+                            b)
+                            
+                                nell'articolo 8, riguardante le violazioni relative al contenuto e alla documentazione delle dichiarazioni, al comma 1, dopo le parole "dell'imposta sul valore aggiunto" sono aggiunte le seguenti, "compresa quella periodica";
+                            
+                        
+                        
+                            c)
+                            
+                                nell'articolo 9, riguardante le violazioni degli obblighi relativi alla contabilita', al comma 4, le parole "gli obblighi indicati nei commi 1 e 2" sono sostituite dalle parole "gli obblighi in materia di imposta sul valore aggiunto e di imposte dirette";
+                            
+                        
+                        
+                            d)
+                            
+                                nell'articolo 11, riguardante altre violazioni in materia di imposte dirette e di imposta sul valore aggiunto, al comma 1, lettera a), dopo le parole "prescritta dalla legge tributaria" sono inserite le seguenti "anche se non";
+                            
+                        
+                        
+                            e)
+                            
+                                nell'articolo 13, comma 1, dopo il primo periodo e' inserito il seguente: "Per i versamenti riguardanti crediti assistiti integralmente da forme di garanzia reale o personale previste dalla legge o riconosciute dall'amministrazione finanziaria, effettuati con un ritardo non superiore a quindici giorni, la sanzione di cui al primo periodo, oltre a quanto previsto dalla lettera a) del comma 1 dell'articolo 13 del decreto legislativo 18 dicembre 1997, n. 472, e' ulteriormente ridotta ad un importo pari ad un quindicesimo per ciascun giorno di ritardo".
+
 ## Art. 2. — Norme integrative e correttive delle disposizioni generali in materia di sanzioni amministrative per le violazioni di norme tributarie
+
+1.
+                    
+                        
+                            Al decreto legislativo 18 dicembre 1997, n. 472, come modificato dai decreti legislativi n. 203 del 5 giugno 1998 e n. 422 del 19 novembre 1998, sono apportate le seguenti modificazioni:
+
+                        
+                        
+                            a)
+                            
+                                nell'articolo 12, riguardante concorso di violazioni e continuazione:
+ 1) il comma 4, e' sostituito dal seguente:
+ "4. Le previsioni dei commi 1, 2 e 3 si applicano separatamente rispetto ai tributi erariali e ai tributi di ciascun altro ente impositore e, tra i tributi erariali, alle imposte doganali e alle imposte sulla produzione e sui consumi";
+ 2) il comma 5 e' sostituito dal seguente:
+ "5. Quando violazioni della stessa indole vengono commesse in periodi di imposta diversi, si applica la sanzione base aumentata dalla meta' al triplo. Se l'ufficio non contesta tutte le violazioni o non irroga la sanzione contemporaneamente rispetto a tutte, quando in seguito vi provvede determina la sanzione complessiva tenendo conto delle violazioni oggetto del precedente provvedimento. Se piu' atti di irrogazione danno luogo a processi non riuniti o comunque introdotti avanti a giudici diversi, il giudice che prende cognizione dell'ultimo di essi ridetermina la sanzione complessiva tenendo conto delle violazioni risultanti dalle sentenze precedentemente emanate";
+                            
+                        
+                        
+                            b)
+                            
+                                nell'articolo 13, riguardante il ravvedimento:
+ 1) al comma 1, lettera b), le parole "ad un sesto del minimo" sono sostituite dalle seguenti "ad un quinto del minimo";
+ 2) alla lettera c) del comma 1, sono aggiunte, in fine, le seguenti parole: "ovvero a un ottavo del minimo di quella prevista per l'omessa presentazione della dichiarazione periodica prescritta in materia di imposta sul valore aggiunto, se questa viene presentata con ritardo non superiore a trenta giorni";
+                            
+                        
+                        
+                            c)
+                            
+                                nell'articolo 16, riguardante il procedimento di irrogazione delle sanzioni:
+ 1) al comma 3, le parole: "Nel termine di sessanta giorni dalla notificazione" sono sostituite dalle seguenti: "Entro il termine previsto per la proposizione del ricorso";
+ 2) al comma 4, secondo periodo, sono soppresse le parole: "sempre entro il termine di sessanta giorni dalla sua notificazione";
+ 3) al comma 6, le parole: "di sessanta giorni dalla sua notificazione" sono sostituite dalle seguenti: "previsto per la proposizione del ricorso";
+                            
+                        
+                        
+                            d)
+                            
+                                nell'articolo 17, riguardante l'irrogazione immediata delle sanzioni, al comma 2, le parole: "entro sessanta giorni dalla notificazione del provvedimento", sono sostituite dalle seguenti: "entro il termine previsto per la proposizione del ricorso";
+                            
+                        
+                        
+                            e)
+                            
+                                nell'articolo 20, riguardante decadenza e prescrizione, al comma 1, primo periodo, la parola "maggior" e' sostituita dalla seguente: "diverso";
+                            
+                        
+                        
+                            f)
+                            
+                                nell'articolo 25, recante disposizioni transitorie, dopo il comma 3-bis sono aggiunti i seguenti:
+ "3-ter. Nei casi di omissioni ed errori relativi alle dichiarazioni presentate nell'anno 1999, che non incidono sulla determinazione o sul pagamento del tributo, non si applicano le sanzioni previste se l'autore delle violazioni provvede alla loro regolarizzazione nel termine di trenta giorni dall'invito dell'ufficio.
+ 3-quater. Le sanzioni relative alle somme iscritte in ruoli resi esecutivi entro il 31 dicembre 2000 a seguito di controllo formale delle dichiarazioni presentate negli anni dal 1994 al 1998 ai fini delle imposte sui redditi e negli anni dal 1995 al 1998 ai fini dell'imposta sul valore aggiunto, sono ridotte della meta' per i contribuenti che aderiscono ad apposito invito al pagamento dei tributi dovuti, dei relativi interessi e delle sanzioni medesime, contenuto in una comunicazione inviata al debitore dai concessionari del servizio nazionale della riscossione entro il secondo mese successivo a quello di consegna del ruolo.
+ 3-quinquies. Gli importi indicati nella comunicazione di cui al comma 3-quater, inviata tramite servizio postale, sono pagati entro l'ultimo giorno del mese successivo a quello di invio della comunicazione stessa.
+ 3-sexies. Se le somme indicate nella comunicazione, o quelle eventualmente rideterminate in sede di autotutela, non sono integralmente corrisposte entro il termine di cui al comma 3-quater, il debitore e' tenuto a pagare l'intero importo iscritto a ruolo previa notifica, da parte del concessionario, della relativa cartella.
+ 3-septies. La remunerazione spettante al concessionario sulle somme riscosse a seguito dell'invio della comunicazione di cui al comma 3-quater e' determinata con decreto del Ministro delle finanze".
 
 ## Art. 3. — Norme integrative e correttive delle disposizioni concernenti le
  sanzioni amministrative in materia di tributi sugli affari,

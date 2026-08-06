@@ -8,8 +8,8 @@ codice_redazionale: 078U0913
 vigente: true
 source: normattiva-opendata
 collection: DPR
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:47:56Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -20,4 +20,24 @@ DECRETO DEL PRESIDENTE DELLA REPUBBLICA
 ## Art. 1.
 
 N.
+
+913.
+                    
+                        
+                            Decreto del Presidente della Repubblica 5 dicembre 1978, col quale, sulla proposta del Ministro della difesa, l'Associazione nazionale alpini, in Milano, viene autorizzata ad accettare, rispettandone gli oneri, la donazione di due appezzamenti di terreno in comune di Asolo (Treviso), distinti in catasto con i mappali 236 (ex 230/ b) di mq 70, 20 (ex 20/ 
+                        
+                        
+                            a)
+                            
+                                e 234 (ex 22/
+                            
+                        
+                        
+                            b)
+                            
+                                di complessivi mq 613, sez. B, foglio III, disposta dal sig. Giovanni Dalla Rosa con atto pubblico 16 aprile 1977, n. 27456 di repertorio, a rogito dott. Vincenzo Imparato, notaio in Asolo.
+
+Visto, il Guardasigilli: BONIFACIO
+ Registrato alla Corte dei conti, addi' 15 gennaio 1979
+ Registro n. 2 Difesa, foglio n. 229
 

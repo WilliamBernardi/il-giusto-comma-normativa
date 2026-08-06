@@ -8,8 +8,8 @@ codice_redazionale: 092G0564
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:41Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -42,6 +42,24 @@ Per le formalita' da eseguirsi nel P.R.A. e per il rilascio delle certificazioni
 ## Art. 2. — Registri del P.R.A.
 
 A decorrere dalla data di attivazione del servizio automatizzato cessano le annotazioni ed iscrizioni sui registri previsti dall'art. 11 del regio decreto-legge 15 marzo 1927, n. 436.
+
+2.
+                        
+                            
+                                La conservatoria provinciale procede alla registrazione nel P.R.A. mediante:
+ 
+                            
+                            
+                                a)
+                                
+                                    l'aggiornamento degli archivi elettronici, previa acquisizione e convalida dei dati predetti, mediante l'impiego di procedure automatizzate;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'inserimento, nella raccolta delle formalita', dei certificati di proprieta' e delle note di formalita', ordinati per data e numero progressivo e corredati dei titoli e documenti allegati.
 
 Al fine di automatizzare le procedure per le ispezioni e quelle per il rilascio delle certificazioni e delle copie di cui all'art. 17, comma 7, la conservatoria provinciale puo' avvalersi di procedimenti tecnici di riproduzione osservando le norme di cui agli articoli 6 e seguenti del decreto del Presidente del Consiglio dei Ministri 11 settembre 1974, pubblicato nella Gazzetta Ufficiale n. 306 del 25 novembre 1974, nonche' all'articolo unico del decreto ministeriale 29 marzo 1979, pubblicato nella Gazzetta Ufficiale n. 206 del 28 luglio 1979.
 

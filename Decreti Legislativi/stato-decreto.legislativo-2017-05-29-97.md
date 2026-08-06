@@ -8,8 +8,8 @@ vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
 vigenza_date: 2024-07-14
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:21Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -39,14 +39,128 @@ Sulla proposta del Ministro per la semplificazione e la pubblica amministrazione
 ## Art. 1. — Modifiche al Capo I del decreto legislativo 
  8 marzo 2006, n. 139
 
+1.
+                        
+                            
+                                All'articolo 1 del decreto legislativo 8 marzo 2006, n. 139, di seguito denominato: «decreto», sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    al comma 1 dopo le parole «per mezzo della quale il Ministero dell'interno», sono inserite le seguenti: «, ai sensi del decreto legislativo 30 luglio 1999, n. 300,» e dopo le parole: «estinzione degli incendi» sono inserite le seguenti: «, ivi compresi gli incendi boschivi,»; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    al comma 2, dopo la parola «servizio», e' inserita la seguente:
+«nazionale».
+
+2.
+                        
+                            
+                                All'articolo 2, comma 2, del decreto sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    le parole: «si articolano nei seguenti uffici» sono sostituite dalle seguenti: «sono di seguito indicate»; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    alla lettera a), dopo le parole: «direzioni regionali» sono inserite le seguenti: «o interregionali»; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    la lettera b) e' sostituita dalla seguente: «b) comandi dei vigili del fuoco, di seguito denominati: "comandi", di livello dirigenziale non generale, istituiti per l'espletamento delle funzioni di cui all'articolo 1 in ambito territoriale sub-regionale;»; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    alla lettera c), la parola: «provinciali» e' sostituita dalle seguenti: «di cui alla lettera b)». 
+ 3. all'articolo 3, comma 1, del decreto e' aggiunta, in fine, la seguente lettera: «e-bis) Fatto salvo quanto previsto dall'articolo 5, comma 3-ter, del decreto-legge 7 settembre 2001, n. 343, convertito, con modificazioni, dalla legge 9 novembre 2001, n. 401, e' componente effettivo e permanente del Comitato operativo della protezione civile, di cui all'articolo 10 della legge 24 febbraio 1992, n. 225.». 
+ 4. All'articolo 4 del decreto sono apportate le seguenti modificazioni: 
+ a) il comma 1 e' sostituito dal seguente: «1. Per lo svolgimento delle attivita' di cui all'articolo 1, il Ministero dell'interno, nell'ambito delle ordinarie previsioni di bilancio, puo' promuovere la costituzione di distaccamenti volontari, cui e' assegnato il personale reclutato ai sensi dell'articolo 8, da impiegare per le attivita' di soccorso pubblico ovvero per quelle di soccorso pubblico integrato, alla cui istituzione possono contribuire, con appositi accordi, anche le regioni e gli enti locali, con l'assegnazione in uso gratuito di strutture, mezzi, attrezzature ed equipaggiamenti.»; 
+ b) il comma 2 e' sostituito dal seguente: «2. In ogni caso, le regioni e gli enti locali possono contribuire, previo accordo, al potenziamento delle dotazioni dei distaccamenti volontari.».
+
 ## Art. 2. — Modifiche al Capo II del decreto legislativo 
  8 marzo 2006, n. 139
 
+1.
+                        
+                            
+                                All'articolo 6 del decreto sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il comma 1, fatto salvo quanto previsto dall'articolo 14, commi 2, 3 e 4, e' sostituito dal seguente: 
+ «1. Il personale del Corpo nazionale si distingue in personale di ruolo e volontario, fatta salva la sovraordinazione funzionale del personale di ruolo negli interventi di soccorso. Il rapporto d'impiego del personale di ruolo e' disciplinato in regime di diritto pubblico, secondo le disposizioni previste nei decreti legislativi emanati ai sensi dell'articolo 2 della legge 30 settembre 2004, n. 252. Il personale volontario e' iscritto in appositi elenchi, distinti in due tipologie, rispettivamente, per le necessita' dei distaccamenti volontari del Corpo nazionale e per le necessita' delle strutture centrali e periferiche del Corpo nazionale, secondo quanto previsto nel regolamento di cui all'articolo 8, comma 2, ed e' chiamato a prestare servizio secondo quanto previsto nella sezione II del presente capo. Il solo personale volontario iscritto nell'elenco istituito per le necessita' delle strutture centrali e periferiche puo' essere oggetto di eventuali assunzioni in deroga, con conseguente trasformazione del rapporto di servizio in rapporto di impiego con l'amministrazione. Resta fermo quanto disposto dall'articolo 29, comma 1, lettera c), del decreto legislativo 15 giugno 2015, n. 81.»; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    al comma 2: 
+ 1) dopo le parole: «di cui al comma 1» sono inserite le seguenti: «, che espleta compiti operativi,»; 
+ 2) le parole: «appartenente al ruolo» sono sostituite dalle seguenti: «che riveste le qualifiche»; 
+ 3) le parole: «dell'area» sono sostituite dalle seguenti: «e qualifiche della componente».
+
 All'articolo 7, comma 1, del decreto dopo le parole: «puo' essere utilizzato» sono inserite le seguenti: «, previa valutazione delle esigenze di servizio, per un periodo temporaneo e secondo criteri di rotazione,».
+
+3.
+                        
+                            
+                                All'articolo 8 del decreto sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    al comma 2, dopo le parole: «progressione del personale volontario» sono inserite le seguenti: «, ivi incluse le condotte che danno luogo all'applicazione delle sanzioni disciplinari applicabili»; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    al comma 3, la parola: «permanente» e' sostituita dalle seguenti: «di ruolo».
 
 All'articolo 9, comma 3, del decreto le parole «provinciali dei vigili del fuoco» sono soppresse.
 
 All'articolo 10, comma 1, del decreto la parola: «permanente» e' sostituita dalle seguenti: «di ruolo».
+
+6.
+                        
+                            
+                                All'articolo 11 del decreto sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    al comma 1, la parola: «permanente» e' sostituita dalle seguenti: «di ruolo»; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il comma 2 e' sostituito dal seguente: 
+ «2. Fermo restando quanto previsto dall'articolo 8, comma 2, secondo periodo, con il regolamento previsto dallo stesso comma sono individuate le condotte che danno luogo all'applicazione delle sanzioni disciplinari per il personale volontario, le relative modalita' di applicazione e di gradazione, secondo i principi ed i criteri direttivi previsti per il personale di ruolo del Corpo nazionale. Fino all'emanazione di tale regolamento continuano ad applicarsi le disposizioni di cui al decreto del Presidente della Repubblica 6 febbraio 2004, n. 76.».
 
 All'articolo 12, comma 1, del decreto la parola: «permanente» e' sostituita dalle seguenti: «di ruolo».
 
@@ -54,6 +168,50 @@ All'articolo 12, comma 1, del decreto la parola: «permanente» e' sostituita da
  8 marzo 2006, n. 139
 
 All'articolo 13, comma 2, del decreto dopo le parole: «al rischio di incendio e» sono inserite le seguenti: «di esplosione nonche',».
+
+2.
+                        
+                            
+                                All'articolo 14 del decreto sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    al comma 2: 
+ 1) alla lettera b), le parole: «del certificato di prevenzione incendi» sono sostituite dalle seguenti: «di certificati di prevenzione incendi, di pareri, di verbali,» e dopo la parola: «prodotti,» e' inserita la seguente: «materiali,»; 
+ 2) alla lettera d), dopo le parole: «le prove su» e' inserita la seguente: «prodotti,»; 
+ 3) dopo la lettera d), e' inserita la seguente: «d-bis) lo studio, la ricerca e l'analisi per la valutazione delle cause di incendio;»; 
+ 4) alla lettera f), dopo la parola: «organizzazioni» sono inserite le seguenti: «nazionali ed»; 
+ 5) alla lettera g), dopo le parole: «di addestramento» sono inserite le seguenti: «, di aggiornamento»; 
+ 6) la lettera l) e' sostituita dalla seguente: «l) la vigilanza ispettiva sull'applicazione della normativa di prevenzione incendi.»; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    al comma 3, secondo periodo, dopo la parola: «prodotti,» e' inserita la seguente: «materiali,».
+
+3.
+                        
+                            
+                                All'articolo 15 del decreto sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    nella rubrica le parole: «e procedurali» sono soppresse; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    al comma 1: 
+ 1) alla lettera a), dopo le parole: «degli incendi» sono inserite le seguenti: «e delle esplosioni»; 
+ 2) alla lettera b), dopo le parole: «le conseguenze dell'incendio» sono inserite le seguenti: «e delle esplosioni».
 
 L'articolo 16 del decreto e' sostituito dal seguente: 
  «Art. 16 (Procedure di prevenzione incendi). - 1. Le procedure di prevenzione incendi sono avviate dai comandi competenti per territorio su iniziativa dei titolari delle attivita' individuate ai sensi del comma 2. I comandi provvedono all'esame dei progetti di nuovi impianti o costruzioni nonche' dei progetti di modifiche da apportare a quelli esistenti; all'acquisizione delle segnalazioni certificate di inizio attivita'; all'effettuazione di controlli attraverso visite tecniche; all'istruttoria dei progetti in deroga all'integrale osservanza delle regole tecniche di prevenzione incendi; all'acquisizione della richiesta di rinnovo periodico della conformita' antincendio; ad ulteriori verifiche ed esami previsti da uno dei decreti del Presidente della Repubblica di cui al comma 2. 
@@ -65,12 +223,104 @@ L'articolo 16 del decreto e' sostituito dal seguente:
 
 L'articolo 17 del decreto e' abrogato.
 
+6.
+                        
+                            
+                                All'articolo 18 del decreto sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il comma 4 e' sostituito dal seguente: «4. Oltre che nei casi di cui ai commi 1, 2 e 3, su richiesta dei soggetti responsabili, possono essere effettuati servizi di vigilanza antincendio in locali, impianti, stabilimenti, laboratori, natanti, depositi, magazzini e simili, stazioni ferroviarie, aerostazioni, stazioni marittime, stazioni metropolitane ovvero durante l'attivita' di trasporto e di carico e scarico di sostanze pericolose, infiammabili ed esplodenti, nonche' per il controllo remoto degli impianti di rilevazioni e allarme incendio, effettuati anche per via telematica, con collegamento alle sale operative dei comandi. I servizi sono resi compatibilmente con la disponibilita' di personale e mezzi del Corpo nazionale.»; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    al comma 5 le parole: «, nonche' dei compiti ispettivi affidati al Corpo nazionale» sono soppresse.
+
+7.
+                        
+                            
+                                All'articolo 19 del decreto sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    nella rubrica, dopo la parola: «Vigilanza» e' aggiunta la seguente: «ispettiva»; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    al comma 1: 
+ 1) al primo periodo, dopo la parola: «vigilanza» e' inserita la seguente: «ispettiva» e dopo le parole: «prodotti ad essa assoggettati» sono inserite le seguenti: «nonche' nei luoghi di lavoro ai sensi del decreto legislativo 9 aprile 2008, n. 81.»; 
+ 2) al secondo periodo, dopo la parola: «vigilanza» e' inserita la seguente: «ispettiva»; 
+ 3) al terzo periodo, dopo la parola: «vigilanza» e' inserita la seguente: «ispettiva»; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    al comma 3, dopo la parola: «vigilanza» e' inserita la seguente: «ispettiva»; le parole: «i provvedimenti» sono sostituite dalle seguenti: «le misure urgenti, anche ripristinatorie, di» e le parole: «delle opere» sono soppresse; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    dopo il comma 3, e' aggiunto il seguente: «3-bis. Con decreto del Ministro dell'interno, da adottarsi ai sensi dell'articolo 17, comma 3, della legge 23 agosto 1988, n. 400, e' disciplinata l'attivita' di vigilanza ispettiva di cui al presente articolo.».
+
 L'articolo 20 del decreto e' sostituito dal seguente: 
  «Art. 20 (Sanzioni penali e sospensione dell'attivita'). - 1.
 Chiunque, in qualita' di titolare di una delle attivita' soggette ai controlli di prevenzione incendi, ometta di presentare la segnalazione certificata di inizio attivita' o la richiesta di rinnovo periodico della conformita' antincendio e' punito con l'arresto sino ad un anno o con l'ammenda da 258 a 2.582 euro, quando si tratta di attivita' che comportano la detenzione e l'impiego di prodotti infiammabili, incendiabili o esplodenti, da cui derivano in caso di incendio gravi pericoli per l'incolumita' della vita e dei beni, da individuare con il decreto del Presidente della Repubblica previsto dall'articolo 16, comma 2. 
  2. Chiunque, nelle certificazioni e dichiarazioni rese ai fini della presentazione della segnalazione certificata di inizio attivita' o della richiesta di rinnovo periodico della conformita' antincendio, attesti fatti non rispondenti al vero e' punito con la reclusione da tre mesi a tre anni e con la multa da 103 a 516 euro.
 La stessa pena si applica a chi falsifica o altera le certificazioni e dichiarazioni medesime. 
  3. Ferme restando le sanzioni penali previste dalle disposizioni vigenti, il prefetto puo' disporre la sospensione dell'attivita' nelle ipotesi in cui i soggetti responsabili omettano di: presentare la segnalazione certificata di inizio attivita' o la richiesta di rinnovo periodico della conformita' antincendio; richiedere i servizi di vigilanza nei locali di pubblico spettacolo e intrattenimento e nelle strutture caratterizzate da notevole presenza di pubblico per i quali i servizi medesimi sono obbligatori. La sospensione e' disposta fino all'adempimento dell'obbligo.».
+
+9.
+                        
+                            
+                                All'articolo 21 del decreto sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    al comma 1, lettera b), le parole: «agli organi» sono sostituite dalle seguenti: «alle competenti direzioni centrali»; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    al comma 2, le parole: «Presidente della Repubblica» sono sostituite dalle seguenti: «Ministro dell'interno»; le parole: «dell'articolo 17, comma 1» sono sostituite dalle seguenti: «dell'articolo 17, comma 3»; le parole: «su proposta del Ministro dell'interno,» sono soppresse.
+
+10.
+                        
+                            
+                                All'articolo 22 del decreto sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    al comma 1: 
+ 1) dopo le parole: «Direzione regionale» sono inserite le seguenti: «o interregionale»; 
+ 2) alla lettera a), le parole «provinciali dei vigili del fuoco» sono soppresse e le parole: «dei procedimenti di rilascio del certificato» sono sostituite dalle seguenti: «delle procedure»; 
+ 3) dopo la lettera b) e' aggiunta la seguente: «b-bis) esprime il parere di cui all'articolo 29, comma 2.»; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il comma 3 e' sostituito dal seguente: «3. Con decreto del Ministro dell'interno sono dettate le disposizioni relative alla composizione e al funzionamento del Comitato di cui al presente articolo.».
 
 Dopo l'articolo 22 del decreto e' inserito il seguente: 
  «Art. 22-bis (Comitato tecnico regionale in materia di pericolo di incidenti rilevanti). - 1. Presso ciascuna direzione regionale o interregionale dei vigili del fuoco, del soccorso pubblico e della difesa civile opera, altresi', il Comitato tecnico regionale istituito dal decreto legislativo 26 giugno 2015, n. 105.».
@@ -162,11 +412,54 @@ L'articolo 29 del decreto e' sostituito dal seguente:
  4. I controlli iniziali e le verifiche periodiche dei mezzi, dei materiali e delle attrezzature di cui al comma 3, ivi comprese le verifiche periodiche di cui all'articolo 71, comma 11, del decreto legislativo 9 aprile 2008, n. 81, possono essere effettuate direttamente dal Corpo nazionale, nei limiti delle risorse umane, strumentali e finanziarie disponibili. La formazione e l'abilitazione del personale del Corpo nazionale all'utilizzo dei mezzi, dei materiali e delle attrezzature, ivi comprese quelle di cui all'articolo 73, comma 5, del decreto legislativo 9 aprile 2008, n. 81, possono essere effettuate direttamente dal Corpo stesso nei limiti delle risorse umane, strumentali e finanziarie disponibili. 
  5. Il Corpo nazionale provvede all'immatricolazione degli autoveicoli, dei mezzi speciali, delle unita' navali e degli aeromobili comunque in uso al Corpo medesimo, ai sensi dell'articolo 138 del nuovo codice della strada approvato con decreto legislativo 30 aprile 1992, n. 285, e successive modificazioni, e dell'articolo 748 del codice della navigazione, approvato con regio decreto 30 marzo 1942, n. 327. Il Corpo nazionale provvede, altresi', agli accertamenti tecnici, all'immatricolazione, al rilascio dei documenti di circolazione e delle targhe di riconoscimento ai veicoli in dotazione, ivi compresi quelli in prova, anche in deroga alle disposizioni di cui all'articolo 1 del decreto del Presidente della Repubblica 24 novembre 2001, n. 474.».
 
+3.
+                        
+                            
+                                All'articolo 31 del decreto sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    al comma 1, le parole: «del ruolo operativo» sono soppresse; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    al comma 2, le parole: «di cui al comma 1» sono sostituite dalle seguenti: «del Corpo nazionale che espleta compiti operativi»; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il comma 3 e' sostituito dal seguente: «3. Con uno o piu' decreti del Ministro dell'interno, sono determinate le caratteristiche e le modalita' di uso delle uniformi e degli equipaggiamenti di cui al comma 1, dei distintivi di cui al comma 2, nonche' delle denominazioni, degli stemmi, degli emblemi e degli altri segni distintivi del Corpo nazionale. Fino all'adozione di tali provvedimenti continuano ad applicarsi le disposizioni vigenti.».
+
 Dopo l'articolo 31 del decreto e' aggiunto il seguente Capo: «Capo VI-bis (Disposizioni finali e abrogazioni)».
 
 Dopo l'articolo 34 del decreto, e' inserito il seguente: 
  «Art. 34-bis (Clausola di invarianza della spesa). - 1.
 Dall'attuazione del presente decreto non devono derivare nuovi o maggiori oneri a carico della finanza pubblica. Le Amministrazioni pubbliche interessate provvedono all'attuazione del presente decreto con le risorse umane, strumentali e finanziarie disponibili a legislazione vigente.».
+
+6.
+                        
+                            
+                                All'articolo 35, comma 1, del decreto sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la lettera gg) e' sostituita dalla seguente: «gg) legge 23 dicembre 1980, n. 930, ad eccezione dell'articolo 2, commi 1 e 5; dell'articolo 7, comma 2; dell'articolo 32 per la parte relativa al trasferimento in soprannumero; degli articoli 33 e 38;»; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    dopo la lettera tt) e' aggiunta la seguente: «tt-bis) articolo 4, comma 1, della legge 2 dicembre 1991, n. 384».
 
 Dopo l'articolo 36 del decreto e' aggiunta la seguente tabella A, che costituisce parte integrante del medesimo decreto: 
  
@@ -419,6 +712,31 @@ Dopo l'articolo 132 del decreto legislativo 13 ottobre 2005, n. 217, e' inserito
  2. La mobilita' di cui al comma 1 e' subordinata alla verifica del possesso dei requisiti previsti per i corrispondenti ruoli del presente decreto e all'accertamento della compatibilita' dei percorsi formativi gia' espletati dal richiedente la mobilita'. 
  3. Ferme restando le verifiche di cui al comma 2, gli appartenenti ai Corpi permanenti dei vigili del fuoco delle province autonome di Trento e di Bolzano e della regione Valle d'Aosta possono essere chiamati a frequentare un corso di formazione e di tirocinio operativo presso le scuole centrali antincendi o le altre strutture centrali e periferiche del Corpo nazionale dei vigili del fuoco.».
 
+3.
+                        
+                            
+                                All'articolo 134 del decreto legislativo 13 ottobre 2005, n. 217, sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    al comma 1, dopo le parole: «favorevoli vigenti per il personale», sono inserite le seguenti: «di ruolo»; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    al comma 2, dopo le parole: «servizio attivo del personale», sono inserite le seguenti: «di ruolo»; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il comma 3 e' sostituito dal seguente: «3. Il personale di ruolo di cui al comma 2 che, a seguito degli accertamenti sanitari previsti nel medesimo comma, sia dichiarato totalmente inabile al servizio operativo, transita, a domanda da presentarsi entro trenta giorni dalla comunicazione degli esiti degli accertamenti sanitari, nei ruoli del personale che espleta funzioni tecniche, amministrativo-contabili o tecnico-informatiche, previo svolgimento di un adeguato percorso formativo. Tale personale e' collocato in altra qualifica dello stesso livello retributivo, permanendo, anche in soprannumero, nella sede dove presta servizio.».
+
 All'articolo 143, comma 3, del decreto legislativo 13 ottobre 2005, n. 217, dopo il primo periodo e' aggiunto il seguente: «Agli stessi fini si tiene conto della data di inquadramento giuridico nella qualifica e della sussistenza di eventuali cause di perdita dell'anzianita'.».
 
 ## Art. 12. — Modifiche alle Tabelle A e B del decreto legislativo 13 ottobre 2005, n. 217
@@ -432,6 +750,52 @@ La tabella B, allegata al decreto legislativo 13 ottobre 2005, n. 217, e' sostit
 ## Art. 13. — (( (Ruoli speciali antincendio boschivo (AIB) ad esaurimento del Corpo nazionale dei vigili del fuoco). ))
 
 ((
+
+1.
+                        
+                            
+                                I ruoli speciali antincendio boschivo (AIB) ad esaurimento del Corpo nazionale dei vigili del fuoco, istituiti ai sensi dell'articolo 15 del decreto legislativo 19 agosto 2016, n. 177, sono riarticolati come di seguito: 
+ 
+                            
+                            
+                                a)
+                                
+                                    ruolo dei vigili del fuoco AIB, distinto nelle qualifiche di vigile del fuoco AIB, vigile del fuoco esperto AIB e vigile del fuoco coordinatore AIB; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    ruolo dei capi squadra e dei capi reparto AIB, distinto nelle qualifiche di capo squadra AIB, capo squadra esperto AIB e capo reparto AIB; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    ruolo degli ispettori antincendi AIB, distinto nelle qualifiche di ispettore antincendi AIB, ispettore antincendi esperto AIB e ispettore antincendi coordinatore AIB; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    ruolo dei direttivi AIB, distinto nelle qualifiche di vice direttore AIB, direttore AIB e direttore vicedirigente AIB; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    ruolo dei dirigenti AIB, distinto nelle qualifiche di primo dirigente AIB e dirigente superiore AIB; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    ruolo dei direttivi speciali antincendi AIB, distinto nelle qualifiche di vice direttore speciale antincendi AIB, direttore speciale antincendi AIB e direttore coordinatore speciale antincendi AIB.
 
 Il personale gia' inquadrato nei ruoli ad esaurimento AIB secondo le corrispondenze indicate nella tabella B allegata al decreto legislativo 19 agosto 2016, n. 177, e' reinquadrato nei ruoli e nelle qualifiche istituite con il presente articolo ai sensi del titolo VI, capo I, del decreto legislativo 13 ottobre 2005, n. 217, e mantiene la stessa anzianita' di servizio e lo stesso ordine di ruolo. Al predetto personale si applicano le disposizioni vigenti per i corrispondenti ruoli e qualifiche del personale che espleta funzioni operative del Corpo nazionale in materia di stato giuridico, polizia giudiziaria, progressione in carriera e trattamento economico. Il medesimo personale continua a svolgere le funzioni previste dall'articolo 9 del decreto legislativo 19 agosto 2016, n. 177.
 
@@ -512,6 +876,30 @@ Il personale di cui al presente articolo e' valutato annualmente dall'amministra
 
 ((
 
+1.
+                        
+                            
+                                In un'apposita sezione del comparto di negoziazione del personale direttivo e dirigente del Corpo nazionale dei vigili del fuoco sono istituiti i seguenti ruoli ad esaurimento dei direttivi speciali del personale specialista aeronavigante: 
+ 
+                            
+                            
+                                a)
+                                
+                                    Ruolo dei direttivi speciali dei piloti di aeromobile, articolato in tre qualifiche: 
+ 1) pilota di aeromobile vice direttore speciale; 
+ 2) pilota di aeromobile direttore speciale; 
+ 3) pilota di aeromobile direttore coordinatore speciale; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    Ruolo dei direttivi speciali degli specialisti di aeromobile, articolato in tre qualifiche: 
+ 1) specialista di aeromobile vice direttore speciale; 
+ 2) specialista di aeromobile direttore speciale; 
+ 3) specialista di aeromobile direttore coordinatore speciale.
+
 Il personale specialista aeronavigante che presta servizio presso i reparti volo ovvero presso gli uffici del servizio aereo della direzione centrale per l'emergenza, il soccorso tecnico e l'antincendio boschivo del Dipartimento dei vigili del fuoco, del soccorso pubblico e della difesa civile, e' inquadrato nelle qualifiche dei ruoli di cui al comma 1 secondo quanto indicato ai commi seguenti.
 
 Il personale con la qualifica di ispettore antincendi esperto, che sia stato inquadrato nella predetta qualifica a decorrere dal 1° gennaio 2006 ovvero che abbia maturato trenta anni di effettivo servizio e che sia in possesso del brevetto e della licenza di pilota o di specialista di aeromobile, e' inquadrato, rispettivamente, nelle qualifiche ad esaurimento di pilota di aeromobile vice direttore speciale e di specialista di aeromobile vice direttore speciale, collocandosi nel ruolo dopo il personale di cui al comma 4.
@@ -539,6 +927,31 @@ E' escluso dall'inquadramento nel ruolo di cui al comma 1 il personale sottopost
 E' altresi' escluso dall'inquadramento nel ruolo di cui al comma 1 il personale che, nel quinquennio precedente l'entrata in vigore del presente decreto, abbia riportato una sanzione disciplinare pari o piu' grave della sanzione pecuniaria ovvero che abbia riportato sentenza irrevocabile di condanna per delitto non colposo o che sia stato sottoposto a misura di prevenzione.
 
 Il personale escluso dall'inquadramento di cui al presente articolo ai sensi dei commi 13 e 14 e' inquadrato secondo quanto indicato al comma seguente.
+
+16.
+                        
+                            
+                                Il personale che riveste la qualifica di: 
+ 
+                            
+                            
+                                a)
+                                
+                                    ispettore antincendi esperto, che sia stato inquadrato nella predetta qualifica a decorrere dal 1° gennaio 2006 ovvero che abbia maturato trenta anni di effettivo servizio e che sia in possesso del brevetto e della licenza di pilota o di specialista di aeromobile, e' inquadrato, rispettivamente, nelle istituite qualifiche di pilota di aeromobile ispettore coordinatore o di specialista di aeromobile ispettore coordinatore, collocandosi nel ruolo dopo il personale di cui alla lettera b); 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    sostituto direttore antincendi, in possesso del brevetto e della licenza di pilota o di specialista di aeromobile, e' inquadrato, rispettivamente, nelle istituite qualifiche di pilota di aeromobile ispettore coordinatore o di specialista di aeromobile ispettore coordinatore; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    sostituto direttore antincendi capo e di sostituto direttore antincendi capo denominato "esperto", in possesso del brevetto e della licenza di pilota o di specialista di aeromobile, e' inquadrato, rispettivamente, nelle istituite qualifiche di pilota di aeromobile ispettore coordinatore o di specialista di aeromobile ispettore coordinatore con l'attribuzione di uno scatto convenzionale.
 
 Il personale specialista aeronavigante ad esaurimento presta servizio presso i reparti volo e puo' essere impiegato presso gli uffici del servizio aereo della direzione centrale per l'emergenza, il soccorso tecnico e l'antincendio boschivo del Dipartimento dei vigili del fuoco, del soccorso pubblico e della difesa civile; svolge le funzioni di cui all'articolo 31 del decreto legislativo 13 ottobre 2005, n. 217, nell'ambito delle materie attinenti alla specialita' posseduta.
 
@@ -599,6 +1012,30 @@ Fino alla cessazione dal servizio del personale inquadrato nel ruolo di cui al c
 ## Art. 13-sexies. — (( (Ruoli ad esaurimento dei direttivi speciali del personale specialista nautico). ))
 
 ((
+
+1.
+                        
+                            
+                                In un'apposita sezione del comparto di negoziazione del personale direttivo e dirigente del Corpo nazionale dei vigili del fuoco sono istituiti i seguenti ruoli ad esaurimento dei direttivi speciali del personale specialista nautico: 
+ 
+                            
+                            
+                                a)
+                                
+                                    Ruolo dei direttivi speciali dei nautici di coperta, articolato in tre qualifiche: 
+ 1) nautico di coperta vice direttore speciale; 
+ 2) nautico di coperta direttore speciale; 
+ 3) nautico di coperta direttore coordinatore speciale; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    Ruolo dei direttivi speciali dei nautici di macchina, articolato in tre qualifiche: 
+ 1) nautico di macchina vice direttore speciale; 
+ 2) nautico di macchina direttore speciale; 
+ 3) nautico di macchina direttore coordinatore speciale.
 
 Il personale con la qualifica di ispettore antincendi esperto, che sia stato inquadrato nella predetta qualifica a decorrere dal 1° gennaio 2006 ovvero che abbia maturato trenta anni di effettivo servizio e che sia in possesso di brevetto e di abilitazione di nautico di coperta o di nautico di macchina, e' inquadrato, a domanda, rispettivamente, nelle istituite qualifiche ad esaurimento di nautico di coperta vice direttore speciale e di nautico di macchina vice direttore speciale, collocandosi nel ruolo dopo il personale di cui al comma 3.
 
@@ -687,6 +1124,30 @@ Fino alla cessazione dal servizio del personale inquadrato nel ruolo di cui al c
 
 ((
 
+1.
+                        
+                            
+                                In un'apposita sezione del comparto di negoziazione del personale direttivo e dirigente del Corpo nazionale dei vigili del fuoco sono istituiti i seguenti ruoli ad esaurimento del personale tecnico-professionale, che espleta funzioni logistico-gestionali e informatiche: 
+ 
+                            
+                            
+                                a)
+                                
+                                    Ruolo ad esaurimento dei direttivi speciali del personale tecnico-professionale che espleta funzioni logistico-gestionali, articolato nelle seguenti qualifiche: 
+ 1) vice direttore speciale logistico-gestionale; 
+ 2) direttore speciale logistico-gestionale; 
+ 3) direttore coordinatore speciale logistico-gestionale; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    Ruolo ad esaurimento dei direttivi speciali del personale tecnico-professionale che espleta funzioni informatiche, articolato nelle seguenti qualifiche: 
+ 1) vice direttore speciale informatico; 
+ 2) direttore speciale informatico; 
+ 3) direttore coordinatore speciale informatico.
+
 Il personale con la qualifica di collaboratore amministrativo-contabile esperto o di collaboratore tecnico-informatico esperto, che abbia maturato trenta anni di effettivo servizio e che sia in possesso di laurea, e' inquadrato, rispettivamente, nelle istituite qualifiche ad esaurimento di vice direttore speciale logistico-gestionale e vice direttore speciale informatico, collocandosi nel ruolo dopo il personale di cui al comma 3.
 
 Il personale con la qualifica di sostituto direttore amministrativo-contabile o di sostituto direttore tecnico-informatico, che abbia meno di due anni di effettivo servizio nella qualifica, e' inquadrato, rispettivamente, nelle istituite qualifiche ad esaurimento di vice direttore speciale logistico-gestionale e vice direttore speciale informatico.
@@ -736,6 +1197,24 @@ Fino alla cessazione dal servizio del personale inquadrato nei ruoli di cui al c
 
 ((
 
+1.
+                        
+                            
+                                Sono istituiti i seguenti ruoli professionali ad esaurimento, in cui e' inquadrato il personale con le qualifiche di direttore medico-vicedirigente, di primo dirigente medico e di dirigente superiore medico: 
+ 
+                            
+                            
+                                a)
+                                
+                                    Ruolo professionale ad esaurimento dei direttivi medici, articolato nella qualifica di direttore medico-vicedirigente; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    Ruolo professionale ad esaurimento dei dirigenti medici, articolato nelle qualifiche di primo dirigente medico e dirigente superiore medico.
+
 2. Al personale di cui al comma 1 si applicano e continuano ad applicarsi le disposizioni in materia di trattamenti retributivi e previdenziali previsti per il personale del Corpo nazionale dei vigili del fuoco che espleta funzioni operative, nonche' gli incrementi retributivi previsti dall'articolo 15. Il medesimo personale conserva il diritto ad indossare le uniformi e i fregi e svolge le funzioni di cui all'articolo 179 del decreto legislativo 13 ottobre 2005, n. 217.))
 
 ((2))
@@ -750,6 +1229,31 @@ Fino alla cessazione dal servizio del personale inquadrato nei ruoli di cui al c
 ((
 
 L'accesso alla qualifica di primo dirigente medico avviene, nel limite dei posti disponibili al 31 dicembre di ogni anno nel corrispondente ruolo tecnico-professionale dei dirigenti sanitari, mediante scrutinio per merito comparativo e superamento di un corso di formazione della durata di tre mesi con esame finale. Allo scrutinio sono ammessi i direttori medici-vicedirigenti che, alla data di cui al periodo precedente, abbiano maturato due anni di effettivo servizio nella qualifica.
+
+2.
+                        
+                            
+                                Non e' ammesso allo scrutinio il personale che: 
+ 
+                            
+                            
+                                a)
+                                
+                                    nei tre anni precedenti lo scrutinio abbia riportato nella valutazione annuale di cui all'articolo 202 del decreto legislativo 13 ottobre 2005, n. 217, un punteggio inferiore a ottanta; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    nell'anno precedente lo scrutinio abbia riportato la sanzione disciplinare della sanzione pecuniaria; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    nei tre anni precedenti lo scrutinio abbia riportato una sanzione disciplinare piu' grave della sanzione pecuniaria.
 
 E' sospeso dagli scrutini il personale di cui al comma 1 rinviato a giudizio o ammesso ai riti alternativi per reati non colposi. Nei confronti di tale personale si applicano le disposizioni contenute nell'articolo 95 del decreto del Presidente della Repubblica 10 gennaio 1957, n. 3, e successive modificazioni.
 
@@ -774,6 +1278,24 @@ La promozione alla qualifica di dirigente superiore medico si consegue, nel limi
 
 ((
 
+1.
+                        
+                            
+                                Sono istituiti i seguenti ruoli professionali ad esaurimento, in cui e' inquadrato il personale con le qualifiche di direttore ginnico-sportivo-vicedirigente, di primo dirigente ginnico-sportivo e di dirigente superiore ginnico-sportivo: 
+ 
+                            
+                            
+                                a)
+                                
+                                    Ruolo professionale ad esaurimento dei direttivi ginnico-sportivi, articolato nella qualifica di direttore ginnico-sportivo-vicedirigente; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    Ruolo professionale ad esaurimento dei dirigenti ginnico-sportivi, articolato nelle qualifiche di primo dirigente ginnico-sportivo e dirigente superiore ginnico-sportivo.
+
 2. Al personale di cui al comma 1 si applicano e continuano ad applicarsi le disposizioni in materia di trattamenti retributivi e previdenziali previsti per il personale del Corpo nazionale dei vigili del fuoco che espleta funzioni operative, nonche' gli incrementi retributivi previsti dall'articolo 15. Il medesimo personale conserva il diritto ad indossare le uniformi e i fregi e svolge le funzioni di cui all'articolo 189 del decreto legislativo 13 ottobre 2005, n. 217.))
 
 ((2))
@@ -788,6 +1310,31 @@ La promozione alla qualifica di dirigente superiore medico si consegue, nel limi
 ((
 
 L'accesso alla qualifica di primo dirigente ginnico-sportivo avviene, nel limite dei posti disponibili al 31 dicembre di ogni anno nel corrispondente ruolo tecnico-professionale dei dirigenti ginnico-sportivi, mediante scrutinio per merito comparativo e superamento di un corso di formazione della durata di tre mesi con esame finale. Allo scrutinio sono ammessi i direttori ginnico-sportivi vicedirigenti che, alla data di cui al periodo precedente, abbiano maturato due anni di effettivo servizio nella qualifica.
+
+2.
+                        
+                            
+                                Non e' ammesso allo scrutinio il personale che: 
+ 
+                            
+                            
+                                a)
+                                
+                                    nei tre anni precedenti lo scrutinio abbia riportato nella valutazione annuale di cui all'articolo 202 del decreto legislativo 13 ottobre 2005, n. 217, un punteggio inferiore a ottanta; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    nell'anno precedente lo scrutinio abbia riportato la sanzione disciplinare della sanzione pecuniaria; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    nei tre anni precedenti lo scrutinio abbia riportato una sanzione disciplinare piu' grave della sanzione pecuniaria.
 
 E' sospeso dagli scrutini il personale di cui al comma 1 rinviato a giudizio o ammesso ai riti alternativi per reati non colposi. Nei confronti di tale personale si applicano le disposizioni contenute nell'articolo 95 del decreto del Presidente della Repubblica 10 gennaio 1957, n. 3, e successive modificazioni.
 
@@ -894,7 +1441,43 @@ Fondo per l'operativita' del soccorso pubblico
 
 Al fine di valorizzare le peculiari condizioni di impiego professionale del personale del Corpo nazionale dei vigili del fuoco, conseguenti alla revisione ordinamentale di cui al presente provvedimento e' istituito, a decorrere dall'anno 2017, nello stato di previsione del Ministero dell'interno, nell'ambito del programma di spesa «Prevenzione dal rischio e soccorso pubblico», un fondo per il finanziamento degli interventi indicati al comma 4.
 
+2.
+                        
+                            
+                                Il fondo di cui al comma 1 e' alimentato con le risorse previste ai sensi dell'articolo 1, comma 365, lettera c), primo e secondo periodo, della legge 11 dicembre 2016, n. 232, come di seguito indicato: 
+ 
+                            
+                            
+                                a)
+                                
+                                    per euro 39,7 milioni per l'anno 2017 e per euro 81,730 milioni dall'anno 2018, per le finalita' previste dal comma 4, con decorrenza dal 1° ottobre 2017; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    per importi da determinarsi con apposito decreto del Ministro dell'interno, di concerto con il Ministro dell'economia e delle finanze, per le finalita' previste dal comma 4, con decorrenza dal 1° gennaio 2017.
+
 Il contributo straordinario di cui all'articolo 1, comma 972, della legge 28 dicembre 2015, n. 208, come prorogato dal decreto del Presidente del Consiglio dei ministri, adottato ai sensi dell'articolo 1, comma 365, lettera c), della legge 11 dicembre 2016, n. 232, cessa di essere corrisposto al personale del Corpo nazionale dei vigili del fuoco alla data del 30 settembre 2017. Al medesimo personale in servizio al 1° ottobre 2017 e' corrisposto una tantum un assegno di euro 350.
+
+4.
+                        
+                            
+                                Entro tre mesi dalla data di entrata in vigore del presente decreto, con decreto del Presidente del Consiglio dei ministri, su proposta del Ministro dell'interno, di concerto con il Ministro dell'economia e delle finanze, sono individuate, nel rispetto dei principi dell'articolo 8, comma 1, lettera a), numero 4, della legge 8 agosto 2015, n. 124, le modalita' di utilizzazione, con le decorrenze indicate al comma 2, lettere a) e b), delle risorse disponibili nel fondo di cui al comma 1, fatta salva l'eventuale quota da destinare al finanziamento di ulteriori interventi di riordino delle carriere e dei ruoli del Corpo nazionale dei vigili del fuoco. Il predetto decreto puo' prevedere: 
+ 
+                            
+                            
+                                a)
+                                
+                                    l'incremento del valore delle componenti retributive, diverse dal trattamento stipendiale, erogate al personale del Corpo nazionale dei vigili del fuoco, con esclusione di quello appartenente ai ruoli dei dirigenti, da definirsi mediante le procedure negoziali ai sensi degli articoli 34 e 80 del decreto legislativo 13 ottobre 2005, n. 217, anche allo scopo di valorizzare i compiti di natura operativa del Corpo medesimo, fatti salvi gli effetti dei procedimenti negoziali non ancora definiti; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la previsione di misure di esenzione fiscale del trattamento economico accessorio per il personale del Corpo percettore di un reddito annuo utile ai fini fiscali non superiore a 28.000 euro e per una spesa complessiva annua non superiore a 1.000.000 di euro.
 
 Lo schema di decreto di cui al comma 4 e' trasmesso alle Camere ai fini dell'espressione dei pareri delle commissioni parlamentari competenti per materia e per i profili finanziari, che sono resi entro il termine di trenta giorni dalla data di trasmissione, decorsi i quali il decreto puo' essere comunque adottato.
 
@@ -929,9 +1512,52 @@ La determinazione delle tariffe di cui agli articoli 23 e 25 del decreto legisla
 
 Dalla data del 1° gennaio 2018, le misure dello stipendio tabellare e delle indennita' di rischio e mensile del personale del Corpo nazionale dei vigili del fuoco sono fissate nella tabella C, allegata al decreto legislativo 13 ottobre 2005, n. 217. Gli effetti retributivi derivanti dall'applicazione della predetta tabella C costituiscono miglioramenti economici ai sensi dell'articolo 12, comma 5, decreto legislativo 19 agosto 2016, n. 177, e dell'articolo 261 del decreto legislativo 13 ottobre 2005, n. 217.
 
+2.
+                        
+                            
+                                A decorrere dall'anno 2018, il fondo di produttivita' di cui all'articolo 5 del decreto del Presidente della Repubblica 19 novembre 2010, n. 250, e' incrementato: 
+ 
+                            
+                            
+                                a)
+                                
+                                    dalle risorse del fondo di amministrazione di cui all'articolo 6 del decreto del Presidente della Repubblica 19 novembre 2010, n. 251, destinate al personale inquadrato alla data di cui al comma 1 nei ruoli dei direttivi logistico-gestionali, dei direttivi informatici, dei direttivi aggiunti che espletano funzioni operative, nonche' nei ruoli ad esaurimento di cui all'articolo 13-bis, comma 1, lettere a),
+                                
+                            
+                            
+                                b)
+                                
+                                    e c); 
+ b) dalle risorse gia' destinate a remunerare il lavoro straordinario del personale interessato dal conferimento delle posizioni organizzative di cui agli articoli 199 e 223 del decreto legislativo 13 ottobre 2005, n. 217; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    dall'importo di euro 1.050.000 che, a decorrere dall'anno 2019, viene destinato al finanziamento della spesa connessa all'istituzione delle posizioni organizzative di cui agli articoli 199 e 223 del decreto legislativo 13 ottobre 2005, n. 217; per gli anni 2022 e 2023 detto incremento e' ridotto rispettivamente di euro 110.000 e di euro 290.000. A tali importi si aggiungono le risorse di cui alla lettera b).
+
 A seguito dell'espletamento delle procedure concorsuali straordinarie previste dall'articolo 260 del decreto legislativo 13 ottobre 2005, n. 217, la disponibilita' del fondo per la retribuzione di rischio, di posizione e di risultato di cui all'articolo 10 del decreto del Presidente della Repubblica 19 novembre 2010, n. 250, e' incrementata attingendo alle risorse del fondo di produttivita' di cui al comma 2, che viene ridotto di un importo corrispondente.
 
 Le risorse di cui ai commi 2, lettere a) e b), e 3 sono determinate con uno o piu' decreti del Ministro dell'interno, di concerto con il Ministro dell'economia e delle finanze.
+
+5.
+                        
+                            
+                                A decorrere dall'anno 2018, le risorse destinate a finanziare le indennita' attribuite al personale inquadrato nei ruoli delle specialita' aeronaviganti, nautiche e dei sommozzatori ovvero, nel limite di 25 unita', al personale che, nell'ambito dei ruoli direttivi del Corpo nazionale dei vigili del fuoco, espleta le predette funzioni specialistiche ((...)) sono incrementate dell'importo di euro 1.200.000. Per il solo anno 2018, gli accordi integrativi nazionali di cui agli articoli 140, comma 1, e 230, comma 1, del decreto legislativo 13 ottobre 2005, n. 217, definiscono gli incrementi dei vigenti istituti retributivi accessori correlati alle suddette specialita'. A decorrere dall'anno 2019, il procedimento negoziale di cui agli articoli 136 e 226 del decreto legislativo 13 ottobre 2005, n. 217, definisce: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la nuova configurazione degli istituti retributivi volta a valorizzare l'impiego operativo, la qualificazione e l'esperienza specifica acquisita, nonche' lo svolgimento di incarichi di particolare responsabilita'; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la previsione di benefici economici finalizzati al mantenimento delle indennita' specialistiche in godimento nei casi di indisponibilita' dal servizio per infermita', temporanea o permanente, dipendente da causa di servizio e nei casi di decadenza del brevetto o della licenza ovvero del titolo comunque denominato abilitativo allo svolgimento delle attivita' di soccorso tecnico specialistico. (5)
 
 I fondi di incentivazione del personale del Corpo nazionale dei vigili del fuoco sono annualmente incrementati, a decorrere dall'anno 2018, dalle risorse, indicate nell'allegato 1 al presente decreto, che residuano a seguito dall'attuazione degli interventi di revisione ordinamentale di cui al presente decreto. 
  

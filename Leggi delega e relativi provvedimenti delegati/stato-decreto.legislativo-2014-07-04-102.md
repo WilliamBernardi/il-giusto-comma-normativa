@@ -8,8 +8,8 @@ vigente: true
 source: normattiva-opendata
 collection: Leggi delega e relativi provvedimenti delegati
 vigenza_date: 2026-04-19
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:41:20Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -35,9 +35,394 @@ Il presente decreto, in attuazione della direttiva 2012/27/UE ((, come modificat
 
 ## Art. 2. — Definizioni
 
+1.
+                        
+                            
+                                Ai fini del presente decreto, fatte salve le abrogazioni previste all'articolo 18, comma 1, lettera a), si applicano le definizioni di cui: 
+ 
+                            
+                            
+                                a)
+                                
+                                    all'articolo 2 del decreto legislativo 30 maggio 2008, n. 115 e successive modificazioni; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    all'articolo 2 del decreto legislativo 8 febbraio 2007, n. 20 e successive modificazioni; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    all'articolo 2, commi 1 e 2, del decreto legislativo 19 agosto 2005, n. 192 e successive modificazioni; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    al decreto legislativo 18 aprile 2016, n. 50;
+                                
+                            
+                            
+                                d-bis)
+                                
+                                    al decreto legislativo 1° giugno 2011, n. 93.
+
+2.
+                        
+                            
+                                Si applicano inoltre le seguenti definizioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    Accredia: organismo nazionale italiano di accreditamento, designato ai sensi del decreto del Ministro dello sviluppo economico 22 dicembre 2009, pubblicato nella Gazzetta Ufficiale n. 20 del 26 gennaio 2010; 
+
+                                
+                            
+                            
+                                a-bis)
+                                
+                                    aggregatore: un fornitore di servizi che, su richiesta, accorpa una pluralita' di unita' di consumo, ovvero di unita' di consumo e di unita' di produzione, per venderli o metterli all'asta in mercati organizzati dell'energia; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    ammodernamento sostanziale di un impianto: un ammodernamento il cui costo di investimento e' superiore al 50% dei costi di investimento di una nuova analoga unita'; 
+
+                                
+                            
+                            
+                                b-bis)
+                                
+                                    audit energetico o diagnosi energetica: procedura sistematica finalizzata a ottenere un'adeguata conoscenza del profilo di consumo energetico di un edificio o gruppo di edifici, di una attivita' o impianto industriale o commerciale o di servizi pubblici o privati, a individuare e quantificare le opportunita' di risparmio energetico sotto il profilo costi-benefici e a riferire in merito ai risultati; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    esperto in Gestione dell'energia (EGE): persona fisica certificata secondo la norma UNI CEI 11339 rilasciata da organismo accreditato che, tra l'altro, esegue diagnosi energetiche conformi alle norme UNI CEI EN 16247; 
+
+                                
+                            
+                            
+                                c-bis)
+                                
+                                    auditor energetico: figura coincidente con quella dell'EGE per le attivita' previste dal presente decreto in relazione all'esecuzione di diagnosi energetiche;
+                                
+                            
+                            
+                                d)
+                                
+                                    CEI: comitato elettrotecnico italiano; 
+
+                                
+                            
+                            
+                                d-bis)
+                                
+                                    cliente finale: cliente che acquista energia, anche sotto forma di vettore energetico, per uso proprio; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    coefficiente di edificazione: rapporto tra la superficie lorda coperta degli immobili e la superficie del terreno di un determinato territorio; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    condominio: edificio con almeno due unita' immobiliari, di proprieta' in via esclusiva di soggetti che sono anche comproprietari delle parti comuni; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    consumo di energia finale: tutta l'energia fornita per l'industria, i trasporti, le famiglie, i servizi e l'agricoltura, con esclusione delle forniture al settore della trasformazione dell'energia e alle industrie energetiche stesse; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    consumo di energia primaria: il consumo interno lordo di energia, ad esclusione degli usi non energetici; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    contatore di fornitura: apparecchiatura di misura dell'energia consegnata. Il contatore di fornitura puo' essere individuale, nel caso in cui misuri il consumo di energia della singola unita' immobiliare, o condominiale, nel caso in cui misuri l'energia, con l'esclusione di quella elettrica, consumata da una pluralita' di unita' immobiliari, come nel caso di un condominio o di un edificio polifunzionale; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    LETTERA SOPPRESSA DAL D.LGS. 18 LUGLIO 2016, N. 141; 
+
+                                
+                            
+                            
+                                m)
+                                
+                                    conto termico: sistema di incentivazione della produzione di energia termica da fonti rinnovabili ed interventi di efficienza energetica di piccole dimensioni di cui al decreto del Ministro dello sviluppo economico 28 dicembre 2012, di concerto con il Ministro dell'ambiente e della tutela del territorio e del mare e il Ministro delle politiche agricole alimentari e forestali, pubblicato nel supplemento ordinario alla Gazzetta Ufficiale n. 1 del 2 gennaio 2013; 
+
+                                
+                            
+                            
+                                n)
+                                
+                                    contratto di rendimento energetico o di prestazione energetica (EPC): accordo contrattuale tra il beneficiario o chi per esso esercita il potere negoziale e il fornitore di una misura di miglioramento dell'efficienza energetica, verificata e monitorata durante l'intera durata del contratto, dove gli investimenti (lavori, forniture o servizi) realizzati sono pagati in funzione del livello di miglioramento dell'efficienza energetica stabilito contrattualmente o di altri criteri di prestazione energetica concordati, quali i risparmi finanziari; 
+
+                                
+                            
+                            
+                                o)
+                                
+                                    criteri ambientali minimi (CAM): criteri ambientali minimi per categorie di prodotto, adottati con decreto del Ministro dell'ambiente ai sensi del PAN GPP; 
+
+                                
+                            
+                            
+                                p)
+                                
+                                    edificio polifunzionale: edificio destinato a scopi diversi e occupato da almeno due soggetti che devono ripartire tra loro la fattura dell'energia acquistata; 
+
+                                
+                            
+                            
+                                q)
+                                
+                                    ENEA: Agenzia nazionale per le nuove tecnologie, l'energia e lo sviluppo economico sostenibile; 
+
+                                
+                            
+                            
+                                r)
+                                
+                                    energia termica: calore per riscaldamento e/o raffreddamento, sia per uso industriale che civile; 
+
+                                
+                            
+                            
+                                s)
+                                
+                                    energia: tutte le forme di prodotti energetici, combustibili, energia termica, energia rinnovabile, energia elettrica o qualsiasi altra forma di energia, come definiti all'articolo 2, lettera d), del regolamento (CE) n. 1099/2008 del Parlamento e del Consiglio del 22 ottobre 2008; 
+
+                                
+                            
+                            
+                                t)
+                                
+                                    esercente l'attivita' di misura del gas naturale: soggetto che eroga l'attivita' di misura di cui all'articolo 4, comma17 della deliberazione dell'Autorita' per l'energia elettrica, il gas e il sistema idrico n. 11 del 2007, e successive modificazioni; 
+
+                                
+                            
+                            
+                                u)
+                                
+                                    esercente l'attivita' di misura dell'energia elettrica: soggetto che eroga l'attivita' di misura di cui all'articolo 4, comma6 della deliberazione dell'Autorita' per l'energia elettrica, il gas e il sistema idrico n. 11 del 2007, e successive modificazioni; 
+                                
+                            
+                            
+                                v)
+                                
+                                    grande impresa: ogni entita', a prescindere dalla forma giuridica, che eserciti un'attivita' economica con piu' di 250 occupati e con un fatturato annuo che superi i 50 milioni di euro, oppure il cui totale di bilancio annuo superi i 43 milioni di euro, i cui effettivi e soglie finanziarie sono calcolabili secondo i criteri e i principi stabiliti dalla raccomandazione 2003/362/CE della Commissione europea del 6 maggio 2003;
+                                
+                            
+                            
+                                z)
+                                
+                                    GSE: Gestore dei servizi energetici S.p.A.; 
+
+                                
+                            
+                            
+                                aa)
+                                
+                                    immobili della pubblica amministrazione centrale: edifici o parti di edifici di proprieta' della pubblica amministrazione centrale, e da essa occupati; 
+
+                                
+                            
+                            
+                                bb)
+                                
+                                    interfaccia di comunicazione: dispositivo fisico o virtuale che permette la comunicazione fra due o piu' entita' di tipo diverso; 
+
+                                
+                            
+                            
+                                cc)
+                                
+                                    microimpresa, piccola impresa e media impresa o PMI: impresa che occupa meno di 250 persone, il cui fatturato annuo non supera i 50 milioni di euro o il cui totale di bilancio annuo non supera i 43 milioni di euro. Per le imprese per le quali non e' stato approvato il primo bilancio ovvero, nel caso di imprese esonerate dalla tenuta della contabilita' ordinaria o dalla redazione del bilancio, o per le quali non e' stata presentata la prima dichiarazione dei redditi, sono considerati esclusivamente il numero degli occupati ed il totale dell'attivo patrimoniale risultanti alla stessa data; 
+
+                                
+                            
+                            
+                                dd)
+                                
+                                    Piano d'azione nazionale per l'efficienza energetica (PAEE): documento redatto ai sensi dell'articolo 17 che individua gli orientamenti nazionali per il raggiungimento degli obiettivi di miglioramento dell'efficienza energetica e dei servizi energetici; 
+
+                                
+                            
+                            
+                                ee)
+                                
+                                    Piano d'azione per la sostenibilita' ambientale dei consumi nel settore della pubblica amministrazione (PAN GPP): Piano predisposto ai sensi dell'articolo 1, comma 1126, della legge 27 dicembre 2006 n. 296, e approvato con decreto del Ministro dell'ambiente e della tutela del territorio e del mare, di concerto con i Ministri dell'economia e delle finanze e dello sviluppo economico 11 aprile 2008, pubblicato nella Gazzetta Ufficiale n. 107 dell'8 maggio 2008, cosi' come modificato dal decreto del Ministro dell'ambiente e della tutela del territorio e del mare, 10 aprile 2013, pubblicato nella Gazzetta Ufficiale n. 102 del 3 maggio 2013; 
+                                
+                            
+                            
+                                ee-bis)
+                                
+                                    Piano nazionale integrato per l'energia e il clima (PNIEC): Piano predisposto dall'Italia ai sensi degli articoli 3 e da 7 a 12 del regolamento (UE) 2018/1999 e notificato alla Commissione europea;
+                                
+                            
+                            
+                                ff)
+                                
+                                    pubblica amministrazione centrale: le autorita' governative centrali di cui all'allegato III del decreto legislativo 18 aprile 2016, n. 50, nonche' gli organi costituzionali;
+                                
+                            
+                            
+                                gg)
+                                
+                                    rete di teleriscaldamento e teleraffreddamento (o teleraffrescamento): qualsiasi infrastruttura di trasporto dell'energia termica da una o piu' fonti di produzione verso una pluralita' di edifici o siti di utilizzazione, realizzata prevalentemente su suolo pubblico, finalizzata a consentire a chiunque interessato, nei limiti consentiti dall'estensione della rete, di collegarsi alla medesima per l'approvvigionamento di energia termica per il riscaldamento o il raffreddamento di spazi, per processi di lavorazione e per la copertura del fabbisogno di acqua calda sanitaria; 
+
+                                
+                            
+                            
+                                hh)
+                                
+                                    ripartizione regionale della quota minima di energia da produrre mediante energie rinnovabili (Burden Sharing): suddivisione tra Regioni degli impegni per raggiungere una quota minima di energia rinnovabile di cui al decreto 15 marzo 2012 del Ministro dello sviluppo economico, di concerto con il Ministro dell'ambiente e della tutela del territorio e del mare, d'intesa con la Conferenza Unificata, pubblicato nella Gazzetta Ufficiale, n. 78 del 2 aprile 2012; 
+
+                                
+                            
+                            
+                                ii)
+                                
+                                    riscaldamento e raffreddamento efficienti: un'opzione di riscaldamento e raffreddamento che, rispetto a uno scenario di riferimento che rispecchia le condizioni abituali, riduce in modo misurabile l'apporto di energia primaria necessaria per rifornire un'unita' di energia erogata nell'ambito di una pertinente delimitazione di sistema in modo efficiente in termini di costi, come valutato nell'analisi costi-benefici di cui al presente decreto, tenendo conto dell'energia richiesta per l'estrazione, la conversione, il trasporto e la distribuzione; 
+
+                                
+                            
+                            
+                                ll)
+                                
+                                    riscaldamento e raffreddamento individuali efficienti: un'opzione di fornitura individuale di riscaldamento e raffreddamento che, rispetto al teleriscaldamento e teleraffreddamento efficienti, riduce in modo misurabile l'apporto di energia primaria non rinnovabile necessaria per rifornire un'unita' di energia erogata nell'ambito di una pertinente delimitazione di sistema o richiede lo stesso apporto di energia primaria non rinnovabile ma a costo inferiore, tenendo conto dell'energia richiesta per l'estrazione, la conversione, il trasporto e la distribuzione; 
+
+                                
+                            
+                            
+                                mm)
+                                
+                                    servizio energetico: la prestazione materiale, l'utilita' o il vantaggio derivante dalla combinazione di energia con tecnologie ovvero con operazioni che utilizzano efficacemente l'energia, che possono includere le attivita' di gestione, di manutenzione e di controllo necessarie alla prestazione del servizio, la cui fornitura e' effettuata sulla base di un contratto e che in circostanze normali ha dimostrato di portare a miglioramenti dell'efficienza energetica e a risparmi energetici primari verificabili e misurabili o stimabili; 
+                                
+                            
+                            
+                                nn)
+                                
+                                    sistema di contabilizzazione: sistema tecnico che consente la misurazione dell'energia termica o frigorifera fornita alle singole unita' immobiliari (utenze) servite da un impianto termico centralizzato o da teleriscaldamento o teleraffreddamento, ai fini della proporzionale suddivisione delle relative spese. Sono ricompresi nei sistemi di contabilizzazione i dispositivi atti alla contabilizzazione indiretta del calore, quali i ripartitori dei costi di riscaldamento e i totalizzatori;
+                                
+                            
+                            
+                                oo)
+                                
+                                    sistema di gestione dell'energia: insieme di elementi che interagiscono o sono intercorrelati all'interno di un piano che stabilisce un obiettivo di efficienza energetica e una strategia atta a conseguirlo; 
+
+                                
+                            
+                            
+                                pp)
+                                
+                                    sistema di misurazione intelligente: un sistema elettronico in grado di misurare il consumo di energia fornendo maggiori informazioni rispetto ad un dispositivo convenzionale, e di trasmettere e ricevere dati utilizzando una forma di comunicazione elettronica; 
+
+                                
+                            
+                            
+                                qq)
+                                
+                                    sistema di termoregolazione: sistema tecnico che consente all'utente di regolare la temperatura desiderata, entro i limiti previsti dalla normativa vigente, per ogni unita' immobiliare, zona o ambiente; 
+
+                                
+                            
+                            
+                                qq-bis)
+                                
+                                    sotto-contatore: contatore dell'energia, con l'esclusione di quella elettrica, che e' posto a valle del contatore di fornitura di una pluralita' di unita' immobiliari per la misura dei consumi individuali o di edifici, a loro volta formati da una pluralita' di unita' immobiliari, ed e' atto a misurare l'energia consumata dalla singola unita' immobiliare o dal singolo edificio; 
+
+                                
+                            
+                            
+                                rr)
+                                
+                                    Strategia energetica nazionale (SEN): documento di analisi e strategia energetica approvato con decreto 8 marzo 2013 del Ministro dello sviluppo economico e del Ministro dell'ambiente e della tutela del territorio e del mare, pubblicato nella Gazzetta Ufficiale, n. 73 del 27 marzo 2013; 
+
+                                
+                            
+                            
+                                ss)
+                                
+                                    superficie coperta utile totale: la superficie coperta di un immobile o di parte di un immobile in cui l'energia e' utilizzata per il condizionamento del clima degli ambienti interni; 
+
+                                
+                            
+                            
+                                tt)
+                                
+                                    teleriscaldamento e teleraffreddamento efficienti: sistema di teleriscaldamento o teleraffreddamento che usa, in alternativa, almeno: 
+ a) il 50 per cento di energia derivante da fonti rinnovabili; 
+ b) il 50 per cento di calore di scarto; 
+ c) il 75 per cento di calore cogenerato; 
+ d) il 50 per cento di una combinazione delle precedenti; 
+
+                                
+                            
+                            
+                                uu)
+                                
+                                    tonnellata equivalente di petrolio (Tep): unita' di misura dell'energia pari all'energia rilasciata dalla combustione di una tonnellata di petrolio grezzo, il cui valore e' fissato convenzionalmente pari a 41,86 GJ; 
+
+                                
+                            
+                            
+                                vv)
+                                
+                                    UNI: Ente nazionale italiano di unificazione.
+
 ## Art. 3. — Obiettivo nazionale di risparmio energetico
 
 ((
+
+1.
+                        
+                            
+                                L'obiettivo nazionale indicativo di risparmio energetico cui concorrono le misure del presente decreto, consiste: 
+ 
+                            
+                            
+                                a)
+                                
+                                    nella riduzione, entro l'anno 2020, di 20 milioni di tonnellate equivalenti di petrolio dei consumi di energia primaria, pari a 15,5 milioni di tonnellate equivalenti di petrolio di energia finale, conteggiati a partire dal 2010, in coerenza con la Strategia energetica nazionale; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    nel contributo nazionale minimo di efficienza energetica al 2030 notificato alla Commissione europea con il Piano nazionale integrato per l'energia e il clima.
 
 ))
 
@@ -76,6 +461,38 @@ Per gli adempimenti di cui al comma 3, le Pubbliche Amministrazioni centrali ind
 
 Le modalita' per l'esecuzione del programma di cui al comma 2 sono definite con decreto del Ministro dello Sviluppo Economico e del Ministro dell'ambiente e della tutela del territorio e del mare, di concerto con il Ministro delle infrastrutture e trasporti e il Ministro dell'Economia e delle Finanze, da emanare entro trenta giorni dall'entrata in vigore del presente decreto.
 
+6.
+                        
+                            
+                                Sono esclusi dal programma di cui al comma 2: 
+ 
+                            
+                            
+                                a)
+                                
+                                    gli immobili con superficie coperta utile totale inferiore a 500 m². Tale soglia a partire dal 9 luglio 2015 e' rimodulata a 250 m²; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    gli immobili tutelati ai sensi delle disposizioni del decreto legislativo 22 gennaio 2004, n. 42, nella misura in cui il rispetto di determinati requisiti minimi di prestazione energetica risulti incompatibile con il loro carattere, aspetto o contesto, o pregiudizievole alla loro conservazione; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    gli immobili destinati a scopi di difesa nazionale, ad eccezione degli edifici adibiti ad alloggi di servizio o ad uffici per le forze armate e altro personale dipendente dalle autorita' preposte alla difesa nazionale; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    gli immobili adibiti a luoghi di culto e allo svolgimento di attivita' religiose.
+
 Per la definizione del programma di cui al comma 2, sono applicati criteri di individuazione tra piu' interventi, basati su: ottimizzazione dei tempi di recupero dell'investimento, anche con riferimento agli edifici con peggiore indice di prestazione energetica; minori tempi previsti per l'avvio e il completamento dell'intervento; entita' di eventuali forme di cofinanziamento anche mediante ricorso a finanziamenti tramite terzi.
 
 La realizzazione degli interventi compresi nei programmi definiti ai sensi del comma 2 e' gestita, senza nuovi o maggiori oneri per la finanza pubblica, dai Provveditorati interregionali per le opere pubbliche del Ministero delle infrastrutture e della mobilita' sostenibili, dalle amministrazioni interessate e dall'Agenzia del demanio, in considerazione della tipologia di intervento e delle eventuali diverse forme di finanziamento ((adottate per il medesimo immobile)), al fine di promuovere forme di razionalizzazione e di coordinamento tra gli interventi, anche tra piu' amministrazioni, favorendo economie di scala e contribuendo al contenimento dei costi. I Provveditorati interregionali per le opere pubbliche del Ministero delle infrastrutture e della mobilita' sostenibili realizzano gli interventi ricompresi nei programmi predisposti ai sensi del comma 2, secondo le modalita' piu' innovative, efficienti ed economicamente piu' vantaggiose, nonche' utilizzando metodi e strumenti elettronici di modellazione per l'edilizia e le infrastrutture. Su richiesta del Ministero della transizione ecologica, d'intesa con le strutture operative dei Provveditorati interregionali per le opere pubbliche, l'Agenzia del demanio puo' curare anche l'esecuzione degli interventi gia' oggetto di convenzionamento con le medesime strutture operative nell'ambito dell'attuazione dei programmi predisposti ai sensi del comma 2. I Provveditorati interregionali per le opere pubbliche, l'Agenzia del demanio e il Ministero della difesa o gli organi del genio ((del medesimo Ministero)) possono fare ricorso agli strumenti di acquisto e negoziazione telematici, ivi inclusi il mercato elettronico della pubblica amministrazione (MEPA) e il sistema dinamico di acquisizione della pubblica amministrazione (SDAPA).
@@ -90,11 +507,47 @@ Per la realizzazione degli interventi rientranti nel programma di cui al comma 2
 
 Fermo restando l'obiettivo di cui al comma 1 e qualora le risorse dedicate ad assicurare il conseguimento dello stesso lo consentano, il Ministero dello sviluppo economico e il Ministero dell'ambiente e della tutela del territorio e del mare, di concerto con il Ministero delle infrastrutture e dei trasporti, possono predisporre programmi, anche congiunti, per il finanziamento di interventi di miglioramento della prestazione energetica degli immobili della pubblica amministrazione, con particolare riferimento agli immobili ospedalieri, scolastici e universitari, agli impianti sportivi e all'edilizia residenziale pubblica. Tali programmi consentono la cumulabilita' delle relative risorse finanziarie con quelle rese disponibili da altri strumenti di promozione, fino alla copertura integrale della spesa complessivamente sostenuta da parte dell'Amministrazione proponente per gli interventi di efficientamento energetico. Per le finalita' di cui al presente comma, e previa verifica dell'entita' dei proventi disponibili annualmente, il Ministero dello sviluppo economico e il Ministero dell'ambiente e della tutela del territorio e del mare, avvalendosi del supporto di ENEA e GSE, possono emanare bandi pubblici, anche congiunti, che definiscono il perimetro, le risorse disponibili, le modalita' di attuazione dei programmi suddetti e il monitoraggio dei risultati ottenuti. Resta fermo quanto previsto dal comma 6, lettera b).
 
+12.
+                        
+                            
+                                Le risorse del fondo di cui all'articolo 22, comma 4, del decreto legislativo 3 marzo 2011, n. 28, come modificato dall'articolo 4-ter, comma 2 del decreto legislativo 19 agosto 2005, n. 192, sono versate all'entrata del bilancio dello Stato, per l'importo di 5 milioni di euro nell'anno 2014 e di 25 milioni di euro nell'anno 2015, per essere riassegnate ad apposito capitolo dello stato di previsione del Ministero dello sviluppo economico nei medesimi esercizi per l'attuazione del programma di interventi di cui al comma 2. A tal fine, la Cassa per i servizi energetici e ambientali provvede al versamento all'entrata del bilancio dello Stato degli importi indicati al primo periodo, a valere sulle disponibilita' giacenti sul conto corrente bancario intestato al predetto Fondo, entro 30 giorni dall'entrata in vigore del presente decreto per l'importo relativo al 2014 ed entro il 31 marzo per il 2015. Lo stesso stanziamento puo' essere integrato: 
+ 
+                            
+                            
+                                a)
+                                
+                                    fino a 25 milioni di euro annui per il periodo 2015-2030, a valere sulle risorse annualmente confluite nel fondo di cui all'articolo 22, comma 4, del decreto legislativo 3 marzo 2011, n. 28, secondo le modalita' di cui al presente comma, previa determinazione dell'importo da versare con decreto del Ministro dello sviluppo economico e del Ministro dell'ambiente e della tutela del territorio e del mare di concerto con il Ministro dell'economia e delle finanze; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    fino a 20 milioni di euro per l'anno 2014, fino a 30 milioni di euro annui per il periodo 2015-2020 e fino a 50 milioni di euro annui per il periodo 2021-2030 a valere sulla quota dei proventi annui delle aste delle quote di emissione di CO2 di cui all'articolo 19 del decreto legislativo 13 marzo 2013, n. 30, destinata ai progetti energetico ambientali, con le modalita' e nei limiti di cui ai commi 3 e 6 dello stesso articolo 19, previa verifica dell'entita' dei proventi disponibili annualmente e nella misura del 50 per cento a carico del Ministero dello sviluppo economico e del restante 50 per cento a carico del Ministero dell'ambiente e della tutela del territorio e del mare. Il Ministro dell'economia e delle finanze e' autorizzato ad apportare, con propri decreti, le conseguenti variazioni di bilancio.
+
 Le risorse di cui al comma 12, eventualmente integrate con le risorse gia' derivanti dagli strumenti di incentivazione comunitari, nazionali e locali dedicati all'efficienza energetica nell'edilizia pubblica e con risorse dei Ministeri interessati, sono utilizzate anche per la copertura delle spese derivanti dalla realizzazione di diagnosi energetiche finalizzate all'esecuzione degli interventi di miglioramento dell'efficienza energetica di cui al presente articolo, eventualmente non eseguite dall'ENEA e dal GSE nell'ambito dell'attivita' d'istituto.
 
 Le pubbliche amministrazioni centrali di cui al comma 3, anche avvalendosi del supporto dell'ENEA, entro il 31 dicembre di ogni anno a decorrere dal 2015, predispongono e comunicano al Ministero dell'ambiente e della tutela del territorio e del mare, al Ministero delle infrastrutture e trasporti, all'Agenzia del demanio e al Ministero dello sviluppo economico un rapporto sullo stato di conseguimento dell'obiettivo di cui al comma 1.
 
 L'Acquirente Unico - Au S.p.A., anche tramite l'utilizzo del Sistema informatico integrato di cui di cui all'articolo 1-bis del decreto-legge 8 luglio 2010, n. 105, convertito, con modificazioni, dalla legge 13 agosto 2010, n. 129, entro il 31 gennaio di ciascun anno, comunica al Ministero dello sviluppo economico i consumi annuali, suddivisi per vettore energetico, di ognuna delle utenze di cui all'inventario redatto ai sensi del comma 2 e relativi all'anno precedente, collaborando con l'Agenzia del Demanio al fine di identificare le suddette utenze. Le informazioni di cui al presente comma confluiscono nel sistema IPer gestito dall'Agenzia del Demanio e nel Portale nazionale per l'efficienza energetica degli edifici di cui all'articolo 4-quater del decreto legislativo 19 agosto 2005, n. 192 e possono essere oggetto di scambio con i dati raccolti dalle regioni nel catasto degli impianti termici ai sensi del medesimo decreto legislativo.
+
+16.
+                        
+                            
+                                Le Regioni e gli enti locali nell'ambito dei rispettivi strumenti di programmazione energetica, in maniera coordinata, concorrono al raggiungimento dell'obiettivo nazionale di cui all'articolo 3, comma 1 e alla riduzione della poverta' energetica, attraverso l'approvazione: 
+ 
+                            
+                            
+                                a)
+                                
+                                    di obiettivi e azioni specifici di risparmio energetico e di efficienza energetica, nell'intento di conformarsi al ruolo esemplare degli immobili di proprieta' dello Stato di cui al presente articolo; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    di provvedimenti volti a favorire l'introduzione di un sistema di gestione dell'energia, comprese le diagnosi energetiche, il ricorso alle ESCO e ai contratti di rendimento energetico per finanziare le riqualificazioni energetiche degli immobili di proprieta' pubblica e migliorare l'efficienza energetica a lungo termine.
 
 Le imprese che effettuano la fornitura di energia per utenze intestate a una pubblica amministrazione locale, su specifica richiesta della Regione o Provincia autonoma interessata, comunicano alla stessa, i consumi annuali, suddivisi per vettore energetico, delle utenze oggetto della richiesta. La suddetta richiesta contiene i riferimenti delle utenze e i relativi codici di fornitura. Le Regioni e le Province Autonome, rendono disponibili le informazioni di cui al presente comma sui propri siti istituzionali.
 
@@ -111,6 +564,25 @@ Il rispetto dei requisiti per gli immobili di cui al comma 1 e' verificato attra
 L'obbligo di cui al comma 1 si considera assolto qualora l'acquisto di prodotti, servizi ed immobili rispetti almeno le «specifiche tecniche» e le «clausole contrattuali» indicate nei «Criteri ambientali minimi» per le pertinenti categorie di prodotti indicate al punto 3.6 del «Piano d'azione per la sostenibilita' ambientale dei consumi nel settore della Pubblica Amministrazione (PAN GPP)».
 
 L'obbligo di cui al comma 1 si applica agli appalti per gli acquisti di prodotti e servizi di importo pari o superiore alle soglie di cui all'articolo 28 del decreto legislativo 12 aprile 2006, n. 163. In relazione agli acquisti ovvero ai nuovi contratti di locazione di immobili, l'obbligo di cui al comma 1 si applica a tutti i contratti, indipendentemente dal relativo importo.
+
+4.
+                        
+                            
+                                E' ammessa deroga dal rispetto dell'obbligo di cui al comma 1 qualora tale previsione non sia coerente con le valutazioni di costo-efficacia, fattibilita' economica e idoneita' tecnica, ovvero nel caso in cui comporti una severa restrizione della concorrenza.
+Gli elementi tecnici ed economici a sostegno della deroga sono precisati e motivati nei documenti di gara. In materia di immobili, e' ammessa deroga al rispetto dei requisiti minimi, qualora l'acquisto sia finalizzato a: 
+ 
+                            
+                            
+                                a)
+                                
+                                    intraprendere una ristrutturazione importante o una demolizione; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    salvaguardare l'immobile in quanto ufficialmente protetto in virtu' dell'appartenenza a determinate aree ovvero del suo particolare valore architettonico o storico.
 
 L'obbligo di cui al comma 1 si applica agli appalti delle forze armate solo se la sua applicazione non sia in contrasto con la natura e l'obiettivo primario delle attivita' delle forze armate. In ogni caso, l'obbligo non si applica agli appalti per la fornitura di materiale militare, ai sensi del decreto legislativo 15 novembre 2011, n. 208.
 
@@ -140,6 +612,31 @@ A tal fine, al PNIEC e' allegata una relazione elaborata dal Ministero dello svi
 
 ((
 
+2.
+                        
+                            
+                                Al fine di conseguire l'obiettivo di cui al comma 1: 
+ 
+                            
+                            
+                                a)
+                                
+                                    le misure indicate nella relazione di cui al comma 1-ter possono essere integrate, modificate o soppresse, anche a seguito del parere reso dalla Conferenza Unificata nell'ambito dell'osservatorio di cui al Piano nazionale integrato per l'energia e il clima, al fine di mantenere efficacia agli strumenti e conseguire l'obiettivo in modo efficiente. In tali casi il Ministero dello sviluppo economico predispone e trasmette alla Commissione europea un aggiornamento della predetta relazione, secondo quanto previsto dal comma 5; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    i risparmi derivanti dalle misure di cui al comma 1-ter sono calcolati conformemente all'allegato V e all'articolo 7, paragrafi da 7 a 12, della direttiva 2012/27/UE, e successive modificazioni; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    qualora siano introdotte nuove misure, o siano modificate quelle gia' previste, si tiene conto dell'esigenza di alleviare la poverta' energetica secondo le disposizioni di cui all'articolo 7, paragrafo 11, della direttiva 2012/27/UE, e successive modificazioni;
+
 ))
 
 ((
@@ -150,6 +647,38 @@ I decreti concernenti la periodica determinazione degli obiettivi quantitativi n
 
 ((
 
+4.
+                        
+                            
+                                Entro il 30 giugno 2021, al fine di evitare frammentazioni e sovrapposizioni tra gli strumenti di promozione dell'efficienza energetica e incrementarne l'efficacia rispetto al conseguimento dell'obiettivo di cui al comma 1, e' aggiornato il Conto Termico di cui al decreto del Ministro dello sviluppo economico 16 febbraio 2016 pubblicato nella Gazzetta Ufficiale 2 marzo 2016, n. 51, tenendo conto della necessita' di adeguare in modo specialistico il meccanismo nel settore civile non residenziale, sia pubblico che privato, nonche' dell'esigenza di semplificare l'accesso al meccanismo da parte della pubblica amministrazione e dei privati, anche attraverso la promozione e l'utilizzo di contratti di tipo EPC, e dell'opportunita' di ampliare gli interventi ammissibili, quali, ad esempio, gli interventi di allaccio a sistemi di teleriscaldamento e teleraffrescamento efficiente e l'installazione di impianti di microcogenerazione. L'aggiornamento tiene inoltre conto delle disposizioni di cui al Piano d'azione per il miglioramento della qualita' dell'aria istituito con protocollo di intesa tra Governo e regioni del 4 giugno 2019, nonche' al Piano nazionale integrato per l'energia e il clima, con particolare riferimento alla necessita' di: 
+ 
+                            
+                            
+                                a)
+                                
+                                    prevedere l'inclusione degli interventi di riqualificazione degli edifici del settore terziario privato; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    ampliare, garantendo l'invarianza dei costi in bolletta a carico degli utenti, il contingente di spesa messo a disposizione delle Pubbliche Amministrazioni; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    rivedere le tempistiche relative alla realizzazione dei progetti da parte delle Pubbliche amministrazioni, al fine di renderle coerenti con le previsioni del decreto legislativo 18 aprile 2016, n. 50; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    prevedere la possibilita', almeno nell'ambito degli interventi di riqualificazione profonda dell'edificio, di promuovere gli interventi di installazione di punti di ricarica per veicoli elettrici.
+
 ))
 
 ((
@@ -158,11 +687,56 @@ Avvalendosi dei dati acquisiti ai sensi dell'articolo 13 del decreto del Ministr
 
 ))
 
+4-ter.
+                        
+                            
+                                I soggetti obbligati di cui al meccanismo dei certificati bianchi, forniscono, su richiesta del Ministero dello sviluppo economico e comunque non piu' di una volta l'anno: 
+ 
+                            
+                            
+                                a)
+                                
+                                    informazioni statistiche aggregate sui loro clienti finali qualora evidenzino cambiamenti significativi rispetto alle informazioni presentate in precedenza. Il Ministero dello sviluppo economico rende pubbliche tali informazioni in forma anonima e aggregata; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    informazioni attuali sui consumi dei clienti finali, compresi, ove opportuno, profili di carico, segmentazione della clientela e ubicazione geografica dei clienti, tutelando, al contempo, l'integrita' e la riservatezza delle informazioni conformemente alle ((disposizioni)) in materia di trattamento dei dati personali e delle informazioni commerciali di cui al decreto legislativo 30 giugno 2003, n. 196. 
+ ((4-ter.1. Il GSE, entro novanta giorni dalla data di entrata in vigore della presente disposizione, trasmette al Ministero dello sviluppo economico una stima dell'impatto dei costi diretti e indiretti del meccanismo dei certificati bianchi sulla competitivita' delle industrie esposte alla concorrenza internazionale, ivi comprese quelle a forte consumo di energia, al fine di favorire la promozione e l'adozione da parte dello stesso Ministero di misure volte a ridurre al minimo tale impatto. L'attivita' di cui al precedente periodo rientra nei compiti istituzionali del GSE ed e' svolta con le risorse disponibili a legislazione vigente, senza nuovi oneri per la finanza pubblica.))
+
 ((
 
 Il Ministero dello sviluppo economico, nell'ambito delle relazioni intermedie sullo stato di attuazione del PNIEC previste dall'articolo 21 del regolamento (UE) 2018/1999, fornisce alla Commissione europea informazioni relative al conseguimento dell'obiettivo di cui al comma 1, e in particolare ai risparmi conseguiti dalle misure di cui al comma 1-ter, anche con specifico riferimento alle azioni volte ad alleviare la poverta' energetica, nonche' ogni eventuale aggiornamento riguardante le misure stesse.
 
 ))
+
+6.
+                        
+                            
+                                Ai fini dell'accesso al Conto termico, i contratti che rispettano gli elementi minimi di cui all'allegato 8, del presente decreto sono considerati contratti di rendimento energetico. In deroga all'articolo 6, comma 1, del Conto termico, il GSE predispone specifiche modalita' che consentano, alle Pubbliche Amministrazioni, di optare per l'erogazione dell'incentivo attraverso un acconto e successivi pagamenti per stato di avanzamento lavori. Al suddetto Conto termico, sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    all'articolo 3, comma 1, lettera b), le parole da: «intesi» ad: «agrario,» sono soppresse; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    all'articolo 6, dopo il comma 1 e' inserito il seguente: 
+ «1-bis. L'incentivo erogato ai sensi del presente decreto non puo' eccedere, in nessun caso, il 65 per cento delle spese sostenute, come dichiarate ai sensi dell'articolo 7, comma 6, lettera d).»; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    all'articolo 7, comma 3, dopo le parole: «immediatamente esecutivo» sono inserite le seguenti: «dal momento del riconoscimento della prenotazione dell'incentivo da parte del GSE».
 
 Le Regioni pubblicano in modalita' open data entro il 1° giugno di ogni anno a partire dal 2015 i risparmi di energia conseguiti nell'anno precedente derivanti dalle misure di incentivazione promosse in ambito locale.
 
@@ -209,17 +783,198 @@ All'attuazione delle attivita' previste dal presente comma si provvede, nel limi
 
 ## Art. 9. — Misurazione e fatturazione dei consumi energetici
 
+1.
+                        
+                            
+                                Fatto salvo quanto previsto dal comma 6-quater dell'articolo 1 del decreto-legge 23 dicembre 2013, n. 145, convertito, con modificazioni, dalla legge 21 febbraio 2014, n. 9, e da altri provvedimenti normativi e di regolazione gia' adottati in materia, l'Autorita' per l'energia elettrica, il gas ed il sistema idrico, previa definizione di criteri concernenti la fattibilita' tecnica ed economica, anche in relazione ai risparmi energetici potenziali, individua le modalita' con cui le imprese distributrici, in qualita' di esercenti l'attivita' di misura: 
+ 
+                            
+                            
+                                a)
+                                
+                                    forniscono ai clienti finali di energia elettrica e gas naturale, teleriscaldamento, teleraffreddamento ed acqua calda per uso domestico contatori di fornitura che riflettono con precisione il consumo effettivo e forniscono informazioni sul tempo effettivo di utilizzo dell'energia e sulle relative fasce temporali; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    forniscono ai clienti finali di energia elettrica e gas naturale, teleriscaldamento, teleraffreddamento ed acqua calda per uso domestico contatori di fornitura di cui alla lettera a), in sostituzione di quelli esistenti anche in occasione di nuovi allacci in nuovi edifici o a seguito di importanti ristrutturazioni, come previsto dal decreto legislativo 19 agosto 2005, n. 192, e successive modificazioni.
+
 L'Autorita' per l'energia elettrica, il gas e il sistema idrico adotta i provvedimenti di cui alle lettere a) e b) del comma 1, entro dodici mesi dalla data di entrata in vigore del presente decreto per quanto riguarda il settore elettrico e del gas naturale e entro ventiquattro mesi dalla medesima data per quanto riguarda il settore del teleriscaldamento, teleraffrescamento e i consumi di acqua calda per uso domestico.
+
+3.
+                        
+                            
+                                Fatto salvo quanto gia' previsto dal decreto legislativo 1° giugno 2011, n. 93 e nella prospettiva di un progressivo miglioramento delle prestazioni dei sistemi di misurazione intelligenti e dei contatori intelligenti, introdotti conformemente alle direttive 2009/72/CE e 2009/73/CE, al fine di renderli sempre piu' aderenti alle esigenze del cliente finale, l'Autorita' per l'energia elettrica, il gas ed il sistema idrico, con uno o piu' provvedimenti da adottare entro ventiquattro mesi dalla data di entrata in vigore del presente decreto, tenuto conto dei relativi standard internazionali e delle raccomandazioni della Commissione europea, predispone le specifiche abilitanti dei sistemi di misurazione intelligenti, a cui le imprese distributrici in qualita' di esercenti l'attivita' di misura sono tenuti ad uniformarsi, affinche': 
+ 
+                            
+                            
+                                a)
+                                
+                                    i sistemi di misurazione intelligenti forniscano ai clienti finali informazioni sulla fatturazione precise, basate sul consumo effettivo e sulle fasce temporali di utilizzo dell'energia. Gli obiettivi di efficienza energetica e i benefici per i clienti finali siano pienamente considerati nella definizione delle funzionalita' minime dei contatori e degli obblighi imposti agli operatori di mercato; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    sia garantita la sicurezza dei contatori, la sicurezza nella comunicazione dei dati e la riservatezza dei dati misurati al momento della loro raccolta, conservazione, elaborazione e comunicazione, in conformita' alla normativa vigente in materia di protezione dei dati.
+Ferme restando le responsabilita' degli esercenti dell'attivita' di misura previste dalla normativa vigente, l'Autorita' per l'energia elettrica, il gas e il sistema idrico assicura il trattamento dei dati storici di proprieta' del cliente finale attraverso apposite strutture indipendenti rispetto agli operatori di mercato, ai distributori e ad ogni altro soggetto, anche cliente finale, con interessi specifici nel settore energetico o in potenziale conflitto di interessi, anche attraverso i propri azionisti, secondo criteri di efficienza e semplificazione; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    nel caso dell'energia elettrica e su richiesta del cliente finale, i contatori di fornitura siano in grado di tenere conto anche dell'energia elettrica immessa nella rete direttamente dal cliente finale; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    nel caso dell'energia elettrica e del gas naturale, su richiesta del cliente finale, l'Acquirente Unico S.p.A., in qualita' di gestore del Sistema informatico integrato di cui all'articolo 1-bis del decreto-legge 8 luglio 2010, n. 105, convertito, con modificazioni, dalla legge 13 agosto 2010, n. 129, per il tramite del Portale dei consumi di energia elettrica e di gas naturale istituito ai sensi dell'articolo 1, comma 8, della legge 27 dicembre 2017, n. 205, metta i dati del contatore di fornitura relativi all'immissione e al prelievo di energia elettrica e al prelievo del gas naturale a disposizione del medesimo cliente finale o, su sua richiesta formale, a disposizione di un soggetto terzo univocamente designato, nel rispetto della normativa in materia di protezione dei dati personali, in un formato facilmente comprensibile che possa essere utilizzato per confrontare offerte comparabili ovvero per l'erogazione di servizi da parte dei predetti soggetti terzi; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    siano adeguatamente considerate le funzionalita' necessarie ai fini di quanto previsto all'articolo 11. 
+
+                                
+                            
+                            
+                                e-bis)
+                                
+                                    le attivita' funzionali all'attivazione dei servizi abilitati dal canale di comunicazione, dal misuratore verso il corrispondente dispositivo di utenza, avvengano in modo centralizzato per il tramite dell'Acquirente Unico S.p.A., in qualita' di gestore del Sistema informatico integrato.
 
 E' istituito presso l'Acquirente Unico S.p.A. un registro informatico recante l'elencazione dei soggetti terzi che accedono ai dati del cliente finale ai sensi del comma 3, lettera d). Il registro di cui al primo periodo garantisce a titolo gratuito la messa a disposizione dei clienti finali di ciascuna informazione concernente gli accessi ai dati da parte dei soggetti terzi, comprese la cronologia di tali accessi e la tipologia di dati consultati. I costi sostenuti dall'Acquirente Unico S.p.A. ai sensi del presente comma sono posti a carico dei soggetti terzi fornitori di servizi di cui al comma 3, lettera d), secondo criteri e modalita' definiti dall'ARERA.
 
 L'Autorita' per l'energia elettrica, il gas e il sistema idrico provvede affinche' gli esercenti l'attivita' di misura assicurino che, sin dal momento dell'installazione dei contatori di fornitura, i clienti finali ottengano informazioni adeguate con riferimento alla lettura dei dati ed al monitoraggio del consumo energetico.
+
+5.
+                        
+                            
+                                Per favorire il contenimento dei consumi energetici attraverso la contabilizzazione dei consumi di ciascuna unita' immobiliare e la suddivisione delle spese in base ai consumi effettivi delle medesime: 
+ 
+                            
+                            
+                                a)
+                                
+                                    qualora il riscaldamento, il raffreddamento o la fornitura di acqua calda ad un edificio o a un condominio siano effettuati tramite allacciamento ad una rete di teleriscaldamento o di teleraffrescamento, o tramite una fonte di riscaldamento o raffreddamento centralizzata, e' obbligatoria, entro il 30 giugno 2017, l'installazione, a cura degli esercenti l'attivita' di misura, di un contatore di fornitura in corrispondenza dello scambiatore di calore di collegamento alla rete o del punto di fornitura dell'edificio o del condominio; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    nei condomini e negli edifici polifunzionali riforniti da una fonte di riscaldamento o raffreddamento centralizzata o da una rete di teleriscaldamento o da un sistema di fornitura centralizzato che alimenta una pluralita' di edifici, e' obbligatoria l'installazione entro il 30 giugno 2017, a cura del proprietario, di sotto-contatori per misurare l'effettivo consumo di calore o di raffreddamento o di acqua calda per ciascuna unita' immobiliare, nella misura in cui sia tecnicamente possibile, efficiente in termini di costi e proporzionato rispetto ai risparmi energetici potenziali.
+L'efficienza in termini di costi puo' essere valutata con riferimento alla metodologia indicata nella norma UNI EN 15459. Eventuali casi di impossibilita' tecnica alla installazione dei suddetti sistemi di contabilizzazione o di inefficienza in termini di costi e sproporzione rispetto ai risparmi energetici potenziali, devono essere riportati in apposita relazione tecnica del progettista o del tecnico abilitato; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    nei casi in cui l'uso di sotto-contatori non sia tecnicamente possibile o non sia efficiente in termini di costi e proporzionato rispetto ai risparmi energetici potenziali, per la misura del riscaldamento si ricorre, a cura dei medesimi soggetti di cui alla lettera b), all'installazione di sistemi di termoregolazione e contabilizzazione del calore individuali per quantificare il consumo di calore in corrispondenza a ciascun corpo scaldante posto all'interno delle unita' immobiliari dei condomini o degli edifici polifunzionali, secondo quanto previsto norme tecniche vigenti, salvo che l'installazione di tali sistemi risulti essere non efficiente in termini di costi con riferimento alla metodologia indicata nella norma UNI EN 15459. Eventuali casi di inefficienza in termini di costi e sproporzione rispetto ai risparmi energetici potenziali, devono essere riportati in apposita relazione tecnica del progettista o del tecnico abilitato; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    quando i condomini o gli edifici polifunzionali sono alimentati da teleriscaldamento o teleraffreddamento o da sistemi comuni di riscaldamento o raffreddamento, per la corretta suddivisione delle spese connesse al consumo di calore per il riscaldamento, il raffreddamento delle unita' immobiliari e delle aree comuni, nonche' per l'uso di acqua calda per il fabbisogno domestico, se prodotta in modo centralizzato, l'importo complessivo e' suddiviso tra gli utenti finali attribuendo una quota di almeno il 50 per cento agli effettivi prelievi volontari di energia termica. In tal caso gli importi rimanenti possono essere ripartiti, a titolo esemplificativo e non esaustivo, secondo i millesimi, i metri quadri o i metri cubi utili, oppure secondo le potenze installate. E' fatta salva la possibilita', per la prima stagione termica successiva all'installazione dei dispositivi di cui al presente comma, che la suddivisione si determini in base ai soli millesimi di proprieta'. Le disposizioni di cui alla presente lettera sono facoltative nei condomini o gli edifici polifunzionali ove alla data di entrata in vigore della presente disposizione si sia gia' provveduto all'installazione dei dispositivi di cui al presente comma e si sia gia' provveduto alla relativa suddivisione delle spese.
 
 Ferme restando le condizioni di fattibilita' tecnica ed efficienza in termini di costi, i contatori di fornitura, i sotto-contatori o i sistemi di contabilizzazione del calore individuali di cui al comma 5 che siano installati dopo il 25 ottobre 2020, sono leggibili da remoto. Conseguentemente, entro il 1° gennaio 2027, tutti i predetti sistemi sono dotati di dispositivi che ne permettono la lettura da remoto.
 
 Gli obblighi di cui al comma 5, lettere b) e c), non possono essere derogati nel caso di condomini di nuova costruzione o di edifici polifunzionali di nuova costruzione.
 
 Al fine di informare gli utenti riguardo alla ripartizione delle spese per i prelievi di energia termica volontari e involontari di cui al comma 5, lettera d), con particolare riferimento ai casi in cui siano comprovate, tramite apposita relazione tecnica asseverata, differenze di fabbisogno termico per metro quadro tra le unita' immobiliari costituenti il condominio o l'edificio polifunzionale superiori al 50 per cento, l'ENEA, entro novanta giorni dalla data di entrata in vigore della presente disposizione, sottopone al Ministero dello sviluppo economico una guida che indichi le ripartizioni delle spese suggerite in relazione ai fattori quali, a titolo non esaustivo, la zona climatica, le prestazioni energetiche dell'edificio o l'anno di costruzione.
+
+6.
+                        
+                            
+                                Fatti salvi i provvedimenti normativi e di regolazione gia' adottati in materia, l'Autorita' per l'energia elettrica, il gas ed il sistema idrico, con uno o piu' provvedimenti da adottare entro dodici mesi dalla data di entrata in vigore del presente decreto, individua le modalita' con cui, se tecnicamente possibile: 
+ 
+                            
+                            
+                                a)
+                                
+                                    le imprese di distribuzione ovvero le societa' di vendita di energia elettrica e di gas naturale al dettaglio provvedono, affinche', entro il 31 dicembre 2014, le informazioni sulle fatture emesse siano precise e fondate sul consumo effettivo di energia, secondo le seguenti modalita': 
+ 1) per consentire al cliente finale di regolare il proprio consumo di energia, la fatturazione deve avvenire sulla base del consumo effettivo almeno con cadenza annuale; 
+ 2) le informazioni sulla fatturazione sono comunicate al cliente finale almeno ogni bimestre a titolo gratuito; 
+ 2-bis) e' garantita al cliente finale la possibilita' di accedere gratuitamente e agevolmente alle informazioni relative ai propri consumi; 
+ 3) l'obbligo di cui al numero 2) puo' essere soddisfatto anche con un sistema di autolettura periodica da parte dei clienti finali, in base al quale questi ultimi comunicano i dati dei propri consumi direttamente al fornitore di energia, esclusivamente nei casi in cui siano installati contatori non abilitati alla trasmissione dei dati per via telematica; 
+ 4) fermo restando quanto previsto al numero 1), la fatturazione si basa sul consumo stimato o un importo forfettario unicamente qualora il cliente finale non abbia comunicato la lettura del proprio contatore per un determinato periodo di fatturazione; 
+ 5) l'Autorita' per l'energia elettrica, il gas ed il sistema idrico puo' esentare dai requisiti di cui ai numeri 1) e 2) il gas utilizzato solo ai fini di cottura. 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le imprese di distribuzione ovvero le societa' di vendita di energia elettrica e di gas naturale al dettaglio, nel caso in cui siano installati contatori, conformemente alle direttive 2009/72/CE e 2009/73/CE, provvedono affinche' i clienti finali abbiano la possibilita' di accedere agevolmente a informazioni complementari sui consumi storici che consentano loro di effettuare controlli autonomi dettagliati. Le informazioni complementari sui consumi storici comprendono almeno: 
+ 1) dati cumulativi relativi ad almeno i tre anni precedenti o al periodo trascorso dall'inizio del contratto di fornitura, se inferiore. I dati devono corrispondere agli intervalli per i quali sono state fornite informazioni sulla fatturazione; 
+ 2) dati dettagliati corrispondenti al tempo di utilizzazione per ciascun giorno, mese e anno. Tali dati sono resi disponibili al cliente finale via internet o mediante l'interfaccia del contatore per un periodo che include almeno i 24 mesi precedenti o per il periodo trascorso dall'inizio del contratto di fornitura, se inferiore. 
+
+                                
+                            
+                            
+                                b-bis)
+                                
+                                    le imprese di distribuzione al dettaglio del calore per riscaldamento, raffreddamento e acqua calda sanitaria per uso domestico provvedono affinche' siano rispettati i requisiti minimi in materia di informazioni di fatturazione e consumo di cui all'allegato 9.
+
+7.
+                        
+                            
+                                Fatti salvi i provvedimenti normativi e di regolazione gia' adottati in materia, l'Autorita' per l'energia elettrica, il gas ed il sistema idrico, con uno o piu' provvedimenti da adottare entro diciotto mesi dalla data di entrata in vigore del presente decreto, individua le modalita' con cui le societa' di vendita di energia al dettaglio, indipendentemente dal fatto che i contatori intelligenti di cui alle direttive 2009/72/CE e 2009/73/CE siano installati o meno, provvedono affinche': 
+ 
+                            
+                            
+                                a)
+                                
+                                    nella misura in cui sono disponibili, le informazioni relative alla fatturazione energetica e ai consumi storici dei clienti finali siano rese disponibili, su richiesta formale del cliente finale, a un fornitore di servizi energetici designato dal cliente finale stesso; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    
+                                        ((i clienti finali ricevano in via elettronica informazioni sulla fatturazione e sulle bollette che comprendono, a beneficio dei medesimi clienti finali, l'indicazione dell'identita' dell'intermediario mediante il quale e' stata sottoscritta la fornitura; tale informazione e' resa disponibile esclusivamente al venditore che emette la bolletta e al cliente finale; sia fornita)), su richiesta, una spiegazione chiara e comprensibile sul modo in cui la loro fattura e' stata compilata, soprattutto qualora le fatture non siano basate sul consumo effettivo; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    insieme alla fattura siano rese disponibili ai clienti finali le seguenti informazioni minime per presentare un resoconto globale dei costi energetici attuali: 
+ 1) prezzi correnti effettivi e consumo energetico effettivo; 
+ 2) confronti tra il consumo attuale di energia del cliente finale e il consumo nello stesso periodo dell'anno precedente, preferibilmente sotto forma di grafico; 
+ 3) informazioni sui punti di contatto per le organizzazioni dei consumatori, le agenzie per l'energia o organismi analoghi, compresi i siti internet da cui si possono ottenere informazioni sulle misure di miglioramento dell'efficienza energetica disponibili, profili comparativi di utenza finale ovvero specifiche tecniche obiettive per le apparecchiature che utilizzano energia; 
+
+                                
+                            
+                            
+                                c-bis)
+                                
+                                    in occasione dell'invio di contratti, modifiche contrattuali e fatture ai clienti finali, nonche' nei siti web destinati ai clienti individuali, i distributori di energia o le societa' di vendita di energia includono un elenco di recapiti dei centri indipendenti di assistenza ai consumatori riconosciuti ai sensi dell'articolo 137 del decreto legislativo 6 settembre 2005, n. 206, e delle agenzie pubbliche per l'energia, inclusi i relativi indirizzi internet, dove i clienti possono ottenere informazioni e consigli sulle misure di efficienza energetica disponibili, profili comparativi sui loro consumi di energia, nonche' indicazioni pratiche sull'utilizzo di apparecchiature domestiche al fine di ridurre il consumo energetico delle stesse. Tale elenco e' predisposto dall'Autorita' per l'energia elettrica, il gas e il sistema idrico entro 30 giorni dalla pubblicazione del presente decreto, ed e' aggiornato, se del caso, con cadenza annuale; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    su richiesta del cliente finale, siano fornite, nelle fatture, informazioni aggiuntive, distinte dalle richieste di pagamento, per consentire la valutazione globale dei consumi energetici e vengano offerte soluzioni flessibili per i pagamenti effettivi; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    le informazioni e le stime dei costi energetici siano fornite ai consumatori, su richiesta, tempestivamente e in un formato facilmente comprensibile che consenta ai consumatori di confrontare offerte comparabili. L'Autorita' per l'energia elettrica, il gas ed il sistema idrico valuta le modalita' piu' opportune per garantire che i clienti finali accedano a confronti tra i propri consumi e quelli di un cliente finale medio o di riferimento della stessa categoria d'utenza.
 
 L'Autorita' per l'energia elettrica, il gas e il sistema idrico assicura che non siano applicati specifici corrispettivi ai clienti finali per la ricezione delle fatture, delle informazioni sulla fatturazione e per l'accesso ai dati relativi ai loro consumi.
 L'Autorita' per l'energia elettrica, il gas e il sistema idrico assicura, altresi', che le societa' di vendita di energia al dettaglio non ostacolino i consumatori nel passaggio a un altro fornitore. Nello svolgimento dei compiti ad essa assegnati dal presente articolo, al fine di evitare duplicazioni di attivita' e di costi, la stessa Autorita' si avvale ove necessario del Sistema Informativo Integrato (SII) di cui all'articolo 1-bis del decreto-legge 8 luglio 2010, n. 105, convertito, con modificazioni, in legge 13 agosto 2010, n. 129, e della banca dati degli incentivi di cui all'articolo 15-bis del decreto-legge n. 63 del 2013, convertito con modificazioni in legge 3 agosto 2013, n. 90.
@@ -250,10 +1005,127 @@ Ai fini della valutazione di cui al comma 1, il GSE effettua un'analisi costi-be
 
 Il Ministero dello sviluppo economico, sentiti il Ministero dell'ambiente e della tutela del territorio e del mare e la Conferenza unificata, approva il rapporto e lo notifica alla Commissione europea entro le scadenze da essa all'uopo fissate.
 
+4.
+                        
+                            
+                                Ai fini della valutazione di cui al comma 1 e dell'analisi costi-benefici di cui al comma 2, il GSE istituisce una banca dati sulla cogenerazione e sulle infrastrutture di teleriscaldamento e teleraffreddamento, esistenti e in realizzazione, anche avvalendosi dei risultati del monitoraggio di cui all'articolo 1, comma 89, della legge 23 agosto 2004, n. 239. Il GSE assicura che i dati e le informazioni raccolti siano condivisibili dalle Regioni. Ai fini della costruzione e dell'aggiornamento della suddetta banca dati: 
+ 
+                            
+                            
+                                a)
+                                
+                                    l'Agenzia delle Dogane e dei Monopoli mette a disposizione del GSE, con cadenza almeno annuale, le informazioni relative agli impianti di cogenerazione desunte dalla propria banca dati Anagrafica Accise; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    i titolari di infrastrutture di teleriscaldamento e teleraffreddamento trasmettono al GSE i dati relativi alla propria infrastruttura, ove non gia' trasmessi, e i relativi aggiornamenti in caso di variazioni; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    le amministrazioni pubbliche che rilasciano autorizzazioni o concedono agevolazioni a sostegno della cogenerazione trasmettono annualmente al GSE le informazioni relative agli impianti autorizzati o agevolati e alle modalita' di sostegno adottate; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    i titolari o i responsabili degli impianti di cogenerazione, fatti salvi i casi in cui non sia economicamente sostenibile, dotano gli impianti stessi di apparecchi di misurazione del calore utile.
+Sono esentate le unita' di cogenerazione con capacita' di generazione inferiore a 50 kWe, i cui soggetti titolari o responsabili dell'impianto, autocertificano il calore utile, ai sensi del testo unico delle disposizioni legislative e regolamentari in materia di documentazione amministrativa, di cui al decreto del Presidente della Repubblica 28 dicembre 2000, n. 445; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    TERNA S.p.A. trasmette annualmente al GSE le informazioni disponibili relative agli impianti di cogenerazione. 
+ Il GSE definisce, d'intesa con gli enti interessati, le modalita' tecniche delle comunicazioni di cui alle precedenti lettere, secondo criteri di semplificazione ed efficienza. Con apposita convenzione tra il GSE e l'Agenzia delle Dogane e dei Monopoli, sono definite le modalita' tecniche per la fornitura delle informazioni di cui alla lettera a) e le procedure operative per assicurare il reciproco allineamento delle informazioni presenti nella banca dati sulla cogenerazione predisposta dal GSE e nella banca dati dell'Anagrafica Accise dell'Agenzia delle Dogane e dei Monopoli.
+
 In base ai risultati della valutazione effettuata a norma del comma 1, e dell'analisi costi-benefici di cui al comma 2, con decreto del Ministero dello sviluppo economico, sentito il Ministero dell'ambiente e della tutela del territorio e del mare e d'intesa con la Conferenza unificata, sono individuate le misure da adottare entro il 2020 e il 2030 al fine di sfruttare secondo analisi dei costi e criteri di efficienza, il potenziale di aumento della cogenerazione ad alto rendimento nonche' del teleriscaldamento e teleraffreddamento efficienti, nonche' sono definite soglie, espresse in termini di calore di scarto utile, domanda di calore o distanze tra gli impianti industriali e le reti di teleriscaldamento, per l'esenzione dei singoli impianti o reti dalle disposizioni di cui al comma 7, lettere c) e d). Le esenzioni sono aggiornate con cadenza triennale dal Ministero dello sviluppo economico che notifica alla Commissione le modifiche adottate. Qualora la valutazione di cui al comma 1 non individui un potenziale economicamente sfruttabile, i cui vantaggi superino i costi, con decreto del Ministero dello sviluppo economico, sentito il Ministero dell'ambiente e della tutela del territorio e del mare e la Conferenza unificata, sono individuati gli interventi o le aree territoriali esentati dagli obblighi di cui al comma 6.
 
 Il decreto di cui al comma 5 individua le modalita' attraverso cui le Regioni e le Province autonome concorrono alla definizione delle misure ivi previste ed alla individuazione delle relative priorita' di intervento, in considerazione del conseguente impatto sugli obiettivi dei piani energetico ambientali da esse adottati.
 Nella predisposizione degli strumenti di pianificazione urbana e territoriale di propria competenza, i comuni tengono conto di tali misure, e dispongono in merito valutando altresi' gli effetti sulla qualita' dell'aria sulla base di quanto prescritto nel piano di cui all'articolo 9 del decreto legislativo 13 agosto 2010, n. 155.
+
+7.
+                        
+                            
+                                Fatto salvo quanto previsto al comma 5 e al comma 8, a decorrere dal 5 giugno 2014 e' fatto obbligo agli operatori proponenti dei seguenti progetti di effettuare un'analisi costi-benefici, conformemente all'allegato 4, parte 2, per le finalita' di seguito indicate: 
+ 
+                            
+                            
+                                a)
+                                
+                                    nuovi impianti di generazione elettrica con potenza termica totale in ingresso superiore a 20 MW, al fine di valutare l'eventuale predisposizione del funzionamento dell'impianto come impianto di cogenerazione ad alto rendimento; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    ammodernamento sostanziale di impianti di generazione elettrica con potenza termica totale in ingresso superiore a 20 MW, al fine di valutare l'eventuale conversione della produzione in cogenerazione ad alto rendimento; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    nuovi impianti industriali o ammodernamento sostanziale di impianti esistenti, con potenza termica totale in ingresso superiore a 20 MW, che generano calore di scarto a un livello di temperatura utile, al fine di valutare le possibilita' di uso del calore di scarto per soddisfare una domanda economicamente giustificabile, anche attraverso la cogenerazione, e della connessione di tale impianto a una rete di teleriscaldamento e teleraffreddamento; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    nuove reti di teleriscaldamento e di teleraffreddamento o ammodernamento sostanziale di reti esistenti; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    installazione di un nuovo impianto di produzione di energia termica, con potenza termica totale in ingresso superiore a 20 MW, al fine di valutare il possibile uso del calore di scarto degli impianti industriali situati nelle vicinanze. 
+ L'installazione di attrezzature per la cattura di biossido di carbonio prodotto da un impianto di combustione a scopo di stoccaggio geologico non e' considerata un ammodernamento ai fini delle lettere b), c) e d) del presente comma. Nell'ambito dell'analisi costi-benefici di cui alle lettere c) e d) del presente comma, l'operatore si avvale del supporto delle societa' responsabili per il funzionamento delle reti di teleriscaldamento e teleraffreddamento, ove esistenti.
+
+8.
+                        
+                            
+                                Sono esentate dall'analisi di cui al comma 7 le seguenti tipologie di impianto: 
+ 
+                            
+                            
+                                a)
+                                
+                                    gli impianti di produzione dell'energia elettrica per i carichi di punta e l'energia elettrica di riserva, progettati per essere in funzione per meno di 1500 ore operative annue calcolate come media mobile per un periodo di cinque anni; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    gli impianti che devono essere ubicati in prossimita' di un sito di stoccaggio geologico approvato ai sensi della direttiva 2009/31/CE.
+
+9.
+                        
+                            
+                                Ai fini del rilascio dei provvedimenti autorizzativi per gli interventi di cui al comma 7, lettere dalla 
+                            
+                            
+                                a)
+                                
+                                    alla e), fatte salve le esenzioni apportate con il decreto di cui al comma 5, lo Stato ovvero le Regioni e gli Enti Locali, secondo la ripartizione delle attribuzioni risultante dalle norme vigenti, tengono conto: 
+ a) per le domande presentate dal 5 giugno 2014, dei risultati dell'analisi di cui al comma 7 garantendo che siano soddisfatti i requisiti di cui al medesimo comma; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    per le domande presentate decorrere dal 31 dicembre 2015, anche dei risultati della valutazione di cui al comma 1.
 
 Qualora sussistano motivi di diritto, proprieta' o bilancio, le autorita' di cui al comma 9 possono esentare singoli impianti dall'obbligo di applicare le opzioni considerate, anche quando i benefici siano superiori ai costi. Il Ministero dello sviluppo economico, sulla base delle indicazioni delle medesime autorita' competenti richiamate al comma 9, trasmette alla Commissione una notifica motivata di tale decisione entro tre mesi dalla data di adozione.
 
@@ -261,16 +1133,133 @@ I commi 7, 8, 9 e 10 del presente articolo si applicano agli impianti contemplat
 
 L'elettricita' da cogenerazione ad alto rendimento, determinata conformemente alle disposizioni di cui al decreto legislativo 8 febbraio 2007, n. 20, e dal decreto 4 agosto 2011 del Ministro dello sviluppo economico, di concerto con il Ministro dell'ambiente e della tutela del territorio e del mare, pubblicato nella Gazzetta Ufficiale n. 218 del 19 settembre 2011, ha diritto al rilascio, su richiesta dell'operatore, della garanzia di origine di elettricita' da cogenerazione ad alto rendimento, in seguito denominata garanzia di origine, contenente le informazioni di cui all'allegato 5.
 
+13.
+                        
+                            
+                                La garanzia di origine e' rilasciata dal GSE secondo criteri oggettivi, trasparenti e non discriminatori. La garanzia di origine: 
+ 
+                            
+                            
+                                a)
+                                
+                                    corrisponde a una quantita' standard di 1 MWh ed e' relativa alla produzione netta di energia misurata alle estremita' dell'impianto e trasferita alla rete e puo' essere rilasciata solo qualora l'elettricita' annua da cogenerazione ad alto rendimento sia non inferiore a 50 MWh, arrotondata con criterio commerciale; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    e' utilizzabile dai produttori ai quali e' rilasciata affinche' essi possano dimostrare che l'elettricita' da essi venduta e' prodotta da cogenerazione ad alto rendimento; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    e' rilasciata subordinatamente alla verifica di attendibilita' dei dati forniti dal richiedente e della loro conformita' alle disposizioni del presente decreto. A tale scopo, fatte salve le competenze dell'Autorita' per l'energia elettrica, il gas e il sistema idrico, il GSE dispone controlli sugli impianti in esercizio, sulla base di un programma annuo; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    se rilasciata in altri Stati membri dell'Unione europea e' riconosciuta anche in Italia, purche' la medesima garanzia di origine includa tutti gli elementi di cui all'allegato 5 e sempreche' provenga da Paesi che adottino strumenti di promozione ed incentivazione della cogenerazione ad alto rendimento analoghi a quelli vigenti in Italia e riconoscano la stessa possibilita' ad impianti ubicati sul territorio italiano, sulla base di accordi stipulati tra il Ministero dello sviluppo economico e il Ministero dell'ambiente e della tutela del territorio e del mare e le competenti autorita' del Paese estero da cui l'elettricita' da cogenerazione ad alto rendimento viene importata.
+
 Qualsiasi rifiuto di riconoscere la garanzia di origine, in particolare per ragioni connesse con la prevenzione delle frodi, deve essere fondato su criteri oggettivi, trasparenti e non discriminatori. Il GSE comunica tale rifiuto e la sua motivazione al Ministero dello sviluppo economico che lo notifica alla Commissione.
 
 Qualunque forma di sostegno pubblico a favore della cogenerazione e' subordinata alla condizione che l'energia elettrica prodotta provenga da cogenerazione ad alto rendimento e che il calore di scarto sia effettivamente utilizzato per soddisfare una domanda economicamente giustificabile, ferme restando le disposizioni transitorie previste dal decreto legislativo 20 febbraio 2007 n. 20 e dal decreto legislativo 3 marzo 2011 n. 28.
 
 Ai fini della individuazione delle tecnologie di cogenerazione, del calcolo della produzione da cogenerazione e del metodo di determinazione del rendimento del processo di cogenerazione si applicano gli allegati al decreto legislativo 20 febbraio 2007, n. 20, come integrato e modificato dal decreto 4 agosto 2011 del Ministro dello sviluppo economico, di concerto con il Ministro dell'ambiente e della tutela del territorio e del mare.
 
+17.
+                        
+                            
+                                L'Autorita' per l'energia elettrica, il gas ed il sistema idrico, con uno o piu' provvedimenti da adottare sulla base di indirizzi formulati dal Ministro dell'ambiente e della sicurezza energetica, al fine di promuovere lo sviluppo del teleriscaldamento e teleraffrescamento e della concorrenza: 
+ 
+                            
+                            
+                                a)
+                                
+                                    definisce gli standard di continuita', qualita' e sicurezza del servizio di teleriscaldamento e teleraffreddamento, ivi inclusi gli impianti per la fornitura del calore e i relativi sistemi di contabilizzazione di cui all'articolo 9, comma 1; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    stabilisce i criteri per la determinazione delle tariffe di allacciamento delle utenze alla rete del teleriscaldamento e le modalita' per l'esercizio del diritto di scollegamento; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    fatto salvo quanto previsto alla lettera e), individua modalita' con cui sono resi pubblici da parte dei gestori delle reti i prezzi per la fornitura del calore, l'allacciamento e la disconnessione, le attrezzature accessorie, ai fini delle analisi costi-benefici sulla diffusione del teleriscaldamento effettuate ai sensi del presente articolo; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    individua condizioni di riferimento per la connessione alle reti di teleriscaldamento e teleraffrescamento, al fine di favorire l'integrazione di nuove unita' di generazione del calore e il recupero del calore utile disponibile in ambito locale, in coordinamento alle misure definite in attuazione del comma 5 per lo sfruttamento del potenziale economicamente sfruttabile; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    stabilisce le tariffe di cessione del calore, in modo da armonizzare gli obiettivi economico-finanziari dei soggetti esercenti il servizio con gli obiettivi generali di carattere sociale, di tutela ambientale e di uso efficiente delle risorse.
+
 Le disposizioni di cui al comma 17 si applicano secondo criteri di gradualita' anche alle reti in esercizio alla data di entrata in vigore del presente provvedimento, ferma restando la salvaguardia degli investimenti effettuati e della concorrenza nel settore.
 L'Autorita' per l'energia elettrica, il gas ed il sistema idrico esercita i poteri di controllo, ispezione e sanzione previsti dalla legge 14 novembre 1995, n. 481.
 
 ## Art. 11. — Trasformazione, trasmissione e distribuzione dell'energia
+
+1.
+                        
+                            
+                                L'Autorita' per l'energia elettrica il gas ed il sistema idrico, nel rispetto delle esigenze di sicurezza dei sistemi, in coerenza con gli obiettivi nazionali e comunitari, di medio e lungo termine e relative traiettorie, in materia di energia e clima, contemperando i costi e i benefici connessi e su indirizzo del Ministero dello sviluppo economico per quanto riguarda le lettere c), d), e) ed f), provvede: 
+ 
+                            
+                            
+                                a)
+                                
+                                    previa valutazione dei potenziali di aumento dell'efficienza energetica delle infrastrutture per il gas e l'energia elettrica e comunque entro il 30 giugno 2015 e tenuto conto di quanto previsto alla lettera c), ad introdurre nelle regolazione della remunerazione delle attivita' di sviluppo e gestione delle reti di trasmissione, trasporto e distribuzione, specifiche misure per eliminare eventuali componenti che possono pregiudicare l'efficienza e per promuovere la responsabilizzazione degli operatori di rete verso lo sfruttamento del potenziale di efficienza esistente ((attraverso misure concrete e investimenti per introdurre nelle infrastrutture a rete miglioramenti dell'efficienza energetica vantaggiosi e efficienti in termini di costi)), di cui tener conto nella programmazione degli interventi previsti nei piani di sviluppo delle infrastrutture; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    ove necessario, ad aggiornare entro il termine di cui alla lettera a) la disciplina di accesso e uso della rete elettrica, al fine di garantire la conformita' agli allegato 6 e 7 del presente decreto; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    a verificare ed eventualmente aggiornare le misure di attuazione di quanto disposto dall'articolo 17, comma 4, e dall'articolo 18, commi 1 e 2, del decreto legislativo 3 marzo 2011, n. 28, al fine di sostenere la diffusione efficiente delle fonti rinnovabili e della generazione distribuita; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    in coerenza con le disposizioni di cui all'articolo 11 del decreto del Ministro dello sviluppo economico 5 luglio 2012 e all'articolo 25 del decreto del Ministro dello sviluppo economico 6 luglio 2012, a consentire la partecipazione della generazione distribuita, delle fonti rinnovabili, della cogenerazione ad alto rendimento e della domanda al mercato dell'energia e dei servizi, stabilendo i requisiti e le modalita' di partecipazione delle singole unita' di consumo e di produzione; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    fatte salve le restrizioni di carattere tecnico insite nella gestione delle reti, a regolare l'accesso e la partecipazione della domanda ai mercati di bilanciamento, di riserva e di altri servizi di sistema, definendo le modalita' tecniche con cui i gestori dei sistemi di trasmissione e distribuzione organizzano la partecipazione dei fornitori di servizi e dei consumatori, inclusi gli aggregatori di unita' di consumo ovvero di unita' di consumo e di unita' di produzione, sulla base dei requisiti tecnici di detti mercati e delle capacita' di gestione della domanda e degli aggregati; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    ad adottare disposizioni affinche', nei vincoli derivanti dalle esigenze di sicurezza, il dispacciamento dell'energia elettrica sia effettuato con precedenza, a parita' di offerta economica, nell'ordine, a fonti rinnovabili non programmabili, altri impianti da fonti rinnovabili e impianti di cogenerazione ad alto rendimento.
 
 L'((Autorita' per l'energia elettrica, il gas e il sistema idrico)), entro il 31 dicembre di ogni anno, a decorrere dal 2015, redige una relazione sulle modalita' di attuazione di cui al comma 1 e la sottopone al Ministero dello sviluppo economico e alle competenti Commissioni parlamentari.
 
@@ -300,11 +1289,118 @@ La Conferenza delle Regioni e delle Province Autonome, in collaborazione con ENE
 
 I soggetti di cui all'articolo 7, comma 1, lettere c), d) ed e) del decreto ministeriale 28 dicembre 2012, decorsi ventiquattro mesi dall'entrata in vigore del presente decreto, possono partecipare al meccanismo dei certificati bianchi solo se in possesso di certificazione, rispettivamente, secondo le norma UNI CEI 11352 e UNI CEI 11339.
 
+6.
+                        
+                            
+                                ENEA in collaborazione con ACCREDIA, il GSE, la FIRE e il CTI, entro il 31 dicembre 2014 definisce uno protocollo per l'iscrizione agli elenchi riportati di seguito. Tali elenchi sono pubblicati sul sito web istituzionale dell'ENEA. 
+ 
+                            
+                            
+                                a)
+                                
+                                    ESCO certificate UNI CEI 11352; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    esperti in Gestione dell'Energia certificati secondo la UNI CEI 11339; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    organizzazioni certificate ISO 50001; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    
+                                        ((LETTERA SOPPRESSA DAL D.LGS. 14 LUGLIO 2020, N. 73)).
+
 ## Art. 13. — (( (Programma nazionale di informazione e formazione sull'efficienza energetica).))
 
 ((
 
 Entro il 31 gennaio 2021, e successivamente con cadenza triennale, l'ENEA, di concerto con il GSE, predispone un programma di informazione e formazione finalizzato a promuovere e facilitare l'uso efficiente dell'energia e, previa acquisizione delle osservazioni degli stakeholder tramite consultazione pubblica, lo sottopone all'approvazione del Ministero dello sviluppo economico.
+
+2.
+                        
+                            
+                                Il programma di cui al comma 1 si conclude nell'anno 2030 ed e' definito tenendo conto delle caratteristiche dei soggetti a cui e' rivolto ed include azioni volte a: 
+ 
+                            
+                            
+                                a)
+                                
+                                    sensibilizzare ed incoraggiare le imprese nell'esecuzione di diagnosi energetiche e nell'utilizzo degli strumenti incentivanti finalizzati all'installazione di tecnologie efficienti; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    stimolare comportamenti dei dipendenti che contribuiscano a ridurre i consumi energetici della pubblica amministrazione; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    educare gli studenti delle scuole di ogni ordine e grado ad un uso consapevole dell'energia; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    sensibilizzare le famiglie, in particolare quelle che vivono in condomini, rispetto ai benefici delle diagnosi energetiche e rispetto ad un uso consapevole dell'energia; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    prevedere attivita' di formazione e informazione rivolte agli amministratori di condominio, anche con il coinvolgimento delle relative associazioni di categoria a livello nazionale e regionale; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    favorire la partecipazione delle banche e degli istituti finanziari al finanziamento di interventi di miglioramento dell'efficienza energetica, anche attraverso la messa a disposizione di dati ed esperienze di partenariato pubblico-privato; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    sensibilizzare le imprese e i clienti domestici sull'uso efficiente dell'energia anche attraverso la diffusione di informazioni sui meccanismi di incentivazione e le rispettive modalita' di accesso; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    promuovere programmi di formazione per la qualificazione dei soggetti che operano nell'ambito dei servizi energetici e degli installatori di elementi edilizi connessi all'energia; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    promuovere soluzioni di progettazione edilizia, urbanistica e di arredo degli interni idonei a contenere i consumi energetici; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    promuovere e predisporre una guida facile, riepilogativa, aggiornata annualmente, contenente indicazioni, buone pratiche, normativa di riferimento, spiegazioni circa i diversi meccanismi incentivanti l'efficienza energetica, elaborata da GSE, ENEA e Agenzia delle Entrate, ciascuno in relazione alle proprie funzioni.
 
 L'ENEA, nel rispetto delle procedure di evidenza pubblica, seleziona uno o piu' soggetti altamente qualificati che operano nel settore della comunicazione e dell'informazione, per lo svolgimento di una o piu' delle attivita' previste dal programma di cui al comma 1.
 
@@ -322,6 +1418,31 @@ All'articolo 4, comma 1 dell'allegato 2 del decreto legislativo 30 maggio 2008, 
 Le Regioni e le Province Autonome forniscono assistenza tecnica alle pubbliche amministrazioni nella stesura dei contratti di rendimento energetico e rendono disponibili al pubblico informazioni sulle migliori pratiche disponibili nell'attuazione dei suddetti contratti anche con il supporto di ENEA.
 
 L'ENEA, entro 60 giorni dalla data di entrata in vigore della presente disposizione, in collaborazione con le Regioni, integra il contratto-tipo per il miglioramento del rendimento energetico dell'edificio di cui all'articolo 4-ter, comma 3, del decreto legislativo 19 agosto 2005, n. 192, e successive modificazioni, con gli elementi minimi di cui all'allegato 8.
+
+5.
+                        
+                            
+                                Con decreto del Ministro dello sviluppo economico, di concerto con il Ministro dell'ambiente e della tutela del territorio e del mare e con il Ministro dei beni e delle attivita' culturali e del turismo, il Ministro delle infrastrutture e trasporti e con il Ministro per la semplificazione e la pubblica amministrazione, d'intesa con la Conferenza unificata, sono approvate entro 180 giorni dalla data di entrata in vigore del presente decreto, linee guida per semplificare ed armonizzare le procedure autorizzative per l'installazione in ambito residenziale e terziario di impianti o dispositivi tecnologici per l'efficienza energetica e per lo sfruttamento delle fonti rinnovabili nonche' per armonizzare le regole sulla attestazione della prestazione energetica degli edifici, i requisiti dei certificatori e il sistema dei controlli e delle sanzioni. Tali linee guida sono finalizzate, in particolare, a favorire: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la gestione delle procedure autorizzative attraverso portali on-line accessibili da cittadini ed imprese e contenenti altresi' informazioni su vincoli emergenti dalla pianificazione urbanistica territoriale; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    uniformita' e snellimento della documentazione a supporto delle richieste autorizzative; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    applicazione di costi amministrativi o d'istruttoria massimi, tali da non scoraggiare l'installazione di tecnologie efficienti.
 
 ((COMMA ABROGATO DAL D.LGS. 14 LUGLIO 2020, N. 73)).
 
@@ -352,9 +1473,137 @@ Lo Stato, le regioni e gli enti locali, anche con il supporto dell'ANCI, favoris
 
 ## Art. 15. — Fondo nazionale per l'efficienza energetica
 
+1.
+                        
+                            
+                                E' istituito presso il Ministero dello sviluppo economico il «Fondo nazionale per l'efficienza energetica», di seguito «Fondo», che opera secondo le modalita' di cui al comma 2 e per le finalita' di cui al comma 3. Le risorse del fondo di cui all'articolo 22, comma 4, del decreto legislativo 3 marzo 2011, n. 28, come modificato dall'articolo 4-ter, comma 2 del decreto legislativo 19 agosto 2005, n. 192, sono versate all'entrata del bilancio dello Stato, per l'importo di 5 milioni di euro nell'anno 2014 e di 25 milioni di euro nell'anno 2015, per essere riassegnate nei medesimi esercizi al Fondo. A tal fine, la Cassa conguaglio per il settore elettrico provvede al versamento all'entrata del bilancio dello Stato degli importi indicati al primo periodo, a valere sulle disponibilita' giacenti sul conto corrente bancario intestato al predetto Fondo, entro 30 giorni dall'entrata in vigore del presente decreto per l'importo relativo al 2014 ed entro il 31 marzo per il 2015. La dotazione del Fondo puo' essere integrata: 
+ 
+                            
+                            
+                                a)
+                                
+                                    per il periodo 2015-2030, a valere sulle risorse annualmente confluite nel fondo di cui all'articolo 22, comma 4, del decreto legislativo 3 marzo 2011, n. 28, come modificato dall'articolo 4-ter, comma 2 del decreto legislativo 19 agosto 2005, n. 192, secondo le modalita' di cui al presente comma, previa determinazione dell'importo da versare con il medesimo decreto di cui all'articolo 5, comma 12, lettera a); 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    fino a 15 milioni euro annui per il periodo 2014-2030 a carico del Ministero dello sviluppo economico e fino a 35 milioni di euro annui per il periodo 2014-2030 a carico del Ministero dell'ambiente e della tutela del territorio e del mare, a valere sui proventi annui delle aste delle quote di emissione di CO2 destinati ai progetti energetico ambientali cui all'articolo 19, del decreto legislativo 13 marzo 2013, n. 30, previa verifica dell'entita' dei proventi disponibili annualmente, con le modalita' e nei limiti di cui ai commi 3 e 6 dello stesso articolo 19. 
+
+                                
+                            
+                            
+                                b-bis)
+                                
+                                    ulteriori risorse a carico del Ministero dello sviluppo economico o del Ministero dell'ambiente e della tutela del territorio e del mare a valere sui proventi annui delle aste delle quote di emissione di CO2 destinati ai progetti energetico ambientali cui all'articolo 19 del decreto legislativo 13 marzo 2013, n. 30, non diversamente impegnate e previa verifica delle disponibilita' accertate.
+
+2.
+                        
+                            
+                                Il Fondo ((ha natura mista)) ed e' destinato a sostenere il finanziamento di interventi di efficienza energetica, realizzati anche attraverso le ESCO, il ricorso a forme di partenariato pubblico - privato, societa' di progetto o di scopo appositamente costituite, mediante due sezioni destinate rispettivamente a: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la concessione di garanzie, su singole operazioni o su portafogli di operazioni finanziarie; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'erogazione di finanziamenti, ((di cui una quota parte a fondo perduto nel limite complessivo di 8 milioni di euro annui a decorrere dal 2022,)) direttamente o attraverso banche e intermediari finanziari, inclusa la Banca Europea degli Investimenti, anche mediante la sottoscrizione di quote di fondi comuni di investimento di tipo chiuso che abbiano come oggetto di investimento la sottoscrizione di titoli di credito di nuova emissione o l'erogazione, nelle forme consentite dalla legge, di nuovi finanziamenti, nonche' mediante la sottoscrizione di titoli emessi ai sensi della legge 30 aprile 1999, n. 130, nell'ambito di operazioni di cartolarizzazione aventi ad oggetto crediti di privati verso piccole e medie imprese e ESCO per investimenti per l'efficienza energetica.
+
+3.
+                        
+                            
+                                Il Fondo e' destinato a favorire, sulla base di obiettivi e priorita' periodicamente stabiliti e nel rispetto dei vincoli previsti dalla vigente normativa comunitaria in materia di aiuti di stato, il finanziamento di interventi coerenti con il raggiungimento degli obiettivi nazionali di efficienza energetica, promuovendo il coinvolgimento di istituti finanziari, nazionali e comunitari, e investitori privati sulla base di un'adeguata condivisione dei rischi, con particolare riguardo alle seguenti finalita': 
+ 
+                            
+                            
+                                a)
+                                
+                                    interventi di miglioramento dell'efficienza energetica degli edifici di proprieta' della Pubblica Amministrazione; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    realizzazione di reti per il teleriscaldamento e per il teleraffrescamento; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    efficienza energetica dei servizi e infrastrutture pubbliche, compresa l'illuminazione pubblica; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    efficientamento energetico di interi edifici destinati ad uso residenziale, compresa l'edilizia popolare; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    efficienza energetica e riduzione dei consumi di energia nei settori dell'industria e dei servizi; 
+
+                                
+                            
+                            
+                                e-bis)
+                                
+                                    efficienza energetica e riduzione dei consumi nel settore dei trasporti.
+
 Gli interventi di realizzazione e ampliamento di reti di teleriscaldamento e teleraffrescamento, avviati tra la data di entrata in vigore del decreto legislativo 3 marzo 2011, n. 28, e la data di entrata in vigore del presente decreto legislativo, possono avere accesso alle garanzie offerte dal Fondo, secondo le modalita' definite con i provvedimenti di cui al comma 5 e fermi restando i vincoli richiamati al comma 3.
 
 Il Ministero dello sviluppo economico, al fine di stimolare i finanziamenti privati per la realizzazione di interventi di efficienza energetica promossi dal Fondo, incidendo anche sul processo decisionale delle imprese, nell'ambito degli aggiornamenti dei provvedimenti di cui al comma 5, valuta modalita' di valorizzazione delle risultanze delle diagnosi energetiche di cui all'articolo 8, tenendo conto, inoltre, delle possibilita' e degli strumenti proposti dall'iniziativa sui Finanziamenti intelligenti per edifici intelligenti promossa dalla Commissione europea.
+
+5.
+                        
+                            
+                                Per il perseguimento delle finalita' di cui al comma 3, nel rispetto degli equilibri di finanza pubblica, con uno o piu' decreti di natura non regolamentare da adottare entro 90 giorni dall'entrata in vigore del presente decreto dal Ministro dello sviluppo economico e dal Ministro dell'ambiente e della tutela del territorio e del mare, di concerto con il Ministro dell'economia e delle finanze e con il Ministro delle infrastrutture e dei trasporti e acquisito il parere della Conferenza Unificata, sono individuate le priorita', i criteri, le condizioni e le modalita' di funzionamento, di gestione e di intervento del Fondo, nonche' le modalita' di articolazione per sezioni, di cui una dedicata in modo specifico al sostegno del teleriscaldamento, e le relative prime dotazioni. Nel quadro dei progetti e programmi ammissibili all'intervento del Fondo, tenendo conto del miglior rapporto tra costo e risparmio energetico, sono individuati termini e condizioni di maggior favore per interventi che presentino specifica valenza prestazionale volti a: 
+ 
+                            
+                            
+                                a)
+                                
+                                    creare nuova occupazione; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    migliorare l'efficienza energetica dell'intero edificio; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    promuovere nuovi edifici a energia quasi zero; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    introdurre misure di protezione antisismica in aggiunta alla riqualificazione energetica; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    realizzare reti per il teleriscaldamento e per il teleraffrescamento in ambito agricolo o comunque connesse alla generazione distribuita a biomassa;
 
 La dotazione del Fondo puo' essere incrementata mediante versamento volontario di contributi da parte di Amministrazioni centrali, Regioni e altri enti e organismi pubblici, ivi incluse le risorse derivanti dalla programmazione dei fondi strutturali e di investimento europei secondo criteri, condizioni e modalita' stabilite con i provvedimenti di cui al comma 5. La dotazione del Fondo e', inoltre, incrementata con i proventi delle sanzioni di cui all'articolo 16, comma 23.
 
@@ -388,6 +1637,38 @@ L'impresa di distribuzione o le societa' di vendita di energia elettrica e di ga
 
 L'impresa di distribuzione o la societa' di vendita di energia elettrica e di gas naturale al dettaglio che non consentono ai clienti finali di accedere alle informazioni complementari sui consumi storici in conformita' a quanto previsto dall'Autorita' per l'energia elettrica, il gas e il sistema idrico, a norma dell'articolo 9, comma 6, lettera b), e' soggetta ad una sanzione amministrativa pecuniaria da 150 a 2500 euro per ciascun cliente.
 
+11.
+                        
+                            
+                                E' soggetta ad una sanzione amministrativa da 150 a 2500 euro per ciascuna violazione, l'impresa di vendita di energia al dettaglio: 
+ 
+                            
+                            
+                                a)
+                                
+                                    che non rende disponibili, con le modalita' individuate dall'Autorita' per l'energia elettrica, il gas e il sistema idrico su richiesta formale del cliente finale, le informazioni di cui all'articolo 9, comma 7, lettera a); 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    che non offre al cliente finale l'opzione di ricevere informazioni sulla fatturazione e bollette in via elettronica e non fornisce, su richiesta di quest'ultimo, spiegazioni adeguate secondo le prescrizioni dell'Autorita' per l'energia elettrica, il gas e il sistema idrico, a norma dell'articolo 9, comma 7, lettera b); 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    che non fornisce al cliente finale, secondo le modalita' individuate dall'Autorita' per l'energia elettrica, il gas e il sistema idrico, unitamente alla fattura le informazioni di cui all'articolo 9, comma 7, lettera c); 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    che non fornisce al cliente finale, secondo le modalita' individuate dall'Autorita' per l'energia elettrica, il gas e il sistema idrico, le informazioni le stime dei costi energetici tali da consentire a quest'ultimo di confrontare offerte comparabili.
+
 L'impresa di vendita di energia al dettaglio che applica specifici corrispettivi al cliente finale per la ricezione delle fatture o delle informazioni sulla fatturazione ovvero per l'accesso ai dati relativi ai consumi e' soggetta ad una sanzione amministrativa pecuniaria da 300 a 5000 euro per ciascuna violazione.
 
 ((
@@ -407,6 +1688,59 @@ Per l'accertamento e l'irrogazione delle sanzioni amministrative pecuniarie da p
 L'autorita' amministrativa competente, valutati gli elementi comunque in suo possesso e quelli portati a sua conoscenza da chiunque vi abbia interesse da' avvio al procedimento sanzionatorio mediante contestazione immediata o la notificazione degli estremi della violazione.
 
 In caso di accertata violazione delle disposizioni di cui ai commi ((...)) 2, 3, 5, 6, 7, 8 e 10 il trasgressore e gli eventuali obbligati in solido sono diffidati a provvedere alla regolarizzazione entro il termine di quarantacinque giorni dalla data della contestazione immediata o dalla data di notificazione dell'atto di cui al comma 17.
+
+19.
+                        
+                            
+                                All'ammissione alla procedura di regolarizzazione di cui al comma 18 e alla contestazione immediata o alla notificazione degli estremi della violazione amministrativa a norma dell'articolo 14 della legge 24 novembre 1981, n. 689 si provvede con la notifica di un unico atto che deve contenere: 
+ 
+                            
+                            
+                                a)
+                                
+                                    l'indicazione dell'autorita' competente; l'oggetto della contestazione; l'analitica esposizione dei fatti e degli elementi essenziali della violazione contestata; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'indicazione del nominativo del responsabile del procedimento e, ove diverso, dell'ufficio dove e' possibile presentare memorie, perizie e altri scritti difensivi, essere sentiti dal responsabile del procedimento sui fatti oggetto di contestazione, nonche' avere accesso agli atti; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    l'indicazione del termine entro cui l'interessato puo' esercitare le facolta' di cui alla lettera b), comunque non inferiore a trenta giorni; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    la diffida a regolarizzare le violazioni nei casi di cui al comma 18; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    la possibilita' di estinguere gli illeciti ottemperando alla diffida e provvedendo al pagamento della somma di cui al comma 7; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    la menzione della possibilita', nei casi degli illeciti non diffidabili o per i quali non si e' ottemperato alla diffida, di effettuare il pagamento in misura ridotta ai sensi dell'articolo 16 della legge 24 novembre 1981, n. 689; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    l'indicazione del termine di conclusione del procedimento.
 
 In caso di ottemperanza alla diffida, il trasgressore o l'eventuale obbligato in solido e' ammesso al pagamento di una somma pari al minimo della sanzione prevista dai commi ((...)) 2, 3, 5, 6, 7, 8 e 10 entro il termine di trenta giorni dalla scadenza del termine di cui al comma 18. Il regolare pagamento della predetta somma estingue il procedimento limitatamente alle violazioni oggetto di diffida e a condizione dell'effettiva ottemperanza alla diffida stessa.
 
@@ -430,6 +1764,24 @@ In ogni caso sono fatte salve le competenze delle Regioni a statuto speciale e d
 
 
 ## Art. 18. — Abrogazioni
+
+1.
+                        
+                            
+                                A decorrere dall'entrata in vigore del presente decreto legislativo, sono abrogati: 
+ 
+                            
+                            
+                                a)
+                                
+                                    gli articoli: 5, comma 2; 2, comma 1, lettere a), e), l), n), v); 11, commi dall'1 e 2; 16, commi 1, 2 e 3; 17; 18, comma 3 del decreto legislativo 30 maggio 2008, n. 115; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'articolo 7, comma 2, del decreto del Ministro dello sviluppo economico 28 dicembre 2012, concernente la determinazione degli obiettivi quantitativi nazionali di risparmio energetico che devono essere perseguiti dalle imprese di distribuzione dell'energia elettrica e il gas per gli anni dal 2013 al 2016.
 
 ## Art. 19. — Disposizioni finali e clausola di invarianza finanziaria
 

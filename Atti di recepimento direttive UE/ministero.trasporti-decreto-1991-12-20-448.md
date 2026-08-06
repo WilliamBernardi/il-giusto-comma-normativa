@@ -9,7 +9,7 @@ vigente: true
 source: normattiva-opendata
 collection: Atti di recepimento direttive UE
 zip_date: 2026-07-30
-fetched_at: 2026-08-02T09:40:49Z
+fetched_at: 2026-07-30
 ---
 
 DECRETO
@@ -25,6 +25,24 @@ Esperita la procedura prevista dalla sopracitata legge n. 400/1988, art. 17, com
 
 ## Art. 1. — Definizioni
 
+1.
+                    
+                        
+                            Ai sensi del presente regolamento, s'intende per:
+ 
+                        
+                        
+                            a)
+                            
+                                "Professione di trasportatore di viaggiatori su strada", l'attivita' di qualsiasi impresa che effettui, mediante autoveicoli che, secondo il modello di costruzione e la loro attrezzatura, siano atti a trasportare piu' di nove persone, autista compreso, e siano destinati a tal fine al trasporto di viaggiatori con offerta al pubblico o a talune categorie di utenti, dietro compenso versato dalla persona trasportata o dall'organizzatore del trasporto;
+
+                            
+                        
+                        
+                            b)
+                            
+                                "impresa", qualsiasi imprenditore, sia esso persona fisica o giuridica, nonche' qualsiasi azienda pubblica dotata o meno di personalita' giuridica distinta da quella della pubblica amministrazione.
+
 ## Art. 2. — Limiti di applicabilita' delle norme
 
 Sono esonerate dall'applicazione delle disposizioni contenute nel presente regolamento le imprese che effettuano esclusivamente trasporto di viaggiatori su strada a fini non commerciali mediante autobus immatricolati ai sensi dell'art. 58, comma 7, seconda parte, del decreto del Presidente della Repubblica 15 giugno 1959, n. 393, e successive modificazioni ed integrazioni.
@@ -37,6 +55,70 @@ L'esercizio dei servizi pubblici di linea e l'attivita' di noleggio con conducen
 Le imprese che intendono esercitare la professione di trasportatore di viaggiatori su strada debbono dimostrare nei modi indicati negli articoli seguenti la propria idoneita' morale, finanziaria e professionale.
 
 ## Art. 4. — Requisito della idoneita' morale
+
+1.
+                    
+                        
+                            Non risponde al requisito dell'idoneita' morale chi:
+ 
+                        
+                        
+                            a)
+                            
+                                abbia riportato una o piu' condanne irrevocabili alla reclusione in misura superiore complessivamente ai due anni per delitti non colposi;
+
+                            
+                        
+                        
+                            b)
+                            
+                                abbia riportato una condanna irrevocabile a pena detentiva per delitti contro il patrimonio, la fede pubblica, l'ordine pubblico, l'industria ed il commercio;
+
+                            
+                        
+                        
+                            c)
+                            
+                                abbia riportato condanna irrevocabile per reati puniti a norma degli articoli 3 e 4 della legge 20 febbraio 1958, n. 75;
+
+                            
+                        
+                        
+                            d)
+                            
+                                abbia in corso procedura di fallimento o sia stato soggetto a procedura fallimentare;
+
+                            
+                        
+                        
+                            e)
+                            
+                                risulti sottoposto con provvedimento esecutivo ad una delle misure di prevenzione previste dalla vigente normativa. In tutti i precedenti casi il requisito continua a non essere soddisfatto fin tanto che non sia intervenuta la riabilitazione ovvero una misura di carattere amministrativo con efficacia riabilitativa.
+
+2.
+                    
+                        
+                            Il requisito della idoneita' morale viene meno quando:
+ 
+                        
+                        
+                            a)
+                            
+                                apposite disposizioni di legge lo prevedono;
+
+                            
+                        
+                        
+                            b)
+                            
+                                nei casi di cui al comma 1;
+
+                            
+                        
+                        
+                            c)
+                            
+                                quando agli interessati siano state inflitte, in via definitiva, sanzioni per infrazioni gravi e ripetute alle regolamentazioni riguardanti le condizioni di retribuzione e di lavoro della professione o l'attivita' di trasporto ed in particolare le norme relative al periodo di guida e di riposo dei conducenti, ai pesi e dimensioni dei veicoli, alla sicurezza stradale e dei veicoli.
 
 Il predetto requisito deve essere posseduto dal titolare della impresa individuale o, quando si tratta di societa', da tutti i soci per le societa' in nome collettivo, dai soci accomandatari per le societa' in accomandita semplice o per azioni, dagli amministratori per ogni altro tipo di societa'. Quando all'esercizio dell'impresa o di un ramo di essa o di una sede sia proposto un institore o un direttore, anche da quest'ultimo.
 
@@ -70,12 +152,56 @@ L'attestato deve essere conforme ai modelli di cui agli allegati B e C.
 
 ## Art. 8. — Disposizioni relative alla idoneita' professionale
 
+1.
+                    
+                        
+                            Il requisito della idoneita' professionale deve essere posseduto:
+ 
+                        
+                        
+                            a)
+                            
+                                qualora trattisi di impresa individuale dal titolare o dalla persona o dalle persone da lui designate che dirigono l'attivita' di trasporto dell'azienda in maniera permanente ed effettiva. La persona o le persone designate dovranno risultare regolarmente inserite nella struttura dell'impresa di autotrasporto in qualita' di amministratore, dipendente o callaboratore familiare;
+
+                            
+                        
+                        
+                            b)
+                            
+                                in tutti gli altri casi di impresa diversa da quella individuale dalla persona o dalle persone che dirigono l'attivita' di trasporto in maniera permanente ed effettiva.
+
 ## Art. 9. — Presentazione e documentazione
  inerente alle domande d'esame
 
 Chi intende sostenere l'esame di idoneita', deve farne domanda scritta alla commissione costituita presso l'ufficio provinciale M.C.T.C. del capoluogo della regione in cui risiede.
 
 La domanda, redatta in carta legale e con firma autenticata, deve essere protocollata dal segretario della competente commissione d'esame.
+
+3.
+                    
+                        
+                            Alle domande dovra' essere allegato uno dei seguenti documenti:
+ 
+                        
+                        
+                            a)
+                            
+                                attestato di frequenza ad uno dei corsi di preparazione che saranno affidati ad organismi di formazione professionale, con ampia e documentata esperienza, previa autorizzazione del Ministero dei trasporti - Direzione generale M.C.T.C.;
+
+                            
+                        
+                        
+                            b)
+                            
+                                diploma di scuola media superiore o diploma
+di laurea;
+
+                            
+                        
+                        
+                            c)
+                            
+                                dichiarazione sostitutiva di atto notorio, resa da imprese gia' abilitate, dalla quale risulti che il candidato abbia svolto per almeno un anno attivita' direzionale dell'impresa nei termini di cui all'art. 7, secondo comma.
 
 Le domande dovranno essere corredate in ogni caso da idonea certificazione attestante la residenza ovvero da autocertificazione in tal senso predisposta.
 
@@ -133,11 +259,54 @@ L'attestato deve essere conforme ai modelli di cui agli allegati E ed F.
 
 Le imprese di trasporto che intendono esercitare la professione di trasportatore di viaggiatori su strada debbono dimostrare all'autorita' competente (Stato, regione e comuni) di essere in possesso dei requisiti di cui ai precedenti articoli, all'atto della prima richiesta per ottenere una concessione, autorizzazione o licenza abilitante all'autotrasporto di viaggiatori su strada, allegando i seguenti documenti.
 
+2.
+                    
+                        
+                            Per il requisito dell'idoneita' morale:
+ 
+                        
+                        
+                            a)
+                            
+                                certificato generale del casellario giudiziale rilasciato dalla procura della Repubblica in data non anteriore a tre mesi;
+
+                            
+                        
+                        
+                            b)
+                            
+                                certificato del tribunale civile del circondario di appartenenza, dal quale risulti di non avere in corso procedura fallimentare ne' essere stato soggetto a procedura fallimentare, ovvero che dimostri la intervenuta riabilitazione a norma degli articoli 142 e seguenti del regio decreto 16 marzo 1942, n. 267;
+
+                            
+                        
+                        
+                            c)
+                            
+                                attestazione da cui risulti che l'interessato non sia stato sottoposto, con provvedimento esecutivo ad una delle misure di prevenzione previste dall'art. 3 della legge 27 dicembre 1956, n. 1423, di data non anteriore a tre mesi.
+
 Per il requisito della idoneita' finanziaria alla domanda dovra' essere allegata una relazione illustrativa di tutti gli elementi indicati nell'art. 5, comma 2, del presente regolamento; le imprese tenute a formare e depositare il bilancio in uffici pubblici dovranno allegare altresi' copia dell'ultimo bilancio; le imprese che intendono avvalersi della facolta' di cui all'art. 5, comma 3, allegheranno l'attestato ivi previsto.
 
 Per il requisito della idoneita' professionale l'attestato di cui agli articoli 6 e 7 del presente regolamento.
 
 Le imprese di cui al comma 1 del presente articolo, all'atto di ulteriori richieste di concessioni, autorizzazioni o licenze, debbono presentare all'autorita' concedente (Stato, regione, comuni) se diversa da quella che ha rilasciato il primo titolo abilitante al trasporto, copia della concessione, autorizzazione o licenza gia' posseduta, convalidata dal competente ente concedente che ne certifichi la validita' attuale.
+
+6.
+                    
+                        
+                            Le predette imprese debbono, inoltre, entro novanta giorni dall'inizio delle attivita', presentare i seguenti documenti:
+ 
+                        
+                        
+                            a)
+                            
+                                certificato in carta semplice di avvenuta denuncia del personale dipendente agli enti assicuratori della previdenza sociale, della assistenza malattia e dell'assistenza infortuni sul lavoro, dal quale risulti il numero di posizione del contribuente; in luogo del suddetto certificato e' ammessa la presentazione di qualunque altro documento in carta semplice, rilasciato dagli enti assicuratori, presentato in originale o in copia autentica, dal quale risulti l'avvenuta denuncia del personale e il numero di posizione del contribuente;
+
+                            
+                        
+                        
+                            b)
+                            
+                                dichiarazione sostitutiva di atto notorio, ai sensi dell'art. 4 della legge 4 gennaio 1968, n. 15, dalla quale risulti il numero dei dipendenti dell'impresa, con l'indicazione della suddivisione fra impiegati e operai, e che l'impresa e' in regola con le relative contribuzioni.
 
 Coloro i quali nel termine stabilito non forniscano la prova di cui al comma precedente decadono dalla concessione, autorizzazione o licenza.
 

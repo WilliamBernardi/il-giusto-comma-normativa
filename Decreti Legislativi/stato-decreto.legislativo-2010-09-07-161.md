@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
 vigenza_date: 2016-03-23
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:22Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -32,6 +32,94 @@ Il presente decreto attua nell'ordinamento interno le disposizioni della decisio
 
 ## Art. 2. — Definizioni
 
+1.
+                        
+                            
+                                Ai fini del presente decreto si intende per: 
+ 
+                            
+                            
+                                a)
+                                
+                                    «decisione quadro»: la decisione quadro 2008/909/GAI del Consiglio, del 27 novembre 2008, relativa all'applicazione del principio del reciproco riconoscimento alle sentenze penali che irrogano pene detentive o misure privative della liberta' personale, ai fini della loro esecuzione nell'Unione europea; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    «sentenza di condanna»: una decisione definitiva emessa da un organo giurisdizionale di uno Stato membro dell'Unione europea con la quale vengono applicate, anche congiuntamente, una pena o una misura di sicurezza nei confronti di una persona fisica; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    «persona condannata»: la persona fisica nei cui confronti e' stata pronunciata una sentenza di condanna; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    «trasmissione all'estero»: la procedura con cui una sentenza di condanna pronunciata in Italia e' trasmessa a un altro Stato membro dell'Unione europea, ai fini del suo riconoscimento e della sua esecuzione in detto Stato; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    «trasmissione dall'estero»: la procedura con cui e' trasmessa in Italia, ai fini del suo riconoscimento e della sua esecuzione, una sentenza di condanna emessa in un altro Stato membro dell'Unione europea; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    «pena»: qualsiasi pena detentiva di durata limitata o illimitata irrogata con una sentenza di condanna, a causa di un reato e a seguito di un procedimento penale; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    «misura di sicurezza»: qualsiasi misura di sicurezza personale detentiva di durata limitata o illimitata applicata con una sentenza di condanna, a causa di un reato e a seguito di un procedimento penale; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    «Stato di emissione»: lo Stato membro in cui viene emessa la sentenza di condanna; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    «Stato di esecuzione»: lo Stato membro al quale e' trasmessa la sentenza di condanna ai fini del suo riconoscimento e della sua esecuzione; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    «riconoscimento»: il provvedimento pronunciato dall'autorita' competente dello Stato di esecuzione con il quale si consente di eseguire nello stesso una sentenza di condanna pronunciata dall'autorita' giudiziaria dello Stato di emissione; 
+
+                                
+                            
+                            
+                                m)
+                                
+                                    «autorita' competente»: l'autorita' indicata da uno Stato membro ai sensi dell'articolo 2 della decisione quadro; 
+
+                                
+                            
+                            
+                                n)
+                                
+                                    «certificato»: il certificato contenuto nell'allegato I alla decisione quadro ((come modificato dall'articolo 5, paragrafo 2) della decisione quadro 2009/299/GAI del Consiglio, del 26 febbraio 2009)). ((1))
+
 ---------------
                             AGGIORNAMENTO (1)
                             
@@ -49,11 +137,86 @@ Nei limiti indicati dal presente decreto, e' consentita la corrispondenza dirett
 
 ## Art. 4. — Competenza
 
+1.
+                        
+                            
+                                La trasmissione all'estero e' disposta, sempre che ricorrano le condizioni previste dall'articolo 5: 
+ 
+                            
+                            
+                                a)
+                                
+                                    dal pubblico ministero presso il giudice indicato all'articolo 665 del codice di procedura penale, per quanto attiene alla esecuzione delle pene detentive; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    dal pubblico ministero individuato ai sensi dell'articolo 658 del codice di procedura penale, per quanto attiene alla esecuzione di misure di sicurezza personali detentive.
+
 Non si applicano le disposizioni di cui al capo II del titolo IV del libro XI del codice di procedura penale.
 
 ## Art. 5. — Condizioni di emissione
 
 La trasmissione all'estero e' disposta all'atto dell'emissione dell'ordine di esecuzione di cui agli articoli 656 o 659 del codice di procedura penale ovvero, quando l'ordine e' gia' stato eseguito, in un qualsiasi momento successivo, non oltre la data in cui la residua pena o misura di sicurezza da scontare e' inferiore a sei mesi.
+
+2.
+                        
+                            
+                                L'autorita' giudiziaria competente dispone la trasmissione se non ricorre una causa di sospensione dell'esecuzione e quando ricorrono congiuntamente le seguenti condizioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    l'esecuzione della pena o della misura di sicurezza all'estero ha lo scopo di favorire il reinserimento sociale della persona condannata; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il reato per il quale e' stata emessa la sentenza di condanna e' punito con una pena della durata massima non inferiore a tre anni; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    la persona condannata si trova nel territorio dello Stato o in quello dello Stato di esecuzione; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    la persona condannata non e' sottoposta ad altro procedimento penale o non sta scontando un'altra sentenza di condanna o di applicazione di una misura di sicurezza, salvo diverso parere dell'autorita' giudiziaria competente per il procedimento penale in corso o per l'esecuzione.
+
+3.
+                        
+                            
+                                La trasmissione all'estero e' disposta: 
+ 
+                            
+                            
+                                a)
+                                
+                                    verso lo Stato membro dell'Unione europea di cittadinanza della persona condannata in cui quest'ultima vive, ovvero 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    verso lo Stato membro dell'Unione europea di cittadinanza della persona condannata in cui quest'ultima sara' espulsa, una volta dispensata dall'esecuzione della pena o della misura di sicurezza, a motivo di un ordine di espulsione o di allontanamento inserito nella sentenza di condanna o in una decisione giudiziaria o amministrativa o in qualsiasi altro provvedimento adottato in seguito alla sentenza di condanna, ovvero 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    verso lo Stato membro dell'Unione europea che ha acconsentito alla trasmissione.
 
 E' sempre richiesto il consenso della persona condannata per la trasmissione verso uno degli Stati membri indicati al comma 3, lettera c), salvo che si tratti dello Stato dove la persona condannata e' fuggita o e' altrimenti ritornata a motivo del procedimento penale o a seguito della sentenza di condanna. Il consenso alla trasmissione deve essere espresso dalla persona condannata personalmente e per iscritto.
 
@@ -62,6 +225,38 @@ E' sempre richiesto il consenso della persona condannata per la trasmissione ver
 L'autorita' giudiziaria competente ai sensi dell'articolo 4 procede alla trasmissione all'estero di ufficio o su richiesta della persona condannata o dello Stato di esecuzione.
 
 Fermo quanto previsto dall'articolo 5, comma 4, se la persona condannata si trova nel territorio dello Stato l'autorita' giudiziaria procede alla trasmissione all'estero solo dopo averla sentita.
+
+3.
+                        
+                            
+                                Prima di procedere alla trasmissione all'estero, l'autorita' giudiziaria consulta, anche tramite il Ministero della giustizia, l'autorita' competente dello Stato di esecuzione al fine di: 
+ 
+                            
+                            
+                                a)
+                                
+                                    verificare la condizione prevista dall'articolo 5, comma 2, lettera a); 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    comunicare il parere espresso, ai sensi del comma 2, dalla persona condannata; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    acquisire il consenso dello Stato di esecuzione nell'ipotesi prevista dall'articolo 5, comma 3, lettera c); 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    conoscere le disposizioni applicabili nello Stato di esecuzione in materia di liberazione anticipata o condizionale.
 
 Quando ricorre l'ipotesi prevista dall'articolo 5, comma 3, lettera c), la trasmissione all'estero e' disposta previa acquisizione del consenso dello Stato di esecuzione.
 
@@ -109,6 +304,52 @@ In caso di arresto della persona condannata ai sensi dell'articolo 15, la compet
 
 ## Art. 10. — Condizioni per il riconoscimento
 
+1.
+                        
+                            
+                                La corte di appello riconosce la sentenza di condanna emessa in un altro Stato membro dell'Unione europea, ai fini della sua esecuzione in Italia, quando ricorrono congiuntamente le seguenti condizioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la persona condannata ha la cittadinanza italiana; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la persona condannata ha la residenza, la dimora o il domicilio nel territorio dello Stato ovvero deve essere espulsa verso l'Italia a motivo di un ordine di espulsione o di allontanamento inserito nella sentenza di condanna o in una decisione giudiziaria o amministrativa o in qualsiasi altro provvedimento adottato in seguito alla sentenza di condanna; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    la persona condannata si trova nel territorio dello Stato o in quello dello Stato di emissione; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    la persona condannata ha prestato il proprio consenso alla trasmissione, salvo quanto previsto dal comma 4; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    il fatto e' previsto come reato anche dalla legge nazionale, indipendentemente dagli elementi costitutivi o dalla denominazione del reato, salvo quanto previsto dall'articolo 11; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    la durata e la natura della pena o della misura di sicurezza applicate nello Stato di emissione sono compatibili con la legislazione italiana, salva la possibilita' di un adattamento nei limiti stabiliti dal comma 5.
+
 La corte di appello procede altresi' al riconoscimento quando ricorrono congiuntamente le condizioni di cui al comma 1, lettere c), d), e), ed f) e il Ministro della giustizia ha dato il consenso all'esecuzione in Italia della sentenza di condanna emessa nei confronti di una persona che non ha la cittadinanza italiana, ai sensi dell'articolo 12, comma 2.
 
 Se la corte di appello ritiene di poter procedere al riconoscimento parziale, ne informa immediatamente, anche tramite il Ministero della giustizia, l'autorita' competente dello Stato di emissione e concorda con questa le condizioni del riconoscimento e dell'esecuzione parziale, purche' tali condizioni non comportino un aumento della durata della pena. In mancanza di accordo, il certificato si intende ritirato.
@@ -147,6 +388,97 @@ La sentenza della corte di appello divenuta irrevocabile e' immediatamente comun
 
 ## Art. 13. — Motivi di rifiuto del riconoscimento
 
+1.
+                        
+                            
+                                La corte di appello rifiuta il riconoscimento della sentenza di condanna in uno dei seguenti casi: 
+ 
+                            
+                            
+                                a)
+                                
+                                    se non sussiste una o piu' delle condizioni di cui agli articoli 10, commi 1 e 2, e 11; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    se il certificato e' incompleto o non corrisponde manifestamente alla sentenza di condanna e non e' stato completato o corretto entro il termine fissato ai sensi dell'articolo 12, comma 3; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    se risulta che la persona condannata e' stata giudicata in via definitiva per gli stessi fatti da uno degli Stati membri dell'Unione europea purche', in caso di condanna, la pena sia stata gia' eseguita ovvero sia in corso di esecuzione, ovvero non possa piu' essere eseguita in forza delle leggi dello Stato che ha emesso la condanna; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    se i fatti per i quali la trasmissione dall'estero e' stata chiesta potevano essere giudicati in Italia e si sia gia' verificata la prescrizione del reato o della pena; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    se e' stata pronunciata, in Italia, sentenza di non luogo a procedere, salvo che sussistano i presupposti di cui all'articolo 434 del codice di procedura penale per la revoca della sentenza; 
+ e) se la pena e' prescritta secondo la legge italiana; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    se sussiste una causa di immunita' riconosciuta dall'ordinamento italiano che rende impossibile l'esecuzione della pena; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    se la pena e' stata irrogata nei confronti di una persona che, alla data di commissione del fatto, non era imputabile per eta' secondo la legge italiana; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    se alla data di ricezione della sentenza di condanna da parte del Ministero della giustizia ai sensi dell'articolo 12, la durata della pena ancora da scontare e' inferiore a sei mesi; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    se l'interessato non e' comparso personalmente al processo terminato con la decisione da eseguire, a meno che il certificato attesti: 
+ 1) che, a tempo debito, e' stato citato personalmente e, pertanto, informato della data e del luogo fissati per il processo o che ne e' stato di fatto informato ufficialmente con altri mezzi, idonei a comprovare inequivocabilmente che ne era al corrente, nonche' che e' stato informato del fatto che una decisione poteva essere emessa in caso di mancata comparizione in giudizio; ovvero 
+ 2) che, essendo al corrente della data fissata per il processo, aveva conferito un mandato ad un difensore, di fiducia o d'ufficio, da cui in effetti e' stato assistito in giudizio; ovvero 
+ 3) che, dopo aver ricevuto la notifica della decisione ed essere stato espressamente informato del diritto a un nuovo processo o ad un ricorso in appello con possibilita' di parteciparvi per ottenere un riesame nel merito della imputazione, compresa l'assunzione di nuove prove, ha dichiarato espressamente di non opporsi alla decisione o non ha richiesto un nuovo processo o presentato ricorso in appello entro il termine a tal fine stabilito.
+                                
+                            
+                            
+                                l)
+                                
+                                    se lo Stato di emissione ha, prima della decisione sul riconoscimento, rifiutato la richiesta formulata dall'autorita' giudiziaria italiana di sottoporre la medesima persona condannata a un procedimento penale o di privarla della liberta' personale, per un reato commesso anteriormente alla trasmissione della sentenza di condanna e diverso da quello per cui la trasmissione e' avvenuta; 
+
+                                
+                            
+                            
+                                m)
+                                
+                                    la pena irrogata comprende una misura di trattamento medico o psichiatrico o altra misura privativa della liberta' personale incompatibile con il sistema penitenziario o sanitario dello Stato, salvo quanto previsto dall'articolo 10, comma 5; 
+
+                                
+                            
+                            
+                                n)
+                                
+                                    la sentenza di condanna si riferisce a reati che, in base alla legge italiana, sono considerati commessi per intero o in parte all'interno del territorio dello Stato o in altro luogo a questo equiparato.
+
 Nei casi di cui al comma 1, lettere a), b), c), e), i), m) ed n), la corte di appello, prima di decidere di rifiutare il riconoscimento, consulta, anche tramite il Ministero della giustizia, l'autorita' competente dello Stato di emissione e richiede ogni informazione utile alla decisione.
 
 Le disposizioni di cui al presente articolo si applicano, in quanto compatibili, anche alla sentenza con cui e' applicata una misura di sicurezza.
@@ -154,6 +486,16 @@ Le disposizioni di cui al presente articolo si applicano, in quanto compatibili,
 ## Art. 14. — Misure coercitive
 
 Se l'autorita' competente dello Stato di emissione ne ha fatto richiesta, la corte di appello, su domanda del procuratore generale, puo' disporre una misura personale coercitiva nei confronti della persona condannata che si trovi nel territorio dello Stato, allo scopo di assicurare la sua permanenza nel territorio e in attesa del riconoscimento della sentenza di condanna. La corte di appello decide con ordinanza motivata, a pena di nullita'.
+
+2.
+                        
+                            
+                                Si osservano, in quanto applicabili, le disposizioni del titolo I del libro IV del codice di procedura penale, in materia di misure cautelari personali, fatta eccezione per gli articoli 273, 274, comma 1, lett. 
+                            
+                            
+                                a)
+                                
+                                    e c), e 280.
 
 Le misure coercitive non possono essere disposte se vi sono ragioni per ritenere che sussistono cause ostative al riconoscimento.
 
@@ -201,6 +543,59 @@ La revisione della sentenza di condanna trasmessa per l'esecuzione spetta esclus
 
 Salvo quanto previsto dal comma 2, la persona trasferita in Italia per l'esecuzione della condanna non puo' essere sottoposta a un procedimento penale, ne' privata della liberta' personale in esecuzione di una pena o di una misura di sicurezza, ne' altrimenti assoggettata ad altra misura privativa della liberta' personale, per un reato commesso anteriormente al trasferimento, diverso da quello per cui la stessa e' stata trasferita.
 
+2.
+                        
+                            
+                                La disposizione di cui al comma 1 non si applica quando: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la persona trasferita, avendone avuta la possibilita', non ha lasciato il territorio dello Stato decorsi quarantacinque giorni dalla sua definitiva liberazione ovvero, avendolo lasciato, vi ha fatto volontariamente ritorno; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il reato non e' punibile con una pena o con una misura di sicurezza privative della liberta' personale; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il procedimento penale non consente l'applicazione di una misura restrittiva della liberta' personale; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    la persona e' soggetta a una pena o a una misura che non implicano la privazione della liberta', ivi inclusa una misura pecuniaria, anche se puo' limitare la sua liberta' personale; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    la persona ha acconsentito al trasferimento; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    la persona, dopo essere stata trasferita, ha espressamente rinunciato a beneficiare del principio di specialita' rispetto a particolari reati anteriori alla sua consegna. Tale rinuncia e' raccolta a verbale dall'autorita' giudiziaria competente per l'esecuzione; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    fuori dei casi precedenti, lo Stato di emissione ha dato il suo consenso nelle forme di cui al comma 3.
+
 Successivamente al trasferimento, l'autorita' giudiziaria competente puo' richiedere allo Stato di emissione, tramite il Ministero della giustizia, di dare il consenso all'inizio di un procedimento penale nei confronti della persona trasferita, ovvero alla privazione della liberta' personale in esecuzione di una pena o di una misura di sicurezza o di una misura cautelare, per un reato commesso anteriormente al suo trasferimento, diverso da quello per cui la stessa e' stata trasferita. La richiesta e' corredata delle informazioni di cui all'articolo 26, comma 3, della legge 22 aprile 2005, n. 69.
 
 ## Art. 19. — Transito
@@ -216,6 +611,94 @@ La persona condannata puo' essere trattenuta in custodia dall'autorita' di poliz
 ## - Capo IV DISPOSIZIONI COMUNI AI PROCEDIMENTI DI TRASMISSIONE
 
 ## Art. 20. — Informazioni
+
+1.
+                        
+                            
+                                Il Ministero della giustizia informa l'autorita' competente dello Stato di emissione con qualsiasi mezzo che lasci una traccia scritta: 
+ 
+                            
+                            
+                                a)
+                                
+                                    della trasmissione della sentenza di condanna e del certificato all'autorita' giudiziaria competente responsabile dell'esecuzione in conformita' degli articoli 9 e 12; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    dell'impossibilita' di eseguire la pena o la misura di sicurezza in quanto la persona condannata, dopo la trasmissione della sentenza di condanna e del certificato, non puo' essere rintracciata nel territorio dello Stato; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    della decisione definitiva di riconoscere la sentenza di condanna e di eseguire la pena o la misura di sicurezza, unitamente alla data della decisione; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    dell'eventuale decisione di adattare la pena o la misura di sicurezza a norma dell'articolo 10, comma 5, corredata di una motivazione; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    della trasmissione della sentenza di condanna a un altro Stato membro per l'esecuzione, ai sensi dell'articolo 12, comma 11; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    dell'eventuale decisione di non riconoscere la sentenza di condanna ed eseguire la pena o la misura di sicurezza a norma dell'articolo 13, corredata di una motivazione; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    delle decisioni adottate dall'autorita' giudiziaria ai sensi degli articoli 14 e 15; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    dell'eventuale decisione di non eseguire la pena o la misura di sicurezza, per i motivi di cui all'articolo 16, comma 1, corredata di una motivazione; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    della richiesta dell'autorita' giudiziaria, ai sensi dell'articolo 18, comma 3; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    delle date di inizio e fine del periodo di liberazione anticipata o condizionale, se cio' e' indicato nel certificato dallo Stato di emissione; 
+
+                                
+                            
+                            
+                                m)
+                                
+                                    dell'evasione della persona condannata; 
+
+                                
+                            
+                            
+                                n)
+                                
+                                    della scarcerazione per la completa esecuzione della pena o della misura di sicurezza.
 
 Il Ministero della giustizia cura altresi' la corrispondenza relativa alle richieste e alle decisioni di cui agli articoli 7, commi 4 e 5, e 17.
 

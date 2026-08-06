@@ -8,8 +8,8 @@ codice_redazionale: 009G0114
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:41Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -26,6 +26,38 @@ Udito il parere del Consiglio di Stato, espresso dalla sezione consultiva per gl
 Effettuata la comunicazione al Presidente del Consiglio dei Ministri, ai sensi dell'articolo 17, comma 3, della legge 23 agosto 1988, n. 400;
 
 ## Art. 1.
+
+1.
+                    
+                        
+                            Alla tabella 4 allegata al decreto legislativo 19 marzo 2001, n. 69, sono apportate le seguenti modifiche:
+ 
+                        
+                        
+                            a)
+                            
+                                nella colonna 2, «specialita' sanita'», la parola «1» e' sostituita dalla seguente: «5»;
+
+                            
+                        
+                        
+                            b)
+                            
+                                nella colonna 5, «specialita' amministrazione», la parola «2» e' sostituita dalla seguente: «6»;
+
+                            
+                        
+                        
+                            c)
+                            
+                                nella colonna 6, «specialita' commissariato», la parola «1» e' sostituita dalla seguente: «2»;
+
+                            
+                        
+                        
+                            d)
+                            
+                                nella colonna «Organico», la parola «222» e' sostituita dalla seguente: «209».
 
 In conseguenza di quanto previsto dal comma 1, la nota (c) della tabella 4 allegata al decreto legislativo 19 marzo 2001, n. 69, e' sostituita dalla seguente: «(c) Dall'anno 2009, per ciascuna specialita', eccetto quella di psicologia, ciclo di sei anni: 0 promozioni, nel 1°, 2°, 3°, 4° e 5° anno; 1 promozione nel 6° anno».
 

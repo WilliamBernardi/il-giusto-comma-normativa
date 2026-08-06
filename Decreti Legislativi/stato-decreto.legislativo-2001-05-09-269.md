@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
 vigenza_date: 2016-07-15
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:22Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -43,6 +43,19 @@ Sulla proposta del Ministro per le politiche comunitarie e del Ministro delle co
 
 
 Il Ministero delle comunicazioni notifica alla Commissione europea i tipi di interfaccia offerti in Italia dagli operatori delle reti pubbliche di telecomunicazione. Con uno o piu' regolamenti da adottare con decreto del Ministro delle comunicazioni ai sensi dell'articolo 17, comma 3, della legge 23 agosto 1988, n. 400, sono disciplinate le modalita' con le quali gli operatori informano il Ministero delle comunicazioni e rendono pubbliche le specifiche tecniche di tali interfacce prima di rendere disponibili al pubblico i servizi forniti mediante dette interfacce nonche' i relativi aggiornamenti.((7))
+
+3.
+                        
+                            
+                                Sono soggetti all'obbligo di comunicazione al Ministero delle comunicazioni e di pubblicazione delle interfacce: 
+ 
+                            
+                            
+                                a)
+                                
+                                    i gestori diretti, cioe' gli operatori che forniscono un servizio pubblico di telecomunicazioni attraverso una rete a cui i terminali possono essere connessi o attraverso una interfaccia di rete fisica o attraverso una interfaccia radio; 
+ c) i gestori indirettamente connessi, cioe' quegli operatori di rete pubblica che forniscono servizi a terzi mediante contratto, ma che non offrono una interfaccia diretta di rete; 
+ d) i fornitori di servizi pubblici, cioe' gli operatori che forniscono servizi pubblici di telecomunicazioni mediante uno o piu' apparecchi connessi alla rete pubblica ma che non gestiscono in proprio la rete.((7))
 
 ((COMMA ABROGATO DAL D.LGS. 22 GIUGNO 2016, N. 128)).
 

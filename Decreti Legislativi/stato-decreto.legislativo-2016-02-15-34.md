@@ -8,8 +8,8 @@ vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
 vigenza_date: 2024-08-10
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:23Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -53,6 +53,39 @@ Se la richiesta di costituzione della squadra investigativa comune prevede il co
 
 L'istituzione della squadra investigativa comune avviene con la sottoscrizione di un atto costitutivo, ad opera del procuratore della Repubblica e dell'autorita' competente dello Stato membro o degli Stati membri coinvolti.
 
+2.
+                    
+                        
+                            L'atto costitutivo indica: 
+ 
+                        
+                        
+                            a)
+                            
+                                i componenti della squadra investigativa comune, ossia i membri nazionali e i membri distaccati. I membri nazionali sono individuati tra gli ufficiali e gli agenti di polizia giudiziaria.
+Della squadra investigativa comune possono far parte uno o piu' magistrati dell'ufficio del pubblico ministero che ha sottoscritto l'atto costitutivo. I membri distaccati sono i componenti della squadra appartenenti ad altri Stati membri, designati in base alla normativa nazionale; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                il direttore della squadra investigativa comune, scelto tra i suoi componenti. Quando della squadra fanno parte magistrati dell'ufficio del pubblico ministero, il direttore e' indicato tra uno di essi. 
+
+                            
+                        
+                        
+                            c)
+                            
+                                l'oggetto e le finalita' dell'indagine; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                il termine entro il quale le attivita' di indagine devono essere compiute.
+
 All'atto costituivo e' allegato il piano d'azione operativo, contenente le misure organizzative e l'indicazione delle modalita' di esecuzione.
 
 Quando ravvisano la necessita' investigativa, le autorita' che hanno costituito la squadra investigativa comune possono modificare, con atto sottoscritto, l'oggetto e la finalita' dell'indagine e possono prorogare il termine entro il quale le attivita' di indagine devono essere compiute.
@@ -79,6 +112,38 @@ La squadra investigativa comune opera sul territorio dello Stato in conformita' 
 Nel fascicolo del dibattimento di cui all'articolo 431 del codice di procedura penale entrano a far parte i verbali degli atti non ripetibili posti in essere dalla squadra investigativa comune.
 
 Nei casi previsti dal presente decreto, gli atti compiuti all'estero dalla squadra investigativa comune hanno la stessa efficacia degli atti corrispondenti compiuti secondo le disposizioni del codice di procedura penale e sono utilizzabili secondo la legge italiana.
+
+4.
+                    
+                        
+                            Le informazioni legittimamente ottenute dai componenti della squadra investigativa comune, e non altrimenti reperibili per le autorita' competenti dello Stato membro interessato, possono essere utilizzate: 
+ 
+                        
+                        
+                            a)
+                            
+                                per i fini previsti all'atto della costituzione della squadra; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                previo consenso dello Stato sul cui territorio le informazioni sono state assunte, per l'individuazione, l'indagine e il perseguimento di altri reati. Il consenso puo' essere negato soltanto in caso di grave pericolo per l'efficacia delle indagini penali condotte nello Stato sul cui territorio le informazioni sono state assunte o qualora quest'ultimo possa rifiutare l'assistenza giudiziaria ai fini di tale uso; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                per scongiurare una minaccia immediata e grave alla sicurezza pubblica, fermo restando quanto previsto dalla lettera b), in caso di successivo avvio di un'indagine penale; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                per altri scopi entro i limiti convenuti dagli Stati che hanno costituito la squadra.
 
 Il procuratore della Repubblica che ha sottoscritto l'atto costitutivo della squadra investigativa comune puo' richiedere all'autorita' competente degli altri Stati membri coinvolti nella squadra di ritardare, per fini investigativi e processuali diversi da quelli indicati nell'atto costitutivo, l'utilizzazione delle informazioni ottenute dai componenti della squadra e non altrimenti disponibili, se essa puo' pregiudicare indagini o procedimenti penali in corso nello Stato, per un tempo non superiore a sei mesi.
 

@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
 vigenza_date: 2022-09-28
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:30Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -163,6 +163,40 @@ Il Ministero della salute stabilisce, con decreto, le modalita' per la trasmissi
  Ha inoltre disposto (con l'art. 32, comma 10) che le disposizioni del presente D.Lgs. relative ai dispositivi medici di cui all'articolo 120, paragrafi 3 e 4, del regolamento, restano in vigore fino al 27 maggio 2025, nella misura necessaria all'applicazione di tali paragrafi.
 
 ## Art. 13-bis. — (Banca dati europea).
+
+1.
+                    
+                        
+                            Il Ministero della salute trasmette alla banca dati europea le seguenti informazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                i dati relativi alla registrazione dei fabbricanti e dei mandatari, nonche' dei dispositivi di cui all'articolo 13, ad esclusione dei dati relativi ai dispositivi su misura; ((11))
+                                
+                            
+                        
+                        
+                            b)
+                            
+                                i dati relativi ai certificati rilasciati, modificati, integrati, sospesi, ritirati o rifiutati secondo le procedure di cui agli allegati II, III, IV, V, VI e VII;((11))
+                                
+                            
+                        
+                        
+                            c)
+                            
+                                i dati ottenuti in base alla procedura di vigilanza definita dall'articolo 9;((11))
+                                
+                            
+                        
+                        
+                            d)
+                            
+                                i dati relativi alle indagini cliniche di cui all'articolo 14.((11)) 
+ 2.((COMMA ABROGATO DAL D.LGS. 5 AGOSTO 2022, N. 137)). 
+ ((11))
 
 --------------
                         AGGIORNAMENTO (11)

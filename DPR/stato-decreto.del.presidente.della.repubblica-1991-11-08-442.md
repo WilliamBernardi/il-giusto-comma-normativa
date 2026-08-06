@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: DPR
 vigenza_date: 1992-04-04
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:47:43Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -33,6 +33,45 @@ Il presente contratto si applica a tutti i dirigenti e si riferisce al periodo 1
 La qualifica di dirigente e' unica.
 
 ## Art. 3. — Elementi della retribuzione lorda complessiva
+
+1.
+                    
+                        
+                            Gli elementi che concorrono a formare la retribuzione lorda globale sono:
+ 
+                        
+                        
+                            a)
+                            
+                                stipendio tabellare iniziale di L. 45.000.000 annue;
+
+                            
+                        
+                        
+                            b)
+                            
+                                maggiorazione professionale di L. 300.000 mensili per ogni biennio di servizio;
+
+                            
+                        
+                        
+                            c)
+                            
+                                indennita' integrativa speciale secondo le vigenti disposizioni di legge;
+
+                            
+                        
+                        
+                            d)
+                            
+                                indennita' di funzione di cui all'art. 5;
+
+                            
+                        
+                        
+                            e)
+                            
+                                premio annuo di rendimento di cui all'art. 6.
 
 La retribuzione mensile base e' costituita, ad ogni effetto contrattuale, dallo stipendio tabellare, dalla maggiorazione professionale e dall'indennita' integrativa speciale.
 
@@ -57,6 +96,24 @@ L'indennita' e' attribuita con provvedimento del comitato direttivo secondo para
 ## Art. 6. — Premio annuo di rendimento
 
 A decorrere dal 1 gennaio 1990 e' istituito un incentivo annuale di rendimento da corrispondersi nel mese di dicembre di ciascun anno, commisurato ad un massimo di due mensilita' di retribuzione base.
+
+2.
+                    
+                        
+                            Il premio annuo di rendimento viene attribuito dal comitato direttivo secondo la seguente procedura:
+ 
+                        
+                        
+                            a)
+                            
+                                per una quota pari al 50% in funzione del raggiungimento degli obiettivi e dei programmi definiti dagli organi di amministrazione;
+
+                            
+                        
+                        
+                            b)
+                            
+                                per la quota pari al rimanente 50% in relazione alla valutazione di rendimento di ciascuna unita' dirigenziale.
 
 Ai relativi provvedimenti da' attuazione il presidente su motivata proposta del direttore generale.
 

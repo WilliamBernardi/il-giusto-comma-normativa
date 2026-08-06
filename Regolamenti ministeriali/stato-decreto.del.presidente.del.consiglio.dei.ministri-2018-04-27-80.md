@@ -7,8 +7,8 @@ urn: urn:nir:stato:decreto.del.presidente.del.consiglio.dei.ministri:2018-04-27;
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:40Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DEL CONSIGLIO DEI MINISTRI
@@ -50,6 +50,24 @@ Diplomi di specializzazione rilasciati da universita'
 I diplomi di specializzazione rilasciati da universita' e istituti universitari di Paesi appartenenti all'Unione europea o aderenti alla Convenzione per il riconoscimento dei titoli di studio relativi all'insegnamento superiore, sottoscritta a Lisbona l'11 aprile 1997, sono validi ai fini di cui all'articolo 1, commi 1 e 2, se riconosciuti con le modalita' di cui all'articolo 38, comma 3, del decreto legislativo 30 marzo 2001, n. 165, e successive modificazioni e integrazioni.
 
 ## Art. 4. — Disposizioni transitorie
+
+1.
+                    
+                        
+                            Per le finalita' di cui di cui all'articolo 1, sono da considerare utili anche: 
+ 
+                        
+                        
+                            a)
+                            
+                                i titoli post universitari riconosciuti dai decreti del Presidente del Consiglio dei ministri ai sensi dell'articolo 4, comma 2, del decreto del Presidente del Consiglio dei ministri 29 settembre 2004, n. 295; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                i diplomi di specializzazione rilasciati dalle Scuole di specializzazione ai sensi dell'articolo 13, comma 6, del decreto del Ministro dell'istruzione, dell'universita' e della ricerca 3 novembre 1999, n. 509.
 
 A decorrere dalla data di entrata in vigore del presente regolamento cessa di avere efficacia il decreto del Presidente del Consiglio dei ministri 29 settembre 2004, n. 295.
 

@@ -7,8 +7,8 @@ urn: urn:nir:ministero.interno:decreto:2021-05-14;97
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:39Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -63,13 +63,106 @@ In relazione al numero dei candidati, la commissione, unico restando il presiden
 
 Le prove di esame sono costituite da due prove scritte e da una prova orale.
 
+2.
+                    
+                        
+                            La prima prova scritta consiste nella stesura di un elaborato ovvero nella risposta sintetica a quesiti, senza l'ausilio di strumenti informatici, e verte sulle seguenti materie: 
+ 
+                        
+                        
+                            a)
+                            
+                                architettura, sviluppo, verifica e rilascio di applicativi software; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                progettazione ed utilizzo efficiente dei database management systems (D.B.M.S.).
+
+3.
+                    
+                        
+                            La seconda prova scritta consiste nella stesura di un elaborato ovvero nella risposta sintetica a quesiti, senza l'ausilio di strumenti informatici, e verte, a scelta del candidato, su una delle seguenti materie: 
+ 
+                        
+                        
+                            a)
+                            
+                                gestione dei moderni sistemi di elaborazione dati; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                architettura delle reti di telecomunicazione; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                sicurezza informatica.
+
 Sono ammessi alla prova orale i candidati che abbiano riportato in ciascuna prova scritta una votazione non inferiore a 21/30 (ventuno/trentesimi).
+
+5.
+                    
+                        
+                            La prova orale verte, oltre che sulle materie oggetto delle prove scritte di cui ai commi 2 e 3, sulle seguenti materie: 
+ 
+                        
+                        
+                            a)
+                            
+                                elementi di diritto costituzionale e amministrativo; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                informatizzazione della pubblica amministrazione, con particolare riferimento al codice dell'amministrazione digitale; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                ordinamento del Ministero dell'interno, con particolare riferimento al Dipartimento, e ordinamento del personale del Corpo nazionale.
 
 Nell'ambito della prova orale e' accertata la conoscenza della lingua straniera, scelta dal candidato all'atto della presentazione della domanda, tra quelle indicate nel bando di concorso.
 
 La prova orale si intende superata se il candidato ottiene una votazione non inferiore a 21/30 (ventuno/trentesimi).
 
 ## Art. 5. — Titoli
+
+1.
+                    
+                        
+                            La commissione esaminatrice valuta, a parita' di punteggio, i seguenti titoli, tenendo conto, ai fini della formazione della graduatoria di merito di cui all'articolo 7, del seguente ordine di preferenza: 
+ 
+                        
+                        
+                            a)
+                            
+                                abilitazioni professionali correlate alle lauree magistrali di cui all'articolo 164, comma 1, lettera d), del decreto legislativo 13 ottobre 2005, n. 217: punti 3; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                dottorato di ricerca afferente alle lauree magistrali di cui all'articolo 164, comma 1, lettera d), del decreto legislativo 13 ottobre 2005, n. 217: punti 2; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                lauree magistrali diverse da quella considerata quale requisito di partecipazione al concorso: punti 1.
 
 I titoli di cui al comma 1 non sono cumulabili e non sono valutabili per i candidati che non abbiano conseguito pari punteggio nelle prove di esame. Il punteggio attribuito ai titoli e' finalizzato esclusivamente a stabilire l'ordine di preferenza fra i candidati pari merito, non sommandosi ai voti conseguiti nelle prove di esame.
 

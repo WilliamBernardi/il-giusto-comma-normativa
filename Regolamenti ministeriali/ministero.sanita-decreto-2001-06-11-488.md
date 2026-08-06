@@ -8,8 +8,8 @@ codice_redazionale: 002G0080
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:39Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -40,6 +40,38 @@ Il medico addetto alla sorveglianza medica, per la valutazione dell'idoneita' al
 Il medico addetto alla sorveglianza medica effettua l'analisi dei rischi individuali connessi alla destinazione lavorativa ed alle mansioni del lavoratore sulla base delle informazioni ottenute dal datore di lavoro ai sensi dell'articolo 83, comma 5 del decreto legislativo 17 marzo 1995, n. 230, e contenute nella relazione dell'esperto qualificato di cui all'articolo 61, comma 2, del medesimo decreto legislativo, eventualmente integrate da informazioni acquisite in occasione di accessi diretti negli ambienti di lavoro.
 
 ## Art. 3.
+
+1.
+                    
+                        
+                            In funzione delle differenti tipologie di rischio, il medico addetto alla sorveglianza medica considera con particolare attenzione, ai fini della valutazione dell'idoneita' al lavoro che espone alle radiazioni ionizzanti, le seguenti condizioni fisiopatologiche:
+ 
+                        
+                        
+                            a)
+                            
+                                condizioni suscettibili di essere attivate o aggravate dalle radiazioni ionizzanti;
+
+                            
+                        
+                        
+                            b)
+                            
+                                condizioni suscettibili di aumentare l'assorbimento di sostanze radioattive o di ridurre l'efficacia dei meccanismi fisiologici di depurazione o escrezione;
+
+                            
+                        
+                        
+                            c)
+                            
+                                condizioni che pongono problemi di ordine terapeutico in occasione di eventuale sovraesposizione, specie se limitano le possibilita' di decontaminazione;
+
+                            
+                        
+                        
+                            d)
+                            
+                                condizioni suscettibili di essere confuse con patologie derivanti da radiazioni ionizzanti o attribuite all'azione lesiva delle radiazioni ionizzanti.
 
 In relazione alla natura ed alla entita' del rischio ed alle caratteristiche dell'attivita' lavorativa dovranno inoltre essere considerate le condizioni psicofisiche suscettibili di porre problemi in ordine alle condizioni di sicurezza del lavoro con radiazioni ionizzanti, nonche' l'eventuale esistenza di anomalie o di condizioni patologiche che possano limitare l'utilizzazione di dispositivi di protezione individuale specie per le vie respiratorie.
 

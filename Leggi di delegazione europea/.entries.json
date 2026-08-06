@@ -2,100 +2,164 @@
   "zip_date": "2026-08-06",
   "entries": {
     "LEGGE_19890309_86/1989-03-10_089G0123_VIGENZA_2025-10-02_V0.xml": {
-      "sha256": "dda85770534feeb7012b7b909e548fb0af6035e90f995a3cfa5e450c98414f12"
+      "sha256": "dda85770534feeb7012b7b909e548fb0af6035e90f995a3cfa5e450c98414f12",
+      "out": "Leggi di delegazione europea/stato-legge-1989-03-09-86.md",
+      "urn": "urn:nir:stato:legge:1989-03-09;86"
     },
     "LEGGE_19901229_428/1991-01-12_091G0013_VIGENZA_2025-10-02_V0.xml": {
-      "sha256": "1accc16718e15fb020b4763ef8911cad9de7c780d968a42ede54898bc92aeaa3"
+      "sha256": "1accc16718e15fb020b4763ef8911cad9de7c780d968a42ede54898bc92aeaa3",
+      "out": "Leggi di delegazione europea/stato-legge-1990-12-29-428.md",
+      "urn": "urn:nir:stato:legge:1990-12-29;428"
     },
     "LEGGE_19920219_142/1992-02-20_092G0209_VIGENZA_2025-10-02_V0.xml": {
-      "sha256": "51d1a64481737e406aab0f736da7c0e007f3e0173fb6555243eb54d9ea221eb0"
+      "sha256": "51d1a64481737e406aab0f736da7c0e007f3e0173fb6555243eb54d9ea221eb0",
+      "out": "Leggi di delegazione europea/stato-legge-1992-02-19-142.md",
+      "urn": "urn:nir:stato:legge:1992-02-19;142"
     },
     "LEGGE_19921219_489/1992-12-21_092G0539_VIGENZA_2025-10-02_V0.xml": {
-      "sha256": "3ae65a5926731591bf59c0eaaa49171d890b479cd6387ddc3dcb99bf22c2d945"
+      "sha256": "3ae65a5926731591bf59c0eaaa49171d890b479cd6387ddc3dcb99bf22c2d945",
+      "out": "Leggi di delegazione europea/stato-legge-1992-12-19-489.md",
+      "urn": "urn:nir:stato:legge:1992-12-19;489"
     },
     "LEGGE_19940222_146/1994-03-04_094G0164_VIGENZA_2025-10-02_V0.xml": {
-      "sha256": "3b568d988ec80bdbec763192bc9185fe2ff7143f2893e39f1fa7cdb58e1ad1c7"
+      "sha256": "3b568d988ec80bdbec763192bc9185fe2ff7143f2893e39f1fa7cdb58e1ad1c7",
+      "out": "Leggi di delegazione europea/stato-legge-1994-02-22-146.md",
+      "urn": "urn:nir:stato:legge:1994-02-22;146"
     },
     "LEGGE_19960206_52/1996-02-10_096G0038_VIGENZA_2025-10-02_V0.xml": {
-      "sha256": "ef23d8d4fe5a8aec077bb38a9d02329be06445393833b60e5bc5f8d2f562d095"
+      "sha256": "ef23d8d4fe5a8aec077bb38a9d02329be06445393833b60e5bc5f8d2f562d095",
+      "out": "Leggi di delegazione europea/stato-legge-1996-02-06-52.md",
+      "urn": "urn:nir:stato:legge:1996-02-06;52"
     },
     "LEGGE_19980424_128/1998-05-07_098G0164_VIGENZA_2025-10-02_V0.xml": {
-      "sha256": "6bd2499c4a19a24010132fd6f006e785834a9528757a3f8e05e458af75a60120"
+      "sha256": "6bd2499c4a19a24010132fd6f006e785834a9528757a3f8e05e458af75a60120",
+      "out": "Leggi di delegazione europea/stato-legge-1998-04-24-128.md",
+      "urn": "urn:nir:stato:legge:1998-04-24;128"
     },
     "LEGGE_19990205_25/1999-02-12_099G0071_VIGENZA_2025-10-02_V0.xml": {
-      "sha256": "041fce320c3486507d166b787326fdb2ac8dc2709deb89d53a4fffafb95edd99"
+      "sha256": "041fce320c3486507d166b787326fdb2ac8dc2709deb89d53a4fffafb95edd99",
+      "out": "Leggi di delegazione europea/stato-legge-1999-02-05-25.md",
+      "urn": "urn:nir:stato:legge:1999-02-05;25"
     },
     "LEGGE_19991221_526/2000-01-18_000G0024_VIGENZA_2025-10-02_V0.xml": {
-      "sha256": "bb1eb1f2fcc899358f0dc8a947604a83a84624e8c516a9bfea73973275d58b73"
+      "sha256": "bb1eb1f2fcc899358f0dc8a947604a83a84624e8c516a9bfea73973275d58b73",
+      "out": "Leggi di delegazione europea/stato-legge-1999-12-21-526.md",
+      "urn": "urn:nir:stato:legge:1999-12-21;526"
     },
     "LEGGE_20001229_422/2001-01-20_001G0015_VIGENZA_2025-10-02_V0.xml": {
-      "sha256": "8eba201d269cd005a863bd56e9c2532633bfcae616ca48275806abf8a6bceaf8"
+      "sha256": "8eba201d269cd005a863bd56e9c2532633bfcae616ca48275806abf8a6bceaf8",
+      "out": "Leggi di delegazione europea/stato-legge-2000-12-29-422.md",
+      "urn": "urn:nir:stato:legge:2000-12-29;422"
     },
     "LEGGE_20020301_39/2002-03-26_002G0038_VIGENZA_2025-10-02_V0.xml": {
-      "sha256": "ea1a203e75a7ae345e049eb8a5e6a1033dea3c0bb50529b7012bb755593f83e8"
+      "sha256": "ea1a203e75a7ae345e049eb8a5e6a1033dea3c0bb50529b7012bb755593f83e8",
+      "out": "Leggi di delegazione europea/stato-legge-2002-03-01-39.md",
+      "urn": "urn:nir:stato:legge:2002-03-01;39"
     },
     "LEGGE_20030203_14/2003-02-07_003G0015_VIGENZA_2025-10-02_V0.xml": {
-      "sha256": "3005c6478679fc9f6995ae730babe34757425a68ea22b59b9082fd12841f484c"
+      "sha256": "3005c6478679fc9f6995ae730babe34757425a68ea22b59b9082fd12841f484c",
+      "out": "Leggi di delegazione europea/stato-legge-2003-02-03-14.md",
+      "urn": "urn:nir:stato:legge:2003-02-03;14"
     },
     "LEGGE_20031031_306/2003-11-15_003G0333_VIGENZA_2025-10-02_V0.xml": {
-      "sha256": "0d3f6086c73e33920022d9d9da047fdf9fb30ef5557bcac3a15ed20f9849ebfa"
+      "sha256": "0d3f6086c73e33920022d9d9da047fdf9fb30ef5557bcac3a15ed20f9849ebfa",
+      "out": "Leggi di delegazione europea/stato-legge-2003-10-31-306.md",
+      "urn": "urn:nir:stato:legge:2003-10-31;306"
     },
     "LEGGE_20050418_62/2005-04-27_005G0082_VIGENZA_2025-10-02_V0.xml": {
-      "sha256": "994149abbe7efc610796f3683db454dbd89963a07521206a6b9867d73f22dd3a"
+      "sha256": "994149abbe7efc610796f3683db454dbd89963a07521206a6b9867d73f22dd3a",
+      "out": "Leggi di delegazione europea/stato-legge-2005-04-18-62.md",
+      "urn": "urn:nir:stato:legge:2005-04-18;62"
     },
     "LEGGE_20060125_29/2006-02-08_006G0043_VIGENZA_2025-10-02_V0.xml": {
-      "sha256": "8d5e7cc2a0c63a7c77df973ed9e06498a4461baf686462f009f3836c7c70024b"
+      "sha256": "8d5e7cc2a0c63a7c77df973ed9e06498a4461baf686462f009f3836c7c70024b",
+      "out": "Leggi di delegazione europea/stato-legge-2006-01-25-29.md",
+      "urn": "urn:nir:stato:legge:2006-01-25;29"
     },
     "LEGGE_20070206_13/2007-02-17_007G0025_VIGENZA_2025-10-02_V0.xml": {
-      "sha256": "7e84d88340e82825e241d575e68116f565835c8e662226ec29e47b7bf1229360"
+      "sha256": "7e84d88340e82825e241d575e68116f565835c8e662226ec29e47b7bf1229360",
+      "out": "Leggi di delegazione europea/stato-legge-2007-02-06-13.md",
+      "urn": "urn:nir:stato:legge:2007-02-06;13"
     },
     "LEGGE_20080225_34/2008-03-06_008G0057_VIGENZA_2025-10-02_V0.xml": {
-      "sha256": "bef898279c2813392fa22c432d51c1e8cab1e809726058cd8a014c1f9a175c2c"
+      "sha256": "bef898279c2813392fa22c432d51c1e8cab1e809726058cd8a014c1f9a175c2c",
+      "out": "Leggi di delegazione europea/stato-legge-2008-02-25-34.md",
+      "urn": "urn:nir:stato:legge:2008-02-25;34"
     },
     "LEGGE_20090707_88/2009-07-14_009G0100_VIGENZA_2025-10-02_V0.xml": {
-      "sha256": "8764602ed9f1fcedfd7c50dfeffe6a443b176fc4036c3a80ea979bb65ca8ed47"
+      "sha256": "8764602ed9f1fcedfd7c50dfeffe6a443b176fc4036c3a80ea979bb65ca8ed47",
+      "out": "Leggi di delegazione europea/stato-legge-2009-07-07-88.md",
+      "urn": "urn:nir:stato:legge:2009-07-07;88"
     },
     "LEGGE_20100604_96/2010-06-25_010G0119_VIGENZA_2025-10-02_V0.xml": {
-      "sha256": "6d86b61d90d14d4cc696675b4876f0eb921feb531d3310a08b73dbb1b3919996"
+      "sha256": "6d86b61d90d14d4cc696675b4876f0eb921feb531d3310a08b73dbb1b3919996",
+      "out": "Leggi di delegazione europea/stato-legge-2010-06-04-96.md",
+      "urn": "urn:nir:stato:legge:2010-06-04;96"
     },
     "LEGGE_20111215_217/2012-01-02_012G0001_VIGENZA_2025-10-02_V0.xml": {
-      "sha256": "a64dcc8fb1f2e98f8b9af69a195004248f99c0122d2387f252c460af76a07204"
+      "sha256": "a64dcc8fb1f2e98f8b9af69a195004248f99c0122d2387f252c460af76a07204",
+      "out": "Leggi di delegazione europea/stato-legge-2011-12-15-217.md",
+      "urn": "urn:nir:stato:legge:2011-12-15;217"
     },
     "LEGGE_20121224_234/2013-01-04_13G00003_VIGENZA_2026-02-18_V0.xml": {
-      "sha256": "1a0f3c1e58f0ffc7d64a16b8c249b5966c42dd36d3e9ebde26cec1625dc23023"
+      "sha256": "1a0f3c1e58f0ffc7d64a16b8c249b5966c42dd36d3e9ebde26cec1625dc23023",
+      "out": "Leggi di delegazione europea/stato-legge-2012-12-24-234.md",
+      "urn": "urn:nir:stato:legge:2012-12-24;234"
     },
     "LEGGE_20130806_96/2013-08-20_13G00137_ORIGINALE_V0.xml": {
-      "sha256": "53bef08b7bb190444be0d9902db2fc886ab88ab83302224c02443579cba2e48a"
+      "sha256": "53bef08b7bb190444be0d9902db2fc886ab88ab83302224c02443579cba2e48a",
+      "out": "Leggi di delegazione europea/stato-legge-2013-08-06-96.md",
+      "urn": "urn:nir:stato:legge:2013-08-06;96"
     },
     "LEGGE_20141007_154/2014-10-28_14G00167_ORIGINALE_V0.xml": {
-      "sha256": "7f06c798ff708a8987e5a89eea1f09b3c712688bf2e6bba66d24ba9a45944a7e"
+      "sha256": "7f06c798ff708a8987e5a89eea1f09b3c712688bf2e6bba66d24ba9a45944a7e",
+      "out": "Leggi di delegazione europea/stato-legge-2014-10-07-154.md",
+      "urn": "urn:nir:stato:legge:2014-10-07;154"
     },
     "LEGGE_20150709_114/2015-07-31_15G00127_ORIGINALE_V0.xml": {
-      "sha256": "40072a30981ed027a190bcca8f57281b870597e195a57e6839531b8ebac58e85"
+      "sha256": "40072a30981ed027a190bcca8f57281b870597e195a57e6839531b8ebac58e85",
+      "out": "Leggi di delegazione europea/stato-legge-2015-07-09-114.md",
+      "urn": "urn:nir:stato:legge:2015-07-09;114"
     },
     "LEGGE_20160812_170/2016-09-01_16G00181_ORIGINALE_V0.xml": {
-      "sha256": "1711e240412a42221c34d06e9b019ca78c48955e8319a6dd52bfff55377d9af8"
+      "sha256": "1711e240412a42221c34d06e9b019ca78c48955e8319a6dd52bfff55377d9af8",
+      "out": "Leggi di delegazione europea/stato-legge-2016-08-12-170.md",
+      "urn": "urn:nir:stato:legge:2016-08-12;170"
     },
     "LEGGE_20171025_163/2017-11-06_17G00177_ORIGINALE_V0.xml": {
-      "sha256": "c2303d8bc3ea98189d44b3aa94c384db3a1cf596fa08a801425f4f1e796a8129"
+      "sha256": "c2303d8bc3ea98189d44b3aa94c384db3a1cf596fa08a801425f4f1e796a8129",
+      "out": "Leggi di delegazione europea/stato-legge-2017-10-25-163.md",
+      "urn": "urn:nir:stato:legge:2017-10-25;163"
     },
     "LEGGE_20191004_117/2019-10-18_19G00123_ORIGINALE_V0.xml": {
-      "sha256": "f48af57770278b80bd4ea0e224b9e4d6940e2460f802513db94e0724a5bc9b67"
+      "sha256": "f48af57770278b80bd4ea0e224b9e4d6940e2460f802513db94e0724a5bc9b67",
+      "out": "Leggi di delegazione europea/stato-legge-2019-10-04-117.md",
+      "urn": "urn:nir:stato:legge:2019-10-04;117"
     },
     "LEGGE_20210422_53/2021-04-23_21G00063_VIGENZA_2026-02-18_V0.xml": {
-      "sha256": "e89f6a1dc64466d9655a0a89569325e4a2f8f336419137607394e92fed28e735"
+      "sha256": "e89f6a1dc64466d9655a0a89569325e4a2f8f336419137607394e92fed28e735",
+      "out": "Leggi di delegazione europea/stato-legge-2021-04-22-53.md",
+      "urn": "urn:nir:stato:legge:2021-04-22;53"
     },
     "LEGGE_20220804_127/2022-08-26_22G00136_VIGENZA_2025-10-02_V0.xml": {
-      "sha256": "6266fb2871ce8f85709c100c10e6d44a93dfe40d104d487c44686fb1821feaa5"
+      "sha256": "6266fb2871ce8f85709c100c10e6d44a93dfe40d104d487c44686fb1821feaa5",
+      "out": "Leggi di delegazione europea/stato-legge-2022-08-04-127.md",
+      "urn": "urn:nir:stato:legge:2022-08-04;127"
     },
     "LEGGE_20240221_15/2024-02-24_24G00027_VIGENZA_2025-10-02_V0.xml": {
-      "sha256": "02a71a6d7e15ce64c1ff6f42634f6a0cdbf5a40e92c8b326199cfa6c194c364d"
+      "sha256": "02a71a6d7e15ce64c1ff6f42634f6a0cdbf5a40e92c8b326199cfa6c194c364d",
+      "out": "Leggi di delegazione europea/stato-legge-2024-02-21-15.md",
+      "urn": "urn:nir:stato:legge:2024-02-21;15"
     },
     "LEGGE_20250613_91/2025-06-25_25G00097_ORIGINALE_V0.xml": {
-      "sha256": "cbc779ebdc8e5840fa2a61b19dfa8e52a79ea4377461d78d5b7f60270d1a592e"
+      "sha256": "cbc779ebdc8e5840fa2a61b19dfa8e52a79ea4377461d78d5b7f60270d1a592e",
+      "out": "Leggi di delegazione europea/stato-legge-2025-06-13-91.md",
+      "urn": "urn:nir:stato:legge:2025-06-13;91"
     },
     "LEGGE_20260317_36/2026-03-25_26G00053_ORIGINALE_V0.xml": {
-      "sha256": "7e0542a8e01564216eb1e36a229c41e208bbbf771d13f80cd59e8f7797207974"
+      "sha256": "7e0542a8e01564216eb1e36a229c41e208bbbf771d13f80cd59e8f7797207974",
+      "out": "Leggi di delegazione europea/stato-legge-2026-03-17-36.md",
+      "urn": "urn:nir:stato:legge:2026-03-17;36"
     }
   }
 }

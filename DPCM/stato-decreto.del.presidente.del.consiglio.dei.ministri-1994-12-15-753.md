@@ -8,8 +8,8 @@ codice_redazionale: 095G0033
 vigente: true
 source: normattiva-opendata
 collection: DPCM
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:40:12Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DEL CONSIGLIO DEI MINISTRI
@@ -39,6 +39,59 @@ Il Dipartimento fornisce al Ministro per gli italiani nel mondo il supporto tecn
  - Il D.P.C.M. 7 ottobre 1994, recante delega di funzioni al Ministro per gli italiani nel mondo cons. Sergio Berlinguer, e' stato pubblicato nella Gazzetta Ufficiale - serie generale - n. 238 dell'11 ottobre 1994.
 
 ## Art. 2. — Competenze
+
+1.
+                    
+                        
+                            Il Dipartimento, fatte salve le competenze attribuite dalle norme primarie ai singoli Ministeri, provvede agli adempimenti strumentali all'esercizio delle funzioni riguardanti:
+ 
+                        
+                        
+                            a)
+                            
+                                il coordinamento e la promozione nella predisposizione dei provvedimenti normativi necessari per attuare il diritto all'esercizio del voto da parte degli italiani residenti all'estero nelle elezioni legislative ed amministrative;
+
+                            
+                        
+                        
+                            b)
+                            
+                                la promozione di tutte le misure appropriate per assicurare concretamente l'espletamento del voto, con specifico riferimento a quelle relative all'Anagrafe degli italiani residenti all'estero (A.I.R.E. centrale);
+
+                            
+                        
+                        
+                            c)
+                            
+                                la promozione dei provvedimenti normativi indirizzati al potenziamento ed alla ristrutturazione della rete consolare italiana;
+
+                            
+                        
+                        
+                            d)
+                            
+                                il coordinamento e la promozione di iniziative, anche normative, in relazione alle politiche generali concernenti le collettivita' italiane nel mondo, la loro integrazione nei suoi vari aspetti e i loro diritti, nonche' la valorizzazione delle attivita' intellettuali da loro svolte, con riferimento alle indicazioni emerse nelle conferenze internazionali e nazionali, anche attraverso appositi incontri con autorita' ed istituzioni dei Paesi di insediamento;
+
+                            
+                        
+                        
+                            e)
+                            
+                                l'informazione e l'aggiornamento delle collettivita' italiane nel mondo sull'evoluzione della societa' italiana, al fine di mantenere il legame con il Paese di origine;
+
+                            
+                        
+                        
+                            f)
+                            
+                                l'intervento coordinato dello Stato e delle regioni a favore delle comunita' all'estero e per le provvidenze per gli italiani che rimpatriano;
+
+                            
+                        
+                        
+                            g)
+                            
+                                la valorizzazione del ruolo degli imprenditori italiani residenti all'estero, anche ai fini dello sviluppo del loro legame con la Madrepatria.
 
 ## Art. 3. — Ministro e uffici ausiliari
 
@@ -71,6 +124,38 @@ Il capo del Dipartimento cura i rapporti con il Segretario generale e con gli al
 La segreteria del capo del Dipartimento svolge compiti di supporto tecnico-strumentale e di collegamento tra gli uffici del Dipartimento e provvede alla gestione del personale.
 
 ## Art. 6. — Organizzazione
+
+1.
+                    
+                        
+                            Il Dipartimento si articola nei seguenti uffici:
+ 
+                        
+                        
+                            a)
+                            
+                                ufficio dei diritti politici e civili degli italiani all'estero;
+
+                            
+                        
+                        
+                            b)
+                            
+                                ufficio delle politiche generali concernenti le collettivita' italiane all'estero;
+
+                            
+                        
+                        
+                            c)
+                            
+                                ufficio per l'informazione e l'aggiornamento delle collettivita' italiane all'estero;
+
+                            
+                        
+                        
+                            d)
+                            
+                                ufficio per il coordinamento Stato-regioni a favore delle collettivita' italiane all'estero.
 
 L'ufficio dei diritti politici e civili degli italiani all'estero provvede agli adempimenti di cui alle lettere a)
  e b) dell'art. 2.

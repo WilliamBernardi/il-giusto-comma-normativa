@@ -8,8 +8,8 @@ codice_redazionale: 007G0037
 vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:29Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -31,6 +31,45 @@ Il presente decreto lascia impregiudicati gli obblighi derivanti dalla Convenzio
 
 ## Art. 2. — Definizioni
 
+1.
+                    
+                        
+                            Ai fini del presente decreto legislativo, si intende per:
+ 
+                        
+                        
+                            a)
+                            
+                                «cittadino di un Paese terzo»: ogni persona che non ha la cittadinanza di uno Stato membro dell'Unione europea, della Repubblica di Islanda o del Regno di Norvegia;
+
+                            
+                        
+                        
+                            b)
+                            
+                                «Stato membro richiedente»: lo Stato membro che esegue una decisione di espulsione di un cittadino di un Paese terzo e che richiede il transito nell'aeroporto di un'altro Stato membro;
+
+                            
+                        
+                        
+                            c)
+                            
+                                «Stato membro richiesto»: lo Stato membro nel cui aeroporto deve aver luogo il transito;
+
+                            
+                        
+                        
+                            d)
+                            
+                                «componenti della scorta»: ogni persona dello Stato membro richiedente che e' incaricata di accompagnare il cittadino di un Paese terzo, incluse le persone preposte all'assistenza medica e gli interpreti;
+
+                            
+                        
+                        
+                            e)
+                            
+                                «transito per via aerea»: il passaggio, attraverso la zona di un aeroporto dello Stato membro richiesto, del cittadino di un Paese terzo ed eventualmente dei componenti della scorta ai fini dell'espulsione per via aerea.
+
 ## Art. 3. — Autorita' centrale
 
 Il Ministero dell'interno - Dipartimento della Pubblica sicurezza - Direzione centrale per l'immigrazione e la polizia delle frontiere, di seguito denominata: «Direzione centrale», e' competente a ricevere ed inoltrare le richieste di transito per via aerea.
@@ -38,6 +77,45 @@ Il Ministero dell'interno - Dipartimento della Pubblica sicurezza - Direzione ce
 ## Art. 4. — Richiesta di transito per via aerea
 
 Al fine dell'esecuzione di un provvedimento di espulsione di un cittadino di un Paese terzo, qualora non sia ragionevolmente possibile fare ricorso ad un volo diretto verso il Paese di destinazione, la direzione centrale presenta all'Autorita' centrale individuata dallo Stato membro richiesto la richiesta di transito per via aerea, contenente i dati indicati nell'allegato A, che forma parte integrante del presente decreto, previo accertamento della mancanza di impedimenti all'eventuale transito attraverso altri Stati ovvero alla riammissione da parte dello Stato di destinazione. La richiesta di transito per via aerea non e', in linea di massima, presentata se l'attuazione della misura di espulsione rende necessario un cambio di aeroporto nel territorio dello Stato membro richiesto.
+
+2.
+                    
+                        
+                            Fatti salvi gli obblighi di cui all'articolo 1, comma 2, la richiesta di transito per via aerea presentata dall'Autorita' centrale individuata dallo Stato membro richiedente alla Direzione centrale puo' essere rifiutata se:
+ 
+                        
+                        
+                            a)
+                            
+                                il cittadino di un Paese terzo risulti in Italia imputato ovvero condannato, anche a seguito di applicazione della pena su richiesta, ai sensi dell'articolo 444 del codice di procedura penale, per reati previsti dall'articolo 380, commi 1 e 2, del codice di procedura penale e, in ogni caso, per reati inerenti agli stupefacenti, alla liberta' sessuale, al favoreggiamento dell'immigrazione clandestina verso l'Italia e dell'emigrazione clandestina dall'Italia verso altri Stati o per reati diretti al reclutamento di persone da destinare alla prostituzione o allo sfruttamento della prostituzione o di minori da impiegare in attivita' illecite, nonche' destinatario di provvedimenti restrittivi della liberta' personale, fermo restando quanto previsto dalla legge 22 aprile 2005, n. 69, e fatti salvi gli obblighi derivanti dalle Convenzioni internazionali in materia di estradizione;
+
+                            
+                        
+                        
+                            b)
+                            
+                                sussistono impedimenti al transito attraverso altri Stati o alla riammissione da parte dello Stato di destinazione ovvero dello Stato richiedente;
+
+                            
+                        
+                        
+                            c)
+                            
+                                il provvedimento richiede un cambio di aeroporto nel territorio nazionale;
+
+                            
+                        
+                        
+                            d)
+                            
+                                l'assistenza non puo' essere fornita al momento della richiesta;
+
+                            
+                        
+                        
+                            e)
+                            
+                                il cittadino di un Paese terzo e' considerato una minaccia per l'ordine pubblico o la sicurezza dello Stato.
 
 Nell'ipotesi di cui al comma 2, lettera d), la Direzione centrale comunica, quanto prima, allo Stato membro richiedente una diversa data, quanto piu' vicina possibile a quella richiesta, per l'effettuazione del transito, sempreche' siano soddisfatte le altre condizioni per l'autorizzazione al transito.
 
@@ -61,6 +139,45 @@ La richiesta di transito per via aerea deve prevedere, in linea di massima, la d
 
 La Direzione centrale, nel limite delle risorse umane, strumentali e finanziarie disponibili in base alla legislazione vigente e nel rispetto delle norme internazionali, adotta ogni disposizione idonea ad assicurare che le operazioni di transito si svolgano nel piu' breve tempo possibile e, comunque, entro ventiquattro ore, avvalendosi di appositi punti di contatto presso gli aeroporti.
 
+2.
+                    
+                        
+                            La Direzione centrale, nel limite delle risorse umane, strumentali e finanziarie disponibili sulla base della legislazione vigente e nel rispetto delle norme internazionali, previe consultazioni reciproche con l'Autorita' centrale richiedente, stabilisce e fornisce tutte le misure di sostegno necessarie dall'atterraggio fino alla partenza del cittadino di un Paese terzo e in particolare:
+ 
+                        
+                        
+                            a)
+                            
+                                l'attesa del cittadino di un Paese terzo all'aeromobile e l'accompagnamento nella zona aeroportuale di transito, fino al volo di connessione;
+
+                            
+                        
+                        
+                            b)
+                            
+                                il vitto per il cittadino di un Paese terzo e, eventualmente, per i componenti della scorta;
+
+                            
+                        
+                        
+                            c)
+                            
+                                la presa in consegna, la conservazione e l'inoltro dei documenti di viaggio, specie in caso di espulsione senza scorta;
+
+                            
+                        
+                        
+                            d)
+                            
+                                nei casi di transito senza scorta, la comunicazione all'Autorita' richiedente del luogo e dell'ora di partenza del cittadino di un Paese terzo dal territorio dello Stato;
+
+                            
+                        
+                        
+                            e)
+                            
+                                la comunicazione all'Autorita' richiedente di eventuali incidenti gravi verificatisi durante il transito.
+
 In ogni caso, sono garantite al cittadino di un Paese terzo ed ai componenti della scorta le cure urgenti o, comunque, essenziali.
 
 Qualora le modalita' del transito lo richiedano, e per il tempo strettamente necessario, il cittadino di un Paese terzo e' collocato, in attesa della partenza, nei locali adibiti ad ufficio di pubblica sicurezza o, ove consentito, negli appositi spazi della zona sterile aeroportuale.
@@ -70,6 +187,38 @@ Fatto salvo quanto disposto dall'articolo 7, comma 2, qualora non sia possibile 
 Le spese per le prestazioni di cui ai commi 2, lettera b), e 3, nonche' ogni altra spesa eventualmente conseguente alle misure di sostegno fornite e adeguatamente documentate, sono a carico dello Stato richiedente.
 
 ## Art. 7. — Obbligo di riammissione
+
+1.
+                    
+                        
+                            Il cittadino di un Paese terzo, per il quale la Direzione centrale ha presentato richiesta di transito per via aerea, e' riammesso sul territorio nazionale qualora:
+ 
+                        
+                        
+                            a)
+                            
+                                l'autorizzazione al transito per via aerea sia stata rifiutata o ritirata;
+
+                            
+                        
+                        
+                            b)
+                            
+                                il cittadino di un Paese terzo sia uscito, senza autorizzazione, dalla zona aeroportuale di transito;
+
+                            
+                        
+                        
+                            c)
+                            
+                                l'espulsione del cittadino di un Paese terzo in un altro Paese di transito o nel Paese di destinazione o l'imbarco sul volo di connessione siano falliti;
+
+                            
+                        
+                        
+                            d)
+                            
+                                non sia stato possibile, per qualsiasi motivo, condurre a termine le operazioni di transito con la partenza del cittadino di un Paese terzo per un altro Paese di transito ovvero per il Paese di destinazione.
 
 Qualora non sia stato possibile effettuare il transito di un cittadino di un Paese terzo nel territorio nazionale, la Direzione centrale presta l'assistenza necessaria per la riammissione dello stesso nel territorio dello Stato richiedente. Le spese del viaggio di ritorno sono a carico dello Stato richiedente.
 

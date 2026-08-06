@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
 vigenza_date: 2021-07-31
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:31Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -33,6 +33,31 @@ Sulla proposta del Ministro delle politiche agricole e forestali, di concerto co
 Ai fini dell'applicazione della normativa statale, e' imprenditore agricolo professionale (IAP) colui il quale, in possesso di conoscenze e competenze professionali ai sensi dell'articolo 5 del regolamento (CE) n. 1257/1999 del Consiglio, del 17 maggio 1999, dedichi alle attivita' agricole di cui all'articolo 2135 del codice civile, direttamente o in qualita' di socio di societa', almeno il cinquanta per cento del proprio tempo di lavoro complessivo e che ricavi dalle attivita' medesime almeno il cinquanta per cento del proprio reddito globale da lavoro. Le pensioni di ogni genere, gli assegni ad esse equiparati, le indennita' e le somme percepite per l'espletamento di cariche pubbliche, ovvero in, associazioni ed altri enti operanti nel settore agricolo, sono escluse dal computo del reddito globale da lavoro. Nel caso delle societa' di persone e cooperative, ivi incluse le cooperative di lavoro, l'attivita' svolta dai soci nella societa', in presenza dei requisiti di conoscenze e competenze professionali, tempo lavoro e reddito di cui al primo periodo, e' idonea a far acquisire ai medesimi la qualifica di imprenditore agricolo professionale e al riconoscimento dei requisiti per i soci lavoratori. Nel caso di societa' di capitali, l'attivita' svolta dagli amministratori nella societa', in presenza dei predetti requisiti di conoscenze e competenze professionali, tempo lavoro e reddito, e' idonea a far acquisire ai medesimi amministratori la qualifica di imprenditore agricolo professionale. Per l'imprenditore che operi nelle zone svantaggiate di cui all'articolo 17 del citato regolamento (CE) n. 1257/1999, i requisiti di cui al presente comma sono ridotti al venticinque per cento.
 
 Le regioni accertano ad ogni effetto il possesso dei requisiti di cui al comma 1. ((L'accertamento eseguito da una regione ha efficacia in tutto il territorio nazionale)). E' fatta salva la facolta' dell'Istituto nazionale di previdenza sociale (INPS) di svolgere, ai fini previdenziali, le verifiche ritenute necessarie ai sensi del decreto del Presidente della Repubblica 7 dicembre 2001, n. 476.
+
+3.
+                        
+                            
+                                Le societa' di persone, cooperative e di capitali, anche a scopo consortile, sono considerate imprenditori agricoli professionali qualora lo statuto preveda quale oggetto sociale l'esercizio esclusivo delle attivita' agricole di cui all'articolo 2135 del codice civile e siano in possesso dei seguenti requisiti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    nel caso di societa' di persone qualora almeno un socio sia in possesso della qualifica di imprenditore agricolo professionale. Per le societa' in accomandita la qualifica si riferisce ai soci accomandatari; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    LETTERA SOPPRESSA DAL D.LGS. 27 MAGGIO 2005, N. 101; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    nel caso di societa' di capitali o cooperative, quando almeno un amministratore che sia anche socio per le societa' cooperative, sia in possesso della qualifica di imprenditore agricolo professionale.
 
 La qualifica di imprenditore agricolo professionale puo' essere apportata da parte dell'amministratore ad una sola societa'.
 
@@ -235,6 +260,37 @@ I rapporti di lavoro instaurati dai soggetti che svolgono le attivita', di cui a
 Al decreto del Presidente della Repubblica 29 settembre 1973, n. 600, dopo l'articolo 18-bis, e' inserito il seguente:
  "Art. 18-ter (Scritture contabili per le altre attivita' agricole).
 - 1. I soggetti che si avvalgono dei regimi di cui all'articolo 56-bis del decreto del Presidente della Repubblica 22 dicembre 1986, n. 917, ed all'articolo 5 della legge 31 dicembre 1991, n. 413, devono tenere esclusivamente i registri previsti dal decreto del Presidente della Repubblica 26 ottobre 1972, n. 633.".
+
+2.
+                        
+                            
+                                All'articolo 2, comma 6, della legge 24 dicembre 2003, n. 350, sono apportate le seguenti modificazioni:
+ 
+                            
+                            
+                                a)
+                                
+                                    alla lettera a), l'alinea e' sostituito dal seguente: "all'articolo 32, comma 2, la lettera c) e' sostituita dalla seguente:";
+
+                                
+                            
+                            
+                                b)
+                                
+                                    alla lettera b):
+ 1) l'alinea e' sostituito dal seguente: "dopo l'articolo 56 e' inserito il seguente:";
+ 2) al primo capoverso le parole: "Art. 78-bis" sono sostituite dalle seguenti: "Art. 56-bis" e le parole: "articolo 29" sono sostituite dalle seguenti: "articolo 32";
+ 3) al secondo capoverso le parole: "articolo 29" sono sostituite dalle seguenti: "articolo 32";
+ 4) al quarto capoverso le parole: "articolo 87" sono sostituite dalle seguenti: "articolo 73";
+
+                                
+                            
+                            
+                                c)
+                                
+                                    alla lettera c):
+ 1) l'alinea e' sostituito dal seguente: "all'articolo 71, e' aggiunto, in fine, il seguente comma:";
+ 2) al primo capoverso, primo periodo, le parole: "articolo 81" sono sostituite dalle seguenti: "articolo 67" e le parole: "dell'articolo 78-bis" sono sostituite dalle seguenti: "dell'articolo 56-bis".
 
 ## Art. 16. — Crediti in discussione presso la Camera arbitrale
 

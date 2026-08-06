@@ -10,7 +10,7 @@ source: normattiva-opendata
 collection: Atti di recepimento direttive UE
 vigenza_date: 2017-12-12
 zip_date: 2026-07-30
-fetched_at: 2026-08-02T09:40:47Z
+fetched_at: 2026-07-30
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -34,13 +34,237 @@ Sulla proposta dei Ministri per le politiche comunitarie, per la funzione pubbli
 
 ((
 
+1.
+                        
+                            
+                                Il presente regolamento, quando non diversamente specificato, si applica agli ascensori in servizio permanente negli edifici e nelle costruzioni destinati al trasporto: 
+ 
+                            
+                            
+                                a)
+                                
+                                    di persone; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    di persone e cose; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    soltanto di cose, se il supporto del carico e' accessibile, ossia se una persona puo' entrarvi senza difficolta', ed e' munito di comandi situati all'interno del supporto del carico o a portata di una persona all'interno del supporto del carico.
+
 Il presente regolamento si applica inoltre ai componenti di sicurezza per ascensori elencati nell'allegato III utilizzati negli ascensori di cui al comma 1.
+
+3.
+                        
+                            
+                                Sono esclusi dall'ambito di applicazione del presente regolamento: 
+ 
+                            
+                            
+                                a)
+                                
+                                    gli apparecchi di sollevamento la cui velocita' di spostamento non supera 0,15 m/s; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    gli ascensori da cantiere; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    gli impianti a fune, comprese le funicolari; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    gli ascensori appositamente progettati e costruiti a fini militari o di mantenimento dell'ordine; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    gli apparecchi di sollevamento dai quali possono essere effettuati lavori; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    gli ascensori utilizzati nei pozzi delle miniere; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    gli apparecchi di sollevamento destinati al sollevamento di artisti durante le rappresentazioni; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    gli apparecchi di sollevamento installati in mezzi di trasporto; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    gli apparecchi di sollevamento collegati ad una macchina e destinati esclusivamente all'accesso ai posti di lavoro, compresi i punti di manutenzione e ispezione delle macchine; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    i treni a cremagliera; 
+
+                                
+                            
+                            
+                                m)
+                                
+                                    le scale mobili e i marciapiedi mobili.
 
 Se per un ascensore o per un componente di sicurezza per ascensori i rischi di cui al presente regolamento sono previsti, in tutto o in parte, da una normativa specifica dell'Unione o dalle relative norme nazionali di attuazione, il presente regolamento non si applica o cessa di applicarsi a questi ascensori o componenti di sicurezza per ascensori e a questi rischi non appena diventa applicabile tale normativa specifica dell'Unione o le relative norme nazionali di attuazione.
 
 ## Art. 2. — (( (Definizioni).))
 
 ((
+
+1.
+                        
+                            
+                                Ai fini del presente regolamento si intende per: 
+ 
+                            
+                            
+                                a)
+                                
+                                    "ascensore": un apparecchio di sollevamento che collega piani definiti, mediante un supporto del carico che si sposta lungo guide rigide e la cui inclinazione sull'orizzontale e' superiore a 15 gradi o un apparecchio di sollevamento che si sposta lungo un percorso perfettamente definito nello spazio, pur non spostandosi lungo guide rigide; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    "supporto del carico": la parte dell'ascensore che sorregge le persone o le cose per sollevarle o abbassarle; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    "ascensore modello": un ascensore rappresentativo la cui documentazione tecnica indica come saranno rispettati i requisiti essenziali di salute e di sicurezza di cui all'allegato I negli ascensori derivati dell'ascensore modello, definito in base a parametri oggettivi e che utilizza componenti di sicurezza per ascensori identici; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    "messa a disposizione sul mercato": la fornitura di un componente di sicurezza per ascensori per la distribuzione o l'uso sul mercato dell'Unione nel corso di un'attivita' commerciale, a titolo oneroso o gratuito; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    "immissione sul mercato": 
+ 1) la prima messa a disposizione sul mercato di un componente di sicurezza per ascensori; oppure 
+ 2) la fornitura di un ascensore per l'uso sul mercato dell'Unione nel corso di un'attivita' commerciale, a titolo oneroso o gratuito; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    "installatore": la persona fisica o giuridica che si assume la responsabilita' della progettazione, della fabbricazione, dell'installazione e dell'immissione sul mercato dell'ascensore; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    "fabbricante": la persona fisica o giuridica che fabbrica un componente di sicurezza per ascensori o lo fa progettare o fabbricare, e lo commercializza apponendovi il proprio nome o marchio commerciale; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    "rappresentante autorizzato": una persona fisica o giuridica stabilita nell'Unione che ha ricevuto da un installatore o un fabbricante un mandato scritto che la autorizza ad agire a suo nome in relazione a compiti specificati; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    "importatore": la persona fisica o giuridica stabilita nell'Unione che immette sul mercato dell'Unione un componente di sicurezza per ascensori originario di un Paese terzo; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    "distributore": la persona fisica o giuridica presente nella catena di fornitura, diversa dal fabbricante o dall'importatore, che mette a disposizione sul mercato un componente di sicurezza per ascensori; 
+
+                                
+                            
+                            
+                                m)
+                                
+                                    "operatori economici": l'installatore, il fabbricante, il rappresentante autorizzato, l'importatore e il distributore; 
+
+                                
+                            
+                            
+                                n)
+                                
+                                    "specifica tecnica": un documento che prescrive i requisiti tecnici che un ascensore o un componente di sicurezza per ascensori deve soddisfare; 
+
+                                
+                            
+                            
+                                o)
+                                
+                                    "norma armonizzata": la norma armonizzata di cui all'articolo 2, punto 1), lettera c), del regolamento (UE) n. 1025/2012; 
+
+                                
+                            
+                            
+                                p)
+                                
+                                    "accreditamento": accreditamento quale definito all'articolo 2, punto 10), del regolamento (CE) n. 765/2008; 
+ r) "organismo nazionale di accreditamento": organismo nazionale di accreditamento di cui all'articolo 2, punto 11), del regolamento (CE) n. 765/2008; 
+ s) "valutazione della conformita'": il processo atto a dimostrare il rispetto dei requisiti essenziali di salute e di sicurezza del presente regolamento relativi a un ascensore o a un componente di sicurezza per ascensori; 
+ t) "organismo di valutazione della conformita'": un organismo che svolge attivita' di valutazione della conformita', fra cui tarature, prove, certificazioni e ispezioni; 
+ u) "richiamo": in relazione a un ascensore qualsiasi misura volta a ottenere lo smantellamento e lo smaltimento in sicurezza di un ascensore; in relazione a un componente di sicurezza per ascensori qualsiasi misura volta a ottenere la restituzione di un componente di sicurezza per ascensori che e' gia' stato messo a disposizione dell'installatore o dell'utilizzatore finale; 
+ v) "ritiro": qualsiasi misura volta a impedire la messa a disposizione sul mercato di un componente di sicurezza per ascensori nella catena di approvvigionamento; 
+ z) "normativa di armonizzazione dell'Unione": la normativa dell'Unione che armonizza le condizioni di commercializzazione dei prodotti; 
+ aa) "marcatura CE": una marcatura mediante la quale l'installatore o il fabbricante indica che l'ascensore o il componente di sicurezza per ascensori e' conforme ai requisiti applicabili stabiliti nella normativa di armonizzazione dell'Unione che ne prevede l'apposizione; 
+ bb) "montacarichi": un apparecchio di sollevamento a motore, di portata non inferiore a 25 kg, che collega piani definiti mediante un supporto del carico che si sposta lungo guide rigide, o che si sposta lungo un percorso perfettamente definito nello spazio, e la cui inclinazione sull'orizzontale e' superiore a 15 gradi, destinato al trasporto di sole cose, inaccessibile alle persone o, se accessibile, non munito di comandi situati all'interno del supporto del carico o a portata di una persona all'interno del supporto del carico; 
+ cc) "modifiche costruttive non rientranti nell'ordinaria o straordinaria manutenzione", in particolare: 
+ 1) il cambiamento della velocita'; 
+ 2) il cambiamento della portata; 
+ 3) il cambiamento della corsa; 
+ 4) il cambiamento del tipo di azionamento, quali quello idraulico o elettrico; 
+ 5) la sostituzione del macchinario, del supporto del carico con la sua intelaiatura, del quadro elettrico, del gruppo cilindro-pistone, delle porte di piano, delle difese del vano e di altri componenti principali.
 
 ## Art. 3. — (( (Libera circolazione, immissione sul mercato, messa a disposizione sul mercato e messa in servizio).))
 
@@ -125,6 +349,31 @@ I fabbricanti, a seguito di una richiesta motivata di un'autorita' nazionale com
 
 Il fabbricante o l'installatore puo' nominare, mediante mandato scritto, un rappresentante autorizzato. Gli obblighi di cui all'articolo 4-bis, comma 1, o all'articolo 4-ter, comma 1, e l'obbligo di redigere la documentazione tecnica di cui all'articolo 4-bis, comma 2, o all'articolo 4-ter, comma 2, non rientrano nel mandato del rappresentante autorizzato.
 
+2.
+                        
+                            
+                                Il rappresentante autorizzato esegue i compiti specificati nel mandato ricevuto dal fabbricante o dall'installatore. Il mandato consente al rappresentante autorizzato di eseguire almeno i seguenti compiti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    mantenere a disposizione delle autorita' nazionali di vigilanza la dichiarazione di conformita' UE e, se del caso, l'approvazione o le approvazioni relative al sistema di qualita' del fabbricante o dell'installatore e la documentazione tecnica per un periodo di dieci anni dalla data in cui il componente di sicurezza per ascensori o l'ascensore e' stato immesso sul mercato; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    a seguito di una richiesta motivata di un'autorita' nazionale competente, fornire a tale autorita' tutte le informazioni e la documentazione necessarie per dimostrare la conformita' dei componenti di sicurezza per ascensori o dell'ascensore; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    cooperare con le autorita' nazionali competenti, su loro richiesta, a qualsiasi azione intrapresa per eliminare i rischi presentati dal componente di sicurezza per ascensori o dall'ascensore che rientra nel mandato del rappresentante autorizzato.
+
 ))
 
 ## Art. 4-quinquies. — (( (Obblighi degli importatori).))
@@ -180,6 +429,24 @@ Un importatore o distributore e' ritenuto un fabbricante ai fini del presente re
 
 ((
 
+1.
+                        
+                            
+                                Gli operatori economici indicano alle autorita' di vigilanza del mercato che ne facciano richiesta: 
+ 
+                            
+                            
+                                a)
+                                
+                                    qualsiasi operatore economico che abbia fornito loro un componente di sicurezza per ascensori; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    qualsiasi operatore economico cui abbiano fornito un componente di sicurezza per ascensori.
+
 Gli operatori economici devono essere in grado di presentare le informazioni di cui al primo comma per dieci anni dal momento in cui e' stato loro fornito un componente di sicurezza per ascensori e per dieci anni dal momento in cui essi hanno fornito un componente di sicurezza per ascensori.
 
 ))
@@ -196,9 +463,72 @@ Gli ascensori e i componenti di sicurezza per ascensori che sono conformi alle n
 
 ((
 
+1.
+                        
+                            
+                                I componenti di sicurezza per ascensori sono sottoposti a una delle seguenti procedure di valutazione della conformita': 
+ 
+                            
+                            
+                                a)
+                                
+                                    il modello del componente di sicurezza per ascensori e' sottoposto all'esame UE del tipo di cui all'allegato IV, parte A, e la conformita' al tipo e' assicurata mediante il controllo per campione del componente di sicurezza per ascensori di cui all'allegato IX; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il modello del componente di sicurezza per ascensori e' sottoposto all'esame UE del tipo di cui all'allegato IV, parte A, e ad esso si applica la conformita' al tipo basata sulla garanzia della qualita' del prodotto conformemente all'allegato VI; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    conformita' basata sulla garanzia della qualita' totale di cui all'allegato VII.
+
 ## Art. 6-bis. — (( (Procedure di valutazione della conformita' degli ascensori).))
 
 ((
+
+1.
+                        
+                            
+                                Gli ascensori sono sottoposti a una delle seguenti procedure di valutazione della conformita': 
+ 
+                            
+                            
+                                a)
+                                
+                                    qualora siano stati progettati e fabbricati in conformita' a un ascensore modello sottoposto all'esame UE del tipo di cui all'allegato IV, parte B: 
+ 1) l'esame finale per ascensori di cui all'allegato V; 
+ 2) la conformita' al modello basata sulla garanzia della qualita' del prodotto per ascensori di cui all'allegato X; 
+ 3) la conformita' al modello basata sulla garanzia della qualita' della produzione per ascensori di cui all'allegato XII. 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    qualora siano stati progettati e fabbricati secondo un sistema di qualita' approvato in conformita' all'allegato XI: 
+ 1) l'esame finale per ascensori di cui all'allegato V; 
+ 2) la conformita' al modello basata sulla garanzia della qualita' del prodotto per ascensori di cui all'allegato X; 
+ 3) la conformita' al modello basata sulla garanzia della qualita' della produzione per ascensori di cui all'allegato XII. 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    la conformita' basata sulla verifica dell'unita' per ascensori di cui all'allegato VIII; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    la conformita' basata sulla garanzia totale di qualita' e sull'esame del progetto per ascensori di cui all'allegato XI.
 
 Nei casi di cui al comma 1, lettere a) e b), qualora la persona responsabile della progettazione e della fabbricazione dell'ascensore e la persona responsabile dell'installazione e della prova dell'ascensore non corrispondano, la prima fornisce alla seconda tutti i documenti e le informazioni necessari affinche' quest'ultima possa garantire che l'ascensore venga installato e sottoposto a prova correttamente e in sicurezza.
 
@@ -229,6 +559,56 @@ Con la dichiarazione di conformita' UE il fabbricante si assume la responsabilit
 La marcatura CE e' soggetta ai principi generali esposti all'articolo 30 del regolamento (CE) n. 765/2008.
 
 La marcatura CE e' apposta in modo visibile, leggibile e indelebile in ogni cabina di ascensore e su ciascun componente di sicurezza per ascensori o, se cio' non e' possibile, su un'etichetta fissata al componente di sicurezza per ascensori. La marcatura CE e' apposta sull'ascensore o sul componente di sicurezza per ascensori prima della loro immissione sul mercato.
+
+3.
+                        
+                            
+                                La marcatura CE sugli ascensori e' seguita dal numero di identificazione dell'organismo notificato che ha partecipato a una qualsiasi delle seguenti procedure di valutazione della conformita': 
+ 
+                            
+                            
+                                a)
+                                
+                                    l'esame finale di cui all'allegato V; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la verifica dell'unita' di cui all'allegato VIII; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    la garanzia della qualita' di cui agli allegati X, XI o XII.
+
+4.
+                        
+                            
+                                La marcatura CE sui componenti di sicurezza per ascensori e' seguita dal numero di identificazione dell'organismo notificato che ha partecipato a una qualsiasi delle seguenti procedure di valutazione della conformita': 
+ 
+                            
+                            
+                                a)
+                                
+                                    la garanzia della qualita' del prodotto di cui all'allegato VI; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la garanzia totale di qualita' di cui all'allegato VII; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    la conformita' al tipo con controllo per campione per componenti di sicurezza per ascensori di cui all'allegato IX.
 
 Il numero di identificazione dell'organismo notificato e' apposto dall'organismo stesso o, in base alle sue istruzioni, dal fabbricante o dal suo rappresentante autorizzato, oppure dall'installatore o dal suo rappresentante autorizzato. La marcatura CE e il numero di identificazione dell'organismo notificato possono essere seguiti da qualsiasi altra marcatura che indichi un rischio o un impiego particolare.
 
@@ -274,6 +654,24 @@ Qualora l'operatore economico interessato non prenda le misure correttive adegua
 
 Il Ministero dello sviluppo economico informa immediatamente la Commissione e gli altri Stati membri circa le misure di cui ai commi 8 e 9. Il Ministero dello sviluppo economico comunica i provvedimenti di cui al presente articolo al Ministero del lavoro e delle politiche sociali ed agli organi segnalanti la presunta non conformita'.
 
+11.
+                        
+                            
+                                Le informazioni di cui al primo periodo del comma 10, includono tutti i particolari disponibili, soprattutto i dati necessari all'identificazione dell'ascensore o del componente di sicurezza per ascensori non conforme, la sua origine, la natura della presunta non conformita' e dei rischi connessi, la natura e la durata delle misure nazionali adottate, nonche' gli argomenti espressi dagli operatori economici interessati. In particolare, il Ministero dello sviluppo economico indica se l'inadempienza sia dovuta: 
+ 
+                            
+                            
+                                a)
+                                
+                                    alla non conformita' dell'ascensore o del componente di sicurezza per ascensori dei requisiti essenziali di salute e di sicurezza di cui al presente regolamento; oppure 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    alle carenze nelle norme armonizzate di cui all'articolo 5, che conferiscono la presunzione di conformita'.
+
 Il Ministero dello sviluppo economico, quando la procedura a norma dell'articolo 38 della direttiva 2014/33/UE e' stata avviata dall'autorita' di un altro Stato membro, informa immediatamente la Commissione e gli altri Stati membri di tutti i provvedimenti adottati, di tutte le altre informazioni a sua disposizione sulla non conformita' dell'ascensore o del componente di sicurezza per ascensori interessato e, in caso di disaccordo con la misura nazionale adottata, delle sue obiezioni.
 
 Il Ministero dello sviluppo economico tiene conto nello svolgimento della propria attivita', sia per le proprie misure provvisorie che per quelle assunte da autorita' di altri Stati membri che qualora, entro tre mesi dal ricevimento delle informazioni di cui al comma 9, uno Stato membro o la Commissione non sollevino obiezioni contro la misura provvisoria presa da uno Stato membro, tale misura e' ritenuta giustificata.
@@ -314,6 +712,72 @@ Il Ministero dello sviluppo economico cura, ove necessario, l'attuazione degli a
 
 ((
 
+1.
+                        
+                            
+                                Fatto salvo l'articolo 8-bis, se il Ministero dello sviluppo economico giunge a una delle seguenti conclusioni, chiede all'operatore economico interessato di porre fine allo stato di non conformita' in questione: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la marcatura CE e' stata apposta in violazione dell'articolo 30 del regolamento (CE) n. 765/2008 o dell'articolo 7 del presente regolamento; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la marcatura CE non e' stata apposta; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il numero di identificazione dell'organismo notificato e' stato apposto in violazione dell'articolo 7 o non e' stato apposto, pur essendo necessario a norma dell'articolo 7; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    non e' stata compilata la dichiarazione di conformita' UE;
+                                
+                            
+                            
+                                e)
+                                
+                                    non e' stata compilata correttamente la dichiarazione di conformita' UE; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    la documentazione tecnica di cui all'allegato IV, parti A e B, e agli allegati VII, VIII e XI non e' disponibile o e' incompleta; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    il nome, la denominazione commerciale registrata o il marchio registrato o l'indirizzo dell'installatore, del fabbricante o dell'importatore non e' stato indicato conformemente all'articolo 4-bis, comma 6, all'articolo 4-ter, comma 6, o all'articolo 4-quinquies, comma 3; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    le informazioni necessarie all'identificazione degli ascensori o dei componenti di sicurezza per ascensori non sono state indicate conformemente all'articolo 4-bis, comma 5, o all'articolo 4-ter, comma 5; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    l'ascensore o il componente di sicurezza per ascensori non e' accompagnato dai documenti di cui all'articolo 4-bis, comma 7, o all'articolo 4-ter, comma 7, o tali documenti non soddisfano i requisiti applicabili.
+
 Se la non conformita' di cui al comma 1 permane, il Ministero dello sviluppo economico adotta le adeguate misure per limitare o vietare l'utilizzo dell'ascensore o per ritirarlo dal mercato, o per limitare o vietare la disponibilita' sul mercato del componente di sicurezza per ascensori o per garantire che sia richiamato o ritirato dal mercato, e ne informa il Ministero del lavoro e delle politiche sociali.
 
 ))
@@ -329,6 +793,52 @@ L'accreditamento degli organismi di valutazione della conformita' di cui al comm
 Le modalita' di svolgimento dell'attivita' di cui al primo periodo del comma 2 ed i connessi rapporti fra l'organismo unico nazionale di accreditamento e il Ministero dello sviluppo economico ed il Ministero del lavoro e delle politiche sociali, sono regolati con apposita convenzione o protocollo di intesa, senza oneri per i Ministeri interessati. L'organismo nazionale di accreditamento rispetta comunque per quanto applicabili le prescrizioni di cui al comma 5 ed adotta soluzioni idonee a coprire la responsabilita' civile connessa alle proprie attivita'.
 
 Il Ministero dello sviluppo economico assume piena responsabilita' per i compiti svolti dall'organismo di cui al comma 3.
+
+5.
+                        
+                            
+                                Il Ministero dello sviluppo economico, anche nella qualita' di autorita' di notifica, il Ministero del lavoro e delle politiche sociali ai fini dell'attivita' di autorizzazione, nonche' l'organismo nazionale di accreditamento, ai fini dell'attivita' di valutazione e controllo, organizzano e gestiscono le relative attivita' nel rispetto delle seguenti prescrizioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    in modo che non sorgano conflitti d'interesse con gli organismi di valutazione della conformita'; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    in modo che sia salvaguardata l'obiettivita' e l'imparzialita' delle proprie attivita'; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    in modo che ogni decisione relativa alla notifica di un organismo di valutazione della conformita' sia presa da persone competenti diverse da quelle che hanno effettuato la valutazione; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    non offrendo e non effettuando attivita' eseguite dagli organismi di valutazione della conformita' o servizi di consulenza commerciali o su base concorrenziale; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    salvaguardando la riservatezza delle informazioni ottenute; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    assegnando a tali attivita' un numero di dipendenti competenti sufficiente per l'adeguata esecuzione dei suoi compiti.
 
 Il Ministero dello sviluppo economico informa la Commissione europea delle procedure adottate per la valutazione e la notifica degli organismi di valutazione della conformita' e per il controllo degli organismi notificati, nonche' di qualsiasi modifica delle stesse.
 
@@ -349,6 +859,65 @@ Cio' non esclude la possibilita' di uno scambio di informazioni tecniche fra il 
 L'organismo di valutazione della conformita', i suoi alti dirigenti e il personale addetto alla valutazione della conformita' non intervengono direttamente nella progettazione, nella fabbricazione o nella costruzione, nella commercializzazione, nell'installazione, nell'utilizzo o nella manutenzione di tali ascensori o componenti di sicurezza per ascensori, ne' rappresentano i soggetti impegnati in tali attivita'. Non intraprendono alcuna attivita' che possa essere in conflitto con la loro indipendenza di giudizio o la loro integrita' per quanto riguarda le attivita' di valutazione della conformita' per cui sono notificati. Cio' vale in particolare per i servizi di consulenza. L'organismo di valutazione della conformita' garantisce che le attivita' delle sue affiliate o dei suoi subappaltatori non si ripercuotano sulla riservatezza, sull'obiettivita' o sull'imparzialita' delle sue attivita' di valutazione della conformita'.
 
 L'organismo di valutazione della conformita' e il suo personale eseguono le operazioni di valutazione della conformita' con il massimo dell'integrita' professionale e della competenza tecnica richiesta nel campo specifico e sono liberi da qualsivoglia pressione o incentivo, soprattutto di ordine finanziario, che possa influenzare il loro giudizio o i risultati delle loro attivita' di valutazione, in particolare da persone o gruppi di persone interessati ai risultati di tali attivita'.
+
+6.
+                        
+                            
+                                L'organismo di valutazione della conformita' e' in grado di eseguire tutti i compiti di valutazione della conformita' assegnatigli in base agli allegati da IV a XII e per cui e' stato notificato, indipendentemente dal fatto che siano eseguiti dall'organismo stesso o per suo conto e sotto la sua responsabilita'.
+In ogni momento, per ogni procedura di valutazione della conformita' e per ogni tipo o categoria di ascensori o di componenti di sicurezza per ascensori per i quali e' stato notificato, l'organismo di valutazione della conformita' dispone: 
+ 
+                            
+                            
+                                a)
+                                
+                                    di personale con conoscenze tecniche ed esperienza sufficiente e appropriata per eseguire i compiti di valutazione della conformita'; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    delle necessarie descrizioni delle procedure in conformita' delle quali avviene la valutazione della conformita', garantendo la trasparenza e la capacita' di riproduzione di tali procedure; una politica e procedure appropriate che distinguano i compiti che svolge in qualita' di organismo notificato dalle altre attivita'; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    delle procedure per svolgere le attivita' che tengono debitamente conto delle dimensioni di un'impresa, del settore in cui opera, della sua struttura, del grado di complessita' della tecnologia del prodotto in questione e della natura di massa o seriale del processo produttivo.
+
+7.
+                        
+                            
+                                L'organismo di valutazione della conformita' dispone dei mezzi necessari per eseguire in modo appropriato i compiti tecnici e amministrativi connessi alle attivita' di valutazione della conformita' e ha accesso a tutti gli strumenti o impianti occorrenti.
+Il personale responsabile dell'esecuzione dei compiti di valutazione della conformita' dispone di quanto segue: 
+ 
+                            
+                            
+                                a)
+                                
+                                    una formazione tecnica e professionale solida che includa tutte le attivita' di valutazione della conformita' in relazione alle quali l'organismo di valutazione della conformita' e' stato notificato; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    soddisfacenti conoscenze delle prescrizioni relative alle valutazioni che esegue e un'adeguata autorita' per eseguire tali valutazioni; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    una conoscenza e una comprensione adeguate dei requisiti essenziali di salute e di sicurezza di cui all'allegato I, delle norme armonizzate applicabili e delle disposizioni pertinenti della normativa di armonizzazione dell'Unione e della pertinente legislazione nazionale; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    la capacita' di elaborare certificati, registri e rapporti atti a dimostrare che le valutazioni sono state eseguite.
 
 E' garantita l'imparzialita' degli organismi di valutazione della conformita', dei loro alti dirigenti e del personale addetto alla valutazione della conformita'. La remunerazione degli alti dirigenti e del personale addetto alla valutazione della conformita' di un organismo di valutazione della conformita' non dipende dal numero di valutazioni eseguite o dai risultati di tali valutazioni.
 
@@ -423,6 +992,38 @@ Ferma la tutela giurisdizionale avverso le decisioni degli organismi notificati,
 
 ((
 
+1.
+                        
+                            
+                                Gli organismi notificati informano il Ministero dello sviluppo economico, il Ministero del lavoro e delle politiche sociali e l'organismo nazionale di accreditamento: 
+ 
+                            
+                            
+                                a)
+                                
+                                    di qualunque rifiuto, limitazione, sospensione o ritiro di un certificato o di un'approvazione; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    di qualunque circostanza che possa influire sull'ambito o sulle condizioni della notifica; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    di eventuali richieste di informazioni che abbiano ricevuto dalle autorita' di vigilanza del mercato in relazione alle attivita' di valutazione della conformita'; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    su richiesta, delle attivita' di valutazione della conformita' eseguite nell'ambito della loro notifica e di qualsiasi altra attivita', incluse quelle transfrontaliere e di subappalto.
+
 Gli organismi notificati forniscono agli altri organismi notificati a norma della direttiva attuata con il presente regolamento, le cui attivita' di valutazione della conformita' coprono il medesimo tipo di ascensori o i medesimi componenti di sicurezza per ascensori, informazioni pertinenti sulle questioni relative ai risultati negativi e, su richiesta, positivi delle valutazioni della conformita'.
 
 Gli organismi notificati partecipano, direttamente o mediante rappresentanti designati, al sistema di coordinamento e di cooperazione tra organismi notificati istituito dalla Commissione europea a norma della direttiva attuata con il presente regolamento ed ai lavori del relativo gruppo settoriale di organismi notificati.
@@ -441,9 +1042,94 @@ Le prescrizioni del presente Capo, necessarie per garantire la protezione delle 
 
 Le disposizioni del presente capo si applicano agli ascensori e ai montacarichi, nonche' agli apparecchi di sollevamento rispondenti alla definizione di ascensore la cui velocita' di spostamento non supera 0,15 m/s,.
 
+2.
+                        
+                            
+                                Le disposizioni di cui al presente capo, non si applicano agli ascensori, ai montacarichi e agli apparecchi di sollevamento rispondenti alla definizione di ascensore la cui velocita' di spostamento non supera 0,15 m/s: 
+ 
+                            
+                            
+                                a)
+                                
+                                    per miniere e per navi; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    aventi corsa inferiore a 2 m; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    azionati a mano; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    che non sono installati stabilmente; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    che sono montacarichi con portata pari o inferiore a 25 kg.
+
 ## Art. 12. — Messa in esercizio degli ascensori e montacarichi
 
 La messa in esercizio degli ascensori, montacarichi e apparecchi di sollevamento rispondenti alla definizione di ascensore la cui velocita' di spostamento non supera 0,15 m/s e' soggetta a comunicazione, da parte del proprietario o del suo legale rappresentante, al comune competente per territorio o alla provincia autonoma competente secondo il proprio statuto.
+
+2.
+                        
+                            
+                                La comunicazione di cui al comma 1, da effettuarsi entro ((sessanta giorni)) dalla data della dichiarazione di conformita' dell'impianto di cui all'articolo ((4-bis, comma 2)), del presente regolamento ovvero all'articolo 3, comma 3, lettera e), del decreto legislativo 27 gennaio 2010, n. 17, contiene: 
+ 
+                            
+                            
+                                a)
+                                
+                                    l'indirizzo dello stabile ove e' installato l'impianto; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la velocita', la portata, la corsa, il numero delle fermate e il tipo di azionamento; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il nominativo o la ragione sociale dell'installatore dell'ascensore o del fabbricante del montacarichi o dell'apparecchio di sollevamento rispondente alla definizione di ascensore la cui velocita' di spostamento non supera 0,15 m/s, ai sensi dell'articolo 3, comma 3, del decreto legislativo 27 gennaio 2010, n. 17; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    la copia della dichiarazione di conformita' di cui all'articolo ((4-bis, comma 2)), del presente regolamento ovvero all'articolo 3, comma 3, lettera e), del decreto legislativo 27 gennaio 2010, n. 17; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    l'indicazione della ditta, abilitata ai sensi del decreto del Ministro dello sviluppo economico 22 gennaio 2008, n. 37, cui il proprietario ha affidato ((la manutenzione dell'impianto, che abbia accettato l'incarico)); 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    l'indicazione del soggetto incaricato di effettuare le ispezioni periodiche sull'impianto, ai sensi dell'articolo 13, comma 1, che abbia accettato l'incarico.
 
 ((
 
@@ -462,6 +1148,45 @@ Ferme restando in capo agli organi competenti le funzioni di controllo ad essi a
 Gli organi deputati al controllo sono tenuti a dare tempestiva comunicazione al comune territorialmente competente dell'inosservanza degli obblighi imposti dal presente regolamento rilevata nell'esercizio delle loro funzioni.
 
 ## Art. 13. — Verifiche periodiche
+
+1.
+                        
+                            
+                                Il proprietario dello stabile, o il suo legale rappresentante, sono tenuti ad effettuare regolari manutenzioni dell'impianto ivi installato, nonche' a sottoporre lo stesso a verifica periodica ogni due anni. Alla verifica periodica degli ascensori, dei montacarichi e degli apparecchi di sollevamento rispondenti alla definizione di ascensore la cui velocita' di spostamento non supera 0,15 m/s provvedono, secondo i rispettivi ordinamenti, a mezzo di tecnici forniti di laurea in ingegneria: 
+ 
+                            
+                            
+                                a)
+                                
+                                    l'azienda sanitaria locale competente per territorio, ovvero, l'ARPA, quando le disposizioni regionali di attuazione della legge 21 gennaio 1994, n. 61, attribuiscono ad essa tale competenza; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la direzione territoriale del lavoro del Ministero del lavoro e delle politiche sociali competente per territorio, per gli impianti installati presso gli stabilimenti industriali o le aziende agricole; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    la direzione generale del trasporto pubblico locale del Ministero delle infrastrutture e dei trasporti, per gli ascensori destinati ai servizi di pubblico trasporto terrestre, come stabilito all'articolo 1, terzo comma, del decreto del Presidente della Repubblica 11 luglio 1980, n. 753; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    gli organismi di certificazione notificati ai sensi del presente regolamento per le valutazioni di conformita' ((di cui all'allegato V o VIII)); 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    gli organismi di ispezione "di tipo A" accreditati, per le verifiche periodiche sugli ascensori, ai sensi della norma UNI CEI EN ISO/IEC 17020:2012, e successive modificazioni, dall'unico organismo nazionale autorizzato a svolgere attivita' di accreditamento ai sensi del regolamento (CE) n. 765/2008.
 
 Il soggetto che ha eseguito la verifica periodica rilascia al proprietario, nonche' alla ditta incaricata della manutenzione, il verbale relativo e, ove negativo, ne comunica l'esito al competente ufficio comunale per i provvedimenti di competenza.
 
@@ -491,6 +1216,63 @@ Ai fini della conservazione dell'impianto e del suo normale funzionamento, il pr
 
 Il manutentore provvede anche alla manovra di emergenza che, in caso di necessita', puo' essere effettuata anche da personale di custodia o altro personale competente, autorizzato dal proprietario o dal suo legale rappresentante e istruito per questo scopo.
 
+3.
+                        
+                            
+                                Il manutentore, al fine di garantire la corretta funzionalita' dell'impianto, esegue interventi di manutenzione tenendo conto delle esigenze dell'impianto stesso e, comunque, provvede periodicamente almeno a: 
+ 
+                            
+                            
+                                a)
+                                
+                                    a verificare il regolare funzionamento dei dispositivi meccanici, idraulici ed elettrici e, in particolare, delle porte dei piani e delle serrature; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    a verificare lo stato di conservazione delle funi e delle catene; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    alle operazioni normali di pulizia e di lubrificazione delle parti.
+
+4.
+                        
+                            
+                                Il manutentore provvede, almeno una volta ogni sei mesi per gli ascensori, compresi gli apparecchi di sollevamento rispondenti alla definizione di ascensore la cui velocita' di spostamento non supera 0.15 m/s, e almeno una volta all'anno per i montacarichi: 
+ 
+                            
+                            
+                                a)
+                                
+                                    a verificare l'integrita' e l'efficienza del paracadute, del limitatore di velocita' e degli altri dispositivi di sicurezza; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    a verificare minutamente le funi, le catene e i loro attacchi; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    a verificare l'isolamento dell'impianto elettrico e l'efficienza dei collegamenti con la terra; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    ad annotare i risultati di queste verifiche sul libretto di cui all'articolo 16.
+
 Il manutentore promuove, altresi', tempestivamente la riparazione e la sostituzione delle parti rotte o logorate, o a verificarne l'avvenuta, corretta, esecuzione.
 
 Il proprietario o il suo legale rappresentante provvedono prontamente alle riparazioni e alle sostituzioni.
@@ -509,6 +1291,45 @@ Nel caso in cui il manutentore rilevi un pericolo in atto, deve fermare l'impian
 I verbali dalle verifiche periodiche e straordinarie debbono essere annotati o allegati in apposito libretto che, oltre ai verbali delle verifiche periodiche e straordinarie e agli esiti delle visite di manutenzione, deve contenere copia delle dichiarazioni di conformita' di cui all'articolo ((4-bis, comma 2)), del presente regolamento ovvero all'articolo 3, comma 3, lettera e) del decreto legislativo 27 gennaio 2010, n. 17, e copia delle comunicazioni del proprietario o suo legale rappresentante al competente ufficio comunale, nonche' copia della comunicazione del competente ufficio comunale al proprietario o al suo legale rappresentante relative al numero di matricola assegnato all'impianto.
 
 Il proprietario o il suo legale rappresentante assicurano la disponibilita' del libretto all'atto delle verifiche periodiche o straordinarie o nel caso del controllo di cui all'articolo 8, comma 1, del presente regolamento ovvero all'articolo 6, comma 1, del decreto legislativo 27 gennaio 2010, n. 17.
+
+3.
+                        
+                            
+                                In ogni supporto del carico devono esporsi, a cura del proprietario o del suo legale rappresentante, le avvertenze per l'uso e una targa recante le seguenti indicazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    soggetto incaricato di effettuare le verifiche periodiche; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    installatore/fabbricante e numero di fabbricazione; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    numero di matricola; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    portata complessiva in chilogrammi; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    se del caso, numero massimo di persone.
 
 ## Art. 17. — D i v i e t i
 
@@ -536,6 +1357,38 @@ Salvo quanto previsto al comma 3, fino alla data del 30 giugno 1999, e' consenti
 Fino alla data del 30 giugno 1999 si intendono legittimamente commercializzati e messi in servizio i componenti di sicurezza conformi alle normative vigenti fino alla data di entrata in vigore del presente regolamento.
 
 ((
+
+3.
+                        
+                            
+                                Gli impianti che alla data di entrata in vigore del presente regolamento sono sprovvisti della certificazione CE di conformita' ovvero della licenza di esercizio, di cui all'articolo 6 della legge 24 ottobre 1942, n. 1415, nonche' gli impianti di cui al comma 1, sono legittimamente messi in servizio se, entro il 30 settembre 2002, il proprietario o il suo legale rappresentante trasmettono al competente ufficio comunale l'esito positivo del collaudo effettuato, ai sensi delle norme vigenti fino alla data di entrata in vigore del presente regolamento:
+ 
+                            
+                            
+                                a)
+                                
+                                    dagli organismi competenti ai sensi della legge 24 ottobre 1942, n. 1415, e dall'Istituto superiore per la prevenzione e la sicurezza del lavoro (ISPESL);
+
+                                
+                            
+                            
+                                b)
+                                
+                                    da un organismo di certificazione di cui all'articolo 9;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    dall'installatore avente il proprio sistema di qualita' certificato, ai sensi del presente regolamento;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    con autocertificazione dell'installatore corredata da perizia giurata di un ingegnere iscritto all'albo.
 
 ))
 

@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
 vigenza_date: 2026-06-12
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:34Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -43,6 +43,84 @@ Il concorso per esami consiste in una prova scritta, effettuata con le procedure
 
 ((18))
 
+4.
+                        
+                            
+                                La prova orale verte su: 
+ 
+                            
+                            
+                                a)
+                                
+                                    diritto civile ed elementi fondamentali di diritto romano; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    procedura civile; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    diritto penale; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    procedura penale; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    diritto amministrativo, costituzionale e tributario; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    diritto del lavoro e della previdenza sociale; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    diritto internazionale pubblico e privato; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    elementi di informatica giuridica e di ordinamento giudiziario; 
+
+                                
+                            
+                            
+                                m)
+                                
+                                    colloquio su una lingua straniera, indicata dal candidato all'atto della domanda di partecipazione al concorso, scelta fra le seguenti: inglese, spagnolo, francese e tedesco((;))
+                                        ((18))
+
+5.
+                        
+                            
+                                Sono ammessi alla prova orale i candidati che ottengono non meno di dodici ventesimi di punti in ciascuna delle materie della prova scritta. Conseguono l'idoneita' i candidati che ottengono non meno di sei decimi in ciascuna delle materie della prova orale di cui al comma 4, lettere da 
+                            
+                            
+                                a)
+                                
+                                    a l), e un giudizio di sufficienza nel colloquio sulla lingua straniera prescelta ((e una valutazione di idoneita' psico-attitudinale)), e comunque una votazione complessiva nelle due prove non inferiore a centootto punti. Non sono ammesse frazioni di punto. Agli effetti di cui all'articolo 3 della legge 7 agosto 1990, n. 241, e successive modificazioni, il giudizio in ciascuna delle prove scritte e orali e' motivato con l'indicazione del solo punteggio numerico, mentre l'insufficienza ((nel colloquio sulla lingua straniera o nel colloquio psico-attitudinale)) e' motivata con la sola formula "non idoneo". ((18))
+
 ((5-bis. Terminata la valutazione degli elaborati scritti, i candidati ammessi alla prova orale, esclusivamente ai fini dello svolgimento del colloquio psico-attitudinale di cui al comma 4, lettera m-bis), sostengono i test psico-attitudinali individuati dal Consiglio superiore della magistratura, per le medesime finalita', nel rispetto delle linee guida e degli standard internazionali di psicometria. Il colloquio psico-attitudinale, diretto dal presidente della seduta con l'ausilio dell'esperto psicologo nominato ai sensi del comma 6, si svolge dinanzi alla commissione o alla sottocommissione competente per la prova orale, cui e' rimessa la valutazione anche dell'idoneita' psico-attitudinale.))
 
 ((18))
@@ -57,6 +135,107 @@ Nulla e' innovato in ordine agli specifici requisiti previsti dal decreto del Pr
  Il D.Lgs. 28 marzo 2024, n. 44 ha disposto (con l'art. 8, comma 2) che "Le disposizioni di cui all'articolo 1 del decreto legislativo n. 160 del 2006, come modificato dal presente decreto, si applicano ai concorsi banditi in data successiva al 31 dicembre 2025".
 
 ## Art. 2. — Requisiti per l'ammissione al concorso per esami
+
+1.
+                        
+                            
+                                Al concorso per esami, tenuto conto che ai fini dell' anzianita' minima di servizio necessaria per l'ammissione non sono cumulabili le anzianita' maturate in piu' categorie fra quelle previste, sono ammessi: 
+ 
+                            
+                            
+                                a)
+                                
+                                    i magistrati amministrativi e contabili; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    i procuratori dello Stato che non sono incorsi in sanzioni disciplinari; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    i dipendenti dello Stato, con qualifica dirigenziale o appartenenti ad una delle posizioni dell'area C prevista dal vigente contratto collettivo nazionale di lavoro, comparto Ministeri, con almeno cinque anni di anzianita' nella qualifica, che abbiano costituito il rapporto di lavoro a seguito di concorso per il quale era richiesto il possesso del diploma di laurea in giurisprudenza conseguito, salvo che non si tratti di seconda laurea, al termine di un corso universitario di durata non inferiore a quattro anni e che non sono incorsi in sanzioni disciplinari; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    gli appartenenti al personale universitario di ruolo docente di materie giuridiche in possesso del diploma di laurea in giurisprudenza che non sono incorsi in sanzioni disciplinari; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    i dipendenti, con qualifica dirigenziale o appartenenti alla ex area direttiva, della pubblica amministrazione, degli enti pubblici a carattere nazionale e degli enti locali, che abbiano costituito il rapporto di lavoro a seguito di concorso per il quale era richiesto il possesso del diploma di laurea in giurisprudenza conseguito, salvo che non si tratti di seconda laurea, al termine di un corso universitario di durata non inferiore a quattro anni, con almeno cinque anni di anzianita' nella qualifica o, comunque, nelle predette carriere e che non sono incorsi in sanzioni disciplinari; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    gli avvocati iscritti all'albo che non sono incorsi in sanzioni disciplinari; (5) 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    coloro i quali hanno svolto le funzioni di' magistrato onorario per almeno sei anni senza demerito, senza essere stati revocati e che non sono incorsi in sanzioni disciplinari; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    i laureati in possesso del diploma di laurea in giurisprudenza conseguito al termine di un corso universitario di durata prevista non inferiore a quattro anni; 
+ i)LETTERA ABROGATA DAL D.L. 23 SETTEMBRE 2022, N. 144; 
+ l)LETTERA ABROGATA DAL D.L. 23 SETTEMBRE 2022, N. 144. (8)
+
+2.
+                        
+                            
+                                Sono ammessi al concorso per esami i candidati che soddisfino le seguenti condizioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    essere cittadino italiano; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    avere l'esercizio dei diritti civili; 
+
+                                
+                            
+                            
+                                b-bis)
+                                
+                                    essere di condotta incensurabile; 
+
+                                
+                            
+                            
+                                b-ter)
+                                
+                                    non essere stati dichiarati per ((quattro volte)) non idonei nel concorso per esami di cui all'articolo 1, comma 1, alla data di scadenza del termine per la presentazione della domanda; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    possedere gli altri requisiti richiesti dalle leggi vigenti.
 
 COMMA ABROGATO DALLA L. 30 LUGLIO 2007, N. 111.
 
@@ -238,6 +417,73 @@ Le funzioni direttive apicali giudicanti di legittimita' sono quelle di primo pr
 
 Ferma la disciplina del fascicolo personale di cui all'articolo 55 del decreto del Presidente della Repubblica 10 gennaio 1957, n. 3, presso il Consiglio superiore della magistratura e' istituito il fascicolo per la valutazione del magistrato, tenuto in modalita' informatica secondo le disposizioni dettate dal Consiglio medesimo.
 
+2.
+                        
+                            
+                                Nel fascicolo sono inseriti, per ogni anno di attivita': 
+ 
+                            
+                            
+                                a)
+                                
+                                    i provvedimenti tabellari, organizzativi o di altro genere che individuano i compiti e le attivita', giudiziarie o extragiudiziarie, svolti dal magistrato nonche' i programmi annuali di gestione redatti a norma dell'articolo 37 del decreto-legge 6 luglio 2011, n. 98, convertito, con modificazioni, dalla legge 15 luglio 2011, n. 111, in estratto per la parte che interessa il singolo magistrato; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    i dati statistici comparati relativi al lavoro svolto individuati ai sensi dell'articolo 11, comma 3, lettera b); 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    gli atti e i provvedimenti redatti dal magistrato, i verbali delle udienze alle quali abbia partecipato e i provvedimenti relativi all'esito degli affari trattati nelle fasi o nei gradi successivi del procedimento e del giudizio, scelti a campione sulla base di criteri oggettivi stabiliti dal Consiglio superiore della magistratura al termine di ciascun anno, in modo tale che il numero dei provvedimenti acquisiti sia idoneo a dare effettiva rappresentazione del lavoro del singolo magistrato per ogni anno in valutazione. I criteri di scelta a campione assicurano l'acquisizione di non meno di un terzo dei provvedimenti cautelari e di prevenzione che incidono direttamente sulla liberta' personale e la libera disponibilita' dei beni, nonche' dei provvedimenti che riguardano i minori; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    i provvedimenti o gli atti prodotti dal magistrato nel numero stabilito dal Consiglio superiore della magistratura; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    i provvedimenti di cui all'articolo 37, comma 5-bis, del decreto-legge 6 luglio 2011, n. 98, convertito, con modificazioni, dalla legge 15 luglio 2011, n. 111, che interessano il magistrato; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    le relazioni di ispezione, in estratto per la parte che interessa il singolo magistrato; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    gli atti con i quali e' promossa l'azione disciplinare e le sentenze rese nel corso del medesimo procedimento, nonche' gli atti con i quali e' introdotta e decisa l'azione per la responsabilita' contabile e per la rivalsa ai sensi dell'articolo 7 della legge 13 aprile 1988, n. 117; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    i rapporti dei capi dell'ufficio di appartenenza, le autorelazioni, i pareri dei consigli giudiziari e i provvedimenti definitivi del Consiglio superiore sulle valutazioni di professionalita', per il mutamento di funzioni o per il conferimento o la conferma di funzioni direttive e semidirettive; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    gli ulteriori elementi che il Consiglio superiore della magistratura ritiene debbano essere inseriti.
+
 Al fascicolo per la valutazione hanno accesso i componenti del Consiglio superiore, i dirigenti dell'ufficio, anche per l'attivita' di inserimento degli atti e provvedimenti di loro competenza, il magistrato e i componenti dei consigli giudiziari in tutti i casi in cui viene in considerazione la redazione di pareri che riguardano il magistrato.
 
 Gli atti con i quali e' promossa l'azione disciplinare o l'azione per la responsabilita' contabile o di rivalsa e le relative sentenze sono eliminati, a richiesta dell'interessato, quando interviene un proscioglimento o un rigetto della domanda oppure, in caso di affermazione di responsabilita' disciplinare, la riabilitazione ai sensi dell'articolo 25-bis del decreto legislativo 23 febbraio 2006, n. 109.
@@ -250,9 +496,94 @@ Gli atti con i quali e' promossa l'azione disciplinare o l'azione per la respons
 
 ((
 
+2.
+                        
+                            
+                                La valutazione di professionalita' riguarda la capacita', la laboriosita', la diligenza e l'impegno. Essa e' operata secondo parametri oggettivi che sono indicati dal Consiglio superiore della magistratura ai sensi del comma 3. La valutazione di professionalita' riferita a periodi in cui il magistrato ha svolto funzioni giudicanti o requirenti non puo' riguardare in alcun caso l'attivita' di interpretazione di norme di diritto, ne' quella di valutazione del fatto e delle prove. In particolare: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la capacita', oltre che alla preparazione giuridica e al relativo grado di aggiornamento, e' riferita, secondo le funzioni esercitate, al possesso delle tecniche di argomentazione e di indagine, anche in relazione alla sussistenza di gravi anomalie concernenti l'esito degli affari nelle successive fasi e nei gradi del procedimento e del giudizio ovvero alla conduzione dell'udienza da parte di chi la dirige o la presiede, all'idoneita' a utilizzare, dirigere e controllare l'apporto dei collaboratori e degli ausiliari.
+Possono costituire indice di grave anomalia ai fini del periodo precedente il rigetto delle richieste avanzate dal magistrato o la riforma e l'annullamento delle decisioni per abnormita', mancanza di motivazione, ignoranza o negligenza nell'applicazione della legge, travisamento manifesto del fatto, mancata valutazione di prove decisive, quando le ragioni del rigetto, della riforma o dell'annullamento sono in se stesse di particolare gravita' ovvero quando il rigetto, la riforma o l'annullamento assumono carattere significativo rispetto al complesso degli affari definiti dal magistrato; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la laboriosita' e' riferita alla produttivita', intesa come numero e qualita' degli affari trattati in rapporto alla tipologia degli uffici e alla loro condizione organizzativa e strutturale, ai tempi di smaltimento del lavoro, nonche' all'eventuale attivita' di collaborazione svolta all'interno dell'ufficio, tenuto anche conto degli standard di rendimento individuati dal Consiglio superiore della magistratura, in relazione agli specifici settori di attivita' e alle specializzazioni, e del contributo fornito dal magistrato all'attuazione di quanto indicato nei programmi annuali di gestione redatti a norma dell'articolo 37 del decreto-legge 6 luglio 2011, n. 98, convertito, con modificazioni, dalla legge 15 luglio 2011, n. 111; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    la diligenza e' riferita all'assiduita' e puntualita' nella presenza in ufficio, nelle udienze e nei giorni stabiliti; e' riferita inoltre al rispetto dei termini per la redazione, il deposito di provvedimenti o comunque per il compimento di attivita' giudiziarie, nonche' alla partecipazione alle riunioni previste dall'ordinamento giudiziario per la discussione e l'approfondimento delle innovazioni legislative, nonche' per la conoscenza dell'evoluzione della giurisprudenza; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    l'impegno e' riferito alla disponibilita' per sostituzioni di magistrati assenti e alla frequenza di corsi di aggiornamento organizzati dalla Scuola superiore della magistratura; nella valutazione dell'impegno rileva, inoltre, la collaborazione alla soluzione dei problemi di tipo organizzativo e giuridico.
+
 ))
 
 ((
+
+3.
+                        
+                            
+                                Il Consiglio superiore della magistratura disciplina con propria delibera gli elementi in base ai quali devono essere espresse le valutazioni dei consigli giudiziari e i parametri per consentire l'omogeneita' delle valutazioni. In particolare, disciplina: 
+ 
+                            
+                            
+                                a)
+                                
+                                    i modi di raccolta della documentazione e di individuazione a campione dei provvedimenti e dei verbali delle udienze di cui all'articolo 10-bis, comma 2, lettera c), in modo tale che possano essere inseriti nel fascicolo del magistrato entro il mese di febbraio dell'anno successivo, ferma restando l'autonoma possibilita' di ogni membro del consiglio giudiziario di accedere a tutti gli atti che si trovino nella fase pubblica del processo per valutarne l'utilizzazione in sede di consiglio giudiziario; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    i dati statistici da raccogliere per l'inserimento annuale nel fascicolo del magistrato di cui all'articolo 10-bis, in modo tale che siano documentati: 
+ 1) il lavoro svolto dal magistrato, in relazione ad ogni anno di attivita', anche comparata con quella dei magistrati che svolgono la medesima funzione nel medesimo ufficio e con gli standard medi di definizione dei procedimenti; 
+ 2) il rispetto o meno dei termini previsti per il compimento degli atti; 
+ 3) l'esito delle richieste o dei provvedimenti resi nelle fasi e nei gradi successivi; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    i criteri e i moduli di redazione: 
+ 1) delle relazioni dei magistrati, in modo tale che contengano esclusivamente i dati conoscitivi sull'attivita' giudiziaria svolta dal magistrato indispensabili alla valutazione di professionalita' anche con specifico riferimento all'attivita' espletata con finalita' di mediazione e conciliazione; 
+ 2) dei rapporti dei dirigenti degli uffici; 
+ 3) dei pareri dei consigli giudiziari, in modo tale che siano garantiti criteri uniformi, stabilendo che gli atti indicati nei numeri che precedono devono essere formati secondo principi di sinteticita' e chiarezza, anche indicando il numero massimo di pagine degli atti medesimi; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    gli indicatori oggettivi per l'acquisizione degli elementi di cui al comma 2; per l'attitudine direttiva gli indicatori da prendere in esame sono individuati d'intesa con il Ministro della giustizia; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    i criteri per articolare il giudizio positivo nelle ulteriori valutazioni di "discreto", "buono" o "ottimo" con riferimento alle capacita' del magistrato di organizzare il proprio lavoro; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    l'individuazione per ciascuna delle diverse funzioni svolte dai magistrati, tenuto conto anche della specializzazione, di standard medi di definizione dei procedimenti, ivi compresi gli incarichi di natura obbligatoria per i magistrati, articolati secondo parametri sia quantitativi sia qualitativi, in relazione alla tipologia dell'ufficio, all'ambito territoriale e all'eventuale specializzazione.
 
 ))
 
@@ -290,6 +621,38 @@ Il Consiglio superiore della magistratura individua, ogni anno, i nominativi dei
 ## Art. 11-bis. — ((Procedimento di valutazione))
 
 ((
+
+1.
+                        
+                            
+                                Alla scadenza del periodo di valutazione di cui all'articolo 11, comma 1, il consiglio giudiziario acquisisce e valuta: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il fascicolo del magistrato di cui all'articolo 10-bis e le ulteriori informazioni disponibili presso il Consiglio superiore della magistratura e il Ministero della giustizia anche per quanto attiene agli eventuali rilievi di natura contabile e disciplinare, ferma restando l'autonoma possibilita' di ogni membro del consiglio giudiziario di accedere a tutti gli atti che si trovino nella fase pubblica del processo per valutarne l'utilizzazione in sede di consiglio giudiziario; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la relazione del magistrato sul lavoro svolto e l'ulteriore documentazione che egli ritenga utile sottoporre ad esame, nei limiti fissati dal Consiglio superiore della magistratura; in caso di esoneri totali o parziali dal lavoro giudiziario, il magistrato allega alla relazione la documentazione idonea alla valutazione dell'attivita' alternativa espletata; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    gli incarichi giudiziari ed extragiudiziari con l'indicazione dell'impegno concreto che gli stessi hanno comportato; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    il rapporto e le segnalazioni provenienti dai capi degli uffici, i quali devono tenere conto delle situazioni specifiche rappresentate da terzi, nonche' le segnalazioni pervenute dal consiglio dell'ordine degli avvocati, sempre che si riferiscano a fatti specifici incidenti in senso positivo o negativo sulla professionalita', con particolare riguardo alle situazioni eventuali concrete e oggettive di esercizio non indipendente della funzione e ai comportamenti che denotino evidente mancanza di equilibrio o di preparazione giuridica. Il rapporto del capo dell'ufficio e le segnalazioni del consiglio dell'ordine degli avvocati sono trasmessi al consiglio giudiziario dal presidente della corte di appello o dal procuratore generale presso la medesima corte, titolari del potere dovere di sorveglianza, con le loro eventuali considerazioni e quindi trasmessi obbligatoriamente al Consiglio superiore della magistratura.
 
 Il consiglio giudiziario puo' assumere informazioni su fatti specifici segnalati da suoi componenti o dai dirigenti degli uffici o dai consigli dell'ordine degli avvocati, dando tempestiva comunicazione dell'esito all'interessato, che ha diritto ad avere copia degli atti, e puo' procedere alla sua audizione, che e' sempre disposta se il magistrato ne fa richiesta.
 
@@ -377,6 +740,63 @@ Al procedimento per il conferimento delle funzioni giudicanti e requirenti di le
 Per il conferimento delle funzioni giudicanti e requirenti di legittimita', fermi i requisiti di cui all'articolo 12, comma 5, e' oggetto di valutazione, oltre agli elementi di cui all'articolo 11, comma 2, anche la capacita' scientifica e di analisi delle norme.
 Questa e' valutata da una apposita commissione nominata dal Consiglio superiore della magistratura composta da cinque membri, di cui tre scelti tra magistrati che hanno conseguito almeno la quarta valutazione di professionalita' e che esercitano o hanno esercitato funzioni di legittimita' per almeno due anni, un professore universitario ordinario designato dal Consiglio universitario nazionale e un avvocato abilitato al patrocinio innanzi alle magistrature superiori designato dal Consiglio nazionale forense. I componenti della commissione durano in carica due anni e non possono essere immediatamente confermati nell'incarico.
 
+3.
+                        
+                            
+                                Il Consiglio superiore della magistratura individua, con propria delibera: 
+ 
+                            
+                            
+                                a)
+                                
+                                    i criteri per l'attribuzione di un punteggio per ciascuno dei parametri delle attitudini, del merito e dell'anzianita', prevedendo, con riguardo a quest'ultima, che ad ogni valutazione di professionalita' corrisponda un punteggio; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il numero di provvedimenti, atti e pubblicazioni che il candidato puo' produrre nell'ambito del procedimento, e di quelli che devono essere valutati tra quelli estratti a campione in occasione delle ultime tre valutazioni di professionalita'; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    i compensi spettanti ai componenti della commissione di cui al comma 2, entro il limite massimo dei due terzi del compenso previsto per le sedute di commissione per i componenti del Consiglio stesso.
+
+4.
+                        
+                            
+                                Ai fini della valutazione delle attitudini: 
+ 
+                            
+                            
+                                a)
+                                
+                                    sono prese in considerazione anche le esperienze maturate nel lavoro giudiziario, in relazione allo specifico ambito di competenza, penale o civile, e alle specifiche funzioni, giudicanti o requirenti, del posto da conferire; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    e' attribuita rilevanza alla capacita' scientifica e di analisi delle norme, da valutare anche tenendo conto della sussistenza di gravi anomalie nell'esito degli affari nelle fasi e nei gradi successivi del procedimento e del giudizio, ai sensi dell'articolo 11, comma 2, lettera a); 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    e' altresi' attribuita rilevanza al pregresso esercizio delle funzioni di addetto all'ufficio del massimario e del ruolo della Corte di cassazione; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    le attivita' esercitate fuori del ruolo organico della magistratura sono valutate nei soli casi in cui l'incarico abbia ad oggetto attivita' assimilabili a quelle giudiziarie o che comportino una comprovata capacita' scientifica e di analisi delle norme.
+
 La commissione delibera con la presenza di almeno tre componenti ed esprime un parere motivato in ordine alla capacita' scientifica e di analisi delle norme, tenendo conto delle peculiarita' delle funzioni esercitate dal candidato. La valutazione e' fondata sull'esame di provvedimenti estratti a campione nelle ultime tre valutazioni di professionalita' e su provvedimenti, atti o pubblicazioni liberamente prodotti dai candidati relativi allo specifico settore, penale o civile, in cui si colloca il posto da conferire. Il Consiglio superiore della magistratura stabilisce il numero degli atti, provvedimenti e pubblicazioni in valutazione estratti a campione e quelli liberamente prodotti dall'aspirante.
 Nella valutazione delle pubblicazioni la commissione tiene conto della loro rilevanza scientifica. Costituiscono criteri di valutazione della capacita' scientifica e di analisi delle norme, avuto riguardo alle funzioni esercitate: la capacita' di esporre in modo chiaro, sintetico e persuasivo le questioni dibattute, l'impegno ricostruttivo sulle questioni di fatto e di diritto particolarmente complesse, nonche' per i provvedimenti giudiziari la concreta e puntuale risposta alle domande e alle eccezioni proposte dalle parti ed emerse nel corso del procedimento e la capacita' di ricostruire in modo ordinato e completo il pertinente quadro normativo e giurisprudenziale, avuto riguardo al rapporto tra fonti nazionali e sovranazionali, ove rilevante; in relazione ai magistrati addetti all'Ufficio del massimario e del ruolo, assumono rilevo anche le attivita' di massimazione, di redazione di relazioni di orientamento e di segnalazione di contrasto nonche' gli studi preparatori per le udienze dinanzi alle Sezioni unite civili e penali della Corte di cassazione.
 
@@ -393,6 +813,24 @@ Le spese per la commissione di cui al comma 2 non devono comportare nuovi oneri 
 ## Art. 13. — (Attribuzione delle funzioni e passaggio dalle funzioni giudicanti a quelle requirenti e viceversa)
 
 L'assegnazione di sede, il passaggio dalle funzioni giudicanti a quelle requirenti, il conferimento delle funzioni semidirettive e direttive sono disposti dal Consiglio superiore della magistratura con provvedimento motivato, previo parere del consiglio giudiziario.
+
+1-bis.
+                        
+                            
+                                Il Consiglio superiore della Magistratura provvede al conferimento delle funzioni direttive e semidirettive: 
+ 
+                            
+                            
+                                a)
+                                
+                                    nel caso di collocamento a riposo del titolare per raggiunto limite di eta' o di decorrenza del termine ottennale previsto dagli articoli 45 e 46 del presente decreto, entro la data di vacanza del relativo ufficio; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    negli altri casi, entro sei mesi dalla pubblicazione della vacanza. (8)
 
 In caso di inosservanza dei termini di cui al comma 1-bis, il presidente della Commissione referente, entro il termine di trenta giorni, provvede alla formulazione della proposta. (8)
 
@@ -699,6 +1137,95 @@ Le attitudini consistono nelle competenze organizzative, anche in chiave prognos
 
 Le attitudini devono essere positivamente accertate anche con riferimento alla conoscenza del complesso dei servizi resi dall'ufficio o dalla sezione per la cui direzione e' indetto il concorso, alla capacita' di analisi ed elaborazione dei dati statistici, alla conoscenza delle norme ordinamentali, alla capacita' di efficiente organizzazione del lavoro giudiziario e agli esiti delle ispezioni svolte negli uffici presso cui il magistrato svolge o ha svolto funzioni direttive o semidirettive. A tal proposito, il Consiglio superiore della magistratura rende disponibili il progetto organizzativo o tabellare, le eventuali successive variazioni e i prospetti statistici relativi ai flussi e alle pendenze degli affari.
 
+7.
+                        
+                            
+                                Ai fini della comparazione dei candidati, il Consiglio superiore della magistratura determina, in relazione alle tipologie di incarichi di cui al comma 2, il rilievo da attribuire ai seguenti elementi: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il profilo del merito dei candidati, ricostruito sulla scorta di quanto previsto dal comma 4; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la capacita' di efficiente organizzazione del lavoro, tenuto conto anche dell'attivita' svolta nell'esercizio di un precedente incarico direttivo o semidirettivo, dei risultati conseguiti in termini qualitativi e quantitativi, degli esiti delle ispezioni svolte negli uffici presso i quali il candidato svolge o ha svolto funzioni; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    le pregresse esperienze di direzione, di organizzazione, di collaborazione e di coordinamento investigativo nazionale, con particolare riguardo ai risultati conseguiti; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    la capacita' di dare attuazione a quanto indicato nel progetto tabellare o organizzativo dell'ufficio, di programmare e realizzare con tempestivita' gli adattamenti organizzativi e gestionali, di valorizzare le attitudini dei magistrati e dei funzionari nel rispetto della loro autonomia favorendone la partecipazione ai processi decisionali, di operare il controllo di gestione sull'andamento generale dell'ufficio; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    la capacita' di analisi ed elaborazione dei dati statistici; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    la documentazione relativa a precedenti conferme negli incarichi, nonche' le deliberazioni del Consiglio superiore della magistratura su precedenti provvedimenti tabellari e organizzativi adottati dai candidati, con particolare riferimento al caso di reiterata mancata approvazione per violazioni significative riguardanti la legittimita' e non il merito delle scelte adottate; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    le specifiche competenze rispetto agli incarichi per cui e' richiesta una particolare specializzazione; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    la varieta' di esperienze maturate nell'esercizio dell'attivita' giudiziaria; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    la conoscenza delle norme ordinamentali; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    l'aggiornamento professionale e le competenze acquisite nello svolgimento di attivita' formative; 
+
+                                
+                            
+                            
+                                m)
+                                
+                                    le capacita' relazionali nei rapporti interni all'ufficio e all'esterno con gli interlocutori istituzionali; 
+
+                                
+                            
+                            
+                                n)
+                                
+                                    
+                                        ((LETTERA ABROGATA DAL D.L. 29 NOVEMBRE 2024, N. 178, CONVERTITO CON MODIFICAZIONI DALLA L. 23 GENNAIO 2025, N. 4)).
+
 Il Consiglio superiore della magistratura, ai fini della comparazione dei profili dei candidati per l'assegnazione degli incarichi direttivi e semidirettivi, valuta specificamente gli esiti delle audizioni, il parere espresso dal consiglio dell'ordine degli avvocati nonche' i pareri espressi dai magistrati e dai dirigenti amministrativi.
 
 ## Art. 46-novies. — ((Valutazione dei periodi di aspettativa e fuori ruolo))
@@ -780,6 +1307,31 @@ In ogni caso i magistrati collocati fuori dal ruolo organico in quanto component
 
 Resta fermo quanto previsto dal secondo comma dell'articolo 30 del decreto del Presidente della Repubblica 16 settembre 1958, n. 916, e successive modificazioni.
 
+5.
+                        
+                            
+                                Il ricollocamento in ruolo dei magistrati che risultano fuori ruolo alla data di acquisto di efficacia del primo dei decreti legislativi emanati in attuazione della delega di cui all'articolo 1, comma 1, lettera a), della legge 25 luglio 2005, n. 150, avviene: 
+ 
+                            
+                            
+                                a)
+                                
+                                    per i magistrati in aspettativa per mandato elettorale, secondo le modalita' di cui al comma 1, seconda parte, e con assegnazione di sede per concorso virtuale nell'ambito dei posti vacanti all'atto del ricollocamento in ruolo; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    per i magistrati che, all'atto del ricollocamento in ruolo, non hanno compiuto tre anni di permanenza fuori ruolo, con le modalita' di cui al comma 1, prima parte e, qualora la sede di provenienza non sia vacante, con assegnazione di altra sede per concorso virtuale nell'ambito dei posti vacanti all'atto del ricollocamento in ruolo e, comunque, senza nuovi o maggiori oneri a carico del bilancio dello Stato; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    per i magistrati che, all'atto del ricollocamento in ruolo, hanno compiuto piu' di tre anni di permanenza fuori ruolo, con le modalita' previste dall'articolo 3, comma 2, della legge 13 febbraio 2001, n. 48, quando e' richiesta dal magistrato la destinazione alla sede di provenienza, ovvero, in mancanza di tale richiesta, con assegnazione di altra sede per concorso virtuale nell'ambito dei posti vacanti all'atto del ricollocamento in ruolo e, comunque, senza nuovi o maggiori oneri a carico del bilancio dello Stato. Non si applicano le disposizioni di cui all'articolo 15, comma 3.
+
 Ad eccezione di quanto previsto dagli articoli 45 e 46 e dal comma 1, nonche', in via transitoria, dal comma 5, non e' consentito il tramutamento di sede per concorso virtuale, salvo nel caso di gravi e comprovate ragioni di salute o di sicurezza. In quest'ultimo caso non e' consentito il successivo tramutamento alla sede di provenienza prima che siano decorsi cinque anni.
 
 ## - Capo XI Progressione economica dei magistrati
@@ -806,6 +1358,31 @@ Con riguardo ai magistrati in servizio presso la Corte di cassazione e la Procur
 
 
 ## Art. 54. — Abrogazioni
+
+1.
+                        
+                            
+                                Oltre a quanto previsto dal decreto legislativo di attuazione della delega di cui all'articolo 1, comma 3, della legge 25 luglio 2005, n. 150, sono abrogati, dalla data di acquisto di efficacia delle disposizioni contenute nel presente decreto:
+ 
+                            
+                            
+                                a)
+                                
+                                    gli articoli 8, 121, 123, 123-ter, 124, 125, 125-bis, 125-ter, 125-quater, 125-quinques, 126, 126-bis, 126-ter, 127, 128, commi secondo e terzo, 129-ter, 131, 136, 140, 141, 142, 143, 144, 145, primo comma, 147, primo comma, 149, 150,151, 152, commi secondo, terzo e quarto, 153, 154, 155, 156, 157, 158, 159, 160, 161, 162, 163, 164, 165, 166, 167, 168, 169, 170, 171, 172, 173 e 174, 190, 191, 197, 198, 200, 255, 258, 259, 260, 262, 263, 264, 265, 266, 267, 270, 271, 272, 273, 274, 275 dell'ordinamento giudiziario di cui al regio decreto 30 gennaio 1941, n. 12, e successive modificazioni;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la legge 25 luglio 1966, n. 570;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    la legge 20 dicembre 1973, n. 831.
 
 ## Art. 55. — ((ARTICOLO ABROGATO DALLA L. 30 LUGLIO 2007, N. 111))
 

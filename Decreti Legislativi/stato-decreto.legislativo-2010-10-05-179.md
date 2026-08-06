@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
 vigenza_date: 2020-02-21
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:22Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -44,6 +44,39 @@ Alla sezione si intendono assegnate tutte le altre funzioni previste per le sezi
 ## Art. 2.
 
 La sezione di cui all'articolo 1 e' composta da un presidente di sezione della Corte dei conti e da cinque magistrati, due dei quali con la qualifica di consigliere della Corte medesima.
+
+2.
+                    
+                        
+                            Gli altri tre magistrati di cui al comma 1 sono nominati, sentito il Consiglio di Presidenza della Corte dei conti, dal Consiglio dei Ministri, su designazione uno della Giunta regionale, uno del Consiglio regionale ed uno del Consiglio permanente degli enti locali. 
+ Le designazioni avvengono tra le seguenti categorie di soggetti: 
+ 
+                        
+                        
+                            a)
+                            
+                                magistrati, anche a riposo, delle giurisdizioni superiori, ordinaria, contabile ed amministrativa; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                professori ordinari di universita', anche a riposo, in materie di diritto pubblico; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                dirigenti apicali dello Stato o del Comparto unico regionale, anche a riposo; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                avvocati, iscritti al relativo Albo professionale da non meno di dieci anni e che abbiano svolto significativa attivita' nel settore di diritto pubblico.
 
 Per i magistrati di cui al comma 2 operano le incompatibilita' di legge; gli stessi non possono esercitare attivita' professionale o imprenditoriali per il periodo di appartenenza alla Corte dei conti.
 Tali magistrati assumono la qualifica di consigliere della Corte dei conti e durano in carica sette anni con mandato non rinnovabile; in ogni caso non rimangono in servizio oltre il limite massimo di eta' previsto dalla legge per i magistrati della Corte dei conti.

@@ -8,8 +8,8 @@ codice_redazionale: 011G0019
 vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:22Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -25,6 +25,24 @@ Sulla proposta del Presidente del Consiglio dei Ministri e del Ministro per i ra
 
 ## Art. 1. — Trasferimento di beni immobili e di impianti 
  di cui all'articolo 10 della legge 27 ottobre 1966, n. 910
+
+1.
+                    
+                        
+                            Sono trasferiti alla Regione i seguenti beni immobili e impianti di cui all'articolo 10 della legge 27 ottobre 1966, n. 910 (Provvedimenti per lo sviluppo dell'agricoltura nel quinquennio 1966-1970) come individuati nell'elenco allegato sub A): 
+ 
+                        
+                        
+                            a)
+                            
+                                Impianto per la raccolta, stagionatura e commercializzazione formaggi in Rivolto di Codroipo (UD); 
+
+                            
+                        
+                        
+                            b)
+                            
+                                Impianto per la tipizzazione e commercializzazione vini in Cormons (GO).
 
 Nel trasferimento dei beni di cui al comma l sono, altresi', compresi i beni mobili che ne costituiscono pertinenza.
 

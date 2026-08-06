@@ -8,8 +8,8 @@ codice_redazionale: 008G0058
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:42Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -43,11 +43,93 @@ I sistemi, di cui al comma 1, sono omologati in conformita' alle prescrizioni de
 
 ## Art. 2. — Definizioni
 
+1.
+                    
+                        
+                            Ai fini del regolamento si intendono per:
+ 
+                        
+                        
+                            a)
+                            
+                                «sistema» idoneo alla riduzione della massa di particolato, uno o piu' elementi funzionalmente interconnessi con il motore, ovvero con i suoi dispositivi di aspirazione o di scarico, ovvero con il suo sistema di alimentazione e controllo;
+
+                            
+                        
+                        
+                            b)
+                            
+                                «fasce di appartenenza dei tipi di motori», convenzionalmente definite in funzione della rispondenza ai limiti di emissione allo scarico adottati a livello comunitario, i seguenti raggruppamenti:
+ aa) Euro 0 appartengono a tale fascia i motori non omologati ai fini dell'inquinamento, ovvero omologati antecedentemente alla entrata in vigore alla direttiva 91/542/CEE;
+ bb) Euro 1 appartengono a tale fascia i motori omologati ai sensi della direttiva 91/542/CEE, riga A;
+ cc) Euro 2 appartengono a tale fascia i motori omologati ai sensi della direttiva 91/542/CEE, ovvero 96/1/CEE, riga B;
+ dd) Euro 3 appartengono a tale fascia i motori omologati ai sensi delle direttive da 1999/96/CE a 2001/27/CE, riga A;
+ ee) Euro 4 appartengono a tale fascia i motori omologati ai sensi delle direttive da 1999/96/CE a 2006/51/CE, riga B1;
+ ff) Euro 5 appartengono a tale fascia i motori omologati ai sensi delle direttive da 1999/96/CE a 2006/51/CE, riga B2.
+ All'allegato A e' riportata la tabella con i valori limite delle emissioni da massa di particolato, adottati a livello comunitario, correlati con le fasce di appartenenza, di cui sopra;
+
+                            
+                        
+                        
+                            c)
+                            
+                                «famiglia di tipi di motori», un insieme di tipi di motori individuati in base ai parametri riportati al punto 1 dell'allegato C;
+
+                            
+                        
+                        
+                            d)
+                            
+                                «motore capostipite», un motore appartenente ad una determinata famiglia di tipi di motori, considerato rappresentativo della stessa in base ai parametri riportati al punto 2 dell'allegato C;
+
+                            
+                        
+                        
+                            e)
+                            
+                                «costruttore», il produttore di un sistema idoneo alla riduzione della massa di particolato emesso da un motore.
+
 ## Art. 3. — Omologazione dei sistemi
 
 La domanda di omologazione di un sistema e' presentata dal costruttore, ovvero dal suo rappresentante, opportunamente accreditato, ad un Centro prove autoveicoli, secondo le modalita' previste dal decreto del Ministro dei trasporti e della navigazione 2 maggio 2001, n. 277. La domanda e' corredata da una scheda informativa compilata in conformita' al modello riportato nell'allegato B.
 
+2.
+                    
+                        
+                            Nella domanda sono indicati:
+ 
+                        
+                        
+                            a)
+                            
+                                la famiglia dei tipi di motori alla quale e' destinato il sistema, nonche' la fascia di originaria appartenenza dei motori (Euro .....), in funzione della loro rispondenza ai livelli di emissione allo scarico;
+
+                            
+                        
+                        
+                            b)
+                            
+                                la fascia di appartenenza nella quale si chiede l'inquadramento della famiglia dei tipi di motori, dotati di sistema, ai soli fini dell'inquinamento da massa di particolato.
+
 Ogni sistema e' omologato, con eventuali estensioni di omologazione, in relazione ad una o piu' famiglie di motori. La verifica dell'idoneita' del sistema, ai fini della sua omologazione, e' effettuata in base ai criteri e con le procedure riportate nell'allegato D.
+
+4.
+                    
+                        
+                            Il costruttore dichiara inoltre in relazione a ciascun tipo di motore costituente la famiglia, che:
+ 
+                        
+                        
+                            a)
+                            
+                                effettua la prevista procedura di verifica di durabilita' del sistema, conformemente a quanto riportato nell'allegato E;
+
+                            
+                        
+                        
+                            b)
+                            
+                                l'installazione del sistema non comporta, in qualunque fase di funzionamento del motore, il superamento dei valori massimi ammissibili di contropressione allo scarico.
 
 A ciascun tipo di sistema, omologato in ottemperanza alle prescrizioni del regolamento, e' assegnato un numero di omologazione/estensione di omologazione, in conformita' a quanto previsto nell'allegato IV al decreto del Ministro dei trasporti e della navigazione 2 maggio 2001, n. 277.
 
@@ -55,9 +137,101 @@ La Direzione generale per la motorizzazione rilascia il certificato di omologazi
 
 ## Art. 4. — Caratteristiche generali dei sistemi
 
+1.
+                    
+                        
+                            E' richiesta la preventiva autorizzazione del costruttore dell'autoveicolo, ovvero del costruttore del motore se diverso da quello dell'autoveicolo, per sistemi funzionalmente connessi con uno o piu' dei seguenti elementi:
+ 
+                        
+                        
+                            a)
+                            
+                                dispositivi elettronici di gestione dell'alimentazione ed eventualmente di verifica della combustione e del controllo delle emissioni;
+
+                            
+                        
+                        
+                            b)
+                            
+                                linea dei componenti destinata all'alimentazione del motore (con l'esclusione del serbatoio e dei relativi condotti);
+
+                            
+                        
+                        
+                            c)
+                            
+                                motore di trazione;
+
+                            
+                        
+                        
+                            d)
+                            
+                                sistema EGR.
+
 Il sistema prevede un dispositivo di allarme per eccessiva contropressione allo scarico che segnali il livello critico di intasamento.
 
 Non sono ammesse soluzioni tecniche che prevedano, attraverso dispositivi di bypass, l'esclusione o la parzializzazione del sistema.
+
+4.
+                    
+                        
+                            Per i sistemi che si avvalgono di specifici additivi o reagenti chimici il costruttore:
+ 
+                        
+                        
+                            a)
+                            
+                                prevede sistemi automatici di additivazione;
+
+                            
+                        
+                        
+                            b)
+                            
+                                prevede l'installazione sul veicolo di un dispositivo di segnalazione dell'assenza di additivo;
+
+                            
+                        
+                        
+                            c)
+                            
+                                dichiara che l'uso di questi prodotti non danneggia il veicolo, ovvero il motore;
+
+                            
+                        
+                        
+                            d)
+                            
+                                allega alla documentazione di omologazione la scheda di sicurezza degli additivi o dei reagenti utilizzati;
+
+                            
+                        
+                        
+                            e)
+                            
+                                fornisce informazioni circa eventuali emissioni di metalli prodotte dall'utilizzo degli additivi o dei reagenti;
+
+                            
+                        
+                        
+                            f)
+                            
+                                fornisce istruzioni sulle conseguenze che la mancanza o l'eccesso di additivo o reagente chimico puo' avere sul sistema o sul motore;
+
+                            
+                        
+                        
+                            g)
+                            
+                                prescrive le misure da adottare per l'uso corretto da parte dell'utilizzatore;
+
+                            
+                        
+                        
+                            h)
+                            
+                                dichiara che la qualita' del combustibile, dopo l'additivazione, resti conforme a quanto previsto dalla norma EN 590, nonche' dalle norme vigenti ai fini della tutela della salute e dell'ambiente;
 
 ## Art. 5. — Inquadramento dei motori ai soli fini dell'inquinamento da massa di particolato
 
@@ -87,6 +261,24 @@ Ogni singolo sistema prodotto e' corredato con le informazioni di uso e manutenz
 Gli impianti di produzione dei sistemi sono soggetti al controllo del sistema di verifica della conformita' della produzione, prevista dal decreto dirigenziale 25 novembre 1997.
 
 I sistemi omologati sono realizzati in modo da risultare conformi al tipo omologato.
+
+3.
+                    
+                        
+                            La Direzione generale della motorizzazione puo' procedere a qualsiasi prova prescritta nel regolamento, nell'ambito della verifica:
+ 
+                        
+                        
+                            a)
+                            
+                                della conformita' della produzione del sistema;
+
+                            
+                        
+                        
+                            b)
+                            
+                                delle procedure per la valutazione della durabilita' del sistema.
 
 L'omologazione accordata per un tipo di sistema e' revocata se non vengono rispettate le prescrizioni del presente articolo.
 

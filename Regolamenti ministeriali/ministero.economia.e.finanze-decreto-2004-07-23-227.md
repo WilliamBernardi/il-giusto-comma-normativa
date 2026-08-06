@@ -8,8 +8,8 @@ codice_redazionale: 004G0258
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:38Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -27,7 +27,72 @@ Udito il parere del Consiglio di Stato espresso nell'adunanza generale del 26 ge
 
 ## Art. 1.
 
+1.
+                    
+                        
+                            All'articolo 1 del decreto del Ministro del tesoro 12 novembre 1996, n. 612, sono apportate le seguenti modificazioni:
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 3, primo periodo, le parole: «da 10.000.000 e fino a 3 miliardi» sono sostituite dalle seguenti: «da euro 5.200 e fino a euro 1.550.000»;
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 3, ultimo periodo, le parole: «nella misura del 70% della perdita subita.» sono sostituite dalle seguenti: «nella misura del 75% della perdita subita.»;
+
+                            
+                        
+                        
+                            c)
+                            
+                                al comma 4, le parole: «nella misura del 50% della perdita.» sono sostituite dalle seguenti: «nella misura del 55% della perdita.»;
+
+                            
+                        
+                        
+                            d)
+                            
+                                la lettera a) del comma 5 e' sostituita dalla seguente: «a) 55% della perdita subita su finanziamenti di importo originario fino a euro 104.000;»;
+
+                            
+                        
+                        
+                            e)
+                            
+                                la lettera b) del comma 5 e' sostituita dalla seguente: «b) 35% della perdita subita su finanziamenti di importo originario superiore a euro 104.000 e fino a euro 775.000, riferiti alla singola banca.»;
+
+                            
+                        
+                        
+                            f)
+                            
+                                alla fine e' aggiunto il seguente comma:
+ «7. La garanzia del Fondo opera anche nel caso in cui i finanziamenti vengano prorogati in forza di specifiche disposizioni di legge. In tal caso, ove si tratti di finanziamenti gia' garantiti, non occorre versare una nuova contribuzione. Se le proroghe riguardano operazioni finanziarie non assistite dal Fondo, le proroghe stesse possono essere garantite dal Fondo solo se disposte per legge e riguardano operazioni a tasso agevolato. La garanzia opera secondo i criteri previsti per le operazioni fino a diciotto mesi, previo versamento della dovuta contribuzione.».
+
 ## Art. 2.
+
+1.
+                    
+                        
+                            All'articolo 4, comma 3, del decreto del Ministro del tesoro 12 novembre 1996, n. 612, sono apportate le seguenti modificazioni:
+ 
+                        
+                        
+                            a)
+                            
+                                al secondo periodo le parole: «superiore a 100 milioni» sono sostituite dalle seguenti: «superiore a euro 52.000»;
+
+                            
+                        
+                        
+                            b)
+                            
+                                all'ultimo periodo le parole: «e, per quelli a medio termine destinati all'acquisto di macchinari e bestiame, la garanzia primaria e' costituita dal privilegio speciale ex art. 46 del decreto legislativo 1° settembre 1993, n. 385» sono soppresse.
 
 ## Art. 3.
 

@@ -8,8 +8,8 @@ codice_redazionale: 007G0209
 vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:28Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -69,7 +69,67 @@ Al comma 5 dell'articolo 114 del decreto legislativo 24 febbraio 1998, n. 58, do
 
 Al comma 1, lettera a), dell'articolo 115 del decreto legislativo 24 febbraio 1998, n. 58, dopo le parole: «richiedere agli emittenti quotati,» sono inserite le seguenti: «agli emittenti quotati aventi l'Italia come Stato membro d'origine,».
 
+7.
+                    
+                        
+                            L'articolo 120 del decreto legislativo 24 febbraio 1998, n. 58, e' modificato come segue:
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 2, le parole: «una societa' con azioni quotate» sono sostituite dalle seguenti: «un emittente azioni quotate avente l'Italia come Stato membro d'origine»;
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 3, le parole: «Le societa' con azioni quotate» sono sostituite dalle seguenti: «Gli emittenti azioni quotate aventi l'Italia come Stato membro d'origine»;
+
+                            
+                        
+                        
+                            c)
+                            
+                                al comma 4, dopo la lettera d-bis), sono aggiunte le seguenti:
+ «d-ter) i casi in cui la detenzione di strumenti finanziari derivati determina obblighi di comunicazione;
+ d-quater) le ipotesi di esenzione dall'applicazione delle presenti disposizioni.».
+
 La rubrica della Sezione V-bis del Capo II del Titolo III della Parte IV del decreto legislativo 24 febbraio 1998, n. 58, e' sostituita dalla seguente: «Informazione finanziaria».
+
+9.
+                    
+                        
+                            All'articolo 154-bis del decreto legislativo 24 febbraio 1998, n. 58, sono apportate le seguenti modificazioni:
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 1, dopo le parole: «Lo statuto», sono inserite le seguenti: «degli emittenti quotati aventi l'Italia come Stato membro d'origine»;
+
+                            
+                        
+                        
+                            b)
+                            
+                                il comma 5 e' sostituito dal seguente:
+ «5. Gli organi amministrativi delegati e il dirigente preposto alla redazione dei documenti contabili societari attestano con apposita relazione sul bilancio di esercizio, sul bilancio semestrale abbreviato e, ove redatto, sul bilancio consolidato:
+ a) l'adeguatezza e l'effettiva applicazione delle procedure di cui al comma 3 nel corso del periodo cui si riferiscono i documenti;
+ b) che i documenti sono redatti in conformita' ai principi contabili internazionali applicabili riconosciuti nella Comunita' europea ai sensi del regolamento (CE) n. 1606/2002 del Parlamento europeo e del Consiglio, del 19 luglio 2002;
+ c) la corrispondenza dei documenti alle risultanze dei libri e delle scritture contabili;
+ d) l'idoneita' dei documenti a fornire una rappresentazione veritiera e corretta della situazione patrimoniale, economica e finanziaria dell'emittente e dell'insieme delle imprese incluse nel consolidamento;
+ e) per il bilancio d'esercizio e per quello consolidato, che la relazione sulla gestione comprende un'analisi attendibile dell'andamento e del risultato della gestione, nonche' della situazione dell'emittente e dell'insieme delle imprese incluse nel consolidamento, unitamente alla descrizione dei principali rischi e incertezze cui sono esposti;
+ f) per il bilancio semestrale abbreviato, che la relazione intermedia sulla gestione contiene un'analisi attendibile delle informazioni di cui al comma 4 dell'articolo 154-ter.»;
+
+                            
+                        
+                        
+                            c)
+                            
+                                dopo il comma 5 e' inserito il seguente:
+ «5-bis. L'attestazione di cui al comma 5 e' resa secondo il modello stabilito con regolamento dalla Consob.».
 
 Nella sezione V-bis del Capo II del Titolo III della Parte IV del decreto legislativo 24 febbraio 1998, n. 58, dopo l'articolo 154-bis, e' inserito il seguente:
  «Art. 154-ter.
@@ -87,6 +147,33 @@ Nella sezione V-bis del Capo II del Titolo III della Parte IV del decreto legisl
  c) il contenuto delle informazioni sulle operazioni rilevanti con parti correlate di cui al comma 4;
  d) le modalita' di applicazione del presente articolo per gli emittenti quote di fondi chiusi.
  7. Fermi restando i poteri previsti dall'articolo 157, comma 2, la Consob, nel caso in cui abbia accertato che i documenti che compongono le relazioni finanziarie di cui al presente articolo non sono conformi alle norme che ne disciplinano la redazione, puo' chiedere all'emittente di rendere pubblica tale circostanza e di provvedere alla pubblicazione delle informazioni supplementari necessarie a ripristinare una corretta informazione del mercato.».
+
+11.
+                    
+                        
+                            All'articolo 193 del decreto legislativo 24 febbraio 1998, n. 58, sono apportate le seguenti modificazioni:
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 1, le parole: «e 115» sono sostituite dalle seguenti: «, 115, 154-bis e 154-ter»;
+
+                            
+                        
+                        
+                            b)
+                            
+                                dopo il comma 1-ter, e' inserito il seguente:
+ «1-quater. La stessa sanzione di cui al comma 1 e' applicabile, in caso di inosservanza delle disposizioni di attuazione emanate dalla Consob ai sensi dell'articolo 113-ter, comma 5, lettere b) e c), nei confronti dei soggetti autorizzati dalla Consob all'esercizio del servizio di diffusione e di stoccaggio delle informazioni regolamentate.»;
+
+                            
+                        
+                        
+                            c)
+                            
+                                il comma 2 e' sostituito dal seguente:
+ «2. L'omissione delle comunicazioni delle partecipazioni rilevanti e dei patti parasociali previste rispettivamente dagli articoli 120, commi 2, 3 e 4, e 122, commi 1 e 2 e 5, nonche' la violazione dei divieti previsti dall'articolo 120, comma 5, 121, commi 1 e 3, e 122, comma 4, sono punite con la sanzione amministrativa pecuniaria da euro venticinquemila a euro duemilionicinquecentomila. Il ritardo nelle comunicazioni previste dall'articolo 120, commi 2, 3 e 4, non superiore a due mesi, e' punito con la sanzione amministrativa pecuniaria da euro cinquemila a euro cinquecentomila.».
 
 ## Art. 2. — Disposizioni finali e transitorie
 

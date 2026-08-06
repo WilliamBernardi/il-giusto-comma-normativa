@@ -7,8 +7,8 @@ urn: urn:nir:imprese.italy.made.ministero:decreto:2023-12-15;232
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:38Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -44,7 +44,169 @@ Udito il parere del Consiglio di Stato espresso dalla Sezione consultiva per gli
 
 ## Art. 1. — Definizioni
 
+1.
+                        
+                            
+                                Ai sensi e per gli effetti del presente decreto si applicano le seguenti definizioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    assicurato: il titolare dell'interesse coperto dall'assicurazione, la struttura o l'esercente la professione sanitaria o l'esercente attivita' libero professionale; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    contraente: soggetto che stipula il contratto di assicurazione e si obbliga a pagarne il premio; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    assicuratore: l'impresa autorizzata all'esercizio dell'attivita' assicurativa nel ramo responsabilita' civile generale ai sensi del codice delle assicurazioni private di cui al decreto legislativo 7 settembre 2005, n. 209; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    contratto di assicurazione: il contratto, regolato dall'articolo 1882 e ss. del codice civile, avente ad oggetto i rischi descritti all'articolo 3 derivanti dall'attivita' della struttura sanitaria o dell'esercente la professione sanitaria; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    denuncia: atto con il quale l'assicurato deve dare avviso scritto del sinistro, di cui alla lettera o), all'assicuratore; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    esercente la professione sanitaria: il professionista che, in forza di un titolo abilitante, svolge attivita' negli ambiti delle rispettive competenze, di prevenzione, diagnosi, cura, assistenza e riabilitazione, ricerca scientifica, formazione e ogni attivita' connessa all'esercizio di una professione sanitaria; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    esercente attivita' libero professionale: attivita' svolta dall'esercente la professione sanitaria, anche in convenzione con il Servizio Sanitario Nazionale, al di fuori della struttura o all'interno della stessa o di cui si avvale in adempimento della propria obbligazione contrattualmente assunta con il paziente, indipendentemente dalla tipologia di rapporto intercorrente con la struttura o dal ruolo ricoperto; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    struttura: la struttura sanitaria e sociosanitaria pubblica e privata che, a qualunque titolo, renda prestazioni sanitarie a favore di terzi; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    fondo rischi: fondo della struttura con appostazione in bilancio di somme riferentesi ai rischi in corso nell'anno di esercizio e che si protrarranno nell'esercizio successivo; 
+
+                                
+                            
+                            
+                                j)
+                                
+                                    fondo riserva sinistri: fondo della struttura con appostazione in bilancio della messa a riserva per competenza dei risarcimenti relativi a sinistri denunciati; 
+
+                                
+                            
+                            
+                                k)
+                                
+                                    revisore legale: una persona fisica abilitata a esercitare la revisione legale ai sensi del codice civile e delle disposizioni del decreto legislativo 27 gennaio 2010 n. 39 e iscritta nel Registro ovvero una persona fisica abilitata ad esercitare la revisione legale in un altro Stato membro dell'Unione europea ai sensi delle disposizioni di attuazione della direttiva 2006/43/CE, come modificata dalla direttiva 2014/56/UE, vigenti in tale Stato membro; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    Legge: legge 8 marzo 2017 n. 24; 
+
+                                
+                            
+                            
+                                m)
+                                
+                                    massimale di garanzia: la somma massima per importi non inferiori a quelli stabiliti all'articolo 4, liquidabile dall'assicuratore a titolo di risarcimento del danno in seguito al verificarsi di un sinistro o nei casi di cui all'ultimo periodo della successiva lettera o); 
+
+                                
+                            
+                            
+                                n)
+                                
+                                    premio: l'importo che il contraente paga per acquistare la garanzia offerta dall'assicuratore; 
+
+                                
+                            
+                            
+                                o)
+                                
+                                    sinistro: la richiesta di risarcimento danni per i quali e' prestata l'assicurazione (criterio c.d. «claims made») ossia qualsiasi formale richiesta scritta avanzata per la prima volta da terzi in vigenza di polizza o durante il periodo di ultrattivita' di cui all'articolo 5, comma 2, nei confronti dell'assicurato (o, nel caso di azione diretta, nei confronti dell'assicuratore), per il risarcimento dei danni subiti come conseguenza della sua attivita'; costituisce sinistro anche la citazione dell'assicurato in veste di responsabile civile in un procedimento penale a fronte della costituzione di parte civile da parte del danneggiato. In caso di polizza di cui all'articolo 10, comma 3, della Legge, il sinistro e' costituito dall'esercizio dell'azione di responsabilita' amministrativa, di rivalsa o surroga previste dagli articoli 9, commi 5 e 6, e 12, comma 3, della Legge. In questi casi, costituisce sinistro anche il ricevimento dell'invito a dedurre da parte del pubblico ministero presso la Corte dei Conti, nonche', per la rivalsa civilistica delle strutture sanitarie, la richiesta scritta avanzata per la prima volta dalla struttura in vigenza di polizza nei confronti dell'assicurato, con la quale e' ritenuto responsabile per colpa grave a seguito di sentenza passata in giudicato. Fatti diversi da quelli elencati non costituiscono sinistro, ivi inclusa la richiesta della cartella clinica, l'esecuzione del riscontro autoptico/autopsia giudiziaria/autopsia di cui al D.P.R. 10 settembre 1990, n. 285, la querela e l'avviso di garanzia. Piu' richieste di risarcimento presentate all'assicurato o all'assicuratore o alla struttura in conseguenza di una pluralita' di eventi riconducibili allo stesso atto, errore od omissione, oppure a piu' atti, errori od omissioni riconducibili ad una stessa causa, rappresentano nella formula claims made altrettanti sinistri quanti sono gli eventi (nel primo caso) o gli atti, errori od omissioni (nel secondo caso); 
+
+                                
+                            
+                            
+                                p)
+                                
+                                    misure analoghe: misure per la copertura della responsabilita' civile verso terzi e per la responsabilita' civile verso prestatori d'opera che prevedono l'assunzione diretta, totale o parziale, del rischio da parte della struttura; 
+
+                                
+                            
+                            
+                                q)
+                                
+                                    SIR: (Self Insurance Retention) quota di rischio non trasferita al mercato assicurativo e gestita in proprio dalla struttura assicurata anche in termini di corrispondente gestione, istruzione e liquidazione del sinistro; 
+
+                                
+                            
+                            
+                                r)
+                                
+                                    franchigia: elemento integrante della polizza di assicurazione che costituisce la parte del danno che rimane a carico dell'assicurato ed espressa in valore assoluto. La opposizione di franchigia impegna comunque l'assicuratore alla gestione del sinistro.
+
 ## Art. 2. — Ambito di applicazione
+
+1.
+                        
+                            
+                                Il presente decreto disciplina: 
+ 
+                            
+                            
+                                a)
+                                
+                                    i requisiti minimi di garanzia delle polizze assicurative di cui ai commi 1, 2 e 3 dell'articolo 10 della Legge, per strutture sanitarie e socio-sanitarie pubbliche e private e per gli esercenti le professioni sanitarie; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    i requisiti minimi di garanzia e le condizioni generali di operativita' delle altre analoghe misure, in assunzione diretta del rischio, di cui al comma 1 dell'articolo 10 della Legge; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    le regole per il trasferimento del rischio nel caso di subentro contrattuale di un'impresa di assicurazione; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    la previsione nel bilancio delle strutture di un fondo rischi e di un fondo costituito dalla messa a riserva per competenza dei risarcimenti relativi ai sinistri denunciati.
 
 ## - Titolo II REQUISITI MINIMI ED UNIFORMI PER L'IDONEITA' DEI CONTRATTI DI  ASSICURAZIONE
 
@@ -67,6 +229,63 @@ Ad ogni scadenza contrattuale, previo preavviso di almeno 90 giorni, per le cope
 Entro 24 mesi dal termine di cui all'articolo 18, comma 2, l'IVASS, nell'ambito delle funzioni di vigilanza di cui all'articolo 5 del decreto legislativo 7 settembre 2005, n. 209, monitora gli effetti sull'andamento dei premi in ragione dei principi di cui al comma 7 e comunica le risultanze al Ministero delle imprese e del made in Italy che potra' adottare nei successivi 12 mesi misure correttive ai fini della completa applicabilita' del comma 7.
 
 ## Art. 4. — Massimali minimi di garanzia delle polizze assicurative
+
+1.
+                        
+                            
+                                I massimali minimi di garanzia delle coperture assicurative dei contratti assicurativi obbligatori per la responsabilita' civile verso terzi di cui all'articolo 10, comma 1 della Legge, individuati per diverse classi di rischio, sono i seguenti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    per le strutture ambulatoriali che non eseguono prestazioni erogabili solo in ambulatori protetti, ossia ambulatori situati nell'ambito di istituti di ricovero e cura ai sensi del Decreto del Presidente del Consiglio dei Ministri 12 gennaio 2017, ivi compresi i laboratori di analisi: massimale non inferiore ad € 1.000.000,00 per sinistro ed un massimale per ciascun anno non inferiore al triplo di quello per sinistro; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    per le strutture che non svolgono attivita' chirurgica, ortopedica, anestesiologica e parto, ivi comprese le strutture socio sanitarie residenziali e semi residenziali, nonche' per le strutture ambulatoriali che eseguono prestazioni erogabili solo in ambulatori protetti, ossia ambulatori situati nell'ambito di istituti di ricovero e cura ai sensi del decreto del Presidente del Consiglio dei Ministri 12 gennaio 2017 o attivita' odontoiatrica e per le strutture socio-sanitarie: massimale non inferiore a € 2.000.000,00 per sinistro e massimale per ciascun anno non inferiore al triplo del massimale per sinistro; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    per le strutture che svolgono anche attivita' chirurgica, ortopedica, anestesiologica e parto: massimale non inferiore a € 5.000.000,00 per sinistro e massimale per ciascun anno non inferiore al triplo del massimale per sinistro; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    per i sinistri di cui all'ultimo periodo dell'articolo 1, comma 1, lettera o): massimale per sinistro e per anno non inferiore al triplo del massimale per sinistro di cui alle lettere a), b) e c), indipendentemente dal numero dei danneggiati.
+
+2.
+                        
+                            
+                                I massimali minimi di garanzia delle coperture assicurative dei contratti assicurativi obbligatori di cui all'articolo 10, comma 2 della Legge, individuati per diverse classi di rischio, sono i seguenti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    per gli esercenti la professione sanitaria che non svolgono attivita' chirurgica, ortopedica, anestesiologica e parto: massimale non inferiore a € 1.000.000,00 per sinistro e massimale per ciascun anno non inferiore al triplo del massimale per sinistro; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    per gli esercenti la professione sanitaria che svolgono anche attivita' chirurgica, ortopedica, anestesiologica e parto: massimale non inferiore a € 2.000.000,00 per sinistro e massimale per ciascun anno non inferiore al triplo del massimale per sinistro; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    per i sinistri di cui all'ultimo periodo dell'articolo 1, comma 1, lettera o): massimale per sinistro e per anno non inferiore al triplo del massimale per sinistro di cui alle lettere a) e b), indipendentemente dal numero dei danneggiati.
 
 I massimali di garanzia delle coperture assicurative per ciascun sinistro e per ciascun anno dei contratti assicurativi obbligatori di cui all'articolo 10, comma 3, della Legge, corrispondono agli importi previsti dall'articolo 9, commi 5 e 6 della Legge. I limiti degli importi previsti non si applicano nei confronti degli esercenti attivita' libero professionale di cui all'articolo 3, comma 2.
 
@@ -98,6 +317,38 @@ Le strutture rendono disponibili, mediante pubblicazione sul proprio sito intern
 
 ## Art. 8. — Eccezioni opponibili
 
+1.
+                        
+                            
+                                Sono opponibili al danneggiato, previa sottoscrizione di clausola contrattuale da approvare specificamente per iscritto, le seguenti eccezioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    i fatti dannosi derivanti dallo svolgimento di attivita' che non sono oggetto della copertura assicurativa; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    fatti generatori di responsabilita' verificatisi e le richieste di risarcimento presentate al di fuori dei periodi contemplati dall'articolo 5; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    le limitazioni del contratto assicurativo di cui all'articolo 1, comma 1, lettere q) ed r), con riferimento alle coperture assicurative di cui al comma 1 dell'articolo 10 della Legge; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    il mancato pagamento del premio.
+
 Resta fermo quanto previsto dall'articolo 38-bis del decreto-legge 6 novembre 2021, n. 152, convertito con modificazioni, dalla legge 29 dicembre 2021, n. 233.
 
 ## - Titolo III REQUISITI MINIMI DI GARANZIA E CONDIZIONI DI OPERATIVITA' DELLE  MISURE ANALOGHE
@@ -111,6 +362,24 @@ La scelta di operare mediante assunzione diretta del rischio deve risultare da a
 ## Art. 10. — Fondo rischi
 
 La struttura che opera mediante assunzione diretta del rischio costituisce un fondo specifico a copertura dei rischi individuabili al termine dell'esercizio e che possono dar luogo a richieste di risarcimento a carico della struttura.
+
+2.
+                        
+                            
+                                L'importo accantonato ai sensi del comma 1: 
+ 
+                            
+                            
+                                a)
+                                
+                                    tiene conto della tipologia e della quantita' delle prestazioni erogate e delle dimensioni della struttura ed e' sufficiente a far fronte, nel continuo, al costo atteso per i rischi in corso al termine dell'esercizio; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    e' utilizzato esclusivamente per il risarcimento danni derivante dalle prestazioni sanitarie erogate senza vincolo di indisponibilita' in termini di cassa.
 
 Qualora, a seguito dell'utilizzo del fondo, il residuo importo sia ritenuto insufficiente a far fronte ai rischi in corso nell'esercizio, il fondo deve essere immediatamente ricostituito e comunque entro l'esercizio in corso, salva la possibilita' di stipulare apposita polizza assicurativa a copertura dell'eventuale esaurimento del fondo.
 
@@ -146,6 +415,38 @@ La struttura, in completa o parziale auto-ritenzione del rischio, o con copertur
 
 ## Art. 16. — Funzioni per il governo del rischio assicurativo 
  e valutazione dei sinistri
+
+1.
+                        
+                            
+                                La struttura istituisce al proprio interno, senza nuovi o maggiori oneri per la finanza pubblica, la funzione valutazione dei sinistri in grado di valutare sul piano medico-legale, nonche' clinico e giuridico, la pertinenza e la fondatezza delle richieste indirizzate alla struttura. Tale funzione dovra' fornire il necessario supporto ai fini della determinazione di corrette e congrue poste da inserire in bilancio relativamente ai fondi di cui agli articoli 10 e 11. Le competenze minime obbligatorie, interne o esterne, che la struttura deve garantire sono le seguenti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    medicina legale; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    perito («loss adjuster»); 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    avvocato o altra figura professionale, con competenze giuridico legali, dell'ufficio aziendale incaricato della gestione dei sinistri; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    gestione del rischio («risk management»).
 
 Il processo di stima dei fondi, in applicazione degli specifici principi contabili di riferimento, laddove necessario, dovra' richiedere particolari conoscenze e l'utilizzo di tecniche probabilistico-attuariali ed idonee esperienze ai fini della misurazione dei relativi oneri da fronteggiare con la costituzione dei fondi di cui agli articoli 10 e 11.
 

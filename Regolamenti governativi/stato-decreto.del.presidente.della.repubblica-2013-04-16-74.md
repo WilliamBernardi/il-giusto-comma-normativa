@@ -8,8 +8,8 @@ vigente: true
 source: normattiva-opendata
 collection: Regolamenti governativi
 vigenza_date: 2020-06-11
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:15Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -55,11 +55,48 @@ Ai fini del presente regolamento si applicano le definizioni contenute nell'arti
 
 ## Art. 3. — Valori massimi della temperatura ambiente
 
+1.
+                    
+                        
+                            Durante il funzionamento dell'impianto di climatizzazione invernale, la media ponderata delle temperature dell'aria, misurate nei singoli ambienti riscaldati di ciascuna unita' immobiliare, non deve superare: 
+ 
+                        
+                        
+                            a)
+                            
+                                18°C + 2°C di tolleranza per gli edifici adibiti ad attivita' industriali, artigianali e assimilabili; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                20°C + 2°C di tolleranza per tutti gli altri edifici.
+
 Durante il funzionamento dell'impianto di climatizzazione estiva, la media ponderata delle temperature dell'aria, misurate nei singoli ambienti raffrescati di ciascuna unita' immobiliare, non deve essere minore di 26°C - 2°C di tolleranza per tutti gli edifici.
 
 Il mantenimento della temperatura dell'aria negli ambienti entro i limiti fissati ai commi 1 e 2 e' ottenuto con accorgimenti che non comportino spreco di energia.
 
 Gli edifici adibiti a ospedali, cliniche o case di cura e assimilabili, ivi compresi quelli adibiti a ricovero o cura di minori o anziani, nonche' le strutture protette per l'assistenza e il recupero dei tossico-dipendenti e di altri soggetti affidati a servizi sociali pubblici, sono esclusi dal rispetto dei commi 1 e 2, limitatamente alle zone riservate alla permanenza e al trattamento medico dei degenti o degli ospiti. Per gli edifici adibiti a piscine, saune e assimilabili, per le sedi delle rappresentanze diplomatiche e di organizzazioni internazionali non ubicate in stabili condominiali, le autorita' comunali possono concedere deroghe motivate ai limiti di temperatura dell'aria negli ambienti di cui ai commi 1 e 2, qualora elementi oggettivi o esigenze legati alla specifica destinazione d'uso giustifichino temperature diverse di detti valori.
+
+5.
+                    
+                        
+                            Per gli edifici adibiti ad attivita' industriali, artigianali e assimilabili, le autorita' comunali possono concedere deroghe ai limiti di temperatura dell'aria negli ambienti di cui ai commi 1 e 2, qualora si verifichi almeno una delle seguenti condizioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                le esigenze tecnologiche o di produzione richiedano temperature diverse dai valori limite; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                l'energia termica per la climatizzazione estiva e invernale degli ambienti derivi da sorgente non convenientemente utilizzabile in altro modo. 
+ ((1))
 
 -------------
                         AGGIORNAMENTO (1)
@@ -70,9 +107,180 @@ Gli edifici adibiti a ospedali, cliniche o case di cura e assimilabili, ivi comp
 
 Gli impianti termici destinati alla climatizzazione degli ambienti invernali sono condotti in modo che, durante il loro funzionamento, non siano superati i valori massimi di temperatura indicati all'articolo 3 del presente decreto.
 
+2.
+                    
+                        
+                            L'esercizio degli impianti termici per la climatizzazione invernale e' consentito con i seguenti limiti relativi al periodo annuale e alla durata giornaliera di attivazione, articolata anche in due o piu' sezioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                Zona A: ore 6 giornaliere dal 1° dicembre al 15 marzo; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                Zona B: ore 8 giornaliere dal 1° dicembre al 31 marzo; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                Zona C: ore 10 giornaliere dal 15 novembre al 31 marzo; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                Zona D: ore 12 giornaliere dal 1° novembre al 15 aprile; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                Zona E: ore 14 giornaliere dal 15 ottobre al 15 aprile; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                Zona F: nessuna limitazione.
+
 Al di fuori di tali periodi, gli impianti termici possono essere attivati solo in presenza di situazioni climatiche che ne giustifichino l'esercizio e, comunque, con una durata giornaliera non superiore alla meta' di quella consentita in via ordinaria.
 
 La durata giornaliera di attivazione degli impianti non ubicati nella zona F e' compresa tra le ore 5 e le ore 23 di ciascun giorno.
+
+5.
+                    
+                        
+                            Le disposizioni di cui ai commi 2, 3 e 4 non si applicano: 
+ 
+                        
+                        
+                            a)
+                            
+                                agli edifici adibiti a ospedali, cliniche o case di cura e assimilabili ivi compresi quelli adibiti a ricovero o cura di minori o anziani, nonche' alle strutture protette per l'assistenza ed il recupero dei tossico-dipendenti e di altri soggetti affidati a servizi sociali pubblici; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                alle sedi delle rappresentanze diplomatiche e di organizzazioni internazionali, che non siano ubicate in stabili condominiali; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                agli edifici adibiti a scuole materne e asili nido; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                agli edifici adibiti a piscine, saune e assimilabili; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                agli edifici adibiti ad attivita' industriali ed artigianali e assimilabili, nei casi in cui ostino esigenze tecnologiche o di produzione.
+
+6.
+                    
+                        
+                            Le disposizioni di cui ai commi 2, 3 e 4, limitatamente alla sola durata giornaliera di attivazione, non si applicano nei seguenti casi: 
+ 
+                        
+                        
+                            a)
+                            
+                                edifici adibiti a uffici e assimilabili, nonche' edifici adibiti ad attivita' commerciali e assimilabili, limitatamente alle parti adibite a servizi senza interruzione giornaliera delle attivita'; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                impianti termici che utilizzano calore proveniente da centrali di cogenerazione con produzione combinata di elettricita' e calore; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                impianti termici che utilizzano sistemi di riscaldamento di tipo a pannelli radianti incassati nell'opera muraria; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                impianti termici al servizio di uno o piu' edifici dotati di circuito primario, volti esclusivamente ad alimentare gli edifici di cui alle deroghe previste al comma 5, per la produzione di acqua calda per usi igienici e sanitari, nonche' al fine di mantenere la temperatura dell'acqua nel circuito primario al valore necessario a garantire il funzionamento dei circuiti secondari nei tempi previsti; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                impianti termici al servizio di piu' unita' immobiliari residenziali e assimilate dotati di gruppo termoregolatore pilotato da una sonda di rilevamento della temperatura esterna con programmatore che consenta la regolazione almeno su due livelli della temperatura ambiente nell'arco delle 24 ore; questi impianti possono essere condotti in esercizio continuo purche' il programmatore giornaliero venga tarato e sigillato per il raggiungimento di una temperatura degli ambienti pari a 16°C + 2°C di tolleranza nelle ore al di fuori della durata giornaliera di attivazione di cui al comma 2 del presente articolo; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                impianti termici al servizio di piu' unita' immobiliari residenziali e assimilate nei quali sia installato e funzionante, in ogni singola unita' immobiliare, un sistema di contabilizzazione del calore e un sistema di termoregolazione della temperatura ambiente dell'unita' immobiliare stessa dotato di un programmatore che consenta la regolazione almeno su due livelli di detta temperatura nell'arco delle 24 ore; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                impianti termici per singole unita' immobiliari residenziali e assimilate dotati di un sistema di termoregolazione della temperatura ambiente con programmatore giornaliero che consenta la regolazione di detta temperatura almeno su due livelli nell'arco delle 24 ore nonche' lo spegnimento del generatore di calore sulla base delle necessita' dell'utente; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                impianti termici condotti mediante "contratti di servizio energia" ove i corrispettivi sono correlati al raggiungimento del comfort ambientale nei limiti consentiti dal presente regolamento, purche' si provveda, durante le ore al di fuori della durata di attivazione degli impianti consentita dai commi 2 e 3, ad attenuare la potenza erogata dall'impianto nei limiti indicati alla lettera e).
+
+7.
+                    
+                        
+                            Presso ogni impianto termico al servizio di piu' unita' immobiliari residenziali e assimilate, il proprietario o l'amministratore espongono una tabella contenente: 
+ 
+                        
+                        
+                            a)
+                            
+                                l'indicazione del periodo annuale di esercizio dell'impianto termico e dell'orario di attivazione giornaliera prescelto; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                le generalita' e il recapito del responsabile dell'impianto termico; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                il codice dell'impianto assegnato dal Catasto territoriale degli impianti termici istituito dalla Regione o Provincia autonoma ai sensi dell'articolo 10, comma 4, lettera a). 
+ ((1))
 
 -------------
                         AGGIORNAMENTO (1)
@@ -103,6 +311,31 @@ Il responsabile o, ove delegato, il terzo responsabile rispondono del mancato ri
 
 Il terzo responsabile, ai fini di cui al comma 3, comunica tempestivamente in forma scritta al delegante l'esigenza di effettuare gli interventi, non previsti al momento dell'atto di delega o richiesti dalle evoluzioni della normativa, indispensabili al corretto funzionamento dell'impianto termico affidatogli e alla sua rispondenza alle vigenti prescrizioni normative. Negli edifici in cui vige un regime di condominio il delegante deve espressamente autorizzare con apposita delibera condominiale il terzo responsabile a effettuare i predetti interventi entro 10 giorni dalla comunicazione di cui sopra, facendosi carico dei relativi costi. In assenza della delibera condominiale nei detti termini, la delega del terzo responsabile decade automaticamente.
 
+5.
+                    
+                        
+                            Il terzo responsabile informa la Regione o Provincia autonoma competente per territorio, o l'organismo da loro eventualmente delegato: 
+ 
+                        
+                        
+                            a)
+                            
+                                della delega ricevuta, entro dieci giorni lavorativi; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                della eventuale revoca dell'incarico o rinuncia allo stesso, entro due giorni lavorativi; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                della decadenza di cui al comma 4, entro i due successivi giorni lavorativi, nonche' le eventuali variazioni sia della consistenza che della titolarita' dell'impianto.
+
 Il terzo responsabile non puo' delegare ad altri le responsabilita' assunte e puo' ricorrere solo occasionalmente al subappalto o all'affidamento di alcune attivita' di sua competenza, fermo restando il rispetto del decreto del Ministro dello sviluppo economico 22 gennaio 2008, n. 37, per le sole attivita' di manutenzione, e la propria diretta responsabilita' ai sensi e per gli effetti dell'articolo 1667 e seguenti del codice civile.
 
 Il ruolo di terzo responsabile di un impianto e' incompatibile con il ruolo di venditore di energia per il medesimo impianto, e con le societa' a qualsiasi titolo legate al ruolo di venditore, in qualita' di partecipate o controllate o associate in ATI o aventi stessa partecipazione proprietaria o aventi in essere un contratto di collaborazione, a meno che la fornitura sia effettuata nell'ambito di un contratto di servizio energia, di cui al decreto legislativo 30 maggio 2008, n. 115, in cui la remunerazione del servizio fornito non sia riconducibile alla quantita' di combustibile o di energia fornita, ma misurabile in base a precisi parametri oggettivi preventivamente concordati. Nel contratto di servizio energia deve essere riportata esplicitamente la conformita' alle disposizioni del decreto legislativo 30 maggio 2008, n. 115.
@@ -123,6 +356,24 @@ Qualora l'impresa installatrice non abbia fornito proprie istruzioni specifiche,
 
 Le operazioni di controllo ed eventuale manutenzione delle restanti parti dell'impianto termico e degli apparecchi e dispositivi per i quali non siano disponibili ne' reperibili le istruzioni del fabbricante, devono essere eseguite secondo le prescrizioni e con la periodicita' prevista dalle normative UNI e CEI per lo specifico elemento o tipo di apparecchio o dispositivo.
 
+4.
+                    
+                        
+                            Gli installatori e i manutentori degli impianti termici, abilitati ai sensi del decreto del Ministro dello sviluppo economico 22 gennaio 2008, n. 37, nell'ambito delle rispettive responsabilita', devono definire e dichiarare esplicitamente al committente o all'utente, in forma scritta e facendo riferimento alla documentazione tecnica del progettista dell'impianto o del fabbricante degli apparecchi: 
+ 
+                        
+                        
+                            a)
+                            
+                                quali siano le operazioni di controllo e manutenzione di cui necessita l'impianto da loro installato o manutenuto, per garantire la sicurezza delle persone e delle cose; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                con quale frequenza le operazioni di cui alla lettera a) vadano effettuate.
+
 Gli impianti termici per la climatizzazione o produzione di acqua calda sanitaria devono essere muniti di un "Libretto di impianto per la climatizzazione". In caso di trasferimento a qualsiasi titolo dell'immobile o dell'unita' immobiliare i libretti di impianto devono essere consegnati all'avente causa, debitamente aggiornati, con gli eventuali allegati.
 
 I modelli dei libretti di impianto di cui al comma 5 e dei rapporti di efficienza energetica di cui all'articolo 8, comma 3, nelle versioni o configurazioni relative alle diverse tipologie impiantistiche, sono aggiornati, integrati e caratterizzati da una numerazione progressiva che li identifica, con decreto del Ministro dello sviluppo economico, entro il 1° luglio 2013, ferma restando la facolta' delle Regioni e Province autonome di apportare ulteriori integrazioni. I predetti rapporti di efficienza energetica prevedono una sezione, sotto forma di check-list, in cui riportare i possibili interventi atti a migliorare il rendimento energetico dell'impianto in modo economicamente conveniente. 
@@ -135,7 +386,57 @@ I modelli dei libretti di impianto di cui al comma 5 e dei rapporti di efficienz
 
 ## Art. 8. — Controllo dell'efficienza energetica degli impianti termici
 
+1.
+                    
+                        
+                            In occasione degli interventi di controllo ed eventuale manutenzione di cui all'articolo 7 su impianti termici di climatizzazione invernale di potenza termica utile nominale maggiore di 10 kW e sugli impianti di climatizzazione estiva di potenza termica utile nominale maggiore di 12 kW, si effettua un controllo di efficienza energetica riguardante: 
+ 
+                        
+                        
+                            a)
+                            
+                                il sottosistema di generazione come definito nell'Allegato A del decreto legislativo; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                la verifica della presenza e della funzionalita' dei sistemi di regolazione della temperatura centrale e locale nei locali climatizzati; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                la verifica della presenza e della funzionalita' dei sistemi di trattamento dell'acqua, dove previsti.
+
 Le operazioni di cui al comma 1 sono effettuate secondo i rispettivi rapporti di controllo di efficienza energetica, come individuati all'Allegato A del presente decreto.
+
+3.
+                    
+                        
+                            I controlli di efficienza energetica di cui ai commi 1 e 2 devono essere inoltre realizzati: 
+ 
+                        
+                        
+                            a)
+                            
+                                all'atto della prima messa in esercizio dell'impianto, a cura dell'installatore; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                nel caso di sostituzione degli apparecchi del sottosistema di generazione, come per esempio il generatore di calore; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                nel caso di interventi che non rientrino tra quelli periodici, ma tali da poter modificare l'efficienza energetica.
 
 Il successivo controllo deve essere effettuato entro i termini previsti a far data dalla effettuazione dei controlli di cui al comma 3.
 
@@ -174,6 +475,52 @@ Le Regioni e le Province autonome di Trento e di Bolzano, nell'ambito delle prop
 
 Le Regioni, le Province autonome di Trento e di Bolzano o l'organismo incaricato provvedono all'accertamento dei rapporti di controllo di efficienza energetica pervenuti e, qualora ne rilevino la necessita', si attivano presso i responsabili degli impianti affinche' questi ultimi procedano agli adeguamenti eventualmente necessari.
 
+9.
+                    
+                        
+                            Ai fini degli obiettivi di miglioramento dell'efficienza energetica, le ispezioni sono programmate in base ai seguenti criteri e priorita': 
+ 
+                        
+                        
+                            a)
+                            
+                                impianti per cui non sia pervenuto il rapporto di controllo di efficienza energetica o per i quali in fase di accertamento siano emersi elementi di criticita'; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                impianti dotati di generatori o macchine frigorifere con anzianita' superiore a 15 anni; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                impianti dotati di generatori a combustibile liquido o solido con potenza termica utile nominale superiore a 100 kW: ispezioni sul 100 per cento degli impianti, ogni due anni; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                impianti dotati di macchine frigorifere con potenza termica utile nominale superiore ai 100 kW: ispezioni sul 100 per cento degli impianti, ogni quattro anni; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                impianti dotati di generatori a gas con potenza termica utile nominale superiore a 100 kW e impianti dotati di generatori a combustibile liquido o solido con potenza termica utile nominale compresa tra 20 e 100 kW: ispezioni sul 100 per cento degli impianti, ogni quattro anni; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                gli impianti, di cui all'articolo 8, comma 7, per i quali dai rapporti di controllo dell'efficienza energetica risulti la non riconducibilita' a rendimenti superiori a quelli fissati nell'Allegato B del presente decreto.
+
 Entro il 31 dicembre 2014, le Regioni e le Province autonome di Trento e di Bolzano predispongono e trasmettono al Ministero dello sviluppo economico ed al Ministero dell'ambiente e della tutela del territorio e del mare una relazione sulle caratteristiche e sullo stato di efficienza e manutenzione degli impianti termici nel territorio di propria competenza, con particolare riferimento alle risultanze delle ispezioni effettuate nell'ultimo biennio. La relazione e' aggiornata con frequenza biennale. Convenzionalmente il periodo di riferimento della stagione termica e' fissato come inizio al primo agosto di ogni anno e termine al 31 luglio dell'anno successivo. 
  ((1))
 
@@ -187,6 +534,68 @@ Entro il 31 dicembre 2014, le Regioni e le Province autonome di Trento e di Bolz
 Ai sensi dell'articolo 17 del decreto legislativo e nel rispetto del principio di sussidiarieta', le disposizioni del presente decreto si applicano ai territori per i quali le Regioni o le Province autonome non abbiano ancora adottato propri provvedimenti di applicazione della direttiva 2002/91/CE del Parlamento europeo e del Consiglio, del 16 dicembre 2002, e comunque fino alla data di entrata in vigore dei predetti provvedimenti, fermo restando quanto previsto dal presente articolo.
 
 Al fine di garantire un'applicazione omogenea sull'intero territorio nazionale dei principi fondamentali della direttiva 2002/91/CE e del decreto legislativo, le Regioni e le Province autonome provvedono affinche' sia assicurata la coerenza dei loro provvedimenti con i contenuti del presente decreto, assumendoli come riferimento minimo inderogabile.
+
+3.
+                    
+                        
+                            Nel disciplinare la materia, le Regioni e le Province autonome, tenendo conto delle peculiarita' del territorio, del parco edilizio e impiantistico esistente, delle valutazioni tecnico-economiche concernenti i costi di costruzione e di gestione degli edifici, delle specificita' ambientali, del contesto socio-economico e di un corretto rapporto costi-benefici per i cittadini, possono: 
+ 
+                        
+                        
+                            a)
+                            
+                                individuare le modalita' piu' opportune per garantire il corretto esercizio degli impianti termici e piu' efficaci per lo svolgimento delle previste attivita' di controllo, accertamento e ispezione, anche: 
+ 1) ampliando il campo delle potenze degli impianti su cui eseguire gli interventi di controllo e le ispezioni, con particolare attenzione agli impianti a combustibile solido; 
+ 2) fissando requisiti minimi di efficienza energetica degli impianti termici, migliorativi rispetto a quelli previsti dal presente decreto; 
+ 3) differenziando le modalita' e la cadenza della trasmissione dei rapporti di efficienza energetica di cui all'articolo 8, comma 5; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                istituire un sistema di accreditamento degli organismi e dei soggetti cui affidare le attivita' di ispezione sugli impianti termici e di certificazione energetica degli edifici, promuovendo programmi per la loro qualificazione e formazione professionale, tenendo conto dei requisiti minimi previsti dal presente decreto e nel rispetto delle norme comunitarie in materia di libera circolazione dei servizi; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                assicurare la copertura dei costi necessari per l'adeguamento e la gestione del catasto degli impianti termici, nonche' per gli accertamenti e le ispezioni sugli impianti stessi, mediante la corresponsione di un contributo da parte dei responsabili degli impianti, da articolare in base alla potenza degli impianti, secondo modalita' uniformi su tutto il territorio regionale.
+
+4.
+                    
+                        
+                            Le Regioni e le Province autonome, in attuazione delle disposizioni di cui all'articolo 9, provvedono a: 
+ 
+                        
+                        
+                            a)
+                            
+                                istituire un catasto territoriale degli impianti termici, anche in collaborazione con gli Enti locali e accessibile agli stessi, stabilendo contestualmente gli obblighi di cui all'articolo 9, comma 3, del decreto legislativo, per i responsabili degli impianti e per i distributori di combustibile; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                predisporre e gestire il catasto territoriale degli impianti termici e quello relativo agli attestati di prestazione energetica, favorendo la loro interconnessione; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                promuovere programmi per la qualificazione e aggiornamento professionale dei soggetti cui affidare le attivita' di ispezione sugli impianti termici nonche' avviare programmi di verifica annuale della conformita' dei rapporti di ispezione; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                promuovere campagne di informazione e sensibilizzazione dei cittadini. 
+ 1. Ai fini di cui al comma 2, le Regioni e le Province autonome che alla data di entrata in vigore del presente decreto abbiano gia' provveduto al recepimento della direttiva 2002/91/CE in materia di esercizio, conduzione, controllo, manutenzione e ispezione degli impianti termici, provvedono ad adeguare le disposizioni adottate alle previsioni del presente decreto. 
+ ((1))
 
 -------------
                         AGGIORNAMENTO (1)
@@ -206,6 +615,39 @@ In relazione agli adempimenti di cui al presente decreto vigono le sanzioni prev
 ## Art. 12. — Abrogazioni
 
 E' abrogato l'articolo 5 del decreto del Presidente della Repubblica 2 aprile 2009, n. 59.
+
+2.
+                    
+                        
+                            Sono abrogati l'allegato I ed i seguenti articoli del decreto del Presidente della Repubblica 26 agosto 1993, n. 412: 
+ 
+                        
+                        
+                            a)
+                            
+                                articolo 4, commi 1, 2, 3 e 4; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                articolo 9; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                articolo 10; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                articolo 11, commi 1, 2, 3, 5, 6, 7, 8, 13 e 17. 
+ ((1))
 
 -------------
                         AGGIORNAMENTO (1)

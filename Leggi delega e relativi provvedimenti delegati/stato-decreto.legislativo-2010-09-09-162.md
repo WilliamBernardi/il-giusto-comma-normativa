@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Leggi delega e relativi provvedimenti delegati
 vigenza_date: 2020-02-20
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:41:14Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -24,6 +24,31 @@ Sulla proposta del Ministro della giustizia, di concerto con i Ministri dell'eco
 
 ## Art. 1. — Istituzione dei ruoli
 
+1.
+                    
+                        
+                            Per le attivita' del laboratorio centrale per la banca dati nazionale del DNA, cosi' come individuato ai sensi dell'articolo 5 della legge 30 giugno 2009, n. 85, presso il Dipartimento dell'Amministrazione penitenziaria del Ministero della giustizia, sono istituiti, a decorrere dal 1° gennaio 2011, in relazione all'articolo 18 della medesima legge, i seguenti ruoli tecnici del personale del Corpo di polizia penitenziaria: 
+ 
+                        
+                        
+                            a)
+                            
+                                ruolo degli agenti e assistenti tecnici; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                ruolo dei sovrintendenti tecnici; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                ruolo degli ispettori tecnici;
+
 I profili professionali degli appartenenti ai ruoli di cui al comma 1, sono individuati con regolamento del Ministro della giustizia, di concerto con i Ministri per la pubblica amministrazione e l'innovazione e dell'economia e delle finanze, da adottare ai sensi dell'articolo 17, comma 3, della legge 23 agosto 1988, n. 400. Lo schema del regolamento e' trasmesso al Parlamento per l'espressione dei pareri da parte delle Commissioni competenti per materia. I pareri sono resi entro il termine di quindici giorni dalla data di trasmissione, decorso il quale i regolamenti sono adottati anche in mancanza dei pareri.
 
 Con uno o piu' regolamenti del Ministro della giustizia, di concerto con il Ministro per la pubblica amministrazione e l'innovazione, da emanare ai sensi dell'articolo 17, comma 3, della legge 23 agosto 1988, n. 400, sono stabilite le modalita' di svolgimento dei concorsi, comprese le eventuali forme di preselezione, quelle di accertamento dell'idoneita' fisica, psichica e attitudinale al servizio, la composizione delle commissioni esaminatrici, le prove di esame e le modalita' di formazione della graduatoria finale, le categorie dei titoli da ammettere a valutazione ed il punteggio da attribuire a ciascuna di esse e le modalita' di svolgimento dei corsi di formazione, in relazione alle mansioni tecniche previste e quelle di svolgimento degli esami di fine corso.
@@ -35,6 +60,38 @@ Al personale appartenente ai ruoli di cui all'articolo 1 si applicano, per quant
 L'equiparazione del personale dei ruoli suddetti con quello che espleta i compiti di cui all'art. 5 della legge 15 dicembre 1990, n. 395 e' fissata nella tabella B, di cui all'allegato II.
 
 ## Art. 3. — ((Ruolo degli agenti e assistenti tecnici))
+
+1.
+                    
+                        
+                            Il ((ruolo degli agenti e assistenti tecnici)) tecnici e' articolato in quattro qualifiche che assumono le seguenti denominazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                agente tecnico; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                agente scelto tecnico; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                assistente tecnico; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                assistente capo tecnico.
 
 ## Art. 4. — Mansioni del personale appartenente al ruolo degli agenti e assistenti tecnici
 
@@ -48,6 +105,24 @@ Gli appartenenti alle qualifiche di assistente tecnico e assistente capo tecnico
 
 In relazione al qualificato profilo professionale raggiunto, agli assistenti capo tecnici che maturano ((cinque)) anni di effettivo servizio nella qualifica possono essere affidati, anche permanendo nello stesso incarico, compiti particolari tra le mansioni di cui ai commi precedenti, ed e' attribuita, ferma restando la qualifica rivestita, la denominazione di «coordinatore», che determina, in relazione alla data di conferimento, preminenza gerarchica, anche nei casi di pari qualifica con diversa anzianita'.
 Gli stessi svolgono mansioni di coordinamento del personale del medesimo ruolo, anche in servizi non operativi, al fine di assicurare lo svolgimento delle attivita' istituzionali.
+
+4-ter.
+                    
+                        
+                            E' escluso dall'attribuzione della denominazione di cui al comma 4-bis il personale: 
+ 
+                        
+                        
+                            a)
+                            
+                                che nel triennio precedente abbia riportato un giudizio inferiore a «distinto» o che nel quinquennio precedente abbia riportato una sanzione disciplinare piu' grave della pena pecuniaria; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                sospeso cautelarmente dal servizio, rinviato a giudizio o ammesso ai riti alternativi per i delitti non colposi ovvero sottoposto a procedimento disciplinare per l'applicazione di una sanzione piu' grave della pena pecuniaria. La denominazione e' attribuita dopo la definizione dei relativi procedimenti, fermo restando quanto previsto dal presente comma. Si applicano le disposizioni contenute negli articoli 94 e 95 del decreto del Presidente della Repubblica 10 gennaio 1957, n. 3.
 
 ## Art. 5. — Nomina ad agente tecnico
 
@@ -79,6 +154,31 @@ La promozione alla qualifica di assistente capo tecnico si consegue, a ruolo ape
 
 ((
 
+1.
+                    
+                        
+                            Il ruolo dei sovrintendenti tecnici e' articolato in tre qualifiche che assumono le seguenti denominazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                vice sovrintendente tecnico; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                sovrintendente tecnico; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                sovrintendente capo tecnico.
+
 ))
 
 ## Art. 10. — Mansioni del personale appartenente al ruolo dei sovrintendenti tecnici
@@ -94,9 +194,45 @@ Al suddetto personale possono essere attribuiti compiti di istruzione del person
 
 In relazione al qualificato profilo professionale raggiunto, ai sovrintendenti capo tecnici che maturano ((sei)) anni di effettivo servizio nella qualifica possono essere affidati, anche permanendo nello stesso incarico, compiti particolari tra le mansioni previste dai commi 1 e 2, ed e' attribuita, ferma restando la qualifica rivestita, la denominazione di «coordinatore», che determina, in relazione alla data di conferimento, preminenza gerarchica, anche nei casi di pari qualifica con diversa anzianita'. Gli stessi svolgono mansioni di coordinamento del personale del medesimo ruolo, anche in servizi non operativi, al fine di assicurare lo svolgimento delle attivita' istituzionali.
 
+4-ter.
+                    
+                        
+                            E' escluso dall'attribuzione della denominazione di cui al comma 4-bis il personale: 
+ 
+                        
+                        
+                            a)
+                            
+                                che nel triennio precedente abbia riportato un giudizio inferiore a «distinto» o che nel quinquennio precedente abbia riportato una sanzione disciplinare piu' grave della pena pecuniaria; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                sospeso cautelarmente dal servizio, rinviato a giudizio o ammesso ai riti alternativi per i delitti non colposi ovvero sottoposto a procedimento disciplinare per l'applicazione di una sanzione piu' grave della pena pecuniaria. La denominazione e' attribuita dopo la definizione dei relativi procedimenti, fermo restando quanto previsto dal presente comma. Si applicano le disposizioni contenute negli articoli 94 e 95 del decreto del Presidente della Repubblica 10 gennaio 1957, n. 3.
+
 ## Art. 11.
 
 Nomina a ((vice sovrintendente)) tecnico
+
+1.
+                    
+                        
+                            La nomina alla qualifica iniziale del ((ruolo dei sovrintendenti)) tecnici si consegue: 
+ 
+                        
+                        
+                            a)
+                            
+                                nel limite del settanta per cento dei posti disponibili, al 31 dicembre di ogni anno, in ciascun profilo professionale, mediante concorso interno per titoli e superamento di una prova pratica a carattere professionale, anche mediante un questionario a risposta multipla, tendente ad accertare il grado di preparazione tecnico professionale, e successivo corso di formazione di durata non inferiore a sei mesi. Al concorso sono ammessi gli appartenenti al ((ruolo degli agenti e assistenti)) tecnici provenienti da profili professionali omogenei a quello per cui concorrono, in possesso dell'abilitazione professionale eventualmente prevista dalla legge per l'esercizio dell'attivita' propria del profilo professionale per il quale si concorre, che abbiano compiuto alla stessa data quattro anni di effettivo servizio e non abbiano riportato nei due anni precedenti sanzioni disciplinari piu' gravi della deplorazione. Il trenta per cento dei posti e' riservato al personale con qualifica di assistente capo tecnico; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                nel limite del restante trenta per cento dei posti disponibili, mediante concorso pubblico per esame scritto al quale possono partecipare i cittadini italiani in possesso dei requisiti generali per la partecipazione ai pubblici concorsi e di un diploma di istruzione professionale almeno triennale conseguito presso un istituto statale, o, comunque, riconosciuto dallo Stato, ovvero, ove non sia previsto il suddetto diploma, di un diploma o di un attestato di qualifica rilasciato dalle regioni al termine di corsi di durata almeno triennale nell'ambito della formazione professionale, nonche' dell'abilitazione professionale eventualmente prevista dalla legge per l'esercizio dell'attivita' propria del profilo professionale per il quale si concorre. Il dieci per cento dei posti disponibili e' riservato, con esclusione del limite di eta', al personale del ((ruolo degli agenti e assistenti)) tecnici in possesso del prescritto titolo di studio e dell'abilitazione professionale eventualmente prevista dalla legge. I vincitori del concorso sono nominati allievi ((vice sovrintendenti)) tecnici e sono destinati a frequentare un corso di formazione tecnico professionale di durata non inferiore a sei mesi. Al termine del corso gli allievi che abbiano superato le prove teorico-pratiche conclusive e ottenuto il giudizio di idoneita' sono nominati ((vice sovrintendenti)) tecnici in prova.
 
 Con i bandi dei concorsi di cui al comma 1 si procede alla ripartizione dei posti messi a concorso in relazione alle disponibilita' esistenti nei contingenti di ciascun profilo professionale e nel solo bando di cui al comma 1, lettera a), si procede altresi' alla definizione, anche per categorie omogenee, delle corrispondenze fra i profili professionali del ruolo degli agenti e assistenti tecnici e quelli relativi ai posti messi a concorso.
 
@@ -107,6 +243,31 @@ Coloro che al termine del corso sono riconosciuti idonei conseguono la nomina a 
 I vincitori del concorso di cui al comma 1, lettera a), conseguono la nomina a ((vice sovrintendente)) con decorrenza giuridica dal 1° gennaio dell'anno successivo a quello nel quale si sono verificate le vacanze e con decorrenza economica dal giorno successivo alla data di conclusione del corso di formazione.
 
 ## Art. 12. — Dimissioni dal corso
+
+1.
+                    
+                        
+                            E' dimesso dai corsi di cui all'articolo 11, comma 1, il personale che: 
+ 
+                        
+                        
+                            a)
+                            
+                                dichiara di rinunciare al corso; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                non supera gli esami di fine corso; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                e' stato per qualsiasi motivo assente al corso per piu' di sessanta giorni, anche se non continuativi. Nell'ipotesi di assenza determinata da infermita' contratta durante il corso ovvero da infermita' dipendente da causa di servizio qualora si tratti di personale proveniente da altri ruoli della Polizia penitenziaria, il personale e' ammesso a partecipare di diritto al primo corso successivo al riconoscimento della sua idoneita' psico-fisica. I frequentatori provenienti dal ((ruolo degli agenti e assistenti)) tecnici dimessi dal corso per infermita' o altra causa indipendente dalla propria volonta', sono ammessi, per una sola volta, a partecipare di diritto al primo corso successivo al cessare dalla causa impeditiva.
 
 Il personale di sesso femminile, la cui assenza oltre i quarantacinque giorni e' stata determinata da maternita', e' ammesso a partecipare al primo corso successivo ai periodi di assenza dal lavoro previsti dalle disposizioni sulla tutela delle lavoratrici madri.
 
@@ -130,6 +291,64 @@ La promozione alla qualifica di ((sovrintendente capo)) tecnico si consegue a ru
 
 ## Art. 15. — (Ruoli degli ispettori tecnici)
 
+1.
+                    
+                        
+                            I ruoli degli ispettori tecnici si distinguono come segue: 
+ 
+                        
+                        
+                            a)
+                            
+                                ruolo degli ispettori biologi; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                ruolo degli ispettori informatici.
+
+2.
+                    
+                        
+                            I ruoli di cui al comma 1 si articolano nelle seguenti cinque qualifiche: 
+ 
+                        
+                        
+                            a)
+                            
+                                vice ispettore tecnico; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                ispettore tecnico; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                ispettore capo tecnico; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                ispettore superiore tecnico; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                
+                                    ((sostituto commissario tecnico)).
+
 ## Art. 16.
 
 Funzioni del personale appartenente ai ((ruoli degli ispettori)) tecnici
@@ -147,6 +366,24 @@ Il personale appartenente alla ((qualifica di sostituto direttore tecnico)) svol
 ((
 
 In relazione al qualificato profilo professionale raggiunto, ai sostituti direttori tecnici che maturano quattro anni di effettivo servizio nella qualifica possono essere affidati, anche permanendo nello stesso incarico, compiti particolari tra le funzioni di cui ai commi 3 e 5, ed e' attribuita, ferma restando la qualifica rivestita, la denominazione di «coordinatore», che determina, in relazione alla data di conferimento, preminenza gerarchica, anche nei casi di pari qualifica con diversa anzianita'. Gli stessi svolgono compiti di coordinamento del personale del medesimo ruolo al fine di assicurare lo svolgimento delle attivita' istituzionali.
+
+5-ter.
+                    
+                        
+                            E' escluso dall'attribuzione della denominazione di cui al comma 5-bis il personale: 
+ 
+                        
+                        
+                            a)
+                            
+                                che nel triennio precedente abbia riportato un giudizio inferiore a «ottimo» o che nel quinquennio precedente abbia riportato una sanzione disciplinare piu' grave della pena pecuniaria; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                sospeso cautelarmente dal servizio, rinviato a giudizio o ammesso ai riti alternativi per i delitti non colposi ovvero sottoposto a procedimento disciplinare per l'applicazione di una sanzione piu' grave della pena pecuniaria. La denominazione e' attribuita dopo la definizione dei relativi procedimenti, fermo restando quanto previsto dal presente comma. Si applicano le disposizioni contenute negli articoli 94 e 95 del decreto del Presidente della Repubblica 10 gennaio 1957, n. 3.
 
 ))
 
@@ -184,6 +421,32 @@ Il personale di ruolo dell'Amministrazione penitenziaria, beneficiario della ris
 
 ## Art. 19. — Dimissioni dal corso
 
+1.
+                    
+                        
+                            E' dimesso dal corso di formazione tecnico-professionale di cui all'articolo 18, comma 9. il personale che: 
+ 
+                        
+                        
+                            a)
+                            
+                                dichiara di rinunciare al corso; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                non supera gli esami di fine corso; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                e' stato per qualsiasi motivo assente dal corso per piu' di sessanta giorni. Nell'ipotesi di assenza determinata da infermita' contratta durante il corso ovvero da infermita' dipendente da causa di servizio il personale e' ammesso a partecipare di diritto al primo corso successivo al riconoscimento della sua idoneita' psico-fisica.
+I frequentatori provenienti dai ruoli del personale del Corpo di polizia penitenziaria che espleta attivita' tecnico-scientifico, tecnica, dimessi dal corso per infermita' o altra causa indipendente dalla propria volonta' sono ammessi, per una sola volta, a partecipare di diritto al primo corso successivo al cessare della causa impeditiva.
+
 Il personale di sesso femminile, la cui assenza oltre i quarantacinque giorni e' stata determinata da maternita', e' ammesso a partecipare al primo corso successivo ai periodi di assenza dal lavoro previsti dalle disposizioni sulla tutela delle lavoratrici madri.
 
 E' espulso dal corso il personale responsabile di infrazioni punibili con sanzioni disciplinari piu' gravi della deplorazione.
@@ -220,7 +483,65 @@ La nomina alla qualifica di ((sostituto commissario tecnico)) e' conferita con d
 
 ## Art. 24. — Ruolo dei funzionari tecnici
 
+1.
+                    
+                        
+                            
+                                ((la carriera dei funzionari tecnici si distingue)) come segue:(2) 
+ 
+                        
+                        
+                            a)
+                            
+                                ruolo dei biologi; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                ruolo degli informatici.
+
 ((
+
+2.
+                    
+                        
+                            La carriera dei funzionari tecnici di cui al comma 1 si articola nelle seguenti qualifiche: 
+ 
+                        
+                        
+                            a)
+                            
+                                commissario tecnico, limitatamente alla frequenza del corso di formazione; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                commissario capo tecnico; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                dirigente aggiunto tecnico; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                dirigente tecnico; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                primo dirigente tecnico
 
 ))
 

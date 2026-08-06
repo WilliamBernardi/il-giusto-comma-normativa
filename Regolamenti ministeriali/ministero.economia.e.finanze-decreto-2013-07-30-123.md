@@ -7,8 +7,8 @@ urn: urn:nir:ministero.economia.e.finanze:decreto:2013-07-30;123
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:38Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -45,6 +45,38 @@ Il trenta per cento degli introiti e' riassegnato ai pertinenti capitoli afferen
 I contributi di cui al presente regolamento sono soggetti a revisione e possono essere aggiornati annualmente sulla base degli indici ISTAT relativi al costo della vita.
 
 ## Art. 3. — Prestazioni soggette a contributi
+
+1.
+                    
+                        
+                            Sono individuate, ai sensi dell'articolo 1 del presente regolamento, le seguenti attivita' per le quali puo' essere richiesto il versamento di un contributo nelle forme e con le modalita' previste dai relativi atti convenzionali di volta in volta stipulati: 
+ 
+                        
+                        
+                            a)
+                            
+                                ritenute periodiche sugli stipendi dei dipendenti pubblici, applicabili mediante l'istituto della delegazione, effettuate a favore di associazioni, fondi previdenziali, istituti assicurativi, bancari, previdenziali e similari; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                copie ed estratti di documenti di archivio effettuati per ragioni non di studio ovvero per ragioni di studio finalizzato alla predisposizione di lavori destinati ad essere commercializzati; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                accesso ad informazioni e documenti contenuti in banche dati; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                rilascio di fotocopie richieste da utenti esterni o da personale dell'Amministrazione per ragioni non di ufficio.
 
 Tra le associazioni di cui al comma 1, punto a), del presente articolo non sono ricomprese le organizzazioni sindacali a favore delle quali vengono disposte le trattenute sindacali.
 

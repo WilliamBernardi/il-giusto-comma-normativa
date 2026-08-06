@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
 vigenza_date: 2010-11-23
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:40Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -49,6 +49,38 @@ Nella prima formazione degli albi l'accorpamento e' disposto di ufficio dal comm
 
 
 ((COMMA ABROGATO DAL D.P.R. 8 LUGLIO 2005, N. 169)).
+
+3.
+                    
+                        
+                            Il consiglio elegge tra i suoi componenti, nella prima seduta, il presidente, il vicepresidente, il segretario ed il tesoriere, ed esercita le seguenti attribuzioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                cura la tenuta dell'albo, provvedendo alle iscrizioni e alle cancellazioni dei professionisti ed effettuandone la revisione almeno ogni due anni; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                determina, con deliberazione approvata dal ministero vigilante la tassa di iscrizione all'albo ed il contributo annuale a carico degli iscritti stabilendone le modalita' di riscossione, con facolta' di determinare la tassa ed il contributo in misura minore per i primi anni di iscrizione all'albo dopo l'abilitazione professionale; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                adotta i provvedimenti disciplinari a carico dei professionisti iscritti all'albo; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                provvede all'amministrazione del patrimonio dell'ordine e redige annualmente la previsione di spesa e il conto consuntivo, sottoponendoli all'approvazione del collegio di cui all'art. 3.
 
 Il presidente rappresenta l'ordine regionale o interregionale e ne convoca e presiede il consiglio, formulando l'ordine del giorno delle riunioni.
 
@@ -105,6 +137,31 @@ Il Consiglio nazionale, se ritiene fondato il ricorso, annulla l'elezione e comu
 
 ## Art. 9. — Iscrizione all'albo
 
+1.
+                    
+                        
+                            Per essere iscritti all'albo e' necessario:
+ 
+                        
+                        
+                            a)
+                            
+                                avere conseguito l'abilitazione all'esercizio della professione;
+
+                            
+                        
+                        
+                            b)
+                            
+                                avere la residenza nella regione o in una delle regioni che costituiscono l'ambito territoriale dell'ordine;
+
+                            
+                        
+                        
+                            c)
+                            
+                                non essere stato gia' radiato dall'albo o condannato, con sentenza passata in giudicato, per un reato che comporta l'interdizione dalla professione.
+
 Gli interessati presentano domanda al consiglio dell'ordine regionale o interregionale allegando i documenti attestanti il possesso del requisito di cui al comma 1, lettera a), e il versamento delle tasse di iscrizione e di concessione governativa.
 
 Il consiglio provvede sulle domande di iscrizione, in ordine di presentazione, nel termine di trenta giorni.
@@ -128,6 +185,52 @@ Il Consiglio nazionale sentito l'interessato che ne faccia richiesta, decide il 
 ## Art. 12. — Consiglio Nazionale
 
 Il Consiglio nazionale e' composto da quindici membri eletti tra gli iscritti negli albi regionali e interregionali. La carica di consigliere nazionale e' incompatibile con quella di consigliere di un ordine regionale o interregionale.
+
+2.
+                    
+                        
+                            Il Consiglio nazionale elegge tra i suoi componenti, nella prima seduta, il presidente, il vicepresidente, il segretario ed il tesoriere, ed esercita le seguenti attribuzioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                promuove e coordina le attivita' degli ordini regionali o interregionali dirette alla tutela della dignita' e del prestigio della professione; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                designa i rappresentanti dell'ordine in commissioni ed altri organismi nazionali ed internazionali; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                esprime pareri su questioni di carattere generale che interessano la professione; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                decide i ricorsi avverso le deliberazioni dei consigli degli ordini regionali o interregionali in materia elettorale e disciplinare o concernenti l'iscrizione e la cancellazione dall'albo; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                determina, con delibera approvata dal Ministero vigilante, il  contributo annuale a carico degli iscritti negli albi e le relative modalita' di riscossione; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                provvede all'amministrazione del proprio patrimonio e redige annualmente la previsione di spesa e il conto consuntivo, sottoponendoli all'approvazione del collegio di cui all'art. 13.
 
 Il presidente rappresenta l'ordine professionale nel suo complesso e ne convoca e presiede il Consiglio nazionale, formulando l'ordine del giorno.
 
@@ -167,6 +270,38 @@ Presso ciascun ordine regionale o interregionale si provvede all'elezione dei co
 I componenti del consiglio regionale o interregionale deceduti, dimissionari o cancellati dall'albo per essere venuto meno il requisito di cui all'art. 9, comma 1, lettera c), sono sostituiti con i primi dei non eletti nelle rispettive graduatorie, i quali restano in carica fino alla scadenza del consiglio.
 
 ## Art. 17. — Sanzioni disciplinari
+
+1.
+                    
+                        
+                            All'iscritto all'albo che si rende colpevole di abuso o mancanza nell'esercizio della professione o che comunque tiene un comportamento non conforme al decoro o alla dignita' professionale il consiglio dell'ordine regionale o interregionale infligge, tenuto conto della gravita del fatto, una delle seguenti sanzioni:
+ 
+                        
+                        
+                            a)
+                            
+                                ammonizione;
+
+                            
+                        
+                        
+                            b)
+                            
+                                censura;
+
+                            
+                        
+                        
+                            c)
+                            
+                                sospensione dall'esercizio della professione fino ad un anno;
+
+                            
+                        
+                        
+                            d)
+                            
+                                radiazione dall'albo.
 
 L'interessato puo' proporre ricorso al Consiglio nazionale contro il provvedimento di irrogazione di una sanzione, salva la facolta' di adire in ogni momento l'autorita' giudiziaria.
 

@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: DPR
 vigenza_date: 2009-07-29
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:47:46Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -38,6 +38,24 @@ Ferme restando le norme contenute nel regolamento (CEE) n. 1576/89 del Consiglio
 
 ## Art. 2. — Aggiunte
 
+1.
+                        
+                            
+                                Nella preparazione delle acquaviti e' consentita l'aggiunta di:
+ 
+                            
+                            
+                                a)
+                                
+                                    caramello, secondo le disposizioni di cui al decreto del Ministero della sanita' 27 febbraio 1996, n. 209;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    zuccheri, nella misura massima di 20 grammi per litro espressi in zucchero invertito.
+
 ## - Capo II Acquaviti di frutta
 
 ## Art. 3. — Aggiunte e invecchiamento
@@ -50,6 +68,31 @@ Qualora il prodotto sottoposto ad invecchiamento e' trasferito in diverso idoneo
 
 ## Art. 4. — lndicazione geografica
 
+1.
+                        
+                            
+                                Le acquaviti di frutta italiane elencate al punto 7 dell'allegato II del regolamento (CEE) n. 1576/89, possono essere commercializzate con le indicazioni geografiche ivi previste quando concorrono le seguenti condizioni:
+ 
+                            
+                            
+                                a)
+                                
+                                    le acquaviti sono distillate nelle aree geografiche cui fa riferimento l'indicazione stessa;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le acquaviti hanno un titolo alcolometrico non inferiore a 40 per cento in volume;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    tutte le operazioni successive alla distillazione sono effettuate nelle aree geografiche di cui alla lettera a), esclusi l'imbottigliamento e le attivita' strettamente connesse.
+
 ## - Capo III Brandy italiano
 
 ## Art. 5. — Definizione
@@ -60,6 +103,31 @@ Il trasferimento del prodotto sottoposto ad invecchiamento e' consentito alle co
 
 ## Art. 6. — Aggiunte
 
+1.
+                        
+                            
+                                Nella preparazione del brandy italiano e' consentita l'aggiunta di:
+ 
+                            
+                            
+                                a)
+                                
+                                    zuccheri, nella misura massima di 20 grammi per litro espressi in zucchero invertito;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    caramello, secondo le disposizioni di cui al decreto del Ministero della sanita' 27 febbraio 1996, n. 209;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    sostanze aromatizzanti naturali e preparazioni aromatiche, di cui all'articolo 2, comma 1, lettera b), punto 1, e lettera c), del decreto legislativo 25 gennaio 1992, n. 107, ottenute da trucioli di quercia o da altre sostanze vegetali, o mediante infusione o macerazione con acqua o con acquavite di vino, nella misura massima del tre per cento del volume idrato.
+
 ## Art. 7. — Titolo alcolometrico
 
 Per poter essere immesso al consumo il brandy italiano deve avere un titolo alcolometrico non inferiore a 38 per cento in volume.
@@ -67,6 +135,24 @@ Per poter essere immesso al consumo il brandy italiano deve avere un titolo alco
 Il titolo alcolometrico volumico per il consumo e' ottenuto mediante diluizione con acqua conforme alle disposizioni di cui al decreto del Presidente della Repubblica 24 maggio 1988, n. 236.
 
 ## Art. 8. — Limiti delle sostanze volatili
+
+1.
+                        
+                            
+                                Il brandy italiano deve possedere:
+ 
+                            
+                            
+                                a)
+                                
+                                    un tenore di alcole metilico non superiore a 150 g/hl di alcole a 100 per cento in volume;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    un tenore di sostanze volatili diverse dagli alcoli etilico e metilico non inferiore a 140 g/hl di alcole a 100 per cento in volume.
 
 ## - Capo IV Grappa
 
@@ -94,6 +180,39 @@ Il titolo alcolometrico volumico per il consumo e' ottenuto mediante diluizione 
 
 ## Art. 12. — Aggiunte
 
+1.
+                        
+                            
+                                Nella preparazione della grappa e' consentita l'aggiunta di:
+ 
+                            
+                            
+                                a)
+                                
+                                    
+                                        (( LETTERA ABROGATA DALLA L. 7 LUGLIO 2009, N. 88 )).
+
+                                
+                            
+                            
+                                b)
+                                
+                                    piante aromatiche o loro parti, nonche' frutta o loro parti;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    zuccheri, nel limite massimo di 20 grammi per litro, espresso in zucchero invertito;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    caramello, solo per la grappa sottoposta ad invecchiamento almeno dodici mesi, secondo le disposizioni di cui al decreto del Ministro della sanita' 27 febbraio 1996, n. 209.
+
 Le disposizioni di cui al comma 1, lettera b), devono essere riportate nella denominazione di vendita della grappa.
 
 ## Art. 13. — Invecchiamento
@@ -108,6 +227,24 @@ Il trasferimento del prodotto sottoposto ad invecchiamento e' consentito alle co
 
 ## Art. 14. — Limiti delle sostanze volatili
 
+1.
+                        
+                            
+                                La grappa deve possedere:
+ 
+                            
+                            
+                                a)
+                                
+                                    un tenore di alcole metilico non superiore a 1.000 g/hl di alcole a 100 per cento in volume;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    un tenore di sostanze volatili diverse dagli alcoli etilico e metilico non inferiore a 140 g/hl di alcole a 100 per cento in volume.
+
 ## Art. 15. — Assemblaggio
 
 E' ammessa la miscelazione fra grappe che differiscano tra loro, purche', il prodotto finito venga posto in vendita con la sola denominazione "grappa".
@@ -116,9 +253,59 @@ La miscelazione puo' essere effettuata anche fra grappe aventi diverso periodo d
 
 ## Art. 16. — Grappa con indicazione geografica
 
+1.
+                        
+                            
+                                Le grappe indicate al punto 6 dell'allegato II del regolamento (CEE) n. 1576/89 possono essere denominate e commercializzate con le indicazioni geografiche ivi previste quando concorrono le seguenti condizioni:
+ 
+                            
+                            
+                                a)
+                                
+                                    le grappe sono ottenute da materie prime ricavate da uve prodotte e vinificate nelle aree geografiche cui fa riferimento l'indicazione;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le grappe hanno un titolo alcolometrico non inferiore al 40 per cento in volume;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    tutte le operazioni sono effettuate nelle aree geografiche di cui alla lettera a), esclusi l'imbottigliamento e le attivita' strettamente connesse;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    le grappe non sono miscelate con altre grappe prodotte al di fuori della zona geografica.
+
 ## - Capo V Liquori
 
 ## Art. 17. — Presentazione
+
+1.
+                        
+                            
+                                I liquori di cui all'articolo 1, paragrafo 4, lettera r), del regolamento (CEE) n. 1576/89, preparati con una delle bevande spiritose di cui allo stesso paragrafo, salvo quanto diversamente prescritto dalla regolamentazione comunitaria in materia, possono riportare in etichetta il riferimento alla bevanda spiritosa utilizzata a condizione che:
+ 
+                            
+                            
+                                a)
+                                
+                                    tutto l'alcole del liquore derivi dalla bevanda spiritosa evidenziata, esclusa l'eventuale aggiunta di aromi alcolici;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il termine "liquore" figuri sull'etichetta nella quale sono espresse tutte le indicazioni obbligatorie con caratteri di dimensioni non inferiori a quelli usati per la designazione della bevanda spiritosa utilizzata.
 
 ## - Capo VI Disposizioni comuni
 
@@ -126,7 +313,57 @@ La miscelazione puo' essere effettuata anche fra grappe aventi diverso periodo d
 
 Fatte salve le norme previste dal decreto legislativo 27 gennaio 1992, n. 109, la presentazione e l'etichettatura delle bevande di cui agli articoli precedenti sono disciplinate dalle disposizioni del presente articolo.
 
+2.
+                        
+                            
+                                La grappa e le acquaviti d'uva possono riportare nella denominazione di vendita: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il riferimento al nome di un vitigno qualora siano ottenute dalla distillazione di materie prime provenienti per almeno l'85 per cento in peso dalla vinificazione di uve ottenute dalla coltivazione di tale vitigno; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il riferimento a non piu' di due vitigni, qualora siano state ottenute dalla distillazione di materie prime interamente provenienti dalla vinificazione di uve ottenute dalla coltivazione di tali vitigni, che devono essere menzionati in etichetta in ordine ponderale decrescente; non e' consentita l'indicazione di vitigni utilizzati in misura inferiore al 15 per cento in peso; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il riferimento al nome di un vino DOC, DOCG e IGT, qualora le materie prime provengono da uve utilizzate nella produzione di detto vino; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    il riferimento al tipo di alambicco.
+
 Nei casi di cui al comma 2, lettere a) e b), e dell'articolo 16 la provenienza delle materie prime deve essere comprovata mediante l'uso di registri vidimati in cui siano riportati i dati relativi alla denominazione delle varieta' dei vitigni utilizzati, alle quantita' acquistate, alle quantita' giornaliere utilizzate e alle quantita' di prodotti finiti ottenuti espresse in anidro e in idrato.
+
+4.
+                        
+                            
+                                Nei casi di cui al comma 2, lettere a) e b), e' vietato: 
+ 
+                            
+                            
+                                a)
+                                
+                                    l'uso dei termini geografici, di cui alle denominazioni elencate al punto 6 dell'allegato II del regolamento (CEE) n. 1576/89, che accompagnano i nomi dei vitigni o dei vini DOC, DOCG, o IGT, qualora le grappe sono distillate al di fuori delle aree geografiche cui fanno riferimento le denominazioni stesse; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'uso dei termini "DOC", "DOT", "DOP", "DOCG" e "IGT" o "IGP" in sigla o per esteso.
 
 La denominazione di vendita della grappa puo' essere completata con riferimenti geografici diversi da quelli figuranti nell'allegato II del regolamento (CEE) n. 1576/89, cosi' come previsto dall'articolo 5, paragrafo 2, dello stesso regolamento. 
  
@@ -144,6 +381,45 @@ Fatti salvi i controlli di natura fiscale e quelli igienicosanitari, la vigilanz
 Restano ferme le sanzioni penali e amministrative previste dagli articoli 5 e 6 della legge 30 aprile 1962, n. 283, dall'articolo 18 del decreto legislativo 27 gennaio 1992, n. 109, dall'articolo 14 del decreto legislativo 25 gennaio 1992, n. 107, e dalla legge 7 dicembre 1951, n. 1559.
 
 ## Art. 21. — Abrogazioni
+
+1.
+                        
+                            
+                                Sono abrogati:
+ 
+                            
+                            
+                                a)
+                                
+                                    gli articoli 1, comma secondo, 3, 4, 5, 6, 7, 8, 9, 9-bis, 10, 11, 14, 14-bis, 15, 16 della legge 7 dicembre 1951, n. 1559, e successive modificazioni;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    gli articoli 1, quarto comma, 2, 3, 4, 5, 6, 7, 8, 9, commi primo, secondo, terzo, quarto e quinto, 10, 11 e 12 del decreto del Presidente della Repubblica 19 aprile 1956, n. 1019;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    l'articolo 34 del decreto del Presidente della Repubblica 12 febbraio 1965, n. 162;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    i decreti del Ministro dell'industria, del commercio e dell'artigianato 19 luglio 1969, 4 gennaio 1973 e 25 maggio 1980, relativi alle tolleranze normali nella composizione delle acquaviti, pubblicati nella Gazzetta Ufficiale della Repubblica italiana rispettivamente n. 196 del 4 agosto 1969, n. 56 del 1 marzo 1973 e n. 174 del 26 giugno 1980;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    il decreto del Ministro dell'industria, del commercio e dell'artigianato 10 dicembre 1984, relativo al limite di fecce liquide naturali di vino consentito nella preparazione della grappa o dell'acquavite di vinaccia, pubblicato nella Gazzetta Ufficiale della Repubblica italiana n. 351 del 22 dicembre 1984.
 
 ## Art. 22. — Norme transitorie
 

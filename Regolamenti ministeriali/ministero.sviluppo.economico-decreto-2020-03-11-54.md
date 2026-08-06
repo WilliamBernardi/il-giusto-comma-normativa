@@ -7,8 +7,8 @@ urn: urn:nir:ministero.sviluppo.economico:decreto:2020-03-11;54
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:39Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -35,6 +35,60 @@ Sentite l'Associazione nazionale tra le imprese assicuratrici-ANIA, le principal
 Udito il parere del Consiglio di Stato espresso dalla Sezione consultiva per gli atti normativi nell'adunanza del 7 giugno 2018;
 
 ## Art. 1. — Definizioni
+
+1.
+                    
+                        
+                            Ai fini del presente decreto si intendono per: 
+ 
+                        
+                        
+                            a)
+                            
+                                
+                                    codice delle assicurazioni: il codice delle assicurazioni private di cui al decreto legislativo 7 settembre 2005, n. 209; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                modello elettronico: modello standard telematico predisposto dal Ministero dello sviluppo economico, sentito l'IVASS, utilizzato dall'impresa di assicurazione per formulare l'offerta del contratto base al consumatore, via internet, anche attraverso il proprio sito web, ovvero integrato con i sistemi di preventivazione ed offerta online pubblici; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                Nuovo preventivatore pubblico: il servizio informativo predisposto dal Ministero dello sviluppo economico, in collaborazione con l'IVASS, che consente al consumatore e all'intermediario, esclusivamente per i premi applicati dalle imprese di assicurazione per il contratto base relativo ad autovetture e motoveicoli, l'accesso e la risposta per via telematica ai premi offerti da tutte le imprese di assicurazione; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                impresa di assicurazione: l'impresa di assicurazione con sede legale in Italia autorizzata all'esercizio dell'attivita' assicurativa nel ramo r.c. auto, l'impresa di assicurazione con sede legale in un altro Stato membro dello Spazio economico europeo abilitata in Italia all'esercizio dell'assicurazione nel ramo r.c. auto in regime di stabilimento o di libera prestazione di servizi, nonche' l'impresa di assicurazione con sede legale in uno Stato terzo autorizzata in Italia all'esercizio dell'attivita' assicurativa nel ramo r.c. auto in regime di stabilimento; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                consumatore: la persona fisica come definita ai sensi dell'articolo 3, comma 1, lettera a) del decreto legislativo 6 settembre 2005, n. 206; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                punti vendita: i locali ovvero le sedi o le dipendenze dell'intermediario o dell'impresa, accessibili al pubblico o adibiti al ricevimento del pubblico ove sia possibile sottoscrivere il contratto; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                r.c. auto: assicurazione obbligatoria della responsabilita' civile derivante dalla circolazione dei veicoli a motore.
 
 ## Art. 2. — Oggetto e ambito di applicazione
 

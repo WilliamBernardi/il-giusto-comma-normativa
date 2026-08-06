@@ -8,8 +8,8 @@ codice_redazionale: 097G0352
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:42Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -50,6 +50,43 @@ L'articolo 2, comma 3, del decreto e' sostituito dal seguente:
 
 L'articolo 2, comma 4, del decreto e' abrogato.
 
+4.
+                    
+                        
+                            Nell'articolo 2, comma 10, del decreto sono apportate le seguenti modifiche e integrazioni:
+ 
+                        
+                        
+                            a)
+                            
+                                dopo le parole di "cui al comma 9" sono inserite le seguenti: ", le condizioni di ammissibilita' dei programmi e delle spese";
+
+                            
+                        
+                        
+                            b)
+                            
+                                alla fine del comma, dopo le parole "della Commissione dell'Unione Europea", sono aggiunte le seguenti parole: "o dal CIPE".
+
+5.
+                    
+                        
+                            Nell'articolo 2, comma 11, del decreto sono apportate le seguenti modifiche e integrazioni:
+ 
+                        
+                        
+                            a)
+                            
+                                nel primo periodo, la parola "operatore" e sostituita da: "impresa";
+
+                            
+                        
+                        
+                            b)
+                            
+                                l'ultimo periodo e' sostituito dal seguente:
+ "L'attualizzazione viene effettuata dalle banche concessionarie sulla base della suddivisione degli investimenti per anno solare indicata dall'impresa nel modulo di domanda e sulla base degli eventuali aggiornamenti della banca medesima, a conclusione dell'esame di pertinenza e congruita' delle spese".
+
 L'articolo 2, comma 13, del decreto e' sostituito dal seguente: " 13. Il tasso da applicare per le operazioni di attuazione/rivalutazione, come disciplinato dalla normativa comunitaria in materia, e' annuale, salvo revisioni intervenute nel corso dell'anno ed e' determinato sulla base del tasso indicativo, definito come tasso di rendimento medio dei titoli di Stato sul mercato secondario, previa armonizzazione da parte dell'Istituto monetario europeo, maggiorato di un premio di 2,5 punti percentuali.
 A partire dal l gennaio di ciascun anno, esso e' pari alla media dei tassi indicativi rilevati nei mesi di settembre, ottobre e novembre precedenti e, nel corso dell'anno medesimo, viene sottoposto a revisione qualora si discosti di oltre il 15% dalla media dei tassi indicativi rilevati nel corso dell'ultimo trimestre noto. Il tasso da applicare per il calcolo dell'ESN o dell'ESL, riferito al singolo programma di investimenti, e' quello in vigore all'epoca di avvio a realizzazione del programma medesimo. Nel caso di programmi da avviare successivamente alla data di concessione provvisoria, si applica in via presuntiva il tasso vigente all'epoca del decreto di concessione. Con decreto del Ministro dell'industria, del commercio e dell'artigianato, la determinazione del tasso da applicare per le operazioni di attualizzazione/rivalutazione e' adeguata alle eventuali modifiche decise dalla Commissione dell'Unione Europea".
 
@@ -62,6 +99,33 @@ Nell'articolo 3, comma 2, del decreto, il primo periodo e' sostituito dal seguen
  "Per quanto concerne le iniziative di cui al comma 1 volte a rispondere alle esigenze di cambiamento della localizzazione degli impianti, l'agevolazione puo' essere concessa sul costo del progetto diminuito del valore dei cespiti gia' utilizzati e non piu' reimpiegati risultante da perizia giurata redatta da un tecnico da individuare in relazione alle competenze ed abilitazioni professionali necessarie".
 
 ## Art. 5.
+
+1.
+                    
+                        
+                            Nell'articolo 4, comma 1, del decreto sono apportate le seguenti modifiche e integrazioni:
+ 
+                        
+                        
+                            a)
+                            
+                                nel primo periodo, dopo le parole "relative all'acquisto", sono inserite le seguenti: "alla acquisizione mediante locazione finanziaria";
+
+                            
+                        
+                        
+                            b)
+                            
+                                la lettera a) e' sostituita dalla seguente:
+ " a) progettazione e direzione lavori, studi di fattibilita' economico - finanziaria e di valutazione di impatto ambientale, oneri per le concessioni edilizie e collaudi di legge, fino a un valore massimo del 5% dell'investimento complessivo ammissibile;";
+
+                            
+                        
+                        
+                            c)
+                            
+                                la lettera b) e' sostituita dalla seguente:
+ " b) suolo aziendale, sue sistemazioni e indagini geognostiche;".
 
 L'articolo 4, comma 2, del decreto e' sostituito dal seguente:
  " 2. Per le iniziative promosse dalle societa' fornitrici dei servizi di cui all'articolo 2, comma 1 - ad eccezione di quelle iscritte al settore "Industria" dell'INPS, per le quali si applicano i criteri di ammissibilita' delle spese validi per le imprese operanti nel settore delle attivita' estrattive e manifatturiere - le spese ammissibili sono quelle di cui alle lettere e) ed f) del comma 1, queste ultime anche se relative a commesse interne di lavorazione, purche' capitalizzate".
@@ -76,6 +140,32 @@ L'articolo 5, comma l, del decreto e' sostituito dal seguente:
  " 1. Le risorse finanziarie di ciascun anno sono suddivise in due quote uguali e vengono attribuite attraverso due bandi di presentazione delle domande, i cui termini sono fissati con decreto del Ministro dell'industria, del commercio e dell'artigianato.
 L'impresa presenta entro detti termini la domanda di ammissione alle agevolazioni ad una delle banche concessionarie ovvero, nel caso di iniziative che prevedano l'acquisizione, in tutto o in parte, di beni tramite locazione finanziaria, ad una delle societa' di leasing di cui all'articolo 1, comma 3, per il successivo tempestivo inoltro alla banca concessionaria prescelta dall'impresa. L'impresa invia altresi' una copia fotostatica del modulo di domanda alla regione interessata. Il Ministro dell'industria, del commercio e dell'artigianato, sulla base delle disponibilita' finanziarie dell'anno cui si riferiscono le risorse, puo' modificare, con proprio decreto, le predette modalita' di ripartizione dei fondi, assegnando, in particolare, le disponibilita' medesime attraverso un unico bando".
 
+2.
+                    
+                        
+                            Nell'articolo 5, comma 2, del decreto sono apportate le seguenti modifiche ed integrazioni:
+ 
+                        
+                        
+                            a)
+                            
+                                le paro1e ", in duplice originale", sono soppresse;
+
+                            
+                        
+                        
+                            b)
+                            
+                                dopo le parole "presso le banche concessionarie" sono aggiunte le seguenti: "e gli istituti collaboratori";
+
+                            
+                        
+                        
+                            c)
+                            
+                                alla fine del comma e' aggiunto il seguente periodo:
+ "Qualora l'iniziativa cui si riferisce la domanda sia temporalmente sovrapposta ad altre iniziative della stessa impresa, relative a domande precedenti o dello stesso bando ed agevolate o da agevolare ai sensi del presente decreto, la suddetta documentazione comprende anche una copia fotostatica dei moduli relativi a tali altre domande".
+
 Nell'articolo 5, comma 3, del decreto, il primo periodo e' sostituito dal seguente:
  "Il modulo deve essere sottoscritto dal legale rappresentante dell'impresa che richiede le agevolazioni o da suo procuratore speciale con le modalita' di cui all'articolo 20 della legge 4 gennaio 1968, n. 15 e contiene, oltre ai dati ed alle informazioni sull'impresa e sul programma di investimenti, specifiche dichiarazioni attestanti la sussistenza delle condizioni oggettive e soggettive per l'accesso alle agevolazioni richieste e l'impegno a dichiarare, successivamente alla concessione provvisoria delle agevolazioni e prima della erogazione delle stesse, che l'impresa non ha ottenuto o, in caso contrario, di aver restituito e, comunque, di rinunciare ad ottenere per i beni oggetto della stessa iniziativa per la quale vengono richieste le agevolazioni, altre agevolazioni statali, regionali o comunitarie".
 
@@ -83,6 +173,31 @@ L'articolo 5, comma 4, del decreto e' sostituito dal seguente:
  " 4. La banca concessionaria registra in ordine cronologico le domande presentate e ne venfica la completezza. Fermo restando quanto previsto dall'articolo 6, comma 1, lettera b), della legge 7 agosto 1990, n. 241, la domanda il cui modello e' incompleto dei dati e delle informazioni necessari ai fini del calcolo degli indicatori di cui all'articolo 6, comma 4 , del presente regolamento e del business plan e quella presentata al di fuori dei termini di cui al comma 1, non e' considerata valida e viene restituita all'impresa entro trenta giorni lavorativi dalla data del ricevimento, con specifica nota contenente le relative motivazioni. Detta nota viene inviata per conoscenza al Ministero dell'industria, del commercio e dell'artigianato, con allegata copia del modulo di domanda incompleto, e, nel caso di domanda inoltrata dalla societa' di leasing, anche a quest'ultima. Qualora la domanda dovesse risultare incompleta dei dati, delle informazioni e della documentazione diversi da quelli sopra indicati, la banca concessionaria, entro lo stesso termine di cui sopra, ne richiede l'integrazione all'impresa, con specifica nota. L 'impresa e' comunque tenuta a corrispondere alla richiesta di precisazioni, chiarimenti ed integrazioni in merito ai dati ed alle documentazioni previste dalla presente normativa, ritenuti necessari per il completamento degli accertamenti istruttori di cui all'articolo 6, comma 1, entro il termine di quindici giorni dalla data del ricevimento della richiesta medesima; qualora l'integrazione dovesse intervenire oltre tale termine, ovvero dovesse risultare comunque incompleta, la domanda si intende a tutti gli effetti decaduta e la banca concessionaria ne da' tempestiva e motivata comunicazione all'impresa interessata; detta nota viene inviata per conoscenza al Ministero dell'industria, del commercio e dell'artigianato".
 
 ## Art. 7.
+
+1.
+                    
+                        
+                            Nell'articolo 6, comma 1, del decreto sono apportate le seguenti modifiche e integrazioni:
+ 
+                        
+                        
+                            a)
+                            
+                                alla fine della lettera b), prima del punto e virgola, sono aggiunte le seguenti parole: ", con particolare riferimento alla comprovata possibilita' che essi siano in grado di fare fronte agli impegni finanziari derivanti dalla realizzazione dell'iniziativa;";
+
+                            
+                        
+                        
+                            b)
+                            
+                                nella lettera e), le parole "l'ammissibilita'" sono sostituite dalle seguenti: "la pertinenza";
+
+                            
+                        
+                        
+                            c)
+                            
+                                la lettera g) e' abrogata.
 
 L'articolo 6, comma 2, del decreto e' sostituito dal seguente:
  " 2. Le banche concessionarie inviano al Ministero dell'industria, del commercio e dell'artigianato, ai fini della definizione delle graduatorie di cui al comma 3, il modulo di domanda di cui all'articolo 5, comma 2 e le risultanze degli accertamenti di cui al comma 1, su supporto magnetico e cartaceo, secondo lo schema definito in sede di convenzione di cui all'articolo 1, comma 2, nonche' la documentazione definita in sede di convenzione stessa. L'invio avviene tra il secondo e il terzo mese successivo al termine finale di presentazione delle domande di cui all'articolo 5, comma 1.
@@ -93,6 +208,40 @@ L'articolo 6, comma 3, del decreto e' sostituito dal seguente:
 
 Dopo l'articolo 6, comma 3, del decreto, e' inserito il seguente:
  " 3-bis . Il Ministro dell'industria, del commercio e dell'artigianato, tenuto conto del numero delle domande presentate ed al fine di garantire la migliore funzionalita' degli interventi agevolativi, puo' modificare, con proprio decreto, i termini di cui ai commi 2 e 3, prorogando, in particolare, per non piu' di trenta giorni, quelli finali di invio delle risultanze degli accertamenti di cui al comma 1 e quelli di formazione delle graduatorie. I suddetti termini vengono in ugual misura prorogati nel caso in cui i periodi relativi agli accertamenti istruttori ed alla formazione delle graduatorie comprendono il mese di agosto".
+
+5.
+                    
+                        
+                            Nell'articolo 6, comma 4, del decreto sono apportate le seguenti modifiche e integrazioni:
+ 
+                        
+                        
+                            a)
+                            
+                                nella lettera a), dopo le parole "per ciascuna iniziativa, i seguenti" la parola "tre" e' sostituita dalla parola "cinque";
+
+                            
+                        
+                        
+                            b)
+                            
+                                nella lettera a), dopo le parole "delibera CIPE 27 aprile 1995" sono inserite le seguenti parole: "e successive modifiche e integrazioni";
+
+                            
+                        
+                        
+                            c)
+                            
+                                nella lettera a), dopo il punto 3) sono inseriti i seguenti:
+ " 4) punteggio complessivo conseguito dall'iniziativa sulla base delle specifiche priorita' regionali di cui al comma 6, lettera e);
+ 5) punteggio complessivo conseguito dall'iniziativa sulla base delle prestazioni ambientali di cui al comma 6, lettera f)";
+
+                            
+                        
+                        
+                            d)
+                            
+                                nella lettera b), dopo le parole "i valori dei" la parola "tre" e' sostituita dalla parola "cinque".
 
 L'articolo 6, comma 5, del decreto e' sostituito dal seguente:
  " 5. All'eventuale aggiornamento dei predetti indicatori si provvede, tenuto conto delle modifiche decise dal CIPE, con decreto del Ministro dell'industria, delcommercio e dell'artigianato".
@@ -132,6 +281,60 @@ Nell'articolo 7, comma 1, e' aggiunto alla fine il seguente periodo:
  "All'atto dell'erogazione dell'ultima quota, e qualora non sia stato ancora effettuato il calcolo definitivo delle agevolazioni in ESN o in ESL di cui all'articolo 10, comma 4, la banca concessionaria trattiene il 10% del contributo totale concesso da conguagliare successivamente al calcolo definitivo medesimo. La banca concessionaria comunica periodicamente al Ministero dell'industria, del commercio e dell'artigianato l'effettuazione delle singole erogazioni".
 
 ## Art. 10.
+
+1.
+                    
+                        
+                            Nell'articolo 8, comma 1, del decreto sono apportate le seguenti modifiche:
+ 
+                        
+                        
+                            a)
+                            
+                                la lettera a) e' sostituita dalla seguente:
+ " a) qualora per i beni della medesima iniziativa oggetto della concessione siano state assegnate agevolazioni di qualsiasi natura previste da altre norme statali, regionali o comunitarie o comunque concesse da enti o istituzioni pubbliche";
+
+                            
+                        
+                        
+                            b)
+                            
+                                dopo la lettera c) e' inserita la seguente:
+ " c1) qualora l'impresa non abbia maturato, alla data della disponibilita' dell'ultima quota di cui all'articolo 7, comma 1, le condizioni previste per l'erogazione a stato d'avanzamento della prima quota";
+
+                            
+                        
+                        
+                            c)
+                            
+                                la lettera d) e' sostituita dalla seguente:
+ " d) qualora l'iniziativa non venga ultimata entro quarantotto mesi dalla data di presentazione della relativa domanda di agevolazione, ovvero, per le iniziative di cui all'articolo 7, comma 1, per le quali l'importo dell'agevolazione concessa e' reso disponibile in due quote, entro ventiquatro mesi dalla data medesima; detti termini possono essere eccezionalmente prorogati una sola volta, previa preventiva richiesta, per non oltre sei mesi per cause di forza maggiore; sono fatti salvi i minori termini eventualmente previsti dal Ministero dell'industria, del commercio e dell'artigianato per consentire l'ammissibilita' delle iniziative medesime al cofinanziamento dei fondi strutturali, obiettivi 1, 2 e 5 b dei regolamento (CEE) n. 2052 / 88 del Consiglio del 24 giugno 1988 e successive modifiche e integrazioni";
+
+                            
+                        
+                        
+                            d)
+                            
+                                la letterae f) e' sostituita dalla seguente:
+ " f) qualora, calcolati gli scostamenti in diminuzione degli indicatori di cui all'articolo 6, comma 4, suscettibili di subire variazioni - nell'esercizio successivo a quello di entrata a regime dell'iniziativa agevolata e, comunque, non oltre ventiquattro mesi dopo l'entrata in funzione della stessa, ovvero, per quanto concerne il primo di detti indicatori, alla data di ultimazione dell'iniziativa medesima - anche solo uno degli scostamenti stessi di tali indicatori rispetto ai sorrispondenti valori assunti per la formazione della graduatoria o la media degli scostamenti medesimi superi, rispettivamente, i 30 o i 20 punti percentuali;".
+
+2.
+                    
+                        
+                            Nell'articolo 8, comma 4, de1 decreto sono apportate le seguenti modifiche:
+ 
+                        
+                        
+                            a)
+                            
+                                nel primo periodo, le parole "Nell'ipotesi", sono sostituite dalle seguenti: "Nelle ipotesi";
+
+                            
+                        
+                        
+                            b)
+                            
+                                nel primo periodo, dopo le parole "prima della scadenza" sono inserite le seguenti: "dei 24 o".
 
 ## Art. 11.
 

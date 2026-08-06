@@ -8,8 +8,8 @@ codice_redazionale: 088G0362
 vigente: true
 source: normattiva-opendata
 collection: DPR
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:48:14Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -27,6 +27,24 @@ Sentita la commissione paritetica per le norme di attuazione, prevista dal prede
 Sulla proposta del Presidente del Consiglio dei Ministri, di concerto con i Ministri dell'interno, della pubblica istruzione e per gli affari regionali ed i problemi istituzionali;
 
 ## Art. 1.
+
+1.
+                    
+                        
+                            In relazione al disposto dei commi primo e terzo dell'art. 19 del decreto del Presidente della Repubblica 31 agosto 1972, n. 670, allorche' l'avvenuta iscrizione di alunni possa compromettere l'efficienza della scuola, ai sensi dell'art. 8 del decreto del Presidente della Repubblica 20 gennaio 1973, n. 116, in quanto essi non possiedono una adeguata conoscenza della lingua di insegnamento prevista per la scuola di frequenza, tale da consentire loro di seguire utilmente l'insegnamento nella classe di iscrizione, la questione viene sottoposta tra il ventesimo ed il venticinquesimo giorno dall'inizio dell'anno scolastico:
+ 
+                        
+                        
+                            a)
+                            
+                                nell'ambito della scuola materna, dall'insegnante con motivata richiesta al comitato della scuola materna della relativa scuola, che deve sentire il genitore che ha esercitato il diritto di iscrizione;
+
+                            
+                        
+                        
+                            b)
+                            
+                                nell'ambito dell'istruzione primaria, secondaria ed artistica, dal direttore o preside competente, su motivata richiesta dell'insegnante o del consiglio di classe, previa audizione del genitore che ha esercitato il diritto di iscrizione o dell'alunno maggiorenne, alla commissione paritetica di cui al comma 2.
 
 La commissione paritetica e' composta da quattro esperti effettivi e due supplenti, di cui due effettivi ed uno supplente appartenenti al gruppo linguistico italiano e due effettivi ed uno supplente appartenenti al gruppo linguistico tedesco. Gli esperti appartenenti al gruppo linguistico italiano vengono nominati dal sovrintendente scolastico; quelli appartenenti al gruppo linguistico tedesco dall'intendente scolastico per l'amministrazione delle scuole in lingua tedesca. Le rispettive nomine avvengono con provvedimenti disgiunti del sovrintendente scolastico rispettivamente dell'intendente di cui sopra. La commissione rimane in carica per la durata di tre anni ed e' presieduta da uno degli esperti appartenente al gruppo linguistico italiano, se si tratta di iscrizione a scuole con insegnamento in lingua italiana, e da uno degli esperti appartenente al gruppo linguistico tedesco, se si tratta di iscrizione a scuole con insegnamento in lingua tedesca. In caso di parita' di voto, al presidente della commissione e' dato voto determinante.
 

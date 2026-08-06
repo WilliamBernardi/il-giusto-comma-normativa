@@ -8,8 +8,8 @@ codice_redazionale: 094G0518
 vigente: true
 source: normattiva-opendata
 collection: Leggi delega e relativi provvedimenti delegati
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:41:15Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -109,6 +109,45 @@ Nella legge 5 dicembre 1985, n. 730, dopo l'art. 8 e' inserito il seguente:
  2. Si applicano le disposizioni di cui agli articoli 17-ter e 17-quater del testo unico delle leggi di pubblica sicurezza, approvato con regio decreto 18 giugno 1931, n. 773.".
 
 ## Art. 13.
+
+1.
+                    
+                        
+                            Sono abrogate le seguenti disposizioni:
+ 
+                        
+                        
+                            a)
+                            
+                                gli articoli 662, 665, 667 e 706 del codice penale;
+
+                            
+                        
+                        
+                            b)
+                            
+                                gli articoli 66, 70, 73, 130 e 213 del testo unico delle leggi di pubblica sicurezza, approvato con regio decreto 18 giugno 1931, n. 773;
+
+                            
+                        
+                        
+                            c)
+                            
+                                gli articoli 126, 127, 128, 129, 132, 138 e 248 del regolamento per l'esecuzione del testo unico 18 giugno 1931, n. 773, delle leggi di pubblica sicurezza, approvato con regio decreto 6 maggio 1940, n. 635;
+
+                            
+                        
+                        
+                            d)
+                            
+                                il terzo comma dell'art. 38 della legge 24 novembre 1981, n. 689;
+
+                            
+                        
+                        
+                            e)
+                            
+                                il decreto legislativo 11 febbraio 1948, n. 50.
 
 ## Art. 14.
 

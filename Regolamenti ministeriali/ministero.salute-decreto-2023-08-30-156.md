@@ -8,8 +8,8 @@ vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
 vigenza_date: 2026-02-28
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:42Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -46,6 +46,31 @@ I medici di cui al presente regolamento svolgono le attivita' di raccolta sangue
 Le attivita' di cui al comma 1 possono essere svolte esclusivamente presso enti e associazioni che, senza scopo di lucro, svolgono attivita' di raccolta di sangue ed emocomponenti sulla base di convenzioni stipulate con le regioni o con gli enti del Servizio sanitario nazionale i cui statuti rispettano le finalita' previste dal decreto del Ministro della salute 18 aprile 2007, pubblicato nella Gazzetta ufficiale, n. 140, del 19 giugno 2007, e la normativa vigente in materia di organizzazioni di volontariato, e che siano iscritte nel relativo registro, ai sensi delle vigenti disposizioni.
 
 I medici in formazione comunicano, alla scuola di specializzazione o alla struttura regionale responsabile del corso di formazione specifica in medicina generale, la data di inizio e la durata della collaborazione volontaria a titolo gratuito ed occasionale, le ore di collaborazione effettivamente prestate, nonche' qualsiasi altra informazione ritenuta necessaria dalla scuola o dalla struttura regionale responsabile del corso cui sono iscritti, al fine di consentire la verifica che la collaborazione sia svolta senza pregiudizio per l'assolvimento degli obblighi formativi.
+
+4.
+                    
+                        
+                            Gli enti e le associazioni presso i quali sono svolte le attivita' di cui al presente regolamento provvedono: 
+ 
+                        
+                        
+                            a)
+                            
+                                alla preventiva determinazione delle attivita' da svolgersi da parte degli specializzandi sulla base delle carenze di organico esistenti, alla comunicazione ai responsabili delle scuole e dei corsi territorialmente competenti ai fini della conoscibilita' da parte degli specializzandi, e inoltre, nell'organizzare il concreto svolgimento di tali attivita', assumono idonee misure volte a garantire la non interferenza delle stesse con gli obblighi formativi dei medici specializzandi; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                alla copertura assicurativa del medico relativa alla responsabilita' per i rischi professionali, alla responsabilita' civile verso terzi e agli infortuni connessi all'attivita' assistenziale svolta, con oneri a proprio carico; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                alla registrazione dell'attivita' in termini di frequenza svolta da parte degli specializzandi, in coerenza con quanto disposto dai requisiti minimi organizzativi di cui al punto UO.6.2 dell'allegato A dell'Accordo del 25 marzo 2021, stipulato ai sensi dell'articolo 4 del decreto legislativo 25 agosto 1997, n. 281, tra il Governo, le Regioni e le Province autonome di Trento e di Bolzano che prevede che «le registrazioni garantiscono la tracciabilita' dello svolgimento di ogni fase di lavoro, consentono l'identificazione dell'operatore che ha svolto le attivita' e sono prodotte, in tutti i casi in cui e' possibile, contestualmente alle attivita' svolte».
 
 Fermo restando l'assolvimento degli obblighi formativi della scuola o del corso cui sono iscritti, i medici in formazione, nel periodo di collaborazione volontaria presso gli enti e le associazioni di cui al comma 2, possono partecipare ai percorsi formativi e di acquisizione delle competenze dei medici addetti alle attivita' di raccolta del sangue e degli emocomponenti, di cui all'Allegato A dell'Accordo del 25 luglio 2012, stipulato ai sensi dell'articolo 4 del decreto legislativo 25 agosto 1997, n. 281, tra il Governo, le Regioni e le Province autonome di Trento e di Bolzano sul documento concernente: «Linee guida per l'accreditamento dei servizi trasfusionali e delle unita' di raccolta del sangue e degli emocomponenti», fatto salvo l'obbligo di comunicazione di cui al comma 3 alla scuola di specializzazione o alla regione responsabile del corso di formazione specifica in medicina generale presso cui sono iscritti.
 

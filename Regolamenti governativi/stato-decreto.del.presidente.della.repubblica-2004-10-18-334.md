@@ -8,8 +8,8 @@ codice_redazionale: 004G0300
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti governativi
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:11Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -36,9 +36,107 @@ L'accertamento di cui al comma 1, non e' richiesto per i cittadini stranieri tit
 
 ## Art. 2. — Rapporti con la pubblica amministrazione
 
+1.
+                    
+                        
+                            All'articolo 2 del d.P.R. n. 394 del 1999 sono apportate le seguenti modificazioni:
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 1 le parole: «di cui agli articoli 9 e 4 della legge 4 gennaio 1968, n. 15» sono sostituite dalle seguenti: «di cui all'articolo 46 del decreto del Presidente della Repubblica 28 dicembre 2000, n. 445»;
+
+                            
+                        
+                        
+                            b)
+                            
+                                il comma 2 e' sostituito dal seguente:
+ «2. Gli stati, fatti, e qualita' personali diversi da quelli indicati nel comma 1, sono documentati mediante certificati o attestazioni rilasciati dalla competente autorita' dello Stato estero, legalizzati ai sensi dell'articolo 49 del decreto del Presidente della Repubblica 5 gennaio 1967, n. 200, dalle autorita' consolari italiane e corredati di traduzione in lingua italiana, di cui l'autorita' consolare italiana attesta la conformita' all'originale. Sono fatte salve le diverse disposizioni contenute nelle convenzioni internazionali in vigore per l'Italia.
+L'interessato deve essere informato che la produzione di atti o documenti non veritieri e' prevista come reato dalla legge italiana e determina gli effetti di cui all'articolo 4, comma 2, del testo unico.»;
+
+                            
+                        
+                        
+                            c)
+                            
+                                dopo il comma 2 e' aggiunto il seguente:
+ «2-bis. Ove gli stati, fatti e qualita' personali di cui al comma 1 non possono essere documentati mediante certificati o attestazioni rilasciati da competenti autorita' straniere, in ragione della mancanza di una autorita' riconosciuta o della presunta inaffidabilita' dei documenti, rilasciati dall'autorita' locale, rilevata anche in sede di cooperazione consolare Schengen locale, ai sensi della decisione del Consiglio europeo del 22 dicembre 2003, le rappresentanze diplomatiche o consolari provvedono al rilascio di certificazioni, ai sensi dell'articolo 49 del decreto del Presidente della Repubblica 5 gennaio 1967, n. 200, sulla base delle verifiche ritenute necessarie, effettuate a spese degli interessati.».
+
 ## Art. 3. — Comunicazioni allo straniero
 
+1.
+                    
+                        
+                            All'articolo 3 del d.P.R. n. 394 del 1999 sono apportate le seguenti modificazioni:
+ 
+                        
+                        
+                            a)
+                            
+                                il comma 3 e' sostituito dal seguente:
+ «3. Il provvedimento che dispone il respingimento, il decreto di espulsione, il provvedimento di revoca o di rifiuto del permesso di soggiorno, quello di rifiuto della conversione del titolo di soggiorno, la revoca od il rifiuto della carta di soggiorno sono comunicati allo straniero mediante consegna a mani proprie o notificazione del provvedimento scritto e motivato, contenente l'indicazione delle eventuali modalita' di impugnazione, effettuata con modalita' tali da assicurare la riservatezza del contenuto dell'atto. Se lo straniero non comprende la lingua italiana, il provvedimento deve essere accompagnato da una sintesi del suo contenuto, anche mediante appositi formulari sufficientemente dettagliati, nella lingua a lui comprensibile o, se cio' non e' possibile per indisponibilita' di personale idoneo alla traduzione del provvedimento in tale lingua, in una delle lingue inglese, francese o spagnola, secondo la preferenza indicata dall'interessato.»;
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 4, dopo le parole: «legge 30 luglio 1990, n. 217,» sono inserite le seguenti: «e successive modificazioni,».
+
 ## Art. 4. — Rilascio dei visti d'ingresso
+
+1.
+                    
+                        
+                            All'articolo 5 del d.P.R. n. 394 del 1999 sono apportate le seguenti modificazioni:
+ 
+                        
+                        
+                            a)
+                            
+                                il comma 3 e' sostituito dal seguente:
+ «3. La tipologia dei visti corrispondente ai diversi motivi di ingresso, nonche' i requisiti e le condizioni per l'ottenimento di ciascun tipo di visto sono disciplinati da apposite istruzioni del Ministero degli affari esteri, adottate con decreto del Ministro degli affari esteri, di concerto con i Ministri dell'interno, del lavoro e delle politiche sociali, della giustizia, della salute, dell'istruzione, dell'universita' e della ricerca, delle attivita' produttive e per gli affari regionali e sono periodicamente aggiornate anche in esecuzione degli obblighi internazionali assunti dall'Italia.».
+
+                            
+                        
+                        
+                            b)
+                            
+                                il comma 5 e' sostituito dal seguente:
+ «5. Fermo restando quanto previsto dal comma 4, nella domanda per il rilascio del visto, lo straniero deve indicare le proprie generalita' complete e quelle degli eventuali familiari al seguito, gli estremi del passaporto o di altro documento di viaggio riconosciuto equivalente, il luogo dove e' diretto, il motivo e la durata del soggiorno.»;
+
+                            
+                        
+                        
+                            c)
+                            
+                                al comma 6, la lettera c) e' sostituita dalle seguenti:
+ «c) la disponibilita' dei mezzi di sussistenza sufficienti per la durata del viaggio e del soggiorno, osservate le direttive di cui all'articolo 4, comma 3, del testo unico;
+ c-bis) il nullaosta di approvazione del progetto da parte del Comitato per i minori stranieri, rilasciato previa acquisizione di quello della questura per i componenti del nucleo familiare che ospita il minore, con allegata la lista dei minori e degli accompagnatori, per il rilascio del visto per il soggiorno di cui all'articolo 10, comma 3-bis;»;
+
+                            
+                        
+                        
+                            d)
+                            
+                                il comma 7 e' soppresso;
+
+                            
+                        
+                        
+                            e)
+                            
+                                al comma 8, sono aggiunte, in fine, le seguenti parole: «, fatto salvo quanto diversamente previsto dal testo unico e dal presente regolamento.»;
+
+                            
+                        
+                        
+                            f)
+                            
+                                dopo il comma 8 e' aggiunto il seguente:
+ «8-bis. Contestualmente al rilascio del visto d'ingresso, la rappresentanza diplomatica o consolare consegna al titolare del visto una comunicazione scritta in lingua a lui comprensibile o, ove sia impossibile, in inglese, francese, spagnolo o arabo, secondo le preferenze manifestate dall'interessato, che illustri i diritti e doveri dello straniero relativi all'ingresso ed al soggiorno in Italia, di cui all'articolo 2 del testo unico, nonche' l'obbligo di presentarsi nei tempi stabiliti dalla legge alle competenti autorita' dopo il suo ingresso in Italia.».
 
 ## Art. 5. — Visti per il ricongiungimento familiare e per familiari al seguito
 
@@ -62,6 +160,32 @@ Dopo l'articolo 6 del d.P.R. n. 394 del 1999 e' inserito il seguente:
 
 ## Art. 7. — Uscita dal territorio dello Stato e reingresso
 
+1.
+                    
+                        
+                            All'articolo 8 del d.P.R. n. 394 del 1999 sono apportate le seguenti modificazioni:
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 2, dopo le parole: «permesso di soggiorno» sono inserite le seguenti: «o della carta di soggiorno»;
+
+                            
+                        
+                        
+                            b)
+                            
+                                il comma 3 e' sostituito dal seguente:
+ «3. Lo straniero, il cui documento di soggiorno e' scaduto da non piu' di sessanta giorni e che ne abbia chiesto il rinnovo nel rispetto dei termini, per rientrare nel territorio dello Stato e' tenuto a munirsi di visto di reingresso, rilasciato dalla rappresentanza diplomatica o consolare italiana nel Paese di provenienza, previa esibizione del documento scaduto. Il predetto termine di sessanta giorni non si applica nei confronti dello straniero che si e' allontanato dal territorio nazionale per adempiere agli obblighi militari e si estende fino a sei mesi in caso di sussistenza di comprovati gravi motivi di salute dello straniero, dei suoi parenti di I° grado o del coniuge, fermo restando il possesso dei requisiti previsti per il rinnovo del permesso di soggiorno.»;
+
+                            
+                        
+                        
+                            c)
+                            
+                                il comma 5 e' soppresso.
+
 ## Art. 8. — Contratto di soggiorno per lavoro subordinato
 
 Dopo l'articolo 8 del d.P.R. n. 394 del 1999 e' inserito il seguente:
@@ -70,6 +194,51 @@ Il datore di lavoro, al momento della richiesta di assunzione di un lavoratore s
  2. La documentazione necessaria per il rilascio del permesso di soggiorno, di cui all'articolo 5-bis, comma 1, lettere a) e b), del testo unico, e' esibita dal lavoratore al momento della sottoscrizione del contratto di soggiorno, secondo le modalita' previste dall'articolo 35, comma 1.».
 
 ## Art. 9. — Richiesta del permesso di soggiorno
+
+1.
+                    
+                        
+                            All'articolo 9 del d.P.R. n. 394 del 1999 sono apportate le seguenti modificazioni:
+ 
+                        
+                        
+                            a)
+                            
+                                il comma 1 e' sostituito dal seguente:
+ «1. La richiesta del permesso di soggiorno e' presentata, entro il termine previsto dal testo unico, al questore della provincia nella quale lo straniero intende soggiornare, ovvero allo Sportello unico in caso di ricongiungimento familiare, di cui all'articolo 6, comma 1, ed in caso d'ingresso per lavoro subordinato, ai sensi dell'articolo 36, comma 1, mediante scheda conforme al modello predisposto dal Ministero dell'interno, sottoscritta dal richiedente e corredata della fotografia dell'interessato, in formato tessera, in quattro esemplari: uno da apporre sulla scheda di domanda, uno da apporre sul permesso di soggiorno, il terzo da conservare agli atti d'ufficio e il quarto da trasmettere al sistema informativo di cui all'articolo 49 del testo unico. In luogo della fotografia in piu' esemplari, allo straniero puo' essere richiesto di farsi ritrarre da apposita apparecchiatura per il trattamento automatizzato dell'immagine, in dotazione all'ufficio.»;
+
+                            
+                        
+                        
+                            b)
+                            
+                                dopo il comma 1 sono inseriti i seguenti:
+ «1-bis. Le modalita' di richiesta del permesso di soggiorno, diverse da quelle previste dal comma 1, sono disciplinate con decreto del Ministro dell'interno di attuazione del regolamento (CE) n. 1030/2002 del Consiglio, del 13 giugno 2002, di cui all'articolo 5, comma 8, del testo unico.
+ 1-ter. In caso di ricongiungimento familiare, lo straniero, entro otto giorni dall'ingresso nel territorio nazionale, si reca presso lo Sportello unico che, a seguito di verifica del visto rilasciato dall'autorita' consolare e dei dati anagrafici dello straniero, consegna il certificato di attribuzione del codice fiscale e fa sottoscrivere il modulo precompilato di richiesta del permesso di soggiorno, i cui dati sono, contestualmente, inoltrati alla questura competente per il rilascio del permesso di soggiorno, tramite procedura telematica. Si applica quanto previsto dagli articoli 11, comma 2-bis, e 36, comma 2.
+ 1-quater. Lo sportello unico competente richiede l'annullamento dei codici fiscali non consegnati nel termine di diciotto mesi dal rilascio del nullaosta, ovveroconferma l'avvenuta consegna, con la contestuale comunicazione del dato relativo al domicilio fiscale dello straniero, secondo le modalita' determinate con il decreto del Ministro dell'interno di cui all'articolo 11, comma 2.»;
+
+                            
+                        
+                        
+                            c)
+                            
+                                al comma 3, la lettera b) e' sostituita dalla seguente:
+ «b) la documentazione, attestante la disponibilita' dei mezzi per il ritorno nel Paese di provenienza, nei casi di soggiorno diversi da quelli per motivi di famiglia e di lavoro.»;
+
+                            
+                        
+                        
+                            d)
+                            
+                                il comma 5 e' sostituito dal seguente:
+ «5. Gli stranieri autorizzati al lavoro stagionale ai sensi dell'articolo 24 del testo unico per un periodo non superiore a trenta giorni sono esonerati dall'obbligo di cui all'articolo 5, comma 2-bis, del medesimo testo unico.»;
+
+                            
+                        
+                        
+                            e)
+                            
+                                al comma 6, dopo le parole: «del testo unico» sono aggiunte le seguenti: «e all'articolo 11, comma 1, lettera c)».
 
 ## Art. 10. — Richiesta del permesso di soggiorno in casi particolari
 
@@ -81,7 +250,66 @@ Dopo il comma 3 dell'articolo 10 del d.P.R. n. 394 del 1999 e' inserito il segue
 
 ## Art. 11. — Rilascio del permesso di soggiorno
 
+1.
+                    
+                        
+                            All'articolo 11 del d.P.R. n. 394 del 1999 sono apportate le seguenti modificazioni:
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 1, dopo la lettera c), sono aggiunte le seguenti:
+ «c-bis) per motivi di giustizia, su richiesta dell'Autorita' giudiziaria, per la durata massima di tre mesi prorogabili per lo stesso periodo, nei casi in cui la presenza dello straniero sul territorio nazionale sia indispensabile in relazione a procedimenti penali in corso per uno dei reati di cui all'articolo 380 del codice di procedura penale, nonche' per taluno dei delitti di cui all'articolo 3 della legge 20 febbraio 1958, n. 75;
+ c-ter) per motivi umanitari, nei casi di cui agli articoli 5, comma 6 e 19, comma 1, del testo unico, previo parere delle Commissioni territoriali per il riconoscimento dello status di rifugiato ovvero acquisizione dall'interessato di documentazione riguardante i motivi della richiesta relativi ad oggettive e gravi situazioni personali che non consentono l'allontanamento dello straniero dal territorio nazionale;
+ c-quater) per residenza elettiva a favore dello straniero titolare di una pensione percepita in Italia;
+ c-quinquies) per cure mediche a favore del genitore di minore che si trovi nelle condizioni di cui all'articolo 31, comma 3, del testo unico;
+ c-sexies) per integrazione del minore, nei confronti dei minori che si trovino nelle condizioni di cui all'articolo 32, commi 1-bis e 1-ter, del testo unico, previo parere del Comitato per i minori stranieri, di cui all'articolo 33 del testo unico.»;
+
+                            
+                        
+                        
+                            b)
+                            
+                                dopo il comma 1 e' inserito il seguente:
+ «1-bis. Allo straniero, entrato in Italia per prestare lavoro stagionale, che si trova nelle condizioni di cui all'articolo 5, comma 3-ter, del testo unico, e' rilasciato un permesso di soggiorno triennale, con l'indicazione del periodo di validita' per ciascun anno. Il suddetto permesso di soggiorno e' immediatamente revocato se lo straniero non si presenta all'ufficio di frontiera esterna al termine della validita' annuale e alla data prevista dal visto d'ingresso per il rientro nel territorio nazionale. Tale visto d'ingresso e' concesso sulla base del nullaosta, rilasciato ai sensi dell'articolo 38-bis.»;
+
+                            
+                        
+                        
+                            c)
+                            
+                                il comma 2 e' sostituito dal seguente:
+ «2. Il permesso di soggiorno e' rilasciato in conformita' al Regolamento (CE) n. 1030/2002 del Consiglio, del 13 giugno 2002, di istituzione di un modello uniforme per i permessi di soggiorno rilasciati a cittadini di Paesi terzi e contiene l'indicazione del codice fiscale. Il permesso di soggiorno e la carta di soggiorno di cui all'articolo 17, rilasciati in formato elettronico, possono altresi' contenere i soli dati biometrici individuati dalla normativa. A tale fine, con decreto del Ministro dell'interno, di concerto con il Ministro dell'economia e delle finanze, sono determinate le modalita' di comunicazione, in via telematica, dei dati per l'attribuzione allo straniero del codice fiscale e per l'utilizzazione dello stesso codice come identificativo dello straniero, anche ai fini degli archivi anagrafici dei lavoratori extracomunitari. Con decreto del Ministro dell'interno sono stabilite le modalita' di consegna del permesso di soggiorno.»;
+
+                            
+                        
+                        
+                            d)
+                            
+                                dopo il comma 2 e' inserito il seguente:
+ «2-bis. La questura, sulla base degli accertamenti effettuati, procede al rilascio del permesso di soggiorno per motivi di lavoro o di ricongiungimento familiare, dandone comunicazione, tramite procedura telematica, allo Sportello unico che provvede alla convocazione dell'interessato per la successiva consegna del permesso o dell'eventuale diniego, di cui all'articolo 12, comma 1.».
+
 ## Art. 12. — Rinnovo del permesso di soggiorno
+
+1.
+                    
+                        
+                            All'articolo 13 del d.P.R. n. 394 del 1999 sono apportate le seguenti modificazioni:
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 2, le parole: «comma 9» sono sostituite dalle seguenti: «comma 11»;
+
+                            
+                        
+                        
+                            b)
+                            
+                                dopo il comma 2 e' inserito il seguente:
+ «2-bis. Il rinnovo del permesso di soggiorno per motivi di lavoro e' subordinato alla sussistenza di un contratto di soggiorno per lavoro, nonche' alla consegna di autocertificazione del datore di lavoro attestante la sussistenza di un alloggio del lavoratore, fornito dei parametri richiamati dall'articolo 5-bis, comma 1, lettera a), del testo unico.».
 
 ## Art. 13. — Conversione del permesso di soggiorno
 
@@ -106,6 +334,44 @@ Il comma 3 dell'articolo 7 del decreto del Presidente della Repubblica 30 maggio
  «3. Gli stranieri iscritti in anagrafe hanno l'obbligo di rinnovare all'ufficiale di anagrafe la dichiarazione di dimora abituale nel comune, entro sessanta giorni dal rinnovo del permesso di soggiorno, corredata dal permesso medesimo e, comunque, non decadono dall'iscrizione nella fase di rinnovo del permesso di soggiorno. Per gli stranieri muniti di carta di soggiorno, il rinnovo della dichiarazione di dimora abituale e' effettuato entro sessanta giorni dal rinnovo della carta di soggiorno. L'ufficiale di anagrafe aggiornera' la scheda anagrafica dello straniero, dandone comunicazione al questore.».
 
 ## Art. 15. — Richiesta della carta di soggiorno
+
+1.
+                    
+                        
+                            All'articolo 16 del d.P.R. n. 394 del 1999 sono apportate le seguenti modificazioni:
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 2, la lettera d) e' sostituita dalla seguente:
+ «d) le fonti di reddito, derivanti anche dal riconoscimento del trattamento pensionistico per invalidita', specificandone l'ammontare.»;
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 3, la lettera b) e' sostituita dalla seguente:
+ «b) copia della dichiarazione dei redditi o del modello CUD rilasciato dal datore di lavoro, relativi all'anno precedente, da cui risulti un reddito non inferiore all'importo annuo dell'assegno sociale;»;
+
+                            
+                        
+                        
+                            c)
+                            
+                                il comma 4 e' sostituito dal seguente:
+ «4. Salvo quanto previsto dagli articoli 9, comma 2, e 30, comma 4, del testo unico, nel caso di richiesta relativa ai familiari di cui all'articolo 9, comma 1, e all'articolo 29, comma 1, lettera b-bis), del medesimo testo unico, le indicazioni di cui al comma 2 e la documentazione di cui al comma 3 devono riguardare anche il coniuge ed i figli minori degli anni diciotto conviventi, per i quali pure sia richiesta la carta di soggiorno, e deve essere prodotta la documentazione comprovante:
+ a) lo stato di coniuge o di figlio minore. A tale fine, i certificati rilasciati dalla competente autorita' dello Stato estero sono legalizzati dall'autorita' consolare italiana che attesta che la traduzione in lingua italiana dei documenti e' conforme agli originali, o sono validati dalla stessa nei casi in cui gli accordi internazionali vigenti per l'Italia prevedano diversamente. Tale documentazione non e' richiesta qualora il figlio minore abbia fatto ingresso sul territorio nazionale con visto di ingresso per ricongiungimento familiare;
+ b) la disponibilita' di un alloggio, a norma dell'articolo 29, comma 3, lettera a), del testo unico. A tale fine l'interessato deve produrre l'attestazione dell'ufficio comunale circa la sussistenza dei requisiti di cui al medesimo articolo 29 del testo unico ovvero il certificato di idoneita' igienico-sanitaria rilasciato dall'Azienda unita' sanitaria locale competente per territorio;
+ c) il reddito richiesto per le finalita' di cui all'articolo 29, comma 3, lettera b), del testo unico, tenuto conto di quello dei familiari e conviventi non a carico.»;
+
+                            
+                        
+                        
+                            d)
+                            
+                                al comma 6 dopo la parola: «corredata» sono soppresse le parole da: «,oltre» ad: «anche».
 
 ## Art. 16. — Rilascio e rinnovo della carta di soggiorno
 
@@ -142,6 +408,26 @@ Dopo il comma 3 dell'articolo 27 del d.P.R. n. 394 del 1999 sono aggiunti i segu
  3-ter. Il permesso di soggiorno di cui all'articolo 18 del testo unico contiene, quale motivazione, la sola dicitura «per motivi umanitari» ed e' rilasciato con modalita' che assicurano l'eventuale differenziazione da altri tipi di permesso di soggiorno e l'agevole individuazione dei motivi del rilascio ai soli uffici competenti, anche mediante il ricorso a codici alfanumerici.».
 
 ## Art. 22. — Permessi di soggiorno per gli stranieri per i quali sono vietati l'espulsione o il respingimento
+
+1.
+                    
+                        
+                            All'articolo 28 del d.P.R. n. 394 del 1999 sono apportate le seguenti modificazioni:
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 1, la lettera a) e' sostituita dalla seguente:
+ «a) per minore eta', salvo l'iscrizione del minore degli anni quattordici nel permesso di soggiorno del genitore o dell'affidatario stranieri regolarmente soggiornanti in Italia. In caso di minore non accompagnato, rintracciato sul territorio e segnalato al Comitato per i minori stranieri, il permesso di soggiorno per minore eta' e' rilasciato a seguito della segnalazione al Comitato medesimo ed e' valido per tutto il periodo necessario per l'espletamento delle indagini sui familiari nei Paesi di origine. Se si tratta di minore abbandonato, e' immediatamente informato il Tribunale per i minorenni per i provvedimenti di competenza;»;
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 1, dopo la lettera a), e' inserita la seguente:
+ «a-bis) per integrazione sociale e civile del minore, di cui all'articolo 11, comma 1, lettera c-sexies), previo parere del Comitato per i minori stranieri;».
 
 ## Art. 23. — Definizione delle quote d'ingresso per motivi di lavoro
 
@@ -222,6 +508,26 @@ Dopo l'articolo 32 del d.P.R. n. 394 del 1999 e' inserito il seguente:
 
 ## Art. 28. — Autorizzazione al lavoro degli stranieri iscritti nelle liste
 
+1.
+                    
+                        
+                            All'articolo 33 del d.P.R. n. 394 del 1999 sono apportate le seguenti modificazioni:
+ 
+                        
+                        
+                            a)
+                            
+                                il comma 2 e' sostituito dal seguente:
+ «2. Le richieste di nullaosta al lavoro per ciascun tipo di rapporto di lavoro sono effettuate, anche se riferite ai nominativi iscritti nelle liste, con le modalita' di cui agli articoli 30-bis, 30-quinquies e 31.»;
+
+                            
+                        
+                        
+                            b)
+                            
+                                dopo il comma 2 e' inserito il seguente:
+ «2-bis. Nell'ipotesi di richieste numeriche, oltre a quanto previsto nell'articolo 30-bis, lo Sportello unico acquisisce, tramite procedura telematica, dalle Direzioni provinciali del lavoro, i nominativi delle persone iscritte nelle liste di cui all'articolo 21, comma 5, del testo unico.».
+
 ## Art. 29. — Titoli di prelazione
 
 L'articolo 34 del d.P.R. n. 394 del 1999 e' sostituito dal seguente:
@@ -268,6 +574,42 @@ L'articolo 37 del d.P.R. n. 394 del 1999 e' sostituito dal seguente:
  7. Nel caso di straniero regolarmente soggiornante per motivo di lavoro o per un motivo che consente il lavoro subordinato, che sia dichiarato invalido civile, l'iscrizione delle liste di cui all'articolo 8 della legge 12 marzo 1999, n. 68, equivale all'iscrizione ovvero alla registrazione di cui ai commi 1 e 2.».
 
 ## Art. 34. — Accesso al lavoro stagionale
+
+1.
+                    
+                        
+                            All'articolo 38 del d.P.R. n. 394 del 1999 sono apportate le seguenti modificazioni:
+ 
+                        
+                        
+                            a)
+                            
+                                il comma 1 e' sostituito dal seguente:
+ «1. Il nullaosta al lavoro stagionale, anche con riferimento all'accorpamento di gruppi di lavori di piu' breve periodo da svolgere presso diversi datori di lavoro, ha validita' da 20 giorni ad un massimo di nove mesi decorrenti dalla data di sottoscrizione del contratto di soggiorno. Il nullaosta e' rilasciato dallo Sportello unico, per la durata corrispondente a quella del lavoro stagionale richiesto, non oltre 20 giorni dalla data di ricevimento delle richieste di assunzione del datore di lavoro, con le modalita' definite dagli articoli 30-bis e 31, commi 1, limitatamente alla parte in cui si prevede la richiesta di parere al questore, 2, 3, 4, 5, 6 e 7, e nel rispetto del diritto di precedenza in favore dei lavoratori stranieri, di cui all'articolo 24, comma 4, del testo unico.»;
+
+                            
+                        
+                        
+                            b)
+                            
+                                dopo il comma 1, sono inseriti i seguenti:
+ «1-bis. In caso di richiesta numerica, redatta secondo le modalita' di cui all'articolo 30-bis, lo Sportello unico procede all'immediata comunicazione della stessa, anche per via telematica, al Centro per l'impiego competente che, nel termine di 5 giorni, verifica l'eventuale disponibilita' di lavoratori nazionali, comunitari o extracomunitari regolarmente iscritti nelle liste di collocamento o, comunque, censiti come disoccupati in cerca di occupazione a ricoprire l'impiego stagionale offerto. Si applicano le disposizioni di cui agli articoli 30-quinquies, comma 2 e 30-sexies.
+I termini ivi previsti sono ridotti della meta'.
+ 1-ter. In caso di certificazione negativa pervenuta dal Centro per l'impiego o di espressa conferma della richiesta di nullaosta o, comunque, nel caso di decorso di 10 giorni senza alcun riscontro da parte del Centro per l'impiego, lo Sportello unico da' ulteriore corso alla procedura.»;
+
+                            
+                        
+                        
+                            c)
+                            
+                                al comma 5, le parole: «le Direzioni provinciali del lavoro si conformano» sono sostituite dalle seguenti: «lo Sportello unico si conforma»;
+
+                            
+                        
+                        
+                            d)
+                            
+                                il comma 6 e' soppresso.
 
 ## Art. 35. — Permesso pluriennale per lavoro stagionale
 
@@ -360,7 +702,62 @@ Il comma 5 dell'articolo 46 del d.P.R. n. 394 del 1999 e' sostituito dal seguent
 
 ## Art. 43. — Riconoscimento titoli abilitanti all'esercizio delle professioni
 
+1.
+                    
+                        
+                            All'articolo 49 del d.P.R. n. 394 del 1999 sono apportate le seguenti modificazioni:
+ 
+                        
+                        
+                            a)
+                            
+                                dopo il comma 1, e' inserito il seguente:
+ «1-bis. Il riconoscimento del titolo puo' essere richiesto anche dagli stranieri non soggiornanti in Italia. Le amministrazioni interessate, ricevuta la domanda, provvedono a quanto di loro competenza. L'ingresso in Italia per lavoro, sia autonomo che subordinato, nel campo delle professioni sanitarie e', comunque, condizionato al riconoscimento del titolo di studio effettuato dal Ministero competente.»;
+
+                            
+                        
+                        
+                            b)
+                            
+                                il comma 3, e' sostituito dal seguente:
+ «3. Ove ricorrano le condizioni previste dai decreti legislativi di cui al comma 2, per l'applicazione delle misure compensative, il Ministro competente, cui e' presentata la domanda di riconoscimento, sentite le conferenze dei servizi di cui all'articolo 12 del decreto legislativo n. 115 del 1992 e all'articolo 14 del decreto legislativo n. 319 del 1994, puo' stabilire, con proprio decreto, che il riconoscimento sia subordinato ad una misura compensativa, consistente nel superamento di una prova attitudinale o di un tirocinio di adattamento. Con il medesimo decreto sono definite le modalita' di svolgimento della predetta misura compensativa, nonche' i contenuti della formazione e le sedi presso le quali la stessa deve essere acquisita, per la cui realizzazione ci si puo' avvalere delle regioni e delle province autonome.»;
+
+                            
+                        
+                        
+                            c)
+                            
+                                dopo il comma 3, e' aggiunto il seguente:
+ «3-bis. Nel caso in cui il riconoscimento e' subordinato al superamento di una misura compensativa ed il richiedente si trova all'estero, viene rilasciato un visto d'ingresso per studio, per il periodo necessario all'espletamento della suddetta misura compensativa.».
+
 ## Art. 44. — Disposizioni particolari per gli esercenti le professioni sanitarie
+
+1.
+                    
+                        
+                            All'articolo 50 del d.P.R. n. 394 del 1999 sono apportate le seguenti modificazioni:
+ 
+                        
+                        
+                            a)
+                            
+                                il comma 5 e' soppresso;
+
+                            
+                        
+                        
+                            b)
+                            
+                                il comma 8 e' sostituito dal seguente:
+ «8. La dichiarazione di equipollenza dei titoli accademici nelle discipline sanitarie, conseguiti all'estero, nonche' l'ammissione ai corrispondenti esami di diploma, di laurea o di abilitazione, con dispensa totale o parziale degli esami di profitto, non danno titolo all'esercizio delle relative professioni. A tale fine, deve essere acquisito il preventivo parere del Ministero della salute; il parere negativo non consente l'iscrizione agli albi professionali o agli elenchi speciali per l'esercizio delle relative professioni sul territorio nazionale e dei Paesi dell'Unione europea.»;
+
+                            
+                        
+                        
+                            c)
+                            
+                                dopo il comma 8 e' aggiunto il seguente:
+ «8-bis. Entro due anni dalla data di rilascio del decreto di riconoscimento, il professionista deve iscriversi al relativo albo professionale, ove esistente. Trascorso tale termine, il decreto di riconoscimento perde efficacia. Per le professioni non costituite in ordini o in collegi, il decreto di riconoscimento perde efficacia, qualora l'interessato non lo abbia utilizzato, a fini lavorativi, per un periodo di due anni dalla data del rilascio.».
 
 ## Art. 45. — Sistemi informativi
 
@@ -375,6 +772,24 @@ Il comma 1 dell'articolo 52 del d.P.R. n. 394 del 1999 e' sostituito dal seguent
  «1. Presso il Ministero del lavoro e delle politiche sociali, e' istituito il registro delle associazioni, degli enti e degli altri organismi privati che svolgono le attivita' a favore degli stranieri immigrati, previste dal testo unico. Il registro e' diviso in due sezioni:
  a) nella prima sezione sono iscritti associazioni, enti e altri organismi privati che svolgono attivita' per favorire l'integrazione sociale degli stranieri, ai sensi dell'articolo 42 del testo unico;
  b) nella seconda sezione sono iscritti associazioni, enti ed altri organismi privati abilitati alla realizzazione dei programmi di assistenza e protezione sociale degli stranieri di cui all'articolo 18 del testo unico.».
+
+2.
+                    
+                        
+                            All'articolo 53 del d.P.R. n. 394 del 1999 sono apportate le seguenti modificazioni:
+ 
+                        
+                        
+                            a)
+                            
+                                i commi 3 e 4 sono abrogati;
+
+                            
+                        
+                        
+                            b)
+                            
+                                ai commi 5 e 7, le parole: «lettera c)» sono sostituite dalle seguenti: «lettera b)».
 
 Al comma 1 dell'articolo 54 del d.P.R. n. 394 del 1999, le parole: «lettera c)» sono sostituite dalle seguenti: «lettera b)».
 

@@ -7,8 +7,8 @@ urn: urn:nir:ministero.economia.e.finanze:decreto:2021-07-08;135
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:41Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -26,11 +26,103 @@ Udito il parere del Consiglio di Stato, espresso dalla sezione consultiva per gl
 
 ## Art. 1. — Definizioni
 
+1.
+                        
+                            
+                                Ai fini del presente decreto si intendono per: 
+ 
+                            
+                            
+                                a)
+                                
+                                    decreto legislativo: il decreto legislativo 27 gennaio 2010, n. 39, recante attuazione della direttiva 2006/43/CE, relativa alle revisioni legali dei conti annuali e dei conti consolidati, che modifica le direttive 78/660/CEE e 83/349/CEE, e che abroga la direttiva 84/253/CEE; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    registro: il registro dei revisori legali di cui all'articolo 1, comma 1, lettera g), del decreto legislativo; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    commissione: la Commissione centrale per i revisori legali istituita ai sensi dell'articolo 42, comma 2, del decreto legislativo; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    «MEF»: il Ministero dell'economia e delle finanze; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    CAD: il decreto legislativo 7 marzo 2005, n. 82, recante «Codice dell'amministrazione digitale».
+
 ## Art. 2. — Ambito di applicazione e principi
 
 Il presente regolamento disciplina il procedimento per l'adozione, da parte del MEF, delle sanzioni amministrative di cui all'articolo 24 del decreto legislativo.
 
 Il MEF vigila sul rispetto delle disposizioni del decreto legislativo da parte degli iscritti nel registro e provvede ai conseguenti controlli sulla corretta applicazione delle previsioni dell'articolo 21, comma 1, del decreto legislativo.
+
+3.
+                        
+                            
+                                Il MEF applica le sanzioni di cui al comma 1, ai sensi dell'articolo 21, comma 1, lettera f), del decreto legislativo, in relazione alle seguenti violazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    mancato assolvimento dell'obbligo formativo di cui all'articolo 5 del decreto legislativo; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    inosservanza degli obblighi previsti dall'articolo 24, comma 2, lettera b) del decreto legislativo di comunicazione delle informazioni di cui all'articolo 7 del decreto legislativo, nonche' dei dati comunque richiesti per la corretta individuazione del revisore o della societa' di revisione legale, degli incarichi da essi svolti e dei relativi ricavi e corrispettivi; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    dichiarazioni mendaci contenute nella relazione annuale del tirocinio di cui all'articolo 3, comma 4, del decreto legislativo. In tale caso le sanzioni si applicano nei confronti del revisore legale o della societa' di revisione presso cui il tirocinio e' svolto e, in quanto applicabili, del tirocinante; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    violazione dei principi di deontologia professionale, indipendenza e obiettivita' di cui agli articoli 9 e 10 del decreto legislativo, come esplicati dal Codice dei principi di deontologia professionale, nonche' dei principi di revisione di cui all'articolo 11 del decreto legislativo, e dagli altri atti integrativi dei predetti principi, adottati ai sensi del Capo IV del decreto legislativo; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    mancata, incompleta o tardiva effettuazione degli interventi indicati nella relazione di cui all'articolo 20, commi 16 e 17, del decreto legislativo, contenente la descrizione degli esiti del controllo di qualita' e le eventuali raccomandazioni al revisore legale o alla societa' di revisione, entro il termine in essa specificato; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    mancanza, nella relazione di revisione e giudizio di bilancio, dei requisiti previsti dall'articolo 14 del decreto legislativo; in tal caso si applica la sanzione prevista dall'articolo 24, comma 1, lettera b); 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    mancata o inadeguata adozione di un sistema interno di segnalazione ai sensi dell'articolo 24, comma 9, del decreto legislativo.
 
 Il procedimento sanzionatorio e' retto dai principi di cui all'articolo 25, comma 2, del decreto legislativo. Nell'ambito del procedimento, il MEF si avvale, per lo svolgimento dell'attivita' istruttoria, della commissione, secondo le modalita' previste dal presente regolamento.
 

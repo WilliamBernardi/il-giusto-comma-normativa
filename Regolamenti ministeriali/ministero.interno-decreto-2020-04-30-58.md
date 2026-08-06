@@ -7,8 +7,8 @@ urn: urn:nir:ministero.interno:decreto:2020-04-30;58
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:41Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -56,7 +56,85 @@ Il punteggio della prova preselettiva non concorre alla formazione del voto fina
 
 Le prove di esame sono costituite da due prove scritte e da una prova orale. Le due prove scritte consistono nella stesura di un elaborato ovvero nella risposta sintetica a quesiti, senza l'ausilio di strumenti informatici, nelle materie rispettivamente indicate al comma 2.
 
+2.
+                        
+                            
+                                La prima prova verte, congiuntamente o disgiuntamente, su geometria delle masse e scienza delle costruzioni. La seconda prova verte, a scelta del candidato, su una delle seguenti materie: 
+ 
+                            
+                            
+                                a)
+                                
+                                    elettrotecnica e impianti; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    meccanica e macchine; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    idraulica.
+
 Sono ammessi alla prova orale i candidati che abbiano riportato in ciascuna prova scritta una votazione non inferiore a 21/30 (ventuno/trentesimi).
+
+4.
+                        
+                            
+                                La prova orale verte, oltre che sulle materie oggetto delle prove scritte di cui al comma 2 , sulle seguenti materie: 
+ 
+                            
+                            
+                                a)
+                                
+                                    fisica; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    chimica; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    topografia; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    elementi di normativa sulla sicurezza nei luoghi di lavoro; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    elementi di normativa tecnica e procedurale di prevenzione incendi; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    elementi di diritto amministrativo e di diritto costituzionale; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    ordinamento del Ministero dell'interno, con particolare riferimento al Dipartimento, e ordinamento del personale del Corpo nazionale.
 
 Nell'ambito della prova orale e' accertata la conoscenza della lingua straniera, scelta dal candidato all'atto della presentazione della domanda, tra quelle indicate nel bando di concorso, e la conoscenza dell'uso delle apparecchiature e delle applicazioni informatiche piu' diffuse.
 
@@ -87,7 +165,92 @@ L'identificazione informatica dei candidati che partecipano alla procedura conco
 
 Le prove di esame sono costituite da una prova scritta e da una prova orale. La prova scritta consiste nella stesura di un elaborato ovvero nella risposta sintetica a quesiti, senza l'ausilio di strumenti informatici, nelle materie indicate al comma 2.
 
+2.
+                        
+                            
+                                La prova scritta verte, a scelta del candidato, su una delle seguenti materie: 
+ 
+                            
+                            
+                                a)
+                                
+                                    elementi di costruzioni e dissesti statici, con particolare riferimento alla progettazione di opere provvisionali; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    elementi di meccanica e macchine; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    elementi di elettronica e telecomunicazioni; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    elementi di elettrotecnica; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    elementi di chimica.
+
 Sono ammessi alla prova orale i candidati che abbiano riportato nella prova scritta una votazione non inferiore a 21/30 (ventuno/trentesimi).
+
+4.
+                        
+                            
+                                La prova orale verte, oltre che sulle materie di cui al comma 2, sulle seguenti materie: 
+ 
+                            
+                            
+                                a)
+                                
+                                    elementi di fisica e chimica, con particolare riferimento alle sostanze pericolose; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    elementi di topografica; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    elementi di sicurezza nei luoghi di lavoro; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    elementi di normativa tecnica e procedurale di prevenzione incendi; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    elementi di diritto amministrativo e di diritto costituzionale; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    ordinamento del Ministero dell'interno, con particolare riferimento al Dipartimento, e ordinamento del personale del Corpo nazionale.
 
 Nell'ambito della prova orale e' accertata la conoscenza della lingua straniera, scelta dal candidato all'atto della presentazione della domanda, tra quelle indicate nel bando di concorso, e la conoscenza dell'uso delle apparecchiature e delle applicazioni informatiche piu' diffuse.
 
@@ -99,9 +262,147 @@ Titoli e anzianita' di servizio
 
 La commissione esaminatrice valuta, in base alle categorie e ai punteggi indicati nel presente articolo, i seguenti titoli: titoli di studio e abilitazioni professionali, corsi di formazione e aggiornamento professionale, qualificazioni professionali; valuta, altresi', secondo i punteggi di cui al comma 7, l'anzianita' di effettivo servizio.
 
+2.
+                        
+                            
+                                I titoli di studio ammessi a valutazione e i relativi punteggi sono: 
+ 
+                            
+                            
+                                a)
+                                
+                                    lauree universitarie e lauree magistrali di seguito indicate: 
+ 1) laurea conseguita al termine di un corso di laurea nell'ambito delle facolta' di ingegneria e architettura: punti 1,80; 
+ 2) laurea in scienze biologiche (L-13), scienze e tecnologie agrarie e forestali (L-25), scienze e tecnologie chimiche (L-27), scienze geologiche (L-34): punti 1,20; 
+ 3) lauree universitarie diverse da quelle indicate ai punti precedenti: punti 0,90; 
+ 4) laurea magistrale conseguita al termine di un corso di laurea magistrale nell'ambito delle facolta' di ingegneria e architettura: punti 2,50; 
+ 5) laurea magistrale in biologia (LM-6), scienze chimiche (LM-54), scienze e tecnologie agrarie (LM-69), scienze e tecnologie forestali e ambientali (LM-73), scienze e tecnologie geologiche (LM-74): punti 1,50; 
+ 6) lauree magistrali diverse da quelle indicate ai punti precedenti: punti 1,25; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    master universitario di I livello: punti 0,20; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    master universitario di II livello: punti 0,30; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    diploma di specializzazione conseguito al termine di un corso di specializzazione istituito dalle Universita': punti 0,50; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    abilitazione professionale, correlata alle lauree di cui alla lettera a), n. 1), n. 2), n. 4) e n. 5): punti 0,50. Tale punteggio non e' cumulabile qualora il candidato sia in possesso di piu' abilitazioni.
+
 I punteggi dei titoli di studio di cui al comma 2 sono fra loro cumulabili, fino al raggiungimento del punteggio massimo complessivo pari a punti 3,00, ad eccezione di quelli relativi a lauree universitarie e lauree magistrali, di cui alla lettera a), afferenti al medesimo corso di laurea.
 
 Sono ammessi a valutazione i corsi di formazione e aggiornamento professionale, frequentati con profitto, di durata non inferiore a 36 ore, autorizzati dall'amministrazione e, per il personale dei ruoli speciali antincendio boschivo ad esaurimento, anche dall'amministrazione di provenienza, purche' in materie attinenti alle funzioni dei ruoli dei vigili del fuoco, dei capi squadra e dei capi reparto e degli ispettori antincendi. Il punteggio da attribuire e' correlato alla durata del corso ed e' pari a 0,25 punti per ciascun periodo di trentasei ore, fino al raggiungimento di un punteggio massimo complessivo per i corsi di cui al presente comma pari a punti 2,00. Nel caso in cui il numero delle ore complessive del corso non corrisponda a un multiplo esatto di trentasei, il punteggio da attribuire al corso e' calcolato per difetto. Non sono valutabili il corso di formazione per allievi vigili del fuoco, i corsi di formazione per l'accesso alle qualifiche di capo squadra e di capo reparto e i corsi per il conseguimento dei brevetti per l'accesso ai ruoli delle specialita' aeronaviganti e delle specialita' nautiche e dei sommozzatori.
+
+5.
+                        
+                            
+                                Le qualificazioni professionali ammesse a valutazione e i relativi punteggi sono: 
+ 
+                            
+                            
+                                a)
+                                
+                                    NBCR terzo livello: 0,40; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    NBCR secondo livello: 0,20; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    istruttore o formatore, riconosciuto dalla Direzione centrale per la formazione del Dipartimento, in una delle discipline previste dall'amministrazione: 0,50; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    NIAT e NIA: 0,30; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    TAS secondo livello: 0,30; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    USAR medium: 0,30; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    DOS: 0,20; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    operatore di sala operativa: 0,20; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    SAF 2A o avanzato: 0,30; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    TLC: 0,40; 
+
+                                
+                            
+                            
+                                m)
+                                
+                                    patente terrestre di quarta categoria e patente per APL: 0,20; 
+
+                                
+                            
+                            
+                                n)
+                                
+                                    abilitazione all'espletamento della valutazione dei progetti di prevenzione incendi per le seguenti attivita' di cui all'Allegato I del decreto del Presidente della Repubblica 1° agosto 2011, n. 151: 
+ 1) attivita' n. 3a) e 3b): 0,10 punti; 
+ 2) attivita' n. 4a) e 4b): 0,10 punti; 
+ 3) attivita' n. 49 e n. 74: 0,10 punti; 
+ 4) attivita' n. 54 e n. 75: 0,10 punti; 
+ 5) attivita' n. 77: 0,10 punti.
 
 I punteggi dei titoli di cui al comma 5 sono cumulabili fino ad un massimo di punti 1,00, fermo restando che quello di cui alla lettera a) assorbe quello di cui alla lettera b).
 

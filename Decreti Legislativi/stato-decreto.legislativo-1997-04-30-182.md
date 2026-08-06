@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
 vigenza_date: 2021-07-25
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:31Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -74,6 +74,75 @@ Il datore di lavoro o il committente sono tenuti a rilasciare al lavoratore, al 
 
 ## Art. 2. — (Soggetti assicurati al Fondo pensioni per i lavoratori dello spettacolo istituito presso l'ENPALS)
 
+1.
+                    
+                        
+                            Nell'ambito delle categorie di cui all'articolo 3 del decreto legislativo del Capo provvisorio dello Stato 16 luglio 1947, n. 708, come modificato dalla legge 29 novembre 1952, n. 2388, e successive modificazioni ed integrazioni, ai fini dell'individuazione dei requisiti contributivi e delle modalita' di calcolo delle contribuzioni e delle prestazioni, i lavoratori vengono distinti in tre gruppi, indipendentemente dalla natura autonoma o subordinata del rapporto di lavoro e individuati con successivo decreto del Ministro del lavoro e della previdenza sociale da emanarsi entro sessanta giorni dalla data di entrata in vigore del presente decreto, a seconda che: 
+ 
+                        
+                        
+                            a)
+                            
+                                prestino a tempo determinato, attivita' artistica o tecnica, direttamente connessa con la produzione e la realizzazione di spettacoli; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                prestino a tempo determinato attivita' al di fuori delle ipotesi di cui alla lettera a); 
+
+                            
+                        
+                        
+                            c)
+                            
+                                prestino attivita' a tempo indeterminato.
+
+2.
+                    
+                        
+                            Per i lavoratori di cui al comma 1 il requisito dell'annualita' di contribuzione richiesto per il sorgere del diritto alle prestazioni si considera soddisfatto con riferimento a: 
+ 
+                        
+                        
+                            a)
+                            
+                                90 contributi giornalieri per i lavoratori appartenenti al gruppo di cui alla lettera a) del medesimo comma 1; (6) 
+
+                            
+                        
+                        
+                            b)
+                            
+                                260 contributi giornalieri per i lavoratori appartenenti al gruppo di cui alla lettera b) del medesimo comma 1; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                312 contributi giornalieri per i lavoratori appartenenti al gruppo di cui alla lettera c) del medesimo comma 1.
+
+2-bis.
+                    
+                        
+                            La contribuzione previdenziale e assistenziale e' dovuta al Fondo pensione lavoratori dello spettacolo anche per le prestazioni rese da lavoratori appartenenti alle categorie professionali di cui all'articolo 3 del decreto legislativo del Capo provvisorio dello Stato 16 luglio 1947, n. 708, con riferimento a: 
+ 
+                        
+                        
+                            a)
+                            
+                                
+                                    ((attivita' retribuite di insegnamento o di formazione)) svolte in enti accreditati presso le amministrazioni pubbliche o da queste organizzate; ((6))
+                                
+                            
+                        
+                        
+                            b)
+                            
+                                attivita' remunerate di carattere promozionale di spettacoli dal vivo, cinematografici, televisivi o del settore audiovisivo, nonche' di altri eventi organizzati o promossi da soggetti pubblici o privati che non hanno come scopo istituzionale o sociale l'organizzazione e la diffusione di spettacoli ((o di attivita' educative collegate)) allo spettacolo. ((6))
+
 Per le attivita' di cui alle lettere a) e b) del comma 2-bis non sono richiesti gli adempimenti di cui all'articolo 6, del decreto legislativo del Capo provvisorio dello Stato 16 luglio 1947, n. 708.(6)
 
 Per la determinazione del numero complessivo di giornate accreditate, per l'acquisizione del diritto alle prestazioni, nel caso di passaggio fra i diversi gruppi, quelle relative al gruppo di provenienza sono riproporzionate in base al rapporto esistente tra i rispettivi requisiti di annualita' di contribuzione previsti per il diritto alle prestazioni.
@@ -108,6 +177,56 @@ Per i lavoratori iscritti al Fondo, successivamente alla data del 31 dicembre 19
 
 A partire dal 1 gennaio 1997 per i lavoratori dello spettacolo di cui all'articolo 5, comma 2, del decreto legislativo 30 dicembre 1992, n. 503, gia' iscritti alla data del 31 dicembre 1995, l'eta' pensionabile e' gradualmente elevata in ragione di un anno anagrafico ogni 18 mesi fino al raggiungimento dell'eta' prevista dall'assicurazione generale obbligatoria, salvo quanto disposto dal comma 2.
 
+2.
+                    
+                        
+                            Il diritto alla pensione di vecchiaia e' subordinato al compimento dell'eta' indicata nell'allegata tabella C per i lavoratori gia' iscritti alla data del 31 dicembre 1995 ed appartenenti alle seguenti categorie: 
+ 
+                        
+                        
+                            a)
+                            
+                                attori di prosa, operetta, rivista, varieta' ed attrazioni, presentatori e disc-jockey; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                attori generici cinematografici, attori di doppiaggio cinematografico; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                direttori d'orchestra e sostituti; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                figuranti e indossatori.
+
+3.
+                    
+                        
+                            Per i lavoratori dello spettacolo, gia' iscritti alla data del 31 dicembre 1995, appartenenti alle categorie degli artisti lirici, professori d'orchestra, orchestrali, coristi, concertisti, cantanti di musica leggera, la pensione di vecchiaia si consegue: 
+ 
+                        
+                        
+                            a)
+                            
+                                all'eta' di 61 anni per gli uomini; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                all'eta' di 57 anni per le donne. Tale requisito e' fissato a 58 anni a decorrere dal 1° gennaio 2016, a 59 anni a decorrere dal 1° gennaio 2018, a 60 anni a decorrere dal 1° gennaio 2020 e a 61 anni a decorrere dal 1° gennaio 2022.
+
 Per i lavoratori dello spettacolo appartenenti alle categorie dei tersicorei e ballerini, l'eta' pensionabile e' fissata per uomini e donne al compimento del quarantaseiesimo anno di eta' anagrafica, con l'impiego, per i lavoratori cui si applica integralmente il sistema contributivo o misto, del coefficiente di trasformazione di cui all'articolo 1, comma 6, della legge 8 agosto 1995, n. 335, relativo all'eta' superiore. Per i due anni successivi alla data di entrata in vigore della presente disposizione, ai lavoratori di cui al presente comma assunti a tempo indeterminato, che hanno raggiunto o superato l'eta' pensionabile, e' data facolta' di esercitare opzione, rinnovabile annualmente, per restare in servizio. Tale opzione deve essere esercitata attraverso formale istanza da presentare all'ENPALS entro due mesi dalla data di entrata in vigore della presente disposizione o almeno tre mesi prima del perfezionamento del diritto alla pensione, fermo restando il limite massimo di pensionamento di vecchiaia di anni quarantasette per le donne e di anni cinquantadue per gli uomini.
 
 Ai fini dell'accesso al diritto alle prestazioni, i lavoratori di cui al comma 4 conseguono il diritto alla pensione quando siano trascorsi almeno venti anni dalla data iniziale dell'assicurazione al Fondo e risultino versati in loro favare un numero di contributi giornalieri effettivi in costanza di lavoro o accreditati ai sensi dell'articolo 1, comma 15, esclusivamente con la qualifica di tersicoreo o ballerino, secondo l'allegata tabella D.
@@ -138,6 +257,45 @@ I lavoratori di cui al comma 13 e i rispettivi datori di lavoro, in funzione del
  Il D.L. 25 maggio 2021, n. 73, convertito con modificazioni dalla L. 23 luglio 2021, n. 106, ha disposto (con l'art. 66, comma 18) che la presente modifica si applica a decorrere dal 1° luglio 2021.
 
 ## Art. 5. — (Pensioni di invalidita' specifica)
+
+1.
+                    
+                        
+                            Gli iscritti al Fondo appartenenti alle categorie indicate all'articolo 4, commi 2, 3 e 4, anche se iscritti successivamente alla data del 31 dicembre 1995, hanno diritto alla pensione di invalidita' specifica alle seguenti condizioni:
+ 
+                        
+                        
+                            a)
+                            
+                                abbiano raggiunto il trentesimo anno di eta';
+
+                            
+                        
+                        
+                            b)
+                            
+                                abbiano perduto la capacita' di lavoro specifica nell'esercizio dell'attivita' professionale abituale o prevalente per infermita', difetto fisico o mentale, in modo totale e permanente;
+
+                            
+                        
+                        
+                            c)
+                            
+                                siano trascorsi almeno cinque anni dalla data di inizio dell'assicurazione;
+
+                            
+                        
+                        
+                            d)
+                            
+                                possano far valere almeno 600 contributi giornalieri versati o accreditati, dei quali almeno 120 nel triennio precedente la data di presentazione della domanda di pensione;
+
+                            
+                        
+                        
+                            e)
+                            
+                                i contributi di cui alla lettera d) devono risultare versati per lavoro svolto nella sola attivita' professionale abituale e prevalente per la quale e' richiesto il riconoscimento dell'invalidita' specifica.
 
 Il primo, secondo e terzo comma dell'articolo 8 del decreto del Presidente della Repubblica 31 dicembre 1971, n. 1420, sono abrogati.
 

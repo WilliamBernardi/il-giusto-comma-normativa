@@ -10,7 +10,7 @@ source: normattiva-opendata
 collection: Atti di recepimento direttive UE
 vigenza_date: 1997-06-14
 zip_date: 2026-07-30
-fetched_at: 2026-08-02T09:40:50Z
+fetched_at: 2026-07-30
 ---
 
 DECRETO LEGISLATIVO
@@ -91,6 +91,31 @@ Dopo l'art. 180 della legge 22 aprile 1941, n. 633, e' inserito il seguente:
 Ai fini della comunicazione al pubblico via satellite, i diritti relativi agli artisti interpreti ed esecutori, ai produttori di fonogrammi ed agli organismi di radiodiffusione sorti da contratti stipulati anteriormente alla data del 1 gennaio 1995 sono regolati dalle disposizioni vigenti prima della data di entrata in vigore del presente decreto.
 
 Ai fini della comunicazione al pubblico via satellite, ai contratti relativi all'utilizzazione di opere e di altri elementi protetti dal diritto d'autore, in vigore al 1 gennaio 1995, si applicano a partire dal 1 gennaio 2000 le disposizioni contenute nel presente decreto, se tali contratti scadono oltre quest'ultima data.
+
+3.
+                    
+                        
+                            In un contratto di coproduzione internazionale, concluso prima del 1 gennaio 1995 tra un coproduttore di uno Stato membro ed uno o piu' coproduttori di altri Stati membri o di Stati terzi, l'autorizzazione alla comunicazione al pubblico via satellite, da parte di uno dei coproduttori o dei suoi cessionari, richiede il consenso preventivo del detentore dell'esclusivita' territoriale o linguistica, sia esso un coproduttore o un cessionario, qualora in detto contratto coesistano le seguenti condizioni:
+ 
+                        
+                        
+                            a)
+                            
+                                sia previsto espressamente un regime di ripartizione dei diritti di utilizzazione tra i coproduttori in base alla zona geografica per tutti i mezzi di comunicazione al pubblico;
+
+                            
+                        
+                        
+                            b)
+                            
+                                non vi sia distinzione tra gli accordi applicabili alla comunicazione al pubblico via satellite e le disposizioni applicabili agli altri modi di comunicazione;
+
+                            
+                        
+                        
+                            c)
+                            
+                                la comunicazione al pubblico via satellite delle coproduzioni pregiudichi l'esclusivita', ed in particolare quella linguistica, di uno dei coproduttori o dei suoi cessionari in un dato territorio.
 
 ((COMMA ABROGATO DAL D.LGS. 26 MAGGIO 1997, N. 154)).
 

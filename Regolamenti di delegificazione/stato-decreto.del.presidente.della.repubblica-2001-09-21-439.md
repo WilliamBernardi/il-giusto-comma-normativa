@@ -8,8 +8,8 @@ codice_redazionale: 001G0499
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti di delegificazione
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:40:25Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -38,8 +38,72 @@ Prima di procedere all'avvio della sperimentazione clinica di un medicinale di n
 
 ## Art. 3. — Prodotto farmaceutico di nuova istituzione
 
+1.
+                    
+                        
+                            Ai fini degli accertamenti di cui all'articolo 1, comma 1, lettera c), del decreto del Presidente della Repubblica 21 settembre 1994, n. 754, che precedono l'avvio degli studi clinici, per nuovo prodotto farmaceutico o prodotto farmaceutico di nuova istituzione si intende un medicinale come definito nell'articolo 1, commi 1 e 2, del decreto legislativo 29 maggio 1991, n. 178, e successive modificazioni, che rientri in una delle seguenti categorie:
+ 
+                        
+                        
+                            a)
+                            
+                                non sia mai stato utilizzato nell'uomo;
+
+                            
+                        
+                        
+                            b)
+                            
+                                sia stato utilizzato nell'uomo, ma in modo inadeguato o insufficiente secondo una motivata determinazione del Ministero della sanita' o del Comitato etico locale, ai sensi del decreto ministeriale 18 marzo 1998, pubblicato nella Gazzetta Ufficiale n. 122 del 28 maggio 1998.
+
 ## Art. 4. — Domanda relativa all'accertamento della qualita',
  efficacia e sicurezza del prodotto
+
+1.
+                    
+                        
+                            La domanda, redatta in carta da bollo, relativa agli accertamenti di cui all'articolo 3, comma 1, deve essere inviata all'Istituto superiore di sanita', corredata di:
+ 
+                        
+                        
+                            a)
+                            
+                                documentazione e, eventualmente, materiali pertinenti all'accertamento della qualita';
+
+                            
+                        
+                        
+                            b)
+                            
+                                documentazione preclinica pertinente all'accertamento dell'efficacia;
+
+                            
+                        
+                        
+                            c)
+                            
+                                documentazione preclinica pertinente all'accertamento della sicurezza;
+
+                            
+                        
+                        
+                            d)
+                            
+                                programma di sperimentazione clinica di fase I;
+
+                            
+                        
+                        
+                            e)
+                            
+                                ricevuta di versamento della tariffa, prevista dal decreto ministeriale 6 marzo 1992, e successive modifiche, pubblicato nella Gazzetta Ufficiale n. 87 del 13 aprile 1992;
+
+                            
+                        
+                        
+                            f)
+                            
+                                copia della comunicazione delle determinazioni del Comitato etico locale o del Ministero della sanita' nei casi previsti dall'articolo 3, comma 1, lettera b).
 
 Con decreto del Presidente dell'Istituto superiore di sanita' e' individuata la documentazione di cui al comma 1, lettere a), b), c) e d), da allegare alla domanda. Il decreto e' pubblicato nella Gazzetta Ufficiale della Repubblica italiana.
 
@@ -48,6 +112,24 @@ Copia della domanda, priva di allegati, deve essere trasmessa dal richiedente al
 L'Istituto superiore di sanita' comunica al richiedente, entro cinque giorni dal ricevimento della domanda, la data di avvenuta acquisizione della documentazione ed il numero di protocollo attribuito alla pratica.
 
 ## Art. 5. — Accertamenti istruttori
+
+1.
+                    
+                        
+                            L'Istituto superiore di sanita', sulla base della documentazione di cui all'articolo 4, comma 1, richiedendo, ove necessario, supplementi di documentazione o colloqui con esperti designati del richiedente, formula un parere sulla ammissibilita' alla sperimentazione di fase I del nuovo prodotto farmaceutico, in base:
+ 
+                        
+                        
+                            a)
+                            
+                                alla valutazione della qualita' del prodotto, anche mediante verifiche su campioni ove necessario;
+
+                            
+                        
+                        
+                            b)
+                            
+                                alla valutazione del rapporto fra rischi prevedibili e benefici ipotizzabili in relazione ai risultati della sperimentazione pre-clinica.
 
 Il parere sull'ammissibilita' indica, se del caso, i limiti e le condizioni cui e' subordinata la sperimentazione di fase I; esso e' comunicato entro sessanta giorni dalla data di cui all'articolo 4, comma 4, al Ministero della sanita' ed al richiedente.
 
@@ -87,6 +169,38 @@ Gli esperti, se estranei all'amministrazione dello Stato, sono equiparati, ai fi
 
 ## Art. 9. — Medicinali di particolare importanza
  e riduzione di termini procedimentali
+
+1.
+                    
+                        
+                            Sono considerati medicinali di particolare importanza terapeutica quei prodotti farmaceutici che sono:
+ 
+                        
+                        
+                            a)
+                            
+                                proposti per il trattamento di malattie a prognosi grave o infausta;
+
+                            
+                        
+                        
+                            b)
+                            
+                                proposti per il trattamento di malattie rare;
+
+                            
+                        
+                        
+                            c)
+                            
+                                che ipotizzano un sostanziale progresso nel trattamento di determinate malattie;
+
+                            
+                        
+                        
+                            d)
+                            
+                                preparati con tecnologie innovative.
 
 Ai fini dell'accertamento della qualita', efficacia e sicurezza del prodotto farmaceutico, i termini procedimentali di cui agli articoli 5, commi 2, 4 e 5, sono ridotti rispettivamente a trenta giorni per la comunicazione dell'esito dell'istruttoria ed a quindici giorni per le modifiche dell'autorizzazione.
 

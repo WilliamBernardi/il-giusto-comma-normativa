@@ -8,8 +8,8 @@ codice_redazionale: 011G0141
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:40Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -26,6 +26,45 @@ Considerata la necessita' di disciplinare le condizioni e modalita' di funzionam
 Udito il parere del Consiglio di Stato, espresso nell'adunanza del 25 novembre 2010;
 
 ## Art. 1. — Definizioni
+
+1.
+                    
+                        
+                            Ai fini del presente regolamento, si intendono per: 
+ 
+                        
+                        
+                            a)
+                            
+                                «Fondo Start-Up o Fondo»: Fondo rotativo con dotazione iniziale di 4.000.000 di euro, istituito presso la Tesoreria dello Stato, con apposita contabilita' speciale, per favorire la fase di avvio (start-up) di progetti di internazionalizzazione di imprese singole o aggregate; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                «Societa' destinatarie»: imprese di nuova costituzione la cui sede sociale e' in Italia o in altro paese dell'Unione europea, appositamente costituite, nella forma di societa' di capitali, da raggruppamenti di piccole e medie imprese (PMI) o da singole PMI operanti in Italia per la realizzazione di progetti di internazionalizzazione in Paesi al di fuori dell'Unione europea; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                «Piccole e medie imprese (PMI)»: le piccole e medie imprese ai sensi della raccomandazione 2003/361/CE del 6 maggio 2003; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                «Intervento»: acquisizione da parte della Simest Spa, a valere sul Fondo rotativo - in nome proprio e per conto del Ministero dello sviluppo economico - di una quota non di controllo e temporanea del capitale sociale della societa' destinataria; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                «Soggetto gestore»: la Simest SpA, istituita ai sensi della legge 24 aprile 1990, n. 100.
 
 ## Art. 2. — Finalita' del fondo rotativo
 

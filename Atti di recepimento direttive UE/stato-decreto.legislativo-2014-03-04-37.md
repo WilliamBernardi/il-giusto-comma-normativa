@@ -9,7 +9,7 @@ source: normattiva-opendata
 collection: Atti di recepimento direttive UE
 vigenza_date: 2014-04-05
 zip_date: 2026-07-30
-fetched_at: 2026-08-02T09:40:48Z
+fetched_at: 2026-07-30
 ---
 
 DECRETO LEGISLATIVO
@@ -35,10 +35,232 @@ Il presente decreto, al fine di assicurare un elevato livello di protezione a tu
 
 ## Art. 2. — Ambito di applicazione
 
+1.
+                        
+                            
+                                Il presente decreto si applica alle seguenti infrazioni in materia di sicurezza stradale: 
+ 
+                            
+                            
+                                a)
+                                
+                                    eccesso di velocita'; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    mancato uso della cintura di sicurezza; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    mancato arresto davanti a un semaforo rosso; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    guida in stato di ebbrezza; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    guida sotto l'influenza di sostanze stupefacenti; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    mancato uso del casco protettivo; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    circolazione su una corsia vietata; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    uso indebito di telefono cellulare o di altri dispositivi di comunicazione durante la guida.
+
 ## Art. 3. — Definizioni
+
+1.
+                        
+                            
+                                Ai fini del presente decreto si intende per: 
+ 
+                            
+                            
+                                a)
+                                
+                                    veicolo, ogni veicolo azionato da un motore, compresi i motocicli, destinato al trasporto su strada di persone o di merci; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    Stato membro dell'infrazione, lo Stato membro dell'Unione europea in cui l'infrazione e' stata commessa; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    Stato membro d'immatricolazione, lo Stato membro dell'Unione europea in cui e' immatricolato il veicolo con cui l'infrazione e' stata commessa; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    eccesso di velocita', il superamento dei limiti di velocita' in vigore nello Stato membro dell'infrazione per il tipo di strada ed il tipo di veicolo in questione; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    mancato uso della cintura di sicurezza, il mancato rispetto dell'obbligo di indossare la cintura di sicurezza o un dispositivo di ritenuta per bambini a norma sia della direttiva 91/671/CEE, e successive modificazioni, relativa all'uso obbligatorio delle cinture di sicurezza e dei sistemi di ritenuta per bambini nei veicoli sia della legislazione dello Stato membro dell'infrazione; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    mancato arresto davanti a un semaforo rosso, il transito con semaforo rosso o con qualsiasi altro segnale pertinente di arresto, come definito dalla legislazione nazionale dello Stato membro dell'infrazione; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    guida in stato di ebbrezza, la guida in stato di alterazione dovuta all'alcol, come definita dalla legislazione dello Stato membro dell'infrazione; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    guida sotto l'effetto di sostanze stupefacenti, la guida in stato di alterazione per uso di sostanze stupefacenti o di altre sostanze con effetto analogo, come definita dalla legislazione dello Stato membro d'infrazione; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    mancato uso del casco protettivo, il mancato rispetto dell'obbligo di indossare il casco protettivo, come definito dalla legislazione dello Stato membro d'infrazione; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    circolazione su una corsia vietata, l'uso illecito di una corsia della strada, quale una corsia d'emergenza, una corsia preferenziale per il trasporto pubblico o una corsia provvisoriamente chiusa per motivi di congestione o di lavori stradali, come definito dalla legislazione dello Stato membro d'infrazione; 
+
+                                
+                            
+                            
+                                m)
+                                
+                                    uso indebito di telefono cellulare o di altri dispositivi di comunicazione durante la guida, l'uso indebito di telefono cellulare o di altri dispositivi di comunicazione durante la guida, come definito dalla legislazione dello Stato membro di infrazione; 
+
+                                
+                            
+                            
+                                n)
+                                
+                                    punto di contatto nazionale, l'autorita' competente designata dagli Stati membri per lo scambio dei dati di immatricolazione dei veicoli; per l'Italia: il Ministero delle infrastrutture e dei trasporti - Dipartimento per i trasporti terrestri, la navigazione ed i sistemi informatici e statistici - Direzione generale per la motorizzazione; 
+
+                                
+                            
+                            
+                                o)
+                                
+                                    consultazione automatizzata, la procedura di accesso «on line» per la consultazione delle banche dati di cui all'articolo 4; 
+
+                                
+                            
+                            
+                                p)
+                                
+                                    intestatario del veicolo, la persona al cui nome e' immatricolato il veicolo, come definita nella legislazione dello Stato membro di immatricolazione; 
+
+                                
+                            
+                            
+                                q)
+                                
+                                    interessato, la persona fisica cui si riferiscono i dati personali; 
+
+                                
+                            
+                            
+                                r)
+                                
+                                    destinatario, l'autorita' di un altro Stato membro dell'Unione europea competente per l'accertamento delle infrazioni; 
+
+                                
+                            
+                            
+                                s)
+                                
+                                    indicatore di validita', contrassegno dei dati personali registrati senza l'obiettivo di limitarne il trattamento in futuro; 
+
+                                
+                            
+                            
+                                t)
+                                
+                                    Motorizzazione, la Direzione generale per la motorizzazione del Ministero delle infrastrutture e dei trasporti - Dipartimento per i trasporti terrestri, la navigazione ed i sistemi informatici e statistici; 
+
+                                
+                            
+                            
+                                u)
+                                
+                                    organi accertatori, gli organi di cui all'articolo 12 del Codice della strada; 
+
+                                
+                            
+                            
+                                v)
+                                
+                                    ANV, l'Archivio nazionale dei veicoli di cui all'articolo 226, comma 5, del Codice della strada.
 
 ## Art. 4. — Procedura per lo scambio delle informazioni 
  con gli altri Stati membri
+
+1.
+                        
+                            
+                                Per le indagini relative alle infrazioni in materia di sicurezza stradale di cui all'articolo 2, il punto di contatto nazionale garantisce ai punti di contatto degli altri Stati membri la consultazione automatizzata dei seguenti dati nazionali di immatricolazione dei veicoli: 
+ 
+                            
+                            
+                                a)
+                                
+                                    dati relativi ai veicoli; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    dati relativi ai proprietari o agli intestatari dei veicoli, contenuti nell'archivio nazionale dei veicoli del Ministero delle infrastrutture e dei trasporti, Dipartimento per i trasporti, la navigazione ed i sistemi informativi e statistici, Direzione generale della motorizzazione.
 
 Per le medesime finalita' di cui al comma 1, gli organi di polizia di cui all'articolo 12 del decreto legislativo 30 aprile 1992, n. 285, trasmettono telematicamente al punto di contatto nazionale di cui all'articolo 3, comma 1, lettera n), le richieste di dati relativi ai veicoli ed a quelli riguardanti i proprietari o gli intestatari di veicoli immatricolati negli altri Stati della Unione.
 Il punto di contatto nazionale inoltra tali richieste al punto di contatto nazionale dello Stato membro interessato, attraverso consultazioni automatizzate, e fornisce le informazioni ottenute all'organo di polizia richiedente.
@@ -48,6 +270,31 @@ Gli elementi dei dati di cui ai commi 1 e 2 sono forniti in conformita' all'alle
 Il punto di contatto nazionale consente la consultazione automatizzata di cui all'articolo 3, comma 1, lettera o), mediante l'utilizzo del numero completo della targa di immatricolazione del veicolo.
 
 Le consultazioni di cui al comma 4 sono effettuate nel rispetto delle procedure descritte nel Capo 3 dell'allegato della decisione 2008/616/GAI, ad eccezione del punto 1 del Capo medesimo, per il quale si applica l'allegato I del presente decreto.
+
+6.
+                        
+                            
+                                La Direzione generale per la motorizzazione, in qualita' di punto di contatto nazionale di cui all'articolo 3, comma 1, lettera n): 
+ 
+                            
+                            
+                                a)
+                                
+                                    adotta tutte le misure necessarie per assicurare che lo scambio di informazioni con gli altri Stati membri sia effettuato con mezzi elettronici interoperabili, senza scambio di dati provenienti da altre banche dati; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    effettua lo scambio di informazioni in modo efficiente in termini di costi ed in modo sicuro usando l'infrastruttura di rete per le comunicazioni transeuropee di dati tra amministrazioni della UE (rete s-Testa); 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    garantisce la riservatezza dei dati trasmessi attraverso l'uso dell'applicazione informatica messa a disposizione sulla piattaforma EUCARIS appositamente prevista per le finalita' dell'articolo 12 della decisione 2008/615/GAI, e le relative versioni modificate, ed in conformita' dell'allegato I del presente decreto e del capo 3, punti 2 e 3, dell'allegato della decisione 2008/616/GAI. Le versioni modificate dell'applicazione informatica prevedono tanto la modalita' di scambio on-line in tempo reale quanto la modalita' di scambio per gruppo, la quale consente lo scambio di richieste o risposte multiple in un unico messaggio.
 
 ## Art. 5. — Accesso alle informazioni
 
@@ -97,6 +344,24 @@ Nei casi in cui il punto di contatto di un altro Stato membro indichi termini pe
 ## Art. 10. — Diritti dell'interessato
 
 Rispetto al trattamento dei dati personali effettuato in applicazione del presente decreto all'interessato sono riconosciuti i diritti di informazione, di accesso, di rettifica, cancellazione e blocco, di risarcimento del danno e di ricorso giurisdizionale, ai sensi degli articoli 7, 8, 13, 15, 53 e 152 del Codice.
+
+2.
+                        
+                            
+                                Oltre a quanto previsto al comma 1, l'interessato ha il diritto di ottenere: 
+ 
+                            
+                            
+                                a)
+                                
+                                    che sia aggiunto un indicatore di validita' ai dati di cui l'interessato contesta l'esattezza e per i quali non e' possibile stabilire se siano corretti o inesatti; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    che i dati non vengano cancellati ma solo conservati temporaneamente se vi sono fondati motivi di ritenere che la cancellazione possa compromettere un proprio legittimo interesse; i dati cosi' conservati sono trattati ulteriormente solo per lo scopo che ha impedito la loro cancellazione.
 
 I diritti di cui al comma 2 sono esercitati con le modalita' di cui agli articoli 8, commi 1 e 2, lettera h), e 145 del Codice.
 L'indicatore di validita' aggiunto puo' essere tolto a richiesta o con il consenso dell'interessato o su provvedimento del Garante per la protezione dei dati personali o dell'autorita' giudiziaria, adottato ai sensi degli articoli 150 e 152 del Codice.

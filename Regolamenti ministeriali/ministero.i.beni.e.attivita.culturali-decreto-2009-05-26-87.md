@@ -8,8 +8,8 @@ codice_redazionale: 009G0098
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:41Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -61,7 +61,92 @@ Per garantire uno standard di qualita' minimo dell'insegnamento, una percentuale
 
 ## Art. 3. — Caratteristiche del corpo docente
 
+1.
+                    
+                        
+                            I docenti delle discipline tecniche di restauro teorico e di laboratorio o di cantiere sono scelti tra i restauratori di beni culturali individuati ai sensi dell'articolo 182, commi 1, 1-bis, 1-ter, 1-quater ed 1-quinquies e 2 del Codice, i quali siano in possesso di uno dei seguenti requisiti:
+ 
+                        
+                        
+                            a)
+                            
+                                abbiano svolto attivita' di docenza per almeno un biennio continuativo presso le scuole di alta formazione e di studio istituite ai sensi dell'articolo 9 del decreto legislativo 20 ottobre 1998, n. 368, nonche' presso le universita', ed abbiano altresi' maturato un'esperienza professionale di restauro, connotata dalla responsabilita' diretta nella gestione tecnica degli interventi, di almeno quattro anni;
+
+                            
+                        
+                        
+                            b)
+                            
+                                abbiano svolto attivita' di docenza per almeno un triennio continuativo presso corsi di restauro attivati dalle scuole di restauro regionali ovvero presso corsi di restauro attivati dalle accademie di belle arti, della durata di almeno tre anni, ed abbiano altresi' maturato un'esperienza professionale di restauro, connotata dalla responsabilita' diretta nella gestione tecnica degli interventi, di almeno cinque anni;
+
+                            
+                        
+                        
+                            c)
+                            
+                                abbiano maturato un'esperienza professionale di restauro, connotata dalla responsabilita' diretta nella gestione tecnica degli interventi, di almeno dodici anni;
+
+                            
+                        
+                        
+                            d)
+                            
+                                siano docenti universitari;
+
+                            
+                        
+                        
+                            e)
+                            
+                                siano docenti delle accademie di belle arti afferenti ai settori scientifico disciplinari ABPR 24, 25, 26, 27, 28, di cui al decreto ministeriale 22 gennaio 2008, n. 482;
+
+                            
+                        
+                        
+                            f)
+                            
+                                si siano diplomati all'estero e si trovino in una delle situazioni sopra citate ed abbiano ottenuto il riconoscimento dell'equipollenza del titolo, dell'istituzione e dell'attivita' professionale.
+
 Le attivita' di esercitazioni presso i laboratori di restauro, per lavorazioni particolari che concorrono all'esecuzione dell'intervento conservativo, possono essere svolte anche da esperti riconducibili alle professionalita' indicate all'articolo 3 del decreto ministeriale attuativo dell'articolo 29, comma 7, del Codice.
+
+3.
+                    
+                        
+                            I docenti delle discipline storiche e scientifiche, con specifico riferimento agli insegnamenti da impartire, devono appartenere a una delle seguenti categorie:
+ 
+                        
+                        
+                            a)
+                            
+                                professori universitari o ricercatori universitari;
+
+                            
+                        
+                        
+                            b)
+                            
+                                docenti di ruolo delle accademie di belle arti inquadrati nelle discipline di cui al decreto ministeriale 22 gennaio 2008, n. 482;
+
+                            
+                        
+                        
+                            c)
+                            
+                                docenti che abbiano svolto, per almeno tre anni, attivita' di insegnamento presso le scuole di alta formazione e di studio istituite ai sensi dell'articolo 9 del decreto legislativo 20 ottobre 1998, n. 368, da valutare sulla base di idonea produzione scientifica;
+
+                            
+                        
+                        
+                            d)
+                            
+                                dirigenti o funzionari tecnico-scientifici, scientifici e amministrativi delle amministrazioni preposte alla tutela dei beni culturali, con esperienza lavorativa nel settore della tutela di almeno otto anni, da valutare sulla base di idonea produzione scientifica;
+
+                            
+                        
+                        
+                            e)
+                            
+                                studiosi o professionisti di chiara fama, evidenziata dal curriculum professionale, dalle pubblicazioni scientifiche e dai titoli.
 
 L'esperienza professionale richiesta al comma 1, e' valutata secondo i parametri indicati all'articolo 182, comma 1-ter, del Codice.
 
@@ -69,9 +154,133 @@ L'esperienza professionale richiesta al comma 1, e' valutata secondo i parametri
 
 Ai fini dell'accreditamento i soggetti interessati documentano il possesso di un'adeguata capacita' organizzativa, tecnica ed economico-finanziaria ed assicurano il rispetto dei criteri e livelli di qualita' del percorso formativo di cui all'articolo 2 e delle caratteristiche del corpo docente di cui all'articolo 3.
 
+2.
+                    
+                        
+                            L'istanza di accreditamento in particolare deve essere corredata dalla documentazione concernente:
+ 
+                        
+                        
+                            a)
+                            
+                                l'individuazione delle strutture e dotazioni tecniche disponibili;
+
+                            
+                        
+                        
+                            b)
+                            
+                                l'indicazione del personale docente, amministrativo e tecnico;
+
+                            
+                        
+                        
+                            c)
+                            
+                                i regolamenti del percorso formativo;
+
+                            
+                        
+                        
+                            d)
+                            
+                                il piano finanziario;
+
+                            
+                        
+                        
+                            e)
+                            
+                                la disponibilita' e le modalita' di reperimento dei manufatti per le attivita' tecnico-didattiche.
+
 ## Art. 5. — Attivita' di accreditamento e di vigilanza
 
 Con decreto del Ministro per i beni e le attivita' culturali, di concerto con il Ministro dell'istruzione, dell'universita' e della ricerca, da emanarsi entro trenta giorni dall'entrata in vigore del presente decreto, e' istituita, presso il Ministero per i beni e le attivita' culturali, una commissione tecnica per le attivita' istruttorie finalizzate all'accreditamento delle istituzioni formative e per la vigilanza sull'insegnamento del restauro.
+
+2.
+                    
+                        
+                            Della commissione fanno parte:
+ 
+                        
+                        
+                            a)
+                            
+                                il presidente, nominato d'intesa dai Ministri interessati;
+
+                            
+                        
+                        
+                            b)
+                            
+                                cinque componenti, in rappresentanza del Ministero per i beni e le attivita' culturali, tre dei quali designati dalle scuole di alta formazione e studio;
+
+                            
+                        
+                        
+                            c)
+                            
+                                due rappresentanti del Ministero dell'istruzione, del1'universita' e della ricerca;
+
+                            
+                        
+                        
+                            d)
+                            
+                                un componente, designato dal Consiglio universitario nazionale (CUN) tra i docenti delle discipline dell'area scientifica, umanistica e del restauro;
+
+                            
+                        
+                        
+                            e)
+                            
+                                un componente, designato dal Consiglio nazionale per la valutazione del sistema universitario nazionale (CNVSU);
+
+                            
+                        
+                        
+                            f)
+                            
+                                un componente, designato dal Consiglio nazionale per l'alta formazione artistica e musicale (CNAM).
+
+3.
+                    
+                        
+                            La commissione svolge le funzioni istruttorie ai fini dell'accreditamento dei corsi formativi, con riferimento ai seguenti aspetti:
+ 
+                        
+                        
+                            a)
+                            
+                                requisiti delle istituzioni formative;
+
+                            
+                        
+                        
+                            b)
+                            
+                                contenuti dei programmi dei corsi formativi, comprese le prove di accesso;
+
+                            
+                        
+                        
+                            c)
+                            
+                                caratteristiche del corpo docente;
+
+                            
+                        
+                        
+                            d)
+                            
+                                idoneita' dei laboratori e dei cantieri di restauro destinati allo svolgimento delle attivita' tecnico-didattiche;
+
+                            
+                        
+                        
+                            e)
+                            
+                                disponibilita' di manufatti per le attivita' tecnico-didattiche.
 
 La Commissione puo' chiedere ai soggetti interessati documentazione integrativa e chiarimenti. L'attivita' istruttoria si conclude con una proposta al Ministero per i beni e le attivita' culturali e al Ministero dell'istruzione, dell'universita' e della ricerca, ai fini dell'adozione del provvedimento di accreditamento o di diniego.
 

@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Regolamenti di delegificazione
 vigenza_date: 2024-07-05
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:40:24Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -40,13 +40,197 @@ Il presente regolamento determina i criteri generali per l'adozione degli statut
 
 Il presente regolamento non si applica alle accademie legalmente riconosciute.
 
+3.
+                        
+                            
+                                Ai fini del presente regolamento si intendono:
+ 
+                            
+                            
+                                a)
+                                
+                                    per "Ministro" e per "Ministero", rispettivamente, il Ministro dell'istruzione, dell'universita' e della ricerca e il Ministero dell'istruzione, dell'universita' e della ricerca;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    per "istituzioni", le Accademie di belle arti, l'Accademia nazionale di arte drammatica, gli Istituti superiori per le industrie artistiche, nonche' i conservatori di musica, l'Accademia nazionale di danza e gli Istituti musicali pareggiati;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    per "organi di gestione", i consigli di amministrazione delle Istituzioni;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    per "CNAM", il Consiglio nazionale per l'alta formazione artistica e musicale;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    per "legge", la legge 21 dicembre 1999, n. 508.
+
 ## Art. 2. — Autonomia statutaria
 
+1.
+                        
+                            
+                                Le istituzioni di cui all'articolo 1, attraverso i propri statuti di autonomia e nel rispetto delle disposizioni del presente regolamento, disciplinano:
+ 
+                            
+                            
+                                a)
+                                
+                                    l'istituzione, l'organizzazione, il funzionamento delle strutture amministrative, didattiche, di ricerca e di servizio e dei relativi organi, in correlazione alle specifiche attivita' formative e scientifiche, nonche' alla conservazione, all'incremento ed alla utilizzazione del proprio patrimonio artistico, librario, audiovisivo e musicale;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    lo svolgimento dell'attivita' didattica e di ricerca, nonche' della correlata attivita' di produzione;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    modalita' e criteri di valutazione dei risultati didattici e scientifici, nonche' dell'attivita' complessiva dell'istituzione;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    la realizzazione degli interventi di propria competenza per il diritto allo studio, in conformita' all'articolo 6 della legge;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    modalita' e procedure per le intese programmatiche, e le convenzioni finalizzate ad incentivare sinergie con altri enti ed organismi pubblici e privati, anche stranieri;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    la rappresentanza degli studenti negli organi di governo;
+
+                                
+                            
+                            
+                                g)
+                                
+                                    l'organo competente per i procedimenti disciplinari in conformita' alla normativa vigente;
+
+                                
+                            
+                            
+                                h)
+                                
+                                    per l'Accademia nazionale di arte drammatica, la possibilita' di una sua articolazione sul territorio, in conformita' al regolamento di cui all'articolo 2, comma 7, lettera g), della legge, anche mediante la stipula di apposite convenzioni con enti pubblici e privati, nonche' di opportune intese con gli istituti di istruzione secondaria;
+
+                                
+                            
+                            
+                                i)
+                                
+                                    per l'Accademia nazionale di danza, la possibilita' di una sua articolazione sul territorio, in conformita' al regolamento di cui all'articolo 2, comma 7, lettera g), della legge, anche mediante la stipula di apposite convenzioni con enti pubblici e privati, nonche' le forme di intesa e di collegamento con gli istituti di istruzione primaria e secondaria, anche attraverso apposite convenzioni finalizzate a realizzare lo sviluppo integrato del processo formativo.
+
 ## Art. 3. — Autonomia regolamentare
+
+1.
+                        
+                            
+                                Le istituzioni dettano, con propri regolamenti, in conformita' alla vigente normativa e allo statuto, disposizioni di carattere organizzativo e funzionale, ed in particolare:
+ 
+                            
+                            
+                                a)
+                                
+                                    il regolamento didattico disciplina l'ordinamento dei corsi di formazione, i relativi obiettivi e l'articolazione di tutte le attivita' formative, in conformita' ai criteri generali fissati dal regolamento di cui all'articolo 2, comma 7, lettera h), della legge;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    i regolamenti di amministrazione, finanza e contabilita' disciplinano le modalita' di esercizio dell'autonomia amministrativa, finanziaria e contabile, in conformita' all'articolo 2, comma 4, della legge.
 
 ## - Capo II Organizzazione
 
 ## Art. 4. — O r g a n i
+
+1.
+                        
+                            
+                                Sono organi necessari delle istituzioni:
+ 
+                            
+                            
+                                a)
+                                
+                                    il presidente;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il direttore;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il consiglio di amministrazione;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    il consiglio accademico;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    il collegio del revisori;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    il nucleo di valutazione;
+
+                                
+                            
+                            
+                                g)
+                                
+                                    il collegio dei professori;
+
+                                
+                            
+                            
+                                h)
+                                
+                                    la consulta degli studenti.
 
 Gli organi di cui al comma 1, fatta eccezione per il collegio dei professori, durano in carica tre anni e possono essere confermati consecutivamente una sola volta.
 
@@ -84,11 +268,89 @@ Le disposizioni di cui al comma 2 si applicano anche agli attuali docenti incari
 
 Il consiglio di amministrazione e' composto da cinque componenti, fatto salvo quanto previsto al comma 3.
 
+2.
+                        
+                            
+                                Fanno parte del consiglio di amministrazione: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il presidente; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il direttore; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    un docente dell'istituzione, oltre al direttore, designato dal consiglio accademico; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    uno studente designato dalla consulta degli studenti; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    un esperto di amministrazione, nominato dal Ministro, scelto fra personalita' del mondo dell'arte e della cultura, del sistema produttivo e sociale, delle professioni e degli enti pubblici e privati.
+
 Il consiglio di amministrazione e' integrato di ulteriori componenti, fino ad in massimo di due, nominati dal Ministro su designazione di enti, anche territoriali, fondazioni o organizzazioni culturali, artistiche o scientifiche pubbliche o private, qualora i predetti soggetti contribuiscano al finanziamento o al funzionamento dell'istituzione, per una quota non inferiore a quella stabilita con decreto del Ministro.
 
 I consiglieri di cui al comma 2, lettera e), e al comma 3, nominati successivamente alla costituzione del consiglio, rimangono in carica fino alla scadenza dell'intero organo.
 
 Al consiglio di amministrazione partecipa il direttore amministrativo con voto consultivo.
+
+6.
+                        
+                            
+                                Il consiglio di amministrazione, in attuazione delle linee di intervento e sviluppo della didattica, della ricerca e della produzione definite dal consiglio accademico, stabilisce gli obiettivi ed i programmi della gestione amministrativa e promuove le iniziative volte a potenziare le dotazioni finanziarie dell'istituzione. In particolare: 
+ 
+                            
+                            
+                                a)
+                                
+                                    delibera, sentito il consiglio accademico, lo statuto ed i regolamenti di gestione ed organizzazione; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    definisce, in attuazione del piano di indirizzo di cui all'articolo 8, comma 3, lettera a), la programmazione della gestione economica dell'istituzione; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    approva il bilancio di previsione, le relative variazioni, e il rendiconto consuntivo; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    definisce, nei limiti della disponibilita' di bilancio, e su proposta del consiglio accademico, l'organico del personale docente per le attivita' didattiche e di ricerca, nonche' del personale non docente; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    vigila sulla conservazione e valorizzazione del patrimonio immobiliare e mobiliare dell'istituzione, tenuto conto delle esigenze didattiche, scientifiche e di ricerca derivanti dal piano di indirizzo determinato dal consiglio accademico.
 
 ((7. La definizione dell'organico del personale di cui al comma 6, lettera d), e' approvata con decreto del Ministero dell'universita' e della ricerca, previo concerto con il Ministero dell'economia e delle finanze e con la Presidenza del Consiglio dei ministri - Dipartimento della funzione pubblica.))
 
@@ -109,6 +371,70 @@ Nelle deliberazioni del consiglio di amministrazione, in caso di parita' di voti
 
 Il consiglio accademico e' composto da un numero dispari di componenti, fino ad un massimo di tredici, in rapporto alle dimensioni organizzative e finanziarie dell'ente.
 
+2.
+                        
+                            
+                                Fanno parte del consiglio accademico, oltre al direttore che lo presiede:
+ 
+                            
+                            
+                                a)
+                                
+                                    docenti dell'istituzione, in possesso di requisiti di comprovata professionalita' stabiliti dallo statuto, eletti dal corpo docente;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    due studenti designati dalla consulta degli studenti.
+
+3.
+                        
+                            
+                                Il consiglio accademico:
+ 
+                            
+                            
+                                a)
+                                
+                                    determina il piano di indirizzo e la programmazione delle attivita' didattiche, scientifiche, artistiche e di ricerca, tenuto conto delle disponibilita' di bilancio relative all'esercizio finanziario di riferimento;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    assicura il monitoraggio ed il controllo delle attivita' di cui alla lettera a);
+
+                                
+                            
+                            
+                                c)
+                                
+                                    definisce le linee di intervento e di sviluppo della didattica, della ricerca e della produzione;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    delibera, in conformita' ai criteri generali fissati dal regolamento di cui all'articolo 2, comma 7, lettera h) della legge, il regolamento didattico ed il regolamento degli studenti, sentito la consulta degli studenti;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    esercita le competenze relative al reclutamento dei docenti previste dal regolamento di cui all'articolo 2, comma 7, lettera e), della legge;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    esercita ogni altra funzione non espressamente demandata dal presente regolamento al consiglio di amministrazione.
+
 ## Art. 9. — Collegio dei revisori
 
 Il collegio dei revisori, costituito con provvedimento del presidente, e' composto da tre membri, di cui uno designato dal Ministro dell'economia e delle finanze, che lo presiede, e due designati dal Ministro dell'istruzione, dell'universita' e della ricerca; i componenti devono essere in possesso dei requisiti di cui al decreto legislativo 27 gennaio 1992, n. 88; il collegio dei revisori vigila sulla legittimita', regolarita' e correttezza dell'azione amministrativa; espleta i controlli di regolarita' amministrativa e contabile di cui all'articolo 2 del decreto legislativo 30 luglio 1999, n. 286; ad esso si applicano le disposizioni del codice civile in quanto compatibili.
@@ -116,6 +442,31 @@ Il collegio dei revisori, costituito con provvedimento del presidente, e' compos
 ## Art. 10. — Nucleo di valutazione
 
 
+
+2.
+                        
+                            
+                                Il nucleo di valutazione verifica la rispondenza dei risultati agli obiettivi. In particolare: 
+ 
+                            
+                            
+                                a)
+                                
+                                    ha compiti di valutazione dei risultati dell'attivita' didattica e scientifica e del funzionamento complessivo dell'istituzione, verificando, anche mediante analisi comparative dei costi e dei rendimenti, l'utilizzo ottimale delle risorse; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    redige una relazione annuale sulle attivita' e sul funzionamento dell'istituzione sulla base di criteri generali determinati dal Comitato per la valutazione del sistema universitario, sentito il CNAM; la relazione e' trasmessa al Ministero entro il 31 marzo di ogni anno e costituisce il quadro di riferimento per l'assegnazione da parte del Ministero di contributi finanziari; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    acquisisce periodicamente, mantenendone l'anonimato, le opinioni degli studenti sulle attivita' didattiche, dandone conto nella relazione annuale di cui alla lettera b).
 
 Le istituzioni assicurano ai nuclei di valutazione l'autonomia operativa, il diritto di accesso ai dati ed alle informazioni necessarie, nonche' la pubblicita' e la diffusione degli atti nel rispetto della normativa a tutela della riservatezza.
 
@@ -146,6 +497,31 @@ L'incarico di cui al comma 3 puo' essere altresi' attribuito, avuto riguardo all
 ## Art. 14. — Statuto e regolamenti
 
 Per l'elaborazione dello statuto, del regolamento didattico e del regolamento di amministrazione, finanza e contabilita', le istituzioni possono costituire, con deliberazione degli attuali organi di gestione, sentito il collegio dei professori e la rappresentanza degli studenti appositi organismi composti da membri appartenenti alla stessa istituzione e da esperti esterni.
+
+2.
+                        
+                            
+                                In sede di prima applicazione:
+ 
+                            
+                            
+                                a)
+                                
+                                    lo statuto e' deliberato dagli attuali organi di gestione, integrati con due rappresentanti degli studenti, sentito il collegio dei professori;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il regolamento didattico e' deliberato dal collegio dei professori, integrato con due rappresentanti degli studenti, sentito l'organo di gestione;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il regolamento di amministrazione, finanza e contabilita' e' deliberato dall'organo di gestione, integrato con due rappresentanti degli studenti, secondo uno schema tipo elaborato dal Ministero dell'istruzione, dell'universita' e della ricerca d'intesa con il Ministero dell'economia e delle finanze.
 
 Lo statuto ed il regolamento di amministrazione, finanza e contabilita', nonche' il regolamento di cui all'articolo 13, comma 1, sono deliberati e trasmessi, entro novanta giorni dalla data di pubblicazione del presente regolamento, al Ministero per l'approvazione nei successivi sessanta giorni, di concerto con il Ministero dell'economia e delle finanze e con la Presidenza del Consiglio dei Ministri - Dipartimento della funzione pubblica. Il regolamento didattico e' trasmesso, entro novanta giorni dalla data di pubblicazione del regolamento di cui all'articolo 2, comma 7, lettera h), della legge, al Ministero che, acquisito il parere del CNAM, esercita il controllo.
 

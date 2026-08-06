@@ -8,8 +8,8 @@ codice_redazionale: 001G0175
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:42Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -49,6 +49,38 @@ L'efficacia della garanzia statale decorre, in via automatica e senza ulteriori 
 ## Art. 4. — Richiesta di operativita' della garanzia statale
 
 In caso di mancato pagamento di quattro rate del finanziamento ovvero nel caso in cui alla scadenza del piano di ammortamento del finanziamento risulti un numero di rate non pagate anche inferiori a quattro la banca o l'intermediario ha facolta' di risolvere il contratto ai sensi dell'articolo 1456 del codice civile, inviando al debitore l'intimazione di pagamento delle rate insolute e del capitale residuo tramite raccomandata con avviso di ricevimento.
+
+2.
+                    
+                        
+                            Trascorsi sessanta giorni dalla data di ricevimento dell'intimazione di cui al comma 1, senza che sia intervenuto l'adempimento di ogni ragione di credito, la banca o l'intermediario chiede al Ministero l'operativita' della garanzia statale, indicando gli estremi del contratto di finanziamento, l'ammontare del credito vantato, la ragione sociale, il proprio indirizzo, le modalita' di accreditamento della somma, il numero del codice fiscale o della partita I.V.A. ed allegando la seguente documentazione:
+ 
+                        
+                        
+                            a)
+                            
+                                la dichiarazione sostitutiva di atto di notorieta', resa ai sensi dell'articolo 4 della legge 4 gennaio 1968, n. 15, con la quale il genitore o il legale rappresentante dello studente, in tale qualita', ha dichiarato, all'atto della richiesta del finanziamento, l'inesistenza nei suoi confronti di procedure esecutive o concorsuali o comunque di atti formali di messa in mora;
+
+                            
+                        
+                        
+                            b)
+                            
+                                l'attestato di iscrizione dello studente al primo anno di una scuola media superiore, statale o parificata, per l'anno scolastico 2000-2001;
+
+                            
+                        
+                        
+                            c)
+                            
+                                la copia del buono d'ordine o di altra documentazione equivalente sottoscritta dal rivenditore e dal genitore o dal legale rappresentate dello studente;
+
+                            
+                        
+                        
+                            d)
+                            
+                                la copia dell'intimazione di pagamento del debito e dell'avviso di ricevimento della medesima da parte del debitore o in mancanza, copia della lettera raccomandata restituita dagli uffici postali per compiuta giacenza.
 
 Entro trenta giorni dalla data di ricevimento della richiesta, completa della documentazione di cui al comma 2, il Ministero, accertata la regolarita' formale dell'operazione, provvede alla liquidazione in un'unica soluzione di quanto dovuto alla banca o all'intermediario.
 

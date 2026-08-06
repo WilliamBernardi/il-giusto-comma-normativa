@@ -8,8 +8,8 @@ codice_redazionale: 007G0007
 vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:29Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -26,6 +26,58 @@ Acquisiti i pareri delle competenti Commissioni della Camera dei deputati e del 
 Sulla proposta del Ministro per le politiche europee e del Ministro dello sviluppo economico, di concerto con i Ministri per gli affari regionali e le autonomie locali, degli affari esteri, della giustizia, dell'economia e delle finanze, dell'ambiente e della tutela del territorio e del mare e delle infrastrutture;
 
 ## Art. 1. — Modifiche all'articolo 3 del decreto legislativo 19 agosto 2005, n. 192
+
+1.
+                    
+                        
+                            All'articolo 3, del decreto legislativo 19 agosto 2005, n. 192, di seguito denominato: «decreto legislativo n. 192 del 2005», sono apportate le seguenti modificazioni:
+ 
+                        
+                        
+                            a)
+                            
+                                il comma 1 e' sostituito con il seguente:
+ «1. Salve le esclusioni di cui al comma 3, il presente decreto si applica, ai fini del contenimento dei consumi energetici:
+ a) alla progettazione e realizzazione di edifici di nuova costruzione e degli impianti in essi installati, di nuovi impianti installati in edifici esistenti, delle opere di ristrutturazione degli edifici e degli impianti esistenti con le modalita' e le eccezioni previste ai commi 2 e 3;
+ b) all'esercizio, controllo, manutenzione e ispezione degli impianti termici degli edifici, anche preesistenti, secondo quanto previsto agli articoli 7, 9 e 12;
+ c) alla certificazione energetica degli edifici, secondo quanto previsto all'articolo 6.»;
+
+                            
+                        
+                        
+                            b)
+                            
+                                alla lettera b) del comma 2, dopo la parola: «applicazione» sono inserite le seguenti: «integrale, ma»;
+
+                            
+                        
+                        
+                            c)
+                            
+                                il numero 1) della lettera c) del comma 2 e' sostituito con il seguente:
+ «1) ristrutturazioni totali o parziali, manutenzione straordinaria dell'involucro edilizio e ampliamenti volumetrici all'infuori di quanto gia' previsto alle lettere a) e b);»;
+
+                            
+                        
+                        
+                            d)
+                            
+                                al comma 3, dopo la parola: «edifici» sono inserite le seguenti: «e di impianti»;
+
+                            
+                        
+                        
+                            e)
+                            
+                                al comma 3), lettera a), dopo le parole: «recante il codice dei beni culturali e del paesaggio» sono aggiunte, in fine, le seguenti: «nei casi in cui il rispetto delle prescrizioni implicherebbe una alterazione inaccettabile del loro carattere o aspetto con particolare riferimento ai caratteri storici o artistici»;
+
+                            
+                        
+                        
+                            f)
+                            
+                                al comma 3, dopo la lettera c) e' aggiunta la seguente:
+ «c-bis) gli impianti installati ai fini del processo produttivo realizzato nell'edificio, anche se utilizzati, in parte non preponderante, per gli usi tipici del settore civile.».
 
 ## Art. 2. — Modifiche all'articolo 6 del decreto legislativo 19 agosto 2005, n. 192
 
@@ -76,6 +128,46 @@ All'articolo 11 del decreto legislativo n. 192 del 2005, dopo il comma 1 sono ag
  1-ter. Trascorsi dodici mesi dall'emanazione delle Linee guida nazionali di cui all'articolo 6, comma 9, l'attestato di qualificazione energetica e la equivalente procedura di certificazione energetica stabilita dal comune perdono la loro efficacia ai fini di cui al comma 1-bis.».
 
 ## Art. 6. — Modifiche all'articolo 15 del decreto legislativo 19 agosto 2005, n. 192
+
+1.
+                    
+                        
+                            All'articolo 15 del decreto legislativo n. 192 del 2005, sono apportate le seguenti modificazioni:
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 1 la parola: «progettista» e' sostituita dalle seguenti: «professionista qualificato» e dopo la parola: «certificazione» sono inserite le seguenti: «o qualificazione»;
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 2 la parola: «progettista» e' sostituita dalle seguenti: «professionista qualificato» e dopo la parola: «certificazione» sono inserite le seguenti: «o qualificazione»;
+
+                            
+                        
+                        
+                            c)
+                            
+                                al comma 3, dopo le parole: «conformita' delle opere» sono inserite le seguenti: «e dell'attestato di qualificazione energetica»;
+
+                            
+                        
+                        
+                            d)
+                            
+                                il comma 4 e' sostituito dal seguente:
+ «4. Salvo che il fatto costituisca reato, il direttore dei lavori che presenta al comune la asseverazione di cui all'articolo 8, comma 2, nella quale attesta falsamente la correttezza dell'attestato di qualificazione energetica o la conformita' delle opere realizzate rispetto al progetto o alla relazione tecnica di cui all'articolo 28, comma 1, della legge 9 gennaio 1991, n. 10, e' punito con la sanzione amministrativa di 5000 euro.»;
+
+                            
+                        
+                        
+                            e)
+                            
+                                al comma 8 la parola: «compratore» e' sostituita dalla seguente: «acquirente».
 
 ## Art. 7. — Modifiche all'articolo 16 del decreto legislativo 19 agosto 2005, n. 192
 

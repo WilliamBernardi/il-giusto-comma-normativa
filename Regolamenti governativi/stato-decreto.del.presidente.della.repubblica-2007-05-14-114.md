@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Regolamenti governativi
 vigenza_date: 2017-07-04
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:16Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -29,6 +29,59 @@ Sulla proposta del Ministro dell'economia e delle finanze, di concerto con il Mi
 ## - Capo I Riordino degli organismi operanti presso l'area Economia del Ministero dell'economia e delle finanze
 
 ## Art. 1. — Commissione consultiva per le infrazioni valutarie ed antiriciclaggio
+
+1.
+                        
+                            
+                                La Commissione consultiva per le infrazioni valutarie ed antiriciclaggio, istituita dall'articolo 32 del decreto del Presidente della Repubblica 31 marzo 1988, n. 148, svolge attivita' istruttoria e di consulenza obbligatoria per l'adozione dei decreti di determinazione ed irrogazione delle sanzioni per violazione delle norme: 
+ 
+                            
+                            
+                                a)
+                                
+                                    in materia valutaria di cui al citato decreto del Presidente della Repubblica n. 148 del 1988; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    in materia di prevenzione dell'utilizzazione del sistema finanziario a scopo di riciclaggio, di cui al decreto-legge 3 maggio 1991, n. 143, convertito, con modificazioni, dalla legge 5 luglio 1991, n. 197; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    in materia di misure restrittive per contrastare l'attivita' di Stati, individui o organizzazioni che minacciano la pace e la sicurezza internazionale di cui al decreto-legge 6 agosto 1990, n. 220, convertito, con modificazioni, dalla legge 5 ottobre 1990, n. 278, al decreto-legge 6 giugno 1992, n. 305, convertito, con modificazioni dalla legge 7 agosto 1992, n. 355, al decreto-legge 15 maggio 1993, n. 144, convertito, con modificazioni, dalla legge 16 luglio 1993, n. 230, e al decreto-legge 7 aprile 1995, n. 107, convertito, con modificazioni, dalla legge 7 luglio 1995, n. 222; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    in materia di rilevazione, a fini fiscali, di taluni trasferimenti da e per l'estero di denaro, titoli e valori di cui al decreto-legge 28 giugno 1990, n. 167, convertito, con modificazioni, dalla legge 4 agosto 1990, n. 227, ed al decreto legislativo 30 aprile 1997, n. 125; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    in materia di disciplina del mercato dell'oro, di cui alla legge 17 gennaio 2000, n. 7; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    in materia di sistema statistico nazionale, di cui al decreto legislativo 6 settembre 1989, n. 322; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    nelle altre materie previste da legge o da regolamento. ((1))
 
 La Commissione di cui al comma 1 e' composta da cinque membri, nominati dal Ministro dell'economia e delle finanze, di concerto con i Ministri del commercio internazionale e della giustizia, tra esperti dotati di una specifica e comprovata specializzazione professionale in materia di infrazioni valutarie ed antiriciclaggio.
 Il presidente fissa l'ordine del giorno dei lavori, il calendario delle sedute, nel numero massimo di ottanta l'anno, e designa i relatori per la trattazione dei singoli affari.
@@ -52,6 +105,93 @@ I commi 1 e 2 dell'articolo 32 del decreto del Presidente della Repubblica 31 ma
 Le Commissioni interministeriali di cui all'articolo 3, commi 2 e 3, della legge 29 gennaio 1994, n. 98, sono soppresse.
 
 Le competenze delle Commissioni soppresse ai sensi del comma 1 del presente articolo sono attribuite ad una Commissione interministeriale denominata «Commissione per l'esame delle istanze di indennizzi e contributi relative alle perdite subite dai cittadini italiani nei territori ceduti alla Jugoslavia, nella Zona B dell'ex territorio libero di Trieste, nelle ex Colonie ed in altri Paesi».
+
+3.
+                        
+                            
+                                La Commissione e' costituita da: 
+ 
+                            
+                            
+                                a)
+                                
+                                    un magistrato di Cassazione con funzioni di presidente di sezione di Cassazione o un magistrato di altre magistrature con qualifica e funzioni equiparate, in servizio o a riposo, che la presiede; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    un consigliere di Cassazione o del Consiglio di Stato, con funzione di vice presidente della Commissione; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    un magistrato della Corte dei conti; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    un rappresentante del Ministero degli affari esteri; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    un rappresentante del Ministero dell'economia e delle finanze - Dipartimento del tesoro; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    un rappresentante del Ministero dell'economia e delle finanze - Dipartimento della Ragioneria generale dello Stato; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    un rappresentante dell'Avvocatura generale dello Stato; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    un rappresentante dell'Agenzia del territorio; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    un rappresentante del Ministero dell'interno; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    un rappresentante per ciascuna delle seguenti categorie di danneggiati, nominati dalla Presidenza del Consiglio dei Ministri, su designazione delle associazioni piu' rappresentative: 
+ 1) nelle ex colonie; 
+ 2) in Albania; 
+ 3) in Tunisia; 
+ 4) in Libia; 
+ 5) in Etiopia; 
+ 6) in altri Paesi; 
+
+                                
+                            
+                            
+                                m)
+                                
+                                    due rappresentanti dei danneggiati nei territori ceduti all'ex Jugoslavia e nella Zona B dell'ex Territorio libero di Trieste, nominati dalla Presidenza del Consiglio dei Ministri, su designazione delle associazioni piu' rappresentative.
 
 Le funzioni di segreteria della Commissione sono svolte da due funzionari del Ministero dell'economia e delle finanze di qualifica non inferiore a C2, che non percepiscono alcun compenso per le attivita' relative alla Commissione.
 
@@ -86,9 +226,45 @@ Il Consiglio e' articolato in un collegio tecnico-scientifico ed un collegio deg
 
 Il collegio tecnico-scientifico e' composto di otto membri ed ha funzioni di consulenza nell'ambito delle attribuzioni del Dipartimento, con particolare riguardo alla trattazione di problemi a carattere tecnico-scientifico in materia di programmazione economica e finanziaria.
 
+7.
+                        
+                            
+                                Il collegio degli esperti e' composto di otto membri e svolge attivita' di analisi di problemi giuridici, economici e finanziari; in particolare, svolge le seguenti funzioni:
+ 
+                            
+                            
+                                a)
+                                
+                                    compiere studi e formulare proposte per la definizione degli indirizzi di politica finanziaria;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    analizzare i problemi connessi alla partecipazione del Dipartimento del tesoro nei vari organismi internazionali. A tal fine, su mandato del Capo del Dipartimento, i singoli esperti possono rappresentare l'Amministrazione in organismi nazionali ed internazionali e svolgere altri compiti specifici.
+
 Il Consiglio tecnico-scientifico degli esperti svolge, altresi', specifici compiti affidatigli dal Capo del Dipartimento, nell'ambito delle competenze istituzionali.
 
 ## Art. 4. — Altri organismi confermati
+
+1.
+                        
+                            
+                                Continuano ad operare, presso il Ministero dell'economia e delle finanze, con le rispettive funzioni, i seguenti organismi:
+ 
+                            
+                            
+                                a)
+                                
+                                    Commissione per la convalidazione dei titoli del debito pubblico deteriorati, di cui al decreto legislativo luogotenenziale 25 gennaio l945, n. 19;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    Commissione per lo scarto degli atti d'archivio, di cui al decreto del Presidente della Repubblica 30 dicembre 2003, n. 398.
 
 ## - Capo II Riordino degli organismi operanti presso l'area finanze del ministero dell'economia e delle finanze
 
@@ -96,13 +272,151 @@ Il Consiglio tecnico-scientifico degli esperti svolge, altresi', specifici compi
 
 Il Comitato generale per i giochi, previsto dall'articolo 2, comma 4, lettera a), del decreto del Presidente della Repubblica 15 dicembre 2003, n. 385, continua ad operare, presso il Ministero dell'economia e delle finanze - Amministrazione autonoma dei monopoli di Stato.
 
+2.
+                        
+                            
+                                Il Comitato e' costituito da:
+ 
+                            
+                            
+                                a)
+                                
+                                    il Ministro dell'economia e delle finanze o un Sottosegretario di Stato da questi delegato, con funzioni di Presidente;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il direttore generale dell'Amministrazione autonoma dei monopoli di Stato, con funzioni di Vice Presidente;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    un rappresentante del Dipartimento della Ragioneria generale dello Stato;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    un rappresentante dell'Avvocatura generale dello Stato;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    un rappresentante del Ministero per i beni e le attivita' culturali;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    un rappresentante del Ministero delle politiche agricole alimentari e forestali;
+
+                                
+                            
+                            
+                                g)
+                                
+                                    un rappresentante del Ministro per le politiche giovanili e le attivita' sportive;
+
+                                
+                            
+                            
+                                h)
+                                
+                                    il presidente del CONI o un suo delegato;
+
+                                
+                            
+                            
+                                i)
+                                
+                                    il presidente dell'UNIRE o un suo delegato;
+
+                                
+                            
+                            
+                                l)
+                                
+                                    esperti, di comprovata professionalita', in materia di giochi, tributaria o amministrativa, fino ad un massimo di cinque.
+
 I membri del Comitato sono nominati con decreto del Ministro dell'economia e delle finanze e le funzioni di segreteria sono svolte da tre appartenenti all'Amministrazione autonoma dei monopoli di Stato.
 
 Fermo restando quanto previsto dall'articolo 1, comma 58, della legge 23 dicembre 2005, n. 266, i compensi dei componenti del Comitato e della Segreteria sono determinati con decreto del direttore generale dell'Amministrazione autonoma dei monopoli di Stato, in misura tale da assicurare la riduzione di spesa del 30 per cento rispetto a quella sostenuta nell'anno 2005.
 
 Per la validita' delle sedute del Comitato e' necessaria la presenza di almeno cinque componenti. Ogni decisione del Comitato e' adottata a maggioranza dei presenti. In caso di parita' prevale il voto del Presidente.
 
+6.
+                        
+                            
+                                Sono abrogati:
+ 
+                            
+                            
+                                a)
+                                
+                                    l'articolo 21, comma 3, del decreto del Presidente della Repubblica 26 marzo 2001, n. 107;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    1'articolo 4, comma 1, quinto e settimo periodo, del decreto-legge 8 luglio 2002, n. 138, convertito, con modificazioni, dalla legge 8 agosto 2002, n. 178;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    l'articolo 8, comma 12, del decreto-legge 24 marzo 2003, n. 147, convertito, con modificazioni, nella legge 1° agosto 2003, n. 200;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    all'articolo 2, comma 4, lettera a), del decreto del Presidente della Repubblica 15 dicembre 2003, n. 385, le parole: «con il quale sono altresi' stabiliti i compensi per i membri del Comitato diversi da quelli che ne fanno parte in ragione del loro ufficio. Il Comitato e' presieduto dal Ministro ovvero da un suo delegato ed e' composto dai membri previsti dalle disposizioni vigenti, dal direttore generale dell'Amministrazione autonoma e da cinque persone di elevata esperienza professionale, anche in ragione del loro ufficio»;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    ogni altra norma incompatibile con il presente articolo.
+
 ## Art. 6. — Altri organismi confermati
+
+1.
+                        
+                            
+                                Continuano ad operare, presso il Ministero dell'economia e delle finanze - Amministrazione autonoma dei monopoli di Stato, con le rispettive funzioni, i seguenti organismi, previsti dalla legge o da regolamento:
+ 
+                            
+                            
+                                a)
+                                
+                                    Commissione per la trasparenza dei giochi prevista dall'articolo 2, comma 4, lettera b), del decreto del Presidente della Repubblica 15 dicembre 2003, n. 385;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    Consulta tecnica nazionale dei giochi prevista dall'articolo 2, comma 4, lettera c), del decreto del Presidente della Repubblica 15 dicembre 2003, n.385;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    Commissione per la fissazione del corrispettivo per l'assegnazione delle rivendite generi di monopolio prevista dall'articolo 1, lettera b), della legge 23 luglio 1980, n. 384.
 
 ## Art. 7. — Riduzione dei costi di funzionamento
 

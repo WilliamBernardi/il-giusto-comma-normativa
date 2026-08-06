@@ -8,8 +8,8 @@ codice_redazionale: 092G0267
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:41Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -37,7 +37,64 @@ Della riserva deve essere fatta espressa menzione nel bando di concorso.
 
 ## Art. 2. — Concorsi nei quali si applica la riserva
 
+1.
+                    
+                        
+                            La riserva di cui al comma uno dell'art. 1 si applica nei concorsi per la copertura dei seguenti posti di posizione funzionale, corrispondenti ai livelli retributivi VI, VII e VIII:
+ 
+                        
+                        
+                            a)
+                            
+                                Ruolo sanitario:
+ 1) operatore professionale dirigente;
+ 2) operatori professionali di I categoria, coordinatori e collaboratori, del personale infermieristico, tecnico-sanitario, di vigilanza e ispezione, con funzioni di riabilitazione.
+
+                            
+                        
+                        
+                            b)
+                            
+                                Ruolo tecnico:
+ 1) assistenti sociali coordinatori e collaboratori;
+ 2) assistenti tecnici.
+
+                            
+                        
+                        
+                            c)
+                            
+                                Ruolo amministrativo:
+ 1) collaboratori coordinatori;
+ 2) collaboratori amministrativi;
+ 3) assistenti amministrativi.
+
 ## Art. 3. — Requisiti di ammissione ai concorsi
+
+1.
+                    
+                        
+                            Nei concorsi di cui all'art. 2 fruiscono della riserva i candidati interni in possesso dei requisiti generali e specifici previsti dal decreto del Ministro della sanita' 30 gennaio 1982 e successive modificazioni ed integrazioni o, fermi restando i requisiti generali, in possesso dei seguenti requisiti specifici alternativi al titolo di studio previsto dalla normativa: 
+ 
+                        
+                        
+                            a)
+                            
+                                diploma di istruzione secondaria di secondo grado e anzianita' di servizio di anni cinque nella posizione funzionale di collaboratore amministrativo nel concorso, per titoli ed esami, per la posizione funzionale di collaboratore coordinatore di cui all'art. 138 del decreto del Ministro della sanita' 30 gennaio 1982; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                diploma di istruzione secondaria di secondo grado e anzianita' di servizio di anni cinque nella posizione funzionale di assistente amministrativo nel concorso, per titoli ed esami, per la posizione funzionale di collaboratore amministrativo di cui all'art. 142 del decreto del Ministro della sanita' 30 gennaio 1982; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                diploma di istruzione secondaria di primo grado e anzianita' di servizio di anni cinque nella posizione funzionale di coadiutore amministrativo nel concorso, per titoli ed esami, per la posizione funzionale di assistente amministrativo di cui all' art. 146 del decreto del Ministro della sanita' 30 gennaio 1982.
 
 Le anzianita' di servizio richieste alle lettere a), b) e c) del comma uno devono essere maturate alle dipendenze delle unita' sanitarie locali o degli enti e amministrazioni di cui agli articoli 24, 25 e 26, comma 1, del decreto del Presidente della Repubblica 20 dicembre 1979, n. 761; l'anzianita' di cui alla lettera a) non sostituisce il requisito specifico dell'anzianita' di servizio richiesto per la ammissione al concorso di collaboratore coordinatore dall'art. 138 del decreto ministeriale 30 gennaio 1982.
 

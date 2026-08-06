@@ -8,8 +8,8 @@ codice_redazionale: 000G0425
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:42Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DEL CONSIGLIO DEI MINISTRI
@@ -34,6 +34,83 @@ Sono esclusi dal contributo i quotidiani e periodici che contengano inserzioni p
 ## Art. 3. — Modalita' per usufruire del contributo
 
 Gli adempimenti istruttori propedeutici alla concessione dei contributi, la gestione delle somme stanziate per l'erogazione dei contributi di cui alle lettere a), b) e c) del comma 1 dell'art. 41 della legge 23 dicembre 1998, n. 448, l'erogazione dei contributi stessi compresi gli anticipi a favore delle imprese il cui fatturato non superi i cinque miliardi di lire annui, possono essere affidati in concessione mediante procedura ad evidenza pubblica ad una struttura bancaria o finanziaria.
+
+2.
+                    
+                        
+                            Le imprese editrici che intendono usufruire del contributo previsto dal comma 1 dell'articolo 41 della legge 23 dicembre 1998, n. 448, devono presentare alla societa' titolare della concessione, che sara' resa nota mediante comunicato pubblicato nella Gazzetta Uffi-ciale, semestralmente, nel termine perentorio del 31 luglio per il primo semestre e del 31 gennaio dell'anno successivo per il secondo semestre di ciascun anno di riferimento del contributo, una domanda in regola con la normativa sul bollo spedita mediante raccomandata postale. Alla domanda deve essere allegata una dichiarazione sostitutiva dell'atto di notorieta', resa ai sensi dell'articolo 4 della legge 4 gennaio 1968, n. 15, e successive modificazioni attestante:
+ 
+                        
+                        
+                            a)
+                            
+                                la data dell'atto costitutivo dell'impresa o dell'associazione, nonche' la data di approvazione dello statuto vigente;
+
+                            
+                        
+                        
+                            b)
+                            
+                                l'elenco delle testate per le quali si richiede il contributo;
+
+                            
+                        
+                        
+                            c)
+                            
+                                il numero degli abbonamenti stipulati a titolo oneroso dai
+destinatari e il numero totale degli abbonamenti;
+
+                            
+                        
+                        
+                            d)
+                            
+                                la sussistenza della regolarita' contributiva dell'editrice
+ richiedente (solo per le imprese editrici di quotidiani e periodici);
+                            
+                        
+                        
+                            e)
+                            
+                                l'area occupata dalle inserzioni pubblicitarie, anche di tipo
+redazionale in relazione a quella dell'intero stampato per il complesso dei numeri pubblicati nel periodo di riferimento del contributo richiesto;
+
+                            
+                        
+                        
+                            f)
+                            
+                                gli estremi dell'iscrizione al registro previsto dall'articolo 1, comma 6, lettera a), n. 5) della legge 31 luglio 1997, n. 249, ovvero gli estremi di iscrizione nel registro nazionale della stampa tenuto dall'Autorita' per le garanzie nelle comunicazioni, nonche' la regolarita' di tutti gli adempimenti previsti dalla legge 5 agosto 1981, n. 416, e successive modifiche (per i quotidiani e periodici);
+
+                            
+                        
+                        
+                            g)
+                            
+                                gli estremi dell'iscrizione al registro della stampa presso il tribunale competente (per i quotidiani e periodici);
+
+                            
+                        
+                        
+                            h)
+                            
+                                il fatturato relativo all'anno precedente;
+
+                            
+                        
+                        
+                            i)
+                            
+                                i costi sostenuti per le spedizioni postali dei prodotti editoriali per il semestre di riferimento;
+
+                            
+                        
+                        
+                            l)
+                            
+                                l'indicazione del numero di codice fiscale o partita IVA nonche' delle modalita' di pagamento.
+ Alla domanda deve essere allegato un numero per ciascun prodotto editoriale per i quali si chiede il contributo per la spedizione postale.
 
 La struttura prescelta dovra' inviare alla Presidenza del Consiglio dei Ministri - Dipartimento per l'informazione e l'editoria - l'elenco completo dei rimborsi effettuati per i susseguenti accertamenti a campione. A tal fine le imprese beneficiarie dei rimborsi dovranno tenere a disposizione del predetto Dipartimento, fino al secondo anno successivo a quello in cui avviene la relativa liquidazione, la collezione completa delle testate per le quali sono stati ottenuti i contributi di cui al presente regolamento e tutta la documentazione comprovante le attestazioni contenute nella dichiarazione sostitutiva dell'atto di notorieta' di cui al precedente comma 2 del presente articolo e le societa' che hanno provveduto alla spedizione dovranno fornire, a richiesta, allo stesso Dipartimento tutte le informazioni e la documentazione relativa alla spedizione stessa.
 

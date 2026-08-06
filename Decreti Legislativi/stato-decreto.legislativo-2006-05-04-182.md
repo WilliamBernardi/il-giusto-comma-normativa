@@ -8,8 +8,8 @@ codice_redazionale: 006G0206
 vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:23Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -65,6 +65,25 @@ L'articolo 22 della legge 16 febbraio 1913, n. 89, e', sostituito dal seguente:
 La misura massima del contributo per le spese di funzionamento del consiglio nazionale del notariato, di cui all'articolo 20, comma 2, legge 27 giugno 1991, n. 220, e' elevata al 4 per cento degli onorari spettanti al notaio per gli atti soggetti ad annotamento sui repertori secondo quanto stabilito dalla tariffa notarile.
 
 ## Art. 6. — Abrogazioni
+
+1.
+                    
+                        
+                            Dalla data di entrata in vigore del presente decreto sono abrogate le seguenti norme:
+ 
+                        
+                        
+                            a)
+                            
+                                articoli 18, primo comma, numero 1°, 32, primo comma, numeri 2° e 4°, 36, 41 e 42 della legge 16 febbraio 1913, n. 89;
+
+                            
+                        
+                        
+                            b)
+                            
+                                articoli 32, 33, 34, 35, 36, 38, primo comma, limitatamente alle parole:
+ «e la cauzione prestata», secondo e terzo comma, e 39, primo comma, limitatamente alle parole: «dopo essersi assicurato dell'adempimento per parte del notaro di quanto e' prescritto dagli articoli 18 al 24 della legge stessa e degli articoli 32 e seguenti del presente regolamento», del regolamento di cui al regio decreto 10 settembre 1914, n. 1326.
 
 ## Art. 7. — Oneri finanziari
 

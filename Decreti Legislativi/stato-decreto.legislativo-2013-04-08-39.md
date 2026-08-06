@@ -8,8 +8,8 @@ vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
 vigenza_date: 2025-08-24
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:31Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -26,6 +26,97 @@ Sulla proposta del Presidente del Consiglio dei ministri e del Ministro per la p
 ## Art. 1. — Definizioni
 
 Ai fini del conferimento di incarichi dirigenziali e di responsabilita' amministrativa di vertice nelle pubbliche amministrazioni, negli enti pubblici e negli enti di diritto privato in controllo pubblico si osservano le disposizioni contenute nel presente decreto, fermo restando quanto previsto dagli articoli 19 e 23-bis del decreto legislativo 30 marzo 2001, n. 165, nonche' dalle altre disposizioni vigenti in materia di collocamento fuori ruolo o in aspettativa.
+
+2.
+                        
+                            
+                                Ai fini del presente decreto si intende: 
+ 
+                            
+                            
+                                a)
+                                
+                                    per «pubbliche amministrazioni», le pubbliche amministrazioni di cui all'articolo 1, comma 2, del decreto legislativo 30 marzo 2001, n. 165, ivi comprese le autorita' amministrative indipendenti; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    per «enti pubblici», gli enti di diritto pubblico non territoriali nazionali, regionali o locali, comunque denominati, istituiti, vigilati, finanziati dalla pubblica amministrazione che conferisce l'incarico, ovvero i cui amministratori siano da questa nominati; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    per «enti di diritto privato in controllo pubblico», le societa' e gli altri enti di diritto privato che esercitano funzioni amministrative, attivita' di produzione di beni e servizi a favore delle amministrazioni pubbliche o di gestione di servizi pubblici, sottoposti a controllo ai sensi dell'articolo 2359 c.c. da parte di amministrazioni pubbliche, oppure gli enti nei quali siano riconosciuti alle pubbliche amministrazioni, anche in assenza di una partecipazione azionaria, poteri di nomina dei vertici o dei componenti degli organi; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    per «enti di diritto privato regolati o finanziati», le societa' e gli altri enti di diritto privato, anche privi di personalita' giuridica, nei confronti dei quali l'amministrazione che conferisce l'incarico: 
+ 1) svolga funzioni di regolazione dell'attivita' principale che comportino, anche attraverso il rilascio di autorizzazioni o concessioni, l'esercizio continuativo di poteri di vigilanza, di controllo o di certificazione; 
+ 2) abbia una partecipazione minoritaria nel capitale; 
+ 3) finanzi le attivita' attraverso rapporti convenzionali, quali contratti pubblici, contratti di servizio pubblico e di concessione di beni pubblici; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    per «incarichi e cariche in enti di diritto privato regolati o finanziati», le cariche di presidente con deleghe gestionali dirette, amministratore delegato, le posizioni di dirigente, lo svolgimento stabile di attivita' di consulenza a favore dell'ente; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    per «componenti di organi di indirizzo politico», le persone che partecipano, in via elettiva o di nomina, a organi di indirizzo politico delle amministrazioni statali, regionali e locali, quali Presidente del Consiglio dei ministri, Ministro, Vice Ministro, sottosegretario di Stato e commissario straordinario del Governo di cui all'articolo 11 della legge 23 agosto 1988, n. 400, parlamentare, Presidente della giunta o Sindaco, assessore o consigliere nelle regioni, nelle province, nei comuni e nelle forme associative tra enti locali, oppure a organi di indirizzo di enti pubblici, o di enti di diritto privato in controllo pubblico, nazionali, regionali e locali; ((4))
+                                    
+                                
+                            
+                            
+                                g)
+                                
+                                    per «inconferibilita'», la preclusione, permanente o temporanea, a conferire gli incarichi previsti dal presente decreto a coloro che abbiano riportato condanne penali per i reati previsti dal capo I del titolo II del libro secondo del codice penale, a coloro che abbiano svolto incarichi o ricoperto cariche in enti di diritto privato regolati o finanziati da pubbliche amministrazioni o svolto attivita' professionali a favore di questi ultimi, a coloro che siano stati componenti di organi di indirizzo politico; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    per «incompatibilita'», l'obbligo per il soggetto cui viene conferito l'incarico di scegliere, a pena di decadenza, entro il termine perentorio di quindici giorni, tra la permanenza nell'incarico e l'assunzione e lo svolgimento di incarichi e cariche in enti di diritto privato regolati o finanziati dalla pubblica amministrazione che conferisce l'incarico, lo svolgimento di attivita' professionali ovvero l'assunzione della carica di componente di organi di indirizzo politico; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    per «incarichi amministrativi di vertice», gli incarichi di livello apicale, quali quelli di Segretario generale, capo Dipartimento, Direttore generale o posizioni assimilate nelle pubbliche amministrazioni e negli enti di diritto privato in controllo pubblico, conferiti a soggetti interni o esterni all'amministrazione o all'ente che conferisce l'incarico, che non comportano l'esercizio in via esclusiva delle competenze di amministrazione e gestione; 
+
+                                
+                            
+                            
+                                j)
+                                
+                                    per «incarichi dirigenziali interni», gli incarichi di funzione dirigenziale, comunque denominati, che comportano l'esercizio in via esclusiva delle competenze di amministrazione e gestione, nonche' gli incarichi di funzione dirigenziale nell'ambito degli uffici di diretta collaborazione, conferiti a dirigenti o ad altri dipendenti, ivi comprese le categorie di personale di cui all'articolo 3 del decreto legislativo 30 marzo 2001, n. 165, appartenenti ai ruoli dell' amministrazione che conferisce l'incarico ovvero al ruolo di altra pubblica amministrazione; 
+
+                                
+                            
+                            
+                                k)
+                                
+                                    per «incarichi dirigenziali esterni», gli incarichi di funzione dirigenziale, comunque denominati, che comportano l'esercizio in via esclusiva delle competenze di amministrazione e gestione, nonche' gli incarichi di funzione dirigenziale nell'ambito degli uffici di diretta collaborazione, conferiti a soggetti non muniti della qualifica di dirigente pubblico o comunque non dipendenti di pubbliche amministrazioni; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    per «incarichi di amministratore di enti pubblici e di enti privati in controllo pubblico», gli incarichi di Presidente con deleghe gestionali dirette, amministratore delegato e assimilabili, di altro organo di indirizzo delle attivita' dell'ente, comunque denominato, negli enti pubblici e negli enti di diritto privato in controllo pubblico.
 
 ---------------
                             AGGIORNAMENTO (4)
@@ -46,6 +137,45 @@ Ai fini del presente decreto al conferimento negli enti locali di incarichi diri
 
 Inconferibilita' di incarichi in caso di condanna per reati contro la pubblica amministrazione
 
+1.
+                        
+                            
+                                A coloro che siano stati condannati, anche con sentenza non passata in giudicato, per uno dei reati previsti dal capo I del titolo II del libro secondo del codice penale, non possono essere attribuiti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    gli incarichi amministrativi di vertice nelle amministrazioni statali, regionali e locali ((nonche' negli enti di diritto privato in controllo pubblico)); 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    gli incarichi di amministratore di ente pubblico, di livello nazionale, regionale e locale; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    gli incarichi dirigenziali, interni e esterni, comunque denominati, nelle pubbliche amministrazioni, negli enti pubblici e negli enti di diritto privato in controllo pubblico di livello nazionale, regionale e locale; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    gli incarichi di amministratore di ente di diritto privato in controllo pubblico, di livello nazionale, regionale e locale; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    gli incarichi di direttore generale, direttore sanitario e direttore amministrativo nelle aziende sanitarie locali del servizio sanitario nazionale.
+
 Ove la condanna riguardi uno dei reati di cui all'articolo 3, comma 1, della legge 27 marzo 2001, n. 97, l'inconferibilita' di cui al comma 1 ha carattere permanente nei casi in cui sia stata inflitta la pena accessoria dell'interdizione perpetua dai pubblici uffici ovvero sia intervenuta la cessazione del rapporto di lavoro a seguito di procedimento disciplinare o la cessazione del rapporto di lavoro autonomo. Ove sia stata inflitta una interdizione temporanea, l'inconferibilita' ha la stessa durata dell'interdizione. Negli altri casi l'inconferibilita' degli incarichi ha la durata di 5 anni.
 
 Ove la condanna riguardi uno degli altri reati previsti dal capo I del titolo II del libro II del codice penale, l'inconferibilita' ha carattere permanente nei casi in cui sia stata inflitta la pena accessoria dell'interdizione perpetua dai pubblici uffici ovvero sia intervenuta la cessazione del rapporto di lavoro a seguito di procedimento disciplinare o la cessazione del rapporto di lavoro autonomo. Ove sia stata inflitta una interdizione temporanea, l'inconferibilita' ha la stessa durata dell'interdizione. Negli altri casi l'inconferibilita' ha una durata pari al doppio della pena inflitta, per un periodo comunque non superiore a 5 anni.
@@ -63,6 +193,31 @@ Agli effetti della presente disposizione, la sentenza di applicazione della pena
 ## Art. 4.
 
 Inconferibilita' di incarichi nelle amministrazioni statali, regionali e locali a soggetti provenienti da enti di diritto privato regolati o finanziati
+
+1.
+                        
+                            
+                                A coloro che, ((nell'anno precedente)), abbiano svolto incarichi e ricoperto cariche in enti di diritto privato o finanziati dall'amministrazione o dall'ente pubblico che conferisce l'incarico ovvero abbiano svolto in proprio attivita' professionali, se queste sono regolate, finanziate o comunque retribuite dall'amministrazione o ente che conferisce l'incarico, non possono essere conferiti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    gli incarichi amministrativi di vertice nelle amministrazioni statali, regionali e locali; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    gli incarichi di amministratore di ente pubblico, di livello nazionale, regionale e locale; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    gli incarichi dirigenziali esterni, comunque denominati, nelle pubbliche amministrazioni, negli enti pubblici che siano relativi allo specifico settore o ufficio dell'amministrazione che esercita i poteri di regolazione e finanziamento.
 
 ((
 
@@ -118,6 +273,24 @@ Gli incarichi amministrativi di vertice e gli incarichi dirigenziali, comunque d
 
 Incompatibilita' tra le cariche direttive nelle aziende sanitarie locali, le cariche in enti di diritto privato regolati o finanziati e lo svolgimento di attivita' professionali
 
+1.
+                        
+                            
+                                Gli incarichi di direttore generale, direttore sanitario e direttore amministrativo nelle aziende sanitarie locali di una medesima regione sono incompatibili: 
+ 
+                            
+                            
+                                a)
+                                
+                                    con gli incarichi o le cariche in enti di diritto privato regolati o finanziati dal servizio sanitario regionale; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    con lo svolgimento in proprio, da parte del soggetto incaricato, di attivita' professionale, se questa e' regolata o finanziata dal servizio sanitario regionale.
+
 L'incompatibilita' sussiste altresi' allorche' gli incarichi, le cariche e le attivita' professionali indicate nel presente articolo siano assunte o mantenute dal coniuge e dal parente o affine entro il secondo grado.
 
 ## - Capo VI Incompatibilita' tra incarichi nelle pubbliche amministrazioni e negli enti privati in controllo pubblico e cariche di componenti di  organi di indirizzo politico
@@ -128,6 +301,56 @@ Incompatibilita' tra incarichi amministrativi di vertice e di amministratore di 
 
 Gli incarichi amministrativi di vertice nelle amministrazioni statali, regionali e locali e gli incarichi di amministratore di ente pubblico di livello nazionale, regionale e locale, sono incompatibili con la carica di Presidente del Consiglio dei ministri, Ministro, Vice Ministro, sottosegretario di Stato e commissario straordinario del Governo di cui all'articolo 11 della legge 23 agosto 1988, n. 400, o di parlamentare.
 
+2.
+                        
+                            
+                                Gli incarichi amministrativi di vertice nelle amministrazioni regionali e gli incarichi di amministratore di ente pubblico di livello regionale sono incompatibili: 
+ 
+                            
+                            
+                                a)
+                                
+                                    con la carica di componente della giunta o del consiglio della regione che ha conferito l'incarico; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    con la carica di componente della giunta o del consiglio di una provincia, di un comune con popolazione superiore ai 15.000 abitanti o di una forma associativa tra comuni avente la medesima popolazione della medesima regione; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    con la carica di presidente e amministratore delegato di un ente di diritto privato in controllo pubblico da parte della regione.
+
+3.
+                        
+                            
+                                Gli incarichi amministrativi di vertice nelle amministrazioni di una provincia, di un comune con popolazione superiore ai 15.000 abitanti o di una forma associativa tra comuni avente la medesima popolazione nonche' gli incarichi di amministratore di ente pubblico di livello provinciale o comunale sono incompatibili: 
+ 
+                            
+                            
+                                a)
+                                
+                                    con la carica di componente della giunta o del consiglio della provincia, del comune o della forma associativa tra comuni che ha conferito l'incarico; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    con la carica di componente della giunta o del consiglio della provincia, del comune con popolazione superiore ai 15.000 abitanti o di una forma associativa tra comuni avente la medesima popolazione, ricompresi nella stessa regione dell'amministrazione locale che ha conferito l'incarico; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    con la carica di componente di organi di indirizzo negli enti di diritto privato in controllo pubblico da parte della regione, nonche' di province, comuni con popolazione superiore ai 15.000 abitanti o di forme associative tra comuni aventi la medesima popolazione abitanti della stessa regione.
+
 ## Art. 12.
 
 Incompatibilita' tra incarichi dirigenziali interni e esterni e cariche di componenti degli organi di indirizzo nelle amministrazioni statali, regionali e locali
@@ -135,6 +358,56 @@ Incompatibilita' tra incarichi dirigenziali interni e esterni e cariche di compo
 Gli incarichi dirigenziali, interni e esterni, nelle pubbliche amministrazioni, negli enti pubblici e negli enti di diritto privato in controllo pubblico sono incompatibili con l'assunzione e il mantenimento, nel corso dell'incarico, della carica di componente dell'organo di indirizzo nella stessa amministrazione o nello stesso ente pubblico che ha conferito l'incarico, ovvero con l'assunzione e il mantenimento, nel corso dell'incarico, della carica di presidente e amministratore delegato nello stesso ente di diritto privato in controllo pubblico che ha conferito l'incarico.
 
 Gli incarichi dirigenziali, interni e esterni, nelle pubbliche amministrazioni, negli enti pubblici e negli enti di diritto privato in controllo pubblico di livello nazionale, regionale e locale sono incompatibili con l'assunzione, nel corso dell'incarico, della carica di Presidente del Consiglio dei ministri, Ministro, Vice Ministro, sottosegretario di Stato e commissario straordinario del Governo di cui all'articolo 11 della legge 23 agosto 1988, n. 400, o di parlamentare.
+
+3.
+                        
+                            
+                                Gli incarichi dirigenziali, interni e esterni, nelle pubbliche amministrazioni, negli enti pubblici e negli enti di diritto privato in controllo pubblico di livello regionale sono incompatibili: 
+ 
+                            
+                            
+                                a)
+                                
+                                    con la carica di componente della giunta o del consiglio della regione interessata; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    con la carica di componente della giunta o del consiglio di una provincia, di un comune con popolazione superiore ai 15.000 abitanti o di una forma associativa tra comuni avente la medesima popolazione della medesima regione; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    con la carica di presidente e amministratore delegato di enti di diritto privato in controllo pubblico da parte della regione.
+
+4.
+                        
+                            
+                                Gli incarichi dirigenziali, interni e esterni, nelle pubbliche amministrazioni, negli enti pubblici e negli enti di diritto privato in controllo pubblico di livello provinciale o comunale sono incompatibili: 
+ 
+                            
+                            
+                                a)
+                                
+                                    con la carica di componente della giunta o del consiglio della regione; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    con la carica di componente della giunta o del consiglio di una provincia, di un comune con popolazione superiore ai 15.000 abitanti o di una forma associativa tra comuni avente la medesima popolazione, ricompresi nella stessa regione dell'amministrazione locale che ha conferito l'incarico; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    con la carica di componente di organi di indirizzo negli enti di diritto privato in controllo pubblico da parte della regione, nonche' di province, comuni con popolazione superiore ai 15.000 abitanti o di forme associative tra comuni aventi la medesima popolazione della stessa regione.
 
 ((Le incompatibilita' di cui al presente articolo non si applicano ai dipendenti di ruolo di livello dirigenziale della stessa amministrazione o dello stesso ente pubblico o ente di diritto privato in controllo pubblico che conferisce l'incarico)).
 
@@ -154,6 +427,31 @@ Incompatibilita' tra incarichi di amministratore di ente di diritto privato in c
 Incompatibilita' tra incarichi di direzione nelle Aziende sanitarie locali e cariche di componenti degli organi di indirizzo politico nelle amministrazioni statali, regionali e locali
 
 Gli incarichi di direttore generale, direttore sanitario e direttore amministrativo nelle aziende sanitarie locali sono incompatibili con la carica di Presidente del Consiglio dei ministri, Ministro, Vice Ministro, sottosegretario di Stato e commissario straordinario del Governo di cui all'articolo 11 della legge 23 agosto 1988, n. 400, di amministratore di ente pubblico o ente di diritto privato in controllo pubblico nazionale che svolga funzioni di controllo, vigilanza o finanziamento del servizio sanitario nazionale o di parlamentare.
+
+2.
+                        
+                            
+                                Gli incarichi di direttore generale, direttore sanitario e direttore amministrativo nelle aziende sanitarie locali di una regione sono incompatibili: 
+ 
+                            
+                            
+                                a)
+                                
+                                    con la carica di componente della giunta o del consiglio della regione interessata ovvero con la carica di amministratore di ente pubblico o ente di diritto privato in controllo pubblico regionale che svolga funzioni di controllo, vigilanza o finanziamento del servizio sanitario regionale; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    con la carica di componente della giunta o del consiglio di una provincia, di un comune con popolazione superiore ai 15.000 abitanti o di una forma associativa tra comuni avente la medesima popolazione della medesima regione; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    con la carica di presidente e amministratore delegato di enti di diritto privato in controllo pubblico da parte della regione, nonche' di province, comuni con popolazione superiore ai 15.000 abitanti o di forme associative tra comuni aventi la medesima popolazione della stessa regione.
 
 ## - Capo VII Vigilanza e sanzioni
 

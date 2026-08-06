@@ -8,8 +8,8 @@ codice_redazionale: 011G0090
 vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:28Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -26,4 +26,24 @@ Sulla proposta del Presidente del Consiglio dei Ministri e del Ministro dell'eco
 ## Art. 1.
 
 Modifiche al decreto legislativo 1° settembre 1993, n. 385
+
+1.
+                    
+                        
+                            All'articolo 96-bis del decreto legislativo 1° settembre 1993, n. 385, sono apportate le seguenti modifiche: 
+ 
+                        
+                        
+                            a)
+                            
+                                il comma 5 e' sostituito dal seguente: 
+ «5. Il limite di rimborso per ciascun depositante e' pari a 100.000 euro. La Banca d'Italia aggiorna tale limite per adeguarlo alle eventuali variazioni apportate dalla Commissione europea in funzione del tasso di inflazione.»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                il comma 7 e' sostituito dal seguente: 
+ «7. Il rimborso e' effettuato entro venti giorni lavorativi dalla data in cui si producono gli effetti del provvedimento di liquidazione coatta ai sensi dell'articolo 83, comma 1. Il termine puo' essere prorogato dalla Banca d'Italia, in circostanze del tutto eccezionali per un periodo complessivo non superiore a 10 giorni lavorativi.».
 

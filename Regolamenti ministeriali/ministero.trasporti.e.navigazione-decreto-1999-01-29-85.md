@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
 vigenza_date: 2007-12-01
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:40Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -44,11 +44,138 @@ Restano ferme le attribuzioni e i compiti delle amministrazioni pubbliche. Resta
 
 ## Art. 2. — Servizi affidabili in concessione
 
+1.
+                    
+                        
+                            Sono affidabili in concessione i seguenti servizi di controllo di sicurezza in ambito aeroportuale:
+ 
+                        
+                        
+                            a)
+                            
+                                controllo dei passeggeri in partenza ed in transito;
+
+                            
+                        
+                        
+                            b)
+                            
+                                controllo radioscopico o con altri tipi di apparecchiature del bagaglio al seguito dei passeggeri;
+
+                            
+                        
+                        
+                            c)
+                            
+                                controllo radioscopico o con altri tipi di apparecchiature dei bagagli da stiva, della merce e dei plichi dei corrieri espresso.
+
 I servizi i cui al comma 1, lettere a), b) e c), sono svolti sotto la vigilanza dell'ufficio della Polizia di Stato presso lo scalo aereo, il quale assicura gli interventi che richiedono l'esercizio di pubbliche potesta'.
 
 ## Art. 3. — Altri servizi di controllo effettuati da soggetti privati
 
 Il gestore aeroportuale svolge direttamente o tramite impresa di sicurezza in possesso dei requisiti previsti dal presente regolamento i servizi di vigilanza dei beni aeroportuali di proprieta' o in concessione.
+
+2.
+                    
+                        
+                            Sono svolti dai vettori o da altri operatori aeroportuali, direttamente ovvero tramite il gestore aeroportuale o imprese di sicurezza in possesso dei requisiti previsti dal presente regolamento, i seguenti servizi:
+ 
+                        
+                        
+                            a)
+                            
+                                controllo radioscopico o con altri tipi di apparecchiature di merci e plichi di corrieri espresso effettuati in aree in subconcessione;
+
+                            
+                        
+                        
+                            b)
+                            
+                                controllo del materiale catering e delle provviste di bordo nelle aree di produzione e/o allestimento;
+
+                            
+                        
+                        
+                            c)
+                            
+                                vigilanza e riconoscimento sottobordo di bagagli da parte del passeggero in partenza;
+
+                            
+                        
+                        
+                            d)
+                            
+                                procedure di intervista e controllo documentale al passeggero prima del checkin;
+
+                            
+                        
+                        
+                            e)
+                            
+                                vigilanza dell'aeromobile in sosta e controllo degli accessi a bordo;
+
+                            
+                        
+                        
+                            f)
+                            
+                                riscontro di identita' del passeggero e dei documenti d'imbarco alle porte di imbarco;
+
+                            
+                        
+                        
+                            g)
+                            
+                                controllo del passeggero e limitazione bagaglio a mano alle porte d'imbarco;
+
+                            
+                        
+                        
+                            h)
+                            
+                                scorta bagagli, merce, posta, catering e provviste di bordo da o per aeromobile;
+
+                            
+                        
+                        
+                            i)
+                            
+                                scorta da o per l'aeromobile delle armi a seguito dei passeggeri in arrivo e partenza;
+
+                            
+                        
+                        
+                            l)
+                            
+                                vigilanza e custodia di bagagli, merci e posta;
+
+                            
+                        
+                        
+                            m)
+                            
+                                ispezione preventiva della cabina dell'aeromobile;
+
+                            
+                        
+                        
+                            n)
+                            
+                                interventi ausiliari dell'attivita' di polizia, connessi a procedure di emergenza o di sicurezza;
+
+                            
+                        
+                        
+                            o)
+                            
+                                ogni altro controllo o attivita' disposti, previe dirette intese, dalle autorita' aeroportuali per il cui espletamento non e' richiesto l'esercizio di pubbliche potesta' o l'impiego operativo di appartenenti alle Forze di polizia;
+
+                            
+                        
+                        
+                            p)
+                            
+                                altri servizi previsti dal Programma nazionale di sicurezza o richiesti espressamente dai vettori e da altri operatori aeroportuali.
 
 ## Art. 4. — Ambiti funzionali
  e modalita' per l'affidamento in concessione
@@ -68,6 +195,52 @@ Nell'atto di concessione e di affidamento vengono imposte prescrizioni al fine d
 Fermo restando il disposto dell'articolo 5, comma 4, del decreto-legge 18 gennaio 1992, n. 9, convertito, con modificazioni, dalla legge 28 febbraio 1992, n. 217, sui poteri, in caso di necessita', dell'autorita' di pubblicasicurezza o del direttore dell'aeroporto, i servizi di controllo di sicurezza devono essere espletati secondo programmi preventivamente approvati dall'autorita' aeroportuale sentito l'ufficio della Polizia di Stato presso lo scalo aereo.
 
 E' comunicato per iscritto entro trenta giorni all'autorita' concedente, ogni trasferimento, a qualsiasi titolo, di azioni o quote della societa' concessionaria o affidataria del servizio che interessi piu' del dieci per cento del capitale sociale.
+
+9.
+                    
+                        
+                            Fermi restando gli effetti derivanti dall'applicazione delle disposizioni antimafia in vigore e il potere generale di revoca in capo all'amministrazione concedente per motivi di interesse pubblico, il concessionario, ovvero l'affidatario nei casi previsti dal comma 1, decade dalla concessione o dall'affidamento nei seguenti casi:
+ 
+                        
+                        
+                            a)
+                            
+                                perdita dei requisiti previsti per il rilascio della concessione;
+
+                            
+                        
+                        
+                            b)
+                            
+                                violazione degli obblighi imposti dal concedente ovvero delle prescrizioni imposte dall'autorita' di pubblica sicurezza o dall'autorita' aeroportuale;
+
+                            
+                        
+                        
+                            c)
+                            
+                                incapacita' del concessionario o dell'affidatario dei servizi di garantire lo svolgimento dei controlli secondo i parametri fissati, cosi' come accertato dall'autorita' competente;
+
+                            
+                        
+                        
+                            d)
+                            
+                                ogni altro abuso del titolo;
+
+                            
+                        
+                        
+                            e)
+                            
+                                dichiarazione di fallimento;
+
+                            
+                        
+                        
+                            f)
+                            
+                                perdita della capacita' legale.
 
 ## Art. 5. — Requisiti dei terzi affidatari e del personale
 

@@ -8,8 +8,8 @@ codice_redazionale: 091G0368
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:42Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -30,6 +30,52 @@ Udito il parere n. 306/90 espresso dal Consiglio di Stato nell'adunanza generale
 ## Art. 1. — Organizzazione e attivita' dell'Istituto
 
 L'Istituto superiore per la prevenzione e la sicurezza del lavoro si struttura in dipartimenti centrali, uffici amministrativi e tecnici e dipartimenti periferici.
+
+2.
+                    
+                        
+                            I dipartimenti centrali sono:
+ 
+                        
+                        
+                            a)
+                            
+                                igiene del lavoro;
+
+                            
+                        
+                        
+                            b)
+                            
+                                medicina del lavoro;
+
+                            
+                        
+                        
+                            c)
+                            
+                                tecnologie di sicurezza;
+
+                            
+                        
+                        
+                            d)
+                            
+                                insediamenti produttivi ed impatto ambientale;
+
+                            
+                        
+                        
+                            e)
+                            
+                                omologazione;
+
+                            
+                        
+                        
+                            f)
+                            
+                                documentazione e informazione.
 
 I direttori dei dipartimenti sono responsabili dell'attivita' svolta dal dipartimento di fronte al direttore dell'Istituto. I dipartimenti centrali sono articolati in unita' funzionali dirette da coordinatori che sono responsabili dell'attivita' svolta dalle unita' funzionali di fronte al direttore del dipartimento.
 
@@ -289,12 +335,86 @@ La nomina a componente la segreteria tecnico scientifica e' disposta dal comitat
 
 Il consiglio interdipartimentale e' composto dal direttore dell'Istituto, che lo presiede, e dai direttori dei dipartimenti centrali.
 
+2.
+                    
+                        
+                            Il consiglio interdipartimentale:
+ 
+                        
+                        
+                            a)
+                            
+                                designa i direttori di dipartimento nella giunta di coordinamento con l'Istituto superiore di sanita' di cui all'art. 22 del decreto del Presidente della Repubblica 31 luglio 1980, n. 619;
+
+                            
+                        
+                        
+                            b)
+                            
+                                formula proposte:
+ sul programma di attivita' dell'Istituto sulla base delle proposte dei consigli di dipartimento;
+ sul piano dell'utilizzazione dei fondi stanziati in bilancio per il funzionamento dell'Istituto e la ricerca scientifica;
+ sui corsi di formazione del personale e la loro programmazione;
+
+                            
+                        
+                        
+                            c)
+                            
+                                esprime parere sul coordinamento dell'attivita' dei dipartimenti;
+
+                            
+                        
+                        
+                            d)
+                            
+                                esprime parere e formula proposte sulle altre materie stabilite dalla legge e dai regolamenti ed in tutti quei casi in cui il presidente lo richieda;
+
+                            
+                        
+                        
+                            e)
+                            
+                                verifica: lo stato di avanzamento dei programmi di lavoro dell'Istituto;
+
+                            
+                        
+                        
+                            f)
+                            
+                                predispone per il direttore dell'Istituto: la proposta di consuntivo delle attivita' dell'Istituto sulla base delle relazioni presentate dai direttori di dipartimento.
+
 Il consiglio interdipartimentale si riunisce in via ordinaria una volta ogni quadrimestre su convocazione del proprio presidente o, in via straordinaria, su richiesta del direttore o di almeno la meta' dei componenti.
  L'ordine del giorno ed il verbale delle sedute del consiglio sono resi pubblici nell'ambito dell'Istituto.
 
 ## Art. 22. — Consiglio di dipartimento
 
 In ciascun dipartimento e' istituito un consiglio di dipartimento. Il consiglio e' composto dal direttore del dipartimento, che lo presiede, dai coordinatori delle unita' funzionali e da tre rappresentanti eletti dal personale del dipartimento. Il consiglio di dipartimento collabora con il direttore del dipartimento per il coordinamento dell'attivita' delle unita' funzionali.
+
+2.
+                    
+                        
+                            Il consiglio di dipartimento deve essere consultato dal direttore del dipartimento in merito:
+ 
+                        
+                        
+                            a)
+                            
+                                alla conduzione tecnica del dipartimento;
+
+                            
+                        
+                        
+                            b)
+                            
+                                all'utilizzazione dei fondi ad esso assegnati;
+
+                            
+                        
+                        
+                            c)
+                            
+                                alla programmazione dei corsi che rientrano nella specifica competenza del singolo dipartimento.
 
 Il consiglio di dipartimento si riunisce in via ordinaria, su convocazione del proprio presidente, almeno due volte all'anno ed, in via straordinaria, su richiesta di almeno un terzo dei coordinatori delle unita' funzionali.
 

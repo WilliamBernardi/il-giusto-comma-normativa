@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
 vigenza_date: 2013-08-15
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:39Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -39,6 +39,32 @@ condizionati in recipienti di volume nominale fino
 a 5 litri.
 
 La definizione di cui al precedente comma si applica anche per i depositi dei rivenditori al minuto.
+
+5.
+                    
+                        
+                            Ai fini del presente regolamento, si intendono: 
+ 
+                        
+                        
+                            a)
+                            
+                                per "prodotti" o "prodotti vinicoli": i prodotti ed i sottoprodotti di cui all'allegato 1 del regolamento CEE n. 822/87 ed i corrispondenti prodotti importati dall'estero; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                per "codice": il numero attribuito ad ogni persona fisica o giuridica soggetta alla tenuta dei registri di cui al presente regolamento dall'ufficio periferico dell'Ispettorato centrale repressione frodi competente per territorio; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                per "documento di accompagnamento" che scorta, ai sensi dell'art. 3, paragrafo 1, del regolamento CEE n. 2238/93, il trasporto di un prodotto di cui alla precedente lettera a), soggetto o non soggetto alle formalita' di circolazione contemplate dalle disposizioni della direttiva 92/12/CEE, i documenti rispettivamente previsti dall'art. 3, paragrafo 2, lettera a), del regolamento CEE n. 2238/93 oppure dal successivo art. 2 del presente regolamento. 
+ ((1))
 
 ---------------
                         AGGIORNAMENTO (1)
@@ -137,6 +163,25 @@ Il trasportatore, prima di iniziare il trasporto, deve accertare che il document
 
 Qualora tali indicazioni non siano esatte, il trasportatore iniziera' il trasporto solo dopo che sia stato redatto un nuovo documento d'accompagnamento regolare.
 
+3.
+                    
+                        
+                            Il responsabile della cantina destinataria del prodotto o un suo delegato, all'atto della ricezione del prodotto e prima di prenderlo in carico nei prescritti registri, deve: 
+ 
+                        
+                        
+                            a)
+                            
+                                accertare la regolarita' del trasporto e del documento d'accompagnamento, in particolare per quanto attiene la natura merceologica e la descrizione del prodotto; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                verificare che il documento medesimo sia compilato in tutte le sue parti. 
+ ((1))
+
 --------------
                         AGGIORNAMENTO (1)
                         
@@ -144,6 +189,24 @@ Qualora tali indicazioni non siano esatte, il trasportatore iniziera' il traspor
  Ha inoltre disposto (con l'art. 18, comma 7) che "Il presente decreto sara' pubblicato nella Gazzetta Ufficiale della Repubblica italiana e si applica dal 1° agosto 2013".
 
 ## Art. 8.
+
+1.
+                    
+                        
+                            I registri di cui al regolamento CEE n. 2238/93 sono costituiti:
+ 
+                        
+                        
+                            a)
+                            
+                                da non oltre 50 fogli fissi, da compilarsi a mano, ovvero da schede contabili mobili;
+
+                            
+                        
+                        
+                            b)
+                            
+                                da non oltre 200 fogli in modulo continuo, da compilarsi a mano o con attrezzatura adeguata ad una contabilita' moderna.
 
 In tutti i casi sopra previsti, i fogli devono essere preventivamente numerati e sono soggetti prima dell'uso alla vidimazione dell'ufficio periferico dell'Ispettorato centrale repressione frodi, competente per territorio.
 

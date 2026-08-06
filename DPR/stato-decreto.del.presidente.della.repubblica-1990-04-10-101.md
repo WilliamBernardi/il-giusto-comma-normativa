@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: DPR
 vigenza_date: 2003-07-22
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:47:44Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -77,6 +77,31 @@ Il periodo di pratica svolto presso lo studio di un professionista diverso da qu
 
 ## Art. 6. — Libretto della pratica
 
+1.
+                    
+                        
+                            I praticanti procuratori non abilitati al patrocinio davanti alle preture debbono tenere apposito libretto, rilasciato, numerato e precedentemente vistato dal presidente del consiglio dell'Ordine o da un suo delegato, nel quale debbono annotare:
+ 
+                        
+                        
+                            a)
+                            
+                                le udienze cui il praticante ha assisitito, con l'indicazione delle parti e del numero di ruolo dei processi; l'assistenza non puo' essere inferiore a venti udienze per ogni semestre, con esclusione di quelle oggetto di mero rinvio;
+
+                            
+                        
+                        
+                            b)
+                            
+                                gli atti processuali o relativi ad attivita' stragiudiziali piu' rilevanti, alla cui predisposizione e redazione abbiano partecipato, con l'indicazione del loro oggetto;
+
+                            
+                        
+                        
+                            c)
+                            
+                                le questioni giuridiche di maggior interesse alla cui trattazione abbiano assistito o collaborato.
+
 Il libretto della pratica deve essere esibito al consiglio dell'Ordine al termine di ogni semestre, con l'annotazione del professionista presso il cui studio la pratica e' stata effettuata attestante la veridicita' delle indicazioni ivi contenute.
 
 Il consiglio dell'Ordine ha facolta' di accertare la veridicita' delle annotazioni contenute nel libretto nei modi ritenuti piu' opportuni.
@@ -90,6 +115,38 @@ Al fine di cui al comma 1, i praticanti debbono depositare presso il consiglio d
 Il consiglio dell'Ordine espleta gli opportuni accertamenti sulle dichiarazioni del praticante ed ha facolta' di invitarlo ad un colloquio per eventuali ulteriori chiarimenti sul tirocinio espletato.
 
 ## Art. 8. — Praticanti abilitati al patrocinio
+
+1.
+                    
+                        
+                            I praticanti procuratori abilitati al patrocinio davanti alle preture a norma dell'art. 1 della legge 24 luglio 1985, n. 406, qualora, al termine del primo anno di tirocinio, intendano continuare la pratica al di fuori dello studio di un procuratore, debbono:
+ 
+                        
+                        
+                            a)
+                            
+                                comunicare il loro intendimento al consiglio dell'Ordine nel cui registro speciale sono iscritti;
+
+                            
+                        
+                        
+                            b)
+                            
+                                tenere e compilare il libretto della pratica, di cui all'art. 6 del presente regolamento, con le annotazioni relative all'attivita' svolta;
+
+                            
+                        
+                        
+                            c)
+                            
+                                trattare almeno venticinque nuovi procedimenti all'anno, di cui almeno cinque penali, quali difensori di fiducia, ovvero cinque cause civili di cognizione;
+
+                            
+                        
+                        
+                            d)
+                            
+                                esibire al termine di ogni semestre il libretto della pratica al consiglio dell'Ordine, il quale puo' accertare la veridicita' delle annotazioni nei modi ritenuti piu' opportuni.
 
 ## Art. 9. — (( (Certificato di compimento della pratica). ))
 

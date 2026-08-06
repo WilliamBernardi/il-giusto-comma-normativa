@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
 vigenza_date: 1996-01-16
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:40Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -74,6 +74,46 @@ Il periodo di tirocinio svolto presso lo studio di un professionista diverso da 
 
 ## Art. 5. — Iscrizione nel registro dei praticanti
 
+1.
+                    
+                        
+                            La domanda per l'iscrizione nel registro e' presentata al consiglio dell'ordine nella cui circoscrizione il richiedente ha la residenza e ad essa sono allegati:
+ 
+                        
+                        
+                            a)
+                            
+                                il certificato di nascita;
+
+                            
+                        
+                        
+                            b)
+                            
+                                certificato generale del casellario giudiziale, di data non anteriore di tre mesi alla presentazione;
+
+                            
+                        
+                        
+                            c)
+                            
+                                certificati dei carichi pendenti rilasciati dalle competenti procure della Repubblica presso il tribunale e presso la pretura;
+
+                            
+                        
+                        
+                            d)
+                            
+                                documenti comprovanti il possesso dei requisiti di cui ai numeri 2), 4) e 6) dell'art. 31 del decreto del Presidente della Repubblica 27 ottobre 1953, n. 1067;
+
+                            
+                        
+                        
+                            e)
+                            
+                                un certificato del professionista che, avendo ammesso il richiedente a frequentare il proprio studio per gli effetti del tirocinio, ne dia attestazione.
+ Il consiglio deve pronunciarsi sulle domande entro un mese dalla presentazione.
+
 La domanda deve essere sottoscritta dall'aspirante e contenere l'elenco dei documenti ad essa allegati.
 
 Si applicano per le deliberazioni sulle domande di iscrizione nel registro le norme dei commi primo, secondo, terzo, quarto, quinto e sesto dell'art. 32 del decreto del Presidente della Repubblica 27 ottobre 1953, n. 1067.
@@ -100,6 +140,24 @@ Nel caso di accoglimento della domanda, il praticante e' iscritto con l'anzianit
 Si applicano per le domande di trasferimento, le disposizioni dei commi 1, 2 e 3 dell'art. 5.
 
 ## Art. 8. — Libretto del tirocinio
+
+1.
+                    
+                        
+                            Gli iscritti nel registro debbono tenere apposito libretto rilasciato, numerato e precedentemente vistato dal presidente del consiglio dell'ordine, o da un suo delegato, nel quale debbono annotare:
+ 
+                        
+                        
+                            a)
+                            
+                                gli atti piu' rilevanti alla cui predisposizione e redazione abbiano partecipato, con l'indicazione del loro oggetto;
+
+                            
+                        
+                        
+                            b)
+                            
+                                le questioni professionali di maggiore interesse alla cui trattazione abbiano assistito e collaborato. Le annotazioni di cui sopra debbono essere eseguite senza indicazioni delle parti e comunque nel rispetto del principio di riservatezza.
 
 Il libretto del tirocinio deve essere esibito, a cura del praticante, alla segreteria del consiglio dell'ordine, entro il 31 gennaio e il 31 luglio di ciascun anno, con l'annotazione del professionista presso il cui studio il tirocinio e' stato effettuato attestante la veridicita' delle indicazioni ivi contenute.
 
@@ -128,6 +186,38 @@ L'ordine dovra' trasmettere il reclamo, con le proprie osservazioni, al Consigli
 Il Consiglio nazionale decide sul merito.
 
 ## Art. 10. — Cancellazione dal registro dei praticanti
+
+1.
+                    
+                        
+                            La cancellazione dal registro dei praticanti e' pronunciata dal consiglio dell'ordine, d'ufficio o su richiesta del pubblico ministero:
+ 
+                        
+                        
+                            a)
+                            
+                                nel caso di rinunzia dell'iscritto;
+
+                            
+                        
+                        
+                            b)
+                            
+                                nel caso previsto dal secondo comma dell'art. 6;
+
+                            
+                        
+                        
+                            c)
+                            
+                                quando e' venuto a mancare uno dei requisiti di cui al n. 2) dell'art. 31 del decreto del Presidente della Repubblica 27 ottobre 1953, n. 1067, salvi i casi di radiazione;
+
+                            
+                        
+                        
+                            d)
+                            
+                                quando l'iscritto trasferisce la sua residenza in localita' posta fuori dalla circoscrizione del consiglio dell'ordine presso cui e' iscritto o comunque si rende irreperibile.
 
 Si applicano, per le cancellazioni dal registro speciale, le disposizioni di cui ai commi terzo, quarto, quinto, sesto, settimo ed ottavo dell'art. 34 del decreto del Presidente della Repubblica 27 ottobre 1953, n. 1067.
 

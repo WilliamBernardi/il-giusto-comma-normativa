@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
 vigenza_date: 2024-08-01
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:27Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -26,6 +26,45 @@ Sulla proposta del Ministro della sanita' e del Ministro dell'universita' e dell
 
 L'attivita' assistenziale necessaria per lo svolgimento dei compiti istituzionali delle universita' e' determinata nel quadro della programmazione nazionale e regionale in modo da assicurarne la funzionalita' e la coerenza con le esigenze della didattica e della ricerca, secondo specifici protocolli d'intesa stipulati dalla Regione con le universita' ubicate nel proprio territorio.
 
+2.
+                    
+                        
+                            I protocolli d'intesa di cui al comma 1 sono stipulati in conformita' ad apposite linee guida contenute in atti di indirizzo e coordinamento emanati, su proposta dei Ministri della sanita', dell'universita' e della ricerca scientifica e tecnologica, ai sensi dell'articolo 8 della legge 15 marzo 1997, n. 59, sulla base dei seguenti criteri e principi direttivi: 
+ 
+                        
+                        
+                            a)
+                            
+                                promuovere e disciplinare l'integrazione dell'attivita' assistenziale, formativa e di ricerca tra Servizio sanitario nazionale e universita'; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                informare i rapporti tra Servizio sanitario nazionale e universita' al principio della leale cooperazione; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                definire le linee generali della partecipazione delle universita' alla programmazione sanitaria regionale; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                indicare i parametri per l'individuazione delle attivita' e delle strutture assistenziali complesse, funzionali alle esigenze di didattica e di ricerca dei corsi di laurea della facolta' di medicina e chirurgia, delle aziende di cui all'articolo 2, nonche' delle Aziende USL per quanto concerne le attivita' di prevenzione, secondo criteri di essenzialita' ed efficacia assistenziale, di economicita' nell'impiego delle risorse professionali e di funzionalita' e coerenza con le esigenze di ricerca e di didattica dei predetti corsi. Le medesime attivita' e strutture tengono anche conto delle funzioni di supporto allo svolgimento dei corsi di diploma universitario e di specializzazione, nel rispetto delle attribuzioni del Servizio sanitario e delle universita' di cui agli articoli 6, commi 2 e 3, e 16-sexies del decreto legislativo 30 dicembre 1992, n. 502, e successive modificazioni, nonche' di cui al Titolo VI del decreto legislativo 17 agosto 1999, n. 368, per quanto concerne la formazione dei medici specialisti e del personale infermieristico, tecnico e della riabilitazione. 
+
+                            
+                        
+                        
+                            e)
+                            
+                                definire, con riferimento ai parametri di cui al primo ed al secondo periodo della lettera d), il volume ottimale di attivita' ed il numero massimo di posti letto e di strutture assistenziali anche in rapporto al numero degli studenti iscritti ai corsi di laurea della facolta' di medicina e chirurgia ed alle esigenze della ricerca, prevedendo inoltre i criteri e le modalita' per il progressivo adeguamento agli standard fissati e la contestuale riduzione dei posti letto, anche in attuazione del Piano sanitario regionale
+
 I protocolli d'intesa di cui al comma 1 stabiliscono altresi', anche sulla base della disciplina regionale di cui all'articolo 2, comma 2-sexies, lettera b), del decreto legislativo 30 dicembre 1992, n. 502, e successive modificazioni, criteri generali per l'adozione, da parte del direttore generale delle aziende di cui all'articolo 2, degli atti normativi interni, ivi compreso l'atto aziendale previsto dall'articolo 3.
 
 In caso di mancato raggiungimento dell'intesa entro novanta giorni dalla trasmissione della proposta regionale del protocollo d'intesa di cui al comma 1, si applica la procedura sostitutiva prevista dal comma 4 dell'articolo 6 del decreto legislativo 30 dicembre 1992, n. 502, e successive modificazioni. La medesima procedura si applica altresi' ove la proposta regionale non sia trasmessa entro novanta giorni dall'entrata in vigore del Piano sanitario regionale.
@@ -35,6 +74,25 @@ I commi 1 degli articoli 6 e 6-bis del decreto legislativo 30 dicembre 1992, n. 
 ## Art. 2. — Aziende ospedaliero-universitarie
 
 La collaborazione fra Servizio sanitario nazionale e universita', si realizza, salvo quanto previsto ai commi 4, ultimo periodo, e 5, attraverso aziende ospedaliero-universitarie, aventi autonoma personalita' giuridica, le quali perseguono le finalita' di cui al presente articolo.
+
+2.
+                    
+                        
+                            Per un periodo transitorio di quattro anni dall'entrata in vigore del presente decreto, le aziende ospedaliero-universitarie si articolano, in via sperimentale, in due tipologie organizzative: 
+ 
+
+                        
+                        
+                            a)
+                            
+                                aziende ospedaliere costituite in seguito alla trasformazione dei policlinici universitari a gestione diretta, denominate aziende ospedaliere universitarie integrate con il Servizio sanitario nazionale; 
+ 
+                            
+                        
+                        
+                            b)
+                            
+                                aziende ospedaliere costituite mediante trasformazione dei presidi ospedalieri nei quali insiste la prevalenza del corso di laurea in medicina e chirurgia, anche operanti in strutture di pertinenza dell'universita', denominate aziende ospedaliere integrate con l'universita'.
 
 Al termine del quadriennio di sperimentazione, alle aziende di cui al comma 1 si applica la disciplina prevista dal presente decreto, salvo gli adattamenti necessari, in base anche ai risultati della sperimentazione, per pervenire al modello aziendale unico di azienda ospedaliero - universitaria. Gli eventuali adattamenti sono definiti con atto di indirizzo e coordinamento emanato ai sensi dell'articolo 8 della legge 15 marzo 1997, n. 59, su proposta dei Ministri della sanita' e dell'universita' della ricerca scientifica e tecnologica e, ove necessario, con apposito provvedimento legislativo.
 
@@ -72,6 +130,32 @@ L'atto aziendale di cui all'articolo 3 del decreto legislativo 30 dicembre 1992,
 
 ## Art. 4. — Organi delle aziende
 
+1.
+                    
+                        
+                            Sono organi delle aziende di cui all'articolo 2: 
+ 
+
+                        
+                        
+                            a)
+                            
+                                il direttore generale; 
+ 
+                            
+                        
+                        
+                            b)
+                            
+                                il collegio sindacale; 
+ 
+                            
+                        
+                        
+                            c)
+                            
+                                l'organo di indirizzo.
+
 Il direttore generale e' nominato dalla regione, acquisita l'intesa con il rettore dell'universita'. Limitatamente al periodo quadriennale di sperimentazione nelle aziende ospedaliere universitarie integrate con il Servizio sanitario nazionale, il direttore generale e' nominato dal rettore dell'universita', acquisita l'intesa con la regione. I requisiti per la nomina a direttore generale delle aziende di cui all'articolo 2, sono quelli stabiliti nell'articolo 3-bis del decreto legislativo 30 dicembre 1992, n. 502, e successive modificazioni; ai direttori generali si applicano gli articoli, 3 e seguenti del medesimo decreto legislativo, ove non derogati dal presente decreto. I protocolli d'intesa tra regioni e universita' disciplinano i procedimenti di verifica dei risultati dell'attivita' dei direttori generali e le relative procedure di conferma e revoca, sulla base dei principi di cui all'articolo 3-bis del decreto legislativo 30 dicembre 1992, n. 502, e successive modificazioni.
 
 Al Collegio sindacale si applicano le disposizioni dell'articolo 3-ter del decreto legislativo 30 dicembre 1992, n. 502, e successive modificazioni. Il Collegio e' composto da cinque membri designati uno dalla regione, uno dal Ministro del tesoro, del bilancio e della programmazione economica, uno dal Ministro della sanita', uno dal Ministro dell'universita' e della ricerca scientifica e tecnologica e uno dall'universita' interessata.
@@ -108,6 +192,39 @@ Entro 45 giorni dalla data di entrata in vigore del presente decreto i professor
 
 I professori e i ricercatori universitari che hanno optato per l'attivita' libero professionale extramuraria possono modificare l'opzione al 31 dicembre di ogni anno.
 
+10.
+                    
+                        
+                            I professori e i ricercatori universitari di cui al comma 8 che 
+ ha optato per l'attivita' assistenziale esclusiva possono modificare l'opzione solamente nei seguenti casi: 
+ 
+                        
+                        
+                            a)
+                            
+                                mutamento di stato giuridico per effetto della nomina in ruolo nelle fasce di professore associato e ordinario a seguito di procedure di valutazione comparativa ai sensi della legge n. 210 del 1998; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                mutamento del settore scientifico-disciplinare di inquadramento che comporti l'esercizio di una diversa attivita' assistenziale; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                trasferimento da diverso ateneo di altra regione; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                cessazione dai periodi di congedo e aspettativa di cui agli articoli 12 e 13 del decreto del Presidente della Repubblica n. 382 del 1980, nonche' di cui all'articolo 17 del predetto decreto del Presidente della Repubblica, se di durata pari o superiore all'anno ed al comma 17 del presente articolo.
+
 I professori e i ricercatori universitari che hanno modificato l'opzione ai sensi del comma 10 cessa dall'attivita' assistenziale ordinaria, salvo la facolta' di optare nuovamente per l'attivita' assistenziale esclusiva. L'eventuale attivita' libero professionale non puo' comunque essere svolta nelle strutture accreditate con il Servizio sanitario nazionale. Ad essi si applicano le disposizioni di cui all'articolo 15-nonies, comma 2, ultimo periodo, del decreto legislativo 30 dicembre 1992, n. 502, e successive modificazioni.
 Qualora i protocolli d'intesa di cui al predetto articolo 15-nonies, comma 2, non siano stipulati entro sessanta giorni dalla data di entrata in vigore del presente decreto si provvede in via sostitutiva, previa diffida ad adempiere entro i successivi trenta giorni, con decreti interministeriali dei Ministri della sanita' e dell'universita', sentita la Conferenza Stato regioni.
 
@@ -123,6 +240,26 @@ Le aziende di cui all'articolo 2, comma 2, lettera a), per esigenze assistenzial
 I professori e i ricercatori universitari, ai quali e' attribuito dalle aziende di cui agli articoli 3 e 4 del decreto legislativo 30 dicembre 1992, n. 502, e successive modificazioni, un incarico di struttura complessa ai sensi degli articoli 15, comma 7, e 15-ter, comma 2, dello stesso decreto legislativo 30 dicembre 1992, n. 502, cessano dal servizio salvo che, compatibilmente con le esigenze didattiche e di ricerca siano collocati in aspettativa senza assegni con riconoscimento della anzianita' di servizio per tutta la durata dell'incarico. Si applica il comma 11, terzo e quarto periodo, dell'articolo 3-bis del decreto legislativo 30 dicembre 1992, n. 502, e successive modificazioni.
 
 ## Art. 6. — Trattamento economico del personale universitario
+
+1.
+                    
+                        
+                            Fermo restando l'obbligo di soddisfare l'impegno orario minimo di presenza nelle strutture aziendali per le relative attivita' istituzionali, al personale di cui al comma 1 dell'articolo 5 si riconosce, oltre ai compensi legati alle particolari condizioni di lavoro, ove spettanti, oltre al trattamento economico erogato dall'universita': 
+ 
+
+                        
+                        
+                            a)
+                            
+                                un trattamento aggiuntivo graduato in relazione alle 
+responsabilita' connesse ai diversi tipi di incarico; 
+ 
+                            
+                        
+                        
+                            b)
+                            
+                                un trattamento aggiuntivo graduato in relazione ai risultati ottenuti nell'attivita' assistenziale e gestionale, valutati secondo parametri di efficacia, appropriatezza ed efficienza, nonche' all'efficacia nella realizzazione della integrazione tra attivita' assistenziale, didattica e di ricerca.
 
 I trattamenti di cui al comma 1 sono erogati nei limiti delle risorse da attribuire ai sensi dell'articolo 102, comma 2, del decreto del Presidente della Repubblica n. 382 del 1980, globalmente considerate e sono definiti secondo criteri di congruita' e proporzione rispetto a quelle previste al medesimo scopo dai contratti collettivi nazionali di lavoro di cui all'articolo 15 del decreto legislativo n. 502 del 1992 e successive modificazioni. Tali trattamenti sono adeguati in base agli incrementi previsti dai contratti collettivi nazionali per il personale sanitario del servizio sanitario nazionale. Il trattamento economico di equiparazione in godimento all'atto dell'entrata in vigore del presente decreto e' conservato fino all'applicazione delle disposizioni di cui al comma 1.
 
@@ -147,6 +284,24 @@ Alle universita' non statali che gestiscono direttamente policlinici universitar
 La realizzazione di nuove aziende ospedaliere universitarie integrate con il Servizio sanitario nazionale oltre quelle di cui all'articolo 2, comma 2, lettera a) nonche' di nuovi policlinici gestiti da universita' non statali, anche attraverso l'utilizzazione di strutture pubbliche o private gia' accreditate, deve essere preventivamente autorizzata con decreto del Ministro dell'universita' e della ricerca scientifica e tecnologica di concerto con il Ministro della sanita', sentita la Conferenza Stato - regioni, tenendo conto del fabbisogno formativo complessivo del Paese e della localizzazione delle strutture formative gia' esistenti. Alla costituzione delle aziende di cui al presente comma nonche' delle aziende di cui all'articolo 2, comma 1, si provvede con decreto del Presidente del Consiglio dei Ministri, su proposta del Ministro della sanita' di concerto con il Ministro dell'universita' e della ricerca scientifica e tecnologica. Per quanto concerne le aziende di cui all'articolo 2, comma 1, al termine del quadriennio di cui all'articolo 2 comma 2, il decreto del Presidente del Consiglio dei Ministri determina, altresi', le modalita' di nomina del direttore generale e del Presidente dell'organo di indirizzo.
 
 Il comma 2 dell'articolo 46 del decreto legislativo n. 368 del 17 agosto 1999, e' sostituito dal seguente: "2. Le disposizioni di cui agli articoli dal 37 al 42 si applicano dall'entrata in vigore del provvedimento di cui al comma 1; fino alla data di entrata in vigore del predetto provvedimento si applicano le disposizioni di cui al decreto legislativo 8 agosto 1991, n. 257".
+
+4.
+                    
+                        
+                            I protocolli di intesa regolamentano il trasferimento, l'uso e l'assegnazione dei beni attualmente utilizzati dai policlinici universitari, secondo i seguenti criteri: 
+ 
+                        
+                        
+                            a)
+                            
+                                concessione a titolo gratuito alle nuove aziende di cui all'articolo 2, comma 2, dei beni demaniali o comunque in uso gratuito e perpetuo alle universita', nonche' dei beni immobili e mobili di proprieta' dell'universita', gia' destinati in modo prevalente all'attivita' assistenziale, con oneri di manutenzione a carico delle aziende citate e con vincolo di destinazione ad attivita' assistenziale, previa individuazione dei singoli beni con un apposito protocollo di intesa o atto aggiuntivo al medesimo. Alla cessazione della destinazione ad attivita' assistenziale il bene rientra nella piena disponibilita' dell'universita'. Il bene e' valutato come apporto patrimoniale ai sensi dell'articolo 7, comma 1; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                successione delle nuove aziende di cui all'articolo 2, comma 2, alle universita' nei rapporti di locazione per gli immobili locati.
 
 Alle procedure concernenti il trasferimento o l'utilizzazione del personale non docente alle aziende di cui all'art. 2, comma 2, si provvede con uno o piu' decreti interministeriali dei Ministri della sanita', dell'universita' e della ricerca scientifica e tecnologica, della funzione pubblica e del tesoro, sentite le organizzazioni sindacali, d'intesa con la Conferenza Stato-regioni.
 

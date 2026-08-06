@@ -8,8 +8,8 @@ codice_redazionale: 003G0123
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:40Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -42,6 +42,31 @@ La riduzione dei contributi previdenziali, di cui all'articolo 1, riconosciuta p
  dei contributi previdenziali
 
 Per il riconoscimento dello sgravio contributivo, del credito di imposta e della riduzione dei contributi previdenziali, le societa' sportive indicate all'articolo 1, presentano la richiesta entro trenta giorni dalla stipula del contratto di lavoro, di cui al medesimo articolo 1, mediante raccomandata con avviso di ricevimento, al CONI.
+
+2.
+                    
+                        
+                            La richiesta, sottoscritta dal legale rappresentante della societa', contiene:
+ 
+                        
+                        
+                            a)
+                            
+                                dati relativi alla societa' richiedente: codice fiscale, ragione sociale, sede legale e domicilio fiscale, se diverso dalla sede legale;
+
+                            
+                        
+                        
+                            b)
+                            
+                                dati relativi al rappresentante: codice fiscale, cognome e nome, data e comune di nascita, residenza e domicilio fiscale (se diverso dalla residenza);
+
+                            
+                        
+                        
+                            c)
+                            
+                                dati relativi ai giovani calciatori e ai preparatori atletici: codice fiscale, cognome e nome, data e comune di nascita, residenza, data di stipula del contratto di assunzione, tipologia del contratto stipulato, reddito di lavoro dipendente corrisposto o da corrispondere, per l'anno di imposta, sulla base del contratto di lavoro stipulato.
 
 In caso di assunzioni effettuate in date diverse le societa' sportive possono presentare, sempreche' sia rispettato per ognuna delle assunzioni il predetto termine di trenta giorni, un'unica richiesta di benefici.
 

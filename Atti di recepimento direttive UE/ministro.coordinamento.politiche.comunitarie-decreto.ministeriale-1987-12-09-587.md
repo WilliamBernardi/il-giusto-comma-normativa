@@ -10,7 +10,7 @@ source: normattiva-opendata
 collection: Atti di recepimento direttive UE
 vigenza_date: 1988-05-02
 zip_date: 2026-07-30
-fetched_at: 2026-08-02T09:40:50Z
+fetched_at: 2026-07-30
 ---
 
 DECRETO MINISTERIALE
@@ -51,6 +51,23 @@ Le direttive n. 84/529/CEE e n. 86/529/CEE vengono pubblicate unitamente al pres
 
 ## Art. 2.
 
+1.
+                    
+                        
+                            Per quanto concerne le esclusioni di cui all'art. 1 paragrafo 2, della direttiva n. 84/529/CEE si intendono per: 
+
+                        
+                        
+                            a)
+                            
+                                ascensori destinati al trasporto di cose, quelli aventi le caratteristiche di montacarichi, secondo la definizione di cui al punto 3 dell'allegato I del presente decreto: 
+                            
+                        
+                        
+                            b)
+                            
+                                ascensori di fabbricazione speciale per il trasporto di minorati fisici, gli ascensori aventi velocita' non superiore a 0,1 m/s appositamente costruiti per il trasporto dei minorati fisici.
+
 ## Art. 3.
 
 1. Sono esclusi dal campo di applicazione del presente decreto gli ascensori installati in un edificio o parte di edificio destinato a residenza di un unico nucleo familiare e con tutte le porte di piano inaccessibili gli altri occupanti l'edificio al pubblico in generale.
@@ -67,6 +84,47 @@ Le direttive n. 84/529/CEE e n. 86/529/CEE vengono pubblicate unitamente al pres
 ## Art. 6.
 
 Gli ascensori di nuova costruzione in servizio privato sono soggetti, salvo quanto diversamente disposto nel presente decreto, a quanto previsto per gli ascensori categoria A e categoria B della legge 24 ottobre 1942, n. 1415, e sue modificazioni e nel decreto del Presidente della Repubblica 24 dicembre 1951, n. 1767 e sue modificazioni.
+
+2.
+                    
+                        
+                            La targa di immatricolazione di cui all'art. 5 del Decreto del Presidente della Repubblica 24 dicembre 1951, n. 1767 deve portare le seguenti indicazioni: 
+
+                        
+                        
+                            a)
+                            
+                                organo competente per le verifiche tecniche; 
+                            
+                        
+                        
+                            b)
+                            
+                                "ascensore o "ascensore per merci" o "montautomobili"; 
+                            
+                        
+                        
+                            c)
+                            
+                                ditta costruttrice e numero di fabbricazione; 
+                            
+                        
+                        
+                            d)
+                            
+                                numero di matricola corrispondente a quello del libretto e sigla della provincia; 
+                            
+                        
+                        
+                            e)
+                            
+                                portata quale risulta dal libretto; 
+                            
+                        
+                        
+                            f)
+                            
+                                numero delle persone ammesse quale risulta dal libretto.
 
 Non e' richiesta l'applicazione delle targhe di cui all'art. 5 del decreto del Presidente della Repubblica del 24 dicembre 1951 n. 1767 alle funi di sospensione.
 

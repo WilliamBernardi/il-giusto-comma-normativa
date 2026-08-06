@@ -8,8 +8,8 @@ codice_redazionale: 092G0508
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:39Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -38,6 +38,31 @@ Udito il parere del consiglio di Stato, espresso nell'adunanza generale del 30 m
 Ai sensi e per gli effetti della disposizione dell'articolo 395, ultimo comma, del decreto del Presidente della Repubblica 27 aprile 1955, n. 547, per le attrezzature di cui ai successivi articoli, e' ammessa deroga all'applicazione dell'art. 10 del decreto del Presidente della Repubblica 7 gennaio 1956, n. 164, concernente le cinture di sicurezza, limitatamente all'impiego delle attrezzature stesse nelle operazioni di montaggio e smontaggio dei ponteggi metallici fissi (di cui al capo V del citato decreto del Presidente della Repubblica n. 164/1956) e quando non risultino utilizzabili altri mezzi protettivi capaci di contenere l'altezza di caduta libera entro il limite massimo di m 1,50 senza pregiudizio per la mobilita' del lavoratore richiesta dalle operazioni di montaggio e di smontaggio dei ponteggi.
 
 ## Art. 2.
+
+1.
+                    
+                        
+                            Le attrezzature di cui al presente decreto sono costituite da:
+ 
+                        
+                        
+                            a)
+                            
+                                una cintura di sicurezza di tipo speciale comprendente, oltre l'imbracatura, un organo di trattenuta provvisto di freno a dissipazione di energia;
+
+                            
+                        
+                        
+                            b)
+                            
+                                una guida rigida da applicare orizzontalmente ai montanti interni del ponteggio, immediatamente al di sopra o al di sotto dei traversi di sostegno dell'impalcato;
+
+                            
+                        
+                        
+                            c)
+                            
+                                un organo d'ancoraggio scorrevole lungo la suddetta guida, provvisto di attacco per la cintura di sicurezza.
 
 ## Art. 3.
 

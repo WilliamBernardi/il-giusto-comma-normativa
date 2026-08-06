@@ -10,7 +10,7 @@ source: normattiva-opendata
 collection: Atti di recepimento direttive UE
 vigenza_date: 2006-07-26
 zip_date: 2026-07-30
-fetched_at: 2026-08-02T09:40:49Z
+fetched_at: 2026-07-30
 ---
 
 DECRETO
@@ -41,6 +41,45 @@ Nell'allegato IV, sez. 1, del decreto 21 marzo 1973, come sostituito dall'allega
 
 ## Art. 4.
 
+1.
+                    
+                        
+                            L'allegato I del decreto 26 aprile 1993, n. 220, modificato da ultimo dal decreto 15 giugno 2000, n. 210, e' modificato come segue:
+ 
+                        
+                        
+                            a)
+                            
+                                al punto 8 delle «Introduzioni generali»:
+ i) la definizione di QM(T) e' sostituita dalla seguente:
+ «QM(T) = Quantita' massima di sostanza "residua" ammessa nel materiale o oggetto espressa come quantita' totale del gruppo o della(e) sostanza(e) indicata(e). La sostanza nel materiale o nell'oggetto deve essere determinata con un metodo convalidato di analisi. Se attualmente tale metodo non esiste, puo' essere utilizzato un metodo analitico con adeguate caratteristiche di prestazione al limite specificato, in attesa di elaborazione di un metodo convalidato»;
+ ii) le seguenti definizioni sono inserite dopo quella di QM(T): «QMA = Quantita' massima di sostanza "residua" ammessa nel materiale o oggetto finito espressa in mg per 6 dm2 della superficie a contatto con i prodotti alimentari. La quantita' della sostanza nella superficie del materiale o dell'oggetto deve essere determinata con un metodo convalidato di analisi. Se attualmente tale metodo non esiste, puo' essere utilizzato un metodo analitico con adeguate caratteristiche di prestazione al limite specificato, in attesa di elaborazione di un metodo convalidato;
+ QMA(T) = Quantita' massima di sostanza "residua" ammessa nel materiale o oggetto espressa in mg del totale del gruppo della(e) sostanza(e) indicata(e) per 6 dm2 della superficie a contatto con i prodotti alimentari. La quantita' della sostanza nella superficie del materiale o dell'oggetto deve essere determinata con un metodo convalidato di analisi. Se attualmente tale metodo non esiste, puo' essere utilizzato un metodo analitico con adeguate caratteristiche di prestazione al limite specificato, in attesa di elaborazione di un metodo convalidato»;
+ iii) le definizioni di LMS e LMS(T) sono sostituite dalle seguenti:
+ «LMS = Limite di migrazione specifica nel prodotto o simulante alimentare, qualora non diversamente specificato. La migrazione specifica della sostanza deve essere determinata con un metodo convalidato di analisi. Se attualmente tale metodo non esiste, puo' essere utilizzato un metodo analitico con adeguate caratteristiche di prestazione al limite specificato, in attesa di elaborazione di un metodo convalidato;
+ LMS(T) = Limite di migrazione specifica nel prodotto o simulante alimentare, espresso come totale del gruppo o sostanza(e) indicata(e). La migrazione specifica della sostanza deve essere determinata con un metodo convalidato di analisi. Se attualmente tale metodo non esiste, puo' essere utilizzato un metodo analitico con adeguate caratteristiche di prestazione al limite specificato, in attesa di elaborazione di un metodo convalidato»;
+
+                            
+                        
+                        
+                            b)
+                            
+                                alla sezione A, sono aggiunte, in fine, le sostanze riportate nell'allegato I del presente decreto;
+
+                            
+                        
+                        
+                            c)
+                            
+                                alla sezione A e' modificata la colonna «restrizioni e/o specifiche», per le sostanze riportate nell'allegato II del presente decreto;
+
+                            
+                        
+                        
+                            d)
+                            
+                                la sezione B e' sostituita dall'allegato III del presente decreto.
+
 ## Art. 5.
 
 L'elenco delle sostanze di cui all'allegato I del decreto 24 settembre 1996, n. 572, cosi' come modificato da ultimo con il decreto 1° dicembre 2000, n. 411, e' sostituito dall'allegato IV del presente decreto.
@@ -54,7 +93,76 @@ In deroga a quanto previsto al comma 1, possono essere impiegati, fino al 31 dic
 
 ## Art. 7.
 
+1.
+                    
+                        
+                            Il decreto 15 giugno 2000, n. 210, e' modificato come segue:
+ 
+                        
+                        
+                            a)
+                            
+                                l'allegato II e' sostituito dall'allegato V al presente decreto;
+
+                            
+                        
+                        
+                            b)
+                            
+                                l'allegato III e' sostituito dall'allegato VI al presente decreto.
+
 ## Art. 8.
+
+1.
+                    
+                        
+                            I materiali ed oggetti che, allo stato di prodotti finiti, sono destinati ad essere messi a contatto o sono messi a contatto con i prodotti alimentari conformemente alla loro destinazione, fabbricati con una o piu' delle seguenti sostanze, ovvero che le contengano:
+ 
+                        
+                        
+                            a)
+                            
+                                2, 2-bis (4-idrossifenil) propano bis (2,3-epossipropil)etere (di seguito denominato «BADGE») e alcuni suoi derivati;
+
+                            
+                        
+                        
+                            b)
+                            
+                                bis(-idrossifenil)metano bis(2,3-epossipropil) eteri (di seguito denominato «BFDGE») e alcuni loro derivati;
+
+                            
+                        
+                        
+                            c)
+                            
+                                altri glicidi eteri del Novolac (di seguito denominati «NOGE») e alcuni loro derivati;
+devono soddisfare i limiti di migrazione riportati negli allegati VII e VIII.
+
+2.
+                    
+                        
+                            Ai fini delle disposizioni di cui al comma 1, si intende per materiali e oggetti:
+ 
+                        
+                        
+                            a)
+                            
+                                materiali e oggetti composti da qualsiasi tipo di materia plastica;
+
+                            
+                        
+                        
+                            b)
+                            
+                                materiali e oggetti coperti da rivestimenti di superficie;
+
+                            
+                        
+                        
+                            c)
+                            
+                                adesivi.
 
 Le disposizioni di cui al comma 1 non si applicano ai contenitori o ai serbatoi di stoccaggio con capacita' superiore a 10.000 litri, ne' alle relative tubature o alle tubature ad essi collegate, che siano ricoperti da rivestimenti speciali denominati «rivestimenti super resistenti».
 

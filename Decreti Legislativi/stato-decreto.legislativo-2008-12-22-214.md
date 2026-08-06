@@ -8,8 +8,8 @@ codice_redazionale: 009G0001
 vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:31Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -58,6 +58,99 @@ per cui e' richiesta la patente di guida delle categorie D e D+E a condizione di
 per cui e' richiesta la patente di guida delle categorie D e D+E, adibiti a servizi di linea con percorrenza non superiore a 50 chilometri, ovvero al trasporto, al massimo, di 16 passeggeri, a condizione di aver seguito il corso formazione iniziale accelerato, di cui all'articolo 19, comma 2-bis; 
  e) 23 anni: per guidare veicoli adibiti al trasporto di passeggeri 
 per cui e' richiesta la patente di guida delle categorie D e D+E, a condizione di aver seguito il corso formazione iniziale accelerato, di cui all'articolo 19, comma 2-bis.».
+
+2.
+                    
+                        
+                            All'articolo 19 del decreto legislativo n. 286 del 2005, sono 
+apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 1, dopo le parole: «specifico corso» sono inserite le seguenti: «di formazione ordinario o accelerato»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                dopo il comma 2, e' inserito il seguente: 
+ «2-bis. E' altresi' consentito un corso di formazione accelerato, secondo le condizioni ed i limiti di cui all'articolo 18, comma 1, lettere b), d) ed e). Tale corso verte sulle materie indicate all'allegato I, sezione 1, ed e' organizzato sulla base di disposizioni da adottarsi con decreto del Ministro delle infrastrutture e dei trasporti, secondo i criteri di cui all'allegato I, sezione 2-bis.»; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                al comma 3, all'alinea, le parole: «Il corso di cui al comma 1 e' organizzato» sono sostituite dalle seguenti: «I corsi di cui al comma 1 sono organizzati» ed alla lettera b) le parole: «con il decreto di cui al comma 2» sono sostituite dalle seguenti: «con i decreti di cui ai commi 2 e 2-bis.»; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                al comma 4, le parole: «disposizioni adottate con il decreto di 
+cui al comma 2» sono sostituite dalle seguenti: «disposizioni adottate con i decreti di cui ai commi 2 e 2-bis».
+
+3.
+                    
+                        
+                            All'allegato I del decreto legislativo n. 286 del 2005, sono 
+apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                le parole: «Allegato I (previsto dall'articolo 19, comma 2)» 
+sono sostituite dalle seguenti: «Allegato I (previsto dall'articolo 19, commi 2 e 2-bis)»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                la rubrica della sezione 2: «ESAMI PER IL CONSEGUIMENTO DELLA QUALIFICAZIONE INIZIALE OBBLIGATORIA» e' sostituita dalla seguente: «FORMAZIONE ED ESAMI PER LA QUALIFICAZIONE INIZIALE OBBLIGATORIA DI CUI ALL'ARTICOLO 19, COMMA 2»; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                nella sezione 2, terzo capoverso, secondo periodo, dopo le 
+parole: «su un terreno speciale» sono inserite le seguenti: «oppure in un simulatore di alta qualita'»; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                dopo la Sezione 2 e' inserita la seguente: 
+ 
+ «Sezione 2-bis 
+ 
+ FORMAZIONE ED ESAMI PER LA QUALIFICAZIONE 
+ INIZIALE OBBLIGATORIA ACCELERATA 
+ DI CUI ALL'ARTICOLO 19, COMMA 2-BIS 
+ 
+ Il corso di formazione iniziale accelerato deve comprendere 
+l'insegnamento di tutte le materie comprese nell'elenco di cui alla sezione 1. La durata di tale qualificazione iniziale accelerata deve essere di 140 ore. 
+ L'aspirante conducente deve effettuare almeno dieci ore di guida 
+individuale su un veicolo della pertinente categoria che soddisfi almeno i criteri dei veicoli d'esame definiti nel decreto del Ministro delle infrastrutture e dei trasporti 30 settembre 2003, n. 40T, pubblicato nella Gazzetta Ufficiale n. 88 del 15 aprile 2004. 
+ Durante la guida individuale, l'aspirante conducente e' assistito da un istruttore abilitato. Il conducente puo' effettuare un massimo di 4 delle 10 ore di guida individuale su un terreno speciale oppure in un simulatore di alta qualita', per valutare il perfezionamento a una guida razionale improntata alle norme di sicurezza e, in particolare, per valutare il controllo del veicolo in rapporto alle diverse condizioni del fondo stradale e al loro variare in funzione delle condizioni atmosferiche e dell'ora del giorno o della notte. 
+ Per i conducenti di cui all'articolo 18, comma 3, la durata della qualificazione iniziale accelerata e' di 35 ore, di cui 2 ore e mezza di guida individuale. 
+ A formazione conclusa, il conducente deve sostenere un esame 
+scritto e/o orale che comporta almeno una domanda per ciascuno degli obiettivi indicati nell'elenco delle materie di cui alla sezione 1.»; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                nella sezione 3, e' aggiunto, in fine, il seguente periodo: 
+«Tale formazione periodica puo' essere parzialmente impartita in un simulatore di alta qualita'.».
 
 Con decreto del Ministro delle infrastrutture e dei trasporti, da adottarsi entro sei mesi dalla data di entrata in vigore del presente decreto legislativo, sono dettate le disposizioni relative alle caratteristiche tecniche ed agli standard di qualita' necessari a definire un simulatore di alta qualita', ed alla misura massima consentita di impiego dello stesso nei corsi di formazione di cui all'articolo 19, comma 1, del decreto legislativo n. 285 del 2006, come modificato dal presente decreto.
 

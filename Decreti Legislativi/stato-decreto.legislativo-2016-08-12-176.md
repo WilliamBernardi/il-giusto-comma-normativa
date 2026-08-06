@@ -7,8 +7,8 @@ urn: urn:nir:stato:decreto.legislativo:2016-08-12;176
 vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:30Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -25,6 +25,57 @@ Sulla proposta del Presidente del Consiglio dei ministri e del Ministro dell'eco
 
 All'articolo 1, comma 1, del decreto legislativo 24 febbraio 1998, n. 58, dopo la lettera w-sexies) e' aggiunta la seguente: 
  «w-septies) "depositari centrali di titoli": i soggetti indicati nell'articolo 2, paragrafo 1, punto 1), del regolamento (UE) n. 909/2014 del Parlamento europeo e del Consiglio, del 23 luglio 2014, relativo al miglioramento del regolamento titoli nell'Unione europea e ai depositari centrali di titoli.».
+
+2.
+                    
+                        
+                            All'articolo 4 del decreto legislativo 24 febbraio 1998, n. 58, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 5, la lettera c) e' sostituita dalla seguente: 
+ «c) con le controparti centrali e i depositari centrali;»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 13-ter dopo le parole: «in ordine» sono aggiunte le seguenti: «alle indagini e».
+
+3.
+                    
+                        
+                            All'articolo 4-quater del decreto legislativo 24 febbraio 1998, n. 58, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                sono abrogati i commi 1 e 2; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 2-bis le parole: «di cui al comma 1» sono sostituite dalle seguenti: «(UE) n. 648/2012»; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                al comma 3, primo periodo, le parole: «comma 1» sono sostituite dalle seguenti: «comma 2-bis» e le parole: «del comma 2-bis» sono soppresse; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                sono abrogati i commi 4 e 5.
 
 ## Art. 2. — Modifiche alla parte III del decreto legislativo 24 febbraio 1998, n. 58
 
@@ -294,6 +345,44 @@ Fatto salvo l'articolo 33 del regolamento (UE) n. 909/2014, le imprese di invest
 Il comma 1, dell'articolo 169, del decreto legislativo 24 febbraio 1998, n. 58, e' sostituito dal seguente: 
  «1. Salvo che il fatto costituisca reato piu' grave, chiunque fornisce informazioni false nelle comunicazioni previste dagli articoli 15, commi 1 e 3, 61, comma 6, o in quelle richieste ai sensi dell'articolo 17 del presente decreto, o in quelle previste dall'articolo 31, paragrafo 2, del regolamento (UE) n. 648/2012 e dall'articolo 27, paragrafo 7, secondo periodo, del regolamento (UE) n. 909/2014 e' punito con l'arresto da un anno a tre anni e con l'ammenda da euro cinquemilacentosessantacinque a euro cinquantunomilaseicentoquarantasei.».
 
+2.
+                    
+                        
+                            All'articolo 189, del decreto legislativo 24 febbraio 1998, n. 58, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 1 sono apportate le seguenti modificazioni: 
+ 1. le parole: «e 80, comma 7» sono soppresse; 
+ 2. dopo le parole: «ai sensi dell'articolo 17» sono inserite le seguenti: «, nonche' la violazione degli obblighi di comunicazione previsti dall'articolo 31, paragrafo 2, del regolamento (UE) n. 648/2012 e dall'articolo 27, paragrafo 7, secondo periodo, del regolamento (UE) n. 909/2014,»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 2, dopo le parole: «61, comma 7,» sono inserite le seguenti: «79-sexies, comma 9, e 79-noviesdecies, comma 1» e le parole: «e 80, comma 8» sono soppresse.
+
+3.
+                    
+                        
+                            All'articolo 190, del decreto legislativo 24 febbraio 1998, n. 58, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                la rubrica dell'articolo e' sostituita dalla seguente: «Altre sanzioni amministrative pecuniarie in tema di disciplina degli intermediari e dei mercati»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 2 sono soppresse le lettere b), c), e) e h).
+
 Dopo l'articolo 190, del decreto legislativo 24 febbraio 1998, n. 58, sono inseriti i seguenti articoli: 
  «Art. 190.1 (Sanzioni amministrative pecuniarie in tema di disciplina della gestione accentrata di strumenti finanziari). - 1.
 Nei confronti dei depositari centrali di titoli, nel caso di inosservanza delle disposizioni previste dal Capo IV del titolo II-bis della parte III e di quelle emanate dalla Consob, d'intesa o sentita la Banca d'Italia, ai sensi dell'articolo 82, si applica la sanzione amministrativa pecuniaria da euro trentamila fino a euro cinque milioni, ovvero fino al dieci per cento del fatturato, quando tale importo e' superiore a euro cinque milioni e il fatturato e' disponibile e determinabile. 
@@ -314,6 +403,44 @@ Nei confronti dei depositari centrali di titoli, nel caso di inosservanza delle 
  4. Alle fattispecie disciplinate dai commi 1 e 2 si applica l'articolo 188, commi 2 e 2-bis. 
  5. Alle fattispecie disciplinate dal comma 3 si applica l'articolo 188, comma 2.».
 
+5.
+                    
+                        
+                            All'articolo 190-bis, del decreto legislativo 24 febbraio 1998, n. 58, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                la rubrica dell'articolo e' sostituita dalla seguente: «Responsabilita' degli esponenti aziendali e del personale per le violazioni in tema di disciplina degli intermediari, dei mercati, dei depositari centrali e della gestione accentrata di strumenti finanziari»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 1, primo periodo, le parole: «188, 189 e 190» sono sostituite dalle seguenti: «188, 189, 190, 190.1 e 190.2, commi 1 e 2,».
+
+6.
+                    
+                        
+                            All'articolo 193-quater, del decreto legislativo 24 febbraio 1998, n. 58, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                il comma 1 e' sostituito dal seguente: 
+ «1. Le controparti centrali, i gestori delle sedi di negoziazione, le controparti finanziarie e le controparti non finanziarie, come definite dall'articolo 2, punti 1), 4), 8) e 9), del regolamento (UE) n. 648/2012 del Parlamento europeo e del Consiglio, del 4 luglio 2012, i soggetti che agiscono in qualita' di partecipanti alle controparti centrali o in qualita' di clienti di questi ultimi, come definiti dall'articolo 2, punto 15), del citato regolamento, i quali non osservano le disposizioni previste dai titoli II, III, IV e V del medesimo regolamento e le relative disposizioni attuative, sono punite con la sanzione amministrativa pecuniaria da euro cinquemila fino a euro cinque milioni, se sono persone fisiche. Se la violazione e' commessa da una societa' o da un ente, si applica nei confronti di questi ultimi la sanzione amministrativa pecuniaria da euro trentamila fino a euro cinque milioni, ovvero al dieci per cento del fatturato, quando tale importo e' superiore a euro cinque milioni e il fatturato e' disponibile e determinabile.»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                il comma 4 e' sostituito dal seguente: 
+ «4. Si applica l'articolo 188, commi 2 e 2-bis»
+
 L'articolo 194-quater, del decreto legislativo 24 febbraio 1998, n. 58, e' sostituito dal seguente: 
  «Art. 194-quater (Ordine di porre termine alle violazioni). - 1.
 Quando le violazioni sono connotate da scarsa offensivita' o pericolosita', nei confronti delle societa' o degli enti interessati, puo' essere applicata, in alternativa alle sanzioni amministrative pecuniarie, una sanzione consistente nell'ordine di eliminare le infrazioni contestate, anche indicando le misure da adottare e il termine per l'adempimento, nel caso di inosservanza: 
@@ -322,14 +449,98 @@ Quando le violazioni sono connotate da scarsa offensivita' o pericolosita', nei 
  c) delle norme richiamate dall'articolo 63, paragrafo 1, del regolamento (UE) n. 909/2014 e delle relative disposizioni attuative. 
  2. Per l'inosservanza dell'ordine entro il termine stabilito si applica la sanzione amministrativa pecuniaria prevista per la violazione originariamente contestata aumentata fino ad un terzo.».
 
+8.
+                    
+                        
+                            All'articolo 194-quinquies, del decreto legislativo 24 febbraio 1998, n. 58, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 1, lettera a), le parole: «83-novies, comma 1, lettere c), d), e) ed f), 83-duodecies,» sono soppresse; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 1, dopo la lettera a), e' inserita la seguente: 
+ «a-bis) dall'articolo 190.1, per la violazione degli articoli 83-novies, comma 1, lettere c), d), e) ed f), 83-duodecies, e delle relative disposizioni attuative;»; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                al comma 1, lettera b), le parole: «comma 2» sono sostituite dalle seguenti: «commi 2 e 4».
+
 All'articolo 194-septies, del decreto legislativo 24 febbraio 1998, n. 58, dopo il comma 1 e' aggiunto il seguente: 
  «1-bis. Il comma 1 si applica anche alle violazioni delle norme richiamate dall'articolo 63, paragrafo 1, del regolamento (UE) n. 909/2014 e delle relative disposizioni attuative.».
+
+10.
+                    
+                        
+                            All'articolo 195-bis, del decreto legislativo 24 febbraio 1998, n. 58, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 3-bis, la parola: «escludono» e' sostituita dalle seguenti: «possono escludere»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                alla lettera b) del comma 3-bis, le parole: «alle misure ritenute di natura minore» sono sostituite dalle seguenti: «all'irrogazione della sanzione prevista dall'articolo 194-quater.».
 
 Il comma 1 dell'articolo 195-ter, del decreto legislativo 24 febbraio 1998, n. 58, e' sostituito dal seguente: 
  «1. La Banca d'Italia comunica all'ABE le sanzioni amministrative applicate alle banche o alle imprese di investimento ai sensi degli articoli 189, 190, 190-bis, 194-ter, 194-quater e 194-septies, ivi comprese quelle pubblicate in forma anonima, nonche' le informazioni ricevute dai soggetti interessati sulle azioni da essi avviate avverso i provvedimenti sanzionatori e sull'esito delle stesse».
 
 ## Art. 4. — Modifiche al decreto legislativo 12 aprile 2001, n. 210 
  e al codice civile
+
+1.
+                    
+                        
+                            Al decreto legislativo 12 aprile 2001, n. 210, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                all'articolo 1, comma 1, lettera n), le parole: «o, un sistema di garanzia» sono soppresse; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                all'articolo 1, comma 1, lettera p), le parole: «107, comma 6,» sono soppresse; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                all'articolo 1, comma 1, la lettera t) e' soppressa; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                all'articolo 6, comma 1, ultimo periodo, le parole: «o da sistemi di garanzia finalizzati a garantire il buon fine della compensazione e della liquidazione» sono soppresse; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                dopo l'articolo 8 e' inserito il seguente: 
+ «Art. 8-bis (Tutela dei diritti dell'operatore del sistema che ha fornito la garanzia). - 1. Se l'operatore di un sistema ha fornito una garanzia all'operatore di un altro sistema in relazione ad un sistema interoperabile, i diritti dell'operatore del sistema che ha fornito la garanzia relativi alla garanzia fornita non possono essere pregiudicati dall'apertura di una procedura di insolvenza nei confronti dell'operatore del sistema che ha ricevuto la garanzia.».
 
 All'articolo 2354, sesto comma, del codice civile, le parole: «nei mercati regolamentati» sono sostituite dalle seguenti: «nelle sedi di negoziazione».
 

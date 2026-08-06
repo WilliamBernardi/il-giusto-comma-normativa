@@ -7,8 +7,8 @@ urn: urn:nir:stato:decreto.del.presidente.del.consiglio.dei.ministri:2025-01-21;
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:40Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DEL CONSIGLIO DEI MINISTRI
@@ -53,6 +53,31 @@ I valori soglia di cui al comma 3 sono aggiornati con cadenza triennale dall'Aut
 L'agevolazione di cui all'articolo 1, comma 1, consiste in una riduzione del 25 per cento della tassa sui rifiuti (TARI) o della tariffa corrispettiva per il servizio di gestione integrato dei rifiuti urbani altrimenti dovuta, ovvero del 25 per cento della spesa media nazionale per il servizio integrato di gestione dei rifiuti urbani nei casi in cui il gestore dell'attivita' di gestione tariffe e rapporto con gli utenti non si accrediti al Sistema di gestione delle agevolazioni sulle tariffe energetiche (SGAte) e, conseguentemente, non sia possibile determinare l'ammontare effettivo del bonus da erogare all'utente.
 
 Per la copertura degli oneri derivanti dalla applicazione della agevolazione di cui al comma 1, l'Autorita' di regolazione per energia, reti e ambiente istituisce e aggiorna con propri provvedimenti, in sede di prima applicazione entro quattro mesi dalla data di entrata in vigore del presente decreto, una apposita componente perequativa, applicata alla generalita' dell'utenza, domestica e non domestica, che alimenta un conto gestito dalla Cassa per i servizi energetici e ambientali, di cui all'articolo 1, comma 670, della legge 28 dicembre 2015, n. 208, secondo gli indirizzi della medesima Autorita', ai fini della copertura degli oneri derivanti dall'erogazione delle agevolazioni agli utenti di cui all'articolo 2.
+
+3.
+                    
+                        
+                            La componente perequativa di cui al comma 2 viene definita in modo che la stessa: 
+ 
+                        
+                        
+                            a)
+                            
+                                rispetti il principio di proporzionalita', secondo le modalita' definite dall'Autorita' di regolazione per energia, reti e ambiente, anche tenendo conto della componente variabile della spesa sostenuta dagli utenti per il servizio; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                trovi uniforme applicazione sul territorio nazionale; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                preveda meccanismi di aggiornamento certi e trasparenti.
 
 ## Art. 4. — Gestione dell'ammissione all'agevolazione
 

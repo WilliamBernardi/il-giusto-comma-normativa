@@ -8,8 +8,8 @@ codice_redazionale: 090G0172
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:39Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -32,6 +32,45 @@ Ai contributi previsti dal primo e secondo comma dell'art. 5 della legge 1 agost
 I contributi riguardano le spese per l'acquisto, l'ampliamento, la ristrutturazione e la costruzione di immobili, comprese quelle di progettazione, e le spese per l'acquisto di mobili, macchine e attrezzature per ufficio e scientifiche ed altre immobilizzazioni tecniche, compreso il relativo software, impegnate dagli enti di cui all'art. 1 dalla data di entrata in vigore della legge 1 agosto 1988, n. 340, al 31 dicembre 1990.
 
 ## Art. 3. — Requisiti delle domande
+
+1.
+                    
+                        
+                            Le domande per la concessione dei contributi a favore delle borse merci previsti dal primo comma dell'art. 5 della legge 1 agosto 1988, n. 340, devono recare le seguenti indicazioni:
+ 
+                        
+                        
+                            a)
+                            
+                                numero e data della deliberazione, nonche' copia della stessa corredata dei relativi allegati, con cui la camera di commercio ha assunto l'impegno ad effettuare la spesa;
+
+                            
+                        
+                        
+                            b)
+                            
+                                ove prevista l'approvazione ministeriale, estremi della lettera di trasmissione al Ministero dell'industria, del commercio e dell'artigianato della deliberazione di cui alla lettera a) ed estremi della nota ministeriale di approvazione, ove tale approvazione sia gia' intervenuta, nonche' copia dei predetti documenti;
+
+                            
+                        
+                        
+                            c)
+                            
+                                elencazione e descrizione delle opere da realizzare o gia' realizzate e/o dei beni da acquisire per i quali si chiede il contributo, con l'indicazione dei relativi oneri;
+
+                            
+                        
+                        
+                            d)
+                            
+                                esposizione sintetica delle finalita' della realizzazione delle opere e/o dell'acquisto dei beni;
+
+                            
+                        
+                        
+                            e)
+                            
+                                indicazione dei tempi previsti per la realizzazione del programma d'intervento.
 
 Le domande per la concessione dei contributi a favore dei laboratori chimico-merceologici previsti dal secondo comma dell'art. 5 della legge 1 agosto 1988, n. 340, devono recare le indicazioni di cui ai precedenti punti a), b), c), d), e).
 

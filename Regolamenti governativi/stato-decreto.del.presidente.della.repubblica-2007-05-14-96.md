@@ -8,8 +8,8 @@ codice_redazionale: 007G0110
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti governativi
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:15Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -24,6 +24,80 @@ Udito il parere del Consiglio di Stato, espresso dalla Sezione consultiva per gl
 Sulla proposta del Ministro della solidarieta' sociale, di concerto con i Ministri dell'economia e delle finanze, per l'attuazione del programma di Governo e per le riforme e le innovazioni nella pubblica amministrazione;
 
 ## Art. 1. — Ricognizione degli organi collegiali e degli altri organismi, comunque denominati, operanti presso il Ministero della solidarieta' sociale
+
+1.
+                    
+                        
+                            Sono confermati e continuano ad operare presso il Ministero della solidarieta' sociale i seguenti organi collegiali ed organismi, comunque denominati, previsti dalla legge o da regolamento:
+ 
+                        
+                        
+                            a)
+                            
+                                Commissione tecnica per il sistema informativo sui servizi sociali, di cui all'articolo 21, comma 2, della legge 8 novembre 2000, n. 328;
+
+                            
+                        
+                        
+                            b)
+                            
+                                Comitato per i minori stranieri, di cui all'articolo 33 del testo unico delle disposizioni concernenti la disciplina dell'immigrazione e norme sulla condizione dello straniero, di cui al decreto legislativo 25 luglio 1998, n. 286;
+
+                            
+                        
+                        
+                            c)
+                            
+                                Consulta per i problemi degli stranieri immigrati e delle loro famiglie, di cui all'articolo 42, comma 4 del citato testo unico delle disposizioni concernenti la disciplina dell'immigrazione e norme sulla condizione dello straniero;
+
+                            
+                        
+                        
+                            d)
+                            
+                                Osservatorio nazionale per il volontariato, di cui all'articolo 12 della legge 11 agosto 1991, n. 266;
+
+                            
+                        
+                        
+                            e)
+                            
+                                Osservatorio nazionale dell'associazionismo, di cui all'articolo 11 della legge 7 dicembre 2000, n. 383;
+
+                            
+                        
+                        
+                            f)
+                            
+                                Consulta nazionale sull'alcool e sui problemi alcolcorrelati, di cui all'articolo 4 della legge 30 marzo 2001, n. 125;
+
+                            
+                        
+                        
+                            g)
+                            
+                                Consulta degli esperti e degli operatori sociali sulle tossicodipendenze, di cui all'articolo 132 del testo unico delle leggi in materia di disciplina degli stupefacenti e sostanze psicotrope, prevenzione, cura e riabilitazione dei relativi stati di tossicodipendenza, di cui al decreto del Presidente della Repubblica 9 ottobre 1990, n. 309;
+
+                            
+                        
+                        
+                            h)
+                            
+                                Commissione di valutazione dei progetti ex Fondo nazionale di intervento per la lotta alla droga, di cui all'articolo 127 del citato testo unico delle leggi in materia di disciplina degli stupefacenti e sostanze psicotrope, prevenzione, cura e riabilitazione dei relativi stati di tossicodipendenza;
+
+                            
+                        
+                        
+                            i)
+                            
+                                Commissione di indagine sulla esclusione sociale, di cui all'articolo 27 della legge 8 novembre 2000, n. 328;
+
+                            
+                        
+                        
+                            l)
+                            
+                                Osservatorio per il disagio giovanile legato alle dipendenze, di cui all'articolo 1, comma 556, della legge 23 dicembre 2005, n. 266, e successive modificazioni.
 
 Fermo restando quanto previsto dall'articolo 1, comma 58, della legge 23 dicembre 2005, n. 266, la spesa complessiva degli organismi di cui al presente provvedimento, ivi compresi gli oneri di funzionamento e gli eventuali compensi per i componenti, in qualunque forma erogati e comunque denominati, e' ridotta del trenta per cento rispetto a quella sostenuta nell'esercizio finanziario 2005. Per l'anno 2006, la riduzione opera in misura proporzionale rispetto al periodo corrente tra la data di entrata in vigore del citato decreto-legge 4 luglio 2006, n. 223, convertito, con modificazioni, dalla legge 4 agosto 2006, n. 248, ed il 31 dicembre 2006, tenuto conto degli impegni di spesa gia' assunti alla medesima data di entrata in vigore del predetto decreto-legge.
 

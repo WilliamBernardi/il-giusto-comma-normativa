@@ -8,8 +8,8 @@ codice_redazionale: 097G0312
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:42Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -26,6 +26,31 @@ Udito il parere del Consiglio di Stato, espresso nell'adunanza della sezione con
 ## Art. 1. — Elezioni dei professori e ricercatori
 
 Nel Consiglio universitario nazionale, per ciascuna delle grandi aree omogenee di settori scientificodisciplinari di cui alla legge 15 maggio 1997, n. 127, articolo 17, comma 104, lettera a), cosi' come individuate nell'allegato, sono eletti un professore ordinario, un professore associato ed un ricercatore.
+
+2.
+                    
+                        
+                            Ai fini del presente decreto:
+ 
+                        
+                        
+                            a)
+                            
+                                nella denominazione "professori ordinari" si intendono compresi i professori straordinari;
+
+                            
+                        
+                        
+                            b)
+                            
+                                nella denominazione "ricercatore" si intendono compresi gli assistenti del ruolo ad esaurimento;
+
+                            
+                        
+                        
+                            c)
+                            
+                                nella denominazione universita' ed istituti di istruzione universitaria si intendono ricompresi le universita' e gli istituti di istruzione universitaria statali e non statali che rilasciano titoli di studio con valore legale.
 
 Per ciascuna delle aree disciplinari di cui al comma 1 sono costituiti tre collegi elettorali, dei quali uno e' composto dai professori ordinari, uno dai professori associati, e uno dai ricercatori.
 
@@ -84,7 +109,78 @@ Il voto e' individuale e segreto. L'elettore esprime il suo voto scrivendo sul l
 
 All'ora stabilita per la chiusura delle votazioni, ed esaurite le operazioni di voto degli elettori che in quel momento sono presenti nel locale del seggio, il presidente dichiara chiuse le votazioni.
 
+4.
+                    
+                        
+                            Nei seggi elettorali costituiti per l'elezione dei rappresentanti dei professori e dei ricercatori il presidente procede al controllo del numero dei votanti che deve corrispondere con il numero delle schede votate. Il segretario redige un verbale, sottoscritto dal presidente, contenente le seguenti notizie:
+ 
+                        
+                        
+                            a)
+                            
+                                numero delle schede ricevute per ciascuna categoria;
+
+                            
+                        
+                        
+                            b)
+                            
+                                numero delle schede votate per ogni singola area scientificodisciplinare e categoria;
+
+                            
+                        
+                        
+                            c)
+                            
+                                numero delle schede annullate e non utilizzate.
+
 Le schede votate sono raggruppate in plichi separati per categorie e aree disciplinari. In altro plico sono inserite le schede non utilizzate o annullate nel corso delle operazioni elettorali, il verbale e gli elenchi degli elettori. Detti plichi, sigillati e firmati da tutti i componenti del seggio, sono riuniti in un unico plico che viene consegnato agli uffici amministrativi delle istituzioni universitarie che ne curano la trasmissione alla commissione elettorale centrale di cui all'articolo 11.
+
+6.
+                    
+                        
+                            Nei seggi costituiti per la elezione dei rappresentanti del personale tecnico e amministrativo l'ufficio elettorale procede alle seguenti operazioni cui possono assistere gli elettori iscritti presso il seggio:
+ 
+                        
+                        
+                            a)
+                            
+                                le schede rimaste inutilizzate vengono contate e racchiuse in un plico sigillato;
+
+                            
+                        
+                        
+                            b)
+                            
+                                si verifica, sugli elenchi, il numero degli elettori che hanno votato che deve corrispondere al numero delle schede impiegate per la votazione;
+
+                            
+                        
+                        
+                            c)
+                            
+                                si procede allo scrutinio delle schede votate, dopo aver staccato il tagliando;
+
+                            
+                        
+                        
+                            d)
+                            
+                                il presidente proclama il numero dei voti riportati da ciascun candidato;
+
+                            
+                        
+                        
+                            e)
+                            
+                                le schede bianche, quelle annullate e quelle provvisoriamente non assegnate perche' contestate, sono inserite in plichi separati che vengono sigillati;
+
+                            
+                        
+                        
+                            f)
+                            
+                                viene formato e sigillato un plico contenente i plichi di cui alle lettere a), c), e) in cui sono inseriti i tabulati redatti dagli scrutatori, gli elenchi degli elettori e il verbale attestante lo svolgimento delle predette operazioni firmato dal segretario e dal presidente. Tale plico e' inviato alla commissione elettorale locale di cui all'articolo 10.
 
 Per plico o contenitore sigillato, si intende una usuale busta, purche' incollata in modo che non sia possibile aprirla senza lacerare la carta, ovvero altro involucro cartaceo o scatola sulle cui chiusure vengono incollate strisce di carta inamovibili. In ogni caso trasversalmente ai lembi delle chiusure sono apposte le firme dei componenti dell'ufficio di seggio, del segretario e degli elettori che lo richiedono.
 

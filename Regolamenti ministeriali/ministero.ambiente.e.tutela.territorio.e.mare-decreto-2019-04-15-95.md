@@ -7,8 +7,8 @@ urn: urn:nir:ministero.ambiente.e.tutela.territorio.e.mare:decreto:2019-04-15;95
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:40Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -35,6 +35,31 @@ Sono escluse dall'ambito di applicazione del presente decreto le installazioni c
 Ai fini del presente decreto si applicano le definizioni di cui all'articolo 5, comma 1, e quella di cui all'articolo 268, comma 1, lettera l), del decreto legislativo 3 aprile 2006, n. 152.
 
 ## Art. 3. — Obbligo di presentazione della relazione di riferimento
+
+1.
+                    
+                        
+                            Ai sensi dell'articolo 29-ter del decreto legislativo 3 aprile 2006, n. 152, unitamente alla domanda di autorizzazione integrata ambientale e' presentata la relazione di riferimento relativa: 
+ 
+                        
+                        
+                            a)
+                            
+                                agli impianti elencati nell'Allegato XII, alla parte seconda, del decreto legislativo 3 aprile 2006, n. 152, ai punti 1, 3, 4 e 5; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                agli impianti di cui al punto 2 dell'Allegato XII, alla parte seconda, del decreto legislativo 3 aprile 2006, n. 152, ove tali impianti siano alimentati, anche solo parzialmente, da combustibili diversi dal gas naturale; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                alle installazioni per le quali e' verificata la sussistenza dell'obbligo di presentazione della relazione di riferimento ai sensi dell'articolo 4.
 
 ## Art. 4. — Verifica della sussistenza dell'obbligo 
  di presentazione della relazione di riferimento

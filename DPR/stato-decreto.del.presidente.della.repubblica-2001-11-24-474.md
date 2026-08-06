@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: DPR
 vigenza_date: 2024-02-29
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:47:45Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -25,6 +25,39 @@ Acquisiti i pareri resi dalla IX commissione della Camera dei deputati e dalla 8
 Sulla proposta del Presidente del Consiglio dei Ministri e del Ministro per la funzione pubblica, di concerto con i Ministri delle infrastrutture e dei trasporti, dell'interno, della giustizia e dell'economia e delle finanze;
 
 ## Art. 1. — Autorizzazione alla circolazione di prova
+
+1.
+                    
+                        
+                            
+                                ((L'autorizzazione alla circolazione di prova e' rilasciata, per la circolazione su strada per le esigenze previste dall'articolo 1, comma 3, primo periodo, del decreto-legge 10 settembre 2021, n. 121, convertito, con modificazioni, dalla legge 9 novembre 2021, n. 156, esclusivamente ai seguenti soggetti:))
+                            
+                        
+                        
+                            a)
+                            
+                                le fabbriche costruttrici di veicoli a motore e di rimorchi, i loro rappresentanti, concessionari, commissionari e agenti di vendita, i commercianti autorizzati di tali veicoli, ivi comprese le aziende che esercitano attivita' di trasferimento su strada di veicoli non ancora immatricolati da o verso aree di stoccaggio e per tragitti non superiori a 100 chilometri, nonche' gli istituti universitari e gli enti pubblici e privati di ricerca che conducono sperimentazioni su veicoli; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                le fabbriche costruttrici di carrozzerie e di pneumatici; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                le fabbriche costruttrici di sistemi o dispositivi di equipaggiamento di veicoli a motore e di rimorchi, qualora l'applicazione di tali sistemi o dispositivi costituisca motivo di aggiornamento della carta di circolazione ai sensi dell'articolo 236 del decreto del Presidente della Repubblica 16 dicembre 1992, n. 495, e successive modificazioni, i loro rappresentanti, concessionari, commissionari e agenti di vendita, i commercianti autorizzati di veicoli allestiti con tali sistemi o dispositivi di equipaggiamento; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                gli esercenti di officine di riparazione e di trasformazione, anche per proprio conto.
 
 ((
 
@@ -99,6 +132,24 @@ La targa deteriorata e quella relativa alla autorizzazione smarrita, sottratta, 
 
 ## Art. 4. — Abrogazioni
 
+1.
+                    
+                        
+                            Ai sensi dell'articolo 20, comma 4, della legge 15 marzo 1997, n. 59, dalla data di entrata in vigore del presente regolamento sono abrogate le seguenti disposizioni:
+ 
+                        
+                        
+                            a)
+                            
+                                gli articoli 98, commi 1 e 2, e 100, comma 6, del decreto legislativo 30 aprile 1992, n. 285;
+
+                            
+                        
+                        
+                            b)
+                            
+                                l'articolo 254, l'articolo 256, comma 3, le figure III 4/o, III 4/p, III 4/q e III 4/r degli allegati relativi al titolo III, le lettere l), m), n) e o) del paragrafo 1 dell'appendice XII al titolo III, del decreto del Presidente della Repubblica 16 dicembre 1992, n. 495, le lettere b), d), i) ed l), del paragrafo 1, punto 1.3, dell'appendice XIII al titolo III, del decreto del Presidente della Repubblica 16 dicembre 1992, n. 495.
+
 All'articolo 100, comma 7, del decreto legislativo 30 aprile 1992, n. 285, le parole: ", di prova" sono soppresse.
 
 All'articolo 100, comma 13, del decreto legislativo 30 aprile 1992, n. 285, le parole "le disposizioni dei commi 5, 6 e 10" sono sostituite dalle seguenti "le disposizioni dei commi 5 e 10".
@@ -106,6 +157,56 @@ All'articolo 100, comma 13, del decreto legislativo 30 aprile 1992, n. 285, le p
 L'articolo 101, comma 1, secondo periodo, del decreto legislativo 30 aprile 1992, n. 285, e' abrogato per la parte incompatibile con l'articolo 2, comma 5, del presente regolamento.
 
 All'articolo 256 del decreto del Presidente della Repubblica 16 dicembre 1992, n. 495, nella rubrica, le parole ", di prova" sono soppresse.
+
+6.
+                    
+                        
+                            All'articolo 258 del decreto del Presidente della Repubblica 16 dicembre 1992, n. 495:
+ 
+                        
+                        
+                            a)
+                            
+                                nella rubrica, le parole ", di prova" sono soppresse;
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 1, alinea, le parole ", di prova" sono soppresse;
+
+                            
+                        
+                        
+                            c)
+                            
+                                al comma 1, lettera d), le parole "targhe prova degli autoveicoli e loro rimorchi;" sono soppresse;
+
+                            
+                        
+                        
+                            d)
+                            
+                                al comma 1, lettera e), le parole "targhe prova dei ciclomotori e dei motoveicoli, delle macchine agricole e delle macchine operatrici" sono soppresse.
+
+7.
+                    
+                        
+                            All'articolo 260 del decreto del Presidente della Repubblica 16 dicembre 1992, n. 495:
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 1, lettera a), le parole "e delle targhe prova per le stesse" sono soppresse;
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 1, la lettera b) e' soppressa.
 
 All'appendice XIII al titolo III, paragrafo 0, punto 0.2, del decreto del Presidente della Repubblica 16 dicembre 1992, n. 495, le parole ", in prova" sono soppresse.
 

@@ -8,8 +8,8 @@ codice_redazionale: 097G0439
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:42Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -29,6 +29,36 @@ giustizia
 
 ## Art. 1.
 
+1.
+                    
+                        
+                            L'articolo 1 del decreto ministeriale 12 agosto 1992, n. 396, modificato dall'articolo 1 del decreto ministeriale 19 aprile 1994, n. 431, di seguito denominato "regolamento", e' cosi' modificato:
+ 
+                        
+                        
+                            a)
+                            
+                                il comma 1 e' sostituito dal seguente:
+ " 1. Il comitato previsto dall'articolo 5, comma 2, del decreto-legge 31 dicembre 1991, n. 419, convertito, con modificazioni, dalla legge 18 febbraio 1992, n. 172, e successive modificazioni e integrazioni, di seguito denominata ''legge'', e' presieduto dal presidente della Concessionaria di servizi assicurativi pubblici S.p.a. (CONSAP) ovvero, su sua delega, dall'amministratore delegato o, quando questo manchi, da altro membro del consiglio di amministrazione della Concessionaria medesima.";
+
+                            
+                        
+                        
+                            b)
+                            
+                                il comma 4 e' sostituito dal seguente:
+ " 4. Il comitato di cui al comma 1 si avvale, per l'espletamento dei propri compiti, di un ufficio di segreteria tecnica; la CONSAP provvede, sulla base delle indicazioni fornite dal comitato, a dotare l'ufficio dei beni, degli strumenti, del personale e di quant'altro necessario all'espletamento delle funzioni assegnate al comitato dalla normativa vigente. Le relative spese sono poste a carico del Fondo.";
+
+                            
+                        
+                        
+                            c)
+                            
+                                il comma 5 e' sostituito dal seguente:
+ " 5. L'ufficio di segreteria tecnica e' composto di tre rappresentanti, aventi qualifica funzionale non inferiore all'ottava, designati, rispettivamente, dai Ministri dell'interno, di grazia e giustizia e dell'industria, del commercio e dell'artigianato. I componenti della segreteria tecnica, nominati con lo stesso decreto di nomina dei membri del comitato, sono collocati in posizione di comando presso il fondo di solidarieta' per le vittime dell'estorsione. Le amministrazioni interessate assicurano ogni collaborazione per agevolare l'espletamento dei compiti del comitato e dell'ufficio di segreteria tecnica i cui funzionari, in attuazione delle direttive impartite dal presidente della CONSAP, curano la predisposizione dei lavori svolti dal comitato nel periodo compreso tra le riunioni del medesimo, anche per quanto concerne i rapporti con il pubblico.".
+ Avvertenza:
+ Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, comma 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con D.P.R. 28 dicembre 1985, n. 1092, al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
+
 ## Art. 2.
 
 L'articolo 2 del regolamento e' sostituito dal seguente:
@@ -43,12 +73,60 @@ Qualora gli accertamenti o le verifiche da effettuare risultino particolarmente 
 
 ## Art. 3.
 
+1.
+                    
+                        
+                            L'articolo 3 del regolamento e' cosi' modificato:
+ 
+                        
+                        
+                            a)
+                            
+                                nel comma 1, le parole "all'articolo 2, comma 1, lettera b)" sono sostituite dalle parole: "all'articolo 2, comma 5, primo periodo";
+
+                            
+                        
+                        
+                            b)
+                            
+                                il comma 2 e' sostituito dai seguenti:
+ " 2. Esaminata la domanda e la documentazione comunque acquisita, il comitato, ferme restando le determinazioni di cui al comma 1, individua la misura dell'ammontare complessivo dell'elargizione che puo' essere corrisposta in relazione a quanto previsto dall'articolo 2, comma 1, della legge.
+ 2-bis. Se si procede alla concessione dell'elargizione, essa e' corrisposta dopo che nel procedimento penale per il fatto che ha causato il danno e' stato richiesto il rinvio a giudizio dell'imputato o quest'ultimo e' stato presentato o citato a comparire in udienza per il giudizio, ovvero quando tale procedimento e' stato definito con provvedimento di archiviazione o con sentenza anche non definitiva, e comunque quando siano decorsi due anni dalla data del fatto lesivo.
+ 2-ter. Prima dell'adozione dei provvedimenti o della scadenza dei termini indicati nel comma 2-bis, puo' essere disposta la corresponsione, in una o piu' soluzioni, di una provvisionale pari al cinquanta per cento dell'ammontare complessivo dell'elargizione.
+ 2-quater. All'esito della sentenza di primo grado o del provvedimento di archiviazione, il comitato verifica nuovamente, sulla base delle risultanze giudiziarie, la sussistenza dei presupposti per la concessione dell'elargizione e adotta i provvedimenti conseguenziali.".
+
 ## Art. 4.
 
 Il comma 2 dell'articolo 5 del regolamento e' sostituito dal seguente:
  "2. Per ogni riunione del comitato spetta ai membri e ai segretari un gettone di presenza il cui ammontare e' determinato dal consiglio di amministrazione della CONSAP, su proposta del presidente.".
 
 ## Art. 5.
+
+1.
+                    
+                        
+                            L'articolo 11 del regolamento e' cosi' modificato:
+ 
+                        
+                        
+                            a)
+                            
+                                nel comma 1, le parole "o per il tramite dell'ufficio di segreteria tecnica del comitato di cui all'articolo 1", sono sostituite dalle seguenti: ", che la trasmette al comitato di cui all'articolo 1 unitamente alla relazione prevista dall'articolo 2";
+
+                            
+                        
+                        
+                            b)
+                            
+                                dopo il comma 2 e' inserito il seguente:
+ "2-bis. Se l'elargizione e' richiesta anche in relazione al mancato guadagno, alla domanda e' allegata copia delle dichiarazioni dei redditi e delle dichiarazioni IVA del richiedente relative ai due anni precedenti l'evento lesivo ovvero a partire dall'inizio dell'attivita', se piu' recente. Se si tratta di societa', e' allegata altresi' copia dei bilanci relativi al medesimo periodo.";
+
+                            
+                        
+                        
+                            c)
+                            
+                                nel comma 3, le parole "ai commi 1 e 2" sono sostituite con le parole: "ai commi 1, 2 e 2-bis".
 
 ## Art. 6.
 

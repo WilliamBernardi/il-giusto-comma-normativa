@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
 vigenza_date: 2011-06-02
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:41Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO MINISTERIALE
@@ -68,9 +68,126 @@ L'inserimento di un additivo alimentare in una delle categorie dell'allegato I a
 
 I criteri generali per l'approvazione degli additivi alimentari sono riportati nell'allegato II.
 
+5.
+                        
+                            
+                                Le disposizioni del presente decreto non si applicano:
+ 
+                            
+                            
+                                a)
+                                
+                                    ai coadiuvanti tecnologici come definiti all'art. 1, comma 2;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    alle sostanze utilizzate per la protezione di piante e prodotti vegetali;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    agli aromi ed alle sostanze aromatizzanti di cui al decreto legislativo 25 gennaio 1992, n. 107, riguardante l'attuazione delle direttive 88/388/CEE e 91/71/CEE relative agli aromi destinati ad essere impiegati nei prodotti alimentari ed ai materiali di base per la loro preparazione;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    alle sostanze aggiunte ai prodotti alimentari in quanto nutritive quali i minerali, gli oligoelementi o le vitamine.
+
 ## Art. 3. — Etichettatura
 
+1.
+                        
+                            
+                                Gli additivi alimentari non destinati alla vendita al consumatore finale possono essere commercializzati soltanto se il loro imballaggio o i contenitori rechino le seguenti menzioni ben visibili, chiaramente leggibili e indelebili:
+ 
+                            
+                            
+                                a)
+                                
+                                    il nome dell'additivo o degli additivi in ordine ponderale in caso di miscela o il relativo numero CE come previsto negli allegati;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il nome degli additivi conformemente alla lettera a) e l'indicazione di ciascun componente in ordine decrescente di peso quando agli additivi sono incorporati altre sostanze o materiali o ingredienti alimentari per facilitare l'immagazzinamento, la vendita, la stardardizzazione, la diluizione o la dissoluzione di uno o piu' additivi alimentari;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    la dicitura "ad uso alimentare" ovvero "per limitato uso alimentare", oppure un riferimento piu' specifico alla destinazione dell'additivo;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    le condizioni di conservazione e di utilizzazione, qualora necessarie;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    le istruzioni per l'uso, qualora la mancanza possa non consentire un uso corretto dell'additivo;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    la dicitura per l'identificazione del lotto;
+
+                                
+                            
+                            
+                                g)
+                                
+                                    il nome o la ragione sociale e la sede del fabbricante o del confezionatore o di un venditore stabilito nell'Unione Europea;
+
+                                
+                            
+                            
+                                h)
+                                
+                                    l'indicazione della percentuale di ciascun componente che sia soggetto a limitazioni quantitative in un prodotto alimentare ovvero indicazioni adeguate relative alla composizione, per permettere all'acquirente di rispettare eventuali disposizioni che si applicano all'alimento. Se la medesima limitazione quantitativa si applica ad un gruppo di componenti, utilizzati isolatamente o in combinazione, la percentuale globale puo' essere indicata con un'unica cifra;
+
+                                
+                            
+                            
+                                i)
+                                
+                                    la quantita' netta.
+
 Le informazioni di cui al comma 1, lettere b), e), f), g) ed h), possono figurare anche solo sui documenti commerciali relativi alla partita, da fornire alla consegna o prima di essa a condizione che la dicitura "da impiegare unicamente ai fini della produzione alimentare, esclusa la vendita al dettaglio" sia riportata in modo ben visibile sull'imballaggio o sul contenitore.
+
+3.
+                        
+                            
+                                Gli additivi alimentari destinati al consumatore finale possono essere commercializzati soltanto se gli imballaggi o i contenitori rechino ben visibili, chiaramente leggibili o indelebili;
+ 
+                            
+                            
+                                a)
+                                
+                                    le indicazioni di cui al comma 1, esclusa la lettera h);
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il termine minimo di conservazione.
 
 Le informazioni di cui ai commi 1 e 3 devono essere riportate in lingua italiana o in una lingua facilmente comprensibile per gli acquirenti, a meno che questi non siano informati in altro modo.
 
@@ -88,6 +205,24 @@ I coloranti sono sostanze che conferiscono un colore ad un alimento o che ne res
 
 Sono considerati coloranti le preparazioni ottenute da prodotti alimentari e altri materiali di base di origine naturale ricavati mediante procedimento fisico o chimico o combinato che comporti l'estrazione selettiva dei pigmenti in relazione ai loro componenti nutritivi o aromatici.
 
+3.
+                        
+                            
+                                Tuttavia, non sono considerati sostanze coloranti:
+ 
+                            
+                            
+                                a)
+                                
+                                    i prodotti alimentari essiccati o concentrati e gli aromi dotati di un effetto colorante secondario, quali la paprica, la curcuma e lo zafferano, incorporati durante la lavorazione di prodotti alimentari composti per le loro proprieta' aromatiche, di sapidita' o nutritive;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le sostanze coloranti usate per colorare le parti esterne dei prodotti alimentari non destinate ad essere consumate, quali i rivestimenti non commestibili di formaggi o l'involucro non commestibile degli insaccati.
+
 ## Art. 6. — Campo d'applicazione
 
 L'elenco dei coloranti che possono essere aggiunti agli alimenti e' riportato nell'allegato III.
@@ -99,6 +234,24 @@ Le sostanze coloranti possono essere impiegate solo nei prodotti alimentari elen
 L'elenco dei coloranti che possono essere impiegati soltanto in alcuni alimenti e' riportato nell'allegato VI.
 
 L'elenco dei coloranti generalmente ammessi nei prodotti alimentari e le relative condizioni d'impiego e' riportato nell'allegato VII.
+
+6.
+                        
+                            
+                                Le dosi massime d'impiego indicate negli allegati V, VI e VII si riferiscono:
+ 
+                            
+                            
+                                a)
+                                
+                                    ai prodotti alimentari pronti per il consumo, preparati secondo le istruzioni per l'uso;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    alle quantita' di principio colorante contenuto nella preparazione colorante.
 
 Ai fini dell'applicazione del bollo sanitario di cui al D.L.vo 18 aprile 1994, n. 286 e di altri bolli richiesti per i prodotti a base di carne, possono essere usati soltanto i seguenti coloranti: E 155 bruno HT, E 133 blu brillante FCF o E 129 rosso allura AC o una miscela appropriata di E 133 blu brillante FCF e E 129 rosso allura AC.
 
@@ -112,6 +265,24 @@ I coloranti E 123, E 127, E 128, E 154, E 160b, E 161g, E 173 ed E180 non posson
 
 ## Art. 7. — Principio del riporto
 
+1.
+                        
+                            
+                                La presenza di sostanze coloranti e' ammessa:
+ 
+                            
+                            
+                                a)
+                                
+                                    nei prodotti alimentari composti, non elencati nell'allegato IV, a condizione che la sostanza colorante sia consentita in uno degli ingredienti del composto;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    nei prodotti alimentari destinati esclusivamente alla preparazione di un alimento composto e a condizione che quest'ultimo sia conforme alle disposizioni del presente decreto.
+
 ## Art. 8. — Requisiti di purezza
 
 I coloranti di cui all'allegato III devono possedere i requisiti di purezza previsti ((. . . )) dall'allegato XV del presente decreto.
@@ -122,9 +293,45 @@ I coloranti di cui all'allegato III devono possedere i requisiti di purezza prev
 
 Gli edulcoranti sono sostanze utilizzate per conferire un sapore dolce ai prodotti alimentari o per la loro edulcorazione estemporanea.
 
+2.
+                        
+                            
+                                Ai fini delle disposizioni contenute nel presente capo si intende per:
+ 
+                            
+                            
+                                a)
+                                
+                                    "senza zuccheri aggiunti" senza aggiunta di monosaccaridi o di disaccaridi nonche' di qualsiasi prodotto alimentare utilizzato per il suo potere edulcorante;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    "a ridotto contenuto calorico": con contenuto calorico ridotto di almeno il 30% rispetto all'alimento originario o analogo.
+
 Le disposizioni del presente capo non riguardano i prodotti alimentari che hanno proprieta' dolcificanti.
 
 ## Art. 10. — Campo d'applicazione
+
+1.
+                        
+                            
+                                L'allegato VIII riporta l'elenco degli edulcoranti che possono essere:
+ 
+                            
+                            
+                                a)
+                                
+                                    posti in vendita al consumatore;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    impiegati nella fabbricazione di prodotti alimentari, alle condizioni ivi previste.
 
 Gli edulcoranti di cui al comma 1, lettera b), possono essere impiegati esclusivamente nella fabbricazione dei prodotti alimentari elencati nell'allegato VIII e alle condizioni ivi specificate.
 
@@ -142,6 +349,24 @@ Le dosi massime d'impiego indicate nell'allegato VIII si riferiscono ai prodotti
 
 ((
 
+1.
+                        
+                            
+                                La presenza di un edulcorante e' ammessa:
+ 
+                            
+                            
+                                a)
+                                
+                                    nei prodotti alimentari composti senza zuccheri aggiunti o a ridotto contenuto calorico, nei prodotti composti dietetici destinati ad un regime ipocalorico o nei prodotti composti a lunga conservazione, diversi da quelli di cui all'articolo 10, comma 3, nella misura in cui l'edulcorante e' ammesso in uno degli ingredienti che costituiscono i prodotti composti;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    nei prodotti alimentari destinati esclusivamente alla preparazione di un altro prodotto alimentare composto e in misura tale che il prodotto alimentare composto sia conforme alle disposizioni del presente capo.
+
 ))
 
 ## Art. 11. — Deroghe
@@ -154,6 +379,56 @@ Le disposizioni del presente capo non pregiudicano altresi' le disposizioni che 
 
 La denominazione di vendita degli edulcoranti da tavola deve contenere l'indicazione "edulcorante da tavola a base di ..." seguita dal nome delle sostanze dolcificanti di cui sono composti.
 
+2.
+                        
+                            
+                                L'etichettatura degli edulcoranti da tavola contenenti polioli o aspartame o entrambi deve contenere le seguenti avvertenze:
+ 
+                            
+                            
+                                a)
+                                
+                                    polioli: "un consumo eccessivo puo' avere effetti lassativi";
+
+                                
+                            
+                            
+                                b)
+                                
+                                    aspartame: "contiene una fonte di fenilalanina";
+
+                                
+                            
+                            
+                                c)
+                                
+                                    sale di aspartame - acesulfame: "contiene una fonte di fenilalanina".
+
+3.
+                        
+                            
+                                L'etichettatura dei prodotti alimentari contenenti polioli o aspartame o entrambi deve contenere le seguenti avvertenze:
+ 
+                            
+                            
+                                a)
+                                
+                                    prodotti alimentari contenenti polioli in quantita' superiore al 10%: "un consumo eccessivo puo' avere effetti lassativi";
+
+                                
+                            
+                            
+                                b)
+                                
+                                    prodotti alimentari contenenti aspartame: "contiene una fonte di fenilalanina";
+
+                                
+                            
+                            
+                                c)
+                                
+                                    prodotti alimentari contenenti sale di aspartame-acesulfame: "contiene una fonte di fenilalanina".
+
 ## Art. 13. — Requisiti di purezza
 
 Gli edulcoranti di cui all'allegato VIII devono possedere i requisiti di purezza specifici riportati nell'allegato XVI.
@@ -162,11 +437,297 @@ Gli edulcoranti di cui all'allegato VIII devono possedere i requisiti di purezza
 
 ## Art. 14. — Definizioni
 
+1.
+                        
+                            
+                                Si intendono per: 
+
+                            
+                            
+                                a)
+                                
+                                    "conservanti" le sostanze che prolungano il periodo di conservazione dei prodotti alimentari proteggendoli dal deterioramento provocato da microorganismi; 
+                                
+                            
+                            
+                                b)
+                                
+                                    "antiossidanti" le sostanze che prolungano il periodo di conservazione dei prodotti alimentari proteggendoli dal deterioramento provocato dall'ossidazione, come l'irrancidimento dei grassi e le variazioni di colore; 
+                                
+                            
+                            
+                                d)
+                                
+                                    "acidificanti" le sostanze che aumentano l'acidita' di un prodotto alimentare e/o conferiscono ad esso un sapore aspro; 
+                                
+                            
+                            
+                                e)
+                                
+                                    "correttori di acidita'" le sostanze che modificano o controllano l'acidita' o l'alcalinita' di un prodotto alimentare; 
+                                
+                            
+                            
+                                f)
+                                
+                                    "antiagglomeranti" le sostanze che riducono la tendenza di particelle individuali di un prodotto alimentare ad aderire una all'altra; 
+                                
+                            
+                            
+                                g)
+                                
+                                    "antischiumogeni" le sostanze che impediscono o riducono la formazione di schiuma; 
+                                
+                            
+                            
+                                h)
+                                
+                                    "agenti di carica" le sostanze che contribuiscono ad aumentare il volume di un prodotto alimentare senza contribuire in modo significativo al suo valore energetico disponibile; 
+                                
+                            
+                            
+                                i)
+                                
+                                    "emulsionanti" le sostanze che rendono possibile la formazione o il mantenimento di una miscela omogenea di due o piu' fasi immiscibili, come olio e acqua, in un prodotto alimentare; 
+                                
+                            
+                            
+                                j)
+                                
+                                    "sali di fusione" le sostanze che disperdono le proteine contenute nel formaggio realizzando in tal modo una distribuzione omogenea dei grassi e altri componenti; 
+                                
+                            
+                            
+                                k)
+                                
+                                    "agenti di resistenza" le sostanze che rendono o mantengono saldi o croccanti i tessuti dei frutti o degli ortaggi, o che interagiscono con agenti gelificanti per produrre o consolidare un gel; 
+                                
+                            
+                            
+                                l)
+                                
+                                    "esaltatori di sapidita'" le sostanze che esaltano il sapore o la fragranza o entrambi di un prodotto alimentare; 
+                                
+                            
+                            
+                                m)
+                                
+                                    "agenti schiumogeni" le sostanze che rendono possibile l'ottenimento di una dispersione omogenea di una fase gassosa in un prodotto alimentare liquido o solido; 
+                                
+                            
+                            
+                                n)
+                                
+                                    "gelificanti" le sostanze che danno consistenza ad un prodotto alimentare tramite la formazione di un gel; 
+                                
+                            
+                            
+                                o)
+                                
+                                    "agenti di rivestimento" (inclusi gli agenti lubrificanti) le sostanze che, quando vengono applicate sulla superficie esterna di un prodotto alimentare, gli conferiscono un aspetto brillante o forniscono un rivestimento protettivo; 
+                                
+                            
+                            
+                                p)
+                                
+                                    "umidificanti" le sostanze che impediscono l'essiccazione dei prodotti alimentari contrastando l'effetto di una umidita' atmosferica scarsa o che promuovono la dissoluzione di una polvere in un ambiente acquoso; 
+                                
+                            
+                            
+                                q)
+                                
+                                    "amidi modificati" le sostanze ottenute mediante uno o piu' trattamenti chimici di amidi alimentari, che possono aver subito un trattamento fisico o enzimatico e possono essere fluidificati per trattamento acido o alcalino, sbiancati; 
+                                
+                            
+                            
+                                r)
+                                
+                                    "gas d'imballaggio" i gas differenti dall'aria introdotti in un contenitore prima, durante o dopo aver introdotto in tale contenitore un prodotto alimentare; 
+                                
+                            
+                            
+                                s)
+                                
+                                    "propellenti" i gas differenti dall'aria che espellono un prodotto alimentare da un contenitore; 
+                                
+                            
+                            
+                                t)
+                                
+                                    "agenti lievitanti" le sostanze, o combinazioni di sostanze, che liberano gas aumentando il volume di un impasto o di una pastella;
+
+                                
+                            
+                            
+                                u)
+                                
+                                    "sequestranti" le sostanze che formano complessi chimici con ioni metallici; 
+                                
+                            
+                            
+                                v)
+                                
+                                    "stabilizzanti" sono sostanze che rendono possibile il mantenimento dello stato fisico-chimico di un prodotto alimentare; gli stabilizzanti comprendono le sostanze che rendono possibile il mantenimento di una dispersione omogenea di una o piu' sostanze immiscibili in un prodotto alimentare, le sostanze che stabilizzano, trattengono o intensificano la colorazione esistente di un prodotto alimentare e le sostanze che aumentano la capacita' degli alimenti di formare legami, compresa la formazione di legami tra le proteine tali da consentire il legame tra le particelle per la formazione dell'alimento ricostituito; 
+                                
+                            
+                            
+                                w)
+                                
+                                    "addensanti" le sostanze che aumentano la viscosita' di un prodotto alimentare.
+
 Gli agenti di trattamento delle farine, esclusi gli emulsionanti, sono sostanze che vengono aggiunte alla farina o ad un impasto per migliorarne le qualita' di cottura.
+
+3.
+                        
+                            
+                                Ai fini delle disposizioni contenute nel presente capo, le seguenti sostanze non sono considerate additivi alimentari: 
+
+                            
+                            
+                                a)
+                                
+                                    sostanze utilizzate per il trattamento dell'acqua potabile, di cui al decreto del Presidente della Repubblica 24 maggio 1988, n. 236;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    prodotti contenenti pectina e derivati dalla polpa di mela essiccata o dalla scorza di agrumi, o una miscela delle due, per azione di acido diluito seguita da parziale neutralizzazione con sali di sodio o di potassio ("pectina liquida"); 
+                                
+                            
+                            
+                                c)
+                                
+                                    basi per gomma da masticare; 
+                                
+                            
+                            
+                                d)
+                                
+                                    destrina bianca o gialla, amido torrefatto o destrinizzato, amido modificato mediante trattamento acido o alcalino, amido imbianchito, amido modificato fisicamente e amido trattato con enzimi amilolitici; 
+                                
+                            
+                            
+                                e)
+                                
+                                    cloruro d'ammonio; 
+                                
+                            
+                            
+                                f)
+                                
+                                    plasma sanguigno, gelatina alimentare, proteine idrolizzate e loro sali, proteine del latte e glutine; 
+                                
+                            
+                            
+                                g)
+                                
+                                    aminoacidi e loro sali, eccetto l'acido glutammico, glicina, cisteina e cistina e loro sali e che non svolgono funzione di additivi; 
+                                
+                            
+                            
+                                h)
+                                
+                                    caseine e caseinati; 
+                                
+                            
+                            
+                                i)
+                                
+                                    inulina.
 
 ## Art. 15. — Campo d'applicazione
 
 ((2. Gli additivi alimentari elencati nell'allegato IX possono essere impiegati nei prodotti alimentari per gli scopi citati nell'art. 14, commi 1 e 2, ad eccezione di quelli citati nell'allegato X, secondo il principio quanto basta))
+
+3.
+                        
+                            
+                                Salvo laddove sia specificamente previsto, le disposizioni di cui al comma 2 non si applicano ai seguenti prodotti:
+ 
+                            
+                            
+                                a)
+                                
+                                    prodotti alimentari non lavorati;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    miele, come definito nella legge 12 ottobre 1982, n. 752;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    oli e grassi di origine animale o vegetale, non emulsionati;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    burro;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    prodotti lattieri non aromatizzati ottenuti con fermenti vivi;
+
+                                
+                            
+                            
+                                g)
+                                
+                                    acqua minerale naturale, come definita nel decreto legislativo 25 gennaio 1992, n. 105 e acqua di sorgente;
+
+                                
+                            
+                            
+                                h)
+                                
+                                    caffe' (escluso il caffe' istantaneo aromatizzato) ed estratti di caffe';
+
+                                
+                            
+                            
+                                i)
+                                
+                                    te' in foglie non aromatizzato;
+
+                                
+                            
+                            
+                                l)
+                                
+                                    zuccheri, come definiti nella legge 31 marzo 1980, n. 139;
+
+                                
+                            
+                            
+                                n)
+                                
+                                    latticello naturale non aromatizzato (escluso il latticello sterilizzato);
+
+                                
+                            
+                            
+                                o)
+                                
+                                    alimenti per lattanti e per la prima infanzia, come definiti nel decreto legislativo 27 gennaio 1992, n. 111, compresi gli alimenti per lattanti e la prima infanzia in cattive condizioni di salute. Questi prodotti alimentari sono oggetto delle disposizioni riportate nell'allegato XIII;
+
+                                
+                            
+                            
+                                p)
+                                
+                                    prodotti alimentari elencati nell'allegato X che possono contenere soltanto gli additivi ivi citati e gli additivi riportati negli allegati XI e XII alle condizioni specificate negli stessi.
 
 Gli additivi elencati negli allegati XI e XII possono essere impiegati solo nei prodotti alimentari citati in tali allegati e alle condizioni ivi specificate.
 
@@ -182,7 +743,30 @@ L'allegato I del presente decreto riporta i prodotti relativamente ai quali gli 
 
 ## Art. 16. — Principio del riporto
 
+1.
+                        
+                            
+                                La presenza di un additivo alimentare e' ammissibile: 
 
+                            
+                            
+                                a)
+                                
+                                    in un prodotto alimentare composto diverso da quelli indicati nell'art. 15, comma 3, nella misura in cui l'additivo alimentare e' ammesso in uno degli ingredienti che costituiscono il prodotto alimentare composto; 
+                                
+                            
+                            
+                                b)
+                                
+                                    nei prodotti alimentari destinati unicamente alla preparazione di un altro prodotto alimentare composto e in misura tale che il prodotto alimentare composto sia conforme alle disposizioni del presente titolo; 
+                                
+                            
+                            
+                                c)
+                                
+                                    in un prodotto alimentare in cui e' stato aggiunto un aroma nella misura in cui l'additivo alimentare e' ammesso nell'aroma in ottemperanza alle disposizioni del presente decreto ed e' presente nel prodotto alimentare, a condizione che l'additivo alimentare non abbia alcuna funzione tecnologica nel prodotto finito.
+
+((2. Il comma 1 non si applica agli alimenti per lattanti e per la prima infanzia, agli alimenti a base di cereali ed agli altri alimenti destinati ai lattanti e ai bambini, come definiti nel decreto legislativo 27 gennaio 1992, n. 111, salvo se previsto da disposizioni specifiche))
 
 Le disposizioni del comma 1, lettera b), si applicano anche alle basi di gomma da masticare.
 
@@ -200,11 +784,72 @@ Gli additivi di cui agli allegati IX, XI e XII devono possedere i requisiti spec
 
 ## Art. 19. — Norme transitorie
 
+1.
+                        
+                            
+                                La commercializzazione e l'utilizzazione degli additivi non conformi alle disposizioni del presente decreto e' vietata:
+ 
+                            
+                            
+                                a)
+                                
+                                    dal 1 luglio 1996 per i prodotti di cui al titolo II, capi I e II;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    dal 25 marzo 1997 per i prodotti di cui al titolo II, capo III.
+
 I prodotti alimentari e gli edulcoranti da tavola immessi sul mercato o etichettati prima delle date indicate al comma 1, non conformi alle disposizioni del presente decreto, ma conformi alle disposizioni preesistenti, possono essere commercializzati fino allo smaltimento delle scorte.
 
 Gli edulcoranti con requisiti di purezza specifici diversi da quelli riportati nell'allegato XVI, conformi alle disposizioni preesistenti, immessi sul mercato o etichettati prima del 1 luglio 1996, possono essere commercializzati fino allo smaltimento delle scorte.
 
 ## Art. 20. — Abrogazioni
+
+1.
+                        
+                            
+                                Sono abrogati:
+ 
+                            
+                            
+                                a)
+                                
+                                    il decreto ministeriale 22 dicembre 1967, pubblicato nella Gazzetta Ufficiale n. 28 del 1 febbraio 1968, modificato da ultimo con il decreto ministeriale 15 maggio 1995, n. 283, salvo quanto previsto nell'elenco allegato al sopra citato decreto ministeriale 22 dicembre 1967, ((. . . )), C e D;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il decreto ministeriale 31 marzo 1965, pubblicato nel supplemento ordinario alla Gazzetta Ufficiale n. 101 del 22 aprile 1965, modificato da ultimo con il decreto ministeriale 15 maggio 1995, n. 283 salvo le disposizioni riguardanti:
+ 1) i metodi d'analisi degli additivi;
+ 2)((NUMERO SOPPRESSO DAL DECRETO 11 NOVEMBRE 2009, N. 199));
+ 3) l'etichettatura degli agrumi trattati con bifenile, ortofenilfenolo, ortofenilfenato di sodio nonche' degli agrumi e delle banane trattate con tiabendazolo di cui, rispettivamente, ai decreti ministeriali 14 giugno 1968, pubblicato nella Gazzetta Ufficiale n. 173 del 10 luglio 1968 e 15 dicembre 1970, pubblicato nella Gazzetta Ufficiale n. 6 del 9 gennaio 1971;
+ 4) l'art. 13-bis;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il decreto ministeriale 3 maggio 1971, pubblicato nella Gazzetta Ufficiale n. 153 del 18 maggio 1971, salvo le disposizioni riguardanti i requisiti di purezza;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    l'allegato I, capo II, lettera D - antiossidanti, del decreto ministeriale 5 aprile 1988, n. 151;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    il decreto ministeriale 16 marzo 1994, n. 266, salvo gli articoli 4 e 5.
 
 Nella sezione C di cui al comma 1, lettera a) il riferimento ai coloranti di cui alla sezione A/I deve ora intendersi l'allegato III del presente decreto.
 

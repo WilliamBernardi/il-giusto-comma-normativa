@@ -8,8 +8,8 @@ codice_redazionale: 007G0223
 vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:31Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -75,6 +75,31 @@ A decorrere dal 1° gennaio 2010 e' vietato, su navi adibite alla navigazione in
 
 A decorrere dal 1° gennaio 2010 e' vietato l'utilizzo di combustibili per uso marittimo con tenore di zolfo superiore allo 0,1% in massa su navi all'ormeggio. Il divieto si applica anche ai periodi di carico, scarico e stazionamento. La sostituzione dei combustibili utilizzati con combustibili conformi a tale limite deve essere completata il prima possibile dopo l'ormeggio. La sostituzione dei combustibili conformi a tale limite con altri combustibili deve avvenire il piu' tardi possibile prima della partenza. I tempi delle operazioni di sostituzione del combustibile sono iscritti nei documenti di cui al comma 10.
 
+9.
+                    
+                        
+                            I commi 7 e 8 non si applicano:
+ 
+                        
+                        
+                            a)
+                            
+                                alle navi adibite alla navigazione interna, quando utilizzate in mare, per le quali sia stato rilasciato un certificato di conformita' alla Convenzione internazionale per la salvaguardia della vita umana in mare;
+
+                            
+                        
+                        
+                            b)
+                            
+                                alle navi di cui si prevede, secondo orari resi noti al pubblico, un ormeggio di durata inferiore alle due ore;
+
+                            
+                        
+                        
+                            c)
+                            
+                                alle navi all'ormeggio a motori spenti e collegate ad un sistema di alimentazione di energia elettrica ubicato sulla costa.
+
 Tutte le operazioni di cambio dei combustibili utilizzati sulle navi devono essere indicate nel giornale generale e di contabilita' e nel giornale di macchina o nell'inventario di cui agli articoli 174, 175 e 176 del codice della navigazione o in un apposito documento di bordo.
 
 Chi mette combustibili per uso marittimo a disposizione dell'armatore o di un suo delegato, per una nave di stazza non inferiore a 400 tonnellate lorde, fornisce un bollettino di consegna indicante il quantitativo ed il relativo tenore di zolfo, del quale conserva una copia per i tre anni successivi, nonche' un campione sigillato di tale combustibile, firmato da chi riceve la consegna.
@@ -82,12 +107,148 @@ Chi riceve il combustibile conserva il bollettino a bordo per lo stesso periodo 
 
 E' tenuto, presso ciascuna autorita' marittima e, ove istituita, presso ciascuna autorita' portuale, un apposito registro che riporta l'elenco dei fornitori di combustibili per uso marittimo nell'area di competenza, con l'indicazione dei combustibili forniti e del relativo contenuto massimo di zolfo. Tali dati sono comunicati dai fornitori alle autorita' marittime e portuali entro il 31 dicembre 2007. Le variazioni dei dati comunicati sono comunicate in via preventiva. La presenza di nuovi fornitori e' comunicata in via preventiva.
 
+13.
+                    
+                        
+                            I limiti relativi al tenore di zolfo previsti dai commi precedenti non si applicano:
+ 
+                        
+                        
+                            a)
+                            
+                                ai combustibili utilizzati dalle navi da guerra e da altre navi in servizio militare se le rotte non prevedono l'accesso a porti in cui sono presenti fornitori di combustibili conformi a tali limiti o, comunque, se il relativo rifornimento puo' pregiudicare le operazioni o le capacita' operative; in tale secondo caso il comandante informa il Ministero della difesa dei motivi della scelta;
+
+                            
+                        
+                        
+                            b)
+                            
+                                ai combustibili il cui utilizzo a bordo di una nave risulta specificamente necessario per garantire la sicurezza della stessa o di altra nave e per salvare vite in mare;
+
+                            
+                        
+                        
+                            c)
+                            
+                                ai combustibili il cui utilizzo a bordo di una nave e' imposto dal danneggiamento della stessa o delle relative attrezzature, purche' si dimostri che, dopo il verificarsi del danno, sono state assunte tutte le misure ragionevoli per evitare o ridurre al minimo l'incremento delle emissioni e che sono state adottate quanto prima misure dirette ad eliminare il danno. Tale deroga non si applica se il danno e' dovuto a dolo o colpa del comandante o dell'armatore;
+
+                            
+                        
+                        
+                            d)
+                            
+                                ai combustibili utilizzati a bordo di navi che utilizzano tecnologie di riduzione delle emissioni autorizzate ai sensi del comma 14 o del comma 19;
+
+                            
+                        
+                        
+                            e)
+                            
+                                ai combustibili destinati alla trasformazione prima dell'utilizzo.
+
+14.
+                    
+                        
+                            Con decreto direttoriale della competente Direzione generale del Ministero dell'ambiente e della tutela del territorio e del mare, di concerto con la competente Direzione generale del Ministero dei trasporti sono autorizzati, su navi battenti bandiera italiana o nelle acque sotto giurisdizione italiana, esperimenti relativi a tecnologie di riduzione delle emissioni, nel corso dei quali e' ammesso l'utilizzo di combustibili non conformi ai limiti previsti dai commi da 2 a 8. Tale autorizzazione, la cui durata non puo' eccedere i diciotto mesi, e' rilasciata entro tre mesi dalla presentazione della domanda, la quale deve essere accompagnata da una relazione contenente i seguenti elementi:
+ 
+                        
+                        
+                            a)
+                            
+                                la descrizione della tecnologia e, in particolare, del principio di funzionamento, corredata da riferimenti di letteratura scientifica o dai risultati di sperimentazioni preliminari, nonche' la stima qualitativa e quantitativa delle emissioni, degli scarichi e dei rifiuti previsti per effetto della sperimentazione;
+
+                            
+                        
+                        
+                            b)
+                            
+                                la stima che, a parita' di condizioni, le emissioni previste di ossido di zolfo non superino quelle prodotte dall'utilizzo di combustibili conformi ai commi da 2 a 8 in assenza della tecnologia di riduzione delle emissioni;
+
+                            
+                        
+                        
+                            c)
+                            
+                                la stima che, a parita' di condizioni, le emissioni previste di inquinanti diversi dagli ossidi di zolfo, quali ossidi di azoto e polveri, non superino i livelli previsti dalla vigente normativa e, comunque, non superino in modo significativo quelle prodotte dall'utilizzo di combustibili conformi ai commi da 2 a 8 in assenza della tecnologia di riduzione delle emissioni;
+
+                            
+                        
+                        
+                            d)
+                            
+                                uno studio dell'impatto dell'esperimento sull'ambiente marino, con particolare riferimento agli ecosistemi delle baie, dei porti e degli estuari, finalizzato a dimostrarne la compatibilita'; lo studio include un piano di monitoraggio degli effetti prodotti dall'esperimento sull'ambiente marino;
+
+                            
+                        
+                        
+                            e)
+                            
+                                la descrizione delle zone interessate dall'esperimento, le caratteristiche dei combustibili, delle navi e di tutte le strutture da utilizzare per l'esperimento, gli strumenti a prova di manomissione installati sulle navi per la misura in continuo delle emissioni degli ossidi di zolfo e di tutti i parametri necessari a normalizzare le concentrazioni, nonche' i sistemi atti a gestire in conformita' alle vigenti disposizioni i rifiuti e gli scarichi prodotti per effetto della sperimentazione.
+
 L'autorizzazione di cui al comma 14 e' rilasciata previa verifica della completezza della relazione allegata alla domanda e dell'idoneita' delle stime e dello studio ivi contenuti.
 L'autorizzazione prevede il periodo in cui l'esperimento puo' essere effettuato e stabilisce i dati e le informazioni che il soggetto autorizzato deve comunicare al Ministero dell'ambiente e della tutela del territorio e del mare e al Ministero dei trasporti e la periodicita' di tale comunicazione. Stabilisce inoltre la periodicita' con la quale il soggetto autorizzato deve comunicare a tali Ministeri gli esiti del monitoraggio effettuato sulla base del piano di cui al comma 14, lettera d).
+
+16.
+                    
+                        
+                            L'autorizzazione rilasciata ai sensi del comma 14 e' immediatamente revocata se, anche sulla base dei controlli effettuati dall'autorita' di cui all'articolo 296, comma 9:
+ 
+                        
+                        
+                            a)
+                            
+                                gli strumenti di misura e i sistemi di gestione dei rifiuti e degli scarichi di cui al comma 14 non sono utilizzati nel corso dell'esperimento;
+
+                            
+                        
+                        
+                            b)
+                            
+                                la tecnologia, alla luce dei risultati delle misure, non ottiene i risultati previsti dalle stime contenute nella relazione;
+
+                            
+                        
+                        
+                            c)
+                            
+                                il soggetto autorizzato non trasmette nei termini i dati, le informazioni o gli esiti previsti dal comma 15, conformi ai criteri ivi stabiliti.
 
 Nel caso in cui gli esperimenti di cui al comma 14 siano effettuati da navi battenti bandiera italiana in acque sotto giurisdizione di altri Stati dell'Unione europea o da navi battenti bandiera di altri Stati dell'Unione europea in acque sotto giurisdizione italiana, gli Stati interessati individuano opportune modalita' di cooperazione nel procedimento autorizzativo.
 
 Almeno sei mesi prima dell'inizio di ciascun esperimento di cui al comma 14 il Ministero dell'ambiente e della tutela del territorio e del mare ne informa la Commissione europea e l'eventuale Stato estero avente giurisdizione sulle acque in cui l'esperimento e' effettuato. I risultati di ciascun esperimento di cui al comma 14 sono trasmessi dal Ministero dell'ambiente e della tutela del territorio e del mare alla Commissione europea entro sei mesi dalla conclusione dello stesso e sono messi a disposizione del pubblico secondo quanto previsto dal decreto legislativo 19 agosto 2005, n. 195.
+
+19.
+                    
+                        
+                            In alternativa all'utilizzo di combustibili conformi ai limiti previsti dai commi da 2 a 8, e' ammesso, previa autorizzazione, l'utilizzo delle tecnologie di riduzione delle emissioni approvate dal Comitato istituito dal regolamento (CE) n. 2099/2002 del Parlamento europeo e del Consiglio, del 5 novembre 2002.
+L'autorizzazione e' rilasciata con decreto direttoriale della competente Direzione generale del Ministero dell'ambiente e della tutela del territorio e del mare, di concerto con la competente Direzione generale del Ministero dei trasporti entro tre mesi dalla ricezione della relativa domanda, corredata dal documento di approvazione, purche':
+ 
+                        
+                        
+                            a)
+                            
+                                le navi siano dotate di strumenti per la misura in continuo delle emissioni degli ossidi di zolfo e di tutti i parametri necessari a normalizzare le concentrazioni;
+
+                            
+                        
+                        
+                            b)
+                            
+                                le emissioni di ossidi di zolfo risultino costantemente inferiori o uguali a quelle prodotte dall'utilizzo di combustibili conformi ai commi da 2 a 8 in assenza della tecnologia di riduzione delle emissioni;
+
+                            
+                        
+                        
+                            c)
+                            
+                                nelle baie, nei porti e negli estuari, siano rispettati i pertinenti criteri di utilizzo previsti con appositi decreti della competente Direzione generale del Ministero dell'ambiente e della tutela del territorio e del mare, con i quali si recepiscono le indicazioni a tal fine adottate dalla Commissione europea;
+
+                            
+                        
+                        
+                            d)
+                            
+                                l'impatto dei rifiuti e degli scarichi delle navi sugli ecosistemi nelle baie, nei porti e negli estuari, secondo uno studio effettuato da parte di chi intende utilizzare la tecnologia di riduzione delle emissioni, non risulti superiore rispetto a quello prodotto dall'utilizzo di combustibili conformi ai commi da 2 a 8 in assenza di tale tecnologia.
 
 L'autorizzazione rilasciata ai sensi del comma 19 e' immediatamente revocata se, anche sulla base dei controlli effettuati dall'autorita' di cui all'articolo 296, comma 9, non risultano rispettati i requisiti previsti per effetto dell'autorizzazione.».
  5. L'articolo 296 del decreto legislativo 3 aprile 2006, n. 152, e' sostituito dal seguente:

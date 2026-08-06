@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Regolamenti di delegificazione
 vigenza_date: 2006-01-24
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:40:24Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -41,6 +41,98 @@ Il presente regolamento disciplina il procedimento di concessione di autolinee o
 
 La domanda di concessione di autolinee ordinarie e' presentata alla Direzione generale della motorizzazione civile e dei trasporti in concessione. Una copia della domanda deve essere indirizzata per conoscenza agli uffici provinciali operanti nei capoluoghi delle regioni in cui sono siti il capolinea di partenza e quello di arrivo del servizio.
 
+2.
+                    
+                        
+                            La domanda contiene le seguenti indicazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                denominazione dell'impresa richiedente, sede, codice fiscale, e/o partita IVA; generalita' del titolare o del legale rappresentante dell'impresa; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                finalita' di traffico e di interesse pubblico che si intendono soddisfare con l'istituendo servizio; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                modalita' di esercizio proposte; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                percorso e fermate, programma, periodo, orari e prescrizioni di esercizio; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                entita' in termini numerici degli utenti del bacino di carico da soddisfare, in rapporto alla lunghezza del percorso del servizio da istituire, ritenendo indicativo un bacino di utenza di almeno 300.000 abitanti per autolinee con percorso fino a 500 km ed usando un criterio proporzionale per autolinee con percorrenza maggiore; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                dimostrazione chiara e dettagliata dell'impossibilita' di soddisfare in tutto o in parte le accertate esigenze di pubblica utilita' attraverso i servizi di trasporto gia' esistenti; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                servizi gestiti dall'impresa con particolare riguardo a quelli interessanti il bacino di utenza dell'autolinea richiesta; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                mezzi organizzativi e commerciali posseduti, materiale rotabile da adibire allo svolgimento del servizio; 
+
+                            
+                        
+                        
+                            i)
+                            
+                                tariffe che, sulla base dei costi dimostrativi e dei presunti ricavi, l'impresa intende applicare.
+
+3.
+                    
+                        
+                            Alla domanda sono allegati: 
+ 
+                        
+                        
+                            a)
+                            
+                                idonea documentazione del possesso dei requisiti professionali; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                cartina geografica nella quale siano individuati, con colorazioni diverse, il percorso richiesto, il percorso delle eventuali autolinee finitime, il percorso delle linee ferroviarie gestite dalle F.S. S.p.a., da concessionari o da gestioni commissariali governative, il percorso di autolinee di competenza della regione e dei comuni; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                tabelle orarie con l'indicazione della velocita' in base alla quale sono stati calcolati i tempi di percorrenza, tabelle polimetriche tariffarie.
+
 La domanda e' sottoscritta dal titolare o dal legale rappresentante dell'impresa. 
  ((1))
 
@@ -51,6 +143,31 @@ La domanda e' sottoscritta dal titolare o dal legale rappresentante dell'impresa
  - Il regolamento di cui all'art. 10, comma 1 del D.Lgs. 21 novembre 2005, n. 285 e' stato emanato con Decreto 1 dicembre 2006, n. 316, pubblicato in G.U. 15/03/2007, n. 62.
 
 ## Art. 3. — Esame della domanda
+
+1.
+                    
+                        
+                            Sulle domande di concessione di autolinee presentate dalle imprese richiedenti, la Direzione generale della motorizzazione civile e dei trasporti in concessione svolge un'immediata istruttoria preliminare volta a verificare: 
+ 
+                        
+                        
+                            a)
+                            
+                                l'esistenza dei requisiti di cui all'art. 2; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                la concorrenza con i preesistenti servizi ferroviari; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                l'idoneita' dell'istituendo servizio a soddisfare l'interesse pubblico individuato.
 
 In caso di esito negativo dell'istruttoria preliminare, l'amministrazione emette provvedimento di rigetto da comunicarsi all'impresa entro il termine di sessanta giorni dal ricevimento della domanda. Il provvedimento e' comunicato entro lo stesso termine anche ai competenti uffici provinciali della motorizzazione. 
  ((1))
@@ -85,6 +202,46 @@ Nel corso della pubblica riunione, i direttori degli uffici periferici o loro in
 Le amministrazioni e le imprese di cui all'articolo 4, comma 3, possono presentare, entro la data fissata per lo svolgimento della pubblica riunione, opposizioni e domande comparative riguardanti l'istituzione del servizio.
 
 Le amministrazioni e le imprese di cui all'articolo 4, comma 3, possono presentare opposizioni anche nel corso della pubblica riunione, in relazione a fatti o circostanze che emergano nell'ambito della riunione medesima.
+
+3.
+                    
+                        
+                            Le domande comparative di cui al comma 1 del presente articolo devono contenere: 
+ 
+                        
+                        
+                            a)
+                            
+                                la denominazione dell'azienda o dell'impresa proponente, la sede, il codice fiscale e/o la partita IVA, nonche' le generalita' del titolare o del legale rappresentante; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                l'individuazione del servizio; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                i titoli preferenziali eventualmente posseduti, 
+con particolare riguardo ai servizi di linea statali od interferenti; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                gli autoservizi gestiti, in sede locale, in relazione allo specifico bacino di traffico d'interesse; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                i mezzi organizzativi e commerciali posseduti e il materiale rotabile che l'impresa intende adibire al servizio.
 
 Le opposizioni presentate, devono, a pena di inammissibilita', contenere un'adeguata motivazione, e l'indicazione delle ragioni che sconsigliano l'istituzione del servizio. 
  ((1))

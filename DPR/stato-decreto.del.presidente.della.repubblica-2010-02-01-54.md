@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: DPR
 vigenza_date: 2021-12-26
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:47:46Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -38,6 +38,39 @@ Sulla proposta del Ministro degli affari esteri e del Ministro dell'economia e d
 
 ((
 
+1.
+                        
+                            
+                                Ai fini del presente regolamento, si intende per: 
+ 
+                            
+                            
+                                a)
+                                
+                                    "ufficio all'estero": rappresentanza diplomatica, ufficio consolare di I categoria, scuola statale all'estero, delegazione diplomatica speciale individuata ai sensi dell'articolo 35, comma secondo, del decreto del Presidente della Repubblica n. 18 del 1967; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    "titolare dell'ufficio all'estero": capo di un ufficio all'estero; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    "centro interservizi": centro interservizi amministrativi di cui all'articolo 5 del decreto legislativo 15 dicembre 2006, n. 307; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    "coordinatore del settore amministrativo-contabile": persona individuata conformemente all'articolo 3, comma 2;" 
+ e) "CCVT: conto corrente valuta tesoro.
+
 ))
 
 ## Art. 2. — Ambito di applicazione
@@ -53,6 +86,102 @@ Gli istituti italiani di cultura sono disciplinati dalla normativa specifica.
 ((
 
 Il titolare dell'ufficio all'estero, sulla base delle linee di indirizzo annuali, individua e coordina le attivita' dell'ufficio all'estero. Tenuto conto delle risultanze della gestione contabile, egli presenta al Ministero il bilancio preventivo e il conto consuntivo.
+
+2.
+                        
+                            
+                                La funzione di coordinatore del settore amministrativo-contabile e' attribuita: 
+ 
+                            
+                            
+                                a)
+                                
+                                    nelle scuole statali all'estero, al direttore dei servizi generali e amministrativi; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    negli uffici all'estero diversi da quelli di cui alla lettera a), al commissario amministrativo, al commissario amministrativo aggiunto o al vice commissario amministrativo-contabile, individuato con provvedimento del titolare dell'ufficio, tenuto conto dei compiti per cui l'interessato e' stato assegnato all'ufficio all'estero e del grado di complessita' della gestione amministrativo-contabile e patrimoniale della sede.
+
+3.
+                        
+                            
+                                Nell'ambito delle linee di azione individuate dal titolare dell'ufficio all'estero nell'esercizio delle funzioni di indirizzo e vigilanza, il coordinatore del settore amministrativo-contabile: 
+ 
+                            
+                            
+                                a)
+                                
+                                    organizza e coordina le attivita' del settore; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    predispone ipotesi di programmazione per il reperimento e l'impiego delle risorse finanziarie dell'ufficio all'estero; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    e' responsabile delle procedure attinenti alla gestione amministrativo-contabile; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    e' responsabile dell'affidamento e della stipula di convenzioni e contratti; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    attua e promuove la centralizzazione dei contratti all'estero, conformemente alle disposizioni vigenti in materia; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    e' responsabile dell'assunzione degli impegni di spesa, anche pluriennali.
+
+4.
+                        
+                            
+                                Nelle ambasciate dove e' presente il posto di esperto amministrativo o di esperto amministrativo capo e' istituito un centro interservizi, il cui dirigente: 
+ 
+                            
+                            
+                                a)
+                                
+                                    vigila sull'andamento del settore amministrativo-contabile della sede, di cui si avvale anche per le funzioni di coordinamento dell'attivita' amministrativo-contabile degli uffici all'estero situati nell'area di competenza; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    svolge le funzioni di cui al comma 3, lettere d) ed f), per l'ambasciata dove presta servizio; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    svolge le funzioni di cui al comma 3, lettera e), per gli uffici all'estero situati nell'area di competenza; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    sovrintende alla predisposizione del bilancio preventivo e consuntivo per gli uffici all'estero situati nell'area di competenza.
 
 In caso di assenza o impedimento del coordinatore del settore amministrativo-contabile dell'ambasciata in cui e' istituito un centro interservizi, il dirigente ad esso preposto svolge temporaneamente le funzioni di coordinatore del servizio amministrativo-contabile. In caso di assenza o impedimento del coordinatore del settore amministrativo-contabile di altro ufficio all'estero situato nel Paese dove e' istituito un centro interservizi, la Direzione generale per le risorse e l'innovazione, sentita la Direzione generale per l'amministrazione, l'informatica e le comunicazioni, puo' temporaneamente attribuire al dirigente preposto al centro interservizi le funzioni di coordinatore del servizio amministrativo-contabile, previa adozione del provvedimento di cui al comma 7 e fatta salva la responsabilita' di ciascun ufficio all'estero per la verifica della regolare esecuzione dei contratti.
 
@@ -157,6 +286,31 @@ Le spese indicate in bilancio devono essere contenute, nel loro complessivo ammo
 
 La dotazione finanziaria assegnata di parte corrente degli uffici all'estero non puo' essere superiore a quella indicata nello stesso bilancio.
 
+2.
+                        
+                            
+                                La dotazione finanziaria di parte corrente assegnata per ogni singolo anno non puo' comunque essere inferiore all'ottanta per cento di quella assegnata nell'anno precedente al netto di eventuali dotazioni aggiuntive per particolari esigenze, a meno che: 
+ 
+                            
+                            
+                                a)
+                                
+                                    l'ufficio all'estero abbia indicato nel proprio bilancio preventivo una cifra inferiore a tale limite; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    sia stato emanato un provvedimento di soppressione o ristrutturazione dell'ufficio all'estero interessato con decorrenza nell'anno cui la dotazione finanziaria si riferisce; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    siano intervenute riduzioni degli stanziamenti sui capitoli di bilancio interessati.
+
 ## Art. 11. — Dotazione finanziaria ministeriale in conto capitale
 
 La dotazione finanziaria in conto capitale degli uffici all'estero non puo' essere superiore a quella indicata nello stesso bilancio.
@@ -176,6 +330,24 @@ La disciplina di cui al comma 2 si applica esclusivamente ai Titoli I, II e III 
 ## - Capo III Entrate
 
 ## Art. 13. — Riscossione delle dotazioni finanziarie ministeriali
+
+1.
+                        
+                            
+                                Il Ministero, a seguito dell'approvazione del bilancio, dispone l'erogazione delle dotazioni finanziarie ministeriali assegnate, separatamente per parte corrente e conto capitale, di regola in euro, ed in due soluzioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    un'anticipazione fino al settanta per cento della dotazione complessiva annuale finanziata mediante ordinativo diretto entro venti giorni dalla data di assegnazione delle risorse al competente ufficio ministeriale; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    un finanziamento a saldo, comprensivo, ove possibile, delle eventuali integrazioni di cui al comma 4, disposto con ordinativo diretto, di regola entro il 30 settembre dell'esercizio di riferimento.
 
 Il finanziamento del saldo della dotazione e' comunque subordinato all'invio al Ministero da parte dell'ufficio all'estero del conto consuntivo relativo all'esercizio finanziario precedente di cui all'articolo 21.
 
@@ -232,6 +404,52 @@ Per la tenuta dei sistemi di scrittura di cui all'articolo 20, gli uffici all'es
 Fermi restando gli adempimenti previsti dalla normativa vigente a carico dei consegnatari degli uffici all'estero, i prospetti delle variazioni nella consistenza dei beni mobili sono trasmessi annualmente dall'Amministrazione centrale all'ufficio centrale di bilancio.
 
 ## Art. 20. — Sistemi di scritture finanziarie
+
+1.
+                        
+                            
+                                L'ufficio all'estero tiene le seguenti scritture di bilancio: 
+ 
+                            
+                            
+                                a)
+                                
+                                    libro giornale; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    registro di cassa; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    registro conti correnti bancari; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    registro partitario per ciascun conto di entrata e di spesa; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    registro per la rilevazione delle entrate proprie accertate sulla base di contratti ed altri tipi di obbligazioni di terzi; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    registro per la rilevazione degli impegni assunti verso terzi per contratti ed altri tipi di obbligazioni.
 
 ## - Capo VI Conto consuntivo
 
@@ -381,6 +599,45 @@ Alle somme assegnate da parte del Ministero mediante aperture di credito in favo
 Dall'attuazione del presente regolamento non devono derivare nuovi o maggiori oneri a carico del bilancio dello Stato.
 
 ## Art. 39. — Abrogazioni
+
+1.
+                        
+                            
+                                A decorrere dalla data di entrata in vigore del presente regolamento e fatto salvo quanto previsto dall'articolo 37 del presente regolamento, sono abrogati: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il comma 15 dell'articolo 1 del decreto-legge 14 marzo 2005, n. 35, convertito, con modificazioni, dalla legge 14 maggio 2005, n. 80; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    gli articoli 1, 3, 4, 8 e 9, del decreto legislativo 15 dicembre 2006, n. 307; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    l'articolo 75 del decreto del Presidente della Repubblica 5 gennaio 1967, n. 18, e successive modificazioni; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    i commi 1318, 1320 e 1321 dell'articolo 1 della legge 27 dicembre 2006, n. 296; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    il regolamento di cui al decreto del Presidente della Repubblica 22 marzo 2000, n. 120.
 
 ## Art. 40. — Interventi correttivi
 

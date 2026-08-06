@@ -8,8 +8,8 @@ codice_redazionale: 011G0166
 vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:22Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -29,7 +29,43 @@ Il presente decreto stabilisce i requisiti minimi che devono essere previsti neg
 
 ## Art. 2. — Definizioni
 
+1.
+                    
+                        
+                            Ai fini del presente decreto si intende per: 
+ 
+                        
+                        
+                            a)
+                            
+                                vitello: un animale della specie bovina di eta' inferiore a sei mesi; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                azienda: qualsiasi luogo, anche all'aria aperta, in cui gli animali sono allevati o detenuti anche temporaneamente.
+
 ## Art. 3. — Requisiti minimi di allevamento di vitelli
+
+1.
+                    
+                        
+                            Le aziende devono rispettare le seguenti prescrizioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                nessun vitello di eta' superiore alle otto settimane deve essere rinchiuso in un recinto individuale, a meno che il medico veterinario abbia certificato che il suo stato di salute o il suo comportamento richiedano l'isolamento dal gruppo, al fine del trattamento diagnostico e terapeutico. La larghezza del recinto individuale deve essere almeno pari all'altezza al garrese del vitello, misurata quando l'animale e' in posizione eretta, e la lunghezza deve essere almeno pari alla lunghezza del vitello, misurata dalla punta del naso all'estremita' caudale della tuberosita' ischiatica e moltiplicata per 1,1. Ogni recinto individuale per vitelli, salvo quelli destinati ad isolare gli animali malati, non deve avere muri compatti ma pareti divisorie traforate che consentano un contatto diretto, visivo e tattile tra i vitelli; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                per i vitelli allevati in gruppo, lo spazio libero disponibile per ciascun vitello deve essere pari ad almeno 1,5 metri quadrati per ogni vitello di peso vivo inferiore a 150 chilogrammi, ad almeno 1,7 metri quadrati per ogni vitello di peso vivo pari o superiore a 150 chilogrammi, ma inferiore a 220 chilogrammi e ad almeno 1,8 metri quadrati per ogni vitello di peso vivo pari o superiore a 220 chilogrammi.
 
 Le disposizioni di cui al comma 1 non si applicano alle aziende con meno di sei vitelli e ai vitelli mantenuti presso la madre ai fini dell'allattamento.
 

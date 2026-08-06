@@ -8,8 +8,8 @@ vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
 vigenza_date: 2024-05-02
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:30Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -2837,6 +2837,35 @@ b) dopo il nono periodo sono aggiunti i seguenti:
                             ((Art. 3))
 
 ## Art. 4. — (Norme per l'infrastrutturazione digitale degli edifici)
+
+1.
+                    
+                        
+                            Al decreto del Presidente della Repubblica 6 giugno 2001, n. 380, sono apportate le seguenti modificazioni: 
+ 
+
+                        
+                        
+                            a)
+                            
+                                all'articolo 24, comma 1, dopo le parole "negli stessi installati," sono inserite le seguenti: "e, ove previsto, di rispetto degli obblighi di infrastrutturazione digitale"; 
+ 
+b)  all'articolo 24, comma 5, dopo la lettera e), e' aggiunta la
+seguente: "e-bis) attestazione di 'edificio predisposto alla banda ultra larga', rilasciata da un tecnico abilitato per gli impianti di cui all'articolo 1, comma 2, lettera b), del decreto del Ministro dello sviluppo economico 22 gennaio 2008, n. 37, e secondo quanto previsto dalle Guide CEI 306-2, CEI 306-22 e 64-100/1, 2 e 3."; 
+ 
+c) all'articolo 135-bis, dopo il comma 2, e' inserito il seguente
+"2-bis. Per  i nuovi edifici nonche' in caso di nuove opere che
+richiedono il rilascio di permesso di costruire ai sensi dei  commi 1
+e 2,  per i quali la domanda di autorizzazione edilizia sia stata
+presentata dopo la data del  1° gennaio 2022, l'adempimento dei
+prescritti  obblighi di equipaggiamento  digitale degli edifici  e'
+attestato  dall'etichetta necessaria di "edificio predisposto alla
+banda ultra larga",  rilasciata da un tecnico abilitato per gli
+impianti di cui all'articolo 1, comma 2, lettera b), del decreto del Ministro dello sviluppo economico 22 gennaio 2008, n. 37, e secondo quanto previsto dalle Guide CEI 306-2, CEI 306-22 e 64-100/1, 2 e 3, su  istanza del soggetto che ha richiesto il rilascio del permesso di
+costruire o di altro soggetto interessato. Tale attestazione e' necessaria ai fini della segnalazione certificata di cui all'articolo 4. Il Comune entro 90 giorni dalla ricezione della segnalazione e' tenuto a comunicare i dati relativi agli edifici infrastrutturali al Sistema Informativo Nazionale Federato delle Infrastrutture (SINFI) ai sensi del decreto-legge 12 settembre 2014, n.133 convertito con modificazioni dalla legge n. 164 del 2014."; 
+ 
+d) l'articolo 135-bis, comma 3, e' sostituito dal seguente: "3. Gli edifici equipaggiati in conformita' al presente articolo, per i quali
+la domanda di autorizzazione edilizia sia stata presentata prima del 1° gennaio 2022, possono beneficiare ai fini della cessione, dell'affitto o della vendita dell'immobile, dell'etichetta volontaria e non vincolante di 'edificio predisposto alla banda ultra larga', rilasciata da un tecnico abilitato come previsto dal comma 2-bis-".
 
 Entro tre mesi dalla data di entrata in vigore del presente decreto, il Ministro dello sviluppo economico provvede ad adeguare il proprio decreto 22 gennaio 2008, n. 37 ai fini della definizione delle modalita' attuative degli obblighi di infrastrutturazione digitale all'interno degli edifici, con impianti di comunicazione ad alta velocita' in fibra ottica a banda ultra larga di cui all'articolo 135- bis del decreto del Presidente della Repubblica 6 giugno 2001, n. 380.
 

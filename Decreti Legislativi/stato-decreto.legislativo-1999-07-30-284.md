@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
 vigenza_date: 2001-01-01
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:21Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -27,6 +27,38 @@ Acquisto il prescritto parere della commissione parlamentare bicamerale istituit
 Sulla proposta del Presidente del Consiglio dei Ministri e del Ministro del tesoro, del bilancio e della programmazione economica, di concerto con i Ministri per la funzione pubblica e per gli affari regionali;
 
 ## Art. 1. — Natura giuridica e compiti
+
+1.
+                    
+                        
+                            La Cassa depositi e prestiti, amministrazione dello Stato dotata, ai sensi della legge 13 maggio 1983, n. 197, e successive modifiche e integrazioni, di propria personalita' giuridica e di autonomia ordinamentale, organizzativa, patrimoniale e di bilancio, svolge, nel rispetto dell'equilibrio gestionale e garantendo la propria solidita' patrimoniale, le seguenti attivita' e servizi di interesse economico generale:
+ 
+                        
+                        
+                            a)
+                            
+                                ricevere direttamente depositi, con la garanzia dello Stato, da parte di amministrazioni statali, regioni, enti locali e di altri enti pubblici, nonche' di privati nei casi prescritti da leggi o da regolamenti ovvero su disposizione dell'autorita' amministrativa o giudiziaria;
+
+                            
+                        
+                        
+                            b)
+                            
+                                concedere finanziamenti, sotto qualsiasi forma, allo Stato, alle regioni, agli enti locali, agli altri enti pubblici, ai gestori di pubblici servizi, alle societa' a cui la Cassa partecipa e agli altri soggetti indicati dalla legge;
+
+                            
+                        
+                        
+                            c)
+                            
+                                gestire fondi e svolgere attivita' per conto delle amministrazioni pubbliche e, nei casi e per le finalita' previsti dalla legge, di altri soggetti;
+
+                            
+                        
+                        
+                            d)
+                            
+                                svolgere altre attivita' e altri servizi ad essa assegnati.
 
 La Cassa depositi e prestiti puo' esercitare attraverso la costituzione o partecipazione, anche di controllo, in societa' di capitali, attivita' strumentali, connesse o accessorie ai suoi compiti istituzionali.
  Avvertenza:
@@ -67,6 +99,47 @@ La Corte dei conti delibera sul rendiconto della Cassa depositi e prestiti e rif
 
 Sono abrogate le norme del titolo secondo della legge 5 agosto 1978, n. 457, fermo restando quanto stabilito dall'articolo 18, comma 2, della legge 30 aprile 1999, n. 136. Le disponibilita' finanziarie della sezione autonoma per l'edilizia residenziale, di cui all'articolo 12, comma 1, della legge 5 agosto 1978, n. 457, accertate al 31 dicembre 1999, sono devolute al fondo di dotazione della Cassa depositi e prestiti. Il fondo di riserva della sezione autonoma per l'edilizia residenziale, accertato al 31 dicembre 1999, confluisce nel fondo di riserva della Cassa depositi e prestiti.
 Tutte le attivita' e le passivita' della sezione autonoma per l'edilizia residenziale, accertate al 31 dicembre 1999, al netto dei fondi trasferiti alle regioni dall'articolo 61 del decreto legislativo 31 marzo 1998, n. 112, di quelli da destinare ai programmi finanziati direttamente dal CER anteriormente e posteriormente alla data di entrata in vigore della legge 5 agosto 1978, n. 457, le cui leggi di stanziamento sono individuate nell'intesa da raggiungere in seno alla conferenza Statoregioni di cui all'articolo 63 dello stesso decreto legislativo e di quelli di cui all'articolo 11, comma 9, della legge 9 dicembre 1998, n. 431, sono trasferite alla Cassa depositi e prestiti. Le eventuali risorse disponibili sono impiegate nelle forme ed ai tassi da stabilirsi con decreto del Ministro del tesoro, del bilancio a della programmazione economica, su proposta del direttore generale, sentito il consiglio di amministrazione.
+
+2.
+                    
+                        
+                            Sono abrogate tutte le disposizioni incompatibili con il presente decreto legislativo e in particolare sono o rimangono abrogate le seguenti disposizioni:
+ 
+                        
+                        
+                            a)
+                            
+                                libro I, tranne gli articoli 3, 4 e 5; libro II, parte I, titolo I, titolo V, parte II, parte III; libro III, del regio decreto 2 gennaio 1913, n 453;
+
+                            
+                        
+                        
+                            b)
+                            
+                                
+                                    regio decreto-legge 10 novembre 1932, n. 1467, convertito dalla legge 3 aprile 1933, n. 442;
+
+                            
+                        
+                        
+                            c)
+                            
+                                articolo 13, comma 3.1, del decreto-legge 28 febbraio 1983, n. 55, convertito, con modificazioni, dalla legge 26 aprile 1983, n. 131;
+
+                            
+                        
+                        
+                            d)
+                            
+                                
+                                    articoli 4 e 12 della legge 13 maggio 1983, n. 197;
+
+                            
+                        
+                        
+                            e)
+                            
+                                all'articolo 19, comma 8, del decreto legislativo 3 aprile 1993, n. 96, sono soppresse le parole: "e rendiconto separato".
 
 Sono abrogate, a decorrere dalla data di entrata in vigore dei decreti che stabiliscono nuove caratteristiche dei libretti di risparmio postale e dei buoni fruttiferi postali, le disposizioni recate dai capi V e VI, titolo I, libro III del decreto del Presidente della Repubblica 29 marzo 1973, n. 156 e relative norme di esecuzione. I rapporti gia' in essere alla data di entrata in vigore dei medesimi decreti continuano ad essere regolati dalle norme anteriori. Detti decreti possono disciplinare le modalita' diapplicazione delle nuove norme ai rapporti gia' in essere, al fine di consentire una disciplina dei rapporti piu' favorevole ai risparmiatori.
 

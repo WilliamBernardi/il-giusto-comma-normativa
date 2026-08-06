@@ -7,8 +7,8 @@ urn: urn:nir:stato:decreto.legislativo:2015-02-11;9
 vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:29Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -31,6 +31,59 @@ Sulla proposta del Presidente del Consiglio dei ministri e del Ministro della gi
 Il presente decreto attua nell'ordinamento interno le disposizioni della direttiva 2011/99/UE del Parlamento europeo e del Consiglio, del 13 dicembre 2011, relativa al reciproco riconoscimento degli effetti di misure di protezione adottate da autorita' giurisdizionali degli Stati membri, nei limiti in cui tali disposizioni non sono incompatibili con i principi supremi dell'ordinamento costituzionale in tema di diritti fondamentali, nonche' in tema di diritti di liberta' e di giusto processo.
 
 ## Art. 2. — Definizioni
+
+1.
+                        
+                            
+                                Ai fini del presente decreto si intende per: 
+ 
+                            
+                            
+                                a)
+                                
+                                    direttiva: la direttiva 2011/99/UE del Parlamento europeo e del Consiglio del 13 dicembre 2011, sull'ordine di protezione europeo; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    misura di protezione: una decisione adottata in materia penale da un organo giurisdizionale o da altra diversa autorita' competente, che si caratterizzi per autonomia, imparzialita' e indipendenza, di uno Stato membro dell'Unione europea con la quale vengono applicati divieti o restrizioni finalizzati a tutelare la vita, l'integrita' fisica o psichica, la dignita', la liberta' personale o l'integrita' sessuale della persona protetta contro atti di rilevanza penale; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    ordine di protezione europeo: una decisione adottata dall'autorita' giudiziaria di uno Stato membro con la quale, al fine di continuare a tutelare la persona protetta, viene disposto che gli effetti della misura di protezione si estendano al territorio di altro Stato membro in cui la persona protetta risieda o soggiorni o dichiari di voler risiedere o soggiornare; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    persona protetta: la persona fisica oggetto della protezione derivante dalla misura di protezione adottata dallo Stato di emissione; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    persona che determina il pericolo: la persona nei cui confronti sono state emesse le prescrizioni conseguenti all'adozione di una misura di protezione; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    stato di emissione: lo Stato membro al cui interno e' stata adottata la misura di protezione in riferimento alla quale viene chiesta l'adozione di un ordine di protezione europeo; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    stato di esecuzione: lo Stato membro al quale e' stato trasmesso, ai fini del riconoscimento, un ordine di protezione europeo.
 
 ## Art. 3.
 
@@ -56,6 +109,66 @@ All'articolo 282-quater del codice di procedura penale dopo il comma 1 e' aggiun
 L'ordine di protezione europeo e' emesso dal giudice che dispone una delle misure cautelari previste dagli articoli 282-bis e 282-ter del codice di procedura penale.
 
 Il giudice provvede su richiesta della persona protetta che dichiari di soggiornare o risiedere all'interno di altro Stato membro ovvero che manifesti l'intenzione di risiedere o soggiornare in altro Stato membro. La richiesta puo' essere presentata anche dal rappresentante legale della persona protetta. Nella richiesta sono indicati, a pena di inammissibilita', il luogo in cui la persona protetta ha assunto o intende assumere la residenza, la durata e le ragioni del soggiorno.
+
+3.
+                        
+                            
+                                L'ordinanza relativa all'ordine di protezione europeo e' emessa in conformita' al modello dell'allegato A e contiene i seguenti dati: 
+ 
+                            
+                            
+                                a)
+                                
+                                    identita' e cittadinanza della persona protetta, nonche' identita' e cittadinanza del tutore o del rappresentante, se la persona protetta e' minore o legalmente incapace; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    data a decorrere dalla quale la persona protetta risieda o soggiorni ovvero intenda risiedere o soggiornare nello Stato di esecuzione e periodo o periodi di soggiorno, se noti; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    indirizzo, numeri di telefono e fax, nonche' indirizzo di posta elettronica certificata dell'autorita' che ha emesso il provvedimento; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    data di deposito del provvedimento contenente la misura di protezione in base alla quale e' stato emesso l'ordine di protezione europeo; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    sintesi dei fatti e delle circostanze che hanno portato all'adozione della misura di protezione; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    divieti e restrizioni imposti dalla misura di protezione, ivi compreso l'eventuale utilizzo di dispositivo tecnologico di controllo in conformita' alle previsioni di cui all'articolo 275-bis del codice di procedura penale, e relativo periodo di applicazione; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    identita' e cittadinanza della persona che determina il pericolo, nonche' dati di contatto di tale persona; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    eventuale ammissione della persona protetta al patrocinio a carico dello Stato e indicazione della data di emissione del relativo provvedimento.
 
 Avverso il provvedimento che rigetta o dichiara inammissibile la richiesta di emissione dell'ordine di protezione europeo puo' essere proposto ricorso per cassazione. Si applicano le disposizioni di cui all'articolo 22, commi 1, 3, 4, 5 e 6, della legge 22 aprile 2005, n. 69.
 
@@ -85,6 +198,73 @@ Quando le informazioni sono incomplete, il Presidente della Corte ne da' comunic
  di protezione europeo e contenuto del provvedimento
 
 La Corte di appello, riconosciuto l'ordine di protezione europeo, dispone l'applicazione di una delle misure cautelari previste dagli articoli 282-bis e 282-ter del codice di procedura penale, in modo da assicurare la corrispondenza con gli obblighi dettati nella misura di protezione.
+
+2.
+                        
+                            
+                                La Corte d'appello non riconosce l'ordine di protezione europeo quando: 
+ 
+                            
+                            
+                                a)
+                                
+                                    le informazioni fornite dallo Stato di emissione risultano incomplete, anche a seguito della richiesta formulata ai sensi dell'articolo 8, comma 3; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la misura di protezione comporta obblighi non riconducibili a quelli delle misure cautelari regolate dagli articoli 282-bis e 282-ter del codice di procedura penale; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    la misura di protezione e' stata disposta in riferimento a un fatto che non costituisce reato secondo la legislazione nazionale; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    la persona e' stata giudicata in via definitiva per gli stessi fatti da uno degli Stati membri dell'Unione europea purche', in caso di condanna, la pena sia stata gia' eseguita ovvero sia in corso di esecuzione, ovvero non possa piu' essere eseguita in forza delle leggi dello Stato che ha emesso la condanna; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    i fatti per i quali e' stato emesso l'ordine di protezione potevano essere giudicati in Italia e si sia gia' verificata una causa di estinzione del reato o della pena; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    per i fatti per i quali e' stato emesso l'ordine di protezione e' stata pronunciata sentenza di non luogo a procedere, salvo che sussistano i presupposti di cui all'articolo 434 del codice di procedura penale per la revoca della sentenza; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    sussiste una causa di immunita' riconosciuta dall'ordinamento italiano; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    la misura di protezione e' stata applicata dallo Stato di emissione nei confronti di una persona che, alla data di commissione del fatto, non era imputabile secondo la legge italiana; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    la misura di protezione e' stata adottata nello Stato di emissione in riferimento a reati che, in base alla legge italiana, sono considerati commessi per intero o in parte all'interno del territorio dello Stato o in altro luogo a questo equiparato.
 
 Avverso la decisione della Corte d'appello puo' essere proposto ricorso per cassazione. Si applicano le disposizioni di cui all'articolo 22 della legge 22 aprile 2005, n. 69.
 
@@ -118,6 +298,59 @@ Quando l'autorita' giudiziaria dello Stato emette uno dei provvedimenti indicati
 
 A seguito della comunicazione dell'intervenuta modifica delle misure di protezione poste alla base dell'ordine di protezione europeo riconosciuto ai sensi dell'articolo 8 e dell'articolo 9, comma 1, la Corte d'appello, con il procedimento di cui all'articolo 8, puo' revocare o sostituire le misure adottate ovvero modificarne le modalita' di applicazione.
 
+2.
+                        
+                            
+                                La Corte d'appello, con le medesime modalita' stabilite al comma 1, dichiara la cessazione dell'efficacia del riconoscimento dell'ordine di protezione quando: 
+ 
+                            
+                            
+                                a)
+                                
+                                    riceve comunicazione che l'autorita' competente dello Stato di emissione ha annullato o revocato la misura di protezione posta alla base dell'ordine di protezione europeo; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    riceve comunicazione che l'autorita' competente dello Stato di emissione ha modificato il contenuto della misura di protezione e non vi e' corrispondenza tra le prescrizioni imposte e quelle conseguenti all'applicazione delle misure regolate dagli articoli 282-bis e 282-ter del codice di procedura penale; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    sussistono elementi idonei a desumere che la persona protetta non si trova all'interno del territorio nazionale; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    in riferimento al fatto in relazione al quale e' stata disposta la misura di protezione e previa qualificazione dello stesso sulla base della normativa nazionale, sono trascorsi i termini previsti dall'articolo 308 del codice di procedura penale; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    lo Stato di emissione ha comunicato l'esecuzione, nei confronti della persona che determina il pericolo, di una sentenza di condanna a pena detentiva ovvero di una misura cautelare detentiva anche per fatti diversi da quelli posti alla base dell'ordine di protezione europeo; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    risulta che la persona che determina il pericolo si trova sottoposta in Italia a pena detentiva ovvero alla misura cautelare della custodia in carcere in forza di provvedimento emesso dall'autorita' giudiziaria nazionale e in relazione a fatti diversi da quelli posti alla base dell'ordine di protezione europeo; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    nei confronti della persona che determina il pericolo e' stato pronunciato il riconoscimento, ai fini della sua esecuzione in Italia, di una sentenza di condanna a pena detentiva emessa in altro Stato membro, ai sensi del decreto legislativo 7 settembre 2010, n. 161, attuativo della decisione quadro 2008/909/GAI.
+
 La Corte d'appello adotta i provvedimenti previsti dai commi 1 e 2, secondo le forme previste nell'articolo 8, previa, se occorre, richiesta di informazioni allo Stato di emissione.
 
 Qualora la Corte emetta un provvedimento di modifica delle misure adottate in sede di riconoscimento dell'ordine di protezione europeo ovvero dichiari la cessazione dell'efficacia del riconoscimento, provvede a darne comunicazione allo Stato di emissione secondo le modalita' indicate nell'articolo 6.
@@ -142,7 +375,43 @@ Quando il Ministero della giustizia ritiene che i dati ricevuti dallo Stato di e
 
 Quando risulta che i dati trasmessi sono incompleti o inesatti, il Ministero della giustizia procede ad analoga comunicazione alla competente autorita' dello Stato di esecuzione.
 
+4.
+                        
+                            
+                                Oltre ai diritti di cui all'articolo 7 del decreto legislativo 30 giugno 2003, n. 196, l'interessato ha il diritto di ottenere: 
+ 
+                            
+                            
+                                a)
+                                
+                                    che i dati non vengano cancellati ma solo conservati temporaneamente se vi sono fondati motivi di ritenere che la cancellazione possa compromettere un proprio legittimo interesse: i dati cosi' conservati sono trattati ulteriormente solo per lo scopo che ha impedito la loro cancellazione; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    che sia data evidenza alla competente autorita' dello Stato di esecuzione dell'esercizio dei predetti diritti.
+
 I dati personali trattati a norma del presente decreto sono utilizzati esclusivamente per le finalita' di reciproco riconoscimento degli effetti delle misure di protezione. L'ulteriore trattamento e' ammesso a condizione che non sia incompatibile con le suddette finalita' e che le autorita' competenti siano autorizzate a trattare tali dati per le ulteriori finalita' e nel rispetto del principio di necessita' di cui all'articolo 3 del decreto legislativo 30 giugno 2003, n. 196.
+
+6.
+                        
+                            
+                                Si considerano non incompatibili le seguenti finalita': 
+ 
+                            
+                            
+                                a)
+                                
+                                    la prevenzione, l'indagine, l'accertamento o il perseguimento dei reati o l'esecuzione delle sanzioni penali, diversi da quelli per cui i dati sono stati trasmessi o resi disponibili; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la prevenzione di un'immediata e grave minaccia alla sicurezza pubblica.
 
 ## Art. 16. — Disposizioni finanziarie
 

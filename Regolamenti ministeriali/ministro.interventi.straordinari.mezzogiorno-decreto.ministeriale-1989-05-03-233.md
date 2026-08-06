@@ -8,8 +8,8 @@ codice_redazionale: 089G0288
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:39Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO MINISTERIALE
@@ -38,6 +38,23 @@ L'Istituto di credito trasmette, mediante lettera raccomandata con avviso di ric
 
 La domanda, accompagnata dalla documentazione indicata nell'allegato al presente decreto con la precisazione che l'operatore intende usufruire di una sola o entrambe le agevolazioni finanziarie, deve contenere informazioni sui promotori e sull'iniziativa, nonche' indicazioni di eventuali richieste, per il medesimo programma di investimento, di agevolazioni finanziarie previste da altre norme statali, regionali o comunitarie, conformemente alle richieste contenute nel modulo di cui al comma 1 del precedente art. 1.
 
+2.
+                    
+                        
+                            In caso di ampliamento, riattivazione, ammodernamento, ristrutturazione o riconversione, devono essere indicati:
+
+                        
+                        
+                            a)
+                            
+                                gli investimenti preesistenti, calcolati alla data di inizio del programma, al netto degli ammortamenti tecnici e delle rivalutazioni per conguaglio monetario ivi compresi quelli realizzati in base a locazione finanziaria e quelli relativi ad altre unita' produttive, da valutare unitariamente, giusta l'art. 79 del T.U. 6 marzo 1978, n. 218 e il punto 10 della delibera CIPE del 31 maggio 1977;
+                            
+                        
+                        
+                            b)
+                            
+                                devono essere altresi' indicate la data dell'inizio dei lavori per l'attuazione del nuovo programma, o quella prevista, se il programma non e' stato ancora avviato, nonche' le eventuali richieste per il medesimo programma di investimento, di altre agevolazioni finanziarie statali, regionali, comunitarie.
+
 Nel caso in cui l'investimento precedente non sia ancora ultimato, puo' essere ugualmente presentato il programma di spesa relativo alla riattivazione, all'ampliamento, ammodernamento, ristrutturazione o riconversione dell'impianto, sempreche' sia configurabile uno specifico programma di investimento autonomo e distinto dal precedente e giustificato da obiettive esigenze. In tale ipotesi ai fini della determinazione degli scaglioni di investimenti fissi riconoscibili al nuovo programma, si terra' conto della somma degli investimenti fissi preesistenti calcolati ad epoca immediatamente anteriore l'inizio della realizzazione del nuovo programma di investimenti - al netto degli ammortamenti tecnici e delle rivalutazioni per conguaglio monetario - e degli investimenti programmati per il completamento del precedente piano di investimenti, ivi compresi quelli in corso di realizzazione.
 
 La domanda e' ammessa all'istruttoria quando e' redatta sul modulo di cui all'art. 1, comma 1, completo in tutte le sue parti ed accompagnato dalla documentazione di cui all'allegato. Qualora l'Istituto di credito ritenga che la documentazione sia carente, e' tenuto a chiederne la necessaria integrazione entro 30 giorni dalla ricezione della domanda.
@@ -59,6 +76,29 @@ Gli organi deliberanti dell'Istituto a conclusione dell'istruttoria ne approvano
 ## Art. 4. — (Procedure per l'istruttoria e la decisione sulle iniziative estranee alla competenza del CIPI)
 
 L'istruttoria deve essere definita dall'Istituto di credito e inviata, ai sensi dell'ultimo comma del precedente art. 3, entro il termine massimo di cinque mesi dalla data di presentazione della domanda se corredata di tutta la documentazione, o dalla data di completamento della documentazione.
+
+2.
+                    
+                        
+                            L'Agenzia riscontra i seguenti dati:
+
+                        
+                        
+                            a)
+                            
+                                le condizioni di ammissibilita' della domanda, cosi' come indicata nell'art. 2, comma 4, del presente decreto;
+                            
+                        
+                        
+                            b)
+                            
+                                la rispondenza dell'iniziativa alle direttive del CIPI, con particolare riferimento al settore di attivita' produttiva e alla tipologia dell'iniziativa stessa, e ai piani annuali di attuazione, per la parte concernente i settori produttivi agevolabili;
+                            
+                        
+                        
+                            c)
+                            
+                                l'entita' degli investimenti preesistenti e la disponibilita' da parte dell'impresa, di mezzi propri non inferiore al 30% dell'investimento fisso, cosi' come accertati dall'Istituto in base al precedente art. 3.
 
 L'Agenzia delibera, entro il termine massimo di 45 giorni dalla data di ricevimento dell'istruttoria, la concessione del contributo in conto capitale e/o interessi con provvedimento unico.
 
@@ -84,6 +124,53 @@ L'Istituto di credito ove non sia stato gia' stipulato un contratto di finanziam
 
 ## Art. 7. — (Spese ammissibili)
 
+1.
+                    
+                        
+                            Le voci di spesa ammissibili al netto dell'IVA - ivi comprese quelle necessarie per la progettazione, studi di fattibilita', di massima e di valutazione d'impatto ambientale nonche' per collaudi di legge - in misura congrua, in rapporto alla tipologia dell'iniziativa, comprendono:
+
+                        
+                        
+                            a)
+                            
+                                oneri per la concessione edilizia;
+                            
+                        
+                        
+                            b)
+                            
+                                opere murarie e assimilate, infrastrutture specifiche aziendali e sistemazione del terreno a carico dell'operatore;
+                            
+                        
+                        
+                            c)
+                            
+                                impianto di uffici direzionali, amministrativi e tecnici, anche se comuni a piu' imprese, purche' realizzati nei territori di cui all'art. 1 del T.U. 6 marzo 1978, n. 218, ivi compresi gli immobili relativi agli stessi uffici. Le relative spese saranno ammesse alle agevolazioni limitatamente alla parte proporzionata all'attivita' produttiva e al numero degli addetti da occupare negli uffici e negli immobili suindicati;
+                            
+                        
+                        
+                            d)
+                            
+                                impianto di uffici e creazione di una rete distributiva, anche comuni a piu' imprese e anche se realizzati all'estero, purche' riferiti e proporzionati alla commercializzazione di beni prodotti nel Mezzogiorno e provenienti da cicli produttivi delle imprese richiedenti. Le relative spese possono anche essere disgiunte da specifici programmi di investimento e sono da considerare come ammodernamento dell'apparato produttivo preesistente. Se gli uffici e le reti distributive siano realizzati all'esterno di comuni, ove sono localizzati gli impianti produttivi, le relative spese vengono valutate autonomamente ai fini della determinazione delle misure delle agevolazioni. Le spese ammissibili riguardano le opere murarie, ivi comprese quelle relative agli uffici, riferite ad esempio ad impianti di stoccaggio, sale di esposizione e simili, le attrezzature come quelle di collegamento informatico e telematico e apparecchiature elettrocontabili, nonche' i macchinari di movimentazione interna non muniti di targa. Sono esclusi dalle agevolazioni i punti di vendita al dettaglio;
+                            
+                        
+                        
+                            e)
+                            
+                                brevetti e licenze concernenti nuove tecnologie di prodotti e processi produttivi, per la parte in cui sono utilizzati per le attivita' produttive svolte nel Mezzogiorno. Le relative spese di acquisto devono risultare compatibili con il conto economico relativo all'iniziativa agevolata e non possono essere sostenute con versamenti differiti come quelli relativi a percentuali su fatturato, royalties e simili. I brevetti e licenze non possono formare oggetto di trasferimento per un periodo di almeno 5 anni dalla data di acquisto;
+                            
+                        
+                        
+                            f)
+                            
+                                macchinari, impianti ed attrezzature varie, nuovi di fabbrica, comprese adeguate apparecchiature elettrocontabili e i mezzi mobili necessari per il completamento del ciclo di produzione o per il trasporto in conservazione condizionata dei prodotti, purche' dimensionati alla effettiva produzione, indentificabili singolarmente ed a servizio esclusivo dell'impianto oggetto delle agevolazioni;
+                            
+                        
+                        
+                            g)
+                            
+                                acquisto di programmi informatici (c.d. software) commisurato alle esigenze produttive dell'impresa.
+
 Limitatamente alla concessione del credito agevolato, tra le spese ammissibili sono altresi' comprese quelle relative all'acquisto del terreno, delle scorte - sia in magazzino che in corso di lavorazione - di materie prime ed ausiliarie e di semilavorati. La quota delle scorte predette, nel limite massimo di 40 per cento degli investimenti fissi e in misura adeguata alle caratteristiche del ciclo di lavorazione e all'attivita' dell'impresa, sara' calcolata, salve maggiori esigenze documentate dall'imprenditore, sulla base di parametri, distinti per settori e rami industriali, che saranno definiti in apposito decreto ministeriale. In attesa dell'emanazione del predetto decreto la quota delle scorte ammissibili al finanziamento a tasso agevolato e' determinata sulla base dei vigenti criteri.
 
 Gli investimenti fissi, da valutare per la concessione delle agevolazioni nel caso di ampliamento, riattivazione,
@@ -105,6 +192,42 @@ Per le iniziative che non hanno raggiunto nel predetto termine di 24 mesi, un av
 
 ## Art. 8. — (Contenuto del provvedimento di concessione delle agevolazioni,
  obblighi e sanzioni)
+
+1.
+                    
+                        
+                            Il provvedimento di concessione delle agevolazioni previsto dagli artt. 4 e 5 e' comunicato all'operatore, all'Istituto e anche al Ministro, nel caso di iniziative da sottoporre al CIPI. Il provvedimento deve, tra l'altro, stabilire a carico dell'operatore:
+
+                        
+                        
+                            a)
+                            
+                                l'obbligo di comunicare l'avvenuta domanda o concessione di agevolazioni finanziarie statali, regionali o comunitarie ai fini della verifica del rispetto del disposto di cui all'art. 81 del T.U.
+n. 218/78 ed all'art. 9, comma 2, della legge 1 marzo 1986, n. 64;
+                            
+                        
+                        
+                            b)
+                            
+                                l'obbligo a non distogliere dall'uso previsto - senza esplicita autorizzazione da parte dell'Agenzia - per un periodo di almeno 5 anni dalla data di entrata in funzione dell'impianto i macchinari, gli impianti, le attrezzature, i brevetti e le licenze ammessi alle agevolazioni, e a non destinare le opere edilizie oggetto delle agevolazioni stesse ad usi diversi da quelli previsti per un periodo di almeno 10 anni dalla data anzidetta. L'imprenditore dichiarera' con specifico atto in forma scritta la data di entrata in funzione dell'impianto (anche per reparti funzionalmente autonomi); la successiva verifica sara' effettuata in sede di accertamento previsto dall'art. 13. L'obbligo di cui al presente comma resta escluso nei casi in cui la distrazione dall'uso originario sia connessa ad un progetto di ristrutturazione o di riconversione approvato ai sensi della legge 12 agosto 1977, n. 675, in quanto applicabile;
+                            
+                        
+                        
+                            c)
+                            
+                                l'osservanza nei confronti dei lavoratori dipendenti delle norme sul lavoro e dei contratti collettivi di lavoro ai fini dell'applicazione dell'art. 35 del T.U. 6 marzo 1978 n. 218;
+                            
+                        
+                        
+                            d)
+                            
+                                l'obbligo di ultimare l'iniziativa entro 24 mesi dalla comunicazione del provvedimento all'operatore. Eventuali proroghe, per giustificati motivi, possono essere concesse dall'Agenzia per un ulteriore periodo massimo di 24 mesi. Rimangono salvi gli eventuali maggiori termini previsti nel provvedimento adottato dall'Agenzia;
+                            
+                        
+                        
+                            e)
+                            
+                                l'osservanza di eventuali norme settoriali, anche comunitarie.
 
 In caso di infrazione agli obblighi di cui alla lettera b) del precedente comma, la cui verifica e' effettuata dall'Agenzia con congrua periodicita' presso l'impianto, l'operatore e' tenuto alla restituzione pro-quota del contributo in conto capitale e contemporaneamente cessa la corresponsione del contributo in conto interessi all'Istituto di credito da parte dell'Agenzia. Questa provvede a recuperare, nei confronti dell'operatore inadempiente, pro-quota, le somme corrispondenti al contributo in conto interessi, corrisposto dall'Agenzia all'Istituto.
 
@@ -146,6 +269,36 @@ Detta anticipazione e' pari al 50% del contributo in conto capitale per le inizi
 Per le iniziative che realizzino a raggiungano investimenti fissi compresi fra i dieci miliardi ed il limite massimo dello scaglione di cui alla lettera b) del comma 7 dell'art. 9 della legge 1 marzo 1986 n. 64, l'anticipazione e' erogata nella misura del 50% del contributo in conto capitale per i primi 10 miliardi di lire e del 25% sulla parte eccedente.
 
 ## Art. 11. — (Modalita' delle ulteriori erogazioni del contributo in conto capitale)
+
+1.
+                    
+                        
+                            Per le iniziative che realizzino o raggiungano investimenti fissi non superiori al limite massimo dello scaglione di cui all'art. 9, comma 7, lettera b, della legge 1 marzo 1986, n. 64 l'Agenzia eroga, dopo l'acquisizione della documentazione finale di spesa di cui al successivo art. 12, una quota di contributo in conto capitale pari al 90% di quello spettante sugli investimenti rendicontati e comunque, non superiore all'impegno assunto nel provvedimento di concessione.
+Detta erogazione e' subordinata alla presentazione e, da parte dell'operatore, della seguente specifica documentazione:
+
+                        
+                        
+                            a)
+                            
+                                dichiarazione sostitutiva di atto notorio dell'imprenditore o del legale rappresentante della societa' che tutta la documentazione di spesa presentata e' regolare e coerente con il programma oggetto dell'agevolazione;
+                            
+                        
+                        
+                            b)
+                            
+                                nel caso di realizzazione di opere murarie e assimilate, certificato di agibilita' o attestazione da parte del Comune competente di conformita' alla concessione edilizia o il nulla-osta alla utilizzazione; l'operatore dovra' indicare nelle richieste di rilascio dei certificati l'uso al quale essi sono destinati;
+                            
+                        
+                        
+                            c)
+                            
+                                certificato dalla competente autorita' che l'impianto non produce inquinamento; qualora, entro 90 giorni dalla presentazione della richiesta di certificato, non sia stato comunicata alcuna pronuncia sulla richiesta stessa, l'operatore puo' presentare la dichiarazione di un tecnico, iscritto all'albo professionale ed esercente la libera professione, relativamente all'assenza di cause di inquinamento imputabili all'impianto realizzato;
+                            
+                        
+                        
+                            d)
+                            
+                                atto di obbligno di restituire l'eventuale importo non dovuto, rispetto a quello che verra' accertato dalla Agenzia a seguito di verifica dell'impianto in sede di liquidazione finale, maggiorato degli interessi calcolati al tasso di riferimento dalla data dell'atto previsto dal precedente art. 8, comma 5.
 
 I certificati, previsti alla lett. b del comma precedente, possono essere sostituiti da una dichiarazione di conformita' delle opere alla normativa edilizia e urbanistica, da parte dell'imprenditore e del legale rappresentante della societa', se entro 90 giorni dalla presentazione delle richieste dei certificati, non siano state comunicate le pronunce sulle richieste medesime.
 
@@ -202,6 +355,23 @@ Sono fatte salve le domande, presentate anteriormente alla entrata in vigore del
 ## Art. 17. — (Iniziative agevolate in base alla normativa anteriore)
 
 Le norme di cui all'art. 7, comma 7, del presente decreto, si applicano anche alle iniziative agevolate in base alla normativa precedente l'entrata in vigore della legge 1 marzo 1986, n. 64.
+
+2.
+                    
+                        
+                            Alle stesse iniziative e' applicabile l'art. 7, commi 8, 9 e 10, con le seguenti variazioni:
+
+                        
+                        
+                            a)
+                            
+                                il termine di 24 mesi decorre dalle date 9 maggio e 9 novembre 1976, indicate nell'art. 151 del T.U. 6 marzo 1978, n. 218;
+                            
+                        
+                        
+                            b)
+                            
+                                l'avanzamento deve essere pari almeno al 50% dell'investimento progettato.
 
 ## Art. 18. — (Abrogazione di norme incompatibili)
 

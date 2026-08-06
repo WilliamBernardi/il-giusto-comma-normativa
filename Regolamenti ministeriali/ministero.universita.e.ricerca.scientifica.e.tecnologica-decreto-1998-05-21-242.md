@@ -8,8 +8,8 @@ codice_redazionale: 098G0288
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:42Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -40,4 +40,30 @@ Le disposizioni di cui al comma 1 prevedono le modalita' di partecipazione del p
 I contratti di cui all'articolo 1 sono stipulati dal rettore secondo le norme degli statuti e dei regolamenti delle universita' e degli istituti di istruzione universitaria statali; hanno durata annuale e sono rinnovabili per non piu' di sei anni. Non danno luogo a diritti in ordine all'accesso nei ruoli delle universita' e degli istituti di istruzione universitaria statali.
 
 ## Art. 3. — Disapplicazione di norme
+
+1.
+                    
+                        
+                            Per ciascuna universita' o istituto di istruzione universitaria statale, alla data di entrata in vigore delle disposizioni emanate dall'ateneo ai sensi dell'articolo 2, si intendono non applicabili:
+ 
+                        
+                        
+                            a)
+                            
+                                gli articoli 25 e 100, lettera d), del decreto del Presidente della Repubblica 11 luglio 1980, n. 382;
+
+                            
+                        
+                        
+                            b)
+                            
+                                l'articolo 4, commi 6 e 7, del decreto del Presidente della Repubblica 10 marzo 1982, n. 162;
+
+                            
+                        
+                        
+                            c)
+                            
+                                l'articolo 1, comma 32, della legge 28 dicembre 1995, n. 549,
+ nonche' gli articoli 94, comma 3, 95, comma 1, del decreto del Presidente della Repubblica 11 luglio 1980, n. 382, e 14, comma 2, del decreto del Presidente della Repubblica 10 marzo 1982, n. 162, limitatamente alla locuzione "professori a contratto".
 

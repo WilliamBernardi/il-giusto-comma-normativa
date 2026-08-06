@@ -8,8 +8,8 @@ codice_redazionale: 011G0189
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:39Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DEL CONSIGLIO DEI MINISTRI
@@ -26,6 +26,45 @@ Sulla proposta del Ministro dell'economia e delle finanze, di concerto con i Min
 ## Art. 1. — Ambito di applicazione
 
 Il presente decreto si applica ai procedimenti amministrativi di competenza del Ministero dell'economia e delle finanze, della Scuola Superiore dell'economia e delle finanze, dell'Amministrazione autonoma dei monopoli di Stato, della Guardia di finanza e dei fondi previdenziali e assistenziali del personale dipendente dalla Guardia di finanza (Cassa ufficiali e Fondo di previdenza per ispettori, sovrintendenti, appuntati e finanzieri).
+
+2.
+                    
+                        
+                            I termini di conclusione dei procedimenti, non superiori a 90 giorni sono determinati nelle allegate tabelle, di seguito elencate, che costituiscono parte integrante del presente regolamento: 
+ 
+                        
+                        
+                            a)
+                            
+                                Tabella A - Ministero dell'economia e delle finanze; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                Tabella B - Scuola superiore dell'economia e delle finanze; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                Tabella C - Amministrazione autonoma dei monopoli di Stato; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                Tabella D - Guardia di finanza; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                Tabella E - Fondi previdenziali e assistenziali del personale dipendente dalla Guardia di finanza (Cassa ufficiali e Fondo di previdenza per il personale appartenente ai ruoli ispettori, sovrintendenti, appuntati e finanzieri).
 
 Nelle more dell'adozione, da parte delle amministrazioni indicate al comma 1, dei provvedimenti applicativi dell'articolo 4 della legge 7 agosto 1990, n. 241, le unita' organizzative responsabili dei procedimenti amministrativi sono quelle indicate, a titolo meramente ricognitivo, per ciascun procedimento, nelle allegate tabelle.
 

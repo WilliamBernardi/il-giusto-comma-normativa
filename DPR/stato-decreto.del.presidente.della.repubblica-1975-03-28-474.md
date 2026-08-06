@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: DPR
 vigenza_date: 2011-02-17
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:47:42Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -59,6 +59,38 @@ Restano ferme le competenze degli organi statali in ordine:
 
 Al fine di assicurare il coordinamento tra le funzioni in materia di igiene e sanita' pubblica spettanti alle province autonome di Trento e di Bolzano e quelle spettanti agli organi statali ai sensi dell'articolo 3, con particolare riferimento agli animali vivi, ai prodotti alimentari di origine animale, ai prodotti alimentari di origine non alimentare e ai prodotti non destinati all'alimentazione ma soggetti a controllo sanitario, sia di origine comunitaria movimentati fra gli Stati membri sia provenienti da Paesi terzi, nel territorio della regione Trentino-Alto Adige e' comunque assicurata la costituzione di una sede dell'Ufficio veterinario per gli adempimenti degli obblighi comunitari (UVAC) e di una sezione distaccata dell'Ufficio di sanita' marittima, aerea e di frontiera (USMAF). Salvo quanto espressamente previsto da questo articolo restano ferme le competenze dello Stato nelle materie previste dal medesimo articolo.
 
+2.
+                    
+                        
+                            Per i fini di cui al comma 1 e' stipulata apposita intesa tra il Ministro competente e i Presidenti delle province autonome di Trento e di Bolzano. L'intesa prevede in particolare:
+ 
+                        
+                        
+                            a)
+                            
+                                l'individuazione, entro la data stabilita dall'intesa medesima, dell'ubicazione della sede dell'UVAC competente per il territorio delle province autonome di Trento e di Bolzano; tale sede e' resa operativa entro centottanta giorni dall'individuazione;
+
+                            
+                        
+                        
+                            b)
+                            
+                                l'istituzione nell'ambito dell'USMAF competente per il territorio delle province autonome di Trento e di Bolzano di un'apposita sede distaccata ubicata nel territorio della regione per lo svolgimento di tutti i compiti riferiti al predetto ambito territoriale; tale sede distaccata puo' essere collocata presso l'UVAC previsto alla lettera a);
+
+                            
+                        
+                        
+                            c)
+                            
+                                i criteri e le modalita' con i quali i competenti uffici dello Stato possono avvalersi, anche a tempo parziale, previa intesa fra le amministrazioni competenti, di personale delle province autonome o delle relative aziende sanitarie locali, in possesso dei requisiti richiesti dall'ordinamento statale, da utilizzare nell'ambito delle strutture previste alle lettere a) e b); al predetto personale e' comunque garantito il mantenimento del trattamento economico in godimento. L'intesa regola i rapporti organizzativi ed economici conseguenti, comunque senza maggiori oneri a carico della finanza pubblica;
+
+                            
+                        
+                        
+                            d)
+                            
+                                gli uffici statali previsti dalle lettere a) e b) si avvalgono, di norma, delle prestazioni fornite dalle competenti strutture specialistiche e diagnostiche delle aziende sanitarie locali delle province autonome, degli Istituti zooprofilattici sperimentali e delle Agenzie provinciali per la protezione dell'ambiente competenti per territorio; per tale fine i responsabili degli uffici previsti alle lettere a) e b) e quelli dei predetti enti e agenzie concordano appositi programmi operativi anche mediante scambio di note; i corrispettivi per l'avvalimento sono determinati sulla base di quanto previsto dai rispettivi tariffari.
+
 ))
 
 ## Art. 4.
@@ -73,6 +105,60 @@ La misura e le modalita' dei rimborsi saranno determinate con decreto del Minist
 
 Al fine di definire modalita' e strumenti della collaborazione prevista al comma 1 le province autonome di Trento e di Bolzano stipulano apposite convenzioni con il Ministero della giustizia.
 Resta comunque ferma la competenza degli organi statali in materia di sicurezza all'interno delle strutture sanitarie ubicate negli istituti penitenziari e nell'ambito dei luoghi esterni di cura ove siano ricoverati i detenuti e gli internati.
+
+3.
+                    
+                        
+                            Le convenzioni indicate al comma 2 definiscono in particolare:
+ 
+                        
+                        
+                            a)
+                            
+                                
+                                    ((LETTERA ABROGATA DAL D.LGS. 19 NOVEMBRE 2010, N. 252));
+
+                            
+                        
+                        
+                            b)
+                            
+                                i settori di intervento nei quali sono attivate specifiche azioni volte al reinserimento sociale e lavorativo dei detenuti e degli internati, prevedendo specifiche modalita' per l'adozione di programmi periodici delle attivita';
+
+                            
+                        
+                        
+                            c)
+                            
+                                specifici progetti e iniziative per l'attuazione dei trattamenti alternativi alla detenzione, nonche' per l'adozione degli interventi assistenziali e preventivi;
+
+                            
+                        
+                        
+                            d)
+                            
+                                le attivita' di formazione e di aggiornamento degli operatori delle amministrazioni interessate e del personale volontario;
+
+                            
+                        
+                        
+                            e)
+                            
+                                specifici progetti anche di investimento per assicurare le funzionalita' delle strutture carcerarie per l'attuazione degli interventi previsti dal presente articolo;
+
+                            
+                        
+                        
+                            f)
+                            
+                                le procedure e le forme di programmazione, coordinamento e di verifica delle attivita' e gli obblighi di reciproca informazione;
+
+                            
+                        
+                        
+                            g)
+                            
+                                i rapporti finanziari connessi all'attuazione della convenzione, senza maggiori oneri a carico della finanza pubblica.
 
 ## Art. 5.
 

@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
 vigenza_date: 1991-11-14
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:42Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -38,6 +38,73 @@ Il presente regolamento non si applica ai mediatori marittimi, ai mediatori pubb
 
 ## Art. 3.
 
+1.
+                    
+                        
+                            Il ruolo di cui all'art. 2 della legge e' distinto nelle seguenti sezioni:
+ 
+                        
+                        
+                            a)
+                            
+                                agenti immobiliari;
+
+                            
+                        
+                        
+                            b)
+                            
+                                agenti merceologici;
+
+                            
+                        
+                        
+                            c)
+                            
+                                agenti con mandato a titolo oneroso;
+
+                            
+                        
+                        
+                            d)
+                            
+                                agenti in servizi vari.
+
+2.
+                    
+                        
+                            Nella sezione sub 
+                        
+                        
+                            a)
+                            
+                                sono iscritti gli agenti che svolgono attivita' per la conclusione di affari relativi ad immobili ed aziende; in quella sub b), gli agenti che svolgono attivita' per la conclusione di affari concernenti merci, derrate e bestiame; nella sezione sub c), gli agenti muniti di mandato a titolo oneroso; in quella sub d) vengono iscritti gli agenti che svolgono attivita' per la conclusione di affari relativi al settore dei servizi, nonche' tutti gli altri agenti che non trovano collocazione in una delle sezioni precedenti.
+
+3.
+                    
+                        
+                            Ciascuna sezione del ruolo deve indicare:
+ 
+                        
+                        
+                            a)
+                            
+                                nome, cognome, luogo e data di nascita, residenza dell'iscritto;
+
+                            
+                        
+                        
+                            b)
+                            
+                                data dell'iscrizione ed estremi della relativa deliberazione;
+
+                            
+                        
+                        
+                            c)
+                            
+                                se l'attivita' dell'iscritto e' svolta in nome proprio o per conto di una impresa organizzata.
+
 Nel ruolo sono altresi' annotati i provvedimenti disciplinari, amministrativi e penali.
 
 In base al ruolo le camere di commercio istituiscono uno schedario degli iscritti con l'indicazione della sezione o delle sezioni di iscrizione.
@@ -55,6 +122,31 @@ Possono accedere all'esame previsto dall'art. 2, comma 3, lettera e), della legg
 Per l'iscrizione nel ruolo l'interessato deve presentare domanda, in regola con l'imposta di bollo, alla camera di commercio, industria, artigianato e agricoltura della provincia nella quale risiede, o nella quale ha eletto domicilio se trattasi di cittadino della Comunita' economica europea, indicando la sezione o le sezioni del ruolo in cui intende essere iscritto.
 
 Nella domanda l'aspirante deve dichiarare di avere un'eta' non inferiore agli anni 18; di essere cittadino italiano o cittadino di uno degli Stati membri della Comunita' economica europea, ovvero straniero residente nel territorio della Repubblica italiana; di aver eletto domicilio in un comune della provincia se cittadino di uno degli Stati membri della Comunita' economica europea; di non svolgere attivita' in qualita' di dipendente da persone, associazioni o enti pubblici o privati, fatta eccezione per l'impiego presso imprese o societa' aventi per oggetto l'esercizio dell'attivita' di mediazione; di non svolgere attivita' per la quale e' prescritta l'iscrizione in albi, ruoli, ordini, registri o elenchi; di aver assolto agli impegni derivanti dalle norme relative agli obblighi scolastici vigenti al momento della sua eta' scolare.
+
+3.
+                    
+                        
+                            Alla domanda devono essere allegati:
+ 
+                        
+                        
+                            a)
+                            
+                                certificato di residenza per i cittadini italiani e per quelli extracomunitari;
+
+                            
+                        
+                        
+                            b)
+                            
+                                certificato di cittadinanza per i cittadini italiani e per quelli di uno degli Stati membri della CEE;
+
+                            
+                        
+                        
+                            c)
+                            
+                                certificazione relativa al superamento dell'esame previsto dall'art. 2, lettera e), della legge, oppure titolo di scuola secondaria di secondo grado d'indirizzo commerciale o certificato di laurea in materie commerciali o giuridiche in originale o in copia autentica. I cittadini degli Stati della CEE e gli stranieri debbono allegare l'originale o una copia autenticata di un titolo di studio che il Ministero della pubblica istruzione abbia riconosciuto equipollente a uno di quelli innanzi indicati.
 
 La commissione di cui all'art. 7 della legge provvede d'ufficio ad accertare i requisiti indicati nell'art. 2, comma 3, lettere b) ed f), della legge stessa, nonche' ad espletare gli accertamenti previsti dalla normativa contro la delinquenza mafiosa.
 
@@ -147,9 +239,84 @@ I moduli o formulari indicati nell'art. 5, comma 4, della legge, devono essere c
 
 ## Art. 18.
 
+1.
+                    
+                        
+                            L'agente che viola i suoi doveri e manca a qualcuno degli obblighi che la legge gli impone per la sua attivita' e' soggetto alle seguenti sanzioni disciplinari:
+ 
+                        
+                        
+                            a)
+                            
+                                la sospensione;
+
+                            
+                        
+                        
+                            b)
+                            
+                                la cancellazione;
+
+                            
+                        
+                        
+                            c)
+                            
+                                la radiazione.
+
 Le sanzioni amministrative pecuniarie previste dalla legge e dal presente regolamento sono irrogate dall'ufficio provinciale dell'industria, del commercio e dell'artigianato ai sensi della legge 24 novembre 1981, n. 689 e dal decreto del Presidente della Repubblica 22 luglio 1982, n. 571, ed i proventi sono devoluti allo Stato.
 
 ## Art. 19.
+
+1.
+                    
+                        
+                            La cancellazione dal ruolo e' pronunciata:
+ 
+                        
+                        
+                            a)
+                            
+                                nei casi di incompatibilita' riportati nell'art. 5, comma 3, della legge;
+
+                            
+                        
+                        
+                            b)
+                            
+                                quando viene a mancare uno dei requisiti o delle condizioni previsti dall'art. 2, comma 3, della legge;
+
+                            
+                        
+                        
+                            c)
+                            
+                                su richiesta dell'interessato.
+
+2.
+                    
+                        
+                            La radiazione dal ruolo si verifica:
+ 
+                        
+                        
+                            a)
+                            
+                                nei confronti degli agenti che abbiano turbato gravemente il normale andamento del mercato;
+
+                            
+                        
+                        
+                            b)
+                            
+                                nei confronti degli agenti che, nel periodo di sospensione loro inflitta, compiano atti inerenti al loro ufficio;
+
+                            
+                        
+                        
+                            c)
+                            
+                                nei confronti di coloro ai quali sia stata irrogata per tre volte la misura della sospensione.
 
 La sospensione e' inflitta per un periodo non superiore a sei mesi, nei casi meno gravi di cui alla lettera a) del comma 2 e nei casi di irregolarita' accertate nell'esercizio dell'attivita' di mediazione.
 
@@ -162,6 +329,22 @@ L'adozione dei provvedimenti disciplinari e' preceduta dalla citazione dell'inte
 Del procedimento disciplinare va redatto apposito processo verbale sottoscritto dal presidente e dal segretario. La decisione motivata viene comunicata all'interessato entro i quindici giorni successivi dalla data stessa mediante lettera raccomandata con avviso di ricevimento.
 
 Le deliberazioni relative ai provvedimenti disciplinari sono affisse all'albo camerale.
+
+4.
+                    
+                        
+                            La cancellazione dal ruolo di cui ai punti 
+                        
+                        
+                            a)
+                            
+                                e
+                            
+                        
+                        
+                            b)
+                            
+                                dell'art. 19 e' pronunciata previa comunicazione all'interessato, con l'assegnazione di un termine non inferiore a quindici giorni per le controdeduzioni.
 
 Nel caso specifico dall'art. 19, comma 1, lettera c), la commissione di cui all'art. 7 della legge provvede entro sessanta giorni dalla richiesta.
 

@@ -7,8 +7,8 @@ urn: urn:nir:stato:decreto.del.presidente.della.repubblica:2025-12-04;204
 vigente: true
 source: normattiva-opendata
 collection: DPR
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:48:06Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -37,6 +37,24 @@ AMUS AM
 Ai sensi dell'articolo 46, comma 1-bis, del decreto legislativo 29 maggio 2017, n. 95, e successive modificazioni, il presente decreto si applica, per il periodo dal 1° gennaio 2021 al 31 dicembre 2023, al personale dirigente delle Forze armate, a tal fine anche impiegando le risorse non utilizzate per l'accordo relativo al triennio 2018-2020.
 
 ## Art. 2. — Estensione degli istituti economici
+
+1.
+                    
+                        
+                            Al personale dirigente dell'Esercito italiano della Marina Militare, compreso il personale dirigente delle Capitanerie di porto, e dell'Aeronautica Militare si applicano, a decorrere dal 31 dicembre 2023 e a valere dal 1° gennaio 2024, le disposizioni di cui ai seguenti articoli del decreto del Presidente della Repubblica 20 aprile 2022, n. 56: 
+ 
+                        
+                        
+                            a)
+                            
+                                articolo 10, nel rispetto degli incrementi percentuali previsti per i singoli gradi; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                articoli 11, 12, 13 escluso comma 12, e articoli 14, 15, 16, 17 e 18.
 
 ## Art. 3. — Estensione degli istituti normativi
 
@@ -181,4 +199,51 @@ Le risorse di cui al presente articolo non comprendono gli oneri contributivi e 
 Al personale dirigente delle Forze armate continuano ad applicarsi le disposizioni normative e quelle dei provvedimenti di concertazione vigenti gia' estese alla data di entrata in vigore del presente decreto.
 
 ## Art. 8. — Copertura finanziaria
+
+1.
+                    
+                        
+                            In coerenza con quanto disposto dall'articolo 46 del decreto legislativo 29 maggio 2017, n. 95, al fine di escludere maggiori oneri per la finanza pubblica non coperti con le risorse previste a legislazione vigente, i miglioramenti economici di cui al presente decreto rimangono fissati negli importi ivi stabiliti e, per gli emolumenti correlati all'indennita' operativa di base, negli importi determinati sulla base dei valori di detta indennita' in vigore fino al 31 dicembre 2025, fatti salvi gli eventuali adeguamenti da parte dei successivi accordi nell'ambito delle risorse disponibili sulla base della legislazione vigente. 
+ Agli oneri derivanti dall'attuazione del presente decreto, pari a euro 12.181.611 per l'anno 2021, euro 19.132.283 per l'anno 2022, euro 19.132.272 per l'anno 2023, euro 7.892.624 per l'anno 2024 e euro 7.915.502 a decorrere dall'anno 2025 si provvede: 
+ 
+                        
+                        
+                            a)
+                            
+                                quanto a euro 4.470.448 per ciascuno degli anni 2021, 2022 e 2023 mediante corrispondente utilizzo delle disponibilita' in conto residui di cui all'articolo 1, comma 680, della legge 27 dicembre 2017, n. 205 che sono versate all'entrata del bilancio dello Stato; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                quanto a euro 5.037.832 per ciascuno degli anni 2021, 2022 e 2023 mediante corrispondente utilizzo delle disponibilita' in conto residui di cui all'articolo 1, comma 442, della legge 30 dicembre 2018, n. 145 che sono versate all'entrata del bilancio dello Stato; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                quanto a euro 5.346.670 per ciascuno degli anni 2022, 2023, 2024, mediante corrispondente utilizzo delle disponibilita' in conto residui di cui all'articolo 1, comma 619, della legge 30 dicembre 2021, n. 234 che sono versate all'entrata del bilancio dello Stato; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                quanto a euro 5.346.670 a decorrere dall'anno 2025 mediante corrispondente riduzione dell'autorizzazione di spesa di cui all'articolo 1, comma 619, della legge 30 dicembre 2021, n. 234; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                quanto a euro 2.673.331 per l'anno 2021, euro 4.277.333 per l'anno 2022, euro 4.277.322 per l'anno 2023 e ad euro 2.545.954 per l'anno 2024 mediante corrispondente utilizzo delle disponibilita' in conto residui di cui all'articolo 20, comma 1, del decreto-legge 30 dicembre 2019, n. 162 convertito, con modificazioni, dalla legge 28 febbraio 2020, n. 8 che sono versate all'entrata del bilancio dello Stato; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                quanto a euro 2.568.832 a decorrere dall'anno 2025 mediante corrispondente riduzione dell'autorizzazione di spesa di cui all'articolo 20, comma 1, del decreto-legge 30 dicembre 2019, n. 162 convertito, con modificazioni, dalla legge 28 febbraio 2020, n. 8.
 

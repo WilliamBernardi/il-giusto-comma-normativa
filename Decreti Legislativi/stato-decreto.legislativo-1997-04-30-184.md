@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
 vigenza_date: 2019-03-30
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:28Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -80,6 +80,46 @@ Le disposizioni di cui ai commi 3, 4 e 5 dell'articolo 2 sono estese a tutti i c
 ## Art. 5. — Estensione del regime della prosecuzione volontaria INPS alle altre forme di previdenza
 
 Le disposizioni di cui al decreto del Presidente della Repubblica 31 dicembre 1971, n. 1432, e alla legge 18 febbraio 1983, n. 47, e successive modificazioni ed integrazioni, come modificate dal presente capo, sono estese agli iscritti ai fondi sostitutivi ed esclusivi dell'assicurazione generale obbligatoria ed alla gestione di cui all'articolo 2, comma 26, della legge 8 agosto 1995, n. 335.
+
+2.
+                        
+                            
+                                L'autorizzazione alla prosecuzione volontaria e' concessa se l'assicurato nel quinquennio precedente la domanda puo' far valere, nell'assicurazione generale obbligatoria ovvero nel fondo sostitutivo o esclusivo della medesima presso il quale chiede di effettuare i versamenti volontari, uno dei seguenti requisiti di effettiva contribuzione, anche non continuativa: 
+ 
+                            
+                            
+                                a)
+                                
+                                    36 contributi mensili; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    156 contributi settimanali; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    279 contributi giornalieri agricoli per gli uomini; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    186 contributi giornalieri agricoli per le donne e i giovani; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    65 settimane per i lavoratori addetti esclusivamente alle lavorazioni di cui agli articoli 40, n. 9, e 76 del regio decreto-legge 4 ottobre 1935, n. 1827, convertito, con modificazioni, dalla legge 6 aprile 1936, n. 1155. 
+Resta fermo il requisito di anzianita' contributiva ridotta previsto dagli articoli 7 e 8 del decreto legislativo 16 settembre 1996, n. 564, che trova applicazione anche per i casi di assicurazione di cui all'articolo 2, comma 26, della citata legge n. 335 del 1995.
 
 ((2-bis. L'autorizzazione alla prosecuzione volontaria e' altresi' concessa in presenza dei requisiti di cui al terzo comma dell'articolo 1 della legge 18 febbraio 1983, n. 47))
 

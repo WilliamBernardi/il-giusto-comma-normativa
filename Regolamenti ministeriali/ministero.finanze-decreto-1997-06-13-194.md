@@ -8,8 +8,8 @@ codice_redazionale: 097G0233
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:38Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -44,6 +44,45 @@ L'ufficio per l'informazione del contribuente assicura il funzionamento della se
 ## Art. 5. — Procedimento e poteri istruttori del comitato
 
 La richiesta di parere di cui ai commi 2 e 10 dell'articolo 21 della legge 30 dicembre 1991, n. 413, rivolta al Ministero delle finanze - Segretariato generale, segreteria del comitato consultivo per l'applicazione delle norme antielusive presso l'ufficio per l'informazione del contribuente e' indirizzata alla direzione regionale delle entrate competente in relazione al domicilio fiscale del richiedente e deve essere spedita a mezzo del servizio postale in plico raccomandato con avviso di ricevimento.
+
+2.
+                    
+                        
+                            La richiesta deve contenere, a pena di inammissibilita':
+ 
+                        
+                        
+                            a)
+                            
+                                i dati identificativi del contribuente o del suo legale rappresentante e delle altre parti interessate;
+
+                            
+                        
+                        
+                            b)
+                            
+                                la dettagliata e precisa esposizione del caso concreto, nonche' della soluzione interpretativa prospettata;
+
+                            
+                        
+                        
+                            c)
+                            
+                                l'indicazione dell'eventuale domiciliatario presso il quale devono essere effettuate le comunicazioni;
+
+                            
+                        
+                        
+                            d)
+                            
+                                la documentazione necessaria per l'emissione del parere, corredata da relativo elenco;
+
+                            
+                        
+                        
+                            e)
+                            
+                                la sottoscrizione del contribuente o del suo legale rappresentante.
 
 Alla richiesta di parere deve essere allegata copia della documentazione rilevante ai fini della individuazione e della qualificazione della fattispecie prospettata, nonche' della reale portata dell'operazione. Deve essere altresi' allegata copia della preventiva richiesta presentata al dipartimento delle entrate, con l'indicazione degli estremi di spedizione, e dell'eventuale risposta fornita dal dipartimento medesimo.
 

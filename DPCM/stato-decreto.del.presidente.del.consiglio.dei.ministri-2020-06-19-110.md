@@ -7,8 +7,8 @@ urn: urn:nir:stato:decreto.del.presidente.del.consiglio.dei.ministri:2020-06-19;
 vigente: true
 source: normattiva-opendata
 collection: DPCM
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:40:12Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DEL CONSIGLIO DEI MINISTRI
@@ -39,6 +39,59 @@ Il sistema IT-Alert e' il sistema di allarme pubblico definito all'articolo 1, c
 ## Art. 2.
 
 Modalita' di attivazione del sistema IT-Alert
+
+1.
+                    
+                        
+                            I requisiti funzionali per la realizzazione e messa in opera dei sistemi e delle metodologie necessarie all'invio dei messaggi originati dal sistema IT-Alert attraverso le reti mobili di cui all'articolo 1, comma 1, lettere dd) del decreto legislativo n. 259/2003, degli operatori di comunicazioni elettroniche sono definiti nell'allegato 1, che costituisce parte integrante del presente decreto, e che definisce gli aspetti tecnico-operativi relativi: 
+ 
+                        
+                        
+                            a)
+                            
+                                alle modalita' e ai criteri di attivazione del servizio IT-Alert da realizzarsi secondo gli standard internazionali applicabili; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                alle modalita' e ai criteri di attivazione dei messaggi IT-Alert; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                alle modalita' di definizione dei contenuti dei messaggi IT-Alert, tenendo conto degli scenari prevedibili in relazione agli eventi di cui all'articolo 7 del decreto legislativo 2 gennaio 2018, n. 1 e dell'opportunita' di attivare misure di autoprotezione dei cittadini; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                alle modalita' di gestione della richiesta per l'attivazione dei messaggi IT-Alert; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                alle modalita' di autorizzazione della richiesta di attivazione di cui alla lettera d); 
+
+                            
+                        
+                        
+                            f)
+                            
+                                alle modalita' di invio dei messaggi IT-Alert; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                ai criteri e alle modalita' finalizzate a garantire che l'utilizzo e il trattamento dei dati eventualmente raccolti nell'ambito del funzionamento del sistema IT-Alert avvengano nel rispetto della normativa in materia di protezione dei dati personali e che sia escluso l'utilizzo dei medesimi dati per finalita' diverse da quelle di cui al presente articolo.
 
 ## Art. 3. — Istituzione del Comitato tecnico del servizio IT-Alert
 

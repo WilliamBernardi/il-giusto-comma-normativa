@@ -7,8 +7,8 @@ urn: urn:nir:ministero.economia.e.finanze:decreto:2019-08-05;106
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:40Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -38,6 +38,59 @@ L'elenco di cui al comma 1 e' articolato nelle sezioni I, II, III, IV e V, in ci
 
 ## Art. 3. — Requisiti per l'iscrizione
 
+1.
+                    
+                        
+                            Costituiscono requisiti generali per l'iscrizione nelle sezioni dell'elenco di cui all'articolo 2, comma 2: 
+ 
+                        
+                        
+                            a)
+                            
+                                essere cittadino italiano o di Stato appartenente all'Unione europea; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                godere del pieno esercizio dei diritti civili e politici; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                non trovarsi in una delle condizioni di incompatibilita' di cui all'art. 9; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                non essere iscritto in nessuno degli albi professionali relativi ai soggetti elencati al comma 3, lettere a), b), c) e ai commi 5 e 6 dell'articolo 12 del decreto legislativo 31 dicembre 1992, n. 546; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                non essere sottoposto ad esecuzione di pene detentive, di misure cautelari o interdittive; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                non avere riportato condanne definitive, salvo gli effetti della riabilitazione, per i reati di cui all'articolo 51, comma 3-bis, del codice di procedura penale o dei reati previsti dagli articoli 372, 373, 374, 374-bis, 377, 377-bis, 380 e 381 del codice penale, nonche' per uno dei reati contro la pubblica amministrazione, per i quali e' prevista la pena della reclusione non inferiore nel massimo a due anni. Ai fini del presente comma, la sentenza di applicazione della pena ai sensi dell'articolo 444 del codice di procedura penale e' equiparata alla sentenza di condanna, salvo il caso di estinzione del reato; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                non aver subito la sanzione disciplinare del licenziamento senza preavviso.
+
 Per l'iscrizione nelle sezioni I, II, III, IV e V, e', altresi', necessario possedere, rispettivamente, i requisiti di cui alle lettere d), e), f), g), e h) del comma 3 dell'articolo 12 del decreto legislativo 31 dicembre 1992, n. 546.
 
 I requisiti di cui ai commi 1 e 2 devono essere posseduti alla data di presentazione della domanda e, per i soggetti di cui all'articolo 7, comma 1, alla data di entrata in vigore del presente regolamento.
@@ -50,9 +103,94 @@ La Direzione della giustizia tributaria effettua annualmente, anche a campione, 
 
 Elenco delle attivita' connesse ai tributi
 
+1.
+                    
+                        
+                            Ai fini dell'individuazione del possesso dei requisiti per l'iscrizione nella sezione I di cui all'articolo 2, comma 2, sono da considerarsi attivita' connesse ai tributi di cui all'articolo 63, terzo comma, del decreto del Presidente della Repubblica 29 settembre 1973, n. 600, le seguenti: 
+ 
+                        
+                        
+                            a)
+                            
+                                liquidazione, accertamento e riscossione dei tributi ed altre entrate, gestione del relativo contenzioso, nonche' relative attivita' accessorie; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                analisi, ricerca e predisposizione di atti normativi e di documenti di prassi in materia tributaria.
+
 ## Art. 5.
 
 Contenuto e modalita' di presentazione della domanda
+
+1.
+                    
+                        
+                            La domanda di iscrizione e' compilata utilizzando l'apposito modulo pubblicato sui siti istituzionali del Ministero dell'economia e delle finanze e deve contenere: 
+ 
+                        
+                        
+                            a)
+                            
+                                il cognome, il nome, la data, il luogo di nascita e residenza; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                il codice fiscale o il numero di partita I.V.A. del richiedente; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                il domicilio professionale nel territorio dello Stato, coincidente con il luogo in cui svolge l'attivita' in modo prevalente, il numero di codice di avviamento postale e un recapito telefonico; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                il titolo di studio posseduto, qualora richiesto ai fini dell'iscrizione, indicando la data di conseguimento, l'Universita' e l'ordinamento di riferimento oppure l'istituto scolastico di rilascio del diploma di ragioneria, nonche' i dati della relativa abilitazione se richiesta; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                la dichiarazione di godimento dei diritti civili e politici; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                l'indirizzo di posta elettronica certificata a cui inviare eventuali comunicazioni; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                la dichiarazione di non essere a conoscenza di essere sottoposto a procedimenti penali ovvero di esserne a conoscenza, specificando gli estremi dei medesimi e le Autorita' procedenti; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                la dichiarazione con la quale il richiedente, consapevole delle sanzioni penali previste dall'articolo 76 del decreto del Presidente della Repubblica 28 dicembre 2000, n. 445, autocertifica, ai sensi degli articoli 46 e 47 del medesimo decreto, il possesso dei requisiti previsti dall'articolo 3; 
+
+                            
+                        
+                        
+                            i)
+                            
+                                la dichiarazione con la quale il richiedente si obbliga al rispetto dei doveri deontologici di cui all'articolo 10.
 
 Per i cittadini degli Stati membri dell'Unione europea la domanda deve, altresi', contenere la dichiarazione di essere in possesso dei requisiti di cui all'articolo 3 del decreto del Presidente del Consiglio dei ministri 7 febbraio 1994, n. 174.
 
@@ -67,6 +205,31 @@ In mancanza di comunicazione di variazione del domicilio professionale, ogni com
 ## Art. 6. — Documenti da allegare alla domanda
 
 Al fine di comprovare il possesso dei requisiti previsti per l'iscrizione nelle sezioni I e II del comma 2 dell'articolo 2, i richiedenti allegano apposita dichiarazione sostitutiva di certificazione e di notorieta' ai sensi del decreto del Presidente della Repubblica 28 dicembre 2000, n. 445.
+
+2.
+                    
+                        
+                            I soggetti di cui alle sezioni III, IV e V del comma 2 dell'articolo 2 certificano il possesso dei requisiti richiesti allegando alla domanda: 
+ 
+                        
+                        
+                            a)
+                            
+                                attestazione comprovante il rapporto di dipendenza con l'associazione di categoria e l'iscrizione, alla data di entrata in vigore del decreto legislativo 31 dicembre 1992, n. 545, negli elenchi tenuti, all'anzidetta data, dalle intendenze di finanza competenti per territorio, per coloro che richiedono l'iscrizione nella sezione III dell'elenco; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                attestazione comprovante il rapporto di dipendenza in essere con le associazioni delle categorie rappresentate nel Consiglio nazionale dell'economia e del lavoro (CNEL), con le imprese o con le loro controllate, ai sensi dell'articolo 2359 del codice civile, primo comma, numero 1), per coloro che richiedono l'iscrizione nella sezione IV dell'elenco; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                attestazione rilasciata dal Centro di assistenza fiscale (CAF) comprovante il rapporto di dipendenza sottoscritta dal responsabile dell'assistenza fiscale del CAF di cui all'articolo 33, comma 2, del decreto legislativo 9 luglio 1997, n. 241, specificando la tipologia del contratto di lavoro e l'eventuale scadenza, per coloro che richiedono l'iscrizione nella sezione V dell'elenco.
 
 Il richiedente produce un'attestazione in cui dichiara, ai sensi del decreto del Presidente della Repubblica 28 dicembre 2000, n. 445, se sussistono casi di incompatibilita' di cui all'articolo 9.
 
@@ -93,6 +256,31 @@ Incompatibilita'
 
 L'attivita' di assistenza tecnica non puo' essere esercitata nella regione o nelle province, con essa confinanti, in cui gli iscritti abbiano con i giudici delle Commissioni tributarie provinciali rapporti di coniugio, convivenza e parentela fino al secondo grado e di affinita' in primo grado o siano con gli stessi uniti civilmente ai sensi della legge 20 maggio 2016, n. 76.
 L'attivita' di assistenza tecnica non puo' essere esercitata, altresi', nella regione, o in quelle confinanti, in cui gli iscritti abbiano con i giudici delle Commissioni tributarie regionali rapporti di coniugio, convivenza e parentela fino al secondo grado e di affinita' in primo grado o siano con gli stessi uniti civilmente ai sensi della legge 20 maggio 2016, n. 76.
+
+2.
+                    
+                        
+                            L'attivita' di assistenza tecnica e', altresi', incompatibile: 
+ 
+                        
+                        
+                            a)
+                            
+                                con l'esercizio di qualsiasi attivita' di impresa commerciale, svolta in nome proprio o in nome o per conto altrui; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                con la qualita' di socio illimitatamente responsabile o amministratore di societa' di persone, aventi quale finalita' l'esercizio di attivita' di impresa commerciale, in qualunque forma costituite, con la qualita' di amministratore unico o consigliere delegato di societa' di capitali, anche in forma cooperativa, nonche' con la qualita' di presidente di consiglio di amministrazione con poteri individuali di gestione. L'incompatibilita' non sussiste se l'oggetto della attivita' della societa' e' limitato esclusivamente all'amministrazione di beni, personali o familiari, nonche' per gli enti e consorzi pubblici e per le societa' a capitale interamente pubblico; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                con lo svolgimento di lavoro subordinato, salvi i casi di rapporti di lavoro di cui all'articolo 2, comma 2.
 
 ## Art. 10. — Doveri e deontologia
 
@@ -149,6 +337,52 @@ Gli effetti della revoca decorrono dalla data della notifica del relativo provve
 Per i soggetti iscritti nelle sezioni IV e V di cui all'articolo 2, comma 2, gli effetti della revoca decorrono, in ogni caso, con la cessazione del rapporto di lavoro. A tal fine, il responsabile del CAF, le associazioni delle categorie rappresentate nel CNEL e le imprese o le loro controllate, ai sensi dell'articolo 2359 del codice civile, primo comma, numero 1), comunicano, entro sette giorni alla Direzione della giustizia tributaria, la cessazione del rapporto di lavoro del dipendente precedentemente autorizzato.
 
 ## Art. 15. — Sospensione cautelare
+
+1.
+                    
+                        
+                            La sospensione cautelare puo' essere disposta dalla Direzione della giustizia tributaria, al verificarsi delle seguenti ipotesi: 
+ 
+                        
+                        
+                            a)
+                            
+                                applicazione di misura cautelare detentiva o interdittiva irrogata in sede penale e non impugnata o confermata in sede di riesame o di appello; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                irrogazione, con la sentenza penale di primo grado, della pena accessoria di cui all'articolo 35 del codice penale, anche se e' stata disposta la sospensione condizionale della pena; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                applicazione della misura di sicurezza detentiva; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                condanna in primo grado per i reati previsti dagli articoli 372, 374, 377, 378, 381, 640 e 646 del codice penale, se commessi nell'ambito dell'esercizio dell'attivita' di rappresentanza e assistenza tecnica, nonche' dagli articoli 244, 648-bis e 648-ter del medesimo codice; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                condanna in primo grado per uno di reati contro la pubblica amministrazione per i quali e' prevista la pena della reclusione non inferiore nel massimo ad anni due ovvero non aver beneficiato dell'applicazione della pena, ai sensi dell'articolo 444 del codice di procedura penale; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                condanna a pena detentiva non inferiore a tre anni.
 
 La sospensione di cui al comma 1 viene adottata con provvedimento motivato, previo contraddittorio con l'iscritto.
 

@@ -8,8 +8,8 @@ vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
 vigenza_date: 2024-07-14
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:23Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -71,11 +71,51 @@ In caso di reiterazione della violazione di cui al comma 1 per la mancata istitu
 
 ## Art. 8. — Identificazione delle partite
 
+1.
+                    
+                        
+                            Chiunque utilizza recipienti di stoccaggio del prodotto che non riportano in maniera chiara e leggibile la categoria dell'olio, le indicazioni di cui agli articoli 4 e, se utilizzate, 5, lettere a), b) ed e), del regolamento (UE) n. 29/2012, nonche' privi: 
+                        
+                        
+                            a)
+                            
+                                di un codice identificativo;
+                            
+                        
+                        
+                            b)
+                            
+                                della indicazione della capacita' totale;
+                            
+                        
+                        
+                            c)
+                            
+                                di un dispositivo di misurazione per la valutazione della quantita' dell'olio contenuto; e' soggetto alla sanzione amministrativa pecuniaria del pagamento di una somma da euro 500 a euro 3.000.
 
+((1-bis. Se le violazioni di cui al comma 1 sono commesse da imprese aventi i parametri di media e grande impresa ai sensi della raccomandazione 2003/361/CE della Commissione, del 6 maggio 2003, le sanzioni amministrative di cui al medesimo comma 1 sono aumentate di due volte nel caso delle medie imprese e di tre volte nel caso delle grandi imprese))
 
 Alla medesima sanzione e' soggetto chi non identifica le partite di olio confezionate, ma non ancora etichettate, mediante un cartello recante il lotto, il numero di confezioni, la loro capacita', la categoria dell'olio, le indicazioni di cui agli articoli 4 e, se utilizzate, 5 del regolamento di esecuzione (UE) n. 29/2012.
 
 ## Art. 9. — Sanzioni per piccoli e grandi quantitativi
+
+1.
+                    
+                        
+                            Le sanzioni previste dagli articoli 2, 3, 4, 5, 6, 7 e 8 sono: 
+ 
+                        
+                        
+                            a)
+                            
+                                dimezzate se la violazione riguarda quantitativi di prodotto non superiori a 700 chilogrammi/litri di olio o a 3.500 chilogrammi di olive. ((Il beneficio di cui alla presente lettera non si applica se le violazioni sono commesse da imprese aventi i parametri di media e grande impresa ai sensi della raccomandazione 2003/361/CE della Commissione, del 6 maggio 2003)); 
+
+                            
+                        
+                        
+                            b)
+                            
+                                raddoppiate, se la violazione riguarda quantitativi di prodotto superiori a 30.000 chilogrammi/litri di olio o a 150.000 chilogrammi di olive.
 
 L'importo delle sanzioni previste dal comma 1 non puo' essere inferiore a euro 150.
 

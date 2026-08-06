@@ -8,8 +8,8 @@ vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
 vigenza_date: 2024-12-17
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:22Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -51,6 +51,24 @@ All'articolo 6 della legge 31 dicembre 1962, n. 1860, al quarto comma sono aggiu
 
 Il titolo del decreto legislativo 17 marzo 1995, n. 230, e' sostituito dal seguente: «Attuazione delle direttive 89/618/Euratom, 90/641/Euratom, 96/29/Euratom, 2006/117/Euratom in materia di radiazioni ionizzanti, 2009/71/Euratom in materia di sicurezza nucleare degli impianti nucleari e 2011/70/Euratom in materia di gestione sicura del combustibile esaurito e dei rifiuti radioattivi derivanti da attivita' civili.».
 
+2.
+                    
+                        
+                            Al comma 1-bis dell'articolo 3 del decreto legislativo 17 marzo 1995, n. 230, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                alla lettera b), dopo le parole: «o disattivazione di un impianto nucleare,» sono inserite le seguenti: «nonche' di un impianto di gestione di combustibile esaurito o di rifiuti radioattivi,»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                alla lettera c), dopo le parole: «di un impianto nucleare», sono inserite le seguenti: «o di un'attivita' o di un impianto connessi alla gestione di combustibile esaurito o di rifiuti radioattivi,».
+
 Dopo la lettera c) del comma 1-bis dell'articolo 3 del decreto legislativo 17 marzo 1995, n. 230, sono aggiunte le seguenti: 
  «c-bis) impianto di smaltimento: qualsiasi impianto o struttura il cui scopo principale e' lo smaltimento dei rifiuti radioattivi; 
  c-ter) gestione dei rifiuti radioattivi: tutte le attivita' attinenti a raccolta, cernita, manipolazione, pretrattamento, trattamento, condizionamento, stoccaggio o smaltimento dei rifiuti radioattivi, escluso il trasporto al di fuori del sito; 
@@ -60,6 +78,24 @@ Dopo la lettera c) del comma 1-bis dell'articolo 3 del decreto legislativo 17 ma
  c-septies) impianto di gestione del combustibile esaurito: qualsiasi impianto o struttura il cui scopo principale sia la gestione del combustibile esaurito; 
  c-octies) ritrattamento: un processo o un'operazione intesi ad estrarre materie fissili e fertili dal combustibile esaurito ai fini di un ulteriore uso; 
  c-nonies) stoccaggio: il collocamento di combustibile esaurito o di rifiuti radioattivi in un impianto con l'intenzione di recuperarli successivamente.».
+
+4.
+                    
+                        
+                            Al comma 3 dell'articolo 4 del decreto legislativo 17 marzo 1995, n. 230, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                la lettera i) e' sostituita dalla seguente: «i) rifiuti radioattivi: qualsiasi materia radioattiva in forma gassosa, liquida o solida, ancorche' contenuta in apparecchiature o dispositivi in genere, per la quale nessun riciclo o utilizzo ulteriore e' previsto o preso in considerazione dall'autorita' di regolamentazione competente o da una persona giuridica o fisica la cui decisione sia accettata dall'autorita' di regolamentazione competente e che sia regolamentata come rifiuto radioattivo dall'autorita' di regolamentazione competente;»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                la lettera n) e' sostituita dalla seguente: «n) smaltimento: la collocazione di rifiuti radioattivi o di combustibile esaurito, secondo modalita' idonee, in un impianto autorizzato senza intenzione di recuperarli successivamente;».
 
 Al comma 2 dell'articolo 10 del decreto legislativo 17 marzo 1995, n. 230, le parole: «presidente dell'ANPA stessa», sono sostituite dalle seguenti: «direttore dell'autorita' di regolamentazione competente».
 
@@ -78,6 +114,47 @@ L'articolo 33 del decreto legislativo 17 marzo 1995, n. 230, e' sostituito dal s
  2. Con decreto del Ministro dello sviluppo economico, di concerto con i Ministri dell'ambiente e della tutela del territorio e del mare, della salute, dell'interno, del lavoro e delle politiche sociali, su proposta dell'autorita' di regolamentazione competente, sono stabiliti i livelli di radioattivita' o di concentrazione ed i tipi di rifiuti per cui si applicano le disposizioni del presente articolo, nonche' le disposizioni procedurali per il rilascio del nulla osta, in relazione alle diverse tipologie di installazione. Nel decreto puo' essere prevista, in relazione a tali tipologie, la possibilita' di articolare in fasi distinte, compresa quella di disattivazione, il rilascio del nulla osta, nonche' di stabilire particolari prescrizioni per ogni fase, ivi incluse le prove e l'esercizio.».
 
 Il decreto di cui al comma 2 dell'articolo 33 del decreto legislativo 17 marzo 1995, n. 230, e' emanato entro 180 giorni dall'entrata in vigore del presente decreto.
+
+9.
+                    
+                        
+                            Al Capo VII-bis del decreto legislativo 17 marzo 1995, n. 230, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                la rubrica del Capo VII-bis e' sostituita dalla seguente: «Sicurezza degli impianti nucleari e degli impianti di gestione del combustibile esaurito e dei rifiuti radioattivi»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 1 dell'articolo 58-bis, dopo la parola: «nucleari», sono inserite le seguenti: «e degli impianti di gestione del combustibile esaurito e dei rifiuti radioattivi» e al comma 2, lettera a), dell'articolo 58-bis, dopo la parola: «nucleare», sono inserite le seguenti: «o dell'attivita' di gestione dei rifiuti radioattivi e del combustibile esaurito»; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                al comma 1 dell'articolo 58-ter, al primo e al secondo periodo dopo la parola: «nucleare», sono inserite le seguenti: «e di gestione del combustibile esaurito e dei rifiuti radioattivi»; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                al comma 1 dell'articolo 58-quater, dopo le parole: «sulla sicurezza nucleare», sono inserite le seguenti: «e sulla gestione del combustibile esaurito e dei rifiuti radioattivi,»; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                dopo il comma 3 dell'articolo 58-quinquies sono aggiunti, in fine, i seguenti: 
+ «3-bis. Entro il 23 agosto 2015 e, successivamente, ogni tre anni, sulla base dei dati forniti dall'Autorita' di regolamentazione competente, almeno sessanta giorni prima del termine utile, il Ministero dell'ambiente e della tutela del territorio e del mare e il Ministero per lo sviluppo economico trasmettono alla Commissione europea una relazione sull'attuazione della direttiva 2011/70/Euratom, tenendo conto dei cicli di riesame previsti dalla Convenzione congiunta in materia di sicurezza della gestione del combustibile esaurito e dei rifiuti radioattivi ratificata con legge 16 dicembre 2005, n. 282. 
+ 3-ter. Il Ministero dell'ambiente e della tutela del territorio e del mare e il Ministero dello sviluppo economico, sentita l'autorita' di regolamentazione competente, organizzano ogni dieci anni valutazioni del quadro nazionale, dell'attivita' dell'autorita' di regolamentazione competente, del Programma nazionale di cui all'articolo 11 della direttiva 2011/70/Euratom e della sua attuazione e richiedono su tali temi una verifica inter pares internazionale, al fine di garantire che siano raggiunti elevati standard di sicurezza nella gestione sicura del combustibile esaurito e dei rifiuti radioattivi. I risultati delle verifiche inter pares sono trasmessi alla Commissione europea e agli altri Stati membri e devono essere resi accessibili al pubblico qualora non confliggano con le informazioni proprietarie e di sicurezza.».
 
 ## Art. 4. — Modifiche al decreto legislativo 15 febbraio 2010, n. 31
 
@@ -115,7 +192,92 @@ L'ISIN svolge le funzioni e i compiti di autorita' nazionale per la regolamentaz
 
 Sono organi dell'ISIN il direttore e la Consulta che durano in carica sette anni, non rinnovabili e il collegio dei revisori.
 
+4.
+                    
+                        
+                            Il direttore dell'ISIN e' nominato entro 90 giorni dall'entrata in vigore del presente decreto, con decreto del Presidente della Repubblica, previa deliberazione del Consiglio dei ministri da adottarsi su proposta del Ministro dell'ambiente e della tutela del territorio e del mare, di concerto con il Ministro dello sviluppo economico, acquisiti i pareri favorevoli delle Commissioni parlamentari competenti. In nessun caso la nomina potra' essere effettuata in caso di mancanza del predetto parere espresso, a maggioranza assoluta dei componenti, dalle predette Commissioni, entro trenta giorni dalla richiesta. Il Direttore: 
+ 
+                        
+                        
+                            a)
+                            
+                                ha la rappresentanza legale dell'ISIN; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                svolge le funzioni di direzione, coordinamento e controllo della struttura; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                definisce le linee strategiche e gli obiettivi operativi dell'ISIN; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                definisce le procedure organizzative interne e le tempistiche di riferimento per l'elaborazione degli atti e dei pareri di spettanza dell'ISIN; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                emana le tariffe da applicare agli operatori ai sensi del comma 18 del presente articolo per lo svolgimento dei servizi dell'ISIN; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                emana i pareri vincolanti richiesti alla struttura nell'ambito di istruttorie autorizzative condotte dalle amministrazioni pubbliche e gli atti di approvazione su istanza degli operatori; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                svolge il ruolo di rappresentanza per le materie di competenza nei consessi comunitari e internazionali; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                trasmette al Governo e al Parlamento una relazione annuale sulle attivita' svolte dall'ISIN e sullo stato della sicurezza nucleare nel territorio nazionale.
+
 Il Direttore e' scelto tra persone di indiscussa moralita' e indipendenza, di comprovata e documentata esperienza e professionalita' ed elevata qualificazione e competenza nei settori della sicurezza nucleare, della radioprotezione, della tutela dell'ambiente e sulla valutazione di progetti complessi e di difesa contro gli eventi estremi naturali o incidentali. Per almeno dodici mesi dalla cessazione dell'incarico, il Direttore non puo' intrattenere, direttamente o indirettamente, rapporti di collaborazione, di consulenza o di impiego con le imprese operanti nel settore di competenza, ne' con le relative associazioni. La violazione di tale divieto e' punita, salvo che il fatto costituisca reato, con una sanzione amministrativa pecuniaria pari ad una annualita' dell'importo del corrispettivo percepito. All'imprenditore e all'associazione che abbiano violato tale divieto si applica la sanzione amministrativa pecuniaria pari allo 0,5 per cento del fatturato e, comunque, non inferiore a euro 150.000 e non superiore ad euro 10 milioni, e, nei casi piu' gravi o quando il comportamento illecito sia stato reiterato, la revoca dell'atto autorizzativo inerente all'attivita' illecitamente condotta ai sensi del presente comma. I limiti massimo e minimo di tale sanzione sono rivalutati secondo il tasso di variazione annuo dell'indice dei prezzi al consumo per le famiglie di operai e impiegati rilevato dall'ISTAT.
+
+6.
+                    
+                        
+                            La Consulta e' costituita da 3 esperti, di cui uno con funzioni di coordinamento organizzativo interno alla medesima, scelti tra persone di indiscussa moralita' e indipendenza, di comprovata e documentata esperienza e professionalita' ed elevata qualificazione e competenza nei settori della sicurezza nucleare, della radioprotezione, della tutela dell'ambiente e sulla valutazione di progetti complessi e di difesa contro gli eventi estremi naturali o incidentali. I componenti della Consulta sono nominati entro 90 giorni dall'entrata in vigore del presente decreto, con decreto del Presidente della Repubblica, previa deliberazione del Consiglio dei ministri da adottarsi su proposta del Ministro dell'ambiente e della tutela del territorio e del mare, di concerto con il Ministro dello sviluppo economico, acquisiti i pareri favorevoli delle Commissioni parlamentari competenti. In nessun caso le nomine potranno essere effettuate in caso di mancanza del predetto parere espresso, a maggioranza assoluta dei componenti, dalle predette Commissioni, entro trenta giorni dalla richiesta. La Consulta esprime parere obbligatorio: 
+ 
+                        
+                        
+                            a)
+                            
+                                sui piani di attivita', sugli atti programmatici e sugli obiettivi operativi nonche' sulle tariffe da applicare agli operatori; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                in merito alle procedure operative e ai regolamenti interni dell'ISIN; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                sulle proposte di guide tecniche predisposte dall'ISIN.
 
 Ferma restando l'applicazione dell'articolo 23-ter, comma 1, del decreto-legge 6 dicembre 2011, n. 201, convertito, con modificazioni, dalla legge 22 dicembre 2011, n. 214, con decreto del Presidente del Consiglio dei ministri, su proposta del Ministro dell'ambiente e della sicurezza energetica, di concerto con il Ministro dell'economia e delle finanze, e' determinato il trattamento economico del direttore ((dell'ISIN)). Se appartenente ai ruoli ((delle amministrazioni pubbliche)) di cui all'articolo 1, comma 2, del decreto legislativo 30 marzo 2001, n. 165, il direttore dell'ISIN e' collocato in posizione di fuori ruolo, aspettativa o analoga posizione per l'intera durata dell'incarico, anche in deroga all'ordinamento di appartenenza, mantenendo, a scelta dell'interessato, il trattamento economico complessivo in godimento.
 Resta salva l'applicazione dell'articolo 23-ter, comma 2, ((del citato decreto-legge n. 201 del 2011)). Con il medesimo decreto di cui al primo periodo e' altresi' determinato il trattamento economico dei componenti della Consulta e del Collegio dei revisori. Gli oneri derivanti dall'attuazione del presente comma sono coperti con le risorse disponibili ai sensi dei commi 15 e 17. ((3))
@@ -167,6 +329,87 @@ Il Ministero dell'ambiente e della tutela del territorio e del mare e il Ministe
 
 ## Art. 8. — Contenuto del programma nazionale
 
+1.
+                    
+                        
+                            Il Programma nazionale comprende tutti gli elementi seguenti: 
+ 
+                        
+                        
+                            a)
+                            
+                                gli obiettivi generali della politica nazionale riguardante la gestione del combustibile esaurito e dei rifiuti radioattivi; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                le tappe piu' significative e chiari limiti temporali per l'attuazione di tali tappe alla luce degli obiettivi primari del programma nazionale; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                un inventario di tutto il combustibile esaurito e dei rifiuti radioattivi e stime delle quantita' future, comprese quelle provenienti da impianti disattivati, in cui si indichi chiaramente l'ubicazione e la quantita' dei rifiuti radioattivi e del combustibile esaurito, conformemente alla classificazione dei rifiuti radioattivi; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                i progetti o piani e soluzioni tecniche per la gestione del combustibile esaurito e dei rifiuti radioattivi dalla generazione fino allo smaltimento, ivi incluso il Deposito nazionale; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                i progetti e/o piani per la fase post-chiusura della vita di un impianto di smaltimento, compreso il periodo in cui sono mantenuti opportuni controlli e i mezzi da impiegare per conservare la conoscenza riguardo all'impianto nel lungo periodo; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                le attivita' di ricerca, sviluppo e dimostrazione necessarie al fine di mettere in atto soluzioni per la gestione del combustibile esaurito e dei rifiuti radioattivi; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                la responsabilita' per l'attuazione del programma nazionale e gli indicatori chiave di prestazione per monitorare i progressi compiuti per l'attuazione; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                una valutazione dei costi del programma nazionale e delle premesse e ipotesi alla base di tale valutazione, che devono includere un profilo temporale; 
+
+                            
+                        
+                        
+                            i)
+                            
+                                il regime o i regimi di finanziamento in vigore; 
+
+                            
+                        
+                        
+                            l)
+                            
+                                la politica o procedura in materia di trasparenza di cui all'articolo 58-quater del decreto legislativo 17 marzo 1995, n. 230; 
+
+                            
+                        
+                        
+                            m)
+                            
+                                eventuali accordi conclusi con uno Stato membro o un Paese terzo sulla gestione del combustibile esaurito e dei rifiuti radioattivi, compreso l'uso di impianti di smaltimento.
+
 ## Art. 9. — Disposizioni transitorie e finali
 
 Fino all'entrata in vigore del regolamento di cui al comma 14 dell'articolo 6 del presente decreto, le funzioni dell'Autorita' di regolamentazione competente continuano ad essere svolte dal Dipartimento nucleare, rischio tecnologico e industriale dell'ISPRA.
@@ -175,6 +418,52 @@ Il personale del predetto Dipartimento e' trasferito all'ISIN a far data dall'ap
 Ogni riferimento al Comitato nazionale per l'energia nucleare (CNEN), all'ENEA - DISP, all'ANPA, all'APAT, all'ISPRA e all'Agenzia per la sicurezza nucleare contenuti nella legge 31 dicembre 1962, n. 1860, nel decreto del Presidente della Repubblica 30 dicembre 1970, n. 1450, nel decreto legislativo 17 marzo 1995, n. 230, e nei relativi decreti applicativi, nella legge 23 luglio 2009, n. 99, e nel decreto legislativo 19 ottobre 2011, n. 185, e in tutte le altre disposizioni normative di settore attualmente vigenti, e' da intendersi rivolto all'ISIN che ne assume le funzioni e i compiti.
 
 ## Art. 10. — Abrogazioni
+
+1.
+                    
+                        
+                            Sono abrogati: 
+ 
+                        
+                        
+                            a)
+                            
+                                l'articolo 29 della legge 23 luglio 2009, n. 99; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                l'articolo 21, comma 20-bis, del decreto-legge 6 dicembre 2011, n. 201, convertito, con modificazioni, dalla legge 22 dicembre 2011, n. 214; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                l'articolo 3 e l'articolo 34-bis, comma 2, del decreto legislativo 15 febbraio 2010, n. 31; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                l'articolo 2 del decreto legislativo19 ottobre 2011, n. 185; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                l'articolo 1, commi 99, 101 e 106, della legge 23 agosto 2004, n. 239. 
+
+                            
+                        
+                        
+                            f)
+                            
+                                gli articoli 1, 2 e 3 della legge 24 dicembre 2003, n. 368.
 
 All'allegato A del comma 20 dell'articolo del 21 del decreto-legge 6 dicembre 2011, n. 201, convertito, con modificazioni, dalla legge 22 dicembre 2011, n. 214, il riferimento all'Agenzia per la sicurezza nucleare e' soppresso.
 

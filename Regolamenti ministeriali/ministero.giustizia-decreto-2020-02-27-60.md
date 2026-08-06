@@ -7,8 +7,8 @@ urn: urn:nir:ministero.giustizia:decreto:2020-02-27;60
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:38Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -40,6 +40,67 @@ Nello svolgimento delle attivita' di cui al comma 1, l'ingegnere biomedico e cli
 E' iscritto nella sezione B dell'elenco di cui all'articolo 1 l'ingegnere biomedico e clinico iunior che ha competenza professionale nelle seguenti attivita' tipiche documentabili: il concorso e la collaborazione alle attivita' di pianificazione, progettazione, sviluppo, direzione lavori, stima, attivita' di installazione, collaudo, gestione, controllo, manutenzione, verifiche e valutazione di appropriatezza tecnologica di progetti-prodotti-processi, formazione e assistenza all'uso di dispositivi, dispositivi medici e diagnostici in vitro, materiali, processi, macchine ed impianti per salute, sia nella libera professione e nelle imprese manifatturiere o di servizi, sia nelle amministrazioni pubbliche, enti privati e istituti di ricerca, nonche' direttamente le attivita' di cui sopra che implichino l'uso di metodologie standardizzate o di sistemi e processi di tipologia semplice o ripetitiva.
 
 ## Art. 3. — Requisiti di iscrizione
+
+1.
+                    
+                        
+                            Costituiscono requisiti necessari per l'iscrizione nella sezione A dell'elenco di cui all'articolo 1: 
+ 
+                        
+                        
+                            a)
+                            
+                                il possesso di un titolo di laurea magistrale nella classe LM-21 di cui al decreto del Ministro dell'universita' e della ricerca 22 ottobre 2004, n. 270 o di laurea specialistica nella classe 26/S, di cui al decreto del Ministro dell'universita' e della ricerca 3 novembre 1999, n. 509 in ingegneria biomedica, ovvero di laurea in ingegneria biomedica conseguita secondo le previsioni dell'ordinamento degli studi universitari previgente al citato decreto n. 509 del 1999; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                l'iscrizione attiva all'Albo degli ingegneri nella sezione A dei settori dell'ingegneria industriale o dell'ingegneria dell'informazione, ai sensi dell'articolo 45 del decreto del Presidente della Repubblica 5 giugno 2001, n. 328.
+
+2.
+                    
+                        
+                            Quando il possesso di competenze afferenti alla disciplina dell'ingegneria biomedica e clinica sono certificate dal Consiglio nazionale degli ingegneri ai sensi dell'articolo 5, costituiscono requisiti necessari per l'iscrizione nella sezione A dell'elenco di cui all'articolo 1: 
+ 
+                        
+                        
+                            a)
+                            
+                                il possesso di un titolo di laurea magistrale di cui al decreto del Ministro dell'universita' e della ricerca 22 ottobre 2004, n. 270 o di laurea specialistica di cui al decreto del Ministro dell'universita' e della ricerca 3 novembre 1999, n. 509, diversi dai titoli di cui al comma 1, lettera a), in materie che consentono l'iscrizione all'Albo degli ingegneri nei settori dell'ingegneria industriale o dell'ingegneria dell'informazione della sezione A, ai sensi dell'articolo 45 del decreto del Presidente della Repubblica 5 giugno 2001, n. 328, ovvero il possesso di laurea in ingegneria conseguita precedentemente all'entrata in vigore del citato decreto n. 509 del 1999; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                l'iscrizione attiva all'Albo degli ingegneri nei settori dell'ingegneria industriale o dell'ingegneria dell'informazione della sezione A, ai sensi dell'articolo 45 del decreto del Presidente della Repubblica 5 giugno 2001, n. 328.
+
+3.
+                    
+                        
+                            Costituiscono requisiti necessari per l'iscrizione nella sezione B dell'elenco di cui all'articolo 1: 
+ 
+                        
+                        
+                            a)
+                            
+                                il possesso di un titolo di laurea nelle classi L-8 (ingegneria dell'informazione) e L-9 (ingegneria industriale) di cui al decreto del Ministro dell'universita' e della ricerca 22 ottobre 2004, n. 270 o di laurea nelle classi 9 (ingegneria dell'informazione) e 10 (ingegneria industriale), di cui al decreto del Ministro dell'universita' e della ricerca 3 novembre 1999, n. 509; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                l'iscrizione attiva all'Albo degli ingegneri nei settori dell'ingegneria industriale o dell'ingegneria dell'informazione della sezione B, ai sensi dell'articolo 45 del decreto del Presidente della Repubblica 5 giugno 2001, n. 328; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                il possesso di competenze in materia di ingegneria biomedica e clinica certificate dal Consiglio nazionale degli ingegneri ai sensi dell'articolo 5.
 
 ## Art. 4. — Procedura di iscrizione
 

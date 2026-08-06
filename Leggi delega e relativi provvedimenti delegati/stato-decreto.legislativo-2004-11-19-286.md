@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Leggi delega e relativi provvedimenti delegati
 vigenza_date: 2025-06-07
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:41:15Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -46,6 +46,25 @@ Per i fini di cui all'articolo 1 l'Istituto nazionale di valutazione del sistema
 
 L'Istituto e' ente di ricerca con personalita' giuridica di diritto pubblico ed autonomia amministrativa, contabile, patrimoniale, regolamentare e finanziaria.
 
+3.
+                    
+                        
+                            L'Istituto e' soggetto alla vigilanza del Ministero dell'istruzione, universita' e ricerca, di seguito denominato:
+«Ministero». Il Ministro dell'istruzione, dell'universita' e della ricerca, di seguito denominato «Ministro» individua, con periodicita' almeno triennale, le priorita' strategiche delle quali l'Istituto tiene conto per programmare la propria attivita', fermo restando che la valutazione delle priorita' tecnico-scientifiche e' riservata all'Istituto. A tale fine il Ministro provvede:
+ 
+                        
+                        
+                            a)
+                            
+                                con propria direttiva, relativamente al sistema dell'istruzione;
+
+                            
+                        
+                        
+                            b)
+                            
+                                con apposite linee guida definite d'intesa con la Conferenza unificata di cui all'articolo 8 del decreto legislativo 28 agosto 1997, n. 281, previo concerto con il Ministro del lavoro e delle politiche sociali, relativamente al sistema dell'istruzione e formazione professionale.
+
 Il Ministro adotta altresi' specifiche direttive connesse agli obiettivi generali delle politiche educative nazionali.
 
 ## Art. 3. — Compiti dell'Istituto nazionale per la valutazione
@@ -63,6 +82,29 @@ L'Istituto pubblica ogni anno un rapporto sull'attivita' svolta.
 
 ((
 
+1.
+                    
+                        
+                            Gli organi dell'Istituto sono:
+
+                        
+                        
+                            a)
+                            
+                                il Presidente;
+                            
+                        
+                        
+                            b)
+                            
+                                il Comitato di indirizzo;
+                            
+                        
+                        
+                            c)
+                            
+                                il Collegio dei revisori dei conti.
+
 ))
 
 ## Art. 5. — Presidente
@@ -73,10 +115,111 @@ Il Presidente e' scelto tra persone di alta qualificazione scientifica e con ade
 
 ))
 
+2.
+                    
+                        
+                            Il Presidente ha la rappresentanza legale dell'Istituto. Il Presidente:
+
+                        
+                        
+                            a)
+                            
+                                convoca e presiede le riunioni del ((Comitato di indirizzo)), stabilendone l'ordine del giorno;
+                            
+                        
+                        
+                            b)
+                            
+                                formula, nel rispetto delle priorita' strategiche individuate dalle direttive e dalle linee-guida di cui all'articolo 2, comma 3, le proposte al ((Comitato di indirizzo)) ai fini dell'approvazione del programma annuale dell'Istituto e della determinazione degli indirizzi generali della gestione;
+                            
+                        
+                        
+                            c)
+                            
+                                sovrintende alle attivita' dell'Istituto;
+                            
+                        
+                        
+                            d)
+                            
+                                formula al ((Comitato di indirizzo)) la proposta per il conferimento dell'incarico di direttore generale dell'Istituto e adotta il conseguente provvedimento;
+                            
+                        
+                        
+                            e)
+                            
+                                presenta al Ministro le relazioni di cui all'articolo 3, comma 4;
+                            
+                        
+                        
+                            f)
+                            
+                                in caso di urgenza adotta provvedimenti di competenza del ((Comitato di indirizzo)), da sottoporre a ratifica nella prima riunione successiva del Comitato stesso.
+
 ## Art. 6. — Comitato di indirizzo
 
 ((Il comitato di indirizzo e' composto dal Presidente e da due membri, nel rispetto del principio di pari opportunita', in possesso di requisiti di qualificazione scientifica e conoscenza riconosciuta dei sistemi di istruzione e valutazione in Italia e all'estero.
 Almeno uno dei membri deve provenire dal mondo della scuola.)) I componenti del Comitato sono scelti dal Ministro tra esperti nei settori di competenza dell'Istituto, sulla base di una indicazione di candidati effettuata da un'apposita commissione, previo avviso da pubblicare nella Gazzetta Ufficiale finalizzato all'acquisizione dei curricula. La commissione esaminatrice, nominata dal Ministro, e' composta da tre membri compreso il Presidente, dotati delle necessarie competenze amministrative e scientifiche.
+
+2.
+                    
+                        
+                            Il Comitato di indirizzo, su proposta del Presidente:
+ 
+                        
+                        
+                            a)
+                            
+                                approva, nel rispetto delle direttive del Ministro e delle linee guida di cui all'articolo 2, comma 3, il programma annuale delle attivita' dell'Istituto, fissando altresi' linee prioritarie e criteri metodologici, modulabili anche nel tempo, per lo svolgimento delle verifiche di cui all'articolo 3, comma 1, lettera a);
+
+                            
+                        
+                        
+                            b)
+                            
+                                esamina i risultati delle verifiche periodiche e sistematiche svolte dall'area tecnica di cui all'articolo 9, comma 2, nonche' le relazioni di cui all'articolo 3, comma 4;
+
+                            
+                        
+                        
+                            c)
+                            
+                                determina gli indirizzi della gestione;
+
+                            
+                        
+                        
+                            d)
+                            
+                                delibera il bilancio di previsione e le relative eventuali variazioni, ed il conto consuntivo;
+
+                            
+                        
+                        
+                            e)
+                            
+                                delibera l'affidamento dell'incarico di direttore generale dell'Istituto ed il relativo trattamento economico;
+
+                            
+                        
+                        
+                            f)
+                            
+                                valuta i risultati dell'attivita' del direttore generale e la conformita' della stessa rispetto agli indirizzi, adottando le relative determinazioni;
+
+                            
+                        
+                        
+                            g)
+                            
+                                delibera i regolamenti dell'Istituto;
+
+                            
+                        
+                        
+                            h)
+                            
+                                delibera in ordine ad ogni altra materia attribuitagli dai regolamenti dell'Istituto.
 
 Ai fini di cui all'articolo 1, comma 1, lettera d), e dell'articolo 6 del decreto legislativo 30 luglio 1999, n. 286, il Comitato stabilisce le modalita' operative del controllo strategico e, in base a tale controllo, individua le cause dell'eventuale mancata rispondenza dei risultati agli obiettivi e delibera i necessari interventi correttivi.
 
@@ -92,9 +235,55 @@ Il Collegio si compone di tre membri effettivi e tre supplenti, nominati con dec
 
 Il direttore generale, nel rispetto degli indirizzi della gestione determinati dal Comitato di indirizzo, e' responsabile del funzionamento dell'Istituto, dell'attuazione del programma, dell'esecuzione delle deliberazioni del Comitato di indirizzo, dell'attuazione dei provvedimenti del presidente e della gestione del personale. A tale fine adotta gli atti di gestione, compresi quelli che impegnano l'Istituto verso l'esterno. Egli partecipa alle riunioni del Comitato di indirizzo, senza diritto di voto; tale partecipazione e' esclusa quando il Comitato ne valuta l'attivita'.
 
+2.
+                    
+                        
+                            Il direttore generale, tra l'altro, nell'esercizio dei suoi compiti: 
+
+                        
+                        
+                            a)
+                            
+                                predispone, in attuazione del programma dell'Istituto, il bilancio di previsione e le relative eventuali variazioni, nonche' il conto consuntivo; 
+                            
+                        
+                        
+                            b)
+                            
+                                assicura le condizioni per il piu' efficace svolgimento delle attivita' e per la realizzazione dei progetti previsti nel programma; 
+                            
+                        
+                        
+                            c)
+                            
+                                adotta gli atti di organizzazione degli uffici e delle articolazioni strutturali dell'Istituto previste dal regolamento di organizzazione e funzionamento di cui all'articolo 9, comma 1, lettera a), assegnando il relativo personale; 
+                            
+                        
+                        
+                            d)
+                            
+                                stipula i contratti di prestazione d'opera e di ricerca necessari per la realizzazione dei progetti previsti dal programma annuale, sulla base dei criteri fissati nel regolamento di cui alla lettera c).
+
 ((Il direttore generale e' scelto, sulla base di un avviso pubblico, tra persone di qualificata e comprovata professionalita' ed esperienza amministrativa e gestionale. Il direttore generale e' assunto con contratto di lavoro a tempo determinato di diritto privato; al direttore generale si applica il trattamento giuridico ed economico previsto per i dirigenti di livello generale dal contratto collettivo nazionale di lavoro relativo al personale dell'area istruzione e ricerca. Il relativo incarico di dirigente di livello generale e' conferito dal Presidente, previa delibera del Consiglio di amministrazione, e' di durata non superiore a un triennio, rinnovabile, e in ogni caso cessa, se non rinnovato, decorsi novanta giorni dalla scadenza dell'incarico del Presidente)).
 
 ## Art. 9. — Regolamenti e principi di organizzazione
+
+1.
+                    
+                        
+                            L'Istituto si dota dei seguenti regolamenti:
+
+                        
+                        
+                            a)
+                            
+                                regolamento di organizzazione e funzionamento;
+                            
+                        
+                        
+                            b)
+                            
+                                regolamento di amministrazione, contabilita' e finanza.
 
 Il regolamento di cui al comma 1, lettera a), definisce l'organizzazione dell'Istituto sulla base del principio di separazione tra compiti e responsabilita' di indirizzo e programmazione e compiti e responsabilita' di gestione, prevedendo un'area dei servizi amministrativi ed informatici ed un'area tecnica della valutazione che, in attuazione del programma di attivita' approvato dal ((Comitato di indirizzo)) dell'Istituto e secondo i criteri metodologici definiti, svolge le verifiche periodiche e ne comunica gli esiti al comitato stesso; lo stesso regolamento provvede in particolare alla ripartizione dei posti della dotazione organica del personale, di cui alla allegata tabella A, tra le aree, i livelli ed i profili professionali, a disciplinare il reclutamento del medesimo personale attraverso procedure concorsuali pubbliche, nel rispetto delle norme in materia di reclutamento del personale delle pubbliche amministrazioni, nonche' a definire la disciplina relativa alle selezioni per i comandi di cui all'articolo 11.
 
@@ -125,6 +314,45 @@ Nell'esercizio delle ordinarie attivita' istituzionali, l'Istituto puo' avvalers
 L'Istituto assicura adeguate forme di pubblicizzazione dei contratti che intende stipulare, nonche' congrui termini per la presentazione delle domande.
 
 ## Art. 13. — Patrimonio e risorse finanziarie
+
+1.
+                    
+                        
+                            L'Istituto provvede ai propri compiti con:
+ 
+                        
+                        
+                            a)
+                            
+                                redditi del patrimonio;
+
+                            
+                        
+                        
+                            b)
+                            
+                                contributo ordinario dello Stato;
+
+                            
+                        
+                        
+                            c)
+                            
+                                eventuali altri contributi, dello Stato, delle Regioni e degli enti locali;
+
+                            
+                        
+                        
+                            d)
+                            
+                                eventuali contributi ed assegnazioni, da parte di soggetti o enti pubblici e privati, italiani e stranieri;
+
+                            
+                        
+                        
+                            e)
+                            
+                                eventuali altre entrate, anche derivanti dall'esercizio di attivita' negoziali e contrattuali coerenti con le finalita' dell'Istituto.
 
 ## Art. 14. — Disposizioni particolari per le Regioni a statuto speciale e per le province autonome di Trento e di Bolzano
 

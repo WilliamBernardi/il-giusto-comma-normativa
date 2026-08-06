@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Regolamenti governativi
 vigenza_date: 2025-01-01
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:11Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -26,6 +26,71 @@ Sulla proposta del Ministro del tesoro, di concerto con i Ministri dell'industri
 
 ## Art. 1. — Definizioni
 
+1.
+                    
+                        
+                            Ai sensi del presente regolamento si intende:
+ 
+                        
+                        
+                            a)
+                            
+                                per "legge", la legge 7 marzo 1996, n. 108;
+
+                            
+                        
+                        
+                            b)
+                            
+                                per "fondo", il fondo per la prevenzione del fenomeno dell'usura;
+
+                            
+                        
+                        
+                            c)
+                            
+                                per "confidi", i consorzi e le cooperative di garanzia collettiva fidi;
+
+                            
+                        
+                        
+                            d)
+                            
+                                per "Ministero del tesoro", il Ministero del tesoro - Direzione generale del tesoro - Servizio V Antiriciclaggio contenzioso e valutario.
+
+1.
+                    
+                        
+                            Ai sensi del presente regolamento si intende: 
+ 
+                        
+                        
+                            a)
+                            
+                                per "legge", la legge 7 marzo 1996, n. 108; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                per "fondo", il fondo per la prevenzione del fenomeno dell'usura; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                per "confidi", i consorzi e le cooperative di garanzia collettiva fidi; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                per "Ministero del tesoro", il Ministero del tesoro - Direzione generale del tesoro - Servizio V Antiriciclaggio contenzioso e valutario. 
+ ((1))
+
 ---------------
                         AGGIORNAMENTO (1)
                         
@@ -34,6 +99,43 @@ A decorrere dalla stessa data sono abrogati: [...]
  c) il regolamento di cui al decreto del Presidente della Repubblica 11 giugno 1997, n. 315.
 
 ## Art. 2. — Soggetti beneficiari del contributo
+
+1.
+                    
+                        
+                            Possono beneficiare dei contributi del "fondo":
+ 
+                        
+                        
+                            a)
+                            
+                                i confidi iscritti nell'apposita sezione dell'elenco generale di cui all'articolo 155, comma 4, del decreto legislativo 1 settembre 1993, n. 385;
+
+                            
+                        
+                        
+                            b)
+                            
+                                le fondazioni e le associazioni riconosciute per la prevenzione del fenomeno dell'usura, iscritte nell'elenco tenuto dal Ministero del tesoro, di cui all'articolo 3.
+
+1.
+                    
+                        
+                            Possono beneficiare dei contributi del "fondo": 
+ 
+                        
+                        
+                            a)
+                            
+                                i confidi iscritti nell'apposita sezione dell'elenco generale di cui all'articolo 155, comma 4, del decreto legislativo 1 settembre 1993, n. 385; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                le fondazioni e le associazioni riconosciute per la prevenzione del fenomeno dell'usura, iscritte nell'elenco tenuto dal Ministero del tesoro, di cui all'articolo 3. 
+ ((1))
 
 ---------------
                         AGGIORNAMENTO (1)
@@ -46,11 +148,61 @@ A decorrere dalla stessa data sono abrogati: [...]
 
 E' istituito presso il Ministero del tesoro l'elenco delle fondazioni ed associazioni riconosciute per la prevenzione del fenomeno dell'usura.
 
+2.
+                    
+                        
+                            Sono iscritte nell'elenco le associazioni e le fondazioni:
+ 
+                        
+                        
+                            a)
+                            
+                                che hanno ottenuto il riconoscimento da parte dello Stato o della regione;
+
+                            
+                        
+                        
+                            b)
+                            
+                                che nell'atto costitutivo e nello statuto contengono le "scopo della prevenzione del fenomeno dell'usura, anche attraverso forme di tutela, assistenza ed informazione", nonche', nello stesso statuto, le indicazioni dei criteri specifici di meritevolezza dei soggetti di cui al comma 6 dell'articolo 15 della legge, riferiti allo stato di bisogno ed alla situazione patrimoniale dei soggetti richiedenti e delle modalita' di deliberazione collegiale della garanzia;
+
+                            
+                        
+                        
+                            c)
+                            
+                                che sono in possesso dei requisiti patrimoniali, di professionalita' ed onorabilita' determinati con il decreto del Ministro del tesoro del 6 agosto 1996, pubblicato nella Gazzetta Ufficiale 13 agosto 1996, n. 189.
+
 La domanda di iscrizione nell'elenco di cui al comma 1 e' presentata al Ministero del tesoro ed e' corredata della documentazione comprovante la sussistenza delle condizioni indicate al comma 2. Alla domanda deve essere allegata copia conforme all'originale dell'atto costitutivo e dello statuto.
 
 Il Ministro del tesoro dispone la cancellazione dall'elenco di cui al comma 1 quando viene meno una delle condizioni indicate al comma 2 o quando risultano gravi violazioni di norme di legge, trasmettendo copia del provvedimento al Ministero dell'interno. Il provvedimento di cancellazione deve essere motivato e viene adottato previa contestazione degli addebiti da parte del Ministero del tesoro. Il soggetto interessato puo' presentare deduzioni entro trenta giorni dalla contestazione degli addebiti.
 
 E' istituito presso il Ministero del tesoro l'elenco delle fondazioni ed associazioni riconosciute per la prevenzione del fenomeno dell'usura.
+
+2.
+                    
+                        
+                            Sono iscritte nell'elenco le associazioni e le fondazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                che hanno ottenuto il riconoscimento da parte dello Stato o della regione; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                che nell'atto costitutivo e nello statuto contengono le "scopo della prevenzione del fenomeno dell'usura, anche attraverso forme di tutela, assistenza ed informazione", nonche', nello stesso statuto, le indicazioni dei criteri specifici di meritevolezza dei soggetti di cui al comma 6 dell'articolo 15 della legge, riferiti allo stato di bisogno ed alla situazione patrimoniale dei soggetti richiedenti e delle modalita' di deliberazione collegiale della garanzia; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                che sono in possesso dei requisiti patrimoniali, di professionalita' ed onorabilita' determinati con il decreto del Ministro del tesoro del 6 agosto 1996, pubblicato nella Gazzetta Ufficiale 13 agosto 1996, n. 189.
 
 La domanda di iscrizione nell'elenco di cui al comma 1 e' presentata al Ministero del tesoro ed e' corredata della documentazione comprovante la sussistenza delle condizioni indicate al comma 2. Alla domanda deve essere allegata copia conforme all'originale dell'atto costitutivo e dello statuto.
 
@@ -66,7 +218,93 @@ A decorrere dalla stessa data sono abrogati: [...]
 
 ## Art. 4. — Domande di concessione del contributo da parte delle fondazioni ed associazioni riconosciute
 
+1.
+                    
+                        
+                            La domanda, per beneficiare del contributo da parte delle fondazioni ed associazioni riconosciute, e' inviata al Ministero del tesoro e deve comprendere le seguenti indicazioni:
+ 
+                        
+                        
+                            a)
+                            
+                                l'ammontare del contributo richiesto;
+
+                            
+                        
+                        
+                            b)
+                            
+                                il numero di conto corrente bancario sul quale accreditare il contributo specificando la banca, nonche' la sede, filiale o sportello;
+
+                            
+                        
+                        
+                            c)
+                            
+                                l'ambito territoriale di operativita'.
+
+2.
+                    
+                        
+                            Alla domanda devono essere allegati:
+ 
+                        
+                        
+                            a)
+                            
+                                la copia delle convenzioni in atto con le banche per la prestazione delle garanzie previste dall'articolo 15, comma 6, della legge;
+
+                            
+                        
+                        
+                            b)
+                            
+                                il rendiconto approvato relativo all'ultimo anno, o, se non ancora approvato, quello dell'anno precedente, con la relazione di accompagnamento.
+
 La domanda deve essere inviata: per la prima applicazione del presente regolamento, entro trenta giorni dalla data di entrata in vigore dello stesso regolamento; per gli anni successivi, entro il 31 marzo di ciascun anno. La documentazione, per il primo anno, puo' essere prodotta entro i trenta giorni successivi alla presentazione della domanda.
+
+1.
+                    
+                        
+                            La domanda, per beneficiare del contributo da parte delle fondazioni ed associazioni riconosciute, e' inviata al Ministero del tesoro e deve comprendere le seguenti indicazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                l'ammontare del contributo richiesto; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                il numero di conto corrente bancario sul quale accreditare il contributo specificando la banca, nonche' la sede, filiale o sportello; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                l'ambito territoriale di operativita'.
+
+2.
+                    
+                        
+                            Alla domanda devono essere allegati: 
+ 
+                        
+                        
+                            a)
+                            
+                                la copia delle convenzioni in atto con le banche per la prestazione delle garanzie previste dall'articolo 15, comma 6, della legge; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                il rendiconto approvato relativo all'ultimo anno, o, se non ancora approvato, quello dell'anno precedente, con la relazione di accompagnamento.
 
 La domanda deve essere inviata: per la prima applicazione del presente regolamento, entro trenta giorni dalla data di entrata in vigore dello stesso regolamento; per gli anni successivi, entro il 31 marzo di ciascun anno. La documentazione, per il primo anno, puo' essere prodotta entro i trenta giorni successivi alla presentazione della domanda. 
  ((1))
@@ -97,7 +335,135 @@ A decorrere dalla stessa data sono abrogati: [...]
 
 ## Art. 6. — Domanda di concessione del contributo da parte dei confidi
 
+1.
+                    
+                        
+                            La domanda, per beneficiare del contributo da parte del confidi, e' inviata al Ministero del tesoro e deve comprendere le seguenti indicazioni:
+ 
+                        
+                        
+                            a)
+                            
+                                l'ammontare dello stanziamento effettuato dal confidi per la costituzione del fondo speciale antiusura, finalizzato al rilascio delle garanzie di cui all'articolo 15, comma 2, della legge;
+
+                            
+                        
+                        
+                            b)
+                            
+                                l'ambito territoriale e settore economico di competenza del fondo speciale antiusura;
+
+                            
+                        
+                        
+                            c)
+                            
+                                l'ammontare del contributo richiesto;
+
+                            
+                        
+                        
+                            d)
+                            
+                                il numero di conto corrente bancario sul quale accreditare il contributo, specificando la banca, nonche' la sede, filiale o sportello;
+
+                            
+                        
+                        
+                            e)
+                            
+                                la dichiarazione resa dal legale rappresentante che attesta che il confidi e' iscritto nell'apposita sezione dell'elenco generale di cui all'articolo 155, comma 4, del decreto legislativo 1 settembre 1993, n. 385, e che ricorrono le caratteristiche del fondo speciale antiusura di cui all'articolo 7, nonche' il possesso dei requisiti indicati nel decreto del Ministero del tesoro del 6 agosto 1996, pubblicato nella Gazzettta Ufficiale n. 189 del 13 agosto 1996.
+
+2.
+                    
+                        
+                            Alla domanda devono essere allegati:
+ 
+                        
+                        
+                            a)
+                            
+                                la copia conforme all'originale della delibera di costituzione del fondo speciale antiusura ai sensi dell'articolo 15, comma 2, della legge;
+
+                            
+                        
+                        
+                            b)
+                            
+                                la copia delle convenzioni in atto con le banche per la prestazione delle garanzie previste dall'articolo 15, comma 2, della legge;
+
+                            
+                        
+                        
+                            c)
+                            
+                                il bilancio approvato relativo all'ultimo anno, o, se non ancora approvato, quello dell'anno precedente, con la relazione di accompagnamento.
+
 La domanda deve essere inviata: per la prima applicazione del presente regolamento, entro trenta giorni dalla data di entrata in vigore dello stesso regolamento; per gli anni successivi, entro il 31 marzo di ciascun anno. La documentazione, per il primo anno, puo' essere prodotta entro i trenta giorni successivi alla presentazione della domanda.
+
+1.
+                    
+                        
+                            La domanda, per beneficiare del contributo da parte del confidi, e' inviata al Ministero del tesoro e deve comprendere le seguenti indicazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                l'ammontare dello stanziamento effettuato dal confidi per la costituzione del fondo speciale antiusura, finalizzato al rilascio delle garanzie di cui all'articolo 15, comma 2, della legge; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                l'ambito territoriale e settore economico di competenza del fondo speciale antiusura; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                l'ammontare del contributo richiesto; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                il numero di conto corrente bancario sul quale accreditare il contributo, specificando la banca, nonche' la sede, filiale o sportello; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                la dichiarazione resa dal legale rappresentante che attesta che il confidi e' iscritto nell'apposita sezione dell'elenco generale di cui all'articolo 155, comma 4, del decreto legislativo 1 settembre 1993, n. 385, e che ricorrono le caratteristiche del fondo speciale antiusura di cui all'articolo 7, nonche' il possesso dei requisiti indicati nel decreto del Ministero del tesoro del 6 agosto 1996, pubblicato nella Gazzettta Ufficiale n. 189 del 13 agosto 1996.
+
+2.
+                    
+                        
+                            Alla domanda devono essere allegati: 
+ 
+                        
+                        
+                            a)
+                            
+                                la copia conforme all'originale della delibera di costituzione del fondo speciale antiusura ai sensi dell'articolo 15, comma 2, della legge; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                la copia delle convenzioni in atto con le banche per la prestazione delle garanzie previste dall'articolo 15, comma 2, della legge; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                il bilancio approvato relativo all'ultimo anno, o, se non ancora approvato, quello dell'anno precedente, con la relazione di accompagnamento.
 
 La domanda deve essere inviata: per la prima applicazione del presente regolamento, entro trenta giorni dalla data di entrata in vigore dello stesso regolamento; per gli anni successivi, entro il 31 marzo di ciascun anno. La documentazione, per il primo anno, puo' essere prodotta entro i trenta giorni successivi alla presentazione della domanda. 
  ((1))
@@ -112,7 +478,43 @@ A decorrere dalla stessa data sono abrogati: [...]
 ## Art. 7. — Caratteristiche del fondo speciale antiusura 
  costituito dai confidi
 
+1.
+                    
+                        
+                            Il fondo speciale antiusura per il quale si chiede la concessione del contributo deve avere le seguenti caratteristiche:
+ 
+                        
+                        
+                            a)
+                            
+                                essere costituito e gestito in forma separata dal fondo rischi ordinario ed essere di libera disponibilita' del confidi;
+
+                            
+                        
+                        
+                            b)
+                            
+                                essere riservato esclusivamente alla concessione delle garanzie previste dall'articolo 15, comma 2, della legge.
+
 La garanzia del fondo speciale antiusura puo' essere deliberata dal confidi se vi e' per lo stesso finanziamento a medio termine o incremento della linea di credito a breve termine richiesto, una garanzia del confidi a valere sul proprio fondo rischi ordinario, rilasciata in base ai criteri fissati nello statuto del confidi stesso.
+
+1.
+                    
+                        
+                            Il fondo speciale antiusura per il quale si chiede la concessione del contributo deve avere le seguenti caratteristiche: 
+ 
+                        
+                        
+                            a)
+                            
+                                essere costituito e gestito in forma separata dal fondo rischi ordinario ed essere di libera disponibilita' del confidi; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                essere riservato esclusivamente alla concessione delle garanzie previste dall'articolo 15, comma 2, della legge.
 
 La garanzia del fondo speciale antiusura puo' essere deliberata dal confidi se vi e' per lo stesso finanziamento a medio termine o incremento della linea di credito a breve termine richiesto, una garanzia del confidi a valere sul proprio fondo rischi ordinario, rilasciata in base ai criteri fissati nello statuto del confidi stesso. 
  ((1))
@@ -167,7 +569,73 @@ A decorrere dalla stessa data sono abrogati: [...]
 
 ## Art. 10. — Relazione sull'operativita'
 
+1.
+                    
+                        
+                            I confidi, le fondazioni e le associazioni riconosciute ai quali sono stati concessi i contributi, devono inviare, entro il 31 marzo di ciascun anno al Ministero del tesoro, una relazione firmata dal legale rappresentante in cui si attesti, con riferimento all'anno precedente:
+ 
+                        
+                        
+                            a)
+                            
+                                l'ammontare dei prestiti garantiti;
+
+                            
+                        
+                        
+                            b)
+                            
+                                l'elenco dei beneficiari, con l'indicazione dei finanziamenti deliberati, della rispettiva scadenza, dell'importo della garanzia prestata, della percentuale in rapporto al finanziamento e l'eventuale nominativo del soggetto cogarante con la relativa percentuale di garanzia;
+
+                            
+                        
+                        
+                            c)
+                            
+                                l'elenco delle garanzie escusse distinto per banca con il relativo importo pagato;
+
+                            
+                        
+                        
+                            d)
+                            
+                                l'ammontare del fondo speciale antiusura tenuto conto delle garanzie concesse, esclusivamente per i confidi;
+ c) il rendiconto delle spese di gestione del fondo antiusura.
+
 Entro sei mesi dalla cessazione dell'attivita', scioglimento, liquidazione o cancellazione dagli elenchi dei suddetti enti il contributo non impegnato per la concessione di garanzie, comprensivo degli interessi maturati, deve essere restituito mediante versamento del relativo importo al bilancio dello Stato. Per le somme impegnate la restituzione dovra' avvenire entro sei mesi dal rimborso dei prestiti garantiti, al netto delle insolvenze. Anche dopo la scadenza di quest'ultimo termine devono essere restituite le somme eventualmente recuperate dopo l'escussione delle garanzie.
+
+1.
+                    
+                        
+                            I confidi, le fondazioni e le associazioni riconosciute ai quali sono stati concessi i contributi, devono inviare, entro il 31 marzo di ciascun anno al Ministero del tesoro, una relazione firmata dal legale rappresentante in cui si attesti, con riferimento all'anno precedente: 
+ 
+                        
+                        
+                            a)
+                            
+                                l'ammontare dei prestiti garantiti; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                l'elenco dei beneficiari, con l'indicazione dei finanziamenti deliberati, della rispettiva scadenza, dell'importo della garanzia prestata, della percentuale in rapporto al finanziamento e l'eventuale nominativo del soggetto cogarante con la relativa percentuale di garanzia; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                l'elenco delle garanzie escusse distinto per banca con il relativo importo pagato; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                l'ammontare del fondo speciale antiusura tenuto conto delle garanzie concesse, esclusivamente per i confidi; 
+ c) il rendiconto delle spese di gestione del fondo antiusura.
 
 Entro sei mesi dalla cessazione dell'attivita', scioglimento, liquidazione o cancellazione dagli elenchi dei suddetti enti il contributo non impegnato per la concessione di garanzie, comprensivo degli interessi maturati, deve essere restituito mediante versamento del relativo importo al bilancio dello Stato. Per le somme impegnate la restituzione dovra' avvenire entro sei mesi dal rimborso dei prestiti garantiti, al netto delle insolvenze. Anche dopo la scadenza di quest'ultimo termine devono essere restituite le somme eventualmente recuperate dopo l'escussione delle garanzie. 
  ((1))

@@ -8,8 +8,8 @@ codice_redazionale: 099G0072
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:42Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -36,6 +36,68 @@ Udito il parere del Consiglio di Stato, espresso nell'adunanza della sezione con
 ## Art. 1. — Ambito di applicazione
 
 Il regolamento definisce i criteri e le procedure per il riconoscimento degli istituti i quali, ai sensi e per gli effetti di cui all'articolo 3 della legge 18 febbraio 1989, n. 56, intendono richiedere il riconoscimento per l'istituzione e l'attivazione di corsi di specializzazione in psicoterapia di durata almeno quadriennale.
+
+2.
+                        
+                            
+                                Ai sensi del regolamento si intendono:
+ 
+                            
+                            
+                                a)
+                                
+                                    per Ministro, il Ministro dell'universita' e della ricerca scientifica e tecnologica;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    per Ministero, il Ministero dell'universita' e della ricerca scientifica e tecnologica;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    per Dipartimento, il Dipartimento per l'autonomia universitaria e gli studenti, di cui al decreto del Presidente della Repubblica 6 settembre 1996, n. 522, articolo 3, comma 1, lettera a), e comma 2;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    per legge, la legge 18 febbraio 1989, n. 56;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    per istituti di cui all'articolo 3 della legge, i soggetti pubblici e privati, quest'ultimi costituiti ed ordinati ai sensi del codice civile, aventi come finalita' la istituzione di corsi di specializzazione in psicoterapia per i fini di cui alla legge stessa;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    per commissione, la commissione tecnicoconsultiva di cui all'articolo 3;
+
+                                
+                            
+                            
+                                g)
+                                
+                                    per osservatorio, l'osservatorio per la valutazione del sistema universitario italiano di cui all'articolo 5, comma 23, della legge 24 dicembre 1993, n. 537.
+ Avvertenza:
+ Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, comma 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con D.P.R. 28 dicembre 1985, n. 1092, al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
+ Note alla premesse:
+ - I commi 3 e 4 dell'art. 17 della legge 23 agosto 1988, n. 400 (Disciplina dell'attivita' di Governo e ordinamento della Presidenza del Consiglio dei Ministri), prevedono:
+ "3. Con decreto ministeriale possono essere adottati regolamenti nelle materie di competenza del Ministro o di autorita' sottordinate al Ministro, quando la legge espressamente conferisca tale potere. Tali regolamenti, per materie di competenza di piu' Ministri, possono essere adottati con decreti interministeriali, ferma restando la necessita' di apposita autorizzazione da parte della legge. I regolamenti ministeriali ed interministeriali non possono dettare norme contrarie a quelle dei regolamenti emanati dal Governo. Essi debbono essere comunicati al Presidente del Consiglio dei Ministri prima della loro emanazione.
+ 4. I regolamenti di cui al comma 1 ed i regolamenti ministeriali ed interministeriali, che devono recare la denominazione di "regolamento", sono adottati previo parere del Consiglio di Stato, sottoposti al visto ed alla registrazione della Corte dei conti e pubblicati nella Gazzetta Ufficiale". - L'art. 17, comma 96, lettera b) della legge 15 maggio 1997, n. 127 (Misure urgenti per lo snellimento dell'attivita' amministrativa e dei procedimenti di decisione e di controllo) e' il seguente:
+ "96. Con decreti del Ministro dell'universita' e della ricerca scientifica e tecnologica, emanati sulla base di criteri di semplificazione delle procedure e di armonizzazione con la revisione degli ordinamenti di cui al comma 95, e' altresi' rideterminata la disciplina concernente:
+ a) (omissis);
+ b) il riconoscimento degli istituti di cui all'art. 3, comma 1, della legge 18 febbraio 1989, n. 56, e la valutazione dei titoli da essi rilasciati". - Per il testo dell'art. 3, comma 1, della legge 18 febbraio 1989, n. 56, vedi nelle note all'art. 1.
 
 ## Art. 2. — Istanza di riconoscimento
 
@@ -114,6 +176,42 @@ Sono consentite abbreviazioni di corso, sulla base di criteri oggettivi e defini
 I corsi di cui all'articolo 7 hanno durata almeno quadriennale.
 
 Il numero delle ore annuali di insegnamento teorico e di formazione pratica e' determinato in misura non inferiore a 500, di cui almeno 100 dedicate al tirocinio in strutture o servizi pubblici o privati accreditati, nei quali l'allievo possa confrontare la specificita' del proprio modello di formazione con la domanda articolata dell'utenza ed acquisire esperienza di diagnostica clinica e di intervento in situazioni di emergenza.
+
+3.
+                        
+                            
+                                L'insegnamento teorico prevede:
+ 
+                            
+                            
+                                a)
+                                
+                                    un'ampia parte di psicologia generale, di psicologia dello sviluppo, di psicopatologia e diagnostica clinica nonche' la presentazione e discussione critica dei principali indirizzi psicoterapeutici;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'approfondimento specifico dell'indirizzo metodologico e teoricoculturale seguito dall'istituto.
+
+4.
+                        
+                            
+                                La formazione pratica prevede:
+ 
+                            
+                            
+                                a)
+                                
+                                    una formazione coerente al tipo di indirizzo psicoterapeutico adottato dall'istituto; formazione che prevedera', oltre a specifici momenti formativi, la supervisione delle psicoterapie attuate dagli allievi durante l'addestramento pratico;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    per il tirocinio di cui al comma 2, documentate esperienze in strutture e servizi pubblici e privati accreditati, al fine di verificare l'efficacia dell'indirizzo metodologico e teoricoculturale seguito dall'istituto.
 
 ## Art. 9. — Formazione teorica
 

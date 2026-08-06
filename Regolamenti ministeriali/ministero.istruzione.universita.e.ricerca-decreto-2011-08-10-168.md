@@ -8,8 +8,8 @@ codice_redazionale: 011G0214
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:39Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -37,6 +37,66 @@ La partecipazione del personale universitario di cui all'articolo 2, comma 1, le
  o start up universitari
 
 La proposta di costituzione della societa' e' approvata dal consiglio di amministrazione dell'universita', che delibera a maggioranza dei suoi membri, previo parere favorevole del senato accademico.
+
+2.
+                    
+                        
+                            La proposta deve essere corredata da un progetto imprenditoriale contenente: 
+ 
+                        
+                        
+                            a)
+                            
+                                gli obiettivi; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                il piano finanziario; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                le prospettive economiche e il mercato di riferimento; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                il carattere innovativo del progetto; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                le qualita' tecnologiche e scientifiche del progetto; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                la descrizione dei ruoli e delle mansioni dei professori e dei ricercatori coinvolti, con la previsione dell'impegno richiesto a ciascuno per lo svolgimento delle attivita' di spin off, al fine di consentire al Consiglio di amministrazione di valutare la compatibilita' con la disciplina appositamente definita dall'ateneo ai sensi del comma 9, dell'articolo 6 della legge 30 dicembre 2010, n. 240; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                le modalita' di eventuale partecipazione al capitale e la definizione della quota di partecipazione richiesta; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                gli aspetti relativi alla regolamentazione della proprieta' intellettuale, resi compatibili con la disciplina in materia prevista dall'ateneo.
 
 Non possono partecipare alle deliberazioni relative alla costituzione delle imprese spin off o start up i proponenti dell'iniziativa. Eventuali ulteriori casi di esclusione del proprio personale dalle deliberazioni in materia di spin off o start up rientrano nell'autonoma disciplina delle universita'.
 

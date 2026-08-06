@@ -8,8 +8,8 @@ codice_redazionale: 098G0145
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:42Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -34,6 +34,38 @@ A tal fine e' consentito al personale militare e civile comunque in servizio pre
 ## Art. 2. — Classificazione e modalita' di gestione
  degli organismi di protezione sociale
 
+1.
+                    
+                        
+                            Gli interventi di protezione sociale di cui al precedente articolo 1 sono esercitati da organismi all'uopo costituiti e sono classificati in:
+ 
+                        
+                        
+                            a)
+                            
+                                sale convegno per ufficiali, ispettori e sovrintendenti, appuntati e finanzieri, allievi: hanno la finalita' di contribuire a migliorare la funzionalita' e l'efficienza operativa, di rafforzare lo spirito di corpo tra il personale delle unita' organiche promuovendo e alimentando i vincoli di solidarieta' militare attraverso la partecipazione ad attivita' ricreative, sportive, culturali e di assistenza, eventualmente anche con servizi alloggiativi, di ristorazione e di balneazione e sviluppando rapporti di socialita' con l'ambiente esterno;
+
+                            
+                        
+                        
+                            b)
+                            
+                                circoli ufficiali, ispettori e sovrintendenti, appuntati e finanzieri: hanno la finalita' di costituire comunita' sociali, intese a conservare integro lo spirito di corpo ed i vincoli di solidarieta' militare tra ufficiali, ispettori, sovrintendenti, appuntati e finanzieri in servizio e in quiescenza, attraverso la comune partecipazione ad attivita' ricreative, culturali, sportive e di assistenza, eventualmente anche con servizi alloggiativi, di ristorazione e di balneazione, promuovendo e rafforzando i rapporti con l'ambiente sociale esterno;
+
+                            
+                        
+                        
+                            c)
+                            
+                                soggiorni marini e montani: hanno la finalita' di consentire al personale di trascorrere periodi di riposo e di recupero psicofisico in localita' aventi peculiari caratteristiche climatiche ed ambientali, anche in strutture appartenenti ad enti pubblici che promuovono iniziative a favore del personale della Guardia di finanza;
+
+                            
+                        
+                        
+                            d)
+                            
+                                mense non obbligatorie di servizio per ufficiali, ispettori e sovrintendenti, appuntati e finanzieri: hanno la finalita' di consentire al personale, anche al di fuori delle situazioni operative ed ambientali previste dalle vigenti disposizioni di legge, di avvalersi del servizio di ristorazione all'uopo predisposto dall'amministrazione in un contesto di affiatamento e cameratismo.
+
 Qualora esigenze di funzionalita' o di economicita' della gestione lo richiedano, gli organismi di cui al comma 1 possono essere costituiti in forma unificata per piu' categorie di personale.
 
 La gestione dei citati organismi puo' essere affidata in concessione ad organizzazioni costituite tra il personale dipendente ai sensi dell'articolo 8 della legge 11 luglio 1978, n. 382, ovvero ad enti o terzi. Per esigenze operative o per assicurare la continuita' degli interventi, tenuto conto del preminente interesse istituzionale e funzionale di tali organismi, l'amministrazione puo' provvedere all'esercizio diretto delle attivita' di protezione sociale.
@@ -46,6 +78,31 @@ La costituzione o la soppressione degli organismi di cui al presente articolo e'
  a carico dell'amministrazione
 
 Per l'organizzazione di ciascuno degli organismi di cui al precedente articolo 2, l'amministrazione rende disponibili idonei locali, mezzi, strutture, servizi ed impianti, in adeguate condizioni d'uso.
+
+2.
+                    
+                        
+                            Per garantire il funzionamento degli organismi, l'amministrazione assume a proprio carico le spese concernenti:
+ 
+                        
+                        
+                            a)
+                            
+                                il minuto mantenimento e l'ordinaria manutenzione dei locali assegnati;
+
+                            
+                        
+                        
+                            b)
+                            
+                                la costituzione, il mantenimento in efficienza ed il rinnovo di adeguate dotazioni di mobili, arredi, attrezzature ed altre pertinenze d'uso;
+
+                            
+                        
+                        
+                            c)
+                            
+                                i servizi generali di funzionamento e pulizia, limitatamente agli organismi per il personale in addestramento di formazione e per i finanzieri ausiliari.
 
 Possono, altresi', essere messe a disposizione degli organismi di protezione sociale, fatte salve le esigenze militari, strutture gia' in uso all'amministrazione finalizzate per l'esercizio di attivita' sportive, ricreative, culturali, alloggiative e di recupero psicofisico.
 

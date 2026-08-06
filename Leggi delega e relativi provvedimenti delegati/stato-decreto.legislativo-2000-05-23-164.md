@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Leggi delega e relativi provvedimenti delegati
 vigenza_date: 2023-12-31
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:41:18Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -41,6 +41,382 @@ Le norme del presente decreto relative al gas naturale, compreso il gas naturale
 
 ## Art. 2. — Definizioni
 
+1.
+                        
+                            
+                                Ai fini del presente decreto si intende per: 
+ 
+                            
+                            
+                                a)
+                                
+                                    cliente finale: il cliente che acquista gas naturale per uso proprio, ivi compresi gli impianti di distribuzione di metano per autotrazione che sono considerati clienti finali; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    cliente grossista: una persona fisica o giuridica, diversa dai gestori dei sistemi di trasporto e dai gestori dei sistemi di distribuzione, che acquista gas naturale a scopo di rivendita all'interno o all'esterno del sistema in cui e' stabilita; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    "cliente idoneo": la persona fisica o giuridica che ha la capacita', per effetto del presente decreto, di stipulare contratti di fornitura, acquisto e vendita con qualsiasi produttore, importatore, distributore o grossista, sia in Italia che all'estero, ed ha diritto di accesso al sistema; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    "clienti": i clienti grossisti o finali di gas naturale e le imprese di gas naturale che acquistano gas naturale; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    "codice di rete": codice contenente regole e modalita' per la gestione e il funzionamento della rete; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    "codice di stoccaggio": codice contenente regole e modalita' per la gestione e il funzionamento di un sistema di stoccaggio; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    "cogenerazione": la produzione combinata di energia elettrica e calore alle condizioni definite dall'Autorita' per l'energia elettrica e il gas; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    "coltivazione": l'estrazione di gas naturale da giacimenti; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    "cushion gas": quantitativo minimo indispensabile di gas presente o inserito nei giacimenti in fase di stoccaggio che e' necessario mantenere sempre nel giacimento e che ha la funzione di consentire l'erogazione dei restanti volumi senza pregiudicare nel tempo le caratteristiche minerarie dei giacimenti di stoccaggio; 
+
+                                
+                            
+                            
+                                j)
+                                
+                                    "dispacciamento": l'attivita' diretta ad impartire disposizioni per l'utilizzazione e l'esercizio coordinato degli impianti di coltivazione, di stoccaggio, della rete di trasporto e di distribuzione e dei servizi accessori; 
+
+                                
+                            
+                            
+                                k)
+                                
+                                    "dispacciamento passante": l'attivita' di cui alla lettera j), condizionata unicamente da eventuali impedimenti o vincoli di rete; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    "disponibilita' di punta giornaliera": quantita' di gas naturale, espressa in Smc/g, erogabile da un sistema di stoccaggio nell'ambito di un giorno; 
+
+                                
+                            
+                            
+                                m)
+                                
+                                    "disponibilita' di punta oraria": quantita' di gas naturale, espressa in Smc/g, erogabile da un sistema di stoccaggio nell'ambito di un'ora, moltiplicata per le 24 ore; 
+
+                                
+                            
+                            
+                                n)
+                                
+                                    "distribuzione": il trasporto di gas naturale attraverso reti di gasdotti locali per la consegna ai clienti; 
+
+                                
+                            
+                            
+                                o)
+                                
+                                    fornitura: la vendita, compresa la rivendita, di gas naturale, compreso il gas naturale liquefatto (GNL), ai clienti; 
+
+                                
+                            
+                            
+                                p)
+                                
+                                    impianto di GNL: un terminale utilizzato per le operazioni di liquefazione del gas naturale o l'importazione, o lo scarico e la rigassificazione di GNL, e comprendente servizi ausiliari e uno stoccaggio provvisorio necessari per il processo di rigassificazione e successiva consegna al sistema di trasporto ma non comprendente eventuali serbatoi ubicati presso i terminali non funzionali al ciclo di rigassificazione e utilizzati per l'attivita' di stoccaggio; 
+
+                                
+                            
+                            
+                                q)
+                                
+                                    impianto di stoccaggio: un impianto utilizzato per lo stoccaggio di gas naturale, di proprieta' o gestito da un'impresa di gas naturale, compresi gli impianti GNL utilizzati per lo stoccaggio, ad esclusione della parte di impianto utilizzata per operazioni di produzione e degli impianti riservati esclusivamente ai gestori dei sistemi di trasporto nello svolgimento delle loro funzioni; 
+
+                                
+                            
+                            
+                                r)
+                                
+                                    "impresa collegata": un'impresa collegata ai sensi dell'articolo 2359, comma 3°, del codice civile; 
+
+                                
+                            
+                            
+                                s)
+                                
+                                    "impresa controllata": una impresa controllata ai sensi dell'articolo 2359, commi 1° e 2°, del codice civile; 
+
+                                
+                            
+                            
+                                t)
+                                
+                                    impresa di gas naturale: ogni persona fisica o giuridica, ad esclusione dei clienti finali che svolge almeno una delle funzioni seguenti: produzione, trasporto, distribuzione, fornitura, acquisto o stoccaggio di gas naturale, compresa la rigassificazione di GNL e che e' responsabile per i compiti commerciali, tecnici o di manutenzione legati a queste funzioni; 
+
+                                
+                            
+                            
+                                u)
+                                
+                                    "impresa di gas naturale integrata orizzontalmente": un'impresa che svolge almeno una delle attivita' di importazione, esportazione, coltivazione, trasporto, distribuzione, stoccaggio o vendita di gas naturale ed una attivita' che non rientra nel settore del gas naturale; 
+
+                                
+                            
+                            
+                                v)
+                                
+                                    impresa verticalmente integrata: un'impresa di gas naturale o un gruppo di imprese di gas naturale nelle quali la stessa persona o le stesse persone, fisiche o giuridiche hanno, direttamente o indirettamente, il potere di esercitare il controllo, e in cui l'impresa o il gruppo di imprese svolge almeno una delle funzioni di trasporto, distribuzione, rigassificazione di GNL o stoccaggio e almeno una delle funzioni di produzione o fornitura di gas naturale; 
+
+                                
+                            
+                            
+                                w)
+                                
+                                    "linea diretta": un gasdotto che rifornisce un centro di consumo in modo complementare al sistema interconnesso; 
+
+                                
+                            
+                            
+                                x)
+                                
+                                    "periodo di punta giornaliera": il periodo compreso tra le ore 7 e le ore 22 di ciascun giorno nel periodo di punta stagionale; 
+
+                                
+                            
+                            
+                                y)
+                                
+                                    "periodo di punta stagionale": il periodo compreso tra il 15 novembre ed il 15 marzo di ciascun anno; 
+
+                                
+                            
+                            
+                                z)
+                                
+                                    "programmazione a lungo termine": l'individuazione degli approvvigionamenti e della capacita' di trasporto delle imprese di gas naturale necessarie al fine di soddisfare la domanda di gas naturale del sistema, diversificare le fonti e assicurare l'offerta ai clienti nel lungo termine; 
+
+                                
+                            
+                            
+                                aa)
+                                
+                                    rete di gasdotti di coltivazione (gasdotti upstream): ogni gasdotto o rete di gasdotti gestiti o costruiti quale parte di un impianto di produzione di idrocarburi liquidi o di gas naturale, oppure utilizzati per trasportare gas naturale da uno o piu' di tali impianti fino ad un impianto o terminale di trattamento oppure ad un terminale costiero di approdo; 
+
+                                
+                            
+                            
+                                bb)
+                                
+                                    "servizi accessori": i servizi necessari per la gestione di una rete di trasporto o distribuzione quali, esemplificativamente, i servizi di regolazione della pressione, il bilanciamento del carico, la miscelazione; 
+
+                                
+                            
+                            
+                                cc)
+                                
+                                    "sicurezza": la sicurezza di approvvigionamento e di consegna ai clienti, nonche' la sicurezza tecnica; 
+
+                                
+                            
+                            
+                                dd)
+                                
+                                    "sistema interconnesso": un insieme di sistemi reciprocamente collegati; 
+
+                                
+                            
+                            
+                                ee)
+                                
+                                    sistema: reti di trasporto, reti di distribuzione, impianti di GNL o impianti di stoccaggio di proprieta' o gestiti da un'impresa di gas naturale, compresi il linepack e i relativi impianti che forniscono servizi ausiliari nonche' quelli di imprese collegate necessari per dare accesso al trasporto, alla distribuzione e alla rigassificazione di GNL; 
+
+                                
+                            
+                            
+                                ff)
+                                
+                                    "stoccaggio di modulazione": lo stoccaggio finalizzato a soddisfare la modulazione dell'andamento giornaliero, stagionale e di punta dei consumi; 
+
+                                
+                            
+                            
+                                gg)
+                                
+                                    "stoccaggio minerario": lo stoccaggio necessario per motivi tecnici ed economici a consentire lo svolgimento ottimale della coltivazione di giacimenti di gas naturale nel territorio italiano; 
+
+                                
+                            
+                            
+                                hh)
+                                
+                                    "stoccaggio strategico": lo stoccaggio finalizzato a sopperire a situazioni di mancanza o riduzione degli approvvigionamenti o di crisi del sistema del gas; 
+
+                                
+                            
+                            
+                                ii)
+                                
+                                    trasporto: il trasporto di gas naturale finalizzato alla fornitura ai clienti, attraverso una rete che comprende soprattutto gasdotti ad alta pressione, diversa da una rete di gasdotti di coltivazione e diversa dalla parte dei gasdotti, anche ad alta pressione, utilizzati principalmente nell'ambito della distribuzione locale del gas naturale, ad esclusione della fornitura; 
+
+                                
+                            
+                            
+                                jj)
+                                
+                                    "utente del sistema": la persona fisica o giuridica che rifornisce o e' rifornita dal sistema; 
+
+                                
+                            
+                            
+                                kk)
+                                
+                                    "working gas": quantitativo di gas presente nei giacimenti in fase di stoccaggio che puo' essere messo a disposizione e reintegrato, per essere utilizzato ai fini dello stoccaggio minerario, di modulazione e strategico, compresa la parte di gas producibile, ma in tempi piu' lunghi rispetto a quelli necessari al mercato, ma che risulta essenziale per assicurare le prestazioni di punta che possono essere richieste dalla variabilita' della domanda in termini giornalieri ed orari. 
+
+                                
+                            
+                            
+                                kk-bis)
+                                
+                                    i servizi ausiliari: tutti i servizi necessari per l'accesso e il funzionamento delle reti di trasporto, delle reti di distribuzione, degli impianti di GNL o degli impianti di stoccaggio, compresi il bilanciamento del carico, la miscelazione e l'iniezione di gas inerti, ad esclusione dei servizi resi dagli impianti usati solamente dai gestori dei sistemi di trasporto nello svolgimento delle loro funzioni; 
+
+                                
+                            
+                            
+                                kk-ter)
+                                
+                                    impresa collegata: un'impresa collegata come definita all'articolo 41 della settima direttiva 83/349/CEE del Consiglio, del 13 giugno 1983, basata sull'articolo 44, paragrafo 2, lettera g) del trattato e relativa ai conti consolidati, o un'impresa associata come definita all'articolo 33, paragrafo 1 della medesima direttiva, o un'impresa appartenente agli stessi soci; 
+
+                                
+                            
+                            
+                                kk-quater)
+                                
+                                    gestore del sistema di trasporto: qualsiasi persona fisica o giuridica che svolge l'attivita' di trasporto ed e' responsabile della gestione, della manutenzione e, se necessario, dello sviluppo del sistema di trasporto in una data zona ed, eventualmente, delle relative interconnessioni con altri sistemi, nonche' di assicurare la capacita' a lungo termine del sistema di soddisfare richieste ragionevoli di trasporto di gas naturale; 
+
+                                
+                            
+                            
+                                kk-quinquies)
+                                
+                                    impresa maggiore di trasporto: impresa che avendo la disponibilita' della rete nazionale di gasdotti svolge l'attivita' di trasporto sulla maggior parte della medesima; 
+
+                                
+                            
+                            
+                                kk-sexies)
+                                
+                                    gestore del sistema di distribuzione: qualsiasi persona fisica o giuridica che svolge la funzione di distribuzione ed e' responsabile della gestione, della manutenzione e, se necessario, dello sviluppo del sistema di distribuzione in una data zona ed, eventualmente, delle relative interconnessioni con altri sistemi, nonche' di assicurare la capacita' a lungo termine del sistema di soddisfare richieste ragionevoli di distribuzione di gas naturale; 
+
+                                
+                            
+                            
+                                kk-septies)
+                                
+                                    impresa fornitrice: ogni persona fisica o giuridica che svolge funzioni di fornitura; 
+
+                                
+                            
+                            
+                                kk-octies)
+                                
+                                    programmazione a lungo termine: la programmazione, in un'ottica a lungo termine, della capacita' di fornitura e di trasporto delle imprese di gas naturale al fine di soddisfare la domanda di gas naturale del sistema, garantire la diversificazione delle fonti ed assicurare la fornitura ai clienti; 
+
+                                
+                            
+                            
+                                kk-nonies)
+                                
+                                    gestore dell'impianto di stoccaggio: qualsiasi persona fisica o giuridica che svolge l'attivita' di stoccaggio ed e' responsabile della gestione di un impianto di stoccaggio di gas naturale; 
+
+                                
+                            
+                            
+                                kk-decies)
+                                
+                                    gestore di un impianto di GNL: qualsiasi persona fisica o giuridica responsabile della liquefazione del gas naturale o dell'importazione, o dello scarico, e della rigassificazione di GNL, e responsabile della gestione di un impianto di GNL; 
+
+                                
+                            
+                            
+                                kk-undecies)
+                                
+                                    linepack: lo stoccaggio di gas naturale mediante compressione nelle reti di trasporto e di distribuzione del gas naturale, ad esclusione degli impianti riservati ai gestori dei sistemi di trasporto nello svolgimento delle loro funzioni; 
+
+                                
+                            
+                            
+                                kk-duodecies)
+                                
+                                    "interconnettore": un gasdotto di trasporto che attraversa o si estende oltre una frontiera tra Stati membri allo scopo di collegare i sistemi nazionali di trasporto di tali Stati membri o un gasdotto di trasporto tra uno Stato membro e un paese terzo fino al territorio degli Stati membri o alle acque territoriali di tale Stato membro;
+                                
+                            
+                            
+                                kk-terdecies)
+                                
+                                    cliente civile: un cliente che acquista gas naturale per il proprio consumo domestico; 
+
+                                
+                            
+                            
+                                kk-quaterdecies)
+                                
+                                    cliente non civile: un cliente che acquista gas naturale non destinato al proprio uso domestico; 
+
+                                
+                            
+                            
+                                kk-quinquiesdecies)
+                                
+                                    strumenti derivati sul gas naturale: uno strumento finanziario di cui ai punti 5, 6 o 7 della sezione C dell'allegato I della direttiva 2004/39/CE del Parlamento europeo e del Consiglio, del 21 aprile 2004, relativa ai mercati degli strumenti finanziari collegato al gas naturale; 
+
+                                
+                            
+                            
+                                kk-sexiesdecies)
+                                
+                                    contratto di fornitura: un contratto di fornitura di gas naturale ad esclusione degli strumenti derivati sul gas naturale; 
+
+                                
+                            
+                            
+                                kk-septiesdecies)
+                                
+                                    controllo: diritti, contratti, o altri mezzi che conferiscono, da soli o congiuntamente, e tenuto conto delle circostanze di fatto o di diritto, la possibilita' di esercitare un'influenza determinante sull'attivita' di un'impresa, in particolare attraverso: 
+ 1) diritti di proprieta' o di godimento sulla totalita' o su parti del patrimonio di un'impresa; 
+ 2) diritti o contratti che conferiscono un'influenza determinante sulla composizione, sulle votazioni, sulle deliberazioni e decisioni degli organi di un'impresa.
+
 -------------
                             AGGIORNAMENTO (7)
                             
@@ -52,9 +428,80 @@ Le norme del presente decreto relative al gas naturale, compreso il gas naturale
 
 L'attivita' di importazione di gas naturale relativa a contratti di durata superiore ad un anno, effettuata attraverso i punti di entrata della rete nazionale dei gasdotti a mezzo di gasdotti o di terminali di rigassificazione di GNL, o a mezzo di carri bombolai o di autocisterne di gas naturale liquefatto, e' soggetta ad autorizzazione del Ministero dello sviluppo economico, rilasciata in base a criteri obiettivi e non discriminatori pubblicati ai sensi dell'articolo 29.
 
+2.
+                        
+                            
+                                Il rilascio dell'autorizzazione di cui al comma 1 e' subordinato al possesso, nei soggetti richiedenti, dei seguenti requisiti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    capacita' tecniche e finanziarie adeguate al progetto di importazione; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    idonee informazioni e garanzie circa la provenienza del gas naturale; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    affidabilita' dell'approvvigionamento, degli im-pianti di coltivazione e del sistema di trasporto; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    LETTERA SOPPRESSA DAL D.LGS. 1 GIUGNO 2011, N. 93; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    LETTERA SOPPRESSA DAL D.LGS. 1 GIUGNO 2011, N. 93. (8)
+
 Nell'ambito della domanda di autorizzazione all'importazione o della comunicazione di cui al comma 7 devono essere indicati gli Stati dove il gas naturale e' stato prodotto. Nel caso di acquisto presso un punto di scambio fisico ("hub") estero deve essere indicata la composizione media della provenienza del gas naturale dai vari Paesi di produzione.
 
 L'attivita' di importazione si intende autorizzata ove il diniego, fondato su motivi obiettivi e non discriminatori, non sia stato espresso entro tre mesi dalla richiesta. Il diniego e' comunicato, con la relativa motivazione, al richiedente, all'Autorita' per l'energia elettrica e il gas e all'Autorita' garante della concorrenza e del mercato. Del provvedimento di diniego e' data informazione alla Commissione delle Comunita' europee. Il soggetto importatore, contestualmente alla richiesta di autorizzazione di cui al comma 1, trasmette all'Autorita' per l'energia elettrica e il gas, gli elementi di cui al comma 5, lettere a), b), c) e d). (9)
+
+5.
+                        
+                            
+                                Le importazioni da Paesi di cui al comma 1 in corso o per le quali e' stato gia' concluso il relativo contratto si intendono autorizzate dalla data di entrata in vigore del presente decreto. Gli importatori devono, a tal fine, adempiere, entro un anno dalla data di entrata in vigore del presente decreto, all'obbligo di cui al comma 2, lettera d), e comunicare al Ministero dell'industria, del commercio e dell'artigianato e all'Autorita' per l'energia elettrica e il gas entro sessanta giorni dalla stessa data, per ciascun contratto, i seguenti elementi: 
+ 
+                            
+                            
+                                a)
+                                
+                                    termini temporali e possibili estensioni previsti dal contratto; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    quantita' contrattuali, comprensive delle possibilita' di modulazione annuali e stagionali; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    indicazione del Paese dove il gas e' stato prodotto e delle strutture di trasporto internazionali utilizzate; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    obblighi comunque connessi al contratto e alla sua esecuzione, rilevanti ai fini della sicurezza del sistema.
 
 ((COMMA ABROGATO DAL D.L. 16 LUGLIO 2020, N. 76, CONVERTITO CON MODIFICAZIONI DALLA L. 11 SETTEMBRE 2020, N. 120)).
 
@@ -106,6 +553,38 @@ I risultati dell'attivita' di prospezione sono messi a disposizione della region
 
 Ai fini del presente decreto sono definiti a marginalita' economica i giacimenti per i quali, sulla base delle tecnologie disponibili e con riferimento al contesto economico, lo sviluppo per la messa in produzione, ovvero la coltivazione delle code di produzione risultino di economicita' critica e fortemente dipendente dalle variabili tecnico-economiche e dal rischio minerario.
 
+2.
+                        
+                            
+                                I titolari di concessioni di coltivazione di idrocarburi nelle quali sono presenti giacimenti marginali per i quali lo sviluppo, come previsto all'atto del conferimento della concessione, non risulta possibile per la loro intervenuta marginalita' economica, o per i quali e' possibile, con l'effettuazione di investimenti addizionali, ottenere un aumento delle riserve producibili, possono presentare al Ministero dell'industria, del commercio e dell'artigianato un'istanza tendente ad ottenere per detti giacimenti il riconoscimento di marginalita'. L'istanza e' corredata da una dettagliata relazione tecnico-economica contenente i seguenti elementi:
+ 
+                            
+                            
+                                a)
+                                
+                                    programma delle opere necessarie a rendere economicamente attuabile lo sviluppo o l'incremento della produzione, corredato dei relativi investimenti;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    piano economico e finanziario degli investimenti, corredato dall'analisi della redditivita' della coltivazione e dall'indicazione delle aliquote di prodotto;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    ulteriore quota percentuale degli investimenti deducibile ai fini fiscali, oltre a quella del loro ammortamento, che rende economico il progetto;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    termine possibile per l'inizio dei lavori relativi.
+
 Il Ministero dell'industria, del commercio e dell'artigianato, sentita la Commissione di cui all'articolo 19 del decreto legislativo 25 novembre 1996, n. 625, e sentita la regione interessata, riconosce con atto motivato la qualifica di marginalita' economica del giacimento, approva la ulteriore quota percentuale di cui al comma 2 in funzione del prezzo di vendita degli idrocarburi prodotti e stabilisce il termine per l'inizio dei lavori, il cui mancato rispetto fa decadere dal diritto ad applicare l'incremento degli ammortamenti.
 
 Gli utili di esercizio, le riserve e gli altri fondi formati con gli utili corrispondenti all'ulteriore importo deducibile al sensi del comma 2 rilevano agli effetti della determinazione dell'ammontare delle imposte di cui al comma 4 dell'articolo 105 del testo unico delle imposte sui redditi, approvato con decreto del Presidente della Repubblica 22 dicembre 1986, n. 917, secondo i criteri previsti per i proventi di cui al numero 1) dello stesso comma.
@@ -119,6 +598,46 @@ Il Ministero delle finanze vigila sulla corretta applicazione dell'agevolazione 
                              Il D.L. 25 giugno 2008, n.112 convertito con modificazioni dalla L. 6 agosto 2008, n. 133 ha disposto (con l'art. 8, comma 4) che e' abrogata ogni incentivazione sancita dal presente articolo per i giacimenti marginali.
 
 ## Art. 6. — Criteri e disciplina dell'accesso alle infrastrutture minerarie per la coltivazione
+
+1.
+                        
+                            
+                                I titolari di concessione di coltivazione di idrocarburi danno accesso ai loro gasdotti di coltivazione, nonche' alle relative infrastrutture minerarie e ai servizi connessi, sia in terraferma che nel mare territoriale e nella piattaforma continentale italiana, ad altri titolari di concessione di coltivazione di idrocarburi, o a imprese del gas naturale che ne facciano richiesta ai fini dell'importazione, esportazione o trasporto del gas naturale.
+L'accesso e' dovuto ove risultino verificate le seguenti condizioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    disponibilita' della relativa capacita' di trasporto, gestione, o trattamento, tenuto conto anche dei programmi di sviluppo futuro dei giacimenti connessi ai gasdotti di coltivazione, compresi quelli con redditivita' economica marginale; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    rispetto delle norme tecniche e minerarie vigenti in Italia; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    compatibilita' della composizione chimica del gas naturale e dei composti associati, e delle caratteristiche fisico-chimiche; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    compatibilita' con le norme di sicurezza mineraria; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    rispetto delle norme in materia fiscale e di aliquote di prodotto della coltivazione dovute allo Stato.
 
 Con decreto del Ministro dell'industria, del commercio e dell'artigianato, da emanare entro sei mesi dalla data di entrata in vigore del presente decreto, sono stabiliti i limiti e le norme tecniche per disciplinare l'accesso alle infrastrutture minerarie di cui al comma 1.
 
@@ -224,6 +743,17 @@ Le disponibilita' di stoccaggio sono destinate in via prioritaria alle esigenze 
 
 Il Ministero dell'industria, del commercio e dell'artigianato, previa verifica dei dati comunicati, pubblica le informazioni nel bollettino ufficiale degli idrocarburi e della geotermia.
 
+7.
+                        
+                            
+                                L'Autorita' per l'energia elettrica e il gas fissa le modalita' atte a garantire a tutti gli utenti la liberta' di accesso a parita' di condizioni, la massima imparzialita' e la neutralita' del servizio di stoccaggio in condizioni di normale esercizio e gli obblighi dei soggetti che svolgono le attivita' di stoccaggio, sulla base dei seguenti criteri: 
+ 
+                            
+                            
+                                a)
+                                
+                                    le capacita' di stoccaggio di modulazione, fatto salvo quanto disposto al comma 5, sono assegnate prioritariamente per le esigenze di fornitura ai clienti civili, ivi comprese le utenze relative ad attivita' di servizio pubblico, tra cui ospedali, case di cura e di riposo, carceri, scuole, e altre strutture pubbliche o private che svolgono un'attivita' riconosciuta di assistenza, nonche' a clienti non civili con consumi non superiori a 50.000 metri cubi annui, per un volume calcolato annualmente e pari al fabbisogno di modulazione stagionale degli stessi clienti in ipotesi di inverno rigido, in base ai criteri di cui all'articolo 18, comma 2. Il rimanente stoccaggio e' assegnato, secondo modalita' stabilite dall'Autorita' per l'energia elettrica e il gas, anche per servizi diversi da quelli di modulazione.
+
 ((8. Lo stoccaggio di modulazione e' a carico dei soggetti di cui agli articoli 17 e 18. I soggetti che prestano al sistema nazionale del gas il servizio di interrompibilita' a favore della sicurezza stabilito nei piani di emergenza del sistema nazionale del gas naturale sono esonerati dalla corresponsione dei corrispettivi tariffari che remunerano il servizio di stoccaggio strategico e il fattore di copertura dei ricavi del servizio di stoccaggio))
 
 Con decreto del Ministro dell'industria, del commercio e dell'artigianato, da emanare entro sei mesi dalla data di entrata in vigore del presente decreto, sono stabiliti i limiti e le norme tecniche per disciplinare il riconoscimento delle capacita' di stoccaggio di working gas strategico e di modulazione, anche in relazione alla capacita' di punta degli stoccaggi stessi.
@@ -233,6 +763,24 @@ Il comma 9 dell'articolo 13 del decreto legislativo 25 novembre 1996, n. 625, e'
 Le imprese di gas che esercitano l'attivita' di stoccaggio sono tenute alla certificazione di bilancio a decorrere dal 1o gennaio 2002.
 
 ((11-bis. Al fine di semplificare e favorire il transito attraverso la rete italiana del gas proveniente da altri Stati membri dell'Unione europea o da Paesi terzi, lo stoccaggio strategico, offerto in regime regolato, erogabile solamente su autorizzazione del Ministero dello sviluppo economico per fronteggiare situazioni di emergenza del sistema nazionale del gas naturale, e' posto a carico dei clienti connessi ai punti di riconsegna della rete di distribuzione in quanto destinato all'approvvigionamento dei medesimi clienti in situazioni di emergenza))
+
+11-ter.
+                        
+                            
+                                Il volume complessivo relativo allo stoccaggio strategico e' stabilito annualmente dal Ministero dello sviluppo economico, sentito il Comitato di emergenza e monitoraggio del sistema del gas naturale, in misura non inferiore al maggiore dei seguenti volumi: 
+ 
+                            
+                            
+                                a)
+                                
+                                    volume necessario al fine di poter erogare per almeno 30 giorni continuativi, nel corso di tutto il periodo di punta stagionale, una portata fino al 100 per cento della maggiore delle importazioni provenienti dalla infrastruttura di importazione maggiormente utilizzata; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    volume necessario per le necessita' di modulazione in caso di inverno rigido, calcolato per l'inverno piu' rigido verificatosi negli ultimi 20 anni.
 
 L'autorizzazione all'uso dello stoccaggio strategico puo' essere rilasciata a una impresa del gas naturale solo nel caso in cui l'intera capacita' di importazione conferita alla stessa impresa, nel periodo per il quale viene richiesto l'accesso allo stoccaggio strategico, sia stata utilizzata, salvo documentati casi di forza maggiore e compatibilmente con le condizioni e i vincoli tecnici esistenti. 
  (11)
@@ -325,6 +873,31 @@ Con riferimento al servizio di distribuzione del gas, l'affidamento diretto a so
 . La stazione appaltante tiene conto delle eventuali osservazioni dell'Autorita' per l'energia elettrica, il gas ed il sistema idrico ai fini della determinazione del valore di rimborso da inserire nel bando di gara. I termini di scadenza previsti dal comma 3 dell'articolo 4 del decreto-legge 21 giugno 2013, n. 69, convertito, con modificazioni, dalla legge 9 agosto 2013, n. 98, sono prorogati di ulteriori quattro mesi. Le date limite di cui all'allegato 1 al regolamento di cui al decreto del Ministro dello sviluppo economico 12 novembre 2011, n. 226, relative agli ambiti ricadenti nel terzo raggruppamento dello stesso allegato 1, nonche' i rispettivi termini di cui all'articolo 3 del medesimo regolamento, sono prorogati di quattro mesi. Resta sempre esclusa la valutazione del mancato profitto derivante dalla conclusione anticipata del rapporto di gestione. (3) (5)
 
 Decorso il periodo transitorio, l'ente locale procede all'affidamento del servizio secondo le modalita' previste dall'articolo 14.
+
+7.
+                        
+                            
+                                Il periodo transitorio di cui al comma 5 e' fissato in cinque anni a decorrere dal 31 dicembre 2000. Tale periodo puo' essere incrementato, alle condizioni sotto indicate, in misura non superiore a: 
+ 
+                            
+                            
+                                a)
+                                
+                                    un anno nel caso in cui, almeno un anno prima dello scadere dei cinque anni, si realizzi una fusione societaria che consenta di servire un'utenza complessivamente non inferiore a due volte quella originariamente servita dalla maggiore delle societa' oggetto di fusione; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    due anni nel caso in cui, entro il termine di cui alla lettera a), l'utenza servita risulti superiore a centomila clienti finali, o il gas naturale distribuito superi i cento milioni di metri cubi all'anno, ovvero l'impresa operi in un ambito corrispondente almeno all'intero territorio provinciale; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    due anni nel caso in cui, entro il termine di cui alla lettera a), il capitale privato costituisca almeno il 40% del capitale sociale.
 
 COMMA ABROGATO DALLA L. 23 AGOSTO 2004, N. 239.
 
@@ -463,9 +1036,74 @@ Tutti i clienti sono idonei.
 
 Sono considerati clienti protetti i clienti domestici, le utenze relative ad attivita' di servizio pubblico, tra cui ospedali, case di cura e di riposo, carceri, scuole, e altre strutture pubbliche e private che svolgono un'attivita' riconosciuta di assistenza nonche' i clienti civili e non civili con consumo non superiore a 50.000 metri cubi annui. Per essi vige l'obbligo di assicurare, col piu' alto livello di sicurezza possibile, le forniture di gas naturale anche in momenti critici o in situazioni di emergenza del sistema del gas naturale. PERIODO SOPPRESSO DALLA L. 4 AGOSTO 2017, N. 124.(19) (20) (27)(33)
 
+2-bis.
+                        
+                            
+                                Sono clienti vulnerabili i clienti civili: 
+ 
+                            
+                            
+                                a)
+                                
+                                    che si trovano in condizioni economicamente svantaggiate ai sensi dell'articolo 1, comma 75, della legge 4 agosto 2017, n. 124; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    che rientrano tra i soggetti con disabilita' ai sensi dell'articolo 3 della legge 5 febbraio 1992, n. 104; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    le cui utenze sono ubicate nelle isole minori non interconnesse; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    le cui utenze sono ubicate in strutture abitative di emergenza a seguito di eventi calamitosi; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    di eta' superiore ai 75 anni. 
+ 2-bis.1. ((A decorrere dal 10 gennaio 2024)), i fornitori e gli esercenti il servizio di fornitura di ultima istanza sono tenuti a offrire ai clienti vulnerabili di cui al comma 2-bis la fornitura di gas naturale a un prezzo che rifletta il costo effettivo di approvvigionamento nel mercato all'ingrosso, i costi efficienti del servizio di commercializzazione e le condizioni contrattuali e di qualita' del servizio, cosi' come definiti dall'Autorita' di regolazione per energia, reti e ambiente (ARERA) con uno o piu' provvedimenti e periodicamente aggiornati. L'ARERA definisce altresi' le specifiche misure perequative a favore degli esercenti il servizio di fornitura di ultima istanza.
+
 Sono considerati "clienti protetti nel quadro della solidarieta'" ai sensi del regolamento (UE) 2017/1938, i clienti civili che sono connessi ad una rete di distribuzione del gas, inclusi i servizi sociali essenziali diversi dai servizi di istruzione e di pubblica amministrazione e gli impianti di teleriscaldamento che servono clienti civili o servizi sociali essenziali diversi dai servizi di istruzione e di pubblica amministrazione.
 
 Tutti i clienti hanno il diritto di essere riforniti di gas naturale da un fornitore, ove questi lo accetti, a prescindere dallo Stato membro in cui il fornitore e' registrato, a condizione che il fornitore rispetti le norme applicabili in materia di scambi e bilanciamento e fatti salvi i requisiti in materia di sicurezza degli approvvigionamenti.
+
+4.
+                        
+                            
+                                L'Autorita' per l'energia elettrica e il gas provvede affinche': 
+ 
+                            
+                            
+                                a)
+                                
+                                    qualora un cliente, nel rispetto delle condizioni contrattuali, intenda cambiare fornitore, l'operatore o gli operatori interessati effettuino tale cambiamento entro tre settimane assicurando comunque che l'inizio della fornitura coincida con il primo giorno del mese; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    i clienti ricevano tutti i pertinenti dati di consumo e a tal fine siano obbligate le societa' di distribuzione a rendere disponibili i dati di consumo dei clienti alle societa' di vendita, garantendo la qualita' e la tempestivita' dell'informazione fornita; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    qualora un cliente finale connesso alla rete di distribuzione si trovi senza un fornitore di gas naturale e non sussistano i requisiti per l'attivazione del fornitore di ultima istanza, l'impresa di distribuzione territorialmente competente garantisca il bilanciamento della propria rete in relazione al prelievo presso tale punto per il periodo in cui non sia possibile la sua disalimentazione fisica, secondo modalita' e condizioni definite dall'Autorita' per l'energia elettrica e il gas che deve altresi' garantire all'impresa di distribuzione una adeguata remunerazione dell'attivita' svolta e la copertura dei costi sostenuti.
 
 Allo scopo di promuovere l'efficienza energetica l'Autorita' per l'energia elettrica e il gas stabilisce criteri in base ai quali le imprese di gas naturale ottimizzino l'utilizzo del gas naturale, anche fornendo servizi di gestione dell'energia, sviluppando formule tariffarie innovative, introducendo sistemi di misurazione intelligenti o, se del caso, reti intelligenti.
 
@@ -640,6 +1278,23 @@ Ai fini della sicurezza del sistema nazionale del gas e dell'attuazione della tr
 Sono fatte salve le prerogative statutarie delle Regioni a statuto speciale e delle Province autonome di Trento e Bolzano.
 
 ## Art. 38. — Abrogazioni di norme
+
+1.
+                        
+                            
+                                A decorrere dalla data di entrata in vigore del presente decreto sono abrogate le norme e disposizioni con esso incompatibili, e in particolare:
+
+                            
+                            
+                                a)
+                                
+                                    le parole: "di idrocarburi" al comma 1 dell'articolo 1, l'articolo 2, i commi 1, 2, 3 e 4 dell'articolo 3, le parole: "di coltivazione e di quella", le parole: "contestualmente e" e le parole da: "di concerto" fino alla parola "statali" del comma 9 dell'articolo 3, i commi 1 e 3 dell'articolo 5, i commi 5 e 7 dell'articolo 6, il comma 1 dell'articolo 7, e l'articolo 9 della legge 26 aprile 1974, n. 170;
+                                
+                            
+                            
+                                b)
+                                
+                                    l'articolo 2, commi 4 e 5, e l'articolo 23 della legge 10 febbraio 1953, n. 136.
 
 ## Art. 39. — Entrata in vigore
 

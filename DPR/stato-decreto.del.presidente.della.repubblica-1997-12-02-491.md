@@ -8,8 +8,8 @@ codice_redazionale: 098G0018
 vigente: true
 source: normattiva-opendata
 collection: DPR
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:48:11Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -24,6 +24,88 @@ Udito il parere del Consiglio di Stato, espresso dalla Sezione consultiva per gl
 Sulla proposta del Presidente del Consiglio dei Ministri e del Ministro per la funzione pubblica e gli affari regionali, di concerto con il Ministro dell'universita' e della ricerca scientifica e tecnologica;
 
 ## Art. 1. — Istituzione e funzioni
+
+1.
+                    
+                        
+                            Il Consiglio nazionale degli studenti universitari (CNSU) e' organo consultivo di rappresentanza degli studenti iscritti ai corsi di diploma, di laurea, di specializzazione e di dottorato attivati nelle universita' italiane, nonche' alle scuole dirette a fini speciali. Esso formula pareri e proposte al Ministro dell'universita' e della ricerca scientifica e tecnologica, di seguito denominato Ministro:
+ 
+                        
+                        
+                            a)
+                            
+                                su progetti di riordino del sistema universitario predisposti dal Ministro;
+
+                            
+                        
+                        
+                            b)
+                            
+                                sui decreti ministeriali previsti dall'articolo 17, comma 95, della legge 15 maggio 1997, n. 127, con i quali sono definiti i criteri generali per la disciplina degli ordinamenti didattici dei corsi di diploma universitario, di laurea e di specializzazione, di cui agli articoli 2, 3 e 4 della legge 19 novembre 1990, n. 341, nonche' le modalita' e gli strumenti per l'orientamento e per favorire la mobilita' degli studenti;
+
+                            
+                        
+                        
+                            c)
+                            
+                                sui criteri per la utilizzazione della quota di riequilibrio del fondo per il finanziamento ordinario delle universita'.
+
+2.
+                    
+                        
+                            Oltre alle competenze di cui al comma 1 il CNSU:
+ 
+                        
+                        
+                            a)
+                            
+                                elegge nel proprio seno i rappresentanti degli studenti nel Consiglio universitario nazionale di cui all'articolo 17, comma 104, lettera b), della legge 15 maggio 1997, n. 127;
+
+                            
+                        
+                        
+                            b)
+                            
+                                puo' formulare proposte e puo' essere sentito dal Ministro su altre materie di interesse generale per l'universita';
+
+                            
+                        
+                        
+                            c)
+                            
+                                presenta al Ministro, entro due anni dall'insediamento, una relazione sulla condizione studentesca nell'ambito del sistema universitario;
+
+                            
+                        
+                        
+                            d)
+                            
+                                puo' rivolgere quesiti al Ministro circa fatti o eventi di rilevanza nazionale riguardanti la didattica e la condizione studentesca, cui e' data risposta entro sessanta giorni.
+
+3.
+                    
+                        
+                            Ai sensi del presente regolamento si intendono:
+ 
+                        
+                        
+                            a)
+                            
+                                per studenti, gli iscritti ai corsi e alle scuole di cui al comma 1;
+
+                            
+                        
+                        
+                            b)
+                            
+                                per universita' o ateneo, le universita' e gli istituti di istruzione universitaria o di grado universitario, statali e non statali, che rilasciano titoli con valore legale;
+
+                            
+                        
+                        
+                            c)
+                            
+                                per Ministero, il Ministero dell'universita' e della ricerca scientifica e tecnologica.
 
 Sono eleggibili al Consiglio nazionale degli studenti, gli studenti in possesso del requisito di cui al comma 3, lettera a), i quali siano in corso, ovvero fuori corso da non piu' di due anni accademici.
  Avvertenza:
@@ -61,6 +143,38 @@ Per la prima tornata elettorale l'ordinaza e' emanata entro trenta giorni dalla 
 
 ## Art. 4. — Procedura elettorale
 
+1.
+                    
+                        
+                            Per l'elezione dei ventotto componenti di cui all'articolo 2, comma 1, le sedi universitarie sono raggruppate nei seguenti quattro distretti territoriali, corrispondenti ad altrettanti collegi, comprendenti rispettivamente le seguenti regioni:
+ 
+                        
+                        
+                            a)
+                            
+                                I distretto: Trentino-Alto Adige, Veneto, Friuli-Venezia Giulia, Emilia-Romagna, Marche;
+
+                            
+                        
+                        
+                            b)
+                            
+                                II distretto: Piemonte, Lombardia, Liguria;
+
+                            
+                        
+                        
+                            c)
+                            
+                                III distretto: Toscana, Umbria, Lazio, Abruzzo;
+
+                            
+                        
+                        
+                            d)
+                            
+                                IV distretto: Molise, Campania, Puglia, Basilicata, Calabria, Sicilia, Sardegna.
+
 L'elettorato attivo e passivo e' attribuito agli studenti che risultino iscritti ai corsi di diploma e di laurea e alle scuole dirette a fini speciali, attivati nel distretto alla data di emanazione dell'ordinanza elettorale, anche se pertinenti ad istituzioni aventi la sede centrale in altro distretto. Sono eletti sette studenti per ciascun distretto.
 
 Per l'elezione dei due componenti eletti dagli iscritti ai corsi di specializzazione e di dottorato di ricerca, sono costituiti due distinti collegi elettorali su base nazionale. L'elettorato attivo e passivo e' attribuito separatamente agli studenti che risultino iscritti ai rispettivi corsi alla data di emanazione dell'ordinanza elettorale di cui all'articolo 3.
@@ -87,6 +201,52 @@ Ogni studente esprime un voto di preferenza per l'elezione dei componenti di cui
 ## Art. 5. — Criteri per la individuazione
  degli eletti per il C.N.S.U.
 
+1.
+                    
+                        
+                            L'attribuzione delle rappresentanze per quanto riguarda i componenti di cui all'articolo 4, comma 1, avviene con il seguente criterio:
+ 
+                        
+                        
+                            a)
+                            
+                                per ogni lista e' determinata la cifra elettorale costituita dal totale dei voti validi ottenuti nei singoli collegi elettorali;
+
+                            
+                        
+                        
+                            b)
+                            
+                                per ogni lista e' determinata altresi' la cifra individuale costituita dal totale dei voti validi di preferenza attribuiti a ciascun candidato della lista;
+
+                            
+                        
+                        
+                            c)
+                            
+                                la cifra elettorale di ogni lista e' divisa successivamente per un numero crescente sino alla concorrenza del numero dei rappresentanti da eleggere;
+
+                            
+                        
+                        
+                            d)
+                            
+                                tutti i quozienti si graduano in ordine decrescente, scegliendo poi tra essi quelli piu' alti, in numero uguale a quello dei rappresentanti da eleggere; a parita' assoluta di quozienti e' scelto quello cui corrisponde la minore cifra elettorale;
+
+                            
+                        
+                        
+                            e)
+                            
+                                le rappresentanze sono assegnate alle liste in corrispondenza ai quozienti scelti come indicato nella lettera d);
+
+                            
+                        
+                        
+                            f)
+                            
+                                risultano eletti, lista per lista, i candidati che hanno ottenuto il maggior numero di preferenze graduato in ordine decrescente: a parita' di preferenze risulta eletto il candidato che precede nell'ordine di lista.
+
 L'attribuzione delle rappresentanze per quanto riguarda i componenti di cui all'articolo 4, comma 3, e' determinata sulla base del maggior numero di voti validi conseguiti dal candidato.
 
 ## Art. 6. — Schede elettorali
@@ -98,6 +258,70 @@ Le schede elettorali sono predisposte a cura dei singoli atenei secondo un model
 Nella data e nell'orario stabilito per le votazioni, l'elettore, dopo aver dimostrato la propria identita' con documento di riconoscimento provvisto di fotografia, nonche' dopo aver apposto la propria firma nell'elenco dei votanti a fianco del proprio nominativo ritira dal presidente la scheda, ed esprime il proprio voto. Chiusa la scheda, il votante la riconsegna al presidente, il quale la introduce nell'urna.
 
 Il voto e' individuale e segreto. Sono nulle le schede che recano piu' di un nominativo o il nominativo di un soggetto non candidato, nonche' quelle che non permettono di interpretare la volonta' dell'elettore e quelle su cui e' stato apposto un segno di riconoscimento o un qualsiasi altro segno diverso da quelli prescritti.
+
+3.
+                    
+                        
+                            All'ora stabilita per la chiusura delle votazioni, ed esaurite le operazioni di voto, il presidente dichiara chiuse le operazioni e l'ufficio procede alle seguenti operazioni sia per la elezione dei componenti di cui all'articolo 4, comma 1, sia per l'elezione dei componenti di cui all'articolo 4, comma 3:
+ 
+                        
+                        
+                            a)
+                            
+                                le schede rimaste inutilizzate vengono raccolte e racchiuse in un plico o contenitore sigillato;
+
+                            
+                        
+                        
+                            b)
+                            
+                                si verifica, sugli elenchi, il numero degli elettori che hanno votato, che deve corrispondere al numero delle schede che risultano impiegate per la votazione;
+
+                            
+                        
+                        
+                            c)
+                            
+                                si procede allo scrutinio delle schede votate. Se il numero delle schede da scrutinare impedisce di concludere le operazioni nello stesso giorno, l'ufficio puo' sospendere i propri lavori per riprenderli il mattino successivo, conservando le schede da scrutinare nelle urne sigillate e quelle gia' scrutinate in un plico sigillato, come pure i verbali, i tabulati e tutte le scritturazioni.
+
+4.
+                    
+                        
+                            Al termine dello spoglio il presidente, dopo aver constatato che il numero delle schede scrutinate corrisponde al numero delle schede impiegate per le votazioni, proclama il numero dei voti riportati da ciascun candidato. Vengono poi firmati e sigillati plichi distinti: uno relativo all'elezione dei componenti di cui all'articolo 4, comma 1, e uno relativo all'elezione dei componenti di cui all'articolo 4, comma 3. In ciascuno dei due plichi viene inserito il rispettivo materiale elettorale: le schede validamente votate, le schede bianche, le schede dichiarate nulle e le schede provvisoriamente non esaminate perche' contestate, nonche' il verbale, sottoscritto dal presidente, dal segretario e da tutti gli scrutinatori presenti, nel quale sono indicate:
+ 
+                        
+                        
+                            a)
+                            
+                                i nomi dei componenti l'ufficio di seggio, il luogo nel quale il seggio ha avuto sede, la data e l'ora di apertura e rispettivamente di chiusura, nonche', dandosene il caso, di sospensione e di riapertura, delle votazioni e delle successive operazioni;
+
+                            
+                        
+                        
+                            b)
+                            
+                                il numero degli elettori iscritti e di quelli che si sono presentati per il voto;
+
+                            
+                        
+                        
+                            c)
+                            
+                                il numero delle schede messe a disposizione del seggio, di quelle votate e di quelle non utilizzate;
+
+                            
+                        
+                        
+                            d)
+                            
+                                il numero dei voti validi riportati da ciascun candidato, il numero delle schede bianche, di quelle dichiarate nulle e di quelle provvisoriamente non assegnate perche' contestate;
+
+                            
+                        
+                        
+                            e)
+                            
+                                gli incidenti verificatisi nel corso delle operazioni, nonche' le contestazioni e i rilievi che singoli componenti dell'ufficio di seggio o singoli elettori chiedono di far constare a verbale.
 
 Il plico relativo all'elezione degli studenti iscritti ai corsi di diploma e di laurea e alle scuole dirette a fini speciali e' inviato alla commissione elettorale locale di cui all'articolo 8, ed il plico relativo all'elezione degli iscritti ai corsi di specializzazione e di dottorato di ricerca e' inviato alla commissione elettorale centrale di cui all'articolo 9, per il tramite degli uffici amministrativi della sede universitaria.
 

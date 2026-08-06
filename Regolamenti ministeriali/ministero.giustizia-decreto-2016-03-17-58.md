@@ -7,8 +7,8 @@ urn: urn:nir:ministero.giustizia:decreto:2016-03-17;58
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:40Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -33,6 +33,31 @@ Le disposizioni del presente decreto si applicano ai tirocini presso gli uffici 
 ## Art. 2. — Requisiti per lo svolgimento del tirocinio 
  presso un ufficio giudiziario
 
+1.
+                    
+                        
+                            Per l'ammissione al tirocinio presso un ufficio giudiziario il praticante deve, al momento della presentazione della domanda: 
+ 
+                        
+                        
+                            a)
+                            
+                                essere iscritto nel registro dei praticanti avvocati, previsto dall'articolo 41, comma 2, della legge 31 dicembre 2012, n. 247; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                essere in possesso dei requisiti di onorabilita' di cui all'articolo 42-ter, secondo comma, lettera g), del regio decreto 30 gennaio 1941, n. 12; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                aver gia' svolto il periodo di tirocinio di cui all'articolo 41, comma 7, della legge 31 dicembre 2012, n. 247.
+
 Il tirocinio di cui al presente decreto puo' essere svolto presso uno degli uffici giudiziari di cui all'articolo 4, comma 1, compresi nel circondario del tribunale ove e' costituito il consiglio dell'ordine al quale e' iscritto il praticante avvocato.
 
 ## Art. 3. — Progetto formativo
@@ -46,6 +71,45 @@ Il Consiglio superiore della magistratura e il Consiglio nazionale forense posso
 L'attivita' di praticantato puo' essere svolta presso la Corte di cassazione, la procura generale presso la Corte di cassazione, le Corti di appello, le procure generali presso le Corti di appello, i tribunali ordinari, gli uffici e i tribunali di sorveglianza, i tribunali per i minorenni, le procure della Repubblica presso i tribunali ordinari e presso il tribunale per i minorenni, la Corte dei conti, la procura generale presso la Corte dei conti, le sezioni giurisdizionali regionali della Corte dei conti, le procure regionali della Corte dei conti, le Commissioni tributarie nonche' il Consiglio di Stato e i tribunali amministrativi regionali.
 
 La domanda, redatta su supporto analogico o digitale, e' indirizzata al capo dell'ufficio e consegnata alla segreteria dell'ufficio giudiziario o trasmessa a mezzo posta elettronica certificata, nel rispetto della normativa, anche regolamentare, concernente la sottoscrizione, la trasmissione e la ricezione dei documenti informatici. Nella domanda puo' essere espressa una preferenza in ordine ad una o piu' materie ai fini dello svolgimento dell'attivita' di praticantato.
+
+3.
+                    
+                        
+                            Nella domanda devono essere attestati, a norma degli articoli 46 e 47 del decreto del Presidente della Repubblica del 28 dicembre 2000, n. 445: 
+ 
+                        
+                        
+                            a)
+                            
+                                il possesso dei requisiti di cui all'articolo 2; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                il punteggio di laurea; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                la media riportata negli esami di diritto costituzionale, diritto privato, diritto processuale civile, diritto commerciale, diritto penale, diritto processuale penale, diritto del lavoro e diritto amministrativo; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                i dati relativi all'avvocato presso il quale il praticante ha gia' svolto il periodo di tirocinio di cui all'articolo 41, comma 7, della legge 31 dicembre 2012, n. 247 e quelli relativi allo studio legale di cui l'avvocato fa parte; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                ogni altro requisito di professionalita' ritenuto rilevante.
 
 Quando la domanda di cui al presente articolo e' accolta, il capo dell'ufficio comunica al consiglio dell'ordine degli avvocati presso il quale il praticante avvocato e' iscritto la data in cui il tirocinio deve avere inizio.
 

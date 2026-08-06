@@ -8,8 +8,8 @@ codice_redazionale: 090G0041
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:38Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -41,6 +41,37 @@ I requisiti di cui ai commi 1, 2 e 4 sono richiesti anche per i coperchi di chiu
 
 ## Art. 3.
 
+1.
+                    
+                        
+                            Ai fini del mantenimento delle condizioni di temperatura prescritte ai sensi dell'art. 51, comma 1 del decreto del Presidente della Repubblica 26 marzo 1980, n. 327, i contenitori di cui all'art. 1 devono possedere le seguenti caratteristiche tecnico-costruttive:
+ 
+                        
+                        
+                            a)
+                            
+                                fra il rivestimento esterno e quello interno deve trovarsi materiale per coibentazione dello spessore minimo di 60 mm, avente un coefficiente di conducibilita' termica non superiore a 0,032 W/mK.
+Tale valore deve essere dedotto dalla tabella UNI 7357/74 con relativi aggiornamenti UNI FA 83 ed UNI FA 101, tenuto conto dei criteri correttivi, ovvero deve essere certificato da un laboratorio statale o da un laboratorio del Consiglio nazionale delle ricerche o dall'istituto sperimentale dell'Ente ferrovie dello Stato;
+
+                            
+                        
+                        
+                            b)
+                            
+                                sulla parte esterna deve essere applicata una placca o contrassegno di identificazione, inamovibile, riportante le seguenti indicazioni:
+ 1) contenitore per trasporto di carni fresche di volatili, di conigli allevati, di selvaggina;
+ 2) tempo massimo di trasporto: 4 ore;
+ 3) estremi dell'impresa costruttrice;
+ 4) numero del contenitore e data di costruzione;
+ 5) estremi dell'autorizzazione sanitaria di cui all'art. 4;
+
+                            
+                        
+                        
+                            c)
+                            
+                                coperchio indeformabile munito di relativa guarnizione avente caratteristiche uguali a quelle del corpo del contenitore, atto a consentire una chiusura ermetica del tipo a tappo, assicurata da moschettone o da altro adeguato dispositivo metallico.
+
 I contenitori di cui al comma 1 devono avere dimensioni interne non superiori a cm 90 x 70 x 40, ovvero volumi non superiori a quelli corrispondenti a tali dimensioni.
 
 ## Art. 4.
@@ -49,6 +80,52 @@ I contenitori di cui all'art. 1 utilizzabili nell'ambito comunale, da parte degl
 somministrazione di cui all'art. 31 del decreto del Presidente della Repubblica 26 marzo 1980, n. 327, sono soggetti ad autorizzazione sanitaria, eventualmente sul prototipo, da parte dell'autorita' di cui all'art. 44 del decreto del Presidente della Repubblica 26 marzo 1980, n. 327, che la rilascia secondo le modalita' di cui all'art. 45 dello stesso decreto.
 
 La competenza territoriale, in caso di autorizzazione sul prototipo, e' determinata in relazione alla sede legale dell'impresa costruttrice.
+
+3.
+                    
+                        
+                            Le domande per il rilascio dell'autorizzazione devono contenere:
+ 
+                        
+                        
+                            a)
+                            
+                                il nome o la ragione sociale e la sede dell'impresa;
+
+                            
+                        
+                        
+                            b)
+                            
+                                il numero di identificazione del contenitore e la relativa data di costruzione;
+
+                            
+                        
+                        
+                            c)
+                            
+                                il tipo del contenitore - rettangolare, cilindrico, etc. -;
+
+                            
+                        
+                        
+                            d)
+                            
+                                le dimensioni esterne ed il sistema di chiusura;
+
+                            
+                        
+                        
+                            e)
+                            
+                                le caratteristiche tecnico-costruttive concernenti i materiali impiegati, ivi compreso quello isolante, con specifico riferimento allo spessore minimo ed al relativo coefficiente di trasmissione termica dedotto ovvero certificato secondo i criteri indicati nell'art. 3, comma 1, lettera a);
+
+                            
+                        
+                        
+                            f)
+                            
+                                una dichiarazione dell'impresa costruttrice attestante che i materiali impiegati destinati a venire a contatto con le carni fresche trasportate sono conformi ai requisiti di legge.
 
 Il conducente o responsabile del mezzo di trasporto deve esibire, a richiesta degli organi di vigilanza, in originale ed in copia autenticata, l'autorizzazione di cui al presente articolo, nonche' la bolla di accompagnamento che deve riportare l'ora del carico.
 

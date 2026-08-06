@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: DPCM
 vigenza_date: 2001-05-24
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:40:12Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DEL CONSIGLIO DEI MINISTRI
@@ -94,6 +94,48 @@ Il presente regolamento individua i requisiti occorrenti per la nomina degli esp
  Essi debbono essere comunicati al Presidente del Consiglio dei Ministri prima della loro emanazione. Il comma 4 dello stesso articolo stabilisce che gli anzidetti regolamenti debbano recare la denominazione di "regolamento", siano adottati previo parere del Consiglio di Stato, sottoposti al visto ed alla registrazione della Corte dei conti e pubblicati nella Gazzetta Ufficiale.
 
 ## Art. 2. — R e q u i s i t i
+
+1.
+                    
+                        
+                            Possono essere nominati dirigenti generali o ricevere un incarico di dirigente generale con contratto di diritto privato le persone, estranee all'amministrazione, che abbiano i requisiti seguenti:
+ 
+                        
+                        
+                            a)
+                            
+                                cittadinanza italiana;
+
+                            
+                        
+                        
+                            b)
+                            
+                                
+                                    ((IL D.LGS. 30 MARZO 2001, N. 165 HA CONFERMATO L'ABROGAZIONE DELLA PRESENTE LETTERA)); ((2))
+                                
+                            
+                        
+                        
+                            c)
+                            
+                                non rivestire cariche pubbliche elettive, ovvero cariche in partiti politici o in sindacati e non avere incarichi direttivi o rapporti continuativi di collaborazione o di consulenza con le predette organizzazioni; non aver rivestito le suddette cariche ed assunto i predetti incarichi nel biennio precedente alla nomina;
+
+                            
+                        
+                        
+                            d)
+                            
+                                
+                                    ((IL D.LGS. 30 MARZO 2001, N. 165 HA CONFERMATO L'ABROGAZIONE DELLA PRESENTE LETTERA)); ((2))
+                                
+                            
+                        
+                        
+                            e)
+                            
+                                
+                                    ((IL D.LGS. 30 MARZO 2001, N. 165 HA CONFERMATO L'ABROGAZIONE DELLA PRESENTE LETTERA)). ((2))
 
 -------------
                         AGGIORNAMENTO (2)

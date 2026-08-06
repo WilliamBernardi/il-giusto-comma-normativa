@@ -8,8 +8,8 @@ vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
 vigenza_date: 2025-12-31
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:32Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -39,7 +39,113 @@ L'Ispettorato ha una sede centrale in Roma e un massimo di ottanta sedi territor
 
 Entro quarantacinque giorni dall'entrata in vigore del presente decreto e' adottato, con decreto del Presidente della Repubblica ai sensi dell'articolo 17, comma 2, della legge 23 agosto 1988, n. 400, su proposta del Ministro del lavoro e delle politiche sociali di concerto con il Ministro dell'economia e delle finanze e con il Ministro per la semplificazione e la pubblica amministrazione, lo statuto dell'Ispettorato, in conformita' ai principi e ai criteri direttivi stabiliti dall'articolo 8, comma 4, del decreto legislativo n. 300 del 1999, ivi compresa la definizione, tramite convenzione da stipularsi tra il Ministro del lavoro e delle politiche sociali e il direttore dell'Ispettorato, degli obiettivi specificamente attribuiti a quest'ultimo.
 
+2.
+                    
+                        
+                            L'Ispettorato esercita, in particolare, le seguenti funzioni e attribuzioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                esercita e coordina su tutto il territorio nazionale, sulla base di direttive emanate dal Ministro del lavoro e delle politiche sociali, ((contenenti anche specifiche linee di indirizzo per la vigilanza sul corretto utilizzo delle prestazioni di lavoro accessorio,)) la vigilanza in materia di lavoro, contribuzione e assicurazione obbligatoria nonche' legislazione sociale, ivi compresa la vigilanza in materia di tutela della salute e della sicurezza nei luoghi di lavoro, nei limiti delle competenze gia' attribuite al personale ispettivo del Ministero del lavoro e delle politiche sociali ai sensi del decreto legislativo 9 aprile 2008, n. 81, e gli accertamenti in materia di riconoscimento del diritto a prestazioni per infortuni su lavoro e malattie professionali, della esposizione al rischio nelle malattie professionali, delle caratteristiche dei vari cicli produttivi ai fini della applicazione della tariffa dei premi; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                emana circolari interpretative in materia ispettiva e sanzionatoria, previo parere conforme del Ministero del lavoro e delle politiche sociali, nonche' direttive operative rivolte al personale ispettivo; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                propone, sulla base di direttive del Ministro del lavoro e delle politiche sociali, gli obiettivi quantitativi e qualitativi delle verifiche ed effettua il monitoraggio sulla loro realizzazione; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                cura la formazione e l'aggiornamento del personale ispettivo, ivi compreso quello di INPS e INAIL; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                svolge le attivita' di prevenzione e promozione della legalita' presso enti, datori di lavoro e associazioni finalizzate al contrasto del lavoro sommerso e irregolare ((, anche attraverso l'uso non corretto dei tirocini,)) ai sensi dell'articolo 8 del decreto legislativo 23 aprile 2004, n. 124; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                esercita e coordina le attivita' di vigilanza sui rapporti di lavoro nel settore dei trasporti su strada, i controlli previsti dalle norme di recepimento delle direttive di prodotto e cura la gestione delle vigilanze speciali effettuate sul territorio nazionale; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                svolge attivita' di studio e analisi relative ai fenomeni del lavoro sommerso e irregolare e alla mappatura dei rischi, al fine di orientare l'attivita' di vigilanza; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                gestisce le risorse assegnate ai sensi dell'articolo 8, anche al fine di garantire l'uniformita' dell'attivita' di vigilanza, delle competenze professionali e delle dotazioni strumentali in uso al personale ispettivo; 
+
+                            
+                        
+                        
+                            i)
+                            
+                                svolge ogni ulteriore attivita', connessa allo svolgimento delle funzioni ispettive, ad esso demandata dal Ministro del lavoro e delle politiche sociali; 
+
+                            
+                        
+                        
+                            l)
+                            
+                                riferisce al Ministero del lavoro e delle politiche sociali, all'INPS e all'INAIL ogni informazione utile alla programmazione e allo svolgimento delle attivita' istituzionali delle predette amministrazioni; 
+
+                            
+                        
+                        
+                            m)
+                            
+                                ferme restando le rispettive competenze, si coordina con i servizi ispettivi delle aziende sanitarie locali e delle agenzie regionali per la protezione ambientale al fine di assicurare l'uniformita' di comportamento ed una maggiore efficacia degli accertamenti ispettivi, evitando la sovrapposizione degli interventi.
+
 ## Art. 3. — Organi dell'Ispettorato
+
+1.
+                    
+                        
+                            Sono organi dell'Ispettorato e restano in carica per tre anni rinnovabili per una sola volta: 
+ 
+                        
+                        
+                            a)
+                            
+                                il direttore; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                il consiglio di amministrazione; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                il collegio dei revisori.
 
 Il direttore e' scelto tra esperti ovvero tra personale incaricato di funzioni di livello dirigenziale generale delle amministrazioni pubbliche di cui all'articolo 1 comma 2, del decreto legislativo 30 marzo 2001 n. 165 o altro personale di cui all'articolo 3 del medesimo decreto legislativo, in possesso di provata esperienza e professionalita' nelle materie di competenza dell'Ispettorato ed e' nominato con decreto del Presidente della Repubblica, previa deliberazione del Consiglio dei Ministri, su proposta del Ministro del lavoro e delle politiche sociali e, se dipendente delle amministrazioni pubbliche, previo collocamento fuori ruolo, aspettativa non retribuita, comando o analogo provvedimento secondo i rispettivi ordinamenti. In tal caso e' reso indisponibile un posto equivalente, dal punto di vista finanziario, presso l'amministrazione di provenienza. Al direttore dell'Ispettorato spetta il trattamento economico e normativo riconosciuto per l'incarico di capo dipartimento di cui all'articolo 5 del decreto legislativo n. 300 del 1999.
 
@@ -65,6 +171,31 @@ Il collegio dei revisori svolge il controllo sull'attivita' dell'Ispettorato ai 
 
 Con uno o piu' decreti del Presidente del Consiglio dei ministri, su proposta del Ministro del lavoro e delle politiche sociali di concerto con il Ministro dell'economia e delle finanze, il Ministro per la semplificazione e la pubblica amministrazione e il Ministro della difesa, da adottarsi entro quarantacinque giorni dalla data di entrata in vigore del presente decreto legislativo, sono disciplinate, senza nuovi o maggiori oneri a carico della finanza pubblica, l'organizzazione delle risorse umane e strumentali per il funzionamento dell'Ispettorato e la contabilita' finanziaria ed economico patrimoniale relativa alla sua gestione.
 
+2.
+                    
+                        
+                            Fermi restando gli ordinari stanziamenti di bilancio e senza nuovi o maggiori oneri a carico della finanza pubblica, i decreti di cui al comma 1 provvedono, in deroga alle discipline normative e contrattuali vigenti, a rideterminare in modo uniforme il trattamento di missione del personale ispettivo dell'Ispettorato, dell'INPS e dell'INAIL, in considerazione delle esigenze di utilizzo abituale del mezzo proprio per lo svolgimento della ordinaria attivita' istituzionale che comporta, il trasporto di strumenti informatici, fotocamere e altre attrezzature di lavoro. Ai fini della rideterminazione del trattamento di missione di cui al presente comma si applicano i seguenti criteri: 
+ 
+                        
+                        
+                            a)
+                            
+                                mantenimento della misura dell'indennita' chilometrica di cui al primo comma dell'articolo 15 della legge 18 dicembre 1973, n. 836 come rideterminata dall'articolo 8 della legge 26 luglio 1978, n. 417; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                previsione di una specifica indennita' volta a favorire la messa a disposizione del mezzo proprio; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                previsione di coperture assicurative per eventi non coperti dal sistema assicurativo obbligatorio e dall'INAIL.
+
 A richiesta del dipendente e nei limiti delle risorse disponibili a legislazione vigente, nell'ambito del ((bilancio dell'Ispettorato)) gia' destinate alla corresponsione delle indennita' e dei rimborsi correlati alle attivita' ispettive, l'Ispettorato ((medesimo)) autorizza preventivamente, per ogni ventiquattro ore compiute di missione, la corresponsione di una somma forfetaria alternativa ad ogni altra indennita' e rimborso, da determinare con decreto del Ministro del lavoro e delle politiche sociali, di concerto con il Ministro dell'economia e delle finanze.
 
 I decreti di cui al comma 1 prevedono misure volte a garantire l'omogeneizzazione delle dotazioni strumentali, anche informatiche, messe a disposizione del personale ispettivo dell'Ispettorato, del personale di cui all'articolo 6 comma 4, nonche' del personale ispettivo dell'INPS e dell'INAIL. I medesimi decreti prevedono misure volte a garantire che lo svolgimento dell'attivita' lavorativa del personale ispettivo abbia luogo con modalita' flessibili e semplificate.
@@ -82,6 +213,42 @@ La dotazione organica dell'Ispettorato e' ridotta in misura corrispondente alle 
 COMMA ABROGATO DAL D.L. 2 MARZO 2024, N. 19.
 
 Presso la sede di Roma dell'Ispettorato e' istituito, alle dipendenze del Ministro del lavoro e delle politiche sociali, il «Comando carabinieri per la tutela del lavoro». L'attivita' di vigilanza svolta dal personale dell'Arma dei Carabinieri nonche' il coordinamento con l'Ispettorato e' assicurato mediante la definizione, da parte del direttore dell'Ispettorato, di linee di condotta e programmi ispettivi periodici nonche' mediante l'affidamento allo stesso direttore delle spese di funzionamento del Comando carabinieri per la tutela del lavoro. Presso le sedi territoriali dell'Ispettorato opera altresi' un contingente di personale che, secondo quanto stabilito dai decreti di cui all'articolo 5, comma 1, dipende funzionalmente dal dirigente preposto alla sede territoriale dell'Ispettorato e gerarchicamente dal comandante dell'articolazione del Comando carabinieri per la tutela del lavoro. In relazione a quanto stabilito dal presente comma, il contingente di personale assegnato al Ministero del lavoro e delle politiche sociali ai sensi dell'articolo 826, comma 1, del decreto legislativo 15 marzo 2010, n. 66 e' assegnato all'Ispettorato. Il contingente di cui al presente comma, eventualmente ridotto con i decreti di cui all'articolo 5, comma 1, e' aggiuntivo rispetto alla dotazione organica di cui al comma 1 ed e' selezionato per l'assegnazione secondo criteri fissati dal Comando generale dell'Arma dei Carabinieri fra coloro che abbiano frequentato specifici corsi formativi del Ministero del lavoro e delle politiche sociali o dell'Ispettorato. Allo stesso contingente sono attribuiti, nell'esercizio delle proprie funzioni, i medesimi poteri riconosciuti al personale ispettivo dell'Ispettorato, fatto salvo il potere di conciliazione di cui all'articolo 11 del decreto legislativo 23 aprile 2004, n. 124. Sono a carico dell'Ispettorato gli oneri relativi al trattamento economico, fondamentale ed accessorio, del personale dell'Arma dei carabinieri e le spese connesse alle attivita' cui sono adibiti. In ragione della riorganizzazione di cui al presente comma e' abrogato, dalla data indicata dai decreti di cui all'articolo 5, comma 1, il decreto del Ministro della difesa, di concerto con il Ministro del lavoro, della salute e delle politiche sociali e con il Ministro dell'interno, del 12 novembre 2009, recante la «Riorganizzazione del Comando Carabinieri per la tutela del lavoro», pubblicato nella Gazzetta Ufficiale della Repubblica italiana n. 52 del 4 marzo 2010, fatte salve le disposizioni relative al rapporto di impiego dei Carabinieri per la tutela del lavoro con la Regione Sicilia.
+
+5.
+                    
+                        
+                            Con i decreti di cui all'articolo 5, comma 1, sono altresi' individuati: 
+ 
+                        
+                        
+                            a)
+                            
+                                la dislocazione sul territorio dell'Ispettorato; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                gli assetti e gli organici del personale dell'Arma dei Carabinieri di cui al comma 4, nonche' i contenuti della dipendenza funzionale delle unita' territoriali dal dirigente preposto alla sede territoriale dell'Ispettorato.
+
+6.
+                    
+                        
+                            Dalla data indicata dai decreti di cui all'articolo 5, comma 1: 
+ 
+                        
+                        
+                            a)
+                            
+                                cessano di operare le direzioni interregionali e territoriali del lavoro e sono attribuiti alle sedi territoriali dell'Ispettorato i compiti gia' assegnati alle predette direzioni dagli articoli 15 e 16 di cui al decreto del Presidente del Consiglio dei Ministri 14 febbraio 2014, n. 121; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                e' trasferito nei ruoli dell'Ispettorato il personale di ruolo del Ministero del lavoro e delle politiche sociali individuato dagli stessi decreti di cui all'articolo 5, comma 1. Nell'ambito del trasferimento e' ricompreso il personale gia' in servizio presso le direzioni interregionali e territoriali del lavoro e presso la direzione generale per l'attivita' ispettiva del Ministero del lavoro e delle politiche sociali. E' altresi' trasferito presso la sede centrale e le sedi territoriali di Roma dell'Ispettorato il personale ispettivo in sevizio presso le sedi centrali del Ministero del lavoro e delle politiche sociali, fatta salva la possibilita' di chiedere, entro trenta giorni dall'entrata in vigore del presente decreto, di rimanere nei ruoli dello stesso Ministero con inquadramento nei corrispondenti profili amministrativi.
 
 ## Art. 7. — Coordinamento e accentramento delle funzioni di vigilanza
 
@@ -119,6 +286,56 @@ In applicazione del comma 2 del presente articolo, dei commi 1, 2 ultimo periodo
 
 ## Art. 11. — Abrogazioni e altre norme di coordinamento
 
+1.
+                    
+                        
+                            Dalla data indicata dai decreti di cui all'articolo 5 comma 1, al decreto legislativo 23 aprile 2004, n. 124 sono apportate le seguenti modifiche: 
+ 
+                        
+                        
+                            a)
+                            
+                                gli articoli 1, 2, 4 e 5 sono abrogati e l'articolo 3 e' sostituito dal seguente: 
+ «Art. 3 (Commissione centrale di coordinamento dell'attivita' di vigilanza). - 1. La Commissione centrale di coordinamento dell'attivita' di vigilanza, costituita ai sensi del presente articolo, opera quale sede permanente di elaborazione di orientamenti, linee e priorita' dell'attivita' di vigilanza. 
+ 2. La Commissione, sulla base di specifici rapporti annuali presentati dall'Ispettorato nazionale del lavoro, propone indirizzi ed obiettivi strategici e priorita' degli interventi ispettivi. 
+ 3. La Commissione centrale di coordinamento dell'attivita' di vigilanza, nominata con decreto del Ministro del lavoro e delle politiche sociali, e' composta dal Ministro del lavoro e delle politiche sociali o da un sottosegretario delegato, in qualita' di presidente; dal direttore dell'Ispettorato nazionale del lavoro; dai direttori generali dell'INPS e dell'INAIL; dal Comandante del Comando carabinieri per la tutela del lavoro; dal Comandante generale della Guardia di finanza; dal Comandante del Nucleo speciale entrate della Guardia di finanza; dal Comandante generale dell'Arma dei carabinieri; dal Direttore generale dell'Agenzia delle entrate; da quattro rappresentanti dei datori di lavoro e quattro rappresentanti dei lavoratori designati dalle organizzazioni sindacali comparativamente piu' rappresentative a livello nazionale. I componenti della Commissione possono farsi rappresentare da membri supplenti appositamente delegati. 
+ 4. Alle sedute della Commissione centrale di coordinamento dell'attivita' di vigilanza possono essere invitati a partecipare i Direttori generali delle direzioni generali del Ministero del lavoro e delle politiche sociali, e i Direttori generali delle direzioni generali degli altri Ministeri interessati in materia. Alle sedute della Commissione centrale di coordinamento dell'attivita' di vigilanza puo', su questioni di carattere generale attinenti alla problematica del lavoro illegale, essere altresi' invitato il Capo della Polizia - Direttore generale della pubblica sicurezza. 
+ 5. Ai componenti della Commissione di coordinamento dell'attivita' di vigilanza ed ai soggetti eventualmente invitati a partecipare ai sensi del comma 4 non spetta alcun compenso, rimborso spese o indennita' di missione. Al funzionamento della Commissione si provvede con le risorse assegnate a normativa vigente sui pertinenti capitoli di bilancio»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                all'articolo 9, comma 1, primo periodo, le parole "alla Direzione generale" sono sostituite dalle seguenti "al Ministero del lavoro e delle politiche sociali"; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                all'articolo 13, comma 5, il primo capoverso e' sostituito dal seguente "L'adozione della diffida interrompe i termini per la presentazione dei ricorsi di cui agli articoli 16 e 17 del presente decreto, fino alla scadenza del termine per compiere gli adempimenti di cui ai commi 2 e 3". 
+
+                            
+                        
+                        
+                            d)
+                            
+                                l'articolo 16 e' sostituito dal seguente: 
+ «Art. 16 (Ricorsi al direttore della sede territoriale dell'Ispettorato). - 1. Al fine di garantire l'uniforme applicazione delle disposizioni in materia di lavoro, legislazione sociale, nonche' in materia contributiva e assicurativa, nei confronti dei relativi atti di accertamento adottati dagli ufficiali e agenti di polizia giudiziaria di cui all'articolo 13, comma 7, e' ammesso ricorso davanti al direttore della sede territoriale dell'Ispettorato nazionale del lavoro, entro trenta giorni dalla notifica degli stessi. 
+ 2. Il ricorso va inoltrato alla sede territoriale competente dell'Ispettorato del lavoro ed e' deciso, nel termine di sessanta giorni dal ricevimento, sulla base della documentazione prodotta dal ricorrente tempestivamente trasmessa dall'organo accertatore. Decorso inutilmente il termine previsto per la decisione il ricorso si intende respinto»; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                l'articolo 17 e' sostituito dal seguente: 
+ «Art. 17 (Ricorso al Comitato per i rapporti di lavoro). - 1.
+Presso le competenti sedi territoriali dell'Ispettorato e' costituito il Comitato per i rapporti di lavoro, composto dal direttore della sede territoriale dell'Ispettorato nazionale del lavoro, che la presiede, dal direttore dell'INPS e dal direttore dell'INAIL del capoluogo di regione dove ha sede l'Ispettorato competente. Ai componenti dei comitati non spetta alcun compenso, rimborso spese o indennita' di missione ed al funzionamento dei comitati stessi si provvede con le risorse assegnate a normativa vigente sui pertinenti capitoli di bilancio. 
+ 2. Tutti i ricorsi avverso gli atti di accertamento dell'Ispettorato nazionale del lavoro e gli atti di accertamento degli Enti previdenziali e assicurativi che abbiano ad oggetto la sussistenza o la qualificazione dei rapporti di lavoro, sono inoltrati entro 30 giorni dalla notifica degli stessi alla sede territoriale competente dell'Ispettorato e sono decisi, con provvedimento motivato, dal Comitato di cui al comma 1 nel termine di novanta giorni dal ricevimento, sulla base della documentazione prodotta dal ricorrente e di quella in possesso dell'Ispettorato.
+Decorso inutilmente il termine previsto per la decisione il ricorso si intende respinto.».
+
 Ogni riferimento alle direzioni interregionali, regionali o territoriali del lavoro contenuto in provvedimenti di legge o in norme di rango secondario e' da intendersi, in quanto compatibile, alla sede territorialmente competente dell'Ispettorato.
 
 Le disposizioni di cui alla legge 24 novembre 1981, n. 689 trovano applicazione, in quanto compatibili, nei confronti dell'Ispettorato, da intendersi quale Autorita' competente a ricevere il rapporto ai sensi dell'articolo 17 della stessa legge 24 novembre 1981, n. 689.
@@ -138,6 +355,38 @@ Disposizioni per l'operativita' dell'Ispettorato
 Il Ministro del lavoro e delle politiche sociali nomina un comitato operativo presieduto dal direttore dell'Ispettorato e formato da un esperto dei ruoli del Ministero del lavoro e delle politiche sociali, uno dell'INPS e uno dell'INAIL.
 
 Il Comitato svolge le attivita' di cui al comma 3 per il periodo necessario a garantire la progressiva funzionalita' dell'Ispettorato e comunque per un periodo non superiore a tre anni.
+
+3.
+                    
+                        
+                            Il Comitato svolge in particolare le seguenti funzioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                coadiuva il direttore dell'Ispettorato nella definizione degli atti di indirizzo dell'attivita' di vigilanza in materia di lavoro e legislazione sociale da sottoporre alla Commissione centrale di coordinamento di cui all'articolo 3 del decreto legislativo 23 aprile 2004, n. 124; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                assicura ogni utile coordinamento tra l'Ispettorato, il Ministero del lavoro e delle politiche sociali, l'INPS e l'INAIL, sia ai fini di una corretta ed efficace gestione del personale ispettivo che della definizione degli obiettivi in relazione ai complessivi piani di attivita' delle stesse amministrazioni; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                adotta, in raccordo con il direttore, misure finalizzate ad una piu' efficace uniformita' dell'attivita' di vigilanza, ivi comprese misure di carattere economico e gestionale; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                monitora le attivita' dell'Ispettorato, trascorsi dodici mesi dalla sua istituzione, al fine di valutarne la concreta funzionalita' ed efficacia di azione.
 
 Ai componenti del comitato non spetta alcun compenso, gettone di presenza o emolumento a qualsiasi titolo dovuti.
 

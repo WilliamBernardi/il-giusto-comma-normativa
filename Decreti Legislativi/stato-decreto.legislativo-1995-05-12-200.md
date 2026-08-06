@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
 vigenza_date: 2001-04-13
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:23Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -35,6 +35,32 @@ Nell'art. 4 del capo II, titolo I, del decreto legislativo 30 ottobre 1992, n. 4
 ## Art. 1-bis.
 
 ## Art. 2.
+
+1.
+                        
+                            
+                                Nel capo III, titolo I, del decreto legislativo 30 ottobre 1992, n. 443, sono apportate le seguenti modificazioni:
+ 
+                            
+                            
+                                a)
+                                
+                                    l'art. 10 e' sostituito dal seguente:
+ "Art. 10. - Nomina ad assistente. - 1. La qualifica di assistente si consegue a ruolo aperto mediante scrutinio per merito assoluto, dopo cinque anni di effettivo servizio nella qualifica di agente scelto.";
+
+                                
+                            
+                            
+                                b)
+                                
+                                    nell'art. 11, le parole "abbia compiuto quindici anni di servizio ovvero" sono soppresse;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    gli articoli 12 e 13 sono soppressi.
 
 ## Art. 3.
 
@@ -162,6 +188,38 @@ Il personale inquadrato ai sensi del presente articolo conserva, anche ai fini d
 
 ## Art. 8. — Inquadramento nel ruolo degli ispettori
 
+1.
+                        
+                            
+                                Il personale del Corpo di polizia penitenziaria appartenente al ruolo degli ispettori e sovrintendenti di cui al decreto legislativo 30 ottobre 1992, n. 443, in servizio al 1 settembre 1995 e' inquadrato in ordine di qualifica e di ruolo, anche in sovrannumero riassorbibile con le normali vacanze, nelle sottoelencate qualifiche del ruolo degli ispettori, conservando, se piu' favorevole, il trattamento economico in godimento:
+ 
+                            
+                            
+                                a)
+                                
+                                    nella qualifica di ispettore superiore, gli ispettori capo nonche' gli appartenenti al ruolo degli ispettori che sono in possesso di un'anzianita' di servizio nel ruolo degli ispettori e nel grado di maresciallo capo del disciolto Corpo degli agenti di custodia non inferiore ad otto anni;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    nella qualifica di ispettore capo il personale che riveste la qualifica di ispettore;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    nella qualifica di ispettore il personale che riveste la qualifica di vice ispettore, nonche' quello che riveste la qualifica di sovrintendente capo, conservando se piu' favorevole il trattamento economico in godimento;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    nella qualifica di vice ispettore il personale che riveste la qualifica di sovrintendente e di vice sovrintendente, ad eccezione di quello inquadrato nella qualifica di sovrintendente capo del nuovo ruolo dei sovrintendenti del Corpo di polizia penitenziaria, ((a norma dell'articolo 7)), comma 1, del presente decreto.
+
 Il personale di cui al comma 1, lettera b), conserva, ai fini della progressione nella qualifica di ispettore superiore, i quattro quinti dell'anzianita' di servizio computata ai sensi dell'art. 30, comma 1, lettera a) del decreto legislativo 30 ottobre 1992, n. 443.
 Il personale che riveste la qualifica di vice ispettore, inquadrato ai sensi della lettera c) del comma 1, matura l'anzianita' per la promozione alla qualifica di ispettore capo, al compimento del quinto anno di effettivo servizio nella qualifica di inquadramento, conservando l'anzianita' maturata nel ruolo degli ispettori prima della data di entrata in vigore del presente decreto, computa secondo quanto previsto dall'art. 29, comma 2, del decreto legislativo 30 ottobre 1992 n. 443.
 
@@ -170,6 +228,24 @@ Fermo restando quanto previsto dal comma 2, per il personale di cui al comma 1, 
 Per il personale di cui al comma 1, lettere d) e c), proveniente dal ruolo dei sovrintendenti, ai fini dell'ammissione allo scrutinio di promozione alla qualifica di ispettore e ispettore capo conserva l'anzianita' posseduta nel ruolo dei sovrintendenti per un massimo di due anni; ((per il personale di cui al comma 1, lettera d), del presente articolo,)) ai fini dell'ammissione allo scrutinio di promozione alla qualifica di ispettore capo, la permanenza minima nella qualifica di ispettore e' ridotta di due anni.
 
 ## Art. 9. — Concorso ad ispettore superiore
+
+1.
+                        
+                            
+                                Per un periodo di quattro anni dalla data di entrata in vigore del presente decreto, la promozione alla qualifica di ispettore superiore si consegue, anche in sovrannumero:
+ 
+                            
+                            
+                                a)
+                                
+                                    secondo le modalita' previste dall'art. 30-bis del decreto legislativo 30 ottobre 1992, n. 443, aggiunto dall'art. 5 del presente decreto;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    per contingente di cento posti l'anno, previa selezione, alla quale e' ammesso il personale che riveste la qualifica di ispettore capo che ne faccia domanda. Con decreto del Ministro di grazia e giustizia sono fissati criteri di selezione, tenuto conto dei precedenti di servizio e dei titoli eventualmente conseguiti, nonche' la composizione della commissione che procedera' alla selezione.
 
 Alla selezione di cui al comma 1 puo' partecipare il personale ivi indicato che, nei tre anni precedenti, non abbia riportato sanzioni disciplinari pari o piu' gravi alla deplorazione e abbia riportato un giudizio non inferiore a "buono".
 

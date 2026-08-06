@@ -8,8 +8,8 @@ vigente: true
 source: normattiva-opendata
 collection: Leggi delega e relativi provvedimenti delegati
 vigenza_date: 2024-08-06
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:41:17Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -81,6 +81,38 @@ L'adesione al regime e' subordinata al possesso dei requisiti di cui all'articol
 
 ## Art. 4. — Requisiti
 
+1.
+                        
+                            
+                                Il contribuente che aderisce al regime deve essere dotato, nel rispetto della sua autonomia di scelta delle soluzioni organizzative piu' adeguate per il perseguimento dei relativi obiettivi, di un efficace sistema integrato di rilevazione, misurazione, gestione e controllo dei rischi fiscali anche in ordine alla mappatura di quelli derivanti dai principi contabili applicati dal contribuente, inserito nel contesto del sistema integrato di governo aziendale e di controllo interno. Fermo il fedele e tempestivo adempimento degli obblighi tributari, il sistema deve assicurare: 
+ 
+                            
+                            
+                                a)
+                                
+                                    una chiara attribuzione di ruoli e responsabilita' ai diversi settori dell'organizzazione dei contribuenti in relazione ai rischi fiscali; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    efficaci procedure di rilevazione, misurazione, gestione e controllo dei rischi fiscali il cui rispetto sia garantito a tutti i livelli aziendali; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    efficaci procedure per rimediare ad eventuali carenze riscontrate nel suo funzionamento e attivare le necessarie azioni correttive. 
+
+                                
+                            
+                            
+                                c-bis)
+                                
+                                    una mappatura dei rischi fiscali relativi ai processi aziendali.
+
 Il sistema di rilevazione, misurazione, gestione e controllo del rischio fiscale di cui al comma 1, predisposto in modo coerente con le linee guida di cui al comma 1-quater, deve essere certificato, anche in ordine alla sua conformita' ai principi contabili, da parte di professionisti indipendenti gia' in possesso di una specifica professionalita' iscritti all'albo degli avvocati o dei dottori commercialisti ed esperti contabili. ((In caso di certificazione infedele si applicano le disposizioni di cui all'articolo 39, comma 1, lettera b), del decreto legislativo 9 luglio 1997, n. 241. La certificazione e' infedele se resa in assenza dei requisiti di indipendenza, onorabilita' e professionalita' indicati nel regolamento di cui al comma 1-ter, nonche' in tutti i casi in cui non vi sia corrispondenza tra i dati contenuti nella certificazione e quelli esibiti dal contribuente o il certificatore attesti falsamente di aver eseguito i compiti e gli adempimenti previsti dal regolamento di cui al comma 1-ter. In caso di certificazione infedele l'Agenzia dell'entrate ne tiene conto ai fini dell'ammissione o della permanenza nel regime di adempimento collaborativo del soggetto cui la certificazione si riferisce e comunica la condotta del professionista che ha reso la certificazione infedele al Consiglio Nazionale dell'ordine professionale di appartenenza per le valutazioni di competenza.)) (4)
 
 Con regolamento emanato ai sensi dell'articolo 17, comma 3, della legge 23 agosto 1988, n. 400, su proposta del Ministro dell'economia e delle finanze, di concerto con il Ministro della giustizia, sentiti i rispettivi ordini professionali, sono disciplinati, quali disposizioni attuative di quelle relative al regime di cui al presente articolo, i requisiti dei professionisti abilitati al rilascio della certificazione di cui al comma 1-bis, nonche' i loro compiti e adempimenti, prevedendo che, per il rilascio della predetta certificazione, gli stessi possono avvalersi dei consulenti del lavoro per le materie di loro competenza, fermo restando che la certificazione deve essere sottoscritta dai professionisti di cui al comma 1-bis.
@@ -96,7 +128,85 @@ Il sistema di rilevazione, misurazione, gestione e controllo del rischio fiscale
 
 ## Art. 5. — Doveri
 
+1.
+                        
+                            
+                                Il regime comporta per l'Agenzia delle entrate i seguenti impegni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    valutazione trasparente, oggettiva e rispettosa dei principi di ragionevolezza e di proporzionalita' del sistema di controllo adottato, con eventuale proposta degli interventi ritenuti necessari ai fini dell'ammissione e della permanenza nel regime e per il conseguimento delle finalita' di cui all'articolo 3, comma 1; 
 
+                                
+                            
+                            
+                                b)
+                                
+                                    pubblicazione periodica sul proprio sito istituzionale dell'elenco aggiornato delle operazioni, strutture e schemi ritenuti di pianificazione fiscale aggressiva; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    promozione di relazioni con i contribuenti improntate a principi di trasparenza, collaborazione e correttezza nell'intento di favorire un contesto fiscale di certezza; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    realizzazione di specifiche semplificazioni degli adempimenti tributari, in conseguenza degli elementi informativi forniti dal contribuente nell'ambito del regime; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    esame preventivo delle situazioni suscettibili di generare rischi fiscali significativi e risposta alle richieste dei contribuenti nel piu' breve tempo possibile; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    debita considerazione degli esiti dell'esame e della valutazione effettuate dagli organi di gestione, sulla base della relazione di cui all'articolo 4, comma 2, delle risultanze delle attivita' dei soggetti incaricati, presso ciascun contribuente, della revisione contabile, nonche' di quella dei loro collegi sindacali e dei pareri degli organismi di vigilanza.
+
+2.
+                        
+                            
+                                Il regime comporta per i contribuenti i seguenti impegni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    istituzione e mantenimento del sistema di rilevazione, misurazione, gestione e controllo del rischio fiscale ((certificato ai sensi dell'articolo 4, comma 1-bis,)), per garantire il conseguimento delle finalita' di cui all'articolo 3, comma 1, nonche' attuazione delle modifiche del sistema adottato eventualmente ritenute necessarie dalla Agenzia delle entrate; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    comportamento collaborativo e trasparente, mediante comunicazione tempestiva ed esauriente all'Agenzia delle entrate dei rischi di natura fiscale e, in particolare, delle operazioni che possono rientrare nella pianificazione fiscale aggressiva; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    risposta alle richieste della Agenzia delle entrate nel piu' breve tempo possibile; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    promozione di una cultura aziendale improntata a principi di onesta', correttezza e rispetto della normativa tributaria, assicurandone la completezza e l'affidabilita', nonche' la conoscibilita' a tutti i livelli aziendali.
+
+(( 2-bis. Con decreto del Ministro dell'economia e delle finanze e' emanato il codice di condotta finalizzato a indicare e definire gli impegni che reciprocamente assumono l'Amministrazione finanziaria e i contribuenti aderenti al regime di adempimento collaborativo, ivi incluso quello funzionale alla comunicazione di cui al comma 2, lettera b) ))
 
 ## Art. 6. — Effetti
 
@@ -143,6 +253,31 @@ Non trovano applicazione i termini previsti ai commi 6-bis e 6-ter quando e' con
 ## Art. 7. — Competenze e procedure
 
 L'Agenzia delle entrate e' competente in via esclusiva per i controlli e le attivita' relativi al regime di adempimento collaborativo, nei riguardi dei contribuenti ammessi al regime. La Guardia di finanza, sulla base di specifici protocolli di intesa, coopera e si coordina preliminarmente con l'Agenzia delle entrate nell'esercizio dei poteri istruttori nei confronti dei contribuenti ammessi al regime, agli effetti di cui agli articoli 33, commi 3 e 4, del decreto del Presidente della Repubblica 29 settembre 1973, n. 600, e 63, commi 1 e 2, del decreto del Presidente della Repubblica 26 ottobre 1972, n. 633.
+
+1-bis.
+                        
+                            
+                                Il regime e' riservato ai contribuenti che conseguono un volume di affari o di ricavi: 
+ 
+                            
+                            
+                                a)
+                                
+                                    a decorrere dal 2024 non inferiore a 750 milioni di euro; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    a decorrere dal 2026 non inferiore a 500 milioni di euro; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    a decorrere dal 2028 non inferiore a 100 milioni di euro.
 
 I requisiti dimensionali di cui al comma 1-bis sono valutati assumendo, quale parametro di riferimento, il valore piu' elevato tra i ricavi indicati, secondo corretti principi contabili, nel bilancio relativo all'esercizio precedente a quello in corso alla data di presentazione della domanda e ai due esercizi anteriori e il volume di affari indicato nella dichiarazione ai fini dell'imposta sul valore aggiunto relativa all'anno solare precedente e ai due anni solari anteriori.
 

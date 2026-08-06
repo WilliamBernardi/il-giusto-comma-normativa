@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: DPR
 vigenza_date: 2000-05-06
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:47:43Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -35,6 +35,24 @@ Sono costituiti sei Consigli scientifici nazionali (CSN) per ciascuna delle segu
  4) scienze della salute;
  5) scienze giuridiche, politiche, economiche e sociali:
  6) scienze umanistiche e beni culturali.
+
+2.
+                    
+                        
+                            Ogni Consiglio e' costituito da 7 componenti, dei quali:
+ 
+                        
+                        
+                            a)
+                            
+                                5 eletti dai professori e ricercatori universitari;
+
+                            
+                        
+                        
+                            b)
+                            
+                                2 eletti dai dirigenti di ricerca e tecnologi, primi ricercatori e tecnologi, ricercatori e tecnologi degli enti di ricerca, ivi compresi quelli dell'Istituto nazionale di geofisica e vulcanologia (INGV), nonche' dai geofisici straordinari e ordinari, associati e ricercatori dello stesso INGV e dagli astronomi straordinari e ordinari, associati e ricercatori dell'Istituto di astrofisica (INAF). Per 1'elezione dei componenti del Consiglio afferente all'area n. 6 (scienze umanisiche e beni culturali) l'elettorato attivo e passivo e' esteso ai dipendenti che svolgono attivita' di ricerca negli istituti del Ministero per i beni e le attivita' culturali, individuati con il decreto di cui all'articolo 3, comma 1.
 
 ## Art. 2. — Elezione dei rappresentanti dei professori
  e ricercatori universitari
@@ -81,6 +99,31 @@ Nella data e nell'orario stabiliti per le votazioni l'elettore, dopo aver dimost
 
 Il voto e' individuale e segreto. L'elettore esprime il suo voto scrivendo sul lato interno della scheda il nome e il cognome del candidato prescelto, o anche il solo cognome se questo e' sufficiente per identificare il candidato. Sono nulle le schede che recano piu' di un nominativo o il nominativo di un soggetto non candidato, nonche' quelle che non permettono di interpretare la volonta' dell'elettore e quelle su cui e' stato apposto un segno di riconoscimento o un qualsivoglia altro segno diverso da quelli prescritti.
 
+3.
+                    
+                        
+                            All'ora stabilita per la chiusura delle votazioni, ed esaurite le operazioni di voto, il presidente dichiara chiuse le operazioni e l'ufficio elettorale procede alle seguenti operazioni:
+ 
+                        
+                        
+                            a)
+                            
+                                le schede rimaste inutilizzate sono raccolte e richiuse in un plico o contenitore sigillato;
+
+                            
+                        
+                        
+                            b)
+                            
+                                si verifica, sugli elenchi, per ciascun collegio elettorale il numero degli elettori che hanno votato che deve corrispondere al numero delle schede impiegate per la votazione;
+
+                            
+                        
+                        
+                            c)
+                            
+                                le schede votate sono prelevate dalle rispettive urne e raggruppate in plichi separati per ciascun collegio elettorale. In altro plico sono inserite le schede non utilizzate o annullate nel corso delle operazioni elettorali, il verbale e gli elenchi degli elettori. Detti plichi, sigillati e firmati da tutti i componenti del seggio sono riuniti in un plico che viene consegnato agli uffici amministrativi delle istituzioni interessate che ne curano la trasmissione alla commissione elettorale di cui all'articolo 9.
+
 ## Art. 9. — Commissione elettorale
 
 Con decreto del Ministro e' istituita presso il MURST una commissione elettorale con il compito di effettuare le operazioni di cui all'articolo 5, comma 2, e le operazioni di spoglio di cui all'articolo 10. La commissione e' presieduta da un Consigliere di Stato, designato dal Presidente del Consiglio di Stato ed e' composta da due professori o ricercatori universitari, designati dalla Conferenza dei rettori delle universita' italiane (CRUI), due appartenenti al personale di ricerca degli enti di ricerca e sperimentazione, designati dal Comitato degli esperti per la politica della ricerca (CEPR) di cui all'articolo 3 del decreto legislativo 5 giugno 1998, n. 204, uno designato dal Ministro per i beni e le attivita' culturali fra i ricercatori degli istituti dello stesso Dicastero, e da altri quattro componenti scelti fra i dirigenti e i funzionari del Ministero dell'universita' e della ricerca scientifica e tecnologica, con qualifica non inferiore all'ottava, uno dei quali con funzione di segretario.
@@ -100,6 +143,41 @@ Al termine delle operazioni redige graduatorie distinte per ciascun collegio ele
 Di tutte le operazioni e' redatto processo verbale.
 
 ## Art. 11. — Assemblea della scienza e della tecnologia
+
+1.
+                    
+                        
+                            L'Assemblea della scienza e della tecnologia (AST), di cui all'articolo 4 del decreto legislativo 5 giugno 1998, n. 204, e' costituita da 81 membri, di cui 42 componenti dei CSN e da altri 39 componenti cosi' suddivisi:
+ 
+                        
+                        
+                            a)
+                            
+                                12 esperti in rappresentanza di amministrazioni dello Stato, dei quali:
+ 3 designati dal Ministro dell'universita' e della ricerca scientifica e tecnologica;
+ 1 dal Ministro della sanita';
+ 1 dal Ministro dell'ambiente;
+ 1 dal Ministro dei trasporti e della navigazione;
+ 1 dal Ministro per i beni e le attivita' culturali;
+ 1 dal Ministro delle comunicazioni;
+ 1 dal Ministro del tesoro, del bilancio e della programmazione economica;
+ 1 dal Ministro della difesa;
+ 1 dal Ministero dell'industria, del commercio e dell'artigianato;
+ 1 dal Ministero delle politiche agricole e forestali;
+
+                            
+                        
+                        
+                            b)
+                            
+                                3 esperti designati dalla Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome;
+
+                            
+                        
+                        
+                            c)
+                            
+                                24 rappresentanti del mondo della produzione, dei servizi e delle forze sociali, dei quali 6 designati congiuntamente dalle organizzazioni imprenditoriali dell'industria, 3 designati congiuntamente dalle organizzazioni imprenditoriali dei servizi, 2 designati congiuntamente dalle organizzazioni degli artigiani, 2 designati congiuntamente dalle organizzazioni imprenditoriali dell'agricoltura, 1 designato congiuntamente dalle organizzazioni delle cooperative di produzione e di servizi, 10 designati congiuntamente dalle organizzazioni sindacali dei lavoratori dipendenti. Hanno titolo alla designazione le organizzazioni rappresentative su base nazionale.
 
 ## Art. 12. — Nomina dei CSN e dell'Assemblea
  della scienza e della tecnologia

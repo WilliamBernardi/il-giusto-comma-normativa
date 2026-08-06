@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: DPR
 vigenza_date: 2002-11-13
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:47:44Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -28,9 +28,91 @@ Sulla proposta del Ministro dei trasporti e della navigazione;
 
 ## Art. 1. — R e q u i s i t i
 
+1.
+                    
+                        
+                            Per ottenere il certificato di marittimo abilitato per i mezzi di salvataggio occorrono i seguenti requisiti: 
+ 
+                        
+                        
+                            a)
+                            
+                                essere iscritto nelle matricole della gente di mare; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                avere assolto all'obbligo scolastico; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                avere compiuto diciotto anni di eta'; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                avere effettuato un periodo di navigazione non inferiore a dodici mesi risultante dall'estratto del "giornale nautico - parte II" appositamente compilato dal comandante della nave, nel quale venga espressamente dichiarato che il marittimo interessato ha preso parte in maniera attiva e proficua a tutte le esercitazioni di emergenza compiute a bordo, ovvero aver frequentato con esito positivo un corso di sopravvivenza e salvataggio, previsto dal decreto ministeriale 6 aprile 1987, pubblicato nella Gazzetta Ufficiale n. 113 in data 18 maggio 1987 ed avere effettuato un periodo di navigazione non inferiore a nove mesi; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                aver sostenuto, con esito favorevole, un esame secondo il programma indicato nell'allegato B che fa parte integrante del presente decreto.
+
 ## Art. 2. — E c c e z i o n i
 
+1.
+                    
+                        
+                            Il certificato di marittimo abilitato per i mezzi di salvataggio e' conferito senza particolari accertamenti:
+ 
+                        
+                        
+                            a)
+                            
+                                agli ufficiali di coperta;
+
+                            
+                        
+                        
+                            b)
+                            
+                                ai marittimi che per almeno trenta mesi siano stati imbarcati in qualita' di nostromo su navi destinate al trasporto passeggeri.
+
 ## Art. 3. — Commissione di esame
+
+1.
+                    
+                        
+                            La prova di esame di cui al precedente articolo 1 dovra' essere sostenuta davanti ad una commissione nominata dal capo del compartimento e composta come segue:
+ 
+                        
+                        
+                            a)
+                            
+                                da un ufficiale di porto di grado non inferiore a tenente di vascello (C.P.), presidente;
+
+                            
+                        
+                        
+                            b)
+                            
+                                da un capitano di lungo corso, membro;
+
+                            
+                        
+                        
+                            c)
+                            
+                                da un sottufficiale di porto, membro, che svolge anche le funzioni di segretario.
 
 La commissione potra' essere integrata di volta in volta, in caso di particolari esigenze, da un funzionario del Ministero dei trasporti e della navigazione, in qualita' di esperto.
 

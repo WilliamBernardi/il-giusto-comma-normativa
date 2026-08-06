@@ -8,8 +8,8 @@ codice_redazionale: 086U0865
 vigente: true
 source: normattiva-opendata
 collection: DPR
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:48:14Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -21,13 +21,220 @@ Sentito il Consiglio dei Ministri;
 
 ## Art. 1. — Amnistia
 
+1.
+                    
+                        
+                            E' concessa amnistia: 
+ 
+                        
+                        
+                            a)
+                            
+                                per ogni reato non finanziario per il quale e' stabilita una pena detentiva non superiore nel massimo a tre anni, ovvero una pena pecuniaria, sola o congiunta a detta pena; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                per ogni reato non finanziario per il quale e' stabilita una pena detentiva non superiore nel massimo a quattro anni, ovvero una pena pecuniaria, sola o congiunta a detta pena, se commesso dal minore degli anni diciotto o da chi, al momento dell'entrata in vigore del presente decreto, ha superato gli anni sessantacinque; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                per i reati previsti dall'art. 57 del codice penale commessi dal direttore o dal vicedirettore responsabile, quando sia noto l'autore della pubblicazione; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                per il reato previsto dall'art. 491 in relazione agli articoli 476 e 482 del codice penale, salvo che il fatto riguardi un testamento olografo; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                per i reati di cui all'art. 7 in relazione agli articoli 1, 2 e 4 della legge 2 ottobre 1967, n. 895 (disposizioni per il controllo delle armi), come modificata dalla legge 14 ottobre 1974, n. 497, quando ricorra l'attenuante di cui all'art. 5 della predetta legge; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                per il reato di cui al comma terzo dell'art. 23 della legge 18 aprile 1975, n. 110 (norme integrative della disciplina vigente per il controllo delle armi, delle munizioni e degli esplosivi), quando concerna armi la cui detenzione l'imputato o il condannato aveva denunciato all'autorita' di pubblica sicurezza, nonche' per il reato di cui al comma decimo dell'art. 10 della citata legge, limitatamente alla sua applicazione alle fattispecie di cui ai commi sesto e ottavo dello stesso art. 10, allorche' il fatto, per la sua qualita' e il numero limitato delle armi, debba ritenersi di lieve entita'; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                per i reati previsti dagli articoli 337 e 610 del codice penale e dall'art. 1 del decreto legislativo 22 gennaio 1948, n. 66, commessi a causa e in occasione di manifestazioni sindacali o in conseguenza di situazioni di gravi disagi dovuti a disfunzioni di pubblici servizi o a problemi abitativi anche se i suddetti reati sono aggravati dal numero o dalla riunione delle persone e dalle circostanze di cui all'art. 61 del codice penale, fatta esclusione per quella prevista dal n. 1, nonche' da quella di cui all'art. 112, n. 2, del codice penale, sempre che non ricorrano altre aggravanti e il fatto non abbia cagionato ad altri lesioni personali o la morte; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                per ogni reato commesso da minore degli anni diciotto quando il giudice ritiene che possa essere concesso il perdono giudiziale ai sensi dell'art. 19 del regio decreto-legge 20 luglio 1934, n. 1404, convertito, con modificazioni, dalla legge 27 maggio 1935, n. 835, come sostituito da ultimo dall'art. 112 della legge 24 novembre 1981, n. 689; 
+
+                            
+                        
+                        
+                            i)
+                            
+                                per i reati per i quali e' stata pronunciata sentenza estintiva del reato per intervenuta applicazione della sanzione sostitutiva a norma dell'art. 77 della legge 24 novembre 1981, n. 689.
+
 ## Art. 2. — Esclusioni oggettive dall'amnistia
+
+1.
+                    
+                        
+                            L'amnistia non si applica:
+ 
+                        
+                        
+                            a)
+                            
+                                ai delitti previsti dai seguenti articoli del codice penale:
+ 1) 316 (peculato mediante profitto dell'errore altrui);
+ 2) 318 (corruzione per un atto d'ufficio);
+ 3) 319, comma quarto (corruzione per un atto contrario ai doveri d'ufficio);
+ 4) 320 (corruzione di persona incaricata di un pubblico servizio), in relazione ai fatti previsti negli articoli 318, comma primo, e 319, comma quarto;
+ 5) 321 (pene per il corruttore);
+ 6) 355 (inadempimento di contratti di pubbliche forniture), salvo che si tratti di fatto commesso per colpa;
+ 7) 371 (falso giuramento della parte);
+ 8) 372 (falsa testimonianza), quando la deposizione verte su fatti relativi all'esercizio di pubbliche funzioni espletate dal testimone;
+ 9) 385 (evasione), limitatamente alle ipotesi previste nel comma secondo;
+ 10) 391 (procurata inosservanza di misure di sicurezza detentive), limitatamente alle ipotesi previste nel comma primo;
+ 11) 443 (commercio o somministrazione di medicinali guasti);
+ 12) 444 commercio di sostanze alimentari nocive);
+ 13) 445 (somministrazione di medicinali in modo pericoloso per la salute pubblica);
+ 14) 501 (rialzo e ribasso fraudolento di prezzi sul pubblico mercato o nelle borse di commercio);
+ 15) 501-bis (manovre speculative su merci);
+ 16) 590, commi secondo e terzo (lesioni personali colpose), limitatamente ai fatti commessi con violazione delle norme per la prevenzione degli infortuni sul lavoro o relative all'igiene del lavoro, che abbiano determinato le conseguenze previste dal primo comma, n. 2, o dal secondo comma dell'art. 583 del codice penale;
+ 17) 595, comma terzo, quando l'offesa consiste nell'attribuzione di un fatto determinato ed e' commessa con mezzo di diffusione radiofonica o televisiva;
+ 18) 644 (usura).
+
+                            
+                        
+                        
+                            b)
+                            
+                                al delitto previsto dall'art. 218 del codice penale militare di pace (peculato militare mediante profitto dell'errore altrui);
+
+                            
+                        
+                        
+                            c)
+                            
+                                ai reati previsti:
+ 1) dalla legge 17 agosto 1942, n. 1150 (legge urbanistica), dalla legge 28 gennaio 1977, n. 10 (norme per la edificabilita' dei suoli), e dalla legge 28 febbraio 1985, n. 47 (norme in materia di controllo dell'attivita' urbanistico-edilizia, sanzioni, recupero e sanatoria delle opere edilizie);
+ 2) dagli articoli 9, 10, 14, 15, 18 e 20 della legge 13 luglio 1966, n. 615 (provvedimenti contro l'inquinamento atmosferico), e dagli articoli 21, 22 e 24-bis della legge 10 maggio 1976, n. 319 (norme per la tutela delle acque dall'inquinamento), salvo che il reato consista nella mancata presentazione della domanda di autorizzazione o di rinnovo di cui all'art. 15, comma secondo, della stessa legge;
+ 3) dall'art. 9, commi sesto e settimo, della legge 16 aprile 1973, n. 171 (interventi per la salvaguardia di Venezia), cosi' come sostituiti dall'art. 1-ter del decreto-legge 10 agosto 1976, n. 544, convertito, con modificazioni, dalla legge 8 ottobre 1976, n. 690, salvo che si tratti di inquinamento organico di lieve entita' provocato dalla lavorazione non industriale di prodotti ittici;
+ 4) dagli articoli 24, 25, primo e terzo comma, 26, 27, 29 e 32 del decreto del Presidente della Repubblica 10 settembre 1982, n. 915 (norme in materia di smaltimento dei rifiuti);
+ 5) dall'art. 2 della legge 26 aprile 1983, n. 136 (biodegradabilita' dei detergenti sintetici) e dall'art. 14 del decreto-legge 25 novembre 1985, n. 667 (provvedimenti urgenti per il contenimento dei fenomeni di eutrofizzazione), convertito, con modificazioni, dalla legge 24 gennaio 1986, n. 7;
+ 6) dagli articoli 17 e 20 della legge 31 dicembre 1982, n. 979 (disposizioni per la difesa del mare);
+ 7) dall'art. 3 della legge 18 aprile 1975, n. 110 (alterazione di armi);
+ 8) dall'art. 1-bis del decreto-legge 4 marzo 1976, n. 31 (disposizioni penali in materia di infrazioni valutarie), convertito, con modificazioni, dalla legge 30 aprile 1976, n. 159, inserito dall'art. 2 della legge 23 dicembre 1976, n. 863.
 
 Quando vi e' stata condanna ai sensi dell'art. 81 del codice penale, ove necessario, il giudice, con l'osservanza delle forme previste per gli incidenti di esecuzione, applica l'amnistia secondo le disposizioni del presente decreto, determinando le pene corrispondenti ai reati estinti.
 
 ## Art. 3. — Computo della pena per l'applicazione dell'amnistia
 
+1.
+                    
+                        
+                            Ai fini del computo della pena per l'applicazione dell'amnistia: 
+ 
+                        
+                        
+                            a)
+                            
+                                si ha riguardo alla pena stabilita per ciascun reato consumato o tentato; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                non si tiene conto dell'aumento di pena derivante dalla continuazione e dalla recidiva, anche se per quest'ultima la legge stabilisce una pena di specie diversa; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                si tiene conto dell'aumento di pena derivante dalle circostanze aggravanti per le quali la legge stabilisce una pena di specie diversa o dalle circostanze ad effetto speciale. Si tiene conto della circostanza aggravante prevista dall'art. 61, n. 7, del codice penale. Non si tiene conto delle altre circostanze aggravanti; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                si tiene conto della circostanza attenuante di cui all'art. 98 del codice penale, nonche', nei reati contro il patrimonio, delle circostanze attenuanti di cui ai numeri 4 e 6 dell'art. 62 del codice penale. Quando le predette circostanze attenuanti concorrono con circostanze aggravanti di qualsiasi specie, si tiene conto soltanto delle prime, salvo che concorrano le circostanze di cui agli articoli 583 e 625, numeri 1 e 4, seconda parte, del codice penale, nel qual caso si tiene conto soltanto di queste ultime. Ai fini dell'applicazione dell'amnistia la sussistenza delle predette circostanze e' accertata anche dal giudice istruttore o dal pretore nel corso dell'istruzione, nonche' dal giudice in camera di consiglio nella fase degli atti preliminari al giudizio, ai sensi dell'art. 421 del codice di procedura penale; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                in nessun altro caso si tiene conto delle circostanze attenuanti o della loro prevalenza o equivalenza rispetto alle circostanze aggravanti; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                si tiene conto delle circostanze attenuanti previste dall'art. 48 del codice penale militare di pace quando siano prevalenti o equivalenti, ai sensi dell'art. 69 del codice penale, rispetto ad ogni tipo di circostanza aggravante.
+
 ## Art. 4. — Condizioni soggettive per l'applicabilita' dell'amnistia
+
+1.
+                    
+                        
+                            L'amnistia non si applica:
+ 
+                        
+                        
+                            a)
+                            
+                                ai delinquenti abituali o professionali, sempre che la dichiarazione di abitualita' o professionalita' non sia estinta o revocata, e a coloro i quali alla data di entrata in vigore del presente decreto si trovano sottoposti alle misure di prevenzione del divieto o dell'obbligo di soggiorno, disposte con provvedimento definitivo ai sensi delle leggi 27 dicembre 1956, n. 1423, e 31 maggio 1965, n. 575, come modificate dalla legge 13 settembre 1982, n. 646;
+
+                            
+                        
+                        
+                            b)
+                            
+                                a coloro i quali nei dieci anni anteriori alla data di entrata in vigore del presente decreto hanno riportato una o piu' condanne a pena detentiva complessiva superiore a tre anni per delitti non colposi o, se si tratta di persone di eta' superiore a sessantacinque anni, a pena detentiva complessiva superiore a quattro anni per delitti non colposi.
+
+2.
+                    
+                        
+                            Nella valutazione dei precedenti penali non si tiene conto:
+ 
+                        
+                        
+                            a)
+                            
+                                delle condanne per le quali e' intervenuta riabilitazione, anche successivamente alla data di entrata in vigore del presente decreto, sempre che le condizioni per la riabilitazione preesistano a detta data;
+
+                            
+                        
+                        
+                            b)
+                            
+                                dei reati estinti alla data di entrata in vigore del presente decreto per il decorso dei termini della sospensione condizionale della pena a norma dell'art. 167 del codice penale;
+
+                            
+                        
+                        
+                            c)
+                            
+                                dei reati estinguibili per effetto della presente o di precedenti amnistie.
 
 Nell'applicazione dell'amnistia alle contravvenzioni non si tiene conto delle esclusioni previste dal comma 1.
 
@@ -53,6 +260,95 @@ L'indulto non si applica ai delinquenti abituali o professionali, sempre che la 
 
 ## Art. 8. — Esclusioni oggettive dall'indulto
 
+1.
+                    
+                        
+                            L'indulto non si applica alle pene:
+ 
+                        
+                        
+                            a)
+                            
+                                per i delitti previsti dai seguenti articoli del codice penale:
+ 1) 253 (distruzione o sabotaggio di opere militari);
+ 2) 270, commi primo e secondo (associazioni sovversive);
+ 3) 270-bis, comma primo (associazioni con finalita' di terrorismo e di eversione dell'ordine democratico);
+ 4) 276 (attentato contro il Presidente della Repubblica);
+ 5) 280 (attentato per finalita' terroristiche o di eversione);
+ 6) 283 (attentato contro la Costituzione dello Stato);
+ 7) 284 (insurrezione armata contro i poteri dello Stato);
+ 8) 285 (devastazione, saccheggio e strage);
+ 9) 286 (guerra civile);
+ 10) 289 (attentato contro organi costituzionali e contro le assemblee regionali);
+ 11) 289-bis, commi primo, secondo e terzo (sequestro di persona a scopo di terrorismo o di eversione);
+ 12) 306 (banda armata);
+ 13) 314 (peculato);
+ 14) 315 (malversazione a danno di privati);
+ 15) 317 (concussione);
+ 16) 319, commi primo, secondo e terzo, e, in relazione ai fatti ivi previsti, 320 e 321 (corruzione per un atto contrario ai doveri d'ufficio);
+ 17) 385 (evasione), se l'evasione e' aggravata dalla violenza o minaccia commesse con armi o da piu' persone riunite;
+ 18) 416-bis (associazione di tipo mafioso);
+ 19) 420 (attentato a impianti di pubblica utilita);
+ 20) 422 (strage);
+ 21) 428 (naufragio, sommersione o disastro aviatorio);
+ 22) 429, comma secondo (danneggiamento seguito da naufragio);
+ 23) 430 (disastro ferroviario);
+ 24) 431 (pericolo di disastro ferroviario causato da danneggiamento);
+ 25) 432, commi primo e terzo (attentati alla sicurezza dei trasporti);
+ 26) 433, comma terzo (attentati alla sicurezza degli impianti di energia elettrica e del gas, ovvero delle pubbliche comunicazioni);
+ 27) 434 (crollo di costruzioni o altri disastri dolosi);
+ 28) 438 (epidemia);
+ 29) 439 (avvelenamento di acque o di sostanze alimentari);
+ 30) 440 (adulterazione e contraffazione di sostanze alimentari);
+ 31) 441 (adulterazione e contraffazione di altre cose in danno della pubblica salute);
+ 32) 442 (commercio di sostanze alimentari contraffatte o adulterate);
+ 33) 519 (violenza carnale);
+ 34) 521 (atti di libidine violenti);
+ 35) 575 (omicidio), salvo quanto disposto dal comma 2 dell'art. 6 del presente decreto;
+ 36) 628, comma terzo (rapina aggravata);
+ 37) 629, comma secondo (estorsione aggravata);
+ 38) 630, commi primo, secondo e terzo (sequestro di persona a scopo di estorsione);
+ 39) 648-bis (sostituzione di denaro o valori provenienti da rapina aggravata, estorsione aggravata o sequestro di persona a scopo di estorsione).
+
+                            
+                        
+                        
+                            b)
+                            
+                                per i delitti previsti dai seguenti articoli del codice penale militare di pace:
+ 1) 167, comma primo (distruzione o sabotaggio di opere militari);
+ 2) 186 (insubordinazione con violenza), relativamente ai casi in cui la violenza consiste nell'omicidio volontario, salvo quanto disposto dal comma 2 dell'art. 6 del presente decreto;
+ 3) 195 (violenza contro un inferiore), relativamente ai casi in cui la violenza consiste nell'omicidio volontario, salvo quanto disposto dal comma 2 dell'art. 6 del presente decreto;
+ 4) 215 (peculato militare);
+ 5) 216 (malversazione a danno di militari);
+ 6) 217 (peculato e malversazione del portalettere).
+
+                            
+                        
+                        
+                            c)
+                            
+                                per i delitti previsti dai seguenti articoli:
+ 1) 3 della legge 9 dicembre 1941, n. 1383, recante disposizioni penali per i militari del Corpo della guardia di finanza;
+ 2) 2 della legge 20 giugno 1952, n. 645, sostituito dall'art. 8 della legge 22 maggio 1975, n. 152, concernente la riorganizzazione del disciolto partito fascista;
+ 3) 71, se aggravato ai sensi del secondo comma dell'art. 74, e 75 della legge 22 dicembre 1975, n. 685, concernente la disciplina degli stupefacenti e delle sostanze psicotrope;
+ 4) 1 del decreto-legge 4 marzo 1976, n. 31, convertito, con modificazioni, dalla legge 30 aprile 1976, n. 159, sostituito dall'art. 2 della legge 23 dicembre 1976, n. 863, contenente disposizioni penali in materia di infrazioni valutarie, quando ricorre l'aggravante di cui al comma quinto del predetto art. 1;
+ 5) 2, comma primo, della legge 25 gennaio 1982, n. 17, concernente l'attuazione dell'art. 18 della Costituzione in materia di associazioni segrete.
+
+                            
+                        
+                        
+                            d)
+                            
+                                per i reati finanziari;
+
+                            
+                        
+                        
+                            e)
+                            
+                                per i delitti concernenti le armi da guerra, le armi tipo guerra e le materie esplodenti, gli ordigni esplosivi o incendiari di cui all'art. 1 della legge 18 aprile 1975, n. 110.
+
 Quando vi e' stata condanna ai sensi dell'art. 81 del codice penale, ove necessario, il giudice, con l'osservanza delle forme previste per gli incidenti di esecuzione, applica l'indulto secondo le disposizioni del presente decreto, determinando la quantita' di pena condonata.
 
 ## Art. 9. — Indulto per le pene accessorie
@@ -60,6 +356,31 @@ Quando vi e' stata condanna ai sensi dell'art. 81 del codice penale, ove necessa
 E' concesso indulto, per intero, per le pene accessorie temporanee quando conseguano a condanne per le quali e' applicato, anche solo in parte, indulto.
 
 ## Art. 10. — Indulto condizionato
+
+1.
+                    
+                        
+                            Fuori dai casi previsti dagli articoli 6, 7 e 8, e' concesso indulto in misura non superiore a due anni per le pene inflitte per i reati contro il patrimonio, o che comunque offendono il patrimonio, esclusi il sequestro di persona a scopo di estorsione, l'estorsione e la rapina aggravata dall'uso di armi, a condizione che il condannato provi:
+ 
+                        
+                        
+                            a)
+                            
+                                di essere stato tossicodipendente al momento del fatto;
+
+                            
+                        
+                        
+                            b)
+                            
+                                di avere commesso il fatto a causa della sua condizione di tossicodipendente;
+
+                            
+                        
+                        
+                            c)
+                            
+                                di non essere tossicodipendente al momento della presentazione dell'istanza per l'applicazione dell'indulto.
 
 Nelle ipotesi di cui al comma 1, il giudice applica l'indulto con l'osservanza delle forme previste per gli incidenti di esecuzione.
 

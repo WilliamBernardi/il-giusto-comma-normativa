@@ -9,7 +9,7 @@ vigente: true
 source: normattiva-opendata
 collection: Atti di attuazione Regolamenti UE
 zip_date: 2026-07-24
-fetched_at: 2026-08-02T09:38:54Z
+fetched_at: 2026-07-24
 ---
 
 DECRETO
@@ -29,7 +29,45 @@ DELL'AGRICOLTURA E DELLE FORESTE
 
 Ai sensi del regolamento CEE n. 570/88, in seguito denominato "regolamento", e' messo in vendita, con la procedura della gara permanente, burro detenuto dagli organismi d'intervento, destinato ad essere utilizzato per la fabbricazione dei prodotti della pasticceria, dei gelati e degli altri prodotti alimentari.
 
+2.
+                    
+                        
+                            E' altresi' concesso un aiuto secondo la stessa procedura:
+ 
+                        
+                        
+                            a)
+                            
+                                al burro di mercato classificato nei paesi comunitari di produzione, secondo quanto indicato all'allegato 1 del presente decreto, e riportante sull'imballaggio la relativa classificazione;
+
+                            
+                        
+                        
+                            b)
+                            
+                                al burro concentrato prodotto con burro o crema che possiede i requisiti fissati all'allegato 2 del presente decreto.
+
 Il burro aggiudicato di cui al primo comma, il burro che usufruisce dell'aiuto di cui al secondo comma, lettera a) e il burro concentrato di cui al secondo comma, lettera b), devono essere incorporati esclusivamente, fatti salvi i prodotti intermedi di cui all'art. 9 del "regolamento", nei prodotti finali previsti all'art. 4 del "regolamento" e riportati all'allegato 3 del presente decreto.
+
+4.
+                    
+                        
+                            A tal fine, ai sensi dell'art. 3 del "regolamento" il burro e il burro concentrato di cui al comma precedente devono essere utilizzati:
+ 
+                        
+                        
+                            a)
+                            
+                                previa denaturazione ottenuta con l'incorporazione dei rivelatori prescritti all'art. 6, paragrafo 1, del "regolamento":
+ o durante la concentrazione del burro effettuata in conformita' dell'art. 5 del "regolamento";
+ o nel burro nello stato in cui si trova;
+
+                            
+                        
+                        
+                            b)
+                            
+                                oppure senza aggiunta di rivelatori. In tal caso nello stabilimento devono essere utilizzati almeno i quantitativi indicati al successivo art. 3. Il burro aggiudicato puo' essere concentrato in conformita' all'art. 5 del "regolamento".
 
 ## Art. 2.
 
@@ -223,11 +261,68 @@ Qualora il burro concentrato e denaturato e il burro denaturato vengano acquista
 
 Le imprese aggiudicatarie di burro che effettuano la concentrazione e/o denaturazione nonche' gli importatori ed i rivenditori di burro denaturato, di burro concentrato e denaturato, di burro concentrato, di prodotti intermedi, devono provvedere a mezzo telegramma o telex entro le 24 ore successive all'avvenuto trasferimento, a comunicare agli uffici dell'ispettorato per la repressione delle frodi o agli "organi di controllo" competenti per territorio di partenza e destinazione del prodotto, ogni trasferimento di prodotto da utilizzare ai sensi del "regolamento".
 
+2.
+                    
+                        
+                            La comunicazione deve contenere:
+ 
+                        
+                        
+                            a)
+                            
+                                le generalita' e l'indirizzo del destinatario o magazzino di deposito di destinazione;
+
+                            
+                        
+                        
+                            b)
+                            
+                                la descrizione del prodotto e la destinazione prescritta;
+
+                            
+                        
+                        
+                            c)
+                            
+                                gli estremi della fattura o bolla di accompagnamento;
+
+                            
+                        
+                        
+                            d)
+                            
+                                la data di aggiudicazione del burro nonche' quella limite entro cui il prodotto deve essere incorporato nei prodotti finali.
+
 Gli operatori di cui al primo comma del presente articolo, qualora effettuino vendite dirette agli utilizzatori finali di cui al precedente art. 13, comma quinto, in deroga a quanto stabilito nel precedente comma, devono comunicare, mediante lettera raccomandata agli "organi di controllo" od agli uffici dell'ispettorato per la repressione delle frodi competenti per i territori di partenza e destinazione del prodotto, l'avvenuta cessione del burro.
 
 Copia del contratto di cui al quinto comma dell'art. 13 del presente decreto dovra' essere inviata agli uffici dell'ispettorato per la repressione delle frodi territorialmente competenti in relazione alla sede della ditta importatrice e di quella utilizzatrice.
 
 ## Art. 15.
+
+1.
+                    
+                        
+                            Gli "organi di controllo" competenti per territorio in relazione agli stabilimenti che effettuano le sottoelencate operazioni provvederanno a svolgere controlli sul posto per quanto concerne:
+ 
+                        
+                        
+                            a)
+                            
+                                la concentrazione e denaturazione prevista all'art. 7 del presente decreto;
+
+                            
+                        
+                        
+                            b)
+                            
+                                l'incorporazione in prodotti delle formule "A, B, C e D" mediante utilizzazione di burro o di burro concentrato non denaturati o di prodotti intermedi non contenenti rivelatori;
+
+                            
+                        
+                        
+                            c)
+                            
+                                la produzione di prodotti intermedi mediante utilizzazione di burro o burro concentrato senza rilevatori.
 
 I controlli sulla commercializzazione e sull'incorporazione nei prodotti intermedi e nei prodotti finali del burro, del burro concentrato contenenti rivelatore dei prodotti intermedi contenenti rivelatori sono effettuate dall'ispettorato per la repressione delle frodi.
 
@@ -264,6 +359,38 @@ In funzione dei quantitativi trasformati l'"organo di controllo" deve effettuare
 In relazione ad ogni accertamento deve essere redatto apposito verbale.
 
 ## Art. 17.
+
+1.
+                    
+                        
+                            L'"organo di controllo" territorialmente competente in relazione all'aggiudicatario, nei casi in cui il controllo inerente la successiva trasformazione del burro concentrato, con o senza rivelatori, e del burro denaturato esuli dalla propria competenza provvedera' a comunicare:
+ 
+                        
+                        
+                            a)
+                            
+                                all'"organo di controllo" territorialmente competente in relazione allo stabilimento che provvede all'incorporazione nei prodotti intermedi di burro e burro concentrato non contenenti rivelatori un documento che contenga i dati di cui alla successiva lettera c);
+
+                            
+                        
+                        
+                            b)
+                            
+                                all'"organo di controllo" territorialmente competente in relazione allo stabilimento che provvede alla incorporazione di burro e burro concentrati non denaturati nei prodotti finiti di cui all'allegato 3 del presente decreto un documento che contenga i dati di cui alla successiva lettera c);
+
+                            
+                        
+                        
+                            c)
+                            
+                                all'ufficio periferico dell'ispettorato centrale per la repressione delle frodi territorialmente competente in relazione all'aggiudicatario qualora si tratti di incorporazione di burro e burro concentrato denaturati nei prodotti intermedi e/o nei prodotti finali un documento che contenga i seguenti dati:
+ generalita' ed indirizzo dell'impresa aggiudicataria che ha effettuato le operazioni di concentrazione, e se del caso di denaturazione;
+ riferimento al regolamento comunitario da applicare e numero d'ordine dell'offerta;
+ descrizione del prodotto e se nel caso formula di denaturazione adottata con indicazione dei denaturanti utilizzati;
+ destinazione (formula A, B, C e D) indicata nelle offerte;
+ numero di identificazione, tipo, marchi e quantita' degli imballaggi;
+ quantita' di burro concentrato e/o denaturato prodotti;
+ data di scadenza del termine per la presentazione delle offerte; data entro la quale devono essere utilizzati per la produzione dei prodotti finiti.
 
 L'"organo di controllo" deve inviare anche copia del certificato di analisi del burro concentrato e/o denaturato di cui al precedente art. 16 non appena conosciuto l'esito dell'accertamento analitico, nel caso indicato al primo comma, lettera c), del presente articolo.
 
@@ -321,6 +448,31 @@ Ai sensi dell'art. 23, paragrafo 4, del "regolamento" la prova dell'avvenuta tra
 In tal caso gli uffici dell'ispettorato per la repressione delle frodi effettueranno controlli a campione presso tali utilizzatori al fine di verificare, in particolare, l'effettivo impiego del burro concentrato denaturato e del burro denaturato nei prodotti e nei termini previsti. Eventuali irregolarita' dovranno essere denunciate all'A.I.M.A. che dovra' provvedere al fine di ottenere il versamento di una somma pari all'importo della cauzione di trasformazione relativa ai quantitativi interessati.
 
 ## Art. 21.
+
+1.
+                    
+                        
+                            Ai fini dello svincolo delle cauzioni di trasformazione versate per garantire il rispetto delle esigenze principali di cui all'art. 18, paragrafo 2, del "regolamento" e qualora si tratti di burro aggiudicato utilizzato senza rivelatori, l'"organo di controllo" territorialmente competente in relazione alla sede dell'aggiudicatario provvedera' a comunicare all'A.I.M.A., con riferimento al numero d'ordine relativo all'offerta, completate le operazioni di incorporazione nei prodotti finiti e sulla base dei controlli effettuati ai sensi del "regolamento" e del presente decreto:
+ 
+                        
+                        
+                            a)
+                            
+                                se il burro e' stato concentrato, i quantitativi in causa, il termine entro il quale l'operazione e' stata effettuata, il relativo certificato di analisi e i verbali effettuati in occasione degli appositi sopralluoghi;
+
+                            
+                        
+                        
+                            b)
+                            
+                                se si e' proceduto all'incorporazione nei prodotti intermedi tutti gli accertamenti effettuati ai sensi del precedente art. 18, allegando le copie dei certificati di analisi e dei verbali;
+
+                            
+                        
+                        
+                            c)
+                            
+                                l'avvenuta incorporazione nei prodotti finiti con l'indicazione del tipo dei prodotti fabbricati e la data in cui l'operazione medesima e' stata effettuata, nonche' tutti gli altri accertamenti effettuati ai sensi dell'art. 19 del presente decreto.
 
 Qualora si tratti di burro aggiudicato per essere utilizzato previa denaturazione, gli organi di controllo in relazione alla sede dell'aggiudicatario provvederanno, completate le operazioni di concentrazione e/o denaturazione, ultimati i controlli all'uopo previsti, a comunicare all'A.I.M.A. sulla base della comunicazione da questa effettuata al momento dell'aggiudicazione, la data di ultimazione delle operazioni di concentrazione e/o denaturazione del prodotto, la formula di denaturazione adottata, i denaturanti utilizzati nonche' ad inviare i verbali dai quali risultino tutti gli altri accertamenti effettuati ai sensi del precedente art. 16 e la copia del certificato di analisi.
 

@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: DPR
 vigenza_date: 2001-09-17
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:47:42Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -29,6 +29,18 @@ Sentita la Conferenza permanente per i rapporti tra lo Stato, le regioni e le pr
 Sulla proposta del Ministro dell'industria, del commercio e dell'artigianato e del commercio con l'estero;
 
 ## Art. 1.
+
+1.
+                    
+                        
+                            Ai fini della determinazione dei limiti dimensionali delle imprese artigiane di cui all'articolo 4, comma 1, lettera c), della legge 8 agosto 1985, n. 443, rientrano nei settori delle lavorazioni artistiche, tradizionali e dell'abbigliamento su misura, come da elenco esemplificativo allegato, che, vistato dal Ministro proponente, forma parte integrante del presente regolamento, le attivita' individuate sulla base delle seguenti definizioni:
+ 
+                        
+                        
+                            a)
+                            
+                                settore delle lavorazioni artistiche:
+ 1. Sono da considerare lavorazioni artistiche le creazioni, le produzioni e le opere di elevato valore estetico o ispirate a forme, modelli, decori, stili e tecniche, che costituiscono gli elementi tipici del patrimonio storico e culturale, anche con riferimento a zone di affermata ed intensa produzione artistica, tenendo conto delle innovazioni che, nel compatibile rispetto della tradizione artistica, da questa prendano avvio e qualificazione, nonche' le lavorazioni connesse alla loro realizzazione.
 
 Dette attivita' sono svolte prevalentemente con tecniche di lavorazione manuale, ad alto livello tecnico professionale, anche con l'ausilio di apparecchiature, ad esclusione di processi di lavorazione interamente in serie; sono ammesse singole fasi meccanizzate o automatizzate di lavorazione secondo tecniche innovative e con strumentazioni tecnologicamente avanzate.
 

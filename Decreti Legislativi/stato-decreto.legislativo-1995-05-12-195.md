@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
 vigenza_date: 2023-12-31
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:21Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -58,6 +58,101 @@ Le delegazioni delle organizzazioni sindacali di cui al comma 1, lettera a) sono
 
 
 
+1.
+                    
+                        
+                            Ai fini di cui all'articolo 2, comma 1, lettera A), per il personale appartenente alle forze di polizia ad ordinamento civile sono oggetto di contrattazione:
+ 
+                        
+                        
+                            a)
+                            
+                                il trattamento economico fondamentale ed accessorio;
+
+                            
+                        
+                        
+                            b)
+                            
+                                il trattamento di fine rapporto e le forme pensionistiche complementari, ai sensi dell'articolo 26, comma 20, della legge 23 dicembre 1998, n. 448;
+
+                            
+                        
+                        
+                            c)
+                            
+                                la durata massima dell'orario di lavoro settimanale;
+
+                            
+                        
+                        
+                            d)
+                            
+                                i criteri per l'articolazione dell'orario di lavoro obbligatorio giornaliero e settimanale e dei turni di servizio;
+
+                            
+                        
+                        
+                            e)
+                            
+                                le misure per incentivare l'efficienza del servizio;
+
+                            
+                        
+                        
+                            f)
+                            
+                                il congedo ordinario ed il congedo straordinario;
+
+                            
+                        
+                        
+                            g)
+                            
+                                l'aspettativa per motivi di salute e di famiglia;
+
+                            
+                        
+                        
+                            h)
+                            
+                                i permessi brevi per esigenze personali;
+
+                            
+                        
+                        
+                            i)
+                            
+                                le aspettative, i distacchi ed i permessi sindacali;
+
+                            
+                        
+                        
+                            l)
+                            
+                                il trattamento economico di missione, di trasferimento e di lavoro straordinario;
+
+                            
+                        
+                        
+                            m)
+                            
+                                i criteri di massima per la formazione e l'aggiornamento professionale;
+
+                            
+                        
+                        
+                            n)
+                            
+                                i criteri istitutivi degli organi di verifica della qualita' e salubrita' dei servizi di mensa e degli spacci, per la gestione degli enti di assistenza del personale;
+
+                            
+                        
+                        
+                            o)
+                            
+                                l'istituzione dei fondi integrativi del Servizio sanitario nazionale, ai sensi dell'articolo 9 del decreto legislativo 19 giugno 1999, n. 229.
+
 Le procedure di contrattazione di cui all'articolo 2, comma 1, lettera A), disciplinano le materie di cui al comma 1, le relazioni sindacali nonche' la durata dei contratti collettivi nazionali di amministrazione, la struttura contrattuale ed i rapporti tra i diversi livelli. Ciascuna amministrazione attiva, mediante accordi, autonomi livelli di contrattazione, nel rispetto dei vincoli di bilancio risultanti dagli strumenti di programmazione annuale e pluriennale di ciascuna amministrazione. La contrattazione collettiva integrativa si svolge sulle materie previste al comma 1 e nei limiti stabiliti dal contratto collettivo nazionale, tra i soggetti e con le procedure negoziali che questi ultimi prevedono. Essa puo' avere ambito territoriale. Le pubbliche amministrazioni non possono sottoscrivere in sede decentrata accordi in contrasto con i vincoli risultanti dalla disciplina prevista dall'accordo derivante dalle predette procedure di contrattazione o che comportino oneri non previsti negli strumenti di programmazione annuale e pluriennale di ogni amministrazione. Le clausole difformi sono nulle e non possono essere applicate. Gli accordi decentrati sottoscritti, corredati da un'apposita relazione tecnico-finanziaria, sono trasmessi alla Presidenza del Consiglio dei Ministri - Dipartimento della funzione pubblica e al Ministero del tesoro, del bilancio e della program-mazione economica, che, entro trenta giorni dalla data di ricevimento, ne accertano, congiuntamente, la compatibilita' economico-finanziaria.
 
 Nelle materie non oggetto di contrattazione resta comunque ferma l'autonomia decisionale delle amministrazioni.
@@ -67,6 +162,87 @@ Nell'ambito territoriale la titolarita' all'esercizio delle relazioni sindacali 
 ## Art. 4. — Forze di polizia ad ordinamento militare
 
 
+
+1.
+                    
+                        
+                            Ai fini di cui all'articolo 2, comma 1, lettera B), per il personale appartenente alle Forze di polizia ad ordinamento militare sono oggetto di contrattazione: (5)((6))
+                            
+                        
+                        
+                            a)
+                            
+                                il trattamento economico fondamentale e accessorio; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                il trattamento di fine rapporto e le forme pensionistiche complementari, ai sensi dell'art. 26, comma 20, della legge 23 dicembre 1998, n. 448; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                la durata massima dell'orario di lavoro settimanale; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                le licenze; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                l'aspettativa per motivi privati e per infermita'; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                i permessi brevi per esigenze personali; 
+
+                            
+                        
+                        
+                            f-bis)
+                            
+                                il contingente massimo dei distacchi autorizzabili per ciascuna Forza di polizia a ordinamento militare, il numero massimo annuo dei permessi retribuiti per i rappresentanti delle associazioni rappresentative, la misura dei permessi e delle aspettative sindacali non retribuiti che possono essere concessi ai rappresentanti sindacali; (5)((6))
+                                
+                            
+                        
+                        
+                            g)
+                            
+                                il trattamento economico di missione, di trasferimento e di lavoro straordinario; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                i criteri di massima per l'aggiornamento professionale ai fini dei servizi di polizia; 
+
+                            
+                        
+                        
+                            i)
+                            
+                                i criteri per l'istituzione di organi di verifica della qualita' e salubrita' dei servizi di mensa e degli spacci, per lo sviluppo delle attivita' di protezione sociale e di benessere del personale, ivi compresi l'elevazione e l'aggiornamento culturale del medesimo, nonche' per la gestione degli enti di assistenza del personale; 
+
+                            
+                        
+                        
+                            l)
+                            
+                                l'istituzione dei fondi integrativi del Servizio sanitario nazionale, ai sensi dell'articolo 9 del decreto legislativo 19 giugno 1999, n. 229.
 
 Con riferimento alle materie oggetto di contrattazione di cui al comma 1, le procedure di informazione e consultazione delle associazioni professionali a carattere sindacale tra militari riconosciute rappresentative a livello nazionale sono disciplinate ((dal regolamento di cui all'articolo 1475, comma 2, del decreto legislativo 15 marzo 2010, n. 66.)) (5) ((6))
 
@@ -82,6 +258,80 @@ Nelle materie non oggetto di contrattazione resta comunque ferma l'autonomia dec
  Il D.Lgs. 25 novembre 2022, n. 206, come modificato dal D.Lgs. 24 novembre 2023, n. 192, ha conseguentemente disposto (con l'art. 1, comma 2) che "Le disposizioni di cui al presente articolo si applicano a decorrere dalla data di adozione del primo decreto del Ministro per la pubblica amministrazione di cui all'articolo 1478, comma 5, del decreto legislativo 15 marzo 2010, n. 66".
 
 ## Art. 5. — Forze armate.
+
+1.
+                    
+                        
+                            Ai fini di cui all'articolo 2, comma 2, per il personale appartenente alle Forze armate sono oggetto di contrattazione: (5) ((6))
+                            
+                        
+                        
+                            a)
+                            
+                                il trattamento economico fondamentale e accessorio; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                il trattamento di fine rapporto e le forme pensionistiche complementari, ai sensi dell'articolo 26, comma 20, della legge 23 dicembre 1998, n. 448; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                la durata massima dell'orario di lavoro settimanale; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                le licenze; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                l'aspettativa per motivi privati e per infermita'; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                i permessi brevi per esigenze personali; 
+
+                            
+                        
+                        
+                            f-bis)
+                            
+                                il contingente massimo dei distacchi autorizzabili per ciascuna Forza armata, il numero massimo annuo dei permessi retribuiti per i rappresentanti delle associazioni rappresentative, la misura dei permessi e delle aspettative sindacali non retribuiti che possono essere concessi ai rappresentanti sindacali; (5) ((6))
+                                
+                            
+                        
+                        
+                            g)
+                            
+                                il trattamento economico di missione, di trasferimento e di lavoro straordinario; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                i criteri per l'istituzione di organi di verifica della qualita' e salubrita' dei servizi di mensa e degli spacci, per lo sviluppo delle attivita' di protezione sociale e di benessere del personale, ivi compresi l'elevazione e l'aggiornamento culturale del medesimo, nonche' per la gestione degli enti di assistenza del personale; 
+
+                            
+                        
+                        
+                            i)
+                            
+                                l'istituzione dei fondi integrativi del Servizio sanitario nazionale, ai sensi dell'articolo 9 del decreto legislativo 19 giugno 1999, n. 229.
 
 Con riferimento alle materie oggetto di contrattazione di cui al comma 1, le procedure di informazione e consultazione delle associazioni professionali a carattere sindacale tra militari riconosciute rappresentative a livello nazionale sono disciplinate ((dal regolamento di cui all'articolo 1475, comma 2, del decreto legislativo 15 marzo 2010, n. 66.)) (5) ((6))
 

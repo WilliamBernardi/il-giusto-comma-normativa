@@ -8,8 +8,8 @@ codice_redazionale: 093G0367
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:38Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -36,6 +36,75 @@ Udito il parere del Consiglio di Stato espresso nell'adunanza generale del 23 lu
 ADOTTA
 
 ## Art. 1. — Definizioni
+
+1.
+                    
+                        
+                            Nel presente regolamento:
+ 
+                        
+                        
+                            a)
+                            
+                                per "legge" si intende la legge 14 febbraio 1990, n. 30;
+
+                            
+                        
+                        
+                            b)
+                            
+                                per "organismo abilitato" si intende il consorzio volontario di produttori ubicati nella zona delimitata ai sensi dell'art. 1, della legge, di cui i Ministri dell'industria, del commercio e dell'artigianato, dell'agricoltura e delle foreste e della sanita', possono avvalersi per lo svolgimento della vigilanza e dei controlli per l'applicazione delle disposizioni contenute nella legge e nel presente regolamento;
+
+                            
+                        
+                        
+                            c)
+                            
+                                per "produzione tutelata" si intende il prosciutto di San Daniele recante il contrassegno di cui all'art. 1 della legge; per "circuito della produzione tutelata" si intende tutto il sistema produttivo regolato dalla legge e dal presente regolamento;
+
+                            
+                        
+                        
+                            d)
+                            
+                                per "prescrizioni produttive" si intendono le disposizioni em- anate dall'organismo abilitato ai sensi dell'art. 3, comma 1, della legge; per "direttive" si intendono tutte le disposizioni applicative emanate dall'organismo abilitato e notificate ai Ministeri di cui alla lettera b);
+
+                            
+                        
+                        
+                            e)
+                            
+                                per "produttore di prosciutto di San Daniele", ai fini dell'art. 12, comma 1, lettera f), della legge, si intende il produttore che abbia destinato alla produzione di origine tutelata una quantita' di cosce suine fresche pari almeno all'80% (ottanta per cento), su base annua, della produzione complessiva di prosciutto crudo, espressa in chilogrammi, effettuata presso i propri stabilimenti ubicati nella zona di cui all'art. 1, comma 1, lettera b) della legge;
+
+                            
+                        
+                        
+                            f)
+                            
+                                per "refrigerazione" si intende che le cosce suine devono essere conservate nelle fasi di deposito e trasporto ad una temperatura interna tra - 1 C e + 4 C;
+
+                            
+                        
+                        
+                            g)
+                            
+                                per "prosciuttificio" si intende lo stabilimento di produzione riconosciuto nelle forme previste dall'art. 11.
+ AVVERTENZA:
+ Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, comma 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con D.P.R. 28 dicembre 1985, n. 1092, al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
+ Note alle premesse:
+ - Il testo dell'art. 12 della legge n. 30/1990 e' il seguente:
+ "Art. 12 (Norme di esecuzione). - 1. Con decreto del Ministro dell'industria, del commercio e dell'artigianato, di concerto con il Ministro dell'agricoltura e delle foreste e con il Ministro della sanita' sono emanate le norme per l'esecuzione della presente legge concernenti in particolare:
+ a) le modalita' dei controlli degli allevamenti, della macellazione e della produzione del prosciutto di San Daniele;
+ b) le modalita' per la tenuta dei registri e della documentazione necessaria a dimostrare il possesso dei requisiti previsti dalla presente legge per il prosciutto di San Daniele;
+ c) le modalita' per l'applicazione del timbro indelebile, del sigillo o timbro a fuoco e del contrassegno atti a garantire il rispetto delle norme contenute nella presente legge;
+ d) le modalita' per l'ottenimento, da parte di un consorzio volontario, dell'incarico di cui all'art. 10 ed i poteri riconosciuti ai funzionari di tale consorzio;
+ e) le regole di etichettatura e di presentazione del prosciutto di San Daniele;
+ f) la definizione di produttore del prosciutto di San Daniele ai fini dell'applicazione dell'art. 10, comma 2;
+ g) le procedure per l'adozione dei piani di programmazione della produzione tutelata, di cui all'art. 11, comma 1;
+ h) le procedure per l'approvazione dei parametri analitici di cui all'art. 2, comma 1, lettera f) e per le relative modalita' di controllo, rilevamento e certificazione.
+ 2. Il decreto di cui al comma 1 deve essere emanato entro quattro mesi dalla pubblicazione della presente legge.
+ - Il comma 3 dell'art. 17 della legge n. 400/1988 (Disciplina dell'attivita' di Governo e ordinamento della Presidenza del Consiglio dei Ministri) prevede che con decreto ministeriale possano essere adottati regolamenti nelle materie di competenza del Ministro o di autorita' sottordinate al Ministro, quando la legge espressamente conferisca tale potere. Tali regolamenti, per materie di competenza di piu' Ministri, possono essere adottati con decreti interministeriali, ferma restando la necessita' di apposita autorizzazione da parte della legge. I regolamenti ministeriali ed interministeriali non possono dettare norme contrarie a quelle dei regolamenti emanati dal Governo.
+ Essi debbono essere comunicati al Presidente del Consiglio dei Ministri prima della loro emanazione. Il comma 4 dello stesso articolo stabilisce che gli anzidetti regolamenti debbano recare la denominazione di "regolamento", siano adottati previo parere del Consiglio di Stato, sottoposti al visto ed alla registrazione della Corte dei conti e pubblicati nella Gazzetta Ufficiale.
 
 ## Art. 2. — Prescrizioni produttive
 
@@ -71,6 +140,24 @@ Il veterinario ufficiale competente per territorio mette a disposizione dell'org
 
 L'organismo abilitato, per lo svolgimento dei propri compiti di vigilanza e controllo, puo' avvalersi dell'opera di organismi professionali competenti, individuati su conforme parere della commissione di cui all'art. 32, i quali destinano a tale scopo proprio personale qualificato.
 
+2.
+                    
+                        
+                            I controlli, in particolare, riguardano:
+ 
+                        
+                        
+                            a)
+                            
+                                l'osservanza delle prescrizioni produttive;
+
+                            
+                        
+                        
+                            b)
+                            
+                                la regolare apposizione del timbro indelebile di cui all'art. 4.
+
 ## Art. 7. — Adempimenti dei macellatori
 
 I macelli che intendono fornire le cosce fresche destinate alla produzione del prosciutto di San Daniele devono inoltrare all'organismo abilitato domanda per ottenere un apposito riconoscimento.
@@ -103,19 +190,140 @@ I laboratori di sezionamento sono altresi' tenuti alla trasmissione dei document
 
 ## Art. 11. — Riconoscimento del produttore
 
+1.
+                    
+                        
+                            Le aziende che intendono produrre il prosciutto di San Daniele devono essere riconosciute dall'organismo abilitato e, a tal fine, presentano domanda dalla quale risultino:
+ 
+                        
+                        
+                            a)
+                            
+                                l'iscrizione alla Camera di commercio, industria, agricoltura e artigianato di Udine;
+
+                            
+                        
+                        
+                            b)
+                            
+                                la denominazione e la sede della ditta;
+
+                            
+                        
+                        
+                            c)
+                            
+                                la sede dello stabilimento nonche' la relativa capacita' produttiva, con gli estremi della autorizzazione sanitaria in conformita' alle norme vigenti in materia.
+
 L'organismo abilitato, all'atto del riconoscimento, provvede alla attribuzione di un numero di identificazione del produttore; tale numero figura sul contrassegno di cui all'art. 1 della legge.
 
 Sono a carico delle aziende interessate tutte le spese derivanti dagli adempimenti previsti dal presente articolo e le spese per le perizie a tal fine richieste dall'organismo abilitato o dall'interessato.
 
 ## Art. 12. — Idoneita' degli stabilimenti
 
+1.
+                    
+                        
+                            Per essere considerati idonei alla produzione del prosciutto di San Daniele, gli stabilimenti devono essere in possesso delle autorizzazioni igienico-sanitarie prescritte dalle norme vigenti e devono essere muniti di:
+ 
+                        
+                        
+                            a)
+                            
+                                locale per il ricevimento ed il primo trattamento delle cosce suine;
+
+                            
+                        
+                        
+                            b)
+                            
+                                celle dotate di apparecchiature o sistemi idonei a mantenere l'umidita' e la temperatura ai livelli prescritti dalle leggi vigenti, per le fasi di salagione e riposo;
+
+                            
+                        
+                        
+                            c)
+                            
+                                altri locali indipendenti per le operazioni di stagionatura.
+
 ## Art. 13. — Registro del produttore
 
 Il produttore deve tenere per ogni singolo stabilimento un apposito registro, suddiviso in fogli mensili; le registrazioni devono essere effettuate nella parte mensile del registro corrispondente al mese ed all'anno indicati nel sigillo.
 
+2.
+                    
+                        
+                            Il registro deve indicare:
+ 
+                        
+                        
+                            a)
+                            
+                                il numero d'ordine progressivo e la data di ogni singola registrazione;
+
+                            
+                        
+                        
+                            b)
+                            
+                                il numero delle cosce con l'indicazione della data di apposizione del sigillo e del macello di provenienza;
+
+                            
+                        
+                        
+                            c)
+                            
+                                il numero delle cosce con sigillo pervenute da altro stabilimento;
+
+                            
+                        
+                        
+                            d)
+                            
+                                il numero delle cosce con sigillo inviate ad altro stabilimento;
+
+                            
+                        
+                        
+                            e)
+                            
+                                il numero delle cosce dalle quali viene asportato il sigillo;
+
+                            
+                        
+                        
+                            f)
+                            
+                                il numero dei prosciutti muniti di contrassegno, con l'indicazione del numero progressivo del verbale e della data delle relative operazioni.
+
 Nel registro sono inoltre annotati, in apposita sezione, le decisioni, le osservazioni ed i provvedimenti degli incaricati dell'organismo abilitato, relativi ad errori o ad irregolarita' riscontrati.
 
 ## Art. 14. — Controlli presso gli stabilimenti
+
+1.
+                    
+                        
+                            Per ogni operazione di introduzione di cosce fresche destinate alla preparazione del prosciutto di San Daniele presso uno stabilimento riconosciuto, un incaricato dell'organismo abilitato verifica la documentazione sanitaria di accompagnamento nonche' quella di cui all'art. 8, comma 4, ed accerta:
+ 
+                        
+                        
+                            a)
+                            
+                                gli allevamenti ed il macello di provenienza, l'eventuale laboratorio di sezionamento e la data di spedizione allo stabilimento di lavorazione;
+
+                            
+                        
+                        
+                            b)
+                            
+                                il numero delle cosce fresche munite dei timbri di cui agli articoli 4 e 8;
+
+                            
+                        
+                        
+                            c)
+                            
+                                l'assenza di trattamenti diversi dalla refrigerazione.
 
 ## Art. 15. — S i g i l l o
 
@@ -125,11 +333,75 @@ L'apposizione del sigillo e' effettuata a cura del produttore, comunque prima de
 
 Il sigillo riporta l'indicazione del mese e dell'anno di inizio della lavorazione; tale data equivale alla data di produzione ai sensi delle leggi vigenti in materia di vigilanza sanitaria sulle carni.
 
+4.
+                    
+                        
+                            L'incaricato dell'organismo abilitato vieta l'apposizione del sigillo:
+ 
+                        
+                        
+                            a)
+                            
+                                sulle cosce ritenute non idonee alla produzione tutelata;
+
+                            
+                        
+                        
+                            b)
+                            
+                                sulle cosce non accompagnate dalla prescritta documentazione o prive dei timbri di cui agli articoli 4 e 8;
+
+                            
+                        
+                        
+                            c)
+                            
+                                sulle cosce che risultino ricavate da suini macellati da meno di 24 ore o da oltre 120 ore.
+
 Qualora circostanze pregiudizievoli vengano accertate successivamente, il sigillo eventualmente gia' apposto e' rimosso a cura degli incaricati dell'organismo abilitato, che redigono apposito verbale.
 
 Il produttore puo' far inserire a verbale sue eventuali ragioni di dissenso in merito all'operato degli incaricati dell'organismo abilitato e chiedere, entro il termine di tre giorni, un nuovo esame tecnico, con l'intervento della stazione sperimentale per l'industria delle conserve alimentari di Parma, con facolta' di nominare un proprio consulente.
 
 ## Art. 16. — Verbalizzazione delle operazioni
+
+1.
+                    
+                        
+                            Al termine delle operazioni di cui agli articoli 14 e 15, viene redatto per ogni partita avviata alla produzione tutelata apposito verbale contenente le seguenti indicazioni:
+ 
+                        
+                        
+                            a)
+                            
+                                gli estremi del documento sanitario di accompagnamento;
+
+                            
+                        
+                        
+                            b)
+                            
+                                la data della salagione;
+
+                            
+                        
+                        
+                            c)
+                            
+                                il numero ed il peso complessivo delle cosce fresche sulle quali e' stato apposto il sigillo;
+
+                            
+                        
+                        
+                            d)
+                            
+                                il numero ed il peso complessivo delle cosce ritenute inidonee od oggetto di contestazione;
+
+                            
+                        
+                        
+                            e)
+                            
+                                il numero ed il peso complessivo delle cosce sulle quali non e' stato apposto il sigillo, o il timbro a fuoco, trattenute presso lo stabilimento, ovvero da rendere al macello conferitore, ovvero da avviare ad altro stabilimento.
 
 L'operazione di apposizione del sigillo deve risultare distintamente per ciascuna partita nell'apposito registro.
 
@@ -144,6 +416,38 @@ L'incaricato dell'organismo abilitato puo' procedere all'identificazione delle c
 ## Art. 17. — Deroga per l'esportazione
 
 Il produttore che intende preparare il prosciutto di San Daniele ai fini previsti dall'art. 25 della legge deve presentare richiesta all'organismo abilitato, con la precisazione del paese di destinazione e del numero di prosciutti che si intendono sottoporre a lavorazione previa asportazione della parte distale.
+
+2.
+                    
+                        
+                            L'incaricato dell'organismo abilitato compila apposito verbale dal quale devono risultare:
+ 
+                        
+                        
+                            a)
+                            
+                                il numero complessivo delle cosce fresche presentate per i fini di cui al comma 1, ed il relativo peso;
+
+                            
+                        
+                        
+                            b)
+                            
+                                i riferimenti desumibili dall'apposito registro di cui all'art. 11 della legge, recante tutte le indicazioni previste dall'art. 13, relativamente al numero dell'operazione ed al paese di destinazione;
+
+                            
+                        
+                        
+                            c)
+                            
+                                l'eventuale numero e peso delle cosce fresche ritenute non idonee;
+
+                            
+                        
+                        
+                            d)
+                            
+                                il numero delle cosce fresche ritenute idonee e sulle quali viene autorizzata l'apposizione del sigillo.
 
 In caso di contestazione si osservano le disposizioni di cui all'art. 16.
 
@@ -198,6 +502,38 @@ Il veterinario ufficiale incaricato della vigilanza sanitaria mette a disposizio
 
 ## Art. 21. — Apposizione del contrassegno
 
+1.
+                    
+                        
+                            Gli incaricati dell'organismo abilitato presenziano all'apposizione del contrassegno, accertando preliminarmente la sussistenza dei seguenti requisiti:
+ 
+                        
+                        
+                            a)
+                            
+                                compimento del periodo minimo di stagionatura prescritto, previo esame dei registri, della documentazione e del sigillo e computando nel periodo stesso il mese nel quale e' stato apposto il sigillo;
+
+                            
+                        
+                        
+                            b)
+                            
+                                conformita' delle modalita' di lavorazione;
+
+                            
+                        
+                        
+                            c)
+                            
+                                esistenza delle caratteristiche merceologiche prescritte dalla legge;
+
+                            
+                        
+                        
+                            d)
+                            
+                                rispetto della osservanza dei parametri analitici di cui all'art. 2 della legge.
+
 Gli incaricati procedono preliminarmente alla spillatura di un numero di prosciutti sufficiente per ricavarne un giudizio probante di qualita'; se necessario, possono effettuare l'ispezione del prodotto, mediante apertura di prosciutti fino ad un massimo di cinque per mille o frazione di mille, che restano a carico del produttore.
 
 Le caratteristiche organolettiche sono valutate nel loro insieme, potendosi operare una compensazione solo per lievissime deficienze.
@@ -215,6 +551,52 @@ L'organismo abilitato propone al Ministro dell'industria, del commercio e dell'a
 La proposta di cui al comma 1 deve essere corredata di idonea relazione tecnica concernente la definizione dei parametri analitici e delle relative soglie minime e massime.
 
 ## Art. 23. — Verbalizzazione dell'apposizione del contrassegno
+
+1.
+                    
+                        
+                            L'incaricato dell'organismo abilitato compila, per ogni operazione di apposizione del contrassegno, apposito verbale da cui risultino:
+ 
+                        
+                        
+                            a)
+                            
+                                il numero dei prosciutti presentati per l'apposizione del contrassegno;
+
+                            
+                        
+                        
+                            b)
+                            
+                                la data dell'inizio della lavorazione;
+
+                            
+                        
+                        
+                            c)
+                            
+                                i riferimenti per l'individuazione del prodotto, riportati nell'apposito registro;
+
+                            
+                        
+                        
+                            d)
+                            
+                                il numero complessivo dei prosciutti sui quali e' apposto il contrassegno e la data delle relative operazioni;
+
+                            
+                        
+                        
+                            e)
+                            
+                                il numero dei prosciutti ritenuti inidonei alla produzione tutelata;
+
+                            
+                        
+                        
+                            f)
+                            
+                                il numero dei prosciutti eventualmente oggetto di contestazione.
 
 I prosciutti oggetto di contestazione sono custoditi, con le cautele necessarie e con l'apposizione di eventuali segni di identificazione, per impedire la loro sostituzione e comunque la loro manomissione, a cura dell'organismo abilitato che li affida in custodia al produttore.
 
@@ -240,12 +622,94 @@ Le operazioni di riduzione in tranci del prosciutto di San Daniele devono essere
 
 Le operazioni di affettamento e confezionamento del prosciutto di San Daniele sono effettuate presso laboratori situati nella zona tipica, di cui all'art. 1 della legge, attrezzati in modo specifico e preventivamente riconosciuti dall'organismo abilitato.
 
+2.
+                    
+                        
+                            Gli interessati devono presentare istanza all'organismo abilitato, indicando:
+ 
+                        
+                        
+                            a)
+                            
+                                l'iscrizione alla camera di commercio, industria, artigianato e agricoltura di Udine;
+
+                            
+                        
+                        
+                            b)
+                            
+                                la ragione sociale e la sede della ditta;
+
+                            
+                        
+                        
+                            c)
+                            
+                                la sede del laboratorio di confezionamento;
+
+                            
+                        
+                        
+                            d)
+                            
+                                gli estremi dell'autorizzazione sanitaria.
+
 L'organismo abilitato, espletati gli accertamenti ritenuti necessari, provvede al riconoscimento del laboratorio ed all'attribuzione di uno specifico numero di identificazione.
 
 Qualora il laboratorio sia ricompreso nell'ambito di uno stabilimento di produzione gia' riconosciuto, il numero di identificazione puo' coincidere con quello attribuito ai sensi dell'art. 11, comma 2.
 
 ## Art. 27. — Contrassegno sulle confezioni
  di prosciutto affettato
+
+1.
+                    
+                        
+                            Gli incaricati dell'organismo abilitato presenziano alle operazioni di affettamento e di confezionamento del prosciutto di San Daniele ed accertano:
+ 
+                        
+                        
+                            a)
+                            
+                                i riferimenti necessari alla individuazione dei prosciutti oggetto di confezionamento, desunti dal registro o, se il laboratorio di confezionamento non e' annesso ad uno stabilimento riconosciuto, da un documento di trasporto rilasciato dal produttore, su cui saranno richiamati i riferimenti in questione;
+
+                            
+                        
+                        
+                            b)
+                            
+                                il numero ed il peso dei prosciutti provvisti del contrassegno, del quale gli incaricati prescrivono l'asportazione per l'affettamento;
+
+                            
+                        
+                        
+                            c)
+                            
+                                il numero ed il peso complessivo dei prosciutti ritenuti inidonei.
+
+2.
+                    
+                        
+                            Gli incaricati dell'organismo abilitato accertano l'avvenuta asportazione del contrassegno e verificano altresi':
+ 
+                        
+                        
+                            a)
+                            
+                                il numero ed il peso complessivo dei prosciutti cui e' stato asportato il contrassegno;
+
+                            
+                        
+                        
+                            b)
+                            
+                                l'avvenuto affettamento ed il peso complessivo netto del prosciutto affettato per il confezionamento;
+
+                            
+                        
+                        
+                            c)
+                            
+                                il numero delle confezioni sulle quali viene applicato il contrassegno.
 
 Per i prosciutti e le confezioni oggetto di contestazione, si osservano le procedure di cui all'art. 23.
 
@@ -259,7 +723,89 @@ Il fornitore delle confezioni e' abilitato a fornire le stesse con l'osservanza 
 
 ## Art. 29. — Registro del confezionatore
 
+1.
+                    
+                        
+                            Il laboratorio di confezionamento riconosciuto deve tenere un apposito registro nel quale, per ogni singola operazione, devono essere distintamente indicati:
+ 
+                        
+                        
+                            a)
+                            
+                                il numero d'ordine progressivo e la data della registrazione;
+
+                            
+                        
+                        
+                            b)
+                            
+                                il numero dell'operazione di scarico rilevabile dal registro di cui all'art. 13 o, nel caso di laboratorio autorizzato non annesso ad uno stabilimento riconosciuto, gli estremi del documento di trasporto ricevuto;
+
+                            
+                        
+                        
+                            c)
+                            
+                                il numero ed il peso complessivo dei prosciutti provvisti del contrassegno;
+
+                            
+                        
+                        
+                            d)
+                            
+                                il numero ed il peso complessivo dei prosciutti ritenuti inidonei;
+
+                            
+                        
+                        
+                            e)
+                            
+                                il numero ed il peso complessivo dei prosciutti dai quali e' stato asportato il contrassegno per il successivo confezionamento;
+
+                            
+                        
+                        
+                            f)
+                            
+                                il peso complessivo netto del prosciutto affettato;
+
+                            
+                        
+                        
+                            g)
+                            
+                                il numero delle confezioni prodotte e la data di confezionamento.
+
 ## Art. 30. — Etichettatura
+
+1.
+                    
+                        
+                            Le indicazioni obbligatorie da riportare nella etichettatura del prosciutto di San Daniele, con le modalita' previste dal decreto legislativo 27 gennaio 1992, n. 109, sono le seguenti:
+ 
+                        
+                        
+                            a)
+                            
+                                per il prosciutto di San Daniele intero con osso:
+ 1) "prosciutto di San Daniele", seguita da "denominazione di origine tutelata";
+ 2) il nome o la ragione sociale o il marchio depositato e la sede del produttore o del venditore;
+ 3) la sede dello stabilimento di produzione;
+
+                            
+                        
+                        
+                            b)
+                            
+                                per il prosciutto di San Daniele confezionato disossato intero, oppure presentato in tranci od affettato:
+ 1) "prosciutto di San Daniele", seguita da "denominazione di origine tutelata";
+ 2) il nome o la ragione sociale o il marchio depositato del produttore o del confezionatore o del venditore;
+ 3) la sede dello stabilimento di confezionamento;
+ 4) la data di produzione, qualora il sigillo, o il timbro a fuoco, non risulti piu' visibile per i fini di cui all'art. 15, comma 3;
+ 5) la quantita' netta;
+ 6) il termine minimo di conservazione;
+ 7) le modalita' di conservazione;
+ 8) la dicitura di identificazione del lotto.
 
 E' vietata l'utilizzazione di qualificativi quali, "classico", "autentico", "extra", "super", e di altre qualificazioni, menzioni ed attribuzioni abbinate alla denominazione di vendita, ad esclusione di "disossato" ed "affettato" nonche' di altre indicazioni non specificamente previste dal presente articolo, fatte salve le esigenze di adeguamento ad altre prescrizioni di legge.
 
@@ -294,6 +840,31 @@ I membri del consiglio di amministrazione di cui ai commi precedenti sono scelti
 Il consorzio deve inoltre disporre di una commissione interprofessionale, costituita da rappresentanti degli allevatori, dei macellatori e dei produttori, che assicuri agli organi consortili attivita' di orientamento e consulenza, relativamente all'applicazione delle prescrizioni disposte dalla legge e dal presente regolamento nonche' delle direttive adottate dal consorzio stesso.
 
 ## Art. 33. — Richiesta dell'incarico di vigilanza
+
+1.
+                    
+                        
+                            La richiesta dell'incarico di vigilanza deve essere avanzata dal legale rappresentante del consorzio volontario presso il Ministero dell'industria, del commercio e dell'artigianato, corredata dai seguenti documenti:
+ 
+                        
+                        
+                            a)
+                            
+                                elenco degli associati, unito ad una dichiarazione del legale rappresentante attestante la sussistenza dei requisiti di cui all'art. 10 della legge;
+
+                            
+                        
+                        
+                            b)
+                            
+                                copia autentica dell'atto costitutivo e dello statuto del consorzio;
+
+                            
+                        
+                        
+                            c)
+                            
+                                relazione sull'organizzazione tecnica ed amministrativa del consorzio e sui mezzi finanziari di cui puo' disporre per l'espletamento dei compiti di vigilanza.
 
 La domanda ed i documenti sopraindicati devono essere inviati in triplice copia.
 

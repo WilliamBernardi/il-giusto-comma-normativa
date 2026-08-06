@@ -8,8 +8,8 @@ vigente: true
 source: normattiva-opendata
 collection: Leggi delega e relativi provvedimenti delegati
 vigenza_date: 2022-02-01
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:41:17Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -45,7 +45,190 @@ Ai servizi occasionali si applicano le disposizioni del regolamento, ad eccezion
 
 ## Art. 2. — Definizioni
 
+1.
+                        
+                            
+                                Ai fini del presente decreto si intende per: 
+ 
+                            
+                            
+                                a)
+                                
+                                    «regolamento»: il regolamento (UE) n. 181/2011 del Parlamento e del Consiglio, del 16 febbraio 2011, relativo ai diritti dei passeggeri nel trasporto effettuato con autobus; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    «Autorita'»: l'Autorita' di regolazione dei trasporti, istituita dall'articolo 37 del decreto-legge 6 dicembre 2011, n. 201, convertito, con modificazioni, dalla legge 22 dicembre 2011, n. 214, come modificato dall'articolo 36 del decreto-legge 24 gennaio 2012, n. 1, convertito, con modificazioni, dalla legge 24 marzo 2012, n. 27; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    «Ministero»: il Ministero delle infrastrutture e dei trasporti; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    «Organismo responsabile»: l'organo che svolge i compiti e le funzioni dell'Organismo nazionale responsabile dell'applicazione del regolamento previsto all'articolo 28 del medesimo regolamento; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    «servizi regolari»: i servizi che assicurano il trasporto di passeggeri con autobus con una frequenza determinata e su un itinerario determinato e in cui l'imbarco o lo sbarco dei passeggeri hanno luogo presso fermate prestabilite; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    «servizi occasionali»: i servizi che non rientrano nella definizione di servizi regolari e la cui principale caratteristica e' il trasporto con autobus di gruppi di passeggeri costituiti su iniziativa del cliente o del vettore stesso; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    «contratto di trasporto»: il contratto di trasporto, a titolo gratuito od oneroso, concluso fra un vettore e un passeggero per la fornitura di uno o piu' servizi regolari o occasionali; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    «biglietto»: il documento in corso di validita' o altra prova di un contratto di trasporto; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    «condizioni contrattuali»: le condizioni del vettore, sotto forma di condizioni generali o tariffe legalmente in vigore, che sono diventate, con la conclusione del contratto di trasporto, parte integrante dello stesso; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    «vettore»: la persona fisica o giuridica, diversa dall'operatore turistico, dall'agente di viaggio o dal venditore di biglietti, che offre servizi regolari o occasionali di trasporto al pubblico; 
+
+                                
+                            
+                            
+                                m)
+                                
+                                    «vettore esecutore»: la persona fisica o giuridica, diversa dal vettore, che esegue effettivamente la totalita' o parte del trasporto; 
+
+                                
+                            
+                            
+                                n)
+                                
+                                    «stazione»: la stazione presidiata in cui, secondo un percorso preciso, un servizio regolare prevede una fermata per l'imbarco o lo sbarco dei passeggeri, dotata di strutture tra le quali il banco dell'accettazione, la sala d'attesa o la biglietteria; 
+
+                                
+                            
+                            
+                                o)
+                                
+                                    «fermata d'autobus»: il punto diverso dalla stazione in cui, secondo il percorso specificato, e' prevista una fermata del servizio regolare per l'imbarco o lo sbarco dei passeggeri; 
+
+                                
+                            
+                            
+                                p)
+                                
+                                    «ente di gestione della stazione»: l'ente pubblico o privato responsabile della gestione di una stazione designata; 
+
+                                
+                            
+                            
+                                q)
+                                
+                                    «operatore turistico»: l'organizzatore o il rivenditore, diverso dal vettore, ai sensi dell'articolo 2, paragrafi 2 e 3, della direttiva 90/314/CEE; 
+
+                                
+                            
+                            
+                                r)
+                                
+                                    «agente di viaggio»: l'intermediario che agisce per conto del passeggero nella conclusione di contratti di trasporto; 
+
+                                
+                            
+                            
+                                s)
+                                
+                                    «venditore di biglietti»: l'intermediario che conclude contratti di trasporto per conto del vettore; 
+
+                                
+                            
+                            
+                                t)
+                                
+                                    «persona con disabilita' o persona a mobilita' ridotta»: la persona la cui mobilita' sia ridotta nell'uso del trasporto a causa di una disabilita' fisica, sensoriale o locomotoria, permanente o temporanea, disabilita' o minorazione mentale, o per qualsiasi altra causa di disabilita', o per ragioni di eta', e la cui condizione richieda un'attenzione adeguata e un adattamento alle sue esigenze specifiche del servizio fornito a tutti i passeggeri; 
+
+                                
+                            
+                            
+                                u)
+                                
+                                    «condizioni d'accesso»: le norme, gli orientamenti e le informazioni relative all'accessibilita' degli autobus o delle stazioni designate, comprese le strutture per persone con disabilita' o a mobilita' ridotta; 
+
+                                
+                            
+                            
+                                v)
+                                
+                                    «prenotazione»: la prenotazione di un posto a sedere nell'autobus per un servizio regolare ad uno specifico orario di partenza; 
+
+                                
+                            
+                            
+                                z)
+                                
+                                    «cancellazione»: la mancata effettuazione di un servizio regolare originariamente previsto; 
+
+                                
+                            
+                            
+                                aa)
+                                
+                                    «ritardo»: la differenza di tempo fra l'ora di partenza del servizio regolare prevista secondo l'orario pubblicato e l'ora della partenza effettiva.
+
 ## Art. 3. — Organismo nazionale responsabile dell'applicazione del regolamento
+
+1.
+                        
+                            
+                                L'organismo responsabile di cui all'articolo 28 del regolamento e' individuato nell'Autorita' e svolge le seguenti funzioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    vigilare sulla corretta applicazione del regolamento ed effettuare monitoraggi e indagini conoscitive sui servizi di cui al regolamento stesso, per quanto ivi previsto; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    istruire e valutare i reclami, presentati ai sensi dell'articolo 28, paragrafo 3, secondo comma, del regolamento, ai fini dell'accertamento delle infrazioni degli obblighi previsti dal regolamento, relativamente ai servizi regolari, di cui all'articolo 1, commi 3, 4, e 5, del presente decreto. 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    accertare le violazioni delle disposizioni del regolamento ed irrogare le sanzioni previste dal presente decreto.
 
 L'Autorita' e' altresi' responsabile dell'applicazione del ((regolamento (UE) 2017/2394)), relativamente alla materia disciplinata dal regolamento.
 
@@ -68,6 +251,38 @@ Per lo svolgimento delle funzioni cui ai commi 1 e 2, all'Autorita' sono assegna
 Per l'accertamento e l'irrogazione delle sanzioni amministrative pecuniarie da parte dell'Organismo si osservano, in quanto compatibili con quanto previsto dal presente articolo, le disposizioni contenute nel capo I, sezioni I e II, della legge 24 novembre 1981, n. 689. L'Autorita', con proprio regolamento, da adottare entro sessanta giorni dalla pubblicazione del presente decreto, nel rispetto della legislazione vigente in materia, disciplina i procedimenti per l'accertamento e l'irrogazione delle sanzioni, in modo da assicurare agli interessati la piena conoscenza degli atti istruttori, il contraddittorio in forma scritta e orale, la verbalizzazione e la separazione tra funzioni istruttorie e funzioni decisorie. Il regolamento disciplina i casi in cui, con l'accordo dell'impresa destinataria dell'atto di avvio del procedimento sanzionatorio, possono essere adottate modalita' procedurali semplificate di irrogazione delle sanzioni amministrative pecuniarie.
 
 Fermo quanto previsto dall'articolo 3, comma 5, l'Autorita', valutati gli elementi comunque in suo possesso e quelli portati a sua conoscenza da chiunque vi abbia interesse, da' avvio al procedimento sanzionatorio mediante contestazione immediata o la notificazione degli estremi della violazione.
+
+3.
+                        
+                            
+                                L'Autorita' determina l'importo delle sanzioni amministrative pecuniarie nell'ambito del minimo e massimo edittale previsto per ogni fattispecie di violazione dal presente decreto, nel rispetto dei principi di effettivita' e proporzionalita' ed in funzione: 
+ 
+                            
+                            
+                                a)
+                                
+                                    della gravita' della violazione; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    della reiterazione della violazione; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    delle azioni poste in essere per la eliminazione o attenuazione delle conseguenze della violazione; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    del rapporto percentuale dei passeggeri coinvolti dalla violazione rispetto a quelli trasportati.
 
 Tutte le notizie, le informazioni o i dati riguardanti i soggetti passivi interessati dalla fase istruttoria del procedimento sanzionatorio sono tutelati dal segreto d'ufficio.
 

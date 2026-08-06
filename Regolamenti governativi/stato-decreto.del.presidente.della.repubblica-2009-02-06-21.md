@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Regolamenti governativi
 vigenza_date: 2009-04-10
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:11Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -32,6 +32,45 @@ Sulla proposta del Ministro per le politiche europee, del Ministro del lavoro, d
 
 Il presente regolamento reca previsioni dirette ad attuare le disposizioni di cui al regolamento (CE) n. 648/2004 del Parlamento europeo e del Consiglio, del 31 marzo 2004, integrando le disposizioni nazionali in vigore precedentemente alla data di entrata in vigore del medesimo regolamento (CE) n. 648/2004.
 
+2.
+                    
+                        
+                            Per le finalita' di cui al comma 1, il presente decreto armonizza le seguenti disposizioni per l'immissione sul mercato dei detergenti e dei tensioattivi per detergenti:
+ 
+                        
+                        
+                            a)
+                            
+                                etichettatura addizionale dei detergenti, compresi le fragranze allergizzanti e la loro applicazione prima della data di entrata in vigore del regolamento (CE) n. 648/2004;
+
+                            
+                        
+                        
+                            b)
+                            
+                                informazioni che i produttori devono mettere a disposizione dell'Istituto superiore di sanita' e del personale medico;
+
+                            
+                        
+                        
+                            c)
+                            
+                                autorizzazioni;
+
+                            
+                        
+                        
+                            d)
+                            
+                                vigilanza;
+
+                            
+                        
+                        
+                            e)
+                            
+                                livelli di fosforo consentiti nei vari tipi di preparati destinati al lavaggio.
+
 ## Art. 2. — Autorita' competente
 
 Il Ministero del lavoro, della salute e delle politiche sociali, Direzione generale della prevenzione sanitaria, e' l'autorita' competente responsabile della comunicazione e dello scambio delle informazioni relative alla gestione del regolamento (CE) n. 648/2004.
@@ -52,6 +91,31 @@ Il numero di telefono del fabbricante o dell'importatore e' riportato sull'etich
 
 ## Art. 5. — Limitazioni nell'uso di detergenti o coadiuvanti del lavaggio contenenti fosforo ed Acido Nitriltriacetico (NTA)
 
+1.
+                    
+                        
+                            E' vietata l'introduzione nel territorio dello Stato, la detenzione per l'immissione in commercio in Italia di preparati per lavare aventi un contenuto di composti di fosforo, espressi come fosforo, in concentrazioni superiori ai limiti sotto elencati:
+ 
+                        
+                        
+                            a)
+                            
+                                «coadiuvanti del lavaggio»: 0,5 per cento;
+
+                            
+                        
+                        
+                            b)
+                            
+                                «preparati da bucato in macchina lavatrice, preparati da bucato a mano e per comunita' e preparati per piatti a mano»: 1 per cento;
+
+                            
+                        
+                        
+                            c)
+                            
+                                «preparati da lavastoviglie»: 6 per cento.
+
 Nei prodotti di cui al comma 1 e' vietato altresi' l'impiego del sale sodico dell'acido nitrilotriacetico (N.T.A.) come sostituente dei composti di fosforo.
 
 ## Art. 6. — Vigilanza e controlli
@@ -66,6 +130,38 @@ Gli organi sanitari competenti sono tenuti a procedere con uniformita' di interv
 
 ## Art. 8. — Documentazione richiesta per l'autorizzazione sanitaria
 
+1.
+                    
+                        
+                            Per ogni stabilimento l'imprenditore esercente, per ottenere l'autorizzazione, deve presentare apposita domanda nella quale devono essere indicati:
+ 
+                        
+                        
+                            a)
+                            
+                                la ditta o la ragione sociale ed il marchio depositato dall'impresa;
+
+                            
+                        
+                        
+                            b)
+                            
+                                la sede legale dell'impresa ed il luogo dello stabilimento;
+
+                            
+                        
+                        
+                            c)
+                            
+                                l'indicazione dei componenti dei prodotti da commercializzare ed ogni altro elemento utile alla conoscenza dei prodotti;
+
+                            
+                        
+                        
+                            d)
+                            
+                                le precauzioni igienico-sanitarie adottate durante il ciclo lavorativo per la tutela dei lavoratori e la salvaguardia dell'ambiente.
+
 ## Art. 9. — Rilascio dell'autorizzazione sanitaria
 
 Il sindaco, accertata l'osservanza delle disposizioni igienico-sanitarie vigenti, ed in particolare la messa in opera o la predisposizione durante il ciclo lavorativo di idonee cautele per la salvaguardia dei lavoratori e dell'ambiente, rilascia l'autorizzazione sanitaria.
@@ -73,6 +169,24 @@ Il sindaco, accertata l'osservanza delle disposizioni igienico-sanitarie vigenti
 ## Art. 10. — Laboratori di controllo
 
 I laboratori interessati ad effettuare le prove richieste dal regolamento (CE) n. 648/2004, in conformita' allo standard EN ISO/IEC 17025, o all'articolo 2 della direttiva 2004/9/CE del Parlamento europeo e del Consiglio, dell'11 febbraio 2004 (Buona pratica di laboratorio), presentano domanda di inclusione negli elenchi, nazionale e comunitario, in qualita' di laboratori competenti ed autorizzati.
+
+2.
+                    
+                        
+                            La domanda di cui al comma 1 e' inviata a mezzo raccomandata con avviso di ricevimento, indirizzata al Ministero del lavoro, della salute e delle politiche sociali, Direzione generale della prevenzione sanitaria, via Giorgio Ribotta, 5 - 00144 Roma, corredata dalla seguente documentazione:
+ 
+                        
+                        
+                            a)
+                            
+                                copia del certificato attestante il rispetto dei principi della Buona pratica di laboratorio limitatamente alle prove di biodegradabilita', di cui il richiedente e' in possesso;
+
+                            
+                        
+                        
+                            b)
+                            
+                                copia del certificato di accreditamento per l'esecuzione delle prove per cui il laboratorio chiede di essere approvato, in conformita' alla norma EN ISO/IEC 17025, rilasciato da un ente di accreditamento facente parte dell'EA (European Cooperation for Accreditation) o, in alternativa, documentazione comprovante l'esecuzione di tali prove in conformita' alla norma EN ISO/IEC 17025.
 
 Al ricevimento della domanda, il Ministero del lavoro, della salute e delle politiche sociali, dopo avere verificato la completezza della documentazione e valutato l'estensione della validita' delle due certificazioni prodotte dal laboratorio, comunica al richiedente l'avvio della procedura - documentale o mediante visita ispettiva - per l'accertamento del possesso dei requisiti richiesti dal regolamento (CE) n. 648/2004.
 

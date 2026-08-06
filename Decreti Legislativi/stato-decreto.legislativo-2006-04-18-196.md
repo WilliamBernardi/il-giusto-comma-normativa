@@ -8,8 +8,8 @@ codice_redazionale: 006G0215
 vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:30Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -24,4 +24,23 @@ Sentita la Commissione paritetica per le norme di attuazione prevista dall'artic
 Sulla proposta del Presidente del Consiglio dei Ministri e del Ministro per gli affari regionali, di concerto con il Ministro dell'economia e delle finanze;
 
 ## Art. 1.
+
+1.
+                    
+                        
+                            All'articolo 1 del decreto legislativo 18 maggio 2001, n. 280, sono apportate le seguenti modifiche:
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 1, dopo le parole: «Province di Trento e di Bolzano» sono inserite le seguenti: «, nonche' dei comuni in Provincia di Vicenza e in Provincia di Brescia, che ne facciano richiesta, presso i quali vige il sistema dei libri fondiari gestito dalla provincia autonoma di Trento,»;
+
+                            
+                        
+                        
+                            b)
+                            
+                                dopo il comma 1 e' inserito il seguente:
+ «1-bis. Le modalita' di attuazione della disposizione di cui al comma 1 riguardante i comuni interessati delle Province di Vicenza e di Brescia sono stabilite, previa intesa con la Provincia autonoma interessata, con provvedimento del direttore dell'Agenzia del territorio, da adottarsi entro un anno dalla data di entrata in vigore della predetta disposizione.».
 

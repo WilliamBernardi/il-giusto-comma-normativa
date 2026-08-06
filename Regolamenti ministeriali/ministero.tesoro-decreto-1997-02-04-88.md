@@ -8,8 +8,8 @@ codice_redazionale: 097G0120
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:40Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -47,6 +47,47 @@ Esame e pareri da formulare sui provvedimenti di spesa riguardanti le medesime a
  1.12. Divisione XII: Ricerche, studi, elaborazioni e documentazioni sul bilancio dello Stato, anche per gli organismi internazionali.
 Analisi delle politiche di bilancio per il processo di convergenza macroeconomica europea. Rapporti con gli organismi internazionali.
 Predisposizione del bilancio sperimentale dello Stato e' dei relativi aggiornamenti. Evoluzione normativa dei bilanci pubblici, connesse applicazioni e rapporti parlamentari.
+
+2.
+                    
+                        
+                            Fanno, inoltre, parte dell'Ispettorato generale del bilancio:
+ 2.1. Il servizio coordinamento bilanci, cui e' preposto un dirigente superiore con funzione di capo servizio, con compiti di collaborazione diretta con l'ispettore generale capo per le operazioni connesse:
+ 
+                        
+                        
+                            a)
+                            
+                                al coordinamento dell'attivita' relativa agli stati di previsione dell'entrata e delle spese del bilancio dello Stato ai fini della predisposizione e delle previsioni annuali e pluriennali, del rendiconto, dei provvedimenti di assestamento, degli atti amministrativi di variazioni di bilancio, delle note di variazioni;
+
+                            
+                        
+                        
+                            b)
+                            
+                                all'aggiornamento della legislazione vigente per la predisposizione della legge finanziaria;
+
+                            
+                        
+                        
+                            c)
+                            
+                                al coordinamento delle attivita' connesse ai rapporti con la Corte dei conti sul controllo preventivo di legittimita' dei decreti di variazioni al bilancio.
+ 2.2. Il servizio coordinamento dell'attivita' prelegislativa, cui e' preposto un dirigente superiore con funzione di capo servizio, con compiti di collaborazione diretta con l'ispettore generale capo per le operazioni connesse:
+ a) al coordinamento dell'attivita' dell'Ispettorato generale in ordine alla predisposizione del disegno di legge di bilancio, del disegno di legge finanziaria e dei provvedimenti collegati;
+ b) al coordinamento dell'esame, in fase prelegislativa, delle iniziative, elaborate dal Parlamento e dalle amministrazioni centrali interessate, nei vari settori dell'intervento dello Stato nonche' della verifica delle relazioni tecniche, riscontro delle coperture finanziarie delle iniziative medesime;
+ c) alle attivita' relative alla predisposizione e gestione dei fondi speciali per provvedimenti legislativi in corso.
+ 2.3. L'ufficio finanza pubblica, affidato a un dirigente superiore con funzione di consigliere ministeriale aggiunto con compiti di collaborazione diretta con l'ispettore generale capo per le operazioni connesse:
+ a) al coordinamento della relazione previsionale e programmatica, della relazione generale sulla situazione economica del Paese, del documento di programmazione economico-finanziaria e delle relazioni trimestrali di cassa;
+ b) all'attivita' di monitoraggio degli andamenti di finanza pubblica;
+ c) all'analisi delle proposte per il perseguimento degli obiettivi di convergenza comunitaria;
+
+                            
+                        
+                        
+                            d)
+                            
+                                ai rapporti con il Parlamento e con gli organismi internazionali (CEE, OCSE, FMI) in materia di finanza pubblica.
 
 ## Art. 2.
 

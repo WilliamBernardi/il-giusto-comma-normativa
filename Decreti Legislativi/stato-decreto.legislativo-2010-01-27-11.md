@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
 vigenza_date: 2025-03-21
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:30Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -82,11 +82,149 @@ ACQUISITI i pareri delle competenti Commissioni della Camera dei deputati e del 
 
 Il presente decreto si applica ai servizi di pagamento prestati nel territorio della Repubblica.
 
+2.
+                        
+                            
+                                Il presente decreto non si applica nel caso di: 
+ 
+                            
+                            
+                                a)
+                                
+                                    operazioni di pagamento effettuate esclusivamente in contante direttamente dal pagatore al beneficiario, senza alcuna intermediazione; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    operazioni di pagamento dal pagatore al beneficiario effettuate tramite un agente commerciale autorizzato in base a un accordo a negoziare o a concludere la vendita o l'acquisto di beni o servizi a condizione che agisca per conto del solo pagatore o del solo beneficiario oppure qualora l'agente stesso non entri mai in possesso dei fondi dei clienti; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    trasporto materiale, a titolo professionale, di banconote e monete, ivi compresa la raccolta, il trattamento e la consegna; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    operazioni di pagamento consistenti nella raccolta e nella consegna di contante, a titolo non professionale, nel quadro di un'attivita' senza scopo di lucro o a fmi di beneficenza; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    servizi in cui il beneficiario fornisce contante al pagatore nel contesto di un'operazione di pagamento, a seguito di una richiesta esplicita dell'utente immediatamente precedente l'esecuzione dell'operazione di pagamento destinata all'acquisto di beni o servizi, nei limiti eventualmente stabiliti con decreto del Ministro dell'economia e delle finanze da adottarsi, sentita la Banca d'Italia; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    operazioni di cambio di valuta contante contro contante nell'ambito delle quali i fondi non sono detenuti su un conto di pagamento; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    operazioni di pagamento basate su uno dei seguenti tipi di documenti cartacei, con i quali viene ordinato al prestatore di servizi di pagamento di mettere dei fondi a disposizione del beneficiario: assegni, titoli cambiari, voucher, traveller's cheque, vaglia postali; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    operazioni di pagamento realizzate all'interno di un sistema di pagamento o di un sistema di regolamento dei titoli tra agenti di regolamento, controparti centrali, stanze di compensazione e/o banche centrali e altri partecipanti al sistema e prestatori di servizi di pagamento, fatta salva l'applicazione dell'articolo 30; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    operazioni di pagamento collegate all'amministrazione degli strumenti finanziari, compresi i dividendi, le entrate o altre distribuzioni, o ai rimborsi o proventi di cessioni, effettuate dalle persone di cui alla lettera h), ovvero da imprese di investimento, enti creditizi, organismi di investimento collettivo o societa' di gestione patrimoniale che prestano servizi di investimento ed ogni altra entita' autorizzata ad avere la custodia di strumenti finanziari; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    servizi forniti dai prestatori di servizi tecnici, che supportano la prestazione dei servizi di pagamento, senza mai entrare in possesso dei fondi da trasferire, compresi l'elaborazione e la registrazione di dati, i servizi fiduciari e di protezione dei dati personali, l'autenticazione dei dati e delle entita', la fornitura di reti informatiche e di comunicazione, la fornitura e la manutenzione di terminali e dispositivi utilizzati per i servizi di pagamento; 
+
+                                
+                            
+                            
+                                m)
+                                
+                                    servizi basati su specifici strumenti di pagamento utilizzabili solo in modo limitato, che soddisfino una delle seguenti condizioni:
+1) strumenti che possono essere utilizzati per acquistare beni o servizi solo nei locali dell'emittente o all'interno di una rete limitata di prestatori di servizi vincolati da un accordo commerciale con l'emittente; 2) strumenti che possono essere utilizzati unicamente per l'acquisto di una gamma molto limitata di beni o servizi; 3) strumenti che sono regolamentati da un'autorita' pubblica nazionale o regionale per specifici scopi sociali o fiscali, per l'acquisto di beni o servizi specifici da fornitori aventi un accordo commerciale con l'emittente e che hanno validita' solamente in un unico Stato membro; 
+
+                                
+                            
+                            
+                                n)
+                                
+                                    operazioni di pagamento effettuate da un fornitore di reti o servizi di comunicazione elettronica che, in aggiunta a detti servizi di comunicazione elettronica, consentono a un utente della rete o del servizio di effettuare operazioni di pagamento addebitandole alla relativa fattura o al conto prealimentato dell'utente stesso in essere presso il medesimo fornitore di reti o servizi di comunicazione elettronica, a condizione che il valore di ciascuna operazione di pagamento non superi euro 50 e il valore complessivo delle operazioni stesse non superi euro 300 mensili e che l'operazione di pagamento: 
+ 1) sia diretta all'acquisto di contenuti digitali e servizi a tecnologia vocale; 
+ 2) sia effettuata da o tramite un dispositivo elettronico nel quadro di un'attivita' di beneficenza, per effettuare erogazioni liberali destinate agli enti del terzo settore di cui all'articolo 4 del decreto legislativo 3 luglio 2017, n. 117, che esercitano in via esclusiva o prevalente una o piu' attivita' caritatevoli tra quelle di cui all'articolo 5 del decreto legislativo 3 luglio 2017, n. 117, individuate con decreto del Ministro del lavoro e delle politiche sociali, di concerto con il Ministro dell'economia e delle finanze, da adottarsi ai sensi dell'articolo 17, comma 3, della legge 23 agosto 1988, n. 400, sentita la Cabina di regia di cui all'articolo 97 del decreto legislativo 3 luglio 2017, n. 117; 
+ 3) sia effettuata da o tramite un dispositivo elettronico per l'acquisto di biglietti relativi esclusivamente alla prestazione di servizi; 
+
+                                
+                            
+                            
+                                o)
+                                
+                                    operazioni di pagamento realizzate tra prestatori di servizi di pagamento, relativi agenti o succursali per proprio conto; 
+
+                                
+                            
+                            
+                                p)
+                                
+                                    operazioni di pagamento tra un'impresa madre e la relativa filiazione, o tra filiazioni della stessa impresa madre, senza alcuna intermediazione da parte di un prestatore di servizi di pagamento diverso da una delle imprese appartenenti al medesimo gruppo; 
+
+                                
+                            
+                            
+                                q)
+                                
+                                    servizi di prelievo di contante forniti da prestatori, tramite sportelli automatici per conto di uno o piu' emittenti della carta, che non sono parti del contratto quadro con il cliente che preleva denaro da un conto di pagamento, a condizione che detti prestatori non forniscano altri servizi di pagamento. E' fatta salva l'applicazione dell'articolo 32-quater.
+
 Il titolo II del presente decreto legislativo, l'articolo 115 e il capo II-bis del titolo VI del decreto legislativo 1° settembre 1993, n. 385, si applicano ai servizi di pagamento nella valuta di uno Stato membro prestati nell'Unione europea, a condizione che i prestatori di servizi di pagamento del pagatore e del beneficiario siano insediati nell'Unione europea ovvero l'unico prestatore di servizi di pagamento coinvolto nell'operazione di pagamento sia insediato nell'Unione europea.
 
 Il titolo II del presente decreto legislativo, salvo gli articoli da 18 a 22, e l'articolo 115 e il capo II-bis del titolo VI, salvo l'articolo 126-quater, del decreto legislativo 1° settembre 1993, n. 385, si applicano, secondo le modalita' stabilite dalla Banca d'Italia in conformita' alla direttiva (UE) 2015/2366, ai servizi di pagamento in una valuta che non e' quella di uno Stato membro, a condizione che i prestatori di servizi di pagamento del pagatore e del beneficiario siano insediati nell'Unione europea ovvero l'unico prestatore di servizi di pagamento coinvolto nell'operazione di pagamento sia insediato nell'Unione europea, per le parti dell'operazione di pagamento ivi effettuate.
 
 Il titolo II, salvo l'articolo 3, commi 2 e 4, gli articoli 13, 14 e 18, l'articolo 20, comma 1, e gli articoli 25 e 27, del presente decreto legislativo e l'articolo 115 e il capo II-bis del titolo VI, salvo l'articolo 126-quater, del decreto legislativo 1° settembre 1993, n. 385, si applicano, secondo le modalita' stabilite dalla Banca d'Italia in conformita' alla direttiva (UE) 2015/2366, ai servizi di pagamento in tutte le valute laddove soltanto uno dei prestatori di servizi di pagamento sia insediato nell'Unione europea, per le parti dell'operazione di pagamento ivi effettuate.
+
+4.
+                        
+                            
+                                Ai fini dell'applicazione del titolo II: 
+ 
+                            
+                            
+                                a)
+                                
+                                    per servizi di pagamento si intende anche l'emissione di moneta elettronica; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    se l'utente dei servizi di pagamento non e' un consumatore, le parti possono convenire che gli articoli 3, comma 1, 5, comma 4, 10, commi 1 e 2, 12, 12-bis, 13, 14, 17 e 25 non siano in tutto o in parte applicati. Le parti possono altresi' concordare un periodo di tempo diverso per effettuare la comunicazione di operazioni non autorizzate o effettuate in modo inesatto di cui all'articolo 9; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    le microimprese sono equiparate ai consumatori; tuttavia, le parti possono convenire che gli articoli 13, 14 e 17, comma 3 non siano in tutto o in parte applicati.
 
 La Banca d'Italia definisce modalita' e termini per l'invio delle informazioni che i prestatori dei servizi di cui al comma 2, lettere m), punti 1) e 2), e n), sono tenuti a notificare in conformita' all'articolo 37, della direttiva (UE) 2015/2366.
 
@@ -125,6 +263,45 @@ La Banca d'Italia e l'Autorita' garante della concorrenza e del mercato collabor
 Le disposizioni del presente articolo non producono effetti sul pagamento di eventuali spese concordate tra prestatori di servizi di pagamento o soggetti di cui essi si avvalgono.
 
 ## Art. 4. — (Deroga per gli strumenti di pagamento di basso valore e moneta elettronica)
+
+1.
+                        
+                            
+                                Nel caso di strumenti di pagamento che conformemente al contratto quadro consentono esclusivamente singole operazioni di pagamento di importo non superiore a 30 euro o che presentano un limite di spesa complessivo di 150 euro o che sono avvalorati per un importo che in nessun momento supera i 150 euro, le parti del contratto quadro possono convenire che: 
+ 
+                            
+                            
+                                a)
+                                
+                                    gli articoli 7, comma 1, lettera b), 8, comma 1, lettere c) e d), e 12, commi 1 e 2, non si applicano se lo strumento di pagamento non puo' essere bloccato o non puo' esserne impedito l'ulteriore utilizzo; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    gli articoli 10, 11 e 12, commi 3 e 4, non si applicano se lo strumento di pagamento e' utilizzabile in forma anonima o se, a causa delle caratteristiche dello strumento, il prestatore di servizi di pagamento non e' in grado di dimostrare che l'operazione di pagamento e' stata autorizzata; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il prestatore di servizi di pagamento, in deroga all'articolo 16, ((comma 2)), non e' tenuto ad informare l'((utente)) di servizi di pagamento del rifiuto di un ordine di pagamento quando la mancata esecuzione ((o disposizione)) dello stesso risulta evidente dal contesto; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    il pagatore, in deroga all'articolo 17, non puo' revocare l'ordine di pagamento dopo averlo trasmesso al beneficiario o dopo avergli dato il proprio consenso ad avviare l'esecuzione dell'operazione di pagamento; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    si applicano altri termini di esecuzione, in deroga agli articoli 20 e 21.
 
 Gli importi di cui al comma 1 sono raddoppiati quando i prestatori di servizi di pagamento del pagatore e del beneficiario sono insediati in Italia; per gli strumenti di pagamento prepagati il limite di 150 euro e' elevato a 500 euro.
 
@@ -180,6 +357,59 @@ Il pagatore puo' chiedere al prestatore di servizi di pagamento di radicamento d
 
 Se il conto di pagamento e' accessibile on-line, il pagatore ha il diritto di avvalersi di un prestatore di servizi di disposizione di ordine di pagamento per il servizio di pagamento di cui all'articolo, 1, comma 2, lettera h-septies.1), n. 7, del decreto legislativo 1° settembre 1993, n. 385. La prestazione di tale servizio non e' subordinata all'esistenza di un rapporto contrattuale tra il prestatore di servizi di disposizione di ordine di pagamento e il prestatore di servizi di pagamento di radicamento del conto.
 
+2.
+                        
+                            
+                                Il prestatore di servizi di disposizione di ordine di pagamento: 
+ 
+                            
+                            
+                                a)
+                                
+                                    non detiene in alcun momento i fondi del pagatore in relazione alla prestazione del servizio di disposizione di ordine di pagamento; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    provvede affinche' le credenziali di sicurezza personalizzate del pagatore non siano accessibili ad altri fuorche' al pagatore stesso e all'emittente delle credenziali di sicurezza personalizzate e che esse siano trasmesse attraverso canali sicuri ed efficienti; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    provvede affinche' qualunque altra informazione sul pagatore, ottenuta nella prestazione del servizio di disposizione di ordine di pagamento, sia fornita esclusivamente al beneficiario e solo con il consenso esplicito del pagatore; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    ogni volta che dispone un ordine di pagamento, si identifica presso il prestatore di servizi di pagamento di radicamento del conto del pagatore, comunicando con quest'ultimo, il pagatore e il beneficiario in maniera sicura, in conformita' a quanto previsto dall'articolo 98, paragrafo 1, lett. d), della direttiva (UE) 2015/2366 e dalle relative norme tecniche di regolamentazione adottate dalla Commissione europea; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    non chiede al pagatore dati diversi da quelli necessari per prestare il servizio di disposizione di ordine di pagamento; non usa ne' conserva dati ne' vi accede per fini diversi dalla prestazione del servizio di disposizione di ordine di pagamento e non conserva dati sensibili relativi ai pagamenti del pagatore; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    non modifica l'importo, il beneficiario o qualsiasi altro dato dell'operazione; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    quando dispone un ordine di pagamento mette a disposizione del prestatore di servizi di pagamento di radicamento del conto il riferimento dell'operazione di pagamento.
+
 3. Al fine di garantire l'esercizio del diritto del pagatore di avvalersi del servizio di disposizione di ordine di pagamento, il prestatore di servizi di pagamento di radicamento del conto:
 
 c) assicura parita' di trattamento agli ordini trasmessi mediante un prestatore di servizi di disposizione di ordine di pagamento rispetto a quelli trasmessi direttamente dal pagatore, fatte salve ragioni obiettive riferibili, in particolare, ai tempi, alla priorita' o alle spese applicabili.))
@@ -196,6 +426,45 @@ c) assicura parita' di trattamento agli ordini trasmessi mediante un prestatore 
 ((
 
 Se il conto di pagamento e' accessibile online, l'utente ha il diritto di avvalersi di un prestatore di servizi di informazione sui conti per il servizio di pagamento di cui all'articolo 1, comma 2, lettera h-septies.1), n. 8, del decreto legislativo 1° settembre 1993, n. 385. La prestazione di tale servizio non e' subordinata all'esistenza di un rapporto contrattuale tra il prestatore di servizi di informazione sui conti e il prestatore di servizi di pagamento di radicamento del conto.
+
+2.
+                        
+                            
+                                Il prestatore di servizi di informazione sui conti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    presta il proprio servizio unicamente sulla base del consenso esplicito dell'utente; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    provvede affinche' le credenziali di sicurezza personalizzate dell'utente non siano accessibili ad altri fuorche' all'utente stesso e all'emittente delle credenziali di sicurezza personalizzate e che esse siano trasmesse attraverso canali sicuri ed efficienti; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    per ogni sessione di comunicazione, si identifica presso il prestatore o i prestatori di servizi di pagamento di radicamento del conto, comunicando con questi e con l'utente in maniera sicura, conformemente all'articolo 98, paragrafo 1, lett. d), della direttiva (UE) 2015/2366 e alle relative norme tecniche di regolamentazione adottate dalla Commissione europea; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    accede soltanto alle informazioni sui conti di pagamento designati e sulle operazioni di pagamento effettuate a valere su tali conti, non richiedendo dati sensibili relativi ai pagamenti; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    non usa, ne' conserva dati, ne' vi accede per fini diversi dalla prestazione del servizio di informazione sui conti, conformemente alle norme sulla protezione dei dati.
 
 3. In relazione ai conti di pagamento, il prestatore di servizi di pagamento di radicamento del conto:
 
@@ -215,6 +484,31 @@ b) assicura parita' di trattamento alle richieste di dati trasmesse dal prestato
 Qualora per dare il consenso venga utilizzato uno specifico strumento di pagamento, il pagatore e il relativo prestatore di servizi di pagamento possono concordare limiti di spesa per le operazioni eseguite attraverso detto strumento.
 
 ))
+
+2.
+                        
+                            
+                                Il contratto quadro puo' prevedere il diritto del prestatore di servizi di pagamento di bloccare l'utilizzo di uno strumento di pagamento al ricorrere di giustificati motivi connessi con uno o piu' dei seguenti elementi: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la sicurezza dello strumento; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il sospetto di un suo utilizzo fraudolento o non autorizzato; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    nel caso in cui lo strumento preveda la concessione di una linea di credito per il suo utilizzo, un significativo aumento del rischio che il pagatore non sia in grado di ottemperare ai propri obblighi di pagamento.
 
 ((
 
@@ -249,6 +543,24 @@ La Banca d'Italia trasmette in forma aggregata i dati ricevuti ai sensi dei comm
 ))
 
 ## Art. 7. — (( (Obblighi a carico dell'utente dei servizi di pagamento in relazione agli strumenti di pagamento e alle credenziali di sicurezza personalizzate) ))
+
+1.
+                        
+                            
+                                L'((utente)) abilitato all'utilizzo di uno strumento di pagamento ha l'obbligo di: 
+ 
+                            
+                            
+                                a)
+                                
+                                    utilizzare lo strumento di pagamento in conformita' con i termini, esplicitati nel contratto quadro, che ne regolano l'emissione e l'uso ((e che devono essere obiettivi, non discriminatori e proporzionati)); 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    comunicare senza indugio, secondo le modalita' previste nel contratto quadro, al prestatore di servizi di pagamento o al soggetto da questo indicato lo smarrimento, il furto, l'appropriazione indebita o l'uso non autorizzato dello strumento non appena ne viene a conoscenza.
 
 ((
 
@@ -308,6 +620,31 @@ Quando l'utente di servizi di pagamento neghi di aver autorizzato un'operazione 
 ## Art. 10-bis. — ((Autenticazione e misure di sicurezza))
 
 ((
+
+1.
+                        
+                            
+                                Conformemente all'articolo 98 della direttiva (UE) 2015/2366 e alle relative norme tecniche di regolamentazione adottate dalla Commissione europea, i prestatori di servizi di pagamento applicano l'autenticazione forte del cliente quando l'utente: 
+ 
+                            
+                            
+                                a)
+                                
+                                    accede al suo conto di pagamento on-line; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    dispone un'operazione di pagamento elettronico; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    effettua qualsiasi azione, tramite un canale a distanza, che puo' comportare un rischio di frode nei pagamenti o altri abusi.
 
 Nel caso dell'avvio di un'operazione di pagamento elettronico di cui al paragrafo 1, lettera b), per le operazioni di pagamento elettronico a distanza, l'autenticazione forte del cliente applicata dai prestatori di servizi di pagamento comprende elementi che colleghino in maniera dinamica l'operazione a uno specifico importo e a un beneficiario specifico.
 
@@ -386,6 +723,24 @@ Il prestatore di servizi di pagamento del pagatore sblocca senza indugio i fondi
 
 
 
+1.
+                        
+                            
+                                Nel caso in cui un'operazione di pagamento autorizzata disposta su iniziativa del beneficiario o per il suo tramite sia gia' stata eseguita, il pagatore ha diritto al rimborso dell'importo trasferito qualora siano soddisfatte entrambe le seguenti condizioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    al momento del rilascio, l'autorizzazione non specificava l'importo dell'operazione di pagamento; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'importo dell'operazione supera quello che il pagatore avrebbe potuto ragionevolmente aspettarsi avuti presenti il suo precedente modello di spesa, le condizioni del suo contratto quadro e le circostanze del caso.
+
 Su richiesta del prestatore di servizi di pagamento, il pagatore fornisce documenti e ogni altro elemento utile a sostenere l'esistenza delle condizioni di cui al comma 1. Il rimborso corrisponde all'intero importo dell'operazione di pagamento eseguita ((e la data valuta dell'accredito non e' successiva a quella dell'addebito dell'importo)). Nel caso di addebiti diretti il pagatore e il prestatore di servizi di pagamento possono convenire nel contratto quadro che il pagatore ha diritto al rimborso anche a prescindere dalla sussistenza delle condizioni di cui al comma 1.
 
 Ai fini del comma 1. lettera b), il pagatore non puo' far valere ragioni legate al cambio, se e' stato applicato il tasso di cambio di riferimento concordato con il prestatore di servizi di pagamento. Se il tasso di cambio di riferimento riguarda un'operazione di pagamento che rientra in un contratto quadro, in tale contratto devono essere concordati il metodo di calcolo dell'interesse effettivo, la data pertinente e l'indice o la base presi in considerazione per determinare tale tasso di cambio di riferimento.
@@ -395,6 +750,25 @@ Ai fini del comma 1. lettera b), il pagatore non puo' far valere ragioni legate 
 Fatto salvo quanto disposto dal comma 4, in aggiunta a quanto disposto dal comma 1, nel caso di addebiti diretti di cui all'articolo 1 del Regolamento (UE) n. 260/2012, il pagatore ha un diritto incondizionato al rimborso nei termini di cui all'articolo 14.
 
 ))
+
+4.
+                        
+                            
+                                
+                                    ((Il contratto quadro tra il pagatore e il prestatore di servizi di pagamento puo' escludere il diritto al rimborso se ricorrono entrambe le seguenti condizioni:))
+                                
+                            
+                            
+                                a)
+                                
+                                    il pagatore ha dato l'autorizzazione direttamente al proprio prestatore di servizi di pagamento; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    ove possibile, le informazioni sulla futura operazione di pagamento, limitatamente al caso in cui l'autorizzazione del pagatore e' stata data prima dell'esecuzione dell'operazione di pagamento, sono state fornite o messe a disposizione del pagatore dal prestatore di servizi di pagamento o dal beneficiario almeno quattro settimane prima della sua esecuzione, secondo quanto concordato nel contratto quadro.
 
 ## Art. 14. — Richieste di rimborso per operazioni di pagamento ((autorizzate)) disposte dal beneficiario o per il suo tramite
 
@@ -482,6 +856,24 @@ Qualora dall'importo trasferito siano trattenute spese diverse da quelle ((di cu
 ## - SEZIONE II TEMPI DI ESECUZIONE E DATA VALUTA
 
 ## Art. 19. — (Ambito di applicazione)
+
+1.
+                        
+                            
+                                La presente sezione si applica: 
+ 
+                            
+                            
+                                a)
+                                
+                                    alle operazioni di pagamento in euro; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    alle operazioni di pagamento transfrontaliere che comportano un'unica conversione tra l'euro e la valuta ufficiale di uno Stato membro non appartenente all'area dell'euro, a condizione che esse abbiano luogo in euro e che la conversione valutaria abbia luogo nello Stato membro non appartenente all'area dell'euro.
 
 ((
 
@@ -638,6 +1030,31 @@ I prestatori di servizi di pagamento hanno accesso, trattano e conservano i dati
 
 Nell'esercizio del potere di cui all'articolo 146, comma 2, lettera b), numero 2), del testo unico delle leggi in materia bancaria e creditizia, di cui al decreto legislativo 1° settembre 1993, n. 385, come modificato dal presente decreto, la Banca d'Italia verifica che le norme emanate dai gestori di sistemi di pagamento, al fine di disciplinare l'accesso delle persone giuridiche autorizzate a svolgere servizi di pagamento, siano obiettive, non discriminatorie, proporzionate e non limitino l'accesso se non nella misura necessaria a proteggere il sistema da rischi specifici quali il rischio di regolamento, il rischio operativo e il rischio d'impresa, e a tutelarne la stabilita' finanziaria e operativa.
 
+2.
+                        
+                            
+                                Ai fini di cui al comma 1, le norme che disciplinano l'accesso ai sistemi di pagamento non possono imporre nessuno dei seguenti requisiti ai prestatori di servizi di pagamento, agli utenti di servizi di pagamento o ad altri sistemi di pagamento: 
+ 
+                            
+                            
+                                a)
+                                
+                                    restrizioni all'effettiva partecipazione ad altri sistemi di pagamento; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    discriminazioni tra prestatori di servizi di pagamento autorizzati o registrati in relazione ai diritti, agli obblighi e alle prerogative dei partecipanti; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    LETTERA SOPPRESSA DAL D.LGS. 15 DICEMBRE 2017, N. 218.
+
 ((I commi 1 e 2 non si applicano ai sistemi di pagamento costituiti esclusivamente da prestatori di servizi di pagamento appartenenti a un medesimo gruppo)).
 
 ((...)) qualora il partecipante a un sistema designato consenta a un prestatore di servizi di pagamento autorizzato o registrato che non e' un partecipante al sistema di trasmettere ordini di trasferimento mediante il sistema stesso, tale partecipante fornisce, su richiesta, la stessa opportunita' in maniera obiettiva, proporzionata e non discriminatoria, ad altri prestatori di servizi di pagamento autorizzati o registrati, conformemente ai commi 1 e 2.
@@ -692,6 +1109,24 @@ i) se l'istituto di pagamento o l'istituto di moneta elettronica e' una filiazio
  Il D.Lgs. 15 dicembre 2017, n. 218, ha disposto (con l'art. 5, comma 2) che "Le modifiche apportate dal presente decreto all'articolo 144 del decreto legislativo 1° settembre 1993, n. 385, gli articoli 2, commi 36 e 37, e 4 del presente decreto legislativo, nonche' il Capo II del Titolo IV-bis del decreto legislativo 27 gennaio 2010 n. 11 come introdotto dall'articolo 3, comma 1 del presente decreto legislativo si applicano alle violazioni commesse a partire dal 13 gennaio 2018, salvo quanto previsto dal comma 6. Alle violazioni commesse prima di questa data continuano ad applicarsi le norme del titolo VIII del decreto legislativo 1° settembre 1993, n. 385 nonche' l'articolo 32 del decreto legislativo 27 gennaio 2010 n. 11 e gli articoli 3, 4 e 5 del decreto legislativo 18 agosto 2015, n. 135 vigenti prima della data di entrata in vigore del presente decreto legislativo".
 
 ## Art. 32. — (Sanzioni)
+
+1.
+                        
+                            
+                                Nei confronti dei prestatori di servizi di pagamento e dei soggetti ai quali sono esternalizzate funzioni aziendali essenziali o importanti, nonche' di quelli incaricati della revisione legale dei conti, si applica la sanzione amministrativa pecuniaria da euro 30.000 fino a euro 5 milioni ovvero fino al 10 per cento del fatturato, quando tale importo e' superiore a euro 5 milioni e il fatturato e' disponibile e determinabile, per le seguenti violazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    inosservanza dell'articolo 3, commi 1 e 2, dell'articolo 5-bis, commi 1, 2 e 3, dell'articolo 5-ter, dell'articolo 5-quater, dell'articolo 8, comma 1, dell'articolo 9, commi 1 e 2-bis, dell'articolo 10-bis, dell'articolo 11, commi 1, 2 e 2-bis, dell'articolo 12-bis, dell'articolo 16, commi 2, 3, 4 e 4-bis, dell'articolo 18, dell'articolo 20, dell'articolo 21, dell'articolo 22, dell'articolo 23, dell'articolo 25, commi 2, 4, 5, 5-bis, 6, 6-bis, 7 ((, dell'articolo 25-bis, commi 1 e 2, o delle relative norme tecniche di regolamentazione e di attuazione emanate dalla Commissione europea ai sensi degli articoli 10 e 15 del regolamento (UE) n. 1093/2010 e dell'articolo 30-bis)); 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    inosservanza degli atti dell'ABE direttamente applicabili ai soggetti vigilati adottati ai sensi di quest'ultimo regolamento; (3)
 
 Nel caso in cui il prestatore di servizi di pagamento mandante rilevi nel comportamento dell'agente in servizi di pagamento le violazioni previste dall'articolo 3, commi 1 e 2, dall'articolo 8, comma 1, dall'articolo 9, commi 1 e 2-bis, dall'articolo 11, commi 1, 2 e 2-bis, dall'articolo 16, commi 2, 3, 4 e 4-bis, dall'articolo 18, dall'articolo 21, dall'articolo 25, commi 2, 4, 5, 5-bis, 6, 6-bis e 7 adotta immediatamente misure correttive e trasmette la documentazione relativa alle violazioni riscontrate, anche ai fini dell'applicazione dell'articolo 128-duodecies del decreto legislativo 1° settembre 1993, n. 385, all'Organismo di cui all'articolo 128-undecies. (3)
 
@@ -869,11 +1304,104 @@ Nel caso in cui lo svolgimento di tali attivita' imprenditoriali rischi di danne
 
 ## Art. 34. — (Trasparenza dei servizi di pagamento)
 
+1.
+                        
+                            
+                                Al testo unico delle leggi in materia bancaria e creditizia, di cui al decreto legislativo 1° settembre 1993, n. 385 sono apportate le seguenti modifiche: 
+ 
+                            
+                            
+                                a)
+                                
+                                    all'articolo 115, dopo il comma 3, e' aggiunto il seguente :
+"3-bis. Le disposizioni del presente capo non si applicano ai servizi di pagamento disciplinati dal capo II-bis a meno che non siano espressamente richiamate da quest'ultimo."; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    al titolo VI, dopo il capo II, e' inserito il seguente: 
+ 
+ "Capo II-bis 
+ Servizi di pagamento 
+ Art. 126-bis 
+ (Disposizioni di carattere generale) 
+ 
+ 1. Il presente capo si applica ai contratti quadro relativi a servizi di pagamento e alle operazioni di pagamento, anche se queste non rientrano in un contratto quadro, quando i servizi sono offerti sul territorio della Repubblica. 
+ 2. Ai fini del presente capo, per servizi di pagamento si intende anche l'emissione di moneta elettronica. 
+ 3. In deroga all'articolo 127, comma 1, le parti possono accordarsi nel senso che le previsioni del presente capo non si applicano, interamente o parzialmente, se l'utilizzatore di servizi di pagamento non e' un consumatore, ne' una micro-impresa. 
+ 4. Spetta al prestatore dei servizi di pagamento l'onere della prova di aver correttamente adempiuto agli obblighi previsti dal presente capo. 
+ 5. La Banca d'Italia adotta i provvedimenti previsti dal presente capo avendo riguardo, per i servizi di pagamento regolati in conto corrente o commercializzati unitamente a un conto corrente, alle disposizioni previste ai sensi del capo I. 
+ 6. Nell'esercizio dei poteri regolamentari previsti dal presente capo, la Banca d'Italia tiene conto anche della finalita' di garantire un adeguato livello di affidabilita' ed efficienza dei servizi di pagamento. 
+ 
+ Art. 126-ter 
+ (Spese applicabili) 
+ 
+ 1. Il prestatore dei servizi di pagamento non puo' addebitare all'utilizzatore spese inerenti all'informativa resa ai sensi di legge. 
+ 2. Il prestatore di servizi di pagamento e l'utilizzatore possono concordare le spese relative a informazioni fornite su richiesta dell'utilizzatore se esse, rispetto a quanto previsto nel contratto quadro, sono supplementari o rese in modo piu' frequente o trasmesse con strumenti di comunicazione diversi. Le spese sono proporzionate ai costi effettivi sostenuti dal prestatore di servizi di pagamento. 
+ 
+ Art. 126-quater 
+ (Informazioni relative alle operazioni di pagamento e ai contratti)  
+ 1. La Banca d'Italia disciplina: 
+ a) contenuti e modalita' delle informazioni e delle condizioni che il prestatore dei servizi di pagamento fornisce o rende disponibili all'utilizzatore di servizi di pagamento, al pagatore e al beneficiario. Le informazioni e le condizioni sono redatte in termini di facile comprensione e in forma chiara e leggibile. In particolare, l'utilizzatore dei servizi di pagamento e' informato di tutte le spese dovute al prestatore di servizi di pagamento e della loro suddivisione. Sono previsti obblighi di trasparenza semplificati nel caso di utilizzo di strumenti di pagamento che riguardino operazioni o presentino limiti di spesa o avvaloramento inferiori a soglie fissate dalla stessa Banca d'Italia; 
+ b) casi, contenuti e modalita' delle comunicazioni periodiche sulle operazioni di pagamento. 
+ 2. Non si applicano gli articoli 67 -quinquies, 67 -sexies, comma 1, lettere a), b) ed h), 67- septies, comma 1, lettere b), c), f) e g), 67 -octies, comma 1, lettera a), del decreto legislativo 6 settembre 2005, n. 206. 
+ 3. Prima di disporre l'operazione di pagamento l'utilizzatore e' informato: 
+ a) dal beneficiario, di eventuali spese imposte o riduzioni proposte per l'utilizzo di un determinato strumento di pagamento; 
+ b) dal prestatore di servizi di pagamento o da un terzo, di eventuali spese imposte per l'utilizzo di un determinato strumento di pagamento. 
+ 
+ Art. 126-quinquies 
+ (Contratto quadro) 
+ 
+ 1. Ai contratti quadro si applica l'articolo 117, commi 1, 2, 3, 4, 6 e 7. Il potere previsto dall'articolo 117, comma 2, e' esercitato dalla Banca d'Italia. 
+ 2. In qualsiasi momento del rapporto, l'utilizzatore di servizi di pagamento che ha concluso un contratto quadro puo' richiedere le condizioni contrattuali del contratto quadro nonche' le informazioni relative al contratto quadro previste ai sensi dell'articolo126-quater, comma 1, lettera a), su supporto cartaceo o su altro supporto durevole. 
+ 
+ Art. 126-sexies 
+ (Modifica unilaterale delle condizioni) 
+ 
+ 1. Ogni modifica del contratto quadro o delle condizioni e informazioni a esso relative fornite all'utilizzatore ai sensi dell'articolo 126-quater, comma 1, lettera a), e' proposta dal prestatore dei servizi di pagamento secondo le modalita' stabilite dalla Banca d'Italia, con almeno due mesi di anticipo rispetto alla data di applicazione prevista. 
+ 2. Il contratto quadro puo' prevedere che la modifica delle condizioni contrattuali si ritiene accettata dall'utilizzatore a meno che questi non comunichi al prestatore dei servizi di pagamento, prima della data prevista per l'applicazione della modifica, che non intende accettarla. In questo caso, la comunicazione di cui al comma 1, contenente la proposta di modifica, specifica che in assenza di espresso rifiuto la proposta si intende accettata e che l'utilizzatore ha diritto di recedere senza spese prima della data prevista per l'applicazione della modifica. 
+ 3. Le modifiche dei tassi di interesse o di cambio possono essere applicate con effetto immediato e senza preavviso; tuttavia, se sono sfavorevoli per l'utilizzatore, e' necessario che cio' sia previsto nel contratto quadro e che la modifica sia la conseguenza della variazione dei tassi di interesse o di cambio di riferimento convenuti nel contratto. L'utilizzatore e' informato della modifica dei tassi di interesse nei casi e secondo le modalita' stabilite dalla Banca d'Italia. 
+ 4. Le modifiche dei tassi di interesse o di cambio utilizzati nelle operazioni di pagamento sono applicate e calcolate in una forma neutra tale da non creare discriminazioni tra utilizzatori, secondo quanto stabilito dalla Banca d'Italia. 
+ 5. Restano ferme, in quanto compatibili, le disposizioni di cui all'articolo 33, commi 3 e 4, del decreto legislativo 6 settembre 2005, n. 206. 
+ 
+ Art. 126-septies 
+ (Recesso) 
+ 
+ 1. L'utilizzatore di servizi di pagamento ha sempre la facolta' di recedere dal contratto quadro senza penalita' e senza spese di chiusura. 
+ 2. Il prestatore di servizi di pagamento puo' recedere da un contratto quadro a tempo indeterminato se cio' e' previsto dal contratto e con un preavviso di almeno due mesi, secondo le modalita' stabilite dalla Banca d'Italia. 
+ 3. In caso di recesso dal contratto dell'utilizzatore o del prestatore di servizi di pagamento, le spese per i servizi fatturate periodicamente sono dovute dall'utilizzatore solo in misura proporzionale per il periodo precedente al recesso; se pagate anticipatamente, esse sono rimborsate in maniera proporzionale. 
+ 
+ Art. 126-octies 
+ (Denominazione valutaria dei pagamenti) 
+ 
+ 1. I pagamenti sono effettuati nella valuta concordata dalle parti. 
+ 2. Se al pagatore e' offerto, prima di disporre un'operazione di pagamento, un servizio di conversione valutaria dal beneficiario ovvero presso il punto vendita da un venditore di merci o da un fornitore di servizi, colui che propone il servizio di conversione gli comunica tutte le spese e il tasso di cambio che sara' utilizzato per la conversione. Il pagatore accetta il servizio su tale base. ".
+
 ## - ((TITOLO IV-BIS (Attuazione del Regolamento (UE) n. 751/2015del Parlamento europeo e del Consiglio, del 29 aprile 2015,relativo alle commissioni interbancarie sulle operazioni di pagamento basate su carta) )) ((CAPO I))
 
 ## Art. 34-bis. — (Limite alle commissioni interbancarie applicate alle operazioni di pagamento nazionali effettuate con carta di debito ad uso dei consumatori)
 
 Fino al 9 dicembre 2020, per le operazioni nazionali tramite carta di debito ad uso dei consumatori, i prestatori di servizi di pagamento possono applicare una commissione interbancaria media ponderata non superiore all'equivalente dello 0,2 % del valore medio annuo di tutte le operazioni nazionali effettuate tramite tali carte di debito all'interno dello stesso schema di carte di pagamento.
+
+2.
+                        
+                            
+                                Al fine di consentire ai prestatori di servizi di pagamento di avvalersi della possibilita' prevista al comma 1, gli schemi di carte di pagamento: 
+ 
+                            
+                            
+                                a)
+                                
+                                    definiscono una struttura della commissione interbancaria media ponderata improntata a criteri di trasparenza, semplicita', confrontabilita' ed equita', anche tenuto conto delle specifiche caratteristiche dell'operazione di pagamento; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    trasmettono alla Banca d'Italia, nel rispetto dei termini di cui all'articolo 3, paragrafo 5, del regolamento (UE) n. 751/2015, una relazione illustrativa delle modalita' di rispetto dei criteri di cui alla lettera a).
 
 Fatto salvo quanto previsto dai commi precedenti, per le operazioni nazionali tramite carta di debito ad uso dei consumatori, i prestatori di servizi di pagamento possono applicare una commissione interbancaria non superiore a 0,05 EUR per ciascuna operazione. Tale commissione interbancaria per operazione puo' anche essere combinata con una percentuale massima non superiore allo 0,2 % del valore di ciascuna operazione a condizione che la somma delle commissioni interbancarie dello schema di carte di pagamento non superi mai lo 0,2 % del valore totale annuo delle operazioni nazionali effettuate tramite tali carte di debito all'interno di ciascuno schema di carte di pagamento.((PERIODO SOPPRESSO DAL D.L.GS. 8 APRILE 2020, N. 36)).
 
@@ -927,6 +1455,24 @@ Al fine di garantire l'efficace adempimento degli obblighi di cui al Regolamento
 ## Art. 34-quinquies. — ((Sanzioni in materia di commissioni interbancarie))
 
 ((
+
+1.
+                        
+                            
+                                Si applica nei confronti dei prestatori di servizi di pagamento la sanzione amministrativa pecuniaria da euro 30.000 fino a euro 5 milioni ovvero fino al 10 per cento del fatturato, quando tale importo e' superiore a euro 5 milioni e il fatturato e' disponibile e determinabile, per l'inosservanza delle seguenti disposizioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    articoli 3, paragrafo 1, e 4, del regolamento (UE) n. 751/2015; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    articoli 34-bis, commi 1, 3, 4 e 5, e 34-ter, comma 1, del presente decreto.
 
 ))
 
@@ -1039,6 +1585,57 @@ All'articolo 106, comma 1, del decreto legislativo 1° settembre 1993, n. 385, l
 All'articolo 107 del decreto legislativo 1° settembre 1993, n. 385, dopo il comma 7 e' aggiunto il seguente: "7-bis. Gli intermediari finanziari iscritti nell'elenco previsto dal comma 1 possono prestare servizi di pagamento a condizione che siano autorizzati ai sensi dell'articolo 114 -novies, comma 4, e iscritti nel relativo albo. Con riferimento all'attivita' di prestazione dei servizi di pagamento si applicano le disposizioni previste nel titolo V-ter.".
 
 All'articolo 114-quater, comma 3, del decreto legislativo 1° settembre 1993, n. 385, il secondo periodo e' soppresso.
+
+8.
+                        
+                            
+                                All'articolo 128, comma 1, del decreto legislativo 1° settembre 1993, n. 385, dopo le parole: "presso le banche" sono inserite le seguenti: , gli istituti di pagamento". 
+ 9. All'articolo 128, comma 3, del decreto legislativo 1° settembre 1993, n. 385, dopo le parole: "lettera c)" sono inserite le seguenti: "e ai beneficiari e ai terzi destinatari delle disposizioni previste dall'articolo 126-quater, comma 3,". 
+ 10. All'articolo 128-bis del decreto legislativo 1° settembre 1993, n. 385, dopo il comma 3 e' aggiunto il seguente: "3-bis. La Banca d'Italia, quando riceve un reclamo da parte della clientela dei soggetti di cui al comma 1, indica al reclamante la possibilita' di adire i sistemi previsti ai sensi del presente articolo.". 
+ 11. Dopo l'articolo 131-bis del decreto legislativo 1° settembre 1993, n. 385, e' inserito il seguente: "Articolo 131-ter (Abusiva attivita' di prestazione di servizi di pagamento) 1. Chiunque presta servizi di pagamento senza essere autorizzato ai sensi dell'articolo 114 - novies e' punito con la reclusione da sei mesi a quattro anni e con la multa da 2.066 euro a 10.329 euro.". 
+ 12. All'articolo 132 - bis, comma 1, del decreto legislativo 1° settembre 1993, n. 385, dopo le parole: "moneta elettronica" sono inserite le seguenti: ", prestazione di servizi di pagamento "e dopo le parole: "131 -bis" sono inserite le seguenti: ", 131- ter". 
+ 13. All'articolo 133 del decreto legislativo 1° settembre 1993, n. 385, dopo il comma 1-bis e' inserito il seguente: "1-ter. L'uso, nella denominazione o in qualsivoglia segno distintivo o comunicazione rivolta al pubblico, dell'espressione «istituto di pagamento» ovvero di altre parole o locuzioni, anche in lingua straniera, idonee a trarre in inganno sulla legittimazione allo svolgimento dell'attivita' di prestazione di servizi di pagamento e' vietato a soggetti diversi dagli istituti di pagamento.". 
+ 14. All'articolo 133 del decreto legislativo 1° settembre 1993, n. 385, il comma 2 e' sostituito dal seguente: "2. La Banca d'Italia determina in via generale le ipotesi in cui, per l'esistenza di controlli amministrativi o in base a elementi di fatto, le parole o le locuzioni indicate nei commi 1, 1-bis e 1-ter possono essere utilizzate da soggetti diversi dalle banche, dagli istituti di moneta elettronica e dagli istituti di pagamento.". 
+ 15. All'articolo 133, comma 3, primo periodo, del decreto legislativo 1° settembre 1993, n. 385, le parole: "del comma 1" sono sostituite dalle seguenti: "dei commi 1, 1-bis e 1-ter". 
+ 16. 16. All'articolo 144, comma 1, del decreto legislativo 1° settembre 1993, n. 385, dopo la parola: "114-quater," sono inserite le seguenti: "114-octies, 114 - duodecies, 114  terdecies, 114  quaterdecies," e dopo le parole: "145, comma 3," sono inserite le seguenti: "146, comma 2,". 
+ 17. All'articolo 144, comma 3, del decreto legislativo 1° settembre 1993, n. 385, le parole: "negli articoli 116 e 123" sono sostituite dalle seguenti: "negli articoli 116, 123, 126-ter, 126- quater ,126-quinquies,126-sexies e 126-septies." . 
+ 18. L'articolo 146 del decreto legislativo 1° settembre 1993, n. 385, e' sostituito dal seguente: 
+ "Articolo 146 (Sorveglianza sul sistema dei pagamenti) 
+ 1. La Banca d'Italia esercita la sorveglianza sul sistema dei pagamenti avendo riguardo al suo regolare funzionamento, alla sua affidabilita' ed efficienza nonche' alla tutela degli utenti di servizi di pagamento. 
+ 2. Per le finalita' di cui al comma 1 la Banca d'Italia, nei confronti dei soggetti che emettono o gestiscono strumenti di pagamento, prestano servizi di pagamento, gestiscono sistemi di scambio, di compensazione e di regolamento o gestiscono infrastrutture strumentali tecnologiche o di rete, puo': 
+ 
+                            
+                            
+                                a)
+                                
+                                    richiedere la comunicazione, anche periodica, con le modalita' e i termini da essa stabiliti, di dati, notizie, atti e documenti concernenti l'attivita' esercitata; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    emanare disposizioni di carattere generale aventi a oggetto: 
+ 1) il contenimento dei rischi che possono inficiare il regolare funzionamento, l'affidabilita' e l'efficienza del sistema dei pagamenti; 
+ 2) l'accesso dei prestatori di servizi di pagamento ai sistemi di scambio, di compensazione e di regolamento nonche' alle infrastrutture strumentali tecnologiche o di rete; 
+ 3) il funzionamento, le caratteristiche e le modalita' di prestazione dei servizi offerti; 
+ 4) gli assetti organizzativi e di controllo relativi alle attivita' svolte nel sistema dei pagamenti; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    disporre ispezioni, chiedere l'esibizione di documenti e prenderne copia al fine di verificare il rispetto delle norme disciplinanti la corretta esecuzione dei servizi di pagamento nonche' di ogni disposizione e provvedimento emanati ai sensi del presente articolo; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    adottare per le materie indicate alla lettera b), ove la situazione lo richieda, provvedimenti specifici volti a far cessare le infrazioni accertate o a rimuoverne le cause, ivi inclusi il divieto di effettuare determinate operazioni e la restrizione delle attivita' dei soggetti sottoposti a sorveglianza nonche', nei casi piu' gravi, la sospensione dell'attivita'. 
+ 3. Nei confronti dei soggetti che emettono o gestiscono strumenti di pagamento e di quelli che prestano servizi di pagamento resta fermo quanto previsto ai sensi degli articoli 51, 53, 54, 66, 67, 68, 78, 79, 114-quater, 114-quaterdecies e del titolo VI. 
+ 4. La Banca d'Italia partecipa all'esercizio dei poteri conferiti al SEBC in materia di sistemi di pagamento.".
 
 ## Art. 36. — ((ARTICOLO ABROGATO DAL D.LGS. 15 DICEMBRE 2017, N. 218))
 

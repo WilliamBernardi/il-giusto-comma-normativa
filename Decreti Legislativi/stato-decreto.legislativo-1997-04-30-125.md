@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
 vigenza_date: 2009-01-01
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:28Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -50,6 +50,47 @@ L'articolo 3 del decreto-legge 28 giugno 1990, n. 167, convertito, con modificaz
  3. In deroga all'obbligo del segreto d'ufficio, i dati ricevuti dall'UIC sono trasmessi con le modalita' previste dall'articolo 7, comma 1, all'amministrazione finanziaria, che li utilizza per i propri fini istituzionali; essi sono altresi' comunicati, su richiesta, alle autorita' indicate dall'articolo 1l del decreto-legge 3 maggio 1991, n. 143, convertito, con modificazioni, dalla legge 5 luglio 1991, n. 197, per il perseguimento dei fini del medesimo decretolegge.".
 
 ## Art. 2.
+
+1.
+                    
+                        
+                            L'articolo 5 del decreto-legge 28 giugno 1990, n. 167, convertito, con modificazioni, dalla legge 4 agosto 1990, n. 227, e' cosi' modificato:
+ 
+                        
+                        
+                            a)
+                            
+                                nei commi 1, 2, 4 e 5 le parole: "pena pecuniaria" sono sostituite con le parole: "sanzione amministrativa pecuniaria";
+
+                            
+                        
+                        
+                            b)
+                            
+                                il comma 3 e' sostituito dal seguente:
+ " 3. La violazione degli obblighi previsti dall'articolo 3 e' punita con la sanzione amministrativa pecuniaria fino al quaranta per cento dell'importo trasferito o che si tenta di trasferire eccedente il controvalore di venti milioni di lire, con un minimo di lire duecentomila.";
+
+                            
+                        
+                        
+                            c)
+                            
+                                nel comma 6 le parole: "pene pecuniarie" sono sostituite con le parole: "sanzioni amministrative pecuniarie";
+
+                            
+                        
+                        
+                            d)
+                            
+                                il comma 7 e' soppresso;
+
+                            
+                        
+                        
+                            e)
+                            
+                                dopo il comma 8 e' aggiunto il seguente:
+ "8-bis. Chiunque, nel rendere la dichiarazione prevista dall'articolo 3, omette di indicare le generalita' del soggetto per conto del quale effettua il trasferimento da o verso l'estero di denaro, titoli o valori mobiliari, ovvero le indica false, e' punito, salvo che il fatto costituisca piu' grave reato, con la reclusione da sei mesi ad un anno e con la multa da lire un milione a lire dieci milioni.".
 
 ## Art. 3.
 

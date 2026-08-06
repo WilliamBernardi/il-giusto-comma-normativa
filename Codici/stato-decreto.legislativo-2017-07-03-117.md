@@ -8,8 +8,8 @@ vigente: true
 source: normattiva-opendata
 collection: Codici
 vigenza_date: 2025-12-13
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:38:33Z
+zip_date: 2026-08-04
+fetched_at: 2026-08-04
 ---
 
 DECRETO LEGISLATIVO
@@ -60,6 +60,192 @@ Per le obbligazioni contratte in relazione alle attivita' di cui agli articoli 5
 
 Attivita' di interesse generale
 
+1.
+                        
+                            
+                                Gli enti del Terzo settore, diversi dalle imprese sociali incluse le cooperative sociali, esercitano in via esclusiva o principale una o piu' attivita' di interesse generale per il perseguimento, senza scopo di lucro, di finalita' civiche, solidaristiche e di utilita' sociale. Si considerano di interesse generale, se svolte in conformita' alle norme particolari che ne disciplinano l'esercizio, le attivita' aventi ad oggetto: 
+ 
+                            
+                            
+                                a)
+                                
+                                    interventi e servizi sociali ai sensi dell'articolo 1, commi 1 e 2, della legge 8 novembre 2000, n. 328, e successive modificazioni, e interventi, servizi e prestazioni di cui alla legge 5 febbraio 1992, n. 104, e alla legge 22 giugno 2016, n. 112, e successive modificazioni; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    interventi e prestazioni sanitarie; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    prestazioni socio-sanitarie di cui al decreto del Presidente del Consiglio dei ministri 14 febbraio 2001, pubblicato nella Gazzetta Ufficiale n. 129 del 6 giugno 2001, e successive modificazioni; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    educazione, istruzione e formazione professionale, ai sensi della legge 28 marzo 2003, n. 53, e successive modificazioni, nonche' le attivita' culturali di interesse sociale con finalita' educativa; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    interventi e servizi finalizzati alla salvaguardia e al miglioramento delle condizioni dell'ambiente e all'utilizzazione accorta e razionale delle risorse naturali, con esclusione dell'attivita', esercitata abitualmente, di raccolta e riciclaggio dei rifiuti urbani, speciali e pericolosi, ((alla tutela degli animali e alla prevenzione del randagismo, ai sensi della legge 14 agosto 1991, n. 281, nonche' alla produzione, all'accumulo e alla condivisione di energia da fonti rinnovabili a fini di autoconsumo, ai sensi del decreto legislativo 8 novembre 2021, n. 199));; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    interventi di tutela e valorizzazione del patrimonio culturale e del paesaggio, ai sensi del decreto legislativo 22 gennaio 2004, n. 42, e successive modificazioni; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    formazione universitaria e post-universitaria; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    ricerca scientifica di particolare interesse sociale; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    organizzazione e gestione di attivita' culturali, artistiche o ricreative di interesse sociale, incluse attivita', anche editoriali, di promozione e diffusione della cultura e della pratica del volontariato e delle attivita' di interesse generale di cui al presente articolo; 
+
+                                
+                            
+                            
+                                j)
+                                
+                                    radiodiffusione sonora a carattere comunitario, ai sensi dell'articolo 16, comma 5, della legge 6 agosto 1990, n. 223, e successive modificazioni; 
+
+                                
+                            
+                            
+                                k)
+                                
+                                    organizzazione e gestione di attivita' turistiche di interesse sociale, culturale o religioso; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    formazione extra-scolastica, finalizzata alla prevenzione della dispersione scolastica e al successo scolastico e formativo, alla prevenzione del bullismo e al contrasto della poverta' educativa; 
+
+                                
+                            
+                            
+                                m)
+                                
+                                    servizi strumentali ad enti del Terzo settore resi da enti composti in misura non inferiore al settanta per cento da enti del Terzo settore; 
+
+                                
+                            
+                            
+                                n)
+                                
+                                    cooperazione allo sviluppo, ai sensi della legge 11 agosto 2014, n. 125, e successive modificazioni; 
+
+                                
+                            
+                            
+                                o)
+                                
+                                    attivita' commerciali, produttive, di educazione e informazione, di promozione, di rappresentanza, di concessione in licenza di marchi di certificazione, svolte nell'ambito o a favore di filiere del commercio equo e solidale, da intendersi come un rapporto commerciale con un produttore operante in un'area economica svantaggiata, situata, di norma, in un Paese in via di sviluppo, sulla base di un accordo di lunga durata finalizzato a promuovere l'accesso del produttore al mercato e che preveda il pagamento di un prezzo equo, misure di sviluppo in favore del produttore e l'obbligo del produttore di garantire condizioni di lavoro sicure, nel rispetto delle normative nazionali ed internazionali, in modo da permettere ai lavoratori di condurre un'esistenza libera e dignitosa, e di rispettare i diritti sindacali, nonche' di impegnarsi per il contrasto del lavoro infantile; 
+
+                                
+                            
+                            
+                                p)
+                                
+                                    servizi finalizzati all'inserimento o al reinserimento nel mercato del lavoro dei lavoratori e delle persone di cui all'articolo 2, comma 4, del decreto legislativo recante revisione della disciplina in materia di impresa sociale, di cui all'articolo 1, comma 2, lettera c), della legge 6 giugno 2016, n. 106; 
+
+                                
+                            
+                            
+                                q)
+                                
+                                    alloggio sociale, ai sensi del decreto del Ministero delle infrastrutture del 22 aprile 2008, e successive modificazioni, nonche' ogni altra attivita' di carattere residenziale temporaneo diretta a soddisfare bisogni sociali, sanitari, culturali, formativi o lavorativi; 
+
+                                
+                            
+                            
+                                r)
+                                
+                                    accoglienza umanitaria ed integrazione sociale dei migranti; 
+
+                                
+                            
+                            
+                                s)
+                                
+                                    agricoltura sociale, ai sensi dell'articolo 2 della legge 18 agosto 2015, n. 141, e successive modificazioni; 
+
+                                
+                            
+                            
+                                t)
+                                
+                                    organizzazione e gestione di attivita' sportive dilettantistiche; 
+
+                                
+                            
+                            
+                                u)
+                                
+                                    beneficenza, sostegno a distanza, cessione gratuita di alimenti o prodotti di cui alla legge 19 agosto 2016, n. 166, e successive modificazioni, o erogazione di denaro, beni o servizi a sostegno di persone svantaggiate o di attivita' di interesse generale a norma del presente articolo; 
+
+                                
+                            
+                            
+                                v)
+                                
+                                    promozione della cultura della legalita', della pace tra i popoli, della nonviolenza e della difesa non armata; 
+
+                                
+                            
+                            
+                                w)
+                                
+                                    promozione e tutela dei diritti umani, civili, sociali e politici, nonche' dei diritti dei consumatori e degli utenti delle attivita' di interesse generale di cui al presente articolo, promozione delle pari opportunita' e delle iniziative di aiuto reciproco, incluse le banche dei tempi di cui all'articolo 27 della legge 8 marzo 2000, n. 53, e i gruppi di acquisto solidale di cui all'articolo 1, comma 266, della legge 24 dicembre 2007, n. 244; 
+
+                                
+                            
+                            
+                                x)
+                                
+                                    cura di procedure di adozione internazionale ai sensi della legge 4 maggio 1983, n. 184; 
+
+                                
+                            
+                            
+                                y)
+                                
+                                    protezione civile ai sensi della legge 24 febbraio 1992, n. 225, e successive modificazioni; 
+
+                                
+                            
+                            
+                                z)
+                                
+                                    riqualificazione di beni pubblici inutilizzati o di beni confiscati alla criminalita' organizzata.
+
 Tenuto conto delle finalita' civiche, solidaristiche e di utilita' sociale di cui all'articolo 1, comma 1, della legge 6 giugno 2016, n. 106, nonche' delle finalita' e dei principi di cui agli articoli 1 e 2 del presente Codice, l'elenco delle attivita' di interesse generale di cui al comma 1 puo' essere aggiornato con decreto del Presidente del Consiglio dei ministri da adottarsi ai sensi dell'articolo 17, comma 3, della legge 23 agosto 1988, n. 400 su proposta del Ministro del lavoro e delle politiche sociali, di concerto con il Ministro dell'economia e delle finanze, previa intesa in sede di Conferenza Unificata, acquisito il parere delle Commissioni parlamentari competenti, che si esprimono entro trenta giorni dalla data di trasmissione del decreto, decorsi i quali quest'ultimo puo' essere comunque adottato.
 
 ## Art. 6.
@@ -79,6 +265,45 @@ Gli enti del Terzo settore, possono realizzare attivita' di raccolta fondi anche
 Il patrimonio degli enti del Terzo settore, comprensivo di eventuali ricavi, rendite, proventi, entrate comunque denominate e' utilizzato per lo svolgimento dell'attivita' statutaria ai fini dell'esclusivo perseguimento di finalita' civiche, solidaristiche e di utilita' sociale.
 
 Ai fini di cui al comma 1, e' vietata la distribuzione, anche indiretta, di utili ed avanzi di gestione, fondi e riserve comunque denominate a fondatori, associati, lavoratori e collaboratori, amministratori ed altri componenti degli organi sociali, anche nel caso di recesso o di ogni altra ipotesi di scioglimento individuale del rapporto associativo.
+
+3.
+                        
+                            
+                                Ai sensi e per gli effetti del comma 2, si considerano in ogni caso distribuzione indiretta di utili: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la corresponsione ad amministratori, sindaci e a chiunque rivesta cariche sociali di compensi individuali non proporzionati all'attivita' svolta, alle responsabilita' assunte e alle specifiche competenze o comunque superiori a quelli previsti in enti che operano nei medesimi o analoghi settori e condizioni; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la corresponsione a lavoratori subordinati o autonomi di retribuzioni o compensi superiori del quaranta per cento rispetto a quelli previsti, per le medesime qualifiche, dai contratti collettivi di cui all'articolo 51 del decreto legislativo 15 giugno 2015, n. 81, salvo comprovate esigenze attinenti alla necessita' di acquisire specifiche competenze ai fini dello svolgimento delle attivita' di interesse generale di cui all'articolo 5, comma 1 ((...)); 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    l'acquisto di beni o servizi per corrispettivi che, senza valide ragioni economiche, siano superiori al loro valore normale; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    le cessioni di beni e le prestazioni di servizi, a condizioni piu' favorevoli di quelle di mercato, a soci, associati o partecipanti, ai fondatori, ai componenti gli organi amministrativi e di controllo, a coloro che a qualsiasi titolo operino per l'organizzazione o ne facciano parte, ai soggetti che effettuano erogazioni liberali a favore dell'organizzazione, ai loro parenti entro il terzo grado ed ai loro affini entro il secondo grado, nonche' alle societa' da questi direttamente o indirettamente controllate o collegate, esclusivamente in ragione della loro qualita', salvo che tali cessioni o prestazioni non costituiscano l'oggetto dell'attivita' di interesse generale di cui all'articolo 5; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    la corresponsione a soggetti diversi dalle banche e dagli intermediari finanziari autorizzati, di interessi passivi, in dipendenza di prestiti di ogni specie, superiori di quattro punti al tasso annuo di riferimento. Il predetto limite puo' essere aggiornato con decreto del Ministro del lavoro e delle politiche sociali, di concerto con il Ministro dell'economia e delle finanze.
 
 ## Art. 9. — Devoluzione del patrimonio in caso di scioglimento
 
@@ -130,6 +355,31 @@ Gli enti del Terzo settore con ricavi, rendite, proventi o entrate comunque deno
 Gli enti del Terzo settore con ricavi, rendite, proventi o entrate comunque denominate superiori a centomila euro annui devono in ogni caso pubblicare annualmente e tenere aggiornati nel proprio sito internet, o nel sito internet della rete associativa di cui all'articolo 41 cui aderiscano, gli eventuali emolumenti, compensi o corrispettivi a qualsiasi titolo attribuiti ai componenti degli organi di amministrazione e controllo, ai dirigenti nonche' agli associati.
 
 ## Art. 15. — Libri sociali obbligatori
+
+1.
+                        
+                            
+                                Oltre le scritture prescritte negli articoli 13, 14 e 17, comma 1, gli enti del Terzo settore devono tenere: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il libro degli associati o aderenti; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il libro delle adunanze e delle deliberazioni delle assemblee, in cui devono essere trascritti anche i verbali redatti per atto pubblico; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il libro delle adunanze e delle deliberazioni dell'organo di amministrazione, dell'organo di controllo, e di eventuali altri organi sociali.
 
 I libri di cui alle lettere a) e b) del comma 1, sono tenuti a cura dell'organo di amministrazione. I libri di cui alla lettera c) del comma 1, sono tenuti a cura dell'organo cui si riferiscono.
 
@@ -254,6 +504,73 @@ Le disposizioni di cui al presente articolo si applicano anche alle fondazioni d
 
 ## Art. 25. — Competenze inderogabili dell'assemblea
 
+1.
+                        
+                            
+                                L'assemblea delle associazioni, riconosciute o non riconosciute, del Terzo settore: 
+ 
+                            
+                            
+                                a)
+                                
+                                    nomina e revoca i componenti degli organi sociali; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    nomina e revoca, quando previsto, il soggetto incaricato della revisione legale dei conti; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    approva il bilancio; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    delibera sulla responsabilita' dei componenti degli organi sociali e promuove azione di responsabilita' nei loro confronti; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    delibera sull'esclusione degli associati, se l'atto costitutivo o lo statuto non attribuiscono la relativa competenza ad altro organo eletto dalla medesima; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    delibera sulle modificazioni dell'atto costitutivo o dello statuto; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    approva l'eventuale regolamento dei lavori assembleari; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    delibera lo scioglimento, la trasformazione, la fusione o la scissione dell'associazione; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    delibera sugli altri oggetti attribuiti dalla legge, dall'atto costitutivo o dallo statuto alla sua competenza.
+
 Gli atti costitutivi o gli statuti delle associazioni che hanno un numero di associati non inferiore a cinquecento possono disciplinare le competenze dell'assemblea anche in deroga a quanto stabilito al comma precedente, nel rispetto dei principi di democraticita', pari opportunita' ed eguaglianza di tutti gli associati e di elettivita' delle cariche sociali.
 
 Lo statuto delle fondazioni del Terzo settore puo' attribuire all'organo assembleare o di indirizzo, comunque denominato, di cui preveda la costituzione la competenza a deliberare su uno o piu' degli oggetti di cui al comma 1, nei limiti in cui cio' sia compatibile con la natura dell'ente quale fondazione e nel rispetto della volonta' del fondatore.
@@ -299,6 +616,31 @@ Il presente articolo non si applica agli enti di cui all'articolo 4, comma 3.
 
 Nelle fondazioni del Terzo settore deve essere nominato un organo di controllo, anche monocratico.
 
+2.
+                        
+                            
+                                Nelle associazioni, riconosciute o non riconosciute, del Terzo settore, la nomina di un organo di controllo, anche monocratico, e' obbligatoria quando siano superati per due esercizi consecutivi due dei seguenti limiti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    totale dell'attivo dello stato patrimoniale: ((150.000 euro)); 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    ricavi, rendite, proventi, entrate comunque denominate: ((300.000 euro)); 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    dipendenti occupati in media durante l'esercizio: ((7 unita')).
+
 L'obbligo di cui al comma 2 cessa se, per due esercizi consecutivi, i predetti limiti non vengono superati.
 
 La nomina dell'organo di controllo e' altresi' obbligatoria quando siano stati costituiti patrimoni destinati ai sensi dell'articolo 10.
@@ -312,6 +654,31 @@ L'organo di controllo esercita inoltre compiti di monitoraggio dell'osservanza d
 I componenti dell'organo di controllo possono in qualsiasi momento procedere, anche individualmente, ad atti di ispezione e di controllo, e a tal fine, possono chiedere agli amministratori notizie sull'andamento delle operazioni sociali o su determinati affari.
 
 ## Art. 31. — Revisione legale dei conti
+
+1.
+                        
+                            
+                                Salvo quanto previsto dall'articolo 30, comma 6, le associazioni, riconosciute o non riconosciute, e le fondazioni del Terzo settore devono nominare un revisore legale dei conti o una societa' di revisione legale iscritti nell'apposito registro quando superino per due esercizi consecutivi due dei seguenti limiti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    totale dell'attivo dello stato patrimoniale: ((1.500.000 euro)); 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    ricavi, rendite, proventi, entrate comunque denominate: ((3 milioni di euro)); 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    dipendenti occupati in media durante l'esercizio: ((20 unita')).
 
 L'obbligo di cui al comma 1 cessa se, per due esercizi consecutivi, i predetti limiti non vengono superati.
 
@@ -400,9 +767,45 @@ Le cooperative sociali e i loro consorzi sono disciplinati dalla legge 8 novembr
 
 ## Art. 41. — Reti associative
 
+1.
+                        
+                            
+                                Le reti associative sono enti del Terzo settore costituiti in forma di associazione, riconosciuta o non riconosciuta, che: 
+ 
+                            
+                            
+                                a)
+                                
+                                    associano, anche indirettamente attraverso gli enti ad esse aderenti, un numero non inferiore a 100 enti del Terzo settore, o, in alternativa, almeno 20 fondazioni del Terzo settore, le cui sedi legali o operative siano presenti in almeno cinque regioni o province autonome; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    svolgono, anche attraverso l'utilizzo di strumenti informativi idonei a garantire conoscibilita' e trasparenza in favore del pubblico e dei propri associati, attivita' di coordinamento, tutela, rappresentanza, promozione o supporto degli enti del Terzo settore loro associati e delle loro attivita' di interesse generale, anche allo scopo di promuoverne ed accrescerne la rappresentativita' presso i soggetti istituzionali.
+
 Sono reti associative nazionali le reti associative di cui al comma 1 che associano, anche indirettamente attraverso gli enti ad esse aderenti, un numero non inferiore a 500 enti del Terzo settore o, in alternativa, almeno 100 fondazioni del Terzo settore, le cui sedi legali o operative siano presenti in almeno dieci regioni o province autonome. Le associazioni del terzo settore formate da un numero non inferiore a 100 mila persone fisiche associate e con sedi in almeno 10 regioni o provincie autonome sono equiparate alle reti associative nazionali ai fini di cui all'articolo 59, comma 1, lettera b).
 
 ((2-bis. Se, successivamente all'iscrizione nel Registro unico nazionale del Terzo settore, il numero degli associati di una rete associativa diviene inferiore a quello stabilito nei commi 1 e 2 o, con riferimento alle reti di cui al comma 6, a quello stabilito nell'articolo 33, comma 3, del codice della protezione civile, di cui al decreto legislativo 2 gennaio 2018, n. 1, esso deve essere reintegrato entro un anno, trascorso il quale la rete associativa e' cancellata dalla sezione del registro di cui all'articolo 46, comma 1, lettera e), del presente codice))
+
+3.
+                        
+                            
+                                Le reti associative nazionali possono esercitare, oltre alle proprie attivita' statutarie, anche le seguenti attivita': 
+ 
+                            
+                            
+                                a)
+                                
+                                    monitoraggio dell'attivita' degli enti ad esse associati, eventualmente anche con riguardo al suo impatto sociale, e predisposizione di una relazione annuale al Consiglio nazionale del Terzo settore; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    promozione e sviluppo delle attivita' di controllo, anche sotto forma di autocontrollo e di assistenza tecnica nei confronti degli enti associati.
 
 Le reti associative possono promuovere partenariati e protocolli di intesa con le pubbliche amministrazioni di cui all'articolo 1, comma 2, del decreto legislativo 30 marzo 2001, n. 165, e con soggetti privati.
 
@@ -444,6 +847,59 @@ Il registro e' pubblico ed e' reso accessibile a tutti gli interessati in modali
 
 ## Art. 46. — Struttura del Registro
 
+1.
+                        
+                            
+                                Il Registro unico nazionale del Terzo settore si compone delle seguenti sezioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    Organizzazioni di volontariato; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    Associazioni di promozione sociale; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    Enti filantropici; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    Imprese sociali, incluse le cooperative sociali; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    Reti associative; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    Societa' di mutuo soccorso; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    Altri enti del Terzo settore.
+
 Ad eccezione delle reti associative, nessun ente puo' essere contemporaneamente iscritto in due o piu' sezioni.
 
 Il Ministro del lavoro e delle politiche sociali puo', con decreto di natura non regolamentare, sentita la Conferenza Unificata, istituire sottosezioni o nuove sezioni o modificare le sezioni esistenti.
@@ -453,6 +909,31 @@ Il Ministro del lavoro e delle politiche sociali puo', con decreto di natura non
 Salvo quanto previsto dall'articolo 22, la domanda di iscrizione nel Registro unico nazionale del Terzo settore e' presentata dal rappresentante legale dell'ente o della rete associativa cui l'ente eventualmente aderisca ((, o da un suo delegato,)) all'Ufficio del Registro unico nazionale della Regione o della Provincia autonoma in cui l'ente ha la sede legale, depositando l'atto costitutivo, lo statuto ed eventuali allegati, ed indicando la sezione del registro nella quale l'ente chiede l'iscrizione. Per le reti associative la domanda di iscrizione nella sezione di cui all'articolo 46 comma 1, lettera e) e' presentata all'Ufficio statale del Registro unico nazionale.
 
 L'ufficio competente di cui al comma 1 verifica la sussistenza delle condizioni previste dal presente Codice per la costituzione dell'ente quale ente del Terzo settore, nonche' per la sua iscrizione nella sezione richiesta.
+
+3.
+                        
+                            
+                                L'ufficio del Registro, entro sessanta giorni dalla presentazione della domanda, puo': 
+ 
+                            
+                            
+                                a)
+                                
+                                    iscrivere l'ente; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    rifiutare l'iscrizione con provvedimento motivato; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    invitare l'ente a completare o rettificare la domanda ovvero ad integrare la documentazione.
 
 Decorsi sessanta giorni dalla presentazione della domanda o dalla presentazione della domanda completata o rettificata ovvero della documentazione integrativa ai sensi del comma 3, lettera c), la domanda di iscrizione s'intende accolta.
 
@@ -562,9 +1043,121 @@ Presso il Ministero del lavoro e delle politiche sociali e' istituito il Consigl
 
 ## Art. 59. — Composizione
 
+1.
+                        
+                            
+                                Il Consiglio nazionale del Terzo settore e' composto da: 
+ 
+                            
+                            
+                                a)
+                                
+                                    
+                                        ((dieci)) rappresentanti designati dall'associazione di enti del Terzo settore piu' rappresentativa sul territorio nazionale, in ragione del numero di enti del Terzo settore ad essa aderenti, tra persone che siano espressione delle diverse tipologie organizzative del Terzo settore; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    
+                                        ((quindici)) rappresentanti di reti associative, di cui otto di reti associative nazionali, che siano espressione delle diverse tipologie organizzative del Terzo settore; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    cinque esperti di comprovata esperienza professionale in materia di Terzo settore, che abbiano svolto attivita' in organismi ed enti pubblici o privati o aziende pubbliche e private ovvero che abbiano conseguito una particolare specializzazione professionale, culturale e scientifica desumibile dalla formazione universitaria e post-universitaria; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    tre rappresentanti delle autonomie regionali e locali, di cui due designati dalla Conferenza Stato-Regioni di cui al decreto legislativo 28 agosto 1997, n. 281, ed uno designato dall'Associazione nazionale dei comuni italiani (ANCI). 
+
+                                
+                            
+                            
+                                d-bis)
+                                
+                                    un rappresentante designato dall'associazione dei CSV piu' rappresentativa sul territorio nazionale in ragione del numero di CSV ad essa aderenti.
+
+2.
+                        
+                            
+                                Del Consiglio nazionale del Terzo settore fanno altresi' parte, senza diritto di voto: 
+ 
+                            
+                            
+                                a)
+                                
+                                    un rappresentante designato dal presidente dell'ISTAT con comprovata esperienza in materia di Terzo settore; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    un rappresentante designato dal presidente dell'INAPP con comprovata esperienza in materia di Terzo settore; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il direttore generale del Terzo settore e della responsabilita' sociale delle imprese del Ministero del lavoro e delle politiche sociali.
+
 I componenti del Consiglio nazionale del Terzo settore sono nominati con decreto del Ministro del lavoro e delle politiche sociali e rimangono in carica per tre anni. Per ogni componente effettivo del Consiglio e' nominato un supplente. I componenti del Consiglio aventi diritto di voto non possono essere nominati per piu' di due mandati consecutivi. La partecipazione al Consiglio dei componenti effettivi e supplenti e' gratuita e non da' diritto alla corresponsione di alcun compenso, indennita', rimborso od emolumento comunque denominato.
 
 ## Art. 60. — Attribuzioni
+
+1.
+                        
+                            
+                                Il Consiglio svolge i seguenti compiti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    esprime pareri non vincolanti, ove richiesto, sugli schemi di atti normativi che riguardano il Terzo settore; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    esprime parere non vincolante, ove richiesto, sulle modalita' di utilizzo delle risorse finanziarie di cui agli articoli 72 e seguenti; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    esprime parere obbligatorio non vincolante sulle linee guida in materia di bilancio sociale e di valutazione di impatto sociale dell'attivita' svolta dagli enti del Terzo settore ((nonche' sulla definizione dei modelli di bilancio degli enti del Terzo settore;)); 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    designa un componente nell'organo di governo della Fondazione Italia Sociale; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    e' coinvolto nelle funzioni di vigilanza, monitoraggio e controllo, con il supporto delle reti associative nazionali; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    designa i rappresentanti degli enti del Terzo settore presso il CNEL ai sensi della legge 30 dicembre 1986, n. 936.
 
 Per lo svolgimento dei compiti indicati al comma 1, il Consiglio nazionale del Terzo settore si avvale delle risorse umane e strumentali del Ministero del lavoro e delle politiche sociali.
 
@@ -573,6 +1166,123 @@ Le modalita' di funzionamento del Consiglio nazionale del Terzo settore sono fis
 ## - - Capo II   Dei centri di servizio per il volontariato
 
 ## Art. 61. — Accreditamento dei Centri di servizio per il volontariato
+
+1.
+                        
+                            
+                                Possono essere accreditati come centri di servizio per il volontariato, di seguito CSV, gli enti costituiti in forma di associazione riconosciuta del Terzo settore da organizzazioni di volontariato e da altri enti del Terzo settore, esclusi quelli costituiti in una delle forme del libro V del codice civile, ed il cui statuto preveda: 
+ 
+                            
+                            
+                                a)
+                                
+                                    lo svolgimento di attivita' di supporto tecnico, formativo ed informativo al fine di promuovere e rafforzare la presenza ed il ruolo dei volontari negli enti del Terzo settore; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il divieto di erogare direttamente in denaro le risorse ad essi provenienti dal fondo unico nazionale, di seguito FUN nonche' di trasferire a titolo gratuito beni mobili o immobili acquisiti mediante le medesime risorse; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    l'obbligo di adottare una contabilita' separata per le risorse provenienti da fonte diversa dal FUN; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    l'obbligo di ammettere come associati le organizzazioni di volontariato e gli altri enti del Terzo settore, esclusi quelli costituiti in una delle forme del libro V del codice civile, che ne facciano richiesta, fatta salva la possibilita' di subordinare il mantenimento dello status di associato al rispetto dei principi, dei valori e delle norme statutarie; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    il diritto di tutti gli associati di votare, direttamente o indirettamente, in assemblea, ed in particolare di eleggere democraticamente i componenti degli organi di amministrazione e di controllo interno dell'ente, salvo quanto previsto dalle lettere f), g), ed h); 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    l'attribuzione della maggioranza di voti in ciascuna assemblea alle organizzazioni di volontariato; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    misure dirette ad evitare il realizzarsi di situazioni di controllo dell'ente da parte di singoli associati o di gruppi minoritari di associati; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    misure destinate a favorire la partecipazione attiva e l'effettivo coinvolgimento di tutti gli associati, sia di piccola che di grande dimensione, nella gestione del CSV; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    specifici requisiti di onorabilita', professionalita', incompatibilita' ed indipendenza per coloro che assumono cariche sociali, ed in particolare il divieto di ricoprire l'incarico di presidente dell'organo di amministrazione per: 
+ 1) coloro che hanno incarichi di governo nazionale, di giunta e consiglio regionale, di associazioni di comuni e consorzi intercomunali, e incarichi di giunta e consiglio comunale, circoscrizionale, di quartiere e simili, comunque denominati, purche' con popolazione superiore a 15.000 abitanti; 
+ 2) i consiglieri di amministrazione e il presidente delle aziende speciali e delle istituzioni di cui all'articolo 114 del decreto legislativo 18 agosto 2000, n. 267; 
+ 3) i parlamentari nazionali ed europei; 
+ 4) coloro che ricoprono ruoli di livello nazionale o locale in organi dirigenti di partiti politici; 
+
+                                
+                            
+                            
+                                j)
+                                
+                                    un numero massimo di mandati consecutivi per coloro che ricoprono la carica di componente dell'organo di amministrazione, nonche' il divieto per la stessa persona di ricoprire la carica di presidente dell'organo di amministrazione per piu' di nove anni; 
+
+                                
+                            
+                            
+                                k)
+                                
+                                    il diritto dell'organismo territoriale di controllo, di seguito OTC competente di nominare, qualora l'ente fosse accreditato come CSV, un componente dell'organo di controllo interno del CSV con funzioni di presidente e dei componenti di tale organo di assistere alle riunioni dell'organo di amministrazione del CSV; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    l'obbligo di redigere e rendere pubblico il bilancio sociale; 
+
+                                
+                            
+                            
+                                m)
+                                
+                                    misure dirette a favorire la trasparenza e la pubblicita' dei propri atti.
+
+2.
+                        
+                            
+                                L'organismo nazionale di controllo, di seguito ONC stabilisce il numero di enti accreditabili come CSV nel territorio nazionale, assicurando comunque la presenza di almeno un CSV per ogni regione e provincia autonoma ed evitando sovrapposizione di competenze territoriali tra i CSV da accreditarsi. A tal fine, e fatto salvo quanto previsto dal comma 3, l'ONC accredita: 
+ 
+                            
+                            
+                                a)
+                                
+                                    un CSV per ogni citta' metropolitana e per ogni provincia con territorio interamente montano e confinante con Paesi stranieri ai sensi della legge 7 aprile 2014, n. 56; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    un CSV per ogni milione di abitanti non residenti nell'ambito territoriale delle citta' metropolitane e delle province di cui alla lettera a).
 
 I criteri di cui alle lettere a) e b) del comma 2 possono essere derogati, con atto motivato dell'ONC, in presenza di specifiche esigenze territoriali del volontariato o di contenimento dei costi.
 In ogni caso, il numero massimo di CSV accreditabili, in ciascuna regione o provincia autonoma, non puo' essere superiore a quello dei CSV istituiti alla data di entrata in vigore del presente decreto sulla base della previgente normativa.
@@ -611,6 +1321,98 @@ I CSV possono avvalersi di risorse diverse da quelle del FUN, che possono essere
 
 I CSV utilizzano le risorse del FUN loro conferite al fine di organizzare, gestire ed erogare servizi di supporto tecnico, formativo ed informativo per promuovere e rafforzare la presenza ed il ruolo dei volontari negli enti del Terzo settore, senza distinzione tra enti associati ed enti non associati, e con particolare riguardo alle organizzazioni di volontariato, nel rispetto e in coerenza con gli indirizzi strategici generali definiti dall'ONC ai sensi del articolo 64, comma 5, lettera d).
 
+2.
+                        
+                            
+                                Ai fini di cui al comma 1, i CSV possono svolgere attivita' varie riconducibili alle seguenti tipologie di servizi: 
+ 
+                            
+                            
+                                a)
+                                
+                                    servizi di promozione, orientamento e animazione territoriale, finalizzati a dare visibilita' ai valori del volontariato e all'impatto sociale dell'azione volontaria nella comunita' locale, a promuovere la crescita della cultura della solidarieta' e della cittadinanza attiva in particolare tra i giovani e nelle scuole, istituti di istruzione, di formazione ed universita', facilitando l'incontro degli enti di Terzo settore con i cittadini interessati a svolgere attivita' di volontariato, nonche' con gli enti di natura pubblica e privata interessati a promuovere il volontariato; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    servizi di formazione, finalizzati a qualificare i volontari o coloro che aspirino ad esserlo, acquisendo maggiore consapevolezza dell'identita' e del ruolo del volontario e maggiori competenze trasversali, progettuali, organizzative a fronte dei bisogni della propria organizzazione e della comunita' di riferimento; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    servizi di consulenza, assistenza qualificata ed accompagnamento, finalizzati a rafforzare competenze e tutele dei volontari negli ambiti giuridico, fiscale, assicurativo, del lavoro, progettuale, gestionale, organizzativo, della rendicontazione economico-sociale, della ricerca fondi, dell'accesso al credito, nonche' strumenti per il riconoscimento e la valorizzazione delle competenze acquisite dai volontari medesimi; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    servizi di informazione e comunicazione, finalizzati a incrementare la qualita' e la quantita' di informazioni utili al volontariato, a supportare la promozione delle iniziative di volontariato, a sostenere il lavoro di rete degli enti del Terzo settore tra loro e con gli altri soggetti della comunita' locale per la cura dei beni comuni, ad accreditare il volontariato come interlocutore autorevole e competente; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    servizi di ricerca e documentazione, finalizzati a mettere a disposizione banche dati e conoscenze sul mondo del volontariato e del Terzo settore in ambito nazionale, comunitario e internazionale; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    servizi di supporto tecnico-logistico, finalizzati a facilitare o promuovere l'operativita' dei volontari, attraverso la messa a disposizione temporanea di spazi, strumenti ed attrezzature.
+
+3.
+                        
+                            
+                                I servizi organizzati mediante le risorse del FUN sono erogati nel rispetto dei seguenti principi: 
+ 
+                            
+                            
+                                a)
+                                
+                                    principio di qualita': i servizi devono essere della migliore qualita' possibile considerate le risorse disponibili; i CSV applicano sistemi di rilevazione e controllo della qualita', anche attraverso il coinvolgimento dei destinatari dei servizi; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    principio di economicita': i servizi devono essere organizzati, gestiti ed erogati al minor costo possibile in relazione al principio di qualita'; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    principio di territorialita' e di prossimita': i servizi devono essere erogati da ciascun CSV prevalentemente in favore di enti aventi sede legale ed operativita' principale nel territorio di riferimento, e devono comunque essere organizzati in modo tale da ridurre il piu' possibile la distanza tra fornitori e destinatari, anche grazie all'uso di tecnologie della comunicazione; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    principio di universalita', non discriminazione e pari opportunita' di accesso: i servizi devono essere organizzati in modo tale da raggiungere il maggior numero possibile di beneficiari; tutti gli aventi diritto devono essere posti effettivamente in grado di usufruirne, anche in relazione al principio di pubblicita' e trasparenza; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    principio di integrazione: i CSV, soprattutto quelli che operano nella medesima regione, sono tenuti a cooperare tra loro allo scopo di perseguire virtuose sinergie ed al fine di fornire servizi economicamente vantaggiosi; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    principio di pubblicita' e trasparenza: i CSV rendono nota l'offerta dei servizi alla platea dei propri destinatari, anche mediante modalita' informatiche che ne assicurino la maggiore e migliore diffusione; essi inoltre adottano una carta dei servizi mediante la quale rendono trasparenti le caratteristiche e le modalita' di erogazione di ciascun servizio, nonche' i criteri di accesso ed eventualmente di selezione dei beneficiari.
+
 In caso di scioglimento dell'ente accreditato come CSV o di revoca dell'accreditamento, le risorse del FUN ad esso assegnate ma non ancora utilizzate devono essere versate entro centoventi giorni dallo scioglimento o dalla revoca all'ONC, che le destina all'ente accreditato come CSV in sostituzione del precedente, o in mancanza, ad altri CSV della medesima regione o, in mancanza, alla riserva con finalita' di stabilizzazione del FUN.
 
 In caso di scioglimento dell'ente accreditato come CSV o di revoca dell'accreditamento, eventuali beni mobili o immobili acquisiti dall'ente mediante le risorse del FUN mantengono il vincolo di destinazione e devono essere trasferiti dall'ente secondo le indicazioni provenienti dall'ONC.
@@ -619,9 +1421,164 @@ In caso di scioglimento dell'ente accreditato come CSV o di revoca dell'accredit
 
 L'ONC e' una fondazione con personalita' giuridica di diritto privato, costituita con decreto del Ministro del lavoro e delle politiche sociali, al fine di svolgere, per finalita' di interesse generale, funzioni di indirizzo e di controllo dei CSV. Essa gode di piena autonomia statutaria e gestionale nel rispetto delle norme del presente decreto, del codice civile e dalle disposizioni di attuazione del medesimo. Le funzioni di controllo e di vigilanza sull'ONC previste dall'articolo 25 del codice civile sono esercitate dal Ministero del lavoro e delle politiche sociali.
 
+2.
+                        
+                            
+                                Il decreto di cui al comma 1 provvede alla nomina dei componenti dell'organo di amministrazione dell'ONC, che deve essere formato da: 
+ 
+                            
+                            
+                                a)
+                                
+                                    sette membri, di cui uno con funzioni di Presidente, designati dall'associazione delle FOB piu' rappresentativa sul territorio nazionale in ragione del numero di FOB ad essa aderenti; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    due membri designati dall'associazione dei CSV piu' rappresentativa sul territorio nazionale in ragione del numero di CSV ad essa aderenti; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    due membri, di cui uno espressione delle organizzazioni di volontariato, designati dall'associazione degli enti del Terzo settore piu' rappresentativa sul territorio nazionale in ragione del numero di enti del Terzo settore ad essa aderenti; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    un membro designato dal Ministro del lavoro e delle politiche sociali; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    un membro designato dalla Conferenza Stato-Regioni.
+
 I componenti dell'organo di amministrazione sono nominati con decreto del Ministro del lavoro e delle politiche sociali, durano in carica tre anni, ed in ogni caso sino al rinnovo dell'organo medesimo. Per ogni componente effettivo e' designato un supplente. I componenti non possono essere nominati per piu' di tre mandati consecutivi. Per la partecipazione all'ONC non possono essere corrisposti a favore dei componenti emolumenti gravanti sul FUN o sul bilancio dello Stato.
 
 Come suo primo atto, l'organo di amministrazione adotta lo statuto dell'ONC col voto favorevole di almeno dodici dei suoi componenti. Eventuali modifiche statutarie devono essere deliberate dall'organo di amministrazione con la medesima maggioranza di voti.
+
+5.
+                        
+                            
+                                L'ONC svolge le seguenti funzioni in conformita' alle norme, ai principi e agli obiettivi del presente decreto e alle disposizioni del proprio statuto: 
+ 
+                            
+                            
+                                a)
+                                
+                                    amministra il FUN e riceve i contributi delle FOB secondo modalita' da essa individuate; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    determina i contributi integrativi dovuti dalle FOB ai sensi dell'articolo 62, comma 11; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    stabilisce il numero di enti accreditabili come CSV nel territorio nazionale nel rispetto di quanto previsto dall'articolo 61, commi 2 e 3; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    definisce triennalmente, nel rispetto dei principi di sussidiarieta' e di autonomia ed indipendenza delle organizzazioni di volontariato e di tutti gli altri enti del Terzo settore, gli indirizzi strategici generali da perseguirsi attraverso le risorse del FUN; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    determina l'ammontare del finanziamento stabile triennale dei CSV e ne stabilisce la ripartizione annuale e territoriale, su base regionale, secondo quanto previsto dall'articolo 62, comma 7; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    versa annualmente ai CSV e all'associazione dei CSV piu' rappresentativa sul territorio nazionale in ragione del numero di CSV ad essa aderenti le somme loro assegnate; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    sottopone a verifica la legittimita' e la correttezza dell'attivita' svolta dall'associazione dei CSV di cui all'articolo 62, comma 7, attraverso le risorse del FUN ad essa assegnate dall'ONC ai sensi dell'articolo medesimo; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    determina i costi del suo funzionamento, inclusi i costi di funzionamento degli OTC e i costi relativi ai componenti degli organi di controllo interno dei CSV, nominati ai sensi dell'articolo 65, ((comma 7)), lettera e); 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    individua criteri obiettivi ed imparziali e procedure pubbliche e trasparenti di accreditamento dei CSV, tenendo conto, tra gli altri elementi, della rappresentativita' degli enti richiedenti, espressa anche dal numero di enti associati, della loro esperienza nello svolgimento dei servizi di cui all'articolo 63, e della competenza delle persone che ricoprono le cariche sociali; 
+
+                                
+                            
+                            
+                                j)
+                                
+                                    accredita i CSV, di cui tiene un elenco nazionale che rende pubblico con le modalita' piu' appropriate; 
+
+                                
+                            
+                            
+                                k)
+                                
+                                    definisce gli indirizzi generali, i criteri e le modalita' operative cui devono attenersi gli OTC nell'esercizio delle proprie funzioni, e ne approva il regolamento di funzionamento; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    predispone modelli di previsione e rendicontazione che i CSV sono tenuti ad osservare nella gestione delle risorse del FUN; 
+
+                                
+                            
+                            
+                                m)
+                                
+                                    controlla l'operato degli OTC e ne autorizza spese non preventivate; 
+
+                                
+                            
+                            
+                                n)
+                                
+                                    assume i provvedimenti sanzionatori nei confronti dei CSV, su propria iniziativa o su iniziativa degli OTC; 
+
+                                
+                            
+                            
+                                o)
+                                
+                                    promuove l'adozione da parte dei CSV di strumenti di verifica della qualita' dei servizi erogati dai CSV medesimi attraverso le risorse del FUN, e ne valuta gli esiti; 
+
+                                
+                            
+                            
+                                p)
+                                
+                                    predispone una relazione annuale sulla proprie attivita' e sull'attivita' e lo stato dei CSV, che invia al Ministero del lavoro e delle politiche sociali entro il 31 maggio di ogni anno e rende pubblica attraverso modalita' telematiche.
 
 L'ONC non puo' finanziare iniziative o svolgere attivita' che non siano direttamente connesse allo svolgimento delle funzioni di cui al comma 5.
 
@@ -646,9 +1603,93 @@ Sono istituiti i seguenti OTC:
  Ambito 14: Sicilia ((; 
  Ambito 15: Friuli Venezia Giulia)).
 
+3.
+                        
+                            
+                                Gli OTC di cui agli ambiti 1, 3, ((4,)) 6, 7, 11, ((13, 14 e 15)) sono composti da: 
+ 
+                            
+                            
+                                a)
+                                
+                                    quattro membri, di cui uno con funzioni di Presidente, designati dalle FOB; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    un membro, espressione delle organizzazioni di volontariato del territorio, designato dall'associazione degli enti del Terzo settore piu' rappresentativa sul territorio di riferimento in ragione del numero di enti del Terzo settore ad essa aderenti, aventi sede legale o operativa nel territorio di riferimento; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    un membro designato dalla Associazione nazionale dei comuni italiani (ANCI); 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    un membro designato dalla Regione. 
+ 4.Gli OTC di cui agli ambiti 2, ((...)), 5, 8, 9, 10 e 12 sono composti da: 
+ a) sette membri, di cui uno con funzioni di Presidente, designati dalle FOB; 
+ b) due membri, ((...)) espressione delle organizzazioni di volontariato del territorio, designati ((uno per ciascun territorio di riferimento,)) dall'associazione degli enti del Terzo settore piu' rappresentativa sul territorio di riferimento in ragione del numero di enti del Terzo settore ad essa aderenti, aventi sede legale o operativa nei territori di riferimento; 
+ c) due membri designati dalla Associazione nazionale dei comuni italiani (ANCI); 
+ d) due membri designati, uno per ciascun territorio di riferimento, dalle Regioni o dalle Province autonome. 
+ 5. I componenti dell'OTC sono nominati con decreto del Ministro del lavoro e delle politiche sociali, durano in carica tre anni, ed in ogni caso sino al loro rinnovo, e non possono essere nominati per piu' di tre mandati consecutivi. Per ogni componente effettivo e' designato un supplente. Per la partecipazione all'OTC non possono essere corrisposti emolumenti a favore dei componenti, gravanti sul FUN o sul bilancio dello Stato. 
+ 6. Come suo primo atto, ciascun OTC adotta un proprio regolamento di funzionamento e lo invia all'ONC per la sua approvazione. 
+ 7. Gli OTC svolgono le seguenti funzioni in conformita' alle norme, ai principi e agli obiettivi del presente decreto, alle disposizioni dello statuto e alle direttive dell'ONC, e al proprio regolamento che dovra' disciplinarne nel dettaglio le modalita' di esercizio: 
+ a) ricevono le domande e istruiscono le pratiche di accreditamento dei CSV, in particolare verificando la sussistenza dei requisiti di accreditamento; 
+ b) verificano periodicamente, con cadenza almeno biennale, il mantenimento dei requisiti di accreditamento come CSV; sottopongono altresi' a verifica i CSV quando ne facciano richiesta formale motivata il Presidente dell'organo di controllo interno del CSV o un numero non inferiore al 30 per cento di enti associati o un numero di enti non associati pari ad almeno il 5 per cento del totale degli enti iscritti nelle pertinenti sezioni regionali del Registro unico nazionale del Terzo settore; 
+ c) ripartiscono tra i CSV istituiti in ciascuna regione il finanziamento deliberato dall'ONC su base regionale ed ammettono a finanziamento la programmazione dei CSV; 
+ d) verificano la legittimita' e la correttezza dell'attivita' dei CSV in relazione all'uso delle risorse del FUN, nonche' la loro generale adeguatezza organizzativa, amministrativa e contabile, tenendo conto delle disposizioni del presente decreto e degli indirizzi generali strategici fissati dall'ONC; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    nominano, tra i revisori legali iscritti nell'apposito registro e con specifica competenza in materia di Terzo settore, un componente dell'organo di controllo interno del CSV con funzioni di presidente e diritto di assistere alle riunioni dell'organo di amministrazione del CSV; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    propongono all'ONC l'adozione di provvedimenti sanzionatori nei confronti dei CSV; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    predispongono una relazione annuale sulla propria attivita', che inviano entro il 30 aprile di ogni anno all'ONC e rendono pubblica mediante modalita' telematiche. 
+ 8. Gli OTC non possono finanziare iniziative o svolgere attivita' che non siano direttamente connesse allo svolgimento delle funzioni di cui al comma 7.
+
 ## Art. 66. — Sanzioni e ricorsi
 
 In presenza di irregolarita', gli OTC invitano i CSV ad adottare i provvedimenti e le misure necessarie a sanarle.
+
+2.
+                        
+                            
+                                In presenza di irregolarita' non sanabili o non sanate, gli OTC denunciano l'irregolarita' all'ONC affinche' adotti i provvedimenti necessari. L'ONC, previo accertamento dei fatti e sentito in contraddittorio il CSV interessato, adotta i seguenti provvedimenti a seconda della gravita' del caso: 
+ 
+                            
+                            
+                                a)
+                                
+                                    diffida formale con eventuale sospensione dell'accreditamento nelle more della sanatoria dell'irregolarita'; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    revoca dell'accreditamento, esperita dopo aver sollecitato, senza ottenere riscontro, il rinnovo dei componenti dell'organo di amministrazione del CSV.
 
 Contro i provvedimenti dell'ONC e' ammesso ricorso dinanzi al giudice amministrativo.
 
@@ -718,6 +1759,67 @@ Per l'anno 2017, la dotazione della seconda sezione del Fondo di cui all'articol
 
 ## Art. 73. — Altre risorse finanziarie specificamente destinate 
  al sostegno degli enti del Terzo settore
+
+1.
+                        
+                            
+                                A decorrere dall'anno 2017, le risorse finanziarie del Fondo nazionale per le politiche sociali, di cui all'articolo 20, comma 8, della legge 8 novembre 2000, n. 328, destinate alla copertura degli oneri relativi agli interventi in materia di Terzo settore di competenza del Ministero del lavoro e delle politiche sociali, di cui alle seguenti disposizioni, sono trasferite, per le medesime finalita', su un apposito capitolo di spesa iscritto nello stato di previsione del Ministero del lavoro e delle politiche sociali, nel programma «Terzo settore (associazionismo, volontariato, Onlus e formazioni sociali) e responsabilita' sociale delle imprese e delle organizzazioni», nell'ambito della missione «Diritti sociali, politiche sociali e famiglia»: 
+ 
+                            
+                            
+                                a)
+                                
+                                    
+                                        articolo 12, comma 2 della legge 11 agosto 1991, n. 266, per un ammontare di 2 milioni di euro; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    
+                                        articolo 1 della legge 15 dicembre 1998, n. 438, per un ammontare di 5,16 milioni di euro; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    
+                                        articolo 96, comma 1, della legge 21 novembre 2000, n. 342, per un ammontare di 7,75 milioni di euro; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    
+                                        articolo 13 della legge 7 dicembre 2000, n. 383, per un ammontare di 7,050 milioni di euro;
+
+2.
+                        
+                            
+                                Con uno o piu' atti di indirizzo del Ministro del lavoro e delle politiche sociali sono determinati annualmente, nei limiti delle risorse complessivamente disponibili, gli obiettivi generali, le aree prioritarie di intervento, le linee di attivita' finanziabili e la destinazione delle risorse di cui al comma 1 per le seguenti finalita': 
+ 
+                            
+                            
+                                a)
+                                
+                                    sostegno alle attivita' delle organizzazioni di volontariato; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    sostegno alle attivita' delle associazioni di promozione sociale; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    contributi per l'acquisto di autoambulanze, autoveicoli per attivita' sanitarie e beni strumentali.
 
 In attuazione degli atti di indirizzo di cui al comma 2, il Ministero del lavoro e delle politiche sociali individua, mediante procedure poste in essere nel rispetto dei principi della legge 7 agosto 1990, n. 241, i soggetti beneficiari delle risorse, che devono essere iscritti nel Registro unico nazionale del Terzo settore.
 
@@ -805,6 +1907,49 @@ Le attivita' di interesse generale di cui all'articolo 5, ivi incluse quelle acc
 
 Le attivita' di cui al comma 2 si considerano non commerciali qualora i ricavi non superino di oltre il ((6 per cento)) i relativi costi per ciascun periodo d'imposta ((e per non oltre tre periodi d'imposta consecutivi)).
 
+3.
+                        
+                            
+                                Sono altresi' considerate non commerciali: 
+ 
+                            
+                            
+                                a)
+                                
+                                    le attivita' di cui all'articolo 5, comma 1, lettera h), se svolte direttamente dagli enti di cui al comma 1 la cui finalita' principale consiste nello svolgere attivita' di ricerca scientifica di particolare interesse sociale e purche' tutti gli utili siano interamente reinvestiti nelle attivita' di ricerca e nella diffusione gratuita dei loro risultati e non vi sia alcun accesso preferenziale da parte di altri soggetti privati alle capacita' di ricerca dell'ente medesimo nonche' ai risultati prodotti; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le attivita' di cui all'articolo 5, comma 1, lettera h), affidate dagli enti di cui al comma 1 ad universita' e altri organismi di ricerca che la svolgono direttamente in ambiti e secondo modalita' definite dal decreto del Presidente della Repubblica 20 marzo 2003, n. 135. 
+
+                                
+                            
+                            
+                                b-bis)
+                                
+                                    le attivita' di cui all'articolo 5, comma 1, lettere a), b) e c), se svolte da fondazioni delle ex istituzioni pubbliche di assistenza e beneficenza, a condizione che gli utili siano interamente reinvestiti nelle attivita' di natura sanitaria o socio-sanitaria e che non sia deliberato alcun compenso a favore degli organi amministrativi.
+
+4.
+                        
+                            
+                                Non concorrono, in ogni caso, alla formazione del reddito degli enti del Terzo settore ((di natura non commerciale ai sensi del comma 5)): 
+ 
+                            
+                            
+                                a)
+                                
+                                    i fondi pervenuti a seguito di raccolte pubbliche effettuate occasionalmente anche mediante offerte di beni di modico valore o di servizi ai sovventori, in concomitanza di celebrazioni, ricorrenze o campagne di sensibilizzazione; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    i contributi e gli apporti erogati da parte delle amministrazioni pubbliche di cui all'articolo 1, comma 2, del decreto legislativo 30 marzo 2001, n. 165 per lo svolgimento, anche convenzionato o in regime di accreditamento di cui all'articolo 9, comma 1, lettera g), del decreto legislativo 7 dicembre 1993, n. 517, delle attivita' di cui ai commi 2 e 3 del presente articolo.
+
 Si considerano non commerciali gli enti del Terzo settore di cui al comma 1 che svolgono in via esclusiva o prevalente le attivita' di cui all'articolo 5 in conformita' ai criteri indicati nei commi 2 e 3 del presente articolo. Indipendentemente dalle previsioni statutarie gli enti del Terzo settore assumono fiscalmente la qualifica di enti commerciali qualora i proventi delle attivita' di cui all'articolo 5, svolte in forma d'impresa non in conformita' ai criteri indicati nei commi 2 e 3 del presente articolo, nonche' le attivita' di cui all'articolo 6, fatta eccezione per le attivita' di sponsorizzazione svolte nel rispetto dei criteri di cui al decreto previsto all'articolo 6, superano, nel medesimo periodo d'imposta, le entrate derivanti da attivita' non commerciali.
 
 Si considerano entrate derivanti da attivita' non commerciali i contributi, le sovvenzioni, le liberalita', le quote associative dell'ente ((, i proventi non commerciali di cui agli articoli 84 e 85)) e ogni altra entrata assimilabile alle precedenti, ivi compresi i proventi e le entrate considerate non commerciali ai sensi dei commi 2, 3 e 4 tenuto conto altresi' del valore normale delle cessioni o prestazioni afferenti le attivita' svolte con modalita' non commerciali.
@@ -820,6 +1965,27 @@ Detti corrispettivi concorrono alla formazione del reddito complessivo come comp
 
 ((In caso di passaggio di beni relativi all'impresa dall'attivita' commerciale a quella non commerciale, per effetto del mutamento della qualificazione fiscale di tale attivita' in applicazione delle disposizioni del presente decreto, gli enti del Terzo settore possono optare per la non concorrenza alla formazione del reddito imponibile della plusvalenza di cui all'articolo 86 del testo unico delle imposte sui redditi, approvato con decreto del Presidente della Repubblica 22 dicembre 1986, n. 917, a condizione e fintantoche' i beni siano utilizzati dall'ente per lo svolgimento dell'attivita' statutaria ai fini dell'esclusivo perseguimento di finalita' civiche, solidaristiche e di utilita' sociale. L'opzione di cui al presente comma e' esercitata nella dichiarazione dei redditi.))
 
+2.
+                        
+                            
+                                
+                                    ((La plusvalenza sospesa ai sensi del comma 1 concorre a formare il reddito imponibile dell'ente:))
+                                
+                            
+                            
+                                a)
+                                
+                                    
+                                        ((se i beni sono destinati dall'ente ad altre finalita' diverse da quelle di cui al comma 1;))
+                                    
+                                
+                            
+                            
+                                b)
+                                
+                                    
+                                        ((se i beni sono ceduti a titolo oneroso o in caso di risarcimento, anche in forma assicurativa, per la perdita o il danneggiamento dei beni.))
+
 ((Nell'ipotesi di cui al comma 2, lettera a), la plusvalenza e' costituita dalla differenza tra il valore normale dei beni all'atto della destinazione a finalita' diverse ai sensi della medesima lettera a) e il costo non ammortizzato del bene all'atto del passaggio di cui al comma 1.))
 
 ((Nelle ipotesi di cui al comma 2, lettera b), la plusvalenza e' costituita dalla differenza fra il corrispettivo o l'indennizzo conseguito all'atto della cessione o del risarcimento, al netto degli oneri accessori di diretta imputazione, e il costo non ammortizzato del bene all'atto del passaggio di cui al comma 1.))
@@ -829,6 +1995,30 @@ Detti corrispettivi concorrono alla formazione del reddito complessivo come comp
 ((Per gli enti di cui all'articolo 4, comma 3, le disposizioni del presente articolo si applicano limitatamente ai beni inclusi nel patrimonio destinato e indicati nel regolamento, ai sensi del medesimo articolo 4, comma 3.))
 
 ## Art. 80. — Regime forfetario degli enti del Terzo settore non commerciali
+
+1.
+                        
+                            
+                                Gli enti del Terzo settore non commerciali di cui all'articolo 79, comma 5, possono optare per la determinazione forfetaria del reddito d'impresa applicando all'ammontare dei ricavi conseguiti nell'esercizio delle attivita' di cui agli articoli 5 e 6, quando svolte con modalita' commerciali, il coefficiente di redditivita' nella misura indicata nelle lettere a) e b) e aggiungendo l'ammontare dei componenti positivi di reddito di cui agli articoli 86, 88, 89 e 90 del testo unico delle imposte sui redditi, approvato con decreto del Presidente della Repubblica 22 dicembre 1986, n. 917: 
+ 
+                            
+                            
+                                a)
+                                
+                                    attivita' di prestazioni di servizi: 
+ 1) ricavi fino a 130.000 euro, coefficiente 7 per cento; 
+ 2) ricavi da 130.001 euro a 300.000 euro, coefficiente 10 per cento; 
+ 3) ricavi oltre 300.000 euro, coefficiente 17 per cento; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    altre attivita': 
+ 1) ricavi fino a 130.000 euro, coefficiente 5 per cento; 
+ 2) ricavi da 130.001 euro a 300.000 euro, coefficiente 7 per cento; 
+ 3) ricavi oltre 300.000 euro, coefficiente 14 per cento.
 
 Per gli enti che esercitano contemporaneamente prestazioni di servizi ed altre attivita' il coefficiente si determina con riferimento all'ammontare dei ricavi relativi all'attivita' prevalente. In mancanza della distinta annotazione dei ricavi si considerano prevalenti le attivita' di prestazioni di servizi.
 
@@ -900,7 +2090,32 @@ Dall'imposta lorda si detrae un importo pari al 19 per cento dei contributi asso
 
 ## Art. 84. — Regime fiscale delle organizzazioni di volontariato e degli enti filantropici
 
+1.
+                        
+                            
+                                Non si considerano commerciali, oltre alle attivita' di cui all'articolo 79, commi 2, 3 e 4, le seguenti attivita' effettuate dalle organizzazioni di volontariato e svolte senza l'impiego di mezzi organizzati professionalmente per fini di concorrenzialita' sul mercato: 
+ 
+                            
+                            
+                                a)
+                                
+                                    attivita' di vendita di beni acquisiti da terzi a titolo gratuito a fini di sovvenzione, a condizione che la vendita sia curata direttamente dall'organizzazione senza alcun intermediario; 
 
+                                
+                            
+                            
+                                b)
+                                
+                                    cessione di beni prodotti dagli assistiti e dai volontari sempreche' la vendita dei prodotti sia curata direttamente dall'organizzazione di volontariato senza alcun intermediario; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    attivita' di somministrazione di alimenti e bevande in occasione di raduni, manifestazioni, celebrazioni e simili a carattere occasionale.
+
+((2. I redditi degli immobili, destinati in via esclusiva allo svolgimento di attivita' non commerciale da parte delle organizzazioni di volontariato, sono esenti dall'imposta sul reddito delle societa'))
 
 ((2-bis. La disposizione di cui al comma 2 si applica anche agli enti filantropici))
 
@@ -911,6 +2126,63 @@ Regime fiscale delle associazioni di promozione sociale ((e delle societa' di mu
 Non si considerano commerciali le attivita' svolte dalle associazioni di promozione sociale in diretta attuazione degli scopi istituzionali effettuate verso pagamento di corrispettivi specifici nei confronti ((degli iscritti, dei propri associati e dei familiari conviventi degli stessi, di altre associazioni di promozione sociale che svolgono la medesima attivita' e che per legge, regolamento, atto costitutivo o statuto fanno parte di un'unica organizzazione locale o nazionale, dei rispettivi associati o iscritti e dei tesserati dalle rispettive organizzazioni nazionali)), nonche' nei confronti di enti composti in misura non inferiore al settanta percento da enti del Terzo settore ai sensi dell'articolo 5, comma 1, lettera m).
 
 Non si considerano, altresi', commerciali, ai fini delle imposte sui redditi, le cessioni anche a terzi di proprie pubblicazioni cedute prevalentemente agli associati e ai familiari conviventi degli stessi verso pagamento di corrispettivi specifici in attuazione degli scopi istituzionali.
+
+3.
+                        
+                            
+                                In deroga a quanto previsto dai commi 1 e 2 del presente articolo si considerano comunque commerciali, ai fini delle imposte sui redditi, le cessioni di beni nuovi prodotti per la vendita, le somministrazioni di pasti, le erogazioni di acqua, gas, energia elettrica e vapore, le prestazioni alberghiere, di alloggio, di trasporto e di deposito e le prestazioni di servizi portuali e aeroportuali nonche' le prestazioni effettuate nell'esercizio delle seguenti attivita': 
+ 
+                            
+                            
+                                a)
+                                
+                                    gestione di spacci aziendali e di mense; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    organizzazione di viaggi e soggiorni turistici; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    gestione di fiere ed esposizioni a carattere commerciale; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    pubblicita' commerciale; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    telecomunicazioni e radiodiffusioni circolari.
+
+4.
+                        
+                            
+                                Per le associazioni di promozione sociale ricomprese tra gli enti di cui all'articolo 3, comma 6, lettera e), della legge 25 agosto 1991, n. 287, iscritte nell'apposito registro, le cui finalita' assistenziali siano riconosciute dal Ministero dell'interno, non si considera in ogni caso commerciale, anche se effettuata a fronte del pagamento di corrispettivi specifici, la somministrazione di alimenti o bevande effettuata presso le sedi in cui viene svolta l'attivita' istituzionale da bar e esercizi similari, nonche' l'organizzazione di viaggi e soggiorni turistici, sempre che vengano soddisfatte le seguenti condizioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    tale attivita' sia strettamente complementare a quelle svolte in diretta attuazione degli scopi istituzionali e sia effettuata nei confronti ((degli stessi soggetti indicati al comma 1)); 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    per lo svolgimento di tale attivita' non ci si avvalga di alcuno strumento pubblicitario o comunque di diffusione di informazioni a soggetti terzi, ((diversi dai soggetti indicati al comma 1)).
 
 Le quote e i contributi corrisposti alle associazioni di promozione sociale di cui al presente articolo non concorrono alla formazione della base imponibile, ai fini dell'imposta sugli intrattenimenti.
 
@@ -936,6 +2208,46 @@ Fermo restando l'obbligo di conservare, ai sensi dell'articolo 22 del decreto de
 
 Le organizzazioni di volontariato e le associazioni di promozione sociale che applicano il regime forfetario non sono tenuti a operare le ritenute alla fonte di cui al titolo III del decreto del Presidente della Repubblica 29 settembre 1973, n. 600; tuttavia, nella dichiarazione dei redditi, i medesimi contribuenti indicano il codice fiscale del percettore dei redditi per i quali all'atto del pagamento degli stessi non e' stata operata la ritenuta e l'ammontare dei redditi stessi.
 
+7.
+                        
+                            
+                                Ai fini dell'imposta sul valore aggiunto, le organizzazioni di volontariato e le associazioni di promozione sociale che applicano il regime forfetario: 
+ 
+                            
+                            
+                                a)
+                                
+                                    non esercitano la rivalsa dell'imposta di cui all'articolo 18 del decreto del Presidente della Repubblica 26 ottobre 1972, n. 633, per le operazioni nazionali; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    applicano alle cessioni di beni intracomunitarie l'articolo 41, comma 2-bis, del decreto-legge 30 agosto 1993, n. 331, convertito, con modificazioni, dalla legge 29 ottobre 1993, n. 427; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    applicano agli acquisti di beni intracomunitari l'articolo 38, comma 5, lettera c), del decreto-legge 30 agosto 1993, n. 331, convertito, con modificazioni, dalla legge 29 ottobre 1993, n. 427; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    applicano alle prestazioni di servizi ricevute da soggetti non residenti o rese ai medesimi gli articoli 7-ter e seguenti del decreto del Presidente della Repubblica 26 ottobre 1972, n. 633; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    applicano alle importazioni, alle esportazioni e alle operazioni ad esse assimilate le disposizioni di cui al decreto del Presidente della Repubblica 26 ottobre 1972, n. 633, ferma restando l'impossibilita' di avvalersi della facolta' di acquistare senza applicazione dell'imposta ai sensi dell'articolo 8, comma 1, lettera c), e comma 2, del decreto del Presidente della Repubblica 26 ottobre 1972, n. 633. 
+ Per le operazioni di cui al presente comma le organizzazioni di volontariato e le associazioni di promozione sociale che applicano il regime forfettario non hanno diritto alla detrazione dell'imposta sul valore aggiunto assolta, dovuta o addebitata sugli acquisti ai sensi degli articoli 19 e seguenti del decreto del Presidente della Repubblica 26 ottobre 1972, n. 633.
+
 Salvo quanto disposto dal comma 9, le organizzazioni di volontariato e le associazioni di promozione sociale che applicano il regime forfetario sono esonerati dal versamento dell'imposta sul valore aggiunto e da tutti gli altri obblighi previsti dal decreto del Presidente della Repubblica 26 ottobre 1972, n. 633, ad eccezione degli obblighi di numerazione e di conservazione delle fatture di acquisto e delle bollette doganali ((...)) e di conservazione dei relativi documenti. Resta fermo l'esonero dall'obbligo di certificazione di cui all'articolo 2 del regolamento di cui al decreto del Presidente della Repubblica 21 dicembre 1996, n. 696 e successive modificazioni.
 
 Le organizzazioni di volontariato e le associazioni di promozione sociale che applicano il regime forfetario, per le operazioni per le quali risultano debitori dell'imposta, emettono la fattura o la integrano con l'indicazione dell'aliquota e della relativa imposta e versano l'imposta entro il giorno 16 del mese successivo a quello di effettuazione delle operazioni.
@@ -960,6 +2272,24 @@ Le organizzazioni di volontariato e le associazioni di promozione sociale che ap
 
 ## Art. 87. — Tenuta e conservazione delle scritture contabili degli Enti del terzo settore
 
+1.
+                        
+                            
+                                Gli enti del Terzo settore non commerciali di cui all'articolo 79, comma 5, che non applicano il regime forfetario di cui all'articolo 86, a pena di decadenza dai benefici fiscali per esse previsti, devono: 
+ 
+                            
+                            
+                                a)
+                                
+                                    in relazione all'attivita' complessivamente svolta, redigere scritture contabili cronologiche e sistematiche atte ad esprimere con compiutezza e analiticita' le operazioni poste in essere in ogni periodo di gestione, e rappresentare adeguatamente nel bilancio di cui all'articolo 13 distintamente le attivita' indicate all'articolo 6 da quelle di cui all'articolo 5, con obbligo di conservare le stesse scritture e la relativa documentazione per un periodo non inferiore quello indicato dall'articolo 22 del decreto del Presidente della Repubblica 29 settembre 1973, n. 600; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    in relazione alle attivita' svolte con modalita' commerciali, di cui agli articoli 5, 6 e 7, tenere le scritture contabili previste dalle disposizioni di cui all'articolo 18 del decreto del Presidente della Repubblica 29 settembre 1973, n. 600, anche al di fuori dei limiti quantitativi previsti al comma 1 del medesimo articolo.
+
 Gli obblighi di cui al comma 1, lettera a), si considerano assolti anche qualora la contabilita' consti del libro giornale e del libro degli inventari, tenuti in conformita' alle disposizioni di cui agli articoli 2216 e 2217 del codice civile.
 
 I soggetti di cui al comma 1 che nell'esercizio delle attivita' di cui agli articoli 5 e 6 non abbiano conseguito in un anno proventi di ammontare superiore ((agli importi stabiliti, rispettivamente, dai commi 2 e 2-bis dell'articolo 13)) possono tenere per l'anno successivo, in luogo delle scritture contabili previste al primo comma, lettera a), ((il rendiconto per cassa di cui, rispettivamente, ai commi 2 e 2-bis dell'articolo 13)).
@@ -981,6 +2311,31 @@ Entro tre mesi dal momento in cui si verificano i presupposti di cui all'articol
 Le agevolazioni di cui ((all'articolo 82, commi 3, quarto periodo, 7 e 8,)) e all'articolo 85, commi 2 e 4, sono concesse ai sensi e nei limiti del regolamento (UE) n. 1407/2013 della Commissione, del 18 dicembre 2013, relativo all'applicazione degli articoli 107 e 108 del Trattato sul funzionamento dell'Unione europea agli aiuti «de minimis», ((del regolamento (UE) n. 1408/2013 della Commissione, del 18 dicembre 2013, relativo all'applicazione degli articoli 107 e 108 del Trattato sul funzionamento dell'Unione europea agli aiuti 'de minimis' nel settore agricolo, e del regolamento (UE) n. 360/2012 della Commissione, del 25 aprile 2012, relativo all'applicazione degli articoli 107 e 108 del Trattato sul funzionamento dell'Unione europea agli aiuti di importanza minore ('de minimis') concessi alle imprese che forniscono servizi di interesse economico generale)).
 
 ## Art. 89. — Coordinamento normativo
+
+1.
+                        
+                            
+                                Agli enti del Terzo settore di cui all'articolo 79, comma 1, non si applicano le seguenti disposizioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    l'articolo 143, comma 3, l'articolo 144, commi 2, 5 e 6 e gli articoli 148 e 149 del testo unico delle imposte sui redditi, approvato con decreto del Presidente della Repubblica 22 dicembre 1986, n. 917; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'articolo 3, commi 1 e 2, del decreto legislativo 31 ottobre 1990, n. 346 e gli articoli 1, comma 2 e 10, comma 3 del decreto legislativo 31 ottobre 1990, n. 347; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    la legge 16 dicembre 1991, n. 398.
 
 Le norme di cui al comma 1, lettera b) continuano ad applicarsi ai trasferimenti a titolo gratuito, non relativi alle attivita' di cui all'articolo 5, eseguiti a favore dei soggetti di cui all'articolo 4, comma 3, iscritti nel Registro unico nazionale del Terzo Settore.
 
@@ -1018,6 +2373,30 @@ In attuazione dell'articolo 115 del decreto legislativo 22 gennaio 2004, n. 42, 
 
 Le attivita' indicate all'articolo 79, comma 4, lett. a), fermo restando il regime di esclusione dall'imposta sul valore aggiunto, sono esenti da ogni altro tributo.
 
+19.
+                        
+                            
+                                Alla legge 19 agosto 2016, n. 166, sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    all'articolo 2, comma 1, lettera b), le parole «i soggetti di cui all'articolo 10 del decreto legislativo 4 dicembre 1997, n. 460» sono sostituite dalle seguenti: «gli enti del Terzo settore non commerciali di cui all'articolo 79, comma 5, del codice del Terzo settore di cui all'articolo 1, comma 2, lettera b), della legge 6 giugno 2016, n. 106»; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    all'articolo 16, comma 5, lettera a), numero 2, le parole «agli enti pubblici, alle ONLUS e agli enti privati costituiti per il perseguimento, senza scopo di lucro, di finalita' civiche e solidaristiche e che, in attuazione del principio di sussidiarieta' e in coerenza con i rispettivi statuti o atti costitutivi, promuovono e realizzano attivita' d'interesse generale anche mediante la produzione e lo scambio di beni e servizi di utilita' sociale nonche' attraverso forme di mutualita'» sono sostituite dalle seguenti: «ai soggetti di cui all'articolo 2, comma 1, lettera b), della legge 19 agosto 2016, n. 166. 
+ 20. All'articolo 15 del decreto del Presidente della Repubblica 29 luglio 1982 n. 571, comma 6, le parole «i soggetti di cui all'articolo 10 del decreto legislativo 4 dicembre 1997, n. 460» sono sostituite dalle seguenti: «gli enti del Terzo settore non commerciali di cui all'articolo 79, comma 5, del codice del Terzo settore di cui all'articolo 1, comma 2, lettera b), della legge 6 giugno 2016, n. 106». 
+ 21. All'articolo 1, comma 236, della legge 27 dicembre 2013, n. 147 le parole «i soggetti di cui all'articolo 10 del decreto legislativo 4 dicembre 1997, n. 460» sono sostituite dalle seguenti: «gli enti del Terzo settore non commerciali di cui all'articolo 79, comma 5, del codice del Terzo settore di cui all'articolo 1, comma 2, lettera b), della legge 6 giugno 2016, n. 106». 
+ 22. All'articolo 1, comma 1 della legge 25 giugno 2003, n. 155 le parole «i soggetti di cui all'articolo 10 del decreto legislativo 4 dicembre 1997, n. 460» sono sostituite dalle seguenti: «gli enti del Terzo settore non commerciali di cui all'articolo 79, comma 5, del codice del Terzo settore di cui all'articolo 1, comma 2, lettera b), della legge 6 giugno 2016, n. 106». 
+ 23. All'articolo 157, comma 1-bis, del decreto legislativo 24 aprile 2006, n. 219, sono apportate le seguenti modifiche: 
+ a) le parole «organizzazioni non lucrative di utilita' sociale (ONLUS)» sono sostituite dalle seguenti: «enti del Terzo settore non commerciali di cui all'articolo 79, comma 5, del codice del Terzo settore di cui all'articolo 1, comma 2, lettera b), della legge 6 giugno 2016, n. 106»; 
+ b) le parole «Alle ONLUS» sono sostituite dalle seguenti: «Agli enti del Terzo settore non commerciali di cui all'articolo 79, comma 5, del codice del Terzo settore di cui all'articolo 1, comma 2, lettera b), della legge 6 giugno 2016, n. 106».
+
 ## - - Titolo XI   DEI CONTROLLI E DEL COORDINAMENTO
 
 ## Art. 90. — Controlli e poteri sulle fondazioni del Terzo settore
@@ -1041,9 +2420,73 @@ Le somme dovute a titolo di sanzioni previste dal presente articolo sono versate
 
 Attivita' di monitoraggio, vigilanza e controllo
 
+1.
+                        
+                            
+                                Al fine di garantire l'uniforme applicazione della disciplina legislativa, statutaria e regolamentare applicabile agli Enti del Terzo settore e l'esercizio dei relativi controlli, il Ministero del lavoro e delle politiche sociali: 
+ 
+                            
+                            
+                                a)
+                                
+                                    vigila sul sistema di registrazione degli enti del Terzo settore nel rispetto dei requisiti previsti dal presente codice e monitora lo svolgimento delle attivita' degli Uffici del Registro unico nazione del Terzo settore operanti a livello regionale; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    promuove l'autocontrollo degli enti del Terzo settore autorizzandone l'esercizio da parte delle reti associative nazionali iscritte nell'apposita sezione del registro unico nazionale e dei Centri di servizio per il volontariato accreditati ai sensi dell'articolo 61; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    predispone e trasmette alle Camere, entro il 30 giugno di ogni anno, una relazione sulle attivita' di vigilanza, monitoraggio e controllo svolte sugli enti del Terzo settore anche sulla base dei dati acquisiti attraverso le relazioni di cui all'articolo 95, commi 2 e 3, nonche' sullo stato del sistema di registrazione di cui alla lettera b).
+
 Restano fermi i poteri delle amministrazioni pubbliche competenti in ordine ai controlli, alle verifiche ed alla vigilanza finalizzati ad accertare la conformita' delle attivita' di cui all'articolo 5 alle norme particolari che ne disciplinano l'esercizio.
 
 ## Art. 93. — Controllo
+
+1.
+                        
+                            
+                                I controlli sugli enti del Terzo settore sono finalizzati ad accertare: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la sussistenza e la permanenza dei requisiti necessari all'iscrizione al Registro unico nazionale del Terzo settore; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il perseguimento delle finalita' civiche, solidaristiche o di utilita' sociale; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    l'adempimento degli obblighi derivanti dall'iscrizione al Registro unico nazionale del Terzo settore; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    il diritto di avvalersi dei benefici anche fiscali e del 5 per mille derivanti dall'iscrizione nel Registro unico nazionale del Terzo settore; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    il corretto impiego delle risorse pubbliche, finanziarie e strumentali, ad essi attribuite.
 
 Alle imprese sociali si applicano le disposizioni contenute nell'articolo 15 del decreto legislativo recante revisione della disciplina in materia di impresa sociale, di cui all'articolo 1, comma 2, lettera c), della legge 6 giugno 2016, n. 106.
 
@@ -1089,6 +2532,31 @@ Ai sensi dell'articolo 7, comma 4, della legge 6 giugno 2016, n. 106, con decret
 
 E' istituita, presso la Presidenza del Consiglio dei ministri, una Cabina di regia con il compito di coordinare, in raccordo con i ministeri competenti, le politiche di governo e le azioni di promozione e di indirizzo delle attivita' degli enti del Terzo settore.
 
+2.
+                        
+                            
+                                Ai fini di cui al comma 1, la Cabina di regia: 
+ 
+                            
+                            
+                                a)
+                                
+                                    coordina l'attuazione del presente codice al fine di assicurarne la tempestivita', l'efficacia e la coerenza ed esprimendo, la' dove prescritto, il proprio orientamento in ordine ai relativi decreti e linee guida; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    promuove le attivita' di raccordo con le amministrazioni pubbliche interessate, nonche' la definizione di accordi, protocolli di intesa o convenzioni, anche con enti privati, finalizzati a valorizzare l'attivita' degli enti del Terzo settore e a sviluppare azioni di sistema; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    monitora lo stato di attuazione del presente codice anche al fine di segnalare eventuali soluzioni correttive e di miglioramento.
+
 La composizione e le modalita' di funzionamento della Cabina di regia sono stabilite con decreto del Presidente del Consiglio dei ministri, da adottare, di concerto con il Ministro del lavoro e delle politiche sociali, entro tre mesi dalla data di entrata in vigore del presente codice, assicurando la presenza di rappresentanti del sistema degli enti territoriali. La partecipazione alla Cabina di regia e' gratuita e non da' diritto alla corresponsione di alcun compenso, indennita', emolumento o rimborso spese comunque denominato.
 
 All'attuazione del presente articolo si provvede con le risorse umane, strumentali e finanziarie disponibili a legislazione vigente e senza nuovi o maggiori oneri a carico della finanza pubblica.
@@ -1105,6 +2573,31 @@ L'organo di amministrazione deve predisporre una relazione relativa alla situazi
  Gli atti relativi alle trasformazioni, alle fusioni e alle scissioni per i quali il libro V prevede l'iscrizione nel Registro delle imprese sono iscritti nel Registro delle Persone Giuridiche ovvero, nel caso di enti del Terzo settore, nel Registro unico nazionale del Terzo settore.».
 
 ## Art. 99. — Modifiche normative
+
+1.
+                        
+                            
+                                Al decreto legislativo 28 settembre 2012, n. 178 sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    all'articolo 1, comma 1, le parole: «nei registri regionali e provinciali delle associazioni di promozione sociale, applicandosi ad essa, per quanto non diversamente disposto dal presente decreto, la legge 7 dicembre 2000, n. 383» sono sostituite dalle seguenti: «nella sezione organizzazioni di volontariato del registro unico nazionale del Terzo settore, applicandosi ad essa, per quanto non diversamente disposto dal presente decreto, il codice del Terzo settore di cui all'articolo 1, comma 2, lettera b), della legge 6 giugno 2016, n. 106»; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    all'articolo 1, comma 6, le parole: «L'utilizzazione da parte della Associazione delle risorse disponibili a livello nazionale, regionale e locale per le Associazioni di promozione sociale e' condizionata all'emanazione di un decreto del Ministro della salute, di concerto con il Ministro del lavoro e delle politiche sociali, sentita la Conferenza per i rapporti tra lo Stato, le regioni e le province autonome di Trento e Bolzano, con il quale e' stabilita la misura massima della medesima utilizzazione» sono soppresse; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    all'articolo 1-bis, le parole: «nei registri provinciali delle associazioni di promozione sociale, applicandosi ad essi, per quanto non diversamente disposto dal presente decreto, la legge 7 dicembre 2000, n. 383» sono sostituite dalle seguenti: «nella sezione organizzazioni di volontariato del registro unico nazionale del Terzo settore, applicandosi ad essi, per quanto non diversamente disposto dal presente decreto, il codice del Terzo settore di cui all'articolo 1, comma 2, lettera b), della legge 6 giugno 2016, n. 106».
 
 All'articolo 26, comma 2, della legge 11 agosto 2014 n. 125 le parole «Organizzazioni non lucrative di utilita' sociale (ONLUS)» sono sostituite dalle seguenti «enti del Terzo settore (ETS) non commerciali di cui all'articolo 79, comma 5, del codice del Terzo settore di cui all'articolo 1, comma 2, lettera b), della legge 6 giugno 2016, n. 106».
 
@@ -1155,6 +2648,125 @@ I decreti di cui agli articoli 6 comma 1, 7 comma 2, 13 comma 3, 14 comma 1, 18 
  Il D.L. 30 aprile 2019, n. 34, convertito con modificazioni dalla L. 28 giugno 2019, n. 58, ha disposto (con l'art. 43, comma 4-bis) che "In deroga a quanto previsto dall'articolo 101, comma 2, del codice del Terzo settore, di cui al decreto legislativo 3 luglio 2017, n. 117, i termini per l'adeguamento degli statuti delle bande musicali, delle organizzazioni non lucrative di utilita' sociale, delle organizzazioni di volontariato e delle associazioni di promozione sociale sono prorogati al 30 giugno 2020".
 
 ## Art. 102. — Abrogazioni
+
+1.
+                        
+                            
+                                Sono abrogate le seguenti disposizioni salvo quanto previsto ai commi 2, 3 e 4: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la legge 11 agosto 1991, n. 266, e la legge 7 dicembre 2000, n. 383; 
+
+                                
+                            
+                            
+                                a-bis)
+                                
+                                    l'articolo 1, comma 1, lettera b) e comma 2, e gli articoli 2 e 3 della legge 19 novembre 1987, n. 476;
+                                
+                            
+                            
+                                b)
+                                
+                                    gli articoli 2, 3, 4 e 5, della legge 15 dicembre 1998, n. 438; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il decreto del Ministro del lavoro e delle politiche sociali 14 settembre 2010, n. 177; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    il decreto del Ministro del tesoro 8 ottobre 1997, recante «Modalita' per la costituzione dei fondi speciali per il volontariato presso le regioni»; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    l'articolo 100, comma 2, lettera l), del testo unico delle imposte sui redditi, approvato con decreto del Presidente della Repubblica 22 dicembre 1986, n. 917; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    l'articolo 15, comma 1, lettera i-quater), del testo unico delle imposte sui redditi, approvato con decreto del Presidente della Repubblica 22 dicembre 1986, n. 917; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    l'articolo 15, comma 1, lettera i-bis) del testo unico delle imposte sui redditi, approvato con decreto del Presidente della Repubblica 22 dicembre 1986, n. 917. (1)
+
+2.
+                        
+                            
+                                Sono altresi' abrogate le seguenti disposizioni a decorrere dal termine di cui all'articolo 104, comma 2: 
+ 
+                            
+                            
+                                a)
+                                
+                                    gli articoli da 10 a 29 del decreto legislativo 4 dicembre 1997, n. 460, fatto salvo l'articolo 13, commi 2, 3 e 4; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'articolo 20-bis, del decreto del Presidente della Repubblica 29 settembre 1973, n. 600; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    l'articolo 150 del testo unico delle imposte sui redditi, approvato con decreto del Presidente della Repubblica 22 dicembre 1986, n. 917; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    l'articolo 8, comma 2, primo periodo e comma 4 della legge 11 agosto 1991, n. 266; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    l'articolo 9-bis del decreto-legge 30 dicembre 1991, n. 417, convertito, con modificazioni, dalla legge 6 febbraio 1992, n. 66; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    l'articolo 2, comma 31, della legge 24 dicembre 2003, n. 350; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    gli articoli 20 e 21 della legge n. 383 del 7 dicembre 2000; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    l'articolo 14, commi 1, 2, 3, 4, 5 e 6 del decreto-legge 14 marzo 2005, n. 35, convertito, con modificazioni, dalla legge 14 maggio 2005, n. 80.
 
 Le disposizioni di cui all'articolo 12, comma 2, della legge 11 agosto 1991, n. 266, all'articolo 13 della legge 7 dicembre 2000, n. 383, e all'articolo 96, comma 1, della legge 21 novembre 2000, n. 342, sono abrogate a decorrere dalla data di efficacia del decreto del Ministro dell'economia e delle finanze di cui all'articolo 103, comma 2, finalizzato a dare attuazione a quanto previsto dall'articolo 73, comma 1.
 

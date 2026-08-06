@@ -8,8 +8,8 @@ codice_redazionale: 001G0517
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:40Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -102,6 +102,31 @@ L'Istituto puo' essere nominato, anche successivamente al pignoramento, custode 
 Nei casi di cui ai commi 1 e 2, l'Istituto viene autorizzato al trasporto, ove possibile, dei beni pignorati per la loro conservazione nella sede e nei depositi propri.
 
 ## Art. 10. — Compensi e rimborsi spese
+
+1.
+                    
+                        
+                            Per l'attivita' compiuta in base al conferimento dell'incarico di cui all'articolo 1, comma 1, all'Istituto spetta:
+ 
+                        
+                        
+                            a)
+                            
+                                un compenso, a carico dell'aggiudicatario, nella misura prevista alla lettera d) della tabella allegato 1, che dovra' essere corrisposto all'atto della consegna dei beni aggiudicati in contanti o tramite assegni postali e bancari a copertura garantita o con altri strumenti elettronici;
+
+                            
+                        
+                        
+                            b)
+                            
+                                il rimborso delle spese di cui alle lettere a), b), c), f) della tabella allegato 1, da recuperare con le modalita' di cui all'articolo 8, comma 6, nei limiti delle somme ricavate dalla vendita;
+
+                            
+                        
+                        
+                            c)
+                            
+                                il rimborso delle somme di cui alla lettera e) della tabella allegato 1, nel caso di estinzione conseguente al pagamento del debito da parte del debitore, viene effettuato da quest'ultimo.
 
 Per tutti i casi di beni messi all'incanto, singolarmente o a lotti, nella stessa giornata e che siano rimasti invenduti, spetta di norma un compenso complessivo, anche a titolo di rimborso spese, in favore dell'Istituto pari a lire 75.000.
 

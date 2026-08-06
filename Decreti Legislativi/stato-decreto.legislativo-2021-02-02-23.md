@@ -7,8 +7,8 @@ urn: urn:nir:stato:decreto.legislativo:2021-02-02;23
 vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:29Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -34,6 +34,24 @@ Nell'ambito delle competenze di cui al comma 1, il Ministero della salute, avval
 
 ## Art. 2. — Organizzazione dei controlli
 
+1.
+                    
+                        
+                            Al fine di consentire l'organizzazione e il coordinamento dei controlli di cui all'articolo 9, paragrafo 7, del regolamento (UE) 2017/625, gli operatori che ricevono da altri Stati membri, come primi destinatari materiali, gli animali e le merci di cui all'articolo 1, comma 1: 
+ 
+                        
+                        
+                            a)
+                            
+                                effettuano la registrazione presso gli uffici veterinari per gli adempimenti comunitari, utilizzando la descrizione delle informazioni e le procedure previste dal sistema informativo del Ministero della salute e da altri sistemi informativi correlati o altre modalita' di trasmissione telematica, stabiliti con apposito decreto del Ministro della salute; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                segnalano ogni partita all'ufficio veterinario per gli adempimenti comunitari e al servizio veterinario dell'azienda sanitaria competente per materia e territorio, utilizzando la descrizione delle informazioni e le procedure previste alla lettera a).
+
 La segnalazione di cui al comma 1, lettera b), e' effettuata al servizio veterinario dell'azienda sanitaria competente per materia e territorio e all'ufficio veterinario per gli adempimenti comunitari competente per territorio nelle ventiquattro ore precedenti l'arrivo per le partite di animali e con almeno un giorno feriale di anticipo per l'arrivo delle partite di merci.
 
 ## Art. 3. — Controlli nel luogo di destinazione
@@ -45,6 +63,31 @@ Gli uffici veterinari per gli adempimenti comunitari, se in occasione di un cont
 Nel caso di campionamenti, analisi, prove o diagnosi su animali e merci di cui all'articolo 1, comma 1, provenienti da altri Stati membri, gli uffici veterinari per gli adempimenti comunitari e i servizi veterinari delle aziende sanitarie competenti per materia e territorio, applicano quanto disposto dall'articolo 35 del regolamento (UE) 2017/625.
 
 Qualora il controllo effettuato nel luogo di destinazione o durante il trasporto degli animali e delle merci di cui all'articolo 1, comma 1, provenienti dagli altri Stati membri, evidenzi una non conformita' concernente errori meramente formali del certificato o dei documenti che non incidono sullo stato sanitario della partita, prima di ricorrere alla sua rispedizione, gli uffici veterinari per gli adempimenti comunitari possono consentire all'operatore dello Stato membro che ha spedito gli animali o le merci un periodo di tempo per la regolarizzazione non inferiore a trenta giorni.
+
+5.
+                    
+                        
+                            L'Ufficio veterinario per gli adempimenti comunitari, se in occasione di un controllo effettuato nel luogo di destinazione o durante il trasporto degli animali e delle merci di cui all'articolo 1, comma 1 provenienti dagli altri Stati membri viene rilevata la presenza di agenti generatori di una malattia contemplata dall'articolo 5 e dall'allegato II del regolamento (UE) 2016/429, nonche' di quelle individuate dalla Commissione ai sensi dell'articolo 6 del medesimo regolamento, di una zoonosi o altre malattie, di altre cause suscettibili di costituire un grave rischio per gli animali o per l'uomo, ovvero la provenienza della partita da una regione contaminata da una malattia epizootica, dispone, nel rispetto di quanto previsto dall'articolo 138 del regolamento (UE) 2017/625: 
+ 
+                        
+                        
+                            a)
+                            
+                                la quarantena e l'abbattimento e la distruzione dell'animale o della partita di animali; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                il sequestro e la distruzione del materiale germinale o dei prodotti di origine animale o dei sottoprodotti e prodotti derivati di origine animale; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                ogni altra misura ritenuta appropriata a prevenire i gravi rischi per gli animali o per l'uomo.
 
 Gli uffici veterinari per gli adempimenti comunitari, se a seguito dei controlli su animali e merci di cui all'articolo 1, comma 1, effettuati ai sensi del presente decreto, viene rilevato un rischio per la salute pubblica o per la sanita' animale o un sospetto di non conformita', dispongono l'applicazione, da parte dei servizi veterinari dell'azienda sanitaria competente per territorio, delle disposizioni di cui agli articoli 137, paragrafo 3, lettere a) e b), e 138 del regolamento (UE) 2017/625, in quanto applicabili.
 

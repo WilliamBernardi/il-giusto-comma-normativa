@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Codici
 vigenza_date: 2026-05-10
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:38:35Z
+zip_date: 2026-08-04
+fetched_at: 2026-08-04
 ---
 
 DECRETO LEGISLATIVO
@@ -162,9 +162,221 @@ Si osservano, altresi', le disposizioni stabilite dalle intese concluse ai sensi
 
 Sono beni culturali le cose immobili e mobili appartenenti allo Stato, alle regioni, agli altri enti pubblici territoriali, nonche' ad ogni altro ente ed istituto pubblico e a persone giuridiche private senza fine di lucro , ivi compresi gli enti ecclesiastici civilmente riconosciuti, che presentano interesse artistico, storico, archeologico o etnoantropologico.
 
+2.
+                        
+                            
+                                Sono inoltre beni culturali: 
+ 
+                            
+                            
+                                a)
+                                
+                                    le raccolte di musei, pinacoteche, gallerie e altri luoghi espositivi dello Stato, delle regioni, degli altri enti pubblici territoriali, nonche' di ogni altro ente ed istituto pubblico; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    gli archivi e i singoli documenti dello Stato, delle regioni, degli altri enti pubblici territoriali, nonche' di ogni altro ente ed istituto pubblico; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    le raccolte librarie delle biblioteche dello Stato, delle regioni, degli altri enti pubblici territoriali, nonche' di ogni altro ente e istituto pubblico , ad eccezione delle raccolte che assolvono alle funzioni delle biblioteche indicate all'articolo 47, comma 2, del decreto del Presidente della Repubblica 24 luglio 1977, n. 616 .
+
+3.
+                        
+                            
+                                Sono altresi' beni culturali, quando sia intervenuta la dichiarazione prevista dall'articolo 13: 
+ 
+                            
+                            
+                                a)
+                                
+                                    le cose immobili e mobili che presentano interesse artistico, storico, archeologico o etnoantropologico particolarmente importante, appartenenti a soggetti diversi da quelli indicati al comma 1; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    gli archivi e i singoli documenti, appartenenti a privati, che rivestono interesse storico particolarmente importante; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    le raccolte librarie, appartenenti a privati, di eccezionale interesse culturale; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    le cose immobili e mobili, a chiunque appartenenti, che rivestono un interesse particolarmente importante a causa del loro riferimento con la storia politica, militare, della letteratura, dell'arte, della scienza, della tecnica, dell'industria e della cultura in genere, ovvero quali testimonianze dell'identita' e della storia delle istituzioni pubbliche, collettive o religiose ((. Se le cose rivestono altresi' un valore testimoniale o esprimono un collegamento identitario o civico di significato distintivo eccezionale, il provvedimento di cui all'articolo 13 puo' comprendere, anche su istanza di uno o piu' comuni o della regione, la dichiarazione di monumento nazionale)); 
+
+                                
+                            
+                            
+                                d-bis)
+                                
+                                    le cose, a chiunque appartenenti, che presentano un interesse artistico, storico, archeologico o etnoantropologico eccezionale per l'integrita' e la completezza del patrimonio culturale della Nazione; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    le collezioni o serie di oggetti, a chiunque appartenenti, che non siano ricomprese fra quelle indicate al comma 2 e che, per tradizione, fama e particolari caratteristiche ambientali, ovvero per rilevanza artistica, storica, archeologica, numismatica o etnoantropologica, rivestano come complesso un eccezionale interesse.
+
+4.
+                        
+                            
+                                Sono comprese tra le cose indicate al comma 1 e al comma 3, lettera a): 
+ 
+                            
+                            
+                                a)
+                                
+                                    le cose che interessano la paleontologia, la preistoria e le primitive civilta'; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le cose di interesse numismatico che, in rapporto all'epoca, alle tecniche e ai materiali di produzione, nonche' al contesto di riferimento, abbiano carattere di rarita' o di pregio; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    i manoscritti, gli autografi, i carteggi, gli incunaboli, nonche' i libri, le stampe e le incisioni, con relative matrici, aventi carattere di rarita' e di pregio; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    le carte geografiche e gli spartiti musicali aventi carattere di rarita' e di pregio; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    le fotografie, con relativi negativi e matrici, le pellicole cinematografiche ed i supporti audiovisivi in genere, aventi carattere di rarita' e di pregio; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    le ville, i parchi e i giardini che abbiano interesse artistico o storico; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    le pubbliche piazze, vie, strade e altri spazi aperti urbani di interesse artistico o storico; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    i siti minerari di interesse storico od etnoantropologico; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    le navi e i galleggianti aventi interesse artistico, storico od etnoantropologico; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    le architetture rurali aventi interesse storico od etnoantropologico quali testimonianze dell'economia rurale tradizionale.
+
 Salvo quanto disposto dagli articoli 64 e 178, non sono soggette alla disciplina del presente titolo le cose indicate al comma 1 e al comma 3, lettere a) ed e), che siano opera di autore vivente o la cui esecuzione non risalga ad oltre settanta anni, nonche' le cose indicate al comma 3, lettera d-bis), che siano opera di autore vivente o la cui esecuzione non risalga ad oltre cinquanta anni.
 
 ## Art. 11. — Cose oggetto di specifiche disposizioni di tutela
+
+1.
+                        
+                            
+                                Sono assoggettate alle disposizioni espressamente richiamate le seguenti tipologie di cose: 
+ 
+                            
+                            
+                                a)
+                                
+                                    gli affreschi, gli stemmi, i graffiti, le lapidi, le iscrizioni, i tabernacoli ed altri elementi decorativi di edifici, esposti o non alla pubblica vista, di cui all'articolo 50, comma 1; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    gli studi d'artista, di cui all'articolo 51; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    le aree pubbliche di cui all'articolo 52; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    le opere di pittura, di scultura, di grafica e qualsiasi oggetto d'arte di autore vivente o la cui esecuzione non risalga ad oltre ((settanta)) anni, a termini degli articoli 64 e 65, comma 4; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    le opere dell'architettura contemporanea di particolare valore artistico, a termini dell'articolo 37; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    le fotografie, con relativi negativi e matrici, gli esemplari di opere cinematografiche, audiovisive o di sequenze di immagini in movimento, le documentazioni di manifestazioni, sonore o verbali, comunque realizzate, la cui produzione risalga ad oltre venticinque anni, a termini dell'articolo 65, comma 3, lettera c); 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    i mezzi di trasporto aventi piu' di settantacinque anni, a termini degli articoli 65, comma 3, lettera c), e 67, comma 2; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    i beni e gli strumenti di interesse per la storia della scienza e della tecnica aventi piu' di cinquanta anni, a termini dell'articolo 65, comma 3, lettera c); 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    le vestigia individuate dalla vigente normativa in materia di tutela del patrimonio storico della Prima guerra mondiale, di cui all'articolo 50, comma 2.
 
 Per le cose di cui al comma 1, resta ferma l'applicabilita' delle disposizioni di cui agli articoli 12 e 13, qualora sussistano i presupposti e le condizioni stabiliti dall'articolo 10.
 
@@ -285,6 +497,46 @@ I beni culturali non possono essere distrutti, (( deteriorati, )) danneggiati o 
 Gli archivi pubblici e gli archivi privati per i quali sia intervenuta la dichiarazione ai sensi dell'articolo 13 non possono essere smembrati.
 
 ## Art. 21. — Interventi soggetti ad autorizzazione
+
+1.
+                        
+                            
+                                Sono subordinati ad autorizzazione del Ministero: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la rimozione o la demolizione, anche con successiva ricostituzione, dei beni culturali; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    
+                                        ((LETTERA ABROGATA DALLA L. 17 MARZO 2026, N. 40)); 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    lo smembramento di collezioni, serie e raccolte; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    lo scarto dei documenti degli archivi pubblici e degli archivi privati per i quali sia intervenuta la dichiarazione ai sensi dell'articolo 13 , nonche' lo scarto di materiale bibliografico delle biblioteche pubbliche, con l'eccezione prevista all'articolo 10, comma 2, lettera c), e delle biblioteche private per le quali sia intervenuta la dichiarazione ai sensi dell'articolo 13 ; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    il trasferimento ad altre persone giuridiche di complessi organici di documentazione di archivi pubblici, nonche' di archivi privati per i quali sia intervenuta la dichiarazione ai sensi dell'articolo 13 .
 
 Lo spostamento di beni culturali ((...)) e' preventivamente denunciato al soprintendente, che, entro trenta giorni dal ricevimento della denuncia, puo' prescrivere le misure necessarie perche' i beni non subiscano danno dal trasporto.
 
@@ -589,6 +841,38 @@ Avverso il provvedimento contenente le prescrizioni di tutela indiretta e' ammes
 
 ## Art. 48. — Autorizzazione per mostre ed esposizioni
 
+1.
+                        
+                            
+                                E' soggetto ad autorizzazione il prestito per mostre ed esposizioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    delle cose mobili indicate nell'articolo 12, comma 1; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    dei beni mobili indicati nell'articolo 10, comma 1; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    dei beni mobili indicati all'articolo 10, comma 3, lettere a), ed e); 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    delle raccolte e dei singoli beni ad esse pertinenti, di cui all'articolo 10, comma 2, lettera a), delle raccolte librarie indicate all'articolo 10, commi 2, lettera c), e 3, lettera c), nonche' degli archivi e dei singoli documenti indicati all'articolo 10, commi 2, lettera b), e 3, lettera b).
+
 Qualora l'autorizzazione abbia ad oggetto beni appartenenti allo Stato o sottoposti a tutela statale, la richiesta e' presentata al Ministero almeno quattro mesi prima dell'inizio della manifestazione ed indica il responsabile della custodia delle opere in prestito.
 
 L'autorizzazione e' rilasciata ((entro novanta giorni dalla data della richiesta)) tenendo conto delle esigenze di conservazione dei beni e, per quelli appartenenti allo Stato, anche delle esigenze di fruizione pubblica; essa e' subordinata all'adozione delle misure necessarie per garantirne l'integrita'. I criteri, le procedure e le modalita' per il rilascio dell'autorizzazione medesima sono stabiliti con decreto ministeriale.
@@ -648,6 +932,85 @@ I beni del demanio culturale non possono essere alienati, ne' formare oggetto di
 
 ## Art. 54. — Beni inalienabili
 
+1.
+                        
+                            
+                                Sono inalienabili i beni del demanio culturale di seguito indicati: 
+ 
+                            
+                            
+                                a)
+                                
+                                    gli immobili e le aree di interesse archeologico; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    gli immobili dichiarati monumenti nazionali a termini della normativa all'epoca vigente; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    le raccolte di musei, pinacoteche, gallerie e biblioteche; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    gli archivi. 
+
+                                
+                            
+                            
+                                d-bis)
+                                
+                                    gli immobili dichiarati di interesse particolarmente importante ai sensi dell'articolo 10, comma 3, lettera d); 
+
+                                
+                            
+                            
+                                d-ter)
+                                
+                                    le cose mobili che siano opera di autore vivente o la cui esecuzione non risalga ad oltre ((settanta)) anni, se incluse in raccolte appartenenti ai soggetti di cui all'articolo 53.
+
+2.
+                        
+                            
+                                Sono altresi' inalienabili: 
+ 
+                            
+                            
+                                a)
+                                
+                                    le cose appartenenti ai soggetti indicati all'articolo 10, comma 1, che siano opera di autore non piu' vivente e la cui esecuzione risalga ad oltre ((settanta)) anni ((...)), fino alla conclusione del procedimento di verifica previsto dall'articolo 12.
+Se il procedimento si conclude con esito negativo, le cose medesime sono liberamente alienabili, ai fini del presente codice, ai sensi dell'articolo 12, commi 4, 5 e 6 ; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    LETTERA SOPPRESSA DAL D.LGS. 26 MARZO 2008 N. 62; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    i singoli documenti appartenenti ai soggetti di cui all'articolo 53, nonche' gli archivi e i singoli documenti di enti ed istituti pubblici diversi da quelli indicati al medesimo articolo 53; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    LETTERA SOPPRESSA DAL D.LGS. 26 MARZO 2008 N. 62.
+
 I beni e le cose di cui ai commi 1 e 2 possono essere oggetto di trasferimento tra lo Stato, le regioni e gli altri enti pubblici territoriali. Qualora si tratti di beni o cose non in consegna al Ministero, del trasferimento e' data preventiva comunicazione al Ministero medesimo per le finalita' di cui agli articoli 18 e 19.
 
 I beni e le cose indicati ai commi 1 e 2 possono essere utilizzati esclusivamente secondo le modalita' e per i fini previsti dal Titolo II della presente Parte.
@@ -657,6 +1020,70 @@ I beni e le cose indicati ai commi 1 e 2 possono essere utilizzati esclusivament
 I beni culturali immobili appartenenti al demanio culturale e non rientranti tra quelli elencati (( nell'articolo 54, comma 1, )) non possono essere alienati senza l'autorizzazione del Ministero.
 
 ((
+
+2.
+                        
+                            
+                                La richiesta di autorizzazione ad alienare e' corredata:
+ 
+                            
+                            
+                                a)
+                                
+                                    dalla indicazione della destinazione d'uso in atto;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    dal programma delle misure necessarie ad assicurare la conservazione del bene;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    dall'indicazione degli obiettivi di valorizzazione che si intendono perseguire con l'alienazione del bene e delle modalita' e dei tempi previsti per il loro conseguimento;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    dall'indicazione della destinazione d'uso prevista, anche in funzione degli obiettivi di valorizzazione da conseguire;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    dalle modalita' di fruizione pubblica del bene, anche in rapporto con la situazione conseguente alle precedenti destinazioni d'uso.
+
+3.
+                        
+                            
+                                L'autorizzazione e' rilasciata su parere del soprintendente, sentita la regione e, per suo tramite, gli altri enti pubblici territoriali interessati. Il provvedimento, in particolare:
+ 
+                            
+                            
+                                a)
+                                
+                                    detta prescrizioni e condizioni in ordine alle misure di conservazione programmate;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    stabilisce le condizioni di fruizione pubblica del bene, tenuto conto della situazione conseguente alle precedenti destinazioni d'uso;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    si pronuncia sulla congruita' delle modalita' e dei tempi previsti per il conseguimento degli obiettivi di valorizzazione indicati nella richiesta.
 
 L'autorizzazione non puo' essere rilasciata qualora la destinazione d'uso proposta sia suscettibile di arrecare pregiudizio alla conservazione e fruizione pubblica del bene o comunque risulti non compatibile con il carattere storico e artistico del bene medesimo. Il Ministero ha facolta' di indicare, nel provvedimento di diniego, destinazioni d'uso ritenute compatibili con il carattere del bene e con le esigenze della sua conservazione.
 
@@ -683,7 +1110,43 @@ Il soprintendente, qualora verifichi l'inadempimento, da parte dell'acquirente, 
 
 ## Art. 56. — Altre alienazioni soggette ad autorizzazione
 
+1.
+                        
+                            
+                                E' altresi' soggetta ad autorizzazione da parte del Ministero:
+ 
+                            
+                            
+                                a)
+                                
+                                    l'alienazione dei beni culturali appartenenti allo Stato, alle regioni e agli altri enti pubblici territoriali, e diversi da quelli indicati negli articoli 54, commi 1 e 2, e 55, comma 1.
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'alienazione dei beni culturali appartenenti a soggetti pubblici diversi da quelli indicati alla lettera a) o a persone giuridiche private senza fine di lucro, (( ivi compresi gli enti ecclesiastici civilmente riconosciuti )).
+
 ((
+
+2.
+                        
+                            
+                                L'autorizzazione e' richiesta inoltre:
+ 
+                            
+                            
+                                a)
+                                
+                                    nel caso di vendita, anche parziale, da parte di soggetti di cui al comma 1, lettera b), di collezioni o serie di oggetti e di raccolte librarie;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    nel caso di vendita, da parte di persone giuridiche private senza fine di lucro, ivi compresi gli enti ecclesiastici civilmente riconosciuti, di archivi o di singoli documenti.
 
 La richiesta di autorizzazione e' corredata dagli elementi di cui all'articolo 55, comma 2, lettere a), b) ed e), e l'autorizzazione e' rilasciata con le indicazioni di cui al comma 3, lettere a) e b) del medesimo articolo.
 
@@ -731,7 +1194,71 @@ Il Ministero puo' autorizzare la permuta dei beni indicati agli articoli 55 e 56
 
 Gli atti che trasferiscono, in tutto o in parte, a qualsiasi titolo, la proprieta' o (( , limitatamente ai beni mobili,)) la detenzione di beni culturali sono denunciati al Ministero.
 
+2.
+                        
+                            
+                                La denuncia e' effettuata entro trenta giorni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    dall'alienante o dal cedente la detenzione, in caso di alienazione a titolo oneroso o gratuito o di trasferimento della detenzione; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    dall'acquirente, in caso di trasferimento avvenuto nell'ambito di procedure di vendita forzata o fallimentare ovvero in forza di sentenza che produca gli effetti di un contratto di alienazione non concluso; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    dall'erede o dal legatario, in caso di successione a causa di morte. Per l'erede, il termine decorre dall'accettazione dell'eredita' o dalla presentazione della dichiarazione ai competenti uffici tributari; per il legatario, il termine decorre dalla comunicazione notarile prevista dall'articolo 623 del codice civile, salva rinuncia ai sensi delle disposizioni del codice civile.
+
 La denuncia e' presentata al competente soprintendente del luogo ove si trovano i beni.
+
+4.
+                        
+                            
+                                La denuncia contiene: 
+ 
+                            
+                            
+                                a)
+                                
+                                    i dati identificativi delle parti e la sottoscrizione delle medesime o dei loro rappresentanti legali; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    i dati identificativi dei beni; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    l'indicazione del luogo ove si trovano i beni; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    l'indicazione della natura e delle condizioni dell'atto di trasferimento; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    l'indicazione del domicilio in Italia delle parti ai fini delle eventuali comunicazioni previste dal presente Titolo.
 
 Si considera non avvenuta la denuncia priva delle indicazioni previste dal comma 4 o con indicazioni incomplete o imprecise.
 
@@ -823,6 +1350,83 @@ Con riferimento al regime della circolazione internazionale, i beni costituenti 
 
 E' vietata l'uscita definitiva dal territorio della Repubblica dei beni culturali mobili indicati nell'articolo 10, commi 1, 2 e 3.
 
+2.
+                        
+                            
+                                E' vietata altresi' l'uscita: 
+ 
+                            
+                            
+                                a)
+                                
+                                    delle cose mobili appartenenti ai soggetti indicati all'articolo 10, comma 1, che siano opera di autore non piu' vivente e la cui esecuzione risalga ad oltre settanta anni, fino a quando non sia stata effettuata la verifica prevista dall'articolo 12. 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    dei beni, a chiunque appartenenti, che rientrino nelle categorie indicate all'articolo 10, comma 3, e che il Ministero, sentito il competente organo consultivo, abbia preventivamente individuato e, per periodi temporali definiti, abbia escluso dall'uscita, perche' dannosa per il patrimonio culturale in relazione alle caratteristiche oggettive, alla provenienza o all'appartenenza dei beni medesimi.
+
+3.
+                        
+                            
+                                Fuori dei casi previsti dai commi 1 e 2, e' soggetta ad autorizzazione, secondo le modalita' stabilite nella presente sezione e nella sezione II di questo Capo, l'uscita definitiva dal territorio della Repubblica: 
+ 
+                            
+                            
+                                a)
+                                
+                                    delle cose, a chiunque appartenenti, che presentino interesse culturale, siano opera di autore non piu' vivente e la cui esecuzione risalga ad oltre settanta anni, il cui valore, fatta eccezione per le cose di cui all'allegato A, lettera B, numero 1, sia superiore ((a euro 50.000)); 
+
+                                
+                            
+                            
+                                a-bis)
+                                
+                                    
+                                        ((dei beni librari, a chiunque appartenenti, che presentino interesse culturale, siano opera di autore non piu' vivente e la cui esecuzione risalga ad oltre settanta anni, il cui valore, fatta eccezione per le cose di cui all'allegato A, lettera B, numero 1, sia superiore a euro 13.500)); 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    degli archivi e dei singoli documenti, appartenenti a privati, che presentino interesse culturale; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    delle cose rientranti nelle categorie di cui all'articolo 11, comma 1, lettere f), g) ed h), a chiunque appartengano.
+
+4.
+                        
+                            
+                                Non e' soggetta ad autorizzazione l'uscita: 
+ 
+                            
+                            
+                                a)
+                                
+                                    delle cose di cui all'articolo 11, comma 1, lettera d); 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    delle cose che presentino interesse culturale, siano opera di autore non piu' vivente e la cui esecuzione risalga ad oltre settanta anni, il cui valore sia inferiore ((a euro 50.000)), fatta eccezione per le cose di cui all'allegato A, lettera B, numero 1; 
+
+                                
+                            
+                            
+                                b-bis)
+                                
+                                    
+                                        ((dei beni librari, a chiunque appartenenti, che presentino interesse culturale, siano opera di autore non piu' vivente e la cui esecuzione risalga ad oltre settanta anni, il cui valore, fatta eccezione per le cose di cui all'allegato A, lettera B, numero 1, sia inferiore a euro 13.500)).
+
 Nei casi di cui al comma 4, l'interessato ha l'onere di comprovare al competente ufficio di esportazione, mediante dichiarazione ai sensi del testo unico di cui al decreto del Presidente della Repubblica 28 dicembre 2000, n. 445, che le cose da trasferire all'estero rientrino nelle ipotesi per le quali non e' prevista l'autorizzazione, secondo le procedure e con le modalita' stabilite con decreto ministeriale. Il competente ufficio di esportazione, qualora reputi che le cose possano rientrare tra quelle di cui all'articolo 10, comma 3, lettera d-bis), avvia il procedimento di cui all'articolo 14, che si conclude entro sessanta giorni dalla data di presentazione della dichiarazione.
 
 ((La validita' temporale delle dichiarazioni di cui al comma 4-bis e' pari alla durata della validita' dell'attestato di libera circolazione, determinata ai sensi dell'articolo 68, comma 5)).
@@ -831,7 +1435,57 @@ Nei casi di cui al comma 4, l'interessato ha l'onere di comprovare al competente
 
 Puo' essere autorizzata l'uscita temporanea dal territorio della Repubblica delle cose e dei beni culturali indicati nell'articolo 65, commi 1, 2, lettera a), e 3, per manifestazioni, mostre o esposizioni d' arte di alto interesse culturale, sempre che ne siano garantite l'integrita' e la sicurezza.
 
+2.
+                        
+                            
+                                Non possono comunque uscire: 
+
+                            
+                            
+                                a)
+                                
+                                    i beni suscettibili di subire danni nel trasporto o nella permanenza in condizioni ambientali sfavorevoli; 
+                                
+                            
+                            
+                                b)
+                                
+                                    i beni che costituiscono il fondo principale di una determinata ed organica sezione di un museo, pinacoteca, galleria, archivio o biblioteca o di una collezione artistica o bibliografica. ((7)) 
+ 
+AGGIORNAMENTO (7) 
+--------------- 
+ Il D.Lgs. 26 marzo 2008, n. 62 ha disposto (con l'art. 2, comma 1, lettera ss)) l'introduzione della Sezione i-bis - Uscita dal territorio nazionale e ingresso nel territorio nazionale, comprendente gli articoli da 65 a 72.
+
 ## Art. 67. — Altri casi di uscita temporanea
+
+1.
+                        
+                            
+                                Le cose e i beni culturali indicati nell'articolo 65, commi 1, 2, lettera a), e 3 possono essere autorizzati ad uscire temporaneamente anche quando: 
+
+                            
+                            
+                                a)
+                                
+                                    costituiscano mobilio privato dei cittadini italiani che ricoprono, presso sedi diplomatiche o consolari, istituzioni comunitarie o organizzazioni internazionali, cariche che comportano il trasferimento all'estero degli interessati, per un periodo non superiore alla durata del loro mandato; 
+                                
+                            
+                            
+                                b)
+                                
+                                    costituiscano l'arredamento delle sedi diplomatiche e consolari all'estero; 
+                                
+                            
+                            
+                                c)
+                                
+                                    debbano essere sottoposti ad analisi, indagini o interventi di conservazione da eseguire necessariamente all'estero; 
+                                
+                            
+                            
+                                d)
+                                
+                                    la loro uscita sia richiesta in attuazione di accordi culturali con istituzioni museali straniere, in regime di reciprocita' e per la durata stabilita negli accordi medesimi, che non puo' essere ((...)) superiore a quattro anni ((, rinnovabili una sola volta)).
 
 Non e' soggetta ad autorizzazione l'uscita temporanea dal territorio della Repubblica dei mezzi di trasporto aventi piu' di settantacinque anni per la partecipazione a mostre e raduni internazionali, salvo che sia per essi intervenuta la dichiarazione ai sensi dell'articolo 13. (7) 
  
@@ -955,6 +1609,52 @@ La restituzione e' ammessa se le condizioni indicate nei commi 4 e 5 sussistono 
 
 L'autorita' centrale prevista ((dall'articolo 4 della direttiva UE)) e', per l'Italia, il Ministero. Esso si avvale, per i vari compiti indicati nella direttiva, dei suoi organi centrali e periferici, nonche' della cooperazione degli altri Ministeri, degli altri organi dello Stato, delle regioni e degli altri enti pubblici territoriali.
 
+2.
+                        
+                            
+                                Per il ritrovamento e la restituzione dei beni culturali appartenenti al patrimonio di altro Stato membro dell'Unione europea, il Ministero: 
+ 
+                            
+                            
+                                a)
+                                
+                                    assicura la propria collaborazione alle autorita' competenti degli altri Stati membri; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    fa eseguire sul territorio nazionale ricerche volte alla localizzazione del bene e alla identificazione di chi lo possieda o comunque lo detenga. Le ricerche sono disposte su domanda dello Stato richiedente, corredata da ogni notizia e documento utili per agevolare le indagini, con particolare riguardo alla localizzazione del bene; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    notifica agli Stati membri interessati il ritrovamento nel territorio nazionale di un bene la cui illecita uscita da uno Stato membro possa presumersi per indizi precisi e concordanti; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    agevola le operazioni che lo Stato membro interessato esegue per verificare, in ordine al bene oggetto della notifica di cui alla lettera c), la sussistenza dei presupposti e delle condizioni indicati all'articolo 75, purche' tali operazioni vengano effettuate ((entro sei mesi)) dalla notifica stessa. Qualora la verifica non sia eseguita entro il prescritto termine, non sono applicabili le disposizioni contenute nella lettera e); 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    dispone, ove necessario, la rimozione del bene e la sua temporanea custodia presso istituti pubblici nonche' ogni altra misura necessaria per assicurarne la conservazione ed impedirne la sottrazione alla procedura di restituzione; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    favorisce l'amichevole composizione, tra Stato richiedente e possessore o detentore a qualsiasi titolo del bene, di ogni controversia concernente la restituzione. A tal fine, tenuto conto della qualita' dei soggetti e della natura del bene, il Ministero puo' proporre allo Stato richiedente e ai soggetti possessori o detentori la definizione della controversia mediante arbitrato, da svolgersi secondo la legislazione italiana, e raccogliere, per l'effetto, il formale accordo di entrambe le parti.
+
 ((
 
 L'autorita' centrale, al fine di cooperare e consultarsi con gli altri Stati membri e per diffondere tutte le pertinenti informazioni correlate a casi relative ai beni culturali rubati o usciti illecitamente dal territorio nazionale, utilizza un modulo del sistema d'informazione del mercato interno, di seguito «IMI», stabilito dal regolamento (UE) n. 1024/2012, specificamente adattato per i beni culturali.
@@ -966,6 +1666,24 @@ L'autorita' centrale, al fine di cooperare e consultarsi con gli altri Stati mem
 Per i beni culturali usciti illecitamente dal loro territorio, gli Stati membri dell'Unione europea possono esercitare l'azione di restituzione davanti all'autorita' giudiziaria ordinaria, secondo quanto previsto dall'articolo 75.
 
 L'azione e' proposta davanti al tribunale del luogo in cui il bene si trova.
+
+3.
+                        
+                            
+                                Oltre ai requisiti previsti nell'articolo 163 del codice di procedura civile, l'atto di citazione deve contenere: 
+ 
+                            
+                            
+                                a)
+                                
+                                    un documento descrittivo del bene richiesto che ne certifichi la qualita' di bene culturale; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la dichiarazione delle autorita' competenti dello Stato richiedente relativa all'uscita illecita del bene dal territorio nazionale.
 
 L'atto di citazione e' notificato, oltre che al possessore o al detentore a qualsiasi titolo del bene, anche al Ministero per essere annotato nello speciale registro di trascrizione delle domande giudiziali di restituzione.
 
@@ -1099,6 +1817,30 @@ Qualora si proceda per conto dello Stato, delle regioni, degli altri enti pubbli
 
 ## Art. 92. — Premio per i ritrovamenti
 
+1.
+                        
+                            
+                                Il Ministero corrisponde un premio non superiore al quarto del valore delle cose ritrovate:
+
+                            
+                            
+                                a)
+                                
+                                    al proprietario dell'immobile dove e' avvenuto il ritrovamento;
+                                
+                            
+                            
+                                b)
+                                
+                                    al concessionario dell'attivita' di ricerca, (( di cui all'articolo 89, qualora l'attivita' medesima non rientri tra i suoi scopi istituzionali o statutari;))
+                                    
+                                
+                            
+                            
+                                c)
+                                
+                                    allo scopritore fortuito che ha ottemperato agli obblighi previsti dall'articolo 90.
+
 Il proprietario dell'immobile che abbia ottenuto la concessione prevista dall'articolo 89 ovvero sia scopritore della cosa, ha diritto ad un premio non superiore alla meta' del valore delle cose ritrovate.
 
 Nessun premio spetta allo scopritore che si sia introdotto e abbia ricercato nel fondo altrui senza il consenso del proprietario o del possessore.
@@ -1162,6 +1904,47 @@ Nei casi di espropriazione disciplinati dagli articoli 96 e 97 si applicano, in 
 
 Ai fini del presente codice sono istituti e luoghi della cultura i musei, le biblioteche e gli archivi, le aree e i parchi archeologici, i complessi monumentali.
 
+2.
+                        
+                            
+                                Si intende per:
+
+                            
+                            
+                                a)
+                                
+                                    "museo", una struttura permanente che acquisisce, (( cataloga, )) conserva, ordina ed espone beni culturali per finalita' di educazione e di studio;
+                                
+                            
+                            
+                                b)
+                                
+                                    "biblioteca", una struttura permanente che raccoglie (( , cataloga )) e conserva un insieme organizzato di libri, materiali e informazioni, comunque editi o pubblicati su qualunque supporto, e ne assicura la consultazione al fine di promuovere la lettura e lo studio;
+                                
+                            
+                            
+                                c)
+                                
+                                    "archivio", una struttura permanente che raccoglie, inventaria e conserva documenti originali di interesse storico e ne assicura la consultazione per finalita' di studio e di ricerca.
+                                
+                            
+                            
+                                d)
+                                
+                                    "area archeologica", un sito caratterizzato dalla presenza di resti di natura fossile o di manufatti o strutture preistorici o di eta' antica;
+                                
+                            
+                            
+                                e)
+                                
+                                    "parco archeologico", un ambito territoriale caratterizzato da importanti evidenze archeologiche e dalla compresenza di valori storici, paesaggistici o ambientali, attrezzato come museo all'aperto;
+                                
+                            
+                            
+                                f)
+                                
+                                    "complesso monumentale", un insieme formato da una pluralita' di fabbricati edificati anche in epoche diverse, che con il tempo hanno acquisito, come insieme, una autonoma rilevanza artistica, storica o etnoantropologica.
+
 Gli istituti ed i luoghi di cui al comma 1 che appartengono a soggetti pubblici sono destinati alla pubblica fruizione ed espletano un servizio pubblico.
 
 Le strutture espositive e di consultazione nonche' i luoghi di cui al comma 1 che appartengono a soggetti privati e sono aperti al pubblico espletano un servizio privato di utilita' sociale.
@@ -1185,9 +1968,56 @@ L'accesso agli istituti ed ai luoghi pubblici della cultura puo' essere gratuito
 
 L'accesso alle biblioteche ed agli archivi pubblici per finalita' di lettura, studio e ricerca e' gratuito.
 
+3.
+                        
+                            
+                                Nei casi di accesso a pagamento, il Ministero, le regioni e gli altri enti pubblici territoriali determinano:
+
+                            
+                            
+                                a)
+                                
+                                    i casi di libero accesso e di ingresso gratuito;
+                                
+                            
+                            
+                                b)
+                                
+                                    le categorie di biglietti e i criteri per la determinazione del relativo prezzo. Il prezzo del biglietto include gli oneri derivanti dalla stipula delle convenzioni previste alla lettera c);
+                                
+                            
+                            
+                                c)
+                                
+                                    le modalita' di emissione, distribuzione e vendita del biglietto d'ingresso e di riscossione del corrispettivo, anche mediante convenzioni con soggetti pubblici e privati. Per la gestione dei biglietti d'ingresso possono essere impiegate nuove tecnologie informatiche, con possibilita' di prevendita e vendita presso terzi convenzionati.
+                                
+                            
+                            
+                                d)
+                                
+                                    l'eventuale percentuale dei proventi dei biglietti da assegnare all'Ente nazionale di assistenza e previdenza per i pittori, scultori, musicisti, scrittori ed autori drammatici.
+
 Eventuali agevolazioni per l'accesso devono essere regolate in modo da non creare discriminazioni ingiustificate nei confronti dei cittadini degli altri Stati membri dell'Unione europea.
 
 ## Art. 104. — Fruizione di beni culturali di proprieta' privata
+
+1.
+                        
+                            
+                                Possono essere assoggettati a visita da parte del pubblico per scopi culturali:
+ 
+                            
+                            
+                                a)
+                                
+                                    i beni culturali immobili indicati all'articolo 10, comma 3, lettere a) e d), che rivestono interesse eccezionale;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le collezioni dichiarate ai sensi dell'articolo 13.
 
 L'interesse eccezionale degli immobili indicati al comma 1, lettera a), e' dichiarato con atto del Ministero, sentito il proprietario.
 
@@ -1221,6 +2051,38 @@ E' di regola vietata la riproduzione di beni culturali che consista nel trarre c
 
 ## Art. 108. — Canoni di concessione, corrispettivi di riproduzione, cauzione
 
+1.
+                        
+                            
+                                I canoni di concessione ed i corrispettivi connessi alle riproduzioni di beni culturali sono determinati dall'autorita' che ha in consegna i beni tenendo anche conto: 
+ 
+                            
+                            
+                                a)
+                                
+                                    del carattere delle attivita' cui si riferiscono le concessioni d'uso; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    dei mezzi e delle modalita' di esecuzione delle riproduzioni; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    del tipo e del tempo di utilizzazione degli spazi e dei beni; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    dell'uso e della destinazione delle riproduzioni, nonche' dei benefici economici che ne derivano al richiedente.
+
 I canoni e i corrispettivi sono corrisposti, di regola, in via anticipata.
 
 Nessun canone e' dovuto per le riproduzioni richieste ((o eseguite)) da privati per uso personale o per motivi di studio, ovvero da soggetti pubblici o privati per finalita' di valorizzazione, purche' attuate senza scopo di lucro. I richiedenti sono comunque tenuti al rimborso delle spese sostenute dall'amministrazione concedente.
@@ -1236,6 +2098,23 @@ La cauzione e' restituita quando sia stato accertato che i beni in concessione n
 Gli importi minimi dei canoni e dei corrispettivi per l'uso e la riproduzione dei beni sono fissati con provvedimento dell'amministrazione concedente.
 
 ## Art. 109. — Catalogo di immagini fotografiche e di riprese di beni culturali
+
+1.
+                        
+                            
+                                Qualora la concessione abbia ad oggetto la riproduzione di beni culturali per fini di raccolta e catalogo di immagini fotografiche e di riprese in genere, il provvedimento concessorio prescrive:
+
+                            
+                            
+                                a)
+                                
+                                    il deposito del doppio originale di ogni ripresa o fotografia;
+                                
+                            
+                            
+                                b)
+                                
+                                    la restituzione, dopo l'uso, del fotocolor originale con relativo codice.
 
 ## Art. 110. — Incasso e riparto di proventi
 
@@ -1341,6 +2220,59 @@ I beni culturali che siano stati conferiti o concessi in uso ai sensi dell'artic
 
 Negli istituti e nei luoghi della cultura indicati all'articolo 101 possono essere istituiti servizi di assistenza culturale e di ospitalita' per il pubblico.
 
+2.
+                        
+                            
+                                Rientrano tra i servizi di cui al comma 1: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il servizio editoriale e di vendita riguardante i cataloghi e i sussidi catalografici, audiovisivi e informatici, ogni altro materiale informativo, e le riproduzioni di beni culturali; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    i servizi riguardanti beni librari e archivistici per la fornitura di riproduzioni e il recapito del prestito bibliotecario; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    la gestione di raccolte discografiche, di diapoteche e biblioteche museali; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    la gestione dei punti vendita e l'utilizzazione commerciale delle riproduzioni dei beni; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    i servizi di accoglienza, ivi inclusi quelli di assistenza e di intrattenimento per l'infanzia, i servizi di informazione, di guida e assistenza didattica, i centri di incontro; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    i servizi di caffetteria, di ristorazione, di guardaroba; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    l'organizzazione di mostre e manifestazioni culturali, nonche' di iniziative promozionali.
+
 I servizi di cui al comma 1 possono essere gestiti in forma integrata con i servizi di pulizia, di vigilanza e di biglietteria. ((Qualora l'affidamento dei servizi integrati abbia ad oggetto una concessione di servizi ai sensi dell'articolo 3, comma 1, lettera vv), del decreto legislativo 18 aprile 2016, n. 50, l'integrazione puo' essere realizzata anche indipendentemente dal rispettivo valore economico dei servizi considerati. E' ammessa la stipulazione di contratti di appalto pubblico aventi ad oggetto uno o piu' servizi tra quelli di cui al comma 1 e uno o piu' tra i servizi di pulizia, di vigilanza e di biglietteria)).
 
 La gestione dei servizi medesimi e' attuata nelle forme previste dall'articolo 115.
@@ -1419,6 +2351,32 @@ f) i dati relativi agli immobili in disuso presenti nel territorio di competenza
 ## - - Capo III Consultabilita' dei documenti degli archivi e tutela della riservatezza
 
 ## Art. 122. — Archivi di Stato e archivi storici degli enti pubblici: consultabilita' dei documenti
+
+1.
+                        
+                            
+                                I documenti conservati negli archivi di Stato e negli archivi storici delle regioni, degli altri enti pubblici territoriali nonche' di ogni altro ente ed istituto pubblico sono liberamente consultabili, ad eccezione: 
+ 
+                            
+                            
+                                a)
+                                
+                                    di quelli dichiarati di carattere riservato, ai sensi dell'articolo 125, relativi alla politica estera o interna dello Stato, che diventano consultabili cinquanta anni dopo la loro data; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    di quelli contenenti i dati sensibili nonche' i dati relativi a provvedimenti di natura penale espressamente indicati dalla normativa in materia di trattamento dei dati personali, che diventano consultabili quaranta anni dopo la loro data. Il termine e' di settanta anni se i dati sono idonei a rivelare lo stato di salute, la vita sessuale o rapporti riservati di tipo familiare. 
+
+                                
+                            
+                            
+                                b-bis)
+                                
+                                    
+                                        ((LETTERA ABROGATA DAL D.L. 31 MAGGIO 2014, N. 83, CONVERTITO CON MODIFICAZIONI DALLA L. 29 LUGLIO 2014, N. 106)).
 
 Anteriormente al decorso dei termini indicati nel comma 1, i documenti restano accessibili ai sensi della disciplina sull'accesso ai documenti amministrativi. Sull'istanza di accesso provvede l'amministrazione che deteneva il documento prima del versamento o del deposito , ove ancora operante, ovvero quella che ad essa e' subentrata nell'esercizio delle relative competenze.
 
@@ -1527,6 +2485,32 @@ Gli altri enti pubblici territoriali conformano la loro attivita' di pianificazi
 
 ## Art. 134. — Beni paesaggistici
 
+1.
+                        
+                            
+                                Sono beni paesaggistici:
+ 
+                            
+                            
+                                a)
+                                
+                                    gli immobili e le aree ((di cui)) all'articolo 136, individuati ai sensi degli articoli da 138 a 141;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le aree ((di cui)) all'articolo 142;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    
+                                        ((gli ulteriori immobili ed aree specificamente individuati a termini dell'articolo 136 e)) sottoposti a tutela dai piani paesaggistici previsti dagli articoli 143 e 156.
+
 ## Art. 135. — (( (Pianificazione paesaggistica) ))
 
 ((
@@ -1537,11 +2521,75 @@ I piani paesaggistici, con riferimento al territorio considerato, ne riconoscono
 
 In riferimento a ciascun ambito, i piani predispongono specifiche normative d'uso, per le finalita' indicate negli articoli 131 e 133, ed attribuiscono adeguati obiettivi di qualita'.
 
+4.
+                        
+                            
+                                Per ciascun ambito i piani paesaggistici definiscono apposite prescrizioni e previsioni ordinate in particolare:
+ 
+                            
+                            
+                                a)
+                                
+                                    alla conservazione degli elementi costitutivi e delle morfologie dei beni paesaggistici sottoposti a tutela, tenuto conto anche delle tipologie architettoniche, delle tecniche e dei materiali costruttivi, nonche' delle esigenze di ripristino dei valori paesaggistici;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    alla riqualificazione delle aree compromesse o degradate;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    alla salvaguardia delle caratteristiche paesaggistiche degli altri ambiti territoriali, assicurando, al contempo, il minor consumo del territorio;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    alla individuazione delle linee di sviluppo urbanistico ed edilizio, in funzione della loro compatibilita' con i diversi valori paesaggistici riconosciuti e tutelati, con particolare attenzione alla salvaguardia dei paesaggi rurali e dei siti inseriti nella lista del patrimonio mondiale dell'UNESCO.
+
 ))
 
 ## - - Capo II Individuazione dei beni paesaggistici
 
 ## Art. 136. — Immobili ed aree di notevole interesse pubblico
+
+1.
+                        
+                            
+                                Sono soggetti alle disposizioni di questo Titolo per il loro notevole interesse pubblico:
+ 
+                            
+                            
+                                a)
+                                
+                                    le cose immobili che hanno cospicui caratteri di bellezza naturale (( , singolarita' geologica o memoria storica, ivi compresi gli alberi monumentali ));
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le ville, i giardini e i parchi, non tutelati dalle disposizioni della Parte seconda del presente codice, che si distinguono per la loro non comune bellezza;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    i complessi di cose immobili che compongono un caratteristico aspetto avente valore estetico e tradizionale , (( inclusi i centri ed i nuclei storici ));
+
+                                
+                            
+                            
+                                d)
+                                
+                                    le bellezze panoramiche ((. . . )) e cosi' pure quei punti di vista o di belvedere, accessibili al pubblico, dai quali si goda lo spettacolo di quelle bellezze.
 
 ## Art. 137. — (Commissioni regionali)
 
@@ -1629,7 +2677,114 @@ I provvedimenti integrativi adottati ai sensi dei commi 1 e 2 producono gli effe
 
 ## Art. 142. — (Aree tutelate per legge)
 
+1.
+                        
+                            
+                                Sono comunque di interesse paesaggistico e sono sottoposti alle disposizioni di questo Titolo:
+ 
+                            
+                            
+                                a)
+                                
+                                    i territori costieri compresi in una fascia della profondita' di 300 metri dalla linea di battigia, anche per i terreni elevati sul mare;
 
+                                
+                            
+                            
+                                b)
+                                
+                                    i territori contermini ai laghi compresi in una fascia della profondita' di 300 metri dalla linea di battigia, anche per i territori elevati sui laghi;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    i fiumi, i torrenti, i corsi d'acqua iscritti negli elenchi previsti dal testo unico delle disposizioni di legge sulle acque ed impianti elettrici, approvato con regio decreto 11 dicembre 1933, n. 1775, e le relative sponde o piedi degli argini per una fascia di 150 metri ciascuna;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    le montagne per la parte eccedente 1.600 metri sul livello del mare per la catena alpina e 1.200 metri sul livello del mare per la catena appenninica e per le isole;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    i ghiacciai e i circhi glaciali;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    i parchi e le riserve nazionali o regionali, nonche' i territori di protezione esterna dei parchi;
+
+                                
+                            
+                            
+                                g)
+                                
+                                    i territori coperti da foreste e da boschi, ancorche' percorsi o danneggiati dal fuoco, e quelli sottoposti a vincolo di rimboschimento, come definiti dall'articolo 2, commi 2 e 6, del decreto legislativo 18 maggio 2001, n. 227;
+
+                                
+                            
+                            
+                                h)
+                                
+                                    le aree assegnate alle universita' agrarie e le zone gravate da usi civici;
+
+                                
+                            
+                            
+                                i)
+                                
+                                    le zone umide incluse nell'elenco previsto dal decreto del Presidente della Repubblica 13 marzo 1976, n. 448;
+
+                                
+                            
+                            
+                                l)
+                                
+                                    i vulcani;
+
+                                
+                            
+                            
+                                m)
+                                
+                                    le zone di interesse archeologico ((. . . )).
+
+2.
+                        
+                            
+                                
+                                    (( La disposizione di cui al comma 1, lettere a), b), c), d), e), g), h), l), m), non si applica alle aree ))che alla data del 6 settembre 1985:
+ 
+                            
+                            
+                                a)
+                                
+                                    erano delimitate negli strumenti urbanistici ((, ai sensi del decreto ministeriale 2 aprile 1968, n. 1444, come zone territoriali omogenee A e B));
+
+                                
+                            
+                            
+                                b)
+                                
+                                    erano delimitate negli strumenti urbanistici ai sensi del decreto ministeriale 2 aprile 1968, n. 1444, (( come zone territoriali omogenee diverse dalle zone A e B, limitatamente alle parti di esse ricomprese )) in piani pluriennali di attuazione, a condizione che le relative previsioni siano state concretamente realizzate;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    nei comuni sprovvisti di tali strumenti, ricadevano nei centri edificati perimetrati ai sensi dell'articolo 18 della legge 22 ottobre 1971, n. 865.
+
+(( La disposizione del comma 1 non si applica, altresi', ai beni ivi indicati alla lettera c) che la regione abbia ritenuto in tutto o in parte )) irrilevanti ai fini paesaggistici includendoli in apposito elenco reso pubblico e comunicato al Ministero. Il Ministero, con provvedimento motivato, puo' confermare la rilevanza paesaggistica dei suddetti beni. Il provvedimento di conferma e' sottoposto alle forme di pubblicita' previste dall'articolo 140, (( comma 4)).
 
 Resta in ogni caso ferma la disciplina derivante dagli atti e dai provvedimenti indicati all'articolo 157.
 
@@ -1637,9 +2792,94 @@ Resta in ogni caso ferma la disciplina derivante dagli atti e dai provvedimenti 
 
 ## Art. 143. — (Piano paesaggistico)
 
+1.
+                        
+                            
+                                L'elaborazione del piano paesaggistico comprende almeno: 
+ 
+                            
+                            
+                                a)
+                                
+                                    ricognizione del territorio oggetto di pianificazione, mediante l'analisi delle sue caratteristiche paesaggistiche, impresse dalla natura, dalla storia e dalle loro interrelazioni, ai sensi degli articoli 131 e 135; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    ricognizione degli immobili e delle aree dichiarati di notevole interesse pubblico ai sensi dell'articolo 136, loro delimitazione e rappresentazione in scala idonea alla identificazione, nonche' determinazione delle specifiche prescrizioni d'uso, a termini dell'articolo 138, comma 1, fatto salvo il disposto di cui agli articoli 140, comma 2, e 141-bis; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    ricognizione delle aree di cui al comma 1 dell'articolo 142, loro delimitazione e rappresentazione in scala idonea alla identificazione, nonche' determinazione di prescrizioni d'uso intese ad assicurare la conservazione dei caratteri distintivi di dette aree e, compatibilmente con essi, la valorizzazione; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    eventuale individuazione di ulteriori immobili od aree, di notevole interesse pubblico a termini dell'articolo 134, comma 1, lettera c), loro delimitazione e rappresentazione in scala idonea alla identificazione, nonche' determinazione delle specifiche prescrizioni d'uso, a termini dell'articolo 138, comma 1; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    individuazione di eventuali, ulteriori contesti, diversi da quelli indicati all'articolo 134, da sottoporre a specifiche misure di salvaguardia e di utilizzazione; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    analisi delle dinamiche di trasformazione del territorio ai fini dell'individuazione dei fattori di rischio e degli elementi di vulnerabilita' del paesaggio, nonche' comparazione con gli altri atti di programmazione, di pianificazione e di difesa del suolo; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    individuazione degli interventi di recupero e riqualificazione delle aree significativamente compromesse o degradate e degli altri interventi di valorizzazione compatibili con le esigenze della tutela; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    individuazione delle misure necessarie per il corretto inserimento, nel contesto paesaggistico, degli interventi di trasformazione del territorio, al fine di realizzare uno sviluppo sostenibile delle aree interessate; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    individuazione dei diversi ambiti e dei relativi obiettivi di qualita', a termini dell'articolo 135, comma 3.
+
 Le regioni, il Ministero ed il Ministero dell'ambiente e della tutela del territorio e del mare possono stipulare intese per la definizione delle modalita' di elaborazione congiunta dei piani paesaggistici, salvo quanto previsto dall'articolo 135, comma 1, terzo periodo. Nell'intesa e' stabilito il termine entro il quale deve essere completata l'elaborazione del piano. Il piano e' oggetto di apposito accordo fra pubbliche amministrazioni, ai sensi dell'articolo 15 della legge 7 agosto 1990, n. 241. L'accordo stabilisce altresi' i presupposti, le modalita' ed i tempi per la revisione del piano, con particolare riferimento all'eventuale sopravvenienza di dichiarazioni emanate ai sensi degli articoli 140 e 141 o di integrazioni disposte ai sensi dell'articolo 141-bis. Il piano e' approvato con provvedimento regionale entro il termine fissato nell'accordo. Decorso inutilmente tale termine, il piano, limitatamente ai beni paesaggistici di cui alle lettere b), c) e d) del comma 1, e' approvato in via sostitutiva con decreto del Ministro, sentito il Ministro dell'ambiente e della tutela del territorio e del mare.
 
 Approvato il piano paesaggistico, il parere reso dal soprintendente nel procedimento autorizzatorio di cui agli articoli 146 e 147 e' vincolante in relazione agli interventi da eseguirsi nell'ambito dei beni paesaggistici di cui alle lettere b), c) e d) del comma 1, salvo quanto disposto al comma 4, nonche' quanto previsto dall'articolo 146, comma 5.
+
+4.
+                        
+                            
+                                Il piano puo' prevedere: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la individuazione di aree soggette a tutela ai sensi dell'articolo 142 e non interessate da specifici procedimenti o provvedimenti ai sensi degli articoli 136, 138, 139, 140, 141 e 157, nelle quali la realizzazione di interventi puo' avvenire previo accertamento, nell'ambito del procedimento ordinato al rilascio del titolo edilizio, della conformita' degli interventi medesimi alle previsioni del piano paesaggistico e dello strumento urbanistico comunale; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la individuazione delle aree gravemente compromesse o degradate ((, ivi comprese quelle interessate da una rilevante e significativa infrastrutturazione all'interno degli ambiti portuali individuati e delimitati dai piani regolatori portuali di cui all'articolo 5 della legge 28 gennaio 1994, n. 84,)) nelle quali la realizzazione degli interventi effettivamente volti al recupero ed alla riqualificazione non richiede il rilascio dell'autorizzazione di cui all'articolo 146.
 
 L'entrata in vigore delle disposizioni di cui al comma 4 e' subordinata all'approvazione degli strumenti urbanistici adeguati al piano paesaggistico, ai sensi dell'articolo 145, commi 3 e 4.
 
@@ -1737,9 +2977,52 @@ Le commissioni esprimono (( pareri nel corso dei procedimenti autorizzatori prev
 
 ## Art. 149. — Interventi non soggetti ad autorizzazione
 
+1.
+                        
+                            
+                                Fatta salva l'applicazione dell'articolo 143, comma 4, lettera a) , non e' comunque richiesta l'autorizzazione prescritta dall'articolo 146, dall'articolo 147 e dall'articolo 159: 
+ 
+                            
+                            
+                                a)
+                                
+                                    per gli interventi di manutenzione ordinaria, straordinaria, di consolidamento statico e di restauro conservativo che non alterino lo stato dei luoghi e l'aspetto esteriore degli edifici; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    per gli interventi inerenti l'esercizio dell'attivita' agro-silvo-pastorale che non comportino alterazione permanente dello stato dei luoghi con costruzioni edilizie ed altre opere civili, e sempre che si tratti di attivita' ed opere che non alterino l'assetto idrogeologico del territorio; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    per il taglio colturale, la forestazione, la riforestazione, le opere di bonifica, antincendio e di conservazione da eseguirsi nei boschi e nelle foreste (( indicati agli articoli 136 e 142, comma 1, lettera g) )), purche' previsti ed autorizzati in base alla normativa in materia.
+
 ## Art. 150. — Inibizione o sospensione dei lavori
 
-) cessa di avere efficacia se entro il termine di novanta giorni non sia stata effettuata la pubblicazione all'albo pretorio della proposta (( di dichiarazione di notevole interesse pubblico )) di cui all'articolo 138 o all'articolo 141, ovvero non sia stata ricevuta dagli interessati la comunicazione prevista dall'articolo 139, comma 3.
+1.
+                        
+                            
+                                Indipendentemente dall'avvenuta pubblicazione all'albo pretorio prevista dagli articoli 139 e 141, ovvero dall'avvenuta comunicazione prescritta dall'articolo 139, comma 3 , la regione o il Ministero ((hanno)) facolta' di:
+ 
+                            
+                            
+                                a)
+                                
+                                    inibire che si eseguano lavori senza autorizzazione o comunque capaci di recare pregiudizio al paesaggio ;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    ordinare, anche quando non sia intervenuta la diffida prevista alla lettera a), la sospensione di lavori iniziati.
+
+((L'inibizione o sospensione dei lavori disposta ai sensi del comma 1)) cessa di avere efficacia se entro il termine di novanta giorni non sia stata effettuata la pubblicazione all'albo pretorio della proposta (( di dichiarazione di notevole interesse pubblico )) di cui all'articolo 138 o all'articolo 141, ovvero non sia stata ricevuta dagli interessati la comunicazione prevista dall'articolo 139, comma 3.
 
 ((COMMA ABROGATO DAL D.LGS. 26 MARZO 2008, N.63)).
 
@@ -1804,6 +3087,69 @@ Qualora l'intesa di cui al comma 3 non venga stipulata, ovvero ad essa non segua
 
 ## Art. 157. — Notifiche eseguite, elenchi compilati, provvedimenti
  e atti emessi ai sensi della normativa previgente
+
+1.
+                        
+                            
+                                
+                                    (( Conservano efficacia a tutti gli effetti: ))
+                                
+                            
+                            
+                                a)
+                                
+                                    
+                                        ((le dichiarazioni)) di importante interesse pubblico delle bellezze naturali o panoramiche, (( notificate )) in base alla legge 11 giugno 1922,n. 778;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    gli elenchi compilati ai sensi della legge 29 giugno 1939, n. 1497;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    
+                                        (( le dichiarazioni )) di notevole interesse pubblico ((notificate)) ai sensi della legge 29 giugno 1939, n. 1497;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    i provvedimenti di riconoscimento delle zone di interesse archeologico emessi ai sensi dell'articolo 82, quinto comma, del decreto del Presidente della Repubblica 24 luglio 1977, n. 616, aggiunto dall'articolo 1 del decreto legge 27 giugno 1985, n. 312, convertito con modificazioni nella legge 8 agosto 1985, n. 431;
+
+                                
+                            
+                            
+                                d-bis)
+                                
+                                    gli elenchi compilati ovvero integrati ai sensi del decreto legislativo 29 ottobre 1999, n. 490; 
+                                
+                            
+                            
+                                e)
+                                
+                                    
+                                        (( le dichiarazioni ))di notevole interesse pubblico (( notificate )) ai sensi del decreto legislativo 29 ottobre 1999, n. 490;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    i provvedimenti di riconoscimento delle zone di interesse archeologico emessi ai sensi del decreto legislativo 29 ottobre 1999, n. 490.
+
+                                
+                            
+                            
+                                f-bis)
+                                
+                                    i provvedimenti emanati ai sensi dell'articolo 1-ter del decreto-legge 27 giugno 1985, n. 312, convertito, con modificazioni, dalla legge 8 agosto 1985, n. 431.
 
 Le disposizioni della presente Parte si applicano anche agli immobili ed alle aree in ordine ai quali, alla data di entrata in vigore del presente codice, sia stata formulata la proposta ovvero definita la perimetrazione ai fini della dichiarazione di notevole interesse pubblico o del riconoscimento quali zone di interesse archeologico.
 
@@ -1888,6 +3234,31 @@ Con l'ordine di rimessione in pristino e' assegnato al trasgressore un termine p
 
 In caso di inottemperanza, l'autorita' amministrativa preposta alla tutela paesaggistica provvede d'ufficio per mezzo del prefetto e rende esecutoria la nota delle spese. Laddove l'autorita' amministrativa preposta alla tutela paesaggistica non provveda d'ufficio, il direttore regionale competente, su richiesta della medesima autorita' amministrativa ovvero, decorsi centottanta giorni dall'accertamento dell'illecito, previa diffida alla suddetta autorita' competente a provvedervi nei successivi trenta giorni, (( procede alla demolizione avvalendosi dell'apposito servizio tecnico-operativo del Ministero, ovvero delle modalita)) previste dall'articolo 41 del decreto del Presidente della Repubblica 6 giugno 2001, n. 380, a seguito di apposita convenzione che puo' essere stipulata d'intesa tra il (( Ministero )) e il Ministero della difesa.
 
+4.
+                        
+                            
+                                L'autorita' amministrativa competente accerta la compatibilita' paesaggistica, secondo le procedure di cui al comma 5, nei seguenti casi:
+ 
+                            
+                            
+                                a)
+                                
+                                    per i lavori, realizzati in assenza o difformita' dall'autorizzazione paesaggistica, che non abbiano determinato creazione di superfici utili o volumi ovvero aumento di quelli legittimamente realizzati;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    per l'impiego di materiali in difformita' dall'autorizzazione paesaggistica;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    per i lavori comunque configurabili quali interventi di manutenzione ordinaria o straordinaria ai sensi dell'articolo 3 del decreto del Presidente della Repubblica 6 giugno 2001, n. 380.
+
 Il proprietario, possessore o detentore a qualsiasi titolo dell'immobile o dell'area interessati dagli interventi di cui al comma 4 presenta apposita domanda all'autorita' preposta alla gestione del vincolo ai fini dell'accertamento della compatibilita' paesaggistica degli interventi medesimi. L'autorita' competente si pronuncia sulla domanda entro il termine perentorio di centottanta giorni, previo parere vincolante della soprintendenza da rendersi entro il termine perentorio di novanta giorni. Qualora venga accertata la compatibilita' paesaggistica, il trasgressore e' tenuto al pagamento di una somma equivalente al maggiore importo tra il danno arrecato e il profitto conseguito mediante la trasgressione.
 L'importo della sanzione pecuniaria e' determinato previa perizia di stima. In caso di rigetto della domanda si applica la sanzione demolitoria di cui al comma 1. La domanda di accertamento della compatibilita' paesaggistica presentata ai sensi dell'articolo 181, comma 1-quater, si intende presentata anche ai sensi e per gli effetti di cui al presente comma.
 
@@ -1900,6 +3271,29 @@ Chiunque colloca cartelli o altri mezzi pubblicitari in violazione delle disposi
 ## - - TITOLO II Sanzioni penali Capo I Sanzioni relative alla Parte seconda
 
 ## Art. 169. — Opere illecite
+
+1.
+                        
+                            
+                                E' punito con l'arresto da sei mesi ad un anno e con l'ammenda da euro 775 a euro 38.734,50:
+
+                            
+                            
+                                a)
+                                
+                                    chiunque senza autorizzazione demolisce, rimuove, modifica, restaura ovvero esegue opere di qualunque genere sui beni culturali indicati nell'articolo 10;
+                                
+                            
+                            
+                                b)
+                                
+                                    chiunque, senza l'autorizzazione del soprintendente, procede al distacco di affreschi, stemmi, graffiti, iscrizioni, tabernacoli ed altri ornamenti di edifici, esposti o non alla pubblica vista, anche se non vi sia stata la dichiarazione prevista dall'articolo 13;
+                                
+                            
+                            
+                                c)
+                                
+                                    chiunque esegue, in casi di assoluta urgenza, lavori provvisori indispensabili per evitare danni notevoli ai beni indicati nell'articolo 10, senza darne immediata comunicazione alla soprintendenza ovvero senza inviare, nel piu' breve tempo, i progetti dei lavori definitivi per 1' autorizzazione.
 
 La stessa pena prevista dal comma 1 si applica in caso di inosservanza dell'ordine di sospensione dei lavori impartito dal soprintendente ai sensi dell'articolo 28.
 
@@ -1929,6 +3323,23 @@ L'inosservanza delle misure cautelari contenute nell'atto di cui all'articolo 46
 
 ## Art. 175. — Violazioni in materia di ricerche archeologiche
 
+1.
+                        
+                            
+                                E' punito con l'arresto fino ad un anno e l'ammenda da euro 310 a euro 3.099:
+
+                            
+                            
+                                a)
+                                
+                                    chiunque esegue ricerche archeologiche o, in genere, opere per il ritrovamento di cose indicate all'articolo 10 senza concessione, ovvero non osserva le prescrizioni date dall'amministrazione;
+                                
+                            
+                            
+                                b)
+                                
+                                    chiunque, essendovi tenuto, non denuncia nel termine prescritto dall'articolo 90, comma 1, le cose indicate nell'articolo 10 rinvenute fortuitamente o non provvede alla loro conservazione temporanea.
+
 ## Art. 176. — ((ARTICOLO ABROGATO DALLA L. 9 MARZO 2022, N. 22))
 
 
@@ -1955,6 +3366,49 @@ Salvo che il fatto non costituisca piu' grave reato, chiunque non ottempera ad u
 
 Chiunque, senza la prescritta autorizzazione o in difformita' di essa, esegue lavori di qualsiasi genere su beni paesaggistici e' punito con le pene previste dall'articolo 44, lettera c), del decreto del Presidente della Repubblica 6 giugno 2001, n. 380.
 
+1-bis.
+                        
+                            
+                                La pena e' della reclusione da uno a quattro anni qualora i lavori di cui al comma 1: 
+ 
+                            
+                            
+                                a)
+                                
+                                    ricadano su immobili od aree che, per le loro caratteristiche paesaggistiche siano stati dichiarati di notevole interesse pubblico con apposito provvedimento emanato in epoca antecedente alla realizzazione dei lavori; ((28))
+                                    
+                                
+                            
+                            
+                                b)
+                                
+                                    ricadano su immobili od aree tutelati per legge ai sensi dell'articolo 142 ed abbiano comportato un aumento dei manufatti superiore al trenta per cento della volumetria della costruzione originaria o, in alternativa, un ampliamento della medesima superiore a settecentocinquanta metri cubi, ovvero ancora abbiano comportato una nuova costruzione con una volumetria superiore ai mille metri cubi. ((28))
+
+1-ter.
+                        
+                            
+                                Ferma restando l'applicazione delle sanzioni amministrative pecuniarie di cui all'articolo 167, qualora l'autorita' amministrativa competente accerti la compatibilita' paesaggistica secondo le procedure di cui al comma 1-quater, la disposizione di cui al comma 1 non si applica: 
+ 
+                            
+                            
+                                a)
+                                
+                                    per i lavori, realizzati in assenza o difformita' dall'autorizzazione paesaggistica, che non abbiano determinato creazione di superfici utili o volumi ovvero aumento di quelli legittimamente realizzati; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    per l'impiego di materiali in difformita' dall'autorizzazione paesaggistica; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    per i lavori configurabili quali interventi di manutenzione ordinaria o straordinaria ai sensi dell'articolo 3 del decreto del Presidente della Repubblica 6 giugno 2001, n. 380.
+
 Il proprietario, possessore o detentore a qualsiasi titolo dell'immobile o dell'area interessati dagli interventi di cui al comma 1-ter presenta apposita domanda all'autorita' preposta alla gestione del vincolo ai fini dell'accertamento della compatibilita' paesaggistica degli interventi medesimi. L'autorita' competente si pronuncia sulla domanda entro il termine perentorio di centottanta giorni, previo parere vincolante della soprintendenza da rendersi entro il termine perentorio di novanta giorni.
 
 La rimessione in pristino delle aree o degli immobili soggetti a vincoli paesaggistici' da parte del trasgressore, prima che venga disposta d'ufficio dall'autorita' amministrativa, e comunque prima che intervenga la condanna, estingue il reato di cui al comma 1.
@@ -1977,7 +3431,85 @@ Alla tenuta dell'elenco provvede il Ministero medesimo, nell'ambito delle risors
 
 La procedura di selezione pubblica, indetta entro il 31 dicembre 2012, consiste nella valutazione dei titoli e delle attivita', e nella attribuzione dei punteggi, indicati nell'allegato B del presente codice. Entro lo stesso termine con decreto del Ministro sono definite le linee guida per l'espletamento della procedura di selezione pubblica, nel rispetto di quanto previsto dal presente articolo, sentite le organizzazioni imprenditoriali e sindacali piu' rappresentative. La qualifica di restauratore di beni culturali e' acquisita con un punteggio pari al numero dei crediti formativi indicati nell'articolo 1 del regolamento di cui al decreto del Ministro 26 maggio 2009, n. 87. Il punteggio previsto dalla tabella 1 dell'allegato B spetta per i titoli di studio conseguiti alla data del 30 giugno 2012, nonche' per quelli conseguiti entro la data del 31 dicembre 2014 da coloro i quali risultino iscritti ai relativi corsi alla data del 30 giugno 2012. Il punteggio previsto dalla tabella 2 dell'allegato B spetta per la posizione di inquadramento formalizzata entro la data del 30 giugno 2012. Il punteggio previsto dalla tabella 3 dell'allegato B spetta per l'attivita' di restauro presa in carico alla data di entrata in vigore della presente disposizione e conclusasi entro il 31 dicembre 2014.
 
+1-quater.
+                        
+                            
+                                Ai fini dell'attribuzione dei punteggi indicati nella tabella 3 dell'allegato B: 
+ 
+                            
+                            
+                                a)
+                                
+                                    e' considerata attivita' di restauro di beni culturali mobili e superfici decorate di beni architettonici l'attivita' caratterizzante il profilo di competenza del restauratore di beni culturali, secondo quanto previsto nell'allegato A del regolamento di cui al decreto del Ministro 26 maggio 2009, n. 86; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    e' riconosciuta soltanto l'attivita' di restauro effettivamente svolta dall'interessato, direttamente e in proprio ovvero direttamente e in rapporto di lavoro dipendente o di collaborazione coordinata e continuativa o a progetto, ovvero nell'ambito di rapporti di lavoro alle dipendenze di amministrazioni pubbliche preposte alla tutela dei beni culturali, con regolare esecuzione certificata nell'ambito della procedura di selezione pubblica; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    l'attivita' svolta deve risultare da atti di data certa emanati, ricevuti o anche custoditi dall'autorita' preposta alla tutela del bene oggetto dei lavori o dagli istituti di cui all'articolo 9 del decreto legislativo 20 ottobre 1998, n. 368, formati in occasione dell'affidamento dell'appalto, in corso d'opera o al momento della conclusione dell'appalto, ivi compresi atti concernenti l'organizzazione ed i rapporti di lavoro dell'impresa appaltatrice; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    la durata dell'attivita' di restauro e' documentata dai termini di consegna e di completamento dei lavori, con possibilita' di cumulare la durata di piu' lavori eseguiti nello stesso periodo.
+
 Puo' altresi' acquisire la qualifica di restauratore di beni culturali, ai medesimi effetti indicati all'articolo 29, comma 9-bis, previo superamento di una prova di idoneita' con valore di esame di Stato abilitante, secondo le modalita' stabilite con decreto del Ministro di concerto con il Ministro dell'istruzione, dell'universita' e della ricerca da emanare, d'intesa con la Conferenza unificata di cui all'articolo 8 del decreto legislativo 28 agosto 1997, n. 281, entro il 31 dicembre 2012, colui il quale abbia acquisito la qualifica di collaboratore restauratore di beni culturali ai sensi del comma 1-sexies del presente articolo. Con il medesimo decreto sono stabilite le modalita' per lo svolgimento di una distinta prova di idoneita' con valore di esame di Stato abilitante, finalizzata al conseguimento della qualifica di restauratore di beni culturali, ai medesimi effetti indicati all'articolo 29, comma 9-bis, cui possono accedere coloro i quali, entro il termine e nel rispetto della condizione previsti dal comma 1-ter del presente articolo, abbiano conseguito la laurea o il diploma accademico di primo livello in Restauro delle accademie di belle arti, nonche' la laurea specialistica o magistrale ovvero il diploma accademico di secondo livello in Restauro delle accademie di belle arti, corrispondenti ai titoli previsti nella tabella 1 dell'allegato B, attraverso un percorso di studi della durata complessiva di almeno cinque anni. La predetta prova si svolge presso le istituzioni dove si sono tenuti i corsi di secondo livello, che vi provvedono con le risorse umane, strumentali e finanziarie disponibili a legislazione vigente, senza nuovi o maggiori oneri per la finanza pubblica.
+
+1-sexies.
+                        
+                            
+                                Nelle more dell'attuazione dell'articolo 29, comma 10, acquisisce la qualifica di collaboratore restauratore di beni culturali, in esito ad apposita procedura di selezione pubblica indetta entro il 31 dicembre 2012, colui il quale, alla data di pubblicazione del bando, sia in possesso di uno dei seguenti requisiti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    abbia conseguito la laurea specialistica in Conservazione e restauro del patrimonio storico-artistico (12/S) ovvero la laurea magistrale in Conservazione e restauro dei beni culturali (LM11), ovvero il diploma di laurea in Conservazione dei beni culturali, se equiparato dalle universita' alle summenzionate classi, ai sensi dell'articolo 2 del decreto del Ministro dell'istruzione, dell'universita' e della ricerca 9 luglio 2009, pubblicato nella Gazzetta Ufficiale n. 233 del 7 ottobre 2009; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    abbia conseguito la laurea in Beni culturali (L1) ovvero in Tecnologie per la conservazione e il restauro dei beni culturali (L43); 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    abbia conseguito un diploma in Restauro presso accademie di belle arti con insegnamento almeno triennale; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    abbia conseguito un diploma presso una scuola di restauro statale ovvero un attestato di qualifica professionale presso una scuola di restauro regionale ai sensi dell'articolo 14 della legge 21 dicembre 1978, n. 845, con insegnamento non inferiore a due anni; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    risulti inquadrato nei ruoli delle amministrazioni pubbliche preposte alla tutela dei beni culturali a seguito del superamento di un pubblico concorso relativo al profilo di assistente tecnico restauratore; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    abbia svolto attivita' di restauro di beni culturali mobili e superfici decorate di beni architettonici, per non meno di quattro anni, con regolare esecuzione certificata nell'ambito della procedura di selezione pubblica. L'attivita' svolta e' dimostrata mediante dichiarazione del datore di lavoro, ovvero autocertificazione dell'interessato ai sensi del testo unico di cui al decreto del Presidente della Repubblica 28 dicembre 2000, n. 445.
 
 Puo' altresi' acquisire la qualifica di collaboratore restauratore di beni culturali, previo superamento di una prova di idoneita', secondo le modalita' stabilite con decreto del Ministro da emanare, d'intesa con la Conferenza unificata di cui all'articolo 8 del decreto legislativo 28 agosto 1997, n. 281, entro il 30 giugno 2014, colui il quale abbia conseguito i requisiti previsti dal comma 1-sexies del presente articolo nel periodo compreso tra il 31 ottobre 2012 e il 30 giugno 2014.
 

@@ -8,8 +8,8 @@ codice_redazionale: 007G0109
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti governativi
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:15Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -24,6 +24,31 @@ Udito il parere del Consiglio di Stato, espresso dalla sezione consultiva per gl
 Sulla proposta del Ministro degli affari esteri, di concerto con i Ministri dell'economia e delle finanze, per l'attuazione del programma di Governo e per le riforme e le innovazioni nella pubblica amministrazione;
 
 ## Art. 1. — Conferma degli organismi esistenti
+
+1.
+                        
+                            
+                                In attuazione dell'articolo 29, comma 2, del decreto-legge 4 luglio 2006, n. 223, convertito, con modificazioni, dalla legge 4 agosto 2006, n. 248, sono confermati i seguenti organismi operanti presso il Ministero degli affari esteri:
+ 
+                            
+                            
+                                a)
+                                
+                                    Commissione per gli immobili adibiti ad uso dell'Amministrazione degli affari esteri;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    Commissione nazionale per la promozione della cultura italiana all'estero;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    Commissione per gli indennizzi al personale in servizio all'estero.
 
 Le spese di funzionamento degli organismi di cui al comma 1 sono ridotte del trenta per cento rispetto all'esercizio finanziario 2005.
 Per l'anno 2006, la riduzione prevista dall'articolo 29 opera in misura proporzionale rispetto al periodo corrente tra l'entrata in vigore del decreto-legge 4 luglio 2006, n. 223, convertito, con modificazioni, dalla legge 4 agosto 2006, n. 248, ed il 31 dicembre 2006, tenuto conto degli impegni di spesa gia' assunti alla medesima data di entrata in vigore del decreto.
@@ -40,6 +65,66 @@ I componenti del Nucleo in rappresentanza delle Direzioni generali sono designat
 
 ## Art. 3. — Funzioni e compiti
 
+1.
+                        
+                            
+                                In attuazione dell'articolo 1 della legge 17 maggio 1999, n. 144, il Nucleo:
+ 
+                            
+                            
+                                a)
+                                
+                                    assicura l'assistenza e il supporto tecnico per le fasi di programmazione, formulazione e valutazione di documenti di programma, per le analisi di opportunita' e fattibilita' degli investimenti e per la valutazione ex ante e monitoraggio di progetti e interventi;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    assicura il raccordo del Nucleo con il Nucleo di valutazione e verifica degli investimenti pubblici del Ministero dello sviluppo economico;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    assicura il raccordo con le attivita' della rete dei Nuclei di valutazione costituita dalla Conferenza Stato-Regioni, in attuazione della direttiva del Presidente del Consiglio dei Ministri del 10 settembre 1999;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    assicura l'integrazione con il sistema statistico nazionale e con le altre fonti informative rilevanti;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    assicura l'aggiornamento delle metodologie correlate all'attivita' e ne propone l'impiego presso le Direzioni generali e nell'ambito dei programmi da queste partecipati o promossi, cura la circolazione di informazioni e documenti, il confronto di buone prassi, l'accumulo e la diffusione di conoscenze, anche con riferimento alle esperienze di altri Paesi;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    propone strumenti e metodologie per assicurare e migliorare il collegamento tra gli obiettivi strategici adottati dall'Amministrazione e l'allocazione e l'uso delle risorse rinvenienti dal bilancio dello Stato, dalla programmazione comunitaria, dagli enti territoriali e regionali, da procedure di finanza di progetto;
+
+                                
+                            
+                            
+                                g)
+                                
+                                    elabora proposte per la progressiva integrazione delle politiche di internazionalizzazione economica, sociale e culturale nel quadro delle politiche pubbliche per lo sviluppo;
+
+                                
+                            
+                            
+                                h)
+                                
+                                    formula, su richiesta delle Direzioni generali del Ministero degli affari esteri o della Unita' speciale per le regioni della Segreteria generale del medesimo Ministero, valutazioni specifiche di progetti e programmi operativi, intese ed accordi internazionali, anche in relazione ad istanze di collaborazione da parte di altre Amministrazioni, o comitati interistituzionali.
+
 ## Art. 4. — Durata e proroga degli organismi
 
 Gli organismi di cui al presente provvedimento durano in carica tre anni, decorrenti dalla data di entrata in vigore del presente regolamento.
@@ -48,7 +133,57 @@ Tre mesi prima della scadenza del termine di durata indicato al comma 1, ciascun
 
 ## Art. 5. — Supporto tecnico
 
+1.
+                        
+                            
+                                Il Nucleo puo' avvalersi, sempre e comunque nei limiti delle disponibilita' finanziarie di cui all'articolo 6, di:
+ 
+                            
+                            
+                                a)
+                                
+                                    personale acquisito in forma di distacco da parte di altre Amministrazioni pubbliche e territoriali;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    stagisti e borsisti messi a disposizione sulla base di risorse proprie e di terzi;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    organismi esterni deputati allo svolgimento di compiti di ricerca, sviluppo programmatico o servizi gestionali;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    esperti diversi dai componenti esterni del Nucleo, per incarichi definiti e di durata non superiore ai sei mesi.
+
 ## Art. 6. — Risorse finanziarie
+
+1.
+                        
+                            
+                                Le spese per il funzionamento del Nucleo gravano:
+ 
+                            
+                            
+                                a)
+                                
+                                    sul corrispondente capitolo del Ministero degli affari esteri, inclusi i compensi di cui al comma 2, fino a concorrenza di un importo pari al 70% delle spese imputabili all'anno finanziario 2005;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    su linee operative di programmi comunitari finalizzate alla valutazione e monitoraggio dei programmi operativi dei fondi strutturali, secondo le modalita' gestionali da tali programmi stabilite.
 
 Fermo quanto previsto dall'articolo 1, comma 58, della legge 23 dicembre 2005, n. 266, i compensi gravanti sul bilancio dello Stato dei componenti dell'organismo di cui all'articolo 2 sono ridotti del trenta per cento rispetto all'anno finanziario 2005. Per l'anno 2006, la riduzione prevista dall'articolo 29 opera in misura proporzionale rispetto al periodo corrente tra la data di entrata in vigore del decreto-legge 4 luglio 2006, n. 223, convertito, con modificazioni, dalla legge 4 agosto 2006, n. 248, ed il 31 dicembre 2006, tenuto conto degli impegni di spesa gia' assunti alla medesima data di entrata in vigore del decreto.
 

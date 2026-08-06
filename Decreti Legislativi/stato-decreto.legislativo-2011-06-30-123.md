@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
 vigenza_date: 2024-08-08
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:29Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -29,6 +29,31 @@ Sulla proposta del Ministro dell'economia e delle finanze;
 ## Art. 1. — Ambito di applicazione
 
 In attuazione dell'articolo 49 della legge 31 dicembre 2009, n. 196, le disposizioni del presente decreto recano la disciplina del controllo di regolarita' amministrativa e contabile, ((di cui all'articolo 1, comma 1, lettera a), e all'articolo 2 del decreto legislativo 30 luglio 1999, n. 286,)) nonche' disposizioni volte al rafforzamento ed alla graduale estensione a tutte le amministrazioni pubbliche delle attivita' di analisi e valutazione della spesa.
+
+2.
+                        
+                            
+                                Il Dipartimento della Ragioneria generale dello Stato, nell'ambito delle sue competenze, adotta i provvedimenti necessari per assicurare l'adeguatezza e la coerenza del controllo, al fine di garantire la proficuita', la correttezza e la regolarita' delle gestioni. In particolare: 
+ 
+                            
+                            
+                                a)
+                                
+                                    valuta e verifica la regolarita' dei sistemi contabili; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    svolge l'analisi dei programmi e concorre, con le amministrazioni interessate, alla revisione delle procedure di spesa e dell'allocazione delle risorse in bilancio nell'ambito dei nuclei di analisi e valutazione di cui all'articolo 4, comma 4; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    svolge un costante monitoraggio della programmazione e della corretta applicazione delle disposizioni sul contenimento della spesa, valutando gli oneri delle funzioni e dei servizi istituzionali, nonche' dei programmi e dei progetti presentati dalle amministrazioni.
 
 ## Art. 2. — Principi del controllo di regolarita' amministrativa e contabile
 
@@ -88,6 +113,66 @@ Il Dipartimento della Ragioneria generale dello Stato - Ispettorato generale del
 
 Sono assoggettati al controllo preventivo di regolarita' amministrativa e contabile tutti gli atti dai quali derivino effetti finanziari per il bilancio dello Stato, ad eccezione di quelli posti in essere dalle amministrazioni, dagli organismi e dagli organi dello Stato dotati di autonomia finanziaria e contabile.
 
+2.
+                        
+                            
+                                Sono in ogni caso soggetti a controllo preventivo i seguenti atti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    atti soggetti a controllo preventivo di legittimita' della Corte dei conti; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    decreti di approvazione di contratti o atti aggiuntivi, atti di cottimo e affidamenti diretti, atti di riconoscimento di debito; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    provvedimenti o contratti di assunzione di personale a qualsiasi titolo; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    atti relativi alle modifiche della posizione giuridica o della base stipendiale del personale statale in servizio; (5) 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    accordi in materia di contrattazione integrativa, di qualunque livello, intervenuti ai sensi della vigente normativa legislativa e contrattuale. Gli accordi locali stipulati dalle articolazioni centrali e periferiche dei Ministeri sono sottoposti al controllo da parte del competente Ufficio centrale del bilancio; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    atti e provvedimenti comportanti trasferimenti di somme dal bilancio dello Stato ad altri enti o organismi; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    atti e provvedimenti di gestione degli stati di previsione dell'entrata e della spesa, nonche' del conto del patrimonio. 
+
+                                
+                            
+                            
+                                g-bis)
+                                
+                                    contratti passivi, convenzioni, decreti ed altri provvedimenti riguardanti interventi a titolarita' delle Amministrazioni centrali dello Stato, cofinanziati in tutto o in parte con risorse dell'Unione europea, ovvero aventi carattere di complementarita' rispetto alla programmazione dell'Unione europea, giacenti sulla contabilita' del Fondo di rotazione di cui all'articolo 5 della legge 16 aprile 1987, n. 183. Restano ferme le disposizioni della legge 25 novembre 1971, n. 1041, per la rendicontazione dei pagamenti conseguenti agli atti assoggettati al controllo di cui al periodo precedente.
+
 Gli atti di cui al comma 2, lettera a), soggetti al controllo preventivo di legittimita' da parte della Corte dei conti ai sensi dell'articolo 3 della legge 14 gennaio 1994, n. 20, sono inviati dalle amministrazioni contestualmente agli Uffici di controllo, per l'effettuazione del controllo preventivo di regolarita' contabile, e agli uffici della Corte dei conti competenti per l'effettuazione del controllo di legittimita'. Gli atti soggetti al controllo preventivo di cui al comma 2, lettere b), c), d), e), f), g) e g-bis), sono inviati agli Uffici di controllo per il controllo di regolarita' amministrativa e contabile.
 
 Gli atti di cui al comma 2, lettere a), b) e c), sono assoggettati unicamente al controllo successivo qualora facenti parte di una delle rendicontazioni previste dall'articolo 11, comma 1, lettere a), b) e c). E' fatto salvo quanto previsto dall'articolo 11, comma 5. (5)
@@ -108,6 +193,52 @@ I contratti dichiarati segretati o che esigono particolari misure di sicurezza, 
 ## Art. 6. — Controllo contabile
 
 L'ufficio di controllo effettua la registrazione contabile delle somme relative agli atti di spesa di cui all'articolo 5, con conseguente effetto di rendere indisponibili ad altri fini le somme ad essa riferite.
+
+2.
+                        
+                            
+                                Gli atti di spesa non possono avere corso qualora: 
+ 
+                            
+                            
+                                a)
+                                
+                                    siano pervenuti oltre il termine perentorio di ricevibilita' del 31 dicembre dell'esercizio finanziario cui si riferisce la spesa, fatti salvi quelli direttamente conseguenti all'applicazione di provvedimenti legislativi pubblicati nell'ultimo quadrimestre dell'anno, quelli relativi a risorse iscritte in bilancio a seguito dell'adozione, nell'ultimo mese dell'anno, di decreti di riassegnazione di entrate di scopo, nonche' di quelli relativi alla attribuzione delle risorse di fondi la cui ripartizione, tra ((le unita' elementari di bilancio interessate)), e' disposta con decreto del Ministro dell'economia e delle finanze, a seguito dell'emanazione di un provvedimento amministrativo che ne stabilisce la destinazione; (5) 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la spesa ecceda lo stanziamento ((dell'unita' elementare di bilancio)), ovvero dell'articolo, qualora ((l'unita' elementare di bilancio sia suddivisa)) in articoli; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    l'imputazione della spesa sia errata rispetto ((all'unita' elementare di bilancio)) o all'esercizio finanziario, o alla competenza piuttosto che ai residui; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    siano violate le disposizioni che prevedono specifici limiti a talune categorie di spesa; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    non si rinviene la compatibilita' dei costi della contrattazione integrativa con i vincoli di bilancio ai sensi dell'articolo 40-bis del decreto legislativo 31 marzo 2001, n. 165; 
+
+                                
+                            
+                            
+                                e-bis)
+                                
+                                    i relativi provvedimenti di impegno non risultino conformi a quanto stabilito dall'articolo 34, comma 2, della legge 31 dicembre 2009, n. 196, ovvero, nel caso in cui dispongano l'utilizzo di risorse destinate ad altre finalita', i corrispondenti decreti di variazione di bilancio non risultino registrati dalla Corte dei conti. (5)
 
 -------------
                             AGGIORNAMENTO (5)
@@ -164,6 +295,24 @@ Entro il medesimo termine il dirigente responsabile, sotto la propria responsabi
 
 Nei casi in cui il termine di cui al comma 1 decorre senza alcuna disposizione impartita dal dirigente responsabile ai sensi del medesimo comma, il provvedimento oggetto di rilievo non acquista efficacia, e' improduttivo di effetti contabili e viene restituito, non vistato, all'amministrazione emittente.
 
+3.
+                        
+                            
+                                E' esclusa la possibilita' di disporre l'ulteriore corso del provvedimento nei seguenti casi: 
+ 
+                            
+                            
+                                a)
+                                
+                                    provvedimenti non sorretti da un'obbligazione giuridicamente perfezionata o che dispongono l'utilizzo di somme destinate ad altre finalita'; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    provvedimenti concernenti pagamenti in conto sospeso emessi ai sensi dell'articolo 14 del decreto-legge 31 dicembre 1996, n. 669, convertito, con modificazioni, dalla legge 28 febbraio 1997, n. 30, e successive modificazioni, non derivanti da provvedimenti giurisdizionali o da lodi arbitrali aventi efficacia esecutiva.
+
 ## - Capo II Controllo successivo
 
 ## Art. 11. — Atti sottoposti al controllo successivo e soggetti obbligati
@@ -177,6 +326,16 @@ Sono sottoposti al controllo successivo di regolarita' amministrativa e contabil
  d) ogni altro rendiconto previsto da specifiche disposizioni di legge; 
  e) conti giudiziali. 
  e-bis) ((spese fisse telematiche)) relativi alle competenze fisse ed accessorie del personale centrale e periferico dello Stato, erogati secondo le modalita' di cui all'articolo 2, comma 197, della legge 23 dicembre 2009, n. 191, e successive modificazioni. (5) ((16))
+
+2.
+                        
+                            
+                                I soggetti gestori dei fondi di cui al comma 1, lettere dalla 
+                            
+                            
+                                a)
+                                
+                                    alla d), devono rendere il conto finanziario della loro gestione al competente ufficio di controllo al termine di ciascun esercizio finanziario, nonche' alla conclusione dell'intervento delegato.
 
 Nelle ipotesi di cui al comma 1, lettera c), qualora la quota parte di finanziamento statale sia maggioritaria, il riscontro viene effettuato dal competente ufficio di controllo del Dipartimento della Ragioneria generale dello Stato. Diversamente, il competente organo di controllo e' individuato in sede di accordo di programma o dall'ordinamento dell'amministrazione che mette a disposizione la prevalente quota di finanziamento. In ogni caso, gli esiti del controllo sono comunicati a tutte le amministrazioni partecipanti per i relativi provvedimenti di competenza.
 
@@ -354,6 +513,66 @@ Decorso inutilmente il predetto termine di trenta giorni, vi provvede il Ministe
 
 I collegi dei revisori dei conti e sindacali presso gli enti ed organismi pubblici, di cui all'articolo 19, vigilano sull'osservanza delle disposizioni di legge, regolamentari e statutarie; provvedono agli altri compiti ad essi demandati dalla normativa vigente, compreso il monitoraggio della spesa pubblica.
 
+2.
+                        
+                            
+                                I collegi dei revisori dei conti e sindacali, in particolare, devono: 
+ 
+                            
+                            
+                                a)
+                                
+                                    verificare la corrispondenza dei dati riportati nel conto consuntivo o bilancio d'esercizio con quelli analitici desunti dalla contabilita' generale tenuta nel corso della gestione; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    verificare la loro corretta esposizione in bilancio, l'esistenza delle attivita' e passivita' e l'attendibilita' delle valutazioni di bilancio, la correttezza dei risultati finanziari, economici e patrimoniali della gestione e l'esattezza e la chiarezza dei dati contabili presentati nei prospetti di bilancio e nei relativi allegati; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    effettuare le analisi necessarie e acquisire informazioni in ordine alla stabilita' dell'equilibrio di bilancio e, in caso di disavanzo, acquisire informazioni circa la struttura dello stesso e le prospettive di riassorbimento affinche' venga, nel tempo, salvaguardato l'equilibrio; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    vigilare sull'adeguatezza della struttura organizzativa dell'ente e il rispetto dei principi di corretta amministrazione; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    verificare l'osservanza delle norme che presiedono la formazione e l'impostazione del bilancio preventivo e del conto consuntivo o bilancio d'esercizio; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    esprimere il parere in ordine all'approvazione del bilancio preventivo e del conto consuntivo o bilancio d'esercizio da parte degli organi a cio' deputati sulla base degli specifici ordinamenti dei singoli enti; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    effettuare almeno ogni trimestre controlli e riscontri sulla consistenza della cassa e sulla esistenza dei valori, dei titoli di proprieta' e sui depositi e i titoli a custodia; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    effettuare il controllo sulla compatibilita' dei costi della contrattazione collettiva integrativa con i vincoli di bilancio e quelli derivanti dall'applicazione delle norme di legge, con particolare riferimento alle disposizioni inderogabili che incidono sulla misura e sulla corresponsione dei trattamenti accessori.
+
 Gli schemi dei bilanci preventivi, delle variazioni ai bilanci preventivi, delle delibere di accertamento dei residui, del conto consuntivo o bilancio d'esercizio sono sottoposti, corredati dalla relazione illustrativa o da analogo documento, almeno quindici giorni prima della data della relativa delibera, all'esame del collegio dei revisori dei conti o sindacale. Il collegio redige apposita relazione da allegare ai predetti schemi, nella quale sono sintetizzati anche i risultati del controllo svolto durante l'esercizio.
 
 L'attivita' dei collegi dei revisori e sindacali si conforma ai principi della continuita', del campionamento e della programmazione dei controlli.
@@ -403,6 +622,31 @@ Nell'ambito dei nuclei possono essere costituiti appositi gruppi di lavoro a cui
 
 Nell'ambito dei nuclei e' svolta la verifica delle attivita' previste dall'articolo 9 del decreto-legge 29 novembre 2008, n. 185, convertito, con modificazioni, dalla legge 28 gennaio 2009, n. 2, e dall'articolo 9 del decreto-legge 1° luglio 2009, n. 78, convertito, con modificazioni, dalla legge 3 agosto 2009, n. 102, con riferimento all'analisi delle cause di formazione dei debiti pregressi delle amministrazioni centrali e alle proposte di revisione delle correlate procedure di spesa. I nuclei collaborano, inoltre, al completamento della riforma del bilancio dello Stato di cui all'articolo 40 della legge 31 dicembre 2009, n. 196, mediante la formulazione di proposte sulla revisione della struttura del bilancio statale. Le proposte di revisione sono, in particolare, volte ad accrescere la flessibilita' del bilancio ed a favorire il contenimento della spesa attraverso la revisione della struttura e del numero dei programmi, degli stanziamenti iscritti in ciascun programma e della relativa legislazione, anche attraverso l'accorpamento delle autorizzazioni di spesa. L'attivita' di revisione dei programmi e della legislazione di spesa deve prevedere la verifica dell'efficacia, dell'efficienza, dell'attualita' e della congruita' delle singole autorizzazioni di spesa nonche' un puntuale riesame della ripartizione delle spese in non rimodulabili e rimodulabili, al fine, in particolare, di attribuire la qualifica di spese rimodulabili alle spese attualmente considerate non rimodulabili non correlate a diritti soggettivi e suscettibili di essere ridotte in via amministrativa attraverso appropriate scelte gestionali. La relazione di cui al comma 1 da' conto dell'attivita' svolta dai nuclei ai sensi del presente comma.
 
+4.
+                        
+                            
+                                All'attivita' di analisi e valutazione della spesa concorrono: 
+ 
+                            
+                            
+                                a)
+                                
+                                    gli Uffici centrali del bilancio, attraverso la diretta partecipazione ai nuclei di cui al comma 1; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le Ragionerie territoriali dello Stato, attraverso l'analisi delle spese statali soggette al loro controllo e il concorso al monitoraggio del rispetto del patto di stabilita' interno degli enti locali presenti nel territorio di propria competenza, secondo ambiti e modalita' definiti con determina del Ragioniere generale dello Stato; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    i Servizi ispettivi di finanza pubblica, attraverso il monitoraggio finalizzato alla verifica dell'efficacia delle misure volte al conseguimento degli obiettivi di finanza pubblica al miglioramento dell'efficienza nell'utilizzo delle risorse pubbliche e delle connesse procedure di spesa. Con determina del Ragioniere generale dello Stato, possono essere disposte attivita' di analisi di particolari tipologie di spese o di specifici comparti di amministrazioni pubbliche i cui risultati sono presi in considerazione per l'elaborazione del Rapporto triennale di cui all'articolo 41 della legge 31 dicembre 2009, n. 196.
+
 ## Art. 26. — Potenziamento delle strutture e degli strumenti del Dipartimento della Ragioneria generale dello Stato per lo svolgimento delle attivita' di analisi e revisione della spesa
 
 Al fine di potenziare l'attivita' di analisi e valutazione della spesa, il Dipartimento della Ragioneria generale dello Stato e' autorizzato ad avvalersi di collaborazioni, anche mediante la stipula di apposite convenzioni, con universita' pubbliche e private e con altri soggetti pubblici. Allo stesso fine, il medesimo dipartimento e' autorizzato a promuovere, per il tramite della Scuola superiore dell'economia e delle finanze, iniziative di formazione sulle tecniche di analisi economica e statistica e sugli aspetti macro e micro di analisi della spesa nel settore pubblico.
@@ -433,6 +677,52 @@ Le altre amministrazioni pubbliche sottoposte alla vigilanza dei Ministeri avvia
 Le disposizioni del presente titolo non si applicano in via diretta alle regioni e alle province autonome di Trento e di Bolzano, agli enti locali e agli enti del Servizio sanitario nazionale, per i quali costituiscono disposizioni di principio ai fini del coordinamento della finanza pubblica.
 
 ## Art. 29. — Abrogazioni
+
+1.
+                        
+                            
+                                A decorrere dalla data di entrata in vigore del presente decreto sono abrogati: 
+ 
+                            
+                            
+                                a)
+                                
+                                    l'articolo 8, comma 5, del decreto del Presidente della Repubblica 20 aprile 1994, n. 367; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'articolo 11 del decreto del Presidente della Repubblica 20 aprile 1994, n. 367; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    l'articolo 9, comma 1, del decreto del Presidente della Repubblica 20 febbraio 1998, n. 38; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    l'articolo 2, commi 2 e 4, del decreto legislativo 30 luglio 1999, n. 286; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    l'articolo 1, comma 159, della legge 30 dicembre 2004, n. 311; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    l'articolo 79 del decreto del Presidente della Repubblica 27 febbraio 2003, n. 97.
 
 ## Art. 30. — Norma finanziaria
 

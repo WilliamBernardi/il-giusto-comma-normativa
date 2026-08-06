@@ -7,8 +7,8 @@ urn: urn:nir:stato:decreto.del.presidente.della.repubblica:2018-12-03;150
 vigente: true
 source: normattiva-opendata
 collection: DPR
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:47:59Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -30,6 +30,26 @@ Sulla proposta del Presidente del Consiglio dei ministri e del Ministro per gli 
 
 ## Art. 1. — Modifiche all'articolo 1 del decreto del Presidente 
  della Repubblica 27 febbraio 2002, n. 65
+
+1.
+                    
+                        
+                            All'articolo 1 del decreto del Presidente della Repubblica 27 febbraio 2002, n. 65, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                dopo il comma 1, e' inserito il seguente: 
+ «1-bis. Il Comitato e' organismo permanente di raccordo tra le istituzioni pubbliche e la minoranza linguistica slovena.»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                dopo il comma 2, e' aggiunto il seguente: 
+ «2-bis. I membri del Comitato durano in carica cinque anni. Il termine decorre dalla data della prima riunione del Comitato.».
 
 ## Art. 2.
 

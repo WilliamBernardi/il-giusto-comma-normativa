@@ -8,8 +8,8 @@ vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
 vigenza_date: 2019-08-13
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:38Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DEL CONSIGLIO DEI MINISTRI
@@ -28,6 +28,45 @@ Udito il parere del Consiglio di Stato espresso dalla sezione consultiva per gli
 Sulla proposta del Ministro dello sviluppo economico e di concerto con il Ministro dell'economia e delle finanze;
 
 ## Art. 1. — Oggetto
+
+1.
+                    
+                        
+                            Il presente decreto, nel rispetto della normativa europea sugli aiuti di Stato, individua le disposizioni applicative per l'attribuzione del contributo sotto forma di credito di imposta di cui all'articolo 57-bis del decreto-legge 24 aprile 2017, n. 50, convertito, con modificazioni, dalla legge 21 giugno 2017, n. 96, come modificato dall'articolo 4, comma 1, del decreto-legge 16 ottobre 2017, n. 148, convertito, con modificazioni, dalla legge 4 dicembre 2017, n. 172, con riferimento, in particolare: 
+ 
+                        
+                        
+                            a)
+                            
+                                ai soggetti beneficiari; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                agli investimenti ammissibili e a quelli esclusi; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                ai limiti e alle condizioni dell'agevolazione concedibile; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                alla procedura e alle modalita' di concessione idonee ad assicurare il rispetto del limite massimo di spesa; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                all'effettuazione dei controlli, alla determinazione dei casi di revoca del contributo nonche' alle procedure di recupero nei casi di utilizzo illegittimo del credito di imposta.
 
 ## Art. 2. — Soggetti beneficiari
 
@@ -62,6 +101,38 @@ Ai fini dell'utilizzo del credito di imposta, il modello F24 deve essere present
 ## Art. 5. — Procedura di accesso all'agevolazione
 
 Per accedere al credito di imposta i soggetti interessati, nel periodo compreso dal 1° marzo al 31 marzo di ciascun anno, presentano un'apposita comunicazione telematica con le modalita' definite con provvedimento amministrativo del Dipartimento per l'informazione e l'editoria della Presidenza del Consiglio dei ministri. ((1))
+
+2.
+                    
+                        
+                            La comunicazione di cui al comma 1 e' sottoscritta dal legale rappresentante dell'impresa, dell'ente non commerciale o dal lavoratore autonomo e contiene: 
+ 
+                        
+                        
+                            a)
+                            
+                                gli elementi identificativi dell'impresa, dell'ente non commerciale o del lavoratore autonomo, ivi compreso il codice fiscale; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                il costo complessivo degli investimenti pubblicitari effettuati o da effettuare sugli organi di cui all'articolo 3, comma 1; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                la misura percentuale e l'ammontare complessivo dell'incremento dell'investimento pubblicitario realizzato o da realizzare con il raffronto con l'anno precedente con distinta evidenza per ciascun dei due fondi richiamati all'articolo 4, comma 1; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                l'ammontare del credito di imposta richiesto distinto per ciascuno dei fondi di cui all'articolo 4, comma 1.
 
 Entro il 30 aprile di ciascun anno, il Dipartimento per l'informazione e l'editoria della Presidenza del Consiglio dei ministri forma un elenco dei soggetti richiedenti il credito di imposta con l'indicazione dell'eventuale percentuale provvisoria di riparto in caso di insufficienza delle risorse e l'importo teoricamente fruibile da ciascun soggetto dopo la realizzazione dell'investimento incrementale. L'ammontare del credito effettivamente fruibile dopo l'accertamento in ordine agli investimenti effettuati e' disposto con provvedimento del Dipartimento per l'informazione e l'editoria della Presidenza del Consiglio dei ministri pubblicato sul sito istituzionale del Dipartimento stesso.
 

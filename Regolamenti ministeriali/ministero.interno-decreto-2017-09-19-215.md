@@ -7,8 +7,8 @@ urn: urn:nir:ministero.interno:decreto:2017-09-19;215
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:39Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -40,6 +40,52 @@ Udito il parere del Consiglio di Stato, espresso dalla Sezione consultiva per gl
 
 ## Art. 1. — Definizioni
 
+1.
+                    
+                        
+                            Ai fini del presente regolamento si intende per: 
+ 
+                        
+                        
+                            a)
+                            
+                                «denominazioni», i nomi anche sotto forma di logo, che identificano la Polizia di Stato e il Corpo nazionale dei vigili del fuoco ovvero quei reparti, gruppi, strutture ed enti che, per le loro tradizioni o funzioni ne costituiscono il patrimonio storico e culturale concorrendo a esprimerne il prestigio; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                «stemma», il complesso di figure o di figure e parole, di qualsiasi formato, disegnato su scudo araldico, che costituisce il contrassegno della Polizia di Stato e del Corpo nazionale dei vigili del fuoco ovvero dei singoli reparti, enti, gruppi, strutture in cui sono organizzati, ivi inclusi i contrassegni storici e tradizionali e quelli riferiti a reparti, enti, gruppi e strutture soppressi; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                «emblema», il complesso di figure o di figure e parole, di qualsiasi formato, disegnato su fondo diverso dallo scudo araldico, che costituisce il contrassegno di distinzione della Polizia di Stato e del Corpo nazionale dei vigili del fuoco ovvero dei singoli reparti, enti, gruppi e strutture in cui sono organizzati, ivi inclusi i contrassegni storici e tradizionali e quelli riferiti a reparti, enti, gruppi e strutture soppressi; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                «segno distintivo », il fregio o altro elemento distintivo, anche recante figure o figure e parole, che identifica l'appartenenza dell'operatore a un reparto, ente o struttura della Polizia di Stato e del Corpo nazionale dei vigili del fuoco, anche storico, ovvero la sua specifica professionalita', quali, a titolo esemplificativo, gli scudetti, le mostreggiature, i distintivi, i copricapo, i caschi, gli omerali e le uniformi per foggia e colore; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                «Soggetto istituzionale titolare dei simboli»: il Dipartimento della pubblica sicurezza o la Polizia di Stato, nonche' il Dipartimento dei vigili del fuoco, del soccorso pubblico e della difesa civile o il Corpo nazionale dei vigili del fuoco; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                «licenziatario», il soggetto, pubblico o privato, al quale il Dipartimento della pubblica sicurezza e il Dipartimento dei vigili del fuoco, del soccorso pubblico e della difesa civile consentono l'uso temporaneo delle denominazioni, degli stemmi, degli emblemi e dei segni distintivi di cui al presente regolamento.
+
 ## Art. 2. — Individuazione delle denominazioni, degli stemmi, degli emblemi e degli altri segni distintivi della Polizia di Stato e del Corpo nazionale dei vigili del fuoco
 
 La Polizia di Stato e il Corpo nazionale dei vigili del fuoco esercitano il diritto all'uso esclusivo delle proprie denominazioni, dei propri stemmi, dei propri emblemi e di ogni altro relativo segno distintivo indicati nelle tabelle A e B allegate, che costituiscono parte integrante del presente regolamento, nonche' di ogni altra denominazione, stemma, emblema e segno distintivo, ivi incluse le uniformi per foggia e colore, che identifica la Polizia di Stato e i Vigili del fuoco ovvero i reparti, gli enti, i gruppi e le strutture esistenti o soppressi, istituito ai sensi delle disposizioni ordinamentali della Polizia di Stato e del Corpo nazionale dei vigili del fuoco.
@@ -56,6 +102,86 @@ Modalita' di utilizzo, a titolo oneroso, dei simboli
 
 Il Soggetto istituzionale titolare dei simboli puo' consentirne l'uso temporaneo ai licenziatari, a titolo oneroso, in via convenzionale, attraverso la stipula di contratti di sponsorizzazione, e di contratti ad essi assimilabili, ivi inclusi i contratti di merchandising, ai sensi dell'articolo 19 del decreto legislativo 18 aprile 2016, n. 50.
 
+2.
+                    
+                        
+                            I contratti che disciplinano l'attivita' di cui al comma 1, ferme restando le cause di esclusione previste all'articolo 6, stabiliscono, tra l'altro: 
+ 
+                        
+                        
+                            a)
+                            
+                                l'oggetto della prestazione, consistente nell'uso temporaneo, a titolo oneroso, dei simboli del Soggetto istituzionale che ne e' titolare, chiaramente individuati; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                l'indicazione dei simboli concessi in uso e i criteri ovvero le condizioni che regolano l'utilizzo sul mercato degli stessi; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                l'ammontare del corrispettivo, che potra' consistere in un importo fisso corrisposto in un'unica soluzione o rateizzato e commisurato a una percentuale del fatturato (royalties) relativo al bene commercializzato avvalendosi dell'utilizzo dei simboli, ovvero nella fornitura di beni e servizi di equivalente valore, laddove previsto dalla normativa vigente; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                gli obblighi e i diritti delle parti; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                le modalita' e i limiti di utilizzo dei simboli da parte del licenziatario, il quale ha l'obbligo di: 
+ 1) non associare a beni e servizi non autorizzati i simboli oggetto di licenza; 
+ 2) realizzare i beni recanti i simboli dei quali sia stato consentito l`uso con l'utilizzo di materiali di elevata qualita', con l'osservanza della normativa nazionale e dell'Unione europea in materia di «origine» e di «etichettatura» dei prodotti; 
+ 3) apporre sui beni realizzati tutte le occorrenti indicazioni per evidenziare la titolarita' dei simboli in capo al Soggetto istituzionale titolare degli stessi; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                la durata del contratto; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                le modalita' attraverso le quali il Soggetto istituzionale titolare dei simboli verifica la regolare osservanza, sul piano giuridico ed economico, degli adempimenti convenuti nonche' il rispetto delle clausole contrattuali pattuite per l'utilizzo dei simboli dei quali sia stato consentito l'uso, prevedendo a tal fine: 
+ 1) obblighi di rendicontazione scritta del licenziatario e di produzione, a richiesta, della documentazione amministrativa concernente la prestazione oggetto del contratto; 
+ 2) la facolta' del Soggetto istituzionale titolare dei simboli di effettuare sopralluoghi presso le sedi del licenziatario, volti a riscontrare il corretto uso dei simboli stessi; 
+ 3) 1'obbligo del licenziatario di produrre, prima della commercializzazione del bene ovvero dell'avvio dell'attivita' che comporta l'utilizzo dei simboli, un campione del bene stesso o la documentazione recante l'illustrazione dettagliata dell'evento nell'ambito del quale viene utilizzato il simbolo; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                le clausole di tutela rispetto alle eventuali inadempienze del licenziatario nonche' le relative penalita' e le prescrizioni in materia di controversie e di spese contrattuali; 
+
+                            
+                        
+                        
+                            i)
+                            
+                                apposite clausole, al fine di salvaguardare, anche al verificarsi di eventi sopravvenuti al perfezionamento del contratto, l'attivita', l'immagine, il prestigio o le finalita' istituzionali del Soggetto istituzionale titolare dei simboli; 
+
+                            
+                        
+                        
+                            l)
+                            
+                                il divieto per il licenziatario di cedere a terzi il diritto di utilizzare i simboli concessi in uso, pena la risoluzione di diritto del contratto, fatta salva l'ipotesi in cui tale possibilita' di cessione sia consentita, di volta in volta, da una espressa autorizzazione del Soggetto istituzionale che ne e' titolare.
+
 ## Art. 4. — Utilizzo dei simboli attraverso forme di cooperazione con organismi di diritto pubblico
 
 Il soggetto istituzionale titolare dei simboli puo' stipulare forme di cooperazione con gli organismi di diritto pubblico nei limiti ed alle condizioni stabiliti dalle previsioni recate dal decreto legislativo 18 aprile 2016, n. 50; si applicano le disposizioni di cui all'articolo 3, comma 2.
@@ -69,6 +195,74 @@ Le attivita' di gestione dei simboli di cui agli articoli 3 e 4, ivi inclusa l'i
 Le attivita' di gestione dei simboli di cui agli articoli 3 e 4, ivi inclusa l'individuazione del licenziatario, sono svolte per il Dipartimento dei vigili del fuoco, del soccorso pubblico e della difesa civile dalla Direzione Centrale per le risorse logistiche e strumentali.
 
 ## Art. 6. — Cause di esclusione
+
+1.
+                    
+                        
+                            Sono esclusi dalle procedure contrattuali oggetto del presente decreto: 
+ 
+                        
+                        
+                            a)
+                            
+                                i soggetti pubblici, privati o organizzazioni senza finalita' di lucro che, all'atto della stipula, hanno in corso controversie di natura legale con il Soggetto istituzionale titolare dei simboli nella specifica materia ovvero si trovano con esso in situazioni di conflitto d'interesse; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                i soggetti privati per i quali ricorrono i motivi di esclusione di cui all'articolo 80 del decreto legislativo 18 aprile 2016, n. 50.
+
+2.
+                    
+                        
+                            Il Soggetto istituzionale titolare dei simboli rifiuta, con atto motivato, qualsiasi richiesta di utilizzo, anche temporaneo, dei simboli qualora: 
+ 
+                        
+                        
+                            a)
+                            
+                                dalla licenza puo' derivare un conflitto d'interesse con la relativa attivita' istituzionale; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                l'utilizzo commerciale dei simboli, comporta un possibile pregiudizio o danno alle proprie finalita' istituzionali e alla propria immagine; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                la richiesta di licenza sia ritenuta non conforme all'interesse dell'Istituzione.
+
+3.
+                    
+                        
+                            Non e' in ogni caso consentito l'uso dei simboli riguardanti: 
+ 
+                        
+                        
+                            a)
+                            
+                                la propaganda di natura politica o sindacale e la diffusione di posizioni ideologiche di qualunque natura; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                direttamente o indirettamente, la produzione o la distribuzione di materiale pornografico o a sfondo sessuale; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                la commercializzazione di beni e l'esecuzione di servizi vietate dalle norme vigenti.
 
 ## Art. 7. — Proventi derivanti dall'utilizzo dei simboli
 

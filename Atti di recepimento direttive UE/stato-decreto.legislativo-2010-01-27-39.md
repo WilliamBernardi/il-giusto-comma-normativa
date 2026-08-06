@@ -10,7 +10,7 @@ source: normattiva-opendata
 collection: Atti di recepimento direttive UE
 vigenza_date: 2026-04-29
 zip_date: 2026-07-30
-fetched_at: 2026-08-02T09:40:51Z
+fetched_at: 2026-07-30
 ---
 
 DECRETO LEGISLATIVO
@@ -25,6 +25,250 @@ Acquisiti i pareri delle competenti Commissioni della Camera dei deputati e del 
 ## - Capo I DEFINIZIONI
 
 ## Art. 1. — Definizioni
+
+1.
+                        
+                            
+                                Nel presente decreto legislativo si intendono per: 
+ 
+                            
+                            
+                                a)
+                                
+                                    «affiliata di una societa' di revisione legale»: un ente legato alla societa' di revisione tramite la proprieta' comune, la direzione comune o una relazione di controllo; 
+
+                                
+                            
+                            
+                                a-bis)
+                                
+                                    "attestazione della conformita' della rendicontazione di sostenibilita'": l'incarico finalizzato al rilascio di una relazione contenente le conclusioni espresse dal revisore della sostenibilita' o dalla societa' di revisione legale conformemente all'articolo 8 del decreto legislativo adottato in attuazione dell'articolo 13 della legge 21 febbraio 2024, n. 15 e all'articolo 14-bis del presente decreto; (9) ((12))
+                                    
+                                
+                            
+                            
+                                b)
+                                
+                                    «Codice delle assicurazioni private»: il decreto legislativo 7 settembre 2005, n. 209, recante Codice delle assicurazioni private; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    «enti di interesse pubblico»: le societa' individuate ai sensi dell'articolo 16; 
+
+                                
+                            
+                            
+                                c-bis)
+                                
+                                    "enti sottoposti a regime intermedio": le societa' individuate ai sensi dell'articolo 19-bis; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    "ente di revisione di un Paese terzo": un ente che, indipendentemente dalla sua forma giuridica, effettua la revisione del bilancio d'esercizio o consolidato o, ove applicabile, svolge un incarico finalizzato al rilascio di un'attestazione di conformita' della rendicontazione di sostenibilita' di una societa' avente sede in un Paese terzo e che e' diverso da un ente iscritto nel registro di uno Stato membro in seguito all'abilitazione all'esercizio della revisione legale ai sensi dell'articolo 2, comma 4, lettera f-bis); (9) ((12))
+                                    
+                                
+                            
+                            
+                                e)
+                                
+                                    «gruppo»: l'insieme delle societa' incluse nel consolidamento ai sensi del decreto legislativo 9 aprile 1991 n. 127; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    «Paese terzo»: uno Stato che non e' membro dell'Unione europea; 
+
+                                
+                            
+                            
+                                f-bis)
+                                
+                                    "principi di revisione internazionali": i principi di revisione internazionali (ISA), il principio internazionale sul controllo della qualita' (ISQC 1) e altri principi correlati definiti dall'International Federation of Accountants (IFAC) tramite l'International Auditing and Assurance Standards Board (IAASB), nella misura in cui gli stessi siano rilevanti ai fini della revisione legale; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    "Registro/Registro dei revisori legali": il registro tenuto dal Ministero dell'economia e delle finanze nel quale sono iscritti i revisori legali e le societa' di revisione legale ai sensi dell'articolo 2, comma 1; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    "relazione di revisione legale": la relazione del revisore legale o della societa' di revisione legale di cui all'articolo 14 e, ove applicabile, all'articolo 10 del regolamento n. 537/2014 del Parlamento europeo e del Consiglio; 
+
+                                
+                            
+                            
+                                h-bis)
+                                
+                                    "relazione di attestazione della conformita' della rendicontazione di sostenibilita'": la relazione del revisore della sostenibilita' o della societa' di revisione legale di cui all'articolo 14-bis; ((12))
+                                    
+                                
+                            
+                            
+                                h-ter)
+                                
+                                    "rendicontazione di sostenibilita'": la rendicontazione di sostenibilita' quale definita all'articolo 1, comma, 1, lettera g), del decreto legislativo adottato in attuazione dell'articolo 13 della legge 21 febbraio 2024, n. 15; (9) ((12))
+                                    
+                                
+                            
+                            
+                                i)
+                                
+                                    "responsabile/responsabili dell'incarico": 
+ 1) il revisore legale o i revisori legali ai quali e' stato conferito l'incarico di revisione legale e che firmano la relazione di revisione; 
+ 2) nel caso in cui l'incarico di revisione legale sia stato conferito ad una societa' di revisione legale, il revisore legale o i revisori legali designati dalla societa' di revisione legale come responsabili dell'esecuzione della revisione legale per conto della societa' di revisione legale e che firmano la relazione di revisione. 
+
+                                
+                            
+                            
+                                i-bis)
+                                
+                                    "responsabile/responsabili chiave della revisione": 
+ 1) il responsabile/i responsabili dell'incarico come definiti alla lettera i) del presente articolo; 
+ 2) nel caso della revisione legale di un gruppo, il revisore o i revisori legali designati da una societa' di revisione legale come i responsabili dell'esecuzione della revisione legale del bilancio consolidato, nonche' il revisore o i revisori legali designati come i responsabili a livello delle societa' controllate significative; 
+
+                                
+                            
+                            
+                                i-ter)
+                                
+                                    "responsabile/responsabili dell'incarico di attestazione della rendicontazione di sostenibilita'": 
+ 1) il revisore della sostenibilita' o i revisori della sostenibilita' a cui e' stato conferito l'incarico di attestazione della conformita' della rendicontazione di sostenibilita' e che firmano la relazione di attestazione; 
+ 2) nel caso in cui l'incarico di attestazione sia stato conferito a una societa' di revisione legale, il revisore della sostenibilita' o i revisori della sostenibilita' designati dalla societa' di revisione legale come responsabili dell'esecuzione dell'incarico di attestazione per conto della societa' di revisione legale e che firmano la relazione di attestazione della conformita' della rendicontazione di sostenibilita'; 
+(9) ((12)) 
+ i-quater): "responsabile/ responsabili chiave della sostenibilita'": 
+ 1) il responsabile o i responsabili dell'incarico di attestazione della rendicontazione di sostenibilita' come definiti alla lettera i-ter); 
+ 2) nel caso di un incarico di attestazione della conformita' della rendicontazione di sostenibilita' di un gruppo, i revisori della sostenibilita' designati da una societa' di revisione legale come i responsabili dell'attestazione della rendicontazione consolidata nonche' i revisori della sostenibilita' designati dalle societa' controllate significative in qualita' di responsabili dell'attestazione della conformita' della rendicontazione di sostenibilita'; (9) ((12))
+                                    
+                                
+                            
+                            
+                                l)
+                                
+                                    "rete": la struttura piu' ampia alla quale appartengono un revisore legale o una societa' di revisione legale che e' finalizzata alla cooperazione e che: 
+ 1) persegue chiaramente la condivisione degli utili o dei costi o 
+ 2) e' riconducibile a una proprieta', un controllo o una direzione comuni o 
+ 3) condivide direttive e procedure comuni di controllo della qualita', o una strategia aziendale comune, o l'utilizzo di una denominazione o di un marchio comune o una parte significativa delle risorse professionali; 
+
+                                
+                            
+                            
+                                m)
+                                
+                                    "revisione legale": la revisione dei bilanci di esercizio o dei bilanci consolidati effettuata in conformita' alle disposizioni del codice civile e del presente decreto legislativo o, nel caso in cui sia effettuata in un altro Stato membro dell'Unione europea, alle disposizioni di attuazione della direttiva 2006/43/CE, come modificata dalla direttiva 2014/56/UE, vigenti in tale Stato membro; 
+
+                                
+                            
+                            
+                                n)
+                                
+                                    "revisore legale": una persona fisica abilitata a esercitare la revisione legale ai sensi del codice civile e delle disposizioni del presente decreto legislativo e iscritta nel Registro ovvero una persona fisica abilitata ad esercitare la revisione legale in un altro Stato membro dell'Unione europea ai sensi delle disposizioni di attuazione della direttiva 2006/43/CE, come modificata dalla direttiva 2014/56/UE, vigenti in tale Stato membro; 
+
+                                
+                            
+                            
+                                n-bis)
+                                
+                                    "revisore della sostenibilita'": il revisore legale di cui alla lettera n) abilitato anche allo svolgimento dell'incarico di attestazione della rendicontazione di sostenibilita' in conformita' alle disposizioni del presente decreto legislativo ovvero il revisore legale abilitato anche allo svolgimento dell'incarico di attestazione della rendicontazione di sostenibilita' in un altro Stato membro dell'Unione europea in conformita' alle disposizioni di attuazione della direttiva 2006/43/CE, come modificata dalle direttive 2014/56/UE e (UE) 2022/2464; (9) ((12))
+                                    
+                                
+                            
+                            
+                                o)
+                                
+                                    "revisore di un Paese terzo": una persona fisica che effettua la revisione del bilancio d'esercizio o consolidato o, se del caso, un incarico finalizzato al rilascio di un'attestazione circa la conformita' della rendicontazione di sostenibilita' di una societa' avente sede in un Paese terzo e che e' diversa da una persona iscritta nel registro di uno Stato membro in seguito all'abilitazione all'esercizio della revisione legale; (9) ((12))
+                                    
+                                
+                            
+                            
+                                p)
+                                
+                                    «revisore del gruppo»: il revisore legale o la societa' di revisione legale incaricati della revisione legale dei conti consolidati; 
+
+                                
+                            
+                            
+                                p-bis)
+                                
+                                    "revisore della sostenibilita' del gruppo": il revisore della sostenibilita' o la societa' di revisione legale incaricati dell'attestazione della conformita' della rendicontazione consolidata di sostenibilita'; (9) ((12))
+                                    
+                                
+                            
+                            
+                                q)
+                                
+                                    "societa' di revisione legale": una societa' abilitata a esercitare la revisione legale ai sensi delle disposizioni del presente decreto e iscritta nel Registro ovvero un'impresa abilitata a esercitare la revisione legale in un altro Stato membro dell'Unione europea ai sensi delle disposizioni di attuazione della direttiva 2006/43/CE, come modificata dalla direttiva 2014/56/UE, vigenti in tale Stato membro; 
+
+                                
+                            
+                            
+                                r)
+                                
+                                    «TUB»: il testo unico delle leggi in materia bancaria e creditizia, di cui al decreto legislativo 1° settembre 1993, n. 385; 
+
+                                
+                            
+                            
+                                r-bis)
+                                
+                                    "principi di attestazione internazionali": i principi internazionali di attestazione e altri principi correlati definiti dall'International Federation of Accountants (IFAC) tramite l'International Auditing and Assurance Standard Board (IAASB), nella misura in cui gli stessi siano rilevanti ai fini dell'attestazione in materia di sostenibilita'; (9) ((12))
+                                    
+                                
+                            
+                            
+                                r-ter)
+                                
+                                    "principi di etica e indipendenza internazionali": i principi di etica e indipendenza internazionali definiti dall'International Federation of Accountants (IFAC) tramite l'International Ethics Standards Board for Accountants (IESBA); (9) ((12))
+                                    
+                                
+                            
+                            
+                                s)
+                                
+                                    "TUF": il testo unico delle disposizioni in materia di intermediazione finanziaria, di cui al decreto legislativo 24 febbraio 1998, n. 58; 
+
+                                
+                            
+                            
+                                s-bis)
+                                
+                                    "piccole imprese": le imprese che alla data di chiusura del bilancio non superano i limiti numerici di almeno due dei tre criteri seguenti: 
+ 1) totale dello stato patrimoniale: 4.000.000 di euro; 
+ 2) ricavi netti delle vendite e delle prestazioni: 8.000.000 di euro; 
+ 3) numero medio di 50 dipendenti occupati durante l'esercizio; 
+
+                                
+                            
+                            
+                                s-ter)
+                                
+                                    "Stato membro di origine": uno Stato membro nel quale un revisore legale o una societa' di revisione legale sono abilitati ai sensi delle disposizioni di attuazione della direttiva 2006/43/CE, come modificata dalla direttiva 2014/56/UE; 
+
+                                
+                            
+                            
+                                s-quater)
+                                
+                                    "Stato membro ospitante": uno Stato membro nel quale un revisore legale abilitato nel proprio Stato membro di origine aspira altresi' ad ottenere l'abilitazione o uno Stato membro nel quale una societa' di revisione legale abilitata nel proprio Stato membro di origine aspira ad essere iscritta al registro o e' iscritta al registro ai sensi dell'articolo 2, comma 4, lettera f-bis); 
+
+                                
+                            
+                            
+                                s-quinquies)
+                                
+                                    "Regolamento europeo": regolamento UE n. 537/2014 del Parlamento europeo e del Consiglio del 16 aprile 2014 sui requisiti specifici relativi alla revisione legale dei conti di enti di interesse pubblico.
 
 ---------------
                             AGGIORNAMENTO (9)
@@ -57,6 +301,109 @@ Acquisiti i pareri delle competenti Commissioni della Camera dei deputati e del 
 ## Art. 2. — Abilitazione all'esercizio della revisione legale
 
 L'esercizio della revisione legale e lo svolgimento degli incarichi finalizzati alla attestazione della conformita' della rendicontazione di sostenibilita' sono riservati ai soggetti iscritti nel Registro. Ai fini dell'abilitazione del revisore legale dei conti all'attivita' di attestazione della conformita' della rendicontazione di sostenibilita' devono essere soddisfatte le condizioni di cui all'articolo 3, comma 1, lettera d-bis) e 4, comma 3-ter, nonche', se revisore di uno Stato membro o di un Paese terzo, del comma 3. (9) ((12))
+
+2.
+                        
+                            
+                                Possono chiedere l'iscrizione al Registro le persone fisiche che: 
+ 
+                            
+                            
+                                a)
+                                
+                                    sono in possesso dei requisiti di onorabilita' definiti con regolamento adottato dal Ministro dell'economia e delle finanze, sentita la Consob; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    sono in possesso di una laurea almeno triennale, tra quelle individuate con regolamento dal Ministro dell'economia e delle finanze, sentita la Consob; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    hanno svolto il tirocinio, ai sensi dell'articolo 3; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    hanno superato l'esame di idoneita' professionale di cui all'articolo 4.
+
+3.
+                        
+                            
+                                Possono chiedere l'iscrizione nel Registro: 
+ 
+                            
+                            
+                                a)
+                                
+                                    le persone fisiche abilitate all'esercizio della revisione legale in uno degli altri Stati membri dell'Unione europea, che superano una prova attitudinale, effettuata in lingua italiana, vertente sulla conoscenza della normativa italiana rilevante in materia di revisione legale dei conti ed eventualmente, se abilitate in tal senso nello Stato di provenienza, in materia di attestazione della conformita' della revisione legale dei conti o di entrambe, secondo le modalita' stabilite con regolamento dal Ministro dell'economia e delle finanze, sentita la Consob; (9) ((12))
+                                    
+                                
+                            
+                            
+                                b)
+                                
+                                    a condizione che sia garantita la reciprocita' di trattamento per i revisori legali italiani, i revisori di un Paese terzo che possiedono requisiti equivalenti a quelli del comma 2, che, se del caso, hanno preso parte in tale Paese a programmi di aggiornamento professionale e che superano una prova attitudinale, effettuata in lingua italiana, vertente sulla conoscenza della normativa nazionale rilevante in materia di revisione legale dei conti ed eventualmente, se abilitate in tal senso nello Stato di provenienza, in materia di attestazione della conformita' della revisione legale dei conti o di entrambe, secondo le modalita' stabilite con regolamento adottato dal Ministro dell'economia e delle finanze, sentita la Consob. (9) ((12))
+
+4.
+                        
+                            
+                                Possono chiedere l'iscrizione nel Registro, le societa' che soddisfano le seguenti condizioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    i componenti del consiglio di amministrazione o del consiglio di gestione sono in possesso dei requisiti di onorabilita' definiti con regolamento dal Ministro dell'economia e delle finanze, sentita la Consob; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la maggioranza dei componenti del consiglio di amministrazione, o del consiglio di gestione e' costituita da persone fisiche abilitate all'esercizio della revisione legale in uno degli Stati membri dell'Unione europea; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    nelle societa' regolate nei capi II, III e IV del titolo V del libro V del codice civile, maggioranza numerica e per quote dei soci costituita da soggetti abilitati all'esercizio della revisione legale in uno degli Stati membri dell'Unione europea; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    nelle societa' regolate nei capi V e VI del titolo V del libro V del codice civile, azioni nominative e non trasferibili mediante girata; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    nelle societa' regolate nei capi V, VI e VII del titolo V del libro V del codice civile, maggioranza dei diritti di voto nell'assemblea ordinaria spettante a soggetti abilitati all'esercizio della revisione legale in uno degli Stati membri dell'Unione europea; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    i responsabili della revisione legale sono persone fisiche iscritte al Registro; 
+
+                                
+                            
+                            
+                                f-bis)
+                                
+                                    le imprese di revisione legale abilitate in uno Stato membro che abbiano fatto richiesta di iscrizione al Registro e, eventualmente, all'attivita' di abilitazione alla attestazione delle conformita' della rendicontazione di sostenibilita', anche in momenti diversi, secondo le modalita' stabilite con regolamento adottato dal Ministero dell'economia e delle finanze, sentita la Consob. Tali imprese potranno esercitare la revisione legale e l'attivita' di attestazione della conformita' della rendicontazione di sostenibilita' a condizione che i responsabili dei rispettivi incarichi soddisfino i requisiti previsti dai commi 2 e 3, lettera a). (9) ((12))
 
 Per le societa' semplici si osservano le modalita' di pubblicita' previste dall'articolo 2296 del codice civile.
 
@@ -92,7 +439,92 @@ Il Ministro dell'economia e delle finanze, sentita la Consob, definisce con rego
 
 ## Art. 3. — (Tirocinio)
 
+1.
+                        
+                            
+                                Il tirocinio: 
+ 
+                            
+                            
+                                a)
+                                
+                                    e' finalizzato all'acquisizione della capacita' di applicare concretamente le conoscenze teoriche necessarie per il superamento dell'esame di idoneita' professionale, per l'esercizio dell'attivita' di revisione legale ed, eventualmente, per lo svolgimento dell'incarico finalizzato al rilascio di un'attestazione della conformita' della rendicontazione di sostenibilita'; (9) ((12))
+                                    
+                                
+                            
+                            
+                                b)
+                                
+                                    ha durata almeno triennale, di cui almeno otto mesi relativi all'acquisizione delle conoscenze teorico pratiche necessarie nel caso in cui il tirocinante intenda conseguire anche l'abilitazione di cui all'articolo 2, comma 1, secondo periodo. Tale periodo di tirocinio di almeno otto mesi puo' essere svolto dal revisore legale o dal soggetto che ha gia' completato il tirocinio per l'esercizio dell'attivita' di revisione legale, anche disgiuntamente al periodo di tirocinio necessario al conseguimento dell'abilitazione alla revisione legale che ha durata almeno triennale; (9) ((12))
+                                    
+                                
+                            
+                            
+                                c)
+                                
+                                    e' svolto presso un revisore legale o un'impresa di revisione legale abilitati in uno Stato membro dell'Unione europea e che hanno la capacita' di assicurare la formazione pratica del tirocinante. Il revisore legale puo' accogliere un numero massimo di tre tirocinanti; (4) 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    comporta l'obbligo per il tirocinante di collaborare allo svolgimento di incarichi del revisore legale o della societa' di revisione legale presso i quali il tirocinio e' svolto. I revisori legali e le societa' di revisione legale presso cui il tirocinio e' svolto devono assicurare e controllare l'effettiva collaborazione del tirocinante all'attivita' relativa a uno o piu' incarichi di revisione legale; la violazione del predetto obbligo da parte dei revisori legali e delle societa' di revisione legale equivale alla violazione delle norme di deontologia professionale; 
+
+                                
+                            
+                            
+                                d-bis)
+                                
+                                    comporta, ai fini dell'abilitazione del revisore allo svolgimento di incarichi finalizzati al rilascio di un'attestazione sulla conformita' della rendicontazione di sostenibilita', l'obbligo di collaborare nel periodo di almeno otto mesi allo svolgimento di incarichi di attestazione della conformita' della rendicontazione annuale e consolidata di sostenibilita' o ad altri servizi relativi alla sostenibilita'; (9) ((12))
+                                    
+                                
+                            
+                            
+                                e)
+                                
+                                    il tirocinante osserva le disposizioni in materia di segreto professionale.
+
 Il tirocinio puo' essere svolto contestualmente al biennio di studi finalizzato al conseguimento di laurea specialistica o magistrale ovvero ad una sua parte, in base ad appositi accordi, nell'ambito di una convenzione quadro tra il Ministero dell'istruzione, dell'universita' e della ricerca ed il Ministero dell'economia e delle finanze.
+
+2.
+                        
+                            
+                                Nel registro del tirocinio sono indicati, per ciascun tirocinante iscritto: 
+ 
+                            
+                            
+                                a)
+                                
+                                    le generalita' complete del tirocinante e il recapito da questo indicato per l'invio delle comunicazioni relative ai provvedimenti concernenti il tirocinio; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la data di inizio del tirocinio di revisione legale; (9) ((12))
+                                    
+                                
+                            
+                            
+                                b-bis)
+                                
+                                    la data di inizio del tirocinio per l'abilitazione al rilascio dell'attestazione di conformita' della rendicontazione di sostenibilita'; (9) ((12))
+                                    
+                                
+                            
+                            
+                                c)
+                                
+                                    il soggetto o i soggetti presso il quale il tirocinio e' svolto, con specifica identificazione della finalizzazione del tirocinio di cui alle lettere b) o b-bis); (9) ((12))
+                                    
+                                
+                            
+                            
+                                d)
+                                
+                                    i trasferimenti del tirocinio, le interruzioni e ogni altro fatto modificativo concernente lo svolgimento del tirocinio.
 
 Le informazioni di cui al comma 2 sono conservate in forma elettronica e sono accessibili gratuitamente sul sito Internet del soggetto incaricato della tenuta del registro del tirocinio ai sensi dell'articolo 21.
 
@@ -103,6 +535,45 @@ Il tirocinante che intende completare il periodo di tirocinio presso altro revis
 Il periodo di tirocinio svolto presso un soggetto diverso da quello precedentemente indicato non e' riconosciuto ai fini dell'abilitazione in mancanza della preventiva comunicazione scritta di cui al comma 5.
 
 Il periodo di tirocinio interamente o parzialmente svolto presso un revisore legale o una societa' di revisione legale abilitati in un altro Stato membro dell'Unione europea e' riconosciuto ai fini dell'abilitazione all'esercizio della revisione legale o all'abilitazione al rilascio di un'attestazione circa la conformita' della rendicontazione di sostenibilita', previa attestazione del suo effettivo svolgimento da parte dell'autorita' competente dello Stato membro in questione. (9) ((12))
+
+8.
+                        
+                            
+                                Il Ministro dell'economia e delle finanze, di concerto con il Ministro della giustizia, sentita la Consob, disciplina con regolamento le modalita' di attuazione del presente articolo, definendo, tra l'altro: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il contenuto e le modalita' di presentazione delle domande di iscrizione al registro del tirocinio; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le modalita' di svolgimento del tirocinio, ai fini del comma 1, lettera a); 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    le cause di cancellazione e sospensione del tirocinante dal registro del tirocinio; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    le modalita' di rilascio dell'attestazione di svolgimento del tirocinio; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    gli obblighi informativi degli iscritti nel registro del tirocinio e dei soggetti presso i quali il tirocinio e' svolto.
 
 ---------------
                             AGGIORNAMENTO (4)
@@ -138,9 +609,210 @@ Il periodo di tirocinio interamente o parzialmente svolto presso un revisore leg
 
 Il Ministero dell'economia e delle finanze, d'intesa con il Ministero della giustizia, indice, almeno una volta l'anno, l'esame di idoneita' professionale per l'abilitazione all'esercizio della revisione legale e per l'abilitazione allo svolgimento di incarichi di attestazione della rendicontazione di sostenibilita'. (9) ((12))
 
+2.
+                        
+                            
+                                L'esame di idoneita' professionale ha lo scopo di accertare il possesso delle conoscenze teoriche necessarie all'esercizio dell'attivita' di revisione legale e della capacita' di applicare concretamente tali conoscenze e verte in particolare sulle seguenti materie: 
+ 
+                            
+                            
+                                a)
+                                
+                                    contabilita' generale; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    contabilita' analitica e di gestione; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    disciplina del bilancio di esercizio e del bilancio consolidato; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    principi contabili nazionali e internazionali; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    analisi finanziaria; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    gestione del rischio e controllo interno; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    principi di revisione nazionale e internazionali; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    disciplina della revisione legale; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    deontologia professionale ed indipendenza; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    tecnica professionale della revisione; 
+
+                                
+                            
+                            
+                                m)
+                                
+                                    diritto civile e commerciale; 
+
+                                
+                            
+                            
+                                n)
+                                
+                                    diritto societario; 
+
+                                
+                            
+                            
+                                o)
+                                
+                                    diritto fallimentare; 
+
+                                
+                            
+                            
+                                p)
+                                
+                                    diritto tributario; 
+
+                                
+                            
+                            
+                                q)
+                                
+                                    diritto del lavoro e della previdenza sociale; 
+
+                                
+                            
+                            
+                                r)
+                                
+                                    informatica e sistemi operativi; 
+
+                                
+                            
+                            
+                                s)
+                                
+                                    economia politica, aziendale e finanziaria; 
+
+                                
+                            
+                            
+                                t)
+                                
+                                    principi fondamentali di gestione finanziaria; 
+
+                                
+                            
+                            
+                                u)
+                                
+                                    matematica e statistica.
+
 Per le materie indicate al comma 2, lettere da m) a u), l'accertamento delle conoscenze teoriche e della capacita' di applicarle concretamente e' limitato a quanto necessario per lo svolgimento della revisione dei conti.
 
 Nell'ambito della convenzione quadro di cui all'articolo 3, comma 1-bis, vengono definite le modalita' di esonero dal controllo delle conoscenze teoriche per le materie, di cui al comma 2, che hanno gia' formato oggetto di esame universitario.
+
+3-ter.
+                        
+                            
+                                Ai fini dell'abilitazione del revisore legale dei conti anche all'attivita' di attestazione della conformita' della rendicontazione di sostenibilita', l'esame di cui al comma 2 ha per oggetto le seguenti, ulteriori, materie: 
+ 
+                            
+                            
+                                a)
+                                
+                                    obblighi legali e principi concernenti la redazione della rendicontazione annuale e consolidata di sostenibilita'; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    analisi della sostenibilita'; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    procedure di dovuta diligenza in relazione alle questioni di sostenibilita'; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    obblighi legali e principi di attestazione della conformita' per la rendicontazione di sostenibilita' di cui all'articolo 11. (9) ((12))
+
+4.
+                        
+                            
+                                Il Ministro della giustizia, di concerto con il Ministro dell'economia e delle finanze, sentita la Consob, disciplina con regolamento le modalita' di attuazione del presente articolo, definendo, tra l'altro: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il contenuto e le modalita' di presentazione delle domande di ammissione all'esame di idoneita' professionale alla revisione legale dei conti e all'abilitazione allo svolgimento di incarichi di attestazione della rendicontazione di sostenibilita'; (9) ((12))
+                                    
+                                
+                            
+                            
+                                b)
+                                
+                                    le modalita' di nomina della commissione esaminatrice e gli adempimenti cui essa e' tenuta; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il contenuto e le modalita' di svolgimento dell'esame di idoneita' professionale alla revisione legale dei conti e all'abilitazione allo svolgimento di incarichi di attestazione della rendicontazione di sostenibilita'; (9) ((12))
+                                    
+                                
+                            
+                            
+                                d)
+                                
+                                    i casi di equipollenza con esami di Stato per l'abilitazione all'esercizio di professioni regolamentate e le eventuali integrazioni richieste.
 
 Ai fini dell'iscrizione al Registro sono esonerati dall'esame di idoneita' i soggetti che hanno superato gli esami di Stato di cui agli articoli 46 e 47 del decreto legislativo 28 giugno 2005, n. 139, fermo l'obbligo di completare il tirocinio legalmente previsto per l'accesso all'esercizio dell'attivita' di revisore legale, nel rispetto dei requisiti previsti, in conformita' alla direttiva 2006/43/CE, con decreto del Ministro della giustizia, sentito il Ministro dell'economia e delle finanze, da adottare entro venti giorni dalla data di entrata in vigore della presente disposizione, senza la previsione, per i candidati, di maggiori oneri e di nuove sessioni di esame.
 
@@ -183,6 +855,56 @@ Il periodo di formazione continua e' triennale. I trienni formativi decorrono da
 L'impegno richiesto per l'assolvimento degli obblighi formativi e' espresso in termini di crediti formativi.
 
 In ciascun anno l'iscritto deve acquisire almeno 20 crediti formativi, per un totale di un minimo di 60 crediti formativi nel triennio. I revisori abilitati al rilascio all'attestazione della conformita' della rendicontazione di sostenibilita' devono acquisire almeno venticinque crediti formativi ogni anno solare, di cui almeno dieci caratterizzanti la revisione legale dei conti e almeno dieci caratterizzanti la sostenibilita'. (9) ((12))
+
+6.
+                        
+                            
+                                L'attivita' di formazione continua puo' essere svolta: 
+ 
+                            
+                            
+                                a)
+                                
+                                    attraverso la partecipazione a programmi di formazione a distanza erogati dal Ministero dell'economia e delle finanze, anche attraverso organismi convenzionati; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    presso societa' o enti pubblici e privati, provvisti di struttura territoriale adeguata alla natura dell'attivita' di formazione ed alle modalita' di svolgimento dei programmi formativi, accreditati dal Ministero dell'economia e delle finanze attraverso la sottoscrizione di apposita convenzione.
+
+7.
+                        
+                            
+                                Possono richiedere l'accreditamento di cui al comma 6, lettera b), i soggetti in possesso dei seguenti requisiti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    numero di dipendenti adeguato a garantire, tenendo conto della struttura organizzativa, della articolazione territoriale e della esperienza professionale, la qualita' della formazione offerta; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    comprovata esperienza, almeno triennale, nel campo della formazione professionale di studenti universitari, professionisti nell'ambito giuridico-economico e contabile, dirigenti e funzionari pubblici, nelle materie di cui all'articolo 4; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    impiego, nell'attivita' di formazione, di docenti con una comprovata esperienza professionale nell'ambito delle materie di cui all'articolo 4; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    organizzazione ispirata a criteri di economicita' della prestazione.
 
 I soggetti pubblici o privati, di cui al comma 6, lettera b), sono responsabili della qualita' e della pertinenza dei programmi formativi, dell'effettivita' della partecipazione degli iscritti ai corsi e comunicano annualmente al registro l'assolvimento degli obblighi di formazione in relazione a ciascun partecipante.
 
@@ -243,6 +965,24 @@ Le autorita' vigilanti provvedono autonomamente alla formazione del personale in
 
 ## Art. 6. — Iscrizione nel Registro
 
+1.
+                        
+                            
+                                Il Ministro dell'economia e delle finanze, di concerto con il Ministro della giustizia, sentita la Consob, con proprio regolamento, stabilisce: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il contenuto e le modalita' di presentazione delle domande di iscrizione nel Registro dei revisori legali e delle societa' di revisione; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    modalita' e termini entro cui esaminare le domande di iscrizione e verificare i requisiti.
+
 Il Ministero dell'economia e delle finanze, di concerto con il Ministero della giustizia, sentita la Consob, definisce, con decreto, il contenuto e le modalita' di presentazione della domanda di abilitazione dei revisori e delle societa' di revisione allo svolgimento dell'attivita' di attestazione della conformita' della rendicontazione di sostenibilita', nonche' il contenuto, le modalita' e i termini di trasmissione delle informazioni e dei loro aggiornamenti da parte degli iscritti nel Registro. (9) ((12))
 
 Il Ministero dell'economia e delle finanze, se accerta l'insussistenza dei requisiti per l'abilitazione, ne da' comunicazione all'iscritto, assegnandogli un termine non superiore a sei mesi per sanare le carenze. Qualora entro il termine assegnato l'iscritto non abbia provveduto, il Ministero dell'economia e delle finanze dispone, con proprio decreto, la cancellazione dal Registro.
@@ -276,6 +1016,175 @@ Il provvedimento di cancellazione e' motivato e notificato all'interessato.
  3) alle imprese di assicurazione captive, definite all'articolo 13, punto 2), della direttiva 2009/138/CE del Parlamento europeo e del Consiglio, del 25 novembre 2009, e alle imprese di riassicurazione captive di cui all'articolo 13, punto 5), della citata direttiva, purche' si tratti di imprese di grandi dimensioni o di piccole e medie imprese quotate e che non sono micro-imprese".
 
 ## Art. 7. — (Contenuto informativo del Registro)
+
+1.
+                        
+                            
+                                Per ciascun revisore legale, il Registro riporta almeno le seguenti informazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il nome, il cognome, il luogo e la data di nascita; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il numero di iscrizione; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    la residenza, anche se all'estero, ed il domicilio in Italia, nonche', se diverso, il domicilio fiscale; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    il codice fiscale ed il numero di partita I.V.A.; 
+
+                                
+                            
+                            
+                                d-bis)
+                                
+                                    indirizzo di posta elettronica certificata; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    il nome, il numero di iscrizione, l'indirizzo e il sito Internet dell'eventuale societa' di revisione legale presso la quale il revisore e' impiegato o della quale e' socio o amministratore; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    l'eventuale iscrizione in registri della revisione legale di altri Stati membri nonche' l'iscrizione in albi, registri o elenchi della revisione in Paesi terzi, con l'indicazione dei numeri di iscrizione e delle relative autorita' competenti alla tenuta degli albi o registri e l'informazione se il revisore legale sia abilitato per la revisione o per l'attestazione della conformita' della rendicontazione di sostenibilita'; (9) ((12))
+                                    
+                                
+                            
+                            
+                                g)
+                                
+                                    la sussistenza di incarichi di revisione presso enti di interesse pubblico o di enti sottoposti a regime intermedio; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    eventuali provvedimenti in essere, assunti ai sensi degli articoli 24, comma 1, lettere e) e g), e 26, comma 1, lettere c) e d); 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    l'indicazione dell'eventuale rete cui appartiene il revisore legale, unitamente ai nomi e agli indirizzi di tutti gli altri professionisti o imprese appartenenti alla rete e delle affiliate oppure, in alternativa, del luogo in cui tali informazioni sono accessibili al pubblico. Per i revisori legali che sono dipendenti, soci o amministratori di societa' di revisione legale, tali informazioni sono fornite unicamente dalla societa' di revisione legale. 
+
+                                
+                            
+                            
+                                i-bis)
+                                
+                                    l'eventuale abilitazione allo svolgimento degli incarichi di attestazione della conformita' della rendicontazione di sostenibilita'. (9) ((12))
+
+2.
+                        
+                            
+                                Per ciascuna societa' di revisione, il Registro riporta almeno le seguenti informazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la denominazione o la ragione sociale; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il numero di iscrizione; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    l'indirizzo della sede e di tutti gli uffici; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    le informazioni per contattare la societa' e il nome del referente, nonche' l'eventuale sito Internet; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    nome, cognome e numero di iscrizione di tutti i revisori legali impiegati presso la societa' o della quale sono soci o amministratori, con indicazione se siano abilitati a svolgere gli incarichi di attestazione della conformita' della rendicontazione di sostenibilita', nonche' gli eventuali provvedimenti in essere, assunti ai sensi degli articoli 24, comma 1, lettere e) e g), 26, comma 1, lettere c) e d) e 26-quater, comma 1, lettere c) e d); (9) ((12))
+                                    
+                                
+                            
+                            
+                                f)
+                                
+                                    nome, cognome e domicilio in Italia dei componenti del consiglio di amministrazione o del consiglio di gestione, con l'indicazione di ogni eventuale iscrizione essi hanno in albi o registri di revisori legali o di revisori dei conti in altri Stati membri dell'Unione europea o in altri Stati, e specificando gli eventuali numeri di iscrizione e le autorita' competenti alla tenuta degli albi o registri; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    il numero di partita I.V.A. della societa'; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    nome, cognome e domicilio dei soci, con l'indicazione di ogni eventuale iscrizione essi hanno in albi o registri di revisori legali o di revisori dei conti in altri Stati membri dell'Unione europea o in altri Stati, e specificando gli eventuali numeri di iscrizione e le autorita' competenti alla tenuta degli albi o registri; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    l'indicazione dell'eventuale rete cui appartiene la societa', unitamente ai nomi e agli indirizzi di tutti gli altri professionisti o imprese appartenenti alla rete e delle affiliate oppure, in alternativa, del luogo in cui tali informazioni sono accessibili al pubblico; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    l'eventuale iscrizione in registri della revisione legale di altri Stati membri nonche' l'iscrizione in albi, registri o elenchi della revisione in Paesi terzi, con l'indicazione dei numeri di iscrizione e delle relative autorita' competenti alla tenuta degli albi o registri; 
+
+                                
+                            
+                            
+                                m)
+                                
+                                    la sussistenza di incarichi di revisione presso enti di interesse pubblico o di enti sottoposti a regime intermedio; 
+
+                                
+                            
+                            
+                                n)
+                                
+                                    eventuali provvedimenti in essere, assunti ai sensi degli articoli 24, comma 1, lettera g), e 26, comma 1, lettera d).
 
 I revisori e gli enti di revisione contabile dei Paesi terzi iscritti nel Registro ai sensi dell'articolo 34, sono chiaramente indicati in quanto tali e non come soggetti abilitati all'esercizio della revisione legale in Italia. Per ogni ente di revisione contabile di Paesi terzi e' indicato il numero di iscrizione presso l'autorita' competente del Paese terzo, il nome di tale autorita' nonche' se l'iscrizione riguardi la revisione legale dei conti, l'attestazione della conformita' della rendicontazione di sostenibilita' o entrambe le attivita'. (9) ((12))
 
@@ -439,6 +1348,31 @@ Il revisore legale, la societa' di revisione legale, i loro responsabili chiave 
 
 Il revisore legale o la societa' di revisione legale documenta nelle carte di lavoro tutti i rischi rilevanti per la sua indipendenza nonche' le misure adottate per limitare tale rischi.
 
+5.
+                        
+                            
+                                I soggetti di cui al comma 3 non possono partecipare ne' influenzare in alcun modo l'esito di una revisione legale di un ente sottoposto a revisione se: 
+ 
+                            
+                            
+                                a)
+                                
+                                    possiedono strumenti finanziari dell'ente medesimo, salvo che si tratti di interessi detenuti indirettamente attraverso regimi di investimento collettivo diversificati; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    possiedono strumenti finanziari di qualsiasi ente collegato a un ente sottoposto a revisione, la cui proprieta' potrebbe causare un conflitto di interessi o potrebbe essere generalmente percepita come tale, salvo che si tratti di interessi detenuti indirettamente attraverso regimi di investimento collettivo diversificati; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    hanno intrattenuto un rapporto di lavoro dipendente o una relazione d'affari o di altro tipo con l'ente sottoposto a revisione nel periodo di cui al comma 1-bis, che potrebbe causare un conflitto di interessi o potrebbe essere generalmente percepita come tale. (4)
+
 Se, durante il periodo cui si riferisce il bilancio, una societa' sottoposta a revisione legale viene rilevata da un'altra societa', si fonde con essa o la rileva, il revisore legale o la societa' di revisione legale deve individuare e valutare eventuali interessi o relazioni in essere o recenti, inclusi i servizi diversi dalla revisione prestati a detta societa', tali da poter compromettere, tenuto conto delle misure disponibili, la sua indipendenza e la sua capacita' di proseguire la revisione legale dopo la data di efficacia della fusione o dell'acquisizione. Il revisore legale o la societa' di revisione legale adotta, entro tre mesi dalla data di approvazione del progetto di fusione o di acquisizione, tutti i provvedimenti necessari per porre fine agli interessi o alle relazioni di cui al presente comma e, ove possibile, adotta misure intese a ridurre al minimo i rischi per la propria indipendenza derivanti da tali interessi e relazioni. (4)
 
 Il revisore legale o il responsabile chiave della revisione legale che effettua la revisione per conto di una societa' di revisione legale non puo' rivestire cariche sociali negli organi di amministrazione dell'ente che ha conferito l'incarico di revisione ne' prestare lavoro autonomo o subordinato in favore dell'ente stesso svolgendo funzioni dirigenziali di rilievo se non sia decorso almeno un anno dal momento in cui abbia cessato la sua attivita' in qualita' di revisore legale o responsabile chiave della revisione, in relazione all'incarico. Tale divieto e' esteso anche ai dipendenti e ai soci, diversi dai responsabili chiave della revisione, del revisore legale o della societa' di revisione, nonche' a ogni altra persona fisica i cui servizi sono messi a disposizione o sono sotto il controllo del revisore legale o della societa' di revisione legale, nel caso in cui tali soggetti siano stati personalmente abilitati all'esercizio della professione di revisore legale, per il periodo di un anno dal loro diretto coinvolgimento nell'incarico di revisione legale. (4)
@@ -446,6 +1380,31 @@ Il revisore legale o il responsabile chiave della revisione legale che effettua 
 I soci e i componenti dell'organo di amministrazione della societa' di revisione legale o di un'affiliata non possono intervenire nell'espletamento della revisione legale in un modo che puo' compromettere l'indipendenza e l'obiettivita' del responsabile dell'incarico.
 
 Il corrispettivo per l'incarico di revisione legale non puo' essere subordinato ad alcuna condizione, non puo' essere stabilito in funzione dei risultati della revisione, ne' puo' dipendere in alcun modo dalla prestazione di servizi diversi dalla revisione alla societa' che conferisce l'incarico, alle sue controllate e controllanti, da parte del revisore legale o della societa' di revisione legale o della loro rete.
+
+10.
+                        
+                            
+                                Il corrispettivo per l'incarico di revisione legale e' determinato in modo da garantire la qualita' e l'affidabilita' dei lavori. A tale fine i soggetti incaricati della revisione legale determinano le risorse professionali e le ore da impiegare nell'incarico avendo riguardo: 
+ 
+                            
+                            
+                                a)
+                                
+                                    alla dimensione, composizione e rischiosita' delle piu' significative grandezze patrimoniali, economiche e finanziarie del bilancio della societa' che conferisce l'incarico, nonche' ai profili di rischio connessi al processo di consolidamento dei dati relativi alle societa' del gruppo; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    alla preparazione tecnica e all'esperienza che il lavoro di revisione richiede; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    alla necessita' di assicurare, oltre all'esecuzione materiale delle verifiche, un'adeguata attivita' di supervisione e di indirizzo, nel rispetto dei principi di cui all'articolo
 
 11. La misura della retribuzione dei dipendenti delle societa' di revisione legale che partecipano allo svolgimento delle attivita' di revisione legale non puo' essere in alcun modo determinata dall'esito delle revisioni da essi compiute.
 
@@ -488,6 +1447,38 @@ I revisori della sostenibilita' e le societa' di revisione legale che svolgono i
  3) alle imprese di assicurazione captive, definite all'articolo 13, punto 2), della direttiva 2009/138/CE del Parlamento europeo e del Consiglio, del 25 novembre 2009, e alle imprese di riassicurazione captive di cui all'articolo 13, punto 5), della citata direttiva, purche' si tratti di imprese di grandi dimensioni o di piccole e medie imprese quotate e che non sono micro-imprese".
 
 ## Art. 10-bis. — (Preparazione della revisione legale e valutazione dei rischi per l'indipendenza)
+
+1.
+                        
+                            
+                                Il revisore legale o la societa' di revisione legale, prima di accettare o proseguire un incarico di revisione legale, deve valutare e documentare: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il possesso dei requisiti di indipendenza ed obiettivita' di cui all'articolo 10 e, ove applicabile, all'articolo 17; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'eventuale presenza di rischi per la sua indipendenza e, nel caso, se siano state adottate idonee misure per mitigarli; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    la disponibilita' di personale professionale competente, tempo e risorse necessari per svolgere in modo adeguato l'incarico di revisione; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    nel caso di societa' di revisione legale, l'abilitazione del responsabile dell'incarico all'esercizio della revisione legale ai sensi del presente decreto.
 
 Il comma 1 si applica anche all'attivita' di attestazione della rendicontazione di sostenibilita'. (9) ((12)) 
  (4)
@@ -813,6 +1804,100 @@ In caso di revisione legale o di attestazione della conformita' della rendiconta
 
 ## Art. 14. — (Relazione di revisione e giudizio sul bilancio)
 
+1.
+                        
+                            
+                                Il revisore legale o la societa' di revisione legale incaricati di effettuare la revisione legale dei conti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    esprimono con apposita relazione un giudizio sul bilancio di esercizio e sul bilancio consolidato, ove redatto ed illustrano i risultati della revisione legale; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    verificano nel corso dell'esercizio la regolare tenuta della contabilita' sociale e la corretta rilevazione dei fatti di gestione nelle scritture contabili. (4)
+
+2.
+                        
+                            
+                                La relazione, redatta in conformita' ai principi di revisione di cui all'articolo 11, comprende: 
+ 
+                            
+                            
+                                a)
+                                
+                                    un paragrafo introduttivo che identifica il bilancio di esercizio o consolidato sottoposto a revisione legale e il quadro normativo sull'informazione finanziaria applicato alla sua redazione; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    una descrizione della portata della revisione legale svolta con l'indicazione dei principi di revisione osservati; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    un giudizio sul bilancio che indica chiaramente se questo e' conforme alle norme che ne disciplinano la redazione e se rappresenta in modo veritiero e corretto la situazione patrimoniale e finanziaria e il risultato economico dell'esercizio; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    eventuali richiami di informativa che il revisore sottopone all'attenzione dei destinatari del bilancio, senza che essi costituiscano rilievi; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    un giudizio sulla coerenza della relazione sulla gestione con il bilancio; (9) (12) 
+
+                                
+                            
+                            
+                                e-bis)
+                                
+                                    un giudizio sulla conformita' della relazione sulla gestione alle norme di legge, esclusa la sezione relativa alla rendicontazione di sostenibilita' di cui al decreto legislativo adottato in attuazione dell'articolo 13 della legge 21 febbraio 2024, n. 15; (9) (12) 
+
+                                
+                            
+                            
+                                e-ter)
+                                
+                                    una dichiarazione rilasciata sulla base delle conoscenze e della comprensione dell'impresa e del relativo contesto acquisite nel corso dell'attivita' di revisione legale, circa l'eventuale identificazione di errori significativi nella relazione sulla gestione; (9) (12) 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    una dichiarazione su eventuali incertezze significative relative a eventi o a circostanze che potrebbero sollevare dubbi significativi sulla capacita' della societa' sottoposta a revisione di mantenere la continuita' aziendale; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    l'indicazione della sede del revisore legale o della societa' di revisione legale;(4) 
+
+                                
+                            
+                            
+                                g-bis)
+                                
+                                    
+                                        ((per la relazione di revisione del bilancio d'esercizio delle imprese di cui all'articolo 5-ter, comma 1, del decreto legislativo 18 agosto 2015, n. 139, l'attestazione circa l'eventuale sussistenza dell'obbligo di redigere la comunicazione di cui all'articolo 5-quinquies del medesimo decreto legislativo a partire dall'esercizio finanziario precedente a quello sul cui bilancio e' chiamato a esprimere un giudizio e circa l'avvenuta predisposizione e pubblicazione di tale comunicazione da parte degli amministratori.
+Per la violazione degli obblighi di cui alla presente lettera la sanzione e' applicata nella misura disposta dall'articolo 5-novies, comma 1, del citato decreto legislativo n. 139 del 2015))
+
 Nel caso in cui il revisore esprima un giudizio sul bilancio con rilievi, un giudizio negativo o rilasci una dichiarazione di impossibilita' di esprimere un giudizio, la relazione illustra analiticamente i motivi della decisione.(4)
 
 Qualora la revisione legale sia stata effettuata da piu' revisori legali o piu' societa' di revisione legale, essi raggiungono un accordo sui risultati della revisione legale dei conti e presentano una relazione e un giudizio congiunti. In caso di disaccordo, ogni revisore legale o societa' di revisione presenta il proprio giudizio in un paragrafo distinto della relazione di revisione, indicando i motivi del disaccordo.(4)
@@ -870,6 +1955,31 @@ La relazione del revisore legale o della societa' di revisione legale sul bilanc
 
 Il revisore della rendicontazione di sostenibilita' o la societa' di revisione legale, abilitati ai sensi del presente decreto, appositamente incaricati, esprimono con apposita relazione di attestazione le proprie conclusioni circa la conformita' della rendicontazione di sostenibilita' alle norme del decreto legislativo adottato in attuazione dell'articolo 13 della legge 21 febbraio 2024, n. 15, che ne disciplinano i criteri di redazione, la conformita' all'obbligo di marcatura della rendicontazione di sostenibilita' di cui agli articoli 3, comma 10, e 4, comma 9, del predetto decreto, nonche' circa la conformita' all'osservanza degli obblighi di informativa previsti dall'articolo 8 del regolamento (UE) 2020/852 del Parlamento europeo e del Consiglio, del 18 giugno 2020.
 
+2.
+                        
+                            
+                                La relazione di attestazione, redatta in conformita' ai principi di attestazione di cui all'articolo 11, comprende: 
+ 
+                            
+                            
+                                a)
+                                
+                                    un paragrafo introduttivo che identifica la rendicontazione di sostenibilita' sottoposta ad attestazione, la data e il periodo cui si riferisce, nonche' il quadro normativo di riferimento; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    una descrizione della portata delle attivita' di attestazione della conformita' della rendicontazione di sostenibilita' che indica almeno i principi di attestazione in base ai quali tali attivita' sono state svolte; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    le conclusioni di cui al comma 1.
+
 Qualora l'attestazione della conformita' della rendicontazione di sostenibilita' sia stata svolta da piu' revisori della sostenibilita' o da piu' societa' di revisione legale, essi raggiungono un accordo sui risultati dell'attivita' di attestazione e presentano una relazione e delle conclusioni congiunte. In caso di disaccordo, ogni revisore della sostenibilita' o societa' di revisione legale presenta le proprie conclusioni in un paragrafo distinto della relazione di attestazione, indicando i motivi del disaccordo.
 
 La relazione di attestazione e' firmata e datata dal responsabile dell'incarico di attestazione della rendicontazione di sostenibilita'. Quando l'attivita' di attestazione e' svolta da una societa' di revisione legale, la relazione di attestazione reca almeno la firma del responsabile dell'incarico di attestazione della rendicontazione di sostenibilita' che svolgono l'incarico per conto della societa' di revisione. Qualora l'incarico sia stato affidato congiuntamente a piu' revisori della sostenibilita' o a piu' societa' di revisione legale, la relazione di attestazione e' firmata da tutti i responsabili dell'incarico di attestazione della rendicontazione di sostenibilita'.
@@ -924,6 +2034,38 @@ PUBBLICO E GLI ENTI SOTTOPOSTI A REGIME INTERMEDIO))
 
 ((
 
+1.
+                        
+                            
+                                Le disposizioni del presente capo si applicano agli enti di interesse pubblico e ai revisori legali e alle societa' di revisione legale incaricati della revisione legale presso enti di interesse pubblico. Sono enti di interesse pubblico: 
+ 
+                            
+                            
+                                a)
+                                
+                                    le societa' italiane emittenti valori mobiliari ammessi alla negoziazione su mercati regolamentati italiani e dell'Unione europea; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le banche; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    le imprese di assicurazione di cui all' articolo 1, comma 1, lettera u), del codice delle assicurazioni private; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    le imprese di riassicurazione di cui all' articolo 1, comma 1, lettera cc), del codice delle assicurazioni private, con sede legale in Italia, e le sedi secondarie in Italia delle imprese di riassicurazione extracomunitarie di cui all'articolo 1, comma 1, lettera cc-ter), del codice delle assicurazioni private.
+
 2. Negli enti di interesse pubblico, nelle societa' controllate da enti di interesse pubblico, nelle societa' che controllano enti di interesse pubblico e nelle societa' sottoposte con questi ultimi a comune controllo, la revisione legale non puo' essere esercitata dal collegio sindacale.))
 
 ((4))
@@ -941,6 +2083,24 @@ Esso non puo' essere rinnovato o nuovamente conferito se non siano decorsi almen
 Fermo restando il rispetto delle disposizioni degli articoli 10 e 10-bis ed in ottemperanza ai principi stabiliti dalla direttiva 2006/43/CE, come modificata dalla direttiva 2014/56/UE, la Consob stabilisce con regolamento le situazioni che possono compromettere l'indipendenza del revisore legale, della societa' di revisione legale e del responsabile chiave della revisione di un ente di interesse pubblico, nonche' le misure da adottare per rimuovere tali situazioni.
 
 I revisori legali, le societa' di revisione legale e le entita' appartenenti alla loro rete, i soci, gli amministratori, i componenti degli organi di controllo e i dipendenti della societa' di revisione legale devono rispettare i divieti di cui all'articolo 5, paragrafo 1, del Regolamento europeo.
+
+3-bis.
+                        
+                            
+                                Il revisore della sostenibilita' o la societa' di revisione legale incaricati dell'attestazione dai soggetti di cui all'articolo 3 e 4 del decreto legislativo adottato in attuazione dell'articolo 13 della legge 21 febbraio 2024, n. 15 che siano un ente di interesse pubblico o qualsiasi membro della rete a cui il revisore della sostenibilita' o la societa' di revisione legale appartenga non fornisce, direttamente o indirettamente, all'ente di interesse pubblico, alla sua controllante o alle sue controllate all'interno dell'Unione europea i servizi diversi dalla revisione legale vietati, di cui all'articolo 5, paragrafo 1, secondo comma, lettere b), c), e), f), g), h), i), j) e k), del regolamento (UE) n. 537/2014 del Parlamento europeo e del Consiglio, del 16 aprile 2014, durante: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il lasso di tempo compreso tra l'inizio del periodo oggetto dell'attestazione e l'emissione della relazione di attestazione; e 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'esercizio immediatamente precedente al periodo di cui alla lettera a) per quanto riguarda i servizi di cui all'articolo 5, paragrafo 1, secondo comma, lettera e), del regolamento (UE) n. 537/2014. (9) ((12))
 
 I soggetti di cui al comma precedente, incaricati da un ente di interesse pubblico e, qualora siano appartenenti a una rete, qualsiasi membro di tale rete, possono prestare all'ente di interesse pubblico, alla sua controllante o alle sue controllate servizi diversi dall'attestazione, differenti da quelli vietati di cui al comma precedente, previa approvazione da parte del comitato per il controllo interno e la revisione contabile basata su un'adeguata valutazione dei rischi potenziali per l'indipendenza e delle salvaguardie applicate a norma degli articoli 10 e 10-bis. (9) ((12))
 
@@ -997,6 +2157,77 @@ Il divieto previsto dall'articolo 2372, quinto comma, del codice civile si appli
 
 ## Art. 19. — (Comitato per il controllo interno e la revisione contabile)
 
+1.
+                        
+                            
+                                Negli enti di interesse pubblico, il comitato per il controllo interno e la revisione contabile e' incaricato: 
+ 
+                            
+                            
+                                a)
+                                
+                                    di informare l'organo di amministrazione dell'ente sottoposto a revisione dell'esito della revisione legale e, ove applicabile, dell'esito dell'attivita' di attestazione della rendicontazione di sostenibilita' e trasmettere a tale organo la relazione aggiuntiva di cui all'articolo 11 del Regolamento europeo, corredata da eventuali osservazioni; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    di monitorare il processo di informativa finanziaria e, ove applicabile, della rendicontazione individuale o consolidata di sostenibilita', compresi l'utilizzo del formato elettronico di cui agli articoli 3, comma 11, e 4, comma 10, del decreto legislativo adottato in attuazione dell'articolo 13 della legge 21 febbraio 2024, n. 15, e le procedure attuate dall'impresa ai fini del rispetto degli standard di rendicontazione adottati dalla Commissione europea ai sensi dell'articolo 29-ter dalla direttiva 2013/34/UE del Parlamento europeo e del Consiglio, del 26 giugno 2013, nonche' presentare le raccomandazioni o le proposte volte a garantirne l'integrita'; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    di controllare l'efficacia dei sistemi di controllo interno della qualita' e di gestione del rischio dell'impresa e, se applicabile, della revisione interna, per quanto attiene all'informativa finanziaria e, ove presente, alla rendicontazione individuale o consolidata di sostenibilita', compreso l'utilizzo del formato elettronico di cui agli articoli 3, comma 11, e 4, comma 10, del decreto legislativo adottato in attuazione dell'articolo 13 della legge 21 febbraio 2024, n. 15, senza violarne l'indipendenza; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    di monitorare la revisione legale del bilancio d'esercizio e del bilancio consolidato e, ove presente, l'attivita' di attestazione della conformita' della rendicontazione individuale o consolidata di sostenibilita', anche tenendo conto di eventuali risultati e conclusioni dei controlli di qualita' svolti dalla Consob a norma dell'articolo 26, paragrafo 6, del Regolamento europeo, ove disponibili; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    di verificare e monitorare l'indipendenza dei revisori legali, dei revisori della sostenibilita' o delle societa' di revisione legale a norma degli articoli 10, 10-bis, 10-ter, 10-quater e 17 del presente decreto e dell'articolo 6 del Regolamento europeo, in particolare per quanto concerne l'adeguatezza della prestazione di servizi diversi dalla revisione all'ente sottoposto a revisione, conformemente all'articolo 5 di tale regolamento; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    di essere responsabile della procedura volta alla selezione dei revisori legali o delle societa' di revisione legale e raccomandare i revisori legali o le imprese di revisione legale da designare ai sensi dell'articolo 16 del Regolamento europeo. (9) ((12))
+
+2.
+                        
+                            
+                                Il comitato per il controllo interno e la revisione contabile si identifica con: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il collegio sindacale; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il consiglio di sorveglianza negli enti che adottano il sistema di amministrazione e controllo dualistico, a condizione che ad esso non siano attribuite le funzioni di cui all'articolo 2409-terdecies, primo comma, lettera f-bis), del codice civile, ovvero un comitato costituito al suo interno. In tal caso, il comitato e' sentito dal consiglio di sorveglianza in merito alla raccomandazione di cui all'articolo 16, comma 2, del Regolamento europeo. Almeno uno dei componenti del medesimo comitato deve essere scelto tra gli iscritti nel Registro; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il comitato per il controllo sulla gestione negli enti che adottano il sistema di amministrazione e controllo monistico.
+
 I membri del comitato per il controllo interno e la revisione contabile, nel loro complesso, sono competenti nel settore in cui opera l'ente sottoposto a revisione. 
  (4)
 
@@ -1032,6 +2263,116 @@ I membri del comitato per il controllo interno e la revisione contabile, nel lor
 
 ## Art. 19-bis. — (Enti sottoposti a regime intermedio)
 
+1.
+                        
+                            
+                                Sono enti sottoposti a regime intermedio: 
+ 
+                            
+                            
+                                a)
+                                
+                                    LETTERA ABROGATA DALLA L. 5 MARZO 2024, N. 21; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le societa' di gestione dei mercati regolamentati; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    le societa' che gestiscono i sistemi di compensazione e di garanzia; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    le societa' di gestione accentrata di strumenti finanziari; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    le societa' di intermediazione mobiliare; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    le societa' di gestione del risparmio ed i relativi fondi comuni di diritto italiano dalle medesime gestiti; 
+
+                                
+                            
+                            
+                                f-bis)
+                                
+                                    i fondi comuni di investimento di diritto italiano gestiti da societa' di gestione UE, GEFIA UE e non UE; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    le societa' di investimento a capitale variabile e le societa' di investimento a capitale fisso; 
+
+                                
+                            
+                            
+                                g-bis)
+                                
+                                    
+                                        ((le societa' di partenariato;))
+                                    
+                                
+                            
+                            
+                                h)
+                                
+                                    gli istituti di pagamento di cui alla direttiva 2009/64/CE; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    gli istituti di moneta elettronica; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    gli intermediari finanziari di cui all'articolo 106 del TUB. 
+
+                                
+                            
+                            
+                                l-bis)
+                                
+                                    i gestori di crediti in sofferenza autorizzati ai sensi dell'articolo 114.6 del TUB. (8) 
+
+                                
+                            
+                            
+                                l-ter)
+                                
+                                    emittenti di token collegati ad attivita' autorizzati ai sensi dell'articolo 21 del regolamento (UE) 2023/1114, del Parlamento europeo e del Consiglio, del 31 maggio 2023; 
+
+                                
+                            
+                            
+                                l-quater)
+                                
+                                    prestatori di servizi per le cripto-attivita' autorizzati ai sensi dell'articolo 63 del regolamento (UE) 2023/1114.
+
 Il bilancio di esercizio e, ove applicabile, il bilancio consolidato degli enti sottoposti a regime intermedio e' assoggettato a revisione legale ai sensi del presente decreto. Negli enti sottoposti a regime intermedio, nelle societa' controllate da enti sottoposti a regime intermedio, nelle societa' che controllano enti sottoposti a regime intermedio e nelle societa' sottoposte con questi ultimi a comune controllo, la revisione legale non puo' essere esercitata dal collegio sindacale. 
  (4)
 
@@ -1045,6 +2386,24 @@ Il bilancio di esercizio e, ove applicabile, il bilancio consolidato degli enti 
  Il D.Lgs. 30 luglio 2024, n. 116, ha disposto (con l'art. 3, comma 7) che "Le disposizioni di cui agli articoli 1 e 2 del presente decreto si applicano a partire dalla data di entrata in vigore delle disposizioni di attuazione della Banca d'Italia di cui al comma 1 e con riferimento alle operazioni di acquisto di crediti in sofferenza effettuate a partire da tale data. Le disposizioni del presente decreto che modificano il titolo VI, capi I-bis e II, del decreto legislativo 1° settembre 1993, n. 385, si applicano ai contratti di credito immobiliare ai consumatori e di credito ai consumatori stipulati a partire dalla medesima data".
 
 ## Art. 19-ter. — (Disciplina applicabile agli enti sottoposti a regime intermedio)
+
+1.
+                        
+                            
+                                Ferma restando l'applicazione delle disposizioni di cui al presente decreto relative alla revisione di enti diversi dagli enti di interesse pubblico, ai revisori degli enti sottoposti a regime intermedio si applicano altresi' le disposizioni di cui: 
+ 
+                            
+                            
+                                a)
+                                
+                                    all'articolo 17, con espresso riferimento alle sole norme relative alla revisione legale; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    all'articolo 4, paragrafi 1 e 2, all'articolo 5, paragrafi 1 e 5, all'articolo 6, paragrafo 1 e agli articoli 7, 8, 12 e 17 del Regolamento europeo. ((L'articolo 12 del Regolamento europeo, non si applica ai gestori di FIA sotto soglia registrati di cui all'articolo 1, comma 1, lettera q-bis.2), del TUF.)) (9) (12)
 
 Ai revisori della sostenibilita' e alle societa' di revisione legale incaricati dell'attestazione dai soggetti di cui all'articolo 3 e 4 del decreto legislativo adottato in attuazione dell'articolo 13 della legge 21 febbraio 2024, n. 15, che siano ente sottoposto a regime intermedio, si applica l'articolo 17, commi 3-bis, 3-quater e 5-bis. (9) (12)
 
@@ -1092,6 +2451,31 @@ Gli iscritti nel Registro che svolgono incarichi di revisione legale del bilanci
 
 Il controllo della qualita' e' effettuato da persone fisiche in possesso di un'adeguata formazione ed esperienza professionale in materia di revisione dei conti e di informativa finanziaria e di bilancio, nonche' della formazione specifica in materia di controllo della qualita' di cui all'articolo 5-bis.
 
+7.
+                        
+                            
+                                I soggetti di cui al comma 6 sono revisori legali iscritti nel Registro che: 
+ 
+                            
+                            
+                                a)
+                                
+                                    hanno svolto, per almeno 5 anni continuativi, incarichi di revisione legale in qualita' di responsabili dell'incarico; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    sono stati, per almeno 5 anni continuativi, dipendenti o collaboratori di societa' di revisione iscritte nel Registro partecipando agli incarichi di revisione legale con funzioni di direzione e supervisione; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    sono stati, per almeno 5 anni continuativi, dipendenti di amministrazioni pubbliche o enti pubblici che svolgono attivita' di vigilanza sulla revisione legale.
+
 I soggetti incaricati del controllo della qualita' devono rispettare la riservatezza delle informazioni di cui siano venuti a conoscenza nello svolgimento delle proprie funzioni.
 
 Non possono essere incaricati dei controlli i revisori legali che hanno incarichi di revisione legale e i soggetti che hanno rapporti diretti o indiretti di collaborazione, consulenza, impiego o di altra natura professionale, ivi compresa l'assunzione di cariche sociali, con un revisore legale o con una societa' di revisione legale.
@@ -1126,6 +2510,31 @@ I revisori della sostenibilita' e le societa' di revisione che svolgono incarich
 Il termine di sei anni decorre dall'esercizio successivo a quello in cui si e' concluso il precedente controllo oppure da quello in cui il revisore della sostenibilita' o la societa' di revisione legale ha acquisito almeno un incarico di attestazione.
 
 Il controllo della qualita' e' effettuato da persone fisiche in possesso di un'adeguata formazione ed esperienza professionale in materia di rendicontazione di sostenibilita' e di attestazione della conformita' della rendicontazione di sostenibilita' oppure di altri servizi correlati alla sostenibilita', nonche' della formazione specifica in materia di controllo della qualita' di cui all'articolo 5-bis.
+
+5.
+                        
+                            
+                                Possono essere incaricati dei controlli di qualita' sui revisori della sostenibilita' e sulle societa' di revisione che svolgono incarichi di attestazione le persone fisiche che, oltre che a essere in possesso dei requisiti di cui al comma 7: 
+ 
+                            
+                            
+                                a)
+                                
+                                    hanno svolto, per almeno cinque anni continuativi, incarichi di attestazione in qualita' di responsabili dell'incarico; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    sono stati, per almeno cinque anni continuativi, dipendenti o collaboratori di societa' di revisione partecipando agli incarichi di attestazione con funzioni di direzione e supervisione; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    sono stati, per almeno cinque anni continuativi, dipendenti di amministrazioni pubbliche o enti pubblici che svolgono attivita' di vigilanza sull'attestazione di conformita' della rendicontazione di sostenibilita'.
 
 I soggetti incaricati del controllo della qualita' devono rispettare la riservatezza delle informazioni di cui siano venuti a conoscenza nello svolgimento delle proprie funzioni.
 
@@ -1178,6 +2587,66 @@ Fino al 31 dicembre 2025, le persone fisiche che effettuano i controlli della qu
 
 ## Art. 21. — (Competenze e poteri del Ministero dell'economia e delle finanze)
 
+1.
+                        
+                            
+                                Il Ministero dell'economia e delle finanze assicura: (9) ((12))
+                                
+                            
+                            
+                                a)
+                                
+                                    l'abilitazione, ivi compreso lo svolgimento del tirocinio, e l'iscrizione nel Registro dei revisori legali e delle societa' di revisione legale, anche ai fini dello svolgimento delle attivita' di attestazione della conformita' della rendicontazione della sostenibilita'; (9) ((12))
+                                    
+                                
+                            
+                            
+                                b)
+                                
+                                    la tenuta del Registro e del registro del tirocinio; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    l'adozione dei principi di deontologia professionale, dei principi di controllo interno della qualita' delle imprese di revisione contabile, dei principi di revisione, dei principi di attestazione, fatto salvo quanto previsto dall'articolo 18, comma 9, del decreto legislativo adottato in attuazione dell'articolo 13 della legge 21 febbraio 2024, n. 15; (9) ((12))
+                                    
+                                
+                            
+                            
+                                d)
+                                
+                                    la formazione dei controllori di qualita' incaricati dei controlli di qualita' di competenza del Ministero e alla formazione continua dei revisori legali dei conti iscritti al registro; (9) ((12))
+                                    
+                                
+                            
+                            
+                                e)
+                                
+                                    la verifica del rispetto delle disposizioni del presente decreto legislativo da parte dei revisori legali e delle societa' di revisione legale che non hanno incarichi di revisione legale su enti di interesse pubblico o su enti sottoposti a regime intermedio. 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    l'adozione di provvedimenti sanzionatori nel caso di violazione delle disposizioni del presente decreto, delle disposizioni attuative e dei principi di cui agli articoli 9, 10 e 11, salvo quanto previsto dall'articolo 26; (9) ((12))
+                                    
+                                
+                            
+                            
+                                f-bis)
+                                
+                                    il controllo della qualita' sui revisori legali e le societa' di revisione legale che non hanno incarichi di revisione legale su enti di interesse pubblico o su enti sottoposti a regime intermedio, nonche' sui revisori della sostenibilita' e sulle societa' di revisione che svolgono incarichi di attestazione e che non siano sottoposti alla vigilanza della Consob ai sensi dell'articolo 22, commi 1 e 1-bis; (9) ((12))
+                                    
+                                
+                            
+                            
+                                f-ter)
+                                
+                                    all'adozione dei provvedimenti sanzionatori nel caso di violazioni in materia di attestazione della conformita' della rendicontazione di sostenibilita' delle disposizioni del presente decreto, delle disposizioni attuative e dei principi di cui agli articoli 9, 9-bis, commi 1, 2, 3, 4, 5, 6, 8-bis, 8-ter e 8-quater, 10, 10-bis, 10-ter, 10-quater, commi 1-bis, 1-ter, 2, 3, 4, 5, 5-bis, 6, 7-bis e 8, 10-sexies e 11, nonche' dei principi di cui al regolamento adottato dalla Consob ai sensi dell'articolo 18, comma 9, del decreto legislativo adottato in attuazione dell'articolo 13 della legge 21 febbraio 2024, n. 15, per quanto di competenza del Ministero dell'economia e delle finanze. (9) ((12))
+
 Il Ministero dell'economia e delle finanze puo' avvalersi su base convenzionale di enti pubblici o privati per lo svolgimento dei compiti, anche di indagine e accertamento, connessi all'abilitazione dei revisori legali e delle societa' di revisione legale e alla tenuta del Registro e del registro del tirocinio.
 
 Gli enti di cui al comma 2 e gli enti delegati di cui all'articolo 5, comma 13, svolgono i compiti in conformita' alle disposizioni del presente decreto legislativo, dei suoi regolamenti di attuazione e di una convenzione stipulata con il Ministero dell'economia e delle finanze.
@@ -1185,6 +2654,38 @@ Gli enti di cui al comma 2 e gli enti delegati di cui all'articolo 5, comma 13, 
 Gli enti di cui al comma 2 e gli enti delegati di cui all'articolo 5, comma 13, si dotano di procedure idonee a prevenire, rilevare e gestire conflitti di interesse o altre circostanze che, nello svolgimento dei compiti affidati o delegati, possono compromettere l'indipendenza rispetto agli iscritti nel Registro o nel registro del tirocinio.
 
 Il Ministero dell'economia e delle finanze vigila sul corretto e indipendente svolgimento dei compiti affidati o delegati da parte degli enti di cui al comma 2, gli enti delegati di cui all'articolo 5, comma 13, e puo' indirizzare loro raccomandazioni e recedere in ogni momento senza oneri dalle convenzioni di cui al comma 3, avocando i compiti delegati.
+
+6.
+                        
+                            
+                                Nell'esercizio della vigilanza di cui ai commi 1 e 5, il Ministero dell'economia e delle finanze puo': 
+ 
+                            
+                            
+                                a)
+                                
+                                    richiedere la comunicazione, anche periodica, di dati e notizie e la trasmissione di atti e documenti, con le modalita' e nei termini dalla stessa stabiliti; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    eseguire ispezioni e assumere notizie e chiarimenti, anche mediante audizione, dai revisori legali e dai soci, dagli amministratori, dai membri degli organi di controllo e dai dirigenti della societa' di revisione legale; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    richiedere notizie, dati o documenti sotto qualsiasi forma stabilendo il termine per la relativa comunicazione e procedere ad audizione personale, nei confronti di chiunque possa essere informato dei fatti; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    acquisire direttamente dal Registro delle imprese, anche con modalita' telematiche nel rispetto del decreto legislativo 7 marzo 2005, n. 82, gli incarichi di revisione legale conferiti in conformita' del presente decreto e tutte le informazioni utili per gli adempimenti relativi al controllo della qualita'.
 
 Lo svolgimento delle funzioni attribuite al Ministero dell'economia e delle finanze dal presente decreto e' finanziato dai contributi degli iscritti nel Registro. Gli iscritti nel Registro sono tenuti al versamento dei contributi entro il 31 gennaio di ciascun anno. In caso di omesso o ritardato pagamento dei contributi, il Ministero dell'economia e delle finanze puo' adottare i provvedimenti di cui all'articolo 24-ter.
 
@@ -1224,9 +2725,112 @@ Il Ministero dell'economia e delle finanze assume la responsabilita' finale per 
 
 ((
 
+1.
+                        
+                            
+                                Nell'ambito dei controlli di qualita' di cui all'articolo 21, comma 1, il Ministero dell'economia e delle finanze provvede, in particolare, allo svolgimento dei seguenti compiti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    l'approvazione e l'eventuale modifica dei metodi e dei programmi di controllo; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'approvazione o la designazione dei soggetti incaricati del controllo della qualita'; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    l'emanazione di raccomandazioni e di istruzioni in qualsiasi forma destinate all'ente al quale sono stati delegati i compiti.
+
 Ai fini dell'attuazione dei controlli di qualita' di cui all'articolo 21, comma 1, e ferme restando le attribuzioni di cui al comma 1, il Ministero dell'economia e delle finanze puo' delegare lo svolgimento di compiti connessi al controllo di qualita', a enti pubblici e privati, proponendo la sottoscrizione di apposita convenzione che indichi i compiti delegati e le condizioni alle quali tali compiti devono essere svolti. Gli enti pubblici e privati svolgono i compiti ad essi assegnati nel rispetto delle disposizioni del presente decreto legislativo, delle norme di attuazione e nei limiti e secondo le modalita' indicati nella convenzione. In particolare, gli enti si avvalgono di persone fisiche in possesso dei requisiti di cui all'articolo 20, commi 6 e 7.
 
+3.
+                        
+                            
+                                Gli enti di cui al comma 2, selezionati con le procedure previste dalla legge, devono soddisfare le seguenti condizioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    i titolari, i soci o gli associati degli enti medesimi e i membri dei loro organi di amministrazione, direzione e controllo devono possedere i requisiti di onorabilita' di cui all'articolo 2, comma 2, lettera a), e non possono avere rapporti diretti o indiretti di collaborazione, consulenza, impiego o di altra natura professionale, ivi compresa l'assunzione di cariche sociali, ne' relazioni familiari, finanziarie o d'affari con un revisore legale o con una societa' di revisione legale; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    almeno il 75 per cento dei membri degli organi di amministrazione, direzione e controllo devono essere revisori legali iscritti nel Registro; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    la maggioranza dei membri degli organi di amministrazione, direzione e controllo deve essere in possesso di un'esperienza continuativa almeno quinquennale nello svolgimento della revisione legale e almeno biennale nello svolgimento di controlli di qualita' sui revisori legali e societa' di revisione legale iscritti nel Registro.
+
 Gli enti di cui al comma 2 si dotano di procedure idonee a prevenire, rilevare e gestire conflitti di interesse o altre circostanze che, nello svolgimento dei compiti assegnati, possano compromettere l'indipendenza rispetto ai soggetti sottoposti a controllo.
+
+5.
+                        
+                            
+                                La convenzione di cui al comma 2, stipulata dal Ministero dell'economia e finanze, specifica: 
+ 
+                            
+                            
+                                a)
+                                
+                                    le modalita' e i termini per la comunicazione, da parte del Ministero, dei dati relativi ai soggetti da sottoporre a controllo, indicando la tempistica entro la quale i relativi controlli devono essere completati; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    i criteri per la programmazione dei controlli della qualita'; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    i criteri e le metodologie per lo svolgimento delle verifiche, i criteri per l'individuazione degli eventuali interventi correttivi da raccomandare e per la determinazione della relativa tempistica di realizzazione e le modalita' di redazione della relazione di cui all'articolo 20, comma 16; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    i criteri per la verifica dei requisiti di indipendenza e di professionalita' dei soggetti incaricati dei controlli; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    i criteri per l'assegnazione dei singoli incarichi di controllo qualita' ai soggetti incaricati dei controlli; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    i criteri per la verifica del corretto adempimento, da parte del soggetto sottoposto al controllo, delle eventuali raccomandazioni ricevute ai sensi dell'articolo 20, comma 16; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    le modalita' di comunicazione al Ministero dell'economia e finanze, degli esiti dei controlli svolti nonche' dell'eventuale mancato, incompleto o tardivo adempimento degli obblighi di cui all'articolo 20, comma 17, da parte dei soggetti sottoposti a controllo.
 
 Ai fini dell'attuazione dei controlli di qualita' di cui all'articolo 21, comma 1, e ferme restando le attribuzioni di cui al precedente comma 1, il Ministero dell'economia e delle finanze puo' conferire, con apposito provvedimento, gli incarichi di controllo della qualita', previa verifica dei requisiti di indipendenza e l'assenza di conflitti, anche potenziali, di interessi, a persone fisiche, iscritte in un apposito elenco tenuto dal Ministero.
 
@@ -1235,6 +2839,45 @@ Con decreto del Ministro dell'economia e delle finanze sono stabiliti i criteri 
 I soggetti ai quali sono stati conferiti gli incarichi di controllo della qualita' ai sensi del comma 6 svolgono i compiti ad essi assegnati nel rispetto delle disposizioni del presente decreto legislativo, delle norme di attuazione e nei limiti e secondo le modalita' indicati nel provvedimento con il quale sono incaricati dei controlli.
 
 Il Ministero dell'economia e delle finanze vigila sul corretto e indipendente svolgimento dei compiti assegnati da parte dei soggetti di cui ai commi 2 e 6, puo' indirizzare loro raccomandazioni e puo' in ogni momento recedere senza oneri dalle convenzioni stipulate ai sensi del comma 3, avocando i compiti delegati.
+
+10.
+                        
+                            
+                                Ove siano stati delegati compiti connessi allo svolgimento dei controlli della qualita' ai sensi del comma 2, il Ministero dell'economia e delle finanze puo' altresi': 
+ 
+                            
+                            
+                                a)
+                                
+                                    partecipare, con proprio personale, ai controlli svolti dai soggetti delegati e avere accesso a ogni documento pertinente; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    avocare singoli incarichi e intervenire in via sostitutiva nello svolgimento degli stessi utilizzando proprio personale o avvalendosi di professionisti iscritti nell'elenco di cui al comma 6; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    richiedere la comunicazione, anche periodica, di dati e notizie e la trasmissione di atti e documenti prodotti o acquisiti dai soggetti delegati nello svolgimento dei controlli, con le modalita' e nei termini stabiliti dal Ministero; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    eseguire ispezioni presso i soggetti delegati; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    assumere notizie, chiarimenti, dati e documenti dai titolari, soci o associati degli enti delegati ai sensi del comma 2, dai membri degli organi di amministrazione, direzione e controllo degli enti medesimi, dai soggetti da questi incaricati dei controlli, e dai soggetti sottoposti ai controlli, stabilendo il termine per la relativa comunicazione, nonche' procedere, nei confronti dei medesimi soggetti, ad audizione personale.
 
 Ove siano stati conferiti incarichi di controllo della qualita' ai sensi del comma 6, il Ministero dell'economia e delle finanze puo' esercitare nei confronti dei soggetti incaricati dei controlli i poteri di cui al comma 10, lettere a), c), d) ed e).
 
@@ -1249,6 +2892,109 @@ La Consob vigila sull'organizzazione e sull'attivita' dei revisori legali e dell
 La Consob vigila sull'attivita' di attestazione della conformita' della rendicontazione di sostenibilita' prevista dall'articolo 8 del decreto legislativo adottato in attuazione dell'articolo 13 della legge 21 febbraio 2024, n. 15, svolta dai soggetti di cui al comma 1, nonche' dai revisori della sostenibilita' e societa' di revisione legale a tal fine incaricati da enti di interesse pubblico o da enti sottoposti a regime intermedio e diversi dai revisori legali di cui al comma 1, al fine di verificarne il corretto svolgimento in conformita' alle disposizioni del presente decreto. Nell'esercizio di tali funzioni, la Consob provvede ad effettuare sui suddetti soggetti il controllo della qualita' di cui all'articolo 20-bis. (9) ((12))
 
 La Consob assume la responsabilita' finale per i controlli di qualita', per le ispezioni e per le sanzioni dei revisori legali e delle societa' di revisione legale che hanno incarichi di revisione legale su enti di interesse pubblico o su enti sottoposti a regime intermedio di cui al comma 1, nonche' sui revisori della sostenibilita' e sulle societa' di revisione che svolgono incarichi di attestazione e che sono sottoposti alla sua vigilanza ai sensi del comma 1-bis. (9) ((12))
+
+2.
+                        
+                            
+                                Nell'esercizio della vigilanza, la Consob puo': 
+ 
+                            
+                            
+                                a)
+                                
+                                    richiedere la comunicazione, anche periodica, di dati e notizie e la trasmissione di atti e documenti, con le modalita' e nei termini dalla stessa stabiliti; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    eseguire ispezioni e richiedere l'esibizione di documenti e il compimento degli atti ritenuti necessari; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    richiedere notizie, dati o documenti sotto qualsiasi forma stabilendo il termine per la relativa comunicazione e procedere ad audizione personale, nei confronti di chiunque possa essere informato dei fatti. Nei casi di ispezioni e audizioni previsti dalle lettere b) e c) viene redatto processo verbale dei dati, delle informazioni acquisite e delle dichiarazioni rese dagli interessati, i quali sono invitati a firmare il processo verbale e hanno diritto ad averne copia.
+
+3.
+                        
+                            
+                                Fermo restando quanto previsto dall'articolo 23, paragrafo 3, comma 2, del Regolamento europeo, i poteri di cui al comma 2, lettere a) e b), possono essere esercitati nei confronti di: 
+ 
+                            
+                            
+                                a)
+                                
+                                    revisori legali e societa' di revisione legale che effettuano la revisione legale di enti sottoposti a regime intermedio; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    persone coinvolte nelle attivita' dei revisori legali e delle societa' di revisione legale che effettuano la revisione legale di enti sottoposti a regime intermedio; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    enti sottoposti a regime intermedio, loro affiliati e terzi correlati; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    terzi ai quali i revisori legali e societa' di revisione legale che effettuano la revisione legale di enti sottoposti a regime intermedio hanno esternalizzato determinate funzioni o attivita'; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    persone in altro modo collegate o connesse ai revisori legali o societa' di revisione legale che effettuano la revisione legale di enti sottoposti a regime intermedio.
+
+3-bis.
+                        
+                            
+                                Nell'esercizio della vigilanza di cui al comma 1-bis, la Consob puo' esercitare i poteri di cui al comma 2, lettere a) e b), nei confronti di: 
+ 
+                            
+                            
+                                a)
+                                
+                                    revisori della sostenibilita' e societa' di revisione legale che svolgono incarichi di attestazione; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    persone coinvolte nelle attivita' dei revisori della sostenibilita' o delle societa' di revisione legale che svolgono incarichi di attestazione; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    societa' che pubblicano la rendicontazione di sostenibilita' oggetto di attestazione, loro affiliati e terzi correlati; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    terzi ai quali i revisori della sostenibilita' e societa' di revisione legale che svolgono incarichi di attestazione hanno esternalizzato determinate funzioni o attivita'; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    persone in altro modo collegate o connesse ai revisori della sostenibilita' o societa' di revisione legale che svolgono incarichi di attestazione. (9) ((12))
 
 Nell'esercizio della vigilanza, la Consob puo' esercitare nei confronti del comitato per il controllo interno e la revisione contabile degli enti di interesse pubblico i poteri di cui al comma 2.
 
@@ -1301,6 +3047,91 @@ Ai fini della ricognizione degli enti di interesse pubblico e di quelli sottopos
 
 ## Art. 24. — (Provvedimenti del Ministero dell'economia e delle finanze)
 
+1.
+                        
+                            
+                                Il Ministero dell'economia e delle finanze, quando accerta irregolarita' nello svolgimento dell'attivita' di revisione legale o di attestazione delle conformita' della rendicontazione della sostenibilita', puo' applicare le seguenti sanzioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    un avvertimento, che impone alla persona fisica o giuridica responsabile della violazione di porre termine al comportamento e di astenersi dal ripeterlo; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    una dichiarazione nella quale e' indicato che la relazione di revisione o la relazione di attestazione non soddisfano i requisiti di cui, rispettivamente, agli articoli 14 e 14-bis; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    la censura, consistente in una dichiarazione pubblica di biasimo, che indica la persona responsabile e la natura della violazione; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    la sanzione amministrativa pecuniaria da mille a centocinquantamila euro; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    la sospensione dal Registro, per un periodo non superiore a tre anni, del soggetto al quale sono ascrivibili le irregolarita' connesse all'incarico di revisione legale; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    la sospensione dell'attivita' di attestazione della conformita' della rendicontazione di sostenibilita', per un periodo non superiore a tre anni, del soggetto al quale sono ascrivibili le irregolarita'; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    la revoca di uno o piu' incarichi di revisione legale o di attestazione delle conformita' della rendicontazione di sostenibilita'; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    il divieto per il revisore legale o la societa' di revisione legale di accettare nuovi incarichi di revisione legale o di attestazione delle conformita' della rendicontazione di sostenibilita' per un periodo non superiore a tre anni; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    la cancellazione dal Registro del soggetto al quale sono ascrivibili le irregolarita' connesse all'incarico di revisione legale. (9) ((12))
+
+2.
+                        
+                            
+                                Il Ministero dell'economia e delle finanze puo' applicare le sanzioni di cui al comma 1 nei seguenti casi: 
+ 
+                            
+                            
+                                a)
+                                
+                                    mancato assolvimento dell'obbligo formativo; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    inosservanza degli obblighi di comunicazione delle informazioni di cui all'articolo 7, nonche' dei dati comunque richiesti per la corretta individuazione del revisore legale o della societa' di revisione legale, degli incarichi da essi svolti e dei relativi ricavi e corrispettivi. Nei casi di cui al presente comma, la sanzione amministrativa pecuniaria si applica nella misura da cinquanta euro a duemilacinquecento euro.
+
 Il Ministero dell'economia e delle finanze dispone la cancellazione dal Registro dei revisori legali, della societa' di revisione o del responsabile della revisione legale quando non ottemperino ai provvedimenti indicati nei commi 1 e 2.
 
 Il revisore cancellato ai sensi del presente articolo puo', su richiesta, essere di nuovo iscritto a condizione che siano trascorsi almeno sei anni dal provvedimento di cancellazione.
@@ -1309,7 +3140,50 @@ Il Ministero dell'economia e delle finanze pubblica sul sito istituzionale della
 
 Nel caso le sanzioni siano oggetto di impugnazione, sul sito internet della revisione legale sono altresi' pubblicate le informazioni concernenti lo stato e l'esito dell'impugnazione medesima.
 
+7.
+                        
+                            
+                                Il Ministero dell'economia e delle finanze puo' pubblicare le sanzioni in forma anonima nelle seguenti situazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    se la pubblicazione dei dati personali riguardanti una persona fisica risulti sproporzionata rispetto al tipo di violazione; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    se la pubblicazione mette a rischio la stabilita' dei mercati finanziari o un'indagine penale in corso; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    se la pubblicazione arreca un danno sproporzionato alle istituzioni o alle persone coinvolte.
+
 Le sanzioni comminate ai sensi del presente articolo sono pubblicate sul sito internet istituzionale per un periodo minimo di cinque anni dopo l'esaurimento di tutti i mezzi di impugnazione o la scadenza dei termini previsti. Il Ministero dell'economia e delle finanze, tenuto conto della natura della violazione e degli interessi coinvolti, puo' stabilire modalita' ulteriori per dare pubblicita' al provvedimento.
+
+9.
+                        
+                            
+                                Il Ministero dell'economia e delle finanze quando accerta la mancata o l'inadeguata adozione di un sistema interno di segnalazione, puo', tenendo conto della loro gravita': 
+ 
+                            
+                            
+                                a)
+                                
+                                    applicare alla societa' di revisione legale una sanzione amministrativa pecuniaria da diecimila euro a cinquecentomila euro; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    ordinare alla persona giuridica responsabile della violazione di porre termine al comportamento e di astenersi dal ripeterlo.
 
 --------------
                             AGGIORNAMENTO (9)
@@ -1371,6 +3245,52 @@ Le sanzioni amministrative previste nel presente capo sono applicate dal Ministe
 
 Il procedimento sanzionatorio e' retto dai principi del contraddittorio, della conoscenza degli atti istruttori, della verbalizzazione nonche' della distinzione tra funzioni istruttorie e funzioni decisorie.
 
+3.
+                        
+                            
+                                Il tipo e l'entita' della sanzione o del provvedimento amministrativo da adottare sono definiti, in particolare, tenendo conto di tutte le circostanze pertinenti tra cui se del caso: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la gravita' e la durata della violazione; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il grado di responsabilita' della persona che ha commesso la violazione; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    la solidita' finanziaria della persona responsabile; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    l'ammontare dei profitti ricavati o delle perdite evitate dalla persona responsabile, se possono essere determinati; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    il livello di cooperazione della persona responsabile con l'autorita' vigilante; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    precedenti violazioni delle persona fisica o giuridica responsabile.
+
 Il Ministro dell'economia e delle finanze stabilisce con proprio regolamento le fasi e le modalita' di svolgimento della procedura sanzionatoria, nel rispetto, tra l'altro, delle garanzie per gli iscritti al Registro.
 
 L'azione disciplinare si prescrive nel termine di sei anni dall'evento che puo' dar luogo all'apertura della procedura sanzionatoria.
@@ -1394,13 +3314,88 @@ Copia del decreto e' trasmessa a cura della cancelleria della Corte d'appello al
 
 ((
 
+1.
+                        
+                            
+                                La Consob, quando accerta la violazione delle disposizioni di cui agli articoli 9, 9-bis, 10, 10-bis, 10-ter, 10-quater, 10-quinquies, 11, 14 e 17 del presente decreto, e delle relative norme di attuazione, e di cui agli articoli 4, 5, 6, 8, 10, 11, 15, 17, 18 e 26, comma 8, del Regolamento europeo, puo' applicare le seguenti sanzioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    una sanzione amministrativa pecuniaria da euro diecimila a euro cinquecentomila nei confronti del revisore legale, della societa' di revisione legale e del responsabile dell'incarico; per la violazione dei divieti di cui agli articoli 17 del presente decreto e 4 e 5 del Regolamento europeo, si applica una sanzione amministrativa pecuniaria da euro centomila a euro cinquecentomila; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la revoca di uno o piu' incarichi di revisione legale relativi a enti di interesse pubblico o enti sottoposti a regime intermedio; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il divieto al revisore legale o alla societa' di revisione legale di accettare nuovi incarichi di revisione legale relativi a enti di interesse pubblico o enti sottoposti a regime intermedio per un periodo non superiore a tre anni; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    la sospensione dal Registro, per un periodo non superiore a tre anni, del revisore legale, della societa' di revisione legale o del responsabile dell'incarico ai quali sono ascrivibili le irregolarita'; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    la cancellazione dal Registro del revisore legale, della societa' di revisione legale o del responsabile dell'incarico ai quali sono ascrivibili le irregolarita'.
+
 La Consob comunica al Ministero dell'economia e delle finanze i provvedimenti di cui al comma 1, lettere d) ed e) ai fini della loro annotazione sul Registro.
+
+1-ter.
+                        
+                            
+                                Quando le violazioni di cui al comma 1 sono connotate da scarsa offensivita' o pericolosita', la Consob, in alternativa alle sanzioni indicate al medesimo comma, puo': 
+ 
+                            
+                            
+                                a)
+                                
+                                    pubblicare una dichiarazione indicante il responsabile della violazione e la natura della stessa; o 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    ordinare di eliminare le infrazioni contestate, con eventuale indicazione delle misure da adottare e del termine per l'adempimento, e di astenersi dal ripeterle.
 
 Per l'inosservanza entro il termine stabilito dell'ordine di cui al comma 1-ter, lettera b), la Consob applica la sanzione amministrativa pecuniaria prevista per la violazione originariamente contestata aumentata fino ad un terzo.
 
 Quando le irregolarita' accertate abbiano comportato l'emissione di una relazione di revisione che non soddisfa i requisiti stabiliti dall'articolo 14 del presente decreto o, ove applicabile, dall'articolo 10 del Regolamento europeo, la Consob, con il provvedimento di applicazione della sanzione di cui al comma 1, dichiara che la relazione di revisione non soddisfa i requisiti stabiliti dall'articolo 14 del presente decreto o, ove applicabile, dall'articolo 10 del Regolamento europeo.
 
 La Consob, quando accerta la violazione dell'articolo 18 del presente decreto e degli articoli 7, 12, 13 e 14 del Regolamento europeo puo' comminare al revisore legale o alla societa' di revisione legale le sanzioni di cui al comma 1, lettera a), e ai commi 1-ter e 1-quater.
+
+1-septies.
+                        
+                            
+                                Ferma restando l'applicazione delle sanzioni di cui al comma 1, la Consob, per l'inosservanza delle disposizioni degli articoli 10-ter e 17 del presente decreto, e delle relative norme di attuazione, e degli articoli 4, 5, 8 e 26, comma 8, del Regolamento europeo, applica la sanzione amministrativa pecuniaria da euro diecimila a euro cinquecentomila nei confronti dei membri degli organi di amministrazione e direzione delle societa' di revisione legale quando l'inosservanza e' conseguenza della violazione di doveri propri o dell'organo di appartenenza e ricorrono una o entrambe le seguenti condizioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la condotta ha inciso in modo rilevante sulla complessiva organizzazione o sui profili di rischio per l'indipendenza e per la qualita' della revisione legale della societa' di revisione; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la condotta ha contribuito a determinare la mancata ottemperanza della societa' alle disposizioni degli articoli 10-ter e 17 del presente decreto, e delle relative norme di attuazione, e agli articoli 4, 5, 8 e 26, comma 8 del Regolamento europeo.
 
 Con il provvedimento di applicazione della sanzione, in ragione della gravita' della violazione accertata, la Consob puo' applicare la sanzione amministrativa accessoria dell'interdizione temporanea, per un periodo non superiore a tre anni, dall'esercizio di funzioni presso le societa' di revisione legale.
 
@@ -1431,6 +3426,38 @@ Ai procedimenti sanzionatori di cui al presente articolo si applica l'articolo 1
 
 Le societa' di revisione legale adottano procedure specifiche per la segnalazione al proprio interno, da parte del personale, di atti o fatti che possano costituire violazioni potenziali o effettive della disciplina in materia di revisione legale dei conti.
 
+2.
+                        
+                            
+                                Le procedure previste al comma 1 sono idonee a garantire: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la riservatezza dei dati personali del segnalante e del presunto responsabile della violazione, ferme restando le regole che disciplinano le indagini o i procedimenti avviati dall'autorita' giudiziaria in relazione ai fatti oggetto della segnalazione; l'identita' del segnalante e' sottratta all'applicazione dell'articolo 7, comma 2, del decreto legislativo 30 giugno 2003, n. 196, e non puo' essere rivelata per tutte le fasi della procedura, salvo suo consenso o specifica richiesta dell'autorita' giudiziaria; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la tutela adeguata del soggetto segnalante contro condotte ritorsive, discriminatorie o comunque sleali conseguenti alla segnalazione; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    un canale specifico, indipendente e autonomo per la segnalazione; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    il diritto del presunto responsabile della violazione di essere ascoltato prima dell'adozione di qualsiasi decisione nei suoi confronti, salvo ogni ulteriore diritto alla difesa. Si applica l'articolo 24, comma 1, lettera a), del decreto legislativo 30 giugno 2003, n. 196.
+
 La presentazione di una segnalazione nell'ambito della procedura di cui al comma 1 non costituisce di per se' violazione degli obblighi derivanti dal rapporto di lavoro, salve le ipotesi di segnalazione effettuate in mala fede e recanti informazioni false.
 
 Il Ministero dell'economia e delle finanze emana le disposizioni attuative del presente articolo, sentita la Consob.
@@ -1453,13 +3480,81 @@ Nel caso di accesso ai sensi degli articoli 22 e seguenti della legge 7 agosto 1
 
 
 
+1.
+                        
+                            
+                                La Consob, quando accerta la violazione delle disposizioni di cui agli articoli 9, comma 4-bis, 9-bis, comma 8-bis, 10, commi 13-bis e 13-ter, 10-bis, comma 1-bis, 10-ter, comma 11-bis, 10-quater, commi 1-bis, 1-ter, 2, 3, 4, 5, 6-bis, 7-bis e 8, 10-sexies, 11, commi 1-bis e 2-bis, 14-bis, 17, commi 3-bis, 3-ter, 3-quater e 5-bis del presente decreto e delle relative norme di attuazione, nonche' la violazione delle disposizioni di cui al regolamento adottato dalla Consob ai sensi dell'articolo 18, comma 9, del decreto legislativo adottato in attuazione dell'articolo 13 della legge 21 febbraio 2024, n. 15, puo' applicare le seguenti sanzioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    una sanzione amministrativa pecuniaria da euro diecimila a euro cinquecentomila nei confronti del revisore della sostenibilita', della societa' di revisione legale e del responsabile della sostenibilita'. Per la violazione dei divieti di cui all'articolo 17, commi 3-bis, 3-ter, 3-quater e 5-bis, si applica una sanzione amministrativa pecuniaria da euro centomila a euro cinquecentomila; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la revoca di uno o piu' incarichi di attestazione di conformita' della rendicontazione di sostenibilita' relativi a enti di interesse pubblico o enti sottoposti a regime intermedio; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il divieto al revisore di sostenibilita' o alla societa' di revisione legale di accettare nuovi incarichi di attestazione di conformita' della rendicontazione di sostenibilita' relativi a enti di interesse pubblico o enti sottoposti a regime intermedio per un periodo non superiore a tre anni; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    la sospensione dell'attivita' di attestazione di conformita' della rendicontazione di sostenibilita', per un periodo non superiore a tre anni, del revisore della sostenibilita', della societa' di revisione legale o del responsabile della sostenibilita' ai quali sono ascrivibili le irregolarita'.
+
 La Consob comunica al Ministero dell'economia e delle finanze i provvedimenti di cui al comma 1, lettera d) ai fini della loro annotazione sul Registro.
+
+3.
+                        
+                            
+                                Quando le violazioni di cui al comma 1 sono connotate da scarsa offensivita' o pericolosita', la Consob, in alternativa alle sanzioni indicate al medesimo comma, puo': 
+ 
+                            
+                            
+                                a)
+                                
+                                    pubblicare una dichiarazione indicante il responsabile della violazione e la natura della stessa; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    ordinare di eliminare le infrazioni contestate, con eventuale indicazione delle misure da adottare e del termine per l'adempimento, e di astenersi dal ripeterle.
 
 Per l'inosservanza entro il termine stabilito dell'ordine di cui al comma 3, lettera b), la Consob applica la sanzione amministrativa pecuniaria prevista per la violazione originariamente contestata aumentata fino ad un terzo.
 
 Quando le irregolarita' accertate abbiano comportato l'emissione di una relazione di attestazione che non soddisfa i requisiti stabiliti dall'articolo 14-bis, la Consob, con il provvedimento di applicazione della sanzione di cui al comma 1, dichiara che la relazione di revisione non soddisfa i requisiti stabiliti dall'articolo 14-bis.
 
 La Consob, quando accerta la violazione dell'articolo 9-bis, comma 8-quater, puo' comminare al revisore della sostenibilita' o alla societa' di revisione legale le sanzioni di cui ai commi 1, lettera a), 3 e 4.
+
+7.
+                        
+                            
+                                Ferma restando l'applicazione delle sanzioni di cui al comma 1, la Consob, per l'inosservanza delle disposizioni di cui agli articoli 10-ter, comma 11-bis, e 17 commi 3-bis, 3-ter, 3-quater e 5-bis del presente decreto, e delle relative norme di attuazione, applica la sanzione amministrativa pecuniaria da euro diecimila a euro cinquecentomila nei confronti dei membri degli organi di amministrazione e direzione delle societa' di revisione legale quando l'inosservanza e' conseguenza della violazione di doveri propri o dell'organo di appartenenza e ricorrono una o entrambe le seguenti condizioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la condotta ha inciso in modo rilevante sulla complessiva organizzazione o sui profili di rischio per l'indipendenza e per la qualita' dell'attivita' di attestazione della rendicontazione di sostenibilita' della societa' di revisione; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la condotta ha contribuito a determinare la mancata ottemperanza della societa' alle disposizioni degli articoli 10-ter, comma 11-bis, e 17 commi 3-bis, 3-ter, 3-quater e 5-bis del presente decreto, e delle relative norme di attuazione.
 
 La Consob, quando accerta la violazione di cui agli articoli 10, commi 13-bis e 13-ter, e 17, commi 3-bis, 3-ter, 3-quater e 5-bis, del presente decreto, e delle relative norme di attuazione, da parte di soggetti diversi da quelli di cui ai commi 1 e 7, applica la sanzione amministrativa pecuniaria da euro diecimila a euro cinquecentomila.
 
@@ -1565,6 +3660,31 @@ Gli amministratori, i soci responsabili della revisione legale e i dipendenti de
 ((
 
 Se dai fatti previsti dagli articoli 27, commi 3, 4 e 5, 28, comma 2, 30 e 31 deriva alla societa' di revisione legale o alla societa' assoggettata a revisione un danno di rilevante gravita', la pena e' aumentata fino alla meta'.
+
+2.
+                        
+                            
+                                La notizia dei fatti suscettibili di valutazione disciplinare e' comunque acquisita. L'autorita' giudiziaria e' tenuta a dare immediata notizia al Ministero dell'economia e delle finanze quando nei confronti dei soggetti iscritti nel registro dei revisori legali: 
+ 
+                            
+                            
+                                a)
+                                
+                                    e' esercitata l'azione penale; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    e' disposta l'applicazione di misure cautelari o di sicurezza; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    sono emesse sentenze che definiscono il grado di giudizio.
 
 Deve essere altresi' comunicata al Ministero dell'economia e delle finanze e alla Consob, a cura del cancelliere dell'autorita' giudiziaria che ha emesso l'atto, la sentenza penale pronunciata a carico dei responsabili della revisione legale, dei componenti dell'organo di amministrazione, dei soci e dei dipendenti della societa' di revisione legale per i reati commessi nell'esercizio della revisione legale.
 
@@ -1702,6 +3822,24 @@ La sussistenza dell'equivalenza e' valutata in conformita' all'articolo 46 della
 
 La Consob detta con regolamento le disposizioni attuative del presente articolo.
 
+5.
+                        
+                            
+                                La Consob comunica alla Commissione europea: 
+ 
+                            
+                            
+                                a)
+                                
+                                    gli elementi principali degli accordi di cooperazione di cui al comma 2; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le valutazioni di equivalenza effettuate ai sensi del comma 3.
+
 ))
 
 ## - Capo X MODIFICHE E ABROGAZIONI ALLA NORMATIVA VIGENTE
@@ -1739,12 +3877,98 @@ All'articolo 2409-octiesdecies del codice civile, terzo comma, le parole: «gli 
 
 All'articolo 2409-octiesdecies del codice civile, quinto comma, alla lettera c) le parole: «i soggetti incaricati del controllo contabile» sono sostituite dalle seguenti: «il soggetto incaricato di effettuare la revisione legale dei conti».
 
+15.
+                        
+                            
+                                All'articolo 2409-noviesdecies del codice civile sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la rubrica e' sostituta dalla seguente: «Norme applicabili e revisione legale»; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il secondo comma e' sostituito dal seguente: «La revisione legale dei conti e' svolta ai sensi dell'articolo 2409-bis, primo comma.».
+
 All'articolo 2427, primo comma, del codice civile, dopo il numero 16) e' inserito il seguente: 
  «16-bis) salvo che la societa' sia inclusa in un ambito di consolidamento e le informazioni siano contenute nella nota integrativa del relativo bilancio consolidato, l'importo totale dei corrispettivi spettanti al revisore legale o alla societa' di revisione legale per la revisione legale dei conti annuali, l'importo totale dei corrispettivi di competenza per gli altri servizi di verifica svolti, l'importo totale dei corrispettivi di competenza per i servizi di consulenza fiscale e l'importo totale dei corrispettivi di competenza per altri servizi diversi dalla revisione contabile;».
+
+17.
+                        
+                            
+                                All'articolo 2429 del codice civile sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    al primo comma dopo le parole: «al collegio sindacale» sono inserite le seguenti: «e al soggetto incaricato della revisione legale dei conti»; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    al secondo comma, il secondo periodo e' soppresso; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    al terzo comma le parole: «del controllo contabile» sono sostituite dalle seguenti: «della revisione legale dei conti».
+
+18.
+                        
+                            
+                                All'articolo 2433-bis del codice civile sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    al primo comma le parole: «al controllo da parte di societa' di revisione iscritte all'albo speciale» sono sostituite dalle seguenti: «a revisione legale dei conti, secondo il regime previsto dalle leggi speciali per gli enti di interesse pubblico»; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    al secondo comma, le parole: «della societa' di revisione» sono sostituite dalle seguenti: «del soggetto incaricato di effettuare la revisione legale dei conti»; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    al quinto e sesto comma, le parole: «del controllo contabile» sono sostituite dalle seguenti: «della revisione legale dei conti».
 
 All'articolo 2434-bis, secondo comma, del codice civile, le parole: «il revisore non ha formulato rilievi» sono sostituite dalle seguenti: «il soggetto incaricato di effettuare la revisione legale dei conti ha emesso un giudizio privo di rilievi».
 
 All'articolo 2437-ter, secondo comma, del codice civile, le parole: «revisione contabile» sono sostituite dalle seguenti: «revisione legale dei conti».
+
+21.
+                        
+                            
+                                All'articolo 2441 del codice civile sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    al quarto comma le parole: «dalla societa' incaricata della revisione contabile» sono sostituite dalle seguenti: «dal revisore legale o dalla societa' di revisione legale»; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    al sesto comma le parole: «del controllo contabile» sono sostituite dalle seguenti: «della revisione legale dei conti».
 
 All'articolo 2447-ter, primo comma, del codice civile, la lettera f) e' sostituita dalla seguente: 
  «f) la nomina di un revisore legale o di una societa' di revisione legale per la revisione dei conti dell'affare, quando la societa' non e' gia' assoggettata alla revisione legale;».
@@ -1770,6 +3994,24 @@ All'articolo 2478 del codice civile, al numero 4) del primo comma, le parole: «
 
 All'articolo 2479, secondo comma, numero 3), del codice civile, le parole: «del revisore» sono sostituite dalle seguenti: «del soggetto incaricato di effettuare la revisione legale dei conti».
 
+29.
+                        
+                            
+                                All'articolo 2482-bis del codice civile sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    al secondo comma le parole: «o del revisore» sono sostituite dalle seguenti: «o del soggetto incaricato di effettuare la revisione legale dei conti»; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    al quarto comma, le parole: «o il revisore» sono sostituite dalle seguenti: «o il soggetto incaricato di effettuare la revisione legale dei conti».
+
 All'articolo 2492, secondo comma, del codice civile, le parole: «della revisione contabile» sono sostituite dalle seguenti: «di effettuare la revisione legale dei conti».
 
 Al quinto comma dell'articolo 2501-bis del codice civile le parole: «della societa' di revisione incaricata della revisione contabile obbligatoria» sono sostituite dalle seguenti: «del soggetto incaricato della revisione legale dei conti».
@@ -1779,6 +4021,24 @@ Il secondo periodo del terzo comma dell'articolo 2501-sexies del codice civile e
 All'articolo 2501-septies del codice civile, primo comma, numero 2), le parole: «il controllo contabile» sono sostituite dalle seguenti: «la revisione legale».
 
 L'articolo 2624 del codice civile e' abrogato.
+
+35.
+                        
+                            
+                                All'articolo 2625, primo comma, del codice civile, sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    le parole: «o di revisione» sono soppresse; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le parole: «, ad altri organi sociali o alle societa' di revisione» sono sostituite dalle seguenti: «o ad altri organi sociali».
 
 All'articolo 2635, primo comma, del codice civile, le parole: «, i liquidatori e i responsabili della revisione» sono sostituite dalle seguenti: «e i liquidatori».
 
@@ -1803,15 +4063,101 @@ Dopo il comma 1 dell'articolo 51 del testo unico delle leggi in materia bancaria
  d) la revoca dell'incarico di revisione legale dei conti, fornendo adeguate spiegazioni in ordine alle ragioni che l'hanno determinata. 
  1-ter. La Banca d'Italia stabilisce modalita' e termini per l'invio delle comunicazioni di cui al comma 1-bis.».
 
+2.
+                        
+                            
+                                All'articolo 52 del decreto legislativo 1° settembre 1993, n. 385, sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la rubrica e' sostituita dalla seguente: «Comunicazioni del collegio sindacale e dei soggetti incaricati della revisione legale dei conti»; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    al comma 2, le parole: «della revisione o del controllo contabile» sono sostituite dalle seguenti: «della revisione legale dei conti»; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il comma 2-bis e' abrogato.
+
+3.
+                        
+                            
+                                All'articolo 72 del decreto legislativo 1° settembre 1993, n. 385, sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    al comma 5, le parole: «del controllo contabile» sono sostituite dalle seguenti: «della revisione legale dei conti»; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    al comma 5-bis le parole: «del controllo contabile o della revisione» sono sostituite dalle seguenti: «della revisione legale dei conti».
+
 All'articolo 84, comma 5, del decreto legislativo 1° settembre 1993, n. 385, le parole: «del controllo contabile o della revisione» sono sostituite dalle seguenti: «della revisione legale dei conti».
 
 ## Art. 40. — Modifiche al TUIF
+
+1.
+                        
+                            
+                                All'articolo 8 del testo unico delle disposizioni in materia di intermediazione finanziaria, di cui al decreto legislativo 24 febbraio 1998, n. 58, sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    al comma 2 le parole: «della societa' incaricata della revisione contabile» sono sostituite dalle seguenti: «del soggetto incaricato della revisione legale dei conti»; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    al comma 4 le parole: «le societa' incaricate della revisione contabile» sono sostituite dalle seguenti: «i soggetti incaricati della revisione legale dei conti»; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    al comma 5 le parole: «alle societa' incaricate della revisione contabile» sono sostituite dalle seguenti: «ai soggetti incaricati della revisione legale dei conti».
 
 L'articolo 9 del decreto legislativo 24 febbraio 1998, n. 58, e' sostituito dal seguente: 
  «Art. 9 (Revisione legale). - 1. Alle SIM, alle societa' di gestione del risparmio e alle Sicav si applica l'articolo 159, comma 1. 
  2. Per le societa' di gestione del risparmio, il revisore legale o la societa' di revisione legale incaricati della revisione provvedono con apposita relazione di revisione a rilasciare un giudizio sul rendiconto del fondo comune.».
 
 All'articolo 10, comma 1-bis, del decreto legislativo 24 febbraio 1998, n. 58, le parole «alla societa' incaricata della revisione contabile» sono sostituite dalle seguenti: «al soggetto incaricato della revisione legale dei conti».
+
+4.
+                        
+                            
+                                All'articolo 25-bis del decreto legislativo 24 febbraio 1998, n. 58, sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    al comma 4, le parole: «le societa' incaricate della revisione contabile» sono sostituite dalle seguenti: «i soggetti incaricati della revisione legale dei conti»; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    al comma 5 le parole: «alle societa' incaricate della revisione contabile» sono sostituite dalle seguenti: «ai soggetti incaricati della revisione legale dei conti».
 
 All'articolo 48, comma 5, del decreto legislativo 24 febbraio 1998, n. 58, le parole: «della societa' incaricata della revisione» sono sostituite dalle seguenti: «del soggetto incaricato della revisione legale dei conti».
 
@@ -1830,6 +4176,24 @@ Il comma 2 dell'articolo 116 del decreto legislativo 24 febbraio 1998, n. 58, e'
 
 All'articolo 150, comma 3, del decreto legislativo 24 febbraio 1998, n. 58, le parole «e la societa' di revisione» sono sostituite dalle seguenti: «e il revisore legale o la societa' di revisione legale».
 
+12.
+                        
+                            
+                                All'articolo 154-ter del decreto legislativo 24 febbraio 1998, n. 58, sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    al comma 1, secondo periodo, le parole: «di cui all'articolo 156» sono sostituite dalle seguenti: «redatte dal revisore legale o dalla societa' di revisione legale»; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    al comma 2, le parole: «della societa' di revisione» sono sostituite dalle seguenti: «del revisore legale o della societa' di revisione legale».
+
 La rubrica della parte IV, titolo III, capo II, sezione VI, e' sostituita dalla seguente: «Revisione legale dei conti».
 
 Il comma 2 dell'articolo 155 del decreto legislativo 24 febbraio 1998, n. 58, e' sostituito dal seguente: 
@@ -1837,6 +4201,31 @@ Il comma 2 dell'articolo 155 del decreto legislativo 24 febbraio 1998, n. 58, e'
 
 Il comma 4 dell'articolo 156 del decreto legislativo 24 febbraio 1998, n. 58, e' sostituito dal seguente: 
  «4. In caso di giudizio negativo o di dichiarazione di impossibilita' di esprimere un giudizio o in presenza di richiami di informativa relativi a dubbi significativi sulla continuita' aziendale il revisore legale o la societa' di revisione legale informano tempestivamente la Consob.».
+
+16.
+                        
+                            
+                                All'articolo 158 del decreto legislativo 24 febbraio 1998, n. 58, sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    al comma 1, primo periodo, le parole: «dalla societa' incaricata della revisione contabile» sono sostituite dalle seguenti: «dal soggetto incaricato della revisione legale dei conti»; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    al comma 1, secondo periodo, le parole: «alla societa' di revisione» sono sostituite dalle seguenti: «al revisore legale o alla societa' di revisione legale»; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    ai commi 2 e 3, le parole: «della societa' di revisione» sono sostituite dalle seguenti «del revisore legale o della societa' di revisione legale».
 
 Il comma 1 dell'articolo 159 del decreto legislativo 24 febbraio 1998, n. 58, e' sostituito dal seguente: 
  «1. In caso di mancata nomina del revisore legale o della societa' di revisione legale, la societa' che deve conferire l'incarico informa tempestivamente la Consob, esponendo le cause che hanno determinato il ritardo nell'affidamento dell'incarico.».
@@ -1854,6 +4243,47 @@ Gli articoli 12, comma 4, 155, commi 1 e 3, 156, commi 1, 2, 3, 4-bis e 5, 159, 
 
 La rubrica del capo V del titolo VIII del decreto legislativo 7 settembre 2005, n. 209, e' sostituita dalla seguente: «Revisione legale dei conti».
 
+2.
+                        
+                            
+                                All'articolo 102 del decreto legislativo 7 settembre 2005, n. 209, sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la rubrica e' sostituita dalla seguente: «Revisione legale del bilancio»; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il comma 1 e' sostituito dal seguente: 
+ «1. Il bilancio delle imprese di assicurazione e di riassicurazione con sede legale nel territorio della Repubblica e delle sedi secondarie nel territorio della Repubblica di imprese di assicurazione e riassicurazione con sede legale in uno Stato terzo e' corredato dalla relazione di un revisore legale o di una societa' di revisione legale iscritti nell'apposito registro. Se l'incarico di revisione legale e' conferito ad una societa' di revisione legale, almeno uno dei suoi amministratori e' un attuario iscritto nell'albo professionale di cui alla legge 9 febbraio 1942, n. 194. Se l'incarico di revisione legale e' conferito ad un revisore legale, si applica l'articolo 103.»; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    al comma 2, le parole: «della societa' di revisione, dalla quale risulta il giudizio sul bilancio ai sensi dell'articolo 156 del testo unico dell'intermediazione finanziaria,» sono sostituite dalle seguenti: «del revisore legale o della societa' di revisione legale»; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    il comma 3 e' sostituito dal seguente: 
+ «3. Alle imprese di cui al comma 1 si applicano le disposizioni sulla revisione legale dei conti di cui alla sezione VI del capo II del titolo III del testo unico dell'intermediazione finanziaria, ad eccezione degli articoli 155, comma 2, 156, comma 4, 157, comma 2, e 159, comma 1.»; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    il comma 5 e' abrogato.
+
 L'articolo 103 del decreto legislativo 7 settembre 2005, n. 209, e' sostituito dal seguente: 
  «Art. 103 (Attuario nominato dal revisore legale o dalla societa' di revisione legale). - 1. Se l'incarico di revisione legale dei conti e' conferito a un revisore legale o se tra gli amministratori della societa' di revisione legale non e' presente un attuario iscritto nell'albo professionale di cui alla legge 9 febbraio 1942, n. 194, la relazione di cui all'articolo 102, comma 1, e' corredata dalla relazione di un attuario nominato dal revisore legale o dalla societa' di revisione legale. 
  2. L'incarico dell'attuario ha durata pari a nove esercizi e non puo' essere rinnovato o nuovamente conferito, neppure per conto di una diversa societa' di revisione legale, se non siano decorsi almeno tre esercizi dalla data di cessazione del precedente. Se, prima della scadenza del periodo, il revisore legale o la societa' di revisione legale revoca l'incarico all'attuario, ne da' immediata e motivata comunicazione all'ISVAP. La revoca dell'incarico ha effetto nel momento in cui diviene efficace il conferimento dell'incarico ad altro attuario. 
@@ -1864,13 +4294,114 @@ L'articolo 104 del decreto legislativo 7 settembre 2005, n. 209, e' sostituito d
  «Art. 104 (Accertamenti sulla gestione contabile). - 1. L'ISVAP puo' far svolgere al revisore legale o alla societa' di revisione legale una verifica, previo accertamento dell'esatta rilevazione nelle scritture contabili dei fatti di gestione, in ordine alla conformita' alle scritture contabili delle situazioni periodiche concernenti lo stato patrimoniale e il conto economico dell'impresa.
 Nello svolgimento di tale verifica il revisore legale o la societa' di revisione legale si avvalgono dell'attuario. Le spese sono a carico dell'impresa.».
 
+5.
+                        
+                            
+                                All'articolo 105 del decreto legislativo 7 settembre 2005, n. 209, sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    al comma 1, le parole: «dalla societa' di revisione» sono soppresse; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    al comma 1, le parole: «della societa' di revisione» sono sostituite dalle seguenti: «del revisore legale o della societa' di revisione legale»; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    al comma 2, dopo le parole: «103, comma 3,» sono inserite le seguenti: «, la perdita di una condizione di indipendenza prevista dall'articolo 103, comma 3,»; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    al comma 3, le parole: «alla societa' di revisione» sono sostituite dalle seguenti: «al revisore legale o alla societa' di revisione legale»; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    al comma 3, le parole: «la societa' di revisione» sono sostituite dalle seguenti: «il revisore legale o la societa' di revisione legale».
+
+6.
+                        
+                            
+                                All'articolo 190 del decreto legislativo 7 settembre 2005, n. 209, sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    al comma 2, le parole: «della societa' di revisione» sono sostituite dalle seguenti: «del soggetto incaricato della revisione legale dei conti»; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    dopo il comma 5 sono aggiunti, in fine, i seguenti commi: 
+ «5-bis. Le imprese di assicurazione e di riassicurazione comunicano tempestivamente all'Isvap: 
+ a) la nomina e la mancata nomina del soggetto incaricato della revisione legale dei conti, esponendo le cause che hanno determinato il ritardo nel conferimento dell'incarico; 
+ b) le dimissioni del soggetto incaricato della revisione legale dei conti; 
+ c) la risoluzione consensuale del mandato; 
+ d) la revoca dell'incarico di revisione legale dei conti, fornendo adeguate spiegazioni in ordine alle ragioni che l'hanno determinata. 
+ 5-ter. L'Isvap stabilisce modalita' e termini per l'invio delle comunicazioni di cui al comma 5-bis. Nel caso di mancata nomina del soggetto incaricato della revisione legale dei conti, l'ISVAP adotta i provvedimenti cautelari, autoritativi e sanzionatori previsti dal codice.».
+
 Al comma 1 dell'articolo 310 del decreto legislativo 7 settembre 2005, n. 209, le parole: «190, comma 1» sono sostituite dalle seguenti: «190, commi 1 e 5-bis».
+
+8.
+                        
+                            
+                                All'articolo 321 del decreto legislativo 7 settembre 2005, n. 209, sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il comma 3 e' sostituito dal seguente: 
+ «3. L'ISVAP informa il Ministero dell'economia e delle finanze e la Consob dei provvedimenti sanzionatori adottati nei confronti dei revisori legali e delle societa' di revisione legale. Il Ministero dell'economia e delle finanze e la Consob informano l'ISVAP dei provvedimenti adottati.»; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il comma 4 e' abrogato.
 
 All'articolo 322 del decreto legislativo 7 settembre 2005, n. 209, la rubrica e' sostituita dalla seguente: «Doveri del revisore legale e della societa' di revisione legale».
 
 All'articolo 322, comma 1, del decreto legislativo 7 settembre 2005, n. 209, le parole: «i legali rappresentanti della societa' di revisione» sono sostituite dalle seguenti: «il revisore legale e i legali rappresentanti della societa' di revisione legale».
 
 All'articolo 322, comma 2, del decreto legislativo 7 settembre 2005, n. 209, le parole: «dei legali rappresentanti della societa' di revisione» sono sostituite dalle seguenti: «del revisore legale e dei legali rappresentanti della societa' di revisione legale».
+
+12.
+                        
+                            
+                                All'articolo 323 del decreto legislativo 7 settembre 2005, n. 209, sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    al comma 1, il numero: «3» del primo periodo e' sostituito dal seguente: «4»; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    al comma 1, dopo il primo periodo, sono inseriti i seguenti: «All'attuario incaricato dal revisore legale o dalla societa' di revisione legale di un'impresa di assicurazione o di riassicurazione che viola l'articolo 103, comma 3, si applica la sanzione amministrativa pecuniaria da euro centomila a euro cinquecentomila.
+Si applicano, altresi', le sanzioni penali per il reato di corruzione del revisore.».
 
 ## Art. 42. — Personale
 
@@ -1883,6 +4414,95 @@ Presso il Ministero dell'economia e delle finanze e' istituita, senza nuovi o ma
 ))
 
 ## Art. 43. — Abrogazioni e disposizioni finali e transitorie
+
+1.
+                        
+                            
+                                Sono abrogati ma continuano ad essere applicati fino alla data di entrata in vigore dei regolamenti del Ministro dell'economia e delle finanze emanati ai sensi del presente decreto legislativo: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il decreto legislativo 27 gennaio 1992, n. 88; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la legge 13 maggio 1997, n. 132; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il decreto del Presidente della Repubblica 6 marzo 1998, n. 99; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    la legge 8 luglio 1998, n. 222; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    la legge 30 luglio 1998, n. 266; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    il decreto del Presidente della Repubblica 12 luglio 2000, n. 233; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    il decreto legislativo 23 gennaio 2006, n. 28; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    l'articolo 52, comma 2-bis, del decreto legislativo 1° settembre 1993, n. 385; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    l'articolo 161 del decreto legislativo 24 febbraio 1998, n. 58; 
+
+                                
+                            
+                            
+                                j)
+                                
+                                    l'articolo 162, commi 3 e 3-bis, del decreto legislativo 24 febbraio 1998, n. 58; 
+
+                                
+                            
+                            
+                                k)
+                                
+                                    l'articolo 163, comma 1, lettera b), comma 2, lettere a), b) e c), comma 4 e comma 5, del decreto legislativo 24 febbraio 1998, n. 58; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    
+                                        articolo 2409-quinquies del codice civile.
 
 Le disposizioni emanate dalla Consob ai sensi delle norme abrogate o sostituite dal presente decreto continuano ad essere applicate, in quanto compatibili, fino alla data di entrata in vigore dei provvedimenti emanati dalla Consob ai sensi del presente decreto nelle corrispondenti materie. ((PERIODO ABROGATO DAL D.LGS. 17 LUGLIO 2016, N. 135)).
 

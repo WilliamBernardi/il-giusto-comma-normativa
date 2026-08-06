@@ -8,8 +8,8 @@ codice_redazionale: 099G0214
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:41Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -24,6 +24,45 @@ Udito il parere del Consiglio di Stato espresso nell'adunanza della sezione cons
 ## Art. 1.
 
 E' individuata la figura professionale dell'igienista dentale con il seguente profilo: l'igienista dentale e' l'operatore sanitario che, in possesso del diploma universitario abilitante, svolge compiti relativi alla prevenzione delle affezioni orodentali su indicazione degli odontoiatri e dei medici chirurghi legittimati all'esercizio della odontoiatria.
+
+2.
+                    
+                        
+                            L'igienista dentale: 
+ 
+                        
+                        
+                            a)
+                            
+                                svolge attivita' di educazione sanitaria dentale e partecipa a progetti di prevenzione primaria, nell'ambito del sistema sanitario pubblico; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                collabora alla compilazione della cartella clinica odontostomatologica e provvede alla raccolta dei dati tecnicostatistici; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                provvede all'ablazione del tartaro e alla levigatura delle radici nonche' all'applicazione topica dei vari mezzi profilattici; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                provvede all'istruzione sulle varie metodiche di igiene orale e sull'uso dei mezzi diagnostici idonei ad evidenziare placca batterica e patina dentale motivando l'esigenza dei controlli clinici periodici; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                indica le norme di una alimentazione razionale ai fini della tutela della salute dentale.
 
 L'igienista dentale svolge la sua attivita' professionale in strutture sanitarie, pubbliche o private, in regime di dipendenza o liberoprofessionale, su indicazione degli odontoiatri e dei medici chirurghi legittimati all'esercizio della odontoiatria.
 

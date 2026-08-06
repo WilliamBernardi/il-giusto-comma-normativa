@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Leggi delega e relativi provvedimenti delegati
 vigenza_date: 2025-06-25
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:41:16Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -36,7 +36,106 @@ Il Presidente del Consiglio dei ministri o il ((Ministro o Sottosegretario di St
 
 ## Art. 3. — Attivita' dell'A.S.I.
 
+1.
+                    
+                        
+                            L'A.S.I.: 
+ 
+                        
+                        
+                            a)
+                            
+                                predispone, sulla base degli indirizzi del Presidente del Consiglio dei ministri o ((Ministro o Sottosegretario di Stato delegato)) e del Comitato interministeriale per le politiche relative allo spazio e alla ricerca aerospaziale, il Documento strategico di politica spaziale nazionale; 
+
+                            
+                        
+                        
+                            a-bis)
+                            
+                                predispone, sulla base degli indirizzi del Presidente del Consiglio dei ministri o ((Ministro o Sottosegretario di Stato delegato)) e del Comitato interministeriale per le politiche relative allo spazio e alla ricerca aerospaziale e del Programma nazionale per la ricerca, indicati nel Documento strategico di politica spaziale nazionale, il Documento di visione strategica per lo spazio; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                sulla base degli indirizzi del Presidente del Consiglio dei ministri o ((Ministro o Sottosegretario di Stato delegato)) e del Comitato interministeriale per le politiche relative allo spazio e alla ricerca aerospaziale, nel quadro del coordinamento delle relazioni internazionali assicurato dal Ministero degli affari esteri, partecipa ai lavori del consiglio dell'Agenzia spaziale europea (E.S.A.), promuove e coordina la presenza italiana ai programmi da essa approvati, nonche', nei limiti delle risorse determinate dal Piano aerospaziale nazionale e delle altre entrate dell'ente, stipula accordi bilaterali o multilaterali con organismi di altri Paesi per la partecipazione dell'Italia a programmi od imprese aerospaziali. In particolare promuove, sostiene e coordina la partecipazione italiana a progetti e iniziative dell'Unione europea nel campo della ricerca spaziale e aerospaziale e dei correlati servizi applicativi; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                intrattiene relazioni con organismi aerospaziali di altri Paesi, in linea con le indicazioni del Presidente del Consiglio dei ministri o ((Ministro o Sottosegretario di Stato delegato)) e del Comitato interministeriale per le politiche relative allo spazio e alla ricerca aerospaziale e nel quadro del coordinamento delle relazioni internazionali assicurato dal Ministero degli affari esteri; promuove e realizza, con il coinvolgimento della comunita' scientifica, la ricerca scientifica nazionale nel settore spaziale e aerospaziale predisponendo, coordinando e sviluppando appositi programmi, curando il raccordo con l'Istituto nazionale di astrofisica (INAF), per quanto riguarda il settore dell'astrofisica e con gli altri enti pubblici di ricerca, nel quadro del coordinamento della ricerca nazionale, assicurato dal Ministero dell'Universita' e della ricerca; svolge attivita' di agenzia nelle attivita' di competenza, finanziando e coordinando attivita' di ricerca spaziale e aerospaziale svolte da terzi; svolge attivita' di comunicazione e promozione della ricerca spaziale e aerospaziale e dei correlati servizi applicativi, curando la diffusione dei relativi risultati economici e sociali all'interno del Paese e garantendo l'utilizzazione delle conoscenze prodotte; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                promuove, realizza e finanzia sulla base di appositi progetti, iniziative che integrino la ricerca pubblica con quella privata, nazionale ed internazionale, nel settore spaziale e aerospaziale e dei correlati servizi applicativi, anche al fine di acquisire risorse ulteriori per il finanziamento di progetti congiunti; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                promuove la diffusione della cultura aerospaziale e delle conoscenze derivanti dalla relativa ricerca, nonche' la valorizzazione a fini produttivi e sociali e il trasferimento tecnologico dei risultati della ricerca nel settore spaziale e aerospaziale; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                effettua la valutazione dei risultati dei propri programmi di ricerca, sulla base di criteri di valutazione definiti dall'Agenzia Nazionale di valutazione del sistema Universitario e della ricerca (ANVUR) ; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                promuove la formazione e la crescita tecnico-professionale dei ricercatori italiani nel campo delle scienze e tecnologie spaziali e aerospaziali e delle loro applicazioni, attraverso l'assegnazione di borse di studio e assegni di ricerca, nonche' promuovendo e realizzando, sulla base di apposite convenzioni con le universita', corsi di dottorato di ricerca anche con il coinvolgimento del mondo produttivo; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                fornisce, su richiesta, a soggetti pubblici e privati, tecnologie, servizi di consulenza, di ricerca e di formazione, nonche' supporto ed assistenza tecnica in campo spaziale e aerospaziale, o in settori comunque connessi alle attivita' di cui al presente comma.
+
 ## Art. 4. — O r g a n i
+
+1.
+                    
+                        
+                            Sono organi dell'A.S.I.:
+ 
+                        
+                        
+                            a)
+                            
+                                il presidente;
+
+                            
+                        
+                        
+                            b)
+                            
+                                il consiglio di amministrazione;
+
+                            
+                        
+                        
+                            c)
+                            
+                                il consiglio tecnico-scientifico;
+
+                            
+                        
+                        
+                            d)
+                            
+                                il collegio dei revisori dei conti.
 
 ## Art. 5. — Principi di organizzazione
 
@@ -58,13 +157,114 @@ L'organizzazione dell'A.S.I. e' definita dal regolamento di organizzazione e fun
 
 ## Art. 7. — Consiglio di amministrazione
 
+1.
+                    
+                        
+                            Il consiglio di amministrazione , fatti salvi i poteri del Presidente del Consiglio dei ministri e del Comitato interministeriale di cui all'articolo 21, ha compiti di indirizzo e programmazione generale dell'attivita' dell'Agenzia. 
+ Il consiglio di amministrazione, su proposta del presidente: 
+ 
+                        
+                        
+                            a)
+                            
+                                delibera il piano triennale dell'Agenzia e i relativi aggiornamenti annuali, sentito il consiglio scientifico; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                approva il bilancio preventivo e il bilancio consuntivo e le relative relazioni di accompagnamento; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                delibera i regolamenti dell'agenzia; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                nomina il vice presidente, eleggendolo tra i propri componenti; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                nomina il consiglio tecnico-scientifico, ((...)); 
+
+                            
+                        
+                        
+                            f)
+                            
+                                verifica i risultati dell'attivita' gestionale ed economica dell'Agenzia, previo parere del comitato di valutazione; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                ripartisce le risorse finanziarie, strumentali e umane tra i settori tecnico-scientifici, tenendo conto delle proposte da essi formulate; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                delibera l'affidamento degli incarichi ai dirigenti e ai responsabili dei settori tecnici; 
+
+                            
+                        
+                        
+                            i)
+                            
+                                delibera sui grandi investimenti in infrastrutture e su commesse rilevanti, secondo criteri definiti dal regolamento di amministrazione e contabilita'; 
+
+                            
+                        
+                        
+                            l)
+                            
+                                delibera in ordine ad ogni altra materia attribuitagli dal presente decreto e dai regolamenti dell'Agenzia.
+
 Il consiglio di amministrazione, nominato con decreto del Presidente del Consiglio dei ministri o ((Ministro o Sottosegretario di Stato delegato)), sentito il Comitato interministeriale per le politiche relative allo spazio e alla ricerca aerospaziale, e' composto dal presidente, designato dal ((Ministro o Sottosegretario di Stato delegato)), e da altri sei componenti, scelti tra personalita' di elevata e documentata qualificazione ed esperienza nel campo della ricerca e dell'industria spaziale e aerospaziale, dei quali uno designato dal Presidente del Consiglio dei ministri o ((Ministro o Sottosegretario di Stato delegato)), uno dal Ministro dell'universita' e della ricerca, uno dal Ministro degli affari esteri e della cooperazione internazionale, uno dal Ministro della difesa, uno dal Ministro dello sviluppo economico e uno dal Ministro dell'economia e delle finanze. La composizione del consiglio di amministrazione e' definita altresi' favorendo la presenza di entrambi i sessi.
 
 I componenti del consiglio di amministrazione sono nominati con decreto del Presidente del Consiglio dei ministri o ((Ministro o Sottosegretario di Stato delegato)), durano in carica quattro anni e possono essere confermati una sola volta.
 
 ## Art. 8. — Consiglio tecnico-scientifico
 
+1.
+                    
+                        
+                            Il consiglio tecnico-scientifico ha compiti consultivi nei confronti del consiglio di amministrazione, relativi agli aspetti tecnico-scientifici dell'attivita' dell'Agenzia. 
+ Il consiglio tecnico-scientifico: 
+ 
+                        
+                        
+                            a)
+                            
+                                esprime al consiglio di amministrazione il parere tecnico-scientifico sulle proposte di piano triennale e sui relativi aggiornamenti annuali; 
 
+                            
+                        
+                        
+                            b)
+                            
+                                realizza, su richiesta del presidente, analisi, studi e confronti sullo stato della ricerca spaziale e aerospaziale a livello nazionale e internazionale; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                individua, su richiesta del presidente, le possibili linee evolutive della ricerca spaziale e aerospaziale.
+
+((2. Il consiglio tecnico-scientifico e' nominato dal consiglio di amministrazione ed e' composto, oltre che dal presidente dell'Agenzia che lo presiede, da non piu' di sette componenti, scienziati, anche stranieri, di fama internazionale, con particolare e qualificata professionalita' ed esperienza nel settore di competenza dell'Agenzia, di cui due designati dal presidente medesimo e gli altri dal Comitato interministeriale per le politiche relative allo spazio e alla ricerca aerospaziale. Uno dei componenti e' individuato tra personalita' significative del mondo industriale e della piccola impresa. I componenti del consiglio tecnico-scientifico durano in carica quattro anni e possono essere confermati una sola volta))
 
 ## Art. 9. — Collegio dei revisori dei conti
 
@@ -88,6 +288,39 @@ Il comitato di valutazione svolge i propri compiti in piena autonomia. Il comita
                          Il D.P.R. 1 febbraio 2010, n. 76 ha disposto (con l'art. 14, comma 2) che "A decorrere dalla data di insediamento del Consiglio direttivo e della nomina del Presidente sono soppressi il Comitato nazionale per la valutazione del sistema universitario, il Comitato di indirizzo per la valutazione della ricerca ed i Comitati di valutazione di cui all'articolo 10 del decreto legislativo 4 giugno 2003, n. 127, ed all'articolo 10 del decreto legislativo 4 giugno 2003, n. 128".
 
 ## Art. 11. — Direttore generale
+
+1.
+                    
+                        
+                            Il direttore generale ha la responsabilita' della gestione e cura l'attuazione delle delibere del consiglio di amministrazione e dei provvedimenti del presidente; dirige, coordina e controlla la struttura organizzativa; partecipa alle riunioni del consiglio di amministrazione senza diritto di voto. 
+ Il direttore generale: 
+ 
+                        
+                        
+                            a)
+                            
+                                predispone il bilancio preventivo e il bilancio consuntivo dell'Agenzia; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                elabora, sulla base delle indicazioni dei settori tecnici, la relazione annuale di verifica dei risultati gestionali ed economici dell'Agenzia da sottoporre al presidente che la presenta al consiglio di amministrazione; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                predispone gli schemi dei regolamenti da sottoporre al presidente che li presenta al consiglio di amministrazione; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                conferisce gli incarichi ai dirigenti previa delibera del consiglio di amministrazione.
 
 Il direttore generale, il cui rapporto di lavoro e' regolato con contratto di diritto privato, con durata coincidente con la scadenza del mandato del presidente, e' scelto tra persone di alta qualificazione tecnico-professionale e di comprovata esperienza gestionale, con profonda conoscenza delle normative e degli assetti organizzativi degli enti pubblici.
 
@@ -133,11 +366,82 @@ L'A.S.I., previo confronto con le organizzazioni sindacali maggiormente rapprese
 
 ## Art. 15. — Entrate dell'A.S.I.
 
+1.
+                    
+                        
+                            Le entrate dell'A.S.I. sono costituite: 
+ 
+                        
+                        
+                            a)
+                            
+                                dai contributi ordinari a carico del Fondo per il finanziamento dell'Agenzia spaziale italiana (ASI), di cui al comma 2-bis, con vincoli di destinazione a funzionamento e gestione ordinaria; dal contributo per i programmi di collaborazione con l'Agenzia spaziale europea (E.S.A.); da impegni assunti per altri accordi intergovernativi e per trattati o convenzioni internazionali; da altri impegni derivanti dal piano triennale e dai relativi aggiornamenti annuali, ove approvati; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                da contributi dell'Unione europea o da organismi internazionali; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                dai proventi derivanti dalla valorizzazione economica di prototipi, prodotti industriali e beni immateriali di interesse aerospaziale, nonche' dalla cessione di licenze d'uso su brevetti acquisiti; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                da ogni altra eventuale entrata.
+
 Il Presidente del Consiglio dei ministri, in sede di distribuzione del Fondo di cui al comma 2-bis, assegna priorita' alle risorse destinate ad obbligazioni derivanti da programmi internazionali. Sono esclusi dalla determinazione del fabbisogno i programmi in collaborazione con l'ESA ed i programmi realizzati con leggi speciali, ivi compresa la legge 29 gennaio 2001, n. 10. Entro il 30 giugno di ciascun anno, il Presidente del Consiglio dei ministri trasmette al Ministro dell'economia e delle finanze l'elenco analitico degli oneri per il successivo esercizio derivanti dalle predette obbligazioni internazionali.
 
 Nello stato di previsione del Ministero dell'economia e delle finanze e' istituito un Fondo per il finanziamento dell'Agenzia spaziale italiana (ASI), con una dotazione pari a 499 milioni di euro a decorrere dal 2022, destinato alla copertura delle spese di funzionamento e gestione dell'ASI, nonche' al finanziamento delle attivita' dell'ASI, ivi comprese quelle di svolgimento dei programmi in collaborazione con l'ESA. Le risorse del predetto Fondo sono trasferite al bilancio autonomo della Presidenza del Consiglio dei ministri per essere assegnate all'Autorita' ((di Governo)) delegata per le politiche spaziali e aerospaziali, che ne cura la ripartizione con apposito decreto.
 
 ## Art. 16. — S t r u m e n t i
+
+1.
+                    
+                        
+                            L'A.S.I. per lo svolgimento delle attivita' di cui all'articolo 3 e di ogni altra attivita' connessa, ivi compreso l'utilizzo economico dei risultati della ricerca propria e di quella commissionata, secondo criteri e modalita' determinati con il regolamento di organizzazione e funzionamento, puo': 
+ 
+                        
+                        
+                            a)
+                            
+                                stipulare accordi e convenzioni; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                partecipare o costituire consorzi, fondazioni o societa' con soggetti pubblici e privati, italiani e stranieri, previa autorizzazione del Comitato interministeriale per le politiche relative allo spazio e alla ricerca aerospaziale. Decorsi sessanta giorni dalla richiesta di autorizzazione, in assenza di osservazioni da parte del Comitato interministeriale per le politiche relative allo spazio e alla ricerca aerospaziale, l'autorizzazione si intende concessa. Per la costituzione o la partecipazione in societa' con apporto al capitale sociale superiore a 500.000,00 euro o con quota pari o superiore al 50 per cento del predetto capitale sociale e' inoltre richiesto il parere del Ministro dell'economia e delle finanze che deve esprimersi entro trenta giorni, decorsi i quali si prescinde dal parere; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                promuovere la costituzione di nuove imprese conferendo personale proprio, anche in costanza di rapporto, nel rispetto della normativa vigente; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                partecipare alla costituzione ed alla conduzione anche scientifica di centri di ricerca internazionali, in collaborazione con analoghe istituzioni scientifiche di altri Paesi; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                commissionare attivita' di ricerca e studio a soggetti pubblici e privati, nazionali e internazionali, secondo le disposizioni del suo regolamento amministrativo.
 
 Le attivita' di cui al comma 1, lettere a), b) c) e d) sono in ogni caso sottoposte alla previa autorizzazione del Presidente del Consiglio dei ministri o del ((Ministro o Sottosegretario di Stato delegato)). La disposizione di cui al primo periodo non si applica agli accordi e alle convenzioni con le universita' e gli enti pubblici di ricerca di cui all'articolo 1 del decreto legislativo 25 novembre 2016, n. 218, adottati in esecuzione di azioni previste nel piano triennale di attivita' di cui all'articolo 14, limitatamente agli aspetti riguardanti i piani di esplorazione e di ricerca.
 
@@ -150,6 +454,88 @@ L'A.S.I. riferisce sui programmi, sugli obiettivi, sulle attivita' e sui risulta
 ## Art. 17. — Regolamenti
 
 L'A.S.I. si dota del regolamento di organizzazione e funzionamento, del regolamento di amministrazione contabilita' e finanza e del regolamento del personale, nonche' di altri regolamenti interni disciplinanti specifiche materie, ((sottoposti al controllo della Presidenza del Consiglio dei ministri in coerenza con le procedure e modalita' di cui all'articolo 4 del decreto legislativo 25 novembre 2016, n. 218.)) Sui regolamenti, prima dell'adozione, sono sentite le organizzazioni sindacali maggiormente rappresentative. Il regolamento sul personale e' inoltre sottoposto al parere del Ministro per la funzione pubblica che si esprime nel termine di trenta giorni, decorsi i quali si prescinde dal parere.
+
+2.
+                    
+                        
+                            Il regolamento di organizzazione e funzionamento: 
+ 
+                        
+                        
+                            a)
+                            
+                                definisce i settori tecnici e le relative aree di intervento; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                stabilisce le procedure di selezione per la nomina dei responsabili dei settori tecnici; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                definisce le regole per le partecipazione dell'Agenzia in altri soggetti pubblici e privati.
+
+3.
+                    
+                        
+                            Il regolamento di amministrazione, contabilita' e finanza: 
+ 
+                        
+                        
+                            a)
+                            
+                                definisce uno schema tipo per la redazione da parte dei settori tecnici del bilancio preventivo e del bilancio consuntivo; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                definisce modalita' che assicurino la trasparenza nell'affidamento delle attivita' di ricerca; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                definisce modalita' per l'acquisto di beni, servizi e forniture, anche in conformita' alla normativa comunitaria; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                individua le modalita' per l'acquisizione di risorse esterne all'ente; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                definisce modalita' per la gestione patrimoniale, economica, finanziaria e contabile interna, anche in deroga alle disposizioni sulla contabilita' generale dello Stato.
+
+4.
+                    
+                        
+                            Il regolamento del personale: 
+ 
+                        
+                        
+                            a)
+                            
+                                definisce modalita' per la gestione e l'amministrazione del personale; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                stabilisce le procedure per il reclutamento del personale sia a tempo determinato che a tempo indeterminato.
 
 ## Art. 18. — Bilanci, relazioni e controlli
 
@@ -181,6 +567,129 @@ Il Comitato e' presieduto dal Presidente del Consiglio dei ministri ovvero dal M
 In merito agli specifici argomenti discussi dal Comitato, il Presidente, sentiti i componenti di cui al comma 3, puo' invitare a partecipare alla seduta Ministri o Sottosegretari di Stato di altri Dicasteri e rappresentanti di enti pubblici e privati la cui presenza sia utile all'espletamento delle funzioni del Comitato. Laddove convocato, il presidente dell'A.S.I. partecipa, senza diritto di voto, alle riunioni del Comitato con funzione di alta consulenza tecnico-scientifica. Ai soggetti invitati non spettano gettoni di presenza, indennita' o altri emolumenti comunque denominati. Agli eventuali oneri per rimborsi di spese di missione si provvede nell'ambito delle risorse di ciascuna Amministrazione disponibili a legislazione vigente.
 
 Le spese per il funzionamento del Comitato sono poste a carico della Presidenza del Consiglio dei ministri. Ai componenti del Comitato non sono riconosciuti compensi, indennita' o altri emolumenti comunque denominati. All'attuazione del presente comma si provvede nell'ambito delle risorse umane, strumentali e finanziarie disponibili a legislazione vigente e, comunque, senza nuovi o maggiori oneri per la finanza pubblica.
+
+6.
+                    
+                        
+                            Il Comitato, nell'ambito e a supporto dei compiti di alta direzione, indirizzo e coordinamento del Presidente del Consiglio dei ministri, con le modalita' definite da un proprio regolamento interno adottato nella sua prima seduta e tenendo conto degli indirizzi della politica estera nazionale e della politica dell'Unione europea nel settore spaziale e aerospaziale: 
+ 
+                        
+                        
+                            a)
+                            
+                                definisce gli indirizzi del Governo in materia spaziale e aerospaziale con riferimento anche alla ricerca, all'innovazione tecnologica e alle ricadute sul settore produttivo, nonche' in ordine alla predisposizione del Documento strategico di politica spaziale nazionale; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                indirizza e supporta l'A.S.I. nella definizione di accordi internazionali e nelle relazioni con organismi spaziali internazionali; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                approva il Documento strategico di politica spaziale nazionale che definisce la strategia politica e le linee di intervento finanziario per lo sviluppo di tecnologie industriali innovative e di servizi applicativi spaziali a favore della crescita economica del Paese; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                assicura il coordinamento dei programmi e dell'attivita' dell'A.S.I. con i programmi e con le attivita' delle amministrazioni centrali e periferiche; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                individua le linee prioritarie per la partecipazione ai programmi europei dell'Agenzia spaziale europea (E.S.A.) e per lo sviluppo degli accordi bilaterali e multilaterali; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                definisce gli indirizzi per lo sviluppo di forme di sinergia e di cooperazione nel settore spaziale tra gli enti di ricerca, le amministrazioni pubbliche, le strutture universitarie e il mondo dell'impresa, con particolare riferimento alle piccole e medie imprese di settore; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                definisce gli indirizzi per le iniziative delle amministrazioni e dei soggetti pubblici interessati, individuati ai sensi della normativa vigente, e competenti nelle applicazioni e nei servizi spaziali, anche di pubblica responsabilita', nel rispetto dei rispettivi compiti e funzioni, favorendo sinergie e collaborazioni anche con soggetti privati, per la realizzazione di programmi applicativi di prevalente interesse istituzionale; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                definisce le priorita' di ricerca e applicative nazionali e gli investimenti pubblici del settore, incentivando le cooperazioni finanziarie e le sinergie tra soggetti pubblici e privati, al fine di promuovere, sviluppare e diffondere la ricerca scientifica e tecnologica applicata al settore spaziale e aerospaziale e lo sviluppo di servizi innovativi, nonche' di favorire lo sviluppo e la competitivita' del sistema produttivo italiano, con particolare riguardo alle piccole e medie imprese; 
+
+                            
+                        
+                        
+                            i)
+                            
+                                definisce il quadro delle risorse finanziarie disponibili per l'attuazione delle politiche spaziali ed aerospaziali, secondo criteri di promozione e sviluppo di servizi satellitari innovativi di interesse pubblico, perseguendo obiettivi di sinergia delle risorse pubbliche e private, destinate alla realizzazione di infrastrutture spaziali e aero-spaziali e nel rispetto di quanto previsto dalla lettera h); 
+
+                            
+                        
+                        
+                            l)
+                            
+                                elabora le linee strategiche governative del settore spaziale e aerospaziale, promuovendo i necessari processi di internazionalizzazione delle capacita' nazionali, individuando le esigenze capacitive nel settore spaziale e aerospaziale indicate dalle amministrazioni interessate, favorendo lo sviluppo e il potenziamento tecnologico delle piccole e medie imprese, l'utilizzo delle tecnologie spaziali e aerospaziali negli altri comparti dell'industria e dei servizi nazionali, nonche' i trasferimenti di conoscenze dal settore della ricerca alle applicazioni commerciali e ai servizi di pubblica utilita' con particolare riferimento ai settori dell'ambiente, del trasporto e delle telecomunicazioni; 
+
+                            
+                        
+                        
+                            m)
+                            
+                                promuove, sulla base delle condivise esigenze capacitive nel settore spaziale individuate dalle amministrazioni interessate, di cui alla lettera l), specifici accordi di programma congiunti tra le amministrazioni interessate, che prevedano il finanziamento interministeriale di servizi applicativi, sistemi, infrastrutture spaziali; 
+
+                            
+                        
+                        
+                            n)
+                            
+                                effettua la valutazione globale dei ritorni e dei risultati dei programmi pluriennali per gli aspetti sociali, strategici ed economici; 
+
+                            
+                        
+                        
+                            o)
+                            
+                                promuove opportune iniziative normative per la realizzazione di nuovi servizi satellitari di interesse pubblico, in conformita' alle norme dell'Unione europea; 
+
+                            
+                        
+                        
+                            p)
+                            
+                                promuove lo sviluppo dei programmi spaziali e aerospaziali che coinvolgono aspetti di sicurezza nazionale e di tipo duale, con particolare riferimento alle applicazioni per la sicurezza civile e militare, anche in raccordo con i programmi internazionali ed europei a valenza strategica; 
+
+                            
+                        
+                        
+                            q)
+                            
+                                predispone, entro il 30 giugno di ogni anno, una relazione alle Camere contenente l'illustrazione delle attivita' e dei risultati degli investimenti nel settore spaziale e aerospaziale; 
+
+                            
+                        
+                        
+                            r)
+                            
+                                promuove il trasferimento di conoscenze dal settore della ricerca ai servizi di pubblica utilita', con riferimento ai settori dell'ambiente, della gestione del territorio e della previsione e prevenzione delle calamita' naturali e dei rischi derivanti dall'attivita' dell'uomo, nonche' ai settori del trasporto e delle telecomunicazioni; 
+
+                            
+                        
+                        
+                            s)
+                            
+                                promuove misure volte a sostenere le domande e l'offerta di formazione in discipline spaziali e aerospaziali, tenendo conto annualmente del quadro delle iniziative promosse dalle universita' italiane.
 
 Per l'espletamento dei compiti di cui al comma 6, il Comitato si avvale del supporto tecnico-scientifico dell'A.S.I. e di eventuali altri esperti del settore, ivi compreso il settore industriale, nel limite massimo di cinque unita', selezionati secondo procedure obiettive e trasparenti, nel rispetto della normativa vigente, di gruppi di lavoro e di comitati di studio coordinati dall'A.S.I. Agli esperti e ai componenti dei gruppi di lavoro e dei comitati di studio non spettano gettoni di presenza, indennita' o altri emolumenti comunque denominati. Agli eventuali oneri per rimborsi di spese di missione si provvede nell'ambito delle risorse di ciascuna Amministrazione disponibili a legislazione vigente, con esclusione dei soggetti privati, per i quali non sono previsti rimborsi a carico della finanza pubblica.
 

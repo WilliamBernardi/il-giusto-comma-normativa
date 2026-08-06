@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
 vigenza_date: 2025-01-12
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:22Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -27,6 +27,38 @@ Sulla proposta del Ministro del lavoro e della previdenza sociale, di concerto c
 ## - Capo I Disposizioni in materia di premi dell'Istituto nazionale per l'assicurazione contro gli infortuni sul lavoro e le malattie professionali (INAIL).
 
 ## Art. 1. — Ambito di applicazione delle gestioni
+
+1.
+                        
+                            
+                                A decorrere dal 1 gennaio 2000, fermo restando quanto stabilito dall'articolo 1 del testo unico approvato con decreto del Presidente della Repubblica 30 giugno 1965, n. 1124, e successive modifiche ed integrazioni, di seguito denominato "testo unico", nell'ambito della gestione industria di cui al titolo I del medesimo testo unico, sono individuate, ai fini tariffari, le seguenti quattro gestioni separate:
+ 
+                            
+                            
+                                a)
+                                
+                                    industria, per le attivita': manifatturiere, estrattive, impiantistiche; di produzione e distribuzione dell'energia, gas ed acqua; dell'edilizia; dei trasporti e comunicazioni; della pesca; dello spettacolo; per le relative attivita' ausiliarie;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    artigianato, per le attivita' di cui alla legge 8 agosto 1985, n. 443, e successive modifiche ed integrazioni;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    terziario, per le attivita': commerciali, ivi comprese quelle turistiche; di produzione, intermediazione e prestazione dei servizi anche finanziari; per le attivita' professionali ed artistiche: per le relative attivita' ausiliarie;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    altre attivita', per le attivita' non rientranti fra quelle di cui alle lettere a), b) e c), fra le quali quelle svolte dagli enti pubblici, compresi lo Stato e gli enti locali, e quelle di cui all'articolo 49, comma 1, lettera e), della legge 9 marzo 1989, n. 88.
 
 A ciascuna delle quattro gestioni di cui al comma 1 sono riferite le attivita' protette di cui all'articolo 1 del testo unico.
 
@@ -150,6 +182,24 @@ All'articolo 2 e all'articolo 210 del testo unico e' aggiunto, in fine, il segue
 
 In attesa della definizione di carattere generale di danno biologico e dei criteri per la determinazione del relativo risarcimento, il presente articolo definisce, in via sperimentale, ai fini della tutela dell'assicurazione obbligatoria conto gli infortuni sul lavoro e le malattie professionali il danno biologico come la lesione all'integrita' psicofisica, suscettibile di valutazione medico legale, della persona. Le prestazioni per il ristoro del danno biologico sono determinate in misura indipendente dalla capacita' di produzione del reddito del danneggiato.
 
+2.
+                        
+                            
+                                In caso di danno biologico, i danni conseguenti ad infortuni sul lavoro verificatisi, nonche' a malattie professionali denunciate a decorrere dalla data di entrata in vigore del decreto ministeriale di cui al comma 3, l'INAIL nell'ambito del sistema d'indennizzo e sostegno sociale, in luogo della prestazione di cui all'articolo 66, primo comma, numero 2), del testo unico, eroga l'indennizzo previsto e regolato dalle seguenti disposizioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    le menomazioni conseguenti alle lesioni dell'integrita' psicofisica di cui al comma 1 sono valutate in base a specifica "tabella delle menomazioni", comprensiva degli aspetti dinamico-relazionali. L'indennizzo delle menomazioni di grado pari o superiore al 6 per cento ed inferiore al 16 per cento e' erogato in capitale, dal 16 per cento e' erogato in rendita, nella misura indicata nell'apposita "tabella indennizzo danno biologico". Per l'applicazione di tale tabella si fa riferimento all'eta' dell'assicurato al momento della guarigione clinica. Non si applica il disposto dell'articolo 91 del testo unico; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le menomazioni di grado pari o superiore al 16 per cento danno diritto all'erogazione di un'ulteriore quota di rendita per l'indennizzo delle conseguenze delle stesse, commisurata al grado della menomazione, alla retribuzione dell'assicurato e al coefficiente di cui all'apposita "tabella dei coefficienti", che costituiscono indici di determinazione della percentuale di retribuzione da prendere in riferimento per l'indennizzo delle conseguenze patrimoniali, in relazione alla categoria di attivita' lavorativa di appartenenza dell'assicurato e alla ricollocabilita' dello stesso. Per la determinazione della corrispondente quota di rendita, la retribuzione, determinata con le modalita' e i criteri previsti dal testo unico, viene moltiplicata per il coefficiente di cui alla "tabella dei coefficienti" e per il grado percentuale di menomazione. (2)
+
 Le tabelle di cui alle lettere a) e b), i relativi criteri applicativi e i successivi adeguamenti sono approvati con decreto del Ministro del lavoro e della previdenza sociale su delibera del consiglio di amministrazione dell'INAIL. In sede di prima attuazione il decreto ministeriale e' emanato entro trenta giorni dalla data di entrata in vigore del presente decreto legislativo.
 
 Entro dieci anni dalla data dell'infortunio, o quindici anni se trattasi di malattia professionale, qualora le condizioni dell'assicurato, dichiarato guarito senza postumi d'invalidita' permanente o con postumi che non raggiungono il minimo per l'indennizzabilita' in capitale o per l'indennizzabilita' in rendita, dovessero aggravarsi in conseguenza dell'infortunio o della malattia professionale in misura da raggiungere l'indennizzabilita' in capitale o in rendita, l'assicurato stesso puo' chiedere all'istituto assicuratore la liquidazione del capitale o della rendita, formulando la domanda nei modi e nei termini stabiliti per la revisione della rendita in caso di aggravamento. L'importo della rendita e' decurtato dell'importo dell'eventuale indennizzo in capitale gia' corrisposto.
@@ -222,9 +272,52 @@ Il Casellario e' titolare della banca dati, relativa agli infortuni professional
 
 ## Art. 16. — Compiti del Casellario
 
+1.
+                        
+                            
+                                Il Casellario svolge i seguenti compiti:
+ 
+                            
+                            
+                                a)
+                                
+                                    archiviare, conservare, comunicare agli utenti dati, relativi a casi d'infortunio professionale e non professionale e di malattia professionale, i quali importino invalidita' permanente o morte, anche a prescindere da uno specifico evento lesivo;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    elaborare i dati, mediante procedure informatiche, che consentano l'ottimizzazione della loro utilizzazione anche in forma aggregata da parte dei soggetti autorizzati;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    favorire l'integrazione ed il raccordo della propria banca dati con altre analoghe a livello nazionale e sovranazionale, nonche' con quelle a carattere previdenziale.
+
 Puo', altresi', fornire dati in forma aggregata per indagini conoscitive alle istituzioni pubbliche e private di studi e ricerche.
 
 ## Art. 17. — Utenti del Casellario
+
+1.
+                        
+                            
+                                Sono autorizzati all'accesso alle informazioni contenute nella banca dati:
+ 
+                            
+                            
+                                a)
+                                
+                                    gli istituti che esercitano l'assicurazione obbligatoria contro gli infortuni sul lavoro;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    gli enti che esercitano, congiuntamente o disgiuntamente, l'assicurazione contro i rischi di infortunio e l'assicurazione conto i rischi derivanti dalla circolazione di automezzi, soggetti al controllo dell'Istituto per la vigilanza sulle assicurazioni private e di interesse collettivo (ISVAP).
 
 ## Art. 18. — Obblighi e diritti degli utenti
 
@@ -239,6 +332,202 @@ Gli utenti rispondono in proprio, ai sensi della legge 31 dicembre 1996, n. 675,
 Per consentire l'adeguamento delle strutture organizzative ed informative, l'obbligo di cui al comma 1 relativo agli enti che esercitano l'assicurazione contro i rischi derivanti dalla circolazione di automezzi decorre a partire dall'anno successivo alla data di entrata in vigore del regolamento di esecuzione di cui all'articolo 22.
 
 ## Art. 19. — Organi del Casellario
+
+1.
+                        
+                            
+                                Gli organi del Casellario sono:
+ 
+                            
+                            
+                                a)
+                                
+                                    comitato di gestione;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    presidente;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il dirigente responsabile del casellario.
+
+2.
+                        
+                            
+                                Il comitato di gestione, di seguito denominato comitato, e' composto da:
+ 
+                            
+                            
+                                a)
+                                
+                                    un rappresentante del Ministero del lavoro e della previdenza sociale, con funzioni di presidente;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    un rappresentante dell'INAIL;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    un rappresentante dell'Istituto di previdenza per il settore marittimo (IPSEMA);
+
+                                
+                            
+                            
+                                d)
+                                
+                                    un rappresentante dell'utenza pubblica diverso dall'INAIL;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    un rappresentante dell'Ente nazionale di previdenza e assistenza per gli impiegati dell'agricoltura (ENPAIA);
+
+                                
+                            
+                            
+                                f)
+                                
+                                    un rappresentante delle imprese di assicurazione designato dall'Associazione nazionale tra le imprese assicuratrici (A.N.I.A.);
+
+                                
+                            
+                            
+                                g)
+                                
+                                    il dirigente responsabile del Casellario, designato dall'INAIL;
+
+                                
+                            
+                            
+                                h)
+                                
+                                    due esperti, uno in materia di assicurazione e uno in materia di discipline statistiche, designati dal Ministro del lavoro e della previdenza sociale.
+ Su delibera del comitato di gestione approvata con decreto del Ministro del lavoro e della previdenza sociale puo' essere variata la composizione del comitato medesimo in funzione delle esigenze emergenti.
+
+3.
+                        
+                            
+                                I membri, nominati con decreto del Ministro del lavoro e della previdenza sociale, durano in carica quattro anni e possono essere confermati per una sola volta. Il comitato e' validamente costituito con la presenza della meta' piu' uno dei componenti. Le deliberazioni sono assunte a maggioranza assoluta. Il comitato svolge i seguenti compiti:
+ 
+                            
+                            
+                                a)
+                                
+                                    stabilisce le modalita' per l'acquisizione e la gestione dei dati;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    determina le linee generali e i criteri di massima per la gestione del servizio;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    delibera il regolamento di esecuzione di cui all'articolo 22;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    determina i contributi dovuti dagli utenti, in base alla spesa effettivamente sostenuta;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    sovrintende in genere al funzionamento ed alla gestione del Casellario, adottando i necessari provvedimenti;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    delibera, annualmente, il bilancio di previsione e il conto consuntivo della gestione e lo sottopone al consiglio di amministrazione dell'INAIL.
+
+4.
+                        
+                            
+                                Il presidente:
+ 
+                            
+                            
+                                a)
+                                
+                                    ha la rappresentanza legale del Casellario;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    assume i provvedimenti di carattere indilazionabile, sottoponendoli a ratifica del comitato nella prima riunione utile.
+
+5.
+                        
+                            
+                                Il dirigente responsabile del Casellario:
+ 
+                            
+                            
+                                a)
+                                
+                                    cura l'esecuzione delle deliberazioni del comitato;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    dirige i servizi e, sulla base delle deliberazioni del comitato, organizza il funzionamento di essi;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    segnala al comitato i casi di inadempienza da parte degli utenti;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    firma gli atti di gestione in conformita' alla disciplina di cui al decreto legislativo 3 febbraio 1993, n. 29, e successive modificazioni e integrazioni, nonche' gli altri la cui firma sia a lui delegata dal presidente;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    esercita in genere tutte le attribuzioni a lui demandate dal comitato;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    svolge una funzione di collegamento con le strutture competenti dell'INAIL, in ordine all'acquisizione e gestione delle risorse ed alla regolazione dei flussi finanziari nell'ambito del bilancio dell'INAIL.
 
 ## Art. 20. — S a n z i o n i
 
@@ -260,7 +549,58 @@ Sono abrogate le disposizioni incompatibili con le norme di cui al presente capo
 
 ## Art. 23. — Programmi e progetti in materia di sicurezza e igiene del lavoro
 
+1.
+                        
+                            
+                                E' istituito, in via sperimentale, per il triennio 1999-2001, in
+seno alla contabilita' generale dell'INAIL, apposita evidenza finalizzata, nel limite consentito dalla normativa comunitaria, ad interventi di sostegno di:
+ 
+                            
+                            
+                                a)
+                                
+                                    programmi di adeguamento delle strutture e dell'organizzazione alle normative di sicurezza e igiene del lavoro delle piccole e medie imprese e dei settori agricolo e artigianale, in attuazione del decreto legislativo 19 settembre 1994, n. 626, e successive modificazioni;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    progetti per favorire l'applicazione degli articoli 21 e 22 del decreto legislativo 19 settembre 1994, n. 626, e successive modificazioni, anche tramite la produzione di strumenti e prodotti informatici, multimediali, grafico visivi e banche dati, da rendere disponibili per chiunque in forma gratuita o a costo di produzione.
+
 Per il finanziamento degli interventi di cui al comma 1, con decreto del Ministro del lavoro e della previdenza sociale, di concerto con il Ministro del tesoro, del bilancio e della programmazione economica, sono determinate, in misura percentuale, sulla base delle risultanze del bilancio, le risorse economiche da conferire nei limiti di complessivi 600 miliardi di lire.
+
+3.
+                        
+                            
+                                Nell'ambito dei poteri programmatori, l'INAIL determina:
+ 
+                            
+                            
+                                a)
+                                
+                                    i criteri di priorita' per l'ammissione dei progetti, avendo particolare riguardo all'ambito lavorativo in cui risulta piu' accentuato il fenomeno infortunistico;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le modalita' per la formulazione dei progetti;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    i termini di presentazione dei progetti;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    l'entita' delle risorse da destinare annualmente alle finalita' di cui al comma 1 con particolare riguardo ai programmi di adeguamento delle strutture e dell'organizzazione alla normativa in materia di sicurezza e di igiene sul lavoro.
 
 La determinazione di cui al comma 3 e' sottoposta all'approvazione del Ministro del lavoro e della previdenza sociale.
 

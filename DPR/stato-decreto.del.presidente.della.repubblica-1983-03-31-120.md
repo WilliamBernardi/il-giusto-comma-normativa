@@ -8,8 +8,8 @@ codice_redazionale: 083U0120
 vigente: true
 source: normattiva-opendata
 collection: DPR
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:47:50Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -49,6 +49,23 @@ Con decorrenza 1 maggio 1983 alle "Condizioni e tariffe per i trasporti delle pe
 ## Art. 2.
 
 Con decorrenza 1 luglio 1983 alle "Condizioni e tariffe per i trasporti delle persone sulle ferrovie dello Stato" sono apportate le seguenti modificazioni:
+
+1.
+                    
+                        
+                            - 
+                        
+                        
+                            a)
+                            
+                                dopo il capo XV-ter, e' inserito il capo XV-quater: "Carta per l'acquisto di biglietti a prezzo ridotto a favore dei gruppi familiari" nel testo figurante nell'allegato n. 9 al presente decreto; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                nella parte "Tariffe-Prezzi" e' inserita la tariffa n. 27 per carte per l'acquisto di biglietti a prezzo ridotto a favore dei gruppi familiari nel testo figurante nell'allegato n. 9 al presente decreto;
 
 - il comma sub b) dell'articolo 36 par. 1 e' soppresso.
 

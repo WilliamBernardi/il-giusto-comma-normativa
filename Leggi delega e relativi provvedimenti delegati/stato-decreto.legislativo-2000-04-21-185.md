@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Leggi delega e relativi provvedimenti delegati
 vigenza_date: 2022-01-01
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:41:18Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -42,6 +42,38 @@ Ai soggetti ammessi alle agevolazioni di cui al presente Capo sono concedibili m
 I mutui di cui al comma 1 possono essere assistiti dalle garanzie previste dal codice civile e da privilegio speciale, acquisibili nell'ambito degli investimenti da realizzare.
 
 ## Art. 3. — Soggetti beneficiari
+
+1.
+                        
+                            
+                                Possono beneficiare delle agevolazioni di cui al presente Capo le imprese: 
+ 
+                            
+                            
+                                a)
+                                
+                                    costituite da non piu' di ((sessanta mesi)) alla data di presentazione della domanda di agevolazione; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    di micro e piccola dimensione, secondo la classificazione contenuta nell'Allegato 1 al regolamento (CE) n. 800/2008 della Commissione del 6 agosto 2008; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    costituite in forma societaria; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    in cui la compagine societaria sia composta, per oltre la meta' numerica dei soci e di quote partecipazione, da soggetti di eta' compresa tra i 18 ed i 35 anni ovvero da donne.
 
 ## Art. 4. — Progetti finanziabili
 
@@ -109,6 +141,24 @@ medesimo.
 
 Possono beneficiare delle agevolazioni di cui al presente capo le imprese, in qualsiasi forma costituite, che subentrino nella conduzione di un'intera azienda agricola, esercitante esclusivamente l'attivita' agricola ai sensi dell'articolo 2135 del codice civile da almeno due anni alla data di presentazione della domanda di agevolazione, e presentino progetti per lo sviluppo o il consolidamento dell'azienda agricola attraverso iniziative nel settore agricolo e in quello della trasformazione e commercializzazione di prodotti agricoli.
 
+2.
+                        
+                            
+                                Le imprese subentranti devono essere in possesso dei seguenti requisiti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    siano costituite da non piu' di sei mesi alla data di presentazione della domanda di agevolazione; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    esercitino esclusivamente l'attivita' agricola ai sensi dell'articolo 2135 del codice civile;
+
 Possono altresi' beneficiare delle agevolazioni di cui al presente capo le imprese che presentino progetti per lo sviluppo o il consolidamento di iniziative nei settori della produzione e della trasformazione e commercializzazione di prodotti agricoli, attive da almeno due anni alla data di presentazione della domanda di agevolazione. Tali imprese devono essere in possesso dei requisiti di cui al comma 2, lettere b) e c).
 
 ## Art. 10-ter. — (( (Progetti finanziabili).))
@@ -141,11 +191,54 @@ Possono essere finanziate, nei limiti delle risorse di cui all'articolo 10-quate
 
 Le disposizioni del presente titolo sono dirette a favorire la diffusione di forme di autoimpiego attraverso strumenti di promozione del lavoro autonomo e dell'autoimprenditorialita'.
 
+2.
+                        
+                            
+                                Le disposizioni sono dirette, in particolare:
+ 
+                            
+                            
+                                a)
+                                
+                                    a favorire l'inserimento nel mondo del lavoro di soggetti privi di occupazione;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    a qualificare la professionalita' dei soggetti beneficiari e promuovere la cultura d'impresa.
+
 ## Art. 14. — Ambito territoriale di applicazione
 
 Le misure incentivanti di cui al presente Titolo sono applicabili nei territori di cui ai nuovi obiettivi 1 e 2 dei programmi comunitari, nelle aree ammesse alla deroga di cui all'articolo 87 (gia' articolo 92), paragrafo 3, lettera c), del Trattato di Roma, come modificato dal Trattato di Amsterdam, nonche' nelle aree svantaggiate di cui al decreto del Ministro del lavoro e della previdenza sociale 14 marzo 1995, pubblicato nella Gazzetta Ufficiale del 15 giugno 1995, n. 138, e successive modificazioni.
 
 ## Art. 15. — Benefici
+
+1.
+                        
+                            
+                                Ai soggetti ammessi alle agevolazioni sono concedibili i seguenti benefici:
+ 
+                            
+                            
+                                a)
+                                
+                                    contributi a fondo perduto e mutui agevolati per gli investimenti, secondo i limiti fissati dall'Unione europea;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    contributi a fondo perduto in conto gestione, secondo i limiti fissati dall'Unione europea;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    assistenza tecnica in fase di realizzazione degli investimenti e di avvio delle iniziative.
 
 I benefici finanziari di cui al comma 1 sono concessi entro il limite del de minimis individuato in base alle vigenti disposizioni comunitarie.
 
@@ -159,6 +252,52 @@ I benefici finanziari di cui al comma 1 sono concessi entro il limite del de min
 
 Al fine di favorire la creazione di lavoro autonomo, possono essere ammessi ai benefici di cui all'articolo 15 i soggetti maggiorenni, privi di occupazione ((alla)) data di presentazione della richiesta di ammissione e residenti, alla data del 1° gennaio 2000 ((ovvero da almeno sei mesi, all'atto della presentazione della domanda,)) nei comuni ricadenti, anche in parte, nei territori di cui all'articolo 14, che presentino progetti relativi all'avvio di attivita' autonome nei settori di cui all'articolo 18, comma 1.
 
+2.
+                        
+                            
+                                Ai fini della disposizione di cui al comma 1, non sono considerati soggetti privi di occupazione:
+ 
+                            
+                            
+                                a)
+                                
+                                    i titolari di contratti di lavoro dipendente a tempo determinato e indeterminato ed anche a tempo parziale;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    i titolari di contratti di collaborazione coordinata e continuativa;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    i soggetti che esercitano una libera professione;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    i titolari di partita IVA;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    gli imprenditori, familiari e coadiutori di imprenditori;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    gli artigiani.
+
 Le iniziative agevolate devono avere sede amministrativa ed operativa nei territori di cui all'articolo 14.
 
 ## Art. 18. — Progetti finanziabili
@@ -166,6 +305,24 @@ Le iniziative agevolate devono avere sede amministrativa ed operativa nei territ
 Possono essere finanziate, secondo i criteri e gli indirizzi stabiliti dal CIPE e nei limiti posti dalla Unione europea, le iniziative nei settori della produzione di beni, della fornitura di servizi e del commercio e la cui realizzazione avvenga in forma di ditta individuale.
 
 ((1-bis. Sono esclusi dal finanziamento i progetti che si riferiscono a settori esclusi o sospesi dal CIPE, con propria delibera, sentita la Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome di Trento e di Bolzano, o da disposizioni comunitarie))
+
+2.
+                        
+                            
+                                Sono escluse dal finanziamento le iniziative che:
+ 
+                            
+                            
+                                a)
+                                
+                                    prevedono investimenti superiori a lire 50 milioni al netto dell'IVA;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    si riferiscono a settori esclusi o sospesi dal CIPE o da disposizioni comunitarie.
 
 ## - Capo II Misure in favore dell'autoimpiego in forma di microimpresa
 
@@ -180,6 +337,24 @@ La presente disposizione non si applica alle ditte individuali, alle societa' di
 ## Art. 20. — Progetti finanziabili
 
 Possono essere finanziate, secondo i criteri e gli indirizzi stabiliti dal CIPE e nei limiti posti dalla Unione europea, le iniziative relative ai settori della produzione di beni e della fornitura di servizi.
+
+2.
+                        
+                            
+                                Sono escluse dal finanziamento le iniziative che:
+ 
+                            
+                            
+                                a)
+                                
+                                    prevedono investimenti complessivamente superiori a lire 250 milioni al netto dell'IVA;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    si riferiscono ai settori della produzione di beni in agricoltura, del commercio, nonche' ai settori esclusi o sospesi dal CIPE o da disposizioni comunitarie.
 
 ## - Capo III Misure in favore dell'autoimpiego in franchising
 
@@ -238,4 +413,85 @@ Il CIPE puo' destinare con proprie delibere dotazioni ulteriori al Fondo di cui 
 Il Ministro del tesoro, del bilancio e della programmazione economica presenta annualmente al Parlamento una relazione sull'attuazione delle misure incentivanti previste dal presente decreto.
 
 ## Art. 27. — Disposizioni transitorie
+
+1.
+                        
+                            
+                                In attesa dell'emanazione dei regolamenti di cui all'articolo 24, continuano a trovare applicazione i seguenti regolamenti:
+ 
+                            
+                            
+                                a)
+                                
+                                    
+                                        decreto del Ministro del tesoro, del bilancio e della programmazione economica 18 febbraio 1998, n. 306, per le misure previste al titolo I, capo I, del presente decreto;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    decreto del Ministro del bilancio e della programmazione economica 11 maggio 1995, pubblicato nella Gazzetta Ufficiale n. 184 dell'8 agosto 1995, per le misure previste al titolo I, capo II, del presente decreto;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    
+                                        decreto del Ministro del tesoro, del bilancio e della programmazione economica 19 marzo 1999, n. 147, per le misure previste al titolo I, capo III, del presente decreto;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    decreto del direttore generale del Tesoro 28 ottobre 1999, pubblicato nella Gazzetta Ufficiale n. 288 del 9 dicembre 1999, per le misure previste al titolo I, capo IV, del presente decreto;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    
+                                        decreto del Ministro del tesoro 8 novembre 1996, n. 591, e decreto del Ministro del tesoro, del bilancio e della programmazione economica 1° febbraio 1999, n. 222, per le misure previste al titolo II, capo I, del presente decreto.
+
+2.
+                        
+                            
+                                Dalla data di entrata in vigore dei regolamenti di cui al comma 1, sono abrogati:
+ 
+                            
+                            
+                                a)
+                                
+                                    l'articolo 1 del decreto-legge 31 gennaio 1995, n. 26, convertito, con modificazioni, dalla legge 29 marzo 1995, n. 95;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'articolo 1-bis del decreto-legge 20 maggio 1993, n. 148, convertito, con modificazioni, dalla legge 19 luglio 1993, n. 236;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    l'articolo 3, comma 9, del decreto-legge 25 marzo 1997, n. 67, convertito, con modificazioni, dalla legge 23 maggio 1997, n. 135;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    l'articolo 51 della legge 23 dicembre 1998, n. 448;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    l'articolo 9-septies del decreto-legge 1° ottobre 1996, n. 510, convertito, con modificazioni, dalla legge 28 novembre 1996, n. 608.
 

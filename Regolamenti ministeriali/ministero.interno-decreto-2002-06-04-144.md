@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
 vigenza_date: 2017-06-27
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:38Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -39,6 +39,45 @@ Il bando di concorso e' emanato con decreto del ((Capo del Dipartimento per le p
 La determinazione del numero dei posti messi a concorso puo' essere effettuata anche sulla base dei posti che si renderanno disponibili entro l'anno in cui e' indetto il concorso e nel biennio successivo.
 
 ## Art. 2. — Requisiti di ammissione al concorso
+
+1.
+                        
+                            
+                                Per l'ammissione al concorso pubblico di accesso alla qualifica iniziale della carriera prefettizia, i candidati debbono risultare in possesso, alla data di scadenza del termine stabilito per la presentazione delle domande, dei seguenti requisiti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    cittadinanza italiana; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    eta' non superiore a quella stabilita dal regolamento adottato, ai sensi del comma 6 dell'articolo 3 della legge 15 maggio 1997, n. 127, con decreto ministeriale del 23 luglio 1999, n. 357; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    qualita' morali e di condotta di cui all'articolo 26 della legge 1 febbraio 1989, n. 53; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    godimento dei diritti politici; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    idoneita' fisica all'impiego; a tale fine l'Amministrazione puo' sottoporre a visita medica i candidati in qualsiasi momento;
 
 I titoli di studio conseguiti all'estero presso universita' e istituti di istruzione universitaria sono considerati validi se sono stati dichiarati equipollenti a titoli universitari italiani e riconosciuti ai sensi della vigente normativa in materia.
 
@@ -116,6 +155,31 @@ L'elenco dei candidati ammessi a sostenere le prove scritte e' pubblicato nella 
 ## - Capo III Svolgimento delle prove concorsuali
 
 ## Art. 11. — Prove scritte
+
+1.
+                        
+                            
+                                Le prove scritte consistono:
+ 
+                            
+                            
+                                a)
+                                
+                                    nello svolgimento di tre elaborati, rispettivamente, su diritto amministrativo e/o diritto costituzionale, diritto civile, storia contemporanea ((...)) e della pubblica amministrazione italiana;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    nella risoluzione di un caso in ambito giuridico-amministrativo o gestionale-organizzativo, al fine di verificare l'attitudine del candidato all'analisi e alla soluzione di problemi inerenti alle funzioni dirigenziali;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    nella traduzione, con l'uso del vocabolario, di un testo o nella risposta ad un quesito nella lingua inglese o francese, a scelta del candidato.
 
 La durata delle prove scritte di cui al precedente comma 1, e' stabilita in otto ore per quelle sub a), in sette ore per quella sub b) e in quattro ore per quella sub c).
 

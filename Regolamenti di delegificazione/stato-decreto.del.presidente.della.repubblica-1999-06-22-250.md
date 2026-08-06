@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Regolamenti di delegificazione
 vigenza_date: 2020-09-15
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:40:24Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -32,6 +32,24 @@ Sulla proposta del Presidente del Consiglio dei Ministri, di concerto con il Min
 
 Ai fini dell'installazione ed esercizio di impianti per la rilevazione degli accessi di veicoli a centri storici o nelle zone di traffico limitato ai sensi dell'articolo 17, comma 133-bis, della legge 15 maggio 1997, n. 127, introdotto dall'art. 2, comma 33, della legge 16 giugno 1998, n. 191, i comuni richiedono l'autorizzazione al Ministero dei lavori pubblici, Ispettorato generale per la circolazione e la sicurezza stradale.
 
+2.
+                    
+                        
+                            La domanda deve contenere: 
+ 
+                        
+                        
+                            a)
+                            
+                                una relazione sulle caratteristiche tecnico funzionali degli impianti e delle loro prestazioni, con l'indicazione degli estremi di omologazione o di approvazione e gli eventuali elaborati, grafici, fotografici, informatici o di altro genere che il comune intende allegare; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                l'indicazione degli obiettivi che il comune persegue e delle modalita' di utilizzazione degli impianti ai sensi degli articoli 3, 5 e 6.
+
 L'autorizzazione di cui al comma 1 e' rilasciata entro il termine di novanta giorni dalla data di ricevimento dell'istanza, previa verifica dell'omologazione o dell'approvazione delle apparecchiature utilizzate nell'impianto di rilevazione e delle compatibilita' con gli obiettivi indicati dal comune.
 
 In caso di mancata conclusione del procedimento entro il termine di cui al comma 3, l'esercizio degli impianti si intende autorizzato, salva la facolta' del Ministero dei lavori pubblici, Ispettorato generale per la circolazione e la sicurezza stradale, di verificare la sussistenza dei requisiti richiesti per l'autorizzazione e di disporre, se del caso, con provvedimento motivato, la cessazione dell'esercizio degli impianti. 
@@ -43,6 +61,39 @@ In caso di mancata conclusione del procedimento entro il termine di cui al comma
  Il D.L. 16 luglio 2020, n. 76, convertito con modificazioni dalla L. 11 settembre 2020, n. 120, ha disposto (con l'art. 49, comma 5-sexies) che "Il regolamento di cui al decreto del Presidente della Repubblica 22 giugno 1999, n. 250, e' abrogato con effetto dalla data di entrata in vigore del decreto del Ministro delle infrastrutture e dei trasporti da adottare ai sensi dell'articolo 201, comma 1-bis, lettera g), del decreto legislativo 30 aprile 1992, n. 285".
 
 ## Art. 2. — Definizioni
+
+1.
+                    
+                        
+                            Ai fini del presente regolamento si intende per: 
+ 
+                        
+                        
+                            a)
+                            
+                                "codice della strada" il decreto legislativo 30 aprile 1992, n. 285, e successive modificazioni, recante Nuovo codice della strada e per "regolamento di attuazione del codice della strada" il regolamento di esecuzione e di attuazione del Nuovo codice della strada, approvato con decreto del Presidente della Repubblica 16 dicembre 1992, n. 495, e successive modificazioni; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                "Organi di polizia stradale" gli Organi di cui all'articolo 12 del codice della strada; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                "centro storico" la parte del centro abitato individuato in base alle zone definite A) ai sensi dell'articolo 2 del decreto del Ministro dei lavori pubblici 2 aprile 1968, n. 1444; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                "zone a traffico limitato" le zone delimitate rispettivamente ai sensi dell'articolo 3, comma 1, n. 54, e dell'articolo 7, comma 9, del codice della strada. 
+ ((1))
 
 -------------
                         AGGIORNAMENTO (1)

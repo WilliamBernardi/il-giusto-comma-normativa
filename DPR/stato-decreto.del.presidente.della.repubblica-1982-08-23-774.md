@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: DPR
 vigenza_date: 2000-09-13
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:47:46Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -57,6 +57,32 @@ Il Ministro della sanita' puo' autorizzare con proprio decreto, sentito il Consi
 ## Art. 5. — (( (Etichettatura). ))
 
 ((
+
+1.
+                    
+                        
+                            Agli estratti di caffe' ed agli estratti di cicoria si applicano le disposizioni del decreto legislativo 27 gennaio 1992, n. 109, e successive modificazioni. Tuttavia:
+ 
+                        
+                        
+                            a)
+                            
+                                la denominazione di vendita e' completata dalla dicitura:
+ 1) "in pasta o "in forma pastosa per i prodotti di cui all'allegato I, punto 1, lettera b) e all'allegato II, punto 1, lettera b);
+ 2) "liquido o "in forma liquida per i prodotti di cui all'allegato I, punto 1, lettera c) e all'allegato II, punto 1, lettera c);
+
+                            
+                        
+                        
+                            b)
+                            
+                                la denominazione di vendita puo' essere completata dal termine "concentrato nei casi seguenti:
+ 1) per l'estratto di caffe' liquido se il tenore di sostanza secca ottenuta dal caffe' e' superiore al venticinque per cento in peso;
+ 2) per l'estratto di cicoria liquido se il tenore di sostanza secca ottenuta dalla cicoria e' superiore al 45 per cento in peso;
+ c) nell'etichettatura devono figurare nello stesso campo visivo della denominazione di vendita le diciture:
+ 1) "decaffeinato per gli estratti di caffe' di cui all'articolo 1 aventi un tenore di caffeina anidra non superiore, in peso, allo 0,3 per cento della sostanza secca ottenuta dal caffe';
+ 2) "con o "conservato con o "con aggiunta di o "torrefatto con seguita dal tipo o dai tipi di zucchero utilizzato per gli estratti di caffe' e per gli estratti di cicoria liquidi;
+ d) i prodotti in pasta e quelli liquidi devono riportare il tenore minimo di sostanza secca, ottenuta rispettivamente dal caffe' o dalla cicoria, espresso in percentuale di peso del prodotto finito.
 
 ))
 

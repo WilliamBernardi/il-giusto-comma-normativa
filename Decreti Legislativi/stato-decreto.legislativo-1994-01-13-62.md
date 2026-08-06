@@ -8,8 +8,8 @@ codice_redazionale: 094G0075
 vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:29Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -45,6 +45,24 @@ La societa' puo' svolgere ulteriori attivita', anche in favore di terzi, con par
 
 Entro sessanta giorni dalla data di entrata in vigore del presente decreto, il Ministro dei lavori pubblici provvede a trasferire alla societa' i compiti di cui all'art. 1 gia' oggetto delle convenzioni assentite in favore del consorzio Venezia Nuova.
 
+2.
+                    
+                        
+                            Entro lo stesso termine il Ministro dei lavori pubblici provvede a ridefinire la concessione di cui all'art. 3 della legge 29 novembre 1984, n. 798, e la relativa convenzione quadro 4 ottobre 1991, n. 7191, al fine di:
+ 
+                        
+                        
+                            a)
+                            
+                                assicurare il rispetto dei principi dell'art. 3, commi 3 e 4, della legge 5 febbraio 1992, n. 139;
+
+                            
+                        
+                        
+                            b)
+                            
+                                stabilire che nelle convenzioni attuative del piano generale degli interventi di cui al comma 1 dell'art. 3 della legge 5 febbraio 1992, n. 139, siano previste, in conformita' alla normativa comunitaria e nazionale, esclusivamente la progettazione esecutiva, la sperimentazione e la realizzazione delle opere per la regolazione delle maree e di quelle ad esse strettamente connesse, riservando al Magistrato alle acque l'espletamento, ai sensi della normativa nazionale e comunitaria, delle gare per l'affidamento delle altre opere di competenza dello Stato.
+
 ## Art. 5.
 
 Con appositi decreti il Ministro delle finanze, di concerto con il Ministro dei lavori pubblici, assegna alla societa' in uso gratuito i beni, le attrezzature e dati afferenti al centro sperimentale per modelli idraulici di Voltabarozzo.
@@ -60,6 +78,24 @@ La societa' ha sede in Venezia e svolge la sua attivita' secondo gli indirizzi i
 Il presidente della societa' e' nominato dall'assemblea su designazione del Ministro dei lavori pubblici. In sede di prima attuazione il consiglio di amministrazione e il presidente sono nominati con l'atto costitutivo della societa'.
 
 ## Art. 7.
+
+1.
+                    
+                        
+                            Entro sessanta giorni dalla data di entrata in vigore del presente decreto, il Ministro dei lavori pubblici, d'intesa con il Ministro del tesoro, provvede a:
+ 
+                        
+                        
+                            a)
+                            
+                                trasferire alla societa' i finanziamenti assegnati al consorzio Venezia Nuova per l'importo corrispondente alle attivita' di cui all'art. 1;
+
+                            
+                        
+                        
+                            b)
+                            
+                                individuare, di intesa con lo stesso consorzio, i beni di esclusiva proprieta' del consorzio Venezia Nuova da destinarsi alla societa' il cui valore verra' determinato in base a perizia e corrisposto utilizzando quota parte dei finanziamenti disponibili ai sensi dell'art. 2, comma 1, della legge 5 febbraio 1992, n. 139.
 
 ## Art. 8.
 

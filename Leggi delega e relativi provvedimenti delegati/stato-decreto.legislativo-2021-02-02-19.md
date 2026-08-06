@@ -8,8 +8,8 @@ vigente: true
 source: normattiva-opendata
 collection: Leggi delega e relativi provvedimenti delegati
 vigenza_date: 2026-01-25
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:41:19Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -39,6 +39,38 @@ La protezione delle piante, in relazione alle attivita' per determinare i rischi
 
 ## Art. 2. — Definizioni
 
+1.
+                        
+                            
+                                Ai fini del presente decreto si applicano le definizioni di cui ai regolamenti (UE) 2016/2031 e 2017/625 e, inoltre, si intende per: 
+ 
+                            
+                            
+                                a)
+                                
+                                    campo di produzione: appezzamento di terreno, dipendente da un centro aziendale e privo di strutture stabili, in cui avviene la produzione, anche temporanea; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    centro aziendale o sito: luogo operativo stabilmente costituito, provvisto di strutture come uffici, serre, magazzini, capannoni, attraverso le quali l'operatore professionale svolge le attivita' di cui all'articolo 65, paragrafo 1, del regolamento (UE) 2016/2031, al quale afferiscono i campi di produzione; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    ordinanza fitosanitaria: ordinanza adottata per motivi di necessita' e urgenza dal direttore del Servizio fitosanitario centrale, ai sensi dell'articolo 5, comma 4, lettera f); 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    diritti obbligatori: importi a copertura dei costi dei controlli ufficiali e di altre attivita' ufficiali stabiliti ai sensi dell'articolo 80 del regolamento (UE) 2017/625.
+
 ## Art. 3.
 
 Attivita' di protezione delle piante
@@ -48,6 +80,69 @@ Sono attivita' di protezione delle piante quelle volte alla previsione, prevenzi
 La previsione consiste nell'insieme delle attivita', svolte anche con il concorso di soggetti dotati di competenza scientifica, tecnica e amministrativa, dirette all'identificazione e allo studio del rischio fitosanitario, per le esigenze di informazione del Servizio fitosanitario nazionale e di pianificazione delle azioni di protezione delle piante.
 
 La prevenzione e la mitigazione consistono nell'insieme delle attivita' di natura strutturale e non strutturale, dirette a evitare o a ridurre la possibilita' che si verifichino danni connessi a organismi nocivi delle piante, anche sulla base delle conoscenze acquisite per effetto delle attivita' di previsione e di una appropriata valutazione del rischio.
+
+4.
+                        
+                            
+                                Sono attivita' di prevenzione e di mitigazione quelle concernenti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    l'acquisizione di informazioni da parte del Servizio fitosanitario nazionale, sulla base delle conoscenze disponibili, dei risultati delle indagini, della sorveglianza in tempo reale del territorio e della conseguente evoluzione degli scenari di rischio; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la formazione e l'aggiornamento del personale del Servizio fitosanitario nazionale; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    l'applicazione dei regolamenti (UE) 2016/2031 e 2017/625 relativi al regime fitosanitario dell'Unione, compresi: 
+ 1) i controlli ai punti di entrata; 
+ 2) la sorveglianza del territorio; 
+ 3) i controlli alle produzioni; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    lo sviluppo di sistemi di certificazione dei materiali di moltiplicazione; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    la diffusione della conoscenza della protezione delle piante, anche con il coinvolgimento delle istituzioni scolastiche, allo scopo di promuovere l'adozione di comportamenti consapevoli e misure di autoprotezione da parte dei cittadini; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    la comunicazione alla popolazione dei rischi connessi agli organismi nocivi delle piante e delle relative norme di comportamento; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    la promozione e l'organizzazione di simulazioni ed altre attivita' addestrative e formative, in applicazione dell'articolo 26 del regolamento (UE) 2016/2031; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    l'elaborazione dei piani di emergenza per la prevenzione dei rischi connessi agli organismi nocivi delle piante di cui all'articolo 26.
 
 La gestione dell'emergenza consiste nell'insieme delle misure e degli interventi diretti ad assicurare l'eradicazione o il contenimento degli organismi nocivi da quarantena e la riduzione del relativo impatto, anche mediante la realizzazione di interventi urgenti ed il ricorso a procedure semplificate, nonche' la relativa attivita' di informazione alla popolazione.
 
@@ -65,7 +160,197 @@ Lo Stato, le regioni e le province autonome di Trento e di Bolzano partecipano a
 
 Il Servizio fitosanitario centrale opera presso il Ministero delle politiche agricole alimentari e forestali e rappresenta l'autorita' unica di coordinamento e vigilanza sull'applicazione delle attivita' di cui all'articolo 3, ai sensi dell'articolo 4 del regolamento (UE) 2017/625, nonche' l'organo di collegamento ai sensi dell'articolo 103 del regolamento (UE) 2017/625 limitatamente alla protezione delle piante.
 
+2.
+                        
+                            
+                                Il Servizio fitosanitario centrale dispone di addetti, adeguatamente qualificati ed esperti, nell'ambito della dotazione organica del Ministero dell'agricoltura, della sovranita' alimentare e delle foreste e del Consiglio per la ricerca in agricoltura e l'analisi dell'economia agraria (CREA), per garantire lo svolgimento dei compiti di cui al comma 4, conformemente alla dotazione di cui all'articolo 17, comma 3, organizzati per Unita' nei seguenti ambiti di competenze: 
+ 
+                            
+                            
+                                a)
+                                
+                                    predisposizione e adozione degli atti del Comitato fitosanitario nazionale e delle attivita' di segreteria; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    funzionamento del Segretariato per le emergenze fitosanitarie; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    coordinamento dei controlli all'importazione; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    coordinamento dei ((controlli relativi alla certificazione e alla commercializzazione)) e gestione della disciplina di fruttiferi, vite, ortive e ornamentali; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    coordinamento dei ((controlli relativi alla certificazione e alla commercializzazione)) e gestione della disciplina delle sementi; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    coordinamento dei controlli all'esportazione e rimozione delle barriere fitosanitarie ((all'esportazione)); 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    formazione, audit e comunicazione; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    adempimenti connessi al settore dei prodotti fitosanitari e al loro uso sostenibile (PAN).
+
 Il direttore del Servizio fitosanitario centrale e' individuato dal Ministero delle politiche agricole alimentari e forestali, nell'ambito del proprio personale con qualifica dirigenziale. Il nominativo del direttore e' comunicato ai Servizi fitosanitari regionali. La sostituzione del direttore deve essere comunicata entro trenta giorni ai Servizi fitosanitari regionali.
+
+4.
+                        
+                            
+                                Nelle materie relative al settore fitosanitario e ferme restando le competenze del Ministero degli affari esteri e della cooperazione internazionale, al Servizio fitosanitario centrale compete: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il coordinamento, la collaborazione e l'interlocuzione con la Commissione europea e con i Servizi fitosanitari dei Paesi membri, con le Organizzazioni per la protezione dei vegetali dei Paesi terzi e con le Organizzazioni internazionali operanti nel settore fitosanitario; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la designazione degli esperti che rappresentano l'Italia presso i Comitati ed i gruppi di lavoro riguardanti la materia fitosanitaria istituiti dalla Unione europea o da Organizzazioni internazionali, previo il parere del Comitato fitosanitario nazionale; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    le comunicazioni ufficiali inerenti alla Convenzione internazionale per la protezione delle piante (CIPP) firmata a Roma il 6 dicembre 1951, ratificata e resa esecutiva ai sensi della legge 9 marzo 1955, n. 471, nonche' all'Organizzazione europea e mediterranea per la protezione delle piante (OEPPO), alla Commissione europea e agli altri Stati membri; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    il coordinamento e il funzionamento del Comitato fitosanitario nazionale di cui all'articolo 7; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    l'adozione di provvedimenti di protezione delle piante, inclusi gli standard tecnici e le procedure operative, nonche' di prescrizioni piu' severe, ai sensi dell'articolo 31 del regolamento (UE) 2016/2031, previo parere del Comitato fitosanitario nazionale; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    l'adozione delle ordinanze fitosanitarie, in conformita' agli atti approvati ai sensi dell'articolo 7, comma 3, lettera c); 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    l'adozione del Programma nazionale di indagine degli organismi nocivi di cui all'articolo 27, del Piano nazionale dei controlli fitosanitari di cui all'articolo 47, dei piani di emergenza e di azione nazionali di cui agli articoli 26 e 31, previo il parere del Comitato fitosanitario nazionale; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    la raccolta di dati relativi alla presenza ed alla diffusione sul territorio nazionale di organismi nocivi ai vegetali e ai prodotti vegetali, nonche' la predisposizione e la relativa divulgazione delle relazioni annuali; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    l'ufficializzazione dello stato fitosanitario degli organismi nocivi (pest status nazionale) previo il parere del Comitato fitosanitario nazionale; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    la designazione dei posti di controllo frontalieri e dei centri di ispezione, su parere del Comitato fitosanitario nazionale; 
+
+                                
+                            
+                            
+                                m)
+                                
+                                    la designazione delle stazioni da quarantena e delle strutture di confinamento, ai sensi dell'articolo 60 del regolamento (UE) 2016/2031, previa istruttoria del Servizio fitosanitario regionale competente per territorio e parere dell'Istituto nazionale di riferimento per la protezione delle piante; 
+
+                                
+                            
+                            
+                                n)
+                                
+                                    la formazione e l'aggiornamento del personale di cui all'articolo 23 operante nel Servizio fitosanitario nazionale, previo parere del Comitato fitosanitario nazionale e la tenuta del registro del personale del Servizio fitosanitario nazionale; 
+
+                                
+                            
+                            
+                                o)
+                                
+                                    la realizzazione del programma di audit, in applicazione dei regolamenti (UE) 2016/2031 e 2017/625, sulle strutture del Servizio fitosanitario nazionale; 
+
+                                
+                            
+                            
+                                p)
+                                
+                                    la definizione delle norme riguardanti la disciplina del logo, degli stemmi, degli emblemi, delle denominazioni e di ogni altro segno distintivo dell'immagine, riferiti al Servizio fitosanitario nazionale, nonche' dei documenti di riconoscimento, delle uniformi, dei dispositivi di protezione personale, delle altre dotazioni, previo il parere del Comitato fitosanitario nazionale; 
+
+                                
+                            
+                            
+                                q)
+                                
+                                    la tenuta dei registri nazionali derivanti dall'applicazione dei regolamenti (UE) 2016/2031 e 2017/625 e la definizione delle modalita' di trasmissione dei relativi dati da parte dei Servizi fitosanitari regionali; 
+
+                                
+                            
+                            
+                                r)
+                                
+                                    la raccolta e la divulgazione delle normative fitosanitarie dei Paesi terzi nonche' delle informazioni tecniche provenienti da organizzazioni comunitarie ed internazionali; 
+
+                                
+                            
+                            
+                                s)
+                                
+                                    il coordinamento dell'elaborazione di disciplinari di difesa e di diserbo, al fine di migliorare lo stato fitosanitario, la qualita' delle produzioni vegetali nonche' la concessione di deroghe alle disposizioni in essi contenute; 
+
+                                
+                            
+                            
+                                t)
+                                
+                                    l'emanazione di misure e il coordinamento delle attivita' per ridurre gli impatti derivanti dall'utilizzo di prodotti fitosanitari ai sensi della direttiva CE 128/2009 del Parlamento europeo e del Consiglio, del 21 ottobre 2009 sull'uso sostenibile dei prodotti fitosanitari e del decreto legislativo 14 agosto 2012, n. 150, di relativo recepimento.
 
 Il Ministero delle politiche agricole alimentari e forestali definisce l'organizzazione del Servizio fitosanitario centrale, per assicurare lo svolgimento dei compiti di cui al comma 4 e delle attivita' di protezione delle piante di cui all'articolo 3, nel rispetto dei requisiti di cui all'articolo 5 del regolamento (UE) 2017/625.
 
@@ -75,11 +360,236 @@ I Servizi fitosanitari regionali operano presso le Amministrazioni delle regioni
 
 I Servizi fitosanitari regionali sono strutture che dispongono di addetti, adeguatamente qualificati ed esperti, per garantire lo svolgimento dei compiti di cui al comma 3, conformemente alla dotazione di cui all'articolo 17, comma 3. Le regioni e le province autonome di Trento e di Bolzano comunicano al Servizio fitosanitario centrale il nominativo del responsabile regionale incaricato per le attivita' di protezione delle piante. Ogni modifica deve essere comunicata entro trenta giorni.
 
+3.
+                        
+                            
+                                Ai Servizi fitosanitari regionali, nel proprio ambito territoriale, competono: 
+ 
+                            
+                            
+                                a)
+                                
+                                    l'applicazione delle normative fitosanitarie nazionali e dell'Unione e delle altre normative per le quali tale funzione gli e' attribuita per espressa disposizione di legge o di regolamento; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'attuazione delle attivita' di protezione delle piante di cui all'articolo 3; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    la partecipazione al Comitato fitosanitario nazionale; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    le registrazioni degli operatori professionali e il rilascio delle autorizzazioni fitosanitarie di cui agli articoli 34 e 37; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    il controllo e la vigilanza ufficiale sullo stato fitosanitario dei vegetali coltivati e spontanei, nonche' dei loro prodotti nelle fasi di produzione, conservazione e commercializzazione, al fine di verificare l'eventuale presenza di organismi nocivi; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    la responsabilita' delle analisi ufficiali fitosanitarie; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    la definizione delle aree delimitate in relazione al rinvenimento di un organismo nocivo da quarantena rilevante per l'Unione europea ai sensi dell'articolo 18 del regolamento (UE) 2016/2031, previo parere del Comitato fitosanitario nazionale; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    l'effettuazione delle indagini nelle aree delimitate ai sensi dell'articolo 19 del regolamento (UE) 2016/2031; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    la redazione dei piani di azione per gli organismi nocivi prioritari, sentito il Comitato fitosanitario nazionale; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    l'accertamento delle violazioni alle normative in materia fitosanitaria e di altre normative per le quali tale funzione gli e' attribuita per espressa disposizione di legge o di regolamento; 
+
+                                
+                            
+                            
+                                m)
+                                
+                                    l'effettuazione dei controlli documentali, d'identita' e fitosanitari inerenti a vegetali, prodotti vegetali ed altri materiali regolamentati provenienti da Paesi terzi; 
+
+                                
+                            
+                            
+                                n)
+                                
+                                    l'attivita' relativa alla certificazione fitosanitaria per i vegetali e prodotti vegetali destinati all'esportazione verso Paesi terzi; 
+
+                                
+                            
+                            
+                                o)
+                                
+                                    la prescrizione, sul territorio di competenza, di tutte le misure ufficiali ritenute necessarie, ivi compresa la distruzione di vegetali e prodotti vegetali ritenuti contaminati o sospetti tali, nonche' degli altri oggetti che possono essere veicolo di diffusione di organismi nocivi ai vegetali, in applicazione delle normative vigenti; 
+
+                                
+                            
+                            
+                                p)
+                                
+                                    la raccolta delle informazioni relative agli organismi nocivi per il territorio di competenza, necessarie alla definizione del pest status nazionale e alla redazione delle relazioni annuali; 
+
+                                
+                            
+                            
+                                q)
+                                
+                                    la realizzazione del programma di audit, in applicazione dei regolamenti (UE) 2016/2031 e 2017/625, sugli organismi delegati nel proprio territorio di competenza all'esecuzione di controlli ufficiali o altre attivita' ufficiali; 
+
+                                
+                            
+                            
+                                r)
+                                
+                                    l'applicazione del Piano nazionale dei controlli fitosanitari di cui all'articolo 47, del Programma nazionale di indagine di cui all'articolo 27, dei provvedimenti di emergenza, nonche' dei piani di emergenza e dei piani di azione nazionali contro gli organismi nocivi; 
+
+                                
+                            
+                            
+                                s)
+                                
+                                    la notifica al Servizio fitosanitario centrale del rinvenimento di organismi nocivi, precedentemente assenti nel territorio di propria competenza; 
+
+                                
+                            
+                            
+                                t)
+                                
+                                    la tenuta per il territorio di competenza dei registri regionali derivanti dall'applicazione della normativa fitosanitaria; 
+
+                                
+                            
+                            
+                                u)
+                                
+                                    la messa a punto, la definizione e la divulgazione di strategie di profilassi e di difesa fitosanitaria; 
+
+                                
+                            
+                            
+                                v)
+                                
+                                    l'effettuazione di attivita' di studio e sperimentazione nel settore fitosanitario, con particolare riferimento ai metodi innovativi di difesa delle piante dalle avversita' che siano rispettosi dell'ambiente, dell'operatore agricolo e del consumatore, e la loro definizione e divulgazione; 
+
+                                
+                            
+                            
+                                z)
+                                
+                                    l'elaborazione di disciplinari di difesa e di diserbo, al fine di migliorare lo stato fitosanitario, la qualita' delle produzioni vegetali nonche' la concessione di deroghe alle disposizioni in essi contenute; 
+
+                                
+                            
+                            
+                                aa)
+                                
+                                    l'emanazione di misure e il coordinamento delle attivita' per ridurre gli impatti derivanti dall'utilizzo di prodotti fitosanitari ai sensi della direttiva 2009/128/CE sull'uso sostenibile dei prodotti fitosanitari e del relativo decreto legislativo di recepimento del 14 agosto 2012, n. 150; 
+
+                                
+                            
+                            
+                                bb)
+                                
+                                    il supporto tecnico-specialistico in materia fitosanitaria agli enti pubblici.
+
 In virtu' dell'autonoma potesta' organizzativa regionale, le competenze di cui alle lettere z) e aa) del comma 3, possono essere organizzate anche in ambito di strutture diverse da quelle del Servizio fitosanitario regionale.
 
 ## Art. 7. — Comitato fitosanitario nazionale
 
 Presso il Servizio fitosanitario centrale opera, senza oneri aggiuntivi per la finanza pubblica, il Comitato fitosanitario nazionale, che e' composto dal direttore del Servizio fitosanitario centrale, con funzioni di Presidente, dai Responsabili dei Servizi fitosanitari regionali o da loro delegati, nonche' dal Responsabile dell'Istituto Nazionale di riferimento di cui all'articolo 8 o da un suo delegato.
+
+2.
+                        
+                            
+                                In riferimento alle specifiche competenze in ambito scientifico possono essere chiamati a partecipare ai lavori del Comitato cui al comma 1: 
+ 
+                            
+                            
+                                a)
+                                
+                                    un esperto designato dal Consiglio Nazionale delle Ricerche; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    cinque esperti designati, in modo da garantire la partecipazione di due patologi, due entomologi e un nematologo, dalla Societa' Italiana di Patologia Vegetale (SIPAV), dalla Societa' Entomologica Italiana/Sezione Entomologia Agraria (SEI/SEA), dall'Associazione Italiana per la Protezione delle Piante (AIPP) e dalla Societa' Italiana di Nematologia; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    altri esperti convocati di volta in volta in ragione di specifiche problematiche.
+
+3.
+                        
+                            
+                                Al Comitato fitosanitario nazionale compete: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la definizione delle linee di protezione delle piante di cui all'articolo 3; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la vigilanza sull'applicazione della normativa fitosanitaria nel territorio nazionale e sullo svolgimento delle attivita' di protezione delle piante, anche mediante l'esame degli esiti degli audit compiuti dal Servizio fitosanitario nazionale ai sensi dell'articolo 12, nonche' l'adozione delle eventuali misure correttive; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    l'approvazione, nelle forme previste dal regolamento di cui al comma 4, dei seguenti atti: 
+ 1) misure fitosanitarie contro l'introduzione e la diffusione nel territorio italiano degli organismi nocivi; 
+ 2) documenti fitosanitari per la protezione delle piante, inclusi gli standard tecnici e le procedure operative; 
+ 3) piano nazionale dei controlli fitosanitari di cui all'articolo 47; 
+ 4) programma nazionale di indagine degli organismi nocivi di cui all'articolo 27; 
+ 5) piani di emergenza e Piani di azione nazionali di cui agli articoli 26 e 31; 
+ 6) provvedimenti relativi al recepimento di norme dell'Unione in materia fitosanitaria; 
+ 7) parere in merito alla designazione dei laboratori nazionali di riferimento e della rete nazionale, di cui agli articoli 13 e 16; 
+ 8) analisi del rischio relativo all' introduzione e/o alla diffusione degli organismi nocivi; 
+ 9) candidatura di esperti individuati per rappresentare l'Italia presso i Comitati ed i gruppi di lavoro riguardanti la materia fitosanitaria istituiti dalla Unione europea o da Organizzazioni internazionali; 
+ 10) programmi e piani di formazione e aggiornamento del personale di cui all'articolo 23 operante nel Servizio fitosanitario nazionale.
 
 Il Comitato fitosanitario nazionale adotta un Regolamento per il proprio funzionamento. Ai lavori del Comitato partecipano, per le attivita' di segreteria, due funzionari dell'Unita' del Servizio fitosanitario centrale di cui all'articolo 5, comma 2, lettera a).
 
@@ -91,9 +601,200 @@ Ai componenti del Comitato fitosanitario nazionale e ai partecipanti a titolo co
 
 Il Centro di ricerca Difesa e Certificazione (CREA-DC) e' l'Istituto di riferimento nazionale per la protezione delle piante, di cui all'articolo 4, comma 2 del presente decreto, di seguito denominato Istituto di riferimento, quale organismo scientifico di supporto del Servizio fitosanitario nazionale per le attivita' di protezione delle piante.
 
+2.
+                        
+                            
+                                L'Istituto di riferimento svolge i seguenti compiti in materia di insetti e acari, funghi e oomiceti, batteri, nematodi, virus e viroidi: 
+ 
+                            
+                            
+                                a)
+                                
+                                    effettuare approfondimenti scientifici sugli organismi nocivi che rappresentano un rischio fitosanitario di recente comparsa, indicati dal Comitato fitosanitario nazionale, anche attraverso ricerche e sperimentazioni, per la messa a punto di adeguate misure di eradicazione o contenimento; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    predisporre le Analisi di rischio fitosanitario (Pest Risk Analisys - PRA) e le Analisi di rischio ambientale (Environmental Risk Assessment - ERA) indicati dal Comitato fitosanitario nazionale; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    assistere attivamente il Servizio fitosanitario nazionale per lo svolgimento delle attivita' di cui all'articolo 3, nella diagnosi di organismi nocivi per le piante, per i prodotti vegetali e per gli altri oggetti di interesse fitosanitario, effettuando anche diagnosi di conferma, nonche' studi di caratterizzazione o tassonomici su agenti patogeni isolati o esemplari di organismi nocivi su richiesta del Servizio fitosanitario nazionale; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    collaborare con i laboratori di riferimento dell'Unione europea e partecipare a corsi di formazione e a prove comparative interlaboratorio da essi organizzati; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    coordinare le attivita' dei laboratori nazionali di riferimento, dei laboratori ufficiali, nonche' dei restanti laboratori della rete nazionale di cui all'articolo 16, al fine di armonizzare e migliorare i metodi di analisi, prova o diagnosi di laboratorio e il loro impiego, in coordinamento con il Servizio fitosanitario centrale; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    organizzare audit dei laboratori nazionali di riferimento, dei laboratori ufficiali e dei laboratori della rete nazionale in applicazione del piano nazionale degli audit di cui all'articolo 12; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    assicurare la trasmissione al Servizio fitosanitario centrale, ai laboratori nazionali di riferimento, nonche' ai laboratori ufficiali, delle informazioni fornite dai laboratori di riferimento dell'Unione europea; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    mettere a punto e validare i metodi analitici, anche attraverso prove di sperimentazione, sia nei confronti di organismi nocivi di quarantena sia di organismi regolamentati non di quarantena (RNQP), su indicazione del Comitato fitosanitario nazionale; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    organizzare prove comparative interlaboratorio o prove valutative tra laboratori, assicurando il controllo (follow-up) di tali prove e comunicando al Servizio fitosanitario centrale i relativi risultati; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    svolgere corsi di formazione per il personale dei laboratori nazionali di riferimento, dei laboratori ufficiali e dei laboratori della rete nazionale, in conformita' alle previsioni del piano di formazione di cui all'articolo 7, comma 3, lettera c), numero 10; 
+
+                                
+                            
+                            
+                                m)
+                                
+                                    predisporre i dossier per l'eliminazione delle barriere fitosanitarie, su richiesta del Comitato fitosanitario nazionale; 
+
+                                
+                            
+                            
+                                n)
+                                
+                                    collaborare con il Servizio fitosanitario centrale per la diffusione di rapporti e di documenti relativi all'attivita' del Servizio fitosanitario nazionale.
+
 ## Art. 9. — Segretariato per le emergenze fitosanitarie
 
+1.
+                        
+                            
+                                Presso il Servizio fitosanitario centrale e' istituito, senza oneri aggiuntivi per la finanza pubblica, il Segretariato per le emergenze fitosanitarie che si riunisce almeno ogni tre mesi con la seguente composizione: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il direttore del Servizio fitosanitario centrale o suo delegato, con funzioni di Presidente; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'Unita' per il funzionamento del Segretariato per le emergenze fitosanitarie del Servizio fitosanitario centrale, di cui all'articolo 5, comma 2, lettera b); 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    tre responsabili dei Servizi fitosanitari regionali o loro delegati, designati dal Comitato fitosanitario nazionale.
+
 Il Segretariato per le emergenze fitosanitarie assicura il raccordo tecnico operativo tra il Comitato fitosanitario nazionale e le Unita' territoriali di emergenza fitosanitaria di cui all'articolo 10.
+
+3.
+                        
+                            
+                                Per ognuna delle emergenze dichiarate dal Comitato fitosanitario nazionale, il Segretariato per le emergenze fitosanitarie organizza riunioni di coordinamento a cui partecipano anche i Responsabili dei Servizi fitosanitari regionali coinvolti territorialmente nelle emergenze fitosanitarie, o loro delegati e un rappresentante dell'Istituto di riferimento nonche', se necessario per l'applicazione delle misure fitosanitarie: 
+ 
+                            
+                            
+                                a)
+                                
+                                    un rappresentante del Consiglio Nazionale delle Ricerche; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    un rappresentante designato di comune accordo dalla Societa' Italiana di Patologia Vegetale (SIPAV), dalla Societa' Entomologica Italiana, individuato tra i componenti della Sezione Entomologia Agraria (SEI), dall'Associazione Italiana per la Protezione delle Piante (AIPP) e dalla Societa' Italiana di Nematologia; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    un rappresentante del Comando carabinieri unita' forestali, ambientali e agroalimentari (CUFAA); 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    un rappresentante del Corpo della Guardia di finanza; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    un rappresentante per ciascuno dei Ministeri dell'ambiente e della tutela del territorio e del mare, della salute e dell'interno, nonche' del Ministero per i beni e le attivita' culturali e per il turismo.
+
+4.
+                        
+                            
+                                Al Segretariato per le emergenze fitosanitarie compete: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il coordinamento dell'attuazione delle misure fitosanitarie previste dai Piani di Azione, su richiesta del Comitato fitosanitario nazionale; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il coordinamento dell'attuazione dei piani di comunicazione previsti dai Piani di Azione; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    l'organizzazione delle verifiche, anche mediante audit, sull'effettuazione delle misure fitosanitarie previste dai Piani di Azione; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    il coordinamento delle richieste di contribuzione europea, di cui al regolamento (UE) 2014/652; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    la predisposizione di proposte di deliberazione e di altri documenti da sottoporre al Comitato fitosanitario nazionale.
 
 Il Segretariato nazionale per le emergenze fitosanitarie relaziona periodicamente al Comitato fitosanitario nazionale circa l'evoluzione delle emergenze in atto.
 
@@ -105,11 +806,128 @@ Unita' territoriali per le emergenze fitosanitarie
 
 Per ognuna delle emergenze dichiarate dal Comitato fitosanitario nazionale, i Servizi fitosanitari regionali, competenti per il territorio in cui si verifica l'emergenza, istituiscono una Unita' territoriale per le emergenze fitosanitarie che da' attuazione al Piano di azione e alle ordinanze del Servizio fitosanitario centrale, secondo gli ordinamenti e le competenze dei partecipanti.
 
+2.
+                        
+                            
+                                L'Unita' territoriale per le emergenze fitosanitarie e' composta dai responsabili dei Servizi fitosanitari regionali coinvolti, di cui uno con funzioni di Presidente, da un funzionario per ciascuno dei Servizi fitosanitari regionali coinvolti, di cui uno con funzioni di segretario, da un rappresentante dell'Unita' per il funzionamento del Segretariato per le emergenze fitosanitarie, da un rappresentante dell'Istituto nazionale di riferimento per la protezione delle piante, nonche', se necessario all'applicazione delle misure fitosanitarie nei territori interessati: 
+ 
+                            
+                            
+                                a)
+                                
+                                    da un rappresentante del Comando carabinieri unita' forestali, ambientali e agroalimentari (CUFAA); 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    da un rappresentante del Comando regionale della Guardia di finanza; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    dal rappresentante della prefettura-UTG competente in relazione alla provincia in cui si verifica l'emergenza fitosanitaria; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    da un rappresentante degli Assessorati regionali eventualmente coinvolti; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    dai rappresentanti degli enti locali e delle altre istituzioni locali; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    da rappresentanti di ogni altro ente competente per la gestione dell'emergenza; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    dai rappresentanti delle organizzazioni professionali agricole, delle associazioni degli operatori professionali e degli altri portatori di interesse; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    da altri esperti convocati di volta in volta in ragione di specifiche problematiche.
+
+3.
+                        
+                            
+                                All'Unita' territoriale per le emergenze fitosanitarie compete il coordinamento e l'organizzazione in materia di: 
+ 
+                            
+                            
+                                a)
+                                
+                                    attuazione delle misure fitosanitarie previste dai Piani di Azione, su richiesta del Comitato fitosanitario nazionale; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    attuazione dei piani di comunicazione previsti dai Piani di Azione; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    verifiche sull'effettuazione delle misure fitosanitarie previste dai Piani di Azione; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    predisposizione della richiesta di contribuzione europea, di cui al regolamento (UE) 2014/652; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    predisposizione di documenti da sottoporre al Comitato fitosanitario nazionale.
+
 L'Unita' territoriale per le emergenze fitosanitarie mantiene il costante scambio di informazioni con il Segretariato nazionale per le emergenze fitosanitarie in merito all'evoluzione dell'emergenza fitosanitaria in atto.
 
 Ai componenti delle Unita' territoriali per le emergenze fitosanitarie di cui al comma 2, non spetta alcun gettone di presenza o altro emolumento a qualsiasi titolo derivante dalla loro partecipazione al Segretariato medesimo ed ai relativi lavori.
 
 ## Art. 11. — Funzioni delle regioni nell'ambito del Servizio fitosanitario nazionale
+
+1.
+                        
+                            
+                                Le regioni e le province autonome di Trento e di Bolzano, nell'esercizio delle rispettive competenze legislative ed amministrative, istituiscono e disciplinano l'organizzazione del Servizio fitosanitario regionale e assicurano le attivita' di protezione delle piante nell'ambito dei rispettivi territori, nonche' il possesso dei requisiti di cui all'articolo 5 del regolamento (UE) 2017/625, ed in particolare: 
+ 
+                            
+                            
+                                a)
+                                
+                                    l'ordinamento e l'organizzazione anche territoriale della propria struttura, nonche' dei propri uffici, nel rispetto delle competenze di cui all'articolo 6, al fine dell'esercizio delle attivita' di cui all'articolo 3; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'adozione di procedure e modalita' di organizzazione delle azioni tecniche, operative e amministrative, al fine di assicurare l'immediata risposta operativa nel caso delle emergenze fitosanitarie di cui al Capo VI.
 
 Nell'ambito delle risorse disponibili a legislazione vigente, le regioni e le province autonome, per l'attuazione delle attivita' di cui all'articolo 3, devono garantire le risorse necessarie per la messa in atto delle misure fitosanitarie.
 
@@ -136,6 +954,66 @@ L'elenco dei laboratori nazionali di riferimento, con l'indicazione della denomi
 
 La designazione di un laboratorio nazionale di riferimento e' revocata, previo parere del Comitato fitosanitario nazionale, qualora vengano meno i requisiti di cui al comma 2 o in caso di mancata effettuazione delle attivita' di cui al comma 5.
 
+5.
+                        
+                            
+                                I laboratori nazionali di riferimento, nell'ambito delle loro competenze, su indicazione del Comitato fitosanitario nazionale: 
+ 
+                            
+                            
+                                a)
+                                
+                                    collaborano con l'Istituto nazionale di riferimento per la protezione delle piante e i laboratori di riferimento dell'Unione europea e partecipano a corsi di formazione e a prove comparative interlaboratorio da essi organizzati; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    coordinano le attivita' dei laboratori ufficiali designati ai sensi dell'articolo 14, al fine di armonizzare e migliorare i metodi di analisi, prova o diagnosi di laboratorio e il loro impiego; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    organizzano prove comparative inter-laboratorio o prove valutative tra laboratori ufficiali, assicurano un debito ritorno dei risultati di tali prove e comunicano all'Istituto nazionale di riferimento per la protezione delle piante e al Servizio fitosanitario centrale i relativi risultati; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    assicurano la trasmissione all'Istituto nazionale di riferimento per la protezione delle piante e al Servizio fitosanitario centrale, nonche' ai laboratori ufficiali, delle informazioni fornite dai laboratori di riferimento dell'Unione europea; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    offrono, nell'ambito della loro missione, assistenza scientifica e tecnica al Servizio fitosanitario nazionale per l'attuazione dei controlli nell'ambito delle attivita' di protezione delle piante, dei Piani di controllo nazionali pluriennali (PCNP) di cui all'articolo 109 e di programmi di controllo coordinati adottati a norma dell'articolo 112, del regolamento (UE) 2017/625; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    convalidano i reagenti e i lotti di reagenti, istituiscono e mantengono elenchi aggiornati delle sostanze e dei reagenti di riferimento disponibili e dei fabbricanti e fornitori di tali sostanze e reagenti; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    svolgono corsi di formazione per il personale dei laboratori ufficiali designati ai sensi dell'articolo 37, paragrafo 1, del regolamento (UE) 2017/625; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    assistono attivamente il Servizio fitosanitario nazionale nella diagnosi di organismi nocivi per le piante e in caso di non conformita' di partite, effettuando diagnosi di conferma e studi di caratterizzazione o tassonomici su agenti patogeni isolati o esemplari di organismi nocivi.
+
 ## Art. 14. — Laboratori ufficiali
 
 I Servizi fitosanitari regionali si dotano di laboratori ufficiali e li designano, previa verifica dei requisiti, conformemente all'articolo 37 del regolamento (UE) 2017/625, sentito il Comitato fitosanitario nazionale, per l'effettuazione di analisi, prove e diagnosi di laboratorio a partire dai campioni prelevati durante i controlli ufficiali e le altre attivita' ufficiali svolte nei territori di propria competenza, e inseriscono i relativi dati nella sezione controlli ufficiali del SIPP di cui all'articolo 52.
@@ -151,6 +1029,38 @@ I Servizi fitosanitari regionali, sentito il Comitato fitosanitario nazionale, p
 Con provvedimento del Ministro delle politiche agricole alimentari e forestali sono definite le caratteristiche, gli ambiti di competenza, le strutture e le modalita' di riconoscimento dei laboratori per l'autocontrollo a cui gli operatori professionali possono rivolgersi per l'effettuazione di analisi in applicazione del presente decreto.
 
 ## Art. 16. — Rete nazionale dei laboratori
+
+1.
+                        
+                            
+                                E' istituita la Rete Nazionale dei laboratori per la protezione delle piante di cui fanno parte: 
+ 
+                            
+                            
+                                a)
+                                
+                                    l'Istituto nazionale di riferimento per la protezione delle piante di cui all'articolo 8; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    i laboratori nazionali di riferimento di cui all'articolo 13; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    i laboratori ufficiali di cui all'articolo 14; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    altri laboratori di cui al comma 2.
 
 I laboratori di ricerca operanti sul territorio nazionale nel settore della protezione delle piante, nonche' della ricerca e della sperimentazione agraria, che si impegnano a collaborare con il Servizio fitosanitario nazionale sono inseriti, previa istanza al Servizio fitosanitario centrale, nella Rete Nazionale dei laboratori, di cui al comma 1, previo parere del Comitato fitosanitario nazionale. Con provvedimento del Ministro delle politiche agricole alimentari e forestali sono definite le caratteristiche, gli ambiti di competenza e le strutture dei laboratori di cui al presente comma, ai fini dell'inserimento nella Rete Nazionale dei laboratori.
 
@@ -174,6 +1084,31 @@ Per il raggiungimento della dotazione di cui al comma 3, a decorrere dall'anno 2
 
 Gli ispettori fitosanitari sono dipendenti del Ministero dell'agricoltura, della sovranita' alimentare e delle foreste, delle regioni e delle province autonome di Trento e di Bolzano e del Consiglio per la ricerca in agricoltura e l'analisi dell'economia agraria (CREA), tecnicamente e professionalmente qualificati, con specifica formazione, operanti nell'ambito del Servizio fitosanitario nazionale, che rispondono funzionalmente e tecnicamente alle direttive del Servizio fitosanitario competente.
 
+2.
+                        
+                            
+                                Gli ispettori fitosanitari sono iscritti nell'apposita sezione del Registro nazionale del personale del Servizio fitosanitario nazionale, di cui all'articolo 24, e devono soddisfare i seguenti requisiti tecnici e professionali: 
+ 
+                            
+                            
+                                a)
+                                
+                                    essere in possesso di una laurea magistrale in una delle seguenti classi LM-7 Biotecnologie agrarie, LM-60 Scienze della natura, LM-6 Scienze biologiche, LM-69 Scienze e tecnologie agrarie, LM-70 Scienze e tecnologie alimentari, LM-73 Scienze e tecnologie forestali ed ambientali e LM-75 Scienze e tecnologie per l'ambiente e il territorio ((; costituisce titolo)) preferenziale aver superato esami inerenti alle materie dei settori scientifico-disciplinari «Patologia vegetale AGR/12» e «Entomologia agraria AGR/11»; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    aver frequentato con esito positivo il corso di formazione di cui all'articolo 23, per svolgere adeguatamente i propri compiti ed effettuare i controlli ufficiali e le altre attivita' ufficiali in modo coerente; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    aver svolto un tirocinio in servizio di almeno sei mesi.
+
 Gli ispettori fitosanitari sono inquadrati nell'apposito profilo professionale di «ispettore fitosanitario» e operano su espresso incarico del responsabile del Servizio fitosanitario competente, che definisce, con apposito provvedimento, i controlli ufficiali e le altre attivita' ufficiali per cui sono stati incaricati.
 
 Gli ispettori fitosanitari, nell'esercizio delle loro attribuzioni, prescrivono le misure ufficiali ritenute necessarie, ivi compresa la distruzione dei vegetali e dei prodotti vegetali ritenuti contaminati, nonche' dei materiali di imballaggio, recipienti e quanto possa essere veicolo di diffusione di organismi nocivi in applicazione delle normative vigenti.
@@ -185,6 +1120,31 @@ Gli ispettori fitosanitari nell'esercizio delle loro attribuzioni rivestono la q
 ## Art. 19. — Agente fitosanitario
 
 Gli agenti fitosanitari sono tecnici del Ministero dell'agricoltura, della sovranita' alimentare e delle foreste, delle regioni e delle province autonome di Trento e di Bolzano e del Consiglio per la ricerca in agricoltura e l'analisi dell'economia agraria (CREA), tecnicamente e professionalmente qualificati, con specifica formazione, operanti nell'ambito del Servizio fitosanitario nazionale, che rispondono funzionalmente e tecnicamente alle direttive del Servizio fitosanitario competente.
+
+2.
+                        
+                            
+                                Gli agenti fitosanitari sono iscritti nell'apposita sezione del Registro nazionale del personale del Servizio fitosanitario nazionale, di cui all'articolo 24, e devono essere in possesso dei seguenti requisiti tecnici e professionali: 
+ 
+                            
+                            
+                                a)
+                                
+                                    essere in possesso del diploma di perito agrario o agrotecnico, oppure del diploma di istruzione tecnica del settore tecnologico di indirizzo «Agraria, Agroalimentare e Agroindustria», o di istruzione professionale del settore servizi di indirizzo «Servizi per l'agricoltura e lo sviluppo rurale», o di istruzione professionale di indirizzo «Agricoltura, sviluppo rurale, valorizzazione dei prodotti del territorio e gestione delle risorse forestali e montane», oppure dal diploma ITS di tecnico superiore responsabile delle produzioni e delle trasformazioni agrarie, agroalimentari e agroindustriali, o di titoli conseguiti all'estero riconosciuti come equipollenti, o di altro diploma equipollente che comprenda le discipline di patologia vegetale e entomologia agraria nel proprio corso di studi, oppure aver conseguito un titolo di laurea in una delle seguenti classi L-13 Scienze biologiche L-02 Biotecnologie, L-25 Scienze e tecnologie agrarie e forestali, L-26 Scienze e tecnologie alimentari, L-29 Scienze e tecnologie farmaceutiche, L-32 Scienze e tecnologie per l'ambiente e la natura e LP-02 Professioni tecniche agrarie, alimentari e forestali ((; costituisce titolo)) preferenziale il superamento di esami inerenti alle materie dei settori scientifico-disciplinari «Patologia vegetale AGR/12» e «Entomologia agraria AGR/11»; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    aver frequentato con esito positivo il corso di formazione di cui all'articolo 23, per svolgere adeguatamente i propri compiti ed effettuare i controlli ufficiali e le altre attivita' ufficiali in modo coerente; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    aver svolto un tirocinio in servizio di almeno tre mesi.
 
 Gli agenti fitosanitari sono inquadrati nell'apposito profilo di «agente fitosanitario» e operano su espresso incarico del responsabile del servizio fitosanitario competente, che definisce, con apposito provvedimento, i controlli ufficiali e le altre attivita' ufficiali per cui sono stati incaricati.
 
@@ -307,6 +1267,38 @@ Conformemente alle istruzioni fornite dal Servizio fitosanitario regionale compe
 ## Art. 29. — Notifica di ritrovamento di organismi nocivi
 
 Il Servizio fitosanitario regionale interessato, ricevuta la conferma ufficiale di cui all'articolo 28, comma 3, inserisce nel sistema europeo di notifica elettronica, entro cinque giorni lavorativi, le informazioni circa la presenza, o se del caso il sospetto, dell'organismo nocivo e le prime misure fitosanitarie adottate.
+
+2.
+                        
+                            
+                                Il Servizio fitosanitario centrale notifica ufficialmente alla Commissione, entro i successivi tre giorni lavorativi, attraverso il sistema di notifica elettronica dell'Unione europea, il ritrovamento e ogni altra informazione inerente alle prime misure applicate, circa: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la presenza nel territorio di un organismo nocivo da quarantena rilevante per l'Unione europea la cui presenza non era nota nello stesso; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la presenza di un organismo nocivo da quarantena rilevante per l'Unione europea in una parte del territorio in cui non lo era in precedenza; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    la presenza nel territorio di un organismo nocivo da quarantena rilevante per l'Unione europea in una partita di piante, prodotti vegetali o altri oggetti introdotta o destinata all'introduzione o allo spostamento nel territorio dell'Unione europea; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    la presenza nel territorio di ogni altro organismo nocivo la cui presenza non era precedentemente nota.
 
 ## Art. 30. — Informazioni sul ritrovamento di organismi nocivi
 
@@ -554,9 +1546,94 @@ Il SIPP cura l'integrazione, ove possibile, degli attuali sistemi informatici ge
 
 Il Servizio fitosanitario nazionale, su indicazione del Comitato fitosanitario nazionale, registra e provvede all'inserimento nel SIPP dei dati, delle informazioni e dei documenti relativi alle attivita' di protezione delle piante, nonche' alla loro modifica.
 
+4.
+                        
+                            
+                                Il SIPP e' composto dalle seguenti sezioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    controlli ufficiali; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    sito web.
+
 ## Art. 52. — Sezione controlli ufficiali
 
 La sezione controlli ufficiali del SIPP, costituita nell'ambito del Sistema informativo agricolo nazionale (SIAN) di cui all'articolo 15 della legge 4 giugno 1984, n. 194, consente al Servizio fitosanitario nazionale lo scambio rapido di dati, informazioni e documenti relativi agli operatori professionali, alle piante e ai prodotti delle piante in importazione ed in esportazione, nonche' ai controlli ufficiali.
+
+2.
+                        
+                            
+                                In applicazione degli articoli 5, 12 e 13 del regolamento (UE) 2017/625, la sezione controlli ufficiali del SIPP e' organizzata per contenere almeno le seguenti sottosezioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    Programma nazionale di indagine degli organismi nocivi delle piante e relativa cartografia georeferenziata di cui all'articolo 27 del presente decreto; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    RUOP, documentazione dei controlli ufficiali agli operatori professionali ed azioni correttive prescritte di cui agli articoli 36 e 39 del presente decreto; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    Piano di controllo fitosanitario nazionale di cui all'articolo 47 del presente decreto; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    controlli ufficiali alla produzione di cui all'articolo 42 del presente decreto; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    controlli ufficiali all'importazione di cui all'articolo 45 del presente decreto; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    controlli ufficiali all'export di cui all'articolo 48 del presente decreto; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    registro del personale del SFN di cui all'articolo 24 del presente decreto; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    elenco del personale del SFN e dei laboratori nazionali di riferimento che effettua audit; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    elenco dei laboratori nazionali di riferimento e dei laboratori ufficiali.
 
 La sezione controlli ufficiali del SIPP e' strutturata al fine di garantire il funzionamento integrato con il Sistema per il trattamento delle informazioni per i controlli ufficiali (IMSOC - information management system for official controls) della Commissione europea di cui all'articolo 131 del regolamento (UE) 2017/625, attraverso meccanismi e strumenti con i quali sono elaborati, trattati e scambiati in modo automatico i dati, le informazioni e i documenti relativi ai controlli ufficiali.
 
@@ -566,6 +1643,94 @@ Con decreto del Ministro delle politiche agricole alimentari e forestali, su par
 
 Il Servizio fitosanitario nazionale cura la sezione sito web del SIPP mediante la quale, condivide al suo interno, e mette a disposizione degli operatori professionali e del pubblico, dati, informazioni e documenti relativi alla protezione delle piante, alle piante e ai prodotti delle piante in importazione ed in esportazione, nonche' ai controlli ufficiali.
 
+2.
+                        
+                            
+                                La sezione sito web del SIPP e' organizzata per contenere almeno i seguenti dati: 
+ 
+                            
+                            
+                                a)
+                                
+                                    le informazioni relative agli adempimenti richiesti dalla CIPP; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le autorita' competenti designate per la protezione delle piante; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    gli organismi delegati per le attivita' e i controlli ufficiali per la protezione delle piante; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    i risultati del Programma nazionale di indagine degli organismi nocivi delle piante e relativa cartografia georeferenziata di cui all'articolo 27; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    il manuale nazionale delle procedure di controllo di cui all'articolo 42; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    le informazioni pertinenti riguardanti i controlli ufficiali, ai sensi dell'articolo 11 del regolamento (UE) 2017/625; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    l'elenco dei laboratori nazionali di riferimento e dei laboratori ufficiali; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    l'elenco aggiornato dei posti di controllo frontalieri sul territorio nazionale, ai sensi dell'articolo 60 del regolamento (UE) 2017/625; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    le informazioni sulle tariffe per i controlli ufficiali, ai sensi dell'articolo 85 del regolamento (UE) 2017/625; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    il Piano di controllo nazionale pluriannuale per le piante e i prodotti delle piante, ai sensi dell'articolo 111 del regolamento (UE) 2017/625; 
+
+                                
+                            
+                            
+                                m)
+                                
+                                    le informazioni relative alla gestione delle emergenze fitosanitarie sul territorio nazionale; 
+
+                                
+                            
+                            
+                                n)
+                                
+                                    le informazioni relative alla protezione delle piante diverse dai dati di cui alle lettere precedenti.
+
 ## Art. 54.
 
 Attivita' di comunicazione per la protezione delle piante
@@ -573,6 +1738,45 @@ Attivita' di comunicazione per la protezione delle piante
 Le attivita' di comunicazione per la protezione delle piante consistono nel fornire informazioni, agli operatori professionali e a tutta la cittadinanza, circa la pericolosita' degli organismi nocivi delle piante, il rischio della loro diffusione, le emergenze fitosanitarie, gli obblighi e le prescrizioni di legge, gli aspetti tecnici per il contrasto degli organismi nocivi e ogni altra informazione rilevante per la protezione delle piante.
 
 Le componenti del Servizio fitosanitario nazionale che promuovono attivita' di comunicazione per la protezione delle piante ne danno comunicazione al Servizio fitosanitario centrale al fine del loro coordinamento.
+
+3.
+                        
+                            
+                                L'Unita' per la comunicazione, di cui all'articolo 5, comma 2, lettera g), funge da gruppo redazionale per la pubblicazione delle informazioni sul sito web di cui all'articolo 53, nonche' per la realizzazione delle seguenti attivita': 
+ 
+                            
+                            
+                                a)
+                                
+                                    campagne di informazione specifiche relative alle emergenze fitosanitarie in atto; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    predisposizione di cartelloni e opuscoli informativi; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    campagne pubblicitarie su televisione, radio e stampa; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    iniziative di comunicazione rivolte alle scuole; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    incontri sui territori interessati.
 
 Nel quadro delle attivita' di comunicazione promosse dalle componenti del Servizio fitosanitario nazionale, il Servizio fitosanitario centrale, su parere del Comitato fitosanitario nazionale, puo' attivare specifici programmi di attivita' volti alla diffusione della conoscenza e della cultura della protezione delle piante allo scopo di favorire l'adozione di comportamenti consapevoli e misure di autoprotezione da parte degli operatori professionali e dei cittadini, utili a ridurre i rischi derivanti dagli organismi nocivi delle piante, e ad attenuarne le conseguenze.
 

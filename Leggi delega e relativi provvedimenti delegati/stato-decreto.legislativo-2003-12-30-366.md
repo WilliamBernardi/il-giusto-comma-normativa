@@ -8,8 +8,8 @@ codice_redazionale: 004G0001
 vigente: true
 source: normattiva-opendata
 collection: Leggi delega e relativi provvedimenti delegati
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:41:18Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -68,7 +68,69 @@ L'articolo 32-ter del decreto legislativo 30 luglio 1999, n. 300, come introdott
 L'articolo 32-quater del decreto legislativo 30 luglio 1999, n. 300, come introdotto dall'articolo 6, comma 2, del decreto-legge 12 giugno 2001, n. 217, convertito, con modificazioni, dalla legge 3 agosto 2001, n. 317, e' sostituito dal seguente:
  «32-quater (Organizzazione del Ministero). - 1. Il Ministero si articola in uffici centrali di livello dirigenziale generale ed in ispettorati territoriali di livello dirigenziale non generale. Opera nell'ambito del Ministero e sotto la sua vigilanza l'Istituto superiore delle comunicazioni e delle tecnologie dell'informazione, di livello dirigenziale generale».
 
+2.
+                    
+                        
+                            Sono uffici centrali:
+ 
+                        
+                        
+                            a)
+                            
+                                il Segretariato generale;
+
+                            
+                        
+                        
+                            b)
+                            
+                                le direzioni generali, in numero di cinque cosi' individuate:
+ 1) direzione generale per la gestione delle risorse umane;
+ 2) direzione generale per la pianificazione e la gestione dello spettro radioelettrico;
+ 3) direzione generale per i servizi di comunicazione elettronica e di radiodiffusione;
+ 4) direzione generale per la regolamentazione del settore postale;
+ 5) direzione generale per la gestione delle risorse strumentali ed informative.
+
 Sono, altresi', previste tre posizioni di livello dirigenziale generale anche per l'assolvimento di compiti di coordinamento di progetti speciali, di ispezione, di controllo, nonche' di studio e di ricerca.
+
+4.
+                    
+                        
+                            Sono organi tecnici del Ministero:
+ 
+                        
+                        
+                            a)
+                            
+                                il Consiglio superiore delle comunicazioni;
+
+                            
+                        
+                        
+                            b)
+                            
+                                la commissione per l'assetto del sistema radiotelevisivo di cui all'articolo 2, comma 4, del decreto-legge 27 agosto 1993, n. 323, convertito, con modificazioni, dalla legge 27 ottobre 1993, n. 422;
+
+                            
+                        
+                        
+                            c)
+                            
+                                la Consulta per l'emissione di carte valori postali e la filatelia;
+
+                            
+                        
+                        
+                            d)
+                            
+                                l'unita' organizzativa del forum internazionale per lo sviluppo delle comunicazioni nel Mediterraneo per i compiti previsti dalla «Dichiarazione di Palermo» del 30 giugno 2000;
+
+                            
+                        
+                        
+                            e)
+                            
+                                la commissione consultiva nazionale di cui all'articolo 14 del decreto legislativo 9 maggio 2001, n. 269.
 
 L'assetto organizzativo di cui al presente articolo puo' essere modificato con regolamento ai sensi dell'articolo 4 del decreto legislativo 30 luglio 1999, n. 300, e successive modificazioni, senza «oneri aggiuntivi».
 

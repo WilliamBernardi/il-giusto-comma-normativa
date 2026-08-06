@@ -8,8 +8,8 @@ codice_redazionale: 099G0408
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:42Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -38,6 +38,104 @@ che i predetti versamenti sono amministrati dall'Artigiancassa con contabilita' 
 Udito il parere del Consiglio di Stato espresso dalla sezione consultiva per gli atti normativi nell'adunanza dell'8 marzo 1999 (parere n. 44/99);
 
 ## Art. 1. — D e f i n i z i o n i
+
+1.
+                    
+                        
+                            Nel presente regolamento l'espressione:
+ 
+                        
+                        
+                            a)
+                            
+                                "Fondo" indica il Fondo centrale di garanzia istituito presso l'Artigiancassa - Cassa per il credito alle imprese artigiane S.p.a., ai sensi dell'art. 1 della legge n. 1068 del 1964;
+
+                            
+                        
+                        
+                            b)
+                            
+                                "impresa" indica l'impresa artigiana, costituita anche in forma cooperativa o consortile, iscritta negli albi di cui alla legge 8 agosto 1985, n. 443;
+
+                            
+                        
+                        
+                            c)
+                            
+                                "confidi" indica i consorzi di garanzia collettiva fidi di cui all'articolo 155, comma 4, del decreto legislativo 1 settembre 1993, n. 385;
+
+                            
+                        
+                        
+                            d)
+                            
+                                "altri fondi di garanzia" indica i fondi di garanzia gestiti da intermediari finanziari iscritti nell'elenco di cui all'articolo 106 del decreto legislativo n. 385 del 1993;
+
+                            
+                        
+                        
+                            e)
+                            
+                                "banche" indica gli enti iscritti all'albo di cui all'articolo 13 del decreto legislativo n. 385 del 1993;
+
+                            
+                        
+                        
+                            f)
+                            
+                                "intermediari" indica gli intermediari finanziari iscritti nell'elenco speciale di cui all'articolo 107 del decreto legislativo n. 385 del 1993;
+
+                            
+                        
+                        
+                            g)
+                            
+                                "garanzia diretta" indica la garanzia prestata dal Fondo direttamente alle banche e agli altri intermediari;
+
+                            
+                        
+                        
+                            h)
+                            
+                                "controgaranzia" indica la garanzia prestata dal Fondo a favore dei confidi e degli altri fondi di garanzia;
+
+                            
+                        
+                        
+                            i)
+                            
+                                "cogaranzia" indica la garanzia prestata direttamente a favore delle banche e degli intermediari, congiuntamente ai confidi e agli altri fondi di garanzia ovvero a fondi di garanzia istituiti nell'ambito dell'Unione europea o da questa cofinanziati;
+
+                            
+                        
+                        
+                            l)
+                            
+                                "tasso di riferimento" indica il tasso di cui agli articoli 1 e 4 del decreto del Ministro del tesoro in data 21 dicembre 1994;
+
+                            
+                        
+                        
+                            m)
+                            
+                                "finanziamenti a breve termine" indica i finanziamenti di durata inferiore a diciotto mesi effettuati a favore delle imprese artigiane per lo smobilizzo dei crediti nei confronti della propria clientela nell'ambito della normale attivita' di gestione;
+
+                            
+                        
+                        
+                            n)
+                            
+                                "finanziamenti a medio e lungo termine" indica i finanziamenti, ivi comprese le operazioni di locazione finanziaria, di durata non inferiore a diciotto mesi, effettuati a favore delle imprese artigiane a fronte di investimenti sia materiali che immateriali sul territorio nazionale;
+
+                            
+                        
+                        
+                            o)
+                            
+                                "fideiussione" indica l'obbligazione assunta dall'Artigiancassa a valere sul Fondo nei confronti di terzi a garanzia dell'adempimento cui e' tenuta l'impresa artigiana.
+ Avvertenza:
+ - Il testo delle note qui pubblicato e' stato redatto dall'amministrazione competente per materia, ai sensi dell'art. 10, comma 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con D.P.R. 28 dicembre 1985, n. 1092, al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio.
+ Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
 
 ## Art. 2. — Forme e limiti di intervento del Fondo
 
@@ -79,9 +177,66 @@ La richiesta di ammissione alle agevolazioni del Fondo e' presentata dalle banch
 
 La richiesta di cui al comma 1 e' presentata, a pena di improcedibilita', entro sei mesi dalla delibera di concessione del finanziamento o della garanzia. La richiesta puo' essere presentata anche prima della delibera, la quale, in tal caso, e' adottata entro tre mesi dalla comunicazione del provvedimento di concessione delle agevolazioni.
 
+3.
+                    
+                        
+                            A fronte della garanzia del Fondo i soggetti richiedenti versano all'Artigiancassa una commissione "una tantum" calcolata applicando all'importo garantito le seguenti misure percentuali:
+ 
+                        
+                        
+                            a)
+                            
+                                0,25 per cento per le operazioni relative ad imprese e consorzi ubicati nelle zone ammesse alla deroga di cui all'art. 92.3.a) del trattato CE per gli aiuti a finalita' regionale;
+
+                            
+                        
+                        
+                            b)
+                            
+                                0,50 per cento per le operazioni relative ad imprese e consorzi ubicati nelle zone ammesse alla deroga di cui all'art. 92.3.c) del trattato CE per gli aiuti a finalita' regionale;
+
+                            
+                        
+                        
+                            c)
+                            
+                                1 per cento per le operazioni relative ad imprese e consorzi ubicati nella parte restante del territorio nazionale.
+
 La garanzia del Fondo decorre dal giorno del versamento della commissione all'Artigiancassa.
 
 ## Art. 8. — Condizioni di inefficacia della garanzia
+
+1.
+                    
+                        
+                            La garanzia del Fondo non e' efficace nei casi in cui:
+ 
+                        
+                        
+                            a)
+                            
+                                sia stata concessa sulla base di dati inesatti o dichiarazioni mendaci;
+
+                            
+                        
+                        
+                            b)
+                            
+                                non siano state validamente acquisite da parte delle banche e degli intermediari le garanzie offerte dall'impresa;
+
+                            
+                        
+                        
+                            c)
+                            
+                                l'insolvenza si sia verificata nei dodici mesi successivi all'erogazione del finanziamento a medio e lungo termine ovvero, nel caso di controgaranzia, nei dodici mesi dal rilascio della garanzia da parte dei confidi e degli altri fondi di garanzia e, comunque nei sei mesi successivi alla delibera di ammissione alla garanzia del Fondo, se posteriore a quella di erogazione del finanziamento medesimo. Per i finanziamenti di durata fino a diciotto mesi o con scadenza a revoca, i predetti termini sono ridotti a sei mesi;
+
+                            
+                        
+                        
+                            d)
+                            
+                                la perdita derivi da inosservanza o mancato adempimento, da parte della banca o dell'intermediario, delle azioni, cautele o garanzie per il recupero del credito.
 
 La garanzia non e' efficace nel caso in cui le banche e gli altri intermediari non abbiano proposto le istanze giudiziali contro il debitore entro diciotto mesi dalla data di scadenza della prima rata del finanziamento rimasta insoluta ovvero entro due mesi dall'inadempimento o dalla revoca nel caso di operazioni a breve termine e non le abbiano diligentemente continuate.
 

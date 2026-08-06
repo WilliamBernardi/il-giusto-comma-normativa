@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
 vigenza_date: 2006-05-16
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:38Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -21,6 +21,23 @@ DECRETO
 Udito il parere del Consiglio di Stato, reso nell'adunanza della sezione consultiva per gli atti normativi del 24 gennaio 2000;
 
 ## Art. 1. — Definizioni
+
+1.
+                    
+                        
+                            Ai fini delle disposizioni del presente regolamento si intendono per:
+
+                        
+                        
+                            a)
+                            
+                                "autorizzazione generale", un'autorizzazione a svolgere un servizio non rientrante nell'ambito del servizio postale universale che si consegue sulla base dell'istituto del silenzio-assenso dopo un predeterminato periodo di tempo dalla presentazione della dichiarazione del soggetto interessato;
+                            
+                        
+                        
+                            b)
+                            
+                                "autorizzazione generale ad effetto immediato", un'autorizzazione a svolgere un servizio non rientrante nell'ambito del servizio universale che si consegue contestualmente alla presentazione della dichiarazione del soggetto interessato.
 
 ## Art. 2. — Oggetto ed ambito di applicazione
 
@@ -54,13 +71,109 @@ L'autorizzazione ha una validita' non superiore a sei anni, e' rinnovabile, prev
 
 ## Art. 4. — Obblighi connessi all'autorizzazione
 
+1.
+                    
+                        
+                            Il titolare di un'autorizzazione di cui all'articolo 1 e' tenuto:
+ 
+                        
+                        
+                            a)
+                            
+                                ad osservare le esigenze essenziali indicate nell'articolo 1, comma 2, lettera u), del decreto legislativo n. 261 del 1999;
+
+                            
+                        
+                        
+                            b)
+                            
+                                a fornire informazioni agli utenti, nelle sedi della ditta o dei mandatari della medesima, circa le caratteristiche del servizio offerto con specifico riguardo alle condizioni generali di accesso, ai prezzi ed al livello di qualita', dandone comunicazione all'Autorita';
+
+                            
+                        
+                        
+                            c)
+                            
+                                a non impiegare personale che risulti condannato a pena detentiva per delitto non colposo superiore ai sei mesi o sottoposto a misure di sicurezza e di prevenzione;
+
+                            
+                        
+                        
+                            d)
+                            
+                                ad effettuare il versamento dei contributi riguardanti l'istruttoria e l'attivita' di verifica e controllo;
+
+                            
+                        
+                        
+                            e)
+                            
+                                ad istituire una procedura di reclamo semplice, rapida e non onerosa per valutare le denunce di disservizi presentate dagli utenti.
+
+                            
+                        
+                        
+                            f)
+                            
+                                a comunicare all'Autorita' ogni eventuale modifica, estensione o riduzione degli elementi dell'autorizzazione, ai sensi dell'articolo 3, comma 7, del presente regolamento nonche' ogni altra variazione;
+
+                            
+                        
+                        
+                            g)
+                            
+                                a fornire, su richiesta dell'Autorita', informazioni sull'attivita' svolta per gli studi del settore di competenza dell'Autorita' medesima.
+
 ## Art. 5. — Contributi
+
+1.
+                    
+                        
+                            L'autorizzazione, nonche' le richieste di modifica, di estensione, di riduzione o di variazione di qualsiasi natura, sono assoggettate al pagamento di contributi finalizzati alla copertura dei costi amministrativi sostenuti dall'Autorita':
+ 
+                        
+                        
+                            a)
+                            
+                                per l'istruttoria delle pratiche;
+
+                            
+                        
+                        
+                            b)
+                            
+                                per le verifiche ed i controlli della gestione del servizio e del mantenimento delle relative condizioni.
 
 ((
 
 I contributi di cui al comma 1 sono fissati ad anno, compreso quello di decorrenza dell'autoriz-zazione e, salvo quanto previsto per l'avvio dell'attivita', sono versati entro il 31 gennaio di ciascun anno; copia dell'attestato di avvenuto pagamento e' inviata all'Autorita'.
 
 ))
+
+3.
+                    
+                        
+                            Con il decreto di cui all'articolo 15, comma 2, del decreto legislativo n. 261/1999 sono stabiliti:
+
+                        
+                        
+                            a)
+                            
+                                la misura dei contributi e l'aggiornamento degli stessi;
+
+                            
+                        
+                        
+                            b)
+                            
+                                le modalita' di pagamento ed i relativi termini con riferimento all'avvio dell'attivita' ed all'attivita' medesima a regime;
+
+                            
+                        
+                        
+                            c)
+                            
+                                la procedura da utilizzare in caso di mancato pagamento.
 
 Nei casi di sospensione, revoca e decadenza dell'autorizzazione, i contributi versati rimangono acquisiti all'entrata del bilancio dello Stato.
 

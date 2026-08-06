@@ -8,8 +8,8 @@ vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
 vigenza_date: 2026-03-07
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:32Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -31,11 +31,103 @@ Le disposizioni del presente decreto sono adottate al fine di adeguare la normat
 
 ## Art. 2. — Definizioni
 
+1.
+                        
+                            
+                                Ai fini del presente decreto si applicano le definizioni di cui all'articolo 3 del regolamento (UE) 2019/1020, nonche' le seguenti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    «regolamento»: il regolamento (UE) 2019/1020 del Parlamento europeo e del Consiglio, del 20 giugno 2019, sulla vigilanza del mercato e sulla conformita' dei prodotti e che modifica la direttiva 2004/42/CE e i regolamenti (CE) n. 765/2008 e (UE) n. 305/2011; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    «Codice del consumo»: il decreto legislativo 6 settembre 2005, n. 206; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    «Agenzia» o «Agenzie»: la o le autorita' di vigilanza del mercato di cui all'articolo 3 e la o le autorita' incaricate del controllo dei prodotti che entrano nel mercato dell'Unione europea di cui all'articolo 4, compresi gli uffici territoriali; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    «Uffici territoriali»: le articolazioni o i soggetti di cui si avvalgono le Agenzie ai fini dell'esercizio delle funzioni di vigilanza del mercato nei settori di propria competenza.
+
 ## - Capo II Sistema di vigilanza e conformità dei prodotti
 
 ## Art. 3.
 
 Autorita' di vigilanza del mercato
+
+1.
+                        
+                            
+                                Le autorita' di vigilanza del mercato sono individuate, ai sensi dell'articolo 10 del regolamento, nel rispetto dei principi di competenza, adeguatezza, sussidiarieta', differenziazione e unitarieta' dei processi decisionali, nelle autorita' designate ai sensi della vigente disciplina normativa di recepimento delle norme europee di armonizzazione di cui all'allegato I al regolamento, come di seguito elencate: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il Ministero dello sviluppo economico, per le attivita' di cui all'allegato I del presente decreto; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il Ministero della salute, per le attivita' di cui all'allegato II del presente decreto; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il Ministero del lavoro e delle politiche sociali, per le attivita' di cui all'allegato III del presente decreto; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    il Ministero dell'interno, per le attivita' di cui all'allegato IV del presente decreto; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    il Ministero della transizione ecologica, per le attivita' di cui all'allegato V del presente decreto; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    il Ministero delle infrastrutture e della mobilita' sostenibili, per le attivita' di cui all'allegato VI del presente decreto; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    il Ministero delle politiche agricole alimentari e forestali, per le attivita' di cui all'allegato VII del presente decreto; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    l'Ente nazionale per l'aviazione civile (ENAC), per le attivita' di cui all'allegato VIII del presente decreto.
 
 Le autorita' di vigilanza del mercato svolgono le relative funzioni, ai sensi dell'articolo 3, numero 4, del regolamento, con i poteri di cui al capo V del medesimo regolamento e svolgono i controlli previsti dalla normativa armonizzata dell'Unione europea nell'ambito delle rispettive competenze, anche mediante i propri uffici territoriali, le autorita' incaricate del controllo di cui all'articolo 4 e gli altri enti ai quali e' demandato lo svolgimento delle attivita' di vigilanza. Restano ferme le attribuzioni delle autorita' di pubblica sicurezza, quali autorita' di controllo del mercato in materia di esplosivi per uso civile e articoli pirotecnici.
 
@@ -69,6 +161,59 @@ L'ufficio unico di collegamento effettua le verifiche funzionali al corretto ade
 Le autorita' di vigilanza del mercato comunicano all'ufficio unico di collegamento l'articolazione dei propri uffici territoriali e i laboratori di cui all'articolo 8, ai fini dell'attivita' di cui al comma 6.
 
 In caso di conflitti di competenza tra autorita' di vigilanza del mercato, l'ufficio unico di collegamento convoca un apposito tavolo tecnico di coordinamento tra le amministrazioni interessate per favorire la risoluzione del conflitto in riferimento a singoli casi o alla categoria di prodotti oggetto di vigilanza. Qualora nell'ambito del tavolo tecnico di cui al primo periodo non sia raggiunta una posizione comune, l'ufficio unico di collegamento provvede a inoltrare la posizione assunta dalle autorita' di vigilanza alla Presidenza del Consiglio dei ministri per le determinazioni di competenza.
+
+9.
+                        
+                            
+                                Nel rispetto delle competenze e della disciplina prevista da norme di legge o di regolamento, l'ufficio unico di collegamento, nello svolgimento delle attivita' di cui ai commi 6 e 7, si attiene ai seguenti principi generali: 
+ 
+                            
+                            
+                                a)
+                                
+                                    rispetto delle attribuzioni delle autorita' di pubblica sicurezza, quali autorita' di sorveglianza del mercato in materia di esplosivi per uso civile e articoli pirotecnici; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    prevalenza dei profili di competenza delle singole autorita' di vigilanza rispetto alla natura e al normale utilizzo dei prodotti sottoposti a vigilanza; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    concentrazione delle competenze, anche mediante loro accorpamenti per gruppi omogenei di controlli o prodotti; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    competenza, adeguatezza, sussidiarieta', differenziazione e unitarieta' dei processi decisionali; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    tutela della salute degli utenti finali e degli operatori; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    tutela della sicurezza dei lavoratori e degli ambienti di lavoro; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    tutela dei consumatori.
 
 Per lo svolgimento delle funzioni di cui al comma 2 e' assegnato alla competente struttura del Ministero dello sviluppo economico, entro il limite di dieci unita', un contingente di personale non dirigenziale dotato delle necessarie competenze ed esperienze, proveniente dalle autorita' di vigilanza o comunque dalle amministrazioni centrali competenti per le attivita' di vigilanza e controllo delle normative armonizzate di cui al regolamento, in posizione di comando ai sensi delle disposizioni vigenti e dell'articolo 17, comma 14, della legge 15 maggio 1997, n. 127.
 
@@ -116,6 +261,24 @@ Le risorse derivanti dal recupero dei costi di cui al comma 1 sono versate all'e
 ## - Titolo III Sanzioni
 
 ## Art. 11. — Sistema sanzionatorio
+
+1.
+                        
+                            
+                                Salvo che il fatto costituisca reato o configuri una fattispecie di illecito amministrativo sanzionata dalle disposizioni nazionali di recepimento o di adeguamento della normativa di armonizzazione dell'Unione di cui all'allegato I del regolamento, l'operatore economico che: 
+ 
+                            
+                            
+                                a)
+                                
+                                    contravviene alle disposizioni di cui all'articolo 4, paragrafi 3, lettere a), b), c) e d), e 4, e all'articolo 7, paragrafo 1, del regolamento e' soggetto, per ogni singola violazione, alla sanzione amministrativa pecuniaria da 10.000 euro a 60.000 euro; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    omette di adottare le misure correttive imposte dalle autorita' di vigilanza ai sensi dell'articolo 16, paragrafi 2 e 3, lettere a), b), c), d), e), f) e g), del regolamento, e' soggetto, per ciascuna misura non adottata, alla sanzione amministrativa pecuniaria da 10.000 euro a 60.000 euro.
 
 L'attivita' di accertamento, ai fini dell'irrogazione delle sanzioni amministrative pecuniarie previste dal presente articolo, e' esercitata, nell'ambito delle rispettive competenze, dalle autorita' di vigilanza.
 

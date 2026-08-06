@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
 vigenza_date: 1999-04-20
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:38Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DEL CONSIGLIO DEI MINISTRI
@@ -32,9 +32,81 @@ Presso la Presidenza del Consiglio dei Ministri e' costituita la segreteria dell
 
 Le espressioni abbreviate "segreteria", "Conferenza" e "comitati generali" nel presente decreto corrispondono rispettivamente alle parole "segreteria della Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome di Trento e di Bolzano" di cui all'art. 12, commi 3 e 4, della legge 23 agosto 1988, n. 400, "Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome di Trento e di Bolzano" di cui al comma 1 del medesimo art. 12 e "comitati generali a competenza integrata funzionale" di cui all'art. 6, commi 1 e 2, del decreto legislativo 16 dicembre 1989, n. 418.
 
+3.
+                    
+                        
+                            La segreteria opera alle dipendenze e secondo gli indirizzi del presidente della Conferenza e, ai fini dell'esercizio delle funzioni della Conferenza, dei comitati generali e degli organismi a composizione mista Stato-regioni di cui si avvale ai sensi dell'art. 6, comma 3, del decreto legislativo 16 dicembre 1989, n. 418, provvede: 
+ 
+                        
+                        
+                            a)
+                            
+                                agli adempimenti preliminari e conseguenti alle riunioni della Conferenza e dei comitati generali, ivi compresa l'informazione relativa alle determinazioni assunte; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                alle attivita' istruttorie connesse alle attribuzioni della Conferenza e dei comitati generali, anche in collegamento con uffici serventi organi dello Stato, delle regioni e delle province autonome; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                
+                                    ((LETTERA SOPPRESSA DAL D.P.C. M. 26 OTTOBRE 1995, N. 589)); 
+
+                            
+                        
+                        
+                            d)
+                            
+                                ad ordinare in apposito archivio, ai sensi dell'art. 6, comma 6, del citato decreto legislativo, gli ordini del giorno, i verbali, le relazioni, gli atti, i provvedimenti ed ogni altra documentazione formata in relazione all'attivita' della Conferenza, dei comitati generali e degli altri organismi a composizione mista Stato-regioni; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                agli adempimenti strumentali all'attivita' delle commissioni, dei comitati e dei gruppi di lavoro operanti nell'ambito della Conferenza.
+
 ## Art. 2. — Organizzazione
 
 ((
+
+1.
+                    
+                        
+                            La segreteria e' articolata nei seguenti settori di attivita' a cui sono preposti dirigenti statali o regionali, in servizio, ai sensi dell'art. 12, comma 4, della legge 23 agosto 1988, n. 400: 
+ 
+                        
+                        
+                            a)
+                            
+                                settore legislativo, affari istituzionali, affari finanziari, programmazione economica, politiche comunitarie e affari generali; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                settore trasporti, ambiente, assetto del territorio ed attivita' produttive; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                settore sanita', servizi sociali, diritto allo studio e formazione professionale; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                settore servizi generali, del personale e archivio degli organismi a composizione mista.
 
 ))
 

@@ -7,8 +7,8 @@ urn: urn:nir:ministero.affari.esteri.e.cooperazione.internazionale:decreto:2021-
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:39Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -39,6 +39,39 @@ IL MINISTRO DELLA CULTURA
 Udito il parere del Consiglio di Stato espresso dalla Sezione consultiva per gli atti normativi nell'adunanza del 26 agosto 2021;
 
 ## Art. 1.
+
+1.
+                    
+                        
+                            Al regolamento di cui al decreto del Ministro degli affari esteri 7 novembre 1995, n. 593, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                all'articolo 2, comma 1, le parole «entro il 31 marzo di ogni anno» sono soppresse; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                all'articolo 2, comma 2, dopo le parole «Le domande» sono inserite le seguenti: «sono presentate secondo le modalita' ed entro i termini fissati annualmente con bando pubblicato nel sito istituzionale del Ministero degli affari esteri e della cooperazione internazionale e»; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                all'articolo 5, comma 2, il primo periodo e' sostituito dai seguenti: «Ai fini dell'erogazione dei contributi, il Ministero degli affari esteri e della cooperazione internazionale, sulla base del piano di attribuzione di cui all'articolo 4, comma 5, accredita all'istituto italiano di cultura o alla rappresentanza diplomatica l'intero importo dei contributi relativi all'area di competenza.
+L'istituto italiano di cultura o la rappresentanza diplomatica eroga i contributi ai beneficiari entro trenta giorni dall'acquisizione di idonea documentazione attestante che l'opera sia stata divulgata, tradotta, prodotta, doppiata e sottotitolata.»; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                all'articolo 5, comma 3, le parole «e dei contributi disposti con le procedure di cui ai commi 2 e 3» sono sostituite dalle seguenti: «disposti con le procedure di cui al comma 1».
 
 ## Art. 2.
 

@@ -7,8 +7,8 @@ urn: urn:nir:cultura.ministero:decreto:2021-09-01;158
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:41Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -32,6 +32,59 @@ Il presente regolamento non si applica qualora siano in essere contratti o conve
 
 ## Art. 2. — Ambito di applicazione
 
+1.
+                    
+                        
+                            Il presente regolamento si applica ai dipendenti delle strutture centrali e periferiche del Ministero, con esclusione del personale appartenente all'Area della dirigenza, che per ciascun appalto di lavoro, servizio o fornitura svolge le seguenti attivita': 
+ 
+                        
+                        
+                            a)
+                            
+                                programmazione della spesa per investimenti; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                valutazione preventiva dei progetti; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                responsabile unico del procedimento; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                predisposizione e controllo delle procedure di gara e di esecuzione dei contratti pubblici; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                direzione dei lavori o, per i contratti di fornitura e servizi, direzione dell'esecuzione; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                collaudo tecnico amministrativo o verifica di conformita'; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                collaudo statico, ove necessario per consentire l'esecuzione del contratto nel rispetto dei documenti a base di gara, del progetto, dei tempi e costi prestabiliti;
+
 Partecipano alla ripartizione dell'incentivo i dipendenti che collaborano direttamente alle attivita' di cui al comma 1, secondo quanto previsto dall'articolo 5, nel rispetto di un'equa ripartizione degli incarichi.
 
 Le funzioni tecniche di cui al comma 1 che danno titolo alla corresponsione degli incentivi riguardano le attivita' svolte per la realizzazione di lavori e, nel caso in cui e' nominato il direttore dell'esecuzione, per l'acquisizione di servizi e forniture a seguito di contratti affidati mediante procedure di gara.
@@ -40,6 +93,59 @@ Il presente regolamento si applica anche ai contratti per lavori di manutenzione
 
 ## Art. 3. — Composizione del Fondo per gli incentivi 
  per le funzioni tecniche
+
+1.
+                    
+                        
+                            Il Fondo e' costituito da una percentuale pari al 2 per cento dell'importo posto a base di gara dal Ministero per lavori, servizi o forniture. In sede di contrattazione decentrata integrativa del personale, l'effettiva misura del Fondo da costituire puo' essere rapportata all'importo a base della correlata procedura di affidamento, applicando le seguenti percentuali: 
+ 
+                        
+                        
+                            a)
+                            
+                                per i lavori di importi fino a 1 milione di euro: 2 per cento; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                per i lavori di importi superiori a 1 milione di euro e fino alle soglie di rilevanza comunitaria determinate dall'articolo 35, comma 1, lettera a) del Codice dei contratti pubblici: 1,9 per cento; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                per i lavori di importi superiori alle soglie di rilevanza comunitaria determinate dall'articolo 35, comma 1, lettera a) del Codice dei contratti pubblici e fino a 25 milioni di euro: 1,8 per cento; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                per i lavori di importi superiori a 25 milioni e fino a 50 milioni di euro: 1,7 per cento; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                per i lavori di importi superiori a 50 milioni di euro: 1,6 per cento; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                per i servizi e le forniture di importi fino a 500.000 euro: 2 per cento; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                per i servizi e le forniture di importi superiori a 500.000 euro, per la quota parte fino a 500.000 euro: 2 per cento e per la quota parte superiore a 500.000 euro: 1,5 per cento.
 
 Sono escluse dalla base di calcolo dell'incentivo le somme per accantonamenti, imprevisti, acquisizioni ed espropri di immobili, nonche' l'IVA.
 
@@ -68,6 +174,45 @@ Gli incarichi relativi alle attivita' di cui all'articolo 2, comma 1, sono confe
 Per ciascun lavoro, servizio o fornitura, il dirigente o il responsabile di servizio della struttura ministeriale che opera come stazione appaltante nomina il Responsabile Unico del Procedimento (di seguito denominato «RUP») tra i dipendenti di ruolo in possesso dei requisiti previsti dall'articolo 31 del Codice dei contratti pubblici.
 
 Nei casi di modifica o revoca dell'incarico di RUP o di qualsiasi altro incarico, consentiti dalla normativa vigente, il dirigente o il responsabile di servizio con il medesimo provvedimento di modifica o revoca, e in correlazione al lavoro eseguito nonche' alla causa della modifica o della revoca, stabilisce l'attribuzione dell'incentivo a fronte delle attivita' che il soggetto incaricato abbia svolto sino a quel momento. Il dirigente o il responsabile di servizio verifica il rispetto e l'applicazione delle disposizioni del presente regolamento nonche' il raggiungimento degli obiettivi fissati.
+
+4.
+                    
+                        
+                            Il dirigente o il responsabile di servizio, su proposta del RUP, individua con apposito decreto, il personale incaricato delle funzioni tecniche di cui all'articolo 2, comma 1, attingendo prioritariamente alle risorse umane del Ministero, tenendo conto: 
+ 
+                        
+                        
+                            a)
+                            
+                                della necessita' di integrazione tra diverse competenze professionali anche in relazione alla tipologia di lavoro da realizzare o di servizio e fornitura da acquisire; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                delle esperienze professionali acquisite; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                dell'espletamento di attivita' analoghe con risultati positivi; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                della consequenzialita' e complementarieta' con altri incarichi, eventualmente gia' ricevuti, aventi lo stesso oggetto; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                del principio di incentivazione della produttivita', sancito dalla vigente legislazione in materia di pubblico impiego e dalla contrattazione collettiva.
 
 L'atto di conferimento dell'incarico deve riportare l'importo posto a base di gara sulla base del quale e' determinato l'importo dell'incentivo e, su indicazione del RUP, il nominativo dei dipendenti incaricati, i compiti affidati a ciascuno e i termini entro i quali devono essere eseguite le prestazioni per ciascun incaricato.
 

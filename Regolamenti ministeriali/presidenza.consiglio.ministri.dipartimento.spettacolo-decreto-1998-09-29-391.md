@@ -8,8 +8,8 @@ codice_redazionale: 098G0441
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:39Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -29,7 +29,57 @@ Udito il parere del Consiglio di Stato, espresso nelle adunanze della sezione co
 
 Ai sensi dell'articolo 31 della legge 4 novembre 1965, n. 1213, come modificato dall'articolo 4, comma 3, del decreto legislativo 8 gennaio 1998, n. 3, la costruzione, la trasformazione e l'adattamento di immobili da destinare a sale e arene per spettacoli cinematografici, nonche' la ristrutturazione o l'ampliamento di sale cinematografiche gia' in attivita', sono subordinati ad autorizzazione dell'autorita' di Governo competente in materia di spettacolo, nei casi in cui la capienza complessiva sia o divenga superiore, indipendentemente dal numero delle sale, a 1.300 posti.
 
+2.
+                    
+                        
+                            E' necessaria l'autorizzazione anche nei seguenti casi:
+ 
+                        
+                        
+                            a)
+                            
+                                per adibire un teatro a sala per spettacoli cinematografici, allorche' la capienza complessiva del medesimo e' superiore a 1.300 posti;
+
+                            
+                        
+                        
+                            b)
+                            
+                                qualora due o piu' sale, che hanno capienza complessiva superiore a 1.300 posti, siano comunque ubicate nello stesso complesso immobiliare, ancorche' non comunicanti ovvero dotate di separati ingressi su spazi pubblici.
+
 ## Art. 2. — Definizioni
+
+1.
+                    
+                        
+                            Ai fini del rilascio delle autorizzazioni di cui all'articolo 1 si intende:
+ 
+                        
+                        
+                            a)
+                            
+                                per sala cinematografica, uno spazio al chiuso dotato di uno schermo, adibita a pubblico spettacolo cinematografico;
+
+                            
+                        
+                        
+                            b)
+                            
+                                per cinemateatro, lo spazio di cui alla precedente lettera a) destinato, oltre che al pubblico spettacolo cinematografico, anche alle rappresentazioni teatrali di qualsiasi genere, da effettuare mediante la costruzione di una struttura caratterizzata dalla scena e comprendente allestimenti scenici fissi e mobili con relativi meccanismi ed attrezzature;
+
+                            
+                        
+                        
+                            c)
+                            
+                                per multisala, l'insieme di due o piu' sale cinematografiche adibite a programmazioni multiple accorpate in uno stesso immobile sotto il profilo strutturale, e tra loro comunicanti;
+
+                            
+                        
+                        
+                            d)
+                            
+                                per arena, il cinema all'aperto, funzionante esclusivamente nel periodo compreso tra il 1 giugno e il 30 settembre, allestito su un area delimitata ed appositamente attrezzata per le proiezioni cinematografiche.
 
 Per il calcolo dei posti esistenti, vanno considerate le sale che, autorizzate o meno ai sensi dell'articolo 31 della legge 4 novembre 1965, n. 1213, e successive modificazioni, abbiano svolto nell'anno solare precedente la richiesta di autorizzazione, attivita' di programmazione cinematografica non inferiore a centoventi giorni.
 Sono comprese nel computo le sale autorizzate e non ancora in attivita' e sono esclusi dal computo le arene ed i cinema ambulanti.
@@ -38,6 +88,63 @@ Il calcolo dei posti e' effettuato con riferimento a quelli assentiti sulla base
 Ai fini dell'applicazione del presente regolamento, le situazioni di fatto e di diritto sono verificate con riferimento alla data di presentazione della domanda di autorizzazione.
 
 ## Art. 3. — Autorizzazione
+
+1.
+                    
+                        
+                            L'autorizzazione di cui all'articolo 1 e' rilasciata in presenza dei seguenti requisiti tecnici:
+ 
+                        
+                        
+                            a)
+                            
+                                impianto di proiezione automatico o semiautomatico e di riproduzione sonora stereofonica;
+
+                            
+                        
+                        
+                            b)
+                            
+                                aria condizionata e riscaldamento;
+
+                            
+                        
+                        
+                            c)
+                            
+                                cassa automatica;
+
+                            
+                        
+                        
+                            d)
+                            
+                                poltrone di larghezza non inferiore a cinquantacinque centimetri e con distanza fra le file non inferiore a centodieci centimetri;
+
+                            
+                        
+                        
+                            e)
+                            
+                                almeno due servizi complementari in favore degli spettatori, tra quelli indicati dal decreto del Ministro dell'industria, del commercio e dell'artigianato 30 ottobre 1996, n. 683.
+
+2.
+                    
+                        
+                            L'autorizzazione di cui all'articolo 1 e' rilasciata:
+ 
+                        
+                        
+                            a)
+                            
+                                nei comuni sprovvisti di sale cinematografiche, e che confinano con comuni anch'essi sprovvisti di sale cinematografiche con capienza superiore a 150 posti;
+
+                            
+                        
+                        
+                            b)
+                            
+                                nei comuni provvisti di sale cinematografiche, allorche' il quoziente regionale sia inferiore al quoziente d'area. Il quoziente regionale e' inteso come il rapporto fra la popolazione residente ed il numero dei posti delle sale, anche comprese in complessi multisala, presenti nella regione; il quoziente d'area e' inteso come il rapporto fra la popolazione residente nel comune nel quale si intende ubicare l'insediamento e nei comuni limitrofi ed il numero dei posti delle sale nei medesimi ubicate, determinato sommando i posti compresi in complessi multisala nella loro totalita', ed i posti in complessi aventi una unica sala al cinquanta per cento del loro numero complessivo.
 
 L'autorizzazione di cui al comma 1 e' concessa, per sale con capienza fino a 2.000 posti, a condizione che almeno il quindici per cento dei posti da realizzarsi, distribuiti in non meno di tre sale, vengano destinati stabilmente alla proiezione di opere cinematografiche italiane e di Paesi dell'Unione europea. Per sale superiori a 2.000 posti la condizione e' elevata al venti per cento dei posti da realizzarsi.
 
@@ -59,6 +166,42 @@ Le prefetture, nel caso in cui sia stata convocata la conferenza di servizi di c
 ## Art. 5. — Procedimento di autorizzazione
 
 Le domande intese ad ottenere l'autorizzazione di cui all'articolo 1 devono contenere le indicazioni relative al soggetto richiedente e la denominazione che si intende assegnare al cinema o cinemateatro, con obbligo di comunicare le successive variazioni.
+
+2.
+                    
+                        
+                            Le domande devono essere presentate, in regola con l'imposta di bollo, al Dipartimento dello spettacolo presso la Presidenza del Consiglio dei Ministri, corredate dalla seguente documentazione:
+ 
+                        
+                        
+                            a)
+                            
+                                una dichiarazione, ai sensi dell'articolo 3 della legge 4 gennaio 1968, n. 15, e successive integrazioni e modificazioni, con la quale l'interessato dichiara la sussistenza di tutti i provvedimenti autorizzativi richiesti dalla legge per l'apertura della sala cinematografica, ivi compresi la concessione edilizia, ovvero il parere favorevole emesso dalla commissione edilizia, la determinazione assunta sul progetto dalla commissione provinciale di vigilanza, nonche' le eventuali determinazioni positive concordate nella conferenza di servizi convocata ai sensi dell'articolo 4, comma 2, del decreto legislativo 8 gennaio 1998, n. 3, con particolare riferimento al numero di posti assentiti;
+
+                            
+                        
+                        
+                            b)
+                            
+                                dichiarazione sostitutiva di atto di notorieta', ai sensi dell'articolo 4 della legge 4 gennaio 1968, n. 15, e successive integrazioni e modificazioni, comprovante:
+ 1) il titolo di disponibilita' dell'area, ove si tratti di una nuova costruzione, o dell'immobile ove si tratti di locale gia' esistente;
+ 2) la distanza dalla piu' vicina sala cinematografica, ove necessario;
+ 3) la sussistenza dei requisiti tecnici di cui all'articolo 3, comma 1, con indicazione dei tipi e modelli previsti;
+ 4) il numero degli abitanti ed il numero dei posti, presenti nella regione, nonche' il numero dei residenti del comune nel quale si intende ubicare l'insediamento e dei comuni limitrofi ed il numero dei posti, distinguendo quelli compresi in complessi multisala, esistenti nel medesimo territorio;
+
+                            
+                        
+                        
+                            c)
+                            
+                                nei casi di cui all'articolo 3, comma 3, atto con sottoscrizione autenticata nelle forme di legge, con il quale l'interessato si obbliga al rispetto delle condizioni ivi previste;
+
+                            
+                        
+                        
+                            d)
+                            
+                                nei casi di cui all'articolo 3, comma 4, dichiarazione di chiusura di altra sala, con indicazione del numero dei posti cessati dall'esercizio.
 
 La istanza, con la documentazione allegata, e' sottoposta, rispettando l'ordine cronologico di ricezione, al parere della commissione apertura sale cinematografiche, prevista dall'articolo 52 della legge 4 novembre 1965, n. 1213, che si pronunzia entro quarantacinque giorni, trascorsi i quali si prescinde dal parere.
 

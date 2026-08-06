@@ -8,8 +8,8 @@ codice_redazionale: 002G0030
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti governativi
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:11Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -28,6 +28,38 @@ Sulla proposta del Presidente del Consiglio dei Ministri e del Ministro per la f
 Il presente regolamento disciplina il procedimento relativo al ricorso presentato alla Commissione centrale per il contenzioso relativo ai raccomandatari marittimi contro i provvedimenti della Commissione locale.
 
 ## Art. 2. — Commissione centrale dei raccomandatari marittimi: composizione e competenze
+
+1.
+                    
+                        
+                            Presso il Ministero delle infrastrutture e dei trasporti e' istituita, di concerto con il Ministero delle attivita' produttive, la Commissione centrale per il contenzioso relativo ai raccomandatari marittimi, presieduta da un magistrato appartenente ai ruoli delle magistrature superiori o da un professore universitario ordinario in materie giuridiche, e composta da:
+ 
+                        
+                        
+                            a)
+                            
+                                un dirigente del Ministero delle infrastrutture e dei trasporti, che fa le veci del Presidente in caso di assenza o impedimento temporaneo di questi;
+
+                            
+                        
+                        
+                            b)
+                            
+                                un dirigente del Ministero delle attivita' produttive;
+
+                            
+                        
+                        
+                            c)
+                            
+                                un rappresentante dei raccomandatari marittimi designato dalle associazioni riconosciute a livello nazionale;
+
+                            
+                        
+                        
+                            d)
+                            
+                                un rappresentante designato delle associazioni di categoria degli armatori.
 
 I membri della Commissione durano in carica quattro anni e possono essere riconfermati per non oltre un mandato.
 

@@ -7,8 +7,8 @@ urn: urn:nir:ministero.salute:decreto:2016-12-07;262
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:38Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -64,11 +64,223 @@ Udito il parere del Consiglio di Stato, espresso dalla Sezione consultiva per gl
 
 ## Art. 1. — Definizioni
 
+1.
+                    
+                        
+                            Ai fini del presente decreto si intende per: 
+ 
+                        
+                        
+                            a)
+                            
+                                NSIS: il Nuovo sistema informativo sanitario del Ministero della salute, gestito dalla Direzione generale della digitalizzazione, del sistema informativo sanitario e della statistica; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                livello nazionale: il Ministero della salute; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                fornitori dei dati per il livello nazionale: le regioni e le province autonome, e il Ministero dell'economia e delle finanze; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                codice identificativo: codice che identifica l'assistito nei rapporti con il Servizio sanitario nazionale, ovvero il codice fiscale, il codice Straniero temporaneamente presente (STP), il codice Europeo non iscritto (ENI) o il numero di identificazione personale della Tessera europea di assicurazione malattia (TEAM); 
+
+                            
+                        
+                        
+                            e)
+                            
+                                codice univoco: codice assegnato, attraverso una procedura automatica, ad ogni assistito a partire dal codice identificativo, tale da non consentire la identificazione diretta dell'interessato durante il trattamento dei dati personali; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                SPC: il sistema pubblico di connettivita' di cui agli articoli 73 e seguenti del decreto legislativo 7 marzo 2005, n. 82 e successive modificazioni; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                regole tecniche SPC: le disposizioni di cui al decreto del Presidente del Consiglio dei ministri 1° aprile 2008, pubblicato nella Gazzetta Ufficiale 21 giugno 2008, n. 144, recante regole tecniche e di sicurezza per il funzionamento del sistema pubblico di connettivita' previste dall'articolo 71, comma 1-bis, del decreto legislativo 7 marzo 2005, n. 82, nonche' le modalita' definite nei documenti tecnico-operativi pubblicati dall'Agenzia per l'Italia Digitale a decorrere dal 14 ottobre 2005 e successivi aggiornamenti; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                cooperazione applicativa: l'interazione tra i sistemi informatici delle pubbliche amministrazioni disciplinata dalle regole tecniche SPC di cui alla lettera f), che avviene tramite le porte di dominio; 
+
+                            
+                        
+                        
+                            i)
+                            
+                                accordo di servizio: atto tecnico che ha lo scopo di definire le prestazioni del servizio e le modalita' di erogazione/fruizione, ovvero le funzionalita' del servizio, le interfacce di scambio dei messaggi tra erogatore e fruitore, i requisiti di qualita' del servizio dell'erogazione/fruizione, e i requisiti di sicurezza dell'erogazione/fruizione. E' redatto dall'erogatore in collaborazione con i fruitori secondo le regole tecniche di cui alla lettera f) e viene reso pubblico dall'erogatore attraverso le infrastrutture condivise dal SPC (registro SICA). L'erogatore e' inoltre responsabile della gestione del ciclo di vita dei propri accordi di servizio e dell'erogazione del servizio in conformita' con gli accordi; 
+
+                            
+                        
+                        
+                            l)
+                            
+                                credenziali di autenticazione: i dati e i dispositivi in possesso di una persona, da questa conosciuti o ad essa univocamente correlati, utilizzati per l'autenticazione informatica; 
+
+                            
+                        
+                        
+                            m)
+                            
+                                porta di dominio: componente architetturale del SPC attraverso il quale si accede al dominio applicativo dell'Amministrazione per l'utilizzo dei servizi applicativi; 
+
+                            
+                        
+                        
+                            n)
+                            
+                                profilo di autorizzazione: l'insieme delle informazioni, univocamente associate a una persona, che consente di individuare a quali dati essa puo' accedere, nonche' i trattamenti ad essa consentiti; 
+
+                            
+                        
+                        
+                            o)
+                            
+                                registrazione delle operazioni di trattamento: registrazione in appositi file, detti «file di log», delle operazioni di trattamento con identificazione dell'utente incaricato che le effettua; 
+
+                            
+                        
+                        
+                            p)
+                            
+                                Tessera Sanitaria: il sistema informativo del Ministero dell'economia e delle finanze, istituito ai sensi delle disposizioni dell'articolo 50, del decreto-legge 30 settembre 2003, n. 269, convertito, con modificazioni, dalla legge 24 novembre 2003, n. 326; 
+
+                            
+                        
+                        
+                            q)
+                            
+                                CAD: il decreto legislativo 7 marzo 2005, n. 82 e successive modificazioni, recante «Codice dell'amministrazione digitale»; 
+
+                            
+                        
+                        
+                            r)
+                            
+                                FSE: il fascicolo sanitario elettronico, di cui all'articolo 12 del decreto-legge 18 ottobre 2012, n. 179, convertito, con modificazioni, dalla legge 17 dicembre 2012, n. 221, e successive modificazioni; 
+
+                            
+                        
+                        
+                            s)
+                            
+                                AGENAS: l'Agenzia nazionale per i servizi sanitari regionali; 
+
+                            
+                        
+                        
+                            t)
+                            
+                                CUNI: il codice univoco non invertibile; 
+
+                            
+                        
+                        
+                            u)
+                            
+                                CUNA: il codice univoco nazionale dell'assistito; 
+
+                            
+                        
+                        
+                            v)
+                            
+                                SDO: le schede di dimissione ospedaliera di cui al decreto del Ministro della sanita' del 27 ottobre 2000, n. 380, e successive modificazioni.
+
 ## Art. 2.
 
 Finalita' e ambito di applicazione
 
+1.
+                    
+                        
+                            Il presente decreto ha lo scopo di definire le procedure per l'interconnessione a livello nazionale, nell'ambito del NSIS, dei sistemi informativi su base individuale del Servizio sanitario nazionale, anche quando gestiti da diverse amministrazioni dello Stato, per le seguenti finalita' di rilevante interesse pubblico, ai sensi degli articoli 85, comma 1, lettera b) e 98, comma 1, lettera b) del decreto legislativo 30 giugno 2003, n. 196, e successive modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                lo svolgimento delle funzioni di valutazione degli esiti delle prestazioni assistenziali e delle procedure medico-chirurgiche nell'ambito del Servizio sanitario nazionale, di cui all'articolo 15, comma 25-bis, del decreto-legge 6 luglio 2012, n. 95, convertito, con modificazioni, dalla legge 7 agosto 2012, n. 135; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                il monitoraggio dei livelli essenziali e uniformi di assistenza, ai sensi del decreto legislativo 30 dicembre 1992, n. 502, e successive modificazioni, attraverso le analisi aggregate utili per il calcolo di indicatori, anche ai fini della verifica di cui all'articolo 3 dell'Intesa sancita dalla Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome di Trento e di Bolzano il 23 marzo 2005, nonche' per migliorare il monitoraggio e la valutazione della qualita' e dell'efficacia dei percorsi di cura, ai sensi dell'articolo 35 del decreto legislativo 23 giugno 2011, n. 118; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                le finalita' statistiche perseguite dai soggetti pubblici che fanno parte del Sistema statistico nazionale (SISTAN) ai sensi del decreto legislativo 6 settembre 1989, n. 322, e successive modificazioni.
+
+2.
+                    
+                        
+                            I sistemi informativi su base individuale cui si applica la procedura di interconnessione, di cui all'articolo 3, per le finalita' di cui al comma 1, sono: 
+ 
+                        
+                        
+                            a)
+                            
+                                i sistemi informativi del Ministero della salute previsti nell'ambito del NSIS ai fini del monitoraggio dei livelli essenziali e uniformi di assistenza, ai sensi del decreto legislativo 30 dicembre 1992, n. 502, e successive modificazioni, e del decreto del Presidente del Consiglio dei ministri 29 novembre 2001; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                il sistema informativo Tessera Sanitaria del Ministero dell'economia e delle finanze, relativamente alle prestazioni di specialistica ambulatoriale e di assistenza farmaceutica convenzionata; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                i sistemi informativi sanitari delle regioni e delle province autonome, limitatamente ai soli dati individuati dai decreti istitutivi dei sistemi informativi NSIS.
+
 ## Art. 3. — Procedure per il trattamento e l'interconnessione
+
+1.
+                    
+                        
+                            I fornitori dei dati per il livello nazionale, prima di inviare al Ministero della salute, nell'ambito del NSIS, i dati relativi ai flussi informativi previsti dal presente regolamento, effettuano: 
+ 
+                        
+                        
+                            a)
+                            
+                                la verifica della validita' del codice identificativo attraverso il servizio fornito dall'Anagrafe nazionale degli assistiti, istituita ai sensi dell'articolo 62-ter del CAD; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                l'assegnazione di un codice univoco non invertibile (CUNI) che sostituisce il codice identificativo, tramite un sistema di codifica univoco a livello nazionale, definito dal Ministero della salute, che non consente alcuna correlazione immediata con i dati anagrafici del soggetto e consiste in una sequenza di caratteri alfanumerici casuali di lunghezza fissa ottenuti attraverso una procedura di cifratura (algoritmi) biunivoca non invertibile del codice identificativo, secondo le modalita' indicate nel disciplinare tecnico allegato al presente decreto.
 
 I dati di cui al comma 1, cosi' privati del codice identificativo, unitamente ai correlati dati sanitari, vengono inviati ai sensi delle disposizioni vigenti al NSIS e con le specificazioni indicate nel disciplinare tecnico allegato al presente decreto, in forma individuale, ma priva di ogni riferimento che ne permetta il collegamento diretto con gli interessati e comunque con modalita' che, pur consentendo il collegamento nel tempo delle informazioni riferite ai medesimi individui, rendono questi ultimi non identificabili.
 
@@ -77,6 +289,42 @@ Il Ministero della salute, per il perseguimento delle finalita' di cui all'artic
 L'Anagrafe nazionale degli assistiti, istituita ai sensi dell'articolo 62-ter del CAD, fornisce al Ministero della salute il servizio di verifica della validita' del codice identificativo e di aggiornamento dei dati.
 
 ## Art. 4. — Accesso ai dati
+
+1.
+                    
+                        
+                            Al fine di consentire il perseguimento delle finalita' di cui all'articolo 2, comma 1, lettere a) e b), il NSIS e' predisposto per permettere: 
+ 
+                        
+                        
+                            a)
+                            
+                                alle competenti unita' organizzative delle regioni e province autonome, come individuate da provvedimenti regionali e provinciali, di consultare le informazioni rese disponibili in forma aggregata o anonima; i dati relativi ad assistiti di altre regioni o province autonome possono essere utilizzati solo per effettuare analisi comparative; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                alle competenti unita' organizzative del Ministero della salute, come individuate dal decreto ministeriale di organizzazione, di consultare le informazioni rese disponibili in forma aggregata o anonima.
+
+2.
+                    
+                        
+                            Nel perseguimento delle finalita' di cui all'articolo 2, comma 1, lettera a), il NSIS consente, per comprovate e documentate esigenze di validazione delle misure di esito: 
+ 
+                        
+                        
+                            a)
+                            
+                                alle competenti unita' organizzative delle regioni e province autonome di consultare le informazioni riferite anche ai singoli assistiti, con esclusione dei relativi dati anagrafici e del codice univoco; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                alle competenti unita' organizzative del Ministero della salute, anche con l'ausilio tecnico-operativo dell'AGENAS, di consultare le informazioni riferite anche ai singoli assistiti, con esclusione dei relativi dati anagrafici e del codice univoco.
 
 Solo qualora risulti indispensabile per corrispondere a comprovate e documentate esigenze strettamente connesse alle finalita' di cui all'articolo 2, comma 1, il Ministero della salute effettua operazioni di selezione, estrazione ed elaborazione dei soli dati sanitari indispensabili a tali fini, contenuti nei diversi sistemi informativi del NSIS oggetto di interconnessione e riferiti ad individui presenti in specifici elenchi o coorti, i cui dati identificativi sono acquisiti nel rispetto degli articoli 20 e 22 del decreto legislativo 30 giugno 2003, n. 196 e successive modificazioni, secondo le modalita' di cui al paragrafo 5.4 del disciplinare tecnico.
 
@@ -106,6 +354,31 @@ I file di log sono protetti con idonee misure contro ogni uso improprio o non co
 Per il perseguimento delle finalita' di cui all'articolo 2, comma 1, qualora sia indispensabile consultare le informazioni riferite ai singoli assistiti nei limiti indicati all'articolo 4, commi 2, 3 e 4, il processo di autenticazione degli utenti avviene attraverso strumenti di autenticazione forte, in conformita' all'articolo 64 del CAD e all'articolo 34 del decreto legislativo 30 giugno 2003, n. 196, e successive modificazioni. Il medesimo processo di autenticazione forte e' previsto per i soggetti cui sono attribuite funzioni di amministratore di sistema o assimilabili.
 L'accesso e' garantito tramite l'utilizzo di un protocollo sicuro.
 
+5.
+                    
+                        
+                            Il titolare del trattamento di cui all'articolo 5, comma 1, individua il responsabile preposto alla definizione di: 
+ 
+                        
+                        
+                            a)
+                            
+                                profili di autorizzazione, in relazione al ruolo istituzionale, alle funzioni svolte e all'ambito territoriale delle azioni di competenza; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                procedure di designazione degli amministratori di sistema e degli utenti e dei rispettivi privilegi; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                modalita' di conferimento, sospensione e revoca dei profili di accesso.
+
 Le specifiche misure di sicurezza adottate per gli accessi al sistema sono descritte nel disciplinare tecnico allegato al presente decreto.
 
 ## Art. 7. — Fascicolo sanitario elettronico
@@ -120,7 +393,100 @@ Entro sessanta giorni dall'entrata in vigore del presente regolamento, la Cabina
 
 Nelle more dell'applicazione delle disposizioni di cui all'articolo 3, comma 1, al flusso delle schede di dimissione ospedaliera si applicano le procedure indicate al paragrafo 5.2 del disciplinare tecnico allegato al presente decreto.
 
+4.
+                    
+                        
+                            Il sistema Tessera Sanitaria, nelle more dell'attivazione dell'Anagrafe nazionale degli assistiti, istituita ai sensi dell'articolo 62-ter del CAD, rende disponibili: 
+ 
+                        
+                        
+                            a)
+                            
+                                ai fornitori dei dati per il livello nazionale un servizio di verifica della validita' del codice identificativo, le cui modalita' sono indicate nel disciplinare tecnico allegato al presente decreto; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al Ministero della salute un servizio di verifica della validita' del codice identificativo e di aggiornamento dei dati, le cui modalita' sono indicate nel disciplinare tecnico allegato al presente decreto.
+
 ## Art. 9. — Disposizioni transitorie
+
+1.
+                    
+                        
+                            Entro sei mesi dalla data di entrata in vigore del presente decreto il Ministero della salute adegua la propria infrastruttura tecnologica al fine di interconnettere i seguenti sistemi informativi: 
+ 
+                        
+                        
+                            a)
+                            
+                                sistema informativo Schede di dimissione ospedaliera; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                sistema informativo per il monitoraggio delle prestazioni erogate nell'ambito dell'assistenza sanitaria in emergenza-urgenza-Pronto soccorso, limitatamente agli accessi che esitano in ricovero ospedaliero; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                sistema informativo tessera sanitaria, relativamente alle prestazioni di specialistica ambulatoriale e di assistenza farmaceutica convenzionata, del sistema tessera sanitaria. 
+ 1. Entro dodici mesi dalla data di entrata in vigore del presente decreto il Ministero della salute adegua la propria infrastruttura tecnologica al fine di interconnettere i seguenti sistemi informativi: 
+ a) sistema informativo certificato di assistenza al parto; 
+ b) sistema informativo per il monitoraggio delle prestazioni erogate nell'ambito dell'assistenza sanitaria in emergenza-urgenza - Pronto soccorso, relativamente agli accessi che non esitano in ricovero ospedaliero; 
+ c) sistema informativo per il monitoraggio delle prestazioni erogate nell'ambito dell'assistenza sanitaria in emergenza-urgenza - Sistema 118; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                sistema informativo per il monitoraggio dell'assistenza domiciliare; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                sistema informativo per il monitoraggio delle prestazioni residenziali e semiresidenziali; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                sistema informativo delle prestazioni farmaceutiche effettuate in distribuzione diretta o per conto; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                sistema informativo per il monitoraggio dell'assistenza erogata presso gli Hospice.
+
+2.
+                    
+                        
+                            Entro diciotto mesi dalla data di entrata in vigore del presente decreto il Ministero della salute adegua la propria infrastruttura tecnologica al fine di interconnettere i seguenti sistemi informativi: 
+ 
+                        
+                        
+                            a)
+                            
+                                sistema informativo salute mentale; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                sistema informativo nazionale dipendenze.
 
 Le ulteriori disposizioni relative ai sistemi informativi di cui all'articolo 2, comma 2, lettera a), da interconnettere, sono adottate con successivi decreti.
 

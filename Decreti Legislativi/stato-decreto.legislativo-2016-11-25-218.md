@@ -8,8 +8,8 @@ vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
 vigenza_date: 2025-08-02
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:31Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -51,7 +51,223 @@ Ambito di applicazione
 
 ## Art. 2. — Carta Europea dei ricercatori
 
+1.
+                        
+                            
+                                
+                                    ((gli Enti nei propri statuti e regolamenti recepiscono)) la Raccomandazione della Commissione Europea dell'11 marzo 2005 riguardante la Carta Europea dei ricercatori e il Codice di Condotta per l'Assunzione dei Ricercatori (2005/251/CE), tengono conto delle indicazioni contenute ((nel documento European Framework for Research Careers)) e assicurano tra l'altro, ai ricercatori e ai tecnologi: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la liberta' di ricerca; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la portabilita' dei progetti; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    la diffusione e la valorizzazione delle ricerche; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    le necessarie attivita' di perfezionamento ed aggiornamento; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    la valorizzazione professionale; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    l'idoneita' degli ambienti di ricerca; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    la necessaria flessibilita' lavorativa funzionale all'adeguato svolgimento delle attivita' di ricerca; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    la mobilita' geografica, intersettoriale e quella tra un ente e un altro; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    la tutela della proprieta' intellettuale; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    la possibilita' di svolgere specifiche attivita' di insegnamento in quanto compatibili con le attivita' di ricerca; 
+
+                                
+                            
+                            
+                                m)
+                                
+                                    adeguati sistemi di valutazione; 
+
+                                
+                            
+                            
+                                n)
+                                
+                                    rappresentanza elettiva di ricercatori e tecnologi negli organi scientifici e di governo degli enti.
+
+2.
+                        
+                            
+                                I ricercatori e i tecnologi devono: 
+ 
+                            
+                            
+                                a)
+                                
+                                    osservare le pratiche etiche riconosciute e applicate nelle rispettive discipline di ricerca; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    operare nella previa osservanza dei vincoli procedimentali vigenti; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    assicurare una gestione finanziaria dei fondi utilizzati nel rispetto dei vincoli di trasparenza ed efficienza contabile; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    operare nel rispetto delle precauzioni sanitarie e di sicurezza; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    assicurare la protezione e la riservatezza dei dati trattati; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    favorire la divulgazione delle attivita' di ricerca; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    rendere verificabili le attivita' di ricerca espletate; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    garantire un aggiornamento professionale continuo.
+
 A decorrere dal 2018, i Ministeri vigilanti, entro il mese di aprile di ciascun anno, effettuano il monitoraggio sull'attuazione delle prescrizioni del presente decreto da parte degli Enti vigilati nonche' della Raccomandazione della Commissione Europea dell'11 marzo 2005 riguardante la Carta Europea dei ricercatori e il Codice di Condotta per l'Assunzione dei Ricercatori (2005/251/CE) e del documento European Framework for Research Careers.
+
+4.
+                        
+                            
+                                Ai fini dell'attivita' di monitoraggio di cui al comma 3, i Ministeri vigilanti verificano in particolare: 
+ 
+                            
+                            
+                                a)
+                                
+                                    l'adeguamento degli statuti e dei regolamenti alle prescrizioni del presente decreto e ((ai documenti internazionali di cui al comma 1;))
+                                    
+                                
+                            
+                            
+                                b)
+                                
+                                    l'elaborazione di prassi applicative virtuose; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    l'adozione di adeguate iniziative di formazione, comunicazione istituzionale, informazione e disseminazione dei risultati delle ricerche; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    la programmazione di iniziative di collaborazione pubblico-pubblico e pubblico-privato; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    l'adozione di specifiche misure volte a facilitare la liberta' di ricerca e la portabilita' dei progetti; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    l'individuazione di misure adeguate per la valorizzazione professionale e la tutela della proprieta' intellettuale connesse anche a strumenti di valutazione interna; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    l'efficacia delle forme di partecipazione di ricercatori e tecnologi alle fasi decisionali per la programmazione e attuazione della ricerca; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    il rientro in Italia di ricercatori e tecnologi di elevata professionalita' e competenza e il livello di competitivita' e attrattivita' delle strutture di ricerca italiane per i ricercatori stranieri; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    l'equilibrio tra sostegno alle attivita' di ricerca e programmazione finanziaria.
 
 Per l'efficacia dell'azione di monitoraggio di cui al comma 3, a decorrere dall'anno 2018, nel Programma Nazionale per la Ricerca (PNR) e nei suoi aggiornamenti annuali sono riportati, in apposita sezione, ulteriori specifici indicatori e risultati attesi.
 
@@ -62,6 +278,38 @@ Gli esiti dell'attivita' di monitoraggio sono illustrati in una apposita e detta
 ## Art. 3. — Statuti e regolamenti
 
 Agli Enti e' riconosciuta autonomia statutaria e regolamentare.
+
+2.
+                        
+                            
+                                Gli statuti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    stabiliscono la missione e gli obiettivi di ricerca, tenuto conto degli obiettivi strategici fissati a livello nazionale ed europeo e delle linee di indirizzo del Ministro vigilante; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    fissano il modello strutturale di organizzazione e le regole fondamentali di funzionamento previste per il raggiungimento degli scopi istituzionali ed il buon andamento delle attivita'; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    prevedono forme di collaborazione con le universita' e le imprese, nonche' modelli organizzativi preordinati alla valorizzazione, partecipazione e rappresentanza dell'intera comunita' scientifica nazionale di riferimento; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    incentivano la cooperazione scientifica e tecnologica con istituzioni ed enti di altri Paesi, nonche' l'introduzione di misure volte a favorire la collaborazione con le attivita' delle Regioni in materia di ricerca scientifica e tecnologica e sostegno all'innovazione per i settori produttivi.
 
 Nel rispetto ed in attuazione delle norme statutarie delle normativa vigente, gli Enti, adottano i regolamenti di amministrazione, finanza e contabilita', del personale e di organizzazione in conformita' ai principi di cui al decreto legislativo 31 maggio 2011, n. 91 e al decreto legislativo 30 marzo 2001, n. 165, e successive modificazioni, nonche' ai principi e disposizioni del codice civile per quanto compatibili.
 
@@ -133,6 +381,31 @@ Il calcolo delle spese complessive del personale e' dato dalla somma algebrica d
 
 Le entrate derivanti da finanziamenti esterni di soggetti pubblici e privati destinate al finanziamento delle spese per il personale a tempo determinato devono essere supportate da norme, accordi o convenzioni approvati dall'Organo di vertice che dimostrino la capacita' a sostenere gli oneri finanziari assunti.
 
+6.
+                        
+                            
+                                In riferimento al comma 2 si applicano i seguenti criteri: 
+ 
+                            
+                            
+                                a)
+                                
+                                    gli Enti che, alla data del 31 dicembre dell'anno precedente a quello di riferimento riportano un rapporto delle spese di personale pari o superiore all'80 per cento, non possono procedere all'assunzione di personale; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    gli Enti che, alla data del 31 dicembre dell'anno precedente a quello di riferimento riportano un rapporto delle spese di personale inferiore all'80 per cento possono procedere all'assunzione di personale con oneri a carico del proprio bilancio per una spesa media annua pari a non piu' del margine a disposizione rispetto al limite dell'80 per cento; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    ai fini di cui alle lettere a) e b) e del monitoraggio previsto al comma 3 del presente articolo, per ciascuna qualifica di personale assunto dagli Enti, e' definito dal Ministro vigilante un costo medio annuo prendendo come riferimento il costo medio della qualifica del dirigente di ricerca.
+
 ## - TITOLO III SEMPLIFICAZIONE DELLE ATTIVITÀ
 
 ## Art. 10. — Disposizioni finanziarie e acquisti di beni e servizi
@@ -198,6 +471,31 @@ Al fine di garantire l'adeguato accesso dall'esterno ai ruoli degli enti, alle p
 3. Al fine di completare le procedure per il superamento del precariato poste in atto dagli enti, in via transitoria gli enti medesimi possono attingere alle graduatorie, ove esistenti, del personale risultato idoneo nelle procedure concorsuali di cui all'articolo 20, comma 2, del decreto legislativo 25 maggio 2017, n. 75, per procedere all'assunzione ai sensi del comma 1 del presente articolo))
 
 ## Art. 13. — Spese di missione
+
+1.
+                        
+                            
+                                Le spese per missioni fuori sede, in Italia o all'estero, effettuate dal personale di ruolo, a contratto o in formazione degli Enti, nell'ambito di progetti di ricerca e a carico dei relativi finanziamenti, sono rimborsate alle condizioni e nei limiti fissati dai regolamenti dell'ente di appartenenza o sulla base delle norme stabilite dall'ente finanziatore nel rispetto dei seguenti criteri: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il rimborso delle spese di missione e' calcolato analiticamente sulla base dei documenti di spesa presentati o, in alternativa e con esclusione delle spese di viaggio, forfettariamente sulla base di un'indennita' giornaliera onnicomprensiva; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    nel caso di missioni in luoghi o condizioni particolarmente disagiati ovvero di motivata impossibilita' a presentare i documenti di spesa, questi possono essere comprovati dall'interessato mediante la dichiarazione resa e sottoscritta dal medesimo secondo le modalita' previste dall'articolo 38 del testo unico delle disposizioni legislative e regolamentari in materia di documentazione amministrativa, di cui al decreto del Presidente della Repubblica 28 dicembre 2000, n. 445, e successive modificazioni; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    le norme sul rimborso delle spese per missioni fuori sede di cui alle lettere a) e b) si estendono al personale italiano o straniero che partecipa al progetto di ricerca sui cui finanziamenti grava il costo della missione.
 
 ## Art. 14. — Controlli della Corte dei conti
 

@@ -7,8 +7,8 @@ urn: urn:nir:ministero.lavoro.e.politiche.sociali:decreto:2012-12-20;264
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:41Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -71,6 +71,31 @@ Possono esercitare il diritto di voto coloro ai quali e' conferita, secondo le n
 Modalita' di svolgimento delle elezioni
 
 Le elezioni dei membri dell'Osservatorio nazionale dell'associazionismo sono valide qualunque sia il numero dei votanti rispetto agli aventi diritto al voto e si svolgono in due distinti seggi, destinati rispettivamente all'elezione dei dieci membri rappresentativi delle associazioni a carattere nazionale di cui all'articolo 2 e all'elezione dei dieci membri rappresentativi delle associazioni iscritte nei registri regionali e delle province autonome di cui all'articolo 3.
+
+2.
+                    
+                        
+                            Con la comunicazione di cui all'articolo 1, comma 1, si provvede inoltre: 
+ 
+                        
+                        
+                            a)
+                            
+                                alla individuazione delle modalita' di presentazione delle candidature, di svolgimento delle operazioni elettorali e di espressione e conteggio dei voti espressi; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                alla definizione del formato e delle caratteristiche delle schede elettorali; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                alla definizione della composizione dei seggi elettorali e delle relative attribuzioni, anche con riferimento alla definizione di eventuali reclami.
 
 ## Art. 5. — Proclamazione degli eletti, nomina degli esperti 
  e durata in carica

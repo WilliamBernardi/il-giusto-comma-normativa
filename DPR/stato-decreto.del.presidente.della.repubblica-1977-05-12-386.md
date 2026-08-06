@@ -8,8 +8,8 @@ codice_redazionale: 077U0386
 vigente: true
 source: normattiva-opendata
 collection: DPR
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:48:05Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -21,4 +21,26 @@ del S. Cuore e S. Andrea, in Impruneta.
 ## Art. 1.
 
 N.
+
+386.
+                    
+                        
+                            Decreto del Presidente della Repubblica 12 maggio 1977, col quale, sulla proposta del Ministro per l'interno, viene riconosciuto, agli effetti civili, il decreto dell'ordinario diocesano di Firenze 5 febbraio 1973, integrato con altro decreto di pari data e con tre dichiarazioni 27 settembre 1975, 25 giugno e 3 settembre 1976, relativo: 
+                        
+                        
+                            a)
+                            
+                                all'erezione della parrocchia del S.
+ Cuore e S. Andrea, in frazione Tavarnuzze del comune di Impruneta (Firenze) con il trasferimento in essa del beneficio parrocchiale di S. Maria e S. Andrea, in localita' Cellole del comune di Montespertoli (Firenze);
+                            
+                        
+                        
+                            b)
+                            
+                                all'incorporazione del territorio della parrocchia di S. Maria e S. Andrea nella limitrofa parrocchia di S.
+ Cristina, in localita' Salivolpe del comune di S. Casciano Val di Pesa (Firenze).
+
+Visto, il Guardasigilli: BONIFACIO
+ Registrato alla Corte dei conti, addi' 5 luglio 1977
+ Registro n. 15 Interno, foglio n. 230
 

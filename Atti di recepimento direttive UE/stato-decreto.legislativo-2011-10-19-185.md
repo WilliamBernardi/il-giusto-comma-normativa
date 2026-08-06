@@ -10,7 +10,7 @@ source: normattiva-opendata
 collection: Atti di recepimento direttive UE
 vigenza_date: 2014-04-10
 zip_date: 2026-07-30
-fetched_at: 2026-08-02T09:40:50Z
+fetched_at: 2026-07-30
 ---
 
 DECRETO LEGISLATIVO
@@ -31,6 +31,28 @@ Sulla proposta del Ministro per le politiche europee, del Ministro dello svilupp
 ## Art. 1. — Modifiche al decreto legislativo 17 marzo 1995, n. 230
 
 Il titolo del decreto legislativo 17 marzo 1995, n. 230, e' sostituito dal seguente: «Attuazione delle direttive 89/618/Euratom, 90/641/Euratom, 96/29/Euratom, 2006/117/Euratom in materia di radiazioni ionizzanti e 2009/71/Euratom, in materia di sicurezza nucleare degli impianti nucleari.».
+
+2.
+                    
+                        
+                            All'articolo 3 del decreto legislativo 17 marzo 1995, n. 230, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 1, dopo le parole: «non diversamente disposto» sono inserite le seguenti: «e fatte salve le definizioni di cui al comma 1-bis»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                dopo il comma 1 e' aggiunto il seguente: 
+ «1-bis. Ai fini dell'applicazione del presente decreto valgono le seguenti definizioni: 
+ a) sicurezza nucleare: il conseguimento di adeguate condizioni di esercizio, la prevenzione di incidenti e l'attenuazione delle loro conseguenze, al fine di assicurare la protezione dei lavoratori e della popolazione dai pericoli derivanti dalle radiazioni ionizzanti degli impianti nucleari; 
+ b) autorizzazione: documento avente valore legale rilasciato dall'autorita' preposta per conferire la responsabilita' in materia di localizzazione, progettazione, costruzione, messa in funzione ed esercizio o disattivazione di un impianto nucleare, ai sensi del presente decreto e successive modificazioni; 
+ c) titolare dell'autorizzazione: la persona fisica o giuridica avente la responsabilita' generale di un impianto nucleare come specificato nell'autorizzazione.».
 
 All'articolo 4 del decreto legislativo 17 marzo 1995, n. 230, alinea, le parole: «le seguenti definizioni» sono sostituite dalle seguenti: «le seguenti ulteriori definizioni».
 

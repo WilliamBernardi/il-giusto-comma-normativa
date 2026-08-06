@@ -7,8 +7,8 @@ urn: urn:nir:ministero.universita.e.ricerca:decreto:2026-05-18;110
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:42Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -28,12 +28,143 @@ Il presente regolamento reca la disciplina del riconoscimento delle Scuole di cu
 
 Le Scuole superiori per mediatori linguistici rilasciano, ove riconosciute e accreditate ai sensi del presente regolamento, titoli di studio conseguibili al termine di corsi di studio di primo ciclo di durata triennale, equipollenti ad ogni effetto di legge ai diplomi di laurea rilasciati dalle Universita' al termine dei corsi afferenti alla classe delle lauree in mediazione linguistica (L-12) di cui al decreto ministeriale 19 dicembre 2023, n. 1648. Qualora le suddette Scuole abbiano ottenuto l'accreditamento di un corso e di una sede, le stesse possono rilasciare titoli di studio di secondo ciclo di durata biennale, equipollenti ad ogni effetto di legge ai diplomi di laurea magistrale rilasciati dalle universita' al termine dei corsi afferenti alla classe delle lauree magistrali in Traduzione specialistica e interpretariato (LM-94) di cui al decreto ministeriale 19 dicembre 2023, n. 1649.
 
+3.
+                    
+                        
+                            Ai fini del presente regolamento si intendono: 
+ 
+                        
+                        
+                            a)
+                            
+                                per Ministro, il Ministro dell'universita' e della ricerca; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                per Ministero, il Ministero dell'universita' e della ricerca; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                per Direzione, la Direzione generale della didattica e del personale delle istituzioni universitarie e delle istituzioni dell'alta formazione artistica, musicale e coreutica (AFAM); 
+
+                            
+                        
+                        
+                            d)
+                            
+                                per Direttore generale, il Direttore della Direzione generale della didattica e del personale delle istituzioni universitarie e delle istituzioni dell'alta formazione artistica, musicale e coreutica (AFAM); 
+
+                            
+                        
+                        
+                            e)
+                            
+                                per Scuole superiori per mediatori linguistici (SSML), le Scuole pubbliche e private di cui alla legge 11 ottobre 1986, n. 697; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                per soggetto gestore, i soggetti pubblici e privati che abbiano presentato istanza ovvero abbiano ottenuto il riconoscimento di una SSML e l'accreditamento di uno o piu' corsi di primo ciclo di durata triennale, ai sensi dell'articolo 3; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                per Comitato regionale di coordinamento, il Comitato di cui all'articolo 3 del decreto del Presidente della Repubblica 27 gennaio 1998, n. 25; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                per ANVUR, l'Agenzia nazionale di valutazione del sistema universitario e della ricerca, istituita ai sensi dell'articolo 2, commi da 138 a 141, del decreto-legge 3 ottobre 2006, n. 262, convertito, con modificazioni, dalla legge 24 novembre 2006, n. 286; 
+
+                            
+                        
+                        
+                            i)
+                            
+                                per CUN, il Consiglio universitario nazionale di cui alla legge 16 gennaio 2006, n. 18; 
+
+                            
+                        
+                        
+                            l)
+                            
+                                per supplemento di diploma, il documento integrativo del titolo di studio, rilasciato in formato standardizzato e allegato al titolo finale, recante la descrizione del percorso formativo, delle competenze acquisite e del livello del titolo nel sistema nazionale di istruzione superiore, ai sensi della legge 11 luglio 2002, n. 148, di recepimento della Convenzione di Lisbona dell'11 aprile 1997.
+
 ## Art. 2.
 
 Requisiti per il riconoscimento delle SSML 
  e per l'accreditamento dei corsi di studio e delle sedi
 
+1.
+                    
+                        
+                            Il riconoscimento delle SSML e' effettuato, unitamente all'accreditamento di uno o piu' corsi di primo ciclo di durata triennale e delle sedi, con le procedure disciplinate dall'articolo 3 ed e' subordinato alla dimostrazione, da parte del soggetto istante, del possesso congiunto dei seguenti requisiti: 
+ 
+                        
+                        
+                            a)
+                            
+                                statuto della Scuola conforme ai requisiti organizzativi di cui all'articolo 4; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                struttura atta a garantire la qualita' dell'offerta formativa, consistente in adeguate risorse patrimoniali e finanziarie e in una congrua dotazione di aule, laboratori linguistici, ambienti multimediali, strumentazioni informatiche, biblioteche e aule studio, in proporzione al numero degli studenti; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                disponibilita' di qualificati docenti nelle discipline linguistiche, comprese quelle professionalizzanti, afferenti alle attivita' formative di base, caratterizzanti, affini o integrative, come indicate nell'Allegato al decreto ministeriale n. 1648 del 2023, con riferimento alla classe L-12, nei termini disciplinati dall'articolo 12; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                possesso di una solida struttura patrimoniale e finanziaria, tale da garantire la piena sostenibilita' della gestione con una prospettiva di cinque anni, la cui sussistenza e' valutata attraverso l'analisi dei bilanci e della relativa documentazione contabile riferiti agli ultimi tre esercizi, redatti in conformita' al regime contabile applicabile al soggetto istante e, per le Scuole di nuova costituzione, sulla base di documentazione economico-finanziaria previsionale e di adeguate garanzie patrimoniali o finanziarie; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                qualita' dell'offerta formativa, concernente la coerenza dei regolamenti didattici con gli obiettivi formativi qualificanti delle classi di laurea e di laurea magistrale di riferimento, l'articolazione dei percorsi di studio, le modalita' di verifica degli apprendimenti e i sistemi di assicurazione interna della qualita'.
+
 La verifica del possesso e della permanenza dei requisiti di cui al presente articolo e' svolta dall'ANVUR, secondo le procedure e nell'ambito delle competenze previste dal presente regolamento.
+
+3.
+                    
+                        
+                            Con decreto del Ministro, su proposta dell'ANVUR, da adottare entro novanta giorni dalla data di entrata in vigore del presente regolamento, sono approvate le linee guida, volte a definire esclusivamente: 
+ 
+                        
+                        
+                            a)
+                            
+                                gli indicatori e gli elementi per l'accertamento del possesso e della permanenza dei requisiti di qualificazione scientifica; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                le procedure operative per la valutazione, il monitoraggio e il controllo svolte dall'ANVUR, come disciplinate dal presente regolamento.
 
 ## Art. 3. — Procedura di riconoscimento delle SSML e di accreditamento dei corsi di studio e delle sedi
 
@@ -66,6 +197,38 @@ In ogni caso, l'esercizio dell'attivita' formativa accreditata non puo' essere s
 ## Art. 4. — Organizzazione delle SSML
 
 Le SSML adottano uno statuto che ne disciplina la gestione e il funzionamento, compresi i rapporti con i soggetti gestori delle SSML stesse, prevedendo gli organi responsabili della direzione amministrativa, scientifica e didattica, nonche' le attribuzioni, la composizione e la durata degli stessi. Gli organi di cui al primo periodo sono in grado di assicurare il monitoraggio periodico della qualita' e l'autovalutazione per entrambi i cicli formativi.
+
+2.
+                    
+                        
+                            Tra gli organi di cui al comma 1 e', in ogni caso, previsto un Nucleo di valutazione con funzioni di monitoraggio e di valutazione del funzionamento della Scuola e dei risultati scientifici e didattici conseguiti, composto da almeno quattro componenti, di cui: 
+ 
+                        
+                        
+                            a)
+                            
+                                un docente interno alla Scuola; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                un docente esterno alla Scuola, anche in quiescenza da massimo 5 anni, che sia o sia stato inquadrato nei settori scientifico-disciplinari di riferimento per le attivita' formative caratterizzanti di cui al decreto ministeriale n. 639 del 2024 con funzioni di Presidente, il cui voto prevale in caso di votazioni con esito di parita'; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                un componente esterno esperto in possesso di specifica, idonea e documentata qualificazione in materia di interpretariato, traduzione e mediazione linguistica scelto dalla Scuola stessa; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                un rappresentante degli studenti eletto secondo le modalita' stabilite dallo Statuto di cui al comma 1.
 
 Le Scuole sono dotate di un organo di revisione contabile, anche in composizione monocratica, composto da soggetti in possesso di adeguati requisiti di professionalita'.
 
@@ -158,6 +321,25 @@ Il regolamento e le modifiche allo stesso sono approvate con decreto del Ministr
 ## Art. 12. — Docenza nei corsi
 
 Le attivita' formative dei corsi di primo e secondo ciclo sono affidate, nel rispetto dei requisiti e dei criteri stabiliti dall'articolo 2, in misura non inferiore al trenta per cento del numero complessivo dei docenti, a professori e a ricercatori delle universita' italiane e straniere, anche in quiescenza da non piu' di 5 anni, in possesso di specifica qualificazione nei settori scientifico-disciplinari di cui all'Allegato 1, lettera b), del presente regolamento. Ciascun docente assume la titolarita' di almeno un modulo di insegnamento, pari a un minimo di 36 ore. Le universita' di appartenenza possono negare ai docenti il nulla-osta allo svolgimento delle predette attivita' motivando il diniego esclusivamente in relazione alle cause di incompatibilita' di cui all'articolo 6 della legge n. 240 del 2010.
+
+2.
+                    
+                        
+                            In funzione del numero di studenti iscrivibili sono previsti, all'interno del corpo docente, almeno due docenti garanti per anno di corso attivo. I suddetti docenti assicurano il controllo interno della qualita' dei processi di gestione del corso di studio e possiedono i seguenti requisiti: 
+ 
+                        
+                        
+                            a)
+                            
+                                appartengono per almeno il 50 per cento ai ruoli dei professori universitari di prima o seconda fascia, anche in quiescenza da non piu' di 5 anni, gia' inquadrati in settori scientifico-disciplinari coerenti con l'offerta formativa dei corsi; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                fanno riferimento per almeno il 50 per cento a insegnamenti caratterizzanti dei corsi di studio di cui all'articolo 1, comma 2.
+Resta ferma, comunque, la presenza di almeno un docente ogni 30 iscritti al primo anno.
 
 Le attivita' formative possono essere affidate anche ad esperti in possesso di specifica, idonea e documentata qualificazione in materia di interpretariato, traduzione e mediazione linguistica, nonche' di documentata esperienza professionale e accademica acquisita in attivita' relative alle materie afferenti ai settori scientifico-disciplinari di cui all'Allegato 1, lettera b), del presente regolamento.
 

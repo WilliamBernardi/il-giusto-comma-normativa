@@ -7,8 +7,8 @@ urn: urn:nir:stato:decreto.legislativo:2019-11-25;165
 vigente: true
 source: normattiva-opendata
 collection: Leggi delega e relativi provvedimenti delegati
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:41:18Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -25,9 +25,69 @@ Sulla proposta del Ministro per gli affari europei e del Ministro dell'economia 
 ## Art. 1. — Modifiche alla parte I del decreto legislativo 
  24 febbraio 1998, n. 58
 
+1.
+                    
+                        
+                            All'articolo 4-sexies del decreto legislativo 24 febbraio 1998, n. 58, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 2, lettera a), le parole: «, per gli intermediari assicurativi ivi indicati» sono soppresse; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 2, la lettera c) e' abrogata; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                dopo il comma 2 e' inserito il seguente: 
+ «2-bis. In conformita' alle attribuzioni individuate al comma 2, la Consob esercita i poteri di vigilanza e d'indagine di cui alla Parte II.»; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                al comma 3, la lettera a) e' sostituita dalla seguente: 
+ «a) ad assicurare l'osservanza degli obblighi imposti dal regolamento (UE) n. 1286/2014 alle persone che forniscono consulenza sui prodotti d'investimento assicurativo, o vendono tali prodotti, con riguardo alle imprese di assicurazione e agli intermediari assicurativi di cui all'articolo 109, comma 2, lettere a) e b) del decreto legislativo 7 settembre 2005, n. 209, agli altri soggetti di cui questi intermediari assicurativi eventualmente si avvalgono iscritti nella sezione del registro di cui alla lettera e) dell'articolo 109, comma 2, del decreto legislativo n. 209 del 2005, e ai soggetti iscritti nella sezione del registro di cui alla lettera c) dell'articolo 109, comma 2, del decreto legislativo n. 209 del 2005;»; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                al comma 5, le parole «stabilendo in ogni caso una disciplina delle modalita' di assolvimento degli obblighi di notifica preventiva del documento contenente le informazioni chiave di cui al comma 2, lettera c) e all'articolo 4-decies» sono sostituite dalle seguenti: «individuando altresi', a fini di vigilanza, modalita' di accesso ai documenti contenenti le informazioni chiave prima che i PRIIP siano commercializzati in Italia, tenendo conto dell'esigenza di contenimento degli oneri per i soggetti vigilati».
+
 All'articolo 4-septies, comma 1, del decreto legislativo 24 febbraio 1998, n. 58, le parole: «o in caso di mancata notifica alla Consob del documento concernente le informazioni chiave o delle versioni riviste dello stesso ai sensi dell'articolo 4-decies e delle relative disposizioni attuative,» sono soppresse;
 
 L'articolo 4-decies del decreto legislativo 24 febbraio 1998, n. 58, e' abrogato.
+
+4.
+                    
+                        
+                            All'articolo 4-terdecies del decreto legislativo 24 febbraio 1998, n. 58, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 1, lettera l), punto ii), numero 3), le parole «entro il 31 dicembre di ogni anno» sono sostituite dalle seguenti: «con cadenza annuale»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 1, lettera l), l'ultimo periodo e' sostituito dal seguente: 
+ «L'avvenuta perdita dei requisiti previsti per l'esenzione di cui alla presente lettera deve essere comunicata senza indugio alla Consob dai soggetti interessati che possono continuare ad esercitare le attivita' indicate sub i) e ii) purche', entro sei mesi dalla suddetta comunicazione, presentino domanda di autorizzazione secondo le norme previste dal presente decreto;».
 
 ## Art. 2. — Modifiche alla parte II del decreto legislativo 24 febbraio 1998, n. 58
 
@@ -42,7 +102,53 @@ All'articolo 25-ter del decreto legislativo 24 febbraio 1998, n. 58, dopo il com
 
 All'articolo 30, comma 9, del decreto legislativo 24 febbraio 1998, n. 58, le parole: «emessi da banche» sono soppresse.
 
+5.
+                    
+                        
+                            All'articolo 31 del decreto legislativo 24 febbraio 1998, n. 58, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                i commi 1 e 2 sono sostituiti dai seguenti: 
+ «1. Per l'offerta fuori sede le Sim, le banche italiane, le imprese di investimento e le banche UE, le imprese di paesi terzi, le Sgr, le societa' di gestione UE, le Sicav, le Sicaf, i GEFIA UE e non UE, gli intermediari finanziari iscritti nell'albo previsto dall'articolo 106 del testo unico bancario si avvalgono di consulenti finanziari abilitati all'offerta fuori sede, fermo restando quanto previsto dagli articoli 27, comma 2, e 29-bis, comma 2. I consulenti finanziari abilitati all'offerta fuori sede stabiliti sul territorio della Repubblica di cui si avvalgono le imprese di investimento UE, le banche UE, le imprese di paesi terzi, le societa' di gestione UE, i GEFIA UE e non UE sono equiparati, ai fini dell'applicazione delle regole di condotta, a una succursale costituita nel territorio della Repubblica. 
+ 2. L'attivita' di consulente finanziario abilitato all'offerta fuori sede e' svolta esclusivamente nell'interesse di un solo soggetto. Il consulente finanziario abilitato all'offerta fuori sede promuove e colloca i servizi d'investimento e/o i servizi accessori presso clienti o potenziali clienti, riceve e trasmette le istruzioni o gli ordini dei clienti riguardanti servizi d'investimento o prodotti finanziari, promuove e colloca prodotti finanziari, presta consulenza in materia di investimenti ai clienti o potenziali clienti rispetto a detti prodotti o servizi finanziari. Il consulente finanziario abilitato all'offerta fuori sede puo' promuovere e collocare contratti relativi alla concessione di finanziamenti o alla prestazione di servizi di pagamento per conto del soggetto nell'interesse del quale esercita l'attivita' di offerta fuori sede.»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 3 le parole «soggetto abilitato» sono sostituite dalle seguenti: «soggetto»; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                il comma 3-bis e' sostituito dal seguente: 
+ «3-bis. I soggetti di cui al comma 1 garantiscono che i consulenti finanziari abilitati all'offerta fuori sede comunichino immediatamente a qualsiasi cliente o potenziale cliente in che veste operano e quale soggetto rappresentano. I soggetti di cui al comma 1 adottano tutti i necessari controlli sulle attivita' esercitate dai consulenti finanziari abilitati all'offerta fuori sede in modo che essi stessi continuino a rispettare le disposizioni del presente decreto e delle relative norme di attuazione. I soggetti che si avvalgono di consulenti finanziari abilitati all'offerta fuori sede verificano che i medesimi possiedano le conoscenze e la competenza adeguate per essere in grado di prestare i servizi d'investimento o i servizi accessori e di comunicare accuratamente tutte le informazioni riguardanti i servizi proposti al cliente o potenziale cliente. I soggetti che nominano consulenti finanziari abilitati all'offerta fuori sede adottano misure adeguate per evitare qualsiasi eventuale impatto negativo delle attivita' di questi ultimi che non rientrano nell'ambito di applicazione della direttiva 2014/65/UE sulle attivita' esercitate dagli stessi per loro conto.».
+
 All'articolo 31-bis, comma 4, del decreto legislativo 24 febbraio 1998, n. 58, dopo le parole «La Consob» sono inserite le seguenti: «, le altre autorita' di cui all'articolo 4, comma 1».
+
+7.
+                    
+                        
+                            All'articolo 32 del decreto legislativo 24 febbraio 1998, n. 58, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                la rubrica e' sostituita dalla seguente: «(Promozione e collocamento a distanza di servizi e attivita' di investimento e di prodotti finanziari)»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 2 le parole «nell'articolo 30» sono sostituite dalle seguenti: «negli articoli 30 e 30-bis».
 
 All'articolo 32-ter del decreto legislativo 24 febbraio 1998, n. 58, il comma 1 e' sostituito dal seguente: 
  «1. I soggetti nei cui confronti la Consob esercita la propria attivita' di vigilanza, da individuarsi con il regolamento di cui al comma 2, nonche' i consulenti finanziari autonomi e le societa' di consulenza finanziaria aderiscono a sistemi di risoluzione stragiudiziale delle controversie con gli investitori diversi dai clienti professionali di cui all'articolo 6, commi 2-quinquies e 2-sexies. In caso di mancata adesione, alle societa' e agli enti si applicano le sanzioni di cui all'articolo 190, comma 1, e alle persone fisiche di cui all'articolo 18-bis si applicano le sanzioni di cui all'articolo 187-quinquiesdecies, comma 1-bis. Le sanzioni previste dal presente comma sono applicate ai consulenti finanziari autonomi e alle societa' di consulenza finanziaria secondo il procedimento disciplinato dall'articolo 196, comma 2.».
@@ -59,6 +165,32 @@ All'articolo 50-quinquies, comma 3, del decreto legislativo 24 febbraio 1998, n.
 
 All'articolo 61, comma 1, del decreto legislativo 24 febbraio 1998, n. 58, la lettera g) e' sostituita dalla seguente: 
  «g) "mercato di crescita per le piccole e medie imprese": un sistema multilaterale di negoziazione registrato come un mercato di crescita per le piccole e medie imprese in conformita' all'articolo 69;».
+
+2.
+                    
+                        
+                            All'articolo 66-quater del decreto legislativo 24 febbraio 1998, n. 58, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 1, le parole «delle comunicazioni previste dal comma 3» sono sostituite dalle seguenti: «dell'esercizio da parte della Consob delle funzioni di punto di contatto ai sensi dell'articolo 4 del presente decreto»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                dopo il comma 1 e' inserito il seguente: 
+ «1-bis. La Consob puo' esercitare i poteri di cui al comma 1 anche nei confronti degli internalizzatori sistematici.»; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                il comma 6 e' abrogato.
 
 All'articolo 67-ter, comma 8, lettera b), del decreto legislativo 24 febbraio 1998, n. 58, dopo le parole «28 e 29-ter» sono aggiunte le seguenti: «, nonche' agli operatori del paese non UE che accedono alla sede di negoziazione che ha ottenuto l'autorizzazione o il nulla-osta ai sensi degli articoli 26, comma 6, 29, comma 3, o 70, comma 2.».
 
@@ -92,6 +224,24 @@ All'articolo 190, comma 2, lettera b), del decreto legislativo 24 febbraio 1998,
 All'articolo 190.3, comma 1, del decreto legislativo 24 febbraio 1998, n. 58, dopo la lettera a) e' inserita la seguente: 
  «a-bis) ai gestori dei mercati regolamentati, nel caso di inosservanza delle disposizioni previste dall'articolo 90-quinquies, commi 2 e 3;».
 
+5.
+                    
+                        
+                            All'articolo 193-quinquies del decreto legislativo 24 febbraio 1998, n. 58, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 1 dopo le parole «ai sensi dell'articolo» sono inserite le seguenti: «4-sexies, comma 5, nonche' delle misure adottate ai sensi dell'articolo»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                il comma 2 e' abrogato.
+
 All'articolo 194-septies, comma 1, lettera d), del decreto legislativo 24 febbraio 1998, n. 58, le parole: «dell'obbligo di notifica di cui all'articolo 4-decies e delle relative disposizioni attuative,» sono soppresse e dopo le parole «ai sensi» sono inserite le seguenti: «dell'articolo 4-sexies, comma 5, e».
 
 ## Art. 6. — Modifiche all'articolo 9 del decreto legislativo 
@@ -117,6 +267,24 @@ All'articolo 121-quater, comma 1, del decreto legislativo 7 settembre 2005, n. 2
 ## Art. 8. — Disposizioni transitorie e finali
 
 Gli articoli 4-sexies, 4-septies, 4-decies, 193-quinquies e 194-septies del decreto legislativo 24 febbraio 1998, n. 58, vigenti il giorno precedente alla data di entrata in vigore del presente decreto legislativo continuano ad applicarsi fino alla data di entrata in vigore delle misure regolamentari emanate dalla Consob in conformita' con il disposto dell'articolo 4-sexies, comma 5, ai fini dell'esercizio delle competenze di vigilanza attribuite dal comma 2 del medesimo articolo. La Consob, ferma restando l'applicazione dell'art. 193-quinquies del decreto legislativo 24 febbraio 1998, n. 58, adotta le predette misure regolamentari, ai sensi dell'articolo 1, comma 1, lettera e) e dell'articolo 5, comma 6, del presente decreto, secondo principi di proporzionalita' e semplificazione, anche prevedendo modalita' elettroniche di acquisizione della documentazione necessaria per l'assolvimento delle proprie funzioni di vigilanza, entro centottanta giorni dalla data di entrata in vigore del presente decreto. Al fine di garantire l'esercizio delle richiamate funzioni di vigilanza, nel suddetto periodo di centottanta giorni continuano ad applicarsi le vigenti disposizioni emanate dalla Consob ai sensi dell'articolo 4-sexies, comma 5.
+
+2.
+                    
+                        
+                            In attuazione di quanto previsto dall'articolo 1, paragrafo 1, n. 9, della direttiva 2016/1034 del Parlamento europeo e del Consiglio del 23 giugno 2016, fino al 3 gennaio 2021, le autorita' di vigilanza, individuate secondo il riparto di competenze previsto dall'articolo 4-quater del decreto legislativo 24 febbraio 1998, n. 58, attuano le misure di competenza per la concessione della deroga di cui all'articolo 95, paragrafo 1, della direttiva 2014/65/UE del Parlamento europeo e del Consiglio del 15 maggio 2014, in conformita' di entrambi i seguenti criteri: 
+ 
+                        
+                        
+                            a)
+                            
+                                l'obbligo di compensazione di cui all'articolo 4 del regolamento (UE) n. 648/2012 e le tecniche di attenuazione dei rischi di cui all'articolo 11, paragrafo 3, del suddetto regolamento non si applicano ai contratti derivati su prodotti energetici C6 stipulati da controparti non finanziarie che soddisfano le condizioni di cui all'articolo 10, paragrafo 1, del regolamento (UE) n. 648/2012 o da controparti non finanziarie autorizzate per la prima volta come imprese di investimento a decorrere dal 3 gennaio 2018; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                tali contratti derivati su prodotti energetici C6 non sono considerati contratti derivati OTC ai fini della soglia di compensazione stabilita all'articolo 10 del regolamento (UE) n. 648/2012.
 
 I contratti derivati su prodotti energetici C6 che beneficiano del regime transitorio previsto al comma 2 sono soggetti a tutti gli altri requisiti stabiliti dal regolamento (UE) n. 648/2012.
 

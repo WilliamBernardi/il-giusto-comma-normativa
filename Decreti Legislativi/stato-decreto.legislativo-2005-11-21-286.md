@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
 vigenza_date: 2025-07-20
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:31Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -34,9 +34,108 @@ Il presente Capo ha per oggetto la liberalizzazione regolata dell'esercizio dell
 
 ## Art. 2. — Definizioni
 
+1.
+                        
+                            
+                                Ai fini del presente Capo, si intende per: 
+ 
+                            
+                            
+                                a)
+                                
+                                    attivita' di autotrasporto, la prestazione di un servizio, eseguita in modo professionale e non strumentale ad altre attivita', consistente nel trasferimento di cose di terzi su strada mediante autoveicoli, dietro il pagamento di un corrispettivo; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    vettore, l'impresa di autotrasporto iscritta all'albo nazionale delle persone fisiche e giuridiche che esercitano l'autotrasporto di cose per conto di terzi, ovvero l'impresa non stabilita in Italia, abilitata ad eseguire attivita' di autotrasporto internazionale o di cabotaggio stradale in territorio italiano che e' parte di un contratto di trasporto di merci su strada ((. Si considera vettore anche l'impresa iscritta all'albo nazionale delle persone fisiche e giuridiche che esercitano l'autotrasporto di cose per conto di terzi associata a una cooperativa, aderente a un consorzio o parte di una rete di imprese, nel caso in cui esegua prestazioni di trasporto ad essa affidate dal raggruppamento cui aderisce)); 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    committente, l'impresa o la persona giuridica pubblica che stipula o nel nome della quale e' stipulato il contratto di trasporto con il vettore ((. Si considera committente anche l'impresa iscritta all'albo nazionale delle persone fisiche e giuridiche che esercitano l'autotrasporto di cose per conto di terzi che stipula contratti scritti e svolge servizi di deposito, movimentazione e lavorazione della merce, connessi o preliminari all'affidamento del trasporto)); 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    caricatore, l'impresa o la persona giuridica pubblica che consegna la merce al vettore, curando la sistemazione delle merci sul veicolo adibito all'esecuzione del trasporto; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    proprietario della merce, l'impresa o la persona giuridica pubblica che ha la proprieta' delle cose oggetto dell'attivita' di autotrasporto al momento della consegna al vettore;
+
 ## Art. 3. — Superamento tariffe obbligatorie
 
 A decorrere dal 28 febbraio 2006, ovvero dalla data di entrata in vigore dei decreti dirigenziali di cui agli articoli 6, 11 e 12, se anteriore, e' abrogato il sistema delle tariffe obbligatorie a forcella per l'esercizio dell'attivita' di autotrasporto, di cui al titolo terzo della legge 6 giugno 1974, n. 298, e successive modificazioni.
+
+2.
+                        
+                            
+                                Dalla data di cui al comma 1, la determinazione del corrispettivo per l'esecuzione dei servizi di autotrasporto e' regolata dall'articolo 4 e sono abrogate le seguenti norme:
+ 
+                            
+                            
+                                a)
+                                
+                                    il titolo terzo della legge 6 giugno 1974, n. 298, e successive modificazioni;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'ultimo comma dell'articolo 26 della legge 6 giugno 1974, n. 298;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    l'articolo 1 della legge 22 agosto 1985, n. 450, e successive modificazioni;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    gli articoli 2, 3 e 4 del decreto-legge 29 marzo 1993, n. 82, convertito, con modificazioni, dalla legge 27 maggio 1993, n. 162;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    il decreto del Presidente della Repubblica 9 gennaio 1978, n. 56;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    il decreto del Ministro dei trasporti in data 18 novembre 1982, e successive modificazioni, pubblicato nel supplemento ordinario alla Gazzetta Ufficiale n. 342 del 14 dicembre 1982;
+
+                                
+                            
+                            
+                                g)
+                                
+                                    il decreto del Ministro dei trasporti in data 22 dicembre 1982, e successive modificazioni, pubblicato nella Gazzetta Ufficiale n. 356 del 29 dicembre 1982;
+
+                                
+                            
+                            
+                                h)
+                                
+                                    il decreto del Ministro dei trasporti in data 1° agosto 1985, e successive modificazioni, pubblicato nella Gazzetta Ufficiale n. 198 del 23 agosto 1985.
 
 Sono comunque abrogate le disposizioni incompatibili con la disciplina del presente decreto legislativo.
 
@@ -50,6 +149,67 @@ Sono nulle le clausole dei contratti di trasporto che comportano modalita' e con
 
 Le organizzazioni associative di vettori e di utenti dei servizi di trasporto possono stipulare accordi di diritto privato, nell'interesse delle imprese rispettivamente associate, al fine di regolare i relativi rapporti contrattuali sulla base della normativa in materia di sicurezza della circolazione e di sicurezza sociale.
 
+2.
+                        
+                            
+                                Elementi essenziali degli accordi di cui al presente articolo sono:
+ 
+                            
+                            
+                                a)
+                                
+                                    indicazione della categoria merceologica alla quale sono applicabili;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    previsione della obbligatorieta' della forma scritta dei
+ contratti di trasporto stipulati in conformita' degli accordi stessi;
+                                
+                            
+                            
+                                c)
+                                
+                                    previsione dell'obbligo di subordinare la stipula dei
+contratti alla condizione del regolare esercizio, da parte del vettore, dell'attivita' di autotrasporto;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    previsione della responsabilita' soggettiva del vettore e, se accertata, del committente, del caricatore e del proprietario della merce, nei termini di cui alla legge 1° marzo 2005, n. 32, articolo 2, comma 2, lettera b), numero 3), nei casi di violazione della normativa in materia di sicurezza della circolazione, con particolare riguardo a quelle relative al carico dei veicoli, ai tempi di guida e di riposo dei conducenti e alla velocita' massima consentita;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    previsione della dichiarazione, da parte dell'impresa di autotrasporto, con riferimento all'operato dei suoi conducenti, dell'osservanza dei contratti collettivi ed individuali di lavoro, della normativa in materia previdenziale ed assistenziale, e di quella in materia di autotrasporto di merci per conto di terzi, nonche' per la perdita, i danni o l'avaria delle merci trasportate;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    durata predeterminata, comunque non superiore al triennio, con possibilita' di proroga tacita, salvo disdetta da comunicarsi entro un congruo periodo di tempo anteriore alla scadenza;
+
+                                
+                            
+                            
+                                g)
+                                
+                                    individuazione di organismi, composti da rappresentanti del Ministero delle infrastrutture e dei trasporti, delle associazioni dei vettori e di quelle degli utenti, per la verifica sulla corretta applicazione degli accordi;
+
+                                
+                            
+                            
+                                h)
+                                
+                                    ricorso, in caso di controversie relative agli accordi, ad un tentativo di conciliazione, prima di procedere ad azioni sindacali, affidato ad un soggetto nominato dalle competenti strutture del Ministero delle infrastrutture e dei trasporti.
+
 Gli accordi volontari di cui al presente articolo possono prevedere l'adozione di un indice di riferimento per la variazione annuale dei costi, con particolare riguardo all'andamento del costo del carburante, al fine di consentire lo scambio di informazioni sensibili fra le parti.
 
 Gli accordi entrano in vigore dieci giorni dopo la notifica degli stessi, da effettuarsi a cura delle organizzazioni firmatarie, al Ministero delle infrastrutture e dei trasporti.
@@ -61,6 +221,70 @@ Gli accordi collettivi nazionali di settore, stipulati, ai sensi della disciplin
 Il contratto di trasporto di merci su strada e' stipulato, di regola, in forma scritta e, comunque, con data certa per favorire la correttezza e la trasparenza dei rapporti fra i contraenti, ai sensi delle vigenti disposizioni di legge.
 
 Con decreto dirigenziale della competente struttura del Ministero delle infrastrutture e dei trasporti, da adottarsi entro il termine di novanta giorni dalla data di entrata in vigore del presente decreto legislativo, sono determinati modelli contrattuali tipo per facilitare l'uso della forma scritta dei contratti di trasporto di merci su strada.
+
+3.
+                        
+                            
+                                Elementi essenziali dei contratti stipulati in forma scritta sono: 
+ 
+                            
+                            
+                                a)
+                                
+                                    nome e sede del vettore e del committente e, se diverso, del caricatore; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    numero di iscrizione del vettore all'Albo nazionale degli autotrasportatori di cose per conto di terzi; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    tipologia e quantita' della merce oggetto del trasporto, nel rispetto delle indicazioni contenute nella carta di circolazione dei veicoli adibiti al trasporto stesso; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    corrispettivo del servizio di trasporto e modalita' di pagamento, nonche' clausola di adeguamento di tale corrispettivo al costo del carburante, sulla base delle variazioni intervenute nel prezzo del gasolio da autotrazione a seguito delle rilevazioni mensili del Ministero della transizione ecologica, qualora dette variazioni superino del 2 per cento il valore preso a riferimento al momento della stipulazione del contratto o dell'ultimo adeguamento effettuato; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    luoghi di presa in consegna della merce da parte del vettore e di riconsegna della stessa al destinatario; 
+
+                                
+                            
+                            
+                                e-bis)
+                                
+                                    i tempi massimi per il carico e lo scarico della merce trasportata.
+
+4.
+                        
+                            
+                                Elementi eventuali dei contratti stipulati in forma scritta sono: 
+ 
+                            
+                            
+                                a)
+                                
+                                    termini temporali per la riconsegna della merce; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    istruzioni aggiuntive del committente o dei soggetti di cui alla lettera a) del comma 3.
 
 Per i trasporti eseguiti in regime di cabotaggio stradale, il contratto di autotrasporto deve contenere gli elementi di cui al comma 3 ed alla lettera a) del comma 4, nonche' gli estremi della licenza comunitaria e di ogni altra eventuale documentazione prevista dalle vigenti disposizioni.
 
@@ -104,6 +328,52 @@ In presenza di un contratto di trasporto di merci su strada stipulato in forma s
 Quando il contratto di trasporto non sia stato stipulato in forma scritta, anche mediante richiamo ad un accordo di diritto privato concluso ai sensi dell'articolo 5, gli organi di polizia stradale che hanno accertato la violazione, da parte del conducente del veicolo con cui e' stato effettuato il trasporto, dei limiti di velocita' di cui all'articolo 142 del decreto legislativo 30 aprile 1992, n. 285, e successive modificazioni, o la mancata osservanza dei tempi di guida e di riposo di cui all'articolo 174 dello stesso decreto legislativo, verificano la compatibilita' delle istruzioni scritte fornite al vettore, in merito all'esecuzione della specifica prestazione di trasporto, con il rispetto della disposizione di cui e' stata contestata la violazione. Le istruzioni devono trovarsi a bordo del veicolo e possono essere contenute nella scheda di trasporto o nella documentazione equivalente ovvero allegate alla documentazione equipollente di cui all'articolo 7-bis. In mancanza delle istruzioni di cui sopra a bordo del veicolo, al vettore ed al committente si applicano le sanzioni amministrative pecuniarie previste per le violazioni contestate al conducente. Le stesse sanzioni sono altresi' applicate al vettore e al committente quando le istruzioni di trasporto sono incompatibili con il rispetto delle predette norme.
 
 In relazione alle esigenze di tutela della sicurezza sociale, quando il contratto di trasporto non sia stato stipulato in forma scritta, anche mediante richiamo ad un accordo di diritto privato concluso ai sensi dell'articolo 5, il committente, o un suo delegato alla compilazione, riporta sulla scheda di trasporto o sulla documentazione equivalente di cui all'articolo 7-bis, comma 1, il numero di iscrizione del vettore all'Albo nazionale degli autotrasportatori ovvero allega alla documentazione ad essa equipollente una dichiarazione scritta di aver preso visione della carta di circolazione del veicolo o di altra documentazione da cui risulti il numero di iscrizione del vettore all'Albo nazionale degli autotrasportatori. Qualora non siano riportate tali indicazioni sulla scheda di trasporto o sui documenti equivalenti ovvero non sia allegata ai documenti equipollenti la dichiarazione sopra indicata, al committente e' applicata la sanzione prevista dall'articolo 7-bis, comma 4.
+
+6.
+                        
+                            
+                                Ai fini dell'accertamento della responsabilita' di cui ai commi da 1 a 5, sono rilevanti le violazioni delle seguenti disposizioni del decreto legislativo 30 aprile 1992, n. 285, e successive modificazioni, inerenti la sicurezza della circolazione:
+ 
+                            
+                            
+                                a)
+                                
+                                    articolo 61 (sagoma limite);
+
+                                
+                            
+                            
+                                b)
+                                
+                                    articolo 62 (massa limite);
+
+                                
+                            
+                            
+                                c)
+                                
+                                    articolo 142 (limiti di velocita);
+
+                                
+                            
+                            
+                                d)
+                                
+                                    articolo 164 (sistemazione del carico sui veicoli);
+
+                                
+                            
+                            
+                                e)
+                                
+                                    articolo 167 (trasporto di cose su veicoli a motore e sui rimorchi), anche nei casi diversi da quello di cui al comma 9 dello stesso articolo;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    articolo 174 (durata della guida degli autoveicoli adibiti al trasporto di persone e cose).
 
 Il caricatore e' in ogni caso responsabile laddove venga accertata la violazione delle norme in materia di massa limite ai sensi degli articoli 61 e 62 del decreto legislativo 30 aprile 1992, n. 285, e successive modificazioni, e di quelle relative alla corretta sistemazione del carico sui veicoli, ai sensi dei citati articoli 164 e 167 dello stesso decreto legislativo.
 
@@ -211,6 +481,109 @@ L'attivita' di guida su strada aperta all'uso pubblico per mezzo di veicoli ((ad
 
 ((
 
+1.
+                        
+                            
+                                La qualificazione di cui all'articolo 14 non e' richiesta ai conducenti dei veicoli: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la cui velocita' massima autorizzata non supera i 45 km/h; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    ad uso delle forze armate, della protezione civile, del corpo nazionale dei vigili del fuoco, delle forze di polizia e dei servizi di trasporto sanitario di emergenza, o messi a loro disposizione, quando il trasporto e' effettuato in conseguenza di compiti assegnati a tali servizi; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    sottoposti a prove su strada a fini di perfezionamento tecnico, riparazione o manutenzione, o ai conducenti dei veicoli nuovi o trasformati non ancora immessi in circolazione; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    per i quali e' necessaria una patente di categoria D o D1 e che sono guidati senza passeggeri dal personale di manutenzione verso o da un centro di manutenzione ubicato in prossimita' della piu' vicina sede di manutenzione utilizzata dall'operatore del trasporto, a condizione che la guida del veicolo non costituisca l'attivita' principale del conducente; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    utilizzati per stati di emergenza o destinati a missioni di salvataggio, compresi i veicoli impiegati per il trasporto di aiuti umanitari a fini non commerciali; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    utilizzati per le lezioni e gli esami di guida da candidati al conseguimento della patente di guida o di un'abilitazione professionale alla guida, ovvero da soggetti che frequentano una formazione alla guida supplementare nell'ambito dell'apprendimento sul lavoro, a condizione che siano accompagnate da un istruttore di guida o da un'altra persona titolare della qualificazione professionale di cui all'articolo 14; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    utilizzati per il trasporto di passeggeri o di merci a fini non commerciali; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    che trasportano materiale, attrezzature o macchinari utilizzati dal conducente nell'esercizio della propria attivita', a condizione che la guida dei veicoli non costituisca l'attivita' principale del conducente.
+
+2.
+                        
+                            
+                                La qualificazione di cui all'articolo 14 non e' richiesta quando ricorrano le seguenti circostanze: 
+ 
+                            
+                            
+                                a)
+                                
+                                    i conducenti di veicoli operano in zone rurali per approvvigionare l'impresa stessa del conducente; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    i conducenti non offrono servizi di trasporto; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il trasporto e' occasionale e non incidente sulla sicurezza stradale.
+
+3.
+                        
+                            
+                                Ai fini della lettera c) del comma 2, si intende: 
+ 
+                            
+                            
+                                a)
+                                
+                                    trasporto occasionale: il viaggio di un veicolo, per la cui guida e' richiesta la patente di guida delle categorie C1, C1E, C, CE, D1, D1E, D, DE, svolto da conducenti che non hanno la qualifica di conducenti professionali e purche' la specifica attivita' di autotrasporto non costituisca la fonte principale di reddito; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    non incidente sulla sicurezza stradale: il trasporto non eccezionale svolto in conformita' alle pertinenti normative sulla circolazione stradale.
+
 4. La qualificazione di cui all'articolo 14 non e' richiesta ai conducenti di veicoli utilizzati o noleggiati senza conducente da imprese agricole, orticole, forestali, di allevamento o di pesca per il trasporto di merci nell'ambito della loro attivita' di impresa, salvo quando la guida non rientri nell'attivita' principale del conducente o superi la distanza di 50 km dal luogo in cui si trova l'impresa proprietaria del veicolo o che l'ha preso a noleggio o in leasing.))
 
 -------------
@@ -228,6 +601,63 @@ L'attivita' di guida su strada aperta all'uso pubblico per mezzo di veicoli ((ad
 ## Art. 18. — (Qualificazione iniziale)
 
 Per l'accesso ai corsi di qualificazione iniziale, di cui all'articolo 19, comma 1, non e' richiesto il previo possesso della patente di guida corrispondente. Per accedere alla parte di programma relativo alle ore di guida individuale di cui all'allegato I, sezioni 2 o 2-bis, e' necessario il previo possesso dell'autorizzazione ad esercitarsi alla guida, rilasciata ai sensi dell'articolo 122, comma 1, del decreto legislativo 30 aprile 1992, n. 285, e successive modificazioni, per la patente di guida di categoria corrispondente a quella presupposta dalla carta di qualificazione del conducente che si intende conseguire.
+
+2.
+                        
+                            
+                                Il conducente di un veicolo adibito al trasporto di cose puo' guidare, a partire da: 
+ 
+                            
+                            
+                                a)
+                                
+                                    18 anni di eta': veicoli delle categorie di patente di guida C e CE, a condizione di essere titolare di carta di qualificazione del conducente conseguita a seguito della frequenza di un corso di qualificazione iniziale ordinario, di cui all'articolo 19, comma 2, e del superamento del relativo esame; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    18 anni di eta': veicoli delle categorie di patente di guida C1 e C1E, a condizione di essere titolare di carta di qualificazione del conducente conseguita a seguito della frequenza di un corso di qualificazione iniziale accelerato, di cui all'articolo 19, comma 2-bis, e del superamento del relativo esame; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    21 anni di eta': veicoli delle categorie di patente di guida C e CE, a condizione di essere titolare di carta di qualificazione del conducente conseguita a seguito della frequenza di un corso di qualificazione iniziale accelerato, di cui all'articolo 19, comma 2-bis, e del superamento del relativo esame.
+
+3.
+                        
+                            
+                                Il conducente di un veicolo adibito al trasporto di persone puo' guidare, a partire da: 
+ 
+                            
+                            
+                                a)
+                                
+                                    21 anni di eta': veicoli delle categorie di patente di guida D e DE, per servizi di linea con percorrenza non superiore a 50 chilometri, a condizione di essere titolare di carta di qualificazione del conducente conseguita a seguito della frequenza di un corso di qualificazione iniziale accelerato, di cui all'articolo 19, comma 2-bis, e del superamento del relativo esame ((. Il limite di eta' e' ridotto a 18 anni per guidare, nel territorio dello Stato, veicoli delle categorie di cui alla presente lettera per i servizi con la percorrenza ivi indicata, a condizione che il conducente sia titolare di carta di qualificazione del conducente conseguita a seguito della frequenza di un corso di qualificazione iniziale ordinario, di cui all'articolo 19, comma 2, della durata di 280 ore e del superamento del relativo esame)); 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    21 anni di eta': veicoli delle categorie di patente di guida D1 e D1E, a condizione di essere titolare di carta di qualificazione del conducente conseguita a seguito della frequenza di un corso di qualificazione iniziale accelerato, di cui all'articolo 19, comma 2-bis, e del superamento del relativo esame ((. Il limite di eta' e' ridotto a 18 anni per guidare, nel territorio dello Stato, veicoli delle categorie di cui alla presente lettera, a condizione che il conducente sia titolare di carta di qualificazione del conducente conseguita a seguito della frequenza di un corso di qualificazione iniziale ordinario, di cui all'articolo 19, comma 2, della durata di 280 ore e del superamento del relativo esame)); 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    21 anni di eta': veicoli delle categorie di patente di guida D e DE, a condizione di essere titolare di carta di qualificazione del conducente conseguita a seguito della frequenza di un corso di qualificazione iniziale ordinario, di cui all'articolo 19, comma 2, e del superamento del relativo esame ((. Il limite di eta' e' ridotto a 20 anni per guidare nel territorio dello Stato veicoli delle categorie di cui alla presente lettera, a condizione che il conducente sia titolare di carta di qualificazione del conducente conseguita a seguito della frequenza di un corso di qualificazione iniziale ordinario, di cui all'articolo 19, comma 2, della durata di 280 ore e del superamento del relativo esame. Alle medesime condizioni, il limite di eta' e' ulteriormente ridotto a 18 anni per la guida di tali veicoli senza passeggeri)); 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    23 anni di eta': veicoli delle categorie di patente di guida D e DE, a condizione di essere titolare di carta di qualificazione del conducente conseguita a seguito della frequenza di un corso di qualificazione iniziale accelerato, di cui all'articolo 19, comma 2-bis, e del superamento del relativo esame.
 
 La carta di qualificazione del conducente, conseguita con le modalita' di cui al comma 2, lettera b), abilita il titolare che abbia compiuto 21 anni di eta' al trasporto professionale di cose su tutte le categorie di veicoli previsti dal predetto comma 2.
 
@@ -248,6 +678,23 @@ La carta di qualificazione del conducente e' conseguita previa frequenza del cor
 Il corso di qualificazione iniziale ordinario e' conforme a quanto disposto dall'allegato I, sezione 2. (6)
 
 Il corso di qualificazione iniziale accelerato e' conforme a quanto disposto dall'allegato I, sezione 2-bis. (6)
+
+3.
+                        
+                            
+                                I corsi di cui al comma 1 sono organizzati: 
+
+                            
+                            
+                                a)
+                                
+                                    dalle autoscuole ovvero dai consorzi di autoscuole, a condizione che svolgono corsi di teoria e di guida per il conseguimento di tutte le patenti di guida; 
+                                
+                            
+                            
+                                b)
+                                
+                                    da soggetti autorizzati dal Ministero delle infrastrutture e dei trasporti - Dipartimento per i trasporti, la navigazione ed i sistemi informativi e statistici, sulla base dei criteri individuati con il decreto di cui al comma 5-bis. (6)
 
 L'esame di cui al comma 1 e' svolto da funzionari del Ministero delle infrastrutture e dei trasporti - Dipartimento per i trasporti, la navigazione ed i sistemi informativi e statistici, sulla base delle disposizioni adottate con il decreto di cui al comma 5-bis. (6)
 
@@ -308,7 +755,61 @@ L'Italia riconosce la carta di qualificazione del conducente rilasciata dagli al
 
 Il rilascio della carta di qualificazione del conducente e' subordinata al possesso della patente di guida in corso di validita'.
 
+6.
+                        
+                            
+                                I conducenti titolari di patente di guida rilasciata da uno Stato non appartenente all'Unione europea o allo Spazio economico europeo, dipendenti, in qualita' di autista, da un'impresa stabilita in uno Stato membro, comprovano la qualificazione iniziale e la formazione periodica per l'esercizio dell'attivita' professionale di guida per il trasporto di merci mediante: 
+ 
+                            
+                            
+                                a)
+                                
+                                    l'attestato di conducente previsto dal regolamento (CE) 1072/2009, recante il codice unionale armonizzato "95"; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la carta di qualificazione del conducente, rilasciata dalla Stato membro ove e' stabilita l'impresa, recante il codice unionale armonizzato "95". ((PERIODO SOPPRESSO DAL. D.L. 10 SETTEMBRE 2021, N. 121, CONVERTITO, CON MODIFICAZIONI, DALLA L. 9 NOVEMBRE 2021, N. 156)). (6)
+
 Gli attestati di conducente che non recano indicazione del codice "95" dell'Unione e che sono stati rilasciati prima dell'entrata in vigore della presente disposizione a norma dell'articolo 5 del regolamento (CE) n. 1072/2009, al fine di certificare la conformita' alle prescrizioni sulla formazione previste dal presente decreto, sono accettati come prova di qualificazione fino al loro termine di scadenza.
+
+7.
+                        
+                            
+                                I conducenti titolari di patente di guida rilasciata da uno Stato non appartenente all'Unione europea o allo Spazio economico europeo, dipendenti, in qualita' di autista, da un'impresa stabilita in uno Stato membro , comprovano la qualificazione iniziale e la formazione periodica per l'esercizio dell'attivita' professionale del trasporto di persone mediante il possesso di uno dei seguenti titoli: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la carta di qualificazione del conducente, rilasciata dalla Stato membro ove e' stabilita l'impresa, recante il codice unionale armonizzato "95"; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    certificato rilasciato da uno Stato membro, del quale l'Italia abbia riconosciuto validita' su territorio nazionale a condizione di reciprocita'. (6)
+
+7-bis.
+                        
+                            
+                                Non si applicano i criteri di propedeuticita' di cui all'articolo 125, comma 1, del decreto legislativo 30 aprile 1992, n. 285, e successive modificazioni, ed e' consentito conseguire la patente di guida di categoria corrispondente alla patente estera posseduta, al dipendente, in qualita' di autista, da un'impresa avente sede in Italia e titolare di carta di qualificazione del conducente rilasciata in Italia per mera esibizione della patente di guida posseduta, ovvero a seguito di qualificazione iniziale o formazione periodica, che: 
+ 
+                            
+                            
+                                a)
+                                
+                                    sia titolare di patente di guida rilasciata da uno Stato con il quale non sussistono le condizioni di reciprocita' richieste dall'articolo 136, comma 1, del decreto legislativo n. 285 del 1992, e che ha stabilito la propria residenza in Italia, anche oltre il termine di un anno di cui al comma 1 del predetto articolo 136; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    sia titolare di patente rilasciata da uno Stato membro dell'Unione europea, su conversione di patente rilasciata da Stato terzo con il quale non sussistono le condizioni di reciprocita' richieste dall'articolo 136, comma 1, del decreto legislativo n. 285 del 1992, che scada di validita'. (6)
 
 All'atto del rilascio della patente, sulla stessa e' apposto il codice unionale "95", secondo i criteri di cui ai commi 2 e 3, in relazione al tipo di abilitazione consentita dalla patente conseguita ai sensi del comma 7-bis, nonche' la data di scadenza della qualificazione iniziale o della formazione periodica coincidente con quella della carta di qualificazione del conducente precedentemente posseduta. (6)
 

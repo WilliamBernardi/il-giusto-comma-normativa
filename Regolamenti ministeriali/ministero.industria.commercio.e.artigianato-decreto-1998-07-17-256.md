@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
 vigenza_date: 2003-07-22
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:41Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -25,6 +25,26 @@ DEL COMMERCIO E DELL'ARTIGIANATO
 Udito il parere del Consiglio di Stato espresso dalla sezione consultiva per gli atti normativi nell'adunanza del 2 luglio 1998;
 
 ## Art. 1. — Soggetti beneficiari
+
+1.
+                    
+                        
+                            Possono fruire del contributo previsto dall'articolo 1, comma 2, secondo e terzo periodo, del decreto-legge 25 settembre 1997, n. 324, convertito, con modificazioni, nella legge 25 novembre 1997, n. 403, le persone fisiche:
+ 
+                        
+                        
+                            a)
+                            
+                                che acquistano, in Italia, anche in locazione finanziaria, un autoveicolo nuovo di fabbrica omologato anche o esclusivamente a metano o a gas di petrolio liquefatto (GPL);
+
+                            
+                        
+                        
+                            b)
+                            
+                                che provvedono alla installazione di impianto di alimentazione a metano o a GPL su autoveicolo di proprieta' e di cui risulti l'intestazione alla persona fisica medesima, od ai suoi familiari conviventi, entro un anno successivo alla data di prima immatricolazione dello stesso, purche' quest'ultima abbia avuto luogo a partire dal 1 agosto 1997.
+ Avvertenza:
+ Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, comma 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con D.P.R. 28 dicembre 1985, n. 1092, al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
 
 ## Art. 2. — Entita'
 
@@ -59,6 +79,31 @@ La Direzione generale della motorizzazione civile, attraverso collegamento infor
 Ad avvenuto utilizzo dei nove decimi dello stanziamento annuo, il Ministero dell'industria, del commercio e dell'artigianato comunica alla Direzione generale della motorizzazione civile la imminente cessazione dell'intervento; analoga comunicazione viene trasmessa alle associazioni di categoria per gli importatori, costruttori e installatori.
 
 La cessazione dell'intervento ad esaurimento delle disponibilita' e' comunicata tramite avviso da pubblicare nella Gazzetta Ufficiale a cura del Ministero dell'industria, del commercio e dell'artigianato.
+
+8.
+                    
+                        
+                            Fino al 31 dicembre del quinto anno successivo a quello in cui e' stata emessa la fattura di vendita le imprese costruttrici o importatrici conservano la documentazione di seguito specificata, che deve essere ad essi trasmessa dal venditore e, per lo stesso periodo, gli installatori conservano:
+ 
+                        
+                        
+                            a)
+                            
+                                copia della fattura di vendita e dell'atto di acquisto ovvero copia della fattura di installazione da cui risulta l'importo dell'agevolazione prevista dalla legge;
+
+                            
+                        
+                        
+                            b)
+                            
+                                copia della carta di circolazione e del certificato di proprieta'; in caso di loro mancanza copia dell'estratto cronologico;
+
+                            
+                        
+                        
+                            c)
+                            
+                                certificato dello stato di famiglia nel caso di installazione di impianto a gas metano o GPL su autoveicolo intestato a familiari conviventi.
 
 ## Art. 6. — C r i t e r i
 

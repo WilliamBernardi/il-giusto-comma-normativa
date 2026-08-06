@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Regolamenti di delegificazione
 vigenza_date: 2021-12-21
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:40:24Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -46,6 +46,31 @@ Per i contribuenti che adempiono agli obblighi di fatturazione e registrazione t
 
 I registri tenuti ai fini dell'imposta sul valore aggiunto sostituiscono il registro di cui all'articolo 19, primo comma, del decreto del Presidente della Repubblica 29 settembre 1973, n. 600, qualora vi siano separate annotazioni delle operazioni non soggette a registrazione ai fini della suddetta imposta. Nell'ipotesi in cui l'incasso o il pagamento non sia avvenuto nell'anno di annotazione, nei registri deve essere riportato, con riferimento alle distinte operazioni, l'importo complessivo dei mancati incassi o dei mancati pagamenti. I singoli ammontari relativi ai predetti incassi o pagamenti devono essere annotati nei registri stessi con riferimento al periodo d'imposta in cui vengono ricevuti o effettuati.
 
+2.
+                    
+                        
+                            I contribuenti di cui all'articolo 19, primo comma, del decreto del Presidente della Repubblica 29 settembre 1973, n. 600, possono optare per il regime di contabilita' ordinaria, per il periodo d'imposta in corso, nella dichiarazione annuale ai fini dell'IVA, relativa all'anno precedente, o nella dichiarazione di inizio di attivita'. L'opzione ha effetto fino a quando non sia revocata e, in ogni caso, per almeno un triennio. In tal caso devono tenere:
+ 
+                        
+                        
+                            a)
+                            
+                                il registro nel quale annotare cronologicamente le operazioni produttive di componenti positivi e negativi di reddito integrate dalle movimentazioni finanziarie inerenti all'esercizio dell'arte o professione, compresi gli utilizzi delle somme percepite, ancorche' estranei all'esercizio dell'arte o professione nonche' gli estremi dei conti correnti bancari utilizzati per le movimentazioni predette;
+
+                            
+                        
+                        
+                            b)
+                            
+                                i registri obbligatori ai fini dell'imposta sul valore aggiunto;
+
+                            
+                        
+                        
+                            c)
+                            
+                                il registro dei beni ammortizzabili con le modalita' di cui all'articolo 16, primo, secondo e terzo comma, del decreto del Presidente della Repubblica 29 settembre 1973, n. 600, fermo restando la facolta' di eseguire le annotazioni esclusivamente nel registro degli acquisti tenuto ai fini dell'imposta sul valore aggiunto.
+
 Dalla data di entrata in vigore del presente regolamento sono abrogati i commi 3 e 4 dell'articolo 19 del decreto del Presidente della Repubblica 29 settembre 1973, n. 600, nonche' la lettera b-bis) del comma 1 dell'articolo 10 del decreto-legge 2 marzo 1989, n. 69, convertito, con modificazioni, dalla legge 27 aprile 1989, n. 154, introdotta dall'articolo 8, comma 6-ter, del decreto-legge 27 aprile 1990, n. 90, convertito, con modificazioni, dalla legge 26 giugno 1990, n. 165.
 
 ## Art. 4. — Formalita' contabili ed adempimenti in materia tributaria concernenti gli esercenti attivita' di impresa, di arti e professioni in regime di contabilita' semplificata.
@@ -79,6 +104,31 @@ Per le fatture emesse a norma del secondo comma dell'articolo 17 del decreto del
 Non sussiste, ai fini dell'imposta sul valore aggiunto, l'obbligo di annotare le fatture e le bollette doganali relative ad acquisti ed importazioni per i quali ricorrono le condizioni di indetraibilita' dell'imposta stabilite dal secondo comma dell'articolo 19 del decreto del Presidente della Repubblica 26 ottobre 1972, n. 633.
 
 COMMA SOPPRESSO DAL D.P.R. 5 OTTOBRE 2001, N. 404.
+
+9.
+                    
+                        
+                            Dalla data di entrata in vigore del presente regolamento sono abrogate le seguenti disposizioni del decreto del Presidente della Repubblica 26 ottobre 1972, n. 633: 
+ 
+                        
+                        
+                            a)
+                            
+                                articolo 23, quarto comma; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                articolo 24, primo comma, terzo periodo; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                articolo 25, primo e quarto comma.
 
 Dalla stessa data e' altresi' abrogato l'articolo 1, quarto comma, secondo periodo, del decreto del Ministro delle finanze 23 marzo 1983, pubblicato nella Gazzetta Ufficiale n. 82 del 24 marzo 1983.
 

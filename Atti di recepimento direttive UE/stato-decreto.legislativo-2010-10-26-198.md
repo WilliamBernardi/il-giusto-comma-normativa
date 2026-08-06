@@ -10,7 +10,7 @@ source: normattiva-opendata
 collection: Atti di recepimento direttive UE
 vigenza_date: 2013-08-21
 zip_date: 2026-07-30
-fetched_at: 2026-08-02T09:40:47Z
+fetched_at: 2026-07-30
 ---
 
 DECRETO LEGISLATIVO
@@ -25,6 +25,33 @@ Acquisito il parere delle competenti commissioni della Camera dei deputati e del
 Sulla proposta del Ministro per le politiche europee e del Ministro dello sviluppo economico, di concerto con i Ministri degli affari esteri, della giustizia e dell'economia e delle finanze;
 
 ## Art. 1. — Definizioni
+
+1.
+                    
+                        
+                            Ai sensi del presente decreto si intendono per: 
+ 
+                        
+                        
+                            a)
+                            
+                                apparecchiature terminali: 
+ 1) le apparecchiature allacciate direttamente o indirettamente all'interfaccia di una rete pubblica di telecomunicazioni per trasmettere, trattare o ricevere informazioni; in entrambi i casi di allacciamento, diretto o indiretto, esso puo' essere realizzato via cavo, fibra ottica o via elettromagnetica; un allacciamento e' indiretto se l'apparecchiatura e' interposta fra il terminale e l'interfaccia della rete pubblica; 
+ 2) le apparecchiature delle stazioni terrestri per i collegamenti via satellite; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                apparecchiature delle stazioni terrestri per i collegamenti via satellite: le apparecchiature che possono essere usate soltanto per trasmettere o per trasmettere e ricevere, «ricetrasmittenti», o unicamente per ricevere, «riceventi», segnali di radiocomunicazioni via satelliti o altri sistemi nello spazio; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                imprese: gli enti pubblici o privati ai quali lo Stato concede diritti speciali o esclusivi di importazione, di commercializzazione, di allacciamento, di installazione o di manutenzione di apparecchiature terminali di telecomunicazione.
 
 Gli operatori economici hanno il diritto di importare, di commercializzare, di installare e di allacciare le apparecchiature terminali e le apparecchiature delle stazioni terrestri per i collegamenti via satellite quali definite nel comma 1 e di provvedere alla loro manutenzione. Restano fermi la competenza degli operatori delle reti di comunicazione elettronica, come definiti all'articolo 4, comma 3, del decreto legislativo 9 maggio 2001, n. 269, per la costituzione e gestione delle interfacce di rete pubblica e l'obbligo di pubblicazione delle caratteristiche materiali delle medesime ai sensi dell'articolo 4, comma 2, del citato decreto legislativo 9 maggio 2001, n. 269.
 

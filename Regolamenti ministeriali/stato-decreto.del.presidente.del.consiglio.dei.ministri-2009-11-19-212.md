@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
 vigenza_date: 2017-12-15
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:41Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DEL CONSIGLIO DEI MINISTRI
@@ -62,6 +62,98 @@ L'esenzione dalla VIR puo' essere sempre deliberata e motivata dal Consiglio dei
  Ha inoltre disposto (con l'art. 21, comma 1) che tale abrogazione si applica a decorrere dal giorno successivo alla pubblicazione della direttiva prevista dall'articolo 3, comma 1 del medesimo D.P.C.M.
 
 ## Art. 3. — Contenuti della VIR
+
+1.
+                    
+                        
+                            La VIR viene effettuata con particolare riferimento ai seguenti profili: 
+ 
+                        
+                        
+                            a)
+                            
+                                raggiungimento delle finalita' poste alla base dell'atto normativo e specificate nella rispettiva relazione AIR; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                stima dei costi prodotti sui cittadini, sulle imprese, sull'organizzazione e il funzionamento delle organizzazioni pubbliche; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                stima degli effetti prodotti sui cittadini, sulle imprese, sull'organizzazione e il funzionamento delle organizzazioni pubbliche; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                verifica del livello e delle circostanze relative all'osservanza, da parte dei destinatari, delle prescrizioni contenute nell'atto normativo; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                individuazione di eventuali criticita' e loro riconducibilita' a lacune insite nell'atto normativo, ovvero a problemi relativi alla fase di attuazione dell'atto stesso; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                effetti, positivi o negativi, sulla semplificazione normativa e amministrativa; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                congruenza con il programma di Governo delle effettive conseguenze delle innovazioni normative; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                valutazione dell'incidenza del provvedimento sul corretto funzionamento concorrenziale del mercato, sui processi di liberalizzazione e sull'ampliamento delle liberta' dei soggetti dell'ordinamento giuridico.
+
+2.
+                    
+                        
+                            La VIR include una conclusione di sintesi sulla valutazione dell'impatto effettuata che riassume: 
+ 
+                        
+                        
+                            a)
+                            
+                                il grado di raggiungimento delle finalita' poste a base dell'adozione dell'intervento; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                l'eventuale insorgenza di costi o effetti non previsti; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                le principali criticita' emerse; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                l'eventuale necessita' di misure integrative o correttive con riferimento all'atto o alle circostanze di attuazione.
 
 La verifica relativa ai succitati contenuti va operata con la puntuale esplicitazione degli indicatori presi a riferimento e delle fonti a supporto, incluse le risultanze di eventuali consultazioni svolte con le principali categorie interessate dall'intervento. 
  ((1))

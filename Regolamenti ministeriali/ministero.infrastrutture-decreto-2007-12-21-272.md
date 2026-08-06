@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
 vigenza_date: 2008-03-19
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:39Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -51,6 +51,51 @@ Il procedimento per l'irrogazione delle sanzioni di cui al comma 1 e' iniziato d
 In caso di inadempimento da parte delle SOA agli obblighi di trasmissione previsti dal comma 1, l'Autorita' acquisisce i dati ai sensi dell'articolo 6, comma 9, del decreto legislativo 12 aprile 2006, n. 163.
 
 ## Art. 4. — Adempimenti a carico di altri soggetti
+
+1.
+                    
+                        
+                            I modelli informatici compilati ed inviati dalle SOA ai sensi dell'articolo 2, sono trasmessi dall'Osservatorio, entro dieci giorni dalla ricezione, e comunque non oltre dieci giorni dalla scadenza del termine di cui all'articolo 2, comma 2:
+ 
+                        
+                        
+                            a)
+                            
+                                alle amministrazioni aggiudicatrici competenti, le quali, in relazione a ciascun certificato di lavori pubblici, compresi i certificati di lavori pubblici rilasciati ai sensi della legge 10 febbraio 1962, n. 57, verificano e attestano la veridicita' dei seguenti dati:
+ 1) data del contratto di appalto;
+ 2) oggetto del contratto di appalto con riferimento alle categorie di cui alla tabella corrispondenze nuove e vecchie categorie, allegato A del decreto del Presidente della Repubblica 25 gennaio 2000, n. 34;
+ 3) denominazione e composizione del soggetto aggiudicatario;
+ 4) inizio e ultimazione lavori;
+ 5) opere eseguite da eventuali subappaltatori;
+ 6) importi contrattuali dell'appalto e di eventuali perizie di variante o suppletive delle opere eseguite;
+ 7) buon esito delle opere;
+ 8) nominativo del responsabile del procedimento o del funzionario che ha rilasciato il certificato;
+
+                            
+                        
+                        
+                            b)
+                            
+                                al Nucleo di Polizia tributaria della Guardia di finanza competente per territorio, il quale, in relazione alle fatture presentate dalle imprese ai sensi dell'articolo 25, comma 5, lettera c), del decreto del Presidente della Repubblica 25 gennaio 2000, n. 34, verifica la veridicita' dei seguenti dati:
+ 1) denominazione del soggetto intestatario delle fatture;
+ 2) oggetto dei lavori;
+ 3) data dell'emissione delle fatture e relativo numero;
+ 4) importo al netto di IVA;
+
+                            
+                        
+                        
+                            c)
+                            
+                                ai provveditorati regionali ed interregionali per le opere pubbliche del Ministero delle infrastrutture competenti per territorio, i quali, in relazione ai certificati di lavori privati rilasciati ai sensi della legge 10 febbraio 1962, n. 57, e secondo il modello di cui all'allegato 1 al decreto ministeriale 9 marzo 1989, n. 172, verificano e attestano la veridicita' dei seguenti dati:
+ 1) data del contratto di appalto;
+ 2) oggetto del contratto di appalto con riferimento alle categorie di cui alla tabella corrispondenze nuove e vecchie categorie, allegato A del decreto del Presidente della Repubblica 25 gennaio 2000, n. 34;
+ 3) denominazione e composizione del soggetto aggiudicatario;
+ 4) inizio e ultimazione dei lavori;
+ 5) opere eseguite da eventuali subappaltatori;
+ 6) importi contrattuali dell'appalto e di eventuali perizie di variante o suppletive delle opere eseguite;
+ 7) buon esito delle opere;
+ 8) nominativo del funzionario che ha rilasciato o confermato il certificato ai sensi dell'articolo 14 della legge 10 febbraio 1962, n. 57.
 
 Entro centocinquanta giorni dall'invio dei modelli, le amministrazioni aggiudicatrici, i Nuclei di Polizia tributaria della Guardia di finanza ed i provveditorati regionali ed interregionali per le opere pubbliche provvedono alla trasmissione all'Osservatorio dei dati di cui al comma 1.
 

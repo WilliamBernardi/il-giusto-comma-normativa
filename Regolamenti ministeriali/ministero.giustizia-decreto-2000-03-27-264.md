@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
 vigenza_date: 2002-12-06
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:39Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -40,6 +40,59 @@ Udito il parere del Consiglio di Stato, espresso dalla sezione consultiva per gl
 
 ## Art. 1. — Definizioni
 
+1.
+                        
+                            
+                                Agli effetti del presente regolamento, si intende per:
+ 
+                            
+                            
+                                a)
+                                
+                                    "registri": i registri tenuti, a cura delle cancellerie o delle segreterie, presso gli uffici giudiziari, ovvero i registri previsti da codici, da leggi speciali o da regolamenti, comunque connessi all'espletamento delle attribuzioni e dei servizi svolti dall'Amministrazione della giustizia;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    "atti": gli atti formati o comunicati dalle cancellerie o segreterie degli uffici giudiziari;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    "tenuta dei registri": la formazione, l'uso, la conservazione, la custodia, l'esibizione di registri;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    "regole tecniche": le regole emanate dall'Autorita' per l'informatica nella pubblica amministrazione ai sensi del decreto Presidente della Repubblica 10 novembre 1997, n. 513;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    "codice di identificazione": il codice idoneo ad assicurare l'identificazione della persona che accede ai registri;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    "regole procedurali": le regole emanate, in ossequio alle esigenze relative alla integrita' fisica e logica dei dati, con decreto del Ministro della giustizia sulla tipologia dei dati stessi da inserire negli atti e nei registri anche ai sensi del decreto del Presidente della Repubblica 28 ottobre 1994, n. 748;
+
+                                
+                            
+                            
+                                g)
+                                
+                                    "responsabile dei sistemi informativi automatizzati": il dirigente generale o equiparato di cui all'articolo 10 del decreto legislativo 12 febbraio 1993, n.39.
+
 ## Art. 2. — Principi generali sulla tenuta dei registri
 
 I registri sono tenuti su base annuale ed in modo da garantire la integrita', la completezza, la disponibilita' e la riservatezza di iscrizioni ed annotazioni nonche' la identificazione del soggetto che accede ai registri.
@@ -59,6 +112,38 @@ La tenuta informatizzata dei registri secondo le regole tecniche e le regole pro
 I registri tenuti su supporto cartaceo, prima di essere posti in uso, sono numerati e vidimati in ogni mezzo foglio dal dirigente della cancelleria o della segreteria dell'ufficio o da persona da lui delegata.
 
 ## Art. 5. — Rilascio di informazioni, copie, estratti e certificati
+
+1.
+                        
+                            
+                                L'accesso alle informazioni contenute nei registri e il rilascio di copie, estratti o certificati e' disciplinato secondo i seguenti livelli:
+ 
+                            
+                            
+                                a)
+                                
+                                    pubblico;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    limitato agli aventi diritto;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    consentito solo previa autorizzazione dell'autorita' competente secondo la legge;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    riservato agli uffici e alle autorita' specificamente individuati dalla legge.
 
 Nel sistema informatico a ciascun livello di accesso viene attribuito uno specifico codice di identificazione.
 
@@ -95,6 +180,32 @@ L'indicazione a stampa, sui documenti o certificati estratti dal sistema informa
 Il sistema informatico consente di effettuare riproduzioni, copie o estratti, anche su supporto cartaceo.
 
 ## Art. 10. — Comunicazione dei dati contenuti nei registri e degli atti
+
+1.
+                        
+                            
+                                Il sistema informatico e' strutturato con modalita' che assicurano:
+ 
+                            
+                            
+                                a)
+                                
+                                    l'individuazione dell'ufficio al quale il registro appartiene;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'individuazione del soggetto che inserisce, modifica o
+comunica il dato;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    l'avvenuta ricezione della comunicazione del dato.
 
 ## Art. 11. — Modalita' di accesso ai registri e agli atti
 
@@ -209,6 +320,31 @@ Presso la cancelleria del tribunale e della corte di appello e' istituito un arc
 I soggetti di cui all'articolo 7, comma 1, possono rilasciare copia autentica degli atti contenuti nell'archivio previsto dal comma 1 del presente articolo.
 
 ## Art. 16. — Prima copia dei provvedimenti in forma digitale
+
+1.
+                        
+                            
+                                I soggetti di cui all'articolo 7, comma 1, procedono:
+ 
+                            
+                            
+                                a)
+                                
+                                    al momento del deposito, a fare la copia digitale, da conservare nell'archivio di cui all'articolo 15, comma 1;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    ad acquisire nell'archivio digitale ogni annotazione riportata sull'originale del provvedimento;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    ad autenticare la copia informatica del provvedimento e le successive annotazioni mediante la firma digitale.
 
 ## Art. 17. — Archivio digitale dei provvedimenti del giudice di pace
 

@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
 vigenza_date: 2026-01-01
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:32Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -28,7 +28,41 @@ Sulla proposta del Ministro delle finanze, di concerto con il Ministro del tesor
 
 ## Art. 1. — Disciplina fiscale dei contributi e dei premi versati per la previdenza sociale complementare e individuale
 
+1.
+                        
+                            
+                                Al testo unico delle imposte sui redditi, approvato con decreto del Presidente della Repubblica 22 dicembre 1986, n. 917, sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    nell'articolo 10: 
+ 1) al comma 1, la lettera e-bis) e' sostituita dalla seguente: 
+ "e-bis) i contributi versati alle forme pensionistiche complementari e i contributi e premi versati alle forme pensionistiche individuali, previste dal decreto legislativo 21 aprile 1993, n. 124, per un importo complessivamente non superiore al 12 per cento del reddito complessivo e comunque non superiore a lire 10 milioni. Se alla formazione del reddito complessivo concorrono redditi di lavoro dipendente, relativamente a tali redditi la deduzione compete per un importo complessivamente non superiore al doppio della quota di TFR destinata alle forme pensionistiche collettive istituite ai sensi del decreto legislativo 21 aprile 1993, n. 124, e, comunque, entro i predetti limiti del 12 per cento del reddito complessivo e di 10 milioni di lire. La disposizione contenuta nel precedente periodo non si applica nel caso in cui la fonte istitutiva sia costituita unicamente da accordi tra lavoratori, nonche' ai soggetti iscritti entro il 28 aprile 1993 alle forme pensionistiche complementari che risultano istituite alla data di entrata in vigore della legge 23 ottobre 1992, n. 421. Ai fini del computo del predetto limite di lire 10 milioni si tiene conto: delle quote accantonate dal datore di lavoro ai fondi di previdenza di cui all'articolo 70, comma 1; dei contributi versati ai sensi dell'articolo 2 della legge 8 agosto 1995, n. 335, eccedenti il massimale contributivo stabilito dal decreto legislativo 14 dicembre 1995, n. 579. Per le persone che sono fiscalmente a carico di altri soggetti non si tiene conto del predetto limite percentuale, nonche', nei riguardi del soggetto di cui sono a carico, della condizione di destinazione delle quote di TFR alle forme pensionistiche complementari."; 
+ 2) al comma 2, e' aggiunto, in fine, il seguente periodo: "Per gli oneri di cui alla lettera e-bis) del comma 1, sostenuti nell'interesse delle persone indicate nell'articolo 12 che si trovino nelle condizioni ivi previste, spetta la deduzione per l'ammontare non dedotto dalle persone stesse, fermo restando l'importo complessivamente stabilito."; 
 
+                                
+                            
+                            
+                                b)
+                                
+                                    nell'articolo 17, comma 4, e' aggiunto, in fine, il seguente periodo: "Non si considerano anticipazioni le somme e i valori destinati alle forme pensionistiche di cui al decreto legislativo 21 aprile 1993, n. 124."; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    nell'articolo 48, comma 2, lettera a), primo periodo, le parole da "i contributi versati dal datore di lavoro alle forme pensionistiche complementari di cui al decreto legislativo 21 aprile 1993, n. 124", fino alla fine della lettera sono soppresse; 
+ e) nell'articolo 48-bis, comma 1, la lettera a) e' soppressa; 
+ f) nell'articolo 70, sono apportate le seguenti modificazioni: 
+ 1) il comma 1 e' sostituito dal seguente: 
+ "1. Gli accantonamenti ai fondi per le indennita' di fine rapporto e ai fondi di previdenza del personale dipendente istituiti ai sensi dell'articolo 2117 del codice civile, se costituiti in conti individuali dei singoli dipendenti, sono deducibili nei limiti delle quote maturate nell'esercizio in conformita' alle disposizioni legislative e contrattuali che regolano il rapporto di lavoro dei dipendenti stessi. I rendimenti attribuiti in ciascun esercizio ai fondi di previdenza sono deducibili nei limiti dei rendimenti finanziari medi dei titoli obbligazionari pubblici e privati, accertati con decreto del Ministro delle finanze, di concerto con il Ministro del tesoro, del bilancio e della programmazione economica, entro il 31 marzo di ciascun anno"; 
+ 2) dopo il comma 2 e' aggiunto il seguente: 
+ "2-bis. E' deducibile un importo non superiore al 3 per cento delle quote di accantonamento annuale del TFR destinate a forme pensionistiche complementari, se accantonato in una speciale riserva, designata con riferimento al decreto legislativo 21 aprile 1993, n. 124, che concorre a formare il reddito nell'esercizio e nella misura in cui sia utilizzata per scopi diversi dalla copertura di perdite dell'esercizio o del passaggio a capitale; in tal caso si applica l'articolo 44, comma 2. Se l'esercizio e' in perdita, la deduzione puo' essere effettuata negli esercizi successivi ma non oltre il quinto, fino a concorrenza dell'ammontare complessivamente maturato".
+
+((COMMA ABROGATO DAL D. LGS. 5 DICEMBRE 2005, N. 252)).
 
 ## Art. 2. — Disciplina delle forme pensionistiche individuali
 
@@ -45,6 +79,33 @@ L'adesione avviene, su base individuale, anche in assenza di specifiche previsio
  3. Le condizioni di polizza dei contratti di cui al comma 1 devono essere comunicate dalle imprese assicuratrici alla commissione di cui all'articolo 16, prima della loro applicazione.".
 
 ## Art. 3. — Norme di coordinamento e di adeguamento del decreto legislativo 21 aprile 1993, n. 124
+
+1.
+                        
+                            
+                                Al decreto legislativo 21 aprile 1993, n. 124, sono apportate 1e seguenti modificazioni:
+ 
+                            
+                            
+                                a)
+                                
+                                    nell'articolo 7, comma 6, lettera a), sono aggiunte, in fine, le seguenti parole: ", salvo che l'importo annuo della prestazione pensionistica in forma periodica risulti di ammontare inferiore al 50 per cento dell'assegno sociale di cui, all'articolo 3, commi 6 e 7, della legge 8 agosto 1995, n. 335;
+ b) nell'articolo 10:
+ 1) la rubrica e' sostituita dalla seguente: "Permanenza nel fondo pensione o nella forma pensionistica individuale e cessazione dei requisiti di partecipazione";
+ 2) nel comma 1, lettera b), sono aggiunte in fine, le seguenti parole: "o a una delle forme pensionistiche individuali di cui agli articoli 9-bis e 9-ter;";
+ 3) dopo il comma 1 e' aggiunto il seguente:
+ "1-bis. Il riscatto anche parziale della posizione individuale maturata nelle forme pensionistiche individuali di cui agli articoli 9-bis e 9-ter e' consentito soltanto nelle ipotesi previste dal comma 4 dell'articolo 7.";
+ 4) nel comma 2, dopo le parole: "ai fondi pensione di cui all'articolo 9"; sono inserite le seguenti: "o a una delle forme pensionistiche individuali di cui agli articoli 9-bis e 9-ter";
+ 5) nel comma 3, dopo le parole: "a carico del fondo pensione", sono aggiunte le seguenti: o delle forme pensionistiche individuali di cui agli articoli 9-bis e 9-ter,";
+ 6) nel comma 3-bis, primo periodo, dopo le parole: "di cui agli articoli 3 e 9" sono inserite le seguenti "o presso forme pensionistiche individuali di cui agli articoli 9-bis e 9-ter";
+ 7) dopo il comma 3-ter, sono aggiunti i seguenti:
+ "3-quater. In caso di morte dell'iscritto ad una delle forme pensionistiche individuali di cui agli articoli 9-bis e 9-ter prima dell'accesso alla prestazione, la posizione individuale e' riscattata dagli eredi.
+ 3-quinquies. I regolamenti e i contratti di cui agli articoli 9-bis e 9-ter prevedono la facolta' di trasferimento dell'intera posizione individuale dell'iscritto stesso presso altro fondo pensione, di cui agli articoli 3 e 9, o presso forme pensionistiche individuali di cui ai medesimi articoli 9-bis e 9-ter, non prima che siano trascorsi tre anni dalla data di adesione o di conclusione del contratto.";
+ c) nell'articolo 13:
+ 1) i commi 1, 2, 5, 6, 9, 10, 11 e 12 sono abrogati;
+ 2) il comma 13 e' sostituito con il seguente:
+ "13. Le operazioni di trasferimento delle posizioni pensionistiche sono esenti da ogni onere fiscale, a condizione che avvengano a favore di forme pensionistiche disciplinate dal presente decreto.
+Sono altresi' esenti da ogni onere fiscale i trasferimenti delle risorse o delle riserve matematiche da un fondo pensione o da una forma pensionistica individuale ad altro fondo pensione o ad altra forma pensionistica individuale.".
 
 ## Art. 4. — Decorrenza e norme transitorie
 
@@ -73,6 +134,31 @@ L'articolo 14 del decreto legislativo 21 aprile 1993, n. 124, e' sostituito dal 
  6. La dichiarazione relativa all'imposta sostitutiva e' presentata entro un mese dall'approvazione del bilancio o rendiconto del fondo.
 Se il bilancio o rendiconto non e' stato approvato nel termine stabilito, la dichiarazione e' presentata entro un mese dalla scadenza del termine stesso. Se non e' prevista l'approvazione di un bilancio o rendiconto la dichiarazione e' presentata entro sei mesi dalla fine del periodo d'imposta. Nel caso di fondi costituiti nell'ambito del patrimonio di societa' ed enti la dichiarazione e' presentata contestualmente alla dichiarazione dei redditi propri della societa' o dell'ente.
  7. Le operazioni di costituzione, trasformazione, scorporo e concentrazione tra fondi pensione sono soggette ad imposta di registro e ad imposta catastale e ipotecaria in misura fissa per ciascuna di esse".
+
+2.
+                        
+                            
+                                Al decreto legislativo 1o aprile 1996, n. 239, sono apportate le seguenti modificazioni:
+ 
+                            
+                            
+                                a)
+                                
+                                    nell'articolo 2, comma 1, la lettera e) e' soppressa;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    nell'articolo 2, comma 1-quater, dopo le parole: "decreto legislativo 21 novembre 1997, n. 461", sono aggiunte le seguenti: "nonche' per i fondi pensione di cui al decreto legislativo 21 aprile 1993, n. 124";
+
+                                
+                            
+                            
+                                c)
+                                
+                                    nell'articolo 3, comma 3, le parole: "all'articolo 2, comma 1, lettere d) ed e)" sono sostituite dalle seguenti: "all'articolo 2, comma 1, lettera d)".
 
 Nell'articolo 27, comma 1, del decreto del Presidente della Repubblica 29 settembre 1973, n. 600, le parole "fondi pensione di cui al decreto legislativo 21 aprile 1993, n. 124, e" sono soppresse.
 
@@ -137,6 +223,58 @@ Ai fondi pensione che abbiano presentato istanza al Ministero del lavoro e della
 
 ## Art. 10. — Trattamento tributario delle prestazioni pensionistiche erogate ai sensi del decreto legislativo 21 aprile 1993, n. 124.
 
+1.
+                        
+                            
+                                Al testo unico delle imposte sui redditi, approvato con decreto del Presidente della Repubblica 22 dicembre 1986, n. 917, sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    nell'articolo 16, comma 1, e' inserita la seguente lettera: 
+ "a-bis) le prestazioni pensionistiche di cui alla lettera h-bis) del comma 1 dell'articolo 47, erogate in forma di capitale, anche in caso di riscatto di cui all'articolo 10, comma 1-bis, del decreto legislativo 21 aprile 1993, n. 124, e a titolo di anticipazioni;"; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    dopo l'articolo 17, e' inserito il seguente: 
+ "Art. 17-bis. - 1. Le prestazioni di cui alla lettera a-bis) del comma 1 dell'articolo 16 sono soggette ad imposta mediante l'applicazione dell'aliquota determinata con i criteri previsti al comma 1 dell'articolo 17, assumendo il numero degli anni e frazione di anno di effettiva contribuzione e l'importo imponibile della prestazione maturata, al netto delle quote del trattamento di fine rapporto e dei redditi gia' assoggettati ad imposta. Gli uffici finanziari provvedono a riliquidare l'imposta in base all'aliquota media di tassazione dei cinque anni precedenti a quello in cui e' maturato il diritto alla percezione. Si applicano le disposizioni previste dall'articolo 17, comma 1-bis. 
+ 2. Se la prestazione e' non superiore a un terzo dell'importo complessivamente maturato alla data di accesso alla prestazione stessa, l'imposta si applica sull'importo al netto dei redditi gia' assoggettati ad imposta. Tale disposizione si applica altresi' nei casi previsti dall'articolo 10, commi 3-ter e 3-quater, del decreto legislativo 21 aprile 1993, n. 124, e comunque quando l'importo annuo della prestazione pensionistica spettante in forma periodica e' inferiore al 50 per cento dell'assegno sociale di cui all'articolo 3, commi 6 e 7, della legge 8 agosto 1995, n. 335. 
+ 3. Salvo conguaglio all'atto della liquidazione definitiva della prestazione, le prestazioni pensionistiche erogate in caso di riscatto parziale di cui all'articolo 10, comma 1-bis, del decreto legislativo 21 aprile 1993, n. 124, o a titolo di anticipazione, sono soggette ad imposta con l'aliquota determinata ai sensi del comma 1, primo periodo, per il loro intero importo"; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    nell'articolo 41, comma 1, dopo la lettera g-quater), e' inserita la seguente "g-quinquies) i redditi derivanti dai rendimenti delle prestazioni pensionistiche di cui alla lettera h-bis) del comma 1, dell'articolo 47 erogate in forma periodica e delle rendite vitalizie aventi funzione previdenziale;"; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    nell'articolo 42, dopo il comma 4-bis, e' inserito il seguente: "4-ter. I proventi di cui alla lettera g-quinquies) del comma 1, dell'articolo 41, sono costituiti dai rendimenti maturati nel periodo d'imposta riferibili al valore attuale delle prestazioni pensionistiche di cui all'articolo 47, comma 1, lettera h-bis), erogate nel corso del medesimo periodo, nonche', per le rendite vitalizie aventi funzione previdenziale, dai rendimenti maturati nel periodo d'imposta riferibili al valore attuale delle rendite erogate o in via di costituzione al termine di ciascun periodo d'imposta."; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    nell'articolo 47, comma 1, la lettera h-bis e' sostituita dalla seguente: 
+ "h-bis) le prestazioni pensionistiche di cui al decreto legislativo 21 aprile 1993, n. 124, comunque erogate;"; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    nell'articolo 48-bis, comma 1, la lettera d) e' sostituita dalle seguenti: "d) per le prestazioni pensionistiche di cui alla lettera h-bis) del comma 1, dell'articolo 47, erogate in forma periodica non si applicano le disposizioni del richiamato articolo 48. Le stesse si assumono al netto della parte corrispondente ai redditi gia' assoggettati ad imposta e di quelli di cui alla lettera g-quinquies) del comma 1, dell'articolo 41, se determinabili; 
+ d-bis) per le prestazioni pensionistiche di cui alla lettera h-bis) del comma 1, dell'articolo 47, erogate in forma capitale a seguito di riscatto della posizione individuale ai sensi dell'articolo 10, comma 1, lettera c), del decreto legislativo 21 aprile 1993, n. 124, non si applicano le disposizioni del richiamato articolo 48. Le stesse assumono al netto dei redditi gia' assoggettati ad imposta, se determinabili;".
+
 Nell'articolo 23, secondo comma, del decreto del Presidente della Repubblica 29 settembre 1973, n. 600, dopo la lettera d), e' inserita la seguente: 
  "d-bis) sulla parte imponibile delle prestazioni di cui all'articolo 16, comma 1, lettera a-bis), del citato testo unico, con i criteri di cui all'articolo 17-bis, comma 1, primo periodo, dello stesso testo unico;".
 
@@ -148,6 +286,25 @@ Nota redazionale
  E' possibile visualizzare il testo originario accedendo alla versione pdf della relativa Gazzetta di pubblicazione.
 
 ## Art. 11. — Disciplina tributaria del trattamento di fine rapporto
+
+1.
+                        
+                            
+                                Al testo unico delle imposte sui redditi, approvato con decreto del Presidente della Repubblica 22 dicembre 1986, n. 917, sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    nell'articolo 17: 
+ 1) i commi 1 e 2 sono sostituiti dai seguenti: 
+ "1. Il trattamento di fine rapporto costituisce reddito per un importo che si determina riducendo il suo ammontare delle rivalutazioni gia' assoggettate ad imposta sostitutiva. L'imposta e' applicata con l'aliquota determinata con riferimento all'anno in cui e' maturato il diritto alla percezione, corrispondente all'importo che risulta dividendo il suo ammontare, aumentato delle somme destinate alle forme pensionistiche di cui al decreto legislativo 21 aprile 1993, n. 124, per il numero degli anni e frazione di anno preso a base di commisurazione, e moltiplicando il risultato per dodici. Gli uffici finanziari provvedono a riliquidare l'imposta in base all'aliquota media di tassazione dei cinque anni precedenti a quello in cui e' maturato il diritto alla percezione. 
+ 1-bis. Se in uno o piu' degli anni indicati al comma 1 non vi e' stato reddito imponibile, l'aliquota media si calcola con riferimento agli anni in cui vi e' stato reddito imponibile; se non vi e' stato reddito imponibile in alcuno di tali anni, si applica l'aliquota stabilita dall'articolo 11 per il primo scaglione di reddito. 
+ 1-ter. Qualora il trattamento di fine rapporto sia relativo a rapporti di lavoro a tempo determinato, di durata effettiva non superiore a due anni, l'imposta determinata ai sensi del comma 1 e' diminuita di un importo pari a lire 120 mila per ciascun anno; per i periodi inferiori ad un anno, tale importo e' rapportato a mese. 
+ 2. Le altre indennita' e somme indicate alla lettera a) del comma 1 dell'articolo 16, anche se commisurate alla durata del rapporto di lavoro e anche se corrisposte da soggetti diversi dal datore di lavoro, sono imponibili per il loro ammontare complessivo, al netto dei contributi obbligatori dovuti per legge, con l'aliquota determinata agli effetti del comma 1. Tali indennita' e somme, se corrisposte a titolo definitivo e in relazione ad un presupposto non connesso alla cessazione del rapporto di lavoro che ha generato il trattamento di fine rapporto, sono imponibili per il loro ammontare netto con l'aliquota determinata con i criteri di cui al comma 1. 
+ 2-bis. Le indennita' equipollenti, comunque denominate, commisurate alla durata dei rapporti di lavoro dipendente di cui alla lettera a), del comma 1, dell'articolo 16, sono imponibili per un importo che si determina riducendo il loro ammontare netto di una somma pari a L. 600.000 per ciascun anno preso a base di commisurazione, con esclusione dei periodi di anzianita' convenzionale; per i periodi inferiori all'anno la riduzione e' rapportata a mese. Se il rapporto si svolge per un numero di ore inferiore a quello ordinario previsto dai contratti collettivi nazionali di lavoro, la somma e' proporzionalmente ridotta. L'imposta e' applicata con l'aliquota determinata con riferimento all'anno in cui e' maturato il diritto alla percezione, corrispondente all'importo che risulta dividendo il suo ammontare netto, aumentato delle somme destinate alle forme pensionistiche di cui al decreto legislativo 21 aprile 1993, n. 124, per il numero degli anni e frazione di anno preso a base di commisurazione, e moltiplicando il risultato per dodici. L'ammontare netto delle indennita', alla cui formazione concorrono contributi previdenziali posti a carico dei lavoratori dipendenti e assimilati, e' computato previa detrazione di una somma pari alla percentuale di tali indennita' corrispondente al rapporto, alla data del collocamento a riposo o alla data in cui e' maturato il diritto alla percezione, fra l'aliquota del contributo previdenziale posto a carico dei lavoratori dipendenti e assimilati e l'aliquota complessiva del contributo stesso versato all'ente, cassa o fondo di previdenza"; 
+ 2) il comma 4 e' sostituito dal seguente: 
+ "4. Salvo conguaglio all'atto della liquidazione definitiva, sulle anticipazioni e sugli acconti relativi al trattamento di fine rapporto e alle indennita' equipollenti, nonche' sulle anticipazioni relative alle altre indennita' e somme, si applica l'aliquota determinata, rispettivamente, a norma dei commi 1, 2 e 2-bis, considerando l'importo accantonato, aumentato dalle anticipazioni e degli acconti complessivamente erogati e al netto delle rivalutazioni gia' assoggettate ad imposta sostitutiva".
 
 COMMA ABROGATO DAL D.LGS. 12 APRILE 2001, N. 168.
 
@@ -177,6 +334,52 @@ Le disposizioni dell'articolo 17 del testo unico delle imposte sui redditi appro
 
 ## Art. 13. — Trattamento tributario dei contratti di assicurazione, dei contributi versati volontariamente alla gestione della forma pensionistica obbligatoria di appartenenza
 
+1.
+                        
+                            
+                                Al testo unico delle imposte sui redditi, approvato con decreto del Presidente della Repubblica 22 dicembre 1986, n. 917, sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    nell'articolo 10: 
+ 1) al comma 1, lettera e), dopo le parole: "in ottemperanza a disposizioni di legge" sono aggiunte le seguenti: ", nonche' quelli versati facoltativamente alla gestione della forma pensionistica obbligatoria di appartenenza, ivi compresi quelli per la ricongiunzione di periodi assicurativi. Sono altresi' deducibili i contributi versati al fondo di cui all'articolo 1 del decreto legislativo 16 settembre 1996, n. 565"; 
+ 2) al comma 2, e' aggiunto, in fine, il seguente periodo: "Tale disposizione si applica altresi' per gli oneri di cui alla lettera e) del comma 1 relativamente alle persone indicate nel medesimo articolo 433 del codice civile se fiscalmente a carico."; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    nell'articolo 13-bis, sono apportate le seguenti modificazioni: 
+ 1) la lettera f) e' sostituita dalla seguente: 
+ "f) i premi per assicurazioni aventi per oggetto il rischio di morte o di invalidita' permanente superiore al 5 per cento da qualsiasi causa derivante, ovvero di non autosufficienza nel compimento degli atti della vita quotidiana, se l'impresa di assicurazione non ha facolta' di recesso dal contratto, per un importo complessivamente non superiore a lire 2 milioni e 500 mila.
+Con decreto del Ministero delle finanze, sentito l'Istituto per la vigilanza sulle assicurazioni private (ISVAP), sono stabilite le caratteristiche alle quali devono rispondere i contratti che assicurano il rischio di non autosufficienza. Per i percettori di redditi di lavoro dipendente e assimilato, si tiene conto, ai fini del predetto limite, anche dei premi di assicurazione in relazione ai quali il datore di lavoro ha effettuato la detrazione in sede di ritenuta;"; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    nell'articolo 42, comma 4, il primo periodo e' sostituito dai seguenti: 
+ "4. I capitali corrisposti in dipendenza di contratti di assicurazione sulla vita e di capitalizzazione costituiscono reddito per la parte corrispondente alla differenza tra l'ammontare percepito e quello dei premi pagati. Tale differenza si assume applicando al suo importo gli elementi di rettifica finalizzati a rendere la tassazione equivalente a quella che sarebbe derivata se tale reddito avesse subito la tassazione per maturazione, calcolati tenendo conto del tempo intercorso, delle eventuali variazioni dell'aliquota dell'imposta sostitutiva, nonche' della data di pagamento della stessa. Con i decreti del Ministro delle finanze, sentito un apposito organo tecnico, sono stabiliti gli elementi di rettifica"; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    nell'articolo 47, comma 1, la lettera h) e' sostituita dalla seguente: 
+ "h) le rendite vitalizie e le rendite a tempo determinato, costituite a titolo oneroso, diverse da quelle aventi funzione previdenziale. Le rendite aventi funzione previdenziale sono quelle derivanti da contratti di assicurazione sulla vita stipulati con imprese autorizzate dall'Istituto per la vigilanza sulle assicurazioni private (ISVAP) ad operare nel territorio dello Stato, o quivi operanti in regime di stabilimento o di prestazioni di servizi, che non consentano il riscatto della rendita successivamente all'inizio dell'erogazione;"; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    nell'articolo 48-bis, comma 1, lettera c), l'ultimo periodo e' soppresso.
+
 Ai fini dell'applicazione degli articoli 10, comma 1, lettera e-bis) e 13-bis) comma 1, lettera f), del testo unico delle imposte sui redditi, approvato con decreto del Presidente della Repubblica 22 dicembre 1986, n. 917, per i contratti di assicurazione che prevedono la copertura di piu' rischi aventi un regime fiscale differenziato, nella polizza e' evidenziato l'importo del premio afferente a ciascun rischio.
 
 ((
@@ -184,6 +387,44 @@ Ai fini dell'applicazione degli articoli 10, comma 1, lettera e-bis) e 13-bis) c
 Per le rendite vitalizie aventi funzione previdenziale in corso di costituzione, le imprese di assicurazione applicano l'imposta sostitutiva delle imposte sui redditi nella misura prevista dall'articolo 7 del decreto legislativo 21 novembre 1997, n. 461, sul risultato netto maturato in ciascun periodo d'imposta. Si applicano le disposizioni dell'articolo 14-bis, commi 2 e 2-bis, del decreto legislativo 21 aprile 1993, n. 124. Se le predette rendite derivano da contratti stipulati con imprese di assicurazione operanti nel territorio dello Stato in regime di liberta' di prestazioni di servizi, l'imposta sostitutiva e' applicata dal contribuente nel periodo d'imposta in cui matura il diritto alla prestazione secondo le disposizioni previste per la tassazione dei redditi di cui all'articolo 41, comma 4, lettera g-quater), del testo unico delle imposte sui redditi, approvato con decreto del Presidente della Repubblica 22 dicembre 1986, n. 917, ed e' versata con le modalita' e nei termini previsti per il versamento a saldo delle imposte risultanti dalle dichiarazioni dei redditi.
 
 ))
+
+3.
+                        
+                            
+                                Alla legge 29 ottobre 1961, n. 1216, sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    gli articoli 13, 14 e 15 sono abrogati; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    nell'articolo 21, secondo comma, le parole: "e di rendita vitalizia" sono soppresse; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    nella tariffa allegato A, gli articoli 1 e 23 sono soppressi; 
+
+                                
+                            
+                            
+                                c-bis)
+                                
+                                    nella tariffa allegato A, l'articolo 14, e' sostituito dal seguente: "14 - Assicurazioni contro i rischi di impiego, diversi da quello di morte, connessi alla cessione del quinto dello stipendio"; 
+                                
+                            
+                            
+                                d)
+                                
+                                    nella tariffa, allegato C, e' aggiunto l'articolo 11, cosi' rubricato: "Assicurazioni sulla vita e contratti di capitalizzazione", in corrispondenza della "natura delle assicurazioni", e "Assicurazione sulla vita di qualunque specie, ivi compresi i contratti di rendita vitalizia e i contratti di capitalizzazione", in corrispondenza dell'"indicazione delle operazioni".
 
 Nell'articolo 2 del decreto legislativo 16 settembre 1996, n. 565, il comma 5 e' soppresso.
 
@@ -221,6 +462,27 @@ Le disposizioni dell'articolo 15 si applicano a decorrere (( dal 1° gennaio 200
 ## Art. 17. — Allargamento delle forme di previdenza complementare di cui al
  decreto legislativo 21 aprile 1993, n. 124, ai destinatari del
  decreto legislativo 16 settembre 1996, n. 565.
+
+1.
+                        
+                            
+                                Al decreto legislativo 21 aprile 1993, n. 124, sono apportate le seguenti modificazioni:
+ 
+                            
+                            
+                                a)
+                                
+                                    nell'articolo 2, al comma 1, dopo la lettera b-bis), e' aggiunta la seguente: "b-ter) per i soggetti destinatari del decreto legislativo 16 settembre 1996, n. 565, anche se non iscritti al fondo ivi previsto." e al comma 2, lettera a), le parole: "lettere a e b-bis)" sono sostituite dalle seguenti: "lettere a), b-bis) e b-ter)";
+
+                                
+                            
+                            
+                                b)
+                                
+                                    nell'articolo 3, comma 1, dopo la lettera c-bis), e' aggiunta la seguente: c-ter) accordi tra soggetti destinatari del decreto legislativo 16 settembre 1996, n. 565, promossi da loro sindacati o associazioni di rilievo almeno regionale.";
+ c) nell'articolo 7, comma 2, e' inserito, in fine, il seguente periodo: "Per i soggetti di cui all'articolo 2, comma 1, lettera b-ter), si considera eta' pensionabile il compimento dell'eta' prevista dall'articolo 1, comma 20, della legge 8 agosto 1995, n. 335.";
+ d) nell'articolo 8, dopo il comma 1, e' aggiunto il seguente:
+"1-bis. Per i soggetti di cui all'articolo 2, comma 1, lettera b-ter), sono consentite contribuzioni saltuarie e non fisse. I medesimi soggetti possono altresi' delegare il centro servizi o l'azienda emittente la carta di credito o di debito al versamento con cadenza trimestrale al fondo pensione dell'importo corrispondente agli abbuoni accantonati a seguito di acquisti effettuati tramite moneta elettronica presso i centri vendita convenzionati. Per la regolarizzazione di dette operazioni deve ravvisarsi la coincidenza tra il soggetto che conferisce la delega al centro convenzionato con il titolare della moneta elettronica e con il titolare della posizione aperta presso il fondo pensione medesimo.".
 
 ## Art. 18. — Disposizioni di attuazione
 

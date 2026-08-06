@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
 vigenza_date: 1994-02-13
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:38Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -47,12 +47,48 @@ Per l'espletamento della prova orale, il presidente della camera di commercio pu
 
 ## Art. 2.
 
+1.
+                    
+                        
+                            Le prove scritte per gli aspiranti all'iscrizione nella sezione degli agenti immobiliari ed in quella degli agenti muniti di mandato a titolo oneroso vertono sui seguenti argomenti: 
+ 
+                        
+                        
+                            a)
+                            
+                                nozioni di legislazione sulla disciplina della professione di mediatore, di diritto civile - con specifico riferimento ai diritti reali, alle obbligazioni, ai contratti ed in particolare al mandato, alla mediazione, alla vendita, locazione o affitto di immobili ed aziende, all'ipoteca -, di diritto tributario - con specifico riferimento alle imposte e tasse relative ad immobili ed agli adempimenti fiscali connessi -; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                nozioni concernenti l'estimo, la trascrizione, i registri immobiliari, il catasto, le concessioni, autorizzazioni e licenze in materia edilizia, la comunione ed il condominio di immobili, il credito fondiario ed edilizio, i finanziamenti e le agevolazioni finanziarie relative agli immobili.
+
 La prova orale verte, oltre che sulle materie delle prove scritte, sulla conoscenza del mercato immobiliare urbano ed agrario e sui relativi prezzi ed usi.
 
 ## Art. 3.
 
 La prova scritta per gli aspiranti all'iscrizione nella sezione per gli agenti merceologici verte sugli argomenti seguenti: 
  nozioni di legislazione sulla disciplina della professione di mediatore, di diritto civile con particolare riferimento alle obbligazioni, ai contratti, alla mediazione ed al mandato nonche' di diritto tributario relative alle transazioni commerciali.
+
+2.
+                    
+                        
+                            La prova orale verte, oltre che sulle materie della prova scritta, sui seguenti argomenti: 
+ 
+                        
+                        
+                            a)
+                            
+                                nozioni di merceologia e nozioni tecniche concernenti la produzione, la circolazione, la trasformazione, la commercializzazione e l'utilizzazione delle merci per le quali si chiede l'iscrizione; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                conoscenza dell'andamento dei vari mercati e dei prezzi relativi alle merci stesse, nonche' degli usi e delle consuetudini locali inerenti al commercio delle medesime, dell'arbitrato e degli accordi interassociativi, concordati tra i rappresentanti delle categorie interessate alla produzione, commercio e utilizzazione di prodotti, che codificano le clausole e le regole concernenti il commercio degli stessi.
 
 ## Art. 4.
 

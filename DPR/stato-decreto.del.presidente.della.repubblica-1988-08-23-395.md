@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: DPR
 vigenza_date: 2001-05-09
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:47:44Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -40,6 +40,23 @@ Detti programmi devono essere finalizzati anche alla valorizzazione delle profes
 
 Le direttive di cui al comma 2 costituiscono linee di indirizzo per le regioni a statuto ordinario e per le autonomie territoriali in relazione alle specifiche esigenze operative connesse con il loro particolare ordinamento.
 
+4.
+                    
+                        
+                            Alle iniziative di cui al comma 2 possono partecipare i dipendenti di piu' amministrazioni, le quali provvederanno a definire il concorso alle relative spese in misura proporzionale ai rispettivi dipendenti partecipanti al corso, con le modalita' che seguono:
+
+                        
+                        
+                            a)
+                            
+                                la partecipazione a ciascun corso e' comunque subordinata alla valutazione delle esigenze di servizio dei vari uffici, anche in relazione alle innovazioni tecnico-amministrative introdotte o da introdurre nell'amministrazione;
+                            
+                        
+                        
+                            b)
+                            
+                                a parita' di condizioni, di norma sono ammessi a frequentare i corsi i dipendenti che non abbiano mai frequentato altri corsi per la stessa materia.
+
 Il personale che, in base ai programmi di cui ai commi 1, 2 e 4, e' tenuto a partecipare ai corsi di aggiornamento, qualificazione, riqualificazione, riconversione e specializzazione cui l'amministrazione lo iscrive, e' considerato in servizio a tutti gli effetti; i relativi oneri sono a carico delle amministrazioni di appartenenza. Qualora i corsi si svolgano fuori sede, competono, riccorrendone i presupposti, il trattamento di missione ed il rimborso delle spese di viaggio.
 
 Le attivita' di aggiornamento, qualificazione, riqualificazione, riconversione e specializzazione si concludono con l'accertamento dell'avvenuto conseguimento di un significativo accrescimento della professionalita' del singolo dipendente e costituiranno ad ogni effetto titolo di servizio da valutare secondo le norme degli ordinamenti delle amministrazioni di appartenenza.
@@ -51,6 +68,29 @@ In sede di contrattazione di comparto o decentrata potranno essere definite, ove
 Al fine di garantire il diritto allo studio sono concessi permessi straordinari retribuiti, nella misura massima di centocinquanta ore annue individuali.
 
 I permessi di cui al comma 1 sono concessi per la frequenza di corsi finalizzati al conseguimento di titoli di studio in corsi universitari, postuniversitari, di scuole di istruzione primaria, secondaria e di qualificazione professionale, statali, pareggiate o legalmente riconosciute, o comunque abilitate al rilascio di titoli di studio legali o attestati professionali riconosciuti dall'ordinamento pubblico.
+
+3.
+                    
+                        
+                            Nella concessione dei permessi di cui ai commi 1 e 2 vanno osservate, garantendo in ogni caso le pari opportunita', le seguenti modalita':
+
+                        
+                        
+                            a)
+                            
+                                i dipendenti che contemporaneamente potranno usufruire, nell'anno solare, della riduzione dell'orario di lavoro, nei limiti di cui al comma 1, non dovranno superare il tre per cento del totale delle unita' in servizio all'inizio di ogni anno, con arrotondamento all'unita' superiore;
+                            
+                        
+                        
+                            b)
+                            
+                                a parita' di condizioni sono ammessi a frequentare le attivita' didattiche i dipendenti che non abbiano mai usufruito dei permessi relativi al diritto allo studio per lo stesso corso;
+                            
+                        
+                        
+                            c)
+                            
+                                il permesso per il conseguimento dei titoli di studio o di attestati professionali di cui al comma 2 puo' essere concesso anche in aggiunta a quello necessario per le attivita' formative programmate dall'amministrazione.
 
 Il personale interessato ai corsi di cui ai commi 1, 2 e 3 ha diritto, salvo eccezionali ed inderogabili esigenze di servizio, a turni di lavoro che agevolino la frequenza ai corsi e la preparazione agli esami e non e' obbligato a prestazioni di lavoro straordinario o durante i giorni festivi e di riposo settimanale.
 
@@ -112,6 +152,29 @@ Il beneficio derivante dall'applicazione del comma 1 e' proporzionalmente ridott
 
 ## Art. 8. — Maggiore rappresentativita'
 
+1.
+                    
+                        
+                            Ai fini dell'applicazione della legge 29 marzo 1983, n. 93, a partire dalle trattative successive alla data di entrata in vigore del presente decreto, costituiscono criteri di riferimento da utilizzare da parte della Presidenza del Consiglio dei Ministri - Dipartimento della funzione pubblica per la determinazione della maggiore rappresentativita' sul piano nazionale delle confederazioni e delle organizzazioni sindacali i seguenti elementi:
+
+                        
+                        
+                            a)
+                            
+                                la consistenza associativa rilevata in base alle deleghe conferite alle singole amministrazioni dai dipendenti per la ritenuta del contributo sindacale accertate mediante comunicazione delle stesse amministrazioni alla Presidenza del Consiglio dei Ministri - Dipartimento della funzione pubblica ed alle organizzazioni sindacali a cui le deleghe si riferiscono prima dell'avviso delle trattative di cui all'art. 12 della legge 29 marzo 1983, n. 93 e dei comparti di contrattazione collettiva di cui al decreto del Presidente della Repubblica 5 marzo 1986, n. 68;
+                            
+                        
+                        
+                            b)
+                            
+                                l'adesione ricevuta in occasione di elezione di membri sindacali in organismi amministrativi previsti dalle leggi vigenti, costituiti negli ambiti dei diversi comparti, di altre consultazioni elettoriali per la costituzione del Consiglio superiore della pubblica amministrazione, ovvero per la nomina di soggetti cui ai diversi livelli, anche decentrati, venga conferito potere rappresentativo e negoziale per gli accordi previsti dall'art. 14 della legge 29 marzo 1983, n. 93;
+                            
+                        
+                        
+                            c)
+                            
+                                difussione e consistenza delle strutture organizzative negli ambiti categoriali e territoriali di ciascun comparto di contrattazione valutate sulla base dell'applicazione dei criteri indicati nella lettera a).
+
 Qualora sorgano divergenze tra i dati di cui al comma 1, rilevati dalle amministrazioni e quelli forniti dalle organizzazioni sindacali, la Presidenza del Consiglio dei Ministri - Dipartimento della funzione pubblica sottoporra' il caso alla valutazione dell'Osservatorio del pubblico impiego di cui agli articoli 11 e 12 della legge 22 agosto 1985, n. 444.
 
 ## Art. 9. — Aspettative e permessi sindacali
@@ -170,6 +233,29 @@ La Presidenza del Consiglio dei Ministri - Dipartimento della funzione pubblica 
 ## Art. 15. — Produttivita'
 
 I singoli accordi di comparto per il triennio 1988-90, nel definire la struttura retributiva, devono privilegiare la quota di salario collegata ad indici significativi di produttivita' diretti ad incrementare l'efficienza dell'azione amministrativa e l'efficacia dei risultati in termini di servizi resi alla collettivita'.
+
+2.
+                    
+                        
+                            Ai fini di cui al comma 1, il fondo di incentivazione di cui all'art. 14 del decreto del Presidente della Repubblica 1 febbraio 1986, n. 13, sara' incrementato di una quota significativa da utilizzare secondo i seguenti criteri:
+
+                        
+                        
+                            a)
+                            
+                                partecipazione a progetti di incremento della produttivita' di specifici servizi, secondo obiettivi quantificabili e periodici tempi di verifica, tenendo conto della qualita' dei servizi prodotti e della professionalita' del personale utilizzato;
+                            
+                        
+                        
+                            b)
+                            
+                                verifica motivata del conseguimento degli obiettivi dati;
+                            
+                        
+                        
+                            c)
+                            
+                                erogazione degli incentivi in tempi certi e successivi a quelli di verifica dei risultati.
 
 ## Art. 16. — Parita' uomo-donna
 

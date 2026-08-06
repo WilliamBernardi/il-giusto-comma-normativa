@@ -8,8 +8,8 @@ codice_redazionale: 097G0459
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:38Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -30,6 +30,42 @@ Udito il parere del Consiglio di Stato espresso nell'adunanza generale del 25 lu
 Le direzioni marittime competenti, sessanta giorni prima dell'apertura della sessione di esami, pubblicano, nella propria sede e in quella di tutti i compartimenti marittimi, un avviso con le indicazioni riguardanti il luogo, il giorno e l'ora di svolgimento degli esami nonche' il termine di presentazione della domanda di ammissione agli esami.
 
 ## Art. 2.
+
+1.
+                    
+                        
+                            Per essere ammessi agli esami i candidati all'abilitazione a progettista per le imbarcazioni da diporto presentano alla competente autorita' marittima apposita istanza, in bollo, nella quale devono dichiarare:
+ 
+                        
+                        
+                            a)
+                            
+                                di non aver presentato in altra sede la domanda per sostenere il medesimo esame;
+
+                            
+                        
+                        
+                            b)
+                            
+                                di non aver sostenuto lo stesso esame nella sessione antecedente la data di presentazione dell'istanza stessa, anche presso altre direzioni marittime.
+
+2.
+                    
+                        
+                            A corredo della domanda in originale o copia autenticata il candidato presenta:
+ 
+                        
+                        
+                            a)
+                            
+                                il titolo di studio posseduto, ovvero certificato d'iscrizione nei registri di cui all'articolo 275 del regolamento per l'esecuzione del codice della navigazione;
+
+                            
+                        
+                        
+                            b)
+                            
+                                certificato di nascita e cittadinanza, in carta semplice, ovvero dichiarazione sostitutiva redatta dall'interessato a norma dell'articolo 2 della legge 4 gennaio 1968, n. 15.
 
 Per i cittadini italiani il certificato generale del casellario giudiziale e' richiesto d'ufficio, mentre per i cittadini appartenenti ai Paesi dell'Unione europea il certificato puo' essere sostituito da una dichiarazione rilasciata dall'autorita' consolare.
 

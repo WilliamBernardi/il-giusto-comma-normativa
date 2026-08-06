@@ -8,8 +8,8 @@ vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
 vigenza_date: 2024-12-28
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:22Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -39,6 +39,44 @@ Il presente decreto, in particolare, detta disposizioni in materia di classifica
 
 La classificazione delle opere cinematografiche e' finalizzata ad assicurare il giusto e equilibrato bilanciamento tra la tutela dei minori e la liberta' di manifestazione del pensiero e dell'espressione artistica.
 
+2.
+                    
+                        
+                            La classificazione e' proporzionata alle esigenze della protezione dell'infanzia e della tutela dei minori, con particolare riguardo alla sensibilita' e allo sviluppo della personalita' propri di ciascuna fascia d'eta' e al rispetto della dignita' umana. A tal fine, le opere cinematografiche sono classificabili, in base al pubblico di destinazione, nel modo seguente: 
+ 
+                        
+                        
+                            a)
+                            
+                                opere per tutti; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                opere non adatte ai minori di anni 6; 
+
+                            
+                        
+                        
+                            b-bis)
+                            
+                                opere non adatte ai minori di anni 10;
+                            
+                        
+                        
+                            c)
+                            
+                                opere vietate ai minori di anni 14; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                opere vietate ai minori di anni 18.
+
 Per le opere di cui alle lettere c) e d) del comma 2, il minore non puo' assistere agli spettacoli di opere cinematografiche per cui non ha conseguito l'eta' prevista per la visione, salvo che non sia accompagnato da un genitore o da chi esercita la responsabilita' genitoriale e abbia compiuto almeno, rispettivamente, 12 e 16 anni.
 
 ## Art. 3. — Commissione per la classificazione delle opere cinematografiche
@@ -47,6 +85,61 @@ Presso la Direzione generale Cinema, di seguito: «DG Cinema», del Ministero de
 La Commissione opera quale organismo di controllo della classificazione ai sensi dell'articolo 33, comma 2, lettera b), della legge n. 220 del 2016.
 
 La Commissione verifica la corretta classificazione, proposta dagli operatori nel settore cinematografico, delle opere cinematografiche.
+
+3.
+                    
+                        
+                            La Commissione e' composta da ((...)) quarantanove membri, ((di cui uno con funzione di Presidente,)) nominati, nel rispetto dell'equilibrio di genere, dal Ministro dei beni e delle attivita' culturali e del turismo, per una durata di tre anni, rinnovabili una sola volta. ((...)) i membri sono scelti tra esperti, anche in quiescenza, di comprovata qualificazione professionale e competenza nel settore cinematografico o negli aspetti pedagogico-educativi connessi alla tutela dei minori o nella comunicazione sociale. In particolare, i membri sono cosi' individuati: 
+ 
+                        
+                        
+                            a)
+                            
+                                quattordici componenti ((, compreso il Presidente,)) scelti tra professori universitari in materie giuridiche, avvocati, magistrati assegnati a incarichi presso il tribunale dei minori, magistrati amministrativi, avvocati dello Stato e consiglieri parlamentari; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                
+                                    ((quattordici)) componenti scelti tra esperti con particolari competenze sugli aspetti pedagogico-educativi connessi alla tutela dei minori ((ovvero tra sociologi con particolare competenza nella comunicazione sociale e nei comportamenti dell'infanzia e dell'adolescenza)); 
+
+                            
+                        
+                        
+                            c)
+                            
+                                sette componenti scelti tra professori universitari di psicologia, psichiatria o pedagogia, pedagogisti e educatori professionali; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                
+                                    ((LETTERA ABROGATA DAL D.L. 28 GIUGNO 2019, N. 59)); 
+
+                            
+                        
+                        
+                            e)
+                            
+                                sette componenti designati dalle associazioni dei genitori maggiormente rappresentative; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                quattro componenti scelti tra esperti di comprovata qualificazione nel settore cinematografico, quali critici, studiosi o autori. 
+
+                            
+                        
+                        
+                            g)
+                            
+                                tre componenti designati dalle associazioni per la protezione degli animali maggiormente rappresentative;
 
 Il Ministro dei beni e delle attivita' culturali e del turismo provvede alla comunicazione dei nominativi dei componenti della Commissione alle Commissioni parlamentari competenti, allegando il curriculum vitae dei soggetti designati.
 
@@ -98,6 +191,24 @@ E' vietato abbinare a opere alla cui proiezione possono assistere i minori opere
 
 ## Art. 9. — Accertamento dell'illecito amministrativo e sanzioni
 
+1.
+                    
+                        
+                            Fermo restando quanto previsto dall'articolo 668 del codice penale, in caso di inosservanza degli obblighi previsti dal presente decreto, si applicano le seguenti sanzioni amministrative pecuniarie: 
+ 
+                        
+                        
+                            a)
+                            
+                                da un minimo di 5.000 euro ad un massimo di 30.000 euro, nel caso di inosservanza di ciascuno degli obblighi di cui all'articolo 4, commi 1 e 2, primo periodo, all'articolo 5, all'articolo 6 e all'articolo 8; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                da un minimo di 5.000 euro ad un massimo di 20.000 euro, nel caso di inosservanza di ciascuno degli obblighi di cui all'articolo 7.
+
 Nei casi di maggiore gravita' o nei casi di reiterata violazione degli articoli 7 ed 8 del presente decreto all'esercente la sala cinematografica si applica anche la sanzione accessoria della chiusura del locale per un periodo non superiore a sessanta giorni.
 
 Alle sanzioni amministrative previste dal presente articolo si applicano le disposizioni contenute nella legge 24 novembre 1981, n. 689, ad eccezione dell'articolo 16.
@@ -107,6 +218,31 @@ Il provvedimento di applicazione delle sanzioni previste dai commi 1 e 2 e' tras
 ## Art. 10. — Classificazione delle opere audiovisive destinate al web e dei videogiochi
 
 Con regolamento dell'Autorita' per le garanzie nelle comunicazioni, adottato entro centoventi giorni dalla data di pubblicazione del presente decreto, sentito il Ministro dei beni e delle attivita' culturali e del turismo, e' disciplinata la classificazione delle opere audiovisive destinate al web e dei videogiochi.
+
+2.
+                    
+                        
+                            La classificazione di cui al presente articolo e' finalizzata ad assicurare il giusto e equilibrato bilanciamento tra la tutela dei minori e la liberta' di manifestazione del pensiero e dell'espressione artistica. In particolare, il regolamento di cui al presente articolo e' adottato nel rispetto: 
+ 
+                        
+                        
+                            a)
+                            
+                                dei principi di cui all'articolo 2, comma 1, del presente decreto; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                delle disposizioni, in quanto compatibili, degli articoli 34 e 35 del decreto legislativo 31 luglio 2005, n. 177, e successive modificazioni, anche con specifico riguardo alla definizione di accorgimenti tecnici idonei ad escludere che i minori vedano normalmente opere vietate, e delle relative sanzioni ivi previste; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                degli standard e delle migliori pratiche internazionali del settore, con particolare riferimento ai sistemi di classificazione maggiormente diffusi, tra i quali il PEGI, Pan European Game Information - Informazioni paneuropee sui giochi.
 
 ## Art. 11. — Disposizioni transitorie
 
@@ -119,6 +255,63 @@ Fino all'approvazione del regolamento di funzionamento della Commissione, le Com
 All'attuazione delle disposizioni del presente decreto si provvede mediante l'utilizzo delle risorse umane, strumentali e finanziarie disponibili al legislazione vigente, senza nuovi o maggiori oneri per la finanza pubblica.
 
 ## Art. 13. — Abrogazioni e disposizioni finali
+
+1.
+                    
+                        
+                            A decorrere dalla data di adozione del regolamento di funzionamento della Commissione sono abrogati: 
+ 
+                        
+                        
+                            a)
+                            
+                                gli articoli 77 e 78 del regio decreto 18 giugno 1931, n. 773; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                la legge 21 aprile 1962, n. 161; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                il decreto del Presidente della Repubblica 11 novembre 1963, n. 2029.
+
+2.
+                    
+                        
+                            A decorrere dalla medesima data di cui al comma 1: 
+ 
+                        
+                        
+                            a)
+                            
+                                all'articolo 35, comma 3, del decreto legislativo 31 luglio 2005, n. 177, e successive modificazioni, le parole: «dall'articolo 15 della legge 21 aprile 1962, n. 161» sono sostituite dalle seguenti: «dall'articolo 9, commi 1, lettera a), e 2, del decreto legislativo attuativo della delega di cui all'articolo 33 della legge 14 novembre 2016, n. 220»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                la lettera e) del comma 1 dell'articolo 134 del decreto legislativo 2 luglio 2010, n. 104, e' sostituita dalla seguente: «e) la classificazione delle opere cinematografiche per la visione dei minori di cui al decreto legislativo attuativo della delega di cui all'articolo 33 della legge 14 novembre 2016, n. 220.»; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                la lettera d) del comma 6 dell'articolo 9 del decreto-legge 8 agosto 2013, n. 91, convertito, con modificazioni, dalla legge 7 ottobre 2013, n. 112, e' sostituita dalla seguente: «d) decreto legislativo attuativo della delega di cui all'articolo 33 della legge 14 novembre 2016, n. 220, in materia di classificazione delle opere cinematografiche»; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                nei decreti attuativi della legge n. 220 del 2016 e in ogni disposizione legislativa o regolamentare, l'espressione: «ottenimento del nulla osta di proiezione in pubblico del film di cui alla legge 21 aprile 1962, n. 161» deve intendersi sostituita dalla seguente: «istanza di verifica della classificazione dell'opera cinematografica».
 
 Al secondo comma dell'articolo 668 del codice penale, approvato con regio decreto 19 ottobre 1930, n. 1398, la parola: «pellicole» e' sostituita dalla seguente: «opere» e dopo le parole: «dell'autorita'» sono aggiunte le seguenti: «o non sottoposte a classificazione o senza rispettare la classificazione verificata dalla Commissione per la classificazione delle opere cinematografiche».
 

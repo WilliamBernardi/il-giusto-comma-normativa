@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Leggi delega e relativi provvedimenti delegati
 vigenza_date: 2004-03-02
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:41:19Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -26,15 +26,199 @@ Sulla proposta del Ministro dell'istruzione, dell'universita' e della ricerca, d
 
 ## Art. 1. — Oggetto
 
+1.
+                    
+                        
+                            Il presente decreto legislativo detta la disciplina di riordino dell'Istituto nazionale di astrofisica (I.N.A.F.) e ne definisce le finalita', le attivita', gli organi, i principi ed i criteri di organizzazione e di funzionamento, al fine di promuovere e di collegare realta' operative di eccellenza, di evitare duplicazioni per i medesimi obiettivi, di assicurare il massimo livello di flessibilita', di autonomia e di efficienza, nonche' una piu' agevole stipula di intese, accordi di programma e consorzi, determinando le condizioni organizzative per:
+ 
+                        
+                        
+                            a)
+                            
+                                ottimizzare l'allocazione delle risorse e determinare economie di risultato e di scopo;
+
+                            
+                        
+                        
+                            b)
+                            
+                                semplificare i meccanismi di programmazione delle attivita' di ricerca ed amministrative;
+
+                            
+                        
+                        
+                            c)
+                            
+                                promuovere le attivita' e le collaborazioni di ricerca internazionali;
+
+                            
+                        
+                        
+                            d)
+                            
+                                promuovere la valorizzazione dell'attivita' di ricerca;
+
+                            
+                        
+                        
+                            e)
+                            
+                                potenziare l'integrazione con le reti della ricerca universitaria ed imprenditoriale;
+
+                            
+                        
+                        
+                            f)
+                            
+                                delineare un equilibrato rapporto tra funzioni di indirizzo programmatico e di valutazione e funzioni di pianificazione e di conduzione operativa delle attivita' di ricerca;
+
+                            
+                        
+                        
+                            g)
+                            
+                                valutare i risultati della ricerca.
+
 ## Art. 2. — Finalita' e natura dell'ente
 
 L'I.N.A.F. e' ente pubblico nazionale con il compito di svolgere, promuovere, diffondere, trasferire e valorizzare attivita' di ricerca scientifica e tecnologica nei campi dell'astronomia, della radioastronomia, dell'astrofisica spaziale e della fisica cosmica, perseguendo obiettivi di eccellenza a livello internazionale.
 
 L'I.N.A.F. ha personalita' giuridica di diritto pubblico, autonomia scientifica, finanziaria, patrimoniale e contabile e si dota di un ordinamento autonomo in conformita' al presente decreto, alla legge 1989, n. 168, e successive modificazioni, al decreto legislativo 5 giugno 1998, n. 204, nonche' per quanto non previsto dalle predette disposizioni, al codice civile. L'I.N.A.F. e' soggetto alla vigilanza del Ministero dell'istruzione, dell'universita' e della ricerca.
 
+3.
+                    
+                        
+                            Nell'I.N.A.F. confluiscono, con le modalita' di cui all'articolo 22, i seguenti istituti del Consiglio nazionale delle ricerche:
+ 
+                        
+                        
+                            a)
+                            
+                                istituto di radioastronomia;
+
+                            
+                        
+                        
+                            b)
+                            
+                                istituto di astrofisica spaziale;
+
+                            
+                        
+                        
+                            c)
+                            
+                                istituto di fisica dello spazio interplanetario.
+
 ## Art. 3. — Attivita' dell'I.N.A.F.
 
+1.
+                    
+                        
+                            L'I.N.A.F.:
+ 
+                        
+                        
+                            a)
+                            
+                                promuove, realizza e coordina, anche nell'ambito di programmi dell'Unione europea e di organismi internazionali, attivita' di ricerca nei campi dell'astronomia, della radioastronomia, dell'astrofisica spaziale e della fisica cosmica, sia tramite la rete degli osservatori astronomici e astrofisici e di altre strutture proprie, sia in collaborazione con le universita' e con altri soggetti pubblici e privati, nazionali e internazionali;
+
+                            
+                        
+                        
+                            b)
+                            
+                                progetta e coordina programmi nazionali ed internazionali di ricerca finalizzati alla costruzione, all'utilizzo e alla gestione di grandi apparecchiature localizzate sul territorio nazionale o all'estero;
+
+                            
+                        
+                        
+                            c)
+                            
+                                promuove, sostiene e coordina la partecipazione italiana ad organismi, progetti ed iniziative internazionali nelle materie di competenza, fornendo su richiesta di autorita' governative competenze scientifiche, garantendo la collaborazione con enti ed istituzioni di altri Paesi;
+
+                            
+                        
+                        
+                            d)
+                            
+                                promuove la valorizzazione ai fini produttivi e sociali e il trasferimento tecnologico dei risultati della ricerca svolta o coordinata dalla propria rete scientifica;
+
+                            
+                        
+                        
+                            e)
+                            
+                                svolge attivita' di comunicazione e promozione della ricerca di competenza, curando la diffusione dei relativi risultati economici e sociali all'interno del Paese e garantendo l'utilizzazione delle conoscenze prodotte;
+
+                            
+                        
+                        
+                            f)
+                            
+                                promuove e gestisce iniziative volte all'integrazione della ricerca nazionale ed internazionale nel settore di competenza, anche al fine di acquisire risorse ulteriori per il finanziamento di progetti congiunti;
+
+                            
+                        
+                        
+                            g)
+                            
+                                promuove la formazione e la crescita tecnicoprofessionale dei ricercatori italiani nel campo dell'astronomia, della radioastronomia, dell'astrofisica spaziale e della fisica cosmica, attraverso l'assegnazione di borse di studio e assegni di ricerca, nonche' promuovendo e realizzando, sulla base di apposite convenzioni con le universita', corsi di dottorato di ricerca, anche con il coinvolgimento del mondo produttivo;
+
+                            
+                        
+                        
+                            h)
+                            
+                                effettua la valutazione dei risultati dei propri programmi di ricerca, del funzionamento delle proprie strutture e dell'attivita' del personale, sulla base di criteri di valutazione definiti dal Ministero dell'istruzione, dell'universita' e della ricerca;
+
+                            
+                        
+                        
+                            i)
+                            
+                                promuove lo sviluppo della conoscenza astronomica nella scuola e nella societa' mediante appropriate attivita' divulgative e museali;
+
+                            
+                        
+                        
+                            l)
+                            
+                                svolge, su richiesta, attivita' di consulenza tecnico-scientifica sulle materie di propria competenza, a favore del Ministero dell'istruzione, dell'universita' e della ricerca, delle altre pubbliche amministrazioni, delle imprese o di altri soggetti privati.
+
 ## Art. 4. — Organi
+
+1.
+                    
+                        
+                            Sono organi dell'I.N.A.F.:
+ 
+                        
+                        
+                            a)
+                            
+                                il presidente;
+
+                            
+                        
+                        
+                            b)
+                            
+                                il consiglio di amministrazione;
+
+                            
+                        
+                        
+                            c)
+                            
+                                il consiglio scientifico;
+
+                            
+                        
+                        
+                            d)
+                            
+                                il collegio dei revisori dei conti.
 
 ## Art. 5. — Principi di organizzazione
 
@@ -42,17 +226,151 @@ L'organizzazione dell'I.N.A.F. e' definita dal regolamento di organizzazione e f
 
 ## Art. 6. — Presidente
 
+1.
+                    
+                        
+                            Il presidente ha la rappresentanza legale dell'ente ed e' responsabile delle relazioni istituzionali.
+ Il presidente:
+ 
+                        
+                        
+                            a)
+                            
+                                convoca e presiede il consiglio di amministrazione ed il consiglio scientifico stabilendone l'ordine del giorno;
+
+                            
+                        
+                        
+                            b)
+                            
+                                vigila, sovrintende e controlla il corretto svolgimento delle attivita' dell'ente;
+
+                            
+                        
+                        
+                            c)
+                            
+                                attribuisce gli incarichi al direttore amministrativo e ai direttori di dipartimento, degli osservatori e degli istituti, previamente deliberati dal consiglio di amministrazione, come previsto all'articolo 7, com-ma 1, lettera g);
+
+                            
+                        
+                        
+                            d)
+                            
+                                adotta provvedimenti di urgenza di competenza del consiglio di amministrazione, da sottoporre a ratifica nella prima riunione successiva del consiglio stesso.
+
 Il presidente e' scelto tra persone di alta qualificazione scientifica e manageriale con una profonda conoscenza del sistema della ricerca in Italia e all'estero nel settore di riferimento e con pluriennale esperienza nella gestione di enti o organismi sia pubblici sia privati, operanti nel settore della ricerca. E' nominato con la procedura di cui all'articolo 6, comma 2 del decreto legislativo 5 giugno 1998, n. 204, dura in carica 4 anni, e puo' essere confermato una sola volta.
 
 In caso di assenza o impedimento il presidente e' sostituito da un vice presidente nominato dal consiglio di amministrazione tra i suoi componenti. Il vice presidente puo' operare anche in virtu' di specifiche deleghe secondo quanto previsto dal regolamento di organizzazione e funzionamento dell'ente.
 
 ## Art. 7. — Consiglio di amministrazione
 
+1.
+                    
+                        
+                            Il consiglio di amministrazione ha compiti di indirizzo e programmazione generale dell'attivita' dell'ente.
+ Il consiglio di amministrazione, su proposta del presidente:
+ 
+                        
+                        
+                            a)
+                            
+                                delibera il piano triennale dell'ente e i relativi aggiornamenti, sentito il consiglio scientifico;
+
+                            
+                        
+                        
+                            b)
+                            
+                                approva il bilancio preventivo e il bilancio consuntivo e le relative relazioni di accompagnamento;
+
+                            
+                        
+                        
+                            c)
+                            
+                                delibera le linee guida per la elaborazione del piano triennale;
+
+                            
+                        
+                        
+                            d)
+                            
+                                delibera i regolamenti dell'ente;
+
+                            
+                        
+                        
+                            e)
+                            
+                                nomina il vice presidente, eleggendolo tra i propri componenti;
+
+                            
+                        
+                        
+                            f)
+                            
+                                nomina i componenti del consiglio scientifico, i direttori di dipartimento, di osservatorio, di istituto, i componenti del comitato di valutazione e il direttore amministrativo;
+
+                            
+                        
+                        
+                            g)
+                            
+                                delibera l'affidamento degli incarichi al direttore amministrativo, ai dirigenti e ai direttori di dipartimento, degli osservatori e degli istituti;
+
+                            
+                        
+                        
+                            h)
+                            
+                                verifica i risultati dell'attivita' dell'ente, avvalendosi anche delle relazioni del comitato di valutazione;
+
+                            
+                        
+                        
+                            i)
+                            
+                                delibera sui grandi investimenti in infrastrutture e su commesse rilevanti, secondo criteri definiti nel regolamento di organizzazione e funzionamento;
+
+                            
+                        
+                        
+                            l)
+                            
+                                delibera in ordine ad ogni altra materia attribuitagli dal presente decreto e dai regolamenti dell'ente.
+
 Il consiglio e' composto dal presidente e da quattro componenti nominati dal Ministro dell'istruzione, dell'universita' e della ricerca, in possesso di elevata professionalita' e qualificazione scientifica nel settore di attivita' dell'I.N.A.F.
 
 I componenti del consiglio di amministrazione sono nominati con decreto del Ministro dell'istruzione, dell'universita' e della ricerca, durano in carica quattro anni e possono essere confermati una sola volta.
 
 ## Art. 8. — Consiglio scientifico
+
+1.
+                    
+                        
+                            Il consiglio scientifico ha compiti consultivi nei confronti del consiglio di amministrazione relativi all'attivita' complessiva di ricerca dell'ente.
+ Il consiglio scientifico:
+ 
+                        
+                        
+                            a)
+                            
+                                esprime al consiglio di amministrazione il parere scientifico sulle proposte di piano triennale e sui relativi aggiornamenti annuali;
+
+                            
+                        
+                        
+                            b)
+                            
+                                realizza, su richiesta del presidente, analisi, studi e confronti sullo stato della ricerca di competenza a livello nazionale ed internazionale;
+
+                            
+                        
+                        
+                            c)
+                            
+                                individua, su richiesta del presidente, le possibili linee evolutive della ricerca di competenza.
 
 Il consiglio scientifico e' composto, oltre che dal presidente dell'I.N.A.F. che lo presiede, da dodici componenti scienziati italiani e stranieri di fama internazionale, con particolare e qualificata professionalita' ed esperienza nel settore di competenza dell'ente, di cui quattro designati dal presidente, quattro designati dal consiglio di amministrazione sulla base di terne proposte dai direttori di osservatorio e di istituto e quattro eletti dagli astronomi, dai ricercatori e dai tecnologi dell'ente secondo modalita' definite dal regolamento di organizzazione e funzionamento.
 
@@ -75,11 +393,111 @@ Il comitato di valutazione svolge i propri compiti in piena autonomia. Il comita
 
 ## Art. 11. — Direttore amministrativo
 
+1.
+                    
+                        
+                            Il direttore amministrativo ha la responsabilita' della gestione amministrativa dell'ente, cura l'attuazione delle delibere del consiglio di amministrazione e dei provvedimenti del presidente; dirige, coordina e controlla la struttura amministrativa e i servizi generali dell'ente; partecipa alle riunioni del consiglio di amministrazione senza diritto di voto.
+ Il direttore amministrativo:
+ 
+                        
+                        
+                            a)
+                            
+                                predispone il bilancio preventivo e il bilancio consuntivo dell'ente;
+
+                            
+                        
+                        
+                            b)
+                            
+                                elabora, sulla base delle indicazioni dei dipartimenti, la relazione annuale di verifica dei risultati gestionali ed economici dell'ente, da sottoporre al presidente che la presenta al consiglio di amministrazione;
+
+                            
+                        
+                        
+                            c)
+                            
+                                predispone gli schemi dei regolamenti da sottoporre al presidente che li presenta al consiglio di amministrazione;
+
+                            
+                        
+                        
+                            d)
+                            
+                                conferisce gli incarichi ai dirigenti previa deliberazione del consiglio di amministrazione.
+
 Il direttore amministrativo, il cui rapporto di lavoro, a tempo pieno, e' regolato con contratto di diritto privato con durata coincidente con la scadenza del mandato del presidente, e' scelto tra persone di alta qualificazione tecnico-professionale e di comprovata esperienza gestionale, con profonda conoscenza delle normative e degli assetti organizzativi degli enti pubblici. Il relativo incarico e' attribuito dal presidente, previa deliberazione del consiglio di amministrazione.
 
 ## Art. 12. — Dipartimenti
 
 Il regolamento di organizzazione e funzionamento prevede l'istituzione di un numero di dipartimenti non superiore a due ai fini della programmazione, del coordinamento e del controllo delle attivita' di ricerca svolte dagli osservatori e dagli istituti e per favorire lo sviluppo di grandi progetti strumentali a livello europeo e internazionale.
+
+2.
+                    
+                        
+                            I dipartimenti:
+ 
+                        
+                        
+                            a)
+                            
+                                propongono al consiglio di amministrazione il piano triennale e i relativi aggiornamenti annuali di attivita' complessiva del dipartimento e degli osservatori e degli istituti ad esso afferenti, elaborato sulla base di quelli degli stessi istituti, indicando le risorse necessarie per la loro attuazione, ivi inclusa l'acquisizione delle risorse umane;
+
+                            
+                        
+                        
+                            b)
+                            
+                                affidano agli osservatori e agli istituti ad essi afferenti la realizzazione dei programmi e dei progetti di ricerca assegnando loro le relative risorse, tenendo conto delle proposte formulate dagli stessi istituti;
+
+                            
+                        
+                        
+                            c)
+                            
+                                coordinano le attivita' degli osservatori e degli istituti ad essi afferenti;
+
+                            
+                        
+                        
+                            d)
+                            
+                                coordinano, su specifico incarico del consiglio di amministrazione, programmi di ricerca comuni ad altri dipartimenti;
+
+                            
+                        
+                        
+                            e)
+                            
+                                istituiscono, previa autorizzazione del consiglio di amministrazione, unita' di ricerca per singoli progetti, a tempo definito, presso le universita' o le imprese, sulla base di specifiche convenzioni;
+
+                            
+                        
+                        
+                            f)
+                            
+                                propongono al consiglio di amministrazione iniziative di sviluppo, e di formazione dei ricercatori;
+
+                            
+                        
+                        
+                            g)
+                            
+                                coordinano le relazioni esterne, nazionali ed internazionali, relative alle proprie competenze;
+
+                            
+                        
+                        
+                            h)
+                            
+                                svolgono, su indicazione del consiglio di amministrazione, attivita' di valorizzazione dei risultati della ricerca e supportano i ricercatori nelle attivita' di tutela brevettuale e nel collocamento sul mercato dei brevetti;
+
+                            
+                        
+                        
+                            i)
+                            
+                                presentano al consiglio di amministrazione una relazione annuale sull'attivita' scientifica svolta.
 
 Il direttore di dipartimento si avvale di una struttura amministrativa, nell'ambito della dotazione organica, definita dal regolamento di organizzazione e funzionamento dell'ente.
 
@@ -90,6 +508,24 @@ L'incarico di direttore di dipartimento e' a tempo pieno ed e' attribuito dal pr
 Gli osservatori e gli istituti sono le unita' organizzative, responsabili dell'attivita' di ricerca astronomica e astrofisica dell'ente. Gli osservatori, gli istituti, le relative competenze e dislocazioni sul territorio sono definiti dal regolamento di organizzazione e funzionamento dell'ente.
 
 Gli osservatori e gli istituti realizzano in autonomia scientifica i programmi e progetti di ricerca loro affidati come previsto dall'articolo 12, comma 2, lettera b). Essi hanno autonomia finanziaria e gestionale nei limiti definiti dal regolamento di amministrazione, contabilita' e finanza dell'ente.
+
+3.
+                    
+                        
+                            Gli osservatori e gli istituti:
+ 
+                        
+                        
+                            a)
+                            
+                                propongono al dipartimento cui afferiscono il piano triennale sulle attivita' di competenza ed i relativi aggiornamenti annuali;
+
+                            
+                        
+                        
+                            b)
+                            
+                                gestiscono i programmi e progetti di ricerca loro affidati.
 
 I direttori degli osservatori e degli istituti sono responsabili dell'attivita' degli stessi; sono nominati dal consiglio di amministrazione sulla base delle competenze scientifiche e manageriali possedute, a seguito di procedure selettive definite dai regolamenti dell'ente.
 
@@ -121,13 +557,201 @@ L'I.N.A.F., previo confronto con le organizzazioni sindacali, ai sensi dell'arti
 
 ## Art. 16. — Entrate dell'I.N.A.F.
 
+1.
+                    
+                        
+                            Le entrate dell'I.N.A.F. sono costituite:
+ 
+                        
+                        
+                            a)
+                            
+                                dal contributo a carico del fondo ordinario per il finanziamento degli enti pubblici di ricerca, di cui all'articolo 7, commi 1 e 2, del decreto legislativo 5 giugno 1998, n. 204, determinato sulla base delle attivita' previste dal piano triennale e dai relativi aggiornamenti annuali, ove approvati;
+
+                            
+                        
+                        
+                            b)
+                            
+                                dai contributi per singoli progetti o interventi a carico dei fondi previsti dal programma nazionale della ricerca, ai sensi del decreto legislativo 5 giugno 1998, n. 204;
+
+                            
+                        
+                        
+                            c)
+                            
+                                dalle assegnazioni e dai contributi da parte di pubbliche amministrazioni centrali e locali per l'esecuzione di particolari progetti o accordi di programma;
+
+                            
+                        
+                        
+                            d)
+                            
+                                dai contributi dell'Unione europea o di altri organismi internazionali per la partecipazione a programmi e progetti;
+
+                            
+                        
+                        
+                            e)
+                            
+                                dai contratti stipulati con istituzioni private e dalla vendita e/o fornitura di servizi e/o royalties provenienti da brevetti o cessione di know-how;
+
+                            
+                        
+                        
+                            f)
+                            
+                                da ogni altra eventuale entrata.
+
 ## Art. 17. — Strumenti
+
+1.
+                    
+                        
+                            L'I.N.A.F. per lo svolgimento delle attivita' di cui all'articolo 3 e di ogni altra attivita' connessa, ivi compreso l'utilizzo economico dei risultati della ricerca propria e di quella commissionata, secondo criteri e modalita' determinati con proprio regolamento, puo':
+ 
+                        
+                        
+                            a)
+                            
+                                stipulare accordi e convenzioni;
+
+                            
+                        
+                        
+                            b)
+                            
+                                partecipare o costituire consorzi, fondazioni o societa' con soggetti pubblici e privati, italiani e stranieri, previa autorizzazione del Ministro dell'universita', dell'istruzione e della ricerca. Decorsi sessanta giorni dalla richiesta di autorizzazione, in assenza di osservazioni da parte del Ministro dell'istruzione, dell'universita' e della ricerca, l'autorizzazione si intende concessa. Per la costituzione o la partecipazione in societa' con apporto al capitale sociale superiore a 500.000,00 euro o con quota pari o superiore al 50 per cento del predetto capitale sociale e' inoltre richiesto il parere del Ministro dell'economia e delle finanze, che deve esprimersi entro 30 giorni, decorsi i quali si prescinde dal parere;
+
+                            
+                        
+                        
+                            c)
+                            
+                                promuovere la costituzione di nuove imprese conferendo personale proprio, anche in costanza di rapporto, nel rispetto della normativa vigente;
+
+                            
+                        
+                        
+                            d)
+                            
+                                partecipare alla costituzione ed alla conduzione anche scientifica di centri di ricerca internazionali, in collaborazione con analoghe istituzioni scientifiche di altri Paesi;
+
+                            
+                        
+                        
+                            e)
+                            
+                                commissionare attivita' di ricerca e studio a soggetti pubblici e privati, nazionali e internazionali, secondo le disposizioni del suo regolamento amministrativo.
 
 L'I.N.A.F. riferisce sui programmi, sugli obiettivi, sulle attivita' e sui risultati dei soggetti di cui al comma 1 in apposita sezione del piano triennale dell'ente.
 
 ## Art. 18. — Regolamenti
 
 L'I.N.A.F. si dota del regolamento di organizzazione e funzionamento, del regolamento di amministrazione, contabilita' e finanza e del regolamento del personale, nonche' di altri regolamenti interni disciplinanti specifiche materie, in coerenza con le procedure e modalita' di cui all'articolo 8 della legge 9 maggio 1989, n. 168. Il regolamento sul personale e' inoltre sottoposto al parere del Ministro per la funzione pubblica che si esprime nel termine di 30 giorni, decorsi i quali si prescinde dal parere. Sui regolamenti, prima dell'adozione, sono sentite le organizzazioni sindacali maggiormente rappresentative.
+
+2.
+                    
+                        
+                            Il regolamento di organizzazione e funzionamento:
+ 
+                        
+                        
+                            a)
+                            
+                                definisce i dipartimenti, raggruppando gli istituti e gli osservatori ad essi afferenti;
+
+                            
+                        
+                        
+                            b)
+                            
+                                definisce le procedure per la nomina dei direttori di dipartimento;
+
+                            
+                        
+                        
+                            c)
+                            
+                                definisce gli istituti e gli osservatori, la loro dislocazione sul territorio, e la loro articolazione organizzativa;
+
+                            
+                        
+                        
+                            d)
+                            
+                                stabilisce le procedure di selezione per la nomina dei direttori di istituto e di osservatorio;
+
+                            
+                        
+                        
+                            e)
+                            
+                                definisce le regole per la partecipazione dell'ente in altri soggetti pubblici e privati.
+
+3.
+                    
+                        
+                            Il regolamento di amministrazione, contabilita' e finanza:
+ 
+                        
+                        
+                            a)
+                            
+                                definisce uno schema tipo per la redazione da parte dei dipartimenti del bilancio preventivo e del bilancio consuntivo;
+
+                            
+                        
+                        
+                            b)
+                            
+                                definisce modalita' che assicurino la trasparenza nell'assegnazione e nell'utilizzo delle risorse finanziarie per i diversi obiettivi di ricerca e per la realizzazione delle funzioni istituzionali;
+
+                            
+                        
+                        
+                            c)
+                            
+                                definisce modalita' per l'acquisto di beni, servizi e forniture, anche in conformita' alla normativa comunitaria;
+
+                            
+                        
+                        
+                            d)
+                            
+                                individua le modalita' per l'acquisizione da parte degli istituti di risorse esterne all'ente;
+
+                            
+                        
+                        
+                            e)
+                            
+                                definisce modalita' per la gestione patrimoniale, economica, finanziaria e contabile interna, anche in deroga alle disposizioni sulla contabilita' generale dello Stato;
+
+                            
+                        
+                        
+                            f)
+                            
+                                prevede la facolta' di erogare anticipazioni nel limite del 20 per cento contrattuale, per le forniture di strumentazione scientifica e tecnologica di particolare complessita' in deroga alle disposizioni normative vigenti in materia.
+
+4.
+                    
+                        
+                            Il regolamento del personale:
+ 
+                        
+                        
+                            a)
+                            
+                                definisce modalita' per la gestione e l'amministrazione del personale;
+
+                            
+                        
+                        
+                            b)
+                            
+                                stabilisce le procedure per il reclutamento del personale a tempo determinato e a tempo indeterminato.
 
 ## Art. 19. — Personale
 

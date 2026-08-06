@@ -7,8 +7,8 @@ urn: urn:nir:stato:decreto.legislativo:2026-05-07;97
 vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:34Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -25,6 +25,24 @@ Sentita la Commissione paritetica per le norme di attuazione, prevista dall'arti
 Sulla proposta del Presidente del Consiglio dei ministri e del Ministro per gli affari regionali e le autonomie, di concerto con i Ministri della giustizia, dell'interno, dell'economia e delle finanze e per la pubblica amministrazione;
 
 ## Art. 1. — Modifiche del decreto del Presidente della Repubblica 26 luglio, 1976, n. 752
+
+1.
+                    
+                        
+                            All'articolo 20-ter del decreto del Presidente della Repubblica 26 luglio 1976, n. 752, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 5, primo periodo, dopo le parole: «I comuni informano» sono inserite le seguenti: «, mediante notificazione,»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al secondo periodo del comma 5, le parole: «dalla data di comunicazione» sono sostituite dalle seguenti: «dalla notificazione»;
 
 All'articolo 37, terzo comma, del decreto del Presidente della Repubblica 26 luglio 1976, n. 752, le parole: «un anno» sono sostituite dalle seguenti: «tre anni».
 

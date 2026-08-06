@@ -8,8 +8,8 @@ codice_redazionale: 011G0199
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:40Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -29,10 +29,133 @@ Udito il parere del consiglio di Stato, espresso dalla Sezione consultiva per gl
 
 ## Art. 1. — Definizioni
 
+1.
+                    
+                        
+                            Ai fini del presente regolamento: 
+ 
+                        
+                        
+                            a)
+                            
+                                «legge» indica la legge 29 dicembre 1993, n. 580, come modificata dal decreto legislativo 15 febbraio 2010, n. 23; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                «camera di commercio» indica la camera di commercio, industria, artigianato e agricoltura; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                «organizzazioni imprenditoriali» indica le organizzazioni rappresentative delle imprese appartenenti ai settori individuati dagli statuti ai sensi del comma 2 dell'articolo 10 della legge; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                «organizzazioni sindacali» indica le organizzazioni sindacali dei lavoratori; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                «associazioni dei consumatori» indica le associazioni di tutela degli interessi dei consumatori e utenti, iscritte nell'elenco istituito ai sensi dell'articolo 137 del decreto legislativo 6 settembre 2005, n. 206, ovvero riconosciute in base alle leggi regionali in materia; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                «numero delle imprese» indica il numero complessivo delle imprese, delle sedi secondarie e delle unita' locali operanti nelle singole circoscrizioni territoriali delle camere di commercio iscritte o annotate nel registro delle imprese e nel repertorio delle notizie economiche e amministrative; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                «numero degli occupati» indica il numero complessivo degli addetti, individuati in base alla classificazione contenuta nella dichiarazione sostitutiva di atto di notorieta', di cui all'allegato A del presente decreto; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                «valore aggiunto per addetto» indica il rapporto tra il valore aggiunto calcolato per ciascun settore a norma del decreto di cui all'articolo 10 della legge ed il numero degli addetti dello stesso settore; 
+
+                            
+                        
+                        
+                            i)
+                            
+                                «diritto annuale versato» indica l'ammontare del diritto annuale, di competenza dell'anno, riscosso da ciascuna camera di commercio per ogni singola impresa, comprese le sedi secondarie e le unita' locali, appartenenti a ciascun settore economico di cui alla legge o allo statuto camerale; 
+
+                            
+                        
+                        
+                            l)
+                            
+                                «piccole imprese», indica: 
+ 1) per il settore dell'industria, le imprese che hanno meno di 50 occupati; 
+ 2) per il settore del commercio le imprese iscritte nella sezione speciale dei piccoli imprenditori del registro delle imprese; 
+ 3) per il settore dell'agricoltura, i coltivatori diretti, di cui all'articolo 2083 del codice civile; 
+
+                            
+                        
+                        
+                            m)
+                            
+                                «circoscrizione» indica la circoscrizione territoriale di competenza della camera di commercio. 
+
+                            
+                        
+                        
+                            n)
+                            
+                                «segretario generale», indica il segretario generale della camera di commercio, che svolge le funzioni di responsabile del procedimento o individua il responsabile del procedimento ai sensi degli articoli 5 e 6 della legge 7 agosto 1990, n. 241, per le fasi procedurali attribuite alla competenza della camera stessa.
+
 ## Art. 2. — Procedure per la determinazione della consistenza 
  delle organizzazioni imprenditoriali
 
 Il Presidente della camera di commercio, centottanta giorni prima della scadenza del consiglio camerale, da' avvio alle procedure previste dal presente decreto pubblicando apposito avviso nell'albo camerale e sul sito internet istituzionale, dandone contestuale comunicazione al Presidente della giunta regionale.
+
+2.
+                    
+                        
+                            Entro e non oltre quaranta giorni dalla pubblicazione dell'avviso, a pena di esclusione dal procedimento, le organizzazioni imprenditoriali di livello provinciale aderenti ad organizzazioni nazionali rappresentate nel CNEL, ovvero operanti nella circoscrizione da almeno tre anni prima della pubblicazione, fanno pervenire alla camera di commercio, ai fini della ripartizione dei seggi di cui al comma 1 dell'articolo 10 della legge e secondo i criteri definiti dal decreto di cui all'articolo 10 della legge, un'unica dichiarazione sostitutiva di atto di notorieta', resa ai sensi dell'articolo 47 del decreto del Presidente della Repubblica 28 dicembre 2000, n. 445, e redatta a pena di irricevibilita' secondo lo schema di cui all'allegato A che forma parte integrante del presente regolamento, sottoscritta dal legale rappresentante, contenente i seguenti dati: 
+ 
+                        
+                        
+                            a)
+                            
+                                le informazioni documentate, anche attraverso copia dello statuto, in merito alla propria natura e alle proprie finalita' di tutela e promozione degli interessi degli associati, nonche' all'ampiezza e alla diffusione delle proprie strutture operative, ai servizi resi e all'attivita' svolta nella circoscrizione, nonche' per il settore delle societa' in forma cooperativa il numero dei soci aderenti alle stesse; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                il numero delle imprese che risultano iscritte, a norma del proprio statuto, alla data del 31 dicembre dell'anno precedente a quello di pubblicazione dell'avviso, purche' nell'ultimo biennio abbiano pagato almeno una quota annuale di adesione; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                il numero degli occupati nelle imprese di cui alla lettera b), compresi gli occupati per frazione di anno solare, secondo la distinta per categorie contenuta nello schema di cui all'allegato A al presente decreto, con riferimento alla situazione dell'anno precedente a quello di pubblicazione dell'avviso, indicando la fonte da cui i dati sono stati tratti; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                l'attestazione che l'associazione opera da almeno tre anni nel territorio della circoscrizione, oppure che e' rappresentata nel CNEL.
 
 Le organizzazioni di cui al comma 2 presentano, a norma dell'articolo 12 della legge, unitamente alla dichiarazione di cui al comma 2, a pena di esclusione dal procedimento, l'elenco delle imprese associate, redatto secondo lo schema di cui all'allegato B, che forma parte integrante del presente regolamento.
 
@@ -75,6 +198,31 @@ Resta ferma la competenza del Presidente della giunta regionale ad adottare i pr
 
 ## Art. 6. — Scioglimento dell'apparentamento
 
+1.
+                    
+                        
+                            L'apparentamento di cui all'articolo 4 si intende sciolto: 
+ 
+                        
+                        
+                            a)
+                            
+                                qualora le parti aderenti, o anche solo una o piu' di esse, dichiarano di non voler piu' partecipare al procedimento in apparentamento; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                se nei termini previsti non sono state formulate le designazioni dei consiglieri che devono essere espressi dall'apparentamento; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                se le designazioni arrivano in numero differente da quello dei consiglieri la cui designazione e' stata richiesta all'apparentamento, ovvero arrivano nel numero richiesto, ma non sottoscritte da tutte le parti aderenti.
+
 Non e' ammessa la presentazione di nuovi apparentamenti nello stesso settore nel quale un apparentamento precedente e' sciolto.
 
 Dopo lo scioglimento dell'apparentamento, il Presidente della giunta regionale sospende il procedimento relativamente al settore interessato e individua, tenendo conto del disposto dell'articolo 9, l'organizzazione piu' rappresentativa sulla base dei dati presentati disgiuntamente da ciascuna organizzazione.
@@ -114,6 +262,77 @@ Le riunioni della consulta sono valide, in prima convocazione, con la presenza d
 Il Presidente della consulta comunica, entro trenta giorni dalla comunicazione di cui all'articolo 9, comma 1, lettera e), al Presidente della giunta regionale il nominativo del rappresentante dei liberi professionisti designato dalla consulta. In assenza di designazione, il Presidente della giunta regionale applica l'articolo 12, comma 6, secondo periodo, della legge.
 
 ## Art. 9. — Determinazione del numero dei rappresentanti
+
+1.
+                    
+                        
+                            Il Presidente della giunta regionale, entro e non oltre trenta giorni dalla ricezione della documentazione di cui all'articolo 2: 
+ 
+                        
+                        
+                            a)
+                            
+                                rileva, in base ai criteri di cui al comma 2, il grado di rappresentativita' di ciascuna organizzazione imprenditoriale nell'ambito del settore; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                individua, in base ai criteri di cui al comma 3, le organizzazioni imprenditoriali o i gruppi di organizzazioni di cui all'articolo 4, che designano i componenti nel consiglio camerale, nonche' il numero dei componenti che ciascuna organizzazione o ciascun apparentamento designa; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                determina, tenendo conto dei criteri di cui al comma 6, a quale organizzazione sindacale o associazione dei consumatori, o loro raggruppamento, spetta designare il componente in consiglio; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                notifica tali determinazioni a tutte le organizzazioni imprenditoriali e sindacali e associazioni di consumatori che hanno effettuato validamente la trasmissione della documentazione di cui agli articoli 2, 3 e 4; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                richiede al Presidente della consulta di cui all'articolo 8 il nominativo designato in seno al consiglio della camera di commercio.
+
+2.
+                    
+                        
+                            Il grado di rappresentativita' di ciascuna organizzazione imprenditoriale, nell'ambito del settore, e' definito dalla media aritmetica dei seguenti parametri: 
+ 
+                        
+                        
+                            a)
+                            
+                                percentuale del numero delle imprese iscritte all'organizzazione imprenditoriale, rispetto al totale delle imprese iscritte alle organizzazioni imprenditoriali dello stesso settore, che hanno effettuato validamente la trasmissione della documentazione; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                percentuale del numero degli occupati nelle imprese iscritte all'organizzazione imprenditoriale, rispetto al totale degli occupati nelle imprese iscritte alle organizzazioni imprenditoriali dello stesso settore che hanno effettuato validamente la trasmissione della documentazione; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                percentuale del valore aggiunto relativo agli occupati delle imprese iscritte all'organizzazione imprenditoriale, rispetto al valore aggiunto totale relativo agli occupati delle imprese iscritte alle organizzazioni imprenditoriali dello stesso settore, che hanno effettuato validamente la trasmissione della documentazione; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                percentuale del diritto annuale versato dalle imprese aderenti all'organizzazione imprenditoriale, rispetto al totale del diritto annuale versato dalle imprese aderenti alle organizzazioni imprenditoriali dello stesso settore economico, che hanno effettuato validamente la trasmissione della documentazione.
 
 Il numero dei componenti il consiglio che ciascuna organizzazione imprenditoriale o gruppo di organizzazioni designa e' determinato, tenuto conto dei posti previsti nello statuto camerale per ciascun settore economico, dividendo il grado di rappresentativita' di ciascuna organizzazione imprenditoriale o gruppo di organizzazioni per 1, 2, 3, 4 ed oltre, sino alla concorrenza del numero dei seggi disponibili per il relativo settore economico e disponendo i quozienti cosi' ottenuti in una graduatoria decrescente, in un numero pari a quello dei seggi da attribuire. A ciascuna organizzazione imprenditoriale spetta designare un numero di componenti il consiglio pari ai quozienti ad essa riferibili, compresi nella graduatoria. A parita' di quoziente, nelle cifre intere, qualora risulti attribuibile un solo seggio, questo e' attribuito all'organizzazione imprenditoriale che ha il livello di rappresentativita' piu' alto per organizzazione, diffusione e attivita' svolta sul territorio.
 

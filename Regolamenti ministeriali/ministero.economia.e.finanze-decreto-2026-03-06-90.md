@@ -7,8 +7,8 @@ urn: urn:nir:ministero.economia.e.finanze:decreto:2026-03-06;90
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:42Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -45,6 +45,80 @@ La Consulta prevista dall'articolo 14, comma 3, del decreto legislativo 25 marzo
  e durata della Consulta
 
 La Consulta e' presieduta da un dirigente di prima fascia dei ruoli del Ministero dell'economia e delle finanze ed e' composta da ulteriori 14 membri, designati dalle amministrazioni e dalle associazioni di cui al comma 2, secondo le procedure previste dai rispettivi ordinamenti.
+
+2.
+                    
+                        
+                            La Consulta e' composta, oltre che dal Presidente, dai seguenti 14 componenti: 
+ 
+                        
+                        
+                            a)
+                            
+                                un rappresentante del Ministro della salute; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                due rappresentanti designati dall'Agenzia delle dogane e dei monopoli; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                un rappresentante designato dalla Guardia di Finanza; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                un rappresentante dell'autorita' politica delegata dal Presidente del Consiglio dei ministri per l'esercizio delle funzioni in materia di politiche giovanili; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                tre rappresentanti designati dalla Conferenza delle Regioni e delle Province Autonome, di cui uno per ciascuna area geografica nord, centro e sud; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                un rappresentante designato dall'Associazione nazionale comuni italiani (ANCI); 
+
+                            
+                        
+                        
+                            g)
+                            
+                                un rappresentante designato dal Consiglio Nazionale dei Consumatori e degli Utenti (CNCU), scelto tra i titolari degli organi delle associazioni dei consumatori e degli utenti rappresentative a livello nazionale, presenti nell'elenco di cui all'articolo 137 del decreto legislativo 6 settembre 2005, n. 206, recante «Codice del consumo, a norma dell'articolo 7 della legge 29 luglio 2003, n. 229», operanti nel settore del gioco d'azzardo; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                un rappresentante designato dall'Osservatorio nazionale permanente sull'andamento del fenomeno delle tossicodipendenze, istituito presso il Dipartimento nazionale per le politiche antidroga della Presidenza del Consiglio dei ministri; 
+
+                            
+                        
+                        
+                            i)
+                            
+                                due rappresentanti designati dalle associazioni maggiormente rappresentative dei concessionari del gioco pubblico; 
+
+                            
+                        
+                        
+                            l)
+                            
+                                un rappresentante designato dalle associazioni di categoria degli esercenti maggiormente rappresentative.
 
 Il Presidente e i componenti sono nominati con decreto del Ministro dell'economia e delle finanze e restano in carica tre anni a decorrere dalla data di adozione del decreto di nomina.
 Nell'eventualita' che il mandato dei singoli componenti cessi anticipatamente rispetto al triennio, il componente subentrante a quello cessato resta in carica soltanto per la residua parte del mandato del componente cessato.

@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Testi Unici
 vigenza_date: 2026-01-01
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:40:00Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -40,6 +40,50 @@ Sono fatte salve le condizioni di maggior favore stabilite da leggi, regolamenti
 
 ## Art. 2. — Definizioni 
  (legge 30 dicembre 1971, n. 1204, articoli 1, comma 1, e 13)
+
+1.
+                        
+                            
+                                Ai fini del presente testo unico: 
+ 
+                            
+                            
+                                a)
+                                
+                                    per "congedo di maternita'" si intende l'astensione obbligatoria dal lavoro della lavoratrice; 
+
+                                
+                            
+                            
+                                a-bis)
+                                
+                                    per "congedo di paternita'" si intende l'astensione dal lavoro del lavoratore, che ne fruisce in via autonoma ai sensi dell'articolo 27-bis del presente decreto;
+                                
+                            
+                            
+                                b)
+                                
+                                    per "congedo di paternita' alternativo" si intende l'astensione dal lavoro del lavoratore, in alternativa al congedo di maternita' nei casi previsti dall'articolo 28 del presente decreto;
+                                
+                            
+                            
+                                c)
+                                
+                                    per "congedo parentale", si intende l'astensione facoltativa della lavoratrice o del lavoratore; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    per "congedo per la malattia del figlio" si intende l'astensione facoltativa dal lavoro della lavoratrice o del lavoratore in dipendenza della malattia stessa; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    per "lavoratrice" o "lavoratore", salvo che non sia altrimenti specificato, si intendono i dipendenti, compresi quelli con contratto di apprendistato, di amministrazioni pubbliche, di privati datori di lavoro nonche' i soci lavoratori di cooperative.
 
 Le indennita' di cui al presente testo unico corrispondono, per le pubbliche amministrazioni, ai trattamenti economici previsti, ai sensi della legislazione vigente, da disposizioni normative e contrattuali. I trattamenti economici non possono essere inferiori alle predette indennita'.
 
@@ -168,6 +212,39 @@ Per quanto non diversamente previsto dal presente Capo, restano ferme le disposi
 
 ## Art. 16. — Divieto di adibire al lavoro le donne 
  (legge 30 dicembre 1971, n. 1204, art. 4, comma 1 e 4)
+
+1.
+                        
+                            
+                                E' vietato adibire al lavoro le donne: 
+ 
+                            
+                            
+                                a)
+                                
+                                    durante i due mesi precedenti la data presunta del parto, salvo quanto previsto all'articolo 20; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    ove il parto avvenga oltre tale data, per il periodo intercorrente tra la data presunta e la data effettiva del parto; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    durante i tre mesi dopo il parto, salvo quanto previsto all'articolo 20; (20) 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    durante i giorni non goduti prima del parto, qualora il parto avvenga in data anticipata rispetto a quella presunta. Tali giorni si aggiungono al periodo di congedo di maternita' dopo il parto, anche qualora la somma dei periodi di cui alle lettere a) e c) superi il limite complessivo di cinque mesi. (33) (35) 
+ ((1.1. In alternativa a quanto disposto dal comma 1, e' riconosciuta alle lavoratrici la facolta' di astenersi dal lavoro esclusivamente dopo l'evento del parto entro i cinque mesi successivi allo stesso, a condizione che il medico specialista del Servizio sanitario nazionale o con esso convenzionato e il medico competente ai fini della prevenzione e tutela della salute nei luoghi di lavoro attestino che tale opzione non arrechi pregiudizio alla salute della gestante e del nascituro)).
 
 Nel caso di interruzione spontanea o terapeutica della gravidanza successiva al 180° giorno dall'inizio della gestazione, nonche' in caso di decesso del bambino alla nascita o durante il congedo di maternita', le lavoratrici hanno facolta' di riprendere in qualunque momento l'attivita' lavorativa, con un preavviso di dieci giorni al datore di lavoro, a condizione che il medico specialista del Servizio sanitario nazionale o con esso convenzionato e il medico competente ai fini della prevenzione e tutela della salute nei luoghi di lavoro attestino che tale opzione non arrechi pregiudizio alla loro salute.
 
@@ -310,6 +387,31 @@ Al suddetto importo va aggiunto il rateo giornaliero relativo alla gratifica nat
 Concorrono a formare la retribuzione gli stessi elementi che vengono considerati agli effetti della determinazione delle prestazioni dell'assicurazione obbligatoria per le indennita' economiche di malattia.
 
 Per retribuzione media globale giornaliera si intende l'importo che si ottiene dividendo per trenta l'importo totale della retribuzione del mese precedente a quello nel corso del quale ha avuto inizio il congedo. Qualora le lavoratrici non abbiano svolto l'intero periodo lavorativo mensile per sospensione del rapporto di lavoro con diritto alla conservazione del posto per interruzione del rapporto stesso o per recente assunzione si applica quanto previsto al comma 5, lettera c).
+
+5.
+                        
+                            
+                                Nei confronti delle operaie dei settori non agricoli, per retribuzione media globale giornaliera s'intende:
+ 
+                            
+                            
+                                a)
+                                
+                                    nei casi in cui, o per contratto di lavoro o per la effettuazione di ore di lavoro straordinario, l'orario medio effettivamente praticato superi le otto ore giornaliere, l'importo che si ottiene dividendo l'ammontare complessivo degli emolumenti percepiti nel periodo di paga preso in considerazione per il numero dei giorni lavorati o comunque retribuiti;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    nei casi in cui, o per esigenze organizzative contingenti dell'azienda o per particolari ragioni di carattere personale della lavoratrice, l'orario medio effettivamente praticato risulti inferiore a quello previsto dal contratto di lavoro della categoria, l'importo che si ottiene dividendo l'ammontare complessivo degli emolumenti percepiti nel periodo di paga preso in considerazione per il numero delle ore di lavoro effettuato e moltiplicando il quoziente ottenuto per il numero delle ore giornaliere di lavoro previste dal contratto stesso. Nei casi in cui i contratti di lavoro prevedano, nell'ambito di una settimana, un orario di lavoro identico per i primi cinque giorni della settimana e un orario ridotto per il sesto giorno, l'orario giornaliero e' quello che si ottiene dividendo per sei il numero complessivo delle ore settimanali contrattualmente stabilite;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    in tutti gli altri casi, l'importo che si ottiene dividendo l'ammontare complessivo degli emolumenti percepiti nel periodo di paga preso in considerazione per il numero di giorni lavorati, o comunque retribuiti, risultanti dal periodo stesso.
 
 ## Art. 24. — Prolungamento del diritto alla corresponsione del trattamento economico 
 (legge 30 dicembre 1971, n. 1204, art. 17; decreto-legge 20 maggio 1993, n. 148, convertito dalla legge 19 luglio 1993, n. 236, art. 6, comma 3)
@@ -474,6 +576,31 @@ Il rifiuto, l'opposizione o l'ostacolo all'esercizio dei diritti di assenza dal 
 ## Art. 32. — Congedo parentale 
 (legge 30 dicembre 1971, n. 1204, articoli 1, comma 4, e 7, commi 1, 2 e 3)
 
+1.
+                        
+                            
+                                Per ogni bambino, nei primi suoi ((quattordici)) anni di vita, ciascun genitore ha diritto di astenersi dal lavoro secondo le modalita' stabilite dal presente articolo. I relativi congedi parentali dei genitori non possono complessivamente eccedere il limite di dieci mesi, fattosalvo il disposto del comma 2 del presente articolo. Nell'ambito del predetto limite, il diritto di astenersi dal lavoro compete: (33) (35) 
+ 
+                            
+                            
+                                a)
+                                
+                                    alla madre lavoratrice, trascorso il periodo di congedo di maternita' di cui al Capo III, per un periodo continuativo o frazionato non superiore a sei mesi; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    al padre lavoratore, dalla nascita del figlio, per un periodo continuativo o frazionato non superiore a sei mesi, elevabile a sette nel caso di cui al comma 2; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    per un periodo continuativo o frazionato non superiore a undici mesi, qualora vi sia un solo genitore ovvero un genitore nei confronti del quale sia stato disposto, ai sensi dell'articolo 337-quater del Codice civile, l'affidamento esclusivo del figlio. In quest'ultimo caso, l'altro genitore perde il diritto al congedo non ancora utilizzato. A tal fine copia del provvedimento di affidamento e' trasmessa, a cura del pubblico ministero, all'INPS.
+
 La contrattazione collettiva di settore stabilisce le modalita' di fruizione del congedo di cui al comma 1 su base oraria, nonche' i criteri di calcolo della base oraria e l'equiparazione di un determinato monte ore alla singola giornata lavorativa. Per il personale del comparto sicurezza e difesa di quello dei vigili del fuoco e soccorso pubblico, la disciplina collettiva prevede, altresi', al fine di tenere conto delle peculiari esigenze di funzionalita' connesse all'espletamento dei relativi servizi istituzionali, specifiche e diverse modalita' di fruizione e di differimento del congedo.
 
 In caso di mancata regolamentazione, da parte della contrattazione collettiva, anche di livello aziendale, delle modalita' di fruizione del congedo parentale su base oraria, ciascun genitore puo' scegliere tra la fruizione giornaliera e quella oraria.
@@ -624,6 +751,38 @@ I periodi di riposo sono di mezz'ora ciascuno quando la lavoratrice fruisca dell
 
 ## Art. 40. — Riposi giornalieri del padre
  (legge 9 dicembre 1977, n. 903, art. 6-ter)
+
+1.
+                        
+                            
+                                I periodi di riposo di cui all'articolo 39 sono riconosciuti al padre lavoratore:
+ 
+                            
+                            
+                                a)
+                                
+                                    nel caso in cui i figli siano affidati al solo padre;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    in alternativa alla madre lavoratrice dipendente che non se ne avvalga;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    nel caso in cui la madre non sia lavoratrice dipendente;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    in caso di morte o di grave infermita' della madre.
 
 ## Art. 41. — Riposi per parti plurimi
  (legge 30 dicembre 1971, n. 1204, art. 10, comma 6)
@@ -802,6 +961,31 @@ Il rifiuto, l'opposizione o l'ostacolo all'esercizio dei diritti di assenza dal 
 
 E' vietato adibire le donne al lavoro, dalle ore 24 alle ore 6, dall'accertamento dello stato di gravidanza fino al compimento di un anno di eta' del bambino.
 
+2.
+                        
+                            
+                                Non sono obbligati a prestare lavoro notturno: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la lavoratrice madre di un figlio di eta' inferiore a tre anni o, in alternativa, il lavoratore padre convivente con la stessa; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la lavoratrice o il lavoratore che sia l'unico genitore affidatario di un figlio convivente di eta' inferiore a dodici anni; 
+
+                                
+                            
+                            
+                                b-bis)
+                                
+                                    la lavoratrice madre adottiva o affidataria di un minore, nei primi tre anni dall'ingresso del minore in famiglia, e comunque non oltre il dodicesimo anno di eta' o, in alternativa ed alle stesse condizioni, il lavoratore padre adottivo o affidatario convivente con la stessa.
+
 Ai sensi dell'articolo 5, comma 2, lettera c), della legge 9 dicembre 1977, n. 903, non sono altresi' obbligati a prestare lavoro notturno la lavoratrice o il lavoratore che abbia a proprio carico un soggetto disabile ai sensi della legge 5 febbraio 1992, n. 104, e successive modificazioni.
 
 ((3-bis. Ferma restando le sanzioni di cui all'articolo 18-bis del decreto legislativo 8 aprile 2003, n. 66, l'inosservanza delle disposizioni di cui ai precedenti commi 1, 2 e 3, ove rilevata nei due anni antecedenti alla richiesta della certificazione della parita' di genere di cui all'articolo 46-bis del decreto legislativo 11 aprile 2006, n. 198, o di analoghe certificazioni previste dalle regioni e dalle province autonome nei rispettivi ordinamenti, impedisce al datore di lavoro il conseguimento delle stesse certificazioni))
@@ -818,6 +1002,35 @@ Ai sensi dell'articolo 5, comma 2, lettera c), della legge 9 dicembre 1977, n. 9
 Le lavoratrici non possono essere licenziate dall'inizio del periodo di gravidanza fino al termine dei periodi di interdizione dal lavoro previsti dal Capo III, nonche' fino al compimento di un anno di eta' del bambino.
 
 Il divieto di licenziamento opera in connessione con lo stato oggettivo di gravidanza, e la lavoratrice, licenziata nel corso del periodo in cui opera il divieto, e' tenuta a presentare al datore di lavoro idonea certificazione dalla quale risulti l'esistenza all'epoca del licenziamento, delle condizioni che lo vietavano.
+
+3.
+                        
+                            
+                                Il divieto di licenziamento non si applica nel caso: 
+
+                            
+                            
+                                a)
+                                
+                                    di colpa grave da parte della lavoratrice, costituente giusta causa per la risoluzione del rapporto di lavoro; 
+                                
+                            
+                            
+                                b)
+                                
+                                    di cessazione dell'attivita' dell'azienda cui essa e' addetta; 
+                                
+                            
+                            
+                                c)
+                                
+                                    di ultimazione della prestazione per la quale la lavoratrice e' stata assunta o di risoluzione del rapporto di lavoro per la scadenza del termine; 
+                                
+                            
+                            
+                                d)
+                                
+                                    di esito negativo della prova; resta fermo il divieto di discriminazione di cui all'articolo 4 della legge 10 aprile 1991, n. 125, e successive modificazioni.
 
 Durante il periodo nel quale opera il divieto di licenziamento, la lavoratrice non puo' essere sospesa dal lavoro, salvo il caso che sia sospesa l'attivita' dell'azienda o del reparto cui essa e' addetta, sempreche' il reparto stesso abbia autonomia funzionale. La lavoratrice non puo' altresi' essere collocata in mobilita' a seguito di licenziamento collettivo ai sensi della legge 23 luglio 1991, n. 223, e successive modificazioni, salva l'ipotesi di collocamento in mobilita' a seguito della cessazione dell'attivita' dell'azienda di cui al comma 3, lettera b).
 
@@ -1202,6 +1415,31 @@ Per i procedimenti di concessione dell'assegno di maternita' relativi ai figli n
 (legge 23 dicembre 1999, n. 488, art. 49, commi 8, 9, 11, 12, 13, 14; 
  legge 23 dicembre 2000, n. 388, art. 80, comma 10)
 
+1.
+                        
+                            
+                                Alle donne residenti, cittadine italiane o comunitarie((o familiari titolari della carta di soggiorno di cui agli articoli 10 e 17 del decreto legislativo 6 febbraio 2007, n. 30, o titolari di permesso di soggiorno ed equiparate alle cittadine italiane ai sensi dell'articolo 41, comma 1-ter, del testo unico di cui al decreto legislativo 25 luglio 1998, n. 286, ovvero titolari di permesso di soggiorno UE per soggiornanti di lungo periodo)), per le quali sono in atto o sono stati versati contributi per la tutela previdenziale obbligatoria della maternita', e' corrisposto, per ogni figlio nato, o per ogni minore in affidamento preadottivo o in adozione senza affidamento dal 2 luglio 2000, un assegno di importo complessivo pari a lire 3 milioni, per l'intero nel caso in cui non beneficiano dell'indennita' di cui agli articoli 22, 66 e 70 del presente testo unico, ovvero per la quota differenziale rispetto alla prestazione complessiva in godimento se questa risulta inferiore, quando si verifica uno dei seguenti casi: 
+ 
+                            
+                            
+                                a)
+                                
+                                    quando la donna lavoratrice ha in corso di godimento una qualsiasi forma di tutela previdenziale o economica della maternita' e possa far valere almeno tre mesi di contribuzione nel periodo che va dai diciotto ai nove mesi antecedenti alla nascita o all'effettivo ingresso del minore nel nucleo familiare; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    qualora il periodo intercorrente tra la data della perdita del diritto a prestazioni previdenziali o assistenziali derivanti dallo svolgimento, per almeno tre mesi, di attivita' lavorativa, cosi' come individuate con i decreti di cui al comma 5, e la data della nascita o dell'effettivo ingresso del minore nel nucleo familiare, non sia superiore a quello del godimento di tali prestazioni, e comunque non sia superiore a nove mesi. Con i medesimi decreti e' altresi' definita la data di inizio del predetto periodo nei casi in cui questa non risulti esattamente individuabile; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    in caso di recesso, anche volontario, dal rapporto di lavoro durante il periodo di gravidanza, qualora la donna possa far valere tre mesi di contribuzione nel periodo che va dai diciotto ai nove mesi antecedenti alla nascita.
+
 Ai trattamenti di maternita' corrispondono anche i trattamenti economici di maternita' corrisposti da datori di lavoro non tenuti al versamento dei contributi di maternita'.
 
 L'assegno di cui al comma 1 e' concesso ed erogato dall'INPS, a domanda dell'interessata, da presentare in carta semplice nel termine perentorio di sei mesi dalla nascita o dall'effettivo ingresso del minore nel nucleo familiare.
@@ -1247,6 +1485,45 @@ L'importo della quota di cui al comma 1 e' rivalutato al 1 gennaio di ogni anno,
 
 ## Art. 79. — Oneri contributivi nel lavoro subordinato privato
  (legge 30 dicembre 1971, n. 1204, art. 21)
+
+1.
+                        
+                            
+                                Per la copertura degli oneri derivanti dalle disposizioni di cui al presente testo unico relativi alle lavoratrici e ai lavoratori con rapporto di lavoro subordinato privato e in attuazione della riduzione degli oneri di cui all'articolo 78, e' dovuto dai datori di lavoro un contributo sulle retribuzioni di tutti i lavoratori dipendenti nelle seguenti misure:
+ 
+                            
+                            
+                                a)
+                                
+                                    dello 0,46 per cento sulla retribuzione per il settore dell'industria, ((del credito, dell'assicurazione,)) dell'artigianato, marittimi, spettacolo; ((12))
+                                    
+                                
+                            
+                            
+                                b)
+                                
+                                    dello 0,24 per cento sulla retribuzione per il settore del terziario e servizi, proprietari di fabbricati e servizi di culto;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    dello 0,13 per cento sulla retribuzione per il settore ((dei)) servizi tributari appaltati; ((12))
+                                    
+                                
+                            
+                            
+                                d)
+                                
+                                    dello 0,03 per cento per gli operai agricoli e dello 0,43 per cento per gli impiegati agricoli. Il contributo e' calcolato, per gli operai a tempo indeterminato secondo le disposizioni di cui al decreto-legge 22 dicembre 1981, n. 791, convertito dalla legge 26 febbraio 1982, n. 54, per gli operai agricoli a tempo determinato secondo le disposizioni del decreto legislativo 16 aprile 1997, n. 146; e per i piccoli coloni e compartecipanti familiari prendendo a riferimento i salari medi convenzionali di cui all'articolo 28 del decreto del Presidente della Repubblica 27 aprile 1968, n. 488;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    dello 0,01 per cento per gli allievi dei cantieri scuola e lavoro di cui alla legge 6 agosto 1975, n. 418.
 
 Per gli apprendisti e' dovuto un contributo di lire 32 settimanali.
 
@@ -1310,10 +1587,494 @@ Per i soggetti che non risultano iscritti ad altre forme obbligatorie, il contri
 
 ## Art. 85. — Disposizioni in vigore
 
+1.
+                        
+                            
+                                Restano in vigore, in particolare, le seguenti disposizioni legislative, fatte salve le disapplicazioni disposte dai contratti collettivi ai sensi dell'articolo 72, comma 1, del decreto legislativo 3 febbraio 1993, n. 29: 
+
+                            
+                            
+                                a)
+                                
+                                    l'articolo 41 del decreto del Presidente della Repubblica 10 gennaio 1957, n. 3; 
+                                
+                            
+                            
+                                b)
+                                
+                                    l'articolo 157-sexies del decreto del Presidente della Repubblica 5 gennaio 1967, n. 18, come sostituito dall'articolo 1 del decreto legislativo 7 aprile 2000, n. 103; 
+                                
+                            
+                            
+                                c)
+                                
+                                    l'articolo 3 della legge 8 agosto 1972, n. 457; 
+                                
+                            
+                            
+                                d)
+                                
+                                    l'articolo 10 della legge 18 maggio 1973, n. 304; 
+                                
+                            
+                            
+                                e)
+                                
+                                    la lettera c) del comma 2 dell'articolo 5 della legge 9 dicembre 1977, n. 903; 
+                                
+                            
+                            
+                                f)
+                                
+                                    l'articolo 74 della legge 23 dicembre 1978, n. 833; 
+                                
+                            
+                            
+                                g)
+                                
+                                    l'articolo 1 del decreto-legge 30 dicembre 1979, n. 663, convertito, con modificazioni, dalla legge 29 febbraio 1980, n. 33; 
+                                
+                            
+                            
+                                h)
+                                
+                                    il comma 2 dell'articolo 54 della legge 1 aprile 1981, n. 121; 
+                                
+                            
+                            
+                                i)
+                                
+                                    l'articolo 12 della legge 23 aprile 1981, n. 155; 
+                                
+                            
+                            
+                                j)
+                                
+                                    l'articolo 8-bis del decreto-legge 30 aprile 1981, n. 168, convertito, con modificazioni, dalla legge 27 giugno 1981, n. 331;
+
+                                
+                            
+                            
+                                k)
+                                
+                                    l'articolo 14 del decreto-legge 22 dicembre 1981, n. 791, convertito, con modificazioni, dalla legge 26 febbraio 1982, n. 54; 
+                                
+                            
+                            
+                                l)
+                                
+                                    l'articolo 7 della legge 26 aprile 1985, n. 162; 
+                                
+                            
+                            
+                                m)
+                                
+                                    
+                                        ((LETTERA SOPPRESSA DAL D.LGS. 15 GIUGNO 2015, N. 80)); 
+                                
+                            
+                            
+                                n)
+                                
+                                    il comma 1-bis dell'articolo 3 del decreto-legge 22 gennaio 1990, n. 6, convertito, con modificazioni, dalla legge 24 marzo 1990, n. 58; 
+                                
+                            
+                            
+                                o)
+                                
+                                    il comma 8 dell'articolo 7 della legge 23 luglio 1991, n. 223; 
+                                
+                            
+                            
+                                p)
+                                
+                                    il comma 2 dell'articolo 7, il comma 2 dell'articolo 18 e il comma 2 dell'articolo 27 del decreto legislativo 30 ottobre 1992, n. 443; 
+                                
+                            
+                            
+                                q)
+                                
+                                    il comma 4 dell'articolo 2 del decreto legislativo 12 maggio 1995, n. 197; 
+                                
+                            
+                            
+                                r)
+                                
+                                    il comma 2, seconda parte, dell'articolo 5 del decreto legislativo 12 maggio 1995, n. 201; 
+                                
+                            
+                            
+                                s)
+                                
+                                    il comma 40 dell'articolo 1 della legge 8 agosto 1995, n. 335; 
+                                
+                            
+                            
+                                t)
+                                
+                                    gli articoli 5, 7 e 8 del decreto legislativo 16 settembre 1996, n. 564; 
+                                
+                            
+                            
+                                u)
+                                
+                                    l'articolo 23 della legge 4 marzo 1997, n. 62; 
+                                
+                            
+                            
+                                v)
+                                
+                                    il comma 16 dell'articolo 59 della legge 27 dicembre 1991, n. 449; 
+                                
+                            
+                            
+                                w)
+                                
+                                    il comma 2 dell'articolo 2 del decreto-legge 20 gennaio 1998, n. 4, convertito, con modificazioni, dalla legge 20 marzo 1998, n. 52; 
+                                
+                            
+                            
+                                x)
+                                
+                                    il comma 1 dell'articolo 25 e il comma 3 dell'articolo 34 e il comma 3 dell'articolo 35 del decreto legislativo 25 luglio 1998, n. 286; 
+                                
+                            
+                            
+                                y)
+                                
+                                    la lettera a) del comma 5 dell'articolo 1 del decreto legislativo 29 aprile 1998, n. 124; 
+                                
+                            
+                            
+                                z)
+                                
+                                    
+                                        ((LETTERA SOPPRESSA DAL D.LGS. 15 GIUGNO 2015, N. 80)); 
+                                
+                            
+                            
+                                aa)
+                                
+                                    la lettera e) del comma 2, dell'articolo 1 del decreto legislativo 22 giugno 1999, n. 230; 
+                                
+                            
+                            
+                                bb)
+                                
+                                    l'articolo 65 della legge 2 agosto 1999, n. 302; 
+                                
+                            
+                            
+                                cc)
+                                
+                                    il comma 1 dell'articolo 41 della legge 23 dicembre 1999, n. 488; 
+                                
+                            
+                            
+                                dd)
+                                
+                                    i commi 2 e 3 dell'articolo 12 della legge 8 marzo 2000, n. 53, limitatamente alla previsione del termine di sei mesi ivi previsto: 
+                                
+                            
+                            
+                                ee)
+                                
+                                    il comma 2 dell'articolo 10 e il comma 2 dell'articolo 23 del decreto legislativo 21 maggio 2000, n. 146; 
+                                
+                            
+                            
+                                ff)
+                                
+                                    gli articoli 5 e 18, il comma 3 dell'articolo 25, il comma 3 dell'articolo 32, il comma 6 dell'articolo 41 e il comma 3 dell'articolo 47 del decreto legislativo 5 ottobre 2000, n. 334; 
+                                
+                            
+                            
+                                gg)
+                                
+                                    il comma 12 dell'articolo 80 della legge 23 dicembre 2000, n. 388.
+
+2.
+                        
+                            
+                                Restano in vigore, in particolare, le seguenti disposizioni regolamentari: 
+
+                            
+                            
+                                a)
+                                
+                                    il decreto del Presidente della Repubblica 31 dicembre 1971, n. 1403; 
+                                
+                            
+                            
+                                b)
+                                
+                                    il decreto del Presidente della Repubblica 25 novembre 1976, n. 1026, ad eccezione degli articoli 1, 11 e 21; 
+                                
+                            
+                            
+                                c)
+                                
+                                    il comma 4 dell'articolo 58 del decreto del Presidente della Repubblica 11 luglio 1980, n. 382; 
+                                
+                            
+                            
+                                d)
+                                
+                                    il comma 2, dell'articolo 20-quinquies e il comma 2 dell'articolo 25-quater del decreto del Presidente della Repubblica 24 aprile 1982, n. 337; 
+                                
+                            
+                            
+                                e)
+                                
+                                    il decreto del Ministro del lavoro e della previdenza sociale 2 giugno 1982; 
+                                
+                            
+                            
+                                f)
+                                
+                                    il decreto del Ministro del lavoro e della previdenza sociale 23 maggio 1991; 
+                                
+                            
+                            
+                                g)
+                                
+                                    l'articolo 14 del decreto del Presidente del Consiglio dei Ministri 21 aprile 1994, n. 439, fino al momento della sua abrogazione cosi' come prevista dalla lettera c) del comma 1 dell'articolo 10 del decreto legislativo 30 luglio 1999, n. 287;
+                                
+                            
+                            
+                                h)
+                                
+                                    il decreto del Ministro della sanita' 10 settembre 1998;
+                                
+                            
+                            
+                                i)
+                                
+                                    il comma 4 dell'articolo 8 e il comma 3 dell'articolo 19 del decreto del Presidente della Repubblica 4 dicembre 1997, n. 465; 
+                                
+                            
+                            
+                                j)
+                                
+                                    il comma 2 dell'articolo 7 del decreto del Ministro del lavoro e della previdenza sociale 25 marzo 1998, n. 142; 
+                                
+                            
+                            
+                                k)
+                                
+                                    il decreto del Ministro del lavoro e delle politiche sociali 4 aprile 2002; 
+                                
+                            
+                            
+                                l)
+                                
+                                    il comma 1 dell'articolo 1 del decreto del Ministro della sanita' 10 settembre 1998; 
+                                
+                            
+                            
+                                m)
+                                
+                                    gli articoli 1 e 3 del decreto del Ministro del lavoro e della previdenza sociale 12 febbraio 1999; 
+                                
+                            
+                            
+                                n)
+                                
+                                    il comma 2 dell'articolo 6 del decreto del Ministro dell'universita' e della ricerca scientifica 30 aprile 1999, n. 224; 
+                                
+                            
+                            
+                                o)
+                                
+                                    il decreto del Ministro del lavoro e della previdenza sociale 4 agosto 1999; 
+                                
+                            
+                            
+                                p)
+                                
+                                    il comma 6 dell'articolo 42 del decreto del Presidente della Repubblica 31 agosto 1999, n. 394; 
+                                
+                            
+                            
+                                q)
+                                
+                                    il decreto del Ministro del lavoro e della previdenza sociale 20 dicembre 1999, n. 553; 
+                                
+                            
+                            
+                                r)
+                                
+                                    il decreto del Ministro della sanita' 24 aprile 2000; 
+                                
+                            
+                            
+                                r-bis)
+                                
+                                    il decreto del Ministro per la solidarieta' sociale 21 dicembre 2000, n. 452, e successive modificazioni.
+
 ## Art. 86. — Disposizioni abrogate
  (legge 9 dicembre 1977, n. 903, articolo 3, comma 2;
  legge 29 dicembre 1987, n. 546, articolo 9; legge 8
  marzo 2000, n. 53, articoli 15 e 17, comma 4)
+
+1.
+                        
+                            
+                                Restano abrogate le seguenti disposizioni:
+
+                            
+                            
+                                a)
+                                
+                                    gli articoli 18 e 19 della legge 26 aprile 1934, n. 653;
+                                
+                            
+                            
+                                b)
+                                
+                                    la legge 26 agosto 1950, n. 860.
+
+2.
+                        
+                            
+                                Dalla data di entrata in vigore del presente testo unico, sono abrogate, in particolare, le seguenti disposizioni legislative:
+
+                            
+                            
+                                a)
+                                
+                                    la legge 30 dicembre 1971, n. 1204 e successive modificazioni;
+                                
+                            
+                            
+                                b)
+                                
+                                    il secondo comma dell'articolo 3; i commi 1 e 2, lettere a) e b), dell'articolo 5; gli articoli 6, 6-bis, 6-ter e 8 della legge 9 dicembre 1977, n. 903;
+                                
+                            
+                            
+                                c)
+                                
+                                    la lettera n) del comma 3 dell'articolo 31 e l'articolo 39-quater della legge 4 maggio 1983, n. 184, nonche' le parole "e gli articoli 6 e 7 della legge 9 dicembre 1977, n. 903, si applicano anche agli affidatari di cui al comma precedente" del secondo comma dell'articolo 80 della legge 4 maggio 1983, n. 184;
+                                
+                            
+                            
+                                d)
+                                
+                                    il comma 4 dell'articolo 31 della legge 28 febbraio 1986, n. 41;
+                                
+                            
+                            
+                                e)
+                                
+                                    la legge 29 dicembre 1987, n. 546;
+                                
+                            
+                            
+                                f)
+                                
+                                    l'articolo 13 della legge 7 agosto 1990, n. 232, cosi' come modificato dall'articolo 3 del decreto-legge 6 maggio 1994, n. 271, convertito, con modificazioni, dalla legge 6 luglio 1994, n. 433;
+                                
+                            
+                            
+                                g)
+                                
+                                    la legge 11 dicembre 1990, n. 379;
+                                
+                            
+                            
+                                h)
+                                
+                                    l'articolo 8 del decreto-legge 29 marzo 1991, n. 103, convertito, con modificazioni, dalla legge 1 giugno 1991, n. 166;
+                                
+                            
+                            
+                                i)
+                                
+                                    il comma 1 dell'articolo 33 della legge 5 febbraio 1992, n. 104;
+                                
+                            
+                            
+                                j)
+                                
+                                    i commi 1 e 3 dell'articolo 14 del decreto legislativo 30 dicembre 1992, n. 503;
+                                
+                            
+                            
+                                k)
+                                
+                                    i commi 3, 4 e 5 dell'articolo 6 del decreto-legge 20 maggio 1993, n. 148, convertito, con modificazioni, dalla legge 19 luglio 1993, n. 236;
+                                
+                            
+                            
+                                l)
+                                
+                                    il comma 2 dell'articolo 2 del decreto legislativo 9 settembre 1994, n. 566;
+                                
+                            
+                            
+                                m)
+                                
+                                    l'articolo 69 del decreto legislativo 17 marzo 1995, n. 230;
+                                
+                            
+                            
+                                n)
+                                
+                                    l'articolo 2 del decreto legislativo 16 settembre 1996, n. 564;
+                                
+                            
+                            
+                                o)
+                                
+                                    il decreto legislativo 25 novembre 1996, n. 645;
+                                
+                            
+                            
+                                p)
+                                
+                                    il comma 15 dell'articolo 8 del decreto legislativo 1 dicembre 1997, n. 468;
+                                
+                            
+                            
+                                q)
+                                
+                                    l'articolo 66 della legge 23 dicembre 1998, n. 448, cosi' come modificato dagli articoli 50 e 63 della legge 17 maggio 1999, n. 144;
+                                
+                            
+                            
+                                r)
+                                
+                                    i commi 1, 8, 9, 10, 11, 12, 13 e 14 dell'articolo 49 della legge 23 dicembre 1999, n. 488;
+                                
+                            
+                            
+                                s)
+                                
+                                    i commi 2 e 3 dell'articolo 4 e i commi 2 e 3 dell'articolo 5 del decreto legislativo 31 gennaio 2000, n. 24;
+                                
+                            
+                            
+                                t)
+                                
+                                    il comma 5 dell'articolo 3, il comma 4-bis dell'articolo 4 e l'articolo 10 e i commi 2 e 3 dell'articolo 12, salvo quanto previsto dalla lettera dd) dell'articolo 85 del presente testo unico, ((e l'articolo 14)) della legge 8 marzo 2000, n. 53;
+                                
+                            
+                            
+                                u)
+                                
+                                    i commi 10 e 11 dell'articolo 80 della legge 23 dicembre 2000, n. 388.
+
+3.
+                        
+                            
+                                Dalla data di entrata in vigore del presente testo unico, sono abrogate le seguenti disposizioni regolamentari:
+
+                            
+                            
+                                a)
+                                
+                                    gli articoli 1, 11 e 21 del decreto del Presidente della Repubblica 25 novembre 1976, n. 1026.
 
 ((
 

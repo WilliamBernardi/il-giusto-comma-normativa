@@ -8,8 +8,8 @@ codice_redazionale: 001G0289
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti governativi
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:10Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -48,6 +48,94 @@ La libera pratica senza visita sanitaria a bordo e' concessa previa valutazione 
 La richiesta di concessione della libera pratica deve essere inoltrata all'interno dell'arco di tempo compreso tra l'arrivo e le dodici ore antecedenti l'arrivo della nave e deve pervenire non meno di quattro ore prima dell'arrivo stesso.
 
 Nel caso in cui il tempo di navigazione sia inferiore alle dodici ore, la richiesta di concessione della libera pratica avanzata dal Comando di bordo deve essere inoltrata subito dopo la partenza della nave e deve comunque pervenire non meno di novanta minuti prima dell'arrivo stesso.
+
+5.
+                    
+                        
+                            Il messaggio di richiesta deve contenere i seguenti dati:
+ 
+                        
+                        
+                            a)
+                            
+                                il nome della nave e del suo Agente raccomandatario marittimo;
+
+                            
+                        
+                        
+                            b)
+                            
+                                la data e l'orario di partenza;
+
+                            
+                        
+                        
+                            c)
+                            
+                                la data e l'orario previsto di arrivo;
+
+                            
+                        
+                        
+                            d)
+                            
+                                il porto capolinea;
+
+                            
+                        
+                        
+                            e)
+                            
+                                l'ultimo porto di scalo;
+
+                            
+                        
+                        
+                            f)
+                            
+                                la situazione sanitaria di bordo dal momento della partenza al momento della richiesta di concessione della libera pratica, con particolare riferimento a fatti che possano riguardare la tutela della salute pubblica e la profilassi delle malattie infettive;
+
+                            
+                        
+                        
+                            g)
+                            
+                                l'eventuale numero e causa dei decessi intervernuti durante il viaggio;
+
+                            
+                        
+                        
+                            h)
+                            
+                                la presenza o meno a bordo del medico;
+
+                            
+                        
+                        
+                            i)
+                            
+                                il numero dei membri dell'equipaggio;
+
+                            
+                        
+                        
+                            l)
+                            
+                                il numero totale dei passeggeri;
+
+                            
+                        
+                        
+                            m)
+                            
+                                il numero dei passeggeri sbarcanti;
+
+                            
+                        
+                        
+                            n)
+                            
+                                le generalita' del Comandante della nave ed eventuale firma.
 
 I messaggi devono essere compilati, in chiaro, in lingua italiana, inglese o francese.
 

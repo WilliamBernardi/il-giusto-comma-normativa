@@ -10,7 +10,7 @@ source: normattiva-opendata
 collection: Atti di recepimento direttive UE
 vigenza_date: 2021-07-31
 zip_date: 2026-07-30
-fetched_at: 2026-08-02T09:40:49Z
+fetched_at: 2026-07-30
 ---
 
 DECRETO LEGISLATIVO
@@ -95,6 +95,45 @@ In caso di violazione degli obblighi previsti in attuazione del presente comma, 
  Nel regolamento sono definite le modalita' di attuazione del presente comma e la relativa disciplina transitoria.”.
 
 ## Art. 4. — Modifiche alla legge 2 ottobre 1967, n. 895
+
+1.
+                    
+                        
+                            Alla legge 2 ottobre 1967, n. 895, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                all'articolo 1, primo comma, le parole: “la multa da euro 413 a euro 2.065” sono sostituite dalle seguenti: “la multa da 10.000 euro a 50.000 euro”; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                all'articolo 2, primo comma, le parole: “la multa da euro 206 a euro 1549” sono sostituite dalle seguenti: “la multa da 3.000 euro a 20.000 euro”; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                all'articolo 3, primo comma, le parole: “ e con la multa da euro 206 a euro 1549“ sono sostituite dalle seguenti: “e con la multa da 3.000 euro a 20.000 euro”; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                all'articolo 4, primo comma, le parole: “ e con la multa da euro 206 a euro 2065“ sono sostituite dalle seguenti: “e con la multa da 4.000 euro a 40.000 euro”; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                all'articolo 5, primo comma, primo periodo, dopo le parole: “ qualita' delle armi“ sono inserite le seguenti: “e delle loro parti”.
 
 ## Art. 5. — Modifiche alla legge 18 aprile 1975, n. 110
 

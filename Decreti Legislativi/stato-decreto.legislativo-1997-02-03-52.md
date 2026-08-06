@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
 vigenza_date: 2008-10-03
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:22Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -36,13 +36,221 @@ Il presente decreto disciplina, relativamente alle sostanze di cui all'articolo 
 
 ))
 
+2.
+                        
+                            
+                                Le norme del presente decreto non si applicano alle sostanze ed ai preparati seguenti che, allo stato finito, sono destinati all'utilizzatore finale:
+
+                            
+                            
+                                a)
+                                
+                                    specialita' medicinali ad uso umano o ad uso veterinario;
+                                
+                            
+                            
+                                b)
+                                
+                                    prodotti cosmetici;
+                                
+                            
+                            
+                                c)
+                                
+                                    miscele di sostanze in forma di rifiuti;
+                                
+                            
+                            
+                                d)
+                                
+                                    prodotti alimentari;
+                                
+                            
+                            
+                                e)
+                                
+                                    alimenti per animali;
+                                
+                            
+                            
+                                f)
+                                
+                                    antiparassitari;
+                                
+                            
+                            
+                                g)
+                                
+                                    sostanze radioattive;
+                                
+                            
+                            
+                                h)
+                                
+                                    altre sostanze o preparati per i quali esistono procedure comunitarie di notifica o di approvazione sulla base di requisiti equivalenti a quelli stabiliti dal presente decreto. PRIODO SOPPRESSO DAL D.LGS. 25 FEBBRAIO 1998, N. 90.
+
+3.
+                        
+                            
+                                Il presente decreto non si applica altresi':
+
+                            
+                            
+                                a)
+                                
+                                    al trasporto delle sostanze e preparati pericolosi per ferrovia, su strada, per via fluviale, marittima o aerea;
+                                
+                            
+                            
+                                b)
+                                
+                                    alle sostanze e preparati in transito soggetti a controllo doganale quando non siano oggetto di trattamento o trasformazione.
+
 Le norme del presente decreto si applicano, limitatamente alle operazioni di cui al comma 1, lettera c), anche in caso di passaggio delle sostanze pericolose da una ad altra unita' produttiva della stessa impresa, ferma restando l'applicazione delle ulteriori prescrizioni, per l'utilizzazione di dette sostanze e preparati da parte dei lavoratori subordinati che il Ministro del lavoro e della previdenza sociale, con proprio decreto, sentita la Commissione consultiva permanente per la prevenzione degli infortuni e l'igiene del lavoro, puo' stabilire ai sensi del decreto legislativo 19 settembre 1994, n. 626, e successive modificazioni.
 
 ## Art. 2. — Definizioni
 
 ((
 
+1.
+                        
+                            
+                                Ai fini del presente decreto si intende per:
+ 
+                            
+                            
+                                a)
+                                
+                                    sostanze: gli elementi chimici ed i loro composti, allo stato naturale o ottenuti mediante qualsiasi procedimento di produzione, compresi gli additivi necessari per mantenere la stabilita' dei prodotti e le impurezze derivati dal procedimento impiegato, ma esclusi i solventi che possono essere eliminati senza incidere sulla stabilita' delle sostanze e senza modificare la loro composizione;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    preparati: le miscele o le soluzioni costituite da due o piu' sostanze;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    immissione sul mercato: la messa a disposizione di terzi e, in ogni caso, l'importazione nel territorio doganale dell'Unione europea;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    EINECS (Inventario europeo delle sostanze commerciali esistenti) l'inventario europeo delle sostanze commerciali esistenti sul mercato comunitario alla data del 18 settembre 1981;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    ELINCS (Elenco europeo delle nuove sostanze chimiche) lista europea delle sostanze immesse sul mercato comunitario dopo il 18 settembre 1981.
+
 ))
+
+2.
+                        
+                            
+                                Ai sensi del presente decreto sono considerati pericolosi le sostanze ed i preparati
+
+                            
+                            
+                                a)
+                                
+                                    esplosivi: le sostanze ed i preparati solidi, liquidi, pastosi o gelatinosi che, anche senza l'azione dell'ossigeno atmosferico, possono provocare una reazione esotermica con rapida formazione di gas e che, in determinate condizioni di prova, detonano, deflagrano rapidamente o esplodono in seguito a riscaldamento in condizione di parziale contenimento;
+                                
+                            
+                            
+                                b)
+                                
+                                    comburenti: le sostanze ed i preparati che a contatto con altre sostanze, soprattutto se infiammabili, provocano una forte reazione esotermica;
+                                
+                            
+                            
+                                c)
+                                
+                                    estremamente infiammabili: le sostanze ed i preparati liquidi con i punto di infiammabilita' estremamente basso ed un punto di ebollizione basso e le sostanze ed i preparati gassosi che a temperatura e pressione ambiente si infiammano a contatto con l'aria;
+                                
+                            
+                            
+                                d)
+                                
+                                    facilmente infiammabili:
+ 1) le sostanze ed i preparati che, a contatto con l'aria, a temperatura ambiente e senza apporto di energia, possono subire innalzamenti termici e da ultimo infiammarsi;
+ 2) le sostanze ed i preparati solidi che possono facilmente infiammarsi dopo un breve contatto con una sorgente di accensione e che continuano a bruciare o a consumarsi anche topo il distacco della sorgente di accensione;
+ 3) le sostanze ed i preparati liquidi il cui punto d'infiammabilita' e' molto basso;
+ 4) le sostanze ed i preparati che, a contatto con l'acqua o l'aria umida, sprigionano gas estremamente infiammabili in quantita' pericolose;
+                                
+                            
+                            
+                                e)
+                                
+                                    infiammabili: le sostanze ed i preparati liquidi con un basso punto di infiammabilita';
+                                
+                            
+                            
+                                f)
+                                
+                                    molto tossici: le sostanze ed i preparati che, in caso di inalazione, ingestione o assorbimento cutaneo, in piccolissime quantita', possono essere letali oppure provocare lesioni acute o croniche;
+                                
+                            
+                            
+                                g)
+                                
+                                    tossici: le sostanze ed i preparati che, in caso di inalazione, ingestione o assorbimento cutaneo, in piccole quantita', possono essere letali oppure provocare lesioni acute o croniche;
+                                
+                            
+                            
+                                h)
+                                
+                                    nocivi: le sostanze ed i preparati che, in caso di inalazione, ingestione o assorbimento cutaneo, possono essere letali oppure provocare lesioni acute o croniche;
+                                
+                            
+                            
+                                i)
+                                
+                                    corrosivi: le sostanze ed i preparati che, a contatto con i tessuti vivi, possono esercitare su di essi un'azione distruttiva;
+                                
+                            
+                            
+                                l)
+                                
+                                    irritanti: le sostanze ed i preparati non corrosivi, il cui contatto diretto, prolungato o ripetuto con la pelle o le mucose puo' provocare una reazione infiammatoria;
+                                
+                            
+                            
+                                m)
+                                
+                                    sensibilizzanti: le sostanze ed i preparati che, per inalazione o assorbimento cutaneo, possono dar luogo ad una reazione di ipersensibilizzazione per cui una successiva esposizione alla sostanza o al preparato produce reazioni avverse caratteristiche;
+                                
+                            
+                            
+                                n)
+                                
+                                    cancerogeni: le sostanze ed i preparati che, per inalazione, ingestione o assorbimento cutaneo, possono provocare il cancro o aumentarne la frequenza;
+                                
+                            
+                            
+                                o)
+                                
+                                    mutageni: le sostanze ed i preparati che, per inalazione, ingestione o assorbimento cutaneo, possono produrre difetti genetici ereditari o aumentarne la frequenza;
+                                
+                            
+                            
+                                p)
+                                
+                                    tossici per il ciclo riproduttivo: le sostanze ed i preparati che, per inalazione, ingestione o assorbimento cutaneo, possono provocare o rendere piu' frequenti effetti nocivi non ereditari nella prole o danni a carico della funzione o delle capacita riproduttive maschili o femminili;
+                                
+                            
+                            
+                                q)
+                                
+                                    pericolosi per l'ambiente: le sostanze ed i preparati che qualora si diffondano nell'ambiente, presentano o possono presentare rischi immediati differiti per una o piu' delle componenti ambientali.
 
 ## - Capo II SOSTANZE PERICOLOSE
 
@@ -132,9 +340,102 @@ Il Ministero della sanita' cura la pubblicazione nella Gazzetta Ufficiale della 
 
 ## Art. 19. — Imballaggio
 
+1.
+                        
+                            
+                                L'imballaggio delle sostanze pericolose deve soddisfare le seguenti condizioni:
+ 
+                            
+                            
+                                a)
+                                
+                                    l'imballaggio deve essere progettato e realizzato in modo tale da impedire qualsiasi fuoriuscita del contenuto, fermo restando l'obbligo di osservare le disposizioni che prescrivono speciali dispositivi di sicurezza;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    i materiali che costituiscono l'imballaggio e la chiusura non devono essere suscettibili di deteriorarsi a causa del contenuto, ne' poter formare con questo composti pericolosi;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    tutte le parti dell'imballaggio e della chiusura devono essere solide e robuste, in modo da escludere qualsiasi allentamento e sopportare in maniera affidabile le normali sollecitazioni della manipolazione;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    il recipiente munito di un sistema di chiusura che puo' essere riapplicato deve essere progettato in modo che l'imballaggio possa essere richiuso ripetutamente senza fuoriuscita del contenuto;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    qualsiasi recipiente, di qualsiasi capacita', che contenga sostanze vendute o disponibili al dettaglio e sia etichettato come "molto tossico", o "tossico" o "corrosivo" ai sensi del presente decreto, deve essere dotato di una chiusura di sicurezza per la protezione dei bambini e recare un'indicazione di pericolo avvertibile al tatto;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    qualsiasi recipiente, di qualsiasi capacita', che contenga sostanze vendute o disponibili al dettaglio e sia etichettato come "nocivo", "estremamente infiammabile" o "facilmente infiammabile" ai sensi del presente decreto deve recare un'indicazione di pericolo avvertibile al tatto.
+
 Le specifiche tecniche relative ai dispositivi ed ai sistemi di sicurezza di cui al comma 1, lettere e) e f), sono indicate nell'allegato IX.
 
 ## Art. 20. — Etichettatura
+
+1.
+                        
+                            
+                                L'etichettatura delle sostanze pericolose deve recare in caratteri leggibili e indelebili:
+
+                            
+                            
+                                a)
+                                
+                                    la denominazione della sostanza conforme a una delle denominazioni riportate nell'allegato I. Se la sostanza non figura nell'allegato I, la denominazione deve basarsi su una nomenclatura internazionalmente riconosciuta;
+                                
+                            
+                            
+                                b)
+                                
+                                    il nome e l'indirizzo completo nonche' il numero di telefono del responsabile dell'immissione sul mercato stabilito all'interno dell'Unione europea, che puo' essere il fabbricante, l'importatore o il distributore;
+                                
+                            
+                            
+                                c)
+                                
+                                    i simboli di pericolo, se previsti, e l'indicazione di pericolo che comporta l'impiego della sostanza. I simboli e le indicazioni di pericolo devono essere conformi all'allegato II ed essere stampati in nero su fondo giallo-arancione. I simboli e le indicazioni di pericolo da usare per ciascuna sostanza sono quelli riportati nell'allegato I. Alle sostanze pericolose non ancora contenute nell'allegato I, i simboli e le indicazioni di pericolo sono assegnati in base alle norme dell'allegato VI. Quando ad una sostanza sono assegnati piu' simboli, salvo disposizioni contrarie riportate in allegato I, l'obbligo di apporre il simbolo T rende facoltativi i simboli X e C, l'obbligo di apporre il simbolo C rende facoltativo il simbolo X, l'obbligo di apporre il simbolo E rende facoltativi i simboli F e O;
+                                
+                            
+                            
+                                d)
+                                
+                                    le frasi tipo relative ai rischi specifici derivanti dai pericoli dell'uso della sostanza, dette "frasi R". Esse devono essere formulate secondo le modalita' dell'allegato III. Per le sostanze pericolose contenute nell'allegato I debbono essere adottate le "frasi R" in esso indicate, mentre per le sostanze pericolose non ancora contenute nel suddetto allegato I le "frasi R" da usare sono assegnate in base alle norme dell'allegato VI;
+                                
+                            
+                            
+                                e)
+                                
+                                    le frasi tipo concernenti consigli di prudenza relativi all'uso della sostanza, dette "frasi S". Esse devono essere formulate secondo le modalita' dell'allegato IV. Per le sostanze pericolose contenute nell'allegato I debbono essere adottate le "frasi S" in esso indicate, mentre per le sostanze pericolose non ancora contenute nel suddetto allegato I, le "frasi S" da usare sono assegnate in base alle norme dell'allegato VI;
+                                
+                            
+                            
+                                f)
+                                
+                                    il numero CE, se assegnato, desunto dall'EINECS o dall'elenco di cui all'articolo 18;
+                                
+                            
+                            
+                                g)
+                                
+                                    l'indicazione "Etichetta CE" per le sostanze contenute nell'allegato I.
 
 Per le sostanze irritanti, facilmente infiammabili, infiammabili o comburenti, non e' necessaria l'indicazione delle rel- ative "frasi R" e "frasi S" se il contenuto dell'imballaggio non supera i 125 millimetri. Lo stesso vale per le sostanze nocive che, in imballaggi di pari contenuto, non sono vendute al consumatore.
 
@@ -151,6 +452,24 @@ Il colore e la presentazione dell'etichetta o dell'imballaggio, nel caso di cui 
 Le informazioni da apporre sull'etichetta, conformemente all'articolo 20, devono risaltare sullo sfondo e la loro dimensione e spaziatura devono essere sufficienti per consentire un'agevole lettura. Il Ministro della sanita', di concerto con il Ministro dell'industria, del commercio e dell'artigianato e con il Ministro dell'ambiente stabilisce, in conformita' alla normativa comunitaria, le disposizioni specifiche riguardanti la presentazione ed il formato delle informazioni di cui al presente comma.
 
 Le indicazioni di cui all'articolo 20 devono essere in lingua italiana; qualora siano redatte in piu' lingue, quelle in lingua italiana non devono essere di caratteri inferiori a quelli delle altre lingue.
+
+6.
+                        
+                            
+                                I requisiti di etichettatura previsti dal presente decreto si considerano soddisfatti:
+ 
+                            
+                            
+                                a)
+                                
+                                    se si tratta di imballaggi esterni che racchiudono uno o piu' imballaggi interni, quando l'imballaggio esterno e' provvisto di un'etichettatura conforme ai regolamenti internazionali relativi al trasporto delle merci pericolose e l'imballaggio o gli imballaggi interni sono provvisti di un'etichettatura conforme al presente decreto;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    se si tratta di un imballaggio unico, quando l'imballaggio e' provvisto di un'etichettatura conforme ai regolamenti internazionali relativi al trasporto delle merci pericolose ed all'articolo 20, comma 1, lettere a), b), d), e) ed f) e, per tipi particolari di imballaggio, quali le bombole mobili per i gas, conforme alle disposizioni dell'allegato VI.
 
 ## Art. 22. — Deroghe alle norme di etichettatura e di imballaggio
 
@@ -182,11 +501,110 @@ E' vietata la pubblicita' delle sostanze che appartengono ad una o piu' delle ca
 
 ## Art. 26. — Commissione consultiva
 
+1.
+                        
+                            
+                                Presso il Ministero della sanita' e' istituita una commissione consultiva composta dai seguenti membri o dai loro sostituti:
+ 
+                            
+                            
+                                a)
+                                
+                                    il dirigente generale del dipartimento prevenzione del Ministero della sanita' che la presiede;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    un rappresentante del Ministero della sanita' esperto di problematiche concernenti la classificazione, l'Imballaggio e l'etichettatura di sostanze pericolose;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    un rappresentante dell'unita' di notifica;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    due rappresentanti del Ministero dell'industria, del commercio e dell'artigianato, di cui uno esperto di problematiche di produzione industriale ed uno esperto di problematiche di tutela dei consumatori;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    due rappresentanti del Ministero dell'interno, di cui uno esperto di problematiche di pubblica sicurezza ed uno di problematiche di protezione civile e sicurezza antincendi;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    un rappresentante del Ministero del lavoro e della previdenza sociale esperto di problematiche inerenti la sicurezza nell'ambiente di lavoro;
+
+                                
+                            
+                            
+                                g)
+                                
+                                    due rappresentanti del Ministero dell'ambiente, di cui uno esperto in problematiche sui rischi per l'ambiente ed uno esperto di problematiche sulla tutela del suolo;
+
+                                
+                            
+                            
+                                h)
+                                
+                                    un rappresentante del Ministero dell'universita' e della ricerca scientifica e tecnologica esperto di problematiche connesse con la ricerca scientifica;
+
+                                
+                            
+                            
+                                i)
+                                
+                                    un rappresentante del Ministero delle risorse agricole, alimentari e forestali esperto in problematiche di produzione agricola.
+
 Per lo svolgimento dei lavori, la commissione puo' organizzarsi in sottogruppi ed avvalersi dell'opera di enti o di istituti pubblici di ricerca e di esperti secondo la legislazione vigente.
 
 Le funzioni di segreteria sono svolte a cura del Ministero della sanita'.
 
 I componenti la commissione durano in carica quattro anni e possono essere riconfermati.
+
+5.
+                        
+                            
+                                La commissione consultiva:
+ 
+                            
+                            
+                                a)
+                                
+                                    esprime pareri su problematiche inerenti le sostanze ed i preparati pericolosi nonche' su quelle in discussione in sede comunitaria ed internazionale;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    esprime pareri sulle eventuali richieste specifiche sottopostele dall'unita' di notifica;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    esprime pareri sulle richieste specifiche sottopostele dal Ministero della sanita' anche a seguito di richieste avanzate dai notificanti in relazione alle decisioni assunte dall'unita' di notifica;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    promuove, ove lo ritenga necessario, la richiesta del parere del Consiglio superiore di sanita', della Commissione consultiva tossicologica nazionale o di altro ente o istituto di ricerca pubblico.
 
 Con regolamento interno, da emanarsi con decreto del Ministro della sanita' entro tre mesi dalla data di pubblicazione del presente decreto, sono disciplinate le modalita' procedurali ed organizzative della commissione.
 

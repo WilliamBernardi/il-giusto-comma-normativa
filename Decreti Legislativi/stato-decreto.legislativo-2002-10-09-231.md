@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
 vigenza_date: 2020-01-01
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:29Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -43,6 +43,60 @@ b) pagamenti effettuati a titolo di risarcimento del danno, compresi i pagamenti
 
 ## Art. 2. — (Definizioni).
 
+1.
+                    
+                        
+                            Ai fini del presente decreto si intende per: 
+ 
+                        
+                        
+                            a)
+                            
+                                "transazioni commerciali": i contratti, comunque denominati, tra imprese ovvero tra imprese e pubbliche amministrazioni, che comportano, in via esclusiva o prevalente, la consegna di merci o la prestazione di servizi contro il pagamento di un prezzo; ((3))
+                                
+                            
+                        
+                        
+                            b)
+                            
+                                "pubblica amministrazione": le amministrazioni di cui all'articolo 3, comma 25, del decreto legislativo 12 aprile 2006, n. 163, e ogni altro soggetto, allorquando svolga attivita' per la quale e' tenuto al rispetto della disciplina di cui al decreto legislativo 12 aprile 2006, n. 163; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                "imprenditore": ogni soggetto esercente un'attivita' economica organizzata o una libera professione; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                "interessi moratori": interessi legali di mora ovvero interessi ad un tasso concordato tra imprese; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                "interessi legali di mora": interessi semplici di mora su base giornaliera ad un tasso che e' pari al tasso di riferimento maggiorato di otto punti percentuali; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                "tasso di riferimento": il tasso di interesse applicato dalla Banca centrale europea alle sue piu' recenti operazioni di rifinanziamento principali; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                "importo dovuto": la somma che avrebbe dovuto essere pagata entro il termine contrattuale o legale di pagamento, comprese le imposte, i dazi, le tasse o gli oneri applicabili indicati nella fattura o nella richiesta equivalente di pagamento. 
+ (2)
+
 -------------
                         AGGIORNAMENTO (2)
                         
@@ -65,9 +119,59 @@ Il creditore ha diritto alla corresponsione degli interessi moratori ((sull'impo
 
 Gli interessi moratori decorrono, senza che sia necessaria la costituzione in mora, dal giorno successivo alla scadenza del termine per il pagamento.
 
+2.
+                    
+                        
+                            Salvo quanto previsto dai commi 3, 4 e 5, il periodo di pagamento non puo' superare i seguenti termini: 
+ 
+                        
+                        
+                            a)
+                            
+                                trenta giorni dalla data di ricevimento da parte del debitore della fattura o di una richiesta di pagamento di contenuto equivalente. Non hanno effetto sulla decorrenza del termine le richieste di integrazione o modifica formali della fattura o di altra richiesta equivalente di pagamento; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                trenta giorni dalla data di ricevimento delle merci o dalla data di prestazione dei servizi, quando non e' certa la data di ricevimento della fattura o della richiesta equivalente di pagamento; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                trenta giorni dalla data di ricevimento delle merci o dalla prestazione dei servizi, quando la data in cui il debitore riceve la fattura o la richiesta equivalente di pagamento e' anteriore a quella del ricevimento delle merci o della prestazione dei servizi; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                trenta giorni dalla data dell'accettazione o della verifica eventualmente previste dalla legge o dal contratto ai fini dell'accertamento della conformita' della merce o dei servizi alle previsioni contrattuali, qualora il debitore riceva la fattura o la richiesta equivalente di pagamento in epoca non successiva a tale data.
+
 Nelle transazioni commerciali tra imprese le parti possono pattuire un termine per il pagamento superiore rispetto a quello previsto dal comma 2. Termini superiori a sessanta giorni, purche' non siano gravemente iniqui per il creditore ai sensi dell'articolo 7, devono essere pattuiti espressamente. La clausola relativa al termine deve essere provata per iscritto.
 
 Nelle transazioni commerciali in cui il debitore e' una pubblica amministrazione le parti possono pattuire, purche' in modo espresso, un termine per il pagamento superiore a quello previsto dal comma 2, quando cio' sia oggettivamente giustificato dalla natura particolare del contratto o da talune sue caratteristiche. In ogni caso i termini di cui al comma 2 non possono essere superiori a sessanta giorni. La clausola relativa al termine deve essere provata per iscritto.
+
+5.
+                    
+                        
+                            I termini di cui al comma 2 sono raddoppiati: 
+ 
+                        
+                        
+                            a)
+                            
+                                per le imprese pubbliche che sono tenute al rispetto dei requisiti di trasparenza di cui al decreto legislativo 11 novembre 2003, n. 333; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                per gli enti pubblici che forniscono assistenza sanitaria e che siano stati debitamente riconosciuti a tale fine.
 
 Quando e' prevista una procedura diretta ad accertare la conformita' della merce o dei servizi al contratto essa non puo' avere una durata superiore a trenta giorni dalla data della consegna della merce o della prestazione del servizio, salvo che sia diversamente ed espressamente concordato dalle parti e previsto nella documentazione di gara e purche' cio' non sia gravemente iniquo per il creditore ai sensi dell'articolo
 
@@ -102,6 +206,24 @@ Le anticipazioni di liquidita' sono rimborsate entro il termine del 30 dicembre 
 ((
 
 Gli interessi moratori sono determinati nella misura degli interessi legali di mora. Nelle transazioni commerciali tra imprese e' consentito alle parti di concordare un tasso di interesse diverso, nei limiti previsti dall'articolo 7.
+
+2.
+                    
+                        
+                            Il tasso di riferimento e' cosi' determinato: 
+ 
+                        
+                        
+                            a)
+                            
+                                per il primo semestre dell'anno cui si riferisce il ritardo, e' quello in vigore il 1° gennaio di quell'anno; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                per il secondo semestre dell'anno cui si riferisce il ritardo, e' quello in vigore il 1° luglio di quell'anno.
 
 3. Il Ministero dell'economia e delle finanze da' notizia del tasso di riferimento, curandone la pubblicazione nella Gazzetta Ufficiale della Repubblica italiana nel quinto giorno lavorativo di ciascun semestre solare.))
 
@@ -183,6 +305,24 @@ In caso di inadempimento degli obblighi stabiliti dal provvedimento reso nel giu
 ## Art. 9. — Modifiche al codice di procedura civile
 
 L'ultimo comma dell'articolo 633 del codice di procedura civile e' abrogato.
+
+2.
+                    
+                        
+                            All'articolo 641 del codice di procedura civile sono apportate le seguenti modifiche:
+ 
+                        
+                        
+                            a)
+                            
+                                nel primo periodo, dopo le parole "decreto motivato", sono aggiunte le seguenti: "da emettere entro trenta giorni dal deposito del ricorso";
+
+                            
+                        
+                        
+                            b)
+                            
+                                il secondo periodo del secondo comma e' cosi' sostituito: "Se l'intimato risiede in uno degli altri Stati dell'Unione europea, il termine e' di cinquanta giorni e puo' essere ridotto fino a venti giorni. Se l'intimato risiede in altri Stati, il termine e' di sessanta giorni e, comunque, non puo' essere inferiore a trenta ne' superiore a centoventi".
 
 All'articolo 648, primo comma, del codice di procedura civile, e' aggiunto, in fine, il seguente periodo: "Il giudice concede l'esecuzione provvisoria parziale del decreto ingiuntivo opposto limitatamente alle somme non contestate, salvo che l'opposizione sia proposta per vizi procedurali".
 

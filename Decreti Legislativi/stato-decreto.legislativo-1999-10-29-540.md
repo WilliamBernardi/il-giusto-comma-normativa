@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
 vigenza_date: 2010-05-31
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:29Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -33,6 +33,59 @@ Fermo restando il numero delle Stazioni Sperimentali, con uno o piu' decreti leg
 
 Le Stazioni Sperimentali per l'industria sono enti pubblici economici e sono sottoposte alla vigilanza del Ministero dell'industria, del commercio e dell'artigianato.
 
+2.
+                    
+                        
+                            In relazione ai settori di competenza, ai sensi delle rispettive leggi istitutive, le Stazioni Sperimentali per l'industria svolgono in particolare: 
+ 
+                        
+                        
+                            a)
+                            
+                                attivita' di ricerca industriale e attivita' di sviluppo precompetitiva; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                attivita' di certificazione di prodotti o di processi produttivi; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                analisi e controlli; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                consulenza alle imprese, alle pubbliche amministrazioni ed enti pubblici; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                attivita' di documentazione, divulgazione, promozione della qualita' e supporto alla formazione negli specifici settori produttivi, anche al fine di consentire la crescita occupazionale qualificata; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                partecipazione all'attivita' di normazione tecnica; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                attivita' ad esse affidate dallo Stato, dalle Regioni, nonche' quelle derivanti da convenzioni internazionali.
+
 Al fine di agevolare lo svolgimento delle proprie attivita', le Stazioni Sperimentali possono costituire tra loro strutture comuni.
 
 Per il raggiungimento dei propri scopi, le Stazioni Sperimentali possono partecipare, secondo le norme del codice civile, con altri soggetti pubblici e privati, ad organismi anche associativi, ad enti, a consorzi, a societa'.
@@ -43,7 +96,63 @@ In considerazione delle peculiarita' organizzative e funzionali delle Stazioni S
 
 Lo Statuto e' deliberato dal Consiglio di Amministrazione della Stazione Sperimentale a maggioranza dei due terzi dei componenti ed e' sottoposto all'approvazione del Ministro dell'industria, del commercio e dell'artigianato.
 
+3.
+                    
+                        
+                            Lo Statuto puo' prevedere l'istituzione dell'Assemblea dei partecipanti con il rispetto dei seguenti criteri: 
+ 
+                        
+                        
+                            a)
+                            
+                                partecipazione all'Assemblea delle imprese su cui gravano i contributi di cui all'articolo 8, comma 2, anche attraverso delega a tal fine conferita alle associazioni imprenditoriali nonche' degli enti ed associazioni pubbliche e private che contribuiscono alla Stazione Sperimentale; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                attribuzione ai partecipanti del voto plurimo in relazione all'ammontare della contribuzione annuale; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                attribuzione all'Assemblea dei compiti relativi: 
+ 1) alla modifica dello statuto; 
+ 2) alla determinazione degli indirizzi dell'attivita'; 
+ 3) al controllo del rispetto degli indirizzi stabiliti; 
+ 4) alla deliberazione dei bilanci; 
+ 5) alla elezione dei due terzi dei componenti il Consiglio di amministrazione in rappresentanza delle imprese contribuenti e di un revisore effettivo ed uno supplente; 
+ 6) alla determinazione degli emolumenti spettanti agli organi della Stazione Sperimentale per l'industria.
+
 ## Art. 4. — Organi delle Stazioni Sperimentali per l'industria
+
+1.
+                    
+                        
+                            Gli organi delle Stazioni Sperimentali per l'industria, fermo restando quanto previsto all'articolo 3, comma 3, sono: 
+ 
+                        
+                        
+                            a)
+                            
+                                il Consiglio di amministrazione; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                il Presidente; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                il Collegio dei revisori contabili.
 
 Il Consiglio di amministrazione ed il Collegio dei revisori contabili sono nominati dal Ministro dell'industria, del commercio e dell'artigianato. Il Presidente e' eletto dal Consiglio di amministrazione tra i propri componenti.
 
@@ -51,7 +160,64 @@ Il Collegio dei revisori contabili si compone di tre membri effettivi ed altrett
 
 Nel caso sia istituita l'Assemblea dei partecipanti, questa provvede alla designazione di un revisore effettivo e di uno supplente in luogo dell'associazione piu' rappresentativa degli industriali dei settori di competenza della Stazione Sperimentale, di intesa con le altre associazioni interessate.
 
+5.
+                    
+                        
+                            Lo Statuto determina: 
+ 
+                        
+                        
+                            a)
+                            
+                                la composizione del Consiglio di amministrazione in numero non superiore a diciotto componenti, nonche' le rappresentanze in seno al Consiglio medesimo, stabilendo in due terzi il numero dei componenti di provenienza imprenditoriale ed in un terzo i componenti in rappresentanza delle Amministrazioni e degli Enti locali; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                le funzioni ed i poteri degli organi della Stazione Sperimentale; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                i criteri di nomina, le cause e le modalita' di scioglimento del Consiglio di amministrazione; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                eventuali criteri di esclusione di particolari tipi di aziende dalla contribuzione obbligatoria.
+
 Lo Statuto puo' prevedere l'istituzione di una Giunta esecutiva e di un Comitato scientifico determinandone la composizione, le competenze e le modalita' di funzionamento.
+
+7.
+                    
+                        
+                            Lo Statuto, infine, puo' prevedere l'emanazione di regolamenti in materia di: 
+ 
+                        
+                        
+                            a)
+                            
+                                nomina del Direttore generale ed eventualmente del Direttore scientifico, fissandone i criteri e le modalita' di scelta; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                personale; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                ogni altro tipo di regolamento interno.
 
 ## Art. 5. — Personale
 
@@ -71,6 +237,45 @@ Il conferimento degli incarichi di cui al comma 1, il relativo svolgimento, i co
 
 ## Art. 8. — Fonti di finanziamento
 
+1.
+                    
+                        
+                            Le Stazioni Sperimentali per l'industria provvedono al finanziamento delle proprie attivita' attraverso: 
+ 
+                        
+                        
+                            a)
+                            
+                                proventi derivanti dalle attivita' di cui all'articolo 2, comma 2, ivi compresi quelli derivanti da convenzioni ed accordi di programma con amministrazioni, enti pubblici e privati, nazionali, comunitari ed internazionali; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                contributi a carico delle imprese ai sensi dell'articolo 23, quarto comma, del regio decreto 31 ottobre 1923, n. 2523, modificato con decreto del Presidente della Repubblica 24 aprile 1948, n. 718; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                rendite del patrimonio; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                lasciti e donazioni; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                eventuali altre entrate.
+
 I criteri di determinazione e la misura dei contributi di cui al comma 1, lettera b), sono deliberati dal Consiglio di amministrazione nel rispetto dei principi di equita' e proporzionalita', previa individuazione delle imprese cui e' preordinata l'attivita' svolta dalla Stazione Sperimentale.
 
 Alla riscossione dei contributi si provvede in conformita' alle norme vigenti.
@@ -82,6 +287,45 @@ Ciascuna Stazione Sperimentale provvede all'autonoma gestione delle spese second
 L'esercizio finanziario ha inizio il 1° gennaio e termina il 31 dicembre di ciascun anno.
 
 ## Art. 10. — Vigilanza
+
+1.
+                    
+                        
+                            Sono soggetti all'approvazione del Ministero dell'industria, del commercio e dell'artigianato i seguenti atti deliberativi: 
+ 
+                        
+                        
+                            a)
+                            
+                                statuto della Stazione Sperimentale ed eventuali modifiche; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                i regolamenti; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                i bilanci; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                la determinazione dei contributi a carico delle imprese; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                partecipazione ad organismi societari.
 
 Le deliberazioni di cui al comma 1 divengono esecutive se, nel termine di sessanta giorni dalla data di ricezione, il Ministro dell'industria, del commercio e dell'artigianato non ne disponga, con provvedimento motivato, l'annullamento per vizi di legittimita', ovvero il rinvio alla Stazione Sperimentale per il riesame.
 

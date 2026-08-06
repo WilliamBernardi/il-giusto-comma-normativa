@@ -7,8 +7,8 @@ urn: urn:nir:stato:decreto.legislativo:2025-12-30;207
 vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:32Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -62,6 +62,71 @@ Sulla proposta del Ministro per gli affari europei, il PNRR e le politiche di co
 
 ## Art. 2. — Modifiche al decreto legislativo 21 maggio 2004, n. 151, recante disposizioni in materia di succhi di frutta ed altri prodotti analoghi destinati all'alimentazione umana
 
+1.
+                    
+                        
+                            Al decreto legislativo 21 maggio 2004, n. 151, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                all'articolo 4: 
+ 1) il comma 1 e' sostituito dal seguente: 
+ «1. Ai prodotti di cui all'articolo 1, comma 1, si applica il regolamento (UE) n. 1169/2011 del Parlamento europeo e del Consiglio del 25 ottobre 2011, relativo alla fornitura di informazioni sugli alimenti ai consumatori.»; 
+ 2) al comma 2, dopo la lettera b) e' inserita la seguente: 
+ «b-bis) fatto salvo l'articolo 22 del regolamento (UE) n. 1169/2011, nel caso di miscugli di succo di frutta da concentrato o succo di frutta da concentrato a tasso ridotto di zuccheri con succo di frutta o con succo di frutta a tasso ridotto di zuccheri, nonche' di nettare di frutta ottenuti interamente o parzialmente a partire da uno o piu' concentrati, nell'etichettatura figura la dicitura "da concentrato/i" o "parzialmente da concentrato/i", a seconda dei casi.
+Questa dicitura figura immediatamente accanto alla denominazione di vendita, bene in evidenza rispetto all'intero contesto e a caratteri chiaramente visibili;»; 
+ 3) il comma 6-bis e' sostituito dal seguente: 
+ «6-bis. La fabbricazione dei prodotti elencati nell'allegato I, parte I, e' consentita esclusivamente mediante l'impiego dei trattamenti e l'utilizzo delle sostanze indicati nell'allegato I, parte II, e delle materie prime conformi all'allegato II. I nettari di frutta devono essere conformi ai criteri specifici previsti nell'allegato IV.»; 
+ 4) dopo il comma 6-bis e' aggiunto il seguente: 
+ «6-ter. Qualora venga utilizzata la dicitura: "i succhi di frutta contengono solo zuccheri naturalmente presenti", questa deve essere riportata nello stesso campo visivo della denominazione di vendita dei prodotti di cui all'allegato I, parte I, punto 1.»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                l'allegato I e' sostituito dall'allegato A al presente decreto; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                l'allegato III e' sostituito dall'allegato B al presente decreto; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                all'allegato IV, parte I, la ventiquattresima riga e' cosi' modificata: 
+ « 
+ 
+ 
+                                
+                                    
+                                        
+                                              Cotogne (Cydonia oblonga L.) 
+                                        
+                                        
+                                              50 
+                                        
+                                    
+                                
+                                
+ 
+ »; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                all'allegato V, dopo la riga: «ribes nero» e prima della riga: «uva», e' inserita la seguente: 
+ «Cocco (*) Cocos nucifera L. 4,5».
+
 ## Art. 3.
 
 Modifiche al decreto legislativo 20 febbraio 2004, n. 50, recante disposizioni in materia di confetture, gelatine e marmellate di frutta, nonche' la crema di marroni, destinate all'alimentazione umana 
@@ -110,6 +175,48 @@ Modifiche al decreto legislativo 20 febbraio 2004, n. 50, recante disposizioni i
  e) l'allegato IV e' sostituito dall'allegato C al presente decreto.
 
 ## Art. 4. — Modifiche al decreto legislativo 8 ottobre 2011, n. 175, recante disposizioni in materia di taluni tipi di latte conservato parzialmente o totalmente disidratato destinato all'alimentazione umana
+
+1.
+                    
+                        
+                            Al decreto legislativo 8 ottobre 2011, n. 175, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                l'articolo 2, e' sostituito dal seguente: 
+ «Art. 2 (Aggiunte e materie prime autorizzate). - 1. Ai prodotti di cui all'allegato I possono essere aggiunte le seguenti materie prime e prodotti: 
+ a) vitamine e minerali conformemente al regolamento (CE) n. 1925/2006 del Parlamento europeo e del Consiglio, del 20 dicembre 2006; 
+ b) ai fini della correzione del tenore proteico del latte, di cui all'articolo 4: 
+ 1) retentato di latte: prodotto ottenuto dalla concentrazione delle proteine del latte mediante ultrafiltrazione del latte, del latte parzialmente scremato o del latte scremato; 
+ 2) permeato di latte: prodotto ottenuto estraendo le proteine e la materia grassa dal latte mediante ultrafiltrazione del latte, del latte parzialmente scremato o del latte scremato; 
+ 3) lattosio: componente naturale del latte, normalmente ottenuto da siero avente un tenore di lattosio anidro non inferiore al 99,0 per cento m/m su sostanza secca; puo' essere anidro o contenere una molecola di acqua di cristallizzazione o essere costituito da un miscuglio di entrambi; 
+ c) enzimi alimentari autorizzati in conformita' del regolamento (CE) n. 1332/2008 del Parlamento europeo e del Consiglio, del 16 dicembre 2008; 
+ d) additivi alimentari autorizzati in conformita' del regolamento (CE) n. 1333/2008 del Parlamento europeo e del Consiglio, del 16 dicembre 2008.»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                all'articolo 3, dopo il comma 2, e' aggiunto il seguente: 
+ «2-bis. E' autorizzato, altresi', il trattamento di riduzione del tenore di lattosio del latte, mediante conversione in glucosio e galattosio. Le modifiche della composizione del latte derivanti da tale trattamento sono ammesse soltanto a condizione che siano indicate sull'imballaggio, in modo chiaramente visibile e leggibile e in caratteri indelebili.»; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                all'articolo 5, il comma 1 e' sostituito dal seguente: 
+ «1. Ai prodotti di cui all'articolo 1 si applica il regolamento (UE) n. 1169/2011 del Parlamento europeo e del Consiglio, del 25 ottobre 2011.»; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                all'allegato II, alla lettera a), le parole: «, contenente, in peso, non meno del 9% di materia grassa e del 31% di estratto secco totale ottenuto dal latte» sono soppresse.
 
 ## Art. 5. — Disposizioni transitorie
 

@@ -8,8 +8,8 @@ codice_redazionale: 098G0358
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:41Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -24,6 +24,42 @@ RICERCA SCIENTIFICA E TECNOLOGICA
 Udito il parere del Consiglio di Stato reso dalla sezione consultiva per gli atti normativi nell'adunanza del 18 maggio 1998;
 
 ## Art. 1.
+
+1.
+                    
+                        
+                            Il programma nazionale di ricerche aerospaziali, di seguito denominato PRORA, di cui alla delibera del CIPE del 20 luglio 1979, come aggiornato ai sensi delpresente articolo e dell'articolo 2, prevede, in aderenza all'evoluzione scientifica, tecnologica ed economica dei settori aeronautico e spaziale e in coerenza con i relativi piani nazionali:
+ 
+                        
+                        
+                            a)
+                            
+                                l'attivita' di ricerca, sperimentazione, produzione e scambio di informazioni, formazione del personale nei settori medesimi, da realizzarsi anche attraverso la partecipazione a programmi di ricerca europei e internazionali;
+
+                            
+                        
+                        
+                            b)
+                            
+                                la realizzazione e gestione di opere ed impianti funzionali alle attivita' di cui alla lettera a).
+
+2.
+                    
+                        
+                            L'attuazione del PRORA resta affidata al Centro italiano ricerche aerospaziali S.p.a., di seguito denominato CIRA, di cui alla delibera CIPE del 20 luglio 1979, la cui sede legale e le cui strutture operative permangono nelle localita' ove hanno luogo alla data di entrata in vigore del presente regolamento. Il mantenimento del predetto affidamento e' subordinato:
+ 
+                        
+                        
+                            a)
+                            
+                                alla modifica della struttura societaria, prevedendo, anche in attuazione dell'articolo 5, comma 6, della legge 7 agosto 1997, n. 266, una prevalente partecipazione dello Stato o di enti pubblici nel capitale sociale e nel consiglio di amministrazione, nonche' all'approvazione da parte del Ministero dell'universita' e della ricerca scientifica e tecnologica di un nuovo statuto della societa', predisposto dal CIRA S.p.a., entro trenta giorni dalla data di entrata in vigore del presente regolamento, secondo criteri di snellimento degli organi sociali e disponendo la nomina, da parte del Ministero del tesoro, del bilancio e della programmazione economica del Presidente del collegio sindacale della societa';
+
+                            
+                        
+                        
+                            b)
+                            
+                                all'approvazione, con decreto del Ministro dell'universita' e della ricerca scientifica e tecnologica, di concerto con il Ministro del tesoro, del bilancio e della programmazione economica, di un aggiornamento del PRORA, sulla base di una proposta definita dai nuovi organi sociali di cui alla lettera a) entro novanta giorni dal loro insediamento, in conformita' al piano spaziale nazionale e tenendo conto delle prospettive del settore aerospaziale europeo.
 
 La realizzazione del PRORA e' sottoposto a valutazione della compatibilita' ambientale ai sensi delle disposizioni vigenti; le opere da esso previste sono dichiarate di pubblica utilita', indifferibili e urgenti. I beni strumentali realizzati dal CIRA con i contributi di cui al presente regolamento fanno parte a tutti gli effetti del patrimonio disponibile dello Stato.
  Avvertenza:

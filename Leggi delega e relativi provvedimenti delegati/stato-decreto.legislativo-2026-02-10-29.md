@@ -7,8 +7,8 @@ urn: urn:nir:stato:decreto.legislativo:2026-02-10;29
 vigente: true
 source: normattiva-opendata
 collection: Leggi delega e relativi provvedimenti delegati
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:41:19Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -36,6 +36,31 @@ Il presente decreto si applica alle batterie che rientrano nell'ambito di applic
 
 ## Art. 2. — Definizioni
 
+1.
+                        
+                            
+                                Ai fini del presente decreto si applicano le definizioni di cui all'articolo 3 del regolamento (UE) 2023/1542, nonche' le seguenti definizioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    «Regolamento»: il regolamento (UE) 2023/1542 del Parlamento europeo e del Consiglio, del 12 luglio 2023, relativo alle batterie e ai rifiuti di batterie, che modifica la direttiva 2008/98/CE e il regolamento (UE) 2019/1020 e abroga la direttiva 2006/66/CE; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    «sistemi di gestione dei produttori»: i sistemi individuali o collettivi istituiti dai produttori per adempiere agli obblighi di responsabilita' estesa derivanti dal presente decreto e dal Regolamento, in conformita' con gli articoli 178-ter e 237 del decreto legislativo 3 aprile 2006, n. 152, nonche' i sistemi collettivi di cui all'articolo 10 del decreto legislativo 14 marzo 2014, n. 49, che gestiscono anche i rifiuti di batterie sulla base delle disposizioni contenute nei relativi statuti; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    «statuto-tipo»: lo schema tipo di statuto, approvato dal Ministero dell'ambiente e della sicurezza energica di concerto con il Ministero delle imprese e del made in Italy secondo quanto disposto dall'articolo 27, comma 13.
+
 ## Art. 3.
 
 Autorita' competenti
@@ -49,6 +74,136 @@ L'autorita' competente designata ai sensi dell'articolo 54, paragrafo 1, del Reg
 Le funzioni di controllo dei prodotti alle frontiere sono svolte dall'Agenzia delle dogane e dei monopoli e dalla Guardia di finanza ai sensi dell'articolo 4 del decreto legislativo n. 157 del 2022.
 
 ## Art. 4. — Tavolo nazionale batterie
+
+1.
+                        
+                            
+                                E' istituito un Tavolo nazionale batterie, con funzioni consultive, composto dai seguenti membri, nonche' dai rispettivi supplenti, nominati con decreto del Ministro dell'ambiente e della sicurezza energetica, sentiti il Ministro delle imprese e del made in Italy, il Ministro della salute, il Ministro delle infrastrutture e dei trasporti e il Ministro dell'interno: 
+ 
+                            
+                            
+                                a)
+                                
+                                    un rappresentante del Ministero dell'ambiente e della sicurezza energetica con funzioni di presidente; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    un rappresentante del Ministero delle imprese e del made in Italy, con funzioni di vicepresidente; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    un rappresentante del Ministero delle infrastrutture e dei trasporti; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    un rappresentante del Ministero della salute; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    un rappresentante del Ministero dell'interno - Dipartimento dei vigili del fuoco, del soccorso pubblico e della difesa civile; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    un rappresentante dell'Istituto superiore per la protezione e la ricerca ambientale (ISPRA); 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    un rappresentante dell'Ente italiano di accreditamento (ACCREDIA); 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    un rappresentante del Centro di coordinamento batterie; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    un rappresentante del Comitato elettrotecnico italiano (CEI); 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    un rappresentante dell'Agenzia delle dogane e dei monopoli; 
+
+                                
+                            
+                            
+                                m)
+                                
+                                    un rappresentante delle regioni e province autonome di Trento e di Bolzano, designato dalla Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome di Trento e di Bolzano; 
+
+                                
+                            
+                            
+                                n)
+                                
+                                    un rappresentante dell'Associazione nazionale comuni italiani (ANCI); 
+
+                                
+                            
+                            
+                                o)
+                                
+                                    due rappresentanti delle associazioni industriali di categoria; 
+
+                                
+                            
+                            
+                                p)
+                                
+                                    due rappresentanti delle associazioni nazionali del commercio; 
+
+                                
+                            
+                            
+                                q)
+                                
+                                    un rappresentante delle associazioni nazionali dell'artigianato; 
+
+                                
+                            
+                            
+                                r)
+                                
+                                    un rappresentante delle organizzazioni cooperative maggiormente rappresentative a livello nazionale; 
+
+                                
+                            
+                            
+                                s)
+                                
+                                    un rappresentante delle associazioni ambientaliste maggiormente rappresentative a livello nazionale; 
+
+                                
+                            
+                            
+                                t)
+                                
+                                    un rappresentante delle associazioni dei consumatori maggiormente rappresentative a livello nazionale.
 
 Il Tavolo di cui al presente articolo puo' organizzarsi in gruppi di lavoro e avvalersi del supporto di esperti provenienti dal settore industriale e da enti di ricerca e universita'.
 
@@ -75,6 +230,52 @@ L'autorita' di notifica nazionale, di cui all'articolo 3, comma 1, del presente 
 ## Art. 7.
 
 Requisiti relativi all'autorita' di notifica
+
+1.
+                        
+                            
+                                Il Ministero delle imprese e del made in Italy, quale autorita' di notifica nonche' l'organismo nazionale di accreditamento, ai fini dell'attivita' di valutazione e controllo, organizzano e gestiscono le relative attivita' nel rispetto delle prescrizioni dell'articolo 23 del Regolamento e dei seguenti criteri: 
+ 
+                            
+                            
+                                a)
+                                
+                                    evitare che sorgano conflitti d'interesse con gli organismi di valutazione della conformita'; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    salvaguardare l'obiettivita' e l'imparzialita' delle attivita'; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    assicurare che ogni decisione relativa alla notifica di un organismo di valutazione della conformita' sia presa da persone competenti diverse da quelle che hanno effettuato la valutazione; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    evitare di offrire ed effettuare attivita' eseguite dagli organismi di valutazione della conformita' o servizi di consulenza commerciali o su base concorrenziale; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    salvaguardare la riservatezza delle informazioni ottenute; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    assegnare a tali attivita' un numero di dipendenti competenti sufficiente per l'adeguata esecuzione dei suoi compiti.
 
 ## Art. 8.
 
@@ -159,6 +360,31 @@ Il Ministero dell'ambiente e della sicurezza energetica e il Ministero delle imp
 
 In attuazione dell'articolo 48, paragrafo 6, del Regolamento, il Ministero dell'ambiente e della sicurezza energetica, sentito il Ministero delle imprese e del made in Italy e le altre amministrazioni interessate, adotta atti di indirizzo relativi a strumenti di supporto tecnico e operativo per gli operatori economici, al fine di favorire il rispetto dei doveri di diligenza di cui al capo VII del Regolamento. Tali strumenti sono aggiornati periodicamente in relazione all'evoluzione normativa e tecnologica.
 
+3.
+                        
+                            
+                                Gli strumenti di cui al comma 2 possono includere: 
+ 
+                            
+                            
+                                a)
+                                
+                                    manuali operativi e linee guida che illustrano le modalita' di attuazione degli obblighi di cui agli articoli da 48 a 52 del Regolamento, tenendo conto della dimensione aziendale e della posizione nella catena di fornitura; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    modelli di procedure e di reportistica differenziati per tipologia e dimensione delle imprese; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    strumenti informatici che favoriscano la tracciabilita' e la trasparenza delle catene di approvvigionamento delle materie prime critiche e dei materiali riciclati.
+
 Gli strumenti predisposti ai sensi del presente articolo non introducono nuovi obblighi per gli operatori economici, ma hanno carattere orientativo e di supporto. Essi sono pubblicati sul sito internet istituzionale del Ministero dell'ambiente e della sicurezza energetica e resi accessibili gratuitamente.
 
 Le autorita' di vigilanza tengono conto, in sede di valutazione della conformita' agli obblighi in materia di dovere di diligenza, dell'adozione da parte degli operatori economici delle buone pratiche contenute negli strumenti di cui al presente articolo, quale elemento idoneo a dimostrare l'adeguatezza delle misure adottate in rapporto alla dimensione e alla capacita' organizzativa dell'impresa.
@@ -175,7 +401,43 @@ Al fine di dare attuazione a quanto previsto dall'articolo 85 del Regolamento, e
 
 ## Art. 19. — Obiettivi di raccolta
 
+1.
+                        
+                            
+                                I produttori di batterie oppure, in caso di adempimento in forma collettiva, i sistemi collettivi di gestione, avvalendosi del Centro di coordinamento batterie, conseguono, e continuano a conseguire durevolmente, almeno i seguenti obiettivi di raccolta per i rifiuti di batterie portatili: 
+ 
+                            
+                            
+                                a)
+                                
+                                    63 per cento entro il 31 dicembre 2027; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    73 per cento entro il 31 dicembre 2030.
+
 Il tasso di raccolta per i rifiuti di batterie portatili e' calcolato annualmente dal Centro di coordinamento batterie conformemente all'allegato XI al Regolamento.
+
+3.
+                        
+                            
+                                I produttori delle batterie per mezzi di trasporto leggeri oppure, in caso di adempimento in forma collettiva, i sistemi collettivi di gestione, avvalendosi del Centro di coordinamento batterie, conseguono, e continuano a conseguire nel tempo, almeno i seguenti obiettivi di raccolta dei rifiuti di batterie per mezzi di trasporto leggeri: 
+ 
+                            
+                            
+                                a)
+                                
+                                    51 per cento entro il 31 dicembre 2028; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    61 per cento entro il 31 dicembre 2031.
 
 Il tasso di raccolta per i rifiuti di batterie per mezzi di trasporto leggeri e' calcolato annualmente dal Centro di coordinamento batterie conformemente all'allegato XI al Regolamento.
 
@@ -253,6 +515,136 @@ Il Centro di coordinamento nazionale pile e accumulatori, istituito ai sensi del
 
 Il Centro di coordinamento batterie ottimizza, uniformando le relative modalita' e condizioni, la raccolta, il ritiro e la gestione dei rifiuti di batterie in modo omogeneo su tutto il territorio nazionale da parte dei sistemi collettivi e individuali per il conferimento agli impianti di trattamento, cernita e selezione, assegnando a tali sistemi di gestione i punti di raccolta delle batterie sul territorio in conformita' con gli accordi previsti dal presente decreto.
 
+2.
+                        
+                            
+                                In particolare, il Centro di coordinamento batterie ha il compito di: 
+ 
+                            
+                            
+                                a)
+                                
+                                    definire modalita' omogenee di ritiro dei rifiuti di batterie su tutto il territorio nazionale da parte dei sistemi individuali e collettivi, nel rispetto del principio di concorrenza e non discriminazione, al fine di incrementare la raccolta dei rifiuti di batterie e di conseguire gli obiettivi di raccolta differenziata stabiliti dal Regolamento; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    fornire, se richiesto, all'autorita' competente di cui all'articolo 3, comma 3, elementi tecnici e proposte per la definizione delle modalita' di determinazione della garanzia finanziaria di cui all'articolo 58, paragrafo 7, del Regolamento; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    supportare il Comitato di vigilanza e controllo nella definizione di criteri oggettivi di quantificazione delle quote di mercato dei produttori, promuovendo a tal fine studi da parte di istituti scientifici e di ricerca; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    raccogliere e rendicontare annualmente all'ISPRA i dati relativi alla raccolta e al trattamento delle batterie sulla base delle informazioni acquisite dai produttori, distributori, impianti di trattamento e soggetti gestori, e gli altri dati previsti dall'articolo 76, paragrafo 1, del Regolamento entro il 30 aprile di ogni anno; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    stipulare specifici accordi con le associazioni di categoria dei soggetti recuperatori, al fine di assicurare adeguati e omogenei livelli di trattamento e qualificazione delle aziende di settore; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    assicurare il monitoraggio dei flussi di rifiuti di batterie distinti per batterie portatili, batterie per mezzi di trasporto leggeri, batterie per autoveicoli e batterie per veicoli elettrici; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    fornire il supporto, ove richiesto, nel corretto trasferimento delle informazioni di cui all'articolo 74 del Regolamento fornite dai produttori agli impianti di preparazione per il riutilizzo, trattamento e riciclaggio; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    promuovere campagne di sensibilizzazione, in linea con l'articolo 74, paragrafo 6, del Regolamento, per incoraggiare gli utilizzatori finali a disfarsi dei rifiuti di batterie, anche tramite gli accordi di cui al comma 3 del presente articolo; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    definire i criteri minimi per la procedura di selezione dei gestori di rifiuti di cui all'articolo 57, paragrafo 8, del Regolamento; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    collaborare con l'Organismo di vigilanza dei consorzi e dei sistemi autonomi per la gestione dei rifiuti, degli imballaggi e dei rifiuti di imballaggi di cui all'articolo 206-bis del decreto legislativo 3 aprile 2006, n. 152, anche ai fini dell'articolo 57, paragrafo 3, del Regolamento; 
+
+                                
+                            
+                            
+                                m)
+                                
+                                    adottare le opportune misure atte al conseguimento degli obiettivi di raccolta di cui all'articolo 59 e all'articolo 60 del Regolamento e, in caso di mancato raggiungimento degli stessi, adottare misure correttive nei confronti dei sistemi di gestione collettivi e individuali; 
+
+                                
+                            
+                            
+                                n)
+                                
+                                    eseguire controlli periodici, con cadenza almeno annuale, sui tassi di raccolta dei produttori e/o dei sistemi collettivi per verificare che tali soggetti abbiano adottato misure adeguate a contribuire al raggiungimento degli obiettivi di raccolta di cui alla lettera m); 
+
+                                
+                            
+                            
+                                o)
+                                
+                                    disporre gli opportuni controlli, anche di concerto con il Comitato di vigilanza e controllo di cui all'articolo 24 e le competenti Camere di commercio, anche sulla base delle informazioni riportate nel Registro di cui all'articolo 20, per individuare i soggetti che operano nel mercato delle batterie senza avere aderito al Centro di coordinamento batterie e/o essere iscritti al Registro di cui all'articolo 20 o che contravvengono in altro modo alle disposizioni del Regolamento o del presente decreto; 
+
+                                
+                            
+                            
+                                p)
+                                
+                                    fornire all'autorita' competente tutte le informazioni di cui dispone finalizzate a verificare il conseguimento degli obiettivi di raccolta di cui all'articolo 19 e collaborare con la stessa ai fini della verifica dei dati comunicati; 
+
+                                
+                            
+                            
+                                q)
+                                
+                                    collaborare con tutti gli enti competenti per la definizione dei protocolli finalizzati ai controlli sulle batterie e sui rifiuti di batterie, per quanto di competenza; 
+
+                                
+                            
+                            
+                                r)
+                                
+                                    collaborare, ove necessario, con l'autorita' competente e il Comitato di vigilanza e controllo per la verifica del rispetto degli obblighi previsti dal Regolamento; 
+
+                                
+                            
+                            
+                                s)
+                                
+                                    fornire supporto, ove necessario, all'autorita' competente nella definizione delle procedure di realizzazione della garanzia e nella quantificazione dei relativi importi di cui all'articolo 58, paragrafo 7, del Regolamento e relativi controlli; 
+
+                                
+                            
+                            
+                                t)
+                                
+                                    fornire supporto al Ministero dell'ambiente e della sicurezza energetica ai fini della definizione della sezione del Registro di cui all'articolo 178-quater, comma 8, del decreto legislativo 3 aprile 2006, n. 152.
+
 Il Centro di coordinamento batterie puo' stipulare convenzioni e accordi di programma su base nazionale in rappresentanza dei produttori di batterie anche al fine di incentivare la raccolta di rifiuti di batterie. La mancata stipula dell'accordo di programma non puo' compromettere le attivita' del Centro di coordinamento batterie, dei sistemi individuali e collettivi e il raggiungimento degli obiettivi di cui al Regolamento.
 
 Le associazioni di categoria rappresentative dei produttori iscritti ai sistemi di gestione aderenti al Centro di coordinamento batterie, le associazioni di categoria a livello nazionale delle imprese che effettuano la raccolta, ciascuna tramite un unico delegato, l'ANCI, le associazioni di categoria maggiormente rappresentative a livello nazionale della distribuzione e il Centro di coordinamento batterie stipulano un accordo di programma, con validita' triennale, entro sei mesi dalla data di entrata in vigore del presente decreto. Tale accordo e' rinnovato entro il termine del 31 dicembre che precede la scadenza del primo triennio. Detto accordo e' volto a stabilire le modalita' di ristoro, da parte dei produttori, degli oneri per la raccolta separata di batterie, sostenuti dal servizio pubblico di gestione dei rifiuti urbani, da riconoscersi nel caso in cui sia stata effettivamente istituita una rete di raccolta differenziata dal servizio pubblico, e le modalita' di ritiro da parte dei produttori presso i centri di raccolta dell'articolo 183, comma 1, lettera mm), del decreto legislativo 3 aprile 2006, n. 152, e le strutture autorizzate ai sensi degli articoli 208 e 210 e delle disposizioni della parte seconda, titolo III-bis, del decreto legislativo 3 aprile 2006, n. 152. I produttori o i terzi che agiscono in loro nome sono in ogni caso tenuti a provvedere al ritiro e alla gestione dei rifiuti di batterie raccolte in maniera differenziata nell'ambito del servizio pubblico di gestione dei rifiuti urbani.
@@ -262,6 +654,38 @@ In caso di mancata stipula dell'accordo di programma di cui al comma 4 del prese
 Il Centro di coordinamento batterie puo' svolgere i propri compiti anche mediante il ricorso a societa' di servizi e altri soggetti esterni purche' venga garantita la riservatezza dei dati trattati.
 
 ## Art. 24. — Comitato di vigilanza e di controllo
+
+1.
+                        
+                            
+                                Il Comitato di vigilanza e di controllo sulla gestione dei rifiuti da apparecchiature elettriche ed elettroniche (RAEE) e delle pile, degli accumulatori e dei relativi rifiuti, gia' istituito presso il Ministero dell'ambiente e della sicurezza energetica ai sensi dell'articolo 15, comma 1, del decreto legislativo 25 luglio 2005, n. 151, e' ridenominato «Comitato di vigilanza e di controllo sulla gestione dei RAEE e dei rifiuti da batterie» e, oltre ai compiti di cui all'articolo 35 del decreto legislativo 14 marzo 2014, n. 49, svolge i seguenti compiti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    assicurare il monitoraggio sull'attuazione del presente decreto, a tal fine avvalendosi del Registro dei produttori di cui all'articolo 20 e dei dati di cui all'articolo 21; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    garantire l'esame e la valutazione delle problematiche sottoposte dalle categorie interessate e dai sistemi di raccolta, e in particolare, in mancanza di una specifica valutazione a livello comunitario, esprimersi circa l'applicabilita' o meno del presente decreto; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    favorire l'adozione di iniziative finalizzate a garantire l'uniforme applicazione del presente decreto e dei suoi provvedimenti attuativi, anche sottoponendo eventuali proposte di modifica della normativa ai Ministeri competenti; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    programmare e disporre, sulla base di un apposito piano e avvalendosi della Guardia di finanza e del Comando unita' forestali, ambientali e agroalimentari dell'Arma dei Carabinieri, ispezioni nei confronti dei produttori che non effettuano le comunicazioni di cui al presente decreto o nelle quali si riscontrano incongruenze e inesattezze.
 
 Gli oneri relativi all'espletamento delle attivita' del Comitato di vigilanza e controllo di cui al presente articolo, ivi incluse le attivita' ispettive previste dall'articolo 21, comma 1, e dal comma 1, lettera d), del presente articolo e alle attivita' dell'ISPRA di cui agli articoli 20 e 21, sono a carico dei produttori di batterie.
 Con decreto del Ministro dell'ambiente e della sicurezza energetica, di concerto con il Ministro dell'economia e delle finanze, sono stabiliti gli importi delle tariffe per le relative attivita', nonche' i termini e le modalita' di versamento. Le somme derivanti dal pagamento delle tariffe sono versate all'entrata del bilancio dello Stato, per essere riassegnate, nel medesimo esercizio finanziario, con decreto del Ministero dell'economia e delle finanze, a uno specifico capitolo di spesa dello stato di previsione del Ministero dell'ambiente e della sicurezza energetica, ai fini della copertura degli oneri di cui al presente comma.
@@ -280,6 +704,38 @@ Il produttore di cui all'articolo 3, paragrafo 1, punto 47, lettera d), del Rego
 
 I produttori, in caso di adempimento individuale degli obblighi di responsabilita' estesa del produttore, e i sistemi collettivi, in caso di adempimento collettivo degli obblighi di responsabilita' estesa del produttore, provvedono affinche' tutti i rifiuti di batterie delle categorie immesse sul mercato, indipendentemente dalla loro natura, composizione chimica, condizione, marca od origine, siano raccolti separatamente. A tal fine essi si conformano a quanto previsto dagli articoli 57, 58, 59, 60 e 61 del Regolamento.
 
+6.
+                        
+                            
+                                Il produttore versa un contributo finanziario, determinato nel rispetto delle disposizioni di cui all'articolo 178-ter, comma 3, lettera c), e all'articolo 237, comma 4, del decreto legislativo 3 aprile 2006, n. 152, per i prodotti che mette a disposizione sul mercato nazionale al fine di coprire i seguenti costi: 
+ 
+                            
+                            
+                                a)
+                                
+                                    i costi della raccolta differenziata dei rifiuti di batterie e del loro successivo trasporto e trattamento, tenendo conto di eventuali entrate derivanti dalla preparazione per il riutilizzo o dalla preparazione per il cambio di destinazione oppure dal valore delle materie prime secondarie recuperate dai rifiuti di batterie riciclati; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    i costi necessari ad effettuare analisi merceologiche sulla composizione dei flussi di rifiuti urbani indifferenziati, conformemente alle disposizioni dell'articolo 69, paragrafo 5, del Regolamento; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    i costi di fornitura delle informazioni relative alla prevenzione e alla gestione dei rifiuti di batterie secondo le previsioni dell'articolo 74 del Regolamento; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    i costi di raccolta e comunicazione dei dati alle autorita' competenti a norma dell'articolo 75 del Regolamento.
+
 In caso di messa a disposizione sul mercato di batterie che sono state sottoposte a preparazione per il riutilizzo, preparazione per il cambio di destinazione, cambio di destinazione o rifabbricazione, sia i produttori delle batterie originarie sia i produttori delle batterie immesse sul mercato a seguito di tali operazioni possono istituire e adeguare, anche tramite le procedure definite dal Centro di coordinamento, un meccanismo di ripartizione dei costi tra i diversi produttori, per i costi di cui all'articolo 56, paragrafo 4, lettere a), c), e d), del Regolamento.
 
 Qualora una batteria di cui al comma 2 sia soggetta a piu' di una responsabilita' estesa del produttore, il primo produttore che mette tale batteria a disposizione sul mercato non sostiene costi aggiuntivi derivanti dal meccanismo di ripartizione dei costi basato sulla effettiva ripartizione dei costi di cui al comma 7.
@@ -292,6 +748,52 @@ Adempimento in forma individuale degli obblighi di responsabilita' estesa del pr
 
 Il produttore, in caso di adempimento individuale degli obblighi di responsabilita' estesa del produttore, presenta domanda di riconoscimento per la costituzione di un sistema di gestione individuale per l'adempimento della responsabilita' estesa del produttore al Ministero dell'ambiente e della sicurezza energetica.
 Non e' ammesso l'adempimento individuale degli obblighi di responsabilita' estesa del produttore per le batterie portatili e per le batterie per mezzi di trasporto leggeri. L'autorita' competente di cui all'articolo 3, comma 3, sentito il Comitato di vigilanza e controllo, indica eventuali categorie ulteriori per le quali non e' ammesso l'adempimento individuale degli obblighi di responsabilita' estesa del produttore.
+
+2.
+                        
+                            
+                                L'istanza di cui al comma 1 e' corredata di un progetto descrittivo, idoneo a dimostrare che il sistema: 
+ 
+                            
+                            
+                                a)
+                                
+                                    rispetta i requisiti di cui all'articolo 58, paragrafo 2, lettere a) e b), del Regolamento; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    e' organizzato secondo criteri di efficienza, efficacia, economicita' e trasparenza; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    e' effettivamente in grado di operare su tutto il territorio nazionale e di conseguire, nell'ambito delle attivita' svolte, gli obiettivi di raccolta di cui al Regolamento; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    opera attraverso modalita' di gestione idonee a garantire che gli utilizzatori finali siano adeguatamente informati sulle modalita' di funzionamento del sistema e sui metodi di raccolta dei rifiuti di batterie; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    e' in grado di garantire la conformita' ai requisiti di cui all'articolo 61 del Regolamento; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    rispetta ogni altro requisito e condizione posti dal Regolamento in capo ai produttori che decidono di adempiere in modo individuale agli obblighi di responsabilita' estesa del produttore.
 
 Il riconoscimento e' concesso solo se e' dimostrata la sussistenza dei requisiti di cui all'articolo 58, paragrafo 2, lettere a) e b), del Regolamento.
 
@@ -329,7 +831,64 @@ I sistemi collettivi di gestione garantiscono un trattamento equo dei produttori
 
 I sistemi collettivi sono organizzati in forma consortile ai sensi degli articoli 2602 e seguenti del codice civile, in quanto applicabili, fatto salvo quanto previsto dal presente decreto, e sono retti da uno statuto conforme allo statuto-tipo di cui all'articolo 2, comma 1, lettera c), del presente decreto. I sistemi collettivi provvedono ad adempiere per conto dei produttori agli obblighi di responsabilita' estesa del produttore previsti dal presente decreto e dal Regolamento. Essi provvedono affinche' tutti i rifiuti di batterie delle categorie immesse sul mercato dai propri produttori, indipendentemente dalla loro natura, composizione chimica, condizione, marca od origine, siano raccolti separatamente. A tal fine essi si conformano a quanto previsto dagli articoli 57, 59, 60 e 61 del Regolamento in quanto ad essi applicabili.
 
+4.
+                        
+                            
+                                Ciascun sistema collettivo garantisce che i contributi finanziari ad essi versati dai produttori: 
+ 
+                            
+                            
+                                a)
+                                
+                                    siano modulati conformemente alle disposizioni previste dagli articoli 178-ter, comma 3, lettera b), e 237, comma 4, del decreto legislativo 3 aprile del 2006, n. 152; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    siano modulati almeno in base alla categoria e alla composizione chimica delle batterie e, se del caso, tenendo conto della ricaricabilita', del livello di contenuto di riciclato nella fabbricazione delle batterie, della loro impronta di carbonio e se le batterie siano state sottoposte alla preparazione per il riutilizzo, alla preparazione per il cambio di destinazione, al cambio di destinazione o alla rifabbricazione; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    siano adeguati in modo da tenere conto di eventuali entrate realizzate dai sistemi collettivi derivanti dalla preparazione per il riutilizzo o dalla preparazione per il cambio di destinazione o dal valore di materie prime recuperate dai rifiuti di batterie riciclati.
+
 I sistemi collettivi garantiscono la riservatezza dei dati in loro possesso per quanto riguarda le informazioni riservate o le informazioni direttamente attribuibili ai singoli produttori o ai loro rappresentanti autorizzati per la responsabilita' estesa del produttore.
+
+6.
+                        
+                            
+                                I sistemi collettivi, anche tramite il Centro di coordinamento batterie, in aggiunta alle informazioni di cui all'articolo 178-ter, comma 2, lettera d), del decreto legislativo n. 152 del 2006, rendono pubblico, almeno ogni anno, sui loro siti internet, nel rispetto delle vigenti disposizioni in materia di segretezza delle informazioni commerciali e industriali, quanto segue: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il tasso di raccolta differenziata dei rifiuti di batterie; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le efficienze di riciclaggio; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    i livelli di recupero dei materiali realizzati dai produttori che hanno aderito al sistema collettivo; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    le informazioni sulla procedura di selezione per i gestori dei rifiuti selezionati conformemente al comma 7.
 
 I sistemi collettivi selezionano i gestori di rifiuti di batterie secondo una procedura di selezione non discriminatoria, basata su criteri di aggiudicazione trasparenti, e che non imponga oneri sproporzionati alle piccole e medie imprese.
 
@@ -354,6 +913,52 @@ L'autorita' competente puo' revocare il riconoscimento del sistema collettivo se
 Entro centottanta giorni dalla data di approvazione dello statuto-tipo di cui all'articolo 2, comma 1, lettera c), i sistemi collettivi adeguano il proprio statuto allo statuto-tipo e lo trasmettono, entro i successivi quindici giorni, al Ministero dell'ambiente e della sicurezza energetica e al Ministero delle imprese e del made in Italy, ai fini dell'approvazione. I sistemi collettivi di cui all'articolo 10 del decreto legislativo 14 marzo 2014, n. 49, che adempiono per conto dei produttori di batterie agli obblighi di cui al presente decreto, adeguano il proprio statuto alle previsioni del presente decreto nei termini di cui al primo periodo.
 
 I sistemi collettivi di nuova costituzione presentano istanza di riconoscimento per la costituzione di un sistema di gestione, al fine di dimostrare di possedere i requisiti e il raggiungimento degli obiettivi indicati nel comma 19.
+
+19.
+                        
+                            
+                                Unitamente allo statuto, i sistemi collettivi trasmettono all'autorita' competente un progetto descrittivo, idoneo a dimostrare che il sistema: 
+ 
+                            
+                            
+                                a)
+                                
+                                    possiede i requisiti di cui articolo 58, paragrafo 2, lettere a) e b), del Regolamento; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    e' organizzato secondo criteri di efficienza, efficacia, economicita' e trasparenza; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    e' effettivamente in grado di operare su tutto il territorio nazionale e di conseguire, nell'ambito delle attivita' svolte, gli obiettivi di raccolta, recupero e riciclaggio di cui al Regolamento; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    opera attraverso modalita' di gestione idonee a garantire che gli utilizzatori finali siano adeguatamente informati sulle modalita' di funzionamento del sistema e sui metodi di raccolta dei rifiuti di batterie; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    e' in grado di garantire la conformita' ai requisiti e le condizioni di cui agli articoli 59, 60 e 61 del Regolamento, in quanto applicabili al sistema; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    rispetta ogni altro requisito e condizione posti dal Regolamento in capo ai produttori che decidono di adempiere in modo collettivo agli obblighi di responsabilita' estesa del produttore.
 
 Lo statuto e' approvato nei successivi centoventi giorni alla trasmissione, con decreto del Ministro dell'ambiente e della sicurezza energetica, di concerto con il Ministro delle imprese e del made in Italy, salvo motivate osservazioni cui il sistema collettivo e' tenuto ad adeguarsi nei successivi sessanta giorni. L'approvazione e' subordinata alla verifica che il sistema collettivo rispetti i requisiti di cui all'articolo 58, paragrafo 2, del Regolamento e siano state adottate misure per garantire la conformita' ai requisiti di cui all'articolo 59, paragrafi 1 e 2, o all'articolo 60, paragrafi 1, 2 e 4, del Regolamento. Le attivita' di verifica si concludono entro novanta giorni dalla presentazione del fascicolo completo e sono svolte dal Ministero dell'ambiente e della sicurezza energetica, con il supporto di ISPRA. L'approvazione dello statuto integra l'autorizzazione di cui all'articolo 58, paragrafo 2, del Regolamento ed e' condizione essenziale ai fini alla registrazione al Registro dei produttori di batterie o al suo mantenimento e alla richiesta di adesione al Centro di coordinamento batterie ai sensi dell'articolo 22.
 
@@ -425,6 +1030,198 @@ Il Ministero dell'ambiente e della sicurezza energetica pubblica, con il support
 
 ## Art. 34. — Sanzioni
 
+1.
+                        
+                            
+                                Salvo che il fatto costituisca reato, e ferme restando le sanzioni di cui all'articolo 11 del decreto legislativo 12 ottobre 2022, n. 157, e' punito con la sanzione amministrativa pecuniaria da euro 10.000 ad euro 150.000 l'operatore economico che: 
+ 
+                            
+                            
+                                a)
+                                
+                                    immette sul mercato o mette in servizio batterie prive del simbolo per la raccolta differenziata previsto dall'articolo 13, paragrafo 4, del Regolamento, ovvero con simbolo non conforme; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    immette sul mercato o mette in servizio le batterie di cui all'articolo 13, paragrafo 5, del Regolamento prive del simbolo prescritto, ovvero con simbolo non conforme; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    a decorrere dal 18 agosto 2026, o decorsi diciotto mesi dalla data di entrata in vigore dell'atto di esecuzione di cui all'articolo 13, paragrafo 10, del Regolamento, se posteriore, immette sul mercato o mette in servizio batterie non conformi all'articolo 13, paragrafi 1, 2, 3 e 7; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    a decorrere dal 18 febbraio 2027, immette sul mercato o mette in servizio batterie non conformi all'articolo 13, paragrafi 6 e 7, del Regolamento.
+
+2.
+                        
+                            
+                                Salvo che il fatto costituisca reato e ferme restando le sanzioni di cui all'articolo 11 del decreto legislativo 12 ottobre 2022, n. 157, e' punito con la sanzione amministrativa pecuniaria di cui al comma 1 l'operatore economico che non rimuove entro il termine stabilito dall'autorita' competente: 
+ 
+                            
+                            
+                                a)
+                                
+                                    le non conformita' formali di cui all'articolo 83, paragrafo 1, del Regolamento; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le non conformita' agli obblighi relativi al dovere di diligenza di cui all'articolo 84 del Regolamento.
+
+3.
+                        
+                            
+                                Salvo che il fatto costituisca reato, sono soggetti alla sanzione amministrativa pecuniaria da euro 2.400 a euro 24.000: 
+ 
+                            
+                            
+                                a)
+                                
+                                    i sistemi individuali e collettivi che non aderiscono al Centro di coordinamento batterie di cui all'articolo 22; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    i titolari degli impianti di trattamento non iscritti al registro predisposto dal Centro di coordinamento batterie ai sensi dell'articolo 22, comma 4; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    i produttori che non provvedono a comunicare, ovvero comunicano con ritardo, le informazioni di cui all'articolo 21, comma 3. L'inesatta o incompleta comunicazione comporta l'applicazione della sanzione ridotta alla meta'; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    i produttori che non provvedono alla comunicazione delle informazioni di cui all'articolo 28, commi 1 e 3. L'inesatta o incompleta comunicazione comporta l'applicazione della sanzione ridotta alla meta'; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    i titolari degli impianti di trattamento dei rifiuti di batterie che non provvedono alla comunicazione delle informazioni di cui all'articolo 22, comma 4. L'inesatta o incompleta comunicazione comporta l'applicazione della sanzione ridotta alla meta'; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    i sistemi individuali riconosciuti che non adempiono agli obblighi informativi di cui all'articolo 26, comma 7; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    il detentore di rifiuti di batterie per mezzi di trasporto leggeri, industriali e veicoli elettrici che non fornisce le informazioni richieste dall'autorita' competente di cui all'articolo 3, comma 1, nei casi di cui all'articolo 73, paragrafo 1, del Regolamento.
+
+4.
+                        
+                            
+                                Salvo che il fatto costituisca reato e ferme restando le sanzioni di cui all'articolo 11 del decreto legislativo 12 ottobre 2022, n. 157, e' soggetto alla sanzione amministrativa pecuniaria da euro 5.000 a euro 100.000 l'operatore economico che: 
+ 
+                            
+                            
+                                a)
+                                
+                                    immette sul mercato batterie non conformi alle restrizioni sulle sostanze di cui all'articolo 6 del Regolamento; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    in violazione dell'articolo 7 del Regolamento, a decorrere dalle date ivi indicate o dalla data di entrata in vigore degli atti delegati o di esecuzione ivi previsti, immette sul mercato o mette in servizio batterie per veicoli elettrici, batterie industriali ricaricabili con una capacita' superiore a 2 kWh e batterie per mezzi di trasporto leggeri non conformi alle prescrizioni previste in materia di impronta di carbonio; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    in violazione dell'articolo 8 del Regolamento, a decorrere dalle date ivi indicate o dalla data di entrata in vigore degli atti delegati ivi previsti, immette sul mercato o mette in servizio batterie non conformi alle prescrizioni in materia di contenuto riciclato; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    in violazione dell'articolo 9 del Regolamento, a decorrere dal 18 agosto 2028 o decorsi ventiquattro mesi dalla data di entrata in vigore dell'atto delegato di cui all'articolo 9, paragrafo 2, del Regolamento, se posteriore, immette sul mercato o mette in servizio batterie portatili di uso generale, ad esclusione delle pile a bottone, non conformi ai requisiti di prestazioni e durabilita'; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    in violazione dell'articolo 10 del Regolamento, a decorrere dalle date indicate dal medesimo articolo 10 o dalla data di entrata in vigore dell'atto delegato ivi richiamato, immette sul mercato o mette in servizio batterie industriali ricaricabili con capacita' superiore a 2 kWh, batterie per mezzi di trasporto leggeri e batterie per veicoli elettrici non conformi alle prescrizioni previste in materia di prestazione e durabilita'; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    immette sul mercato batterie non conformi alle prescrizioni di cui all'articolo 12 del Regolamento.
+
+5.
+                        
+                            
+                                Salvo che il fatto costituisca reato sono soggetti alla sanzione amministrativa pecuniaria da euro 36.000 a euro 120.000: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il produttore oppure, in caso di adempimento in forma collettiva, i sistemi collettivi di gestione che non provvedono a organizzare il sistema di raccolta e ritiro di rifiuti di batterie cui agli articoli 59, 60 e 61 del Regolamento per le batterie di competenza; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il produttore che immette sul mercato batterie senza avere provveduto all'iscrizione nel Registro dei produttori presso la Camera di commercio ai sensi dell'articolo 20, comma 4, del presente decreto.
+
+6.
+                        
+                            
+                                Salvo che il fatto costituisca reato, e' soggetto alla sanzione amministrativa pecuniaria da euro 40 a euro 200, per ciascun rifiuto di batteria, il distributore che: 
+ 
+                            
+                            
+                                a)
+                                
+                                    nell'ipotesi di cui all'articolo 62, paragrafo 1, del Regolamento, non provvede al ritiro gratuito dei rifiuti di batterie che ha l'obbligo di ritirare, fatti salvi i casi di esclusione di cui all'articolo 62, paragrafo 2, del Regolamento. La medesima sanzione si applica nel caso in cui i distributori che forniscono batterie agli utilizzatori finali mediante contratti a distanza non ritirino i rifiuti di batteria presso i punti di raccolta, di cui all'articolo 62, paragrafo 4, del Regolamento; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    nell'ipotesi di cui all'articolo 62, paragrafo 3, del Regolamento, non consegna i rifiuti di batterie ritirati ai produttori, ai sistemi collettivi o ad un gestore di rifiuti selezionato; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    in caso di vendita con consegna, non ritira gratuitamente i rifiuti di batterie presso l'utilizzatore finale o presso un punto di raccolta di cui all'articolo 62, paragrafo 5, del Regolamento, ovvero non informa l'utilizzatore finale delle modalita' di ritiro.
+
 I fornitori di piattaforme online, che rientrano nell'ambito di applicazione del capo III, sezione 4, del regolamento (UE) 2022/2065 del Parlamento europeo e del Consiglio, del 19 ottobre 2022, che consentono la vendita di batterie in violazione degli obblighi previsti all'articolo 62, paragrafo 6, del Regolamento, sono puniti con la sanzione amministrativa pecuniaria da euro 650 a euro 2500.
 
 Restano ferme le sanzioni previste dagli articoli 259, 259-bis e 259-ter del decreto legislativo 3 aprile 2006, n. 152, per le spedizioni di batterie usate sospettate di essere rifiuti, effettuate in difformita' dalle prescrizioni dell'allegato XIV al Regolamento.
@@ -432,6 +1229,31 @@ Restano ferme le sanzioni previste dagli articoli 259, 259-bis e 259-ter del dec
 Per l'accertamento e l'irrogazione delle sanzioni previste dai commi 3, 5, 6 e 8, nonche' per la destinazione dei proventi delle stesse, si applicano le disposizioni degli articoli 262 e 263 del decreto legislativo 3 aprile 2006, n. 152.
 
 All'accertamento e all'irrogazione delle sanzioni amministrative pecuniarie previste dai commi 1, 2 e 4, provvedono le autorita' competenti di cui all'articolo 3, commi 2 e 4. Le somme derivanti dal pagamento di tali sanzioni sono versate all'entrata del bilancio dello Stato per la successiva riassegnazione nel medesimo esercizio finanziario alla spesa, per le finalita' di miglioramento dell'attivita' di vigilanza del mercato, nella misura del 50 per cento al Ministero dell'ambiente e della sicurezza energetica e del restante 50 per cento alle autorita' incaricate del controllo che abbiano irrogato le sanzioni.
+
+11.
+                        
+                            
+                                Per la determinazione delle sanzioni amministrative pecuniarie previste dal presente articolo, l'autorita' competente, nell'applicare i criteri di cui all'articolo 11 della legge 24 novembre 1981, n. 689, tiene conto anche dei seguenti elementi specifici: 
+ 
+                            
+                            
+                                a)
+                                
+                                    numero, tipologia e caratteristiche delle batterie interessate; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    vantaggio economico conseguito dall'operatore a seguito della violazione; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    entita' del danno potenziale o effettivo arrecato alla salute, alla sicurezza, ai consumatori o all'ambiente.
 
 ## - Capo VII Disposizioni transitorie e finali
 
@@ -461,6 +1283,38 @@ All'allegato V al decreto legislativo 12 ottobre 2022, n. 157, il punto 19 «Pil
  - regolamento (UE) 2023/1542 del Parlamento europeo e del Consiglio, del 12 luglio 2023, relativo alle batterie e ai rifiuti di batterie, che modifica la direttiva 2008/98/CE e il regolamento (UE) 2019/1020 e abroga la direttiva 2006/66/CE.».
 
 ## Art. 37. — Abrogazioni
+
+1.
+                        
+                            
+                                A decorrere dalla data di entrata in vigore del presente decreto, il decreto legislativo 20 novembre 2008, n. 188, a eccezione dell'articolo 29, e' abrogato, salvo quanto stabilito all'articolo 35, commi 1, 2 e 3 e alle lettere seguenti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    l'articolo 9 continua ad applicarsi fino alla data indicata dall'articolo 95, comma 2, lettera a), del Regolamento; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    gli articoli 10, comma 4, 15, comma 5, lettera e), e 24, comma 2, continuano ad applicarsi fino alle date indicate dall'articolo 95, comma 2, lettera b), del Regolamento; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    l'articolo 23, comma 5, continua ad applicarsi fino alla data indicata dall'articolo 95, comma 2, lettera c), del Regolamento; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    gli articoli 14, 15, commi 2 e 3, 27, commi 4 e 5, e l'allegato III continuano ad applicarsi fino alla completa implementazione del Registro dei produttori di cui all'articolo 20 del presente decreto.
 
 ## Art. 38. — Clausola di invarianza finanziaria
 

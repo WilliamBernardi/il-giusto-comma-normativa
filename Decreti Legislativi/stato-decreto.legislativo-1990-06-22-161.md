@@ -8,8 +8,8 @@ codice_redazionale: 090G0205
 vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:28Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -23,6 +23,26 @@ Sulla proposta del Ministro di grazia e giustizia;
 
 ## Art. 1.
 
+1.
+                    
+                        
+                            L'articolo 406 del codice di procedura penale e' cosi' modificato:
+ 
+                        
+                        
+                            a)
+                            
+                                il comma 3 e' sostituito dal seguente:
+ " 3. La richiesta di proroga, contenente l'indicazione della notizia di reato e l'esposizione dei motivi che la giustificano, e' notificata, a cura del pubblico ministero, alla persona sottoposta alle indagini con l'avviso che il difensore ha facolta' di presentare memorie entro cinque giorni dalla notificazione. La richiesta e' altresi' notificata alla persona offesa dal reato che, nella notizia di reato o successivamente alla sua presentazione, abbia dichiarato di volere esserne informata.";
+
+                            
+                        
+                        
+                            b)
+                            
+                                il comma 5 e' sostituito dal seguente:
+ " 5. Qualora ritenga che allo stato degli atti non si debba concedere la proroga, il giudice fissa la data dell'udienza in camera di consiglio e ne fa notificare avviso al pubblico ministero, alla persona sottoposta alle indagini nonche', nella ipotesi prevista dall'ultimo periodo del comma 3, alla persona offesa dal reato. Il procedimento si svolge nelle forme previste dall'articolo 127.".
+
 ## Art. 2.
 
 L'articolo 553 del codice di procedura penale e' sostituito dal seguente:
@@ -35,6 +55,32 @@ L'articolo 553 del codice di procedura penale e' sostituito dal seguente:
 Nel comma 1 dell'articolo 459 del codice di procedura penale le parole "entro quattro mesi" sono sostituite dalle seguenti: "entro sei mesi".
 
 ## Art. 4.
+
+1.
+                    
+                        
+                            L'articolo 258 del decreto legislativo 28 luglio 1989, n. 271, sostituito dall'articolo 1 del decreto legislativo 17 febbraio 1990, n. 24, e' cosi' modificato:
+ 
+                        
+                        
+                            a)
+                            
+                                nel comma 1 le parole: "sono, rispettivamente, di dodici e di otto mesi" sono sostituite dalle seguenti: "sono di dodici mesi";
+
+                            
+                        
+                        
+                            b)
+                            
+                                il comma 2 e' sostituito dal seguente:
+ " 2. Il termine per la richiesta di giudizio immediato previsto dall'articolo 454 comma 1 del codice e' di nove mesi; il termine per la richiesta di emissione del decreto penale di condanna previsto dall'articolo 459 comma 1 del codice e' di dodici mesi.";
+
+                            
+                        
+                        
+                            c)
+                            
+                                nel secondo periodo del comma 4 le parole: "entro i primi quattro mesi del termine prorogato" sono sostituite dalle seguenti: "entro il termine prorogato".
 
 ## Art. 5.
 

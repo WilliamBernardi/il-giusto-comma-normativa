@@ -7,8 +7,8 @@ urn: urn:nir:ministero.interno:decreto:2019-11-05;167
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:40Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -35,6 +35,63 @@ Ai sensi dell'articolo 28 della legge 4 novembre 2010, n. 183, per particolari d
 ## Art. 2.
 
 Limiti massimi di eta'
+
+1.
+                    
+                        
+                            L'ammissione ai concorsi pubblici e alle procedure selettive per l'accesso ai ruoli del personale non direttivo e non dirigente del Corpo nazionale, di cui al Titolo I del decreto legislativo 13 ottobre 2005, n. 217, e' soggetta ai seguenti limiti massimi di eta': 
+ 
+                        
+                        
+                            a)
+                            
+                                ventisei anni nel concorso pubblico per l'accesso alla qualifica di vigile del fuoco; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                trenta anni nel concorso pubblico per l'accesso alla qualifica di ispettore antincendi, salvo quanto previsto dall'articolo 19, comma 2, primo periodo, del decreto legislativo 13 ottobre 2005, n. 217; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                quarantacinque anni nelle procedure selettive e nei concorsi pubblici per l'accesso ai ruoli tecnico-professionali, salvo quanto previsto dagli articoli 78, comma 2, primo periodo, 90, comma 2, primo periodo, 102, comma 2, primo periodo, 114, comma 2, primo periodo, del decreto legislativo 13 ottobre 2005, n. 217; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                quarantacinque anni nei concorsi pubblici per l'accesso ai ruoli della banda musicale del Corpo nazionale; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                trenta anni nei concorsi pubblici per l'accesso al ruolo degli atleti del gruppo sportivo vigili del fuoco Fiamme Rosse del Corpo nazionale, salvo quanto previsto dall'articolo 28 della legge 4 novembre 2010, n. 183.
+
+2.
+                    
+                        
+                            L'ammissione ai concorsi pubblici per l'accesso ai ruoli del personale direttivo e dirigente del Corpo nazionale, di cui al Titolo II del decreto legislativo 13 ottobre 2005, n. 217, e' soggetta ai seguenti limiti massimi di eta': 
+ 
+                        
+                        
+                            a)
+                            
+                                trentacinque anni nel concorso pubblico a vice direttore, salvo quanto previsto dall'articolo 143, comma 2, primo periodo, del decreto legislativo 13 ottobre 2005, n. 217; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                quarantacinque anni nei concorsi pubblici di accesso ai ruoli tecnico-professionali, salvo quanto previsto dagli articoli 155, comma 3, primo periodo, 164, comma 3, primo periodo, 173, comma 3, primo periodo, 180, comma 2, primo periodo, 190, comma 2, primo periodo, del decreto legislativo 13 ottobre 2005, n. 217.
 
 Per il solo personale volontario del Corpo nazionale che partecipa alle procedure concorsuali di cui al comma 1, lettere a) e b), e al comma 2, lettera a), si applica il limite di eta' di trentasette anni di cui all'articolo 12, comma 2, della legge 10 agosto 2000, n. 246, con esclusione di ogni altra elevazione.
 

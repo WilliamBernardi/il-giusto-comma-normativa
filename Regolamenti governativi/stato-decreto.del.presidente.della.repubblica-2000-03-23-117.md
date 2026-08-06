@@ -8,8 +8,8 @@ codice_redazionale: 000G0162
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti governativi
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:11Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -28,6 +28,29 @@ Sulla proposta del Ministro dell'universita' e della ricerca scientifica e tecno
 ## Art. 1. — Finalita' e definizioni
 
 Il presente regolamento disciplina le modalita' di espletamento, da parte delle universita', delle procedure di valutazione comparativa e la nomina in ruolo dei professori ordinari, associati e dei ricercatori.
+
+2.
+                    
+                        
+                            Ai sensi del presente regolamento si intendono:
+
+                        
+                        
+                            a)
+                            
+                                per "Ministero" o "Ministro" il Ministero o il Ministro dell'universita' e della ricerca scientifica e tecnologica;
+                            
+                        
+                        
+                            b)
+                            
+                                per "universita'" le universita' e gli istituti di istruzione universitaria, statali e non statali, abilitati a rilasciare titoli di studio con valore legale;
+                            
+                        
+                        
+                            c)
+                            
+                                per "rettore" i rettori delle universita' e i direttori degli istituti di istruzione universitaria.
 
 ## Art. 2. — Bandi
 
@@ -60,6 +83,29 @@ Le commissioni giudicatrici per le valutazioni comparative per la copertura di p
 Possono essere componenti delle commissioni giudicatrici i professori che hanno conseguito la nomina a ordinario e di professori associati che hanno conseguito la conferma, nonche' i ricercatori confermati. La partecipazione ai lavori delle commissioni costituisce obbligo d'ufficio per i componenti, fatti salvi i casi di forza maggiore.
 
 Il componente designato e' scelto, prima dello svolgimento delle elezioni di cui al comma 1, con deliberazione del consiglio di facolta'. Per le valutazioni comparative concernenti posti di professore ordinario, il consiglio di facolta', nella composizione ristretta ai soli professori ordinari, designa un professore ordinario. Per le valutazioni comparative concernenti posti di professore associato, il consiglio di facolta', nella composizione ristretta ai soli professori ordinari e associati, designa un professore ordinario o associato. Per le valutazioni comparative concernenti posti di ricercatore, il consiglio di facolta', nella composizione comprendente i professori ordinari e associati, nonche' i ricercatori, designa un professore ordinario o associato. I professori designati, anche appartenenti ad altra facolta' o universita', devono afferire al settore scientificodisciplinare oggetto del bando ovvero in mancanza di designabili, ai settori affini preventivamente determinati con decreto del Ministro su proposta del consiglio universitario nazionale. Ai componenti designati si applicano le incompatibilita' previste dalla normativa vigente per l'elettorato passivo. Gli atti di competenza del rettore sono adottati dal pro-rettore vicario per le procedure in cui il rettore sia componente designato delle commissioni giudicatrici.
+
+4.
+                    
+                        
+                            I componenti elettivi sono cosi' individuati in relazione a ciascuna valutazione comparativa:
+
+                        
+                        
+                            a)
+                            
+                                per la copertura di posti di ricercatore, da un professore ordinario se la facolta' ha designato un professore associato ovvero da un professore associato se la facolta' ha designato un professore ordinario, nonche' da un ricercatore confermato;
+                            
+                        
+                        
+                            b)
+                            
+                                per la copertura di posti di professore associato, da due professori ordinari e da due professori associati;
+                            
+                        
+                        
+                            c)
+                            
+                                per la copertura di posti di professore ordinario, da quattro professori ordinari.
 
 In ciascuna procedura l'elettorato attivo e' attribuito, secondo la normativa vigente e per la corrispondente fascia o ruolo ai professori ordinari e associati ai ricercatori confermati appartenenti al settore scientifico-disciplinare oggetto del bando.
 
@@ -94,11 +140,116 @@ Le eventuali cause di incompatibilita' e le modifiche dello stato giuridico inte
 
 Le commissioni giudicatrici predeterminano i criteri di massima e le procedure della valutazione comparativa dei candidati. Tali determinazioni sono comunicate senza indugio al responsabile del procedimento di cui al comma 11 dell'articolo 2, il quale ne assicura la pubblicita' almeno sette giorni prima della prosecuzione dei lavori della commissione.
 
+2.
+                    
+                        
+                            Per valutare le pubblicazioni scientifiche e il curriculum complessivo del candidato la commissione tiene in considerazione i seguenti criteri:
+
+                        
+                        
+                            a)
+                            
+                                originalita' e innovativita' della produzione scientifica e rigore metodologico;
+                            
+                        
+                        
+                            b)
+                            
+                                apporto individuale del candidato, analiticamente determinato nei lavori in collaborazione;
+                            
+                        
+                        
+                            c)
+                            
+                                congruenza dell'attivita' del candidato con le discipline ricomprese nel settore scientifico-disciplinare per il quale e' bandita la procedura ovvero con tematiche interdisciplinari che le comprendano;
+                            
+                        
+                        
+                            d)
+                            
+                                rilevanza scientifica della collocazione editoriale delle pubblicazioni e loro diffusione all'interno della comunita' scientifica;
+                            
+                        
+                        
+                            e)
+                            
+                                continuita' temporale della produzione scientifica, anche in relazione alla evoluzione delle conoscenze nello specifico settore scientifico-disciplinare.
+
 Per i fini di cui al comma 2 la commissione fa anche ricorso, ove possibile, a parametri riconosciuti in ambito scientifico internazionale.
+
+4.
+                    
+                        
+                            Costituiscono, in ogni caso, titoli da valutare specificamente nelle valutazioni comparative:
+
+                        
+                        
+                            a)
+                            
+                                attivita' didattica svolta anche all'estero;
+                            
+                        
+                        
+                            b)
+                            
+                                i servizi prestati negli atenei e negli enti di ricerca, italiani e stranieri;
+                            
+                        
+                        
+                            c)
+                            
+                                l'attivita' di ricerca, comunque svolta, presso soggetti pubblici e privati, italiani e stranieri;
+                            
+                        
+                        
+                            d)
+                            
+                                i titoli di dottore di ricerca e la fruizione di borse di studio finalizzate ad attivita' di ricerca;
+                            
+                        
+                        
+                            e)
+                            
+                                il servizio prestato nei periodi di distacco presso i soggetti di cui all'articolo 3, comma 2, del decreto legislativo 27 luglio 1999, n. 297;
+                            
+                        
+                        
+                            f)
+                            
+                                l'attivita' in campo clinico e, con riferimento alle scienze motorie, in campo teorico-addestrativo, relativamente ai settori scientifico-disciplinari in cui siano richieste tali specifiche competenze;
+                            
+                        
+                        
+                            g)
+                            
+                                l'organizzazione, direzione e coordinamento di gruppi di ricerca;
+                            
+                        
+                        
+                            h)
+                            
+                                il coordinamento di iniziative in campo didattico e scientifico svolte in ambito nazionale ed internazionale.
 
 La tipologia di impegno scientifico e didattico eventualmente indicata nel bando non costituisce elemento di valutazione del candidato.
 
 Le universita', con propri regolamenti emanati ai sensi dell'articolo 1, comma 2, della legge 3 luglio 1998, n. 210, possono adottare disposizioni modificative e integrative di criteri di cui al comma 2.
+
+7.
+                    
+                        
+                            Al termine delle valutazioni delle pubblicazioni scientifiche e dei titoli la procedura contempla lo svolgimento, secondo quanto previsto dal bando delle seguenti prove:
+
+                        
+                        
+                            a)
+                            
+                                due prove scritte, una delle quali sostituibile con una prova pratica, ed una prova orale per la copertura di posti di ricercatore;
+                            
+                        
+                        
+                            b)
+                            
+                                una prova didattica e la discussione sulle pubblicazioni scientifiche presentate per la copertura di posti di professore associato.
 
 Per i settori scientifico-disciplinari concernenti le lingue straniere il bando puo' prevedere che le relative prove siano sostenute nella lingua straniera oggetto della valutazione comparativa.
 

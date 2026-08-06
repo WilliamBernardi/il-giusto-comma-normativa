@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Regolamenti di delegificazione
 vigenza_date: 2018-01-01
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:40:24Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -28,7 +28,174 @@ Sulla proposta del Ministro dello sviluppo economico, di concerto con il Ministr
 
 E' istituita, presso la Direzione generale per l'energia e le risorse minerarie, la Commissione per gli idrocarburi e le risorse minerarie, di seguito denominata: «CIRM», nella quale sono accorpati il Comitato tecnico per gli idrocarburi e la geotermia, di cui all'articolo 41 della legge 11 gennaio 1957, n. 6, e successive modificazioni, la Commissione in materia di royalties sulla produzione di idrocarburi, di cui all'articolo 19, comma 7, del decreto legislativo 25 novembre 1996, n. 625, la Commissione consultiva di cui all'articolo 83 del decreto del Presidente della Repubblica 24 maggio 1979, n. 886, nonche' la Commissione interdisciplinare consultiva per la ricerca mineraria di base, di cui alla legge 6 ottobre 1982, n. 752, e successive modificazioni.
 
+2.
+                    
+                        
+                            Alla CIRM sono attribuiti i compiti consultivi per la ricerca mineraria di base, nonche' l'espressione dei pareri e lo svolgimento delle valutazioni tecniche per l'attuazione dell'articolo 19, comma 7, del decreto legislativo 25 novembre 1996, n. 625, e quelli previsti:
+ 
+                        
+                        
+                            a)
+                            
+                                dagli articoli 81 e 82 e dall'articolo 83, ultimo comma, del decreto del Presidente della Repubblica 24 maggio 1979, n. 886;
+
+                            
+                        
+                        
+                            b)
+                            
+                                dall'articolo 42 della legge 11 gennaio 1957, n. 6;
+
+                            
+                        
+                        
+                            c)
+                            
+                                dalle norme che fanno rinvio agli organismi accorpati.
+
 La CIRM e' composta dal direttore generale per l'energia e le risorse minerarie, con funzioni di presidente, dal direttore dell'Ufficio nazionale minerario per gli idrocarburi, di seguito denominato UNMI, con funzioni di vicepresidente, da un avvocato dello Stato, da tre dirigenti della Direzione generale per l'energia e le risorse minerarie, componenti anche di ciascuna sezione della Commissione, nonche' dai componenti nominati per le singole sezioni ai sensi, rispettivamente, dei commi 5, 6 e 7.
+
+4.
+                    
+                        
+                            La CIRM e' articolata nelle seguenti tre sezioni, specializzate secondo le aree di riferimento degli organismi accorpati:
+ 
+                        
+                        
+                            a)
+                            
+                                Sezione con compiti relativi alle attivita' di ricerca e coltivazione di risorse minerarie;
+
+                            
+                        
+                        
+                            b)
+                            
+                                Sezione con compiti relativi alla sicurezza delle attivita' di ricerca e coltivazione;
+
+                            
+                        
+                        
+                            c)
+                            
+                                Sezione con compiti relativi alla determinazione e versamento delle aliquote di prodotto della coltivazione.
+
+5.
+                    
+                        
+                            La Sezione di cui alla lettera a) del comma 4 e' composta da:
+ 
+                        
+                        
+                            a)
+                            
+                                un funzionario dell'Agenzia per la protezione dell'ambiente e per i servizi tecnici, esperto nelle materie di ricerca e coltivazione di risorse minerarie;
+
+                            
+                        
+                        
+                            b)
+                            
+                                un dirigente del Ministero dell'ambiente e della tutela del territorio e del mare - Direzione generale per la salvaguardia ambientale;
+
+                            
+                        
+                        
+                            c)
+                            
+                                quattro professori universitari, in materia di geologia, in materia di geofisica applicata al settore minerario, in materia attinente alla coltivazione di idrocarburi e in materia attinente allo stoccaggio di idrocarburi, designati dal Ministero dell'universita' e della ricerca.
+
+6.
+                    
+                        
+                            La Sezione di cui alla lettera b) del comma 4 e' composta da:
+ 
+                        
+                        
+                            a)
+                            
+                                un dirigente del Ministero dei trasporti, con competenze relative alla sicurezza delle attivita' in mare;
+
+                            
+                        
+                        
+                            b)
+                            
+                                un dirigente di ciascuna Sezione UNMI;
+
+                            
+                        
+                        
+                            c)
+                            
+                                due funzionari del Ministero dell'interno, di cui uno della Direzione Centrale per la prevenzione e la sicurezza tecnica e uno del Dipartimento della pubblica sicurezza;
+
+                            
+                        
+                        
+                            d)
+                            
+                                un ufficiale superiore del Ministero della difesa - Marina;
+
+                            
+                        
+                        
+                            e)
+                            
+                                un rappresentante dell'Istituto superiore per la prevenzione e sicurezza del lavoro;
+
+                            
+                        
+                        
+                            f)
+                            
+                                un professore universitario in materia di costruzioni navali, designato dal Ministero dell'universita' e della ricerca;
+
+                            
+                        
+                        
+                            g)
+                            
+                                il direttore del Servizio per la sicurezza mineraria della Direzione generale per l'energia e le risorse minerarie;
+
+                            
+                        
+                        
+                            h)
+                            
+                                due rappresentanti delle regioni, esperti in materia di sicurezza delle attivita' di ricerca e coltivazione, designati dalla Conferenza permanente per i rapporti tra lo Stato, le Regioni e le Province autonome di Trento e di Bolzano;
+
+                            
+                        
+                        
+                            i)
+                            
+                                un rappresentante del Registro italiano navale.
+
+7.
+                    
+                        
+                            La Sezione di cui alla lettera c) del comma 4 e' composta da:
+ 
+                        
+                        
+                            a)
+                            
+                                un dirigente di ciascuna Sezione UNMI;
+
+                            
+                        
+                        
+                            b)
+                            
+                                un dirigente del Ministero dell'economia e delle finanze esperto in materia di determinazione e versamento delle aliquote di prodotto della coltivazione;
+
+                            
+                        
+                        
+                            c)
+                            
+                                un esperto in materia di economia delle fonti energetiche.
 
 Alle riunioni della CIRM partecipano di volta in volta i rappresentanti della regione interessata, con spese a carico della stessa regione.
 
@@ -37,6 +204,24 @@ Il Direttore generale per l'energia e le risorse minerarie puo', per singole tem
 La CIRM e' costituita entro sessanta giorni dalla data di entrata in vigore del presente regolamento con decreto del Ministro dello sviluppo economico, con il quale vengono altresi' definite le modalita' di funzionamento e di organizzazione dei lavori, nonche' i servizi di supporto della CIRM, articolata in sezioni specializzate secondo le aree di riferimento degli organismi accorpati.
 
 I compensi dei componenti sono determinati con decreto del Ministro dello sviluppo economico, di concerto con il Ministro dell'economia e delle finanze.
+
+12.
+                    
+                        
+                            Sono abrogati:
+ 
+                        
+                        
+                            a)
+                            
+                                l'articolo 41 della legge 11 gennaio 1957, n. 6;
+
+                            
+                        
+                        
+                            b)
+                            
+                                i commi da 1 a 4 dell'articolo 83 del decreto del Presidente della Repubblica 24 maggio 1979, n. 886.
 
 Al comma 7 dell'articolo 19 del decreto legislativo 25 novembre 1996, n. 625, le parole da: «, sentita una Commissione di durata biennale» a: «- un funzionario dell'UNMIG con funzioni di segretario» sono soppresse.
 
@@ -66,11 +251,160 @@ Il Comitato e' ricostituito entro sessanta giorni dalla data di entrata in vigor
 
 I compensi dei componenti sono determinati con decreto del Ministro dello sviluppo economico, di concerto con il Ministro dell'economia e delle finanze.
 
+6.
+                    
+                        
+                            Sono o restano abrogati:
+ 
+                        
+                        
+                            a)
+                            
+                                i commi sesto, settimo, ottavo e nono dell'articolo 4 della legge 12 agosto 1977, n. 675;
+
+                            
+                        
+                        
+                            b)
+                            
+                                l'articolo 2 della legge 2 aprile 1980, n. 122;
+
+                            
+                        
+                        
+                            c)
+                            
+                                l'articolo 4 del decreto del Ministro per l'innovazione e le tecnologie in data 28 luglio 2005, pubblicato nella Gazzetta Ufficiale n. 213 del 13 settembre 2005.
+
 Al secondo comma dell'articolo 16 della legge 17 febbraio 1982, n. 46, le parole da: «composto dai membri indicati nel sesto comma dell'articolo 4 della legge 12 agosto 1977, n. 675» a: «con il Ministro per il coordinamento delle iniziative per la ricerca scientifica e tecnologica» sono soppresse.
 
 ## Art. 4. — Commissione Centrale per le Cooperative
 
+1.
+                    
+                        
+                            La Commissione Centrale per le Cooperative di cui al decreto legislativo del Capo provvisorio dello Stato 14 dicembre 1947, n. 1577, e' composta da: 
+ 
+                        
+                        
+                            a)
+                            
+                                il Ministro dello sviluppo economico che la presiede, salvo delega ad altro componente; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                il Direttore generale della Direzione generale per gli enti cooperativi del Ministero dello sviluppo economico, il quale ne e' componente di diritto; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                un rappresentante del Ministero dello sviluppo economico; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                un rappresentante del Ministero del lavoro e della previdenza sociale; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                un rappresentante del Ministero delle infrastrutture; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                un rappresentante del Ministero delle politiche agricole, alimentari e forestali; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                un rappresentante del Ministero dell'economia e delle finanze - Dipartimento delle politiche fiscali; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                un rappresentante designato da ciascuna delle Associazioni nazionali di rappresentanza, assistenza e tutela del movimento cooperativo legalmente riconosciute, limitatamente al primo rinnovo successivo all'emanazione della presente disciplina. Per i rinnovi successivi, nell'attribuzione del numero dei rappresentanti di ciascuna Associazione si terra' conto dei dati relativi alla rappresentativita' delle Associazioni stesse, desunti dall'Albo delle Cooperative, nel limite massimo di due rappresentanti.
+
 Con esclusione del Presidente, per ciascun componente della Commissione e' designato un supplente.
+
+3.
+                    
+                        
+                            La Commissione Centrale esprime parere: 
+ 
+                        
+                        
+                            a)
+                            
+                                sui progetti di legge o regolamenti interessanti la cooperazione; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                su tutte le questioni sulle quali il parere della Commissione sia prescritto da legge o regolamenti o richiesto dal Ministro per lo sviluppo economico o dal Direttore generale per gli enti cooperativi; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                sulle domande di riconoscimento delle Associazioni nazionali di cui all'articolo 3 del decreto legislativo 2 agosto 2002, n. 220; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                in tema di devoluzione dei patrimoni residui degli enti cooperativi iscritti nell'Albo delle Cooperative; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                in tema di adempimenti relativi all'Albo delle Cooperative.
+
+4.
+                    
+                        
+                            Per lo svolgimento dei compiti di cui al comma 3, a fini istruttori o decisori in caso di urgenza, la Commissione Centrale per le Cooperative puo' costituire nel proprio seno un Comitato composto: 
+ 
+                        
+                        
+                            a)
+                            
+                                dal Presidente della Commissione; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                da tre membri scelti tra quelli designati dalle Amministrazioni pubbliche rappresentate nella Commissione Centrale, eletti dalla Commissione stessa; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                da un rappresentante designato da ciascuna delle Associazioni nazionali di rappresentanza, assistenza e tutela del movimento cooperativo. ((2))
 
 La Commissione e' ricostituita con decreto del Ministro dello sviluppo economico entro sessanta giorni dalla data di entrata in vigore del presente regolamento. In caso di mancata designazione dei rappresentanti del movimento cooperativo o delle Amministrazioni pubbliche, il Ministro dello sviluppo economico provvede direttamente alla nomina dei rappresentanti stessi scegliendoli secondo il criterio della competenza tra le persone con esperienze nel campo della cooperazione. La segreteria della Commissione e' assicurata dalla Direzione generale per gli enti cooperativi del Ministero dello sviluppo economico.
 
@@ -107,6 +441,24 @@ Il Comitato tecnico e' composto da non piu' di 10 unita' scelte tra i magistrati
 
 I compensi dell'Alto commissario, dei Vice alto commissario e dei componenti del Comitato sono determinati con decreto del Ministro dello sviluppo economico, di concerto con il Ministro dell'economia e delle finanze.
 
+10.
+                    
+                        
+                            Sono abrogati:
+ 
+                        
+                        
+                            a)
+                            
+                                i commi 2, 3 e 4 dell'articolo 1-quater del decreto-legge 14 marzo 2005, n. 35, convertito, con modificazioni, dalla legge 14 maggio 2005, n. 80;
+
+                            
+                        
+                        
+                            b)
+                            
+                                il comma 4 dell'articolo 4-bis del decreto-legge 10 gennaio 2006, n. 2, convertito, con modificazioni, dall'articolo 1 della legge 11 marzo 2006, n. 81.
+
 Il primo periodo del comma 235 dell'articolo 1 della legge 23 dicembre 2005, n. 266, e' soppresso.
 
 Al primo periodo del comma 2 dell'articolo 4-bis del decreto-legge 10 gennaio 2006, n. 2, convertito, con modificazioni, dalla legge 11 marzo 2006, n. 81, le parole da: "composto da non piu' di 10 unita" a: "n. 146, e successive modificazioni" sono soppresse.
@@ -122,6 +474,45 @@ Il Nucleo di valutazione e verifica degli investimenti pubblici, istituito con d
 Il numero dei componenti dei Nucleo di cui al comma 1 e' ridotto da 14 a 10.
 
 ## Art. 8. — Conferme di organismi diversi
+
+1.
+                    
+                        
+                            Sono confermati e continuano ad operare, per le finalita' di cui alle disposizioni per ciascuno di essi richiamate, i seguenti organismi, rientranti nell'ambito di attivita' del Ministero dello sviluppo economico alla data del 4 luglio 2006:
+ 
+                        
+                        
+                            a)
+                            
+                                Commissione per il rilascio e la revoca delle autorizzazioni e per la decisione dei reclami (munizioni commerciali per uso civile), di cui all'articolo 8 della legge 6 dicembre 1993, n. 509;
+
+                            
+                        
+                        
+                            b)
+                            
+                                Comitato Centrale metrico di cui all'articolo 7 del regio decreto 9 gennaio 1939, n. 206;
+
+                            
+                        
+                        
+                            c)
+                            
+                                Consiglio nazionale dei consumatori e degli utenti, di cui all'articolo 136 del decreto legislativo 6 settembre 2005, n. 206;
+
+                            
+                        
+                        
+                            d)
+                            
+                                Comitato per la razionalizzazione e ristrutturazione produttiva dell'industria della difesa, di cui all'articolo 4 del regolamento adottato con decreto del Ministro dell'industria, del commercio e dell'artigianato 2 agosto 1995, n. 434;
+
+                            
+                        
+                        
+                            e)
+                            
+                                Comitato per la riconversione produttiva nel campo civile e duale dell'industria della difesa, di cui all'articolo 4 del regolamento adottato con decreto del Ministro dell'industria, del commercio e dell'artigianato 14 ottobre 1999, n. 462.
 
 ## Art. 9. — Riduzione delle spese
 

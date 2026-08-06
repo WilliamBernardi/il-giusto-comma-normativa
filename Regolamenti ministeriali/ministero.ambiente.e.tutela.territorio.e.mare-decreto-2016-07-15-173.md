@@ -8,8 +8,8 @@ vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
 vigenza_date: 2026-02-14
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:42Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -49,7 +49,110 @@ Udito il parere del Consiglio di Stato, espresso dalla Sezione consultiva per gl
 
 ## Art. 1. — Ambito di applicazione ed esclusioni
 
+1.
+                    
+                        
+                            Al fine della tutela dell'ambiente marino, il presente regolamento determina: 
+ 
+                        
+                        
+                            a)
+                            
+                                le modalita' per il rilascio dell'autorizzazione di cui all'articolo 109, comma 2, del decreto legislativo 3 aprile 2006, n. 152, per l'immersione deliberata in mare dei materiali di escavo di fondali marini o salmastri o di terreni litoranei emersi di cui al comma 1, lettera a) del medesimo articolo 109; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                i criteri omogenei per tutto il territorio nazionale, per l'utilizzo di tali materiali ai fini di ripascimento o all'interno di ambienti conterminati, ai quali le regioni conformano le modalita' di caratterizzazione, classificazione ed accettabilita' dei materiali in funzione del raggiungimento o mantenimento degli obiettivi di qualita' ambientale dei corpi idrici marino costieri e di transizione; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                la gestione dei materiali provenienti dal dragaggio delle aree portuali e marino costiere non comprese in siti di interesse nazionale; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                la gestione dei materiali provenienti dai siti di interesse nazionale risultanti da operazioni di dragaggio nelle aree portuali e marino costiere, al di fuori di detti siti.
+
+2.
+                    
+                        
+                            Il presente regolamento non si applica: 
+ 
+                        
+                        
+                            a)
+                            
+                                agli spostamenti in ambito portuale e alle operazioni di ripristino degli arenili, cosi' come definite al successivo articolo 2; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                alle movimentazioni di sedimenti in loco funzionali all'immersione dei materiali di cui all'articolo 109, comma 1, lettera b, del decreto legislativo 3 aprile 2006, n. 152.
+
 ## Art. 2. — Definizioni
+
+1.
+                    
+                        
+                            Ai fini del presente regolamento si intende per: 
+ 
+                        
+                        
+                            a)
+                            
+                                autorita' competente: la regione costiera nel cui territorio avviene l'immersione dei materiali di cui all'articolo 1 ovvero il Ministero dell'ambiente e della tutela del territorio e del mare, previa acquisizione del nulla osta da parte degli enti di gestione delle aree marine protette o dell'ente parco, per le autorizzazioni relative ad immersioni deliberate in mare ricadenti in aree protette nazionali di cui alle leggi 31 dicembre 1982, n. 979, e 6 dicembre 1991, n. 394; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                immersione deliberata in mare: deposizione di materiali di cui all'articolo 1 in aree ubicate ad una distanza dalla costa superiore a 3 (tre) miglia nautiche o oltre la batimetrica dei 200 (duecento) metri; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                immersione in ambiente conterminato: utilizzo di materiali di cui all'articolo 1 mediante deposizione in strutture di contenimento a diverso grado di permeabilita'; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                ripascimento: utilizzo di materiali di cui all'articolo 1 mediante apporto sulla spiaggia emersa e/o sommersa, prioritariamente in relazione a fenomeni di erosione della costa; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                escavo di fondali marini: dragaggio di sedimenti marini per il mantenimento, il miglioramento o il ripristino delle funzionalita' di bacini portuali, della riapertura di foci fluviali parzialmente o totalmente ostruite per la realizzazione di infrastrutture in ambito portuale o costiero o per il prelievo di sabbie a fini di ripascimento; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                spostamenti in ambito portuale: movimentazione dei sedimenti all'interno di strutture portuali per le attivita' di rimodellamento dei fondali al fine di garantire l'agibilita' degli ormeggi, la sicurezza delle operazioni di accosto ovvero per il ripristino della navigabilita', con modalita' che evitino una dispersione dei sedimenti al di fuori del sito di intervento; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                operazioni di ripristino degli arenili: tutte le attivita' che si svolgono nell'ambito di uno stesso sito con ciclicita' stagionale o comunque a seguito di mareggiate che hanno determinato l'accumulo di materiali in una determinata area e consistenti nel livellamento delle superfici, mediante lo spargimento e la ridistribuzione dei sedimenti accumulati in piu' punti dello stesso sito per il ripristino degli arenili che comportano la movimentazione di materiali per quantitativi inferiori a 20 (venti) metri cubi per metro lineare di spiaggia.
 
 ## Art. 3. — Caratterizzazione e classificazione dei materiali
 

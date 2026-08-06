@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Leggi delega e relativi provvedimenti delegati
 vigenza_date: 2005-11-12
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:41:16Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -29,6 +29,31 @@ Sulla proposta del Ministro delle risorse agricole, alimentari e forestali, di c
 ## - Capo I RIORDINAMENTO DI RUOLI DEL PERSONALE DEL CORPO FORESTALE DELLO STATO Sezione I RIORDINAMENTO DI RUOLI DEL PERSONALE CHE ESPLETA FUNZIONI DI POLIZIA
 
 ## Art. 1. — Istituzione dei ruoli
+
+1.
+                        
+                            
+                                Nell'ambito delle dotazioni organiche del personale del Corpo forestale dello Stato che espleta funzioni di polizia sono istituiti i seguenti ruoli, sottordinati rispettivamente l'uno all'altro e tutti a quelli degli ufficiali:
+ 
+                            
+                            
+                                a)
+                                
+                                    ruolo degli agenti ed assistenti;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    ruolo dei sovrintendenti;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    ruolo degli ispettori.
 
 Nella tabella A allegata al presente decreto legislativo sono determinate le dotazioni organiche dei ruoli indicati al comma 1, nonche' l'equiparazione tra le qualifiche degli appartenenti al Corpo forestale dello Stato con quelle della Polizia di Stato.
 
@@ -53,6 +78,45 @@ Gli assistenti ed assistenti capo, in relazione ad una eventuale specifica prepa
 
 ## Art. 4. — Nomina ad allievo agente
 
+1.
+                        
+                            
+                                L'assunzione degli agenti del Corpo forestale dello Stato avviene mediante pubblico concorso per esame al quale possono partecipare i cittadini italiani che abbiano:
+ 
+                            
+                            
+                                a)
+                                
+                                    eta' non inferiore ad anni 18 e non superiore a quella stabilita dal regolamento adottato ai sensi dell'articolo 3, comma 6, della legge 15 maggio 1997, n. 127. Non si applicano le norme relative all'aumento dei limiti di eta' per l'ammissione ai pubblici impieghi;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    idoneita' fisica, psichica ed attitudinale prevista dall'art. 1, commi 2 e 4 della legge 7 giugno 1990, n. 149;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    titolo di studio di scuola dell'obbligo;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    qualita' morali e di condotta come previsto dall'art. 26 della legge 1 febbraio 1989, n. 53;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    gli altri requisiti generali per la partecipazione ai pubblici concorsi per l'accesso ai pubblici impieghi.
+
 L'esame puo' essere preceduto da una prova preliminare e/o da test psico-attitudinali, il cui superamento costituisce requisito essenziale per la successiva partecipazione al concorso.
 
 Non sono ammessi al concorso coloro che sono stati espulsi dalle forze armate, dai corpi di polizia o destituiti da pubblici uffici, che hanno riportato condanne a pena detentiva per delitto non colposo o sono stati sottoposti a misura di prevenzione e gli obiettori di coscienza.
@@ -72,6 +136,31 @@ Gli allievi agenti frequentano, presso la scuola del Corpo forestale dello Stato
 Gli allievi agenti che abbiano superato gli esami di fine corso sono nominati agenti del Corpo forestale dello Stato, secondo l'ordine di graduatoria finale e prestano giuramento.
 
 ## Art. 5. — Dimissioni dal corso per la nomina ad agente
+
+1.
+                        
+                            
+                                Sono dimessi dal corso gli allievi agenti che:
+ 
+                            
+                            
+                                a)
+                                
+                                    dichiarano di rinunciare al corso;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    sono stati per qualsiasi motivo assenti dal corso per piu' di ((sessanta)) giorni, anche se non continuativi.
+
+                                
+                            
+                            
+                                b-bis)
+                                
+                                    non superano gli esami di fine corso.
 
 ((
 
@@ -113,6 +202,24 @@ Detto personale, nell'ambito dei compiti istituzionali, svolge anche in collabor
 
 ## Art. 9. — Nomina a vice sovrintendente
 
+1.
+                        
+                            
+                                La nomina a vice sovrintendente si consegue:
+ 
+                            
+                            
+                                a)
+                                
+                                    nel limite del ((quaranta per cento)) dei posti disponibili al 31 dicembre di ciascun anno, mediante concorso interno teorico-pratico e superamento di un successivo corso di formazione e specializzazione tecnico-professionale, di durata non inferiore a tre mesi. Al concorso sono ammessi gli appartenenti al ruolo degli assistenti ed agenti che abbiano compiuto alla stessa data almeno quattro anni di effettivo servizio e non abbiano riportato nei due anni precedenti sanzioni disciplinari piu' gravi della (( sospensione dallo stipendio superiore a sei giorni ));
+
+                                
+                            
+                            
+                                b)
+                                
+                                    nel limite del sessanta per cento dei posti disponibili al 31 dicembre di ciascun anno, mediante concorso interno per titoli e superamento di un successivo corso di formazione tecnico-professionale della durata non inferiore a tre mesi. Al concorso sono ammessi gli assistenti capo i quali, nei due anni precedenti, non abbiano riportato sanzioni disciplinari piu' gravi della sospensione dallo stipendio superiore a sei giorni ed un giudizio complessivo inferiore a buono con punti otto.
+
 I posti disponibili per i concorrenti di cui al comma 1, lettera a) rimasti scoperti sono portati in aumento alla aliquota disponibile per il personale di cui alla lettera b) ((e viceversa)).
 
 L'individuazione delle categorie dei titoli di servizio, le modalita' di svolgimento del concorso di cui al comma 1, lettera a), compresa la determinazione della prova di esame e la composizione della commissione esaminatrice, nonche' per le finalita' anche di cui all'art. 4, comma 5, i programmi e le modalita' di svolgimento del corso di cui alle lettere a) e b), e quelle dello svolgimento degli esami di fine corso sono fissati con decreto ministeriale.
@@ -120,6 +227,24 @@ L'individuazione delle categorie dei titoli di servizio, le modalita' di svolgim
 La nomina a vice sovrintendente e' conferita secondo l'ordine di graduatoria risultante dagli esami di fine corso ((con decorrenza giuridica dal 1 gennaio dell'anno successivo a quello di riferimento e con decorrenza economica dal giorno successivo alla data di conclusione del corso medesimo. I vincitori del concorso di cui al comma 1, lettera b), precedono in ruolo i vicintori del concorso di cui alla lettera a) dello stesso comma.))
 
 ## Art. 10. — Dimissioni dal corso
+
+1.
+                        
+                            
+                                E' dimesso dal corso di cui all'art. 9 il personale che:
+ 
+                            
+                            
+                                a)
+                                
+                                    dichiara di rinunciare al corso;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    e' stato per qualsiasi motivo assente dal corso per piu' di ((venti)) giorni, anche se non continuativi.
 
 Nell'ipotesi di assenza dovuta ad infermita' (( contratta durante il corso ovvero dipendente da causa di servizio )) il personale e' ammesso a partecipare di diritto al primo corso successivo alla sua riacquistata idoneita' psico-fisica e sempre che nel periodo precedente a detto corso non abbia riportato sanzioni disciplinari piu' gravi della censura. Il personale di sesso femminile, la cui assenza oltre i limiti di cui al comma 1, lettera b), e' stata determinata da maternita' e' ammesso a partecipare al primo corso successivo ai periodi di assenza dal lavoro previsti dalle disposizioni sulla tutela delle lavoratrici madri. (( Nel caso di dimissione per assenza determinata da infermita' contratta durante il corso, il personale e' ammesso, con decreto del capo del Corpo forestale dello Stato, a frequentare il primo corso successivo alla riacquistata idoneita' psico-fisica. In tal caso la decorrenza, a tutti gli effetti, della nomina a vice sovrintendente e' quella prevista per il corso frequentato e concluso.))
 
@@ -159,11 +284,61 @@ Detto personale, nell'ambito di compiti istituzionali, puo' essere preposto ad u
 
 ## Art. 15. — Nomina a vice ispettore
 
+1.
+                        
+                            
+                                La nomina alla qualifica iniziale del ruolo degli ispettori si consegue:
+ 
+                            
+                            
+                                a)
+                                
+                                    nel limite del cinquanta per cento dei posti disponibili mediante concorso pubblico per esami seguito da un corso di formazione e specializzazione di ((quindici mesi)). Un sesto dei posti e' riservato agli appartenenti al ruolo dei sovrintendenti in possesso del prescritto titolo di studio; ((Al concorso sono ammessi a partecipare, con riserva di un sesto dei posti disponibili, gli appartenenti ai ruoli del Corpo forestale dello Stato con almeno tre anni di anzianita' di effettivo servizio alla data del bando che indice il concorso, in possesso dei prescritti requisiti ad eccezione del limite di eta'. Se i posti riservati non vengono coperti, la differenza va ad aumentare i posti spettanti all'altra categoria. A parita' di merito, l'appartenenza al Corpo forestale dello Stato costituisce titolo di preferenza, fermi restando gli altri titoli preferenziali previsti dall'ordinamento vigente.));
+
+                                
+                            
+                            
+                                b)
+                                
+                                    nel limite del cinquanta per cento dei posti disponibili mediante concorso interno per titoli di servizio ed esame consistente in una prova scritta e in un colloquio, riservato al personale del Corpo forestale dello Stato che espleta funzioni di polizia in possesso, alla data di pubblicazione del bando che indice il concorso, di un'anzianita' di servizio non inferiore a sette anni e di diploma di istituto di istruzione secondaria (( superiore che consente l'iscrizione ai corsi per il conseguimento del diploma universitario)). Un terzo dei posti e' riservato agli appartenenti al ruolo dei sovrintendenti anche se privi del titolo di studio.
+
 I posti riservati non coperti sono conferiti agli altri concorrenti seguendo l'ordine della graduatoria di merito.
 
 Non puo' partecipare al concorso interno di cui al comma 1, lettera b), ne' usufruire della riserva di cui alla lettera a) il personale che abbia riportato nell'ultimo biennio sanzioni disciplinari o un giudizio complessivo inferiore a "buono con punti otto".
 
 ## Art. 16. — Concorso pubblico
+
+1.
+                        
+                            
+                                Al concorso pubblico di cui all'art. 15, comma 1, lettera a), possono partecipare i cittadini italiani che abbiano:
+ 
+                            
+                            
+                                a)
+                                
+                                    eta' non inferiore agli anni 18 e non superiore ((a quella stabilita dal regolamento adottato ai sensi dell'articolo 3, comma 6, della legge 15 maggio 1997, n. 127)). Non si applicano le disposizioni di legge relative all'aumento dei limiti di eta' per l'ammissione ai pubblici impieghi;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    diploma di istituto di istruzione secondaria (( superiore che consente l'iscrizione ai corsi per il conseguimento del diploma universitario ));
+
+                                
+                            
+                            
+                                c)
+                                
+                                    gli altri requisiti previsti dall'art. 4, commi 1 e 2;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    per gli appartenenti al ruolo degli agenti e assistenti e dei sovrintendenti si applicano le disposizioni di cui all'art. 52, secondo comma della legge 1 aprile 1981, n. 121, come sostituito dall'art. 4, comma 4 del decreto-legge 21 settembre 1987, n. 387, convertito, con modificazioni, dalla legge 20 novembre 1987, n. 472.
 
 Gli esami del concorso pubblico consistono in una prova scritta ed in un colloquio.
 
@@ -189,6 +364,31 @@ I vincitori del concorso di cui all'art. 15, comma 1, lettera a), sono nominati 
 
 Gli allievi vice ispettori durante i primi cinque mesi di corso non possono essere impiegati in servizio d'istituto; nel periodo successivo possono esserlo esclusivamente a fine di addestramento per il servizio di vice ispettore e per un periodo complessivamente non superiore a un mese.
 
+3.
+                        
+                            
+                                Sono dimessi dal corso gli allievi vice ispettori che:
+ 
+                            
+                            
+                                a)
+                                
+                                    non superano gli esami del corso o non sono dichiarati idonei al servizio;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    dichiarano di rinunciare al corso;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    sono stati per qualsiasi motivo assenti dal corso per piu' di ((novanta)) giorni anche non consecutivi e di ((centoventi)) giorni se l'assenza e' stata determinata da infermita' contratta durante il corso, salvo che essa sia stata contratta a causa delle esercitazioni pratiche, nel qual caso l'allievo e' ammesso a partecipare al primo corso successivo al riconoscimento della sua idoneita'. Gli allievi vice ispettori di sesso femminile, la cui assenza oltre i limiti di cui al comma 2 sia stata determinata da maternita', sono ammessi a partecipare al primo corso successivo ai periodi di assenza dal lavoro previsti dalle disposizioni sulla tutela delle lavoratrici madri.
+
 Sono espulsi dal corso gli allievi vice ispettori responsabili di mancanze punibili con sanzioni disciplinari piu' gravi della ((sospensione dallo stipendio superiore a sei giorni)).
 
 I provvedimenti di dimissione e di espulsione dal corso sono adottati con decreto del direttore generale della Direzione generale delle risorse forestali, montane e idriche su proposta del direttore della scuola. La dimissione dal corso comporta la cessazione di ogni rapporto con l'amministrazione salvo che non si tratti di personale proveniente dai ruoli del Corpo forestale dello Stato. ((3))
@@ -210,6 +410,24 @@ La promozione alla qualifica di ispettore si consegue a ruolo aperto mediante sc
 La promozione alla qualifica di ispettore capo si consegue a ruolo aperto mediante scrutinio ((per merito assoluto)), al quale e' ammesso il personale con la qualifica di ispettore, che abbia compiuto almeno sette anni di effettivo servizio nella qualifica stessa.
 
 ## Art. 21. — Promozione alla qualifica di ispettore superiore
+
+1.
+                        
+                            
+                                L'accesso alla qualifica di ispettore superiore si consegue:
+ 
+                            
+                            
+                                a)
+                                
+                                    nel limite del cinquanta per cento dei posti disponibili al 31 dicembre di ogni anno mediante scrutinio per merito comparativo al quale e' ammesso il personale avente un'anzianita' di otto anni di effettivo servizio nella qualifica di ispettore capo;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    per il restante cinquanta per cento dei posti mediante concorso annuale per titoli di servizio ed esami, riservato al personale che alla data del 31 dicembre di ciascun anno, riveste la qualifica di ispettore capo e sia in possesso del titolo di studio previsto dall'art. 15, lettera b).
 
 La promozione decorre, a tutti gli effetti, dal 1 gennaio dell'anno successivo a quello nel quale si sono verificate le vacanze. Il personale di cui alla lettera a) precede nel ruolo quello di cui alla lettera b). I posti non coperti mediante concorso sono portati in aumento all'aliquota prevista dalla lettera a).
 
@@ -278,6 +496,39 @@ Tutte le disposizioni legislative vigenti che si riferiscono al ruolo dei sottuf
 ## Art. 25. — Istituzione dei ruoli del personale che svolge attivita'
  tecnico-scientifica, tecnico-strumentale ed amministrativa
 
+1.
+                        
+                            
+                                Nell'ambito delle dotazioni organiche del personale del Corpo forestale dello Stato sono istituiti i seguenti ruoli del personale che svolge attivita' tecnico-scientifica, tecnico-strumentale ed amministrativa per le esigenze organizzative ed operative del Corpo, intrinsecamente coordinate a quelle dell'altro personale con qualifica di polizia giudiziaria e di pubblica sicurezza, sottordinati rispettivamente l'uno all'altro e tutti a quelli degli ufficiali:
+ 
+                            
+                            
+                                a)
+                                
+                                    
+                                        ((LETTERA SOPPRESSA DAL D.LGS. 28 FEBBRAIO 2001, N. 87)); ((3))
+                                    
+                                
+                            
+                            
+                                b)
+                                
+                                    ruolo degli operatori e dei collaboratori;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    ruolo dei revisori;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    ruolo dei periti.
+
 Nella tabella B allegata al presente decreto, sono determinate le dotazioni organiche dei ruoli indicati al comma 1, nonche' l'equiparazione tra le qualifiche degli appartenenti al Corpo forestale dello Stato con quelle della Polizia di Stato.
 
 Sono soppresse per il personale del Corpo forestale dello Stato senza qualifiche di polizia giudiziaria e di pubblica sicurezza le dotazioni organiche di seconda, terza, quarta, quinta e sesta qualifica funzionale e dei relativi profili professionali nonche' il contingente di qualifica dei corrispondenti profili professionali della dotazione organica della settima qualifica funzionale, individuati nella tabella A allegata al decreto del Presidente del Consiglio dei Ministri 15 novembre 1988, pubblicato sul supplemento ordinario alla Gazzetta Ufficiale n. 33 dell'8 febbraio 1991 - Serie generale.
@@ -319,6 +570,31 @@ Il personale appartenente al ruolo degli operatori e dei collaboratori svolge ma
 I collaboratori ed i collaboratori capo possono, in relazione alla professionalita' posseduta, svolgere compiti di addestramento del personale sottordinato ed avere responsabilita' di guida e di controllo di altre persone.
 
 ## Art. 32. — Nomina ad operatore
+
+1.
+                        
+                            
+                                La nomina alla qualifica di operatore si consegue mediante pubblico concorso per esami al quale sono ammessi i cittadini italiani che abbiano:
+ 
+                            
+                            
+                                a)
+                                
+                                    titolo di studio della scuola dell'obbligo;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    qualita' morali e di condotta come previsto dall'articolo 26 della legge 1o febbraio 1989, n. 53;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    gli altri requisiti generali previsti per la partecipazione ai pubblici concorsi per l'accesso ai pubblici impieghi.
 
 Non sono ammessi al concorso coloro che sono stati esclusi dall'elettorato politico attivo e coloro che sono stati destituiti dall'impiego presso una pubblica amministrazione.
 
@@ -367,6 +643,24 @@ Lo stesso personale esercita, inoltre, nel settore di impiego, attivita' di guid
 Al personale della qualifica di revisore capo, oltre a quanto gia' specificato, possono essere attribuiti incarichi specialistici richiedenti particolari conoscenze ed attitudini ed essere attribuiti compiti di addestramento del personale sottordinato.
 
 ## Art. 36. — Nomina a vice revisore
+
+1.
+                        
+                            
+                                La nomina a vice revisore si consegue:
+ 
+                            
+                            
+                                a)
+                                
+                                    nel limite del settanta per cento dei posti disponibili, al 31 dicembre di ogni anno, mediante concorso interno per titoli e superamento di ((una prova scritta teorico-pratica tendente ad accertare il grado di preparazione professionale e)) un successivo corso di formazione professionale di durata non inferiore a ((sei mesi)). Al concorso sono ammessi gli appartenenti al ruolo degli operatori e collaboratori provenienti da profili professionali omogenei a quello per cui e' bandito il concorso, che abbiano compiuto, alla stessa data, almeno quattro anni di effettivo servizio e non abbiano riportato, nei due anni precedenti, sanzioni disciplinari piu' gravi della ((sospensione dallo stipendio superiore a sei giorni)). Il trenta per cento dei posti e' riservato al personale con qualifica di collaboratore capo;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    nel limite del restante trenta per cento dei posti disponibili, mediante concorso pubblico per esame ((scritto)) teorico-pratico e superamento di un successivo corso di formazione professionale di durata non inferiore a dodici mesi. Al concorso possono partecipare i cittadini italiani in possesso, oltre che dei requisiti di cui ((all'articolo 32)), comma 1, lettere b) e c), e comma 2, di un diploma di istruzione professionale almeno triennale conseguito presso un istituto statale, o, comunque, riconosciuto dallo Stato, ovvero di un diploma o di un attestato di qualifica rilasciato dalle regioni al termine di corsi di durata almeno triennale nell'ambito della formazione professionale. Il dieci per cento dei posti disponibili e' riservato al personale del ruolo degli operatori e collaboratori in possesso del prescritto titolo di studio.
 
 Le modalita' di svolgimento del concorso di cui al comma 1, lettera a), compresa la determinazione delle categorie di titoli ((le materie oggetto dell'esame teorico-pratico e la composizione della commissione)) nonche' i programmi e le modalita' di svolgimento del corso di cui al comma 1, lettere a) e b), in relazione alla specificita' delle mansioni previste e quelle di svolgimento degli esami di fine corso sono fissati con decreto ministeriale.
 
@@ -436,6 +730,24 @@ Nell'ambito del ruolo dei periti, il personale appartenente alle qualifiche di v
 
 ## Art. 41. — Nomina a vice perito
 
+1.
+                        
+                            
+                                La nomina a vice perito si consegue:
+ 
+                            
+                            
+                                a)
+                                
+                                    nel limite del cinquanta per cento dei posti disponibili mediante concorso pubblico per esami e superamento di un successivo corso di formazione professionale;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    per il restante cinquanta per cento mediante concorso interno per titoli ed esami.
+
 ## Art. 42. — Concorso pubblico per la nomina a vice perito
 
 Al concorso di cui all'art. 41, comma 1, lettera a), possono partecipare i cittadini italiani in possesso oltre che dei requisiti generali per la partecipazione ai pubblici concorsi di cui ((all'art. 32)), lettere b) e c), del titolo di studio di istruzione secondaria (( superiore che consente l'iscrizione ai corsi per il conseguimento del diploma universitario)), (( . . . )).
@@ -485,6 +797,24 @@ La promozione alla qualifica di perito capo si consegue a ruolo aperto, mediante
 ## Art. 47. — Promozione alla qualifica di perito superiore
 
 Le promozioni alla qualifica di perito superiore sono conferite nei limiti dei posti disponibili nei contingenti di ciascun profilo professionale.
+
+2.
+                        
+                            
+                                L'accesso alla qualifica di perito superiore si consegue:
+ 
+                            
+                            
+                                a)
+                                
+                                    nel limite del cinquanta per cento dei posti disponibili al 31 dicembre di ogni anno mediante scrutinio per merito comparativo al quale e' ammesso il personale avente una anzianita' di otto anni di effettivo servizio nella qualifica di perito capo;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    per il restante cinquanta per cento dei posti, mediante concorso per titoli di servizio ed esame, riservato al personale che, alla data del 31 dicembre di ciascun anno, riveste la qualifica di perito capo.
 
 Allo scrutinio ed al concorso di cui al comma 2, lettere a) e b), sono ammessi gli appartenenti al profilo professionale sottordinato a quello nel quale si sono verificate le vacanze, in possesso del titolo di studio di istruzione secondaria ((superiore che consente l'iscrizione ai corsi per il conseguimento del diploma universitario)) e, ove sia previsto, dell'abilitazione all'esercizio dell'attivita' inerente al profilo professionale per il quale si concorre. ((2))
 

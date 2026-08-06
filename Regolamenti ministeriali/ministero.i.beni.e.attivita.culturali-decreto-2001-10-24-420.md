@@ -8,8 +8,8 @@ codice_redazionale: 001G0474
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:39Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -24,6 +24,31 @@ Udito il parere del Consiglio di Stato espresso dalla Sezione consultiva per gli
 Udito il parere dell'Autorita' di vigilanza sui lavori pubblici espresso in data 13 settembre 2001;
 
 ## Art. 1. — Modifiche all'articolo 5 del decreto del Ministro per i beni e le attivita' culturali 3 agosto 2000, n. 294, in materia di idoneita' organizzativa.
+
+1.
+                    
+                        
+                            All'articolo 5 del decreto del Ministro per i beni e le attivita' culturali 3 agosto 2000, n. 294, sono apportate le seguenti modificazioni e integrazioni:
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 1, le parole "operatori qualificati" e "cinquanta" sono sostituite rispettivamente con le parole "collaboratori restauratori di beni culturali" e "quaranta";
+
+                            
+                        
+                        
+                            b)
+                            
+                                il comma 2 e' sostituito dal seguente: "2. In alternativa a quanto previsto dal comma 1, l'idoneita' organizzativa dell'impresa e' dimostrata dall'aver sostenuto per il personale dipendente con qualifica di restauratore e di collaboratore restauratore di beni culturali, come definite dal presente regolamento, un costo complessivo, composto da retribuzione e stipendi, contributi sociali e accantonamenti ai fondi di quiescenza, non inferiore rispettivamente al venti e al trenta per cento dell'importo dei lavori che rientrano nella categoria OS2 di cui all'allegato A del decreto n. 34, realizzati nel quinquennio antecedente la data di sottoscrizione del contratto con la societa' organismo d'attestazione.";
+
+                            
+                        
+                        
+                            c)
+                            
+                                il comma 4 e' sostituito dal seguente: "4. I restauratori e i collaboratori restauratori di beni culturali di cui al comma 1 devono avere un rapporto di lavoro a tempo indeterminato con l'impresa ovvero, nel limite del trenta per cento del loro numero complessivo, un rapporto di lavoro a tempo determinato o di collaborazione coordinata e continuativa, in entrambi i casi di durata non inferiore a un anno.".
 
 ## Art. 2. — Modifiche all'articolo 6 del decreto del Ministro per i beni e le attivita' culturali 3 agosto 2000, n. 294, in materia di capacita' economica e finanziaria.
 

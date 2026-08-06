@@ -7,8 +7,8 @@ urn: urn:nir:ministero.infrastrutture.e.trasporti:decreto:2023-10-11;166
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:39Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -32,6 +32,52 @@ Udito il parere del Consiglio di Stato, espresso dalla sezione consultiva per gl
 
 ## Art. 1. — Definizioni
 
+1.
+                    
+                        
+                            Ai fini del presente regolamento sono adottate le seguenti definizioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                «Ministero»: il Ministero delle infrastrutture e dei trasporti; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                «Direzione generale»: la Direzione generale per le politiche integrate di mobilita' sostenibile, la logistica e l'intermodalita' del Ministero; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                «Soggetto gestore»: la societa' RAM, logistica, infrastrutture e trasporti S.p.A., soggetto incaricato dal Ministero delle attivita' di istruttoria, gestione operativa e monitoraggio dell'intervento; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                «Imprese»: imprese, raggruppamenti, temporanei o permanenti, di imprese o societa', anche costituite a norma del libro V, titolo VI, capo I, o del libro V, titolo X, capo II, sezioni II e II-bis del codice civile, aventi sede legale nel territorio dello Spazio economico europeo o in uno degli Stati membri dell'Unione europea che, al fine di effettuare servizi di trasporto merci per conto di terzi, utilizzano servizi marittimi Ro-Ro o Ro-Pax su rotte intracomunitarie; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                «Servizi marittimi Ro-Ro»: i servizi offerti da navi munite di specifiche attrezzature che le rendono atte prevalentemente al trasporto di rotabili ferroviari o veicoli stradali con imbarco e sbarco degli stessi sulle proprie ruote e con imbarco di un numero limitato di passeggeri; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                «Servizi marittimi Ro-Pax»: i servizi offerti da navi munite di specifiche attrezzature che le rendono atte anche al trasporto di rotabili ferroviari o veicoli stradali con imbarco e sbarco degli stessi sulle proprie ruote e con prevalente imbarco di passeggeri.
+
 ## Art. 2.
 
 Ambito di applicazione 
@@ -45,6 +91,52 @@ Gli interventi di cui al presente regolamento compensano parzialmente la differe
 
 Gli adempimenti tecnici e amministrativi riguardanti la gestione operativa, l'istruttoria delle domande, nonche' l'esecuzione dei monitoraggi e dei controlli di cui al presente regolamento sono svolti dal Soggetto gestore, ai sensi dell'articolo 19, comma 5, del decreto-legge 1° luglio 2009, n. 78, convertito, con modificazioni, dalla legge 3 agosto 2009, n. 102, con le modalita' e nei termini di cui ad apposito accordo di servizio stipulato con il Ministero.
 
+2.
+                    
+                        
+                            Il Soggetto gestore: 
+ 
+                        
+                        
+                            a)
+                            
+                                collabora con il Ministero per la predisposizione delle procedure di accesso ai contributi; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                fornisce assistenza tecnica al Ministero e ai beneficiari; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                realizza la gestione operativa dei provvedimenti adottati nel rispetto del presente regolamento, ivi comprese tutte le attivita' di informatizzazione e archiviazione dei dati, istruttoria, verifica, analisi e comunicazione operativa con i beneficiari, seguendo le indicazioni fornite dalla Direzione generale; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                fornisce assistenza tecnica al Ministero nella fase di chiusura delle attivita' relative a tali contributi; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                monitora l'andamento dei procedimenti e dei loro effetti sul settore; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                svolge le attivita' di controllo, sulla base delle specifiche fornite dalla Direzione generale.
+
 Gli oneri derivanti dall'accordo previsto dal comma 1 sono a carico delle risorse di cui all'articolo 2, nel limite massimo annuo dell'1,5 per cento e, comunque, sono definiti in base a uno specifico preventivo che tenga conto, per il personale impiegato, delle giornate/uomo impegnate e delle relative tariffe applicabili, debitamente suddivise nelle componenti di costo diretto, costo gestionale e costo aziendale, per i costi direttamente imputabili all'esecuzione delle attivita', della spesa da sostenere, per le componenti di costo indiretto, della percentuale riconoscibile e, per gli eventuali costi per viaggi e trasferte, delle spese preventivabili. Gli oneri effettivamente risultanti sono riconosciuti previa presentazione e approvazione di apposita rendicontazione redatta secondo le specifiche contenute nell'accordo di servizio medesimo in conformita' al preventivo di cui al primo periodo.
 
 Il Ministero esercita le funzioni decisoria, di iniziativa, di vigilanza e di controllo, in ordine alle attivita' espletate dal Soggetto gestore. A tal fine, quest'ultimo assicura la massima collaborazione, tempestivita', diligenza e serieta' nell'adempimento delle richieste, degli ordini e delle sollecitazioni del Ministero sulle attivita' tecniche e istruttorie relative alle procedure di cui e' responsabile.
@@ -52,6 +144,66 @@ Il Ministero esercita le funzioni decisoria, di iniziativa, di vigilanza e di co
 ## Art. 4. — Soggetti beneficiari
 
 Possono beneficiare dei contributi di cui al presente regolamento le Imprese che imbarchino su navi Ro-Ro e Ro-Pax veicoli o cassemobili, accompagnati o meno dai relativi autisti, al fine di percorrere le tratte marittime individuate e indicate nell'Allegato A al presente regolamento.
+
+2.
+                    
+                        
+                            Ai fini dell'accesso ai contributi di cui al presente regolamento, le Imprese di cui al comma 1 devono presentare apposita autodichiarazione, redatta in conformita' a quanto previsto dal decreto del Presidente della Repubblica 28 dicembre 2000, n. 445, da cui risulta che le stesse: 
+ 
+                        
+                        
+                            a)
+                            
+                                sono regolarmente costituite e iscritte nel registro delle imprese o equivalenti; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                sono nel pieno e libero esercizio dei propri diritti e non si trovano in una delle situazioni previste dagli articoli 94 e 97 del decreto legislativo 31 marzo 2023, n. 36, in quanto applicabili; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                non sono sottoposte a liquidazione giudiziale, concordato preventivo liquidatorio, liquidazione coatta amministrativa, amministrazione straordinaria, oppure a procedure volontarie di liquidazione e scioglimento della societa'; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                operano nel rispetto delle norme e degli obblighi europei in materia di lavoro; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                sono in regola con la disciplina antiriciclaggio e antiterrorismo di cui al decreto legislativo 21 novembre 2007, n. 231; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                non si trovano in condizioni ostative alla concessione delle agevolazioni ai sensi della normativa antimafia di cui al decreto legislativo 6 settembre 2011, n. 159; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                hanno integralmente restituito le agevolazioni pubbliche godute delle quali sia stata eventualmente disposta la restituzione; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                non rientrano tra le imprese che hanno ricevuto e, successivamente, non rimborsato o depositato in un conto bloccato, aiuti dichiarati illegali o incompatibili dalla Commissione europea.
 
 Il possesso dei requisiti di cui ai commi 1 e 2 deve essere dimostrato alla data di presentazione della domanda di ammissione.
 
@@ -102,6 +254,87 @@ Il contributo di cui al comma 1 e' attribuito a condizione che, a consuntivo del
 
 ## Art. 9. — Presentazione della domanda
 
+1.
+                    
+                        
+                            Per accedere ai contributi le Imprese, nonche' le strutture societarie, risultanti dall'aggregazione di dette Imprese, costituite a norma del libro V, titolo VI, capo I, o del libro V, titolo X, capo II, sezioni II e II-bis del codice civile, e iscritte al registro elettronico nazionale istituito dal regolamento (CE) n. 1071/2009 del Parlamento europeo e del Consiglio, del 21 ottobre 2009, devono presentare istanza al Ministero entro la data e secondo le modalita' indicate in apposito decreto della Direzione generale. La domanda deve contenere, a pena di inammissibilita': 
+ 
+                        
+                        
+                            a)
+                            
+                                ragione sociale dell'Impresa; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                sede legale dell'Impresa; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                legale rappresentante dell'Impresa; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                codice fiscale; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                partita IVA; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                indirizzo di posta elettronica certificata; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                indirizzo del legale rappresentante dell'Impresa; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                firma del legale rappresentante dell'Impresa; 
+
+                            
+                        
+                        
+                            i)
+                            
+                                numero di iscrizione al Registro elettronico o numero di iscrizione all'Albo degli autotrasportatori o analoga registrazione che consenta il trasporto delle merci su strada per conto terzi (licenza comunitaria); 
+
+                            
+                        
+                        
+                            l)
+                            
+                                iscrizione alla Camera di commercio, industria e artigianato o analoghi registri nazionali; 
+
+                            
+                        
+                        
+                            m)
+                            
+                                piano previsionale degli imbarchi per l'annualita' successiva.
+
 Ogni Impresa, anche se associata a un consorzio o a una cooperativa, puo' presentare un'unica domanda di contributo all'anno.
 Ai fini della verifica dell'unicita' delle domande, rileva il numero o il codice identificativo dell'Impresa che ne permetta l'identificazione univoca ai fini fiscali. Ai fini del presente comma, le Imprese, singolarmente o attraverso le loro aggregazioni, indicano chiaramente, a pena di esclusione, il numero o il codice identificativo.
 
@@ -118,6 +351,31 @@ L'ammissione al contributo e' notificata alle imprese ammesse al contributo dal 
 
 ## Art. 11. — Rendicontazione e monitoraggio
 
+1.
+                    
+                        
+                            I richiedenti il contributo, entro il termine di cui al comma 3, presentano al Ministero richiesta di riconoscimento di contributi, allegando all'istanza, anche in formato digitale editabile, la rendicontazione dei viaggi effettuati nell'annualita' in cui sono stati fruiti i servizi sulle tratte marittime identificate nella domanda contenente le seguenti informazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                tratta marittima utilizzata; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                importo pagato al netto dell'IVA per tratta marittima utilizzata; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                numero dei viaggi effettuati per tratta marittima utilizzata.
+
 Per i viaggi effettuati nell'annualita' di riferimento, deve essere allegata la documentazione contabile che attesti l'avvenuto pagamento dei viaggi effettuati ovvero le fatture quietanzate relative ai viaggi rendicontati, oppure le polizze o bolle di imbarco quietanzate rilasciate dal vettore marittimo ovvero una idonea, corrispondente certificazione rilasciata dal vettore marittimo o dal soggetto intermediario in cui si attesti l'effettivo pagamento dei viaggi effettuati.
 
 I beneficiari, qualora non abbiano prodotto quietanze di pagamento all'atto della richiesta di riconoscimento di contributi, possono trasmettere la documentazione di cui al comma 2 entro il termine di cui al quarto periodo. Alla scadenza di tale termine le tratte marittime per le quali non siano state prodotte evidenze contabili relative al pagamento sono escluse dal calcolo del contributo. La produzione di eventuali note di credito dai fornitori di servizi marittimi, a fronte di fatture emesse, non allegate alla rendicontazione, costituisce causa di revoca, determinando decadenza dal contributo ed eventuale recupero dello stesso secondo quanto disposto dall'articolo 15. Con apposito provvedimento della Direzione generale sono stabiliti i termini per la presentazione delle istanze di cui al comma 1, nonche' per la trasmissione della documentazione di cui al primo periodo.
@@ -130,7 +388,43 @@ Il Ministero, avvalendosi del Soggetto gestore, verifica la veridicita' dei dati
 
 ## Art. 12. — Erogazione del contributo
 
+1.
+                    
+                        
+                            L'erogazione del contributo e' subordinata: 
+ 
+                        
+                        
+                            a)
+                            
+                                al rilascio dell'informazione antimafia liberatoria nel caso in cui il contributo sia superiore o uguale a 150.000 euro, fermo restando quanto previsto dal decreto legislativo n. 159 del 2011; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                alla dichiarazione del beneficiario di non rientrare fra coloro che hanno ricevuto e, successivamente, non rimborsato o depositato in un conto bloccato, gli aiuti che sono individuati quali illegali o incompatibili dalla Commissione europea, ai sensi dell'articolo 46 della legge 24 dicembre 2012, n. 234, nonche' alla disponibilita' delle risorse cosi' come rimodulate ai sensi dell'articolo 8 del presente regolamento.
+
 ## Art. 13. — Cumulo del contributo
+
+1.
+                    
+                        
+                            Nel caso di coesistenza, per le medesime finalita', di altri interventi di natura pubblica, europei, statali, regionali ed enti locali, la contribuzione complessiva non puo' eccedere per ciascun beneficiario: 
+ 
+                        
+                        
+                            a)
+                            
+                                il 30 per cento del costo medio del trasporto marittimo per la specifica rotta; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                il 50 per cento del differenziale fra il trasporto stradale e quello marittimo, dei costi esterni per esternalita' negative per unita' di massa di merce trasportata sulla specifica rotta ed equivalente tratto stradale secondo la tabella dell'Allegato A.
 
 Il Ministero, avvalendosi del Soggetto gestore, sulla base delle rendicontazioni fornite dai beneficiari e della relativa documentazione, verifica, per tutto il periodo di incentivazione e per singolo beneficiario, il rispetto dei limiti indicati dal comma 1.
 

@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
 vigenza_date: 1991-01-11
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:39Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -35,6 +35,69 @@ Sentito il nucleo di valutazione;
 Udito il parere del Consiglio di Stato;
 
 ## Art. 1. — Individuazione dei criteri
+
+1.
+                    
+                        
+                            Gli interventi in materia di ristrutturazione edilizia e di ammodernamento tecnologico del patrimonio sanitario pubblico e di realizzazione di residenze per anziani e soggetti non autosufficienti di cui all'art. 20 della legge 11 marzo 1988, n. 67, sono destinati al conseguimento degli obiettivi indicati nell'articolo stesso attraverso i seguenti criteri:
+ 
+                        
+                        
+                            a)
+                            
+                                il riequilibrio qualitativo e quantitativo delle dotazioni sanitarie strutturali e tecnologiche va realizzato sia nell'ambito interregionale, mediante riserva di finanziamenti in ragione del 50 per cento alle regioni dell'Italia meridionale e insulare, sia all'interno delle singole regioni avendo riguardo alla razionalizzazione dei sistemi ospedalieri delle aree metropolitane di Roma, Milano, Napoli, Torino, Genova, Palermo e delle aree polarizzate sulle citta' di Bari, Bologna, Catania, Firenze e Venezia;
+
+                            
+                        
+                        
+                            b)
+                            
+                                per la realizzazione o l'acquisizione di strutture residenziali per anziani prevalentemente non autosufficienti e di quelle per handicappati e disabili psichici e sensoriali sono riservati, sulla disponibilita' di 10 mila miliardi complessiva del primo triennio, miliardi 2.670, di cui miliardi 400 per strutture destinate ad handicappati e disabili;
+
+                            
+                        
+                        
+                            c)
+                            
+                                le percentuali dei posti letto di cui al comma 2, lettere b) e c), del citato art. 20 si riferiscono al numero dei posti letto pubblici complessivi nazionali, ivi compresi quelli degli istituti di ricovero e cura a carattere scientifico nonche' i policlinici universitari, secondo la riorganizzazione di cui al decreto ministeriale 13 settembre 1988, tenendo conto della necessita' di assicurare idonea distribuzione territoriale alle varie specializzazioni e, a piu' larga maglia, alle alte specialita'. Gli interventi di riorganizzazione della rete ospedaliera debbono essere finalizzati a realizzare la concentrazione in ospedali di dimensioni tra 300 e 800 posti letto, di un numero di specializzazioni che copra la massima parte dei bisogni assistenziali della popolazione dell'area territoriale di riferimento. Va riservato ad un numero limitato di ospedali di alta complessita' e ad elevata tecnologia il trattamento delle patologie di particolare gravita', secondo le indicazioni del sopracitato decreto ministeriale 13 settembre 1988, valido e operante in attesa delle norme di modifica della legge 12 febbraio 1968, n. 132, e dei relativi decreti di attuazione;
+
+                            
+                        
+                        
+                            d)
+                            
+                                nelle strutture ospedaliere vanno realizzati servizi ambulatoriali a supporto delle esigenze territoriali dell'unita' sanitaria locale;
+
+                            
+                        
+                        
+                            e)
+                            
+                                le esigenze di ammodernamento e potenziamento tecnologico vanno soddisfatte in particolare dove il servizio pubblico e' stato in passato costretto al frequente ricorso al settore privato convenzionato;
+
+                            
+                        
+                        
+                            f)
+                            
+                                sulla disponibilita' complessiva di 10 mila miliardi relativa al primo triennio, una quota del 5% deve essere riservata al potenziamento delle strutture riguardanti la prevenzione collettiva;
+
+                            
+                        
+                        
+                            g)
+                            
+                                la manutenzione straordinaria del patrimonio sanitario pubblico, da realizzare con le risorse in conto capitale del fondo sanitario nazionale, riguarda in particolare alcune misure contingenti e non procrastinabili, fra le quali il miglioramento del decoro e del conforto delle strutture sanitarie frequentate dai cittadini, ivi comprese:
+ 1) la riduzione delle barriere architettoniche;
+ 2) la manutenzione straordinaria dei forni inceneritori e delle strutture connesse;
+ 3) l'adozione delle piu' urgenti misure dirette a prevenire le infezioni ospedaliere;
+
+                            
+                        
+                        
+                            h)
+                            
+                                nell'adeguamento alle norme di sicurezza occorre considerare prioritariamente la messa a norma di impianti e attrezzature e il contenimento dei consumi energetici.
 
 ## Art. 2. — Standard delle strutture residenziali
  e integrazioni funzionali
@@ -97,9 +160,66 @@ Dalla data di approvazione del programma nazionale le regioni e le province auto
 
 I progetti debbono pervenire anche al Ministero della sanita', corredati, in separato plico, da elaborati che mettano in evidenza eventuali varianti rispetto alle proposte formulate o agli studi di fattibilita', a scala 1:200.
 
+9.
+                    
+                        
+                            Il Ministro della sanita' entro trenta giorni dalla data di ricevimento dei progetti:
+ 
+                        
+                        
+                            a)
+                            
+                                verifica la rispondenza e la validita' tecnico-sanitaria degli stessi sotto il profilo tecnologico, economico, di qualita' e di affidabilita';
+
+                            
+                        
+                        
+                            b)
+                            
+                                ordina, ove occorra e con provvedimento motivato, di apportare modifiche o correzioni progettuali: qualora queste non intervengano entro il termine di trenta giorni dalla notifica del provvedimento, la procedura di finanziamento e' sospesa; nello stesso termine le regioni e le province autonome possono chiedere il riesame e il Ministro provvede entro trenta giorni dalla data di ricevimento del ricorso, sentito il proprio nucleo di valutazione. Il decorso del termine senza decisioni di merito su ricorsi da parte del Ministro della sanita', equivale ad assenso alla proposta dell'intervento come presentata dalla regione o provincia autonoma.
+
 ## Art. 7. — Studi di fattibilita'
 
 Limitatamente alle maggiori opere, la progettazione va preceduta da studi di fattibilita' di natura interdisciplinare, finalizzati ad individuare soluzioni ottimali ai bisogni da soddisfare e a mettere la pubblica amministrazione committente nella condizione di definire i riferimenti e i vincoli ai quali debbono uniformarsi le proposte progettuali.
+
+2.
+                    
+                        
+                            Gli studi di fattibilita' debbono contenere:
+ 
+                        
+                        
+                            a)
+                            
+                                la definizione dei contenuti funzionali e delle soluzioni spaziali delle singole opere, raccordate ai bisogni da soddisfare e finalizzate all'accrescimento dell'efficienza della struttura;
+
+                            
+                        
+                        
+                            b)
+                            
+                                la definizione delle indicazioni tecniche che i progettisti sono tenuti ad osservare nella progettazione di massima e di dettaglio delle opere;
+
+                            
+                        
+                        
+                            c)
+                            
+                                la verifica della fattibilita' tecnica dell'intervento nel suo iter complessivo;
+
+                            
+                        
+                        
+                            d)
+                            
+                                l'analisi dei costi e dei benefici;
+
+                            
+                        
+                        
+                            e)
+                            
+                                il programma di attuazione degli interventi, corredato da un cronogramma delle fasi di realizzazione.
 
 La definizione dei contenuti funzionali e delle soluzioni spaziali delle singole opere va suffragata da pertinenti elementi di conoscenza, quali la rilevazione e la stima dei bisogni in termini quantitativi e qualitativi, nel presente e come tendenza evolutiva; il dimensionamento e la distribuzione delle soluzioni strutturali; la definizione dei dati di progetto, cui pervenire attraverso il confronto con gli amministratori e gli operatori della struttura, con specificazione, per ciascuna funzione, delle aree destinate, delle risorse umane e materiali da impiegarvi, dei rapporti con le altre funzioni e dei conseguenti flussi; l'indicazione di proposte funzionali distributive in grado di ottimizzare i rapporti tra aree, funzioni e percorsi, all'interno di schemi organizzativi basati di norma su unita' minime funzionali che consentano la migliore utilizzazione del personale, degli strumenti e degli spazi.
 

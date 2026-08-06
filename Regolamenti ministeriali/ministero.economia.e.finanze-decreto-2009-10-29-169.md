@@ -8,8 +8,8 @@ codice_redazionale: 009G0181
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:40Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -31,6 +31,24 @@ Udito il parere del Consiglio di Stato espresso dalla Sezione consultiva per gli
 
 Nelle raffinerie, negli stabilimenti di produzione e negli impianti petrolchimici, nei quali i prodotti energetici sono utilizzati in combinazione come combustibile per riscaldamento e nelle operazioni rientranti fra i «trattamenti definiti» previsti dalla nota complementare 4 del capitolo 27 della nomenclatura combinata, i dati necessari per la determinazione quantitativa e qualitativa dei prodotti sono rilevati direttamente dal depositario autorizzato, qualora disponga di un idoneo sistema informatizzato di controllo dei dati medesimi, che consenta la connessione al sistema stesso da parte dell' Agenzia delle dogane in modo autonomo e diretto.
 
+2.
+                    
+                        
+                            E' ritenuto idoneo un sistema informatizzato di controllo in grado di: 
+ 
+                        
+                        
+                            a)
+                            
+                                rilevare in modo automatico a distanza, attraverso misurazione diretta, i livelli dei serbatoi e le temperature dei prodotti; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                registrare le quantita' introdotte ed estratte, e la relativa densita', rilevate anche attraverso misurazione indiretta.
+
 Il rilevamento del dato della densita' dei prodotti finiti ottenuti negli stabilimenti di produzione e' effettuato dal depositario autorizzato attraverso il prelievo sistematico di campioni, secondo le modalita' stabilite dall'Agenzia delle dogane.
 
 L'accertamento e la liquidazione dell'imposta afferente i prodotti ottenuti negli impianti di lavorazione sono effettuati dall'Ufficio delle dogane territorialmente competente avvalendosi dei dati forniti dal sistema informatizzato, secondo le modalita' stabilite dalla stessa Agenzia delle dogane.
@@ -40,6 +58,45 @@ Negli impianti di produzione, i prodotti gia' accertati che residuano al termine
 Le eventuali differenze tra le risultanze contabili, i dati forniti dal sistema informatizzato e quelli rilevati manualmente in misura superiore a quanto consentito, dovranno essere giustificate dal depositario autorizzato e, in mancanza di cio', troveranno applicazione le vigenti disposizioni sanzionatorie in materia.
 
 ## Art. 2. — Inoltro delle istanze
+
+1.
+                    
+                        
+                            Il depositario che intende avvalersi della procedura di cui all'articolo 1, comma 1, presenta apposita istanza direttamente all'Ufficio delle dogane territorialmente competente. L'istanza contiene, oltre agli elementi identificativi del deposito fiscale, le seguenti informazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                caratteristiche tecniche, funzionali ed operative del sistema informatico al quale l'ufficio dell'Agenzia delle dogane territorialmente competente accede direttamente con terminale collegato a livello locale; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                caratteristiche tecniche e dislocazione degli strumenti per la rilevazione automatica a distanza dei livelli dei serbatoi e delle temperature dei prodotti, nonche' modalita' utilizzate per la misurazione indiretta delle quantita' e della densita', con l'indicazione dei punti di connessione al sistema informatizzato per la rilevazione autonoma e diretta delle misure da parte dell'Agenzia delle dogane; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                tipologia dei dati operativi, contabili e di controllo che il sistema informatico e' in grado di rilevare, registrare e storicizzare; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                modalita' di tenuta degli adempimenti contabili ed amministrativi previsti dalle disposizioni vigenti, ovvero della loro tenuta in modo informatico; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                modalita' di redazione dei bilanci di materia e di energia.
 
 Le funzioni e i dati elementari di interesse fiscale che dovranno essere resi disponibili alla Agenzia delle dogane e le relative modalita' di trasmissione per il tramite del sistema telematico doganale, le metodologie operative di controllo, nonche' le caratteristiche tecniche minime e la dislocazione degli strumenti di controllo, sono stabiliti dall'Agenzia delle dogane.
 

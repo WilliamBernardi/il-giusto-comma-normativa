@@ -8,8 +8,8 @@ codice_redazionale: 097G0184
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:42Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -29,6 +29,38 @@ Il presente regolamento modifica il regolamento adottato con decreto del Ministr
 
 ## Art. 2.
 
+1.
+                    
+                        
+                            All'articolo 2 del regolamento sono apportate le seguenti modifiche:
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 5 e' aggiunto il seguente periodo: "E', del pari, consentito che il DAA sia approntato in un numero di esemplari superiore ai quattro previsti, purche' siano contraddistinti dal numero indicativo dell'esemplare e rechino, in maniera indelebile, la scritta "Non valido ai fini del regime delle accise.". I suddetti esemplari aggiuntivi possono essere anch'essi sottoposti a bollatura, unitamente agli altri esemplari.";
+
+                            
+                        
+                        
+                            b)
+                            
+                                il comma 8 e' sostituito dal seguente:
+ " 8. I DAA di tipo commerciale sono emessi utilizzando appositi stampati predisposti dalle tipografie autorizzate dal Ministro delle finanze ai sensi dell'articolo 5, secondo comma, del decreto del Presidente della Repubblica 6 ottobre 1978, n. 627. Per la predisposizione, la fornitura e la contabilizzazione degli stampati si applicano le modalita' di cui agli articoli 10, commi primo, secondo, terzo, quarto e quinto, e 11 del decreto del Ministro delle finanze 29 novembre 1978, pubblicato nella Gazzetta Ufficiale n. 335 del 30 novembre 1978. Gli operatori che ritirano, per la prima volta, i DAA di tipo commerciale presso una tipografia od un rivenditore autorizzato cosegnano ai suddetti venditori copia, vistata dell'UTF, della licenza fiscale di esercizio o, in mancanza, di una apposita autorizzazione dell'UTF o della Dogana, che i venditori medesimi conservano a corredo delle proprie contabilita'. I successivi ritiri sono effettuati previa dichiarazione scritta dell'operatore attestante, sotto la propria responsabilita', la permanenza della validita' del proprio titolo all'emissione dei suddetti documenti. Le tipografie ed i rivenditori autorizzati effettuano all'UTF competente sul territorio dove sono ubicati gli utilizzatori oppure i rivenditori autorizzati la comunicazione dei DAA forniti a tali soggetti entro il giorno 10 di ciascun mese, per gli stampati forniti nel mese precedente. Sul modello fornito possono non essere prestampate le indicazioni di cui al comma 3, lettere a), b) e c), ferma restando l'apposizione, da parte della tipografia autorizzata, della propria numerazione. E'' consentito che il DAA sia approntato con un numero di esemplari superiore ai quattro previsti, secondo la procedura di cui al comma 5. Prima della distribuzione, i DAA di tipo commerciale sono presentati dalle tipografie autorizzate agli UTF, secondo un programma da concordare con i suddetti uffici, per la bollatura, da effettuarsi secondo lemodalita' di cui ai commi da 2 a 6. La copia della domanda di pertinenza della tipografia, con l'attestazione dell'avvenuta bollatura, viene posta a corredo delle registrazioni tenute dalla tipografia medesima, mentre la contabilizzazione dei DAA bollati viene effettuata dall'UTF su un registro analogo a quello tenuto, ai sensi dell'articolo 7, per i DAA di tipo amministrativo.";
+
+                            
+                        
+                        
+                            c)
+                            
+                                il secondo periodo del comma 11 e' sostituito dal seguente: "I DAA sono compilati secondo le indicazioni riportate nelle singole caselle, con le seguenti modifiche od eccezioni, che, relativamente alla lettera a), riguardano solo la circolazione interna:
+ a) e' omessa la compilazione delle caselle 12, 13, 14, 15 e 21; puo' essere omessa la compilazione delle caselle 5 e 6; nella casella 18 e' omessa l'indicazione della densita' a 15 C relativamente agli oli combustibili, ai gas di petrolio liquefatti e al gas metano, mentre per gli altri oli minerali in luogo della densita' a 15 C e' indicato il peso specifico a 15 C, corretto per tener conto della spinta dell'aria; nella casella 19, in caso di trasferimento di gas di petrolio liquefatti, il codice NC e' limitato alle prime quattro cifre; in caso di trasferimento di metano a mezzo carri bombolai, non viene compilata la casella 22 e il quantitativo trasportato e' espresso nella casella 20 in metri cubi alla temperatura di 15 C ed alla pressione normale;
+ b) nella casella 9 viene indicato, oltre al nome del vettore, anche il nome della persona che, per conto del vettore, esegue il trasporto, d'ora in avanti denominata ''incaricato del trasporto''.
+Per i trasferimenti via mare vengono indicati gli elementi identificativi della nave; per i trasferimenti a mezzo tubazione viene apposta la dicitura ''via oleodotto'';
+ c) nella casella 16 sono riportate la data e l'ora d'inizio della spedizione, facendo precedere dallo zero i numeri relativi al giorno, al mese ed all'ora, se costituiti da unita';
+ d) nella casella 17 la durata del viaggio, comprensiva anche delle soste programmate, e' espressa in ore, per i viaggi che terminano entro la giornata in cui sono iniziati, ed in giorni, negli altri casi;
+ e) nella casella B vengono indicati, oltre al cambio del luogo di consegna, anche l'eventuale cambio del destinatario, gli scarichi parziali o l'eventuale rientro in deposito.".
+
 ## Art. 3.
 
 Al comma 2 dell'articolo 3 del regolamento e' aggiunto il seguente periodo: "Il visto apposto dall'ufficio finanziario sull'esemplare n. 3 del DAA ha valore di presa d'atto e di attestazione di conformita' del suddetto esemplare con l'esemplare n. 4.".
@@ -40,15 +72,105 @@ Il comma 3 dell'articolo 4 del regolamento e' sostituito dal seguente:
 
 ## Art. 5.
 
+1.
+                    
+                        
+                            All'articolo 7 del regolamento sono apportate le seguenti modifiche:
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 3 sono aggiunti i seguenti periodi: "Se solo una frazione della partita trasferita e' scaricata, viene avvertito l'UTF competente per l'impianto del destinatario e vengono effettuate le opportune annotazioni sul DAA; la frazione non scaricata viene rinviata al deposito mittente o trasferita ad altro impianto abilitato a riceverla, con la scorta dello stesso DAA, mentre la parte scaricata viene assunta provvisoriamente in carico in base a dichiarazione firmata dall'incaricato del trasporto e dal destinatario. La presa in carico definitiva e' effettuata in base ad un DAA ''non scorta merce'', emesso dal mittente entro il quinto giorno successivo a quello dello scarico parziale del prodotto.";
+
+                            
+                        
+                        
+                            b)
+                            
+                                il terzo periodo del comma 4 e' sostituito dal seguente: "Effettuato lo scarico di ciascuna partita il relativo DAA ''non scorta merce'' viene completato dal destinatario con l'indicazione del quantitativo scaricato.".
+
 ## Art. 6.
 
 Al comma 2 dell'articolo 9 del regolamento e' aggiunto il seguente periodo: "Ai fini della circolazione, le merci contenenti alcole o prodotti di cui ai codici NC 2207 e 2208, esenti, denaturati o non denaturati, non sono considerate sottoposte al regime delle accise.".
 
 ## Art. 7.
 
+1.
+                    
+                        
+                            All'articolo 10 del regolamento sono apportate le seguenti modifiche:
+ 
+                        
+                        
+                            a)
+                            
+                                l'ultimo periodo del comma 2 e' sostituito dal seuente: "Per l'attribuzione del numero identificativo del documento, per l'approntamento con un numero di esemplari superiori ai tre previsti, per la bollatura e la contabilizzazione presso l'UTF, per la circolazione nel solo territorio nazionale, per l'impiego di fogli in bianco o parzialmente prestampati per la compilazione o la stampa informatizzata, per la messa in uso dei modelli, per il cambio della ragione sociale e per l'eventuale utilizzazione di altri sistemi di validazione si seguono le medesime procedure previste, per i DAA di tipo amministrativo, dall'articolo 2, commi da 3 a 7 e da 10 a 12.";
+
+                            
+                        
+                        
+                            b)
+                            
+                                il comma 3 e' sostituito dal seguente:
+ " 3. I DAS sono compilati secondo le indicazioni riportate nei singoli riquadri; nel riquadro 5 sono indicati, oltre al nome del vettore, anche il nome dell'incaricato del trasporto, come definito dall'articolo 2, comma 11, lettera b), nonche' la data e l'ora d'inizio del trasporto, facendo precedere dallo zero i numeri relativi al giorno, al mese ed all'ora, se costituiti da unita'. Per i trasferimenti fra soggetti operanti nel territorio nazionale:
+ a) viene omessa la compilazione dei riquadri 3, 11, 13 e B, tranne il caso, per il riquadro 13, di trasferimenti di carburante destinato a distributori automatici ovvero di oli minerali commercializzati a volume ambiente; in tale evenienza nel suddetto riquadro e' riportato, in luogo del prezzo di fattura, il volume alla temperatura ambiente. Viene pure omessa, nel riquadro 15, l'annotazione relativa al rinvio dell'esemplare n. 3. Il riquadro n. 6 e' riservato alle annotazioni;
+ b) l'indicazione del numero della partita IVA viene omessa nel riquadro 1. In caso di estrazione effettuata per conto di un committente, il numero della partita IVA da riportare nel riquadro 4 e' quello del committente, di cui deve essere indicato anche il nome, preceduto dalle parole: ''per conto''; nei DAS di tipo commerciale il nome del committente ed il suo numero di partita IVA possono essere riportati in un apposito riquadro;
+ c) nel riquadro 8 viene omessa l'indicazione della densita' a 15 C, relativamente agli oli combustibili ed ai gas petroliferi liquefatti; per gli altri oli minerali invece della densita' a 15 C va indicato il peso specifico a 15 C, corretto per tener conto della spinta dell'aria;
+ d) puo' omettersi l'indicazione, nel riquadro 9, del codice NC, quando la denominazione commerciale del prodotto, riportata nel riquadro 8, sia sufficiente anche alla determinazione del suo regime fiscale;
+ e) per gli oli minerali puo' omettersi la compilazione del riquadro 10.";
+
+                            
+                        
+                        
+                            c)
+                            
+                                dopo il comma 4 e' aggiunto il seguente:
+ "4-bis. Nei casi di trasferimenti particolari, per i quali il DAS non possa essere emesso dall'operatore, tale documento e' emesso dall'UTF, su stampato fornito dall'operatore medesimo, previa esibizione della documentazione giustificativa della detenzione del prodotto.".
+
 ## Art. 8.
 
+1.
+                    
+                        
+                            All'articolo 11 del regolamento sono apportate le seguenti modifiche:
+ 
+                        
+                        
+                            a)
+                            
+                                l'alinea e le lettere a) e
+                            
+                        
+                        
+                            b)
+                            
+                                del comma 1, sono cosi' sostituiti: "Per i trasferimenti di merci ad imposta assolta lo speditore e' tenuto:
+ a) ad annotare giornalmente, nel registro di carico e scarico di cui all'articolo 5, comma 3, lettera c) od all'articolo 12, comma 1, del testo unico, il giorno di partenza, i quantitativi complessivamente spediti nella giornata con la scorta del DAS, distintamente per qualita' della merce, ed i numeri d'identificazione dei DAS emessi. Analoghe annotazioni vengono effettuate per le partite estratte con la scorta di documenti commerciali;
+ b) a porre a corredo del suddetto registro gli esemplari n. 1 dei DAS e le matrici dei documenti commerciali emessi;";
+ b) il comma 3 e' sostituito dal seguente:
+ " 3. Lo speditore che disponga di un sistema elettronico o automatico di elaborazione puo' essere dispensato dall'UTF, limitatamente ai trasferimenti aventi termine in territorio nazionale, dall'obbligo di firmare il DAS ed autorizzato ad apporre, in sua vece, anche prestampato, il timbro speciale di cui all'articolo 4, comma 3, a condizione che abbia preventivamente presentato una dichiarazione con la quale si assume la responsabilita' di tutti i rischi connessi ai trasferimenti effettuati con i DAS recanti il suo timbro speciale. In tal caso, nel riquadro 15, in luogo della firma deve essere apposta l'annotazione ''Dispensa dalla firma''.".
+
 ## Art. 9.
+
+1.
+                    
+                        
+                            All'articolo 15 del regolamento sono apportate le seguenti modifiche:
+ 
+                        
+                        
+                            a)
+                            
+                                l'alinea del comma 5, e' sostituito dal seguente: "La reintroduzione nel deposito speditore di una frazione di partita di prodotto ad imposta assolta, non potuta scaricare, per la quale, in relazione all'entita', non si e' resa necessaria l'emissione del DAS, e' consentita con la scorta di una apposita dichiarazione scritta rilasciata dal destinatario, a richiesta del trasportatore, da cui sia possibile rilevare:";
+
+                            
+                        
+                        
+                            b)
+                            
+                                il comma 7 e' sostituito dal seguente:
+ " 7. Qualora una partita di prodotto ad accisa assolta, per la cui movimentazione si renda dovuta l'emissione del DAS, giacente presso un impianto di utilizzazione, debba essere reintrodotta in un deposito commerciale, nel caso in cui l'utilizzatore non sia abilitato all'emissione del suddetto documento lo stesso e' emesso dal destinatario, che vi appone le annotazioni relative al motivo della reintroduzione. L'esemplare n. 1 e' posto, dal destinatario, a corredo delle proprie contabilita'; l'esemplare n. 2 ed una copia dell'esemplare n. 1 vengono sottoscritti, prima dell'inizio del trasporto, anche dall'esercente dell'impianto utilizzatore, che trattiene la copia dell'esemplare n. 1, da custodire a termini di legge e, comunque, per un periodo non inferiore ad un anno, mentre l'esemplare n. 2, a trasporto effettuato, viene custodito unitamente all'esemplare n. 1.".
 
 ## Art. 10.
 

@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
 vigenza_date: 2007-04-12
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:30Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -25,6 +25,38 @@ Acquisiti i pareri delle competenti Commissioni parlamentari;
 Sulla proposta del Presidente del Consiglio dei Ministri e del Ministro per le politiche comunitarie, di concerto con i Ministri degli affari esteri, della giustizia, dell'economia e delle finanze, delle attivita' produttive, della salute e delle comunicazioni;
 
 ## Art. 1. — Definizioni
+
+1.
+                    
+                        
+                            Ai fini del presente decreto legislativo si intendono per:
+ 
+                        
+                        
+                            a)
+                            
+                                prodotti del tabacco: tutti i prodotti destinati ad essere fumati, fiutati, succhiati o masticati se costituiti, anche parzialmente, di tabacco;
+
+                            
+                        
+                        
+                            b)
+                            
+                                pubblicita': ogni forma di comunicazione commerciale che abbia lo scopo o l'effetto, diretto od indiretto, di promuovere un prodotto del tabacco;
+
+                            
+                        
+                        
+                            c)
+                            
+                                sponsorizzazione: qualsiasi forma di contributo pubblico o privato ad un evento, un'attivita' o una persona che abbia lo scopo o l'effetto, diretto od indiretto, di promuovere un prodotto del tabacco;
+
+                            
+                        
+                        
+                            d)
+                            
+                                servizi della societa' dell'informazione: i servizi di cui all'articolo 1, comma 1, lettera b), della legge 21 giugno 1986, n. 317, e successive modificazioni.
 
 ## Art. 2. — Pubblicita' a mezzo stampa e mediante i servizi della societa' dell'informazione
 

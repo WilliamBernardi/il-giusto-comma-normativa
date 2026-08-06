@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
 vigenza_date: 2000-12-31
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:28Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -43,6 +43,24 @@ Con decreto del Ministro dei trasporti e della navigazione, da adottare entro 90
 Le imprese di autotrasporto in conto terzi, cessionarie di rami di aziende relativi al trasporto di cose in conto proprio da parte di altre imprese, possono convertire il relativo tonnellaggio nell'autorizzazione di cui al comma 1, a condizione che non si produca diminuzione del personale addetto ai veicoli in organico al momento della presentazione della domanda di conversione.
 
 Fermo restando il disposto dell'articolo 7, comma 6, della legge 23 dicembre 1997, n. 454, allo scopo di garantire la gradualita' del processo di liberalizzazione e di realizzare la ristrutturazione del settore in conformita' ad obiettivi di cui alla citata legge n. 454 del 1997, le imprese di cui al comma 1 sono autorizzate ad aumentare la capacita' di trasporto fino al raddoppio della massa complessiva autorizzata ai sensi del comma 1. Ai fini dell'aumento non si tiene conto dell'eventuale tonnellaggio acquisito ai sensi del comma 3.
+
+5.
+                    
+                        
+                            Il Ministro dei trasporti e della navigazione puo' concedere un ulteriore aumento della capacita' di trasporto riferita all'autorizzazione di cui al comma 1:
+ 
+                        
+                        
+                            a)
+                            
+                                agli imprenditori iscritti all'albo che, entro il 31 dicembre 2000, realizzino ovvero entrino a far parte di societa' costituite ai sensi delle norme di cui al libro V, titolo VI, capo I o del libro V, titolo X, capo II, sezioni II e II -bis del codice civile;
+
+                            
+                        
+                        
+                            b)
+                            
+                                alle imprese risultanti dai processi di conferimento, incorporazione o fusione tra piu' imprese iscritte all'albo degli autotrasportatori.
 
 Con lo stesso decreto di cui al comma 2 il Ministro dei trasporti e della navigazione, determina le modalita' di attuazione delle disposizioni di cui ai commi 3, 4 e 5.
 

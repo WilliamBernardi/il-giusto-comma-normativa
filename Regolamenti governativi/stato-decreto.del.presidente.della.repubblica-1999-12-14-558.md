@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Regolamenti governativi
 vigenza_date: 2012-12-19
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:15Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -157,6 +157,73 @@ Le domande d'iscrizione nel registro delle imprese relative ad atti non soggetti
 
 
 ## Art. 15. — Abrogazioni
+
+1.
+                    
+                        
+                            Ai sensi dell'articolo 20, comma 4, della legge 15 marzo 1997, n. 59, dalla data di entrata in vigore del presente regolamento sono abrogate le seguenti disposizioni:
+ 
+                        
+                        
+                            a)
+                            
+                                (Lettera non ammessa al "Visto" della Corte dei conti);
+
+                            
+                        
+                        
+                            b)
+                            
+                                
+                                    legge 5 febbraio 1992, n. 122: articoli 2 (il comma 3-bis dell'art. 2, nella parte in cui se ne dispone l'abrogazione, non e' stato ammesso al "Visto" della Corte dei conti), 3, 4, 5 e 13;
+
+                            
+                        
+                        
+                            c)
+                            
+                                
+                                    legge 29 dicembre 1993, n. 580: articolo 8, comma 4;
+
+                            
+                        
+                        
+                            d)
+                            
+                                
+                                    decreto del Presidente della Repubblica 18 aprile 1994, n. 392: articolo 3;
+
+                            
+                        
+                        
+                            e)
+                            
+                                
+                                    legge 25 gennaio 1994, n. 82: articoli 4 e 7, comma 2;
+
+                            
+                        
+                        
+                            f)
+                            
+                                
+                                    decreto del Presidente della Repubblica 18 aprile 1994, n. 387;
+
+                            
+                        
+                        
+                            g)
+                            
+                                
+                                    decreto del Presidente della Repubblica 7 dicembre 1995, n. 581: articolo 1, lettere f) e g), articolo 2, comma 1, lettere b) e c), articolo 5, comma 2 e articolo 7, commi 3, 4 e 6;
+
+                            
+                        
+                        
+                            h)
+                            
+                                
+                                    legge 14 novembre 1941, n. 1442: articolo 6, comma 4.
 
 ## Art. 16. — Entrata in vigore
 

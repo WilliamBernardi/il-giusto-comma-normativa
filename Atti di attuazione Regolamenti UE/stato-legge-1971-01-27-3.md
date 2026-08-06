@@ -9,7 +9,7 @@ vigente: true
 source: normattiva-opendata
 collection: Atti di attuazione Regolamenti UE
 zip_date: 2026-07-24
-fetched_at: 2026-08-02T09:38:54Z
+fetched_at: 2026-07-24
 ---
 
 LEGGE

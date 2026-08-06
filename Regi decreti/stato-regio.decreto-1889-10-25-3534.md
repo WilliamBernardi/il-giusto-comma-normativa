@@ -6,8 +6,8 @@ urn: urn:nir:stato:regio.decreto:1889-10-25;3534
 vigente: true
 source: normattiva-opendata
 collection: Regi decreti
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T10:28:37Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 REGIO DECRETO

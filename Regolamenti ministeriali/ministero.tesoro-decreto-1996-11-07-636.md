@@ -8,8 +8,8 @@ codice_redazionale: 096G0660
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:42Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -31,9 +31,91 @@ il seguente regolamento:
 
 ## Art. 1. — D e f i n i z i o n i
 
+1.
+                    
+                        
+                            Nel presente regolamento l'espressione:
+ 
+                        
+                        
+                            a)
+                            
+                                "Legge" indica la legge 28 novembre 1980, n. 782, come novellata dal decreto-legge 20 maggio 1993, n. 149, convertito dalla legge 19 luglio 1993, n. 237;
+
+                            
+                        
+                        
+                            b)
+                            
+                                "Fondo" indica il fondo di cui all'articolo 2, comma 2, della legge 28 novembre 1980, n. 782, come novellato dal citato decreto-legge n. 149 del 1993;
+
+                            
+                        
+                        
+                            c)
+                            
+                                "banca" indica l'ente creditizio avente sede legale in Italia o in uno degli Stati membri dell'Unione europea;
+
+                            
+                        
+                        
+                            d)
+                            
+                                "finanziaria" indica la societa' finanziaria che svolge attivita' di assunzione di partecipazioni al capitale di societa', iscritta nell'elenco speciale tenuto dalla Banca d'Italia di cui all'articolo 107 del decreto legislativo 1 settembre 1993, n. 385;
+
+                            
+                        
+                        
+                            e)
+                            
+                                "S.F.I.S." indica la societa' finanziaria per l'innovazione e lo sviluppo di cui all'articolo 2, comma 3, della legge 5 ottobre 1991, n. 317;
+
+                            
+                        
+                        
+                            f)
+                            
+                                "intermediario" indica uno qualsiasi dei soggetti di cui alle lettere c), d) ed e);
+
+                            
+                        
+                        
+                            g)
+                            
+                                "Comitato" indica l'organismo competente a deliberare sulla concessione delle anticipazioni, istituito in forza della convenzione stipulata in data 2 marzo 1995 tra il Ministero del tesoro e il Mediocredito centrale ai sensi dell'articolo 3 della legge 26 novembre 1993, n. 489.
+ AVVERTENZA:
+ Il presente decreto regolamentare, concernente la materia creditizia e mobiliare, non e' soggetto al controllo preventivo di legittimita' da parte della Corte dei conti, ai sensi dell'art. 3, comma 13, della legge 14 gennaio 1994, n. 20.
+ AVVERTENZA:
+ Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, comma 3, del testo unico delle disposizioni sulla promulgazione, delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con D.P.R. 28 dicembre 1985, n. 1092, al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
+
 ## Art. 2. — Soggetti destinatari delle anticipazioni
 
 Le anticipazioni a valere sul Fondo sono concesse a banche, S.F.I.S. e finanziarie, che hanno un capitale sociale interamente versato non inferiore a venti volte il capitale minimo previsto dalla legge per la costituzione delle societa' per azioni, nel caso di partecipazioni nelle piccole imprese ovvero cento volte il predetto capitale nel caso di partecipazioni nelle medie imprese.
+
+2.
+                    
+                        
+                            Ai fini dell'ammissione ai benefici previsti dal presente regolamento le finanziarie devono essere in possesso, all'atto della presentazione della domanda, dei seguenti requisiti, che devono permanere per tutto il periodo di durata dell'operazione di anticipazione:
+ 
+                        
+                        
+                            a)
+                            
+                                possedere una capacita' operativa adeguata agli investimenti proposti, desumibile dallo svolgimento di attivita' nel settore delle assunzioni di partecipazioni finanziarie per un periodo di almeno tre anni;
+
+                            
+                        
+                        
+                            b)
+                            
+                                aver acquisito almeno dieci partecipazioni in piccole o medie imprese ed aver effettuato almeno tre smobilizzi nell'ultimo triennio;
+
+                            
+                        
+                        
+                            c)
+                            
+                                avere conseguito nell'ultimo triennio un utile operativo a seguito degli investimenti effettuati.
 
 A decorrere dal quinto anno dalla data di entrata in vigore del presente regolamento, anche le banche e le S.F.I.S. devono risultare in possesso dei requisiti di cui al precedente comma.
 
@@ -62,6 +144,52 @@ La gestione del Fondo e' affidata al Mediocredito centrale sulla base di apposit
 
 Gli intermediari fanno pervenire le domande di concessione delle anticipazioni al Mediocredito centrale entro il 31 gennaio ed il 31 luglio di ogni anno.
 
+3.
+                    
+                        
+                            Alla domanda va allegata la seguente documentazione, da aggiornarsi in caso di successive variazioni:
+ 
+                        
+                        
+                            a)
+                            
+                                copia autenticata dell'atto costitutivo e dello statuto vigente;
+
+                            
+                        
+                        
+                            b)
+                            
+                                attestazione comprovante l'iscrizione delle finanziarie e delle S.F.I.S. nell'elenco speciale di cui all'articolo 107 del decreto legislativo 1 settembre 1993, n. 385;
+
+                            
+                        
+                        
+                            c)
+                            
+                                atto notorio o dichiarazione sostitutiva resa dal rappresentante legale secondo le disposizioni della legge 4 gennaio 1968, n. 15, e successive modificazioni, circa la sussistenza dei requisiti e delle condizioni previsti dalla legge e dal presente regolamento;
+
+                            
+                        
+                        
+                            d)
+                            
+                                copia dell'ultimo bilancio approvato;
+
+                            
+                        
+                        
+                            e)
+                            
+                                dichiarazione attestante il possesso dei requisiti di cui all'articolo 2, rilasciata da una primaria societa' esercente l'attivita' di valutazione del merito di credito (rating);
+
+                            
+                        
+                        
+                            f)
+                            
+                                l'indicazione del proprio numero di conto corrente bancario per l'accreditamento delle anticipazioni.
+
 Le domande sono corredate da una relazione in cui sono specificate l'entita' della partecipazione finanziaria da assumere, la situazione economico-finanziaria e gestionale della societa' partecipanda, la redditivita' presunta dell'investimento e, in generale, le prospettive di sviluppo prevedibili nel medio periodo in virtu' dell'apporto delle nuove risorse finanziarie, nonche' la valutazione dell'azienda effettuata ai fini della determinazione dell'ammontare dell'investimento.
 
 Sono ammissibili anche le domande relative ad acquisizioni di partecipazioni effettuate nel semestre precedente alla data di presentazione delle domande medesime, purche' dopo l'entrata in vigore del presente regolamento.
@@ -82,6 +210,24 @@ Le anticipazioni sono concesse dal Comitato sulla base dei seguenti criteri di p
 
 L'accreditamento delle anticipazioni concesse e' effettuato non prima di cinque giorni lavorativi antecedenti la data fissata per la sottoscrizione dell'atto di acquisto delle partecipazioni ovvero immediatamente nel caso di partecipazioni gia' acquisite, salvi i tempi tecnici necessari per le erogazioni.
 
+9.
+                    
+                        
+                            Una volta erogata l'anticipazione, il Mediocredito centrale ne verifica l'effettivo impiego in conformita' ai termini esposti dagli intermediari. A tal fine questi ultimi sono tenuti ad inviare entro trenta giorni dall'erogazione dell'anticipazione:
+ 
+                        
+                        
+                            a)
+                            
+                                copia autenticata della delibera di aumento di capitale della partecipata per un importo non inferiore alla somma dell'anticipazione e dell'apporto di capitale proprio, dalla quale risulti il rispetto delle disposizioni di cui all'articolo 4, commi 1 e 3;
+
+                            
+                        
+                        
+                            b)
+                            
+                                copia dell'atto notarile o del fissato bollato relativo all'acquisto delle azioni o quote per l'importo derivante dall'aumento di capitale deliberato.
+
 Gli intermediari sono tenuti ad inviare annualmente al Mediocredito centrale una relazione sull'andamento delle partecipazioni per le quali sono state concesse le anticipazioni del Fondo.
 
 Gli intermediari possono richiedere ulteriori anticipazioni soltanto dando dimostrazione di aver gia' investito quelle ricevute, totalmente e in conformita' agli obiettivi del Fondo.
@@ -95,6 +241,22 @@ Nel caso in cui la dismissione avvenga prima del compimento del terzo anno l'int
 
 Nel caso in cui la dismissione avvenga entro il periodo di cui al comma 1, gli intermediari sono comunque tenuti alla immediata restituzione al Fondo dell'importo anticipato, maggiorato degli interessi calcolati al tasso di inflazione effettivo sulla base degli indici ISTAT dei prezzi al consumo per le famiglie di operai e impiegati, per ciascun anno della durata dell'intervento e per il periodo parziale dell'ultimo anno. Qualora dall'atto notarile o dal fissato bollato relativo alla cessione delle azioni o quote risultino plusvalenze rispetto al prezzo di acquisto, gli intermediari ne versano al Fondo una quota del 60 per cento della somma spettantegli sulla base della misura percentuale dell'anticipazione concessa.
 Detta quota e' comprensiva degli interessi di cui al precedente periodo, qualora risulti di ammontare pari o superiore alla sommatoria degli interessi medesimi e non e' dovuta in caso contrario.
+
+4.
+                    
+                        
+                            Nel caso in cui, trascorso il termine massimo di cui al comma 1, la dismissione non fosse stata effettuata, gli intermediari ne danno comunicazione al Mediocredito centrale esponendo le ragioni che non hanno consentito la conclusione dell'operazione e presentando un piano di smobilizzo della partecipazione. In tal caso il Comitato, valutate le circostanze rappresentate dagli intermediari e l'attendibilita' del piano, puo': 
+                        
+                        
+                            a)
+                            
+                                concedere una proroga non superiore a tre anni, ovvero
+                            
+                        
+                        
+                            b)
+                            
+                                chiedere la restituzione immediata dell'anticipazione, maggiorata di una somma calcolata sulla base dei criteri di cui al comma 3, previa valutazione peritale delle partecipazioni effettuata da una societa' di certificazione scelta dal Comitato, con oneri a carico dell'intermediario.
 
 Nel caso in cui, trascorso il decimo anno, la cessione della partecipazione non sia ancora avvenuta il Mediocredito centrale procede secondo le modalita' di cui alla lettera b) del precedente comma.
 
@@ -111,6 +273,45 @@ Sull'ammontare dei dividendi percepiti l'intermediario corrisponde al Mediocredi
 E' fatto obbligo al Mediocredito centrale e al Comitato di mantenere la riservatezza sulla identita' degli intermediari che richiedono l'anticipazione durante la fase della istruttoria delle domande e di garantirne l'anonimato fino al momento della realizzazione dell'investimento.
 
 ## Art. 9. — Revoca delle anticipazioni
+
+1.
+                    
+                        
+                            La concessione dell'anticipazione e' revocata, previa contestazione all'intermediario e assegnazione al medesimo di un termine di trenta giorni per la presentazione di controdeduzioni, nei seguenti casi:
+ 
+                        
+                        
+                            a)
+                            
+                                mancato impiego delle anticipazioni entro sei mesi dalla concessione;
+
+                            
+                        
+                        
+                            b)
+                            
+                                sopravvenuta cancellazione delle finanziarie o delle S.F.I.S. dall'elenco speciale;
+
+                            
+                        
+                        
+                            c)
+                            
+                                successivo accertamento della insussistenza, alla data di presentazione della domanda, dei prescritti requisiti;
+
+                            
+                        
+                        
+                            d)
+                            
+                                venir meno, successivamente alla data di presentazione della domanda dei requisiti prescritti;
+
+                            
+                        
+                        
+                            e)
+                            
+                                dichiarazioni mendaci o comportamento scorretto dell'intermediario anche sotto forma di omissioni in relazione a richieste di informazioni e chiarimenti da parte del Mediocredito centrale.
 
 Nei casi di cui al precedente comma, gli intermediari sono tenuti all'immediato rimborso delle somme anticipate oltre agli interessi calcolati ad un tasso pari alla media dei rendimenti lordi dei buoni ordinari del Tesoro a 12 mesi dell'ultimo semestre, maggiorato di 7 punti percentuali, a decorrere dalla data di erogazione dell'anticipazione.
 

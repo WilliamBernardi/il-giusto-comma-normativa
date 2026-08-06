@@ -8,8 +8,8 @@ codice_redazionale: 000G0246
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti governativi
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:09Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -28,6 +28,29 @@ Sulla proposta del Presidente del Consiglio dei Ministri e del Ministro per la f
 ## - Titolo I Obiettivi e campo di osservazione
 
 ## Art. 1. — Obiettivi
+
+1.
+                        
+                            
+                                Il quinto censimento generale dell'agricoltura, che ha luogo nell'anno 2000, ha gli obiettivi di:
+
+                            
+                            
+                                a)
+                                
+                                    fornire informazioni aggiornate sul sistema agricolo, forestale e zootecnico;
+                                
+                            
+                            
+                                b)
+                                
+                                    assolvere agli obblighi di rilevazione stabiliti dal regolamento CEE n. 571/88 del 29 febbraio 1988 e successive modificazioni e dal regolamento CEE n. 357/79 del 5 febbraio 1979 e successive modificazioni;
+                                
+                            
+                            
+                                c)
+                                
+                                    aggiornare e completare il registro statistico delle imprese agricole, istituito ai sensi del regolamento CEE n. 2186 del 22 luglio 1993.
 
 ## Art. 2. — Campo di osservazione del censimento
 

@@ -8,8 +8,8 @@ codice_redazionale: 007G0008
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti governativi
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:09Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -32,7 +32,71 @@ Sulla proposta del Ministro per i beni e le attivita' culturali, di concerto con
 L'articolo 17 del decreto del Presidente della Repubblica 10 giugno 2004, n. 173, e' sostituito dal seguente:
  «Art. 17 (Consiglio superiore per i beni culturali e paesaggistici). - 1. Il Consiglio superiore per i beni culturali e paesaggistici, di seguito denominato «Consiglio superiore», e' organo consultivo del Ministero per i beni e le attivita' culturali a carattere tecnico-scientifico in materia di beni culturali e paesaggistici.
 
+2.
+                    
+                        
+                            Il Consiglio superiore esprime pareri, su richiesta del Ministro:
+ 
+                        
+                        
+                            a)
+                            
+                                obbligatoriamente, sui programmi nazionali per i beni culturali e paesaggistici e sui relativi piani di spesa annuali e pluriennali, predisposti dall'amministrazione;
+
+                            
+                        
+                        
+                            b)
+                            
+                                obbligatoriamente, sugli schemi di accordi internazionali in materia di beni culturali;
+
+                            
+                        
+                        
+                            c)
+                            
+                                sui piani strategici di sviluppo culturale e sui programmi di valorizzazione dei beni culturali;
+
+                            
+                        
+                        
+                            d)
+                            
+                                sui piani paesaggistici elaborati congiuntamente con le regioni;
+
+                            
+                        
+                        
+                            e)
+                            
+                                sugli schemi di atti normativi e amministrativi generali afferenti la materia dei beni culturali e paesaggistici e l'organizzazione del Ministero;
+
+                            
+                        
+                        
+                            f)
+                            
+                                su ogni altra questione di carattere generale o di particolare rilievo concernente la materia dei beni culturali e paesaggistici, anche di interesse di altra amministrazione statale o regionale o di Stati esteri o demandata al Consiglio superiore da leggi e regolamenti.
+
 Il Consiglio superiore puo' inoltre avanzare proposte al Ministro su ogni questione di carattere generale o di particolare rilievo afferente la materia dei beni culturali e paesaggistici, anche per quel che concerne l'attivita' di indirizzo.
+
+4.
+                    
+                        
+                            Il Consiglio superiore e' composto da:
+ 
+                        
+                        
+                            a)
+                            
+                                i presidenti dei Comitati tecnico-scientifici;
+
+                            
+                        
+                        
+                            b)
+                            
+                                otto eminenti personalita' del mondo della cultura nominate dal Ministro, tre delle quali su designazione della Conferenza unificata di cui all'articolo 8 del decreto legislativo 28 agosto 1997, n. 281.
 
 Il Ministro nomina il presidente del Consiglio superiore tra le personalita' di cui al comma 4, lettera b). Il Consiglio superiore elegge a maggioranza tra i propri componenti il vice presidente e adotta un regolamento interno. I pareri sono espressi, di norma, entro trenta giorni dal ricevimento della richiesta. Nei casi di urgenza, il termine e' ridotto a dieci giorni. In caso di parita' di voti prevale quello del presidente.
 

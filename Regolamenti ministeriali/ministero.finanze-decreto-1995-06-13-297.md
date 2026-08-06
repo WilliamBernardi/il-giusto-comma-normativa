@@ -8,8 +8,8 @@ codice_redazionale: 095G0340
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:40Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -93,6 +93,38 @@ Le direzioni centrali ovvero compartimentali assumono le conseguenti iniziative 
 
 L'attivita' di controllo, verifica e vigilanza si esplica nell'analisi documentale, nella ricerca e nella rilevazione.
 
+2.
+                        
+                            
+                                In particolare l'ispettore centrale in verifica ordinaria deve accertare:
+ 
+                            
+                            
+                                a)
+                                
+                                    la osservanza della normativa vigente, delle circolari, delle direttive e delle istruzioni;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la concordanza fra i dati acquisiti dai documenti reperiti nel corso della ispezione e quelli rilevati o acquisibili presso altre fonti;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    la esistenza di situazioni anomale;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    lo stato complessivo della gestione dei servizi.
+
 ## Art. 12.
 
 L'ispettore centrale, nell'esercizio delle sue funzioni, esamina le procedure di gestione adottate dai servizi del Dipartimento e dei compartimenti, ne valuta i risultati raggiunti e ne riferisce al direttore generale del Dipartimento.
@@ -131,6 +163,24 @@ Il capo del servizio ispettivo compartimentale esercita funzioni di coordinament
 
 ## Art. 18.
 
+1.
+                        
+                            
+                                Nell'espletamento delle proprie funzioni di carattere ordinario il servizio ispettivo compartimentale svolge le seguenti attivita':
+ 
+                            
+                            
+                                a)
+                                
+                                    verifiche di cassa e gestione, accessi ed ispezioni presso gli uffici periferici del compartimento di pertinenza, nei modi e nelle forme previste dalle vigenti disposizioni di legge;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    accessi ed ispezioni presso gli uffici periferici al di fuori della propria circoscrizione territoriale, qualora cio' si rendesse necessario per l'espletamento di un incarico.
+
 Nel caso di cui alla lettera b) del comma 1 deve essere data preventiva e motivata comunicazione al direttore generale del Dipartimento, al direttore compartimentale di dipendenza ed al direttore compartimentale territorialmente competente, il quale adotta i provvedimenti necessari per assicurare la collaborazione del corrispondente servizio ispettivo.
 
 ## Art. 19.
@@ -157,6 +207,31 @@ Le risultanze delle verifiche condotte sono comunicate al capo del servizio ispe
 
 ## Art. 22.
 
+1.
+                        
+                            
+                                Le funzioni di vigilanza e di controllo vengono espletate a mezzo di:
+ 
+                            
+                            
+                                a)
+                                
+                                    ispezioni, che consistono in un esame generale e sistematico delle attivita' dell'ufficio periferico, finalizzate specificatamente a verificare la funzionalita' dei servizi, il conseguimento degli obiettivi, l'utilizzo delle risorse in termini di mezzi e personale, l'efficienza produttiva;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    accessi, che consistono in indagini ed accertamenti limitati a singoli rami di servizio ovvero a specifici atti, fatti o situazioni;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    controlli di cassa, che consistono nella verifica di singole operazioni amministrative e contabili per accertare la regolarita' e la correttezza della gestione.
+
 ## Art. 23.
 
 Per lo svolgimento delle operazioni relative all'incartamento ricevuto l'ispettore compartimentale puo' richiedere la collaborazione di personale addetto al compartimento o all'ufficio ispezionato, previa autorizzazione del direttore del compartimento e comunicazione preventiva al dirigente dell'ufficio.
@@ -178,6 +253,31 @@ Gli ispettori hanno la facolta' di sentire presso la propria sede di servizio fu
 ## Art. 26.
 
 L'ispettore nel corso dei controlli puo' acquisire elementi istruttori su base documentale o su base dichiarativa di funzionari ed impiegati assumendone a verbale le indicazioni e le informazioni.
+
+2.
+                        
+                            
+                                Il verbale sottoscritto dall'ispettore e dal dichiarante deve essere redatto in triplice esemplare di cui:
+ 
+                            
+                            
+                                a)
+                                
+                                    una copia deve essere rilasciata allo stesso dichiarante;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    una copia deve essere conservata agli atti del servizio ispettivo operante;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    una copia deve risultare allegata alla relazione redatta dall'ispettore medesimo.
 
 Per impedire l'alterazione o la sottrazione di documenti, l'ispettore deve apporre il visto sui documenti esaminati e ritenuti di particolare rilevanza probatoria, per riprodurli in copia autenticata al fine di allegarli alla relazione conclusiva.
 

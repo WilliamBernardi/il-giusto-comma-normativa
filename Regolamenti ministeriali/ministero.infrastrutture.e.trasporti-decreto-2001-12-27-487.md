@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
 vigenza_date: 2004-01-01
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:42Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -55,6 +55,31 @@ Il decreto di cui al comma 1, a valere sulle disponibilita' finanziarie recate d
 La misura dell'abbattimento del tasso d'interesse commerciale di riferimento da applicare ai fini della quantificazione del contributo e' determinata nei singoli casi in base al calcolo dell'elemento di aiuto del contributo di cui all'articolo 3 della legge secondo la metodologia all'uopo applicata dalla Commissione europea ed e' proporzionalmente ridotta, rispetto ai valori indicati nel comma precedente, qualora l'elemento di aiuto corrispondente superi, a seconda dei casi, il 9 per cento o il 4,5 per cento del valore contrattuale prima dell'aiuto.
 
 ## Art. 3. — Criteri di priorita'
+
+1.
+                    
+                        
+                            I benefici di cui agli articoli 2 e 3 della legge sono concessi alle iniziative in avanzata fase di realizzazione (( nell'anno 2003 )), o in tale anno avviate, secondo i criteri di priorita' in ordine indicati:((1))
+                            
+                        
+                        
+                            a)
+                            
+                                le iniziative sono assistite secondo l'ordine dato dal grado di avanzamento globale dei lavori piu' elevato;
+
+                            
+                        
+                        
+                            b)
+                            
+                                nel caso in cui piu' iniziative risultino avere pari grado di priorita' determinato ai sensi della lettera a), sono assistite con precedenza quelle che assicurano i piu' elevati standard di sicurezza in conformita' alla politica comunitaria ed internazionale in materia e dotate di elevata tecnologia per la salvaguardia dell'ambiente marino. In tale ambito sono assistiti con priorita' gli investimenti finalizzati alla costruzione o trasformazione di navi cisterna a basso impatto ambientale rispetto a quelli relativi ad altre tipologie navali;
+
+                            
+                        
+                        
+                            c)
+                            
+                                nel caso in cui piu' iniziative risultino avere pari grado di priorita' determinato ai sensi della lettera b), sono assistite con priorita' le iniziative che tutelano maggiormente gli interessi occupazionali. A tal fine sono assistiti con priorita' gli investimenti realizzati presso realta' industriali che, in base al carico di lavoro acquisito ed in corso di svolgimento, attraverso la commessa oggetto di benefici possano migliorare o stabilizzare il tasso di occupazione.
 
 Ai fini della determinazione dell'ordine delle iniziative prioritarie ai sensi del comma 1, lettera a), le istanze di cui all'articolo 1, comma 2, ed all'articolo 2, comma 2, devono essere corredate da apposita attestazione rilasciata da organismo di classifica riconosciuto ai sensi dell'articolo 3 del decreto legislativo 30 agosto 1998, n. 314, come modificato, relativa allo stato di avanzamento dei lavori alla data di entrata in vigore del presente regolamento.
 

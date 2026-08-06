@@ -8,8 +8,8 @@ codice_redazionale: 098G0397
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:42Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -52,6 +52,31 @@ Classe 1 Superiore o uguale a 200.000
  6.000 tonnellate " 300.000 " 200.000 Classe 6 Inferiore a 3.000 tonnellate " 150.000 " 100.000
 
 ## Art. 2.
+
+1.
+                    
+                        
+                            Il versamento dei diritti d'iscrizione deve essere effettuato tramite conto corrente postale a favore della provincia con la intestazione nella causale del versamento dei seguenti elementi:
+ 
+                        
+                        
+                            a)
+                            
+                                denominazione e sede legale del richiedente;
+
+                            
+                        
+                        
+                            b)
+                            
+                                attivita' per la quale e' stata effettuata la comunicazione e relativa classe;
+
+                            
+                        
+                        
+                            c)
+                            
+                                partita IVA e codice fiscale.
 
 ## Art. 3.
 

@@ -8,8 +8,8 @@ codice_redazionale: 001G0245
 vigente: true
 source: normattiva-opendata
 collection: DPR
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:48:00Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -27,9 +27,80 @@ Sulla proposta del Presidente del Consiglio dei Ministri e del Ministro per la f
 
 ## Art. 1. — Ambito di applicazione
 
+1.
+                    
+                        
+                            Il presente regolamento disciplina il procedimento per l'alienazione:
+ 
+                        
+                        
+                            a)
+                            
+                                dei beni mobili delle amministrazioni dello Stato non piu' utilizzabili o utilmente conservabili o dei quali le amministrazioni non autorizzino la cessione alla Croce Rossa Italiana per le finalita' consentite;
+
+                            
+                        
+                        
+                            b)
+                            
+                                dei beni mobili confiscati, con eccezione di quelli confiscati ai sensi della legge 7 marzo 1996, n. 109, e salvo quanto disposto dal comma 2;
+
+                            
+                        
+                        
+                            c)
+                            
+                                dei beni mobili di terzi rinvenuti in immobili di proprieta' statale, qualora non vengano ritirati dal proprietario nel termine di sessanta giorni dalla notificazione dell'invito da parte dell'Ufficio del territorio del Ministero delle finanze.
+
 Nel rispetto dei principi fissati dal codice di procedura penale per procedimenti di alienazione di beni sequestrati e confiscati, e ferma restando la particolare disciplina di tali procedimenti, il presente regolamento si applica nei casi di alienazione di veicoli, anche registrati, che si ritengono abbandonati per mancato ritiro da parte del proprietario nel termine di tre mesi dalla notificazione dell'obbligo di ritiro, a seguito dell'applicazione di misure di sequestro e sanzioni accessorie previste dal codice della strada di cui al decreto legislativo 30 aprile 1992, n. 285, e successive modificazioni, salve le garanzie fissate dal comma 3 dell'articolo 264 del codice di procedura penale.
 
 Alla notificazione dell'obbligo del ritiro dei beni, di cui al comma 2, provvedono gli organi di polizia stradale che hanno proceduto all'accertamento delle violazioni, dalle quali consegue l'applicazione delle sanzioni amministrative accessorie. Gli organi di polizia stradale, trascorso il periodo di tre mesi senza che il bene venga ritirato, trasmettono all'ufficio competente all'alienazione, ai sensi dell'articolo 3, comma 1, copia del verbale di accertamento della violazione, di applicazione della sanzione amministrativa accessoria e del provvedimento di dissequestro, nonche' la prova della notificazione dell'obbligo del ritiro agli interessati.
+
+4.
+                    
+                        
+                            Non si ricorre alla procedura di cui al presente regolamento per:
+ 
+                        
+                        
+                            a)
+                            
+                                la vendita di armi e armamenti dichiarati fuori uso o superati per cause tecniche;
+
+                            
+                        
+                        
+                            b)
+                            
+                                la vendita dei beni per i quali l'amministrazione competente, per ragioni di sicurezza militare o di ordine pubblico, applichi procedure speciali di vendita, anche all'estero;
+
+                            
+                        
+                        
+                            c)
+                            
+                                la vendita dei beni in dotazione alle rappresentanze diplomatiche e agli uffici consolari all'estero;
+
+                            
+                        
+                        
+                            d)
+                            
+                                la vendita dei beni in dotazione alle amministrazioni statali ad ordinamento autonomo;
+
+                            
+                        
+                        
+                            e)
+                            
+                                le cessioni onerose tra pubbliche amministrazioni e alienazioni di titoli e valori mobiliari dello Stato;
+
+                            
+                        
+                        
+                            f)
+                            
+                                la vendita di equipaggiamenti o beni recanti segni identificativi di corpi militari e di polizia.
 
 Con decreti dei Ministri competenti sono individuati i criteri per la determinazione delle ragioni di sicurezza militare o di ordine pubblico in base alle quali escludere, ai sensi del comma 4, lettera b), specificate categorie di beni mobili dall'applicazione del presente regolamento.
 
@@ -52,6 +123,38 @@ All'alienazione dei beni mobili di cui all'articolo 2 del decreto legislativo 29
 Il mancato rispetto del termine di cui al comma 1 deve essere comunicato dall'Ufficio procedente al servizio preposto al controllo gestionale per i relativi accertamenti.
 
 ## Art. 4. — Procedimento di alienazione
+
+1.
+                    
+                        
+                            L'Ufficio del territorio del Ministero delle finanze provvede:
+ 
+                        
+                        
+                            a)
+                            
+                                alla stima dei beni mobili da alienare, tenuto conto dei prezzi di mercato e dello stato d'uso dei beni stessi;
+
+                            
+                        
+                        
+                            b)
+                            
+                                alla predisposizione e gestione di un archivio informatizzato dei beni da porre in vendita da parte dell'Ufficio stesso o da consegnare al concessionario ai sensi del comma 2;
+
+                            
+                        
+                        
+                            c)
+                            
+                                alla predisposizione e gestione, congiuntamente con il competente Dipartimento del Ministero del tesoro, del bilancio e della programmazione economica, di un sito informatico per la diffusione dei dati relativi ai beni da alienare e per la pubblicazione dei bandi e avvisi di gara, fatto salvo l'adempimento degli altri obblighi di pubblicita' previsti dalla normativa nazionale e comunitaria;
+
+                            
+                        
+                        
+                            d)
+                            
+                                alla vendita dei beni.
 
 Per la vendita di beni mobili, anche registrati, si procede per pubblici incanti o mediante affidamento in concessione delle attivita' di alienazione di categorie di beni mobili determinati, nel caso in cui all'alienazione siano collegate attivita' di recupero, deposito, rottamazione, eliminazione od anche invio alla pubblica discarica di beni comunque non riutilizzabili; l'affidamento in concessione e' disposto nel rispetto della normativa nazionale e comunitaria sugli appalti pubblici di servizi, mediante convenzione tra Direzione centrale del demanio e concessionario, in conformita' allo schema tipo approvato con decreto del Ministro delle finanze; la durata dell'affidamento in concessione non eccede, di norma i sei anni.
 

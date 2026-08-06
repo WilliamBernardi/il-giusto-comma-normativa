@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
 vigenza_date: 2017-08-03
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:40Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -35,6 +35,41 @@ L'iscrizione nel registro e' condizione necessaria per stipulare le convenzioni 
  Il D.Lgs. 3 luglio 2017, n. 117 ha disposto (con l'art. 102, comma 4) che "Le disposizioni di cui all'articolo 6, della legge 11 agosto 1991, n. 266, agli articoli 7, 8, 9 e 10 della legge 7 dicembre 2000, n. 383, nonche' il decreto del Ministro del lavoro e delle politiche sociali 14 novembre 2001, n. 471, sono abrogate a decorrere dalla data di operativita' del Registro unico nazionale del Terzo settore, ai sensi dell'articolo 53".
 
 ## Art. 2. — Requisiti e procedure di iscrizione
+
+1.
+                    
+                        
+                            Le associazioni costituite e operanti da almeno un anno, che svolgano attivita' di utilita' sociale ai sensi dell'articolo 2 della legge e il cui atto costitutivo e statuto corrispondano ai requisiti indicati nell'articolo 3 della legge, possono chiedere l'iscrizione al Registro nazionale delle associazioni di promozione sociale, presentando domanda al Ministero del lavoro e delle politiche sociali - Dipartimento delle politiche sociali e previdenziali - Direzione generale per il volontariato, l'associazionismo sociale e le politiche giovanili - corredata da: 
+ 
+                        
+                        
+                            a)
+                            
+                                atto costitutivo, con l'indicazione della sede legale, e statuto dell'associazione, corredato, se necessario, da un documento a carattere transitorio di integrazione del medesimo con le previsioni statutarie di cui all'articolo 3 della legge. Tale documento deve essere deliberato dall'organismo nazionale competente che recepisca come vincolanti dette previsioni, impegnando l'associazione a procedere alla modifica dello statuto tempestivamente e comunque non oltre un anno dalla data di presentazione della domanda di iscrizione; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                indicazione dell'ambito di diffusione territoriale dell'associazione comprovante la presenza in almeno cinque regioni e in almeno venti province del territorio nazionale; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                nominativo del legale rappresentante e di eventuali altri soggetti che ricoprano cariche di rappresentanza istituzionale; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                sintetica relazione descrittiva della fisionomia istituzionale dell'associazione contenente dati relativi a: 
+ modello organizzativo e livelli di responsabilita' degli organismi nazionali e di quelli delle eventuali articolazioni periferiche; 
+ numero totale degli iscritti, criteri e mezzi di informazione e/o di comunicazione al fine di consentire la loro piena partecipazione; 
+ indicazione degli ambiti prevalenti di attivita', delle iniziative piu' significative realizzate e dei principali programmi di intervento posti in essere.
 
 La domanda e' inoltrata al Ministero del lavoro e delle politiche sociali - Dipartimento delle politiche sociali e previdenziali - Direzione generale per il volontariato, l'associazionismo sociale e le politiche giovanili - esclusivamente per posta, a mezzo di raccomandata con avviso di ricevimento.
 
@@ -77,6 +112,32 @@ Il diritto di automatica iscrizione delle articolazioni territoriali e dei circo
  Il D.Lgs. 3 luglio 2017, n. 117 ha disposto (con l'art. 102, comma 4) che "Le disposizioni di cui all'articolo 6, della legge 11 agosto 1991, n. 266, agli articoli 7, 8, 9 e 10 della legge 7 dicembre 2000, n. 383, nonche' il decreto del Ministro del lavoro e delle politiche sociali 14 novembre 2001, n. 471, sono abrogate a decorrere dalla data di operativita' del Registro unico nazionale del Terzo settore, ai sensi dell'articolo 53".
 
 ## Art. 6. — Cancellazione
+
+1.
+                    
+                        
+                            Sono cancellate con provvedimento del dirigente preposto alla Direzione generale per il volontariato, l'associazionismo sociale e le politiche giovanili le associazioni iscritte al Registro nazionale che: 
+ 
+                        
+                        
+                            a)
+                            
+                                ne facciano espressa richiesta con le stesse modalita' prescritte dall'articolo 2 del regolamento; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                perdano i requisiti per l'iscrizione; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                non comunichino le variazioni intervenute ai sensi dell'articolo 3 del regolamento. 
+ ((1))
 
 -----------
                         AGGIORNAMENTO (1)

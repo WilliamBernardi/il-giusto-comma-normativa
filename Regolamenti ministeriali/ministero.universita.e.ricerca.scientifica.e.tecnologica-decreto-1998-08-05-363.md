@@ -8,8 +8,8 @@ codice_redazionale: 098G0414
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:42Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -77,7 +77,64 @@ Per responsabile della attivita' didattica o di ricerca in laboratorio si intend
 
 ## Art. 3. — Obblighi ed attribuzioni del rettore
 
+1.
+                    
+                        
+                            Al rettore, in quanto datore di lavoro, ai sensi del secondo periodo del comma 1 dell'articolo 2, e quale presidente del consiglio di amministrazione dell'ateneo, compete:
+ 
+                        
+                        
+                            a)
+                            
+                                assicurare il coordinamento delle attivita' dei servizi di prevenzione e protezione e l'effettuazione della riunione periodica di prevenzione e protezione dai rischi;
+
+                            
+                        
+                        
+                            b)
+                            
+                                presentare periodicamente al consiglio di amministrazione, per le determinazioni di competenza, il piano di realizzazione progressiva degli adeguamenti di cui all'articolo 3 del decreto legislativo 19 settembre 1994, n. 626, tenendo conto delle risultanze della riunione periodica di prevenzione e protezione dai rischi.
+
 ## Art. 4. — Obblighi ed attribuzioni del datore di lavoro
+
+1.
+                    
+                        
+                            Il datore di lavoro, quale individuato ai sensi dell'articolo 2, provvede:
+ 
+                        
+                        
+                            a)
+                            
+                                alla valutazione del rischio per tutte le attivita', ad eccezione di quelle svolte in regime di convenzione con enti esterni, come individuate nell'articolo 10. Per quanto attiene alle attivita' specificamente connesse con la liberta' di insegnamento o di ricerca che direttamente diano o possano dare origine a rischi, la responsabilita' relativa alla valutazione spetta, in via concorrente, al datore di lavoro e al responsabile della attivita' didattica o di ricerca in laboratorio;
+
+                            
+                        
+                        
+                            b)
+                            
+                                alla nomina del medico competente, secondo quanto previsto dagli articoli 4, 16 e 17 del decreto legislativo 19 settembre 1994, n. 626 e, nel caso di nomina di piu' medici competenti, ad attribuire ad uno di essi il compito di coordinamento dei medici incaricati;
+
+                            
+                        
+                        
+                            c)
+                            
+                                alla elaborazione del documento di cui al comma 2 dell'articolo 4 del decreto legislativo 19 settembre 1994, n. 626, con la collaborazione dei responsabili delle attivita' didattiche o di ricerca in laboratorio, come previsto dal successivo articolo 5;
+
+                            
+                        
+                        
+                            d)
+                            
+                                alla nomina del responsabile del servizio di prevenzione e protezione;
+
+                            
+                        
+                        
+                            e)
+                            
+                                allo svolgimento di tutte le altre funzioni, non previste nelle precedenti lettere a), b), c) e d), attribuitegli dalla legge che non abbia espressamente delegato.
 
 ## Art. 5. — Obblighi ed attribuzioni del responsabile
  della attivita' didattica o di ricerca in laboratorio
@@ -85,6 +142,45 @@ Per responsabile della attivita' didattica o di ricerca in laboratorio si intend
 Il responsabile della attivita' didattica o di ricerca in laboratorio, nello svolgimento della stessa e ai fini della valutazione del rischio e dell'individuazione delle conseguenti misure di prevenzione e protezione, collabora con il servizio di prevenzione e protezione, con il medico competente e con le altre figure previste dalla vigente normativa.
 
 Il responsabile della attivita' didattica o di ricerca in laboratorio, all'inizio di ogni anno accademico, prima di iniziare nuove attivita' e in occasione di cambiamenti rilevanti dell'organizzazione della didattica o della ricerca, identifica tutti i soggetti esposti a rischio.
+
+3.
+                    
+                        
+                            In particolare il responsabile della attivita' didattica o di ricerca, nei limiti delle proprie attribuzioni e competenze, deve:
+ 
+                        
+                        
+                            a)
+                            
+                                attivarsi al fine di eliminare o ridurre al minimo i rischi in relazione alle conoscenze del progresso tecnico, dandone preventiva ed esauriente informazione al datore di lavoro;
+
+                            
+                        
+                        
+                            b)
+                            
+                                attivarsi, in occasione di modifiche delle attivita' significative per la salute e per la sicurezza degli operatori, affinche' venga aggiornato il documento di cui al comma 2, articolo 4, del decreto legislativo 19 settembre 1994, n. 626, sulla base della valutazione dei rischi;
+
+                            
+                        
+                        
+                            c)
+                            
+                                adottare le misure di prevenzione e protezione, prima che le attivita' a rischio vengano poste in essere;
+
+                            
+                        
+                        
+                            d)
+                            
+                                attivarsi per la vigilanza sulla corretta applicazione delle misure di prevenzione e protezione dai rischi;
+
+                            
+                        
+                        
+                            e)
+                            
+                                frequentare i corsi di formazione ed aggiornamento organizzati dal datore di lavoro con riferimento alla propria attivita' ed alle specifiche mansioni svolte.
 
 ## Art. 6. — Formazione ed informazione
 
@@ -104,6 +200,24 @@ In attesa dell'emanazione di una specifica normativa di prevenzione incendi per 
 
 ## Art. 9. — Progettazione ed utilizzo di prototipi
  e di nuovi prodotti
+
+1.
+                    
+                        
+                            Nell'impiego di prototipi di macchine, di apparecchi ed attrezzature di lavoro, di impianti o di altri mezzi tecnici realizzati ed utilizzati nelle attivita' di ricerca, di didattica e di servizio, il datore di lavoro ed il responsabile della attivita' didattica o di ricerca in laboratorio, per quanto di rispettiva competenza, devono:
+ 
+                        
+                        
+                            a)
+                            
+                                garantire la corretta protezione del personale, mediante valutazione in sede di progettazione dei possibili rischi connessi con la realizzazione del progetto e con l'adozione di eventuali specifiche precauzioni, sulla base delle conoscenze disponibili;
+
+                            
+                        
+                        
+                            b)
+                            
+                                provvedere affinche' gli operatori siano adeguatamente formati ed informati sui particolari rischi e sulle particolari misure di prevenzione e protezione.
 
 Le disposizioni di cui al comma precedente trovano applicazione anche in caso di produzione, detenzione ed impiego di nuovi agenti chimici, fisici o biologici.
 

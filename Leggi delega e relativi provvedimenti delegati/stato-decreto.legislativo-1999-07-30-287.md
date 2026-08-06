@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Leggi delega e relativi provvedimenti delegati
 vigenza_date: 2009-12-29
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:41:17Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -66,6 +66,29 @@ Per la Scuola superiore dell'Amministrazione dell'interno, istituita con decreto
 Le attivita' della Scuola superiore dell'Amministrazione dell'interno possono svolgersi anche in favore del personale di altre amministrazioni pubbliche nazionali ed estere, nonche' in favore di giovani laureati per stimolarne la cultura istituzionale e favorirne l'ingresso nel mondo del lavoro. A tale fine essa puo' associarsi, convenzionarsi, costituire consorzi e promuovere attivita' di partenariato con istituzioni e societa', pubbliche e private, nazionali ed estere, operanti nel campo dell'alta formazione, anche per lo svolgimento di attivita' di ricerca e studio.
 
 ## Art. 10. — Abrogazioni
+
+1.
+                    
+                        
+                            Sono abrogati:
+
+                        
+                        
+                            a)
+                            
+                                l'articolo 29 del decreto legislativo 23 febbraio 1993, n. 29;
+                            
+                        
+                        
+                            b)
+                            
+                                il regolamento 24 marzo 1995, n. 207, con decorrenza dalla data di entrata in vigore delle delibere di cui all'articolo 6 e comunque non oltre centoventi giorni dalla data di entrata in vigore del presente decreto;
+                            
+                        
+                        
+                            c)
+                            
+                                il regolamento 21 aprile 1994, n. 439, con decorrenza dalla data di approvazione della graduatoria dei vincitori del secondo corsoconcorso per l'accesso alla dirigenza.
 
 Il regolamento 24 marzo 1995, n. 207, continua comunque ad applicarsi fino all'adozione delle delibere di cui all'articolo 6 e, per la parte finanziaria e contabile, del regolamento previsto dal medesimo articolo 6. Fino a tale data le attribuzioni del comitato direttivo sono svolte dal direttore della Scuola, sentito il segretario per quanto riguarda la materia di sua competenza.
 

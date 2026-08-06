@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
 vigenza_date: 1995-11-19
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:41Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO MINISTERIALE
@@ -28,6 +28,31 @@ Sentito il consiglio di amministrazione delle poste e delle telecomunicazioni;
 Udito il parere del Consiglio di Stato espresso nell'adunanza generale del 17 novembre 1994;
 
 ## Art. 1. — Definizioni
+
+1.
+                    
+                        
+                            Ai sensi del presente decreto si intendono per:
+ 
+                        
+                        
+                            a)
+                            
+                                "apparecchiatura terminale": l'apparecchiatura d'utente destinata ad essere collegata direttamente o indirettamente ad un punto terminale di una rete pubblica di telecomunicazioni o ad interfunzionare con essa per la trasmissione, il trattamento o la ricezione di informazioni. Il collegamento puo' essere realizzato mediante un sistema cablato, radio, ottico o altro sistema elettromagnetico;
+
+                            
+                        
+                        
+                            b)
+                            
+                                "punto terminale di rete": per i servizi radiomobili terrestri il punto terminale di rete e' costituito dall'antenna fissa del gestore pubblico, cui possono collegarsi le apparecchiature utilizzate dall'utente;
+
+                            
+                        
+                        
+                            c)
+                            
+                                "impianto mobile": sistema d'utente costituito da una apparecchiatura terminale nonche' da un adeguato sistema d'antenna e relativi accessori, collegati via radio ai punti terminali della rete pubblica.
 
 ## Art. 2. — Campo di applicazione
 

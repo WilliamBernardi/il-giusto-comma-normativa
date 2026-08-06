@@ -8,8 +8,8 @@ codice_redazionale: 006G0199
 vigente: true
 source: normattiva-opendata
 collection: DPR
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:47:47Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -29,11 +29,61 @@ Sulla proposta del Presidente del Consiglio dei Ministri e del Ministro dell'int
 
 La Prefettura-Ufficio territoriale del Governo - di seguito denominata: «Prefettura», quale organo di rappresentanza generale del Governo sul territorio, svolge compiti di amministrazione generale e di tutela dell'ordine e della sicurezza pubblica ed e' organo periferico del Ministero dell'interno.
 
+2.
+                    
+                        
+                            Ferme restando le proprie funzioni, la Prefettura, avvalendosi anche delle Conferenze permanenti, di cui all'articolo 4, assicura:
+ 
+                        
+                        
+                            a)
+                            
+                                il coordinamento dell'attivita' amministrativa degli uffici periferici dello Stato sul territorio;
+
+                            
+                        
+                        
+                            b)
+                            
+                                la leale collaborazione degli uffici periferici dello Stato con i diversi livelli di governo esistenti sul territorio.
+
 La Prefettura assicura, altresi', nel rispetto delle funzioni istituzionali ad essa attribuite dalla normativa vigente, la collaborazione dei propri uffici per l'esercizio delle funzioni delle altre amministrazioni dello Stato per le quali disposizioni di legge o di regolamento prevedono la possibilita', anche sulla base di apposite convenzioni, di avvalersi degli uffici della stessa.
 
 La Prefettura avente sede nel capoluogo di regione, oltre alle funzioni di cui ai commi 1, 2 e 3, svolge tutte le attivita' connesse alle funzioni di rappresentanza dello Stato per i rapporti con il sistema delle autonomie, indicate dall'articolo 10 della legge 5 luglio 2003, n. 131.
 
 ## Art. 2. — Compiti del prefetto titolare della Prefettura-Ufficio territoriale del Governo
+
+1.
+                    
+                        
+                            Il prefetto, nell'esercizio dei compiti di rappresentanza generale del Governo sul territorio e di garanzia istituzionale a tutela dell'ordinamento giuridico:
+ 
+                        
+                        
+                            a)
+                            
+                                fornisce, a richiesta del Presidente del Consiglio dei Ministri o dei Ministri da lui delegati, gli elementi valutativi inerenti gli uffici periferici dello Stato necessari all'esercizio delle funzioni di impulso, indirizzo e coordinamento da parte del Presidente del Consiglio dei Ministri, e ne attua le determinazioni;
+
+                            
+                        
+                        
+                            b)
+                            
+                                formula, per l'ambito territoriale di competenza, ai fini del coordinamento delle attivita' delle strutture amministrative dello Stato operanti sul territorio e secondo le direttive del Presidente del Consiglio dei Ministri e dei Ministri, proposte per una efficiente organizzazione degli uffici periferici dello Stato ed una ottimale distribuzione delle risorse, che tenga conto delle esigenze di semplificazione delle procedure, di riduzione dei tempi dei procedimenti e di contenimento dei relativi costi in vista del raggiungimento di una migliore efficacia ed efficienza dell'azione amministrativa in periferia;
+
+                            
+                        
+                        
+                            c)
+                            
+                                favorisce e promuove, anche secondo i criteri e le indicazioni del Presidente del Consiglio dei Ministri o dei Ministri da lui delegati, l'attuazione, da parte degli uffici periferici dello Stato, delle misure di coordinamento nei rapporti tra lo Stato e le autonomie locali definite dalla Conferenza Stato-citta' ed autonomie locali ai sensi dell'articolo 9, comma 5, del decreto legislativo 28 agosto 1997, n. 281. A tale fine, con apposito decreto del Presidente del Consiglio dei Ministri, sono definite le modalita' di raccordo tra Prefetture ed uffici della Conferenza Stato-citta' ed autonomie locali;
+
+                            
+                        
+                        
+                            d)
+                            
+                                promuove e coordina le iniziative nell'ambito delle amministrazioni statali, anche secondo i criteri e le indicazioni del Presidente del Consiglio dei Ministri o dei Ministri da lui delegati, necessarie a dare attuazione alle leggi generali sul procedimento amministrativo, sulla cooperazione tra le pubbliche amministrazioni e sull'adeguamento tecnologico delle dotazioni strumentali degli uffici.
 
 ## Art. 3. — Convenzioni e conferenze di servizi
 
@@ -47,6 +97,39 @@ Le Conferenze permanenti, previste dall'articolo 11, comma 3, del decreto legisl
 Le Conferenze provinciali permanenti, presiedute dal prefetto, sono composte dai responsabili di tutte le strutture amministrative periferiche dello Stato operanti nella provincia, dal presidente della provincia, dal rappresentante della citta' metropolitana, ove costituita, dal sindaco del comune capoluogo e dai sindaci dei comuni eventualmente interessati alle questioni trattate, o loro delegati, nonche' da tutti quei soggetti istituzionali di cui e' ritenuta utile la partecipazione ai fini delle concrete determinazioni da assumere, o che vi hanno comunque interesse. Per assicurare una adeguata presenza delle autonomie locali in seno alla Conferenza provinciale permanente il prefetto puo' promuovere le opportune intese con i sindaci dei comuni della provincia.
 
 Alle Conferenze regionali permanenti, presiedute dal prefetto del capoluogo di regione e composte dai rappresentanti delle strutture periferiche regionali dello Stato e da tutti quei soggetti istituzionali di cui e' ritenuta utile la partecipazione ai fini delle concrete determinazioni da assumere, o che vi hanno comunque interesse, sono invitati il presidente della regione, il presidente della provincia, il rappresentante della citta' metropolitana, ove costituita, il sindaco del comune capoluogo e i Sindaci dei comuni eventualmente interessati alle questioni trattate, che possono parteciparvi personalmente o tramite loro delegati.
+
+4.
+                    
+                        
+                            Le Conferenze operano articolandosi in sezioni corrispondenti, in linea di massima, alle seguenti aree e settori organici di materie:
+ 
+                        
+                        
+                            a)
+                            
+                                amministrazioni d'ordine;
+
+                            
+                        
+                        
+                            b)
+                            
+                                sviluppo economico e attivita' produttive;
+
+                            
+                        
+                        
+                            c)
+                            
+                                territorio, ambiente e infrastrutture;
+
+                            
+                        
+                        
+                            d)
+                            
+                                servizi alla persona e alla comunita'.
+ Le Conferenze permanenti deliberano in ordine alle modalita' del proprio funzionamento.
 
 Alle singole sezioni delle Conferenze permanenti partecipano i responsabili delle strutture e degli uffici di cui ai commi 2 e 3, competenti per il territorio della provincia, i responsabili delle competenti aree funzionali delle Prefetture, nonche' i responsabili delle strutture e degli uffici interprovinciali, regionali o sovraregionali per gli aspetti di interesse della provincia o della regione.
 

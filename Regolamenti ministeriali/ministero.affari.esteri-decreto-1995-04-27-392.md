@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
 vigenza_date: 2016-01-15
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:42Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -311,6 +311,38 @@ Le spese indicate in bilancio devono essere contenute, nel loro complessivo ammo
 
 Gli istituti possono ricevere una dotazione finanziaria non superiore a quella indicata nello stesso bilancio. Il Ministero degli affari esteri, nell'assegnare tale dotazione finanziaria, tiene conto, oltre che della relazione di cui all'art. 21 del presente regolamento, anche delle valutazioni ((delle rappresentanze diplomatiche o degli uffici consolari competenti)) per territorio nonche' delle priorita' annesse dallo stesso Ministero all'azione dei singoli istituti. ((1))
 
+2.
+                        
+                            
+                                La dotazione finanziaria assegnata per ogni singolo anno non puo' comunque essere inferiore all'ottanta per cento di quella assegnata nell'anno precedente, a meno che non sia intervenuto uno dei seguenti eventi: 
+ 
+                            
+                            
+                                a)
+                                
+                                    l'istituto abbia indicato nel proprio bilancio preventivo una cifra inferiore a tale limite; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    sia stato emanato un provvedimento di soppressione dell'istituto con decorrenza nell'anno cui la dotazione finanziaria si riferisce; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    sia stato emanato un provvedimento di soppressione di una o piu' sezioni staccate dell'istituto; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    sia stata apportata una decurtazione allo stanziamento del relativo capitolo di bilancio.
+
 --------------
                             AGGIORNAMENTO (1)
                             
@@ -426,6 +458,45 @@ h) data dei pagamenti.))
 ## Art. 35.
 
 Modalita' particolari ((...)) di pagamento ((1))
+
+1.
+                        
+                            
+                                L'istituto puo' disporre, con espressa annotazione sui titoli, che i ((pagamenti siano effettuati)) anche mediante: ((1))
+                                
+                            
+                            
+                                a)
+                                
+                                    accreditamento in conto corrente postale a favore del creditore, nonche' mediante vaglia postale o telegrafico; in quest'ultimo caso deve essere allegata al titolo la ricevuta del versamento rilasciata dall'ufficio postale; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    accreditamento in conto corrente bancario, intestato al creditore, salvo per le spese accessorie relative al personale dipendente; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    assegno bancario all'ordine del creditore; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    pagamento in contanti contro regolare quietanza; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    altra forma autorizzata dalla rappresentanza diplomatica o dall'ufficio consolare competente con proprio decreto motivato dalla particolare situazione locale.
 
 Le dichiarazioni di accreditamento o di commutazione, che sostituiscono la quietanza del creditore, devono risultare da idoneo documento bancario o dell'ufficio postale oppure da annotazione ((...)) recante gli estremi relativi alle operazioni. ((1))
 
@@ -741,6 +812,24 @@ Il prelevamento per il fabbisogno dei singoli servizi avviene contro la firma pe
  Il Decreto 3 dicembre 2015, n. 211 ha disposto (con l'art. 8, comma 1) che la presente modifica si applica dall'esercizio finanziario successivo alla pubblicazione dello stesso decreto.
 
 ## Art. 59. — Automezzi
+
+1.
+                        
+                            
+                                I consegnatari degli automezzi ne controllano l'uso accertando che:
+ 
+                            
+                            
+                                a)
+                                
+                                    la loro utilizzazione sia conforme ai servizi di istituto;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il rifornimento dei carburanti ed i percorsi effettuati vengano registrati in appositi moduli.
 
 Il consegnatario e' tenuto, mensilmente, a fornire al competente ufficio amministrativo i documenti giustificativi di spesa o, nel caso la situazione locale non lo permetta, dichiarazioni sostitutive per il consumo dei carburanti e dei lubrificanti, per la manutenzione ordinaria e per le piccole riparazioni.
 

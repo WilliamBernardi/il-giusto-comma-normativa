@@ -6,8 +6,8 @@ urn: urn:nir:stato:regio.decreto:1868-10-19;2065
 vigente: true
 source: normattiva-opendata
 collection: Regi decreti
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T10:27:52Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 REGIO DECRETO

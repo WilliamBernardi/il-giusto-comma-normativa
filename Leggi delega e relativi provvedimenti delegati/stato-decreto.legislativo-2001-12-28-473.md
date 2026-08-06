@@ -8,8 +8,8 @@ codice_redazionale: 002G0014
 vigente: true
 source: normattiva-opendata
 collection: Leggi delega e relativi provvedimenti delegati
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:41:16Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -40,4 +40,23 @@ All'articolo 45 del decreto legislativo 19 marzo 2001, n. 69, dopo il comma 3 e'
  "3-bis. L'anzianita' di servizio maturata nei ruoli degli ufficiali della Forza armata di provenienza e' utile ai fini del computo dei periodi previsti dall'articolo 43, commi 22 e 23, e dall'articolo 43-ter della legge 1 aprile 1981, n. 121, per la determinazione del trattamento economico all'atto del transito ai sensi dei commi 1, 2 e 3.".
 
 ## Art. 3.
+
+1.
+                    
+                        
+                            L'articolo 56 del decreto legislativo 19 marzo 2001, n. 69, e' modificato come segue:
+ 
+                        
+                        
+                            a)
+                            
+                                il titolo dell'articolo e' ridenominato in: "Precedenza al comando e attribuzioni";
+
+                            
+                        
+                        
+                            b)
+                            
+                                dopo il comma 2 e' aggiunto il seguente:
+ "2-bis. Ferme restando le attribuzioni previste dalle norme di ordinamento e le competenze stabilite dalle altre leggi e regolamenti, i capitani, maggiori e tenenti colonnelli del Corpo della Guardia di finanza, in relazione alla specifica qualificazione professionale propria degli ufficiali, cui si correlano autonoma responsabilita' decisionale e rilevante professionalita', assumono piena responsabilita' per le direttive impartite e per i risultati conseguiti, svolgono compiti di studio e partecipano all'attivita' degli ufficiali con grado dirigenziale, che sostituiscono in caso di assenza o impedimento.".
 

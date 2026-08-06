@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: DPR
 vigenza_date: 2014-08-19
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:47:42Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -27,6 +27,87 @@ Acquisiti i pareri della 7ª Commissione del Senato della Repubblica in data 13 
 Sulla proposta del Ministro dell'istruzione, dell'universita' e della ricerca, di concerto con i Ministri dell'economia e delle finanze e per la pubblica amministrazione e l'innovazione;
 
 ## Art. 1. — Definizioni
+
+1.
+                    
+                        
+                            Ai fini del presente regolamento si intende: 
+ 
+                        
+                        
+                            a)
+                            
+                                per Ministro e Ministero, il Ministro e il Ministero dell'istruzione, dell'universita' e della ricerca; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                per legge, la legge 30 dicembre 2010, n. 240, e successive modificazioni; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                per fascia o fasce, le fasce dei professori ordinari e dei professori associati di cui al decreto del Presidente della Repubblica 11 luglio 1980, n. 382, e successive modificazioni; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                per abilitazione, l'abilitazione scientifica nazionale di cui all'articolo 16, comma 1, della legge; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                per settori concorsuali, macrosettori concorsuali e settori scientifico-disciplinari, i settori concorsuali, i macrosettori concorsuali e i settori scientifico-disciplinari di cui all'articolo 15, comma 1, della legge; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                per area disciplinare, l'area disciplinare di cui all'articolo 16, comma 3, lettera b), determinata ai sensi dell'articolo 1, comma 1, lettera a), della legge 16 gennaio 2006, n. 18, di riordino del Consiglio universitario nazionale; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                per commissione, la commissione nazionale di cui all'articolo 16, comma 3, lettera f), della legge; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                per CUN, il Consiglio universitario nazionale; 
+
+                            
+                        
+                        
+                            i)
+                            
+                                per CRUI, la Conferenza dei rettori delle universita' italiane; 
+
+                            
+                        
+                        
+                            l)
+                            
+                                per ANVUR, l'Agenzia nazionale per la valutazione del sistema universitario e della ricerca; 
+
+                            
+                        
+                        
+                            m)
+                            
+                                per CEPR, il Comitato di esperti per la politica della ricerca.
 
 ## Art. 2. — Oggetto
 
@@ -99,6 +180,24 @@ La commissione di cui al comma 1 e' nominata con decreto del competente Direttor
 I decreti di cui al presente articolo sono pubblicati sul sito del Ministero.
 
 ## Art. 7. — Operazioni di sorteggio
+
+1.
+                    
+                        
+                            Formata la lista secondo le modalita' di cui all'articolo 6, commi 2, 3, 4, 5 e 6, i componenti della commissione per l'abilitazione sono sorteggiati mediante lo svolgimento delle seguenti operazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                collocazione in ordine alfabetico, per cognome e nome, di tutti i componenti della lista; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                attribuzione a ciascuno dei predetti componenti di un numero d'ordine; in caso di omonimia l'ordine di priorita' e' definito mediante apposito sorteggio.
 
 Al fine di assicurare il rispetto della condizione di cui all'articolo 6, comma 9, si procede al sorteggio di un commissario per ciascuno dei settori scientifico-disciplinari, ricompresi nel settore concorsuale, al quale afferiscono almeno trenta professori ordinari. Nell'ipotesi in cui il numero dei predetti settori scientifico-disciplinari e' inferiore a quattro, si procede all'integrazione del numero occorrente mediante sorteggio tra i restanti componenti della lista. Nell'ipotesi in cui il numero dei settori scientifico-disciplinari di cui al primo periodo e' superiore a quattro, si procede al sorteggio di un componente della lista per ciascuno di essi e, successivamente, al sorteggio di quattro commissari nell'ambito dei componenti cosi' sorteggiati.
 

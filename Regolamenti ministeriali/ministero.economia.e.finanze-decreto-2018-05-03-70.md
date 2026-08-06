@@ -7,8 +7,8 @@ urn: urn:nir:ministero.economia.e.finanze:decreto:2018-05-03;70
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:38Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -25,6 +25,52 @@ Sentita la Banca d'Italia che ha espresso il proprio parere con nota n. 0960542/
 Udito il parere del Consiglio di Stato, espresso dalla sezione consultiva per gli atti normativi nell'adunanza del 21 dicembre 2017;
 
 ## Art. 1. — Definizioni
+
+1.
+                    
+                        
+                            Ai sensi del presente decreto, si intendono per: 
+ 
+                        
+                        
+                            a)
+                            
+                                consumatore: il soggetto definito ai sensi dell'articolo 126-decies, comma 3, lettera e), del decreto legislativo 1° settembre 1993, n. 385; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                prestatore di servizi di pagamento: i soggetti di cui all'articolo 126-decies, comma 3, lettera f), del decreto legislativo 1° settembre 1993, n. 385; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                conto di pagamento: il conto di cui all'articolo 1, comma 1, lettera l), del decreto legislativo 27 gennaio 2010, n. 11; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                conto di base: il conto di cui all'articolo 126-decies, comma 3, lettera g), del decreto legislativo 1° settembre 1993, n. 385; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                operazioni in numero superiore: le operazioni di cui all'articolo 126-decies, comma 3, lettera c), del decreto legislativo 1° settembre 1993, n. 385; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                operazioni aggiuntive: le operazioni di cui all'articolo 126-decies, comma 3, lettera d), del decreto legislativo 1° settembre 1993, n. 385.
 
 ## Art. 2. — Caratteristiche del conto di base
 

@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: DPR
 vigenza_date: 2010-12-08
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:47:44Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -437,6 +437,24 @@ Sono inoltre trasferite alla regione le funzioni amministrative esercitate dall'
 ## Art. 63-bis. — (( (Edilizia residenziale pubblica). ))
 
 ((
+
+1.
+                        
+                            
+                                Spettano inoltre alla Regione autonoma Valle d'Aosta, con riferimento alle peculiari caratteristiche orografiche ed altimetriche del proprio territorio e con salvezza dei livelli minimi essenziali espressamente stabiliti dallo Stato, le funzioni e i compiti in materia di edilizia residenziale pubblica relativi:
+ 
+                            
+                            
+                                a)
+                                
+                                    alla definizione di livelli ulteriori del servizio abitativo, nonche' degli standard di qualita' degli alloggi di edilizia residenziale pubblica;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    alla definizione dei criteri per favorire l'accesso al mercato delle locazioni dei nuclei familiari meno abbienti e agli interventi concernenti il sostegno finanziario al reddito.
 
 Le risorse finanziarie occorrenti all'esercizio delle funzioni di cui al comma 1 sono determinate d'intesa tra lo Stato e la Regione autonoma Valle d'Aosta e non possono comunque essere inferiori a quelle che spetterebbero alla Regione secondo gli ordinari riparti.
 

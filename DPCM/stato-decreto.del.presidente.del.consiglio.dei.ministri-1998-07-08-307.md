@@ -8,8 +8,8 @@ codice_redazionale: 098G0359
 vigente: true
 source: normattiva-opendata
 collection: DPCM
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:40:13Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DEL CONSIGLIO DEI MINISTRI
@@ -24,4 +24,29 @@ DEL CONSIGLIO DEI MINISTRI
 Udito il parere del Consiglio di Stato, sezione consultiva per gli atti normativi, nell'adunanza del 6 aprile 1998;
 
 ## Art. 1.
+
+1.
+                    
+                        
+                            Nell'allegato A del decreto legislativo 2 maggio 1994, n. 319, come sostituito dal decreto del Presidente del Consiglio dei Ministri 7 agosto 1996, n. 621, sono soppressi, al punto 5, i seguenti corsi di formazione:
+ 
+                        
+                        
+                            a)
+                            
+                                funzionario scientifico di laboratorio medico ("medical laboratory scientific officer");
+
+                            
+                        
+                        
+                            b)
+                            
+                                funzionario addetto alla sorveglianza di individui in liberta' provvisoria ("probation officer");
+
+                            
+                        
+                        
+                            c)
+                            
+                                protesista ("prosthsist").
 

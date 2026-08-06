@@ -8,8 +8,8 @@ codice_redazionale: 098G0345
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:39Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -33,6 +33,24 @@ Udito il parere del Consiglio di Stato espresso dalla sezione consultiva per gli
 
 Ai sensi dell'articolo 1 del regolamento CEE n. 1186/90 del Consiglio del 7 maggio 1990 e della legge dell'8 luglio 1997, n. 213, tutti gli stabilimenti di macellazione riconosciuti ai sensi del decreto legislativo del 18 aprile 1994, n. 286 e successive modificazioni, denominati in seguito "stabilimenti", classificano e identificano le carcasse o mezzene di bovini adulti conformemente alla tabella comunitaria istituita con regolamento CEE n. 1208/81 del Consiglio del 28 aprile 1981 e successive modificazioni.
 
+2.
+                        
+                            
+                                Sono esentati dall'obbligo della classificazione:
+ 
+                            
+                            
+                                a)
+                                
+                                    gli stabilimenti che provvedono a disossare tutti i bovini macellati;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    i commercianti al minuto che acquistano animali vivi e li fanno macellare per proprio conto.
+
 Possono ottenere deroghe dall'obbligo della classificazione gli stabilimenti che, in media annuale, non macellano piu' di 75 bovini adulti per settimana, previa apposita richiesta.
 
 Deroghe temporanee possono essere accordate agli stabilimenti che si limitano a macellare, in media annuale, come previsto all'articolo 2, paragrafo 1, del regolamento CEE n. 344/91 della Commissione del 13 febbraio 1991, un numero di bovini adulti pari a 150 capi per settimana, previa apposita richiesta.
@@ -45,7 +63,58 @@ Il Ministero cura, previo esame delle motivazioni che hanno dato luogo alle rich
 
 L'identificazione si effettua mediante apposizione di un marchio ad inchiostro indelebile ed atossico che indica la categoria, la classe di qualita' e lo stato d'ingrassamento del bestiame macellato, utilizzando le sigle e i numeri di cui al successivo articolo 6, comma 1.
 
+2.
+                        
+                            
+                                La marchiatura e' apposta:
+ 
+                            
+                            
+                                a)
+                                
+                                    sui quarti posteriori, a livello del controfiletto, all'altezza della quarta vertebra lombare;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    sui quarti anteriori, a livello della punta di petto, e diecitrenta centimetri di distanza dal centro dello sterno.
+ L'altezza delle lettere e delle cifre e' di almeno due centimetri.
+
 L'identificazione puo' essere effettuata anche tramite etichettatura, previa autorizzazione da richiedere alla Direzione generale delle politiche comunitarie ed internazionali del Ministero.
+
+4.
+                        
+                            
+                                I responsabili degli stabilimenti, qualora autorizzati, si attengono alle disposizioni seguenti:
+ 
+                            
+                            
+                                a)
+                                
+                                    le etichette sono numerate progressivamente e le loro dimensioni non possono essere inferiori a cm 5 ùx 10;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    oltre ai dati riguardanti la classificazione, le etichette indicano il numero di identificazione o di macellazione dell'animale, la data di macellazione ed il peso della carcassa;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    le indicazioni di cui alla precedente lettera b) debbono essere perfettamente leggibili ed esenti da qualsiasi correzione o cancellatura;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    le etichette non possono essere manomesse, sono tali da resistere alle lacerazioni e da aderire su ogni quarto (anteriore e posteriore), sulle parti anatomiche definite per la marchiatura.
 
 Il responsabile della struttura di macellazione comunica il risultato della classificazione alle persone fisiche o giuridiche che fanno procedere all'abbattimento del proprio bestiame, cosi' come disposto dall'articolo 1, paragrafo 2, del regolamento CEE n. 1186/90.
 

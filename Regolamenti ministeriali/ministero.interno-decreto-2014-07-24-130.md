@@ -7,8 +7,8 @@ urn: urn:nir:ministero.interno:decreto:2014-07-24;130
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:39Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -32,11 +32,111 @@ Il bando di concorso e' emanato con decreto del Capo del Dipartimento dei vigili
 
 Le prove di esame sono costituite da una prova scritta e da un colloquio.
 
+2.
+                    
+                        
+                            La prova scritta verte su una delle tre tracce proposte dalla commissione, tra le seguenti materie: 
+ 
+                        
+                        
+                            a)
+                            
+                                diritto amministrativo; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                contabilita' di Stato.
+
 Sono ammessi al colloquio i candidati che abbiano riportato nella prova scritta una votazione non inferiore a 21/30 (ventuno/trentesimi).
+
+4.
+                    
+                        
+                            Il colloquio verte, oltre che sulle materie di cui al comma 2, sulle seguenti materie: 
+ 
+                        
+                        
+                            a)
+                            
+                                elementi di diritto costituzionale; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                elementi di diritto comunitario; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                elementi di diritto civile, con particolare riferimento al libro IV del codice civile «Delle obbligazioni»; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                lingua straniera, a scelta del candidato, tra quelle indicate nel bando di concorso; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                conoscenza dell'uso delle apparecchiature e delle applicazioni informatiche piu' diffuse; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                ordinamento del Ministero dell'interno, con particolare riferimento al Dipartimento dei vigili del fuoco, del soccorso pubblico e della difesa civile.
 
 Il colloquio si intende superato se il candidato ottiene una votazione non inferiore a 21/30 (ventuno/trentesimi).
 
 ## Art. 3. — Titoli di servizio
+
+1.
+                    
+                        
+                            I titoli di servizio ammessi a valutazione sono: 
+ 
+                        
+                        
+                            a)
+                            
+                                la frequenza, con profitto, di corsi di aggiornamento professionale organizzati dall'amministrazione e di durata non inferiore a una settimana o a 36 ore: punti 0,25 per settimana o periodo di 36 ore, fino ad un massimo di punti 2,50; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                riconoscimenti, di cui al decreto del Ministro dell'interno 5 luglio 2007, n. 148, fino ad un massimo di punti 2,00: 
+ medaglia al merito di servizio - punti 0,80; 
+ diploma di benemerenza con medaglia - punti 0,50; 
+ encomio - punti 0,25; 
+ elogio - punti 0,15; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                anzianita' di effettivo servizio, esclusa l'anzianita' richiesta quale requisito di ammissione al concorso: punti 1,00 per ogni anno, fino ad un massimo di punti 6,00; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                lodevole servizio prestato per almeno un anno presso altre amministrazioni: punti 0,50.
 
 I predetti titoli devono essere posseduti alla data del 31 dicembre dell'anno precedente a quello di decorrenza giuridica dei posti messi a concorso.
 

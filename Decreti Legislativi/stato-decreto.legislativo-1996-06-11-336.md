@@ -8,8 +8,8 @@ codice_redazionale: 096G0336
 vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:29Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -36,11 +36,49 @@ L'art. 5 del decreto legislativo 25 febbraio 1995, n. 77, e' sostituito dal segu
 
 ## Art. 3.
 
+1.
+                    
+                        
+                            All'art. 9 del decreto legislativo 25 febbraio 1995, n. 77, sono apportate le seguenti modifiche:
+ 
+                        
+                        
+                            a)
+                            
+                                la rubrica e' sostituita dalla seguente: "(Ammortamento di beni)";
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 1 la parola: "patrimoniali" e' soppressa.
+
 ## Art. 4.
 
 Al comma 3 dell'art. 11 del decreto legislativo 25 febbraio 1995, n. 77, le parole: "con popolazione inferiore a 20.000 abitanti" sono sostituite dalle seguenti: "con popolazione inferiore a 15.000 abitanti e per le comunita' montane".
 
 ## Art. 5.
+
+1.
+                    
+                        
+                            All'art. 14 del decreto legislativo 25 febbraio 1995, n. 77, sono apportate le seguenti modifiche:
+ 
+                        
+                        
+                            a)
+                            
+                                alla lettera b) del comma 1 dopo le parole: "le risultanze dei rendiconti" sono inserite le seguenti: "o conti consolidati";
+
+                            
+                        
+                        
+                            b)
+                            
+                                la lettera d) del comma 1 e' sostituita dalle seguenti:
+ " d) il programma triennale dei lavori pubblici di cui alla legge 11 febbraio 1994, n. 109;
+ e) le deliberazioni con le quali sono determinati, per l'esercizio successivo, le tariffe, le aliquote d'imposta e le eventuali maggiori detrazioni, le variazioni dei limiti di reddito per i tributi locali e per i servizi locali, nonche', per i servizi a domanda individuale, i tassi di copertura in percentuale del costo di gestione dei servizi stessi.".
 
 ## Art. 6.
 
@@ -55,6 +93,38 @@ L'art. 19 del decreto legislativo 25 febbraio 1995, n. 77, e' sostituito dal seg
 Al comma 2 dell'art. 25 del decreto legislativo 25 febbraio 1995, n. 77, sono aggiunte, in fine, le seguenti parole: "e da eventuali accordi convenzionali".
 
 ## Art. 8.
+
+1.
+                    
+                        
+                            All'art. 27 del decreto legislativo 25 febbraio 1995, n. 77, sono apportate le seguenti modifiche:
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 3 e' aggiunto, in fine, il seguente periodo: "Quando la prenotazione di impegno e' riferita a procedure di gara bandite prima della fine dell'esercizio e non concluse entro tale termine, la prenotazione si tramuta in impegno e conservano validita' gli atti ed i provvedimenti relativi alla gara gia' adottati.";
+
+                            
+                        
+                        
+                            b)
+                            
+                                il comma 5 e' sostituito dal seguente:
+ " 5. Le spese in conto capitale si considerano impegnate ove sono finanziate nei seguenti modi:
+ a) con l'assunzione di mutui a specifica destinazione si considerano impegnate in corrispondenza e per l'ammontare del mutuo, contratto o gia' concesso, e del relativo prefinanziamento accertato in entrata;
+ b) con quota dell'avanzo di amministrazione si considerano impegnate in corrispondenza e per l'ammontare dell'avanzo di amministrazione accertato;
+ c) con l'emissione di prestiti obbligazionari si considerano impegnate in corrispondenza e per l'ammontare del prestito sottoscritto;
+ d) con entrate proprie si considerano impegnate in corrispondenza e per l'ammontare delle entrate accertate.
+ Si considerano, altresi', impegnati gli stanziamenti per spese correnti e per spese di investimento correlati ad accertamenti di entrate aventi destinazione vincolata per legge.";
+
+                            
+                        
+                        
+                            c)
+                            
+                                il comma 9 e' sostituito dal seguente:
+ " 9. Il regolamento di contabilita' disciplina le modalita' con le quali i responsabili dei servizi, individuati ai sensi dell'art. 19, assumono atti di impegno. A tali atti, da definire 'determinazioni' e da classificarsi con sistemi di raccolta che individuano la cronologia degli atti e l'ufficio di provenienza, si applicano, in via preventiva, le procedure di cui all'art. 53, comma 1, ed all'art. 55, comma 5, della legge 8 giugno 1990, n. 142.".
 
 Le disposizioni di cui ai commi 3 e 5 dell'art. 27 del decreto legislativo n. 77 del 1995, come modificati dal presente decreto legislativo, si applicano anche per l'esercizio 1995.
 
@@ -75,11 +145,49 @@ Al comma 2 dell'art. 34 del decreto legislativo 25 febbraio 1995, n. 77, le paro
 
 ## Art. 11.
 
+1.
+                    
+                        
+                            All'art. 36 del decreto legislativo 25 febbraio 1995, n. 77, sono apportate le seguenti modifiche:
+ 
+                        
+                        
+                            a)
+                            
+                                il comma 2 e' sostituito dal seguente:
+ " 2. Con periodicita' stabilita dal regolamento di contabilita' dell'ente locale, e comunque almeno una volta entro il 30 settembre di ciascun anno, l'organo consiliare provvede con delibera ad effettuare la ricognizione sullo stato di attuazione dei programmi.
+In tale sede l'organo consiliare da' atto del permanere degli equilibri generali di bilancio o, in caso di accertamento negativo, adotta contestualmente i provvedimenti necessari per il ripiano degli eventuali debiti di cui all'art. 37, per il ripiano dell'eventuale disavanzo di amministrazione risultante dal rendiconto approvato e, qualora i dati della gestione finanziaria facciano prevedere un disavanzo, di amministrazione o di gestione, per squilibrio della gestione di competenza ovvero della gestione dei residui, adotta le misure necessarie a ripristinare il pareggio. La deliberazione e' sottoposta al controllo di legittimita' dell'organo regionale di controllo ed e' allegata al rendiconto dell'esercizio relativo.";
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 3 dopo le parole: "tutte le entrate" sono aggiunte le seguenti: "e le disponibilita'".
+
 ## Art. 12.
 
 Alla lettera c) del comma 1 dell'art. 37 del decreto legislativo 25 febbraio 1995, n. 77, le parole: "ripiano delle perdite" sono sostituite dalla seguente: "ricapitalizzazione".
 
 ## Art. 13.
+
+1.
+                    
+                        
+                            All'art. 46 del decreto legislativo 25 febbraio 1995, n. 77, sono apportate le seguenti modifiche:
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 1 e' aggiunto, in fine, il seguente periodo: "Per gli enti locali di nuova istituzione si fa riferimento, per i primi due anni, ai corrispondenti dati finanziari del bilancio di previsione.";
+
+                            
+                        
+                        
+                            b)
+                            
+                                alla lettera b) del comma 2 sono aggiunte, in fine, le seguenti parole: "salvo quanto previsto da norme speciali".
 
 ## Art. 14.
 
@@ -114,6 +222,31 @@ Al comma 1 dell'art. 77 del decreto legislativo 25 febbraio 1995, n. 77, sono ag
 
 ## Art. 20.
 
+1.
+                    
+                        
+                            All'art. 79 del decreto legislativo 25 febbraio 1995, n. 77, sono apportate le seguenti modifiche:
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 1 e' aggiunto, in fine, il seguente periodo: "La deliberazione dello stato di dissesto non e' revocabile.";
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 2 le parole: "non e' revocabile" sono sostituite dalle seguenti: "e' trasmessa, entro 5 giorni dalla data di esecutivita', al Ministero dell'interno";
+
+                            
+                        
+                        
+                            c)
+                            
+                                al terzo periodo del comma 4 le parole: "e relativi termini" sono sostituite dalle seguenti: "e relativi termini iniziali".
+
 ## Art. 21.
 
 L'art. 81 del decreto legislativo 25 febbraio 1995, n. 77, e' sostituito dal seguente:
@@ -127,6 +260,31 @@ L'art. 81 del decreto legislativo 25 febbraio 1995, n. 77, e' sostituito dal seg
 Al comma 1 dell'art. 82 del decreto legislativo 25 febbraio 1995, n. 77, le parole: "previsti dall'art. 89" sono sostituite dalle seguenti: "previsti dall'art. 88".
 
 ## Art. 23.
+
+1.
+                    
+                        
+                            All'art. 84 del decreto legislativo 25 febbraio 1995, n. 77, sono apportate le seguenti modifiche:
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 1 dopo le parole: "entro trenta giorni dalla data" sono inserite le seguenti: "di esecutivita'";
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 5 il periodo: "Per lo stesso periodo, per i servizi a domanda individuale, la contribuzione degli utenti deve assicurare nel complesso la copertura dei costi almeno nella misura prevista dalle norme vigenti." e' sostituito dal seguente: "Per i servizi a domanda individuale il costo di gestione deve essere coperto con proventi tariffari e con contributi finalizzati almeno nella misura prevista dalle norme vigenti.";
+
+                            
+                        
+                        
+                            c)
+                            
+                                al comma 6 dopo le parole: "comunicate alla Commissione di ricerca per la finanza locale" sono inserite le seguenti: "presso il Ministero dell'interno entro 30 giorni dalla data di adozione".
 
 ## Art. 24.
 
@@ -201,6 +359,26 @@ L'art. 89 del decreto legislativo 25 febbraio 1995, n. 77, e' sostituito dal seg
 
 ## Art. 29.
 
+1.
+                    
+                        
+                            All'art. 90 del decreto legislativo 25 febbraio 1995, n. 77, sono apportate le seguenti modifiche:
+ 
+                        
+                        
+                            a)
+                            
+                                il comma 1 e' sostituito dal seguente:
+ " 1. In allegato al provvedimento di approvazione di cui all'art. 89, comma 8, sono individuati i debiti esclusi dalla liquidazione da porre a carico dei soggetti responsabili senza oneri a carico dell'ente locale.";
+
+                            
+                        
+                        
+                            b)
+                            
+                                il comma 2 e' sostituito dal seguente:
+ " 2. Il consiglio dell'ente individua con propria delibera, da adottare entro sessanta giorni dalla notifica del decreto di cui all'art. 89, comma 8, i soggetti ritenuti responsabili dei debiti esclusi dalla liquidazione, di cui al comma 1, dandone comunicazione ai relativi creditori.".
+
 ## Art. 30.
 
 Al comma 4 dell'art. 91 del decreto legislativo 25 febbraio 1995, n. 77, le parole: "Le province ed i comuni ai quali sono attribuiti trasferimenti di parte corrente" sono sostituite dalle seguenti: "Le province ed i comuni per i quali le risorse di parte corrente, costituite dai trasferimenti in conto al fondo ordinario ed al fondo consolidato e da quella parte di tributi locali calcolata in detrazione ai trasferimenti erariali, sono disponibili".
@@ -219,6 +397,24 @@ Al comma 2 dell'art. 94 del decreto legislativo 25 febbraio 1995, n. 77, sono ag
 Al comma 3 dell'art. 95 del decreto legislativo 25 febbraio 1995, n. 77, le parole: "sino ai cinque anni successivi" sono sostituite dalle seguenti: "sino al quinto esercizio finanziario successivo".
 
 ## Art. 34.
+
+1.
+                    
+                        
+                            All'art. 98 del decreto legislativo 25 febbraio 1995, n. 77, sono apportate le seguenti modifiche:
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 1 le parole: "Il ricostituirsi di disavanzo di amministrazione o di debiti fuori bilancio, non ripianabili con i mezzi di cui all'art. 36" sono sostituite dalle seguenti: "Il ricostituirsi di disavanzo di amministrazione non ripianabile con i mezzi di cui all'art. 36, o l'insorgenza di debiti fuori bilancio non ripianabili con le modalita' di cui all'art. 37";
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 2 sono aggiunte, in fine, le seguenti parole: ", anche in deroga alle norme vigenti, comunque senza oneri a carico dello Stato, valutando il ricorso alle forme associative e di collaborazione tra enti locali di cui al capo ottavo della legge 8 giugno 1990, n. 142".
 
 ## Art. 35.
 
@@ -267,6 +463,24 @@ All'art. 115 del decreto legislativo 25 febbraio 1995, n. 77, dopo il comma 3 e'
  "3-bis. In deroga all'art. 31, per il primo anno di applicazione dei nuovi modelli e schemi di bilancio, di cui all'art. 114, l'avanzo di amministrazione deve essere prioritariamente utilizzato per la reiscrizione dei residui passivi perenti.".
 
 ## Art. 42.
+
+1.
+                    
+                        
+                            All'art. 117 del decreto legislativo 25 febbraio 1995, n. 77, sono apportate le seguenti modifiche:
+ 
+                        
+                        
+                            a)
+                            
+                                la rubrica e' sostituita dalla seguente: "(Gradualita' di ammortamento dei beni)";
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 1 la parola: "patrimoniali" e' soppressa.
 
 ## Art. 43.
 
@@ -385,4 +599,23 @@ Nelle procedure di risanamento in corso conservano validita' i piani di estinzio
 Agli enti locali dissestati compresi nelle fattispecie di cui ai commi 1 e 2 dell'art. 121 del decreto legislativo n. 77 del 1995, come modificato dal presente decreto legislativo, non si applica la disposizione relativa all'obbligo di avviso dell'avvio della procedura di rilevazione di cui al comma 2 dell'art. 87 del medesimo decreto legislativo ed il termine di cui al comma 1 del medesimo art. 87 e' fissato in 150 giorni; i termini la cui decorrenza e' stabilita alla data di insediamento dell'organo straordinario di liquidazione iniziano a decorrere dall'entrata in vigore del presente decreto legislativo.
 
 ## Art. 46.
+
+1.
+                    
+                        
+                            Al comma 1 dell'art. 123 del decreto legislativo 25 febbraio 1995, n. 77, sono apportate le seguenti modifiche:
+ 
+                        
+                        
+                            a)
+                            
+                                la lettera e) e' sostituita dalla seguente: " e) gli articoli 5 e 6 della legge 21 dicembre 1978, n. 843;".
+
+                            
+                        
+                        
+                            b)
+                            
+                                la lettera q) e' sostituita dalla seguente:
+" q) l'art. 11, commi 1 e 1-bis, limitatamente alle disposizioni concernenti comuni, province e comunita' montane, e l'art. 21 del decreto-legge 18 gennaio 1993, n. 8, convertito, con modificazioni, dalla legge 19 marzo 1993, n. 68;
 

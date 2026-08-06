@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
 vigenza_date: 2008-07-27
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:28Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -36,6 +36,31 @@ Gli interventi e le attivita' svolte dalle istituzioni riordinate a norma del pr
 
 Le istituzioni di cui al presente decreto legislativo, che operano prevalentemente nel campo socio assistenziale anche mediante il finanziamento di attivita' e interventi sociali realizzati da altri enti con le rendite derivanti dalla gestione del loro patrimonio, sono inserite nel sistema integrato di interventi e servizi sociali di cui all'articolo 22 della legge, nel rispetto delle loro finalita' e specificita' statutarie.
 
+2.
+                        
+                            
+                                Le Regioni disciplinano le modalita' di concertazione e cooperazione dei diversi livelli istituzionali con le istituzioni e, in sede di programmazione dei servizi sociali e socio-sanitari, allo scopo di determinare la pianificazione territoriale e di definire gli interventi prioritari, le regioni definiscono:
+ 
+                            
+                            
+                                a)
+                                
+                                    le modalita' di partecipazione delle istituzioni e delle loro associazioni o rappresentanze, alle iniziative di programmazione e gestione dei servizi;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'apporto delle istituzioni al sistema integrato di servizi sociali e socio-sanitari;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    le risorse regionali eventualmente disponibili per potenziare gli interventi e le iniziative delle istituzioni nell'ambito della rete dei servizi.
+
 ## Art. 3. — Criteri generali per diverse tipologie di istituzioni
 
 Alle istituzioni che operano prevalentemente nel settore scolastico si applicano, in presenza dei requisiti previsti, le disposizioni del decreto del Presidente del Consiglio dei Ministri 16 febbraio 1990, pubblicato nella Gazzetta Ufficiale n. 45 del 23 febbraio 1990. Le Regioni disciplinano le residue ipotesi e regolano i rapporti con i nuovi enti pubblici o privati nell'ambito delle deleghe di cui all'articolo 138 del decreto legislativo 31 marzo 1998, n. 112.
@@ -54,6 +79,29 @@ In sede di prima applicazione, e comunque fino al ((30 giugno 2008)), gli atti r
 
 I comuni, le province, le regioni e le province autonome di Trento e Bolzano possono adottare nei confronti delle istituzioni riordinate in aziende pubbliche di servizi alla persona o in persone giuridiche di diritto privato, la riduzione e l'esenzione dal pagamento dei tributi di loro pertinenza.
 
+6.
+                        
+                            
+                                Alla tariffa, parte prima, allegata al testo unico delle disposizioni concernenti l'imposta di registro, approvato con decreto del Presidente della Repubblica 26 aprile 1986, n. 131, sono apportate le seguenti modificazioni:
+
+                            
+                            
+                                a)
+                                
+                                    all'articolo 1, dopo l'ottavo capoverso e' aggiunto il seguente: "Se il trasferimento avviene a favore delle istituzioni riordinate in aziende di servizi o in organizzazioni non lucrative di utilita' sociale ove ricorrano le condizioni di cui alla nota II-quinquies. ... L. 250.000.";
+                                
+                            
+                            
+                                b)
+                                
+                                    alle note e' aggiunta la seguente: "II-quinquies) A condizione che la istituzione riordinata in azienda di servizio o in organizzazione non lucrativa di utilita' sociale dichiari nell'atto che intende utilizzare direttamente i beni per lo svolgimento della propria attivita' e che realizzi l'effettivo utilizzo diretto entro due anni dall'acquisto. In caso di dichiarazione mendace o di mancata effettiva utilizzazione per lo svolgimento della propria attivita' e' dovuta l'imposta nella misura ordinaria nonche' una sanzione amministrativa pari al 30% dell'imposta stessa.";
+                                
+                            
+                            
+                                c)
+                                
+                                    dopo l'articolo 11-bis e' aggiunto il seguente: "Art. 11-ter. - Atti costitutivi e modifiche statutarie concernenti le istituzioni riordinate in aziende di servizi o in persone giuridiche private ... L. 250.000.".
+
 La disciplina delle erogazioni liberali prevista dall'articolo 13 del decreto legislativo 4 dicembre 1997, n. 460, relativa alle organizzazioni non lucrative di utilita' sociale, e' estesa alle istituzioni riordinate in aziende di servizi.
 
 ## - Capo II Aziende di servizi
@@ -61,6 +109,38 @@ La disciplina delle erogazioni liberali prevista dall'articolo 13 del decreto le
 ## Art. 5. — Aziende pubbliche di servizi alla persona
 
 Le istituzioni che svolgono direttamente attivita' di erogazione di servizi assistenziali sono tenute a trasformarsi in aziende pubbliche di servizi alla persona e ad adeguare i propri statuti alle previsioni del presente capo entro due anni dall'entrata in vigore del presente decreto legislativo. Sono escluse da tale obbligo le istituzioni nei confronti delle quali siano accertate le caratteristiche di cui al decreto del Presidente del Consiglio dei Ministri 16 febbraio 1990, pubblicato nella Gazzetta Ufficiale n. 45 del 23 febbraio 1990, recante: "Direttiva alle regioni in materia di riconoscimento della personalita' giuridica di diritto privato alle istituzioni pubbliche di assistenza e beneficenza a carattere regionale e infraregionale", o per le quali ricorrano le altre ipotesi previste dal presente decreto legislativo.
+
+2.
+                        
+                            
+                                La trasformazione in azienda pubblica di servizi alla persona e' esclusa:
+ 
+                            
+                            
+                                a)
+                                
+                                    nel caso in cui le dimensioni dell'istituzione non giustifichino il mantenimento della personalita' giuridica di diritto pubblico;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    nel caso in cui l'entita' del patrimonio e il volume del bilancio siano insufficienti per la realizzazione delle finalita' e dei servizi previsti dallo statuto;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    nel caso di verificata inattivita' nel campo sociale da almeno due anni;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    nel caso risultino esaurite o non siano piu' conseguibili le finalita' previste nelle tavole di fondazione o negli statuti.
 
 Le ipotesi di cui al comma 2 sono definite dalle regioni sulla base di criteri generali previamente determinati con atto di intesa da adottarsi in sede di Conferenza unificata, acquisito il parere delle associazioni o rappresentanze delle aziende pubbliche di servizi alla persona e delle IPAB, tenendo comunque conto del territorio servito dall'istituzione, della tipologia dei servizi e della complessita' delle attivita' svolte, del numero e della tipologia degli utenti e di ogni altro elemento necessario per la classificazione delle istituzioni.
 
@@ -138,11 +218,66 @@ Il patrimonio delle aziende pubbliche di servizi alla persona e' costituito da t
 
 All'atto della trasformazione le istituzioni provvedono a redigere un nuovo inventario dei beni immobili e mobili, segnalando alle Regioni gli immobili che abbiano valore storico e monumentale e i mobili aventi particolare pregio artistico per i quali si rendano necessari interventi di risanamento strutturale o di restauro.
 
+3.
+                        
+                            
+                                I beni mobili e immobili che le aziende di servizi destinano ad un pubblico servizio costituiscono patrimonio indisponibile degli stessi, soggetto alla disciplina dell'articolo 828, secondo comma, del codice civile. Il vincolo dell'indisponibilita' dei beni va a gravare: 
+                            
+                            
+                                a)
+                                
+                                    in caso di sostituzione di beni mobili per degrado o adeguamento tecnologico, sui beni acquistati in sostituzione;
+                                
+                            
+                            
+                                b)
+                                
+                                    in caso di trasferimento dei servizi pubblici in altri immobili appositamente acquistati o ristrutturati, sui nuovi immobili. I beni immobili e mobili sostituiti entrano automaticamente a fare parte del patrimonio disponibile. Le operazioni previste dal presente comma sono documentate con le annotazioni previste dalle disposizioni vigenti.
+
 Gli atti di trasferimento a terzi di diritti reali su immobili sono trasmessi alla Regione, la quale puo' richiedere chiarimenti - limitatamente ai casi in cui non sia contestualmente documentato il reinvestimento dei relativi proventi - entro il termine di trenta giorni dalla ricevuta comunicazione, decorso inutilmente il quale gli atti acquistano efficacia. Ove la Regione chieda chiarimenti, il termine di sospensione dell'efficacia degli atti e' prorogato fino al trentesimo giorno decorrente dalla data in cui le aziende li hanno forniti. Gli atti non acquistano efficacia ove la Regione vi si opponga in quanto l'atto di trasferimento risulti gravemente pregiudizievole per le attivita' istituzionali dell'azienda di servizi. In tal caso la Regione adotta provvedimento motivato entro il termine predetto.
 
 I trasferimenti di beni a favore delle aziende di servizi da parte dello Stato e di altri enti pubblici, in virtu' di leggi e provvedimenti amministrativi, sono esenti da ogni onere relativo a imposte e tasse, ove i beni siano destinati all'espletamento' di pubblici servizi.
 
 ## Art. 14. — Contabilita'
+
+1.
+                        
+                            
+                                Le Regioni, a norma dell'articolo 10, comma 3, della legge, definiscono i criteri generali in matera di contabilita' delle aziende pubbliche di servizi alla persona, prevedendo la possibilita' di utilizzare procedure semplificate per la conclusione dei contratti per l'acquisizione di forniture di beni e di servizi di valore inferiore a quello fissato dalla specifica normativa comunitaria e di quella interna di recepimento, nonche' disposizioni per la loro gestione economico-finanziaria e patrimoniale, informate ai principi di cui al codice civile, prevedendo, tra l'altro:
+ 
+                            
+                            
+                                a)
+                                
+                                    l'adozione del bilancio economico pluriennale di previsione nonche' del bilancio preventivo economico annuale relativo all'esercizio successivo;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le modalita' di copertura degli eventuali disavanzi di esercizio;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    la tenuta di una contabilita' analitica per centri di costo e responsabilita' che consenta analisi comparative dei costi, dei rendimenti e dei risultati;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    l'obbligo di rendere pubblici, annualmente, i risultati delle proprie analisi dei costi, dei rendimenti e dei risultati per centri di costo e responsabilita';
+
+                                
+                            
+                            
+                                e)
+                                
+                                    il piano di valorizzazione del patrimonio immobiliare anche attraverso eventuali dismissioni e conferimenti.
 
 Alle aziende pubbliche di servizi alla persona si applica l'articolo 5, comma 7, del decreto legislativo 30 dicembre 1992, n. 502, come sostituito dall'articolo 5, comma 1, del decreto legislativo 19 giugno 1999, n. 229.
 
@@ -173,6 +308,38 @@ La Regione, quale autorita' governativa competente, esercita il controllo e la v
 Ai procedimenti per l'acquisizione della personalita' giuridica di diritto privato da parte delle istituzioni, dopo l'esaurimento dei procedimenti di accertamento delle caratteristiche che consentono la trasformazione, disciplinati dalle Regioni, si applicano le disposizioni di cui al decreto del Presidente della Repubblica 10 febbraio 2000, n. 361. Alla domanda di registrazione vanno allegati l'atto costitutivo o istitutivo della istituzione e la deliberazione di trasformazione contenente lo statuto del nuovo ente.
 
 ## Art. 17. — Revisione statutaria
+
+1.
+                        
+                            
+                                La trasformazione in persone giuridiche di diritto privato, nel rispetto delle tavole di fondazione e delle volonta' dei fondatori, avviene mediante deliberazioneassunta dall'organo competente, nella forma di atto pubblico contenente lo statuto, che puo' disciplinare anche:
+ 
+                            
+                            
+                                a)
+                                
+                                    le modalita' di impiego delle risorse anche a finalita' di conservazione, valorizzazione e implementazione del patrimonio;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la possibilita' del mantenimento, della nomina pubblica dei componenti degli organi di amministrazione gia' prevista dagli statuti, esclusa comunque ogni rappresentanza;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    la possibilita', per le fondazioni, che il consiglio di amministrazione, che deve comunque comprendere le persone indicate nelle originarie tavole di fondazione in ragione di loro particolari qualita', possa essere integrato da componenti designati da enti pubblici e privati che aderiscano alla fondazione con il conferimento di rilevanti risorse patrimoniali o finanziarie;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    la possibilita', per le associazioni, di mantenere tra gli amministratori le persone indicate nelle originarie tavole di fondazione in ragione di loro particolari qualita', a condizione che la maggioranza degli amministratori sia nominata dall'assemblea dei soci, in ossequio al principio di democraticita'.
 
 Nello statuto sono altresi' indicati i beni immobili e i beni di valore storico e artistico destinati dagli statuti e dalle tavole di fondazione alla realizzazione dei fini istituzionali e sono individuate maggioranze qualificate per l'adozione delle delibere concernenti la dismissione di tali beni contestualmente al reinvestimento dei proventi nell'acquisto di beni piu' funzionali al raggiungimento delle medesime finalita', con esclusione di qualsiasi diminuzione del valore patrimoniale da essi rappresentato, rapportato ad attualita'.
 

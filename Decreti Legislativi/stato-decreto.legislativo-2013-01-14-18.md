@@ -7,8 +7,8 @@ urn: urn:nir:stato:decreto.legislativo:2013-01-14;18
 vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:21Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -38,6 +38,49 @@ L'Agenzia nazionale per la sicurezza del volo (ANSV), di seguito denominata: «A
 Il procedimento sanzionatorio connesso alle violazioni previste dall'articolo 4 e' disciplinato con delibera del Collegio dell'Agenzia, da sottoporre all'approvazione della Presidenza del Consiglio dei Ministri, sentiti i Ministeri della giustizia e delle infrastrutture e dei trasporti. Il medesimo procedimento e' reso pubblico mediante pubblicazione nella Gazzetta Ufficiale della Repubblica italiana e nel sito web istituzionale dell'Agenzia.
 
 ## Art. 4. — Violazioni e sanzioni amministrative
+
+1.
+                    
+                        
+                            Salvo che il fatto costituisca reato, l'Agenzia irroga le sanzioni amministrative pecuniarie per le violazioni di seguito elencate: 
+ 
+                        
+                        
+                            a)
+                            
+                                ai soggetti di cui all'articolo 2 che, avuta conoscenza, nell'esercizio delle proprie funzioni, del verificarsi di un incidente o di un inconveniente grave, non ne informino l'Agenzia immediatamente, ossia entro sessanta minuti, direttamente o attraverso l'organizzazione di cui fanno parte, si applica la sanzione amministrativa da tremila euro a dodicimila euro; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                ai soggetti di cui all'articolo 2 che diffondano le informazioni protette di cui all'articolo 14 del regolamento si applica la sanzione amministrativa da diecimila euro a quarantamila euro; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                ai soggetti di cui all'articolo 2 che ostacolino l'attivita' dell'Agenzia, impedendo ai suoi investigatori di adempiere ai loro doveri, si applica la sanzione amministrativa da cinquemila euro a ventimila euro; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                si applica la sanzione amministrativa da ventimila euro a ottantamila euro ai soggetti di cui all'articolo 2 che, prima dell'arrivo degli investigatori dell'Agenzia: 
+ 1) modificano lo stato del luogo dell'incidente; 
+ 2) prelevano campioni dal luogo dell'incidente; 
+ 3) intraprendono movimenti o effettuano campionamenti dell'aeromobile, del suo contenuto o del suo relitto; 
+ 4) spostano o rimuovono l'aeromobile o il suo relitto; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                ai soggetti di cui all'articolo 2 che si rifiutino di fornire agli investigatori dell'Agenzia registrazioni, informazioni e documenti rilevanti ai fini dell'inchiesta di sicurezza, occultandoli, alterandoli o distruggendoli, si applica la sanzione amministrativa da ventimila euro a ottantamila euro.
 
 Non si applicano la sanzione amministrativa di cui al comma 1, lettera d), a chi commette le condotte di cui ai numeri 1), 2), 3) e 4) della medesima lettera, per ragioni di sicurezza, per assistere persone ferite ovvero previa autorizzazione dell'autorita' responsabile del luogo dell'incidente, con la consultazione, ove possibile, dell'Agenzia.
 

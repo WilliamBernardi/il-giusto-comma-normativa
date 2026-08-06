@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
 vigenza_date: 1996-04-04
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:39Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DEL CONSIGLIO DEI MINISTRI
@@ -53,9 +53,73 @@ Analoghe precauzioni incombono al mittente e al destinatario durante le operazio
 
 ## Art. 3.
 
+1.
+                    
+                        
+                            Durante il trasporto i rifiuti speciali, tossici e nocivi sono accompagnati, oltre che dalla documentazione richiesta dalle imprese esercenti il trasporto ferroviario, da:
+ 
+                        
+                        
+                            a)
+                            
+                                una copia del contratto tra il produttore o detentore e lo smaltitore, con gli estremi dell'autorizzazione rilasciata dalla regione competente ai sensi dell'art. 6, lettera d), del decreto del Presidente della Repubblica 10 settembre 1982, n. 915;
+
+                            
+                        
+                        
+                            b)
+                            
+                                un formulario contenente i seguenti dati e notizie, come indicati nell'allegato 1 che e' parte integrante del presente regolamento:
+ 1) nome o ragione sociale, indirizzo e codice fiscale del produttore o detentore, nonche' il luogo della produzione o detenzione;
+ 2) nome o ragione sociale, indirizzo e codice fiscale del destinatario e luogo di destinazione, nonche' gli estremi dell'autorizzazionedi cui all'art. 6 del decreto del Presidente della Repubblica n. 915/1982;
+ 3) nome o ragione sociale, indirizzo e codice fiscale dell'eventuale vettore stradale effettuante il trasporto tra il produttore o detentore e la stazione ferroviaria di partenza, nonche' di quello effettuante il trasporto tra la stazione ferroviaria di arrivo e il luogo di destinazione, nonche' gli estremi dell'autorizzazione di cui all'art. 6, lettera d), del decreto del Presidente della Repubblica n. 915/1982;
+ 4) natura, composizione, caratteristiche chimico-fisiche, volume e massa dei rifiuti trasportati;
+ 5) le istruzioni da seguire in caso di pericolo o incidente;
+ 6) l'indicazione del periodo massimo nel quale i rifiuti possono essere contenuti nell'imballaggio senza pericoli per l'incolumita' pubblica e per l'ambiente.
+
 ## Art. 4.
 
 Il formulario previsto dal precedente art. 3 deve essere sottoscritto e datato dal produttore o detentore dei rifiuti e dal vettore stradale, ove diverso dal produttore o detentore, il quale effettua il trasporto alla stazione ferroviaria di partenza.
+
+2.
+                    
+                        
+                            Il formulario deve essere redatto in cinque esemplari:
+ 
+                        
+                        
+                            a)
+                            
+                                un esemplare e' trattenuto dal produttore o detentore di rifiuti, il quale ne invia copia all'amministrazione provinciale competente prima dell'inizio del trasporto;
+
+                            
+                        
+                        
+                            b)
+                            
+                                un esemplare deve essere consegnato al vettore stradale che effettua il trasporto alla stazione di partenza, ove il produttore o detentore non provveda direttamente, e deve essere datato e timbrato dall'impresa esercente il trasporto ferroviario all'atto di prendere in carico i rifiuti;
+
+                            
+                        
+                        
+                            c)
+                            
+                                un esemplare deve essere consegnato all'impresa ferroviaria;
+
+                            
+                        
+                        
+                            d)
+                            
+                                un esemplare deve essere consegnato dall'impresa esercente il trasporto ferroviario al vettore stradale che effettua il trasporto dalla stazione di arrivo all'impianto di smaltimento.
+ Tale esemplare deve essere datato e sottoscritto in arrivo dal destinatario dei rifiuti il quale provvede ad inviarne copia all'amministrazione provinciale di cui al punto a) e, al termine del trasporto, a quella competente per il territorio del luogo di destinazione dei rifiuti;
+
+                            
+                        
+                        
+                            e)
+                            
+                                un esemplare deve essere consegnato al destinatario dei rifiuti il quale ne invia copia all'amministrazione provinciale di cui al punto a) e a quella competente per il territorio del luogo di destinazione dei rifiuti, nonche' al produttore o detentore di rifiuti.
 
 Gli esemplari del formulario devono essere trattenuti per un periodo di almeno cinque anni.
 

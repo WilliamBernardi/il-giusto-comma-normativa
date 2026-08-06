@@ -8,8 +8,8 @@ vigente: true
 source: normattiva-opendata
 collection: Leggi delega e relativi provvedimenti delegati
 vigenza_date: 2026-06-27
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:41:20Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -41,23 +41,400 @@ Gli agricoltori possono attuare il reimpiego delle sementi o lo scambio di parte
 
 Per «commercializzazione» s'intende la vendita, la detenzione a fini di vendita, l'offerta in vendita e qualsiasi collocamento, fornitura o trasferimento mirante allo sfruttamento commerciale di sementi a terzi, con o senza compenso.
 
+6.
+                        
+                            
+                                Non sono considerate commercializzazione le operazioni non miranti allo sfruttamento commerciale delle varieta' come: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la fornitura di sementi a organismi ufficiali di valutazione e ispezione; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la fornitura di sementi a prestatori di servizi, per lavorazione o imballaggio, purche' essi non acquisiscano titoli sulle sementi fornite; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    la fornitura di sementi in determinate condizioni a prestatori di servizi per la produzione di talune materie prime agrarie a fini industriali, ovvero per la propagazione di sementi finalizzata alla produzione di talune materie prime agrarie a fini industriali, purche' essi non acquisiscano titoli sulle sementi fornite ne' sul prodotto del raccolto. Il fornitore di tali sementi trasmette al Ministero delle politiche agricole alimentari e forestali o all'organismo da questo delegato alla certificazione dei prodotti sementieri, una copia delle pertinenti disposizioni del contratto concluso con il prestatore di servizi, anche tramite la propria organizzazione di rappresentanza, comprendente le norme e le condizioni cui si conformano in quel momento le sementi fornite. Deve essere, comunque, garantita la tracciabilita' di tutti i prodotti sementieri oggetto della fornitura; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    il reimpiego delle sementi effettuato dagli agricoltori, ovvero lo scambio di parte del raccolto effettuato dai medesimi, di cui al comma 4.
+
 ## Art. 2.
 
 Autorita' nazionale competente
 
 Il Ministero delle politiche agricole alimentari e forestali, di seguito denominato Ministero, e' individuato quale autorita' nazionale competente ai fini dell'applicazione del presente decreto.
 
+2.
+                        
+                            
+                                Il Servizio fitosanitario centrale rappresenta l'autorita' unica di coordinamento a livello nazionale responsabile per: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il coordinamento delle attivita' tecnico-amministrative e tecnico-scientifiche relative all'attuazione delle direttive dell'Unione in materia di produzione e commercializzazione dei prodotti sementieri; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il coordinamento delle prove ufficiali di distinguibilta', omogeneita' e stabilita' (DUS) di cui all'articolo 9 ai fini dell'iscrizione al Registro nazionale; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    la predisposizione delle modalita' di attuazione dei controlli ufficiali dei prodotti sementieri e le procedure documentate di controllo, sentito il parere del Gruppo di lavoro permanente per la protezione delle piante - sezione sementi, istituito con decreto del Ministro delle politiche agricole alimentari e forestali 30 giugno 2016, n. 17713, di seguito «Gruppo di lavoro permanente»; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    la tenuta e l'aggiornamento del Registro nazionale delle varieta'.
+
 ## Art. 3. — Definizioni
+
+1.
+                        
+                            
+                                Ai fini del presente decreto, si applicano le seguenti definizioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    anno di produzione: anno relativo alla prima lavorazione, selezione e confezionamento delle sementi e degli altri materiali di riproduzione e moltiplicazione; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    associazione varietale: un'associazione di sementi certificate di un determinato ibrido impollinatore-dipendente, ufficialmente iscritto al Registro nazionale delle varieta' di piante agrarie, con sementi certificate di uno o piu' determinati impollinatori, ugualmente iscritti, e miscelate meccanicamente in proporzioni stabilite congiuntamente dai responsabili della conservazione in purezza di tali componenti; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    avente causa: persona fisica o giuridica alla quale e' stato trasmesso o che ha acquisito le prerogative sulla varieta' prima spettanti al costitutore; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    Comitato fitosanitario nazionale: organismo di cui al decreto legislativo recante norme per la protezione delle piante dagli organismi nocivi in attuazione dell'articolo 11 della legge 4 ottobre 2019, n. 117; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    costitutore: la persona fisica o giuridica che ha creato oppure scoperto e sviluppato la varieta' ovvero il suo avente causa, responsabile della conservazione in purezza della varieta' che cura direttamente o affida ad un responsabile della conservazione; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    ditta sementiera: operatore professionale impegnato in almeno una delle seguenti attivita': produzione, lavorazione o commercializzazione di prodotti sementieri; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    germinabilita': percentuale in numero di semi puri capaci di produrre germinelli normali potenzialmente in grado di svilupparsi in piante normali in condizioni favorevoli di coltura; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    ibridi: piante derivanti da incroci di due o piu' varieta' della stessa specie di vegetale; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    ibrido impollinatore-dipendente: il componente maschiosterile dell'associazione varietale o dell'ibrido (componente femminile); 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    impollinatore: il componente che emette polline nell'associazione varietale o dell'ibrido (componente maschile); 
+
+                                
+                            
+                            
+                                m)
+                                
+                                    linea «inbred»: linea sufficientemente omogenea e stabile ottenuta sia per autofecondazione artificiale accompagnata da selezione durante parecchie generazioni successive, sia con operazioni equivalenti; 
+
+                                
+                            
+                            
+                                n)
+                                
+                                    lotto: un quantitativo omogeneo di sementi o di materiali di riproduzione che non superi i limiti di peso, indicati nell'allegato IV, al presente decreto di cui costituisce parte integrante; 
+
+                                
+                            
+                            
+                                o)
+                                
+                                    miscugli: la partita di sementi, tuberi, bulbi, rizomi e simili costituita da due o piu' specie o varieta', quando l'insieme di esse, meno quella presente in maggiore quantita', superi la percentuale ponderale del 5 per cento; 
+
+                                
+                            
+                            
+                                p)
+                                
+                                    micropropagazione: la pratica che prevede la moltiplicazione rapida del materiale vegetale al fine di produrre un elevato numero di piante, impiegando colture in vitro provenienti da boccioli o meristemi vegetali differenziati ottenuti da una pianta; 
+
+                                
+                            
+                            
+                                q)
+                                
+                                    pianta madre: una pianta identificata da cui si ottiene il materiale di propagazione; 
+
+                                
+                            
+                            
+                                r)
+                                
+                                    prodotti sementieri: le sementi, i tuberi, i bulbi, i rizomi e simili, destinati alla riproduzione e alla moltiplicazione delle piante; 
+
+                                
+                            
+                            
+                                s)
+                                
+                                    purezza fisica: la percentuale in peso del seme puro della varieta' o specie contenuta in un lotto o in una confezione. Le impurita' sono costituite da sostanze inerti e semi di altre varieta' o specie; 
+
+                                
+                            
+                            
+                                t)
+                                
+                                    responsabile della conservazione in purezza: la persona fisica o giuridica che cura il mantenimento in purezza della varieta', per conto del costitutore; 
+
+                                
+                            
+                            
+                                u)
+                                
+                                    servizio fitosanitario nazionale: l'organismo di cui al decreto legislativo recante norme per la protezione delle piante dagli organismi nocivi in attuazione dell'articolo 11 della legge 4 ottobre 2019, n. 117, articolato nel Servizio fitosanitario centrale e nei Servizi fitosanitari regionalie delle province autonome; 
+
+                                
+                            
+                            
+                                v)
+                                
+                                    stabilimento: ogni unita' produttiva stabilmente costituita, provvista di strutture come uffici, serre, magazzini, capannoni, attraverso le quali la ditta sementiera svolge le attivita' previste dal presente decreto; 
+
+                                
+                            
+                            
+                                z)
+                                
+                                    varieta' sintetiche: varieta' risultanti dalla progenie di un certo numero di linee liberamente fecondatesi; 
+
+                                
+                            
+                            
+                                aa)
+                                
+                                    unita' di vendita: la piu' piccola unita', commerciale o di altro tipo, utilizzabile nella fase di commercializzazione interessata, che puo' costituire il sottoinsieme o l'insieme di un lotto.
 
 ## Art. 4. — Classificazioni dei prodotti sementieri
 
+1.
+                        
+                            
+                                Ai fini dell'applicazione del presente decreto i prodotti sementieri sono distinti nei seguenti gruppi: 
+ 
+                            
+                            
+                                a)
+                                
+                                    foraggere; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    cereali; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    barbabietole; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    oleaginose e da fibra; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    ortaggi; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    patate; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    miscugli; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    altri prodotti sementieri diversi da quelli indicate dalle lettere precedenti.
+
 Ai fini della classificazione dei prodotti sementieri le specie appartenenti ai gruppi di cui al comma 1, ad eccezione dei miscugli, sono elencate nell'allegato I al presente decreto di cui costituisce parte integrante. Il Ministro delle politiche agricole alimentari e forestali, con proprio decreto, stabilisce, conformemente alle disposizioni europee, eventuali modifiche dell'elenco delle specie di cui all'allegato I.
+
+3.
+                        
+                            
+                                I prodotti sementieri appartenenti ai gruppi di cui al comma 1, e alle specie di cui all'allegato I, si suddividono nelle seguenti categorie: 
+ 
+                            
+                            
+                                a)
+                                
+                                    categoria pre-base: le sementi e i materiali di moltiplicazione di generazioni antecedenti la categoria base, prodotti dal costitutore o aventi causa, direttamente o sotto la loro personale responsabilita', secondo norme di selezione che assicurino la conservazione in purezza delle varieta' a partire dalla selezione conservatrice; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    categoria di base: le sementi e i materiali di moltiplicazione, prodotti dal costitutore o aventi causa, direttamente o sotto la loro personale responsabilita', secondo norme di selezione che assicurino la conservazione in purezza delle varieta'; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    categoria certificata: le sementi e i materiali di moltiplicazione derivanti da prodotto appartenente alla categoria di base, in prima o seconda riproduzione; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    categoria commerciale: le sementi e i materiali di moltiplicazione di piante erbacee, ad esclusione delle sementi ortive, non classificabili nella «categoria di base» o nella «categoria certificata» e identificabili soltanto tramite la specie; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    categoria standard: le sementi e i materiali di moltiplicazione di specie ortive, per le quali e' previsto l'obbligo del registro varietale, prodotte da varieta' dotate di sufficiente identita' e purezza varietale; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    categoria «mercantile ortiva»: le sementi e i materiali di moltiplicazione di specie ortive, diverse da quelle elencate nell'allegato II, sezione C, per le quali non e' previsto l'obbligo del registro varietale e che devono rispondere alle condizioni di cui all'allegato VI, sezione II.
 
 I prodotti sementieri delle categorie pre-base, base e certificata devono essere ufficialmente controllati e certificati.
 
 I requisiti delle categorie di cui al comma 3 sono stabiliti al Capo III.
 
 ## Art. 5. — Miscugli di sementi e di materiali di moltiplicazione
+
+1.
+                        
+                            
+                                Salvo quanto disposto dal comma 2, la commercializzazione dei miscugli e' consentita nei seguenti casi: 
+ 
+                            
+                            
+                                a)
+                                
+                                    miscugli destinati alla produzione di foraggi: i miscugli contenenti sementi di specie vegetali di cui all'allegato II, sezioni A e B, con esclusione delle varieta' di cui all'articolo 34, comma 4; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    miscugli destinati alla costituzione di tappeti erbosi o comunque non destinati alla produzione di foraggi: i miscugli contenenti sementi appartenenti a specie vegetali di cui all'allegato II, sezioni A e B e sementi appartenenti a specie vegetali non incluse tra quelle richiamate nel presente comma; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    miscele di sementi per la preservazione dell'ambiente naturale, di cui all'articolo 62, comma 4, nel quadro della conservazione delle risorse genetiche; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    miscugli di diverse specie di cereali: i miscugli di sementi di diverse specie di cereali di cui all'allegato I; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    miscugli di diverse varieta' di specie di cereali: i miscugli di varieta' diverse di una specie di cereali purche' tali miscugli, sulla base delle conoscenze scientifiche e tecniche, risultino particolarmente efficaci contro la propagazione di taluni organismi nocivi; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    miscugli destinati alla produzione di ortaggi: 
+ 1) miscugli di sementi standard di piu' varieta' della stessa specie in piccoli imballaggi; 
+ 2) miscugli di sementi della categoria mercantile ortiva, caratterizzati solo per la specie, in piccoli imballaggi; 
+ 3) miscugli di sementi standard e di sementi della categoria mercantile ortiva caratterizzati solo per la specie, in piccoli imballaggi.
 
 Per le sementi e per i materiali di moltiplicazione di cui all'articolo 4, la commercializzazione di miscugli e' consentita alle condizioni di cui all'articolo 31, comma 4, e solo in piccoli imballaggi di cui all'allegato V al presente decreto, di cui costituisce parte integrante.
 
@@ -67,11 +444,54 @@ Le diverse componenti dei miscugli di cui al presente articolo devono essere con
 
 I piccoli imballaggi contenenti miscugli di sementi di cui al comma 1, lettere a), b), c) e f) non devono essere superiori al peso o al numero di pezzi indicati nell'allegato V.
 
+6.
+                        
+                            
+                                Il Ministro delle politiche agricole alimentari e forestali, con proprio decreto, in conformita' alle disposizioni europee, determina condizioni specifiche per cio' che riguarda la commercializzazione di miscugli compresi i piccoli imballaggi in relazione a: 
+ 
+                            
+                            
+                                a)
+                                
+                                    altre condizioni per la commercializzazione dei miscugli di cui al comma 1, lettere a) e
+                                
+                            
+                            
+                                b)
+                                
+                                    con particolare riferimento alle etichettature, al controllo della produzione e al campionamento dei lotti di partenza e dei miscugli prodotti; 
+ b) le condizioni relative alla commercializzazione dei miscugli di cui al comma 1, lettere c), d) ed e); 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    le specie cui si applicano le disposizioni di cui al comma 1, lettera f), le dimensioni massime per gli imballaggi e i requisiti per l'etichettatura.
+
 ## Art. 6. — Obblighi delle ditte sementiere
 
 La ditta sementiera deve essere registrata presso il Servizio fitosanitario nazionale nel Registro ufficiale degli operatori professionali (RUOP) in applicazione degli articoli 65 e 66 del regolamento (UE) 2016/2031.
 
 Con regolamento ai sensi dell'articolo 17, comma 3, della legge 23 agosto 1988, n. 400, del Ministro delle politiche agricole alimentari e forestali, su parere del Comitato fitosanitario nazionale, di cui al decreto legislativo recante norme per la protezione delle piante dagli organismi nocivi attuativo dell'articolo 11 della legge 4 ottobre 2019, n. 117, sono stabiliti i requisiti di professionalita', dotazioni minime di attrezzature e le relative procedure di controllo necessarie all'esercizio dell'attivita' sementiera.
+
+3.
+                        
+                            
+                                Sono esonerati dalla registrazione al RUOP di cui al comma 1: 
+ 
+                            
+                            
+                                a)
+                                
+                                    i produttori agricoli che cedono prodotti sementieri direttamente a ditte sementiere registrate; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    i commercianti che vendono esclusivamente al dettaglio prodotti sementieri gia' confezionati ed etichettati.
 
 Il Servizio fitosanitario regionale, nel cui territorio ricade la sede legale della ditta sementiera provvede alla registrazione nel RUOP, dandone comunicazione ai Servizi fitosanitari regionali coinvolti, in applicazione degli articoli 65 e 66 del regolamento (UE) 2016/2031.
 
@@ -84,6 +504,24 @@ Registri nazionali delle varieta' di specie agrarie e ortive
 Il Ministero puo' istituire, per ciascuna specie di coltura, Registri di varieta' al fine di permettere l'identificazione delle varieta' stesse anche quando queste sono linee «inbred» o ibridi destinati a servire, a loro volta, da componenti per la costituzione di altre varieta' finali e le loro sementi sono commercializzate con propria denominazione.
 
 L'istituzione dei Registri di varieta' e' obbligatoria per le varieta' di patate, di barbabietola da zucchero e da foraggio, per le varieta' di specie foraggere, cereali, oleaginose e da fibra, nonche' per le varieta' di specie ortive, limitatamente alle specie indicate nell'allegato II del presente decreto, di cui costituisce parte integrante. E' facolta' del Ministero istituire «Registri volontari» per specie agrarie e ortive diverse da quelle contemplate nell'allegato II, a fronte di un interesse economico concreto per tali specie. L'elenco dei registri volontari istituiti e' riportato nell'allegato III al presente decreto di cui costituisce parte integrante.
+
+3.
+                        
+                            
+                                I Registri di varieta' di specie ortive sono suddivisi in: 
+ 
+                            
+                            
+                                a)
+                                
+                                    Registro delle varieta' le cui sementi possono essere certificate in quanto «sementi di base» o «sementi certificate», o controllate in quanto «sementi standard»; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    Registro delle varieta' le cui sementi possono essere controllate soltanto quali «sementi standard».
 
 I Registri delle varieta', la cui tenuta e' affidata al Ministero, consultabili e resi pubblici nel Sistema informativo agricolo nazionale (SIAN), di cui all'articolo 15 della legge 4 giugno 1984, n. 194, devono riportare obbligatoriamente, oltre alla denominazione della varieta', il codice (SIAN) identificativo della stessa, la data del decreto di iscrizione e la data dell'ultimo decreto di rinnovo dell'iscrizione oltre al codice (SIAN) del responsabile o dei responsabili della conservazione in purezza della varieta'.
 
@@ -112,6 +550,31 @@ Il costitutore ha facolta' di chiedere il segreto sulla descrizione dei componen
 Requisiti per l'iscrizione delle varieta' di specie agrarie e ortive ai Registri nazionali
 
 Il Ministero, ai fini dell'iscrizione al Registro, accerta tramite prove ufficiali di campo, eseguite o fatte eseguire dagli enti individuati ai sensi del comma 8, che ogni varieta' si distingua per uno o piu' caratteri dalle altre varieta' iscritte, che sia omogenea e stabile nei suoi caratteri essenziali e che abbia un valore agronomico e di utilizzazione soddisfacente. Nel caso delle varieta' di specie ortive, fatta eccezione per la cicoria industriale, il Ministero deve accertare esclusivamente i requisiti di distinguibilita', uniformita' e stabilita'.
+
+2.
+                        
+                            
+                                Una varieta' e' distinta se, indipendentemente dall'origine artificiale o naturale della varieta' iniziale da cui proviene, si distingue nettamente per uno o piu' caratteri da qualsiasi altra varieta' nota nell'Unione europea e nei Paesi aderenti alla Convenzione dell'Unione internazionale per la protezione delle nuove varieta' vegetali (UPOV). Si considera nota nell'Unione europea qualsiasi varieta' che, al momento in cui la richiesta di iscrizione della varieta' da giudicare e' presentata, soddisfa uno dei seguenti requisiti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    figura nel catalogo comune delle varieta' delle specie delle piante agricole o nel catalogo delle varieta' delle specie di ortaggi; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    e' iscritta o in corso di iscrizione in Italia o in un altro Stato membro o e' ammessa per la certificazione per altri Paesi a meno che, prima della decisione in merito alla richiesta di iscrizione della varieta' da giudicare, non siano piu' soddisfatti, in tutti gli Stati membri interessati, i requisiti sopra indicati; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    e' nota una varieta' protetta con una privativa o per la quale sia stata debitamente presentata una domanda per ottenere una privativa per ritrovati vegetali in uno dei Paesi aderenti alla Convenzione UPOV.
 
 Una varieta' si considera omogenea se, fatta salva la variazione che si puo' prevedere dai particolari caratteri della sua moltiplicazione, e' sufficientemente omogenea nell'espressione dei caratteri compresi nell'esame della distinzione, nonche' di altri caratteri usati per la descrizione della varieta'.
 
@@ -181,6 +644,45 @@ Con decreto del Ministro delle politiche agricole alimentari e forestali sono st
 
 Cancellazione e rettifiche di varieta' iscritte al registro delle varieta'
 
+1.
+                        
+                            
+                                Il Ministero, con proprio decreto, dispone la cancellazione di una varieta' qualora: 
+ 
+                            
+                            
+                                a)
+                                
+                                    in sede di esame, risulti che detta varieta' non sia piu' distinta, stabile o sufficientemente omogenea; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il responsabile della conservazione in purezza della varieta' ne faccia richiesta a meno che una selezione conservatrice resti assicurata; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    all'atto dell'inoltro della domanda di iscrizione o nel corso della procedura d'esame, siano state fornite indicazioni false o fraudolente in merito agli elementi da cui dipende l'iscrizione; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    risulti, dopo l'iscrizione, la mancata osservanza delle disposizioni legislative, regolamentari o amministrative; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    la validita' dell'iscrizione sia giunta a scadenza.
+
 Nel caso di cui al comma 1, lettera e), nel decreto di cancellazione si stabilisce, su richiesta del costitutore, un periodo transitorio per la certificazione, per il controllo (limitatamente alle specie ortive) quali sementi standard e per la commercializzazione dei prodotti sementieri che si protragga al massimo fino al 30 giugno del terzo anno successivo alla scadenza dell'iscrizione.
 
 Per le varieta' comprese nel catalogo comune delle varieta' di specie di piante agrarie o di ortive, il periodo transitorio che scade per ultimo fra quelli accordati dai vari Stati membri in cui la varieta' e' iscritta, si applica alla commercializzazione in Italia quando le sementi o i tuberi-seme della varieta' in questione non sono state sottoposte ad alcuna restrizione di commercializzazione per quanto riguarda la varieta'.
@@ -239,6 +741,38 @@ Il Registro, inserito nel Sistema Informativo Agricolo Nazionale (SIAN), si arti
 
 Con decreto del Ministro delle politiche agricole alimentari e forestali sono definiti i requisiti e le modalita' di formazione del personale tecnico autorizzato ai controlli dei prodotti sementieri.
 
+6.
+                        
+                            
+                                L'autorizzazione all'esecuzione dei controlli, concessa al personale tecnico ai sensi dell'articolo 18, e' revocata e il nominativo cancellato dal Registro di cui al comma 3, qualora ricorra una delle seguenti condizioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    non possegga piu' i requisiti richiesti; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    non adempia agli obblighi di cui al presente decreto; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    non dimostri la necessaria diligenza; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    non si attenga alle istruzioni ricevute con decreto del Ministero.
+
 Nel Registro del personale tecnico autorizzato all'esecuzione dei controlli sui prodotti sementieri e' iscritto d'ufficio, in apposita sezione ad esaurimento, il personale gia' autorizzato alla data di entrata in vigore del presente decreto.
 
 ## Art. 20. — Certificazione dei prodotti sementieri e categorie di commercializzazione
@@ -255,23 +789,424 @@ Con decreto del Ministro delle politiche agricole alimentari e forestali possono
 
 ## Art. 21. — Requisiti delle categorie di sementi di cereali
 
+1.
+                        
+                            
+                                Per le sementi di cereali destinate alla produzione di piante agricole o orticole le condizioni richieste, ai fini della classificazione in categorie di cui all'articolo 20, sono le seguenti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    sementi di base (avena comune e bizantina, avena forestiera, avena nuda, frumento duro, frumento tenero, orzo, riso, scagliola, segale, spelta e triticale, comunque diversi dagli ibridi): 
+ 1) che siano prodotte sotto la responsabilita' del costitutore secondo metodi di selezione per la conservazione delle varieta'; 
+ 2) che sia prevista la destinazione per la produzione sia di «sementi certificate» che di «sementi certificate di 1ª o di 2ª riproduzione»; 
+ 3) che siano conformi alle condizioni specificate negli allegati VI e IX per le sementi di base; 
+ 4) per le quali, all'atto di un esame ufficiale o, qualora ricorrano le condizioni previste dall'allegato VI al presente decreto di cui costituisce parte integrante, all'atto di un esame ufficiale o di un esame eseguito sotto sorveglianza ufficiale, sia stata constatata la rispondenza alle condizioni di cui ai numeri 1), 2) e 3); 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    sementi di base (ibridi di avena comune e bizantina, avena forestiera, avena nuda, frumento duro, frumento tenero, orzo, riso, segale, spelta e varieta' di triticale ad autofecondazione): 
+ 1) destinate alla produzione di ibridi; 
+ 2) che soddisfano le condizioni fissate dagli allegati VI, 1, B) Cereali e allegato IX, A) per le sementi di base; e 
+ 3) per le quali, all'atto di un esame ufficiale o, qualora ricorrano le condizioni previste dall'allegato VI, all'atto di un esame ufficiale o di un esame eseguito sotto sorveglianza ufficiale, sia stata constatata la rispondenza alle condizioni di cui ai numeri 1) e 2); 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    sementi di base di granoturco e sorgo spp.: 
+ 1) di varieta' a impollinazione libera: 
+ 1.1) che siano prodotte sotto la responsabilita' del costitutore secondo metodi di selezione per la conservazione della varieta'; 
+ 1.2) che sia prevista la destinazione per la produzione di sementi certificate della predetta varieta' ad impollinazione libera ovvero di ibridi «top cross» o «ibridi intervarietali»; 
+ 1.3) che siano conformi alle condizioni degli allegati VI e IX per le sementi di base; 
+ 1.4) per le quali all'atto di un esame ufficiale o, qualora ricorrano le condizioni previste dall'allegato VI, all'atto di un esame ufficiale o di un esame eseguito sotto sorveglianza ufficiale, sia stata constatata la rispondenza alle condizioni di cui ai numeri 1.1), 1.2) e 1.3); 
+ 2) di linee «inbred»: 
+ 2.1) che siano conformi alle condizioni degli allegati VI e IX per le sementi di base; 
+ 2.2) per le quali all'atto di un esame ufficiale o, qualora ricorrano le condizioni previste dall'allegato VI, all'atto di un esame ufficiale o di un esame eseguito sotto sorveglianza ufficiale, sia stata constatata la rispondenza alle condizioni di cui alla lettera a); 
+ 3) di ibridi semplici: 
+ 3.1) che sia prevista la destinazione per la produzione di ibridi doppi, di ibridi a tre vie o di ibridi «top cross»; 
+ 3.2) che siano conformi alle condizioni degli allegati VI e IX per le sementi di base; 
+ 3.3) per le quali, all'atto di un esame ufficiale o, qualora ricorrano le condizioni previste dall'allegato VI, all'atto di un esame ufficiale o di un esame eseguito sotto sorveglianza ufficiale, sia stata constatata la rispondenza alle condizioni di cui ai numeri 3.1) e 3.2); 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    sementi certificate (frumento duro, frumento tenero, granturco, scagliola, diversa dagli ibridi, segale, sorgo, sorgo del Sudan e ibridi di avena bizantina, avena comune, avena forestiera, avena nuda, orzo, riso, spelta e varieta' di triticale ad autofecondazione): 
+ 1) che provengano direttamente da sementi di base o, a richiesta del costitutore, da sementi di una generazione anteriore a quella delle sementi di base purche' le sementi di detta generazione siano risultate rispondenti, a seguito di un esame ufficiale, alle condizioni previste per le sementi di base dagli allegati VI e IX; 
+ 2) che sia prevista la destinazione per una produzione diversa da quella di sementi di cereali; 
+ 3) che siano conformi alle condizioni degli allegati VI e IX per le sementi certificate; 
+ 4) per le quali, all'atto di un esame ufficiale o di un esame eseguito sotto sorveglianza ufficiale, sia stata constatata la rispondenza alle condizioni di cui ai numeri 1), 2) e 3); 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    sementi certificate di prima riproduzione (avena bizantina, avena comune, avena forestiera, avena nuda, frumento duro, frumento tenero, riso, orzo, spelta e triticale), comunque diversi dagli ibridi: 
+ 1) che provengano direttamente da sementi di base o, a richiesta del costitutore, da sementi di una generazione anteriore a quella delle sementi di base purche' le sementi di detta generazione siano risultate rispondenti, a seguito di un esame ufficiale, alle condizioni previste dagli allegati VI e IX per le sementi di base; 
+ 2) che sia prevista la destinazione sia per la produzione di sementi della categoria «sementi certificate di 2ª riproduzione», che per una produzione diversa da quella di sementi di cereali; 
+ 3) che siano conformi alle condizioni degli allegati VI e IX per le sementi certificate di 1ª riproduzione; 
+ 4) per le quali, all'atto di un esame ufficiale o di un esame eseguito sotto sorveglianza ufficiale, sia stata constatata la rispondenza alle condizioni di cui ai numeri 1), 2) e 3); 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    sementi certificate di seconda riproduzione (avena nuda, avena comune, avena forestiera, avena bizantina, orzo, triticale, riso, frumento tenero, frumento duro e spelta, comunque diversi dagli ibridi): 
+ 1) che provengano direttamente da sementi di base, da sementi certificate di 1ª riproduzione o, a richiesta del costitutore, da sementi di una generazione anteriore a quella delle sementi di base, purche' le sementi di detta generazione, a seguito di un esame ufficiale, siano risultate rispondenti alle condizioni previste dagli allegati VI e IX per le sementi di base; 
+ 2) che sia prevista la destinazione per una produzione diversa da quella di sementi di cereali; 
+ 3) che siano conformi alle condizioni degli allegati VI e XI per le sementi certificate di 2ª riproduzione; 
+ 4) per le quali, all'atto di un esame ufficiale o di un esame eseguito sotto sorveglianza ufficiale, sia stata constatata la rispondenza alle condizioni di cui ai numeri 1), 2) e 3).
+
 ## Art. 22. — Requisiti delle categorie di sementi di piante foraggere
+
+1.
+                        
+                            
+                                Per le sementi di piante foraggere, le condizioni richieste ai fini della classificazione di cui all'articolo 20 sono le seguenti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    sementi di base: 
+ 1) che siano prodotte sotto la responsabilita' del costitutore secondo metodi di selezione per la conservazione della varieta'; 
+ 2) che sia prevista la destinazione per la produzione sia di sementi della categoria «sementi certificate» che di «sementi certificate di 1ª e 2ª riproduzione»; 
+ 3) che siano conformi alle condizioni degli allegati VI e IX per le sementi di base; 
+ 4) per le quali, all'atto di un esame ufficiale o, qualora ricorrano le condizioni dell'allegato VI, all'atto di un esame ufficiale o di un esame eseguito sotto sorveglianza ufficiale, sia stata constatata la rispondenza alle condizioni di cui ai numeri 1), 2) e 3); 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    sementi certificate (le sementi di tutte le specie di cui all'allegato II, sezioni A e B, diverse da erba medica, favino, lupino bianco, lupino giallo, lupino selvatico, pisello da foraggio, veccia comune, veccia pannonica, veccia vellutata): 
+ 1) che provengano direttamente da sementi di base o, a richiesta del costitutore, da sementi di una generazione anteriore a quella delle sementi di base purche' le sementi di detta generazione siano risultate rispondenti, a seguito di un esame ufficiale, alle condizioni previste per le sementi di base agli allegati VI e IX; 
+ 2) che sia prevista la destinazione di esse per una produzione diversa da quella di sementi foraggere; 
+ 3) che siano conformi alle condizioni degli allegati VI e IX per le sementi certificate; 
+ 4) per le quali, all'atto di un esame ufficiale o di un esame eseguito sotto sorveglianza ufficiale, sia stata constatata la rispondenza alle condizioni di cui ai numeri 1), 2) e 3); 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    sementi certificate di 1ª riproduzione (erba medica, favino, lupino bianco, lupino giallo, lupino selvatico, pisello da foraggio, veccia comune, veccia pannonica, veccia vellutata): 
+ 1) che provengano direttamente da sementi di base o, a richiesta del costitutore da sementi di una generazione anteriore a quella delle sementi di base purche' le sementi di detta generazione siano risultate rispondenti, a seguito di esame ufficiale, alle condizioni previste per le sementi di base agli allegati VI e IX; 
+ 2) che sia prevista la destinazione, sia per la produzione di sementi della categoria «sementi certificate di 2ª riproduzione» che per una produzione diversa da quella di sementi di foraggere; 
+ 3) che siano conformi alle condizioni degli allegati VI e XI per le sementi certificate; 
+ 4) per le quali, all'atto di un esame ufficiale o di un esame eseguito sotto sorveglianza ufficiale, sia stata constatata la rispondenza alle condizioni di cui ai numeri 1), 2) e 3); 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    sementi certificate di 2ª riproduzione (erba medica, favino, lupino bianco, lupino giallo, lupino selvatico, pisello da foraggio, veccia comune, veccia pannonica, veccia vellutata): 
+ 1) che provengano direttamente da sementi di base, da sementi certificate di 1ª riproduzione o, a richiesta del costitutore, da sementi di una generazione anteriore a quella delle sementi di base, purche' le sementi di detta generazione siano risultate, a seguito di un esame ufficiale, rispondenti alle condizioni previste per le sementi di base agli allegati VI e IX; 
+ 2) che sia prevista la destinazione di esse per una produzione diversa da quelle di sementi di piante foraggere; 
+ 3) che siano conformi alle condizioni degli allegati VI e XI per le sementi certificate; 
+ 4) per le quali, all'atto di un esame ufficiale o di un esame eseguito sotto sorveglianza ufficiale, sia stata constatata la rispondenza alle condizioni di cui ai numeri 1), 2) e 3); 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    sementi commerciali (generi e specie contemplati nell'allegato II, sezione B): 
+ 1) che siano identificate per le specie; 
+ 2) che siano conformi alle condizioni dell'allegato VI per le sementi commerciali; 
+ 3) per le quali, all'atto di un esame ufficiale o di un esame eseguito sotto sorveglianza ufficiale, sia stata constatata la rispondenza alle condizioni di cui ai numeri 1) e 2).
 
 ## Art. 23. — Requisiti delle categorie di sementi di barbabietola da zucchero e da foraggio
 
+1.
+                        
+                            
+                                Per le sementi di barbabietole da zucchero e da foraggio della specie Beta vulgaris L. le condizioni richieste ai fini della classificazione di cui all'articolo 20 sono le seguenti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    sementi di base: 
+ 1) che siano prodotte sotto la responsabilita' del costitutore secondo rigorose norme selettive per quanto riguarda il tipo o la varieta'; 
+ 2) che sia prevista la destinazione di esse per la produzione di sementi della categoria «sementi certificate»; 
+ 3) che siano conformi alle condizioni degli allegati VI e IX per le sementi di base; 
+ 4) per le quali, all'atto di un esame ufficiale o, qualora ricorrano le condizioni previste dall'allegato VI, all'atto di un esame ufficiale o di un esame eseguito sotto sorveglianza ufficiale, sia stata constatata la rispondenza alle condizioni di cui ai numeri 1), 2) e 3); 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    sementi certificate: 
+ 1) che provengano direttamente da sementi di base; 
+ 2) che sia prevista la destinazione di esse per la produzione di barbabietole; 
+ 3) che siano conformi alle condizioni degli allegati VI e IX per le sementi certificate; 
+ 4) per le quali, all'atto di un esame ufficiale o di un esame eseguito sotto sorveglianza ufficiale, sia stata constatata la rispondenza alle condizioni di cui ai numeri 1), 2) e 3).
+
 ## Art. 24. — Requisiti delle categorie e classi di commercializzazione tuberi-seme di patate
 
+1.
+                        
+                            
+                                Per i tuberi seme di patata le condizioni richieste ai fini della classificazione di cui all'articolo 20 e della relativa commercializzazione sono le seguenti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    tuberi-seme di patate di generazioni anteriori ai tuberi-seme di base: 
+ 1) i tuberi-seme di patate pre-base che: 
+ 1.1) siano stati prodotti in modo conforme a metodi di selezione per la conservazione della varieta' e dello stato sanitario 
+ 1.2) siano destinati principalmente alla produzione di tuberi-seme di patate di base; 
+ 1.3) siano conformi ai requisiti minimi di cui agli allegati VI e IX per i tuberi semi pre-base; 
+ 1.4) siano stati trovati, ad un esame ufficiale, conformi alle condizioni minime di cui ai numeri 1.1), 1.2) e 1.3) della presente lettera; 
+ 2) i tuberi-seme di patate pre-base possono essere commercializzati come appartenenti alla «classe PBTC dell'Unione» e alla «classe PB dell'Unione» conformemente alle condizioni di cui agli allegati VI e IX; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    tuberi seme di base: 
+ 1) i tuberi di patate: 
+ 1.1) prodotti secondo metodi di selezione per la conservazione della varieta' e dello stato sanitario; 
+ 1.2) previsti soprattutto per la produzione di tuberi-seme certificati; conformi alle condizioni minime degli allegati VI e IX per i tuberi-seme di base; 
+ 1.3) e per i quali, all'atto di un esame ufficiale, sia stata costatata la rispondenza alle condizioni di cui ai numeri 1.1), 1.2) e 1.3); 
+ 2) i tuberi-seme di patate di base possono essere commercializzati come appartenenti alla «classe S dell'Unione» se soddisfano i seguenti requisiti: 
+ 2.1) un'ispezione ufficiale ha determinato che le patate soddisfano i requisiti specifici di cui alla sezione D, paragrafo III, punto 3 dell'allegato IX; e 
+ 2.2.) un'ispezione ufficiale ha determinato che i lotti di patate soddisfano i requisiti di cui alla sezione B, punto 2, dell'allegato VI; 
+ 3) i tuberi-seme di patate di base possono essere commercializzati come appartenenti alla «classe SE dell'Unione» se soddisfano i seguenti requisiti: 
+ 3.1) un'ispezione ufficiale ha determinato che le patate soddisfano i requisiti di cui alla sezione D, paragrafo III, punto 4 dell'allegato IX; e 
+ 3.2) un'ispezione ufficiale ha determinato che i lotti di patate soddisfano i requisiti di cui alla sezione B, punto 3 dell'allegato VI; 
+ 4). i tuberi-seme di patate di base possono essere commercializzati come appartenenti alla «classe E dell'Unione» se soddisfano i seguenti requisiti: 
+ 4.1) un'ispezione ufficiale ha determinato che le patate soddisfano i requisiti di cui alla sezione D, paragrafo III, punto 5 dell'allegato IX; e 
+ 4.2) un'ispezione ufficiale ha determinato che i lotti di patate soddisfano i requisiti di cui alla sezione B, punto 4 dell'allegato VI; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    «tuberi-seme certificati» 
+ 1) i tuberi di patate: 
+ 1.1) provenienti direttamente da tuberi-seme di base o da tuberi-seme certificati, ovvero da tuberi-seme di una fase anteriore a quella dei tuberi-seme di base che, all'atto di un esame ufficiale, hanno soddisfatto alle condizioni previste per i tuberi-seme di base; 
+ 1.2) previsti soprattutto per una produzione diversa da quella di tuberi-seme di patate; 
+ 1.3) conformi alle condizioni minime degli allegati VI e IX per i tuberi-seme certificati; e 
+ 1.4) per i quali, all'atto di un esame ufficiale, sia stata costatata la rispondenza alle condizioni di cui ai numeri 1.1), 1.2) e 1.3); 
+ 2) i tuberi-seme di patate certificati possono essere commercializzati come appartenenti alla «classe A dell'Unione» se soddisfano i seguenti requisiti: 
+ 2.1) un'ispezione ufficiale ha determinato che le patate soddisfano i requisiti di cui alla sezione D, paragrafo III, punto 6 dell'allegato IX; e 
+ 2.2.) un'ispezione ufficiale ha determinato che i lotti di patate soddisfano i requisiti di cui alla sezione B, punto 5 dell'allegato VI; 
+ 3) i tuberi-seme di patate certificati possono essere commercializzati come appartenenti alla «classe B dell'Unione» se soddisfano i seguenti requisiti: 
+ 3.1) un'ispezioneufficiale ha determinato che le patate soddisfano i requisiti di cui sezione D, paragrafo III, punto 7 dell'allegato IX; e 
+ 3.2) un'ispezione ufficiale ha determinato che i lotti di patate soddisfano i requisiti di cui alla sezione B, punto 6 dell'allegato VI.
+
 ## Art. 25. — Requisiti delle categorie di sementi di piante oleaginose e da fibra
+
+1.
+                        
+                            
+                                Per le sementi di piante oleaginose e da fibra le condizioni richieste ai fini della classificazione di cui all'articolo 20 sono le seguenti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    sementi di base (varieta' diverse dagli ibridi): 
+ 1) prodotte sotto la responsabilita' del costitutore secondo metodi di selezione per la conservazione della varieta'; 
+ 2) che sia prevista la destinazione di esse per la produzione sia di «sementi certificate» che di «sementi certificate di 1ª e 2ª riproduzione», o all'occorrenza, di «sementi certificate di 3ª riproduzione»; 
+ 3) conformi alle condizioni specificate negli allegati VI e IX per le sementi di base; 
+ 4) per le quali, all'atto di un esame ufficiale o, qualora ricorrano le condizioni previste dall'allegato VI, all'atto di un esame ufficiale o di un esame eseguito sotto sorveglianza ufficiale, sia stata constatata la rispondenza alle condizioni di cui ai numeri 1), 2) e 3); 
+ 5) appartenenti a diversi tipi di varieta' (compresi i componenti), destinate alla certificazione alle condizioni del presente decreto, e considerate equivalenti ai sensi dell'articolo 74; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    sementi di base (ibridi): 
+ 1) sementi di base di linee inbred: 
+ 1.1) che rispondono ai requisiti di cui agli allegati VI e IX per le sementi di base e, 
+ 1.2) per le quali, all'atto di un esame ufficiale o, qualora ricorrano le condizioni previste dall'allegato VI, all'atto di un esame ufficiale o di un esame eseguito sotto sorveglianza ufficiale, sia stata constatata la rispondenza alle condizioni di cui al numero 1.1); 
+ 2) sementi di base di ibridi semplici: 
+ 2.1) destinate alla produzione di ibridi a tre vie o di ibridi doppi; 
+ 2.2) che rispondono ai requisiti fissati agli allegati VI e IX del presente decreto per le sementi di base e, per le quali all'atto di un esame ufficiale o, qualora ricorrano le condizioni previste dall'allegato VI, all'atto di un esame ufficiale o di un esame eseguito sotto sorveglianza ufficiale, sia stata constatata la rispondenza alle condizioni di cui al numero 2.1); 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    sementi certificate (canapa, colza, cotone, cumino, girasole, papavero domestico, ravizzone, senape bianca, senape bruna, senape nera, canapa dioica, cartamo): 
+ 1) che provengano direttamente da sementi di base o, a richiesta del costitutore, da sementi di una generazione anteriore a quella delle sementi di base purche' le sementi di detta generazione siano risultate rispondenti, a seguito di un esame ufficiale, alle condizioni previste per le sementi di base agli allegati VI e IX; 
+ 2) che sia prevista la destinazione di esse per una produzione diversa da quella di sementi di piante oleaginose e da fibra; 
+ 3) che siano conformi alle condizioni degli allegati VI e IX per le sementi certificate: 
+ 4) per le quali, all'atto di un esame ufficiale o, di un esame eseguito sotto sorveglianza ufficiale, sia stata constatata la rispondenza alle condizioni di cui ai numeri 1), 2) e 3); 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    sementi certificate di 1ª riproduzione di arachide, canapa monoica, lino oleaginoso, lino tessile, soia e cotone: 
+ 1) che provengano direttamente da sementi di base o, a richiesta del costitutore, da sementi di una generazione anteriore a quella delle sementi di base purche' le sementi di detta generazione siano risultate rispondenti, a seguito di un esame ufficiale, alle condizioni previste dagli allegati VI e IX per le sementi di base; 
+ 2) che sia prevista la destinazione sia per la produzione di sementi della categoria «sementi certificate di 2ª riproduzione» o all'occorrenza, della categoria «sementi certificate della 3ª riproduzione» che per una produzione diversa da quella di sementi di piante oleaginose e da fibra; 
+ 3) che siano conformi alle condizioni degli allegati VI e IX per le sementi certificate; 
+ 4) per le quali, all'atto di un esame ufficiale o, di un esame eseguito sotto sorveglianza ufficiale, sia stata constatata la rispondenza alle condizioni di cui ai numeri 1), 2) e 3); 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    sementi certificate di 2ª riproduzione di arachide, lino oleaginoso, lino tessile, soia e cotone: 
+ 1) che provengano direttamente da sementi di base, da sementi certificate di 1ª riproduzione o, a richiesta del costitutore, da sementi di una generazione anteriore a quella delle sementi di base, purche' le sementi di detta generazione, a seguito di un esame ufficiale, siano risultate rispondenti alle condizioni previste agli allegati VI e IX per le sementi di base; 
+ 2) che sia prevista la destinazione per una produzione diversa da quella di sementi di piante oleaginose e da fibra, o all'occorrenza, per la produzione di sementi della categoria «sementi certificate di 3ª riproduzione»; 
+ 3) che siano conformi alle condizioni degli allegati VI e IX per le sementi certificate; 
+ 4) per le quali, all'atto di un esame ufficiale o, di un esame eseguito sotto sorveglianza ufficiale, sia stata constatata la rispondenza alle condizioni di cui ai numeri 1), 2) e 3); 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    sementi certificate di 2ª riproduzione di canapa monoica: 
+ 1) che provengano direttamente da sementi certificate di 1ª riproduzione, preparate e ufficialmente controllate segnatamente ai fini della produzione di sementi certificate di 2ª riproduzione; 
+ 2) previste per la produzione di canapa destinata ad essere raccolta nella fase della fioritura; 
+ 3) che soddisfino ai requisiti previsti negli allegati VI e IX per le sementi certificate; 
+ 4) per le quali, all'atto di un esame ufficiale o, di un esame eseguito sotto sorveglianza ufficiale, sia stata constatata la rispondenza alle condizioni di cui ai numeri 1, 2 e 3; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    sementi certificate di 3ª riproduzione di lino oleaginoso e di lino tessile: 
+ 1) che provengano direttamente da sementi di base, da sementi certificate di 1ª e 2ª riproduzione ovvero, a richiesta del costitutore, da sementi di una generazione anteriore a quella delle sementi di base purche' le sementi di detta generazione, a seguito di un esame ufficiale, siano risultate rispondenti alle condizioni previste agli allegati VI e IX per le sementi di base; 
+ 2) che sia prevista la destinazione per una produzione diversa da quella di sementi di piante oleaginose e da fibra; 
+ 3) che siano conformi alle condizioni degli allegati VI e IX per le sementi certificate; 
+ 4) per le quali, all'atto di un esame ufficiale o, di un esame eseguito sotto sorveglianza ufficiale, sia stata constatata la rispondenza alle condizioni di cui ai numeri 1), 2) e 3); 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    sementi commerciali: 
+ 1) che siano identificate per la specie; 
+ 2) che siano conformi alle condizioni dell'allegato VI per le sementi commerciali; 
+ 3) per le quali, all'atto di un esame ufficiale o, di un esame eseguito sotto sorveglianza ufficiale, sia stata constatata la rispondenza alle condizioni di cui ai numeri 1) e 2).
 
 Con decreto del Ministro delle politiche agricole alimentare forestali, conformemente alle disposizioni dell'Unione, e' prevista l'inclusione al comma 1, lettere a) e b), di ibridi di piante oleaginose e da fibra, diverse da quelle di girasole.
 
 ## Art. 26. — Requisiti delle categorie di sementi di specie ortive
 
+1.
+                        
+                            
+                                Per le sementi di specie ortive, le condizioni richieste ai fini della classificazione di cui all'articolo 20 sono le seguenti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    categoria di base: 
+ 1. Le sementi devono essere: 
+ 1.1) prodotte sotto la responsabilita' del costitutore o suoi aventi causa o del selezionatore secondo metodi di selezione che assicurino la conservazione in purezza della varieta'; 
+ 1.2) previste per la produzione di sementi della categoria «sementi certificate»; 
+ 1.3) conformi, fatto salvo quanto disposto dall'articolo 44, comma 4, alle condizioni previste dall'allegato VI, sezione II, lettera A), e dall'allegato IX, lettera F) per le sementi ortive di base; 
+ 1.4) rispondenti alle condizioni indicate ai numeri 1.1), 1.2) e 1.3), all'atto di un esame ufficiale o, qualora ricorrano le condizioni previste all'allegato VI, all'atto di un esame ufficiale o di un esame eseguito sotto sorveglianza. 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    categoria certificata: 
+ 1) Le sementi devono essere: 
+ 1.1) provenienti direttamente da sementi di base o, a richiesta del costitutore o dei suoi aventi causa, da una generazione anteriore a quella delle sementi di base; che possano soddisfare e abbiano soddisfatto all'atto di un esame ufficiale, alle condizioni e ai requisiti previsti dall'allegato VI, nonche' alle condizioni di cui all'allegato IX per le sementi ortive di base; 
+ 1.2) previste soprattutto per la produzione di ortaggi; 
+ 1.3) conformi alle condizioni previste dall'allegato VI e dall'allegato IX per le sementi ortive certificate; 
+ 1.4) rispondenti alle condizioni indicate ai numeri 1.1), 1.2), e 1.3) della presente lettera, all'atto di un esame ufficiale o di un esame eseguito sotto sorveglianza ufficiale; 
+ 1.5) sottoposte a posteriori a controllo ufficiale mediante sondaggi, per quanto concerne l'identita' e la purezza della varieta'; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    categoria standard: 
+ 1) Le sementi, previste soprattutto per la produzione di ortaggi, che devono presentare sufficiente identita' e purezza della varieta' e corrispondere a quanto previsto dall'allegato VI; 
+ 2) le sementi di cui al punto 1) devono essere sottoposte a controllo ufficiale, a posteriori e mediante sondaggi, per quanto concerne l'identita' e la purezza della varieta'; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    categoria mercantile ortiva: 
+ 1) Le sementi di specie ortive non elencate nell'allegato II, sezione C, che devono essere conformi ai requisiti previsti all'allegato VI; 
+ 2) i controlli delle sementi certificate e standard di cui al comma 1, lettera b), punto 1), numero 1.4) e lettera c) numero 2), sono effettuati secondo le disposizioni di cui all'articolo 27, comma 3.
+Agli oneri per l'effettuazione di tali controlli si provvede secondo le disposizioni di cui all'articolo 27, comma 10.
+
 ## Art. 27. — Controllo delle sementi ortive appartenenti alla categoria standard
 
 Il controllo delle sementi di specie ortive appartenenti alla categoria standard consiste nell'accertamento della identita' e della purezza della varieta'. A tal fine sono poste in atto ispezioni presso le ditte sementiere responsabili dell'apposizione del cartellino relativo alle sementi ortive di categoria standard, campionamenti, esami di laboratorio e prove di coltura in parcella.
 
+2.
+                        
+                            
+                                Le varieta' da sottoporre a controllo devono: 
+ 
+                            
+                            
+                                a)
+                                
+                                    appartenere alle specie elencate nell'allegato II o alle specie elencate nell'allegato III, per le quali siano stati istituiti registri nazionali; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    essere iscritte nei registri nazionali delle varieta' di specie di piante ortive o nel catalogo comune delle varieta' delle specie di ortaggi.
+
 Con decreto del Ministro delle politiche agricole alimentari e forestali, da adottare entro centottanta giorni dall'entrata in vigore del presente decreto, sono stabiliti i criteri e le modalita' operative per l'attuazione dei controlli e del confezionamento di cui al presente articolo.
+
+4.
+                        
+                            
+                                La ditta sementiera che appone il cartellino relativo alle sementi standard deve notificare al Ministero o all'eventuale Organismo delegato a tale attivita': 
+ 
+                            
+                            
+                                a)
+                                
+                                    l'inizio e la fine della propria attivita' di confezionamento delle sementi ortive standard, specificando il numero di registrazione al RUOP; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    i dati inerenti al consuntivo dell'attivita' svolta al termine di ogni ciclo annuale e comunque non oltre il 30 luglio di ciascun anno, annotando separatamente le sementi prodotte e quelle riconfezionate, secondo le modalita' stabilite con il decreto di cui al comma 3; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    se del caso, di avvalersi della facolta' di cui all'articolo 33, comma 4, concernente la possibilita' di menzionare sul cartellino una determinata selezione conservatrice.
 
 L'inizio delle attivita' di confezionamento delle sementi ortive standard corrisponde alla data di registrazione al RUOP della ditta sementiera, ai sensi dell'articolo 6, comma 1. La fine delle attivita' di cui al comma 4, lettera a) corrisponde alla data di cessazione delle attivita' stesse da parte della ditta sementiera.
 
@@ -295,6 +1230,58 @@ I risultati dei controlli di cui all'articolo 17 sono registrati, conservati e r
 ## Art. 29.
 
 Requisiti per l'autorizzazione del personale addetto al controllo sotto sorveglianza ufficiale e modalita' di esercizio della sorveglianza su colture e sementi.
+
+1.
+                        
+                            
+                                Qualora venga eseguito l'esame sotto sorveglianza ufficiale di cui agli articoli 21, 22, 23, 25 e 26 sono soddisfatte le seguenti condizioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    ispezione in campo: 
+ 1) il personale addetto all'esame: 
+ 1.1) deve possedere i requisiti definiti con decreto del Ministro delle politiche agricole alimentari e forestali di cui all'articolo 19, comma 5; 
+ 1.2) non deve trarre profitto personale dallo svolgimento delle ispezioni; 
+ 1.3) deve partecipare ad appositi corsi di formazione e aggiornamento organizzati dal Ministero o dall'organismo delegato secondo modalita' stabilite con decreto del Ministro delle politiche agricole alimentari e forestali di cui all'articolo 19, comma 5; 
+ 1.4) e' autorizzato con provvedimento dal Ministero, previo superamento di un esame finale. Tale autorizzazione comprende, da parte degli ispettori, la prestazione di giuramento o la firma di una dichiarazione d'impegno a rispettare le norme che disciplinano i controlli ufficiali; 
+ 1.5) deve svolgere ispezioni previste per i controlli ufficiali in conformita' agli articoli 18 e 19 del presente decreto; 
+ 2) la coltura da seme da ispezionare deve essere ottenuta da sementi sottoposte, con risultati soddisfacenti, a controlli ufficiali a posteriori; 
+ 3) una parte delle colture da seme deve essere controllata ufficialmente dal Ministero o dall'organismo delegato per una quota non inferiore al 5 per cento; 
+ 4) una parte dei campioni delle partite di sementi raccolte dalle colture da seme deve essere conservata per controlli ufficiali a posteriori e, se del caso, per controlli ufficiali di laboratorio relativi all'identita' e alla purezza varietale; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    controlli delle sementi: 
+ 1) i controlli delle sementi sono eseguiti dai laboratori per le caratteristiche di commercializzazione appositamente autorizzati con decreto del Ministero di cui all'articolo 18, comma 5 e che soddisfano le seguenti condizioni: 
+ 1.1) i laboratori dispongono di una persona incaricata delle analisi delle sementi direttamente responsabile delle operazioni tecniche di laboratorio e in possesso delle qualifiche necessarie per dirigere un laboratorio di controllo delle sementi. Le persone incaricate delle analisi delle sementi devono possedere le qualifiche tecniche necessarie, ottenute in corsi di formazione organizzati dal Ministero o dall'organismo delegato, secondo le stesse modalita' vigenti per le analisi ufficiali e confermate mediante esami ufficiali; 
+ 1.2) i locali e le attrezzature dei laboratori sono considerati ufficialmente soddisfacenti, al fine del controllo delle sementi, dal Ministero o dall'organismo delegato, se soddisfano le condizioni di cui all'allegato X al presente decreto di cui costituisce parte integrante. I controlli sono eseguiti secondo i metodi vigenti a livello internazionale; 
+ 1.3) i laboratori sono indipendenti o appartenenti ad una ditta sementiera. I laboratori indipendenti possono operare solo se in possesso di accreditamento ISTA (International Seed Testing Association) per le specie e i metodi d'analisi d'interesse. Il laboratorio appartenente ad una ditta sementiera esegue il controllo soltanto in ordine a partite di sementi prodotte per conto della ditta a cui appartiene, salvo disposizione contraria convenuta tra la ditta stessa, il richiedente la certificazione e il Ministero o l'organismo delegato; 
+ 1.4) la prestazione dei laboratori, per quanto riguarda il controllo delle sementi, e' soggetta alla sorveglianza del Ministero o dell'organismo delegato; 
+ 1.5) ai fini della sorveglianza di cui al numero 1.4) almeno il 5 per cento delle partite di sementi per le quali e' richiesta la certificazione ufficiale viene sottoposta a controllo da parte di analisti ufficiali delle sementi; 
+ 1.6) il mantenimento dell'autorizzazione e' subordinato all'esercizio continuativo dell'attivita' di analisi; 
+ 1.7) i locali, le attrezzature, i metodi applicati e il volume di attivita' dei laboratori, devono soddisfare le condizioni fissate dall'allegato X, in particolare per quanto riguarda i metodi di analisi, ove non specificato, si deve fare riferimento alle norme ISTA in vigore; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    campionamento: 
+ 1) durante la procedura di controllo delle varieta', durante l'esame delle sementi per la certificazione e l'esame delle sementi commerciali, i campioni sono prelevati ufficialmente o sotto sorveglianza ufficiale secondo metodi adeguati come previsto dall'allegato X. Il campionamento delle sementi, effettuato durante la commercializzazione, e' eseguito ufficialmente; 
+ 2) qualora venga eseguito il campionamento delle sementi sotto sorveglianza ufficiale di cui al numero 1), sono soddisfatte le seguenti condizioni: 
+ 2.1) i campionamenti sono eseguiti da campionatori appositamente autorizzati dal Ministero nel rispetto delle disposizioni di cui ai successivi punti 3), e 4); 
+ 2.2) i campionatori devono possedere le necessarie qualificazioni tecniche ottenute in corsi di formazione organizzati dal Ministero o dall'organismo delegato secondo le stesse modalita' vigenti per i campionatori ufficiali e confermate mediante esami ufficiali. Essi eseguono i campionamenti secondo i metodi vigenti a livello internazionale; 
+ 3) i campionatori possono essere: 
+ 3.1) persone fisiche indipendenti; 
+ 3.2) alle dipendenze di persone fisiche o giuridiche le cui attivita' non comprendono la produzione, la coltura, la trasformazione o il commercio di sementi; 
+ 3.3) alle dipendenze di ditte sementiere. In tal caso i campionatori possono eseguire campionamenti soltanto su partite di sementi prodotte per conto del loro datore di lavoro, salvo disposizione contraria convenuta tra il loro datore di lavoro, il richiedente la certificazione e il Ministero o l'organismo delegato; 
+ 4) la prestazione dei campionatori, per quanto riguarda il campionamento delle sementi, e' soggetta alla sorveglianza del Ministero o dell'organismo delegato. Qualora si proceda al campionamento automatico occorre applicare procedure adeguate e soggette a sorveglianza ufficiale; 
+ 5) ai fini della sorveglianza di cui al numero 4) almeno il 5 per cento delle partite di sementi per le quali e' richiesta la certificazione ufficiale viene sottoposta a campionamento per il controllo da parte di campionatori ufficiali. Il campionamento ai fini del controllo non riguarda il campionamento automatico. Il Ministero o l'organismo delegato confronta i campioni di sementi prelevati ufficialmente con quelli, della stessa partita, prelevati sotto sorveglianza ufficiale.
 
 La sorveglianza sulle attivita' previste dal presente articolo e' esercitata dal Ministero o dall'organismo delegato, sulle colture in campo, durante la manipolazione e conservazione del prodotto da immettere in commercio nonche' mediante prove colturali che si eseguono a mezzo di allevamento di campioni. I laboratori, autorizzati ai sensi del comma 1, lettera b), sono valutati mediante specifici controlli di efficacia («test di performance») organizzati dal Ministero o dall'organismo delegato.
 
@@ -322,6 +1309,24 @@ Le ditte sementiere, sotto la propria responsabilita', possono sconfezionare e r
 Nel caso di prodotti sementieri ufficialmente controllati e certificati, lo sconfezionamento, il riconfezionamento e la ricartellinatura sono soggetti alla vigilanza del Ministero o dell'organismo delegato.
 
 Sul valore dichiarato del grado di purezza e germinabilita' dei prodotti sementieri sono consentite, di fronte ai risultati delle analisi, le tolleranze di cui all'allegato VII, sezione VII.
+
+4.
+                        
+                            
+                                Nel caso di miscugli di cui e' ammessa la commercializzazione ai sensi dell'articolo 5: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la purezza specifica non deve essere inferiore alla media ponderale delle percentuali minime fissate per ciascun genere e specie all'allegato VI; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le percentuali di germinabilita' dei singoli componenti non devono essere inferiori ai minimi fissati dall'allegato VI.
 
 Per gli oneri derivanti dal presente articolo si applicano le tariffe di cui all'articolo 82.
 
@@ -352,6 +1357,31 @@ Gli imballaggi di sementi standard sono muniti di un cartellino del fornitore op
 Le ditte sementiere possono riconfezionare sementi di specie ortive della categoria standard a condizione che appongano, alle nuove confezioni poste in vendita, un proprio cartellino in sostituzione di quello precedentemente applicato.
 
 In caso di varieta' di specie ortive note al 1° luglio 1970, sul cartellino del fornitore si puo' fare riferimento ad una selezione conservatrice gia' riconosciuta della varieta'. Tale riferimento, segue la denominazione varietale dalla quale deve essere chiaramente separato, preferibilmente con un trattino, e non deve prevalere sulla denominazione varietale.
+
+5.
+                        
+                            
+                                Le ditte sementiere che appongono il cartellino su sementi standard devono: 
+ 
+                            
+                            
+                                a)
+                                
+                                    informare il Ministero dell'inizio e della fine della loro attivita'; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    tenere una contabilita' relativa a tutte le partite di sementi standard, che deve essere mantenuta a disposizione del Ministero per almeno tre anni attraverso i sistemi di tracciabilita' di cui all'articolo 36; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    prelevare un campione di ciascun lotto destinato alla commercializzazione e tenerlo a disposizione del Ministero per almeno due anni.
 
 Le operazioni di cui al comma 2 e al comma 5, lettere b) e c), sono sottoposte a controllo ufficiale secondo le disposizioni di cui all'articolo 27.
 
@@ -400,6 +1430,38 @@ Nei locali adibiti esclusivamente alla vendita all'ingrosso e al dettaglio dei p
 Nei locali adibiti alla vendita promiscua, all'ingrosso e al dettaglio di prodotti sementieri e di analoghi prodotti destinati ad altri usi, sui recipienti e sugli imballaggi contenenti questi ultimi, e comunque sui prodotti non destinati alla riproduzione, devono essere apposti cartellini di dimensioni non inferiori a centimetri 10 per centimetri 20 recanti la dicitura: «Prodotto non destinato alla riproduzione».
 
 ## Art. 38. — Coltivazioni antecedenti la categoria di base e conservazione in purezza
+
+1.
+                        
+                            
+                                Al fine di consentire la verifica della conservazione in purezza, i costitutori responsabili della produzione di sementi, sono tenuti a comunicare al Ministero o all'organismo delegato alla certificazione dei prodotti sementieri, prima dell'inizio di ogni ciclo colturale, le coltivazioni che intendono istituire per la produzione di sementi e del materiale di moltiplicazione delle categorie antecedenti il «base» non certificate, nonche' di sementi ortive della categoria standard. Il Ministero o l'organismo delegato provvede al controllo della selezione conservatrice anche in base alle registrazioni effettuate dai responsabili della produzione. Tali controlli si estendono anche alle registrazioni effettuate per la produzione di tutte le generazioni precedenti le sementi o i materiali di moltiplicazione di «base». Il Ministero medesimo o l'organismo delegato, se necessario, possono procedere anche al prelievo ufficiale di campioni. Le comunicazioni devono recare le seguenti indicazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    specie e varieta'; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    ubicazione ed estensione delle coltivazioni; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    nome, cognome e indirizzo del responsabile della conservazione in purezza; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    nome, cognome indirizzo del moltiplicatore di materiale di moltiplicazione delle categorie antecedenti il «base», se diverso dal responsabile della conservazione in purezza.
 
 I controlli di cui al comma 1, verificano anche la titolarita' delle moltiplicazioni effettuate dai soggetti di cui alla lettera d).
 
@@ -472,11 +1534,54 @@ Sono fatti salvi nell'applicazione del presente articolo gli impegni derivanti d
 
 ## Art. 45. — Divieto di commercializzare sementi per rischi fitosanitari, alla salute umana e all'ambiente
 
+1.
+                        
+                            
+                                Il Ministero, anche su segnalazione dei Ministeri della salute e dell'ambiente e della tutela del territorio e del mare, per gli aspetti di rispettiva competenza, puo' chiedere alla Commissione europea l'autorizzazione a vietare, in tutto o in parte del territorio nazionale, la commercializzazione dei prodotti sementieri di una varieta' iscritta nel catalogo comune delle varieta', se e' accertato che la coltivazione di tale varieta': 
+ 
+                            
+                            
+                                a)
+                                
+                                    possa nuocere alla coltivazione di altre varieta' o specie dal punto di vista fitosanitario o alla loro integrita'; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    possa presentare un rischio per la salute umana o per l'ambiente, anche con riguardo alle eventuali conseguenze sui sistemi agrari tenuto conto delle peculiarita' agro-ecologiche e pedoclimatiche. La valutazione del rischio per l'ambiente o la salute umana e' effettuata sulla base dei criteri di riferimento stabiliti dalla direttiva 2001/18/CE, dal principio di precauzione, dalla Convenzione sulla biodiversita', con annessi, fatta a Rio de Janeiro il 5 giugno 1992, ratificata e resa esecutiva ai sensi della legge 14 febbraio 1994, n. 124, e dal Protocollo di Cartagena sulla prevenzione dei rischi biotecnologici relativo alla Convenzione sulla diversita' biologica, con allegati, fatto a Montreal il 29 gennaio 2000, ratificato e reso esecutivo ai sensi della legge 15 gennaio 2004, n. 27.
+
 In caso di pericolo imminente di propagazione di organismi nocivi o di pericolo imminente per la salute umana o per l'ambiente, il divieto di cui al comma 1 puo' essere applicato immediatamente dal momento della presentazione della richiesta alla Commissione europea sino al momento della decisione della stessa. Il Ministero, contestualmente alla richiesta di cui al comma 1, informa la Commissione europea dell'immediata applicazione del divieto.
 
 ## Art. 46.
 
 Divieto di coltivare varieta' per rischi fitosanitari, alla salute umana e all'ambiente o perche' non adatta alla coltivazione nel territorio nazionale.
+
+1.
+                        
+                            
+                                Il Ministero puo' chiedere alla Commissione europea l'autorizzazione a vietare l'impiego, in tutto o in parte del territorio nazionale, di una varieta' iscritta nel catalogo comune delle varieta' o a prescrivere condizioni appropriate di coltivazione della varieta' medesima e, nel caso di cui alla successiva lettera c), anche specifiche condizioni di impiego dei prodotti derivanti dalla sua coltivazione qualora si verifichi una delle seguenti condizioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    sia appurato che la coltivazione di tale varieta' possa risultare dannosa dal punto di vista fitosanitario per la coltivazione di altre varieta' o possa nuocere all'integrita' di altre varieta' o specie; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    in base a esami ufficiali in coltura, si sia constatato che la varieta' non produce, in nessuna parte del territorio, risultati corrispondenti a quelli ottenuti con un'altra varieta' comparabile ammessa nel territorio nazionale o se e' noto che la varieta', per natura e classe di maturita', non e' adatta ad essere coltivata in alcuna parte del territorio nazionale; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    sussistano valide ragioni, diverse da quelle indicate alle lettere a) e b) per ritenere che la varieta' presenta un rischio per la salute umana o l'ambiente, anche con riguardo alle eventuali conseguenze sui sistemi agrari, tenuto conto delle peculiarita' agro-ecologiche e pedoclimatiche.
 
 Nel caso di cui al comma 1, lettera c), la richiesta alla Commissione europea e' presentata dal Ministero anche su segnalazione dei Ministeri della salute e dell'ambiente e della tutela del territorio e del mare, per gli aspetti di rispettiva competenza.
 
@@ -486,7 +1591,90 @@ Nel caso di cui al comma 1, lettera c), la richiesta alla Commissione europea e'
 
 Varieta' da conservazione e varieta' di specie ortive prive di valore intrinseco e sviluppate per la coltivazione in condizioni particolari.
 
+1.
+                        
+                            
+                                Le disposizioni di cui al presente Capo stabiliscono le deroghe applicabili alle specie agrarie e ortive disciplinate dal presente decreto in merito alla conservazione in-situ e all'utilizzo sostenibile di risorse fitogenetiche attraverso la coltivazione e la commercializzazione: 
+ 
+                            
+                            
+                                a)
+                                
+                                    per l'iscrizione nei Registri nazionali delle varieta' di specie di piante agrarie e ortive di ecotipi e varieta' naturalmente adattate alle condizioni locali e regionali e minacciate da erosione genetica, di seguito denominate «varieta' da conservazione»; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    per l'iscrizione nei Registri nazionali delle varieta' di specie di piante ortive di varieta' prive di valore intrinseco per la produzione orticola a fini commerciali ma sviluppate per la coltivazione in condizioni particolari, di seguito denominate «varieta' sviluppate per la coltivazione in condizioni particolari»; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    per la commercializzazione delle sementi e tuberi-seme di patata di tali ecotipi e varieta'.
+
 ## Art. 48. — Definizioni
+
+1.
+                        
+                            
+                                Ai fini del presente Capo si intende per: 
+ 
+                            
+                            
+                                a)
+                                
+                                    conservazione in-situ: la conservazione di materiale genetico nel suo ambiente naturale e, nel caso delle specie vegetali coltivate, nell'ambiente di coltivazione dove tali specie hanno sviluppato le proprie caratteristiche distintive; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    erosione genetica: perdita, nel tempo, della diversita' genetica tra popolazioni o varieta' della stessa specie e all'interno di esse, o riduzione della base genetica di una specie a causa dell'intervento umano o di un cambiamento climatico; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    varieta' locale: un insieme di popolazioni o cloni di una specie vegetale adatti alle condizioni ambientali della propria regione; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    «zona fonte»: 
+ 1) una zona designata come zona speciale di conservazione ai sensi dell'articolo 4, paragrafo 4, della direttiva 92/43/CEE, del Consiglio del 21 maggio 1992; 
+ 2) una zona che contribuisce alla conservazione delle risorse fitogenetiche e che e' designata secondo la procedura nazionale basata su criteri comparabili a quelli previsti dal combinato disposto dell'articolo 4, paragrafo 4, e dall'articolo 1, lettere k) e l), della direttiva 92/43/CEE, del Consiglio del 21 maggio 1992 e che e' gestita, protetta e posta sotto sorveglianza in un modo equivalente a quello prescritto dagli articoli 6 e 11 di detta direttiva; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    «sito di raccolta»: la parte della zona fonte in cui sono state raccolte le sementi; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    «miscela di sementi raccolte direttamente»: una miscela di sementi commercializzata cosi' come raccolta nel sito di raccolta con o senza pulitura; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    «miscela di sementi coltivate»: una miscela di sementi prodotte con il seguente procedimento: 
+ 1) le sementi delle singole specie sono prelevate nel sito di raccolta; 
+ 2) le sementi di cui al numero 1) sono moltiplicate al di fuori del sito di raccolta come singole specie; 
+ 3) le sementi di dette specie sono poi mescolate per ottenere una miscela composta dei generi, delle specie e, se del caso, delle sottospecie che sono caratteristici del tipo di habitat del sito di raccolta.
 
 ## Art. 49.
 
@@ -514,6 +1702,24 @@ Requisiti essenziali per l'ammissione ai Registri nazionali delle varieta' da co
 ## Art. 51.
 
 Inammissibilita' di varieta' da conservazione e di varieta' ortive sviluppate per la coltivazione in condizioni particolari.
+
+1.
+                        
+                            
+                                Una varieta' da conservazione o una varieta' ortiva sviluppata per la coltivazione in condizioni particolari non e' ammessa al Registro nazionale delle varieta' se: 
+ 
+                            
+                            
+                                a)
+                                
+                                    figura gia' nel catalogo comune delle varieta' di specie di piante agrarie e di piante ortive, ma non come varieta' da conservazione o come varieta' sviluppata per la coltivazione in condizioni particolari, o e' stata cancellata dal medesimo catalogo comune nel corso degli ultimi due anni o da almeno due anni a partire dalla scadenza del periodo previsto dall'articolo 14, comma 3; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    e' protetta da una «privativa comunitaria per ritrovati vegetali» prevista dal regolamento (CE) 2100/94, del Consiglio, del 27 luglio 1994, o da una privativa nazionale per ritrovati vegetali, ai sensi del decreto legislativo 10 febbraio 2005, n. 30, o sia stata presentata una domanda in tal senso.
 
 ## Art. 52. — Domanda di iscrizione
 
@@ -627,6 +1833,87 @@ Per quanto riguarda le miscele di sementi per la preservazione raccolte direttam
 
 Per quanto riguarda le miscele di sementi per la preservazione coltivate, il Ministero o l'organismo delegato o le regioni e province autonome, nel corso dell'esame della richiesta di autorizzazione provvede, mediante esame ufficiale o sotto sorveglianza ufficiale, alla verifica della miscela di sementi per la preservazione circa la conformita' delle condizioni di cui all'articolo 64, commi 2 e 3. L'esame e' realizzato secondo i metodi validati scientificamente a livello internazionale o, in loro assenza, secondo metodi validati scientificamente a livello nazionale. I campioni utilizzati per l'esame sono prelevati da lotti omogenei e si applicano le disposizioni relative al peso dei lotti e dei campioni di cui all'allegato IV.
 
+5.
+                        
+                            
+                                L'autorizzazione di cui al comma 1, e' concessa dal Ministero o dall'organismo delegato o dalle regioni e province autonome che possono avocare a se' tale facolta' su richiesta del produttore e in essa sono indicati: 
+ 
+                            
+                            
+                                a)
+                                
+                                    nome o denominazione e sede del produttore; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    metodo di raccolta: sementi raccolte direttamente o coltivate; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    percentuale in peso dei componenti per specie e se del caso sottospecie; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    nel caso delle miscele per la preservazione coltivate, la germinabilita' dei componenti della miscela qualora non siano rispettati i valori previsti dalla colonna 2 della tabella riportata all'allegato VI del presente decreto, sezione I, lettera A), punto I Sementi certificate, numero 1); 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    la quantita' della miscela cui si applica l'autorizzazione; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    la zona di origine; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    la restrizione alla commercializzazione nella zona di origine; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    la zona fonte; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    il sito di raccolta e le sue caratteristiche fisiche e, nel caso di una miscela di sementi per la preservazione coltivate, il sito di moltiplicazione e le sue caratteristiche fisiche; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    il tipo di habitat del sito di raccolta; 
+
+                                
+                            
+                            
+                                m)
+                                
+                                    l'anno di raccolta.
+
 In relazione al comma 5, lettera c), per le miscele di sementi per la preservazione raccolte direttamente, e' sufficiente indicare i componenti per specie e, se del caso, sottospecie che sono caratteristici del tipo di habitat del sito di raccolta e che sono, in quanto componenti della miscela, importanti per la preservazione dell'ambiente naturale nel contesto della conservazione delle risorse genetiche.
 
 ## Art. 63. — Condizioni per l'autorizzazione delle miscele di sementi per la preservazione raccolte direttamente
@@ -654,6 +1941,24 @@ Al fine di garantire la qualita' del materiale ottenuto e di consentire un adegu
 ## Art. 65. — Condizioni di commercializzazione
 
 La produzione dei prodotti sementieri di varieta' da conservazione e di varieta' prive di valore intrinseco per la produzione a fini commerciali, ma sviluppate per la coltivazione in condizioni particolari, e la loro commercializzazione devono avvenire nel rispetto della normativa fitosanitaria nazionale e dell'Unione.
+
+2.
+                        
+                            
+                                Le sementi di una varieta' da conservazione possono essere commercializzate unicamente alle seguenti condizioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    sono state prodotte nella loro zona di origine o in una delle zone di cui all'articolo 55; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    sono commercializzate nella loro zona di origine.
 
 In deroga al comma 2, lettera b), possono essere approvate ulteriori zone di commercializzazione a condizione che queste siano comparabili con le zone di origine quanto ad habitat naturali e semi-naturali della varieta' in questione. In tale caso il quantitativo di sementi necessario per la produzione della quantita' minima di cui all'articolo 66, e' riservato alla conservazione della varieta' nella sua zona d'origine. L'approvazione delle ulteriori zone di cui al presente comma e' oggetto di notifica alla Commissione europea e agli altri Stati membri.
 
@@ -741,6 +2046,33 @@ Se nei casi previsti al comma 1, le sementi sono state prodotte direttamente a p
 
 Le sementi di cereali raccolte nell'ambito dell'Unione e destinate a essere certificate conformemente al comma 2, devono essere confezionate e contraddistinte da un cartellino ufficiale rispondente alle condizioni di cui all'allegato VII, sezione I, lettera A) e accompagnate da un documento ufficiale rispondente alle condizioni di cui all'allegato VII, sezione III, lettera C) Cereali.
 
+4.
+                        
+                            
+                                Le sementi di cereali, raccolte in un Paese terzo sono, a richiesta, certificate ufficialmente se: 
+ 
+                            
+                            
+                                a)
+                                
+                                    provengono direttamente: 
+ 1) da sementi di base o da sementi certificate di prima riproduzione ufficialmente certificate in uno o piu' Stati membri o in un Paese terzo a cui sia stata concessa l'equivalenza oppure; 
+ 2) dalla ibridazione di sementi di base ufficialmente certificate in uno Stato membro con sementi di base ufficialmente certificate in un Paese terzo equivalente; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    sono state sottoposte, nella coltura di produzione, a una ispezione in campo che soddisfa le condizioni di equivalenza, per la categoria interessata; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    e' stato constatato, al momento di un esame ufficiale che sono state rispettate le condizioni previste all'allegato VI, sezione I, lettera B), per la stessa categoria.
+
 I controlli di cui al presente articolo sono a carico dell'interessato secondo le tariffe di cui all'articolo 82.
 
 ## Art. 76.
@@ -752,6 +2084,33 @@ Le sementi di piante foraggere provenienti direttamente da sementi di base o da 
 Se nei casi previsti al comma 1, le sementi sono state prodotte direttamente a partire da sementi ufficialmente certificate di riproduzioni anteriori alle sementi di base, puo' essere autorizzata anche la certificazione ufficiale come sementi di base, se le condizioni previste per tale categoria sono state rispettate.
 
 Le sementi di piante foraggere raccolte nell'ambito dell'Unione e destinate ad essere certificate conformemente a quanto previsto dal comma 2, devono essere confezionate e provviste di un cartellino ufficiale rispondente alle condizioni di cui all'allegato VII, sezione I, lettera B) Foraggere, ed essere accompagnate da un documento rispondente alle condizioni di cui al medesimo allegato, sezione III, lettera B).
+
+4.
+                        
+                            
+                                Le sementi di piante foraggere, raccolte in un Paese terzo devono, su richiesta, essere certificate: 
+ 
+                            
+                            
+                                a)
+                                
+                                    se provengono direttamente: 
+ 1) da sementi di base o da sementi certificate ufficialmente in uno o piu' Stati membri o in un Paese terzo a cui sia stata concessa l'equivalenza, o 
+ 2) dall'ibridazione di sementi di base ufficialmente certificate in uno Stato membro con sementi di base ufficialmente certificate in un Paese terzo equivalente; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    sono state sottoposte, nella coltura di produzione, a una ispezione in campo che soddisfi le condizioni di equivalenza, per la categoria interessata; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    e' stato constatato, al momento di un esame ufficiale, che sono state rispettate le condizioni previste all'allegato VI, sezione I, lettera C), per la stessa categoria.
 
 I controlli di cui al presente articolo sono a carico dell'interessato secondo le tariffe di cui all'articolo 82.
 
@@ -765,6 +2124,31 @@ Se nei casi previsti al comma 1 le sementi sono state prodotte direttamente a pa
 
 Le sementi di barbabietola raccolte nell'ambito dell'Unione e destinate ad essere certificate conformemente a quanto previsto dal comma 2, devono essere confezionate e provviste di un cartellino ufficiale rispondente alle condizioni di cui all'allegato VII, sezione I lettera C) e devono essere accompagnate da un documento ufficiale rispondente alle condizioni di cui al medesimo allegato VII, sezione III, lettera A).
 
+4.
+                        
+                            
+                                Le sementi di barbabietole, raccolte in un Paese terzo sono, a richiesta, certificate ufficialmente se: 
+ 
+                            
+                            
+                                a)
+                                
+                                    provengono direttamente da sementi di base ufficialmente certificate in uno o piu' Stati membri o in un Paese terzo al quale sia stata concessa l'equivalenza; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    sono state sottoposte, nella coltura di produzione, a un'ispezione in campo che soddisfi le condizioni di equivalenza, per la categoria interessata; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    e' stato constatato, al momento di un esame ufficiale, che sono state rispettate le condizioni previste all'allegato VI, sezione I, lettera A), per la stessa categoria.
+
 I controlli di cui al presente articolo sono a carico dell'interessato secondo le tariffe di cui all'articolo 82.
 
 ## Art. 78.
@@ -776,6 +2160,33 @@ Le sementi di piante oleaginose e da fibra provenienti direttamente da sementi d
 Se nei casi previsti al comma 1, le sementi sono state prodotte direttamente a partire da sementi ufficialmente certificate di riproduzione anteriore alle sementi di base, gli Stati membri possono autorizzare anche la certificazione ufficiale come sementi di base, se le condizioni previste per tale categoria sono state rispettate.
 
 Le sementi di piante oleaginose e da fibra raccolte nell'ambito dell'Unione e destinate a essere certificate conformemente al comma 1, devono essere confezionate e provviste di un cartellino ufficiale rispondente alle condizioni di cui all'allegato VII, sezione I, lettera E) Oleaginose e da fibra, e accompagnate da un documento ufficiale rispondente alle condizioni di cui al medesimo allegato VII, sezione III, lettera D).
+
+4.
+                        
+                            
+                                Le sementi di piante oleaginose e da fibra, sono, a richiesta, certificate ufficialmente se: 
+ 
+                            
+                            
+                                a)
+                                
+                                    provengono direttamente: 
+ 1) da sementi di base o da sementi certificate di prima riproduzione ufficialmente certificate in uno o piu' Stati membri o in un Paese terzo al quale sia stata concessa l'equivalenza o 
+ 2) dall'ibridazione di sementi di base ufficialmente certificate in uno Stato membro con sementi di base ufficialmente certificate in un Paese terzo al quale sia stata concessa l'equivalenza; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    sono state sottoposte, nella coltura di produzione, a un'ispezione in campo che soddisfi le condizioni di equivalenza, per la categoria interessata; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    e' stato constatato, al momento di un esame ufficiale che sono state rispettate le condizioni previste all'allegato VI, sezione I, lettera D), per la stessa categoria.
 
 I controlli di cui al presente articolo sono a carico dell'interessato secondo le tariffe di cui all'articolo 82.
 
@@ -849,6 +2260,31 @@ Gli incaricati della vigilanza, in qualita' di pubblici ufficiali, possono visit
 
 Per l'applicazione delle disposizioni contenute nel presente decreto, la vigilanza doganale e' svolta dall'Agenzia delle dogane e dei monopoli nel rispetto della normativa doganale vigente. Nulla e' innovato per quanto si riferisce agli accertamenti fitosanitari.
 
+4.
+                        
+                            
+                                Il personale addetto al controllo sull'osservanza delle disposizioni del presente decreto fa rapporto alla competente autorita' giudiziaria di ogni reato previsto dal presente decreto del quale viene, comunque, a conoscenza. Il personale medesimo, una volta accertate le infrazioni per le quali il presente decreto prevede sanzioni amministrative, deve: 
+ 
+                            
+                            
+                                a)
+                                
+                                    contestare immediatamente l'infrazione accertata; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    notificare all'interessato entro trenta giorni, se la contestazione immediata non e' possibile, l'accertamento dell'infrazione; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    trasmettere, in ogni caso, copia del verbale al Prefetto territorialmente competente, in relazione al luogo in cui e' stata accertata l'infrazione.
+
 Con decreto del Ministro delle politiche agricole alimentari e forestali, di concerto con il Ministro dell'economia e delle finanze e da adottare entro centottanta giorni dalla data di entrata in vigore del presente decreto sono definite le modalita' di versamento delle sanzioni al bilancio dello Stato, per la successiva riassegnazione, nella misura del 50 per cento dell'importo versato, ad apposito capitolo di bilancio dello stato di previsione del Ministero, per l'attuazione delle misure di eradicazione, gestione e coordinamento dell'autorita' unica centrale, di cui al regolamento (UE) 2016/2031.
 
 ## Art. 82. — Tariffe
@@ -888,4 +2324,108 @@ Fino all'adozione dei provvedimenti attuativi previsti dal presente decreto, con
 Il personale tecnico per i controlli ai prodotti sementieri gia' autorizzato alla data di entrata in vigore del presente decreto, e' iscritto d'ufficio in apposita sezione ad esaurimento del Registro del personale di cui all'articolo 19.
 
 ## Art. 87. — Abrogazioni
+
+1.
+                        
+                            
+                                Dalla data in cui acquistano efficacia le norme del presente decreto sono abrogate le seguenti disposizioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    
+                                        legge 25 novembre 1971, n. 1096 ad eccezione degli articoli 11, comma 8, 19, commi quattordicesimo, quindicesimo e sedicesimo, 20-bis e 37, commi 1 e 3; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    decreto del Presidente della Repubblica 24 novembre 1972; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    
+                                        decreto del Presidente della Repubblica 8 ottobre 1973, n. 1065, ad eccezione degli articoli 8-bis, comma 3, 15, commi ottavo e nono, e 17, comma terzo; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    
+                                        legge 20 aprile 1976, n. 195; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    
+                                        decreto legislativo 24 aprile 2001, n. 212, ad eccezione dell'articolo 1, commi 3, 4 e 7; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    
+                                        decreto legislativo 3 novembre 2003, n. 308; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    
+                                        decreto legislativo 2 agosto 2007, n. 150; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    
+                                        decreto legislativo 29 ottobre 2009, n. 149; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    
+                                        decreto legislativo 30 dicembre 2010, n. 267; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    
+                                        decreto legislativo 14 agosto 2012, n.148; 
+
+                                
+                            
+                            
+                                m)
+                                
+                                    decreto del Ministro dell'agricoltura e delle foreste 19 marzo 1993, pubblicato nella Gazzetta Ufficiale della Repubblica italiana n. 87 del 15 aprile 1993; 
+
+                                
+                            
+                            
+                                n)
+                                
+                                    decreto del Ministro delle politiche agricole alimentari e forestali 17 dicembre 2010, pubblicato nella Gazzetta Ufficiale della Repubblica italiana n. 39 del 17 febbraio 2011; 
+
+                                
+                            
+                            
+                                o)
+                                
+                                    decreto del Ministro delle politiche agricole alimentari e forestali 18 settembre 2012, pubblicato nella Gazzetta Ufficiale della Repubblica italiana n.287 del 10 dicembre 2012.
 

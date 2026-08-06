@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Leggi delega e relativi provvedimenti delegati
 vigenza_date: 2025-11-06
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:41:19Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -29,6 +29,45 @@ Sulla proposta del Presidente del Consiglio dei Ministri e del Ministro dell'ist
 ## Art. 1. — Obiettivi del riordino e definizioni
 
 Allo scopo di promuovere, sostenere, rilanciare e razionalizzare le attivita' nel settore della ricerca, di garantire autonomia, trasparenza ed efficienza nella gestione e di provvedere al riordino della disciplina relativa agli statuti e agli organi degli enti pubblici nazionali di ricerca, vigilati dal Ministero dell'istruzione, dell'universita' e della ricerca, e' emanato il presente decreto legislativo, nel rispetto dei principi e criteri direttivi indicati nell'articolo 18 della legge 15 marzo 1997, n. 59 e di quelli fissati dalla legge delega 27 settembre 2007, n. 165, cosi' come modificata dalla lettera a) del comma 1 dell'articolo 27 della legge 18 giugno 2009, n. 69.
+
+2.
+                        
+                            
+                                Agli effetti del presente decreto legislativo, ove non diversamente disposto, si intendono: 
+ 
+                            
+                            
+                                a)
+                                
+                                    per enti di ricerca: gli enti pubblici nazionali di ricerca vigilati dal Ministero dell'istruzione, dell'universita' e della ricerca; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    per Ministro e Ministero: rispettivamente, il Ministro dell'istruzione, dell'universita' e della ricerca e il Ministero dell'istruzione, dell'universita' e della ricerca; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    per PNR: il Programma nazionale della ricerca, di cui all'articolo 1, comma 2, del decreto legislativo 5 giugno 1998, n. 204; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    per PTA: Piano triennale di attivita', di cui all'articolo 5; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    per DVS: il Documento di visione strategica decennale degli enti di ricerca, di cui all'articolo 5.
 
 ## Art. 2. — Autonomia statutaria
 
@@ -66,6 +105,24 @@ I regolamenti del personale prevedono modalita' procedurali per l'espressione, d
 
 ## Art. 8. — Consiglio di amministrazione degli enti di ricerca
 
+1.
+                        
+                            
+                                Il numero dei componenti il consiglio di amministrazione, compreso il presidente, non puo' superare: 
+ 
+                            
+                            
+                                a)
+                                
+                                    cinque componenti, nel caso di enti che ricevono un contributo pubblico annuale di importo superiore al 20 per cento del fondo di funzionamento ordinario degli enti o che impiegano oltre cinquecento unita' di personale; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    tre componenti negli altri casi.
+
 I componenti del consiglio di amministrazione, compreso il presidente, sono nominati con decreto del Ministro, durano in carica quattro anni, e possono essere confermati una sola volta. Agli stessi si applica quanto previsto nel quarto periodo dell'articolo 6, comma 2, del decreto legislativo 5 giugno 1998, n. 204, anche con riferimento ai mandati gia' espletati prima dell'entrata in vigore del presente decreto legislativo.
 
 ## Art. 9.
@@ -90,6 +147,24 @@ I consigli scientifici sono nominati dal consiglio di amministrazione, previo es
 ## Art. 11. — Comitati di selezione dei presidenti e dei componenti dei consigli di amministrazione degli enti di ricerca di designazione governativa
 
 Ai fini della nomina dei presidenti e dei membri del consiglio di amministrazione di designazione governativa, con decreto del Ministro e' nominato un comitato di selezione, composto da un massimo di cinque persone, scelte tra esperti della comunita' scientifica nazionale ed internazionale ed esperti in alta amministrazione, di cui uno con funzione di coordinatore, senza nuovi o maggiori oneri a carico del bilancio del Ministero. Il comitato di selezione agisce nel rispetto degli indirizzi stabiliti dal Ministro nel decreto di nomina e, per gli adempimenti aventi carattere amministrativo, e' supportato dalle competenti direzioni generali del Ministero. Il personale del Ministero non puo', in nessun caso, fare parte del comitato di selezione.
+
+2.
+                        
+                            
+                                Il comitato di selezione fissa, con avviso pubblico, le modalita' e i termini per la presentazione delle candidature e, per ciascuna posizione ed ove possibile in ragione del numero dei candidati, propone al Ministro: 
+ 
+                            
+                            
+                                a)
+                                
+                                    cinque nominativi per la carica di presidente; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    tre nominativi per la carica di consigliere.
 
 I nominativi proposti ai sensi del comma 2 possono essere utilizzati entro due anni dalla formulazione della proposta.
 
@@ -156,10 +231,123 @@ L'Istituto nazionale per la valutazione del sistema di istruzione e di formazion
 
 Nelle more dell'adeguamento dello statuto dell'INVALSI, e' da intendersi che, qualora sia nominato presidente dell'Istituto un suo dipendente, il trattamento economico fondamentale del dipendente continua ad essere corrisposto, insieme all'indennita' di carica.
 
+2.
+                        
+                            
+                                Nell'ambito della costruzione del Sistema nazionale di valutazione l'INVALSI ha pertanto i seguenti compiti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    lo studio e la predisposizione di strumenti e modalita' oggettive di valutazione degli apprendimenti e la cura dell'elaborazione e della diffusione dei risultati della valutazione; 
+
+                                
+                            
+                            
+                                a-bis)
+                                
+                                    la ((comunicazione)) alle studentesse e agli studenti dei livelli di apprendimento conseguiti nelle prove a carattere nazionale di cui all'articolo 19 del decreto legislativo 13 aprile 2017, n. 62; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la promozione di periodiche rilevazioni nazionali sugli apprendimenti che interessano le istituzioni scolastiche e istruzione e formazione professionale, il supporto e l'assistenza tecnica alle istituzioni scolastiche e formative anche attraverso la messa a disposizione di prove oggettive per la valutazione degli apprendimenti finalizzate anche alla realizzazione di autonome iniziative di valutazione e autovalutazione; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    lo studio di modelli e metodologie per la valutazione delle istituzioni scolastiche e di istruzione e formazione professionale e dei fattori che influenzano gli apprendimenti; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    la predisposizione di prove a carattere nazionale per gli esami di Stato, nell'ambito della normativa vigente; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    lo svolgimento di attivita' di ricerca e la collaborazione alle attivita' di valutazione del sistema scolastico al fine di realizzare iniziative di valorizzazione del merito anche in collaborazione con il sistema universitario; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    lo svolgimento di attivita' di ricerca, nell'ambito delle proprie finalita' istituzionali, sia su propria iniziativa che su mandato di enti pubblici e privati, assicurando inoltre la partecipazione italiana a progetti internazionali in campo valutativo; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    lo svolgimento di attivita' di supporto e assistenza tecnica alle regioni e agli enti territoriali per la realizzazione di autonome iniziative di monitoraggio, valutazione e autovalutazione; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    lo svolgimento di attivita' di formazione del personale docente e dirigente della scuola sui temi della valutazione in collaborazione con l'ANSAS.
+
 ## - Capo III Disposizioni finali, abrogazioni   e disapplicazioni di norme
 
 ## Art. 18. — Disposizioni finali, abrogazioni 
  e disapplicazioni di norme
+
+1.
+                        
+                            
+                                Con l'entrata in vigore del presente decreto sono abrogate le disposizioni dei vigenti ordinamenti di ciascun ente incompatibili con i principi e le disposizioni del presente decreto legislativo, nonche' in particolare le seguenti disposizioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    l'articolo 6, comma 2, primo periodo, del decreto legislativo 5 giugno 1998, n. 204; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'articolo 20, comma 2, del decreto legislativo 4 giugno 2003, n. 127; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    l'articolo 19, comma 2, del decreto legislativo 4 giugno 2003, n. 128; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    l'articolo 19, comma 4, del decreto legislativo 4 giugno 2003, n. 128; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    l'articolo 19, comma 2, del decreto legislativo 21 gennaio 2004, n. 38; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    l'articolo 3, comma 1, del decreto legislativo 19 novembre 2004, n. 286.
 
 Gli organi degli enti in carica o scaduti alla data di entrata in vigore del presente decreto legislativo rimangono in carica fino alla data di entrata in vigore dei nuovi statuti o fino al completamento delle procedure di nomina che devono completarsi entro il termine di mesi due dalla data di entrata in vigore dei nuovi statuti.
 

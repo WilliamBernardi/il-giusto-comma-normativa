@@ -8,8 +8,8 @@ codice_redazionale: 098G0144
 vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:28Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -30,6 +30,40 @@ L'articolo 1, comma 2, lettera i), del decreto legislativo 24 febbraio 1997, n. 
 
 ## Art. 2.
 
+1.
+                    
+                        
+                            All'articolo 2 del decreto legislativo 24 febbraio 1997, n. 46, sono apportate le seguenti modificazioni:
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 1, primo periodo, dopo le parole: "fatte salve le disposizioni dello stesso decreto legislativo n. 178 del 1991 e successive modificazioni" sono inserite le seguenti: "relativamente al medicinale";
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 4, le parole: "della destinazione principale del dispositivo" sono sostituite dalle seguenti: "alla destinazione d'uso principale del dispositivo";
+
+                            
+                        
+                        
+                            c)
+                            
+                                il comma 5 e' sostituito dal seguente:
+ " 5. Il presente decreto lascia impregiudicata l'applicazione del decreto legislativo 17 marzo 1995, n. 230, e dei relativi decreti attuativi.";
+
+                            
+                        
+                        
+                            d)
+                            
+                                dopo il comma 5, e' aggiunto, in fine, il seguente:
+ "5-bis. Ai sensi dell'articolo 2, comma 4, del decreto legislativo 12 novembre 1996, n. 615, le disposizioni in esso contenute non si applicano ai dispositivi disciplinati dal presente decreto.".
+
 ## Art. 3.
 
 All'articolo 4, comma 1, del decreto legislativo 24 febbraio 1997, n. 46, dopo le parole: "soddisfare i" e' inserita la seguente parola: "pertinenti".
@@ -40,11 +74,99 @@ All'articolo 5, comma 5, del decreto legislativo 24 febbraio 1997, n. 46, le par
 
 ## Art. 5.
 
+1.
+                    
+                        
+                            All'articolo 7 del decreto legislativo 24 febbraio 1997, n. 46, sono apportate le seguenti modificazioni:
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 1, primo periodo, dopo le parole: "a cura e spese del fabbricante" sono inserite le seguenti: "o del suo mandatario";
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 3, dopo le parole: "a cura e spese del fabbricante" sono inserite le seguenti: "o del suo mandatario".
+
 ## Art. 6.
+
+1.
+                    
+                        
+                            All'articolo 9 del decreto legislativo 24 febbraio 1997, n. 46, sono apportate le seguenti modificazioni:
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 2, lettera b), le parole: "il ritiro dal mercato" sono sostituite dalle seguenti: "il ritiro sistematico dal mercato";
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 3, le parole: "i dati acquisiti" sono sostituite dalle seguenti: "i dati valutati ai sensi del comma 2".
 
 ## Art. 7.
 
+1.
+                    
+                        
+                            All'articolo 10 del decreto legislativo 24 febbraio 1997, n. 46, sono apportate le seguenti modificazioni:
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 1, primo periodo, dopo le parole: "il decesso o il" e' inserita la seguente parola "grave";
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 2, dopo le parole: "il decesso o il" e' inserita la seguente parola "grave";
+
+                            
+                        
+                        
+                            c)
+                            
+                                al comma 4, dopo le parole: "con il fabbricante" sono inserite le seguenti: "o con il suo mandatario".
+
 ## Art. 8.
+
+1.
+                    
+                        
+                            All'articolo 11 del decreto legislativo 24 febbraio 1997, n. 46, sono apportate le seguenti modificazioni:
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 5, le parole: "richiesta, inviandone copia al Ministero della sanita'" sono soppresse;
+
+                            
+                        
+                        
+                            b)
+                            
+                                dopo il comma 6, e' inserito il seguente:
+ "6-bis. Entro sei mesi dalla data di entrata in vigore del presente decreto, per i dispositivi su misura il fabbricante deve attenersi alla procedura prevista dall'allegato VIII e redigere, prima della immissione in commercio di ciascun dispositivo, la dichiarazione prevista in tale allegato.";
+
+                            
+                        
+                        
+                            c)
+                            
+                                dopo il comma 11, e' inserito il seguente:
+ "11-bis. Il Ministero della sanita' e il Ministero dell'industria, del commercio e dell'artigianato, possono richiedere agli organismi designati italiani tutte le informazioni pertinenti relative alle autorizzazioni ed ai certificati rilasciati o rifiutati.".
 
 ## Art. 9.
 
@@ -60,7 +182,44 @@ All'articolo 18, comma 1, secondo periodo, del decreto legislativo 24 febbraio 1
 
 ## Art. 12.
 
+1.
+                    
+                        
+                            All'articolo 22 del decreto legislativo 24 febbraio 1997, n. 46, sono apportate le seguenti modificazioni:
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 1, le parole: "usati in medicina veterinaria" sono sostituite dalle seguenti: "destinati esclusivamente dall'uso in medicina veterinaria";
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 2, dopo le parole: "un dispositivo" e' inserita la seguente parola: "medico".
+
 ## Art. 13.
+
+1.
+                    
+                        
+                            All'articolo 23 del decreto legislativo 24 febbraio 1997, n. 46, sono apportate le seguenti modificazioni:
+ 
+                        
+                        
+                            a)
+                            
+                                il comma 2 e' sostituito dal seguente:
+ " 2. Colui il quale effettua pubblicita' di dispositivi medici in violazione del divieto di cui all'articolo 21, comma 1, o senza l'autorizzazione di cui all'articolo 21, comma 2, ovvero in difformita' della stessa, e' punito con l'arresto fino a tre mesi e con l'ammenda da lire duecento mila a lire un milione.";
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 4, dopo le parole: "commi 6," e' inserita la seguente: "6-bis,".
 
 ## Art. 14.
 

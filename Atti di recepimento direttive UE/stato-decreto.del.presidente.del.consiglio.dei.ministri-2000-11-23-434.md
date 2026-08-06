@@ -10,7 +10,7 @@ source: normattiva-opendata
 collection: Atti di recepimento direttive UE
 vigenza_date: 2005-04-27
 zip_date: 2026-07-30
-fetched_at: 2026-08-02T09:40:49Z
+fetched_at: 2026-07-30
 ---
 
 DECRETO DEL PRESIDENTE DEL CONSIGLIO DEI MINISTRI
@@ -29,6 +29,24 @@ Sulla proposta del Ministro dell'ambiente, di concerto con il Ministro della san
 Il presente decreto stabilisce, al fine della tutela della salute e dell'ambiente, le specifiche tecniche relative ai combustibili da utilizzare nei veicoli azionati da un motore ad accensione comandata o da un motore ad accensione per compressione.
 
 ## Art. 2. — Definizioni
+
+1.
+                    
+                        
+                            Ai fini del presente decreto, si intende per:
+ 
+                        
+                        
+                            a)
+                            
+                                benzina: gli oli minerali volatili destinati al funzionamento dei motori a combustione interna e ad accensione comandata, utilizzati per la propulsione di veicoli e compresi nei codici NC 2710 00 27, 2710 00 29, 2710 00 32, 2710 00 34 e 2710 00 36;
+
+                            
+                        
+                        
+                            b)
+                            
+                                combustibile diesel: i gasoli specificati nel codice NC 2710 00 66, utilizzati per i veicoli a propulsione autonoma di cui alle direttive 70/220/CEE, 88/77/CEE, 97/68/CE, 77/537/CEE e 92/61/CE, nonche' per le imbarcazioni destinate alla navigazione interna e per le automotrici ferroviarie.
 
 ## Art. 3. — Benzina
 

@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
 vigenza_date: 2014-08-29
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:39Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -29,6 +29,31 @@ Sentite le competenti commissioni parlamentari, ai sensi dell'articolo 3, comma 
 ## Art. 1. — Esame e approvazione dei rapporti delle organizzazioni non governative
 
 Ai progetti promossi dalle organizzazioni non governative di cui all'articolo 29 della legge 26 febbraio 1987, n. 49, relativi ad attivita' di cooperazione internazionale, ivi compresi i progetti di informazione e di educazione allo sviluppo, approvati successivamente all'entrata in vigore del presente regolamento, si applicano le disposizioni di cui ai commi 2, 3, 4, 5 e 6.
+
+2.
+                    
+                        
+                            Ai fini dell'approvazione da parte del Ministero degli affari esteri e dei successivi controlli dell'Ufficio centrale di bilancio presso il Ministero degli affari esteri, i rapporti intermedi e finali presentati allo stesso Ministero degli affari esteri dalle organizzazioni non governative sono corredati dalla seguente documentazione: 
+ 
+                        
+                        
+                            a)
+                            
+                                lo stato di avanzamento descrittivo delle attivita' realizzate; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                il rendiconto finanziario, sottoscritto dal legale rappresentante della organizzazione non governativa, composto da: 1) elenco dei trasferimenti di valuta nel Paese beneficiario; 2) elenco delle spese effettuate, in Italia e nel Paese beneficiario, per voci; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                la relazione di un revisore contabile iscritto da almeno tre anni nell'apposito Registro di cui al decreto legislativo del 27 gennaio 1992, n. 88, e successive modificazioni, attestante l'attendibilita' del rendiconto finanziario a seguito dell'esame della documentazione giustificativa e la sua corrispondenza al piano finanziario al quale esso si riferisce.
 
 Gli oneri relativi alla relazione del revisore contabile sono evidenziati tra le voci di spesa del programma e gravano sul contributo del Ministero degli affari esteri.
 
@@ -81,6 +106,22 @@ Nei casi di urgenza si applicano le disposizioni di cui all'articolo 5, del decr
 ## Art. 4. — Esame e approvazione dei rapporti relativi ai progetti in corso
 
 Ai progetti relativi ad attivita' di cooperazione internazionale promossi dalle organizzazioni non governative, ivi compresi quelli di informazione e di educazione allo sviluppo, in corso di realizzazione alla data di entrata in vigore del presente regolamento, si applicano le disposizioni di cui ai commi 2, lettere a) e b), 3, 4, 5 e 6 dell'articolo 1. La disposizione di cui al comma 2, lettera c), si applica ai rapporti finali di chiusura dei progetti.
+
+2.
+                    
+                        
+                            I rapporti relativi a progetti inerenti ad attivita' di cooperazione internazionale promossi da organizzazioni non governative o ad esse affidati, ivi compresi i progetti di informazione e di educazione allo sviluppo, in corso di verifica alla data di entrata in vigore del presente regolamento, sono approvati sulla base dell'accertata esistenza della seguente documentazione: 
+                        
+                        
+                            a)
+                            
+                                lo stato di avanzamento descrittivo delle attivita' realizzate;
+                            
+                        
+                        
+                            b)
+                            
+                                il rendiconto finanziario, che e' composto da: 1) elenco dei trasferimenti di valuta; 2) elenco delle spese effettuate, in Italia e nell'eventuale Paese beneficiario per voci, debitamente sottoscritto dal legale rappresentante dell'organizzazione non governativa; 3) dichiarazione del legale rappresentante della organizzazione non governativa attestante, sotto la propria responsabilita', il raggiungimento degli obiettivi previsti dal progetto.
 
 ((1))
 

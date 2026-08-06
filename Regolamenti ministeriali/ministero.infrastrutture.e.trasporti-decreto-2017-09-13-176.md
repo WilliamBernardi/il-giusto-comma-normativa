@@ -7,8 +7,8 @@ urn: urn:nir:ministero.infrastrutture.e.trasporti:decreto:2017-09-13;176
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:41Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -32,6 +32,59 @@ Acquisito il preventivo concerto del Ministero dell'economia e delle finanze con
 
 ## Art. 1. — Definizioni
 
+1.
+                    
+                        
+                            Ai fini del presente regolamento, sono adottate le seguenti definizioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                Ministero: il Ministero delle infrastrutture e dei trasporti; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                soggetto gestore: la Societa' Rete Autostrade Mediterranee S.p.a., soggetto incaricato delle attivita' di istruttoria, gestione operativa e monitoraggio dell'intervento; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                impresa armatrice: il proprietario dell'unita' o nave od ogni altro organismo o persona, quali l'imprenditore o il noleggiatore dell'unita' o nave che hanno rilevato dal proprietario la responsabilita' per l'esercizio della nave e, di conseguenza, hanno accettato di assumersi i relativi obblighi e responsabilita' e che assume l'esercizio di unita' nautiche iscritte nei registri delle navi e dei galleggianti tenuti dagli Ispettorati di porto o enti equivalenti; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                slot agreement: accordo tra imprese armatrici per la ripartizione delle capacita' della stiva di una nave; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                servizi marittimi Ro-Ro: i servizi offerti da navi munite di attrezzature particolari che le rendono atte al trasporto di rotabili ferroviari o veicoli stradali con imbarco degli stessi sulle proprie ruote e con imbarco di un numero di passeggeri non superiore a dodici; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                servizi marittimi Ro-Pax: i servizi offerti da navi munite di attrezzature particolari che le rendono atte al trasporto di rotabili ferroviari o veicoli stradali con imbarco degli stessi sulle proprie ruote e con imbarco di un numero di passeggeri superiore a dodici; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                tecnologie ITS: sistemi che integrano le telecomunicazioni, l'elettronica e le tecnologie dell'informazione con l'ingegneria dei trasporti al fine di pianificare, progettare, rendere operativi, sottoporre a manutenzione e gestire i sistemi di trasporto.
+
 ## Art. 2.
 
 Ambito di applicazione e finalita' dell'intervento
@@ -50,6 +103,45 @@ Ai sensi dell'articolo 1, comma 645, della legge n. 208 del 2015, le risorse di 
 
 Gli adempimenti tecnici e amministrativi riguardanti la gestione operativa, l'istruttoria delle domande, nonche' l'esecuzione dei monitoraggi e dei controlli di cui al presente regolamento, sono svolti dal soggetto gestore, ai sensi dell'articolo 19, comma 5, del decreto-legge 1° luglio 2009, n. 78, convertito, con modificazioni, dalla legge 3 agosto 2009, n. 102, con le modalita' e nei termini di cui ad apposito accordo di servizio che verra' stipulato tra il Ministero ed il soggetto gestore, individuato nella societa' RAM spa.
 
+2.
+                    
+                        
+                            Le funzioni e le attivita' che il soggetto gestore dovra' svolgere, cosi' come regolamentate dal predetto Accordo di servizio, sono quelle di seguito elencate: 
+ 
+                        
+                        
+                            a)
+                            
+                                collaborare con il Ministero per la predisposizione delle procedure di accesso ai suddetti incentivi; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                fornire assistenza tecnica al Ministero e ai beneficiari; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                realizzare la gestione operativa dei provvedimenti in oggetto, ivi comprese tutte le attivita' di informatizzazione e archiviazione dei dati, istruttoria, verifica, analisi e comunicazione operativa con i beneficiari, seguendo le indicazioni fornite dalla Direzione generale per il trasporto stradale e per l'intermodalita' del Ministero; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                fornire assistenza tecnica al Ministero nella fase di chiusura delle attivita' relative a tali incentivi; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                monitorare l'andamento dei provvedimenti e svolgere le relative attivita' di controllo, sulla base delle specifiche fornite dalla Direzione generale competente.
+
 Gli oneri derivanti dall'accordo di servizio previsto dal comma 1 sono a carico delle risorse di cui all'articolo 3, nel limite massimo dell'1,5 per cento delle risorse destinate all'intervento di cui al presente regolamento e, comunque, sono definiti in base ad uno specifico preventivo che tenga conto, per il personale impiegato, delle giornate/uomo impegnate e delle relative tariffe applicabili, debitamente suddivise nelle componenti di costo diretto, costo gestionale e costo aziendale, per i costi direttamente imputabili all'esecuzione delle attivita', della spesa da sostenere, per le componenti di costo indiretto, della percentuale riconoscibile e, per gli eventuali costi per viaggi e trasferte, delle spese preventivabili. Gli oneri effettivamente risultanti sono riconosciuti previa presentazione ed approvazione di apposita rendicontazione redatta secondo le specifiche contenute nell'accordo di servizio medesimo in conformita' al sopracitato preventivo.
 
 Il Ministero, in quanto amministrazione titolare dell'interesse primario, esercita le funzioni di iniziativa, di vigilanza, di controllo e decisorie in ordine alle attivita' espletate da RAM spa, di cui all'articolo 12. A tal riguardo la predetta Societa' assicura la massima collaborazione, tempestivita', diligenza e serieta' nell'adempimento delle richieste, degli ordini e delle sollecitazioni del Ministero sulle attivita' tecniche e istruttorie relative alle procedure di cui e' responsabile.
@@ -57,6 +149,87 @@ Il Ministero, in quanto amministrazione titolare dell'interesse primario, eserci
 ## Art. 5. — Soggetti beneficiari
 
 Possono beneficiare dei contributi di cui al presente regolamento le imprese di cui all'articolo 1, comma 1, lettera c), operanti in Italia, costituite anche in forma consorziata, cooperativa o attraverso slot agreement, aventi sede legale in uno degli Stati membri dell'Unione europea o dello Spazio economico europeo.
+
+2.
+                    
+                        
+                            Ai fini dell'accesso ai contributi di cui al presente regolamento, le imprese di cui al comma 1 devono: 
+ 
+                        
+                        
+                            a)
+                            
+                                essere regolarmente costituite ed essere iscritte nel registro delle imprese o enti equivalenti; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                operare nel settore di «Trasporto marittimo e costiero di merci» (codice ATECO 2007 50.20.00); 
+
+                            
+                        
+                        
+                            c)
+                            
+                                essere nel pieno e libero esercizio dei propri diritti e non trovarsi, per quanto applicabile, in una delle situazioni previste dall'articolo 80 del decreto legislativo 18 aprile 2016, n. 50; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                non essere sottoposte a procedure concorsuali quali il fallimento, o l'amministrazione straordinaria o liquidazione coatta amministrativa o a liquidazione, scioglimento della societa', o concordato preventivo senza continuita' aziendale o di piano di ristrutturazione dei debiti; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                possedere una situazione di regolarita' contributiva; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                in caso di servizi marittimi di cui all'articolo 6, comma 5, lettera a), dimostrare di avere capacita' di stiva pari ad almeno 100.000 metri lineari all'anno per l'intera durata del progetto o, in caso di servizi marittimi di cui all'articolo 6, comma 5, lettera b), di aver svolto servizi marittimi impiegando una capacita' di stiva pari ad almeno 100.000 metri lineari all'anno negli ultimi due anni solari al momento dell'invio della domanda; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                operare nel rispetto delle disposizioni in materia di contrattazione collettiva nazionale e territoriale del lavoro e degli obblighi contributivi; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                essere in regola con la disciplina antiriciclaggio e antiterrorismo di cui al decreto legislativo 21 novembre 2007, n. 231; 
+
+                            
+                        
+                        
+                            i)
+                            
+                                non trovarsi nelle condizioni che non consentono la concessione delle agevolazioni ai sensi della normativa antimafia di cui al decreto legislativo 6 settembre 2011, n. 159; 
+
+                            
+                        
+                        
+                            l)
+                            
+                                aver restituito le agevolazioni pubbliche godute per le quali e' stata gia' disposta la restituzione; 
+
+                            
+                        
+                        
+                            m)
+                            
+                                non rientrare tra le imprese che hanno ricevuto e, successivamente, non rimborsato o depositato in un conto bloccato, aiuti individuati quali illegali o incompatibili dalla Commissione europea.
 
 Il possesso dei requisiti di cui ai commi 1 e 2, unitamente a quanto prescritto per l'accesso al contributo in fase di presentazione dell'istanza, deve essere dimostrato alla data di presentazione della domanda di ammissione al contributo.
 
@@ -73,6 +246,33 @@ I servizi marittimi incentivabili devono essere regolari e frequenti, devono ris
 I servizi marittimi incentivabili devono essere funzionali al trasporto multimodale di complessi veicolari, autocarri, rimorchi, semirimorchi e casse mobili lungo rotte marittime a corto raggio, sia via mare che mediante navigazione fluviale. Per il trasporto delle bisarche verranno incentivate sia le unita' di carico che il loro equivalente in carico sfuso.
 
 E' ammissibile a contributo per ciascuna impresa armatrice un solo progetto di durata triennale per ciascuna rotta e quest'ultimo non puo' essere rinnovato, prorogato o ripetuto.
+
+5.
+                    
+                        
+                            Sono ammissibili i progetti finalizzati a: 
+ 
+                        
+                        
+                            a)
+                            
+                                istituzione, avvio e realizzazione di un nuovo servizio marittimo di linea. Per nuovi servizi di linea si intendono quelli avviati a partire dalla data di pubblicazione del presente decreto.
+Tali servizi inoltre non dovranno alterare gli equilibri concorrenziali con le modalita' di trasporto ambientalmente sostenibili, marittima, fluviale e ferroviaria; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                miglioramento dei servizi su rotte esistenti. Il miglioramento del servizio e' valutato rispetto alla situazione in essere alla data di pubblicazione del presente decreto e deve riguardare almeno quattro specifiche iniziative di miglioramento comprese fra almeno due delle seguenti otto categorie di miglioramento: 
+ 1) miglioramento dell'impatto ambientale della linea; 
+ 2) riduzione sostenibile dei tempi della catena intermodale complessiva; la riduzione dei tempi puo' essere effettuata sia attraverso la riduzione dei tempi di navigazione che dei tempi di imbarco e sbarco; 
+ 3) miglioramento dei servizi a terra per imbarco e sbarco dei mezzi; 
+ 4) maggiore frequenza del servizio di linea; 
+ 5) miglioramento dei servizi a bordo durante la navigazione, compresi i servizi di accoglienza per il personale di guida; 
+ 6) implementazione delle tecnologie ITS; 
+ 7) potenziamento dei livelli di sicurezza (safety e security); 
+ 8) incremento della capacita' di stiva offerta.
 
 I progetti di cui al comma 5, lettere a) e b), sono accompagnati da una lettera di manifestazione di interesse di almeno tre imprese di autotrasporto di merci clienti della linea indicata nel progetto e devono garantire, pena l'ineleggibilita' al contributo per l'anno successivo e la perdita del beneficio, il mantenimento per tutto il periodo di fruizione dell'incentivo di almeno il 70 per cento della capacita' di stiva, espressa in metri lineari, destinata dal servizio al carico delle merci di cui al comma 3.
 
@@ -159,6 +359,31 @@ Il Ministero comunica, entro sessanta giorni decorrenti dal termine di scadenza 
 
 Al fine di valutare i requisiti minimi di ammissibilita' dei singoli progetti di cui all'articolo 6, comma 5, lettera a), sono verificati, sulla base della documentazione prodotta in fase di istanza, gli effetti dei nuovi servizi proposti, il loro effettivo avvio, la sostenibilita' economica ed ambientale. E', altresi', verificato che gli standard qualitativi e quantitativi proposti siano in linea con i servizi esistenti e che tali servizi non alterino gli equilibri concorrenziali con le altre modalita' di trasporto ambientalmente sostenibili gia' esistenti, marittima, fluviale e ferroviaria.
 
+4.
+                    
+                        
+                            Al fine di valutare i requisiti minimi di ammissibilita' dei singoli progetti di cui all'articolo 6, comma 5, lettera b), per il miglioramento dell'impatto ambientale della linea, sono considerati i seguenti criteri: 
+ 
+                        
+                        
+                            a)
+                            
+                                l'uso di carburanti meno inquinanti; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                l'uso di dispositivi di abbattimento delle emissioni; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                trattamenti con prodotti speciali della carena.
+
 Nei casi di cui al comma 4, lettere a) e b), i potenziali beneficiari dimostrano quali specifiche metodologie o tecnologie sono state adottate al fine di migliorare l'impatto ambientale della linea. Il beneficiario deve, altresi', fornire prova dell'effettivo miglioramento trasmettendo idonea documentazione che attesti i livelli di performance ambientale rispetto al periodo precedente conseguenti al miglioramento proposto.
 
 Per il miglioramento dei servizi a terra per imbarco e sbarco dei mezzi e' necessario per i beneficiari fornire prova dell'effettivo miglioramento trasmettendo idonea documentazione che attesti l'effettivo miglioramento in termini di servizi offerti a terra per l'imbarco e/o lo sbarco delle merci.
@@ -196,6 +421,31 @@ Ai fini della rendicontazione, annualmente, entro e non oltre trenta giorni dal 
 Termini e modalita' di erogazione delle agevolazioni
 
 Fermo restando quanto previsto all'articolo 10, comma 1, secondo periodo, l'erogazione dei contributi previsti dal presente regolamento e' effettuata dall'amministrazione sulla base di un rendicontazione annuale per ciascun anno di durata del progetto sino a concorrenza del 100 per cento del contributo spettante per singola annualita'.
+
+2.
+                    
+                        
+                            L'erogazione del contributo resta inoltre subordinata: 
+ 
+                        
+                        
+                            a)
+                            
+                                alla verifica da parte del Ministero della regolarita' contributiva mediante richiesta del DURC agli enti competenti; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                alla verifica presso gli istituti previdenziali; la richiesta determina verifiche di accertamento, in capo alle imprese beneficiarie, da parte dell'INPS e dell'INAIL. In caso di irregolarita' contributiva del beneficiario, si procede alla trattenuta dell'importo corrispondente all'inadempienza evidenziata dal DURC disponendo la compensazione dei debiti erariali fino alla loro concorrenza, in applicazione del combinato disposto dell'articolo 31, commi 3 e 8-bis del decreto-legge 21 giugno 2013, n. 69, convertito, con modificazioni, dalla legge 9 agosto 2013, n. 98; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                al rilascio dell'informazione antimafia liberatoria nel caso in cui il contributo sia superiore o uguale a 150.000 euro fermo restando quanto previsto dal decreto legislativo n. 159 del 2011.
 
 L'erogazione del contributo e' subordinata alla dichiarazione del beneficiario di non rientrare fra coloro che hanno ricevuto e, successivamente, non rimborsato o depositato in un conto bloccato, gli aiuti che sono individuati quali illegali o incompatibili dalla Commissione europea, ai sensi dell'articolo 46 della legge 24 dicembre 2012, n. 234, nonche' alla disponibilita' delle risorse cosi' come rimodulate ai sensi dell'articolo 10 del presente regolamento.
 

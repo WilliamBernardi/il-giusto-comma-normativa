@@ -7,8 +7,8 @@ urn: urn:nir:ministero.economia.e.finanze:decreto:2015-02-17;37
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:42Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO

@@ -8,8 +8,8 @@ codice_redazionale: 095G0423
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti governativi
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:09Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -37,7 +37,74 @@ Il provvedimento di autorizzazione e' adottato entro centottanta giorni dalla do
 
 L'autorizzazione e' rilasciata previo parere favorevole dei Ministeri degli affari esteri, della difesa e dell'interno con riferimento anche agli interessi pubblici attinenti ai rapporti internazionali, alla sicurezza dello Stato ed all'ordine pubblico, acquisito in conferenza di servizi, ai sensi dell'art. 14 della legge 7 agosto 1990, n. 241.
 
+5.
+                    
+                        
+                            La diffusione di programmi in onde corte destinati all'estero puo' essere effettuata, a richiesta dei soggetti interessati, mediante l'utilizzazione di impianti propri delle concessionarie dei servizi di telecomunicazioni ad uso pubblico, se disponibili, disciplinata da apposite convenzioni.
+ AVVERTENZA:
+ Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, comma 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con D.P.R. 28 dicembre 1985, n. 1092, al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
+ Note alle premesse:
+ - L'art. 87, comma quinto, della Costituzione conferisce al Presidente della Repubblica il potere di promulgare le leggi e di emanare i decreti aventi valori di legge ed i regolamenti.
+ - La legge n. 103/1975 reca: "Nuove norme in materia di diffusione radiofonica e televisiva".
+ - La legge n. 10/1985 reca: "Conversione in legge, con modificazioni, del decreto-legge 6 dicembre 1984, n. 807, recante disposizioni urgenti in materia di trasmissioni radiotelevisive".
+ - Il comma 1 dell'art. 17 della legge n. 400/1988 (Disciplina dell'attivita' di Governo e ordinamento della Presidenza del Consiglio dei Ministri), come modificato dall'art. 74 del D.Lgs. 3 febbraio 1993, n. 29, prevede che con decreto del Presidente della Repubblica, previa deliberazione del Consiglio dei Ministri, sentito il parere del Consiglio di Stato che deve pronunziarsi entro novanta giorni dalla richiesta, possano essere emanati regolamenti per:
+ 
+                        
+                        
+                            a)
+                            
+                                l'esecuzione delle leggi e dei decreti legislativi;
+
+                            
+                        
+                        
+                            b)
+                            
+                                l'attuazione e l'integrazione delle leggi e dei decreti legislativi recanti norme di principio, esclusi quelli relativi a materie riservate alla competenza regionale;
+
+                            
+                        
+                        
+                            c)
+                            
+                                le materie in cui manchi la disciplina da parte di leggi o di atti aventi forza di legge, sempre che non si tratti di materie comunque riservate alla legge;
+
+                            
+                        
+                        
+                            d)
+                            
+                                l'organizzazione ed il funzionamento delle amministrazioni pubbliche secondo le disposizioni dettate dalla legge.
+ Il comma 4 dello stesso articolo stabilisce che gli anzidetti regolamenti debbano recare la denominazione di "regolamento", siano adottati previo parere del Consiglio di Stato, sottoposti al visto ed alla registrazione della Corte dei conti e pubblicati nella Gazzetta Ufficiale.
+ - La legge n. 223/1990 reca: "Disciplina del sistema radiotelevisivo pubblico e privato".
+ - Il D.Lgs. n. 29/1993 reca: "Razionalizzazione della organizzazione delle amministrazioni pubbliche e revisione della disciplina in materia di pubblico impiego, a norma dell'art. 2 della legge 23 ottobre 1992, n. 421".
+
 ## Art. 2. — Soggetti richiedenti - Requisiti
+
+1.
+                    
+                        
+                            La domanda di autorizzazione puo' essere presentata:
+ 
+                        
+                        
+                            a)
+                            
+                                da persone fisiche in possesso della cittadinanza italiana o di uno degli altri Stati appartenenti all'Unione europea;
+
+                            
+                        
+                        
+                            b)
+                            
+                                da persone fisiche appartenenti a Stati diversi da quelli di cui alla lettera a), a condizione di reciprocita';
+
+                            
+                        
+                        
+                            c)
+                            
+                                da fondazioni, da associazioni riconosciute e non riconosciute, da comitati, costituiti in Italia o in Stati appartenenti all'Unione europea.
 
 Le persone fisiche di cui al comma 1, lettere a) e b), e gli amministratori ed i legali rappresentanti dei soggetti, di cui al comma 1, lettera c), devono avere il godimento dei diritti civili e politici.
 
@@ -49,7 +116,139 @@ I requisiti di cui al presente articolo devono essere posseduti alla data della 
 
 ## Art. 3. — D o m a n d a
 
+1.
+                    
+                        
+                            La domanda di autorizzazione con firma autenticata, da presentare al Ministero delle poste e delle telecomunicazioni, deve contenere:
+ 
+                        
+                        
+                            a)
+                            
+                                cognome, nome, data e luogo di nascita, cittadinanza e residenza del richiedente, se questi e' una persona fisica;
+
+                            
+                        
+                        
+                            b)
+                            
+                                denominazione sociale, sede legale, nazionalita', cognome, nome, data e luogo di nascita e residenza degli amministratori e dei rappresentanti legali se il soggetto richiedente e' una fondazione, un'associazione riconosciuta o non riconosciuta ovvero un comitato;
+
+                            
+                        
+                        
+                            c)
+                            
+                                la dichiarazione che il richiedente o, se trattasi di soggetti diversi dalle persone fisiche, gli amministratori o i rappresentanti legali sono in possesso dei previsti requisiti, ai sensi dell'art. 2, commi 2, 3, 4 e 5;
+
+                            
+                        
+                        
+                            d)
+                            
+                                l'indicazione del comune e dell'area in cui si intende installare l'impianto;
+
+                            
+                        
+                        
+                            e)
+                            
+                                l'indicazione del titolo che consente al richiedente la disponibilita' del suolo sul quale far sorgere l'impianto;
+
+                            
+                        
+                        
+                            f)
+                            
+                                il periodo di tempo entro il quale il richiedente si impegna a completare l'impianto e ad iniziare le trasmissioni;
+
+                            
+                        
+                        
+                            g)
+                            
+                                la dichiarazione che l'impianto risponde alle norme del Comitato elettrotecnico italiano, alle norme antinfortunistiche ed alle norme di prevenzione per la tutela della sanita' pubblica;
+
+                            
+                        
+                        
+                            h)
+                            
+                                l'indicazione dei Paesi ai quali sono destinate le trasmissioni e degli orari di massima delle trasmissioni stesse.
+
 La domanda deve essere corredata dall'atto costitutivo e dallo statuto se il richiedente non e' persona fisica, dall'attestazione del versamento del contributo di cui all'art. 6, dal progetto tecnico esecutivo e dalle necessarie autorizzazioni dei competenti enti locali.
+
+3.
+                    
+                        
+                            Il progetto tecnico di cui al comma 2 deve contenere i seguenti dati:
+ 
+                        
+                        
+                            a)
+                            
+                                denominazione della stazione;
+
+                            
+                        
+                        
+                            b)
+                            
+                                localizzazione della stazione:
+ 1) coordinate geografiche (longitudine rispetto al meridiano di Greenwich e latitudine espresse in gradi, minuti e secondi);
+ 2) denominazione della localita' ove e' installata la stazione (via o localita', comune, provincia);
+
+                            
+                        
+                        
+                            c)
+                            
+                                zone di servizio richieste (le zone di servizio sono indicate con i simboli delle zone CIRAF o quadranti di zone CIRAF), secondo l'allegato al presente regolamento;
+
+                            
+                        
+                        
+                            d)
+                            
+                                caratteristiche delle antenne trasmittenti - per ogni antenna installata nella stazione sono indicati:
+ 1) tipo d'antenna utilizzata (il tipo d'antenna e' indicato con riferimento e con la simbologia del tipo d'antenna descritto nella raccolta UIT dei diagrammi d'antenna);
+ 2) azimut di massima irradiazione;
+ 3) guadagno massimo in dB riferito all'antenna isotropa;
+ 4) bande di frequenze inferiore e superiore di funzionamento dell'antenna nel caso di impiego di antenne multibanda o banda di funzionamento per le antenne a banda singola;
+ 5) nel caso in cui siano impiegate cortine di dipoli orizzontali, in aggiunta ai dati precedenti:
+ 5.1) il tipo di elemento irradiante (dipolo alimentato al centro o all'estremita');
+ 5.2) il tipo di riflettore;
+
+                            
+                        
+                        
+                            e)
+                            
+                                potenza del trasmettitore (in dBW) - per ciascun trasmettitore installato nella stazione sono indicate:
+ 1) per le emissioni a modulazione d'ampiezza a doppia banda laterale, la potenza della portante (in dBW);
+ 2) per le emissioni a modulazione d'ampiezza a banda laterale unica, la potenza di picco (in dBW);
+ 3) la gamma di potenze disponibili nel trasmettitore;
+
+                            
+                        
+                        
+                            f)
+                            
+                                classe di emissione - per ciascun trasmettitore installato nella stazione e' indicata la classe di emissione impiegata (modulazione di ampiezza a doppia banda laterale, modulazione d'ampiezza a banda laterale unica);
+
+                            
+                        
+                        
+                            g)
+                            
+                                caratteristiche strutturali dell'impianto:
+ 1) descrizione delle apparecchiature radioelettriche installate.
+Nella suddetta descrizione debbono essere contenute le caratteristiche di funzionamento di ciascun trasmettitore ed in particolare la tolleranza di frequenza, il livello delle emissioni non essenziali, la larghezza di banda dell'emissione. Le caratteristiche del trasmettitore debbono soddisfare le pertinenti specifiche tecniche contenute nel regolamento delle radiocomunicazioni;
+ 2) descrizione di ciascuna antenna trasmittente e di ciascuna struttura portante;
+ 3) descrizione della linea di alimentazione a radiofrequenza;
+ 4) descrizione di massima dell'impianto elettrico di alimentazione;
+ 5) descrizione dell'impianto di segnalazione d'ostacolo, ove ne ricorresse la necessita', da realizzare secondo le norme dettate dalle autorita' aeronautiche preposte alla sicurezza del volo;
+ 6) descrizione di massima del locale ove sono installate le apparecchiature radioelettriche.
 
 Per l'eventuale trasporto dei programmi, i soggetti interessati, ove non siano disponibili impianti propri delle concessionarie dei servizi di telecomunicazioni ad uso pubblico, devono munirsi, per gli impianti da realizzare, dell'apposita concessione ad uso privato. La domanda per detta concessione puo' essere presentata unitamente a quella per l'autorizzazione di cui al comma 1.
 
@@ -70,6 +269,24 @@ L'autorizzazione, di cui all'art. 1, comma 1, e' rilasciata per un periodo di ci
 La domanda di rinnovo deve essere presentata al Ministero delle poste e delle telecomunicazioni almeno quattro mesi prima della scadenza del periodo di validita' dell'autorizzazione: il Ministero provvede entro centoventi giorni dalla ricezione della domanda.
 
 ## Art. 6. — C o n t r i b u t i
+
+1.
+                    
+                        
+                            Il richiedente deve provvedere ad effettuare i seguenti versamenti a favore del Ministero delle poste e delle telecomunicazioni:
+ 
+                        
+                        
+                            a)
+                            
+                                lire cinquemilioni, contestualmente alla presentazione della domanda di autorizzazione o di rinnovo, a titolo di rimborso delle spese per istruttoria;
+
+                            
+                        
+                        
+                            b)
+                            
+                                lire ventimilioni all'anno, a titolo di rimborso degli oneri sostenuti per l'espletamento dei necessari controlli amministrativi e tecnici.
 
 ## Art. 7. — Responsabilita'
 
@@ -127,6 +344,56 @@ In caso di inosservanza degli obblighi previsti dal presente regolamento, previo
 ## Art. 16. — Revoca - Decadenza - Estinzione
 
 L'autorizzazione e' revocata qualora, dopo la sospensione disposta ai sensi dell'art. 15, si verifichi ulteriormente l'inosservanza degli obblighi previsti dal presente regolamento.
+
+2.
+                    
+                        
+                            L'autorizzazione decade:
+ 
+                        
+                        
+                            a)
+                            
+                                per dichiarazione di fallimento;
+
+                            
+                        
+                        
+                            b)
+                            
+                                in caso di trasferimento dell'impianto a terzi senza l'autorizzazione del Ministero delle poste e delle telecomunicazioni;
+
+                            
+                        
+                        
+                            c)
+                            
+                                qualora venga meno uno dei requisiti richiesti per il rilascio.
+
+3.
+                    
+                        
+                            L'autorizzazione si estingue:
+ 
+                        
+                        
+                            a)
+                            
+                                per scadenza del termine di durata;
+
+                            
+                        
+                        
+                            b)
+                            
+                                per rinuncia del soggetto interessato;
+
+                            
+                        
+                        
+                            c)
+                            
+                                per morte o sopravvenuta incapacita' legale del titolare o, nel caso di persona giuridica, quando questa si estingua.
 
 ## Art. 17. — Disposizione transitoria
 

@@ -9,7 +9,7 @@ vigente: true
 source: normattiva-opendata
 collection: Atti di attuazione Regolamenti UE
 zip_date: 2026-07-24
-fetched_at: 2026-08-02T09:38:54Z
+fetched_at: 2026-07-24
 ---
 
 DECRETO
@@ -34,6 +34,24 @@ Considerata la necessita' di prevedere le norme di applicazione per gli aspetti 
 Ai fini del regolamento CEE n. 986/89 per "organismo competente" si intende l'Ispettorato centrale repressione frodi con sede in Roma, via XX Settembre n. 20, di seguito indicato "Ispettorato centrale repressione frodi".
 
 Ai soli fini della definizione di "rivenditore al minuto", di cui all'art. 2, paragrafo 1, lettera c), del regolamento CEE n. 986/89, per "piccoli quantitativi" si intendono le vendite di vini in recipienti di volume nominale non superiore a 60 litri, con l'ulteriore limite di cessioni singole non superiore a 3 ettolitri ed a condizione che, nello stesso esercizio, non si detengano quantita' superiori a 50 ettolitri di vino, escludendo dal computo i vini condizionati in recipienti di volume nominale fino a 5 litri. La definizione di cui al precedente comma si applica anche per i depositi dei rivenditori al minuto.
+
+3.
+                    
+                        
+                            Ai fini del presente regolamento, si intendono:
+ 
+                        
+                        
+                            a)
+                            
+                                per "prodotti" o "prodotti vinicoli": i prodotti ed i sottoprodotti di cui all'allegato 1 del regolamento CEE n. 822/87 ed i corrispondenti prodotti importati dall'estero;
+
+                            
+                        
+                        
+                            b)
+                            
+                                per "codice": il numero attribuito ad ogni persona fisica o giuridica soggetta alla tenuta dei registri di cui al presente regolamento dall'ufficio repressione frodi competente per territorio.
 
 ## Art. 2.
 
@@ -82,6 +100,24 @@ Il trasportatore, prima di iniziare il trasporto, deve accertare che il document
 
 Qualora tali indicazioni non siano esatte, il trasportatore iniziera' il trasporto solo dopo che sia stato redatto un nuovo documento commerciale omologato regolare.
 
+3.
+                    
+                        
+                            Il responsabile della cantina destinataria del prodotto o un suo delegato, all'atto della ricezione del prodotto e prima di prenderlo in carico nei prescritti registri, deve:
+ 
+                        
+                        
+                            a)
+                            
+                                accertare la regolarita' del trasporto e del documento commerciale omologato, in particolare per quanto attiene la natura merceologica e la descrizione del prodotto;
+
+                            
+                        
+                        
+                            b)
+                            
+                                verificare che il documento medesimo sia compilato in tutte le sue parti.
+
 ## Art. 8.
 
 Ai sensi di quanto disposto dall'art. 20, paragrafo 3, del regolamento CEE n. 986/89, cosi' come modificato dall'art. 1 del regolamento CEE n. 2600/89, fino al 31 dicembre 1990 i trasporti di prodotti vitivinicoli contenuti in recipienti di volume nominale pari o inferiore a 5 litri, che circolano sul territorio nazionale in quantitativi superiori:
@@ -91,9 +127,45 @@ sono effettuati mediante l'originale del documento commerciale, a condizione che
 
 ## Art. 9.
 
+1.
+                    
+                        
+                            I registri di cui al regolamento CEE n. 986/89 sono costituiti:
+ 
+                        
+                        
+                            a)
+                            
+                                da non oltre 50 fogli fissi, da compilarsi a mano, ovvero da schede contabili mobili;
+
+                            
+                        
+                        
+                            b)
+                            
+                                da non oltre 200 fogli in modulo continuo, da compilarsi a mano o con attrezzatura adeguata ad una contabilita' moderna.
+
 In tutti i casi sopra previsti, i fogli devono essere preventivamente numerati e sono soggetti prima dell'uso alla vidimazione dell'ufficio repressione frodi, competente per territorio.
 
 ## Art. 10.
+
+1.
+                    
+                        
+                            Ai fini del regolamento CEE n. 986/89 si considerano anche registri:
+ 
+                        
+                        
+                            a)
+                            
+                                il verso delle dichiarazioni annuali di raccolta, di produzione o di giacenza di cui al regolamento CEE n. 3929/87, limitatamente ai viticoltori non vinificatori, ovvero quelli che vinificano uve di propria produzione senza procedere all'acquisto di altri prodotti, ed a condizione che non effettuino l'aumento del titolo alcolometrico, l'acidificazione, la disacidificazione, la dolcificazione, il taglio, l'imbottigliamento, la distillazione, l'elaborazione di vini spumanti, di vini spumanti gassificati, di vini frizzanti, di vini frizzanti gassificati, l'elaborazione di vini liquorosi, l'elaborazione di mosto di uva concentrato, rettificato o non rettificato, l'elaborazione di vini alcolizzati, altri casi di aggiunta di alcole, la trasformazione in vino aromatizzato;
+
+                            
+                        
+                        
+                            b)
+                            
+                                il complesso dei documenti commerciali omologati, dei documenti commerciali o dei documenti di accompagnamento per i commercianti all'ingrosso che non effettuino alcuna delle manipolazioni di cui alla precedente lettera a).
 
 ## Art. 11.
 

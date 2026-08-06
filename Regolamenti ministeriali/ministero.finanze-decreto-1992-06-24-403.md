@@ -8,8 +8,8 @@ codice_redazionale: 092G0445
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:39Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -22,6 +22,31 @@ Entrata in vigore del decreto: 29/10/1992
 A D O T T A
 
 ## Art. 1.
+
+1.
+                    
+                        
+                            Le tabelle delle indennita' dovute dai contribuenti per:
+ 
+                        
+                        
+                            a)
+                            
+                                operazioni doganali compiute fuori del circuito doganale od oltre l'orario d'ufficio (decreto ministeriale 29 luglio 1971, in Gazzetta Ufficiale n. 193 del 1971);
+
+                            
+                        
+                        
+                            b)
+                            
+                                servizi delle imposte di fabbricazione (decreto ministeriale 14 luglio 1971, in Gazzetta Ufficiale n. 191 del 1971);
+
+                            
+                        
+                        
+                            c)
+                            
+                                analisi e riscontri tecnici, prelievi di campioni ed altre consimili operazioni accessorie, eseguite, su richiesta, in fuori orario e fuori sede dal personale dei laboratori chimici delle dogane (decreto ministeriale 18 aprile 1973, in Gazzetta Ufficiale n. 111 del 1973), come modificate, da ultimo, dalla legge 13 luglio 1984, n. 302, sono sostituite dalla tabella dei rimborsi del costo dei servizi resi dal Dipartimento delle dogane e delle imposte indirette allegata al presente regolamento.
 
 Nella tabella di cui al comma precedente sono stabilite le misure dei corrispettivi dei servizi a carico dei privati ed enti, diversi da quelli pubblici, rapportate a 60 minuti, nonche' le basi ed i criteri per la loro determinazione.
 

@@ -8,8 +8,8 @@ codice_redazionale: 099G0281
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti governativi
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:15Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -28,6 +28,80 @@ Sentite le organizzazioni sindacali rappresentative sul piano nazionale del Corp
 Sulla proposta del Ministro per le politiche agricole, di concerto con il Ministro per la funzione pubblica;
 
 ## Art. 1. — Ricompense e riconoscimenti
+
+1.
+                    
+                        
+                            A tutti gli appartenenti al Corpo forestale dello Stato possono essere concesse le seguenti ricompense:
+ 
+                        
+                        
+                            a)
+                            
+                                onorificenze;
+
+                            
+                        
+                        
+                            b)
+                            
+                                ricompense al valor militare;
+
+                            
+                        
+                        
+                            c)
+                            
+                                ricompense al valor civile;
+
+                            
+                        
+                        
+                            d)
+                            
+                                ricompense al merito civile;
+
+                            
+                        
+                        
+                            e)
+                            
+                                encomio solenne;
+
+                            
+                        
+                        
+                            f)
+                            
+                                ricompense per lodevole comportamento;
+
+                            
+                        
+                        
+                            g)
+                            
+                                riconoscimento per anzianita' di servizio;
+
+                            
+                        
+                        
+                            h)
+                            
+                                riconoscimenti al merito di servizio;
+
+                            
+                        
+                        
+                            i)
+                            
+                                premi in denaro;
+
+                            
+                        
+                        
+                            l)
+                            
+                                promozioni per merito straordinario, ai sensi degli articoli 22 e 23 del decreto legislativo 12 maggio 1995, n. 201.
 
 ## Art. 2. — Ricompense al valor militare, al valor civile
  al merito civile ed onorificenze
@@ -84,6 +158,38 @@ Al personale del Corpo forestale dello Stato e' rilasciato un attestato del conf
 
 ## Art. 10. — Proposte per le ricompense
 
+1.
+                    
+                        
+                            Le proposte per la promozione per merito straordinario, ovvero per il conferimento dell'encomio solenne, dell'encomio, della lode e del premio in denaro sono formulate dal direttore generale del Corpo forestale dello Stato, sulla base delle segnalazioni provenienti:
+ 
+                        
+                        
+                            a)
+                            
+                                per il personale in servizio presso la sede centrale del Corpo forestale dello Stato, dal dirigente preposto alla struttura che amministra il personale stesso;
+
+                            
+                        
+                        
+                            b)
+                            
+                                per il personale in servizio presso le strutture periferiche, dal coordinatore regionale;
+
+                            
+                        
+                        
+                            c)
+                            
+                                per il personale in servizio presso il Centro operativo aeromobili del Corpo forestale dello Stato, dal responsabile del Centro;
+
+                            
+                        
+                        
+                            d)
+                            
+                                per il personale in servizio presso la scuola del Corpo forestale dello Stato, dal direttore della scuola.
+
 Le segnalazioni sono indirizzate al direttore generale del Corpo forestale dello Stato e, sotto forma di proposta, sono sottoposte al preventivo esame della commissione di cui all'articolo 10, e successivamente inoltrate al consiglio di amministrazione del Corpo forestale dello Stato, il quale delibera in merito.
 
 La segnalazione e la proposta devono essere entrambe corredate da una relazione contenente la descrizione dell'avvenimento e da tutti i documenti necessari per una esatta valutazione del merito.
@@ -93,6 +199,38 @@ La proposta deve essere formulata entro sei mesi dalla conclusione dell'operazio
 La commissione, salvo casi di eccezionale urgenza, esamina le proposte in ordine cronologico e, contemporaneamente, quelle che per connessione attengono allo stesso avvenimento con sviluppi operativi in tempi e luoghi diversi.
 
 ## Art. 11. — Commissione per le ricompense
+
+1.
+                    
+                        
+                            Al sensi dell'articolo 26, comma 4, del decreto del Presidente della Repubblica 31 luglio 1995, n. 395, la commissione per le ricompense al personale del Corpo forestale dello Stato e' composta da:
+ 
+                        
+                        
+                            a)
+                            
+                                il direttore generale del Corpo forestale dello Stato che la presiede;
+
+                            
+                        
+                        
+                            b)
+                            
+                                il vice direttore generale del Corpo forestale dello Stato che la presiede in assenza del direttore generale del Corpo;
+
+                            
+                        
+                        
+                            c)
+                            
+                                i dirigenti membri del consiglio di amministrazione del Corpo forestale dello Stato;
+
+                            
+                        
+                        
+                            d)
+                            
+                                un numero di rappresentanti delle organizzazioni sindacali rappresentative sul piano nazionale tale da assicurare il rispetto dei criteri di pariteticita' nella commissione.
 
 Con proprio decreto, il Ministro per le politiche agricole definisce i criteri per la nomina, ogni due anni, dei rappresentanti sindacali di cui al comma 1, lettera d), tenendo conto del grado di rappresentativita' delle stesse, come risultante dalle deleghe complessivamente espresse per la riscossione del contributo sindacale conferite dal personale dell'amministrazione.
 

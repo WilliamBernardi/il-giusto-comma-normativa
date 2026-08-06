@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
 vigenza_date: 2025-06-13
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:21Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -254,6 +254,59 @@ Nei casi previsti dal presente articolo la sanzione ((deve rispettare il princip
 
 ## Art. 13. — (Ravvedimento).
 
+1.
+                    
+                        
+                            La sanzione e' ridotta, sempreche' la violazione non sia stata gia' constatata e comunque non siano iniziati accessi, ispezioni, verifiche o altre attivita' amministrative di accertamento delle quali l'autore o i soggetti solidalmente obbligati, abbiano avuto formale conoscenza: 
+ 
+                        
+                        
+                            a)
+                            
+                                ad un decimo del minimo nei casi di mancato pagamento del tributo o di un acconto, se esso viene eseguito nel termine di trenta giorni dalla data della sua commissione; (13) 
+
+                            
+                        
+                        
+                            a-bis)
+                            
+                                ad un nono del minimo se la regolarizzazione degli errori e delle omissioni, anche se incidenti sulla determinazione o sul pagamento del tributo, avviene entro novanta giorni dalla data dell'omissione o dell'errore, ovvero se la regolarizzazione delle omissioni e degli errori commessi in dichiarazione avviene entro novanta giorni dal termine per la presentazione della dichiarazione in cui l'omissione o l'errore e' stato commesso; (20) (21) 
+
+                            
+                        
+                        
+                            b)
+                            
+                                ad un ottavo del minimo, se la regolarizzazione degli errori e delle omissioni, anche se incidenti sulla determinazione o sul pagamento del tributo, avviene entro il termine per la presentazione della dichiarazione relativa all'anno nel corso del quale e' stata commessa la violazione ovvero, quando non e' prevista dichiarazione periodica, entro un anno dall'omissione o dall'errore; (4) (13) 
+
+                            
+                        
+                        
+                            b-bis)
+                            
+                                ad un settimo del minimo se la regolarizzazione degli errori e delle omissioni, anche se incidenti sulla determinazione o sul pagamento del tributo, avviene ((oltre)) il termine per la presentazione della dichiarazione relativa all'anno ((...)) nel corso del quale e' stata commessa la violazione ovvero, quando non e' prevista dichiarazione periodica, ((oltre un anno)) dall'omissione o dall'errore; ((30))
+                                
+                            
+                        
+                        
+                            b-ter)
+                            
+                                ad un sesto del minimo se la regolarizzazione degli errori e delle omissioni, anche incidenti sulla determinazione o sul pagamento del tributo, avviene ((dopo la comunicazione dello schema di atto di cui all'articolo 6-bis, comma 3, della legge 27 luglio 2000, n. 212, non preceduto da un verbale di constatazione, senza che sia stata presentata istanza di accertamento con adesione ai sensi dell'articolo 6, comma 2-bis, primo periodo del decreto legislativo 19 giugno 1997, n. 218)); ((30))
+                                
+                            
+                        
+                        
+                            b-quater)
+                            
+                                ad un quinto del minimo se la regolarizzazione degli errori e delle omissioni, anche se incidenti sulla determinazione o sul pagamento del tributo, avviene dopo la constatazione della violazione ai sensi dell'articolo 24 della legge 7 gennaio 1929, n. 4, ((senza che sia stata inviata comunicazione di adesione al verbale ai sensi dell'articolo 5-quater del decreto legislativo 19 giugno 1997, n. 218, e, comunque, prima della comunicazione dello schema di atto di cui all'articolo 6-bis, comma 3, della legge 27 luglio 2000, n. 212. La definizione di cui al periodo precedente non si applica alle violazioni)) indicate negli articoli 6, comma 2-bis, limitatamente all'ipotesi di omessa memorizzazione ovvero di memorizzazione con dati incompleti o non veritieri, comma 3, o 11, comma 5, del decreto legislativo 18 dicembre 1997, n. 471; (29) ((30))
+                                
+                            
+                        
+                        
+                            c)
+                            
+                                ad un decimo del minimo di quella prevista per l'omissione della presentazione della dichiarazione, se questa viene presentata con ritardo non superiore a novanta giorni ((...)). (4) (13) ((30))
+
 COMMA ABROGATO DAL D.L. 26 OTTOBRE 2019, N. 124, CONVERTITO CON MODIFICAZIONI DALLA L. 19 DICEMBRE 2019, N. 157.
 
 Ai fini dell'applicazione delle disposizioni di cui al presente articolo, per i tributi amministrati dall'Agenzia delle entrate non opera la preclusione di cui al comma 1, primo periodo, salva la notifica degli atti di liquidazione e di accertamento, comprese le comunicazioni recanti le somme dovute ai sensi degli articoli 36-bis e 36-ter del decreto del Presidente della Repubblica 29 settembre 1973, n. 600, e successive modificazioni, e 54-bis del decreto del Presidente della Repubblica 26 ottobre 1972, n. 633, e successive modificazioni. La preclusione di cui al comma 1, primo periodo, salva la notifica di avvisi di pagamento e atti di accertamento, non opera neanche per i tributi doganali e per le accise amministrati dall'Agenzia delle dogane e dei monopoli.
@@ -318,6 +371,26 @@ Gli uffici e gli enti indicati nel comma 2 sono tenuti a rilasciare, su richiest
 La responsabilita' del cessionario non e' soggetta alle limitazioni previste nel presente articolo qualora la cessione sia stata attuata in frode dei crediti tributari, ancorche' essa sia avvenuta con trasferimento frazionato di singoli beni.
 
 La frode si presume, salvo prova contraria, quando il trasferimento sia effettuato entro sei mesi dalla constatazione di una violazione penalmente rilevante.
+
+5-bis.
+                    
+                        
+                            Salva l'applicazione del comma 4, la disposizione ((di cui al comma 1)) non trova applicazione quando la cessione avviene nell'ambito ((della composizione negoziata della crisi o di uno degli strumenti di regolazione della crisi e dell'insolvenza giudiziale di cui al decreto legislativo 12 gennaio 2019, n. 14. La disposizione di cui al primo periodo si applica anche quando la cessione e' effettuata nei confronti di terzi da una societa' controllata, ai sensi dell'articolo 2359 del codice civile, dall'impresa o dalla societa' che ha fatto ricorso oppure e' assoggettata a uno dei suddetti istituti, a condizione che:))
+                            
+                        
+                        
+                            a)
+                            
+                                
+                                    ((la cessione sia autorizzata dall'autorita' giudiziaria ovvero sia prevista in un piano omologato dalla medesima autorita';))
+                                
+                            
+                        
+                        
+                            b)
+                            
+                                
+                                    ((sia funzionale al risanamento dell'impresa o del soggetto controllante la societa' cedente o al soddisfacimento dei creditori di tali soggetti)). (20) (21) ((30))
 
 Le disposizioni del presente articolo si applicano, in quanto compatibili, a tutte le ipotesi di trasferimento di azienda, ivi compreso il conferimento. (20) (21)
 
@@ -525,6 +598,38 @@ Il diritto alla riscossione della sanzione irrogata si prescrive nel termine di 
 
 ## Art. 21. — Sanzioni accessorie
 
+1.
+                    
+                        
+                            Costituiscono sanzioni amministrative accessorie: 
+ 
+                        
+                        
+                            a)
+                            
+                                l'interdizione((...)), dalle cariche di amministratore, sindaco o revisore di societa' di capitali e di enti con personalita' giuridica, pubblici o privati; ((30))
+                                
+                            
+                        
+                        
+                            b)
+                            
+                                l'interdizione dalla partecipazione a gare per l'affidamento di pubblici appalti e forniture((...)); ((30))
+                                
+                            
+                        
+                        
+                            c)
+                            
+                                l'interdizione dal conseguimento di licenze, concessioni o autorizzazioni amministrative per l'esercizio di imprese o di attivita' di lavoro autonomo e la loro sospensione((...)); ((30))
+                                
+                            
+                        
+                        
+                            d)
+                            
+                                la sospensione((...)), dall'esercizio di attivita' di lavoro autonomo o di impresa diverse da quelle indicate nella lettera c). ((30))
+
 Le singole leggi d'imposta, nel prevedere i casi di applicazione delle sanzioni accessorie, ne stabiliscono i limiti temporali in relazione alla gravita' dell'infrazione ((e alla misura)) della sanzione principale. ((30))
 
 --------------
@@ -551,6 +656,31 @@ Quando la convocazione della controparte potrebbe pregiudicare l'attuazione del 
 COMMA SOPPRESSO DAL D.LGS. 24 SETTEMBRE 2015, N. 156.
 
 Le parti interessate possono prestare, in corso di giudizio, la garanzia di cui all'articolo 69, comma 2, del decreto legislativo 31 dicembre 1992, n. 546. In tal caso l'organo dinanzi al quale e' in corso il procedimento puo' non adottare ovvero adottare solo parzialmente il provvedimento richiesto.
+
+7.
+                    
+                        
+                            I provvedimenti cautelari pronunciati ai sensi del comma 1 perdono efficacia: 
+ 
+                        
+                        
+                            a)
+                            
+                                se non sono eseguiti nel termine di sessanta giorni dalla comunicazione; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                se, nel termine di centoventi giorni dalla loro adozione, non viene notificato atto impositivo, di contestazione o di irrogazione; in tal caso, il presidente della commissione su istanza di parte e sentito l'ufficio o l'ente richiedente, dispone la cancellazione dell'ipoteca; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                a seguito della sentenza, anche non passata in giudicato, che accoglie il ricorso avverso gli atti di cui alla lettera b). La sentenza costituisce titolo per la cancellazione dell'ipoteca. In caso di accoglimento parziale, su istanza di parte, il giudice che ha pronunciato la sentenza riduce proporzionalmente l'entita' dell'iscrizione o del sequestro; se la sentenza e' pronunciata dalla Corte di cassazione, provvede il giudice la cui sentenza e' stata impugnata con ricorso per cassazione.
 
 ---------------
                         AGGIORNAMENTO (1)
@@ -635,6 +765,40 @@ Le violazioni riferite dalle disposizioni vigenti a societa', associazioni od en
 Nel termine di quattro mesi dalla pubblicazione nella Gazzetta Ufficiale della Repubblica italiana sono stabilite, con uno o piu' decreti del Ministro delle finanze, le modalita' di pagamento delle somme dovute a titolo di sanzione.
 
 ## Art. 29. — Disposizioni abrogate
+
+1.
+                    
+                        
+                            Sono abrogati: 
+ 
+                        
+                        
+                            a)
+                            
+                                gli articoli da 1 a 8, 11, 12, 15, da 17 a 19, 20, limitatamente alle parole "e quelle che prevedono ogni altra violazione di dette leggi", da 26 a 29 e da 55 a 63 della legge 7 gennaio 1929, n. 4; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                il decreto ministeriale 1 settembre 1931; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                i commi terzo, quarto, quinto e sesto, limitatamente alle parole "27, penultimo comma", dell'articolo 39 della legge 24 novembre 1981, n. 689; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                nell'articolo 68 del decreto legislativo 31 dicembre 1992, n. 546: 
+ 1) nella rubrica, le parole "e delle sanzioni pecuniarie"; 
+ 2) nel comma 3, le parole "e le sanzioni pecuniarie".
 
 E' inoltre abrogata ogni altra norma in materia di sanzioni amministrative tributarie, nonche' della loro determinazione ed irrogazione, non compatibile con le disposizioni del presente decreto.
 

@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Leggi delega e relativi provvedimenti delegati
 vigenza_date: 2019-01-01
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:41:17Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -30,9 +30,59 @@ Il presente decreto disciplina l'installazione e l'esercizio degli impianti di r
 
 ## Art. 2. — Definizioni
 
+1.
+                    
+                        
+                            Ai fini del presente decreto si intende per:
+ 
+                        
+                        
+                            a)
+                            
+                                impianto di riempimento, travaso e deposito di GPL: l'impianto costituito, congiuntamente o disgiuntamente, da uno o piu' serbatoi fissi, da recipienti mobili, da apparecchiature per l'imbottigliamento, da uno o piu' punti di travaso e di riempimento, cosi' come definiti dall'articolo 2 del decreto del Ministero dell'interno 13 ottobre 1994, pubblicato nel supplemento ordinario alla Gazzetta Ufficiale n. 265 del 12 novembre 1994;
+
+                            
+                        
+                        
+                            b)
+                            
+                                ente competente: la regione, la provincia autonoma o l'ente al quale le stesse hanno conferito le funzioni autorizzative amministrative concernenti le attivita' di cui all'articolo 1, comma 56, della legge 23 agosto 2004, n. 239.
+
 ## Art. 3. — Autorizzazioni e monitoraggio
 
 Le autorizzazioni di cui all'articolo 1, comma 56, della legge 23 agosto 2004, n. 239, sono rilasciate dall'ente competente, sulla base della normativa vigente in materia di impianti di produzione, lavorazione e stoccaggio di oli minerali.
+
+2.
+                    
+                        
+                            Le domande di autorizzazione di cui al comma 1, contengono, in particolare:
+ 
+                        
+                        
+                            a)
+                            
+                                il nome e il domicilio del richiedente e, nel caso di societa', del legale rappresentante, nonche' le indicazioni di cui all'articolo 2250, commi primo e secondo, del codice civile;
+
+                            
+                        
+                        
+                            b)
+                            
+                                l'ubicazione delle opere ed il nominativo del soggetto proprietario del suolo sul quale si intendono realizzare le opere stesse;
+
+                            
+                        
+                        
+                            c)
+                            
+                                la capacita' di ciascun serbatoio nonche' la capacita' totale di stoccaggio, con l'indicazione dell'eventuale prodotto imbottigliato con la specificazione del prodotto da stoccare;
+
+                            
+                        
+                        
+                            d)
+                            
+                                l'impegno del titolare a mantenere costantemente in efficienza ed in perfetto stato di conservazione il deposito.
 
 L'ente competente comunica al Ministero delle attivita' produttive, secondo la tempistica indicata nell'accordo di programma di cui al comma 4, le autorizzazioni rilasciate, ai fini dello svolgimento da parte del Ministero stesso della funzione di monitoraggio di cui all'articolo 1, comma 8, lettera c), numero 3), della legge 23 agosto 2004, n. 239.
 
@@ -72,7 +122,107 @@ I titolari di autorizzazione per l'esercizio di depositi di GPL in bombole, non 
 
 ## Art. 8. — Norme per l'esercizio dell'attivita' di distribuzione di GPL attraverso bombole. Requisiti soggettivi
 
+1.
+                    
+                        
+                            L'attivita' di distribuzione e vendita di GPL attraverso bombole e' esercitata dal soggetto proprietario delle bombole stesse e in possesso di uno dei seguenti requisiti: 
+ 
+                        
+                        
+                            a)
+                            
+                                essere titolare della autorizzazione prevista per l'installazione e l'esercizio di un impianto di cui all'articolo 2, comma 1, lettera a); 
+
+                            
+                        
+                        
+                            b)
+                            
+                                essere titolare dell'autorizzazione per l'installazione e l'esercizio di stabilimenti di lavorazione e di stoccaggio di oli minerali con stoccaggio di GPL; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                avere la disponibilita' di un impianto di cui all'articolo 2, comma 1, lettera a).
+
+2.
+                    
+                        
+                            La disponibilita' di un impianto di cui all'articolo 2, comma 1, lettera a), implica, pena la decadenza del titolo che l'interessato sia in possesso di uno dei seguenti requisiti: 
+ 
+                        
+                        
+                            a)
+                            
+                                essere controllato o controllare, ai sensi dell'articolo 2359 ((, primo comma, numeri 1) e 2),)) del codice civile, una societa' titolare della autorizzazione di cui alle lettere a) e
+                            
+                        
+                        
+                            b)
+                            
+                                del comma 1; 
+ b) far parte di un consorzio di imprese di durata non inferiore ai cinque anni, costituito ai sensi dell'articolo 2602 e seguenti del codice civile, titolare della autorizzazione di cui alle lettere a) e b) del comma 1 (( e proprietario dell'impianto di cui all'articolo 2, comma 1, lettera a) )); 
+
+                            
+                        
+                        
+                            c)
+                            
+                                aver stipulato un contratto di durata non inferiore ai cinque anni, di affitto d'azienda ai sensi dell'articolo 2562 codice civile o di locazione in esclusiva di un impianto di cui all'articolo 2, comma 1, lettera a), anche se inserito in impianti di lavorazione; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                aver stipulato un contratto, di durata non inferiore ai cinque anni di comodato d'uso in esclusiva, di un impianto di cui all'articolo 2, comma 1, lettera a), anche se inserito in impianti di lavorazione.
+
 ## Art. 9. — Norme per l'esercizio dell'attivita' di distribuzione di GPL attraverso bombole. Requisiti oggettivi
+
+1.
+                    
+                        
+                            Oltre ai requisiti soggettivi di cui all'articolo 8, chiunque intenda esercitare l'attivita' di distribuzione e vendita di GPL con bombole di proprieta' deve avere i seguenti requisiti oggettivi:
+ 
+                        
+                        
+                            a)
+                            
+                                avere la disponibilita' esclusiva di serbatoi fissi aventi capacita' volumetrica non inferiore al 10 per cento della capacita' volumetrica complessiva di tutte le bombole di proprieta';
+
+                            
+                        
+                        
+                            b)
+                            
+                                avere adempiuto agli obblighi previsti nell'articolo 16.
+
+2.
+                    
+                        
+                            Ai fini della determinazione del rapporto percentuale di cui al comma 1, lettera a), si fa riferimento alla capacita' totale di tutti i serbatoi fissi esistenti in tutti i depositi, nelle raffinerie e negli impianti petrolchimici:
+ 
+                        
+                        
+                            a)
+                            
+                                di proprieta' del titolare della autorizzazione o appartenenti a societa' collegate o dal medesimo controllate, ai sensi dell'articolo 2359 del codice civile, o comunque dallo stesso partecipate, in proporzione all'entita' della quota di partecipazione;
+
+                            
+                        
+                        
+                            b)
+                            
+                                di proprieta' del consorzio di imprese di cui all'articolo 8, comma 2, lettera b), in proporzione alla quota consortile;
+
+                            
+                        
+                        
+                            c)
+                            
+                                per i quali siano stati stipulati contratti di affitto d'azienda, di locazione o di comodato d'uso in esclusiva, ai sensi dell'articolo 8, comma 2, lettere c) e d).
 
 La capacita' dei serbatoi fissi come individuata ai sensi del comma 2, non puo' essere utilizzata per soddisfare quanto previsto dall'articolo 14, comma 1, lettera a).
 
@@ -85,6 +235,38 @@ L'importo delle cauzioni e' investito, entro il mese successivo a quello della r
 Chiunque detiene bombole per GPL deve restituire alle aziende distributrici, anche tramite il rivenditore, le bombole vuote.
 
 L'azienda distributrice restituisce, all'atto della definitiva restituzione della bombola e della relativa quietanza, la cauzione versata dall'utente. In caso l'utente causi la dispersione o la distruzione della bombola, l'azienda distributrice incamera l'importo della cauzione.
+
+5.
+                    
+                        
+                            Le aziende distributrici possono essere autorizzate ad investire gli importi delle cauzioni gia' investite in titoli di Stato ovvero garantiti dallo Stato per:
+ 
+                        
+                        
+                            a)
+                            
+                                la realizzazione e l'ampliamento di impianti fissi;
+
+                            
+                        
+                        
+                            b)
+                            
+                                l'effettuazione di lavori di migliorie ed adeguamenti di sicurezza per gli impianti;
+
+                            
+                        
+                        
+                            c)
+                            
+                                acquisto di bombole nuove che consenta il reintegro delle bombole disperse;
+
+                            
+                        
+                        
+                            d)
+                            
+                                adempimenti di sicurezza per i serbatoi di GPL di capacita' non superiore a 13 mc.
 
 Ai soli fini di cui al comma 5, e ferme restando le competenze autorizzative attribuite alle regioni, le aziende distributrici presentano al Ministero delle attivita' produttive apposita istanza di autorizzazione allo svincolo delle cauzioni.
 
@@ -115,7 +297,107 @@ In questo caso il legittimo proprietario dei recipienti dovra' preventivamente a
 
 ## Art. 13. — Norme per l'esercizio dall'attivita' di distribuzione di GPL attraverso serbatoi. Requisiti soggettivi
 
+1.
+                    
+                        
+                            L'attivita' di distribuzione e vendita di GPL attraverso serbatoi e' esercitata da soggetti in possesso di uno dei seguenti requisiti: 
+ 
+                        
+                        
+                            a)
+                            
+                                essere titolare della autorizzazione prevista per l'installazione e l'esercizio di un impianto di cui all'articolo 2, comma 1, lettera a); 
+
+                            
+                        
+                        
+                            b)
+                            
+                                essere titolare dell'autorizzazione per l'installazione e l'esercizio di stabilimenti di lavorazione e di stoccaggio di oli minerali con stoccaggio di GPL; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                avere la disponibilita' di un impianto di cui all'articolo 2, comma 1, lettera a).
+
+2.
+                    
+                        
+                            La disponibilita' di cui al comma 1, lettera c), implica, pena la decadenza del titolo, che l'interessato sia in possesso di uno dei seguenti requisiti: 
+ 
+                        
+                        
+                            a)
+                            
+                                sia controllato o controlli, ai sensi dell'articolo 2359 ((, primo comma, numeri 1) e 2),)) del codice civile, societa' titolari della autorizzazione di cui alle lettere a) e
+                            
+                        
+                        
+                            b)
+                            
+                                del comma 1; 
+ b) faccia parte di un consorzio di imprese di durata non inferiore ai cinque anni, istituito ai sensi degli articoli 2602 e seguenti del codice civile, titolare dell'autorizzazione di cui alle lettere a) e b) del comma 1 (( e proprietario dell'impianto di cui all'articolo 2, comma 1, lettera a) )); 
+
+                            
+                        
+                        
+                            c)
+                            
+                                abbia stipulato contratti, di durata non inferiore ai cinque anni, di affitto d'azienda ai sensi dell'articolo 2562 codice civile o di locazione in esclusiva, di un impianto di cui all'articolo 2, comma 1, lettera a), anche se inserito in impianti di lavorazione; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                abbia stipulato contratti, di durata non inferiore ai cinque anni, di comodato d'uso in esclusiva di un impianto di cui all'articolo 2, comma 1, lettera a), anche se inserito in impianti di lavorazione.
+
 ## Art. 14. — Norme per l'esercizio dell'attivita' di distribuzione di GPL attraverso serbatoi. Requisiti oggettivi
+
+1.
+                    
+                        
+                            Oltre ai requisiti soggettivi di cui all'articolo 13, chiunque intenda esercitare l'attivita' di distribuzione e vendita di GPL attraverso serbatoi deve avere i seguenti requisiti oggettivi:
+ 
+                        
+                        
+                            a)
+                            
+                                avere la disponibilita' esclusiva di serbatoi fissi aventi capacita' volumetrica non inferiore al 3 per cento della capacita' volumetrica complessiva di tutti i serbatoi di cui al decreto del Ministero dell'interno del 14 maggio 2004, pubblicato nella Gazzetta Ufficiale n. 120 del 24 maggio 2004, di proprieta' del titolare della autorizzazione ovvero di terzi, ma nella disponibilita', a qualsiasi titolo, del titolare della autorizzazione;
+
+                            
+                        
+                        
+                            b)
+                            
+                                avere adempiuto agli obblighi previsti nell'articolo 16.
+
+2.
+                    
+                        
+                            Ai fini della determinazione del rapporto percentuale di cui al comma 1, lettera a), si fa riferimento alla capacita' totale di tutti i serbatoi fissi esistenti in tutti i depositi, nelle raffinerie e negli impianti petrolchimici:
+ 
+                        
+                        
+                            a)
+                            
+                                di proprieta' del titolare della autorizzazione o appartenenti a societa' collegate o dal medesimo controllate, ai sensi dell'articolo 2359 del codice civile, o comunque dallo stesso partecipate, in proporzione all'entita' della quota di partecipazione;
+
+                            
+                        
+                        
+                            b)
+                            
+                                di proprieta' del consorzio di imprese di cui all'articolo 13, comma 2, lettera b), in proporzione alla quota consortile;
+
+                            
+                        
+                        
+                            c)
+                            
+                                per i quali siano stati stipulati contratti di affitto d'azienda, di locazione o di comodato d'uso in esclusiva, ai sensi di quanto previsto nell'articolo 13, comma 2, lettere c) e d).
 
 La capacita' dei serbatoi fissi come individuata ai sensi del comma 2 non puo' essere utilizzata per soddisfare quanto previsto all'articolo 9, comma 1, lettera a).
 
@@ -128,6 +410,24 @@ I titolari delle concessioni rilasciate antecedentemente alla data di entrata in
 Decorsi dodici mesi dalla data di entrata in vigore del presente decreto, i titolari delle concessioni di cui all'articolo 2 della legge 2 febbraio 1973, n. 7, devono comunque assicurare la disponibilita' di stoccaggio di cui agli articoli 9, comma 1, lettera a), e 14, comma 1, lettera a), anche attraverso contratti, di durata non inferiore ad un anno, di movimentazione di prodotto presso impianti di terzi.
 
 ## Art. 16. — Norme in materia di assicurazione della responsabilita' civile
+
+1.
+                    
+                        
+                            I recipienti, consistenti in bombole e serbatoi di cui al decreto del Ministero dell'interno del 14 maggio 2004, riempiti con GPL, a qualunque uso destinati, non possono essere detenuti in deposito, messi in distribuzione od installati se l'impresa distributrice non abbia provveduto all'assicurazione:
+ 
+                        
+                        
+                            a)
+                            
+                                della responsabilita' civile cui e' tenuta essa impresa o qualsiasi altro soggetto per danni conseguenti all'uso dei recipienti e relativi annessi, compresi gli strumenti di connessione all'impianto di utilizzazione, causati a persone, cose ed animali;
+
+                            
+                        
+                        
+                            b)
+                            
+                                della responsabilita' civile dell'utente o delle persone con esso conviventi conseguenti all'uso dei recipienti e relativi annessi.
 
 L'assicurazione e' stipulata per un congruo massimale e comunque non inferiore a cinque milioni di euro per ogni evento che provochi danni a persone, cose ed animali, con un limite di cinquecentosedicimila euro per ogni persona e di due milioni e cinquecentomila euro per le cose ed animali.
 
@@ -182,6 +482,24 @@ Nei casi di cui ai commi 5 e 12, l'applicazione della sanzione viene comunicata 
 Sono abrogate la legge 23 marzo 1958, n. 327, la legge 2 febbraio 1973, n. 7, e la legge 1° ottobre 1985, n. 539, e ogni altra disposizione incompatibile con il presente decreto.
 
 ## Art. 20. — Esclusioni
+
+1.
+                    
+                        
+                            Le disposizioni del presente decreto non si applicano:
+ 
+                        
+                        
+                            a)
+                            
+                                agli impianti di distribuzione stradale di gas di petrolio liquefatti destinati all'autotrazione;
+
+                            
+                        
+                        
+                            b)
+                            
+                                ai depositi di rivenditori dettaglianti di gas di petrolio liquefatti confezionato in bombole.
 
 Le disposizioni di cui agli articoli 8, 9, 13 e 14 non si applicano agli operatori terzi facenti parte integrante dell'organizzazione commerciale delle aziende distributrici in possesso dei requisiti di cui agli articoli 8, 9, 13 e 14 e che effettuano la vendita di prodotto in esclusiva con il marchio delle aziende distributrici stesse e attraverso recipienti di proprieta' di tali aziende.
 

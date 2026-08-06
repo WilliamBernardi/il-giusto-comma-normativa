@@ -7,8 +7,8 @@ urn: urn:nir:ministero.giustizia:decreto:2021-08-04;124
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:41Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -30,6 +30,73 @@ Il presente regolamento disciplina, per il Ministero della giustizia, la quantif
 Ai fini del presente regolamento si applicano le definizioni contenute nel decreto legislativo 18 aprile 2016, n. 50 (di seguito denominato «decreto legislativo»).
 
 A valere sugli stanziamenti previsti per i singoli appalti di lavori, servizi e forniture viene costituito, nell'ambito dei rispettivi quadri economici, un apposito Fondo in misura non superiore al 2 per cento degli importi posti a base di gara e pari a quanto stabilito dagli articoli 5, comma 1, e 6, comma 2. In caso di modifiche, nonche' di varianti, dei contratti di appalto in corso di validita', nelle ipotesi previste dall'articolo 106 del decreto legislativo, autorizzate dal responsabile unico del procedimento, che comportino un incremento dell'importo a base di gara, il Fondo di cui al primo periodo e' determinato in riferimento al nuovo importo lordo del contratto di appalto, nel rispetto del limite massimo del 2 per cento di cui all'articolo 113, comma 2, del decreto legislativo. La liquidazione degli incentivi, come ricalcolati a seguito dell'incremento del Fondo ai sensi del secondo periodo e' effettuata, secondo le aliquote gia' definite, a favore di tutti soggetti aventi diritto di cui all'articolo 2. Le risorse finanziarie di cui al comma 4, destinate agli incentivi per le funzioni tecniche, sono prelevate, attraverso opportune variazioni di bilancio, dagli stanziamenti dei capitoli utilizzati per il singolo lavoro, servizio e fornitura e versate in uno specifico capitolo di nuova istituzione dello stato di previsione del Ministero della giustizia.
+
+4.
+                    
+                        
+                            L'80 per cento delle risorse finanziarie del Fondo e' ripartito tra il personale del Ministero della giustizia, che, per ciascuna opera o lavoro, servizio o fornitura, e' incaricato e svolge effettivamente le funzioni tecniche per le attivita', anche in quota parte, di cui all'articolo 113, comma 2, del decreto legislativo e specificamente: 
+ 
+                        
+                        
+                            a)
+                            
+                                programmazione della spesa per investimenti; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                valutazione preventiva dei progetti; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                predisposizione e controllo delle procedure di gara e di esecuzione dei contratti pubblici; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                responsabile unico del procedimento; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                direzione dei lavori; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                direzione dell'esecuzione dei contratti di servizi e forniture; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                collaudo tecnico amministrativo; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                collaudo statico; 
+
+                            
+                        
+                        
+                            i)
+                            
+                                verifica di conformita' nei contratti di servizi e forniture.
 
 Il restante 20 per cento del Fondo e' destinato all'amministrazione secondo quanto disposto dall'articolo 113, comma 4, del decreto legislativo.
 
@@ -72,9 +139,94 @@ Gli importi relativi agli incentivi per funzioni tecniche sono comprensivi anche
 ## Art. 5. — Misura del Fondo per appalti di lavori 
  e criteri di ripartizione
 
+1.
+                    
+                        
+                            Per i lavori, ad esclusione delle procedure senza previa consultazione di due o piu' operatori economici o dei lavori in amministrazione diretta, il Fondo di cui all'articolo 1, comma 3, e' determinato in percentuale dell'importo posto a base di gara, nella seguente misura: 
+ 
+                        
+                        
+                            a)
+                            
+                                per lavori di importo inferiore ad euro 2 milioni: 2,00 per cento; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                per lavori di importo pari o superiore ad euro 2 milioni e inferiore ad euro 5.225.000: 1,80 per cento; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                per lavori di importo pari o superiore ad euro 5.225.000 e di importo inferiore ad euro 20 milioni: 1,50 per cento; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                per lavori di importo pari o superiore ad euro 20 milioni: 1,00 per cento.
+
 Nel caso in cui le risorse derivino da finanziamenti europei o da altri finanziamenti a destinazione vincolata, il Fondo, come costituito ai sensi dell'articolo 1, comma 3, e' ridotto del 20 per cento ed e' integralmente destinato a soddisfare le esigenze di cui all'articolo 1, comma 4.
 
 La ripartizione delle risorse finanziarie del Fondo di cui all'articolo 1, comma 4, e' approvata dal direttore generale competente.
+
+4.
+                    
+                        
+                            Le risorse di cui al comma 3 sono ripartite tra i dipendenti nei limiti delle percentuali determinate in relazione alle seguenti attivita': 
+ 
+                        
+                        
+                            a)
+                            
+                                programmazione della spesa per investimenti: dal 2 per cento al 6 per cento; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                valutazione preventiva dei progetti: dal 2 per cento al 4 per cento; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                predisposizione e controllo delle procedure di gara: dal 8 per cento al 12 per cento; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                responsabile unico del procedimento: dal 20 per cento al 30 per cento; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                direttore dei lavori ovvero direttore dell'esecuzione: dal 20 per cento al 30 per cento; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                ufficio direzione lavori: dal 8 per cento al 12 per cento; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                collaudo tecnico amministrativo o collaudo statico: dal 12 per cento al 18 per cento.
 
 Ai dipendenti che collaborano direttamente allo svolgimento delle attivita' di cui al comma 4, esclusi quelli specificamente rientranti nell'ufficio di direzione dei lavori, spetta una quota non superiore al 10 per cento di quella prevista per la relativa tipologia di attivita' tra quelle indicate al comma 4. L'importo percepito dal singolo collaboratore non puo' essere superiore al 70 per cento di quello percepito dal responsabile delle attivita' per le quali e' prestata la collaborazione.
 
@@ -89,9 +241,87 @@ Quando piu' attivita' tra quelle di cui al comma 4 sono svolte da un unico dipen
 
 L'incentivo per funzioni tecniche per appalti di servizi e forniture e' riconosciuto ai sensi dell'articolo 113, comma 2, ultimo periodo, del decreto legislativo, quando e' nominato il direttore dell'esecuzione.
 
+2.
+                    
+                        
+                            Quando ricorrono le condizioni di cui al comma 1 il Fondo di cui all'articolo 1, comma 3, e' determinato in percentuale dell'importo posto a base di gara, nella seguente misura: 
+ 
+                        
+                        
+                            a)
+                            
+                                per forniture e servizi di importo inferiore ad euro 2 milioni: 2,00 per cento; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                per forniture e servizi di importo pari o superiore ad euro 2 milioni e inferiore ad euro 5.225.000: 1,80 per cento; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                per forniture e servizi di importo pari o superiore ad euro 5.225.000 e di importo inferiore ad euro 20 milioni: 1,50 per cento; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                per forniture e servizi di importo pari o superiore ad euro 20 milioni: 1,00 per cento.
+
 Si applica al Fondo di cui all'articolo 1, comma 3, come determinato ai sensi del comma 2, la disposizione dell'articolo 5, comma 2.
 
 La ripartizione delle risorse finanziarie di cui all'articolo 1, comma 4, e' approvata dal direttore generale competente.
+
+5.
+                    
+                        
+                            Le risorse di cui al comma 4 sono ripartite tra i dipendenti nei limiti delle percentuali determinate in relazione alle seguenti attivita': 
+ 
+                        
+                        
+                            a)
+                            
+                                programmazione della spesa per investimenti: dal 2 per cento al 6 per cento; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                valutazione preventiva dei progetti: dal 2 per cento al 4 per cento; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                predisposizione e controllo delle procedure di gara: dal 8 per cento al 12 per cento; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                responsabile unico del procedimento: dal 25 per cento al 35 per cento; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                direttore dell'esecuzione: dal 16 per cento al 24 per cento; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                verifica di conformita': dal 12 per cento al 18 per cento.
 
 Ai dipendenti che collaborano direttamente allo svolgimento delle attivita' di cui al comma 5 spetta una quota non superiore al 18 per cento di quella prevista per la relativa tipologia di attivita' tra quelle indicate nel predetto comma 5. L'importo percepito dal singolo collaboratore non puo' essere superiore al 70 per cento di quello percepito dal responsabile delle attivita' per le quali e' prestata la collaborazione.
 
@@ -105,6 +335,31 @@ Quando piu' attivita' tra quelle di cui al comma 5 sono svolte da un unico dipen
 La suddivisione di ciascuna delle quote di cui agli articoli 5, comma 4, e 6, comma 5, come specificamente individuate in sede di contrattazione decentrata integrativa del personale, e' effettuata dal Direttore generale o dal dirigente preposto all'ufficio sulla base del livello di responsabilita' professionale connessa alla specifica prestazione svolta e al contributo apportato dai dipendenti coinvolti nella ripartizione e deve essere adeguatamente motivata.
 
 ## Art. 8. — Riconoscimento del diritto al compenso
+
+1.
+                    
+                        
+                            Il diritto al compenso incentivante e' riconosciuto: 
+ 
+                        
+                        
+                            a)
+                            
+                                per le attivita' di programmazione della spesa per investimenti, valutazione preventiva dei progetti e predisposizione e controllo delle procedure di gara: alla data di perfezionamento del contratto; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                per le attivita' di direzione dei lavori e di direzione dell'esecuzione, di collaudo e verifica di conformita': alla data di emissione del certificato di pagamento di cui all'articolo 113-bis del decreto legislativo; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                per le attivita' di responsabile del procedimento e dei suoi collaboratori: il 20 per cento alla data di cui alla lettera a) e il restante 80 per cento alla data di cui alla lettera b).
 
 Quando le risorse finanziarie di cui all'articolo 1, comma 4, sono ridotte secondo le modalita' e i criteri previsti dall'articolo 3, e' fatto salvo il diritto del Ministero della giustizia di ripetere, alla fine delle attivita', le somme corrisposte in eccedenza a titolo di incentivo per funzioni tecniche.
 

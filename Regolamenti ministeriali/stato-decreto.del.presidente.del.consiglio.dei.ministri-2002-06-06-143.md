@@ -8,8 +8,8 @@ codice_redazionale: 002G0174
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:41Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DEL CONSIGLIO DEI MINISTRI
@@ -39,9 +39,59 @@ Entro il termine per la presentazione della prima dichiarazione dei redditi nell
 
 Il Ministero delle attivita' produttive trasmette all'Agenzia delle entrate, mediante procedure telematiche, l'elenco delle imprese di cui al comma 1 con l'indicazione del costo dell'investimento sostenuto e dell'anno in cui l'investimento e' stato effettuato.
 
+3.
+                    
+                        
+                            Ai fini del controllo dell'attendibilita' e della trasparenza dei programmi degli investimenti, il Ministero delle attivita' produttive, ai sensi del comma 4 dell'articolo 8 della legge 7 marzo 2001, n. 62, verifica, sulla base della relazione illustrativa di cui al comma 1 e, ove necessario, mediante le ispezioni e i controlli previsti dall'articolo 8 del decreto legislativo 31 marzo 1998, n. 123:
+ 
+                        
+                        
+                            a)
+                            
+                                il possesso dei requisiti soggettivi, ivi compreso quello della lingua italiana e delle minoranze linguistiche a queste equiparate dalla normativa vigente;
+
+                            
+                        
+                        
+                            b)
+                            
+                                la rispondenza degli investimenti effettuati ai requisiti richiesti dal comma 2 del citato articolo 8 della citata legge n. 62 del 2001;
+
+                            
+                        
+                        
+                            c)
+                            
+                                che l'investimento sia effettuato entro i limiti temporali indicati dalla medesima legge n. 62 del 2001.
+
 L'esito dei controlli, da cui risulti un credito d'imposta non spettante o spettante in misura inferiore, e' comunicato all'Agenzia delle entrate, che provvede al recupero del credito d'imposta.
 
 Con provvedimento dell'Agenzia delle entrate, sentiti i competenti uffici del Ministero delle attivita' produttive, sono stabiliti i tempi e le modalita' di trasmissione delle comunicazioni e dei dati di cui ai precedenti commi.
+
+6.
+                    
+                        
+                            Il Ministero delle attivita' produttive provvede, sentita l'Agenzia delle entrate, al monitoraggio del beneficio in questione, al fine di verificarne lo stato di attuazione, anche finanziario. A tal fine, trasmette annualmente al Presidente del Consiglio dei Ministri una dettagliata relazione in cui sono indicati:
+ 
+                        
+                        
+                            a)
+                            
+                                lo stato di attuazione finanziaria;
+
+                            
+                        
+                        
+                            b)
+                            
+                                l'efficacia, in termini quantitativi, dell'intervento;
+
+                            
+                        
+                        
+                            c)
+                            
+                                l'eventuale fabbisogno finanziario.
 
 ## Art. 3. — Revoca totale e parziale dell'agevolazione
 

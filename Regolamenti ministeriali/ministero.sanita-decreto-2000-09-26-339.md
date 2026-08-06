@@ -8,8 +8,8 @@ codice_redazionale: 000G0388
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:42Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -39,6 +39,24 @@ Ai fini del presente regolamento si applicano, ove necessario, oltre a quelle in
 
 Le regioni e le province autonome di Trento e di Bolzano comunicano al Ministero della sanita', entro tre mesi dall'entrata in vigore del presente regolamento, i dati relativi agli stabilimenti in cui sono allevati o custoditi almeno 250 volatili del genere Gallus, specie gallus, e agli incubatoi con capacita' totale di incubazione al netto delle sezioni di schiusa uguale o superiore a mille uova, ubicati sul territorio di competenza.
 
+2.
+                    
+                        
+                            Le regioni e le provincie autonome di Trento e di Bolzano, nell'ambito dell'attivita' di programmazione e coordinamento delle aziende unita' sanitarie locali controllano:
+ 
+                        
+                        
+                            a)
+                            
+                                l'attivita' di verifica delle medesime sull'attuazione dei piani di autocontrollo, previsti dall'allegato III, sezione I, del decreto del Presidente della Repubblica 30 novembre 1998, n. 497, da parte dei proprietari o dei responsabili degli stabilimenti;
+
+                            
+                        
+                        
+                            b)
+                            
+                                l'esecuzione dei controlli ufficiali negli stabilimenti di cui alla lettera a).
+
 Oltre a quanto previsto al comma 2, le regioni e le province autonome di Trento e di Bolzano predispongono, sentito il Ministero della sanita', indirizzi per l'attuazione da parte dei servizi veterinari delle aziende unita' sanitarie locali dei punti V e V-bis dell'allegato III, sezione I, lettera c, del decreto del Presidente della Repubblica 30 novembre 1998, n. 497, con prevalenza applicativa delle misure previste dal punto V-bis del suddetto allegato III.
 
 Le regioni e le province autonome di Trento e di Bolzano trasmettono trimestralmente al Ministero della sanita' una relazione tecnica sull'andamento del piano di cui all'articolo 1, corredata dei dati e delle informazioni riguardanti le attivita' di cui al comma 2 e concernenti anche le partite importate dai Paesi terzi e introdotte dai Paesi comunitari con i relativi esiti; devono essere comunicati altresi' i casi clinici di salmonellosi riscontrati e ogni altra informazione concernente l'andamento della situazione epidemiologica riguardo alle salmonellosi.
@@ -56,6 +74,41 @@ Nel contesto del piano di autocontrollo devono essere indicate le modalita' con 
 ## Art. 5.
 
 Ai fini della corretta attuazione dell'autocontrollo il proprietario o il responsabile dello stabilimento deve tenere uno o piu' registri, o altra documentazione, anche coincidente con quella prescritta da altre disposizioni normative, nei quali sono riportate tutte le informazioni riguardanti l'attivita' svolta, conservare detta documentazione per un minimo di due anni dall'eliminazione dei branchi e comunicare a richiesta delle aziende unita' sanitarie locali i risultati degli esami. I servizi veterinari delle aziende unita' sanitarie locali vigilano sulla corretta e puntuale tenuta dei registri o della documentazione e annotano sui medesimi gli esiti degli esami ufficiali da essi effettuati e ogni altra utile informazione.
+
+2.
+                    
+                        
+                            Nei registri di cui al comma 1 devono essere riportati altresi':
+ 
+                        
+                        
+                            a)
+                            
+                                per gli stabilimenti di allevamento:
+ 1) le entrate e le uscite di volatili;
+ 2) la morbilita' e la mortalita', precisando le cause;
+ 3) la provenienza del pollame;
+ 4) la destinazione del pollame;
+ 5) gli acquisti dei mangimi e la loro provenienza;
+
+                            
+                        
+                        
+                            b)
+                            
+                                per gli stabilimenti di selezione e moltiplicazione oltre a quanto indicato nella lettera a) la destinazione delle partite di uova da cova con le date degli invii;
+
+                            
+                        
+                        
+                            c)
+                            
+                                per gli incubatoi:
+ 1) la provenienza delle uova e la data di arrivo;
+ 2) i risultati della schiusa;
+ 3) le anomalie constatate;
+ 4) il numero e la destinazione delle uova incubate non schiuse;
+ 5) la destinazione dei pulcini di un giorno.
 
 ## Art. 6.
 

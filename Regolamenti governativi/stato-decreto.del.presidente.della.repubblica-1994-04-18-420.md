@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Regolamenti governativi
 vigenza_date: 2015-07-29
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:15Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -31,6 +31,38 @@ Il presente regolamento disciplina le procedure di concessione e autorizzazione 
 Ai fini del presente regolamento si intende per "Ministero", il Ministero dell'industria, del commercio e dell'artigianato.
 
 ## Art. 2. — Opere soggette a concessione
+
+1.
+                    
+                        
+                            Ai sensi dell'art. 16, comma 1, della legge 9 gennaio 1991, n. 9, sono soggette a concessione da parte del Ministero la costruzione e la gestione di:
+ 
+                        
+                        
+                            a)
+                            
+                                nuovi stabilimenti per la lavorazione di oli minerali e nuove installazioni di gas naturale liquefatto;
+
+                            
+                        
+                        
+                            b)
+                            
+                                nuovi impianti che amplino la capacita' di lavorazione stabilita dal decreto di concessione degli stabilimenti di cui alla lettera a) gia' esistenti;
+
+                            
+                        
+                        
+                            c)
+                            
+                                nuovi depositi di oli minerali o di gas naturale liquefatto, di capacita' superiore a 100.000 metri cubi, non compresi nei decreti di concessione degli stabilimenti di cui alla lettera a);
+
+                            
+                        
+                        
+                            d)
+                            
+                                nuove opere che incrementino la capacita' di stoccaggio dei depositi di cui alla lettera c) gia' esistenti, in misura superiore al 30 per cento della capacita' autorizzata anche se l'ampliamento e' realizzato per fasi. Sono comunque soggetti a concessione gli impianti per lo stoccaggio di gas di petrolio liquefatti.
 
 Ai fini dell'applicazione del presente decreto il biodiesel e' assimilabile agli oli minerali.
 

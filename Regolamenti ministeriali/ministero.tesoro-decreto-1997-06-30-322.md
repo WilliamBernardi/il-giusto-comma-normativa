@@ -8,8 +8,8 @@ codice_redazionale: 097G0358
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:42Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -40,6 +40,38 @@ Ai fini dell'iscrizione all'Albo occorre, altresi', superare una prova valutativ
 Sono esonerati dal superamento della prova di cui al comma 2 coloro che risultano in possesso dei requisiti di professionalita' accertati dalla CONSOB sulla base dei criteri valutativi individuati dall'articolo 3.
 
 ## Art. 3. — Criteri valutativi della esperienza professionale
+
+1.
+                    
+                        
+                            L'accesso all'Albo dei promotori finanziari e' consentito a coloro che hanno acquistato una specifica esperienza pofessionale nello svolgimento di una delle sottoindicate attivita':
+ 
+                        
+                        
+                            a)
+                            
+                                agente di cambio iscritto al ruolo unico o al ruolo speciale, tenuti dal Ministero del tesoro;
+
+                            
+                        
+                        
+                            b)
+                            
+                                negoziatore abilitato ai sensi dell'articolo 7, comma 2 della legge 2 gennaio 1991, n. 1;
+
+                            
+                        
+                        
+                            c)
+                            
+                                funzionario di banca addetto ad uno dei settori di attivita' autorizzate ai sensi del decreto legislativo n. 415/1996 o al settore della commercializzazione di prodotti finanziari della banca, ovvero personale preposto ad una dipendenza o ad un'altra unita' operativa, o comunque responsbile della stessa, addetto ad uno dei predetti settori di attivita' autorizzate;
+
+                            
+                        
+                        
+                            d)
+                            
+                                funzionario di impresa di investimento addetto ad uno dei settori di attivita' autorizzate ai sensi del decreto legislativo n. 415/1996, ovvero personale prepsto ad un'unita' operativa, o comunque responsabile della stessa, di un settore di attivita' autorizzate ai sensi del decreto legislativo n. 415/1996, ovvero responsabile del controllo interno.
 
 Le attivita' di cui alle lettere c) e d) del comma 1 devono essere state svolte per uno o piu' periodi di tempo complessivamente pari ad almeno tre anni.
 

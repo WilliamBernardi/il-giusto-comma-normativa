@@ -8,8 +8,8 @@ vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
 vigenza_date: 2018-09-22
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:30Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -31,9 +31,87 @@ Sulla proposta del Presidente del Consiglio dei ministri e del Ministro dell'amb
 
 Finalita'
 
+1.
+                        
+                            
+                                Il presente decreto stabilisce le misure per l'adeguamento della normativa nazionale alle disposizioni del regolamento (UE) n. 1143 del Parlamento europeo e del Consiglio del 22 ottobre 2014, di seguito regolamento, con particolare riferimento: 
+ 
+                            
+                            
+                                a)
+                                
+                                    ai controlli ufficiali necessari a prevenire l'introduzione deliberata di specie esotiche invasive di rilevanza unionale; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    al rilascio delle autorizzazioni previste dagli articoli 8 e 9 del regolamento; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    all'istituzione del sistema nazionale di sorveglianza previsto dall'articolo 14 del regolamento; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    alle misure di gestione volte all'eradicazione, al controllo demografico o al contenimento delle popolazioni delle specie esotiche invasive di rilevanza unionale, transnazionale o nazionale; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    alla disciplina sanzionatoria per la violazione delle disposizioni del regolamento e del presente decreto.
+
 Il presente decreto non si applica ai casi di esclusione previsti dall'articolo 2, paragrafo 2, del regolamento.
 
 ## Art. 2. — Definizioni
+
+1.
+                        
+                            
+                                Ai fini del presente decreto si applicano le definizioni di cui all'articolo 3 del regolamento, nonche' le seguenti definizioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    «elenco delle specie esotiche invasive di rilevanza unionale»: l'elenco previsto dall'articolo 4 del regolamento progressivamente aggiornato dalla Commissione europea; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    «punto di entrata»: il luogo di introduzione per la prima volta nel territorio doganale dell'Unione europea dei vegetali, prodotti vegetali o altre voci, ufficialmente riconosciuto ai sensi dell'allegato VIII al decreto legislativo 19 agosto 2005, n. 214; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    «posti di ispezione frontaliera»: posto d'ispezione designato e riconosciuto dalla Commissione europea per l'esecuzione dei controlli veterinari sugli animali vivi e sui prodotti di origine animale che giungono alla frontiera dei Paesi membri in provenienza da Paesi terzi e destinati al mercato dell'Unione europea. In Italia sono gli uffici periferici del Ministero della salute autorizzati dalla Commissione europea ad effettuare i suddetti controlli; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    «specie esotiche invasive di rilevanza transnazionale»: specie esotiche invasive incluse nell'elenco di specie esotiche invasive di rilevanza nazionale per le quali l'Autorita' nazionale competente ritiene necessaria una cooperazione regionale rafforzata ai sensi dell'articolo 11 del regolamento; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    «impianto»: istituto o struttura presso cui sono tenuti in confinamento esemplari di specie esotiche invasive di rilevanza unionale, transnazionale o nazionale.
 
 ## Art. 3.
 
@@ -42,6 +120,60 @@ Autorita' nazionale competente
 Il Ministero dell'ambiente e della tutela del territorio e del mare, di seguito Ministero, e' l'Autorita' nazionale competente designata per i rapporti con la Commissione europea, relativi all'esecuzione del regolamento, e per il coordinamento delle attivita' necessarie per l'esecuzione del medesimo, nonche' per il rilascio delle autorizzazioni di cui agli articoli 8 e 9 del medesimo regolamento.
 
 L'Istituto superiore per la protezione e la ricerca ambientale, di seguito ISPRA, e' l'ente tecnico scientifico di supporto al Ministero per l'applicazione del regolamento.
+
+3.
+                        
+                            
+                                Il Ministero: 
+ 
+                            
+                            
+                                a)
+                                
+                                    partecipa al Comitato di cui all'articolo 27 del regolamento.
+Qualora sia necessario in ragione della materia da trattare, puo' essere assistito da rappresentanti di altre Amministrazioni; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    designa i rappresentanti al forum scientifico di cui all'articolo 28 del regolamento; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    cura i rapporti con la Commissione europea per le attivita' richieste dall'esecuzione del regolamento; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    promuove le attivita' di cooperazione transnazionale previste dall'articolo 11 del regolamento; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    coordina ed indirizza le attivita' poste in essere da ISPRA, dalle Regioni e dalle Province autonome di Trento e Bolzano per dare esecuzione al regolamento e al presente decreto; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    assiste le Autorita' competenti nella scelta della destinazione degli esemplari di specie esotiche invasive di rilevanza unionale o nazionale sequestrati, anche in relazione a quanto stabilito dall'articolo 27, comma 5; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    provvede al coordinamento ed alla cooperazione con gli altri Stati membri e con gli Stati terzi interessati ai sensi dell'articolo 22 del regolamento e ne informa il Ministero degli affari esteri e della cooperazione internazionale.
 
 Per l'espletamento dei compiti ad esso attribuiti dal presente decreto il Ministero dell'ambiente puo' avvalersi del supporto del Comando unita' tutela forestale, ambientale e agroalimentare dell'Arma dei Carabinieri, ai sensi dell'articolo 174-bis, comma 2, del decreto legislativo 15 marzo 2010, n. 66, nonche', sulla base di apposita norma di attuazione, approvata ai sensi dei rispettivi statuti speciali, dei Corpi Forestali istituiti nelle regioni a Statuto speciale e nelle Province autonome di Trento e Bolzano, a valere sulle risorse disponibili a legislazione vigente nei rispettivi bilanci.
 
@@ -59,6 +191,66 @@ Le Regioni e le Province Autonome di Trento e di Bolzano possono richiedere al M
 ## - Titolo II PREVENZIONE
 
 ## Art. 6. — Divieti
+
+1.
+                        
+                            
+                                Fatto salvo quanto previsto ai titoli III e VIII, gli esemplari di specie esotiche invasive di rilevanza unionale, transnazionale o nazionale, come definite all'articolo 3 del regolamento, non possono essere: 
+ 
+                            
+                            
+                                a)
+                                
+                                    introdotti o fatti transitare nel territorio nazionale, anche sotto sorveglianza doganale; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    detenuti, anche in confinamento, tranne i casi in cui la detenzione avvenga nel contesto delle misure di gestione o di eradicazione disposte ai sensi del presente decreto; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    allevati o coltivati, anche in confinamento; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    trasportati o fatti trasportare nel territorio nazionale, tranne i casi in cui il trasporto avvenga nel contesto delle misure di gestione o di eradicazione disposte ai sensi del presente decreto; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    venduti o immessi sul mercato; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    utilizzati, ceduti a titolo gratuito o scambiati; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    posti in condizione di riprodursi o crescere spontaneamente, anche in confinamento; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    rilasciati nell'ambiente.
 
 ## Art. 7. — Piano d'azione sui vettori delle specie esotiche invasive
 
@@ -91,6 +283,87 @@ Nel caso in cui l'istruttoria accerta che il richiedente non e' in possesso dei 
 
 Il Ministero rilascia il permesso ed il documento previsto dall'articolo 8, paragrafo 6, del regolamento, conclusa positivamente l'istruttoria.
 
+2.
+                        
+                            
+                                Il permesso e' rilasciato con decreto del Direttore generale della direzione generale per la protezione della natura e del mare e contiene almeno le seguenti informazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    un numero progressivo di identificazione; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    i dati identificativi del titolare del permesso; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il nome comune e il nome scientifico e gli eventuali sinonimi, della specie esotica invasiva di rilevanza unionale o nazionale oggetto del permesso; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    i codici della nomenclatura combinata di cui al regolamento (CEE) n. 2658/87; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    il numero o il volume degli esemplari oggetto del permesso, con l'indicazione dell'eventuale marcatura o del sistema di individuazione adottato; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    i motivi del permesso; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    la descrizione dettagliata delle misure previste per garantire l'impossibilita' di fuga, fuoriuscita o diffusione dalle strutture di confinamento in cui gli esemplari delle specie esotiche invasive di rilevanza unionale o nazionale devono essere tenuti e manipolati e delle misure volte a garantire che qualsiasi trasporto degli esemplari eventualmente necessario sia effettuato in condizioni che ne escludano la fuoriuscita; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    una valutazione dei rischi di fuoriuscita degli esemplari delle specie esotiche invasive di rilevanza unionale per cui e' richiesta l'autorizzazione, accompagnate da una descrizione delle misure di mitigazione dei rischi da adottare; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    una descrizione del sistema di sorveglianza previsto e del piano di emergenza stilato per far fronte all'eventuale fuoriuscita o diffusione, compreso un piano di eradicazione; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    l'approvazione del piano di emergenza ai sensi dell'articolo 8, paragrafo 2, lettera f), del regolamento; 
+
+                                
+                            
+                            
+                                m)
+                                
+                                    la durata dell'autorizzazione.
+
 Il permesso puo' contenere prescrizioni relative all'esercizio dell'attivita' autorizzata.
 
 Il Ministero rende disponibili le informazioni di cui all'articolo 8, paragrafo 7, del regolamento nel proprio sito istituzionale.
@@ -118,6 +391,38 @@ Il Ministero rende disponibili le informazioni di cui all'articolo 8, paragrafo 
 
 ## Art. 12. — Registro di detenzione degli esemplari delle specie esotiche invasive di rilevanza unionale e nazionale ed obblighi dei soggetti autorizzati
 
+1.
+                        
+                            
+                                Fatti salvi gli obblighi stabiliti dal regolamento, i soggetti ai quali sono rilasciati i permessi o le autorizzazioni previste dal presente decreto sono tenuti a: 
+ 
+                            
+                            
+                                a)
+                                
+                                    comunicare al Ministero ogni variazione delle informazioni fornite nella richiesta di permesso o di autorizzazione, ai fini dell'aggiornamento del provvedimento; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    comunicare al Ministero ed agli uffici delle Regioni o delle Province autonome competenti per territorio l'eventuale attivazione del piano di emergenza di cui all'articolo 8 del regolamento ed all'articolo 9, comma 2, lettera i); 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    conservare i documenti relativi agli esemplari di specie esotiche invasive detenuti, oltre al permesso, all'autorizzazione o al documento di cui all'articolo 8, paragrafo 6, del regolamento, sino al termine della detenzione degli esemplari; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    tenere il registro di detenzione degli esemplari di specie esotiche invasive di rilevanza unionale e nazionale.
+
 Con decreto del Ministro dell'ambiente e della tutela del territorio e del mare sono definiti contenuto, formato e modalita' di compilazione del registro di detenzione degli esemplari delle specie esotiche invasive di rilevanza unionale e nazionale di cui al comma 1, lettera d).
 
 ## Art. 13. — Accessi ed ispezioni agli impianti autorizzati
@@ -125,6 +430,31 @@ Con decreto del Ministro dell'ambiente e della tutela del territorio e del mare 
 Il Ministero verifica l'adempimento degli obblighi che il regolamento, il presente decreto e le eventuali prescrizioni contenute nei provvedimenti autorizzatori di cui agli articoli 9 e 11 pongono ai soggetti autorizzati.
 
 A tale fine, il Ministero e' autorizzato ad effettuare, presso gli impianti ove sono detenuti in confinamento gli esemplari di specie esotiche invasive di rilevanza unionale o nazionale, le ispezioni, i controlli e i prelievi necessari. A tale scopo, il Ministero puo' avvalersi dell'ISPRA e della collaborazione delle regioni e delle province autonome competenti per territorio.
+
+3.
+                        
+                            
+                                Fermi restando l'applicazione delle norme sanzionatorie di cui al titolo VII e gli obblighi di denuncia all'Autorita' giudiziaria, in caso di inosservanza delle prescrizioni del permesso o dell'autorizzazione o delle disposizioni del regolamento o del presente decreto, il Ministero procede, secondo la gravita' della violazione: 
+ 
+                            
+                            
+                                a)
+                                
+                                    alla diffida, stabilendo un termine entro il quale devono essere eliminate le inosservanze; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    alla diffida e contestuale sospensione del permesso o dell'autorizzazione per un tempo determinato, ove siano accertate dalle autorita' competenti situazioni di pericolo per la salute pubblica o per la sanita' animale, per l'ambiente e per il patrimonio agro-zootecnico; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    alla revoca del permesso o dell'autorizzazione in caso di mancato adeguamento alle prescrizioni imposte con la diffida e in caso di reiterate violazioni che determinino situazione di pericolo per la salute pubblica o per la sanita' animale, per l'ambiente e per il patrimonio agro-zootecnico che siano accertate dalle autorita' competenti.
 
 ## Art. 14. — Giardini zoologici e orti botanici
 
@@ -150,11 +480,47 @@ Gli oneri necessari per l'effettuazione dei controlli di cui al presente articol
 
 Le formalita' presso i punti di entrata presidiati ed i posti di ispezione frontaliera sono espletate congiuntamente alle formalita' necessarie per l'immissione in libera pratica o per l'assoggettamento a uno dei regimi speciali di cui all'articolo 210 del regolamento (UE) 952/2013 del 9 ottobre 2013 che istituisce il Codice doganale dell'Unione europea.
 
+2.
+                        
+                            
+                                Gli importatori o i loro rappresentanti in dogana assicurano che per le spedizioni integralmente o parzialmente costituite da esemplari appartenenti alle specie iscritte nell'elenco di cui all'articolo 4 del regolamento o di cui all'articolo 5, su almeno uno dei documenti necessari per l'assoggettamento ai regimi doganali di cui al comma 1 vi sia il riferimento alla composizione della spedizione e, in particolare, che: 
+ 
+                            
+                            
+                                a)
+                                
+                                    per il riferimento alla specie iscritta nell'elenco di cui all'articolo 4 del regolamento o di cui all'articolo 5 al quale appartengono gli esemplari siano utilizzati i codici della «tariffa doganale integrata delle Comunita' europee (TARIC)»; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    sia indicato il numero del permesso o dell'autorizzazione rilasciati ai sensi del presente decreto.
+
 Gli importatori o i loro rappresentanti in dogana notificano preventivamente, nei tempi e nei modi prescritti dalla normativa dell'Unione europea o nazionale, all'ufficio delle dogane e alle Autorita' competenti di cui all'articolo 15, comma 2, l'imminente arrivo delle spedizioni contenenti gli esemplari appartenenti alle specie iscritte nell'elenco di cui all'articolo 4 del regolamento o di cui all'articolo 5.
 
 Nelle more della completa realizzazione della certificazione elettronica, le autorita' preposte ai controlli fitosanitari provvedono ad apporre sugli originali dei certificati o dei documenti alternativi, esclusi i marchi, a seguito dell'ispezione, il proprio timbro contenente l'indicazione della denominazione del Servizio e della data di presentazione del documento.
 
 ## Art. 17. — Misure ufficiali all'importazione
+
+1.
+                        
+                            
+                                Le Autorita' competenti di cui all'articolo 15, comma 2: 
+ 
+                            
+                            
+                                a)
+                                
+                                    autorizzano l'introduzione degli esemplari nel territorio della Repubblica italiana, qualora risulti, a seguito dei controlli di cui ai precedenti articoli, che le condizioni stabilite dal regolamento e dal presente decreto sono soddisfatte, rilasciando l'apposito Documento Veterinario Comune di Entrata o il nulla osta all'importazione o al transito, da presentare all'Autorita' doganale competente, per il completamento dei relativi adempimenti; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    respingono oppure, qualora il respingimento non sia possibile, sopprimono o distruggono gli esemplari applicando le misure previste dall'articolo 40 del decreto legislativo 19 agosto 2005, n. 214, dall'articolo 11 del decreto legislativo 3 marzo 1993, n. 93 o dall'articolo 17 del decreto legislativo 25 febbraio 2000, n. 80, qualora i controlli accertino la non conformita' alle disposizioni del regolamento o del presente decreto. Delle predette misure sono informati il Ministero e gli altri posti di ispezione frontalieri o punti di entrata presidiati.
 
 Quando, nel corso del controllo doganale, e' accertata la non conformita' al regolamento o al presente decreto, la dogana competente sospende l'assoggettamento al regime doganale e, sentite le Autorita' di cui all'articolo 15, comma 2, sequestra le merci o ne dispone il respingimento all'estero. Delle predette misure e' informato il Ministero.
 
@@ -168,19 +534,151 @@ Il Ministero coordina, con il supporto dell'ISPRA, il sistema di sorveglianza de
 
 Il sistema di sorveglianza assicura il monitoraggio del territorio nazionale, delle acque interne e delle acque marine territoriali al fine di prevenire la diffusione delle specie esotiche invasive di rilevanza unionale o nazionale.
 
+3.
+                        
+                            
+                                Il monitoraggio e' condotto, con il supporto tecnico dell'ISPRA, dalle Regioni e dalle Province autonome di Trento e Bolzano che possono avvalersi delle strutture gia' deputate all'attuazione dell'articolo 11 della direttiva 92/43/CEE, dell'articolo 8 della direttiva 2000/60/CE e dell'articolo 11 della direttiva 2008/56/CE, al fine di: 
+ 
+                            
+                            
+                                a)
+                                
+                                    rilevare la presenza o l'imminente rischio di introduzione di esemplari di specie esotiche invasive nonche' i vettori tramite i quali gli esemplari di specie esotiche invasive di rilevanza unionale sono accidentalmente introdotte e si diffondono; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    individuare le misure piu' opportune di eradicazione rapida di cui all'articolo 19; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    individuare le misure di gestione piu' opportune di cui all'articolo 22; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    verificare l'efficacia delle misure di eradicazione rapida e di gestione nonche' del piano d'azione sui vettori degli esemplari delle specie esotiche invasive, adottati ai sensi del presente decreto.
+
 Il Ministero redige, con il supporto dell'ISPRA e sentite le Regioni e le Province autonome di Trento e Bolzano, linee guida contenenti le indicazioni per l'impostazione dei sistemi e dei programmi di monitoraggio regionali, al fine di produrre dati standardizzati e idonei alla definizione delle misure di eradicazione rapida o di gestione previste dal regolamento.
 
 Le regioni e le Province autonome di Trento e Bolzano trasmettono al Ministero i dati e le informazioni raccolte ogni dodici mesi.
 
 Il Ministero provvede alle notifiche di cui all'articolo 19, paragrafo 5, del regolamento in base ai dati ed alle informazioni raccolte mediante il sistema di sorveglianza. Delle notifiche e' informato il Ministero degli affari esteri e della cooperazione internazionale.
 
+7.
+                        
+                            
+                                Le regioni e le Province autonome di Trento e Bolzano, in base alle informazioni raccolte attraverso il monitoraggio, possono formulare, con il supporto dell'ISPRA, al Ministero: 
+ 
+                            
+                            
+                                a)
+                                
+                                    proposte di inserimento di specie esotiche invasive nell'elenco dell'Unione, complete della valutazione dei rischi di cui all'articolo 5 del regolamento; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    proposte di inserimento di specie esotiche invasive nell'elenco nazionale di cui all'articolo 5; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    proposte per la elaborazione del piano d'azione per trattare i vettori prioritari di cui all'articolo 7; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    proposte di misure di gestione degli esemplari delle specie esotiche invasive di rilevanza unionale o nazionale di cui e' stata constatata l'ampia diffusione nel territorio nazionale, nelle acque interne e marine territoriali.
+
 Per eventuali segnalazioni della comparsa di esemplari di specie esotiche invasive di rilevanza unionale o nazionale, il Ministero mette a disposizione, nel proprio sito istituzionale, una apposita casella di posta elettronica.
 
 ## Art. 19. — Rilevamento precoce ed eradicazione rapida
 
+1.
+                        
+                            
+                                Le Regioni e le Province autonome di Trento e Bolzano interessate comunicano, senza indugio, al Ministero e all'ISPRA il rilevamento precoce: 
+ 
+                            
+                            
+                                a)
+                                
+                                    della comparsa sul proprio territorio o parte di esso di esemplari di specie esotiche invasive di rilevanza unionale o nazionale la cui presenza non era fino a quel momento nota nel proprio territorio o parte di esso; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    della ricomparsa sul proprio territorio o parte di esso di esemplari di specie esotiche invasive di rilevanza unionale o nazionale dopo che ne era stata constatata l'eradicazione.
+
 Il Ministero effettua la notifica alla Commissione europea prevista dall'articolo 16, paragrafo 2, del regolamento e le comunicazioni di cui all'articolo 17, paragrafo 1, del regolamento ed informa le Regioni e le Province autonome di Trento e Bolzano del rilevamento precoce di cui al comma 1. Fatto salvo quanto disposto all'articolo 20, il Ministero, senza indugio e comunque entro tre mesi dalla comunicazione, dispone misure di eradicazione rapida, con il supporto dell'ISPRA, sentite le regioni e le province autonome interessate dalla presenza della specie e, ove opportuno, il Ministero della salute e il Ministero delle politiche agricole, alimentari e forestali. Le misure sono da considerarsi connesse e necessarie al mantenimento in uno stato di conservazione soddisfacente delle specie e degli habitat di cui al decreto del Presidente della Repubblica 8 settembre 1997, n. 357, e successive modificazioni.
 
+3.
+                        
+                            
+                                Le Regioni, le Province autonome di Trento e Bolzano e gli enti gestori delle aree protette nazionali: 
+ 
+                            
+                            
+                                a)
+                                
+                                    applicano le misure di eradicazione rapida, avvalendosi, se del caso, della collaborazione di altre amministrazioni, che devono svolgere le attivita' con le risorse disponibili a legislazione vigente nei propri bilanci, o di soggetti privati; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    assicurano l'eliminazione completa e permanente della popolazione di specie esotica invasiva risparmiando agli esemplari oggetto di eradicazione dolore, angoscia o sofferenza evitabili, limitando l'impatto sulle specie non destinatarie delle misure e sull'ambiente e tenendo in debita considerazione la tutela della salute pubblica e della sanita' animale, del patrimonio agro-zootecnico e dell'ambiente; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    informano il Ministero in merito all'applicazione delle misure nonche' ai risultati conseguiti nel corso delle attivita' di eradicazione degli esemplari.
+
 Le autorita' competenti per territorio adottano i provvedimenti necessari a garantire l'accesso ad aree private nel caso in cui sia richiesto dagli interventi di eradicazione degli esemplari della specie esotica invasiva.
+
+5.
+                        
+                            
+                                Il Ministero, con il supporto dell'ISPRA: 
+ 
+                            
+                            
+                                a)
+                                
+                                    valuta l'efficacia delle misure di eradicazione e le informazioni sull'eradicazione degli esemplari; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    stabilisce, sentite le regioni e le province autonome interessate, la conclusione delle misure di eradicazione; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    trasmette alla Commissione europea le informazioni previste dall'articolo 17, paragrafo 4, del regolamento.
 
 ## Art. 20. — Deroghe all'obbligo di eradicazione rapida
 
@@ -220,6 +718,24 @@ Le autorita' competenti per territorio adottano i provvedimenti necessari a gara
 
 Fatte salve le disposizioni in materia di prevenzione e riparazione del danno ambientale di cui alla Parte Sesta del decreto legislativo 3 aprile 2006, n. 152, e successive modificazioni, le Regioni, le Province autonome di Trento e Bolzano o gli enti gestori delle aree protette nazionali, concluse le operazioni di eradicazione rapida o nell'ambito delle misure di gestione di cui all'articolo 22, previo nulla osta del Ministero, adottano appropriate misure di ripristino per favorire la ricostituzione di un ecosistema che e' stato degradato, danneggiato o distrutto da esemplari di specie esotiche invasive di rilevanza unionale o nazionale.
 
+2.
+                        
+                            
+                                Le misure di ripristino di cui al comma 1 includono almeno le seguenti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    misure volte ad accrescere la capacita' di un ecosistema esposto a perturbazioni causate dalla presenza di esemplari di specie esotiche invasive di rilevanza unionale o nazionale di resistere ai loro effetti, assorbirli, adattarvisi e ricostituirsi; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    misure volte a sostenere la prevenzione dalla reinvasione dopo una campagna di eradicazione.
+
 Nel caso in cui, sulla base dei dati disponibili e con ragionevole certezza emerge che i costi di dette misure sarebbero elevati e sproporzionati rispetto ai benefici del ripristino, il Ministero, sentito l'ISPRA, puo' autorizzare le Regioni e le Province autonome di Trento e Bolzano a non realizzare gli interventi di ripristino di cui ai commi precedenti.
 
 ## Art. 24. — Recupero dei costi
@@ -230,13 +746,102 @@ Fatte salve le disposizioni in materia di prevenzione e di riparazione del danno
 
 ## Art. 25. — Sanzioni
 
+1.
+                        
+                            
+                                Salvo che il fatto costituisca piu' grave reato: 
+ 
+                            
+                            
+                                a)
+                                
+                                    chiunque, al di fuori dei permessi o delle autorizzazioni rilasciate ai sensi del Titolo III o di quanto previsto al Titolo VIII, viola i divieti previsti dall'articolo 6, comma 1, lettere c), e) ed h), e' punito con l'arresto fino a tre anni o con l'ammenda da € 10.000 a € 150.000; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    chiunque ostacola o impedisce l'effettuazione dei controlli e degli interventi di attuazione delle misure di eradicazione di cui all'articolo 19 e delle misure di gestione di cui all'articolo 22, previsti dal presente decreto e' punito con l'arresto fino a tre mesi o con l'ammenda da € 150 a € 3.000; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il titolare del permesso o dell'autorizzazione rilasciati ai sensi del Titolo III che non rispetta le prescrizioni in essi contenute relative alla detenzione o al trasporto in confinamento degli esemplari e' punito con l'arresto fino a due anni o con l'ammenda da € 5.000 a € 75.000.
+
 Le pene di cui al comma 1, lettere a) e c), sono comminate congiuntamente se dal fatto deriva la necessita' di applicare le misure previste dagli articoli 19, 22 e 23.
 
 Le pene previste ai commi che precedono sono diminuite di un terzo se la violazione e' commessa per colpa. Se il fatto e' commesso nell'esercizio di attivita' di impresa, alla condanna consegue la sospensione della licenza fino a sei mesi.
 
+4.
+                        
+                            
+                                Salvo che il fatto costituisca reato: 
+ 
+                            
+                            
+                                a)
+                                
+                                    chiunque, al di fuori dei permessi o delle autorizzazioni rilasciate ai sensi del Titolo III o di quanto previsto dal Titolo VIII, violi i divieti previsti dall'articolo 6, comma 1, lettere a), b), d), f) e g) e' soggetto alla sanzione amministrativa del pagamento di una somma da € 1.000 ad € 50.000; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il titolare del permesso o dell'autorizzazione rilasciati ai sensi del Titolo III che non rispetta le prescrizioni in essi contenute, fatto salvo quanto previsto dal comma 1, lettera c) e' soggetto alla sanzione amministrativa del pagamento di una somma da € 10.000 ad € 50.000; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il titolare del permesso o dell'autorizzazione rilasciati ai sensi del Titolo III che viola gli obblighi di cui all'articolo 12, comma 1 e' soggetto alla sanzione amministrativa del pagamento di una somma da € 5.000 ad € 50.000; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    chiunque viola l'obbligo di denuncia di cui agli articoli 26, comma 1, e 27, comma 1, o l'obbligo di comunicazione di cui all'articolo 28, comma 2, e' soggetto alla sanzione amministrativa del pagamento di una somma da € 150 ad € 20.000; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    l'importatore o il suo rappresentante in dogana che omette di osservare le disposizioni di cui al Titolo IV e' soggetto alla sanzione amministrativa del pagamento di una somma da € 1.000 ad € 6.000.
+
 Nei casi di cui al comma 4, lettere a) e b), se dal fatto deriva la necessita' di applicare le misure previste dagli articoli 19, 22 e 23, le sanzioni amministrative sono aumentate fino al triplo.
 
 E' sempre ordinata la confisca degli esemplari delle specie esotiche invasive di rilevanza unionale o nazionale, anche se non e' pronunciata condanna penale o non e' stata applicata una sanzione amministrativa pecuniaria. Gli esemplari oggetto di sequestro penale o amministrativo sono custoditi presso strutture idonee indicate dal Ministero.
+
+7.
+                        
+                            
+                                A seguito della confisca, il Ministero dispone degli esemplari nel seguente ordine di priorita': 
+ 
+                            
+                            
+                                a)
+                                
+                                    rinvio allo Stato di provenienza, se possibile; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    affidamento a strutture pubbliche o private, anche estere, in possesso dell'autorizzazione prevista dal regolamento; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    soppressione degli animali o distruzione dei vegetali per i quali non e' stato possibile l'affidamento.
 
 Nel caso di condanna penale o di applicazione di una sanzione amministrativa pecuniaria, le spese di rinvio allo Stato di provenienza, mantenimento o distruzione sono a carico del soggetto destinatario del provvedimento di confisca. Nessun indennizzo e' dovuto per la soppressione o la distruzione di esemplari eseguita in applicazione delle disposizioni del presente articolo.
 

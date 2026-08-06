@@ -9,7 +9,7 @@ vigente: true
 source: normattiva-opendata
 collection: Atti di recepimento direttive UE
 zip_date: 2026-07-30
-fetched_at: 2026-08-02T09:40:50Z
+fetched_at: 2026-07-30
 ---
 
 DECRETO LEGISLATIVO
@@ -113,6 +113,31 @@ Chiunque eserciti l'attivita' di cui al presente decreto senza le prescritte aut
  «b-bis) inibire con provvedimento motivato, in tutto o in parte, per un periodo massimo di 60 giorni, l'attivita' della forma pensionistica complementare ove vi sia il fondato sospetto di grave violazione delle norme del presente decreto e vi sia urgenza di provvedere.».
 
 ## Art. 7. — Abrogazioni
+
+1.
+                    
+                        
+                            Sono abrogate le seguenti disposizioni del decreto legislativo 5 dicembre 2005, n. 252:
+ 
+                        
+                        
+                            a)
+                            
+                                l'articolo 4, comma 4;
+
+                            
+                        
+                        
+                            b)
+                            
+                                l'articolo 5, commi 9, 10, 11, e 12;
+
+                            
+                        
+                        
+                            c)
+                            
+                                l'articolo 6, commi 4 e 11.
 
 Ai commi 1 e 3 dell'articolo 39 della legge 28 dicembre 2005, n. 262, le parole: «e dal decreto legislativo 21 aprile 1993, n. 124» sono soppresse.
 

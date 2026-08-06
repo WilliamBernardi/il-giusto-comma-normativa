@@ -8,8 +8,8 @@ codice_redazionale: 094G0197
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:41Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -76,6 +76,53 @@ il seguente regolamento di attuazione dell'art. 27 della legge 5
 
 ## Art. 2. — Procedura per la presentazione delle domande
 
+1.
+                    
+                        
+                            Ai fini della concessione delle agevolazioni di cui all'art. 27 della legge le societa' consortili trasmettono alla regione ove ha sede la maggior parte delle imprese associate interessate al progetto e, per conoscenza, al Ministero dell'industria, del commercio e dell'artigianato:
+ 
+                        
+                        
+                            a)
+                            
+                                domanda,in regola con le disposizioni vigenti in materia di bollo, di ammissione agli interventi firmata dal responsabile legale;
+
+                            
+                        
+                        
+                            b)
+                            
+                                copia autentica dell'atto costitutivo e dello statuto vigente al momento della domanda. Dallo statuto deve risultare, oltre il divieto di distribuire utili o avanzi di esercizio, cosi' come previsto dal comma 2 dell'art. 18 della legge, il divieto per gli enti e per le imprese che eccedano i limiti dimensionali di cui all'art. 1 della legge medesima di fruire dei servizi e delle attivita' della societa' consortile a cui partecipano;
+
+                            
+                        
+                        
+                            c)
+                            
+                                atto notorio o dichiarazione sostitutiva resa dal responsabile legale della societa' consortile secondo le disposizioni della legge 4 gennaio 1968, n. 15, e successive variazioni, dove si attesti la conformita' della societa' consortile ai requisiti previsti dalla legge e dal presente decreto e dal quale devono risultare i dati di cui all'allegato 1;
+
+                            
+                        
+                        
+                            d)
+                            
+                                programma di attivita', anche a carattere pluriennale che si intende realizzare, e che deve indicare:
+ 1) descrizione dell'iniziativa;
+ 2) specifica delle singole voci di spesa relative agli investimenti in beni materiali od immateriali con la documentazione probatoria delle spese previste (preventivi, studi fattibilita', ecc.);
+ 3) spesa complessiva e la sua eventuale articolazione temporale;
+ 4) piano finanziario di copertura;
+ 5) obiettivi che si intendono conseguire;
+ 6) modalita' e tempi di realizzazione;
+ 7) localizzazione dell'iniziativa cui il programma si riferisce;
+ 8) le imprese consorziate interessate al progetto;
+
+                            
+                        
+                        
+                            e)
+                            
+                                certificazione o autocertificazione "antimafia", ai sensi della legge 19 marzo 1990, n. 55, e successive modificazioni ed integrazioni, riguardanti la societa' consortile, i suoi organi responsabili (la persona del presidente, vice presidente, i membri del consiglio di amministrazione) nonche' i soci (imprese o enti e relativi responsabili) che detengono quote del capitale sociale superiore al 10%.
+
 Qualora non vi sia una maggioranza delle imprese interessate al progetto ubicate in una sola regione, la domanda deve essere presentata alla regione dove ha sede la societa' consortile.
 
 Qualora le domande riguardino lo svolgimento di programmi di ricerca scientifica e tecnologica, devono essere trasmesse anche al Ministero dell'universita' e della ricerca scientifica e tecnologica.
@@ -90,6 +137,66 @@ Per gli anni successivi il termine e' fissato annualmente dal Ministro dell'indu
 
 Sono ammessi al contributo gli investimenti in beni materiali o immateriali, effettuati successivamente al 25 ottobre 1991 mediante acquisizione o realizzazione diretta da parte delle societa' consortili e finalizzati alla realizzazione dei programmi volti a promuovere una o piu' delle attivita' di cui al comma 7 dello stesso art. 27 della legge.
 
+2.
+                    
+                        
+                            Rientrano tra le spese ammissibili quelle relative a:
+ 
+                        
+                        
+                            a)
+                            
+                                attrezzature, impianti, beni strumentali;
+
+                            
+                        
+                        
+                            b)
+                            
+                                terreni e fabbricati;
+
+                            
+                        
+                        
+                            c)
+                            
+                                acquisti dei necessari materiali di consumo;
+
+                            
+                        
+                        
+                            d)
+                            
+                                personale specificatamente adibito alla realizzazione del programma e relative spese di formazione;
+
+                            
+                        
+                        
+                            e)
+                            
+                                realizzazione di prototipi;
+
+                            
+                        
+                        
+                            f)
+                            
+                                acquisizione dall'esterno di servizi di consulenza e assistenza tecnica e organizzativa, ivi compresa la progettazione;
+
+                            
+                        
+                        
+                            g)
+                            
+                                acquisto di brevetti e licenze da utilizzare per la realizzazione dei programmi;
+
+                            
+                        
+                        
+                            h)
+                            
+                                acquisto o realizzazione di software.
+
 I beni acquistati per la realizzazione del programma devono essere di nuova fabbricazione, fatta salva 1'ipotesi prevista dall'art. 27, comma 7, lettera i), della legge circa la possibilita' del recupero degli immobili industriali preesistenti, per la loro destinazione a fini produttivi.
 
 I costi indicati nel programma ed ammissibili al contributo si intendono al netto dell'IVA, degli interessi e di ogni altro onere accessorio.
@@ -100,7 +207,89 @@ Sono in ogni caso escluse le spese amministrative e di gestione, che non attenga
 
 Le regioni, in tempo utile per la presentazione delle domande, predispongono, in relazione ai propri piani regionali di sviluppo, ai propri strumenti di programmazione e alle proprie normative generali e di settore, il "progetto-programma" di sviluppo di iniziative consortili nel territorio previsto dall'art. 21, comma 3, della legge, determinando in esso le priorita' di accesso alle agevolazioni e l'entita' degli interventi propri e di altri enti pubblici destinati al finanziamento di tale "progetto-programma".
 
+2.
+                    
+                        
+                            Il "progetto-programma" deve privilegiare:
+ 
+                        
+                        
+                            a)
+                            
+                                la qualita';
+
+                            
+                        
+                        
+                            b)
+                            
+                                la ricerca tecnologica;
+
+                            
+                        
+                        
+                            c)
+                            
+                                il risparmio energetico;
+
+                            
+                        
+                        
+                            d)
+                            
+                                la fornitura di servizi comuni alle imprese socie (oltre la fornitura di aree attrezzate o fabbricati).
+
 ## Art. 6. — Procedura per la concessione delle agevolazioni
+
+1.
+                    
+                        
+                            Le regioni effettuano l'istruttoria sulle domande pervenute, in particolare verificando:
+ 
+                        
+                        
+                            a)
+                            
+                                la completezza e i contenuti della documentazione prodotta e la loro conformita' a quanto richiesto dalla legge e dal presente regolamento;
+
+                            
+                        
+                        
+                            b)
+                            
+                                la sussistenza dei requisiti previsti dalla normativa per le societa' consortili e le imprese consorziate;
+
+                            
+                        
+                        
+                            c)
+                            
+                                la validita' tecnica ed economica del programma e del relativo piano di copertura finanziaria;
+
+                            
+                        
+                        
+                            d)
+                            
+                                la coerenza con il "progetto-programma" di sviluppo di iniziative consortili nel territorio previsto dall'art. 21, comma 3, della legge.
+
+2.
+                    
+                        
+                            Le regioni, entro i sessanta giorni successivi al termine per la presentazione delle domande, trasmettono al Ministero dell'industria, del commercio e dell'artigianato:
+ 
+                        
+                        
+                            a)
+                            
+                                il "progetto-programma" di sviluppo di iniziative consortili nel territorio previsto dal comma 3 dell'art. 21 della legge;
+
+                            
+                        
+                        
+                            b)
+                            
+                                una relazione istruttoria relativa alle domande pervenute corredata, per ogni domanda, del proprio motivato parere.
 
 Le domande che hanno ottenuto il parere favorevole della regione sono riepilogate in un elenco, indicando per ogni domanda i contributi ritenuti ammissibili, con la eventuale ripartizione nei vari anni di intervento. La maggiorazione del contributo, prevista dal secondo periodo del comma 8 dell'art. 27, si applica ai soggetti localizzati nei territori di cui all'allegato 2 e dei quali almeno i 4/5 delle piccole imprese socie sono localizzate nei territori suddetti.
 
@@ -119,13 +308,134 @@ Entro quindici giorni dall'avvenuta comunicazione del riparto dei fondi le regio
 
 ## Art. 7. — Istruttoria svolta dal Ministero
 
+1.
+                    
+                        
+                            Nel caso in cui debba provvedere, a norma dell'art. 21, comma 5, della legge, all'istruttoria e all'erogazione dei contributi, il Ministero dell'industria, del commercio e dell'artigianato si attiene alle seguenti disposizioni:
+ 
+                        
+                        
+                            a)
+                            
+                                informa il consorzio o la societa' consortile che all'istruttoria e alla eventuale successiva erogazione provvede direttamente il Ministero dell'industria, del commercio e dell'artigianato;
+
+                            
+                        
+                        
+                            b)
+                            
+                                verifica la completezza e i contenuti della documentazione prodotta e la conformita' della stessa a quanto richiesto dalla legge e dal presente regolamento;
+
+                            
+                        
+                        
+                            c)
+                            
+                                verifica la sussistenza dei requisiti di legge per i consorzi e le imprese consorziate;
+
+                            
+                        
+                        
+                            d)
+                            
+                                verifica la validita' tecnica ed economica del programma e del relativo piano di copertura finanziaria;
+
+                            
+                        
+                        
+                            e)
+                            
+                                provvede ad approvare le domande e a determinare l'ordine delle priorita' attenendosi ai criteri di cui al comma 2 del precedente art. 5;
+
+                            
+                        
+                        
+                            f)
+                            
+                                provvede, entro quindici giorni dal riparto dei fondi di cui al comma 6 del precedente art. 6, alla concessione delle agevolazioni ai consorzi e societa' consortili nei limiti risultanti dal riparto stesso.
+
 ## Art. 8. — Erogazioni effettuate dal Ministero
 
 L'erogazione del contributo avviene in due quote, pari al 40% e al 60% dell'ammontare complessivo, da liquidarsi rispettivamente alla realizzazione di una quota del programma pari al 50% e al completamento dello stesso.
 
 L'erogazione della seconda quota di contributo pari al 60%, avviene dopo che le commissioni previste dall'art. 18 della legge 26 aprile 1983, n. 130, hanno verificato la realizzazione totale del programma.
 
+3.
+                    
+                        
+                            Al fine di comprovare lo stato di realizzazione degli investimenti i soggetti beneficiari devono presentare rendiconti contabili, attenendosi alle seguenti disposizioni:
+ 
+                        
+                        
+                            a)
+                            
+                                gli acquisti da terzi devono essere indicati mediante elenchi di fatture e di altri titoli giustificativi, ovvero mediante elaborati meccanografici di contabilita' contenenti precisi riferimenti idonei a far risalire alla natura delle spese ed alle loro componenti tecniche ed economiche;
+
+                            
+                        
+                        
+                            b)
+                            
+                                le spese per il personale specificatamente adibito alla realizzazione del programma sono documentate sulla base del costo effettivo limitatamente alle ore impiegate, che devono risultare da un registro appositamente costituito, nel quale vengono annotate le ore quotidianamente prestate per ciascun addetto, nonche' da una dichiarazione resa dagli addetti stessi.
+
 I rendiconti contabili devono essere articolati secondo le voci di investimento previste nella domanda; di ciascuna voce deve essere indicato il totale parziale e, a conclusione, il totale generale dell'intero investimento.
+
+5.
+                    
+                        
+                            I rendiconti devono essere firmati dal legale rappresentante del beneficiario e devono essere accompagnati da un atto notorio o dichiarazione sostitutiva resa dallo stesso rappresentante legale secondo le disposizioni della legge 4 gennaio 1968, n. 15, e successive modificazioni, dove si attesti che:
+ 
+                        
+                        
+                            a)
+                            
+                                le spese esposte riguardano effettivamente ed unicamente gli investimenti previsti nel programma ammesso ad agevolazione;
+
+                            
+                        
+                        
+                            b)
+                            
+                                i titoli di spesa indicati nei rendiconti sono fiscalmente regolari ed integralmente pagati;
+
+                            
+                        
+                        
+                            c)
+                            
+                                i beni acquistati sono di nuova fabbricazione;
+
+                            
+                        
+                        
+                            d)
+                            
+                                il programma di investimento approvato non ha subito variazioni. Nel caso vi siano variazioni le stesse devono essere preventivamente approvate dal Ministero.
+
+6.
+                    
+                        
+                            Per ogni erogazione deve essere trasmessa:
+ 
+                        
+                        
+                            a)
+                            
+                                una dichiarazione sulle modalita' di pagamento: quietanza diretta, accreditamento in conto corrente bancario o conto corrente postale;
+
+                            
+                        
+                        
+                            b)
+                            
+                                certificazione o autocertificazione "antimafia" ai sensi della legge 19 marzo 1990, n. 55, e successive modificazioni ed integrazioni riguardanti il consorzio o la societa' consortile, i suoi organi responsabili (la persona del presidente, vice presidente, i membri del consiglio di amministrazione) nonche' i soci (ditte e relativi responsabili) che detengono quote del fondo consortile superiore al 10%;
+
+                            
+                        
+                        
+                            c)
+                            
+                                certificato del tribunale attestante la vigenza del richiedente, i legali rappresentanti ed i relativi poteri, la composizione degli organi responsabili.
 
 Ai sensi dell'art. 2, comma 2, della legge 7 agosto 1990, n. 241, l'erogazione della prima e della seconda quota di contributo di cui ai precedenti commi 1 e 2, avviene, rispettivamente, entro novanta e duecentoquarantacinque giorni dall'inizio dei relativi procedimenti.
 

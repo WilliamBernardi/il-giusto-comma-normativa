@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
 vigenza_date: 2023-01-01
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:30Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -94,6 +94,24 @@ La lettera c) del comma 2 dell'articolo 41 del testo unico delle imposte sui red
 ## Art. 2. — Modifiche all'articolo 42 del testo unico delle imposte sui redditi, approvato con decreto del
  Presidente della Repubblica 22 dicembre 1986, n. 917
 
+1.
+                        
+                            
+                                All'articolo 42 del testo unico delle imposte sui redditi, approvato con il decreto del Presidente della Repubblica 22 dicembre 1986, n. 917, sono apportate le seguenti modificazioni:
+ 
+                            
+                            
+                                a)
+                                
+                                    al comma 1, dopo il primo periodo, sono aggiunti, in fine, i seguenti: "Nei redditi di cui alle lettere a), b), f), e g) del comma 1 dell'articolo 41 e' compresa anche la differenza tra la somma percepita o il valore normale dei beni ricevuti alla scadenza e il prezzo di emissione o la somma impiegata, apportata o affidata in gestione, ovvero il valore normale dei beni impiegati, apportati od affidati in gestione, qualora la differenza tra la somma percepita od il valore normale dei beni ricevuti alla scadenza e il prezzo di emissione dei titoli o certificati indicati nella lettera b) del comma 1 dell'articolo 41 sia determinabile in tutto od in parte in funzione di eventi o di parametri non ancora certi o determinati alla data di emissione dei titoli o certificati, la parte di detto importo, proporzionalmente riferibile al periodo di tempo intercorrente fra la data di emissione e quella in cui l'evento od il parametro assumono rilevanza ai fini della determinazione della differenza, si considera interamente maturata in capo al possessore a tale ultima data. I proventi di cui alla lettera g-bis) del comma 1 dell'articolo 41 sono costituiti dalla differenza positiva tra i prezzi globali di trasferimento dei titoli e delle valute. Da tale differenza si scomputano gli interessi e gli altri proventi dei titoli, non rappresentativi di partecipazioni, maturati nel periodo di durata del rapporto, con esclusione dei redditi esenti dalle imposte sui redditi. Nei proventi di cui alla lettera g-ter) si comprende, oltre al compenso per il mutuo, anche il controvalore degli interessi e degli altri proventi dei titoli, non rappresentativi di partecipazioni, maturati nel periodo di durata del rapporto.";
+
+                                
+                            
+                            
+                                b)
+                                
+                                    dopo il comma 4 aggiunto, in fine, il seguente: "4-bis. Le somme od il valore normale dei beni distribuiti, anche in sede di riscatto o di liquidazione, dagli organismi d'investimento collettivo mobiliari, soggetti ad imposta sostitutiva sul risultato di gestione, nonche' le somme od il valore normale dei beni percepiti in sede di cessione delle partecipazioni ai predetti organismi costituiscono proventi per un importo corrispondente alla differenza positiva tra l'incremento di valore delle azioni o quote rilevato alla data della distribuzione, riscatto, liquidazione o cessione e l'incremento di valore delle azioni o quote rilevato alla data di sottoscrizione od acquisto. L'incremento di valore delle azioni o quote e' rilevato dall'ultimo prospetto predisposto dalla societa' di gestione.".
+
 Nel caso dei rapporti di cui alla lettera g-ter) del comma 1 dell'articolo 41 del testo unico delle imposte sui redditi, approvato con decreto del Presidente della Repubblica 22 dicembre 1986, n. 917, come sostituito dall'articolo 1, comma 3, del presente decreto, qualora la garanzia sia costituita da pegno irregolare, agli effetti fiscali i proventi delle somme di denaro o dei beni dati in garanzia spettano al costituente il pegno a condizione che, durante il periodo di efficacia del contratto, il creditore pignoratizio non compia sulle somme o sui beni atti di disposizione. Non si considera a tali effetti atto di disposizione l'immissione delle somme in conti o depositi vincolati intestati al creditore pignoratizio, esplicitamente riferibili al soggetto costituente il pegno, ne' la costituzione in garanzia delle somme o dei beni da parte del creditore pignoratizio che avvenga nell'ambito di ulteriori operazioni di prestito di titoli, a condizione che i soggetti a favore dei quali la garanzia e' costituita non compiano su dette somme e beni atti di disposizione.
 
 (( 3. Nel caso dei rapporti di cui alle lettere g-bis) e g-ter) del comma 1 dell'articolo 44 del testo unico delle imposte sui redditi, di cui al decreto del Presidente della Repubblica 22 dicembre 1986, n. 917, e successive modificazioni, e delle operazioni che producono analoghi effetti economici, al soggetto cui si imputano i dividendi, gli interessi e gli altri proventi, si applica il regime previsto dall'articolo 89, comma 2, del medesimo testo unico, e successive modificazioni, ovvero spettano l'attribuzione di ritenute o il credito per imposte pagate all'estero, soltanto se tale regime, ovvero l'attribuzione delle ritenute o il credito per imposte pagate all'estero, sarebbe spettato al beneficiario effettivo dei dividendi, degli interessi e degli altri proventi))
@@ -101,7 +119,66 @@ Nel caso dei rapporti di cui alla lettera g-ter) del comma 1 dell'articolo 41 de
 ## Art. 3. — Modifiche all'articolo 81 del testo unico delle imposte sui redditi, approvato con decreto del Presidente della Repubblica 22 dicembre
  1986, n. 917.
 
+1.
+                        
+                            
+                                Nell'articolo 81 del testo unico delle imposte sui redditi, approvato con il decreto del Presidente della Repubblica 22 dicembre 1986, n. 917, sono apportate le seguenti modificazioni:
+ 
+                            
+                            
+                                a)
+                                
+                                    al comma 1:
+ 1) nell'alinea, dopo le parole: "Sono redditi diversi" sono inserite le seguenti: "se non costituiscono redditi di capitale ovvero";
+ 2) le lettere c), c-bis) e c-ter) sono sostituite dalle seguenti:
+ "c) le plusvalenze realizzate mediante cessione a titolo oneroso di partecipazioni qualificate. Costituisce cessione di partecipazioni qualificate la cessione di azioni, diverse dalle azioni di risparmio, e di ogni altra partecipazione al capitale od al patrimonio delle societa' di cui all'articolo 5, escluse le associazioni di cui al comma 3, lettera c), e dei soggetti di cui all'articolo 87, comma 1, lettere a), b) e d), nonche' la cessione di diritti o titoli attraverso cui possono essere acquisite le predette partecipazioni, qualora le partecipazioni, i diritti o titoli ceduti rappresentino, complessivamente, una percentuale di diritti di voto esercitabili nell'assemblea ordinaria superiore al 2 o al 20 per cento ovvero una partecipazione al capitale od al patrimonio superiore al 5 o al 25 per cento, secondo che si tratti di titoli negoziati in mercati regolamentati o di altre partecipazioni. Per i diritti o titoli attraverso cui possono essere acquisite partecipazioni si tiene conto delle percentuali potenzialmente ricollegabili alle predette partecipazioni. La percentuale di partecipazione e' determinata tenendo conto di tutte le cessioni effettuate nel corso di dodici mesi, ancorche' nei confronti di soggetti diversi. Tale disposizione si applica dalla data in cui le partecipazioni, i titoli ed i diritti posseduti rappresentano una percentuale di diritti di voto o di partecipazione superiore alle percentuali suindicate;
+ c-bis) le plusvalenze, diverse da quelle imponibili ai sensi della lettera c), realizzate mediante cessione a titolo oneroso di azioni e di ogni altra partecipazione al capitale o al patrimonio di societa' di cui all'articolo 5, escluse le associazioni di cui al comma 3, lettera c), e dei soggetti di cui all'articolo 87, nonche' di diritti o titoli attraverso cui possono essere acquisite le predette partecipazioni;
+ c-ter) le plusvalenze, diverse da quelle di cui alle lettere c) e c-bis), realizzate mediante cessione a titolo oneroso ovvero rimborso di titoli non rappresentativi di merci, di certificati di massa, di valute estere, oggetto di cessione a termine o rivenienti da depositi o conti correnti, di metalli preziosi, sempreche' siano allo stato grezzo o monetato, e di quote di partecipazionead organismi d'investimento collettivo. Agli effetti dell'applicazione della presente lettera si considera cessione a titolo oneroso anche il prelievo delle valute estere dal deposito o conto corrente;";
+ 3) dopo la lettera c-ter), sono aggiunte, in fine, le seguenti:
+"c-quater) i redditi, diversi da quelli precedentemente indicati, comunque realizzati mediante rapporti da cui deriva il diritto o l'obbligo di cedere od acquistare a termine strumenti finanziari, valute, metalli preziosi o merci ovvero di ricevere o effettuare a termine uno o piu' pagamenti collegati a tassi di interesse, a quotazioni o valori di strumenti finanziari, di valute estere, di metalli preziosi o di merci e ad ogni altro parametro di natura finanziaria. Agli effetti dell'applicazione della presente lettera sono considerati strumenti finanziari anche i predetti rapporti;
+ c-quinquies) le plusvalenze ed altri proventi, diversi da quelli precedentemente indicati, realizzati mediante cessione a titolo oneroso ovvero chiusura di rapporti produttivi di redditi di capitale e mediante cessione a titolo oneroso ovvero rimborso di crediti pecuniari o di strumenti finanziari, nonche' quelli realizzati mediante rapporti attraverso cui possono essere conseguiti differenziali positivi e negativi in dipendenza di un evento incerto".
+
+                                
+                            
+                            
+                                b)
+                                
+                                    dopo il comma 1, sono aggiunti, in fine, i seguenti: "1-bis.
+Agli effetti dell'applicazione delle lettere c), c-bis) e c-ter) del comma 1, si considerano cedute per prime le partecipazioni, i titoli, i certificati e diritti, nonche' le valute ed i metalli preziosi acquisiti in data piu' recente; in caso di chiusura o di cessione dei rapporti di cui alla lettera c-quater) si considerano chiusi o ceduti per primi i rapporti sottoscritti od acquisiti in data piu' recente.
+ 1-ter. Le plusvalenze derivanti dalla cessione a titolo oneroso di valute estere rivenienti da depositi e conti correnti concorrono a formare il reddito a condizione che nel periodo d'imposta la giacenza dei depositi e conti correnti complessivamente intrattenuti dal contribuente, calcolata secondo il cambio vigente all'inizio del periodo di riferimento sia superiore a cento milioni di lire per almeno sette giorni lavorativi continui.".
+
 ## Art. 4. — Modifiche all'articolo 82 del testo unico delle imposte sui redditi,  approvato con decreto del Presidente della Repubblica 22 dicembre  1986, n. 917
+
+1.
+                        
+                            
+                                All'articolo 82 del testo unico delle imposte sui redditi, approvato con il decreto del Presidente della Repubblica 22 dicembre 1986, n. 917, sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il comma 1-bis) e' abrogato; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    i commi 3 e 4 sono sostituiti dai seguenti e sono, altresi', aggiunti ulteriori commi: 
+ "3. Le plusvalenze di cui alla lettera c) del comma 1 dell'articolo 81 sono sommate algebricamente alle relative minusvalenze; se le minusvalenze sono superiori alle plusvalenze l'eccedenza e' portata in deduzione, fino a concorrenza, dalle plusvalenze dei periodi d'imposta successivi ma non oltre il quarto, a condizione che sia indicata nella dichiarazione dei redditi relativa al periodo di imposta nel quale le minusvalenze sono state realizzate. 
+ 4. Le plusvalenze di cui alle lettere c-bis) e c-ter) del comma 1 dell'articolo 81 sono sommate algebricamente alle relative minusvalenze, nonche' ai redditi ed alle perdite di cui alla lettera c-quater) e alle plusvalenze ed altri proventi di cui alla lettera c-quinquies) del comma 1 dello stesso articolo 81; se l'ammontare complessivo delle minusvalenze e delle perdite e' superiore all'ammontare complessivo delle plusvalenze e degli altri redditi, l'eccedenza puo' essere portata in deduzione, fino a concorrenza, dalle plusvalenze e dagli altri redditi dei periodi d'imposta successivi ma non oltre il quarto, a condizione che sia indicata nella dichiarazione dei redditi relativa al periodo d'imposta nel quale le minusvalenze e le perdite sono state realizzate. 
+ 5. Le plusvalenze indicate nelle lettere c), c-bis) e c-ter) del comma 1 dell'articolo 81 sono costituite dalla differenza tra il corrispettivo percepito ovvero la somma od il valore normale dei beni rimborsati ed il costo od il valore di acquisto, aumentato di ogni onere inerente alla loro produzione, compresa l'imposta di successione e donazione, con esclusione degli interessi passivi. Nel caso di acquisto per successione, si assume come costo il valore definito o, in mancanza, quello dichiarato agli effetti dell'imposta di successione, nonche', per i titoli esenti da tale imposta, il valore normale alla data di apertura della successione. Nel caso di acquisto per donazione si assume come costo il costo del donante. Per le azioni, quote o altre partecipazioni acquisite sulla base di aumento gratuito del capitale il costo unitario e' determinato ripartendo il costo originario sul numero complessivo delle azioni, quote o partecipazioni di compendio. Per le partecipazioni nelle societa' indicate dall'articolo 5, diverse da quelle immobiliari o finanziarie, il costo e' aumentato o diminuito dei redditi e delle perdite imputate al socio e dal costo si scomputano, fino a concorrenza dei redditi gia' imputati, gli utili distribuiti al socio. Per le valute estere cedute a termine si assume come costo il valore della valuta al cambio a pronti vigente alla data di stipula del contratto di cessione. Il costo o valore di acquisto e' documentato a cura del contribuente. Per le valute estere prelevate da depositi e conti correnti, in man-canza della documentazione del costo, si assume come costo il valore della valuta al minore dei cambi mensili accertati ai sensi dell'articolo 76, comma 7, nel periodo d'imposta in cui la plusvalenza e' realizzata. Le minusvalenze sono determinate con gli stessi criteri stabiliti per le plusvalenze. 
+ 6. Agli effetti della determinazione delle plusvalenze e minusvalenze: 
+ a) dal corrispettivo percepito o dalla somma rimborsata, nonche' dal costo o valore di acquisto si scomputano i redditi di capitale maturati ma non riscossi, diversi da quelli derivanti dalla partecipazione in societa' ed enti soggetti all'imposta sul reddito delle persone giuridiche; 
+ b) qualora vengano superate le percentuali di diritti di voto o di partecipazione indicate nella lettera c) del comma 1 dell'articolo 81, i corrispettivi percepiti anteriormente al periodo d'imposta nel quale si e' verificato il superamento delle percentuali si considerano percepiti in tale periodo; 
+ c) per le valute estere prelevate da depositi e conti correnti si assume come corrispettivo il valore normale della valuta alla data di effettuazione del prelievo; 
+ d) per le cessioni di metalli preziosi, in mancanza della documentazione del costo di acquisto, le plusvalenze sono determinate in misura pari al 25 per cento del corrispettivo della cessione; 
+ e) per le cessioni a titolo oneroso poste in essere in dipendenza dei rapporti indicati nella lettera c-quater), del comma 1 dell'articolo 81, il corrispettivo e' costituito dal prezzo di cessione, eventualmente aumentato o diminuito dei premi pagati o riscossi su opzioni; 
+ f) nei casi di dilazione o rateazione del pagamento del corrispettivo la plusvalenza e' determinata con riferimento alla parte del costo o valore di acquisto proporzionalmente corrispondente alle somme percepite nel periodo d'imposta. 
+ 7. I redditi di cui alla lettera c-quater) del comma 1 dell'articolo 81, sono costituiti dalla somma algebrica dei differenziali positivi o negativi, nonche' degli altri proventi od oneri, percepiti o sostenuti, in relazione aciascuno dei rapporti ivi indicati. Per la determinazione delle plusvalenze e minusvalenze derivanti dalla cessione a titolo oneroso di tali rapporti si applica il comma 5. I premi pagati e riscossi su opzioni, salvo che l'opzione non sia stata chiusa anticipatamente o ceduta, concorrono a formare il reddito nel periodo d'imposta in cui l'opzione e' esercitata ovvero scade il termine stabilito per il suo esercizio. Qualora a seguito dell'esercizio dell'opzione siano cedute le attivita' di cui alle lettere c), c-bis) o c-ter), dell'articolo 81, i premi pagati o riscossi concorrono alla determinazione delle plusvalenze o minusvalenze, ai sensi della lettera e) del comma 6. Le plusvalenze e minusvalenze derivanti dalla cessione a titolo oneroso di merci non concorrono a formare il reddito, anche se la cessione e' posta in essere in dipendenza dei rapporti indicati nella lettera c-quater) del comma 1 dell'articolo 81. 
+ 8. Le plusvalenze e gli altri proventi di cui alla lettera c-quinquies) del comma 1 dell'articolo 81, sono costituiti dalla differenza positiva tra i corrispettivi percepiti ovvero le somme od il valore normale dei beni rimborsati ed i corrispettivi pagati ovvero le somme corrisposte, aumentate di ogni onere inerente alla loro produzione, con esclusione degli interessi passivi. Dal corrispettivo percepito e dalla somma rimborsata si scomputano i redditi di capitale derivanti dal rapporto ceduto maturati ((ma non riscossi,)) nonche' i redditi di capitale maturati a favore del creditore originario ma non riscossi. Si applicano le disposizioni della lettera f) del comma 6. 
+ 9. Le plusvalenze, i differenziali positivi e gli altri proventi di cui alle lettere c-bis), c-ter), c-quater) e c-quinquies), del comma 1 dell'articolo 81, nonche' le relative minusvalenze, differenziali negativi ed oneri, per i quali sia superiore ai dodici mesi il periodo intercorrente tra la data di acquisizione e quella di cessione, chiusura o rimborso della partecipazione, titolo, certificato, strumento finanziario o rapporto, concorrono a formare il reddito imponibile per un ammontare che si ottiene applicando al loro importo un fattore di rettifica finalizzato a rendere equivalente la tassazione in base alla realizzazione con quella in base alla maturazione, calcolato tenendo conto del periodo di possesso, del momento di pagamento dell'imposta, dei tassi di rendimento dei titoli di Stato, delle quotazioni dei titoli negoziati in mercati regolamentati e di ogni altro parametro che possa influenzare la determinazione del valore delle attivita' finanziarie produttive di redditi tassabili in base alla maturazione. Con decreti del Ministro delle finanze sono stabiliti i coefficienti di rettifica da utilizzare per la determinazione delle plusvalenze, dei differenziali positivi e dei proventi o delle minusvalenze ed oneri realizzati nel periodo di imposta precedente. I predetti decreti sono pubblicati nella Gazzetta Ufficiale entro il trentesimo giorno precedente a quello del loro utilizzo.".
 
 ## - TITOLO II Disciplina dell'imposta sostitutiva sulle plusvalenze e sugli altri redditi
 
@@ -191,6 +268,52 @@ I soggetti che hanno conferito a un soggetto abilitato ai sensi del decreto legi
 
 Il contribuente puo' optare per l'applicazione dell'imposta sostitutiva mediante comunicazione sottoscritta rilasciata al soggetto gestore all'atto della stipula del contratto e, nel caso dei rapporti in essere, anteriormente all'inizio del periodo d'imposta.
 L'opzione ha effetto per il periodo d'imposta e puo' essere revocata solo entro la scadenza di ciascun anno solare, con effetto per il periodo d'imposta successivo. Con uno o piu' decreti del Ministro delle finanze, da pubblicare nella Gazzetta Ufficiale entro novanta giorni dalla data di pubblicazione del presente decreto, sono stabilite le modalita' per l'esercizio e la revoca dell'opzione di cui al presente articolo.(8)
+
+3.
+                        
+                            
+                                Qualora sia stata esercitata l'opzione di cui al comma 2 i redditi che concorrono a formare il risultato della gestione, determinati secondo i criteri stabiliti dagli articoli 42 e 82 del testo unico delle imposte sui redditi, approvato con decreto del Presidente della Repubblica 22 dicembre 1986, n. 917, non sono soggetti alle imposte sui redditi, nonche' all'imposta sostitutiva di cui al comma 2 all'articolo 5. Sui redditi di capitale derivanti dalle attivita' finanziarie comprese nella massa patrimoniale affidata in gestione non si applicano: 
+ 
+                            
+                            
+                                a)
+                                
+                                    l'imposta sostitutiva di cui all'articolo 2, commi 1 e 1-bis del decreto legislativo 1 aprile 1996, n. 239; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la ritenuta prevista dal comma 2 dell'articolo 26 del D.P.R. 29 settembre 1973, n. 600, sugli interessi ed altri proventi dei conti correnti bancari; (15) 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    le ritenute previste dai commi 3 e 3-bis dell'articolo 26 e la ritenuta di cui all'articolo 26-quinquies del predetto decreto n. 600 del 1973; (14) (15) 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    le ritenute previste dai commi 1 e 4, primo periodo, dell'articolo 27 del medesimo decreto; (19) 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    la ritenuta prevista dai commi 1, 2 e 5 dell'articolo 10-ter della legge 23 marzo 1983, n. 77, come modificato dall'articolo 8, comma 5. (11) (14) 
+
+                                
+                            
+                            
+                                e-bis)
+                                
+                                    la ritenuta prevista dal comma 1 dell'articolo 7 del decreto-legge 25 settembre 2001, n. 351, convertito, con modificazioni, dalla legge 23 novembre 2001, n. 410, e la ritenuta sui proventi derivanti dalla partecipazione ad organismi di investimento collettivo del risparmio immobiliari di diritto estero.
 
 Il risultato maturato della gestione e' soggetto ad imposta sostitutiva delle imposte sui redditi con l'aliquota del 12,50 per cento. Il risultato della gestione si determina sottraendo dal valore del patrimonio gestito al termine di ciascun anno solare, al lordo dell'imposta sostitutiva, aumentato dei prelievi e diminuito di conferimenti effettuati nell'anno, i redditi maturati nel periodo e soggetti a ritenuta, i redditi che concorrono a formare il reddito complessivo del contribuente, i redditi esenti o comunque non soggetti ad imposta maturati nel periodo, ed il valore del patrimonio stesso all'inizio dell'anno. Il risultato e' computato al netto degli oneri e delle commissioni relative al patrimonio gestito. Ai fini del presente comma, i redditi derivanti dalle obbligazioni e dagli altri titoli di cui all'articolo 31 del decreto del Presidente della Repubblica 29 settembre 1973, n. 601 ed equiparati e dalle obbligazioni emesse dagli Stati inclusi nella lista di cui al decreto emanato ai sensi dell'articolo 168-bis, comma 1, del testo unico delle imposte sui redditi, di cui al decreto del Presidente della Repubblica 22 dicembre 1986, n. 917, e obbligazioni emesse da enti territoriali dei suddetti Stati sono computati nella misura del 48,08 per cento del loro ammontare. (14) (15) (18)
 
@@ -311,6 +434,59 @@ sostitutiva delle imposte sui redditi"."
  decreto-legge 28 giugno 1990, n. 167, convertito, con
  modificazioni, dalla legge 4 agosto 1990, n. 227.
 
+1.
+                        
+                            
+                                Al decreto-legge 28 giugno 1990, n. 167, convertito, con modificazioni, dalla legge 4 agosto 1990, n. 227, sono apportate le seguenti modificazioni:
+ 
+                            
+                            
+                                a)
+                                
+                                    nell'articolo 1, i commi da 1 a 4 sono sostituiti dai seguenti:
+ "1. Le banche, le societa' di intermediazione mobiliare e l'Ente poste italiane mantengono evidenza, anche mediante rilevazione elettronica, dei trasferimenti da o verso l'estero di denaro, titoli o certificati in serie o di massa, di importo superiore a 20 milioni, effettuati, anche attraverso movimentazione di conti o mediante assegni postali, bancari e circolari, per conto o a favore di persone fisiche, enti non commerciali e di societa' semplici e associazioni equiparate ai sensi dell'articolo 5 del testo unico delle imposte sui redditi, approvato con decreto del Presidente della Repubblica 22 dicembre 1986, n. 917, residenti in Italia. Tali evidenze riguardano le generalita' o la denominazione o la ragione sociale, il domicilio, il codice fiscale del soggetto residente in Italia per conto o a favore del quale e' effettuato il trasferimento, nonche' la data, lacausale e l'importo del trasferimento medesimo e gli estremi identificativi degli eventuali conti di destinazione.
+ 2. Analoghe evidenze sono mantenute da societa' finanziarie, fiduciarie, e da ogni altro intermediario, diverso da quelli indicati al comma 1, che per ragioni professionali effettua il trasferimento o comunque si interpone nella sua esecuzione.
+ 3. Le evidenze di cui ai commi 1 e 2 sono tenute a disposizione dell'amministrazione finanziaria per cinque anni e trasmesse alla stessa secondo le modalita' stabilite con i decreti di cui all'articolo 7.
+ 4. Gli obblighi previsti dal presente articolo si applicano altresi' per gli acquisti e le vendite di certificati in serie o di massa o di titoli esteri effettuati da persone fisiche, enti non commerciali e di societa' semplici e associazioni equiparate ai sensi dell'articolo 5 del testo unico delle imposte sui redditi, residenti in Italia, e nei quali comunque intervengono le banche, le societa' d'intermediazione mobiliare e gli altri soggetti indicati nei commi 1 e 2.";
+
+                                
+                            
+                            
+                                b)
+                                
+                                    nell'articolo 2, il comma 1 e' sostituito dal seguente: "1. Le persone fisiche, gli enti non commerciali, nonche' le societa' semplici e associazioni equiparate ai sensi dell'articolo 5 del testo unico delle imposte sui redditi, approvato con decreto del Presidente della Repubblica 22 dicembre 1986, n. 917, residenti in Italia, che effettuano trasferimenti da o verso l'estero di denaro, certificati in serie o di massa o titoli attraverso non residenti, senza il tramite degli intermediari di cui all'articolo 1, sono tenuti a indicare i trasferimenti medesimi nella dichiarazione annuale dei redditi quando risultano superati gli importi indicati nel comma 5 dell'articolo 4, ovvero nel comma 2 dell'articolo 5.";
+
+                                
+                            
+                            
+                                c)
+                                
+                                    nell'articolo 4:
+ 1) il comma 1 e' sostituito dal seguente: "1. Le persone fisiche, gli enti non commerciali, e le societa' semplici ed equiparate ai sensi dell'articolo 5 del testo unico delle imposte sui redditi, approvato con decreto del Presidente della Repubblica 22 dicembre 1986, n. 917, residenti in Italia che al termine del periodo d'imposta detengono investimenti all'estero ovvero attivita' estere di natura finanziaria, attraverso cui possono essere conseguiti redditi di fonte estera imponibili in Italia, devono indicarli nella dichiarazione dei redditi. Agli effetti dell'applicazione della presente disposizione si considerano di fonte estera i redditi corrisposti da non residenti o soggetti alla ritenuta prevista nel terzo comma dell'articolo 26 del decreto del Presidente della Repubblica 29 settembre, n. 600, nonche' i redditi derivanti da beni che si trovano al di fuori del territorio dello Stato.";
+ 2) il comma 4 e' sostituito dal seguente: "4. Gli obblighi di indicazione nella dichiarazione dei redditi previsti nei commi 1 e 2 non sussistono per i certificati in serie o di massa ed i titoli affidati in gestione od in amministrazione agli intermediari residenti indicati nell'articolo 1, per i contratti conclusi attraverso il loro intervento, anche in qualita' di controparti, nonche' per i depositi ed i conti correnti, a condizione che i redditi derivanti da tali attivita' estere di natura finanziaria siano riscossi attraverso l'intervento degli intermediari stessi.";
+
+                                
+                            
+                            
+                                d)
+                                
+                                    l'articolo 5-bis e' abrogato;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    l'articolo 6 e' sostituito dal seguente: "Art. 6 (Tassazione presuntiva). 1. Per i soggetti di cui all'articolo 4, comma 1, le somme in denaro, i certificati in serie o di massa od i titoli trasferiti o costituiti all'estero, senza che ne risultino dichiarati i redditi effettivi, si presumono, salvo prova contraria, fruttiferi in misura pari al tasso ufficiale medio di sconto vigente in Italia nel relativo periodo d'imposta, a meno che nella dichiarazione non venga specificato che si tratta di redditi la cui percezione avviene in un successivo periodo d'imposta. La prova contraria puo' essere data dal contribuente entro sessanta giorni dal ricevimento della espressa richiesta notificatagli dall'ufficio delle imposte.";
+
+                                
+                            
+                            
+                                f)
+                                
+                                    nell'articolo 7, i commi 1-bis ed 1-ter sono sostituiti dai seguenti: "1-bis. L'amministrazione finanziaria procede, anche sulla base di criteri selettivi adottati per i controlli annuali, a verifiche nei confronti delle persone fisiche, degli enti non commerciali e delle societa' semplici e associazioni equiparate ai sensi dell'articolo 5 del testo unico delle imposte sui redditi, approvato con decreto del Presidente della Repubblica 22 dicembre 1986, n. 917.
+ 1-ter. Per l'inosservanza degli obblighi stabiliti dai decreti emanati ai sensi del comma 1, del presente articolo, si applicano le sanzioni di cui all'articolo 13, comma 8, del decreto del Presidente della Repubblica 29 settembre 1973, n. 605.".
+
 ## - TITOLO III Riordino delle ritenute e delle imposte sostitutive sui redditi di capitale
 
 ## Art. 12. — Modifiche alla disciplina delle ritenute alla fonte e delle imposte sostitutive sui redditi di capitale
@@ -331,6 +507,52 @@ Dopo l'articolo 26 del decreto del Presidente della Repubblica 29 settembre 1973
  a) soggetti residenti in Stati con i quali sono in vigore convenzioni per evitare la doppia imposizione sul reddito che consentano all'amministrazione finanziaria di acquisire le informazioni necessarie per accertare la sussistenza dei requisiti, sempreche' tali soggetti non risiedano negli Stati o territori a regime fiscale privilegiato individuati con il decreto del Ministro delle finanze emanato ai sensi del comma 7-bis dell'articolo 76 del citato testo unico n. 917 del 1986; ai fini della sussistenza del requisito della residenza si applicano le norme previste nelle singole convenzioni; 
  b) enti od organismi internazionali costituiti in base ad accordi internazionali resi esecutivi in Italia. 
  2. Qualora i rapporti di cui alle lettere g-bis) e g-ter) abbiano ad oggetto azioni o titoli similari l'esenzione di cui al comma 1 non si applica sulla quota del provento corrispondente all'ammontare degli utili messi in pagamento nel periodo di durata del contratto.".
+
+3.
+                        
+                            
+                                Al decreto legislativo 1 aprile 1996, n. 239, sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    nell'articolo 1, il comma 1 e' sostituito dal seguente: "1. La ritenuta del 12,50 per cento di cui al comma 1 dell'articolo 26 del decreto del Presidente della Repubblica 29 settembre 1973, n. 600, non si applica sugli interessi ed altri proventi delle obbligazioni e titoli similari, emessi da banche, da societa' per azioni con azioni negoziate in mercati regolamentati italiani e da enti pubblici economici trasformati in societa' per azioni in base a disposizione di legge, con esclusione delle cambiali finanziarie, nonche' delle obbligazioni e titoli similari ammessi alla negoziazione, al momento dell'emissione, esclusivamente in mercati regolamentati esteri."; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    nell'articolo 2, il comma 1 e' sostituito dal seguente: "1.
+Sono soggetti ad imposta sostitutiva delle imposte sui redditi nella misura del 12,50 per cento, gli interessi ed altri proventi delle obbligazioni e titoli similari di cui all'articolo 1, nonche' gli interessi ed altri proventi delle obbligazioni e degli altri titoli di cui all'articolo 31 del decreto del Presidente della Repubblica 29 settembre 1973, n. 601, ed equiparati, emessi in Italia, per la parte maturata nel periodo di possesso, percepiti dai seguenti soggetti residenti nel territorio dello Stato: 
+ a) persone fisiche; 
+ b) soggetti di cui all'articolo 5 del testo unico delle imposte sui redditi, approvato con decreto del Presidente della Repubblica 22 dicembre 1986, n. 917, escluse le societa' in nome collettivo, in accomandita semplice e quelle ad esse equiparate; 
+ c) enti di cui all'articolo 87, comma 1, lettera c), del medesimo testo unico, ivi compresi quelli indicati nel successivo articolo 88; 
+ d) fondi d'investimento immobiliare di cui alla legge 25 gennaio 1994, n. 86; 
+ e) fondi pensione di cui al decreto legislativo 21 aprile 1993, n. 124; 
+ f) soggetti esenti dall'imposta sul reddito delle persone giuridiche."; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    nel comma 1 dell'articolo 6 e' aggiunto, in fine, il seguente periodo: "Non sono altresi' soggetti ad imposizione gli interessi ed altri proventi delle obbligazioni e titoli similari percepiti da enti od organismi internazionali costituiti in base ad accordi internazionali resi esecutivi in Italia."; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    nell'articolo 7, comma 2, lettera a), la parola: ''gennaio'' e' sostituita dalla seguente: ''marzo''; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    nell'articolo 7, comma 4, il secondo periodo e' sostituito dal seguente: "La predetta attestazione non e' acquisita relativamente agli enti od organismi internazionali costituiti in base ad accordi internazionali resi esecutivi in Italia.".
 
 L'articolo 27 del decreto del Presidente della Repubblica 29 settembre 1973, n. 600, e' sostituito dal seguente: 
 "Art. 27 (Ritenuta sui dividendi). 1. Le societa' e gli enti indicati nelle lettere a) e b) del comma 1 dell'articolo 87 del testo unico delle imposte sui redditi approvato con decreto del Presidente della Repubblica 22 dicembre 1986, n. 917, operano con obbligo di rivalsa, una ritenuta del 12,50 per cento a titolo d'imposta sugli utili in qualunque forma corrisposti a persone fisiche residenti in relazione a partecipazioni non qualificate ai sensi della lettera c-bis) del comma 1 dell'articolo 81 del citato testo unico n. 917 del 1986, non relative all'impresa ai sensi dell'articolo 77 del medesimo testo unico, nonche' sugli utili in qualunque forma corrisposti a fondi pensione di cui al decreto legislativo 21 aprile 1993, n. 124, e fondi d'investimento immobiliare di cui alla legge 25 gennaio 1994, n. 86. 
@@ -364,12 +586,88 @@ Le disposizioni del comma 8 dell'articolo 27-ter del decreto del Presidente dell
 
 Le disposizioni delle convenzioni per evitare la doppia imposizione sul reddito che accordano ai non residenti il diritto al rimborso del credito d'imposta sui dividendi che sarebbe spettato ai residenti si applicano anche se tale diritto e' riconosciuto ai residenti soltanto nel caso di opzione per la non applicazione della ritenuta.
 
+8.
+                        
+                            
+                                Nel decreto-legge 30 settembre 1983, n. 512, convertito, con modificazioni, dalla legge 25 novembre 1983, n. 649, sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    all'articolo 5: 
+ 1) nel primo comma, il primo periodo e' sostituito dal seguente: "I soggetti indicati nel primo comma dell'articolo 23 del decreto del Presidente della Repubblica 29 settembre 1973, n. 600, che hanno emesso titoli o certificati di massa, diversi dalle azioni, obbligazioni e titoli similari, nonche' dai titoli o certificati rappresentativi delle quote di partecipazione in organismi d'investimento collettivo del risparmio operano una ritenuta del 27 per cento, con obbligo di rivalsa, sui proventi di ogni genere corrisposti ai possessori, compresa la differenza tra la somma pagata agli stessi possessori, o il valore dei beni loro attribuiti alla scadenza, e il prezzo di emissione."; 
+ 2) dopo il primo comma e' inserito il seguente: "La ritenuta prevista nel precedente comma e' applicata a titolo di acconto nei confronti di: 
+ a) imprenditori individuali, qualora i titoli od i certificati da cui i proventi derivano sono relativi all'impresa ai sensi dell'articolo 77 del testo unico delle imposte sui redditi, approvato con decreto del Presidente della Repubblica 22 dicembre 1986, n. 917; 
+ b) societa' in nome collettivo, in accomandita semplice ed equiparate di cui all'articolo 5 del citato testo unico n. 917, del 1986; 
+ c) societa' ed enti di cui alle lettere a) e b) del comma 1 dell'articolo 87 dello stesso testo unico n. 917 del 1986 e stabili organizzazioni nel territorio dello Stato delle societa' e degli enti di cui alla lettera d) del predetto articolo 87. La predetta ritenuta e' applicata a titolo d'imposta nei confronti dei soggetti esenti dall'imposta sul reddito delle persone giuridiche ed in ogni altro caso."; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    nell'articolo 8, il primo periodo del primo comma e' sostituito dal seguente: "Per i titoli ed i certificati di cui all'articolo 5, nonche' per i titoli o certificati rappresentativi delle quote di partecipazione in organismi d'investimento collettivo immobiliari, emessi da soggetti non residenti nel territorio dello Stato e collocati nel territorio stesso la ritenuta e' operata dai soggetti residenti incaricati che intervengono nel pagamento dei proventi, nel riacquisto o nella negoziazione dei titoli o certificati; essi provvedono anche al versamento delle ritenute operate e alla presentazione della dichiarazione indicata nello stesso articolo 5. Non sono soggetti a ritenuta i proventi percepiti da societa' in nome collettivo, in accomandita semplice ed equiparate di cui all'articolo 5 del testo unico delle imposte sui redditi, approvato con decreto del Presidente della Repubblica 22 dicembre 1986, n. 917, nonche' dalle societa' ed enti di cui alle lettere a) e b) del comma 1, dell'articolo 87 del predetto testo unico n. 917 del 1986 e stabili organizzazioni nel territorio dello Stato delle societa' e degli enti di cui alla lettera d) del comma 1 del predetto articolo 87.".
+
 Il terzo comma dell'articolo 1, del decreto-legge 2 ottobre 1981, n. 546, convertito, con modificazioni, dalla legge 1 dicembre 1981, n. 692, e' sostituito dal seguente: "Le banche accettanti operano, all'atto del pagamento, una ritenuta del 27 per cento, con obbligo di rivalsa, sui proventi indicati sulle cambiali di cui all'articolo 6, comma 4, della tariffa, allegato A, annessa al decreto del Presidente della Repubblica 26 ottobre 1972, n. 642, come sostituita dal decreto del Ministro delle finanze 20 agosto 1992, pubblicato nel supplemento ordinario n. 106 alla Gazzetta Ufficiale n. 196 del 21 agosto 1992. La ritenuta e' applicata a titolo di acconto nei confronti di: 
  a) imprenditori individuali, se i titoli sono relativi all'impresa ai sensi dell'articolo 77 del testo unico delle imposte sui redditi, approvato con decreto del Presidente della Repubblica 22 dicembre 1986, n. 917; 
  b) societa' in nome collettivo, in accomandita semplice ed equiparate di cui all'articolo 5 del citato testo unico n. 917 del 1986; 
  c) societa' ed enti di cui alle lettere a) e b) del comma 1, dell'articolo 87 dello stesso testo unico n. 917 del 1986 e stabili organizzazioni nel territorio dello Stato delle societa' e degli enti di cui alla lettera d) del comma 1 del predetto articolo 87. La predetta ritenuta e' applicata a titolo d'imposta nei confronti dei soggetti esenti dall'imposta sul reddito delle persone giuridiche ed in ogni altro caso.".
 
 Il comma 115 dell'articolo 3 della legge 28 dicembre 1995, n. 549, e' sostituito dal seguente: "115. Nel caso in cui il tasso di rendimento effettivo sugli interessi ed altri proventi delle obbligazioni e titoli similari sia superiore ai limiti indicati nel terzo periodo del comma 1 dell'articolo 26 del decreto del Presidente della Repubblica 29 settembre 1973, n. 600, gli interessi passivi eccedenti l'importo derivante dall'applicazione del predetto tasso sono indeducibili dal reddito d'impresa.".
+
+11.
+                        
+                            
+                                All'articolo 3 del decreto del Presidente della Repubblica 29 settembre 1973, n. 602, sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il numero 3) del primo comma e' sostituito dal seguente: "3) l'imposta sul reddito delle persone giuridiche, nonche' l'imposta sostitutiva di cui all'articolo 16-bis del testo unico delle imposte sui redditi, approvato con decreto del Presidente della Repubblica 22 dicembre 1986, n. 917, dovute in base alla dichiarazione annuale;"; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la lettera b) del secondo comma e' sostituita dalla seguente:
+"b) le ritenute operate ai sensi del comma 4 dell'articolo 27 del decreto indicato al primo comma, numero 1);"; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    la lettera c) del secondo comma e' sostituita dalla seguente:
+"c) l'imposta sul reddito delle persone fisiche dovuta in base alla dichiarazione annuale, nonche' l'imposta sostitutiva di cui all'articolo 16-bis del testo unico delle imposte sui redditi approvato con decreto del Presidente della Repubblica 22 dicembre 1986, n. 917, ad esclusione dell'imposta applicabile sui redditi soggetti a tassazione separata ai sensi dell'articolo 16 del medesimo decreto;"; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    la lettera f) del secondo comma e' sostituita dalla seguente:
+"f) le ritenute sui redditi di cui all'articolo 26, commi 3, 3-bis e 5, del decreto indicato nel numero 1, ivi compresa la somma dovuta in caso di anticipato rimborso di obbligazioni e titoli similari.".
+
+12.
+                        
+                            
+                                All'articolo 8 del decreto del Presidente della Repubblica 29 settembre 1973, n. 602, sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    nel primo comma, il numero 4) e' abrogato; nello stesso comma il numero 5) e' sostituito dal seguente: "5) entro il 15 aprile, il 15 luglio, il 15 ottobre ed il 15 gennaio di ciascun anno per le ritenute operate e gli importi versati dai soci nel trimestre solare precedente in relazione agli utili di cui all'articolo 27 del decreto del Presidente della Repubblica 29 settembre 1973, n. 600."; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il secondo comma e' abrogato.
 
 Con uno o piu' decreti, da emanarsi a partire dalla data di pubblicazione nella Gazzetta Ufficiale del presente decreto, il Ministro delle finanze, puo' stabilire nuove modalita' per l'effettuazione delle comunicazioni previste dagli articoli 7, 8, 9 e 11, terzo comma, della legge 29 dicembre 1962, n. 1745, con possibilita' di introdurre l'obbligo di effettuare le predette comunicazioni nel modello di dichiarazione del sostituto d'imposta.
 
@@ -403,11 +701,72 @@ Le disposizioni degli articoli da 3 a 6 si applicano alle plusvalenze, minusvale
 
 Agli effetti della determinazione delle plusvalenze e minusvalenze di cui alla lettera c) del comma 1 dell'articolo 81 del testo unico delle imposte sui redditi, approvato con decreto del Presidente della Repubblica 22 dicembre 1986, n. 917, come modificato dall'articolo 3, comma 1, in deroga a quanto stabilito dall'articolo 82 del predetto testo unico n. 917 del 1986, il costo o valore di acquisto delle partecipazioni possedute alla data di entrata in vigore del presente decreto puo' essere adeguato, ai sensi del comma 5 dell'articolo 2 del decreto-legge 28 gennaio 1991, n. 27, convertito, con modificazioni, dalla legge 25 marzo 1991, n. 102, sulla base della variazione intervenuta fino al 30 giugno 1998. (1)
 
+6.
+                        
+                            
+                                Agli effetti della determinazione delle plusvalenze e minusvalenze di cui alle lettere c) e c-bis) del comma 1 dell'articolo 81 del testo unico delle imposte sui redditi, approvato con decreto del Presidente della Repubblica 22 dicembre 1986, n. 917, come modificato dall'articolo 3, comma 1, per le partecipazioni possedute alla data di entrata in vigore del presente decreto, in luogo del costo o valore di acquisto, puo' essere assunto: 
+ 
+                            
+                            
+                                a)
+                                
+                                    nel caso dei titoli, quote o diritti, negoziati in mercati regolamentati italiani, indicati nella citata lettera c-bis) del comma 1 dell'articolo 81 del predetto testo n. 917 del 1986, nel testo vigente anteriormente alla data di entrata in vigore del presente decreto, il valore risultante dalla media aritmetica dei prezzi rilevati presso i medesimi mercati regolamentati nel mese precedente alla predetta data; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    nel caso dei titoli, quote o diritti, negoziati in mercati regolamentati, indicati nella stessa lettera c) del comma 1 dell'articolo 81 del predetto testo unico n. 917 del 1986, nel testo vigente anteriormente alla data di entrata in vigore del presente decreto, nonche' dei titoli, quote o diritti, negoziati esclusivamente in mercati regolamentati esteri, indicati nella lettera c-bis) del comma 1 dell'articolo 81 del medesimo testo unico n. 917 del 1986, il valore risultante dalla media aritmetica dei prezzi rilevati presso i medesimi mercati regolamentati nel mese precedente alla predetta data a condizione che le plusvalenze comprese nel predetto valore siano assoggettate ad imposta sostitutiva con i criteri stabiliti nel decreto-legge 28 gennaio 1991, n. 27, convertito, con modificazioni, dalla legge 25 marzo 1991, n. 102; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    nel caso dei titoli, quote o diritti non negoziati in mercati regolamentati il valore alla predetta data della frazione del patrimonio netto della societa', associazione od ente rappresentata da tali titoli, quote e diritti, determinato sulla base delle risultanze dell'ultimo bilancio approvato anteriormente alla medesima data, a condizione che le plusvalenze comprese nel predetto valore siano assoggettate ad imposta sostitutiva con i criteri stabiliti nel decreto-legge 28 gennaio 1991, n. 27, convertito, con modificazioni, dalla legge 25 marzo 1991. n. 102.
+
 Il valore assunto a riferimento per l'applicazione dell'imposta sostitutiva indicata nel precedente comma e' indicato nella dichiarazione dei redditi relativa al periodo d'imposta in corso alla data di entrata in vigore del presente decreto e l'imposta sostitutiva e' versata entro il termine di versamento delle imposte sui redditi dovute a saldo in base alla dichiarazione dei redditi relativa al periodo d'imposta in corso al 31 dicembre 1998.
 
 In deroga al comma 7, qualora il valore delle partecipazioni di cui alla lettera cbis) dell'articolo 81, comma 1, del testo unico delle imposte sui redditi, approvato con decreto del Presidente della Repubblica 22 dicembre 1986, n. 917, nel testo vigente anteriormente alla data di entrata in vigore del presente decreto, sia determinato ai sensi delle lettere b) e c) del comma 6, l'imposta sostitutiva determinata con i criteri dell'articolo 3 del decreto-legge 28 gennaio 1991, n. 27, convertito, con modificazioni, dalla legge 25 marzo 1991, n. 102, e' applicata dagli intermediari indicati nell'articolo 6, comma 1, del presente decreto su opzione del possessore da esercitare entro il 30 settembre 1998. Gli intermediari prelevano l'imposta sostitutiva dovuta dal possessore entro il mese di ottobre 1998 e ne effettuano il versamento entro il giorno 15 del mese successivo. Non sussistono in tal caso gli obblighi di comunicazione previsti dall'articolo 10.
 
+8.
+                        
+                            
+                                Per le partecipazioni gia' possedute alla data del 28 gennaio 1991, in luogo del costo o valore di acquisto, nonche' del valore determinato sulla base dei commi precedenti, puo' essere assunto: 
+ 
+                            
+                            
+                                a)
+                                
+                                    nel caso dei titoli, quote o diritti negoziati in mercati regolamentati, il valore risultante dalla media dei prezzi di compenso o dei prezzi fatti nel corso dell'anno 1990 dalla borsa di valori di Milano o, in difetto, dalle borse presso cui i titoli od i diritti erano in tale periodo negoziati; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    nel caso degli altri titoli, quote o diritti, il valore alla data del 28 gennaio 1991 della frazione del patrimonio netto della societa', associazione od ente rappresentata da tali titoli, quote e diritti, determinato sulla base delle risultanze dell'ultimo bilancio approvato anteriormente alla predetta data.
+
 Nei casi indicati dalla lettera c) del comma 6, nonche' dalla lettera b) del comma 8, e' in facolta' dei possessori determinare il valore della frazione di patrimonio netto rappresentato dai titoli, quote o diritti ivi indicati sulla base di una relazione giurata di stima, cui si applica l'articolo 64 del codice di procedura civile, redatta da soggetti iscritti all'albo dei dottori commercialisti, dei ragionieri e periti commerciali, nonche' nell'elenco dei revisori contabili. In tal caso il valore periziato e' riferito all'intero patrimonio sociale ed e' indicato, unitamente ai dati identificativi dell'estensore della perizia, nella dichiarazione dei redditi della societa', associazione od ente, relativa al periodo di imposta in corso alla data di entrata in vigore del presente decreto e reso noto ai soci, associati e partecipanti che ne fanno richiesta. Se la societa' o l'ente nel quale e' posseduta la partecipazione non e' residente nel territorio dello Stato il valore periziato ed i dati identificativi dell'estensore della perizia sono indicati nella dichiarazione dei redditi del possessore. Qualora la relazione giurata di stima sia predisposta per conto della stessa societa' od ente nel quale e' posseduta la partecipazione la relativa spesa e' deducibile dal reddito d'impresa in quote costanti nell'esercizio in cui e' stata sostenuta e nei quattro successivi.
+
+10.
+                        
+                            
+                                Agli effetti della determinazione delle plusvalenze e minusvalenze e degli altri proventi ed oneri indicati nelle lettere c-ter), c-quater) e c-quinquies) del comma 1 dell'articolo 81 del testo unico delle imposte sui redditi, approvato con decreto del Presidente della Repubblica 22 dicembre 1986, n. 917, come modificato dall'articolo 3, comma 1, per i titoli, i certificati, i diritti, le valute estere, i metalli preziosi allo stato grezzo o monetato, gli strumenti finanziari, rapporti o crediti posseduti alla data di entrata in vigore del presente decreto, il costo o valore di acquisto e' quello risultante da documentazione di data certa, anche proveniente dalle scritture contabili dei soggetti di cui agli articoli 6 e 7. Tuttavia, limitatamente alle plusvalenze e gli altri proventi divenuti imponibili per effetto del presente decreto , in luogo del costo o valore di acquisto, puo' essere assunto: 
+ 
+                            
+                            
+                                a)
+                                
+                                    nel caso dei titoli, diritti, valute estere, metalli preziosi allo stato grezzo o monetato, strumenti finanziari e rapporti, negoziati in mercati regolamentati, il valore risultante dalla media aritmetica dei prezzi rilevati nel mese precedente a quello di entrata in vigore del presente decreto presso presso mercati regolamentati italiani ovvero, per quelli negoziati esclusivamente in mercati regolamentati esteri, il valore risultante dalla media aritmetica dei prezzi rilevati negli ultimi cinque giorni lavorativi dello stesso mese presso i medesimi mercati regolamentati; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    nel caso dei titoli, certificati, diritti, valute estere, metalli preziosi allo stato grezzo o monetato, strumenti finanziari e rapporti, non negoziati in mercati regolamentati, nonche' per i crediti, il valore alla data di entrata in vigore del presente decreto risultante da apposita relazione di stima, la quale puo' essere effettuata, oltre che dai soggetti indicati nel comma 9, anche dai soggetti di cui agli articoli 6 e 7.
 
 Per i rapporti in essere alla data di entrata in vigore del presente decreto, intrattenuti con intermediari diversi dalla Banca d'Italia, l'imposta sostitutiva e' applicata dagli intermediari di cui all'articolo 6, comma 1,anche in mancanza di opzione, salva la facolta' del contribuente di rinunciare a tale regime con apposita comunicazione da effettuare entro il 30 settembre 1998, con effetto dal 1 luglio 1998. L'imposta sostitutiva dovuta sulle plusvalenze realizzate e sugli altri redditi conseguiti entro il 31 ottobre 1998, anche per effetto di rapporti sorti dalla data di entrata in vigore del presente decreto e fino al 30 settembre 1998, dai contribuenti che non hanno rinunciato al regime previsto nel predetto articolo 6, e' liquidata dai citati intermediari entro il mese successivo a tale data, ed e' versata entro il 15 dicembre 1998. A tal fine il contribuente fornisce al soggetto incaricato dell'applicazione dell'imposta gli elementi e la documentazione necessari alla determinazione della plusvalenza imponibile e costituire, in favore di tale soggetto, apposita provvista per far fronte al pagamento dell'imposta.
 
@@ -451,6 +810,115 @@ AGGIORNAMENTO (1)
 Il D.Lgs. 16 giugno 1998, n. 201, ha disposto (con l'art. 5, comma 1, lettera f)) che "nel comma 8 le parole: "anche nel caso in cui sia stata esercitata l'opzione prevista" sono soppresse".
 
 ## Art. 16. — Abrogazione di norme e entrata in vigore
+
+1.
+                        
+                            
+                                Sono abrogati:
+ 
+                            
+                            
+                                a)
+                                
+                                    il decreto-legge 28 gennaio 1991, n. 27, convertito, con modificazioni, dalla legge 25 marzo 1991, n. 102;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    i commi 1, 3, 5 e 6 dell'articolo 20 del decreto-legge 8 aprile 1974, n. 95, convertito, dalla legge 7 giugno 1974, n. 216;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    gli articoli 5 e 6 della legge 26 aprile 1982, n. 181;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    il comma 6 dell'articolo 33, del decreto del Presidente della Repubblica 4 febbraio 1988, n. 42;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    i commi 2 e 3 dell'articolo 32 del decreto-legge 2 marzo 1989, n. 69, convertito, con modificazioni, dalla legge 27 aprile 1989, n. 154;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    l'articolo 8 del decreto-legge 28 giugno 1990, n. 167, convertito, con modificazioni, della legge 4 agosto 1990, n. 227;
+
+                                
+                            
+                            
+                                g)
+                                
+                                    gli articoli 2, 3 e 4 del decreto-legge 17 settembre 1992, n. 378, convertito, con modificazioni, dalla legge 14 novembre 1992, n. 437;
+
+                                
+                            
+                            
+                                h)
+                                
+                                    l'articolo 4, comma 7, del decreto-legge 23 gennaio 1993, n. 16, convertito, con modificazioni, dalla legge 24 marzo 1993, n. 75;
+
+                                
+                            
+                            
+                                i)
+                                
+                                    i commi da 2 a 5 dell'articolo 67 del decreto-legge 30 agosto 1993, n. 331, convertito, con modificazioni, dalla legge 29 ottobre 1993, n. 427;
+
+                                
+                            
+                            
+                                l)
+                                
+                                    i commi 2 e 3 dell'articolo 1 del decreto-legge 30 dicembre 1993, n. 557, convertito, con modificazioni, dalla legge 26 febbraio 1994, n. 133;
+
+                                
+                            
+                            
+                                m)
+                                
+                                    l'articolo 3 della legge 13 gennaio 1994, n. 43;
+
+                                
+                            
+                            
+                                n)
+                                
+                                    il comma 1 dell'articolo 4 del decreto-legge 10 giugno 1994, n. 357, convertito, con modificazioni, dalla legge 8 agosto 1994, n. 489;
+
+                                
+                            
+                            
+                                o)
+                                
+                                    l'articolo 5 della legge 23 dicembre 1994, n. 725;
+
+                                
+                            
+                            
+                                p)
+                                
+                                    l'articolo 6 e i commi 1, 3, 4 e 5 dell'articolo 7 del decreto-legge 8 gennaio 1996, n. 6, convertito, con modificazioni, dalla legge 6 marzo 1996, n. 110;
+
+                                
+                            
+                            
+                                q)
+                                
+                                    ogni altra disposizione incompatibile con l'applicazione del presente decreto.
 
 Ai fini della determinazione degli acconti dell'imposta sul reddito delle persone fisiche e dell'imposta sul reddito delle persone giuridiche dovuti per il periodo d'imposta successivo a quello in corso alla data del 31 marzo 1998, non si tiene conto delle ritenute alla fonte a titolo di acconto di cui agli articoli 26, comma 3, e 27 del decreto del Presidente della Repubblica 29 settembre 1973, n. 600, nonche' all'articolo 5 del decreto-legge 30 settembre 1983, n. 512, convertito, con modificazioni, dalla legge 25 novembre 1983, n. 649, abrogate per effetto delle disposizioni del presente decreto e scomputate per il periodo d'imposta precedente.
 

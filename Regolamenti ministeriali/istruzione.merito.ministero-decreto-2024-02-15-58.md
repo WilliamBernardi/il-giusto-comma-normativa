@@ -7,8 +7,8 @@ urn: urn:nir:istruzione.merito.ministero:decreto:2024-02-15;58
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:39Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -63,6 +63,24 @@ La sezione relativa al «Riferimento alle attivita' economiche referenziate ai c
 ## Art. 2. — Nuova Tabella di correlazione tra le qualifiche e i diplomi quadriennali di IeFP e gli indirizzi dei percorsi quinquennali di istruzione professionale
 
 Fermo restando quanto previsto dall'articolo 8, commi 1 e 2, del decreto del Ministro dell'istruzione, dell'universita' e della ricerca 24 maggio 2018, n. 92, e tenuto conto dell'adozione del nuovo Repertorio delle figure nazionali di riferimento per le qualifiche e i diplomi professionali di cui all'Accordo in Conferenza permanente tra lo Stato, le regioni e le Province autonome di Trento e Bolzano Rep. 155/CSR del 1° agosto 2019, con l'Allegato B al presente decreto, che ne costituisce parte integrante, e' sostituito l'Allegato 4 al decreto 24 maggio 2018, n. 92, relativo alla ridefinizione della correlazione tra gli indirizzi dell'istruzione professionale previsti all'articolo 3, comma 1, del decreto legislativo 13 aprile 2017, n. 61 e le nuove figure professionali di operatore e tecnico del sistema di istruzione e formazione professionale. L'introduzione dell'Allegato 4, come modificato dall'Allegato B al presente decreto, avviene nell'ambito dei quadri orari e degli insegnamenti di cui all'articolo 3, comma 5, lettera b), e comma 6, del decreto 24 maggio 2018, n. 92, riportati negli Allegati 2 e 3 del medesimo decreto e secondo le modalita' indicate nei commi seguenti.
+
+2.
+                    
+                        
+                            In relazione al passaggio graduale al nuovo Repertorio nazionale delle figure nazionali di riferimento per le qualifiche e i diplomi professionali dell'offerta di istruzione e formazione professionale da parte di tutte le regioni, secondo le indicazioni di cui al punto 5 dell'Accordo Rep. 155/CSR del 1° agosto 2019, dall'anno scolastico 2020/2021 la correlazione tra gli indirizzi dell'istruzione professionale e le figure nazionali di riferimento dell'istruzione e formazione professionale e' disciplinata: 
+ 
+                        
+                        
+                            a)
+                            
+                                sulla base dell'Allegato 4 al decreto 24 maggio 2018, n. 92, nel testo vigente fino alla data di entrata in vigore del presente decreto, nel caso in cui e fino a quando la singola Regione o Provincia autonoma abbia mantenuto i percorsi di cui agli Accordi in Conferenza permanente tra Stato, le regioni e Province autonome di Trento e Bolzano del 27 luglio 2011 e del 19 gennaio 2012; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                sulla base dell'Allegato 4 al decreto 24 maggio 2018, n. 92, nel testo di cui all'Allegato B del presente decreto, qualora nella Regione o nella Provincia autonoma sia stato adottato il nuovo Repertorio nazionale delle figure nazionali di riferimento dell'istruzione e formazione professionale e a decorrere dalla data di adozione dello stesso in tale Regione o Provincia autonoma.
 
 L'Allegato 4 del decreto 24 maggio 2018, n. 92, nel testo vigente fino alla data di entrata in vigore del presente decreto, continua a mantenere efficacia, nei limiti di cui al comma 2, lettera a), fino alla completa adozione, da parte di tutte le regioni e dalle Province autonome, del nuovo Repertorio nazionale di cui al comma 1.
 

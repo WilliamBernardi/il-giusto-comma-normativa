@@ -8,8 +8,8 @@ codice_redazionale: 094G0310
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti di delegificazione
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:40:25Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -42,6 +42,24 @@ Il termine previsto dal comma 1 e' sospeso nel caso in cui il segreto istruttori
 ## Art. 3. — Richiesta di pareri
 
 La prefettura, entro venti giorni dal ricevimento degli atti, verifica la completezza della documentazione e la congruita' della richiesta, e richiede al competente servizio del Ministero dell'interno l'autorizazione al pagamento o alla transazione.
+
+2.
+                    
+                        
+                            Se la richiesta, per il danno a cose e a persone, ammonta ad una somma complessivamente superiore a lire dieci milioni, la prefettura acquisisce pareri:
+ 
+                        
+                        
+                            a)
+                            
+                                sulla fondatezza o meno della pretesa e sulla convenienza per l'amministrazione di addivenire ad una transizione, dall'Avvocatura dello Stato competente;
+
+                            
+                        
+                        
+                            b)
+                            
+                                sulla congruita' della somma, in caso di danno alle cose, dal competente Ufficio tecnico erariale; in caso di danno ai veicoli, dall'Ufficio motorizzazione dipendente dal Dipartimento della P.S.; in caso di danno alla persona, da un medico dei ruoli dei sanitari della polizia di Stato, esperto in medicina legale.
 
 Quando sono richiesti i pareri di cui al comma 2, il termine di cui al comma 1 e' di sessanta giorni.
 

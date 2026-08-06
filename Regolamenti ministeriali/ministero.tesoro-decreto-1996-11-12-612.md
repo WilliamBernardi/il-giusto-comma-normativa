@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
 vigenza_date: 2004-09-15
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:38Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -99,6 +99,78 @@ Il rimborso delle perdite viene effettuato dal Fondo entro novanta giorni dalla 
 
 La garanzia del Fondo non e' operante quando la perdita sofferta dalla banca e' dovuta a fatto od omissione nell'espletamento degli accertamenti e delle formalita' necessarie per la erogazione del credito e per l'assunzione delle garanzie, nonche' nello svolgimento della procedura esecutiva.
 
+2.
+                    
+                        
+                            La garanzia del Fondo non e' inoltre operante nei casi in cui, all'atto dell'erogazione del finanziamento, non e' stata acquisita la documentazione prevista per legge, ovvero ricorre almeno una delle seguenti circostanze:
+
+                        
+                        
+                            a)
+                            
+                                mancata acquisizione di una dichiarazione del richiedente, resa ai sensi dell'art. 137, comma 1, del decreto legislativo 1 settembre 1993, n. 385, attestante la veridicita' delle informazioni fornite e dalla quale risulti in particolare che non esistono operazioni in sospeso da oltre sei mesi, eccezione fatta per quelle ammesse a consolidamento bancario;
+                            
+                        
+                        
+                            b)
+                            
+                                presenza di segnalazioni alla voce sofferenze, ovvero di significativi e ingiustificati sconfinamenti in essere da oltre sei mesi, rilevabili dalla visura alla centrale rischi disponibile nel mese precedente l'erogazione del finanziamento, salvo il caso di primo affidamento nel quale e' valida la prima informazione richiesta;
+                            
+                        
+                        
+                            c)
+                            
+                                rapporto tra patrimonio netto e immobilizzi tecnici netti inferiore a 0,30 per le cooperative e a 0,50 per le altre imprese;
+                            
+                        
+                        
+                            d)
+                            
+                                indebitamento bancario a breve superiore al 60% dei ricavi lordi per le cooperative ed al 50% per le altre imprese;
+                            
+                        
+                        
+                            e)
+                            
+                                presenza di perdite di bilancio, ovvero di risultati negativi della "gestione caratteristica" per un triennio consecutivo, salvo che le perdite siano state ripianate con interventi dei soci, utilizzo di riserve o di fondi pubblici, ovvero sia stato formalmente approvato uno specifico piano di risanamento da parte delle autorita' competenti.
+I dati di cui alle lettere c), d), vanno riferiti all'ultimo bilancio ufficiale disponibile all'epoca dell'erogazione, ovvero al piu' recente fra l'ultimo bilancio provvisorio di verifica e l'ultima situazione contabile esistente. A quest'ultimo documento occorre fare riferimento anche per la lettera e).
+
+3.
+                    
+                        
+                            Sono, inoltre, motivi di decadenza dalla garanzia del Fondo:
+
+                        
+                        
+                            a)
+                            
+                                l'omessa denuncia delle operazioni garantite nei termini e con le modalita' stabilite dal Fondo nelle istruzioni applicative, salvo il caso di forza maggiore o di documentato errore materiale.
+ Comunque non si determina decadenza dalla malleveria del Fondo nel caso di segnalazione di singole operazioni effettuata entro tre mesi dalla chiusura dell'esercizio in cui e' avvenuta l'erogazione, corredata dalla dichiarazione che per le operazioni stesse non sussistono difficolta' di pagamento e non sono iniziate procedure esecutive;
+                            
+                        
+                        
+                            b)
+                            
+                                il ritardo non giustificato e la non tempestivita' nel dare corso alle procedure esecutive, che ha pregiudicato o, comunque non consentito, il recupero del credito;
+                            
+                        
+                        
+                            c)
+                            
+                                la manifesta sproporzione tra la somma erogata e il valore delle garanzie acquisite;
+                            
+                        
+                        
+                            d)
+                            
+                                l'omessa querela in danno del custode dei beni sottoposti a sequestro o pignoramento nel caso di distruzione, sottrazione o alienazione degli stessi;
+                            
+                        
+                        
+                            e)
+                            
+                                le cessioni del credito, salvo quelle effettuate nei confronti di banche o di intermediari finanziari iscritti nell'elenco speciale previsto dall'articolo 107 del decreto legislativo 1° settembre 1993, n. 385, ovvero in forza di disposizioni di legge.
+
 Quando dalla documentazione fornita emergono rilevanti elementi di dubbio circa la regolarita' dell'operazione, il Fondo puo' effettuare ulteriori approfondimenti anche con riferimento ai criteri seguiti nella erogazione del credito.
 
 ## Art. 7.
@@ -111,6 +183,35 @@ Quando la situazione patrimoniale del debitore o dei garanti non ne faccia ravvi
 ))
 
 Le somme che vengono recuperate in seguito a tali azioni, al netto delle spese legali per queste sostenute, vanno a decurtazione dell'importo rimborsato con conseguente versamento al Fondo della somma recuperata ad esso spettante, determinata secondo quanto indicato al successivo comma 3.
+
+3.
+                    
+                        
+                            I criteri e le modalita' di imputazione delle somme recuperate sono stabilite dal Fondo, tenendo conto che dette somme devono essere imputate dalle banche secondo il seguente ordine:
+
+                        
+                        
+                            a)
+                            
+                                per soddisfarsi delle spese processuali e di esecuzione sostenute, nel caso in cui vi e' un effettivo recupero di somme;
+                            
+                        
+                        
+                            b)
+                            
+                                per rimborsare il Fondo della perdita coperta;
+                            
+                        
+                        
+                            c)
+                            
+                                per recuperare eventuali somme residue di spettanza delle banche stesse;
+                            
+                        
+                        
+                            d)
+                            
+                                per rimborsare il Fondo degli interessi, calcolati sulla perdita coperta dalla data di adempimento del Fondo a quella di accredito della somma recuperata, nella misura del tasso legale tempo per tempo vigente.
 
 ## Art. 8.
 

@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
 vigenza_date: 2012-07-21
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:22Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -31,6 +31,110 @@ Sulla proposta dei Ministri del tesoro, del bilancio e della programmazione econ
 ## - Titolo I Regime civilistico delle fondazioni
 
 ## Art. 1. — Definizioni
+
+1.
+                        
+                            
+                                Nel presente decreto si intendono per:
+ 
+                            
+                            
+                                a)
+                                
+                                    "Legge di Delega": la legge 23 dicembre 1998, n. 461;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    "TUIR": testo unico delle imposte sui redditi, approvato con decreto del Presidente della Repubblica 22 dicembre 1986, n. 917;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    "Fondazione": l'ente che ha effettuato il conferimento dell'azienda bancaria ai sensi del decreto legislativo 20 novembre 1990, n. 356;
+
+                                
+                            
+                            
+                                c-bis)
+                                
+                                    "Settori ammessi": 1) famiglia e valori connessi; crescita e formazione giovanile; educazione, istruzione e formazione, incluso l'acquisto di prodotti editoriali per la scuola; volontariato, filantropia e beneficenza; religione e sviluppo spirituale; assistenza agli anziani; diritti civili; 2) prevenzione della criminalita' e sicurezza pubblica; sicurezza alimentare e agricoltura di qualita'; sviluppo locale ed edilizia popolare locale; protezione dei consumatori; protezione civile; salute pubblica, medicina preventiva e riabilitativa; attivita' sportiva prevenzione e recupero delle tossicodipendenze; patologia e disturbi psichici e mentali; 3) ricerca scientifica e tecnologica; protezione e qualita' ambientale;
+4) arte, attivita' e beni culturali. I settori indicati possono essere modificati con regolamento dell'Autorita' di vigilanza da emanare ai sensi dell'articolo 17, comma 3, della legge 23 agosto 1988, n. 400; (7)
+
+                                
+                            
+                            
+                                d)
+                                
+                                    "Settori rilevanti": i settori ammessi scelti, ogni tre anni, dalla fondazione, in numero (( non superiore a cinque ));
+
+                                
+                            
+                            
+                                e)
+                                
+                                    "Autorita' di vigilanza": l'autorita' prevista dall'articolo 2, comma 1, della Legge di Delega, le cui funzioni sono esercitate in via transitoria dal Ministero del tesoro, del bilancio e della programmazione economica, secondo quanto previsto dall'articolo
+
+                                
+                            
+                            
+                                f)
+                                
+                                    "Societa' bancaria conferitaria": la societa' titolare direttamente o indirettamente di tutta o parte dell'originaria azienda bancaria della fondazione e nella quale la stessa detiene direttamente o indirettamente una partecipazione, ivi compresi, in particolare:
+ 1) la societa' titolare di tutta o parte dell'originaria azienda bancaria conferita dalla fondazione ai sensi del decreto legislativo 20 novembre 1990, n. 356;
+ 2) la societa' risultante da operazioni di fusione della Societa' bancaria conferitaria;
+ 3) la societa' beneficiaria di operazioni di scissione e di conferimento di tutta o parte dell'azienda bancaria da parte della Societa' bancaria conferitaria;
+ 4) la societa' che detiene il controllo delle societa' di cui ai punti 1, 2 e 3;
+
+                                
+                            
+                            
+                                g)
+                                
+                                    "Societa' conferitaria": la societa' destinataria dei conferimenti effettuati ai sensi della legge 30 luglio 1990, n. 218, e successive modifiche e integrazioni, e della legge 26 novembre 1993, n. 489, e successive modifiche e integrazioni, ivi compresi, in particolare:
+ 1) la societa' titolare di tutta o parte dell'originaria azienda conferita dalla fondazione ai sensi del decreto legislativo 20 novembre 1990, n. 356;
+ 2) la societa' risultante da operazioni di fusione della Societa' conferitaria;
+ 3) la societa' beneficiaria di operazioni di scissione e di conferirnento di azienda da parte della Societa' conferitaria;
+ 4) la societa' che detiene il controllo delle societa' di cui ai punti 1, 2 e 3;
+
+                                
+                            
+                            
+                                h)
+                                
+                                    "Impresa strumentale": impresa esercitata dalla fondazione o da una societa' di cui la fondazione detiene il controllo, operante in via esclusiva per la diretta realizzazione degli scopi statutari perseguiti dalla Fondazione nei settori rilevanti;
+
+                                
+                            
+                            
+                                i)
+                                
+                                    "Partecipazione indiretta": la partecipazione detenuta tramite societa' controllata, societa' fiduciaria o per interposta persona;
+
+                                
+                            
+                            
+                                j)
+                                
+                                    "Conferimenti": i conferimenti effettuati ai sensi della legge 30 luglio 1990, n. 218, e successive modifiche ed integrazioni, e della legge 26 novembre 1993, n. 489, e successive modifiche ed integrazioni;
+
+                                
+                            
+                            
+                                k)
+                                
+                                    "Fondi immobiliari": i fondi comuni di investimento immobiliare chiusi;
+
+                                
+                            
+                            
+                                l)
+                                
+                                    "Direttiva del 18 novembre 1994": la direttiva de Ministro del tesoro in data 18 novembre 1994, pubblicata nella Gazzetta Ufficiale n. 273 del 22 novembre 1994 e recante "Criteri e procedure per la dismissione delle partecipazioni deliberate dagli enti conferenti di cui all'articolo 11 del decreto legislativo 20 novembre 1990, n. 356, nonche' per la diversificazione del rischio degli investimenti effettuati dagli enti stessi", adottata ai sensi dell'articolo 1, commi 7 e 7-bis, del decreto-legge 31 maggio 1994, n. 332, convertito, con modificazioni, dalla legge 30 luglio 1994, n. 474.
 
 ---------------
                             AGGIORNAMENTO (7)
@@ -53,6 +157,86 @@ Gli statuti delle fondazioni assicurano il rispetto della disposizione di cui al
 Le fondazioni determinano in via generale, nelle forme stabilite dagli statuti, le modalita' e i criteri che presiedono allo svolgimento dell'attivita' istituzionale, con particolare riferimento alle modalita' di individuazione e di selezione dei progetti e delle iniziative da finanziare, allo scopo di assicurare la trasparenza dell'attivita', la motivazione delle scelte e la piu' ampia possibilita' di tutela degli interessi contemplati dagli statuti, nonche' la migliore utilizzazione delle risorse e l'efficacia degli interventi.
 
 ## Art. 4. — Organi
+
+1.
+                        
+                            
+                                Gli statuti, nel definire l'assetto organizzativo delle fondazioni, si conformano ai seguenti principi: 
+ 
+                            
+                            
+                                a)
+                                
+                                    previsione di organi distinti per le funzioni di indirizzo, di amministrazione e di controllo; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    attribuzione all'organo di indirizzo della competenza in ordine alla determinazione dei programmi, delle priorita' e degli obiettivi della fondazione ed alla verifica dei risultati, prevedendo che l'organo stesso provveda comunque in materia di: 
+ 1) approvazione e modifica dello statuto e dei regolamenti interni; 
+ 2) nomina e revoca dei componenti dell'organo di amministrazione e di controllo e determinazione dei relativi compensi; 
+ 3) esercizio dell'azione di responsabilita' nei confronti dei componenti gli organi di amministrazione e di controllo; 
+ 4) approvazione del bilancio; 
+ 5) definizione delle linee generali della gestione patrimoniale e della politica degli investimenti; 
+ 4) trasformazioni e fusioni; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    previsione, nell'ambito dell'organo di indirizzo, di una prevalente e qualificata rappresentanza degli enti, diversi dallo Stato, di cui all'articolo 114 della Costituzione, idonea a rifletterne le competenze nei settori ammessi in base agli articoli 117 e 118 della Costituzione, fermo restando quanto stabilito per le fondazioni di origine associativa dalla lettera d), nonche' dell'apporto di personalita' che per professionalita', competenza ed esperienza, in particolare nei settori cui e' rivolta l'attivita' della fondazione, possano efficacemente contribuire al perseguimento dei fini istituzionali, fissando un numero di componenti idoneo ad assicurare l'efficace esercizio dei relativi compiti e prevedendo modalita' di designazione e di nomina ((, ispirate a criteri oggettivi e trasparenti, improntati alla valorizzazione dei principi di onorabilita' e professionalita',)) dirette a consentire un'equilibrata, e comunque non maggioritaria, rappresentanza di ciascuno dei singoli soggetti che partecipano alla formazione dell'organo. Salvo quanto previsto al periodo precedente, i soggetti ai quali e' attribuito il potere di designare componenti dell'organo di indirizzo e i componenti stessi degli organi delle fondazioni non devono essere portatori di interessi riferibili ai destinatari degli interventi delle fondazioni; (7) 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    le fondazioni di origine associativa possono, nell'esercizio della loro autonomia statutaria, prevedere il mantenimento dell'assemblea dei soci, disciplinandone la composizione, ferme rimanendo in ogni caso le competenze dell'organo di indirizzo da costituirsi ai sensi del presente articolo. All'assemblea dei soci puo' essere attribuito dalla statuto il potere di designare una quota non maggioritaria dei componenti dell'organo medesimo, nel rispetto di quanto previsto dalla lettera c); in tale caso, i soggetti nominati per designazione dell'assemblea dei soci non possono comunque superare la meta' del totale dei componenti l'organo di indirizzo; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    attribuzione all'organo di amministrazione dei compiti di gestione della fondazione, nonche' di proposta e di impulso dell'attivita' della fondazione, nell'ambito dei programmi, delle priorita' e degli obiettivi stabiliti dall'organo di indirizzo; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    previsione, nell'ambito degli organi collegiali delle fondazioni la cui attivita' e' indirizzata ai rispettivi statuti a specifici ambiti territoriali, della presenza di una rappresentanza non inferiore al cinquanta per cento di persone residenti da almeno tre anni nei territori stessi; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    determinazione, per i soggetti che svolgono funzioni di indirizzo, amministrazione, direzione e controllo presso le fondazioni, nel rispetto degli indirizzi generali fissati ai sensi dell'articolo 10, comma 3, lettera e), di requisiti di professionalita' e onorabilita', intesi come requisiti di esperienza e di idoneita' etica confacenti ad un ente senza scopo di lucro, ipotesi di incompatibilita', riferite anche alla carica di direttore generale della Societa' bancaria conferitaria ovvero ad incarichi esterni o cariche pubbliche, e cause che comportano la sospensione temporanea dalla carica o la decadenza, in modo da evitare conflitti di interesse e di assicurare l'indipendenza nello svolgimento dei rispettivi compiti e la trasparenza delle decisioni; (7) 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    previsione dell'obbligo dei componenti degli organi della fondazione di dare immediata comunicazione delle cause di decadenza o sospensione e delle cause di incompatibilita' che li riguardano; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    previsione che i componenti degli organi della fondazione sono nominati per periodi di tempo delimitati e possono essere confermati per una sola volta; 
+
+                                
+                            
+                            
+                                j)
+                                
+                                    previsione che ciascun organo verifica per i propri componenti la sussistenza dei requisiti delle incompatibilita' o delle cause di sospensione e di decadenza ed assume entro trenta giorni i conseguenti provvedimenti.
 
 I componenti dell'organo di indirizzo non rappresentano i soggetti esterni che li hanno nominati ne' ad essi rispondono.
 
@@ -88,6 +272,31 @@ Le fondazioni possono detenere partecipazioni di controllo solamente in enti e s
 
 Ai fini del presente decreto il controllo sussiste nei casi previsti dall'articolo 2359, primo e secondo comma, del codice civile.
 
+3.
+                        
+                            
+                                Il controllo si considera esistente nella forma dell'influenza dominante, ai sensi del primo comma, n. 2, dell'articolo 2359 del codice civile, quando:
+ 
+                            
+                            
+                                a)
+                                
+                                    la fondazione, in base ad accordi in qualsiasi forma stipulati con altri soci, ha il diritto di nominare la maggioranza degli amministratori, ovvero dispone della maggioranza dei voti esercitabili nell'assemblea ordinaria;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la fondazione ha il potere, in base ad accordi in qualsiasi forma stipulati con altri soci, di subordinare al proprio assenso la nomina o la revoca della maggioranza degli amministratori;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    sussistono rapporti, anche tra soci, di carattere finanziario e organizzativo idonei ad attribuire alla fondazione i poteri o i diritti di cui alle lettere a) o b).
+
 A decorrere dalla data di entrata in vigore del presente decreto le fondazioni non possono acquisire nuove partecipazioni di controllo in societa' diverse da quelle di cui al comma 1 ne' conservare le partecipazioni di controllo gia' detenute nelle societa' stesse, fatta salva l'applicazione della disposizione di cui all'articolo 25.
 
 La scissione a favore di societa' controllate dalla fondazione non puo' riguardare partecipazioni di controllo in enti o societa' diversi da quelli previsti al comma 1.
@@ -109,6 +318,52 @@ Le fondazioni possono investire una quota ((non superiore al
 
 ## Art. 8. — Destinazione del reddito
 
+1.
+                        
+                            
+                                Le fondazioni destinano il reddito secondo il seguente ordine:
+ 
+                            
+                            
+                                a)
+                                
+                                    spese di funzionamento, nel rispetto di principi di adeguatezza delle spese alla struttura organizzativa ed allattivita' svolta dalla singola fondazione;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    oneri fiscali;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    riserva obbligatoria, nella misura determinata dallAutorita' di vigilanza;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    almeno il cinquanta per cento del reddito residuo o, se maggiore, lammontare minimo di reddito stabilito dallAutorita' di vigilanza ai sensi dellarticolo 10, ai settori rilevanti;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    eventuali altri fini statutari, reinvestimento del reddito o accantonamenti e riserve facoltativi previsti dallo statuto o dallAutorita' di vigilanza;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    erogazioni previste da specifiche norme di legge.
+
 Resta salvo quanto disposto dallarticolo 5, comma 3.
 
 E' fatto divieto alle fondazioni di distribuire o assegnare quote di utili, di patrimonio ovvero qualsiasi altra forma di utilita' economiche agli associati, agli amministratori, ai fondatori e ai dipendenti, con esclusione dei compensi previsti dallarticolo 4, comma 1, lettera b).
@@ -125,11 +380,110 @@ Le fondazioni predispongono contabilita' separate con riguardo alle imprese dall
 
 Le fondazioni, aventi natura di ente non commerciale ai sensi dell'articolo 12, possono imputare direttamente al patrimonio netto le plusvalenze e le minusvalenze, anche conseguenti a valutazione, relative alla partecipazione nella Societa' bancaria conferitaria. Le perdite derivanti dal realizzo delle predette partecipazioni, nonche' le minusvalenze derivanti dalla valutazione delle stesse, imputate al conto economico, non rilevano ai fini della determinazione del reddito da destinare alle attivita' istituzionali ai sensi dell'articolo 8.
 
+5.
+                        
+                            
+                                Fermo quanto previsto dal comma 2, l'Autorita' di vigilanza disciplina con regolamento la redazione e le forme di pubblicita' dei bilanci e della relativa relazione, in conformita' con la natura di organismi senza fine di lucro delle fondazioni, in modo da:
+ 
+                            
+                            
+                                a)
+                                
+                                    rendere trasparenti i profili patrimoniali, economici e finanziari dell'attivita' svolta dalle fondazioni;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    fornire una corretta ed esauriente rappresentazione delle forme di investimento del patrimonio, al fine di consentire la verifica dell'effettivo perseguimento degli obiettivi di conservazione del suo valore e dei criteri seguiti per ottenerne un'adeguata redditivita'.
+
 ## Art. 10. — Organi, finalita' e modalita' della vigilanza
 
 Fino all'entrata in vigore della nuova disciplina dell'autorita' di controllo sulle persone giuridiche di cui al titolo II del libro primo del codice civile, ed anche successivamente, finche' ciascuna fondazione rimarra' titolare di partecipazioni di controllo, diretto o indiretto, in societa' bancarie ovvero concorrera' al controllo, diretto o indiretto, di dette societa' attraverso la partecipazione a patti di sindacato o accordi di qualunque tipo, la vigilanza sulle fondazioni e' attribuita al Ministero del tesoro, del bilancio e della programmazione economica. ((12))
 
 La vigilanza sulle fondazioni ha per scopo la verifica del rispetto della legge e degli statuti, la sana e prudente gestione delle fondazioni, la redditivita' dei patrimoni e l'effettiva tutela degli interessi contemplati negli statuti.
+
+3.
+                        
+                            
+                                L'Autorita' di vigilanza:
+ 
+                            
+                            
+                                a)
+                                
+                                    autorizza le operazioni di trasformazione e fusione, escluse le operazioni dirette al mutamento della natura giuridica e degli scopi istituzionali delle fondazioni, come individuati all'articolo 2;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    determina, con riferimento a periodi annuali, sentite le organizzazioni rappresentative delle fondazioni, un limite minimo di reddito in relazione al patrimonio, commisurato ad un profilo prudenziale di rischio adeguato all'investimento patrimoniale delle fondazioni;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    approva, al fine di verificare il rispetto degli scopi indicati al comma 2, le modificazioni statutarie, con provvedimento da emanarsi entro sessanta giornidal ricevimento della relativa documentazione; decorso tale termine le modificazioni si intendono approvate. Qualora siano formulate osservazioni il termine e' interrotto e ricomincia a decorrere dalla data di ricevimento della risposta da parte della fondazione interessata;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    puo' chiedere alle fondazioni la comunicazione di dati e notizie e la trasmissione di atti e documenti con le modalita' e nei termini dalla stessa stabiliti. L'organo di controllo informa senza indugio l'Autorita' di vigilanza di tutti gli atti o i fatti, di cui venga a conoscenza nell'esercizio dei propri compiti, che possano costituire un'irregolarita' nella gestione ovvero una violazione delle norme che disciplinano l'attivita' delle fondazioni;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    emana, sentite le organizzazioni rappresentative delle fondazioni, atti di indirizzo di carattere generale aventi ad oggetto, tra l'altro, la diversificazione degli investimenti, le procedure relative alle operazioni aventi ad oggetto le partecipazioni nella Societa' bancaria conferitaria detenute dalla fondazione, i requisiti di professionalita' e onorabilita', le ipotesi di incompatibilita' e le cause che determinano la sospensione temporanea dalla carica dei soggetti che svolgono funzioni di indirizzo, amministrazione, direzione e controllo presso le fondazioni e la disciplina del conflitto di interessi, nonche' i parametri di adeguatezza delle spese di funzionamento tenuto conto di criteri di efficienza e di sana e prudente gestione; i poteri di indirizzo sono esercitati in conformita' e nei limiti delle disposizioni del presente decreto; (7)
+
+                                
+                            
+                            
+                                f)
+                                
+                                    puo' effettuare ispezioni presso le fondazioni e richiedere alle stesse l'esibizione dei documenti e il compimento degli atti ritenuti necessari per il rispetto di quanto previsto al comma 2;
+
+                                
+                            
+                            
+                                g)
+                                
+                                    emana il regolamento di cui all'articolo 9, comma 5, relativo alle modalita' di redazione dei bilanci;
+
+                                
+                            
+                            
+                                h)
+                                
+                                    puo' disporre, anche limitatamente a determinate tipologie o categorie di fondazioni di maggiore rilevanza; che i bilanci siano sottoposti a revisione e certificazione ai sensi delle disposizioni di cui al decreto legislativo 24 febbraio 1998, n. 58;
+
+                                
+                            
+                            
+                                i)
+                                
+                                    stabilisce le forme e le modalita' per la revisione sociale dei bilanci;
+
+                                
+                            
+                            
+                                j)
+                                
+                                    quando non siano adottati dai competenti organi della fondazione, nei termini prescritti, i provvedimenti di cui all'articolo 4, comma 1, lettera j), provvede all'adozione dei provvedimenti stessi, anche su segnalazione dell'organo di controllo;
+
+                                
+                            
+                            
+                                k)
+                                
+                                    cura l'istituzione e la tenuta di un albo delle fondazioni.
 
 ---------------
                             AGGIORNAMENTO (7)
@@ -252,6 +606,23 @@ Le Societa' conferitarie che procedono alla valutazione di cui al comma 1 devono
 
 ## Art. 22. — Fusioni e altre operazioni di concentrazione strutturale
 
+1.
+                        
+                            
+                                Il reddito complessivo netto dichiarato dalle banche risultanti da operazioni di fusione, nonche' da quelle beneficiarie di operazioni di scissione ovvero destinatarie di conferimenti, sempre che tali operazioni abbiano dato luogo a fenomeni di concentrazione, e' assoggettabile all'imposta sul reddito delle persone giuridiche con l'aliquota del 12,5 per cento per cinque periodi d'imposta consecutivi, a partire da quello nel quale e' stata perfezionata l'operazione, per la parte corrispondente agli utili destinati, ad una speciale riserva denominata con riferimento alla presente legge.
+La tassazione ridotta spetta entro il limite massimo complessivo dell'1,2 per cento della differenza tra: 
+                            
+                            
+                                a)
+                                
+                                    la consistenza complessiva dei crediti e dei debiti delle banche o delle aziende bancarie che hanno partecipato alla fusione o alle operazioni di scissione o di conferimento, e che risultano dai rispettivi ultimi bilanci precedenti alle operazioni stesse, e
+                                
+                            
+                            
+                                b)
+                                
+                                    l'analogo aggregato risultante dall'ultimo bilancio della maggiore banca o azienda bancaria che hanno partecipato a tali operazioni. Gli utili destinati alla speciale riserva non possono comunque eccedere un quinto del limite massimo complessivo consentito per i cinque periodi d'imposta.
+
 Se la speciale riserva di cui al comma 1 e' distribuita ai soci entro il terzo anno dalla data di destinazione degli utili alla riserva stessa, le somme attribuite ai soci, aumentate dell'imposta di cui al comma 1 corrispondente all'ammontare distribuito, concorrono a formare il reddito imponibile della societa' ed il reddito imponibile dei soci. Le riduzioni di capitale deliberate dopo l'imputazione a capitale della speciale riserva entro il periodo medesimo si considerano, fino al corrispondente ammontare, prelevate dalla parte di capitale formata con l'imputazione di tale riserva.
 
 L'imposta sul reddito delle persone giuridiche applicata ai sensi del comma 1 concorre a formare l'ammontare delle imposte di cui ai commi 2 e 3 dell'articolo 105 del TUIR. Il reddito assoggettato all'imposta sul reddito delle persone giuridiche ai sensi del comma 1, rileva anche agli effetti della determinazione dell'ammontare delle imposte di cui al comma 4 dell'articolo 105 del predetto testo unico, secondo i criteri previsti per i proventi di cui al numero 1 di tale comma. A tale fine si considera come provento non assoggettato a tassazione la quota del 66,22 per cento degli utili destinati alla speciale riserva di cui al comma 1.
@@ -261,6 +632,22 @@ Per i periodi d'imposta per i quali le disposizioni del decreto legislativo 18 d
 Le disposizioni dei commi 1 e 2 si applicano, in quanto compatibili, anche alle banche comunitarie per le succursali stabilite nel territorio dello Stato.
 
 ## Art. 23. — Operazioni di concentrazione non strutturale
+
+1.
+                        
+                            
+                                Le disposizioni dell'articolo 22 si applicano anche alle banche che abbiano acquisito la partecipazione di controllo di altra banca, ai sensi dell'articolo 23 del testo unico delle leggi in materia bancaria e creditizia, approvato con decreto legislativo 1 settembre 1993, n. 385, nonche', per le operazioni che hanno dato luogo all'aggregazione di una pluralita' di banche, alle banche presenti nel gruppo bancario, di cui all'articolo 60 del medesimo decreto legislativo n. 385 del 1993, nella qualita' di controllate o di controllanti. La tassazione ridotta spetta, nel primo caso, alla banca che ha acquisito la partecipazione di controllo e, nel secondo caso, a ciascuna banca presente nel gruppo bancario, in misura proporzionale alla consistenza complessiva dei rispettivi crediti e debiti. Nel secondo caso, la societa' controllante, se esercente attivita' bancaria, puo' optare, in tutto o in parte, per l'applicazione della tassazione ridotta nei suoi confronti; l'opzione va esercitata nella dichiarazione dei redditi relativa al periodo d'imposta nel corso del quale si e' perfezionata l'operazione che ha dato luogo all'aggregazione di una pluralita' di banche e comunicata alle banche controllate per le eventuali limitazioni parziali o totali del beneficio disposto dal presente comma. La tassazione ridotta spetta, in entrambi i casi, entro il limite massimo complessivo dell'1,2 per cento della differenza tra 
+                            
+                            
+                                a)
+                                
+                                    la consistenza complessiva dei crediti e dei debiti delle banche interessate alle operazioni, risultanti dai rispettivi ultimi bilanci precedenti alle operazioni stesse, e
+                                
+                            
+                            
+                                b)
+                                
+                                    l'analogo aggregato risultante dall'ultimo bilancio della maggiore banca interessata a tali operazioni.
 
 L'applicazione delle disposizioni del comma 1 esclude, per le banche interessate alle operazioni ivi previste, l'applicazione delle disposizioni dell'articolo 22 per le eventuali ulteriori operazioni di fusione, scissione e conferimento tra le banche stesse.
 
@@ -296,6 +683,31 @@ Nei casi previsti dai commi 1 e 2 la conformita' alla direttiva del 18 novembre 
 
 ## Art. 27. — Partecipazione al capitale della Banca d'Italia
 
+1.
+                        
+                            
+                                Le fondazioni che hanno adeguato gli statuti ai sensi dell'articolo 28, comma 1, sono incluse tra i soggetti che possono partecipare al capitale della Banca d'Italia, a condizione che:
+ 
+                            
+                            
+                                a)
+                                
+                                    abbiano un patrimonio almeno pari a 50 miliardi;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    operino, secondo quanto previsto dai rispettivi statuti, in almeno due province ovvero in una delle province autonome di Trento e Bolzano;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    prevedano nel loro ordinamento la devoluzione ai fini statutari nei settori rilevanti di una parte di reddito superiore al limite minimo stabilito dall'Autorita' di vigilanza ai sensi dell'articolo 10.
+
 Il trasferimento delle quote di partecipazione al capitale della Banca d'Italia agli enti di cui al comma 1 non costituisce presupposto per l'applicazione dell'imposta sul reddito delle persone giuridiche, dell'imposta regionale sulle attivita' produttive, dell'imposta sul valore aggiunto e delle altre imposte sui trasferimenti.
 
 Ulteriori condizioni e requisiti per l'ammissione delle fondazioni al capitale della Banca d'Italia e per il trasferimento delle quote possono essere previsti dallo statuto della Banca, approvato con regio decreto 11 giugno 1936, n. 1067, e successive modifiche ed integrazioni, in particolare al fine di mantenere un equilibrato assetto della distribuzione delle quote e dei relativi diritti.
@@ -308,6 +720,24 @@ Le fondazioni adeguano gli statuti alle disposizioni del presente decreto entro 
 
 La disposizione di cui all'articolo 2, comma 1, si applica alle singole fondazioni a decorrere dalla data di approvazione delle modifiche statutarie previste dal comma 1.
 
+3.
+                        
+                            
+                                Le fondazioni che hanno provveduto ad adeguare gli statuti alle disposizioni del presente decreto possono, anche in deroga alle norme statutarie:
+ 
+                            
+                            
+                                a)
+                                
+                                    convertire le azioni ordinarie detenute nelle Societa' conferitarie in azioni privilegiate nella ripartizione degli utili e nel rimborso del capitale e senza diritto di voto nell'assemblea ordinaria. La proposta di conversione e' sottoposta all'approvazione dell'assemblea straordinaria della societa' partecipata. Alla relativa deliberazione non prende parte la fondazione, le cui azioni sono tuttavia computate nel capitale ai fini del calcolo delle quote richieste per la regolare costituzione dell'assemblea stessa. Le azioni con voto limitato non possono superare la meta' del capitale sociale;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    emettere titoli di debito, con scadenza non successiva alla fine del quarto anno dalla data di entrata in vigore del presente decreto, convertibili in azioni ordinarie della Societa' bancaria conferitaria detenute dalla fondazione, ovvero dotati di cedole rappresentative del diritto all'acquisto delle azioni medesime. Il Comitato interministeriale per il credito e il risparmio (CICR), su proposta della Banca d'Italia, sentita la Commissione nazionale per le societa' e la borsa (CONSOB), stabilisce, entro sei mesi dall'entrata in vigore del presente decreto, limiti e criteri per l'emissione dei titoli di cui alla presente lettera.
+
 L'incompatibilita' prevista dall'articolo 4, comma 3, con riguardo ai componenti l'organo di amministrazione di fondazioni che ricoprono alla data dientrata in vigore del presente decreto anche la carica di consigliere di amministrazione in Societa' bancarie conferitarie, diventa operativa allo scadere del termine della carica ricoperta nella fondazione e, comunque, non oltre la data di adozione del nuovo statuto ai sensi del comma 1.
 
 L'Autorita' di vigilanza emana, ai sensi dell'articolo 10, comma 3, lettera e), le disposizioni transitorie in materia di bilanci idonee ad assicurare l'ordinato passaggio al nuovo ordinamento previsto dal presente decreto.
@@ -319,6 +749,31 @@ Le disposizioni previste dagli articoli 22 e 23 si applicano alle operazioni per
 Per quanto non previsto dalla legge di delega e dal presente decreto, alle fondazioni si applicano, in quanto compatibili, le disposizioni degli articoli 12 e seguenti e 2501 e seguenti, del codice civile.
 
 ## Art. 30. — A b r o g a z i o n i
+
+1.
+                        
+                            
+                                Sono abrogati:
+ 
+                            
+                            
+                                a)
+                                
+                                    l'articolo 2, comma 2, della legge 30 luglio 1990, n. 218;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    gli articoli 11, 12, 13, 14, 15, 22 e 23 del decreto legislativo 20 novembre 1990, n. 356;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    l'articolo 1, commi 7, 7-bis e 7-ter, del decreto-legge 31 maggio 1994, n. 332, convertito, con modificazioni, dalla legge 30 luglio 1994, n. 474.
 
 ## Art. 31. — Copertura finanziaria
 

@@ -8,8 +8,8 @@ codice_redazionale: 010G0143
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:41Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -51,11 +51,75 @@ Con riferimento alle attivita' di cui al comma precedente, l'Istituto promuove, 
 
 ## Art. 3. — Disposizioni finanziarie e contabili
 
+1.
+                    
+                        
+                            Al conseguimento dei fini istituzionali, l'ISPRA provvede: 
+ 
+                        
+                        
+                            a)
+                            
+                                con il contributo annuale dello Stato; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                con risorse provenienti da amministrazioni ed enti pubblici e privati, nonche' da organizzazioni internazionali; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                con i proventi di beni costituenti il proprio patrimonio o derivanti dallo sfruttamento economico di eventuali brevetti e invenzioni; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                con i proventi derivanti dalle attivita' di promozione, vendita di servizi e prodotti e, ove non sussistano profili di incompatibilita' in relazione ai compiti istituzionali dell'Istituto, consulenza e collaborazione con soggetti pubblici e privati, ivi comprese le risorse finanziarie aggiuntive derivanti dall'inserimento in programmi di ricerca nazionali e internazionali ai sensi del decreto legislativo 5 giugno 1998, n. 204, nonche' dalla diffusione delle proprie pubblicazioni.
+
 Per l'amministrazione e la contabilita' l'Istituto emana apposito regolamento sulla base delle disposizioni contenute nel decreto del Presidente della Repubblica 27 febbraio 2003, n. 97.
 
 L'Istituto e' sottoposto alle disposizioni di cui alla legge 29 ottobre 1984, n. 720 e successive modificazioni, ed e' inserito nella tabella A allegata alla stessa legge.
 
 ## Art. 4. — Organi dell'Istituto
+
+1.
+                    
+                        
+                            Gli organi dell'Istituto, nominati ai sensi degli articoli 5, 6, 7 e 9, sono: 
+ 
+                        
+                        
+                            a)
+                            
+                                il presidente; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                il consiglio di amministrazione; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                il consiglio scientifico; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                il collegio dei revisori dei conti.
 
 Il presidente e i componenti degli organi collegiali dell'Istituto durano in carica tre anni e possono essere confermati una sola volta.
 
@@ -65,9 +129,101 @@ Al presidente e ai componenti degli organi collegiali previsti dal presente rego
 
 Il presidente e' nominato, ai sensi dell'articolo 6, comma 2, del decreto legislativo 5 giugno 1998, n. 204, con decreto del Presidente del Consiglio dei Ministri, su proposta del Ministro dell'ambiente e della tutela del territorio e del mare, tra persone di alta qualificazione scientifica o istituzionale nelle materie di competenza dell'Istituto, previo parere motivato delle competenti commissioni parlamentari permanenti competenti per materia. Decorsi venti giorni dalla trasmissione alle commissioni, ove il parere non sia stato reso, si procede comunque alla nomina.
 
+2.
+                    
+                        
+                            Il presidente: 
+ 
+                        
+                        
+                            a)
+                            
+                                ha la rappresentanza legale dell'ente; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                predispone il piano triennale delle attivita' e l'aggiornamento del programma di ricerca dell'Istituto, in base alle direttive generali del Ministro vigilante, tenendo conto degli eventuali suggerimenti e proposte di cui all'articolo 8, comma 2, e stipula la convenzione con il Ministro, di cui all'articolo 12, comma 4, predisposta in coerenza con le direttive generali anzidette; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                assicura l'unita' di indirizzo delle attivita' dell'ente; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                convoca e presiede il consiglio di amministrazione e ne stabilisce l'ordine del giorno di cui all'articolo 6, predisponendo i relativi atti, nonche' provvede nelle materie e per gli atti delegati dal consiglio stesso, ovvero nei casi d'urgente necessita', salva ratifica da parte dello stesso organo nella prima riunione successiva; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                convoca e presiede il consiglio scientifico; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                vigila sull'esecuzione delle delibere e verifica l'attivita' svolta dall'Istituto, avvalendosi del servizio di controllo interno; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                esercita ogni competenza non attribuita espressamente ad altri organi dalla legge, dai regolamenti e dallo statuto.
+
 ## Art. 6. — Il consiglio di amministrazione
 
 Il consiglio di amministrazione e' composto, oltre che dal presidente dell'Istituto, da sei membri, nominati con decreto del Ministro dell'ambiente e della tutela del territorio e del mare, scelti tra persone con competenze tecniche e/o scientifiche e/o gestionali nei settori di competenza dell'Istituto.
+
+2.
+                    
+                        
+                            Il consiglio di amministrazione svolge funzioni di indirizzo e di programmazione delle attivita' dell'Istituto e di monitoraggio e verifica sulla loro esecuzione, assicurando prioritariamente l'attuazione delle direttive generali del Ministro vigilante. In particolare: 
+ 
+                        
+                        
+                            a)
+                            
+                                delibera lo statuto e le relative modifiche con la maggioranza assoluta dei suoi componenti; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                verifica la compatibilita' finanziaria dei programmi di attivita'; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                delibera i bilanci preventivi e i conti consuntivi, nonche' le variazioni di bilancio; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                delibera il regolamento di amministrazione e contabilita', la pianta organica e gli atti organizzativi. Delibera: inoltre il piano del fabbisogno del personale e gli atti regolamentari generali, trasmettendoli per l'approvazione al Ministero vigilante e al Ministero dell'economia e delle finanze; delibera, sentito il Consiglio scientifico, il piano triennale delle attivita'; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                nomina il direttore generale, su proposta del presidente.
 
 Le sedute del consiglio sono convocate dal presidente mediante avviso, contenente l'ordine del giorno, da far pervenire ai consiglieri per mezzo di posta elettronica almeno otto giorni prima della data fissata per la seduta. Il consiglio puo' essere convocato, inoltre, su richiesta di almeno un terzo dei suoi componenti.
 
@@ -85,6 +241,24 @@ Il collegio dei revisori esercita il controllo interno di regolarita' amministra
 
 ## Art. 8. — Il consiglio scientifico
 
+1.
+                    
+                        
+                            Il consiglio scientifico, nominato con decreto del Ministro dell'ambiente e della tutela del territorio e del mare, e' composto: 
+ 
+                        
+                        
+                            a)
+                            
+                                dal Presidente e da cinque membri, scelti tra professori universitari, ricercatori, tecnologi o esperti, anche stranieri, di comprovata qualificazione scientifica, nei settori di competenza dell'Istituto; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                da un membro eletto dal personale tecnico-scientifico dell'ISPRA, al quale non e' attribuito alcun emolumento aggiuntivo.
+
 Il consiglio formula suggerimenti e proposte per la predisposizione del piano triennale e l'aggiornamento annuale dei piani di ricerca, nonche' per il migliore svolgimento delle funzioni attribuite dalla legge all'Istituto. Il consiglio scientifico definisce, nei modi previsti dal decreto legislativo 5 giugno 1998, n. 204, strumenti e modalita' per la valutazione dell'attivita' scientifica dell'ente.
 
 Il consiglio scientifico si riunisce di norma ogni tre mesi.
@@ -92,6 +266,59 @@ Il consiglio scientifico si riunisce di norma ogni tre mesi.
 ## Art. 9. — Il direttore generale
 
 Il direttore generale, il cui rapporto e' regolato con contratto di diritto privato della durata di tre anni, rinnovabile una sola volta, e' nominato, su proposta del presidente, con delibera del consiglio di amministrazione. Il trattamento economico del direttore generale e' determinato con decreto del Ministro dell'ambiente e della tutela del territorio e del mare, di concerto con il Ministro dell'economia e delle finanze, sulla proposta del presidente. Il direttore generale, scelto tra persone in possesso di adeguati requisiti tecnico-professionali, esercita le funzioni stabilite dalla legge e dal presente regolamento.
+
+2.
+                    
+                        
+                            Il direttore generale: 
+ 
+                        
+                        
+                            a)
+                            
+                                e' responsabile della gestione amministrativa e finanziaria dell'Istituto; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                sovrintende ed e' responsabile dell'attuazione delle deliberazioni del consiglio di amministrazione e svolge ogni altro compito attribuitogli dal presente regolamento; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                adotta gli atti ed i provvedimenti amministrativi ed esercita i poteri di spesa e quelli di acquisizione delle entrate nell'ambito delle risorse finanziarie assegnate dal consiglio di amministrazione, in coerenza con quanto previsto dalla convenzione di cui all'articolo 12, comma 4; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                instaura le liti e vi resiste con potere di conciliare e transigere, avvalendosi dell'Avvocatura generale dello Stato; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                predispone la relazione annuale sull'attivita' svolta e sui risultati della gestione; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                predispone lo schema di bilancio di previsione e del rendiconto generale, avvalendosi del servizio di controllo interno, e propone al consiglio di amministrazione le eventuali variazioni al bilancio; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                predispone lo schema di pianta organica e di regolamento di amministrazione e contabilita'.
 
 Il direttore generale interviene, senza diritto di voto, alle sedute del consiglio di amministrazione.
 

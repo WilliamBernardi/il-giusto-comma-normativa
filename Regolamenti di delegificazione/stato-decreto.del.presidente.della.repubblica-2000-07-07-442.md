@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Regolamenti di delegificazione
 vigenza_date: 2014-05-20
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:40:24Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -40,6 +40,35 @@ I criteri di organizzazione, le modalita', le specificazioni ed i tempi di attua
 
 ## Art. 2. — Definizioni
 
+1.
+                        
+                            
+                                Ai fini del presente regolamento si intende per:
+
+                            
+                            
+                                a)
+                                
+                                    "sede di lavoro" l'ufficio, lo stabilimento, il cantiere o comunque il luogo dove si esegue, di norma, la prestazione di lavoro;
+                                
+                            
+                            
+                                b)
+                                
+                                    "sede operativa di societa' di fornitura di lavoro temporaneo" l'ufficio presso il quale sono tenuti i documenti di lavoro relativi al prestatore di lavoro temporaneo;
+                                
+                            
+                            
+                                c)
+                                
+                                    "servizi competenti" i centri per l'impiego o gli altri organi individuati dalle regioni ai sensi dell'articolo 4 del decreto legislativo 23 dicembre 1997, n. 469;
+                                
+                            
+                            
+                                d)
+                                
+                                    "S.I.L." il Sistema informativo lavoro.
+
 ## Art. 3. — (( ARTICOLO ABROGATO DAL D.LGS. 10 SETTEMBRE 2003, N. 276 ))
 
 
@@ -52,6 +81,31 @@ I criteri di organizzazione, le modalita', le specificazioni ed i tempi di attua
 L'elenco anagrafico contiene i dati anagrafici completi del lavoratore nonche' i dati relativi alla residenza, all'eventuale domicilio, alla composizione del nucleo familiare, ai titoli di studio posseduti, all'eventuale appartenenza a categorie protette e allo stato occupazionale. L'inserimento nell'elenco anagrafico produce esclusivamente gli effetti previsti dal presente regolamento.
 
 L'elenco anagrafico e' integrato ed aggiornato sulla base delle informazioni fornite dal lavoratore e, d'ufficio, sulla base delle comunicazioni obbligatorie provenienti dai datori di lavoro, dalle societa' di fornitura di lavoro temporaneo e dai soggetti autorizzati all'attivita' di mediazione tra domanda e offerta di lavoro.
+
+3.
+                        
+                            
+                                Con decreto del Ministro del lavoro e della previdenza sociale, da adottarsi, sentite le organizzazioni sindacali dei lavoratori e dei datori di lavoro maggiormente rappresentative e la Conferenza unificata di cui all'articolo 8 del decreto legislativo 28 agosto 1997, n. 281, entro sessanta giorni dalla data di entrata in vigore del presente regolamento, sono definiti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il contenuto e le modalita' di trattamento dei dati dell'elenco anagrafico essenziali al fine della conduzione coordinata ed integrata del sistema informativo lavoro, secondo quanto previsto dall'articolo 1, comma 2, lettera d), e dall'articolo 11 del decreto legislativo 23 dicembre 1997, n. 469, con la contestuale individuazione dei titolari e dei responsabili del trattamento; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le modalita' di codifica di base delle professioni; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    la classificazione dei lavoratori inseriti nell'elenco anagrafico a scopo statistico secondo criteri omogenei con quelli definiti in sede comunitaria ed internazionale.
 
 L'elenco anagrafico dei lavoratori e' gestito con l'impiego di tecnologie informatiche ed e' organizzato con modalita' che assicurino omogeneita' a livello nazionale e consentano aggregazioni e disaggregazioni, anche di genere, funzionali al S.I.L.
 
@@ -76,6 +130,17 @@ Articolo non ammesso al "Visto" della Corte dei conti
 ## - Titolo II DISPOSIZIONI TRANSITORIE E FINALI
 
 ## Art. 7. — Norme abrogate
+
+1.
+                        
+                            
+                                Ai sensi dell'articolo 20 della legge 15 marzo 1997 n. 59, dalla data di entrata in vigore del presente regolamento sono abrogate le seguenti disposizioni:
+
+                            
+                            
+                                a)
+                                
+                                    l'articolo 6 della legge 10 gennaio 1935, n. 112, e successive modificazioni e integrazioni, limitatamente agli obblighi ivi previsti, concernenti la consegna del libretto di lavoro all'atto dell'assunzione del lavoratore e l'articolo 8 della stessa legge (seguivano le lettere b), c), d), e) ed f) del presente comma 1, non ammesse al "Visto" della Corte dei conti).
 
 ## Art. 8. — Norme transitorie
 

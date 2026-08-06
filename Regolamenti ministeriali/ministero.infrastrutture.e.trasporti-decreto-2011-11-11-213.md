@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
 vigenza_date: 2012-06-26
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:39Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -28,11 +28,61 @@ Udito il parere del Consiglio di Stato n. 2324/2011, espresso dalla sezione cons
 
 L'istanza per richiedere l'autorizzazione alla guida accompagnata e' redatta sul modello conforme all'allegato 1 ed e' presentata ad un Ufficio della motorizzazione, firmata dal genitore o dal legale rappresentante del minore, nonche' da quest'ultimo.
 
+2.
+                    
+                        
+                            All'istanza di cui al comma 1 devono essere allegate: 
+ 
+                        
+                        
+                            a)
+                            
+                                un'attestazione su conto corrente n. 4028 (per le imposte di bollo sull'istanza e sull'autorizzazione alla guida accompagnata) dell'importo di cui agli articoli 3 e 4 della tariffa approvata con decreto del Ministro delle finanze 20 agosto 1992 e successive modificazioni; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                un'attestazione di versamento su conto corrente n. 9001 dell'importo di cui al punto 2 della tabella 3 della legge 1° dicembre 1986, n. 870 e successive modificazioni; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                certificazione attestante la sussistenza dei requisiti psico-fisici, nei casi previsti dall'articolo 2, comma 2; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                dichiarazione sostitutiva di atto di notorieta' comprovante la qualita' di genitore ovvero di legale rappresentante del minore, redatta sul modello all'allegato 2, corredata da fotocopia di documento di identita' del dichiarante.
+
 L'istanza di cui al comma 1 non puo' essere accolta quando nell'anagrafe nazionale degli abilitati alla guida risulti che la patente posseduta dal minore e' scaduta di validita' ovvero che sulla stessa gravino provvedimenti ostativi alla guida.
 
 L'Ufficio, effettuate le verifiche di cui al comma 3, rilascia una ricevuta di presentazione dell'istanza, conforme al modello previsto dall'allegato 3, che consente al minore di iscriversi al corso di formazione propedeutico alla guida accompagnata, di cui all'articolo 3.
 
 ## Art. 2. — Validita' temporale della ricevuta di presentazione dell'istanza di rilascio dell'autorizzazione alla guida accompagnata
+
+1.
+                    
+                        
+                            La ricevuta di cui all'articolo 1, comma 4, e' rilasciata: 
+ 
+                        
+                        
+                            a)
+                            
+                                con scadenza di validita' alla data di compimento del diciottesimo anno di eta', in favore del minore, titolare di patente di guida in corso di validita' con scadenza successiva alla predetta data; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                con scadenza di validita' in data corrispondente a quella della patente posseduta dal minore, qualora tale data sia anteriore al compimento del diciottesimo anno di eta' del titolare. In tal caso, a seguito del rinnovo di validita' della patente di guida, con duplicato e' rinnovata la validita' della ricevuta con data di scadenza corrispondente a quella di validita' della patente e comunque non superiore al compimento del diciottesimo anno di eta' del titolare.
 
 Fermo restando quanto previsto dal comma 1, la ricevuta di cui all'articolo 1, comma 4, e' rilasciata al minore mutilato o minorato che ha necessita' di installare dispositivi di adattamento sul veicolo, previa produzione di certificato della Commissione medica locale, indicante gli adattamenti necessari sul veicolo, l'idoneita' dei quali e' previamente verificata con esperimento pratico su veicolo appositamente equipaggiato. Sulla ricevuta di cui all'articolo 1, comma 4, sono annotati gli adattamenti del veicolo prescritti.
 

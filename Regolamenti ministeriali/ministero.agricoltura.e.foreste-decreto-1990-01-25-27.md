@@ -8,8 +8,8 @@ codice_redazionale: 090G0060
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:38Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -45,11 +45,66 @@ Il bestiame per il quale viene richiesto il premio deve essere identificato.
 
 L'identificazione e' effettuata dagli organismi di controllo entro il termine massimo di cui all'art. 7, paragrafo 1, del regolamento CEE n. 714/89, mediante marca auricolare, fissata con tre perni passanti ad una piastra di bloccaggio munita di appendice da applicare al padiglione dell'orecchio destro dell'animale.
 
+3.
+                    
+                        
+                            La marca di cui al precedente comma dovra' riportare le seguenti indicazioni:
+ 
+                        
+                        
+                            a)
+                            
+                                sigla della provincia interessata;
+
+                            
+                        
+                        
+                            b)
+                            
+                                numero progressivo, con l'utilizzazione di una serie di cinque cifre, al completamento della quale si ripartira' dal n. 1 seguito da una lettera dell'alfabeto.
+
+4.
+                    
+                        
+                            La piastra di bloccaggio e' utilizzata in due differenti colori:
+ 
+                        
+                        
+                            a)
+                            
+                                rosso, se l'anno al quale si riferisce il premio termina con
+numero pari;
+
+                            
+                        
+                        
+                            b)
+                            
+                                verde, se l'anno al quale si riferisce il premio termina con numero dispari.
+
 Qualora animali che abbiano beneficiato del premio speciale vengano esportati verso un altro Paese della Comunita', l'organismo di controllo dovra' provvedere ad asportare l'appendice inferiore della piastra di bloccaggio con la quale e' stato identificato il bestiame.
 
 Gli organismi di controllo dovranno annotare su apposito registro, per ogni provincia, i dati anagrafici nonche' la partita IVA o, in mancanza di questa, il codice fiscale del richiedente il premio, ed il numero progressivo delle marche di identificazione applicate e darne dettagliata comunicazione all'A.I.M.A. entro dieci giorni dall'avvenuta identificazione degli animali.
 
 ## Art. 5.
+
+1.
+                    
+                        
+                            Entro e non oltre i novanta giorni dalla scadenza di ogni periodo di presentazione delle domande gli organismi di controllo inviano all'A.I.M.A. in duplice copia:
+ 
+                        
+                        
+                            a)
+                            
+                                l'elenco delle domande definite con atto di liquidazione, compilato secondo lo schema di cui all'allegato II;
+
+                            
+                        
+                        
+                            b)
+                            
+                                l'elenco delle domande respinte compilato secondo lo schema di cui all'allegato III.
 
 Sulla base degli elenchi di cui al precedente comma, lettera a), l'A.I.M.A., dopo aver espletato i controlli di cui al successivo art. 11, provvedera' ad effettuare i pagamenti al piu' tardi nove mesi dopo la data di presentazione delle domande.
 

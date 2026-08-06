@@ -8,8 +8,8 @@ codice_redazionale: 091G0403
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:41Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -29,6 +29,45 @@ Il presente regolamento trova applicazione per le iniziative che si svilupperann
 
 ## Art. 2. — Soggetti beneficiari
 
+1.
+                    
+                        
+                            Possono fruire dei contributi di cui all'art. 11 del decreto- legge 1 aprile 1989, n. 120, convertito, con modificazioni, nella legge 15 maggio 1989, n. 181:
+ 
+                        
+                        
+                            a)
+                            
+                                le piccole e medie imprese industriali che, alla data di presentazione della domanda, abbiano non piu' di duecentocinquanta dipendenti e 25 miliardi di lire di capitale investito, al netto di ammortamenti e rivalutazioni monetarie, che non appartengano ad un gruppo imprenditoriale, e cioe' non siano societa' controllate o controllanti ai sensi dell'art. 2359 del codice civile, secondo comma, o comunque collegate, ne' direttamente ne' indirettamente a mezzo di finanziarie, fiduciarie o societa' di comodo;
+
+                            
+                        
+                        
+                            b)
+                            
+                                le piccole e medie imprese appartenenti ad un gruppo imprenditoriale che, alla data della domanda, non superi nel suo insieme i limiti dimensionali sopracitati di duecentocinquanta dipendenti e 25 miliardi di lire di capitale investito, al netto di ammortamenti e rivalutazioni monetarie;
+
+                            
+                        
+                        
+                            c)
+                            
+                                le piccole e medie imprese di servizi aventi, alla data della domanda, non piu' di settantacinque dipendenti e 7,5 miliardi di capitale investito, al netto di ammortamenti e rivalutazioni monetarie, sempreche' non si configurino come appartenenti ad un gruppo imprenditoriale;
+
+                            
+                        
+                        
+                            d)
+                            
+                                le piccole e medie imprese di servizi appartenenti ad un gruppo imprenditoriale che, alla data della domanda, non superi nel suo insieme i limiti dimensionali sopracitati di settantacinque dipendenti e 7,5 miliardi di capitale investito, al netto di ammortamenti e rivalutazioni monetarie;
+
+                            
+                        
+                        
+                            e)
+                            
+                                le imprese artigiane che, alla data della domanda, non superino i limiti previsti dall'art. 4 della legge 8 agosto 1985, n. 443.
+
 ## Art. 3. — Entita' dei contributi
 
 La misura del contributo di cui al predetto art. 11, comma 1 e 1-bis, e' pari al 25% del costo degli investimenti ritenuti ammissibili, con un limite massimo di lire 700 milioni.
@@ -36,6 +75,56 @@ La misura del contributo di cui al predetto art. 11, comma 1 e 1-bis, e' pari al
 Il contributo per l'acquisizione dei servizi, di cui al successivo sesto comma del predetto art. 11, e' concesso nella misura dell'80% del costo effettivo dell'investimento e comunque per un importo non superiore ai 30 milioni.
 
 ## Art. 4. — Contributi per investimenti
+
+1.
+                    
+                        
+                            Possono formare oggetto di richiesta di contributo di cui ai commi 1 e 1- bis del citato art. 11 gli investimenti destinati a:
+ 
+                        
+                        
+                            a)
+                            
+                                insediamento di nuove attivita': per insediamento di nuova attivita' deve intendersi la creazione di una nuova unita' produttiva nella zona considerata;
+
+                            
+                        
+                        
+                            b)
+                            
+                                ammodernamento degli impianti esistenti: sara' ritenuta ammissibile l'iniziativa riguardante un compiuto programma di razionalizzazione del ciclo produttivo con esclusione degli interventi di carattere manutentivo;
+
+                            
+                        
+                        
+                            c)
+                            
+                                ampliamento degli impianti esistenti: saranno ritenute ammissibili le iniziative destinate al potenziamento dei singoli complessi industriali attraverso l'acquisto di nuovi macchinari, il potenziamento delle strutture, l'ampliamento dei fabbricati esistenti con l'eventuale acquisto dei terreni sui quali i fabbricati stessi dovranno essere costruiti.
+
+2.
+                    
+                        
+                            Ai sensi della normativa comunitaria in materia di aiuti alle imprese, i contributi non possono essere concessi per investimenti relativi ai seguenti settori e comparti produttivi:
+ 
+                        
+                        
+                            a)
+                            
+                                produzioni siderurgiche di cui all'allegato 1 del trattato CECA;
+
+                            
+                        
+                        
+                            b)
+                            
+                                costruzioni e riparazioni navali;
+
+                            
+                        
+                        
+                            c)
+                            
+                                produzione di fibre tessili artificiali.
 
 Saranno escluse dalle agevolazioni le spese sostenute antecedentemente alla data di entrata in vigore del decreto-legge n. 120/1989 nonche' le spese destinate all'acquisto di macchinari usati o imputabili a commesse interne. Non verranno altresi' ammesse spese che non siano direttamente ed immediatamente funzionali al programma approvato, ne' i costi generali inerenti agli immobili (sono comunque ammesse le spese di urbanizzazione primaria nel caso di acquisto di terreni) ed agli impianti, come ammortamenti, manutenzioni ordinarie e straordinarie, assicurazioni, ecc., nonche' i costi per quote di spese generali aziendali.
 

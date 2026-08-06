@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Regolamenti governativi
 vigenza_date: 2012-12-19
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:12Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -32,6 +32,80 @@ Sulla proposta del Ministro della giustizia, di concerto con il Ministro per la 
 
 ## Art. 1. — Definizioni
 
+1.
+                    
+                        
+                            Agli effetti del presente regolamento si intende per:
+ 
+                        
+                        
+                            a)
+                            
+                                "documento informatico": la rappresentazione informatica del contenuto di atti, fatti o dati giuridicamente rilevanti ai sensi del decreto del Presidente della Repubblica 10 novembre 1997, n. 513;
+
+                            
+                        
+                        
+                            b)
+                            
+                                "duplicato del documento informatico": la riproduzione del documento informatico effettuata su un qualsiasi tipo di supporto elettronico facilmente trasportabile;
+
+                            
+                        
+                        
+                            c)
+                            
+                                "documento probatorio": l'atto avente efficacia probatoria ai sensi del codice civile e del codice di procedura civile;
+
+                            
+                        
+                        
+                            d)
+                            
+                                "firma digitale": il risultato della procedura informatica disciplinata dal decreto del Presidente della Repubblica 10 novembre 1997, n. 513;
+
+                            
+                        
+                        
+                            e)
+                            
+                                "dominio giustizia": l'insieme delle risorse hardware e software, mediante il quale l'amministrazione della giustizia tratta in via informatica e telematica qualsiasi tipo di attivita', di dato, di servizio, di comunicazione e di procedura;
+
+                            
+                        
+                        
+                            f)
+                            
+                                "sistema informatico civile": e' il sottoinsieme delle risorse del dominio giustizia mediante il quale l'amministrazione della giustizia tratta il processo civile;
+
+                            
+                        
+                        
+                            g)
+                            
+                                "gestore del sistema di trasporto delle informazioni": il gestore indicato dall'articolo 13, comma 2, del decreto del Presidente della Repubblica 10 novembre 1997, n. 513;
+
+                            
+                        
+                        
+                            h)
+                            
+                                "indirizzo elettronico": l'indirizzo di posta elettronica come definito dall'articolo 1, comma 1, lettera l), del decreto del Presidente della Repubblica 10 novembre 1997, n. 513;
+
+                            
+                        
+                        
+                            i)
+                            
+                                "ricevuta di consegna": il messaggio generato ed inviato automaticamente al mittente dal gestore del sistema di trasporto delle informazioni del destinatario nel momento in cui il messaggio inviato e' reso disponibile al destinatario medesimo nella sua casella di posta elettronica;
+
+                            
+                        
+                        
+                            j)
+                            
+                                "certificatore della firma digitale": il soggetto previsto dagli articoli 8, 9 e 17 del decreto del Presidente della Repubblica 10 novembre 1997, n. 513.
+
 ## Art. 2. — Campo di applicazione
 
 E' ammessa la formazione, la comunicazione e la notificazione di atti del processo civile mediante documenti informatici nei modi previsti dal presente regolamento.
@@ -41,6 +115,38 @@ L'attivita' di trasmissione, comunicazione o notificazione, dei documenti inform
 Si applicano le disposizioni del decreto del Presidente della Repubblica 10 novembre 1997, n. 513, ove non diversamente stabilito dal presente regolamento.
 
 ## Art. 3. — Sistema informatico civile
+
+1.
+                    
+                        
+                            Il sistema informatico civile e' strutturato con modalita' che assicurano:
+ 
+                        
+                        
+                            a)
+                            
+                                l'individuazione dell'ufficio giudiziario e del procedimento;
+
+                            
+                        
+                        
+                            b)
+                            
+                                l'individuazione del soggetto che inserisce, modifica o comunica l'atto;
+
+                            
+                        
+                        
+                            c)
+                            
+                                l'avvenuta ricezione della comunicazione dell'atto;
+
+                            
+                        
+                        
+                            d)
+                            
+                                l'automatica abilitazione del difensore e dell'ufficiale giudiziario.
 
 Al sistema informatico civile possono accedere attivamente soltanto i difensori delle parti e gli ufficiali giudiziari per le attivita' rispettivamente consentite dal presente regolamento.
 

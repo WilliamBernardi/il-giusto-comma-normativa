@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
 vigenza_date: 2005-02-11
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:38Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -108,11 +108,96 @@ Il Capo del compartimento marittimo, il Comandante del Reparto di Volo o il Coma
 
 ((
 
+1.
+                        
+                            
+                                Gli alloggi di servizio assegnati al personale del Corpo delle capitanerie di porto si suddividono nelle seguenti categorie: 
+ 
+                            
+                            
+                                a)
+                                
+                                    alloggi destinati ad esigenze di servizio connesse ad incarichi di rappresentanza e di comando (ASIR): Comandante Generale del Corpo delle Capitanerie di Porto, Capi di compartimento marittimo, Capi di ufficio circondariale marittimo. Per detti alloggi e' applicabile il regime derogatorio previsto nell'articolo 14, comma 4, ed alle condizioni fissate nel comma 5 dello stesso articolo. In tal caso gli stessi alloggi sono comparati - in via temporanea - alla categoria ASI e possono essere assegnati rispettivamente al personale di cui all'articolo 14, comma 1; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    alloggi di servizio connessi all'incarico (ASI): per il personale a cui sono affidati incarichi continuativi che richiedono l'obbligo di abitare presso la localita' di servizio per il soddisfacimento delle esigenze di funzionalita' ovvero di sicurezza del servizio stesso; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    alloggi collettivi di servizio nell'ambito di caserme asserviti ad immobili in uso agli uffici marittimi periferici per ufficiali, sottufficiali e volontari di truppa in servizio permanente destinati nella sede (ASC): per il personale militare, celibe o coniugato senza famiglia a seguito. In tali alloggi ogni interessato puo' disporre di una sola camera con o senza bagno; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    alloggi di servizio di temporanea sistemazione per le famiglie dei militari (AST): per il personale militare in servizio permanente, coniugato e con famiglia al seguito, che presta effettivo servizio nella sede ove e' ubicato l'alloggio ovvero nel Comune limitrofo; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    alloggi di servizio per esigenze logistiche del personale militare imbarcato e relativi familiari di passaggio (SLI): per il personale militare in servizio permanente, coniugato e con o senza famiglia al seguito, che presta servizio a bordo di unita' navali del Corpo gestite dal Reparto Supporto Logistico con sede a Messina; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    alloggi di servizio per esigenze logistiche del personale militare in transito (APP): per il personale militare in servizio permanente, celibe o coniugato senza famiglia al seguito, in missione presso comandi, enti e reparti per frequenza di corsi ovvero per attivita' connesse a motivate esigenze di servizio.
+
 ))
 
 ## Art. 12. — (( (Durata delle assegnazioni).))
 
 ((
+
+1.
+                        
+                            
+                                La durata delle assegnazioni degli alloggi e' stabilita come segue: 
+ 
+                            
+                            
+                                a)
+                                
+                                    alloggi di categoria ASIR e ASI: la durata e' direttamente connessa e quindi pari al tempo di permanenza nell'incarico e la relativa utilizzazione e' consentita con l'assunzione dell'incarico; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    alloggi di categoria ASC: la durata e' direttamente connessa e quindi pari al tempo di permanenza nell'incarico che da' titolo all'assegnazione dell'alloggio di servizio; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    alloggi di categoria AST: la durata dell'assegnazione non puo' essere superiore ai sei anni; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    alloggi di categoria SLI: la durata dell'assegnazione, stabilita dalle disposizioni particolari emanate dal Comando, non puo' essere superiore a mesi tre, con possibilita' di rinnovo salvo che non vi siano domande intese ad ottenerne la fruizione; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    alloggi di categoria APP: la durata dell'assegnazione, stabilita dalle disposizioni particolari emanate dal Comando, non puo' essere superiore a mesi tre, con possibilita' di rinnovo salvo che non vi siano domande intese ad ottenerne la fruizione.
 
 ))
 
@@ -120,6 +205,24 @@ Il Capo del compartimento marittimo, il Comandante del Reparto di Volo o il Coma
  Marittimo in materia di assegnazione
 
 ((
+
+1.
+                        
+                            
+                                L'assegnazione degli alloggi e' disposta: 
+ 
+                            
+                            
+                                a)
+                                
+                                    per gli ASIR, dal Comandante generale del Corpo delle capitanerie di porto, con lo stesso provvedimento che dispone il trasferimento ovvero l'assunzione del comando o l'assegnazione dell'incarico. A tal fine il Comandante Generale, sentito il Direttore Marittimo competente per territorio, con proprio provvedimento individua espressamente gli alloggi da assegnare; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    per gli ASI, AST e SLI dal Direttore Marittimo su proposta del Capo del Compartimento Marittimo, del Comandante del Reparto di Volo e per il Reparto Supporto Navale su proposta del Comandante previa approvazione del Comandante generale, a seguito di istanza formulata in conformita' all'allegato "A". Per i titolari degli incarichi indicati nel successivo articolo 14, comma 1, lettera a), provvede il Direttore Marittimo di Roma su indicazione del Comando generale del Corpo delle capitanerie di porto.
 
 ))
 
@@ -132,6 +235,133 @@ Le Autorita' che formalizzano le assegnazioni degli alloggi per periodi uguali o
 ## Art. 14. — (( (Incarichi cui e' connessa l'assegnazione di alloggi della categoria ASI e assegnazione degli alloggi AST).))
 
 ((
+
+1.
+                        
+                            
+                                I seguenti incarichi danno luogo all'assegnazione degli ASI, nei limiti della disponibilita' degli alloggi medesimi nella sede, secondo l'ordine di priorita' in cui sono elencati: 
+ 
+
+ 
+                            
+                            
+                                a)
+                                
+                                    Comando generale del Corpo delle capitanerie di porto:
+ Vice Comandante Generale;
+ Capo della Centrale Operativa;
+ Ufficiale addetto al Comandante Generale;
+ Coordinatore;
+ Capi reparto;
+ Capo del Reparto Ambientale Marino;
+ Assistente del Comandante Generale;
+ Sottufficiale responsabile dell'autoreparto;
+ ulteriore personale militare che ricopre incarichi e ruoli
+ secondo un ordine di priorita' funzionale che assicuri l'assolvimento
+ di primarie esigenze stabilite dal Comandante generale, con proprio
+ provvedimento, sentiti i Capi Reparto.
+
+                                
+                            
+                            
+                                b)
+                                
+                                    Uffici marittimi periferici:
+ Titolare di ufficio locale marittimo;
+ Titolare di delegazione di spiaggia;
+ Titolare di Comando equipollente;
+ Comandante in seconda o Ufficiale in seconda di ufficio
+ marittimo periferico;
+ Capo Sezione Operativa di Capitaneria di Porto e, nelle sedi di
+ Direzione Marittima, del Comandante della Zona Navale;
+ Capo Servizio V.T.S. di area;
+ Capo Servizio V.T.S. locale;
+ Comandante di Unita' Navali del Corpo;
+ Direttore di Macchina di Unita' Navali del Corpo;
+ Capo Sezione Sicurezza Navigazione ovvero Tecnica;
+ Aiutante Maggiore;
+ 1° Nostromo;
+ Responsabile sezione staccata di Capitaneria di Porto;
+ Consegnatario per debito di vigilanza (capo carico);
+ ulteriore personale militare che ricopra incarichi e ruoli
+ secondo un ordine di priorita' funzionale che assicuri l'assolvimento
+ di primarie esigenze, rilevanti a livello locale, stabilite dal Capo
+ del Compartimento con proprio provvedimento motivato, sottoposto
+ all'approvazione del Comando generale.
+
+                                
+                            
+                            
+                                c)
+                                
+                                    Reparti di Volo (Nuclei Aerei/Sezioni Volo Elicotteri):
+ Comandante;
+ Capo Servizio Operazioni;
+ Piloti;
+ Operatori di Volo;
+ Capo Servizio Tecnico;
+ Comandante in 2u';
+ Capo servizio sicurezza volo;
+ Capo hangar;
+ Capo magazzino;
+ Addetti ai servizi di volo;
+ ulteriore personale militare che ricopra incarichi e ruoli
+ secondo un ordine di priorita' funzionale che assicuri l'assolvimento
+ di primarie esigenze stabilite dal responsabile del Reparto con
+ proprio provvedimento motivato, sottoposto all'approvazione del
+ Comando generale.
+
+                                
+                            
+                            
+                                d)
+                                
+                                    Reparto Supporto Navale:
+ Comandante;
+ Capo Ufficio Tecnico-Logistico;
+ Capo Ufficio Amministrativo e Infrastrutture;
+ Capo Ufficio Personale;
+ Consegnatario;
+ Maresciallo addetto Ufficio Tecnico-Logistico;
+ Maresciallo addetto Ufficio Personale;
+ ulteriore personale militare che ricopra incarichi e ruoli
+ secondo un ordine di priorita' funzionale che assicuri l'assolvimento
+ di primarie esigenze stabilite dal Comandante del Reparto Supporto
+ Navale con proprio provvedimento motivato, sottoposto
+ all'approvazione del Comando generale.
+
+2.
+                        
+                            
+                                L'assegnazione degli AST, nei limiti della disponibilita' degli alloggi della medesima categoria, e' stabilita in ragione inversa al reddito del nucleo familiare legalmente riconosciuto, rapportato alla composizione numerica dello stesso, risultante dall'ultima dichiarazione dei redditi o modello sostitutivo di ciascuno dei componenti del nucleo familiare. Gli AST non possono essere assegnati al personale che: 
+ 
+                            
+                            
+                                a)
+                                
+                                    sia proprietario o usufruttuario in cooperativa, ancorche' indivisa, di un'abitazione idonea e disponibile, ubicata nello stesso Comune ove e' situata la sede di servizio ovvero in un comune limitrofo; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    sia assegnatario di una abitazione di un Istituto autonomo case popolari o similare, militare o civile, o concessa da qualsiasi altra amministrazione dello Stato; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    abbia un familiare convivente nelle stesse condizioni sopraindicate; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    ricopra un incarico che da' titolo all'assegnazione di un alloggio ASI e non abbia presentato domanda per l'assegnazione nella sede di servizio di tale categoria di alloggi ovvero che abbia rinunciato all'assegnazione di alloggio ASI. 
+ Un'abitazione e' considerata idonea se composta da un numero di vani utili almeno pari a quello dei componenti il nucleo familiare convivente, compresi comunque il capo famiglia ed il coniuge convivente ed e' considerata disponibile anche se occupata da altri in assenza di azioni giudiziarie per il suo recupero debitamente curate.
 
 Nel caso fossero disponibili piu' alloggi, l'assegnazione e' effettuata, in base alla composizione del nucleo familiare convivente con il richiedente, in relazione alle dimensioni degli alloggi disponibili.
 
@@ -148,6 +378,21 @@ L'assegnatario di ASI puo' chiedere il cambio dell'alloggio occupato con un altr
 ## Art. 15.
 
 Assegnazione alloggi di categoria ASC ((e APP))
+
+1.
+                        
+                            
+                                Gli alloggi di servizio collettivi (ASC) sono assegnati al personale militare in servizio permanente, celibe o coniugato senza famiglia al seguito, con il seguente ordine di priorita': 
+ 
+
+                            
+                            
+                                a)
+                                
+                                    personale che abbia diritto all'alloggio ASI; 
+h) personale che presta servizio nel comprensorio ove e' ubicato l'alloggio; 
+e) personale che presta servizio nella sede; 
+d) personale che presta servizio nel Comune limitrofo.
 
 Nell'ambito delle suddette categorie, la priorita' sara' determinata con i criteri previsti per gli ASI in quanto applicabili.
 
@@ -168,6 +413,42 @@ L'assegnazione di qualsiasi tipo di alloggio cessa con la perdita del titolo in 
 L'assegnatario deve lasciare libero l'alloggio da persone e cose entro venti giorni dalla data della perdita del titolo, fatti salvi i casi di cui al successivo comma 5. In caso contrario sono addebitati anche gli oneri derivanti dall'articolo 7, comma 2, del decreto del Presidente della Repubblica 16 marzo 1999, n. 255.
 
 L'autorita' competente a disporre l'assegnazione notifica all'utente avviso di rilascio, redatto secondo il modello riportato in allegato "D", di massima trenta giorni prima della scadenza.
+
+4.
+                        
+                            
+                                Costituiscono motivo di perdita del titolo all'alloggio: 
+ 
+
+                            
+                            
+                                a)
+                                
+                                    per tutti i tipi di alloggio la cessazione dall'incarico per il quale l'alloggio e' stato assegnato, il collocamento a riposo, la cessazione dal servizio attivo o passaggio all'impiego civile, il decesso dell'assegnatario; 
+                                
+                            
+                            
+                                b)
+                                
+                                    per gli alloggi di categoria ASC, la scadenza del termine di durata dell'assegnazione, ove non sia intervenuto provvedimento di proroga.
+
+5.
+                        
+                            
+                                Il Comandante Generale del Corpo delle Capitanerie di Porto, sentito il Direttore marittimo competente per territorio, su istanza degli interessati corredata dal parere del Capo del compartimento marittimo, puo' concedere proroga agli utenti che hanno perso il titolo perche' fruiscano di un alloggio di servizio per una durata massima di giorni novanta decorrenti dalla data in cui si e' verificata la perdita del titolo, a condizione che: 
+ 
+
+                            
+                            
+                                a)
+                                
+                                    non vi siano esigenze di reimpiego immediato dell'alloggio e sempreche' non sia stato gia' assegnato o richiesto da alcuno degli aventi diritto: 
+                                
+                            
+                            
+                                b)
+                                
+                                    gli utenti si impegnino esplicitamente e per iscritto a lasciare libero l'alloggio con brevissimo preavviso (quindici giorni) non appena questo dovesse rendersi nuovamente necessario per motivi di servizio, nonche' a corrispondere il nuovo canone che sara' determinato dalla Direzione marittima sulla base del canone di mercato indicato dall'Amministrazione finanziaria. Le Direzioni marittime comunicano il canone applicato per le previste trattenute stipendiali, agli Enti amministratori, che provvedono al versamento alle competenti Sezioni di Tesoreria Provinciale dello Stato sull'apposito capitolo di entrata, per il successivo reintegro dei fondi al competente capitolo di spesa delle Capitanerie di Porto.
 
 Alla vedova dell'assegnatario dell'alloggio o ad altro familiare gia' convivente, finche' permanga inalterato lo stato civile, puo' essere concessa proroga non rinnovabile all'occupazione dell'alloggio, per una durata massima pari a tre mesi decorrenti dal novantesimo giorno successivo al decesso dell'assegnatario.
 
@@ -203,11 +484,107 @@ E' escluso dal pagamento della retta giornaliera il personale imbarcato sulle un
 
 ## Art. 20. — Altri oneri a carico degli assegnatari
 
+1.
+                        
+                            
+                                Sono a carico degli assegnatari degli alloggi gli oneri per: 
+ 
+
+                            
+                            
+                                a)
+                                
+                                    le piccole riparazioni di cui all'articolo 1609 codice civile; 
+                                
+                            
+                            
+                                b)
+                                
+                                    i consumi degli impianti, se indivisi, di riscaldamento, acqua, energia elettrica, nonche' le spese per pulizia e illuminazione delle parti comuni e quelle per i danni prodotti o causati per colpa, negligenza, incuria o cattivo uso nella conduzione dell'alloggio.
+
 Le spese e gli oneri per i contratti e le utenze comuni sono assolte direttamente dagli assegnatari. A tali spese ed oneri partecipa l'Amministrazione, pro quota, per gli alloggi non occupati, nel periodo intercorrente tra la data di rilascio e quella di consegna al nuovo assegnatario.
 
 Le spese che si riferiscono ai danneggiamenti imputabili agli utenti sono, invece, addebitate e riscosse a cura dell'ufficio incaricato della gestione, che provvede al versamento dei relativi importi in Tesoreria, sull'apposito capitolo di entrata, per il successivo riaccreditamento di fondi sui pertinenti capitoli di spesa.
 
 ## Art. 21. — Oneri a carico dell'Amministrazione
+
+1.
+                        
+                            
+                                Premesso che i lavori di straordinaria manutenzione, cioe' quelli che richiedono l'intervento di un tecnico - professionista abilitato, sono di competenza degli Uffici del Genio Civile per le opere marittime e che le relative spese sono a carico del bilancio del Ministero dei Lavori pubblici o di altra Amministrazione, sono a carico dell'Amministrazione dei trasporti e della navigazione, con imputazione al pertinente capitolo di bilancio: 
+ 
+
+                            
+                            
+                                a)
+                                
+                                    le spese di assicurazione e tasse varie relative all'immobile e agli impianti connessi, eccezione fatta per quelle espressamente poste nel presente regolamento a carico dell'assegnatario; 
+                                
+                            
+                            
+                                b)
+                                
+                                    le spese relative al periodo intercorrente tra la data di rilascio dell'alloggio da parte dell'assegnatario e quella di consegna al successivo assegnatario; 
+                                
+                            
+                            
+                                c)
+                                
+                                    spese per illuminazione strade accesso, cortili e delle aree di transito; 
+                                
+                            
+                            
+                                d)
+                                
+                                    pitturazione delle parti comuni e delle aree parcheggio; 
+                                
+                            
+                            
+                                e)
+                                
+                                    la ordinaria pitturazione degli infissi e delle pareti da effettuarsi in occasione del cambio di assegnazione, se disposto d'autorita' prima dei quattro anni dalla data di occupazione e qualora non sia derivata da negligenza o incuria dell'assegnatario; 
+                                
+                            
+                            
+                                f)
+                                
+                                    ripristino degli impianti di adduzione acqua, energia elettrica, gas e simili, fino ai contatori o, in assenza, fino apparecchi erogatori; 
+                                
+                            
+                            
+                                g)
+                                
+                                    ripristino della rete fognante, ivi compreso lo spurgo di pozzi neri e fosse biologiche, delle colonne di scarico di acque bianche e nere; 
+                                
+                            
+                            
+                                h)
+                                
+                                    riparazione degli impianti centralizzati di riscaldamento, autoclave, ascensore, montacarichi, citofono, antenna televisiva, parafulmine ed altri eventuali impianti centralizzati; 
+                                
+                            
+                            
+                                i)
+                                
+                                    riparazione degli impianti idrici, elettrici e simili, all'interno degli alloggi limitatamente ai tratti incassati e sotto traccia; 
+                                
+                            
+                            
+                                l)
+                                
+                                    sostituzione dello scaldabagno ovvero della caldaia per vetusta' o grave guasto non imputabile all'utente; 
+                                
+                            
+                            
+                                m)
+                                
+                                    spese per gli impianti di sicurezza e per la prevenzione infortuni previsti per legge; 
+                                
+                            
+                            
+                                n)
+                                
+                                    spese per i servizi antincendio.
 
 ## Art. 22. — Formalita' per le comunicazioni
 

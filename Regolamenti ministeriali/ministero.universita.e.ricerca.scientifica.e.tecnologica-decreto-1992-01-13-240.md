@@ -8,8 +8,8 @@ codice_redazionale: 092G0266
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:40Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -40,6 +40,38 @@ Al predetto esame possono essere ammessi i laureati in psicologia che abbiano co
 Ciascuna commissione esaminatrice e' nominata con decreto del Ministro dell'universita' e della ricerca scientifica e tecnologica ed e' composta dal presidente e da quattro membri.
 
 Il presidente viene nominato fra i professori universitari ordinari, straordinari, fuori ruolo od a riposo di discipline psicologiche a qualsiasi facolta' essi appartengano.
+
+3.
+                    
+                        
+                            I membri vengono prescelti da quattro terne designate dal competente consiglio dell'Ordine professionale e composte da persone appartenenti alle seguenti categorie:
+ 
+                        
+                        
+                            a)
+                            
+                                professori universitari ordinari, straordinari, fuori ruolo od a riposo;
+
+                            
+                        
+                        
+                            b)
+                            
+                                professori associati;
+
+                            
+                        
+                        
+                            c)
+                            
+                                liberi professionisti iscritti all'albo con non meno di dieci anni di esercizio professionale;
+
+                            
+                        
+                        
+                            d)
+                            
+                                psicologi dipendenti da pubbliche amministrazioni con almeno dieci anni di anzianita' di servizio.
 
 Fino all'istituzione dei consigli dell'Ordine le prime due terne dovranno essere designate dal Consiglio universitario nazionale; mentre le ultime dovranno essere designate dalla Direzione generale affari civili e libere professioni del Ministero di grazia e giustizia.
 

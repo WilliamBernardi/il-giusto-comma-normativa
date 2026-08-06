@@ -10,7 +10,7 @@ source: normattiva-opendata
 collection: Atti di recepimento direttive UE
 vigenza_date: 2022-12-30
 zip_date: 2026-07-30
-fetched_at: 2026-08-02T09:40:47Z
+fetched_at: 2026-07-30
 ---
 
 DECRETO LEGISLATIVO
@@ -28,15 +28,241 @@ Sulla proposta del Ministro per le politiche comunitarie e del Ministro dell'amb
 
 ## Art. 1. — Finalita' e campo di applicazione
 
+1.
+                    
+                        
+                            Il presente decreto, al fine di evitare, prevenire o ridurre gli effetti nocivi dell'esposizione al rumore ambientale, compreso il fastidio, definisce le competenze e le procedure per:
+ 
+                        
+                        
+                            a)
+                            
+                                l'elaborazione della mappatura acustica e delle mappe acustiche strategiche di cui all'articolo 3;
+
+                            
+                        
+                        
+                            b)
+                            
+                                l'elaborazione e l'adozione dei piani di azione di cui all'articolo 4, volti ad evitare e a ridurre il rumore ambientale laddove necessario, in particolare, quando i livelli di esposizione possono avere effetti nocivi per la salute umana, nonche' ad evitare aumenti del rumore nelle zone silenziose;
+
+                            
+                        
+                        
+                            c)
+                            
+                                assicurare l'informazione e la partecipazione del pubblico in merito al rumore ambientale ed ai relativi effetti.
+
 Il presente decreto non si applica al rumore generato dalla persona esposta, dalle attivita' domestiche, proprie o del vicinato, ne' al rumore sul posto di lavoro prodotto dalla stessa attivita' lavorativa o a bordo dei mezzi di trasporto o dovuto ad attivita' militari svolte nelle zone militari.
 
 Laddove non esplicitamente modificate dal presente decreto, si applicano le disposizioni della legge 26 ottobre 1995, n. 447, e successive modificazioni, nonche' la normativa vigente in materia di tutela dell'ambiente esterno e dell'ambiente abitativo dall'inquinamento acustico adottata in attuazione della citata legge n. 447 del 1995.
 
 ## Art. 2. — Definizioni
 
+1.
+                    
+                        
+                            Ai fini del presente decreto si intende per: 
+ 
+                        
+                        
+                            a)
+                            
+                                «agglomerato»: area urbana, individuata dalla regione o provincia autonoma competente, costituita da uno o piu' centri abitati ai sensi dell'articolo 3 del decreto legislativo 30 aprile 1992, n. 285, e successive modificazioni, contigui fra loro e la cui popolazione complessiva e' superiore a 100.000 abitanti; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                «aeroporto principale»: un aeroporto civile o militare aperto al traffico civile in cui si svolgono piu' di 50.000 movimenti all'anno, intendendosi per movimento un'operazione di decollo o di atterraggio. Sono esclusi i movimenti a fini addestrativi su aeromobili definiti leggeri ai sensi della regolamentazione tecnica nazionale; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                «asse ferroviario principale»: una infrastruttura ferrovia su cui transitano ogni anno piu' di 30.000 treni; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                «asse stradale principale»: un'infrastruttura stradale su cui transitano ogni anno piu' di 3.000.000 di veicoli; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                «descrittore acustico»: la grandezza fisica che descrive il rumore ambientale in relazione ad uno specifico effetto nocivo; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                «determinazione»: qualsiasi metodo per calcolare, predire, stimare o misurare il valore di un descrittore acustico od i relativi effetti nocivi; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                «effetti nocivi»: gli effetti negativi per la salute umana; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                «fastidio»: la misura in cui, sulla base di indagini sul campo e di simulazioni, il rumore risulta sgradevole a una comunita' di persone; 
+
+                            
+                        
+                        
+                            i)
+                            
+                                «Lden (livello giorno-sera-notte)»: il descrittore acustico relativo all'intera giornata, di cui all'allegato 1; 
+
+                            
+                        
+                        
+                            l)
+                            
+                                «Lday (livello giorno)»: il descrittore acustico relativo al periodo dalle 06:00 alle 20:00; 
+
+                            
+                        
+                        
+                            m)
+                            
+                                «Levening (livello sera)»: il descrittore acustico relativo al periodo dalle 20:00 alle 22:00; 
+
+                            
+                        
+                        
+                            n)
+                            
+                                «Lnight (livello notte)»: il descrittore acustico relativo al periodo dalle 22.00 alle 06.00; 
+
+                            
+                        
+                        
+                            o)
+                            
+                                «mappatura acustica»: la rappresentazione di dati relativi a una situazione di rumore esistente o prevista in una zona, relativa ad una determinata sorgente, in funzione di un descrittore acustico che indichi il superamento di pertinenti valori limite vigenti, il numero di persone esposte in una determinata area o il numero di abitazioni esposte a determinati valori di un descrittore acustico in una certa zona; 
+
+                            
+                        
+                        
+                            p)
+                            
+                                «mappa acustica strategica»: una mappa finalizzata alla determinazione dell'esposizione globale al rumore in una certa zona a causa di varie sorgenti di rumore ovvero alla definizione di previsioni generali per tale zona; 
+
+                            
+                        
+                        
+                            q)
+                            
+                                «piani di azione»: i piani destinati a gestire i problemi di inquinamento acustico ed i relativi effetti, compresa, se necessario, la sua riduzione; 
+
+                            
+                        
+                        
+                            r)
+                            
+                                «pianificazione acustica»: il controllo dell'inquinamento acustico futuro mediante attivita' di programmazione, quali la classificazione acustica e la pianificazione territoriale, l'ingegneria dei sistemi per il traffico, la pianificazione dei trasporti, l'attenuazione del rumore mediante tecniche di insonorizzazione ed il controllo dell'emissione acustica delle sorgenti; 
+
+                            
+                        
+                        
+                            s)
+                            
+                                «pubblico»: una o piu' persone fisiche o giuridiche e le associazioni, le organizzazioni o i gruppi di dette persone; 
+
+                            
+                        
+                        
+                            t)
+                            
+                                «rumore ambientale»: i suoni indesiderati o nocivi in ambiente esterno prodotti dalle attivita' umane, compreso il rumore emesso da mezzi di trasporto, dovuto al traffico veicolare, al traffico ferroviario, al traffico aereo e proveniente da siti di attivita' industriali; 
+
+                            
+                        
+                        
+                            u)
+                            
+                                «relazione dose-effetto»: la relazione fra il valore di un descrittore acustico e l'entita' di un effetto nocivo; 
+
+                            
+                        
+                        
+                            v)
+                            
+                                «siti di attivita' industriale»: aree classificate V o VI ai sensi delle norme vigenti in cui sono presenti attivita' industriali quali quelle definite nell'allegato 1 al decreto legislativo 18 febbraio 2005, n. 59; 
+
+                            
+                        
+                        
+                            z)
+                            
+                                «valori limite»: un valore di Lden o Lnight e, se del caso, di Lday e Levening il cui superamento induce le autorita' competenti ad esaminare o applicare provvedimenti di attenuazione del rumore; i valori limite possono variare a seconda della tipologia di rumore, dell'ambiente circostante e del diverso uso del territorio; essi possono anche variare riguardo a situazioni esistenti o nuove come nel caso in cui cambi la sorgente di rumore o la destinazione d'uso dell'ambiente circostante; 
+
+                            
+                        
+                        
+                            aa)
+                            
+                                «zona silenziosa di un agglomerato»: una zona delimitata dall'autorita' ((individuata ai sensi dell'articolo 3, commi 1 e 3,)) nella quale Lden, o altro descrittore acustico appropriato relativo a qualsiasi sorgente non superi un determinato valore limite; 
+
+                            
+                        
+                        
+                            bb)
+                            
+                                "zona silenziosa in aperta campagna": una zona, esterna all'agglomerato, delimitata dalla regione territorialmente competente su proposta dell'autorita' comunale - ovvero, qualora la zona ricade nell'ambito territoriale di piu' regioni, tramite apposito protocollo d'intesa tra le medesime - che non risente del rumore prodotto da infrastrutture di trasporto, da attivita' industriali o da attivita' ricreative.
+
 ## Art. 3. — Mappatura acustica e mappe acustiche strategiche
 
+1.
+                    
+                        
+                            Entro il 30 giugno 2007: 
+ 
+                        
+                        
+                            a)
+                            
+                                l'autorita' individuata dalla regione o dalla provincia autonoma elabora e trasmette alla regione o alla provincia autonoma competente le mappe acustiche strategiche, nonche' i dati di cui all'allegato 6, relativi al precedente anno solare, degli agglomerati con piu' di 250.000 abitanti; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                le societa' e gli enti gestori di servizi pubblici di trasporto o delle relative infrastrutture elaborano e trasmettono alla regione o alla provincia autonoma competente la mappatura acustica, nonche' i dati di cui all'allegato 6, riferiti al precedente anno solare, degli assi stradali principali su cui transitano piu' di 6.000.000 di veicoli all'anno, degli assi ferroviari principali su cui transitano piu' di 60.000 convogli all'anno e degli aeroporti principali. Nel caso di infrastrutture principali che interessano piu' regioni gli stessi enti trasmettono la mappatura acustica ed i dati di cui all'allegato 6 relativi a dette infrastrutture al Ministero dell'ambiente e della tutela del territorio ed alle regioni o province autonome competenti.
+
 Nel caso di servizi pubblici di trasporto e delle relative infrastrutture ricadenti negli agglomerati di cui al comma 1, lettera a), la mappatura acustica prevista al comma 1, lettera b), nonche' i dati di cui all'allegato 6, sono trasmessi entro il 31 dicembre 2006 all'autorita' individuata al comma 1, lettera a).
+
+3.
+                    
+                        
+                            Entro il ((30 giugno 2017 e, successivamente, entro il 31 marzo 2022 e ogni cinque anni a partire da tale data)): 
+ 
+                        
+                        
+                            a)
+                            
+                                l'autorita' individuata dalla regione o dalla provincia autonoma elabora e trasmette alla regione o alla provincia autonoma competente le mappe acustiche strategiche degli agglomerati, nonche' i dati di cui all'allegato 6, riferiti al precedente anno solare; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                le societa' e gli enti gestori di servizi pubblici di trasporto o delle relative infrastrutture ((non di interesse nazionale ne' di interesse di piu' regioni)) elaborano e trasmettono alla regione o alla provincia autonoma competente la mappatura acustica, nonche' i dati di cui all'allegato 6, riferiti al precedente anno solare, degli assi stradali e ferroviari principali. ((PERIODO SOPPRESSO DAL D.LGS. 17 FEBBRAIO 2017, N. 42)).
 
 ((
 
@@ -63,7 +289,43 @@ All'attuazione del presente articolo si provvede con le risorse finanziarie disp
 
 ## Art. 4. — Piani d'azione
 
+1.
+                    
+                        
+                            Entro il 18 luglio 2008: 
+ 
+                        
+                        
+                            a)
+                            
+                                l'autorita' individuata dalla regione o dalla provincia autonoma, tenuto conto dei risultati delle mappe acustiche strategiche di cui all'articolo 3, elabora e trasmette alla regione od alla provincia autonoma competente i piani di azione e le sintesi di cui all'allegato 6 per gli agglomerati con piu' di 250.000 abitanti; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                le societa' e gli enti gestori dei servizi pubblici di trasporto o delle relative infrastrutture, tenuto conto dei risultati della mappatura acustica di cui all'articolo 3, elaborano e trasmettono alla regione od alla provincia autonoma competente i piani di azione e le sintesi di cui all'allegato 6, per gli assi stradali principali su cui transitano piu' di 6.000.000 di veicoli all'anno, per gli assi ferroviari principali su cui transitano piu' di 60.000 convogli all'anno e per gli aeroporti principali. Nel caso di infrastrutture principali che interessano piu' regioni gli stessi enti trasmettono i piani d'azione e le sintesi di cui all'allegato 6 relativi a dette infrastrutture al Ministero dell'ambiente e della tutela del territorio ed alle regioni o province autonome competenti.
+
 Nel caso di servizi pubblici di trasporto e delle relative infrastrutture ricadenti negli agglomerati di cui al comma 1, lettera a), i piani d'azione previsti al comma 1, lettera b), nonche' le sintesi di cui all'allegato 6, sono trasmessi entro il 18 gennaio 2008 all'autorita' individuata al comma 1 lettera a).
+
+3.
+                    
+                        
+                            Entro il 18 luglio 2018 e, successivamente, ((entro il 18 aprile 2024)) e ogni cinque anni a partire da tale data: 
+ 
+                        
+                        
+                            a)
+                            
+                                l'autorita' individuata dalla regione o dalla provincia autonoma, tenuto conto dei risultati delle mappe acustiche strategiche di cui all'articolo 3, elabora e trasmette alla regione od alla provincia autonoma competente i piani di azione e le sintesi di cui all'allegato 6 per gli agglomerati; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                le societa' e gli enti gestori dei servizi pubblici di trasporto o delle relative infrastrutture non di interesse nazionale ne' di interesse di piu' regioni, tenuto conto dei risultati della mappatura acustica di cui all'art. 3, elaborano e trasmettono alla regione od alla provincia autonoma competente i piani di azione e le sintesi di cui all'allegato 6, per gli assi stradali e ferroviari principali. PERIODO SOPPRESSO DAL D.LGS. 17 FEBBRAIO 2017, N. 42.
 
 Nel caso di infrastrutture principali di interesse nazionale o di interesse di piu' regioni, compresi gli aeroporti principali, le societa' e gli enti gestori trasmettono i piani d'azione e le sintesi di cui all'allegato 6 relativi a dette infrastrutture al Ministero dell'ambiente e della tutela del territorio e del mare e alle regioni o province autonome competenti, entro il 18 luglio 2018 ((e, successivamente, entro il 18 luglio 2024 e ogni cinque anni a partire da tale data)). I medesimi termini per la trasmissione si applicano anche alle regioni e province autonome quando esse sono i soggetti responsabili per la redazione dei piani di azione.
 
@@ -104,6 +366,70 @@ Dall'attuazione del presente articolo non devono derivare nuovi o maggiori oneri
 I valori dei descrittori acustici Lden e Lnight di cui all'articolo 5, comma 1, e gli effetti nocivi dell'inquinamento acustico sono stabiliti secondo i metodi di determinazione e le relazioni dose-effetto definiti rispettivamente all'allegato 2 ed all'allegato 3, nonche' sulla base dei criteri stabiliti con decreto del Ministro dell'ambiente e della tutela del territorio, di concerto con i Ministri della salute e delle infrastrutture e dei trasporti, sentita la Conferenza unificata, da adottare entro sei mesi dalla data di entrata in vigore del presente decreto, tenuto conto anche della normazione tecnica di settore.
 
 ## Art. 7. — Comunicazioni alla Commissione europea e al Ministero dell'ambiente e della tutela del territorio
+
+1.
+                    
+                        
+                            Il Ministero dell'ambiente e della tutela del territorio comunica alla Commissione: 
+ 
+                        
+                        
+                            a)
+                            
+                                entro il 30 giugno 2020 e, successivamente ogni cinque anni, gli agglomerati, gli assi stradali e ferroviari principali, nonche' gli aeroporti principali; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                LETTERA SOPPRESSA DAL D.LGS. 17 FEBBRAIO 2017, N. 42; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                entro il 31 dicembre 2017 e, successivamente, ogni cinque anni,)) i dati relativi alle mappe acustiche strategiche ed alle mappature acustiche previsti all'allegato 6; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                entro il 18 gennaio 2019 ((e, successivamente, entro il 18 gennaio 2025 e ogni cinque anni a partire da tale data)), i dati relativi ai piani d'azione di cui all'allegato 6, nonche' i criteri adottati per individuare le misure previste nei piani stessi; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                entro il 31 dicembre 2005, informazioni sui valori limite, espressi in Lden e Lnight, in vigore per il rumore del traffico veicolare, ferroviario ed aereo in prossimita' degli aeroporti, nonche' i valori limite stabiliti per il rumore nei siti di attivita' industriali.
+
+2.
+                    
+                        
+                            Per le finalita' di cui al comma 1, le regioni e le province autonome territorialmente competenti, per gli agglomerati e le infrastrutture dei trasporti principali non di interesse nazionale ne' di interesse di piu' regioni, nonche' per le zone silenziose degli agglomerati e per le zone silenziose in aperta campagna, per quanto di competenza, comunicano al Ministero dell'ambiente e della tutela del territorio e del mare: 
+ 
+                        
+                        
+                            a)
+                            
+                                entro il 31 maggio 2020 e, successivamente, ogni cinque anni i dati di cui al comma 1, lettera a), nonche' i dati relativi alle zone silenziose degli agglomerati ed alle zone silenziose in aperta campagna, delimitate attraverso idonea rappresentazione cartografica; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                entro i tre mesi successivi alle date stabilite all'articolo 3, commi 3 e 6, i dati relativi alle mappe acustiche strategiche e alle mappature acustiche previsti all'allegato 6; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                entro i tre mesi successivi alle date stabilite all'articolo 4, commi 3 e 6, i dati relativi ai piani d'azione di cui all'allegato 6, nonche' i criteri adottati per individuare le misure previste nei piani stessi.
 
 Per le finalita' di cui al comma 1, le societa' e gli enti gestori di servizi pubblici di trasporto o delle relative infrastrutture di interesse nazionale o di interesse di piu' regioni, compresi gli aeroporti principali, per quanto di competenza comunicano al Ministero dell'ambiente e della tutela del territorio e del mare, entro il 31 maggio 2020 e, successivamente, ogni cinque anni i dati di cui al comma 1, lettera a).
 

@@ -8,8 +8,8 @@ codice_redazionale: 096G0388
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:41Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -39,15 +39,146 @@ Con decreto pubblicato nella Gazzetta Ufficiale della Repubblica italiana, il Mi
 
 ## Art. 2. — C r i t e r i
 
+1.
+                    
+                        
+                            Gli enti nazionali di ricerca previsti dall'art. 1 predispogono i programmi di ricerca nell'ambito del settore di competenza assicurando la quota di partecipazione all'iniziativa da parte degli altri soggetti interessati (universita', centri di ricerca pubblici e privati, imprese) sulla base dei seguenti criteri:
+ 
+                        
+                        
+                            a)
+                            
+                                adeguatezza scientifica, culturale e tecnica dei proponenti;
+
+                            
+                        
+                        
+                            b)
+                            
+                                contributi in termini di risorse umane, strumentali e finanziarie alla realizzazione del programma;
+
+                            
+                        
+                        
+                            c)
+                            
+                                coerenza della partecipazione rispetto agli obiettivi strategici di ricerca applicata ed ai contenuti del programma.
+
 ## Art. 3. — M o d a l i t a'
 
 Le proposte per la conclusione degli accordi sono formulate dagli enti nazionali di ricerca di cui all'art. 1 responsabili di ciascun programma con riferimento alla convenzione che si prevede di stipulare fra i soggetti aderenti all'iniziativa, volta a disciplinare l'oggetto, i tempi, le modalita' di realizzazione del programma, gli obiettivi da conseguire nonche' le risorse finanziarie, umane e strumentali che ciascun partecipante assume l'obbligo di impiegare.
 
 Dette proposte, corredate dallo studio di fattibilita' del programma e dallo schema della convenzione di cui al comma 1, devono essere presentate al Ministero dell'universita' e della ricerca scientifica e tecnologica entro centoventi giorni dalla data di pubblicazione del decreto di cui all'art. 1, comma 2 del presente regolamento a pena di inammissibilita'.
 
+3.
+                    
+                        
+                            Le proposte devono contenere i seguenti elementi:
+ 
+                        
+                        
+                            a)
+                            
+                                oggetto del programma di ricerca;
+
+                            
+                        
+                        
+                            b)
+                            
+                                soggetto responsabile del programma;
+
+                            
+                        
+                        
+                            c)
+                            
+                                soggetti partecipanti;
+
+                            
+                        
+                        
+                            d)
+                            
+                                obiettivi specifici di ricerca intermedi e finali da conseguire;
+
+                            
+                        
+                        
+                            e)
+                            
+                                tempi di attuazione (durata massima tre anni);
+
+                            
+                        
+                        
+                            f)
+                            
+                                costo totale previsto per la realizzazione del programma, inclusivo di spese di personale, di strumentazione e di materiali ed attrezzature;
+
+                            
+                        
+                        
+                            g)
+                            
+                                risorse finanziarie, umane e strumentali che ciascun partecipante si impegna ad impiegare e relative modalita';
+
+                            
+                        
+                        
+                            h)
+                            
+                                collegamento con altri programmi nazionali o internazionali di ricerca;
+
+                            
+                        
+                        
+                            i)
+                            
+                                ulteriori risorse pubbliche utilizzabili (con particolare riguardo a quelle comunitarie);
+
+                            
+                        
+                        
+                            j)
+                            
+                                prospettive di utilizzazione economico-finanziaria dei risultati del programma di ricerca.
+
 ## Art. 4. — Istruttoria dei programmi
 
 Il Dipartimento della ricerca scientifica e tecnologica cura l'istruttoria delle proposte per la conclusione degli accordi di programma, avvalendosi del comitato tecnico scientifico di cui all'art. 7 della legge 17 febbraio 1982, n. 46.
+
+2.
+                    
+                        
+                            In particolare l'istruttoria e' volta ad accertare:
+ 
+                        
+                        
+                            a)
+                            
+                                la corrispondenza dei contenuti della proposta e dello studio di fattibilita' in ordine al settore di intervento per il quale e' stato previsto il finanziamento ed ai relativi obiettivi strategici;
+
+                            
+                        
+                        
+                            b)
+                            
+                                l'effettivo coinvolgimento delle strutture di ricerca appartenenti ai diversi settori scientifici (universita', enti, imprese), con particolare riferimento a quanto stabilito nella prescritta convenzione;
+
+                            
+                        
+                        
+                            c)
+                            
+                                l'adeguatezza culturale, scientifica e tecnica dei soggetti partecipanti e la correttezza della loro selezione da effettuarsi alla stregua della normativa propria degli enti responsabili del programma;
+
+                            
+                        
+                        
+                            d)
+                            
+                                la fattibilita' del programma sotto il profilo economico e finanziario e con riferimento alle risorse umane e strumentali disponibili.
 
 Acquisito il parere del Consiglio nazionale della scienza e della tecnologia, il Ministero approva i programmi, stipulando con l'Ente nazionale di ricerca responsabile del programma i relativi accordi, con le modalita' e secondo le procedure stabilite dal regolamento di attuazione dell'art. 3 della legge 9 maggio 1989, n. 168.
 

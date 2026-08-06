@@ -8,8 +8,8 @@ codice_redazionale: 000G0134
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:42Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -53,7 +53,65 @@ Al fine di consentire l'immediata attivazione delle misure finanziate con le mod
 
 ## Art. 5. — Criteri per la ripartizione
 
+1.
+                    
+                        
+                            Ai fini della ripartizione delle risorse del Fondo, il Ministero del lavoro e della previdenza sociale, tenuto conto della effettiva attuazione delle iniziative regionali in materia di inserimento lavorativo dei disabili e dei risultati concretamente conseguiti, illustrati nella relazione presentata dalle regioni ai sensi dell'articolo 4, comma 1, nonche' delle ulteriori informazioni acquisite anche direttamente presso le regioni stesse, opera sulla base dei seguenti criteri, tra loro concorrenti:
+
+                        
+                        
+                            a)
+                            
+                                numero e qualita' dei programmi finalizzati all'inserimento lavorativo mirato nell'ambito delle convenzioni di cui all'articolo 11 della legge n. 68 del 1999, comunicati dalle regioni entro il termine del 30 novembre dell'anno precedente, di cui all'articolo 4, comma 1;
+                            
+                        
+                        
+                            b)
+                            
+                                verifica dell'effettiva ed efficace attuazione dei programmi diretti a favorire l'integrazione lavorativa dei disabili, secondo le modalita' e con le priorita' stabilite dall'articolo 6;
+                            
+                        
+                        
+                            c)
+                            
+                                conformita' delle iniziative di integrazione lavorativa agli indirizzi definiti dall'Unione europea in materia di politica dell'impiego.
+
 ## Art. 6. — Ammissione agli incentivi
+
+1.
+                    
+                        
+                            A seguito della ripartizione effettuata con le modalita' e secondo i criteri di cui agli articoli 4 e 5, il servizio, nell'ambito delle disponibilita' assegnate, ammette agli incentivi di cui all'articolo 13, comma 1, della legge n. 68 del 1999 i programmi che soddisfano i requisiti di cui all'articolo 11 della citata legge, con particolare attenzione per le seguenti iniziative:
+
+                        
+                        
+                            a)
+                            
+                                programmi diretti all'avviamento lavorativo dei disabili che presentano particolari difficolta' di inserimento, secondo quanto previsto dall'articolo 11, comma 4, della legge n. 68 del 1999, in particolare dei lavoratori con handicap intellettivo e psichico;
+                            
+                        
+                        
+                            b)
+                            
+                                programmi che prevedono forme di inserimento lavorativo stabile;
+                            
+                        
+                        
+                            c)
+                            
+                                programmi che prevedono percorsi formativi con applicazione e sviluppo di tecnologie compensative, in particolare diretti a settori innovativi di attivita';
+                            
+                        
+                        
+                            d)
+                            
+                                programmi che comportino modalita' e tempi innovativi di lavoro;
+                            
+                        
+                        
+                            e)
+                            
+                                programmi che favoriscano l'inserimento lavorativo delle donne disabili.
 
 Nella valutazione ai fini dell'ammissione agli incentivi, sono privilegiati i programmi di cui al comma 1, lettera a). A parita' di requisiti, il servizio concede le agevolazioni ai programmi secondo l'ordine di presentazione delle relative domande.
 

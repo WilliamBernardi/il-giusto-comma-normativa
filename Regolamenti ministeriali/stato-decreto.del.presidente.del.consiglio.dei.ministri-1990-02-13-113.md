@@ -8,8 +8,8 @@ codice_redazionale: 090G0141
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:41Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DEL CONSIGLIO DEI MINISTRI
@@ -32,6 +32,108 @@ D'intesa con il Ministro per gli affari regionali ed i problemi istituzionali;
 E' istituito il Dipartimento per gli affari regionali, di seguito indicato Dipartimento, alle dipendenze del Ministro per gli affari regionali ed i problemi istituzionali.
 
 ## Art. 2. — Competenze
+
+1.
+                    
+                        
+                            Il Dipartimento provvede agli adempimenti riguardanti:
+ 
+                        
+                        
+                            a)
+                            
+                                Il controllo governativo della legislazione regionale;
+
+                            
+                        
+                        
+                            b)
+                            
+                                il contenzioso Stato-regioni;
+
+                            
+                        
+                        
+                            c)
+                            
+                                la definizione dei criteri generali per l'esercizio della funzione di indirizzo e coordinamento dell'attivita' delle regioni e province autonome;
+
+                            
+                        
+                        
+                            d)
+                            
+                                affari relativi all'attivita' all'estero delle regioni;
+
+                            
+                        
+                        
+                            e)
+                            
+                                i rapporti con i commissari di Governo;
+
+                            
+                        
+                        
+                            f)
+                            
+                                le commissioni di controllo sugli atti delle regioni;
+
+                            
+                        
+                        
+                            g)
+                            
+                                affari relativi alla finanza regionale;
+
+                            
+                        
+                        
+                            h)
+                            
+                                affari relativi ai rapporti tra Stato e regioni derivanti dall'attivita' della conferenza di cui all'art. 12 della legge 23 agosto 1988, n. 400 e di altri organismi a composizione mista Stato-regioni di cui al decreto legislativo 16 dicembre 1989, n. 418;
+
+                            
+                        
+                        
+                            i)
+                            
+                                affari relativi all'attuazione degli statuti delle regioni e province ad autonomia speciale;
+
+                            
+                        
+                        
+                            l)
+                            
+                                adempimenti relativi alle norme speciali relative all'Alto Adige;
+
+                            
+                        
+                        
+                            m)
+                            
+                                affari relativi alle minoranze linguistiche e ai problemi delle zone di confine;
+
+                            
+                        
+                        
+                            n)
+                            
+                                la partecipazione del Ministro per gli affari regionali ed i problemi istituzionali a comitati interministeriali in materie di interesse regionale;
+
+                            
+                        
+                        
+                            o)
+                            
+                                studi e ricerche in materia regionale;
+
+                            
+                        
+                        
+                            p)
+                            
+                                gli affari generali, l'organizzazione e le attivita' strumentali al funzionamento del Dipartimento e, con il coordinamento dei competenti uffici e dipartimenti del Segretariato generale, gli affari relativi a personale, beni e servizi per il funzionamento del Dipartimento, gli adempimenti in materia contabile e finanziaria attribuiti al Ministro per gli affari regionali ed i problemi istituzionali, nonche' l'introduzione e l'utilizzazione di tecnologie informatiche per le attivita' del Dipartimento.
 
 ## Art. 3. — Organizzazione
 

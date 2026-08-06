@@ -7,8 +7,8 @@ urn: urn:nir:stato:decreto.legislativo:2024-10-07;144
 vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:28Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -59,6 +59,45 @@ Ai sensi dell'articolo 8 del regolamento, l'AgID e' designata quale sportello un
  del regolamento (UE) 2022/868
 
 Ferma restando l'applicazione della disciplina in materia di protezione dei dati personali, salvo che il fatto costituisca reato, in caso di violazione degli obblighi in materia di trasferimento di dati non personali a Paesi terzi a norma dell'articolo 5, paragrafo 14, e dell'articolo 31 del regolamento, dell'obbligo di notifica per i fornitori di servizi di intermediazione dei dati a norma dell'articolo 11 del regolamento, delle condizioni per la fornitura di servizi di intermediazione dei dati a norma dell'articolo 12 del regolamento, delle condizioni per la registrazione come organizzazione per l'altruismo dei dati riconosciuta a norma degli articoli 18, 20, 21 e 22 del regolamento da parte dei fornitori di servizi di intermediazione dei dati e delle organizzazioni per l'altruismo dei dati, l'AgID adotta, all'esito della procedura di cui all'articolo 18-bis del codice dell'amministrazione digitale di cui al decreto legislativo 7 marzo 2005, n. 82, sanzioni amministrative pecuniarie da un minimo di euro 10.000 fino a un massimo di euro 100.000, ovvero, per le imprese, fino al 6 per cento del fatturato mondiale totale annuo dell'esercizio precedente.
+
+2.
+                    
+                        
+                            Le sanzioni per le violazioni di cui al comma 1 devono essere effettive, proporzionate e dissuasive e devono tenere conto dei seguenti criteri: 
+ 
+                        
+                        
+                            a)
+                            
+                                la natura, la gravita', l'entita' e la durata della violazione; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                qualsiasi azione intrapresa dal fornitore di servizi di intermediazione dei dati o da un'organizzazione per l'altruismo dei dati riconosciuta al fine di attenuare il danno derivante dalla violazione o porvi rimedio; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                qualsiasi precedente violazione da parte del fornitore di servizi di intermediazione dei dati o dell'organizzazione per l'altruismo dei dati riconosciuta; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                i vantaggi finanziari ottenuti o le perdite evitate dal fornitore di servizi di intermediazione dei dati o da un'organizzazione per l'altruismo dei dati riconosciuta in ragione della violazione, nella misura in cui tali profitti o perdite possano essere determinati in modo attendibile; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                eventuali altri fattori aggravanti o attenuanti applicabili alle circostanze del caso.
 
 Fermi restando i criteri di cui al comma 2, l'AgID, con una o piu' determinazioni, da adottare entro trenta giorni dalla data di entrata in vigore del presente decreto, puo' specificare, laddove necessario, i criteri per la determinazione dell'importo delle sanzioni per le violazioni di cui al comma 1, adottando tutte le misure necessarie per assicurarne l'effettivita', la proporzionalita', la dissuasivita' e l'applicazione.
 

@@ -8,8 +8,8 @@ vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
 vigenza_date: 2026-01-01
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:32Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -36,8 +36,65 @@ Sulla proposta del Ministro per la semplificazione e la pubblica amministrazione
 ## Art. 1. — Modifiche all'articolo 2 del decreto legislativo 
  30 marzo 2001, n. 165
 
+1.
+                        
+                            
+                                All'articolo 2, comma 2, secondo periodo, del decreto legislativo 30 marzo 2001, n. 165, sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    dopo la parola «introducano» sono inserite le seguenti: «o che abbiano introdotto»; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    dopo le parole «essere derogate» sono inserite le seguenti: «nelle materie affidate alla contrattazione collettiva ai sensi dell'articolo 40, comma 1, e nel rispetto dei principi stabiliti dal presente decreto,»; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    dopo le parole «accordi collettivi» e' inserita la seguente «nazionali»; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    le parole «, solo qualora cio' sia espressamente previsto dalla legge» sono soppresse.
+
 ## Art. 2. — Modifiche all'articolo 5 del decreto legislativo 
  30 marzo 2001, n. 165
+
+1.
+                        
+                            
+                                All'articolo 5, comma 2, del decreto legislativo 30 marzo 2001, n. 165, sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    dopo le parole «alla gestione dei rapporti di lavoro» sono inserite le seguenti: «, nel rispetto del principio di pari opportunita', e in particolare la direzione e l'organizzazione del lavoro nell'ambito degli uffici»; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le parole da «fatti salvi la sola» fino a «l'esame congiunto,» sono sostituite dalle seguenti: «fatte salve la sola informazione ai sindacati ovvero le ulteriori forme di partecipazione,»; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    l'ultimo periodo e' soppresso.
 
 ## Art. 3. — Modifiche all'articolo 30 del decreto legislativo 30 marzo 2001, n. 165
 
@@ -47,6 +104,68 @@ All'articolo 30 del decreto legislativo 30 marzo 2001, n. 165, il comma 2.2 e' s
 
 ## Art. 4. — Modifiche all'articolo 6 del decreto legislativo 
  30 marzo 2001, n. 165
+
+1.
+                        
+                            
+                                All'articolo 6 del decreto legislativo 30 marzo 2001, n. 165, sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la rubrica e' sostituita dalla seguente: «Organizzazione degli uffici e fabbisogni di personale»; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    i commi 1, 2, 3 e 4 sono sostituiti dai seguenti: 
+ «1. Le amministrazioni pubbliche definiscono l'organizzazione degli uffici per le finalita' indicate all'articolo 1, comma 1, adottando, in conformita' al piano triennale dei fabbisogni di cui al comma 2, gli atti previsti dai rispettivi ordinamenti, previa informazione sindacale, ove prevista nei contratti collettivi nazionali. 
+ 2. Allo scopo di ottimizzare l'impiego delle risorse pubbliche disponibili e perseguire obiettivi di performance organizzativa, efficienza, economicita' e qualita' dei servizi ai cittadini, le amministrazioni pubbliche adottano il piano triennale dei fabbisogni di personale, in coerenza con la pianificazione pluriennale delle attivita' e della performance, nonche' con le linee di indirizzo emanate ai sensi dell'articolo 6-ter. Qualora siano individuate eccedenze di personale, si applica l'articolo 33. Nell'ambito del piano, le amministrazioni pubbliche curano l'ottimale distribuzione delle risorse umane attraverso la coordinata attuazione dei processi di mobilita' e di reclutamento del personale, anche con riferimento alle unita' di cui all'articolo 35, comma 2. Il piano triennale indica le risorse finanziarie destinate all'attuazione del piano, nei limiti delle risorse quantificate sulla base della spesa per il personale in servizio e di quelle connesse alle facolta' assunzionali previste a legislazione vigente. 
+ 3. In sede di definizione del piano di cui al comma 2, ciascuna amministrazione indica la consistenza della dotazione organica e la sua eventuale rimodulazione in base ai fabbisogni programmati e secondo le linee di indirizzo di cui all'articolo 6-ter, nell'ambito del potenziale limite finanziario massimo della medesima e di quanto previsto dall'articolo 2, comma 10-bis, del decreto-legge 6 luglio 2012, n. 95, convertito, con modificazioni, dalla legge 7 agosto 2012, n. 135, garantendo la neutralita' finanziaria della rimodulazione. Resta fermo che la copertura dei posti vacanti avviene nei limiti delle assunzioni consentite a legislazione vigente. 
+ 4. Nelle amministrazioni statali, il piano di cui al comma 2, adottato annualmente dall'organo di vertice, e' approvato, anche per le finalita' di cui all'articolo 35, comma 4, con decreto del Presidente del Consiglio dei ministri o del Ministro delegato, su proposta del Ministro competente, di concerto con il Ministro dell'economia e delle finanze. Per le altre amministrazioni pubbliche il piano triennale dei fabbisogni, adottato annualmente nel rispetto delle previsioni di cui ai commi 2 e 3, e' approvato secondo le modalita' previste dalla disciplina dei propri ordinamenti.
+Nell'adozione degli atti di cui al presente comma, e' assicurata la preventiva informazione sindacale, ove prevista nei contratti collettivi nazionali.»; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il comma 4-bis e' abrogato; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    il comma 6 e' sostituito dal seguente: «6. Le amministrazioni pubbliche che non provvedono agli adempimenti di cui al presente articolo non possono assumere nuovo personale.»; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    dopo il comma 6 e' inserito il seguente: «6-bis. Sono fatte salve le procedure di reclutamento del personale docente, educativo e amministrativo, tecnico e ausiliario (ATA) delle istituzioni scolastiche ed educative statali, delle istituzioni di alta formazione artistica, musicale e coreutica e delle istituzioni universitarie, nonche' degli enti pubblici di ricerca di cui al decreto legislativo 25 novembre 2016, n. 218. Per gli enti del servizio sanitario nazionale sono fatte salve le particolari disposizioni dettate dalla normativa di settore.».
+
+2.
+                        
+                            
+                                All'articolo 6-bis del decreto legislativo 30 marzo 2001, n. 165, sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    al comma 1, le parole «e di dotazione organica» sono soppresse; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il comma 2 e' sostituito dal seguente: «Le amministrazioni interessate dai processi di cui al presente articolo provvedono al congelamento dei posti e alla temporanea riduzione dei fondi della contrattazione in misura corrispondente, fermi restando i processi di riallocazione e di mobilita' del personale.».
 
 Dopo l'articolo 6-bis del decreto legislativo 30 marzo 2001, n. 165, e' inserito il seguente: «Art. 6-ter (Linee di indirizzo per la pianificazione dei fabbisogni di personale). - 1. Con decreti di natura non regolamentare adottati dal Ministro per la semplificazione e la pubblica amministrazione di concerto con il Ministro dell'economia e delle finanze, sono definite, nel rispetto degli equilibri di finanza pubblica, linee di indirizzo per orientare le amministrazioni pubbliche nella predisposizione dei rispettivi piani dei fabbisogni di personale ai sensi dell'articolo 6, comma 2, anche con riferimento a fabbisogni prioritari o emergenti di nuove figure e competenze professionali. 
  2. Le linee di indirizzo di cui al comma 1 sono definite anche sulla base delle informazioni rese disponibili dal sistema informativo del personale del Ministero dell'economia e delle finanze - Dipartimento della Ragioneria generale dello Stato, di cui all'articolo 60. 
@@ -58,9 +177,88 @@ Dopo l'articolo 6-bis del decreto legislativo 30 marzo 2001, n. 165, e' inserito
 ## Art. 5. — Modifiche all'articolo 7 del decreto legislativo 
  30 marzo 2001, n. 165
 
+1.
+                        
+                            
+                                All'articolo 7 del decreto legislativo 30 marzo 2001, n. 165, sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    dopo il comma 5 e' inserito il seguente: «5-bis. E' fatto divieto alle amministrazioni pubbliche di stipulare contratti di collaborazione che si concretano in prestazioni di lavoro esclusivamente personali, continuative e le cui modalita' di esecuzione siano organizzate dal committente anche con riferimento ai tempi e al luogo di lavoro. I contratti posti in essere in violazione del presente comma sono nulli e determinano responsabilita' erariale.
+I dirigenti che operano in violazione delle disposizioni del presente comma sono, altresi', responsabili ai sensi dell'articolo 21 e ad essi non puo' essere erogata la retribuzione di risultato. Resta fermo che la disposizione di cui all'articolo 2, comma 1, del decreto legislativo 15 giugno 2015, n. 81, non si applica alle pubbliche amministrazioni.»; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    al comma 6 sono apportate le seguenti modificazioni: 
+ 1) all'alinea, le parole «Per esigenze» sono sostituite dalle seguenti: «Fermo restando quanto previsto dal comma 5-bis, per specifiche esigenze», dopo le parole «possono conferire» e' inserita la seguente «esclusivamente» e le parole «di natura occasionale o coordinata e continuativa,» sono soppresse; 
+ 2) alla lettera d), la parola «luogo,» e' soppressa; 
+ 3) al secondo periodo, le parole «di natura occasionale o coordinata e continuativa» sono soppresse; 
+ 4) al terzo periodo, le parole «Il ricorso a contratti di collaborazione coordinata e continuativa per lo svolgimento di funzioni ordinarie o l'utilizzo dei collaboratori come lavoratori subordinati» sono sostituite dalle seguenti: «Il ricorso ai contratti di cui al presente comma per lo svolgimento di funzioni ordinarie o l'utilizzo dei soggetti incaricati ai sensi del medesimo comma come lavoratori subordinati». 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    al comma 6-quater le parole «di controllo interno» sono sostituite dalle seguenti: «indipendenti di valutazione di cui all'articolo 14 del decreto legislativo 27 ottobre 2009, n. 150»; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    dopo il comma 6-quater e' inserito il seguente: «6-quinquies.
+Rimangono ferme le speciali disposizioni previste per gli enti pubblici di ricerca dall'articolo 14 del decreto legislativo 25 novembre 2016, n. 218.».
+
 ## - Capo III Reclutamento e incompatibilità
 
 ## Art. 6. — Modifiche all'articolo 35 del decreto legislativo 30 marzo 2001, n. 165
+
+1.
+                        
+                            
+                                All'articolo 35 del decreto legislativo 30 marzo 2001, n. 165, sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    al comma 3, dopo la lettera e) sono aggiunte le seguenti:
+«e-bis) facolta', per ciascuna amministrazione, di limitare nel bando il numero degli eventuali idonei in misura non superiore al venti per cento dei posti messi a concorso, con arrotondamento all'unita' superiore, fermo restando quanto previsto dall'articolo 400, comma 15, del decreto legislativo 16 aprile 1994, n. 297 e dal decreto legislativo 13 aprile 2017, n. 59; e-ter) possibilita' di richiedere, tra i requisiti previsti per specifici profili o livelli di inquadramento, il possesso del titolo di dottore di ricerca, che deve comunque essere valutato, ove pertinente, tra i titoli rilevanti ai fini del concorso.»; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    al comma 3-bis, lettera b), le parole «di collaborazione coordinata e continuativa» sono sostituite dalle seguenti: «di lavoro flessibile»; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    al comma 4, le parole «della programmazione triennale del fabbisogno di personale deliberata ai sensi dell'articolo 39 della legge 27 dicembre 1997, n. 449, e successive modificazioni ed integrazioni» sono sostituite dalle seguenti: «del piano triennale dei fabbisogni approvato ai sensi dell'articolo 6, comma 4»; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    il comma 5 e' sostituito dal seguente: «5. Fermo restando quanto previsto dall'articolo 4, comma 3-quinquies, del decreto-legge 31 agosto 2013, n. 101, convertito, con modificazioni, dalla legge 30 ottobre 2013, n. 125, per le amministrazioni di cui al comma 4, le restanti amministrazioni pubbliche, per lo svolgimento delle proprie procedure selettive, possono rivolgersi al Dipartimento della funzione pubblica e avvalersi della Commissione per l'attuazione del Progetto di Riqualificazione delle Pubbliche Amministrazioni (RIPAM), di cui al decreto interministeriale 25 luglio 1994, fatte comunque salve le competenze delle Commissioni esaminatrici. A tali fini, la Commissione RIPAM si avvale di personale messo a disposizione dall'Associazione Formez PA.»; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    dopo il comma 5 sono inseriti i seguenti: «5.1. Nell'ipotesi di cui al comma 5, il bando di concorso puo' fissare un contributo di ammissione, ai sensi dell'articolo 4, comma 3-septies del decreto-legge 31 agosto 2013, n. 101, convertito con modificazioni nella legge 31 ottobre 2013, n. 125. 
+ 5.2. Il Dipartimento della funzione pubblica, anche avvalendosi dell'Associazione Formez PA e della Commissione RIPAM, elabora, previo accordo in sede di Conferenza Unificata ai sensi dell'articolo 4 del decreto legislativo n. 281 del 1997, linee guida di indirizzo amministrativo sullo svolgimento delle prove concorsuali e sulla valutazione dei titoli, ispirate alle migliori pratiche a livello nazionale e internazionale in materia di reclutamento del personale, nel rispetto della normativa, anche regolamentare, vigente in materia. Le linee guida per le prove concorsuali e la valutazione dei titoli del personale sanitario, tecnico e professionale, anche dirigente, del Servizio sanitario nazionale sono adottate di concerto con il Ministero della salute.».
 
 ## Art. 7. — Modifiche all'articolo 37 del decreto legislativo 30 marzo 2001, n. 165
 
@@ -68,9 +266,87 @@ All'articolo 37, comma 1, del decreto legislativo 30 marzo 2001, n. 165, le paro
 
 ## Art. 8. — Modifiche all'articolo 53 del decreto legislativo 30 marzo 2001, n. 165
 
+1.
+                        
+                            
+                                All'articolo 53 del decreto legislativo 30 marzo 2001, n. 165, sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    al comma 12, il secondo e il terzo periodo sono soppressi; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    al comma 13, le parole «Entro il 30 giugno di ciascun anno le» sono sostituite dalla seguente: «Le», dopo le parole «a comunicare» e' inserita la seguente: «tempestivamente», le parole «o su apposito supporto magnetico» e le parole «, relativi all'anno precedente,» sono soppresse; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    al comma 14, primo periodo, le parole da: «o su supporto magnetico» fino a «compensi corrisposti.» sono sostituite dalle seguenti: «, tempestivamente e comunque nei termini previsti dal decreto legislativo 14 marzo 2013, n. 33, i dati di cui agli articoli 15 e 18 del medesimo decreto legislativo n. 33 del 2013, relativi a tutti gli incarichi conferiti o autorizzati a qualsiasi titolo».
+
 ## - Capo IV Lavoro flessibile
 
 ## Art. 9. — Modifiche all'articolo 36 del decreto legislativo 30 marzo 2001, n. 165
+
+1.
+                        
+                            
+                                All'articolo 36 del decreto legislativo 30 marzo 2001, n. 165, sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la rubrica e' sostituita dalla seguente: «Personale a tempo determinato o assunto con forme di lavoro flessibile»; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    al comma 2 il primo e il secondo periodo sono sostituiti dai seguenti: «Le amministrazioni pubbliche possono stipulare contratti di lavoro subordinato a tempo determinato, contratti di formazione e lavoro e contratti di somministrazione di lavoro a tempo determinato, nonche' avvalersi delle forme contrattuali flessibili previste dal codice civile e dalle altre leggi sui rapporti di lavoro nell'impresa, esclusivamente nei limiti e con le modalita' in cui se ne preveda l'applicazione nelle amministrazioni pubbliche. Le amministrazioni pubbliche possono stipulare i contratti di cui al primo periodo del presente comma soltanto per comprovate esigenze di carattere esclusivamente temporaneo o eccezionale e nel rispetto delle condizioni e modalita' di reclutamento stabilite dall'articolo 35. I contratti di lavoro subordinato a tempo determinato possono essere stipulati nel rispetto degli articoli 19 e seguenti del decreto legislativo 15 giugno 2015, n. 81, escluso il diritto di precedenza che si applica al solo personale reclutato secondo le procedure di cui all'articolo 35, comma 1, lettera b), del presente decreto. I contratti di somministrazione di lavoro a tempo determinato sono disciplinati dagli articoli 30 e seguenti del decreto legislativo 15 giugno 2015, n. 81, fatta salva la disciplina ulteriore eventualmente prevista dai contratti collettivi nazionali di lavoro.»; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    dopo il comma 2 e' inserito il seguente: «2-bis. I rinvii operati dal decreto legislativo 15 giugno 2015, n. 81, ai contratti collettivi devono intendersi riferiti, per quanto riguarda le amministrazioni pubbliche, ai contratti collettivi nazionali stipulati dall'ARAN.»; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    il comma 3 e' sostituito dal seguente: «3. Al fine di combattere gli abusi nell'utilizzo del lavoro flessibile, sulla base di apposite istruzioni fornite con direttiva del Ministro per la semplificazione e la pubblica amministrazione, le amministrazioni redigono, dandone informazione alle organizzazioni sindacali tramite invio all'Osservatorio paritetico presso l'Aran, senza nuovi o maggiori oneri per la finanza pubblica, un analitico rapporto informativo sulle tipologie di lavoro flessibile utilizzate, con l'indicazione dei dati identificativi dei titolari del rapporto nel rispetto della normativa vigente in tema di protezione dei dati personali, da trasmettere, entro il 31 gennaio di ciascun anno, ai nuclei di valutazione e agli organismi indipendenti di valutazione di cui all'articolo 14 del decreto legislativo 27 ottobre 2009, n. 150, nonche' alla Presidenza del Consiglio dei ministri - Dipartimento della funzione pubblica che redige una relazione annuale al Parlamento.»; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    i commi 5-bis e 5-ter sono abrogati; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    al comma 5-quater, primo periodo, le parole «a tempo determinato» sono soppresse; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    dopo il comma 5-quater e' inserito il seguente: «5-quinquies. Il presente articolo, fatto salvo il comma 5, non si applica al reclutamento del personale docente, educativo e amministrativo, tecnico e ausiliario (ATA), a tempo determinato presso le istituzioni scolastiche ed educative statali e degli enti locali, le istituzioni di alta formazione artistica, musicale e coreutica. Per gli enti di ricerca pubblici di cui agli articoli 1, comma 1, e 19, comma 4, del decreto legislativo 25 novembre 2016, n. 218, rimane fermo quanto stabilito dal medesimo decreto.».
 
 ## - Capo V Misure di sostegno alla disabilità
 
@@ -99,6 +375,65 @@ Dopo l'articolo 39 del decreto legislativo 30 marzo 2001, n. 165, sono inseriti 
 
 ## Art. 11. — Modifiche all'articolo 40 del decreto legislativo 30 marzo 2001, n. 165
 
+1.
+                        
+                            
+                                All'articolo 40 del decreto legislativo 30 marzo 2001, n. 165, sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il comma 1 e' sostituito dal seguente: «La contrattazione collettiva disciplina il rapporto di lavoro e le relazioni sindacali e si svolge con le modalita' previste dal presente decreto. Nelle materie relative alle sanzioni disciplinari, alla valutazione delle prestazioni ai fini della corresponsione del trattamento accessorio, della mobilita', la contrattazione collettiva e' consentita nei limiti previsti dalle norme di legge. Sono escluse dalla contrattazione collettiva le materie attinenti all'organizzazione degli uffici, quelle oggetto di partecipazione sindacale ai sensi dell'articolo 9, quelle afferenti alle prerogative dirigenziali ai sensi degli articoli 5, comma 2, 16 e 17, la materia del conferimento e della revoca degli incarichi dirigenziali, nonche' quelle di cui all'articolo 2, comma 1, lettera c), della legge 23 ottobre 1992, n. 421.»; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    al comma 2, secondo periodo, dopo le parole «Una apposita» sono inserite le seguenti: «area o»; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    al comma 3-bis, sono apportate le seguenti modificazioni: 
+ 1. al secondo periodo, dopo le parole «qualita' della performance» sono inserite le seguenti: «, destinandovi, per l'ottimale perseguimento degli obiettivi organizzativi ed individuali, una quota prevalente delle risorse finalizzate ai trattamenti economici accessori comunque denominati»; 
+ 2. il terzo periodo e' sostituito dal seguente: «La predetta quota e' collegata alle risorse variabili determinate per l'anno di riferimento.»; 
+ 3. al quarto periodo la parola «Essa» e' sostituita dalle seguenti: «La contrattazione collettiva integrativa»; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    il comma 3-ter e' sostituito dal seguente: «3-ter. Nel caso in cui non si raggiunga l'accordo per la stipulazione di un contratto collettivo integrativo, qualora il protrarsi delle trattative determini un pregiudizio alla funzionalita' dell'azione amministrativa, nel rispetto dei principi di correttezza e buona fede fra le parti, l'amministrazione interessata puo' provvedere, in via provvisoria, sulle materie oggetto del mancato accordo fino alla successiva sottoscrizione e prosegue le trattative al fine di pervenire in tempi celeri alla conclusione dell'accordo. Agli atti adottati unilateralmente si applicano le procedure di controllo di compatibilita' economico-finanziaria previste dall'articolo 40-bis. I contratti collettivi nazionali possono individuare un termine minimo di durata delle sessioni negoziali in sede decentrata, decorso il quale l'amministrazione interessata puo' in ogni caso provvedere, in via provvisoria, sulle materie oggetto del mancato accordo. E' istituito presso l'ARAN, senza nuovi o maggiori oneri a carico della finanza pubblica, un osservatorio a composizione paritetica con il compito di monitorare i casi e le modalita' con cui ciascuna amministrazione adotta gli atti di cui al primo periodo.
+L'osservatorio verifica altresi' che tali atti siano adeguatamente motivati in ordine alla sussistenza del pregiudizio alla funzionalita' dell'azione amministrativa. Ai componenti non spettano compensi, gettoni, emolumenti, indennita' o rimborsi di spese comunque denominati.»; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    il comma 3-quater e' abrogato; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    al comma 3-quinquies, al secondo periodo le parole «dei vincoli di bilancio e del patto di stabilita'» sono sostituite dalle seguenti: «degli obiettivi di finanza pubblica», e il sesto periodo e' sostituito dai seguenti: «In caso di superamento di vincoli finanziari accertato da parte delle sezioni regionali di controllo della Corte dei conti, del Dipartimento della funzione pubblica o del Ministero dell'economia e delle finanze e' fatto altresi' obbligo di recupero nell'ambito della sessione negoziale successiva, con quote annuali e per un numero massimo di annualita' corrispondente a quelle in cui si e' verificato il superamento di tali vincoli. Al fine di non pregiudicare l'ordinata prosecuzione dell'attivita' amministrativa delle amministrazioni interessate, la quota del recupero non puo' eccedere il 25 per cento delle risorse destinate alla contrattazione integrativa ed il numero di annualita' di cui al periodo precedente, previa certificazione degli organi di controllo di cui all'articolo 40-bis, comma 1, e' corrispondentemente incrementato. In alternativa a quanto disposto dal periodo precedente, le regioni e gli enti locali possono prorogare il termine per procedere al recupero delle somme indebitamente erogate, per un periodo non superiore a cinque anni, a condizione che adottino o abbiano adottato le misure di contenimento della spesa di cui all'articolo 4, comma 1, del decreto-legge 6 marzo 2014, n. 16, dimostrino l'effettivo conseguimento delle riduzioni di spesa previste dalle predette misure, nonche' il conseguimento di ulteriori riduzioni di spesa derivanti dall'adozione di misure di razionalizzazione relative ad altri settori anche con riferimento a processi di soppressione e fusione di societa', enti o agenzie strumentali. Le regioni e gli enti locali forniscono la dimostrazione di cui al periodo precedente con apposita relazione, corredata del parere dell'organo di revisione economico-finanziaria, allegata al conto consuntivo di ciascun anno in cui e' effettuato il recupero.»; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    dopo il comma 4 sono aggiunti i seguenti: 
+ «4-bis. I contratti collettivi nazionali di lavoro devono prevedere apposite clausole che impediscono incrementi della consistenza complessiva delle risorse destinate ai trattamenti economici accessori, nei casi in cui i dati sulle assenze, a livello di amministrazione o di sede di contrattazione integrativa, rilevati a consuntivo, evidenzino, anche con riferimento alla concentrazione in determinati periodi in cui e' necessario assicurare continuita' nell'erogazione dei servizi all'utenza o, comunque, in continuita' con le giornate festive e di riposo settimanale, significativi scostamenti rispetto a dati medi annuali nazionali o di settore. 
+ 4-ter. Al fine di semplificare la gestione amministrativa dei fondi destinati alla contrattazione integrativa e di consentirne un utilizzo piu' funzionale ad obiettivi di valorizzazione degli apporti del personale, nonche' di miglioramento della produttivita' e della qualita' dei servizi, la contrattazione collettiva nazionale provvede al riordino, alla razionalizzazione ed alla semplificazione delle discipline in materia di dotazione ed utilizzo dei fondi destinati alla contrattazione integrativa.».
+
 ## - Capo VII Responsabilità disciplinare
 
 ## Art. 12. — Modifiche all'articolo 55 del decreto legislativo 30 marzo 2001, n. 165
@@ -107,23 +442,300 @@ Al comma 1 dell'articolo 55 del decreto legislativo 30 marzo 2001, n. 165, e' ag
 
 ## Art. 13. — Modifiche all'articolo 55-bis del decreto legislativo 30 marzo 2001, n. 165
 
+1.
+                        
+                            
+                                All'articolo 55-bis del decreto legislativo 30 marzo 2001, n. 165, sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il comma 1 e' sostituito dal seguente: «1. Per le infrazioni di minore gravita', per le quali e' prevista l'irrogazione della sanzione del rimprovero verbale, il procedimento disciplinare e' di competenza del responsabile della struttura presso cui presta servizio il dipendente. Alle infrazioni per le quali e' previsto il rimprovero verbale si applica la disciplina stabilita dal contratto collettivo.»; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il comma 2 e' sostituito dal seguente: «2. Ciascuna amministrazione, secondo il proprio ordinamento e nell'ambito della propria organizzazione, individua l'ufficio per i procedimenti disciplinari competente per le infrazioni punibili con sanzione superiore al rimprovero verbale e ne attribuisce la titolarita' e responsabilita'.»; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il comma 3 e' sostituito dal seguente: «3. Le amministrazioni, previa convenzione, possono prevedere la gestione unificata delle funzioni dell'ufficio competente per i procedimenti disciplinari, senza maggiori oneri per la finanza pubblica.»; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    il comma 4 e' sostituito dal seguente: «4. Fermo restando quanto previsto dall'articolo 55-quater, commi 3-bis e 3-ter, per le infrazioni per le quali e' prevista l'irrogazione di sanzioni superiori al rimprovero verbale, il responsabile della struttura presso cui presta servizio il dipendente, segnala immediatamente, e comunque entro dieci giorni, all'ufficio competente per i procedimenti disciplinari i fatti ritenuti di rilevanza disciplinare di cui abbia avuto conoscenza. L'Ufficio competente per i procedimenti disciplinari, con immediatezza e comunque non oltre trenta giorni decorrenti dal ricevimento della predetta segnalazione, ovvero dal momento in cui abbia altrimenti avuto piena conoscenza dei fatti ritenuti di rilevanza disciplinare, provvede alla contestazione scritta dell'addebito e convoca l'interessato, con un preavviso di almeno venti giorni, per l'audizione in contraddittorio a sua difesa.
+Il dipendente puo' farsi assistere da un procuratore ovvero da un rappresentante dell'associazione sindacale cui aderisce o conferisce mandato. In caso di grave ed oggettivo impedimento, ferma la possibilita' di depositare memorie scritte, il dipendente puo' richiedere che l'audizione a sua difesa sia differita, per una sola volta, con proroga del termine per la conclusione del procedimento in misura corrispondente. Salvo quanto previsto dall'articolo 54-bis, comma 4, il dipendente ha diritto di accesso agli atti istruttori del procedimento. L'ufficio competente per i procedimenti disciplinari conclude il procedimento, con l'atto di archiviazione o di irrogazione della sanzione, entro centoventi giorni dalla contestazione dell'addebito. Gli atti di avvio e conclusione del procedimento disciplinare, nonche' l'eventuale provvedimento di sospensione cautelare del dipendente, sono comunicati dall'ufficio competente di ogni amministrazione, per via telematica, all'Ispettorato per la funzione pubblica, entro venti giorni dalla loro adozione. Al fine di tutelare la riservatezza del dipendente, il nominativo dello stesso e' sostituito da un codice identificativo.»; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    il comma 5 e' sostituito dal seguente: «5. La comunicazione di contestazione dell'addebito al dipendente, nell'ambito del procedimento disciplinare, e' effettuata tramite posta elettronica certificata, nel caso in cui il dipendente dispone di idonea casella di posta, ovvero tramite consegna a mano. In alternativa all'uso della posta elettronica certificata o della consegna a mano, le comunicazioni sono effettuate tramite raccomandata postale con ricevuta di ritorno. Per le comunicazioni successive alla contestazione dell'addebito, e' consentita la comunicazione tra l'amministrazione ed i propri dipendenti tramite posta elettronica o altri strumenti informatici di comunicazione, ai sensi dell'articolo 47, comma 3, secondo periodo, del decreto legislativo 7 marzo 2005, n. 82, ovvero anche al numero di fax o altro indirizzo di posta elettronica, previamente comunicati dal dipendente o dal suo procuratore.»; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    al comma 6, le parole «il capo della struttura o l'ufficio per i procedimenti disciplinari possono acquisire da altre amministrazioni pubbliche» sono sostituite dalle seguenti: «l'Ufficio per i procedimenti disciplinari puo' acquisire da altre amministrazioni pubbliche»; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    al comma 7, la parola «lavoratore» e' soppressa, dopo le parole «alla stessa» sono inserite le seguenti: «o a una diversa», le parole «o ad una diversa» sono soppresse, e le parole «dall'autorita' disciplinare» sono sostituite dalle seguenti: «dall'Ufficio disciplinare»; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    al comma 8, primo periodo, le parole «concluso o» sono sostituite dalle seguenti: «concluso e» e l'ultimo periodo e' sostituito dai seguenti: «In caso di trasferimento del dipendente in pendenza di procedimento disciplinare, l'ufficio per i procedimenti disciplinari che abbia in carico gli atti provvede alla loro tempestiva trasmissione al competente ufficio disciplinare dell'amministrazione presso cui il dipendente e' trasferito. In tali casi il procedimento disciplinare e' interrotto e dalla data di ricezione degli atti da parte dell'ufficio disciplinare dell'amministrazione presso cui il dipendente e' trasferito decorrono nuovi termini per la contestazione dell'addebito o per la conclusione del procedimento. Nel caso in cui l'amministrazione di provenienza venga a conoscenza dell'illecito disciplinare successivamente al trasferimento del dipendente, la stessa Amministrazione provvede a segnalare immediatamente e comunque entro venti giorni i fatti ritenuti di rilevanza disciplinare all'Ufficio per i procedimenti disciplinari dell'amministrazione presso cui il dipendente e' stato trasferito e dalla data di ricezione della predetta segnalazione decorrono i termini per la contestazione dell'addebito e per la conclusione del procedimento. Gli esiti del procedimento disciplinare vengono in ogni caso comunicati anche all'amministrazione di provenienza del dipendente.»; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    il comma 9 e' sostituito dal seguente: «La cessazione del rapporto di lavoro estingue il procedimento disciplinare salvo che per l'infrazione commessa sia prevista la sanzione del licenziamento o comunque sia stata disposta la sospensione cautelare dal servizio.
+In tal caso le determinazioni conclusive sono assunte ai fini degli effetti giuridici ed economici non preclusi dalla cessazione del rapporto di lavoro.»; 
+
+                                
+                            
+                            
+                                j)
+                                
+                                    dopo il comma 9 sono aggiunti i seguenti: 
+ «9-bis. Sono nulle le disposizioni di regolamento, le clausole contrattuali o le disposizioni interne, comunque qualificate, che prevedano per l'irrogazione di sanzioni disciplinari requisiti formali o procedurali ulteriori rispetto a quelli indicati nel presente articolo o che comunque aggravino il procedimento disciplinare. 
+ 9-ter. La violazione dei termini e delle disposizioni sul procedimento disciplinare previste dagli articoli da 55 a 55-quater, fatta salva l'eventuale responsabilita' del dipendente cui essa sia imputabile, non determina la decadenza dall'azione disciplinare ne' l'invalidita' degli atti e della sanzione irrogata, purche' non risulti irrimediabilmente compromesso il diritto di difesa del dipendente, e le modalita' di esercizio dell'azione disciplinare, anche in ragione della natura degli accertamenti svolti nel caso concreto, risultino comunque compatibili con il principio di tempestivita'. Fatto salvo quanto previsto dall'articolo 55-quater, commi 3-bis e 3-ter, sono da considerarsi perentori il termine per la contestazione dell'addebito e il termine per la conclusione del procedimento. 
+ 9-quater. Per il personale docente, educativo e amministrativo, tecnico e ausiliario (ATA) presso le istituzioni scolastiche ed educative statali, il procedimento disciplinare per le infrazioni per le quali e' prevista l'irrogazione di sanzioni fino alla sospensione dal servizio con privazione della retribuzione per dieci giorni e' di competenza del responsabile della struttura in possesso di qualifica dirigenziale e si svolge secondo le disposizioni del presente articolo. Quando il responsabile della struttura non ha qualifica dirigenziale o comunque per le infrazioni punibili con sanzioni piu' gravi di quelle indicate nel primo periodo, il procedimento disciplinare si svolge dinanzi all'Ufficio competente per i procedimenti disciplinari.».
+
 ## Art. 14. — Modifiche all'articolo 55-ter del decreto legislativo 30 marzo 2001, n. 165
+
+1.
+                        
+                            
+                                All'articolo 55-ter del decreto legislativo 30 marzo 2001, n. 165, sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    al comma 1, il secondo periodo e' soppresso; al terzo periodo, le parole da «Per le infrazioni» a «l'ufficio competente» sono sostituite dalle seguenti: «Per le infrazioni per le quali e' applicabile una sanzione superiore alla sospensione dal servizio con privazione della retribuzione fino a dieci giorni, l'ufficio competente per i procedimenti disciplinari» e le parole da «, salva la possibilita'» a «del dipendente.» sono sostituite dalle seguenti:
+«. Fatto salvo quanto previsto al comma 3, il procedimento disciplinare sospeso puo' essere riattivato qualora l'amministrazione giunga in possesso di elementi nuovi, sufficienti per concludere il procedimento, ivi incluso un provvedimento giurisdizionale non definitivo. Resta in ogni caso salva la possibilita' di adottare la sospensione o altri provvedimenti cautelari nei confronti del dipendente.»; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    al comma 2 le parole «l'autorita' competente» sono sostituite dalle seguenti: «l'ufficio competente per i procedimenti disciplinari»; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    al comma 3 le parole «l'autorita' competente» sono sostituite dalle seguenti: «l'ufficio competente per i procedimenti disciplinari»; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    il comma 4 e' sostituito dal seguente: «4. Nei casi di cui ai commi 1, 2 e 3, il procedimento disciplinare e', rispettivamente, ripreso o riaperto, mediante rinnovo della contestazione dell'addebito, entro sessanta giorni dalla comunicazione della sentenza, da parte della cancelleria del giudice, all'amministrazione di appartenenza del dipendente, ovvero dal ricevimento dell'istanza di riapertura. Il procedimento si svolge secondo quanto previsto nell'articolo 55-bis con integrale nuova decorrenza dei termini ivi previsti per la conclusione dello stesso. Ai fini delle determinazioni conclusive, l'ufficio procedente, nel procedimento disciplinare ripreso o riaperto, applica le disposizioni dell'articolo 653, commi 1 e 1-bis, del codice di procedura penale.».
 
 ## Art. 15. — Modifiche all'articolo 55-quater del decreto legislativo 30 marzo 2001, n. 165
 
+1.
+                        
+                            
+                                All'articolo 55-quater del decreto legislativo 30 marzo 2001, n. 165, sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    al comma 1, dopo la lettera f) sono inserite le seguenti:
+«f-bis) gravi o reiterate violazioni dei codici di comportamento, ai sensi dell'articolo 54, comma 3; 
+ f-ter) commissione dolosa, o gravemente colposa, dell'infrazione di cui all'articolo 55-sexies, comma 3; 
+ f-quater) la reiterata violazione di obblighi concernenti la prestazione lavorativa, che abbia determinato l'applicazione, in sede disciplinare, della sospensione dal servizio per un periodo complessivo superiore a un anno nell'arco di un biennio; 
+ f-quinquies) insufficiente rendimento, dovuto alla reiterata violazione degli obblighi concernenti la prestazione lavorativa, stabiliti da norme legislative o regolamentari, dal contratto collettivo o individuale, da atti e provvedimenti dell'amministrazione di appartenenza, e rilevato dalla costante valutazione negativa della performance del dipendente per ciascun anno dell'ultimo triennio, resa a tali specifici fini ai sensi dell'articolo 3, comma 5-bis, del decreto legislativo n. 150 del 2009.»; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il comma 2 e' abrogato; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    al comma 3, e' aggiunto, in fine, il seguente periodo: «Nei casi in cui le condotte punibili con il licenziamento sono accertate in flagranza, si applicano le previsioni dei commi da 3-bis a 3-quinquies.».
+
 ## Art. 16. — Modifiche all'articolo 55-quinquies del decreto legislativo 30 marzo 2001, n. 165
 
+1.
+                        
+                            
+                                All'articolo 55-quinquies del decreto legislativo 30 marzo 2001, sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    al comma 2, le parole «il danno all'immagine subiti dall'amministrazione.» sono sostituite dalle seguenti: «il danno d'immagine di cui all'articolo 55-quater, comma 3-quater.»; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    dopo il comma 3 e' aggiunto il seguente: «3-bis. Fermo restando quanto previsto dall'articolo 55-quater, comma 1, lettere a) e b), i contratti collettivi nazionali individuano le condotte e fissano le corrispondenti sanzioni disciplinari con riferimento alle ipotesi di ripetute e ingiustificate assenze dal servizio in continuita' con le giornate festive e di riposo settimanale, nonche' con riferimento ai casi di ingiustificate assenze collettive in determinati periodi nei quali e' necessario assicurare continuita' nell'erogazione dei servizi all'utenza.».
+
 ## Art. 17. — Modifiche all'articolo 55-sexies del decreto legislativo 30 marzo 2001, n. 165
+
+1.
+                        
+                            
+                                All'articolo 55-sexies del decreto legislativo 30 marzo 2001, n. 165, sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il comma 1 e' sostituito dal seguente: «1. La violazione di obblighi concernenti la prestazione lavorativa, che abbia determinato la condanna dell'amministrazione al risarcimento del danno, comporta comunque, nei confronti del dipendente responsabile, l'applicazione della sospensione dal servizio con privazione della retribuzione da un minimo di tre giorni fino ad un massimo di tre mesi, in proporzione all'entita' del risarcimento, salvo che ricorrano i presupposti per l'applicazione di una piu' grave sanzione disciplinare.»; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il comma 3 e' sostituito dal seguente: «3. Il mancato esercizio o la decadenza dall'azione disciplinare, dovuti all'omissione o al ritardo, senza giustificato motivo, degli atti del procedimento disciplinare, inclusa la segnalazione di cui all'articolo 55-bis, comma 4, ovvero a valutazioni manifestamente irragionevoli di insussistenza dell'illecito in relazione a condotte aventi oggettiva e palese rilevanza disciplinare, comporta, per i soggetti responsabili, l'applicazione della sospensione dal servizio fino a un massimo di tre mesi, salva la maggiore sanzione del licenziamento prevista nei casi di cui all'articolo 55-quater, comma 1, lettera f-ter), e comma 3-quinquies. Tale condotta, per il personale con qualifica dirigenziale o titolare di funzioni o incarichi dirigenziali, e' valutata anche ai fini della responsabilita' di cui all'articolo 21 del presente decreto. Ogni amministrazione individua preventivamente il titolare dell'azione disciplinare per le infrazioni di cui al presente comma commesse da soggetti responsabili dell'ufficio di cui all'articolo 55-bis, comma 4.».
 
 ## - Capo VIII Polo unico per le visite fiscali
 
 ## Art. 18. — Modifiche all'articolo 55-septies del decreto legislativo 30 marzo 2001, n. 165
 
+1.
+                        
+                            
+                                All'articolo 55-septies del decreto legislativo 30 marzo 2001, n. 165, sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    al comma 1 e' aggiunto, in fine, il seguente periodo: «I controlli sulla validita' delle suddette certificazioni restano in capo alle singole amministrazioni pubbliche interessate.»; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    al comma 2 la parola «inoltrata» e' sostituita dalle seguenti: «resa disponibile» e dopo le parole «all'amministrazione interessata.» e' inserito il seguente periodo: «L'Istituto nazionale della previdenza sociale utilizza la medesima certificazione per lo svolgimento delle attivita' di cui al successivo comma 3 anche mediante la trattazione dei dati riferiti alla diagnosi. I relativi certificati devono contenere anche il codice nosologico.»; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    dopo il comma 2 e' inserito il seguente: «2-bis. Gli accertamenti medico-legali sui dipendenti assenti dal servizio per malattia sono effettuati, sul territorio nazionale, in via esclusiva dall'Inps d'ufficio o su richiesta con oneri a carico dell'Inps che provvede nei limiti delle risorse trasferite delle Amministrazioni interessate. Il rapporto tra l'Inps e i medici di medicina fiscale e' disciplinato da apposite convenzioni, stipulate dall'Inps con le organizzazioni sindacali di categoria maggiormente rappresentative in campo nazionale. L'atto di indirizzo per la stipula delle convenzioni e' adottato con decreto del Ministro del lavoro e delle politiche sociali, di concerto con il Ministro per la semplificazione e la pubblica amministrazione e con il Ministro della salute, sentito l'Inps per gli aspetti organizzativo-gestionali e sentite la Federazione nazionale degli Ordini dei medici chirurghi e degli odontoiatri e le organizzazioni sindacali di categoria maggiormente rappresentative. Le convenzioni garantiscono il prioritario ricorso ai medici iscritti nelle liste di cui all'articolo 4, comma 10-bis, del decreto-legge 31 agosto 2013, n. 101, convertito, con modificazioni, dalla legge 30 ottobre 2013, n. 125, per tutte le funzioni di accertamento medico-legali sulle assenze dal servizio per malattia dei pubblici dipendenti, ivi comprese le attivita' ambulatoriali inerenti alle medesime funzioni. Il predetto atto di indirizzo stabilisce, altresi', la durata delle convenzioni, demandando a queste ultime, anche in funzione della relativa durata, la disciplina delle incompatibilita' in relazione alle funzioni di certificazione delle malattie.»; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    il comma 5-bis e' sostituito dal seguente: «5-bis. Al fine di armonizzare la disciplina dei settori pubblico e privato, con decreto del Ministro per la semplificazione e la pubblica amministrazione, di concerto con il Ministro del lavoro e delle politiche sociali, sono stabilite le fasce orarie di reperibilita' entro le quali devono essere effettuate le visite di controllo e sono definite le modalita' per lo svolgimento delle visite medesime e per l'accertamento, anche con cadenza sistematica e ripetitiva, delle assenze dal servizio per malattia. Qualora il dipendente debba allontanarsi dall'indirizzo comunicato durante le fasce di reperibilita' per effettuare visite mediche, prestazioni o accertamenti specialistici o per altri giustificati motivi, che devono essere, a richiesta, documentati, e' tenuto a darne preventiva comunicazione all'amministrazione che, a sua volta, ne da' comunicazione all'Inps.».
+
 ## - Capo IX Disposizioni transitorie e finali
 
 ## Art. 19. — Modifiche all'articolo 58 del decreto legislativo 30 marzo 2001, n. 165
 
+1.
+                        
+                            
+                                All'articolo 58 del decreto legislativo 30 marzo 2001, n. 165, sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il comma 1 e' sostituito dal seguente: «1. Al fine di realizzare il piu' efficace controllo del costo del lavoro, il Ministero dell'economia e delle finanze, d'intesa con la Presidenza del Consiglio dei ministri - Dipartimento della funzione pubblica, provvede all'acquisizione delle informazioni relative al personale di tutte le amministrazioni pubbliche e al relativo costo.»; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il comma 2 e' abrogato; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    al comma 3 le parole «Per l'immediata attivazione del sistema di controllo della spesa di personale di cui al comma 1,» sono sostituite dalle seguenti: «Per le finalita' di cui al comma 1,» e le parole «avvia un» sono sostituite dalle seguenti: «cura il».
+
 ## Art. 20. — Superamento del precariato nelle pubbliche amministrazioni
+
+1.
+                        
+                            
+                                Le amministrazioni, al fine di superare il precariato, ridurre il ricorso ai contratti a termine e valorizzare la professionalita' acquisita dal personale con rapporto di lavoro a tempo determinato, possono, fino al 31 dicembre 2023, in coerenza con il piano triennale dei fabbisogni di cui all'articolo 6, comma 2, e con l'indicazione della relativa copertura finanziaria, assumere a tempo indeterminato personale non dirigenziale che possegga tutti i seguenti requisiti: (34) ((43))
+                                
+                            
+                            
+                                a)
+                                
+                                    risulti in servizio successivamente alla data di entrata in vigore della legge n. 124 del 2015 con contratti a tempo determinato presso l'amministrazione che procede all'assunzione o, in caso di amministrazioni comunali che esercitino funzioni in forma associata, anche presso le amministrazioni con servizi associati; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    sia stato reclutato a tempo determinato, in relazione alle medesime attivita' svolte, con procedure concorsuali anche espletate presso amministrazioni pubbliche diverse da quella che procede all'assunzione; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    abbia maturato, al 31 dicembre 2022, alle dipendenze dell'amministrazione di cui alla lettera a) che procede all'assunzione, almeno tre anni di servizio, anche non continuativi, negli ultimi otto anni. (34) ((43))
+
+2.
+                        
+                            
+                                Fino al 31 dicembre 2024, le amministrazioni possono bandire, in coerenza con il piano triennale dei fabbisogni di cui all'articolo 6, comma 2, e ferma restando la garanzia dell'adeguato accesso dall'esterno, previa indicazione della relativa copertura finanziaria, procedure concorsuali riservate, in misura non superiore al cinquanta per cento dei posti disponibili, al personale non dirigenziale che possegga tutti i seguenti requisiti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    risulti titolare, successivamente alla data di entrata in vigore della legge n. 124 del 2015, di un contratto di lavoro flessibile presso l'amministrazione che bandisce il concorso; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    abbia maturato, alla data del 31 dicembre 2024, almeno tre anni di contratto, anche non continuativi, negli ultimi otto anni, presso l'amministrazione che bandisce il concorso.
 
 Anche per le finalita' connesse alla stabilizzazione delle ricerche collegate al Piano nazionale di ripresa e resilienza (PNRR), le disposizioni dei commi 1 e 2, con riferimento agli enti pubblici di ricerca di cui all'articolo 1 del decreto legislativo 25 novembre 2016, n. 218, sono prorogate fino al 31 dicembre 2026.
 
@@ -175,17 +787,137 @@ Le assunzioni a tempo indeterminato disciplinate dall'articolo 1, commi 209, 211
 
 ## Art. 21. — Modifiche all'articolo 63 del decreto legislativo 30 marzo 2001, n. 165
 
+1.
+                        
+                            
+                                All'articolo 63 del decreto legislativo 30 marzo 2001, n. 165, sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    al comma 2, sono aggiunti, in fine, i seguenti periodi: «Il giudice, con la sentenza con la quale annulla o dichiara nullo il licenziamento, condanna l'amministrazione alla reintegrazione del lavoratore nel posto di lavoro e al pagamento di un'indennita' risarcitoria commisurata all'ultima retribuzione di riferimento per il calcolo del trattamento di fine rapporto corrispondente al periodo dal giorno del licenziamento fino a quello dell'effettiva reintegrazione, e comunque in misura non superiore alle ventiquattro mensilita', dedotto quanto il lavoratore abbia percepito per lo svolgimento di altre attivita' lavorative. Il datore di lavoro e' condannato, altresi', per il medesimo periodo, al versamento dei contributi previdenziali e assistenziali.»; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    dopo il comma 2 e' inserito il seguente: «2-bis. Nel caso di annullamento della sanzione disciplinare per difetto di proporzionalita', il giudice puo' rideterminare la sanzione, in applicazione delle disposizioni normative e contrattuali vigenti, tenendo conto della gravita' del comportamento e dello specifico interesse pubblico violato.».
+
 ## Art. 22. — Disposizioni di coordinamento e transitorie
 
 Le linee di indirizzo per la pianificazione di personale di cui all'articolo 6-ter del decreto legislativo n. 165 del 2001, come introdotte dall'articolo 4, sono adottate entro novanta giorni dalla data di entrata in vigore del presente decreto. In sede di prima applicazione, il divieto di cui all'articolo 6, comma 6, del decreto legislativo n. 165 del 2001, come modificato dal presente decreto, si applica a decorrere dal 30 marzo 2018 e comunque solo decorso il termine di sessanta giorni dalla pubblicazione delle linee di indirizzo di cui al primo periodo.
 
 La disposizione di cui all'articolo 55-septies, comma 2-bis, primo periodo, del decreto legislativo 30 marzo 2001, n. 165, che attribuisce all'Inps la competenza esclusiva ad effettuare gli accertamenti medico legali sui dipendenti assenti dal servizio per malattia, si applica a decorrere dal 1° settembre 2017 e, nei confronti del personale delle istituzioni scolastiche ed educative statali, a decorrere dall'anno scolastico 2017/2018. Il decreto di adozione dell'atto di indirizzo di cui all'articolo 55-septies, comma 2-bis, del decreto legislativo n. 165 del 2001, come introdotto dal presente decreto, nonche' il decreto di cui al comma 5-bis del medesimo articolo sono adottati entro trenta giorni dalla data di entrata in vigore del presente decreto. In sede di prima applicazione, le convenzioni sono stipulate, entro il 31 agosto 2017, sentite anche le associazioni maggiormente rappresentative dei medici fiscali. L'atto di indirizzo detta altresi' la disciplina transitoria da applicarsi agli accertamenti medico-legali sui dipendenti pubblici, a decorrere dal 1° settembre 2017, in caso di mancata stipula delle predette convenzioni.
 
+3.
+                        
+                            
+                                All'articolo 17 del decreto-legge 6 luglio 2011, n. 98, convertito, con modificazioni, dalla legge 15 luglio 2011, n. 111, sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    al comma 5, dopo la lettera b) e' aggiunta la seguente: «b-bis) a decorrere dall'entrata in vigore dell'articolo 55-septies, comma 2-bis, primo periodo, del decreto legislativo 30 marzo 2001, n. 165, e' assegnato all'Istituto nazionale della previdenza sociale l'importo di 15 milioni di euro per l'anno 2017, 35 milioni di euro per l'anno 2018 e 50 milioni di euro in ragione d'anno a decorrere dall'anno 2019. A tal fine sono corrispondentemente ridotti gli stanziamenti iscritti negli stati di previsione della spesa del bilancio dello Stato, utilizzando le risorse disponibili relative all'autorizzazione di spesa di cui alla lettera b). Il Ministro dell'economia e delle finanze e' autorizzato, con proprio decreto, ad apportare le occorrenti variazioni di bilancio. Le predette risorse sono finalizzate esclusivamente ai controlli sulle assenze di cui all'articolo 55-septies, comma 2-bis, del decreto legislativo 30 marzo 2001, n. 165. L'Istituto nazionale della previdenza sociale predispone una relazione annuale al Ministero dell'economia e delle finanze e alla Presidenza del Consiglio dei ministri - Dipartimento della funzione pubblica al fine di consentire il monitoraggio sull'utilizzo di tali risorse.»; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    al comma 5-bis, sono apportate le seguenti modificazioni: 
+ 1) al primo periodo, le parole «alle regioni» sono sostituite dalle seguenti: «all'INPS» e le parole «effettuati dalle aziende sanitarie locali» sono soppresse; 
+ 2) il secondo periodo e' soppresso.
+
+4.
+                        
+                            
+                                Nel decreto legislativo 30 marzo 2001, n. 165: 
+ 
+                            
+                            
+                                a)
+                                
+                                    le parole «Ministero della ricerca scientifica», ovunque ricorrano, sono sostituite dalle seguenti: «Ministero dell'istruzione, dell'universita' e della ricerca»; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le parole «del tesoro, del bilancio e della programmazione economica» sono sostituite, ovunque ricorrano, dalle seguenti: «dell'economia e delle finanze»;
+
+5.
+                        
+                            
+                                All'articolo 60 del decreto legislativo 30 marzo 2001, n. 165, sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    al comma 1, dopo le parole «Ministero del tesoro, del bilancio e della programmazione economica» ovunque ricorrano, sono inserite le seguenti: « - Dipartimento della Ragioneria generale dello Stato», le parole «un modello di rilevazione» sono sostituite dalle seguenti: «le modalita' di acquisizione», dopo le parole «in quiescenza» sono inserite le seguenti: «presso le amministrazioni pubbliche», dopo le parole «per la loro evidenziazione» sono inserite le seguenti: «, limitatamente al personale dipendente dei ministeri,», e le parole «ai bilanci» sono sostituite dalle seguenti: «al bilancio dello Stato»; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    al comma 1, secondo periodo, le parole «altresi', un» sono sostituite dalle seguenti: «altresi', il»; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    al comma 2, primo periodo, le parole «rilevate secondo il modello» sono sostituite dalle seguenti: «rilevate secondo le modalita'» e il terzo periodo e' soppresso; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    al comma 3, dopo le parole «le aziende» sono inserite le seguenti: «e gli enti»; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    al comma 5, le parole «Ministro per la funzione pubblica» sono sostituite dalle seguenti: «Ministro per la semplificazione e la pubblica amministrazione»; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    al comma 6, secondo periodo, le parole «, dei rendimenti, dei risultati, di verifica dei carichi di lavoro» sono soppresse.
+
 Al comma 1, dell'articolo 61, del decreto legislativo 30 marzo 2001, n. 165, le parole «11-ter, comma 7, della legge 5 agosto 1978, n. 468,» sono sostituite dalle seguenti: «17, comma 12-bis, della legge 31 dicembre 2009, n. 196,» e l'ultimo periodo e' soppresso.
 
 All'articolo 4, comma 1, del decreto-legge 6 marzo 2014, n. 16, convertito, con modificazioni, dalla legge 2 maggio 2014, n. 68, dopo il primo periodo, e' inserito il seguente: «Al fine di non pregiudicare l'ordinata prosecuzione dell'attivita' amministrativa delle amministrazioni interessate, la quota del recupero non puo' eccedere il 25 per cento delle risorse destinate alla contrattazione integrativa ed il numero di annualita' di cui al periodo precedente, previa certificazione degli organi di controllo di cui all'articolo 40-bis, comma 1, del decreto legislativo 30 marzo 2001, n. 165, e' corrispondentemente incrementato.».
 
 Il divieto di cui all'articolo 7, comma 5-bis, del decreto legislativo n. 165 del 2001, come introdotto dal presente decreto, si applica a decorrere dal 1° luglio 2019.
+
+9.
+                        
+                            
+                                All'articolo 2, comma 4, del decreto legislativo n. 81 del 2015 sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    al primo periodo, le parole «Fino al completo riordino della disciplina dell'utilizzo dei contratti di lavoro flessibile da parte delle pubbliche amministrazioni, la» sono sostituite dalla seguente: «La» e la parola «medesime» e' sostituita dalle seguenti: «pubbliche amministrazioni»; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il secondo periodo e' soppresso.
 
 All'articolo 1, comma 410, della legge 11 dicembre 2016, n. 232, le parole da «articolo 2» fino a «n. 81» sono sostituite dalle seguenti: «articolo 7, comma 5-bis, del decreto legislativo 30 marzo 2001, n. 165».
 
@@ -214,6 +946,38 @@ Al fine di perseguire la progressiva armonizzazione dei trattamenti economici ac
 Nelle more di quanto previsto dal comma 1, al fine di assicurare la semplificazione amministrativa, la valorizzazione del merito, la qualita' dei servizi e garantire adeguati livelli di efficienza ed economicita' dell'azione amministrativa, assicurando al contempo l'invarianza della spesa, a decorrere dal 1° gennaio 2017, l'ammontare complessivo delle risorse destinate annualmente al trattamento accessorio del personale, anche di livello dirigenziale, di ciascuna delle amministrazioni pubbliche di cui all'articolo 1, comma 2, del decreto legislativo 30 marzo 2001, n. 165, non puo' superare il corrispondente importo determinato per l'anno 2016. A decorrere dalla predetta data l'articolo 1, comma 236, della legge 28 dicembre 2015, n. 208 e' abrogato. Per gli enti locali che non hanno potuto destinare nell'anno 2016 risorse aggiuntive alla contrattazione integrativa a causa del mancato rispetto del patto di stabilita' interno del 2015, l'ammontare complessivo delle risorse di cui al primo periodo del presente comma non puo' superare il corrispondente importo determinato per l'anno 2015, ridotto in misura proporzionale alla riduzione del personale in servizio nell'anno 2016.(3) (4) (8) (10) (11) (13) (16) (19) (28) (31) (34) (33) (37) (38) (40) (41) ((45))
 
 Fermo restando il limite delle risorse complessive previsto dal comma 2, le regioni e gli enti locali, con esclusione degli enti del Servizio sanitario nazionale, possono destinare apposite risorse alla componente variabile dei fondi per il salario accessorio, anche per l'attivazione dei servizi o di processi di riorganizzazione e il relativo mantenimento, nel rispetto dei vincoli di bilancio e delle vigenti disposizioni in materia di vincoli della spesa di personale e in coerenza con la normativa contrattuale vigente per la medesima componente variabile.
+
+4.
+                        
+                            
+                                A decorrere dal 1° gennaio 2018 e sino al 31 dicembre 2020, in via sperimentale, le regioni a statuto ordinario e le citta' Metropolitane che rispettano i requisiti di cui al secondo periodo possono incrementare, oltre il limite di cui al comma 2, l'ammontare della componente variabile dei fondi per la contrattazione integrativa destinata al personale in servizio presso i predetti enti, anche di livello dirigenziale, in misura non superiore a una percentuale della componente stabile dei fondi medesimi definita con decreto del Presidente del Consiglio dei ministri, adottato su proposta del Ministro per la semplificazione e la pubblica amministrazione, di concerto con il Ministro dell'economia e delle finanze, previo accordo in sede di Conferenza unificata di cui all'articolo 8 del decreto legislativo n. 281 del 1997, entro novanta giorni dalla entrata in vigore del presente provvedimento. Il predetto decreto individua i requisiti da rispettare ai fini della partecipazione alla sperimentazione di cui al periodo precedente, tenendo conto in particolare dei seguenti parametri: 
+ 
+                            
+                            
+                                a)
+                                
+                                    fermo restando quanto disposto dall'articolo 1, comma 557-quater, della legge n. 296 del 2006, il rapporto tra le spese di personale e le entrate correnti considerate al netto di quelle a destinazione vincolata; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il rispetto degli obiettivi del pareggio di bilancio di cui all'articolo 9 della legge 24 dicembre 2012, n. 243; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il rispetto del termine di pagamento dei debiti di natura commerciale previsti dall'articolo 41, comma 2, del decreto-legge 24 aprile 2014, n. 66; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    la dinamica del rapporto tra salario accessorio e retribuzione complessiva.
 
 Il comma 4 del presente articolo si applica, in via sperimentale, anche alle universita' statali individuate con decreto del Presidente del Consiglio dei ministri, adottato su proposta del Ministro per la semplificazione e la pubblica amministrazione, di concerto con il Ministro dell'economia e delle finanze e con il Ministro dell'istruzione, dell'universita' e della ricerca, sentita la Conferenza dei rettori delle universita' italiane, tenendo conto, in particolare, dei parametri di cui alle lettere c) e d) del secondo periodo del citato comma 4, dell'indicatore delle spese di personale previsto dall'articolo 5 del decreto legislativo 29 marzo 2012, n. 49, e dell'indicatore di sostenibilita' economico-finanziaria, come definito agli effetti dell'applicazione dell'articolo 7 del medesimo decreto legislativo n. 49 del 2012. Con il medesimo decreto e' individuata la percentuale di cui al comma 4. Sulla base degli esiti della sperimentazione, con decreto del Presidente del Consiglio dei ministri, su proposta del Ministro per la semplificazione e la pubblica amministrazione, di concerto con il Ministro dell'economia e delle finanze e con il Ministro dell'istruzione, dell'universita' e della ricerca, sentita la Conferenza dei rettori delle universita' italiane, puo' essere disposta l'applicazione in via permanente delle disposizioni di cui al presente comma.
 

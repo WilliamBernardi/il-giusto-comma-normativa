@@ -8,8 +8,8 @@ codice_redazionale: 006G0056
 vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:31Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -92,6 +92,28 @@ L'articolo 374 del codice di procedura civile e' sostituito dal seguente:
 
 ## Art. 9. — Modifiche all'articolo 375
 
+1.
+                        
+                            
+                                All'articolo 375 del codice di procedura civile sono apportate le seguenti modificazioni:
+ 
+                            
+                            
+                                a)
+                                
+                                    i numeri 2), 3), 4) e 5) del primo comma sono sostituiti dai seguenti:
+ «2) ordinare l'integrazione del contraddittorio o disporre che sia eseguita la notificazione dell'impugnazione a norma dell'articolo 332 ovvero che sia rinnovata;
+ 3) provvedere in ordine all'estinzione del processo in ogni caso diverso dalla rinuncia;
+ 4) pronunciare sulle istanze di regolamento di competenza e di giurisdizione;
+ 5) accogliere o rigettare il ricorso principale e l'eventuale ricorso incidentale per manifesta fondatezza o infondatezza, ovvero dichiararne l'inammissibilita' per mancanza dei motivi previsti nell'articolo 360 o per difetto dei requisiti previsti dall'articolo 366-bis.»;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    i commi secondo, terzo e quarto sono abrogati.
+
 ## Art. 10. — Articolo 380-bis
 
 Dopo l'articolo 380 del codice di procedura civile, e' inserito il seguente:
@@ -136,6 +158,32 @@ I primi tre commi dell'articolo 391 del codice di procedura civile sono sostitui
 
 ## Art. 16. — Modifiche all'articolo 391-bis
 
+1.
+                        
+                            
+                                All'articolo 391-bis del codice di procedura civile sono apportate le seguenti modificazioni:
+ 
+                            
+                            
+                                a)
+                                
+                                    al primo comma, dopo le parole: «Se la sentenza» sono inserite le seguenti: «o l'ordinanza pronunciata ai sensi dell'articolo 375, primo comma, numeri 4) e 5),»;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il secondo comma e' sostituito dal seguente: «La Corte decide sul ricorso in camera di consiglio nell'osservanza delle disposizioni di cui all'articolo 380-bis.»;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    dopo il secondo comma sono inseriti i seguenti:
+ «Sul ricorso per correzione dell'errore materiale pronuncia con ordinanza. Sul ricorso per revocazione pronuncia con ordinanza se lo dichiara inammissibile, altrimenti rinvia alla pubblica udienza.».
+
 ## Art. 17. — Articolo 391-ter
 
 Dopo l'articolo 391-bis del codice di procedura civile e' inserito il seguente:
@@ -151,6 +199,66 @@ Dopo l'articolo 420 del codice di procedura civile e' inserito il seguente:
  Copia del ricorso per cassazione deve, a pena di inammissibilita' del ricorso, essere depositata presso la cancelleria del giudice che ha emesso la sentenza impugnata entro venti giorni dalla notificazione del ricorso alle altre parti; il processo e' sospeso dalla data del deposito.».
 
 ## Art. 19. — Modifiche alle disposizioni per l'attuazione del codice di procedura civile
+
+1.
+                        
+                            
+                                Al titolo III delle disposizioni di attuazione del codice di procedura civile sono apportate le seguenti modificazioni:
+ 
+                            
+                            
+                                a)
+                                
+                                    all'articolo 133 e' aggiunto, in fine, il seguente comma:
+ «L'articolo 129, terzo comma, si applica altresi' se il processo si estingue dopo la pronuncia delle sentenze previste dall'articolo 360, terzo comma, del codice.»;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    dopo l'articolo 134 e' inserito il seguente:
+ «Art. 134-bis (Residenza o sede delle parti). - All'atto del deposito di ricorso, controricorso o memoria, i difensori dichiarano il luogo di residenza o la sede della parte.»;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    l'articolo 138 e' abrogato;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    l'articolo 142 e' sostituito dal seguente:
+ «Art. 142 (Ricorso di competenza delle sezioni unite e delle sezioni semplici). - Se nel ricorso sono contenuti motivi di competenza delle sezioni semplici insieme con motivi di competenza delle sezioni unite, queste, se non ritengono opportuno decidere l'intero ricorso, dopo aver deciso i motivi di propria competenza, rimettono, con ordinanza, alla sezione semplice la causa per la decisione, con separata sentenza, degli ulteriori motivi.
+ Le sezioni unite possono disporre ai sensi del primo comma anche nel caso di rimessione ai sensi dell'articolo 374, terzo comma, del codice.»;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    dopo l'articolo 146 e' inserito il seguente:
+ «Art. 146-bis (Accertamento pregiudiziale sull'efficacia, validita' ed interpretazione dei contratti e accordi collettivi). - Nel caso di cui all'articolo 420-bis del codice si applica, in quanto compatibile, l'articolo 64, commi 4, 6, 7 e 8, del decreto legislativo 30 marzo 2001, n. 165.»;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    il primo comma dell'articolo 151 e' sostituito dal seguente:
+ «La riunione, ai sensi dell'articolo 274 del codice, dei procedimenti relativi a controversie in materia di lavoro e di previdenza e di assistenza e a controversie dinanzi al giudice di pace, connesse anche soltanto per identita' delle questioni dalla cui risoluzione dipende, totalmente o parzialmente, la loro decisione, deve essere sempre disposta dal giudice, tranne nelle ipotesi che essa renda troppo gravoso o comunque ritardi eccessivamente il processo. In queste ipotesi la riunione, salvo gravi e motivate ragioni, e', comunque, disposta tra le controversie che si trovano nella stessa fase processuale. Analogamente si provvede nel giudizio di appello.»;
+
+                                
+                            
+                            
+                                g)
+                                
+                                    dopo l'articolo 144-ter e' inserito il seguente:
+ «Art. 144-quater (Restituzione del fascicolo d'ufficio e dei fascicoli di parte). - Dopo la definizione del giudizio, il fascicolo d'ufficio trasmesso ai sensi dell'articolo 369 del codice e gli atti ed i documenti depositati dalle parti e gia' prodotti nei precedenti gradi del processo sono restituiti, decorsi novanta giorni dal deposito della decisione, alla cancelleria del giudice che ha pronunciato la sentenza impugnata.».
 
 ## - Capo II Modificazioni al codice di procedura civile in materia di arbitrato
 
@@ -367,6 +475,24 @@ Al titolo VIII del libro IV del codice di procedura civile il Capo VI e' sostitu
 ## - Capo III Disposizioni finali
 
 ## Art. 26. — Modifiche all'articolo 23 della legge 23 novembre 1981, n. 689
+
+1.
+                        
+                            
+                                All'articolo 23 della legge 24 novembre 1981, n. 689, sono apportate le seguenti modificazioni:
+ 
+                            
+                            
+                                a)
+                                
+                                    al quinto comma, le parole: «ricorribile per cassazione» sono sostituite dalla seguente: «appellabile»;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'ultimo comma e' abrogato.
 
 ## Art. 27. — Disciplina transitoria
 

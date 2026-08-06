@@ -7,8 +7,8 @@ urn: urn:nir:stato:decreto.del.presidente.della.repubblica:2025-12-04;202
 vigente: true
 source: normattiva-opendata
 collection: DPR
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:48:06Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -167,4 +167,29 @@ Le risorse di cui al presente articolo non comprendono gli oneri contributivi e 
 Al personale dirigente delle Forze armate continuano ad applicarsi le disposizioni normative e quelle dei provvedimenti di concertazione vigenti gia' estese alla data di entrata in vigore del presente decreto.
 
 ## Art. 5. — Copertura finanziaria
+
+1.
+                    
+                        
+                            Agli oneri derivanti dall'attuazione del presente decreto, pari a euro 1.592.485 per l'anno 2018, euro 8.163.848 per l'anno 2019, euro 11.112.252 per l'anno 2020 si provvede: 
+ 
+                        
+                        
+                            a)
+                            
+                                quanto a euro 1.592.485 per l'anno 2018, euro 3.126.046 per l'anno 2019 e ad euro 4.470.448 per l'anno 2020 mediante corrispondente utilizzo delle disponibilita' in conto residui di cui all'articolo 1, comma 680, della legge 27 dicembre 2017, n. 205 che sono versate all'entrata del bilancio dello Stato; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                quanto a euro 5.037.802 per l'anno 2019 ed a euro 5.037.803 per l'anno 2020 mediante corrispondente utilizzo delle disponibilita' in conto residui di cui all'articolo 1, comma 442, della legge 30 dicembre 2018, n. 145 che sono versate all'entrata del bilancio dello Stato; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                quanto a euro 1.604.001 per l'anno 2020 mediante corrispondente utilizzo delle disponibilita' in conto residui di cui all'articolo 20, comma 1, del 30 dicembre 2019, n. 162 convertito, con modificazioni, dalla legge 28 febbraio 2020, n. 8 che sono versate all'entrata del bilancio dello Stato.
 

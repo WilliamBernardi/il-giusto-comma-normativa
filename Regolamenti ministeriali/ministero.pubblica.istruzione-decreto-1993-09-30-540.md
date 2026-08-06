@@ -8,8 +8,8 @@ codice_redazionale: 093G0617
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:41Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -26,6 +26,38 @@ Sentito il Consiglio nazionale della pubblica istruzione che ha espresso il prop
 Udito il parere del Consiglio di Stato espresso nell'adunanza generale del 24 giugno 1993;
 
 ## Art. 1.
+
+1.
+                    
+                        
+                            A decorrere dall'anno accademico in corso all'atto di entrata in vigore del presente regolamento gli allievi delle accademie di belle arti, fermi restando gli esami annuali relativi alle materie fondamentali d'insegnamento previste dal regio decreto 29 giugno 1924, n. 1239, per essere ammessi agli esami di diploma dovrano aver superato almeno gli esami finali relativi:
+ 
+                        
+                        
+                            a)
+                            
+                                a sette materie complementari, se iscritti al corso di pittura;
+
+                            
+                        
+                        
+                            b)
+                            
+                                a otto materie complementari, se iscritti al corso di scultura;
+
+                            
+                        
+                        
+                            c)
+                            
+                                a sei materie complementari, se iscritti al corso di decorazione;
+
+                            
+                        
+                        
+                            d)
+                            
+                                a nove materie complementari, se iscritti al corso di scenografia.
 
 Le votazioni relative alle materie di cui al regio decreto 29 giugno 1924, n. 1239 e alle materie complementari di cui al decreto del Ministro della pubblica istruzione 13 aprile 1992, vengono espressi in trentesimi dalle commissioni costituite ai sensi dell'articolo 132 del decreto legislativo luogotenenziale 5 maggio 1918, n. 1852, relativamente alle materie fondamentali e dell'art. 1, comma 3, allegato B, del decreto del Ministro della pubblica istruzione 13 aprile 1992, relativamente alle materie complementari.
 

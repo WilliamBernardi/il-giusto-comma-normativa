@@ -8,8 +8,8 @@ codice_redazionale: 010G0231
 vigente: true
 source: normattiva-opendata
 collection: DPR
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:47:54Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -111,6 +111,31 @@ Salvo quanto espressamente previsto, la disciplina degli aspetti giuridici ed ec
 
 ## Art. 3. — Struttura del trattamento economico
 
+1.
+                    
+                        
+                            La struttura del trattamento economico dei funzionari appartenenti alla carriera diplomatica, a decorrere dal 1° gennaio 2008, e' articolata nelle seguenti componenti: 
+ 
+                        
+                        
+                            a)
+                            
+                                stipendio tabellare, retribuzione individuale di anzianita', ove acquisita e spettante, e indennita' integrativa speciale; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                retribuzione di posizione, correlata alle posizioni funzionali ricoperte; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                retribuzione di risultato, correlata ai risultati conseguiti rispetto agli obiettivi assegnati.
+
 Il trattamento economico di cui al comma 1 e' onnicomprensivo e remunera tutte le funzioni, i compiti e gli incarichi attribuiti ai funzionari diplomatici.
 
 ## Art. 4. — Stipendio tabellare
@@ -155,11 +180,109 @@ Le risorse del fondo di cui al comma 1 eventualmente non utilizzate alla fine de
 
 ## Art. 7. — Retribuzione di posizione
 
+1.
+                    
+                        
+                            A decorrere dal 1° gennaio 2009 le misure della retribuzione di posizione, correlata alle posizioni funzionali individuate nell'articolo 1 del decreto del Ministro degli affari esteri n. 1069 del 30 aprile 2008, sono rideterminate nei seguenti valori annui lordi per tredici mensilita': 
+ 
+                        
+                        
+                            a)
+                            
+                                Segretario Generale, euro 205.000,00; 
+ b1) Capo di Gabinetto, Vice Segretario Generale, euro 115.000,00; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                Capo del Cerimoniale diplomatico e rimanenti posizioni funzionali di cui all'articolo 1, lettera b del decreto del Ministro degli affari esteri n. 1069 del 30 aprile 2008, euro 93.300,00; 
+ c1) Vice Capo di Gabinetto, e rimanenti posizioni funzionali di cui all'articolo 1, lettera c1 del decreto del Ministro degli affari esteri n. 1069 del 30 aprile 2008 euro 60.000,00; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                Capo della segreteria di Vice Ministro, Capo di Unita', euro 54.000,00; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                Capo Ufficio e rimanenti posizioni funzionali di cui all'articolo 1, lettera d del decreto del Ministro degli affari esteri n. 1069 del 30 aprile 2008,euro 33.700,00; 
+ e1) Funzionario vicario di Capo Ufficio; funzionario vicario di Capo della Segreteria di Vice Ministro, di Sottosegretario di Stato, di Direzione generale, del Cerimoniale Diplomatico della Repubblica, dell'Ispettorato Generale del Ministero e degli uffici all'estero, del Servizio stampa ed informazione, euro 16.000,00; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                Capo sezione, euro 14.400,00; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                Funzionario addetto agli uffici, euro 10.662,80.
+
 Per i funzionari diplomatici collocati alle dirette dipendenze dei capi degli uffici di livello dirigenziale generale con un incarico di consulenza, ricerca e studio o di trattazione di particolari materie, di cui all'articolo 2 del decreto del Ministro degli affari esteri 30 aprile 2008, n. 1069, la retribuzione di posizione e' fissata in base al livello delle funzioni svolte, secondo quanto previsto nel predetto decreto, nelle misure di cui alle lettere c), d) ed e) dell'articolo 1 del decreto medesimo.
 
 Le misure minime della retribuzione di posizione per ciascun grado della carriera diplomatica, tenuto conto di quanto stabilito al comma 1, nonche' all'articolo 16 del decreto del Presidente della Repubblica 5 gennaio 1967, n. 18, come sostituito dall'articolo 16 del decreto legislativo 24 marzo 2000, n. 85, rimangono determinate, per il biennio economico 1° gennaio 2008-31 dicembre 2009, nei valori annui lordi per tredici mensilita' stabiliti nell'articolo 20, comma 3, del decreto del Presidente della Repubblica 20 gennaio 2006, n. 107.
 
 ## Art. 8. — Retribuzione di risultato
+
+1.
+                    
+                        
+                            Ferme restando le disposizioni di cui all'articolo 19 del decreto del Presidente della Repubblica 20 febbraio 2001, n. 114, a decorrere dal 1° gennaio 2009, i parametri della retribuzione di risultato, correlati alle diverse posizioni funzionali individuate nell'articolo 1 del decreto del Ministro degli affari esteri n. 1069 del 30 aprile 2008 e successive modificazioni, sono definiti come segue: 
+ 
+                        
+                        
+                            a)
+                            
+                                Segretario Generale: 100,00; 
+ b1) Capo di Gabinetto, Vice Segretario Generale: 78,75; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                Capo del Cerimoniale diplomatico e rimanenti posizioni funzionali di cui all'articolo 1, lettera b del decreto del Ministro degli affari esteri n. 1069 del 30 aprile 2008 : 72,90; 
+ c1) Vice Capo di Gabinetto, e rimanenti posizioni funzionali di cui all'articolo 1, lettera c1 del decreto del Ministro degli affari esteri n. 1069 del 30 aprile 2008: 52,20; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                Capo della segreteria di Vice Ministro, Capo di Unita': 51,70; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                Capo Ufficio e rimanenti posizioni funzionali di cui all'articolo 1, lettera d del decreto del Ministro degli affari esteri n. 1069 del 30 aprile 2008: 26,00; 
+ e1) Funzionario vicario di Capo Ufficio; funzionario vicario di Capo della Segreteria di Vice Ministro, di Sottosegretario di Stato, di Direzione generale, del Cerimoniale Diplomatico della Repubblica, dell'Ispettorato Generale del Ministero e degli uffici all'estero, del Servizio stampa ed informazione: 19,00; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                Capo sezione: 11,80; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                Funzionario addetto agli uffici: 9,90.
 
 ## Art. 9. — Funzionari diplomatici comandati o collocati fuori ruolo nell'interesse del Ministero degli affari esteri
 

@@ -7,8 +7,8 @@ urn: urn:nir:ministero.interno:decreto:2020-04-30;57
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:40Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -56,7 +56,89 @@ Il punteggio della prova preselettiva non concorre alla formazione del voto fina
 
 Le prove di esame sono costituite da due prove scritte e da una prova orale.
 
+2.
+                        
+                            
+                                La prima prova scritta consiste nella stesura di un elaborato ovvero nella risposta sintetica a quesiti, senza l'ausilio di strumenti informatici, e verte, congiuntamente o disgiuntamente, sulle seguenti materie: 
+ 
+                            
+                            
+                                a)
+                                
+                                    architettura e sviluppo di applicativi software; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    architettura e sviluppo di reti di telecomunicazione.
+
+3.
+                        
+                            
+                                La seconda prova scritta consiste nella risoluzione di quesiti a risposta multipla e verte sulle seguenti materie: 
+ 
+                            
+                            
+                                a)
+                                
+                                    gestione dei moderni sistemi di elaborazione dati; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    paradigmi di sviluppo, verifica e rilascio di software; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    utilizzo dei database management systems; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    elementi su sistemi ed apparati di telecomunicazioni; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    sicurezza informatica.
+
 Sono ammessi alla prova orale i candidati che abbiano riportato in ciascuna prova scritta una votazione non inferiore a 21/30 (ventuno/trentesimi).
+
+5.
+                        
+                            
+                                La prova orale verte, oltre che sulle materie oggetto delle prove scritte di cui ai commi 2 e 3, sulle seguenti materie: 
+ 
+                            
+                            
+                                a)
+                                
+                                    elementi di diritto costituzionale e amministrativo; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    informatizzazione della pubblica amministrazione, con particolare riferimento al codice dell'amministrazione digitale; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    ordinamento del Ministero dell'interno, con particolare riferimento al Dipartimento, e ordinamento del personale del Corpo nazionale.
 
 Nell'ambito della prova orale e' accertata la conoscenza della lingua straniera, scelta dal candidato all'atto della presentazione della domanda, tra quelle indicate nel bando di concorso.
 
@@ -87,7 +169,78 @@ L'identificazione informatica dei candidati che partecipano alla procedura conco
 
 Le prove di esame sono costituite da una prova scritta e da una prova orale. La prova scritta consiste nella stesura di un elaborato ovvero nella risposta sintetica a quesiti, senza l'ausilio di strumenti informatici, nelle materie indicate al comma 2.
 
+2.
+                        
+                            
+                                La prova scritta verte, congiuntamente o disgiuntamente, sulle seguenti materie: 
+ 
+                            
+                            
+                                a)
+                                
+                                    sistemi di elaborazione dati; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    tecniche di sviluppo di applicativi software; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    utilizzo dei database management systems; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    elementi sulle tecnologie di sviluppo delle reti di telecomunicazione; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    elementi di sicurezza informatica.
+
 Sono ammessi alla prova orale i candidati che abbiano riportato nella prova scritta una votazione non inferiore a 21/30 (ventuno/trentesimi).
+
+4.
+                        
+                            
+                                La prova orale verte, oltre che sulle materie di cui al comma 2, sulle seguenti materie: 
+ 
+                            
+                            
+                                a)
+                                
+                                    elementi di diritto costituzionale e amministrativo; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    informatizzazione della pubblica amministrazione, con particolare riferimento al codice dell'amministrazione digitale; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    ordinamento del Ministero dell'interno, con particolare riferimento al Dipartimento; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    ordinamento del personale del Corpo nazionale.
 
 Nell'ambito della prova orale e' accertata la conoscenza della lingua straniera, scelta dal candidato all'atto della presentazione della domanda, tra quelle indicate nel bando di concorso.
 
@@ -98,6 +251,78 @@ La prova orale si intende superata se il candidato ottiene una votazione non inf
 Titoli e anzianita' di servizio
 
 La commissione esaminatrice valuta, in base alle categorie e ai punteggi indicati nel presente articolo, i seguenti titoli: titoli di studio e abilitazioni professionali, corsi di formazione e aggiornamento professionale; valuta, altresi', secondo i punteggi di cui al comma 5, l'anzianita' di effettivo servizio.
+
+2.
+                        
+                            
+                                I titoli di studio ammessi a valutazione, con i relativi punteggi, sono: 
+ 
+                            
+                            
+                                a)
+                                
+                                    lauree universitarie ad indirizzo informatico di seguito indicate o equiparate: punti 2,50 
+ 1. scienze e tecnologie informatiche (L-31); 
+ 2. ingegneria dell'informazione (L-8); 
+ 3. scienze matematiche (L-35); 
+ 4. scienze e tecnologie fisiche (L-30); 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    lauree universitarie diverse da quelle indicate alla lettera a): punti 1,25; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    lauree magistrali ad indirizzo informatico di seguito indicate o equiparate: punti 3,50 
+ 1. fisica (LM-17); 
+ 2. informatica (LM-18); 
+ 3. ingegneria dell'automazione (LM-25); 
+ 4. ingegneria delle telecomunicazioni (LM-27); 
+ 5. ingegneria informatica (LM-32); 
+ 6. matematica (LM-40); 
+ 7. sicurezza informatica (LM-66); 
+ 8. tecniche e metodi per la societa' dell'informazione (LM-91); 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    lauree magistrali diverse da quelle indicate alla lettera c): punti 1,75; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    master universitario di I livello: punti 0,20; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    master universitario di II livello: punti 0,30; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    diploma di specializzazione, conseguito al termine di un corso di specializzazione istituito dalle Universita': punti 0,50; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    abilitazione professionale correlata alle lauree di cui alle lettere a) e c): punti 0,50. Tale punteggio non e' cumulabile qualora il candidato sia in possesso di piu' abilitazioni.
 
 I punteggi dei titoli di studio di cui al comma 2, sono fra loro cumulabili, fino al raggiungimento del punteggio massimo complessivo pari a punti 4,00, ad eccezione di quelli relativi a lauree universitarie e lauree magistrali afferenti al medesimo corso di laurea.
 

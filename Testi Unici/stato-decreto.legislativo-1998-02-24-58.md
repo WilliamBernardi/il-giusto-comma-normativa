@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Testi Unici
 vigenza_date: 2026-06-06
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:40:01Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -28,15 +28,591 @@ Sulla proposta del Presidente del Consiglio dei Ministri e dei Ministri del teso
 
 ## Art. 1. — Definizioni
 
+1.
+                        
+                            
+                                Nel presente decreto legislativo si intendono per: 
+ 
+                            
+                            
+                                a)
+                                
+                                    "legge fallimentare": il regio decreto 16 marzo 1942, n. 267 e successive modificazioni; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    "Testo Unico bancario" (T.U. bancario): il decreto legislativo 1 settembre 1993, n. 385 e successive modificazioni; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    "CONSOB": la Commissione nazionale per le societa' e la borsa; 
+
+                                
+                            
+                            
+                                c-bis)
+                                
+                                    "COVIP": la Commissione di vigilanza sui fondi pensione; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    'IVASS': L'Istituto per la Vigilanza sulle Assicurazioni; 
+
+                                
+                            
+                            
+                                d-bis)
+                                
+                                    "SEVIF": il Sistema europeo di vigilanza finanziaria composto dalle seguenti parti: 
+ 1) "ABE": Autorita' bancaria europea, istituita con regolamento (UE) n. 1093/2010; 
+ 2) "AEAP": Autorita' europea delle assicurazioni e delle pensioni aziendali e professionali, istituita con regolamento (UE) n. 1094/2010; 
+ 3) "AESFEM": Autorita' europea degli strumenti finanziari e dei mercati, istituita con regolamento (UE) n. 1095/2010; 
+ 4) "Comitato congiunto": il Comitato congiunto delle Autorita' europee di vigilanza, previsto dall'articolo 54 del regolamento (UE) n. 1093/2010, del regolamento (UE) n. 1094/2010, del regolamento (UE) n. 1095/2010; 
+ 5) "CERS": Comitato europeo per il rischio sistemico, istituito dal regolamento (UE) n. 1092/2010; 
+ 6) "Autorita' di vigilanza degli Stati membri": le autorita' competenti o di vigilanza degli Stati membri specificate negli atti dell'Unione di cui all'articolo 1, paragrafo 2, del regolamento (UE) n. 1093/2010, del regolamento (UE) n. 1094/2010 e del regolamento (UE) n. 1095/2010; 
+
+                                
+                            
+                            
+                                d-ter)
+                                
+                                    "UE": l'Unione europea; (73) 
+ d-ter.1) "Meccanismo di Vigilanza Unico (MVU)": il sistema di vigilanza finanziaria composto dalla Banca Centrale Europea e dalle autorita' nazionali competenti degli Stati membri che vi partecipano; 
+ d-ter.2) "Meccanismo di Risoluzione Unico (MRU)": il sistema di risoluzione istituito ai sensi del Regolamento (UE) 806/2014, composto dal Comitato di Risoluzione Unico e dalle autorita' nazionali di risoluzione degli Stati membri che vi partecipano; 
+
+                                
+                            
+                            
+                                d-quater)
+                                
+                                    "impresa di investimento": l'impresa la cui occupazione o attivita' abituale consiste nel prestare uno o piu' servizi di investimento a terzi e/o nell'effettuare una o piu' attivita' di investimento a titolo professionale; (73) 
+
+                                
+                            
+                            
+                                d-quinquies)
+                                
+                                    "banca": la banca come definita dall'articolo 1, comma 1, lettera b), del Testo unico bancario; (73) 
+
+                                
+                            
+                            
+                                d-sexies)
+                                
+                                    "banca dell'Unione europea" o "banca UE": la banca avente sede legale e amministrazione centrale in un medesimo Stato dell'Unione europea diverso dall'Italia; (73) 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    "societa' di intermediazione mobiliare" (Sim): l'impresa di investimento avente forma di persona giuridica con sede legale e direzione generale in Italia, diversa dalle banche e dagli intermediari finanziari iscritti nell'albo previsto dall'articolo 106 del T.U. bancario, autorizzata a svolgere servizi o attivita' di investimento; (73) 
+
+                                
+                            
+                            
+                                e-bis)
+                                
+                                    "Sim di classe 1": la Sim che soddisfa i requisiti previsti dall'articolo 4, paragrafo 1, punto 1), lettera b), del regolamento (UE) n. 575/2013; 
+
+                                
+                            
+                            
+                                e-ter)
+                                
+                                    "Sim di classe 1-minus": la Sim che soddisfa i requisiti previsti dall'articolo 1, paragrafo 2, lettere a) o b), del regolamento (UE) 2019/2033, o la Sim destinataria di una decisione dell'autorita' competente ai sensi dell'articolo 7-undecies, commi 3 o 4; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    "impresa di investimento dell'Unione europea" o "impresa di investimento UE": l'impresa di investimento, diversa dalla banca, autorizzata a svolgere servizi o attivita' di investimento, avente sede legale e direzione generale in un medesimo Stato dell'Unione europea, diverso dall'Italia; (73) 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    "impresa di paesi terzi": l'impresa che non ha la propria sede legale o direzione generale nell'Unione europea, la cui attivita' e' corrispondente a quella di un'impresa di investimento UE o di una banca UE che presta servizi o attivita' di investimento; (73) 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    LETTERA ABROGATA DAL D.LGS. 3 AGOSTO 2017, N. 129; (73) 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    "societa' di investimento a capitale variabile" (Sicav): l'Oicr aperto costituito in forma di societa' per azioni a capitale variabile con sede legale e direzione generale in Italia avente per oggetto esclusivo l'investimento collettivo del patrimonio raccolto mediante l'offerta di proprie azioni ((...)); 
+ i.1) (("societa' di investimento a capitale variabile in gestione interna" (Sicav in gestione interna): la Sicav che gestisce direttamente il proprio patrimonio;)) 
+ i.2) (("societa' di investimento a capitale variabile in gestione interna autorizzata" (Sicav in gestione interna autorizzata): la Sicav in gestione interna iscritta all'albo di cui all'articolo 35-ter;)) 
+ i.3) (("societa' di investimento a capitale variabile in gestione esterna" (Sicav in gestione esterna): la Sicav che designa come gestore esterno una Sgr autorizzata o una societa' di gestione UE o un GEFIA UE secondo quanto previsto dall'articolo 38;))
+                                    
+                                
+                            
+                            
+                                i-bis)
+                                
+                                    "societa' di investimento a capitale fisso" (Sicaf): l'Oicr chiuso costituito in forma di societa' per azioni a capitale fisso con sede legale e direzione generale in Italia avente per oggetto esclusivo l'investimento collettivo del patrimonio raccolto mediante l'offerta di proprie azioni e di altri strumenti finanziari partecipativi ((...)); 
+ i-bis.1) (("societa' di investimento a capitale fisso in gestione interna" (Sicaf in gestione interna): la Sicaf che gestisce direttamente il proprio patrimonio;)) 
+ i-bis.2) (("societa' di investimento a capitale fisso in gestione interna autorizzata" (Sicaf in gestione interna autorizzata): la Sicaf in gestione interna iscritta all'albo di cui all'articolo 35-ter;)) 
+ i-bis.3) (("societa' di investimento a capitale fisso sotto soglia registrata" (Sicaf sotto soglia registrata): la Sicaf in gestione interna iscritta nel registro di cui all'articolo 35-quaterdecies che gestisce il proprio patrimonio nei limiti e alle condizioni previsti dalla parte II, titolo III, capo I-ter;)) 
+ i-bis.4) (("societa' di investimento a capitale fisso in gestione esterna" (Sicaf in gestione esterna): la Sicaf che designa come gestore esterno una Sgr autorizzata, un gestore di fondi EuVECA disciplinato ai sensi del regolamento (UE) 345/2013 del Parlamento europeo e del Consiglio, del 17 aprile 2013, un gestore di fondi EuSEF disciplinato ai sensi del regolamento (UE) 346/2013 del Parlamento europeo e del Consiglio, del 17 aprile 2013, o un GEFIA UE secondo quanto previsto dall'articolo 38;))
+                                    
+                                
+                            
+                            
+                                i-ter)
+                                
+                                    "personale": i dipendenti e coloro che comunque operano sulla base di rapporti che ne determinano l'inserimento nell'organizzazione aziendale, anche in forma diversa dal rapporto di lavoro subordinato; 
+
+                                
+                            
+                            
+                                i-quater)
+                                
+                                    
+                                        ((LETTERA ABROGATA DAL D.LGS. 27 MARZO 2026, N. 47)); 
+ i-quater.1) (("societa' di partenariato": l'Oicr chiuso costituito in forma di societa' in accomandita per azioni con sede legale e direzione generale in Italia avente per oggetto esclusivo l'investimento collettivo nelle forme del private equity e del venture capital del patrimonio raccolto mediante l'offerta delle proprie azioni, di strumenti finanziari partecipativi, nonche' mediante le ulteriori modalita' di raccolta definite nello statuto;)) 
+ i-quater.2) (("societa' di partenariato in gestione interna": la societa' di partenariato che gestisce direttamente il proprio patrimonio;)) 
+ i-quater.3) (("societa' di partenariato in gestione interna autorizzata": la societa' di partenariato in gestione interna iscritta all'albo di cui all'articolo 35-novies.2;)) 
+ i-quater.4) (("societa' di partenariato sotto soglia registrata": la societa' di partenariato in gestione interna iscritta nel registro di cui all'articolo 35-quaterdecies che gestisce il proprio patrimonio nei limiti e alle condizioni previsti dalla parte II, titolo III, capo I-ter;)) 
+ i-quater.5) (("societa' di partenariato in gestione esterna": la societa' di partenariato che designa come gestore esterno una Sgr autorizzata, un gestore di fondi EuVECA disciplinato ai sensi del regolamento (UE) 345/2013 del Parlamento europeo e del Consiglio, del 17 aprile 2013, un gestore di fondi EuSEF disciplinato ai sensi del regolamento (UE) 346/2013 del Parlamento europeo e del Consiglio, del 17 aprile 2013, o un GEFIA UE secondo quanto previsto dall'articolo 38-bis;)) 
+ i-quater.6) (("private equity e venture capital": l'attivita' che consiste nell'investimento in imprese non quotate nei mercati regolamentati, attraverso strumenti di capitale, di debito, o altre forme similari, incluso l'investimento ulteriore nelle predette imprese successivamente all'eventuale ammissione delle stesse alla quotazione;))
+                                    
+                                
+                            
+                            
+                                j)
+                                
+                                    'fondo comune di investimento': l'Oicr costituito in forma di patrimonio autonomo, suddiviso in quote, istituito e gestito da un gestore; 
+
+                                
+                            
+                            
+                                k)
+                                
+                                    'Organismo di investimento collettivo del risparmio' (Oicr): l'organismo istituito per la prestazione del servizio di gestione collettiva del risparmio, il cui patrimonio e' raccolto tra una pluralita' di investitori mediante l'emissione e l'offerta di quote o azioni, gestito in monte nell'interesse degli investitori e in autonomia dai medesimi nonche' investito ((nelle attivita' di cui all'articolo 39-bis)) in base a una politica di investimento predeterminata; (60) (132) 
+
+                                
+                            
+                            
+                                k-bis)
+                                
+                                    'Oicr aperto': l'Oicr i cui partecipanti hanno il diritto di chiedere il rimborso delle quote o azioni a valere sul patrimonio dello stesso, secondo le modalita' e con la frequenza previste dal regolamento, dallo statuto e dalla documentazione d'offerta dell'Oicr; 
+ k-ter)'Oicr chiuso': l'Oicr diverso da quello aperto; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    
+                                        (("Oicr italiano": il fondo comune d'investimento, la Sicav, la Sicaf e la societa' di partenariato;))
+                                    
+                                
+                            
+                            
+                                m)
+                                
+                                    
+                                        (("Organismo di investimento collettivo in valori mobiliari italiano" (OICVM italiano): il fondo comune di investimento e la Sicav rientranti nell'ambito di applicazione della direttiva 2009/65/CE del Parlamento europeo e del Consiglio, del 13 luglio 2009;))
+                                    
+                                
+                            
+                            
+                                m-bis)
+                                
+                                    'Organismi di investimento collettivo in valori mobiliari UE' (OICVM UE): gli Oicr rientranti nell'ambito di applicazione della direttiva 2009/65/CE, costituiti in uno Stato dell'UE diverso dall'Italia; 
+
+                                
+                            
+                            
+                                m-ter)
+                                
+                                    
+                                        (("Oicr alternativo italiano" (FIA italiano): il fondo comune di investimento, la Sicav, la Sicaf e la societa' di partenariato rientranti nell'ambito di applicazione della direttiva 2011/61/UE del Parlamento europeo e del Consiglio, dell'8 giugno 2011;)) 
+ m-ter.1) (("Oicr societario in gestione esterna": la Sicav in gestione esterna, la Sicaf in gestione esterna e la societa' di partenariato in gestione esterna;)) 
+ m-quater)'FIA italiano riservato': il FIA italiano la cui partecipazione e' riservata a investitori professionali e alle categorie di investitori individuate dal regolamento di cui all'articolo 39; 
+ m-quater.1) (("FIA italiano immobiliare": il fondo comune di investimento e la Sicaf che investono in beni immobili, diritti reali immobiliari, ivi inclusi quelli derivanti da contratti di leasing immobiliare con natura traslativa e da rapporti concessori, partecipazioni in societa' immobiliari, parti di altri FIA immobiliari, anche esteri, nella misura indicata dal regolamento di cui all'articolo 39;)) 
+ m-quater.2) (("partecipazioni in societa' immobiliari": le partecipazioni in societa' di capitali che svolgono attivita' di costruzione, valorizzazione, acquisto, alienazione e gestione di immobili;)) 
+ m-quinquies) (("Oicr alternativo UE" (FIA UE): l'Oicr rientrante nell'ambito di applicazione della direttiva 2011/61/UE del Parlamento europeo e del Consiglio, dell'8 giugno 2011, costituito in uno Stato dell'Unione europea diverso dall'Italia;)) 
+ m-sexies) (("Oicr alternativo non UE" (FIA non UE): l'Oicr rientrante nell'ambito di applicazione della direttiva 2011/61/UE del Parlamento europeo e del Consiglio, dell'8 giugno 2011, costituito in uno Stato non appartenente all'Unione europea;)) 
+ m-septies)'fondo europeo per il venture capital' (EuVECA): l'Oicr rientrante nell'ambito di applicazione del regolamento (UE) n. 345/2013; 
+ m-octies) 'fondo europeo per l'imprenditoria sociale' (EuSEF); l'Oicr rientrante nell'ambito di applicazione del regolamento (UE) n. 346/2013; 
+ m-octies.1) "fondo di investimento europeo a lungo termine" (ELTIF): l'Oicr rientrante nell'ambito di applicazione del regolamento (UE) n. 2015/760; 
+ m-octies.2) "fondo comune monetario" (FCM): l'Oicr rientrante nell'ambito di applicazione del regolamento (UE) 2017/1131; 
+ m-novies) 'Oicr feeder': l'Oicr che investe le proprie attivita' totalmente o in prevalenza nell'Oicr master; 
+ m-decies) 'Oicr master': l'Oicr nel quale uno o piu' Oicrfeeder investono totalmente o in prevalenza le proprie attivita'; 
+ m-undecies) (("clienti professionali o investitori professionali": i clienti professionali ai sensi dell'articolo 6, commi 2-quater, lettere d-bis) e d-ter), e 2-sexies, nonche' gli enti di cui al decreto legislativo 30 giugno 1994, n. 509 e al decreto legislativo 10 febbraio 1996, n. 103;)) 
+ m-undecies.1) "Business Angel": gli investitori a supporto dell'innovazione che hanno investito in maniera diretta o indiretta una somma pari ad almeno euro 40.000 nell'ultimo triennio; 
+ m-duodecies) "clienti al dettaglio o investitori al dettaglio": i clienti o gli investitori che non sono clienti professionali o investitori professionali; (73) 
+
+                                
+                            
+                            
+                                n)
+                                
+                                    'gestione collettiva del risparmio': il servizio che si realizza attraverso la gestione di Oicr e dei relativi rischi; 
+
+                                
+                            
+                            
+                                o)
+                                
+                                    "societa' di gestione del risparmio" (SGR): la societa' per azioni con sede legale e direzione generale in Italia ((che presta il servizio di gestione collettiva del risparmio)); 
+ o.1) (("societa' di gestione del risparmio autorizzata" (Sgr autorizzata): la societa' di gestione del risparmio iscritta all'albo di cui all'articolo 35;)) 
+ o.2) (("societa' di gestione del risparmio sotto soglia registrata" (Sgr sotto soglia registrata): la Sgr iscritta nel registro di cui all'articolo 35-quaterdecies che gestisce FIA italiani nei limiti e alle condizioni previsti dalla parte II, titolo III, capo I-ter;))
+                                    
+                                
+                            
+                            
+                                o-bis)
+                                
+                                    'societa' di gestione UE': la societa' autorizzata ai sensi della direttiva 2009/65/CE in uno Stato dell'UE diverso dall'Italia, che esercita l'attivita' di gestione di uno o piu' OICVM; 
+
+                                
+                            
+                            
+                                p)
+                                
+                                    'gestore di FIA UE' (GEFIA UE): la societa' autorizzata ai sensi della direttiva 2011/61/UE in uno Stato dell'UE diverso dall'Italia, che esercita l'attivita' di gestione di uno o piu' FIA; 
+
+                                
+                            
+                            
+                                q)
+                                
+                                    'gestore di FIA non UE' (GEFIA non UE): la societa' autorizzata ai sensi della direttiva 2011/61/UE con sede legale in uno Stato non appartenente all'UE, che esercita l'attivita' di gestione di uno o piu' FIA; 
+
+                                
+                            
+                            
+                                q-bis)
+                                
+                                    'gestore': la Sgr, ((la Sicav in gestione interna, la Sicaf in gestione interna, la societa' di partenariato in gestione interna,)) la societa' di gestione UE, il GEFIA UE, il GEFIA non UE, il gestore di EuVECA, il gestore di EuSEF, il gestore di ELTIF e il gestore di FCM. 
+ q-bis.1) (("gestore autorizzato": la Sgr autorizzata, la Sicav in gestione interna autorizzata, la Sicaf in gestione interna autorizzata, la societa' di partenariato in gestione interna autorizzata, il gestore di ELTIF, il gestore di FCM, nonche' i gestori di fondi EuVECA disciplinati ai sensi del regolamento (UE) 345/2013 del Parlamento europeo e del Consiglio, del 17 aprile 2013, e i gestori di fondi EuSEF disciplinati ai sensi del regolamento (UE) 346/2013 del Parlamento europeo e del Consiglio, del 17 aprile 2013, italiani;)) 
+ q-bis.2) (("gestore di FIA sotto soglia registrato" (GEFIA sotto soglia registrato): la societa' di gestione del risparmio sotto soglia registrata, la Sicaf sotto soglia registrata e la societa' di partenariato sotto soglia registrata;)) 
+ q-ter)'depositario di Oicr': il soggetto autorizzato nel paese di origine dell'Oicr ad assumere l'incarico di depositario; 
+ q-quater) 'depositario dell'Oicr master o dell'Oicrfeeder': il depositario dell'Oicr master o dell'Oicr feeder ovvero, se l'Oicr master o l'Oicr feeder e' unOicr UE o non UE, il soggetto autorizzato nello Stato di origine a svolgere i compiti di depositario; 
+ q-quinquies) (("quote e azioni di Oicr": le quote dei fondi comuni di investimento, le azioni di Sicav, le azioni e altri strumenti finanziari partecipativi di Sicaf e delle societa' di partenariato;))
+                                    
+                                
+                            
+                            
+                                r)
+                                
+                                    "soggetti abilitati": le Sim, le imprese di investimento UE con succursale in Italia, le imprese di paesi terzi autorizzate in Italia, le Sgr ((autorizzate)), le societa' di gestione UE con succursale in Italia, ((le Sicav in gestione interna autorizzate, le Sicaf in gestione interna autorizzate, le societa' di partenariato in gestione interna autorizzate, i gestori di ELTIF, i gestori di FCM, nonche' i gestori di fondi EuVECA disciplinati ai sensi del regolamento (UE) 345/2013 del Parlamento europeo e del Consiglio, del 17 aprile 2013, e i gestori di fondi EuSEF disciplinati ai sensi del regolamento (UE) 346/2013 del Parlamento europeo e del Consiglio, del 17 aprile 2013, italiani,)) i GEFIA UE con succursale in Italia, i GEFIA non UE autorizzati in Italia, i GEFIA non UE autorizzati in uno Stato dell'UE diverso dall'Italia con succursale in Italia, nonche' gli intermediari finanziari iscritti nell'albo previsto dall'articolo 106 del T.U. bancario, le banche italiane e le banche UE con succursale in Italia autorizzate all'esercizio dei servizi o delle attivita' di investimento; (73) 
+
+                                
+                            
+                            
+                                r-bis)
+                                
+                                    'Stato di origine della societa' di gestione UE': lo Stato dell'UE dove la societa' di gestione UE ha la propria sede legale e direzione generale; 
+
+                                
+                            
+                            
+                                r-ter)
+                                
+                                    'Stato di origine dell'OICR': Stato dell'UE in cui l'OICR e' stato costituito; 
+ r-ter.1) "indice di riferimento" o "benchmark": l'indice di cui all'articolo 3, paragrafo 1, punto 3), del regolamento (UE) 2016/1011; 
+ r-ter.2) "amministratore di indici di riferimento": la persona fisica o giuridica di cui all'articolo 3, paragrafo 1, punto 6), del regolamento (UE) 2016/1011; 
+
+                                
+                            
+                            
+                                r-quater)
+                                
+                                    'rating del credito': un parere relativo al merito creditizio di un'entita', cosi' come definito dall'articolo 3, paragrafo 1, lettera a), del regolamento (CE) n. 1060/2009; 
+
+                                
+                            
+                            
+                                r-quinquies)
+                                
+                                    'agenzia di rating del credito': una persona giuridica la cui attivita' include l'emissione di rating del credito a livello professionale; 
+
+                                
+                            
+                            
+                                s)
+                                
+                                    "servizi ammessi al mutuo riconoscimento": le attivita' e i servizi elencati nelle sezioni A e B dell'Allegato I al presente decreto, autorizzati nello Stato dell'UE di origine; (73) 
+
+                                
+                            
+                            
+                                t)
+                                
+                                    "offerta al pubblico di prodotti finanziari": ogni comunicazione rivolta a persone, in qualsiasi forma e con qualsiasi mezzo, che presenti sufficienti informazioni sulle condizioni dell'offerta e dei prodotti finanziari offerti cosi' da mettere un investitore in grado di decidere di acquistare o di sottoscrivere tali prodotti finanziari, incluso il collocamento tramite soggetti abilitati; 
+
+                                
+                            
+                            
+                                u)
+                                
+                                    "prodotti finanziari": gli strumenti finanziari e ogni altra forma di investimento di natura finanziaria; non costituiscono prodotti finanziari i depositi bancari o postali non rappresentati da strumenti finanziari; 
+
+                                
+                            
+                            
+                                v)
+                                
+                                    "offerta pubblica di acquisto o di scambio": ogni offerta, invito a offrire o messaggio promozionale, in qualsiasi forma effettuati, finalizzati all'acquisto o allo scambio di prodotti finanziari e rivolti a un numero di soggetti e di ammontare complessivo superiori a quelli indicati nel regolamento previsto dall'articolo 100, comma 3, lettere b) e c); non costituisce offerta pubblica di acquisto o di scambio quella avente a oggetto titoli emessi dalle banche centrali degli Stati comunitari; 
+
+                                
+                            
+                            
+                                w)
+                                
+                                    "emittenti quotati": i soggetti, italiani o esteri, inclusi i trust, che emettono strumenti finanziari quotati in un mercato regolamentato italiano. Nel caso di ricevute di deposito ammesse alle negoziazioni in un mercato regolamentato, per emittente si intende l'emittente dei valori mobiliari rappresentati, anche qualora tali valori non sono ammessi alla negoziazione in un mercato regolamentato; 
+
+                                
+                            
+                            
+                                w-bis)
+                                
+                                    soggetti abilitati alla distribuzione assicurativa: gli intermediari assicurativi iscritti nella sezione d) del registro unico degli intermediari assicurativi di cui all'articolo 109 del decreto legislativo n. 209 del 2005, i soggetti dell'Unione europea iscritti nell'elenco annesso di cui all'articolo 116-quinquies, comma 5, del decreto legislativo n. 209 del 2005, quali le banche, le societa' di intermediazione mobiliare e le imprese di investimento, anche quando operano con i collaboratori di cui alla sezione E del registro unico degli intermediari assicurativi di cui all'articolo 109 del decreto legislativo n. 209 del 2005; (78) 
+ w-bis.1) «prodotto di investimento al dettaglio e assicurativo preassemblato» o «PRIIP»: un prodotto ai sensi all'articolo 4, numero 3), del regolamento (UE) n. 1286/2014; (69) 
+ w-bis.2) «prodotto d'investimento al dettaglio preassemblato» o «PRIP»: un investimento ai sensi dell'articolo 4, numero 1), del regolamento (UE) n. 1286/2014; (69) 
+ w-bis.3) «prodotto di investimento assicurativo»: un prodotto ai sensi dell'articolo 4, numero 2), del regolamento (UE) n. 1286/2014.
+Tale definizione non include: 1) i prodotti assicurativi non vita elencati all'allegato I della direttiva 2009/138/CE; 2) i contratti assicurativi vita, qualora le prestazioni previste dal contratto siano dovute soltanto in caso di decesso o per incapacita' dovuta a lesione, malattia o disabilita'; 3) i prodotti pensionistici che, ai sensi del diritto nazionale, sono riconosciuti come aventi lo scopo precipuo di offrire all'investitore un reddito durante la pensione e che consentono all'investitore di godere di determinati vantaggi; 4) i regimi pensionistici aziendali o professionali ufficialmente riconosciuti che rientrano nell'ambito di applicazione della direttiva 2003/41/CE o della direttiva 2009/138/CE; 5) i singoli prodotti pensionistici per i quali il diritto nazionale richiede un contributo finanziario del datore di lavoro e nei quali il lavoratore o il datore di lavoro non puo' scegliere il fornitore o il prodotto pensionistico; (69) (78) 
+ w-bis.4) «ideatore di prodotti d'investimento al dettaglio preassemblati e assicurativi» o «ideatore di PRIIP»: un soggetto di cui all'articolo 4, numero 4), del regolamento (UE) n. 1286/2014; (69) 
+ w-bis.5) «persona che vende un PRIIP»: un soggetto di cui all'articolo 4, numero 5), del regolamento (UE) n. 1286/2014; (69) 
+ w-bis.6) «investitore al dettaglio in PRIIP»: un cliente ai sensi dell'articolo 4, numero 6), del regolamento (UE) n. 1286/2014.(69) 
+ w-bis.7) "gestore del mercato": il soggetto che gestisce e/o amministra l'attivita' di un mercato regolamentato e puo' coincidere con il mercato regolamentato stesso; (73) 
+
+                                
+                            
+                            
+                                w-ter)
+                                
+                                    "mercato regolamentato": sistema multilaterale amministrato e/o gestito da un gestore del mercato, che consente o facilita l'incontro, al suo interno e in base alle sue regole non discrezionali, di interessi multipli di acquisto e di vendita di terzi relativi a strumenti finanziari, in modo da dare luogo a contratti relativi a strumenti finanziari ammessi alla negoziazione conformemente alle sue regole e/o ai suoi sistemi, e che e' autorizzato e funziona regolarmente e conformemente alla parte III; (73) 
+
+                                
+                            
+                            
+                                w-quater)
+                                
+                                    "emittenti quotati aventi l'Italia come Stato membro d'origine": 
+ 1) gli emittenti azioni ammesse alle negoziazioni in mercati regolamentati italiani o di altro Stato membro dell'Unione europea, aventi sede legale in Italia; 
+ 2) gli emittenti titoli di debito di valore nominale unitario inferiore ad euro mille, o valore corrispondente in valuta diversa, ammessi alle negoziazioni in mercati regolamentati italiani o di altro Stato membro dell'Unione europea, aventi sede legale in Italia; 
+ 3) gli emittenti valori mobiliari di cui ai numeri 1) e 2), aventi sede legale in uno Stato non appartenente all'Unione europea, che hanno scelto l'Italia come Stato membro d'origine tra gli Stati membri in cui i propri valori mobiliari sono ammessi alla negoziazione in un mercato regolamentato. La scelta dello Stato membro d'origine resta valida salvo che l'emittente abbia scelto un nuovo Stato membro d'origine ai sensi del numero 4-bis) e abbia comunicato tale scelta; 
+ 4) gli emittenti valori mobiliari diversi da quelli di cui ai numeri 1) e 2), aventi sede legale in Italia o i cui valori mobiliari sono ammessi alle negoziazioni in un mercato regolamentato italiano, che hanno scelto l'Italia come Stato membro d'origine. L'emittente puo' scegliere un solo Stato membro d'origine. La scelta resta valida per almeno tre anni, salvo il caso in cui i valori mobiliari dell'emittente non sono piu' ammessi alla negoziazione in alcun mercato regolamentato dell'Unione europea, o salvo che l'emittente, nel triennio, rientri tra gli emittenti di cui ai numeri 1), 2), 3) e 4-bis), della presente lettera. 
+ 4-bis) gli emittenti di cui ai numeri 3) e 4) i cui valori mobiliari non sono piu' ammessi alla negoziazione in un mercato regolamentato dello Stato membro d'origine, ma sono stati ammessi alla negoziazione in un mercato regolamentato italiano o di altri Stati membri e, se del caso, aventi sede legale in Italia oppure che hanno scelto l'Italia come nuovo Stato membro d'origine; 
+ w-quater.1) "PMI": fermo quanto previsto da altre disposizioni di legge, le piccole e medie imprese, emittenti azioni quotate, che abbiano una capitalizzazione di mercato inferiore a 1 miliardo di euro. Non si considerano PMI gli emittenti azioni quotate che abbiano superato tale limite per tre anni consecutivi. La Consob stabilisce con regolamento le disposizioni attuative della presente lettera, incluse le modalita' informative cui sono tenuti tali emittenti in relazione all'acquisto ovvero alla perdita della qualifica di PMI. La Consob pubblica l'elenco delle PMI tramite il proprio sito internet. 
+
+                                
+                            
+                            
+                                w-quinquies)
+                                
+                                    "controparti centrali": i soggetti indicati nell'articolo 2, punto 1), del regolamento (UE) n. 648/2012 del Parlamento europeo e del Consiglio, del 4 luglio 2012, concernente gli strumenti derivati OTC, le controparti centrali e i repertori di dati sulle negoziazioni. 
+
+                                
+                            
+                            
+                                w-sexies)
+                                
+                                    "provvedimenti di risanamento": i provvedimenti con cui sono disposte: 
+ 1) l'amministrazione straordinaria, nonche' le misure adottate nel suo ambito; 
+ 2) le misure adottate ai sensi dell'articolo 60-bis.4; 
+ 3) le misure, equivalenti a quelle indicate ai punti 1 e 2, adottate da autorita' di altri Stati dell'Unione europea. (73) 
+
+                                
+                            
+                            
+                                w-septies)
+                                
+                                    "depositari centrali di titoli o depositari centrali": i soggetti indicati nell'articolo 2, paragrafo 1, punto 1), del regolamento (UE) n. 909/2014 del Parlamento europeo e del Consiglio, del 23 luglio 2014, relativo al miglioramento del regolamento titoli nell'Unione europea e ai depositari centrali di titoli; (73) 
+
+                                
+                            
+                            
+                                w-octies)
+                                
+                                    "Definizioni relative alle obbligazioni verdi europee" o "EuGB" ai sensi del regolamento (UE) 2023/2631 del Parlamento europeo e del Consiglio, del 22 novembre 2023: 
+ 1) "obbligazione verde europea" o "EuGB": la denominazione disciplinata al regolamento (UE) 2023/2631 del Parlamento europeo e del Consiglio, del 22 novembre 2023; 
+ 2) "obbligazione commercializzata come ecosostenibile": un'obbligazione di cui all'articolo 2, numero 5), del regolamento (UE) 2023/2631; 
+ 3) "obbligazione legata alla sostenibilita'": un'obbligazione di cui all'articolo 2, numero 6) del regolamento (UE) 2023/2631. 
+
+                                
+                            
+                            
+                                w-novies)
+                                
+                                    
+                                        (("sistema di intelligenza artificiale": il sistema come definito dall'articolo 3, punto 1), del regolamento (UE) 2024/1689, del Parlamento e del Consiglio, del 13 giugno 2024;))
+                                    
+                                
+                            
+                            
+                                w-decies)
+                                
+                                    
+                                        (("rischi informatici": qualunque circostanza ragionevolmente identificabile in relazione all'uso dei sistemi informatici e di rete che, qualora si concretizzi, puo' compromettere la sicurezza dei sistemi informatici e di rete, di eventuali strumenti o processi dipendenti dalle tecnologie, di operazioni e processi, oppure della fornitura dei servizi causando effetti avversi nell'ambiente digitale o fisico.))
+
+1-bis.
+                        
+                            
+                                Per "valori mobiliari" si intendono categorie di valori che possono essere negoziati nel mercato dei capitali, quali ad esempio: 
+ 
+                            
+                            
+                                a)
+                                
+                                    azioni di societa' e altri titoli equivalenti ad azioni di societa', di partnership o di altri soggetti e ricevute di deposito azionario; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    obbligazioni e altri titoli di debito, comprese le ricevute di deposito relative a tali titoli; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    qualsiasi altro valore mobiliare che permetta di acquisire o di vendere i valori mobiliari indicati alle lettere a) e b) o che comporti un regolamento a pronti determinato con riferimento a valori mobiliari, valute, tassi di interesse o rendimenti, merci o altri indici o misure. (73) 
+ 1-bis.1. Per "clausola make-whole" si intende una clausola diretta a tutelare l'investitore garantendo che, in caso di rimborso anticipato di un'obbligazione, l'emittente sia tenuto a versare al detentore dell'obbligazione un importo pari alla somma del valore attuale netto delle cedole residue fino alla scadenza e del valore nominale dell'obbligazione da rimborsare.
+
 Per "strumenti del mercato monetario" si intendono categorie di strumenti normalmente negoziati nel mercato monetario, quali, ad esempio, i buoni del Tesoro, i certificati di deposito e le carte commerciali.
 
 Per "ricevute di deposito" si intendono titoli negoziabili sul mercato dei capitali, rappresentanti la proprieta' dei titoli di un emittente non domiciliato, ammissibili alla negoziazione in un mercato regolamentato e negoziati indipendentemente dai titoli dell'emittente non domiciliato. (73)
 
 Per "strumento finanziario" si intende qualsiasi strumento riportato nella Sezione C dell'Allegato I, compresi gli strumenti emessi mediante tecnologia a registro distribuito. Gli strumenti di pagamento non sono strumenti finanziari. (73)
 
+2-bis.
+                        
+                            
+                                Il Ministro dell'economia e delle finanze, con il regolamento di cui all'articolo 18, comma 5, puo' individuare: 
+ 
+                            
+                            
+                                a)
+                                
+                                    gli altri contratti derivati di cui al punto 7, sezione C, dell'Allegato I aventi le caratteristiche di altri strumenti finanziari derivati; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    gli altri contratti derivati di cui al punto 10, sezione C, dell'Allegato I aventi le caratteristiche di altri strumenti finanziari derivati, negoziati in un mercato regolamentato, in un sistema multilaterale di negoziazione o in un sistema organizzato di negoziazione. (73)
+
+2-ter.
+                        
+                            
+                                Nel presente decreto legislativo si intendono per: 
+ 
+                            
+                            
+                                a)
+                                
+                                    "strumenti derivati": gli strumenti finanziari citati nell'Allegato I, sezione C, punti da 4 a 10, nonche' gli strumenti finanziari previsti dal comma 1-bis, lettera c ); 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    "derivati su merci": gli strumenti finanziari che fanno riferimento a merci o attivita' sottostanti di cui all'Allegato I, sezione C, punti 5), 6), 7) e 10), nonche' gli strumenti finanziari previsti dal comma 1-bis, lettera c), quando fanno riferimento a merci o attivita' sottostanti menzionati all'Allegato I, sezione C, punto 10); 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    "contratti derivati su prodotti energetici C6": i contratti di opzione, i contratti finanziari a termine standardizzati (future), gli swap e tutti gli altri contratti derivati concernenti carbone o petrolio menzionati nella Sezione C, punto 6, dell'Allegato I che sono negoziati in un sistema organizzato di negoziazione e devono essere regolati con consegna fisica del sottostante. (73)
+
 COMMA ABROGATO DAL D.LGS. 3 AGOSTO 2017, N. 129. (73)
 
 COMMA ABROGATO DAL D.LGS. 3 AGOSTO 2017, N. 129. (73)
+
+5.
+                        
+                            
+                                Per "servizi e attivita' di investimento" si intendono i seguenti, quando hanno per oggetto strumenti finanziari: 
+ 
+                            
+                            
+                                a)
+                                
+                                    negoziazione per conto proprio; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    esecuzione di ordini per conto dei clienti; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    assunzione a fermo e/o collocamento sulla base di un impegno irrevocabile nei confronti dell'emittente; (73) 
+
+                                
+                            
+                            
+                                c-bis)
+                                
+                                    collocamento senza impegno irrevocabile nei confronti dell'emittente; (73) 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    gestione di portafogli; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    ricezione e trasmissione di ordini; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    consulenza in materia di investimenti; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    gestione di sistemi multilaterali di negoziazione. 
+
+                                
+                            
+                            
+                                g-bis)
+                                
+                                    gestione di sistemi organizzati di negoziazione. (73)
 
 Per "negoziazione per conto proprio" si intende l'attivita' di acquisto e vendita di strumenti finanziari, in contropartita diretta.(73) 
  5-bis.1. Per "sistema multilaterale" si intende un sistema multilaterale come definito dall'articolo 2, paragrafo 1, punto 11, del regolamento (UE) n. 600/2014 del Parlamento europeo e del Consiglio, del 15 maggio 2014.
@@ -54,6 +630,32 @@ Per "consulenza in materia di investimenti" si intende la prestazione di raccoma
  5-septies.2. Per "agente collegato" si intende la persona fisica o giuridica che, sotto la piena e incondizionata responsabilita' di una sola impresa di investimento per conto della quale opera, promuove servizi di investimento e/o servizi accessori presso clienti o potenziali clienti, riceve e trasmette le istruzioni o gli ordini dei clienti riguardanti servizi di investimento o strumenti finanziari, colloca strumenti finanziari o presta consulenza ai clienti o potenziali clienti rispetto a detti strumenti o servizi finanziari. (73) 
  5-septies.3. Per "consulente finanziario abilitato all'offerta fuori sede" si intende la persona fisica iscritta nell'apposita sezione dell'albo previsto dall'articolo 31, comma 4, del presente decreto che, in qualita' di agente collegato, esercita professionalmente l'offerta fuori sede come dipendente, agente o mandatario. (73)
 
+5-octies.
+                        
+                            
+                                Nel presente decreto legislativo si intendono per: 
+ 
+                            
+                            
+                                a)
+                                
+                                    "sistema multilaterale di negoziazione": un sistema multilaterale gestito da un'impresa di investimento o da un gestore del mercato che consente l'incontro, al suo interno e in base a regole non discrezionali, di interessi multipli di acquisto e di vendita di terzi relativi a strumenti finanziari, in modo da dare luogo a contratti conformemente alla parte II e alla parte III; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    "sistema organizzato di negoziazione": un sistema multilaterale diverso da un mercato regolamentato o da un sistema multilaterale di negoziazione che consente l'interazione tra interessi multipli di acquisto e di vendita di terzi relativi a obbligazioni, strumenti finanziari strutturati, quote di emissioni e strumenti derivati, in modo da dare luogo a contratti conformemente alla parte II e alla parte III; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    "sede di negoziazione": un mercato regolamentato, un sistema multilaterale di negoziazione o un sistema organizzato di negoziazione. (73) 
+ 5-octies.1. Per "ordine con limite di prezzo" si intende un ordine di acquisto o di vendita di uno strumento finanziario al prezzo limite fissato o a un prezzo piu' vantaggioso e per un quantitativo fissato. (73)
+
 Per "servizi di crowdfunding" si intendono i servizi indicati all'articolo 2, paragrafo 1, lettera a), del regolamento (UE) 2020/1503.
 
 COMMA ABROGATO DAL D.LGS. 3 AGOSTO 2017, N. 129. (73)
@@ -64,6 +666,34 @@ Per "imprese sociali" si intendono le imprese sociali ai sensi del decreto legis
 
 Per "servizio accessorio" si intende qualsiasi servizio riportato nella sezione B dell'Allegato I. (73)
 
+6-bis.
+                        
+                            
+                                Per 'partecipazioni' si intendono le azioni, le quote e gli altri strumenti finanziari che attribuiscono diritti amministrativi o comunque quelli previsti dall'articolo 2351, ultimo comma, del codice civile. 
+ 6-bis.1. Per "controllante" si intende un'impresa controllante ai sensi degli articoli 2, paragrafo 9, e 22 della direttiva 2013/34/UE. (73) 
+ 6-bis.2. Per "controllata" si intende un'impresa controllata ai sensi degli articoli 2, paragrafo 10, e 22 della direttiva 2013/34/UE; l'impresa controllata di un'impresa controllata e' parimenti considerata impresa controllata dell'impresa controllante che e' a capo di tali imprese. (73) 
+ 6-bis.3. Per "stretti legami" si intende la situazione nella quale due o piu' persone fisiche o giuridiche sono legate: 
+ 
+                            
+                            
+                                a)
+                                
+                                    da una «partecipazione», ossia dal fatto di detenere, direttamente o tramite un legame di controllo, il 20 per cento o piu' dei diritti di voto o del capitale di un'impresa; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    da un legame di «controllo», ossia dalla relazione esistente tra un'impresa controllante e un'impresa controllata, in tutti i casi di cui all'articolo 22, paragrafi 1 e 2, della direttiva 2013/34/UE, o relazione analoga esistente tra persone fisiche e giuridiche e un'impresa, nel qual caso ogni impresa controllata di un'impresa controllata e' considerata impresa controllata dell'impresa controllante che e' a capo di tali imprese; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    da un legame duraturo tra due o tutte le suddette persone e uno stesso soggetto che sia una relazione di controllo. (73)
+
 Se non diversamente disposto, le norme del presente decreto legislativo che fanno riferimento al consiglio di amministrazione, all'organo amministrativo ed agli amministratori si applicano anche al consiglio di gestione e ai suoi componenti.
 
 ((COMMA ABROGATO DAL D.LGS. 27 MARZO 2026, N. 47)).
@@ -72,16 +702,222 @@ Per "negoziazione algoritmica" si intende la negoziazione di strumenti finanziar
 
 Per "accesso elettronico diretto" si intende un accordo in base al quale un membro o un partecipante o un cliente di una sede di negoziazione consente a un terzo l'utilizzo del proprio codice identificativo di negoziazione per la trasmissione in via elettronica direttamente alla sede di negoziazione di ordini relativi a uno strumento finanziario, sia nel caso in cui l'accordo comporti l'utilizzo da parte del terzo dell'infrastruttura del membro, del partecipante o del cliente, o di qualsiasi sistema di collegamento fornito dal membro, partecipante o cliente per trasmettere gli ordini (accesso diretto al mercato) sia nel caso in cui non vi sia tale utilizzo (accesso sponsorizzato). (73)
 
+6-septies.
+                        
+                            
+                                Per "tecnica di negoziazione algoritmica ad alta frequenza" si intende qualsiasi tecnica di negoziazione algoritmica caratterizzata da: 
+ 
+                            
+                            
+                                a)
+                                
+                                    infrastrutture volte a ridurre al minimo le latenze di rete e di altro genere, compresa almeno una delle strutture per l'inserimento algoritmico dell'ordine: co-ubicazione, hosting di prossimita' o accesso elettronico diretto a velocita' elevata; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    determinazione da parte del sistema dell'inizializzazione, generazione, trasmissione o esecuzione dell'ordine senza intervento umano per il singolo ordine o negoziazione, e 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    elevato traffico infra-giornaliero di messaggi consistenti in ordini, quotazioni o cancellazioni. (73)
+
 Per "negoziazione matched principal" si intende una negoziazione in cui il soggetto che si interpone tra l'acquirente e il venditore non e' mai esposto al rischio di mercato durante l'intera esecuzione dell'operazione, con l'acquisto e la vendita eseguiti simultaneamente ad un prezzo che non permette a tale soggetto di realizzare utili o perdite, fatta eccezione per le commissioni, gli onorari o le spese dell'operazione previamente comunicati. (73)
 
 Per "pratica di vendita abbinata" si intende l'offerta di un servizio di investimento insieme a un altro servizio o prodotto come parte di un pacchetto o come condizione per l'ottenimento dello stesso accordo o pacchetto. (73)
+
+6-decies.
+                        
+                            
+                                Per "deposito strutturato" si intende un deposito quale definito all'articolo 69-bis, comma 1, lettera c), del T.U. bancario che e' pienamente rimborsabile alla scadenza in base a termini secondo i quali qualsiasi interesse o premio sara' rimborsato (o e' a rischio) secondo una formula comprendente fattori quali: 
+ 
+                            
+                            
+                                a)
+                                
+                                    un indice o una combinazione di indici, eccetto i depositi a tasso variabile il cui rendimento e' direttamente legato a un tasso di interesse quale l'Euribor o il Libor; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    uno strumento finanziario o una combinazione degli strumenti finanziari; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    una merce o combinazione di merci o di altri beni infungibili, materiali o immateriali; o 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    un tasso di cambio o una combinazione di tassi di cambio. (73)
+
+6-undecies.
+                        
+                            
+                                Nel presente decreto legislativo si intendono per: 
+ 
+                            
+                            
+                                a)
+                                
+                                    "dispositivo di pubblicazione autorizzato" o "APA": un soggetto quale definito all'articolo 2, paragrafo 1, punto 34), del regolamento (UE) n. 600/2014 a cui si applica la deroga prevista dall'articolo 2, paragrafo 3, del medesimo regolamento e dai relativi atti delegati; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    LETTERA ABROGATA DAL D.L. 17 MAGGIO 2022, N. 50; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    "meccanismo di segnalazione autorizzato" o "ARM": un soggetto quale definito all'articolo 2, paragrafo 1, punto 36), del regolamento (UE) n. 600/2014 a cui si applica la deroga prevista dall'articolo 2, paragrafo 3, del medesimo regolamento e dai relativi atti delegati; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    LETTERA ABROGATA DAL D.L. 17 MAGGIO 2022, N. 50; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    LETTERA ABROGATA DAL D.L. 17 MAGGIO 2022, N. 50.
+
+6-duodecies.
+                        
+                            
+                                Nel presente decreto legislativo si intendono per: 
+ 
+                            
+                            
+                                a)
+                                
+                                    "Stato membro d'origine dell'impresa di investimento": 
+ 1) se l'impresa di investimento e' una persona fisica, lo Stato membro in cui tale persona ha la propria sede principale; 
+ 2) se l'impresa di investimento e' una persona giuridica, lo Stato membro in cui si trova la sua sede legale; 
+ 3) se, in base al diritto nazionale cui e' soggetta, l'impresa di investimento non ha una sede legale, lo Stato membro in cui e' situata la sua direzione generale; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    "Stato membro d'origine del mercato regolamentato": lo Stato membro in cui e' registrato il mercato regolamentato o se, in base al diritto nazionale di tale Stato membro detto mercato non ha una sede legale, lo Stato membro in cui e' situata la propria direzione generale; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    LETTERA ABROGATA DAL D.L. 17 MAGGIO 2022, N. 50.
+
+6-terdecies.
+                        
+                            
+                                Nel presente decreto legislativo si intendono per: 
+ 
+                            
+                            
+                                a)
+                                
+                                    "Stato membro ospitante l'impresa di investimento": lo Stato membro, diverso dallo Stato membro d'origine, in cui un'impresa di investimento ha una succursale o presta servizi di investimento e/o esercita attivita' di investimento; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    "Stato membro ospitante il mercato regolamentato": lo Stato membro in cui un mercato regolamentato adotta opportune misure in modo da facilitare l'accesso alla negoziazione a distanza nel suo sistema da parte di membri o partecipanti stabiliti in tale Stato membro. (73)
 
 Per "prodotto energetico all'ingrosso" si intende un prodotto energetico all'ingrosso quale definito all'articolo 2, punto 4, del regolamento (UE) n. 1227/2011. (73)
 
 Per "derivati su merci agricole" si intendono i contratti derivati connessi a prodotti di cui all'articolo 1 e all'allegato I, parti da I a XX e XXIV/1 del regolamento (UE) n. 1308/2013, nonche' i prodotti di cui all'allegato I del regolamento (UE) n. 1379/2013. 
  6-quinquiesdecies.1. Per "gruppo prevalentemente commerciale" si intende qualsiasi gruppo la cui attivita' principale non consista nella prestazione di servizi di investimento ai sensi del presente decreto o nell'esercizio di una qualsiasi attivita' di cui all'allegato I della direttiva 2013/36/EU o in attivita' di market making in relazione agli strumenti derivati su merci.
 
+6-sexiesdecies.
+                        
+                            
+                                Per "emittente sovrano" si intende uno dei seguenti emittenti di titoli di debito: 
+ 
+                            
+                            
+                                a)
+                                
+                                    l'Unione europea; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    uno Stato membro, ivi inclusi un ministero, un'agenzia o una societa' veicolo di tale Stato membro; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    in caso di Stato membro federale, un membro della federazione; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    una societa' veicolo per conto di diversi Stati membri; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    un ente finanziario internazionale costituito da due o piu' Stati membri con l'obiettivo di mobilitare risorse e fornire assistenza finanziaria a beneficio dei suoi membri che stanno affrontando o sono minacciati da gravi crisi finanziarie; o 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    la Banca europea per gli investimenti. (73)
+
 Per "debito sovrano" si intende un titolo di debito emesso da un emittente sovrano. (73)
+
+6-octiesdecies.
+                        
+                            
+                                Per "supporto durevole" si intende qualsiasi strumento che: 
+ 
+                            
+                            
+                                a)
+                                
+                                    permetta al cliente di memorizzare informazioni a lui personalmente dirette, in modo che possano essere agevolmente recuperate per un periodo di tempo adeguato ai fini cui sono destinate le informazioni stesse; e 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    che consenta la riproduzione inalterata delle informazioni memorizzate. (73)
 
 Per "formato elettronico" si intende qualsiasi supporto durevole diverso dalla carta.
 
@@ -162,6 +998,62 @@ La Banca d'Italia, la CONSOB, la COVIP e l'IVASS collaborano tra loro, anche med
 La Banca d'Italia e la Consob collaborano, anche mediante scambio di informazioni, con le autorita' e i comitati che compongono il SEVIF e con la Banca Centrale Europea (BCE) al fine di agevolare le rispettive funzioni. Nei casi e nei modi stabiliti dalla normativa europea adempiono agli obblighi di comunicazione e di cooperazione nei confronti di tali soggetti e delle altre autorita' e istituzioni indicate dalle disposizioni dell'Unione europea. (73)
 
 Ai fini indicati al comma 2, la Consob e la Banca d'Italia possono concludere con le autorita' competenti degli Stati membri dell'Unione europea, con l'AESFEM e la BCE accordi di collaborazione, che possono prevedere la delega reciproca di compiti di vigilanza. La Consob e la Banca d'Italia possono ricorrere all'AESFEM e all'ABE per la risoluzione delle controversie con le autorita' di vigilanza degli altri Stati membri in situazioni transfrontaliere. (73)
+
+2-ter.
+                        
+                            
+                                La Consob e' il punto di contatto per la ricezione delle richieste di informazioni provenienti da autorita' competenti di Stati membri dell'Unione europea in materia di servizi e attivita' di investimento svolti da soggetti abilitati, di sedi di negoziazione e di APA o ARM. La Consob interessa la Banca d'Italia per gli aspetti di competenza di questa ultima. La Banca d'Italia trasmette le informazioni contestualmente all'autorita' competente dello Stato membro dell'Unione europea che le ha richieste e alla Consob. (73) 
+ 3. la Banca d'Italia e la CONSOB possono cooperare, anche mediante scambio di informazioni, con le autorita' competenti degli Stati extracomunitari. 
+ 4. ((Fatta salva la possibilita' di comunicare informazioni nei casi e secondo le forme stabiliti dall'articolo 47, paragrafo 3, della direttiva (UE) 2011/61 del Parlamento europeo e del Consiglio, dell'8 giugno 2011, e dall'articolo 102, paragrafo 2, della direttiva 2009/65/CE del Parlamento europeo e del Consiglio, del 13 luglio 2009, le informazioni)) ricevute dalla Banca d'Italia e dalla CONSOB ai sensi dei commi 1, 2 e 3 non possono essere trasmesse a terzi ne' ad altre autorita' italiane, ivi incluso il Ministro dell'economia e delle finanze, senza il consenso dell'autorita' che le ha fornite. ((132)) 
+ 5. La Banca d'Italia e la CONSOB possono scambiare informazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    con autorita' amministrative e giudiziarie nell'ambito di procedimenti di liquidazione o di fallimento, in Italia o all'estero, relativi a soggetti abilitati; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    con gli organismi preposti all'amministrazione dei sistemi di indennizzo; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    con le controparti centrali e i depositari centrali; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    con i gestori delle sedi di negoziazione, al fine di garantire il regolare funzionamento delle sedi da essi gestite; (73) 
+
+                                
+                            
+                            
+                                d-bis)
+                                
+                                    
+                                        ((ai sensi e per gli effetti della direttiva 2011/61/UE, del Parlamento europeo e del Consiglio, dell'8 giugno 2011, e della direttiva 2009/65/CE, del Parlamento europeo e del Consiglio, del 13 luglio 2009, con l'amministrazione finanziaria quando le informazioni siano richieste nel corso di un'attivita' di controllo volta ad accertare un illecito fiscale.))
+                                        ((132)) 
+ 5-bis. Lo scambio di informazioni con autorita' di Paesi extracomunitari e' subordinato all'esistenza di norme in materia di segreto di ufficio. 
+ 6. Le informazioni indicate nel comma 5, lettere b), c) e d), possono essere rivelate a terzi con il consenso del soggetto che le ha fornite. Si puo' prescindere dal consenso se le informazioni siano fornite in ottemperanza a obblighi di cooperazione e collaborazione internazionale. 
+ 7. La Banca d'Italia e la CONSOB possono esercitare i poteri a esse assegnati dall'ordinamento anche ai fini della cooperazione con altre autorita' e su richiesta delle medesime. Le autorita' competenti di Stati comunitari o extracomunitari possono chiedere alla Banca d'Italia e alla CONSOB di effettuare per loro conto, secondo le norme previste nel presente decreto, un'indagine sul territorio dello Stato, nonche' di eseguire, per loro conto, notifiche sul territorio dello Stato inerenti ai provvedimenti da esse adottati. Le predette autorita' possono chiedere che venga consentito ad alcuni membri del loro personale di accompagnare il personale della Banca d'Italia e della CONSOB durante l'espletamento dell'indagine. 
+ 8. Restano ferme le norme che disciplinano il segreto d'ufficio sulle notizie, i dati e le informazioni in possesso della Banca d'Italia. 
+ 9. Al fine di agevolare l'esercizio della vigilanza su base consolidata nei confronti di gruppi operanti in piu' Stati comunitari la Banca d'Italia, nel rispetto delle condizioni previste dalle disposizioni dell'Unione europea e sulla base di accordi con le autorita' competenti, definisce forme di collaborazione e coordinamento, istituisce collegi di supervisori e partecipa ai collegi istituiti da altre autorita'. In tale ambito, la Banca d'Italia puo' concordare specifiche ripartizioni di compiti e deleghe di funzioni. 
+ 9-bis. La Banca d'Italia, se nell'esercizio della vigilanza consolidata verifica una situazione di emergenza, inclusa una situazione descritta all'articolo 18 del regolamento (UE) n. 1093/2010, o un'evoluzione negativa sui mercati, che possa compromettere la liquidita' del mercato e la stabilita' del sistema finanziario in uno Stato membro dell'Unione europea in cui opera il gruppo individuato ai sensi dell'articolo 11, informa tempestivamente l'ABE, il CERS e le pertinenti autorita' competenti, tra cui la Consob, e comunica tutte le informazioni essenziali allo svolgimento dei loro compiti. 
+ 10. Tutte le notizie, le informazioni e i dati in possesso della CONSOB in ragione della sua attivita' di vigilanza sono coperti dal segreto d'ufficio anche nei confronti delle pubbliche amministrazioni, a eccezione del Ministro dell'economia e delle finanze. Sono fatti salvi i casi previsti dalla legge per le indagini relative a violazioni sanzionate penalmente. 
+ 11. I dipendenti della CONSOB, nell'esercizio delle funzioni di vigilanza, sono pubblici ufficiali e hanno l'obbligo di riferire esclusivamente alla Commissione tutte le irregolarita' constatate, anche quando integrino ipotesi di reato. 
+ 12. I dipendenti e coloro che a qualunque titolo lavorano o hanno lavorato per la Consob, nonche' i consulenti e gli esperti dei quali la stessa si avvale o si e' avvalsa, sono vincolati dal segreto d'ufficio. 
+ 13. Le pubbliche amministrazioni e gli enti pubblici forniscono dati, notizie e documenti e ogni ulteriore collaborazione richiesta dalla CONSOB, in conformita' delle leggi disciplinanti i rispettivi ordinamenti. 
+ 13-bis. Ai fini della cooperazione, mediante scambio di informazioni, con le autorita' competenti di Stati membri dell'Unione europea e con l'AESFEM, la Consob e la Banca d'Italia stabiliscono con il Ministero della giustizia, anche sulla base di un protocollo d'intesa, le modalita' di acquisizione delle informazioni relative alle sanzioni penali applicate dall'Autorita' giudiziaria, per i reati di cui all'articolo 2638 del codice civile e agli articoli 166, 167, 168, 169, 170-bis e 173-bis, per la successiva comunicazione all'AESFEM, ai sensi dell'articolo 195-ter, comma 1-bis. 
+ 13-ter. Per i medesimi fini di cui al comma 13-bis e fermo restando il divieto di cui all'articolo 329 del codice di procedura penale, la Consob e la Banca d'Italia possono richiedere informazioni all'autorita' giudiziaria procedente in ordine alle indagini e ai procedimenti penali per i reati previsti dal comma 13-bis.
 
 ---------------
                             AGGIORNAMENTO (73)
@@ -264,6 +1156,45 @@ La Banca d'Italia e' l'autorita' competente ad autorizzare la gestione di un ELT
 
 La Banca d'Italia autorizza la proroga prevista dall'articolo 17, paragrafo 1, del regolamento (UE) n. 2015/760.
 
+4.
+                        
+                            
+                                La Consob e' l'autorita' competente a: 
+ 
+                            
+                            
+                                a)
+                                
+                                    ricevere dalla Sgr e dalla Sicaf che gestiscono l'ELTIF la notifica prevista dall'articolo 31, paragrafo 1, del regolamento (UE) n. 2015/760, per la commercializzazione in Italia delle quote o delle azioni dell'ELTIF agli investitori professionali e agli investitori al dettaglio; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    ricevere dalla Sgr e dalla Sicaf che gestiscono l'ELTIF la notifica prevista dall'articolo 31, paragrafo 2, del regolamento (UE) n. 2015/760 per la commercializzazione in uno Stato dell'UE diverso dall'Italia delle quote o delle azioni dell'ELTIF agli investitori professionali e agli investitori al dettaglio; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    ricevere dall'autorita' dello Stato membro di origine del gestore dell'ELTIF la notifica prevista dall'articolo 31, paragrafo 2, del regolamento (UE) n. 2015/760 per la commercializzazione in Italia delle quote o delle azioni dell'ELTIF agli investitori professionali e agli investitori al dettaglio; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    adempiere agli obblighi informativi verso l'((AESFEM)) previsti dall'articolo 3, paragrafo 3, del regolamento (UE) n. 2015/760; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    ricevere il prospetto, e le relative modifiche, di cui all'articolo 24, paragrafo 1, del regolamento (UE) n. 2015/760 con le modalita' e nei termini stabiliti con proprio regolamento.
+
 Alle procedure per la notifica di cui al comma 4, lettere a), b) e c), si applicano, in quanto compatibili, l'articolo 43 e le relative disposizioni attuative; non e' richiesta l'intesa della Banca d'Italia prevista nei commi 4 e 5 di tale articolo, ne' l'acquisizione del parere di tale Autorita' ai sensi dei commi 6 e 8 del medesimo articolo.
 
 La Consob individua con regolamento le eventuali informazioni aggiuntive da inserire nel prospetto rispetto a quelle previste nell'articolo 23, paragrafi 2, 3 e 4, del regolamento (UE) n. 2015/760, al fine di permettere agli investitori di effettuare una valutazione informata sull'investimento loro proposto e, in particolare, sui relativi rischi.
@@ -277,6 +1208,70 @@ Per assicurare il rispetto del presente articolo nonche' del regolamento indicat
 La Banca d'Italia e la Consob, secondo le rispettive attribuzioni e le finalita' indicate dall'articolo 5, sono le autorita' nazionali competenti ai sensi del regolamento (UE) 2017/1131. La Banca d'Italia e la Consob si trasmettono tempestivamente le informazioni che ciascuna di esse e' competente a ricevere ai sensi del presente articolo.
 
 La Banca d'Italia e' l'autorita' competente ad autorizzare un FCM ai sensi dell'articolo 4, paragrafi 2 e 3, del regolamento (UE) 2017/1131.
+
+3.
+                        
+                            
+                                La Banca d'Italia e' l'autorita' competente a: 
+ 
+                            
+                            
+                                a)
+                                
+                                    autorizzare la deroga prevista dall'articolo 17, paragrafo 7, del regolamento (UE) 2017/1131; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    ricevere il riesame delle metodologie di valutazione della qualita' creditizia ai sensi dell'articolo 19, paragrafo 4, lettera e), del regolamento (UE) 2017/1131; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    ricevere le valutazioni effettuate a norma dei paragrafi 2, 3, 4, 6 e 7 dell'articolo 29 del regolamento (UE) 2017/1131, ai sensi del paragrafo 5 del medesimo articolo 29; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    ricevere i dettagli delle decisioni relative alle procedure di gestione della liquidita' ai sensi dell'articolo 34, paragrafo 3, del regolamento (UE) 2017/1131; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    ricevere la relazione dettagliata contenente i risultati delle prove di stress e il piano d'azione e svolgere il riesame ai sensi dell'articolo 28, paragrafo 5, secondo comma, del regolamento (UE) 2017/1131; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    adottare le misure specifiche previste dal regolamento (UE) 2017/1131 nell'articolo 41, paragrafo 2, con riferimento alle violazioni previste al paragrafo 1, lettere a), b), c), d), e), f) del medesimo articolo, con riferimento alla violazione degli articoli 21, 23, 26, 27 e 28, e g), del citato regolamento. Nei casi previsti dall'articolo 41, paragrafo 1, lettera f), con riferimento alla violazione dell'articolo 36 del regolamento (UE) 2017/1131, la revoca dell'autorizzazione rilasciata ai sensi del comma 2 e' adottata su proposta della Consob.
+
+4.
+                        
+                            
+                                La Consob e' l'autorita' competente a: 
+ 
+                            
+                            
+                                a)
+                                
+                                    adempiere agli obblighi informativi verso l'((AESFEM)) previsti dagli articoli 4, paragrafo 6, 28, paragrafo 6, e 37, paragrafo 5, del regolamento (UE) 2017/1131; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    adottare le misure specifiche previste dal regolamento (UE) 2017/1131 nell'articolo 41, paragrafo 2, lettera a), nei casi previsti dall'articolo 41, paragrafo 1, lettera f), per la violazione dell'articolo 36 del medesimo regolamento. In presenza di tali violazioni, la Consob puo' altresi' proporre alla Banca d'Italia, ai sensi dell'articolo 41, paragrafo 2, lettera b), la revoca dell'autorizzazione rilasciata ai sensi del comma 2.
 
 Per assicurare il rispetto del presente articolo nonche' del regolamento indicato dal comma 1, la Banca d'Italia e la Consob dispongono, secondo le rispettive attribuzioni e le finalita' dell'articolo 5, dei poteri loro attribuiti dal presente decreto nonche' dei poteri previsti dall'articolo 39 del citato regolamento (UE) 2017/1131.
 
@@ -294,7 +1289,57 @@ La Consob e' l'autorita' competente a pubblicare e gestire sul proprio sito inte
 
 La Consob e l'IVASS sono le autorita' nazionali competenti designate ai sensi dell'articolo 4, numero 8), del regolamento (UE) n. 1286/2014 ai fini della vigilanza sul rispetto degli obblighi che il medesimo regolamento (UE) n. 1286/2014 impone agli ideatori di PRIIP e alle persone che forniscono consulenza sui PRIIP o vendono i PRIIP, anche mediante i rispettivi poteri di vigilanza, d'indagine e sanzionatori, secondo le rispettive attribuzioni e conformemente a quanto disposto dal presente articolo.
 
+2.
+                        
+                            
+                                Ai fini di cui al comma 1, la Consob e' l'autorita' competente: 
+ 
+                            
+                            
+                                a)
+                                
+                                    ad assicurare l'osservanza degli obblighi imposti dal regolamento (UE) n. 1286/2014 agli ideatori di un PRIIP e alle persone che forniscono consulenza sui PRIIP o vendono i PRIIP, fatto salvo quanto disposto al comma 3, lettera a); 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    a esercitare, con riferimento ai prodotti di investimento assicurativo commercializzati, distribuiti o venduti in Italia, oppure a partire dall'Italia, l'attivita' di monitoraggio e i poteri di cui agli articoli 15, paragrafo 2, 17 e 18, paragrafo 3, del regolamento (UE) n. 1286/2014, per quanto riguarda la tutela degli investitori o l'integrita' e l'ordinato funzionamento dei mercati, fatto salvo quanto disposto al comma 3, lettera b), per i soggetti ivi indicati; (78) 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    LETTERA ABROGATA DAL D.LGS. 25 NOVEMBRE 2019, N. 165.
+
 In conformita' alle attribuzioni individuate al comma 2, la Consob esercita i poteri di vigilanza e d'indagine di cui alla Parte II.
+
+3.
+                        
+                            
+                                Ai fini di cui al comma 1, l'IVASS e' l'autorita' competente: 
+ 
+                            
+                            
+                                a)
+                                
+                                    ad assicurare l'osservanza degli obblighi imposti dal regolamento (UE) n. 1286/2014 alle persone che forniscono consulenza sui prodotti d'investimento assicurativo, o vendono tali prodotti, con riguardo alle imprese di assicurazione e agli intermediari assicurativi di cui all'articolo 109, comma 2, lettere a) e
+                                
+                            
+                            
+                                b)
+                                
+                                    del decreto legislativo 7 settembre 2005, n. 209, agli altri soggetti di cui questi intermediari assicurativi eventualmente si avvalgono iscritti nella sezione del registro di cui alla lettera e) dell'articolo 109, comma 2, del decreto legislativo n. 209 del 2005, e ai soggetti iscritti nella sezione del registro di cui alla lettera c) dell'articolo 109, comma 2, del decreto legislativo n. 209 del 2005; 
+ b) a esercitare, con riferimento ai prodotti di investimento assicurativo commercializzati, distribuiti o venduti in Italia, oppure a partire dall'Italia, l'attivita' di monitoraggio e i poteri di cui agli articoli 15, paragrafo 2, 17 e 18, paragrafo 3, del regolamento (UE) n. 1286/2014 nel caso di prodotti distribuiti dalle imprese di assicurazione e dagli intermediari assicurativi di cui all'articolo 109, comma 2, lettere a) e b), del decreto legislativo 7 settembre 2005, n. 209, dagli altri soggetti di cui questi intermediari assicurativi eventualmente si avvalgono iscritti nella sezione del registro di cui alla lettera e) dell'articolo 109, comma 2, del decreto legislativo 7 settembre 2005, n. 209, e dai soggetti iscritti nella sezione del registro di cui alla lettera c) dell'articolo 109, comma 2, del decreto legislativo 7 settembre 2005, n. 209; (78) 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    a esercitare con riferimento ai prodotti di investimento assicurativo commercializzati, distribuiti o venduti in Italia, oppure a partire dall'Italia, l'attivita' di monitoraggio e i poteri di cui agli articoli 15, paragrafo 2, 17 e 18, paragrafo 3, del regolamento (UE) n. 1286/2014 con riguardo ai profili attinenti alla stabilita' del sistema finanziario e assicurativo o di una sua parte. (78)
 
 La Consob e l'IVASS, nel rispetto della reciproca indipendenza, individuano forme di coordinamento operativo, anche ai sensi dell'articolo 20 della legge 28 dicembre 2005, n. 262, per l'esercizio delle competenze e dei poteri loro attribuiti ai sensi del presente articolo e dell'articolo 4-septies, anche attraverso protocolli d'intesa, senza nuovi o maggiori oneri a carico della finanza pubblica, perseguendo l'obiettivo di semplificare, ove possibile, gli oneri per i soggetti vigilati. La Consob e l'IVASS collaborano tra loro, anche ai sensi dell'articolo 21 della legge 28 dicembre 2005, n. 262, per agevolare l'esercizio delle competenze e dei poteri loro attribuiti ai sensi del presente articolo e dell'articolo 4-septies e si danno reciproca comunicazione dei provvedimenti adottati ai sensi degli articoli 17 e 18, paragrafo 3, del regolamento (UE) n. 1286/2014. (78)
 
@@ -322,9 +1367,111 @@ La Consob e l'IVASS adottano le disposizioni di cui ai commi 5 e 6 avuto riguard
 
 Ai fini della disciplina sui fornitori di servizi di crowdfunding si applicano le definizioni contenute nell'articolo 2 del regolamento (UE) 2020/1503.
 
+2.
+                        
+                            
+                                La Consob e la Banca d'Italia sono le autorita' nazionali competenti ai sensi del regolamento (UE) 2020/1503, degli atti delegati e dalle norme tecniche di regolamentazione e di attuazione del medesimo regolamento, secondo le attribuzioni e competenze spettanti rispettivamente: 
+ 
+                            
+                            
+                                a)
+                                
+                                    alla Consob ai sensi dell'articolo 5, commi 1 e 3;; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    alla Banca d'Italia ai sensi dell'articolo 5, commi 1 e 2.
+
 La Consob, sentita la Banca d'Italia, autorizza i fornitori di servizi di crowdfunding ai sensi dell'articolo 12 del regolamento (UE) 2020/1503 e revoca, sentita la Banca d'Italia, l'autorizzazione ai sensi dell'articolo 17 del regolamento (UE) 2020/1503.
 
 In deroga al comma 3, la Banca d'Italia, sentita la Consob, autorizza come fornitori di servizi di crowdfunding le banche, gli istituti di pagamento, gli istituti di moneta elettronica e gli intermediari finanziari iscritti nell'albo di cui all'articolo 106 del decreto legislativo 1° settembre 1993, n. 385, e revoca, sentita la Consob, l'autorizzazione ai sensi dell'articolo 17 del regolamento (UE) 2020/1503.
+
+5.
+                        
+                            
+                                Per le finalita' indicate al comma 2, la Consob e' l'autorita' competente: 
+ 
+                            
+                            
+                                a)
+                                
+                                    ad assicurare l'osservanza degli obblighi imposti dal regolamento (UE) 2020/1503: 
+ 1) in materia di trasparenza, ivi inclusi gli obblighi informativi nella prestazione dei servizi di crowdfunding; 
+ 2) in materia di correttezza, ivi incluse le procedure per la corretta prestazione dei servizi di crowdfunding, la gestione dei conflitti di interesse potenzialmente pregiudizievoli per i clienti, compresi quelli derivanti dai sistemi di remunerazione e incentivazione, gli incentivi, il trattamento dei reclami, le modalita' di esercizio della funzione di controllo della conformita' alle norme ove prevista; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    ad individuare le disposizioni nazionali applicabili alle comunicazioni di marketing diffuse sul territorio della Repubblica, nonche' a svolgere la relativa attivita' di monitoraggio di cui all'articolo 27, paragrafo 4, del regolamento (UE) 2020/1503.
+
+6.
+                        
+                            
+                                Per le finalita' indicate al comma 2, la Banca d'Italia e' l'autorita' competente ad assicurare l'osservanza degli obblighi imposti dal regolamento (UE) 2020/1503, ivi inclusi quelli in materia di: 
+ 
+                            
+                            
+                                a)
+                                
+                                    adeguatezza patrimoniale, contenimento del rischio e di partecipazioni detenibili, informativa da rendere al pubblico sulle stesse materie; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    governo societario e requisiti generali di organizzazione, compresa l'attuazione dell'articolo 4-undecies, e di continuita' dell'attivita'; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    organizzazione amministrativa e contabile, controlli interni, sistemi di remunerazione e incentivazione, compresa l'istituzione della funzione di controllo della conformita' alle norme, ove prevista, la gestione dei rischi ivi inclusi quelli relativi alla determinazione del tasso di default, audit interno ove previsto, ed esternalizzazione di funzioni operative; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    requisiti dei partecipanti al capitale del fornitore di servizi di crowdfunding che detengono almeno il 20 per cento del capitale o dei diritti di voto. Si applica, per quanto compatibile, la disciplina di cui all'articolo 14, commi da 5 a 8, del presente decreto, nonche' con riferimento ai requisiti di cui all'articolo 12, paragrafo 3, lettera a), del regolamento (UE) 2020/1503 quanto disposto nel decreto adottato in attuazione dell'articolo 25, comma 2, del testo unico bancario; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    verifiche nei confronti dei titolari di progetti, indicate dall'articolo 5 del regolamento (UE) 2020/1503; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    requisiti degli esponenti aziendali del fornitore di servizi di crowdfunding. Si applica, per quanto compatibile, la disciplina ((di cui all'articolo 13, commi 5, 5-bis, 6 e 6-bis,)), nonche' con riferimento ai requisiti di cui all'articolo 12, paragrafo 3, lettera a), del regolamento (UE) 2020/1503 quanto disposto nel decreto adottato in attuazione dell'articolo 26, comma 3, del testo unico bancario.
+
+7.
+                        
+                            
+                                La Banca d'Italia e la Consob, per l'esercizio delle competenze e dei poteri loro attribuiti ai sensi del presente articolo, operano in modo coordinato anche al fine di ridurre al minimo gli oneri gravanti sui fornitori di servizi di crowdfunding. A tal fine, stipulano protocolli d'intesa o modificano quelli esistenti e si danno reciproca comunicazione dei provvedimenti assunti e delle irregolarita' rilevate nell'esercizio dell'attivita' di vigilanza. I protocolli d'intesa sono resi pubblici e hanno, in particolare, ad oggetto: 
+ 
+                            
+                            
+                                a)
+                                
+                                    l'esercizio delle competenze e dei poteri attribuiti alla Banca d'Italia e alla Consob ai sensi del presente articolo; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    lo scambio di informazioni tra la Banca d'Italia e la Consob, anche con riferimento alle irregolarita' rilevate e ai provvedimenti assunti nell'esercizio dell'attivita' di vigilanza.
 
 La Consob e' il punto di contatto unico per la cooperazione amministrativa transfrontaliera tra le autorita' competenti e con l'ESMA.
 
@@ -337,6 +1484,31 @@ Per adempiere ai compiti in materia di servizi di crowdfunding previsti dal pres
 Ai fornitori di servizi di crowdfunding si applicano gli articoli 4-undecies e 4-duodecies, commi 1, 2 e 2-bis.
 
 ## Art. 4-septies. — Poteri d'intervento relativi alla violazione delle disposizioni previste dal regolamento (UE) n. 1286/2014).
+
+1.
+                        
+                            
+                                Fermi restando le attribuzioni e i poteri di cui agli articoli 15, paragrafo 2, 17 e 18, paragrafo 3, del regolamento (UE) n. 1286/2014, in caso di violazione delle disposizioni previste dall'articolo 5, paragrafo 1, dagli articoli 6 e 7, dall'articolo 8, paragrafi da 1 a 3, dall'articolo 9 e dall'articolo 10, paragrafo 1, del regolamento (UE) n. 1286/2014, la Consob puo', tenuto conto, in quanto compatibili, dei criteri stabiliti dall'articolo 194-bis: (78) 
+ 
+                            
+                            
+                                a)
+                                
+                                    sospendere, per un periodo non superiore a 60 giorni per ciascuna volta, la commercializzazione di un PRIIP; (73) 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    vietare l'offerta; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    vietare la fornitura di un documento contenente le informazioni chiave che non rispetti i requisiti di cui agli articoli 6, 7, 8 o 10 del regolamento (UE) n. 1286/2014 e imporre la pubblicazione di una nuova versione di un documento contenente le informazioni chiave.
 
 Fermo restando quanto previsto dal comma 1, in caso di violazione degli articoli 13, paragrafi 1, 3 e 4, 14 e 19 del regolamento (UE) n. 1286/2014, la Consob o l'IVASS, secondo le rispettive competenze definite ai sensi dell'articolo 4-sexies, possono, tenuto conto, in quanto compatibili, dei criteri stabiliti dall'articolo 194-bis, esercitare i poteri di cui al comma 1. (78)
 
@@ -388,6 +1560,159 @@ Ai sensi dell'articolo 23-ter, paragrafo 7, del regolamento (UE) 2016/1011, il C
 
 La Banca d'Italia, la CONSOB, l'IVASS e la COVIP sono le autorita' nazionali competenti ai sensi del regolamento (UE) 2017/2402, secondo le rispettive attribuzioni e conformemente a quanto disposto dal presente articolo.
 
+2.
+                        
+                            
+                                Ai fini del presente articolo valgono le seguenti definizioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    "cartolarizzazione": l'operazione o lo schema di cui all'articolo 2, numero 1) del regolamento (UE) 2017/2402; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    "societa' veicolo per la cartolarizzazione" o "SSPE": un soggetto di cui all'articolo 2, numero 2) del regolamento (UE) 2017/2402; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    "cedente": un soggetto di cui all'articolo 2, numero 3) del regolamento (UE) 2017/2402; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    "promotore": un soggetto di cui all'articolo 2, numero 5) del regolamento (UE) 2017/2402. 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    "investitore istituzionale": un investitore di cui all'articolo 2, numero 12) del regolamento (UE) 2017/2402; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    "prestatore originario": un soggetto di cui all'articolo 2, numero 20) del regolamento (UE) 2017/2402; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    "impresa di assicurazione": il soggetto di cui alla lettera u) dell'articolo 1, comma 1, del decreto legislativo 7 settembre 2005, n. 209, incluse le sedi secondarie in Italia di imprese aventi sede legale in uno Stato terzo; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    "impresa di riassicurazione": il soggetto di cui alla lettera cc) dell'articolo 1, comma 1, del decreto legislativo 7 settembre 2005, n. 209, incluse le sedi secondarie in Italia di imprese aventi sede legale in uno Stato terzo; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    "ente pensionistico aziendale o professionale": un fondo pensione che risulti iscritto all'albo tenuto dalla COVIP e che rientri tra quelli di cui agli articoli 4, comma 1, e 12 del decreto legislativo 5 dicembre 2005, n. 252, ovvero tra quelli dell'articolo 20 del medesimo decreto aventi soggettivita' giuridica.».
+
+3.
+                        
+                            
+                                Ai fini del comma 1, fermi restando i compiti attribuiti alla Banca Centrale Europea (BCE) dal regolamento (UE) n. 1024/2013, la Banca d'Italia e' l'autorita' competente a: 
+ 
+                            
+                            
+                                a)
+                                
+                                    vigilare sul rispetto degli obblighi stabiliti all'articolo 5 del regolamento (UE) 2017/2402 per banche, imprese di investimento, gestori, nonche' per gli intermediari finanziari iscritti nell'albo previsto dall'articolo 106 del T.U. bancario che detengono una posizione verso una cartolarizzazione o che ricevono istruzioni di adempiere agli obblighi di un altro investitore istituzionale ai sensi dell'articolo 5, paragrafo 5, del regolamento (UE) 2017/2402; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    vigilare sull'adempimento degli obblighi stabiliti agli articoli 6, 7, 8 e 9 del regolamento (UE). 2017/2402 nelle cartolarizzazioni in cui il cedente o il prestatore originario o il promotore o la SSPE siano banche, imprese di investimento, gestori, o intermediari finanziari iscritti nell'albo previsto dall'articolo 106 del T.U. bancario.
+
+4.
+                        
+                            
+                                Ai fini del comma 1, l'IVASS e' l'autorita' competente a: 
+ 
+                            
+                            
+                                a)
+                                
+                                    vigilare sul rispetto degli obblighi stabiliti all'articolo 5 del regolamento (UE) 2017/2402 per le imprese di assicurazione o di riassicurazione che detengono una posizione verso una cartolarizzazione o che ricevono istruzioni di adempiere agli obblighi di un altro investitore istituzionale ai sensi dell'articolo 5, paragrafo 5, del regolamento (UE) 2017/2402; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    vigilare sull'adempimento degli obblighi stabiliti agli articoli 6, 7, 8 e 9 del regolamento (UE) 2017/2402 nelle cartolarizzazioni in cui il cedente o il prestatore originario siano imprese di assicurazione o di riassicurazione.
+
+5.
+                        
+                            
+                                Ai fini del comma 1, la COVIP e' l'autorita' competente a: 
+ 
+                            
+                            
+                                a)
+                                
+                                    vigilare sul rispetto degli obblighi stabiliti all'articolo 5 ((del regolamento (UE) 2017/2402)) per gli enti pensionistici aziendali o professionali; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    vigilare sull'adempimento degli obblighi stabiliti agli articoli 6, 7, 8 e 9 del regolamento (UE) 2017/2402 nelle cartolarizzazioni in cui il cedente sia un ente pensionistico aziendale o professionale.
+
+6.
+                        
+                            
+                                Ai fini del comma 1, la CONSOB e' l'autorita' competente a: 
+ 
+                            
+                            
+                                a)
+                                
+                                    vigilare sul rispetto degli obblighi stabiliti all'articolo 3 del regolamento (UE) 2017/2402; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    vigilare sull'adempimento degli obblighi stabiliti agli articoli 6, 7, 8 e 9 del regolamento (UE) 2017/2402 quando ne' il cedente ne' il prestatore originario ne' la SSPE stabiliti nell'Unione siano soggetti vigilati; per soggetti vigilati si intendono quelli contemplati dagli atti legislativi dell'Unione citati all'articolo 29, paragrafo 3, del regolamento (UE) 2017/2402; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    vigilare sulla conformita' da parte di cedenti, promotori e SSPE agli articoli da 18 a 27 del regolamento (UE) 2017/2402; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    autorizzare il verificatore terzo di cui all'articolo 27, ((paragrafo)) 2, del regolamento (UE). 2017/2402 secondo quanto previsto dall'articolo 28 del medesimo regolamento, vigilare sulla conformita' di questo soggetto all'articolo 28 del medesimo regolamento, nonche' revocare la citata autorizzazione.
+
 Nei confronti dei cedenti, dei prestatori originari, dei promotori e delle SSPE, anche quando siano soggetti non vigilati, la Banca d'Italia, la CONSOB, l'IVASS e la COVIP esercitano i poteri di vigilanza e di indagine previsti dall'articolo 30 del regolamento (UE) 2017/2402 e dalla normativa di settore, ivi inclusi quelli previsti dall'art. 6-bis, secondo le rispettive attribuzioni indicate nei commi precedenti. La CONSOB puo' esercitare, altresi', nei confronti di chiunque gli ulteriori poteri previsti dall'articolo 187-octies, secondo le modalita' ivi stabilite e puo' dettare disposizioni inerenti alla procedura di autorizzazione dei verificatori terzi di cui all'articolo 27, paragrafo 2, del regolamento (UE) 2017/2402 e di eventuale revoca. Le predette autorita' adempiono agli obblighi informativi verso l'AESFEM previsti dall'articolo 37, paragrafo 6, del regolamento (UE) 2017/2402 secondo le rispettive attribuzioni.
 
 Ai fini dei commi 3 lettera b), 4 lettera b) e 5 lettera b), se i cedenti, i prestatori originari, i promotori e le SSPE non sono tutti soggetti vigilati, la Banca d'Italia, l'IVASS e la COVIP esercitano i poteri di vigilanza e d'indagine previsti dal comma 7 per il tramite dei soggetti vigilati. A questi fini, i soggetti non vigilati trasmettono le informazioni necessarie a quelli vigilati, che li inviano alla propria Autorita' di vigilanza. Resta ferma la facolta' per la Banca d'Italia, l'IVASS e la COVIP, di chiedere le informazioni direttamente ai soggetti non vigilati.
@@ -427,6 +1752,31 @@ ARTICOLO ABROGATO DAL D.LGS. 25 NOVEMBRE 2019, N. 165
 
 I soggetti di cui alle parti II e III adottano procedure specifiche per la segnalazione al proprio interno, da parte del personale, di atti o fatti che possano costituire violazioni delle norme disciplinanti l'attivita' svolta, nonche' del ((regolamento prospetto come definito all'articolo 93-bis, comma 1, lettera a), e del)) regolamento (UE) n. 596/2014. (78)
 
+2.
+                        
+                            
+                                Le procedure previste al comma 1 sono idonee a garantire: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la riservatezza dei dati personali del segnalante e del presunto responsabile della violazione, ferme restando le regole che disciplinano le indagini o i procedimenti avviati dall'autorita' giudiziaria in relazione ai fatti oggetto della segnalazione; l'identita' del segnalante e' sottratta all'applicazione dell'articolo 7, comma 2, del decreto legislativo 30 giugno 2003, n. 196, e non puo' essere rivelata per tutte le fasi della procedura, salvo suo consenso o quando la conoscenza sia indispensabile per la difesa del segnalato; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la tutela adeguata del soggetto segnalante contro condotte ritorsive, discriminatorie o comunque sleali conseguenti la segnalazione; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    un canale specifico, indipendente e autonomo per la segnalazione.
+
 Fuori dei casi di responsabilita' a titolo di calunnia o diffamazione, ovvero per lo stesso titolo ai sensi dell'articolo 2043 del Codice civile, la presentazione di una segnalazione nell'ambito della procedura di cui al comma 1 non costituisce violazione degli obblighi derivanti dal rapporto di lavoro. ((Si applicano le disposizioni contenute nell'articolo 6, commi 2-ter e 2-quater, del decreto legislativo 8 giugno 2001, n. 231.))
 
 La Banca d'Italia e la Consob adottano, secondo le rispettive competenze, le disposizioni attuative del presente articolo, avuto riguardo all'esigenza di coordinare le funzioni di vigilanza e ridurre al minimo gli oneri gravanti sui soggetti destinatari.
@@ -444,6 +1794,38 @@ PERIODO SOPPRESSO DAL D.LGS. 21 MAGGIO 2018, N. 68.
 
 ## Art. 4-duodecies. — (Procedura di segnalazione alle Autorita' di Vigilanza)
 
+1.
+                        
+                            
+                                La Banca d'Italia e la Consob: 
+ 
+                            
+                            
+                                a)
+                                
+                                    ricevono, ciascuna per le materie di propria competenza, da parte del personale dei soggetti indicati dall'articolo 4-undecies, segnalazioni che si riferiscono a violazioni delle norme del presente decreto, nonche' di atti dell'Unione europea direttamente applicabili nelle stesse materie; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    tengono conto dei criteri previsti all'articolo 4-undecies, comma 2, lettere a) e b), e possono stabilire condizioni, limiti e procedure per la ricezione delle segnalazioni; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    si avvalgono delle informazioni contenute nelle segnalazioni, ove rilevanti, esclusivamente nell'esercizio delle funzioni di vigilanza; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    prevedono, mediante protocollo d'intesa, le opportune misure di coordinamento nello svolgimento delle attivita' di rispettiva competenza, ivi compresa l'applicazione delle relative sanzioni, in modo da coordinare l'esercizio delle funzioni di vigilanza e ridurre al minimo gli oneri gravanti sui soggetti vigilati.
+
 Il comma 1 si applica alle segnalazioni alla Consob, da chiunque effettuate ((di violazioni del regolamento prospetto come definito all'articolo 93-bis, comma 1, lettera a), o)), di violazioni del regolamento (UE) n. 596/2014. Le procedure sono adottate dalla Consob conformemente a quanto previsto dalla direttiva di esecuzione (UE) 2015/2392.
 
 Gli atti relativi alle segnalazioni di cui ai commi 1 e 1-bis sono sottratti all'accesso previsto dagli articoli 22 e seguenti della legge 7 agosto 1990, n. 241, e successive modificazioni.
@@ -456,6 +1838,130 @@ Gli atti relativi alle segnalazioni di cui ai commi 1 e 1-bis sono sottratti all
  Il D.Lgs. 3 agosto 2017, n. 129 ha disposto (con l'art. 10, comma 2) che "Le disposizioni del decreto legislativo 24 febbraio 1998, n. 58, modificate dal presente decreto, si applicano dal 3 gennaio 2018, fatto salvo quanto diversamente previsto dall'articolo 93 della direttiva 2014/65/UE, con riferimento dell'articolo 65, paragrafo 2, della direttiva medesima, le cui disposizioni attuative si applicano dal 3 settembre 2019, e dall'articolo 55 del regolamento (UE) n. 600/2014, e successive modificazioni, nonche' dal comma 3. [...] Fermo restando quanto previsto dalle disposizioni dell'Unione europea direttamente applicabili, le disposizioni emanate dalla Banca d'Italia e dalla Consob, anche congiuntamente, ai sensi di disposizioni del decreto legislativo 24 febbraio 1998, n. 58, abrogate o modificate dal presente decreto, continuano a essere applicate fino alla data di entrata in vigore dei provvedimenti emanati dalla Banca d'Italia o dalla Consob nelle corrispondenti materie".
 
 ## Art. 4-terdecies. — (Esenzioni)
+
+1.
+                        
+                            
+                                Le disposizioni contenute nella parte II non si applicano: 
+ 
+                            
+                            
+                                a)
+                                
+                                    alle imprese di assicurazione ne' alle imprese che svolgono le attivita' di riassicurazione e di retrocessione di cui al decreto legislativo 7 settembre 2005, n. 209; (78) 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    ai soggetti che prestano servizi di investimento esclusivamente nei confronti di soggetti controllanti, controllati o sottoposti a comune controllo; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    ai soggetti che prestano servizi di investimento a titolo accessorio nell'ambito di un'attivita' professionale disciplinata da disposizioni legislative o regolamentari o da un codice di deontologia professionale che ammettano la prestazione di detti servizi, fermo restando quanto previsto dal presente decreto per gli intermediari iscritti nell'albo previsto dall'articolo 106 del T.U. bancario; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    ai soggetti che negoziano per conto proprio in strumenti finanziari diversi dagli strumenti derivati su merci o dalle quote di emissione o relativi strumenti derivati e che non prestano altri servizi di investimento o non esercitano altre attivita' di investimento in strumenti finanziari diversi dagli strumenti derivati su merci, dalle quote di emissione o relativi derivati, salvo che tali soggetti: 
+ 1) siano market maker, 
+ 2) ((siano membri o partecipanti di un mercato regolamentato o di un sistema multilaterale di negoziazione, ad eccezione delle entita' non finanziarie che eseguono in una sede di negoziazione operazioni che siano parte della gestione della liquidita' o che siano oggettivamente misurabili in base alla capacita' di ridurre i rischi direttamente connessi all'attivita' commerciale o all'attivita' di finanziamento della tesoreria o del gruppo di appartenenza;)) 
+ 3) applichino una tecnica di negoziazione algoritmica ad alta frequenza, o 
+ 4) negozino per conto proprio quando eseguono gli ordini dei clienti. 
+ I gestori di Oicr, le Sicav, le Sicaf e i relativi depositari, le controparti centrali e i soggetti esentati a norma delle lettere a), h), i) e l), non sono tenuti, ai fini dell'esenzione, a soddisfare le condizioni enunciate nella presente lettera. 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    agli operatori soggetti agli obblighi previsti dalla direttiva 2003/87/CE, che, quando trattano quote di emissione, non eseguono ordini di clienti e non prestano servizi o attivita' di investimento diversi dalla negoziazione per conto proprio, a condizione che non applichino tecniche di negoziazione algoritmica ad alta frequenza; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    ai soggetti che prestano servizi di investimento consistenti esclusivamente nella gestione di sistemi di partecipazione dei lavoratori; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    ai soggetti che prestano servizi di investimento consistenti esclusivamente nel gestire sistemi di partecipazione dei lavoratori e nel prestare servizi di investimento esclusivamente per la propria controllante, le proprie controllate o altre controllate della propria controllante; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    alla Banca centrale europea, alla Banca d'Italia, ad altri membri del SEBC e ad altri organismi nazionali che svolgono funzioni analoghe nell'Unione europea, al Ministero dell'economia e delle finanze e ad altri organismi pubblici che sono incaricati o che intervengono nella gestione del debito pubblico nell'Unione europea e ad istituzioni finanziarie internazionali create da due o piu' Stati membri allo scopo di mobilitare risorse e fornire assistenza finanziaria a quelli, tra i loro membri, che stiano affrontando o siano minacciati da gravi difficolta' finanziarie; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    ai fondi pensione, siano essi armonizzati o meno dal diritto dell'Unione europea, nonche' ai loro soggetti depositari; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    ai soggetti: 
+ i) compresi i market maker, che negoziano per conto proprio strumenti derivati su merci o quote di emissione o derivati sulle stesse, esclusi quelli che negoziano per conto proprio eseguendo ordini di clienti; o 
+ ii) che prestano servizi di investimento diversi dalla negoziazione per conto proprio, in strumenti derivati su merci o quote di emissione o strumenti derivati sulle stesse ai clienti o ai fornitori della loro attivita' principale; 
+ purche': 
+ 1) per ciascuno di tali casi, considerati sia singolarmente che in forma aggregata, si tratti di un'attivita' accessoria alla loro attivita' principale considerata nell'ambito del gruppo; 
+ 1-bis) tali soggetti non siano parte di un gruppo la cui attivita' principale sia la prestazione di servizi di investimento ai sensi del presente decreto, l'esercizio di qualsiasi attivita' di cui all'allegato I della direttiva 2013/36/UE o l'attivita' di market making in relazione agli strumenti derivati su merci; 
+ 2) tali soggetti non applichino una tecnica di negoziazione algoritmica ad alta frequenza; e 
+ 3) detti soggetti comunichino alla Consob, su richiesta di quest'ultima, i criteri in base ai quali hanno valutato che la loro attivita' ai sensi dei punti i) e ii) sia accessoria all'attivita' principale, in conformita' a quanto stabilito negli atti delegati emanati dalla Commissione europea ai sensi dell'articolo 2, paragrafo 4, della direttiva 2014/65/UE. 
+ L'avvenuta perdita dei requisiti previsti per l'esenzione di cui alla presente lettera deve essere comunicata senza indugio alla Consob dai soggetti interessati che possono continuare ad esercitare le attivita' indicate sub i) e ii) purche', entro sei mesi dalla suddetta comunicazione, presentino domanda di autorizzazione secondo le norme previste dal presente decreto; 
+
+                                
+                            
+                            
+                                m)
+                                
+                                    ai soggetti che forniscono consulenza in materia di investimenti nell'esercizio di un'altra attivita' professionale non contemplata dalla direttiva 2014/65/UE, purche' tale consulenza non sia specificamente remunerata; 
+
+                                
+                            
+                            
+                                n)
+                                
+                                    agli agenti di cambio le cui attivita' e funzioni sono disciplinate dall'articolo 201 del presente decreto; 
+
+                                
+                            
+                            
+                                o)
+                                
+                                    ai gestori del sistema di trasmissione quali definiti all'articolo 2, paragrafo 4, della direttiva 2009/72/CE o all'articolo 2, paragrafo 4, della direttiva 2009/73/CE, quando svolgono le loro funzioni in conformita' delle suddette direttive o del regolamento (CE) n. 714/2009 o del regolamento (CE) n. 715/2009 o dei codici di rete o degli orientamenti adottati a norma di tali regolamenti, alle persone che agiscono in qualita' di prestatori di servizi per loro conto per espletare i loro compiti ai sensi di tali atti legislativi o dei codici di rete o degli orientamenti adottati a norma di tali regolamenti, o a qualsiasi gestore o amministratore di un meccanismo di bilanciamento dell'energia, di una rete o sistema di condotte per bilanciare le forniture e i consumi di energia quando svolgono detti compiti. Tale esenzione si applica alle persone che esercitano le attivita' menzionate nella presente lettera solo quando effettuano attivita' di investimento o prestano servizi di investimento relativi ai derivati su merci al fine di svolgere tali attivita'. Tale esenzione non si applica in relazione alla gestione di un mercato secondario, incluse le piattaforme per la negoziazione secondaria di diritti di trasmissione finanziari; 
+
+                                
+                            
+                            
+                                p)
+                                
+                                    ai depositari centrali autorizzati ai sensi del regolamento (UE) n. 909/2014, salvo quanto previsto dall'articolo 79-noviesdecies.1 del presente decreto; 
+
+                                
+                            
+                            
+                                p-bis)
+                                
+                                    ai soggetti autorizzati a prestare servizi di crowdfunding ai sensi del regolamento (UE) 2020/1503 del Parlamento europeo e del Consiglio, del 7 ottobre 2020. (110) 
+ 
+ (73)
 
 ---------------
                             AGGIORNAMENTO (73)
@@ -474,6 +1980,44 @@ Gli atti relativi alle segnalazioni di cui ai commi 1 e 1-bis sono sottratti all
 
 ## Art. 5. — Finalita' e destinatari della vigilanza
 
+1.
+                        
+                            
+                                La vigilanza sulle attivita' disciplinate dalla presente parte ha per obiettivi: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la salvaguardia della fiducia nel sistema finanziario; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la tutela degli investitori ((, anche attraverso la promozione dell'educazione finanziaria)); 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    la stabilita' e il buon funzionamento del sistema finanziario;
+                                
+                            
+                            
+                                d)
+                                
+                                    la competitivita' del sistema finanziario; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    l'osservanza delle disposizioni in materia finanziaria.
+
 Per il perseguimento degli obiettivi di cui al comma 1, la Banca d'Italia e' competente per quanto riguarda il contenimento del rischio, la stabilita' patrimoniale e la sana e prudente gestione degli intermediari ((, ivi inclusi i requisiti e i criteri applicabili ai relativi esponenti aziendali e partecipanti al capitale)).
 
 Per il perseguimento degli obiettivi di cui al comma 1, la Consob e' competente per quanto riguarda la trasparenza e la correttezza dei comportamenti.
@@ -481,6 +2025,24 @@ Per il perseguimento degli obiettivi di cui al comma 1, la Consob e' competente 
 La Banca d'Italia e la Consob esercitano i poteri di vigilanza nei confronti dei soggetti abilitati; ciascuna vigila sull'osservanza delle disposizioni legislative e regolamentari secondo le competenze definite dai commi 2 e 3.
 
 La Banca d'Italia e la CONSOB operano in modo coordinato anche al fine di ridurre al minimo gli oneri gravanti sui soggetti abilitati e si danno reciproca comunicazione dei provvedimenti assunti e delle irregolarita' rilevate nell'esercizio dell'attivita' di vigilanza.
+
+5-bis.
+                        
+                            
+                                La Banca d'Italia e la Consob, al fine di coordinare l'esercizio delle proprie funzioni di vigilanza e di ridurre al minimo gli oneri gravanti sui soggetti abilitati, stipulano un protocollo d'intesa, avente ad oggetto: 
+ 
+                            
+                            
+                                a)
+                                
+                                    i compiti di ciascuna e le modalita' del loro svolgimento, secondo il criterio della prevalenza delle funzioni di cui ai commi 2 e 3; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    lo scambio di informazioni, anche con riferimento alle irregolarita' rilevate e ai provvedimenti assunti nell'esercizio dell'attivita' di vigilanza.
 
 Il protocollo d'intesa di cui al comma 5-bis e' reso pubblico dalla Banca d'Italia e dalla Consob con le modalita' da esse stabilite. (73)
 
@@ -491,15 +2053,233 @@ Il protocollo d'intesa di cui al comma 5-bis e' reso pubblico dalla Banca d'Ital
 
 ## Art. 6. — Poteri regolamentari
 
+01.
+                        
+                            
+                                Nell'esercizio dei poteri regolamentari, la Banca d'Italia e la Consob osservano i seguenti principi: (73) 
+ 
+                            
+                            
+                                a)
+                                
+                                    valorizzazione dell'autonomia decisionale dei soggetti abilitati; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    proporzionalita', intesa come criterio di esercizio del potere adeguato al raggiungimento del fine, con il minore sacrificio degli interessi dei destinatari; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    riconoscimento del carattere internazionale del mercato finanziario e salvaguardia della posizione competitiva dell'industria italiana; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    agevolazione dell'innovazione e della concorrenza ((;))
+                                    
+                                
+                            
+                            
+                                d-bis)
+                                
+                                    
+                                        ((sviluppo sostenibile delle imprese e dei mercati.))
+
 La Banca d'Italia e la Consob possono mantenere o imporre nei regolamenti obblighi aggiuntivi rispetto a quelli previsti dall'articolo 16, paragrafi 8, 9 e 10, della direttiva 2014/65/UE e dai relativi atti delegati, nonche' dall'articolo 24 della direttiva medesima, solo nei casi eccezionali in cui tali obblighi sono obiettivamente giustificati e proporzionati, tenuto conto della necessita' di fare fronte a rischi specifici per la protezione degli investitori o l'integrita' del mercato che presentano particolare rilevanza nel contesto della struttura del mercato italiano. (73)
 
 La Banca d'Italia e la Consob comunicano al Ministero dell'economia e delle finanze le disposizioni regolamentari recanti gli obblighi aggiuntivi di cui al comma 02 ai fini della loro notifica alla Commissione europea.
 
+1.
+                        
+                            
+                                La Banca d'Italia, sentita la CONSOB, disciplina con regolamento: 
+ 
+                            
+                            
+                                a)
+                                
+                                    gli obblighi delle SIM, delle imprese di paesi terzi e ((dei gestori autorizzati)) in materia di adeguatezza patrimoniale, contenimento del rischio nelle sue diverse configurazioni e partecipazioni detenibili, nonche' l'informativa da rendere al pubblico sulle stesse materie e sul governo societario, l'organizzazione amministrativa e contabile, i controlli interni e i sistemi di remunerazione e di incentivazione; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    gli obblighi delle Sim, delle imprese di paesi terzi, delle Sgr ((autorizzate)), nonche' degli intermediari finanziari iscritti nell'albo previsto dall'articolo 106 del Testo Unico bancario, delle banche italiane autorizzate all'esercizio dei servizi o delle attivita' di investimento, in materia di modalita' di deposito e di sub-deposito degli strumenti finanziari e del denaro di pertinenza della clientela; (73) 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    le regole applicabili agli Oicr italiani aventi a oggetto: 
+ 1) i criteri, i limiti e i divieti relativi all'attivita' di investimento, avuto riguardo anche ai rapporti di gruppo e, nel caso di concessione di finanziamenti, sotto qualsiasi forma, incluso l'acquisto di crediti, anche alla natura del soggetto finanziato; (132) 
+ 1-bis) i requisiti in materia di gestione della liquidita', inclusi gli strumenti di gestione della liquidita', e i requisiti in materia di gestione dei rischi derivanti dall'attivita' di concessione di finanziamenti, sotto qualsiasi forma, incluso l'acquisto di crediti; (132) 
+ 2) le norme prudenziali di contenimento e frazionamento del rischio, limitatamente agli Oicr diversi dai FIA riservati. La Banca d'Italia puo' prevedere l'applicazione ai FIA italiani riservati di limiti di leva finanziaria massima, di norme prudenziali e misure di contenimento e frazionamento del rischio per assicurare la stabilita' e l'integrita' del mercato finanziario; (132) 
+ 3) gli schemi tipo e le modalita' di redazione dei prospetti contabili che ((i gestori autorizzati e gli Oicr societari in gestione esterna)) redigono periodicamente; 
+ 4) i metodi di calcolo del valore delle quote o azioni di Oicr; 
+ 5) i criteri e le modalita' da adottare per la valutazione dei beni e dei valori in cui e' investito il patrimonio e la periodicita' della valutazione. Per la valutazione di beni non negoziati in mercati regolamentati, la Banca d'Italia puo' prevedere il ricorso a esperti indipendenti e richiederne l'intervento anche in sede di acquisto e vendita dei beni da parte del gestore; 
+ 6) le condizioni per la delega a terzi della valutazione dei beni in cui e' investito il patrimonio dell'Oicr e del calcolo del valore delle relative quote o azioni. 
+
+                                
+                            
+                            
+                                c-bis)
+                                
+                                    gli obblighi dei soggetti abilitati relativi alla prestazione dei servizi e delle attivita' di investimento e alla gestione collettiva del risparmio, in materia di: 
+ 1) governo societario e requisiti generali di organizzazione, compresa l'attuazione dell'articolo 4-undecies; 
+ 2) sistemi di remunerazione e di incentivazione; 
+ 3) continuita' dell'attivita'; 
+ 4) organizzazione amministrativa e contabile, compresa l'istituzione della funzione di controllo della conformita' alle norme; 
+ 5) gestione del rischio dell'impresa; 
+ 6) audit interno; 
+ 7) responsabilita' dell'alta dirigenza; 
+ 8) esternalizzazione di funzioni operative essenziali o importanti o di servizi o di attivita'. (73)
+
 Le disposizioni di cui al comma 1, lettera a), prevedono la possibilita' di adottare sistemi interni di misurazione dei rischi per la determinazione dei requisiti patrimoniali, previa autorizzazione della Banca d'Italia, nonche' di utilizzare valutazioni del rischio di credito rilasciate da societa' o enti esterni.
+
+2.
+                        
+                            
+                                La Consob, sentita la Banca d'Italia, tenuto conto delle differenti esigenze di tutela degli investitori connesse con la qualita' e l'esperienza professionale dei medesimi, disciplina con regolamento gli obblighi dei soggetti abilitati in materia di: 
+ 
+                            
+                            
+                                a)
+                                
+                                    trasparenza, ivi inclusi: 
+ 1) gli obblighi informativi nella prestazione dei servizi e delle attivita' di investimento, nonche' della gestione collettiva del risparmio, con particolare riferimento al grado di rischiosita' di ciascun tipo specifico di prodotto finanziario e delle gestioni di portafogli offerti, all'impresa e ai servizi prestati, alla salvaguardia degli strumenti finanziari o delle disponibilita' liquide detenuti dall'impresa, ai costi, agli incentivi, alle strategie di esecuzione degli ordini e alle pratiche di vendita abbinata; (73) 
+ 2) le modalita' e i criteri da adottare nella diffusione di comunicazioni pubblicitarie e promozionali e di ricerche in materia di investimenti; 
+ 3) gli obblighi di comunicazione ai clienti relativi all'esecuzione degli ordini, alla gestione di portafogli, alle operazioni con passivita' potenziali e ai rendiconti di strumenti finanziari o delle disponibilita' liquide dei clienti detenuti dall'impresa; 
+ 3-bis) gli obblighi informativi nei confronti degli investitori dei FIA italiani, dei FIA UE e dei FIA non UE; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    correttezza dei comportamenti, ivi inclusi: 
+ 1) gli obblighi di acquisizione di informazioni dai clienti o dai potenziali clienti ai fini della valutazione di adeguatezza o di appropriatezza delle operazioni o dei servizi forniti, ivi inclusi i casi di pratiche di vendita abbinata; (73) 
+ 2) le misure per eseguire gli ordini alle condizioni piu' favorevoli per i clienti; 
+ 3) gli obblighi in materia di gestione degli ordini; 
+ 4) l'obbligo di assicurare che la gestione di portafogli si svolga con modalita' aderenti alle specifiche esigenze dei singoli investitori e che quella su base collettiva avvenga nel rispetto degli obiettivi di investimento dell'OICR; 
+ 5) le condizioni alle quali possono essere corrisposti o percepiti incentivi. 
+
+                                
+                            
+                            
+                                b-bis)
+                                
+                                    prestazione dei servizi e delle attivita' di investimento e di gestione collettiva del risparmio, relativi: 
+ 1) alle procedure, anche di controllo interno, per la corretta e trasparente prestazione dei servizi e delle attivita' di investimento, ivi incluse quelle per: 
+ a) il governo degli strumenti finanziari e dei depositi strutturati; 
+ b) la percezione o la corresponsione di incentivi; 
+ 2) alle procedure, anche di controllo interno, per la corretta e trasparente prestazione della gestione collettiva del risparmio, ivi incluse quelle per la percezione o la corresponsione di incentivi; 
+ 3) alle modalita' di esercizio della funzione di controllo della conformita' alle norme; 
+ 4) al trattamento dei reclami; 
+ 5) alle operazioni personali; 
+ 6) alla gestione dei conflitti di interesse potenzialmente pregiudizievoli per i clienti, ivi inclusi quelli derivanti dai sistemi di remunerazione e di incentivazione e dalle fattispecie in cui il gestore gestisce o intende gestire un Oicr su iniziativa di un terzo; (132) 
+ 7) alla conservazione delle registrazioni; 
+ 8) alla conoscenza e competenza delle persone fisiche che forniscono consulenza alla clientela in materia di investimenti o informazioni su strumenti finanziari, servizi di investimento o accessori per conto dei soggetti abilitati. (73)
+
+2-bis.
+                        
+                            
+                                Con riferimento alle materie indicate al comma 1, lettera c-bis), numeri 1), 2), 3), 7) e 8), la Banca d'Italia acquisisce l'intesa della Consob sugli aspetti di disciplina rilevanti per le finalita' di cui all'articolo 5, comma 3. Con riferimento alle materie indicate al comma 2, lettera b-bis), numero 6), la Consob acquisisce l'intesa della Banca d'Italia sugli aspetti di disciplina rilevanti per le finalita' di cui all'articolo 5, comma 2. Gli aspetti di disciplina rilevanti per le finalita' di competenza della Banca d'Italia e della Consob sono specificati nel protocollo previsto all'articolo 5, comma 5-bis. Per l'esercizio della vigilanza ai sensi della presente parte, sono competenti la Banca d'Italia per il rispetto delle disposizioni adottate ai sensi del comma 1, lettera c-bis), numeri 1), 2), 3), 7) e 8), e la Consob per il rispetto delle disposizioni adottate ai sensi del comma 2, lettera b-bis), numero 6); inoltre, la Banca d'Italia e la Consob, in relazione agli aspetti sui quali hanno fornito l'intesa e per le finalita' di cui all'articolo 5, commi 2 e 3, possono: 
+ 
+                            
+                            
+                                a)
+                                
+                                    esercitare i poteri di vigilanza informativa e di indagine loro attribuiti dal presente capo, anche al fine di adottare i provvedimenti di intervento di propria competenza, secondo le modalita' previste nel protocollo; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    comunicare le irregolarita' riscontrate all'altra Autorita' ai fini dell'adozione dei provvedimenti di competenza. (73)
 
 COMMA ABROGATO DAL D.LGS. 3 AGOSTO 2017, N. 129. (73)
 
+2-quater.
+                        
+                            
+                                La Consob, sentita la Banca d'Italia, individua con regolamento: 
+ 
+                            
+                            
+                                a)
+                                
+                                    LETTERA ABROGATA DAL D.LGS. 3 AGOSTO 2017, N. 129; (73) 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le condizioni alle quali i soggetti abilitati non sono obbligati a osservare le disposizioni regolamentari di cui al comma 2, lettera b), numero 1), quando prestano i servizi di cui all'articolo 1, comma 5, lettere b) ed e); 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    la disciplina specifica di condotta applicabile ai rapporti tra soggetti abilitati e clienti professionali; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    le norme di condotta che non si applicano ai rapporti fra soggetti abilitati che prestano i servizi di cui all'articolo 1, comma 5, lettere a), b) ed e), e controparti qualificate, intendendosi per tali: 
+ 1) le Sim, le imprese di investimento UE, le banche, le imprese di assicurazione, gli Oicr, ((i gestori autorizzati, i fondi pensione)), gli intermediari finanziari iscritti nell'albo previsto dall'articolo 106 del Testo Unico bancario, le societa' di cui all'articolo 18 del Testo Unico bancario, gli istituti di moneta elettronica, le fondazioni bancarie, i Governi nazionali e i loro corrispondenti uffici, compresi gli organismi pubblici incaricati di gestire il debito pubblico, le banche centrali e le organizzazioni sovranazionali a carattere pubblico; 
+ 2) le altre categorie di soggetti privati individuati con regolamento dalla Consob, sentita Banca d'Italia, nel rispetto dei criteri di cui alla direttiva 2014/65/UE e alle relative misure di esecuzione; 
+ 3) le categorie corrispondenti a quelle dei numeri 1) e 2) di soggetti di paesi non appartenenti all'Unione europea ((;)) (73) 
+
+                                
+                            
+                            
+                                d-bis)
+                                
+                                    
+                                        ((i clienti professionali privati;))
+                                    
+                                
+                            
+                            
+                                d-ter)
+                                
+                                    
+                                        ((i criteri di identificazione dei soggetti privati che su richiesta possono essere trattati come clienti professionali e la relativa procedura di richiesta.))
+
 ((COMMA ABROGATO DAL D.LGS. 27 MARZO 2026, N. 47)).
+
+2-sexies.
+                        
+                            
+                                Il Ministro dell'economia e delle finanze, sentite la Banca d'Italia e la Consob, individua con regolamento: 
+ 
+                            
+                            
+                                a)
+                                
+                                    i clienti professionali pubblici; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    i criteri di identificazione dei soggetti pubblici che su richiesta possono essere trattati come clienti professionali e la relativa procedura di richiesta. (73)
 
 Le disposizioni in materia di sistemi di remunerazione e di incentivazione emanate ai sensi del comma 1, lettera c-bis), numero 2), possono prevedere che determinate decisioni in materia di remunerazione e di incentivazione siano rimesse alla competenza dell'assemblea dei soci, anche nel ((sistema con consiglio di sorveglianza)), stabilendo quorum costitutivi e deliberativi anche in deroga a norme di legge. (73)
 
@@ -524,6 +2304,91 @@ La Banca d'Italia puo' chiedere, nell'ambito delle sue competenze, ai soggetti a
 Gli obblighi previsti dal comma 1 si applicano anche a coloro ai quali i soggetti abilitati abbiano esternalizzato funzioni aziendali essenziali o importanti e al loro personale.
 
 I poteri previsti dal comma 1 possono essere esercitati anche nei confronti del soggetto incaricato della revisione legale dei conti ((da parte dei soggetti abilitati e degli Oicr societari in gestione esterna)).
+
+4.
+                        
+                            
+                                La Consob, nell'ambito delle sue competenze, puo': 
+ 
+                            
+                            
+                                a)
+                                
+                                    chiedere a chiunque la comunicazione di dati e notizie e la trasmissione di atti e documenti con le modalita' e nei termini dalla stessa stabiliti, che possano essere pertinenti ai fini dell'esercizio della propria funzione di vigilanza; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    procedere ad audizione personale nei confronti di chiunque possa essere in possesso di informazioni pertinenti.
+
+5.
+                        
+                            
+                                La Consob, nell'ambito delle sue competenze, puo' altresi', nei confronti dei soggetti abilitati: 
+ 
+                            
+                            
+                                a)
+                                
+                                    procedere a perquisizioni nei modi previsti dall'articolo 33 del decreto del Presidente della Repubblica 29 settembre 1973, n. 600, e dall'articolo 52 del decreto del Presidente della Repubblica 26 ottobre 1972, n. 633; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    richiedere le registrazioni esistenti relative a conversazioni telefoniche, comunicazioni elettroniche o scambi di dati conservate da un soggetto abilitato; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    richiedere le registrazioni detenute da un operatore di telecomunicazioni riguardanti le comunicazioni telefoniche e gli scambi di dati di un soggetto abilitato; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    avvalersi della collaborazione delle pubbliche amministrazioni, richiedendo la comunicazione di dati ed informazioni anche in deroga ai divieti di cui all'articolo 25, comma 1, del decreto legislativo 30 giugno 2003, n. 196, ed accedere al sistema informativo dell'anagrafe tributaria secondo le modalita' previste dagli articoli 2 e 3, comma 1, del decreto legislativo 12 luglio 1991, n. 212; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    richiedere la comunicazione di dati personali anche in deroga ai divieti di cui all'articolo 25, comma 1, del decreto legislativo 30 giugno 2003, n. 196; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    avvalersi, ove necessario, dei dati contenuti nell'anagrafe dei conti e dei depositi di cui all'articolo 20, comma 4, della legge 30 dicembre 1991, n. 413, nonche' acquisire, anche mediante accesso diretto, i dati contenuti nell'archivio indicato all'articolo 13 del decreto-legge 15 dicembre 1979, n. 625, convertito, con modificazioni, dalla legge 6 febbraio 1980, n. 15; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    accedere direttamente, mediante apposita connessione telematica, ai dati contenuti nella Centrale dei rischi della Banca d'Italia; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    avvalersi, ove necessario, anche mediante connessione telematica, dei dati contenuti nell'apposita sezione dell'anagrafe tributaria di cui all'articolo 7, comma sesto, del decreto del Presidente della Repubblica 29 settembre 1973, n. 605; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    procedere al sequestro dei beni che possono formare oggetto di confisca ai sensi dell'articolo 187-sexies del presente decreto. Si applicano i commi 9, 10 e 11 dell'articolo 187-octies del presente decreto.
 
 E' fatta salva l'applicazione delle disposizioni degli articoli 199, 200, 201, 202 e 203 del codice di procedura penale, in quanto compatibili.
 
@@ -571,6 +2436,31 @@ La Banca d'Italia e la Consob possono concordare, nell'ambito delle rispettive c
  Il D.Lgs. 3 agosto 2017, n. 129 ha disposto (con l'art. 10, comma 2) che "Le disposizioni del decreto legislativo 24 febbraio 1998, n. 58, modificate dal presente decreto, si applicano dal 3 gennaio 2018, fatto salvo quanto diversamente previsto dall'articolo 93 della direttiva 2014/65/UE, con riferimento dell'articolo 65, paragrafo 2, della direttiva medesima, le cui disposizioni attuative si applicano dal 3 settembre 2019, e dall'articolo 55 del regolamento (UE) n. 600/2014, e successive modificazioni, nonche' dal comma 3. [...] Fermo restando quanto previsto dalle disposizioni dell'Unione europea direttamente applicabili, le disposizioni emanate dalla Banca d'Italia e dalla Consob, anche congiuntamente, ai sensi di disposizioni del decreto legislativo 24 febbraio 1998, n. 58, abrogate o modificate dal presente decreto, continuano a essere applicate fino alla data di entrata in vigore dei provvedimenti emanati dalla Banca d'Italia o dalla Consob nelle corrispondenti materie".
 
 ## Art. 7. — Poteri di intervento sui soggetti abilitati
+
+1.
+                        
+                            
+                                La Banca d'Italia e la CONSOB, nell'ambito delle rispettive competenze, possono, con riguardo ai soggetti abilitati: 
+ 
+                            
+                            
+                                a)
+                                
+                                    convocare gli amministratori, i ((componenti dell'organo di controllo)) e il personale; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    ordinare la convocazione degli organi collegiali, fissandone l'ordine del giorno; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    procedere direttamente alla convocazione degli organi collegiali quando gli organi competenti non abbiano ottemperato a quanto previsto dalla lettera b).
 
 La Banca d'Italia e la Consob, nell'ambito delle rispettive competenze, possono altresi' convocare gli amministratori, i ((componenti dell'organo di controllo)) e il personale di coloro ai quali i soggetti abilitati ((e gli Oicr societari in gestione esterna)) abbiano esternalizzato funzioni aziendali essenziali o importanti;
 
@@ -624,6 +2514,26 @@ Fermi restando i poteri previsti dall'articolo 39, paragrafo 3, dall'articolo 42
 
 In caso di violazione da parte di Sim, di imprese di paesi terzi ((di gestori autorizzati,)), di GEFIA non UE autorizzati in Italia e di banche autorizzate alla prestazione di servizi e attivita' di investimento aventi sede in Italia di obblighi derivanti da disposizioni dell'ordinamento italiano e dell'Unione europea loro applicabili nelle materie del presente decreto, la Banca d'Italia o la Consob, nell'ambito delle rispettive competenze, possono ordinare alle stesse, anche in via cautelare, la cessazione temporanea o permanente di tali irregolarita'.
 
+2.
+                        
+                            
+                                L'autorita' di vigilanza che procede, sentita l'altra autorita', vieta ai soggetti indicati nel comma 1 di intraprendere nuove operazioni, nonche' imporre ogni altra limitazione riguardante singole tipologie di operazioni, singoli servizi o attivita', anche limitatamente a singole succursali o dipendenze dell' intermediario, quando: 
+ 
+                            
+                            
+                                a)
+                                
+                                    le violazioni commesse possono pregiudicare gli interessi inerenti agli obiettivi di carattere generale elencati nell'articolo 5, comma 1; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    nei casi di urgenza per la tutela degli interessi degli investitori. 
+ 
+ (73)
+
 ---------------
                             AGGIORNAMENTO (73)
                             
@@ -633,9 +2543,65 @@ In caso di violazione da parte di Sim, di imprese di paesi terzi ((di gestori au
 
 In caso di violazione da parte di imprese di investimento UE con succursale in Italia, di societa' di gestione UE, di GEFIA UE e non UE autorizzati in uno Stato dell'UE diverso dall'Italia, di banche UE con succursale in Italia e di societa' finanziarie previste dall'articolo 18, comma 2, del T.U. bancario, di obblighi derivanti da disposizioni dell'ordinamento italiano e dell'Unione europea loro applicabili nelle materie del presente decreto, la Banca d'Italia o la Consob, nell'ambito delle rispettive competenze, possono ordinare alle stesse di porre termine a tali irregolarita', dandone comunicazione anche all'Autorita' di vigilanza dello Stato membro in cui l'intermediario ha sede legale per i provvedimenti eventualmente necessari.
 
+2.
+                        
+                            
+                                L'autorita' di vigilanza che procede adotta i provvedimenti necessari, sentita l'altra autorita', compresa l'imposizione del divieto di intraprendere nuove operazioni, nonche' ogni altra limitazione riguardante singole tipologie di operazioni, singoli servizi o attivita' anche limitatamente a singole succursali o dipendenze dell'intermediario, ovvero ordinare la chiusura della succursale, quando: 
+ 
+                            
+                            
+                                a)
+                                
+                                    mancano o risultano inadeguati i provvedimenti dell'autorita' competente dello Stato in cui l'intermediario ha sede legale; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    risultano violazioni delle norme di comportamento; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    le irregolarita' commesse possono pregiudicare gli interessi inerenti agli obiettivi di carattere generale elencati nell'articolo 5, comma 1; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    nei casi di urgenza per la tutela degli interessi degli investitori.
+
 I provvedimenti previsti dal comma 2 sono comunicati dall'autorita' che li ha adottati all'autorita' competente dello Stato UE in cui l'intermediario ha sede legale.
 
 Se vi e' fondato sospetto che un'impresa di investimento UE o una banca UE, operanti in regime di libera prestazione di servizi in Italia, non ottemperano agli obblighi derivanti dalle disposizioni dell'Unione europea, la Banca d'Italia o la Consob informano l'autorita' competente dello Stato membro in cui l'intermediario ha sede legale per i provvedimenti necessari. Se, nonostante le misure adottate dall'autorita' competente, l'intermediario persiste nell'agire in modo tale da pregiudicare gli interessi degli investitori o il buon funzionamento dei mercati, la Banca d'Italia o la Consob, dopo avere informato l'autorita' competente dello Stato membro in cui l'intermediario ha sede legale, adottano tutte le misure necessarie compresa l'imposizione del divieto di intraprendere nuove operazioni in Italia. La Banca d'Italia o la Consob procedono sentita l'altra autorita', e informano la Commissione europea delle misure adottate.
+
+5.
+                        
+                            
+                                
+                                    ((Il comma 4 si applica anche nel caso di violazioni da parte:))
+                                
+                            
+                            
+                                a)
+                                
+                                    
+                                        ((di imprese di investimento UE o banche UE, con succursale in Italia;))
+                                    
+                                
+                            
+                            
+                                b)
+                                
+                                    
+                                        ((di societa' di gestione UE, GEFIA UE e non UE autorizzati in uno Stato dell'UE diverso dall'Italia. In tale caso: 
+ 1) la Consob informa la Banca d'Italia e l'AESFEM; 
+ 2) la Banca d'Italia, qualora sussistano potenziali rischi per la stabilita' e l'integrita' del sistema finanziario, informa la Consob e il CERS.))
+                                        ((132))
 
 Se la violazione riguarda disposizioni relative alla liquidita' dell'impresa d'investimento UE o in ogni altro caso di deterioramento della situazione di liquidita' della stessa, la Banca d'Italia puo' adottare le misure necessarie per la stabilita' finanziaria o per la tutela delle ragioni dei soggetti ai quali sono prestati i servizi, se quelle prese dall'autorita' competente dello Stato d'origine mancano o risultano inadeguate; le misure da adottare sono comunicate all'autorita' competente dello Stato d'origine. 
  
@@ -713,7 +2679,25 @@ d) reati previsti dal presente decreto.))
 
 ## Art. 7-octies. — (Poteri di contrasto all'abusivismo)
 
+1.
+                        
+                            
+                                La Consob puo', nei confronti di chiunque offre o svolge servizi o attivita' di investimento tramite la rete internet senza esservi abilitato ai sensi del presente decreto: 
+ 
+                            
+                            
+                                a)
+                                
+                                    rendere pubblica, anche in via cautelare, la circostanza che il soggetto non e' autorizzato allo svolgimento delle attivita' indicate dall'articolo 1, comma 5; 
 
+                                
+                            
+                            
+                                b)
+                                
+                                    ordinare di porre termine alla violazione.
+
+((1-bis. La Consob puo' vietare lo svolgimento delle campagne pubblicitarie condotte tramite la rete internet o ogni altro mezzo di comunicazione quando hanno ad oggetto, direttamente o indirettamente, servizi e attivita' di investimento prestati da soggetti non abilitati ai sensi dell'articolo 18 del presente decreto))
 
 ---------------
                             AGGIORNAMENTO (73)
@@ -826,11 +2810,81 @@ Per i fondi comuni di diritto italiano gestiti da societa' di gestione UE, GEFIA
 
 ## Art. 11. — Composizione del gruppo
 
+1.
+                        
+                            
+                                La Banca d'Italia, sentita la Consob: 
+ 
+                            
+                            
+                                a)
+                                
+                                    determina la nozione di gruppo rilevante ai fini della verifica dei requisiti previsti dagli articoli 19, comma 1, lettera h), (( 34, comma 1, lettera f), 35-bis, comma 1, lettera g), e 35-novies.1, comma 1, lettera f) )); 
+
+                                
+                            
+                            
+                                a-bis)
+                                
+                                    individua le disposizioni di cui al Capo II del presente Titolo applicabili alle societa' che controllano una Sim o ((un gestore autorizzato)), individuate ai sensi della lettera b); 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    emana disposizioni volte a individuare l'insieme dei soggetti da sottoporre a vigilanza su base consolidata tra quelli esercenti attivita' bancaria e servizi di investimento o di gestione collettiva del risparmio, nonche' altre attivita' finanziarie o attivita' connesse e strumentali, come individuate ai sensi dell'articolo 59, comma 1, lettera b) e lettera c), del T.U. bancario. Tali soggetti sono individuati tra quelli che, non sottoposti a vigilanza consolidata ai sensi del medesimo testo unico: 
+ 1) sono controllati, direttamente o indirettamente, da una SIM o da ((un gestore autorizzato)); 
+ 2) controllano, direttamente o indirettamente, una SIM o ((un gestore autorizzato)).
+
 Il gruppo individuato ai sensi del comma 1, lettera b), e' iscritto in un apposito albo tenuto dalla Banca d'Italia. La capogruppo comunica tempestivamente alla Banca d'Italia l'esistenza del gruppo e la sua composizione aggiornata. Copia della predetta comunicazione e' trasmessa dalla Banca d'Italia alla Consob.
 
 ## Art. 11-bis. — ((Impresa madre UE intermedia))
 
 ((
+
+1.
+                        
+                            
+                                Ai fini del presente articolo: 
+ 
+                            
+                            
+                                a)
+                                
+                                    per «gruppo di Stato terzo» si intende un gruppo come definito all'articolo 4, paragrafo 1, punto 138, del regolamento (UE) n. 575/2013, la cui impresa madre, come definita all'articolo 4, paragrafo 1, punto 15, del medesimo regolamento, e' stabilita in uno Stato terzo; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    per «societa' di partecipazione finanziaria» si intende una societa' di partecipazione finanziaria come definita all'articolo 4, paragrafo 1, punto 20, del regolamento (UE) n. 575/2013; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    per «societa' di partecipazione finanziaria mista» si intende una societa' di partecipazione finanziaria mista come definita all'articolo 4, paragrafo 1, punto 21, del regolamento (UE) n. 575/2013.
+
+2.
+                        
+                            
+                                Una Sim che appartiene a un gruppo di Stato terzo e' tenuta ad avere un'impresa madre UE intermedia in Italia o in altro Stato dell'Unione europea se ricorrono congiuntamente le seguenti condizioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    al gruppo di Stato terzo appartiene almeno una banca o una societa' di partecipazione finanziaria o di partecipazione finanziaria mista stabilita nella Unione europea, oppure un'altra Sim o un'impresa di investimento UE; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il valore totale delle attivita' detenute nell'Unione europea dal gruppo di Stato terzo e' pari o superiore a 40 miliardi di euro.
 
 Ai fini del comma 2 e' impresa madre UE intermedia una banca, o una societa' di partecipazione finanziaria o di partecipazione finanziaria mista autorizzata in conformita' a quanto previsto dall'articolo 60-bis del Testo Unico Bancario, avente sede legale in Italia o in un altro Stato dell'Unione europea e appartenente al gruppo di Stato terzo, che a sua volta non sia controllata da una banca, una societa' di partecipazione finanziaria o di partecipazione finanziaria mista autorizzata in conformita' a quanto previsto dall'articolo 60-bis del medesimo Testo Unico Bancario, avente sede legale in uno Stato dell'Unione europea e appartenente al gruppo di Stato terzo.
 
@@ -856,6 +2910,31 @@ La Banca d'Italia e la Consob possono chiedere, nell'ambito delle rispettive com
 Nell'esercizio della vigilanza su base consolidata, la Banca d'Italia puo' impartire disposizioni, ai sensi del presente articolo, nei confronti di tutti i soggetti inclusi nel gruppo individuato ai sensi dell'articolo 11, comma 1, lettera b).
 
 COMMA ABROGATO DAL D.LGS. 27 GENNAIO 2010, N. 39.
+
+5.
+                        
+                            
+                                La Banca d'Italia e la Consob possono, nell'ambito delle rispettive competenze: 
+ 
+                            
+                            
+                                a)
+                                
+                                    effettuare ispezioni presso i soggetti individuati ai sensi dell'articolo 11, comma 1, lettera b); 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    al fine esclusivo di verificare l'esattezza dei dati e delle informazioni forniti, effettuare ispezioni presso i soggetti controllati, direttamente o indirettamente, ovvero partecipati almeno per il venti per cento da uno dei soggetti individuati ai sensi dell'articolo 11, comma 1, lettera b); 
+
+                                
+                            
+                            
+                                b-bis)
+                                
+                                    effettuare ispezioni presso soggetti ai quali siano state esternalizzate funzioni aziendali essenziali o importanti da parte dei soggetti indicati dalle lettere a) e b), limitatamente alle finalita' ivi richiamate.
 
 Nell'esercizio della vigilanza su base consolidata, la Banca d'Italia puo' adottare i provvedimenti previsti dall'articolo 7, comma 2, nei confronti dei soggetti di cui all'articolo 11, comma 1, lettera b).
 
@@ -896,10 +2975,83 @@ I soggetti che svolgono funzioni di amministrazione, direzione e controllo press
 
 Ai fini del comma 1, gli esponenti possiedono requisiti di professionalita', onorabilita' e indipendenza, soddisfano criteri di competenza, correttezza e indipendenza di giudizio, dedicano il tempo necessario all'efficace espletamento dell'incarico. (130)
 
+3.
+                        
+                            
+                                Il Ministro dell'economia e delle finanze, con regolamento adottato sentite la Banca d'Italia e la Consob, individua: 
+ 
+                            
+                            
+                                a)
+                                
+                                    requisiti di onorabilita' omogenei per tutti gli esponenti; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    i requisiti di professionalita' e indipendenza, graduati secondo principi di proporzionalita'; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    i criteri di competenza, coerenti con la carica da ricoprire e con le caratteristiche del soggetto abilitato, e di adeguata composizione dell'organo; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    i criteri di correttezza, con riguardo, tra l'altro, alle relazioni d'affari dell'esponente, alle condotte tenute nei confronti delle autorita' di vigilanza e alle sanzioni o misure correttive da queste irrogate, a provvedimenti restrittivi inerenti ad attivita' professionali svolte, nonche' a ogni altro elemento suscettibile di incidere sulla correttezza dell'esponente; 
+
+                                
+                            
+                            
+                                d-bis)
+                                
+                                    i criteri di indipendenza di giudizio degli esponenti; (130) 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    i limiti al cumulo di incarichi per gli esponenti delle Sim, graduati secondo principi di proporzionalita' e tenendo conto delle dimensioni dell'intermediario, e i criteri di disponibilita' di tempo allo svolgimento degli incarichi; (130) 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    le cause che comportano la sospensione temporanea dalla carica e la sua durata.
+
 Ai responsabili delle principali funzioni aziendali dei soggetti abilitati, come individuati dal regolamento di cui al comma 3, si applicano i commi 1, 2 e 3, limitatamente ai requisiti di onorabilita' e ai criteri di competenza e correttezza. (130)
 
 I soggetti indicati al comma 1 valutano l'idoneita' dei propri esponenti e responsabili delle principali funzioni aziendali e l'adeguatezza complessiva degli organi di amministrazione e controllo, documentando il processo di analisi e motivando opportunamente l'esito della valutazione. La valutazione e' condotta dall'organo di appartenenza di ciascun esponente e, per i soggetti che non sono componenti di un organo, dall'organo che li ha nominati.
 In caso di specifiche e limitate carenze, i medesimi organi possono adottare misure necessarie a colmarle. In ogni altro caso il difetto di idoneita' o la violazione dei limiti al cumulo degli incarichi determina la decadenza dall'ufficio; questa e' pronunciata dai medesimi organi entro trenta giorni dalla nomina o dalla conoscenza del difetto o della violazione sopravvenuti. (130)
+
+5-bis.
+                        
+                            
+                                La valutazione di cui al comma 5 e' condotta: 
+ 
+                            
+                            
+                                a)
+                                
+                                    con riferimento ai componenti degli organi di amministrazione e controllo: 
+ 1) prima che essi assumano le funzioni, nel caso in cui non sia rinnovata la maggioranza dei componenti dell'organo. A questo fine, l'efficacia della nomina dei nuovi componenti e' sospesa fino alla conclusione della valutazione dell'idoneita'. Resta fermo quanto previsto dall'articolo 2383, secondo comma, del codice civile; 
+ 2) dopo che essi abbiano assunto le funzioni, nel caso di rinnovo della maggioranza dei componenti dell'organo. Fermo restando quanto previsto dal comma 5, in questo caso la nomina e' immediatamente efficace. 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    con riferimento ai responsabili delle principali funzioni aziendali e ai soggetti che svolgono funzioni di direzione, prima che tali soggetti siano nominati. (130)
 
 ((La Banca d'Italia, secondo modalita' e tempi da essa stabiliti)), anche al fine di ridurre al minimo gli oneri gravanti sui soggetti abilitati: ((valuta)) l'idoneita' degli esponenti e dei responsabili delle principali funzioni aziendali dei soggetti abilitati di maggiore rilevanza, come individuati dal regolamento di cui al comma 3, e il rispetto dei limiti al cumulo degli incarichi, anche sulla base dell'analisi compiuta e delle eventuali misure adottate ai sensi del comma 5. A questo fine,((la Banca d'Italia tiene)) conto anche delle informazioni acquisite sulla base della disciplina in materia di collaborazione tra autorita' o tramite accesso alla banca dati centrale AML/CFT di cui al regolamento (UE) 2024/1620 del Parlamento europeo e del Consiglio, del 31 maggio 2024.
 In caso di difetto o violazione, ((pronuncia)) la decadenza dalla carica. (130) ((133))
@@ -924,7 +3076,57 @@ In caso di difetto o violazione, ((pronuncia)) la decadenza dalla carica. (130) 
 
 I titolari delle partecipazioni indicate all'articolo 15 possiedono requisiti di onorabilita' e soddisfano criteri di competenza e correttezza in modo da garantire la sana e prudente gestione della societa' partecipata.
 
+2.
+                        
+                            
+                                Il Ministro dell'economia e delle finanze, con regolamento adottato sentite la Banca d'Italia e la Consob, individua: 
+ 
+                            
+                            
+                                a)
+                                
+                                    i requisiti di onorabilita'; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    i criteri di competenza, graduati in relazione all'influenza sulla gestione della societa' che il titolare della partecipazione puo' esercitare; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    i criteri di correttezza, con riguardo, tra l'altro, alle relazioni d'affari del titolare della partecipazione, alle condotte tenute nei confronti delle autorita' di vigilanza e alle sanzioni o misure correttive da queste irrogate, a provvedimenti restrittivi inerenti ad attivita' professionali svolte, nonche' a ogni altro elemento suscettibile di incidere sulla correttezza del titolare della partecipazione.
+
 Ai fini dell'applicazione del presente articolo e dell'articolo 15, per ((le Sicav in gestione interna autorizzate e le Sicaf in gestione interna autorizzate)) si fa riferimento alle sole azioni nominative e le disposizioni di cui al comma 2 ((possono stabilire)) le ipotesi in cui, al fine dell'attribuzione del diritto di voto, tali azioni sono considerate come azioni al portatore, con riguardo alla data di acquisto.
+
+4.
+                        
+                            
+                                Ai fini dei commi 1 e 2 si considerano anche: 
+ 
+                            
+                            
+                                a)
+                                
+                                    le partecipazioni possedute per il tramite di societa' controllate, di societa' fiduciarie o per interposta persona; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    i casi di cui all'articolo 15, comma 4, lettera b); 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    i casi in cui i diritti derivanti dalle partecipazioni spettano o sono attribuiti ad un soggetto diverso dal titolare delle partecipazioni stesse od esistono accordi concernenti l'esercizio dei diritti di voto.
 
 Fermo restando quanto previsto dall'articolo 16, qualora non siano soddisfatti i requisiti e i criteri di cui ai commi 1 e 2 non possono essere esercitati i diritti di voto e gli altri diritti che consentono di influire sulla societa', inerenti alle partecipazioni eccedenti le soglie previste dall'articolo 15, comma 1, lettera a).
 
@@ -942,12 +3144,96 @@ Qualora non siano soddisfatti i requisiti e i criteri di cui ai commi 1 e 2, le 
 
 ## Art. 15. — Acquisizione e cessione di partecipazioni
 
+1.
+                        
+                            
+                                Sono soggette a comunicazione preventiva alla Banca d'Italia: 
+ 
+                            
+                            
+                                a)
+                                
+                                    l'acquisizione o la cessione a qualsiasi titolo in una Sim ((o in un gestore autorizzato)) di partecipazioni che comportano la possibilita' di esercitare il controllo o la possibilita' di esercitare un'influenza notevole sulla societa' o che attribuiscono una quota dei diritti di voto o del capitale almeno pari al 10 per cento, tenuto conto delle azioni o quote gia' possedute; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le variazioni delle partecipazioni quando la quota dei diritti di voto o del capitale raggiunge o supera, in aumento o in diminuzione, il 20 per cento, 30 per cento o 50 per cento e, in ogni caso, quando le variazioni comportano l'acquisizione o la perdita del controllo della societa'; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    l'acquisizione a qualsiasi titolo, in una societa' che detiene le partecipazioni indicate alla lettera a): 
+ 1) del controllo; 
+ 2) di una quota dei diritti di voto o del capitale, quando, per effetto dell'acquisizione, e' integrato uno dei casi indicati nel comma 4, lettera b); 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    l'acquisizione a qualsiasi titolo, in assenza di acquisti di partecipazioni, anche per il tramite di un contratto con la Sim ((o con il gestore autorizzato)) o di una clausola del suo statuto, del controllo o dell'influenza notevole sulla societa', o di una quota dei diritti di voto o del capitale almeno pari al 10 per cento, 20 per cento, 30 per cento o 50 per cento, tenuto conto delle azioni o quote gia' possedute.
+
 La Banca d'Italia puo' vietare entro il termine stabilito ai sensi del comma 5, lettera c), l'acquisizione della partecipazione quando ritenga che non ricorrono condizioni atte a garantire una gestione sana e prudente dell'intermediario, valutando la qualita' del potenziale acquirente e la solidita' finanziaria del progetto di acquisizione in base ai seguenti criteri: la reputazione del potenziale acquirente ai sensi dell'articolo 14; l'onorabilita', la correttezza, la professionalita' e competenza, ai sensi dell'articolo 13, comma 3, da parte di coloro che, in esito all'acquisizione, svolgeranno funzioni di amministrazione, e direzione; la solidita' finanziaria del potenziale acquirente; la capacita' dell'intermediario di rispettare a seguito dell'acquisizione le disposizioni che ne regolano l'attivita'; l'idoneita' della struttura del gruppo del potenziale acquirente a consentire l'esercizio efficace della vigilanza; l'assenza di fondato sospetto che l'acquisizione sia connessa a operazioni di riciclaggio o di finanziamento del terrorismo. La Banca d'Italia puo' fissare un termine massimo per l'acquisizione nonche' comunicare, anche prima della scadenza del termine, che nulla osta all'operazione.
 
 Gli acquisti e le cessioni indicati nel comma 1 sono comunicati, una volta avvenuti, alla Banca d'Italia, alla CONSOB e alla societa'.
 PERIODO SOPPRESSO DAL D.LGS. 27 GENNAIO 2010, N. 21.
 
 I soggetti valutati ai sensi del comma 2 comunicano alla Banca d'Italia gli atti e i fatti idonei a far venire meno o modificare i presupposti e le condizioni sulla base dei quali la valutazione della Banca d'Italia e' stata effettuata. (106)
+
+4.
+                        
+                            
+                                Ai fini dell'applicazione del capo II del presente Titolo si considerano anche: 
+ 
+                            
+                            
+                                a)
+                                
+                                    le partecipazioni acquisite o comunque possedute per il tramite di societa' controllate, di societa' fiduciarie o per interposta persona. Il controllo sussiste nei casi previsti dall'articolo 23 del T.U. bancario; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    i casi, individuati dalla Banca d'Italia, che conducono ad una delle situazioni indicate dal comma 1, per effetto dei diritti di voto o delle quote di capitale posseduti attraverso societa', anche non controllate, che a loro volta hanno diritti di voto o quote di capitale nella Sim ((o nel gestore autorizzato)), tenendo conto della demoltiplicazione prodotta dalla catena partecipativa. (106)
+
+5.
+                        
+                            
+                                La Banca d'Italia, determina con regolamento: 
+ 
+                            
+                            
+                                a)
+                                
+                                    i criteri di calcolo dei diritti di voto rilevanti ai fini dell'applicazione delle soglie previste al comma 1, ivi inclusi i casi in cui i diritti di voto non sono computati ai fini dell'applicazione del medesimo comma, nonche' i criteri per l'individuazione dei casi di influenza notevole e di acquisizione involontaria; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    i soggetti tenuti ad effettuare le comunicazioni quando i diritti derivanti dalle partecipazioni spettano o sono attribuiti a un soggetto diverso dal titolare delle partecipazioni stesse, nonche' quando esistono accordi concernenti l'esercizio del diritto di voto; 
+
+                                
+                            
+                            
+                                b-bis)
+                                
+                                    i casi di cui al comma 4, lettera b); 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    i presupposti, le procedure ed i termini per l'effettuazione delle comunicazioni, nonche' per condurre la valutazione prevista al comma 2.
 
 ---------------
                             AGGIORNAMENTO (106)
@@ -981,6 +3267,38 @@ Non possono essere esercitati i diritti derivanti dai contratti o dalle clausole
 
 ## Art. 17. — (Richiesta di informazioni sulle partecipazioni).
 
+1.
+                        
+                            
+                                La Banca d'Italia e la CONSOB, indicando il termine per la risposta, possono richiedere: 
+ 
+                            
+                            
+                                a)
+                                
+                                    alle SIM ((e ai gestori autorizzati)), l'indicazione nominativa dei titolari delle partecipazioni secondo quanto risulta dal libro dei soci, dalle comunicazioni ricevute e da altri dati a loro disposizione; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    alle societa' ed agli enti di qualsiasi natura che possiedono partecipazioni nei soggetti indicati nella lettera a), l'indicazione nominativa dei titolari delle partecipazioni secondo quanto risulta dal libro dei soci, dalle comunicazioni ricevute e da altri dati a loro disposizione; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    agli amministratori delle societa' e degli enti titolari di partecipazioni nelle SIM ((e nei gestori autorizzati)), l'indicazione dei soggetti controllanti; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    alle societa' fiduciarie che abbiano intestato a proprio nome partecipazioni in societa' indicate nella lettera c), le generalita' dei fiducianti.
+
 ## - TITOLO II SERVIZI ((E ATTIVITA')) DI INVESTIMENTO CAPO I SOGGETTI E AUTORIZZAZIONE
 
 ## Art. 18. — Soggetti
@@ -995,6 +3313,24 @@ Gli intermediari finanziari iscritti nell'albo previsto dall'articolo 106 del te
 COMMA ABROGATO DAL D.LGS. 3 AGOSTO 2017, N. 129. (73)
 
 Le SIM possono prestare professionalmente nei confronti del pubblico i servizi accessori e altre attivita' finanziarie, nonche' attivita' connesse o strumentali. Sono salve le riserve di attivita' previste dalla legge.
+
+5.
+                        
+                            
+                                Il Ministro dell'economia e delle finanze, con regolamento adottato sentite la Banca d'Italia e la CONSOB: 
+ 
+                            
+                            
+                                a)
+                                
+                                    puo' individuare, al fine di tener conto dell'evoluzione dei mercati finanziari e delle norme di adattamento stabilite dalle autorita' comunitarie, nuove categorie di strumenti finanziari, nuovi servizi e attivita' di investimento e nuovi servizi accessori, indicando quali soggetti sottoposti a forme di vigilanza prudenziale possono esercitare i nuovi servizi e attivita'; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    adotta le norme di attuazione e di integrazione delle riserve di attivita' previste dal presente articolo, nel rispetto delle disposizioni europee. (73)
 
 -----------
                             AGGIORNAMENTO (73)
@@ -1051,6 +3387,73 @@ Le societa' di consulenza finanziaria rispondono in solido dei danni arrecati a 
 
 ## Art. 19. — Autorizzazione
 
+1.
+                        
+                            
+                                La Consob, sentita la Banca d'Italia, autorizza, entro sei mesi dalla presentazione della domanda completa, l'esercizio dei servizi e delle attivita' di investimento da parte delle Sim, quando, in conformita' a quanto specificato dalle pertinenti norme tecniche di regolamentazione e di attuazione emanate dalla Commissione europea ai sensi della direttiva 2014/65/UE, ricorrono le seguenti condizioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    sia adottata la forma di societa' per azioni; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la denominazione sociale comprenda le parole "societa' di intermediazione mobiliare"; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    la sede legale e la direzione generale della societa' siano situate nel territorio della Repubblica; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    il capitale versato sia di ammontare non inferiore a quello determinato in via generale dalla Banca d'Italia ((, in conformita' alle norme europee)); ((133))
+                                    
+                                
+                            
+                            
+                                e)
+                                
+                                    vengano fornite tutte le informazioni, compreso un programma di attivita', che indichi in particolare i tipi di operazioni previste e la struttura organizzativa; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    i soggetti che svolgono funzioni di amministrazione, direzione e controllo siano idonei ai sensi dell'articolo 13; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    i titolari delle partecipazioni indicate nell'articolo 15, comma 1, abbiano i requisiti e soddisfino i criteri stabiliti ai sensi dell'articolo 14 e non ricorrano le condizioni per il divieto previsto dall'articolo 15, comma 2; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    la struttura del gruppo di cui e' parte la societa' non sia tale da pregiudicare l'effettivo esercizio della vigilanza sulla societa' stessa e siano fornite almeno le informazioni richieste ai sensi dell'articolo 15, comma 5; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    siano rispettati, per la gestione di sistemi multilaterali di negoziazione o di sistemi organizzati di negoziazione, gli ulteriori requisiti dettati nella parte III. (73)
+
 L'autorizzazione e' negata quando dalla verifica delle condizioni indicate nel comma 1 non risulta garantita la sana e prudente gestione, ne' assicurata la capacita' dell'impresa di esercitare correttamente i servizi o le attivita' di investimento .
 
 La Consob disciplina la procedura di autorizzazione delle Sim. (73)
@@ -1091,6 +3494,38 @@ I soggetti indicati nel comma 1 indicano negli atti e nella corrispondenza gli e
 
 Le disposizioni del presente articolo trovano applicazione nei casi in cui non ricorrano i presupposti per l'applicazione degli articoli 57, comma 1, e 60-bis.4, del presente decreto, nonche' degli articoli 17 e 20 del decreto legislativo 16 novembre 2015, n. 180, e dell'articolo 80 del T.U. bancario.
 
+2.
+                        
+                            
+                                La Consob, sentita la Banca d'Italia, revoca l'autorizzazione all'esercizio dei servizi e delle attivita' d'investimento delle Sim, rilasciata ai sensi dell'articolo 19, quando: 
+ 
+                            
+                            
+                                a)
+                                
+                                    l'esercizio dei servizi e delle attivita' di investimento e' interrotto da piu' di sei mesi; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'autorizzazione e' stata ottenuta presentando false dichiarazioni o con qualsiasi altro mezzo irregolare; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    vengono meno le condizioni cui e' subordinata l'autorizzazione; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    nel caso delle Sim di classe 1, non sia stata ottenuta l'autorizzazione prevista dall'articolo 20-bis.1.
+
 La revoca dell'autorizzazione ai sensi del comma 2 costituisce causa di scioglimento della societa' quando riguarda tutti i servizi e attivita' di investimento al cui esercizio la Sim e' autorizzata.
 Entro sessanta giorni dalla comunicazione del provvedimento di revoca, la Sim comunica alla Banca d'Italia e alla Consob il programma di liquidazione della societa'. La Consob, sentita la Banca d'Italia, puo' autorizzare, anche contestualmente alla revoca, l'esercizio provvisorio di attivita' ai sensi dell'articolo 2487 del codice civile. L'organo liquidatore trasmette riferimenti periodici sullo stato di avanzamento della liquidazione alla Banca d'Italia e, per il periodo di eventuale esercizio provvisorio di attivita', alla Consob. La Banca d'Italia vigila sul regolare svolgimento della procedura di liquidazione. Nei confronti delle societa' in liquidazione restano fermi i poteri del Ministero dell'economia e delle finanze, della Banca d'Italia e della Consob previsti nel presente decreto.
 
@@ -1114,12 +3549,63 @@ In deroga all'articolo 19, per le Sim di classe 1 l'autorizzazione all'esercizio
 
 Le Sim autorizzate ai sensi dell'articolo 19 presentano domanda di autorizzazione ai sensi del comma 1 al piu' tardi il giorno in cui si verifica uno dei seguenti eventi: i) la media delle attivita' totali mensili della Sim, calcolata su un periodo di dodici mesi consecutivi, e' pari o superiore a 30 miliardi di euro; ii) la media delle attivita' totali mensili della Sim, calcolata su un periodo di dodici mesi consecutivi, e' inferiore a 30 miliardi di euro, ma questa fa parte di un gruppo, come individuato dalla Banca d'Italia ai sensi del comma 12, in cui il valore totale delle attivita' consolidate delle imprese del gruppo ((stabilite nell'Unione europea, incluse le loro succursali e filiazioni stabilite in un paese terzo,)) che detengono individualmente attivita' totali inferiori a 30 miliardi di euro e svolgono almeno uno dei servizi di investimento indicati nell'Allegato I, Sezione A, numeri 3) e 6), e' pari o superiore a 30 miliardi di euro; iii) scade il termine indicato nella decisione assunta a norma dell'articolo 4, paragrafo 1, punto 1), lettera b), numero iii), del regolamento (UE) n. 575/2013. (109)
 
+2-bis.
+                        
+                            
+                                
+                                    ((Nell'ambito della domanda presentata ai sensi del comma 2, le Sim autorizzate ai sensi dell'articolo 19 possono chiedere la deroga all'autorizzazione indicata al comma 1. La Banca Centrale Europea e la Banca d'Italia informano l'ABE della richiesta di deroga. La deroga e' concessa dalla Banca Centrale Europea, su proposta della Banca d'Italia sulla base della domanda ricevuta ai sensi del comma 2; e' negata dalla Banca Centrale Europea o dalla Banca d'Italia. La deroga e' concessa, ovvero negata, previo parere dell'ABE e tenuto conto almeno dei seguenti elementi:))
+                                
+                            
+                            
+                                a)
+                                
+                                    
+                                        ((se la Sim fa parte di un gruppo, la struttura dell'organizzazione del gruppo, le modalita' di registrazione dell'operativita' utilizzate in via prevalente all'interno del gruppo e l'assegnazione delle attivita' tra i soggetti del gruppo;))
+                                    
+                                
+                            
+                            
+                                b)
+                                
+                                    
+                                        ((la natura, l'entita' e la complessita' delle attivita' svolte dalla Sim nel territorio della Repubblica e nell'Unione europea nel suo complesso;))
+                                    
+                                
+                            
+                            
+                                c)
+                                
+                                    
+                                        ((l'importanza delle attivita' svolte dalla Sim nel territorio della Repubblica e nell'Unione europea nel suo complesso, e il rischio sistemico che esse comportano.))
+
 ((La proposta di concessione della deroga ovvero il diniego della stessa sono adottati dalla Banca d'Italia sentita la Consob. Il provvedimento di concessione della deroga o di diniego della stessa e' trasmesso alla Sim interessata e all'ABE; nel caso si discosti dal parere di quest'ultima, include la relativa motivazione. I provvedimenti di concessione della deroga assunti ai sensi del comma 2-bis sono riesaminati ogni tre anni.))
 
 Le Sim che hanno presentato domanda di autorizzazione ai sensi del comma 1 possono continuare a svolgere i servizi e le attivita' di investimento per i quali sono autorizzate ai sensi dell'articolo 19 fino al rilascio dell'autorizzazione ai sensi del presente articolo.
 Il rilascio dell'autorizzazione ai sensi del presente articolo comporta la decadenza di diritto dell'autorizzazione rilasciata ai sensi dell'articolo 19 e la conseguente cancellazione dall'albo di cui all'articolo 20.
 
 Le Sim autorizzate ai sensi del presente articolo sono iscritte in una sezione speciale dell'albo previsto dall'articolo 20.
+
+5.
+                        
+                            
+                                L'autorizzazione rilasciata ai sensi del comma 1 e' revocata quando: 
+                            
+                            
+                                a)
+                                
+                                    sussiste una o piu' delle condizioni previste dall'articolo 14, comma 3-bis, lettere a) e b), del Testo Unico Bancario; o
+                                
+                            
+                            
+                                b)
+                                
+                                    la media delle attivita' totali della Sim, calcolata ai sensi dell'articolo 4, paragrafo 1, punto 1), lettera b, del Regolamento (UE) 575/2013, e' inferiore a 30 miliardi di euro per un periodo di cinque anni consecutivi; o
+                                
+                            
+                            
+                                c)
+                                
+                                    e' accertata l'interruzione dello svolgimento dei servizi di investimento indicati nell'Allegato I, Sezione A, numeri 3) e 6), per un periodo continuativo superiore a sei mesi. La revoca e' disposta dalla Banca Centrale Europea sentite la Banca d'Italia e la Consob, o su proposta della Banca d'Italia, sentita la Consob. Si applica l'articolo 20-bis, comma 3, salvo quanto previsto dal comma 7 del presente articolo.
 
 Per le Sim di classe 1 la revoca dell'autorizzazione all'esercizio dei servizi e delle attivita' d'investimento diversi da quelli indicati nell'Allegato I, Sezione A, numeri 3) e 6), e' disposta secondo quanto previsto dall'articolo 20-bis, comma 4.
 
@@ -1156,6 +3642,70 @@ Fermo restando quanto previsto dall'articolo 18, paragrafo 1, lettere b) e c), d
 
 ## Art. 21. — Criteri generali
 
+1.
+                        
+                            
+                                Nella prestazione dei servizi e delle attivita' di investimento e accessori i soggetti abilitati devono: 
+ 
+                            
+                            
+                                a)
+                                
+                                    comportarsi con diligenza, correttezza e trasparenza, per servire al meglio l'interesse dei clienti e per l'integrita' dei mercati; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    acquisire le informazioni necessarie dai clienti e operare in modo che essi siano sempre adeguatamente informati; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    utilizzare comunicazioni pubblicitarie e promozionali corrette, chiare e non fuorvianti; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    disporre di risorse e procedure, anche di controllo interno, idonee ad assicurare l'efficiente svolgimento dei servizi e delle attivita'.
+
+1-bis.
+                        
+                            
+                                Nella prestazione dei servizi e delle attivita' di investimento e dei servizi accessori, le Sim, le imprese di paesi terzi autorizzate in Italia, le Sgr autorizzate, i GEFIA non UE autorizzati in Italia, gli intermediari finanziari iscritti nell'albo previsto dall'articolo 106 del Testo Unico bancario e le banche italiane: (133) 
+ 
+                            
+                            
+                                a)
+                                
+                                    adottano ogni misura idonea ad identificare e prevenire o gestire i conflitti di interesse che potrebbero insorgere tra tali soggetti, inclusi i dirigenti, i dipendenti e gli agenti collegati o le persone direttamente o indirettamente connesse e i loro clienti o tra due clienti al momento della prestazione di qualunque servizio di investimento o servizio accessorio o di una combinazione di tali servizi; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    mantengono e applicano disposizioni organizzative e amministrative efficaci al fine di adottare tutte le misure ragionevoli volte ad evitare che i conflitti di interesse incidano negativamente sugli interessi dei loro clienti; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    quando le disposizioni organizzative e amministrative adottate a norma della lettera b) non sono sufficienti ad assicurare, con ragionevole certezza, che il rischio di nuocere agli interessi dei clienti sia evitato, informano chiaramente i clienti, prima di agire per loro conto, della natura generale e/o delle fonti dei conflitti di interesse nonche' delle misure adottate per mitigare i rischi connessi; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    svolgono una gestione indipendente, sana e prudente e adottano misure idonee a salvaguardare i diritti dei clienti sui beni affidati. (73)
+
 Le disposizioni di cui alle lettere a), b) e c) del comma 1-bis si applicano anche ai conflitti di interesse determinati dalla percezione da parte di Sim, imprese di paesi terzi autorizzate in Italia, Sgr autorizzate, GEFIA non UE autorizzati in Italia, intermediari finanziari iscritti nell'albo previsto dall'articolo 106 del Testo Unico bancario e banche italiane di incentivi corrisposti da soggetti terzi o determinati dalle politiche di remunerazione e dalle strutture di incentivazione da loro adottate. (73) (133)
 
 I soggetti abilitati alla prestazione dei servizi e delle attivita' di investimento forniscono ai clienti o potenziali clienti tutte le informazioni richieste ai sensi della presente Parte e delle relative disposizioni di attuazione in formato elettronico, tranne nel caso in cui il cliente o potenziale cliente sia un investitore al dettaglio che ha chiesto di ricevere le informazioni su supporto cartaceo. In tale ultimo caso, le informazioni sono fornite su carta a titolo gratuito. I soggetti abilitati informano i clienti o potenziali clienti al dettaglio che questi ultimi hanno la possibilita' di ricevere le informazioni su supporto cartaceo.
@@ -1185,11 +3735,101 @@ I commi 2-bis e 2-ter e le disposizioni di attuazione dell'articolo 6, comma 2, 
 
 
 
+2.
+                        
+                            
+                                
+                                    ((La fornitura di servizi di ricerca da parte di terzi in favore dei soggetti abilitati alla prestazione del servizio di gestione di portafogli o di altri servizi di investimento o accessori soddisfa gli obblighi di cui all'articolo 21, comma 1, qualora:))
+                                
+                            
+                            
+                                a)
+                                
+                                    
+                                        ((i soggetti abilitati e il prestatore terzo dei servizi di esecuzione e di ricerca hanno concluso un accordo per definire una metodologia di remunerazione, compreso il modo in cui si tiene generalmente conto del costo totale della ricerca al momento di stabilire gli oneri complessivi per i servizi di investimento;))
+                                    
+                                
+                            
+                            
+                                b)
+                                
+                                    
+                                        ((i soggetti abilitati informano i propri clienti della loro scelta di pagare congiuntamente o separatamente i servizi di esecuzione e di ricerca e mettono a loro disposizione la relativa politica in materia di pagamenti dei servizi di esecuzione e di ricerca, compresi il tipo di informazioni che possono essere fornite in funzione della scelta del metodo di pagamento e, se del caso, il modo in cui i soggetti abilitati prevengono o gestiscono i conflitti di interesse ai sensi dell'articolo 21 quando applicano un metodo di pagamento congiunto per i servizi di esecuzione e di ricerca;))
+                                    
+                                
+                            
+                            
+                                c)
+                                
+                                    
+                                        ((i soggetti abilitati valutano su base annuale la qualita', l'utilizzabilita' e il valore della ricerca utilizzata, nonche' la capacita' della ricerca utilizzata di contribuire a migliori decisioni di investimento;))
+                                    
+                                
+                            
+                            
+                                d)
+                                
+                                    
+                                        ((qualora i soggetti abilitati scelgano di pagare separatamente i servizi di esecuzione e di ricerca da parte di terzi, la prestazione dei servizi di ricerca da parte di terzi al soggetto abilitato e' ricevuta in cambio di uno dei seguenti elementi:)) 
+ 1) ((pagamenti diretti da parte del soggetto abilitato sulla base delle proprie risorse;)) 
+ 2) ((pagamenti effettuati da un conto di pagamento per la ricerca separato controllato dal soggetto abilitato.))
+
 ((I soggetti abilitati che prestano servizi di gestione del portafoglio o altri servizi di investimento o servizi accessori garantiscono che la ricerca che distribuiscono ai clienti o ai potenziali clienti pagata, in tutto o in parte, dall'emittente e' qualificata come "ricerca sponsorizzata dall'emittente" solo se e' prodotta nel rispetto del codice di condotta dell'Unione europea per la ricerca sponsorizzata dall'emittente di cui all'articolo 24, paragrafo 3-quater, della direttiva 2014/65/UE del Parlamento europeo e del Consiglio, del 15 maggio 2014.))
+
+4.
+                        
+                            
+                                
+                                    ((La Consob puo':))
+                                
+                            
+                            
+                                a)
+                                
+                                    
+                                        ((adottare tutte le misure necessarie per verificare che i soggetti abilitati mettano in atto disposizioni organizzative per assicurare che la ricerca sponsorizzata dall'emittente che esse producono o distribuiscono sia conforme al codice di condotta dell'UE per la ricerca sponsorizzata dall'emittente;))
+                                    
+                                
+                            
+                            
+                                b)
+                                
+                                    
+                                        ((sospendere la distribuzione da parte dei soggetti abilitati di qualsiasi ricerca sponsorizzata dall'emittente non prodotta nel rispetto del codice di condotta dell'Unione europea per la ricerca sponsorizzata dall'emittente;))
+                                    
+                                
+                            
+                            
+                                c)
+                                
+                                    
+                                        ((emettere avvertenze per informare il pubblico nel caso in cui una ricerca qualificata come "ricerca sponsorizzata dall'emittente" e distribuita da un soggetto abilitato non sia prodotta nel rispetto del codice di condotta dell'Unione europea per la ricerca sponsorizzata dall'emittente.))
 
 ((La ricerca e' intesa come i servizi o i materiali di ricerca riguardanti uno o piu' strumenti finanziari o altri attivi, ovvero gli emittenti o i potenziali emittenti di strumenti finanziari, o come i servizi o i materiali di ricerca strettamente correlati a un settore o a un mercato specifico in modo tale da delineare una base di valutazione degli strumenti, degli attivi o degli emittenti finanziari all'interno del settore o del mercato in questione. La ricerca comprende, altresi', i materiali o i servizi che raccomandano o propongono, esplicitamente o implicitamente, una strategia di investimento e formulano un parere motivato sul valore attuale o futuro o sul prezzo di attivi o di strumenti finanziari, o altrimenti contengono analisi e informazioni originali e traggono conclusioni sulla base di informazioni nuove o esistenti che potrebbero essere impiegate per elaborare una strategia di investimento ed essere pertinenti e in grado di apportare valore aggiunto alle decisioni assunte dai soggetti abilitati per conto dei clienti a cui tale ricerca e' addebitata.))
 
 ((Le osservazioni sulla negoziazione e altri servizi di consulenza sulla negoziazione su misura intrinsecamente connessi all'esecuzione di un'operazione su strumenti finanziari non sono considerati ricerca. Se un soggetto abilitato alla prestazione dei servizi di investimento riceve servizi di ricerca da un prestatore di servizi di ricerca che non e' coinvolto in servizi di esecuzione e non fa parte di un gruppo di servizi finanziari in cui sia compreso un soggetto abilitato che offre servizi di esecuzione o di intermediazione, la prestazione di tali servizi di ricerca e' considerata adempiente in relazione agli obblighi di cui all'articolo 21, comma 1. In tali casi, il soggetto abilitato deve soddisfare il requisito di cui al comma 2, lettera c).))
+
+7.
+                        
+                            
+                                
+                                    ((La Consob detta con regolamento disposizioni di attuazione del presente articolo, riguardanti in particolare:))
+                                
+                            
+                            
+                                a)
+                                
+                                    
+                                        ((la disciplina della "ricerca sponsorizzata dall'emittente";))
+                                    
+                                
+                            
+                            
+                                b)
+                                
+                                    
+                                        ((gli obblighi di conservazione in capo ai soggetti abilitati.))
+                                        ((134))
 
 ---------------
                             AGGIORNAMENTO (134)
@@ -1247,6 +3887,31 @@ Nei giudizi di risarcimento dei danni cagionati al cliente nello svolgimento dei
 
 ## Art. 24. — Gestione di portafogli
 
+1.
+                        
+                            
+                                Al servizio di gestione di portafogli si applicano le seguenti regole: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il cliente puo' impartire istruzioni vincolanti in ordine alle operazioni da compiere; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il cliente puo' recedere in ogni momento dal contratto, fermo restando il diritto di recesso del prestatore del servizio ai sensi dell'articolo 1727 del codice civile; (73) 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    la rappresentanza per l'esercizio dei diritti di voto inerenti agli strumenti finanziari in gestione puo' essere conferita al prestatore del servizio con procura da rilasciarsi per iscritto e ((per piu' assemblee, in deroga all'articolo 2372, secondo comma, del codice civile)). (73)
+
 Nella prestazione del servizio di gestione di portafogli non devono essere accettati e trattenuti onorari, commissioni o altri benefici monetari o non monetari pagati o forniti da terzi o da una persona che agisce per conto di terzi, ad eccezione dei benefici non monetari di entita' minima che possono migliorare la qualita' del servizio offerto ai clienti e che, per la loro portata e natura, non possono essere considerati tali da pregiudicare il rispetto del dovere di agire nel migliore interesse dei clienti. Tali benefici non monetari di entita' minima devono essere chiaramente comunicati ai clienti. (73)
 
 Sono nulli i patti contrari alle disposizioni del presente articolo; la nullita' puo' essere fatta valere solo dal cliente.
@@ -1259,6 +3924,31 @@ Sono nulli i patti contrari alle disposizioni del presente articolo; la nullita'
 ## Art. 24-bis. — (( (Consulenza in materia di investimenti). ))
 
 ((
+
+1.
+                        
+                            
+                                In caso di esercizio della consulenza in materia di investimenti, il cliente e' informato, in tempo utile prima della prestazione del servizio, anche di quanto segue: 
+ 
+                            
+                            
+                                a)
+                                
+                                    se la consulenza e' fornita su base indipendente o meno; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    se la consulenza e' basata su un'analisi del mercato ampia o piu' ristretta delle varie tipologie di strumenti finanziari, e in particolare se la gamma e' limitata agli strumenti finanziari emessi o forniti da entita' che hanno con il prestatore del servizio stretti legami o altro stretto rapporto legale o economico, come un rapporto contrattuale talmente stretto da comportare il rischio di compromettere l'indipendenza della consulenza prestata; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    se verra' fornita ai clienti la valutazione periodica dell'adeguatezza degli strumenti finanziari raccomandati.
 
 2. Nella prestazione del servizio di consulenza in materia di investimenti su base indipendente, si applicano le seguenti regole:
 
@@ -1371,6 +4061,26 @@ Le Sim, possono operare in uno Stato non UE, anche senza stabilirvi succursali, 
 
 Costituiscono in ogni caso condizioni per il rilascio delle autorizzazioni di cui ai commi 5 e 6 l'esistenza di apposite intese di collaborazione con le competenti autorita' dello Stato ospitante.
 
+8.
+                        
+                            
+                                
+                                    ((La Banca d'Italia, sentita la Consob)), stabilisce con regolamento: ((133))
+                                
+                            
+                            
+                                a)
+                                
+                                    le procedure previste nel caso in cui non intenda procedere alla comunicazione di cui al comma 2, qualora vi siano motivi di dubitare dell'adeguatezza della struttura organizzativa o della situazione finanziaria, economica o patrimoniale della Sim interessata; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le condizioni e le procedure per il rilascio alle Sim dell'autorizzazione a prestare negli altri Stati dell'UE le attivita' non ammesse al mutuo riconoscimento e negli Stati non UE i propri servizi.)) 
+ (73)
+
 ---------------
                             AGGIORNAMENTO (73)
                             
@@ -1398,6 +4108,52 @@ La Consob, sentita la Banca d'Italia, disciplina con regolamento l'autorizzazion
  Il D.Lgs. 3 agosto 2017, n. 129 ha disposto (con l'art. 10, comma 2) che "Le disposizioni del decreto legislativo 24 febbraio 1998, n. 58, modificate dal presente decreto, si applicano dal 3 gennaio 2018, fatto salvo quanto diversamente previsto dall'articolo 93 della direttiva 2014/65/UE, con riferimento dell'articolo 65, paragrafo 2, della direttiva medesima, le cui disposizioni attuative si applicano dal 3 settembre 2019, e dall'articolo 55 del regolamento (UE) n. 600/2014, e successive modificazioni, nonche' dal comma 3. [...] Fermo restando quanto previsto dalle disposizioni dell'Unione europea direttamente applicabili, le disposizioni emanate dalla Banca d'Italia e dalla Consob, anche congiuntamente, ai sensi di disposizioni del decreto legislativo 24 febbraio 1998, n. 58, abrogate o modificate dal presente decreto, continuano a essere applicate fino alla data di entrata in vigore dei provvedimenti emanati dalla Banca d'Italia o dalla Consob nelle corrispondenti materie".
 
 ## Art. 28. — (Imprese di paesi terzi diverse dalle banche)
+
+1.
+                        
+                            
+                                Lo stabilimento in Italia di succursali da parte di imprese di paesi terzi diverse dalle banche e' autorizzato dalla Consob, sentita la Banca d'Italia. L'autorizzazione e' subordinata: 
+ 
+                            
+                            
+                                a)
+                                
+                                    alla sussistenza, in capo alla succursale, di requisiti corrispondenti a quelli previsti dall'articolo 19, comma 1, lettere d) ed f); 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    alla trasmissione di tutte le informazioni, compresi un programma di attivita', che illustri in particolare i tipi di operazioni previste e la struttura organizzativa della succursale, specificate ai sensi del comma 4; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    all'autorizzazione, alla vigilanza e all'effettivo svolgimento nello Stato d'origine dei servizi o attivita' di investimento e dei servizi accessori che l'impresa istante intende prestare in Italia, nonche' alla circostanza che l'autorita' competente dello Stato d'origine presti debita attenzione alle raccomandazioni del GAFI nel contesto delle azioni contro il riciclaggio di denaro e del contrasto al finanziamento del terrorismo; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    all'esistenza di accordi di collaborazione tra la Banca d'Italia, la Consob e le competenti autorita' dello Stato d'origine, comprendenti disposizioni disciplinanti lo scambio di informazioni, allo scopo di preservare l'integrita' del mercato e garantire la protezione degli investitori; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    all'esistenza di un accordo tra l'Italia e lo Stato d'origine che rispetta pienamente le norme di cui all'articolo 26 del Modello di Convenzione fiscale sul reddito e il patrimonio dell'OCSE e assicura un efficace scambio di informazioni in materia fiscale, compresi eventuali accordi fiscali multilaterali; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    all'adesione da parte dell'impresa istante ad un sistema di indennizzo a tutela degli investitori riconosciuto ai sensi dell'articolo 60, comma 2.
 
 L'autorizzazione di cui al comma 1 e' negata se non risulta garantita la capacita' della succursale dell'impresa di paesi terzi diversa dalla banca di rispettare gli obblighi alla stessa applicabili ai sensi del presente decreto o contenuti in atti dell'Unione europea direttamente applicabili.
 
@@ -1493,6 +4249,68 @@ La Banca d'Italia, sentita la Consob, puo' indicare, in via generale, i servizi 
 
 ## Art. 30. — Offerta fuori sede
 
+1.
+                        
+                            
+                                Per offerta fuori sede si intendono la promozione e il collocamento presso il pubblico: 
+ 
+                            
+                            
+                                a)
+                                
+                                    di strumenti finanziari in luogo diverso dalla sede legale o dalle dipendenze dell'emittente, del proponente l'investimento o del soggetto incaricato della promozione o del collocamento; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    di servizi e attivita' di investimento in luogo diverso dalla sede legale o dalle dipendenze di chi presta, promuove o colloca il servizio o l'attivita'.
+
+2.
+                        
+                            
+                                Non costituisce offerta fuori sede: 
+ 
+                            
+                            
+                                a)
+                                
+                                    l'offerta effettuata nei confronti di clienti professionali, come individuati ai sensi dell'articolo 6, commi (( 2-quater, lettera d-bis) )) e 2-sexies; ((133))
+                                    
+                                
+                            
+                            
+                                b)
+                                
+                                    l'offerta di propri strumenti finanziari rivolta ai componenti del consiglio di amministrazione ovvero del consiglio di gestione, ai dipendenti, nonche' ai collaboratori non subordinati dell'emittente, della controllante ovvero delle sue controllate, effettuata presso le rispettive sedi o dipendenze; 
+
+                                
+                            
+                            
+                                b-bis)
+                                
+                                    le offerte di vendita o di sottoscrizione di azioni di propria emissione o di altri strumenti finanziari di propria emissione che permettano di acquisire o sottoscrivere tali azioni, purche' emessi da emittenti con azioni negoziate in mercati regolamentati o sistemi multilaterali di negoziazione italiani o di paesi dell'Unione europea, a condizione che siano effettuate dall'emittente attraverso i propri amministratori o il proprio personale con funzioni direttive per importi di sottoscrizione o acquisto superiori o uguali a euro 250.000. La presente lettera non si applica alle azioni emesse ((da Sicav, da Sicaf e da societa' di partenariato)). ((133))
+
+3.
+                        
+                            
+                                L'offerta fuori sede di strumenti finanziari puo' essere effettuata: 
+ 
+                            
+                            
+                                a)
+                                
+                                    dai soggetti autorizzati allo svolgimento dei servizi previsti dall'articolo 1, comma 5, lettere c) e c-bis); 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    
+                                        ((dai gestori autorizzati, dalle societa' di gestione UE)), dai GEFIA UE e non UE, limitatamente alle quote o azioni di Oicr. ((133))
+
 Le Sim, le imprese di investimento UE, le imprese di paesi terzi, le banche, gli intermediari finanziari iscritti nell'albo previsto dall'articolo 106 del Testo Unico bancario, le Sgr ((autorizzate)), le societa' di gestione UE, i GEFIA UE e non UE possono effettuare l'offerta fuori sede dei propri servizi e attivita' di investimento. Ove l'offerta abbia per oggetto servizi e attivita' prestati da altri intermediari, le Sim, le imprese di investimento UE, le imprese di paesi terzi e le banche devono essere autorizzate allo svolgimento dei servizi previsti dall'articolo 1, comma 5, lettere c) o c-bis). (73) ((133))
 
 Le Sim, le imprese di investimento UE, le imprese di paesi terzi diverse dalle banche possono procedere all'offerta fuori sede di prodotti diversi dagli strumenti finanziari e dai servizi e attivita' d'investimento, le cui caratteristiche sono stabilite con regolamento dalla CONSOB, sentita la Banca d'Italia. (73)
@@ -1554,6 +4372,87 @@ I soggetti di cui al comma 1 garantiscono che i consulenti finanziari abilitati 
 E' istituito l'albo unico dei consulenti finanziari, nel quale sono iscritti in tre distinte sezioni i consulenti finanziari abilitati all'offerta fuori sede, i consulenti finanziari autonomi e le societa' di consulenza finanziaria. Alla tenuta dell'albo provvede l'Organismo di vigilanza e tenuta dell'albo unico dei consulenti finanziari che e' costituito dalle associazioni professionali rappresentative dei consulenti finanziari abilitati all'offerta fuori sede, dei consulenti finanziari autonomi, delle societa' di consulenza finanziaria e dei soggetti abilitati. Alle riunioni dell'assemblea dell'Organismo puo' assistere un rappresentante della Consob. L'Organismo ha personalita' giuridica ed e' ordinato in forma di associazione, con autonomia organizzativa e statutaria, nel rispetto del principio di articolazione territoriale delle proprie strutture e attivita'. L'Organismo esercita i poteri cautelari di cui all'articolo 7-septies e i poteri sanzionatori di cui all'articolo 196. I provvedimenti dell'Organismo sono pubblicati sul proprio sito internet. Lo statuto e il regolamento interno dell'Organismo, e le loro successive modifiche, sono trasmessi al Ministero dell'economia e delle finanze per l'approvazione, sentita la Consob. Il Ministero dell'economia e delle finanze nomina il Presidente del collegio sindacale dell'Organismo. Nell'ambito della propria autonomia finanziaria l'Organismo determina e riscuote i contributi e le altre somme dovute dagli iscritti, dai richiedenti l'iscrizione e da coloro che intendono sostenere la prova valutativa di cui al comma 5, nella misura necessaria per garantire lo svolgimento delle proprie attivita'. Il provvedimento con cui l'Organismo ingiunge il pagamento dei contributi dovuti ha efficacia di titolo esecutivo. Decorso inutilmente il termine fissato per il pagamento, l'Organismo procede alla esazione delle somme dovute in base alle norme previste per la riscossione, mediante ruolo, delle entrate dello Stato, degli enti territoriali, degli enti pubblici e previdenziali. Esso provvede all'iscrizione all'albo, previa verifica dei necessari requisiti, alla cancellazione dall'albo nelle ipotesi stabilite dalla Consob con il regolamento di cui al comma 6, e svolge ogni altra attivita' necessaria per la tenuta dell'albo. L'Organismo opera nel rispetto dei principi e dei criteri stabiliti con regolamento della Consob, e sotto la vigilanza della medesima. All'Organismo, nell'esercizio dell'attivita' di vigilanza sui soggetti iscritti all'albo, si applica il regime di responsabilita' previsto per l'esercizio delle funzioni di controllo da parte della Consob ai sensi dell'articolo 24, comma 6-bis, della legge 28 dicembre 2005, n. 262. L'attivita' dell'Organismo diversa dalla funzione di vigilanza e di tenuta dell'albo, anche nei rapporti con i terzi, e' disciplinata dal codice civile e dalle altre norme applicabili alle persone giuridiche di diritto privato. E' in ogni caso esclusa l'applicazione all'Organismo delle norme vigenti in materia di contratti pubblici e di pubblico impiego. Ai fini della notificazione dei propri atti l'Organismo puo' avvalersi delle forme di notificazione previste dalla legge 20 novembre 1982, n. 890. (73)
 
 Il Ministro dell'economia e delle finanze, con regolamento adottato sentita la CONSOB, determina i requisiti di onorabilita' e di professionalita' per l'iscrizione dei consulenti finanziari abilitati all'offerta fuori sede all'albo previsto dal comma 4. I requisiti di professionalita' per l'iscrizione all'albo sono accertati sulla base di rigorosi criteri valutativi che tengano conto della pregressa esperienza professionale, validamente documentata, ovvero sulla base di prove valutative. (73)
+
+6.
+                        
+                            
+                                La CONSOB determina, con regolamento, i principi e i criteri relativi: 
+ 
+                            
+                            
+                                a)
+                                
+                                    alla formazione dell'albo previsto dal comma 4 e alle relative forme di pubblicita'; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    ai requisiti di rappresentativita' delle associazioni professionali dei consulenti finanziari abilitati all'offerta fuori sede, dei consulenti finanziari autonomi, delle societa' di consulenza finanziaria e dei soggetti abilitati; (73) 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    all'iscrizione, alla cancellazione e alle cause di riammissione all'albo previsto dal comma 4; (73) 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    alle cause di incompatibilita'; 
+
+                                
+                            
+                            
+                                d-bis)
+                                
+                                    all'attivita' di vigilanza svolta dall'Organismo; (73) 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    ai provvedimenti cautelari e alle sanzioni disciplinati, rispettivamente, dagli articoli 7-septies e 196 e alle violazioni cui si applicano le sanzioni previste dallo stesso articolo 196, comma 1; (73) 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    all'esame, da parte della stessa CONSOB, dei reclami contro le delibere dell'Organismo di cui al comma 4, relative ai provvedimenti indicati alla lettera c); (73) 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    alle regole di presentazione e di comportamento che i consulenti finanziari abilitati all'offerta fuori sede, i consulenti finanziari autonomi e le societa' di consulenza finanziaria devono osservare nei rapporti con la clientela; (73) 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    alle modalita' di tenuta della documentazione concernente l'attivita' svolta dai consulenti finanziari abilitati all'offerta fuori sede, dai consulenti finanziari autonomi e dalle societa' di consulenza finanziaria; (73) 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    all'attivita' dell'Organismo di cui al comma 4; (73) 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    alle modalita' di aggiornamento professionale dei consulenti finanziari abilitati all'offerta fuori sede, dei consulenti finanziari autonomi e dei soggetti che svolgono, per conto delle societa' di cui all'articolo 18-ter, attivita' di consulenza in materia di investimenti nei confronti della clientela. (73)
 
 Per le societa' di consulenza finanziaria di cui all'articolo 18-ter, la Consob adotta le disposizioni attuative dell'articolo 4-undecies. (73)
 
@@ -1657,6 +4556,60 @@ L'esercizio in via professionale del servizio di gestione collettiva del risparm
 ((I GEFIA sotto soglia registrati esercitano in via professionale il servizio di gestione collettiva del risparmio esclusivamente nei limiti e alle condizioni previste dal capo I-ter del presente titolo.))
                                 ((133))
 
+2.
+                        
+                            
+                                Le disposizioni del presente titolo non si applicano: 
+ 
+                            
+                            
+                                a)
+                                
+                                    alle istituzioni sovranazionali, quali la Banca centrale europea, la Banca europea per gli investimenti, il Fondo europeo per gli investimenti, le istituzioni europee di finanziamento allo sviluppo e le banche sviluppo bilaterali, la Banca Mondiale, il Fondo Monetario Internazionale, e le altre istituzioni sovranazionali e organizzazioni internazionali analoghe, quando tali istituzioni o organizzazioni gestiscono FIA per finalita' di interesse pubblico; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    alle Banche centrali nazionali; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    agli Stati, agli enti pubblici territoriali e agli altri enti che gestiscono fondi destinati al finanziamento dei regimi di sicurezza sociale e dei sistemi pensionistici; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    alle societa' di partecipazione finanziaria, intese come societa' che detengono partecipazioni in una o piu' imprese, con lo scopo di realizzare strategie imprenditoriali per contribuire all'aumento del valore nel lungo termine delle stesse, attraverso l'esercizio del controllo, dell'influenza notevole o dei diritti derivanti da partecipazioni e che: 
+ 1) operano per proprio conto e le cui azioni sono ammesse alla negoziazione in un mercato regolamentato dell'Unione europea; oppure  2) non sono costituite con lo scopo principale di generare utili per i propri investitori mediante disinvestimenti delle partecipazioni nelle societa' controllate, sottoposte a influenza notevole o partecipate, come comprovato dal loro bilancio e da altri documenti societari; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    ai regimi di partecipazione dei lavoratori all'impresa o ai regimi di risparmio dei lavoratori; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    alle societa' di cartolarizzazione dei crediti; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    alle forme pensionistiche previste dal decreto legislativo 5 dicembre 2005, n. 252.
+
 La Banca d'Italia, sentita la Consob, adotta con proprio regolamento le disposizioni attuative del presente articolo, nel rispetto delle disposizioni dell'Unione europea.
 
 ---------------
@@ -1667,6 +4620,94 @@ La Banca d'Italia, sentita la Consob, adotta con proprio regolamento le disposiz
 ## Art. 33. — (Attivita' esercitabili).
 
 Le Sgr gestiscono il patrimonio e i rischi degli Oicr nonche' amministrano e commercializzano gli Oicr gestiti.
+
+2.
+                        
+                            
+                                Le Sgr ((autorizzate)) possono altresi': ((133))
+                                
+                            
+                            
+                                a)
+                                
+                                    prestare il servizio di gestione di portafogli; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    istituire e gestire fondi pensione ((, inclusi i prodotti pensionistici individuali paneuropei (PEPP) in conformita' con quanto previsto nel regolamento (UE) 2019/1238 del Parlamento europeo e del Consiglio, del 20 giugno 2019)); ((133))
+                                    
+                                
+                            
+                            
+                                c)
+                                
+                                    svolgere le attivita' connesse o strumentali; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    prestare i servizi accessori di cui all'Allegato I, Sezione B, numero (1), ((limitatamente alle quote o azioni di Oicr)); (73) ((133))
+                                    
+                                
+                            
+                            
+                                e)
+                                
+                                    prestare il servizio di consulenza in materia di investimenti; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    commercializzare quote o azioni di Oicr gestiti da terzi, in conformita' alle regole di condotta stabilite dalla Consob, sentita la Banca d'Italia; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    prestare il servizio di ricezione e trasmissione di ordini; (132) 
+
+                                
+                            
+                            
+                                g-bis)
+                                
+                                    amministrare indici di riferimento, fatta eccezione per gli indici di riferimento utilizzati dagli Oicr gestiti, nel rispetto delle disposizioni previste nel regolamento (UE) 2016/1011 del Parlamento europeo e del Consiglio, dell'8 giugno 2016; (132) 
+
+                                
+                            
+                            
+                                g-ter)
+                                
+                                    qualora autorizzate a prestare il servizio di gestione di FIA, svolgere attivita' di gestione di crediti nei confronti dei FIA gestiti e prestare il servizio di gestione di crediti in sofferenza nei confronti di acquirenti di crediti in sofferenza in conformita' alle disposizioni nazionali di attuazione della direttiva (UE) 2021/2167 del Parlamento europeo e del Consiglio, del 24 novembre 2021; (132) 
+
+                                
+                            
+                            
+                                g-quater)
+                                
+                                    svolgere attivita' di concessione di finanziamenti per conto dei FIA gestiti, ai sensi degli articoli 46-bis, 46-ter, 46-quater; (132) 
+
+                                
+                            
+                            
+                                g-quinquies)
+                                
+                                    svolgere, con riferimento ai FIA gestiti, servizi per le societa' veicolo per la cartolarizzazione di cui all'articolo 2, punto 2), del regolamento (UE) 2017/2402 del Parlamento europeo e del Consiglio, del 12 dicembre 2017 e per le societa' per la cartolarizzazione dei crediti di cui all'articolo 3 della legge 30 aprile 1999, n. 130, in conformita' con l'articolo 7 della medesima legge n. 130 del 1999; (132) 
+
+                                
+                            
+                            
+                                g-sexies)
+                                
+                                    prestare a terze parti qualsiasi altra funzione o attivita' gia' svolta dalla Sgr in relazione a un Oicr da essa gestito o in relazione ai servizi che essa fornisce a norma del comma 1 e del presente comma, a condizione che potenziali conflitti di interesse derivanti dalla fornitura di tali funzioni o attivita' a terze parti siano gestiti in modo adeguato. (132)
 
 ((Le Sgr autorizzate non possono prestare in via esclusiva le attivita' e i servizi di cui al comma 2. Alle Sgr autorizzate che prestano il servizio di gestione di crediti in sofferenza nei confronti di acquirenti di crediti in sofferenza di cui al comma 2, lettera g-ter), si applicano le disposizioni sull'acquisto e gestione di crediti in sofferenza di cui al titolo V, capo II, laddove compatibili, nonche' gli articoli 128 e 144 del T.U. bancario.))
                                 ((133))
@@ -1703,6 +4744,66 @@ La Banca d'Italia, sentita la Consob, detta, con proprio regolamento, disposizio
 ## - ((CAPO I-BIS DISCIPLINA DEI SOGGETTI AUTORIZZATI Sezione I Societa' di gestione del risparmio))
 
 ## Art. 34. — Autorizzazione della societa' di gestione del risparmio
+
+1.
+                        
+                            
+                                La Banca d'Italia, sentita la Consob, autorizza le Sgr all'esercizio del servizio di gestione collettiva del risparmio con riferimento sia agli OICVM sia ai FIA, nonche' all'esercizio del servizio di gestione di portafogli, del servizio di consulenza in materia di investimenti, del servizio di ricezione e trasmissione di ordini e delle ulteriori attivita' esercitabili di cui all'articolo 33, comma 2, quando ricorrono le seguenti condizioni: (132) 
+ 
+                            
+                            
+                                a)
+                                
+                                    sia adottata la forma di societa' per azioni; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la sede legale e la direzione generale della societa' siano situate nel territorio della Repubblica; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il capitale sociale versato sia di ammontare non inferiore a quello determinato in via generale dalla Banca d'Italia; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    i soggetti che svolgono funzioni di amministrazione, direzione e controllo siano idonei, secondo quanto previsto dall'articolo 13; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    i titolari delle partecipazioni indicate all'articolo 15, comma 1, hanno i requisiti e soddisfano i criteri stabiliti ai sensi dell'articolo 14 e non ricorrono le condizioni per il divieto previsto dall'articolo 15, comma 2; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    la struttura del gruppo di cui e' parte la societa' non sia tale da pregiudicare l'effettivo esercizio della vigilanza sulla societa' stessa e siano fornite almeno le informazioni richieste ai sensi dell'articolo 15, comma 5; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    venga presentato, unitamente all'atto costitutivo e allo statuto, un programma concernente l'attivita' iniziale nonche' una relazione sulla struttura organizzativa; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    la denominazione sociale ((contenga l'indicazione di societa' di gestione del risparmio)). ((133))
 
 L'autorizzazione e' negata quando dalla verifica delle condizioni indicate nel comma 1 non risulta garantita la sana e prudente gestione.
 
@@ -1749,7 +4850,85 @@ gestione interna autorizzate))
 
 
 
+1.
+                        
+                            
+                                La Banca d'Italia, sentita la Consob, ((autorizza le Sicav in gestione interna e le Sicaf in gestione interna alla prestazione del servizio di gestione collettiva del risparmio))se ricorrono le seguenti condizioni: ((133))
+                                
+                            
+                            
+                                a)
+                                
+                                    e' adottata la forma di societa' per azioni nel rispetto delle disposizioni del presente capo; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la sede legale e la direzione generale della societa' sono situate nel territorio della Repubblica; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il capitale sociale ((versato)) e' di ammontare non inferiore a quello determinato in via generale dalla Banca d'Italia;; ((133))
+                                    
+                                
+                            
+                            
+                                d)
+                                
+                                    i soggetti che svolgono funzioni di amministrazione, direzione e controllo siano idonei secondo quanto previsto dall'articolo 13; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    i titolari delle partecipazioni indicate all'articolo 15, comma 1, hanno i requisiti e soddisfano i criteri stabiliti ai sensi dell'articolo 14 e non ricorrono le condizioni per il divieto previsto dall'articolo 15, comma 2; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    per le Sicav ((in gestione interna)) lo statuto prevede come oggetto esclusivo l'investimento collettivo del patrimonio raccolto mediante offerta delle proprie azioni; per le Sicaf ((in gestione interna)) lo statuto prevede come oggetto esclusivo l'investimento collettivo del patrimonio raccolto mediante offerta delle proprie azioni e degli strumenti finanziari partecipativi indicati nello statuto stesso; ((133))
+                                    
+                                
+                            
+                            
+                                g)
+                                
+                                    la struttura del gruppo di cui e' parte la societa' non e' tale da pregiudicare l'effettivo esercizio della vigilanza sulla societa' e sono fornite almeno le informazioni richieste ai sensi dell'articolo 15, comma 5; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    e' presentato, unitamente all'atto costitutivo e allo statuto, un programma concernente l'attivita' iniziale nonche' una relazione sulla struttura organizzativa.
+
 Le Sicav ((in gestione interna autorizzate)) e le Sicaf ((in gestione interna autorizzate)) comunicano alla Banca d'Italia e alla Consob qualsiasi modifica sostanziale delle condizioni per il rilascio dell'autorizzazione, in particolare qualsiasi cambiamento significativo relativo alle informazioni fornite a corredo della domanda di autorizzazione, prima che la modifica sia attuata. (132) ((133))
+
+2.
+                        
+                            
+                                La Banca d'Italia, sentita la Consob, con regolamento: 
+ 
+                            
+                            
+                                a)
+                                
+                                    disciplina la procedura di autorizzazione prevista dal comma 1 e le ipotesi di decadenza dalla stessa; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    individua la documentazione ((da trasmettere)) unitamente alla richiesta di autorizzazione e al contenuto ((dell'atto costitutivo e dello statuto)). ((133))
 
 La Banca d'Italia attesta la conformita' ((dell'atto costitutivo e dello statuto)) alle prescrizioni di legge e di regolamento e, con riferimento alle Sicav ((in gestione interna)) e alle Sicaf ((in gestione interna)) diverse dai FIA riservati, ai criteri generali dalla stessa predeterminati. ((133))
 
@@ -1819,6 +4998,40 @@ Lo statuto della Sicav ((in gestione interna)) indica le modalita' di determinaz
 ((Qualora sia prevista la costituzione di uno o piu' comparti, lo statuto puo' prevedere che la distribuzione dei proventi relativi al singolo comparto conseguiti possa avvenire anche in assenza di utili complessivi della societa', previa asseverazione da parte del soggetto incaricato della revisione contabile della societa' e a condizione che sia assicurata la gestione sana e prudente della societa'; le perdite relative alla gestione di un comparto sono imputate esclusivamente al patrimonio del medesimo comparto.))
                                 ((133))
 
+6.
+                        
+                            
+                                Lo statuto della Sicav ((in gestione interna)) puo' prevedere: ((133))
+                                
+                            
+                            
+                                a)
+                                
+                                    limiti all'emissione di azioni nominative; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    particolari vincoli di trasferibilita' delle azioni nominative; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    
+                                        ((l'esistenza di comparti di investimento per ognuno dei quali sono emesse una o piu' categorie di azioni; in tal caso sono stabiliti i criteri di ripartizione delle spese generali e dei proventi tra i vari comparti e il patrimonio generale;))
+                                        ((133))
+                                    
+                                
+                            
+                            
+                                d)
+                                
+                                    la possibilita' di emettere frazioni di azioni, fermo restando che l'attribuzione e l'esercizio dei diritti sociali sono comunque subordinati al possesso di almeno un'azione, secondo la disciplina del presente capo.
+
 Alla Sicav ((in gestione interna)) non si applicano gli articoli 2346, comma sesto, ((...)) 2349, 2350, commi secondo e terzo, 2351, 2352, comma terzo, 2353, 2354, comma terzo, numeri 3) e 4), 2355-bis e 2356 del codice civile. ((133))
 
 La Sicav ((in gestione interna)) non puo' emettere obbligazioni o azioni di risparmio ne' acquistare o comunque detenere azioni proprie. ((133))
@@ -1837,6 +5050,47 @@ Alla Sicaf ((in gestione interna)) non si applicano gli articoli da 2447-bis a 2
 Le azioni della Sicaf ((in gestione interna)) possono essere nominative o al portatore secondo quanto stabilito dallo statuto. Le azioni al portatore attribuiscono un solo voto per ogni socio indipendentemente dal numero di azioni di tale categoria possedute. ((133))
 
 Lo statuto della Sicaf ((in gestione interna)) indica le modalita' di determinazione del valore delle azioni e degli eventuali strumenti finanziari partecipativi emessi. ((133))
+
+4.
+                        
+                            
+                                Lo statuto della Sicaf ((in gestione interna)) puo' prevedere: ((133))
+                                
+                            
+                            
+                                a)
+                                
+                                    limiti all'emissione di azioni nominative; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    particolari vincoli di trasferibilita' delle azioni nominative; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    
+                                        ((l'esistenza di comparti di investimento per ognuno dei quali sono emesse una o piu' categorie di azioni o di strumenti finanziari partecipativi; in tal caso sono stabiliti i criteri di ripartizione delle spese generali e dei proventi tra i vari comparti e il patrimonio generale;))
+                                        ((133))
+                                    
+                                
+                            
+                            
+                                d)
+                                
+                                    la possibilita' di emettere frazioni di azioni, fermo restando che l'attribuzione e l'esercizio dei diritti sociali sono comunque subordinati al possesso di almeno un'azione, secondo la disciplina del presente capo; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    nel caso di Sicaf ((in gestione interna)) riservata e fermo restando quanto previsto dall'articolo 35-bis, comma 4, la possibilita' di effettuare i versamenti relativi alle azioni sottoscritte in piu' soluzioni, a seguito dell'impegno dell'azionista a effettuare il versamento ((a richiesta della societa' stessa)) in base alle esigenze di investimento. ((133))
 
 Alle Sicaf ((in gestione interna)) non si applicano gli articoli 2349, 2350, commi secondo e terzo, ((...)) e 2353 del codice civile.
 Alle Sicaf ((in gestione interna)) non riservate a investitori professionali e alle categorie di investitori individuate dal regolamento di cui all'articolo 39 non si applica, altresi', l'articolo 2356 del codice civile. ((133))
@@ -1995,6 +5249,44 @@ f) le modalita' di raccolta del patrimonio gestito diverse dall'emissione di azi
 
 
 
+2.
+                        
+                            
+                                
+                                    ((In deroga a quanto previsto dall'articolo 2437 del codice civile, hanno diritto di recedere, per tutte o parte delle loro azioni, esclusivamente i soci che non hanno concorso alle deliberazioni che determinano:))
+                                
+                            
+                            
+                                a)
+                                
+                                    
+                                        ((la modifica della clausola relativa all'oggetto sociale, quando consente un cambiamento significativo dell'attivita' della societa';))
+                                    
+                                
+                            
+                            
+                                b)
+                                
+                                    
+                                        ((la trasformazione della societa';))
+                                    
+                                
+                            
+                            
+                                c)
+                                
+                                    
+                                        ((il trasferimento della sede sociale all'estero;))
+                                    
+                                
+                            
+                            
+                                d)
+                                
+                                    
+                                        ((la modifica dei criteri di determinazione del valore dell'azione in caso di recesso.))
+                                        ((133))
+
 ---------------
                             AGGIORNAMENTO (133)
                             
@@ -2036,7 +5328,48 @@ f) le modalita' di raccolta del patrimonio gestito diverse dall'emissione di azi
 
 ## Art. 35-decies. — (Regole di comportamento e diritto di voto).
 
-((133))
+1.
+                        
+                            
+                                
+                                    ((I gestori autorizzati)): ((133))
+                                
+                            
+                            
+                                a)
+                                
+                                    operano con diligenza, correttezza e trasparenza nel miglior interesse degli Oicr gestiti, dei relativi partecipanti e dell'integrita' del mercato; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    si organizzano in modo tale da ridurre al minimo il rischio di conflitti di interesse anche tra i patrimoni gestiti e, in situazioni di conflitto, agiscono in modo da assicurare comunque un equo trattamento degli Oicr gestiti; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    adottano misure idonee a salvaguardare i diritti dei partecipanti agli Oicr gestiti e dispongono di adeguate risorse e procedure idonee ad assicurare l'efficiente svolgimento dei servizi; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    assicurano la parita' di trattamento nei confronti di tutti i partecipanti a uno stesso Oicr gestito nel rispetto delle condizioni stabilite dalla Consob, sentita la Banca d'Italia, in conformita' al diritto dell'Unione europea. In relazione ai FIA riservati, trattamenti preferenziali nei confronti di uno o piu' investitori o categorie di investitori sono consentiti nel rispetto della direttiva 2011/61/UE e delle relative disposizioni attuative; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    provvedono, nell'interesse dei partecipanti, all'esercizio dei diritti di voto inerenti agli strumenti finanziari di pertinenza degli Oicr gestiti, salvo diversa disposizione di legge.
+
+((I gestori autorizzati collaborano con i liquidatori in caso di liquidazione dell'Oicr gestito fornendo, in particolare, le informazioni e la documentazione utili allo svolgimento dell'incarico del liquidatore.))
+                                ((133))
 
 ---------------
                             AGGIORNAMENTO (133)
@@ -2235,6 +5568,83 @@ Le quote di partecipazione ai fondi comuni ((...)) sono nominative o al portator
 
 Il regolamento di ciascun fondo comune di investimento definisce le caratteristiche del fondo, ne disciplina il funzionamento, indica il gestore e il depositario, definisce la ripartizione dei compiti tra tali soggetti, regola i rapporti intercorrenti tra tali soggetti e i partecipanti al fondo.
 
+2.
+                        
+                            
+                                Il regolamento stabilisce in particolare: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la denominazione e la durata del fondo; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le modalita' di partecipazione al fondo, i termini e le modalita' dell'emissione ed estinzione dei certificati e della sottoscrizione e del rimborso delle quote nonche' le modalita' di liquidazione del fondo; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    gli organi competenti per la scelta degli investimenti e i criteri di ripartizione degli investimenti medesimi; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    il tipo di beni, di strumenti finanziari e di altri valori in cui e' possibile investire il patrimonio del fondo; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    i criteri relativi alla determinazione dei proventi e dei risultati della gestione nonche' le eventuali modalita' di ripartizione e distribuzione dei medesimi; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    le spese a carico del fondo e quelle a carico ((del gestore)); ((133))
+                                    
+                                
+                            
+                            
+                                g)
+                                
+                                    la misura o i criteri di determinazione delle provvigioni spettanti ((al gestore)) e degli oneri a carico dei partecipanti; ((133))
+                                    
+                                
+                            
+                            
+                                h)
+                                
+                                    le modalita' di pubblicita' del valore delle quote di partecipazione; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    se il fondo e' un fondo feeder ((;))
+                                        ((133))
+                                    
+                                
+                            
+                            
+                                i-bis)
+                                
+                                    
+                                        ((in caso di gestore estero, la disciplina dell'obbligo di collaborazione del gestore medesimo con i liquidatori del fondo, ivi inclusa la trasmissione di ogni informazione o documentazione utile allo svolgimento dell'incarico del liquidatore.))
+                                        ((133))
+
 Il regolamento dei fondi chiusi diversi dai FIA riservati prevede che i partecipanti possono riunirsi in assemblea esclusivamente per deliberare sulla sostituzione del gestore.
 L'assemblea e' convocata dal consiglio di amministrazione ((del gestore)) anche su richiesta dei partecipanti che rappresentano almeno il 5 per cento del valore delle quote in circolazione e le deliberazioni sono approvate con il voto favorevole della maggioranza assoluta delle quote degli intervenuti all'assemblea. Il quorum deliberativo non puo' in ogni caso essere inferiore al 10 per cento del valore di tutte le quote in circolazione. ((133))
 
@@ -2254,6 +5664,62 @@ La Banca d'Italia individua le ipotesi in cui, in base all'oggetto dell'investim
 ## - Sezione II ((Oicr societari in gestione esterna))
 
 ## Art. 38. — (Sicav e Sicaf che designano un gestore esterno)
+
+1.
+                        
+                            
+                                
+                                    ((Le Sicav in gestione esterna e le Sicaf in gestione esterna)) rispettano le seguenti condizioni: ((133))
+                                
+                            
+                            
+                                a)
+                                
+                                    adottano la forma di societa' per azioni; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la sede legale e la direzione generale della societa' sono situate nel territorio della Repubblica; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    dispongono di un capitale sociale almeno pari a quello previsto dall'articolo 2327 del codice civile; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    lo statuto prevede: 
+ 1) per le Sicav ((in gestione esterna)), come oggetto sociale esclusivo, l'investimento collettivo del patrimonio raccolto mediante offerta al pubblico delle proprie azioni; per le Sicaf ((in gestione esterna)), come oggetto sociale esclusivo, l'investimento collettivo del patrimonio raccolto mediante offerta al pubblico delle proprie azioni e degli altri strumenti finanziari partecipativi previsti dallo statuto stesso; ((133)) 
+ 2) con riferimento all'intero patrimonio raccolto, l'affidamento della prestazione delle attivita' di cui all'articolo 33 ((, comma 1,)) a un gestore esterno e l'indicazione della societa' designata; ((133))
+                                    
+                                
+                            
+                            
+                                e)
+                                
+                                    definiscono procedure idonee ad assicurare la continuita' della gestione in caso di sostituzione del gestore esterno; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    stipulano accordi con il gestore esterno per consentire al consiglio di amministrazione della societa' di disporre dei documenti e delle informazioni necessari a verificare il corretto adempimento degli obblighi del gestore nonche' per definire ((le tempistiche e le modalita' di trasmissione di tali documenti e informazioni, nonche', in caso di gestore estero, per disciplinare gli obblighi di collaborazione del gestore nei confronti dei liquidatori della societa', ivi inclusa la trasmissione di ogni informazione o documentazione utile allo svolgimento dell'incarico del liquidatore)); ((133))
+                                    
+                                
+                            
+                            
+                                g)
+                                
+                                    la stipula di un accordo tra il ((gestore estero)), e il depositario che assicura a quest'ultimo la disponibilita' delle informazioni necessarie per lo svolgimento dei propri compiti, secondo quanto previsto negli articoli 41-bis, comma 3, lettera c), e 41-ter, comma 2, lettera b). ((133))
 
 La denominazione sociale della Sicav in gestione esterna contiene l'indicazione di societa' di investimento per azioni a capitale variabile in gestione esterna. La denominazione sociale della Sicaf in gestione esterna contiene l'indicazione di societa' di investimento per azioni a capitale fisso in gestione esterna. Tali denominazioni risultano in tutti i documenti della societa'. Alle Sicav e Sicaf in gestione esterna non si applicano gli articoli 2333, 2334, 2335 e 2336 del codice civile; per le Sicav in gestione esterna non sono ammessi i conferimenti in natura. ((In deroga a quanto previsto dall'articolo 2433-bis, comma 1, del codice civile, le Sicaf in gestione esterna possono distribuire acconti sui dividendi nei limiti e nelle modalita' previsti dal medesimo articolo.))
                                 ((133))
@@ -2326,6 +5792,89 @@ i) la stipula di un accordo tra il gestore estero e il depositario che assicura 
 ## - ((Sezione III Disposizioni comuni))
 
 ## Art. 39. — (Struttura degli Oicr italiani)
+
+1.
+                        
+                            
+                                Il Ministro dell'economia e delle finanze, con regolamento adottato sentite la Banca d'Italia e la Consob, determina i criteri generali cui devono uniformarsi gli Oicr italiani con riguardo: 
+ 
+                            
+                            
+                                a)
+                                
+                                    all'oggetto dell'investimento; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    alle categorie di investitori cui e' destinata l'offerta delle quote o azioni. 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    alla forma aperta o chiusa e alle modalita' di partecipazione, con particolare riferimento alla frequenza di emissione e rimborso delle quote, all'eventuale ammontare minimo delle sottoscrizioni e alle procedure da seguire; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    all'eventuale durata minima e massima; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    
+                                        ((in relazione ai FIA italiani immobiliari, all'oggetto dell'investimento, alla forma, alle modalita' di partecipazione e alle condizioni e modalita' con le quali devono essere effettuati gli acquisti o i conferimenti dei beni, sia in fase costitutiva sia in fase successiva alla costituzione del FIA.))
+                                        ((133))
+
+2.
+                        
+                            
+                                Il regolamento previsto dal comma 1 stabilisce inoltre: 
+ 
+                            
+                            
+                                a)
+                                
+                                    le categorie di investitori non professionali nei cui confronti e' possibile commercializzare quote di FIA italiani riservati, secondo le modalita' previste dall'articolo 43; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le scritture contabili, il rendiconto e i prospetti periodici che le societa' di gestione del risparmio redigono, in aggiunta a quanto prescritto per le imprese commerciali, nonche' gli obblighi di pubblicita' del rendiconto e dei prospetti periodici; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    le ipotesi nelle quali la societa' di gestione del risparmio deve chiedere l'ammissione alla negoziazione in un mercato regolamentato delle quote dei fondi; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    i requisiti e i compensi degli esperti indipendenti indicati nell'articolo 6, comma 1, lettera c), numero 5)((;))
+                                        ((133))
+                                    
+                                
+                            
+                            
+                                d-bis)
+                                
+                                    
+                                        ((le ulteriori disposizioni concernenti i FIA italiani immobiliari e gli OICR garantiti.))
+                                        ((133))
 
 -------------
                             AGGIORNAMENTO (133)
@@ -2450,6 +5999,90 @@ I partecipanti a un FIA riservato possono altresi' sottoscrivere le quote o le a
 
 ((Il regolamento o lo statuto del FIA italiano chiuso puo' prevedere i casi in cui e' possibile una proroga del termine di durata del FIA non superiore a tre anni per il completamento della liquidazione degli investimenti. Nel caso in cui il gestore autorizzato si avvale di tale proroga, ne da' tempestiva comunicazione alla Banca d'Italia e alla Consob, specificando le motivazioni poste a supporto della relativa decisione. ))
 
+3.
+                        
+                            
+                                
+                                    ((Il regolamento o lo statuto del FIA italiano chiuso puo' prevedere la possibilita' che le quote o le azioni siano rimborsate anticipatamente nei seguenti casi:))
+                                
+                            
+                            
+                                a)
+                                
+                                    
+                                        ((su iniziativa del gestore, a tutti i partecipanti, proporzionalmente alle quote o alle azioni da ciascuno possedute;))
+                                    
+                                
+                            
+                            
+                                b)
+                                
+                                    
+                                        ((su richiesta dei singoli partecipanti, per un ammontare non superiore alle somme acquisite attraverso nuove emissioni e, per i FIA per cui non sia prevista la quotazione in un mercato regolamentato o in un sistema multilaterale di negoziazione, per un ammontare non superiore ai prestiti contratti dal fondo, purche' non eccedenti il 10 per cento del valore del FIA. Nel caso in cui il fondo effettui nuove emissioni, i rimborsi anticipati hanno luogo con la medesima frequenza e in coincidenza con le emissioni stesse e alla stessa data e' prevista la determinazione periodica del valore delle quote o delle azioni del FIA. Nel caso in cui le somme necessarie per effettuare i rimborsi eccedano quelle acquisite attraverso le nuove emissioni e i prestiti consentiti, i rimborsi anticipati avvengono proporzionalmente secondo i criteri stabiliti nel regolamento o nello statuto del FIA al fine di assicurare la parita' di trattamento dei partecipanti.))
+
+4.
+                        
+                            
+                                
+                                    ((Il regolamento o lo statuto del FIA italiano chiuso riservato puo' prevedere ulteriori modalita' di rimborso anticipato delle quote o azioni su iniziativa del gestore, in deroga al principio di proporzionalita' di cui al comma 3, lettera a), purche' siano assicurate la tutela di tutti gli investitori del FIA e la coerenza tra le politiche di investimento e di rimborso del FIA medesimo. Per i GEFIA sotto soglia registrati, resta fermo il rispetto delle disposizioni di cui alla parte II, titolo III, capo I-ter. Ai fini del presente comma, i gestori autorizzati sono in grado di dimostrare alla Banca d'Italia e alla Consob che:))
+                                
+                            
+                            
+                                a)
+                                
+                                    
+                                        ((il regolamento e lo statuto del FIA indicano chiaramente le procedure e le condizioni di rimborso anticipato;))
+                                    
+                                
+                            
+                            
+                                b)
+                                
+                                    
+                                        ((la politica di investimento e le politiche e procedure di valutazione dei beni del fondo sono coerenti con la politica di rimborso del FIA e, in particolare, con la frequenza dei rimborsi;))
+                                    
+                                
+                            
+                            
+                                c)
+                                
+                                    
+                                        ((la finestra di rimborso e' offerta a tutti gli investitori secondo le modalita' di pubblicita' previste nel regolamento o nello statuto dell'Oicr per la diffusione del valore delle quote o delle azioni e dandone notizia ai singoli partecipanti al fondo o ai singoli azionisti;))
+                                    
+                                
+                            
+                            
+                                d)
+                                
+                                    
+                                        ((l'importo complessivo dei rimborsi e' limitato a una percentuale delle attivita' liquide nel portafoglio del FIA ed e' definito dal gestore in modo da essere coerente con le caratteristiche delle attivita' nel portafoglio del FIA, non comprometterne la strategia di investimento e il profilo di liquidita' e non recare pregiudizio agli investitori che permangono nel fondo. Nel caso in cui la liquidita' necessaria a far fronte ai rimborsi anticipati derivi da nuovi prestiti, il gestore assicura il rispetto del limite di leva finanziaria di cui al comma 3, lettera b);))
+                                    
+                                
+                            
+                            
+                                e)
+                                
+                                    
+                                        ((i rimborsi sono preceduti da un periodo minimo di preavviso (notice period) coerente con i sistemi di governo e gestione del rischio di liquidita' del FIA;))
+                                    
+                                
+                            
+                            
+                                f)
+                                
+                                    
+                                        ((gli investitori sono trattati equamente e, in caso di superamento dell'importo definito dal gestore di cui alla lettera d), i rimborsi anticipati avvengono proporzionalmente secondo i criteri stabiliti nel regolamento o nello statuto del FIA al fine di assicurare la parita' di trattamento dei partecipanti;))
+                                    
+                                
+                            
+                            
+                                g)
+                                
+                                    
+                                        ((e' previsto un periodo di detenzione minimo iniziale, pari ad almeno trentasei mesi, durante il quale il gestore non puo' rimborsare le quote o azioni dell'Oicr)). 
+ 
+ ((133))
+
 ----------------
                             AGGIORNAMENTO (133)
                             
@@ -2499,6 +6132,70 @@ d) un prospetto recante l'indicazione del valore unitario delle quote di parteci
 
 ((
 
+1.
+                        
+                            
+                                La Banca d'Italia autorizza l'investimento dell'Oicr italiano feeder nell'Oicr master, quando ricorrono le seguenti condizioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    sussistono accordi, rispettivamente, tra i gestori, i depositari e i revisori legali o le societa' di revisione legale degli Oicr master e degli Oicr feeder, che consentono la disponibilita' dei documenti e delle informazioni necessari a svolgere i rispettivi compiti; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    nel caso in cui l'Oicr master e l'Oicr feeder hanno lo stesso gestore, quest'ultimo adotta norme interne di comportamento che assicurano la medesima disponibilita' di documenti e informazioni di cui alla lettera a); 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    l'Oicr master e l'Oicr feeder possiedono le caratteristiche previste dal regolamento di cui al comma 2.
+
+2.
+                        
+                            
+                                La Banca d'Italia, sentita la Consob, disciplina con regolamento: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la procedura di autorizzazione dell'investimento dell'Oicr feeder nell'Oicr master, nonche' le informazioni e i documenti da fornire con l'istanza di autorizzazione; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il contenuto degli accordi e delle norme interne di comportamento di cui al comma 1; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    i requisiti dell'Oicr master e dell'Oicr feeder, nonche' le regole ad essi applicabili; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    le regole applicabili all'Oicr feeder nel caso di liquidazione, fusione, scissione, sospensione temporanea del riacquisto, del rimborso o della sottoscrizione delle quote dell'Oicr master, nonche' le regole applicabili all'Oicr feeder e all'Oicr master per coordinare la tempistica del calcolo e della pubblicazione del loro valore patrimoniale netto; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    gli obblighi di comunicazione e lo scambio di informazioni e documenti tra il gestore, il depositario, il revisore legale o la societa' di revisione legale, rispettivamente dell'Oicr master e dell'Oicr feeder, nonche' tra tali soggetti e la Banca d'Italia, la Consob e le autorita' competenti dell'Oicr master e dell'Oicr feeder UE e non UE.
+
 Agli Oicr master e agli Oicr feeder si applicano, in quanto compatibili, le disposizioni delle sezioni I, II, III e V del presente capo.
 
 Agli OICVM UE master, che non commercializzano in Italia le proprie quote nei confronti di soggetti diversi dagli Oicr feeder, non si applica l'articolo 42, commi 1, 2, 3 e 4. Ai FIA master UE e non UE si applicano le disposizioni del capo II-ter.
@@ -2522,6 +6219,52 @@ La Banca d'Italia autorizza, dandone comunicazione alla Consob, la fusione o la 
 Le Sgr mettono a disposizione dei partecipanti ai fondi e della Banca d'Italia una relazione, redatta dal depositario ovvero da un revisore legale o da una societa' di revisione legale, che attesta la correttezza dei criteri adottati per la valutazione delle attivita' e delle passivita' del fondo, dell'eventuale conguaglio in denaro, del metodo di calcolo e del livello effettivo del rapporto di cambio alla data di riferimento di tale rapporto.
 
 Le Sicav e le Sicaf coinvolte in operazioni di fusione o scissione applicano gli articoli contenuti nel libro V, titolo V, capo X, sezioni II e III del codice civile, in quanto compatibili. Il progetto di fusione o quello di scissione, redatti sulla base di quanto richiesto dal regolamento della Banca d'Italia di cui al comma 4, e le eventuali deliberazioni assembleari di modifica dei medesimi progetti sono preventivamente autorizzati dalla Banca d'Italia. In assenza dell'autorizzazione prevista dal comma 1, non e' possibile dare corso alle iscrizioni nel registro delle imprese.
+
+4.
+                        
+                            
+                                La Banca d'Italia, sentita la Consob, disciplina con regolamento: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la procedura di autorizzazione e le relative condizioni; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'individuazione della data di efficacia dell'operazione e i criteri di imputazione dei costi dell'operazione; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    l'informativa da rendere ai partecipanti; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    le forme ammesse per le fusioni e le scissioni; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    l'oggetto delle attestazioni di conformita' e della relazione previste dai commi 1 e 2; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    i diritti dei partecipanti.
 
 Le norme del presente articolo non si applicano ai FIA italiani riservati.
 
@@ -2550,6 +6293,24 @@ La Banca d'Italia, sentita la Consob, definisce con regolamento le disposizioni 
 
 Le Sgr ((autorizzate)) possono operare, anche senza stabilirvi succursali, in uno Stato UE e non UE, in conformita' al regolamento previsto dal comma 2. ((133))
 
+2.
+                        
+                            
+                                La Banca d'Italia, sentita la Consob, stabilisce con regolamento le norme di attuazione delle disposizioni dell'UE concernenti le condizioni e le procedure che le Sgr ((autorizzate)) rispettano per: ((133))
+                                
+                            
+                            
+                                a)
+                                
+                                    la prestazione negli Stati dell'UE delle attivita' per le quali sono autorizzate ai sensi della direttiva 2009/65/CE e delle relative disposizioni attuative, ivi inclusa l'istituzione di OICVM ((...)); ((133))
+                                    
+                                
+                            
+                            
+                                b)
+                                
+                                    l'operativita' in via transfrontaliera negli Stati UE e non UE, in conformita' alle previsioni della direttiva 2011/61/UE e delle relative disposizioni attuative, fermo restando quanto previsto nel capo II-ter. (55)
+
 ((La Consob stabilisce con regolamento le norme di attuazione delle disposizioni dell'UE concernenti la commercializzazione di OICVM da parte di gestori italiani in uno Stato dell'Unione europea diverso dall'Italia e il ritiro della notifica con la quale e' stata precedentemente comunicata la commercializzazione di tali OICVM.))
                                 ((133))
 
@@ -2573,6 +6334,31 @@ Per l'esercizio delle attivita' per le quali sono autorizzate ai sensi delle dis
 
 Salvo quanto previsto dall'articolo 42, le societa' di gestione UE possono svolgere le attivita' per le quali sono autorizzate ai sensi delle disposizioni dell'Unione europea nel territorio della Repubblica senza stabilirvi succursali, a condizione che la Banca d'Italia e la Consob siano informate dall'autorita' competente dello Stato di origine.
 
+3.
+                        
+                            
+                                Le societa' di gestione UE che intendono gestire un OICVM italiano rispettano le disposizioni previste nel capo II, nonche' le disposizioni di attuazione dell'articolo 6, comma 1, lettera c). La Banca d'Italia approva il regolamento del fondo ai sensi dell'articolo 37 ((o lo statuto della Sicav in gestione esterna ai sensi dell'articolo 38)) a condizione che: ((133))
+                                
+                            
+                            
+                                a)
+                                
+                                    il fondo o la Sicav rispetti le norme richiamate nel presente comma; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la societa' di gestione UE sia autorizzata a gestire nello Stato di origine un OICVM con caratteristiche analoghe a quello oggetto di approvazione; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    la societa' di gestione UE abbia stipulato con il depositario un accordo che assicura al depositario la disponibilita' delle informazioni necessarie per lo svolgimento dei propri compiti.
+
 Qualora la Banca d'Italia intenda rifiutare l'approvazione del regolamento del fondo o ((dello statuto)) della Sicav di cui al comma 3, consulta l'autorita' competente dello Stato di origine della societa' di gestione UE. ((133))
 
 La Banca d'Italia, sentita la Consob, disciplina con regolamento le condizioni e le procedure che le societa' di gestione UE devono rispettare per svolgere nel territorio della Repubblica le attivita' richiamate ai commi 1, 2 e 3 mediante stabilimento di succursali o in regime di libera prestazione di ((servizi. La Banca d'Italia disciplina altresi' il contenuto dell'accordo)) tra la societa' di gestione UE e il depositario previsto nel comma 3, lettera c). ((133))
@@ -2593,6 +6379,24 @@ Le societa' di gestione UE che svolgono le attivita' di cui ai commi 1 e 3 nel t
 ## Art. 41-ter. — (GEFIA UE)
 
 Fermo restando quanto previsto nel capo II-ter, i GEFIA UE possono svolgere l'attivita' di gestione collettiva del risparmio per la quale sono autorizzati ai sensi delle disposizioni dell'UE nel territorio della Repubblica in libera prestazione di servizi o mediante stabilimento di succursali, a condizione che la Banca d'Italia sia informata dall'autorita' competente dello Stato di origine. La Banca d'Italia trasmette tempestivamente copia di tale comunicazione alla Consob.
+
+2.
+                        
+                            
+                                I GEFIA UE che intendono gestire un FIA italiano rispettano le disposizioni previste nel capo II, le disposizioni di attuazione dell'articolo 6, comma 1, lettera c), e le seguenti condizioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    sono autorizzati a gestire nello Stato di origine FIA con caratteristiche analoghe a quelli che intendono istituire e gestire in Italia; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    hanno stipulato con il depositario un accordo idoneo ad assicurare a quest'ultimo la disponibilita' delle informazioni necessarie per lo svolgimento dei propri compiti.
 
 La Banca d'Italia ((...)) disciplina con regolamento il contenuto dell'accordo tra la societa' di gestione e il depositario previsto dal comma 2, lettera b). ((133))
 
@@ -2619,6 +6423,25 @@ La Banca d'Italia e la Consob possono chiedere, nell'ambito delle rispettive com
 
 ((73))
 
+4.
+                        
+                            
+                                La Banca d'Italia, sentita la Consob, stabilisce con regolamento: 
+ 
+                            
+                            
+                                a)
+                                
+                                    le condizioni e la procedura per il rilascio dell'autorizzazione di cui al comma 1; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le norme di attuazione delle disposizioni dell'UE concernenti le condizioni e le procedure che i GEFIA non UE autorizzati in Italia rispettano per operare in via transfrontaliera negli Stati dell'UE in conformita' alle previsioni della direttiva 2011/61/UE e delle relative disposizioni attuative, fermo restando quanto previsto dal capo II-ter. 
+ (55)
+
 -------------
                             AGGIORNAMENTO (55)
                             
@@ -2632,11 +6455,79 @@ La Banca d'Italia e la Consob possono chiedere, nell'ambito delle rispettive com
 
 ## Art. 42. — (Commercializzazione in Italia di quote o di azioni di OICVM UE)
 
+1.
+                        
+                            
+                                La commercializzazione in Italia di quote o di azioni di OICVM UE e' preceduta da una notifica alla Consob da parte dell'autorita' dello Stato di origine dell'OICVM, secondo le procedure previste dalle disposizioni dell'UE e nel rispetto delle relative norme di attuazione adottate con regolamento dalla Consob ((...)). Con il medesimo regolamento la Consob disciplina le strutture per gli investitori che gli OICVM UE devono mettere a disposizione in Italia, previste dall'articolo 92 della direttiva 2009/65/CE e, in particolare: 
+                            
+                            
+                                a)
+                                
+                                    determina i compiti delle strutture per gli investitori in modo da garantire ai medesimi l'esercizio dei diritti e l'accesso alle informazioni previsti dall'articolo 92 della direttiva 2009/65/CE;
+                                
+                            
+                            
+                                b)
+                                
+                                    stabilisce la lingua attraverso cui tali strutture devono essere fornite;
+                                
+                            
+                            
+                                c)
+                                
+                                    disciplina le condizioni in presenza delle quali i compiti di cui alla lettera a) possono essere svolti da un soggetto terzo o dall'OICVM UE congiuntamente a un soggetto terzo. ((133))
+
 Alle societa' di gestione UE che intendono offrire in Italia, senza stabilimento di succursali, quote di OICVM dalle stesse gestiti non si applicano le disposizioni dell'articolo 41-bis.
+
+3.
+                        
+                            
+                                La Consob ((...)), con regolamento: ((133))
+                                
+                            
+                            
+                                a)
+                                
+                                    individua le informazioni da fornire al pubblico nell'ambito della commercializzazione delle quote o delle azioni nel territorio della Repubblica nonche' le modalita' con cui tali informazioni devono essere fornite; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    determina le modalita' con cui devono essere resi pubblici il prezzo di emissione o di vendita, di riacquisto o di rimborso delle quote o delle azioni.
 
 La Banca d'Italia e la Consob possono richiedere, nell'ambito delle rispettive competenze, agli emittenti e a coloro che curano la commercializzazione delle quote o delle azioni indicate nel comma 1 la comunicazione, anche periodica, di dati e notizie e la trasmissione di atti e documenti.
 
 La cessazione della commercializzazione in Italia di quote o di azioni di OICVM UE e' preceduta da una notifica alla Consob da parte dell'autorita' dello Stato di origine dell'OICVM, secondo le procedure previste dalla direttiva 2009/65/CE e nel rispetto delle relative norme di attuazione adottate con regolamento dalla Consob ((...)). ((133))
+
+4-ter.
+                        
+                            
+                                La Banca d'Italia e la Consob, in qualita' di autorita' competenti dello Stato in cui l'OICVM UE ha cessato la commercializzazione: 
+                            
+                            
+                                a)
+                                
+                                    possono chiedere, nell'ambito delle proprie competenze, alle societa' di gestione UE la comunicazione di dati e notizie e la trasmissione di atti e documenti con le modalita' e nei termini dalle stesse stabiliti;
+                                
+                            
+                            
+                                b)
+                                
+                                    continuano a vigilare sull'osservanza da parte degli OICVM UE degli obblighi derivanti da disposizioni dell'ordinamento italiano e dell'Unione europea loro applicabili nelle materie del presente decreto;
+                                
+                            
+                            
+                                c)
+                                
+                                    possono esercitare nei confronti degli OICVM UE i poteri previsti dall'articolo 7-quinquies;
+                                
+                            
+                            
+                                d)
+                                
+                                    possono esercitare gli ulteriori poteri previsti nel presente decreto nei confronti degli OICVM UE.
 
 Dal momento del ricevimento da parte della Consob della notifica prevista dal comma 4-bis, la Consob e la Banca d'Italia non impongono all'OICVM UE di dimostrare la conformita' alle disposizioni legislative, regolamentari e amministrative nazionali in materia di requisiti di commercializzazione previste dall'articolo 5 del regolamento (UE) 2019/1156.
 
@@ -2654,11 +6545,104 @@ Dal momento del ricevimento da parte della Consob della notifica prevista dal co
 
 La pre-commercializzazione di FIA riservati e' la fornitura di informazioni o comunicazioni, direttamente o indirettamente, su strategie o su idee di investimento da parte di una Sgr ((autorizzata)) o di un GEFIA UE o per loro conto ai potenziali investitori professionali residenti o aventi sede legale nel territorio dell'Unione europea, al fine di sondare l'interesse dei medesimi verso un FIA italiano o UE o un comparto non ancora istituiti o istituiti ma per i quali non e' stata ancora avviata la procedura di notifica prevista dall'articolo 43, commi 2 e 8, nello Stato membro in cui i potenziali investitori risiedono o hanno la sede legale. In ogni caso, la pre-commercializzazione non costituisce mai un'offerta ai sensi dell'articolo 43, comma 1. ((133))
 
+2.
+                        
+                            
+                                Le Sgr ((autorizzate)) non possono svolgere in Italia e negli altri Stati dell'Unione europea la pre-commercializzazione nei casi in cui le informazioni fornite ai potenziali investitori: ((133))
+                                
+                            
+                            
+                                a)
+                                
+                                    sono sufficienti a consentire agli investitori di impegnarsi a sottoscrivere quote o azioni di un particolare FIA; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    equivalgono a moduli di sottoscrizione o a documenti analoghi, sia in forma di bozza che nella versione definitiva; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    equivalgono alla versione finale degli atti costituitivi, del prospetto o di altri documenti di offerta relativi a un FIA non ancora istituito.
+
+3.
+                        
+                            
+                                Se ai potenziali investitori residenti o aventi la sede legale in Italia o in un altro Stato dell'Unione europea sono fornite da parte della Sgr ((autorizzata)) una bozza di prospetto o una bozza di documenti di offerta, esse non contengono informazioni sufficienti a consentire agli investitori di prendere una decisione di investimento e indicano chiaramente che: ((133))
+                                
+                            
+                            
+                                a)
+                                
+                                    non costituiscono un'offerta o un invito a sottoscrivere quote o azioni di un FIA; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le informazioni in esse contenute non sono complete e potrebbero essere soggette a modifiche, ragion per cui non dovrebbero generare affidamento.
+
 La Sgr ((autorizzata)) assicura che gli investitori non sottoscrivano quote o azioni di un FIA attraverso la pre-commercializzazione e che, qualora contattati nell'ambito della pre-commercializzazione di un FIA, possano sottoscrivere quote o azioni di tale FIA soltanto nell'ambito della commercializzazione prevista dall'articolo 43. ((133))
+
+5.
+                        
+                            
+                                La Sgr ((autorizzata)) trasmette alla Consob una comunicazione che contiene: ((133))
+                                
+                            
+                            
+                                a)
+                                
+                                    un elenco degli Stati membri, inclusa eventualmente l'Italia, in cui si svolge o si e' svolta la pre-commercializzazione; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    i periodi di tempo in cui si svolge o si e' svolta la pre-commercializzazione; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    una breve descrizione dell'attivita' svolta nel contesto della pre-commercializzazione, comprese le informazioni sulle strategie di investimento presentate; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    ove rilevante, un elenco dei FIA o dei comparti che sono o sono stati oggetto della pre-commercializzazione.
 
 La Consob informa prontamente le autorita' competenti degli Stati membri in cui la Sgr ((autorizzata)) svolge o ha svolto la pre-commercializzazione. ((133))
 
 Quando un GEFIA UE svolge la pre-commercializzazione in Italia, la Consob e' informata di tale circostanza dall'autorita' competente sul GEFIA UE e puo' chiedere a tale autorita' di fornire ulteriori informazioni sulla pre-commercializzazione che si svolge o si e' svolta sul territorio della Repubblica.
+
+8.
+                        
+                            
+                                La Consob disciplina con regolamento ((...)): ((133))
+                                
+                            
+                            
+                                a)
+                                
+                                    i termini e le modalita' che la Sgr ((autorizzata)) deve osservare per la trasmissione della comunicazione di cui al comma 5; ((133))
+                                    
+                                
+                            
+                            
+                                b)
+                                
+                                    le fattispecie in presenza delle quali la sottoscrizione da parte di investitori professionali di quote o azioni di un FIA indicato nelle informazioni fornite nel contesto della pre-commercializzazione o istituito a seguito della pre-commercializzazione, e' considerata il risultato della commercializzazione svolta dalla Sgr ((autorizzata)) e ad essa si applica l'articolo 43. ((133))
 
 I soggetti terzi possono svolgere attivita' di pre-commercializzazione per conto di una Sgr ((autorizzata)). La Consob, con il regolamento di cui al comma 8, individua i soggetti terzi che possono svolgere tali attivita'. Ad essi si applicano le disposizioni del presente articolo. ((133))
 
@@ -2677,6 +6661,92 @@ La commercializzazione di FIA e' l'offerta, anche indiretta, su iniziativa o per
 
 La commercializzazione in Italia delle quote o delle azioni di FIA italiani riservati, FIA UE e FIA non UE gestiti da una Sgr ((autorizzata)) o da un GEFIA non UE autorizzato in Italia e la commercializzazione in uno Stato dell'UE diverso dall'Italia, nei confronti di investitori professionali, delle quote o azioni di FIA italiani, FIA UE e FIA non UE gestiti da una Sgr ((autorizzata)) o da un GEFIA non UE autorizzato in Italia, sono precedute da una notifica alla Consob. La Consob trasmette tempestivamente alla Banca d'Italia le informazioni contenute nella notifica e i documenti ivi allegati. ((133))
 
+3.
+                        
+                            
+                                La notifica contiene: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la lettera di notifica, corredata del programma di attivita' che individua il FIA oggetto della commercializzazione e lo Stato di origine del FIA; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il regolamento o lo statuto del FIA; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    l'identita' del depositario del FIA; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    la descrizione del FIA e le altre informazioni messe a disposizione degli investitori ai sensi dell'articolo 6, comma 2, lettera a), n. 3-bis), e della relativa disciplina attuativa; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    l'indicazione dello Stato d'origine dell'OICR master se l'OICR oggetto di commercializzazione e' un OICR feeder; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    se rilevante, l'indicazione dello Stato dell'UE diverso dall'Italia in cui le quote o azioni del FIA saranno commercializzate; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    le informazioni sulle modalita' stabilite per impedire la commercializzazione delle quote o azioni del FIA nei confronti di investitori al dettaglio. A tal fine, il regolamento o lo statuto e la documentazione messa a disposizione degli investitori prevedono che le quote o le azioni dei FIA possono essere commercializzate solo nei confronti di investitori professionali; 
+
+                                
+                            
+                            
+                                g-bis)
+                                
+                                    i dettagli necessari, compreso l'indirizzo, per la fatturazione o la comunicazione di eventuali spese ed oneri regolamentari eventualmente applicabili dalle autorita' competenti dello Stato dell'Unione europea diverso dall'Italia in cui la Sgr ((autorizzata)) o ((il GEFIA non UE)) intende commercializzare il FIA; ((133))
+                                    
+                                
+                            
+                            
+                                g-ter)
+                                
+                                    informazioni sulle strutture per gli investitori previste dall'articolo 44.
+
+4.
+                        
+                            
+                                La Consob, d'intesa con la Banca d'Italia, se non sussistono motivi ostativi, entro 20 giorni lavorativi dal ricevimento della notifica: 
+ 
+                            
+                            
+                                a)
+                                
+                                    comunica alla Sgr ((autorizzata)) o al GEFIA non UE che puo' avviare la commercializzazione in Italia delle quote o azioni del FIA oggetto della notifica. Nel caso di commercializzazione in Italia di un FIA UE, la comunicazione e' effettuata anche nei confronti dell'autorita' competente dello Stato d'origine del FIA; ((133))
+                                    
+                                
+                            
+                            
+                                b)
+                                
+                                    trasmette all'autorita' competente dello Stato dell'UE diverso dall'Italia in cui la Sgr ((autorizzata)) o il GEFIA non UE intende commercializzare il FIA il fascicolo di notifica che include la documentazione prevista dal comma 3 e l'attestato di cui al comma 5.
+La Consob informa tempestivamente ((la Sgr autorizzata o il GEFIA non UE)) dell'avvenuta trasmissione del fascicolo di notifica. ((133)).  ((la Sgr autorizzata o il GEFIA non UE)) non puo' avviare la commercializzazione prima della ricezione di tale comunicazione. ((133))
+
 La Banca d'Italia esprime la propria intesa sui profili indicati dalle lettere a), b), c) ed e) del comma 3, e in ordine all'adeguatezza del gestore a gestire il FIA oggetto di notifica. Nel caso di commercializzazione in uno Stato membro dell'UE diverso dall'Italia, la Banca d'Italia, ove rilasci la propria intesa, attesta che il gestore e' autorizzato a gestire il FIA oggetto di notifica.
 
 La Consob, sentita la Banca d'Italia, definisce con regolamento le procedure per la notifica prevista dal comma 2.
@@ -2692,6 +6762,38 @@ La Consob, verificata la completezza della notifica di cui al comma 7-bis, entro
 La commercializzazione in Italia, a investitori professionali e alle categorie di investitori individuate dal regolamento di cui all'articolo 39, delle quote o azioni di FIA italiani riservati, FIA UE e non UE gestiti da un GEFIA UE o da un GEFIA non UE autorizzato in uno Stato dell'UE diverso dall'Italia, e' preceduta da una notifica alla Consob da parte dell'autorita' dello Stato membro di origine per ciascun FIA oggetto di commercializzazione. La Consob trasmette tempestivamente alla Banca d'Italia le informazioni contenute nella notifica e i documenti alla stessa allegati. Nel caso di commercializzazione di quote o azioni di FIA italiani resta fermo quanto previsto nell'articolo 41-ter, commi 2 e 3. La Consob, sentita la Banca d'Italia, definisce con regolamento la procedura per la notifica prevista dal presente comma.
 
 La cessazione della commercializzazione in Italia di quote o di azioni di FIA gestiti da un GEFIA UE e' preceduta da una notifica alla Consob da parte dell'autorita' dello Stato di origine del GEFIA UE, secondo le procedure previste dalla direttiva 2011/61/UE e nel rispetto delle relative norme di attuazione adottate con regolamento dalla Consob, sentita la Banca d'Italia. La Consob trasmette tempestivamente alla Banca d'Italia le informazioni contenute nella notifica e i documenti alla stessa allegati.
+
+8-ter.
+                        
+                            
+                                La Banca d'Italia e la Consob, in qualita' di autorita' competenti dello Stato in cui il GEFIA UE ha cessato la commercializzazione: 
+ 
+                            
+                            
+                                a)
+                                
+                                    possono chiedere, nell'ambito delle proprie competenze, ai GEFIA UE la comunicazione di dati e notizie e la trasmissione di atti e documenti con le modalita' e nei termini dalle stesse stabiliti; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    continuano a vigilare sull'osservanza da parte dei GEFIA degli obblighi derivanti da disposizioni dell'ordinamento italiano e dell'Unione europea loro applicabili nelle materie del presente decreto; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    possono esercitare nei confronti dei GEFIA UE i poteri previsti dall'articolo 7-quinquies; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    possono esercitare gli ulteriori poteri, anche sanzionatori, previsti nel presente decreto nei confronti dei GEFIA UE.
 
 Dal momento del ricevimento da parte della Consob della notifica prevista dal comma 8-bis, la Consob e la Banca d'Italia non impongono al GEFIA UE di dimostrare la conformita' alle disposizioni legislative, regolamentari e amministrative nazionali in materia di requisiti di commercializzazione previste dall'articolo 5 del regolamento (UE) 2019/1156.
 
@@ -2715,7 +6817,105 @@ Le disposizioni del presente articolo relative alle Sgr ((autorizzate)), ai GEFI
 
 Fermo restando quanto previsto dagli articoli 35-bis, 37, 38 e 39, la commercializzazione in Italia di quote o azioni di FIA italiani non riservati alle categorie di investitori di cui all'articolo 43, e' preceduta da una notifica inoltrata dal gestore ((autorizzato)) alla Consob per ciascun FIA oggetto di commercializzazione. ((133))
 
+2.
+                        
+                            
+                                Alla lettera di notifica e' allegata la seguente documentazione: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il prospetto destinato alla pubblicazione; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il regolamento o lo statuto del FIA oggetto di commercializzazione; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il documento contenente le ulteriori informazioni da mettere a disposizione prima dell'investimento ai sensi dell'articolo 6, comma 2, lettera a), n. 3-bis), e delle relative disposizioni di attuazione, da cui risulta l'assenza di trattamenti preferenziali nei confronti di uno o piu' investitori o categorie di investitori.
+
 La Consob comunica al gestore che puo' iniziare a commercializzare agli investitori al dettaglio non rientranti nelle categorie di investitori cui possono essere commercializzati i FIA italiani riservati, i FIA indicati nella notifica entro 10 giorni lavorativi dal ricevimento della medesima quando e' verificata la completezza, la coerenza e la comprensibilita' delle informazioni contenute nella documentazione allegata alla lettera di notifica. Il gestore non puo' avviare la commercializzazione agli investitori al dettaglio non rientranti nelle categorie di investitori cui possono essere commercializzati i FIA italiani riservati, prima della ricezione della comunicazione.
+
+4.
+                        
+                            
+                                
+                                    ((La Consob disciplina)): ((133))
+                                
+                            
+                            
+                                a)
+                                
+                                    la procedura per la notifica prevista dal comma 1; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le strutture per gli investitori al dettaglio, non rientranti nelle categorie di investitori cui possono essere commercializzati i FIA italiani riservati, che i gestori devono mettere a disposizione in Italia, previste dall'articolo 43-bis della direttiva 2011/61/UE e, in particolare: 
+ 1) definisce i compiti delle strutture per gli investitori in modo da garantire ai medesimi l'esercizio dei diritti e l'accesso alle informazioni previsti dall'articolo 43-bis della direttiva 2011/61/UE; 
+ 2) stabilisce la lingua utilizzata da tali strutture per lo svolgimento dei compiti di cui al numero 1); 
+ 3) disciplina le condizioni in presenza delle quali i compiti di cui al numero 1) possono essere svolti da un soggetto terzo o dal gestore congiuntamente a un soggetto terzo.
+
+5.
+                        
+                            
+                                I gestori ((autorizzati)) di FIA UE e FIA non UE che commercializzano nello Stato di origine dei FIA medesimi le relative azioni o quote nei confronti di investitori al dettaglio ed intendono commercializzare tali FIA in Italia nei confronti di investitori al dettaglio non rientranti nelle categorie di investitori cui possono essere commercializzati i FIA italiani riservati, presentano istanza di autorizzazione alla Consob. La Consob, d'intesa con la Banca d'Italia sui profili di cui alle lettere b) e c), autorizza la commercializzazione se sono rispettate le seguenti condizioni: ((133))
+                                
+                            
+                            
+                                a)
+                                
+                                    i gestori hanno completato le procedure previste dall'articolo 43; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    gli schemi di funzionamento e le norme di contenimento e di frazionamento del rischio di tali FIA sono compatibili con quelli previsti per i FIA italiani; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    la disciplina del depositario di FIA e' equivalente a quella applicabile ai FIA italiani non riservati; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    il regolamento o lo statuto del FIA non consente trattamenti preferenziali nei confronti di uno o piu' investitori o categorie di investitori ai sensi dell'articolo 35-decies, comma 1, lettera d), e delle disposizioni dell'UE vigenti che disciplinano la materia; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    
+                                        ((...)) i gestori mettono a disposizione in Italia le strutture per gli investitori al dettaglio, non rientranti nelle categorie di investitori cui possono essere commercializzati i FIA italiani riservati, previste dall'articolo 43-bis della direttiva 2011/61/UE, in conformita' alle disposizioni regolamentari dettate dalla Consob, sentita la Banca d'Italia, che in particolare: ((133))  
+ 
+ 1) determina i compiti delle strutture per gli investitori in modo da garantire ai medesimi l'esercizio dei diritti e l'accesso alle informazioni previsti dall'articolo 43-bis della direttiva 2011/61/UE; 
+ 2) stabilisce la lingua attraverso cui tali strutture devono essere fornite; 
+ 3) disciplina le condizioni in presenza delle quali i compiti di cui al numero 1) possono essere svolti da un soggetto terzo o dal gestore congiuntamente a un soggetto terzo; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    le informazioni da mettere a disposizione degli investitori al dettaglio prima dell'investimento risultano complete, coerenti e comprensibili.
 
 La Consob, sentita la Banca d'Italia, disciplina con regolamento le procedure per il rilascio dell'autorizzazione prevista dal comma 5.
 
@@ -2753,6 +6953,115 @@ La Consob e la Banca d'Italia esercitano i poteri previsti dagli articoli 6-bis 
 
 Le Sgr ((autorizzate)) comunicano alla Consob il raggiungimento, il superamento o la riduzione al di sotto delle soglie del 10 ((per cento)), 20 ((per cento)), 30 ((per cento)), 50 ((per cento)) e 75 ((per cento)) dei diritti di voto in una societa' non quotata in conseguenza dell'acquisto, della detenzione o della cessione di partecipazioni al capitale sociale da parte del FIA italiano, del FIA UE o non UE da esse gestito. Tale comunicazione e' effettuata entro dieci giorni lavorativi dalla data dell'operazione. ((133))
 
+2.
+                        
+                            
+                                Le Sgr ((autorizzate)) i cui FIA italiani, FIA UE o non UE acquisiscono o detengono, anche indirettamente per il tramite di fiduciari o per interposta persona, la maggioranza assoluta dei diritti di voto esercitabili nell'assemblea di una societa' non quotata, comunicano l'acquisizione del controllo, entro dieci giorni lavorativi: ((133))
+                                
+                            
+                            
+                                a)
+                                
+                                    alla societa'; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    agli azionisti le cui identita' e i cui indirizzi sono a disposizione della Sgr ((autorizzata)) ovvero possono essere messi a disposizione tramite la societa' non quotata ovvero tramite un registro a cui la Sgr ((autorizzata)) puo' avere accesso; ((133))
+                                    
+                                
+                            
+                            
+                                c)
+                                
+                                    alla Consob.
+
+3.
+                        
+                            
+                                Le disposizioni contenute nei commi 1 e 2 si applicano anche: 
+ 
+                            
+                            
+                                a)
+                                
+                                    alle Sgr ((autorizzate)) i cui FIA acquisiscono, anche congiuntamente, una partecipazione rilevante in una societa' non quotata; ((133))
+                                    
+                                
+                            
+                            
+                                b)
+                                
+                                    alle Sgr ((autorizzate)) che gestiscono uno o piu' FIA che, individualmente o congiuntamente in base a un accordo, acquisiscono il controllo di una societa' non quotata; ((133))
+                                    
+                                
+                            
+                            
+                                c)
+                                
+                                    
+                                        ((alle Sgr autorizzate che cooperano con altri gestori)) ovvero con GEFIA UE o non UE, in base ad un accordo in virtu' del quale i FIA dalle stesse gestiti acquisiscono congiuntamente il controllo di una societa' non quotata; ((133))
+                                    
+                                
+                            
+                            
+                                d)
+                                
+                                    
+                                        ((alle Sicav in gestione interna autorizzate, alle Sicaf in gestione interna autorizzate e alle societa' di partenariato in gestione interna autorizzate)) che si trovano nelle situazioni previste dalle lettere a), b) e c). ((133))
+
+4.
+                        
+                            
+                                Ai fini del presente articolo, sono considerate societa' non quotate le societa' aventi sede legale nell'Unione europea non aventi azioni ammesse alle negoziazioni in un mercato regolamentato, diverse dalle: 
+ 
+                            
+                            
+                                a)
+                                
+                                    microimprese, piccole imprese e medie imprese, come definite dall'articolo 2, paragrafo 1, dell'allegato alla raccomandazione 2003/361/CE della Commissione europea, del 6 maggio 2003; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    societa' veicolo finalizzate all'acquisto, alla detenzione o all'amministrazione di beni immobili.
+
+5.
+                        
+                            
+                                La Consob, nel rispetto delle disposizioni della direttiva 2011/61/UE, stabilisce con regolamento: 
+ 
+                            
+                            
+                                a)
+                                
+                                    le modalita' di effettuazione delle comunicazioni previste dal comma 1; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il contenuto e le modalita' di adempimento degli obblighi informativi nei confronti dei soggetti indicati al comma 2, nonche' dei rappresentanti dei lavoratori della societa' non quotata ovvero, in loro mancanza, dei lavoratori stessi; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il contenuto delle informazioni ulteriori da inserire nella relazione annuale della societa' non quotata controllata, nonche' le modalita' e i termini con cui la stessa e' messa a disposizione dall'organo amministrativo ai rappresentanti dei lavoratori o, in loro mancanza, ai lavoratori stessi; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    gli obblighi che ((i gestori autorizzati sono tenuti)) ad osservare al fine di garantire la tutela del capitale ed impedire lo scorporo delle attivita' della societa' non quotata per un periodo di ventiquattro mesi dall'acquisizione del controllo da parte degli Oicr gestiti. ((133))
+
 ---------------
                             AGGIORNAMENTO (133)
                             
@@ -2760,7 +7069,102 @@ Le Sgr ((autorizzate)) comunicano alla Consob il raggiungimento, il superamento 
 
 ## Art. 46. — (Obblighi relativi all'acquisizione di partecipazioni di controllo di un emittente)
 
+1.
+                        
+                            
+                                Le Sgr ((autorizzate)) i cui FIA italiani, FIA UE e non UE acquisiscono una partecipazione di controllo al capitale di un emittente comunicano le informazioni stabilite dalla Consob con proprio regolamento, secondo le modalita' e nei termini ivi stabiliti, nei confronti: ((133))
+                                
+                            
+                            
+                                a)
+                                
+                                    dell'emittente; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    degli azionisti le cui identita' e i cui indirizzi sono a disposizione della Sgr ((autorizzata)) ovvero possono essere messi a disposizione tramite l'emittente ovvero tramite un registro a cui la Sgr ((autorizzata)) puo' avere accesso; ((133))
+                                    
+                                
+                            
+                            
+                                c)
+                                
+                                    della Consob.
+
 Ai fini di quanto previsto dal comma 1, per acquisto di una partecipazione di controllo si intende l'acquisto da parte di ((una Sgr autorizzata, individualmente o in accordo con altri gestori)), anche indirettamente per il tramite di fiduciari o per interposta persona, di una partecipazione che attribuisca diritti di voto in misura pari o superiore alla soglia del trenta per cento del capitale di un'emittente avente sede legale in Italia, ovvero alla diversa soglia determinata ai sensi dell'articolo 5, paragrafo 3, della direttiva 2004/25/CE, concernente le offerte pubbliche d'acquisto, secondo l'ordinamento dello Stato membro ove ha sede l'emittente. ((133))
+
+3.
+                        
+                            
+                                Il presente articolo si applica anche: 
+ 
+                            
+                            
+                                a)
+                                
+                                    alle Sgr ((autorizzate)) che gestiscono uno o piu' FIA italiani, FIA UE o non UE che, individualmente o congiuntamente in base a un accordo, acquisiscono il controllo di un emittente; ((133))
+                                    
+                                
+                            
+                            
+                                b)
+                                
+                                    
+                                        ((alle Sgr autorizzate che cooperano con altri gestori)) ovvero con GEFIA UE o non UE, in base ad un accordo in virtu' del quale i FIA italiani, i FIA UE o non UE dalle stesse gestiti acquisiscono congiuntamente il controllo di un emittente; ((133))
+                                    
+                                
+                            
+                            
+                                c)
+                                
+                                    
+                                        ((alle Sicav in gestione interna autorizzate, alle Sicaf in gestione interna autorizzate e alle societa' di partenariato in gestione interna autorizzate)) che si trovano nelle situazioni previste dalle lettere a) e b). ((133))
+
+4.
+                        
+                            
+                                La Consob, nel rispetto delle disposizioni della direttiva 2011/61/UE, stabilisce con regolamento: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il contenuto e le modalita' di adempimento degli obblighi informativi nei confronti dei soggetti indicati al comma 1, nonche' dei rappresentanti dei lavoratori dell'emittente; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    ovvero, in loro mancanza, dei lavoratori stessi; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    gli obblighi che ((i gestori autorizzati sono tenuti)) ad osservare al fine di garantire la tutela del capitale ed impedire lo scorporo delle attivita' dell'emittente per un periodo di ventiquattro mesi dall'acquisizione del controllo da parte degli Oicr gestiti. ((133))
+
+5.
+                        
+                            
+                                Ai fini del presente articolo, sono considerate emittenti le societa' aventi azioni ammesse alle negoziazioni in un mercato regolamentato, diverse dalle: 
+ 
+                            
+                            
+                                a)
+                                
+                                    microimprese, piccole imprese e medie imprese, come definite dall'articolo 2, paragrafo 1, dell'allegato alla raccomandazione 2003/361/CE della Commissione europea, del 6 maggio 2003; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    societa' veicolo finalizzate all'acquisto, alla detenzione o all'amministrazione di beni immobili.
 
 ---------------
                             AGGIORNAMENTO (133)
@@ -2771,7 +7175,87 @@ Ai fini di quanto previsto dal comma 1, per acquisto di una partecipazione di co
 
 ## Art. 46-bis. — FIA italiani che investono in crediti
 
+01.
+                        
+                            
+                                Ai fini del presente capo, si intendono per: 
+ 
+                            
+                            
+                                a)
+                                
+                                    "investimento in crediti" o "investire in credito" e "concessione del prestito" o "concedere prestiti", l'attivita' di concessione di finanziamenti sotto qualsiasi forma, incluso l'acquisto di crediti, svolta direttamente da parte di un FIA, o di un GEFIA per conto del FIA gestito e a valere sul patrimonio del FIA, oppure indirettamente attraverso un terzo o una societa' veicolo che concede un finanziamento per un FIA o per conto dello stesso, oppure per un GEFIA o per conto dello stesso rispetto al FIA, quando il GEFIA o il FIA partecipa alla strutturazione del prestito, o all'accordo preliminare delle sue caratteristiche o alla loro definizione, prima di assumere esposizioni sul finanziamento; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    "FIA di credito" o "FIA concedente prestiti", un FIA che presenta alternativamente uno dei seguenti requisiti: 
+ 1) ha una strategia di investimento che consiste principalmente nell'investire in crediti; 
+ 2) detiene in portafoglio crediti aventi un valore nozionale che rappresenta almeno il 50 per cento del suo valore patrimoniale netto; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    "prestito di azionista", un finanziamento concesso da un FIA a un'impresa nella quale il FIA detiene, direttamente o indirettamente, almeno il 5 per cento del capitale o dei diritti di voto e che non puo' essere venduto a terzi indipendentemente dagli strumenti di capitale detenuti dal FIA nella stessa impresa; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    "FIA che utilizza la leva finanziaria", un FIA le cui esposizioni sono aumentate dal GEFIA che lo gestisce, sia tramite finanziamenti in contante o in titoli oppure tramite il ricorso alla leva finanziaria attraverso l'assunzione di posizioni in strumenti derivati o mediante qualsiasi altro mezzo; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    "capitale del FIA", i conferimenti di capitale aggregati e gli impegni non ancora richiamati per un FIA, calcolati sulla base degli importi investibili previa deduzione di tutte le commissioni, di tutti i costi e di tutte le spese sostenuti direttamente o indirettamente dagli investitori; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    "FIA che investe anche in credito", i FIA, diversi dai FIA di credito, che investono in almeno un credito. (132)
+
 I FIA italiani possono investire in crediti, a valere sul proprio patrimonio nel rispetto delle norme del presente decreto e delle relative disposizioni attuative adottate ai sensi ((dell'articolo 6, comma 1)). (132) ((133))
+
+1-bis.
+                        
+                            
+                                I FIA di credito e i FIA che investono anche in credito italiani non investono in crediti erogati ai seguenti soggetti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il GEFIA che li gestisce e il relativo personale; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le terze parti ai quali il GEFIA ha delegato funzioni e il relativo personale; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il depositario dei FIA stessi e le terze parti ai quali il depositario ha delegato funzioni in relazione a tali FIA; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    i soggetti appartenenti al gruppo del GEFIA, salvo il caso in cui essi siano imprese finanziarie che non finanziano i soggetti di cui al presente comma, lettere a), b), e c). (132)
 
 I proventi dei crediti in cui investono i FIA di credito e i FIA che investono anche in crediti sono attribuiti integralmente ai FIA stessi, dedotte le spese di amministrazione. I gestori di FIA di credito e di FIA che investono anche in credito informano gli investitori di tutti i costi e spese relativi all'amministrazione e alla gestione dei crediti oggetto di investimento da parte del FIA. (132)
 
@@ -2872,6 +7356,45 @@ La Banca d'Italia, in qualita' di autorita' competente del depositario, informa 
 Il depositario agisce in modo indipendente e nell'interesse dei partecipanti all'Oicr. Esso adotta ogni misura idonea a prevenire potenziali conflitti di interesse tra l'esercizio delle funzioni di depositario e le altre attivita' svolte.
 
 Il depositario adempie agli obblighi di custodia degli strumenti finanziari ad esso affidati e alla verifica della proprieta' nonche' alla tenuta delle registrazioni degli altri beni. Se non sono affidate a soggetti diversi, detiene altresi' le disponibilita' liquide degli Oicr.
+
+3.
+                        
+                            
+                                Il depositario, nell'esercizio delle proprie funzioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    accerta la legittimita' delle operazioni di vendita, emissione, riacquisto, rimborso e annullamento delle quote del fondo, nonche' la destinazione dei redditi dell'Oicr; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    accerta la correttezza del calcolo del valore delle parti dell'Oicr; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    accerta che nelle operazioni relative all'Oicr la controprestazione sia rimessa nei termini d'uso; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    esegue le istruzioni del gestore se non sono contrarie alla legge, al regolamento o alle prescrizioni degli organi di vigilanza; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    monitora i flussi di liquidita' dell'Oicr, nel caso in cui la liquidita' non sia affidata al medesimo.
 
 Il depositario puo' svolgere altre attivita' nei confronti del gestore, incluso il calcolo del valore delle parti ((dell'Oicr)), ferma restando l'applicazione della disciplina in materia di esternalizzazione ai sensi dell'articolo 6, comma 1, lettera c-bis), numero 8), e comma 2-bis e a condizione che separi, sotto il profilo gerarchico e funzionale, l'espletamento delle funzioni di depositario dagli altri suoi compiti potenzialmente confliggenti e che i potenziali conflitti di interesse siano identificati, gestiti, monitorati e comunicati agli investitori dell'Oicr. (73) ((133))
 
@@ -3049,6 +7572,31 @@ La Banca d'Italia applica le disposizioni del presente Capo alle Sim di classe 1
 
 ## Art. 56. — Amministrazione straordinaria
 
+1.
+                        
+                            
+                                La Banca d'Italia, di propria iniziativa o su proposta formulata dalla Consob nell'ambito delle sue competenze, puo' disporre lo scioglimento degli organi con funzione di amministrazione e di controllo delle Sim ((e dei gestori autorizzati)) quando: 
+ 
+                            
+                            
+                                a)
+                                
+                                    risultino gravi irregolarita' nell'amministrazione ovvero gravi violazioni delle disposizioni legislative, amministrative o statutarie che ne regolano l'attivita', sempre che gli interventi indicati dagli articoli 55-quinquies o 56-bis, ove applicabili, non siano sufficienti per porre rimedio alla situazione; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    siano previste gravi perdite del patrimonio della societa'; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    lo scioglimento sia richiesto con istanza motivata dagli organi amministrativi o dall'assemblea straordinaria ovvero dal commissario nominato ai sensi dell'articolo 7-sexies. (73)
+
 Il provvedimento previsto dal comma 1 puo' essere adottato anche nei confronti delle succursali italiane di imprese di paesi terzi diverse dalle banche e di GEFIA non UE autorizzati in Italia((.))
                                 ((In tale ipotesi)) i commissari straordinari e il comitato di sorveglianza assumono nei confronti delle succursali stesse i poteri degli organi di amministrazione e di controllo dell'impresa. (73)
 
@@ -3183,6 +7731,31 @@ Alle succursali italiane di imprese di ((paesi terzi diverse dalle banche)) e di
 
 Ai provvedimenti di risanamento e alle procedure di liquidazione delle Sim indicate all'articolo 55-bis, comma 1, e delle imprese di investimento ((UE)) che svolgono le attivita' indicate dal medesimo articolo si applicano gli articoli 95-bis, 95-ter, 95-quater, 95-quinquies e 95-septies del Testo unico bancario, intendendosi suddette disposizioni riferite alle Sim o alle imprese di investimento ((UE)) in luogo delle banche. ((73))
 
+2.
+                        
+                            
+                                Ai fini del comma 1: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il riferimento all'articolo 79, comma 1, del Testo unico bancario contenuto nell'articolo 95-bis, comma 1-bis, del medesimo decreto si intende riferito all'((articolo 7-quater)), comma 1, del presente decreto; ((73))
+                                    
+                                
+                            
+                            
+                                b)
+                                
+                                    la richiesta di cui all'articolo 95-quater, comma 2, del Testo unico bancario puo' essere effettuata anche a seguito di una segnalazione della Consob al ricorrere dei presupposti previsti dall'articolo 56, comma 1, lettera a); 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    la Banca d'Italia puo' emanare disposizioni di attuazione del presente articolo ai sensi dell'articolo 95-sexies del Testo unico bancario.
+
 ---------------
                             AGGIORNAMENTO (73)
                             
@@ -3253,6 +7826,24 @@ Quando nel presente capo si fa rinvio a disposizioni del decreto [legislativo 16
 
 ## Art. 60-bis.2. — (Piani di risoluzione)
 
+1.
+                        
+                            
+                                La Banca d'Italia predispone, sentita la Consob per i profili di competenza: 
+ 
+                            
+                            
+                                a)
+                                
+                                    un piano di risoluzione individuale per ciascuna Sim non sottoposta a vigilanza su base consolidata secondo quanto previsto dall'articolo 7 del decreto ((legislativo 16 novembre 2015, n. 180)); ovvero 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    un piano di risoluzione di gruppo per i gruppi indicati dall'articolo 11, secondo quanto previsto dagli articoli 8, 9 e 10 del decreto ((legislativo 16 novembre 2015, n. 180)).
+
 I piani di risoluzione sono comunicati alla Consob.
 
 Si applicano, in quanto compatibili, il Titolo III, Capo I, del decreto ((legislativo 16 novembre 2015, n. 180)) e le disposizioni da esso richiamate.
@@ -3297,6 +7888,67 @@ La Banca d'Italia e la Consob esercitano i poteri regolamentari previsti dal pre
 ## - PARTE III DISCIPLINA DEI MERCATI TITOLO I ((DISPOSIZIONI COMUNI))
 
 ## Art. 61. — (Definizioni)
+
+1.
+                        
+                            
+                                Nella presente parte si intendono per: 
+ 
+                            
+                            
+                                a)
+                                
+                                    "strategia di market making": ai fini degli articoli 65-sexies e 67-ter, la strategia perseguita da chi svolge negoziazioni algoritmiche quando, operando per conto proprio in qualita' di membro o partecipante di una o piu' sedi di negoziazione, la strategia comporta l'immissione di quotazioni irrevocabili e simultanee di acquisto e di vendita, di misura comparabile e a prezzi competitivi, relative a uno o piu' strumenti finanziari su un'unica sede di negoziazione o su diverse sedi di negoziazione, con il risultato di fornire liquidita' in modo regolare e frequente al mercato; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    "fondi indicizzati quotati" (exchange-traded funds - ETF): gli Oicr con almeno una particolare categoria di azioni o quote negoziata per tutta la giornata in almeno una sede di negoziazione, nell'ambito della quale almeno un market-maker interviene per assicurare che il prezzo delle sue azioni o quote nella sede di negoziazione non si discosti in maniera significativa dal rispettivo valore netto di inventario ne', se del caso, da quello indicativo calcolato in tempo reale (indicative net asset value); 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    "certificates": i titoli negoziabili quali definiti all'articolo 2, paragrafo 1, punto 27), del regolamento (UE) n. 600/2014; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    "strumenti finanziari strutturati": gli strumenti finanziari strutturati quali definiti all'articolo 2, paragrafo 1, punto 28), del regolamento (UE) n. 600/2014; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    "sedi di negoziazione all'ingrosso": le sedi di negoziazione di titoli di Stato o di titoli obbligazionari privati e pubblici, diversi da titoli di Stato, nonche' di strumenti del mercato monetario e di strumenti finanziari derivati su titoli pubblici, su tassi di interesse e su valute che, in base alle regole adottate dal gestore della sede, consentono esclusivamente le negoziazioni tra operatori che impegnano posizioni proprie ovvero, nel caso dei soggetti abilitati, quelle nelle quali gli operatori eseguono in contropartita diretta, con posizioni proprie, ordini di clienti professionali; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    "operatore principale": i soggetti indicati nell'articolo 2, paragrafo 1, lettera n), del regolamento (UE) n. 236/2012, relativo alle vendite allo scoperto e a taluni aspetti dei contratti derivati aventi ad oggetto la copertura del rischio di inadempimento dell'emittente (credit default swap); 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    "mercato di crescita per le piccole e medie imprese": un sistema multilaterale di negoziazione ((, o un suo segmento,)) registrato come un mercato di crescita per le piccole e medie imprese in conformita' all'articolo 69; ((134))
+                                    
+                                
+                            
+                            
+                                h)
+                                
+                                    "piccola o media impresa": un'impresa come definita dall'articolo 2, paragrafo 1, lettera (f), del regolamento (UE) 2017/1129. 
+ (73)
 
 ---------------
                             AGGIORNAMENTO (73)
@@ -3369,6 +8021,45 @@ In caso di necessita' e urgenza, la Banca d'Italia adotta, nei confronti dei mer
 
 La Banca d'Italia con proprio provvedimento individua gli obblighi informativi e di comunicazione dei gestori delle sedi di negoziazione all'ingrosso dei titoli di Stato nei propri confronti, indicando anche contenuto, termini e modalita' di comunicazione.
 
+2.
+                        
+                            
+                                Per le sedi di negoziazione all'ingrosso di titoli di Stato: 
+ 
+                            
+                            
+                                a)
+                                
+                                    i poteri regolamentari previsti negli articoli 64, comma 4; 64-bis, comma 6; 64-ter, comma 9; 65, comma 2; ((65-quater, comma 3; 65-quinquies, comma 1)); 65-sexies, comma 7; 74, comma 2 e 76, comma 2, sono esercitati dalla Consob, d'intesa con la Banca d'Italia; ((133))
+                                    
+                                
+                            
+                            
+                                b)
+                                
+                                    le attribuzioni della Consob di cui agli articoli 64, comma 5; ((64-quater, commi 1, 7 e 9)) e 64-quinquies, comma 1, sono esercitate dal Ministero dell'economia e delle finanze, sentite la Banca d'Italia e la Consob; ((133))
+                                    
+                                
+                            
+                            
+                                c)
+                                
+                                    le attribuzioni della Consob di cui agli articoli ((64, commi 7 e 7-bis)); 64-bis, commi 5, 8 e 9; 64-ter, comma 7; 64-quinquies, commi 2, 4, 5 e 6; ((65-bis, comma 3-bis;)) 65-sexies, comma 6; 67, commi 8 e 11 ((...)), spettano alla Banca d'Italia; il diritto di accesso al book di negoziazione, ai sensi dell'articolo 65-septies, comma 2, e' attribuito, oltre che alla Consob, anche alla Banca d'Italia; ((133))
+                                    
+                                
+                            
+                            
+                                d)
+                                
+                                    le informazioni, le comunicazioni e le segnalazioni previste dagli articoli 64-bis, commi 3 e 4; 64-ter, comma 8; 64-quater, comma 8; 65-bis, comma 3; 65-septies, comma 3; e 66-ter, comma 3, sono trasmesse al Ministero dell'economia e delle finanze, alla Banca d'Italia e alla Consob; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    le informazioni e le comunicazioni previste dalle disposizioni incluse nel capo II sono trasmesse alla Banca d'Italia in luogo della Consob, ad eccezione delle comunicazioni previste dall'articolo 65-septies, commi 4 e 5.
+
 Per le sedi di negoziazione all'ingrosso di titoli obbligazionari privati e pubblici, diversi da titoli di Stato, nonche' di strumenti del mercato monetario e di strumenti finanziari derivati su titoli pubblici, su tassi di interesse e su valute, i poteri e le attribuzioni di cui agli articoli 64, commi 4, 5 e 7; 64-bis, commi 5, 6, 8 e 9; 64-ter, commi 7 e 9; ((64-quater, commi 1, 6-bis, 7 e 9)); 64-quinquies comma 1, 2, 4, 5 e 6; 65, comma 2; ((65-quater, comma 3)); 65-sexies, comma 7, sono esercitati dalla Consob, sentita la Banca d'Italia. ((133))
 
 La Banca d'Italia e la Consob si scambiano reciprocamente le informazioni e le comunicazioni acquisite con riguardo alle sedi di negoziazione all'ingrosso di titoli obbligazionari privati e pubblici, inclusi i titoli di Stato, nonche' di strumenti di mercato monetario e di strumenti finanziari derivati su titoli pubblici, su tassi di interesse e su valute secondo le modalita' stabilite nel protocollo di intesa di cui all'articolo 62-ter, comma 4. 
@@ -3425,6 +8116,31 @@ La Banca d'Italia con proprio provvedimento individua gli obblighi informativi e
 
 ((
 
+1.
+                        
+                            
+                                La Consob e la Banca d'Italia, nell'ambito delle rispettive competenze e nel perseguimento delle finalita' previste dagli articoli 62, comma 1, e 62-ter, comma 1, possono: 
+ 
+                            
+                            
+                                a)
+                                
+                                    chiedere a chiunque la comunicazione, anche periodica, di dati e notizie e la trasmissione di atti e documenti con le modalita' e nei termini da esse stabiliti; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    procedere ad audizione personale nei confronti di chiunque possa essere in possesso di informazioni pertinenti; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    richiedere ai revisori legali o alle societa' di revisione delle sedi di negoziazione di fornire informazioni.
+
 Nel caso previsto dalla lettera b) del comma 1, viene redatto processo verbale dei dati, delle informazioni acquisite e delle dichiarazioni rese dagli interessati, i quali sono invitati a firmare il processo verbale e hanno diritto di averne copia.
 
 La Consob, nell'ambito delle sue competenze e nel perseguimento delle finalita' previste dall'articolo 62, comma 1, puo' esercitare nei confronti di chiunque gli ulteriori poteri previsti dall'articolo 187-octies secondo le modalita' ivi previste.
@@ -3464,6 +8180,39 @@ Per le finalita' di cui agli articoli 62, comma 1, e 62-ter, comma 1, la Consob 
 
 ((
 
+1.
+                        
+                            
+                                Al fine di garantire il rispetto delle disposizioni della presente parte, la Consob e la Banca d'Italia, nell'ambito delle rispettive competenze e nel perseguimento delle finalita' previste dagli articoli 62, comma 1, e 62-ter, comma 1, possono: 
+ 
+                            
+                            
+                                a)
+                                
+                                    pubblicare avvertimenti al pubblico nel sito internet della Consob o della Banca d'Italia; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    intimare ai gestori delle sedi di negoziazione di non avvalersi, nell'esercizio della propria attivita' e per un periodo non superiore a tre anni, dell'attivita' professionale di un soggetto ove possa essere di pregiudizio per la trasparenza, l'ordinato svolgimento delle negoziazioni, la tutela degli investitori e l'efficienza complessiva del mercato; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    disporre la rimozione di uno o piu' esponenti aziendali del gestore di un mercato regolamentato ovvero, sentita l'altra autorita', della Sim o della banca italiana che gestisce un sistema multilaterale di negoziazione o un sistema organizzato di negoziazione, qualora la loro permanenza in carica sia di pregiudizio al perseguimento delle finalita' previste dagli articoli 62, comma 1 e 62-ter, comma 1; la rimozione non e' disposta ove ricorrano gli estremi per pronunciare la decadenza ai sensi dell'articolo 64-ter, salvo che sussista urgenza di provvedere; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    nei confronti di chiunque, ivi inclusi gli operatori, diversi dai soggetti abilitati, ammessi alle sedi di negoziazione, anche come partecipanti remoti, ordinare, anche in via cautelare, la cessazione temporanea o permanente di pratiche o condotte contrarie alle disposizioni della presente parte; 
+ In caso di intervento nei confronti dei partecipanti remoti, l'autorita' competente dello Stato membro d'origine del partecipante remoto e' informata.
+
 2. In caso di necessita' e urgenza, la Consob e la Banca d'Italia possono altresi' adottare, nell'ambito delle rispettive competenze e nel perseguimento delle finalita' previste dagli articoli 62, comma 1, e 62-ter, comma 1, ogni misura idonea al mantenimento di ordinate condizioni di negoziazione sui mercati regolamentati, sui sistemi multilaterali di negoziazione e sui sistemi organizzati di negoziazione.))
 
 ((73))
@@ -3489,7 +8238,79 @@ Per le finalita' di cui agli articoli 62, comma 1, e 62-ter, comma 1, la Consob 
 
 L'attivita' di organizzazione e gestione di mercati regolamentati di strumenti finanziari e' esercitata da societa' per azioni anche senza scopo di lucro (gestore del mercato regolamentato).
 
+2.
+                        
+                            
+                                Il gestore del mercato regolamentato: 
+ 
+                            
+                            
+                                a)
+                                
+                                    predispone le strutture, fornisce i servizi del mercato e determina i corrispettivi a esso dovuti; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    assicura e verifica il rispetto dei requisiti del mercato regolamentato previsti nel presente titolo; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    dispone l'ammissione, l'esclusione e la sospensione degli strumenti finanziari dalla quotazione e dalle negoziazioni e degli operatori dalle negoziazioni; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    adotta tutti gli atti necessari per l'ordinato funzionamento del mercato regolamentato; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    adotta le disposizioni e gli atti necessari a prevenire e identificare abusi di informazioni privilegiate e manipolazioni del mercato; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    provvede agli altri compiti a esso eventualmente affidati dalle autorita' competenti.
+
 Il gestore del mercato regolamentato esercita i diritti che corrispondono al mercato regolamentato e ha la responsabilita' di garantire che il mercato gestito soddisfi, al momento dell'autorizzazione e continuativamente, i requisiti stabiliti dalla presente parte, anche qualora l'esecuzione di funzioni operative essenziali sia affidata a terzi ((, mantenendo su base continuativa l'autonomia organizzativa e decisionale rispetto alle funzioni di cui al comma 2)).
+
+4.
+                        
+                            
+                                La Consob, con regolamento: 
+ 
+                            
+                            
+                                a)
+                                
+                                    
+                                        ((LETTERA ABROGATA DAL D.LGS. 27 MARZO 2026, N. 47)); 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    stabilisce i requisiti generali di organizzazione del gestore del mercato regolamentato; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    adotta le disposizioni attuative dell'articolo 4-undecies.
 
 La Consob verifica che le modificazioni statutarie dei gestori dei mercati regolamentati non contrastino con i requisiti previsti dal presente capo. Non si puo' dare corso al procedimento per l'iscrizione nel registro delle imprese se non consti tale verifica.
 
@@ -3511,9 +8332,72 @@ Le persone che sono nella posizione di esercitare, direttamente o indirettamente
 
 Gli acquisti delle partecipazioni nel capitale del gestore del mercato regolamentato e le successive variazioni, effettuati direttamente o indirettamente, anche per il tramite di societa' controllate, di societa' fiduciarie o per interposta persona, devono essere comunicati dal soggetto acquirente entro ventiquattro ore al gestore del mercato. Nel caso in cui l'acquisto determini la possibilita' di esercitare un'influenza significativa l'acquirente trasmette, altresi', al gestore del mercato regolamentato, la documentazione attestante il possesso dei requisiti individuati al sensi del comma 1.
 
+3.
+                        
+                            
+                                I gestori dei mercati regolamentati: 
+ 
+                            
+                            
+                                a)
+                                
+                                    trasmettono alla Consob e rendono pubbliche le informazioni sulla proprieta' del gestore del mercato regolamentato, e in particolare l'identita' delle parti che sono in grado di esercitare un'influenza significativa sulla sua gestione e l'entita' dei loro interessi; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    comunicano alla Consob e rendono pubblico qualsiasi trasferimento di proprieta' che determini un cambiamento dell'identita' delle persone che esercitano un'influenza significativa sul funzionamento del mercato regolamentato.
+
+4.
+                        
+                            
+                                Chiunque, a qualsiasi titolo, intenda acquisire o cedere, direttamente o indirettamente: 
+ 
+                            
+                            
+                                a)
+                                
+                                    una partecipazione nel capitale del gestore del mercato o nel soggetto che, anche indirettamente, controlla il gestore del mercato, in misura tale che la quota dei diritti di voto o del capitale detenuta raggiunga o superi, in aumento o in diminuzione, il 10%, 20%, 30% o 50%; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il controllo del gestore del mercato; 
+ ne da' preventiva comunicazione alla Consob. 
+ Il controllo sussiste nei casi previsti dall'articolo 2359, commi primo e secondo, del codice civile. (99)
+
 Ai fini del comma 4, il controllo si presume esistente nella forma dell'influenza dominante, salvo prova contraria, allorche' ricorra una delle situazioni indicate dall'articolo 23, comma 2, del decreto legislativo del 1º settembre 1993, n. 385, ove applicabili. (99)
 
 Entro 90 giorni dalla comunicazione prevista dal comma 4, la Consob puo' opporsi all'acquisizione della partecipazione di cui al comma 4 o ai cambiamenti negli assetti di controllo quando vi siano ragioni obiettive e dimostrabili per ritenere che venga messa a repentaglio la gestione sana e prudente del mercato , valutando tra l'altro la qualita' del potenziale acquirente e la solidita' finanziaria del progetto di acquisizione in base ai criteri indicati dall'articolo 15, comma 2, ((...)) ove applicabili. (99)
+
+6.
+                        
+                            
+                                La Consob disciplina con regolamento: 
+ 
+                            
+                            
+                                a)
+                                
+                                    i criteri per l'individuazione dei casi e delle soglie di partecipazione che determinano un'influenza significativa ai sensi del comma 1; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    contenuto, termini e modalita' delle comunicazioni previste dai commi 3 e 4; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    contenuto, termini e modalita' di pubblicazione da parte del gestore del mercato regolamentato delle informazioni relative ai partecipanti al capitale e di ogni successivo cambiamento nell'identita' delle persone che possiedono una partecipazione che comporta la possibilita' di esercitare un'influenza significativa.
 
 In assenza dei requisiti di onorabilita' o in mancanza delle comunicazioni previste dai commi 2 e 4, nonche' in caso di opposizione ai sensi del comma 5, non possono essere esercitati, nell'assemblea del gestore del mercato, il diritto di voto inerente alle azioni eccedenti le soglie individuate ai sensi del comma 4 o alla partecipazione acquisita in violazione dei commi 4 e 5 e gli altri diritti che consentono di influire sul gestore del mercato. (99)
 
@@ -3571,6 +8455,77 @@ La Consob rilascia l'autorizzazione a operare in qualita' di mercato regolamenta
 
 La Consob iscrive i mercati regolamentati in un elenco, curando l'adempimento delle disposizioni dell'Unione europea in materia.
 
+3.
+                        
+                            
+                                L'autorizzazione e' altresi' subordinata all'accertamento che: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il gestore del mercato rispetta i requisiti previsti dal presente titolo; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il regolamento del mercato e' conforme alla disciplina dell'Unione europea e idoneo ad assicurare la trasparenza del mercato, l'ordinato svolgimento delle negoziazioni e la tutela degli investitori.
+
+4.
+                        
+                            
+                                Il regolamento del mercato determina quantomeno: 
+ 
+                            
+                            
+                                a)
+                                
+                                    le condizioni e le modalita' di ammissione alle negoziazioni e di esclusione e sospensione dalle negoziazioni degli operatori; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le condizioni e le modalita' di ammissione alla quotazione e alle negoziazioni e di esclusione e sospensione dalla quotazione e dalle negoziazioni degli strumenti finanziari; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    le condizioni e le modalita' per lo svolgimento delle negoziazioni e gli eventuali obblighi degli operatori e degli emittenti; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    le modalita' di accertamento, pubblicazione e diffusione dei prezzi; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    i tipi di contratti ammessi alle negoziazioni nonche' i criteri per la determinazione dei quantitativi minimi negoziabili; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    le condizioni e le modalita' per la compensazione e il regolamento delle operazioni concluse sui mercati; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    le modalita' di emanazione delle disposizioni di attuazione del regolamento da parte del gestore.
+
 Il regolamento del mercato e' deliberato dall'assemblea ordinaria o dal consiglio di sorveglianza del gestore del mercato regolamentato ovvero, ove cosi' previsto dallo statuto, dall'organo di amministrazione. Qualora le azioni del gestore del mercato regolamentato siano quotate in un mercato regolamentato, il regolamento del mercato e' deliberato dal consiglio di amministrazione o dal consiglio di gestione della societa' medesima.
 
 ((I gestori dei mercati regolamentati inviano alla Consob i progetti di modifica del regolamento del mercato, corredati dalla documentazione completa individuata dalla Consob con regolamento, entro il termine ivi stabilito, comunque non superiore a trenta giorni lavorativi prima della data prevista per l'approvazione da parte dell'organo competente.))
@@ -3583,6 +8538,24 @@ Il regolamento del mercato e' deliberato dall'assemblea ordinaria o dal consigli
                                 ((133))
 
 ((Il Ministero dell'economia e delle finanze, sentite la Banca d'Italia e la Consob, approva le modifiche al regolamento del mercato regolamentato all'ingrosso dei titoli di Stato.))
+
+7.
+                        
+                            
+                                Fermo restando quanto previsto dai commi 1 e 3, la Consob rifiuta l'autorizzazione anche se: 
+ 
+                            
+                            
+                                a)
+                                
+                                    i soggetti che svolgono funzioni di amministrazione, direzione e controllo nel gestore del mercato non rispettano i requisiti previsti dall'articolo 64-ter; o 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    esistano ragioni obiettive e dimostrabili per ritenere che l'organo di amministrazione del gestore del mercato puo' metterne a repentaglio la gestione efficace, sana e prudente e l'integrita' del mercato.
 
 Il gestore del mercato fornisce alla Consob tutte le informazioni, fra cui un programma di attivita' che illustri i tipi di attivita' previsti e la struttura organizzativa, necessarie per accertare che il mercato regolamentato abbia instaurato tutti i dispositivi necessari per rispettare gli obblighi stabiliti dal presente titolo.
 
@@ -3601,6 +8574,38 @@ La Consob pronuncia la decadenza dell'autorizzazione rilasciata a un mercato reg
 ## Art. 64-quinquies. — (( (Revoca dell'autorizzazione, provvedimenti straordinari a tutela del mercato e crisi del gestore del mercato regolamentato).))
 
 ((
+
+1.
+                        
+                            
+                                La Consob puo' revocare l'autorizzazione del mercato regolamentato quando: 
+ 
+                            
+                            
+                                a)
+                                
+                                    l'autorizzazione e' stata ottenuta presentando false dichiarazioni o con qualsiasi altro mezzo irregolare; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    non sono piu' soddisfatte le condizioni cui e' subordinata l'autorizzazione; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    sono state violate in modo grave e sistematico le disposizioni del presente titolo relative al mercato regolamentato o al gestore del mercato; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    abbia cessato di funzionare da piu' di sei mesi o rinunci espressamente all'autorizzazione.
 
 In caso di gravi irregolarita' nella gestione del mercato regolamentato ovvero nell'amministrazione del gestore del mercato regolamentato e comunque quando lo richiede la tutela degli investitori, il Ministero dell'economia e delle finanze, su proposta della Consob, dispone lo scioglimento degli organi amministrativi e di controllo del gestore del mercato. I poteri dei disciolti organi amministrativi sono attribuiti a un commissario nominato con il medesimo provvedimento, che li esercita, sulla base delle direttive e sotto il controllo della Consob, sino alla ricostituzione degli organi. L'indennita' spettante al commissario e' determinata con decreto del Ministero ed e' a carico del gestore del mercato regolamentato. Si applicano, per quanto compatibili, gli articoli 70, commi 2, 3, 4 e 5, 72, a eccezione dei commi 2, 2-bis e 8, e 75 del T.U. bancario, intendendosi le suddette disposizioni riferite alla Consob in luogo della Banca d'Italia, ai partecipanti in luogo dei depositanti e al gestore del mercato regolamentato in luogo delle banche.
 
@@ -3624,6 +8629,68 @@ Nei casi previsti dai commi 1 e 2, la Consob promuove gli accordi necessari ad a
 
 ## Art. 65. — (Requisiti organizzativi dei mercati regolamentati)
 
+1.
+                        
+                            
+                                Il mercato regolamentato dispone di: 
+ 
+                            
+                            
+                                a)
+                                
+                                    misure per identificare chiaramente e gestire le potenziali conseguenze negative, per il funzionamento del mercato regolamentato o per i suoi membri o partecipanti, di qualsiasi conflitto tra gli interessi del mercato regolamentato, dei suoi proprietari o del gestore del mercato e il suo ordinato funzionamento, in particolare quando tali conflitti possono risultare pregiudizievoli per l'assolvimento di qualsiasi funzione delegata al mercato regolamentato dall'autorita' competente; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    procedure per gestire i rischi ai quali sono esposti, compresi i rischi informatici ai sensi del capo II del regolamento (UE) 2022/2554, del Parlamento europeo e del Consiglio, del 14 dicembre 2022, dispositivi e sistemi adeguati a identificare i rischi che possono comprometterne il funzionamento e misure efficaci per attenuare tali rischi; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    LETTERA ABROGATA DAL D.LGS. 10 MARZO 2025, N. 23; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    regole e procedure trasparenti e non discrezionali che garantiscono un processo di negoziazione corretto e ordinato nonche' di criteri obiettivi che consentono l'esecuzione efficiente degli ordini; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    misure efficaci atte ad agevolare il regolamento efficiente delle operazioni eseguite nell'ambito del sistema; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    risorse finanziarie sufficienti per renderne possibile il funzionamento ordinato, tenendo conto della natura e dell'entita' delle operazioni concluse nel mercato, nonche' della portata e del grado dei rischi ai quali esso e' esposto ((;))
+                                    
+                                
+                            
+                            
+                                f-bis)
+                                
+                                    
+                                        ((misure per assicurare il rispetto dei requisiti in materia di qualita' dei dati di cui all'articolo 22-ter del regolamento (UE) n. 600/2014 del Parlamento europeo e del Consiglio, del 15 maggio 2014;))
+                                    
+                                
+                            
+                            
+                                f-ter)
+                                
+                                    
+                                        ((almeno tre membri o utenti concretamente attivi, ciascuno dei quali con la possibilita' di interagire con tutti gli altri per quanto concerne la formazione dei prezzi.))
+
 La Consob puo' ulteriormente dettagliare, con regolamento, i requisiti organizzativi del mercato regolamentato e puo' dettare la metodologia di determinazione dell'entita' delle risorse finanziarie previste nel comma 1, lettera f).
 
 Per le operazioni concluse su un mercato regolamentato, i membri e i partecipanti non sono tenuti ad applicarsi reciprocamente gli obblighi specificamente individuati ai sensi dell'articolo 6, comma 2. I membri o i partecipanti di un mercato regolamentato applicano detti obblighi per quanto concerne i loro clienti quando, operando per conto di questi ultimi, ne eseguono gli ordini su un mercato regolamentato. 
@@ -3636,7 +8703,64 @@ Per le operazioni concluse su un mercato regolamentato, i membri e i partecipant
 
 ## Art. 65-bis. — (Requisiti dei sistemi multilaterali di negoziazione e dei sistemi organizzati di negoziazione)
 
+1.
+                        
+                            
+                                Il gestore di un sistema multilaterale di negoziazione o di un sistema organizzato di negoziazione dispone di: 
+ 
+                            
+                            
+                                a)
+                                
+                                    regole e procedure trasparenti che garantiscono un processo di negoziazione corretto e ordinato nonche' di criteri obiettivi che consentono l'esecuzione efficiente degli ordini; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    misure per garantire una gestione sana dell'operativita' del sistema, compresi dispositivi di emergenza efficaci per far fronte ai rischi di disfunzione del sistema; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    misure atte ad individuare puntualmente e a gestire le potenziali conseguenze negative per l'operativita' dei sistemi da essi gestiti o per i loro membri o partecipanti e clienti di eventuali conflitti tra gli interessi del sistema multilaterale di negoziazione, del sistema organizzato di negoziazione, dei loro proprietari, del gestore del sistema multilaterale di negoziazione o del sistema organizzato di negoziazione e il sano funzionamento dei sistemi; 
+
+                                
+                            
+                            
+                                c-bis)
+                                
+                                    misure per assicurare il rispetto dei requisiti in materia di qualita' dei dati di cui all'articolo 22-ter del regolamento (UE) n. 600/2014 del Parlamento europeo e del Consiglio, del 15 maggio 2014; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    almeno tre membri o partecipanti o clienti concretamente attivi, ciascuno dei quali con la possibilita' di interagire con tutti gli altri per quanto concerne la formazione dei prezzi.
+
 Il gestore di un sistema multilaterale di negoziazione o di un sistema organizzato di negoziazione adotta altresi' le misure necessarie per favorire il regolamento efficiente delle operazioni concluse nel sistema multilaterale di negoziazione o sistema organizzato di negoziazione e informa chiaramente i membri o partecipanti o clienti delle rispettive responsabilita' per quanto concerne il regolamento delle operazioni effettuate nel sistema.
+
+3.
+                        
+                            
+                                Il gestore di un sistema multilaterale di negoziazione o di un sistema organizzato di negoziazione fornisce alla Consob: 
+ 
+                            
+                            
+                                a)
+                                
+                                    una descrizione dettagliata del funzionamento del sistema tra cui, fatto salvo quanto previsto ((dall'articolo 65-quater, commi 2 e 3)), gli eventuali legami o la partecipazione di un mercato regolamentato, un sistema multilaterale di negoziazione, un sistema organizzato di negoziazione o un internalizzatore sistematico di proprieta' dello stesso gestore; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    un elenco dei membri, partecipanti o clienti.
 
 ((Ai sistemi multilaterali di negoziazione e ai sistemi organizzati di negoziazione si applica l'articolo 64-quater, commi 6, 6-bis e 6-ter.))
                                 ((133)) 
@@ -3655,6 +8779,31 @@ Il gestore di un sistema multilaterale di negoziazione o di un sistema organizza
 
 ((
 
+1.
+                        
+                            
+                                Il gestore di un sistema multilaterale di negoziazione, oltre a soddisfare i requisiti di cui all'articolo 65-bis, dispone di: 
+ 
+                            
+                            
+                                a)
+                                
+                                    regole non discrezionali per l'esecuzione degli ordini nel sistema; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    procedure per gestire i rischi ai quali e' esposto il sistema, meccanismi e sistemi adeguati ad identificare tutti i rischi che possano compromettere il funzionamento del sistema e misure efficaci per attenuare tali rischi; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    risorse finanziarie sufficienti ad assicurare il funzionamento ordinato, tenuto conto della tipologia di operazioni concluse sul mercato e dei relativi volumi, nonche' della portata e del grado di rischio al quale il sistema e' esposto.
+
 2. Gli obblighi individuati ai sensi dell'articolo 6, comma 2, non si applicano alle operazioni concluse in base alle norme che disciplinano un sistema multilaterale di negoziazione tra i membri del medesimo o i suoi partecipanti ovvero tra il sistema multilaterale di negoziazione e i suoi membri o i suoi partecipanti in relazione all'impiego del sistema multilaterale di negoziazione. I membri del sistema multilaterale di negoziazione o i suoi partecipanti rispettano detti obblighi nei confronti dei loro clienti quando, agendo per conto di questi ultimi, eseguono i loro ordini tramite i sistemi di un sistema multilaterale di negoziazione.))
 
 ((73))
@@ -3666,7 +8815,25 @@ Il gestore di un sistema multilaterale di negoziazione o di un sistema organizza
 
 ## Art. 65-quater. — (Requisiti specifici per i sistemi organizzati di negoziazione)
 
+1.
+                        
+                            
+                                Fatto salvo quanto disposto dall'articolo 65-bis e nel rispetto degli obblighi individuati ai sensi dell'articolo 6, comma 2, lettera b), numero 2), in un sistema organizzato di negoziazione l'esecuzione degli ordini e' svolta su base discrezionale. Il gestore di un sistema organizzato di negoziazione esercita la propria discrezionalita' quando decide di: 
+ 
+                            
+                            
+                                a)
+                                
+                                    collocare o ritirare un ordine sul proprio sistema; o 
 
+                                
+                            
+                            
+                                b)
+                                
+                                    non abbinare lo specifico ordine di un cliente con gli altri ordini disponibili nel sistema in un determinato momento, purche' cio' avvenga nel rispetto delle specifiche istruzioni ricevute dal cliente, nonche' degli obblighi individuati ai sensi dell'articolo 6, comma 2, lettera b), numero 2).
+
+((COMMA ABROGATO DAL D.LGS. 27 MARZO 2026, N. 47)). ((133))
 
 Il gestore di un sistema organizzato di negoziazione non puo' operare anche come internalizzatore sistematico. ((PERIODO SOPPRESSO DAL D.LGS. 27 MARZO 2026, N. 47)). ((133))
 
@@ -3700,7 +8867,85 @@ Alle operazioni concluse in un sistema organizzato di negoziazione si applicano 
 
 ## Art. 65-sexies. — (Requisiti operativi delle sedi di negoziazione)
 
+1.
+                        
+                            
+                                I mercati regolamentati e i gestori di un sistema multilaterale di negoziazione o di un sistema organizzato di negoziazione istituiscono e mantengono la loro resilienza operativa, conformemente agli obblighi stabiliti al capo II del regolamento (UE) 2022/2554 del Parlamento europeo e del Consiglio, del 14 dicembre 2022, per assicurare che i loro sistemi di negoziazione: 
+ 
+                            
+                            
+                                a)
+                                
+                                    siano resilienti e abbiano capacita' sufficiente per gestire i picchi di volume di ordini e messaggi; 
 
+                                
+                            
+                            
+                                b)
+                                
+                                    siano in grado di garantire negoziazioni ordinate in condizioni di mercato critiche; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    siano pienamente testati per garantire il rispetto delle condizioni di cui alle lettere a) e b); 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    siano soggetti a efficaci disposizioni in materia di continuita' operativa, compresi politica e piani di continuita' operativa delle tecnologie dell'informazione e della comunicazione e piani di risposta e di ripristino relativi alle tecnologie dell'informazione e della comunicazione istituiti ai sensi dell'articolo 11 del regolamento (UE) 2022/2554, per assicurare la continuita' dei servizi in caso di malfunzionamento dei loro sistemi di negoziazione.
+
+2.
+                        
+                            
+                                I mercati regolamentati e i gestori di un sistema multilaterale di negoziazione o di un sistema organizzato di negoziazione dispongono di sistemi, procedure e meccanismi efficaci: 
+ 
+                            
+                            
+                                a)
+                                
+                                    per garantire che i sistemi algoritmici di negoziazione utilizzati dai membri o partecipanti o clienti non possano creare o contribuire a creare condizioni di negoziazione anormali sulla sede di negoziazione e per gestire qualsiasi condizione di negoziazione anormale causata dagli stessi; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    per identificare, attraverso la segnalazione di membri o partecipanti o clienti, gli ordini generati mediante negoziazione algoritmica, i diversi algoritmi utilizzati per la creazione degli ordini e le corrispondenti persone che avviano tali ordini; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    per rifiutare gli ordini che eccedono soglie predeterminate di prezzo e volume o sono chiaramente errati; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    per sospendere o limitare temporaneamente le negoziazioni ((in situazioni di emergenza o)) qualora si registri un'oscillazione significativa nel prezzo di uno strumento finanziario nel mercato gestito o in un mercato correlato in un breve lasso di tempo; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    in casi eccezionali, per cancellare, modificare o correggere qualsiasi operazione; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    per controllare gli ordini inseriti, incluse le cancellazioni e le operazioni eseguite dai loro membri o partecipanti o clienti, per identificare le violazioni delle regole del sistema, le condizioni di negoziazione anormali o gli atti che possono indicare comportamenti vietati dal regolamento (UE) n. 596/2014 o le disfunzioni del sistema in relazione a uno strumento finanziario.
+
+((Il gestore di un mercato regolamentato, di un sistema multilaterale di negoziazione o di un sistema organizzato di negoziazione pubblica sul proprio sito web le informazioni relative alle circostanze che portano alla sospensione o alla limitazione delle negoziazioni e ai principi per stabilire i principali parametri tecnici utilizzati a tal fine.))
 
 ((Qualora il gestore di un mercato regolamentato, di un sistema multilaterale di negoziazione o di un sistema organizzato di negoziazione non sospenda o limiti le negoziazioni ai sensi del comma 2, lettera d), nonostante una significativa variazione dei prezzi che incide su uno strumento finanziario o su strumenti finanziari correlati abbia determinato condizioni di negoziazione anormali su una o piu' sedi di negoziazione, la Consob e la Banca d'Italia relativamente alle sedi di negoziazione all'ingrosso di titoli di Stato, possono adottare misure adeguate per ristabilire il normale funzionamento delle sedi di negoziazione, anche utilizzando i poteri di vigilanza di cui agli articoli 66-quater, commi 1 e 4, e 68-quinquies, comma 1, lettere b) e c).))
 
@@ -3708,7 +8953,86 @@ I mercati regolamentati e i gestori di un sistema multilaterale di negoziazione 
 
 I mercati regolamentati e i gestori di un sistema multilaterale di negoziazione o di un sistema organizzato di negoziazione dispongono di misure e procedure efficaci, tra cui le necessarie risorse, per il controllo regolare dell'ottemperanza alle proprie regole.
 
+5.
+                        
+                            
+                                I mercati regolamentati e i gestori di un sistema multilaterale di negoziazione o di un sistema organizzato di negoziazione: 
+ 
+                            
+                            
+                                a)
+                                
+                                    
+                                        ((LETTERA ABROGATA DAL D.LGS. 9 FEBBRAIO 2026, N. 28)); 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    adottano regole trasparenti, eque e non discriminatorie in materia di servizi di co-ubicazione; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    adottano una struttura delle commissioni, incluse le commissioni di esecuzione delle operazioni, le commissioni accessorie e i rimborsi, trasparente, equa e non discriminatoria; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    adottano regimi in materia di dimensioni dei tick di negoziazione per azioni, ricevute di deposito, fondi indicizzati quotati, certificates e altri strumenti finanziari analoghi.
+
 La Consob approva gli accordi che il gestore di una sede di negoziazione intende concludere per l'esternalizzazione a soggetti terzi di tutte o parte delle funzioni operative critiche relative ai sistemi della sede da esso gestita che consentono la negoziazione algoritmica, intendendosi come funzioni operative critiche quelle indicate dall'articolo 65, comma 1, lettere b), c) ed e).
+
+7.
+                        
+                            
+                                La Consob individua con regolamento i requisiti operativi specifici di cui le sedi di negoziazione devono dotarsi con riguardo a: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il contenuto minimo degli accordi scritti richiesti ai sensi del comma 3 e gli obblighi di controllo del gestore della sede di negoziazione in merito ai medesimi; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    i sistemi, le procedure e i dispositivi in materia di sistemi algoritmici di negoziazione previsti dal comma 2, lettere a) e b); 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    i criteri in base ai quali fissare i parametri per la sospensione delle negoziazioni e le relative modalita' di gestione; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    i requisiti per l'accesso elettronico diretto alle sedi di negoziazione; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    i requisiti della struttura delle commissioni di cui al comma 5, lettera c); 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    i parametri per calibrare i regimi in materia di dimensioni dei tick di negoziazione indicati nel comma 5, lettera d).
 
 Le disposizioni di cui al comma 7, lettera b), sono adottate dalla Consob, sentita la Banca d'Italia, per i sistemi multilaterali di negoziazione e i sistemi organizzati di negoziazione che siano gestiti da Sim e banche italiane. 
  (73)
@@ -3742,9 +9066,53 @@ I gestori delle sedi di negoziazione comunicano senza indugio alla Consob le inf
 
 ## Art. 66. — (Criteri generali di ammissione alla quotazione e alle negoziazioni)
 
-((134))
+1.
+                        
+                            
+                                I mercati regolamentati: 
+ 
+                            
+                            
+                                a)
+                                
+                                    si dotano di regole chiare e trasparenti riguardanti l'ammissione degli strumenti finanziari alla quotazione e alla negoziazione; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    adottano e mantengono meccanismi efficaci per verificare che gli emittenti dei valori mobiliari ammessi alla negoziazione nel mercato regolamentato rispettino gli obblighi cui sono soggetti ai sensi del diritto dell'Unione europea in materia di informativa iniziale, continuativa e ad hoc; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    si dotano di meccanismi atti ad agevolare ai loro membri e ai loro partecipanti l'accesso alle informazioni che sono state pubblicate in base al diritto dell'Unione europea.
+
+((Le regole di cui al comma 1, lettera a), prevedono che il gestore del mercato regolamentato possa respingere la domanda di ammissione di uno strumento finanziario alla quotazione ove ritenga che la situazione dell'emittente sia tale che l'ammissione sarebbe contraria all'interesse degli investitori.))
+                                ((134))
 
 Le regole di cui al comma 1, lettera a), assicurano che gli strumenti finanziari ammessi alla negoziazione in un mercato regolamentato possano essere negoziati in modo corretto, ordinato ed efficiente e, nel caso dei valori mobiliari, siano liberamente negoziabili. Nel caso degli strumenti derivati, tali regole assicurano in particolare che le caratteristiche del contratto derivato siano compatibili con un processo ordinato di formazione del suo prezzo, nonche' con l'esistenza di condizioni efficaci di regolamento.
+
+3.
+                        
+                            
+                                I gestori di un sistema multilaterale di negoziazione o di un sistema organizzato di negoziazione: 
+ 
+                            
+                            
+                                a)
+                                
+                                    instaurano regole trasparenti concernenti i criteri per la determinazione degli strumenti finanziari che possono essere negoziati nell'ambito del proprio sistema; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    forniscono o si accertano che siano accessibili al pubblico informazioni sufficienti per permettere ai loro clienti di emettere un giudizio in materia di investimenti, tenuto conto sia della categoria dei clienti che delle tipologie di strumenti negoziati.
 
 Le sedi di negoziazione si dotano dei meccanismi necessari a controllare regolarmente l'osservanza dei requisiti di ammissione per gli strumenti finanziari ammessi alla quotazione e alla negoziazione.
 
@@ -3779,6 +9147,34 @@ Quando uno strumento finanziario che e' stato ammesso alla negoziazione in un me
 ## Art. 66-bis. — (Condizioni per la quotazione di determinate societa')
 
 Il regolamento del mercato regolamentato puo' stabilire che le azioni di societa' controllanti, il cui attivo sia prevalentemente composto dalla partecipazione, diretta o indiretta, in una o piu' societa' con azioni quotate in mercati regolamentati, vengano negoziate in un segmento distinto del mercato.
+
+2.
+                        
+                            
+                                La Consob determina con proprio regolamento: 
+ 
+                            
+                            
+                                a)
+                                
+                                    
+                                        ((LETTERA ABROGATA DALLA L. 5 MARZO 2024, N. 21)); 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le condizioni in presenza delle quali non possono essere quotate le azioni di societa' controllate sottoposte all'attivita' di direzione e coordinamento di altra societa'; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    
+                                        ((LETTERA ABROGATA DALLA L. 5 MARZO 2024, N. 21)). 
+ (73)
 
 -----------
                             AGGIORNAMENTO (73)
@@ -3856,6 +9252,95 @@ Il gestore di un mercato regolamentato o di un sistema multilaterale di negoziaz
 
 Ai mercati regolamentati e ai sistemi multilaterali di negoziazione possono accedere in qualita' di membri o partecipanti le Sim, le banche italiane, le imprese di investimento UE, le banche UE e le imprese di paesi terzi autorizzate all'esercizio dei servizi o attivita' di negoziazione per conto proprio o di esecuzione di ordini per conto dei clienti ai sensi degli articoli 28 e 29-ter.
 
+3.
+                        
+                            
+                                Le imprese di investimento UE, le banche UE e le imprese di paesi terzi autorizzate all'esercizio dei servizi o attivita' di negoziazione per conto proprio o di esecuzione di ordini per conto dei clienti ai sensi degli articoli 28 e 29-ter, possono essere ammesse in qualita' di membri o partecipanti dei mercati regolamentati o sistemi multilaterali di negoziazione stabiliti sul territorio della Repubblica secondo una delle seguenti modalita': 
+ 
+                            
+                            
+                                a)
+                                
+                                    direttamente, stabilendo una succursale; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    diventando membri remoti o avendo accesso remoto al mercato regolamentato o al sistema multilaterale di negoziazione, quando le procedure e i sistemi di negoziazione della sede in questione non richiedono una presenza fisica per la conclusione delle operazioni.
+
+4.
+                        
+                            
+                                Possono altresi' accedere ai mercati regolamentati e ai sistemi multilaterali di negoziazione, tenuto conto delle regole adottate dal gestore della sede di negoziazione, i soggetti che: 
+ 
+                            
+                            
+                                a)
+                                
+                                    godono di sufficiente buona reputazione; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    dispongono di un livello sufficiente di capacita' di negoziazione, di competenza ed esperienza; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    dispongono di adeguati dispositivi organizzativi; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    dispongono di risorse sufficienti per il ruolo che devono svolgere, tenendo conto delle varie disposizioni finanziarie eventualmente fissate dal mercato regolamentato per garantire l'adeguato regolamento delle operazioni.
+
+5.
+                        
+                            
+                                Il gestore di un mercato regolamentato o di un sistema multilaterale di negoziazione specifica, nell'ambito delle regole previste dal comma 1, i criteri per la partecipazione diretta o remota al mercato regolamentato e gli obblighi imposti ai membri o partecipanti derivanti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    dall'istituzione e dalla gestione della sede di negoziazione; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    dalle disposizioni riguardanti le operazioni eseguite nella sede di negoziazione; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    dagli standard professionali imposti al personale di membri o partecipanti che operano sulla sede di negoziazione; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    dalle condizioni stabilite, a norma del comma 4, per i membri o partecipanti diversi da Sim, banche italiane, imprese di investimento UE, banche UE e imprese di paesi terzi autorizzate all'esercizio dei servizi o attivita' di negoziazione per conto proprio o di esecuzione di ordini per conto dei clienti ai sensi degli articoli 28 e 29-ter; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    dalle norme e procedure per la compensazione e il regolamento delle operazioni concluse nel mercato regolamentato.
+
 I membri o partecipanti ai mercati regolamentati e ai sistemi multilaterali di negoziazione e i clienti dei sistemi organizzati di negoziazione si comportano con diligenza, correttezza e trasparenza al fine di non compromettere l'integrita' dei mercati.
 
 Il Ministero dell'economia e delle finanze e la Banca d'Italia sono ammessi alle negoziazioni sulle sedi di negoziazione all'ingrosso di titoli di Stato.
@@ -3891,15 +9376,148 @@ Il gestore del mercato regolamentato comunica immediatamente alla Consob le prop
 
 ## Art. 67-ter. — (Negoziazione algoritmica, accesso elettronico diretto, partecipazione a controparti centrali)
 
+1.
+                        
+                            
+                                Le Sim e le banche italiane che svolgono negoziazione algoritmica: 
+ 
+                            
+                            
+                                a)
+                                
+                                    pongono in essere controlli dei sistemi e del rischio efficaci e idonei alla luce dell'attivita' esercitata sulle sedi di negoziazione, volti a garantire che i propri sistemi di negoziazione algoritmica siano resilienti e dispongano di sufficiente capacita', siano soggetti a soglie e limiti di negoziazione appropriati, impediscano di inviare ordini erronei o comunque recare pregiudizio all'ordinato svolgimento delle negoziazioni; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    pongono in essere controlli efficaci dei sistemi e del rischio per garantire che i sistemi di negoziazione algoritmica non possano essere utilizzati per finalita' contrarie al regolamento (UE) n. 596/2014 o alle regole della sede di negoziazione; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    dispongono di meccanismi efficaci di continuita' operativa per rimediare a malfunzionamenti dei sistemi di negoziazione algoritmica e provvedono affinche' i loro sistemi siano soggetti a verifica e monitoraggio in modo adeguato per garantirne la conformita' ai requisiti del presente comma.
+
 Le Sim e le banche italiane che effettuano negoziazioni algoritmiche lo notificano alla Consob e, se diversa, all'autorita' competente dello Stato membro della sede di negoziazione in cui effettuano la negoziazione algoritmica quali membri o partecipanti o clienti della sede di negoziazione. La notifica e' altresi' effettuata alla Banca d'Italia per le sedi di negoziazione all'ingrosso di titoli di Stato.
+
+3.
+                        
+                            
+                                Ferme restando le competenze di vigilanza prudenziale della Banca d'Italia, la Consob vigila sul rispetto dei requisiti previsti nel presente articolo da parte di Sim e banche italiane che svolgono negoziazione algoritmica. A tale fine la Consob puo' chiedere, su base regolare o ad hoc, ai soggetti sopra indicati: 
+ 
+                            
+                            
+                                a)
+                                
+                                    una descrizione della natura delle strategie di negoziazione algoritmica; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    i dettagli sui parametri o sui limiti di negoziazione a cui il sistema e' soggetto; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    i controlli di conformita' e di rischio attuati per assicurare che le condizioni stabilite al comma 1 siano soddisfatte; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    i dettagli sulla verifica dei sistemi; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    ulteriori informazioni sulla negoziazione algoritmica effettuata e sui sistemi utilizzati.
 
 La Consob comunica alla Banca d'Italia le informazioni che riceve ai sensi del comma 3 o dall'autorita' competente dello Stato membro d'origine della banca UE o dell'impresa di investimento UE, quando dette informazioni si riferiscono a membri o partecipanti o clienti che effettuano negoziazione algoritmica nelle sedi di negoziazioni all'ingrosso di titoli di Stato.
 
 Le Sim e le banche italiane possono fornire accesso elettronico diretto a una sede di negoziazione a condizione che esse pongano in essere efficaci controlli dei sistemi e del rischio.
 
+6.
+                        
+                            
+                                La Consob, sentita la Banca d'Italia, disciplina con regolamento: 
+ 
+                            
+                            
+                                a)
+                                
+                                    gli obblighi di registrazione cui sono tenuti i soggetti di cui al comma 1 che pongono in essere tecniche di negoziazione algoritmica; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le condizioni in base alle quali le Sim e le banche italiane possono fornire accesso elettronico diretto a una sede di negoziazione e le caratteristiche dei controlli di conformita' e di rischio attuati per assicurare che le condizioni stabilite al comma 1 siano soddisfatte; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    gli obblighi di notifica, di informazione e di registrazione cui sono tenuti le Sim e le banche italiane che forniscono un accesso elettronico diretto a una sede di negoziazione; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    gli obblighi delle Sim e delle banche italiane che effettuano negoziazione algoritmica per perseguire una strategia di market making.
+
 La Consob, su richiesta dell'autorita' competente della sede di negoziazione di un altro Stato membro nella quale una Sim o una banca italiana svolgono negoziazione algoritmica o forniscono accesso elettronico diretto, comunica tempestivamente alla stessa le informazioni ricevute ai sensi del comma 3.
 
+8.
+                        
+                            
+                                Le disposizioni di cui al presente articolo si applicano anche: 
+ 
+                            
+                            
+                                a)
+                                
+                                    ai membri o partecipanti di mercati regolamentati e sistemi multilaterali di negoziazione che non sono tenuti a essere autorizzati a norma dell'articolo 4-terdecies, comma 1, lettere a), e), g), i) e l) o che sono gestori di Oicr, Sicav o Sicaf; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    alle imprese di paesi terzi autorizzate all'esercizio dei servizi o attivita' di negoziazione per conto proprio o di esecuzione di ordini per conto dei clienti ai sensi degli articoli 28 e 29-ter ((, nonche' agli operatori del paese non UE che accedono alla sede di negoziazione che ha ottenuto l'autorizzazione o il nulla-osta ai sensi degli articoli 26, comma 6, 29, comma 3, o 70, comma 2.)).
+
 La Consob detta con regolamento i requisiti di cui al comma 6 applicabili ai soggetti di cui al comma 8 quando effettuano negoziazione algoritmica e/o forniscono accesso elettronico diretto a una sede di negoziazione.
+
+9.
+                        
+                            
+                                Le Sim e le banche italiane e le imprese di paesi terzi autorizzate all'esercizio dei servizi e attivita' di investimento, con o senza servizi accessori, ai sensi degli articoli 28 e 29-ter, che agiscono in qualita' di partecipanti alle controparti centrali per conto di propri clienti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    pongono in essere controlli e sistemi efficaci per garantire che possano fruire dei servizi di compensazione solo persone idonee e che a tali persone siano imposti requisiti appropriati per ridurre i rischi per la Sim o per la banca e per il mercato; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    assicurano che vi sia un accordo scritto vincolante tra gli stessi e la persona per la quale agiscono per quanto riguarda i diritti e gli obblighi essenziali derivanti dalla prestazione del servizio. 
+ (73)
 
 ---------------
                             AGGIORNAMENTO (73)
@@ -3917,6 +9535,38 @@ Al fine di prevenire abusi di mercato e favorire condizioni ordinate di formazio
 ))
 
 ((
+
+2.
+                        
+                            
+                                I limiti di posizione di cui al comma 1 non si applicano con riferimento a: 
+ 
+                            
+                            
+                                a)
+                                
+                                    posizioni detenute da entita' non finanziarie, o per conto delle stesse, di cui e' oggettivamente possibile misurare la capacita' di ridurre i rischi direttamente legati all'attivita' commerciale di tali entita' non finanziarie; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    posizioni detenute da entita' finanziarie, o per conto delle stesse, appartenenti ad un gruppo prevalentemente commerciale che agisce per conto di un'entita' non finanziaria del gruppo prevalentemente commerciale, quando e' oggettivamente possibile misurare la capacita' di tali posizioni di ridurre i rischi direttamente legati all'attivita' commerciale di tale entita' non finanziaria; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    posizioni detenute da controparti finanziarie e non finanziarie che sono oggettivamente misurabili come derivanti da operazioni concluse per ottemperare all'obbligo di fornire liquidita' a una sede di negoziazione ai sensi dell'articolo 2, paragrafo 4, quarto comma, lettera c), della direttiva 2014/65/UE; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    valori mobiliari di cui all'articolo 1, comma 1-bis, lettera c), che si riferiscono ad una merce o a un sottostante di cui all'allegato I, sezione C), punto 10.
 
 ))
 
@@ -3958,6 +9608,40 @@ La Consob pubblica sul proprio sito internet le decisioni adottate ai sensi del 
 
 ## Art. 68-bis. — (( (Controlli del gestore della sede di negoziazione sulle posizioni in strumenti derivati su merci e strumenti derivati sulle quote di emissione).))
 
+1.
+                        
+                            
+                                
+                                    ((Il gestore di una sede di negoziazione che negozia derivati su merci o derivati sulle quote di emissione si dota di un sistema di controlli sulla gestione delle posizioni che gli consenta di:))
+                                
+                            
+                            
+                                a)
+                                
+                                    controllare le posizioni aperte delle persone; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    
+                                        ((ottenere dalle persone informazioni, compresa tutta la documentazione pertinente, circa l'entita' e la finalita' di una posizione o esposizione assunta, informazioni sui titolari effettivi o sottostanti, eventuali misure concertate e eventuali attivita' o passivita' nel mercato sottostante, comprese, se del caso, le posizioni detenute in derivati su quote di emissione o le posizioni detenute in derivati su merci aventi lo stesso sottostante e le stesse caratteristiche in altre sedi di negoziazione e in contratti EEOTC tramite i membri e i partecipanti;))
+                                    
+                                
+                            
+                            
+                                c)
+                                
+                                    imporre a una persona di chiudere o ridurre una posizione in via temporanea o permanente e di adottare unilateralmente misure per assicurare la chiusura o la riduzione della posizione nel caso in cui la persona non ottemperi; e 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    esigere che la persona reimmetta temporaneamente liquidita' nel mercato a un prezzo e un volume convenuti, con l'esplicito intento di lenire gli effetti di una posizione elevata o dominante.  (73)
+
 ---------------
                             AGGIORNAMENTO (73)
                             
@@ -3982,6 +9666,27 @@ I limiti di posizione e i controlli sulla gestione delle posizioni sono traspare
 
 
 
+1.
+                        
+                            
+                                
+                                    ((Il gestore di una sede di negoziazione nella quale sono negoziati derivati su merci o derivati su quote di emissione pubblica:))
+                                
+                            
+                            
+                                a)
+                                
+                                    
+                                        ((per le sedi di negoziazione dove sono negoziate le opzioni, due relazioni settimanali, una delle quali senza opzioni, indicanti le posizioni aggregate detenute dalle differenti categorie di persone per i differenti derivati su merci o derivati su quote di emissione, negoziati sulla sede di negoziazione, specificando il numero delle posizioni lunghe e corte per tali categorie, le modifiche intervenute rispetto alla relazione precedente, la percentuale del totale delle posizioni aperte rappresentata per ciascuna categoria e il numero di persone che detengono una posizione in ciascuna categoria in conformita' al comma 4;))
+                                    
+                                
+                            
+                            
+                                b)
+                                
+                                    
+                                        ((per le sedi di negoziazione in cui le opzioni non sono negoziate, una relazione settimanale sugli elementi di cui alla lettera a).))
+
 ((Le relazioni di cui al comma 1 sono trasmesse alla Consob e all'AESFEM.))
 
 ((Le Sim e le banche italiane che negoziano derivati su merci o derivati su quote di emissione al di fuori di una sede di negoziazione forniscono all'autorita' competente centrale o, qualora non esista un'autorita' competente centrale, all'autorita' competente della sede in cui i derivati su merci o derivati su quote di emissione sono negoziati, almeno su base giornaliera, una scomposizione completa delle loro posizioni assunte in contratti OTC economicamente equivalenti, nonche' di quelle dei loro clienti e dei clienti di detti clienti fino a raggiungere il cliente finale, ai sensi dell'articolo 26 del regolamento (UE) n. 600/2014 del Parlamento europeo e del Consiglio, del 15 maggio 2014, e, se del caso, dell'articolo 8 del regolamento (UE) n. 1227/2011 del Parlamento europeo e del Consiglio, del 25 ottobre 2011.))
@@ -3989,6 +9694,25 @@ I limiti di posizione e i controlli sulla gestione delle posizioni sono traspare
 I commi 1 e 2 non si applicano ai valori di cui all'articolo 1, comma 1-bis, lettera c), che si riferiscono ad una merce o a un sottostante di cui all'allegato I, sezione C), punto 10.
 
 I membri o partecipanti ai mercati regolamentati e ai sistemi multilaterali di negoziazione e i clienti dei sistemi organizzati di negoziazione comunicano al gestore della sede di negoziazione informazioni dettagliate sulle loro posizioni detenute mediante contratti negoziati nella sede di negoziazione in oggetto, almeno su base giornaliera, comprese le posizioni dei loro clienti, e dei clienti di detti clienti, fino a raggiungere il cliente finale.
+
+4.
+                        
+                            
+                                La Consob prevede con regolamento: 
+ 
+                            
+                            
+                                a)
+                                
+                                    i tempi e le modalita' di invio da parte del gestore della sede di negoziazione, dei dati disaggregati inerenti alle posizioni di tutte le persone, compresi i membri o partecipanti e i relativi clienti nella sede di negoziazione; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le modalita' di classificazione, da parte dei gestori delle sedi di negoziazione, ai fini dell'informativa da rendere ai sensi del presente articolo, delle persone che detengono posizioni in strumenti derivati su merci ovvero ((in strumenti derivati su)) quote di emissione ((...)). 
+ (73)
 
 ---------------
                             AGGIORNAMENTO (73)
@@ -3998,6 +9722,49 @@ I membri o partecipanti ai mercati regolamentati e ai sistemi multilaterali di n
 ## Art. 68-quinquies. — (( (Poteri della Consob e obblighi di collaborazione). ))
 
 ((
+
+1.
+                        
+                            
+                                Nello svolgimento dei compiti di vigilanza ai sensi della presente sezione, la Consob esercita i poteri previsti dagli articoli 62-octies, 62-novies, 62-decies e puo' altresi': 
+ 
+                            
+                            
+                                a)
+                                
+                                    richiedere a chiunque informazioni, notizie, dati o l'esibizione di documenti, in originale o in copia, in relazione all'entita' e alla finalita' di una posizione o esposizione aperta mediante uno strumento derivato su merci e alle eventuali attivita' e passivita' nel mercato sottostante; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    limitare la possibilita' di chiunque di concludere un contratto derivato su merci, anche introducendo limiti sull'entita' di una posizione che detto soggetto puo' detenere in ogni momento a norma dell'articolo 68; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    richiedere a chiunque di adottare misure per ridurre l'entita' di una posizione o esposizione in strumenti derivati su merci.
+
+2.
+                        
+                            
+                                La Consob comunica alle autorita' competenti degli altri Stati membri le informazioni relative a: 
+ 
+                            
+                            
+                                a)
+                                
+                                    eventuali richieste di riduzione dell'entita' di una posizione o esposizione, ai sensi del comma 1, lettera c); 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    eventuali limitazioni alla possibilita' delle persone di aprire una posizione in un derivato su merci, ai sensi del comma 1, lettera b).
 
 La notifica, se del caso, include informazioni dettagliate sulla richiesta o sulla domanda, ai sensi del comma 1, lettera a), compresa l'identita' della o delle persone cui e' stata indirizzata e le ragioni addotte, come pure la portata delle limitazioni introdotte a norma del comma 1, lettera b), compresa la persona interessata, gli strumenti finanziari applicabili, eventuali limiti all'entita' delle posizioni che qualsiasi persona puo' detenere in qualsiasi momento, le eventuali esenzioni concesse ai sensi del comma 2 e le ragioni addotte. La notifica e' fatta almeno 24 ore prima dell'entrata in vigore prevista degli interventi o delle misure. In circostanze eccezionali, la notifica puo' essere effettuata meno di 24 ore prima dell'entrata in vigore della misura quando non sia possibile rispettare tale termine. Se le misure adottate ai sensi del comma 1, lettere b) o c) sono relative a prodotti energetici all'ingrosso, la Consob ne informa anche l'Agenzia per la collaborazione fra i regolatori nazionali dell'energia (ACER) istituita a norma del regolamento (CE) n. 713/2009. La Consob invia una notifica in conformita' del presente comma anche quando ha intenzione di adottare le misure di cui alle lettere b) e c) del comma 1.
 
@@ -4015,6 +9782,89 @@ La notifica, se del caso, include informazioni dettagliate sulla richiesta o sul
 ## Art. 69. — (Mercati di crescita per le piccole e medie imprese )
 
 La Consob, su domanda del gestore di un sistema multilaterale ((, o di un suo segmento,)) di negoziazione, registra un sistema come mercato di crescita per le piccole e medie imprese se sono soddisfatti i requisiti di cui ((ai commi 2 e 2-bis)). ((134))
+
+2.
+                        
+                            
+                                Fermo restando il rispetto degli altri obblighi del presente decreto relativi alla gestione di un sistema multilaterale di negoziazione, ai fini della registrazione di cui al comma 1, il sistema multilaterale di negoziazione dispone di regole, sistemi e procedure efficaci, atti a garantire che siano soddisfatte le seguenti condizioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    almeno il 50 per cento degli emittenti i cui strumenti finanziari sono ammessi alla negoziazione sul sistema sono piccole e medie imprese, sia al momento della registrazione come mercato di crescita per le piccole e medie imprese sia successivamente, con riferimento a ciascun anno civile; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    sono stabiliti criteri appropriati per l'ammissione e la permanenza alla negoziazione degli strumenti finanziari sul sistema; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    al momento dell'ammissione alla negoziazione di uno strumento finanziario sul mercato sono state pubblicate informazioni sufficienti per permettere agli investitori di effettuare una scelta consapevole in merito all'investimento. Tali informazioni possono consistere in un appropriato documento di ammissione o in un prospetto se i requisiti di cui al regolamento 2017/1129/UE sono applicabili con riguardo a un'offerta pubblica presentata insieme all'ammissione alla negoziazione dello strumento finanziario sul sistema multilaterale di negoziazione; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    sul mercato esiste un'adeguata informativa finanziaria periodica, messa a disposizione dall'emittente o da altri per suo conto, che comprenda quantomeno la relazione finanziaria annuale sottoposta a revisione; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    gli emittenti, le persone che esercitano responsabilita' di direzione e le persone ad esse strettamente legate, come individuati rispettivamente dai punti 21), 25) e 26) dell'articolo 3, paragrafo 1, del regolamento (UE) n. 596/2014, rispettano i requisiti loro applicabili dettati dal citato regolamento; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    le informazioni regolamentate riguardanti gli emittenti sono conservate e divulgate pubblicamente; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    esistono sistemi e controlli efficaci tesi a prevenire e individuare gli abusi di mercato secondo quanto prescritto dal regolamento (UE) n. 596/2014.
+
+2-bis.
+                        
+                            
+                                
+                                    ((Fermo restando il rispetto degli altri obblighi del presente decreto relativi alla gestione di un sistema multilaterale di negoziazione, ai fini della registrazione di cui al comma 1, il segmento pertinente del sistema multilaterale di negoziazione dispone di regole, sistemi e procedure efficaci, atti a garantire che siano soddisfatte le condizioni di cui al comma 2 e tutte le seguenti condizioni:))
+                                
+                            
+                            
+                                a)
+                                
+                                    
+                                        ((il segmento del sistema multilaterale di negoziazione registrato come "mercato di crescita per le piccole e medie imprese" e' chiaramente separato dagli altri segmenti del mercato gestiti dall'impresa di investimento o dal gestore del mercato che gestisce il sistema multilaterale di negoziazione; tale circostanza deve essere indicata, tra l'altro, da un nome diverso, da un corpus di norme diverso, da una strategia di marketing diversa e da una pubblicita' diversa, nonche' dall'assegnazione specifica di un codice di identificazione del mercato al segmento registrato come mercato di crescita per le piccole e medie imprese;))
+                                    
+                                
+                            
+                            
+                                b)
+                                
+                                    
+                                        ((le operazioni effettuate sul segmento del mercato di crescita per le piccole e medie imprese interessato sono chiaramente distinte da altre attivita' di mercato all'interno degli altri segmenti del sistema multilaterale di negoziazione;))
+                                    
+                                
+                            
+                            
+                                c)
+                                
+                                    
+                                        ((il sistema multilaterale di negoziazione, su richiesta della Consob, fornisce un elenco completo degli strumenti quotati sul segmento interessato registrato come mercato di crescita per le piccole e medie imprese, nonche' tutte le informazioni che la Consob puo' richiedere sul funzionamento di tale segmento.))
+                                        ((134))
 
 Il gestore di un mercato di crescita per le piccole e medie imprese puo' prevedere requisiti aggiuntivi a quelli previsti ((dai commi 2 e 2-bis)). ((134))
 
@@ -4160,6 +10010,33 @@ Al ricorrere delle condizioni previste dall'articolo 9, paragrafo 4, del regolam
 
 ## Art. 76. — ((Pubblicazione differita))
 
+1.
+                        
+                            
+                                
+                                    ((In conformita' a quanto previsto dagli articoli 7 e 20 del regolamento (UE) n. 600/2014 del Parlamento europeo e del Consiglio, del 15 maggio 2014, la Consob ha il potere di:))
+                                
+                            
+                            
+                                a)
+                                
+                                    autorizzare il gestore di una sede di negoziazione o un'impresa di investimento che concluda, anche come internalizzatore sistematico, per proprio conto o per conto dei clienti, operazioni in strumenti finanziari, a differire la pubblicazione delle informazioni post-negoziazione sulle operazioni ((, stabilite dall'articolo 6 del citato regolamento;))
+                                    
+                                
+                            
+                            
+                                b)
+                                
+                                    
+                                        ((LETTERA ABROGATA DAL D.LGS. 9 FEBBRAIO 2026, N. 28)); 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    revocare l'autorizzazione concessa ai sensi del presente comma.
+
 La Consob disciplina con regolamento il contenuto e le modalita' di presentazione della domanda di autorizzazione alla pubblicazione differita.
 
 ((I provvedimenti di cui all'articolo 11, paragrafo 3, del regolamento (UE) n. 600/2014 del Parlamento europeo e del Consiglio, del 15 maggio 2014, sono adottati dalla Consob, d'intesa con la Banca d'Italia, in relazione agli strumenti del debito sovrano emessi dallo Stato italiano o a loro categorie.))
@@ -4195,6 +10072,31 @@ Gli stessi provvedimenti sono adottati dalla Consob, sentita la Banca d'Italia, 
  Il D.Lgs. 3 agosto 2017, n. 129 ha disposto (con l'art. 10, comma 2) che "Le disposizioni del decreto legislativo 24 febbraio 1998, n. 58, modificate dal presente decreto, si applicano dal 3 gennaio 2018, fatto salvo quanto diversamente previsto dall'articolo 93 della direttiva 2014/65/UE, con riferimento dell'articolo 65, paragrafo 2, della direttiva medesima, le cui disposizioni attuative si applicano dal 3 settembre 2019, e dall'articolo 55 del regolamento (UE) n. 600/2014, e successive modificazioni, nonche' dal comma 3. [...] Fermo restando quanto previsto dalle disposizioni dell'Unione europea direttamente applicabili, le disposizioni emanate dalla Banca d'Italia e dalla Consob, anche congiuntamente, ai sensi di disposizioni del decreto legislativo 24 febbraio 1998, n. 58, abrogate o modificate dal presente decreto, continuano a essere applicate fino alla data di entrata in vigore dei provvedimenti emanati dalla Banca d'Italia o dalla Consob nelle corrispondenti materie".
 
 ## Art. 78. — (Informazioni da fornire ai fini della trasparenza e dell'effettuazione degli altri calcoli e obblighi di pubblicazione)
+
+1.
+                        
+                            
+                                Al fine dell'applicazione dei requisiti di trasparenza pre e post-negoziazione imposti ((dagli articoli da 3 a 11-bis)) e da 14 a 21 del regolamento (UE) n. 600/2014 e dell'implementazione del regime previsto dall'articolo 32 del medesimo regolamento in connessione con l'obbligo di negoziazione su strumenti derivati, nonche' per determinare se un'impresa di investimento e' un internalizzatore sistematico, la Consob, secondo le modalita' e i termini dalla stessa determinati con regolamento, puo' chiedere informazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    alle sedi di negoziazione; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    ai dispositivi di pubblicazione autorizzati; e 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    ai fornitori di un sistema consolidato di pubblicazione.
 
 Gli obblighi di pubblicazione imposti dalle disposizioni contenute nei Titoli II e III del regolamento (UE) n. 600/2014 e dalle inerenti norme tecniche di regolamentazione e di attuazione sono assolti dalla Consob attraverso la messa a disposizione dei dati e delle informazioni sul proprio sito internet.
 
@@ -4260,6 +10162,39 @@ La Banca d'Italia autorizza lo svolgimento dei servizi di compensazione in quali
 
 La Banca d'Italia, in qualita' di presidente del collegio di autorita' previsto dall'articolo 18 del regolamento di cui al comma 1, puo' rinviare la questione dell'adozione di un parere comune negativo sull'autorizzazione di una controparte centrale all'AESFEM, come disposto dall'articolo 17, paragrafo 4, del medesimo regolamento, interrompendo i termini del procedimento di autorizzazione.
 
+3.
+                        
+                            
+                                La vigilanza sulle controparti centrali e' esercitata dalla Banca d'Italia, avendo riguardo alla stabilita' e al contenimento del rischio sistemico, e dalla Consob, avendo riguardo alla trasparenza e alla tutela degli investitori. A tale fine la Banca d'Italia e la Consob, nell'ambito delle rispettive competenze, possono nei confronti delle controparti centrali e dei partecipanti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    chiedere la comunicazione anche periodica di dati e notizie e la trasmissione di atti e documenti, con le modalita' e nei termini da esse stabiliti; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    procedere ad audizione personale; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    eseguire ispezioni; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    richiedere l'esibizione di documenti e il compimento degli atti ritenuti necessari. 
+ Nel caso previsto alla lettera b) del presente comma, la Banca d'Italia e la Consob redigono processo verbale dei dati, delle informazioni acquisite e delle dichiarazioni rese dagli interessati, i quali sono invitati a firmare il processo verbale e hanno diritto di averne copia. La Consob redige il processo verbale anche nel caso previsto dalla lettera c) del presente comma. Le modalita' di esercizio dei poteri di vigilanza informativa sono disciplinate con regolamento adottato dalla Banca d'Italia, d'intesa con la Consob; con il medesimo regolamento possono essere stabiliti requisiti supplementari per lo svolgimento dei servizi di controparte centrale, in conformita' al regolamento di cui al comma 1. La Banca d'Italia e la Consob, nell'ambito delle rispettive competenze e nel perseguimento delle finalita' previste nel presente comma, possono imporre alle controparti centrali di adottare le azioni e le misure necessarie per assicurare il rispetto del regolamento di cui al comma 1, dei relativi atti delegati, delle norme tecniche di regolamentazione e di attuazione, nonche' del presente titolo.
+
 In caso di necessita' e urgenza, la Banca d'Italia adotta, per le finalita' attribuite ai sensi del comma 3, i provvedimenti necessari anche sostituendosi alle controparti centrali. Dei provvedimenti adottati la Banca d'Italia da' tempestiva comunicazione alla Consob, all'AESFEM, al collegio di autorita' di cui al comma 2, alle rilevanti autorita' del Sistema europeo delle Banche centrali e alle altre autorita' interessate, ai sensi dell'articolo 24 del regolamento di cui al comma 1.
 
 La Banca d'Italia esercita le competenze specificamente indicate dagli articoli 41, paragrafo 2, 49, paragrafo 1, 49-bis, paragrafo 1, e 54, paragrafo 1, del regolamento di cui al comma 1 e adotta, d'intesa con la Consob, i provvedimenti richiesti ai sensi degli articoli 31, paragrafi 1, 5 e 7, 35, paragrafo 1, e 45-bis, paragrafi 1 e 2, del medesimo regolamento.
@@ -4310,6 +10245,27 @@ In caso di apertura di una procedura di insolvenza nei confronti di un partecipa
 
 ((La Consob e' l'autorita' nazionale competente per il rispetto degli obblighi previsti dagli articoli 7-bis e 7-ter del regolamento (UE) n. 648/2012 e delle relative norme tecniche di regolamentazione nei confronti delle controparti finanziarie e delle controparti non finanziarie.))
 
+1-ter.
+                        
+                            
+                                
+                                    ((Le autorita' nazionali competenti per il rispetto degli obblighi previsti dall'articolo 4-ter del regolamento (UE) n. 648/2012, e delle relative norme tecniche di regolamentazione, da parte dei prestatori di servizi di investimento che forniscono servizi di riduzione del rischio post-negoziazione sono:))
+                                
+                            
+                            
+                                a)
+                                
+                                    
+                                        ((la Consob, con riguardo ai soggetti autorizzati ai sensi dell'articolo 19, comma 1;))
+                                    
+                                
+                            
+                            
+                                b)
+                                
+                                    
+                                        ((la Banca d'Italia, con riguardo ai soggetti autorizzati ai sensi degli articoli 19, comma 4, e 20-bis.1.))
+
 ## Art. 79-octies.1. — (( (Individuazione delle autorita' nazionali competenti per l'esercizio di ulteriori poteri di vigilanza ai sensi del regolamento (UE) n. 600/2014).))
 
 ((
@@ -4345,6 +10301,42 @@ La Consob e' l'autorita' competente per il rispetto degli obblighi di cui all'ar
 Fatti salvi i poteri specifici delle autorita' competenti in tema di accertamento dei presupposti per la risoluzione e quanto previsto dai commi seguenti, le funzioni attribuite dal regolamento (UE) 2021/23 alle autorita' competenti sono esercitate dalla Banca d'Italia e dalla Consob in conformita' all'articolo 79-sexies, comma 3, primo periodo.
 
 La Banca d'Italia e' l'autorita' competente ad adempiere agli obblighi informativi e di notifica previsti dal regolamento (UE) 2021/23 e a svolgere le funzioni specificamente indicate nell'articolo 10, paragrafo 2, primo periodo, nell'articolo 35, paragrafo 1, nell'articolo 38, paragrafi 1, 2 e 3, e nell'articolo 39, paragrafo 2, del medesimo regolamento.
+
+3.
+                        
+                            
+                                La Banca d'Italia, sentita la Consob: 
+ 
+                            
+                            
+                                a)
+                                
+                                    esercita le competenze previste dall'articolo 9, paragrafi 7, secondo e terzo comma, e 8, secondo comma, dall'articolo 12, paragrafi 1 e 6, primo comma, dall'articolo 15, paragrafo 1, dall'articolo 16, paragrafi 1, 4, ultimo comma, e 7, e dall'articolo 20, paragrafo 1, del regolamento (UE) 2021/23; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    approva la nuova alta dirigenza o il nuovo organo di amministrazione nominati ai sensi dell'articolo 19, paragrafo 2, primo periodo, del regolamento (UE) 2021/23, nonche' il nuovo organo di controllo.
+
+4.
+                        
+                            
+                                La Banca d'Italia, sentita la Consob o su proposta della medesima: 
+ 
+                            
+                            
+                                a)
+                                
+                                    adotta le misure previste dall'articolo 18, paragrafi 1 e 6, secondo comma, primo periodo, del regolamento (UE) 2021/23; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    dispone la rimozione totale o parziale dell'alta dirigenza o degli organi di amministrazione e di controllo delle controparti centrali, al ricorrere dei presupposti individuati nell'articolo 19, paragrafo 1, primo comma, del regolamento (UE) 2021/23.
 
 La Banca d'Italia e' l'autorita' competente a svolgere, d'intesa con la Consob, i compiti indicati nell'articolo 9, paragrafi 9 e 10, nell'articolo 10, paragrafi 2, secondo periodo, 6, 7, 8, 9 e 10, e nell'articolo 11, paragrafi 4, primo comma, e 5, del regolamento (UE) 2021/23.
 
@@ -4397,6 +10389,24 @@ La sostituzione degli organi liquidatori non comporta il mutamento della procedu
 
 ((
 
+1.
+                        
+                            
+                                Nel presente titolo si intendono per: 
+ 
+                            
+                            
+                                a)
+                                
+                                    «autorita' rilevanti»: le autorita' indicate nell'articolo 12, paragrafo 1, del regolamento (UE) n. 909/2014; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    «intermediari»: i soggetti abilitati alla tenuta dei conti sui quali sono registrati gli strumenti finanziari e i relativi trasferimenti.
+
 ))
 
 ## - ((CAPO I)) ((AUTORITA' NAZIONALI COMPETENTI E RILEVANTI))
@@ -4436,7 +10446,75 @@ La Consob adotta, d'intesa con la Banca d'Italia, le ulteriori misure previste d
 
 ## Art. 79-duodecies. — (Individuazione delle autorita' nazionali competenti a svolgere le ulteriori funzioni previste dal regolamento (UE) n. 909/2014)
 
+1.
+                        
+                            
+                                Le autorita' competenti a vigilare sull'applicazione della disciplina in materia di scritture contabili, prevista dall'articolo 3 del regolamento (UE) n. 909/2014, sono: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la Banca d'Italia, per quanto riguarda gli obblighi a carico delle controparti di un contratto di garanzia finanziaria e delle sedi di negoziazione all'ingrosso dei titoli di Stato; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la Consob, per quanto riguarda gli obblighi a carico delle altre sedi di negoziazione e degli emittenti.
+
+2.
+                        
+                            
+                                Le autorita' competenti a vigilare sull'applicazione della disciplina in materia di data fissata per il regolamento titoli prevista dall'articolo 5 del regolamento (UE) n. 909/2014 sono: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la Consob e la Banca d'Italia, per quanto riguarda gli obblighi a carico dei partecipanti a un sistema di regolamento titoli; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la Banca d'Italia, per quanto riguarda gli obblighi a carico delle sedi di negoziazione all'ingrosso dei titoli di Stato; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    la Consob, per quanto riguarda gli obblighi a carico delle altre sedi di negoziazione.
+
 La Consob e' l'autorita' competente a vigilare sull'adempimento degli obblighi previsti dall'articolo 6, paragrafo 2, del regolamento di cui al comma 1 da parte delle Sim e delle banche italiane autorizzate all'esercizio dei servizi o delle attivita' di investimento.
+
+4.
+                        
+                            
+                                Le autorita' competenti a vigilare sull'applicazione della disciplina degli acquisti forzosi, prevista ((dall'articolo 7-bis)) del regolamento di cui al comma 1, sono: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la Banca d'Italia e la Consob, per gli obblighi relativi alle operazioni compensate mediante controparte centrale, ((di cui all'articolo 7-bis, paragrafo 11,)) lettera a), del regolamento di cui al comma 1; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la Banca d'Italia, per gli obblighi relativi alle operazioni non compensate mediante controparte centrale ma eseguite in una sede di negoziazione all'ingrosso di titoli di Stato, e la Consob, per le operazioni eseguite nelle altre sedi di negoziazione, ((di cui all'articolo 7-bis, paragrafo 11,)) lettera b), del regolamento di cui al comma 1; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    la Banca d'Italia, per gli obblighi relativi alle operazioni su titoli di Stato non compensate mediante controparte centrale ed eseguite al di fuori di una sede di negoziazione, e la Consob, per gli obblighi relativi alle operazioni eseguite su altri strumenti finanziari, ((di cui all'articolo 7-bis, paragrafo 11,)) lettera c), del regolamento di cui al comma 1.
 
 La Consob e la Banca d'Italia ricevono i dati trasmessi dagli internalizzatori di regolamento ai sensi dell'articolo 9, paragrafo 1, primo comma, del regolamento di cui al comma 1.
 
@@ -4459,6 +10537,38 @@ La Banca d'Italia e la Consob sono le autorita' rilevanti ai sensi dell'articolo
 La vigilanza sui depositari centrali e' esercitata dalla Consob, avendo riguardo alla trasparenza, all'ordinata prestazione dei servizi svolti dai depositari centrali, all'integrita' dei mercati e alla tutela degli investitori, e dalla Banca d'Italia, avendo riguardo alla stabilita' e al contenimento del rischio sistemico.
 
 Ove non diversamente specificato nel presente decreto, le competenze previste dal regolamento (UE) n. 909/2014 in materia di vigilanza sono esercitate dalla Consob e dalla Banca d'Italia, ciascuna nell'ambito delle rispettive attribuzioni.
+
+3.
+                        
+                            
+                                La Consob e la Banca d'Italia, nell'ambito delle rispettive competenze e nel perseguimento delle finalita' previste nel comma 1, possono, nei confronti dei depositari centrali, degli intermediari e degli altri soggetti tenuti all'applicazione del regolamento di cui al comma 2: 
+ 
+                            
+                            
+                                a)
+                                
+                                    chiedere la comunicazione anche periodica di dati e notizie e la trasmissione di atti e documenti, con le modalita' e nei termini da esse stabiliti; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    procedere ad audizione personale; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    eseguire ispezioni; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    richiedere l'esibizione di documenti e il compimento degli atti ritenuti necessari.
 
 Nel caso previsto dal comma 3, lettera b), la Banca d'Italia e la Consob redigono processo verbale dei dati e delle informazioni acquisite e delle dichiarazioni rese dagli interessati, i quali sono invitati a firmare il processo verbale e hanno diritto di averne copia. La Consob redige il processo verbale anche nel caso previsto dalla lettera c) del comma 3.
 
@@ -4561,9 +10671,122 @@ L'impugnazione puo' essere proposta anche dalla Consob o dalla Banca d'Italia en
 
 L'attivita' di gestione accentrata e' esercitata da depositari centrali autorizzati ai sensi del regolamento (UE) n. 909/2014 alla prestazione dei servizi di cui alla Sezione A, punti 1) e 2), dell'Allegato al medesimo regolamento e relativi servizi accessori.
 
+2.
+                        
+                            
+                                Al fine di assicurare il perseguimento delle finalita' di cui all'articolo 79-quaterdecies, comma 1, la Consob, d'intesa con la Banca d'Italia, puo' individuare con regolamento nel rispetto delle disposizioni del regolamento di cui al comma 1, della direttiva 2007/36/CE e delle relative disposizioni attuative: (89) 
+ 
+                            
+                            
+                                a)
+                                
+                                    le modalita' di svolgimento e le caratteristiche del servizio di cui alla Sezione A, punto 1), e dei servizi accessori di tipo non bancario elencati nella Sezione B, punti 2) e 3), dell'Allegato al regolamento di cui al comma 1, nonche' di ogni ulteriore servizio di tipo non bancario, accessorio ai servizi di cui alla Sezione A, punti 1) e 2), consentito ma non esplicitamente elencato nella sezione B dell'Allegato al regolamento di cui al comma 1; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le categorie di intermediari che possono detenere conti titoli presso il depositario centrale e le attivita', previste dal presente capo, che gli intermediari sono abilitati a svolgere; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    le caratteristiche degli strumenti finanziari indicati all'articolo 83-bis, comma 2, ai fini dell'assoggettamento dei medesimi alle disposizioni della sezione I del presente capo; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    fatto salvo quanto previsto dall'articolo 83-sexies, comma 4, i modelli, le modalita', i termini e l'intermediario responsabile per il rilascio e la revoca delle certificazioni nonche' per l'effettuazione e la rettifica delle comunicazioni; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    i criteri e le modalita' di svolgimento dell'attivita' indicata nell'articolo 83-octies; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    i termini entro i quali gli intermediari e i depositari centrali adempiono, ai sensi dell'articolo 83-novies, comma 1, lettere d), e), f) e g), e dell'articolo 89, rispettivamente, agli obblighi di segnalazione agli emittenti dei dati identificativi degli aventi diritti sulle azioni e delle registrazioni effettuate ai sensi dell'articolo 83-octies; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    le modalita' e i termini di comunicazione, su richiesta, nei casi e ai soggetti individuati dal regolamento stesso, dei dati identificativi dei titolari di strumenti finanziari diversi da quelli di cui all'articolo 83-duodecies e degli intermediari che li detengono, fatta salva la possibilita' per i titolari degli strumenti finanziari di vietare espressamente la comunicazione dei propri dati identificativi; (89) 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    i requisiti che i corrispettivi indicati al comma 3 e i corrispettivi richiesti dagli intermediari per la tenuta dei conti devono rispettare; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    le altre modalita' operative per la gestione delle operazioni societarie da parte degli intermediari, dei depositari centrali e degli emittenti e le ulteriori disposizioni necessarie per l'attuazione di quanto previsto nel presente capo e quelle comunque dirette a perseguire le finalita' indicate nella prima parte del presente comma; (89) 
+
+                                
+                            
+                            
+                                i-bis)
+                                
+                                    le modalita' di esclusione dal sistema di gestione accentrata degli strumenti finanziari nel caso di apertura di una procedura di liquidazione giudiziale, di liquidazione controllata o di liquidazione coatta amministrativa a carico dell'emittente o in casi che comportano analoghi effetti, salvaguardando la posizione del titolare degli strumenti finanziari.
+
 La Consob ((...)) puo' stabilire che i corrispettivi per i servizi di cui alla Sezione A, punti 1), 2) e 3), dell'Allegato al regolamento di cui al comma 1, svolti dai depositari centrali, nonche' i corrispettivi richiesti dagli intermediari per le certificazioni, comunicazioni e segnalazioni previste dal presente capo siano soggetti ad approvazione da parte della medesima autorita'.
 
 Il regolamento previsto nel comma 2 puo' demandare al regolamento previsto dall'articolo 79-quinquiesdecies, comma 1, la disciplina di alcune delle materie delegate, ai sensi del medesimo comma o di altre disposizioni del presente capo, alla potesta' regolamentare della Consob esercitata d'intesa con la Banca d'Italia.
+
+4-bis.
+                        
+                            
+                                La Consob, d'intesa con la Banca d'Italia, individua con regolamento: 
+ 
+                            
+                            
+                                a)
+                                
+                                    le attivita' che depositari centrali ed intermediari sono tenuti a svolgere in conformita' con gli articoli 3-bis, 3-ter e 3-quater della direttiva 2007/36/CE; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    i soggetti coinvolti nel processo di identificazione degli azionisti di cui all'articolo 83-duodecies e le relative modalita' operative; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    le modalita' e i termini per la conservazione e il trattamento dei dati identificativi, acquisiti dagli emittenti ai sensi dell'articolo 83-duodecies, comma 1; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    le modalita' operative per la trasmissione delle informazioni e l'agevolazione dell'esercizio dei diritti degli azionisti; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    le ulteriori disposizioni attuative della citata direttiva per gli aspetti connessi alla disciplina dell'attivita' di gestione accentrata. (89)
 
 --------------
                             AGGIORNAMENTO (89)
@@ -4677,6 +10900,59 @@ Possono essere accesi specifici conti destinati a consentire la costituzione di 
 
 ## Art. 83-novies. — (Compiti dell'intermediario)
 
+1.
+                        
+                            
+                                L'intermediario: 
+ 
+                            
+                            
+                                a)
+                                
+                                    esercita, in nome e per conto del titolare del conto i diritti inerenti agli strumenti finanziari, qualora quest'ultimo gli abbia conferito il relativo mandato; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    a richiesta dell'interessato, effettua le comunicazioni e rilascia le certificazioni di cui all'articolo 83-quinqiues, comma 3, quando necessarie per l'esercizio dei diritti relativi agli strumenti finanziari; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    effettua, a richiesta dell'interessato, le comunicazioni previste dall'articolo 83-sexies; la richiesta puo' essere effettuata con riferimento a tutte le assemblee di uno o piu' emittenti, fino a diversa indicazione; in tal caso, l'intermediario provvede senza necessita' di ulteriori richieste all'invio delle comunicazioni; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    segnala all'emittente i dati identificativi dei soggetti che hanno richiesto la certificazione prevista dall'articolo 83-quinquies, comma 3, nonche' di coloro ai quali sono stati pagati dividendi e di coloro che, esercitando il diritto di opzione o altro diritto, hanno acquisito la titolarita' di strumenti finanziari nominativi, specificandone le relative quantita' ai fini degli adempimenti a carico dell'emittente; salvo quanto previsto dalla lettera f), nei casi in cui si da' luogo alla comunicazione, essa soddisfa gli obblighi di segnalazione; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    segnala altresi' all'emittente, a richiesta dell'interessato ovvero quando previsto dalle disposizioni vigenti i dati identificativi degli aventi diritti sugli strumenti finanziari ai fini degli adempimenti a carico dell'emittente; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    nei casi in cui siano diversi dai soggetti richiedenti le certificazioni o a cui favore siano state effettuate le comunicazioni, segnala all'emittente i dati identificativi degli aventi diritti sugli strumenti finanziari ai fini degli adempimenti a carico dell'emittente; (73) 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    nei casi in cui effettua le comunicazioni di cui alle lettere b) e c) e le segnalazioni di cui alle lettere d), e) ed f), segnala all'emittente i vincoli sugli strumenti finanziari iscritti ai sensi dell'articolo 83-octies.
+
 Il deposito delle certificazioni rilasciate dall'intermediario e la ricezione delle comunicazioni da parte dell'emittente sostituiscono, ad ogni effetto di legge, il deposito del titolo previsto da disposizioni vigenti.
 
 COMMA ABROGATO DAL D.LGS. 12 AGOSTO 2016, N. 176.
@@ -4707,6 +10983,24 @@ Gli intermediari e i depositari centrali comunicano al pubblico i corrispettivi 
  Il D.Lgs. 10 maggio 2019, n. 49 ha disposto (con l'art. 7, comma 2, lettera a)) che la presente modifica si applica "a decorrere dalla data di applicazione del regolamento di esecuzione (UE) 2018/1212 del 3 settembre 2018".
 
 ## Art. 83-decies. — (Responsabilita' dell'intermediario)
+
+1.
+                        
+                            
+                                L'intermediario e' responsabile: 
+ 
+                            
+                            
+                                a)
+                                
+                                    verso il titolare del conto, per i danni derivanti dall'esercizio dell'attivita' di trasferimento suo tramite degli strumenti finanziari, di tenuta dei conti, e per il puntuale adempimento degli obblighi posti dal presente decreto e dal regolamento di cui all'articolo ((82, comma 2)); 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    verso l'emittente, per l'adempimento degli obblighi di comunicazione e segnalazione imposti dal presente decreto e dal regolamento di cui all'articolo ((82, comma 2)).
 
 ## Art. 83-undecies. — (Obblighi degli emittenti azioni)
 
@@ -4836,9 +11130,88 @@ Il Ministro dell'economia e delle finanze stabilisce con regolamento le modalita
 
 ## Art. 90-bis. — (Individuazione delle autorita' nazionali competenti in materia di accesso ai depositari centrali stabiliti sul territorio della Repubblica)
 
+1.
+                        
+                            
+                                La Consob e' l'autorita' competente a ricevere i reclami ed esercitare, ((sentita la Banca d'Italia)), le competenze in materia di accesso ai depositari centrali stabiliti nel territorio della Repubblica da parte di: 
+ 
+                            
+                            
+                                a)
+                                
+                                    partecipanti, ai sensi dell'articolo 33, paragrafo 3, del regolamento (UE) n. 909/2014; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    emittenti, ai sensi dell'articolo 49, paragrafo 4, del medesimo regolamento; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    depositari centrali, ai sensi dell'articolo 52, paragrafo 2, del medesimo regolamento.
+
 ## Art. 90-ter. — (Individuazione delle autorita' nazionali competenti in materia di accesso tra sedi di negoziazione e infrastrutture di post-trading)
 
+1.
+                        
+                            
+                                In materia di accesso tra sedi di negoziazione e depositari centrali: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la Consob e' l'autorita' competente a ricevere i reclami e a svolgere, ((sentita la Banca d'Italia)), le funzioni indicate all'articolo 53, paragrafo 3, quinto comma, del regolamento (UE) n. 909/2014, quando le richieste sono presentate da sedi di negoziazione ai sensi del paragrafo 1, secondo comma, del medesimo articolo; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la Consob e' l'autorita' competente a ricevere i reclami e a svolgere le funzioni indicate all'articolo 53, paragrafo 3, quinto comma, del regolamento (UE) n. 909/2014, quando le richieste di accesso sono presentate da depositari centrali ai sensi del paragrafo 1, primo comma, del medesimo articolo.
+
+2.
+                        
+                            
+                                In materia di accesso tra sedi di negoziazione e controparti centrali: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la Consob svolge le funzioni assegnate all'autorita' competente della sede di negoziazione dagli articoli 7, paragrafo 4, e 8, paragrafo 4, del regolamento (UE) n. 648/2012 e dagli articoli 35, paragrafo 4, e 36, paragrafo 4, del regolamento (UE) n. 600/2014, del Parlamento europeo e del Consiglio, del 15 maggio 2014; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la Banca d'Italia, d'intesa con la Consob, svolge le funzioni assegnate all'autorita' competente della controparte centrale dagli articoli 7, paragrafo 4, e 8, paragrafo 4, del regolamento (UE) n. 648/2012 e dagli articoli 35, paragrafo 4, e 36, paragrafo 4, del regolamento (UE) n. 600/2014.
+
 Le competenze di cui al comma 1, lettera b), e al comma 2, lettera a), sono esercitate dalla Banca d'Italia con riguardo alle sedi di negoziazione all'ingrosso dei titoli di Stato.
+
+4.
+                        
+                            
+                                In materia di accesso tra depositari centrali e controparti centrali: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la Consob e' l'autorita' competente a ricevere i reclami e a svolgere, d'intesa con la Banca d'Italia, le funzioni indicate all'articolo 53, paragrafo 3, quinto comma, del regolamento (UE) n. 909/2014, quando le richieste sono presentate da controparti centrali ai sensi del paragrafo 1, secondo comma, del medesimo articolo; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la Banca d'Italia e' l'autorita' competente a ricevere i reclami e a svolgere, d'intesa con la Consob, le funzioni indicate all'articolo 53, paragrafo 3, quinto comma, del regolamento (UE) n. 909/2014, quando le richieste di accesso sono presentate da depositari centrali ai sensi del paragrafo 1, primo comma, del medesimo articolo.
 
 ## - ((CAPO II)) ((DIRITTO DI ACCESSO E ACCORDI))
 
@@ -4854,6 +11227,24 @@ Fatti salvi i titoli III, IV e V del regolamento (UE) n. 648/2012, ((le imprese 
 ## Art. 90-quinquies. — (Accesso ai servizi di regolamento delle operazioni su strumenti finanziari su base transfrontaliera)
 
 Fatto salvo l'articolo 33 del regolamento (UE) n. 909/2014, le imprese di investimento UE e le banche UE autorizzate all'esercizio dei servizi o delle attivita' di investimento hanno il diritto di accedere direttamente e indirettamente ai servizi di regolamento gestiti da depositari centrali stabiliti nel territorio della Repubblica, per finalizzare o per disporre la finalizzazione delle operazioni su strumenti finanziari. (73)
+
+2.
+                        
+                            
+                                I gestori dei mercati assicurano ai partecipanti ai mercati da esse gestiti il diritto di designare un sistema di regolamento delle operazioni su strumenti finanziari effettuate su tali mercati, diverso da quello designato dal mercato stesso, qualora risultino rispettate le seguenti condizioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la presenza di collegamenti e dispositivi fra il sistema di regolamento designato e i sistemi e la struttura del mercato regolamentato per garantire il regolamento efficace ed economico delle operazioni; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il riconoscimento da parte della Consob che le condizioni tecniche di regolamento delle operazioni concluse nel mercato regolamentato tramite un sistema diverso da quello designato dal mercato stesso siano tali da consentire il regolare e ordinato funzionamento dei mercati. Nei casi di gestori di mercati regolamentati all'ingrosso di titoli di Stato il riconoscimento e' effettuato dalla Banca d'Italia.
 
 I gestori dei mercati comunicano alla Consob le designazioni effettuate dai partecipanti al mercato ai sensi del comma 2. Tali comunicazioni sono effettuate alla Banca d'Italia nel caso dei mercati all'ingrosso dei titoli di Stato.
 
@@ -4915,6 +11306,23 @@ La Consob detta con regolamento, in conformita' alla normativa comunitaria, disp
 
 ## Art. 93. — Definizione di controllo
 
+1.
+                        
+                            
+                                Nella presenta parte sono considerate imprese controllate, oltre a quelle indicate nell'articolo 2359, primo comma, numeri 1 e 2, del codice civile, anche: 
+
+                            
+                            
+                                a)
+                                
+                                    le imprese, italiane o estere, su cui un soggetto ha il diritto, in virtu' di un contratto o di una clausola statutaria, di esercitare un'influenza dominante, quando la legge applicabile consenta tali contratti o clausole; 
+                                
+                            
+                            
+                                b)
+                                
+                                    le imprese, italiane o estere, su cui un socio, in base ad accordi con altri soci, dispone da solo di voti sufficienti a esercitare un'influenza dominante nell'assemblea ordinaria.
+
 Ai fini del comma 1 si considerano anche i diritti spettanti a societa' controllate o esercitati per il tramite di fiduciari o di interposte persone; non si considerano quelli spettanti per conto di terzi.
 
 ## Art. 93.1. — (( (Utilizzo della denominazione "obbligazione verde europea" o "EuGB" ai sensi del regolamento (UE) n. 2023/2631).))
@@ -4934,6 +11342,75 @@ Ai fini del comma 1 si considerano anche i diritti spettanti a societa' controll
 ## - TITOLO II APPELLO AL PUBBLICO RISPARMIO ((CAPO I OFFERTA AL PUBBLICO DI SOTTOSCRIZIONE E DI VENDITA))
 
 ## Art. 93-bis. — Definizioni
+
+1.
+                        
+                            
+                                Nel presente Capo e nel Capo I del Titolo III si intendono per: 
+ 
+                            
+                            
+                                a)
+                                
+                                    "regolamento prospetto": regolamento (UE) 2017/1129 del Parlamento europeo e del Consiglio, del 14 giugno 2017; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    "disposizioni attuative": gli atti delegati adottati dalla Commissione europea ai sensi dell'articolo 44 del regolamento prospetto e le relative norme tecniche di regolamentazione e di attuazione adottate dalla Commissione europea ai sensi degli articoli 10 e 15 del regolamento (UE) n. 1095/2010 del Parlamento europeo e del Consiglio, del 24 novembre 2010; 
+
+                                
+                            
+                            
+                                b-bis)
+                                
+                                    "regolamento (UE) 2019/1156": il regolamento (UE) 2019/1156 del Parlamento europeo e del Consiglio, del 20 giugno 2019, per facilitare la distribuzione transfrontaliera degli organismi di investimento collettivo e che modifica i regolamenti (UE) n. 345/2013, (UE) n. 346/2013 e (UE) n. 1286/2014; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    "titoli": i valori mobiliari individuati dall'articolo 2, paragrafo 1, lettera a), del regolamento prospetto, ivi incluse le quote o azioni di Oicr chiusi; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    "responsabile del collocamento": il soggetto che organizza e costituisce il consorzio di collocamento, il coordinatore del collocamento o il collocatore unico; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    "Stato membro d'origine": 
+ 1) in relazione all'offerta di titoli, lo Stato membro d'origine di cui all'articolo 2, paragrafo 1, lettera m), del regolamento prospetto; 
+ 2) in relazione all'offerta di quote o azioni di Oicr armonizzati, lo Stato membro della UE in cui l'Oicr e' stato costituito; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    "Stato membro ospitante": lo Stato membro della UE in cui viene effettuata l'offerta o viene chiesta l'ammissione alla negoziazione in un mercato regolamentato, qualora sia diverso dallo Stato membro d'origine. 
+
+                                
+                            
+                            
+                                f-bis)
+                                
+                                    «KIID»: il documento previsto dall'articolo 78 della direttiva 2009/65/CE recante le informazioni-chiave sulle caratteristiche essenziali dell'OICVM, da fornire agli investitori in modo che essi possano ragionevolmente comprendere la natura e i rischi dell'investimento proposto e assumere, di conseguenza, decisioni di investimento informate, e redatto in conformita' al regolamento (UE) n. 583/2010 e alle relative disposizioni di attuazione dell'Unione europea; 
+
+                                
+                            
+                            
+                                f-ter)
+                                
+                                    «KID»: il documento contenente le informazioni chiave per i prodotti d'investimento al dettaglio e assicurativi preassemblati previsto dall'articolo 5 del regolamento (UE) n. 1286/2014.
 
 ## - Sezione I Offerta al pubblico di ((titoli)) e di prodotti finanziari diversi dalle quote o azioni di OICR aperti
 
@@ -4980,6 +11457,45 @@ Alle offerte al pubblico di prodotti finanziari diversi dai titoli e dalle quote
 ))
 
 ## Art. 95. — (Disposizioni di attuazione)
+
+1.
+                        
+                            
+                                La Consob, conformemente alle disposizioni europee di riferimento, detta con regolamento disposizioni di attuazione della presente Sezione anche differenziate in relazione alle caratteristiche dei prodotti finanziari, degli emittenti e dei mercati. Il regolamento stabilisce in particolare: 
+ 
+                            
+                            
+                                a)
+                                
+                                    con riferimento alle offerte di titoli, la procedura di approvazione del prospetto e degli eventuali supplementi, nonche' il contenuto della domanda di approvazione rivolta alla Consob prevista dall'articolo 94, comma 3; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    con riferimento alle offerte di prodotti finanziari diversi dai titoli, la procedura e i termini di approvazione del prospetto, e degli eventuali supplementi, nonche' il contenuto della domanda di approvazione alla Consob, prevista dall'articolo 94-bis, comma 1, la Consob puo', stabilire con regolamento il contenuto del prospetto in relazione a particolari categorie di prodotti finanziari; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    le modalita' da osservare per diffondere notizie, per svolgere indagini di mercato ovvero per raccogliere intenzioni di acquisto o di sottoscrizione ((, fermo restando quanto previsto dall'articolo 42-bis)); 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    le modalita' di svolgimento dell'offerta anche al fine di assicurare la parita' di trattamento tra i destinatari; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    le procedure organizzative e decisionali interne per l'adozione dell'atto finale di approvazione del prospetto, anche mediante attribuzione della competenza a personale con qualifica dirigenziale.
 
 La Consob individua con regolamento le norme di correttezza che sono tenuti ad osservare l'emittente, l'offerente e gli intermediari finanziari incaricati dell'offerta pubblica di prodotti finanziari nonche' coloro che si trovano in rapporto di controllo o di collegamento con tali soggetti.
 
@@ -5079,7 +11595,25 @@ Ove le caratteristiche degli OICR lo richiedano la Consob puo' consentire, su is
 
 ## Art. 98-quinquies. — Obblighi informativi
 
+1.
+                        
+                            
+                                Fermo quanto previsto dal Titolo III, Capo I, agli offerenti quote o azioni di OICR aperti si applicano: 
+ 
+                            
+                            
+                                a)
+                                
+                                    l'articolo 114, commi 5 e 6, dalla data di pubblicazione dei prospetti fino alla conclusione dell'offerta; 
 
+                                
+                            
+                            
+                                b)
+                                
+                                    l'articolo 115, dalla data della comunicazione prevista dall'articolo 98-ter fino a un anno dalla conclusione dell'offerta.
+
+((COMMA ABROGATO DAL D.LGS. 4 MARZO 2014, N. 44)).
 
 Qualora sussista fondato sospetto di violazione delle disposizioni contenute nel presente Capo o delle relative norme di attuazione, la CONSOB, allo scopo di acquisire elementi conoscitivi, puo' richiedere, entro un anno dall'acquisto o dalla sottoscrizione, la comunicazione di dati e notizie e la trasmissione di atti e documenti agli acquirenti o sottoscrittori delle quote o azioni di OICR aperti, fissando i relativi termini. Il potere di richiesta puo' essere esercitato anche nei confronti di coloro per i quali vi e' fondato sospetto che svolgano un'offerta al pubblico in violazione delle disposizioni previste dall'articolo 98-ter.
 
@@ -5098,6 +11632,87 @@ Qualora sussista fondato sospetto di violazione delle disposizioni contenute nel
 
 ((
 
+1.
+                        
+                            
+                                La Consob puo': 
+ 
+                            
+                            
+                                a)
+                                
+                                    sospendere in via cautelare, per un periodo non superiore a dieci giorni lavorativi consecutivi per ciascuna volta, l'offerta avente ad oggetto titoli, in caso di fondato sospetto di violazione delle disposizioni del presente Capo o delle relative norme di attuazione, nonche' del regolamento prospetto e delle disposizioni attuative; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    sospendere in via cautelare, per un periodo non superiore a novanta giorni, l'offerta avente ad oggetto prodotti finanziari diversi da quelli di cui alla lettera a), in caso di fondato sospetto di violazione delle disposizioni del presente Capo o delle relative norme di attuazione; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    vietare l'offerta nel caso di accertata violazione o di fondato sospetto che potrebbero essere violate le disposizioni del presente Capo o delle relative norme di attuazione, nonche' del regolamento prospetto e delle disposizioni attuative; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    vietare l'offerta in caso di accertata violazione dei provvedimenti di cui alle lettere a) o b); 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    rendere pubblico il fatto che l'offerente o l'emittente non ottempera ai propri obblighi; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    fermo restando il potere previsto nell'articolo 66-quater, comma 1, sospendere o imporre al gestore di una sede di negoziazione la sospensione in via cautelare, per un periodo non superiore a dieci giorni lavorativi consecutivi per ciascuna volta, delle negoziazioni in un mercato regolamentato, in un MTF o in un OTF in caso di fondato sospetto di violazione delle disposizioni del presente Capo o delle relative norme di attuazione, nonche' del regolamento prospetto e delle disposizioni attuative; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    fermo restando il potere previsto nell'articolo 66-quater, comma 1, vietare o imporre al gestore di una sede di negoziazione di vietare le negoziazioni in un mercato regolamentato, in un MTF o in un OTF in caso di accertata violazione delle disposizioni del presente Capo o delle relative norme di attuazione, oppure del regolamento prospetto e delle disposizioni attuative; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    sospendere il procedimento di approvazione del prospetto o sospendere o limitare l'offerta pubblica di strumenti finanziari nel caso in cui l'autorita' competente si avvalga del potere di imporre un divieto o una restrizione a norma dell'articolo 42 del regolamento (UE) n. 600/2014 del Parlamento europeo e del Consiglio, del 15 maggio 2014, fino a quando tale divieto o restrizione siano cessati; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    esercitare i poteri cautelari di cui all'articolo 37 del regolamento prospetto, nei casi ivi previsti; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    esigere che l'emittente o l'offerente includa nel prospetto informazioni supplementari, se e' necessario per la tutela degli investitori; 
+
+                                
+                            
+                            
+                                m)
+                                
+                                    fermo restando il potere previsto nell'articolo 66-quater, comma 1, sospendere o imporre ai gestori dei mercati regolamentati, degli MTF o degli OTF, di sospendere la negoziazione dei titoli se la situazione dell'emittente e' tale che la negoziazione pregiudicherebbe gli interessi degli investitori.
+
 ))
 
 ## Art. 100. — (( (Casi di esenzione). ))
@@ -5107,6 +11722,38 @@ Qualora sussista fondato sospetto di violazione delle disposizioni contenute nel
 Le disposizioni del presente Capo non si applicano alle offerte di cui all'articolo 1, paragrafo 2, lettere da b) a f), del regolamento prospetto.
 
 Sono esentate dall'obbligo di pubblicazione del prospetto, ove ricorrano le condizioni di cui all'articolo 3, paragrafo 2, del regolamento prospetto, le offerte di titoli di ammontare complessivo non superiore a quello indicato dalla Consob, comunque nei limiti di importo monetario compreso tra un minimo di 1 milione di euro e un massimo di 8 milioni di euro, con il regolamento di cui alla lettera c) del comma 3.
+
+3.
+                        
+                            
+                                Le disposizioni del presente Capo non si applicano alle offerte aventi ad oggetto prodotti finanziari diversi dai titoli e: 
+ 
+                            
+                            
+                                a)
+                                
+                                    rivolte ai soli investitori qualificati, come definiti dalla Consob con regolamento in base ai criteri fissati dalle disposizioni comunitarie; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    rivolte a un numero di soggetti non superiore a quello indicato dalla Consob con regolamento; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    di ammontare complessivo non superiore a quello indicato dalla Consob con regolamento; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    aventi ad oggetto strumenti del mercato monetario emessi da banche con una scadenza inferiore a dodici mesi.
 
 La Consob puo' individuare con regolamento le offerte al pubblico di prodotti finanziari diversi dai titoli alle quali le disposizioni del presente Capo non si applicano in tutto o in parte.
 
@@ -5119,6 +11766,35 @@ La Consob puo' individuare con regolamento le offerte al pubblico di prodotti fi
 ## Art. 100-ter. — (Offerte di crowdfunding)
 
 In deroga a quanto previsto dall'articolo 2468, primo comma, del codice civile, le quote di partecipazione in societa' a responsabilita' limitata possono costituire oggetto di offerta al pubblico di prodotti finanziari, anche attraverso le piattaforme di crowdfunding, nei limiti previsti dal regolamento (UE) 2020/1503.
+
+2.
+                        
+                            
+                                In alternativa a quanto stabilito dall'articolo 2470, secondo comma, del codice civile e dall'articolo 36, comma 1-bis, del decreto-legge 25 giugno 2008, n. 112, convertito, con modificazioni, dalla legge 6 agosto 2008, n. 133, ((nonche', limitatamente alle quote rappresentative del capitale di piccole e medie imprese, dall'articolo 26, comma 2-bis, del decreto-legge 18 ottobre 2012, n. 179, convertito, con modificazioni, dalla legge 17 dicembre 2012, n. 221,)) per la sottoscrizione e per la successiva alienazione di quote rappresentative del capitale di societa' a responsabilita' limitata: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la sottoscrizione puo' essere effettuata per il tramite di intermediari abilitati alla prestazione di uno o piu' dei servizi di investimento previsti dall'articolo 1, comma 5, lettere a), b), c), c-bis), ed e); gli intermediari abilitati effettuano la sottoscrizione delle quote in nome proprio e per conto dei sottoscrittori o degli acquirenti che abbiano aderito all'offerta di crowdfunding; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    entro i trenta giorni successivi alla chiusura dell'offerta, gli intermediari abilitati depositano al registro delle imprese una certificazione attestante la loro titolarita' di soci per conto di terzi, sopportandone il relativo costo; a tale fine, le condizioni di adesione pubblicate nella piattaforma di crowdfunding prevedono espressamente che l'adesione all'offerta di crowdfunding, in caso di buon fine della stessa e qualora l'investitore decida di avvalersi del regime alternativo di cui al presente comma, comporta il contestuale e obbligatorio conferimento di mandato agli intermediari incaricati affinche' i medesimi: 
+ 1) effettuino l'intestazione delle quote in nome proprio e per conto dei sottoscrittori, tenendo adeguata evidenza dell'identita' degli stessi e delle quote possedute; 
+ 2) rilascino, a richiesta del sottoscrittore o del successivo acquirente, una certificazione comprovante la titolarita' delle quote; tale certificazione ha natura di puro titolo di legittimazione per l'esercizio dei diritti sociali, e' nominativamente riferita al sottoscrittore, non e' trasferibile, neppure in via temporanea ne' a qualsiasi titolo, a terzi e non costituisce valido strumento per il trasferimento della proprieta' delle quote; 
+ 3) consentano ai sottoscrittori che ne facciano richiesta di alienare le quote secondo quanto previsto alla lettera c); 
+ 4) accordino ai sottoscrittori e ai successivi acquirenti la facolta' di richiedere, in ogni momento, l'intestazione diretta a se' stessi delle quote di loro pertinenza; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    l'alienazione delle quote da parte di un sottoscrittore o del successivo acquirente avviene mediante semplice annotazione del trasferimento nei registri tenuti dall'intermediario.
 
 La scritturazione e il trasferimento delle quote di cui al comma 2 non comportano costi o oneri ne' per l'acquirente ne' per l'alienante. La successiva certificazione effettuata dall'intermediario, ai fini dell'esercizio dei diritti sociali, sostituisce ed esaurisce le formalita' di cui all'articolo 2470, secondo comma, del codice civile.
 
@@ -5155,6 +11831,38 @@ Prima della pubblicazione del prospetto e' vietata la diffusione di qualsiasi an
 
 La pubblicita' relativa a un'offerta al pubblico di prodotti finanziari diversi dai titoli ((e dalle quote o azioni di OICR aperti)) e' effettuata secondo i criteri stabiliti dalla Consob con regolamento in conformita' alle disposizioni europee e, in ogni caso, avendo riguardo alla correttezza dell'informazione e alla sua coerenza con quella contenuta nel prospetto.
 
+4.
+                        
+                            
+                                La Consob puo': 
+ 
+                            
+                            
+                                a)
+                                
+                                    con riferimento all'offerta avente ad oggetto titoli, sospendere in via cautelare, per un periodo non superiore a dieci giorni lavorativi consecutivi per ciascuna occasione, la pubblicita', in caso di fondato sospetto di violazione delle disposizioni previste nei commi 1, 2 e 3, o delle relative norme di attuazione, nonche' del regolamento prospetto e delle disposizioni attuative ((e delle disposizioni previste dall'articolo 4 del regolamento (UE) 2019/1156)); 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    con riferimento all'offerta avente ad oggetto prodotti finanziari diversi da quelli di cui alla lettera a), sospendere in via cautelare, per un periodo non superiore a novanta giorni, la pubblicita' in caso di fondato sospetto di violazione delle disposizioni previste nei commi 1, 2 e 3, o delle relative norme di attuazione ((e delle disposizioni previste dall'articolo 4 del regolamento (UE) 2019/1156)); 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    vietare la pubblicita', in caso di accertata violazione delle disposizioni o delle norme indicate nelle lettere a) o b); 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    vietare l'esecuzione dell'offerta, in caso di mancata ottemperanza ai provvedimenti previsti dalle lettere a), b) o c).
+
 A prescindere dall'obbligo di pubblicazione di un prospetto, le informazioni rilevanti fornite dall'emittente o dall'offerente agli investitori qualificati o a categorie speciali di investitori, comprese le informazioni comunicate nel corso di riunioni riguardanti offerte di prodotti finanziari diversi dai titoli, devono essere divulgate a tutti gli investitori qualificati o a tutte le categorie speciali di investitori a cui l'offerta e' diretta in esclusiva.
 
 ## - CAPO II OFFERTE PUBBLICHE DI ACQUISTO O DI SCAMBIO Sezione I Disposizioni generali
@@ -5165,9 +11873,94 @@ Ai fini del presente capo si intendono per "societa' italiane quotate" le societ
 
 Ai fini del presente capo e dell'articolo 123-bis, per "titoli" si intendono gli strumenti finanziari che attribuiscono il diritto di voto, anche limitatamente a specifici argomenti, nell'assemblea ordinaria o straordinaria.
 
+3.
+                        
+                            
+                                Gli articoli 102, commi 2 e 5, l'articolo 103, comma 3-bis, ogni altra disposizione del presente decreto che pone a carico dell'offerente o della societa' emittente specifici obblighi informativi nei confronti dei dipendenti o dei loro rappresentanti, nonche' gli articoli 104, 104-bis e 104-ter, non si applicano alle: 
+ 
+                            
+                            
+                                a)
+                                
+                                    offerte pubbliche di acquisto o di scambio aventi ad oggetto prodotti finanziari diversi dai titoli; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    offerte pubbliche di acquisto o scambio che non hanno ad oggetto titoli che attribuiscono il diritto di voto sugli argomenti di cui all'articolo 105, commi 2 e 3; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    offerte pubbliche di acquisto o di scambio promosse da chi detiene individualmente, direttamente o indirettamente, la maggioranza dei diritti di voto esercitabili nell'assemblea ordinaria della societa'; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    offerte pubbliche di acquisto aventi ad oggetto azioni proprie.
+
 Salvo quanto previsto dal comma 3, la Consob puo' individuare con regolamento le offerte pubbliche di acquisto o di scambio, aventi ad oggetto prodotti finanziari diversi dai titoli, alle quali le disposizioni della presente Sezione non si applicano in tutto o in parte, ove cio' non contrasti con le finalita' indicate all'articolo 91.
 
 Per "persone che agiscono di concerto" si intendono i soggetti che cooperano tra di loro sulla base di un accordo, espresso o tacito, verbale o scritto, ancorche' invalido o inefficace, volto ad ((acquisire o rafforzare)) il controllo della societa' emittente o a contrastare il conseguimento degli obiettivi di un'offerta pubblica di acquisto o di scambio.
+
+4-bis.
+                        
+                            
+                                
+                                    ((I soggetti di seguito indicati si presumono persone che agiscono di concerto, ai sensi del comma 4, salvo che provino che non ricorrono le condizioni di cui al medesimo comma 4)): 
+ 
+                            
+                            
+                                a)
+                                
+                                    gli aderenti a un patto, anche nullo, previsto dall'articolo 122, comma 1 e comma 5 lettere a), b), c) e d); 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    un soggetto, il suo controllante, e le societa' da esso controllate; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    le societa' sottoposte a comune controllo; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    una societa' e i suoi amministratori, componenti del consiglio di gestione, o di sorveglianza o direttori generali;
+
+4-ter.
+                        
+                            
+                                
+                                    ((La)) Consob individua con regolamento: 
+ 
+                            
+                            
+                                a)
+                                
+                                    
+                                        ((gli ulteriori casi)) per i quali si presume che i soggetti coinvolti siano persone che agiscono di concerto ai sensi del comma 4, salvo che provino che non ricorrono le condizioni di cui al medesimo comma; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    i casi nei quali la cooperazione tra piu' soggetti non configura un'azione di concerto ai sensi del comma 4.
 
 ((Sono "parti interessate" l'offerente, l'emittente, i soggetti ad essi legati da rapporti di controllo, le societa' sottoposte a comune controllo con essi, le societa' ad essi collegate, i componenti dei relativi organi di amministrazione e controllo, i soci dell'offerente o dell'emittente aderenti a uno dei patti oggetto di comunicazione ai sensi dell'articolo 122 nonche' coloro che operano di concerto con l'offerente o l'emittente.))
 
@@ -5176,6 +11969,31 @@ Per "persone che agiscono di concerto" si intendono i soggetti che cooperano tra
 La Consob vigila sulle offerte pubbliche di acquisto o di scambio in conformita' alle disposizioni del presente capo.
 
 Ai fini del riparto delle competenze tra la Consob e le l'autorita' competente in relazione ad esse e' la Consob. l'autorita' competente in relazione ad esse e' la Consob. autorita' degli altri Stati ((dell'Unione europea)) con riguardo alle offerte pubbliche di acquisto o di scambio, aventi ad oggetto titoli di societa' regolate dal diritto di uno Stato ((dell'Unione europea)), e strumentali o successive all'acquisizione del controllo secondo il diritto nazionale della societa' emittente, si osservano le disposizioni seguenti.
+
+3.
+                        
+                            
+                                La Consob vigila sullo svolgimento delle offerte pubbliche: 
+ 
+                            
+                            
+                                a)
+                                
+                                    aventi a oggetto titoli emessi da una societa' la cui sede legale e' situata nel territorio italiano e ammessi alla negoziazione su uno o piu' mercati regolamentati italiani; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    aventi ad oggetto titoli emessi da una societa' la cui sede legale e' situata in uno Stato ((dell'Unione europea)) diverso dall'Italia e ammessi alla negoziazione esclusivamente su mercati regolamentati italiani; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    aventi ad oggetto titoli emessi da una societa' la cui sede legale e' situata in uno Stato ((dell'Unione europea)) diverso dall'Italia e ammessi alla negoziazione su mercati regolamentati italiani e di altri Stati ((dell'Unione europea)) diversi da quello dove la societa' ha la propria sede legale, qualora siano stati ammessi per la prima volta alla negoziazione su un mercato regolamentato italiano ovvero, qualora i titoli siano stati ammessi per la prima volta alla negoziazione contemporaneamente sui mercati regolamentati italiani e di altri Stati ((dell'Unione europea)), nel caso in cui la societa' emittente scelga la Consob quale autorita' di vigilanza, informandone i suddetti mercati e le loro autorita' di vigilanza il primo giorno della negoziazione. La Consob stabilisce con regolamento le modalita' e i termini per la comunicazione al pubblico della decisione della societa' emittente relativa alla scelta dell'autorita' competente per la vigilanza sull'offerta.
 
 Nei casi in cui la Consob sia l'autorita' di vigilanza competente ai sensi del comma 3, lettere b) e c), sono disciplinate dal diritto italiano le questioni inerenti al corrispettivo dell'offerta, alla procedura, con particolare riguardo agli obblighi di informazione sulla decisione dell'offerente di procedere all'offerta, al contenuto del documento di offerta e alla divulgazione dell'offerta. Per le questioni riguardanti l'informazione che deve essere fornita ai dipendenti della societa' emittente, per le questioni di diritto societario con particolare riguardo a quelle relative alla soglia al cui superamento consegue l'obbligo di offerta pubblica di acquisto, alle deroghe a tale obbligo ((, all'obbligo di acquisto, al diritto di acquisto)) e alle condizioni in presenza delle quali l'organo di amministrazione della societa' emittente puo' compiere atti od operazioni che possano contrastare il conseguimento degli obiettivi dell'offerta, le norme applicabili e l'autorita' competente sono quelle dello Stato membro in cui la societa' emittente ha la propria sede legale.
 
@@ -5197,6 +12015,31 @@ Limitatamente alle offerte pubbliche di scambio che abbiano ad oggetto obbligazi
 
 Non appena il documento sia stato reso pubblico, il consiglio di amministrazione o di gestione della societa' emittente e dell'offerente lo trasmettono ai rispettivi rappresentanti dei lavoratori o, in mancanza di rappresentanti, ai lavoratori stessi.
 
+6.
+                        
+                            
+                                In pendenza dell'offerta la Consob puo': 
+ 
+                            
+                            
+                                a)
+                                
+                                    sospenderla in via cautelare, in caso di fondato sospetto di violazione delle disposizioni del presente capo o delle norme regolamentari; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    sospenderla, per un termine non superiore a trenta giorni, nel caso intervengano fatti nuovi o non resi noti in precedenza tali da non consentire ai destinatari di pervenire ad un fondato giudizio sull'offerta; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    dichiararla decaduta, in caso di accertata violazione delle disposizioni o delle norme indicate nella lettera a).
+
 Ai fini dell'esercizio delle proprie funzioni di vigilanza sul rispetto delle disposizioni del presente capo, la Consob esercita i poteri previsti dall'articolo 115, comma 1, lettere a) e b), nei confronti di chiunque appaia informato dei fatti. In caso di fondato sospetto di violazione delle disposizioni del presente capo o delle norme regolamentari si applica l'articolo 187-octies.
 
 ((In presenza di notizie o indiscrezioni diffuse)) tra il pubblico in merito ad una possibile offerta pubblica di acquisto o scambio ((...)), ai potenziali offerenti si applica l'articolo 114, commi 5 e 6. ((La Consob puo' stabilire un termine entro il quale il potenziale offerente deve rendere nota al mercato la decisione di promuovere un'offerta. In caso di silenzio o diniego, l'offerente non puo' promuovere un'offerta avente a oggetto titoli del medesimo emittente nei successivi dodici mesi.))
@@ -5211,6 +12054,60 @@ Fermo quanto previsto dal titolo III, capo I, ((alle parti interessate)) nonche'
 Il consiglio di amministrazione dell'emittente diffonde un comunicato contenente ogni dato utile per l'apprezzamento dell'offerta e la propria valutazione sulla medesima. Per le societa' organizzate secondo il ((sistema con consiglio di sorveglianza)) il comunicato, eventualmente congiunto, e' approvato dal consiglio di gestione e dal consiglio di sorveglianza.
 
 Il comunicato contiene altresi' una valutazione degli effetti che l'eventuale successo dell'offerta avra' sugli interessi dell'impresa, nonche' sull'occupazione e la localizzazione dei siti produttivi. Contestualmente alla sua diffusione, il comunicato e' trasmesso ai rappresentanti dei lavoratori della societa' o, in loro mancanza, ai lavoratori direttamente. Se ricevuto in tempo utile, al comunicato e' allegato il parere dei rappresentanti dei lavoratori quanto alle ripercussioni sull'occupazione.
+
+4.
+                        
+                            
+                                La Consob detta con regolamento disposizioni di attuazione della presente sezione e, in particolare, disciplina: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il contenuto del documento d'offerta, nonche' le modalita' per la pubblicazione del documento e per lo svolgimento dell'offerta; 
+
+                                
+                            
+                            
+                                a-bis)
+                                
+                                    
+                                        ((la procedura di approvazione del documento di esenzione previsto dall'articolo 1, paragrafo 6-bis, del regolamento prospetto, qualora i titoli siano offerti come corrispettivo nell'ambito di un'offerta pubblica di scambio;))
+                                    
+                                
+                            
+                            
+                                b)
+                                
+                                    la correttezza e la trasparenza delle operazioni sui prodotti finanziari oggetto dell'offerta; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    gli effetti sul corrispettivo dell'offerta degli acquisti di prodotti finanziari che ne sono oggetto, effettuati dagli offerenti o dalle persone che agiscono di concerto con essi dopo la comunicazione di cui all'articolo 102, comma 1, in pendenza dell'offerta o nei sei mesi successivi alla chiusura di questa; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    le modifiche all'offerta, le offerte di aumento e quelle concorrenti, senza limitare il numero dei rilanci, effettuabili fino alla scadenza di un termine massimo; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    il riconoscimento dei documenti d'offerta approvati da autorita' di vigilanza di altri Stati ((dell'Unione europea)) o da autorita' di vigilanza di Stati extracomunitari con le quali vi siano accordi di cooperazione; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    le modalita' di pubblicazione dei provvedimenti da essa adottati ai sensi della presente sezione.
 
 COMMA ABROGATO DAL D.LGS. 19 NOVEMBRE 2007, N. 229.
 
@@ -5234,6 +12131,24 @@ L'avviso di convocazione relativo alle assemblee di cui al presente articolo e' 
 Fermo quanto previsto dall'articolo 123, comma 3, gli statuti delle societa' italiane quotate, diverse dalle societa' cooperative, possono prevedere che, quando sia promossa un'offerta pubblica di acquisto o di scambio avente ad oggetto i titoli da loro emessi si applichino le regole previste dai commi 2 e 3.
 
 Nel periodo di adesione all'offerta non hanno effetto nei confronti dell'offerente le limitazioni al trasferimento di titoli previste nello statuto ne' hanno effetto, nelle assemblee chiamate a decidere sugli atti e le operazioni previsti dall'articolo 104, le limitazioni al diritto di voto previste nello statuto o da patti parasociali. ((Nelle medesime assemblee le azioni a voto plurimo conferiscono soltanto un voto e non si computano i diritti di voto assegnati ai sensi dell'articolo 127-quinquies)).
+
+3.
+                        
+                            
+                                Quando, a seguito di un'offerta di cui al comma 1, l'offerente venga a detenere almeno il settantacinque per cento del capitale con diritto di voto nelle deliberazioni riguardanti la nomina o la revoca degli amministratori o dei componenti del consiglio di gestione o di sorveglianza, nella prima assemblea che segue la chiusura dell'offerta, convocata per modificare lo statuto o per revocare o nominare gli amministratori o i componenti del consiglio di gestione o di sorveglianza ((, le azioni a voto plurimo conferiscono soltanto un voto e)) non hanno effetto: 
+ 
+                            
+                            
+                                a)
+                                
+                                    le limitazioni al diritto di voto previste nello statuto o da patti parasociali; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    qualsiasi diritto speciale in materia di nomina o revoca degli amministratori o dei componenti del consiglio di gestione o di sorveglianza previsto nello statuto.
 
 Le disposizioni di cui ai commi 2 e 3 non si applicano alle limitazioni statutarie al diritto di voto attribuito da titoli dotati di privilegi di natura patrimoniale.
 
@@ -5282,6 +12197,45 @@ Per ciascuna categoria di titoli, l'offerta e' promossa entro venti giorni a un 
 
 Il corrispettivo dell'offerta puo' essere costituito in tutto o in parte da titoli. Nel caso in cui i titoli offerti quale corrispettivo dell'offerta non siano ammessi alla negoziazione su di un mercato regolamentato in uno Stato ((dell'Unione europea)) ovvero l'offerente o le persone che agiscono di concerto con questi, abbia acquistato verso un corrispettivo in denaro, nel periodo di cui al comma 2 e fino alla chiusura dell'offerta, titoli che conferiscono almeno il cinque per cento dei diritti di voto esercitabili nell'assemblea della societa' i cui titoli sono oggetto di offerta, l'offerente deve proporre ai destinatari dell'offerta, almeno in alternativa al corrispettivo in titoli, un corrispettivo in contanti.
 
+3.
+                        
+                            
+                                La Consob disciplina con regolamento le ipotesi in cui: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la partecipazione indicata ((nel comma 1)) e' acquisita mediante l'acquisto di partecipazioni o la maggiorazione dei diritti di voto, in societa' il cui patrimonio e' prevalentemente costituito da titoli emessi da altra societa' di cui all'articolo 105, comma 1; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    
+                                        ((l'obbligo di offerta consegue ad acquisti ovvero a maggiorazione dei diritti di voto superiori al 10 per cento del numero complessivo dei diritti di voto da parte di coloro che gia' detengono la partecipazione indicata nel comma 1 senza detenere la maggioranza dei diritti di voto nell'assemblea ordinaria;))
+                                    
+                                
+                            
+                            
+                                c)
+                                
+                                    l'offerta, previo provvedimento motivato della Consob, e' promossa ad un prezzo inferiore a quello piu' elevato pagato, fissando i criteri per determinare tale prezzo e purche' ricorra una delle seguenti circostanze: 
+ 1) i prezzi di mercato siano stati influenzati da eventi eccezionali o vi sia il fondato sospetto che siano stati oggetto di manipolazione; 
+ 2) il prezzo piu' elevato pagato dall'offerente o dalle persone che agiscono di concerto con il medesimo nel periodo di cui al comma 2 sia il prezzo di operazioni di compravendita sui titoli oggetto dell'offerta effettuate a condizioni di mercato e nell'ambito della gestione ordinaria della propria attivita' caratteristica ovvero sia il prezzo di operazioni di compravendita che avrebbero beneficiato di una delle esenzioni di cui al comma 5; (25) 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    l'offerta, previo provvedimento motivato della Consob, e' promossa ad un prezzo superiore a quello piu' elevato pagato purche' cio' sia necessario per la tutela degli investitori e ricorra almeno una delle seguenti circostanze: 
+ 1) l'offerente o le persone che agiscono di concerto con il medesimo abbiano pattuito l'acquisto di titoli ad un prezzo piu' elevato di quello pagato per l'acquisto di titoli della medesima categoria; 
+ 2) vi sia stata collusione tra l'offerente o le persone che agiscono di concerto con il medesimo e uno o piu' venditori; 
+ 3) NUMERO ABROGATO DAL D.LGS. 25 SETTEMBRE 2009, N. 146; 
+ 4) vi sia il fondato sospetto che i prezzi di mercato siano stati oggetto di manipolazione. (25)
+
 La Consob, tenuto conto delle caratteristiche degli strumenti finanziari emessi, puo' stabilire con regolamento le ipotesi in cui l'obbligo di offerta consegue ad acquisti che determinino la detenzione congiunta di titoli e altri strumenti finanziari con diritto di voto sugli argomenti indicati nell'articolo 105, in misura tale da attribuire un potere complessivo di voto equivalente a quella di chi detenga ((la partecipazione indicata nel comma 1.))
 
 I provvedimenti di cui alle lettere c) e d) del comma 3 sono resi pubblici con le modalita' indicate nel regolamento di cui all'articolo 103, comma 4, lettera f).
@@ -5289,6 +12243,53 @@ I provvedimenti di cui alle lettere c) e d) del comma 3 sono resi pubblici con l
 L'obbligo di offerta previsto dal comma 3, lettera b), non si applica alle PMI, a condizione che cio' sia previsto dallo statuto, sino alla data dell'assemblea convocata per approvare il bilancio relativo al quinto esercizio successivo alla quotazione.
 
 L'obbligo di offerta non sussiste se la partecipazione indicata ((nel comma 1)) e' detenuta a seguito di un'offerta pubblica di acquisto o di scambio rivolta a tutti i possessori di titoli per la totalita' dei titoli in loro possesso, purche', nel caso di offerta pubblica di scambio, siano offerti titoli ((ammessi alla negoziazione)) in un mercato regolamentato di uno Stato comunitario o sia offerto come alternativa un corrispettivo in ((denaro)).
+
+5.
+                        
+                            
+                                La Consob stabilisce con regolamento i casi in cui il superamento ((della partecipazione indicata nel comma 1)) o nel comma 3, lettera b), non comporta l'obbligo di offerta ove sia realizzato in presenza di uno o piu' soci che detengono il controllo o sia determinato da: 
+ 
+                            
+                            
+                                a)
+                                
+                                    operazioni dirette al salvataggio di societa' in crisi; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    trasferimento dei titoli previsti dall'articolo 105 tra soggetti legati da rilevanti rapporti di partecipazione; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    cause indipendenti dalla volonta' dell'acquirente; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    operazioni ovvero superamenti della soglia di carattere temporaneo; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    
+                                        ((operazioni di fusione, di scissione o di conferimento in natura;))
+                                    
+                                
+                            
+                            
+                                f)
+                                
+                                    acquisti a titolo gratuito.
 
 L'obbligo di offerta non sussiste se le soglie sono superate per effetto della maggiorazione dei diritti di voto conseguente a un'operazione di fusione, trasformazione transfrontaliera o scissione proporzionale realizzata ai sensi del decreto legislativo 2 marzo 2023, n. 19, laddove in ciascuno dei suddetti casi non vi sia una modifica del rapporto di controllo, diretto o indiretto, sulla societa' risultante da dette operazioni.
 
@@ -5301,7 +12302,56 @@ La Consob puo' con provvedimento motivato, disporre che il superamento ((della p
 
 ## Art. 107. — Offerta pubblica di acquisto preventiva
 
-, anche i soci che non vi aderiscono.)) Possono esprimere il proprio giudizio sull'offerta ai sensi del comma 1, lettera b), anche i soci che non vi aderiscono.
+1.
+                        
+                            
+                                Oltre che nei casi indicati nell'articolo 106, commi 4 e 5, l'obbligo di offerta pubblica previsto dal medesimo articolo, commi 1 e 3, non sussiste se la partecipazione viene a essere detenuta a seguito di un'offerta pubblica di acquisto o di scambio avente a oggetto almeno il ((cinquanta per cento)) dei titoli di ciascuna categoria , ove ricorrano congiuntamente le seguenti condizioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    l'offerente e le persone che agiscono di concerto con lui, non abbiano acquistato partecipazioni in misura superiore all'uno per cento, anche mediante contratti a termine con scadenza successiva, nei dodici mesi precedenti la comunicazione alla CONSOB prevista dall'articolo 102, comma 1, ne' durante l'offerta; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'efficacia dell'offerta sia stata condizionata all'approvazione di tanti possessori di titoli che possiedano la maggioranza dei titoli stessi , escluse dal computo i titoli detenuti , in conformita' dei criteri stabiliti ai sensi dell'articolo 120, comma 4, lettera b), dall'offerente, dal socio di maggioranza, anche relativa, se la sua partecipazione sia superiore al dieci per cento, e dai soggetti a essi legati da uno dei rapporti indicati 101-bis, comma 4; (31) 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    la CONSOB accordi l'esenzione, previa verifica della sussistenza delle condizioni indicate nelle lettere a) e b).
+
+((La Consob stabilisce con regolamento le modalita' di approvazione dell'offerta, prevedendo l'uso di comunicazioni elettroniche da parte degli intermediari depositari delle azioni, salva diversa volonta' dei titolari dei conti indicati nell'articolo 83-quater, comma 3. Tali comunicazioni consentono ai titolari di esprimere il proprio giudizio sull'offerta in via telematica. Possono esprimere il proprio giudizio sull'offerta ai sensi del comma 1, lettera b), anche i soci che non vi aderiscono.)) Possono esprimere il proprio giudizio sull'offerta ai sensi del comma 1, lettera b), anche i soci che non vi aderiscono.
+
+3.
+                        
+                            
+                                L'offerente e' tenuto a promuovere l'offerta pubblica prevista dall'articolo 106 se, nei ((sei mesi)) successivi alla chiusura dell'offerta preventiva: 
+ 
+                            
+                            
+                                a)
+                                
+                                    l'offerente medesimo o persone che agiscono di concerto con esso, abbiano effettuato acquisti di partecipazioni in misura superiore all'uno per cento, anche mediante contratti a termine con scadenza successiva; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la societa' emittente abbia deliberato operazioni di fusione o di scissione ((da cui consegua la revoca dalla quotazione)). 
+ 
+----------------
+
+ 
+AGGIORNAMENTO (31) 
+ Il D.Lgs. 25 settembre 2009, n. 146 ha disposto (con l'art. 2, comma 3, lettera b)) che al comma 1, lettera b), del presente articolo, le parole: "dai soggetti ad esso legati da uno dei rapporti, indicati nell'articolo 101-bis, comma 4" sono sostituite dalle seguenti: "dalle persone che agiscono di concerto con lui".
 
 ## Art. 108. — (Obbligo di acquisto).
 
@@ -5317,6 +12367,31 @@ Al di fuori dei casi di cui al comma 3, il corrispettivo e' determinato dalla Co
 Nell'ipotesi di cui al comma 1, nonche' nei casi di cui al comma 2 in cui la partecipazione ivi indicata siaraggiunta esclusivamente a seguito di offerta pubblica totalitaria, il corrispettivo assume la stessa forma ((di quello dell'offerta. Nel caso in cui in tale offerta siano offerti strumenti finanziari diversi da titoli ammessi alla negoziazione su un mercato regolamentato dell'Unione europea,)) il possessore dei titoli puo' sempre esigere che gli sia corrisposto in misura integrale un corrispettivo ((in denaro)), determinato in base a criteri generali definiti dalla Consob con regolamento.
 
 Se il corrispettivo offerto e' pari a quello proposto nell'offerta precedente l'obbligo puo' essere adempiuto attraverso una riapertura dei termini della stessa.
+
+7.
+                        
+                            
+                                La Consob detta con regolamento norme di attuazione del presente articolo riguardanti in particolare: 
+ 
+                            
+                            
+                                a)
+                                
+                                    gli obblighi informativi connessi all'attuazione del presente articolo; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    i termini entro i quali i possessori dei titoli residui possono richiedere di cedere i suddetti titoli; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    la procedura da seguire per la determinazione del prezzo.
 
 ## Art. 109. — (Acquisto di concerto).
 
@@ -5362,7 +12437,102 @@ Il trasferimento ha efficacia dal momento della comunicazione dell'avvenuto depo
 
 ((L'organo amministrativo redige una relazione illustrativa contenente ogni dato utile per l'apprezzamento della proposta di acquisto, le proprie valutazioni e il parere motivato degli amministratori indipendenti sulla proposta e sulla congruita' del corrispettivo. La relazione illustrativa e' notificata, entro venti giorni dalla comunicazione di cui al comma 3, alla Consob, che ne verifica la conformita' a quanto stabilito dal regolamento di cui al comma 7, lettera a). Decorso il termine di quindici giorni dalla notifica, la relazione e' messa a disposizione del pubblico con le modalita' previste nel regolamento di cui al comma 7. Tra la data della pubblicazione della relazione illustrativa e l'assemblea straordinaria non possono decorrere meno di trenta giorni. In ogni caso, nell'ipotesi in cui, per l'acquisto totalitario, la normativa di settore richieda autorizzazioni delle autorita' competenti, l'assemblea straordinaria non puo' adottare la deliberazione di cui al comma 5 se non constino le predette autorizzazioni.))
 
+5.
+                        
+                            
+                                
+                                    ((L'assemblea straordinaria delibera la cessione di cui al comma 1 con il voto favorevole di almeno tre quarti del capitale sociale rappresentato in assemblea. La deliberazione richiede, altresi', il voto favorevole della maggioranza dei soci dell'emittente, presenti in assemblea, diversi:))
+                                
+                            
+                            
+                                a)
+                                
+                                    
+                                        ((dal socio che abbia presentato la proposta e dalle persone che agiscono di concerto con il medesimo, se gia' azionisti della societa';))
+                                    
+                                
+                            
+                            
+                                b)
+                                
+                                    
+                                        ((dal socio o dai soci che detengano, anche di concerto tra loro, la partecipazione di maggioranza anche relativa purche' superiore a un decimo del capitale sociale.))
+
 ((Le limitazioni al diritto di voto previste nei patti parasociali non hanno effetto nelle assemblee chiamate a deliberare ai sensi del comma 5. La deliberazione deve risultare da verbale redatto da un notaio ed e' depositata e iscritta a norma dell'articolo 2436 del codice civile. Il trasferimento delle azioni ha effetto con l'iscrizione della deliberazione nel registro delle imprese o alla diversa data stabilita nella deliberazione stessa, previa comunicazione dell'avvenuto deposito del prezzo di acquisto presso una banca alla societa' emittente, che provvede alle conseguenti annotazioni nel libro dei soci. Le limitazioni al trasferimento delle azioni previste nello statuto e nei patti parasociali non hanno effetto nei confronti dell'acquirente.))
+
+7.
+                        
+                            
+                                
+                                    ((La Consob detta con regolamento disposizioni di attuazione del presente articolo. In particolare, la Consob disciplina con regolamento:))
+                                
+                            
+                            
+                                a)
+                                
+                                    
+                                        ((il contenuto della comunicazione e del parere degli amministratori indipendenti di cui al comma 3, il contenuto della relazione illustrativa di cui al comma 4 e le relative modalita' di pubblicazione;))
+                                    
+                                
+                            
+                            
+                                b)
+                                
+                                    
+                                        ((le garanzie di esatto adempimento che devono essere fornite dall'acquirente;))
+                                    
+                                
+                            
+                            
+                                c)
+                                
+                                    
+                                        ((le ipotesi in cui tra la data della comunicazione di cui al comma 3 e il giorno antecedente l'assemblea straordinaria sia promossa un'offerta pubblica di acquisto sulle medesime azioni della societa';))
+                                    
+                                
+                            
+                            
+                                d)
+                                
+                                    
+                                        ((i presidi di correttezza e di trasparenza delle operazioni sulle azioni oggetto di cessione;))
+                                    
+                                
+                            
+                            
+                                e)
+                                
+                                    
+                                        ((gli effetti sul corrispettivo della proposta degli acquisti di azioni che ne sono oggetto, effettuati dall'acquirente o dalle persone che agiscono di concerto con esso dalla comunicazione di cui al comma 3.))
+
+8.
+                        
+                            
+                                
+                                    ((In pendenza della procedura di vendita totalitaria la Consob puo':))
+                                
+                            
+                            
+                                a)
+                                
+                                    
+                                        ((sospenderla in via cautelare, in caso di fondato sospetto di violazione delle disposizioni del presente articolo o delle norme regolamentari;))
+                                    
+                                
+                            
+                            
+                                b)
+                                
+                                    
+                                        ((sospenderla, per un termine non superiore a trenta giorni, nel caso intervengano fatti nuovi o non resi noti in precedenza tali da non consentire ai destinatari di pervenire ad un giudizio informato sulla proposta;))
+                                    
+                                
+                            
+                            
+                                c)
+                                
+                                    
+                                        ((dichiararla decaduta, in caso di accertata violazione delle disposizioni o delle norme indicate nella lettera a).))
 
 ((La Consob puo' imporre che l'acquisto avvenga a un prezzo superiore a quello determinato nella proposta anche se formulata ai sensi del comma 2, quando vi sia stata collusione tra il potenziale acquirente o le persone che agiscono di concerto con il medesimo e uno o piu' soci della societa' le cui azioni formano oggetto dell'acquisto, oppure nei casi in cui vi sia il fondato sospetto che i prezzi di mercato siano stati oggetto di manipolazione.))
 
@@ -5386,6 +12556,87 @@ Il trasferimento ha efficacia dal momento della comunicazione dell'avvenuto depo
 
 L'ammissione alle negoziazioni di titoli in un mercato regolamentato e' disciplinata dal regolamento prospetto e dalle disposizioni attuative, nonche' del presente articolo. Si applicano, anche nei confronti della persona che chiede l'ammissione alle negoziazioni, gli articoli 94, commi 3, 5, 6, 8 e 9, 95, comma 1, lettera a), e 95, comma 2.
 
+2.
+                        
+                            
+                                La Consob puo': 
+ 
+                            
+                            
+                                a)
+                                
+                                    esigere che gli emittenti o le persone che chiedono l'ammissione alla negoziazione in un mercato regolamentato includano nel prospetto informazioni supplementari, se e' necessario per la tutela degli investitori; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    sospendere il procedimento di approvazione dei prospetti o sospendere o limitare l'ammissione alla negoziazione in un mercato regolamentato nel caso in cui l'autorita' competente si avvalga del potere di imporre un divieto o una restrizione a norma dell'articolo 42 del regolamento (UE) n. 600/2014 del Parlamento europeo e del Consiglio, del 15 maggio 2014, fino a quando tale divieto o restrizione siano cessati; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    esercitare i poteri cautelari di cui all'articolo 37 del regolamento prospetto, nei casi ivi previsti; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    vietare l'ammissione alla negoziazione in un mercato regolamentato in caso di accertata violazione o di fondato sospetto di violazione delle disposizioni del presente articolo o delle relative disposizioni di attuazione, oppure delle disposizioni europee di cui al comma 1; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    fermo restando il potere previsto nell'articolo 66-quater, comma 1, sospendere o imporre ai gestori dei mercati regolamentati, degli MTF o degli OTF di sospendere la negoziazione dei titoli se la situazione dell'emittente e' tale che la negoziazione pregiudicherebbe gli interessi degli investitori; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    esercitare i poteri previsti negli articoli 114, commi 5 e 6, e 115, nei confronti dell'emittente, della persona che chiede l'ammissione alle negoziazioni, e i poteri previsti nell'articolo 115 nei confronti delle persone che li controllano o che sono da essi controllati, dei revisori legali e dei dirigenti dell'emittente o della persona che chiede l'ammissione alle negoziazioni, nonche' degli intermediari finanziari incaricati della domanda di ammissione alla negoziazione in un mercato regolamentato; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    sospendere l'ammissione alle negoziazioni in un mercato regolamentato per un massimo di dieci giorni lavorativi consecutivi per ciascuna volta in caso di fondato sospetto di violazione delle disposizioni indicate nel presente articolo, delle relative norme di attuazione, o delle disposizioni europee di cui al comma 1; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    fermo restando il potere previsto nell'articolo 66-quater, comma 1, sospendere o imporre al gestore della sede di negoziazione la sospensione, per un periodo non superiore a dieci giorni lavorativi consecutivi per ciascuna occasione, delle negoziazioni in un mercato regolamentato, in un MTF o in un OTF in caso di fondato sospetto di violazione delle disposizioni indicate nel presente articolo, delle relative norme di attuazione, o delle disposizioni europee di cui al comma 1; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    fermo restando il potere previsto nell'articolo 66-quater, comma 1, vietare o chiedere al gestore della sede di negoziazione di vietare le negoziazioni in un mercato regolamentato, in un MTF, o in un OTF in caso di accertata violazione delle disposizioni indicate nel presente articolo, delle relative norme di attuazione, o delle disposizioni europee di cui al comma 1; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    rendere pubblico il fatto che l'emittente o la persona che chiede l'ammissione alle negoziazioni non ottempera ai propri obblighi; 
+
+                                
+                            
+                            
+                                m)
+                                
+                                    richiedere, anche in via generale, agli intermediari incaricati della domanda di ammissione a negoziazione in un mercato regolamentato, di dichiarare alla Consob di non essere a conoscenza di informazioni diverse da quelle contenute nel prospetto di ammissione alla negoziazione dei titoli.
+
 Alla pubblicita' relativa ad un'ammissione di titoli alla negoziazione in un mercato regolamentato si applica l'articolo 101, comma 4.
 
 ))
@@ -5393,6 +12644,31 @@ Alla pubblicita' relativa ad un'ammissione di titoli alla negoziazione in un mer
 ## Art. 113-bis. — Ammissione alle negoziazioni di quote o azioni di OICR aperti
 
 Prima della data stabilita per l'inizio delle negoziazioni delle quote o azioni di OICR aperti in un mercato regolamentato l'emittente pubblica un prospetto contenente le informazioni indicate nell'articolo 98-ter.
+
+2.
+                        
+                            
+                                La Consob: 
+ 
+                            
+                            
+                                a)
+                                
+                                    determina con regolamento i contenuti del prospetto e le relative modalita' di pubblicazione ferma restando la necessita' di pubblicazione tramite mezzi di informazione su giornali quotidiani nazionali, e di aggiornamento del prospetto dettando specifiche disposizioni per i casi in cui l'ammissione alla quotazione in un mercato regolamentato avvenga simultaneamente ad un'offerta al pubblico; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    puo' indicare all'emittente informazioni integrative da inserire nel prospetto e specifiche modalita' di pubblicazione; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    detta disposizioni per coordinare le funzioni della societa' di gestione del mercato con quelle proprie e, su richiesta di questa, puo' affidarle compiti inerenti al controllo del prospetto tenuto anche conto delle caratteristiche dei singoli mercati.
 
 Il prospetto approvato dall'autorita' competente di un altro Stato membro dell'Unione europea e' riconosciuto dalla Consob, con le modalita' e alle condizioni stabilite nel regolamento previsto dal comma 2, quale prospetto per l'ammissione alle negoziazioni in un mercato regolamentato. La Consob puo' richiedere ((alla societa' di gestione del mercato informazioni sugli OICR aperti, anche in forma continuativa, prima della data stabilita per l'inizio delle negoziazioni)).
 
@@ -5406,11 +12682,93 @@ Le informazioni regolamentate sono depositate presso la Consob e il gestore del 
 
 La Consob, nell'esercizio dei poteri ad essa attribuiti dal presente Titolo, stabilisce modalita' e termini di diffusione al pubblico delle informazioni regolamentate, ferma restando la necessita' di pubblicazione tramite mezzi di informazione su giornali quotidiani nazionali, tenuto conto della natura di tali informazioni, al fine di assicurarne un accesso rapido, non discriminatorio e ragionevolmente idoneo a garantirne l'effettiva diffusione in tutta la Comunita' europea.
 
+4.
+                        
+                            
+                                La Consob: 
+ 
+                            
+                            
+                                a)
+                                
+                                    autorizza soggetti terzi rispetto all'emittente all'esercizio dei servizi di diffusione delle informazioni regolamentate; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    autorizza il servizio di stoccaggio centralizzato delle informazioni regolamentate; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    organizza e gestisce il servizio di stoccaggio centralizzato delle informazioni in assenza di soggetti autorizzati ai sensi della lettera b).
+
+5.
+                        
+                            
+                                La Consob, in relazione alle informazioni regolamentate, stabilisce con regolamento: 
+ 
+                            
+                            
+                                a)
+                                
+                                    modalita' e termini per il deposito di cui al comma 2 ((, tenendo conto della necessita' di minimizzare gli oneri legati all'adempimento del deposito e verificando, nel contesto della revisione periodica prevista dall'articolo 23 della legge 28 dicembre 2005, n. 262, la disponibilita' di tecnologie che riducano tali oneri anche in considerazione dell'accessibilita' delle informazioni per il tramite del punto di accesso unico europeo (ESAP) previsto dal regolamento (UE) 2023/2859 del Parlamento europeo e del Consiglio, del 13 dicembre 2023)); 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    requisiti e condizioni per il rilascio dell'autorizzazione all'esercizio del servizio di diffusione, nonche' disposizioni per lo svolgimento di tale attivita', avendo riguardo agli obiettivi di cui al comma 3; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    requisiti e condizioni per il rilascio dell'autorizzazione all'esercizio del servizio di stoccaggio, nonche' disposizioni per lo svolgimento di tale attivita' che garantiscano sicurezza, certezza delle fonti d'informazione, registrazione dell'ora e della data della ricezione delle informazioni regolamentate, agevole accesso per gli utenti finali, procedure allineate con quelle previste per il deposito presso la Consob; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    la lingua in cui devono essere comunicate ((, tenendo conto della lingua comunemente utilizzata nel mondo della finanza internazionale anche al fine di ridurre al minimo gli oneri connessi alla comunicazione)); 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    eventuali esenzioni dagli obblighi di deposito, diffusione e stoccaggio in conformita' alla disciplina comunitaria.
+
 Se un soggetto ha chiesto, senza il consenso dell'emittente, l'ammissione alla negoziazione in un mercato regolamentato di valori mobiliari o quote di fondi chiusi, gli obblighi di comunicazione delle informazioni regolamentate sono osservati da tale soggetto, salvo il caso in cui l'emittente comunica al pubblico, ai sensi delle disposizioni del proprio Stato di origine, le informazioni regolamentate richieste dalla normativa comunitaria.
 
 I soggetti tenuti alla comunicazione al pubblico delle informazioni regolamentate non possono esigere corrispettivi per tale comunicazione.
 
 La Consob puo' rendere pubblico il fatto che i soggetti tenuti alla comunicazione delle informazioni regolamentate non ottemperano ai loro obblighi.
+
+9.
+                        
+                            
+                                Fermo restando quanto previsto dall'articolo 66-quater, comma 1, la Consob puo': 
+ 
+                            
+                            
+                                a)
+                                
+                                    sospendere o richiedere che il mercato regolamentato interessato sospenda la negoziazione dei valori mobiliari o quote di fondi chiusi per un massimo di dieci giorni per volta, se ha motivi ragionevoli di sospettare che le disposizioni relative alle informazioni regolamentate siano state violate dal soggetto obbligato, ai sensi del presente articolo, alla comunicazione delle informazioni regolamentate; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    proibire la negoziazione in un mercato regolamentato se accerta che le disposizioni indicate alla lettera a) sono state violate.
 
 ## Art. 114. — (Comunicazioni al pubblico)
 
@@ -5432,6 +12790,33 @@ COMMA ABROGATO DAL D.LGS. 10 AGOSTO 2018, N. 107.
 
 Al fine di garantire che il pubblico sia correttamente informato, la Consob puo' richiedere la pubblicazione delle raccomandazioni in materia di investimenti e delle altre informazioni che raccomandano o consigliano una strategia di investimento da parte degli emittenti quotati, dei soggetti abilitati, nonche' dei soggetti in rapporto di controllo con essi, secondo le modalita' stabilite con regolamento.
 
+10.
+                        
+                            
+                                La Consob valuta, preventivamente e in via generale, con le modalita' da essa stabilite, la sussistenza delle condizioni indicate dall'articolo 20, paragrafo 3, quarto comma, del regolamento (UE) n. 596/2014, con riguardo alle norme di autoregolamentazione dei soggetti che esercitano l'attivita' giornalistica, e comunica il relativo esito, nonche' le medesime norme di autoregolamentazione, al Ministero dell'economia e delle finanze. 
+ 11.COMMA ABROGATO DAL D.LGS. 10 AGOSTO 2018, N. 107. 
+ 12. Le disposizioni del presente articolo si applicano anche ai soggetti italiani ed esteri che: 
+ 
+                            
+                            
+                                a)
+                                
+                                    hanno chiesto o autorizzato l'ammissione di strumenti finanziari di propria emissione alla negoziazione su un mercato regolamentato italiano; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    hanno chiesto o autorizzato la negoziazione degli strumenti finanziari di propria emissione su un sistema multilaterale di negoziazione italiano; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    hanno autorizzato la negoziazione degli strumenti finanziari di propria emissione su un sistema organizzato di negoziazione italiano.
+
 ---------------
                             AGGIORNAMENTO (73)
                             
@@ -5439,11 +12824,97 @@ Al fine di garantire che il pubblico sia correttamente informato, la Consob puo'
 
 ## Art. 114-bis. — Informazione al mercato in materia di attribuzione di strumenti finanziari a esponenti aziendali, dipendenti o collaboratori).
 
+1.
+                        
+                            
+                                
+                                    ((Negli emittenti quotati, i piani di compensi)) basati su strumenti finanziari a favore di componenti del consiglio di amministrazione ovvero del consiglio di gestione, di dipendenti o di collaboratori non legati alla societa' da rapporti di lavoro subordinato, ovvero di componenti del consiglio di amministrazione ovvero del consiglio di gestione, di dipendenti o di collaboratori di altre societa' controllanti o controllate sono approvati dall'assemblea ordinaria dei soci. Nei termini e con le modalita' previsti dall'articolo 125-ter, comma 1, l'emittente mette a disposizione del pubblico la relazione con le informazioni concernenti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    le ragioni che motivano l'adozione del piano; 
 
+                                
+                            
+                            
+                                b)
+                                
+                                    i componenti del consiglio di amministrazione ovvero del consiglio di gestione della societa', delle controllanti o controllate, che beneficiano del piano; 
+
+                                
+                            
+                            
+                                b-bis)
+                                
+                                    le categorie di dipendenti, o di collaboratori della societa' e delle societa' controllanti o controllate della societa', che beneficiano del piano; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    le modalita' e le clausole di attuazione del piano, specificando se la sua attuazione e' subordinata al verificarsi di condizioni e, in particolare, al conseguimento di risultati determinati; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    l'eventuale sostegno del piano da parte del Fondo speciale per l'incentivazione della partecipazione dei lavoratori nelle imprese, di cui all'articolo 4, comma 112, della legge 24 dicembre 2003, n. 350; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    le modalita' per la determinazione dei prezzi o dei criteri per la determinazione dei prezzi per la sottoscrizione o per l'acquisto delle azioni; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    i vincoli di disponibilita' gravanti sulle azioni ovvero sui diritti di opzione attribuiti, con particolare riferimento ai termini entro i quali sia consentito o vietato il successivo trasferimento alla stessa societa' o a terzi.
+
+((COMMA ABROGATO DALLA L. 5 MARO 2024, N. 21)).
 
 La Consob definisce con proprio regolamento le informazioni, relative agli elementi indicati nel comma 1, che devono essere fornite in relazione alle varie modalita' di realizzazione del piano, prevedendo informazioni piu' dettagliate per piani di particolare rilevanza.
 
 ## Art. 115. — Comunicazioni alla CONSOB
+
+1.
+                        
+                            
+                                La CONSOB, al fine di vigilare sulla correttezza delle informazioni fornite al pubblico puo', anche in via generale; 
+ 
+                            
+                            
+                                a)
+                                
+                                    richiedere agli emittenti quotati, agli emittenti quotati aventi l'Italia come Stato membro d'origine, ai soggetti che li controllano e alle societa' dagli stessi controllate, la comunicazione di notizie e documenti, fissandone le relative modalita'; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    assumere notizie, anche mediante la loro audizione, dai componenti degli organi sociali, dai direttori generali, dai dirigenti preposti alla redazione dei documenti contabili societari e dagli altri dirigenti, dai revisori legali e dalle societa' di revisione legale, dalle societa' e dai soggetti indicati nella lettera a); 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    eseguire ispezioni presso i soggetti indicati nelle lettere a) e b), al fine di controllare i documenti aziendali e di acquisirne copia; 
+
+                                
+                            
+                            
+                                c-bis)
+                                
+                                    esercitare gli ulteriori poteri previsti dall'articolo 187-octies.
 
 I poteri previsti dalle lettere a), b) e c) possono essere esercitati nei confronti dei soggetti che detengono una partecipazione rilevante ai sensi dell'articolo 120 o che partecipano a un patto previsto dall'articolo 122.
 
@@ -5542,6 +13013,101 @@ Coloro che partecipano in un emittente azioni quotate avente l'Italia come Stato
 
 COMMA ABROGATO DAL D.LGS. 11 OTTOBRE 2012, N. 184.
 
+4.
+                        
+                            
+                                La CONSOB, tenuto anche conto delle caratteristiche degli investitori, stabilisce con regolamento: 
+ 
+                            
+                            
+                                a)
+                                
+                                    le variazioni delle partecipazioni indicate nel comma 2 che comportano obbligo di comunicazione; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    i criteri per il calcolo delle partecipazioni, avendo riguardo anche alle partecipazioni indirettamente detenute, alle ipotesi in cui il diritto di voto spetta o e' attribuito a soggetto diverso dal socio nonche' a quelle di maggiorazione dei diritti di voto; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il contenuto e le modalita' delle comunicazioni e dell'informazione del pubblico, nonche' le eventuali deroghe per quest'ultima; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    i termini per la comunicazione e per l'informazione del pubblico; 
+
+                                
+                            
+                            
+                                d-bis)
+                                
+                                    i casi in cui le comunicazioni sono dovute dai possessori di strumenti finanziari dotati dei diritti previsti dall'articolo 2351, ultimo comma, del codice civile. 
+
+                                
+                            
+                            
+                                d-ter)
+                                
+                                    i casi in cui la detenzione di strumenti finanziari derivati determina obblighi di comunicazione; 
+
+                                
+                            
+                            
+                                d-quater)
+                                
+                                    le ipotesi di esenzione dall'applicazione delle presenti disposizioni.
+
+4-bis.
+                        
+                            
+                                In occasione dell'acquisto di una partecipazione in emittenti quotati pari o superiore alle soglie del 10 per cento, 20 per cento e 25 per cento del relativo capitale ((...)) il soggetto che effettua le comunicazioni di cui ai commi 2 e seguenti del presente articolo deve dichiarare gli obiettivi che ha intenzione di perseguire nel corso dei sei mesi successivi. Nella dichiarazione sono indicati sotto la responsabilita' del dichiarante: 
+ 
+                            
+                            
+                                a)
+                                
+                                    i modi di finanziamento dell'acquisizione; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    se agisce solo o in concerto; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    se intende fermare i suoi acquisti o proseguirli nonche' se intende acquisire il controllo dell'emittente o comunque esercitare un'influenza sulla gestione della societa' e, in tali casi, la strategia che intende adottare e le operazioni per metterla in opera; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    le sue intenzioni per quanto riguarda eventuali accordi e patti parasociali di cui e' parte; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    se intende proporre l'integrazione o la revoca degli organi amministrativi o di controllo dell'emittente. 
+ La ((Consob)) puo' individuare con proprio regolamento i casi in cui la suddetta dichiarazione non e' dovuta, tenendo conto delle caratteristiche del soggetto che effettua la dichiarazione o della societa' di cui sono state acquistate le azioni. 
+ La dichiarazione e' trasmessa alla societa' di cui sono state acquistate le azioni e alla ((Consob)), nonche' e' oggetto di comunicazione al pubblico secondo le modalita' e i termini stabiliti con il regolamento della ((Consob)) emanato in attuazione del comma 4, lettere c) e d). 
+ Fermo restando quanto previsto ai sensi dell'articolo 185, se nel termine di sei mesi dalla comunicazione della dichiarazione intervengono cambiamenti delle intenzioni sulla base di circostanze oggettive sopravvenute, una nuova dichiarazione motivata deve essere senza ritardo indirizzata alla societa' e alla ((Consob)) e portata alla conoscenza del pubblico secondo le medesime modalita'. La nuova dichiarazione fa decorrere nuovamente il termine di sei mesi citato nel primo periodo del presente comma. La ((Consob)) puo', con provvedimento motivato da esigenze di tutela degli investitori nonche' di efficienza e trasparenza del mercato del controllo societario e del mercato dei capitali, prevedere, per un limitato periodo di tempo, in aggiunta alle soglie indicate nel primo periodo del presente comma una soglia del 5 per cento per societa' ad azionariato particolarmente diffuso.
+
 Il diritto di voto inerente alle azioni quotate od agli strumenti finanziari per i quali sono state omesse le comunicazioni previste dal comma 2 o la dichiarazione prevista dal comma 4-bis non puo' essere esercitato. In caso di inosservanza, si applica l'articolo 14, comma 6. L'impugnazione puo' essere proposta anche dalla Consob entro il termine indicato nell'articolo 14, comma 7.
 
 Il comma 2 non si applica alle partecipazioni detenute, per il tramite di societa' controllate, dal Ministero dell'economia e delle finanze. I relativi obblighi di comunicazione sono adempiuti dalle societa' controllate.
@@ -5563,11 +13129,82 @@ L'impugnazione puo' essere proposta anche dalla CONSOB entro il termine indicato
 
 ## Art. 122. — Patti parasociali
 
+1.
+                        
+                            
+                                I patti, in qualunque forma stipulati, aventi per oggetto l'esercizio del diritto di voto nelle societa' con azioni quotate e nelle societa' che le controllano entro cinque giorni dalla stipulazione sono: 
+ 
+                            
+                            
+                                a)
+                                
+                                    comunicati alla Consob; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    pubblicati per estratto sulla stampa quotidiana; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    depositati presso il registro delle imprese del luogo ove la societa' ha la sua sede legale; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    comunicati alle societa' con azioni quotate,
+
 La CONSOB stabilisce con regolamento le modalita' e i contenuti della comunicazione, dell'estratto e della pubblicazione.
 
 In caso di inosservanza degli obblighi previsti dal comma 1 i patti sono nulli.
 
 Il diritto di voto inerente alle azioni quotate per le quali non sono stati adempiuti gli obblighi previsti dal comma 1 non puo' essere esercitato. In caso di inosservanza, si applica l'((articolo 14, comma 6)). L'impugnazione puo' essere proposta anche dalla CONSOB entro il termine indicato nell'((articolo 14. comma 7)).
+
+5.
+                        
+                            
+                                Il presente articolo si applica anche ai patti, in qualunque forma stipulati: 
+ 
+                            
+                            
+                                a)
+                                
+                                    che istituiscono obblighi di preventiva consultazione per l'esercizio del diritto di voto nelle societa' con azioni quotate e nelle societa' che le controllano; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    che pongono limiti al trasferimento delle relative azioni o di strumenti finanziari che attribuiscono diritti di acquisto o di sottoscrizione delle stesse; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    che prevedono l'acquisto delle azioni o degli strumenti finanziari previsti dalla lettera b); 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    aventi per oggetto o per effetto l'esercizio anche congiunto di un'influenza dominante su tali societa'. 
+
+                                
+                            
+                            
+                                d-bis)
+                                
+                                    volti a favorire o a contrastare il conseguimento degli obiettivi di un'offerta pubblica di acquisto o di scambio, ivi inclusi gli impegni a non aderire ad un'offerta.
 
 Ai patti di cui al presente articolo non si applicano gli articoli 2341-bis e 2341-ter del codice civile.
 
@@ -5584,11 +13221,172 @@ Gli azionisti che intendano aderire a un'offerta pubblica di acquisto o di scamb
 
 ## Art. 123-bis. — (Relazione sul governo societario e gli assetti proprietari).
 
+1.
+                        
+                            
+                                La relazione sulla gestione delle societa' emittenti valori mobiliari ammessi alle negoziazioni in mercati regolamentati contiene in una specifica sezione, denominata: "Relazione sul governo societario e gli assetti proprietari", informazioni dettagliate riguardanti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la struttura del capitale sociale, compresi i titoli che non sono negoziati su un mercato regolamentato di uno Stato comunitario, con l'indicazione delle varie categorie di azioni e, per ogni categoria di azioni, i diritti e gli obblighi connessi, nonche' la percentuale del capitale sociale che esse rappresentano; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    qualsiasi restrizione al trasferimento di titoli, quali ad esempio limiti al possesso di titoli o la necessita' di ottenere il gradimento da parte della societa' o di altri possessori di titoli; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    le partecipazioni rilevanti nel capitale, dirette o indirette, ad esempio tramite strutture piramidali o di partecipazione incrociata, secondo quanto risulta dalle comunicazioni effettuate ai sensi dell'articolo 120; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    se noti, i possessori di ogni titolo che conferisce diritti speciali di controllo e una descrizione di questi diritti; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    il meccanismo di esercizio dei diritti di voto previsto in un eventuale sistema di partecipazione azionaria dei dipendenti, quando il diritto di voto non e' esercitato direttamente da questi ultimi; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    qualsiasi restrizione al diritto di voto, ad esempio limitazioni dei diritti di voto ad una determinata percentuale o ad un certo numero di voti, termini imposti per l'esercizio del diritto di voto o sistemi in cui, con la cooperazione della societa', i diritti finanziari connessi ai titoli sono separati dal possesso dei titoli; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    gli accordi che sono noti alla societa' ai sensi dell'articolo 122; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    gli accordi significativi dei quali la societa' o sue controllate siano parti e che acquistano efficacia, sono modificati o si estinguono in caso di cambiamento di controllo della societa', e i loro effetti, tranne quando sono di natura tale per cui la loro divulgazione arrecherebbe grave pregiudizio alla societa'; tale deroga non si applica quando la societa' ha l'obbligo specifico di divulgare tali informazioni sulla base di altre disposizioni di legge; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    gli accordi tra la societa' e gli amministratori, i componenti del consiglio di gestione o di sorveglianza, che prevedono indennita' in caso di dimissioni o licenziamento senza giusta causa o se il loro rapporto di lavoro cessa a seguito di un'offerta pubblica di acquisto; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    le norme applicabili alla nomina e alla sostituzione degli amministratori e dei componenti del consiglio di gestione e di sorveglianza, nonche' alla modifica dello statuto, se diverse da quelle legislative e regolamentari applicabili in via suppletiva; 
+
+                                
+                            
+                            
+                                m)
+                                
+                                    l'esistenza di deleghe per gli aumenti di capitale ai sensi dell'articolo 2443 del codice civile ovvero del potere in capo agli amministratori o ai componenti del consiglio di gestione di emettere strumenti finanziari partecipativi nonche' di autorizzazioni all'acquisto di azioni proprie.
+
+2.
+                        
+                            
+                                Nella medesima sezione della relazione sulla gestione di cui al comma 1 sono riportate le informazioni riguardanti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    l'adesione ad un codice di comportamento in materia di governo societario promosso da societa' di gestione di mercati regolamentati o da associazioni di categoria, motivando le ragioni dell'eventuale mancata adesione ad una o piu' disposizioni, nonche' le pratiche di governo societario effettivamente applicate dalla societa' al di la' degli obblighi previsti dalle norme legislative o regolamentari. La societa' indica altresi' dove il codice di comportamento in materia governo societario al quale aderisce e' accessibile al pubblico; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le principali caratteristiche dei sistemi di gestione dei rischi e di controllo interno esistenti in relazione al processo di informativa finanziaria, anche consolidata, ove applicabile; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    i meccanismi di funzionamento dell'assemblea degli azionisti, i suoi principali poteri, i diritti degli azionisti e le modalita' del loro esercizio, se diversi da quelli previsti dalle disposizioni legislative e regolamentari applicabili in via suppletiva; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    la composizione e il funzionamento degli organi di amministrazione e controllo e dei loro comitati; 
+
+                                
+                            
+                            
+                                d-bis)
+                                
+                                    una descrizione delle politiche in materia di diversita' applicate in relazione alla composizione degli organi di amministrazione e controllo relativamente ad aspetti quali l'eta', la composizione di genere, le disabilita' o il percorso formativo e professionale, nonche' una descrizione degli obiettivi, delle modalita' di attuazione e dei risultati di tali politiche. Nel caso in cui nessuna politica sia applicata, la societa' motiva in maniera chiara e articolata le ragioni di tale scelta. Se tali informazioni sono incluse nella rendicontazione di sostenibilita' di cui agli articoli 3 e 4 del decreto legislativo adottato in attuazione dell'articolo 13 della legge 21 febbraio 2024, n. 15, gli obblighi di cui alla presente lettera si considerano assolti a condizione che un riferimento a tale rendicontazione sia inserito nella relazione sul governo societario. (123) (127) 
+
+                                
+                            
+                            
+                                d-ter)
+                                
+                                    
+                                        ((ove adottate, una descrizione delle politiche della societa' in materia di utilizzo e di monitoraggio delle nuove tecnologie e, in particolare, dei sistemi di intelligenza artificiale negli assetti amministrativi, organizzativi e contabili;))
+                                    
+                                
+                            
+                            
+                                d-quater)
+                                
+                                    
+                                        ((ove adottate, una descrizione delle politiche di gestione e di monitoraggio dei rischi informatici, inclusi i rischi di sicurezza cibernetica e i rischi derivanti dall'integrazione di nuove tecnologie negli assetti amministrativi, organizzativi e contabili.))
+
 Le informazioni di cui ai commi 1 e 2 possono figurare in una relazione distinta dalla relazione sulla gestione, approvata dall'organo di amministrazione, e pubblicata congiuntamente alla relazione sulla gestione. In alternativa, la relazione sulla gestione puo' indicare la sezione del sito internet dell'emittente dove e' pubblicato tale documento.
 
 Il revisore o la societa' di revisione esprime il giudizio e rilascia la dichiarazione di cui all'articolo 14, comma 2, lettere e), e-bis) ed e-ter), del decreto legislativo 27 gennaio 2010, n. 39, sulle informazioni di cui al comma 1, lettere c), d), f), l) e m), e al comma 2, lettera b), e verifica che siano state fornite le informazioni di cui al ((comma 2, lettere a), c), d), d-bis), d-ter) e d-quater),)) del presente articolo.
 
 Le societa' che non emettono azioni ammesse alle negoziazioni in mercati regolamentati o in sistemi multilaterali di negoziazione, possono omettere la pubblicazione delle informazioni di cui ai commi 1 e 2, salvo quelle di cui al comma 2, lettera b).
+
+5-bis.
+                        
+                            
+                                Possono omettere la pubblicazione delle informazioni di cui al comma 2, lettera d-bis), le societa' che alla data di chiusura dell'esercizio di riferimento non superino almeno due dei seguenti parametri: 
+ 
+                            
+                            
+                                a)
+                                
+                                    totale dello stato patrimoniale: 20.000.000 di euro; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    totale dei ricavi netti delle vendite e delle prestazioni: 40.000.000 di euro; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    numero medio di dipendenti durante l'esercizio finanziario pari a duecentocinquanta. (71)
 
 ---------------
                             AGGIORNAMENTO (71)
@@ -5626,12 +13424,58 @@ Almeno ventuno giorni prima della data dell'assemblea prevista dall'articolo 236
 
 La relazione e' articolata nelle due sezioni previste ai commi 3 e 4 ed e' approvata dal consiglio di amministrazione. Nelle societa' che adottano il sistema ((con consiglio di sorveglianza)) la relazione e' approvata dal consiglio di sorveglianza, su proposta, limitatamente alla sezione prevista dal comma 4, lettera b), del consiglio di gestione. (89)
 
+3.
+                        
+                            
+                                La prima sezione della relazione illustra in modo chiaro e comprensibile: (89) 
+ 
+                            
+                            
+                                a)
+                                
+                                    
+                                        ((la politica della societa' in materia di remunerazione con riferimento almeno all'esercizio successivo: 1) dei componenti degli organi di amministrazione; 
+ 2) dei direttori generali; 
+ 3) ove lo statuto non disponga diversamente, dei dirigenti con responsabilita' strategiche con riferimento almeno all'esercizio successivo; 
+ 4) fermo restando quanto previsto dall'articolo 2402 del codice civile, dei componenti degli organi di controllo;))
+                                    
+                                
+                            
+                            
+                                b)
+                                
+                                    le procedure utilizzate per l'adozione e l'attuazione di tale politica.
+
 La politica di remunerazione contribuisce alla strategia aziendale, al perseguimento degli interessi a lungo termine e alla sostenibilita' della societa' e illustra il modo in cui fornisce tale contributo. Fermo quanto previsto dal comma 3-ter, le societa' sottopongono al voto dei soci la politica di remunerazione di cui al comma 3 con la cadenza richiesta dalla durata della politica definita ai sensi del comma 3, lettera a), e comunque almeno ogni tre anni o in occasione di modifiche della politica medesima. Le societa' attribuiscono compensi solo in conformita' con la politica di remunerazione da ultimo approvata dai soci ((ovvero sottoposto alla loro votazione)). In presenza di circostanze eccezionali le societa' possono derogare temporaneamente alla politica di remunerazione, purche' la stessa preveda le condizioni procedurali in base alle quali la deroga puo' essere applicata e specifichi gli elementi della politica a cui si puo' derogare. Per circostanze eccezionali si intendono solamente situazioni in cui la deroga alla politica di remunerazione e' necessaria ai fini del perseguimento degli interessi a lungo termine e della sostenibilita' della societa' nel suo complesso o per assicurarne la capacita' di stare sul mercato. (89)
 
 ((La deliberazione prevista dal comma 3-bis e' vincolante, qualora lo statuto non disponga diversamente. In caso la deliberazione sia vincolante, se l'assemblea dei soci non approva)) la politica di remunerazione sottoposta al voto ai sensi del comma 3-bis la societa' continua a corrispondere remunerazioni conformi alla piu' recente politica di remunerazione approvata dall'assemblea o, in mancanza, puo' continuare a corrispondere remunerazioni conformi alle prassi vigenti. ((In caso di mancata approvazione, la societa' sottopone)) al voto dei soci una nuova politica di remunerazione al piu' tardi in occasione della successiva assemblea prevista dall'articolo 2364, secondo comma, o dell'assemblea prevista dall'articolo 2364-bis, secondo comma, del codice civile. (89)
 
 ((Ove lo statuto disponga che la deliberazione prevista dal comma 3-bis non e' vincolante, l'esito della votazione e' messo a disposizione del pubblico ai sensi dell'articolo 125-quater, comma 2.
 Nel caso in cui l'esito della votazione sia contrario, la societa' sottopone al voto dei soci una nuova politica di remunerazione al piu' tardi in occasione della successiva assemblea prevista dall'articolo 2364, secondo comma, del codice civile o dell'assemblea prevista dall'articolo 2364-bis, secondo comma, del medesimo codice civile.))
+
+4.
+                        
+                            
+                                La seconda sezione della relazione, in modo chiaro e comprensibile e, nominativamente per i componenti degli organi di amministrazione e di controllo, i direttori generali e in forma aggregata, ((laddove la politica di cui al comma 3 ne disciplini la remunerazione)), per i dirigenti con responsabilita' strategiche: (89) 
+ 
+                            
+                            
+                                a)
+                                
+                                    fornisce un'adeguata rappresentazione di ciascuna delle voci che compongono la remunerazione, compresi i trattamenti previsti in caso di cessazione dalla carica o di risoluzione del rapporto di lavoro, evidenziandone la coerenza con la politica della societa' in materia di remunerazione relativa all'esercizio di riferimento; (89) 
+                                
+                            
+                            
+                                b)
+                                
+                                    illustra analiticamente i compensi corrisposti nell'esercizio di riferimento a qualsiasi titolo e in qualsiasi forma dalla societa' e da societa' controllate ((...)), segnalando le eventuali componenti dei suddetti compensi che sono riferibili ad attivita' svolte in esercizi precedenti a quello di riferimento ed evidenziando, altresi', i compensi da corrispondere in uno o piu' esercizi successivi a fronte dell'attivita' svolta nell'esercizio di riferimento, eventualmente indicando un valore di stima per le componenti non oggettivamente quantificabili nell'esercizio di riferimento. 
+
+                                
+                            
+                            
+                                b-bis)
+                                
+                                    illustra come la societa' ha tenuto conto del voto espresso l'anno precedente sulla seconda sezione della relazione. (89)
 
 Alla relazione sono allegati i piani di compensi previsti dall'articolo 114-bis ovvero e' indicata nella relazione la sezione del sito Internet della societa' dove tali documenti sono reperibili.
 
@@ -5677,7 +13521,51 @@ La Consob, negli ambiti di propria competenza, stabilisce le forme di pubblicita
 
 ## Art. 124-quater. — (Definizioni e ambito applicativo).
 
+1.
+                        
+                            
+                                Nella presente sezione si intendono per: 
+ 
+                            
+                            
+                                a)
+                                
+                                    "gestore di attivi": le Sgr, ((le Sicav in gestione interna autorizzate, le Sicaf in gestione interna autorizzate, le societa' di partenariato in gestione interna autorizzate)), e i soggetti autorizzati in Italia a prestare il servizio di cui all'articolo 1, comma 5, lettera d); 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    "investitore istituzionale": 1) un'impresa di assicurazione o di riassicurazione come definite alle lettere u) e cc) del comma 1 dell'articolo 1 del decreto legislativo 7 settembre 2005, n. 209, incluse le sedi secondarie in Italia di imprese aventi sede legale in uno Stato terzo, autorizzate ad esercitare attivita' di assicurazione o di riassicurazione nei rami vita ai sensi dell'articolo 2, commi 1 e 2, del medesimo decreto; 2) i fondi pensione con almeno cento aderenti, che risultino iscritti all'albo tenuto dalla COVIP e che rientrino tra quelli di cui agli articoli 4, comma 1, e 12 del decreto legislativo 5 dicembre 2005, n. 252, ovvero tra quelli dell'articolo 20 del medesimo decreto aventi soggettivita' giuridica; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    "consulente in materia di voto": un soggetto che analizza, a titolo professionale e commerciale, le informazioni diffuse dalle societa' e, se del caso, altre informazioni riguardanti societa' europee con azioni quotate nei mercati regolamentati di uno Stato membro dell'Unione europea nell'ottica di informare gli investitori in relazione alle decisioni di voto fornendo ricerche, consigli o raccomandazioni di voto connessi all'esercizio dei diritti di voto.
+
 Le disposizioni previste nella presente sezione si applicano agli investitori istituzionali e ai gestori di attivi che investono in societa' con azioni ammesse alla negoziazione in un mercato regolamentato italiano o di un altro Stato membro dell'Unione europea.
+
+3.
+                        
+                            
+                                Le disposizioni previste nella presente sezione per i consulenti in materia di voto si applicano ai soggetti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    aventi la sede legale in Italia; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    aventi una sede, anche secondaria, in Italia, qualora non abbiano la sede legale o la sede principale in un altro Stato membro dell'Unione europea. 
+ (89)
 
 --------------
                             AGGIORNAMENTO (89)
@@ -5713,6 +13601,45 @@ Le informazioni di cui ai commi 1, 2 e 3, sono messe a disposizione del pubblico
 
 Gli investitori istituzionali comunicano al pubblico in che modo gli elementi principali della loro strategia di investimento azionario sono coerenti con il profilo e la durata delle loro passivita', in particolare delle passivita' a lungo termine, e in che modo contribuiscono al rendimento a medio e lungo termine dei loro attivi.
 
+2.
+                        
+                            
+                                Salvo quanto previsto dal comma 3, gli investitori istituzionali che investono per il tramite di gestori di attivi, come definiti all'articolo 2, lettera f), della direttiva 2007/36/CE, comunicano al pubblico le seguenti informazioni relative all'accordo di gestione, su base individuale o collettiva, con il predetto gestore di attivi: 
+ 
+                            
+                            
+                                a)
+                                
+                                    le modalita' con cui l'accordo incentiva il gestore di attivi ad allineare la strategia e le decisioni di investimento al profilo e alla durata delle passivita' degli investitori istituzionali, in particolare delle passivita' a lungo termine; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le modalita' con cui l'accordo incentiva il gestore di attivi a prendere decisioni di investimento basate sulle valutazioni relative ai risultati finanziari e non finanziari a lungo e medio termine delle societa' partecipate e a impegnarsi con tali societa' al fine di migliorarne i risultati a medio e lungo termine; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    le modalita' con cui il metodo e l'orizzonte temporale di valutazione dei risultati del gestore di attivi e la sua remunerazione per l'attivita' di gestione, sono in linea con il profilo e la durata delle passivita' dell'investitore istituzionale, in particolare delle passivita' a lungo termine, e tengono conto dei risultati assoluti a lungo termine; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    le modalita' con cui l'investitore istituzionale controlla i costi di rotazione del portafoglio sostenuti dal gestore di attivi, nonche' le modalita' con cui definisce e controlla un valore prefissato di rotazione del portafoglio e il relativo intervallo di variazione; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    l'eventuale durata dell'accordo con il gestore di attivi.
+
 Qualora l'accordo con il gestore di attivi di cui al comma 2 non includa uno o piu' degli elementi indicati nel medesimo comma, l'investitore istituzionale illustra in modo chiaro e articolato le ragioni di tale scelta.
 
 Le informazioni di cui al presente articolo sono messe a disposizione del pubblico gratuitamente sul sito internet dell'investitore istituzionale o attraverso altri mezzi facilmente accessibili on-line e, salvo modifiche sostanziali, sono aggiornate su base annua.
@@ -5732,6 +13659,31 @@ Le informazioni di cui al presente articolo sono messe a disposizione del pubbli
 
 I gestori di attivi comunicano, con frequenza annuale, agli investitori istituzionali indicati all'articolo 2, lettera e), della direttiva 2007/36/CE, con cui hanno concluso gli accordi di cui all'articolo 124-sexies, in che modo la loro strategia d'investimento e la relativa attuazione rispettano tali accordi e contribuiscono al rendimento a medio e lungo termine degli attivi degli investitori istituzionali o dei fondi.
 
+2.
+                        
+                            
+                                La comunicazione prevista al comma 1 comprende: 
+ 
+                            
+                            
+                                a)
+                                
+                                    le relazioni sui principali rischi a medio e lungo termine associati agli investimenti, sulla composizione del portafoglio, sulla sua rotazione e sui relativi costi, sul ricorso ai consulenti in materia di voto ai fini delle attivita' di impegno e, ove applicabile, sulla loro politica di concessione di titoli in prestito nonche' il modo in cui quest'ultima viene implementata al fine di perseguire le loro attivita' di impegno, in particolare in occasione delle assemblee generali delle societa' partecipate; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    informazioni in merito all'eventuale adozione, e alle relative modalita', di decisioni di investimento sulla base di una valutazione dei risultati a medio e lungo termine delle societa' partecipate, compresi i risultati non finanziari; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    informazioni in merito all'eventuale insorgenza di conflitti di interessi in connessione con le attivita' di impegno e le misure adottate dai gestori di attivi per gestirli.
+
 I gestori di attivi non provvedono alla comunicazione di cui al presente articolo, qualora le informazioni richieste siano gia' a disposizione del pubblico.
 
 4. Le informazioni di cui al comma 1 sono comunicate con la relazione annuale del fondo o, nel caso del servizio di investimento di gestione del portafoglio, con il rendiconto periodico.))
@@ -5746,6 +13698,66 @@ I gestori di attivi non provvedono alla comunicazione di cui al presente articol
 ## Art. 124-octies. — (( (Trasparenza dei consulenti in materia di voto). ))
 
 ((
+
+1.
+                        
+                            
+                                I consulenti in materia di voto, anche al fine di informare adeguatamente i clienti sull'accuratezza e affidabilita' delle loro attivita', pubblicano annualmente una relazione che contenga almeno le seguenti informazioni in relazione all'elaborazione delle loro ricerche, dei loro consigli e delle loro raccomandazioni di voto: 
+ 
+                            
+                            
+                                a)
+                                
+                                    le caratteristiche essenziali delle metodologie e dei modelli applicati; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le principali fonti di informazione utilizzate; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    le procedure messe in atto per garantire la qualita' delle ricerche, dei consigli e delle raccomandazioni di voto nonche' le qualifiche del personale coinvolto; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    le modalita' con cui, eventualmente, tengono conto delle condizioni normative e del mercato nazionale nonche' delle condizioni specifiche delle societa'; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    le caratteristiche essenziali delle politiche di voto applicate per ciascun mercato; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    la portata e la natura del dialogo, se del caso, intrattenuto con le societa' oggetto delle loro ricerche, dei loro consigli o delle loro raccomandazioni di voto e con i portatori di interesse della societa'; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    la politica relativa alla prevenzione e alla gestione dei potenziali conflitti di interesse; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    l'eventuale adesione ad un codice di comportamento ovvero l'illustrazione in maniera chiara e motivata delle ragioni della mancata adesione. I consulenti in materia di voto che aderiscono ad un codice di comportamento riferiscono altresi' in merito all'applicazione di tale codice, anche con riferimento alle informazioni richieste dalle lettere precedenti, specificando l'eventuale mancata adesione ad una o piu' disposizioni del codice, le ragioni della stessa e le eventuali misure alternative adottate.
 
 La relazione indicata al comma 1 e' resa disponibile al pubblico, gratuitamente, sul sito internet del consulente in materia di voto e rimane a disposizione del pubblico per almeno tre anni a decorrere dalla data di pubblicazione.
 
@@ -5767,6 +13779,24 @@ Ai consulenti in materia di voto si applicano gli articoli 114, commi 5 e 6, e 1
 La Consob, sentite la Banca d'Italia, l'IVASS e la COVIP, disciplina con regolamento termini e modalita' della comunicazione, prevista dall'articolo 124-septies, agli investitori istituzionali da parte dei gestori di attivi.
 
 La Consob, sentita la Banca d'Italia, stabilisce con regolamento termini e modalita' di pubblicazione della politica di impegno dei gestori di attivi, delle modalita' di attuazione della stessa e degli ulteriori elementi informativi, di cui all'articolo 124-quinquies, commi 1, 2 e 3.
+
+3.
+                        
+                            
+                                L'IVASS e la COVIP disciplinano con proprio regolamento, secondo le rispettive attribuzioni di vigilanza e con riferimento ai soggetti vigilati dalle medesime autorita', i termini e le modalita' di pubblicazione delle seguenti informazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la politica di impegno degli investitori istituzionali, le modalita' di attuazione e gli ulteriori elementi informativi, di cui all'articolo 124-quinquies, commi 1, 2 e 3; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    gli elementi della strategia di investimento azionario adottata dagli investitori istituzionali o dell'accordo stipulato con il gestore di attivi e gli elementi informativi, di cui all'articolo 124-sexies, commi 1, 2 e 3.
 
 4. La Consob detta con regolamento termini e modalita' di pubblicazione da parte dei consulenti in materia di voto della relazione indicata all'articolo 124-octies.))
 
@@ -5790,6 +13820,63 @@ L'assemblea e' convocata mediante avviso pubblicato sul sito Internet della soci
 Nel caso di assemblea convocata per l'elezione mediante voto di lista dei componenti degli organi di amministrazione e controllo, il termine per la pubblicazione dell'avviso di convocazione e' anticipato al quarantesimo giorno precedente la data dell'assemblea. (45)
 
 Per le assemblee previste dagli articoli 2446, 2447 e 2487 del codice civile, il termine indicato nel comma 1 e' posticipato al ventunesimo giorno precedente la data dell'assemblea.
+
+4.
+                        
+                            
+                                L'avviso di convocazione reca: 
+ 
+                            
+                            
+                                a)
+                                
+                                    l'indicazione del giorno, dell'ora e del luogo dell'adunanza nonche' l'elenco delle materie da trattare; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    una descrizione chiara e precisa delle procedure da rispettare per poter partecipare e votare in assemblea, ivi comprese le informazioni riguardanti: 
+ 1) i termini per l'esercizio del diritto di porre domande prima dell'assemblea e del diritto di integrare l'ordine del giorno o di presentare ulteriori proposte su materie gia' all'ordine del giorno, nonche', anche mediante riferimento al sito Internet della societa', le eventuali ulteriori modalita' per l'esercizio di tali diritti; 
+ 2) la procedura per l'esercizio del voto per delega e, in particolare, le modalita' per il reperimento dei moduli utilizzabili in via facoltativa per il voto per delega nonche' le modalita' per l'eventuale notifica, anche elettronica, delle deleghe di voto; 
+ 3) la procedura per il conferimento delle deleghe al soggetto eventualmente designato dalla societa' ai sensi dell'articolo 135-undecies, con la precisazione che la delega non ha effetto con riguardo alle proposte per le quali non siano state conferite istruzioni di voto; 
+ 4) le procedure di voto per corrispondenza o con mezzi elettronici, se previsto dallo statuto; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    la data indicata nell'articolo 83-sexies, comma 2, con la precisazione che coloro che diventeranno titolari delle azioni solo successivamente a tale data non avranno il diritto di intervenire e votare in assemblea; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    le modalita' e i termini di reperibilita' del testo integrale delle proposte di deliberazione, unitamente alle relazioni illustrative, e dei documenti che saranno sottoposti all'assemblea; 
+
+                                
+                            
+                            
+                                d-bis)
+                                
+                                    le modalita' e i termini di presentazione delle liste ((o delle candidature)) per l'elezione dei componenti del consiglio di amministrazione e del componente di minoranza del collegio sindacale o del consiglio di sorveglianza; ((133))
+                                    
+                                
+                            
+                            
+                                e)
+                                
+                                    l'indirizzo del sito Internet indicato nell'articolo 125-quater; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    le altre informazioni la cui indicazione nell'avviso di convocazione e' richiesta da altre disposizioni. (45)
 
 -------------
                             AGGIORNAMENTO (45)
@@ -5864,6 +13951,31 @@ L'organo di amministrazione ovvero i sindaci o il consiglio di sorveglianza o il
  3) alle imprese di assicurazione captive, definite all'articolo 13, punto 2), della direttiva 2009/138/CE del Parlamento europeo e del Consiglio, del 25 novembre 2009, e alle imprese di riassicurazione captive di cui all'articolo 13, punto 5), della citata direttiva, purche' si tratti di imprese di grandi dimensioni o di piccole e medie imprese quotate e che non sono micro-imprese".
 
 ## Art. 125-quater. — (Sito Internet)
+
+1.
+                        
+                            
+                                Fermo restando quanto previsto negli articoli 125-bis e 125-ter, sono messi a disposizione sul sito Internet della societa': 
+ 
+                            
+                            
+                                a)
+                                
+                                    entro il termine di pubblicazione dell'avviso di convocazione previsto per ciascuna delle materie all'ordine del giorno a cui si riferiscono, ovvero il successivo termine previsto dalla legge per la loro pubblicazione, i documenti che saranno sottoposti all'assemblea; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    entro il termine di pubblicazione dell'avviso di convocazione, i moduli utilizzabili in via facoltativa per il voto per delega e, qualora previsto dallo statuto, per il voto per corrispondenza; qualora i moduli non possono essere resi disponibili in forma elettronica per motivi tecnici, sul medesimo sito sono indicate le modalita' per ottenerli in forma cartacea e, in tal caso, la societa' e' tenuta a trasmetterli gratuitamente, previa richiesta, per corrispondenza, anche per il tramite degli intermediari; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    entro il termine di pubblicazione dell'avviso di convocazione, informazioni sull'ammontare del capitale sociale con l'indicazione del numero e delle categorie di azioni in cui e' suddiviso.
 
 Un rendiconto sintetico delle votazioni contenente il numero di azioni rappresentate in assemblea e delle azioni per le quali e' stato espresso il voto, la percentuale di capitale che tali azioni rappresentano, nonche' il numero di voti favorevoli e contrari alla delibera e il numero di astensioni, e' reso disponibile sul sito Internet della societa' entro cinque giorni dalla data dell'assemblea. Il verbale dell'assemblea di cui all'articolo 2375 del codice civile e' comunque reso disponibile sul sito Internet entro trenta giorni dalla data dell'assemblea.
 
@@ -5987,6 +14099,24 @@ Gli statuti possono altresi' prevedere che colui al quale spetta il diritto di v
 
 Gli statuti stabiliscono le modalita' per l'attribuzione del voto maggiorato previsto dai commi 1 e 2 e per l'accertamento dei relativi presupposti, prevedendo in ogni caso un apposito elenco. La Consob stabilisce con proprio regolamento le disposizioni di attuazione del presente articolo al fine di assicurare la trasparenza degli assetti proprietari e l'osservanza delle disposizioni del titolo II, capo II, sezione II, della presente parte. Restano fermi gli obblighi di comunicazione previsti in capo ai titolari di partecipazioni rilevanti.
 
+5.
+                        
+                            
+                                La cessione dell'azione a titolo oneroso o gratuito ovvero la cessione diretta o indiretta di partecipazioni di controllo in societa' o enti che detengono azioni a voto maggiorato previsto dai commi 1 e 2 in misura superiore alla soglia prevista dall'articolo 120, comma 2, comporta la perdita della maggiorazione del voto. Se lo statuto non dispone diversamente, il diritto di voto maggiorato: 
+ 
+                            
+                            
+                                a)
+                                
+                                    e' conservato in caso di successione per causa di morte nonche' in caso di fusione e scissione del titolare delle azioni; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    si estende alle azioni di nuova emissione in caso di aumento di capitale ai sensi dell'articolo 2442 del codice civile.
+
 Il progetto di fusione o di scissione di una societa' il cui statuto prevede la maggiorazione del voto di cui ai commi 1 e 2 puo' prevedere che il diritto di voto maggiorato spetti anche alle azioni spettanti in cambio di quelle a cui e' attribuito voto maggiorato.
 Tale previsione trova applicazione anche nel caso di un'operazione di fusione, scissione o trasformazione transfrontaliera ai sensi del decreto legislativo 2 marzo 2023, n. 19. Lo statuto puo' prevedere che la maggiorazione del voto si estenda proporzionalmente alle azioni emesse in esecuzione di un aumento di capitale mediante nuovi conferimenti.
 
@@ -6010,6 +14140,24 @@ Nei casi di fusione, scissione o trasformazione transfrontaliera ai sensi del de
 ## Art. 127-sexies. — (Azioni a voto plurimo)
 
 In deroga all'articolo 2351, quarto comma, del codice civile, gli statuti non possono prevedere l'emissione di azioni a voto plurimo.
+
+2.
+                        
+                            
+                                Le azioni a voto plurimo emesse anteriormente all'inizio delle negoziazioni in un mercato regolamentato mantengono le loro caratteristiche e diritti. Se lo statuto non dispone diversamente, al fine di mantenere inalterato il rapporto tra le varie categorie di azioni, le societa' che hanno emesso azioni a voto plurimo ovvero le societa' risultanti dalla fusione o dalla scissione di tali societa' possono procedere all'emissione di azioni a voto plurimo con le medesime caratteristiche e diritti di quelle gia' emesse limitatamente ai casi di: 
+ 
+                            
+                            
+                                a)
+                                
+                                    aumento di capitale ai sensi dell'articolo 2442 del codice civile ovvero mediante nuovi conferimenti senza esclusione o limitazione del diritto d'opzione; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    fusione o scissione.
 
 Nel caso previsto dal comma 2 gli statuti non possono prevedere ulteriori maggiorazioni del diritto di voto a favore di singole categorie di azioni ne' ai sensi dell'articolo 127-quinquies.
 
@@ -6056,6 +14204,35 @@ Le societa' italiane con azioni quotate nei mercati
  regolamento del mercato, se ottengono l'ammissione su altro mercato 
  regolamentato italiano o di altro paese dell'Unione Europea, 
  purche' sia garantita una tutela equivalente degli investitori, secondi i criteri stabiliti dalla CONSOB con regolamento.
+
+1-bis.
+                        
+                            
+                                
+                                    ((Le societa' italiane con azioni quotate nei mercati regolamentati italiani possono richiedere il trasferimento delle negoziazioni dei propri strumenti finanziari su di un sistema multilaterale di negoziazione italiano o di altro Paese dell'Unione europea a condizione che siano rispettate le seguenti condizioni:))
+                                
+                            
+                            
+                                a)
+                                
+                                    
+                                        ((il gestore del mercato regolamentato accerti che il sistema multilaterale di destinazione preveda regole che assicurano un livello di tutela equivalente a quello di cui al titolo II capo II, sezione II in materia di offerte pubbliche di acquisto e scambio, secondo i criteri stabiliti dalla Consob con regolamento;))
+                                    
+                                
+                            
+                            
+                                b)
+                                
+                                    
+                                        ((ferma restando l'applicazione dell'articolo 2437-quinquies del codice civile, l'assemblea straordinaria della societa' abbia approvato, almeno due mesi prima che esso abbia luogo, il trasferimento delle negoziazioni con le maggioranze previste dalla Consob con regolamento;))
+                                    
+                                
+                            
+                            
+                                c)
+                                
+                                    
+                                        ((la societa' abbia assicurato, almeno due mesi prima della data prevista per il trasferimento, la diffusione di informazioni circa le ragioni dell'operazione e le relative conseguenze per gli investitori, con le modalita' stabilite dalla Consob con regolamento)). ((133))
 
 ----------------
                             AGGIORNAMENTO (133)
@@ -6180,6 +14357,52 @@ Resta fermo quanto previsto dall'articolo 2372 del codice civile.((In deroga all
 
 Il conferimento di una delega ad un rappresentante in conflitto di interessi e' consentito purche' il rappresentante comunichi per iscritto al socio le circostanze da cui deriva tale conflitto e purche' vi siano specifiche istruzioni di voto per ciascuna delibera in relazione alla quale il rappresentante dovra' votare per conto del socio. Spetta al rappresentante l'onere della prova di aver comunicato al socio le circostanze che danno luogo al conflitto d'interessi.((Non si applica l'articolo 1711, secondo comma, del codice civile.))
 
+2.
+                        
+                            
+                                Ai fini del presente articolo, sussiste in ogni caso un conflitto di interessi ove il rappresentante o il sostituto: 
+ 
+                            
+                            
+                                a)
+                                
+                                    controlli, anche congiuntamente, la societa' o ne sia controllato, anche congiuntamente, ovvero sia sottoposto a comune controllo con la societa'; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    sia collegato alla societa' o eserciti un'influenza notevole su di essa ((ovvero quest'ultima eserciti sul rappresentante stesso un'influenza notevole)); 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    sia un componente dell'organo di amministrazione o di controllo della societa' o dei soggetti indicati alle lettere a) e b); 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    sia un dipendente o un revisore della societa' o dei soggetti indicati alla lettera a); 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    sia coniuge, parente o affine entro quarto grado dei soggetti indicati alle lettere da a) a c); 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    sia legato alla societa' o ai soggetti indicati alle lettere a), b), c) ed e) da rapporti di lavoro autonomo o subordinato ovvero da altri rapporti di natura patrimoniale che ne compromettano l'indipendenza.
+
 La sostituzione del rappresentante con un sostituto in conflitto di interessi e' consentita solo qualora il sostituto sia stato indicato dal socio. Si applica in tal caso il comma 1. Gli obblighi di comunicazione e il relativo onere della prova rimangono in capo al rappresentante.
 
 Il presente articolo si applica anche nel caso di trasferimento delle azioni per procura.
@@ -6222,6 +14445,31 @@ Con il regolamento di cui al comma 2, la Consob puo' stabilire i casi in cui il 
 
 ## Art. 136. — (Definizioni)
 
+1.
+                        
+                            
+                                Ai fini della presente sezione, si intendono per: 
+ 
+                            
+                            
+                                a)
+                                
+                                    "delega di voto", il conferimento della rappresentanza per l'esercizio del voto nelle assemblee; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    "sollecitazione", la richiesta di conferimento di deleghe di voto rivolta a piu' di duecento azionisti su specifiche proposte di voto ovvero accompagnata da raccomandazioni, dichiarazioni o altre indicazioni idonee a influenzare il voto; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    "promotore", il soggetto ((, compreso l'emittente,)) o i soggetti che congiuntamente promuovono la sollecitazione.
+
 ## Art. 137. — Disposizioni generali
 
 Al conferimento di deleghe di voto ai sensi della presente sezione si applicano gli articoli 135-novies e 135-decies.
@@ -6259,6 +14507,33 @@ La sollecitazione e' effettuata dal promotore mediante la
 
 ((
 
+1.
+                        
+                            
+                                Non costituisce sollecitazione ai sensi dell'articolo 136, 
+ comma 1, lettera b), la richiesta di conferimento di deleghe di voto accompagnata da raccomandazioni, dichiarazioni o altre indicazioni idonee a influenzare il voto rivolta ai propri associati dalle associazioni di azionisti che: 
+ 
+                            
+                            
+                                a)
+                                
+                                    sono costituite con scrittura privata autenticata; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    non esercitano attivita' di impresa, salvo quelle 
+ direttamente strumentali al raggiungimento dello scopo associativo; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    sono composte da almeno cinquanta persone fisiche ciascuna  delle quali e' proprietaria di un quantitativo di azioni non superiore allo 0,1 per cento del capitale sociale rappresentato da azioni con diritto di voto.
+
 Le deleghe conferite all'associazione di azionisti ai sensi 
  del comma 1 non sono computate ai fini del calcolo del limite di duecento azionisti previsto dall'articolo 136, comma 1, lettera b).
 
@@ -6284,6 +14559,55 @@ Le informazioni contenute nel prospetto o nel modulo di delega
 Nei giudizi di risarcimento dei danni derivanti da violazione  delle disposizioni della presente sezione e della relative norme regolamentari spetta al ((promotore)) l'onere della prova di avere agito con la diligenza richiesta.
 
 ## Art. 144. — Svolgimento della sollecitazione e della raccolta
+
+1.
+                        
+                            
+                                La ((Consob)) stabilisce con regolamento regole di trasparenza e correttezza per lo svolgimento della sollecitazione e della raccolta di deleghe. Il regolamento, in particolare, disciplina: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il contenuto del prospetto e del modulo di delega, nonche' le relative modalita' di diffusione; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le procedure di sollecitazione e di raccolta di deleghe, nonche' le condizioni e le modalita' da seguire per l'esercizio e la revoca delle stesse; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    le forme di collaborazione tra il promotore e i soggetti in possesso della informazioni relative all'identita' dei soci, al fine di consentire lo svolgimento della sollecitazione.
+
+2.
+                        
+                            
+                                La Consob puo': 
+ 
+                            
+                            
+                                a)
+                                
+                                    richiedere che il prospetto e il modulo di delega contengano informazioni integrative e stabilire particolari modalita' di diffusione degli stessi; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    sospendere l'attivita' di sollecitazione in caso di fondato sospetto di violazione delle disposizioni della presente sezione ovvero vietarla in caso di accertata violazione delle predette disposizioni;
+                                
+                            
+                            
+                                c)
+                                
+                                    esercitare nei confronti dei promotori i poteri previsti dagli articoli 114, comma 5, e 115, comma 1.
 
 COMMA ABROGATO DAL D.LGS. 27 GENNAIO 2010, N. 27.
 
@@ -6311,6 +14635,45 @@ Le azioni di risparmio possono essere emesse sia in sede di aumento del capitale
 Salvo diversa disposizione dell'atto costitutivo, in caso di aumento di capitale a pagamento per il quale non sia stato escluso o limitato il diritto di opzione, i possessori di azioni di risparmio hanno diritto di opzione su azioni di risparmio della stessa categoria ovvero, in mancanza o per la differenza, nell'ordine, su azioni di risparmio di altra categoria, su azioni privilegiate ovvero su azioni ordinarie.
 
 ## Art. 146. — Assemblea speciale
+
+1.
+                        
+                            
+                                L'assemblea speciale dei possessori di azioni di risparmio delibera: 
+ 
+                            
+                            
+                                a)
+                                
+                                    sulla nomina e sulla revoca del rappresentante comune e sull'azione di responsabilita' nei suoi confronti; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    sull'approvazione delle deliberazioni dell'assemblea della societa' che pregiudicano i diritti della categoria, con il voto favorevole di tante azioni che rappresentino almeno il venti per cento delle azioni della categoria; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    sulla costituzione di un fondo per le spese necessarie alla tutela dei comuni interessi e sul rendiconto relativo; il fondo e' anticipato dalla societa', che puo' rivalersi sugli utili spettanti agli azionisti di risparmio in eccedenza al minimo eventualmente garantito; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    sulla transazione delle controversie con la societa', con il voto favorevole di tante azioni che rappresentino almeno il venti per cento delle azioni della categoria; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    sugli altri oggetti d'interesse comune.
 
 L'assemblea speciale dei possessori di azioni di risparmio e' convocata dal rappresentante comune degli azionisti di risparmio, (( ovvero dal consiglio di amministrazione o dal consiglio di gestione)) , entro sessanta giorni dall'emissione o dalla conversione delle azioni e quando lo ritengano necessario o ne sia fatta richiesta da tanti possessori di azioni di risparmio che rappresentino almeno l'uno per cento delle azioni di risparmio della categoria.
 
@@ -6384,7 +14747,56 @@ AGGIORNAMENTO (133)
 
 ((
 
+1.
+                        
+                            
+                                Fermo quanto previsto all'articolo 147-ter, commi 1-ter, 3 e 4, lo statuto puo' prevedere che il consiglio di amministrazione uscente possa presentare una lista di candidati per l'elezione dei componenti dell'organo di amministrazione. In tale caso: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il consiglio di amministrazione uscente delibera sulla presentazione della lista con il voto favorevole dei due terzi dei suoi componenti; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la lista contiene un numero di candidati pari al numero dei componenti da eleggere maggiorato di un terzo.
+
 La lista di cui al comma 1 e' depositata e resa pubblica con le modalita' previste dall'articolo 147-ter, comma 1-bis, entro il quarantesimo giorno precedente la data dell'assemblea convocata per deliberare sulla nomina dei componenti del consiglio di amministrazione.
+
+3.
+                        
+                            
+                                Qualora sia presentata la lista di cui ai commi 1 e 2: 
+ 
+                            
+                            
+                                a)
+                                
+                                    se la lista del consiglio di amministrazione uscente risulta quella che ha ottenuto il maggior numero di voti, dalla medesima lista e' tratto, in base al numero di ordine progressivo con il quale i candidati sono elencati, il numero dei consiglieri spettanti secondo quanto precisato alla lettera b), con le seguenti modalita': 
+ 1) l'assemblea procede a un'ulteriore votazione individuale su ogni singolo candidato; 
+ 2) i candidati sono ordinati sulla base del numero di voti da ciascuno di essi ottenuto dal piu' alto al piu' basso; 
+ 3) risultano eletti i candidati che abbiano ottenuto i maggiori suffragi, in ragione dei posti da assegnare; 
+ 4) in caso di parita' tra candidati si procede in base all'ordine progressivo con il quale i medesimi sono elencati nella lista; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    se la lista del consiglio di amministrazione uscente risulta quella che ha riportato il maggior numero di voti in assemblea, i componenti del nuovo consiglio di amministrazione di competenza delle minoranze sono tratti dalle altre liste secondo le seguenti modalita': 
+ 1) qualora il totale dei voti raccolti dalle altre liste, in numero non superiore a due in ordine di consensi raccolti in assemblea, sia non superiore al 20 per cento del totale dei voti espressi, le predette liste concorrono alla ripartizione dei posti in consiglio di amministrazione in proporzione ai voti da ciascuna riportati in assemblea e comunque per un ammontare complessivo non inferiore al 20 per cento del totale dei componenti dello stesso organo. I restanti posti in consiglio di amministrazione sono attribuiti alla lista che ha riportato il maggior numero di voti e i relativi candidati sono votati dall'assemblea con le modalita' di cui alla lettera a); 
+ 2) qualora il totale dei voti raccolti in assemblea dalle altre liste, in numero non superiore a due in ordine di consensi raccolti, sia superiore al 20 per cento del totale dei voti espressi, i componenti del nuovo consiglio di amministrazione di competenza delle minoranze sono assegnati proporzionalmente ai voti ottenuti dalle liste di minoranza che hanno conseguito una percentuale di voti non inferiore al 3 per cento. Ai fini del computo del riparto dei consiglieri spettanti ai sensi del primo periodo, i voti delle liste che hanno conseguito una percentuale di voti inferiore al 3 per cento sono assegnati proporzionalmente ai voti ottenuti dalle liste di minoranza che hanno superato detta soglia; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    se la lista del consiglio di amministrazione uscente risulta l'unica ritualmente presentata, i consiglieri da eleggere sono tratti per intero dalla stessa.
 
 4. Qualora la lista del consiglio di amministrazione uscente abbia concorso, in conformita' al presente articolo, al riparto degli amministratori eletti risultando quella che ha riportato il maggior numero di voti in assemblea, lo statuto prevede che l'eventuale comitato endo-consiliare istituito in materia di controllo interno e gestione dei rischi sia nominato dal consiglio di amministrazione e presieduto da un amministratore indipendente individuato fra gli amministratori eletti che non siano stati tratti dalla lista del consiglio di amministrazione uscente))
 
@@ -6629,6 +15041,52 @@ Il dirigente preposto alla redazione dei documenti contabili societari predispon
 
 Il consiglio di amministrazione vigila affinche' il dirigente preposto alla redazione dei documenti contabili societari disponga di adeguati poteri e mezzi per l'esercizio dei compiti a lui attribuiti ai sensi del presente articolo, nonche' sul rispetto effettivo delle procedure amministrative e contabili.
 
+5.
+                        
+                            
+                                Gli organi amministrativi delegati e il dirigente preposto alla redazione dei documenti contabili societari attestano con apposita relazione sul bilancio di esercizio, sul bilancio semestrale abbreviato e, ove redatto, sul bilancio consolidato: 
+ 
+                            
+                            
+                                a)
+                                
+                                    l'adeguatezza e l'effettiva applicazione delle procedure di cui al comma 3 nel corso del periodo cui si riferiscono i documenti; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    che i documenti sono redatti in conformita' ai principi contabili internazionali applicabili riconosciuti nella Comunita' europea ai sensi del regolamento (CE) n. 1606/2002 del Parlamento europeo e del Consiglio, del 19 luglio 2002; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    la corrispondenza dei documenti alle risultanze dei libri e delle scritture contabili; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    l'idoneita' dei documenti a fornire una rappresentazione veritiera e corretta della situazione patrimoniale, economica e finanziaria dell'emittente e dell'insieme delle imprese incluse nel consolidamento; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    per il bilancio d'esercizio e per quello consolidato, che la relazione sulla gestione comprende un'analisi attendibile dell'andamento e del risultato della gestione, nonche' della situazione dell'emittente e dell'insieme delle imprese incluse nel consolidamento, unitamente alla descrizione dei principali rischi e incertezze cui sono esposti; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    per il bilancio semestrale abbreviato, che la relazione intermedia sulla gestione contiene un'analisi attendibile delle informazioni di cui al comma 4 dell'articolo 154-ter.
+
 L'attestazione di cui al comma 5 e' resa secondo il modello stabilito con regolamento dalla Consob.
 
 Qualora l'emittente sia soggetto agli obblighi in materia di rendicontazione di sostenibilita' di cui al decreto legislativo adottato in attuazione dell'articolo 13 della legge 21 febbraio 2024, n. 15, gli organi amministrativi delegati e il dirigente preposto alla redazione dei documenti contabili societari attestano, con apposita relazione, che la rendicontazione di sostenibilita' inclusa nella relazione sulla gestione e' stata redatta conformemente agli standard di rendicontazione applicati ai sensi della direttiva 2013/34/UE del Parlamento europeo e del Consiglio, del 26 giugno 2013, e del decreto legislativo adottato in attuazione dell'articolo 13 della legge 21 febbraio 2024, n. 15 e con le specifiche adottate a norma dell'articolo 8, paragrafo 4, del regolamento (UE) 2020/852 del Parlamento europeo e del Consiglio, del 18 giugno 2020. La medesima attestazione puo' essere resa da un dirigente diverso dal dirigente preposto alla redazione dei documenti contabili societari, dotato di specifiche competenze in materia di rendicontazione di sostenibilita', nominato, previo parere obbligatorio dell'organo di controllo, secondo le modalita' e nel rispetto dei requisiti di professionalita' previsti dallo statuto. L'attestazione e' resa secondo il modello stabilito con regolamento dalla Consob. (123) ((127))
@@ -6680,6 +15138,86 @@ Gli emittenti quotati aventi l'Italia come Stato membro d'origine pubblicano, qu
 Il bilancio semestrale abbreviato di cui al comma 2, e' redatto in conformita' ai principi contabili internazionali applicabili riconosciuti nella Comunita' europea ai sensi del regolamento (CE) n. 1606/2002. Tale bilancio e' redatto in forma consolidata se l'emittente quotato avente l'Italia come Stato membro d'origine e' obbligato a redigere il bilancio consolidato.
 
 La relazione intermedia sulla gestione contiene almeno riferimenti agli eventi importanti che si sono verificati nei primi sei mesi dell'esercizio e alla loro incidenza sul bilancio semestrale abbreviato, unitamente a una descrizione dei principali rischi e incertezze per i sei mesi restanti dell'esercizio. Per gli emittenti azioni quotate aventi l'Italia come Stato membro d'origine, la relazione intermedia sulla gestione contiene, altresi', informazioni sulle operazioni rilevanti con parti correlate.
+
+5.
+                        
+                            
+                                Con il regolamento di cui al comma 6, la Consob puo' disporre, nei confronti di emittenti aventi l'Italia come Stato membro d'origine, inclusi gli enti finanziari, l'obbligo di pubblicare informazioni finanziarie periodiche aggiuntive consistenti al piu' in: 
+                            
+                            
+                                a)
+                                
+                                    una descrizione generale della situazione patrimoniale e dell'andamento economico dell'emittente e delle sue imprese controllate nel periodo di riferimento;
+                                
+                            
+                            
+                                b)
+                                
+                                    una illustrazione degli eventi rilevanti e delle operazioni che hanno avuto luogo nel periodo di riferimento e la loro incidenza sulla situazione patrimoniale dell'emittente e delle sue imprese controllate.
+
+5-bis.
+                        
+                            
+                                Prima dell'eventuale introduzione degli obblighi di cui al comma 5, la Consob rende pubblica l'analisi di impatto effettuata ai sensi dell'articolo 14, comma 24-quater, della legge 28 novembre 2005, n. 246. Quest'ultima, in conformita' alla disciplina comunitaria di riferimento, esamina, anche in chiave comparatistica, la sussistenza delle seguenti condizioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    le informazioni finanziarie periodiche aggiuntive non comportano oneri sproporzionati, in particolare per i piccoli e medi emittenti interessati; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il contenuto delle informazioni finanziarie periodiche aggiuntive richieste e' proporzionato ai fattori che contribuiscono alle decisioni di investimento assunte dagli investitori; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    le informazioni finanziarie periodiche aggiuntive richieste non favoriscono un'attenzione eccessiva ai risultati e al rendimento a breve termine degli emittenti e non incidono negativamente sulle possibilita' di accesso dei piccoli e medi emittenti ai mercati regolamentati.
+
+6.
+                        
+                            
+                                La Consob, in conformita' alla disciplina europea, stabilisce con regolamento: 
+ 
+                            
+                            
+                                a)
+                                
+                                    i termini e le modalita' di pubblicazione dei documenti di cui ai commi 1 e 2 e delle eventuali informazioni aggiuntive di cui al comma 5, nonche' del documento di registrazione universale ai sensi dell'articolo 9, paragrafo 12, del regolamento prospetto; 
+
+                                
+                            
+                            
+                                a-bis)
+                                
+                                    le eventuali disposizioni di attuazione del comma 1.1; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    i casi di esenzione dall'obbligo di pubblicazione delle relazioni finanziarie; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il contenuto delle informazioni sulle operazioni rilevanti con parti correlate di cui al comma 4; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    le modalita' di applicazione del presente articolo per gli emittenti quote di fondi chiusi.
 
 Fermi restando i poteri previsti dall'articolo 157, comma 2, la Consob, nel caso in cui abbia accertato che i documenti che compongono le relazioni finanziarie di cui al presente articolo non sono conformi alle norme che ne disciplinano la redazione, puo' chiedere all'emittente di rendere pubblica tale circostanza e di provvedere alla pubblicazione delle informazioni supplementari necessarie a ripristinare una corretta informazione del mercato ((ovvero di apportare una correzione nella futura relazione finanziaria con la rielaborazione dei dati comparativi, se del caso)).
 
@@ -6863,6 +15401,68 @@ garantiscono la trasparenza societaria))
 
 Si applicano le nozioni di controllo previste dall'articolo 93 e quelle di collegamento previste dall'articolo 2359, terzo comma, del codice civile.
 
+3.
+                        
+                            
+                                Gli Stati di cui al comma 1 sono individuati con decreti del Ministro della giustizia, di concerto con il Ministro dell'economia e delle finanze, sulla base dei seguenti criteri: 
+ 
+                            
+                            
+                                a)
+                                
+                                    per quanto riguarda le forme e le condizioni per la costituzione delle societa': 
+ 1) mancanza di forme di pubblicita' dell'atto costitutivo e dello statuto, nonche' delle successive modificazioni di esso; 
+ 2) mancanza del requisito di un capitale sociale minimo, idoneo a garantire i terzi creditori, per la costituzione delle societa', nonche' della previsione di scioglimento in caso di riduzione del capitale al di sotto del minimo legale, salvo il caso di reintegrazione entro un termine definito; 
+ 3) mancanza di norme che garantiscano l'effettivita' e l'integrita' del capitale sociale sottoscritto, in particolare con la sottoposizione dei conferimenti costituiti da beni in natura o crediti alla valutazione da parte di un esperto appositamente nominato; 
+ 4) mancanza di forme di controllo, da parte di soggetti o organismi a cio' abilitati da specifiche disposizioni di legge, circa la conformita' degli atti di cui al numero 1) alle condizioni richieste per la costituzione delle societa'; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    per quanto riguarda la struttura delle societa', mancanza della previsione di un organo di controllo distinto dall'organo di amministrazione, o di un comitato di controllo interno all'organo amministrativo, dotato di adeguati poteri di ispezione, controllo e autorizzazione sulla contabilita', sul bilancio e sull'assetto organizzativo della societa', e composto da soggetti forniti di adeguati requisiti di onorabilita', professionalita' e indipendenza; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    per quanto riguarda il bilancio di esercizio: 
+ 1) mancanza della previsione dell'obbligo di redigere tale bilancio, comprendente almeno il conto economico e lo stato patrimoniale, con l'osservanza dei seguenti principi: 
+ 1.1) rappresentazione chiara, veritiera e corretta della situazione patrimoniale e finanziaria della societa' e del risultato economico dell'esercizio; 
+ 1.2) illustrazione chiara dei criteri di valutazione adottati nella redazione del conto economico e dello stato patrimoniale; 
+ 2) mancanza dell'obbligo di deposito, presso un organo amministrativo o giudiziario, del bilancio, redatto secondo i principi di cui al numero 1); 
+ 3) mancanza dell'obbligo di sottoporre la contabilita' e il bilancio delle societa' a verifica da parte dell'organo o del comitato di controllo di cui alla lettera b) ovvero di un revisore legale dei conti; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    la legislazione del Paese ove la societa' ha sede legale impedisce o limita l'operativita' della societa' stessa sul proprio territorio; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    la legislazione del Paese ove la societa' ha sede legale esclude il risarcimento dei danni arrecati agli amministratori rimossi senza una giusta causa, ovvero consente che tale clausola sia contenuta negli atti costitutivi delle societa' o in altri strumenti negoziali; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    mancata previsione di un'adeguata disciplina che impedisca la continuazione dell'attivita' sociale dopo l'insolvenza, senza ricapitalizzazione o prospettive di risanamento; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    mancanza di adeguate sanzioni penali nei confronti degli esponenti aziendali che falsificano la contabilita' e i bilanci.
+
 Con i decreti del Ministro della giustizia, di cui al comma 3, possono essere individuati, in relazione alle forme e alle discipline societarie previste in ordinamenti stranieri, criteri equivalenti in base ai quali possano considerarsi soddisfatti i requisiti di trasparenza e di idoneita' patrimoniale e organizzativa determinati nel presente articolo.
 
 I decreti di cui al comma 3 possono individuare Stati i cui ordinamenti presentino carenze particolarmente gravi con riguardo ai profili indicati alle lettere b), c) e g) del medesimo comma 3.
@@ -6924,6 +15524,38 @@ La CONSOB esercita i poteri previsti dagli articoli 114 e 115,
 ## - PARTE V SANZIONI TITOLO I SANZIONI PENALI CAPO I INTERMEDIARI E MERCATI
 
 ## Art. 166. — Abusivismo
+
+1.
+                        
+                            
+                                E' punito con la reclusione da uno a otto anni e con la multa da euro quattromila a euro diecimila chiunque, senza esservi abilitato ai sensi del presente decreto: (73) 
+ 
+                            
+                            
+                                a)
+                                
+                                    svolge servizi o attivita' di investimento o di gestione collettiva del risparmio; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    offre in Italia quote o azioni di OICR; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    offre fuori sede, ovvero promuove o colloca mediante tecniche di comunicazione a distanza, prodotti finanziari o strumenti finanziari o servizi o attivita' di investimento. (73) 
+
+                                
+                            
+                            
+                                c-bis)
+                                
+                                    gestisce un APA o un ARM a cui si applicherebbe la deroga prevista dall'articolo 2, paragrafo 3, del regolamento (UE) n. 600/2014 e dai relativi atti delegati.
 
 Con la stessa pena e' punito chiunque esercita l'attivita' di consulente finanziario abilitato all'offerta fuori sede senza essere iscritto nell'albo indicato dall'articolo 31.
 
@@ -7031,6 +15663,75 @@ Chiunque, allo scopo di conseguire per se' o per altri un
 
 ## Art. 180. — (Definizioni)
 
+1.
+                        
+                            
+                                Ai fini del presente titolo si intendono per: 
+ 
+                            
+                            
+                                a)
+                                
+                                    "strumenti finanziari": 
+ 1) gli strumenti finanziari di cui all'articolo 1, comma 2, ammessi alla negoziazione o per i quali e' stata presentata una richiesta di ammissione alle negoziazioni in un mercato regolamentato italiano o di altro Paese dell'Unione europea ((...)); 
+ ((2) gli strumenti finanziari di cui all'articolo 1, comma 2, ammessi alla negoziazione o per i quali e' stata presentata una richiesta di ammissione alle negoziazioni in un sistema multilaterale di negoziazione italiano o di altro Paese dell'Unione europea.))
+                                        ((2-bis) gli strumenti finanziari negoziati su un sistema organizzato di negoziazione italiano o di altro Paese dell'Unione europea; 
+ 2-ter) gli strumenti finanziari non contemplati dai precedenti numeri, il cui prezzo o valore dipende dal prezzo o dal valore di uno strumento finanziario ivi menzionato, ovvero ha un effetto su tale prezzo o valore, compresi, non in via esclusiva, i credit default swap e i contratti differenziali;))
+                                    
+                                
+                            
+                            
+                                b)
+                                
+                                    "contratto a pronti su merci": un contratto a pronti su merci quale definito nell'articolo 3, paragrafo 1, punto 15), del regolamento (UE) n. 596/2014;
+                                
+                            
+                            
+                                b-bis)
+                                
+                                    "programma di riacquisto di azioni proprie": la negoziazione di azioni proprie ai sensi dell'articolo 132; 
+
+                                
+                            
+                            
+                                b-ter)
+                                
+                                    "informazione privilegiata": l'informazione contemplata dall'articolo 7, paragrafi da 1 a 4, del regolamento (UE) n. 596/2014; 
+
+                                
+                            
+                            
+                                b-quater)
+                                
+                                    "indice di riferimento (benchmark)": l'indice di riferimento (benchmark), quale definito nell'articolo 3, paragrafo 1, punto 29), del regolamento (UE) n. 596/2014;
+                                
+                            
+                            
+                                c)
+                                
+                                    "prassi di mercato ammessa": prassi ammessa dalla Consob conformemente all'articolo 13 del regolamento (UE) n. 596/2014.
+                                
+                            
+                            
+                                c-bis)
+                                
+                                    "stabilizzazione": la stabilizzazione quale definita nell'articolo 3, paragrafo 2, lettera d), del regolamento (UE) n. 596/2014; 
+
+                                
+                            
+                            
+                                c-ter)
+                                
+                                    "emittente": l'emittente quale definito nell'articolo 3, paragrafo 1, punto 21), del regolamento (UE) n. 596/2014.
+                                
+                            
+                            
+                                d)
+                                
+                                    "ente": uno dei soggetti indicati nell'articolo 1 del decreto legislativo 8 giugno 2001, n. 231. 
+ 
+ (12)
+
 ---------------
                             AGGIORNAMENTO (12)
                             
@@ -7044,6 +15745,70 @@ Chiunque, allo scopo di conseguire per se' o per altri un
 
 ((
 
+1.
+                        
+                            
+                                Le disposizioni degli articoli 184, 185, 187-bis e 187-ter si applicano ai fatti concernenti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    strumenti finanziari ammessi alla negoziazione o per i quali e' stata presentata una richiesta di ammissione alla negoziazione in un mercato regolamentato italiano o di altro Paese dell'Unione europea; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    strumenti finanziari ammessi alla negoziazione o per i quali e' stata presentata una richiesta di ammissione alla negoziazione in un sistema multilaterale di negoziazione italiano o di altro Paese dell'Unione europea; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    strumenti finanziari negoziati su un sistema organizzato di negoziazione; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    strumenti finanziari non previsti dalle lettere a), b) e c), il cui prezzo o valore dipende dal prezzo o dal valore di uno strumento finanziario menzionato nelle stesse lettere ovvero ha un effetto su tale prezzo o valore, compresi, ma non in via esclusiva, i credit default swap e i contratti differenziali; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    condotte od operazioni, comprese le offerte, relative alle aste su una piattaforma d'asta autorizzata, come un mercato regolamentato di quote di emissioni o di altri prodotti oggetto d'asta correlati, anche quando i prodotti oggetto d'asta non sono strumenti finanziari, ai sensi del regolamento (UE) n. 1031/2010 della Commissione, del 12 novembre 2010.
+
+2.
+                        
+                            
+                                Le disposizioni degli articoli 185 e 187-ter si applicano altresi' ai fatti concernenti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    i contratti a pronti su merci che non sono prodotti energetici all'ingrosso, idonei a provocare una sensibile alterazione del prezzo o del valore degli strumenti finanziari di cui all'articolo 180, comma 1, lettera a); 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    gli strumenti finanziari, compresi i contratti derivati o gli strumenti derivati per il trasferimento del rischio di credito, idonei a provocare una sensibile alterazione del prezzo o del valore di un contratto a pronti su merci, qualora il prezzo o il valore dipendano dal prezzo o dal valore di tali strumenti finanziari; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    gli indici di riferimento (benchmark).
+
 Le disposizioni del presente titolo si applicano a qualsiasi operazione, ordine o altra condotta relativi agli strumenti finanziari di cui ai commi 1 e 2, indipendentemente dal fatto che tale operazione, ordine o condotta avvenga in una sede di negoziazione.
 
 4. I reati e gli illeciti previsti dal presente titolo sono sanzionati secondo la legge italiana, anche se commessi in territorio estero, quando attengono a strumenti finanziari ammessi o per i quali e' stata presentata una richiesta di ammissione alla negoziazione in un mercato regolamentato italiano o in un sistema multilaterale di negoziazione italiano o a strumenti finanziari negoziati su un sistema organizzato di negoziazione italiano))
@@ -7054,6 +15819,24 @@ Le disposizioni del presente titolo si applicano a qualsiasi operazione, ordine 
  La L. 18 aprile 2005, n. 62 ha disposto (con l'art. 9, comma 6) che "Le disposizioni previste dalla parte V, titolo I-bis, del testo unico di cui al decreto legislativo 28 febbraio 1998, n. 58, si applicano anche alle violazioni commesse anteriormente alla data di entrata in vigore della presente legge che le ha depenalizzate, quando il relativo procedimento penale non sia stato definito".
 
 ## Art. 183. — (Esenzioni)
+
+1.
+                        
+                            
+                                Le disposizioni di cui al presente titolo non si applicano: 
+ 
+                            
+                            
+                                a)
+                                
+                                    alle operazioni, agli ordini o alle condotte previsti dall'articolo 6 del regolamento (UE) n. 596/2014, dai soggetti ivi indicati, nell'ambito della politica monetaria, della politica dei cambi o nella gestione del debito pubblico, nonche' nell'ambito delle attivita' della politica climatica dell'Unione o nell'ambito della politica agricola comune o della politica comune della pesca dell'Unione; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    alle negoziazioni di azioni proprie effettuate ai sensi dell'articolo 5 del regolamento (UE) n. 596/2014;
 
 ---------------
                             AGGIORNAMENTO (12)
@@ -7066,6 +15849,31 @@ Le disposizioni del presente titolo si applicano a qualsiasi operazione, ordine 
 Raccomandazione o induzione di altri alla commissione di abuso di informazioni privilegiate). ))
 
 ((
+
+1.
+                        
+                            
+                                E' punito con la reclusione da due a dodici anni e con la multa da euro ventimila a euro tre milioni chiunque, essendo in possesso di informazioni privilegiate in ragione della sua qualita' di membro di organi di amministrazione, direzione o controllo dell'emittente, della partecipazione al capitale dell'emittente ovvero dell'esercizio di un'attivita' lavorativa, di una professione o di una funzione, anche pubblica, o di un ufficio: 
+ 
+                            
+                            
+                                a)
+                                
+                                    acquista, vende o compie altre operazioni, direttamente o indirettamente, per conto proprio o per conto di terzi, su strumenti finanziari utilizzando le informazioni medesime; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    comunica tali informazioni ad altri, al di fuori del normale esercizio del lavoro, della professione, della funzione o dell'ufficio o di un sondaggio di mercato effettuato ai sensi dell'articolo 11 del regolamento (UE) n. 596/2014 del Parlamento europeo e del Consiglio, del 16 aprile 2014; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    raccomanda o induce altri, sulla base di tali informazioni, al compimento di taluna delle operazioni indicate nella lettera a).
 
 La stessa pena di cui al comma 1 si applica a chiunque, essendo in possesso di informazioni privilegiate a motivo della preparazione o dell'esecuzione di attivita' delittuose, commette taluno dei fatti di cui al medesimo comma 1.
 
@@ -7201,6 +16009,34 @@ Fermo quanto previsto dal comma 4, la sanzione indicata dal comma 5 si applica n
 
 Se il vantaggio ottenuto dall'autore della violazione come conseguenza della violazione stessa e' superiore ai limiti massimi indicati nel presente articolo, la sanzione amministrativa pecuniaria e' elevata fino al triplo dell'ammontare del vantaggio ottenuto, purche' tale ammontare sia determinabile.
 
+8.
+                        
+                            
+                                La Consob, anche unitamente alle sanzioni amministrative pecuniarie previste dal presente articolo, puo' applicare una o piu' delle misure amministrative previste dall'articolo 30, paragrafo 2, lettere da 
+                            
+                            
+                                a)
+                                
+                                    a g), del regolamento (UE) n. 596/2014.
+
+9.
+                        
+                            
+                                Quando le infrazioni sono connotate da scarsa offensivita' o pericolosita', in luogo delle sanzioni pecuniarie previste dal presente articolo, la Consob, ferma la facolta' di disporre la confisca di cui all'art. 187-sexies, puo' applicare una delle seguenti misure amministrative: 
+ 
+                            
+                            
+                                a)
+                                
+                                    un ordine di eliminare le infrazioni contestate, con eventuale indicazione delle misure da adottare e del termine per l'adempimento, e di astenersi dal ripeterle; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    una dichiarazione pubblica avente ad oggetto la violazione commessa e il soggetto responsabile, quando l'infrazione contestata e' cessata.
+
 L'inosservanza degli obblighi prescritti con le misure di cui all'articolo 30, paragrafo 2, del regolamento (UE) n. 596/2014, entro il termine stabilito, importa l'aumento fino ad un terzo della sanzione amministrativa pecuniaria irrogata ovvero l'applicazione della sanzione amministrativa pecuniaria prevista per la violazione originariamente contestata aumentata fino ad un terzo.
 
 Alle sanzioni amministrative pecuniarie previste dal presente articolo non si applicano gli articoli 6, 10, 11 e 16 della legge 24 novembre 1981, n. 689.
@@ -7210,6 +16046,45 @@ Alle sanzioni amministrative pecuniarie previste dal presente articolo non si ap
 ## Art. 187-quater. — (Sanzioni amministrative accessorie).
 
 ((
+
+1.
+                        
+                            
+                                L'applicazione delle sanzioni amministrative pecuniarie previste dagli articoli 187-bis e 187-ter importa: 
+ 
+                            
+                            
+                                a)
+                                
+                                    l'interdizione temporanea dallo svolgimento di funzioni di amministrazione, direzione e controllo presso soggetti autorizzati ai sensi del presente decreto, del decreto legislativo 1° settembre 1993, n. 385, del decreto legislativo 7 settembre 2005, n. 209, o presso fondi pensione; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'interdizione temporanea dallo svolgimento di funzioni di amministrazione, direzione e controllo di societa' quotate e di societa' appartenenti al medesimo gruppo di societa' quotate; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    la sospensione dal Registro, ai sensi dell'articolo 26, commi 1, lettera d), e 1-bis, del decreto legislativo 27 gennaio 2010, n. 39, del revisore legale, della societa' di revisione legale o del responsabile dell'incarico; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    la sospensione dall'albo di cui all'articolo 31, comma 4, per i consulenti finanziari abilitati all'offerta fuori sede; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    la perdita temporanea dei requisiti di onorabilita' per i partecipanti al capitale dei soggetti indicati alla lettera a).
 
 ))
 
@@ -7241,6 +16116,25 @@ Con il provvedimento di applicazione delle sanzioni amministrative pecuniarie pr
  La L. 18 aprile 2005, n. 62 ha disposto (con l'art. 9, comma 6) che "Le disposizioni previste dalla parte V, titolo I-bis, del testo unico di cui al decreto legislativo 28 febbraio 1998, n. 58, si applicano anche alle violazioni commesse anteriormente alla data di entrata in vigore della presente legge che le ha depenalizzate, quando il relativo procedimento penale non sia stato definito".
 
 ## Art. 187-quinquies. — (Responsabilita' dell'ente).
+
+1.
+                        
+                            
+                                
+                                    ((L'ente e' punito con la sanzione amministrativa pecuniaria da ventimila euro fino a quindici milioni di euro, ovvero fino al quindici per cento del fatturato, quando tale importo e' superiore a quindici milioni di euro e il fatturato e' determinabile ai sensi dell'articolo 195, comma 1-bis, nel caso in cui sia commessa nel suo interesse o a suo vantaggio una violazione del divieto di cui all'articolo 14 o del divieto di cui all'articolo 15 del regolamento (UE) n. 596/2014:))
+                                
+                            
+                            
+                                a)
+                                
+                                    da persone che rivestono funzioni di rappresentanza, di amministrazione o di direzione dell'ente o di una sua unita' organizzativa dotata di autonomia finanziaria o funzionale nonche' da persone che esercitano, anche di fatto, la gestione e il controllo dello stesso; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    da persone sottoposte alla direzione o alla vigilanza di uno dei soggetti di cui alla lettera a).
 
 Se, in seguito alla commissione degli illeciti di cui al comma 1, il prodotto o il profitto conseguito dall'ente e' di rilevante entita', la sanzione e' aumentata fino a dieci volte tale prodotto o profitto.
 
@@ -7360,9 +16254,130 @@ La Consob e' l'autorita' nazionale competente ai sensi dell'articolo 22 del rego
 
 La CONSOB compie tutti gli atti necessari all'accertamento delle violazioni delle disposizioni ((contenute nel regolamento (UE) n. 596/2014 e nel)) presente titolo, utilizzando i poteri ad essa attribuiti dal presente decreto.
 
+3.
+                        
+                            
+                                La CONSOB puo' nei confronti di chiunque possa essere informato sui fatti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    richiedere notizie, dati o documenti sotto qualsiasi forma stabilendo il termine per la relativa comunicazione; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    richiedere le registrazioni esistenti relative a conversazioni telefoniche, a comunicazioni elettroniche e allo scambio di dati, stabilendo il termine per la relativa trasmissione;
+                                
+                            
+                            
+                                c)
+                                
+                                    procedere ad audizione personale; 
+
+                                
+                            
+                            
+                                c-bis)
+                                
+                                    in relazione a strumenti derivati su merci, richiedere dati sulle operazioni e accedere direttamente ai sistemi dei partecipanti al mercato;
+                                
+                            
+                            
+                                d)
+                                
+                                    procedere al sequestro dei beni che possono formare oggetto di confisca ai sensi dell' articolo 187-sexies; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    procedere ad ispezioni ((, anche mediante autorizzazione di revisori legali o societa' di revisione legale a procedere a verifiche o ispezioni per suo conto quando sussistono particolari necessita' e non sia possibile provvedere con risorse proprie; il soggetto autorizzato a procedere alle predette verifiche ed ispezioni agisce in veste di pubblico ufficiale)); 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    procedere a perquisizioni nei modi previsti dall'articolo 33 del decreto del Presidente della Repubblica 29 settembre 1973, n. 600, e dall'articolo 52 del decreto del Presidente della Repubblica 26 ottobre 1972, n. 633.
+
+4.
+                        
+                            
+                                La CONSOB puo' altresi': 
+ 
+                            
+                            
+                                a)
+                                
+                                    avvalersi della collaborazione delle pubbliche amministrazioni, richiedendo la comunicazione di dati ed informazioni anche in deroga ai divieti di cui all'articolo 25, comma 1, del decreto legislativo 30 giugno 2003, n. 196, ed accedere al sistema informativo dell'anagrafe tributaria secondo le modalita' previste dagli articoli 2 e 3, comma 1, del decreto legislativo 12 luglio 1991, n. 212; 
+
+                                
+                            
+                            
+                                a-bis)
+                                
+                                    accedere direttamente, mediante apposita connessione telematica, ai dati contenuti negli elenchi di cui all'articolo 55, comma 7, del decreto legislativo 1° agosto 2003, n. 259;
+                                
+                            
+                            
+                                b)
+                                
+                                    chiedere l'acquisizione presso il fornitore dei dati relativi al traffico di cui al decreto legislativo 30 giugno 2003, n. 196 ((, o acquisire direttamente tali dati mediante connessione telematica)); 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    richiedere la comunicazione di dati personali anche in deroga ai divieti di cui all'articolo 25, comma 1, del decreto legislativo 30 giugno 2003, n. 196; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    avvalersi, ove necessario, dei dati contenuti nell'anagrafe dei conti e dei depositi di cui all'articolo 20, comma 4, della legge 30 dicembre 1991, n. 413, secondo le modalita' indicate dall'articolo 3, comma 4, lettera b), del decreto-legge 3 maggio 1991, n. 143, convertito, con modificazioni, dalla legge 5 luglio 1991, n. 197, nonche' acquisire anche mediante accesso diretto i dati contenuti nell'archivio indicato all'articolo 13 del decreto-legge 15 dicembre 1979, n. 625, convertito, con modificazioni, dalla legge 6 febbraio 1980, n. 15; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    accedere direttamente, mediante apposita connessione telematica, ai dati contenuti nella Centrale dei rischi della Banca d'Italia, di cui alla deliberazione del Comitato interministeriale per il credito e il risparmio del 29 marzo 1994, pubblicata nella Gazzetta Ufficiale n. 91 del 20 aprile 1994. 
+
+                                
+                            
+                            
+                                e-bis)
+                                
+                                    avvalersi, ove necessario, anche mediante connessione telematica, dei dati contenuti nell'apposita sezione dell'anagrafe tributaria di cui all'articolo 7, sesto comma, del decreto del Presidente della Repubblica 29 settembre 1973, n. 605.
+
 I poteri di cui al comma 3, lettere d) e f), e al comma 4, lettera b), sono esercitati previa autorizzazione del procuratore della Repubblica. Detta autorizzazione e' necessaria anche in caso di esercizio dei poteri di cui al comma 3, lettere b) ed e), e al comma 4, lettera c), nei confronti di soggetti diversi dai soggetti abilitati ((e dagli altri soggetti vigilati ai sensi del regolamento (UE) n. 596/2014 e del presente decreto)).
 
 ((
+
+6.
+                        
+                            
+                                Qualora sussistano elementi che facciano presumere l'esistenza di violazioni delle norme del regolamento (UE) n. 596/2014 e del presente titolo, la Consob puo' anche in via cautelare: 
+ 
+                            
+                            
+                                a)
+                                
+                                    ordinare la cessazione temporanea o permanente di qualunque pratica o condotta; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    salvo quanto previsto dall'articolo 114, comma 5, adottare tutte le misure necessarie a garantire che il pubblico sia correttamente informato con riguardo, tra l'altro, alla correzione di informazioni false o fuorvianti precedentemente divulgate, anche imponendo ai soggetti interessati di pubblicare una dichiarazione di rettifica.
 
 ))
 
@@ -7373,6 +16388,38 @@ Nei casi previsti dai commi 3, lettere c), d), e) e f), e 12 viene redatto proce
 Quando si e' proceduto a sequestro ai sensi del comma 3, lettera d), gli interessati possono proporre opposizione alla CONSOB.
 
 Sull'opposizione la decisione e' adottata con provvedimento motivato emesso entro il trentesimo giorno successivo alla sua proposizione.
+
+11.
+                        
+                            
+                                I valori sequestrati devono essere restituiti agli aventi diritto quando: 
+ 
+                            
+                            
+                                a)
+                                
+                                    e' deceduto l'autore della violazione; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    viene provato che gli aventi diritto sono terzi estranei all'illecito; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    l'atto di contestazione degli addebiti non e' notificato nei termini prescritti dall'articolo ((187-septies, comma 1)); 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    la sanzione amministrativa pecuniaria non e' stata applicata entro il termine di due anni dall'accertamento della violazione.
 
 Nell'esercizio dei poteri previsti dai commi 2, 3 e 4 la CONSOB puo' avvalersi della Guardia di finanza che esegue gli accertamenti richiesti agendo con i poteri di indagine ad essa attribuiti ai fini dell'accertamento dell'imposta sul valore aggiunto e delle imposte sui redditi.
 
@@ -7533,7 +16580,97 @@ Salvo che il fatto costituisca reato ai sensi dell'articolo 166, nei confronti d
 
 Chiunque presti servizi di crowdfunding in assenza dell'autorizzazione prevista dall'articolo 12 del regolamento (UE) 2020/1503 e' punito con la sanzione amministrativa pecuniaria da euro cinquemila fino a euro cinque milioni. Se la violazione e' commessa da una societa' o un ente, si applica nei confronti di questi ultimi la sanzione amministrativa pecuniaria da euro trentamila fino a euro cinque milioni, ovvero fino al dieci per cento del fatturato, quando tale importo e' superiore a euro cinque milioni e il fatturato e' determinabile ai sensi dell'articolo 195, comma 1-bis. (73)
 
+2.
+                        
+                            
+                                La stessa sanzione prevista dal comma 1 si applica: 
+ 
+                            
+                            
+                                a)
+                                
+                                    alle banche non autorizzate alla prestazione di servizi o di attivita' di investimento, nel caso in cui non osservino le disposizioni dell'articolo 25-bis e di quelle emanate in base ad esse; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    ai soggetti abilitati alla distribuzione assicurativa, nel caso in cui non osservino le disposizioni previste dall'articolo 25-ter, commi 1 e 2, e quelle emanate in base ad esse;(78) 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    ai depositari centrali che prestano servizi o attivita' di investimento per la violazione delle disposizioni del presente decreto richiamate dall'articolo 79-noviesdecies.1. (73)
+
+2-bis.
+                        
+                            
+                                La medesima sanzione prevista dal comma 1 si applica 
+ 
+                            
+                            
+                                a)
+                                
+                                    ai gestori dei fondi europei per il venture capital (EuVECA), in caso di violazione delle disposizioni previste dagli articoli 2, 4-bis, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14 e 14-bis del regolamento (UE) n. 345/2013 e delle relative disposizioni attuative; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    ai gestori dei fondi europei per l'imprenditoria sociale (EuSEF), in caso di violazione delle disposizioni previste dagli articoli 2, 4-bis, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15 e 15-bis del regolamento (UE) n. 346/2013 e delle relative disposizioni attuative; 
+
+                                
+                            
+                            
+                                b-bis)
+                                
+                                    ai gestori e ai depositari di FIA, in caso di violazione delle disposizioni del regolamento delegato (UE) n. 231/2013 della Commissione, del regolamento (UE) n. 2015/760, e delle relative disposizioni attuative; 
+
+                                
+                            
+                            
+                                b-ter)
+                                
+                                    ai gestori e ai depositari di OICVM, in caso di violazione delle disposizioni del regolamento delegato (UE) n. 438/2016 della Commissione e delle relative disposizioni attuative. 
+
+                                
+                            
+                            
+                                b-quater)
+                                
+                                    ai gestori di OICVM e di FIA, in caso di violazione delle disposizioni dell'articolo 13 del regolamento (UE) 2015/2365 e delle relative disposizioni attuative. (61) (84) 
+
+                                
+                            
+                            
+                                b-quinquies)
+                                
+                                    ai gestori di OICVM e di FIA, in caso di violazione delle disposizioni del regolamento (UE) 2017/1131 e delle relative disposizioni attuative. 
+ 2-bis.1. La medesima sanzione prevista dal comma 1 si applica anche in caso di inosservanza delle norme tecniche di regolamentazione e di attuazione relative ai regolamenti di cui al comma 2-bis, lettere a), b), b-bis), b-ter) e b-quinquies), emanate dalla Commissione europea ai sensi degli articoli 10 e 15 del regolamento (CE) n. 1095/2010.
+
 COMMA ABROGATO DAL D.LGS. 3 AGOSTO 2017, N. 129. (73)
+
+2-quater.
+                        
+                            
+                                La medesima sanzione prevista al comma 1 si applica per la violazione dell'articolo 59, paragrafi 2, 3 e 5, del regolamento (UE) n. 1031/2010 e delle relative disposizioni di attuazione nei confronti di: 
+ 
+                            
+                            
+                                a)
+                                
+                                    Sim e banche italiane autorizzate a presentare offerte nel mercato delle aste delle quote di emissione dei gas a effetto serra per conto dei loro clienti ai sensi dell'articolo 20-ter; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    soggetti stabiliti nel territorio della Repubblica che beneficiano dell'esenzione prevista dall'articolo 4-terdecies, comma 1, lettera l), autorizzate a presentare offerte nel mercato delle aste delle quote di emissione dei gas a effetto serra ai sensi dell'articolo 20-ter.
 
 La Consob applica nei confronti dei soggetti abilitati la sanzione prevista dal comma 1 per l'inosservanza dell'articolo 25-quater. (108)
 
@@ -7584,6 +16721,24 @@ COMMA ABROGATO DAL D.LGS. 3 AGOSTO 2017, N. 129. (73)
 
 Nei confronti dei depositari centrali di titoli, nel caso di inosservanza delle disposizioni previste dal Capo IV del titolo II-bis della parte III e di quelle emanate dalla Consob, d'intesa o sentita la Banca d'Italia, ai sensi dell'articolo 82, si applica la sanzione amministrativa pecuniaria da euro trentamila fino a euro ((dieci milioni)). (73) ((98))
 
+2.
+                        
+                            
+                                La stessa sanzione prevista dal comma 1 si applica: 
+ 
+                            
+                            
+                                a)
+                                
+                                    agli intermediari indicati nell'articolo 79-decies, comma 1, lettera b), per inosservanza delle disposizioni di cui all'articolo ((83-quater, comma 3, 83-novies, comma 1, 83-novies.1,)) 83-duodecies, e di quelle emanate in base ad esse; ((98))
+                                    
+                                
+                            
+                            
+                                b)
+                                
+                                    agli emittenti azioni in caso di inosservanza di quanto previsto dall'articolo 83-undecies, comma 1.
+
 ((COMMA ABROGATO DAL D.LGS. 14 LUGLIO 2020, N. 84)). ((98))
 
 ---------------
@@ -7613,6 +16768,59 @@ Nei confronti dei depositari centrali e delle banche designate ai sensi dell'art
 
 Chiunque presti i servizi elencati nell'Allegato al regolamento (UE) n. 909/2014 e quelli consentiti, ma non esplicitamente elencati dal medesimo Allegato, in violazione degli articoli 16, 25 e 54 del predetto regolamento, e' punito con la sanzione amministrativa pecuniaria da euro cinquemila fino a euro cinque milioni. Se la violazione e' commessa da una societa' o un ente, e' applicata la sanzione amministrativa pecuniaria da euro trentamila fino a euro venti milioni, ovvero fino al dieci per cento del fatturato, quando tale importo e' superiore a euro venti milioni e il fatturato e' determinabile ai sensi dell'articolo 195, comma 1-bis. (73)
 
+3.
+                        
+                            
+                                Si applica la sanzione amministrativa pecuniaria da euro duemilacinquecento fino a euro centocinquantamila: 
+ 
+                            
+                            
+                                a)
+                                
+                                    ai gestori delle sedi di negoziazione, in caso di inosservanza delle disposizioni previste dall'articolo 3, paragrafo 2, comma 1, del regolamento di cui al comma 1; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    alle controparti di un contratto di garanzia finanziaria, in caso di violazione delle disposizioni previste dall'articolo 3, paragrafo 2, comma 2, del regolamento di cui al comma 1; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    alle imprese di investimento, in caso di inosservanza delle disposizioni previste dall'articolo 6, paragrafo 2, del regolamento di cui al comma 1 e delle relative disposizioni attuative; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    ai depositari centrali, in caso di inosservanza delle disposizioni previste dall'articolo 6, paragrafi 3 e 4, e dall'articolo 7, paragrafi 1 e 2, del regolamento di cui al comma 1, e delle relative disposizioni attuative; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    ai depositari centrali, alle controparti centrali e alle sedi di negoziazione, in caso di inosservanza delle disposizioni previste ((dall'articolo 7, paragrafo 7, e dall'articolo 7-bis, paragrafo 11,)) del regolamento di cui al comma 1, e delle relative disposizioni attuative; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    ai partecipanti, in caso di inosservanza delle disposizioni previste dall'articolo 38, paragrafi 5 e 6, del regolamento di cui al comma 1; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    a chiunque non osservi le disposizioni ((previste dall'articolo 7-bis, paragrafi 4, 8, 9 e 10,)) e dall'articolo 9, paragrafo 1, del regolamento di cui al comma 1 e dalle relative disposizioni attuative.
+
 Alle fattispecie disciplinate dai commi 1 e 2 si applica l'articolo 187-quinquiesdecies, comma 1-quater. (73)
 
 COMMA ABROGATO DAL D.LGS. 3 AGOSTO 2017, N. 129. (73)
@@ -7626,6 +16834,60 @@ COMMA ABROGATO DAL D.LGS. 3 AGOSTO 2017, N. 129. (73)
 ## Art. 190.3. — Sanzioni amministrative in tema di disciplina dei mercati
 
 
+
+1.
+                        
+                            
+                                Salvo che il fatto costituisca reato ai sensi dell'articolo 166, si applica la sanzione amministrativa pecuniaria da euro trentamila fino a euro cinque milioni ovvero fino al dieci per cento del fatturato, quando tale importo e' superiore a euro cinque milioni e il fatturato e' determinabile ai sensi dell'articolo 195, comma 1-bis: 
+ 
+                            
+                            
+                                a)
+                                
+                                    ai gestori delle sedi negoziazione, nel caso di inosservanza delle disposizioni previste dal capo II del titolo I-bis della parte III e di quelle emanate in base ad esse; 
+
+                                
+                            
+                            
+                                a-bis)
+                                
+                                    ai gestori dei mercati regolamentati, nel caso di inosservanza delle disposizioni previste dall'articolo 90-quinquies, commi 2 e 3; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    agli internalizzatori sistematici, nel caso di inosservanza delle disposizioni previste dal capo III del titolo I-bis della parte III e di quelle emanate in base ad esse; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    agli organizzatori e agli operatori dei sistemi multilaterali di depositi in euro, nel caso di inosservanza delle disposizioni previste dall'articolo 62-septies e di quelle emanate in base ad esse; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    ai membri e ai partecipanti ammessi ai mercati regolamentati e ai sistemi multilaterali di negoziazione nonche' ai clienti di sistemi organizzati di negoziazione, nel caso di inosservanza delle disposizioni previste dal capo II del titolo I-bis della parte III e di quelle emanate in base ad esse; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    LETTERA SOPPRESSA DAL D.LGS. 10 AGOSTO 2018, N. 107; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    
+                                        ((LETTERA ABROGATA DAL D.L. 17 MAGGIO 2022, N. 50)).
 
 Chiunque viola le disposizioni previste dall'articolo 68, comma 1, e dalle relative norme attuative, ovvero viola le misure adottate in base alle medesime disposizioni e' punito con la sanzione amministrativa pecuniaria da euro cinquemila fino a euro cinque milioni. Se la violazione e' commessa da una societa' o un ente, si applica nei confronti di questi ultimi la sanzione amministrativa pecuniaria da euro trentamila fino a euro cinque milioni, ovvero fino al dieci per cento del fatturato, quando tale importo e' superiore a euro cinque milioni e il fatturato e' determinabile ai sensi dell'articolo 195, comma 1-bis.
 
@@ -7661,6 +16923,45 @@ La stessa sanzione prevista dal comma 1 si applica anche in caso di violazione d
 ## Art. 190.5. — (( (Sanzioni amministrative pecuniarie in tema di agenzie di rating del credito relative alle violazioni delle disposizioni previste dal regolamento (CE) n. 1060/2009). ))
 
 ((
+
+1.
+                        
+                            
+                                Si applica la sanzione amministrativa pecuniaria da euro duemilacinquecento a euro centocinquantamila: 
+ 
+                            
+                            
+                                a)
+                                
+                                    nei confronti di Sim, imprese di investimento UE con succursale in Italia, imprese di paesi terzi autorizzate in Italia, intermediari finanziari iscritti nell'albo previsto dall'articolo 106 del T.U. bancario, banche italiane e banche UE con succursale in Italia autorizzate alla prestazione di servizi e attivita' di investimento, nonche' nei confronti dei soggetti che svolgono funzioni di amministrazione o di direzione delle controparti centrali, in caso di violazione delle disposizioni previste dagli articoli 4, paragrafo 1, comma 1, e 5-bis del regolamento (CE) n. 1060/2009 del Parlamento europeo e del Consiglio, del 16 settembre 2009, relativo alle agenzie di rating del credito, e delle relative disposizioni attuative; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    nei confronti dei gestori, in caso di violazione dell'articolo 35-duodecies del presente decreto e dell'articolo 4, paragrafo 1, comma 1, del regolamento di cui alla lettera a), e delle relative disposizioni attuative; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    nei confronti degli emittenti, degli offerenti o delle persone che chiedono l'ammissione alla negoziazione sui mercati regolamentati italiani, in caso di violazione dell'articolo 4, paragrafo 1, comma 2, del regolamento di cui alla lettera a); 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    nei confronti degli emittenti, cedenti o promotori di strumenti di finanza strutturata, in caso di violazione dell'articolo 8-ter del regolamento di cui alla lettera a); 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    nei confronti degli emittenti o terzi collegati come definiti dall'articolo 3, paragrafo 1, lettera i), del regolamento di cui alla lettera a), in caso di violazione degli articoli 8-quater e 8-quinquies del predetto regolamento.
 
 2. Si applica l'articolo 187-quinquiesdecies, comma 1-quater.))
 
@@ -7702,7 +17003,43 @@ La stessa sanzione prevista dal comma 1 si applica anche in caso di violazione d
 
 ((
 
+1.
+                        
+                            
+                                Per le violazioni degli articoli 4, 5, 6, 7, 8, 9, 10, dell'articolo 11, paragrafo 1, lettere a), b), c) ed e), dell'articolo 11, paragrafi 2 e 3, degli articoli 12, 13, 14, 15, 16, 21, 23, 24, 25, 26, 27, 28, 29 e 34 del regolamento (UE) 2016/1011 e delle norme tecniche di regolamentazione e attuazione previste dal medesimo regolamento, si applica: 
+ 
+                            
+                            
+                                a)
+                                
+                                    nei confronti delle persone giuridiche, la sanzione amministrativa pecuniaria da euro diecimila fino a euro un milione, ovvero fino al dieci per cento del fatturato totale annuo, quando tale importo e' superiore a euro un milione e il fatturato e' determinabile ai sensi dell'articolo 195, comma 1-bis, del presente decreto e ai sensi dell'articolo 325-bis del decreto legislativo 7 settembre 2005, n. 209; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    nei confronti delle persone fisiche, la sanzione amministrativa pecuniaria da euro cinquemila fino a euro cinquecentomila.
+
 Fermo quanto previsto dal comma 1, lettera a), la sanzione indicata dal comma 1, lettera b) si applica nei confronti dei soggetti che svolgono funzioni di amministrazione, di direzione o controllo e del personale delle societa' e degli enti nei confronti dei quali sono accertate le violazioni, nei casi previsti dall'articolo 190-bis, comma 1, lettera a).
+
+3.
+                        
+                            
+                                Per le violazioni dell'articolo 11, paragrafi 1, lettera d), e 4, del regolamento (UE) 2016/1011, si applica: 
+ 
+                            
+                            
+                                a)
+                                
+                                    nei confronti delle persone giuridiche, la sanzione amministrativa pecuniaria da euro diecimila fino a euro duecentocinquantamila ovvero fino al due per cento del fatturato, quando tale importo e' superiore a euro duecentocinquantamila e il fatturato e' determinabile ai sensi dell'articolo 195, comma 1-bis, del presente decreto e ai sensi dell'articolo 325-bis del decreto legislativo 7 settembre 2005, n. 209; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    nei confronti delle persone fisiche, la sanzione amministrativa pecuniaria da euro cinquemila fino a euro centomila.
 
 Fermo quanto previsto dal comma 3, lettera a), la sanzione indicata dal comma 3, lettera b) si applica nei confronti dei soggetti che svolgono funzioni di amministrazione, di direzione o controllo e del personale delle societa' e degli enti nei confronti dei quali sono accertate le violazioni, nei casi previsti dall'articolo 190-bis, comma 1, lettera a).
 
@@ -7718,6 +17055,24 @@ Le sanzioni amministrative previste dal presente articolo sono applicate dalla B
 
 ## Art. 190-bis.2. — Sanzioni amministrative relative alle violazioni delle disposizioni del regolamento (UE) 2017/2402).
 
+1.
+                        
+                            
+                                Per le violazioni degli articoli 3, 5, 6, 7, 9, 18, 19, 20, 21, 22, 23, 24, 25, 26, ((26-bis, 26-ter, 26-quater, 26-quinquies, 26-sexies,)) 27 paragrafi 1 e 4 e 28 paragrafo 2 del regolamento (UE) 2017/2402 e delle norme tecniche di regolamentazione e attuazione previste dal medesimo regolamento, si applica: 
+ 
+                            
+                            
+                                a)
+                                
+                                    nei confronti delle societa' ed enti che rivestono il ruolo di cedente, prestatore originario, promotore, SSPE, investitore istituzionale, venditore di una posizione verso la cartolarizzazione di cui all'articolo 3 del regolamento (UE) 2017/2402, gestore che riceve istruzioni da un investitore istituzionale di cui all'articolo 5,paragrafo, 5 del regolamento (UE) 2017/2402 o verificatore terzo di cui all'articolo 27, ((paragrafo)) 2, del regolamento (UE) 2017/2402, la sanzione amministrativa pecuniaria da euro trentamila fino a euro cinque milioni, ovvero fino al dieci per cento del fatturato totale annuo, quando tale importo e' superiore a euro cinque milioni e il fatturato e' determinato secondo quanto previsto dalla normativa di settore dell'autore della violazione; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    nei confronti delle persone fisiche di cui al comma 4 del presente articolo, la sanzione amministrativa pecuniaria da euro cinquemila fino a euro cinque milioni.
+
 Fermo restando quanto previsto al comma 1, per le violazioni degli articoli 19, 20, 21, 22, 23, 24, 25, 26 ((26-bis, 26-ter, 26-quater, 26-quinquies, 26-sexies)) e 27 paragrafo 1 del regolamento (UE) 2017/2402, si applica nei confronti del cedente e del promotore per un periodo non inferiore a sei mesi e non superiore a tre anni il divieto di notificare, ai sensi dell'articolo 27 paragrafo 1, del regolamento (UE) 2017/2402, che una cartolarizzazione soddisfa i requisiti stabiliti agli articoli ((da 19 a 22, agli articoli da 23 a 26 o agli articoli da 26-bis a 26-sexies del citato regolamento)).
 
 Fermo restando quanto previsto al comma 1, per le violazioni dell'articolo 28 paragrafo 2 del regolamento (UE) 2017/2402, si applica nei confronti del soggetto di cui all'articolo 28 del regolamento (UE) 2017/2402 la sospensione da uno a quattro mesi dell'autorizzazione di cui al medesimo articolo.
@@ -7731,6 +17086,120 @@ Con il provvedimento di applicazione della sanzione amministrativa pecuniaria, i
 Le sanzioni amministrative previste dal presente articolo sono disposte e irrogate dalla Banca d'Italia, dalla CONSOB, dall'IVASS e dalla COVIP secondo le rispettive attribuzioni di vigilanza specificate all'articolo 4-septies.2 e le rispettive procedure sanzionatorie. Nei riguardi dell'IVASS e della COVIP trovano comunque applicazione, per quanto di rispettiva competenza e ai fini del presente articolo, gli articoli, 194-quater, 194-septies e 195-ter, comma 1-bis. IVASS e COVIP pubblicano le sanzioni irrogate secondo le procedure di settore.
 
 ## Art. 190-bis.3. — (Sanzioni amministrative relative alle violazioni delle disposizioni previste dal regolamento (UE) 2022/2554 del Parlamento europeo e del Consiglio, del 14 dicembre 2022, e dalle relative norme tecniche di regolamentazione e attuazione)
+
+1.
+                        
+                            
+                                In caso di inosservanza delle disposizioni di cui agli articoli 5, 6, paragrafi 1, 2, 3, 4, 5, 6, 7 e 8, 10, 12, 16, paragrafi 1 e 2, 17, 19, paragrafi 1, 3 e 4, 24 del regolamento (UE) 2022/2554, del Parlamento europeo e del Consiglio, del 14 dicembre 2022, e delle relative norme tecniche di regolamentazione e attuazione, ovvero in caso di omessa collaborazione o mancato seguito dato nell'ambito di un'indagine, un'ispezione o una richiesta ai sensi dell'articolo 8 del decreto legislativo adottato in attuazione dell'articolo 16 della legge 21 febbraio 2024, n. 15, si applica: 
+ 
+                            
+                            
+                                a)
+                                
+                                    nei confronti delle societa' di intermediazione mobiliare (SIM), ((delle societa' di gestione del risparmio (Sgr), delle societa' di investimento a capitale variabile (Sicav), delle societa' di investimento a capitale fisso (Sicaf), delle societa' di partenariato,)), delle controparti centrali, dei gestori di mercati regolamentati e dei relativi fornitori terzi di servizi TIC di cui all'articolo 3, punto 19), del citato regolamento (UE) 2022/2554, la sanzione amministrativa pecuniaria da euro 30.000 fino a euro 5 milioni, ovvero fino al 10 per cento del fatturato, quando tale importo e' superiore a euro 5 milioni e il fatturato e' determinabile; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    nei confronti dei depositari centrali di titoli e dei relativi fornitori terzi di servizi TIC di cui all'articolo 3, punto 19), del citato regolamento (UE) 2022/2554, la sanzione amministrativa pecuniaria da euro 30.000 fino a euro 20 milioni, ovvero fino al 10 per cento del fatturato, quando tale importo e' superiore a euro 20 milioni; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    nei confronti dei fornitori di servizi di crowdfunding e dei relativi fornitori terzi di servizi TIC di cui all'articolo 3, punto 19), del citato regolamento (UE) 2022/2554, la sanzione amministrativa pecuniaria da euro 500 fino a euro 500.000, ovvero fino al 5 per cento del fatturato, quando tale importo e' superiore a euro 500.000 e il fatturato e' determinabile; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    nei confronti degli amministratori di indici di riferimento critici e dei relativi fornitori terzi di servizi TIC di cui all'articolo 3, punto 19), del citato regolamento (UE) 2022/2554, la sanzione amministrativa pecuniaria da euro 10.000 fino a euro 1 milione, ovvero fino al 10 per cento del fatturato totale annuo, quando tale importo e' superiore a euro 1 milione e il fatturato e' determinabile.
+
+2.
+                        
+                            
+                                Salvo che il fatto costituisca reato, se le violazioni indicate dal comma 1 sono commesse da una persona fisica di cui al comma 5, si applica nei confronti di quest'ultima una sanzione amministrativa pecuniaria: 
+ 
+                            
+                            
+                                a)
+                                
+                                    da euro 5.000 fino a euro 5 milioni, nei casi di cui alle lettere a) e b), del comma 1; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    da euro 500 fino a euro 500.000, nei casi di cui alla lettera c) del comma 1; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    da euro 5.000 fino a euro 500.000, nei casi di cui alla lettera d) del comma 1.
+
+3.
+                        
+                            
+                                In caso di inosservanza delle disposizioni di cui agli articoli 7, 8, 9, 11, paragrafi 1, 2, 3, 4, 5, 6, 7, 8, 9 e 10, 13, 14, 18, paragrafi 1 e 2, 25, 26, paragrafi 1, 2, 3, 4, 5, 6, 7 e 8, 27, 28, paragrafi 2, 3, 4, 5, 6, 7 e 8, 29, 30, paragrafi 1, 2, 3 e 4, e 31, paragrafo 12, del regolamento (UE) 2022/2554 e delle relative norme tecniche di regolamentazione e attuazione, ovvero in caso di omessa collaborazione o mancato seguito dato nell'ambito di un'indagine, un'ispezione o una richiesta ai sensi dell'articolo 8 del decreto legislativo adottato in attuazione dell'articolo 16 della legge 21 febbraio 2024, n. 15, si applica: 
+ 
+                            
+                            
+                                a)
+                                
+                                    nei confronti delle SIM, delle SGR, ((delle Sicav, delle Sicaf, delle societa' di partenariato)), delle controparti centrali, dei gestori di mercati regolamentati e dei relativi fornitori terzi di servizi TIC di cui all'articolo 3, punto 19), del citato regolamento (UE) 2022/2554, la sanzione amministrativa pecuniaria da euro 30.000 fino a euro 3,5 milioni, ovvero fino al 7 per cento del fatturato, quando tale importo e' superiore a euro 3,5 milioni e il fatturato e' determinabile; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    nei confronti dei depositari centrali di titoli e dei relativi fornitori terzi di servizi TIC di cui all'articolo 3, punto 19), del citato regolamento (UE) 2022/2554, la sanzione amministrativa pecuniaria da euro 30.000 fino a euro 14 milioni, ovvero fino al 7 per cento del fatturato, quando tale importo e' superiore a euro 14 milioni; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    nei confronti dei fornitori di servizi di crowdfunding e dei relativi fornitori terzi di servizi TIC di cui all'articolo 3, punto 19), del citato regolamento (UE) 2022/2554, la sanzione amministrativa pecuniaria da euro 500 fino a euro 350.000, ovvero fino al 3,5 per cento del fatturato, quando tale importo e' superiore a euro 350.000 e il fatturato e' determinabile; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    nei confronti degli amministratori di indici di riferimento critici e dei relativi fornitori terzi di servizi TIC di cui all'articolo 3, punto 19), del citato regolamento (UE) 2022/2554, la sanzione amministrativa pecuniaria da euro 10.000 fino a euro 700.000, ovvero fino al 7 per cento del fatturato totale annuo, quando tale importo e' superiore a euro 700.000 e il fatturato e' determinabile.
+
+4.
+                        
+                            
+                                Salvo che il fatto costituisca reato, se le violazioni indicate dal comma 3 sono commesse da una persona fisica di cui al comma 5, si applica nei confronti di quest'ultima una sanzione amministrativa pecuniaria: 
+ 
+                            
+                            
+                                a)
+                                
+                                    da euro 5.000 fino a euro 3,5 milioni, nei casi di cui alle lettere a) e b), del comma 3; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    da euro 500 fino a euro 350.000, nei casi di cui alla lettera c) del comma 3; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    da euro 5.000 fino a euro 350.000, nei casi di cui alla lettera d) del comma 3.
 
 Fermo restando quanto previsto per le societa' e gli enti nei confronti dei quali sono accertate le violazioni, la sanzione di cui ai commi 2 e 4 si applica nei confronti dei soggetti che svolgono funzioni di amministrazione, direzione o controllo e del personale delle societa' e degli enti nei confronti dei quali sono accertate le violazioni, quando l'inosservanza e' conseguenza della violazione di doveri propri o dell'organo di appartenenza e la condotta ha inciso in modo rilevante sulla complessiva organizzazione o sui profili di rischio aziendali o ha contribuito a determinare la mancata ottemperanza della societa' o dell'ente a provvedimenti specifici adottati dalla Banca d'Italia e dalla Consob, secondo le rispettive competenze, ai sensi dell'articolo 8 del decreto legislativo adottato in attuazione dell'articolo 16 della legge 21 febbraio 2024, n. 15, ovvero quando la condotta abbia contribuito a determinare l'inosservanza dell'ordine di cui all'articolo 50, paragrafo 4, lettera a), del regolamento (UE) 2022/2554 da parte della societa' o dell'ente.
 
@@ -7796,6 +17265,45 @@ Si applica l'articolo 187-quinquiesdecies, comma 1-quater.
 
 ((
 
+1.
+                        
+                            
+                                La Consob, con il provvedimento di applicazione delle sanzioni amministrative pecuniarie previste dall'articolo 191 nei confronti delle persone fisiche nei casi ivi previsti, in ragione della gravita' della violazione accertata e tenuto conto dei criteri stabiliti dall'articolo 194-bis, puo' disporre: 
+ 
+                            
+                            
+                                a)
+                                
+                                    l'interdizione temporanea dallo svolgimento di funzioni di amministrazione, direzione e controllo presso soggetti autorizzati ai sensi del presente decreto, del decreto legislativo 1° settembre 1993, n. 385, del decreto legislativo 7 settembre 2005, n. 209, o presso fondi pensione; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'interdizione temporanea dallo svolgimento di funzioni di amministrazione, direzione e controllo di societa' quotate e di societa' appartenenti al medesimo gruppo di societa' quotate; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    la sospensione dal Registro, ai sensi dell'articolo 26, commi 1, lettera d), e 1-bis, del decreto legislativo 27 gennaio 2010, n. 39, del revisore legale, della societa' di revisione legale o del responsabile dell'incarico; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    la sospensione dall'albo di cui all'articolo 31, comma 4, per i consulenti finanziari abilitati all'offerta fuori sede; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    la perdita temporanea dei requisiti di onorabilita' per i partecipanti al capitale dei soggetti indicati alla lettera a).
+
 Le sanzioni amministrative accessorie di cui al comma 1 hanno una durata non inferiore a due mesi e non superiore a tre anni.
 
 Quando l'emittente, l'offerente o il soggetto che chiede l'ammissione alla negoziazione in un mercato regolamentato, ha gia' commesso, due o piu' volte negli ultimi cinque anni, una violazione con dolo o colpa grave delle disposizioni indicate all'art. 191, la Consob puo' negare l'approvazione di un prospetto redatto dal medesimo soggetto per un periodo massimo di cinque anni.
@@ -7838,6 +17346,45 @@ Alle violazioni previste dal presente articolo si applica l'articolo 187-quinqui
 
 Chiunque viola l'obbligo di promuovere un'offerta pubblica di acquisto o di scambio ovvero effettua un'offerta pubblica di acquisto o di scambio in violazione delle disposizioni dell'articolo 102, commi 1, 3 e 6 , e' punito con la sanzione amministrativa pecuniaria di importo non inferiore ad euro venticinquemila e non superiore al corrispettivo complessivamente dovuto dall'offerente ovvero che sarebbe stato complessivamente dovuto dall'offerente se l'offerta fosse stata promossa. .
 
+2.
+                        
+                            
+                                La sanzione indicata nel comma 1 si applica a chi: 
+ 
+                            
+                            
+                                a)
+                                
+                                    non rispetta le indicazioni fornite dalla CONSOB ai sensi dell'articolo 102, comma 4 , ovvero viola le disposizioni dei regolamenti emanati a norma dell'articolo 102, comma 1 e dell'articolo 103, comma 4 ; 
+
+                                
+                            
+                            
+                                a-bis)
+                                
+                                    viola le disposizioni di cui all'articolo 103, commi 3 e 3-bis; 
+
+                                
+                            
+                            
+                                a-ter)
+                                
+                                    viola le disposizioni relative all'obbligo di acquisto di cui all'articolo 108, commi 1 e 2 e le disposizioni del regolamento emanato a norma dell'articolo 108, comma 7; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    esercita il diritto di voto in violazione delle disposizioni dell'articolo 110. 
+
+                                
+                            
+                            
+                                b-bis)
+                                
+                                    viola l'obbligo di cui all'articolo 110, comma 1-bis.
+
 Se all'osservanza delle disposizioni previste dai commi 1 e 2 e' tenuta una societa' o un ente, le sanzioni ivi previste si applicano nei confronti di questi ultimi; la stessa sanzione si applica nei confronti degli esponenti aziendali e del personale della societa' o dell'ente nei casi previsti dall'art. 190-bis, comma 1, lettera a). Se all'osservanza delle medesime disposizioni e' tenuta una persona fisica, in caso di violazione, la sanzione si applica nei confronti di quest'ultima. La sanzione massima applicabile ad una persona fisica per le violazioni previste ai commi 1 e 2 non puo' essere superiore a ((euro cinque milioni)). (61) (84) ((73))
 
 Si applica l'articolo ((187-quinquiesdecies, comma 1-quater)). (61) (84) ((73))
@@ -7859,6 +17406,59 @@ COMMA ABROGATO DAL D.LGS. 25 SETTEMBRE 2009, N. 146.
  Ha inoltre disposto (con l'art. 10, comma 13) che le presenti modifiche si applicano alle violazioni commesse a partire dal 3 gennaio 2018.
 
 ## Art. 192-bis. — (Sanzioni amministrative in tema di informazioni sul governo societario e di politica di remunerazione e compensi corrisposti)
+
+1.
+                        
+                            
+                                Salvo che il fatto costituisca reato, nei confronti delle societa' quotate nei mercati regolamentati che omettono le comunicazioni prescritte dall'articolo 123-bis, comma 2, lettera a), si applica una delle seguenti sanzioni amministrative:(73) 
+ 
+                            
+                            
+                                a)
+                                
+                                    una dichiarazione pubblica indicante la persona giuridica responsabile della violazione e la natura della stessa, quando questa sia connotata da scarsa offensivita' o pericolosita' e l'infrazione contestata sia cessata;(73) 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    un ordine di eliminare le infrazioni contestate, con eventuale indicazione delle misure da adottare e del termine per l'adempimento, e di astenersi dal ripeterle, quando le infrazioni stesse siano connotate da scarsa offensivita' o pericolosita'; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    una sanzione amministrativa pecuniaria da euro diecimila a euro dieci milioni, ovvero, fino al cinque per cento del fatturato quando tale importo e' superiore a euro dieci milioni e il fatturato e' determinabile ai sensi dell'articolo 195, comma 1-bis.(73) 
+ 1.1 Salvo che il fatto costituisca reato, nei confronti delle societa' quotate nei mercati regolamentati che violano le disposizioni previste dall'articolo 123-ter e le relative disposizioni attuative ((...)), si applica la sanzione amministrativa pecuniaria da euro diecimila a euro ((dieci milioni)) ovvero le sanzioni previste dal comma 1, lettere a) e b). ((98))
+                                        ((1.1-bis. Salvo che il fatto costituisca reato, per le violazioni delle disposizioni indicate dal comma 1.1, nei confronti dei soggetti che svolgono funzioni di amministrazione, di direzione o di controllo, qualora la loro condotta abbia contribuito a determinare la violazione delle disposizioni del medesimo comma 1.1 da parte della societa', si applica la sanzione amministrativa pecuniaria da euro diecimila a euro due milioni ovvero le sanzioni previste dal comma 1, lettere a) e b).))
+                                        ((98))
+
+1-bis.
+                        
+                            
+                                Per l'omissione delle comunicazioni indicate al comma 1, nei casi previsti dall'articolo 190-bis, comma 1, lettera a), salvo che il fatto costituisca reato, nei confronti dei soggetti che svolgono funzioni di amministrazione, di direzione o di controllo, nonche' del personale, qualora la loro condotta abbia contribuito a determinare l'omissione delle comunicazioni da parte della societa' o dell'ente, si applica una delle seguenti sanzioni amministrative:(73) 
+ 
+                            
+                            
+                                a)
+                                
+                                    una dichiarazione pubblica indicante la persona responsabile della violazione e la natura della stessa, quando questa sia connotata da scarsa offensivita' o pericolosita' e l'infrazione contestata sia cessata;(73) 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    un ordine di eliminare le infrazioni contestate, con eventuale indicazione delle misure da adottare e del termine per l'adempimento, e di astenersi dal ripeterle, quando le infrazioni stesse siano connotate da scarsa offensivita' o pericolosita'; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    una sanzione amministrativa pecuniaria da euro diecimila a euro due milioni.
 
 Alle omissioni delle comunicazioni prescritte dall'articolo 123-bis, comma 2, lettera a), e richiamate dai commi 1 e 1-bis del presente articolo si applica l'articolo 187-quinquiesdecies, comma 1-quater.
 
@@ -7921,6 +17521,36 @@ medesimo.
 
 
 
+1.
+                        
+                            
+                                Salvo che il fatto costituisca reato, nei confronti di societa', enti o associazioni tenuti a effettuare le comunicazioni previste dagli articoli 114, commi 5, 7 e 9, 114-bis, 115, 154-bis, 154-ter e 154-quater, per l'inosservanza delle disposizioni degli articoli medesimi o delle relative disposizioni attuative, si applica una delle seguenti sanzioni amministrative:(73) 
+ 
+                            
+                            
+                                a)
+                                
+                                    una dichiarazione pubblica indicante la persona giuridica responsabile della violazione e la natura della stessa, quando questa sia connotata da scarsa offensivita' o pericolosita' e l'infrazione contestata sia cessata;(73) 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    un ordine di eliminare le infrazioni contestate, con eventuale indicazione delle misure da adottare e del termine per l'adempimento, e di astenersi dal ripeterle, quando le infrazioni stesse siano connotate da scarsa offensivita' o pericolosita'; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    una sanzione amministrativa pecuniaria da euro cinquemila a euro dieci milioni, ovvero fino al cinque per cento del fatturato quando tale importo e' superiore a euro dieci milioni e il fatturato e' determinabile ai sensi dell'articolo 195, comma 1-bis. (73) 
+ 1.1. Se le comunicazioni indicate nel comma 1 sono dovute da una persona fisica, salvo che il fatto costituisca reato, in caso di violazione si applicano nei confronti di quest'ultima, una delle seguenti sanzioni amministrative:(73) 
+ a) una dichiarazione pubblica indicante la persona responsabile della violazione e la natura della stessa, quando questa sia connotata da scarsa offensivita' o pericolosita' e l'infrazione contestata sia cessata;(73) 
+ b) un ordine di eliminare le infrazioni contestate, con eventuale indicazione delle misure da adottare e del termine per l'adempimento, e di astenersi dal ripeterle, quando le infrazioni stesse siano connotate da scarsa offensivita' o pericolosita'; 
+ c) una sanzione amministrativa pecuniaria da euro cinquemila a euro due milioni. 
+ 1.2. Per le violazioni indicate nel comma 1, nei confronti dei soggetti che svolgono funzioni di amministrazione, di direzione o di controllo, nonche' del personale, qualora la loro condotta abbia contribuito a determinare dette violazioni da parte della persona giuridica si applicano, nei casi previsti dall'articolo 190-bis, comma 1, lettera a), le sanzioni amministrative previste dal comma 1.1.
+
 COMMA ABROGATO DAL D.LGS. 12 MAGGIO 2015, N. 72. (61) (84)
 
 COMMA ABROGATO DAL D.LGS. 12 MAGGIO 2015, N. 72. (61) (84)
@@ -7931,7 +17561,57 @@ COMMA ABROGATO DAL D.LGS. 3 AGOSTO 2017, N. 129. (73)
 
 Al soggetto di cui all'articolo 123-ter, comma 8-bis, che omette di verificare l'avvenuta predisposizione della seconda sezione della relazione si applica una sanzione amministrativa pecuniaria da euro diecimila ad euro centomila.
 
+2.
+                        
+                            
+                                Salvo che il fatto costituisca reato, nei casi di omissione delle comunicazioni delle partecipazioni rilevanti e dei patti parasociali previste, rispettivamente dagli articoli 120, commi 2, 2-bis, 4 e 4-bis, e 122, commi 1, 2 e 5, nonche' di violazione dei divieti previsti dagli articoli 120, comma 5, ((121, comma 1)), e 122, comma 4, nei confronti di societa', enti o associazioni, si applica una delle seguenti sanzioni amministrative:(73) 
+ 
+                            
+                            
+                                a)
+                                
+                                    una dichiarazione pubblica indicante il soggetto responsabile della violazione e la natura della stessa, quando questa sia connotata da scarsa offensivita' o pericolosita' e l'infrazione contestata sia cessata;(73) 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    un ordine di eliminare le infrazioni contestate, con eventuale indicazione delle misure da adottare e del termine per l'adempimento, e di astenersi dal ripeterle, quando le infrazioni stesse siano connotate da scarsa offensivita' o pericolosita'; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    una sanzione amministrativa pecuniaria da euro diecimila a euro dieci milioni, ovvero fino al cinque per cento del fatturato quando tale importo e' superiore a euro dieci milioni e il fatturato e' determinabile ai sensi dell'articolo 195, comma 1-bis.(73) 
+ 2.1. Salvo che il fatto costituisca reato, ove le comunicazioni indicate nel comma 2 sono dovute da una persona fisica, in caso di violazione si applica una delle seguenti sanzioni amministrative:(73) 
+ a) una dichiarazione pubblica indicante la persona responsabile della violazione e la natura della stessa, quando questa sia connotata da scarsa offensivita' o pericolosita' e l'infrazione contestata sia cessata;(73) 
+ b) un ordine di eliminare le infrazioni contestate, con eventuale indicazione delle misure da adottare e del termine per l'adempimento, e di astenersi dal ripeterle, quando le infrazioni stesse siano connotate da scarsa offensivita' o pericolosita'; 
+ c) una sanzione amministrativa pecuniaria da euro diecimila a euro due milioni. 
+ 2.2. Per le violazioni indicate nel comma 2, nei confronti dei soggetti che svolgono funzioni di amministrazione, di direzione o di controllo, nonche' del personale, qualora la loro condotta abbia contribuito a determinare dette violazioni da parte della persona giuridica si applicano, nei casi previsti dall'articolo 190-bis, comma 1, lettera a), le sanzioni amministrative previste dal comma 2.1. 
+ 2.3. Nei casi di ritardo delle comunicazioni previste dall'articolo 120, commi 2, 2-bis e 4, non superiore a due mesi, l'importo minimo edittale delle sanzioni amministrative pecuniarie indicate nei commi 2 e 2.1 e' pari a euro cinquemila. 
+ 2.4. Se il vantaggio ottenuto dall'autore della violazione come conseguenza della violazione stessa e' superiore ai limiti massimi edittali indicati nei commi 1, 1.1, 2 e 2.1, del presente articolo, la sanzione amministrativa pecuniaria e' elevata fino al doppio dell'ammontare del vantaggio ottenuto, purche' tale ammontare sia determinabile.
+
 COMMA SOPPRESSO DAL D.LGS. 15 FEBBRAIO 2016, N. 25.
+
+3.
+                        
+                            
+                                Si applica la sanzione amministrativa pecuniaria da euro diecimila a euro un milione e cinquecentomila applica: (61) (84) 
+ 
+                            
+                            
+                                a)
+                                
+                                    ai componenti del collegio sindacale, del consiglio di sorveglianza e del comitato per il controllo sulla gestione che commettono irregolarita' nell'adempimento dei doveri previsti ((dall'articolo 149, comma 1, ovvero omettono le comunicazioni previste dall'articolo 149, comma 2)); 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    LETTERA ABROGATA DAL D.LGS. 27 GENNAIO 2010, N. 39.
 
 Salvo che il fatto costituisca reato, i componenti degli organi di controllo, i quali omettano di eseguire nei termini prescritti le comunicazioni di cui all'articolo 148-bis, comma 2, sono puniti con la sanzione amministrativa in misura pari al doppio della retribuzione annuale prevista per l'incarico relativamente al quale e' stata omessa la comunicazione. Con il provvedimento sanzionatorio e' dichiarata altresi' la decadenza dall'incarico.
 
@@ -7980,6 +17660,24 @@ Le sanzioni previste al comma 1 sono applicate, secondo le rispettive competenze
 ## Art. 193-ter. — (Sanzioni amministrative pecuniarie relative alle violazioni delle prescrizioni di cui al regolamento (UE) n. 236/2012)
 
 Chiunque non osservi le disposizioni previste dagli articoli 5, 6, 7, 8, 9, 15, 17, 18 e 19 del regolamento (UE) n. 236/2012 e relative disposizioni attuative, e' soggetto alla sanzione amministrativa del pagamento di una somma da euro venticinquemila a euro duemilionicinquecentomila.
+
+2.
+                        
+                            
+                                La stessa sanzione del comma 1 e' applicabile a chi: 
+ 
+                            
+                            
+                                a)
+                                
+                                    violi le disposizioni di cui agli articoli 12, 13 e 14 del regolamento indicato al comma 1 e relative disposizioni attuative; (73) 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    violi le misure adottate dall'autorita' competente di cui all'articolo 4-ter ai sensi degli articoli 20, 21 e 23 del medesimo regolamento.
 
 Le sanzioni amministrative pecuniarie previste al comma 2, lettere a) e b), sono aumentate fino al triplo o fino al maggiore importo di dieci volte il prodotto o il profitto conseguito dall'illecito quando, per le qualita' personali del colpevole, per l'entita' del prodotto o del profitto conseguito dall'illecito ovvero per gli effetti prodotti sul mercato, esse appaiono inadeguate anche se applicate nel massimo.
 
@@ -8098,6 +17796,81 @@ Se all'osservanza delle disposizioni previste dal comma 2 e' tenuta una societa'
 
 ## Art. 194-bis. — (Criteri per la determinazione delle sanzioni)
 
+1.
+                        
+                            
+                                Nella determinazione del tipo e dell'ammontare delle sanzioni amministrative pecuniarie o della durata delle sanzioni accessorie previste dal presente decreto, la Banca d'Italia o la Consob considerano ogni circostanza rilevante e, in particolare, tenuto conto del fatto che il destinatario della sanzione sia persona fisica o giuridica, le seguenti, ove pertinenti: (66) 
+ 
+                            
+                            
+                                a)
+                                
+                                    gravita' e durata della violazione; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    grado di responsabilita'; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    capacita' finanziaria del responsabile della violazione; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    entita' del vantaggio ottenuto o delle perdite evitate attraverso la violazione, nella misura in cui essa sia determinabile; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    pregiudizi cagionati a terzi attraverso la violazione, nella misura in cui il loro ammontare sia determinabile; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    livello di cooperazione del responsabile della violazione con la Banca d'Italia o la Consob; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    precedenti violazioni in materia bancaria o finanziaria commesse da parte del medesimo soggetto; 
+
+                                
+                            
+                            
+                                g-bis)
+                                
+                                    la criticita' dell'indice di riferimento per la stabilita' finanziaria;
+                                
+                            
+                            
+                                h)
+                                
+                                    potenziali conseguenze sistemiche della violazione; 
+
+                                
+                            
+                            
+                                h-bis)
+                                
+                                    misure adottate dal responsabile della violazione, successivamente alla violazione stessa, al fine di evitare, in futuro, il suo ripetersi. 
+ 
+ (61) (84)
+
 --------------
                             AGGIORNAMENTO (61)
                             
@@ -8143,6 +17916,93 @@ Si applica l'articolo 187-quinquiesdecies, comma 1-quater.
 
 ## Art. 194-quater. — (Ordine di porre termine alle violazioni)
 
+1.
+                        
+                            
+                                Quando le violazioni sono connotate da scarsa offensivita' o pericolosita', nei confronti delle societa' o degli enti interessati, puo' essere applicata, in alternativa alle sanzioni amministrative pecuniarie, una sanzione consistente nell'ordine di eliminare le infrazioni contestate, anche indicando le misure da adottare e il termine per l'adempimento, nel caso di inosservanza: 
+ 
+                            
+                            
+                                a)
+                                
+                                    delle norme previste dagli articoli 4-undecies; 6; 12; 21; 33, comma 4; 35-decies; 67-ter; 68, commi 1 e 2; 68-quater, commi 2 e 3; 98-ter, comma 3; 98-ter.1, commi 3 e 4, e delle relative disposizioni attuative; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    delle disposizioni generali o particolari emanate dalla Consob ai sensi dell'articolo 98-quater; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    delle norme richiamate dall'articolo 63, paragrafo 1, del regolamento (UE) n. 909/2014 e delle relative disposizioni attuative. 
+
+                                
+                            
+                            
+                                c-bis)
+                                
+                                    delle norme del regolamento (UE) n. 600/2014 richiamate dall'articolo 70, paragrafo 3, lettera b), della direttiva 2014/65/UE e delle relative disposizioni attuative. (73) 
+
+                                
+                            
+                            
+                                c-ter)
+                                
+                                    dell'articolo 59, paragrafi 2, 3 e 5, del regolamento (UE) n. 1031/2010 e delle relative disposizioni di attuazione, richiamate dall'articolo 190, comma 2-quater; 
+
+                                
+                            
+                            
+                                c-quater)
+                                
+                                    delle norme del regolamento (UE) n. 648/2012, del regolamento (UE) 2015/2365 e del regolamento (UE) 2021/23 richiamate dall'articolo 193-quater, commi 1, 1-bis, 1-ter e 1-quater.
+                                
+                            
+                            
+                                c-quinquies)
+                                
+                                    delle norme del regolamento (UE) 2016/1011 richiamate dall'articolo 190-bis.1, commi 1 e 3. 
+
+                                
+                            
+                            
+                                c-sexies)
+                                
+                                    delle norme previste dagli articoli 124-quinquies, 124-sexies, 124-septies, 124-octies e delle relative disposizioni attuative. 
+
+                                
+                            
+                            
+                                c-septies)
+                                
+                                    delle disposizioni richiamate dall'articolo 191, commi 1, 4 e 5; 
+
+                                
+                            
+                            
+                                c-octies)
+                                
+                                    delle norme del regolamento (UE) 2019/2033 richiamate dall'articolo 194-ter.1 e delle relative disposizioni attuative; 
+
+                                
+                            
+                            
+                                c-novies)
+                                
+                                    delle norme del regolamento (UE) n. 575/2013 richiamate dall'articolo 194-ter e delle relative disposizioni attuative. 
+
+                                
+                            
+                            
+                                c-decies)
+                                
+                                    delle norme del regolamento (UE) 2017/2402 richiamate dall'articolo 190-bis.2, comma 1.
+
 Per l'inosservanza dell'ordine entro il termine stabilito si applica la sanzione amministrativa pecuniaria prevista per la violazione originariamente contestata aumentata fino ad un terzo.
 
 --------------
@@ -8160,6 +18020,59 @@ Per l'inosservanza dell'ordine entro il termine stabilito si applica la sanzione
  Ha inoltre disposto (con l'art. 10, comma 13) che le presenti modifiche si applicano alle violazioni commesse a partire dal 3 gennaio 2018.
 
 ## Art. 194-quinquies. — (Pagamento in misura ridotta)
+
+1.
+                        
+                            
+                                Possono essere estinte mediante pagamento, nel termine di trenta giorni dalla notificazione della lettera di contestazione, di una somma pari al doppio del minimo della sanzione edittale, quando non sussistano le circostanze previste dal comma 2, le violazioni previste: 
+ 
+                            
+                            
+                                a)
+                                
+                                    dall'articolo 190, per la violazione degli articoli 45, comma 1, 46, comma 1, 65, e delle relative disposizioni attuative; (73) 
+
+                                
+                            
+                            
+                                a-bis)
+                                
+                                    dall'articolo 190.1, per la violazione degli articoli 83-quater, comma 3, 83-novies, comma 1, 83-novies.1, comma 1, 83-duodecies, e delle relative disposizioni attuative; (98) 
+ a-bis.1) LETTERA ABROGATA DAL D.LGS. 14 LUGLIO 2020, N. 84; (98) 
+                                
+                            
+                            
+                                a-ter)
+                                
+                                    dall'articolo 190.3, per la violazione degli articoli 64-ter, commi 2, 3 e 4, ((...)) e delle relative disposizioni attuative; (73) 
+
+                                
+                            
+                            
+                                a-quater)
+                                
+                                    dall'articolo 190.4, per la violazione dell'articolo 3, paragrafo 1; dell'articolo 6, paragrafo 1; dell'articolo 8, paragrafo 1; dell'articolo 10, paragrafo 1; dell'articolo 12, paragrafo 1; dell'articolo 15, paragrafo 1, primo comma, paragrafo 2 e paragrafo 4, seconda frase; dell'articolo 18, paragrafo 6, primo comma; dell'articolo 20, paragrafi 1 e 2, prima frase; dell'articolo 21, paragrafi 1, 2 e 3; dell'articolo 26, paragrafo 1, primo comma, paragrafi da 2 a 5 e 6, primo comma, e paragrafo 7, commi dal primo al terzo, del regolamento (UE) n. 600/2014, e delle relative disposizioni attuative ((e, in caso di APA o di ARM, degli articoli 27-octies, paragrafi da 1 a 5, e 27-decies, paragrafi da 1 a 4, del medesimo regolamento)); (73) 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    dall'articolo 191, comma 5, per la violazione degli articoli 96 e 101, commi 2 e 3, e relative disposizioni attuative e dall'articolo 191-ter, comma 2, per la violazione dell'articolo 101, commi 2 e 3, e relative disposizioni attuative; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    dall'articolo 193, commi 1, 1.1 e 1.2, per la violazione degli articoli 113-ter, comma 5, lettera b), 114, commi 2 e 7, e dall'articolo 193, commi 2, 2.1, 2.2 e 2.3, per la violazione dell'articolo 120; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    dall'articolo 194, comma 2, per la violazione dell'articolo 142, e dell'articolo 194, comma 2-bis e delle relative disposizioni attuative. (73)
 
 Il pagamento in misura ridotta non puo' essere effettuato nel caso in cui il soggetto interessato abbia gia' usufruito di tale misura nei dodici mesi precedenti alla violazione contestata. 
  
@@ -8199,6 +18112,101 @@ medesimo.
  Successivamente la Corte Costituzionale , con sentenza 20 febbraio - 21 marzo 2019, n. 63 (in G.U. 1ª s.s. 27/03/2019, n. 13), ha dichiarato l'illegittimita' costituzionale dell'art. 6, comma 2 del D.Lgs. 12 maggio 2015, n. 72 (che ha modificato il presente articolo) "nella parte in cui esclude l'applicazione retroattiva delle modifiche apportate dal comma 3 dello stesso art. 6 alle sanzioni amministrative previste per l'illecito disciplinato dall'art. 187-bis del decreto legislativo 24 febbraio 1998, n. 58" e "in via consequenziale, ai sensi dell'art. 27 della legge 11 marzo 1953, n. 87 [...] nella parte in cui esclude l'applicazione retroattiva delle modifiche apportate dal comma 3 dello stesso art. 6 alle sanzioni amministrative previste per l'illecito di cui all'art. 187-ter del d.lgs. n. 58 del 1998".
 
 ## Art. 194-septies. — (Dichiarazione pubblica)
+
+1.
+                        
+                            
+                                Quando le violazioni sono connotate da scarsa offensivita' o pericolosita' e l'infrazione contestata sia cessata, puo' essere applicata, in alternativa alle sanzioni amministrative pecuniarie, una sanzione consistente nella dichiarazione pubblica avente ad oggetto la violazione commessa e il soggetto responsabile, nel caso di inosservanza: 
+ 
+                            
+                            
+                                a)
+                                
+                                    delle norme previste dagli articoli 4-undecies; 6; 12; 21; 22; 24, comma 1-bis; 24-bis;29; 33, comma 4; 35-decies; 67-ter; 68, commi 1 e 2; 68-quater, commi 2 e 3; 98-ter, comma 3; 98-ter.1, commi 3 e 4; e 187-quinquiesdecies, comma 1, e delle relative disposizioni attuative; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    delle disposizioni generali o particolari emanate dalla Consob ai sensi dell'articolo 98-quater; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    delle norme richiamate dall'articolo 63, paragrafo 1, del regolamento (UE) n. 909/2014 e delle relative disposizioni attuative; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    delle norme richiamate dall'articolo 24, paragrafo 1, del regolamento (UE) n. 1286/2014, nonche' per la mancata osservanza delle misure adottate ai sensi dell'articolo 4-sexies, comma 5, e dell'articolo 4-septies, comma 1; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    delle norme del regolamento (UE) n. 600/2014 richiamate dall'articolo 70, paragrafo 3, lettera b), della direttiva 2014/65/UE e delle relative disposizioni attuative e delle misure adottate dalla Consob ai sensi dell'articolo 42 del medesimo regolamento. 
+
+                                
+                            
+                            
+                                e-bis)
+                                
+                                    dell'articolo 59, paragrafi 2, 3 e 5, del regolamento (UE) n. 1031/2010 e delle relative disposizioni di attuazione, richiamate dall'articolo 190, comma 2-quater; 
+
+                                
+                            
+                            
+                                e-ter)
+                                
+                                    delle norme del regolamento (UE) n. 648/2012, del regolamento (UE) 2015/2365 e del regolamento (UE) 2021/23 richiamate dall'articolo 193-quater, commi 1, 1-bis, 1-ter e 1-quater.
+                                
+                            
+                            
+                                e-quater)
+                                
+                                    delle norme del regolamento (UE) 2016/1011 richiamate dall'articolo 190-bis.1, commi 1 e 3. 
+
+                                
+                            
+                            
+                                e-quinquies)
+                                
+                                    delle norme previste dagli articoli 124-quinquies, 124-sexies, 124-septies, 124-octies e delle relative disposizioni attuative. 
+
+                                
+                            
+                            
+                                e-sexies)
+                                
+                                    delle disposizioni richiamate dall'articolo 191, commi 1, 4 e 5; 
+
+                                
+                            
+                            
+                                e-septies)
+                                
+                                    delle norme del regolamento (UE) 2019/2033 richiamate dall'articolo 194-ter.1 e delle relative disposizioni attuative; 
+
+                                
+                            
+                            
+                                e-octies)
+                                
+                                    delle norme del regolamento (UE) n. 575/2013 richiamate dall'articolo 194-ter e delle relative disposizioni attuative. 
+
+                                
+                            
+                            
+                                e-novies)
+                                
+                                    delle norme del regolamento (UE) 2017/2402 richiamate dall'articolo 190-bis.2, comma 1. 
+ (73) (96)
 
 ------------
                             AGGIORNAMENTO (69)
@@ -8267,7 +18275,52 @@ COMMA ABROGATO DAL D.LGS. 12 MAGGIO 2015, N. 72.(61)(84)
 
 Il provvedimento di applicazione delle sanzioni previste dal presente decreto e' pubblicato senza ritardo e per estratto nel sito internet della Banca d'Italia o della Consob, in conformita' alla normativa europea di riferimento. Nel caso in cui avverso il provvedimento di applicazione della sanzione sia adita l'autorita' giudiziaria, la Banca d'Italia o la Consob menzionano l'avvio dell'azione giudiziaria e l'esito della stessa a margine della pubblicazione. La Banca d'Italia o la Consob, tenuto conto della natura della violazione e degli interessi coinvolti, possono stabilire modalita' ulteriori per dare pubblicita' al provvedimento, ponendo le relative spese a carico dell'autore della violazione.
 
+2.
+                        
+                            
+                                Nel provvedimento di applicazione della sanzione, la Banca d'Italia o la Consob dispongono la pubblicazione in forma anonima del provvedimento sanzionatorio quando quella ordinaria: 
+ 
+                            
+                            
+                                a)
+                                
+                                    abbia ad oggetto dati personali ai sensi del ((regolamento (UE) 2016/679 del Parlamento europeo e del Consiglio, del 27 aprile 2016)), la cui pubblicazione appaia sproporzionata rispetto alla violazione sanzionata; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    possa comportare rischi per la stabilita' dei mercati finanziari o pregiudicare lo svolgimento di un'indagine penale in corso; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    possa causare un danno sproporzionato ai soggetti coinvolti, purche' tale danno sia determinabile.
+
 Se le situazioni descritte nel comma 2 hanno carattere temporaneo, la pubblicazione puo' essere rimandata ed effettuata quando dette esigenze sono venute meno.
+
+3-bis.
+                        
+                            
+                                La Banca d'Italia o la Consob possono escludere la pubblicita' del provvedimento sanzionatorio, se consentito dal diritto dell'Unione europea, nel caso in cui le opzioni stabilite dai commi 2 e 3 siano ritenute insufficienti ad assicurare: 
+ 
+                            
+                            
+                                a)
+                                
+                                    che la stabilita' dei mercati finanziari non sia messa a rischio; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la proporzionalita' della pubblicazione delle decisioni rispetto all'irrogazione della sanzione prevista dall'articolo 194-quater. 
+ 
+ (61) (84)
 
 --------------
                             AGGIORNAMENTO (61)
@@ -8342,6 +18395,38 @@ Alle sanzioni amministrative pecuniarie previste dal presente titolo non si appl
 
 ## Art. 196. — (Sanzioni applicabili ai consulenti finanziari)
 
+1.
+                        
+                            
+                                I soggetti iscritti all'albo di cui all'articolo 31, comma 4 che violano le norme del presente decreto o le disposizioni generali o particolari emanate in forza di esso, sono puniti, in base alla gravita' della violazione e tenuto conto dell'eventuale recidiva, con una delle seguenti sanzioni: (73) 
+ 
+                            
+                            
+                                a)
+                                
+                                    richiamo scritto; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    sanzione amministrativa pecuniaria da lire un milione a lire cinquanta milioni; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    sospensione da uno a quattro mesi dall'albo; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    radiazione dall'albo.
+
 Il procedimento sanzionatorio e' retto dai principi del contraddittorio, della conoscenza degli atti istruttori, della verbalizzazione nonche' della distinzione tra funzioni istruttorie e funzioni decisorie. Le sanzioni sono applicate dall'Organismo di vigilanza e tenuta dell'albo unico dei consulenti finanziari previsto dall'articolo 31, comma 4, con provvedimento motivato, previa contestazione degli addebiti agli interessati, da effettuarsi entro centottanta giorni dall'accertamento ovvero entro trecentossessanta giorni se l'interessato risiede o ha la sede all'estero, e valutate le deduzioni da essi presentate nei successivi trenta giorni. Nello stesso termine gli interessati possono altresi' chiedere di essere sentiti personalmente. (73)
 
 ((COMMA ABROGATO DAL D.LGS. 3 AGOSTO 2017, N. 129)). ((73))
@@ -8384,6 +18469,31 @@ Avverso le decisioni adottate ai sensi del comma 1 dall'Organismo di vigilanza e
 Per le violazioni di competenza della Consob, entro trenta giorni dalla notificazione della lettera di contestazione degli addebiti, il soggetto destinatario della stessa puo' presentare impegni tali da far venir meno i profili di lesione degli interessi degli investitori e del mercato oggetto della contestazione. A tal fine la Consob, valutata la gravita' delle violazioni e l'idoneita' di tali impegni anche in relazione alla tutela degli interessi lesi e previa eventuale consultazione degli operatori di settore, puo', nei limiti previsti dall'ordinamento dell'Unione europea, rendere gli impegni assunti obbligatori per i soggetti destinatari del procedimento sanzionatorio e pubblicare gli impegni medesimi. Tale decisione puo' essere adottata per un periodo di tempo determinato e chiude il procedimento sanzionatorio senza accertare la violazione.
 
 In caso di mancato rispetto degli impegni resi obbligatori ai sensi del comma 1, i limiti edittali massimi della sanzione amministrativa pecuniaria prevista dalla normativa di riferimento sono aumentati del 10 per cento. Al fine di monitorare l'attuazione degli impegni, la Consob puo' esercitare i poteri di vigilanza a essa attribuiti al fine dell'accertamento della violazione contestata.
+
+3.
+                        
+                            
+                                La Consob puo' d'ufficio riaprire il procedimento sanzionatorio se: 
+ 
+                            
+                            
+                                a)
+                                
+                                    si modifica in modo determinante la situazione di fatto rispetto a un elemento su cui si fonda la decisione; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    i soggetti interessati contravvengono agli impegni assunti; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    la decisione si fonda su informazioni trasmesse dalle parti che sono incomplete, inesatte o fuorvianti.
 
 4. La Consob definisce con proprio provvedimento generale, in conformita' con l'ordinamento dell'Unione europea e garantendo il diritto al contraddittorio, le regole procedurali che disciplinano la presentazione e la valutazione degli impegni di cui al presente articolo))
 
@@ -8600,6 +18710,351 @@ Gli organi del cessato fallimento e quelli della liquidazione coatta provvedono 
 Restano salvi gli effetti degli atti legalmente compiuti.
 
 ## Art. 214. — Abrogazioni
+
+1.
+                        
+                            
+                                Sono o restano abrogati, salvo quanto previsto dai commi 2 e 3: 
+ 
+                            
+                            
+                                a)
+                                
+                                    gli articoli 11, comma 1, da 12 a 17, 22, 25, 26, 28, 31, da 45 a 52, da 58 a 60 della legge 20 marzo 1913, n. 272 e successive modificazioni; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    gli articoli da 26 a 43, 44, comma 2, 46, comma 2, 47, 49, 51, 54, ultimo periodo, 56, 61, comma 2, 97, da 106 a 108 del regio decreto 4 agosto 1913, n. 1068; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    gli articoli da 2 a 10 del regio decreto-legge 7 marzo 1925, n. 222, convertito dalla legge 21 marzo 1926, n. 597; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    il regio decreto-legge 9 aprile 1925, n. 375, convertito dalla legge 21 marzo 1926, n. 597; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    il regio decreto 9 aprile 1925, n. 376; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    gli articoli 4, 6 e 7 del regio decreto-legge 14 maggio 1925, n. 601, convertito dalla legge 18 marzo 1926, n. 562; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    il regio decreto-legge 26 giugno 1925, n. 1047, convertito dalla legge 18 marzo 1926, n. 562; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    il regio decreto-legge 29 luglio 1925, n. 1261, convertito dalla legge 18 marzo 1926, n. 562; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    il regio decreto-legge 11 ottobre 1925, n. 1748, convertito dalla legge 18 marzo 1926, n. 562; 
+
+                                
+                            
+                            
+                                j)
+                                
+                                    il regio decreto-legge 19 febbraio 1931, n. 950, convertito dalla legge 31 dicembre 1931, n. 1657; 
+
+                                
+                            
+                            
+                                k)
+                                
+                                    gli articoli da 1 a 11 e da 14 a 18 del regio decreto-legge 30 giugno 1932, n. 815, convertito dalla legge 5 gennaio 1933, n. 118; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    il regio decreto-legge 20 dicembre 1932, n. 1607, convertito dalla legge 20 aprile 1932, n. 291; 
+
+                                
+                            
+                            
+                                m)
+                                
+                                    la legge 4 dicembre 1939, n. 1913; 
+
+                                
+                            
+                            
+                                n)
+                                
+                                    l'articolo 2369-bis del codice civile, approvato con regio decreto 16 marzo 1942, n. 262; 
+
+                                
+                            
+                            
+                                o)
+                                
+                                    il decreto legislativo luogotenenziale 18 settembre 1944, n. 250; 
+
+                                
+                            
+                            
+                                p)
+                                
+                                    il decreto legislativo luogotenenziale 19 aprile 1946, n. 321;
+
+                                
+                            
+                            
+                                q)
+                                
+                                    la legge 23 maggio 1956, n. 515; 
+
+                                
+                            
+                            
+                                r)
+                                
+                                    la legge 31 dicembre 1962, n. 1778; 
+
+                                
+                            
+                            
+                                s)
+                                
+                                    gli articoli 1, undicesimo comma, 2, decimo comma, primo e secondo periodo, 3, 4, 4-bis, 4-ter, 5-quinquies, 5-sexies, 9, secondo comma, 13, secondo comma, 14, 15, 16, 17, 18, sesto comma, 18-ter, 18- quinquies, quinto comma, 18-septies, secondo periodo, del decreto- legge 8 aprile 1974, n. 95, convertito, con modificazioni, dalla legge 7 giugno 1974, n. 216, e successive modificazioni e integrazioni; 
+
+                                
+                            
+                            
+                                t)
+                                
+                                    il decreto del Presidente della Repubblica 31 marzo 1975, n. 136; 
+
+                                
+                            
+                            
+                                u)
+                                
+                                    il decreto del Presidente della Repubblica 31 marzo 1975, n. 137; 
+
+                                
+                            
+                            
+                                v)
+                                
+                                    il decreto del Presidente della Repubblica 31 marzo 1975, n. 138, a eccezione degli articoli 16 e 18; 
+
+                                
+                            
+                            
+                                w)
+                                
+                                    la legge 23 febbraio 1977, n. 49; 
+
+                                
+                            
+                            
+                                x)
+                                
+                                    la legge 23 marzo 1983, n. 77, a eccezione degli articoli 9 e 10- ter; 
+
+                                
+                            
+                            
+                                y)
+                                
+                                    la legge 19 giugno 1986, n. 289; 
+
+                                
+                            
+                            
+                                z)
+                                
+                                    il decreto del Presidente della Repubblica 12 dicembre 1987, n. 556; 
+
+                                
+                            
+                            
+                                aa)
+                                
+                                    la legge 2 gennaio 1991, n. 1; 
+
+                                
+                            
+                            
+                                bb)
+                                
+                                    la legge 17 maggio 1991, n. 157, a eccezione dell'articolo 10; 
+
+                                
+                            
+                            
+                                cc)
+                                
+                                    il decreto legislativo 25 gennaio 1992, n. 84, a eccezione dell'articolo 14; 
+
+                                
+                            
+                            
+                                dd)
+                                
+                                    il decreto legislativo 27 gennaio 1992, n. 86, a eccezione dell'articolo 4; 
+
+                                
+                            
+                            
+                                ee)
+                                
+                                    la legge 18 febbraio 1992, n. 149; 
+
+                                
+                            
+                            
+                                ff)
+                                
+                                    la legge 14 agosto 1993, n. 344, a eccezione dell'articolo 11; 
+
+                                
+                            
+                            
+                                hh)
+                                
+                                    la legge 25 gennaio 1994, n. 86, a eccezione degli articoli 14 - bis e 15; 
+
+                                
+                            
+                            
+                                ii)
+                                
+                                    l'articolo 5, commi 3, 4 e 5, e l'articolo 8 del decreto-legge 31 maggio 1994, n. 332, convertito, con modificazioni, dalla legge 30 luglio 1994, n. 474; 
+
+                                
+                            
+                            
+                                jj)
+                                
+                                    il decreto legislativo 23 luglio 1996, n. 415, a eccezione degli articoli 60, comma 4, 62, 63, 64 e 65.
+
+2.
+                        
+                            
+                                Sono abrogati, ma continuano a essere applicati fino alla data di entrata in vigore dei provvedimenti emanati ai sensi del presente decreto: 
+ 
+                            
+                            
+                                a)
+                                
+                                    gli articoli 5, 5-bis, 5-ter, 5-quater, del decreto-legge 8 aprile 1974, n. 95, convertito, con modificazioni, dalla legge 7 giugno 1974, n. 216, e successive modificazioni e integrazioni; le relative violazioni sono punite ai sensi degli articoli 173 e 174 o sanzionate ai sensi dell'articolo 193, comma 2; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    18, a eccezione del sesto comma, 18-bis, 18-quater, 18-quinquies, a eccezione del quinto comma, 18-sexies e 18-septies, a eccezione del secondo periodo, del decreto-legge 8 aprile 1974, n. 95, convertito, con modificazioni, dalla legge 7 giugno 1974, n. 216, e successive modificazioni e integrazioni; le relative violazioni sono sanzionate ai sensi dell'articolo 191; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    l'articolo 3 del decreto del Presidente della Repubblica 31 marzo 1975, n. 136; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    gli articoli 1, commi 1, 2, 3, 4, 5, 6, 7, 8, 9 e 11; 2, commi 2 e 3; 2-bis, commi 3, 4, 5 e 7; 2-ter; 3, commi 3 e 4; 4, commi 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13 e 14; 5; 7, commi 3, 5 e 6; 10-bis, della legge 23 marzo 1983, n. 77; le relative violazioni sono sanzionate ai sensi dell'articolo 190; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    gli articoli 3, comma 2, lettere b), c), d) ed e); 4, comma 2; 9 commi 12, 13, 14; 15 della legge 2 gennaio 1991, n. 1; le relative violazioni sono punite ai sensi dell'articolo 169 o sanzionate ai sensi degli articoli 189 e 190; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    l'articolo 6 della legge 17 maggio 1991, n. 157; le relative violazioni sono punite ai sensi dell'articolo 174 o sanzionate ai sensi dell'articolo 193; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    gli articoli 2; 3; 4; 6; 7 della legge 18 febbraio 1992, n. 149; le relative violazioni sono sanzionate ai sensi dell'articolo 191; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    gli articoli 10; 14; 15; 16, comma 1; 20, commi 1 e 4; 22; 23; 24; 25; 27; 28 della legge 18 febbraio 1992, n. 149; le relative violazioni sono sanzionate ai sensi dell'articolo 192; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    gli articoli 1; 2, commi 3 e 4; 4, commi 1 e 4; 5, commi 3, 6, 7, 8, 9, 10 e 11; 6, comma 2; 7, commi 1, 2, 3, 4, 5 e 6; 8; 9, commi 2 e 3, del decreto legislativo 25 gennaio 1992, n. 84; le relative violazioni sono sanzionate ai sensi dell'articolo 190; 
+
+                                
+                            
+                            
+                                j)
+                                
+                                    gli articoli 1 e 2, comma 2, lettera a), del decreto legislativo 27 gennaio 1992, n. 86; 
+
+                                
+                            
+                            
+                                k)
+                                
+                                    gli articoli 1, commi 1, 2, 3, 4, 5, 6 e 7; 3, comma 2, ultimo periodo; 4, commi 1, 2, 3, 4, 5; 5, commi 1, 2, 3 e 4; 8, commi 2, 4 e 5; 9; 10 della legge 14 agosto 1993, n. 344; le relative violazioni sono sanzionate ai sensi dell'articolo 190; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    gli articoli 1, commi 1, 2, 3, 4, 5 e 6; 3, comma 2, ultimo periodo; 4, commi 1, 2, 3, 4, 5 e 6; 5, commi 1, 2, 3 e 4; 7; 8; 9; 12, comma 2 e 5; 13; 14 della legge 25 gennaio 1994, n. 86; le relative violazioni sono sanzionate ai sensi dell'articolo 190; 
+
+                                
+                            
+                            
+                                m)
+                                
+                                    gli articoli 2, comma 4; 6, commi 3 e 4; 7; 8; 10, 13; 14; 15; 18, commi 1 e 3; 20, comma 1, lett. e); 21, commi 2 e 3; 22, comma 2; 
+23, commi 5 e 6; 24; 25; 35, commi 2 e 3; 66, comma 1, lettere b), c) ed e), del decreto legislativo 23 luglio 1996, n. 415; le relative violazioni sono punite ai sensi dell'articolo 169 o sanzionate ai sensi degli articoli 189 e 190.
 
 Fino all'emanazione dei regolamenti previsti dall'articolo 80, commi 4, 5 e 6, e comunque fino al completamento della vendita prevista dall'articolo 204, comma 1, si applicano gli articoli 1, 10, 11, 12, 13 e 14 della legge 19 giugno 1986, n. 289.
 

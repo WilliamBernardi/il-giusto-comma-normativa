@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Leggi delega e relativi provvedimenti delegati
 vigenza_date: 2008-01-01
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:41:15Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -32,6 +32,52 @@ Il Ministero della sanita' esercita le funzioni amministrative riservate allo St
 
 Il Ministero partecipa alla elaborazione e alla attuazione delle politiche comunitarie.
 
+3.
+                    
+                        
+                            Il Ministero svolge, inoltre funzioni in materia di: 
+ 
+                        
+                        
+                            a)
+                            
+                                programmazione sanitaria, predisposizione del piano sanitario nazionale, definizione degli obiettivi fondamentali di prevenzione, cura e riabilitazione, indirizzo del Servizio sanitario nazionale, determinazione dei livelli delle prestazioni da assicurare uniformente sul territorio nazionale; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                coordinamento del sistema informativo sanitario e verifica comparativa dei costi e dei risultati conseguiti dalle regioni e dalle strutture operative del Servizio sanitario nazionale; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                vigilanza sulla conformita' delle specialita' medicinali alle norme nazionali e comunitarie, e regolamentazione della materia farmaceutica tenuto conto delle indicazioni della commissione di cui all'art. 7; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                sanita' pubblica, sanita' pubblica veterinaria, nutrizione e igiene degli alimenti; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                ricerca e sperimentazione in materia sanitaria; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                professioni e attivita' sanitarie.
+
 ## Art. 2. — (( ARTICOLO ABROGATO DAL D.P.R. 7 DICEMBRE 2000, N. 435 ))
 
 
@@ -44,11 +90,157 @@ I compiti di cui all'art. 8 della legge 23 dicembre 1978, n. 833, sono attribuit
 
 ## Art. 4. — Consiglio superiore di sanita'
 
+1.
+                    
+                        
+                            Il Consiglio superiore di sanita' e' organo consultivo tecnico del Ministro della sanita' e svolge le seguenti funzioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                prende in esame i fatti riguardanti la salute pubblica, su richiesta del Ministro per la sanita'; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                propone lo studio di problemi attinenti all'igiene e alla sanita'; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                propone indagini scientifiche e inchieste su avvenimenti di rilevante interesse nel campo igienico e sanitario; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                propone all'amministrazione sanitaria la formulazione di schemi di norme e di provvedimenti per la tutela della salute pubblica; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                propone la formulazione di standards costruttivi e organizzativi per la edificazione di ospedali, istituti di cura ed altre opere igieniche da parte di pubbliche amministrazioni.
+
+2.
+                    
+                        
+                            Il Consiglio superiore di sanita' esprime parere obbligatorio: 
+ 
+                        
+                        
+                            a)
+                            
+                                sui regolamenti predisposti da qualunque amministrazione centrale che interessino la salute pubblica; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                sulle convenzioni internazionali relative alla predetta materia; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                sugli elenchi delle lavorazioni insalubri e dei coloranti nocivi; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                sui provvedimenti di coordinamento e sulle istruzioni obbligatorie per la tutela della salute pubblica da adottarsi dal Ministero della sanita', ai sensi dei nn. 2 e 3 dell'art. 1 della legge 13 marzo 1958, n. 296; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                
+                                    (( LETTERA ABROGATA DAL D.P.R. 6 OTTOBRE 1998, N. 392 )); 
+
+                            
+                        
+                        
+                            f)
+                            
+                                sulla determinazione dei lavori pericolosi, faticosi o insalubri, delle donne e dei fanciulli e sulle norme igieniche del lavoro; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                sulle domande di attestati di privativa industriale per invenzioni e scoperte concernenti generi commestibili di qualsiasi natura; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                sulle modificazioni da introdursi negli elenchi degli stupefacenti; 
+
+                            
+                        
+                        
+                            i)
+                            
+                                sul diniego e sulla revoca di registrazione delle specialita' medicinali; 
+
+                            
+                        
+                        
+                            l)
+                            
+                                sui servizi diretti a prevenire ed eliminare i danni delle emanazioni radioattive e delle contaminazioni atmosferiche in genere, che non siano di competenza delle unita' sanitarie locali.
+
 La composizione e l'ordinamento del Consiglio superiore di sanita' sono determinati con regolamento adottato ai sensi del comma 3 dell'art. 17 della legge 23 agosto 1988, n. 400, entro quattro mesi dalla data di entrata in vigore del presente decreto.
 
 ## Art. 4-bis. — (( (Modalita' dell'accertamento medico-legale effettuato dal Ministero della salute). ))
 
 ((
+
+1.
+                    
+                        
+                            Per la formulazione dei pareri medico-legali di propria competenza, il Ministero della salute ha facolta' di istituire, nel limite massimo di spesa di cui al comma 4, collegi medici con la partecipazione di esperti universitari od ospedalieri specialisti nelle varie discipline mediche, nei seguenti casi: 
+ 
+                        
+                        
+                            a)
+                            
+                                quando sia richiesto un parere medico-legale dagli organi giudiziari o dalle Amministrazioni pubbliche, e sia necessario sottoporre l'interessato ad esame diretto; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                quando dagli atti rimessi al Ministero risulti una disparita' di giudizio tra gli organi competenti; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                quando negli atti si notino discordanze tra i risultati degli accertamenti medico-fiscali ed i giudizi diagnostico e medico-legale espressi; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                quando il giudizio diagnostico sia stato espresso in modo da non permettere una sicura applicazione delle tabelle A e B annesse alla legge 10 agosto 1950, n. 648, e successive modificazioni.
 
 I collegi medici di cui al comma 1 sono composti dal dirigente dell'Ufficio medico-legale della Direzione generale delle professioni sanitarie e medico-legali, quale presidente, da un medico del predetto Ufficio, quale relatore, e da uno o piu' esperti scelti tra medici universitari od ospedalieri.
 
@@ -85,6 +277,31 @@ AGGIORNAMENTO (7)
 Sono organi periferici del Ministero della sanita' gli uffici di sanita' marittima, aerea e di frontiera, gli uffici veterinari di confine, porto e aeroporto e quelli per gli adempimenti CEE.
 
 ## Art. 7. — Commissione unica del farmaco
+
+1.
+                    
+                        
+                            Presso il Ministero della sanita' e' costituita la commissione unica del farmaco, che provvede a: 
+ 
+                        
+                        
+                            a)
+                            
+                                valutare la rispondenza delle specialita' medicinali ai requisiti richiesti dalle disposizioni di legge e dalle direttive em- anate dalla Comunita' europea ed esprimere pareri sulle procedure comunitarie per l'autorizzazione all'immissione in commercio dei farmaci; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                esprimere parere vincolante sul valore terapeutico dei medicinali e sulla compatibilita' finanziaria delle prestazioni farmaceutiche e, a richiesta del Ministro della sanita', parere su tutte le questioni relative alla farmaceutica; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                dare indicazioni di carattere generale sulla classificazione dei medicinali, secondo il decreto legislativo 30 dicembre 1992, n. 539.
 
 La commissione unica del farmaco e' nominata con decreto del Ministro della sanita' e presieduta dal Ministro stesso o dal vice presidente da lui designato ed e' composta da dodici esperti, di documentata competenza scientifica nel campo delle scienze mediche, biologiche e farmacologiche, di cui sette nominati dalla Conferenza dei presidenti delle regioni e delle province autonome e cinque nominati dal Ministro della sanita'. ((La commissione dura in carica due anni ed i componenti)) possono essere confermati una sola volta.
 

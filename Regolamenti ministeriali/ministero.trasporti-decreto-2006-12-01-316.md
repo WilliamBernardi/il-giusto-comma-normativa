@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
 vigenza_date: 2022-09-06
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:41Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -76,6 +76,48 @@ Le domande di autorizzazione all'esercizio di nuovi servizi di linea, oppure di 
 
 ((
 
+2.
+                    
+                        
+                            Nelle domande di cui al comma 1: 
+ 
+                        
+                        
+                            a)
+                            
+                                e' indicata la denominazione della linea oggetto dell'autorizzazione e il relativo codice identificativo, come risultante dal GISDIL; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                sono allegate le dichiarazioni rese, ai sensi degli articoli 46 e 47 del decreto del Presidente della Repubblica n. 445/2000, dal rappresentante legale dell'impresa richiedente nonche', in caso di raggruppamento di imprese, dal rappresentante legale di ciascuna delle imprese raggruppate da cui risulta: 
+ 1) il numero di iscrizione nel registro elettronico nazionale, di seguito «REN», delle imprese autorizzate all'esercizio della professione di trasportatore su strada di persone e il numero di iscrizione nel registro delle imprese di cui all'articolo 2188 del codice civile, nonche' i dati anagrafici dell'impresa; 
+ 2) il rispetto da parte dell'impresa richiedente delle condizioni di cui all'articolo 3, comma 2, lettere c), d), e), f), h), i) e l), del decreto legislativo n. 285/2005; 
+ 3) ai fini dell'espletamento delle necessarie verifiche antimafia, i dati anagrafici dei soggetti indicati all'articolo 85 del decreto legislativo 6 settembre 2011, n. 159, di seguito «codice antimafia», relativamente all'impresa di cui e' rappresentante legale; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                sono allegate le dichiarazioni sostitutive di certificazione e di atto notorio, relativamente all'impresa richiedente ovvero a ciascuna delle imprese raggruppate, rilasciate, ai sensi degli articoli 46 e 47 del decreto del Presidente della Repubblica n. 445/2000, da ciascuno dei soggetti indicati all'articolo 85 del codice antimafia, dalle quali risulti che nei confronti dei predetti soggetti non sussistono le cause di divieto, di decadenza o di sospensione previste dall'articolo 67 del medesimo codice antimafia; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                e' allegata, ai fini della dimostrazione relativa al possesso della certificazione di qualita' aziendale, relativamente all'impresa richiedente e, in caso di raggruppamento di imprese, a ciascuna delle imprese raggruppate, la copia conforme della certificazione della serie UNI EN ISO 9000, nella versione piu' recente, rilasciata da organismi accreditati dal Sistema Nazionale per l'Accreditamento degli Organismi di Certificazione (SINCERT); 
+
+                            
+                        
+                        
+                            e)
+                            
+                                sono allegate, in caso di imprese subaffidatarie, le dichiarazioni di cui alle lettere b), c), nonche' la copia conforme della certificazione di cui alla lettera d).
+
 L'impresa titolare di autorizzazione, gia' iscritta nell'elenco nazionale di cui all'articolo 5, presenta al competente Ufficio motorizzazione civile del capoluogo di regione o provincia autonoma in cui ha sede legale la medesima impresa, l'istanza di rinnovo senza modifiche dell'autorizzazione in corso di validita' di cui e' titolare, a cui allega, altresi', la dichiarazione, resa ai sensi degli articoli 46 e 47 del decreto del Presidente della Repubblica n. 445/2000, attestante il possesso dell'autorizzazione all'esercizio della professione di trasportatore su strada di persone e la permanenza dei requisiti di cui all'articolo 3, comma 2, lettere b), c), d), e), f), g), h), i) e l), del decreto legislativo n. 285/2005.
 
 ))
@@ -93,6 +135,31 @@ L'impresa titolare di autorizzazione, gia' iscritta nell'elenco nazionale di cui
 ## Art. 3. — Accertamenti e controlli sulle domande
 
 ((
+
+1.
+                    
+                        
+                            Il competente Ufficio della Direzione generale, ricevuta la domanda di cui all'articolo 2, comma 2, verifica: 
+ 
+                        
+                        
+                            a)
+                            
+                                la conformita' della stessa a quanto previsto dall'articolo 2, comma 2; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                l'avvenuto rilascio da parte del competente Ufficio motorizzazione civile, ai sensi dell'articolo 5, del decreto del Presidente della Repubblica 11 luglio 1980, n. 753, del nulla osta relativo alla sicurezza del percorso; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                sentite le regioni, le province autonome, le province e i comuni, l'insussistenza di contratti di servizio pubblico aventi per oggetto relazioni di traffico infraregionali riguardanti almeno un comune non capoluogo di provincia.
 
 ))
 
@@ -189,9 +256,73 @@ Ai fini del rilascio delle autorizzazioni, si applicano le procedure e le modali
 
 ((
 
+1.
+                    
+                        
+                            Si conclude entro novanta giorni decorrenti dalla data del ricevimento della domanda il procedimento relativo alle modifiche di un servizio gia' autorizzato, concernenti: 
+ 
+                        
+                        
+                            a)
+                            
+                                la trasformazione giuridica delle imprese autorizzate, con conseguente modifica del codice fiscale e numero di iscrizione al REN, l'aggiunta di una o piu' imprese al novero delle imprese riunite o subaffidatarie, la sostituzione dell'impresa titolare dell'autorizzazione e la sostituzione o l'eliminazione di un'impresa associata o subaffidataria; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                la variazione del percorso e l'inserimento anche di una sola nuova fermata; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                l'aumento del periodo di esercizio e delle frequenze o la modifica dell'orario al di fuori dell'ipotesi di cui al comma 1-bis, lettera b); 
+
+                            
+                        
+                        
+                            d)
+                            
+                                l'inserimento di relazioni di traffico infraregionali riguardanti non esclusivamente due comuni, entrambi capoluogo di provincia.
+
 ))
 
 ((
+
+1-bis.
+                    
+                        
+                            Si conclude entro trenta giorni decorrenti dalla data del ricevimento della domanda il procedimento concernente le modifiche di un servizio gia' autorizzato, riguardanti: 
+ 
+                        
+                        
+                            a)
+                            
+                                il mutamento di denominazione delle imprese autorizzate, che mantengono il medesimo codice fiscale e numero di iscrizione al REN; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                la riduzione del periodo di esercizio e delle frequenze, l'aumento delle frequenze per un periodo non superiore a venti giorni, o lo slittamento di tutti gli orari in modo uniforme; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                l'inserimento, salvo i casi di cui al comma 1, lettera d), di relazioni di traffico concernenti esclusivamente due comuni entrambi capoluogo di provincia; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                la modifica dei valori dei prezzi.
 
 Decorsi i termini di cui ai commi 1 e 1-bis il silenzio del competente Ufficio della Direzione generale equivale a provvedimento di accoglimento dell'istanza, nel rispetto di quanto previsto dall'articolo 20 della legge 7 agosto 1990, n. 241.
 
@@ -220,7 +351,40 @@ Nel caso di servizi di linea internazionali di cui al presente articolo, l'impre
 
 ## Art. 9. — Comunicazione di inizio servizio
 
+1.
+                    
+                        
+                            Le imprese rendono noto all'utenza il programma di esercizio dei servizi di linea autorizzati entro la data della loro attivazione.
+Tale obbligo si intende rispettato quando: 
+ 
+                        
+                        
+                            a)
+                            
+                                almeno una delle imprese autorizzate pubblica sulla rete internet le informazioni relative alle prescrizioni contenute nell'autorizzazione, nonche' la denominazione delle altre eventuali imprese autorizzate ed i punti vendita dei titoli di viaggio; 
 
+                            
+                        
+                        
+                            b)
+                            
+                                le imprese autorizzate forniscono telefonicamente, per non meno di quattro ore nei giorni feriali, le informazioni concernenti le fermate, il periodo, i giorni e l'orario di esercizio dei servizi di linea ad esse autorizzati, nonche' i punti vendita dei titoli di viaggio ed i prezzi degli stessi; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                nei punti vendita dei titoli di viaggio relativi ai servizi di linea e' a disposizione specifico materiale di documentazione contenente le informazioni di cui alla lettera b) ed ogni altra notizia utile; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                almeno il cinquanta per cento delle paline apposte alle fermate riporta l'orario dei relativi servizi di linea.
+
+((COMMA ABROGATO DAL DECRETO 15 LUGLIO 2022, N. 124)).
 
 ## Art. 10. — Comunicazione di cessazione servizio
 
@@ -254,9 +418,103 @@ Le imprese autorizzate hanno la facolta', per svolgere un servizio di linea, di 
 
 ## Art. 13. — Modelli della documentazione
 
+1.
+                    
+                        
+                            Con circolare della Direzione generale per ((la sicurezza stradale e l'autotrasporto)), sono stabiliti i modelli relativi: 
+ 
+                        
+                        
+                            a)
+                            
+                                alle domande di autorizzazione per nuovi servizi di linea o di rinnovo senza modifiche di quelli esercitati; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                alle domande di modifica dei servizi di linea ((...)); 
+
+                            
+                        
+                        
+                            c)
+                            
+                                alla scheda contenente il programma di esercizio del servizio di linea proposto; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                alle dichiarazioni rese ai sensi degli articoli 46 e 47 del decreto del Presidente della Repubblica n. 445/2000; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                alla tabella degli orari e del percorso; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                
+                                    ((LETTERA ABROGATA DAL DECRETO 15 LUGLIO 2022, N. 124)); 
+
+                            
+                        
+                        
+                            g)
+                            
+                                alla documentazione comprovante il rilascio dell'autorizzazione, da conservarsi presso la sede principale dell'impresa e da tenere a bordo dell'autobus; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                
+                                    ((LETTERA ABROGATA DAL DECRETO 15 LUGLIO 2022, N. 124)).
+
 ## Art. 14. — Documentazione da tenere a bordo dell'autobus
 
 ((
+
+1.
+                    
+                        
+                            Ai fini del rispetto dell'obbligo di cui all'articolo 5, comma 2, lettera c), del decreto legislativo n. 285/2005, l'impresa tiene a bordo dell'autobus impiegato nel servizio di linea la documentazione comprovante il rilascio dell'autorizzazione conforme a quanto previsto ai sensi dell'articolo 13, comma 1, lettera g), oppure conforme al formato digitale di cui al comma 1-bis del presente articolo e una dichiarazione, resa ai sensi dell'articolo 47 del decreto del Presidente della Repubblica n. 445/2000, dalla quale risultino: 
+ 
+                        
+                        
+                            a)
+                            
+                                per i conducenti aventi un rapporto di lavoro subordinato con l'impresa titolare del servizio di linea, gli estremi del contratto collettivo nazionale di lavoro di settore applicato; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                per i conducenti aventi un rapporto di lavoro subordinato con una Agenzia di somministrazione di lavoro, iscritta all'apposito Albo, istituito presso il Ministero del lavoro e delle politiche sociali, la denominazione della stessa e l'applicazione della vigente normativa in materia di somministrazione di lavoro; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                per i conducenti non rientranti nei casi di cui alle lettere a) e b), la qualita' o la carica sociale rivestita all'interno dell'impresa autorizzata allo svolgimento del servizio di linea; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                le generalita' del conducente e gli estremi di iscrizione dello stesso agli Enti previdenziali ed assistenziali.
 
 Con successivo decreto del Capo Dipartimento per la mobilita' sostenibile del Ministero delle infrastrutture e della mobilita' sostenibili sono disciplinate le specifiche tecniche e le modalita' per rendere disponibile la documentazione comprovante il rilascio dell'autorizzazione in formato digitale originata dalla apposita applicazione informatica del medesimo Ministero.
 

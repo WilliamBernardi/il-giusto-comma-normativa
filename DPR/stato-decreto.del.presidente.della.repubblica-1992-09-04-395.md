@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: DPR
 vigenza_date: 1998-09-22
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:47:45Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -137,9 +137,63 @@ A decorrere dal 1 gennaio 1993, i possessori di redditi di lavoro dipendente ed 
 
 ## Art. 8. — Costituzione dei Centri autorizzati di assistenza fiscale per lavoratori dipendenti e pensionati
 
+1.
+                        
+                            
+                                I Centri di assistenza fiscale di cui all'art. 78, comma 20, della legge 30 dicembre 1991, n. 413, possono essere costituiti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    da una o piu' organizzazioni sindacali dei lavoratori dipendenti e dei pensionati, rappresentate nel Consiglio nazionale dell'economia e del lavoro (C.N.E.L.), aventi complessivamente almeno cinquantamila aderenti; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    da uno o piu' sostituti d'imposta, di cui all'art. 23 del decreto del Presidente della Repubblica 29 settembre 1973, n. 600, e successive modificazioni ed integrazioni, aventi complessivamente almeno cinquantamila dipendenti.
+
 I Centri di assistenza hanno natura privata e devono essere costituiti nella forma di societa' a responsabilita' limitata, con capitale minimo di 100 milioni di lire, o di societa' per azioni, con capitale minimo di 200 milioni di lire.
 
 ## Art. 9. — Autorizzazione all'esercizio dell'attivita' ed iscrizione all'albo
+
+1.
+                        
+                            
+                                L'autorizzazione a svolgere l'attivita' di assistenza fiscale, prevista dall'art. 78, comma 21, della legge 30 dicembre 1991, n. 413, e' concessa con decreto del Ministro delle finanze, da pubblicare nella Gazzetta Ufficiale, a seguito di presentazione di apposita istanza, previa verifica: 
+ 
+                            
+                            
+                                a)
+                                
+                                    della sussistenza dei requisiti e delle condizioni richiesti dallo stesso art. 78, comma 20, per la costituzione dei Centri di assistenza per lavoratori dipendenti e pensionati; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    dell'avvenuto deposito, presso l'ufficio della direzione centrale per l'accertamento e la programmazione del Dipartimento delle entrate del Ministero delle finanze, di copia autentica dell'atto costitutivo e dello statuto.
+
+2.
+                        
+                            
+                                Prima dell'emanazione del decreto di autorizzazione, il Dipartimento delle entrate del Ministero delle finanze, verificata la sussistenza dei requisiti di cui al comma 1, invita gli interessati a dimostrare: 
+ 
+                            
+                            
+                                a)
+                                
+                                    l'esistenza delle garanzie assicurative di cui all'art. 13; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il possesso, da parte del direttore tecnico responsabile, dei requisiti previsti dall'art. 78, commi 5 e 24, della legge 30 dicembre 1991, n. 413, e dall'art. 10 e l'insussistenza, nei suoi confronti, di provvedimenti di sospensione, attestata da apposita dichiarazione dell'ordine a cui il direttore tecnico appartiene.
 
 Il decreto di autorizzazione puo' stabilire i limiti territoriali nell'ambito dei quali il Centro di assistenza svolge l'attivita'.
 
@@ -156,6 +210,31 @@ Il trasferimento delle quote o delle azioni delle societa' di cui all'art. 8 puo
 Alla direzione del Centro di assistenza e' preposto, con rapporto di lavoro autonomo o subordinato, un direttore tecnico responsabile, iscritto nell'albo dei dottori commercialisti o in quello dei ragionieri liberi professionisti, che abbia esercitato per almeno tre anni la relativa attivita' professionale, il quale provvede agli adempimenti di cui al successivo art. 15, commi 3 e 4.
 
 ## Art. 11. — Revoca dell'autorizzazione - Sospensione cautelare
+
+1.
+                        
+                            
+                                Il Ministro delle finanze, con proprio decreto da pubblicare nella Gazzetta Ufficiale, puo' revocare l'autorizzazione di cui all'art. 9 nei seguenti casi: 
+ 
+                            
+                            
+                                a)
+                                
+                                    quando, nello svolgimento dell'attivita' disciplinata dal titolo II vengano commesse gravi e ripetute violazioni alle disposizioni previste da norme legislative e regolamentari in materia tributaria; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    quando risultino inosservate le prescrizioni e gli obblighi posti dall'Amministrazione finanziaria per l'esercizio dell'attivita' di assistenza; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    quando venga accertato il venir meno di uno dei requisiti o delle condizioni di cui all'art. 9, commi 1, lettera a), 2 e 7, primo periodo, ovvero venga accertata la mancata effettuazione delle comunicazioni di cui ai commi 6 e 7, secondo periodo, dello stesso articolo.
 
 Nei casi di cui alle lettere a) e b) del comma 1, il dipartimento delle entrate del Ministero delle finanze contesta le violazioni o le inosservanze ed assegna al legale rappresentante del Centro di assistenza il termine di trenta giorni dalla contestazione per eventuali osservazioni o memorie. Entro sessanta giorni dal ricevimento delle predette osservazioni o memorie, il Ministro delle finanze, qualora non ritenga fondate le giustificazioni addotte, emana il decreto di revoca di cui al comma 1.
 

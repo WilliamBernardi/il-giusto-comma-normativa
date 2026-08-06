@@ -7,8 +7,8 @@ urn: urn:nir:stato:decreto.del.presidente.del.consiglio.dei.ministri:2019-06-19;
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:39Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DEL CONSIGLIO DEI MINISTRI
@@ -50,6 +50,26 @@ All'articolo 4, comma 2, del decreto del Presidente del Consiglio dei ministri 1
  b) Direzione generale degli affari internazionali e della cooperazione giudiziaria: relazioni internazionali in materia civile e in particolare studio preparatorio ed elaborazione di convenzioni, trattati, accordi e altri strumenti internazionali, con il coordinamento del Capo del Dipartimento e in collaborazione con l'Ufficio di Gabinetto e l'Ufficio legislativo e a supporto dei medesimi; adempimenti relativi alla esecuzione delle convenzioni di collaborazione giudiziaria internazionale; rete giudiziaria europea in materia civile e commerciale; notificazioni e rogatorie civili da e per l'estero; riconoscimento ed esecuzione di sentenze straniere e altri atti formati all'estero in materia civile; attivita' di cooperazione internazionale attiva e passiva in materia penale; relazioni internazionali in materia penale e in particolare studio preparatorio, negoziazione ed elaborazione di convenzioni, trattati, accordi e altri strumenti internazionali e conseguente monitoraggio della legislazione penale nazionale con il coordinamento del Capo del Dipartimento e in collaborazione con l'Ufficio di Gabinetto e l'Ufficio legislativo e a supporto dei medesimi; rapporti con l'Unione europea, con l'Organizzazione delle nazioni unite e le altre istituzioni internazionali per la prevenzione e il controllo dei reati;».
 
 ## Art. 4. — Adeguamento delle competenze delle direzioni generali del Dipartimento dell'organizzazione giudiziaria del personale e dei servizi
+
+1.
+                    
+                        
+                            All'articolo 5, comma 2, del decreto del Presidente del Consiglio dei ministri 15 giugno 2015, n. 84, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                la lettera b) e' sostituita dalla seguente: 
+ «b) Direzione generale delle risorse materiali e delle tecnologie: determinazione del fabbisogno di beni e servizi dell'amministrazione centrale e degli uffici giudiziari nazionali; attivita' connesse all'onere delle spese per la gestione degli uffici giudiziari a norma dell'articolo 1, secondo comma, della legge 24 aprile 1941, n. 352; stipula degli accordi e delle convenzioni quadro di cui all'articolo 5, comma 2, del decreto del Presidente della Repubblica 18 agosto 2015, n. 133; elaborazione degli indirizzi e delle linee di pianificazione strategica e adozione delle misure organizzative di cui all'articolo 6 del predetto decreto del Presidente della Repubblica n. 133 del 2015; acquisti, per importi pari o superiori alle soglie di cui all'articolo 35 del decreto legislativo 18 aprile 2016, n. 50, di beni e servizi omogenei ovvero comuni a piu' distretti di corte di appello; acquisizione di veicoli; acquisizione, progettazione e gestione dei beni mobili, immobili e dei servizi dell'amministrazione centrale e degli uffici giudiziari nazionali; emissione del parere previsto dall'articolo 19 della legge 30 marzo 1981, n. 119; predisposizione degli elementi necessari alla determinazione delle priorita' di intervento ai sensi dell'articolo 50 della legge 23 dicembre 1998, n. 448; espletamento dei compiti e delle funzioni di cui al decreto del Presidente della Repubblica 4 settembre 2002, n. 254; servizio di documentazione degli atti processuali a norma dell'articolo 51 del decreto legislativo 28 luglio 1989, n. 271; predisposizione e attuazione dei programmi per l'acquisto, la costruzione, la permuta, la vendita, la ristrutturazione di beni immobili; competenze residue del Ministero in materia di predisposizione e attuazione degli atti in materia di procedimenti relativi alla concessione ai comuni di contributi per le spese di gestione degli uffici giudiziari. La Direzione generale esercita altresi' una competenza generale in materia di procedure contrattuali del Ministero e a tal fine si avvale dell'attivita' istruttoria svolta dalle direzioni generali interessate all'esecuzione dei contratti; sono comprese le procedure di formazione dei contratti riguardanti l'acquisizione di beni e servizi di telecomunicazione e fonia in coerenza con le misure di coordinamento strategico e di indirizzo dello sviluppo dei sistemi di telecomunicazione e fonia adottate a norma dell'articolo 17 del decreto legislativo 7 marzo 2005, n. 82. I raccordi con le competenze in materia di risorse e tecnologie degli altri dipartimenti sono definiti con i decreti di cui all'articolo 16, comma 2;»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                la lettera e) e' sostituita dalla seguente: 
+ «e) Direzione generale per i sistemi informativi automatizzati: attuazione delle linee strategiche per la riorganizzazione e la digitalizzazione dell'amministrazione della giustizia; adempimento dei compiti di cui all'articolo 17 del decreto legislativo 7 marzo 2005, n. 82, quale ufficio unico responsabile per la transizione digitale a norma della medesima disposizione; programmazione, progettazione, sviluppo, gestione, accesso e disponibilita' dei sistemi informativi automatizzati, di telecomunicazione e fonia per tutti gli uffici del Ministero, gli uffici amministrativi decentrati e gli uffici giudiziari; integrazione e interconnessione dei sistemi nel rispetto degli standard; interconnessione con i sistemi informativi automatizzati, di telecomunicazione e fonia delle altre amministrazioni; pareri di congruita' tecnico-economica sugli acquisti per i quali non e' richiesto il parere obbligatorio dell'Agenzia per l'Italia digitale; predisposizione e gestione del piano per la sicurezza informatica dell'Amministrazione della giustizia; promozione e sviluppo degli strumenti di innovazione tecnologica in materia informatica, telecomunicazione, telematica e fonia; procedure di formazione dei contratti riguardanti l'acquisizione di beni e servizi informatici e dei connessi lavori di impiantistica riguardanti esclusivamente le sale server;».
 
 All'articolo 13, comma 1, la lettera f) del decreto del Presidente del Consiglio dei ministri n. 84 del 2015 e' sostituita dalla seguente: 
  «f) attivita' connesse all'onere delle spese per la gestione degli uffici giudiziari a norma dell'articolo 1, secondo comma, della legge 24 aprile 1941, n. 352.».

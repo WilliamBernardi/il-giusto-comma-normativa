@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Testi Unici
 vigenza_date: 2026-07-28
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:40:02Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -84,6 +84,169 @@ E' approvato l'unito testo unico delle disposizioni legislative concernenti le i
 
 Il presente testo unico disciplina l'imposizione indiretta sulla produzione e sui consumi.
 
+2.
+                        
+                            
+                                Ai fini del presente testo unico si intende per: 
+ 
+                            
+                            
+                                a)
+                                
+                                    accisa: l'imposizione indiretta sulla produzione o sul consumo dei prodotti energetici, dell'alcole etilico e delle bevande alcoliche, dell'energia elettrica e dei tabacchi lavorati, diversa dalle altre imposizioni indirette previste dal Titolo III del presente testo unico; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    Amministrazione finanziaria: gli organi, centrali o periferici, dell'Agenzia delle dogane e dei monopoli preposti alla gestione dell'accisa sui prodotti energetici, sull'energia elettrica, sui tabacchi lavorati, sugli alcoli e sulle bevande alcoliche, e alla gestione delle altre imposte indirette di cui al Titolo III. (87) 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    prodotto sottoposto ad accisa: il prodotto al quale si applica il regime fiscale delle accise; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    prodotto soggetto od assoggettato ad accisa: il prodotto per il quale il debito d'imposta non e' stato ovvero e' stato assolto; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    deposito fiscale: l'impianto in cui vengono fabbricati, trasformati, detenuti, ricevuti o spediti prodotti sottoposti ad accisa, in regime di sospensione dei diritti di accisa, alle condizioni stabilite dall'Amministrazione finanziaria; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    depositario autorizzato: il soggetto titolare e responsabile della gestione del deposito fiscale; 
+ f.1) ((soggetto obbligato accreditato (SOAC): il soggetto obbligato al pagamento dell'accisa, avente sede nel territorio nazionale, che si avvale del riconoscimento della qualifica di soggetto accreditato sulla base della verifica, da parte dell'Agenzia delle dogane e dei monopoli, della sua affidabilita' nel regime fiscale dell'accisa. In relazione al settore di attivita' in cui opera il predetto soggetto accreditato assume la denominazione di: 
+ 1) SOAC-PE, soggetto obbligato accreditato prodotti energetici, per il settore dei prodotti energetici inclusi il carbone, la lignite e il coke; 
+ 2) SOAC-BA, soggetto obbligato accreditato bevande alcoliche e alcole, per il settore dei prodotti alcolici e dei relativi contrassegni; 
+ 3) SOAC-T, soggetto obbligato accreditato tabacchi, per il settore dei tabacchi; 
+ 4) SOAC-GE, soggetto obbligato accreditato gas-energia elettrica, per il settore del gas naturale e dell'energia elettrica;))
+                                        ((129))
+                                    
+                                
+                            
+                            
+                                f-bis)
+                                
+                                    prodotti non unionali: le merci definite all'articolo 5, punto 24) del regolamento (UE) n. 952/2013 del Parlamento europeo e del Consiglio del 9 ottobre 2013, che istituisce il Codice doganale dell'Unione, d'ora in avanti indicato come CDU; (87) 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    regime sospensivo: il regime fiscale applicabile alla fabbricazione, alla trasformazione, alla detenzione ed alla circolazione dei prodotti soggetti ad accisa fino al momento dell'esigibilita' dell'accisa o del verificarsi di una causa estintiva del debito d'imposta; (87) 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    LETTERA ABROGATA DAL D.LGS. 5 NOVEMBRE 2021, N. 180; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    importazione di prodotti sottoposti ad accisa: l'immissione di prodotti in libera pratica a norma dell'articolo 201 del CDU; (87) 
+
+                                
+                            
+                            
+                                i-bis)
+                                
+                                    ingresso irregolare: l'ingresso nel territorio dell'Unione europea di prodotti che non sono vincolati al regime di immissione in libera pratica ai sensi dell'articolo 201 del CDU e per i quali e' sorta un'obbligazione doganale ai sensi dell'articolo 79, paragrafo 1, di tale regolamento o sarebbe sorta se i prodotti fossero stati soggetti a dazi doganali; (87) 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    destinatario registrato: la persona fisica o giuridica, diversa dal titolare di deposito fiscale, autorizzata dall'Amministrazione finanziaria a ricevere, nell'esercizio della sua attivita' economica, prodotti sottoposti ad accisa in regime sospensivo, provenienti dal territorio di un altro Stato membro o dal territorio dello Stato; (87) 
+
+                                
+                            
+                            
+                                m)
+                                
+                                    speditore registrato: la persona fisica o giuridica autorizzata dall'Amministrazione finanziaria unicamente a spedire, nell'esercizio della sua attivita' economica, prodotti sottoposti ad accisa in regime sospensivo a seguito dell'immissione in libera pratica in conformita' dell'articolo 201 del CDU,; (87) 
+
+                                
+                            
+                            
+                                m-bis)
+                                
+                                    speditore certificato: la persona fisica o giuridica, autorizzata dall'Amministrazione finanziaria a spedire, nell'esercizio della sua attivita' economica, prodotti sottoposti ad accisa gia' immessi in consumo nel territorio dello Stato al fine del loro trasporto verso il territorio di un altro Stato membro; (87) 
+
+                                
+                            
+                            
+                                m-ter)
+                                
+                                    destinatario certificato: la persona fisica o giuridica, autorizzata dall'Amministrazione finanziaria a ricevere, nell'esercizio della sua attivita' economica, prodotti sottoposti ad accisa immessi in consumo nel territorio di un altro Stato membro e spediti nel territorio dello Stato; (87) 
+
+                                
+                            
+                            
+                                n)
+                                
+                                    sistema informatizzato: il sistema di informatizzazione di cui alla decisione (UE) 2020/263 del Parlamento europeo e del Consiglio del 15 gennaio 2020, relativa all'informatizzazione dei movimenti e dei controlli dei prodotti soggetti ad accisa; (87) 
+
+                                
+                            
+                            
+                                n-bis)
+                                
+                                    e-DAS: il documento amministrativo elettronico semplificato di cui all'articolo 35 della direttiva (UE) 2020/262 del Consiglio del 19 dicembre 2019. (87)
+
+3.
+                        
+                            
+                                Ai fini dell'applicazione del presente testo unico: 
+ 
+                            
+                            
+                                a)
+                                
+                                    si intende per "territorio dello Stato": il territorio della Repubblica italiana, con esclusione del comune di Livigno; (78) (87) 
+                                
+                            
+                            
+                                b)
+                                
+                                    si intende per territorio dell'Unione europea: il territorio corrispondente al campo di applicazione del Trattato istitutivo della Comunita' europea con le seguenti esclusioni, oltre a quelle indicate nella lettera a): (87) 
+ 1) per la Repubblica francese: i territori francesi di cui all'articolo 349 e all'articolo 355, paragrafo 1, del Trattato sul funzionamento dell'Unione europea; 
+ 2) per la Repubblica federale di Germania: l'isola di Helgoland ed il territorio di Busingen; 
+ 3) per il Regno di Spagna: Ceuta, Melilla e le isole Canarie; 
+ 4) per la Repubblica di Finlandia: le isole Åland; 
+ 5) le isole Anglo-normanne; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    le operazioni effettuate in provenienza o a destinazione: 
+ 1) del Principato di Monaco sono considerate come provenienti dalla, o destinate alla, Repubblica francese; 
+ 2) di Jungholz e Mittelberg (Kleines Walsertal), sono considerate come provenienti dalla, o destinate alla, Repubblica federale di Germania; 
+ 3) dell'isola di Man sono considerate come provenienti dal, o destinate al, Regno Unito di Gran Bretagna e dell'Irlanda del Nord; 
+ 4) della Repubblica di San Marino, sono considerate come provenienti dalla, o destinate alla, Repubblica italiana. Le suddette operazioni devono essere perfezionate presso i competenti uffici italiani con l'osservanza delle disposizioni finanziarie previste dalla Convenzione di amicizia e buon vicinato del 31 marzo 1939, resa esecutiva con la legge 6 giugno 1939, n. 1320, e successive modificazioni; 
+ 5) delle zone di sovranita' del Regno Unito di Akrotiri e Dhekelia sono considerate come provenienti dalla, o destinate alla, Repubblica di Cipro.
+
 -------------
                             AGGIORNAMENTO (78)
                             
@@ -104,7 +267,50 @@ Il presente testo unico disciplina l'imposizione indiretta sulla produzione e su
 
 Per i prodotti sottoposti ad accisa l'obbligazione tributaria sorge al momento della loro fabbricazione, compresa l'estrazione dal sottosuolo qualora l'accisa sia applicabile, ovvero ((della loro importazione o del loro ingresso irregolare nel territorio dello Stato)).((87))
 
+2.
+                        
+                            
+                                L'accisa e' esigibile all'atto della immissione in consumo del prodotto nel territorio dello Stato. Si considera immissione in consumo anche: 
+ 
+                            
+                            
+                                a)
+                                
+                                    lo svincolo, anche irregolare, di prodotti sottoposti ad accisa da un regime sospensivo; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'ammanco di prodotti sottoposti ad accisa, in misura superiore a quella consentita o quando non ricorrono le condizioni per la concessione dell'abbuono di cui all'articolo 4; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    la detenzione, al di fuori di un regime sospensivo, di prodotti sottoposti ad accisa per i quali non sia stata applicata una accisa conformemente alle disposizioni di cui al presente testo unico.
+
 L'accisa e' esigibile anche quando viene accertato che non si sono verificate le condizioni di consumo previste per poter beneficiare di un'aliquota ridotta o di una esenzione.
+
+4.
+                        
+                            
+                                E' obbligato al pagamento dell'accisa: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il titolare del deposito fiscale dal quale avviene l'immissione in consumo e, in solido, i soggetti che si siano resi garanti del pagamento ((o i soggetti)) nei cui confronti si verificano i presupposti per l'esigibilita' dell'imposta; ((87))
+                                    
+                                
+                            
+                            
+                                b)
+                                
+                                    il destinatario registrato che riceve i prodotti soggetti ad accisa alle condizioni di cui all'articolo 8;
 
 ((4-bis. In tutti i casi in cui vi siano piu' soggetti tenuti al pagamento dell'accisa, i medesimi sono responsabili in solido del debito d'imposta.))
 
@@ -176,6 +382,45 @@ La fabbricazione, la lavorazione, la trasformazione e la detenzione dei prodotti
 
 Il regime del deposito fiscale e' autorizzato dall'Amministrazione finanziaria nei limiti e alle condizioni stabilite dall'autorizzazione. Per i prodotti diversi dai tabacchi lavorati, l'esercizio del deposito fiscale e' subordinato al rilascio di una licenza, secondo le disposizioni di cui all'articolo 63. Per i tabacchi lavorati, l'esercizio del deposito fiscale e' subordinato all'adozione di un provvedimento di autorizzazione da parte dell'Agenzia delle dogane e dei monopoli. A ciascun deposito fiscale e' attribuito un codice di accisa.(87)
 
+3.
+                        
+                            
+                                Il depositario e' obbligato: 
+ 
+                            
+                            
+                                a)
+                                
+                                    fatte salve le disposizioni stabilite per i singoli prodotti, a prestare cauzione nella misura del 10 per cento dell'imposta che grava sulla quantita' massima di prodotti che possono essere detenuti nel deposito fiscale, in relazione alla capacita' di stoccaggio dei serbatoi utilizzabili e, in ogni caso, l'importo della cauzione non puo' essere inferiore alla media aritmetica degli importi mensili dell'imposta dovuta sulle immissioni in consumo avvenute nei dodici mesi solari precedenti; il depositario autorizzato adegua la cauzione entro trenta giorni dal termine previsto per il pagamento dell'imposta dovuta sulle immissioni in consumo che hanno determinato la variazione dell'importo da prestare, dandone comunicazione all'Agenzia delle dogane e dei monopoli entro dieci giorni dalla data dell'adeguamento. Si applicano le disposizioni dell'articolo 64. In presenza di cauzione prestata da altri soggetti, la cauzione dovuta dal depositario si riduce di pari ammontare, fermo restando quanto previsto dall'articolo 2, comma 4, lettera a). ((Sono esonerate dall'obbligo di prestazione della cauzione le amministrazioni dello Stato e degli enti pubblici nonche' l'organismo centrale di stoccaggio istituito dallo Stato ai sensi della direttiva (UE) 2009/119/CE del Consiglio, del 14 settembre 2009, per garantire il mantenimento delle scorte nazionali di prodotti petroliferi)); (87)(129) 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    a conformarsi alle prescrizioni stabilite per l'esercizio della vigilanza sul deposito fiscale; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    a tenere una contabilita' dei prodotti detenuti e movimentati nel deposito fiscale; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    ad introdurre nel deposito fiscale e a iscrivere nella contabilita' di cui alla lettera c), al momento della presa in consegna di cui all'articolo 6, comma 6, tutti i prodotti ricevuti sottoposti ad accisa; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    a presentare i prodotti ad ogni richiesta ed a sottoporsi a controlli o accertamenti.
+
 I depositi fiscali sono assoggettati a vigilanza finanziaria e, salvo quelli che movimentano tabacchi lavorati, si intendono compresi nel circuito doganale; la vigilanza finanziaria deve assicurare, tenendo conto dell'operativita' dell'impianto, la tutela fiscale anche attraverso controlli successivi. Il depositario autorizzato deve fornire i locali occorrenti con l'arredamento e le attrezzature necessarie e sostenere le relative spese per il funzionamento; sono a carico del depositario i corrispettivi per l'attivita' di vigilanza e di controllo svolta, su sua richiesta, fuori dell'orario ordinario d'ufficio.
 
 Fatte salve le disposizioni stabilite per i depositi fiscali dei singoli prodotti, l'inosservanza degli obblighi stabiliti dal presente articolo nonche' del divieto di estrazione di cui all'articolo 3, comma 4, indipendentemente dall'esercizio dell'azione penale per le violazioni che costituiscono reato, comporta la revoca della licenza fiscale di esercizio.
@@ -194,6 +439,29 @@ Le disposizioni del presente articolo non si applicano ai prodotti non unionali 
 ## Art. 6. — Circolazione in regime sospensivo di prodotti sottoposti ad accisa
 
 
+
+1.
+                        
+                            
+                                La circolazione di prodotti sottoposti ad accisa, in regime sospensivo, nello Stato e nel territorio dell'Unione europea, compreso il caso in cui tali prodotti transitino per un paese o un territorio terzo, puo' avvenire: 
+ 
+                            
+                            
+                                a)
+                                
+                                    per i prodotti provenienti da un deposito fiscale verso: 
+ 1) un altro deposito fiscale; 
+ 2) un destinatario registrato; 
+ 3) un luogo dal quale i prodotti lasciano il territorio dell'Unione europea; 
+ 4) i soggetti di cui all'articolo 17, comma 1; 
+ 5) l'ufficio doganale presso il quale i prodotti, dopo essere stati svincolati per l'esportazione, sono vincolati ad un regime di transito esterno; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    per i prodotti spediti da uno speditore registrato, dal luogo di importazione verso qualsiasi destinazione di cui alla lettera a). (87)
 
 Ai fini del presente articolo, per luogo di importazione si intende il luogo in cui si trovano i prodotti quando sono immessi in libera pratica conformemente all'articolo 201 del CDU. (87)
 
@@ -250,6 +518,45 @@ Le autobotti e le bettoline utilizzate per il trasporto di prodotti sottoposti a
 
  ((
 
+1.
+                        
+                            
+                                In caso di irregolarita' o di infrazione, per la quale non sia previsto un abbuono d'imposta ai sensi dell'articolo 4, verificatasi nel corso della circolazione di prodotti in regime sospensivo, si applicano, salvo quanto previsto per l'esercizio dell'azione penale se i fatti addebitati costituiscono reato, le seguenti disposizioni:
+ 
+                            
+                            
+                                a)
+                                
+                                    l'accisa e' corrisposta dalla persona fisica o giuridica che ne ha garantito il pagamento conformemente all'articolo 6, comma 4, e, in solido, da qualsiasi altra persona che abbia partecipato allo svincolo irregolare e che era a conoscenza, o avrebbe dovuto ragionevolmente essere a conoscenza, della natura irregolare dello svincolo;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'accisa e' riscossa in Italia se l'irregolarita' o l'infrazione si e' verificata nel territorio dello Stato;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    se l'irregolarita' o l'infrazione e' accertata nel territorio dello Stato e non e' possibile determinare il luogo in cui si e' effettivamente verificata, si presume che l'irregolarita' o l'infrazione si sia verificata nel territorio dello Stato e nel momento in cui e' stata accertata;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    se i prodotti spediti dal territorio dello Stato non giungono a destinazione in un altro Stato membro e non e' possibile stabilire il luogo in cui sono stati immessi in consumo, si presume che l'irregolarita' o l'infrazione si sia verificata nel territorio dello Stato e si procede alla riscossione dei diritti di accisa con l'aliquota in vigore alla data di spedizione dei prodotti, salvo che, entro quattro mesi dalla data in cui ha avuto inizio la circolazione conformemente all'articolo 6, comma 3, venga fornita la prova, ritenuta soddisfacente dall'Amministrazione finanziaria, della regolarita' dell'operazione ovvero che l'irregolarita' o l'infrazione si siano effettivamente verificate fuori dal territorio dello Stato;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    se entro tre anni dalla data in cui ha avuto inizio la circolazione conformemente all'articolo 6, comma 3, viene individuato il luogo in cui l'irregolarita' o l'infrazione si e' effettivamente verificata, e la riscossione compete ad un altro Stato membro, l'accisa eventualmente riscossa nel territorio dello Stato viene rimborsata con gli interessi calcolati, nella misura prevista dall'articolo 3, comma 4, dal giorno della riscossione fino a quello dell'effettivo rimborso. A tale fine, il soggetto che ha pagato l'accisa fornisce all'Amministrazione finanziaria, entro il termine di decadenza di due anni dalla data in cui e' comunicato al medesimo l'avvenuto accertamento del luogo in cui l'irregolarita' o l'infrazione si e' effettivamente verificata, la prova che l'accisa e' stata pagata nell'altro Stato membro.
+
 Nei casi di cui al comma 1, lettera d), prima di procedere alla riscossione dei diritti di accisa, l'Amministrazione finanziaria comunica il mancato arrivo a destinazione dei prodotti soggetti ad accisa ai soggetti che si sono resi garanti per il trasporto e che potrebbero non esserne a conoscenza. Ai medesimi soggetti e' concesso un termine di un mese a decorrere dalla predetta comunicazione per fornire la prova di cui al medesimo comma 1, lettera d).
 
 Nei casi di riscossione di accisa, conseguente ad irregolarita' o infrazione relativa a prodotti provenienti da un altro Stato membro, l'Amministrazione finanziaria informa le competenti autorita' del Paese di provenienza.
@@ -259,6 +566,24 @@ Lo scambio e l'utilizzazione di informazioni necessarie per l'attuazione della c
 ## Art. 7-bis. — Disposizioni particolari per la circolazione degli oli lubrificanti e di altri specifici prodotti).
 
 Fatto salvo quanto previsto, in materia di circolazione, dalle disposizioni doganali e dall'articolo 6, comma 5, gli oli lubrificanti di cui ai codici NC da 2710 19 81 a 2710 19 99 circolano nel territorio nazionale, nella fase antecedente all'immissione in consumo, con la scorta di un Codice amministrativo di riscontro, relativo a ciascun trasferimento dei suddetti prodotti, emesso dal sistema informatizzato dell'Agenzia delle dogane e dei monopoli e annotato sulla prescritta documentazione di trasporto.
+
+2.
+                        
+                            
+                                Il codice di cui al comma 1 e' richiesto telematicamente all'Agenzia delle dogane e dei monopoli non prima delle 48 ore precedenti all'introduzione dei prodotti nel territorio nazionale e comunque almeno 12 ore prima dell'introduzione stessa: 
+ 
+                            
+                            
+                                a)
+                                
+                                    per i prodotti di cui al presente articolo, provenienti da un altro Stato membro dell'Unione europea e destinati ad essere immessi in consumo nel territorio nazionale, dal soggetto che ne effettua la prima immissione in consumo; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    per i prodotti di cui al presente articolo, provenienti da un altro Stato membro dell'Unione europea e che non siano destinati ad essere immessi in consumo nel territorio nazionale, dal mittente dei prodotti stessi.
 
 Nella richiesta di cui al comma 2 sono riportati, in particolare, i dati identificativi del mittente e del destinatario dei prodotti, i quantitativi e i codici di nomenclatura combinata dei medesimi, il luogo in cui i prodotti saranno introdotti nel territorio nazionale, la targa del veicolo e degli eventuali rimorchi utilizzati per il loro trasferimento, l'itinerario che il veicolo seguira' nel territorio nazionale, nonche', per la fattispecie di cui al comma 2, lettera b), il luogo in cui i prodotti lasceranno il medesimo territorio e l'Ufficio delle dogane di uscita.
 
@@ -291,6 +616,31 @@ Fatto salvo quanto previsto dai commi 5 e 7 in materia di tabacchi lavorati, l'a
 
 Per il destinatario registrato che intende ricevere soltanto occasionalmente prodotti soggetti ad accisa, l'autorizzazione di cui al medesimo comma 1 e' valida per un unico movimento e per una quantita' prestabilita di prodotti, provenienti da un unico soggetto speditore. In tale ipotesi copia della predetta autorizzazione, riportante gli estremi della garanzia prestata, deve scortare i prodotti unitamente alla copia stampata del documento di accompagnamento elettronico o di qualsiasi altro documento commerciale che indichi il codice unico di riferimento amministrativo di cui all'articolo 6, comma 5.
 
+3.
+                        
+                            
+                                Il destinatario registrato non puo' ((fabbricare, trasformare,)) detenere ne' spedire prodotti soggetti ad accisa. Egli ha l'obbligo di: ((87))
+                                
+                            
+                            
+                                a)
+                                
+                                    fornire, prima della spedizione dei prodotti sottoposti ad accisa in regime sospensivo da parte del mittente, garanzia per il pagamento dell'imposta gravante sui medesimi; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    provvedere, fatta eccezione per il destinatario registrato di cui al comma 2 e fatto salvo quanto previsto dall'articolo 6, comma 6-bis, ad iscrivere nella propria contabilita' i prodotti di cui alla lettera a) non appena ricevuti; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    sottoporsi a qualsiasi controllo o accertamento anche intesi a verificare l'effettivo ricevimento dei prodotti di cui alla lettera a) che, qualora allo stato sfuso, sono travasati nei serbatoi, riservati ai prodotti ricevuti in regime sospensivo, del deposito di cui al comma 1 nonche' a riscontrare l'avvenuto pagamento dell'accisa.
+
 Nelle ipotesi previste dal presente articolo l'accisa e' esigibile all'atto del ricevimento dei prodotti e deve essere pagata, secondo le modalita' vigenti, entro il primo giorno lavorativo successivo a quello di arrivo.
 
 I tabacchi lavorati acquistati dal soggetto di cui al comma 1 rispettano le disposizioni nazionali in materia di condizionamento ed etichettatura dei prodotti del tabacco stabilite dal decreto legislativo 24 giugno 2003, n. 184, nonche' le disposizioni di cui all'articolo 39-duodecies in materia di apposizione del contrassegno di legittimazione; l'autorizzazione di cui al comma 1 per i tabacchi lavorati e' subordinata al possesso dei requisiti di cui all'articolo 3, comma 1, del decreto del Ministro delle finanze 22 febbraio 1999, n. 67.
@@ -321,6 +671,38 @@ Il soggetto che intende operare come destinatario certificato e' autorizzato pre
 
 Il destinatario certificato individua nell'ambito del proprio deposito l'area separata e distinta o, nel caso di cui al comma 6, il locale in cui intende ricevere e detenere ad accisa assolta i prodotti di cui al comma 1.
 
+3.
+                        
+                            
+                                Il destinatario certificato ha l'obbligo di: 
+ 
+                            
+                            
+                                a)
+                                
+                                    prestare, prima della spedizione dei prodotti da parte dello speditore certificato, una garanzia per il pagamento dell'imposta gravante sui medesimi; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    introdurre nel deposito e iscrivere nella contabilita' di cui al comma 1 i prodotti di cui alla lettera a) al momento della loro presa in consegna, con l'indicazione degli estremi del relativo e-DAS; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    pagare l'accisa entro il giorno successivo a quello di arrivo dei prodotti di cui alla lettera a); 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    sottoporsi a qualsiasi controllo o accertamento anche intesi a verificare l'effettivo ricevimento dei prodotti di cui alla lettera a) e il pagamento dell'accisa.
+
 La garanzia di cui al comma 3, lettera a) e' prestata con le modalita' ritenute idonee dall'Amministrazione finanziaria, e' valida in tutti i Paesi dell'Unione europea ed e' determinata nella misura pari al 100 per cento dell'accisa gravante sui prodotti.
 
 L'accisa e' esigibile nel momento in cui i prodotti sono presi in consegna dal destinatario certificato.
@@ -344,6 +726,24 @@ I tabacchi lavorati acquistati ai sensi del presente articolo sono commercializz
 
 Il soggetto che intende operare come speditore registrato e' preventivamente autorizzato, per ogni tipologia di prodotti sottoposti ad accisa oggetto della propria attivita', dal competente Ufficio dell'Amministrazione finanziaria, individuato in relazione alla sede legale del medesimo soggetto. Si prescinde da tale autorizzazione per gli spedizionieri abilitati a svolgere i compiti previsti dall'articolo 7, comma 1-sexies, del decreto-legge 30 dicembre 1991, n. 417, convertito, con modificazioni, dalla legge 6 febbraio 1992, n. 66. Allo speditore registrato e' attribuito, prima dell'inizio della sua attivita', un codice di accisa.
 
+2.
+                        
+                            
+                                Lo speditore registrato non puo' detenere prodotti in regime sospensivo. Fermo restando quanto previsto dall'articolo 6, comma 4, in materia di garanzia, il medesimo speditore ha l'obbligo di: 
+ 
+                            
+                            
+                                a)
+                                
+                                    iscrivere nella propria contabilita' i prodotti sottoposti ad accisa in regime sospensivo al momento della spedizione, con l'indicazione degli estremi del documento di accompagnamento e del luogo in cui i medesimi prodotti sono consegnati; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    sottoporsi a qualsiasi controllo o accertamento anche intesi a verificare la regolarita' delle spedizioni effettuate.
+
 --------------
                             AGGIORNAMENTO (87)
                             
@@ -354,6 +754,31 @@ Il soggetto che intende operare come speditore registrato e' preventivamente aut
 ((
 
 Il soggetto che intende operare come speditore certificato e' preventivamente autorizzato dall'Amministrazione finanziaria; l'autorizzazione, valida fino a revoca, e' rilasciata in considerazione dell'attivita' economica svolta dal soggetto. I prodotti sottoposti ad accisa, gia' immessi in consumo nel territorio dello Stato e trasportati nel territorio di un altro Stato membro per la consegna ad un soggetto avente la qualifica di destinatario certificato, sono contabilizzati in appositi registri approvati dall'Amministrazione finanziaria. Allo speditore certificato e' attribuito un codice identificativo. Restano ferme le disposizioni specifiche previste dal comma 4 in materia di tabacchi lavorati.
+
+2.
+                        
+                            
+                                Lo speditore certificato ha l'obbligo di: 
+ 
+                            
+                            
+                                a)
+                                
+                                    iscrivere nella contabilita' di cui al comma 1 i prodotti trasferiti in un altro Stato membro al momento della loro spedizione, con l'indicazione degli estremi del relativo e-DAS e del luogo in cui i medesimi prodotti sono consegnati; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    fornire al trasportatore il codice unico di riferimento amministrativo semplificato di cui all'articolo 10, comma 3; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    sottoporsi a qualsiasi controllo o accertamento anche intesi a verificare la regolarita' delle spedizioni dei prodotti di cui al comma 1 effettuate.
 
 Fatta eccezione per i tabacchi lavorati, l'Amministrazione finanziaria puo' autorizzare il soggetto che intende, nell'ambito della sua attivita' economica, solo occasionalmente trasportare in un altro Stato membro prodotti sottoposti ad accisa e gia' immessi in consumo nel territorio nazionale, ad operare come speditore certificato occasionale in relazione ad un unico movimento e per una quantita' prestabilita di prodotti.
 
@@ -373,6 +798,28 @@ Per i prodotti gia' assoggettati ad accisa nel territorio dello Stato, trasferit
 ## Art. 9-ter. — (( (Soggetto obbligato accreditato). ))
 
 
+
+2.
+                        
+                            
+                                
+                                    ((Il SOAC puo' avvalersi:))
+                                
+                            
+                            
+                                a)
+                                
+                                    
+                                        ((dell'esonero dagli obblighi di prestare cauzione previsti dall'articolo 5, comma 3, lettera a) per l'esercizio dei depositi fiscali e dagli articoli 13, comma 5, 21, comma 7, 26-bis, comma 1, e 53-bis, comma 1;))
+                                    
+                                
+                            
+                            
+                                b)
+                                
+                                    
+                                        ((delle semplificazioni e facilitazioni degli adempimenti contabili e amministrativi individuate con il decreto di cui all'articolo 9-octies, comma 2.))
+                                        ((129))
 
 ---------------
                             AGGIORNAMENTO (129)
@@ -461,6 +908,76 @@ c) 100 per cento, per il SOAC di livello avanzato.))
 ## Art. 9-octies. — (( (Disposizioni attuative per la qualifica di soggetto obbligato accreditato). ))
 
 
+
+2.
+                        
+                            
+                                
+                                    ((Con decreto del Ministro dell'economia e delle finanze sono individuate, in relazione ai SOAC e tenuto conto delle specificita' dei settori di attivita' di cui all'articolo 1, comma 2, lettera f.1), in cui i medesimi operano nonche' del livello di affidabilita' loro attribuito, le semplificazioni e le facilitazioni con riguardo alla tenuta dei registri, anche in modalita' esclusivamente informatica. Con il medesimo decreto possono essere altresi' individuate semplificazioni e facilitazioni con riguardo:))
+                                
+                            
+                            
+                                a)
+                                
+                                    
+                                        ((alla contabilizzazione dei contrassegni fiscali per le bevande alcoliche che risultano danneggiati o inutilizzabili;))
+                                    
+                                
+                            
+                            
+                                b)
+                                
+                                    
+                                        ((alla periodicita' di effettuazione degli inventari, nei limiti temporali di prescrizione dell'imposta;))
+                                    
+                                
+                            
+                            
+                                c)
+                                
+                                    
+                                        ((all'esecuzione delle operazioni di denaturazione senza la vigilanza continuativa dell'Agenzia delle dogane e dei monopoli;))
+                                    
+                                
+                            
+                            
+                                d)
+                                
+                                    
+                                        ((alla dilazione, fino a un massimo di ventiquattro mesi, del termine di cui all'articolo 13, comma 5, per l'applicazione dei contrassegni fiscali per le bevande alcoliche;))
+                                    
+                                
+                            
+                            
+                                e)
+                                
+                                    
+                                        ((al differimento dei termini previsti per la presentazione di comunicazioni periodiche;))
+                                    
+                                
+                            
+                            
+                                f)
+                                
+                                    
+                                        ((alla documentazione da allegare in relazione alla presentazione di istanze nei confronti della medesima Agenzia;))
+                                    
+                                
+                            
+                            
+                                g)
+                                
+                                    
+                                        ((alle modalita' di presentazione della dichiarazione di consumo dell'energia elettrica e del gas naturale;))
+                                    
+                                
+                            
+                            
+                                h)
+                                
+                                    
+                                        ((all'esecuzione delle operazioni di miscelazione tra prodotti energetici aventi codici di nomenclatura differenti.))
+                                        ((129))
 
 ---------------
                             AGGIORNAMENTO (129)
@@ -569,6 +1086,65 @@ Nei casi in cui l'accisa sia stata riscossa in Italia ai sensi del comma 1, lett
 
 
 Per i prodotti assoggettati ad accisa ed immessi in consumo in altro Stato membro, acquistati da privati per proprio uso e da loro trasportati, l'accisa e' dovuta nello Stato membro in cui i prodotti vengono acquistati.
+
+2.
+                        
+                            
+                                Possono considerarsi acquistati per uso proprio i prodotti acquistati e trasportati da privati entro i seguenti quantitativi: 
+ 
+                            
+                            
+                                a)
+                                
+                                    bevande spiritose, 10 litri; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    prodotti alcolici intermedi, 20 litri; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    vino, 90 litri, di cui 60 litri, al massimo, di vino spumante;
+                                
+                            
+                            
+                                d)
+                                
+                                    birra, 110 litri; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    sigarette, 800 pezzi; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    sigaretti, 400 pezzi; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    sigari, 200 pezzi; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    tabacco da fumo, 1 chilogrammo.
 
 A decorrere dal 1° gennaio 2014 per le sigarette acquistate, ai sensi del comma 1, nel territorio di uno degli Stati membri menzionati all'articolo 2, paragrafo 2, terzo comma, della direttiva 92/79/CEE e che applicano, alle medesime sigarette, un'accisa inferiore a quanto indicato dall'articolo 2, paragrafo 2, primo comma, della medesima direttiva 92/79/CEE, il quantitativo di cui al comma 2, lettera e), del presente articolo e' ridotto a 300 pezzi.
 Con provvedimento del Direttore dell'((Agenzia delle dogane e dei monopoli)), da pubblicare nella Gazzetta Ufficiale della Repubblica italiana, sono individuati, con cadenza annuale, gli Stati membri per i quali vige la riduzione indicata nel primo periodo del presente comma. ((87))
@@ -684,6 +1260,38 @@ I crediti vantati dai soggetti passivi dell'accisa ((e dai titolari di licenza p
 ## Art. 17. — (Artt. 15 e 20, comma 2, D.L. n. 331/1993) 
  Esenzioni
 
+1.
+                        
+                            
+                                I prodotti soggetti ad accisa sono esenti dal pagamento della stessa quando sono destinati: 
+ 
+                            
+                            
+                                a)
+                                
+                                    ad essere forniti nel quadro di relazioni diplomatiche o consolari; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    ad organizzazioni internazionali riconosciute ed ai membri di dette organizzazioni, nei limiti ed alle condizioni fissate dalle relative convenzioni o accordi; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    alle Forze armate di qualsiasi Stato che sia parte contraente del Trattato del Nord Atlantico, per gli usi consentiti, con esclusione delle Forze armate nazionali; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    ad essere consumati nel quadro di un accordo stipulato con Paesi terzi o con organizzazioni internazionali che consenta per i medesimi prodotti anche l'esenzione dall'imposta sul valore aggiunto.
+
 Le esenzioni di cui al comma 1 si applicano alle condizioni e con le modalita' stabilite dalla normativa nazionale. La stipula di accordi che prevedano esenzioni dai diritti di accisa deve essere preventivamente autorizzata dal Consiglio della Unione europea, con l'osservanza della procedura all'uopo prevista.
 
 Le forze armate e le organizzazioni di cui al comma 1 sono abilitate a ricevere da altri Stati membri prodotti in regime sospensivo con il documento amministrativo elettronico di cui all'articolo 6, comma 5, e con un certificato di esenzione conforme al formulario adottato dalla Commissione con atti di esecuzione ai sensi dell'articolo 12, paragrafo 3, della direttiva (UE) 2020/262. (87)
@@ -691,6 +1299,38 @@ Le forze armate e le organizzazioni di cui al comma 1 sono abilitate a ricevere 
 Le disposizioni relative all'articolo 6, commi 5 e 6, non si applicano alla circolazione di prodotti sottoposti ad accisa in regime sospensivo destinati alle forze armate di cui al comma 1, lettera c), nell'ambito di una procedura che si fonda direttamente sul trattato Nord Atlantico, salvo quanto diversamente disposto da eventuali accordi stipulati ai sensi dell'articolo 12, paragrafo 4, della direttiva (UE) 2020/262. (87)
 
 La colorazione o marcatura dei prodotti destinati ad usi per i quali sono previsti regimi agevolati o l'applicazione di una aliquota ridotta sono stabilite in conformita' alle norme comunitarie adottate in materia e sono eseguite, di norma, negli impianti gestiti in regime di deposito fiscale. In luogo della marcatura, puo' essere previsto il condizionamento in recipienti di determinata capacita'.
+
+4-bis.
+                        
+                            
+                                I tabacchi lavorati sono esenti dal pagamento dell'accisa quando sono: 
+ 
+                            
+                            
+                                a)
+                                
+                                    denaturati e usati a fini industriali od orticoli; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    distrutti sotto sorveglianza amministrativa; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    destinati esclusivamente a prove scientifiche ed a prove relative alla qualita' dei prodotti; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    riutilizzati dal produttore.
 
 ---------------
                             AGGIORNAMENTO (87)
@@ -710,6 +1350,38 @@ L'amministrazione finanziaria esplica le incombenze necessarie per assicurare la
 Per i depositi fiscali abilitati all'attivita' di fabbricazione dei tabacchi lavorati la vigilanza fiscale di cui al comma 1 e' effettuata permanentemente da parte del personale dell'Amministrazione finanziaria che si avvale della collaborazione dei militari della Guardia di finanza.
 
 I funzionari dell'amministrazione finanziaria, muniti della speciale tessera di riconoscimento di cui all'art. 31 della legge 7 gennaio 1929, n. 4, e gli appartenenti alla Guardia di finanza hanno facolta' di eseguire le indagini e i controlli necessari ai fini dell'accertamento delle violazioni alla disciplina dei tributi di cui al presente testo unico; possono, altresi', accedere liberamente, in qualsiasi momento, nei depositi, negli impianti e nei luoghi nei quali sono fabbricati, trasformati, detenuti od utilizzati prodotti sottoposti ad accisa o dove e' custodita documentazione contabile attinente ai suddetti prodotti per eseguirvi verificazioni, riscontri, inventari, ispezioni e ricerche e per esaminare registri e documenti. Essi hanno pure facolta' di prelevare, gratuitamente, campioni di prodotti esistenti negli impianti, redigendo apposito verbale e, per esigenze di tutela fiscale, di applicare suggelli alle apparecchiature e ai meccanismi.
+
+3.
+                        
+                            
+                                Gli ufficiali, gli ispettori ed i sovrintendenti della Guardia di finanza, oltre a quanto previsto dal comma 2, procedono, di iniziativa o su richiesta degli uffici finanziari, al reperimento ed all'acquisizione degli elementi utili ad accertare la corretta applicazione delle disposizioni in materia di imposizione indiretta sulla produzione e sui consumi e delle relative violazioni. A tal fine essi possono: 
+ 
+                            
+                            
+                                a)
+                                
+                                    invitare il responsabile d'imposta o chiunque partecipi, anche come utilizzatore, all'attivita' industriale o commerciale attinente ai prodotti sottoposti ad accisa, indicandone il motivo, a comparire di persona o per mezzo di rappresentanti per fornire dati, notizie e chiarimenti o per esibire documenti relativi a lavorazione, trasporto, deposito, acquisto o utilizzazione di prodotti soggetti alla predetta imposizione; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    richiedere, previa autorizzazione del comandante regionale, ad aziende ed istituti di credito o all'amministrazione postale di trasmettere copia di tutta la documentazione relativa ai rapporti intrattenuti con il cliente, secondo le modalita' e i termini previsti dall'art. 18 della legge 30 dicembre 1991, n. 413. Gli elementi acquisiti potranno essere utilizzati anche ai fini dell'accertamento in altri settori impositivi; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    richiedere copie o estratti degli atti e documenti, ritenuti utili per le indagini o per i controlli, depositati presso qualsiasi ufficio della pubblica amministrazione o presso pubblici ufficiali; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    procedere a perquisizioni domiciliari, in qualsiasi ora, in caso di notizia o di fondato sospetto di violazioni costituenti reato, previste dal presente testo unico.
 
 Il coordinamento tra la Guardia di finanza e l'amministrazione finanziaria relativamente agli interventi negli impianti presso i quali sono costituiti gli uffici finanziari di fabbrica di cui al comma 1 od uffici doganali, e' disciplinato, anche riguardo alle competenze in materia di verbalizzazione, con direttiva del Ministro dell'economia e delle finanze.
 
@@ -752,6 +1424,133 @@ L'invio di tutti gli atti e le comunicazioni previsti dalle disposizioni che dis
 
 
 
+1.
+                        
+                            
+                                Si intendono per prodotti energetici: 
+ 
+                            
+                            
+                                a)
+                                
+                                    i prodotti di cui ai codici NC da 1507 a 1518, se destinati ad 
+essere utilizzati come combustibile per riscaldamento o come 
+carburante per motori; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    i prodotti di cui ai codici NC 2701, 2702 e da 2704 a 2715; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    i prodotti di cui ai codici NC 2901 e 2902; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    i prodotti di cui al codice NC 2905 11 00, non di origine 
+sintetica, se destinati ad essere utilizzati come combustibile per 
+riscaldamento o come carburante per motori; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    i prodotti di cui al codice NC 3403; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    i prodotti di cui al codice NC 38 11;, 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    i prodotti di cui al codice NC 38 17; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    i prodotti di cui al codice NC 3824 90 99, se destinati ad 
+essere utilizzati come combustibile per riscaldamento o come 
+carburante per motori.
+
+2.
+                        
+                            
+                                I seguenti prodotti energetici sono assoggettati ad imposizione secondo le aliquote di accisa stabilite nell'allegato I: 
+ 
+                            
+                            
+                                a)
+                                
+                                    benzina con piombo (codici NC 2710 11 31, 2710 11 51 e 2710 11 
+59); 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    benzina (codici NC 2710 11 31, 2710 11 41, 2710 11 45 e 2710 11 49); 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    petrolio lampante o cherosene (codici NC 2710 19 21 e 2710 19 25); 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    oli da gas o gasolio (codici NC da 2710 19 41 a 2710 19 49); 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    oli combustibili (codici NC da 2710 19 61 a 2710 19 69); 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    gas di petrolio liquefatti (codici NC da 2711 12 11 a 2711 19 00); 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    gas naturale (codici NC 2711 11 00 e 2711 21 00); 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    carbone, lignite e coke (codici NC 2701, 2702 e 2704).
+
 I prodotti di cui al comma 1, diversi da quelli indicati al comma 2, sono soggetti a vigilanza fiscale. Qualora siano utilizzati, o destinati ad essere utilizzati, come carburanti per motori o combustibili per riscaldamento ovvero siano messi in vendita per i medesimi utilizzi, i medesimi prodotti sono sottoposti ad accisa, in relazione al loro uso, secondo l'aliquota prevista per il carburante per motori o il combustibile per riscaldamento, equivalente.
 
 E' sottoposto ad accisa, con l'aliquota prevista per il carburante equivalente, ogni prodotto, diverso da quelli indicati al comma 1, utilizzato, destinato ad essere utilizzato ovvero messo in vendita, come carburante per motori o come additivo ovvero per accrescere il volume finale dei carburanti. I prodotti di cui al 
@@ -768,11 +1567,220 @@ Le societa' di cui al comma 6, ovvero i soggetti autorizzati a sostituirle ai se
 L'imposta di cui al comma 6 e' versata, a titolo di acconto, in rate trimestrali calcolate sulla base dei quantitativi dei prodotti di cui al comma 2, lettera h), forniti nell'anno precedente. Il versamento a saldo e' effettuato entro la fine del primo trimestre dell'anno successivo a quello cui si riferisce, unitamente alla presentazione di apposita dichiarazione annuale contenente i dati dei quantitativi forniti nell'anno immediatamente precedente e al versamento della prima rata di acconto. Le somme eventualmente versate in eccedenza sono detratte dal versamento della prima rata di acconto e, ove necessario, delle rate, successive. In caso di cessazione dell'attivita' del soggetto nel corso dell'anno, la dichiarazione annuale e il versamento a saldo sono effettuati entro i 
 due mesi successivi alla cessazione.
 
+9.
+                        
+                            
+                                I prodotti energetici di cui al comma 1, qualora utilizzati per la produzione, diretta o indiretta, di energia elettrica con impianti obbligati alla denuncia prevista dalle disposizioni che disciplinano l'accisa sull'energia elettrica, sono sottoposti ad accisa per motivi di politica ambientale, con l'applicazione delle aliquote stabilite per tale impiego nell'allegato I; le stesse 
+aliquote sono applicate: 
+ 
+                            
+                            
+                                a)
+                                
+                                    ai prodotti energetici limitatamente ai quantitativi impiegati 
+nella produzione di energia elettrica; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    ai prodotti energetici impiegati nella stessa area di estrazione per la produzione e per l'autoproduzione di energia 
+elettrica e vapore; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    ai prodotti energetici impiegati in impianti petrolchimici per l'alimentazione di centrali combinate termoelettriche per l'autoproduzione di energia elettrica e vapore tecnologico per usi 
+interni.
+
+9-bis.
+                        
+                            
+                                In caso di autoproduzione di energia elettrica, le aliquote di cui al comma 9 sono applicate, in relazione al combustibile 
+impiegato, nella misura del 30 per cento. 
+ 9-bis.1. ((Ai fini dell'applicazione delle aliquote di cui all'allegato I, i quantitativi di prodotti energetici impiegati nella produzione di energia elettrica sono determinati utilizzando i seguenti consumi specifici convenzionali:))
+                                
+                            
+                            
+                                a)
+                                
+                                    
+                                        ((oli vegetali non modificati chimicamente: 0,240 kg/kWh;))
+                                    
+                                
+                            
+                            
+                                b)
+                                
+                                    
+                                        ((gas naturale: 0,250 mc/kWh;))
+                                    
+                                
+                            
+                            
+                                c)
+                                
+                                    
+                                        ((gas di petrolio liquefatti: 0,197 kg/kWh;))
+                                    
+                                
+                            
+                            
+                                d)
+                                
+                                    
+                                        ((gasolio: 0,212 kg/kWh;))
+                                    
+                                
+                            
+                            
+                                e)
+                                
+                                    
+                                        ((olio combustibile e oli minerali greggi, naturali: 0,221 kg/kWh;))
+                                    
+                                
+                            
+                            
+                                f)
+                                
+                                    
+                                        ((carbone, lignite e coke: 0,355 kg/kWh.))
+                                        ((129))
+
+9-ter.
+                        
+                            
+                                In caso di generazione combinata di energia elettrica e calore utile, i quantitativi di combustibili impiegati nella produzione di energia elettrica sono determinati utilizzando i 
+seguenti consumi specifici convenzionali: 
+ 
+                            
+                            
+                                a)
+                                
+                                    oli vegetali non modificati chimicamente ((0,211 kg per kWh)); ((129))
+                                    
+                                
+                            
+                            
+                                b)
+                                
+                                    gas naturale 0,220 mc per kWh; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    gas di petrolio liquefatti 0,173 kg per kWh; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    gasolio 0,186 kg per kWh; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    olio combustibile e oli minerali greggi, naturali 0,194 kg per 
+kWh; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    carbone, lignite e coke 0,312 kg per kWh.
+
 ((Ai prodotti energetici, diversi da quelli per i quali sono stabilite, nell'allegato I, specifiche aliquote per la produzione, diretta o indiretta, di energia elettrica, sono applicate le medesime aliquote in base al criterio di equivalenza in tale particolare impiego; a tal fine sono utilizzati i consumi specifici convenzionali previsti, per il prodotto equivalente, dal comma 9-bis.1, in caso di produzione di sola energia elettrica, e dal comma 9-ter, in caso di generazione combinata di energia elettrica e calore utile. Ai bitumi di petrolio impiegati nella produzione o autoproduzione di energia elettrica si applicano le medesime corrispondenti aliquote stabilite nell'allegato I per l'olio combustibile destinato a tali impieghi.))
                                 ((129))
 
 ((Nel caso di produzione di sola energia elettrica, in alternativa ai consumi specifici convenzionali di cui al comma 9-bis.1 possono essere utilizzati, su richiesta dell'esercente l'impianto di produzione, consumi specifici medi determinati dall'Agenzia delle dogane e dei monopoli a seguito di apposita sperimentazione in sito, per mezzo di marce controllate svolte in contradditorio con il medesimo esercente.))
                                 ((129))
+
+10.
+                        
+                            
+                                Nella movimentazione con gli Stati membri della Comunita' europea, le disposizioni relative ai controlli e alla circolazione intracomunitaria previste dal presente titolo si applicano soltanto ai seguenti prodotti energetici, anche quando destinati per gli 
+impieghi di cui al comma 13: 
+ 
+                            
+                            
+                                a)
+                                
+                                    i prodotti di cui ai codici NC da 1507 a 1518 se destinati ad essere utilizzati come combustibile per riscaldamento o come 
+carburante per motori; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    i prodotti di cui ai codici NC 2707 10, 2707 20, 2707 30 e 
+2707 50; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    i prodotti di cui ai codici NC da 2710 11 a 2710 19 69; per i prodotti di cui ai codici NC 2710 11 21, 2710 11 25 e 2710 19 29, 
+limitatamente ai movimenti commerciali dei prodotti sfusi; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    i prodotti di cui ai codici NC 27 11, ad eccezione dei 
+prodotti di cui ai codici NC 2711 11, 2711 21 e 2711 29; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    i prodotti di cui ai codici NC 2901 10; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    i prodotti di cui ai codici NC 2902 20, 2902 30, 2902 41, 2902 
+42, 2902 43 e 2902 44; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    i prodotti di cui al codice NC 2905 11 00, non di origine 
+sintetica, se destinati ad essere utilizzati come combustibile per 
+riscaldamento o come carburante per motori; 
+
+                                
+                            
+                            
+                                g-bis)
+                                
+                                    i prodotti di cui ai codici NC 3811 11 10,3811 11 90, 3811 19 00 e 3811 90 00; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    i prodotti di cui al codice NC 3824 90 99, se destinati ad 
+essere utilizzati come combustibile per riscaldamento o come 
+carburante per motori.
 
 I prodotti di cui al comma 10 possono essere esonerati, mediante accordi bilaterali tra gli Stati membri interessati alla loro movimentazione, in tutto o in parte, dagli obblighi relativi ai controlli e alla circolazione intracomunitaria previsti dal presente titolo, sempre che non siano tassati ai sensi del comma 2.
 
@@ -816,6 +1824,37 @@ lettera a)) che "al comma 6-bis, lettera b), le parole: "lire 560.000 per 1.000 
 
 ((
 
+1.
+                        
+                            
+                                Nell'ambito di un programma della durata di sei anni, a decorrere dal 1º gennaio 2014 e fino al 31 dicembre 2019, e' stabilita un'accisa ridotta secondo le aliquote di seguito indicate, applicabile alle emulsioni stabilizzate idonee all'impiego nella carburazione e nella combustione, anche prodotte dal medesimo soggetto che le utilizza per i medesimi impieghi limitatamente ai quantitativi necessari al suo fabbisogno: 
+ 
+                            
+                            
+                                a)
+                                
+                                    emulsione stabilizzata di gasolio con acqua contenuta in misura variabile dal 12 al 15 per cento in peso: 
+ 1) usata come carburante: euro 374,67 per mille litri; 
+ 2) usata come combustibile per riscaldamento: euro 245,16 per mille litri; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    emulsione di olio combustibile denso ATZ con acqua contenuta in misura variabile dal 12 al 15 per cento in peso: 
+ 1) usata come combustibile per riscaldamento: euro 99,32 per mille chilogrammi; 
+ 2) per uso industriale: euro 41,69 per mille chilogrammi; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    emulsione di olio combustibile denso BTZ con acqua contenuta in misura variabile dal 12 al 15 per cento in peso: 
+ 1) usata come combustibile per riscaldamento: euro 29,52 per mille chilogrammi; 
+ 2) per uso industriale: euro 20,84 per mille chilogrammi)). ((49))
+
 ((COMMA NON PIU' PREVISTO DALLA L. 27 DICEMBRE 2013, N. 147)). ((49))
 
 Con determinazione del direttore dell'Agenzia delle dogane sono stabilite le caratteristiche tecniche delle emulsioni di cui al comma 1 ai fini della verifica dell'idoneita' all'impiego nella carburazione e nella combustione.
@@ -837,6 +1876,31 @@ Piu' stabilimenti di cui al comma 1 e quelli nei quali si effettuano le operazio
 
 Non si considerano stabilimenti di produzione di prodotti energetici gli stabilimenti nei quali vengono fabbricati solo prodotti non soggetti ad accisa, ad eccezione degli stabilimenti che attuano i processi di cui all'articolo 21, comma 13.
 
+5.
+                        
+                            
+                                Non si considera produzione di prodotti energetici:
+ 
+                            
+                            
+                                a)
+                                
+                                    l'operazione nel corso della quale si ottengono in via accessoria piccole quantita' di prodotti energetici;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'operazione nel corso della quale viene reimpiegato il prodotto energetico recuperato, a condizione che l'importo dell'accisa pagata su tale prodotto non sia inferiore a quello che sarebbe dovuto sul prodotto energetico reimpiegato se fosse oggetto di nuova imposizione;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    l'operazione di miscelazione di prodotti energetici tra di loro o con altre sostanze, eseguita fuori di uno stabilimento di produzione o di un deposito fiscale, a condizione che l'accisa sia stata gia' pagata, salvo che la miscela ottenuta non benefici di una esenzione ovvero che sulla miscela non sia dovuta l'accisa di ammontare superiore a quello gia' pagato sui singoli componenti.
+
 ## Art. 22-bis.
 
 (Disposizioni particolari in materia di
@@ -855,6 +1919,28 @@ Per ogni anno del programma l'eventuale mancata realizzazione delle produzioni d
 Entro il 1° marzo di ogni anno di validita' del programma di cui al comma 1, i Ministeri dello sviluppo economico e delle politiche agricole alimentari e forestali comunicano al Ministero dell'economia e delle finanze i costi industriali medi del gasolio, del biodiesel e delle materie prime necessarie alla sua produzione, rilevati nell'anno solare precedente. Sulla base delle suddette rilevazioni, al fine di evitare la sovracompensazione dei costi addizionali legati alla produzione, con decreto del Ministro dell'economia e delle finanze, di concerto con i Ministri dello sviluppo economico, dell'ambiente e della tutela del territorio e del mare e delle politiche agricole alimentari e forestali, da emanare entro il 30 aprile di ogni anno di validita' del programma di cui al comma 1, e' rideterminata la misura dell'agevolazione di cui al medesimo comma 1.
 
 A seguito della eventuale rideterminazione della misura dell'agevolazione di cui al comma 3, il contingente di cui al comma 1 e' conseguentemente aumentato, senza costi aggiuntivi per l'erario, a partire dall'anno successivo a quello della rideterminazione. Qualora la misura dell'aumento del contingente risultante dalle disposizioni di cui al presente comma richieda la preventiva autorizzazione ai sensi dell'articolo 88, paragrafo 3, del Trattato istitutivo della Comunita' europea, l'efficacia delle disposizioni di cui al presente comma e' subordinata all'autorizzazione stessa.
+
+5.
+                        
+                            
+                                Allo scopo di incrementare l'utilizzo di fonti energetiche che determinino un ridotto impatto ambientale e' stabilita, nell'ambito di un programma triennale a decorrere dal 1° gennaio 2008, una accisa ridotta, secondo le aliquote di seguito indicate, applicabile sui seguenti prodotti impiegati come carburanti da soli o in miscela con prodotti energetici: 
+                            
+                            
+                                a)
+                                
+                                    bioetanolo derivato da prodotti di origine agricola: euro 289,22 per 1.000 litri;
+                                
+                            
+                            
+                                b)
+                                
+                                    etere etilterbutilico (ETBE), derivato da alcole di origine agricola: euro 298,92 per 1.000 litri;
+                                
+                            
+                            
+                                c)
+                                
+                                    additivi e riformulanti prodotti da biomasse: 1) per benzina senza piombo: euro 289,22 per 1.000 litri; 2) per gasolio, escluso il biodiesel: euro 245,32 per 1.000 litri. (27)
 
 Con decreto del Ministro dell'economia e delle finanze, di concerto con i Ministri dello sviluppo economico, dell'ambiente e della tutela del territorio e del mare e delle politiche agricole alimentari e forestali, sono fissati, entro il limite complessivo di spesa di 73 milioni di euro annui, comprensivo dell'imposta sul valore aggiunto, i criteri di ripartizione dell'agevolazione prevista dal comma 5, tra le varie tipologie di prodotti e tra gli operatori, le caratteristiche tecniche dei prodotti singoli e delle relative miscele ai fini dell'impiego nella carburazione, nonche' le modalita' di verifica della loro idoneita' ad abbattere i principali agenti inquinanti, valutata sull'intero ciclo di vita. Con cadenza semestrale dall'inizio del programma triennale di cui al comma 5, i Ministeri dello sviluppo economico e delle politiche agricole alimentari e forestali comunicano al Ministero dell'economia e delle finanze i costi industriali medi dei prodotti agevolati di cui al comma 5, rilevati nei sei mesi immediatamente precedenti. Sulla base delle suddette rilevazioni, al fine di evitare la sovracompensazione dei costi addizionali legati alla produzione, con decreto del Ministro dell'economia e delle finanze, di concerto con i Ministri dello sviluppo economico, dell'ambiente e della tutela del territorio e del mare e delle politiche agricole alimentari e forestali, da emanare entro sessanta giorni dalla fine del semestre, e' eventualmente rideterminata la misura dell'agevolazione di cui al medesimo comma 5. (27) ((36))
 
@@ -887,9 +1973,45 @@ E' ridotto da 250.000 tonnellate a 18.000 tonnellate il contingente annuo, per l
 
 ## Art. 23. — (Depositi fiscali di prodotti energetici).
 
+1.
+                        
+                            
+                                Il regime del deposito fiscale e' consentito: 
+ 
+                            
+                            
+                                a)
+                                
+                                    per le raffinerie e per gli altri stabilimenti di produzione dove si ottengono i prodotti energetici di cui all'articolo 21, comma 2, ovvero i prodotti energetici di cui all'articolo 21, comma 3, ove destinati a carburazione e combustione, nonche' i prodotti sottoposti ad accisa ai sensi dell'articolo 21, commi 4 e 5; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    per gli impianti petrolchimici.
+
 L'esercizio degli impianti di cui al comma 1 e' subordinato al rilascio della licenza di cui all'articolo 63.
 
 La gestione in regime di deposito fiscale puo' essere autorizzata, laddove sussistano effettive necessita' operative e di approvvigionamento dell'impianto, per i depositi commerciali di gas di petrolio liquefatti di capacita' non inferiore a 400 metri cubi e per i depositi commerciali di altri prodotti energetici di capacita' non inferiore a 10.000 metri cubi.
+
+4.
+                        
+                            
+                                La gestione in regime di deposito fiscale puo' essere, altresi', autorizzata per i depositi commerciali di gas di petrolio liquefatti di capacita' inferiore a 400 metri cubi e per i depositi commerciali di altri prodotti energetici di capacita' inferiore a 10.000 metri cubi quando, oltre ai presupposti di cui al comma 3, ricorra almeno una delle seguenti condizioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il deposito effettui forniture di prodotto in esenzione da accisa o ad accisa agevolata o trasferimenti di prodotti energetici in regime sospensivo verso Paesi dell'Unione europea ovvero esportazioni verso Paesi non appartenenti all'Unione europea, in misura complessiva pari ad almeno il 30 per cento del totale delle estrazioni di un biennio; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il deposito sia propaggine di un deposito fiscale ubicato nelle immediate vicinanze appartenente allo stesso gruppo societario o, se di diversa titolarita', sia stabilmente destinato ad operare al servizio del predetto deposito. (66)
 
 L'esercizio dei depositi fiscali autorizzati ai sensi dei commi 3 e 4 e' subordinato al rilascio della licenza di cui all'articolo 63.
 
@@ -948,6 +2070,31 @@ Fino all'emanazione delle determinazioni di cui al comma 1 restano in vigore le 
 
 Il gasolio commerciale usato come carburante e' assoggettato ad accisa con l'applicazione dell'aliquota prevista per tale impiego dal numero 4-bis della tabella A allegata al presente testo unico.
 
+2.
+                        
+                            
+                                Per gasolio commerciale usato come carburante si intende il gasolio impiegato da veicoli, ad eccezione di quelli di categoria euro 3 o inferiore e, a decorrere dal 1° gennaio 2021, ad eccezione dei veicoli di categoria euro 4 o inferiore, utilizzati dal proprietario o in virtu' di altro titolo che ne garantisca l'esclusiva disponibilita', per i seguenti scopi: (78) 
+ 
+                            
+                            
+                                a)
+                                
+                                    attivita' di trasporto di merci con veicoli di massa massima complessiva pari o superiore a 7,5 tonnellate esercitata da: 
+ 1) persone fisiche o giuridiche iscritte nell'albo nazionale degli autotrasportatori di cose per conto di terzi; 
+ 2) persone fisiche o giuridiche munite della licenza di esercizio dell'autotrasporto di cose in conto proprio e iscritte nell'elenco appositamente istituito; 
+ 3) imprese stabilite in altri Stati membri dell'Unione europea, in possesso dei requisiti previsti dalla disciplina dell'Unione europea per l'esercizio della professione di trasportatore di merci su strada; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    attivita' di trasporto di persone svolta da: 
+ 1) enti pubblici o imprese pubbliche locali esercenti l'attivita' di trasporto di cui al decreto legislativo 19 novembre 1997, n. 422, e alle relative leggi regionali di attuazione; 
+ 2) imprese esercenti autoservizi interregionali di competenza statale di cui al decreto legislativo 21 novembre 2005, n. 285; 
+ 3) imprese esercenti autoservizi di competenza regionale e locale di cui al decreto legislativo 19 novembre 1997, n. 422; 
+ 4) imprese esercenti autoservizi regolari in ambito comunitario di cui al regolamento (CE) n. 1073/2009 del Parlamento europeo e del Consiglio, del 21 ottobre 2009.
+
 E' considerato altresi' gasolio commerciale il gasolio impiegato per attivita' di trasporto di persone svolta da enti pubblici o imprese esercenti trasporti a fune in servizio pubblico.
 
 Il rimborso dell'onere conseguente alla maggiore accisa applicata al gasolio commerciale e' determinato in misura pari alla differenza tra l'aliquota di accisa sul gasolio usato come carburante, di cui all'allegato I, e quella di cui al comma 1 del presente articolo. Ai fini del predetto rimborso, i soggetti di cui ai commi 2 e 3 presentano apposita dichiarazione al competente ufficio dell'Agenzia delle dogane e dei monopoli entro il mese successivo alla scadenza di ciascun trimestre solare in cui e' avvenuto il consumo del gasolio commerciale. Per ciascuno dei predetti trimestri, il rimborso di cui al presente comma e' riconosciuto, entro il limite quantitativo di un litro di gasolio consumato, da ciascun veicolo di cui al comma 2, per ogni chilometro percorso dallo stesso veicolo. (76)
@@ -977,6 +2124,31 @@ In alternativa a quanto previsto dal comma 5, il credito spettante ai sensi del 
  Art. 1 legge 15 dicembre 1971, n. 1161)
 
 Gli esercenti depositi commerciali di prodotti energetici assoggettati ad accisa devono denunciarne l'esercizio all'Ufficio dell'Agenzia delle dogane, competente per territorio, qualunque sia la capacita' del deposito.
+
+2.
+                        
+                            
+                                Sono altresi' obbligati alla denuncia di cui al comma 1: 
+ 
+                            
+                            
+                                a)
+                                
+                                    gli esercenti depositi per uso privato, agricolo ed industriale di capacita' superiore a 10 metri cubi; (76)(83) 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    gli esercenti impianti di distribuzione stradale di carburanti; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    gli esercenti apparecchi di distribuzione automatica di carburanti per usi privati, agricoli ed industriali, collegati a serbatoi la cui capacita' globale supera i 5 metri cubi. (76) (81)(83)
 
 Sono esentate dall'obbligo di denuncia di cui al comma 1 le amministrazioni dello Stato per i depositi di loro pertinenza e gli esercenti depositi per la vendita al minuto, purche' la quantita' di prodotti energetici detenuta in deposito non superi complessivamente i 500 chilogrammi.
 
@@ -1024,9 +2196,81 @@ Ai fini della tassazione di cui al comma 1 si considerano gas naturale anche le 
 
 Non sono sottoposte ad accisa le miscele gassose di cui al comma 2, originate da biomassa, destinate agli usi propri del soggetto che le produce.
 
+4.
+                        
+                            
+                                E' considerato uso domestico ogni impiego del gas naturale destinato alla combustione in unita' immobiliari aventi una funzione abitativa e loro pertinenze. Rientra altresi' nell'uso domestico l'utilizzo del gas naturale destinato: 
+ 
+                            
+                            
+                                a)
+                                
+                                    alla combustione nei locali: 
+ 1) degli uffici pubblici; 
+ 2) degli uffici, anche di societa' e imprese, posti fuori dagli stabilimenti, dai laboratori e dalle aziende dove viene svolta l'attivita' produttiva nonche' degli studi professionali; 
+ 3) degli istituti di credito; 
+ 4) degli istituti di istruzione; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    alla combustione per la produzione di energia termica, ai fini della cessione a terzi per usi domestici; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    al riempimento dei serbatoi di autoveicoli mediante impianti derivati dalla rete di distribuzione del medesimo gas a servizio degli immobili di cui al presente comma.
+
 Sono considerati usi non domestici gli impieghi del gas naturale diversi da quelli di cui al comma 4 nonche', limitatamente ai quantitativi di gas naturale utilizzati per la produzione di energia termica, l'impiego del gas naturale destinato alla combustione in impianti cogenerativi per teleriscaldamento che abbiano le caratteristiche tecniche di cui all'articolo 11, comma 2, lettera b), della legge 9 gennaio 1991, n. 10, anche se la rete di teleriscaldamento rifornisce utenze domestiche.
 
 E' considerato uso promiscuo l'utilizzo contestuale del gas naturale, fornito a un unico punto di riconsegna, in impieghi differenti, con esclusione dell'uso per autotrazione, relativamente ai quali e' prevista l'applicazione di distinte aliquote di accisa, l'esenzione o la non sottoposizione ad accisa. In tale ipotesi il soggetto obbligato di cui al comma 7 applica, su richiesta del consumatore finale, l'accisa in relazione ai quantitativi di gas naturale utilizzati nei differenti impieghi.
+
+7.
+                        
+                            
+                                Sono obbligati al pagamento dell'accisa, secondo le modalita' previste dall'articolo 26-ter, con diritto di rivalsa sui consumatori finali, i soggetti che: 
+ 
+                            
+                            
+                                a)
+                                
+                                    fatturano il gas naturale ai consumatori finali, comprese le societa' aventi sede legale nel territorio dello Stato designate da soggetti di altri Stati dell'Unione europea non aventi sede nel territorio dello Stato che forniscono il gas naturale direttamente a consumatori finali; le predette societa' designate hanno l'obbligo di registrarsi presso l'Agenzia delle dogane e dei monopoli prima dell'inizio dell'attivita' di fornitura; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    acquistano, a scopo di rivendita ai consumatori finali, il gas naturale, confezionato in bombole o in altro recipiente, da altri Stati dell'Unione europea o da Paesi terzi.
+
+8.
+                        
+                            
+                                Sono altresi' obbligati al pagamento dell'accisa, secondo le modalita' previste dall'articolo 26-ter, i soggetti che, per uso proprio: 
+ 
+                            
+                            
+                                a)
+                                
+                                    acquistano gas naturale avvalendosi delle reti di gasdotti o di infrastrutture per il vettoriamento del prodotto; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    acquistano il gas naturale, confezionato in bombole o in altro recipiente, ((anche)) da altri Stati dell'Unione europea o da Paesi terzi; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    estraggono gas naturale nel territorio dello Stato.
 
 I gestori delle reti di gasdotti nazionali, previa istanza all'Agenzia delle dogane e dei monopoli, possono essere riconosciuti soggetti obbligati limitatamente al gas naturale impiegato per il vettoriamento del prodotto.
 
@@ -1106,6 +2350,36 @@ Con determinazione, adottata dal direttore dell'Agenzia delle entrate e dal dire
 
 
 
+2.
+                        
+                            
+                                
+                                    ((I soggetti di cui al comma 1, che effettuano attivita' di vettoriamento o distribuzione del gas naturale:))
+                                
+                            
+                            
+                                a)
+                                
+                                    
+                                        ((presentano all'Agenzia delle dogane e dei monopoli, esclusivamente in forma telematica, una dichiarazione annuale riepilogativa, contenente i dati relativi al gas naturale trasportato rilevati nelle stazioni di misura, entro il mese di marzo dell'anno successivo a quello cui la dichiarazione si riferisce;))
+                                    
+                                
+                            
+                            
+                                b)
+                                
+                                    
+                                        ((rendono disponibili agli organi preposti ai controlli i dati relativi ai soggetti cui il prodotto e' consegnato;))
+                                    
+                                
+                            
+                            
+                                c)
+                                
+                                    
+                                        ((comunicano all'Agenzia delle dogane e dei monopoli e al soggetto interessato di cui all'articolo 26, comma 7, i dati relativi ai quantitativi di gas naturale sottratti fraudolentemente da terzi, appena i consumi fraudolenti sono accertati.))
+                                        ((129))
+
 ---------------
                             AGGIORNAMENTO (129)
                             
@@ -1165,9 +2439,121 @@ Per i rimborsi si applicano le disposizioni dell'art. 14.
 
 ## Art. 28. — (Depositi fiscali di alcole e bevande alcoliche)
 
+1.
+                        
+                            
+                                La produzione dell'alcole etilico, dei prodotti alcolici intermedi e del vino nonche' la fabbricazione della birra e delle bevande fermentate diverse dal vino e dalla birra sono effettuate in regime di deposito fiscale. Le attivita' di fabbricazione dei prodotti sottoposti ad accisa in regime sospensivo sono consentite, subordinatamente al rilascio della licenza di esercizio di cui all'articolo 63, nei seguenti impianti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    nel settore dell'alcole etilico: 
+ 1) le distillerie; 
+ 2) gli opifici di rettificazione; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    nel settore dei prodotti alcolici intermedi: gli stabilimenti di produzione; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    nel settore della birra: le fabbriche e gli annessi opifici di condizionamento; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    nel settore del vino, fatto salvo quanto previsto nell'articolo 37, comma 1, e nel settore delle bevande fermentate diverse dal vino e dalla birra: le cantine e gli stabilimenti di produzione.
+
+2.
+                        
+                            
+                                Il regime del deposito fiscale puo' essere autorizzato, quando e' funzionale a soddisfare oggettive condizioni di operativita' dell'impianto, nei casi seguenti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    opifici promiscui di trasformazione e di condizionamento nel settore dell'alcole etilico; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    impianti e opifici di solo condizionamento dei prodotti soggetti ad accisa; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    magazzini di invecchiamento degli spiriti; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    magazzini delle distillerie e degli opifici di rettificazione ubicati fuori dei predetti impianti; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    magazzini delle fabbriche e degli opifici di condizionamento di birra ubicati fuori dei predetti impianti; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    impianti di condizionamento e depositi di vino e di bevande fermentate diverse dal vino e dalla birra che effettuano movimentazioni intracomunitarie; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    fabbriche di birra con produzione annua non superiore a 10.000 ettolitri; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    depositi doganali autorizzati a custodire prodotti sottoposti ad accisa.
+
 La gestione in regime di deposito fiscale puo' essere autorizzata per i magazzini di commercianti all'ingrosso di prodotti soggetti ad accisa quando, oltre a ricorrere la condizione di cui al comma 2, la detenzione di prodotti in regime sospensivo risponde ad adeguate esigenze economiche.
 
 L'esercizio dei depositi fiscali autorizzati ai sensi dei commi 2 e 3 e' subordinato al rilascio della licenza di cui all'articolo 63.
+
+5.
+                        
+                            
+                                La cauzione prevista dall'articolo 5, comma 3, in relazione alla quantita' massima di prodotti che puo' essere detenuta nel deposito fiscale, e' dovuta nelle seguenti misure, riferite all'ammontare dell'accisa gravante sui prodotti custoditi: 
+ 
+                            
+                            
+                                a)
+                                
+                                    1 per cento, per gli stabilimenti e opifici di cui al comma 1 e per gli opifici di cui al comma 2, lettere a), c) e g); 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    10 per cento, per tutti gli altri impianti e magazzini; per gli esercenti che hanno aderito alla tenuta dei dati relativi alle contabilita' dei prodotti esclusivamente in forma telematica si applica quanto indicato alla lettera a).
 
 La cauzione di cui al comma 5 e' dovuta in misura pari all'ammontare dell'accisa se i prodotti custoditi sono condizionati e muniti di contrassegno fiscale.
 
@@ -1226,6 +2612,75 @@ n. 3/1956 - Art. 9 legge 28 marzo 1968, n. 415 - Art. 14-bis D.L.
 
 L'alcole, le bevande alcoliche e gli aromi alcolici assoggettati ad accisa o ((completamente denaturati)) devono circolare con il documento di accompagnamento previsto dall'art. 12. ((87))
 
+2.
+                        
+                            
+                                Sono esclusi dall'obbligo di cui al comma 1: 
+ 
+                            
+                            
+                                a)
+                                
+                                    ai sensi dell'art. 13, comma 2, l'alcole e le bevande alcoliche confezionati in recipienti di capacita' non superiore a 5 litri e gli aromi alcolici per liquori o per vini aromatizzati confezionati in dosi per preparare non piu' di un litro di prodotto, muniti del contrassegno fiscale; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'alcole non denaturato in quantita' non superiore a 0,5 litri e gli aromi alcolici per liquori in quantita' non superiore a 0,5 litri o a 0,5 chilogrammi se solidi; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    gli aromi alcolici diversi da quelli per liquori, le bevande alcoliche, la frutta sotto spirito e le profumerie alcoliche ottenute con alcole non denaturato in quantita' non superiore a 5 litri; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    
+                                        ((l'alcole completamente denaturato)) in quantita' non superiore a 50 litri; ((87))
+                                    
+                                
+                            
+                            
+                                e)
+                                
+                                    le profumerie alcoliche ottenute con alcole non denaturato, condizionate, secondo le modalita' stabilite dall'amministrazione finanziaria, in quantita' non superiore a 50 litri; le stesse profumerie e gli aromi alcolici, condizionati e scortati dal documento di accompagnamento previsto dal decreto del Presidente della Repubblica 6 ottobre 1978, n. 627, integrato con le indicazioni richieste dal documento previsto dall'art. 12; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    la birra, il vino e le bevande fermentate diverse dal vino e dalla birra, se non destinate, queste ultime, a distillerie; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    i vini aromatizzati, liquori e acquaviti, addizionati con acqua gassata, semplice o di soda, in recipienti contenenti quantita' non superiore a 10 centilitri ed aventi titolo alcolometrico effettivo non superiore all'11 per cento in volume; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    i prodotti alcolici acquistati da privati in un altro Paese comunitario e dagli stessi trasportati nei limiti stabiliti dall'art. 
+11, comma 2; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    i vini liquorosi destinati a stabilimenti di condizionamento o di trasformazione in altri prodotti.
+
 Con decreto del Ministro dell'economia e delle finanze, da emanare ai sensi dell'art. 17, comma 3, della legge 23 agosto 1988, n. 400, possono essere modificati i casi di esclusione di cui al comma 2, in relazione alle caratteristiche ed alle esigenze di commercializzazione dei prodotti.
 
 --------------
@@ -1254,10 +2709,53 @@ I prodotti alcolici sono posti in vendita condizionati nei modi previsti dalle d
 
 L'alcole etilico e' sottoposto ad accisa con aliquota riferita ad ettolitro anidro di prodotto, alla temperatura di 20 Celsius.
 
+2.
+                        
+                            
+                                Per alcole etilico si intendono:
+ 
+                            
+                            
+                                a)
+                                
+                                    tutti i prodotti che hanno un titolo alcolometrico effettivo superiore all'1,2 per cento in volume e che rientrano nei codici NC 2207 e 2208, anche quando essi sono parte di un prodotto di un altro capitolo della nomenclatura combinata;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    i prodotti che hanno un titolo alcolometrico effettivo superiore al 22 per cento in volume e che rientrano nei codici NC 2204, 2205 e 2206;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    le bevande spiritose contenenti prodotti solidi o in soluzione.
+
 ## Art. 33. — (Art. 6 T.U. spiriti 1924 - Art. 2 legge 11 maggio 1981, n. 213)
  Accertamento dell'accisa sull'alcole
 
 Nelle fabbriche di alcole etilico la produzione e' determinata mediante l'impiego di appositi misuratori che devono essere installati dall'esercente secondo le modalita' stabilite dall'amministrazione finanziaria.
+
+2.
+                        
+                            
+                                La quantita' di alcole etilico da sottoporre ad accisa puo' essere deterininata in base alla produttivita' degli alambicchi, per ogni giornata di lavorazione, per le fabbriche che:
+ 
+                            
+                            
+                                a)
+                                
+                                    siano provviste di un solo apparecchio a fuoco diretto, costituito da un alambicco semplice, murato o altrimenti fissato stabilmente nel fornello e di capacita' non superiore a 2 ettolitri;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    non producano piu' di 3 ettolitri di alcole anidro in un anno.
 
 Per le fabbriche di cui al comma 2, l'alcole etilico da sottoporre ad accisa puo' essere determinato in base alla produttivita' per ogni cotta, applicando all'apparecchio di distillazione uno speciale strumento contatore del numero delle cotte fatte.
 
@@ -1319,9 +2817,53 @@ Fatta salva, su motivata richiesta del depositario, l'applicabilita' delle dispo
 
 Con decreto del Ministro dell'economia e delle finanze, da adottare entro il 28 febbraio 2019, sono stabilite le modalita' attuative delle disposizioni di cui al comma 3-bis, con particolare riguardo all'assetto del deposito fiscale e alle modalita' semplificate di accertamento e contabilizzazione della birra prodotta negli impianti di cui al medesimo comma.
 
+3-quater.
+                        
+                            
+                                
+                                    ((Per gli anni 2022 e 2023 nonche' a decorrere dall'anno 2025)), alla birra realizzata nei birrifici di cui all'articolo 2, comma 4-bis, della legge 16 agosto 1962, n. 1354, aventi una produzione annua superiore a 10.000 ettolitri ed inferiore a 60.000 ettolitri si applica l'aliquota di accisa di cui all'allegato I annesso al presente testo unico in misura ridotta: 
+ 
+                            
+                            
+                                a)
+                                
+                                    del 30 per cento per i birrifici con produzione annua superiore ai 10.000 ettolitri e fino ai 30.000 ettolitri; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    del 20 per cento per i birrifici con produzione annua superiore ai 30.000 ettolitri e fino ai 60.000 ettolitri.
+
 Per le fabbriche che hanno una potenzialita' di produzione mensile non superiore a venti ettolitri, e' in facolta' dell'Agenzia stipulare convenzioni di abbonamento, valevoli per un anno, con corresponsione dell'accisa convenuta in due rate semestrali anticipate, ferma restando l'applicabilita' del comma 3-bis.
 
 Non si considerano avverati i presupposti per l'esigibilita' dell'accisa sulle perdite derivanti da rotture di imballaggi e contenitori inferiori o pari allo 0,30 per cento del quantitativo estratto nel mese; le perdite superiori sono considerate, per la parte eccedente, come immissioni in consumo. La predetta percentuale puo' essere modificata con decreto del Ministro dell'economia e delle finanze, da emanare ai sensi dell'art. 17, comma 3, della legge 23 agosto 1988, n. 400, in relazione agli sviluppi delle tecniche di condizionamento.
+
+6.
+                        
+                            
+                                Sono ammesse le seguenti tolleranze: 
+ 
+                            
+                            
+                                a)
+                                
+                                    tre decimi di grado, rispetto al valore dichiarato, per la gradazione saccarometrica media effettiva del prodotto finito, rilevata nel corso di riscontri effettuati su lotti condizionati in singole specie di imballaggi e contenitori; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    quelle previste dalla normativa metrica vigente, per il volume degli imballaggi preconfezionati; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il 2 per cento, rispetto al volume nominale dichiarato, per il volume medio effettivo di lotti di contenitori diversi dagli imballaggi preconfezionati.
 
 Per gli imballaggi preconfezionati che presentano una gradazione media superiore a quella dichiarata di due decimi e fino a quattro decimi, si prende in carico l'imposta per la parte eccedente la tolleranza e si applica la sanzione amministrativa prevista per la irregolare tenuta dei prescritti registri contabili; per differenze superiori ai quattro decimi, oltre alla presa in carico dell'imposta, si applicano le penalita' previste per la sottrazione del prodotto all'accertamento dell'imposta, indicate all'art. 43. Per i lotti di contenitori diversi dagli imballagi preconfezionati che superano le tolleranze previste per il grado o per il volume, si procede alla presa in carico dell'imposta sulla percentuale degli ettolitri-grado eccedenti il 5 per cento di quelli dichiarati e si applica la sanzione amministrativa prevista per la irregolare tenuta dei prescritti registri contabili; se la suddetta percentuale e' superiore al 9 per cento, oltre alla presa in carico dell'imposta sull'intera eccedenza, si applicano anche le penalita' previste per la sottrazione del prodotto dall'accertamento dell'imposta, indicate all'art. 43.
 
@@ -1340,6 +2882,29 @@ Per gli imballaggi preconfezionati che presentano una gradazione media superiore
  Oggetto dell'imposizione e modalita' di accertamento
 
 Il vino, tranquillo o spumante, e' sottoposto ad accisa con aliquota riferita ad ettolitro di prodotto finito.
+
+2.
+                        
+                            
+                                Si intendono per: 
+ 
+                            
+                            
+                                a)
+                                
+                                    "vino tranquillo" tutti i prodotti di cui ai codici NC 2204 e 2205, ad eccezione dei vini spumanti definiti nella lettera b), aventi: 
+ 1) un titolo alcolometrico effettivo superiore all'1,2 per cento ma non superiore al 15 per cento in volume, purche' l'alcole contenuto nel prodotto finito derivi interamente da fermentazione; 
+ 2) un titolo alcolometrico effettivo superiore al 15 per cento ma non superiore al 18 per cento in volume, purche' ottenuti senza arricchimenti e l'alcole contenuto nel prodotto finito derivi interamente da fermentazione; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    
+                                        (('vino spumante' tutti i prodotti di cui ai codici NC 2204 10, 2204 21 06, 2204 21 07, 2204 21 08, 2204 21 09, 2204 29 10 e 2205 che:)) 
+ 1) sono presentati in bottiglie chiuse con tappo a "forma di fungo" tenuto da fermagli o legacci o hanno una sovrappressione dovuta all'anidride carbonica in soluzione di almeno 3 bar; 
+ 2) hanno un titolo alcolometrico effettivo superiore all'1,2 per cento ma non superiore al 15 per cento in volume, purche' l'alcole contenuto nel prodotto finito derivi interamente da fermentazione. ((87))
 
 E' esente da accisa il vino prodotto da un privato e consumato dallo stesso produttore, dai suoi familiari e dai suoi ospiti, a condizione che non formi oggetto di alcuna attivita' di vendita.
 
@@ -1380,6 +2945,29 @@ I produttori di vino che producono in media meno di 1.000 ettolitri di vino all'
  Oggetto dell'imposizione e modalita' di accertamento
 
 Sono sottoposte ad accisa, con la stessa aliquota prevista per il vino, riferita ad ettolitro di prodotto finito, le altre bevande fermentate diverse dal vino e dalla birra.
+
+2.
+                        
+                            
+                                Si intendono per: 
+ 
+                            
+                            
+                                a)
+                                
+                                    "altre bevande fermentate tranquille" tutti i prodotti di cui ai codici NC 2204 e 2205 non menzionati nell'art. 36 ed i prodotti di cui al codice NC 2206, escluse le altre bevande fermentate gassate definite nella successiva lettera b), ed esclusi i prodotti previsti all'art. 34, che abbiano: 
+ 1) un titolo alcolometrico effettivo superiore all'1,2 per cento ma non superiore al 10 per cento in volume; 
+ 2) un titolo alcolometrico effettivo superiore al 10 per cento ma non superiore al 15 per cento in volume, purche' l'alcole contenuto nel prodotto derivi interamente da fermentazione; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    "altre bevande fermentate gassate" tutti i prodotti di cui ai codici NC 2206 00 31 e 2206 00 39, ((nonche' tutti i prodotti di cui ai codici NC 2204 10, 2204 21 06, 2204 21 07, 2204 21 08, 2204 21 09, 2204 29 10 e 2205 non previsti all'articolo 36, che soddisfino le seguenti condizioni:)) 
+ 1) essere presentati in bottiglie chiuse con tappo a "forma di fungo" tenuto da fermagli o legacci oppure avere una sovrappressione dovuta all'anidride carbonica in soluzione di almeno 3 bar; 
+ 2) avere un titolo alcolometrico effettivo superiore all'1,2 per cento ma non superiore al 13 per cento in volume; 
+ 3) avere un titolo alcolometrico effettivo superiore al 13 per cento ma non superiore al 15 per cento in volume, purche' l'alcole contenuto nel prodotto derivi interamente da fermentazione. ((87))
 
 Sono esenti da accisa le bevande fermentate, tranquille e gassate, fabbricate da un privato e consumate dal fabbricante, dai suoi familiari o dai suoi ospiti, a condizione che non formino oggetto di alcuna attivita' di vendita.
 
@@ -1422,6 +3010,99 @@ I prodotti finiti sono presi in carico dal depositario autorizzato ed accertati 
 ## - ((Capo III-bis Tabacchi lavorati))
 
 ## Art. 39-bis. — (Oggetto dell'imposizione)
+
+1.
+                        
+                            
+                                I tabacchi lavorati sono sottoposti ad accisa. Per tabacchi lavorati si intendono: 
+ 
+                            
+                            
+                                a)
+                                
+                                    i sigari e sigaretti; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le sigarette; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il tabacco da fumo: 
+ 1) il tabacco trinciato a taglio fino da usarsi per arrotolare le sigarette; 
+ 2) gli altri tabacchi da fumo; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    il tabacco da fiuto; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    il tabacco da masticare; 
+
+                                
+                            
+                            
+                                e-bis)
+                                
+                                    i tabacchi da inalazione senza combustione.
+
+2.
+                        
+                            
+                                I tabacchi lavorati di cui al comma 1 sono cosi' definiti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    sono considerati sigari o sigaretti, se possono essere e se, tenuto conto delle loro proprieta' e delle normali attese dei consumatori, sono esclusivamente destinati ad essere fumati tali e quali: 
+ 1) i rotoli di tabacco muniti di una fascia esterna di tabacco naturale; 
+ 2) i rotoli di tabacco riempiti di una miscela di tabacco battuto e muniti di una fascia esterna del colore tipico dei sigari, di tabacco ricostituito, ricoprente interamente il prodotto, compreso l'eventuale filtro, ma escluso il bocchino nei sigari che ne sono provvisti, aventi peso unitario, esclusi il filtro o il bocchino, non inferiore a 2,3 grammi e non superiore a 10 grammi e la cui circonferenza misurabile su almeno un terzo della lunghezza non e' inferiore a 34 millimetri. 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    sono considerati sigarette: 
+ 1) i rotoli che possono essere fumati tali e quali e che non sono sigari o sigaretti a norma della lettera a) del presente comma; 
+ 2) i rotoli di tabacco che, previa una semplice manipolazione non industriale, sono inseriti in tubi per sigarette o arrotolati in fogli di carta per sigarette. 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    sono considerati tabacchi da fumo: 
+ 1) il tabacco, anche trinciato o in altro modo frazionato, filato o compresso in tavolette, che puo' essere fumato senza successiva trasformazione industriale; 
+ 2) i cascami di tabacco preparati per la vendita al minuto, non compresi nelle lettere a) e b), e che possono essere fumati; sono considerati "cascami di tabacco" i residui delle foglie di tabacco e i sottoprodotti della lavorazione del tabacco o della fabbricazione di prodotti del tabacco. 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    e' considerato come tabacco da fiuto il tabacco in polvere o in grani specialmente preparato per essere fiutato, ma non fumato; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    e' considerato come tabacco da masticare il tabacco presentato in rotoli, in barre, in lamine, in cubi o in tavolette, condizionato per la vendita al minuto e specialmente preparato per essere masticato, ma non fumato;
 
 E' considerato tabacco trinciato a taglio fino per arrotolare le sigarette, il tabacco da fumo di cui ai numeri 1) e 2) della lettera c), nel quale piu' del 25 per cento in peso delle particelle di tabacco abbia una lunghezza di taglio inferiore ad 1,5 millimetri.
 
@@ -1466,6 +3147,31 @@ COMMA ABROGATO DAL D.LGS. 31 MARZO 2011, N. 57.
 
 
 
+1.
+                        
+                            
+                                Con provvedimento del Direttore dell'((Agenzia delle dogane e dei monopoli)), da pubblicare nella Gazzetta Ufficiale della Repubblica italiana, sono fissate le tabelle di ripartizione dei prezzi di vendita al pubblico dei tabacchi lavorati. I prezzi di vendita relativi ai prodotti di cui all'articolo 39-bis, comma 1, lettere a) e b), sono fissati con riferimento al chilogrammo convenzionale, pari, rispettivamente, a: ((87))
+                                
+                            
+                            
+                                a)
+                                
+                                    200 sigari; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    400 sigaretti; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    1000 sigarette.
+
 Per le sigarette, le tabelle di cui al comma 1 sono stabilite con riferimento al prezzo medio ponderato di vendita per chilogrammo convenzionale, di seguito denominato "PMP-sigarette", determinato annualmente entro il primo marzo dell'anno solare successivo, sulla base del rapporto, espresso in euro con troncamento dei decimali, tra il valore totale, calcolato con riferimento al prezzo di vendita comprensivo di tutte le imposte, delle sigarette immesse in consumo nell'anno solare precedente e la quantita' totale delle medesime sigarette. (52)
 
 COMMA ABROGATO DAL D.LGS. 15 DICEMBRE 2014, N. 188.
@@ -1505,7 +3211,50 @@ Ai fini dell'applicazione dell'accisa sui tabacchi lavorati di cui all'articolo 
 
 Per i tabacchi lavorati di cui al comma 1 diversi dalle sigarette l'accisa e' calcolata applicando la relativa aliquota di base al prezzo di vendita al pubblico del prodotto.
 
+3.
+                        
+                            
+                                Per le sigarette, l'ammontare dell'accisa e' costituito dalla somma dei seguenti elementi: 
+ 
+                            
+                            
+                                a)
+                                
+                                    un importo specifico fisso per unita' di prodotto, determinato, per l'anno 2023, in 28 euro per 1.000 sigarette, per l'anno 2024, in 29,30 euro per 1.000 sigarette e, a decorrere dall'anno 2025, in 29,50 euro per 1.000 sigarette; ((133))
+                                    
+                                
+                            
+                            
+                                b)
+                                
+                                    un importo risultante dall'applicazione dell'aliquota di base, di cui alla voce "Tabacchi lavorati", lettera c), dell'allegato I, al prezzo di vendita al pubblico.
+
 COMMA ABROGATO DALLA L. 29 DICEMBRE 2022, N. 197.
+
+5.
+                        
+                            
+                                L'accisa minima di cui all'articolo 14, n. 1, secondo periodo, della direttiva 2011/64/UE del Consiglio, del 21 giugno 2011, e' pari a: 
+ 
+                            
+                            
+                                a)
+                                
+                                    euro 35 il chilogrammo convenzionale, per i tabacchi lavorati di cui all'articolo 39-bis, comma 1, lettera a), di peso superiore a 3 grammi (sigari); 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    euro 25 il chilogrammo convenzionale, per i tabacchi lavorati di cui all'articolo 39-bis, comma 1, lettera a), di peso inferiore a 3 grammi (sigaretti);(67)(73)(78) ((133))
+                                    
+                                
+                            
+                            
+                                c)
+                                
+                                    euro 115 il chilogrammo per i tabacchi lavorati di cui all'articolo 39-bis, comma 1, lettera c), n. 1) (tabacco trinciato a taglio fino da usarsi per arrotolare le sigarette).(67)(73) (78) (113) (126) ((133))
 
 Per i tabacchi lavorati di cui all'articolo 39-bis, comma 1, lettera b) (sigarette), l'onere fiscale minimo, di cui all'articolo 7, paragrafo 4, della direttiva 2011/64/UE del Consiglio, del 21 giugno 2011, e' pari ((a un importo specifico fisso per unita' di prodotto determinato, per l'anno 2026, in 216 euro per 1.000 sigarette, per l'anno 2027, in 221 euro per 1.000 sigarette e, a decorrere dall'anno 2028, in 227 euro per 1.000 sigarette)).
 
@@ -1649,6 +3398,59 @@ Ferma restando l'applicazione delle disposizioni di cui al decreto legislativo 2
  Art. 20 legge 31 dicembre 1962, n. 1852 - 
  Art. 6 D.L. n. 46/1976 - Artt. 22 e 23 R.D.L. n. 334/1939)
 
+1.
+                        
+                            
+                                E' punito con la reclusione da sei mesi a tre anni e con la multa dal doppio al decuplo dell'imposta evasa, non inferiore in ogni caso a 7746 euro, chiunque: 
+ 
+                            
+                            
+                                a)
+                                
+                                    fabbrica o raffina clandestinamente prodotti energetici; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    sottrae con qualsiasi mezzo gli prodotti energetici, compreso il gas naturale, all'accertamento o al pagamento dell'accisa; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    destina ad usi soggetti ad imposta od a maggiore imposta prodotti esenti o ammessi ad aliquote agevolate; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    effettua operazioni di miscelazione non autorizzate dalle quali si ottengono prodotti soggetti ad una accisa superiore a quella assolta sui singoli componenti; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    rigenera prodotti denaturati per renderne piu' facile ed elusivo l'impiego in usi soggetti a maggiore imposta; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    detiene prodotti energetici denaturati in condizioni diverse da quelle prescritte per l'ammissione al trattamento agevolato; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    detiene o utilizza prodotti ottenuti da fabbricazioni clandestine o da miscelazioni non autorizzate.
+
 La multa e' commisurata, per le violazioni di cui alle lettere a) e d) del comma 1, oltre che ai prodotti complessivamente ultimati, anche a quelli che si sarebbero potuti ottenere dalle materie prime in corso o in attesa di lavorazione, o comunque esistenti nella fabbrica o nei locali in cui e' commessa la violazione; e, per le violazioni di cui alla lettera e), oltre che ai prodotti in corso di rigenerazione o complessivamente rigenerati, compresi quelli comunque esitati, anche ai prodotti denaturati rinvenuti sul luogo in cui e' commessa la violazione.
 
 Il tentativo e' punito con la stessa pena prevista per il reato consumato. La fabbricazione di prodotti soggetti ad accisa ((mediante operazioni effettuate, senza giustificato motivo,)) in tempi diversi da quelli dichiarati nella comunicazione di lavoro, se prevista, si configura come tentativo di sottrarre il prodotto all'accertamento ((...)). ((Si configura altresi' come tentativo di sottrazione del prodotto all'accertamento, la circolazione dei prodotti di cui all'articolo 7-bis che avvenga, senza giustificato motivo, in assenza della preventiva emissione del codice di riscontro amministrativo di cui al medesimo articolo 7-bis o sulla base dei dati di cui al comma 3 del medesimo articolo 7-bis risultanti non veritieri o senza che sia stata eseguita, da parte dell'Ufficio dell'Agenzia, la validazione del predetto codice a causa della mancata presentazione dei prodotti presso il medesimo Ufficio.)) (76) (83)
@@ -1680,6 +3482,24 @@ Il tentativo e' punito con la stessa pena prevista per il reato consumato.
 
 Quando le condotte di cui al comma 1 hanno ad oggetto un quantitativo di tabacco lavorato fino a 15 chilogrammi convenzionali e qualora non ricorrano le circostanze aggravanti di cui all'articolo 40-ter, si applica la sanzione amministrativa del pagamento di una somma di denaro di euro 5 per ogni grammo convenzionale di prodotto, come definito dall'articolo 39-quinquies. La sanzione amministrativa, salvo quanto previsto dal comma 4, non puo' comunque essere inferiore a euro 5.000.
 
+4.
+                        
+                            
+                                Se il quantitativo di tabacchi lavorati sottratto all'accertamento o al pagamento dell'accisa risulta: 
+ 
+                            
+                            
+                                a)
+                                
+                                    non superiore a 200 grammi convenzionali, la sanzione amministrativa e' di 500 euro; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    superiore a 200 grammi convenzionali e fino a 400 grammi convenzionali, la sanzione amministrativa e' di 1.000 euro.
+
 Qualora il quantitativo di tabacchi lavorati sottratti, con qualsiasi mezzo e modalita', all'accertamento o al pagamento dell'accisa non sia determinato, si applica la sanzione amministrativa da un minimo di euro 3.000 a un massimo di euro 30.000, tenuto conto delle modalita' della condotta e della gravita' del fatto.
 
 ))
@@ -1689,6 +3509,45 @@ Qualora il quantitativo di tabacchi lavorati sottratti, con qualsiasi mezzo e mo
 ((
 
 Se i fatti previsti dall'articolo 40-bis sono commessi adoperando mezzi di trasporto appartenenti a persone estranee al reato, la pena e' aumentata.
+
+2.
+                        
+                            
+                                Nelle ipotesi previste dall'articolo 40-bis, commi 1 e 2, si applica la multa di euro 25 per ogni grammo convenzionale di prodotto e la reclusione da tre a sette anni, quando: 
+ 
+                            
+                            
+                                a)
+                                
+                                    nel commettere il reato o nei comportamenti diretti ad assicurare il prezzo, il prodotto, il profitto o l'impunita' del reato, l'autore faccia uso delle armi o si accerti averle possedute nell'esecuzione del reato; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    nel commettere il reato o immediatamente dopo, l'autore e' sorpreso insieme a due o piu' persone in condizioni tali da frapporre ostacolo agli organi di polizia; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il fatto e' connesso con altro reato contro la fede pubblica o contro la pubblica amministrazione; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    nel commettere il reato, l'autore ha utilizzato mezzi di trasporto, che, rispetto alle caratteristiche omologate, presentano alterazioni o modifiche idonee ad ostacolare l'intervento degli organi di polizia ovvero a provocare pericolo per la pubblica incolumita'; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    nel commettere il reato l'autore ha utilizzato societa' di persone o di capitali ovvero si e' avvalso di disponibilita' finanziarie in qualsiasi modo costituite in Stati che non hanno ratificato la Convenzione sul riciclaggio, la ricerca, il sequestro e la confisca dei proventi di reato, fatta a Strasburgo l'8 novembre 1990, ratificata e resa esecutiva ai sensi della legge 9 agosto 1993, n. 328, e che comunque non hanno stipulato e ratificato convenzioni di assistenza giudiziaria con l'Italia aventi ad oggetto il delitto di contrabbando.
 
 ))
 
@@ -1751,6 +3610,24 @@ Quando tre o piu' persone si associano allo scopo di fabbricare clandestinamente
 n. 1200/1948 - Art. 15 legge 28 marzo 1968, n. 417 - Art. 21 T.U. birra 1924). 
 Sottrazione all'accertamento ed al pagamento dell'accisa sull'alcole e sulle bevande alcoliche
 
+1.
+                        
+                            
+                                E' punito con la reclusione da sei mesi a tre anni e con la multa dal doppio al decuplo dell'imposta evasa, non inferiore in ogni caso a 7746 euro, chiunque: 
+ 
+                            
+                            
+                                a)
+                                
+                                    sottrae con qualsiasi mezzo alcole o bevande alcoliche all'accertamento o al pagamento dell'accisa; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    detiene alcole denaturato in condizioni diverse da quelle prescritte o lo destina ad usi diversi da quelli per i quali e' stata concessa l'esenzione.
+
 Il tentativo e' punito con la stessa pena prevista per il reato consumato. La fabbricazione di prodoti alcolici soggetti ad accisa ((, mediante operazioni effettuate, senza giustificato motivo,)) in tempi diversi da quelli dichiarati nella comunicazione di lavoro, se prevista, si configura come tentativo di sottrarre il prodotto all'accertamento ((...)).
 
 L'esercente della fabbrica o del deposito nei quali e' stata commessa la violazione di cui alla lettera b) del comma 1 e' privato per due anni del beneficio dell'esenzione concessa.
@@ -1810,6 +3687,24 @@ Il personale dell'amministrazione finanziaria e della Guardia di finanza che con
 ## Art. 46. — (Art. 40 T.U. spiriti 1924)
  Alterazione di congegni, impronte e contrassegni
 
+1.
+                        
+                            
+                                E' punito con la reclusione da uno a cinque anni chiunque, al fine di sottrarre prodotto all'accertamento:
+ 
+                            
+                            
+                                a)
+                                
+                                    contraffa', altera, rimuove, guasta o rende inservibili misuratori, sigilli, bolli, punzoni, marchi di verificazione od altri congegni, impronte o contrassegni prescritti dall'amministrazione finanziaria o apposti dalla Guardia finanza;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    fa uso di sigilli, bolli, punzoni, marchi di verificazione o altre impronte o contrassegni prescritti dall'amministrazione finanziaria o apposti dalla Guardia di finanza contraffatti od alterati, ovvero senza autorizzazione.
+
 Chiunque detiene, senza autorizzazione, congegni, sigilli, bolli o punzoni identici a quelli usati dall'amministrazione finanziaria o dalla Guardia di finanza, anche se contraffatti, e' punito con la reclusione da uno a sei mesi. La pena e' della reclusione da un mese ad un anno se il fatto e' commesso da un fabbricante.
 
 Il fabbricante che, senza essere concorso nei reati di cui ai commi 1 e 2, ne abbia agevolato la commissione omettendo di adottare le opportune cautele nella custodia dei misuratori e degli altri congegni ivi indicati e' punito con la sanzione amministrativa del pagamento di una somma di denaro da ((258 euro a 1549 euro)).
@@ -1845,6 +3740,24 @@ Le disposizioni di cui al presente articolo non si applicano ai tabacchi lavorat
 Chiunque esercita un deposito di prodotti energetici, un impianto di distribuzione stradale di carburanti o un apparecchio di distribuzione automatica di carburanti, non denunciati a norma dell'art. 25, e' punito con la sanzione amministrativa del pagamento di una somma di denaro da ((1032 euro a 5164 euro)). La stessa sanzione si applica all'esercente di di depositi di prodotti alcolici non denunciati a norma dell'art. 29.
 
 Se nella verificazione dei depositi e degli impianti o degli apparecchi indicati nel comma 1 si riscontrano eccedenze rispetto alle risultanze del registro di carico e scarico o comunque non giustificate dalla prescritta documentazione, in aggiunta al pagamento del tributo si applica la sanzione amministrativa del pagamento di una somma di denaro da ((516 euro a 3098 euro)). Se l'eccedenza riscontrata non supera l'uno per cento rapportato alla quantita' estratta nel periodo preso a base della verifica si applica la sanzione amministrativa del pagamento di una somma di denaro da ((154 euro a 929 euro)).
+
+3.
+                        
+                            
+                                Non si fa luogo ad alcun addebito per le eccedenze, riscontrante nel periodo preso a base della verifica:
+ 
+                            
+                            
+                                a)
+                                
+                                    degli oli combustibili non superiori all'uno per cento della quantita' estratta, presso i depositi liberi per uso commerciale;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    dei carburanti non superiori al 5 per mille rapportato alle erogazioni registrate dal contatore totalizzatore, presso gli impianti e gli apparecchi di distribuzione automatica.
 
 L'esercente degli impianti di lavorazione e di deposito di prodotti sottoposti ad accisa che effettua la consegna dei prodotti agevolati senza l'osservanza delle formalita' prescritte e' punito con la sanzione amministrativa del pagamento di una somma di denaro da ((258 euro a 1549 euro)).
 
@@ -1895,6 +3808,98 @@ La disposizione di cui al comma 1 non si applica alle ammistrazioni dello Stato.
 ## Art. 52. — Oggetto dell'imposizione.
 
 L'energia elettrica (codice NC 2716) e' sottoposta ad accisa, e la relativa imposta e' esigibile, al momento della fornitura al consumatore finale o al momento del consumo per l'energia elettrica prodotta per uso proprio, con l'applicazione delle aliquote di cui all'allegato I vigenti a tale momento.
+
+2.
+                        
+                            
+                                Non e' sottoposta ad accisa l'energia elettrica: 
+ 
+                            
+                            
+                                a)
+                                
+                                    prodotta con impianti azionati da fonti rinnovabili, ai sensi della normativa vigente in materia, con potenza disponibile non superiore a 20 kW, e consumata per uso proprio; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    impiegata negli aeromobili, nelle navi, negli autoveicoli, purche' prodotta a bordo con mezzi propri, esclusi gli accumulatori, nonche' quella prodotta da gruppi elettrogeni mobili in dotazione alle forze armate dello Stato ed ai corpi ad esse assimilati; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    prodotta con gruppi elettrogeni azionati dalla biomassa o da gas ottenuti dalla biomassa((e consumata per uso proprio)); 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    prodotta da piccoli impianti generatori comunque azionati, aventi potenza nominale non superiore a 1 kW nonche' prodotta in officine elettriche costituite da gruppi elettrogeni di soccorso aventi potenza nominale complessiva non superiore a 200 kW; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    utilizzata principalmente per la riduzione chimica e nei processi elettrolitici e metallurgici; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    impiegata nei processi mineralogici; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    impiegata per la realizzazione di prodotti sul cui costo finale, calcolato in media per unita', incida per oltre il 50 per cento.
+
+3.
+                        
+                            
+                                E' esente dall'accisa l'energia elettrica: 
+ 
+                            
+                            
+                                a)
+                                
+                                    utilizzata per l'attivita' di produzione di elettricita' e per mantenere la capacita' di produrre elettricita' nonche', limitatamente agli impianti di generazione di energia elettrica asservita esclusivamente alla immissione in rete con obbligo di connessione di terzi, per le attivita' connesse all'esercizio dei medesimi impianti; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    prodotta con impianti azionati da fonti rinnovabili ai sensi della normativa vigente in materia, con potenza disponibile superiore a 20 kW, consumata dalle imprese di autoproduzione in locali e luoghi diversi dalle abitazioni ubicati nel medesimo sito di produzione; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    utilizzata per l'impianto e l'esercizio delle linee ferroviarie adibite al trasporto di merci e passeggeri; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    impiegata per l'impianto e l'esercizio delle linee di trasporto urbano ed interurbano; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    consumata per qualsiasi applicazione nelle abitazioni di residenza anagrafica degli utenti, con potenza impegnata fino a 3 kW, fino ad un consumo mensile di 150 kWh. Per i consumi superiori alla soglia di 150 kWh per le utenze fino a 1,5 kW, si procede al recupero dell'accisa riducendo i quantitativi rientranti nella medesima soglia di esenzione di un numero di chilowattora corrispondenti a quelli consumati in misura superiore alla predetta soglia di 150 kWh; per i consumi superiori al limite di 220 kWh per le utenze oltre 1,5 e fino a 3 kW, si procede al recupero dell'accisa riducendo i quantitativi rientranti nella soglia di esenzione di 150 kWh di un numero di chilowattora corrispondenti a quelli consumati in misura superiore al predetto limite di 220 kWh.
 
 E' considerato uso promiscuo l'utilizzo contestuale dell'energia elettrica, fornita ad un unico punto di prelievo, in impieghi differenti relativamente ai quali e' prevista l'applicazione di distinte aliquote di accisa, l'esenzione o la non sottoposizione ad accisa. 
  (129)
@@ -2090,6 +4095,45 @@ I poteri previsti, per gli appartenenti alla Guardia di finanza, dall'art. 18, s
  (Art. 20 T.U. energia elettrica 1924 
  Art. 2 legge 28 dicembre 1993, n. 562)
 
+1.
+                        
+                            
+                                Indipendentemente dall'applicazione delle pene previste per i fatti costituenti reato, sono puniti con la sanzione amministrativa del pagamento di una somma di denaro dal doppio al decuplo dell'imposta evasa o che si e' tentato di evadere, non inferiore in ogni caso a 258 euro, i soggetti obbligati di cui all'articolo 53 che: 
+ 
+                            
+                            
+                                a)
+                                
+                                    attivano l'officina a scopo di produzione di energia elettrica senza essere provvisti della licenza di esercizio; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    manomettono o lasciano manomettere in qualsiasi modo i congegni applicati o fatti applicare dal competente Ufficio dell'Agenzia delle dogane, nonche' i contrassegni, bolli e suggelli applicati da detto ufficio, salvi i casi di assoluta necessita; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    omettono o redigono in modo incompleto o inesatto le dichiarazioni di cui agli articoli 53, comma 8, e 55, comma 2, non tengono o tengono in modo irregolare le registrazioni di cui all'articolo 55, comma 7, ovvero non presentano i registri, i documenti e le bollette a norma dell'articolo 58, commi 3 e 4; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    non presentano o presentano incomplete o infedeli le denunce di cui all'articolo 53, comma 4; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    negano o in qualsiasi modo ostacolano l'immediato ingresso ai funzionari dell'amministrazione finanziaria addetti al servizio nelle officine o nei locali annessi, ovvero impediscono ad essi l'esercizio delle attribuzioni previste dall'art. 58.
+
 E' punito con la sanzione di cui al comma 1 l'utente che altera il funzionamento dei congegni o manomette i suggelli applicati dai funzionari dell'amministrazione finanziaria o dai soggetti obbligati di cui all'articolo 53 per misurazione, per riscontro o per sicurezza, ovvero destina l'energia ammessa all'esenzione ad usi soggetti ad imposta.
 
 La sanzione di cui al comma 1 si applica anche a chi sottrae o tenta di sottrarre, in qualsiasi modo, l'energia elettrica al regolare accertamento dell'imposta.
@@ -2112,6 +4156,66 @@ Le disposizioni del presente titolo, ad eccezione di quanto disposto dall'artico
 
 ## Art. 61. — (Artt. 29 e 32 D.L. n. 331/1993) 
  Disposizioni generali
+
+1.
+                        
+                            
+                                Le imposizioni indirette sulla produzione e sui consumi diverse da quelle previste dai titoli I e II e dall'imposta di fabbricazione sui fiammiferi, si applicano con le seguenti modalita': 
+ 
+                            
+                            
+                                a)
+                                
+                                    l'imposta e' dovuta sui prodotti immessi in consumo nel mercato interno ed e' esigibile con l'aliquota vigente alla data in cui viene effettuata l'immissione in consumo; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    obbligato al pagamento dell'imposta e': 
+ 1) il fabbricante per i prodotti ottenuti nel territorio dello Stato; 
+ 2) il soggetto che effettua la prima immissione in consumo per i prodotti di provenienza comunitaria; 
+ 3) l'importatore per i prodotti di provenienza da Paesi terzi; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    l'immissione in consumo si verifica: 
+ 1) per i prodotti nazionali, all'atto della cessione sia ai diretti utilizzatori o consumatori sia a ditte esercenti il commercio che ne effettuano la rivendita; 
+ 2) per i prodotti di provenienza comunitaria, all'atto del ricevimento della merce da parte del soggetto acquirente ovvero nel momento in cui si considera effettuata, ai fini dell'imposta sul valore aggiunto, la cessione, da parte del venditore residente in altro Stato membro, a privati consumatori o a soggetti che agiscono nell'esercizio di una impresa, arte o professione; 
+ 3) per i prodotti di provenienza da Paesi terzi, all'atto dell'importazione; 
+ 4) per i prodotti che risultano mancanti alle verifiche e per i quali non e' possibile accertare il regolare esito, all'atto della loro constatazione; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    i soggetti obbligati al pagamento dell'imposta sono muniti di una licenza fiscale rilasciata dall'Ufficio dell'Agenzia delle dogane, competente per territorio. Gli stessi soggetti sono tenuti al pagamento di un diritto annuale ed a prestare cauzione per un importo pari al 10 per cento dell'imposta gravante su tutto il prodotto giacente e, comunque, non inferiore all'imposta dovuta mediamente per il periodo di tempo cui si riferisce la dichiarazione presentata ai fini del pagamento dell'imposta; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    l'imposta dovuta viene determinata sulla base dei dati e degli elementi richiesti dall'amministrazione finanziaria, che devono essere indicati nella dichiarazione mensile che il soggetto obbligato deve presentare, ai fini dell'accertamento, entro il mese successivo a quello cui si rifensce. Entro lo stesso termine deve essere effettuato il versamento dell'imposta. I termini per la presentazione delle dichiarazioni e per il pagamento dell'imposta possono essere modificati con decreti del Ministro dell'economia e delle finanze; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    per i prodotti di provenienza da Paesi terzi l'imposta viene accertata e riscossa dall'Agenzia delle dogane con le modalita' previste per i diritti di confine, fermo restando che il pagamento non puo' essere dilazionato per un periodo di tempo superiore a quello mediamente previsto per i prodotti nazionali e comunitari; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    per i tardivi pagamenti dell'imposta si applicano le indennita' di mora e gli interessi previsti nell'art. 3, comma 4.
 
 Per i tributi disciplinati dal presente titolo si applicano le disposizioni dell'articolo 3, comma 4, ((sesto periodo)), dell'articolo 4, dell'articolo 5, commi 3 e 4, dell'articolo 6, commi 5 e 13, dell'articolo 14, dell'articolo 15, dell'articolo 16, dell'articolo 17, dell'articolo 18 e dell'articolo 19. ((129))
 
@@ -2196,6 +4300,34 @@ Con determinazione del Direttore dell'Agenzia delle dogane e dei monopoli, sono 
 
 La vendita dei prodotti di cui al comma 1-bis, ad eccezione dei dispositivi meccanici ed elettronici, comprese le parti di ricambio, e' effettuata in via esclusiva per il tramite delle rivendite di cui all'articolo 16 della legge 22 dicembre 1957, n. 1293, ferme le disposizioni del regolamento di cui al decreto del Ministro dell'economia e delle finanze 21 febbraio 2013, n. 38, adottato in attuazione dell'articolo 24, comma 42, del decreto-legge 6 luglio 2011, n. 98, convertito, con modificazioni, dalla legge 15 luglio 2011, n. 111, quanto alla disciplina in materia di distribuzione e vendita al pubblico dei prodotti ivi disciplinati. (52) (72)
 
+5-bis.
+                        
+                            
+                                Con determinazione del Direttore dell'Agenzia delle dogane e dei monopoli sono stabiliti, per gli esercizi di vicinato, le farmacie e le parafarmacie, le modalita' e i requisiti per l'autorizzazione alla vendita e per l'approvvigionamento dei prodotti da inalazione senza combustione costituiti da sostanze liquide di cui al comma 1-bis, secondo i seguenti criteri: 
+                            
+                            
+                                a)
+                                
+                                    prevalenza, per gli esercizi di vicinato, escluse le farmacie e le parafarmacie, dell'attivita' di vendita dei prodotti di cui al comma 1-bis e dei dispositivi meccanici ed elettronici;
+                                
+                            
+                            
+                                b)
+                                
+                                    effettiva capacita' di garantire il rispetto del divieto di vendita ai minori;
+                                
+                            
+                            
+                                c)
+                                
+                                    non discriminazione tra i canali di approvvigionamento;
+                                
+                            
+                            
+                                d)
+                                
+                                    presenza dei medesimi requisiti soggettivi previsti per le rivendite di generi di monopolio. Nelle more dell'adozione della determinazione di cui al primo periodo, agli esercizi di cui al presente comma e' consentita la prosecuzione dell'attivita'.
+
 Per i soggetti che gestiscono gli esercizi di vicinato, farmacie e parafarmacie di cui al comma 5-bis, l'autorizzazione alla vendita dei prodotti da inalazione senza combustione di cui al comma 1-bis ha durata pari a quattro anni con possibilita' di rinnovo. (129)
 
 La commercializzazione dei prodotti di cui al comma 1-bis e' soggetta alla vigilanza dell'Amministrazione finanziaria, ai sensi delle disposizioni, per quanto applicabili, dell'articolo 18. Si applicano le disposizioni di cui all'articolo 50. (52)(72)
@@ -2248,6 +4380,38 @@ Con determinazione del direttore dell'Agenzia delle dogane e dei monopoli e' sta
 
 I prodotti, diversi dai tabacchi lavorati sottoposti ad accisa, contenenti nicotina e preparati allo scopo di consentire, senza combustione e senza inalazione, l'assorbimento di tale sostanza da parte dell'organismo, anche mediante involucri funzionali al loro consumo, sono assoggettati ad imposta di consumo nella misura pari a 22 euro per chilogrammo, esclusi quelli autorizzati all'immissione in commercio come medicinali ai sensi del decreto legislativo 24 aprile 2006, n. 219. Ai fini della determinazione dell'imposta di cui al presente comma si tiene conto anche del peso degli involucri, se presenti. (129)
 
+2.
+                        
+                            
+                                Sono obbligati al pagamento dell'imposta: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il fabbricante, per i prodotti di cui al comma 1 ottenuti nel territorio nazionale; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'importatore, per i prodotti di cui al medesimo comma 1 provenienti da Paesi terzi; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il soggetto cedente, che adempie al medesimo pagamento e agli obblighi previsti dal presente articolo per il tramite di un rappresentante fiscale avente sede nel territorio nazionale autorizzato ai sensi del comma 4, per i prodotti di cui al comma 1 provenienti da un altro Stato dell'Unione europea. 
+
+                                
+                            
+                            
+                                c-bis)
+                                
+                                    il soggetto avente sede nel territorio nazionale, autorizzato ai sensi del comma 4-bis ad effettuare l'immissione in consumo dei prodotti di cui al comma 1 provenienti da uno Stato dell'Unione europea.
+
 Il soggetto che intende fabbricare i prodotti di cui al comma 1 e' preventivamente autorizzato dall'Agenzia delle dogane e dei monopoli all'istituzione e alla gestione di un deposito in cui sono realizzati i prodotti di cui al comma 1. A tale fine il medesimo soggetto presenta alla medesima Agenzia un'istanza, in forma telematica, in cui sono indicati, oltre ai dati previsti dalla determinazione di cui al comma 16, il possesso dei requisiti stabiliti per la gestione dei depositi fiscali di tabacchi lavorati dall'articolo 3 del regolamento di cui al decreto del Ministro delle finanze 22 febbraio 1999, n. 67, l'ubicazione del deposito in cui si intende fabbricare i prodotti di cui al comma 1, la denominazione e il contenuto dei prodotti di cui al comma 1 che intende realizzare, la quantita' di prodotto presente in ciascuna confezione destinata alla vendita al pubblico, nonche' gli altri elementi informativi previsti dall'articolo 6 del codice del consumo, di cui al decreto legislativo 6 settembre 2005, n. 206.
 
 Il rappresentante fiscale di cui al comma 2, lettera c), designato dal soggetto cedente i prodotti di cui al comma 1 provenienti da un altro Stato dell'Unione europea, e' preventivamente autorizzato dall'Agenzia delle dogane e dei monopoli. A tale fine il medesimo rappresentante presenta alla medesima Agenzia un'istanza, in forma telematica, in cui sono indicati, oltre ai dati previsti dalla determinazione di cui al comma 16, il possesso dei requisiti stabiliti, per la gestione dei depositi fiscali di tabacchi lavorati, dall'articolo 3 del regolamento di cui al decreto del Ministro delle finanze 22 febbraio 1999, n. 67, la denominazione e il contenuto dei prodotti di cui al comma 1 provenienti da Paesi dell'Unione europea che saranno immessi in consumo nel territorio nazionale, la quantita' di prodotto presente in ciascuna confezione destinata alla vendita al pubblico, nonche' gli altri elementi informativi previsti dall'articolo 6 del codice di cui al decreto legislativo 6 settembre 2005, n. 206.
@@ -2277,6 +4441,38 @@ La commercializzazione dei prodotti di cui al comma 1 e' soggetta alla vigilanza
 
 La vendita dei prodotti di cui al comma 1 e' effettuata in via esclusiva per il tramite delle rivendite di cui all'articolo 16 della legge 22 dicembre 1957, n. 1293. ((PERIODO SOPPRESSO DALLA L. 30 DICEMBRE 2025, N. 199)).
 
+13.
+                        
+                            
+                                Con determinazione del direttore dell'Agenzia delle dogane e dei monopoli sono stabiliti, per gli esercizi di vicinato, le farmacie e le parafarmacie, le modalita' e i requisiti per l'autorizzazione alla vendita e per l'approvvigionamento dei prodotti di cui al comma 1 secondo i seguenti criteri: 
+ 
+                            
+                            
+                                a)
+                                
+                                    prevalenza, per gli esercizi di vicinato, escluse le farmacie e le parafarmacie, dell'attivita' di vendita dei prodotti di cui al comma 1, anche unitamente ai prodotti di cui all'articolo 62-quater; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    effettiva capacita' di garantire il rispetto del divieto di vendita ai minori; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    non discriminazione tra i canali di approvvigionamento; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    presenza dei medesimi requisiti soggettivi previsti per le rivendite di generi di monopolio.
+
 Per i soggetti che gestiscono gli esercizi di vicinato, farmacie e parafarmacie di cui al comma 13, l'autorizzazione alla vendita dei prodotti di cui al comma 1 ha durata pari a quattro anni con possibilita' di rinnovo. (129) 
  13-bis.1. ((E' vietata la vendita a distanza, anche transfrontaliera, dei prodotti di cui al comma 1 ai consumatori che acquistano nel territorio dello Stato. In caso di rilevazione di offerta di prodotti di cui al comma 1 in violazione del presente comma, fermi restando i poteri di polizia giudiziaria ove il fatto costituisca reato, si applica l'articolo 102 del decreto-legge 14 agosto 2020, n. 104, convertito, con modificazioni, dalla legge 13 ottobre 2020, n. 126.)) 
  13-bis.2. ((Salvo che il fatto costituisca reato, al fabbricante e all'importatore che vendono a distanza i prodotti di cui al comma 1 ai consumatori, si applica la sanzione amministrativa pecuniaria del pagamento di una somma da euro 30.000 a euro 150.000. Salvo che il fatto costituisca reato, al soggetto distributore o al rivenditore che vendono a distanza i prodotti di cui al comma 1 si applica la sanzione amministrativa pecuniaria del pagamento di una somma da euro 500 a euro 5.000)).
@@ -2305,6 +4501,33 @@ Con determinazione del direttore dell'Agenzia delle dogane e dei monopoli sono s
 
 I prodotti da inalazione senza combustione, costituiti da sostanze solide diverse dal tabacco, contenenti o meno nicotina, con esclusione di quelli autorizzati all'immissione in commercio come medicinali ai sensi del decreto legislativo 24 aprile 2006, n. 219, sono assoggettati a imposta di consumo nella stessa misura prevista dall'articolo 39-terdecies, comma 3, per i prodotti di cui all'articolo 39-bis, comma 1, lettera e-bis), nel rispetto del criterio di equivalenza ivi previsto. Con provvedimento dell'Agenzia delle dogane e dei monopoli e' indicata la misura dell'imposta di consumo, determinata ai sensi del presente comma. Entro il 1° marzo di ogni anno, con provvedimento dell'Agenzia delle dogane e dei monopoli e' rideterminata, per i prodotti di cui al presente comma, la misura dell'imposta di consumo in riferimento alla variazione del prezzo medio ponderato delle sigarette.
 
+2.
+                        
+                            
+                                Sono obbligati al pagamento dell'imposta di cui al comma 1: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il fabbricante, per i prodotti ottenuti nel territorio nazionale; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il soggetto cedente che adempie al medesimo pagamento e agli obblighi previsti dal presente articolo: 
+ 1) per i prodotti provenienti da uno Stato dell'Unione europea, direttamente, se il medesimo soggetto cedente ha sede nel territorio nazionale; 
+ 2) per i prodotti provenienti da un altro Stato dell'Unione europea, per il tramite di un rappresentante fiscale, se il medesimo soggetto cedente non ha sede nel territorio nazionale; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    l'importatore, per i prodotti provenienti da Paesi terzi.
+
 I soggetti di cui al comma 2, lettere a) e b), numero 1), sono preventivamente autorizzati dall'Agenzia delle dogane e dei monopoli all'istituzione e alla gestione di un deposito in cui, rispettivamente, sono realizzati o introdotti i prodotti di cui al comma 1. A tal fine, i medesimi soggetti presentano all'Agenzia, esclusivamente in forma telematica, un'istanza in cui indicano, oltre ai propri dati identificativi, il possesso dei requisiti per la gestione dei depositi fiscali di tabacchi lavorati stabiliti dall'articolo 3 del regolamento di cui al decreto del Ministro delle finanze 22 febbraio 1999, n. 67, l'ubicazione del deposito in cui si intende fabbricare o introdurre i prodotti di cui al comma 1, la denominazione e il contenuto dei prodotti di cui al medesimo comma 1 che si intende realizzare o immettere in consumo nel territorio nazionale, la quantita' di prodotto presente in ciascuna confezione destinata alla vendita al pubblico nonche' gli altri elementi informativi previsti dall'articolo 6 del codice del consumo, di cui al decreto legislativo 6 settembre 2005, n. 206.
 
 Il rappresentante fiscale di cui al comma 2, lettera b), numero 2), designato dal soggetto cedente di cui al medesimo comma 2, lettera b), numero 2), e' preventivamente autorizzato dall'Agenzia delle dogane e dei monopoli. A tale fine il medesimo rappresentante presenta all'Agenzia un'istanza, in forma telematica, in cui indica i propri dati identificativi e quelli del predetto soggetto cedente, il possesso dei requisiti per la gestione dei depositi fiscali di tabacchi lavorati stabiliti dall'articolo 3 del regolamento di cui al decreto del Ministro delle finanze 22 febbraio 1999, n. 67, la denominazione e il contenuto dei prodotti di cui al comma 1 provenienti da altri Stati dell'Unione europea che si intende immettere in consumo nel territorio nazionale, la quantita' di prodotto presente in ciascuna confezione destinata alla vendita al pubblico nonche' gli altri elementi informativi previsti dall'articolo 6 del codice del consumo, di cui al decreto legislativo 6 settembre 2005, n. 206.
@@ -2323,6 +4546,24 @@ Per i prodotti di cui al comma 1 provenienti da Paesi terzi, l'imposta di cui al
 
 I prodotti di cui al comma 1 destinati a essere immessi in consumo nel territorio nazionale sono inseriti, su istanza dei soggetti di cui al comma 2, in una specifica tabella di commercializzazione; nella medesima istanza e' indicata la denominazione e il contenuto dei medesimi prodotti. L'inserimento dei prodotti di cui al presente comma nella tabella di commercializzazione e' effettuato solo per i prodotti di cui e' consentita la vendita per il consumo nel territorio nazionale.
 
+12.
+                        
+                            
+                                L'immissione in consumo per i prodotti di cui al comma 1 si verifica: 
+ 
+                            
+                            
+                                a)
+                                
+                                    all'atto della cessione degli stessi alle rivendite di cui al comma 16; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    all'atto della definitiva importazione per i prodotti di cui al comma 1 provenienti da Stati non appartenenti all'Unione europea.
+
 Per i prodotti di cui al comma 1 si applicano, per la presentazione e la vendita, i requisiti di cui all'articolo 21, comma 6, lettera c), del decreto legislativo 12 gennaio 2016, n. 6, nonche' le disposizioni di cui ai commi 9 e 10 dell'articolo 21 del medesimo decreto; trovano altresi' applicazione, per la riduzione dell'offerta e la tutela dei minori, le disposizioni di cui all'articolo 24 del medesimo decreto legislativo. La commercializzazione dei prodotti di cui al comma 1 e' soggetta alla vigilanza dell'Agenzia delle dogane e dei monopoli ai sensi delle disposizioni di cui all'articolo 18, per quanto applicabili.
 
 Il trasferimento dei prodotti di cui al comma 1 nella fase antecedente alla loro immissione in consumo e' consentito esclusivamente dal deposito del soggetto di cui al comma 2, lettera a), al deposito del soggetto di cui al comma 2, lettera b), numero 1).
@@ -2332,6 +4573,52 @@ La circolazione e la vendita dei prodotti di cui al comma 1 e' legittimata media
 La vendita dei prodotti di cui al comma 1 ai consumatori finali e' effettuata in via esclusiva per il tramite delle rivendite di cui all'articolo 16 della legge 22 dicembre 1957, n. 1293. E' vietata la vendita a distanza, anche transfrontaliera, dei prodotti di cui al comma 1.
 
 Le disposizioni di cui all'articolo 62-quater, commi 7-bis, 7-bis.1, 7-bis.2 e 7-bis.3, trovano applicazione anche per i prodotti di cui al comma 1 utilizzando i medesimi criteri di equivalenza ivi previsti.
+
+18.
+                        
+                            
+                                Con determinazioni del direttore dell'Agenzia delle dogane e dei monopoli, adottate entro novanta giorni dalla data di entrata in vigore delle previsioni di cui al presente articolo, sono stabiliti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il contenuto e le modalita' di presentazione dell'istanza ai fini dell'autorizzazione di cui ai commi 3, 4 e 5; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il contenuto e le modalita' di presentazione della richiesta di inserimento dei prodotti di cui al comma 1 nella tabella di commercializzazione di cui al comma 11; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    le modalita' per l'approvvigionamento dei contrassegni di legittimazione di cui al comma 15; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    le modalita' di tenuta dei registri e documenti contabili; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    le modalita' attuative delle disposizioni in materia di prestazione delle cauzioni di cui al comma 6; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    la documentazione di accompagnamento e le modalita' per la circolazione dei prodotti di cui al comma 1 nella fase antecedente alla loro immissione in consumo.
 
 ))
 
@@ -2372,6 +4659,64 @@ del D.L.Lgt. 26 aprile 1945, n. 223 - Art. 7 D.L. n. 707/1949 (*)
  Licenze di esercizio e diritti annuali
 
 Le licenze di esercizio previste dal presente testo unico sono rilasciate dall'((Ufficio dell'Agenzia delle dogane)), competente per territorio, prima dell'inizio dell'attivita' degli impianti cui si riferiscono ed hanno validita' illimitata. Fatte salve le disposizioni previste per i singoli tributi, la licenza viene revocata quando vengono a mancare i presupposti per l'esercizio dell'impianto.
+
+2.
+                        
+                            
+                                Le licenze di esercizio sono soggette al pagamento di un diritto annuale nella seguente misura:
+ 
+                            
+                            
+                                a)
+                                
+                                    depositi fiscali (fabbriche ed impianti di lavorazione, di trattamento e di condizionamento): ((258,23 euro));
+
+                                
+                            
+                            
+                                b)
+                                
+                                    depositi fiscali (impianti di produzione di vino e di bevande fermentate diverse dal vino e dalla birra, depositi): ((103,29 euro));
+
+                                
+                            
+                            
+                                c)
+                                
+                                    depositi per uso commerciale di prodotti petroliferi, gia' assoggettati ad accisa, e di prodotti petroliferi denaturati: ((51,64 euro));
+
+                                
+                            
+                            
+                                d)
+                                
+                                    impianti di produzione su base forfettaria, di trasformazione, di condizionamento, di alcole e di prodotti alcolici, depositi di alcole denaturato e depositi di alcole non denaturato, assoggettato od esente da accisa: ((51,64 euro));
+
+                                
+                            
+                            
+                                e)
+                                
+                                    esercizi di vendita di prodotti alcolici: ((33,57 euro)). Il diritto annuale di cui alla lettera a) e' dovuto anche dai soggetti obbligati al pagamento dell'imposta di consumo disciplinata dall'art.
+61. Il diritto annuale di cui alla lettera c) e' dovuto per l'esercizio dei depositi commerciali dei prodotti assoggettati all'imposizione di cui all'articolo 61. La licenza relativa ai depositi di cui alla lettera c) viene rilasciata anche per gli impianti che custodiscono i prodotti soggetti alla disciplina prevista dal decreto-legge 8 ottobre 1976, n. 691, convertito, con modificazioni, dalla legge 30 novembre 1976, n. 786. (7)
+
+3.
+                        
+                            
+                                Nel settore dell'imposta di consumo sull'energia elettrica, le licenze di esercizio sono soggette al pagamento di un diritto annuale nella seguente misura:
+ 
+                            
+                            
+                                a)
+                                
+                                    officine di produzione, cabine e punti di presa, per uso proprio, di un solo stabilimento della ditta esercente e officine di produzione ed acquirenti che rivendono in blocco l'energia prodotta od acquistata ad altri fabbricanti: ((23,24 euro));
+
+                                
+                            
+                            
+                                b)
+                                
+                                    officine di produzione, cabine e punti di presa a scopo commerciale: ((77,47 euro)).
 
 Il diritto annuale di licenza deve essere versato nel periodo dal dal 1° al 16 dicembre dell'anno che precede quello cui si riferisce e per gli impianti di nuova costituzione o che cambiano titolare, prima del rilascio della licenza. L'esercente che non versa il diritto di licenza entro il termine stabilito e' punito con la sanzione amministrativa da una a tre volte l'importo del diritto stesso.
 
@@ -2428,4 +4773,123 @@ Norme di esecuzione e disposizioni transitorie
  8. I nuovi adempimenti derivanti dalle disposizioni del presente testo unico, qualora non sia stato stabilito un termine diverso, sono eseguiti entro 180 giorni dalla data di entrata in vigore del testo unico medesimo.
 
 ## Art. 68. — Disposizioni finali
+
+1.
+                        
+                            
+                                Sono abrogati i provvedimenti legislativi e le norme incompatibili con le disposizioni del presente testo unico ed in particolare:
+ 
+                            
+                            
+                                a)
+                                
+                                    il testo unico delle disposizioni di carattere legislativo concernenti l'imposta di fabbricazione sugli spiriti, approvato con decreto del Ministro delle finanze 8 luglio 1924, pubblicato nella Gazzetta Ufficiale n. 195 del 20 agosto 1924, e successive modificazioni;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il testo unico delle disposizioni di carattere legislativo concernenti l'imposta di fabbricazione sulla birra, approvato con decreto del Ministro delle finanze 8 luglio 1924, pubblicato nella Gazzetta Ufficiale n. 195 del 20 agosto 1924, e successive modificazioni;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il testo unico delle disposizioni di carattere legislativo concernenti l'imposta di consumo sull'energia elettrica, approvato dal decreto del Ministro delle finanze 8 luglio 1924, pubblicato nella Gazzetta Ufficiale n. 195 del 20 agosto 1924, e successive modificazioni;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    il regio decreto-legge 2 febbraio 1933, n. 23, convertito dalla legge 3 aprile 1933, n. 353, contenente misure per ostacolare lo spaccio di alcole di contrabbando, e successive modificazioni;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    il regio decreto-legge 27 aprile 1936, n. 635, convertito dalla legge 8 aprile 1937, n. 594, concernente modificazioni al regime fiscale degli spiriti e nuovo assetto della loro produzione e del loro impiego, e successive modificazioni;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    il regio decreto-legge 1 marzo 1937, n. 226, convertito, con modificazioni, dalla legge 17 giugno 1937, n. 1004, concernente modificazioni al regime fiscale dell'alcole impiegato nella preparazione del marsala, del vermut, dei liquori, del cognac e di altri prodotti alcolici, e successive modificazioni;
+
+                                
+                            
+                            
+                                g)
+                                
+                                    il regio decreto-legge 28 febbraio 1939, n. 334, convertito dalla legge 2 giugno 1939, n. 739, concernente l'istituzione di una imposta di fabbricazione sugli ((prodotti energetici)) e sui prodotti della loro lavorazione, e successive modificazioni;
+
+                                
+                            
+                            
+                                h)
+                                
+                                    il decreto legislativo luogotenenziale 26 aprile 1945, n. 223, contenente, fra l'altro, modificazioni al regime fiscale degli spiriti, all'imposta di consumo sull'energia elettrica, e successive modificazioni;
+
+                                
+                            
+                            
+                                i)
+                                
+                                    il decreto legislativo del Capo provvisorio dello Stato 11 aprile 1947, n. 226, e le successive modificazioni di cui al decreto-legge 6 ottobre 1948, n. 1199, convertito dalla legge 3 dicembre 1948, n. 1387, alla legge 31 ottobre 1966, n. 940, al decreto-legge 30 agosto 1968, n. 918, convertito, con modificazioni, dalla legge 25 ottobre 1968, n. 1089, alla legge 17 luglio 1975, n. 391, alla legge 27 aprile 1981, n. 160, al decreto-legge 30 maggio 1988, n. 173, convertito, con modificazioni, dalla legge 26 luglio 1988, n. 291, al decreto-legge 13 maggio 1991, n. 151, convertito, con modificazioni, dalla legge 12 luglio 1991, n. 202, concernenti modificazioni all'imposta sul consumo dell'energia elettrica;
+
+                                
+                            
+                            
+                                l)
+                                
+                                    il decreto-legge 24 novembre 1954, n. 1071, convertito dalla legge 10 dicembre 1954, n. 1167 e legge 11 giugno 1959, n. 405, concernenti l'istituzione di una imposta di fabbricazione sui gas incondensabili delle raffinerie resi liquidi con la compressione;
+
+                                
+                            
+                            
+                                m)
+                                
+                                    il decreto-legge 5 maggio 1957, n. 271, convertito, con modificazioni, dalla legge 2 luglio 1957, n. 474, contenente disposizioni per la prevenzione e la repressione delle frodi nel settore degli ((prodotti energetici)), e successive modificazioni;
+
+                                
+                            
+                            
+                                n)
+                                
+                                    la legge 31 dicembre 1962, n. 1852, contenente modificazioni al regime fiscale dei prodotti petroliferi;
+
+                                
+                            
+                            
+                                o)
+                                
+                                    il decreto del Presidente della Repubblica 29 aprile 1975, n. 232, contenente norme in materia di imposta di fabbricazione sui prodotti petroliferi, e successive modificazioni;
+
+                                
+                            
+                            
+                                p)
+                                
+                                    il decreto-legge 18 marzo 1976, n. 46, convertito, con modificazioni, dalla legge 10 maggio 1976, n. 249, e decreto-legge 7 febbraio 1977, n. 15, convertito, con modificazioni, dalla legge 7 aprile 1977, n. 102, contenenti disposizioni per l'imposta di consumo sul ((gas naturale)), e successive modificazioni;
+
+                                
+                            
+                            
+                                q)
+                                
+                                    la legge 2 agosto 1982, n. 513, concernente, fra l'altro, la disciplina fiscale delle miscele di idrocarburi e dei liquidi combustibili ottenuti dal trattamento dei rifiuti industriali o urbani;
+
+                                
+                            
+                            
+                                r)
+                                
+                                    le disposizioni di cui agli articoli 10, 11, 12, 13, 14, 15, 16 e 17 del decreto-legge 30 settembre 1982, n. 688, convertito, con modificazioni, dalla legge 27 novembre 1982, n. 873.
+
+ Visto, il Presidente del Consiglio dei Ministri DINI
+ Visto, il Ministro delle finanze FANTOZZI
 

@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Regolamenti governativi
 vigenza_date: 2011-01-07
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:16Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -43,6 +43,53 @@ Ai fini dell'applicazione delle disposizioni del presente regolamento, si intend
 
 ## Art. 2. — Documentazione
 
+1.
+                    
+                        
+                            Alla domanda devono essere allegati i seguenti documenti:
+ 
+                        
+                        
+                            a)
+                            
+                                dichiarazione sostitutiva di atto di notorieta' a firma del titolare o del legale rappresentante dell'impresa, ai sensi dell'articolo 4 della legge 4 gennaio 1968, n. 15, da cui risulti:
+ 1) la sede legale e operativa dell'impresa;
+ 2) il giornalista direttore responsabile della testata con l'indicazione della qualifica rivestita;
+ 3) il proprietario della testata, nel caso che lo stesso sia diverso dalla persona fisica o dalla societa' che esercita l'impresa;
+ 4) le ore di trasmissione quotidiane effettuate in media nell'anno di riferimento dei contributi tra le ore 7 e le ore 23;
+ 5) estremi di iscrizione al Registro delle imprese radiotelevisive e della concessione per la radiodiffusione televisiva da parte del Ministero delle poste e delle telecomunicazioni;
+ 6) il numero di codice fiscale e di partita IVA dell'impresa;
+ 7) l'autorizzazione alla prosecuzione dell'esercizio degli impianti di radiodiffusione televisiva prevista dall'articolo 32 della legge 6 agosto 1990, n. 223;
+ 8) il periodo di tempo dell'eventuale disattivazione da parte del Ministero delle poste e telecomunicazioni durante il quale l'emittente ha trasmesso immagini fisse o ripetitive;
+
+                            
+                        
+                        
+                            b)
+                            
+                                copia autentica in regola con le disposizioni sul bollo dell'atto costitutivo e dello statuto, nonche' del verbale dell'assemblea che ha proceduto alla nomina degli amministratori e dei sindaci della societa' esercente l'impresa in carica nell'anno oggetto della domanda, ovvero certificato d'iscrizione alla camera di commercio, industria, artigianato e agricoltura della persona fisica che esercita l'impresa;
+
+                            
+                        
+                        
+                            c)
+                            
+                                il palinsesto dei programmi trasmessi reso con dichiarazione sostitutiva di atto di notorieta' a firma del legale rappresentante dell'impresa ai sensi dell'articolo 4 della legge 4 gennaio 1968, n. 15; tale palinsesto deve indicare l'ora di inizio e l'ora della fine di ogni programma con la relativa durata, al netto di ogni interruzione pubblicitaria specificando se trattasi di propri programmi informativi;
+
+                            
+                        
+                        
+                            d)
+                            
+                                certificato in regola con le disposizioni sul bollo rilasciato dal competente tribunale attestante l'iscrizione della testata giornalistica che contraddistingue le trasmissioni dell'emittente;
+
+                            
+                        
+                        
+                            e)
+                            
+                                per le imprese che richiedono il rimborso dell'80% delle spese per l'abbonamento ai servizi di agenzie di informazione a diffusione nazionale o regionale, copia autentica delle fatture relative a tali spese con la documentazione dell'avvenuto pagamento.
+
 Le imprese devono inoltre indicare nella dichiarazione sostitutiva di atto di notorieta' di cui alla lettera a) del comma 1, ai sensi dell'articolo 6, comma 1, della legge 14 agosto 1991, n. 278, le ore di trasmissione di propri programmi informativi su avvenimenti politici, religiosi, economici, sociali, sindacali o culturali effettuate in media tra le ore 7 e le ore 23 di ogni giorno con l'indicazione della percentuale rappresentata sulle ore di trasmissione effettuate nello stesso arco di tempo.
 
 Per le domande successive alla prima, sempre che non siano intervenute variazioni, e' consentito far riferimento ai documenti presentati precedentemente.
@@ -72,13 +119,116 @@ A cura dell'Ufficio per l'editoria e la stampa del Dipartimento per l'informazio
 
 Ai fini dell'applicazione del presente regolamento, fatte salve le norme previste per le agenzie di stampa, le agenzie di informazione a diffusione nazionale sono equiparate alle agenzie di informazione radiofonica nazionale di cui all'articolo 11 della legge 7 agosto 1990, n. 250.
 
+2.
+                    
+                        
+                            Il rimborso previsto dall'articolo 11, comma 1, lettera b), della legge 25 febbraio 1987, n. 67, come sostituito dall'articolo 7 della legge 7 agosto 1990, n. 250, e dall'articolo 7 del decreto-legge 27 agosto 1993, n. 323, convertito, con modificazioni, dalla legge 27 ottobre 1993, n. 422, puo' essere effettuato in favore delle imprese di radiodiffusione televisiva in relazione all'importo delle spese di abbonamento ad agenzie di informazione a diffusione regionale in possesso dei seguenti requisiti:
+ 
+                        
+                        
+                            a)
+                            
+                                siano dotate di una struttura redazionale adeguata a consentire una autonoma produzione di servizi e notiziari su avvenimenti di ambito locale e regionale relativamente al territorio servito dalle emittenti abbonate e comunque per un bacino di utenza non inferiore a quello regionale;
+
+                            
+                        
+                        
+                            b)
+                            
+                                siano collegate in abbonamento con non meno di sette emittenti operanti nella stessa regione o in regioni limitrofe per le agenzie che effettuano servizi informativi televisivi;
+
+                            
+                        
+                        
+                            c)
+                            
+                                abbiano registrato la testata presso il competente tribunale con la qualifica di agenzia quotidiana di informazione per la stampa o analoga;
+
+                            
+                        
+                        
+                            d)
+                            
+                                emettano notiziari quotidiani o servizi televisivi su avvenimenti di ambito locale e regionale, annualmente in numero non inferiore a 700;
+
+                            
+                        
+                        
+                            e)
+                            
+                                operino da almeno un anno con le caratteristiche descritte alle lettere c) e d).
+
 ## Art. 6. — Comunicazioni delle agenzie di informazione
+
+1.
+                    
+                        
+                            Le agenzie di stampa e di informazione a diffusione nazionale e regionale debbono presentare entro e non oltre il 31 marzo di ogni anno presso l'Ufficio per l'editoria e la stampa del Dipartimento per l'informazione e l'editoria della Presidenza del Consiglio dei Ministri la seguente documentazione:
+ 
+                        
+                        
+                            a)
+                            
+                                certificati previdenziali comprovanti il numero dei giornalisti e degli altri dipendenti occupati nell'anno precedente con un rapporto continuativo di lavoro subordinato e in applicazione di contratti nazionali collettivi di lavoro;
+
+                            
+                        
+                        
+                            b)
+                            
+                                copia autentica dei contratti di abbonamento con le imprese di radiodiffusione televisiva relativi all'anno di riferimento dei contributi;
+
+                            
+                        
+                        
+                            c)
+                            
+                                dichiarazione sostitutiva di atto di notorieta' dalla quale risulti il numero di notiziari quotidiani o dei servizi televisivi emessi nell'anno precedente con l'indicazione della durata complessiva degli stessi;
+
+                            
+                        
+                        
+                            d)
+                            
+                                dichiarazione sostitutiva di atto di notorieta' attestante le tariffe di abbonamento praticate nell'anno precedente;
+
+                            
+                        
+                        
+                            e)
+                            
+                                il numero di codice fiscale e di partita IVA dell'impresa;
+
+                            
+                        
+                        
+                            f)
+                            
+                                certificato in bollo rilasciato dal competente tribunale attestante l'iscrizione della testata giornalistica.
 
 I rimborsi sono effettuati solo per gli abbonamenti contratti con le agenzie che abbiano depositato la documentazione sopra indicata.
 
 ## Art. 7. — Rimborso riduzioni tariffarie
 
 A cura del Dipartimento per l'informazione e l'editoria della Presidenza del Consiglio dei Ministri e' corrisposto ai gestori competenti all'applicazione delle tariffe, il rimborso delle riduzioni tariffarie sui consumi di energia elettrica e sui canoni di noleggio e abbonamento ai servizi di telecomunicazione di qualsiasi tipo compresi i sistemi via satellite, concesse alle imprese televisive. Nella domanda di rimborso, riferita alle riduzioni applicate a ciascuna impresa televisiva, devono essere specificate le voci dei consumi da rimborsare, sia a tariffa intera che al 50%, relative all'energia attiva, al corrispettivo di potenza compreso il sovrapprezzo termico e alla quota fissa, con esclusione delle imposte.
+
+2.
+                    
+                        
+                            Alle domande degli organismi competenti all'applicazione delle tariffe riguardanti gli anni precedenti alla data di entrata in vigore del presente regolamento devono essere allegate per ciascuna impresa le copie autenticate dal responsabile della societa' erogante delle note di liquidazione alla singola impresa nella quale devono essere indicate:
+ 
+                        
+                        
+                            a)
+                            
+                                il numero d'utenza ed eventuali variazioni intervenute;
+
+                            
+                        
+                        
+                            b)
+                            
+                                la somma rimborsata.
 
 Per le richieste degli organismi competenti all'applicazione delle tariffe che si riferiscono alle domande redatte ai sensi dell'articolo 4, comma 2, del presente regolamento, che prevede che le riduzioni possano essere direttamente applicate in bolletta, deve essere allegato per ciascuna impresa televisiva il riepilogo dei minori introiti per l'anno di riferimento con le relative bollette.
 

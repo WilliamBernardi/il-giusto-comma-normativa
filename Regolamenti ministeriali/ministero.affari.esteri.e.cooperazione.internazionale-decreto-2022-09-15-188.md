@@ -8,8 +8,8 @@ vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
 vigenza_date: 2024-04-04
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:40Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -39,6 +39,38 @@ Udito il parere del Consiglio di Stato, espresso dalla sezione consultiva per gl
 
 ## Art. 1. — Definizioni
 
+1.
+                    
+                        
+                            Ai fini del presente regolamento si intende per: 
+ 
+                        
+                        
+                            a)
+                            
+                                «Codice», il decreto legislativo ((31 marzo 2023, n. 36)), recante «Codice dei contratti pubblici» ((in attuazione dell'articolo 1 della legge 21 giugno 2022, n. 78, recante delega al Governo in materia di contratti pubblici)); 
+
+                            
+                        
+                        
+                            b)
+                            
+                                «RUO», il responsabile dell'unita' organizzativa, che agisce come stazione appaltante; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                «RUP», il responsabile unico del ((progetto)); 
+
+                            
+                        
+                        
+                            d)
+                            
+                                «Ministero», il Ministero degli affari esteri e della cooperazione internazionale.
+
 ## Art. 2. — Oggetto e ambito di applicazione
 
 Il presente regolamento disciplina la ripartizione delle risorse da destinare agli incentivi per lo svolgimento di funzioni tecniche di cui all'articolo ((45 del Codice e all'allegato I.10 al Codice)).
@@ -61,11 +93,107 @@ Fermo restando quanto previsto dal comma 6, sono esclusi gli incentivi ((per le 
 
 ## Art. 3. — Misura degli incentivi
 
+1.
+                    
+                        
+                            Gli incentivi per le funzioni tecniche di cui ((all'allegato I.10 al Codice)) sono costituiti da una quota non superiore al 2 per cento dell'importo dei lavori, servizi e forniture posti a base ((della)) procedura di scelta del contraente, al netto dell'IVA, secondo i seguenti scaglioni e relative aliquote: 
+ 
+                        
+                        
+                            a)
+                            
+                                2 per cento, per importi fino a cinque milioni di euro; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                1,8 per cento, per la parte di importo eccedente cinque milioni di euro e fino a dieci milioni di euro; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                1,5 per cento, per la parte di importo eccedente dieci milioni di euro e fino a venti milioni di euro; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                1 per cento, per la parte di importo eccedente venti milioni di euro.
+
 Ai sensi all'articolo ((45)), comma 1, del Codice, le somme di cui al comma 1 del presente articolo sono previste nell'ambito del quadro economico del progetto ((...)) posto a base della procedura di scelta del contraente. Tali somme sono ricomprese, con specifica clausola, nell'impegno di spesa attinente al relativo contratto e fanno capo al medesimo capitolo di spesa previsto per i singoli lavori, servizi e forniture.
 
 Nel rispetto dell'articolo ((45, comma 3)), primo periodo, del Codice, l'80 per cento delle risorse di cui al comma 1 e' ripartito per ciascuna opera o lavoro, servizio o fornitura, tra il ((RUP)) e i soggetti che svolgono le funzioni tecniche indicate all'articolo ((allegato I.10 al Codice)), nonche' tra i loro collaboratori. Ai sensi dell'articolo ((45, comma 3)), secondo periodo, del Codice, gli importi sono comprensivi degli oneri previdenziali e assistenziali a carico del Ministero.
 
 ((
+
+4.
+                    
+                        
+                            Le percentuali degli incentivi attribuibili per le funzioni tecniche di cui all'articolo 45 del Codice, svolte nell'ambito di contratti di lavori, sono determinate come segue: 
+ 
+                        
+                        
+                            a)
+                            
+                                30 per cento, da ripartire tra il RUP e il personale tecnico e amministrativo di supporto; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                15 per cento, da ripartire tra gli incaricati della verifica dei progetti, della programmazione della spesa per investimenti, della predisposizione dei documenti di affidamento diretto; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                15 per cento, da ripartire tra il progettista, il responsabile del coordinamento per la sicurezza in fase di progettazione e il personale tecnico assistente; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                25 per cento, da ripartire tra il direttore dei lavori, il responsabile del coordinamento per la sicurezza in fase di esecuzione e il personale tecnico assistente; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                15 per cento, da ripartire tra gli incaricati del collaudo tecnico-amministrativo e il collaudatore statico.
+
+5.
+                    
+                        
+                            Le percentuali degli incentivi attribuibili per le funzioni tecniche di cui all'articolo 45 del Codice, svolte nell'ambito di contratti di servizi e forniture, sono determinate come segue: 
+ 
+                        
+                        
+                            a)
+                            
+                                40 per cento, da ripartire tra il RUP e il personale tecnico e amministrativo di supporto; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                20 per cento, da ripartire tra gli incaricati della programmazione della spesa per investimenti e gli incaricati della predisposizione dei documenti della procedura di affidamento; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                40 per cento, da ripartire tra il direttore dell'esecuzione contrattuale e i collaboratori, nonche' l'incaricato della verifica di conformita'.
 
 ))
 
@@ -112,6 +240,78 @@ La determinazione degli importi spettanti al personale incaricato avviene con pr
 
 La liquidazione puo' essere corrisposta anche in corrispondenza dei certificati di pagamento emessi sulla base degli stati di avanzamento lavori. Per i servizi e le forniture la liquidazione puo' essere corrisposta in concomitanza dell'emissione dei certificati di pagamento prodotti a seguito delle verifiche periodiche di conformita' o di regolare esecuzione.
 
+3.
+                    
+                        
+                            Le prestazioni sono da considerarsi rese: 
+ 
+                        
+                        
+                            a)
+                            
+                                per la direzione lavori ((e il coordinamento per la sicurezza in fase di esecuzione)), con l'emissione del certificato di ultimazione lavori; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                per il collaudo tecnico amministrativo, con l'emissione del certificato di collaudo finale; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                per la programmazione della spesa per investimenti, con l'emanazione del relativo provvedimento; 
+
+                            
+                        
+                        
+                            c-bis)
+                            
+                                per la progettazione, con il provvedimento di validazione; 
+
+                            
+                        
+                        
+                            c-ter)
+                            
+                                per le attivita' di RUP, in proporzione, in coincidenza delle liquidazioni delle prestazioni di cui alle lettere diverse dalla presente; 
+
+                            
+                        
+                        
+                            c-quater)
+                            
+                                per le attivita' di collaboratore del RUP, del direttore dell'esecuzione e del direttore dei lavori, in coincidenza con la liquidazione delle prestazioni rispettivamente del RUP, del direttore dell'esecuzione e del direttore dei lavori;
+                            
+                        
+                        
+                            d)
+                            
+                                per la verifica dei progetti, con l'invio al ((RUP)) della relazione finale di verifica; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                per la predisposizione dei documenti della procedura di affidamento, con la pubblicazione del bando o, se non e' prevista la pubblicazione, con la trasmissione dell'invito e con l'atto di affidamento nelle procedure di affidamento diretto;
+                            
+                        
+                        
+                            f)
+                            
+                                per l'esecuzione dei contratti in caso di forniture e servizi, con l'espletamento delle verifiche periodiche; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                per le verifiche di conformita', con l'emissione della certificazione di regolare esecuzione.
+
 Nel caso in cui a uno stesso dipendente siano affidati, nell'ambito della medesima opera o lavoro, piu' incarichi tecnici, la quota dell'incentivo spettante e' pari alla somma delle quote relative alle singole prestazioni svolte, nei limiti di cui al comma 6.
 
 In caso di cessazione dell'incarico per motivazioni diverse da quelle di cui agli articoli 8 e 9, l'incentivo spettante e' liquidato in proporzione alle attivita' effettivamente svolte.
@@ -133,6 +333,24 @@ L'incarico e' revocato e non e' corrisposto alcun incentivo, qualora il ritardo 
 ## Art. 9.
 
 Altre ipotesi di responsabilita'
+
+1.
+                    
+                        
+                            L'incarico e' revocato e non e' corrisposto alcun incentivo al soggetto incaricato che, nello svolgimento dei compiti assegnati per l'esecuzione di funzioni tecniche, risulti responsabile di: 
+ 
+                        
+                        
+                            a)
+                            
+                                violazioni degli obblighi previsti dalla legge, dalla contrattazione collettiva di lavoro e dal codice di comportamento; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                errori, omissioni o negligenze, non ricompresi nei casi di cui alla lettera a), tali da determinare aumenti dei costi previsti nel quadro economico o danni per il Ministero.
 
 ## Art. 10.
 
@@ -167,6 +385,24 @@ Il Ministero effettua controlli a campione sul rispetto del limite di cui all'ar
 ))
 
 ## Art. 12. — Disposizioni di coordinamento e finali
+
+1.
+                    
+                        
+                            All'articolo 4 del regolamento, di cui al decreto del Ministro degli affari esteri e della cooperazione internazionale 2 novembre 2017, n. 192, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                alla rubrica, dopo le parole «del procedimento» sono inserite le seguenti «, incentivi per funzioni tecniche»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                dopo il comma 6, e' inserito il seguente: «6-bis. Gli incentivi per le funzioni tecniche al personale non dirigenziale sono disciplinati dall'articolo 113 del decreto legislativo 18 aprile 2016, n. 50 e dal regolamento previsto dal comma 2 del medesimo articolo.».
 
 Il Ministero effettua un periodico monitoraggio e promuove verifiche sulla corretta applicazione del regolamento.
 

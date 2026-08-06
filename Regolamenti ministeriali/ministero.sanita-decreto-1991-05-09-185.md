@@ -8,8 +8,8 @@ codice_redazionale: 091G0227
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:39Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -28,6 +28,59 @@ DELL'AGRICOLTURA E DELLE FORESTE
 Udito il parere del Consiglio di Stato espresso nell'adunanza generale del 4 aprile 1991;
 
 ## Art. 1. — Requisiti generali
+
+1.
+                    
+                        
+                            Il latte crudo destinato ad essere utilizzato per la produzione di "latte fresco pastorizzato di alta qualita'" deve rispondere ai seguenti requisiti:
+ 
+                        
+                        
+                            a)
+                            
+                                provenire da vacche che soddisfino le condizioni generali prescritte per la produzione del latte utilizzato come latte alimentare e che appartengano ad allevamenti riconosciuti ufficialmente indenni da tubercolosi e da brucellosi;
+
+                            
+                        
+                        
+                            b)
+                            
+                                provenire da aziende di produzione debitamente autorizzate che soddisfino le condizioni generali di igiene riportate nell'allegato 1 del presente regolamento;
+
+                            
+                        
+                        
+                            c)
+                            
+                                provenire da vacche e da aziende di produzione controllate periodicamente dal servizio veterinario della competente unita' sanitaria locale;
+
+                            
+                        
+                        
+                            d)
+                            
+                                oltre ad ottemperare alle prescrizioni relative all'igiene della mungitura, della raccolta, della manipolazione e del trasporto del latte crudo destinato alla produzione di latte alimentare trattato termicamente nonche' all'igiene del personale preposto a tali operazioni, essere, appena munto, immediatamente filtrato e refrigerato nell'apposito locale alla temperatura massima di + 6 C ed essere ivi conservato a tale temperatura o inferiore in attesa del trasferimento direttamente allo stabilimento di trattamento termico;
+
+                            
+                        
+                        
+                            e)
+                            
+                                non aver subito alcuna addizione ne' alcuna sottrazione nei componenti naturali;
+
+                            
+                        
+                        
+                            f)
+                            
+                                soddisfare ai requisiti di composizione ed igienico-sanitari riportati nell'allegato 2 del presente regolamento;
+
+                            
+                        
+                        
+                            g)
+                            
+                                essere conservato e trattato separatamente o in un momento diverso dal normale latte alimentare presso lo stabilimento di trattamento termico destinatario e annotato in un registro di carico e scarico, vidimato dalla autorita' locale competente, dal quale risulti il quantitativo giornaliero di latte in arrivo, l'azienda di produzione di provenienza ed il quantitativo lavorato.
 
 ## Art. 2. — C o n t r o l l i
 
@@ -53,6 +106,31 @@ Nel caso in cui si constati, a seguito dei controlli analitici effettuati second
 Il latte crudo di cui al precedente comma 1, tuttavia, ove compatibile, puo' essere destinato alla produzione di latte alimentare trattato termicamente.
 
 ## Art. 4. — Norme transitorie
+
+1.
+                    
+                        
+                            In deroga a quanto previsto al precedente art. 1, lettere a) e f), e' consentito fino al 31 dicembre 1992:
+ 
+                        
+                        
+                            a)
+                            
+                                la provenienza del latte crudo da vacche appartenenti ad allevamenti ufficialmente indenni da tubercolosi ed indenni da brucellosi;
+
+                            
+                        
+                        
+                            b)
+                            
+                                la produzione di latte crudo con tenore di materia grassa non inferiore al 3,40% e con tenore di materia proteica non inferiore a 31,0 g/l;
+
+                            
+                        
+                        
+                            c)
+                            
+                                la produzione di latte crudo avente un tenore in germi a + 30 C per ml non superiore a 100.000 presso l'azienda di produzione e non superiore a 300.000 al momento dell'introduzione nello stabilimento di trattamento termico.
 
 ## Art. 5. — A l l e g a t i
 

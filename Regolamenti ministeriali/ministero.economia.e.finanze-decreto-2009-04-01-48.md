@@ -8,8 +8,8 @@ codice_redazionale: 009G0057
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:39Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -22,6 +22,38 @@ Entrata in vigore del provvedimento: 30/5/2009
 Udito il parere del Consiglio di' Stato espresso dalla sezione consultiva per gli atti normativi nell'adunanza del 19 gennaio 2009;
 
 ## Art. 1. — Definizioni
+
+1.
+                    
+                        
+                            Ai fini dell'applicazione della disciplina contenuta nell'articolo 1, commi da 58 a 61, della legge 24 dicembre 2007, n. 244 e nel presente regolamento, si intendono per:
+ 
+                        
+                        
+                            a)
+                            
+                                IAS: i principi contabili internazionali di cui al regolamento (CE) n. 1606 del Parlamento europeo e del Consiglio del 19 luglio 2002;
+
+                            
+                        
+                        
+                            b)
+                            
+                                soggetti IAS: i soggetti che redigono il bilancio d'esercizio in base ai principi contabili internazionali di cui al regolamento (CE) n. 1606 del Parlamento europeo e del Consiglio del 19 luglio 2002;
+
+                            
+                        
+                        
+                            c)
+                            
+                                finanziaria 2008: la legge 24 dicembre 2007, n. 244;
+
+                            
+                        
+                        
+                            d)
+                            
+                                testo unico: il testo unico delle imposte sui redditi, approvato con decreto del Presidente della Repubblica 22 dicembre 1986, n. 917.
 
 ## Art. 2. — Criteri di qualificazione, imputazione temporale
  e classificazione in bilancio previsti dagli IAS
@@ -43,11 +75,47 @@ Il riconoscimento ai fini fiscali dei criteri di qualificazione, imputazione tem
 
 Nel caso di operazioni tra soggetti che redigono il bilancio in base agli IAS e soggetti che non li applicano la rilevazione e il trattamento ai fini fiscali di tali operazioni sono determinati, per ciascuno dei predetti soggetti, sulla base della corretta applicazione dei principi contabili da essi adottati. Analogo principio si applica nel caso di operazioni in cui entrambi i soggetti applicano gli IAS anche quando siano utilizzati differenti criteri di iscrizione e di cancellazione dal bilancio di' attivita' e passivita'.
 
+3.
+                    
+                        
+                            Fermi restando i criteri di imputazione temporale previsti dagli IAS eventualmente applicati, il regime fiscale e' individuato sulla base della natura giuridica delle operazioni nei seguenti casi:
+ 
+                        
+                        
+                            a)
+                            
+                                quando oggetto delle operazioni di cui sopra siano i titoli di cui all'articolo 85, comma 1, lettere c) e d) del testo unico, anche costituenti immobilizzazioni finanziarie, con esclusione delle azioni proprie e degli altri strumenti rappresentativi del patrimonio proprio; oppure
+
+                            
+                        
+                        
+                            b)
+                            
+                                quando si tratti di individuare il soggetto cui spetta l'attribuzione di ritenute o di crediti d'imposta.
+
 Si applica, in ogni caso, l'articolo 89, comma 6, del testo unico con riferimento agli interessi, dividendi ed altri proventi derivanti da titoli acquisiti, sotto il profilo giuridico, in base ai rapporti di cui alle lettere g-bis) e g-ter) dell'articolo 44, comma 1, del testo unico.
 
 ## Art. 4. — Operazioni di riorganizzazione aziendale
 
 I costi accessori all'aggregazione aziendale, come definiti dagli IAS, costituiscono, in ogni caso, costi fiscalmente deducibili.
+
+2.
+                    
+                        
+                            Per i soggetti che, per effetto degli IAS, applicano il metodo dell'acquisto, con riferimento a quanto previsto negli articoli 172 e 173 del testo unico:
+ 
+                        
+                        
+                            a)
+                            
+                                in luogo del disavanzo da fusione o scissione, si ha riguardo alla differenza positiva tra il valore complessivo del patrimonio aziendale acquisito, come iscritto nel bilancio della societa' acquirente, e il patrimonio netto dell'entita' acquisita;
+
+                            
+                        
+                        
+                            b)
+                            
+                                le disposizioni di cui all'articolo 172, commi 5 e 6, del testo unico, si applicano con riferimento all'aumento di patrimonio netto della societa' acquirente.
 
 Per le operazioni di cessione di azienda ovvero di partecipazioni rileva il regime fiscale disposto dal testo unico, anche ove dalla rappresentazione in bilancio non emergano i relativi componenti positivi e negativi o attivita' e passivita' fiscalmente rilevanti.
 

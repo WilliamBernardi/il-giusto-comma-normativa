@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: DPCM
 vigenza_date: 2011-05-11
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:40:12Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DEL CONSIGLIO DEI MINISTRI
@@ -42,9 +42,159 @@ Entro il 1o marzo di ogni anno l'Agenzia trasmette al Presidente del Consiglio d
 
 ## Art. 3. — Attribuzioni
 
+1.
+                    
+                        
+                            Nell'esercizio delle attribuzioni di cui all'articolo 3, commi 191 e 192 della legge 23 dicembre 1996, n. 662, l'Agenzia: 
+ 
+                        
+                        
+                            a)
+                            
+                                nell'ambito della normativa vigente, esercita i poteri di indirizzo, promozione, vigilanza e ispezione per la uniforme e corretta osservanza della disciplina legislativa e regolamentare per quanto concerne le organizzazioni non lucrative di utilita' sociale, il terzo settore e gli enti non commerciali, di seguito denominati "organizzazioni, terzo settore e enti"; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                formula osservazioni e proposte in ordine alla normativa delle organizzazioni, del terzo settore e degli enti; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                promuove iniziative di studio e ricerca delle organizzazioni, del terzo settore e degli enti in Italia e all'estero; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                promuove campagne per lo sviluppo e la conoscenza delle organizzazioni, del terzo settore e degli enti in Italia, al fine di promuoverne e diffonderne la conoscenza e di valorizzarne il suo ruolo di promozione civile e sociale; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                promuove azioni di qualificazione degli standard in materia di formazione e di aggiornamento per lo svolgimento delle attivita' delle organizzazioni, del terzo settore e degli enti; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                cura la raccolta, l'aggiornamento ed il monitoraggio dei dati e documenti delle organizzazioni, del terzo settore e degli enti in Italia mediante raccordi operativi con il Ministero degli affari esteri, il Ministero dell'interno, il Ministero dell'economia e delle finanze, il Ministero dello sviluppo economico, il Ministero del lavoro e delle politiche sociali, l'Agenzia delle entrate, il DigitPA, l'Istat e le istituzioni titolari della gestione dei registri afferenti organizzazioni, terzo settore ed enti;
+                            
+                        
+                        
+                            g)
+                            
+                                promuove scambi di conoscenza e forme di collaborazione fra realta' italiane delle organizzazioni, del terzo settore e degli enti con analoghe realta' all'estero; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                segnala alle autorita' competenti i casi nei quali norme di legge o di regolamento determinano distorsioni nell'attivita' delle organizzazioni, del terzo settore e degli enti, formulando proposte di indirizzo ed interpretazione; 
+
+                            
+                        
+                        
+                            i)
+                            
+                                vigila sull'attivita' di sostegno a distanza, di raccolta di fondi e di sollecitazione della fede pubblica, anche attraverso l'impiego di mezzi di comunicazione svolta dalle organizzazioni, dal terzo settore e dagli enti, allo scopo di assicurare la tutela da abusi e le pari opportunita' di accesso ai mezzi di finanziamento;
+                            
+                        
+                        
+                            j)
+                            
+                                elabora proposte sull'organizzazione dell'anagrafe unica delle ONLUS di cui all'articolo 11 del decreto legislativo 4 dicembre 1997, n. 460, tenendo conto dei criteri di iscrizione ai registri degli organismi di volontariato e delle cooperative sociali previsti dalla legge 8 novembre 1991, n. 381, e dei criteri che presiedono al riconoscimento delle organizzazioni non governative di cui alla legge 26 febbraio 1987, n. 49; 
+
+                            
+                        
+                        
+                            k)
+                            
+                                nei casi di scioglimento degli enti o organizzazioni, rende parere vincolante sulla devoluzione del loro patrimonio ai sensi, rispettivamente, degli articoli 10, comma 1, lettera f), del decreto legislativo 4 dicembre 1997, n. 460, e 148, comma 8, lettera b), del testo unico delle imposte sui redditi, approvato con decreto del Presidente della Repubblica 22 dicembre 1986, n. 917 e 4, settimo comma, lettera b), del decreto del Presidente della Repubblica 26 ottobre 1972, n. 633, fatte salve le normative relative a specifiche organizzazioni ed enti. Detto parere deve essere comunicato, contestualmente, alla Presidenza del Consiglio dei Ministri, al Ministero dell'economia e delle finanze e al Ministero del lavoro e delle politiche sociali;
+                            
+                        
+                        
+                            l)
+                            
+                                collabora con il Ministero dell'economia e delle finanze e con l'Agenzia delle entrate, ai fini dell'uniforme applicazione delle norme tributarie, inviando agli stessi e al Ministero del lavoro e delle politiche sociali proposte su fattispecie concrete o astratte riguardanti il regime fiscale delle organizzazioni, terzo settore e enti;
+                            
+                        
+                        
+                            m)
+                            
+                                promuove iniziative di collaborazione, di integrazione e di confronto fra la pubblica amministrazione, con particolare riferimento agli enti locali, e le realta' delle organizzazioni e degli enti. 
+
+                            
+                        
+                        
+                            m-bis)
+                            
+                                nei casi di cessazione dell'impresa sociale, si esprime, su richiesta del Ministero del lavoro e delle politiche sociali, in applicazione di quanto previsto dall'articolo 13, comma 5, del decreto legislativo 24 marzo 2006, n. 155 e dal decreto attuativo del Ministro della solidarieta' sociale 24 gennaio 2008;
+                            
+                        
+                        
+                            m-ter)
+                            
+                                coadiuva e supporta, mediante protocolli d'intesa o accordi di programma, i soggetti istituzionali competenti, quali regioni, enti locali, Camere di commercio, uffici territoriali e altre amministrazioni pubbliche, al fine di armonizzare i criteri di formazione e le modalita' di gestione dei registri di settore;
+
 ## Art. 4. — Relazioni con le pubbliche amministrazioni
 
 Le pubbliche amministrazioni interessate possono sottoporre al parere dell'Agenzia gli atti amministrativi di propria competenza riguardanti le organizzazioni, il terzo settore e gli enti.
+
+2.
+                    
+                        
+                            Le amministrazioni statali sono tenute a richiedere preventivamente il parere dell'Agenzia in relazione a:
+ 
+                        
+                        
+                            a)
+                            
+                                iniziative legislative e di rilevanza generale riguardanti la promozione, l'organizzazione e l'attivita' delle organizzazioni, del terzo settore e degli enti;
+
+                            
+                        
+                        
+                            b)
+                            
+                                individuazione delle categorie delle organizzazioni, del terzo settore e degli enti cui destinare contributi pubblici;
+
+                            
+                        
+                        
+                            c)
+                            
+                                organizzazione dell'anagrafe unica delle ONLUS, di cui all'articolo 11 del decreto legislativo 4 dicembre 1997, n. 460;
+
+                            
+                        
+                        
+                            d)
+                            
+                                tenuta dei registri e degli albi delle cooperative sociali previsti dalla legge 8 novembre 1991, n. 381;
+
+                            
+                        
+                        
+                            e)
+                            
+                                riconoscimento delle organizzazioni non governative ai sensi della legge 26 febbraio 1987, n. 49;
+
+                            
+                        
+                        
+                            f)
+                            
+                                decadenza totale o parziale delle agevolazioni previste dal decreto legislativo 4 dicembre 1997, n. 460.
 
 Decorsi trenta giorni dalla richiesta dei pareri di cui al comma 2, le amministrazioni interessate procedono autonomamente. Ove sia necessaria una istruttoria piu' approfondita l'Agenzia puo' concordare un termine maggiore.
 
@@ -98,6 +248,38 @@ Al presidente e a ciascuno degli altri componenti dell'Agenzia compete una inden
 ## Art. 9. — Ufficio di segreteria
 
 ## Art. 10. — Disposizioni finanziarie
+
+1.
+                    
+                        
+                            Le entrate dell'Agenzia sono costituite da:
+ 
+                        
+                        
+                            a)
+                            
+                                stanziamenti a carico dello Stato stabiliti con legge;
+
+                            
+                        
+                        
+                            b)
+                            
+                                somme derivanti da contributi da parte di enti pubblici;
+
+                            
+                        
+                        
+                            c)
+                            
+                                somme derivanti da convenzioni con soggetti pubblici e privati;
+
+                            
+                        
+                        
+                            d)
+                            
+                                somme derivanti da altre, eventuali entrate.
 
 L'Agenzia, con delibera da approvare con decreto del Presidente del Consiglio dei Ministri, sentiti il Ministro del tesoro, del bilancio e della programmazione economica, il Ministro delle finanze, il Ministro della solidarieta' sociale, e il Ministro del lavoro e della previdenza sociale, stabilisce le norme concernenti i bilanci, i rendiconti e la gestione delle spese, nel rispetto dei principi delle leggi di contabilita'.
 

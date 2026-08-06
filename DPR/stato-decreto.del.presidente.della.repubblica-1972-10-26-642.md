@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: DPR
 vigenza_date: 2026-05-23
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:48:15Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -46,7 +46,25 @@ Sono soggetti all'imposta di bollo gli atti, i documenti e i registri indicati n
 
 ## Art. 3. — (Modi di pagamento).
 
+1.
+                        
+                            
+                                L'imposta di bollo si corrisponde secondo le indicazioni della tariffa allegata: 
+ 
+                            
+                            
+                                a)
+                                
+                                    mediante pagamento dell'imposta ad intermediario convenzionato con l'Agenzia delle entrate, il quale rilascia, con modalita' telematiche, apposito contrassegno; 
 
+                                
+                            
+                            
+                                b)
+                                
+                                    in modo virtuale, mediante pagamento dell'imposta all'ufficio dell'Agenzia delle entrate o ad altri uffici autorizzati o mediante versamento in conto corrente postale.
+
+((1-bis. Per gli atti da registrare in termine fisso, ai sensi del testo unico delle disposizioni concernenti l'imposta di registro, di cui al decreto del Presidente della Repubblica 26 aprile 1986, n. 131, l'imposta di bollo e' assolta nel termine previsto per la registrazione dell'atto, con le modalita' di cui all'articolo 17 del decreto legislativo 9 luglio 1997, n. 241. Per i documenti analogici presentati per la registrazione in originale all'ufficio dell'Agenzia delle entrate, l'imposta di bollo puo' essere assolta anche mediante contrassegno telematico, ai sensi del comma 1, lettera a).))
 
 ((87))
 

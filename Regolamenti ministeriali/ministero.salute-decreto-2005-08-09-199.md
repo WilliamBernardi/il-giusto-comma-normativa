@@ -8,8 +8,8 @@ codice_redazionale: 005G0224
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:38Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -26,6 +26,57 @@ Acquisito il parere della Conferenza permanente per i rapporti tra lo Stato, le 
 Udito il parere del Consiglio di Stato, sezione consultiva per gli atti normativi, espresso nella riunione del 4 aprile 2005;
 
 ## Art. 1.
+
+1.
+                    
+                        
+                            Il decreto 27 febbraio 1996, n. 209, modificato da ultimo con il decreto 6 febbraio 2004, pubblicato nella Gazzetta Ufficiale n. 74 del 29 marzo 2004, e' modificato come segue: 
+ 
+                        
+                        
+                            a)
+                            
+                                all'articolo 12, comma 2, dopo la lettera b), e' aggiunta la seguente lettera: 
+ «c) sale di aspartame - acesulfame: "contiene una fonte di fenilalanina"»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                all'articolo 12, comma 3, dopo la lettera b), e' aggiunta la seguente lettera: 
+ «c) prodotti alimentari contenenti sale di aspartame-acesulfame: "contiene una fonte di fenilalanina"»; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                l'allegato VIII concernente l'elenco degli edulcoranti autorizzati e le relative condizioni di impiego e' modificato come segue: 
+ 1) la dizione «preparati dietetici completi contro l'aumento di peso, che sostituiscono l'alimentazione quotidiana o anche solo un pasto» e' sostituita dalla seguente: «alimenti destinati a diete ipocaloriche volte alla riduzione del peso, di cui al decreto 7 ottobre 1998, n. 519»; 
+ 2) la dizione «preparati completi e apporti nutritivi da usare sotto controllo medico» e' sostituita dalla seguente «alimenti completi dal punto di vista nutrizionale destinati a fini medici speciali, definiti dal decreto del Presidente della Repubblica 20 marzo 2002, n. 57»; 
+ 3) la dizione «complementi alimentari/integratori alimentari e dietetici, liquidi» e' sostituita dalla seguente «complementi alimentari liquidi, definiti dal decreto legislativo 21 maggio 2004, n. 169»; 
+ 4) la dizione «complementi alimentari/integratori alimentari e dietetici, solidi» e' sostituita dalla seguente «integratori alimentari solidi, definiti dal decreto legislativo 21 maggio 2004, n. 169»; 
+ 5) la dizione «complementi alimentari/integratori alimentari e dietetici, a base di vitamine e/o elementi minerali sotto forma di sciroppo o di pastiglie da masticare» e' sostituita dalla seguente «integratori alimentari solidi a base di vitamine e/o elementi minerali e sotto forma di sciroppo o di pastiglie da masticare, definiti dal decreto legislativo 21 maggio 2004, n. 169»; 
+ 6) la tabella relativa alla voce «E 951 aspartame» e' completata come segue: 
+ 
+ 
+                                
+                                    
+                                        
+                                            Essoblaten 
+                                        
+                                        
+                                            1000 mg/kg 
+                                        
+                                    
+                                
+                                
+
+ 
+ 
+ 7) la tabella relativa alla voce «E 952 acido ciclamico e i suoi sali di sodio e di calcio» e' sostituita dall'allegato I del presente decreto; 
+ 8) e' aggiunta, in fine, la tabella di cui all'allegato II del presente decreto.
 
 ## Art. 2.
 

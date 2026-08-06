@@ -8,8 +8,8 @@ codice_redazionale: 006G0026
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:40Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -56,6 +56,31 @@ Il bene di cui sia autorizzato l'affidamento e' ritirato dal soggetto legittimat
 Al momento della consegna in affidamento del bene viene redatto apposito verbale, sottoscritto da un funzionario dell'Ufficio competente e dal rappresentante del soggetto affidatario. Da tale momento gli oneri relativi alla gestione del bene e, qualora si tratti di veicolo, natante o aeromobile, all'assicurazione obbligatoria sono a carico del soggetto affidatario. Copia del verbale di affidamento e' inviata all'Autorita' giudiziaria competente.
 
 ## Art. 4. — Procedura per la distruzione dei beni
+
+1.
+                    
+                        
+                            L'Ufficio competente richiede all'Autorita' giudiziaria l'autorizzazione alla distruzione dei beni di cui all'articolo 1 che detiene in custodia, nei casi in cui:
+ 
+                        
+                        
+                            a)
+                            
+                                sia decorso il termine indicato dall'articolo 3, comma 1, senza che vi siano state richieste di affidamento;
+
+                            
+                        
+                        
+                            b)
+                            
+                                sia decorso il medesimo termine di cui alla lettera a) e, in ordine alle richieste di affidamento pervenute, sia stata negata l'autorizzazione da parte dell'Autorita' giudiziaria per ragioni non attinenti ad esigenze processuali;
+
+                            
+                        
+                        
+                            c)
+                            
+                                sia decorso il termine di cui all'articolo 3, comma 3, senza che il bene sia stato ritirato dall'organismo legittimato.
 
 L'Autorita' giudiziaria trasmette all'Ufficio competente copia del provvedimento recante le determinazioni assunte in merito alla richiesta di autorizzazione alla distruzione.
 

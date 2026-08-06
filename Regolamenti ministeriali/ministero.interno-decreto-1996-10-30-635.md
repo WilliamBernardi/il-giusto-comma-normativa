@@ -8,8 +8,8 @@ codice_redazionale: 096G0659
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:40Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -43,9 +43,91 @@ Con decreto del Ministro dell'interno, di concerto con il Ministro del tesoro, s
 
 ## Art. 2.
 
+1.
+                    
+                        
+                            La domanda per l'autorizzazione prevista dall'articolo 4 del decreto legislativo 30 dicembre 1992, n. 527, e' inoltrata dal titolare della carta europea d'arma da fuoco al questore competente per il luogo di residenza o di domicilio. Oltre alle generalita' del richiedente e agli estremi della carta europea, essa deve contenere:
+ 
+                        
+                        
+                            a)
+                            
+                                l'indicazione dell'arma o delle armi che il richiedente intende portare o trasportare nel viaggio;
+
+                            
+                        
+                        
+                            b)
+                            
+                                l'indicazione della localita' dello Stato membro dell'Unione europea ove il richiedente intende recarsi e degli altri Stati membri che intende eventualmente attraversare;
+
+                            
+                        
+                        
+                            c)
+                            
+                                la durata del viaggio, comunque non superiore a un anno.
+
+2.
+                    
+                        
+                            Alla domanda devono essere allegati:
+ 
+                        
+                        
+                            a)
+                            
+                                la carta europea d'arma da fuoco, in originale, di cui il richiedente e' titolare;
+
+                            
+                        
+                        
+                            b)
+                            
+                                le autorizzazioni preventive, laddove richieste, dell'Autorita' nazionale dello Stato o degli Stati membri dell'Unione europea di cui al comma 1, lettera b), in originale o copia autentica, salvo che gli estremi delle autorizzazioni, in corso di validita', risultino gia' annotati nella carta;
+
+                            
+                        
+                        
+                            c)
+                            
+                                il permesso di porto d'armi, o copia autentica dello stesso, salvo che gli estremi di tale documento, in corso di validita', risultino gia' annotati nella carta.
+
 L'autorizzazione di cui al comma 1 e' annotata dal questore, unitamente alle altre indicazioni, sulla carta europea d'arma da fuoco ed abilita l'interessato a portare o trasportare durante il viaggio e a ritrasferire in Italia l'arma o le armi alle quali l'autorizzazione stessa si riferisce.
 
 ## Art. 3.
+
+1.
+                    
+                        
+                            La domanda per l'autorizzazione di cui all'articolo 5, comma 1, del decreto legislativo 30 dicembre 1992, n. 527, e' inoltrata al Ministero dell'interno - Dipartimento della pubblica sicurezza - Direzione centrale per gli affari generali - Servizio polizia amministrativa e sociale. Oltre alle generalita' del richiedente e agli estremi della carta europea d'arma da fuoco, essa deve contenere:
+ 
+                        
+                        
+                            a)
+                            
+                                l'indicazione della localita' ove il richiedente intende recarsi;
+
+                            
+                        
+                        
+                            b)
+                            
+                                la data di arrivo in Italia e la durata del viaggio, comunque non superiore ad un anno;
+
+                            
+                        
+                        
+                            c)
+                            
+                                i motivi per cui intende portare o trasportare l'arma durante il viaggio;
+
+                            
+                        
+                        
+                            d)
+                            
+                                gli elementi identificativi dell'arma o delle armi portate o trasportate.
 
 Alla domanda deve essere allegata, in originale, la carta europea rilasciata dallo Stato di residenza dell'interessato.
 
@@ -71,4 +153,52 @@ La domanda deve contenere le indicazioni previste dall'articolo 8, comma 2, del 
 L'accordo preventivo e' concesso quando sussistono i presupposti, le condizioni e i requisiti previsti dalle disposizioni vigenti in Italia per il rilascio della licenza di importazione di cui all'articolo 31 del testo unico delle leggi di pubblica sicurezza, approvato con regio decreto 18 giugno 1931, n. 773.
 
 ## Art. 6.
+
+1.
+                    
+                        
+                            Al decreto ministeriate 5 giugno 1978, sono apportate le seguenti modifiche:
+ 
+                        
+                        
+                            a)
+                            
+                                dopo l'articolo 3, e' inserito il seguente:
+ "Art. 3-bis . - 1. In deroga a quanto previsto negli articoli precedenti, i residenti in un altro Stato membro dell'Unione europea, autorizzati all'esercizio della caccia in detto Stato, possono trasferire e trasportare nel territorio italiano o attraverso di esso e ritrasferire nello Stato di provenienza le armi da caccia iscritte nella carta europea d'arma da fuoco di cui sono titolari. I medesimi possono altresi' portare le suddette armi nei periodi in cui la caccia e' consentita, purche' siano in possesso delle polizze assicurative prescritte dall'articolo 12, comma 8, della legge 11 febbraio 1992, n. 157, e dell'apposito tesserino rilasciato ai sensi dell'articolo 12, comma 12, della legge stessa, dalla regione prescelta per l'esercizio dell'attivita' venatoria";
+
+                            
+                        
+                        
+                            b)
+                            
+                                al primo comma dell'articolo 4 e' aggiunto, in fine, il seguente periodo: "Il visto non e' richiesto quando si tratta di residenti in un altro Stato membro dell'Unione europea, in possesso della carta europea d'arma da fuoco, su cui sono annotate le armi portate al seguito".
+
+2.
+                    
+                        
+                            Al decreto ministeriale 24 novembre 1978 sono apportate le seguenti modifiche:
+ 
+                        
+                        
+                            a)
+                            
+                                il secondo comma dell'articolo 2 e' sostituito dal seguente:
+ " 2. Le disposizioni di cui al comma precedente non si applicano alle armi destinate ad altri Stati membri dell'Unione europea";
+
+                            
+                        
+                        
+                            b)
+                            
+                                dopo l'articolo 5, e' inserito il seguente:
+ "Art. 5-bis. - 1. Non sono soggette ai visti di cui al primo e secondo comma dell'articolo 5, le dichiarazioni rilasciate dalla Federazione italiana tiro a volo o dalla Unione italiana tiro a segno concernenti le persone residenti in Italia, in possesso della carta europea d'arma da fuoco, che intendono esportare temporaneamente, al proprio seguito, armi da sparo per uso sportivo iscritte nella predetta carta";
+
+                            
+                        
+                        
+                            c)
+                            
+                                dopo l'articolo 6, e' inserito il seguente:
+ "Art. 6-bis. - 1. La licenza di cui all'articolo precedente non e' richiesta per le persone residenti in Italia, in possesso delle prescritte autorizzazioni per l'esercizio della caccia e della carta europea d'arma da fuoco, che intendono esportare temporaneamente, al proprio seguito, in un altro Stato membro dell'Unione europea armi da caccia iscritte nella predetta carta.
+ 2. L'esportazione temporanea di cui al comma 1 e' consentita nei limiti di tre armi e di mille cartucce".
 

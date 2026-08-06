@@ -7,8 +7,8 @@ urn: urn:nir:ministero.giustizia:decreto:2023-07-11;99
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:41Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -26,9 +26,119 @@ Di concerto con il Ministro dell'economia e delle finanze;
 
 Il presente decreto stabilisce le modalita' di acquisizione dei dati e di loro inserimento nella banca dati relativa alle aste giudiziarie nonche' le modalita' di esercizio del potere di vigilanza da parte del Ministero della giustizia.
 
+2.
+                    
+                        
+                            Ai fini del presente decreto si intendono per: 
+ 
+                        
+                        
+                            a)
+                            
+                                «banca dati»: la banca dati relativa alle aste giudiziarie di cui all'articolo 26, comma 6, del decreto legislativo 10 ottobre 2022, n. 149; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                «Ministero»: il Ministero della giustizia; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                «professionista delegato»: il professionista delegato alle vendite, il curatore o liquidatore, il commissionario.
+
 ## Art. 2. — Banca dati relativa alle aste giudiziarie
 
 La banca dati relativa alle aste giudiziarie e' tenuta presso il Ministero della giustizia in forma automatizzata, nel rispetto di criteri di completezza, aggiornamento, esattezza e sicurezza delle notizie e delle informazioni raccolte.
+
+2.
+                    
+                        
+                            La banca dati si articola, secondo quanto previsto dall'articolo 26, comma 6, del decreto legislativo n. 149 del 2022, nelle sezioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                esecuzioni immobiliari; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                esecuzioni mobiliari; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                vendite nelle procedure concorsuali.
+
+3.
+                    
+                        
+                            Nell'ambito di ciascuna sezione, nella banca dati sono inseriti: 
+ 
+                        
+                        
+                            a)
+                            
+                                il nome, il cognome e il codice fiscale dell'offerente se persona fisica, ovvero la denominazione e il codice fiscale dell'offerente se ente o persona giuridica; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                il codice IBAN del conto corrente bancario o postale utilizzato per versare la cauzione e il prezzo di aggiudicazione o gli estremi identificativi del mezzo di pagamento o della fideiussione utilizzati ai sensi degli articoli 169-quater e 173-quinquies delle disposizioni per l'attuazione del codice di procedura civile e disposizioni transitorie; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                la relazione di stima dei beni; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                il nominativo del professionista delegato; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                il prezzo di stima; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                il prezzo base; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                il prezzo di aggiudicazione; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                il compenso liquidato al professionista delegato.
 
 ## Art. 3.
 

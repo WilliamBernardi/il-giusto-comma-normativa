@@ -8,8 +8,8 @@ vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
 vigenza_date: 2024-05-02
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:23Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -35,11 +35,85 @@ Sulla proposta del Presidente del Consiglio dei ministri e del Ministro dello sv
 
 ## Art. 1. — Oggetto
 
+1.
+                        
+                            
+                                Il testo unico dei servizi di media audiovisivi, di seguito denominato: «testo unico», contiene: 
+ 
+                            
+                            
+                                a)
+                                
+                                    i principi generali per la prestazione di servizi di media digitali audiovisivi e radiofonici e dei servizi di piattaforma per la condivisione di video ((o anche solo audio o entrambi)), tenendo conto del processo di convergenza fra le diverse forme di comunicazioni, quali le comunicazioni elettroniche, l'editoria, anche elettronica, e internet in tutte le sue applicazioni e dell'evoluzione tecnologica e di mercato; 
 
+                                
+                            
+                            
+                                b)
+                                
+                                    le disposizioni in materia di servizi di media audiovisivi e radiofonici e di programmi-dati, anche ad accesso condizionato, nonche' in materia di fornitura di servizi interattivi associati e di servizi di accesso condizionato su qualsiasi piattaforma di diffusione, comprese le comunicazioni commerciali audiovisive e radiofoniche e i servizi di piattaforma per la condivisione di video o anche solo audio.
+
+((COMMA ABROGATO DAL D.LGS. 25 MARZO 2024, N. 50)).
 
 ## Art. 2. — Ambito di applicazione del diritto nazionale per i servizi di media audiovisivi e radiofonici
 
 Sono soggetti alla giurisdizione italiana i fornitori di servizi di media audiovisivi e radiofonici e ((le emittenti radiofoniche)) che operano in Italia conformemente a quanto previsto dai commi 2 e 3 o, altrimenti, nei casi in cui si applica il comma 4.
+
+2.
+                        
+                            
+                                Ai sensi e per gli effetti di cui al presente testo unico il fornitore di servizi di media audiovisivi e radiofonici e ((l'emittente radiofonica operano)) in Italia: 
+ 
+                            
+                            
+                                a)
+                                
+                                    quando ((hanno)) la ((loro)) sede principale in Italia e le decisioni editoriali sul servizio di media audiovisivo ((o radiofonico)) sono prese nel territorio italiano; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    quando ((hanno)) la sede principale in Italia e le decisioni editoriali sul servizio di media audiovisivo ((o radiofonico)) fornito sono prese in un altro Stato membro o in un ((Paese terzo se,)) sul territorio italiano opera una parte significativa degli addetti allo svolgimento dell'attivita' di servizio di media audiovisivo o radiofonico collegata ai programmi; ((1))
+                                    
+                                
+                            
+                            
+                                c)
+                                
+                                    quando ((ha)) la sede principale in un altro Stato membro o Paese terzo ((e)), le decisioni editoriali sul servizio di media audiovisivo ((o radiofonico)) fornito sono prese in Italia e sul territorio italiano opera una parte significativa degli addetti allo svolgimento dell'attivita' di servizio di media audiovisivo o radiofonico collegata ai programmi; ((1))
+                                    
+                                
+                            
+                            
+                                d)
+                                
+                                    quando hanno la sede principale in Italia e una parte significativa degli addetti allo svolgimento dell'attivita' di servizio di media audiovisivo o radiofonico collegata ai programmi opera sia in Italia sia in un altro Stato membro;
+                                
+                            
+                            
+                                e)
+                                
+                                    in mancanza delle condizioni di cui alle lettere b), c) e d), se ha iniziato in Italia la sua attivita' nel rispetto dell'ordinamento giuridico nazionale, mantenendo nel tempo un legame stabile ed effettivo con l'economia italiana.
+
+3.
+                        
+                            
+                                I fornitori ((e le emittenti)) di servizi di media cui non si applicano le disposizioni del comma 2 si considerano soggetti alla giurisdizione italiana nei casi seguenti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    se si avvalgono di un collegamento terra-satellite (up-link) situato in Italia; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    se anche in assenza di un collegamento terra-satellite situato in Italia, si avvalgono di una capacita' via satellite di competenza italiana.
 
 Qualora non sia possibile determinare a quale Stato membro dell'Unione europea spetti la giurisdizione conformemente ai commi 2 e 3, si considera soggetto alla giurisdizione italiana il fornitore di servizi di media operante sul territorio nazionale ai sensi degli articoli da 49 a 55 del Trattato sul funzionamento dell'Unione europea.
 
@@ -58,13 +132,465 @@ Il D.Lgs. 25 marzo 2024, n. 50 ha disposto (con l'art. 1, comma 2, lettera b)) c
 
 ## Art. 3. — Definizioni
 
+1.
+                        
+                            
+                                Ai fini del presente testo unico si intende per: 
+ 
+                            
+                            
+                                a)
+                                
+                                    «servizio di media audiovisivo»: un servizio quale definito dagli articoli 56 e 57 del Trattato sul funzionamento dell'Unione europea, ove l'obiettivo principale del servizio stesso o di una sua sezione distinguibile sia la fornitura di programmi al grande pubblico, sotto la responsabilita' editoriale di un fornitore di servizi di media, al fine di informare, intrattenere o istruire, attraverso reti di comunicazioni elettroniche ((...))
+                                        ((, in radiodiffusione o a richiesta;)); 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    per servizio di media audiovisivo, ai sensi della lettera a), si intende o una trasmissione televisiva come definita alla lettera p) o un servizio di media audiovisivo a richiesta come definito alla lettera q) o una comunicazione commerciale audiovisiva; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    «servizio di piattaforma per la condivisione di video»: un servizio, quale definito dagli articoli 56 e 57 del Trattato sul funzionamento dell'Unione europea, ove l'obiettivo principale del servizio stesso, di una sua sezione distinguibile o di una sua funzionalita' essenziale sia ((la fornitura di programmi o video generati dagli utenti destinati al grande)) pubblico, per i quali il fornitore della piattaforma per la condivisione di video non ha responsabilita' editoriale, al fine di informare, intrattenere o istruire attraverso reti di comunicazioni elettroniche ai sensi dell'articolo 2, lettera a), della direttiva 2002/21/CE del Parlamento europeo e del Consiglio, del 12 luglio 2002, e la cui organizzazione e' determinata dal fornitore della piattaforma per la condivisione di video, anche con mezzi automatici o algoritmi, in particolare mediante visualizzazione, attribuzione di tag e sequenziamento; 
+
+                                
+                            
+                            
+                                c-bis)
+                                
+                                    "servizio di piattaforma per la condivisione di contenuti solo audio": un servizio con le caratteristiche di cui alla lettera c) in cui il contenuto condiviso e' costituito da programmi sonori o da audio generati dall'utente, o entrambi, destinati al grande pubblico;
+                                
+                            
+                            
+                                d)
+                                
+                                    «fornitore di servizi di media»: la persona fisica o giuridica cui e' riconducibile la responsabilita' editoriale della scelta del contenuto audiovisivo ((o radiofonico)) del servizio di media audiovisivo ((o radiofonico)) e che ne determina le modalita' di organizzazione, esclusi gli operatori di rete che si occupano unicamente della trasmissione di programmi per i quali la responsabilita' editoriale incombe su terzi; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    «reti di comunicazione elettronica»: i sistemi di trasmissione, basati o meno su un'infrastruttura permanente o una capacita' di amministrazione centralizzata e, se del caso, le apparecchiature di commutazione o di instradamento e altre risorse, inclusi gli elementi di rete non attivi, che consentono di trasmettere segnali via cavo, via radio, a mezzo di fibre ottiche o con altri mezzi elettromagnetici, comprese le reti satellitari, le reti mobili e fisse (a commutazione di circuito e a commutazione di pacchetto, compresa internet), i sistemi per il trasporto via cavo della corrente elettrica, nella misura in cui siano utilizzati per trasmettere i segnali, le reti utilizzate per la diffusione radiotelevisiva, e le reti televisive via cavo, indipendentemente dal tipo di informazione trasportato; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    «operatore di rete»: il soggetto titolare del diritto di installazione, esercizio e fornitura di una rete di comunicazione elettronica su frequenze terrestri in tecnica digitale, via cavo o via satellite, ((per trasmissione sia televisive che radiofoniche)) e di impianti di messa in onda, multiplazione, distribuzione e diffusione delle risorse frequenziali che consentono la trasmissione dei programmi agli utenti; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    «programma»: una serie di immagini animate, sonore o non, escluse le cosiddette gif, che costituiscono un singolo elemento, indipendentemente dalla sua durata, nell'ambito di un palinsesto o di un catalogo stabilito da un fornitore di servizi di media, comprensivo di lungometraggi, videoclip, manifestazioni sportive, commedie di situazione (sitcom), documentari, programmi per bambini e fiction originali; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    «video generato dall'utente»: una serie di immagini animate, sonore o non, che costituiscono un singolo elemento, indipendentemente dalla sua durata, creato da un utente e caricato su una piattaforma per la condivisione di video dal medesimo o da un qualunque altro utente; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    «decisione editoriale»: una decisione presa periodicamente nell'esercizio della responsabilita' editoriale e collegata al funzionamento quotidiano del servizio di media ((...)); 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    «fornitore della piattaforma per la condivisione di video»: la persona fisica o giuridica che fornisce un servizio di piattaforma per la condivisione di video; 
+
+                                
+                            
+                            
+                                m)
+                                
+                                    «programmi-dati»: i servizi di informazione costituiti da prodotti editoriali elettronici, trasmessi da reti radiotelevisive e diversi dai programmi radiotelevisivi, non prestati su richiesta individuale, incluse le pagine informative teletext e le pagine di dati; 
+
+                                
+                            
+                            
+                                n)
+                                
+                                    «palinsesto televisivo» e «palinsesto radiofonico»: l'insieme, predisposto da ((un fornitore di servizi di media audiovisivi o radiofonici, o da un'emittente radiofonica)), di una ((pluralita')) di programmi unificati da un medesimo marchio editoriale e destinato alla fruizione del pubblico, diverso dalla trasmissione differita dello stesso palinsesto, dalle trasmissioni meramente ripetitive, o dalla prestazione, a pagamento, di singoli programmi, o pacchetti di programmi, audiovisivi lineari, con possibilita' di acquisto da parte dell'utente anche nei momenti immediatamente antecedenti all'inizio della trasmissione del singolo programma, o del primo programma, nel caso si tratti di un pacchetto di programmi; 
+
+                                
+                            
+                            
+                                o)
+                                
+                                    «responsabilita' editoriale»: l'esercizio di un controllo effettivo sia sulla selezione dei programmi, ivi inclusi i programmi-dati, sia sulla loro organizzazione in un palinsesto cronologico, nel caso delle radiodiffusioni televisive o radiofoniche, o in un catalogo, nel caso dei servizi di media audiovisivi a richiesta; 
+
+                                
+                            
+                            
+                                p)
+                                
+                                    «servizio di media audiovisivo lineare» ((...)): un servizio di media audiovisivo fornito da un fornitore di servizi di media per la visione simultanea di programmi sulla base di un palinsesto di programmi; 
+
+                                
+                            
+                            
+                                q)
+                                
+                                    «servizio di media audiovisivo non lineare», ovvero «servizio di media audiovisivo a richiesta»: un servizio di media audiovisivo fornito da un fornitore di servizi di media per la visione di programmi ((scelto al momento)) dall'utente e su sua richiesta sulla base di un catalogo di programmi selezionati dal fornitore di servizi di media; 
+
+                                
+                            
+                            
+                                r)
+                                
+                                    «fornitore di servizi di media audiovisivi a carattere comunitario»: il soggetto che ha la responsabilita' editoriale nella predisposizione dei programmi destinati alla radiodiffusione televisiva in ambito locale che si impegna: a non trasmettere piu' del 5 per cento di pubblicita' per ogni ora di diffusione; a trasmettere programmi originali autoprodotti per almeno il 50 per cento dell'orario di programmazione giornaliero compreso dalle ore 7 alle ore 21; 
+
+                                
+                            
+                            
+                                s)
+                                
+                                    «programmi originali autoprodotti»: i programmi realizzati in proprio ((dal fornitore di servizi di media audiovisivi o radiofonici o dall'emittente radiofonica)), o dalla sua controllante o da sue controllate, o in co-produzione con altra emittente ((o altro fornitore)); 
+
+                                
+                            
+                            
+                                t)
+                                
+                                    «produttori indipendenti», gli operatori della comunicazione europei che svolgono attivita' di produzioni audiovisive e che non sono controllati da, ovvero collegati a, fornitori di servizi media audiovisivi soggetti alla giurisdizione italiana e, alternativamente: 
+ 1) per un periodo di tre anni non destinano piu' del 90 per cento della propria produzione ad un solo fornitore di servizi media ((audiovisivi;)) 
+ 2) sono titolari di diritti secondari; 
+
+                                
+                            
+                            
+                                u)
+                                
+                                    «fornitore di servizi interattivi associati o di servizi di accesso condizionato»: il soggetto che fornisce, al pubblico o a terzi operatori, servizi di accesso condizionato, mediante distribuzione di chiavi numeriche per l'abilitazione alla visione dei programmi, alla fatturazione dei servizi ed eventualmente alla fornitura di apparati, o che fornisce servizi della societa' dell'informazione ai sensi dall'articolo 2 del decreto legislativo 9 aprile 2003, n. 70, ovvero fornisce una guida elettronica ai programmi; 
+
+                                
+                            
+                            
+                                v)
+                                
+                                    «accesso condizionato»: ogni misura e sistema tecnico in base ((al quale)) l'accesso in forma intelligibile al servizio protetto sia subordinato a preventiva e individuale autorizzazione da parte del fornitore del servizio di accesso condizionato; 
+
+                                
+                            
+                            
+                                z)
+                                
+                                    «sistema integrato delle comunicazioni»: il settore economico che comprende le attivita' di stampa quotidiana e periodica, delle agenzie di stampa, di editoria elettronica, anche per il tramite di Internet, di radio e servizi di media audiovisivi e radiofonici, cinema, pubblicita' esterna, sponsorizzazioni ((di cui alla lettera ss))) e pubblicita' online; 
+
+                                
+                            
+                            
+                                aa)
+                                
+                                    «servizio pubblico radiofonico, televisivo e multimediale»: il pubblico servizio consistente nell'attivita' di produzione e diffusione su tutte le piattaforme distributive di contenuti radiofonici, audiovisivi e multimediali ((su tutte le piattaforme distributive)), secondo le modalita' e nei limiti indicati dal presente testo unico e dalle altre norme applicabili in materia; 
+
+                                
+                            
+                            
+                                bb)
+                                
+                                    «ambito nazionale»: l'esercizio dell'attivita' di radiodiffusione televisiva o sonora non limitata all'ambito locale; 
+
+                                
+                            
+                            
+                                cc)
+                                
+                                    «ambito locale radiofonico»: l'esercizio dell'attivita' di radiodiffusione sonora, con irradiazione del segnale fino a una copertura massima del 50 per cento della popolazione nazionale; 
+
+                                
+                            
+                            
+                                dd)
+                                
+                                    «ambito locale televisivo»: l'attivita' di fornitura di servizi di media audiovisivi veicolati in uno o piu' aree tecniche ((, su reti di I livello o su reti di II livello)), comunque non superiori a dieci, anche non ((limitrofe)), purche' con copertura inferiore al 50 per cento della popolazione nazionale; 
+
+                                
+                            
+                            
+                                ee)
+                                
+                                    «programmazione nazionale ex analogica»: canale gia' irradiato in ambito nazionale in tecnica analogica e in simulcast in tecnica digitale terrestre, indipendentemente dall'eventuale intervenuta modifica del marchio editoriale o del soggetto che detiene il titolo abilitativo; 
+
+                                
+                            
+                            
+                                ff)
+                                
+                                    «programmazione generalista»: programmazione diffusa in ambito nazionale dedicata a piu' generi differenziati inclusa l'informazione, distribuiti in modo equilibrato nel corso della giornata di programmazione, nessuno dei quali raggiunge il 70 per cento della programmazione stessa; 
+
+                                
+                            
+                            
+                                gg)
+                                
+                                    «programmazione tematica»: programmazione diffusa in ambito nazionale dedicata a un tema specifico in relazione ad un pubblico o a un target di utenza, a cui un fornitore di servizi di media audiovisivi dedica almeno il 70 per cento della programmazione diffusa; 
+
+                                
+                            
+                            
+                                hh)
+                                
+                                    «emittente radiofonica»: il titolare di concessione o autorizzazione ((alla prosecuzione dell'attivita', ai sensi della legge 20 marzo 2001, n. 66, che opera)) su frequenze terrestri in tecnica analogica, che ha la responsabilita' editoriale dei palinsesti radiofonici e li trasmette secondo le seguenti tipologie: 
+ 1) «emittente radiofonica a carattere comunitario», nazionale o locale: l'emittente caratterizzata dall'assenza dello scopo di lucro, che trasmette programmi originali autoprodotti per almeno il 30 per cento dell'orario di trasmissione giornaliero compreso tra le ore 7 e le ore 21, puo' avvalersi di sponsorizzazioni e non trasmette piu' del 10 per cento di pubblicita' per ogni ora di diffusione, escluse le trasmissioni di brani musicali intervallate da messaggi pubblicitari o da brevi commenti del conduttore della stessa trasmissione; 
+ 2) «emittente radiofonica a carattere commerciale locale»: l'emittente senza specifici obblighi di palinsesto, che comunque destina almeno il 20 per cento della programmazione settimanale all'informazione, di cui almeno il 50 per cento all'informazione locale, in notizie e servizi, e a programmi, nell'ambito di almeno sessantaquattro ore settimanali; 
+ 3) «emittente radiofonica nazionale»: l'emittente senza particolari obblighi ((di palinsesto)), salvo la trasmissione quotidiana di giornali radio; 
+
+                                
+                            
+                            
+                                ii)
+                                
+                                    «fornitore di servizi di media radiofonici»: il titolare di autorizzazione su frequenze terrestri in tecnica digitale, che ha la responsabilita' dei palinsesti radiofonici; 
+
+                                
+                            
+                            
+                                ii-bis)
+                                
+                                    "fornitore di servizi di media radiofonici a carattere comunitario su base nazionale o locale": il fornitore caratterizzato dall'assenza dello scopo di lucro, che trasmette programmi originali autoprodotti che fanno riferimento ad istanze culturali, etniche, politiche e religiose per almeno il 30 per cento dell'orario di trasmissione giornaliero compreso tra le ore 7 e le ore 21, che puo' avvalersi di sponsorizzazioni e che non trasmette piu' del 10 per cento di pubblicita' per ogni ora di diffusione;
+                                
+                            
+                            
+                                ll)
+                                
+                                    «trasmissione attraverso cavo coassiale»: le trasmissioni di contenuti televisivi e radiofonici attraverso il cavo e che non utilizzano il protocollo IP; 
+
+                                
+                            
+                            
+                                mm)
+                                
+                                    «trasmissione attraverso altri mezzi di comunicazione elettronica»: le trasmissioni di contenuti televisivi e radiofonici su reti di comunicazione elettronica diverse da quelle via cavo coassiale, satellitare e terrestri; 
+
+                                
+                            
+                            
+                                nn)
+                                
+                                    «opere europee»: 
+ 1) le opere che rientrano nelle seguenti tipologie: 
+ 1.1) le opere originarie di Stati membri; 
+ 1.2) le opere originarie di Stati terzi che sono parti della Convenzione europea sulla televisione transfrontaliera del Consiglio d'Europa, firmata a Strasburgo il 5 maggio 1989 e ratificata dalla legge 5 ottobre 1991, n. 327 rispondenti ai requisiti di cui al numero 2), a condizione che le opere originarie degli Stati membri non siano soggette a misure discriminatorie nel paese terzo interessato; 
+ 1.3) le opere co-prodotte nell'ambito di accordi conclusi nel settore audiovisivo tra l'Unione europea e paesi terzi e che rispettano le condizioni definite in ciascuno di tali accordi, a condizione che le opere originarie degli Stati membri non siano soggette a misure discriminatorie nel paese terzo interessato; 
+ 2) le opere di cui ai numeri 1.1) e 1.2) sono opere realizzate essenzialmente con il contributo di autori e lavoratori residenti in uno o piu' degli Stati di cui ai numeri 1.1) e 1.2) rispondenti a una delle tre condizioni seguenti: 
+ 2.1) esse sono realizzate da uno o piu' produttori stabiliti in uno o piu' di tali Stati; 
+ 2.2) la produzione delle opere avviene sotto la supervisione e il controllo effettivo di uno o piu' produttori stabiliti in uno o piu' di tali Stati; 
+ 2.3) il contributo dei co-produttori di tali Stati e' prevalente nel costo totale della coproduzione e questa non e' controllata da uno o piu' produttori stabiliti al di fuori di tali Stati; 
+ 3) le opere che non sono opere europee ai sensi del numero 1) e sono prodotte nel quadro di accordi bilaterali di coproduzione conclusi tra Stati membri e paesi terzi sono considerate opere europee a condizione che la quota a carico dei produttori dell'Unione europea nel costo complessivo della produzione sia maggioritaria e che la produzione non sia controllata da uno o piu' produttori stabiliti fuori del territorio degli Stati membri; 
+
+                                
+                            
+                            
+                                oo)
+                                
+                                    «comunicazione commerciale audiovisiva»: immagini, siano esse sonore o non, destinate a promuovere, direttamente o indirettamente, i beni, i servizi o l'immagine di una persona fisica o giuridica che esercita un'attivita' economica e comprendenti, tra l'altro, la pubblicita' televisiva, la sponsorizzazione, la telepromozione, la televendita e l'inserimento di prodotti, inserite o di accompagnamento in un programma o in un video generato dall'utente dietro pagamento o altro compenso o a fini di autopromozione; 
+
+                                
+                            
+                            
+                                pp)
+                                
+                                    «pubblicita' televisiva»: ogni forma di messaggio televisivo trasmesso dietro pagamento o altro compenso, ovvero a fini di autopromozione, da un'impresa pubblica o privata o da una persona fisica nell'ambito di un'attivita' commerciale, industriale, artigiana o di una libera professione, allo scopo di promuovere la fornitura, dietro pagamento, di beni o di servizi, compresi i beni immobili, i diritti e le obbligazioni; 
+
+                                
+                            
+                            
+                                qq)
+                                
+                                    «spot pubblicitario»: una forma di pubblicita' televisiva a contenuto predeterminato, trasmessa dalle emittenti radiofoniche e televisive, sia analogiche che digitali; 
+
+                                
+                            
+                            
+                                rr)
+                                
+                                    «comunicazione commerciale audiovisiva occulta»: la presentazione orale o visiva di beni, ((...)) servizi, ((...)) nome, ((...)) marchio o ((...)) attivita' di un produttore di beni o di un fornitore di servizi in un programma, quando tale presentazione e' compiuta dal fornitore di servizi di media per scopi pubblicitari e puo' ingannare il pubblico circa la sua natura, con presunzione del suo carattere intenzionale, in particolare nei casi di svolgimento a pagamento o dietro altro compenso; 
+
+                                
+                            
+                            
+                                ss)
+                                
+                                    «sponsorizzazione»: ogni contributo di imprese pubbliche o private o di persone fisiche non impegnate nella fornitura di servizi di media audiovisivi o di servizi di piattaforma per la condivisione di video ((o anche solo audio o entrambi)) o nella produzione di opere audiovisive al finanziamento di servizi di media audiovisivi, di servizi di piattaforma per la condivisione di video ((o anche solo audio o entrambi)), di video generati dagli utenti o di programmi al fine di promuoverne il nome, il marchio, l'immagine, le attivita' o i prodotti; 
+
+                                
+                            
+                            
+                                tt)
+                                
+                                    «televendita»: le offerte dirette trasmesse al pubblico allo scopo di fornire, dietro pagamento, beni o servizi, compresi i beni immobili, i diritti e le obbligazioni; 
+
+                                
+                            
+                            
+                                tt-bis)
+                                
+                                    "spot di televendita": televendita di durata minima ininterrotta inferiore a 15 minuti nei servizi di media audiovisivi e a 3 minuti nei servizi di media radiofonici;
+                                
+                            
+                            
+                                uu)
+                                
+                                    «inserimento di prodotti»: ogni forma di comunicazione commerciale audiovisiva che consiste nell'inserire o nel fare riferimento a un prodotto, a un servizio o al relativo marchio cosi' che appaia all'interno di un programma o di un video generato dall'utente dietro pagamento o altro compenso; 
+
+                                
+                            
+                            
+                                vv)
+                                
+                                    «telepromozione»: ogni forma di pubblicita' consistente nell'esibizione di prodotti, presentazione verbale e visiva di beni o servizi di un produttore di beni o di un fornitore di servizi, realizzata dal fornitore di servizi di media audiovisivi ((o radiofonici o dall'emittente radiofonica))
+                                        ((...)), al fine di promuovere la fornitura, dietro compenso, dei beni o dei servizi presentati o esibiti; 
+
+                                
+                            
+                            
+                                zz)
+                                
+                                    «Autorita'»: l'Autorita' per le garanzie nelle comunicazioni; 
+
+                                
+                            
+                            
+                                aaa)
+                                
+                                    «Ministero»: il ((Ministero delle imprese e del made in Italy)); 
+
+                                
+                            
+                            
+                                bbb)
+                                
+                                    «ERGA»: il Gruppo dei regolatori europei per i servizi di media audiovisivi; 
+
+                                
+                            
+                            
+                                ccc)
+                                
+                                    «Codice delle comunicazioni elettroniche»: decreto legislativo 1° agosto 2003, n. 259; 
+
+                                
+                            
+                            
+                                ddd)
+                                
+                                    «autorizzazione generale»: il regime giuridico che garantisce i diritti alla fornitura di reti o di servizi di comunicazione elettronica e stabilisce obblighi specifici per il settore applicabili a tutti i tipi o a tipi specifici di reti e servizi di comunicazione elettronica, conformemente al Codice delle comunicazioni elettroniche; 
+
+                                
+                            
+                            
+                                eee)
+                                
+                                    "autopromozione": gli annunci effettuati da emittenti radiofoniche e fornitori di servizi di media in relazione ai propri programmi e ai prodotti collaterali da questi direttamente derivati ovvero in relazione a programmi audiovisivi o radiofonici e servizi di media di altre entita' appartenenti al medesimo gruppo, ai sensi dell'articolo 51 e dell'articolo 2359 del codice civile. Sono inclusi gli annunci promozionali dell'emittente televisiva relativi a servizi di media audiovisivi effettuati per una stazione radio appartenente al medesimo gruppo sempre che non siano scindibili dall'attivita' principale della stazione radio e che l'emittente televisiva ne assuma la responsabilita' editoriale.
+
 Le definizioni di cui al comma 1 si applicano per analogia ai servizi radiofonici ((in difetto di previsione espressa, ove ne ricorrano i presupposti)). Laddove non diversamente specificato, sponsorizzazione e televendita comprendono anche le attivita' svolte a mezzo della radiodiffusione sonora.
 
 ## Art. 4. — Principi generali del sistema dei servizi di media audiovisivi e della radiofonia, a garanzia degli utenti e in materia di servizi di media in ambito locale
 
 ((
 
+1.
+                        
+                            
+                                Il sistema dei servizi di media audiovisivi e della radiofonia, si conforma ai seguenti principi, a garanzia degli utenti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    liberta' e pluralismo dei mezzi di comunicazione radiotelevisiva; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    liberta' di espressione di ogni individuo, inclusa la liberta' di opinione e quella di ricevere o di comunicare informazioni o idee senza limiti di frontiere, nel rispetto della dignita' umana, del principio di non discriminazione e di contrasto ai discorsi d'odio; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    obiettivita', completezza, lealta' e imparzialita' dell'informazione; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    contrasto alle strategie di disinformazione; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    tutela dei diritti d'autore e di proprieta' intellettuale; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    apertura alle diverse opinioni e tendenze politiche, sociali, culturali e religiose; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    salvaguardia delle diversita' etniche e del patrimonio culturale, artistico e ambientale, in ambito nazionale e locale, nel rispetto delle liberta' e dei diritti, in particolare della dignita' della persona e della protezione dei dati personali, della promozione e tutela del benessere, della salute e dell'armonico sviluppo fisico, psichico e morale del minore, garantiti dalla Costituzione, dal diritto dell'Unione europea, dalle norme internazionali vigenti nell'ordinamento italiano e dalle leggi statali e regionali; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    fermo restando quanto previsto dalla lettera b), contrasto alla tendenza contemporanea di distruggere o comunque ridimensionare gli elementi o simboli della storia e della tradizione della Nazione (cancel culture).
+
 ))
+
+2.
+                        
+                            
+                                La disciplina del sistema dei servizi di media audiovisivi e radiofonici, a tutela degli utenti, garantisce: 
+ 
+                            
+                            
+                                a)
+                                
+                                    l'accesso dell'utente, secondo criteri di non discriminazione, ad un'ampia varieta' di informazioni e di contenuti offerti da una pluralita' di operatori nazionali, locali e di altri Stati membri dell'Unione europea, favorendo a tale fine la fruizione e lo sviluppo, in condizioni di pluralismo e concorrenza leale, delle opportunita' offerte dall'evoluzione tecnologica da parte dei soggetti che svolgono o intendono svolgere attivita' nel sistema delle comunicazioni; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la diffusione di un congruo numero di programmi radiotelevisivi nazionali e locali in chiaro, garantendo l'adeguata copertura del territorio nazionale o locale; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    adeguati livelli qualitativi dei servizi di media audiovisivi.
 
 ((
 
@@ -84,11 +610,149 @@ Alla diffusione dei servizi di media audiovisivi in ambito locale e' riservata u
 
 ## Art. 5. — Principi generali del sistema dei servizi di media audiovisivi e della radiofonia a salvaguardia del pluralismo e della concorrenza
 
+1.
+                        
+                            
+                                La disciplina del sistema dei servizi di media audiovisivi e della radiofonia a garanzia del pluralismo dei mezzi di comunicazione radiotelevisiva, si conforma ai seguenti principi: 
+ 
+                            
+                            
+                                a)
+                                
+                                    promozione della concorrenza nel sistema dei servizi di media audiovisivi e della radiofonia e dei mezzi di comunicazione di massa e nel mercato della pubblicita' e tutela del pluralismo, vietando a tale fine la costituzione o il mantenimento di posizioni di significativo potere fissati nel presente decreto, e assicurando la massima trasparenza degli assetti societari; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    previsione di diversi titoli abilitativi per lo svolgimento delle attivita' di operatore di rete o di fornitore di servizi di media audiovisivi anche a richiesta o radiofonici oppure di fornitore di servizi interattivi associati o di servizi di accesso condizionato, con la previsione del regime dell'autorizzazione generale per le attivita' di operatore di rete oppure di fornitore di servizi interattivi associati o di servizi di accesso condizionato; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    previsione di titoli abilitativi distinti per lo svolgimento, rispettivamente, su frequenze terrestri o via cavo coassiale o via satellite o su altre piattaforme, anche da parte dello stesso soggetto, delle attivita' di cui alla lettera b), nonche' previsione di una sufficiente durata dei relativi titoli abilitativi, comunque non inferiore a dodici anni, per le attivita' su frequenze terrestri in tecnica digitale, con possibilita' di rinnovo per eguali periodi; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    previsione di titoli distinti per lo svolgimento delle attivita' di fornitura di cui alla lettera b), rispettivamente in ambito nazionale e in ambito locale, quando le stesse sono esercitate su frequenze terrestri ((...)); 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    obbligo per gli operatori di rete: 
+ ((1) di rendere disponibili le stesse piattaforme e informazioni tecniche nei confronti delle emittenti radiofoniche, dei fornitori di servizi di media radiofonici o dei fornitori di servizi di media audiovisivi, senza effettuare discriminazioni in ragione della riconducibilita' o meno a societa' collegate o controllate;))  2) di non effettuare discriminazioni nello stabilire gli opportuni accordi tecnici in materia di qualita' trasmissiva e condizioni di accesso alla rete fra fornitore di servizi di media audiovisivi, anche a richiesta, o radiofonici appartenenti a societa' controllanti, controllate o collegate e fornitori di servizi di media audiovisivi, anche a richiesta, o radiofonici e fornitore di servizi interattivi associati o di servizi di accesso condizionato indipendenti, prevedendo, comunque, che gli operatori di rete cedano la propria capacita trasmissiva a condizioni di mercato nel rispetto dei principi e dei criteri fissati dall'Autorita' con proprio regolamento; 
+ 3) di utilizzare, sotto la propria responsabilita', le informazioni ottenute ((dai fornitori di servizi di media radiofonici o audiovisivi anche a richiesta, che non siano riconducibili a societa' collegate o controllate)), anche radiofoniche digitali, o dai fornitori di servizi di media a richiesta non riconducibili a societa' ((collegate o controllate)), esclusivamente per il fine di concludere accordi tecnici e commerciali di accesso alla rete, con divieto di trasmettere a societa' controllate o collegate o a terzi le informazioni ottenute; 
+ 4) per le emittenti radiofoniche e per i fornitori di servizi di media audiovisivi, anche a richiesta, o radiofonici ((,)) in caso di cessione dei diritti di sfruttamento di programmi, di osservare pratiche non discriminatorie tra le diverse piattaforme distributive, alle condizioni di mercato, nel rispetto dei diritti di esclusiva, delle norme in tema di diritto d'autore e della libera negoziazione tra le parti; 
+ 5) con esclusione dei soggetti operanti unicamente in ambito locale su frequenze terrestri, obbligo di separazione contabile per le imprese, diverse da quelle che trasmettono in tecnica analogica, operanti in almeno due settori dei servizi di media audiovisivi, della emittenza radiofonica e dei servizi interattivi associati o di servizi di accesso condizionato, al fine di consentire l'evidenziazione dei corrispettivi per l'accesso e l'interconnessione alle infrastrutture di comunicazione, l'evidenziazione degli oneri relativi al servizio pubblico generale, la valutazione dell'attivita' di installazione e gestione delle infrastrutture separata da quella di fornitura dei contenuti o dei servizi, ove svolte dallo stesso soggetto, e la verifica dell'insussistenza di sussidi incrociati e di pratiche discriminatorie, prevedendo, comunque, che: 
+ 5.1) ((...)) il fornitore di servizi di media audiovisivi, anche a richiesta, o radiofonici che sia anche fornitore di servizi, ((adotti)) un sistema di contabilita' separata per ciascuna autorizzazione; 
+ 5.2) ((...))
+                                        ((il fornitore di servizi di media audiovisivi o radiofonici, o di servizi di media audiovisivi a richiesta)) che sia anche operatore di rete in ambito nazionale, o fornitore di servizi interattivi associati o di servizi di accesso condizionato, ((e' tenuto alla)) separazione societaria; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    e' fatto salvo il diritto dei fornitori di servizi di media audiovisivi, anche a richiesta, o radiofonici di effettuare collegamenti in diretta e di trasmettere dati e informazioni all'utenza sulle stesse frequenze messe a disposizione dall'operatore di rete; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    resta fermo l'obbligo, per le emittenti radiofoniche, per fornitori di servizi di media audiovisivi, anche a richiesta, o radiofonici operanti in ambito nazionale e per la concessionaria del servizio pubblico radiofonico televisivo e multimediale, di diffondere il medesimo contenuto su tutto il territorio per il quale e' stato rilasciato il titolo abilitativo, fatti salvi: 
+ 1) la deroga di cui all'articolo 26, comma 1, per le emittenti radiofoniche locali nonche' l'articolazione, anche locale, delle trasmissioni radiotelevisive della societa' concessionaria del servizio pubblico radiofonico, televisivo e multimediale; 
+ 2) quanto previsto dall'articolo 59 per la societa' concessionaria del servizio pubblico radiofonico, televisivo e multimediale; 
+ 3) la trasmissione di eventi di carattere occasionale ovvero eccezionale e non prevedibili; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    previsione di specifiche forme di tutela dei servizi di media in favore delle minoranze linguistiche riconosciute dalla legge.
+
+2.
+                        
+                            
+                                Ai fini del presente testo unico il controllo sussiste, anche con riferimento a soggetti diversi dalle societa', nei casi previsti dall'articolo 2359, commi primo e secondo, del codice civile. Il controllo si considera esistente nella forma dell'influenza dominante, salvo prova contraria, quando ricorre una delle seguenti condizioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    esistenza di un soggetto che, da solo o in base alla concertazione con altri soci, ha la possibilita' di esercitare la maggioranza dei voti nell'assemblea ordinaria o di nominare o revocare la maggioranza degli amministratori; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    sussistenza di rapporti, anche tra soci, di carattere finanziario o organizzativo o economico idonei a conseguire uno dei seguenti effetti: 
+ 1) la trasmissione degli utili e delle perdite; 
+ 2) il coordinamento della gestione dell'impresa con quella di altre imprese ai fini del perseguimento di uno scopo comune; 
+ 3) l'attribuzione di poteri maggiori rispetto a quelli derivanti dalle azioni o dalle quote possedute; 
+ 4) l'attribuzione a soggetti diversi da quelli legittimati in base all'assetto proprietario di poteri nella scelta degli amministratori e dei dirigenti delle imprese; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    esistenza dell'assoggettamento a direzione comune, che puo' risultare anche in base alle caratteristiche della composizione degli organi amministrativi o per altri significativi e qualificati elementi.
+
 L'autorizzazione generale di cui al comma 1, lettera b), non comporta l'assegnazione delle radiofrequenze, da conferire con distinto provvedimento. L'autorizzazione all'attivita' di fornitore di servizi di media audiovisivi anche a richiesta o radiofonici non puo' essere rilasciata a societa' che non hanno per oggetto sociale l'esercizio dell'attivita' radiotelevisiva, editoriale o comunque attinente all'informazione ed allo spettacolo. Fatto salvo quanto previsto per la societa' concessionaria del servizio pubblico generale radiotelevisivo, le amministrazioni pubbliche, gli enti pubblici, anche economici, le societa' a prevalente partecipazione pubblica e le aziende ed istituti di credito non possono, ne' direttamente ne' indirettamente, essere titolari di titoli abilitativi per lo svolgimento delle attivita' di operatore di rete o di fornitore di servizi di media anche a richiesta o radiofonici.
 
 ## Art. 6. — Principi generali in materia di informazione e di ulteriori compiti di pubblico servizio nel settore dei servizi di media audiovisivi e radiofonici
 
 L'attivita' di informazione mediante servizio di media audiovisivo o radiofonico ((...)) costituisce un servizio di interesse generale ed e' svolta nel rispetto dei principi di cui al presente capo.
+
+2.
+                        
+                            
+                                La disciplina dell'informazione radiotelevisiva, garantisce ((...)): 
+ 
+                            
+                            
+                                a)
+                                
+                                    la presentazione veritiera dei fatti e degli avvenimenti, in modo tale da favorire la libera formazione delle opinioni; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la trasmissione quotidiana di telegiornali o giornali radio da parte dei soggetti abilitati a fornire servizi di media audiovisivi e radiofonici in ambito nazionale o locale su frequenze terrestri; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    l'accesso di tutti i soggetti politici alle trasmissioni di informazione in condizioni di parita' di trattamento e di imparzialita', nelle forme e secondo le modalita' indicate dalla legge; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    la trasmissione dei comunicati e delle dichiarazioni ufficiali degli organi costituzionali indicati dalla legge; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    il divieto di utilizzare metodologie e tecniche capaci di manipolare in maniera non riconoscibile allo spettatore il contenuto delle informazioni.
 
 L'Autorita' stabilisce ulteriori regole per le emittenti radiofoniche, nonche' per i fornitori di servizi di media audiovisivi, anche a richiesta, o radiofonici, diversi da quelli operanti in ambito locale per rendere effettiva l'osservanza nei programmi di informazione dei principi di cui al presente capo.
 
@@ -100,6 +764,77 @@ Il contributo pubblico percepito dalla societa' concessionaria del servizio pubb
 
 Salvi i casi previsti dal presente articolo, e' assicurata la liberta' di ricezione e non viene ostacolata la ritrasmissione sul territorio nazionale italiano di servizi di media audiovisivi provenienti da altri Stati membri dell'Unione europea, per ragioni attinenti ai settori coordinati dalla direttiva 2010/13/UE.
 All'Autorita' spetta il compito di adottare misure appropriate per l'attuazione delle disposizioni di cui al presente articolo. A tal fine l'Autorita' stipula protocolli d'intesa con il Ministero della salute, il Ministero della difesa, il Ministero dell'interno e il Ministero della giustizia.
+
+2.
+                        
+                            
+                                L'Autorita' puo' disporre la sospensione provvisoria della ricezione o ritrasmissione dei servizi di media audiovisivi erogati da un fornitore sottoposto alla giurisdizione di un altro Stato membro nei seguenti casi: 
+ 
+                            
+                            
+                                a)
+                                
+                                    violazione manifesta, seria e grave del divieto di trasmissione di programmi che possono nuocere gravemente allo sviluppo fisico, mentale o morale dei minori di anni diciotto, in particolare di programmi che contengono scene pornografiche o di violenza gratuita, a meno che la scelta dell'ora di trasmissione o qualsiasi altro accorgimento tecnico escludano che i minori che si trovano nell'area di diffusione assistano normalmente a tali programmi; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    violazione manifesta, seria e grave del divieto di trasmissione di programmi che contengono incitamento alla violenza o all'odio nei confronti di un gruppo di persone o di un membro di un gruppo, per motivi di razza, sesso, religione o nazionalita'; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    erogazione di servizi di media audiovisivi tali da rappresentare un rischio serio e grave di pregiudizio per la salute pubblica; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    violazione manifesta seria e grave del divieto di pubblica provocazione a commettere i reati di terrorismo di cui all'articolo 5 della direttiva 2017/541/UE del Parlamento europeo e del Consiglio, del 15 marzo 2017; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    pregiudizio o rischio grave e serio di pregiudizio per la pubblica sicurezza, ivi compresa la salvaguardia della difesa e della sicurezza ((nazionale)).
+
+3.
+                        
+                            
+                                La sospensione di cui al comma 2 e' subordinata alle condizioni seguenti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    nel corso dei dodici mesi precedenti il fornitore di servizi di media audiovisivi ha gia' tenuto, in almeno due occasioni, uno o piu' dei comportamenti indicati al comma 2, lettere a),
+                                
+                            
+                            
+                                b)
+                                
+                                    e
+                                
+                            
+                            
+                                c)
+                                
+                                    o ha tenuto, in almeno un'occasione, uno dei comportamenti di cui alle lettere d) ed e); 
+ b) l'Autorita' ha notificato per iscritto al fornitore di servizi di media audiovisivi, allo Stato membro avente giurisdizione su tale fornitore e alla Commissione europea le presunte violazioni e le misure proporzionate che intende adottare in caso di nuove violazioni; 
+ c) al fornitore di servizi di media audiovisivi e' stata assicurata la possibilita' di rappresentare, in contraddittorio((...)) le ((...)) osservazioni relative alle presunte violazioni notificate dall'Autorita', secondo le modalita' indicate con regolamento dell'Autorita' stessa; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    le consultazioni con lo Stato membro dotato di giurisdizione sul fornitore di servizi di media audiovisivi e radiofonici e con la Commissione europea, svolte ai sensi della procedura disciplinata dall'art. 3 della direttiva (UE) 2018/1808, non hanno condotto a una soluzione amichevole entro un mese dalla ricezione, da parte della commissione, della notifica di cui alla lettera b) e l'Autorita' ha comunicato al fornitore di servizi di media audiovisivi e radiofonici il mancato raggiungimento di una soluzione amichevole entro il predetto termine.
 
 Le condizioni di cui al comma 3, lettere c) e d), non si applicano nei casi di violazione di cui al comma 2, lettera d).
 
@@ -114,6 +849,60 @@ I fornitori di servizi di media audiovisivi e radiofonici sottoposti alla giuris
 Se un fornitore di servizi di media soggetto alla giurisdizione di un altro Stato membro fornisce un servizio di media audiovisivo in tutto o per la maggior parte destinato al territorio italiano, l'Autorita' puo' chiedere a tale Stato di considerare eventuali questioni relative alle disposizioni del presente articolo, con particolare riguardo alle violazioni di cui al comma 2, secondo le procedure definite con apposito regolamento della stessa Autorita'.
 
 Quando all'applicazione delle misure di cui al comma 9 non seguono risultati soddisfacenti e vi sono elementi probatori idonei a far ritenere che il fornitore di servizi di media in questione si e' stabilito nello Stato membro cui spetta la giurisdizione per eludere le norme piu' rigorose applicabili in caso di stabilimento nel territorio italiano, si applica la normativa nazionale, anche penale, vigente in materia, senza necessita' di dimostrare l'intenzione del fornitore di servizi di media di eludere le norme piu' rigorose.
+
+11.
+                        
+                            
+                                Le misure di cui al comma 10 possono essere adottate alle seguenti condizioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    l'intenzione di adottare le misure in questione e i relativi motivi sono stati notificati alla Commissione europea e allo Stato membro interessato; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    sono stati rispettati i diritti di difesa e al contraddittorio del fornitore interessato, assicurandogli, in particolare, la possibilita' di presentare osservazioni; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    la Commissione europea, previa richiesta di parere all'ERGA, ha accertato che le misure cosi' disposte sono compatibili con il diritto dell'Unione europea.
+
+12.
+                        
+                            
+                                L'Autorita' puo' disporre la sospensione della ricezione o della ritrasmissione di servizi di media audiovisivi sulla base di richieste provenienti da altri Stati membri dell'Unione europea, qualora ritenga che tali provvedimenti sono: 
+ 
+                            
+                            
+                                a)
+                                
+                                    necessari per una delle seguenti ragioni: 
+ 1) tutela dell'ordine pubblico, in particolare la prevenzione, l'investigazione, l'individuazione e il perseguimento di reati, anche in funzione della tutela dei minori e del contrasto all'incitamento all'odio fondato su motivi di razza, sesso, religione o nazionalita', nonche' alle violazioni della dignita' umana degli individui; 
+ 2) tutela della sanita' pubblica; 
+ 3) tutela della pubblica sicurezza, compresa la salvaguardia della sicurezza e della difesa ((nazionale)); 
+ 4) tutela dei consumatori, ivi compresi gli investitori, ai sensi del presente testo unico; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    relativi a un servizio di media audiovisivi a richiesta lesivo degli obiettivi di cui alla lettera a) o che ponga un rischio serio e grave di pregiudizio a tali obiettivi; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    proporzionati agli obiettivi perseguiti.
 
 In ipotesi di violazione dei principi fondamentali del sistema dei servizi di media audiovisivi e radiofonici e di servizi di piattaforma per la condivisione di video, l'Autorita' puo' disporre la sospensione della ricezione o ritrasmissione dei servizi sottoposti alla giurisdizione italiana ai sensi dell'articolo 2, comma 3, e dell'articolo 41, comma 7, o non soggetti alla giurisdizione di alcun o Stato membro dell'Unione europea, i cui contenuti o cataloghi sono ricevuti direttamente o indirettamente dal pubblico italiano. A tale fine, a seguito di un formale richiamo, l'Autorita' puo' ordinare al fornitore di servizi interattivi associati o di servizi di accesso condizionato o all'operatore di rete o di servizi sulla cui piattaforma o infrastruttura sono veicolati programmi, di adottare ogni misura necessaria ad inibire la diffusione di tali programmi o cataloghi presso il pubblico italiano.
 In caso di inosservanza dell'ordine, l'Autorita' applica al fornitore di servizi interattivi associati o di servizi di accesso condizionato o all'operatore di rete o di servizi una sanzione amministrativa pecuniaria da euro 5.000 a euro 500.000.
@@ -157,6 +946,38 @@ L'Autorita', in caso di richiesta relativa alle attivita' di un fornitore di ser
 Restano ferme le competenze in materia di servizi di media audiovisivi e radiofonici attribuite dalle vigenti norme alla Presidenza del Consiglio dei ministri, alla Commissione parlamentare per l'indirizzo generale e la vigilanza dei servizi radiotelevisivi, al Ministero della cultura, al Garante per la protezione dei dati personali e all'Autorita' garante della concorrenza e del mercato.
 
 ## Art. 11. — Competenze delle regioni
+
+1.
+                        
+                            
+                                Le regioni esercitano la potesta' legislativa concorrente in materia di servizi di media in ambito locale, nel rispetto dei principi generali di cui agli articoli 4, 5 e 6 del presente testo unico e sulla base dei seguenti ulteriori principi: 
+ 
+                            
+                            
+                                a)
+                                
+                                    trasmissione dei servizi di media audiovisivi e radiofonici in ambito locale nell'ambito delle bande di frequenza previste per tali servizi dal vigente regolamento delle radiocomunicazioni dell'Unione internazionale delle telecomunicazioni, nel rispetto degli accordi internazionali, della normativa dell'Unione europea e di quella nazionale, nonche' dei piani nazionali di ripartizione e di assegnazione delle radiofrequenze; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    attribuzione a organi della regione o degli enti locali territorialmente competenti delle competenze in ordine al rilascio dei provvedimenti abilitativi, autorizzatori e concessori necessari per l'accesso ai siti trasmissivi, in base alle vigenti disposizioni nazionali e regionali, per l'installazione di reti e di impianti, nel rispetto dei principi di non discriminazione, proporzionalita' e obiettivita', nonche' nel rispetto delle disposizioni vigenti in materia di tutela della salute, di tutela del territorio, dell'ambiente e del patrimonio culturale e del paesaggio; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    attribuzione a organi della regione o degli enti locali territorialmente competenti delle competenze in ordine al rilascio delle autorizzazioni per fornitore di servizi di media audiovisivi o radiofonici, o per fornitore di servizi interattivi associati o di servizi di accesso condizionato destinati alla diffusione in ambito locale; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    previsione che il rilascio dei titoli abilitativi di cui alla lettera c) avvenga secondo criteri oggettivi, tenendo conto della potenzialita' economica del soggetto richiedente, della qualita' della programmazione prevista e dei progetti radioelettrici e tecnologici, e in caso di pregressa presenza sul mercato, degli investimenti operati nella realizzazione o nella manutenzione di infrastrutture o della produzione di opere originali, delle ore di trasmissione effettuate, della qualita' dei programmi, delle quote percentuali di spettacoli e di servizi informativi autoprodotti, del personale dipendente, con particolare riguardo ai giornalisti iscritti all'albo professionale, e degli indici di ascolto rilevati.
 
 Il titolare della autorizzazione di operatore di rete televisiva in tecnica digitale in ambito locale ((...))
                                 ((che)) abbia richiesto una o piu' autorizzazioni per lo svolgimento dell'attivita' di fornitura di cui alla lettera b), ha diritto a ottenere almeno un'autorizzazione che consenta di irradiare nel blocco di programmi televisivi numerici di cui alla licenza rilasciata.
@@ -249,6 +1070,31 @@ Al fine di favorire la progressiva affermazione delle nuove tecnologie trasmissi
 
 ## Art. 21. — Durata e limiti delle concessioni e autorizzazioni 
  radiofoniche su frequenze terrestri in tecnica analogica
+
+1.
+                        
+                            
+                                Fino all'adozione del piano nazionale di assegnazione delle frequenze di radiodiffusione sonora in tecnica analogica di cui all'articolo 50, la radiodiffusione sonora privata in ambito nazionale e locale su frequenze terrestri in tecnica analogica e' esercitata in regime di concessione o di autorizzazione con i diritti e gli obblighi stabiliti per il concessionario dalla legge 6 agosto 1990, n. 223, da parte dei soggetti legittimamente operanti in possesso, alla data del 30 settembre 2001, dei seguenti requisiti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    se emittente di radiodiffusione sonora in ambito locale a carattere commerciale, la natura giuridica di societa' di persone o di capitali o di societa' cooperativa che impieghi almeno due dipendenti in regola con le vigenti disposizioni in materia previdenziale; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    se emittente di radiodiffusione sonora in ambito nazionale a carattere commerciale, la natura giuridica di societa' di capitali che impieghi almeno quindici dipendenti in regola con le vigenti disposizioni in materia previdenziale; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    se emittente di radiodiffusione sonora a carattere comunitario, la natura giuridica di associazione riconosciuta o non riconosciuta, fondazione o cooperativa priva di scopo di lucro.
 
 I legali rappresentanti e gli amministratori delle imprese non devono aver riportato condanna irrevocabile a pena detentiva per delitto non colposo superiore a sei mesi e non devono essere stati sottoposti alle misure di prevenzione previste dal decreto legislativo 6 settembre 2011, n. 159, o alle misure di sicurezza previste dagli articoli 199 e seguenti del codice penale.
 
@@ -348,6 +1194,78 @@ Allo scopo di assicurare il pluralismo, la liberta' di espressione, la diversita
 
 L'Autorita', mediante linee guida, definisce i criteri di qualificazione di un servizio di media audiovisivo o radiofonico quale servizio di interesse generale. Mediante le medesime linee guida, l'Autorita' definisce, altresi', le modalita' e i criteri cui i produttori di apparecchi idonei alla ricezione di segnali radiotelevisivi o radiofonici, i prestatori di servizi di indicizzazione, aggregazione o reperimento di contenuti audiovisivi o sonori o i prestatori che determinano le modalita' di presentazione dei servizi sulle interfacce degli utenti, dovranno attenersi allo scopo di assicurare l'osservanza di quanto previsto al comma 1.
 
+3.
+                        
+                            
+                                I fornitori di servizi di media audiovisivi soggetti alla giurisdizione italiana offrono ai destinatari un accesso facile, diretto e permanente almeno alle seguenti informazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il nome del fornitore; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'indirizzo geografico di stabilimento; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    le informazioni del fornitore, compresi l'indirizzo di posta elettronica o il sito internet, che permettono di contattarlo rapidamente, direttamente ed efficacemente; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    lo Stato membro dotato di giurisdizione e l'Autorita' titolari dei poteri di regolazione e vigilanza.
+
+4.
+                        
+                            
+                                Fermo il diritto di ciascun utente di riordinare i canali offerti sulla televisione digitale nonche' la possibilita' per gli operatori di offerta televisiva a pagamento di introdurre ulteriori e aggiuntivi servizi di guida ai programmi e di ordinamento dei canali, l'Autorita', al fine di assicurare condizioni eque, trasparenti e non discriminatorie, adotta un apposito piano di numerazione automatica dei canali della televisione digitale terrestre, in chiaro e a pagamento, e stabilisce con proprio regolamento le modalita' di attribuzione dei numeri ai fornitori di servizi di media audiovisivi autorizzati alla diffusione di contenuti audiovisivi in tecnica digitale terrestre, sulla base dei seguenti principi e criteri direttivi in ordine di priorita': 
+ 
+                            
+                            
+                                a)
+                                
+                                    garanzia della semplicita' d'uso del sistema di ordinamento automatico dei canali; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    rispetto delle abitudini e preferenze degli utenti, con particolare riferimento alla programmazione nazionale ((prima)) analogica e alle emittenti locali; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    suddivisione delle numerazioni dei canali a diffusione nazionale, sulla base del criterio della programmazione prevalente, in relazione alla natura generalista o tematica della programmazione.
+Nel primo arco di numeri devono prevedersi spazi adeguati a valorizzare la programmazione dei fornitori di servizi di media audiovisivi locali di qualita' e legati al territorio. Nello stesso arco di numeri non dovranno essere irradiati programmi rivolti a un pubblico di soli adulti. Al fine di garantire il piu' ampio pluralismo in condizioni di parita' tra i soggetti operanti nel mercato, dovra' essere riservata una serie di numeri a disposizione per i nuovi soggetti entranti; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    definizione delle condizioni di utilizzo della numerazione, prevedendo la possibilita', sulla base di accordi, di scambi della numerazione all'interno di uno stesso genere, previa comunicazione all'Autorita'; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    revisione del piano di numerazione in base allo sviluppo del mercato, sentiti i soggetti interessati.
+
 Il Ministero, nell'ambito del titolo abilitativo rilasciato per l'esercizio della radiodiffusione televisiva in tecnica digitale terrestre, attribuisce a ciascun canale la numerazione spettante sulla base del piano di numerazione e della regolamentazione adottata dall'Autorita' ai sensi ((del comma 4 e stabilisce, con apposito decreto, sentita l'Autorita', le condizioni e le modalita' di utilizzo del numero assegnato)). L'attribuzione dei numeri ai soggetti gia' abilitati all'esercizio della radiodiffusione televisiva in tecnica digitale terrestre e' effettuata con separato provvedimento integrativo dell'autorizzazione.
 
 In caso di mancato rispetto della disciplina regolamentare adottata dall'Autorita' o delle condizioni di utilizzo del numero assegnato ai sensi del comma 5, il Ministero dispone la sospensione dell'autorizzazione a trasmettere e dell'utilizzazione del numero assegnato per un periodo fino a due anni. La sospensione e' adottata qualora il soggetto interessato, dopo aver ricevuto comunicazione dell'avvio del procedimento ed essere stato invitato a regolarizzare la propria posizione, non vi provvede entro il termine di sette giorni. In caso di reiterata violazione, nei tre anni successivi all'adozione di un provvedimento di sospensione, il Ministero dispone la revoca dell'autorizzazione a trasmettere e dell'utilizzazione del numero assegnato.
@@ -389,6 +1307,24 @@ E' istituito presso l'Autorita' un Punto di contatto unico online, disponibile a
 
 Le disposizioni del presente testo unico non sono in pregiudizio dei principi e dei diritti di cui alla legge 22 aprile 1941, n. 633, in materia di protezione del diritto d'autore e di altri diritti connessi, nonche' delle sanzioni previste al Capo III del Titolo III della medesima legge. I fornitori di servizi di media audiovisivi assicurano il pieno rispetto dei principi e dei diritti di cui alla ((...)) legge 22 aprile 1941, n. 633, indipendentemente dalla piattaforma utilizzata per la trasmissione di contenuti audiovisivi.
 
+2.
+                        
+                            
+                                I fornitori di servizi di media audiovisivi assicurano il pieno rispetto dei principi e dei diritti in materia dei diritti d'autore e dei diritti connessi, indipendentemente dalla piattaforma utilizzata per la trasmissione. In particolare: 
+ 
+                            
+                            
+                                a)
+                                
+                                    trasmettono le opere cinematografiche, di cui all'articolo 2, comma 1, lettera b), della legge 14 novembre 2016, n. 220, nel rispetto dei termini temporali e delle condizioni concordate con i titolari dei diritti; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    si astengono dal trasmettere o ritrasmettere, o mettere comunque a disposizione degli utenti, su qualsiasi piattaforma e qualunque sia la tipologia di servizio offerto, programmi oggetto di diritti di proprieta' intellettuale di terzi, o parti di tali programmi, senza il consenso dei titolari dei diritti, e salve le disposizioni in materia di brevi estratti di cronaca.
+
 L'Autorita' emana le disposizioni regolamentari vincolanti, adeguate e necessarie per rendere effettiva l'osservanza dei limiti e divieti di cui al presente articolo.
 
 ## Art. 33.
@@ -408,6 +1344,59 @@ L'Autorita' vigila sull'attuazione delle disposizioni ((del presente articolo,))
 ## Art. 34. — Brevi estratti di cronaca
 
 Con regolamento dell'Autorita' sono individuate le modalita' attraverso le quali ogni fornitore di servizi di media, anche se operante nel territorio di diverso Stato membro, puo' utilizzare brevi estratti di cronaca di eventi di grande interesse pubblico trasmessi in esclusiva da un fornitore soggetto alla giurisdizione italiana.
+
+2.
+                        
+                            
+                                Il regolamento disciplina, in particolare: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la liberta' di scelta dei brevi estratti a partire dal segnale di trasmissione; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'indicazione della fonte del breve estratto, salvo che sia nella pratica impossibile; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    l'accesso a condizioni eque, ragionevoli e non discriminatorie; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    l'utilizzazione degli estratti esclusivamente per i notiziari di carattere generale; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    l'utilizzazione degli estratti da parte dei fornitori dei servizi di media audiovisivi a richiesta solamente per la trasmissione in differita; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    gli accordi tra gli operatori per individuare la lunghezza massima dei brevi estratti e i limiti di tempo per la loro trasmissione; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    il compenso pattuito in modo che non superi i costi supplementari direttamente sostenuti per consentire l'accesso.
 
 ## Art. 35. — Telegiornali e giornali radio. Rettifica
 
@@ -445,6 +1434,24 @@ L'Autorita', ricorrendo a procedure di co-regolamentazione, puo' individuare mis
 Le trasmissioni di cui al comma 1 possono essere rese disponibili dai fornitori di servizi di media audiovisivi a richiesta, in deroga ai divieti di cui al comma 1, solo in maniera tale da escludere che i minori vedano o ascoltino normalmente tali servizi e comunque con imposizione di un sistema di controllo specifico e selettivo che vincoli alla introduzione del sistema di protezione di cui al comma 5, alla disciplina del comma 11 ed alla segnaletica di cui al comma 2.
 
 Le anteprime di opere cinematografiche destinate alla proiezione o distribuzione in pubblico sono soggette a tutte le limitazioni e ai vincoli comunque previsti per la trasmissione dell'opera cinematografica di cui costituiscono promozione.
+
+5.
+                        
+                            
+                                L'Autorita', d'intesa con il Ministero, sentiti l'Autorita' garante per l'infanzia e l'adolescenza ((, il Comitato consultivo di cui all'articolo 8, comma 2, e l'Autorita' politica con delega alla famiglia,)), al fine di garantire un adeguato livello di tutela della dignita' umana e dello sviluppo fisico, mentale e morale dei minori, adotta, con procedure di co-regolamentazione, la disciplina di dettaglio contenente l'indicazione degli accorgimenti tecnici idonei a escludere che i minori vedano o ascoltino normalmente ((i programmi di cui al comma 1 nei casi di cui al comma 3)), fra cui l'uso di numeri di identificazione personale e sistemi di filtraggio, di verifica dell'eta' o di identificazione, nel rispetto dei seguenti criteri generali: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il contenuto classificabile «a visione non libera» sulla base dei criteri fissati dall'Autorita' e' offerto con una funzione di controllo parentale che inibisce l'accesso al contenuto stesso, salva la possibilita' per l'utente di disattivare la predetta funzione tramite la digitazione di uno specifico codice segreto che ne renda possibile la visione. L'effettiva imposizione della predetta funzione di controllo specifica e selettiva e' condizione per l'applicazione del comma 3; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il codice segreto deve essere comunicato con modalita' riservate, corredato dalle avvertenze in merito alla responsabilita' nell'utilizzo e nella custodia del medesimo, al contraente maggiorenne che stipula il contratto relativo alla fornitura del contenuto o del servizio.
 
 I fornitori di servizi di media diffusi tramite qualsiasi canale o piattaforma sono obbligati ad osservare le disposizioni a tutela dei minori previste dal Codice di autoregolamentazione media e minori. ((Il Codice di autoregolamentazione e' adottato entro il 31 dicembre 2024, previo parere della Commissione parlamentare di cui alla legge 23 dicembre 1997, n. 451 e del comitato consultivo di cui all'articolo 8, con decreto del Ministro, ai sensi dell'articolo 17, comma 3, della legge 23 agosto 1988, n. 400. Nelle more dell'adozione del codice di autoregolamentazione continua ad applicarsi il codice attualmente vigente.))
 
@@ -514,6 +1521,24 @@ Le disposizioni del presente articolo si applicano anche ai fornitori di servizi
 
 I fornitori di servizi di piattaforma per la condivisione di video stabiliti sul territorio nazionale sono soggetti alla giurisdizione italiana.
 
+2.
+                        
+                            
+                                Un fornitore di piattaforme per la condivisione di video che non e' stabilito sul territorio nazionale a norma del comma 1 si considera stabilito sul territorio italiano se: 
+ 
+                            
+                            
+                                a)
+                                
+                                    l'impresa che lo controlla o un'impresa controllata sia stabilita sul territorio italiano; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    oppure fa parte di un gruppo e un'altra impresa di detto gruppo e' stabilita sul territorio italiano.
+
 Ai fini del presente articolo, il «gruppo» comprende l'impresa controllante, tutte le imprese da questa controllate e tutte le altre imprese aventi legami organizzativi, economici e giuridici con esse.
 
 Ai fini dell'applicazione dei commi 2 e 3, nel caso in cui l'impresa controllante o la controllata o le altre imprese del gruppo sono stabilite in Stati membri diversi, il fornitore di piattaforme per la condivisione di video e' considerato stabilito in Italia, se qui e' stabilita l'impresa controllante o, in assenza di tale stabilimento, se e' ivi stabilita una sua impresa controllata o, in assenza di tale stabilimento, se e' ivi stabilita un'impresa del gruppo.
@@ -521,6 +1546,31 @@ Ai fini dell'applicazione dei commi 2 e 3, nel caso in cui l'impresa controllant
 Ai fini dell'applicazione del comma 4, nel caso in cui vi siano varie imprese controllate da un'impresa e ciascuna di esse sia stabilita in uno Stato membro differente, il fornitore di piattaforme per la condivisione di video e' considerato stabilito in Italia se una delle imprese controllate ha avviato per prima la propria attivita' in Italia, a condizione che mantenga un collegamento effettivo e stabile con l'economia italiana.
 
 Ai fornitori di piattaforme per la condivisione di video stabiliti in Italia a norma dei commi da 1 a 5 si applicano gli articoli 3, 4 e 5 del decreto legislativo 9 aprile 2003, n. 70.
+
+7.
+                        
+                            
+                                Fermo quanto previsto ai commi 1, 2, 3, 4, 5 e 6, la libera circolazione di programmi, video generati dagli utenti e comunicazioni commerciali audiovisive veicolati da una piattaforma per la condivisione di video il cui fornitore e' stabilito in un altro Stato membro e diretti al pubblico italiano puo' essere limitata, con provvedimento dell'Autorita', secondo la procedura di cui all'articolo 5, commi 2, 3 e 4 del decreto legislativo 9 aprile 2003, n. 70, per i seguenti fini: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la tutela dei minori da contenuti che possono nuocere al loro sviluppo fisico, psichico o morale a norma dell'articolo 37; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la lotta contro l'incitamento all'odio razziale, sessuale, religioso o etnico, nonche' contro la violazione della dignita' umana; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    la tutela dei consumatori, ivi compresi gli investitori, ai sensi del presente testo unico.
 
 Al fine di stabilire se un programma, un video generato dagli utenti ovvero una comunicazione commerciale audiovisiva siano diretti al pubblico italiano valgono criteri quali la lingua utilizzata, il raggiungimento di un numero significativo di contatti presenti sul territorio italiano o il conseguimento di ricavi in Italia.
 
@@ -540,6 +1590,31 @@ Le disposizioni di cui al presente articolo si applicano anche ai servizi di pia
 
 ((
 
+1.
+                        
+                            
+                                I fornitori di piattaforme per la condivisione di video soggetti alla giurisdizione italiana devono adottare misure adeguate volte a tutelare: 
+ 
+                            
+                            
+                                a)
+                                
+                                    i minori da programmi, video generati dagli utenti e comunicazioni commerciali audiovisive che possano nuocere al loro sviluppo fisico, mentale o morale a norma degli articoli 37 e 43; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il grande pubblico da programmi, video generati dagli utenti e comunicazioni commerciali audiovisive che istighino alla violenza o all'odio nei confronti di un gruppo di persone o un membro di un gruppo sulla base di uno dei motivi di cui all'articolo 21 della Carta dei diritti fondamentali dell'Unione europea; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il grande pubblico da programmi, video generati dagli utenti e comunicazioni commerciali audiovisive che includano contenuti la cui diffusione costituisce reato ai sensi del diritto vigente negli Stati membri dell'Unione europea, con particolare riferimento alla pubblica provocazione a commettere reati di terrorismo ai sensi dell'articolo 5 della direttiva (UE) 2017/541 del Parlamento europeo e del Consiglio, del 15 marzo 2017, ai reati di pedopornografia ai sensi dell'articolo 5, paragrafo 4, della direttiva 2011/93/UE del Parlamento europeo e del Consiglio del 13 dicembre 2011, e ai reati di stampo razzista o xenofobo ai sensi dell'articolo 1 della decisione quadro 2008/913/GAI del Consiglio, del 28 novembre 2008.
+
 I fornitori di piattaforme per la condivisione di video soggetti alla giurisdizione italiana sono tenuti a conformarsi ai requisiti di cui all'articolo 43, relativamente alle comunicazioni commerciali audiovisive promosse commercialmente, vendute o organizzate.
 L'Autorita' vigila affinche' i fornitori di piattaforme per la condivisione di video adottino misure adeguate a tale scopo relativamente alle comunicazioni commerciali audiovisive non promosse commercialmente, vendute o organizzate dagli stessi. I fornitori di piattaforme per la condivisione di video soggetti alla giurisdizione italiana informano chiaramente gli utenti nel caso in cui i programmi e i video generati dagli utenti contengano comunicazioni commerciali audiovisive, a condizione che tali comunicazioni siano dichiarate a norma del comma 7, lettera c), o il fornitore sia comunque a conoscenza di tale fatto.
 
@@ -550,6 +1625,80 @@ I codici di condotta di cui al comma 3 individuano altresi' misure finalizzate a
 L'Autorita', sentiti l'Autorita' garante per l'infanzia e l'adolescenza e il Ministero, con proprio provvedimento, adotta apposite linee guida con cui indica i criteri specifici informatori dei codici di condotta di cui al comma 3, alla luce della natura e del contenuto del servizio offerto, del danno che questo puo' causare, delle caratteristiche della categoria di persone da tutelare nonche' di tutti i diritti e gli interessi legittimi, compresi quelli dei fornitori della piattaforma per la condivisione di video e degli utenti che hanno creato o caricato contenuti, nonche' dell'interesse pubblico generale. Le misure non mirano al controllo preventivo e al filtraggio dei contenuti nel momento in cui vengono caricati, sono praticabili e proporzionate e tengono conto delle dimensioni della piattaforma per la condivisione di video e della natura del servizio offerto. L'Autorita' stabilisce, inoltre, la procedura di vigilanza concernente il monitoraggio e la valutazione periodica di conformita', nel rispetto dei principi di trasparenza, non discriminazione e proporzionalita'.
 
 Ai fini della tutela dei minori di cui al comma 1, lettera a), i contenuti maggiormente nocivi sono soggetti alle piu' rigorose misure di controllo di accesso.
+
+7.
+                        
+                            
+                                I fornitori di piattaforma per la condivisione di video sono in ogni caso tenuti a: 
+ 
+                            
+                            
+                                a)
+                                
+                                    includere i requisiti di cui al comma 1, nei termini e alle condizioni dei servizi di piattaforma per la condivisione di video, la cui accettazione da parte degli utenti costituisce condizione di accesso al servizio; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    includere e applicare, nei termini e alle condizioni dei servizi di piattaforme per la condivisione di video, i requisiti di cui all'articolo 9, paragrafo 1, della direttiva (UE) 2018/1808 del Parlamento europeo e del Consiglio, del 14 novembre 2018, per le comunicazioni commerciali audiovisive non promosse commercialmente, vendute o organizzate dai fornitori di piattaforme per la condivisione di video; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    avere una funzionalita' che consenta agli utenti che caricano video generati dagli utenti di dichiarare se tali video contengono comunicazioni commerciali audiovisive di cui sono a conoscenza o di cui si possa ragionevolmente presumere che siano a conoscenza; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    predisporre meccanismi trasparenti e di facile uso affinche' gli utenti delle piattaforme per la condivisione di video possano segnalare o indicare al fornitore di piattaforme interessato i contenuti di cui al comma 1 caricati sulla sua piattaforma; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    predisporre sistemi mediante i quali i fornitori di piattaforme per la condivisione di video spiegano agli utenti di tali piattaforme quale seguito sia stato dato alla segnalazione e all'indicazione di cui alla lettera d); 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    predisporre sistemi per verificare, nel rispetto della normativa in materia di protezione dei dati personali, l'eta' degli utenti delle piattaforme di condivisione di video per quanto attiene ai contenuti che possono nuocere allo sviluppo fisico, mentale o morale dei minori; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    predisporre sistemi di facile uso che consentano agli utenti delle piattaforme per la condivisone di video di valutare i contenuti di cui al comma 1; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    dotarsi di sistemi di controllo parentale sotto la vigilanza dell'utente finale per quanto attiene ai contenuti che possano nuocere allo sviluppo fisico, mentale o morale dei minori; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    predisporre procedure trasparenti, di facile uso ed efficaci per la gestione e la risoluzione dei reclami degli utenti nei confronti dei fornitori di piattaforme per la condivisione di video in relazione all'attuazione delle misure di cui alle lettere da d) a h); 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    predisporre misure e strumenti efficaci di alfabetizzazione mediatica e sensibilizzare gli utenti in merito a tali misure e strumenti.
 
 I dati personali dei minori raccolti o altrimenti generati dai fornitori di piattaforme per la condivisione di video a norma del comma 7, lettere f) ed h), non sono trattati a fini commerciali.
 
@@ -564,6 +1713,70 @@ Le disposizioni di cui al presente articolo si applicano anche ai servizi di pia
 ## - Capo III Disposizioni sulla pubblicita', le sponsorizzazioni e l'inserimento  di prodotti
 
 ## Art. 43. — Principi generali in materia di comunicazioni commerciali audiovisive e radiofoniche
+
+1.
+                        
+                            
+                                Le comunicazioni commerciali audiovisive fornite dai fornitori di servizi di media soggetti alla giurisdizione italiana rispettano le seguenti disposizioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    le comunicazioni commerciali audiovisive devono essere prontamente riconoscibili come tali e sono proibite le comunicazioni commerciali audiovisive occulte; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le comunicazioni commerciali audiovisive non utilizzano tecniche subliminali e devono mantenere un livello sonoro non superiore a quello ordinario dei programmi; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    le comunicazioni commerciali audiovisive: 
+ 1) non pregiudicano il rispetto della dignita' umana; 
+ 2) non comportano ne' promuovono discriminazioni fondate su sesso, razza o origine etnica, nazionalita', religione o convinzioni personali, disabilita', eta' o orientamento sessuale; 
+ 3) non incoraggiano comportamenti pregiudizievoli per la salute o la sicurezza; 
+ 4) non incoraggiano comportamenti gravemente pregiudizievoli per la protezione dell'ambiente; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    e' vietata qualsiasi forma di comunicazione commerciale audiovisiva per le sigarette e gli altri prodotti a base di tabacco o contenenti nicotina, comprese quelle per sigarette elettroniche e contenitori di liquido di ricarica. Tali comunicazioni sono vietate anche se effettuate in forma indiretta, mediante utilizzo di nomi, marchi, simboli o di altri elementi caratteristici di prodotti del tabacco o di aziende la cui attivita' principale consiste nella produzione o nella vendita di tali prodotti, quando per forme, modalita' e mezzi impiegati ovvero in base a qualsiasi altro univoco elemento tale utilizzo sia idoneo a perseguire una finalita' pubblicitaria dei prodotti stessi. Al fine di determinare quale sia l'attivita' principale dell'azienda deve farsi riferimento all'incidenza del fatturato delle singole attivita', di modo che quella principale sia comunque prevalente rispetto a ciascuna delle altre attivita' di impresa nell'ambito del territorio nazionale; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    le comunicazioni commerciali audiovisive per le bevande alcoliche non si rivolgono specificatamente ai minori ne' incoraggiano il consumo smodato di tali bevande; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    sono vietate le comunicazioni commerciali audiovisive dei medicinali e delle cure mediche che, nel territorio italiano, si possono ottenere esclusivamente su prescrizione medica; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    le comunicazioni commerciali audiovisive non arrecano pregiudizio fisico o morale ai minori. Non esortano pertanto i minori ad acquistare o locare un prodotto o un servizio sfruttando la loro inesperienza o credulita', ne' li incoraggiano a persuadere i loro genitori o altri ad acquistare i beni o i servizi pubblicizzati, ne' sfruttano la particolare fiducia che i minori ripongono nei genitori, negli insegnanti o in altre persone, ne' mostrano senza motivo minori che si trovano in situazioni pericolose; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    sono vietate le comunicazioni commerciali audiovisive relative al gioco d'azzardo.
 
 L'Autorita', sentito il Ministero e d'intesa ((con l'Autorita' politica con delega alla famiglia)), promuove forme di co-regolamentazione e di autoregolamentazione con i fornitori di servizi di media, attraverso codici di condotta volti a garantire il rispetto del divieto di cui al comma 1, lettera c. I codici, una volta adottati, sono trasmessi senza indugio all'Autorita', la quale ne verifica la conformita' alla legge e ai propri atti regolatori e conferisce loro efficacia, con propria delibera di approvazione, vigilando sulla relativa attuazione.
 
@@ -591,6 +1804,52 @@ Alle emittenti televisive che operano in ambito locale e le cui trasmissioni son
 Ai fini del presente articolo, per durata programmata si intende il tempo di trasmissione compreso tra l'inizio della sigla di apertura e la fine della sigla di chiusura del programma, calcolato al lordo della pubblicita' inserita, come previsto nella programmazione del palinsesto.
 
 Fermo restando il divieto di televendita di cure mediche, la pubblicita' radiofonica e televisiva di strutture sanitarie e' regolata dalla apposita disciplina in materia di pubblicita' sanitaria di cui alla legge 5 febbraio 1992, n. 175.
+
+9.
+                        
+                            
+                                La pubblicita' televisiva e la televendita delle bevande alcoliche devono conformarsi ai seguenti criteri: 
+ 
+                            
+                            
+                                a)
+                                
+                                    non rivolgersi espressamente ai minori, ne', in particolare, presentare minori intenti a consumare tali bevande; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    non collegare il consumo di alcolici con prestazioni fisiche di particolare rilievo o con la guida di automobili; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    non creare l'impressione che il consumo di alcolici contribuisca al successo sociale o sessuale; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    non indurre a credere che le bevande alcoliche possiedano qualita' terapeutiche stimolanti o calmanti o che contribuiscano a risolvere situazioni di conflitto psicologico; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    non incoraggiare un uso eccessivo e incontrollato di bevande alcoliche e non presentare in una luce negativa l'astinenza dall'uso di alcol o la sobrieta'; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    non usare l'indicazione del rilevante grado alcolico come qualita' positiva delle bevande.
 
 La trasmissione di dati e di informazioni all'utenza di cui all'articolo 27, comma 3, puo' comprendere anche la diffusione di inserzioni pubblicitarie.
 
@@ -620,6 +1879,31 @@ Non sono considerati ai fini del calcolo dei limiti massimi di cui al presente a
 
 ## Art. 46. — Disposizioni sui servizi di media audiovisivi e radiofonici e sulle sponsorizzazioni
 
+1.
+                        
+                            
+                                I servizi di media audiovisivi o i programmi sponsorizzati devono rispondere ai seguenti criteri: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il contenuto e, nel caso di trasmissioni radiotelevisive, la programmazione di una trasmissione sponsorizzata non possono in nessun caso essere influenzati dallo sponsor in maniera tale da ledere la responsabilita' e l'autonomia editoriale dei fornitori di servizi di media audiovisivi o della concessionaria pubblica nei confronti delle trasmissioni; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    devono essere chiaramente riconoscibili come programmi sponsorizzati e indicare il nome, il logotipo o qualsiasi altro simbolo o segno distintivo dello sponsor, all'inizio o alla fine del programma; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    non devono stimolare all'acquisto o al noleggio dei prodotti o servizi dello sponsor o di un terzo, specialmente facendo riferimenti specifici di carattere promozionale a detti prodotti o servizi.
+
 I servizi di media audiovisivi e i programmi non possono essere sponsorizzati da persone fisiche o giuridiche la cui attivita' principale consista nella produzione o vendita di sigarette, come pure di sigarette elettroniche, contenitori di liquido di ricarica, o di altri prodotti a base di tabacco o di nicotina.
 
 La sponsorizzazione di servizi di media audiovisivi o di programmi da parte di imprese le cui attivita' comprendono la produzione o la vendita di medicinali e di cure mediche puo' riguardare la promozione del nome o dell'immagine dell'impresa, ma non puo' promuovere specifici medicinali, dispositivi medici di cui al regolamento (UE) n. 2017/745 o cure mediche che si possono ottenere esclusivamente su prescrizione medica.
@@ -636,6 +1920,38 @@ Le disposizioni del presente articolo si applicano altresi' ((per quanto compati
 
 Sono vietate le televendite contenenti messaggi che vilipendono la dignita' umana, comportano discriminazioni fondate su sesso, etnia o nazionalita', offendono convinzioni religiose e politiche, inducono a comportamenti pregiudizievoli per la salute o la sicurezza o per la tutela dell'ambiente. E' vietata la televendita di sigarette, sigarette elettroniche, contenitori di liquido di ricarica o altri prodotti del tabacco o contenenti nicotina.
 
+2.
+                        
+                            
+                                La televendita, fermo restando quanto previsto all'art. 44, comma 5, non deve esortare i minori a stipulare contratti di compravendita o di locazione di prodotti e di servizi. La televendita non deve arrecare pregiudizio morale o fisico ai minori e deve rispettare i seguenti criteri a loro tutela: 
+ 
+                            
+                            
+                                a)
+                                
+                                    non esortare direttamente i minori ad acquistare un prodotto o un servizio, sfruttandone l'inesperienza o la credulita'; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    non esortare direttamente i minori a persuadere genitori o altri ad acquistare tali prodotti o servizi; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    non sfruttare la particolare fiducia che i minori ripongono nei genitori, negli insegnanti o in altri; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    non mostrare, senza motivo, minori in situazioni pericolose.
+
 Le finestre di televendita sono chiaramente identificate come tali con mezzi ottici e acustici e hanno una durata minima ininterrotta di quindici minuti. Nel caso della radiofonia la durata minima e' ridotta a tre minuti.
 
 Ai palinsesti dedicati esclusivamente alla pubblicita', alle televendite, ovvero all'autopromozione non si applicano l'articolo 44, commi da 1 a 7, l'articolo 45, comma 2, e l'articolo 52.
@@ -645,6 +1961,57 @@ Ai palinsesti dedicati esclusivamente alla pubblicita', alle televendite, ovvero
 Nei programmi prodotti fino al 19 dicembre 2009, l'inserimento di prodotti e' consentito nelle opere cinematografiche, in film e serie prodotti per i servizi di media audiovisivi, in programmi sportivi e in programmi di intrattenimento leggero, con esclusione dei programmi per bambini. L'inserimento puo' avvenire sia dietro corrispettivo monetario ovvero dietro fornitura gratuita di determinati beni e servizi, quali aiuti alla produzione e premi, in vista della loro inclusione all'interno di un programma.
 
 Nei programmi prodotti dopo il 19 dicembre 2009, l'inserimento di prodotti e' consentito in tutti i servizi di media audiovisivi, fatta eccezione per i notiziari e i programmi di attualita', i programmi per i consumatori, i programmi religiosi e i programmi per bambini.
+
+3.
+                        
+                            
+                                I programmi che contengono l'inserimento di prodotti devono rispettare le seguenti disposizioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il loro contenuto e l'organizzazione all'interno di un palinsesto, nel caso di trasmissioni televisive, o all'interno di un catalogo, nel caso di servizi di media audiovisivi a richiesta, non sono in alcun caso influenzati in modo da compromettere la responsabilita' e l'indipendenza editoriale del fornitore di servizi di media; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    non incoraggiano direttamente l'acquisto o la locazione di beni o servizi, in particolare facendo specifici riferimenti promozionali a tali beni o servizi; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    non danno indebito rilievo ai prodotti in questione; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    i telespettatori sono chiaramente informati dell'inserimento di prodotti tramite apposita identificazione all'inizio e alla fine della trasmissione e quando il programma riprende dopo un'interruzione pubblicitaria, per evitare ogni possibile confusione da parte del telespettatore.
+
+4.
+                        
+                            
+                                E' vietato l'inserimento di: 
+ 
+                            
+                            
+                                a)
+                                
+                                    sigarette e altri prodotti a base di tabacco o contenenti nicotina, come pure le sigarette elettroniche e i contenitori di liquido di ricarica, o prodotti di imprese la cui attivita' principale e' la produzione o la vendita di tali prodotti; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    specifici medicinali, dispositivi medici di cui al regolamento (UE) n. 2017/745 o cure mediche che si possono ottenere esclusivamente su prescrizione nell'ambito del territorio italiano.
+Resta salva la previsione di cui all'art. 115, comma 5, decreto legislativo 24 aprile 2006, n. 219;
 
 I produttori, le emittenti, le concessionarie di pubblicita' e gli altri soggetti interessati, adottano, con procedure di auto-regolamentazione, la disciplina applicativa delle regole generali enunciate nei commi precedenti. Le procedure di autoregolamentazione sono comunicate all'Autorita' che ne verifica l'attuazione.
 
@@ -662,6 +2029,59 @@ Le regioni, nell'ambito della propria autonomia finanziaria, possono prevedere q
 ## - Titolo V USO EFFICIENTE DELLO SPETTRO ELETTROMAGNETICO E PIANIFICAZIONE DELLE  FREQUENZE
 
 ## Art. 50. — Gestione dello spettro elettromagnetico e pianificazione delle frequenze per il servizio di radiodiffusione terrestre
+
+1.
+                        
+                            
+                                Tenuto conto che lo spettro elettromagnetico costituisce una risorsa essenziale ai fini del servizio di radiodiffusione terrestre, i soggetti che svolgono attivita' di operatore di rete per detto servizio sono tenuti ad assicurare un uso efficiente delle frequenze radio ad essi assegnate, ed in particolare a: 
+ 
+                            
+                            
+                                a)
+                                
+                                    garantire l'integrita' e l'efficienza della propria rete; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    minimizzare l'impatto ambientale in conformita' alla normativa urbanistica e ambientale nazionale, regionale, dell'ente locale territorialmente competente; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    evitare rischi per la salute umana, nel rispetto della normativa nazionale e internazionale; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    garantire la qualita' dei segnali irradiati, conformemente alle prescrizioni tecniche fissate dall'Autorita' ed a quelle emanate in sede internazionale; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    assicurare la prevista copertura del bacino di utenza assegnato e risultante dal titolo abilitativo; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    assicurare che le proprie emissioni non provochino interferenze con altre emissioni lecite di radiofrequenze; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    rispettare le norme concernenti la protezione delle radiocomunicazioni relative all'assistenza e alla sicurezza del volo di cui alla legge 8 aprile 1983, n. 110, estese, in quanto applicabili, alle bande di frequenze assegnate ai servizi di polizia ed agli altri servizi pubblici essenziali.
 
 L'assegnazione delle radiofrequenze avviene secondo criteri pubblici, obiettivi, trasparenti, non discriminatori e proporzionati.
 
@@ -706,6 +2126,38 @@ Nel sistema integrato delle comunicazioni e nei mercati che lo compongono e' vie
 
 L'Autorita' vigila sull'andamento e sull'evoluzione del sistema integrato delle comunicazioni e accerta, con cadenza almeno annuale, rendendone pubblici i risultati, il suo valore economico complessivo e quello dei mercati che lo compongono, dando altresi' evidenza delle posizioni di potere di mercato dei soggetti attivi in tali mercati e dei rischi potenziali per il pluralismo. Al fine delle quantificazioni di cui al presente comma si considerano i ricavi realizzati in Italia anche da imprese aventi sede all'estero, che derivano da finanziamento di servizio pubblico radiotelevisivo, al netto dei diritti dell'erario, da pubblicita' nazionale e locale anche in forma diretta, da televendite, da sponsorizzazioni ((di cui all'articolo 3, comma 1, lettera ss),)), da convenzioni con soggetti pubblici a carattere continuativo e da provvidenze pubbliche erogate direttamente ai soggetti esercenti le attivita' indicate all'articolo 3, comma 1, lettera z), da offerte di servizi di media audiovisivi ((radiofonici e di piattaforma di condivisione di video)) a pagamento, dagli abbonamenti e dalla vendita di quotidiani e periodici inclusi i prodotti librari e fonografici commercializzati in allegato, nonche' dalle agenzie di stampa a carattere nazionale, dall'editoria elettronica anche per il tramite di internet, da pubblicita' on line e sulle diverse piattaforme anche in forma diretta, incluse le risorse raccolte da motori di ricerca, da piattaforme sociali e di condivisione, e dalla utilizzazione delle opere audiovisive e cinematografiche nelle diverse forme di fruizione del pubblico.
 
+3.
+                        
+                            
+                                I soggetti che operano nel sistema integrato delle comunicazioni, con fatturato superiore ai valori di cui all'articolo 16 della legge 10 ottobre 1990, n. 287, sono tenuti a notificare all'Autorita' le intese e le operazioni di concentrazione, ai fini del presente articolo. Devono inoltre procedere a formale notifica all'Autorita' i soggetti, che, anche attraverso societa' controllate o societa' collegate ed anche a seguito di intese o di operazioni di concentrazione, versino nelle seguenti ipotesi, che costituiscono indici sintomatici di una posizione di significativo potere di mercato potenzialmente lesiva del pluralismo: 
+ 
+                            
+                            
+                                a)
+                                
+                                    soggetti che conseguono ricavi superiori al 20 per cento dei ricavi complessivi del sistema integrato delle comunicazioni o ricavi superiori al 50 per cento in uno o piu' dei mercati che lo compongono; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    soggetti che conseguano ricavi superiori al 20 per cento dei ricavi complessivi nei mercati della fornitura al dettaglio di servizi di comunicazioni elettroniche, per come definiti dal decreto legislativo 1° agosto 2003, n. 259, e che contestualmente conseguano piu' del 10 per cento dei ricavi complessivi del sistema integrato delle comunicazioni e piu' del 25 per cento dei ricavi in uno o piu' mercati che lo compongono; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    soggetti che conseguano ricavi superiori all'8 per cento dei ricavi complessivi del sistema integrato delle comunicazioni e che contestualmente abbiano o acquisiscano partecipazioni in imprese editrici di giornali quotidiani, con l'eccezione delle imprese editrici di giornali quotidiani diffusi esclusivamente in modalita' elettronica; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    soggetti titolari di autorizzazioni che consentano di diffondere piu' del 20 per cento del totale dei programmi televisivi o piu' del 20 per cento dei programmi radiofonici irradiati su frequenze terrestri in ambito nazionale mediante le reti previste dal piano nazionale di assegnazione delle frequenze televisive in tecnica digitale.
+
 Le procedure di notifica sono definite in apposito regolamento adottato dall'Autorita'. Ai fini della quantificazione delle soglie indicate nel presente comma, si fa riferimento alle stime piu' recenti pubblicate dall'Autorita' ai sensi del comma 2 e, per le societa' collegate, si considera esclusivamente la parte di ricavi, o di titolarita' di diritti di autorizzazione, corrispondenti alla percentuale di partecipazione azionaria. In caso di imprese che non abbiano ottemperato agli obblighi di comunicazione preventiva di cui al comma 3, l'Autorita' puo' infliggere alle imprese stesse sanzioni amministrative pecuniarie fino all'uno per cento del fatturato dell'anno precedente a quello in cui e' effettuata la contestazione.
 
 L'Autorita', a seguito delle notifiche di cui al comma 3, ovvero d'ufficio sulla base degli elementi derivanti dell'attivita' di accertamento di cui al comma 2 o su segnalazione di chi vi abbia interesse, procede ad istruttoria al fine di verificare l'esistenza di posizioni vietate ai sensi del comma 1, e adotta quando necessario i provvedimenti, secondo la procedura di cui ai commi 6 e 7, per eliminare o impedire il formarsi delle posizioni di significativo potere di mercato lesive del pluralismo. Al fine di stabilire se una imprese od un gruppo di imprese si trovino in una situazione di significativo potere di mercato lesiva del pluralismo, l'Autorita' tiene conto, fra l'altro, oltre che dei ricavi, del livello di concorrenza statica e dinamica all'interno del sistema, delle barriere all'ingresso nello stesso, della convergenza fra i settori e mercati, delle sinergie derivanti dalle attivita' svolte in mercati differenti ma contigui, della integrazione verticale e conglomerale delle societa', della disponibilita' e del controllo di dati, del controllo diretto o indiretto di risorse scarse necessarie, quali le frequenze trasmissive, delle dimensioni di efficienza economica dell'impresa, anche in termini di economie di scala, gamma e rete, nonche' degli indici quantitativi di diffusione dei programmi radiotelevisivi, anche con riferimento ai programmi di informazione, delle opere cinematografiche, dei prodotti e servizi editoriali e online. Sulla base di tali criteri, l'Autorita' definisce la metodologia specifica per la verifica di cui al presente comma mediante linee guida, che sono oggetto di revisione periodica con cadenza almeno triennale.
@@ -719,6 +2171,35 @@ Ai fini del presente articolo, si considerano anche le partecipazioni al capital
 Allorche' tra i diversi soci esistano accordi, in qualsiasi forma conclusi, in ordine all'esercizio concertato del voto, o comunque alla gestione della societa', diversi dalla mera consultazione tra soci, ciascuno dei soci e' considerato come titolare della somma di azioni o quote detenute dai soci contraenti o da essi controllate.
 
 Ai fini del presente testo unico il controllo sussiste, anche con riferimento a soggetti diversi dalle societa', nei casi previsti dall'articolo 2359, commi primo e secondo, del codice civile.
+
+10.
+                        
+                            
+                                Il controllo si considera esistente nella forma dell'influenza dominante, salvo prova contraria, allorche' ricorra una delle seguenti situazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    esistenza di un soggetto che, da solo o in base alla concertazione con altri soci, abbia la possibilita' di esercitare la maggioranza dei voti dell'assemblea ordinaria o di nominare o revocare la maggioranza degli amministratori; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    sussistenza di rapporti, anche tra soci, di carattere finanziario o organizzativo o economico idonei a conseguire uno dei seguenti effetti: 
+ 1) la trasmissione degli utili e delle perdite; 
+ 2) il coordinamento della gestione dell'impresa con quella di altre imprese ai fini del perseguimento di uno scopo comune; 
+ 3) l'attribuzione di poteri maggiori rispetto a quelli derivanti dalle azioni o dalle quote possedute; 
+ 4) l'attribuzione a soggetti diversi da quelli legittimati in base all'assetto proprietario di poteri nella scelta degli amministratori e dei dirigenti delle imprese; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    l'assoggettamento a direzione comune, che puo' risultare anche in base alle caratteristiche della composizione degli organi amministrativi o per altri significativi e qualificati elementi.
 
 ## - Titolo VII PROMOZIONE DELLE OPERE ITALIANE ED EUROPEE DA PARTE DEI FORNITORI
 
@@ -735,6 +2216,24 @@ I fornitori di servizi di media audiovisivi, lineari e a richiesta, favoriscono 
 ((
 
 I fornitori di servizi di media audiovisivi lineari riservano alle opere europee la maggior parte del proprio tempo di diffusione, escluso il tempo destinato a notiziari, manifestazioni sportive, giochi televisivi, pubblicita', servizi di teletext e televendite.
+
+2.
+                        
+                            
+                                Alle opere di espressione originale italiana, ovunque prodotte, e' riservata una sotto quota della quota prevista per le opere europee di cui al comma 1 nella misura: 
+ 
+                            
+                            
+                                a)
+                                
+                                    della meta', per la concessionaria del servizio pubblico radiofonico, televisivo e multimediale; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    di un terzo, per gli altri fornitori di servizi di media audiovisivi lineari.
 
 Nella fascia oraria dalle ore 18:00 alle 23:00, la concessionaria del servizio pubblico radiofonico, televisivo e multimediale riserva almeno il 12 per cento del tempo di diffusione, escluso il tempo destinato a notiziari, manifestazioni sportive, giochi televisivi, pubblicita', servizi di teletext e televendite, a opere cinematografiche e audiovisive di finzione, di animazione, documentari originali di espressione originale italiana, ovunque prodotte. Almeno un quarto di tale quota e' riservato a opere cinematografiche di espressione originale italiana ovunque prodotte. 
  Le quote e le percentuali di cui ai commi 1, 2 e 3 debbono essere rispettate su base annua.
@@ -774,6 +2273,24 @@ Le disposizioni di cui al presente articolo si applicano anche ai fornitori di s
 
 L'insieme dei cataloghi dei fornitori di servizi di media audiovisivi a richiesta soggetti alla giurisdizione italiana deve contenere almeno il 30 per cento di opere europee poste in rilievo.
 
+2.
+                        
+                            
+                                I fornitori di servizi di media audiovisivi a richiesta soggetti alla giurisdizione italiana promuovono la produzione di opere europee e l'accesso alle stesse rispettando congiuntamente: 
+ 
+                            
+                            
+                                a)
+                                
+                                    gli obblighi di programmazione di opere audiovisive europee realizzate entro gli ultimi cinque anni, in misura non inferiore al 30 per cento dei titoli del proprio catalogo, secondo quanto previsto con regolamento dell'Autorita'. Per i fornitori di servizi di media audiovisivi a richiesta che prevedono il pagamento di un corrispettivo specifico per la fruizione di singoli programmi non si applica l'obbligo di programmazione di opere audiovisive europee realizzate negli ultimi cinque anni; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    gli obblighi di investimento in opere audiovisive europee prodotte da produttori indipendenti in misura pari al 16 per cento dei propri introiti netti annui in Italia, secondo quanto previsto con regolamento dell'Autorita'. Con il medesimo regolamento l'Autorita' indica le voci di costo eleggibili ai fini dell'adempimento degli obblighi di investimento.
+
 Gli obblighi di cui al comma 2, lettera b), si applicano anche ai fornitori di servizi di media audiovisivi a richiesta che hanno la responsabilita' editoriale di offerte rivolte ai consumatori in Italia, anche se operanti in un altro Stato membro.
 
 L'Autorita' predispone periodicamente una relazione sull'attuazione dei commi 1, 2 e 3 da presentarsi alla Commissione europea ogni due anni.
@@ -793,6 +2310,84 @@ Ai fornitori di servizi di media audiovisivi lineari, che conseguono non meno de
 ## Art. 56. — (( (Attribuzioni dell'Autorita'). ))
 
 ((
+
+1.
+                        
+                            
+                                Con uno o piu' regolamenti dell'Autorita', adottati nella sua funzione di autorita' di regolazione indipendente, sono altresi' stabilite: 
+ 
+                            
+                            
+                                a)
+                                
+                                    le specifiche relative alla definizione di produttore indipendente di cui all'articolo 3, comma 1, lettera t); 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le ulteriori definizioni e specificazioni delle voci che rientrano negli introiti netti e nei ricavi complessivi annui di cui all'articolo 54, commi 1 e 4, con particolare riferimento alle modalita' di calcolo nel caso di offerte aggregate di contenuti a pagamento riconducibili a soggetti che sono al contempo fornitori di servizi di media audiovisivi e piattaforme commerciali, fermo restando il rispetto del principio della responsabilita' editoriale; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    le modalita' tecniche di assolvimento degli obblighi di cui agli articoli 53, 54 e 55, tenuto conto dello sviluppo del mercato, della disponibilita' delle opere, nonche' delle tipologie e caratteristiche delle opere audiovisive e delle tipologie e caratteristiche dei palinsesti e delle linee editoriali dei fornitori di servizi di media audiovisivi, con particolare riferimento, nel caso di palinsesti che includono opere cinematografiche, alle opere cinematografiche europee; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    le misure finalizzate a rafforzare meccanismi di mercato funzionali a una maggiore concorrenza, anche mediante l'adozione di specifiche regole dirette a evitare situazioni di conflitto di interessi tra produttori e agenti che rappresentino artisti e a incentivare la pluralita' di linee editoriali; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    le procedure dirette ad assicurare sia l'adozione di meccanismi semplici e trasparenti nei rapporti tra fornitori di servizi media audiovisivi e Autorita', anche mediante la predisposizione e la pubblicazione online dell'apposita modulistica, sia un sistema efficace di monitoraggio e controlli; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    le modalita' della procedura istruttoria e la graduazione dei richiami formali da comunicare prima dell'irrogazione delle sanzioni, nonche' i criteri di determinazione delle sanzioni medesime sulla base dei principi di ragionevolezza, proporzionalita' e adeguatezza, anche tenuto conto della differenziazione tra obblighi di programmazione e obblighi di investimento.
+
+2.
+                        
+                            
+                                I fornitori di servizi di media audiovisivi possono chiedere all'Autorita' deroghe agli obblighi di cui al presente titolo, illustrandone i motivi e fornendo ogni utile elemento a supporto nel caso in cui ricorrano una o piu' delle seguenti circostanze: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il carattere tematico del palinsesto o del catalogo non consente di rispettare le quote di cui al presente titolo; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il fornitore di servizi media audiovisivi ha una quota di mercato o di fatturato inferiore ad una determinata soglia stabilita dall'Autorita' con regolamento; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il fornitore di servizi di media audiovisivi non ha realizzato utili in ciascuno degli ultimi due anni di esercizio; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    gli obblighi risultano comunque impraticabili o ingiustificati alla luce della natura o dell'oggetto del servizio di media audiovisivi erogato da determinati fornitori.
 
 Gli obblighi di cui al presente titolo sono verificati su base annua dall'Autorita', secondo le modalita' e i criteri stabiliti dall'Autorita' medesima con proprio regolamento. In ogni caso, qualora un fornitore di servizi di media audiovisivi non abbia interamente assolto gli obblighi previsti nel corso dell'anno considerato, le eventuali oscillazioni in difetto, nel limite massimo del 15 per cento rispetto alla quota dovuta nel medesimo anno, devono essere recuperate nell'anno successivo in aggiunta agli obblighi dovuti per tale anno. Nel caso in cui il fornitore di servizi di media audiovisivi abbia superato la quota dovuta annualmente, la quota eccedente puo' essere conteggiata ai fini del raggiungimento della quota dovuta nell'anno successivo.
 
@@ -816,11 +2411,152 @@ Il regolamento di cui al presente articolo e' adottato entro il 30 giugno 2024 e
 
 ## Art. 58. — Norme in materia di emittenza locale
 
+1.
+                        
+                            
+                                Le disposizioni del presente titolo non si applicano: 
+ 
+                            
+                            
+                                a)
+                                
+                                    ai fornitori di servizi di media audiovisivi operanti in ambito locale; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    ai fornitori di servizi di media audiovisivi operanti in ambito nazionale la cui programmazione consiste esclusivamente nella diffusione in simulcast del medesimo programma di emittenti radiofoniche.
+
 ## - Titolo VIII SERVIZIO PUBBLICO GENERALE RADIOTELEVISIVO E DISCIPLINA DELLA  CONCESSIONARIA
 
 ## Art. 59. — Definizione dei compiti del servizio pubblico radiofonico, televisivo e multimediale
 
 Il servizio pubblico radiofonico, televisivo e multimediale e' affidato in concessione a una societa' per azioni, la RAI Radiotelevisione italiana S.p.a., che, nel rispetto dei principi di cui all'((articolo 6)), lo svolge sulla base di un contratto nazionale di servizio stipulato con il Ministero, previa delibera del Consiglio dei ministri, nonche' sulla base di contratti di servizio regionali e, per le Province autonome di Trento e di Bolzano, provinciali, con i quali sono individuati i diritti e gli obblighi della societa' concessionaria. Tali contratti sono rinnovati ogni cinque anni.
+
+2.
+                        
+                            
+                                Il servizio pubblico radiofonico, televisivo e multimediale, ai sensi dell'((articolo 6, comma 4)), in ogni caso garantisce: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la diffusione di tutte le trasmissioni televisive e radiofoniche di pubblico servizio con copertura integrale del territorio nazionale, per quanto consentito dallo stato della scienza e della tecnica; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    un numero adeguato di ore di trasmissioni televisive e radiofoniche dedicate all'educazione, all'informazione, alla formazione, alla promozione culturale, con particolare riguardo alla valorizzazione delle opere teatrali, cinematografiche, televisive, anche in lingua originale, e musicali riconosciute di alto livello artistico o maggiormente innovative. Tale numero di ore e' definito ogni tre anni con deliberazione dell'Autorita'; e dal computo sono escluse le trasmissioni di intrattenimento per i minori; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    la diffusione delle trasmissioni di cui alla lettera b), in modo proporzionato, in tutte le fasce orarie, anche di maggiore ascolto, e su tutti i programmi televisivi e radiofonici; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    l'accesso alla programmazione, nei limiti e secondo le modalita' indicati dalla legge, in favore dei partiti e dei gruppi rappresentati in Parlamento, e nei Consigli regionali, delle organizzazioni associative delle autonomie locali, dei sindacati nazionali, delle confessioni religiose, dei movimenti politici dotati di un sufficiente grado di rappresentativita', degli enti e delle associazioni politiche e culturali, delle associazioni nazionali del movimento cooperativo giuridicamente riconosciute, delle associazioni di promozione sociale iscritte nei registri nazionale e regionali, dei gruppi etnici e linguistici e degli altri gruppi di rilevante interesse sociale che ne facciano richiesta; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    la produzione, la distribuzione e la trasmissione di programmi radiotelevisivi all'estero, finalizzati alla conoscenza e alla valorizzazione della lingua, della cultura e dell'impresa italiane attraverso l'utilizzazione dei programmi e la diffusione delle piu' significative produzioni del panorama audiovisivo nazionale; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    la realizzazione di trasmissioni radiofoniche e televisive in lingua tedesca e ladina per la Provincia autonoma di Bolzano, in lingua ladina per la Provincia autonoma di Trento, in lingua francese per la Regione autonoma Valle d'Aosta e in lingua slovena per la Regione autonoma Friuli-Venezia Giulia; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    la trasmissione gratuita dei messaggi di utilita' sociale ovvero di interesse pubblico che siano richiesti dalla Presidenza del Consiglio dei ministri e la trasmissione di adeguate informazioni sulla viabilita' delle strade e delle autostrade italiane; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    la trasmissione, in orari appropriati, di contenuti destinati specificamente ai minori, che tengano conto delle esigenze e della sensibilita' della prima infanzia e dell'eta' evolutiva; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    la conservazione degli archivi storici radiofonici e televisivi, garantendo l'accesso del pubblico agli stessi; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    la destinazione di una quota non inferiore al 15 per cento dei ricavi complessivi annui alla produzione di opere europee, ivi comprese quelle realizzate da produttori indipendenti; tale quota trova applicazione a partire dal contratto di servizio stipulato dopo il 6 maggio 2004; 
+
+                                
+                            
+                            
+                                m)
+                                
+                                    la realizzazione nei termini previsti dalla legge 3 maggio 2004, n. 112, delle infrastrutture per la trasmissione radiotelevisiva su frequenze terrestri in tecnica digitale; 
+
+                                
+                            
+                            
+                                n)
+                                
+                                    la realizzazione di servizi interattivi digitali di pubblica utilita'; 
+
+                                
+                            
+                            
+                                o)
+                                
+                                    il rispetto dei limiti di affollamento pubblicitario previsti dall'articolo 45; 
+
+                                
+                            
+                            
+                                p)
+                                
+                                    l'informazione pubblica a livello nazionale e quella a livello regionale attraverso la presenza in ciascuna regione e provincia autonoma di proprie redazioni e strutture adeguate alle specifiche produzioni, nel rispetto di quanto previsto alla lettera f); 
+
+                                
+                            
+                            
+                                q)
+                                
+                                    l'adozione di idonee misure di tutela delle persone portatrici di handicap sensoriali in attuazione dell'((articolo 31)); 
+
+                                
+                            
+                            
+                                r)
+                                
+                                    la valorizzazione e il potenziamento dei centri di produzione decentrati, in particolare per le finalita' di cui alla lettera b) e per le esigenze di promozione delle culture e degli strumenti linguistici locali; 
+
+                                
+                            
+                            
+                                s)
+                                
+                                    la realizzazione di attivita' di insegnamento a distanza.
 
 Le sedi che garantiscono il servizio di cui al comma 2, lettera f), mantengono la loro autonomia finanziaria e contabile in relazione all'adempimento degli obblighi di pubblico servizio affidati alle stesse e fungono anche da centro di produzione decentrato per le esigenze di promozione delle culture e degli strumenti linguistici locali.
 
@@ -900,15 +2636,161 @@ La composizione del consiglio di amministrazione e' definita favorendo la presen
 
 La carica di membro del consiglio di amministrazione non puo' essere ricoperta, a pena di ineleggibilita' o decadenza, anche in corso di mandato, da coloro che ricoprano la carica di Ministro, vice Ministro o sottosegretario di Stato o che abbiano ricoperto tale carica nei dodici mesi precedenti alla data della nomina o che ricoprano la carica di cui all'articolo 7, primo comma, lettera c), del testo unico di cui al decreto del Presidente della Repubblica 30 marzo 1957, n. 361, la carica di cui all'articolo 1, comma 54, lettera a), della legge 7 aprile 2014, n. 56, o la carica di consigliere regionale.
 
+13.
+                        
+                            
+                                Non possono essere nominati membri del consiglio di amministrazione e, se nominati, decadono dall'ufficio i soggetti che si trovino in una delle seguenti situazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    stato di interdizione perpetua o temporanea dai pubblici uffici; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    stato di interdizione legale ovvero temporanea dagli uffici direttivi delle persone giuridiche e delle imprese, o comunque alcuna delle situazioni indicate nell'articolo 2382 del codice civile; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    assoggettamento a misure di prevenzione disposte dall'autorita' giudiziaria ai sensi del codice delle leggi antimafia e delle misure di prevenzione, di cui al decreto legislativo 6 settembre 2011, n. 159, salvi gli effetti della riabilitazione; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    condanna con sentenza definitiva alla reclusione per uno dei delitti previsti nel titolo XI del libro quinto del codice civile, fatti salvi gli effetti della riabilitazione; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    condanna con sentenza definitiva alla reclusione per un delitto contro la pubblica amministrazione, contro la fede pubblica, contro il patrimonio, contro l'ordine pubblico, contro l'economia pubblica ovvero per un delitto in materia tributaria; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    condanna con sentenza definitiva alla reclusione per qualunque delitto non colposo per un tempo pari o superiore a due anni.
+
 La nomina del presidente del consiglio di amministrazione e' effettuata dal consiglio medesimo nell'ambito dei suoi membri e diviene efficace dopo l'acquisizione del parere favorevole, espresso a maggioranza dei due terzi dei suoi componenti, della Commissione parlamentare per l'indirizzo generale e la vigilanza dei servizi radiotelevisivi di cui all'articolo 4 della legge 14 aprile 1975, n. 103, e successive modificazioni. Al presidente possono essere affidate dal consiglio di amministrazione deleghe nelle aree delle relazioni esterne e istituzionali e di supervisione delle attivita' di controllo interno, previa delibera assembleare che ne autorizzi la delega.
 
+15.
+                        
+                            
+                                I membri del consiglio di amministrazione sono cosi' individuati: 
+ 
+                            
+                            
+                                a)
+                                
+                                    due eletti dalla Camera dei deputati e due eletti dal Senato della Repubblica, con voto limitato a un solo candidato; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    due designati dal Consiglio dei ministri, su proposta del Ministro dell'economia e delle finanze, conformemente ai criteri e alle modalita' di nomina dei componenti degli organi di amministrazione delle societa' controllate direttamente o indirettamente dal Ministero dell'economia e delle finanze; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    uno designato dall'assemblea dei dipendenti della RAI-Radiotelevisione italiana S.p.a., tra i dipendenti dell'azienda titolari di un rapporto di lavoro subordinato da almeno tre anni consecutivi, con modalita' che garantiscano la trasparenza e la rappresentativita' della designazione stessa.
+
 I componenti del consiglio di amministrazione di designazione della Camera dei deputati e del Senato della Repubblica, di cui al comma 15, lettera a), devono essere eletti tra coloro che presentano la propria candidatura nell'ambito di una procedura di selezione il cui avviso deve essere pubblicato nei siti internet della Camera, del Senato e della RAI Radiotelevisione italiana S.p.a. almeno sessanta giorni prima della nomina. Le candidature devono pervenire almeno trenta giorni prima della nomina e i curricula devono essere pubblicati negli stessi siti internet.
+
+17.
+                        
+                            
+                                Per l'elezione del componente espresso dall'assemblea dei dipendenti della RAI Radiotelevisione italiana S.p.a., di cui al comma 15, lettera c), la procedura di voto deve essere organizzata dal consiglio di amministrazione uscente della medesima azienda, con avviso pubblicato nel sito internet istituzionale della stessa almeno sessanta giorni prima della nomina, secondo i seguenti criteri: 
+                            
+                            
+                                a)
+                                
+                                    partecipazione al voto, garantendone la segretezza, anche via internet ovvero attraverso la rete intranet aziendale, di tutti i dipendenti titolari di un rapporto di lavoro subordinato;
+                                
+                            
+                            
+                                b)
+                                
+                                    accesso alla candidatura dei soli soggetti che abbiano i requisiti fissati dal comma 4 al 15. Le singole candidature possono essere presentate da una delle organizzazioni sindacali firmatarie del contratto collettivo o integrativo della RAI-Radiotelevisione italiana S.p.a. o da almeno centocinquanta dipendenti e devono pervenire almeno trenta giorni prima della nomina.
 
 La revoca dei componenti del consiglio di amministrazione e' deliberata dall'assemblea ed acquista efficacia a seguito di parere favorevole della Commissione parlamentare per l'indirizzo generale e la vigilanza dei servizi radiotelevisivi.
 
 In caso di dimissioni o impedimento permanente ovvero di revoca del presidente o di uno o piu' membri del consiglio di amministrazione, i nuovi componenti sono nominati con la medesima procedura di cui al comma 15 entro i novanta giorni successivi alla data di comunicazione formale delle dimissioni o di comunicazione formale della sussistenza della causa di impedimento permanente. Nel caso di revoca del presidente o di uno o piu' membri del consiglio di amministrazione, il termine sopra indicato decorre dalla data di comunicazione formale della valutazione favorevole alla delibera di revoca di cui al comma 18.
 
 Il consiglio di amministrazione, oltre ai compiti allo stesso attribuiti dalla legge e dallo statuto della societa', approva il piano industriale e il piano editoriale, il preventivo di spesa annuale, nonche' gli investimenti che, anche per effetto di una durata pluriennale, siano di importo superiore a 10 milioni di euro.
+
+21.
+                        
+                            
+                                Il consiglio di amministrazione nomina l'amministratore delegato su proposta dell'assemblea. L'amministratore delegato: 
+ 
+                            
+                            
+                                a)
+                                
+                                    risponde al consiglio di amministrazione in merito alla gestione aziendale e sovrintende all'organizzazione e al funzionamento dell'azienda nel quadro dei piani e delle direttive definiti dal consiglio di amministrazione; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    assicura la coerenza della programmazione radiotelevisiva con le linee editoriali e le direttive formulate e adottate dal consiglio di amministrazione; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    provvede alla gestione del personale dell'azienda e nomina i dirigenti di primo livello, acquisendo per i direttori di rete, di canale e di testata il parere obbligatorio del consiglio di amministrazione, che nel caso dei direttori di testata e' vincolante se e' espresso con la maggioranza dei due terzi; assume, nomina, promuove e stabilisce la collocazione aziendale degli altri dirigenti, nonche', su proposta dei direttori di testata e nel rispetto del contratto di lavoro giornalistico, degli altri giornalisti; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    firma gli atti e i contratti aziendali attinenti alla gestione della societa', fatto salvo l'obbligo di sottoporre all'approvazione del consiglio di amministrazione gli atti e i contratti aziendali aventi carattere strategico, ivi inclusi i piani annuali di trasmissione e di produzione e le variazioni rilevanti degli stessi, nonche' gli atti e i contratti che, anche per effetto di una durata pluriennale, siano di importo superiore a 10 milioni di euro; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    provvede all'attuazione del piano industriale, del preventivo di spesa annuale, delle politiche del personale e dei piani di ristrutturazione, nonche' dei progetti specifici approvati dal consiglio di amministrazione in materia di linea editoriale, investimenti, organizzazione aziendale, politica finanziaria e politiche del personale; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    definisce, sentito il parere del consiglio di amministrazione, i criteri e le modalita' per il reclutamento del personale e quelli per il conferimento di incarichi a collaboratori esterni, in conformita' con quanto indicato, per le societa' a partecipazione pubblica, individuando i profili professionali e gli incarichi per i quali, in relazione agli specifici compiti assegnati, puo' derogarsi ai suddetti criteri e modalita'; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    propone all'approvazione del consiglio di amministrazione il Piano per la trasparenza e la comunicazione aziendale, che prevede le forme piu' idonee per rendere conoscibili alla generalita' degli utenti le informazioni sull'attivita' complessivamente svolta dal consiglio di amministrazione, salvi casi particolari di riservatezza adeguatamente motivati, nonche' la pubblicazione nel sito internet della societa': 
+ 1) dei dati relativi agli investimenti totali destinati ai prodotti audiovisivi nazionali e ai progetti di coproduzione internazionale; 
+ 2) dei curricula e dei compensi lordi, comunque denominati, percepiti dai componenti degli organi di amministrazione e controllo, nonche' dai dirigenti di ogni livello, ivi compresi quelli non dipendenti della societa', e comunque dai soggetti, diversi dai titolari di contratti di natura artistica, che ricevano un trattamento economico annuo omnicomprensivo a carico della societa' pari o superiore ad euro 200.000, con indicazione delle eventuali componenti variabili o legate alla valutazione del risultato, nonche' delle informazioni relative allo svolgimento da parte dei medesimi di altri incarichi o attivita' professionali ovvero alla titolarita' di cariche in enti di diritto privato regolati o finanziati dalle pubbliche amministrazioni di cui all'articolo 1, comma 2, del decreto legislativo 30 marzo 2001, n. 165, ivi comprese le autorita' amministrative indipendenti; 
+ 3) dei criteri per il reclutamento del personale e per il conferimento di incarichi a collaboratori esterni, di cui alla lettera f); 
+ 4) dei dati concernenti il numero e la tipologia dei contratti di collaborazione o consulenza non artistica per i quali e' previsto un compenso, conferiti a soggetti esterni alla societa', e l'ammontare della relativa spesa, con indicazione, per i contratti aventi un valore su base annua superiore a una determinata soglia individuata nel Piano, dei nominativi e dei curricula dei soggetti percettori, della ragione dell'incarico e del relativo compenso; 
+ 5) dei criteri e delle procedure per le assegnazioni dei contratti di cui all'articolo 65; 
+ 6) dei dati risultanti dalla verifica del gradimento della programmazione generale e specifica della societa', ai fini del perseguimento degli obiettivi di servizio pubblico.
 
 L'amministratore delegato della RAI-Radiotelevisione italiana S.p.a. deve essere nominato tra coloro che si trovano in situazione di assenza di conflitti di interesse o di titolarita' di cariche in societa' concorrenti della RAI-Radiotelevisione italiana S.p.a. e che sono in possesso di esperienza pregressa per un periodo congruo in incarichi di analoga responsabilita' ovvero in ruoli dirigenziali apicali nel settore pubblico o privato.
 
@@ -954,6 +2836,175 @@ Nello statuto della RAI-Radiotelevisione italiana S.p.a. sono definiti i limiti 
 
 Sanzioni di competenza dell'Autorita'
 
+1.
+                        
+                            
+                                L'Autorita' applica, secondo le procedure stabilite con proprio regolamento, in base a principi di proporzionalita', adeguatezza e rispetto del contraddittorio, le sanzioni per la violazione degli obblighi in materia di programmazione, pubblicita' e contenuti radiotelevisivi, ed in particolare quelli previsti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    dalle disposizioni per il rilascio delle concessioni per la radiodiffusione televisiva privata su frequenze terrestri adottate dall'Autorita' con proprio regolamento, ivi inclusi gli impegni relativi alla programmazione assunti con la domanda di concessione; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    dal regolamento dell'Autorita' relativo alla radiodiffusione terrestre in tecnica digitale, relativamente ai ((fornitori di servizi di media)); 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    dalle disposizioni sulle comunicazioni commerciali audiovisive, pubblicita' televisiva e radiofonica, sponsorizzazioni, televendite ed inserimento di prodotti, ivi comprese le disposizioni sul livello sonoro della pubblicita' di cui ai regolamenti dell'Autorita' e ai codici di autoregolamentazione; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    dall'articolo 20, comma 5, della legge 6 agosto 1990, n. 223, nonche' dai regolamenti dell'Autorita', relativamente alla registrazione dei programmi; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    dalla disposizione relativa al mancato adempimento all'obbligo di trasmissione dei messaggi di comunicazione pubblica, di cui all'articolo 36; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    in materia di propaganda radiotelevisiva di servizi di tipo interattivo audiotex e videotex dall'articolo 1, comma 26, del decreto-legge 23 ottobre 1996, n. 545, convertito, con modificazioni, dalla legge 23 dicembre 1996, n. 650; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    in materia di tutela della produzione audiovisiva europea e indipendente, dal titolo VII e dai regolamenti dell'Autorita', nonche' dai decreti ministeriali; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    in materia di diritto di rettifica, nei casi di mancata, incompleta o tardiva osservanza del relativo obbligo di cui all'articolo 35; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    in materia dei divieti di cui all'articolo 29, comma 4; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    in materia di obbligo di trasmissione del medesimo programma su tutto il territorio per il quale e' rilasciato il titolo abilitativo, salva la deroga di cui all'articolo 5, comma 1, lettera g); 
+
+                                
+                            
+                            
+                                m)
+                                
+                                    dalle disposizioni in materia di diffusione di programmi in contemporanea di cui all'articolo 26; 
+
+                                
+                            
+                            
+                                n)
+                                
+                                    in materia di obbligo di informativa all'Autorita' riguardo, tra l'altro, a dati contabili ed extra contabili, dall'articolo 1, comma 28, del decreto-legge 23 ottobre 1996, n. 545, convertito, con modificazioni, dalla legge 23 dicembre 1996, n. 650, e dai regolamenti dell'Autorita'; 
+
+                                
+                            
+                            
+                                o)
+                                
+                                    dalle disposizioni in materia di pubblicita' di amministrazioni ed enti pubblici di cui all'articolo 49; 
+
+                                
+                            
+                            
+                                p)
+                                
+                                    in materia di violazioni delle norme sul diritto d'autore di cui all'articolo 32, comma 2; 
+
+                                
+                            
+                            
+                                q)
+                                
+                                    dalle disposizioni in materia di tutela dei diritti fondamentali di cui all'articolo 30, dalle norme a salvaguardia di una maggiore accessibilita' da parte degli utenti con disabilita' di cui all'articolo 31 e dalle disposizioni di cui al codice di autoregolamentazione adottato a salvaguardia dei valori dello sport ai sensi dell'articolo 39; 
+
+                                
+                            
+                            
+                                r)
+                                
+                                    dai regolamenti dell'Autorita' adottati ((per la disciplina degli eventi di cui all'articolo 33.)).
+
+2.
+                        
+                            
+                                L'Autorita', applicando le norme contenute nel capo I, sezioni I e II, della legge 24 novembre 1981, n. 689, tenuto conto, in particolare, della gravita' del fatto e delle conseguenze che ne sono derivate nonche' della durata ed eventuale reiterazione delle violazioni delibera l'irrogazione della sanzione amministrativa del pagamento di una somma: 
+ 
+                            
+                            
+                                a)
+                                
+                                    da 10.329 euro a 258.228 euro, in caso di inosservanza delle disposizioni di cui al comma 1, lettere a),
+                                
+                            
+                            
+                                b)
+                                
+                                    c) e p); 
+ b) da 5.165 euro a 51.646 euro, in caso di inosservanza delle disposizioni di cui al comma 1, lettere d) ed e); 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    da 25.823 euro a 258.228 euro, in caso di violazione delle norme di cui al comma 1, lettera f); 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    da 100.000 euro a 5.000.000 euro, ovvero fino all'uno per cento del fatturato annuo, quando il valore di tale percentuale e' superiore a 5.000.000 euro, in caso di violazione delle norme di cui al comma 1, lettera g) e lettera r); 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    da 5.165 euro a 51.646 euro, in caso di violazione delle norme di cui al comma 1, lettere h), i), l), m) e n); 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    da 5.165 euro a 51.646 euro, in caso di violazione delle norme di cui al comma 1, lettera o), anche nel caso in cui la pubblicita' di amministrazioni ed enti pubblici sia gestita, su incarico degli stessi, da agenzie pubblicitarie o da centri media; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    da 30.000 euro a 600.000 euro in caso di violazione delle norme di cui al comma 1, lettera q).
+
 Per le sanzioni amministrative di cui al comma 2 e' escluso il beneficio del pagamento in misura ridotta previsto dall'articolo 16 della legge 24 novembre 1981, n. 689.
 
 Nei casi piu' gravi di violazioni di cui alle lettere h), i) e l) del comma 1, l'Autorita' dispone altresi', ((nei confronti del fornitore di servizi di media audiovisivi o radiofonici o dell'emittente radiofonica)), la sospensione dell'attivita' per un periodo da uno a dieci giorni.
@@ -985,6 +3036,24 @@ Restano ferme e si applicano agli impianti di radiodiffusione sonora e televisiv
 Nei confronti dei soggetti esercenti la radiodiffusione sonora, nonche' degli operatori di rete televisiva in ambito locale, le sanzioni amministrative previste dall'articolo 30 del codice delle comunicazioni elettroniche, di cui al decreto legislativo 1° agosto 2003, n. 259, sono ridotte a un decimo.
 
 ))
+
+3.
+                        
+                            
+                                Il Ministero, con le modalita' e secondo le procedure di cui alla legge 7 agosto 1990, n. 241, dispone la revoca della concessione o dell'autorizzazione nei seguenti casi: 
+ 
+                            
+                            
+                                a)
+                                
+                                    perdita dei requisiti previsti per il rilascio delle concessioni o delle autorizzazioni; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    dichiarazione di fallimento o ammissione ad altra procedura concorsuale, non seguita da autorizzazione alla prosecuzione in via provvisoria all'esercizio dell'impresa.
 
 In caso di mancato rispetto dei principi di cui all' articolo 50, comma 1, o comunque in caso di mancato utilizzo delle radiofrequenze assegnate, il Ministero dispone la sospensione per un periodo fino a sei mesi dell'assegnazione. La sospensione e' adottata qualora il soggetto interessato, dopo aver ricevuto comunicazione di avvio del procedimento ed essere stato invitato a regolarizzare la propria posizione, non vi provveda entro il termine di sette giorni.
 In caso di reiterata violazione nei tre anni successivi all'adozione di un provvedimento di sospensione il Ministero dispone la revoca ovvero la riduzione dell'assegnazione.
@@ -1019,6 +3088,27 @@ Le disposizioni di cui all'articolo 3, comma 1, lettera cc), e all'articolo 21, 
 
 Le disposizioni di cui agli articoli 41, 42 e da 52 a 57 si applicano dalla data del 1° marzo 2022. Restano in vigore fino al 28 febbraio 2022 le disposizioni di cui agli articoli da 44 a 44-sexies del decreto legislativo n. 177 del 2005, ad eccezione del comma 1-bis, lettera a), dell'articolo 44-quater. Le disposizioni di cui agli articoli da 43 a 45 si applicano dalla data del 1° gennaio 2022.
 Restano in vigore fino al 31 dicembre 2021 le disposizioni di cui agli articoli da 36-bis a 38 del decreto legislativo n. 177 del 2005.
+
+5.
+                        
+                            
+                                All'articolo 1 della legge 31 luglio 1997, n. 249, sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    al comma 6, lettera a), numero 5), dopo le parole «i fornitori di servizi di intermediazione on line e i motori di ricerca on line, anche se non stabiliti, che offrono servizi in Italia,» sono inserite le seguenti: «i fornitori di servizi di piattaforma per la condivisione di video di cui alle disposizioni attuative della direttiva (UE)1808/2018»; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il comma 6, lettera b), n. 11), e' sostituito dal seguente:
+«11) garantisce, anche alla luce dei processi di convergenza multimediale, che le rilevazioni degli indici di ascolto e di lettura dei diversi mezzi di comunicazione, su qualsiasi piattaforma di distribuzione e di diffusione, si conformino a criteri di correttezza metodologica, trasparenza, verificabilita' e certificazione da parte di soggetti indipendenti e siano realizzate da organismi dotati della massima rappresentativita' dell'intero settore di riferimento.
+L'Autorita' emana le direttive necessarie ad assicurare il rispetto dei citati criteri e principi e vigila sulla loro attuazione. Qualora l'Autorita' accerti il mancato rispetto delle disposizioni di cui al presente numero, previa diffida, puo' irrogare al soggetto inadempiente una sanzione fino all'1 per cento del fatturato dell'anno precedente a quello in cui e' effettuata la contestazione.
+La manipolazione dei dati tramite metodologie consapevolmente errate ovvero tramite la consapevole utilizzazione di dati falsi e' punita ai sensi dell'articolo 476, primo comma, del codice penale».
 
 ((
 

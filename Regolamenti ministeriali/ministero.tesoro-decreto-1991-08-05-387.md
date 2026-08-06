@@ -8,8 +8,8 @@ codice_redazionale: 091G0433
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:40Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -127,6 +127,31 @@ I medici facenti parte delle commissioni mediche periferiche e della commissione
 Il medico facente parte di una commissione medica periferica o della commissione medica superiore e di invalidita' civile oppure di una commissione medica U.S.L. deve avvertire gli altri membri quando la commissione deve visitare propri assistiti, e si deve astenere dal partecipare alla redazione del verbale di visita, curando che cio' sia fatto risultare.
 
 ## Art. 9.
+
+1.
+                    
+                        
+                            Il servizio di segreteria delle commissioni mediche periferiche per le pensioni di guerra e d'invalidita' civile e' assicurato:
+ 
+                        
+                        
+                            a)
+                            
+                                dal personale del ruolo speciale istituito presso il Ministero del tesoro - Direzione generale dei servizi vari e delle pensioni di guerra, dall'art. 2 della legge 15 ottobre 1990, n. 295;
+
+                            
+                        
+                        
+                            b)
+                            
+                                da personale dipendente da altre amministrazioni e enti pubblici non economici comandati presso il Ministero del tesoro - Direzione generale dei servizi vari e delle pensioni di guerra, per la successiva assegnazione alla segreteria di tali commissioni fino a quando non venga completata la copertura del ruolo speciale;
+
+                            
+                        
+                        
+                            c)
+                            
+                                da personale dipendente della Direzione generale dei servizi vari e delle pensioni di guerra che faccia espressa domanda di pre- stare servizio presso la segreteria di tali commissioni e che, accertata la necessita', vi sia assegnato dal competente direttore generale.
 
 ## Art. 10.
 

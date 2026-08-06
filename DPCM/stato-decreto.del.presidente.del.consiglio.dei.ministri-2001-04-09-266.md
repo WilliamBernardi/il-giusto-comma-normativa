@@ -8,8 +8,8 @@ codice_redazionale: 001G0325
 vigente: true
 source: normattiva-opendata
 collection: DPCM
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:40:13Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DEL CONSIGLIO DEI MINISTRI
@@ -30,6 +30,66 @@ Il presente regolamento disciplina la gestione delle spese occorrenti per il fun
 Ai fini del presente regolamento le deliberazioni adottate dall'Autorita' in sede collegiale, sono indicate come adottate dal "Consiglio".
 
 ## Art. 2. — Principi fondamentali
+
+1.
+                    
+                        
+                            Il presente regolamento persegue le seguenti finalita' nel rispetto dei principi fondamentali vigenti in tema di ordinamento finanziario pubblico:
+ 
+                        
+                        
+                            a)
+                            
+                                legalita', pubblicita' e trasparenza degli atti e delle procedure;
+
+                            
+                        
+                        
+                            b)
+                            
+                                individuazione delle competenze e delle responsabilita';
+
+                            
+                        
+                        
+                            c)
+                            
+                                autonomia di gestione dei centri di responsabilita' gestionale;
+
+                            
+                        
+                        
+                            d)
+                            
+                                quadro di riferimento pluriennale per la gestione;
+
+                            
+                        
+                        
+                            e)
+                            
+                                annualita', unita', universalita', integrita', pubblicita', veridicita' e specificazione dei bilanci;
+
+                            
+                        
+                        
+                            f)
+                            
+                                equilibrio tra le entrate e le spese;
+
+                            
+                        
+                        
+                            g)
+                            
+                                autonomia negoziale nel rispetto dei fini istituzionali;
+
+                            
+                        
+                        
+                            h)
+                            
+                                controllo sull'efficienza e sui risultati della gestione;
 
 I principi suddetti costituiscono, anche in assenza di specifico richiamo nel presente regolamento, le linee guida alle quali e' costantemente ispirata l'attivita' amministrativa dell'Autorita'.
 
@@ -83,9 +143,45 @@ Sono vietati gli storni tra residui e quelli tra i residui e la competenza e vic
 
 ## Art. 11. — Spese per rappresentanza, congressi, convegni, missioni
 
+1.
+                    
+                        
+                            L'Autorita' puo' porre a carico del proprio bilancio:
+ 
+                        
+                        
+                            a)
+                            
+                                le spese di rappresentanza, intendendosi per tali quelle fondate sull'esigenza di manifestarsi all'esterno e di intrattenere pubbliche relazioni con soggetti estranei, in rapporto ai propri fini istituzionali;
+
+                            
+                        
+                        
+                            b)
+                            
+                                le spese connesse alla organizzazione di congressi, convegni, simposi, tavole rotonde, seminari ed altre consimili manifestazioni, nonche' alla partecipazione ai medesimi riferibile ai fini istituzionali dell'Autorita'.
+
 Le missioni in Italia e all'estero dei componenti l'Autorita' sono deliberate dal Consiglio, quelle del personale e degli esperti sono autorizzate dal presidente.
 
 ## Art. 12. — Spese per compensi a personale estraneo
+
+1.
+                    
+                        
+                            Il Consiglio delibera la liquidazione dei compensi a favore del personale estraneo:
+ 
+                        
+                        
+                            a)
+                            
+                                nei casi previsti dall'articolo 4, comma 6, della legge 11 febbraio 1994, n. 109, e successive modifiche;
+
+                            
+                        
+                        
+                            b)
+                            
+                                per l'effettuazione dei compiti di studio, consulenze e relativo supporto strumentale che richiedano specifiche competenze non riscontrabili nelle figure professionali esistenti in organico, o non disponibili all'interno dell'Autorita' al momento del conferimento dell'incarico.
 
 I compensi per gli esperti iscritti ad albi professionali saranno corrisposti sulla base delle tariffe minime stabilite per le relative categorie professionali, mentre per gli altri professionisti o per i dipendenti pubblici sono stabiliti di volta in volta dal consiglio dell'Autorita'. Il parere di congruita' di cui all'articolo 20 non e' richiesto.
 
@@ -134,6 +230,24 @@ Egli e' altresi' responsabile del numerario e di ogni altro valore affidatogli.
 
 L'economo-cassiere svolge le funzioni del consegnatario.
 Provvede direttamente alla manutenzione dei beni, arredamenti e materiali in dotazione agli uffici e vigila sulla regolare esecuzione dei servizi appaltati.
+
+2.
+                    
+                        
+                            Ai fini di cui al comma 1, l'economo-cassiere tiene:
+ 
+                        
+                        
+                            a)
+                            
+                                un registro d'inventario per i mobili e le attrezzature in dotazione agli uffici;
+
+                            
+                        
+                        
+                            b)
+                            
+                                un registro di carico e scarico per il materiale di facile consumo.
 
 ## Art. 20. — Norme contrattuali di carattere generale
 

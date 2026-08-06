@@ -8,8 +8,8 @@ codice_redazionale: 098G0436
 vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:21Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -26,6 +26,45 @@ Sulla proposta del Presidente del Consiglio dei Ministri e dei Ministri della sa
 ## Art. 1.
 
 I laureati in medicina e chirurgia immatricolati al relativo corso di laurea negli anni accademici 1980-1981, 1981-1982, 1982-1983, 1983-1984 e 1984-1985, in possesso dell'abilitazione all'esercizio professionale, possono iscriversi all'albo degli odontoiatri previo superamento della prova attitudinale di cui al comma 2, ripetibile una volta.
+
+2.
+                    
+                        
+                            La prova attitudinale di cui al comma 1 consiste nella valutazione del curriculum accademico e professionale e delle conoscenze teorico pratiche al fine di verificare il possesso di:
+ 
+                        
+                        
+                            a)
+                            
+                                adeguate conoscenze delle scienze sulle quali si fonda l'odontoiatria, nonche' una buona comprensione dei metodi scientifici e in particolare dei principi relativi alla misura delle funzioni biologiche, alla valutazione di fatti stabiliti scientificamente e all'analisi dei dati;
+
+                            
+                        
+                        
+                            b)
+                            
+                                adeguate conoscenze della costituzione, della fisiologia e del comportamento di persone sane e malate, nonche' del modo in cui l'ambiente naturale e sociale influisce sullo stato di salute della persona, nella misura in cui cio' abbia rapporti con l'odontoiatria;
+
+                            
+                        
+                        
+                            c)
+                            
+                                adeguate conoscenze della struttura e della funzione dei denti, bocca, mascelle e dei relativi tessuti, sani e malati, nonche' dei loro rapporti con lo stato generale di salute ed il benessere fisico e sociale del paziente;
+
+                            
+                        
+                        
+                            d)
+                            
+                                adeguate conoscenze delle discipline e dei metodi clinici che forniscono un quadro coerente delle anomalie, delle lesioni e delle malattie della bocca, delle mascelle e dei relativi tessuti, nonche' dell'odontologia sotto l'aspetto preventivo, diagnostico e terapeutico;
+
+                            
+                        
+                        
+                            e)
+                            
+                                adeguata esperienza clinica acquisita sotto opportuno controllo.
 
 Con decreto del Ministro della sanita' da emanarsi entro un anno dalla data di entrata in vigore del presente decreto legislativo di concerto con il Ministro dell'universita' e della ricerca scientifica e tecnologica, sentita la federazione nazionale dell'Ordine dei medici chirurghi e degli odontoiatri, e' disciplinata l'organizzazione della prova di cui al comma 2 che, comunque, in prima applicazione, dovra' tenersi entro diciotto mesi dalla data di entrata in vigore del presente decreto legislativo.
 

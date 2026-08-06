@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
 vigenza_date: 2014-01-17
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:28Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -27,6 +27,24 @@ Sulla proposta del Ministro del lavoro e delle politiche sociali, di concerto co
 ## Art. 1. — Totalizzazione ai fini della pensione di vecchiaia e di anzianita'
 
 Ferme restando le vigenti disposizioni in materia di ricongiunzione dei periodi assicurativi, agli iscritti a due o piu' forme di assicurazione obbligatoria per invalidita', vecchiaia e superstiti, alle forme sostitutive, esclusive ed esonerative della medesima, nonche' alle forme pensionistiche obbligatorie gestite dagli enti di cui ai decreti legislativi 30 giugno 1994, n. 509, e 10 febbraio 1996, n. 103, che non siano gia' titolari di trattamento pensionistico autonomo presso una delle predette gestioni, e' data facolta' di cumulare, i periodi assicurativi non coincidenti al fine del conseguimento di un'unica pensione. Tra le forme assicurative obbligatorie di cui al periodo precedente sono altresi' ricomprese la gestione separata di cui all'articolo 2, comma 26, della legge 8 agosto 1995, n. 335, e il Fondo di previdenza del clero e dei ministri di culto delle confessioni religiose diverse dalla cattolica. (3)((4))
+
+2.
+                    
+                        
+                            La facolta' di cui al comma 1 puo' essere esercitata a condizione che: 
+ 
+                        
+                        
+                            a)
+                            
+                                il soggetto interessato abbia compiuto il sessantacinquesimo anno di eta' e possa far valere un'anzianita' contributiva almeno pari a venti anni ovvero, indipendentemente dall'eta' anagrafica, abbia accumulato un'anzianita' contributiva non inferiore a quaranta anni; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                sussistano gli ulteriori requisiti, diversi da quelli di eta' ed anzianita' contributiva, previsti dai rispettivi ordinamenti per l'accesso alla pensione di vecchiaia.
 
 La totalizzazione e' ammessa a condizione che riguardi tutti e per intero i periodi assicurativi di cui al comma 1. La richiesta di restituzione dei contributi, ove prevista, presentata successivamente alla data di entrata in vigore del presente decreto legislativo, preclude il diritto all'esercizio della facolta' di totalizzazione.
 
@@ -59,11 +77,75 @@ Le gestioni interessate, ciascuna per la parte di propria competenza, determinan
 
 La misura del trattamento a carico degli enti previdenziali pubblici e' determinata sulla base della disciplina prevista dal decreto legislativo 30 aprile 1997, n. 180, in materia di opzione per la liquidazione del trattamento pensionistico esclusivamente con le regole del sistema contributivo. Le retribuzioni su cui e' calcolato il montante sono rivalutate fino alla data della domanda di totalizzazione.
 
+3.
+                    
+                        
+                            Per gli enti previdenziali privatizzati ai sensi del decreto legislativo 30 giugno 1994, n. 509, la misura del trattamento e' determinata con le regole del sistema di calcolo contributivo sulla base dei seguenti parametri:
+ 
+                        
+                        
+                            a)
+                            
+                                ai fini della determinazione del montante contributivo si considerano i contributi soggettivi versati dall'iscritto, entro il tetto reddituale, ove previsto, preso a riferimento per il calcolo delle prestazioni secondo i rispettivi ordinamenti, ivi compresi quelli versati a titolo di riscatto. Restano escluse dal computo le contribuzioni versate a titolo integrativo e di solidarieta';
+
+                            
+                        
+                        
+                            b)
+                            
+                                il tasso annuo di capitalizzazione dei contributi e' pari al 90 per cento della media quinquennale del tasso di rendimento netto del patrimonio investito con riferimento al quinquennio precedente l'anno da rivalutare. E' comunque garantito un tasso minimo annuo di capitalizzazione pari all'1,5 per cento. Qualora il tasso di capitalizzazione risulti superiore a quello derivante dall'applicazione della variazione media quinquennale del prodotto interno lordo (PIL) di cui all'articolo 1, comma 9, della legge 8 agosto 1995, n. 335, si applica quest'ultimo. Per le annualita' antecedenti la privatizzazione di ciascun ente il tasso di capitalizzazione e' pari alla variazione media quinquennale del PIL;
+
+                            
+                        
+                        
+                            c)
+                            
+                                l'importo della pensione annua e' determinato moltiplicando il montante individuale di cui alle lettere a) e b) per il coefficiente di trasformazione relativo all'eta' del soggetto al momento del pensionamento, ottenuto sulla base delle ipotesi demografiche sottostanti la tabella A allegata alla legge 8 agosto 1995, n. 335, come periodicamente aggiornata;
+
+                            
+                        
+                        
+                            d)
+                            
+                                la quota di pensione annua determinata sulla base dei criteri di cui alle lettere a), b) e c), viene maggiorata in proporzione all'anzianita' contributiva maturata presso l'ente categoriale, applicando la relazione matematica di cui all'allegato 1.
+
 I parametri di cui alle lettere a), b) e c) del comma 3, nonche' la formula di calcolo di cui all'allegato 1, possono essere modificati, senza nuovi o maggiori oneri per la finanza pubblica, e armonizzati in caso di sostanziali modifiche, deliberate dagli enti e approvate dai Ministeri vigilanti, dei sistemi previdenziali dei singoli enti che comportino l'introduzione per la generalita' degli iscritti di diversi sistemi di calcolo delle prestazioni.
 
 In deroga a quanto previsto ai commi 3 e 4, qualora il requisito contributivo maturato nella gestione pensionistica sia uguale o superiore a quello minimo richiesto per il conseguimento del diritto alla pensione di vecchiaia, si applica, per il periodo contributivo relativo a tale gestione, il sistema di calcolo della pensione previsto dall'ordinamento della gestione medesima.
 
 La misura del trattamento a carico degli enti previdenziali privati costituiti ai sensi del decreto legislativo 10 febbraio 1996, n. 103, e' determinata secondo il sistema di calcolo vigente nei rispettivi ordinamenti.
+
+7.
+                    
+                        
+                            Le quote di pensione relative alle posizioni assicurative costituite nelle singole gestioni previdenziali sono poste a carico delle gestioni interessate e sono reversibili ai superstiti con le modalita' e nei limiti previsti da ogni singola gestione. I periodi di iscrizione nelle varie gestioni si convertono, ai fini della totalizzazione, nell'unita' temporale prevista da ciascuna gestione sulla base dei seguenti parametri:
+ 
+                        
+                        
+                            a)
+                            
+                                sei giorni equivalgono ad una settimana e viceversa;
+
+                            
+                        
+                        
+                            b)
+                            
+                                ventisei giorni equivalgono ad un mese e viceversa;
+
+                            
+                        
+                        
+                            c)
+                            
+                                settantotto giorni equivalgono ad un trimestre e viceversa;
+
+                            
+                        
+                        
+                            d)
+                            
+                                trecentododici giorni equivalgono ad un anno e viceversa.
 
 Gli aumenti a titolo di rivalutazione automatica delle pensioni sono liquidati con riferimento al trattamento unico complessivamente considerato, sulla base delle disposizioni di legge vigenti, con onere a carico delle gestioni interessate.
 

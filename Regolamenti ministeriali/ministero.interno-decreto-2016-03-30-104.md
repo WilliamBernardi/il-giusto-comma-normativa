@@ -7,8 +7,8 @@ urn: urn:nir:ministero.interno:decreto:2016-03-30;104
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:39Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -39,6 +39,38 @@ Il numero degli esperti per la sicurezza e' determinato nel limite massimo di ci
 ## Art. 4. — Individuazione e formazione degli esperti per la sicurezza
 
 L'incarico di esperto per la sicurezza puo' essere conferito, sulla base degli atti di pianificazione annuale adottati dal Co.P.S.C.I.P., di cui all'articolo 2 del presente Regolamento, agli appartenenti al ruolo dei dirigenti e dei commissari della Polizia di Stato, agli ufficiali dell'Arma dei Carabinieri e del Corpo della Guardia di Finanza, in servizio ovvero assegnati temporaneamente presso la Direzione centrale della Polizia criminale - Servizio per la cooperazione internazionale di Polizia ovvero la Direzione centrale per i servizi antidroga, fermo restando quanto previsto dall'articolo 5, comma 1.
+
+2.
+                    
+                        
+                            I funzionari e gli ufficiali di cui al comma 1 vengono individuati dalle Amministrazioni di appartenenza, sulla base dei seguenti requisiti: 
+ 
+                        
+                        
+                            a)
+                            
+                                comprovata conoscenza di almeno una delle lingue straniere diffuse in ambito INTERPOL; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                sufficiente livello di conoscenza dell'uso delle apparecchiature e applicazioni informatiche piu' diffuse; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                profilo professionale caratterizzato, preferibilmente, da attivita' svolta nel settore della cooperazione internazionale o da una pregressa esperienza conseguita in attivita' di contrasto alla criminalita' organizzata o al terrorismo; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                mancata sottoposizione a procedimenti penali o a procedimenti per l'irrogazione di sanzioni disciplinari previste dai rispettivi ordinamenti, ad eccezione del richiamo orale.
 
 Dopo un periodo di servizio non inferiore a un mese prestato presso gli uffici di cui al comma 1, i funzionari e g1i ufficiali di cui al medesimo comma possono essere avviati alla frequenza del corso di aggiornamento presso la Scuola di perfezionamento per le Forze di Polizia, i cui programmi e le modalita' di svolgimento sono definiti ai sensi del decreto del Presidente della Repubblica 11 giugno 1986, n. 423.
 

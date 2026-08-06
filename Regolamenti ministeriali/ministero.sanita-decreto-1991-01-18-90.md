@@ -8,8 +8,8 @@ codice_redazionale: 091G0123
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:39Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -75,6 +75,24 @@ Nel decreto ministeriale 21 marzo 1973 citato nelle premesse, al titolo II - cap
  4. La determinazione della grammatura di cui al precedente comma 3, deve essere effettuata con il metodo di analisi allegato che viene inserito come punto 6, nell'allegato IV, sezione 6 - Controllo analitico della composizione delle carte e dei cartoni, del decreto ministeriale 21 marzo 1973".
 
 ## Art. 2.
+
+1.
+                    
+                        
+                            Nell'allegato II del decreto ministeriale 21 marzo 1973 citato nelle premesse, alla sezione 1, parte B - Additivi per materie plastiche, sono inserite le seguenti sostanze:
+ 
+                        
+                        
+                            a)
+                            
+                                Bis-(p. etil-benziliden)-sorbitolo, alla dose massima di 0,5% e limitatamente all'impiego nelle resine poliolefiniche.
+
+                            
+                        
+                        
+                            b)
+                            
+                                Olio di lino epossidato, secondo buona tecnica industriale, con la seguente limitazione: "per PVC e PVDC (il numero di iodio dell'olio di lino epossidato deve essere inferiore a 6 ed il contenuto in ossigeno ossiranico deve essere inferiore al 10%)".
 
 ### Art. 1.
 

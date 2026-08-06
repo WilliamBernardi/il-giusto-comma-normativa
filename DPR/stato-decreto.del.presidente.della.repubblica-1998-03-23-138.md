@@ -8,8 +8,8 @@ codice_redazionale: 098G0190
 vigente: true
 source: normattiva-opendata
 collection: DPR
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:48:14Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -63,6 +63,24 @@ I quadri di cui ai commi 1 e 2 sono sottoposti all'approvazione della commission
 
 Al fine di determinare la redditivita' media ordinariamente ritraibile dalle unita' immobiliari urbane, al netto delle spese e perdite eventuali, si procede alla revisione delle tariffe d'estimo attualmente vigenti, facendo riferimento ai valori e ai redditi medi espressi dal mercato immobiliare, con esclusione dei regimi locativi disciplinati per legge. Non sono da assumere, come termini di riferimento, valori e redditi occasionali ovvero singolari.
 
+2.
+                        
+                            
+                                La revisione delle tariffe d'estimo delle unita' immobiliari urbane a destinazione ordinaria consiste nella determinazione, per ogni zona censuaria, categoria e classe, della rendita catastale per unita' di superficie, di cui all'articolo 3, da effettuarsi sulla base:
+ 
+                            
+                            
+                                a)
+                                
+                                    dei canoni annui ordinariamente ritraibili, con riferimento ai dati di mercato delle locazioni. Si applicano le disposizioni di cui agli articoli da 14 a 26 del regolamento per la formazione del nuovo catasto edilizio urbano, approvato con decreto del Presidente della Repubblica 1 dicembre 1949, n. 1142;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    dei valori di mercato degli immobili, determinandone la redditivita' attraverso l'applicazione di saggi di rendimento ordinariamente rilevabili nel mercato edilizio locale per unita' immobiliari analoghe, e con l'osservanza degli articoli da 27 a 29 del regolamento richiamato nella lettera a).
+
 Le tariffe d'estimo delle unita' immobiliari urbane a destinazione ordinaria sono determinate come media dei valori reddituali unitari individuati con i criteri stabiliti nel presente articolo e con riferimento all'epoca censuaria 1996-1997.
 
 ## Art. 6. — Intervento dei comuni nel procedimento
@@ -95,9 +113,113 @@ Nelle procedure valutative di cui al comma 4, la qualita' urbana ed ambientale e
 
 Il fattore posizionale e' il parametro rappresentativo dei caratteri della microzona, descritti nell'articolo 2, nonche' dello stato e della qualita' dei luoghi circostanti il fabbricato con particolare riferimento a quelli aventi destinazione pubblica e sempreche' siano permanenti e significativi ai fini del classamento.
 
+7.
+                        
+                            
+                                Il fattore edilizio e' il parametro rappresentativo dei seguenti caratteri distintivi del fabbricato e dell'unita' immobiliare:
+ 
+                            
+                            
+                                a)
+                                
+                                    dimensione e tipologia;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    destinazione funzionale;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    epoca di costruzione;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    struttura e dotazione impiantistica;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    qualita' e stato edilizio;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    pertinenze comuni ed esclusive;
+
+                                
+                            
+                            
+                                g)
+                                
+                                    livello di piano.
+
 I fattori posizionale ed edilizio, espressi in appropriate scale di misura, concorrono alla identificazione del parametro globale d'apprezzamento del livello reddituale per metro quadrato della superficie catastale dell'unita' immobiliare.
 
 ## Art. 9. — Revisione del classamento
+
+1.
+                        
+                            
+                                Per ciascuna zona censuaria, i competenti uffici del dipartimento del territorio procedono alla revisione del classamento, sulla base:
+ 
+                            
+                            
+                                a)
+                                
+                                    dell'articolazione del territorio comunale in microzone, definita ai sensi dell'articolo 2;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    dei quadri di qualificazione e classificazione, definiti ai sensi dell'articolo 4;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    dei criteri e dei fattori indicati nell'articolo 8, utilizzando le informazioni descrittive e censuarie presenti nella banca dati del catasto edilizio urbano e quelle rappresentate nelle schede descrittive delle microzone predisposte dai comuni, nonche' le risultanze delle indagini immobiliari svolte in sede locale.
+
+2.
+                        
+                            
+                                Ai fini della concreta attribuzione del classamento gli uffici:
+ 
+                            
+                            
+                                a)
+                                
+                                    identificano, con una apposita scala di misura, il livello delle qualita' urbane ed ambientali di ciascuna microzona;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    definiscono per ciascuna categoria a destinazione ordinaria, le classi pertinenti a ciascuna microzona, desumendole tra quelle presenti nel quadro di classificazione della corrispondente zona censuaria, sulla base dei dati e delle informazioni di cui al comma 1, lettera c);
+
+                                
+                            
+                            
+                                c)
+                                
+                                    attribuiscono a ciascuna unita' immobiliare la categoria, sulla base della definizione di cui all'articolo 8, comma 2, e la classe, in coerenza con quelle individuate per la specifica microzona alla lettera b), e tenuto conto dei caratteri edilizi e dell'intorno, emergenti dagli atti descrittivi e censuari dell'attuale classamento.
+Le risultanze sono oggetto di perequazione in base ai valori e redditi immobiliari espressi dal mercato locale.
 
 Nel corso delle operazioni revisionali l'amministrazione comunale viene sentita ai fini della perequazione del classamento tra le diverse microzone in cui risulta articolato il territorio.
 

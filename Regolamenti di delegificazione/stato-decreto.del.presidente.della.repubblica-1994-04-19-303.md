@@ -8,8 +8,8 @@ codice_redazionale: 094G0385
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti di delegificazione
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:40:25Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -44,6 +44,45 @@ I progetti sono presentati al Dipartimento della funzione pubblica dal dirigente
 I progetti promossi dal Dipartimento della funzione pubblica sono predisposti dall'ufficio competente alla promozione, valutazione e verifica dei progetti, individuato dal regolamento di organizzazione del Dipartimento stesso.
 
 ## Art. 5. — Valutazione dei progetti
+
+1.
+                    
+                        
+                            Per la selezione dei progetti il Dipartimento della funzione pubblica valuta:
+ 
+                        
+                        
+                            a)
+                            
+                                la mancanza di funzionalita' ed efficienza delle prestazioni alla quale si intende rimediare, con riguardo al numero di cittadini interessati e ai disagi subiti dagli stessi;
+
+                            
+                        
+                        
+                            b)
+                            
+                                i costi della sperimentazione e quelli derivanti dall'eventuale generalizzazione della soluzione sperimentata;
+
+                            
+                        
+                        
+                            c)
+                            
+                                il grado di innovazione rispetto a modalita' di funzionamento, regole e procedure vigenti;
+
+                            
+                        
+                        
+                            d)
+                            
+                                la possibilita' di trasferire la soluzione sperimentale a contesti diversi da quello in cui avviene la sperimentazione;
+
+                            
+                        
+                        
+                            e)
+                            
+                                le condizioni delle amministrazioni interessate, nonche' il loro coinvolgimento nell'ideazione e nella predisposizione dei progetti.
 
 ## Art. 6. — Parere del comitato tecnico scientifico
 

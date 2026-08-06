@@ -8,8 +8,8 @@ codice_redazionale: 012G0118
 vigente: true
 source: normattiva-opendata
 collection: DPR
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:48:03Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -30,6 +30,29 @@ Sulla proposta del Ministro per la coesione territoriale, di concerto con il Min
 Il presente regolamento reca modifiche alle disposizioni in tema di ammissibilita' delle spese per i programmi cofinanziati dai fondi strutturali per la fase di programmazione 2007-2013, previste dal regolamento di cui al decreto del Presidente della Repubblica 3 ottobre 2008, n. 196, al fine di adeguare il pertinente quadro normativo nazionale alle modifiche apportate al regolamento (CE) n. 1080/2006 e al regolamento (CE) n. 1081/2006, del Parlamento europeo e del Consiglio, del 5 luglio 2006, dai regolamenti (CE) n. 396/2009 e 397/2009, del Parlamento europeo e del Consiglio, del 6 maggio 2009 e dal regolamento (UE) n. 437/2010 del Parlamento europeo e del Consiglio del 19 maggio 2010, tenendo altresi' conto dell'Accordo siglato fra il Governo, le Regioni e le Province autonome di Trento e di Bolzano il 12 febbraio 2009, in materia di interventi di sostegno al reddito.
 
 ## Art. 2. — Semplificazione del calcolo delle spese ammissibili
+
+1.
+                    
+                        
+                            All'articolo 2 del decreto del Presidente della Repubblica 3 ottobre 2008, n. 196, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 8, il secondo periodo e' soppresso; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                dopo il comma 8, sono aggiunti, in fine, i seguenti: 
+ «8-bis. Ai sensi dell'articolo 11, paragrafo 3, del regolamento (CE) n. 1081/2006, cosi' come modificato dal regolamento (CE) n. 396/2009 del Parlamento europeo e del Consiglio, del 6 maggio 2009, e dell'articolo 7, paragrafo 4, del regolamento (CE) n. 1080/2006, come modificato dal regolamento (CE) n. 397/2009 del Parlamento europeo e del Consiglio, del 6 maggio 2009, nel rispetto delle condizioni stabilite dall'Autorita' di Gestione di cui all'articolo 59 del regolamento (CE) n. 1083/2006, in caso di sovvenzioni, sono ammissibili: 
+ a) le spese indirette su base forfetaria, entro il limite del 20 per cento dei costi diretti debitamente giustificati; 
+ b) le unita' di costo standardizzate; 
+ c) le somme forfetarie fino a 50.000 euro. 
+ 8-ter. Le opzioni di cui alle lettere a), b) e c) del comma 8-bis possono essere combinate unicamente se ciascuna di esse copre una diversa categoria di costi ammissibili o se sono utilizzate per diversi progetti relativi ad una stessa operazione.».
 
 ## Art. 3. — Efficienza energetica ed energie rinnovabili
 

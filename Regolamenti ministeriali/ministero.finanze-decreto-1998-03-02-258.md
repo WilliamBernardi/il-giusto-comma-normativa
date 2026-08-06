@@ -8,8 +8,8 @@ codice_redazionale: 098G0302
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:39Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -35,6 +35,31 @@ Udito il parere n. 1169/96 reso dal Consiglio di Stato nell'adunanza generale de
 
 ## Art. 1.
 
+1.
+                    
+                        
+                            A decorrere dal 1 gennaio 1990, sono sestuplicati i canoni annui gia' fissati con l'art. 10 del decreto-legge 2 ottobre 1981, n. 546, convertito, con modificazioni, nella legge 1 dicembre 1981, n. 692, ed i proventi comunque dovuti relativi alle utenze di acqua pubblica, che vengono pertanto cosi' fissati:
+ 
+                        
+                        
+                            a)
+                            
+                                per uso industriale e per pescicoltura: L. 1.500.000 per modulo d'acqua, ridotto a L. 750.000 se con obbligo di restituire le colature o residui d'acqua;
+
+                            
+                        
+                        
+                            b)
+                            
+                                per uso igienico e simile: L. 768.000 per modulo d'acqua;
+
+                            
+                        
+                        
+                            c)
+                            
+                                per piccole derivazioni ad uso idroelettrico: L. 62.976 per ogni kilowatt di potenza nominale.
+
 Gli importi per detti canoni non possono essere inferiori a L. 180.000 annue.
 
 I titolari delle concessioni in corso sono tenuti, conseguentemente, ad integrare le cauzioni gia' versate, in modo da raggiungere almeno la meta' di un'annualita' del canone dopo l'applicazione dell'aumento di cui al comma 1.
@@ -46,6 +71,38 @@ A decorrere dal 1 gennaio 1990, i canoni annui dovuti per estrazione di material
 I canoni di cui al comma 1 non possono, comunque, essere inferiori a L. 4.800 per ogni metro cubo di materiale estratto.
 
 ## Art. 3.
+
+1.
+                    
+                        
+                            A decorrere dal 1 gennaio 1990, sono sestuplicati i canoni annui derivanti da utilizzazioni di pertinenze idrauliche a scopo di pioppicoltura che vengono, pertanto, cosi' fissati:
+ 
+                        
+                        
+                            a)
+                            
+                                per le pertinenze di prima classe: L. 924.000 per ettaro;
+
+                            
+                        
+                        
+                            b)
+                            
+                                per le pertinenze di seconda classe: L. 756.000 per ettaro;
+
+                            
+                        
+                        
+                            c)
+                            
+                                per le pertinenze di terza classe: L. 504.000 per ettaro;
+
+                            
+                        
+                        
+                            d)
+                            
+                                per le pertinenze di quarta classe: L. 336.000 per ettaro.
 
 L'importo annuo di detti canoni non puo' essere comunque inferiore a L. 60.000.
 

@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
 vigenza_date: 2010-09-16
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:29Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -31,9 +31,133 @@ La pubblicita' deve essere palese, veritiera e corretta.
 
 ## Art. 2. — Definizioni
 
+1.
+                    
+                        
+                            Ai fini del presente decreto legislativo si intende per:
+ 
+                        
+                        
+                            a)
+                            
+                                pubblicita': qualsiasi forma di messaggio che e' diffuso, in qualsiasi modo, nell'esercizio di un'attivita' commerciale, industriale, artigianale o professionale allo scopo di promuovere il trasferimento di beni mobili o immobili, la prestazione di opere o di servizi oppure la costituzione o il trasferimento di diritti ed obblighi su di essi;
+
+                            
+                        
+                        
+                            b)
+                            
+                                pubblicita' ingannevole: qualsiasi pubblicita' che in qualunque modo, compresa la sua presentazione e' idonea ad indurre in errore le persone fisiche o giuridiche alle quali e' rivolta o che essa raggiunge e che, a causa del suo carattere ingannevole, possa pregiudicare il loro comportamento economico ovvero che, per questo motivo, sia idonea a ledere un concorrente;
+
+                            
+                        
+                        
+                            c)
+                            
+                                professionista: qualsiasi persona fisica o giuridica che agisce nel quadro della sua attivita' commerciale, industriale, artigianale o professionale; e chiunque agisce in nome o per conto di un professionista;
+
+                            
+                        
+                        
+                            d)
+                            
+                                pubblicita' comparativa: qualsiasi pubblicita' che identifica in modo esplicito o implicito un concorrente o beni o servizi offerti da un concorrente;
+
+                            
+                        
+                        
+                            e)
+                            
+                                operatore pubblicitario: il committente del messaggio pubblicitario ed il suo autore, nonche', nel caso in cui non consenta all'identificazione di costoro, il proprietario del mezzo con cui il messaggio pubblicitario e' diffuso ovvero il responsabile della programmazione radiofonica o televisiva.
+
 ## Art. 3. — Elementi di valutazione
 
+1.
+                    
+                        
+                            Per determinare se la pubblicita' e' ingannevole se ne devono considerare tutti gli elementi, con riguardo in particolare ai suoi riferimenti:
+ 
+                        
+                        
+                            a)
+                            
+                                alle caratteristiche dei beni o dei servizi, quali la loro disponibilita', la natura, l'esecuzione, la composizione, il metodo e la data di fabbricazione o della prestazione, l'idoneita' allo scopo, gli usi, la quantita', la descrizione, l'origine geografica o commerciale, o i risultati che si possono ottenere con il loro uso, o i risultati e le caratteristiche fondamentali di prove o controlli effettuati sui beni o sui servizi;
+
+                            
+                        
+                        
+                            b)
+                            
+                                al prezzo o al modo in cui questo e' calcolato ed alle condizioni alle quali i beni o i servizi sono forniti;
+
+                            
+                        
+                        
+                            c)
+                            
+                                alla categoria, alle qualifiche e ai diritti dell'operatore pubblicitario, quali l'identita', il patrimonio, le capacita', i diritti di proprieta' intellettuale e industriale, ogni altro diritto su beni immateriali relativi all'impresa ed i premi o riconoscimenti.
+
 ## Art. 4. — Condizioni di liceita' della pubblicita' comparativa
+
+1.
+                    
+                        
+                            Per quanto riguarda il confronto, la pubblicita' comparativa e' lecita se sono soddisfatte le seguenti condizioni:
+ 
+                        
+                        
+                            a)
+                            
+                                non e' ingannevole ai sensi del presente decreto legislativo o degli articoli 21, 22 e 23 del decreto legislativo 6 settembre 2005, n. 206, recante «Codice del consumo»;
+
+                            
+                        
+                        
+                            b)
+                            
+                                confronta beni o servizi che soddisfano gli stessi bisogni o si propongono gli stessi obiettivi;
+
+                            
+                        
+                        
+                            c)
+                            
+                                confronta oggettivamente una o piu' caratteristiche essenziali, pertinenti, verificabili e rappresentative, compreso eventualmente il prezzo, di tali beni e servizi;
+
+                            
+                        
+                        
+                            d)
+                            
+                                non ingenera confusione sul mercato tra i professionisti o tra l'operatore pubblicitario ed un concorrente o tra i marchi, le denominazioni commerciali, altri segni distintivi, i beni o i servizi dell'operatore pubblicitario e quelli di un concorrente;
+
+                            
+                        
+                        
+                            e)
+                            
+                                non causa discredito o denigrazione di marchi, denominazioni commerciali, altri segni distintivi, beni, servizi, attivita' o posizione di un concorrente;
+
+                            
+                        
+                        
+                            f)
+                            
+                                per i prodotti recanti denominazione di origine, si riferisce in ogni caso a prodotti aventi la stessa denominazione;
+
+                            
+                        
+                        
+                            g)
+                            
+                                non trae indebitamente vantaggio dalla notorieta' connessa al marchio, alla denominazione commerciale ovvero ad altro segno distintivo di un concorrente o alle denominazioni di origine di prodotti concorrenti;
+
+                            
+                        
+                        
+                            h)
+                            
+                                non presenta un bene o un servizio come imitazione o contraffazione di beni o servizi protetti da un marchio o da una denominazione commerciale depositati.
 
 Il requisito della verificabilita' di cui al comma 1, lettera c), si intende soddisfatto quando i dati addotti ad illustrazione della caratteristica del bene o servizio pubblicizzato sono suscettibili di dimostrazione.
 

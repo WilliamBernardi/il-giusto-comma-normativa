@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
 vigenza_date: 2024-07-14
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:42Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -34,7 +34,100 @@ Sono esclusi dalla disciplina del presente regolamento i consumi di prodotti pet
 
 ## Art. 2. — Adempimenti dei beneficiari per l'ammissione all'agevolazione
 
+1.
+                    
+                        
+                            L'agevolazione di cui all'articolo 1 compete ai seguenti soggetti: 
+ 
+                        
+                        
+                            a)
+                            
+                                esercenti le attivita' richiamate all'articolo 1, comma 1, iscritti ai sensi dell'articolo 1, comma 1, del decreto legislativo 30 aprile 1998, n. 173 nel registro delle imprese di cui all'articolo 8 della legge 29 dicembre 1993, n. 580 e nell'anagrafe delle aziende agricole di cui al decreto del Presidente della Repubblica 1 dicembre 1999, n. 503; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                cooperative, parimenti iscritte nel registro delle imprese, costituite tra i soggetti di cui alla lettera a), per lo svolgimento in comune delle medesime attivita' connesse all'esercizio delle singole imprese; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                aziende agricole delle istituzioni pubbliche; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                consorzi di bonifica e di irrigazione; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                imprese agromeccaniche iscritte nel registro delle imprese.
+
 Per i soggetti indicati al comma 1, lettere a), b) e c), le agevolazioni competono per lo svolgimento delle attivita' agricole di cui all'articolo 29 del decreto del Presidente della Repubblica 22 dicembre 1986, n. 917, e successive modificazioni, nei limiti ivi stabiliti, compresi gli interventi di manutenzione dei fondi e le lavorazioni agricole preparatorie di base; per i soggetti indicati alla lettera d), spettano per i lavori eseguiti nell'ambito dei propri comprensori e delle rispettive attivita' istituzionali; per le imprese agromeccaniche competono in relazione alle prestazioni, rese in favore delle imprese agricole iscritte nel registro delle imprese e registrate nell'anagrafe delle aziende agricole, in relazione alle attivita' agricole di cui all'articolo 29 del decreto del Presidente della Repubblica 22 dicembre 1986, n. 917, e successive modificazioni.
+
+3.
+                    
+                        
+                            Per usufruire delle agevolazioni, entro il 30 giugno di ciascun anno, i soggetti indicati al comma 1, lettera a) presentano, anche per il tramite delle organizzazioni di categoria, all'ufficio incaricato dalla regione o dalle province autonome di Trento e Bolzano del servizio relativo all'impiego di carburanti agevolati per l'agricoltura, d'ora in avanti denominato "ufficio regionale o provinciale", competente in base all'ubicazione dei terreni, una richiesta contenente i seguenti dati: 
+ 
+                        
+                        
+                            a)
+                            
+                                le proprie generalita' ed il relativo domicilio o, se trattasi di persona giuridica, la denominazione o ragione sociale, la sede legale di essa, nonche' le generalita' del rappresentante legale; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                il codice fiscale e la partita I.V.A.; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                gli estremi di iscrizione nel registro delle imprese e nell'anagrafe delle aziende agricole; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                le macchine adibite a lavori agricoli e relative attrezzature che intendono utilizzare specificandone, per quelle soggette ad immatricolazione, il numero della targa e, per quelle non soggette ad immatricolazione, il numero del telaio o del motore e, nel caso in cui esse non siano di proprieta' dell'azienda, anche le generalita' del proprietario delle stesse; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                le macchine operatrici di cui all'articolo 1, comma 3, che si intendono utilizzare per lavori agricoli indicando, oltre ai dati di cui alla lettera d), anche il tipo di lavorazione per la quale se ne chiede l'utilizzo; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                l'ubicazione e l'estensione dell'azienda, nonche' la ripartizione delle colture su di essa praticate; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                la dichiarazione dei lavori connessi alle attivita' di cui all'articolo 1, comma 1, che si intendono eseguire nel corso dell'anno, riferiti a colture, superfici o quantita' su cui intervenire, con distinta indicazione di quelli che si intendono affidare ad imprese agromeccaniche, riservandosi di indicare, in fase di rendicontazione annuale, le generalita' del titolare dell'impresa incaricata, nonche' la ragione sociale e la relativa sede legale.
+Devono altresi' risultare distintamente le lavorazioni, anche stagionali, eseguite con l'impiego di energia elettrica, nonche' le lavorazioni, anche stagionali, per le quali sono stati impiegati gli oli minerali indicati all'articolo 1, comma 1, con l'applicazione di trattamenti agevolativi concessi ad altro titolo, ovvero combustibili diversi, affinche' se ne tenga conto nella determinazione dei quantitativi spettanti ai sensi dell'articolo 3, comma 1. ((2))
 
 Nella richiesta di cui al comma 3, possono essere omessi i dati di cui alla lettera f) risultanti dal repertorio notizie economiche ed amministrative (REA) previsto dall'articolo 9 del decreto del Presidente della Repubblica 7 dicembre 1995, n. 581, facendo ad esso riferimento; le richieste relative agli anni successivi al primo, qualora i dati dichiarati dall'azienda istante rimangano immutati rispetto alla richiesta iniziale, potranno essere sostituite da una dichiarazione attestante che i dati e le notizie gia' forniti sono validi anche per l'anno in cui si rinnova la richiesta di ammissione al beneficio.
 
@@ -75,6 +168,25 @@ Il libretto di cui al comma 2 puo' essere sostituito dalla Carta dell'agricoltor
 I prodotti di cui all'articolo 1, comma 1, sono denaturati secondo le formule stabilite con determinazione del direttore dell'Agenzia delle dogane.
 
 Le operazioni di denaturazione si svolgono, anche sulle linee di trasferimento dei prodotti, ivi comprese quelle di carico, presso i depositi fiscali. Gli impianti di denaturazione sono soggetti a denuncia all'UTF competente per territorio, che esegue, entro trenta giorni dalla ricezione della denuncia, la verifica tecnica al fine di riconoscerne l'idoneita' ai criteri stabiliti dall'agenzia delle dogane; in tale sede, l'UTF ha facolta' di prescrivere gli adattamenti e le integrazioni necessari alla salvaguardia degli interessi erariali, compresa la istituzione di appositi locali per la custodia dei denaturanti. Della verifica eseguita viene redatto verbale sottoscritto anche dall'operatore, che ne riceve un esemplare e si impegna a notificare preventivamente all'UTF tutte le modifiche che intendesse successivamente apportare.
+
+3.
+                    
+                        
+                            L'inizio delle operazioni di denaturazione viene comunicato all'ufficio dell'Agenzia delle dogane competente per la vigilanza almeno tre giorni prima, dal computo dei quali sono esclusi il sabato e le festivita'. La dichiarazione, redatta in doppio esemplare, deve contenere le seguenti indicazioni:
+ 
+                        
+                        
+                            a)
+                            
+                                per le operazioni da effettuarsi in serbatoio, la sigla del medesimo, la data di effettuazione delle operazioni, l'ora di inizio, il quantitativo di prodotto da denaturare e la presumibile durata della denaturazione;
+
+                            
+                        
+                        
+                            b)
+                            
+                                per le denaturazioni da effettuarsi in linea, i giorni e gli orari in cui tali operazioni avverranno.
+ Un esemplare della dichiarazione, munito del protocollo dell'ufficio, viene restituito all'esercente che lo pone a corredo delle proprie contabilita'. Qualsiasi variazione dei dati riportati nella dichiarazione deve essere oggetto di preventiva comunicazione all'ufficio di vigilanza.
 
 Le operazioni di denaturazione si svolgono durante l'orario ordinario di apertura degli uffici dell'Agenzia, a cura e sotto la responsabilita' dell'esercente l'impianto. L'ufficio ha facolta' di far partecipare alle operazioni di denaturazione uno o piu' funzionari ovvero di far intervenire gli stessi nel corso di tali operazioni o successivamente; ha altresi' facolta' di prescrivere l'adozione di particolari accorgimenti tecnici riconosciuti idonei e dispositivi di segnalazione di regolarita' dell'operazione e di blocco automatico in caso di guasti.
 
@@ -146,6 +258,38 @@ In attuazione di quanto disposto dall'articolo 1, comma 4, del decreto-legge 15 
 Salvo quanto previsto dal successivo comma 2, dalla data di entrata in vigore del presente regolamento cessano di avere efficacia le disposizioni del regolamento approvato con decreto 11 dicembre 2000, n. 375, pubblicato nella Gazzetta Ufficiale n. 293 del 6 dicembre 2000.
 
 Dalla data di entrata in vigore del presente regolamento e' consentito cedere prodotti non denaturati per usi agricoli agli utilizzatori ad un prezzo ridotto dell'accisa non dovuta e dell'IVA alla stessa afferente per i successivi centottanta giorni; entro trenta giorni dalla scadenza del termine fissato per la cessazione della predetta commercializzazione, gli esercenti impianti di deposito, che detengono prodotti petroliferi non denaturati e intendono iniziare a commercializzare prodotti agricoli denaturati a norma dell'articolo 4, adeguano la propria attivita' alle disposizioni contenute nel presente regolamento.
+
+3.
+                    
+                        
+                            Per la commercializzazione di prodotti non denaturati di cui al comma 2, gli esercenti depositi commerciali assoggettati ad accisa ad aliquota intera, osservano i seguenti adempimenti:
+ 
+                        
+                        
+                            a)
+                            
+                                prestano cauzione, secondo le modalita' stabilite dalle disposizioni sulla contabilita' generale dello Stato, commisurata al 30 per cento dell'importo massimo del credito d'imposta maturato in un semestre solare, prendendo a base per il computo la differenza tra l'aliquota normale e quella ridotta di accisa;
+
+                            
+                        
+                        
+                            b)
+                            
+                                all'atto della vendita dei prodotti, annotano su libretto di controllo esibito dai soggetti ammessi al beneficio, distintamente per prodotto le quantita' di oli minerali vendute e la data in cui viene effettuata la cessione, verificando che i rifornimenti non superino l'assegnazione determinata dall'ufficio regionale o provinciale ed emettono fatture con separata indicazione dell'accisa assolta e non addebitata;
+
+                            
+                        
+                        
+                            c)
+                            
+                                per ciascun soggetto beneficiario riportano nel registro di carico e scarico a norma dell'articolo 11, comma 1, lettera a), del decreto del Ministro delle finanze 25 marzo 1996, n. 210, e successive modificazioni, distintamente dagli altri, i quantitativi consegnati ed effettuano il totale giornaliero dei prodotti forniti;
+
+                            
+                        
+                        
+                            d)
+                            
+                                presentano periodicamente al titolare del deposito fiscale fornitore una dichiarazione sostitutiva di atto di notorieta', resa ai sensi dell'articolo 47 del decreto del Presidente della Repubblica 28 dicembre 2000, n. 445, recante per ciascun beneficiario l'indicazione dei quantitativi di prodotti petroliferi fatturati nel periodo di riferimento e dell'importo del credito d'imposta maturato, determinato tenuto conto dell'aliquota di accisa stabilita in via generale e di quella ridotta prevista per ciascun tipo di prodotto; tale credito viene trasferito, a conguaglio dei corrispettivi dei prodotti ritirati al titolare del deposito fiscale fornitore sopra indicato e da quest'ultimo viene esposto nelle proprie contabilita', denunciato all'atto della dichiarazione periodica delle partite immesse in consumo ed utilizzato a scomputo dei versamenti di accisa che sia tenuto ad effettuare. La dichiarazione sostitutiva e' posta a corredo delle registrazioni fiscali.
 
 I soggetti di cui all'articolo 2, comma 1, che detengono alla data di entrata in vigore del presente regolamento giacenze di prodotti non denaturati, risultanti dal libretto di controllo, sui quali e' stata corrisposta l'accisa nella misura ridotta prevista per l'impiego di prodotti in agricoltura, continuano ad utilizzarle fino ad esaurimento.
 

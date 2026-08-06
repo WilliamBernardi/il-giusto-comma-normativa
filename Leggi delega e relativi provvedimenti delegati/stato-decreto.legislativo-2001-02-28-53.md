@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Leggi delega e relativi provvedimenti delegati
 vigenza_date: 2012-08-10
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:41:18Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -78,6 +78,45 @@ Al termine dello stesso il direttore della scuola, sentito il comitato direttivo
  3. Per il personale sospeso cautelarmente dal servizio, rinviato a giudizio o ammesso ai riti alternativi per i delitti di cui all'articolo 15, comma 1, lettere a) e b), della legge 19 marzo 1990, n. 55 e successive modificazioni ovvero sottoposto a procedimento disciplinare per l'applicazione di una sanzione piu' grave della deplorazione, l'attribuzione dello scatto aggiuntivo avviene, anche con effetto retroattivo, dopo la definizione dei relativi procedimenti, fermo restando quanto previsto dal comma 2. Si applicano le disposizioni contenute negli articoli 94 e 95 del decreto del Presidente della Repubblica 10 gennaio 1957, n. 3."
 
 ## Art. 2.
+
+1.
+                        
+                            
+                                All'articolo 2, comma 4, del decreto legislativo 12 maggio 1995, n. 197, sono apportate le seguenti modifiche:
+ 
+                            
+                            
+                                a)
+                                
+                                    al terzo capoverso, l'articolo 24-quater del decreto del Presidente della Repubblica 24 aprile 1982, n. 335, e' sostituito dal seguente:
+ "Art. 24-quater (Immissione nel ruolo dei sovrintendenti). 1.
+L'accesso alla qualifica iniziale del ruolo dei sovrintendenti della Polizia di Stato avviene:
+ a) nel limite del sessanta per cento dei posti disponibili al 31 dicembre di ogni anno, mediante concorso interno per titoli e superamento di un successivo corso di formazione professionale, della durata non inferiore a tre mesi, riservato agli assistenti capo che ricoprono, alla predetta data, una posizione in ruolo non inferiore a quella compresa entro il doppio dei posti riservati per tale concorso;
+ b) nel limite del restante quaranta per cento dei posti disponibili al 31 dicembre di ogni anno, mediante concorso interno per titoli ed esame scritto, consistente in risposte ad un questionario, articolato su domande tendenti ad accertare prevalentemente il grado di preparazione professionale, e successivo corso di formazione professionale, della durata non inferiore a tre mesi, riservato al personale del ruolo degli agenti e assistenti che abbia compiuto quattro anni di effettivo servizio.
+ 2. Ai concorsi di cui al comma 1 e' ammesso il personale, in possesso dei requisiti ivi previsti, che alla data di scadenza dei termini per la presentazione delle domande:
+ a) abbia riportato, nell'ultimo biennio, un giudizio complessivo non inferiore a buono;
+ b) non abbia riportato, nell'ultimo biennio, sanzioni disciplinari piu' gravi della deplorazione.
+ 3. Per l'ammissione al corso di formazione professionale di cui al comma 1, lettera a), a parita' di punteggio, prevalgono, nell'ordine, l'anzianita' di qualifica, l'anzianita' di servizio e la maggiore eta'. Per la formazione della graduatoria del concorso di cui al comma 1, lettera b), a parita' di punteggio, prevalgono, nell'ordine, la qualifica, l'anziani di qualifica, l'anzianita' di servizio e la maggiore eta'.
+ 4. Gli assistenti capo ammessi al corso di formazione del concorso di cui al camma 1, lettera a) e vincitori anche di quello di cui alla lettera b) del medesimo comma, indetti lo stesso anno, sono esclusi dalla graduatoria di quest'ultimo concorso.
+ 5. I posi rimasti scoperti nel concorso di cui al comma 1, lettera b), sono devoluti, fino alla data di inizio del relativo corso di formazione professionale, ai partecipanti del concorso di cui al comma 1, lettera a), risultati idonei in relazione ai punteggi conseguiti. Quelli non coperti per l'ammissione al corso di formazione professionale di cui all'articolo 1, lettera a), sono devoluti, fino alla data di inizio del relativo corso di formazione, agli idonei del concorso di cui alla successiva lettera b).
+ 6. Con regolamento del Ministro dell'interno, da emanare, ai sensi dell'articolo 17, comma 3, della legge 23 agosto 1988, n. 400, sono stabilite le modalita' di svolgimento del concorso, le categorie dei titoli da ammettere a valutazione e i punteggi da attribuire a ciascuna di esse, la composizione della commissione d'esami, nonche' le modalita' di svolgimento dei corsi di cui ai comma 1 e i criteri per la formazione delle graduatorie di fine corso.
+ 7. I frequentatori che al tendine dei corsi di cui ai comma 1, lettere a) e b), abbiano superato l'esame finale, conseguono la nomina a vice sovrintendente nell'ordine determinato dalla rispettiva graduatoria finale del corso, con decorrenza giuridica dal 1o gennaio dell'anno successivo a quello nel quale si sono verificate le vacanze e con decorrenza economica dal giorno successivo alla data di conclusione del corso medesimo. I vincitori del concorso di cui al comma 1, lettera a), precedono in ruolo i vincitori del Concorso di cui alla successiva lettera b).";
+
+                                
+                            
+                            
+                                b)
+                                
+                                    al quarto capoverso, i commi 1, 2 e 6 dell'articolo 24-quinquies del decreto del Presidente della Repubblica 24 aprile 1982, n. 335, sono sostituiti dai seguenti:
+ "1. E' dimesso dai corsi di cui all'articolo 24-quater, il personale che:
+ a) dichiara di rinunciare al corso;
+ b) non supera gli esami di fine corso;
+ c) e' stato per qualsiasi motivo assente dal corso per piu' di venti giorni, anche se non continuativi. Nell'ipotesi di assenza dovuta ad infermita' contratta durante il corso ovvero ad infermita' dipendente da causa di servizio, il personale e' ammesso a partecipare di diritto al corrispondente primo corso successivo al riconoscimento della sua idoneita' psico-fisica e sempre che nel periodo precedente a detto corso non sia intervenuta una delle cause di esclusione previste per la partecipazione al concorso.
+ 2. Il personale di sesso femminile, la cui assenza oltre i limiti di cui al comma 1 e' stata determinata da maternita', e' ammesso a partecipare al corrispondente primo corso successivo ai periodi di assenza dal lavoro previsti dalle disposizioni sulla tutela delle lavoratrici madri.
+ 6. Il personale che non supera il corso permane nella qualifica rivestita senza detrazioni d'anzianita' ed e' restituito al servizio d'istituto;
+ c) dopo il quarto capoverso, recante l'articolo 24-quinquies del decreto del Presidente della Repubblica 24 aprile 1982, n. 335, e' inserito il seguente:
+ "24-quinquies. 1 (Emolumento pensionabile)
+ 1. Ai vice sovrintendenti che abbiano compiuto tre anni e sei mesi di effettivo servizio nella qualifica e che, nei due anni precedenti, abbiano riportato un giudizio non inferiore a "buono" e non abbiano riportato una sanzione piu' grave della deplorazione, e' attribuito un emolumento pensionabile di lire 370.000 annue lorde, valido anche per la tredicesima mensilita' e per l'indennita' di buonuscita, riassorbibile con lo scatto gerarchico attribuito nello stesso livello retributivo ovvero all'atto dell'accesso al livello retributivo superiore.
 
 Per il personale sospeso cautelarmente dal servizio, rinviato a giudizio o ammesso ai riti alternativi per i delitti di cui all'articolo 15, comma 1, lettere a) e b), della legge 19 marzo 1990, n. 55 e successive modificazioni ovvero sottoposto a procedimento disciplinare per l'applicazione di una sanzione piu' grave della deplorazione, l'attribuzione dell'emolumento pensionabile avviene, anche con effetto retroattivo, dopo la definizione dei relativi procedimenti, fermo restando quanto previsto dal comma 1. Si applicano le disposizioni contenute negli articoli 94 e 95 del decreto del Presidente della Repubblica 10 gennaio 1957, n. 3."
  d) al quinto capoverso, all'articolo 24-sexies del decreto del Presidente della Repubblica 24 aprile 1982, n. 335, le parole "mediante scrutinio per merito comparativo" sono sostituite dalle seguenti: "mediante scrutinio per merito assoluto;
@@ -181,6 +220,74 @@ sono riassorbiti all'atto dell'accesso al livello retributivo superiore.".
 
 ## Art. 5.
 
+1.
+                        
+                            
+                                All'articolo 6 del decreto legislativo 12 maggio 1995, n. 197, sono apportate le seguenti modifiche:
+ 
+                            
+                            
+                                a)
+                                
+                                    Al terzo capoverso i commi 1 e 2, dell'articolo 20-quater, del decreto del Presidente della Repubblica 24 aprile 1982, n. 337, sono sostituiti dai seguenti: "1. La nomina alla qualifica iniziale del ruolo dei revisori tecnici si consegue:
+ a) nel limite del settanta per cento dei posti disponibili al 31 dicembre di ogni anno, in ciascun profilo professionale, mediante concorso interno per titoli e superamento di una prova pratica a carattere professionale, anche mediante un questionario a risposta multipla, tendente ad accertare il grado di preparazione tecnico professionale, e successivo corso di formazione di durata non inferiore a sei mesi. Al concorso sono ammessi gli appartenenti al ruolo degli operatori e collaboratori tecnici provenienti da profili professionali omogenei a quello per cui concorrono, in possesso dell'abilitazione professionale eventualmente prevista dalla legge per l'esercizio dell'attivita' propria del profilo professionale per il quale si concorre, che abbiano compiuto alla stessa data quattro anni di effettivo servizio e non abbiano riportato nei due anni precedenti sanzioni disciplinari piu' gravi della deplorazione. Il trenta per cento dei posti e' riservato al personale con qualifica di collaboratore tecnico capo;
+ b) nel limite del restante trenta per cento dei posti disponibili, mediante concorso pubblico per esame scritto al quale possono partecipare i cittadini italiani in possesso dei requisiti generali per la partecipazione ai pubblici concorsi e di un diploma di istruzione professionale almeno triennale conseguito presso un istituto statale, o, comunque, riconosciuto dallo Stato, ovvero, ove non sia previsto il suddetto diploma, di un diploma o di un attestato di qualifica rilasciato dalle regioni al termine di corsi di durata almeno triennale nell'ambito della formazione professionale, nonche' dell'abilitazione professionale eventualmente prevista dalla legge per l'esercizio dell'attivita' propria del profilo professionale per il quale si concorre. L'idoneita' fisica, psichica e attitudinale al servizio dei candidati e' accertata secondo quanto stabilito con regolamento del Ministro dell'interno, da emanare ai sensi dell'articolo 17, comma 3, della legge 23 agosto 1988, n. 400. Il dieci per cento dei posti disponibili e' riservato, con esclusione del limite di eta', al personale del ruolo degli operatori e dei collaboratori tecnici in possesso del prescritto titolo di studio e dell'abilitazione professionale eventualmente prevista dalla legge.
+La commissione giudicatrice del concorso viene integrata da esperti delle materie attinenti alle mansioni tecniche che il personale dovra' svolgere. I vincitori di concorso sono nominati allievi vice revisori tecnici con il trattamento economico di cui all'articolo 59 della legge 1° aprile 1981, n. 121, e destinati a frequentare un corso di formazione tecnico professionale di durata non inferiore a sei mesi.
+ Al termine del corso gli allievi che abbiano superato le prove teorico-pratiche conclusive e ottenuto il giudizio di idoneita' sono nominati vice revisori tecnici in prova.
+ 2. Con regolamento del Ministro dell'interno, da emanare ai sensi dell'articolo 17, comma 3, della legge 23 agosto 1988, n. 400, sono stabilite le modalita' di svolgimento del concorso, comprese le eventuali forme di preselezione, la composizione della commissione esaminatrice e le modalita' di svolgimento dei corsi di cui al comma 1, in relazione alle mansioni tecniche previste e quelle di svolgimento degli esami di fine corso";
+
+                                
+                            
+                            
+                                b)
+                                
+                                    al terzo capoverso, dopo il comma 5 dell'articolo 20-quater, del decreto del Presidente della Repubblica 24 aprile 1982, n. 337, e' aggiunto il seguente:
+ " 5-bis. I vincitori del concorso di cui al comma 1, lettera a), conseguono la nomina a vice revisore con decorrenza giuridica dal 1( gennaio dell'anno successivo a quello nel quale si sono verificate le vacanze e con decorrenza economica dal giorno successivo alla data di conclusione del corso di formazione.";
+
+                                
+                            
+                            
+                                c)
+                                
+                                    al quarto capoverso, al comma 1 dell'articolo 20-quinquies, del decreto del Presidente della Repubblica 24 aprile 1982, n. 337, le parole "Nell'ipotesi di assenza dovuta ad infermita' contratta a causa delle esercitazioni pratiche o a malattia contratta per motivi di servizio," sono sostituite dalle seguenti: "Nell'ipotesi di assenza determinata da infermita' contratta durante il corso ovvero da infermita' dipendente da causa di servizio qualora si tratti di personale proveniente da altri ruoli della Polizia di Stato";
+
+                                
+                            
+                            
+                                d)
+                                
+                                    al quarto capoverso, il comma 6 dell'articolo 20-quinquies del decreto del Presidente della Repubblica 24 aprile 1982, n. 337, e' sostituito dal seguente:
+ "6. I frequentatori provenienti dagli operatori e collaboratori tecnici che non superano il corso permangono nella qualifica rivestita nel suddetto ruolo senza detrazione di anzianita' e sono restituiti al servizio.";
+
+                                
+                            
+                            
+                                e)
+                                
+                                    dopo il quarto capoverso e' inserito il seguente:
+ "Art. 20-quinquies. l (Emolumento pensionabile)
+ 1. Ai vice revisori che abbiano compiuto tre anni e sei mesi di effettivo servizio nella qualifica e che, nei due anni precedenti, abbiano riportato un giudizio non inferiore a "buono" e non abbiano riportato una sanzione piu' grave della deplorazione, e' attribuito un emolumento pensionabile di lire 370.000 annue lorde, valido anche per la tredicesima mensilita' e per l'indennita' di buonuscita, riassorbibile con lo scatto gerarchico attribuito nello stesso livello retributivo ovvero all'atto dell'accesso al livello retributivo superiore.
+ 2. Per il personale sospeso cautelarmente dal servizio, rinviato a giudizio o ammesso ai riti alternativi per i delitti di cui all'articolo 15, comma 1, lettere a) e b), della legge 19 marzo 1990, n. 55 e successive modificazioni ovvero sottoposto a procedimento disciplinare per l'applicazione di una sanzione piu' grave della deplorazione, l'attribuzione dell'emolumento pensionabile avviene, anche con effetto retroattivo, dopo la definizione dei relativi procedimenti, fermo restando quanto previsto dal comma 1. Si applicano le disposizioni contenute negli articoli 94 e 95 del decreto del Presidente della Repubblica 10 gennaio 1957, n. 3.";
+
+                                
+                            
+                            
+                                f)
+                                
+                                    al quinto capoverso, all'articolo 20-sexies del decreto del Presidente della Repubblica 24 aprile 1982, n. 337, le parole "mediante scrutinio per merito comparativo" sono sostituite dalle seguenti: "mediante scrutinio per merito assoluto".
+
+                                
+                            
+                            
+                                g)
+                                
+                                    dopo il sesto capoverso, recante l'articolo 20-septies del decreto del Presidente della Repubblica 24 aprile 1982, n. 337, e' aggiunto il seguente:
+ "Art. 20-octies (Attribuzione di uno scatto aggiuntivo ai revisori tecnici capo)
+ 1. Ai revisori tecnici capo che abbiano murato otto anni di effettivo servizio nella qualifica e' attribuito uno scatto aggiuntivo, fermo restando quanto previsto dal comma 2.
+ 2. Lo scatto aggiuntivo non e' attribuito al personale che nel triennio precedente abbia riportato un giudizio inferiore a "buono" o che nel biennio precedente abbia riportato una sanzione disciplinare piu' grave della deplorazione.
+ 3. Per il personale sospeso cautelarmente dal servizio, rinviato a giudizio o ammesso ai riti alternativi per i delitti di cui all'articolo 15, comma 1, lettere a) e b), della legge 19 marzo 1990, n. 55 e successive modificazioni ovvero sottoposto a procedimento disciplinare per l'applicazione di una sanzione piu' grave della deplorazione, l'attribuzione dello scatto aggiuntivo avviene, anche con effetto retroattivo, dopo la definizione dei relativi procedimenti, fermo restando quanto previsto dal comma 2. Si applicano le disposizioni contenute negli articoli 94 e 95 del decreto del Presidente della Repubblica 10 gennaio 1957, n.3.
+ 4. Lo scatto aggiuntivo di cui al presente articolo e' attribuito come assegno ad personam riassorbibile e non cumulabile con lo scatto gerarchico previsto nello stesso livello retributivo, in caso di accesso ai ruoli superiori.".
+
 ## Art. 6.
 
 1. All'articolo 7 del decreto legislativo 12 maggio l995, n. 197, sono apportate le seguenti modifiche:
@@ -236,6 +343,46 @@ Il comma 1 dell'articolo 9 del decreto legislativo 12 maggio 1995, n. 197, e' so
 
 ## Art. 8.
 
+1.
+                        
+                            
+                                All'articolo 10 del decreto legislativo 12 maggio 1995, n. 197, sono apportate le seguenti modifiche:
+ 
+                            
+                            
+                                a)
+                                
+                                    dopo il comma 1, recante modifiche al decreto del Presidente della Repubblica 30 aprile 1987, n. 240, sono inseriti i seguenti:
+ 1 -bis. All'articolo 3, il comma 5 e' sostituito dal seguente:
+ "5. In caso di manifestazioni culturali, promozionali o a scopo di beneficenza le spese di cui ai commi precedenti possono essere a carico dell'Amministrazione. Nel caso di attivita' musicali svolte in convenzione con associazioni culturali o altri enti pubblici o privati, nazionali e stranieri che svolgono attivita' musicale o tetrale, le convenzioni stesse possono stabilire modalita' di reciproca collaborazione e utilita' diverse dal pagamento delle spese di cui ai commi precedenti, quali ad esempio l'uso, anche per le attivita' di prova, delle strutture o degli strumenti dell'associazione o ente.".
+ 1-ter. All'articolo 3, dopo il comma 7 e' aggiunto il seguente:
+ "8. Per manifestazioni culturali di particolare rilievo, anche nell'ambito delle convenzioni di cui al comma 5, puo' essere previsto, in via sperimentale e previa autorizzazione della Direzione centrale per gli affari generali del Dipartimento della pubblica sicurezza, l'impiego di specifici gruppi strumentali della Banda o l'esecuzione di pezzi diretti da maestri di fama internazionale.".
+ 1-quater. All'articolo 6, dopo il comma 1, e' inserito il seguente:
+ "1-bis. Per esigenze addestrative e per manifestazioni artistiche di particolare rilievo, e' consentito, in via sperimentale, l'impiego dei maestri componenti della Banda nell'esecuzione di parti strumentali diverse da quelle indicate nelle predette tabelle.";
+
+                                
+                            
+                            
+                                b)
+                                
+                                    dopo il comma 9 e' inserito il seguente:
+ 9-bis. Dopo l'articolo 15-bis del decreto del Presidente della Repubblica 30 aprile 1987, n. 240, sono inseriti i seguenti:
+ "Art. 15-ter (Emolumento pensionabile)
+ 1. Agli orchestrali periti tecnici che abbiano compiuto tre anni e sei mesi di effettivo servizio nella qualifica, che nei due anni precedenti abbiano riportato un giudizio non inferiore a "buono" e non abbiano riportato una sanzione piu' grave della deplorazione, e' attribuito un emolumento pensionabile di lire 500.000 annue lorde, valido anche per la tredicesima mensilita' e per l'indennita' di buonuscita, riassorbibile con lo scatto gerarchico attribuito nello stesso livello retributivo ovvero all'atto dell'accesso al livello retributivo superiore.
+ 2. Per il personale sospeso cautelarmente dal servizio, rinviato a giudizio o ammesso ai riti alternativi per i delitti di cui all'articolo 15, comma 1, lettere a) e b), della legge 19 marzo 1990, n. 55 e successive modificazioni ovvero sottoposto a procedimento disciplinare per l'applicazione di una sanzione piu' grave della deplorazione, l'attribuzione dell'emolumento pensionabile avviene, anche con effetto retroattivo, dopo la definizione dei relativi procedimenti, fermo restando quanto previsto dal comma 1. Si applicano le disposizioni contenute negli articoli 94 e 95 del decreto del Presidente della Repubblica 10 gennaio 1957, n. 3.
+ Art. 15-quater (Attribuzione di uno scatto aggiuntivo agli orchestrali periti tecnici superiori)
+ 1. Agli orchestrali periti tecnici superiori che abbiano maturato sette anni di effettivo servizio nella qualifica e' attribuito uno scatto aggiuntivo, fermo restando quanto previsto dal comma 2.
+ 2. Lo scatto aggiuntivo non e' attribuito che nel triennio precedente abbia riportato un giudizio inferiore a "buono" o che nel biennio precedente abbia riportato una sanzione piu' grave della deplorazione.
+ 3. Per il personale sospeso cautelarmente dal servizio, rinviato a giudizio o ammesso ai riti alternativi per i delitti di cui all'articolo 15, comma 1, lettere a) e b), della legge 19 marzo 1990, n. 55 e successive modificazioni ovvero sottoposto a procedimento disciplinare per l'applicazione di una sanzione piu' grave della deplorazione, l'attribuzione di uno scatto aggiuntivo, avviene anche con effetto retroattivo, dopo la definizione dei relativi procedimenti, fermo restando quanto previsto dal comma 2. Si applicano le disposizioni contenute negli articoli 94 e 95 del decreto del Presidente della Repubblica 10 gennaio 1957, n. 3.
+ Art. 15-quinquies (Orchestrale perito tecnico superiore di "primo livello")
+ 1. Fermo restando quanto previsto dal comma 2, gli orchestrali periti tecnici superiori che al 1° gennaio di ogni anno abbiano maturato otto anni di effettivo servizio nella qualifica dalla data di attribuzione dello scatto aggiuntivo di cui all'articolo ((15-quater)), possono partecipare ad una specifica selezione per titoli a conclusione della quale conseguono un ulteriore scatto aggiuntivo, assumendo, fermo restando la qualifica rivestita, anche la denominazione di "primo livello".
+ 2. E' escluso dalla selezione di cui al comma 1, il personale che nel triennio precedente abbia riportato un giudizio inferiore a "ottimo" o che nel biennio precedente abbia riportato una sanzione piu' grave del richiamo scritto.
+ 3. Per il personale che abbia presentato istanza, sospeso cautelarmente dal servizio, inviato a giudizio o ammesso ai riti alternativi per i delitti di cui all'articolo 15, comma 1, lettere a) e b), della legge 19 marzo l990, n. 55 e successive modificazioni ovvero sottoposto a procedimento disciplinare per l'applicazione di una sanzione piu' grave della deplorazione, la selezione di cui al comma 1, anche con effetti retroattivi, e' effettuata dopo la definizione dei relativi procedimenti, fermo restando quanto previsto dal comma 2. Si applicano le disposizioni contenute negli articoli 94 e 95 del decreto del Presidente della Repubblica 10 gennaio 1957, n. 3.
+ 4. L'attribuzione dell'ulteriore scatto aggiuntivo decorre, anche con effetto retroattivo rispetto alla conclusione della selezione, dal 1° gennaio di ogni anno.
+ 5. Le modalita' di svolgimento della selezione di cui al comma 1, l'individuazione dei titoli valutabili, la composizione della commissione esaminatrice, nonche' i punteggi da attribuire a ciascuno di essi e le modalita' di formazione della graduatoria finale sono determinati con decreto del Ministro dell'interno.
+ Art. 15-sexies (Riassorbimento degli scatti aggiuntivi)
+ 1. Gli scatti aggiuntivi di cui agli articoli 15-quater e 15-quinquies sono riassorbiti all'atto dell'accesso al livello retributivo superiore.".
+
 ## Art. 9.
 
 All'articolo 17 del decreto legislativo 12 maggio 1995, n. 197, dopo il comma 1 e' inserito il seguente:
@@ -277,6 +424,27 @@ Per quanto non previsto dai commi 1, 2 e 3, si applicano le disposizioni di cui 
 
 ## Art. 13.
 
+1.
+                        
+                            
+                                Nella prima applicazione del presente decreto, per i posti disponibili dal 31 dicembre 2001 al 31 dicembre 2004, le aliquote e modalita' di accesso alla qualifica iniziale del ruolo degli ispettori sono determinate, in deroga a quanto previsto dall'articolo 27 del decreto del Presidente della Repubblica 24 aprile 1982, n. 335 e alla riserva del sesto dei posti ivi indicata, come modificato dall'articolo 3, comma 1, del presente decreto, come segue:
+ 
+                            
+                            
+                                a)
+                                
+                                    nel limite del trentacinque per cento dei posti disponibili mediante pubblico concorso, secondo le modalita' stabilite dagli articoli 27, comma 1, lettera a), 27-bis e 27-ter del decreto del Presidente della Repubblica 24 aprile 1982, n. 335, come modificati dall'articolo 3,comma 1, lettera a), del presente decreto;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    nel limite del sessantacinque per cento dei posti disponibili, mediante concorso interno per titoli di servizio e superamento di una prova scritta e di un colloquio, riservato al personale della Polizia di Stato che nell'ultimo biennio non abbia riportato la deplorazione o sanzione disciplinare piu' grave ed abbia riportato un giudizio complessivo non inferiore a "buono", sulla base delle seguenti aliquote:
+ 1) trentacinque per cento riservato al personale vincitore dei concorsi per l'accesso al ruolo dei sovrintendenti indetti dopo l'entrata in vigore del decreto legislativo 12 maggio 1995, n. 197;
+ 2) quindici per cento riservato agli altri appartenenti al ruolo dei sovrintendenti anche se privi del titolo di studio;
+ 3) quindici per cento riservato al personale che espleta funzioni di polizia in possesso, alla data del bando che indice il concorso, di un'anzianita' di servizio non inferiore a sette anni e del titolo di studio prescritto.
+
 Per quanto non previsto dal comma 1, si applicano le disposizioni di cui agli articoli 27, 27-bis, 27-ter e 27-quater del decreto del Presidente della Repubblica 24 aprile 1982, n. 335, come modificati dall'articolo 3, comma 1, del presente decreto.
 
 ## Art. 14.
@@ -290,6 +458,39 @@ Il personale inquadrato ai sensi del comma 2, conserva l'anzianita' maturata nel
 Al personale inquadrato ai sensi del comma 2, continuano ad applicarsi le disposizioni di cui all'articolo 15, comma 7, del decreto legislativo 12 maggio 1995, n. 197, relativamente alla nomina alle qualifiche di ispettore superiore-sostituto ufficiale di pubblica sicurezza e di perito tecnico superiore il giorno precedente alla cessazione dal servizio.
 
 ## Art. 15.
+
+1.
+                        
+                            
+                                All'articolo 47 della legge 1o aprile l981, n. 12l, sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il primo comma e' sostituito dal seguente: 
+ "L'assunzione degli agenti di polizia avviene con le modalita' stabilite dall'ordinamento del personale della Polizia di Stato che espleta funzioni di polizia"; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    i commi dal secondo all'ottavo ed il comma tredicesimo sono abrogati; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    al nono comma le parole "con la qualifica di agente di polizia ausiliario" sono sostituite dalle seguenti: "con la qualifica di agente ausiliario trattenuto"; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    al comma decimo, le parole "del corso di cui all'articolo 48, comma secondo, durante il quale e' sottoposto a selezione attitudinale per l'eventuale assegnazione ai servizi che richiedono particolare qualificazione" sono sostituite dalle seguenti: "di un corso della durata di sei mesi durante il quale e' sottoposto a selezione attitudinale per l'eventuale assegnazione ai servizi che richiedono particolare qualificazione. Durante la frequenza del predetto corso il personale conserva la qualifica di agente di polizia giudiziaria e di agente di pubblica sicurezza. Le modalita' di svolgimento del corso sono stabilite con il regolamento di cui all'articolo 6-bis, comma 6, del decreto del Presidente della Repubblica 24 aprile 1982, n. 335. Si applicano le disposizioni di cui all'articolo 6-ter del medesimo decreto n. 335 del 1982.".
 
 Gli articoli 48, 49, 50 e il comma ottavo dell'articolo 60 della legge 1° aprile 1981, n. 121, sono abrogati. Conseguentemente all'articolo 7 del decreto del Presidente della Repubblica 24 aprile 1982, n. 335, al primo comma, le parole "di cui all'articolo 48 della legge 1° aprile 1981, n. 121," sono sostituite dalle seguenti: "di cui all'articolo 6-bis,".
 
@@ -307,6 +508,24 @@ Le disposizioni dell'articolo 49 del decreto del Presidente della Repubblica 24 
 
 ## Art. 16.
 
+1.
+                        
+                            
+                                Agli assistenti capo e ai sovrintendenti capo, in servizio alla data di entrata in vigore del presente decreto, lo scatto aggiuntivo di cui agli articoli 12-bis e 24-octies del decreto del Presidente della Repubblica 24 aprile 1982, n. 335, e' attribuito con le seguenti modalita':
+ 
+                            
+                            
+                                a)
+                                
+                                    al personale che alla suddetta data abbia gia' maturato quattro anni di effettivo servizio nella qualifica, con decorrenza dalla data di entrata in vigore del presente decreto;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    al restante personale, con decorrenza dalla data in cui matura quattro anni di effettivo servizio nella qualifica.
+
 Si osservano le disposizioni di cui ai commi 2 e 3 dell'articolo 12-bis e 2, 3 e 4 dell'articolo 24-octies del decreto del Presidente della Repubblica 24 aprile 1982, n. 335.
 
 Il personale di cui al comma 1 che alla data di entrata in vigore del presente decreto non risulta in possesso dei requisiti previsti dagli articoli 12-bis, commi 2 e 3 e 24-octies, commi 2, 3 e 4, del decreto del Presidente della Repubblica 24 aprile 1982, n. 335, lo scatto aggiuntivo di cui al presente articolo e' attribuito con decorrenza dal giorno successivo a quello di acquisizione dei medesimi requisiti. ((3))
@@ -317,9 +536,45 @@ Il personale di cui al comma 1 che alla data di entrata in vigore del presente d
 
 ## Art. 17.
 
+1.
+                        
+                            
+                                Ai vice sovrintendenti e agli ispettori, in servizio alla data di entrata in vigore del presente decreto, l'emolumento pensionabile, rispettivamente previsto dagli articoli ((24-quinquies.1)) e 28-bis del decreto del Presidente della Repubblica 24 aprile 1982, n. 335, e' attribuito con le seguenti modalita':
+ 
+                            
+                            
+                                a)
+                                
+                                    al personale che alla suddetta data abbia gia' murato tre anni e sei mesi di effettivo servizio nella qualifica, con decorrenza dalla data di entrata in vigore del presente decreto;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    al restante personale, con decorrenza alla data in cui matura tre anni e sei mesi di effettivo servizio nella qualifica.
+
 Si osservano le disposizioni di cui ai predetti articoli ((24-quinquies.1)) e 28-bis del decreto del Presidente della Repubblica 24 aprile 1982, n. 335.
 
 ## Art. 18.
+
+1.
+                        
+                            
+                                Ai vice ispettori in servizio alla data di entrata in vigore del presente decreto, l'emolumento pensionabile di cui all'articolo 27-quinquies del decreto del Presidente della Repubblica 24 aprile 1982, n. 335, e' attribuito con le seguenti modalita':
+ 
+                            
+                            
+                                a)
+                                
+                                    al personale che alla suddetta data abbia gia' maturato un anno di effettivo servizio nella qualifica, con decorrenza dalla data di entrata in vigore del presente decreto;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    al restante personale, con decorrenza dalla data in cui matura un anno di effettivo servizio nella qualifica.
 
 Si osservano le disposizioni di cui al predetto articolo 27-quinquies del decreto del Presidente della Repubblica 24 aprile 1982, n. 335.
 

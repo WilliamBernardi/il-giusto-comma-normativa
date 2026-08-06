@@ -7,8 +7,8 @@ urn: urn:nir:ministero.economia.e.finanze:decreto:2023-05-18;116
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:42Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -129,6 +129,66 @@ Gli incarichi per lo svolgimento delle attivita' di cui all'articolo 1, comma 1,
 
 Il RUP e' scelto fra il personale di ruolo in possesso dei requisiti previsti dall'articolo 31 del Codice dei contratti pubblici.
 
+3.
+                    
+                        
+                            Gli incarichi sono conferiti assicurando il rispetto del principio di rotazione, tenendo conto: 
+ 
+                        
+                        
+                            a)
+                            
+                                della necessita' di integrazione tra diverse competenze professionali anche in relazione alla tipologia dell'opera o lavoro, servizio e fornitura da realizzare; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                dell'attitudine e dell'esperienza eventualmente acquisita; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                dell'espletamento di attivita' analoghe con risultati positivi; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                dell'autonomia e del senso di responsabilita' dimostrati nel portare a termine i compiti affidati; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                della capacita' di collaborare con i colleghi al fine di uniformare atti e procedure; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                della consequenzialita' e complementarita' con altri incarichi, eventualmente gia' ricevuti, aventi lo stesso oggetto; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                del rispetto della vigente normativa in merito ai limiti e ai vincoli posti agli appartenenti ai diversi ordini professionali; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                del principio di incentivazione della produttivita', sancito dalla vigente legislazione in materia di pubblico impiego e dalla contrattazione collettiva.
+
 In assenza di precedenti esperienze, gli incarichi tecnici possono essere assegnati al personale previo accertamento di aver conseguito un corso di qualificazione professionale, oppure di aver gia' svolto positivamente in affiancamento, senza oneri a carico del fondo, l'attivita' oggetto dell'incarico.
 
 Il dirigente che ha conferito l'incarico puo' sostituire il personale nominato, dando conto delle esigenze sopraggiunte. Nel relativo provvedimento sono indicate le attivita' gia' espletate.
@@ -172,6 +232,66 @@ L'individuazione delle percentuali definitive da attribuire per la ripartizione 
 
 La liquidazione dell'incentivo e' effettuata, sulla base delle percentuali definitive stabilite in sede di contrattazione decentrata integrativa, dal dirigente che ha conferito l'incarico, previa relazione del RUP che attesti il regolare svolgimento delle attivita' tecniche affidate. La verifica sull'attivita' del RUP e la conseguente liquidazione dell'incentivo e' effettuata dal dirigente che ha conferito l'incarico previa verifica delle attivita' svolte.
 
+2.
+                    
+                        
+                            La liquidazione dell'incentivo e' disposta a conclusione dell'attivita' svolta secondo i criteri e le modalita' stabilite nell'accordo concluso in sede di contrattazione decentrata integrativa. A tal fine, le prestazioni sono da considerarsi rese: 
+ 
+                        
+                        
+                            a)
+                            
+                                per la programmazione della spesa per investimenti, con l'emanazione del relativo provvedimento; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                per la verifica dei progetti, con l'invio al RUP della relazione finale di verifica; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                per le procedure di gara, con la pubblicazione del provvedimento di efficacia dell'aggiudicazione; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                per l'esecuzione dei contratti in caso di forniture e servizi, con l'espletamento delle verifiche; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                per la direzione lavori, con l'emissione del certificato di regolare esecuzione dei lavori; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                per il collaudo tecnico-amministrativo, con l'emissione del certificato di collaudo finale; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                per il collaudo statico, con l'emissione del certificato statico; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                per le verifiche di conformita', con l'emissione della certificazione di regolare esecuzione.
+
 ## Art. 8. — Limiti all'erogazione degli incentivi
 
 Gli incentivi complessivamente corrisposti in un anno al singolo dipendente, anche da altre amministrazioni o soggetti terzi, non possono superare l'importo del 50 per cento del rispettivo trattamento economico complessivo annuo lordo previsto per la qualifica e fascia economica rivestita. Per trattamento annuo lordo si intende il trattamento fondamentale e il trattamento accessorio di qualunque natura, fissa e variabile escluso quello derivante dagli incentivi medesimi. L'erogazione degli incentivi e' effettuata previa verifica del rispetto del suddetto limite, ai sensi dell'articolo 113, comma 3, del Codice dei contratti pubblici.
@@ -192,6 +312,24 @@ Qualora il procedimento relativo all'intervento si arresti per scelte o modifica
 
 Penalita' per gravi errori ed omissioni incidenti 
  sull'incremento dei costi
+
+1.
+                    
+                        
+                            Non hanno diritto a percepire l'incentivo i soggetti incaricati che violino gli obblighi posti a loro carico dalla legge o che, nello svolgimento dei compiti assegnati si rendano responsabili di: 
+ 
+                        
+                        
+                            a)
+                            
+                                violazioni degli obblighi previsti dai regolamenti e dal provvedimento di incarico, dalla contrattazione collettiva di lavoro e dal codice di comportamento; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                gravi errori nonche' gravi omissioni o negligenze, non ricompresi nei casi di cui alla lettera a), tali da determinare aumenti dei costi previsti nel quadro economico o danni per il Ministero.
 
 Laddove le violazioni e le responsabilita' del soggetto incaricato non siano tali da configurare le fattispecie di cui al comma 1, ma siano in grado di arrecare pregiudizio o aumento dei costi per l'amministrazione, l'incentivo e' ridotto mediante l'applicazione di una penale non inferiore al 10 per cento dell'importo spettante e non superiore al 30 per cento del suddetto importo, proporzionata alla gravita' dell'inadempimento.
 

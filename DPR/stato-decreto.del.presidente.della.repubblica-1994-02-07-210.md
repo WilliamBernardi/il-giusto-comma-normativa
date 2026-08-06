@@ -8,8 +8,8 @@ codice_redazionale: 094G0231
 vigente: true
 source: normattiva-opendata
 collection: DPR
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:47:59Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -33,6 +33,24 @@ L'armamento in dotazione al Corpo forestale dello Stato ed al personale del Corp
 
 ## Art. 2. — Armamento
 
+1.
+                        
+                            
+                                L'armamento in dotazione al Corpo forestale dello Stato ed al personale dipendente che espleta funzioni di polizia si distingue in:
+ 
+                            
+                            
+                                a)
+                                
+                                    armamento individuale;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    armamento di reparto.
+
 ## Art. 3. — Armamento individuale - Definizione
 
 L'armamento individuale e' costituito dalle armi assegnate nominativamente in dotazione personale per tutta la durata del rapporto di servizio agli aventi diritto appartenenti al Corpo forestale dello Stato.
@@ -45,11 +63,54 @@ Costituiscono armamento di reparto le armi in carico alle scuole, uffici e strut
 
 ## Art. 5. — Assegnazione e consegna delle armi
 
+1.
+                        
+                            
+                                L'amministrazione assegna alle scuole, uffici e strutture:
+ 
+                            
+                            
+                                a)
+                                
+                                    l'armamento individuale occorrente, per la successiva assegnazione al personale avente diritto;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'armamento di reparto occorrente in considerazione delle caratteristiche dei servizi e degli obiettivi da conseguire.
+
 Con ordine di servizio il responsabile delle scuola, ufficio o struttura determina l'armamento di reparto che deve essere consegnato al personale comandato in operazioni di servizio oppure in attivita' addestrative ed esercitazioni e provvede per la consegna.
 
 La consegna dell'armamento al personale del Corpo forestale dello Stato diverso da quello indicato nell'art. 3 e nell'art. 8 puo' essere disposta solo per motivi di assoluta necessita', allorche' detto personale e' impiegato in operazioni di polizia o soccorso pubblico, sempreche' venga svolta apposita attivita' addestrativa.
 
 ## Art. 6. — Doveri dell'assegnatorio
+
+1.
+                        
+                            
+                                L'assegnatario deve:
+ 
+                            
+                            
+                                a)
+                                
+                                    custodire diligentemente l'arma e curarne responsabilmente e in modo costante la manutenzione;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    applicare sempre e ovunque le misure di sicurezza previste per il maneggio dell'arma;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    mantenere l'addestramento ricevuto, curando attivamente l'esercizio delle tecniche apprese partecipando alle esercitazioni di tiro a tale scopo organizzate dall'amministrazione.
 
 L'armamento individuale deve essere immediatamente versato alla scuola, ufficio o struttura di appartenenza all'atto della cessazione o sospensione del rapporto di impiego, nonche' in ogni altro caso previsto dall'ordinamento, ovvero quando l'amministrazione lo disponga con proprio provvedimento.
 
@@ -64,6 +125,38 @@ Le armerie devono essere sistemate in locali possibilmente interni all'edificio,
 Presso gli uffici e strutture sprovvisti di armerie il quantitativo di armi di reparto strettamente indispensabile all'espletamento dei compiti giornalieri deve essere custodito in strutture metalliche tecnicamente idonee e in ambienti adeguati.
 
 ## Art. 8. — Armamento di reparto - Costituzione
+
+1.
+                        
+                            
+                                Costituiscono armamento di reparto le armi per l'uso delle quali e' richiesto addestramento obbligatorio di base. Esse sono:
+ 
+                            
+                            
+                                a)
+                                
+                                    pistola semiautomatica;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    pistola mitragliatrice;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    fucile o carabina ad anima rigata;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    artifici.
 
 ## - Capo II CARATTERISTICHE DELL'ARMAMENTO
 

@@ -8,8 +8,8 @@ vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
 vigenza_date: 2026-03-01
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:32Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -48,10 +48,55 @@ Regime forfettario per le attivita' svolte dalle organizzazioni di volontariato 
 
 All'articolo 5, comma 15-quinquies, del decreto-legge 21 ottobre 2021, n. 146, convertito, con modificazioni, dalla legge 17 dicembre 2021, n. 215, le parole: «non superiori a euro 65.000» sono sostituite dalle seguenti: «non superiori a euro 85.000»;
 
+2.
+                        
+                            
+                                All'articolo 86, comma 1, del codice del Terzo settore, di cui al decreto legislativo 3 luglio 2017, n. 117, sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    
+                                        al primo periodo, le parole: «130.000 euro o alla diversa soglia che dovesse essere autorizzata dal Consiglio dell'Unione europea in sede di rinnovo della decisione in scadenza al 31 dicembre 2019 o alla soglia che sara' eventualmente armonizzata in sede europea» sono sostituite dalle seguenti: «85.000 euro o alla diversa soglia che dovesse essere armonizzata in sede europea»;
+                                    
+                                
+                            
+                            
+                                b)
+                                
+                                    
+                                        il secondo periodo e' soppresso.
+
 ## Art. 3. — Modifiche agli articoli 3 e 10 del decreto 
  del Presidente della Repubblica 26 ottobre 1972, n. 633
 
 L'articolo 89, comma 7, secondo periodo, del codice del Terzo settore di cui al decreto legislativo 3 luglio 2017, n. 117, e' soppresso.
+
+2.
+                        
+                            
+                                Al decreto del Presidente della Repubblica 26 ottobre 1972, n. 633, sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    
+                                        all'articolo 3, terzo comma, primo periodo, nel testo vigente prima delle modifiche introdotte dall'articolo 89, comma 7, secondo periodo, lettera a), del decreto legislativo n. 117 del 2017, le parole: «delle organizzazioni non lucrative di utilita' sociale (ONLUS)» sono sostituite dalle seguenti: «degli enti del Terzo settore escluse le imprese sociali costituite nelle forme di cui al libro V, titolo V, del codice civile
+                                            »;
+                                    
+                                
+                            
+                            
+                                b)
+                                
+                                    all'articolo 10, primo comma: 
+ 1) al numero 12) le parole: «alle ONLUS» sono sostituite dalle seguenti: «agli enti del Terzo settore escluse le imprese sociali costituite nelle forme di cui al libro V, titolo V, del codice civile
+                                            »; 
+ 2) al numero 15), nel testo vigente prima delle modifiche introdotte dall'articolo 89, comma 7, secondo periodo, lettera b), del decreto legislativo n. 117 del 2017, la parola: «ONLUS» e' sostituita dalle seguenti: «enti del Terzo settore»; 
+ 3) ai numeri 19), 20), 27-ter), nel testo vigente prima delle modifiche introdotte dall'articolo 89, comma 7, secondo periodo, lettera b), del decreto legislativo n. 117 del 2017, la parola: «ONLUS» e' sostituita dalle seguenti: «enti del Terzo settore escluse le imprese sociali costituite nelle forme di cui al libro V, titolo V, del codice civile
+                                            ».
 
 Le disposizioni di cui al comma 2 si applicano a decorrere dal termine previsto dall'articolo 104, comma 2, del decreto del codice del Terzo settore di cui al decreto legislativo 3 luglio 2017, n. 117.
 
@@ -76,6 +121,26 @@ All'articolo 1, comma 683, secondo periodo, della legge 30 dicembre 2021, n. 234
 ## - Capo III Disposizioni in materia di sport
 
 ## Art. 7. — Disposizioni fiscali in tema di enti sportivi dilettantistici
+
+1.
+                        
+                            
+                                All'articolo 1 della legge 16 dicembre 1991, n. 398, sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    
+                                        al comma 1, le parole: «Le associazioni sportive» sono sostituite dalle seguenti: «Le associazioni e le societa' sportive dilettantistiche di cui all'articolo 6, comma 1, lettere a), b) e c), del decreto legislativo 28 febbraio 2021, n. 36,» e le parole: «lire 100 milioni» sono sostituite dalle seguenti: «400.000 euro»;
+                                    
+                                
+                            
+                            
+                                b)
+                                
+                                    
+                                        al comma 2, le parole: «lire 100 milioni» sono sostituite dalle seguenti: «400.000 euro».
 
 ## - Titolo II DISPOSIZIONI IN MATERIA DI CRISI D'IMPRESA   Capo I Disposizioni in materia di imposte sui redditi
 
@@ -110,6 +175,37 @@ L'articolo 19-ter del decreto del Presidente della Repubblica 26 ottobre 1972, n
 
 ## Art. 11. — Modifiche all'articolo 40-bis del decreto 
  del Presidente della Repubblica 26 ottobre 1972 n. 633
+
+1.
+                        
+                            
+                                All'articolo 40-bis, comma 1, del decreto del Presidente della Repubblica 26 ottobre 1972, n. 633, sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    
+                                        alla lettera a) dopo le parole: «decreto legislativo 27 gennaio 2010, n. 11» sono aggiunte le seguenti: «, escluse la Banca centrale europea e le banche centrali nazionali anche quando non agiscono in veste di autorita' monetarie, altre autorita' pubbliche, le pubbliche amministrazioni statali, regionali o locali anche quando non agiscono in veste di autorita' pubbliche. Sono considerati prestatori di servizi di pagamento, altresi', i soggetti indicati all'articolo 114-sexiesdecies del decreto legislativo 1° settembre 1993 n. 385
+                                            »;
+                                    
+                                
+                            
+                            
+                                b)
+                                
+                                    
+                                        la lettera b) e' sostituita dalla seguente: 
+ «b) servizio di pagamento: una delle attivita' commerciali di cui all'articolo 1, comma 2, lettera h-septies.1), numeri 3), 4), 5) e 6), del decreto legislativo del 1° settembre 1993 n. 385;»;
+                                    
+                                
+                            
+                            
+                                c)
+                                
+                                    
+                                        la lettera c) e' sostituita dalla seguente: 
+ «c) operazione di pagamento: l'attivita', fatte salve le esclusioni di cui all'articolo 2, comma 2, del decreto legislativo 27 gennaio 2010, n. 11, posta in essere dal pagatore o dal beneficiario, di versare, trasferire o prelevare fondi, indipendentemente da eventuali obblighi sottostanti tra pagatore e beneficiario, di cui all'articolo 1, comma 1, lettera c), del citato decreto legislativo n. 11 del 2010, o una rimessa di denaro come definita dall'articolo 1, comma 1, lettera n), del suddetto decreto legislativo n. 11 del 2010;».
 
 ## Art. 12. — Modifica all'articolo 9, terzo comma, del decreto 
  del Presidente della Repubblica 26 ottobre 1972, n. 633

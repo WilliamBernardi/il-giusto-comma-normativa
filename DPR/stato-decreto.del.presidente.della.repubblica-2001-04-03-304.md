@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: DPR
 vigenza_date: 2013-08-21
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:47:46Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -34,6 +34,31 @@ Ai fini dell'applicazione del presente decreto, si intende per:
 
 Autodromo e Motodromo (di seguito denominato Autodromo): circuito permanente dotato di una o piu' piste con manto di rivestimento asfaltato, di infrastrutture ed installazioni, appositamente costruito per la preparazione e lo svolgimento di attivita' o manifestazioni motoristiche secondo le regolamentazioni stabilite dalla Federazione internazionale dell'automobile, dalla Commissione sportiva automobilistica italiana, dalla Federazione internazionale motociclistica e dalla Federazione motociclistica italiana;
 
+2.
+                    
+                        
+                            Autodromo esistente: quello per il quale, alla data di entrata in vigore del presente decreto si abbia una delle seguenti condizioni:
+ 
+                        
+                        
+                            a)
+                            
+                                sia in esercizio;
+
+                            
+                        
+                        
+                            b)
+                            
+                                siano stati ultimati o siano in corso i lavori di realizzazione;
+
+                            
+                        
+                        
+                            c)
+                            
+                                sia stata autorizzata la realizzazione o vi sia stata una pronuncia favorevole di compatibilita' ambientale.
+
 Sedime dell'autodromo, piste motoristiche di prova e per attivita' sportive: zona costituita da una o piu' porzioni di territorio, usualmente cintata, all'interno della quale si trovano la pista, le infrastrutture pertinenti l'attivita' svolta, i luoghi accessibili al pubblico ed eventuali aree di servizio.
 
 Pista motoristica di prova e per attivita' sportive: circuito permanente con manto di rivestimento asfaltato o non, in cui si svolgono le attivita' o manifestazioni motoristiche sportive o di altro genere.
@@ -47,6 +72,31 @@ Manifestazioni di Moto Gran Prix e assimilabili: sono manifestazioni per veicoli
 Ai sensi dell'articolo 2, comma 1, lettera c), della legge 26 ottobre 1995, n. 447, gli autodromi, le piste motoristiche di prova e per attivita' sportive sono classificate sorgenti fisse di rumore e, pertanto, soggette al rispetto dei limiti determinati dai comuni con la classificazione in zone del proprio territorio sulla base del decreto del Presidente del Consiglio dei Ministri 14 novembre 1997, pubblicato nella Gazzetta Ufficiale n. 280 del 1o dicembre 1997.
 
 Agli autodromi, alle piste motoristiche di prova e per attivita' sportive, non si applica il disposto dell'articolo 4 del decreto del Presidente del Consiglio dei Ministri 14 novembre 1997, recante valori limite differenziali di immissione.
+
+3.
+                    
+                        
+                            Al di fuori del sedime, gli autodromi, le piste motoristiche di prova e per attivita' sportive, fatto salvo il rispetto dei limiti derivanti dalle zonizzazioni effettuate dai comuni, ai sensi del decreto del Presidente del Consiglio dei Ministri 14 novembre 1997, ovvero, in assenza di detta zonizzazione, dei limiti previsti dall'articolo 6 del decreto del Presidente del Consiglio dei Ministri 1o marzo 1991, devono rispettare i seguenti limiti di immissione:
+ 
+                        
+                        
+                            a)
+                            
+                                per i nuovi autodromi:
+ 70 dB(A) Leq orario, in qualsiasi ora nel periodo diurno dalle ore 6 alle 22;
+ 60 dB(A) Leq orario, in qualsiasi ora nel periodo notturno dalle ore 22 alle 6;
+
+                            
+                        
+                        
+                            b)
+                            
+                                per autodromi esistenti:
+ 70 dB (A) Leq valutato per l'intero periodo dalle ore 9 alle 18,30;
+ 60 dB (A) Leq valutato per l'intero periodo dalle ore 18,30 alle 22 e dalle ore 6 alle 9;
+ 50 dB (A) Leq valutato per l'intero periodo dalle ore 22 alle 6;
+ entro cinque anni dalla data di entrata in vigore del presente decreto, altresi' 75 dB (A) Leq orario in qualsiasi ora del periodo diurno dalle 6 alle 22;
+ entro otto anni dalla data di entrata in vigore del presente decreto, altresi' 73 dB (A) Leq orario in qualsiasi ora del periodo diurno dalle 6 alle 22.
 
 Le attivita' o manifestazioni motoristiche sportive o di prova diverse da quelle di cui al comma 5, devono essere svolte nelle fasce orarie comprese tra le 9 e le 18,30, prevedendo di regola almeno un'ora di sospensione nel periodo compreso tra le ore 12 e le ore 15,30. I comuni interessati possono, per particolari esigenze, disporre deroghe alle predette fasce orarie.
 

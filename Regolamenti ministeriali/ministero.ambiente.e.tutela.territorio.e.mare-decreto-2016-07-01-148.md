@@ -7,8 +7,8 @@ urn: urn:nir:ministero.ambiente.e.tutela.territorio.e.mare:decreto:2016-07-01;14
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:39Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -43,6 +43,31 @@ Acquisito il parere del Consiglio di Stato espresso dalla Sezione consultiva per
 La valutazione dei pericoli di incidente rilevante per una particolare sostanza pericolosa e' effettuata, ai sensi dell'articolo 4, comma 2, del decreto legislativo 26 giugno 2015, n. 105, in base ai criteri e secondo le modalita' stabilite all'allegato 1 al presente regolamento, che ne costituisce parte integrante.
 
 ## Art. 2. — Definizioni
+
+1.
+                    
+                        
+                            Ai fini del presente regolamento valgono le definizioni di cui all'articolo 3 del decreto legislativo 26 giugno 2015, n. 105, nonche' le seguenti definizioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                «numero CAS»: identificativo numerico, attribuito a livello globale dal Chemical Abstracts Service; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                «modellizzazione»: processo cognitivo che porta alla costruzione di un modello, ovvero di una rappresentazione teorica, della struttura e del comportamento di un oggetto o di un evento osservati; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                «distanza di danno»: la distanza che intercorre dalla sorgente di un incidente al punto in cui il danno e' riscontrato.
 
 ## Art. 3. — Disposizioni finali
 

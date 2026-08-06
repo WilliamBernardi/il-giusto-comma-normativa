@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: DPR
 vigenza_date: 2003-07-03
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:47:46Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -101,6 +101,51 @@ La rubrica della sezione V del capo II del testo unico: «Firma digitale» e' so
 
 ## Art. 8. — Modifiche all'articolo 22 del decreto del Presidente
  della Repubblica 28 dicembre 2000, n. 445
+
+1.
+                    
+                        
+                            Al comma 1 dell'articolo 22 del testo unico sono apportate le seguenti modificazioni:
+ 
+                        
+                        
+                            a)
+                            
+                                le lettere b), c) e d), sono sostituite dalle seguenti:
+ «b) per chiavi asimmetriche, la coppia di chiavi crittografiche, una privata ed una pubblica, correlate tra loro, utilizzate nell'ambito dei sistemi di validazione di documenti informatici;
+ c) per chiave privata, l'elemento della coppia di chiavi asimmetriche, destinato ad essere conosciuto soltanto dal soggetto titolare, mediante il quale si appone la firma digitale sul documento informatico;
+ d) per chiave pubblica, l'elemento della coppia di chiavi asimmetriche destinato ad essere reso pubblico, con il quale si verifica la firma digitale apposta sul documento informatico dal titolare delle chiavi asimmetriche;»;
+
+                            
+                        
+                        
+                            b)
+                            
+                                la lettera f) e' abrogata;
+
+                            
+                        
+                        
+                            c)
+                            
+                                la lettera i) e' abrogata;
+
+                            
+                        
+                        
+                            d)
+                            
+                                le lettere l), m) ed n), sono sostituite dalle seguenti:
+ «l) per revoca del certificato elettronico, l'operazione con cui il certificatore annulla la validita' del certificato da un dato momento, non retroattivo, in poi;
+ m) per sospensione del certificato elettronico, l'operazione con cui il certificatore sospende la validita' del certificato per un determinato periodo di tempo;
+ n) per validita' del certificato elettronico, l'efficacia e l'opponibilita' al titolare dei dati in esso contenuti.»;
+
+                            
+                        
+                        
+                            e)
+                            
+                                la lettera o) e' abrogata.
 
 ## Art. 9. — Modifiche all'articolo 23 del decreto del Presidente
  della Repubblica 28 dicembre 2000, n. 445

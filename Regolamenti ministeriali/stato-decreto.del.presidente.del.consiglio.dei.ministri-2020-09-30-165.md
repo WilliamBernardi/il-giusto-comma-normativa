@@ -8,8 +8,8 @@ vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
 vigenza_date: 2025-05-17
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:40Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DEL CONSIGLIO DEI MINISTRI
@@ -42,6 +42,52 @@ I sottosegretari di Stato coadiuvano il Ministro e svolgono le funzioni e i comp
 ## Art. 2. — Uffici di diretta collaborazione
 
 Gli Uffici di diretta collaborazione svolgono compiti di supporto al Ministro e di raccordo tra questo e le strutture dell'amministrazione, ai sensi dell'articolo 14, comma 2, del decreto legislativo 30 marzo 2001, n. 165.
+
+2.
+                    
+                        
+                            Sono Uffici di diretta collaborazione del Ministro: 
+ 
+                        
+                        
+                            a)
+                            
+                                l'Ufficio di gabinetto; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                l'Ufficio legislativo; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                l'Ufficio stampa; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                la Segreteria del Ministro; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                la Segreteria tecnica del Ministro; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                le Segreterie dei sottosegretari di Stato.
 
 Per lo svolgimento degli incarichi istituzionali delegati dal Ministro, i sottosegretari di Stato si avvalgono degli Uffici di gabinetto e legislativo.
 
@@ -130,6 +176,39 @@ L'assegnazione del personale, delle risorse finanziarie e strumentali tra gli Uf
  Il D.L. 31 maggio 2021, n. 77, convertito con modificazioni dalla L. 29 luglio 2021, n. 108, ha disposto (con l'art. 64, comma 6-ter) che "Nel quadro delle esigenze connesse anche alle misure di cui al presente decreto, la dotazione complessiva del contingente previsto dall'articolo 9, comma 1, del regolamento di cui al decreto del Presidente del Consiglio dei ministri 30 settembre 2020, n. 165, e' incrementata, nei limiti della dotazione organica del Ministero dell'universita' e della ricerca, di quindici unita' di personale per ciascuno degli anni dal 2021 al 2027. Per i medesimi anni di cui al primo periodo, in aggiunta al contingente di cui al citato articolo 9, comma 1, del regolamento di cui al decreto del Presidente del Consiglio dei ministri n. 165 del 2020, presso l'Ufficio di Gabinetto del Ministro dell'universita' e della ricerca e' istituito un posto di funzione di livello dirigenziale generale, assegnato alle dirette dipendenze del Capo di Gabinetto".
 
 ## Art. 10. — Trattamento economico
+
+1.
+                    
+                        
+                            Ai responsabili degli Uffici di diretta collaborazione spetta un trattamento economico omnicomprensivo, determinato con la modalita' di cui all'articolo 14, comma 2, del decreto legislativo 30 marzo 2001, n. 165, nel rispetto di quanto stabilito dall'articolo 23-ter del decreto-legge 6 dicembre 2011, n. 201, convertito, con modificazioni, dalla legge 22 dicembre 2011, n. 214, nonche' dall'articolo 13 del decreto-legge 24 aprile 2014, n. 66, convertito, con modificazioni, dalla legge 23 giugno 2014, n. 89, e composto come segue: 
+ 
+                        
+                        
+                            a)
+                            
+                                per il capo di gabinetto, in una voce retributiva di importo non superiore a quello massimo del trattamento economico fondamentale dei dirigenti preposti agli Uffici di livello dirigenziale generale del Ministero incaricati ai sensi dell'articolo 19, comma 4, del decreto legislativo n. 165 del 2001, e in un emolumento accessorio da fissare in un importo equivalente alla misura massima del trattamento accessorio, ivi compresa l'indennita' di risultato, spettante al segretario generale del Ministero; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                per il capo dell'Ufficio legislativo e per il presidente dell'organismo indipendente di valutazione della performance di cui all'articolo 11, in una voce retributiva di importo non superiore a quello massimo del trattamento economico fondamentale dei dirigenti preposti a Uffici di livello dirigenziale generale del Ministero, incaricati ai sensi dell'articolo 19, comma 4, del decreto legislativo n. 165 del 2001, e in un emolumento accessorio da fissare in un importo non superiore alla misura massima del trattamento accessorio, ivi compresa l'indennita' di risultato, spettante ai dirigenti di Uffici dirigenziali generali dello stesso Ministero; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                
+                                    ((per il segretario particolare del Ministro, per il capo della segreteria del Ministro, per il consigliere diplomatico, per il capo della segreteria tecnica e per i capi delle segreterie dei sottosegretari di Stato, in una voce retributiva di importo non superiore alla misura massima del trattamento economico fondamentale dei dirigenti preposti a Uffici dirigenziali di livello non generale del Ministero e in un emolumento accessorio da fissare in un importo non superiore alla misura massima del trattamento accessorio spettante ai dirigenti titolari di Uffici dirigenziali non generali del Ministero. Fermo restando il trattamento economico fondamentale e accessorio di cui al primo periodo, con decreto del Ministro puo' essere attribuita al segretario particolare del Ministro e al capo della segreteria del Ministro, in relazione alle responsabilita' e agli obblighi di reperibilita' connessi, un'indennita' aggiuntiva di importo massimo pro capite di 45.000 euro annui, nel limite complessivo di spesa, per entrambe le posizioni, di 85.000 euro annui, al lordo degli oneri riflessi a carico dello Stato e dell'imposta regionale sulle attivita' produttive. In caso di cumulo in capo ad un unico soggetto degli incarichi di segretario particolare e di capo della segreteria e' corrisposta un'indennita' aggiuntiva non superiore a 80.000 euro annui, al lordo degli oneri riflessi a carico dello Stato e dell'imposta regionale sulle attivita' produttive;))
+                                
+                            
+                        
+                        
+                            d)
+                            
+                                per il capo dell'Ufficio stampa del Ministro e, se nominato, per il portavoce del Ministro, un trattamento economico conforme a quello previsto dal contratto collettivo nazionale per i giornalisti con la qualifica di redattore capo. Il trattamento economico del Capo dell'Ufficio stampa e' da intendersi unico e onnicomprensivo anche in caso di attribuzione delle funzioni di portavoce del Ministro ai sensi dell'articolo 7, comma 3.
 
 Ai dirigenti di seconda fascia assegnati agli Uffici di diretta collaborazione e' corrisposta una retribuzione di posizione variabile in misura equivalente ai valori economici massimi attribuiti ai dirigenti della stessa fascia del Ministero nonche' un'indennita' sostitutiva della retribuzione di risultato, determinata con decreto del Ministro, sentito il Ministero dell'economia e delle finanze, su proposta del capo di gabinetto, di importo pari a due terzi della retribuzione di posizione complessiva. Con decreto del Ministro puo' essere attribuita ai vice capo di gabinetto e vice capo Ufficio legislativo, in relazione alle responsabilita' connesse all'incarico, un'indennita' avente natura di retribuzione accessoria nel limite complessivo di spesa, per tutte le posizioni attivabili, di ((120.000 euro annui, nel limite massimo pro capite di 45.000 euro annui,)) al lordo degli oneri riflessi a carico dello Stato e dell'imposta regionale sulle attivita' produttive. Nel caso dei vice capo di gabinetto e vice capo dell'Ufficio legislativo, con incarico attribuito ai sensi dell'articolo 9, comma 2, o appartenenti ai ruoli di cui all'articolo 23 del decreto legislativo 30 marzo 2001, n. 165, la predetta indennita' si somma a quella sostitutiva della retribuzione di risultato. Al dirigente con funzione dirigenziale di livello generale previsto dall'articolo 9, comma 2-bis, e' corrisposta una retribuzione ai sensi dall'articolo 24 del decreto legislativo 30 marzo 2001, n. 165.
 

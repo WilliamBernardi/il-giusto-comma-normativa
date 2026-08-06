@@ -7,8 +7,8 @@ urn: urn:nir:ministero.giustizia:decreto:2013-09-19;160
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:38Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -42,11 +42,68 @@ Sentito il Garante per la protezione dei dati personali, ai sensi dell'articolo 
 
 ## Art. 1. — Oggetto e definizioni
 
+1.
+                    
+                        
+                            Ai fini del presente decreto si intendono: 
+ 
+                        
+                        
+                            a)
+                            
+                                per «decreto legislativo»: il decreto legislativo 4 febbraio 2010, n. 14, recante: «Istituzione dell'Albo degli amministratori ai sensi dell'articolo 2, comma 13, della legge 15 luglio 2009, n. 94»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                per «Albo»: l'Albo degli amministratori giudiziari di cui all'articolo 35 del decreto legislativo 6 settembre 2011, n. 159, recante: «Codice delle leggi antimafia e delle misure di prevenzione, nonche' nuove disposizioni in materia di documentazione antimafia, a norma degli articoli 1 e 2 della legge 13 agosto 2010, n. 136», istituito con il decreto legislativo; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                per «Agenzia»: l'Agenzia nazionale per l'amministrazione e la destinazione dei beni sequestrati e confiscati alla criminalita' organizzata, di cui all'art. 110 del decreto legislativo 6 settembre 2011, n. 159; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                per «responsabile»: il direttore generale della giustizia civile, Dipartimento per gli affari di giustizia del Ministero della giustizia, ovvero persona da lui delegata con qualifica dirigenziale nell'ambito della direzione generale; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                per «amministratori giudiziari»: i soggetti nominati dall'autorita' giudiziaria per la custodia e la gestione dei beni sequestrati e confiscati ai sensi degli articoli 35 del decreto legislativo 6 settembre 2011, n. 159, 104-bis del decreto legislativo 28 luglio 1989, n. 271, recante: «Norme di attuazione e coordinamento e transitorie del codice di procedura penale», nonche' di ogni altra disposizione di legge che espressamente li richiama.
+
 ## Art. 2. — Tenuta e aggiornamento dell'Albo
 
 L'Albo e' istituito presso il Ministero della giustizia, titolare del trattamento dei dati personali.
 
 Il Ministero della giustizia svolge i compiti di cui agli articoli 3, 5 e 6 del decreto legislativo nell'ambito delle proprie competenze istituzionali e con le risorse umane, finanziarie e strumentali disponibili a legislazione vigente.
+
+3.
+                    
+                        
+                            L'Albo e' articolato in due sezioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                sezione ordinaria; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                sezione esperti in gestione aziendale.
 
 L'iscrizione nella sezione esperti in gestione aziendale comporta anche l'iscrizione nella sezione ordinaria dell'Albo.
 
@@ -72,6 +129,73 @@ Il trattamento dei dati personali di cui al presente articolo e' effettuato solt
 
 Nell'Albo sono iscritti, a domanda, i soggetti che dimostrano di possedere i requisiti professionali di cui all'art. 3 del decreto legislativo nonche' di onorabilita' previsti nell'art. 4 del medesimo decreto legislativo. Il responsabile dell'Albo approva il modello della domanda e fissa le modalita' di svolgimento delle verifiche, con l'indicazione degli atti, dei documenti e dei dati di cui la domanda deve essere corredata.
 
+2.
+                    
+                        
+                            Il soggetto che intende richiedere l'iscrizione nell'Albo deve inoltrare al Dipartimento per gli affari di giustizia del Ministero, Direzione generale della giustizia civile, domanda di iscrizione nell'Albo ed i relativi allegati, compilata secondo il modello approvato, contenente: 
+ 
+                        
+                        
+                            a)
+                            
+                                specifica indicazione della sezione dell'Albo per la quale richiede l'iscrizione; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                specifica certificazione attestante l'Albo professionale presso il quale e' iscritto e la data di iscrizione; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                certificazione di non avere subito provvedimenti disciplinari dall'ordine professionale di appartenenza; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                certificazione dell'ordine di appartenenza di essere in regola con i crediti formativi professionali di cui agli obblighi previsti dal programma di formazione dell'ordine professionale di appartenenza; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                documentazione comprovante il possesso dei requisiti di professionalita'. Relativamente alla richiesta di iscrizione nella sezione speciale dell'Albo, il soggetto e' tenuto ad allegare alla domanda la documentazione comprovante l'espletamento dell'attivita' di gestione di aziende o di crisi aziendale, specificando l'atto o gli atti giudiziari dai quali e' derivato l'incarico di svolgere la suddetta attivita', nonche' la data di assunzione dell'incarico di amministratore per societa' od aziende, la forma delle medesime e le conseguenti attivita' svolte; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                dichiarazione di possesso dei requisiti di onorabilita'; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                attestazione di frequentazione con profitto di corsi di formazione post-universitari di secondo livello in materia di gestione di aziende o di crisi aziendale previsti dall'articolo 3, comma 3, del decreto legislativo, e in particolare dei corsi previsti dall'articolo 3, comma 8, del decreto del Ministero dell'universita' e della ricerca scientifica e tecnologica 3 novembre 1999, n. 509 («Regolamento recante norme concernenti l'autonomia didattica degli atenei») e successive modificazioni; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                indicazione della casella di posta elettronica certificata sulla quale saranno effettuate le comunicazioni; 
+
+                            
+                        
+                        
+                            i)
+                            
+                                attestazione del pagamento del contributo di cui all'articolo 6.
+
 La documentazione di cui al comma 2, lett. b), c), d), e), primo periodo, f) e g), puo' essere presentata ai sensi dell'art. 46 e 47 del decreto del Presidente della Repubblica 28 dicembre 2000, n. 445.
 
 La documentazione comprovante il possesso dei requisiti di cui al comma 2, lett. e), secondo periodo, deve essere presentata mediante allegazione di copia conforme dell'atto giudiziario da cui e' derivata l'assunzione dell'incarico di gestione o di amministrazione di aziende o di crisi aziendale, e in ogni caso di visura camerale relativa alla societa' in favore della quale e' stata prestata l'attivita' di amministratore e di copia conforme dell'atto costitutivo e dello statuto.
@@ -87,6 +211,24 @@ Il procedimento di iscrizione deve essere concluso entro 90 giorni dal ricevimen
 L'iscrizione nella Sezione esperti in gestione aziendale consente la nomina come amministratore giudiziario anche con riferimento a beni o complessi di beni non costituiti in azienda.
 
 Gli amministratori giudiziari sono tenuti a comunicare al responsabile dell'Albo tutte le nomine ricevute dall'autorita' giudiziaria ovvero dall'Agenzia, al fine di consentire il monitoraggio statistico e la rotazione degli incarichi.
+
+5.
+                    
+                        
+                            Gli amministratori giudiziari sono altresi' tenuti a comunicare: 
+ 
+                        
+                        
+                            a)
+                            
+                                l'eventuale esistenza o sopravvenienza di situazioni di incompatibilita' per lo svolgimento dell'incarico; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                la data di cessazione dell'incarico e i compensi percepiti.
 
 Le comunicazioni di cui ai commi precedenti sono effettuate con modalita' telematiche secondo le specifiche tecniche stabilite con decreto dirigenziale del responsabile per i sistemi informativi automatizzati del Ministero della giustizia, sentito il Garante per la protezione dei dati personali, da emanarsi entro sei mesi dall'entrata in vigore del presente regolamento.
 
@@ -111,6 +253,31 @@ Modalita' di pagamento del contributo
 
 Il contributo di cui all'articolo 6 e' versato entro il 31 gennaio di ciascun anno, ai sensi dell'articolo 9, comma 1, del decreto legislativo. La relativa attestazione di pagamento deve essere inviata al Ministero della giustizia entro il 30 aprile successivo. Per l'anno 2013 il contributo dovra' essere versato entro sessanta giorni dalla data di entrata in vigore del presente decreto.
 Il contributo e' versato sull'apposito capitolo 3531 dell'entrata del bilancio dello Stato per la successiva riassegnazione ai pertinenti capitoli dello stato di previsione della spesa del Ministero della giustizia.
+
+2.
+                    
+                        
+                            Il pagamento del contributo e' effettuato mediante: 
+ 
+                        
+                        
+                            a)
+                            
+                                versamento, anche con modalita' telematiche, in conto corrente postale intestato alla tesoreria dello Stato; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                versamento mediante bonifico bancario, ai sensi del decreto del Ministro dell'economia e delle finanze 9 ottobre 2006, n. 293; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                versamento con altri sistemi telematici di pagamento ovvero con carte di debito, di credito o prepagate o con altri mezzi di pagamento con moneta elettronica disponibili nel circuito bancario o postale, come previsto dall'articolo 4, comma 9, del decreto-legge 29 dicembre 2009, n. 193, convertito, con modificazioni, dalla legge 22 febbraio 2010, n. 24.
 
 Le regole tecniche per l'applicazione delle modalita' telematiche di pagamento di cui al comma 2, lettera a), e per il rilascio della relativa ricevuta di versamento, sono fissate con apposito decreto dirigenziale del Ministero della giustizia, di concerto con il Ministero dell'economia e delle finanze, sentiti l'Agenzia delle entrate e l'Agenzia per l'Italia Digitale.
 

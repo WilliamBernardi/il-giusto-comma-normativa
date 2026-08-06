@@ -8,8 +8,8 @@ codice_redazionale: 001G0337
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:38Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -24,6 +24,45 @@ IL MINISTRO DELLE POLITICHE AGRICOLE E FORESTALI
 Udito il parere del Consiglio di Stato espresso dalla sezione consultiva per gli atti normativi nell'adunanza del 12 giugno 2000;
 
 ## Art. 1. — Definizioni
+
+1.
+                    
+                        
+                            Ai fini del presente decreto si intende per:
+ 
+                        
+                        
+                            a)
+                            
+                                "ufficio": l'ufficio del registro delle imprese presso la camera di commercio, industria, artigianato e agricoltura;
+
+                            
+                        
+                        
+                            b)
+                            
+                                "modello": il modello anche informatico di conferma o variazione dei dati dell'impresa agricola da iscrivere nel REA;
+
+                            
+                        
+                        
+                            c)
+                            
+                                "REA": il repertorio delle notizie economiche e amministrative, di cui all'articolo 9 del decreto del Presidente della Repubblica 7 dicembre 1995, n. 581;
+
+                            
+                        
+                        
+                            d)
+                            
+                                "esercenti attivita' agricola": gli imprenditori agricoli che esercitano le attivita' agricole a norma dell'articolo 2135 del codice civile e delle leggi speciali, i coltivatori diretti di cui all'articolo 2083 del codice civile, le societa' esercenti attivita' agricola soggette all'obbligo d'iscrizione nel registro delle imprese, nonche' gli Enti, le associazioni e gli organismi operanti in agricoltura, ancorche' non in modo esclusivo o prevalente, soggetti all'obbligo di iscrizione nel REA;
+
+                            
+                        
+                        
+                            e)
+                            
+                                "SIAN": il Sistema informativo agricolo na-zionale.
 
 ## Art. 2. — Ambito di applicazione
 

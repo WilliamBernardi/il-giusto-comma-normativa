@@ -8,8 +8,8 @@ codice_redazionale: 098G0501
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti governativi
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:09Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -28,6 +28,45 @@ Udito il parere del Consiglio di Stato, espresso dalla sezione consultiva per gl
 Sulla proposta del Ministro del tesoro, del bilancio e della programmazione economica, di concerto con il Ministro per la funzione pubblica;
 
 ## Art. 1. — Definizioni
+
+1.
+                    
+                        
+                            Ai fini dell'applicazione della normativa contenuta nel presente regolamento sono adottate le seguenti definizioni:
+ 
+                        
+                        
+                            a)
+                            
+                                nucleo: nucleo tecnico di valutazione e verifica degli investimenti pubblici istituito presso il Ministero del tesoro, del bilancio e della programmazione economica ai sensi dell'articolo 3, comma 5, del decreto legislativo 5 dicembre 1997, n. 430;
+
+                            
+                        
+                        
+                            b)
+                            
+                                capo del Dipartimento: il capo del Dipartimento per le politiche di sviluppo e di coesione del Ministero del tesoro, del bilancio e della programmazione economica;
+
+                            
+                        
+                        
+                            c)
+                            
+                                unita' operative: l'unita' di valutazione degli investimenti pubblici e l'unita' di verifica degli investimenti pubblici di cui ai commi 3 e 4 dell'articolo 7 del decreto del Presidente della Repubblica 20 febbraio 1998, n. 38;
+
+                            
+                        
+                        
+                            d)
+                            
+                                Ministero: Ministero del tesoro, del bilancio e della programmazione economica;
+
+                            
+                        
+                        
+                            e)
+                            
+                                Ministro: il Ministro del tesoro, del bilancio e della programmazione economica.
 
 ## Art. 2. — Incarichi di componente del nucleo
 

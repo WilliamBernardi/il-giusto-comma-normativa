@@ -9,7 +9,7 @@ vigente: true
 source: normattiva-opendata
 collection: Atti di recepimento direttive UE
 zip_date: 2026-07-30
-fetched_at: 2026-08-02T09:40:48Z
+fetched_at: 2026-07-30
 ---
 
 DECRETO
@@ -37,7 +37,58 @@ Udito il parere del Consiglio di Stato n. 130/97 espresso dalla sezione consulti
 
 ## Art. 1. — Finalita' e campo di applicazione
 
+1.
+                    
+                        
+                            Il presente decreto disciplina, anche in attuazione delle direttive 89/369/CEE e 89/429/CEE, le emissioni e le condizioni di combustione degli impianti di incenerimento di rifiuti urbani, di rifiuti speciali non pericolosi, nonche' di rifiuti sanitari contagiosi, purche' non resi pericolosi dalla presenza di altri costituenti elencati nell'allegato II della direttiva 91/689/CEE. 
+ A tal fine stabilisce: 
+ 
+                        
+                        
+                            a)
+                            
+                                i valori limite di emissione; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                metodi di campionamento, analisi e valutazione degli inquinanti; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                i criteri temporali di adeguamento; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                i criteri e le norme tecniche generali riguardanti le caratteristiche costruttive e funzionali.
+
 ## Art. 2. — Definizioni
+
+1.
+                    
+                        
+                            Agli effetti del presente decreto si intende per:
+ 
+                        
+                        
+                            a)
+                            
+                                "impianto di incenerimento": qualunque apparato tecnico utilizzato per l'incenerimento dei rifiuti di cui all'articolo 1 mediante ossidazione compreso il pretrattamento tramite pirolisi o altri processi di trattamento termico, per esempio il processo al plasma, a condizione che i prodotti che si generano siano successivamente inceneriti, con o senza recupero del calore di combustione prodotto. La presente definizione include tutte le installazioni ed il luogo dove queste sono ubicate compresi: la ricezione dei rifiuti in ingresso allo stabilimento, lo stoccaggio, le apparecchiature di pretrattamento, l'inceneritore, i sistemi di alimentazione dei rifiuti, del combustibile ausiliario e dell'aria di combustione, il generatore di calore, le apparecchiature di trattamento, movimentazione e stoccaggio dei rifiuti risultanti dal processo di incenerimento, le apparecchiature di trattamento dei gas e delle acque di scarico, i camini, i dispositivi e sistemi di controllo delle varie operazioni, e di registrazione e monitoraggio delle condizioni di incenerimento;
+
+                            
+                        
+                        
+                            b)
+                            
+                                "capacita' nominale dell'impianto di incenerimento": la somma delle capacita' di incenerimento dei forni che compongono l'impianto, quali previste dal costruttore e confermate dal gestore, espressa in quantita' di rifiuti che puo' essere incenerita in un'ora, riferita al potere calorifico medio dei rifiuti stessi.
 
 ## Art. 3. — Criteri temporali di applicazione
 

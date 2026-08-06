@@ -7,8 +7,8 @@ urn: urn:nir:ministero.interno:decreto:2015-11-30;223
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:40Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -48,6 +48,24 @@ All'articolo 5 del decreto del Ministro dell'interno 24 ottobre 2007, n. 220, do
 
 ## Art. 4. — Modificazioni all'allegato 1 
  del D.M. 24 ottobre 2007, n. 220
+
+1.
+                    
+                        
+                            All'articolo 1, comma 1, dell'allegato 1 del decreto del Ministro dell'interno 24 ottobre 2007, n. 220, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                alla lettera a), dopo le parole «articolo 416-bis» sono inserite le parole «(associazione di tipo mafioso), 416-ter (scambio elettorale politico-mafioso),»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                alla lettera b), dopo le parole «320 (corruzione di persona incaricata di un pubblico servizio)», sono inserite le parole «346-bis (traffico di influenze illecite),».
 
 ## Art. 5. — Clausola finanziaria
 

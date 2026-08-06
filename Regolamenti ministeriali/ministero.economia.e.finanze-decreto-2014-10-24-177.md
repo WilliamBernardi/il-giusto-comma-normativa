@@ -7,8 +7,8 @@ urn: urn:nir:ministero.economia.e.finanze:decreto:2014-10-24;177
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:41Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO

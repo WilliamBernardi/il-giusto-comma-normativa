@@ -8,8 +8,8 @@ vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
 vigenza_date: 2023-03-21
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:31Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -45,17 +45,243 @@ Il presente decreto non si applica al personale navigante delle imprese della ma
 
 ## Art. 2. — Definizioni
 
+1.
+                        
+                            
+                                Ai fini del presente decreto si intende per: 
+ 
+                            
+                            
+                                a)
+                                
+                                    «autorita' richiedente» l'autorita' competente che presenta una richiesta di assistenza, informazione, notifica o recupero di una sanzione secondo quanto previsto dal presente decreto; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    «autorita' adita» l'autorita' alla quale e' diretta una richiesta di assistenza, informazione, notifica o recupero di una sanzione secondo quanto previsto dal presente decreto; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    «autorita' competente» il Ministero del lavoro e delle politiche sociali e l'Ispettorato nazionale del lavoro nonche', ai soli fini delle disposizioni relative alla procedura di recupero delle sanzioni amministrative di cui all'articolo 21, l'autorita' giudiziaria; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    «lavoratore distaccato» il lavoratore abitualmente occupato in un altro Stato membro che, per un periodo limitato, predeterminato o predeterminabile con riferimento ad un evento futuro e certo, svolge il proprio lavoro in Italia ((. Il lavoratore e' altresi' considerato distaccato nelle ipotesi di cui all'articolo 1, comma 2-bis e anche quando dipende da un'agenzia di somministrazione con sede in Italia)); 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    «condizioni di lavoro e di occupazione» le condizioni disciplinate da disposizioni normative e dai contratti collettivi di cui all'articolo 51 del decreto legislativo n. 81 del 2015, con esclusione dei contratti aziendali, relative alle materie di cui all'articolo 4.
+
 ## Art. 3.
 
 Autenticita' del distacco
 
 Ai fini dell'accertamento dell'autenticita' del distacco gli organi di vigilanza effettuano una valutazione complessiva di tutti gli elementi della fattispecie.
 
+2.
+                        
+                            
+                                Al fine di accertare se l'impresa distaccante eserciti effettivamente attivita' diverse rispetto a quelle di mera gestione o amministrazione del personale dipendente sono valutati i seguenti elementi: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il luogo in cui l'impresa ha la propria sede legale e amministrativa, i propri uffici, reparti o unita' produttive; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il luogo in cui l'impresa e' registrata alla Camera di commercio, industria, artigianato e agricoltura o, ove sia richiesto in ragione dell'attivita' svolta, ad un albo professionale; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il luogo in cui i lavoratori sono assunti e quello da cui sono distaccati; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    la disciplina applicabile ai contratti conclusi dall'impresa distaccante con i suoi clienti e con i suoi lavoratori; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    il luogo in cui l'impresa esercita la propria attivita' economica principale e in cui risulta occupato il suo personale amministrativo; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    il numero dei contratti eseguiti o l'ammontare del fatturato realizzato dall'impresa nello Stato membro di stabilimento, tenendo conto della specificita' delle piccole e medie imprese e di quelle di nuova costituzione; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    ogni altro elemento utile alla valutazione complessiva.
+
+3.
+                        
+                            
+                                Al fine di accertare se il lavoratore e' distaccato ai sensi del presente decreto sono valutati tutti gli elementi elencati al comma 2 e, altresi', i seguenti elementi: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il contenuto, la natura e le modalita' di svolgimento dell'attivita' lavorativa e la retribuzione del lavoratore; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la circostanza che il lavoratore eserciti abitualmente, ai sensi del regolamento (CE) n. 593/2008 (Roma I), la propria attivita' nello Stato membro da cui e' stato distaccato; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    la temporaneita' dell'attivita' lavorativa svolta in Italia; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    la data di inizio del distacco; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    la circostanza che il lavoratore sia tornato o si preveda che torni a prestare la sua attivita' nello Stato membro da cui e' stato distaccato; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    la circostanza che il datore di lavoro che distacca il lavoratore provveda alle spese di viaggio, vitto o alloggio e le modalita' di pagamento o rimborso; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    eventuali periodi precedenti in cui la medesima attivita' e' stata svolta dallo stesso o da un altro lavoratore distaccato; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    l'esistenza del certificato relativo alla legislazione di sicurezza sociale applicabile; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    ogni altro elemento utile alla valutazione complessiva.
+
 Nelle ipotesi in cui il distacco in favore di un'impresa stabilita in Italia non risulti autentico, il lavoratore e' considerato a tutti gli effetti alle dipendenze del soggetto che ne ha utilizzato la prestazione.
 
 Nelle ipotesi in cui il distacco non risulti autentico, il distaccante e il soggetto che ha utilizzato la prestazione dei lavoratori distaccati sono puniti con la sanzione amministrativa pecuniaria di 50 euro per ogni lavoratore occupato e per ogni giornata di occupazione. In ogni caso l'ammontare della sanzione non puo' essere inferiore a 5.000 euro ne' superiore a 50.000 euro. Nei casi in cui il distacco non autentico riguardi i minori, il distaccante e il soggetto che ha utilizzato la prestazione dei lavoratori distaccati sono puniti con la pena dell'arresto fino a diciotto mesi e con l'ammenda di 50 euro per ogni lavoratore occupato e per ogni giornata di occupazione aumentata fino al sestuplo.
 
 ## Art. 4. — Condizioni di lavoro e di occupazione
+
+1.
+                        
+                            
+                                Al rapporto di lavoro tra le imprese di cui all'articolo 1, commi 1 e 4, e i lavoratori distaccati si applicano, durante il periodo del distacco, se piu' favorevoli, le medesime condizioni di lavoro e di occupazione previste in Italia da disposizioni normative e contratti collettivi di cui all'articolo 2, lettera e), per i lavoratori che effettuano prestazioni lavorative subordinate analoghe nel luogo in cui si svolge il distacco, nelle seguenti materie: 
+ 
+                            
+                            
+                                a)
+                                
+                                    periodi massimi di lavoro e periodi minimi di riposo; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    durata minima dei congedi annuali retribuiti; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    retribuzione, comprese le maggiorazioni per lavoro straordinario. Tale previsione non si applica ai regimi pensionistici di categoria; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    condizioni di somministrazione di lavoratori, con particolare riferimento alla fornitura di lavoratori da parte di agenzie di somministrazione; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    salute e sicurezza nei luoghi di lavoro; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    provvedimenti di tutela riguardo alle condizioni di lavoro e di occupazione di gestanti o puerpere, bambini e giovani; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    parita' di trattamento fra uomo e donna, nonche' altre disposizioni in materia di non discriminazione; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    condizioni di alloggio adeguate per i lavoratori, nei casi in cui l'alloggio sia fornito dal datore di lavoro ai lavoratori distaccati lontani dalla loro abituale sede di lavoro; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    indennita' o rimborsi a copertura delle spese di viaggio, vitto e alloggio per i lavoratori fuori sede per esigenze di servizio. Rientrano in tali ipotesi le spese di viaggio, vitto e alloggio sostenute dai lavoratori distaccati nel territorio italiano, sia nei casi in cui gli stessi debbano recarsi al loro abituale luogo di lavoro, sia nei casi in cui vengano inviati temporaneamente presso un'altra sede di lavoro diversa da quella abituale, in Italia o all'estero.
 
 Sono considerate parte della retribuzione le indennita' riconosciute al lavoratore per il distacco che non sono versate a titolo di rimborso delle spese di viaggio, vitto e alloggio effettivamente sostenute a causa del distacco. Dette indennita' sono rimborsate dal datore di lavoro al lavoratore distaccato secondo quanto previsto dalla disciplina che regola il rapporto di lavoro nel Paese di stabilimento dell'impresa distaccante. Se tale disciplina non stabilisce se taluni elementi delle indennita' riconosciute al lavoratore per il distacco sono versati a titolo di rimborso delle spese effettivamente sostenute a causa del distacco stesso o se fanno parte della retribuzione l'intera indennita' e' considerata versata a titolo di rimborso delle spese sostenute.
 
@@ -70,6 +296,31 @@ Nell'ipotesi di distacco di cui all'articolo 1, comma 1, trova applicazione il r
 ## Art. 4-bis. — (( (Distacco di lunga durata).))
 
 ((
+
+1.
+                        
+                            
+                                Se la durata effettiva di un distacco supera dodici mesi ai lavoratori distaccati si applicano, se piu' favorevoli, oltre alle condizioni di lavoro e di occupazione di cui all'articolo 4, comma 1, tutte le condizioni di lavoro e di occupazione previste in Italia da disposizioni normative e dai contratti collettivi nazionali e territoriali stipulati da organizzazioni dei lavoratori e dei datori di lavoro comparativamente piu' rappresentative sul piano nazionale, ad eccezione di quelle concernenti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    le procedure e le condizioni per la conclusione e la cessazione del contratto di lavoro; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le clausole di non concorrenza; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    la previdenza integrativa di categoria.
 
 In caso di notifica motivata al Ministero del lavoro e delle politiche sociali da parte del prestatore di servizi il periodo di cui al comma 1 e' esteso fino ad un massimo di 18 mesi. Le modalita' secondo cui effettuare la notifica sono stabilite con il medesimo decreto di cui all'articolo 10, comma 2.
 
@@ -92,6 +343,38 @@ L'osservatorio e' composto da tre rappresentanti designati dalle organizzazioni 
 
 ## Art. 7. — Accesso alle informazioni
 
+1.
+                        
+                            
+                                Tutte le informazioni relative alle condizioni di lavoro e di occupazione che devono essere rispettate nelle ipotesi di distacco sono pubblicate sul sito istituzionale del Ministero del lavoro e delle politiche sociali che provvede ai relativi aggiornamenti. Esse in particolare sono relative a: 
+ 
+                            
+                            
+                                a)
+                                
+                                    condizioni di lavoro e di occupazione applicabili ai lavoratori distaccati in Italia; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    contratti collettivi applicabili ai lavoratori distaccati in Italia, con particolare riferimento ((alla retribuzione e ai suoi)) elementi costitutivi, al metodo utilizzato per calcolare la retribuzione dovuta e ai criteri per la classificazione del personale; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    procedure per sporgere denuncia, nonche' la disciplina in materia di salute e sicurezza nei luoghi di lavoro applicabile ai lavoratori distaccati; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    soggetti a cui i lavoratori e le imprese possono rivolgersi per ottenere informazioni con riferimento ai diritti e agli obblighi derivanti dalle disposizioni nazionali.
+
 Tutte le informazioni di cui al comma 1 sono pubblicate in lingua italiana e inglese, in modo trasparente, chiaro e dettagliato, conformemente agli standard di accessibilita' riferiti anche alle persone con disabilita' e sono accessibili gratuitamente.
 
 ((
@@ -107,6 +390,24 @@ Al fine di realizzare un'efficace cooperazione amministrativa, l'Ispettorato naz
 Le richieste comprendono anche le informazioni relative al possibile recupero di una sanzione amministrativa, o alla notifica di un provvedimento amministrativo o giudiziario che la irroga e possono includere l'invio di documenti e informazioni circa la legalita' dello stabilimento e la buona condotta del prestatore di servizi.
 
 Al fine di consentire all'autorita' competente di fornire una risposta alle richieste di cui ai commi 1 e 2, i destinatari della prestazione di servizi stabiliti in Italia ((, ivi incluse le imprese di cui all'articolo 1, comma 2-bis, stabilite in Italia,)) comunicano all'Ispettorato nazionale del lavoro le informazioni necessarie.
+
+4.
+                        
+                            
+                                Lo scambio delle informazioni avviene tramite il sistema di informazione del mercato interno, di seguito IMI, o per via telematica nel rispetto dei seguenti termini: 
+ 
+                            
+                            
+                                a)
+                                
+                                    entro e non oltre due giorni lavorativi dalla ricezione della richiesta nei casi urgenti, che richiedano la consultazione di registri. Le ragioni di urgenza sono espressamente indicate nella richiesta unitamente agli elementi idonei a comprovarla; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    entro il termine di venticinque giorni lavorativi dalla ricezione della richiesta in tutti gli altri casi.
 
 L'Ispettorato nazionale del lavoro puo' applicare gli accordi e le intese bilaterali relativi alla cooperazione amministrativa al fine di accertare e monitorare le condizioni applicabili ai lavoratori distaccati, fermo restando l'utilizzo, per quanto possibile, di IMI, per lo scambio delle informazioni.
 
@@ -132,13 +433,105 @@ Nell'ambito delle iniziative adottate dalla Commissione europea, lo Stato italia
 
 ## Art. 10. — Obblighi amministrativi
 
+1.
+                        
+                            
+                                L'impresa che distacca lavoratori in Italia ha l'obbligo di comunicare il distacco al Ministero del lavoro e delle politiche sociali ((al piu' tardi all'inizio)) del distacco e di comunicare tutte le successive modificazioni entro cinque giorni. La comunicazione preventiva di distacco deve contenere le seguenti informazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    dati identificativi dell'impresa distaccante; 
 
+                                
+                            
+                            
+                                b)
+                                
+                                    numero e generalita' dei lavoratori distaccati; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    data di inizio, di fine e durata del distacco; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    luogo di svolgimento della prestazione di servizi; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    dati identificativi del soggetto distaccatario; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    tipologia dei servizi; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    generalita' e domicilio eletto del referente di cui al comma 3, lettera b); 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    generalita' del referente di cui al comma 4; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    numero del provvedimento di autorizzazione all'esercizio dell'attivita' di somministrazione, in caso di somministrazione transnazionale ove l'autorizzazione sia richiesta dalla normativa dello Stato di stabilimento; 
+
+                                
+                            
+                            
+                                i-bis)
+                                
+                                    nelle ipotesi di cui all'articolo 1, comma 2-bis, primo periodo, i dati identificativi dell'impresa utilizzatrice che invia lavoratori in Italia.
+
+((COMMA ABROGATO DAL D.LGS. 23 FEBBRAIO 2023, N. 27)).
 
 ((COMMA ABROGATO DAL D.LGS. 23 FEBBRAIO 2023, N. 27)).
 
 ((COMMA ABROGATO DAL D.LGS. 23 FEBBRAIO 2023, N. 27)).
 
 Con decreto del Ministero del lavoro e delle politiche sociali da emanare entro trenta giorni dalla data di entrata in vigore del presente decreto sono definite le modalita' delle comunicazioni.
+
+3.
+                        
+                            
+                                Durante il periodo del distacco e fino a due anni dalla sua cessazione, l'impresa distaccante ha l'obbligo di: 
+ 
+                            
+                            
+                                a)
+                                
+                                    conservare, predisponendone copia in lingua italiana, il contratto di lavoro o altro documento contenente le informazioni di cui agli articoli 1 e 2 del decreto legislativo 26 maggio 1997, n. 152, i prospetti paga, i prospetti che indicano l'inizio, la fine e la durata dell'orario di lavoro giornaliero, la documentazione comprovante il pagamento delle retribuzioni o i documenti equivalenti, la comunicazione pubblica di instaurazione del rapporto di lavoro o documentazione equivalente e il certificato relativo alla legislazione di sicurezza sociale applicabile; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    designare un referente elettivamente domiciliato in Italia incaricato di inviare e ricevere atti e documenti. In difetto, la sede dell'impresa distaccante si considera il luogo dove ha sede legale o risiede il destinatario della prestazione di servizi.
 
 L'impresa che distacca lavoratori ai sensi del presente decreto ha l'obbligo di designare, per tutto il periodo del distacco, un referente con poteri di rappresentanza per tenere i rapporti con le parti sociali interessate a promuovere la negoziazione collettiva di secondo livello con obbligo di rendersi disponibile in caso di richiesta motivata delle parti sociali.
 
@@ -201,6 +594,76 @@ Alle prestazioni transnazionali di servizi di somministrazione di conducenti non
 
 ((
 
+1.
+                        
+                            
+                                Fermo restando quanto previsto dall'articolo 2, ai fini del presente Capo si intende per: 
+ 
+                            
+                            
+                                a)
+                                
+                                    «conducente»: il lavoratore di cui all'articolo 4, paragrafo 1, lettera c), del regolamento (CE) n. 561/2006; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    «trasportatore»: l'impresa di cui all'articolo 2, punto 4), del regolamento (CE) n. 1071/2009; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    «gestore dei trasporti»: la persona fisica di cui all'articolo 2, punto 5), del regolamento (CE) n. 1071/2009; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    «servizio di trasporto in transito»: servizio di trasporto svolto attraversando il territorio di uno Stato membro senza effettuare operazioni di carico o scarico merci e senza far salire o scendere passeggeri; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    «operazione di trasporto bilaterale merci»: movimento di merci effettuato in base a un contratto di trasporto, dallo Stato membro di stabilimento di cui all'articolo 2, punto 8), del regolamento (CE) n. 1071/ 2009, verso un altro Stato membro o un Paese terzo o da un altro Stato membro o da un Paese terzo verso lo Stato membro di stabilimento; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    «operazione di trasporto bilaterale passeggeri»: effettuazione nell'ambito di servizi di trasporto internazionali occasionali o regolari di una delle seguenti operazioni: 
+ 1) salita passeggeri nello Stato membro di stabilimento e discesa passeggeri in un altro Stato membro o in un Paese terzo; 
+ 2) salita passeggeri in uno Stato membro o in un Paese terzo e discesa passeggeri nello Stato di stabilimento; 
+ 3) salita e discesa passeggeri nello Stato membro di stabilimento allo scopo di effettuare escursioni locali in un altro Stato membro o in un Paese terzo, ai sensi del regolamento (CE) n. 1073/2009; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    «attivita' aggiuntiva al trasporto bilaterale merci»: attivita' ulteriore di carico e scarico, o di solo carico o di solo scarico, effettuata in aggiunta a una operazione di trasporto bilaterale di merci negli Stati membri o nei Paesi terzi attraversati, con esclusione di operazioni di carico e scarico di merci effettuate in uno stesso Stato membro; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    «attivita' aggiuntiva al trasporto bilaterale passeggeri»: attivita' ulteriore in aggiunta a una operazione di trasporto bilaterale consistente nel far salire e scendere passeggeri ovvero di sola salita o di sola discesa effettuata, nell'ambito di un trasporto bilaterale di passeggeri, nel corso del viaggio di andata o di ritorno negli Stati membri o Paesi terzi attraversati, a condizione che non siano offerti servizi di trasporto passeggeri tra due luoghi all'interno dello Stato membro attraversato; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    «trasporto combinato»: operazioni di trasporto definite dalla direttiva 92/106/CEE del Consiglio.
+
 ))
 
 ## Art. 12-quater. — ((Regime delle esenzioni))
@@ -235,11 +698,114 @@ Le prestazioni di servizi di trasporto rientrano nelle attivita' monitorate dall
 
 Il trasportatore che distacca lavoratori in Italia nell'ambito di una prestazione di servizi di cui all'articolo 12-bis, comma 1, ha l'obbligo di trasmettere una dichiarazione di distacco al piu' tardi all'inizio del distacco attraverso il sistema di interfaccia pubblico connesso all'IMI di cui al regolamento (UE) n. 1024/2012.
 
+2.
+                        
+                            
+                                La dichiarazione di distacco deve contenere le seguenti informazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    l'identita' del trasportatore ovvero il numero della licenza comunitaria, ove disponibili; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    i recapiti di un gestore dei trasporti o di un'altra persona di contatto nello Stato membro di stabilimento con l'incarico di assicurare i contatti con le autorita' competenti in Italia e di inviare e ricevere documenti o comunicazioni; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    l'identita', l'indirizzo del luogo di residenza e il numero della patente di guida del conducente; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    la data di inizio del contratto di lavoro del conducente e la legge ad esso applicabile; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    la data di inizio e di fine del distacco; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    il numero di targa dei veicoli a motore; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    l'indicazione se i servizi di trasporto effettuati sono trasporto di merci, trasporto di passeggeri, trasporto internazionale o trasporto di cabotaggio.
+
 Il trasportatore e' tenuto ad aggiornare le informazioni di cui al comma 2, entro cinque giorni dall'evento che ne determina l'aggiornamento.
+
+4.
+                        
+                            
+                                Il trasportatore deve assicurare che il conducente abbia a disposizione in formato cartaceo o elettronico la seguente documentazione: 
+ 
+                            
+                            
+                                a)
+                                
+                                    copia della dichiarazione di distacco trasmessa tramite il sistema di interfaccia pubblico IMI; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    ogni documento utile inerente alle operazioni di trasporto che si svolgono in Italia o le prove di cui all'articolo 8, paragrafo 3, del regolamento (CE) n. 1072/2009; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    le registrazioni del tachigrafo, ivi compresi i simboli degli Stati membri in cui il conducente sia stato presente al momento di effettuare operazioni di trasporto internazionale su strada o di cabotaggio, nel rispetto degli obblighi di registrazione e tenuta dei registri previsti dai regolamenti (CE) n. 561/2006 e (UE) n. 165/2014.
 
 In occasione del controllo su strada, l'adempimento degli obblighi di cui ai commi 1, 2, 3 e 4 e' verificato dagli organi di polizia stradale di cui all'articolo 12 del decreto legislativo 30 aprile 1992, n. 285.
 
 Il conducente ha l'obbligo di conservare e mettere a disposizione degli organi di polizia stradale, di cui all'articolo 12 del decreto legislativo 30 aprile 1992, n. 285, in occasione del controllo su strada, la documentazione di cui al comma 4, lettere a), b) e c). Nei casi previsti dall'articolo 12-quater, commi 1, 2 e 3, il conducente deve conservare e mettere a disposizione degli organi di polizia stradale, su carta o in formato elettronico, qualsiasi prova del trasporto internazionale pertinente che sia idonea a dimostrare l'operazione di trasporto bilaterale o le operazioni aggiuntive che danno luogo all'esenzione.
+
+7.
+                        
+                            
+                                Il trasportatore, previa richiesta formulata dall'Ispettorato nazionale del lavoro o dagli organi di polizia stradale di cui all'articolo 12 del decreto legislativo 30 aprile 1992, n. 285, ha l'obbligo di trasmettere dopo il periodo del distacco ed entro otto settimane dalla richiesta, tramite il sistema di interfaccia pubblico connesso all'IMI, le copie dei documenti di cui al comma 4, lettere b) e c), nonche': 
+ 
+                            
+                            
+                                a)
+                                
+                                    la documentazione riguardante la retribuzione percepita dal conducente durante il periodo del distacco; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il contratto di lavoro o un documento equivalente ai sensi dell'articolo 1 del decreto legislativo 26 maggio 1997, n. 152; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    i prospetti orari relativi alle attivita' del conducente e le prove del pagamento della retribuzione.
 
 Qualora il trasportatore non rispetti il termine di cui al comma 7, l'Ispettorato nazionale del lavoro o gli organi di polizia stradale possono chiedere tramite il sistema IMI l'assistenza delle autorita' competenti dello Stato di stabilimento del trasportatore ai sensi dell'articolo 8.
 
@@ -313,6 +879,74 @@ La richiesta e' trasmessa all'autorita' competente dello Stato membro nel quale 
 
 ## Art. 15. — Condizioni per la trasmissione
 
+1.
+                        
+                            
+                                La richiesta di notifica di un provvedimento che irroga una sanzione amministrativa pecuniaria e di ogni altro documento pertinente e la richiesta di recupero sono effettuate in presenza dei seguenti presupposti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    quando non sia possibile procedere alla notifica o al recupero applicando le disposizioni e le procedure previste dall'ordinamento interno; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    quando il provvedimento amministrativo o giudiziario non e' soggetto a impugnazione.
+
+2.
+                        
+                            
+                                La richiesta di cui al comma 1 e' trasmessa ai sensi dell'articolo 16 e deve contenere i seguenti elementi: 
+ 
+                            
+                            
+                                a)
+                                
+                                    le generalita', la residenza o il domicilio del destinatario ove diverso dalla residenza e ogni altra informazione utile alla sua identificazione; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    una sintetica esposizione dei fatti e delle circostanze della violazione e la disciplina applicabile; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    l'indicazione delle disposizioni che consentono l'esecuzione secondo l'ordinamento interno e ogni altra informazione o documento, anche di natura giudiziaria, concernente la sanzione amministrativa pecuniaria e le eventuali impugnazioni; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    i dati identificativi dell'autorita' amministrativa o giudiziaria competente al gravame sulla sanzione amministrativa pecuniaria e, se diversa, dell'autorita' competente a fornire ulteriori informazioni sulla sanzione o sulle possibilita' di impugnazione.
+
+3.
+                        
+                            
+                                La richiesta di cui al comma 1 indica altresi': 
+ 
+                            
+                            
+                                a)
+                                
+                                    nel caso di richiesta di notifica di un provvedimento o di altro documento pertinente, lo scopo della notifica e il termine entro il quale deve essere eseguita; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    nel caso di richiesta di recupero, la data in cui la sentenza o il provvedimento e' divenuto esecutivo o definitivo anche a seguito di una decisione non piu' soggetta a impugnazione, una descrizione della natura e dell'ammontare della sanzione amministrativa pecuniaria, con l'indicazione dello stato della procedura sanzionatoria nonche' delle modalita' della notifica al trasgressore e all'obbligato in solido.
+
 ## Art. 16. — Trasmissione ad altri Stati
 
 L'Ispettorato nazionale del lavoro provvede alla trasmissione del provvedimento amministrativo o giudiziario, unitamente alla documentazione di riferimento, nelle forme previste dall'articolo 7, paragrafo 2, del regolamento (UE) n. 1024/2012 del 25 ottobre 2012, tramite IMI all'autorita' competente dell'altro Stato membro.
@@ -324,6 +958,24 @@ Se il provvedimento da eseguire e' impugnato dall'impresa destinataria, l'Ispett
 ## Art. 17. — Effetti del riconoscimento
 
 L'Ispettorato nazionale del lavoro non e' tenuto all'adozione dei provvedimenti necessari all'esecuzione quando l'autorita' adita comunica di avere dato seguito alla richiesta di recupero delle sanzioni amministrative pecuniarie.
+
+2.
+                        
+                            
+                                L'Ispettorato nazionale del lavoro procede all'esecuzione quando: 
+ 
+                            
+                            
+                                a)
+                                
+                                    l'autorita' adita comunica la mancata esecuzione, totale o parziale; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'autorita' adita rifiuta il riconoscimento per uno dei motivi di cui all'articolo 20.
 
 Se il trasgressore prova di avere provveduto al pagamento, totale o parziale, l'Ispettorato nazionale del lavoro ne da' comunicazione all'autorita' adita, anche ai fini della deduzione dall'importo complessivo oggetto di esecuzione.
 
@@ -348,6 +1000,31 @@ Il recupero della sanzione amministrativa pecuniaria, effettuato secondo le disp
 ## Art. 20. — Motivi di rigetto
 
 La Corte d'appello non e' tenuta a dare esecuzione a una richiesta di notifica o di recupero se la richiesta non contiene le informazioni di cui all'articolo 15, commi 1 e 2, e' incompleta o non corrisponde manifestamente alla relativa decisione.
+
+2.
+                        
+                            
+                                La Corte d'appello puo' rifiutare di dare esecuzione a una richiesta di recupero nei seguenti casi: 
+ 
+                            
+                            
+                                a)
+                                
+                                    le spese e le risorse necessarie per il recupero della sanzione amministrativa pecuniaria, a seguito di accertamento effettuato dall'autorita' adita, risultano sproporzionate rispetto all'importo da recuperare; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la sanzione pecuniaria e' inferiore a 350 euro o all'equivalente di tale importo; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    in presenza del mancato rispetto dei diritti e delle liberta' fondamentali dei trasgressori e dei principi giuridici fondamentali loro applicabili, previsti dalla Costituzione.
 
 ## Art. 21. — Procedimento e decisione di riconoscimento
 

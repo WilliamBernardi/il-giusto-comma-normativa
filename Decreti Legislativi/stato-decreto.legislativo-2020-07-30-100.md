@@ -8,8 +8,8 @@ vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
 vigenza_date: 2026-01-06
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:32Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -30,6 +30,97 @@ Sulla proposta del Ministro per gli affari europei e del Ministro dell'economia 
 Il presente decreto stabilisce le norme e le procedure relative allo scambio automatico obbligatorio di informazioni sui meccanismi transfrontalieri soggetti all'obbligo di comunicazione all'Agenzia delle entrate da parte dei soggetti di cui all'articolo 3, con le altre autorita' competenti degli Stati membri dell'Unione europea e con altre giurisdizioni estere in forza degli accordi stipulati.
 
 ## Art. 2. — Definizioni
+
+1.
+                    
+                        
+                            Ai fini del presente decreto si intende per: 
+ 
+                        
+                        
+                            a)
+                            
+                                meccanismo transfrontaliero: uno schema, accordo o progetto, riguardante l'Italia e una o piu' giurisdizioni estere, qualora si verifichi almeno una delle seguenti condizioni: 
+ 1) non tutti i partecipanti allo schema, accordo o progetto risiedono, ai fini fiscali, nel territorio dello Stato; 
+ 2) uno o piu' partecipanti allo schema, accordo o progetto sono contemporaneamente residenti ai fini fiscali nel territorio dello Stato e in una o piu' giurisdizioni estere; 
+ 3) uno o piu' partecipanti allo schema, accordo o progetto svolgono la propria attivita' in una giurisdizione estera tramite una stabile organizzazione ivi situata e lo schema, accordo o progetto riguarda almeno una parte dell'attivita' della stabile organizzazione; 
+ 4) uno o piu' partecipanti allo schema, accordo o progetto, senza essere residenti ai fini fiscali o avere una stabile organizzazione in una giurisdizione estera, svolgono in tale giurisdizione un'attivita'; 
+ 5) lo schema, accordo o progetto puo' alterare la corretta applicazione delle procedure sullo scambio automatico di informazioni o sull'identificazione del titolare effettivo; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                partecipante: l'intermediario o il contribuente; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                intermediario: un soggetto che elabora, commercializza, organizza o mette a disposizione ai fini dell'attuazione un meccanismo transfrontaliero da comunicare o ne gestisce in autonomia l'intera attuazione, ovvero un soggetto che direttamente o attraverso altri soggetti, svolge un'attivita' di assistenza o consulenza riguardo all'elaborazione, commercializzazione, messa a disposizione ai fini dell'attuazione o gestione dell'attuazione del meccanismo transfrontaliero da comunicare, qualora, avuto riguardo alle informazioni disponibili e alle competenze necessarie per svolgere tale attivita', sappia o abbia un motivo ragionevole per concludere che il medesimo meccanismo sia rilevante ai sensi dell'articolo 5. I soggetti di cui alla presente lettera sono tenuti all'obbligo di comunicazione qualora ricorra almeno una delle seguenti condizioni: 
+ 1) siano residenti ai fini fiscali nel territorio dello Stato; 
+ 2) abbiano una stabile organizzazione nel territorio dello Stato tramite la quale sono forniti i servizi con riguardo al meccanismo transfrontaliero oggetto di comunicazione; 
+ 3) siano costituiti, disciplinati o regolamentati secondo la legge dello Stato; 
+ 4) siano iscritti a un'associazione professionale di servizi in ambito legale, fiscale o di consulenza nel territorio dello Stato; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                contribuente: qualunque soggetto che attua o a favore del quale viene messo a disposizione, ai fini dell'attuazione, un meccanismo transfrontaliero. Esso e' tenuto all'obbligo di comunicazione qualora ricorra almeno una delle seguenti condizioni: 
+ 1) e' residente ai fini fiscali nel territorio dello Stato; 
+ 2) dispone di una stabile organizzazione nel territorio dello Stato che beneficia del meccanismo transfrontaliero oggetto di comunicazione; 
+ 3) non soddisfa le condizioni di cui ai punti precedenti e percepisce redditi o genera utili prodotti nel territorio dello Stato; 
+ 4) non soddisfa le condizioni di cui ai punti precedenti e svolge la propria attivita' nel territorio dello Stato; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                impresa associata, un soggetto che svolge attivita' di impresa che, alternativamente: 
+ 1) esercita un'influenza dominante nella gestione di un altro soggetto ai sensi dell'articolo 2 del decreto ministeriale 14 maggio 2018, pubblicato nella Gazzetta Ufficiale n. 118 del 23 maggio 2018; 
+ 2) ha una partecipazione superiore al 25 per cento del capitale o del patrimonio di un altro soggetto; 
+ 3) ha piu' del 25 per cento dei diritti di voto esercitabili nell'assemblea ordinaria di un altro soggetto, nel caso in cui il soggetto detenga piu' del 50 per cento dei diritti di voto e' considerato detentore del 100 per cento dei diritti stessi; 
+ 4) ha diritto ad almeno il 25 per cento degli utili di un altro soggetto; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                elemento distintivo: un indice di rischio di elusione o evasione fiscale di cui all'Allegato 1; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                meccanismo commerciabile: un meccanismo transfrontaliero che e' suscettibile di essere messo a disposizione di una pluralita' di contribuenti senza sostanziali modifiche; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                meccanismo su misura: un meccanismo transfrontaliero diverso da un meccanismo commerciabile; 
+
+                            
+                        
+                        
+                            i)
+                            
+                                vantaggio fiscale: uno tra i principali vantaggi, avente natura fiscale, che ragionevolmente ci si attende dal meccanismo transfrontaliero, tenuto conto dei fatti e delle circostanze; 
+
+                            
+                        
+                        
+                            l)
+                            
+                                numero di identificazione fiscale (NIF): un codice di identificazione fiscale o, in assenza di tale codice, un equivalente funzionale.
 
 Ai fini di cui al comma 1, lettera e), si tiene conto delle percentuali di partecipazione o di diritto di voto possedute dai familiari della persona fisica di cui all'articolo 5, comma 5, del testo unico delle imposte sui redditi di cui al decreto del Presidente della Repubblica 22 dicembre 1986, n. 917.
 
@@ -78,6 +169,67 @@ Il silenzio dell'Amministrazione finanziaria circa un meccanismo transfrontalier
 
 ## Art. 6. — Oggetto della comunicazione
 
+1.
+                    
+                        
+                            Le informazioni oggetto di comunicazione all'Agenzia delle entrate riguardano: 
+ 
+                        
+                        
+                            a)
+                            
+                                l'identificazione degli intermediari ((, diversi dagli intermediari esonerati dall'obbligo di comunicazione di cui ai commi 4 e 5 dell'articolo 3,)) e dei contribuenti interessati, compresi il nome, la data e il luogo di nascita ovvero la denominazione sociale o ragione sociale, l'indirizzo, la residenza ai fini fiscali, il NIF (numero di identificazione fiscale), nonche' i soggetti che costituiscono imprese associate di tali contribuenti; ((1))
+                                
+                            
+                        
+                        
+                            b)
+                            
+                                gli elementi distintivi presenti nel meccanismo transfrontaliero che lo rendono oggetto di comunicazione; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                una sintesi del contenuto del meccanismo transfrontaliero oggetto di comunicazione ((, incluso il riferimento al nome con il quale e' comunemente noto, e una descrizione dei pertinenti meccanismi, e qualsiasi altra informazione che possa aiutare l'autorita' competente a valutare un potenziale rischio fiscale, senza divulgare un segreto commerciale, industriale o professionale o un processo commerciale o informazioni la cui divulgazione sarebbe contraria all'ordine pubblico;))
+                                    ((1))
+                                
+                            
+                        
+                        
+                            d)
+                            
+                                la data di avvio dell'attuazione del meccanismo transfrontaliero; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                le disposizioni nazionali che stabiliscono l'obbligo di comunicazione del meccanismo transfrontaliero; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                il valore del meccanismo transfrontaliero oggetto dell'obbligo di comunicazione; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                l'identificazione delle giurisdizioni di residenza fiscale dei contribuenti interessati, nonche' delle eventuali altre giurisdizioni potenzialmente interessate dal meccanismo transfrontaliero oggetto dell'obbligo di comunicazione; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                l'identificazione di qualunque altro soggetto potenzialmente interessato dal meccanismo transfrontaliero nonche' delle giurisdizioni a cui tale soggetto e' riconducibile.
+
 Per gli intermediari, le informazioni di cui al comma 1 sono oggetto di comunicazione solo nella misura in cui gli stessi ne sono a conoscenza, ne sono in possesso o ne hanno il controllo.
 
 --------------
@@ -86,6 +238,24 @@ Per gli intermediari, le informazioni di cui al comma 1 sono oggetto di comunica
  Il D.Lgs. 10 dicembre 2025, n. 194, ha disposto (con l'art. 20, comma 1) che "Le disposizioni del presente decreto si applicano a decorrere dal 1° gennaio 2026".
 
 ## Art. 7. — Termine di presentazione all'Agenzia delle entrate
+
+1.
+                    
+                        
+                            Gli intermediari comunicano all'Agenzia delle entrate le informazioni di cui all'articolo 6 del presente decreto, entro trenta giorni a decorrere: 
+ 
+                        
+                        
+                            a)
+                            
+                                dal giorno seguente a quello in cui il meccanismo transfrontaliero soggetto all'obbligo di comunicazione e' messo a disposizione ai fini dell'attuazione o a quello in cui e' stata avviata l'attuazione; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                dal giorno seguente a quello in cui hanno fornito, direttamente o attraverso altre persone, assistenza o consulenza ai fini dell'attuazione del meccanismo transfrontaliero soggetto all'obbligo di comunicazione.
 
 In caso di meccanismi commerciabili, gli intermediari devono presentare all'Agenzia delle entrate, ogni tre mesi, una relazione periodica con cui aggiornano le informazioni di cui all' articolo 6, comma 1, lettere a), d), g) e h), diventate disponibili dopo la comunicazione di cui al comma 1 o dopo la presentazione dell'ultima relazione. La prima relazione periodica deve essere presentata dagli intermediari all'Agenzia delle entrate entro il 30 aprile 2021.
 
@@ -114,6 +284,24 @@ Le informazioni non sono trasmesse quando possono rivelare un segreto commercial
 All'articolo 31-bis, terzo comma, del decreto del Presidente della Repubblica 29 settembre 1973, n. 600, come modificato dall'articolo 11, comma 1, lettera b), del decreto legislativo 4 marzo 2014, n. 29, le parole «agli articoli 7, 8, 8-bis e 10» sono sostituite dalle seguenti: «agli articoli 7, 8, 8-bis, 8 bis bis, 8 bis ter e 10».
 
 ## Art. 11. — Obblighi di conservazione della documentazione
+
+1.
+                    
+                        
+                            Gli intermediari e i contribuenti obbligati ai sensi dell'articolo 3 conservano i documenti e i dati utilizzati ai fini dell'attuazione del meccanismo transfrontaliero: 
+ 
+                        
+                        
+                            a)
+                            
+                                fino al 31 dicembre del quinto anno successivo a quello in cui le informazioni sono comunicate; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                fino al 31 dicembre del settimo anno successivo a quello in cui le informazioni avrebbero dovuto essere trasmesse, nel caso di omessa comunicazione.
 
 ## Art. 12. — Sanzioni
 

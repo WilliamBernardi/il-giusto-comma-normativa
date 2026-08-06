@@ -9,7 +9,7 @@ vigente: true
 source: normattiva-opendata
 collection: Atti di recepimento direttive UE
 zip_date: 2026-07-30
-fetched_at: 2026-08-02T09:40:48Z
+fetched_at: 2026-07-30
 ---
 
 DECRETO LEGISLATIVO
@@ -42,6 +42,47 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 ## Art. 1.
 
+1.
+                    
+                        
+                            Le disposizioni del presente decreto si applicano: 
+ 
+                        
+                        
+                            a)
+                            
+                                alle fusioni tra societa' per azioni, in accomandita per azioni, a responsabilita' limitata, cooperative e di mutua assicurazione, enti pubblici e privati aventi per oggetto esclusivo o principale l'esercizio di attivita' commerciali, residenti nel territorio dello Stato, e soggetti residenti in altri Stati membri della Comunita' economica europea, purche' non si considerino, per convenzione in materia di doppia imposizione con Stati terzi, residenti fuori della Comunita', che appartengano alle categorie in- dicate nella tabella A allegata al presente decreto, da considerare automaticamente aggiornata in conformita' con eventuali modifiche dell'allegato alla direttiva del Consiglio delle Comunita' europee n. 
+90/434 del 23 luglio 1990, e siano sottoposti a una delle imposte in- dicate nella tabella B allegata al presente decreto o ad altra che in futuro la sostituisca, senza possibilita' di opzione, sempre che nel concambio l'eventuale conguaglio in danaro ai partecipanti dei soggetti fusi o incorporati non superi il 10% del valore nominale della partecipazione ricevuta; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                alle scissioni attuate mediante trasferimento dell'intero patrimonio di uno dei soggetti indicati nella lettera a) a due o piu' soggetti indicati nella stessa lettera, preesistenti o di nuova costituzione, alcuno dei quali sia residente in uno Stato della Comunita' diverso da quello del primo, e limitatamente alla parte corrispondente dell'operazione, con assegnazione ai partecipanti delle azioni o quote di ciascuno dei soggetti beneficiari in misura proporzionale alle rispettive partecipazioni nel soggetto scisso, sempre che quest'ultimo o almeno uno dei beneficiari siano residenti nel teritorio dello Stato, che la quota di patrimonio trasferita a ciascun beneficiario sia costituita da aziende o complessi aziendali relativi a singoli rami dell'impresa del conferente e che nel concambio l'eventuale conguaglio in danaro ai partecipanti della societa' scissa non superi il 10% del valore nominale della partecipazione ricevuta; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                ai conferimenti di aziende o di complessi aziendali relativi a singoli rami dell'impresa da uno ad altro dei soggetti indicati nella lettera a), residenti in Stati diversi della Comunita', sempre che uno dei due sia residente nel territorio dello Stato; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                alle operazioni indicate nelle lettere precedenti tra soggetti di cui alla lettera a) non residenti nel territorio dello Stato, con riguardo alle stabili organizzazioni nel territorio dello Stato oggetto delle operazioni stesse; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                alle permute e ai conferimenti di azioni o quote, mediante i quali uno dei soggetti indicati nella lettera a) acquisti o integri una partecipazione di controllo, ai sensi dell'art. 2359, comma 1, n. 
+1, del codice civile, in uno dei soggetti indicati nella stessa lettera, residente in uno Stato della Comunita' diverso da quello del primo, attribuendo ai partecipanti proprie azioni o quote in cambio di quelle ricevute in permuta o conferimento ed un eventuale conguaglio in danaro non superiore al 10% del valore nominale delle suddette azioni o quote, sempre che alcuno dei partecipanti che effettuano lo scambio sia residente nel territorio dello Stato ovvero la partecipazione scambiata sia relativa ad una stabile organizzazione nel territorio dello Stato di un soggetto indicato nella lettera a).
+
 ## Art. 2.
 
 Nelle operazioni indicate nelle lettere a) e b) dell'art. 1 i maggiori valori, che per effetto della eventuale imputazione del disavanzo, il soggetto beneficiario residente nel territorio dello Stato iscrive nel bilancio relativo all'esercizio in cui e' stata eseguita l'operazione, con riferimento ad elementi patrimoniali provenienti dal conferente ed effettivamente connessi a una stabile organizzazione situata nel territorio dello Stato o all'estero, preesistente ovvero risultante dalla operazione, non sono imponibili nei confronti del beneficiario. Tuttavia i beni ricevuti sono valutati fiscalmente in base all'ultimo valore riconosciuto ai fini delle imposte sui redditi al conferente, facendo risultare da apposito prospetto di riconciliazione, da allegare alla dichiarazione dei redditi, i dati esposti in bilancio ed i valori fiscalmente riconosciuti.
@@ -55,6 +96,16 @@ Non sono rilevanti ai fini delle imposte sui redditi le differenze positive o ne
 Le operazioni di fusione, scissione e scambio di partecipazioni mediante permuta o conferimento, indicate nell'art. 1, non comportano realizzo di plusvalenze ne' di minusvalenze sulle azioni o quote date in cambio, il cui valore fiscale viene assunto dalle azioni o quote ricevute, ripartendosi tra tutte in proporzione dei valori alle stesse attribuiti ai fini della determinazione del rapporto di cambio. Gli eventuali conguagli concorrono a formare il reddito dei percettori.
 
 Se e' stata conferita da un soggetto una stabile organizzazione situata in un altro Stato membro, le relative plusvalenze sono imponibili nei confronti del conferente residente a titolo di realizzo al valore normale, con deduzione dalla relativa imposta, fino al suo totale assorbimento, dell'ammontare dell'imposta che lo Stato dove e' situata la stabile organizzazione avrebbe prelevato in assenza delle norme della direttiva comunitaria n. 90/434 del 23 luglio 1990. In tal caso la partecipazione ricevuta e' valutata fiscalmente in base all'ultimo valore riconosciuto ai fini delle imposte sui redditi degli elementi patrimoniali conferiti, aumentato, agli effetti della disposizione di cui al precedente comma, di un importo pari all'imponibile corrispondente all'imposta dovuta a saldo.
+
+7.
+                    
+                        
+                            Si considerano realizzati al valore normale i componenti dell'azienda o del complesso aziendale che abbiano formato oggetto delle operazioni indicate alle lettere da 
+                        
+                        
+                            a)
+                            
+                                a d) del comma 1 dell'art. 1, non confluiti in seguito a tali operazioni in una stabile organizzazione situata nel territorio dello Stato. La stessa disposizione si applica se successivamente alle predette operazioni i componenti conferiti nella stabile organizzazione situata nel territorio dello Stato ne vengano distolti.
 
 ## Art. 3.
 

@@ -7,8 +7,8 @@ urn: urn:nir:ministero.economia.e.finanze:decreto:2024-11-12;212
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:39Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -40,6 +40,56 @@ Possono chiedere l'iscrizione all'elenco di cui al comma 1 i professionisti che 
 
 Requisiti di onorabilita' e di professionalita'
 
+1.
+                    
+                        
+                            Possono chiedere l'iscrizione all'elenco di cui all'articolo 1, comma 1, i professionisti che: 
+ 
+                        
+                        
+                            a)
+                            
+                                non hanno subito condanne con sentenza definitiva o decreto penale di condanna divenuto irrevocabile o sentenza di applicazione della pena su richiesta ai sensi dell'articolo 444 del codice di procedura penale, per i reati indicati nell'articolo 94, comma 1, del decreto legislativo 31 marzo 2023, n. 36, per i reati di cui al libro II, titolo VII, capo III, e di cui all'articolo 640, comma 1, del codice penale; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                non integrano le cause di esclusione di cui all'articolo 94, comma 2, del citato decreto legislativo n. 36 del 2023; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                non si trovano nelle condizioni previste dall'articolo 2382 del codice civile.
+
+2.
+                    
+                        
+                            Ai fini dell'iscrizione all'elenco di cui all'articolo 1, comma 1, il professionista deve essere in possesso di competenze e capacita' professionali, anche basate sui piu' recenti sviluppi della normativa, della tecnica e della prassi professionale, in materia di: 
+ 
+                        
+                        
+                            a)
+                            
+                                sistemi di controllo interno e di gestione dei rischi; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                principi contabili applicati dal soggetto incaricante nei periodi oggetto della certificazione; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                diritto tributario.
+
 Il possesso dei requisiti di professionalita' di cui al comma 2, e' attestato dall'Ordine professionale di appartenenza del professionista. Il Ministero dell'economia e delle finanze, l'Agenzia delle entrate e i Consigli nazionali degli ordini professionali interessati individuano, di concerto fra loro, le modalita' e i percorsi formativi per il rilascio dell'attestazione di cui al primo periodo.
 
 Il venir meno dei requisiti di onorabilita' e di professionalita' di cui ai commi 1 e 2, comporta la cancellazione dall'elenco di cui all'articolo 1, comma 1.
@@ -60,6 +110,52 @@ Il professionista abilitato, incaricato del rilascio della certificazione di cui
 
 Il professionista abilitato di cui al comma 1 deve adottare tutte le misure ragionevoli per garantire che la propria indipendenza non risulti influenzata da alcun conflitto di interessi, anche soltanto potenziale, o da relazioni d'affari o di altro genere, dirette o indirette.
 
+3.
+                    
+                        
+                            Il professionista abilitato di cui al comma 1 non puo' accettare l'incarico di certificatore se: 
+ 
+                        
+                        
+                            a)
+                            
+                                riveste cariche sociali negli organi di amministrazione e controllo del soggetto che ha conferito l'incarico, delle societa' da questo controllate, delle societa' che lo controllano o di quelle sottoposte a comune controllo; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                e' coniuge, parente o affine entro il quarto grado degli amministratori o dei sindaci del soggetto richiedente o delle societa' da questo controllate, delle societa' che lo controllano o di quelle sottoposte a comune controllo; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                nei due anni precedenti e' stato legato al soggetto incaricante o alle societa' da questo controllate o alle societa' che lo controllano o a quelle sottoposte a comune controllo da rapporti di lavoro autonomo o subordinato ovvero da altri rapporti di natura patrimoniale o professionale che ne compromettano l'indipendenza; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                nei due anni precedenti il coniuge, i parenti o gli affini entro il quarto grado sono stati legati al soggetto incaricante o alle societa' da questo controllate o alle societa' che lo controllano o a quelle sottoposte a comune controllo da rapporti di lavoro, autonomo o subordinato, ovvero da altri rapporti di natura patrimoniale o professionale, a condizione che i citati rapporti siano tali da poter compromettere l'indipendenza del professionista; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                sussistono rischi di interesse personale o connessi a rapporti di familiarita' ovvero a forme di intimidazione determinati da relazioni finanziarie, personali, d'affari, di lavoro o di altro genere instaurate con il soggetto incaricante, o con qualsiasi persona fisica in grado di influenzare l'esito della certificazione, la cui sussistenza potrebbe indurre a ritenere che l'indipendenza del professionista abilitato risulti compromessa; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                sussistono rischi di autoriesame e, in particolare, nei casi in cui il professionista abilitato, ovvero un altro professionista legato da rapporti di collaborazione professionale, anche occasionali, con la medesima societa' o associazione tra professionisti con cui collabora, a qualunque titolo, o a cui e' associato il professionista abilitato, abbia reso servizi funzionali alla elaborazione del sistema integrato di rilevazione, misurazione, gestione e controllo dei rischi fiscali adottato dal soggetto che ne ha richiesto la certificazione ovvero abbia assunto un ruolo di responsabilita' nell'ambito del sistema integrato stesso.
+
 Il professionista abilitato di cui al comma 1 non puo' detenere strumenti finanziari emessi, garantiti o altrimenti oggetto di sostegno da parte del soggetto che richiede la certificazione, delle societa' da questo controllate, delle societa' che lo controllano o di quelle sottoposte a comune controllo, deve astenersi da qualsiasi operazione su tali strumenti e non deve avere sui medesimi strumenti alcun interesse beneficiario rilevante e diretto, salvo che si tratti di interessi detenuti indirettamente attraverso regimi di investimento collettivo diversificati, compresi fondi gestiti, quali fondi pensione o assicurazione sulla vita.
 
 L'incarico per la certificazione puo' essere conferito al professionista da parte della medesima impresa per non piu' di tre volte consecutive. Nel caso in cui l'incarico sia stato conferito per tre volte consecutive, il medesimo professionista abilitato, ovvero un altro professionista legato da rapporti di collaborazione professionale, non occasionali, con la medesima societa' o associazione tra professionisti, con cui collabora, a qualunque titolo, o a cui e' associato il professionista abilitato, potra' essere nuovamente incaricato decorsi sei anni dalla sottoscrizione dell'ultima certificazione.
@@ -70,17 +166,103 @@ Il corrispettivo del professionista abilitato non puo' essere subordinato ad alc
 
 ## Art. 5. — Preparazione allo svolgimento dell'incarico di certificazione
 
+1.
+                    
+                        
+                            Il professionista, prima di accettare un incarico di certificazione del sistema integrato di rilevazione, misurazione, gestione e controllo del rischio fiscale, deve valutare e documentare, anche attraverso dichiarazioni sostitutive di certificazioni o di atto di notorieta': 
+ 
+                        
+                        
+                            a)
+                            
+                                l'iscrizione nell'elenco tenuto dai Consigli nazionali degli ordini professionali di cui all'articolo 1, comma 1; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                l'eventuale presenza di rischi per la sua indipendenza e, nel caso, l'eventuale adozione di idonee misure per mitigarli; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                l'affidabilita' organizzativa e tecnica, anche in termini di disponibilita' di tempo e risorse necessari per svolgere in modo adeguato l'incarico di certificazione, oltre che in termini di competenze professionali, anche sulla base di quanto previsto dall'articolo 6, comma 10.
+
 I requisiti di onorabilita' e indipendenza di cui all'articolo 2, comma 1, e all'articolo 4 devono sussistere durante l'intero periodo intercorrente tra l'assunzione dell'incarico da parte del professionista e il rilascio della certificazione di cui all'articolo 4, comma 1-bis, del decreto legislativo 5 agosto 2015, n. 128. Il venir meno dei predetti requisiti comporta la decadenza dall'incarico da parte del professionista.
 
 ## Art. 6. — Compiti e adempimenti del professionista abilitato
 
 Il professionista abilitato e' tenuto ad attestare che il sistema integrato di rilevazione, misurazione, gestione e controllo dei rischi fiscali del soggetto che ha richiesto la certificazione risponde ai requisiti di cui al decreto legislativo 5 agosto 2015, n. 128, ed e' impostato in modo coerente con le linee guida di cui all'articolo 4, comma 1-quater, del medesimo decreto, fornendo una ragionevole certezza riguardo alla gestione consapevole e affidabile della variabile fiscale da parte dell'impresa.
 
+2.
+                    
+                        
+                            Per le finalita' di cui al comma 1, il professionista abilitato: 
+ 
+                        
+                        
+                            a)
+                            
+                                con riferimento ai processi di controllo relativi alla generalita' dei rischi fiscali, valuta che l'insieme delle regole, delle procedure e delle strutture organizzative e relative responsabilita' operative volte ad assicurare l'efficiente ed efficace gestione del processo di rilevazione, misurazione, gestione e controllo del rischio fiscale, rispetti i requisiti previsti al comma 1; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                con riferimento ai processi di controllo volti a mitigare singoli rischi, valuta che i controlli approntati dall'impresa forniscano una adeguata garanzia di efficace gestione dei rischi contenuti nella mappa dei rischi fiscali di cui all'articolo 4, comma 1, lettera c-bis), del decreto legislativo 5 agosto 2015, n. 128.
+
+3.
+                    
+                        
+                            Con riferimento a ciascuna delle valutazioni di cui al comma 2, lettere a) e b), sono previste tre fasi di approfondimento: 
+ 
+                        
+                        
+                            a)
+                            
+                                definizione del perimetro: il professionista abilitato identifica i processi di controllo chiave, generali e specifici, per la prevenzione dei rischi fiscali; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                valutazione dell'impostazione del sistema: il professionista abilitato valuta che il disegno dei processi di controllo selezionati risponda ai requisiti previsti al comma 1, anche attraverso interviste agli attori coinvolti ed esami documentali volti a ripercorrere il flusso di processo seguito dalla funzione aziendale responsabile del controllo; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                valutazione di efficacia del sistema: il professionista abilitato valuta l'efficacia operativa del sistema integrato di controllo del rischio fiscale attraverso procedure di test finalizzate a verificare che i controlli selezionati abbiano operato in maniera continuativa e siano stati effettivamente svolti in maniera corretta.
+
 Le fasi di cui al comma 3, lettere a) e b), sono svolte ai fini del rilascio della certificazione di cui all'articolo 7, commi 1 e 2.
 
 La fase di cui al comma 3, lettera c), e' svolta, con cadenza almeno triennale, ai fini dell'aggiornamento della certificazione di cui all'articolo 7, comma 6.
 
 Nell'ipotesi di cui all'articolo 7, comma 1-quater, del decreto legislativo 5 agosto 2015, n. 128, in presenza di una pluralita' di soggetti appartenenti al medesimo gruppo di imprese, il professionista abilitato certifica che il gruppo ha adottato un sistema integrato di rilevazione, misurazione, gestione e controllo del rischio fiscale conforme ai requisiti indicati al comma 1.
+
+7.
+                    
+                        
+                            Per le finalita' di cui al comma 6, il professionista abilitato rilascia la certificazione: 
+ 
+                        
+                        
+                            a)
+                            
+                                sia nei confronti dell'impresa che esercita attivita' di direzione e coordinamento sul sistema di controllo del rischio fiscale; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                sia nei confronti delle singole imprese soggette a direzione e coordinamento che intendano aderire al regime di adempimento collaborativo.
 
 Nell'ambito della certificazione del sistema integrato della societa' che esercita attivita' di direzione e coordinamento sul sistema di controllo del rischio fiscale, di cui al comma 7, lettera a), il professionista abilitato attesta, oltre a quanto indicato all'articolo 7, comma 1, che i principi, le metodologie, le caratteristiche e le logiche di funzionamento, i ruoli e le responsabilita', inerenti all'istituzione, al mantenimento nel tempo e al funzionamento del sistema integrato di rilevazione, gestione e controllo dei rischi fiscali, sono rivolti anche alle societa' del gruppo soggette a direzione e coordinamento.
 
@@ -93,6 +275,52 @@ I professionisti che ai sensi del comma 10 collaborano con il professionista abi
 Con il provvedimento del direttore dell'Agenzia delle entrate di cui all'articolo 4, comma 1-quater, del decreto legislativo 5 agosto 2015, n. 128, e' indicata la metodologia di valutazione del sistema integrato di rilevazione, misurazione, gestione e controllo del rischio fiscale da utilizzare ai fini della certificazione di cui all'articolo 7, commi 1 e 2, nonche' per il periodico adeguamento della stessa.
 
 ## Art. 7. — Contenuto della certificazione
+
+1.
+                    
+                        
+                            La certificazione, rilasciata ai sensi dell'articolo 4, comma 1-bis, del decreto legislativo 5 agosto 2015, n. 128, deve contenere: 
+ 
+                        
+                        
+                            a)
+                            
+                                la dichiarazione, resa dal professionista certificatore ai sensi degli articoli 46 e 47 del decreto del Presidente della Repubblica 28 dicembre 2000, n. 445, del possesso dei requisiti di onorabilita' e di indipendenza di cui all'articolo 2, comma 1, e all'articolo 4; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                l'attestazione del possesso dei requisiti di professionalita' di cui all'articolo 2, comma 2, rilasciata dall'ordine professionale di appartenenza del professionista certificatore; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                la dichiarazione, resa dal professionista certificatore ai sensi dell'articolo 47 del decreto del Presidente della Repubblica 28 dicembre 2000, n. 445, di aver eseguito i compiti e gli adempimenti previsti dall'articolo 6, comma 2, lettere a) e b), nel rispetto della metodologia indicata nelle linee guida di cui all'articolo 4, comma 1-quater, del decreto legislativo 5 agosto 2015, n. 128, con allegazione delle relazioni illustrative delle attivita' svolte; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                la dichiarazione, resa dal professionista certificatore ai sensi dell'articolo 47 del decreto del Presidente della Repubblica 28 dicembre 2000, n. 445, che il sistema integrato di rilevazione, misurazione, gestione e controllo dei rischi fiscali risponde ai requisiti di cui al decreto legislativo 5 agosto 2015, n. 128, ed e' impostato in modo coerente con le linee guida di cui all'articolo 4, comma 1-quater, del medesimo decreto; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                la descrizione di eventuali carenze non significative ai fini dell'affidabilita' del sistema integrato di rilevazione, misurazione, gestione e controllo dei rischi fiscali riscontrate nel corso della procedura di certificazione, nonche' l'indicazione delle azioni correttive da attuare; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                la sottoscrizione del professionista certificatore.
 
 Nelle ipotesi di cui all'articolo 6, comma 9, fermo restando quanto previsto al comma 1, lettere a), b), e) e f), la certificazione contiene anche la dichiarazione, sotto la propria responsabilita', da parte del professionista certificatore, di aver eseguito i compiti e gli adempimenti previsti dall'articolo 6, comma 2, lettera b), nonche' l'attestazione che l'insieme delle regole, delle procedure e delle strutture organizzative volte a consentire l'identificazione, la misurazione, la gestione e il monitoraggio dei rischi fiscali, adottato dalla societa' che esercita attivita' di direzione e coordinamento, e' applicato anche alla societa' soggetta a direzione e coordinamento nei confronti della quale e' stata predisposta una specifica mappa dei rischi fiscali.
 

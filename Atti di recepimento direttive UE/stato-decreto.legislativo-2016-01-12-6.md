@@ -9,7 +9,7 @@ source: normattiva-opendata
 collection: Atti di recepimento direttive UE
 vigenza_date: 2024-10-04
 zip_date: 2026-07-30
-fetched_at: 2026-08-02T09:40:47Z
+fetched_at: 2026-07-30
 ---
 
 DECRETO LEGISLATIVO
@@ -30,6 +30,70 @@ Sulla proposta del Presidente del Consiglio dei ministri e dei Ministri dell'eco
 ## Art. 1.
 
 Finalita' e ambito di applicazione
+
+1.
+                        
+                            
+                                Le disposizioni del presente decreto legislativo sono dirette: 
+ 
+                            
+                            
+                                a)
+                                
+                                    a garantire un livello elevato di protezione della salute umana, soprattutto per i giovani e ad adempiere agli obblighi derivanti dalla legge 18 marzo 2008, n. 75, di ratifica ed esecuzione della Convenzione quadro dell'OMS per la lotta al tabagismo (FCTC), nonche' ad ostacolare un eccesso di offerta e la diffusione del fumo tra i minori; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    ad agevolare il buon funzionamento del mercato interno dei prodotti del tabacco e dei prodotti correlati.
+
+2.
+                        
+                            
+                                Il presente decreto disciplina: 
+ 
+                            
+                            
+                                a)
+                                
+                                    gli ingredienti e le emissioni dei prodotti del tabacco e i relativi obblighi di segnalazione, compresi livelli massimi di emissioni di catrame, nicotina e monossido di carbonio delle sigarette; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    alcuni aspetti dell'etichettatura e del confezionamento dei prodotti del tabacco, comprese le avvertenze relative alla salute che devono figurare sulle confezioni unitarie dei prodotti del tabacco e sull'eventuale imballaggio esterno, come pure la tracciabilita' e gli elementi di sicurezza che sono applicati ai prodotti del tabacco; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    le vendite a distanza transfrontaliere di prodotti del tabacco e dei prodotti correlati; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    l'obbligo di effettuare una notifica dei prodotti del tabacco di nuova generazione; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    l'immissione sul mercato e l'etichettatura di alcuni prodotti correlati ai prodotti del tabacco, ossia le sigarette elettroniche e i contenitori di liquido di ricarica e i prodotti da fumo a base di erbe; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    il divieto di immissione sul mercato del tabacco per uso orale.
 
 ## Art. 2. — Definizioni
 
@@ -86,6 +150,31 @@ Ai fini ed agli effetti delle disposizioni di cui al presente decreto, si applic
 ## Art. 3. — Livelli massimi di emissioni di catrame, nicotina 
  e monossido di carbonio e altre sostanze
 
+1.
+                        
+                            
+                                I livelli di emissioni delle sigarette immesse sul mercato in Italia, di seguito livelli massimi di emissioni, non superano rispettivamente: 
+ 
+                            
+                            
+                                a)
+                                
+                                    10 mg di catrame per sigaretta; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    1 mg di nicotina per sigaretta; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    10 mg di monossido di carbonio per sigaretta.
+
 ## Art. 4. — Metodi di misurazione
 
 I livelli massimi di emissioni di catrame, nicotina e monossido di carbonio delle sigarette sono misurati, rispettivamente, sulla base della norma ISO 4387 per il catrame, della norma ISO 10315 per la nicotina e della norma ISO 8454 per il monossido di carbonio.
@@ -113,6 +202,31 @@ L'Istituto superiore di sanita', esperita la valutazione tecnica circa i prescri
 
 ## Art. 6. — Segnalazione degli ingredienti e delle emissioni
 
+1.
+                        
+                            
+                                I fabbricanti e gli importatori dei prodotti del tabacco presentano al Ministero della salute e alla Agenzia delle Dogane e dei Monopoli le seguenti informazioni, suddivise per marca e tipo: 
+ 
+                            
+                            
+                                a)
+                                
+                                    l'elenco, con le relative quantita', di tutti gli ingredienti utilizzati nella lavorazione dei prodotti del tabacco, in ordine decrescente di peso di ogni ingrediente incluso nei prodotti del tabacco; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    i livelli delle emissioni di cui all'articolo 3, comma 1; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    le informazioni su altre emissioni e relativi livelli ove disponibili.
+
 Per i prodotti gia' immessi sul mercato le informazioni di cui al comma 1 sono fornite entro il 20 novembre 2016. I fabbricanti e gli importatori informano, altresi', il Ministero della salute e la Agenzia delle Dogane e dei Monopoli della composizione di un prodotto tale da incidere sulle informazioni fornite a norma del presente articolo. Per un prodotto del tabacco nuovo o modificato le informazioni prescritte a norma del presente articolo sono presentate prima dell'immissione sul mercato di tale prodotto.
 
 L'elenco degli ingredienti di cui al comma 1, lettera a), e' corredato da una dichiarazione che precisa i motivi dell'inclusione di tali ingredienti nei prodotti del tabacco interessati; tale elenco indica anche lo status degli ingredienti, specificando se sono stati registrati a norma del regolamento (CE) n. 1907/2006 del Parlamento europeo e del Consiglio e la loro classificazione a norma del regolamento (CE) n. 1272/2008 del Parlamento europeo e del Consiglio.
@@ -132,6 +246,56 @@ Per la gestione di tutte le informazioni e di tutti i dati forniti ai sensi del 
 ## Art. 7. — Elenco prioritario degli additivi 
  e ulteriori obblighi di segnalazione
 
+1.
+                        
+                            
+                                Agli additivi contenuti nelle sigarette e nel tabacco da arrotolare inclusi nell'elenco prioritario previsto dall'articolo 6 della direttiva 2014/40/UE, oltre agli obblighi di segnalazione stabiliti all'articolo 6, si applicano ulteriori obblighi di segnalazione. Con decreto emanato ai sensi dell'articolo 26, comma 2, e' adottato l'elenco prioritario che comprende gli additivi: 
+ 
+                            
+                            
+                                a)
+                                
+                                    per i quali esistono prime indicazioni, ricerche o normative in altre giurisdizioni tali da suggerire che essi hanno una delle proprieta' di cui al comma 2, lettere da a) a d); 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    che figurano tra gli additivi piu' comunemente usati, in peso e in unita', conformemente alle segnalazioni di ingredienti ai sensi dell'articolo 6, commi 1 e 4.
+
+2.
+                        
+                            
+                                I fabbricanti e gli importatori delle sigarette e del tabacco da arrotolare, contenenti un additivo incluso nell'elenco prioritario di cui al comma 1, effettuano studi approfonditi che esaminano, per ciascun additivo o combinazione di piu' additivi, se esso: 
+ 
+                            
+                            
+                                a)
+                                
+                                    contribuisce alla tossicita' o alla capacita' di indurre dipendenza dei prodotti in questione, e se cio' ha come effetto di aumentare in misura significativa o quantificabile la tossicita' o la capacita' di indurre dipendenza di uno qualsiasi dei prodotti in questione; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    da' luogo a un aroma caratterizzante; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    facilita l'inalazione o l'assorbimento di nicotina; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    determina la formazione di sostanze che hanno proprieta' cancerogene, mutagene o tossiche per la riproduzione, di seguito CMR e i relativi quantitativi e se cio' ha come effetto di aumentare in misura significativa o quantificabile le proprieta' CMR di uno qualsiasi dei prodotti in questione.
+
 Gli studi di cui al comma 2 tengono conto dell'impiego previsto dei prodotti interessati ed esaminano, in particolare, le emissioni derivanti dal processo di combustione che implica l'additivo in questione. Gli studi esaminano altresi' l'interazione di tale additivo con altri ingredienti contenuti nei prodotti in questione. I fabbricanti o gli importatori che usano lo stesso additivo nei loro prodotti del tabacco possono realizzare uno studio congiunto quando impiegano tale additivo nella composizione di un prodotto comparabile.
 
 I fabbricanti o gli importatori predispongono una relazione sui risultati degli studi di cui al comma 2. La relazione include una sintesi e un quadro esauriente della letteratura scientifica disponibile sull'additivo in questione con una sintesi dei dati interni sugli effetti di tale additivo. I fabbricanti o gli importatori nel caso in cui un prodotto contenente l'additivo interessato sia stato immesso sul mercato entro diciotto mesi dall'inserimento dell'additivo nell'elenco prioritario di cui al comma 1, presentano tale relazione alla Commissione europea, al Ministero della salute ed al Ministero dell'economia e delle finanze.
@@ -144,6 +308,45 @@ Le piccole imprese e le medie imprese quali definite nella raccomandazione 2003/
 E' vietata l'immissione sul mercato dei prodotti del tabacco con un aroma caratterizzante individuato con decreto emanato ai sensi dell'articolo 26, comma 2.
 
 E' consentito l'impiego degli additivi essenziali alla lavorazione dei prodotti del tabacco, quale lo zucchero per sostituire quello perduto durante il processo di cura, salvo che tali additivi diano luogo a un prodotto con aroma caratterizzante ed accrescano in misura significativa e quantificabile la capacita' di indurre dipendenza, la tossicita' del prodotto del tabacco o le sue proprieta' CMR secondo quanto individuato con decreto emanato ai sensi dell'articolo 26, comma 2.
+
+3.
+                        
+                            
+                                E' vietata l'immissione sul mercato dei prodotti del tabacco contenenti i seguenti additivi: 
+ 
+                            
+                            
+                                a)
+                                
+                                    le vitamine o gli altri additivi che creano l'impressione che un prodotto del tabacco produca benefici per la salute o comporti minori rischi per la salute; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la caffeina o la taurina o altri additivi e composti stimolanti che presentano una connotazione di energia e di vitalita'; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    gli additivi con proprieta' coloranti delle emissioni; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    per i prodotti del tabacco da fumo, gli additivi che facilitano l'inalazione o l'assorbimento di nicotina; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    gli additivi che hanno proprieta' CMR sotto forma incombusta.
 
 E' vietata l'immissione sul mercato dei prodotti del tabacco contenenti aromi in qualsiasi dei loro elementi quali i filtri, le cartine, le confezioni, le capsule o le caratteristiche tecniche che consentono di modificare l'odore o il gusto dei prodotti del tabacco interessati o la loro intensita' di fumo. I filtri, le cartine e le capsule non devono contenere tabacco o nicotina.
 
@@ -189,14 +392,123 @@ Ciascuna confezione unitaria e l'eventuale imballaggio esterno del tabacco da fu
 Per i pacchetti di sigarette e il tabacco da arrotolare in confezioni dalla forma parallelepipeda, l'avvertenza generale figura sulla parte inferiore di una delle superfici laterali della confezione unitaria e il messaggio informativo figura sulla parte inferiore dell'altra superficie laterale. Le avvertenze relative alla salute hanno una lunghezza non inferiore a 20 mm. Per le confezioni a forma di pacchetto a scatola con chiusura incernierata la cui superficie laterale viene divisa in due quando la confezione e' aperta, l'avvertenza generale e il messaggio informativo figurano interamente sulle parti piu' ampie di tali due superfici.
 L'avvertenza generale appare altresi' all'interno della superficie superiore visibile al momento dell'apertura della confezione. Le superfici laterali di questo tipo di pacchetto hanno un'altezza non inferiore a 16 mm. Per il tabacco da arrotolare commercializzato in buste, l'avvertenza generale e il messaggio informativo figurano sulle superfici che garantiscono la piena visibilita' di tali avvertenze relative alla salute. Per il tabacco da arrotolare in confezioni di forma cilindrica l'avvertenza generale figura sulla superficie esterna della chiusura e il messaggio informativo sulla sua superficie interna. Sia l'avvertenza generale sia il messaggio informativo coprono il 50 per cento della superficie sulla quale sono stampati.
 
+4.
+                        
+                            
+                                L'avvertenza generale e il messaggio informativo di cui ai commi 1 e 2 sono: 
+ 
+                            
+                            
+                                a)
+                                
+                                    stampati in caratteri Helvetica grassetto su fondo bianco, determinando il corpo del font in modo che il testo occupi la maggior parte possibile della superficie riservata a tali avvertenze relative alla salute; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    al centro della superficie riservata loro, e sulle confezioni dalla forma parallelepipeda e l'eventuale imballaggio esterno, sono paralleli al bordo laterale della confezione unitaria o dell'imballaggio esterno.
+
 ## Art. 11. — Avvertenze combinate relative alla salute 
  per i prodotti del tabacco da fumo
 
 Ciascuna confezione unitaria e l'eventuale imballaggio esterno dei prodotti del tabacco da fumo recano avvertenze combinate relative alla salute.
 
+2.
+                        
+                            
+                                Le avvertenze combinate relative alla salute: 
+ 
+                            
+                            
+                                a)
+                                
+                                    comprendono una delle avvertenze testuali elencate nell'allegato 1, e una fotografia a colori corrispondente, compresa nel catalogo delle immagini di cui all'allegato 2; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    comprendono, quali informazioni sulla disassuefazione dal fumo, il seguente riferimento: «n. verde 800.554.088 per smettere di fumare», a sostegno di coloro che intendono smettere di fumare; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    occupano il 65 per cento tanto della superficie esterna del fronte quanto del retro della confezione unitaria e dell'eventuale imballaggio esterno. Le confezioni a forma cilindrica presentano due avvertenze combinate relative alla salute equidistanti l'una dall'altra e ogni avvertenza relativa alla salute occupa il 65 per cento della rispettiva meta' della superficie curva; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    mostrano la stessa avvertenza testuale e la corrispondente foto a colori sia sul fronte sia sul retro delle confezioni unitarie e dell'eventuale imballaggio esterno; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    figurano in corrispondenza del bordo superiore di una confezione unitaria e dell'eventuale imballaggio esterno e hanno lo stesso orientamento di ogni altra informazione che figura sulla superficie della confezione; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    sono riprodotte rispettando il formato, il layout, la grafica e le proporzioni, individuate con il decreto di cui all'articolo 26, comma 2; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    rispettano, nel caso delle confezioni unitarie di sigarette, le seguenti dimensioni: 
+ 1) altezza: non inferiore a 44 mm; 
+ 2) larghezza: non inferiore a 52 mm.
+
+3.
+                        
+                            
+                                Laddove vengono utilizzati contrassegni di legittimazione, fino al 20 maggio 2019: 
+ 
+                            
+                            
+                                a)
+                                
+                                    per le confezioni unitarie di materiale duro, l'avvertenza combinata relativa alla salute che figura sulla superficie posteriore deve essere collocata direttamente al di sotto del bollo fiscale; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    per le confezioni unitarie fatte di materiale morbido, e' riservata al bollo fiscale un'area rettangolare con altezza non superiore a 13 mm tra il bordo superiore della confezione e l'estremita' superiore delle avvertenze combinate relative alla salute.
+
 Nei casi di cui alle lettere a) e b) del comma 3 i marchi o i loghi non sono collocati al di sopra delle avvertenze relative alla salute.
 
 Le avvertenze combinate relative alla salute sono raggruppate in tre raccolte, come indicato all'allegato 2, ognuna delle quali e' usata in un dato anno e si alterna con la raccolta successiva l'anno seguente, partendo dalla serie 1 e rispettando l'ordine numerico delle serie previsto nello stesso allegato, come modificato dalla direttiva 2014/109/UE. La serie 1 e' apposta sui prodotti del tabacco fabbricati dal 20 maggio 2016 al 31 dicembre 2017. L'Agenzia delle dogane e dei monopoli verifica che ciascuna avvertenza combinata relativa alla salute utilizzabile in un dato anno sia mostrata, per quanto possibile, in pari numero su ogni marca di prodotti del tabacco.
+
+6.
+                        
+                            
+                                Con decreto emanato ai sensi dell'articolo 26, comma 1: 
+ 
+                            
+                            
+                                a)
+                                
+                                    sono adeguate le avvertenze testuali elencate nell'allegato 1; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    e' stabilito e adeguato il catalogo delle immagini di cui al comma 1, lettera a).
 
 Con decreto emanato ai sensi dell'articolo 26, comma 2, sono definite le specifiche tecniche per il layout, la grafica e la forma delle avvertenze combinate relative alla salute, a seconda delle diverse forme delle confezioni.
 
@@ -217,7 +529,64 @@ Le avvertenze relative alla salute di cui al comma 1 rispettano le prescrizioni 
 
 Ciascuna confezione unitaria e l'eventuale imballaggio esterno dei prodotti del tabacco non da fumo recano la seguente avvertenza relativa alla salute: «Questo prodotto del tabacco nuoce alla tua salute e provoca dipendenza.».
 
+2.
+                        
+                            
+                                L'avvertenza relativa alla salute di cui al comma 1 rispetta le prescrizioni di cui all'articolo 10, comma 4. Il testo delle avvertenze relative alla salute e' parallelo al testo principale sulla superficie riservata a tali avvertenze. Inoltre, l'avvertenza: 
+ 
+                            
+                            
+                                a)
+                                
+                                    figura sulle due superfici maggiori della confezione unitaria e dell'eventuale imballaggio esterno; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    copre il 30 per cento delle superfici della confezione unitaria e dell'eventuale imballaggio esterno.
+
 ## Art. 14. — Presentazione dei prodotti
+
+1.
+                        
+                            
+                                L'etichettatura delle confezioni unitarie e dell'eventuale imballaggio esterno e il prodotto del tabacco in se' non comportano alcun elemento o caratteristica che: 
+ 
+                            
+                            
+                                a)
+                                
+                                    promuova un prodotto o ne incoraggi il consumo dando un'impressione errata quanto alle caratteristiche, agli effetti sulla salute, ai rischi o alle emissioni; le etichette non contengono alcuna informazione riguardo al contenuto di nicotina, catrame o monossido di carbonio del prodotto del tabacco; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    lasci intendere, fermo restando quanto stabilito dall'articolo 20, che un determinato prodotto del tabacco sia meno nocivo di altri o miri a ridurre l'effetto di alcuni elementi nocivi del fumo o abbia proprieta' rivitalizzanti, energizzanti, curative, di ringiovanimento, naturali, biologiche o produca altri benefici per la salute o lo stile di vita; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    richiami un gusto, un odore, un aroma o altri additivi o la loro assenza; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    assomigli a un prodotto alimentare o cosmetico; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    suggerisca che un determinato prodotto del tabacco presenti una maggiore biodegradabilita' o altri vantaggi ambientali.
 
 Le confezioni unitarie e l'eventuale imballaggio esterno non suggeriscono vantaggi economici mediante inclusione di materiale stampato con buoni, offerta di distribuzione gratuita, di promozione due per uno o altre offerte analoghe.
 
@@ -235,6 +604,87 @@ Una confezione unitaria di sigarette puo' consistere di materiale duro o morbido
 Tracciabilita'
 
 Tutte le confezioni unitarie dei prodotti del tabacco sono contrassegnate da un identificativo univoco. Fermo restando quanto previsto dall'articolo 1, comma 5, del decreto legislativo 15 dicembre 2014, n. 188, per garantirne l'integrita', l'identificativo univoco e' stampato o apposto in modo inamovibile, e' indelebile e non e' dissimulato o troncato, ad esempio da bolli fiscali o da etichette del prezzo, ne' a seguito dell'apertura della confezione unitaria.
+
+2.
+                        
+                            
+                                L'identificativo univoco consente di stabilire quanto segue: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la data e il luogo di lavorazione; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'impianto di lavorazione; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il macchinario utilizzato per la lavorazione dei prodotti del tabacco; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    il turno di produzione oppure l'orario di lavorazione; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    la descrizione del prodotto; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    il mercato di destinazione per la vendita al dettaglio; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    l'itinerario previsto del trasporto; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    se del caso, l'importatore nell'Unione; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    l'effettivo itinerario del trasporto dal fabbricante fino alla prima rivendita, compresi i depositi utilizzati nonche' la data del trasporto, la destinazione del trasporto, il punto di partenza e il destinatario; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    l'identita' di tutti gli acquirenti dal fabbricante fino alla prima rivendita; 
+
+                                
+                            
+                            
+                                m)
+                                
+                                    la fattura, il numero dell'ordine e le registrazioni dei pagamenti di tutti gli acquirenti dal fabbricante fino alla prima rivendita.
 
 Le informazioni di cui alle lettere a), b), c), d), e), f), g) e, ove applicabile, h) del comma 2 fanno parte dell'identificativo unico.
 
@@ -281,6 +731,41 @@ Nel testo unico delle disposizioni legislative concernenti le imposte sulla prod
 
 Fermo restando quanto stabilito dall'articolo 39-terdecies del decreto legislativo 26 ottobre 1995, n. 504, e successive modificazioni, i fabbricanti e gli importatori dei prodotti del tabacco di nuova generazione notificano al Ministero della salute e al Ministero dell'economia e delle finanze ogni prodotto di tale tipo che intendano immettere sul mercato. La notifica e' presentata elettronicamente sei mesi prima della prevista immissione sul mercato ed e' corredata di una descrizione dettagliata del prodotto del tabacco di nuova generazione e delle istruzioni per l'uso e informazioni sugli ingredienti e sulle emissioni prescritte a norma dell'articolo 6. Per i prodotti del tabacco di nuova generazione immessi sul mercato precedentemente alla data del 20 maggio 2016, la notifica e' presentata entro sei mesi da tale data. Per ogni modifica sostanziale del prodotto e' presentata una nuova notifica.
 
+2.
+                        
+                            
+                                I fabbricanti e gli importatori che effettuano una notifica di un prodotto del tabacco di nuova generazione forniscono altresi': 
+ 
+                            
+                            
+                                a)
+                                
+                                    gli studi scientifici disponibili sulla tossicita', sulla capacita' di indurre dipendenza e sull'attrattivita' del prodotto del tabacco di nuova generazione, con particolare riguardo agli ingredienti e alle emissioni; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    gli studi disponibili, le relative sintesi e le ricerche di mercato sulle presenze dei vari gruppi di consumatori, compresi i giovani e gli attuali fumatori; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    altre informazioni disponibili pertinenti, riguardanti tra l'altro un'analisi rischi-benefici del prodotto, dei suoi effetti attesi in termini di disassuefazione dal consumo del tabacco, dei suoi effetti attesi in termini di iniziazione al consumo di tabacco e anticipazioni della percezione da parte del consumatore.
+
+3.
+                        
+                            
+                                I fabbricanti e gli importatori di prodotti del tabacco di nuova generazione trasmettono al Ministero della salute e al Ministero dell'economia e delle finanze tutte le informazioni nuove o aggiornate sugli studi, le ricerche e le altre informazioni di cui al comma 2, lettere da 
+                            
+                            
+                                a)
+                                
+                                    a c), potendone fornire evidenza pubblica solo successivamente alle valutazioni del Ministero della salute; restano comunque sempre consentite le attivita' di divulgazione per finalita' scientifica e di ricerca. Il Ministero della salute e il Ministero dell'economia e delle finanze possono richiedere ai fabbricanti o agli importatori di prodotti del tabacco di nuova generazione di effettuare ulteriori test o presentare ulteriori informazioni. I medesimi Ministeri mettono a disposizione della Commissione europea tutte le informazioni ricevute.
+
 Con decreto del Ministro della salute e dello sviluppo economico, di concerto con il Ministro dell'economia e delle finanze, entro sei mesi dal 20 maggio 2016, sono stabilite le procedure e modalita' attraverso le quali il Ministero della salute, sentito l'Istituto superiore di sanita', procede alle valutazioni delle informazioni e degli studi di cui al comma 2, al fine di riconoscere la riduzione di sostanze tossiche ovvero il potenziale rischio ridotto dei prodotti del tabacco di nuova generazione rispetto ai prodotti da combustione, a parita' di condizioni di utilizzo, nonche' le relative modalita' di etichettatura.
 
 I prodotti del tabacco di nuova generazione, immessi sul mercato, rispettano le prescrizioni del presente decreto relative ai prodotti del tabacco non da fumo ovvero ai prodotti del tabacco da fumo.
@@ -293,15 +778,259 @@ Le sigarette elettroniche e i contenitori di liquido di ricarica sono immessi su
 
 Nel rispetto della categoria stabilita dall'articolo 62-quater del decreto legislativo 26 ottobre 1995, n. 504, e successive modificazioni, i fabbricanti e gli importatori di sigarette elettroniche e di contenitori di liquido di ricarica effettuano una notifica al Ministero della salute e al Ministero dell'economia e delle finanze di eventuali prodotti di tale tipo che intendono immettere sul mercato. La notifica e' presentata elettronicamente sei mesi prima della prevista immissione sul mercato. Per sigarette elettroniche e contenitori di liquido di ricarica immessi sul mercato prima del 20 maggio 2016, la notifica e' presentata entro sei mesi da tale data. Per ogni modifica sostanziale del prodotto e' presentata una nuova notifica.
 
+3.
+                        
+                            
+                                A seconda che il prodotto sia una sigaretta elettronica o un contenitore di liquido di ricarica, la notifica contiene le seguenti informazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    denominazione e recapito del fabbricante, della persona giuridica o fisica responsabile all'interno dell'Unione europea e, se del caso, dell'importatore nell'Unione europea; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    elenco di tutti gli ingredienti contenuti nel prodotto e delle emissioni risultanti dal suo impiego, suddivisi per marca e tipo, compresi i relativi quantitativi; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    dati tossicologici riguardanti gli ingredienti e le emissioni del prodotto, anche quando riscaldati, con particolare attenzione ai loro effetti sulla salute dei consumatori quando inalati e tenendo conto, tra l'altro, degli effetti di dipendenza; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    informazioni sulle dosi e sull'assorbimento di nicotina in condizioni di consumo normali o ragionevolmente prevedibili; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    descrizione delle componenti del prodotto, compresi, se del caso, il meccanismo di apertura e di ricarica della sigaretta elettronica o del contenitore di liquido di ricarica; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    descrizione del processo di produzione, compreso se comporti la produzione in serie, e dichiarazione attestante che il processo di produzione assicura la conformita' ai requisiti del presente articolo; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    dichiarazione attestante la piena responsabilita' del fabbricante e dell'importatore riguardo alla qualita' e alla sicurezza del prodotto, quando e' immesso sul mercato e utilizzato in condizioni normali o ragionevolmente prevedibili.
+
 Con il decreto di cui all'articolo 30 e' stabilita una tariffa a carico dei fabbricanti e degli importatori di sigarette elettroniche e di contenitori di liquido di ricarica, per la ricezione, la memorizzazione, la gestione, l'analisi e la pubblicazione dei dati ad essi trasmessi a norma del presente articolo.
 
 I richiedenti provvedono al pagamento di quanto dovuto presentando la relativa attestazione contestualmente alla presentazione dell'istanza.
 
+6.
+                        
+                            
+                                Il liquido contenente nicotina contenuto nelle sigarette elettroniche ovvero nei contenitori di liquido di ricarica rispetta i seguenti requisiti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    e' immesso sul mercato solo: 
+ 1) in contenitori di liquido di ricarica appositi il cui volume non superi i 10 ml; 
+ 2) in sigarette elettroniche usa e getta con serbatoi di volume non superiore a 2 ml; 
+ 3) in cartucce monouso con cartucce di volume non superiore a 2 ml; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    presenta un contenuto di nicotina non superiore a 20 mg/ml; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    non deve contenere gli additivi elencati all'articolo 8, comma 3; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    deve essere prodotto utilizzando solo ingredienti di elevata purezza. Le sostanze diverse dagli ingredienti di cui al comma 3, lettera b), possono essere presenti nel liquido contenente nicotina solo a livello di tracce, se tali tracce sono tecnicamente inevitabili durante la produzione; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    ad eccezione della nicotina, deve contenere solo ingredienti che non presentano, anche se riscaldati, pericoli per la salute umana.
+
 Le sigarette elettroniche devono rilasciare le dosi di nicotina a livelli costanti in condizioni normali d'uso. Le sigarette elettroniche e i contenitori di liquido di ricarica devono essere a prova di bambino e manomissione, e devono essere protetti contro la rottura e le perdite e muniti di un meccanismo per una ricarica senza perdite.
+
+8.
+                        
+                            
+                                Le confezioni unitarie di sigarette elettroniche e di contenitori di liquido di ricarica sono corredate di un foglietto con: 
+ 
+                            
+                            
+                                a)
+                                
+                                    istruzioni per l'uso e la conservazione del prodotto, compreso il riferimento al fatto che l'uso del prodotto e' sconsigliato ai giovani e ai non fumatori; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    controindicazioni; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    avvertenze per specifici gruppi a rischio; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    informazioni su eventuali effetti nocivi; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    capacita' di indurre dipendenza e tossicita'; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    recapito del fabbricante o importatore e di una persona giuridica o fisica di contatto all'interno dell'Unione europea.
+
+9.
+                        
+                            
+                                Le confezioni unitarie e l'eventuale imballaggio esterno delle sigarette elettroniche e dei contenitori di liquido di ricarica: 
+ 
+                            
+                            
+                                a)
+                                
+                                    includono un elenco di tutti gli ingredienti contenuti nel prodotto in ordine decrescente di peso e un'indicazione del contenuto di nicotina del prodotto e della quantita' rilasciata per dose, il numero del lotto e una raccomandazione che inviti a tenere il prodotto fuori dalla portata dei bambini; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    fatte salve le disposizioni di cui alla lettera a), non includono elementi o caratteristiche di cui all'articolo 14, ad eccezione dell'articolo 14, comma 1, lettere a) e c), riguardante le informazioni sul contenuto di nicotina e sugli aromi; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    recano la seguente avvertenze relativa alla salute: «Prodotto contenente nicotina, sostanza che crea un'elevata dipendenza. Uso sconsigliato ai non fumatori.» 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    le avvertenze relative alla salute sono conformi ai requisiti specificati all'articolo 13, comma 2.
+
+10.
+                        
+                            
+                                Sono vietate: 
+ 
+                            
+                            
+                                a)
+                                
+                                    le comunicazioni commerciali nei servizi della societa' dell'informazione, sulla stampa e altre pubblicazioni stampate, aventi lo scopo o l'effetto diretto o indiretto di promuovere le sigarette elettroniche e i contenitori di liquido di ricarica, ad eccezione delle pubblicazioni destinate esclusivamente ai professionisti del commercio delle sigarette elettroniche e dei contenitori di liquido di ricarica e delle pubblicazioni stampate e edite in paesi terzi, se tali pubblicazioni non sono destinate principalmente al mercato dell'Unione europea; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le comunicazioni commerciali via radio aventi lo scopo o l'effetto diretto o indiretto di promuovere le sigarette elettroniche e i contenitori di liquido di ricarica; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    qualunque forma di contributo pubblico o privato a programmi radiofonici aventi lo scopo o l'effetto diretto o indiretto di promuovere le sigarette elettroniche e i contenitori di liquido di ricarica; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    qualunque forma di contributo pubblico o privato a eventi, attivita' o persone singole aventi lo scopo o l'effetto diretto o indiretto di promuovere le sigarette elettroniche e i contenitori di liquido di ricarica e a cui partecipino o che si svolgano in vari Stati membri o che comunque abbiano ripercussioni transfrontaliere; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    per le sigarette elettroniche e i contenitori di liquido di ricarica le comunicazioni commerciali audiovisive a cui si applica la direttiva 2010/13/UE del Parlamento europeo e del Consiglio.
 
 E' vietata la vendita a distanza, anche transfrontaliera, di prodotti da inalazione senza combustione costituiti da sostanze liquide, contenenti o meno nicotina, ai consumatori che acquistano nel territorio dello Stato. La vendita a distanza dei prodotti ((non contenenti nicotina)) indicati al comma 1-bis dell'articolo 62-quater del decreto legislativo 26 ottobre 1995, n. 504, effettuata nel territorio nazionale e' consentita, secondo le modalita' definite con determinazione del direttore dell'Agenzia delle dogane e dei monopoli, solo ai soggetti che siano stati autorizzati alla istituzione e alla gestione di un deposito di prodotti liquidi da inalazione ai sensi dell'articolo 62-quater, comma 2, del predetto decreto legislativo, e delle relative norme di attuazione. Restano comunque fermi i divieti di cui all'articolo 25 del testo unico di cui al regio decreto 24 dicembre 1934, n. 2316, che sono estesi, in via precauzionale, anche ai prodotti da inalazione senza combustione costituiti da sostanze liquide non contenenti nicotina. ((7))
 
 In caso di rilevazione di offerta di prodotti liquidi da inalazione in violazione del comma 11, fermi restando i poteri di polizia giudiziaria ove il fatto costituisca reato, si applica, a cura dell'Agenzia delle dogane e dei monopoli, l'articolo 102 del decreto-legge 14 agosto 2020, n. 104, convertito, con modificazioni, dalla legge 13 ottobre 2020, n. 126.
+
+13.
+                        
+                            
+                                I fabbricanti e gli importatori di sigarette elettroniche e di contenitori di liquido di ricarica presentano annualmente al Ministero della salute ed al Ministero dell'economia e delle finanze: 
+ 
+                            
+                            
+                                a)
+                                
+                                    dati completi sul volume delle vendite, suddiviso per marca e tipo del prodotto; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    informazioni sulle preferenze dei vari gruppi di consumatori, compresi i giovani, i non fumatori e i principali tipi di utilizzatori attuali; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    modo di vendita dei prodotti; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    sintesi di eventuali indagini di mercato svolte riguardo a quanto sopra, con la relativa traduzione inglese.
 
 Il Ministero della salute monitora l'andamento del mercato relativamente alle sigarette elettroniche e ai contenitori di liquido di ricarica, tra cui eventuali elementi di prova che il loro uso costituisce un passaggio verso la dipendenza dalla nicotina e, in ultima istanza, il consumo di tabacco tradizionale tra i giovani e i non fumatori.
 
@@ -388,6 +1117,49 @@ Le autorita' competenti responsabili dell'attuazione e dell'esecuzione degli obb
 ## Art. 28. — Disposizioni transitorie e finali
 
 Le disposizioni del presente decreto si applicano a decorrere dal 20 maggio 2016, salvo quanto diversamente ivi previsto.
+
+2.
+                        
+                            
+                                E' autorizzata fino al 20 maggio 2017 l'immissione sul mercato dei seguenti prodotti non conformi al presente decreto: 
+ 
+                            
+                            
+                                a)
+                                
+                                    prodotti del tabacco fabbricati o immessi in libera pratica ed etichettati in conformita' della direttiva 2001/37/CE prima del 20 maggio 2016, compresi i prodotti di cui all'articolo 12 in ragione dei tempi di stagionatura e produzione; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    sigarette elettroniche o contenitori di liquido di ricarica fabbricati o immessi in libera pratica prima del 20 novembre 2016; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    prodotti da fumo a base di erbe fabbricati o immessi in libera pratica prima del 20 maggio 2016.
+
+3.
+                        
+                            
+                                I prodotti del tabacco non conformi eventualmente giacenti presso le rivendite dopo il 20 maggio 2017 sono equiparati ai prodotti con difetti di condizionamento e confezionamento all'origine: 
+ 
+                            
+                            
+                                a)
+                                
+                                    in considerazione dell'articolazione del sistema distributivo dei tabacchi lavorati, entro il termine del 20 agosto 2016 detti prodotti possono essere trasferiti dal fabbricante o importatore al depositario autorizzato; entro il termine del 20 ottobre 2016 detti prodotti possono essere venduti dal depositario autorizzato alle rivendite; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    per i soli prodotti del tabacco da fumo diverso dalle sigarette, dal tabacco da arrotolare e dal tabacco per pipa ad acqua, in considerazione dei tempi di stagionatura non si applicano i termini di cui alla lettera a), fermo restando il termine di cui al comma 2, alinea.
 
 ## Art. 29. — Abrogazione
 

@@ -7,8 +7,8 @@ urn: urn:nir:ministero.turismo:decreto:2021-09-10;160
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:40Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -47,6 +47,24 @@ Per i voucher emessi ai sensi dell'articolo 88-bis del decreto-legge n. 18 del 2
 Sono prese in considerazione e valutate esclusivamente le domande pervenute entro le ore 12,00 del 31 dicembre 2021.
 
 Nella domanda i consumatori di cui al comma 2 indicano l'atto con cui e' dichiarato il fallimento o e' altrimenti accertato lo stato di insolvenza e autocertificano, ai sensi dell'articolo 46 del decreto del Presidente della Repubblica 28 dicembre 2000, n. 445, la propria data e il luogo di nascita, la residenza, la cittadinanza, il numero del codice fiscale ed, eventualmente, della partita IVA, il fatto di non trovarsi in stato di liquidazione o di fallimento e di non aver presentato domanda di concordato. I consumatori autocertificano, inoltre, ai sensi dell'articolo 47 del decreto del Presidente della Repubblica n. 445 del 2000, il mancato utilizzo o il mancato rimborso del voucher.
+
+5.
+                    
+                        
+                            I consumatori allegano alla domanda: 
+ 
+                        
+                        
+                            a)
+                            
+                                i voucher scaduti emessi in loro favore ai sensi dell'articolo 88-bis del decreto-legge n. 18 del 2020, da operatori turistici o vettori; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                la richiesta di rimborso inoltrata agli operatori turistici o ai vettori decorsi diciotto mesi dall'emissione oppure decorsi dodici mesi dall'emissione per i voucher relativi ai contratti di trasporto aereo, ferroviario, marittimo, nelle acque interne o terrestre.
 
 ## Art. 3. — Misura ed erogazione dell'indennizzo
 

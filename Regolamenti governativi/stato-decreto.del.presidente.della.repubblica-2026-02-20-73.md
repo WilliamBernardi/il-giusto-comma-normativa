@@ -7,8 +7,8 @@ urn: urn:nir:stato:decreto.del.presidente.della.repubblica:2026-02-20;73
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti governativi
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:17Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -27,6 +27,24 @@ Acquisito il parere delle competenti Commissioni parlamentari della Camera dei d
 Sulla proposta dei Ministri della cultura e del turismo;
 
 ## Art. 1. — Modifiche al decreto del Presidente della Repubblica 13 febbraio 2017, n. 31
+
+1.
+                    
+                        
+                            Al decreto del Presidente della Repubblica 13 febbraio 2017, n. 31, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                alla lettera A. 27 dell'allegato A sono aggiunte, in fine, le seguenti parole: «collocazione da parte del gestore o di terzi, anche in via continuativa, all'interno di strutture turistico-ricettive all'aperto munite di autorizzazione paesaggistica inerente specificamente anche alle aree attrezzate dotate di sistemi di utenza elettrica, idrica e fognaria, ivi insistenti, di mezzi mobili di pernottamento, con eventuali pertinenze e accessori, quali caravan, case mobili per vacanze e autocaravan con le caratteristiche dei veicoli ricreazionali definite dalle norme UNI EN 13878: 2007 e successive modifiche e aggiornamenti, aventi i requisiti per la circolazione o il trasporto su strada, dotati di meccanismi di rotazione in funzione, con caratteristiche dimensionali e tecnico-costruttive conformi alla normativa regionale di settore ove esistente, che non abbiano alcun collegamento di natura permanente al suolo, siano dotati di sistemi di aggancio alle reti tecnologiche facilmente rimuovibili e siano rimossi alla cessazione definitiva dell'azienda turistico-ricettiva senza provocare mutamenti dell'aspetto esteriore dei luoghi;»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                alla lettera B. 26 dell'allegato B sono aggiunte, in fine, le seguenti parole: «interventi sulle strutture turistico-ricettive all'aperto, munite di autorizzazione paesaggistica, che comportino la realizzazione di infrastrutture a rete e modifiche del numero o della collocazione delle aree attrezzate dotate di sistemi di utenza elettrica, idrica e fognaria, senza realizzazione di nuove costruzioni o aumento della capacita' ricettiva;».
 
 ## Art. 2. — Clausola di invarianza finanziaria
 

@@ -8,8 +8,8 @@ codice_redazionale: 003G0142
 vigente: true
 source: normattiva-opendata
 collection: DPR
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:47:50Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -31,11 +31,147 @@ All'articolo l del decreto del Presidente della Repubblica, n. 357 del 1997 e' a
 ## Art. 2. — Modifiche all'articolo 2 del decreto del Presidente
  della Repubblica 8 settembre 1997, n. 357
 
+1.
+                    
+                        
+                            All'articolo 2, comma 1, del decreto del Presidente della Repubblica n. 357 del 1997 sono apportate le seguenti modificazioni:
+ 
+                        
+                        
+                            a)
+                            
+                                alla lettera c), numero 2), la parola: «ristretta» e' sostituita dalla seguente: «ridotta»;
+
+                            
+                        
+                        
+                            b)
+                            
+                                alla lettera m) dopo le parole: «un sito che» sono aggiunte le seguenti: «e' stato inserito nella lista dei siti selezionati dalla Commissione europea e che»;
+
+                            
+                        
+                        
+                            c)
+                            
+                                dopo la lettera m) e' inserita la seguente: «m-bis) proposto sito di importanza comunitaria (pSic): un sito individuato dalle regioni e province autonome, trasmesso dal Ministero dell'ambiente e della tutela del territorio alla Commissione europea, ma non ancora inserito negli elenchi definitivi dei siti selezionati dalla Commissione europea;»;
+
+                            
+                        
+                        
+                            d)
+                            
+                                dopo la lettera o) sono inserite le seguenti:
+ «o-bis) specie: insieme di individui (o di popolazioni) attualmente o potenzialmente interfecondi, illimitatamente ed in natura, isolato riproduttivamente da altre specie;
+ o-ter) popolazione: insieme di individui di una stessa specie che vivono in una determinata area geografica;
+ o-quater) ibrido: individuo risultante dall'incrocio di genitori appartenenti a specie diverse. Il termine viene correntemente usato anche per gli individui risultanti da incroci tra diverse sottospecie (razze geografiche) della stessa specie o di specie selvatiche con le razze domestiche da esse originate;
+ o-quinquies) autoctona: popolazione o specie che per motivi storico-ecologici e' indigena del territorio italiano;
+ o-sexies) non autoctona: popolazione o specie non facente parte originariamente della fauna indigena italiana»;
+
+                            
+                        
+                        
+                            e)
+                            
+                                la lettera r) e' sostituita dalla seguente: «r) introduzione: immissione di un esemplare animale o vegetale in un territorio posto al di fuori della sua area di distribuzione naturale».
+
 ## Art. 3. — Modifiche all'articolo 3 del decreto del Presidente
  della Repubblica 8 settembre 1997, n. 357
 
+1.
+                    
+                        
+                            All'articolo 3 del decreto del Presidente della Repubblica n. 357 del 1997 sono apportate le seguenti modificazioni:
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 1 le parole da: «con proprio procedimento» fino a: «per costituire la» sono sostituite dalle seguenti parole: «i siti in cui si trovano tipi di habitat elencati nell'allegato A ed habitat di specie di cui all'allegato B e ne danno comunicazione al Ministero dell'ambiente e della tutela del territorio ai fini della formulazione alla Commissione europea, da parte dello stesso Ministero, dell'elenco dei proposti siti di importanza comunitaria (pSic) per la costituzione della»;
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 2 dopo le parole: «Ministro dell'ambiente» sono inserite le seguenti: «e della tutela del territorio»;
+
+                            
+                        
+                        
+                            c)
+                            
+                                al comma 2 le parole da: «in attuazione del» fino a: «con proprio decreto» sono sostituite dalle seguenti: «designa, con proprio decreto, adottato d'intesa con ciascuna regione interessata»;
+
+                            
+                        
+                        
+                            d)
+                            
+                                al comma 3 le parole: «Il Ministro dell'ambiente» sono sostituite dalle seguenti: «Il Ministero dell'ambiente e della tutela del territorio»;
+
+                            
+                        
+                        
+                            e)
+                            
+                                al comma 3 le parole: «nell'ambito» sono sostituite dalle seguenti: «, anche finalizzandole alla redazione»;
+
+                            
+                        
+                        
+                            f)
+                            
+                                al comma 4 dopo le parole: «Ministro dell'ambiente» sono aggiunte le seguenti: «e della tutela del territorio»;
+
+                            
+                        
+                        
+                            g)
+                            
+                                al comma 4 sono aggiunte, in fine, le seguenti parole: «da attuare.»;
+
+                            
+                        
+                        
+                            h)
+                            
+                                dopo il comma 4 e' aggiunto il seguente: «4-bis. Al fine di garantire la funzionale attuazione della direttiva 92/43/CEE e l'aggiornamento dei dati, anche in relazione alle modifiche degli allegati previste dall'articolo 19 della direttiva medesima, le regioni e le province autonome di Trento e di Bolzano, sulla base delle azioni di monitoraggio di cui all'articolo 7, effettuano una valutazione periodica dell'idoneita' dei siti alla attuazione degli obiettivi della direttiva in seguito alla quale possono proporre al Ministero dell'ambiente e della tutela del territorio un aggiornamento dell'elenco degli stessi siti, della loro delimitazione e dei contenuti della relativa scheda informativa. Il Ministero dell'ambiente e della tutela del territorio trasmette tale proposta alla Commissione europea per la valutazione di cui all'articolo 9 della citata direttiva.».
+
 ## Art. 4. — Modifiche all'articolo 4 del decreto del Presidente
  della Repubblica 8 settembre 1997, n. 357
+
+1.
+                    
+                        
+                            All'articolo 4 del decreto del Presidente della Repubblica n. 357 del 1997 sono apportate le seguenti modificazioni:
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 1 le parole da: «adottano» fino a: «Commissione europea, le» sono sostituite dalle seguenti: «assicurano per i proposti siti di importanza comunitaria»;
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 2 dopo le parole: «di Trento e di Bolzano,» sono inserite le seguenti: «, sulla base di linee guida per la gestione delle aree della rete "Natura 2000", da adottarsi con decreto del Ministero dell'ambiente e della tutela del territorio, sentita la Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome di Trento e di Bolzano,»;
+
+                            
+                        
+                        
+                            c)
+                            
+                                dopo il comma 2 e' aggiunto il seguente: «2-bis. Le misure di cui al comma 1 rimangono in vigore nelle zone speciali di conservazione fino all'adozione delle misure previste al comma 2.»;
+
+                            
+                        
+                        
+                            d)
+                            
+                                il comma 3 e' sostituito dal seguente: «3. Qualora le zone speciali di conservazione ricadano all'interno di aree naturali protette, si applicano le misure di conservazione per queste previste dalla normativa vigente. Per la porzione ricadente all'esterno del perimetro dell'area naturale protetta la regione o la provincia autonoma adotta, sentiti anche gli enti locali interessati e il soggetto gestore dell'area protetta, le opportune misure di conservazione e le norme di gestione.».
 
 ## Art. 5. — Inserimento dell'articolo 4-bis nel decreto del
  Presidente della Repubblica 8 settembre 1997, n. 357
@@ -81,8 +217,44 @@ All'articolo 8, comma 5, del decreto del Presidente della Repubblica n. 357 del 
 ## Art. 10. — Modifiche all'articolo 10 del decreto del Presidente
  della Repubblica 8 settembre 1997, n. 357
 
+1.
+                    
+                        
+                            All'articolo 10 del decreto del Presidente della Repubblica n. 357 del 1997 sono apportate le seguenti modificazioni:
+ 
+                        
+                        
+                            a)
+                            
+                                il comma 1 e' sostituito dal seguente: «1. Qualora risulti necessario sulla base dei dati di monitoraggio, le regioni e gli Enti parco nazionali stabiliscono, in conformita' alle linee guida di cui all'articolo 7, comma 1, adeguate misure per rendere il prelievo nell'ambiente naturale degli esemplari delle specie di fauna e flora selvatiche di cui all'allegato E, nonche' il loro sfruttamento, compatibile con il mantenimento delle suddette specie in uno stato di conservazione soddisfacente.»;
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 2 le parole da: «, in particolare» fino a: «di cui all'articolo 7» sono soppresse.
+
 ## Art. 11. — Modifica all'articolo 11 del decreto del Presidente
  della Repubblica 8 settembre 1997, n. 357
+
+1.
+                    
+                        
+                            All'articolo 11 del decreto del Presidente della Repubblica n. 357 del 1997 sono apportate le seguenti modificazioni:
+ 
+                        
+                        
+                            a)
+                            
+                                ai commi l e 3 dopo le parole: «Ministero dell'ambiente» sono inserite le seguenti: «e della tutela del territorio»;
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 1, lettera d), dopo le parole: «per operazioni» sono soppresse le seguenti: «di riproduzione».
 
 ## Art. 12. — Modifiche all'articolo 12 del decreto del Presidente
  della Repubblica 8 settembre 1997, n. 357
@@ -95,8 +267,72 @@ L'articolo 12 del decreto del Presidente della Repubblica n. 357 del 1997 e' sos
 ## Art. 13. — Modifiche all'articolo 13 del decreto del Presidente
  della Repubblica 8 settembre 1997, n. 357
 
+1.
+                    
+                        
+                            All'articolo 13 del decreto del Presidente della Repubblica n. 357 del 1997 sono apportate le seguenti modificazioni:
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 1 dopo le parole: «Ministero dell'ambiente» sono inserite le seguenti: «e della tutela del territorio»;
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 1 sono soppresse, in fine, le seguenti parole: «di cui all'articolo 7»;
+
+                            
+                        
+                        
+                            c)
+                            
+                                al comma 2 dopo le parole: «Ministero dell'ambiente» sono inserite le seguenti: «e della tutela del territorio» e sono soppresse le parole: «un rapporto» e dopo le parole: «del presente regolamento» sono inserite le seguenti: «un rapporto»;
+
+                            
+                        
+                        
+                            d)
+                            
+                                al comma 2, in fine, le parole da: «sulle attivita' di valutazione» sino alla fine sono soppresse e sono sostituite dalle seguenti: «, secondo il modello definito dalla Commissione europea, contenente le informazioni di cui al comma 1, nonche' informazioni sulle eventuali misure compensative adottate».
+
 ## Art. 14. — Modifiche all'articolo 14 del decreto del Presidente
  della Repubblica 8 settembre 1997, n. 357
+
+1.
+                    
+                        
+                            All'articolo 14 del decreto del Presidente della Repubblica n. 357 del 1997 sono apportate le seguenti modificazioni:
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 1 dopo le parole: «Ministero dell'ambiente» sono inserite le seguenti: «e della tutela del territorio»;
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 1, in fine, le parole: «per il monitoraggio di cui all'articolo 7» sono soppresse e sono sostituite dalle seguenti: «per la migliore attuazione del monitoraggio»;
+
+                            
+                        
+                        
+                            c)
+                            
+                                al comma 3 dopo le parole: «Ministero dell'ambiente» sono inserite le seguenti: «e della tutela del territorio»;
+
+                            
+                        
+                        
+                            d)
+                            
+                                al comma 3, le parole da: «tutelare le specie» fino alla fine del comma sono soppresse e sono sostituite dalle seguenti: «tutela delle specie di flora e di fauna selvatiche e di conservazione di habitat di cui al presente regolamento».
 
 ## Art. 15. — Modifiche all'articolo 15 del decreto del Presidente
  della Repubblica 8 settembre 1997, n. 357
@@ -106,4 +342,22 @@ L'articolo 15 del decreto del Presidente della Repubblica n. 357 del 1997 e' sos
 
 ## Art. 16. — Modifiche all'articolo 16 del decreto del Presidente
  della Repubblica 8 settembre 1997, n. 357
+
+1.
+                    
+                        
+                            All'articolo 16 del decreto del Presidente della Repubblica n. 357 del 1997 sono apportate le seguenti modificazioni:
+ 
+                        
+                        
+                            a)
+                            
+                                il comma 1 e' soppresso;
+
+                            
+                        
+                        
+                            b)
+                            
+                                il comma 2 e' sostituito dal seguente: «1. Il Ministro dell'ambiente e della tutela del territorio, in conformita' alle variazioni apportate alla direttiva in sede comunitaria, modifica con proprio decreto gli allegati al presente regolamento.».
 

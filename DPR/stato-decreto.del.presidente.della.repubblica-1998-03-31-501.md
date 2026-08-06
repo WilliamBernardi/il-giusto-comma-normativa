@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: DPR
 vigenza_date: 2004-01-01
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:47:46Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -30,6 +30,31 @@ Sulla proposta del Presidente del Consiglio dei Ministri, di concerto con i Mini
 
 ## Art. 1. — Definizioni
 
+1.
+                        
+                            
+                                Ai fini del presente regolamento si applicano le definizioni elencate nell'articolo 1 della legge 31 dicembre 1996, n. 675, di seguito denominata "legge". Ai medesimi fini, si intende, altresi':
+ 
+                            
+                            
+                                a)
+                                
+                                    per "presidente", il presidente del Garante per la protezione dei dati personali;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    per "componenti", i componenti del Garante per la protezione dei dati personali;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    per "Ufficio", l'Ufficio del Garante per la protezione dei dati personali.
+
 ## Art. 2. — G a r a n t e
 
 1. Il Garante:
@@ -41,6 +66,38 @@ Sulla proposta del Presidente del Consiglio dei Ministri, di concerto con i Mini
 ## Art. 3. — Presidente e componenti
 
 Il presidente e' eletto dai componenti a scrutinio segreto con il voto di almeno tre componenti. Se tale maggioranza non e' raggiunta dopo la terza votazione, e' eletto presidente il componente che consegue il maggior numero di voti e, a parita' di voti, il piu' anziano di eta'.
+
+2.
+                        
+                            
+                                Il presidente rappresenta il Garante, e sulla base degli indirizzi e dei criteri generali di cui all'articolo 2, comma 1, lettera a):
+ 
+                            
+                            
+                                a)
+                                
+                                    designa i componenti preposti alla cura di singole questioni;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    convoca le riunioni del Garante, ne stabilisce l'ordine del giorno, designa i relatori e dirige i lavori;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    coordina i rapporti del Garante con il Parlamento e con gli altri organi costituzionali o di rilievo costituzionale, e sovraintende alle relazioni con le autorita' indipendenti e di vigilanza, con le pubbliche amministrazioni, con le autorita' di controllo degli altri Paesi, con gli organi dell'Unione europea e del Consiglio d'Europa e con altri organismi internazionali;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    promuove e resiste alle liti e ha il potere di conciliare e di transigere.
 
 Il Garante nomina un vicepresidente, che assume le funzioni del presidente in caso di sua assenza o impedimento.
 
@@ -98,9 +155,73 @@ Al presidente ed ai componenti compete, qualora non siano residenti a Roma, il r
 
 All'Ufficio e' preposto il segretario generale che e' nominato per un quadriennio. La nomina puo' essere rinnovata alla scadenza.
 
+2.
+                        
+                            
+                                Il segretario generale sovrintende al funzionamento delle strutture e vigila affinche' l'attivita' dell'Ufficio sia svolta secondo gli obiettivi, i programmi, le priorita' e le direttive generali per l'azione amministrativa e per la gestione definiti dal Garante. A tal fine:
+ 
+                            
+                            
+                                a)
+                                
+                                    verifica la completezza della documentazione predisposta per le riunioni del Garante e formula le osservazioni dell'Ufficio;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    cura l'esecuzione delle deliberazioni del Garante;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    coordina l'attivita' dei responsabili delle strutture e puo' sostituirsi ad essi in caso di inottemperanza alle direttive impartite; vigila sull'osservanza delle norme e delle disposizioni di servizio ad esso applicabili; promuove riunioni periodiche del personale, ai fini di una reciproca informativa circa il lavoro svolto;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    esercita, secondo i criteri e i limiti fissati nel presente regolamento, i poteri di spesa nell'ambito degli stanziamenti di bilancio;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    coordina la partecipazione del personale dell'Ufficio a gruppi di lavoro e a comitati, adotta gli atti opportuni per assicurare che l'Ufficio operi, di regola, mediante strumenti informatici e telematici.
+
 ## Art. 8. — Organizzazione interna
 
+1.
+                        
+                            
+                                (Precedono le parole "Con il regolamento interno", non ammesse al "Visto" della Corte dei conti) il Garante definisce l'organizzazione dell'Ufficio secondo i seguenti criteri:
+ 
+                            
+                            
+                                a)
+                                
+                                    determinare le competenze di ciascuna struttura sulla base della omogeneita' e della organicita' delle funzioni;
 
+                                
+                            
+                            
+                                b)
+                                
+                                    garantire la speditezza della azione amministrativa, evitando la frammentazione di procedure e favorendo il coordinamento delle strutture;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    organizzare le strutture secondo criteri di flessibilita' per consentire sia lo svolgimento dei compiti permanenti, sia il perseguimento di specifici obiettivi anche mediante la utilizzazione di professionalita' esterne nei modi di cui all'articolo 33, comma 4, della legge.
+
+(Comma non ammesso al "Visto" della Corte dei conti).
 
 ## Art. 9. — Articolo non ammesso al "Visto" della Corte dei conti
 
@@ -227,6 +348,24 @@ Nessun pagamento puo' essere effettuato con il fondo a disposizione senza il vis
 
 L'economocassiere e' responsabile delle operazioni di cassa e accerta la regolarita' formale delle relative determinazioni di pagamento; e' altresi' responsabile del numerario e di ogni altro valore affidatogli.
 
+2.
+                        
+                            
+                                L'economocassiere tiene:
+ 
+                            
+                            
+                                a)
+                                
+                                    un registro di cassa per le operazioni di entrata e di uscita dal quale risultino, giornalmente, il fondo di cassa iniziale, i pagamenti effettuati nella giornata e il fondo di cassa esistente alla chiusura della cassa;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    un registro dei valori e dei titoli in deposito.
+
 Il denaro e i valori sono custoditi in cassaforte. Non possono essere depositati in cassaforte denaro, titoli ed oggetti di valore che non siano di pertinenza degli uffici.
 
 ## Art. 31. — Situazione di cassa
@@ -241,7 +380,159 @@ Dei beni acquistati o dati in uso al Garante sono redatti appositi inventari, ne
 
 L'economocassiere svolge le funzioni di consegnatario e provvede direttamente alla manutenzione dei beni, degli arredamenti e dei materiali in dotazione all'Ufficio; vigila, altresi', sulla regolare esecuzione dei servizi appaltati.
 
+2.
+                        
+                            
+                                Ai fini di cui al comma 1, l'economocassiere tiene:
+ 
+                            
+                            
+                                a)
+                                
+                                    un registro d'inventario per i mobili e le attrezzature in dotazione all'Ufficio;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    un registro di carico e scarico per il materiale di facile consumo.
+
 ## Art. 34. — Elenco indicativo delle spese di funzionamento
+
+1.
+                        
+                            
+                                Sul fondo per le spese di funzionamento del Garante gravano le seguenti spese:
+ 
+                            
+                            
+                                a)
+                                
+                                    le indennita' spettanti al presidente e ai componenti, nonche' al segretario generale;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    gli stipendi, le indennita' e gli altri assegni fissi spettanti al personale in servizio presso l'Ufficio;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    i compensi per il lavoro straordinario e quelli incentivanti la produttivita';
+
+                                
+                            
+                            
+                                d)
+                                
+                                    i compensi ai consulenti e alle societa' di consulenza, (seguono alcune parole non ammesse al "Visto" della Corte dei conti);
+
+                                
+                            
+                            
+                                e)
+                                
+                                    le indennita' e i rimborsispese per missioni svolte anche dal presidente e dai componenti nel territorio nazionale e all'estero;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    le spese postali e per servizi telegrafici, telefonici e telematici, nonche' le altre spese inerenti al servizio di corrispondenza;
+
+                                
+                            
+                            
+                                g)
+                                
+                                    le spese di locazione, manutenzione, adattamento dei locali e dei relativi impianti, nonche' per l'acquisto, il noleggio e la manutenzione di autoveicoli, carburante e lubrificante;
+
+                                
+                            
+                            
+                                h)
+                                
+                                    le spese per l'acquisto e la manutenzione di mobili ed arredi, per l'acquisto, il noleggio e la manutenzione di macchine per scrivere e per calcolo, di apparecchiature telefoniche e televisive, di registrazione del suono e delle immagini, di fotoriproduzione e di strumenti elettronici o comunque automatizzati;
+
+                                
+                            
+                            
+                                i)
+                                
+                                    le spese per l'acquisto di libri, giornali, riviste ed altre pubblicazioni, nonche' per la pubblicazione del Bollettino di cui all'articolo 21;
+
+                                
+                            
+                            
+                                l)
+                                
+                                    le spese relative all'organizzazione o alla partecipazione ad incontri di studio, convegni e seminari di aggiornamento professionale, congressi, mostre ed altre manifestazioni;
+
+                                
+                            
+                            
+                                m)
+                                
+                                    le spese di trasporto, imballaggio e facchinaggio;
+
+                                
+                            
+                            
+                                n)
+                                
+                                    le spese casuali;
+
+                                
+                            
+                            
+                                o)
+                                
+                                    le spese di rappresentanza, da effettuarsi sulla base dei criteri e delle istruzioni impartite dal Garante;
+
+                                
+                            
+                            
+                                p)
+                                
+                                    le spese per interventi assistenziali nei confronti del personale;
+
+                                
+                            
+                            
+                                q)
+                                
+                                    ogni altra spesa necessaria al funzionamento dell'Ufficio.
+
+2.
+                        
+                            
+                                Per spese di rappresentanza, di cui al comma 1, lettera o), si intendono quelle finalizzate a soddisfare le esigenze del Garante e dell'Ufficio di manifestarsi all'esterno e di intrattenere pubbliche relazioni con altri soggetti nell'ambito dei propri fini istituzionali. Sono comunque da considerarsi tali:
+ 
+                            
+                            
+                                a)
+                                
+                                    piccoli doni, quali targhe, medaglie, libri, oggetti simbolici a personalita' italiane e straniere o a componenti di delegazioni straniere in visita al Garante, oppure in occasione di visite all'estero compiute da rappresentanti o delegazioni ufficiali del Garante e dell'Ufficio;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    omaggi floreali o necrologi;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    consumazioni in occasione di incontri di lavoro con personalita' estranee al Garante o in occasione di visite ufficiali presso il Garante di componenti di missioni di studio italiani e stranieri.
 
 Per le spese di cui al comma 1, relative all'acquisto di beni e servizi, non e' richiesta l'autorizzazione del Provveditorato generale dello Stato.
 
@@ -302,7 +593,99 @@ Per lo svolgimento della procedura ristretta e' necessaria la presenza di almeno
 
 ## Art. 40. — Criteri di aggiudicazione
 
+1.
+                        
+                            
+                                Nel bando di gara sono specificati i criteri di aggiudicazione seguiti dal Garante e che sono, alternativamente, i seguenti:
+ 
+                            
+                            
+                                a)
+                                
+                                    in caso di pubblico incanto, al prezzo piu' alto se si tratta di contratti attivi, ovvero al prezzo piu' basso se si tratta di contratti passivi;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    in caso di licitazione privata, al prezzo piu' basso qualora il capitolato tecnico sia molto particolareggiato e, comunque, tale da identificare inequivocabilmente la prestazione che il Garante intende ricevere;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    in caso di licitazione privata e di appalto concorso, all'offerta piu' vantaggiosa sotto il profilo tecnicoeconomico, qualora nel capitolato tecnico siano contenute solo prescrizioni di massima e si ritenga conveniente, quindi, avvalersi della collaborazione e dell'apporto di competenza tecnica ed esperienza specifica da parte dell'offerente per l'elaborazione del progetto definitivo. In tal caso nel bando di gara sono indicati, in ordine decrescente di importanza, gli elementi presi in considerazione per la valutazione comparativa delle offerte.
+
 ## Art. 41. — Procedura negoziata
+
+1.
+                        
+                            
+                                E' ammessa la procedura negoziata (trattativa privata) nei seguenti casi:
+ 
+                            
+                            
+                                a)
+                                
+                                    quando, a seguito di esperimento di gara, per qualsiasi motivo, l'aggiudicazione non abbia avuto luogo;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    per la fornitura di beni, la prestazione di servizi, ivi compresi quelli del settore informatico, e l'esecuzione di lavori che una sola impresa puo' fornire od eseguire con i requisiti tecnici ed il grado di perfezione richiesti, nonche' quando l'acquisto riguardi beni la cui produzione e' garantita da privativa industriale;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    per la locazione d'immobili;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    quando l'urgenza, adeguatamente motivata, dei lavori, degli acquisti e delle forniture dei beni e servizi dovuta a circostanze imprevedibili, o quando la particolare natura e le caratteristiche dell'oggetto e delle prestazioni anche in relazione ad esigenze di sicurezza o di segretezza dei lavori, ovvero quando la necessita' di far eseguire le prestazioni a spese e a rischio degli imprenditori inadempienti, non consentano l'indugio della gara;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    per lavori complementari non considerati nel contratto originario o che siano resi necessari da circostanze imprevedibili all'atto dell'affidamento del contratto, a condizione che siano affidati allo stesso contraente, non siano tecnicamente o economicamente separabili dalla prestazione principale, ovvero, benche' separabili, siano strettamente necessari per il completamento dei lavori o della fornitura originaria e il loro ammontare non superi il 50% dell'importo originario;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    per l'affidamento al medesimo contraente di forniture destinate al completamento, al rinnovo parziale, o all'ampliamento di quelle esistenti, qualora il ricorso ad altri fornitori costringa ad acquistare materiale di tecnica differente, il cui impiego o la cui manutenzione comporti notevoli difficolta' o incompatibilita' tecniche. La durata di tali contratti non puo' superare, come norma generale, i tre anni;
+
+                                
+                            
+                            
+                                g)
+                                
+                                    per l'acquisizione di beni o prodotti soggetti a prezzi amministrati o sorvegliati;
+
+                                
+                            
+                            
+                                h)
+                                
+                                    quando trattasi di contratti di importo non superiore a 200 milioni di lire, con esclusione dei casi in cui detti contratti costituiscano ripetizione, frazionamento o completamento di precedenti lavori o forniture;
+
+                                
+                            
+                            
+                                i)
+                                
+                                    quando trattasi di contratti di assicurazione.
 
 Nei casi indicati alle lettere a), d), h) ed i) del comma 1 devono essere interpellate piu' imprese o ditte, persone od enti e, comunque, non inferiori a tre.
 

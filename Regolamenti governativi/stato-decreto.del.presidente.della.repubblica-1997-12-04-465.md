@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Regolamenti governativi
 vigenza_date: 2009-11-15
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:09Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -50,6 +50,24 @@ L'Agenzia si articola in sezioni regionali ubicate nei comuni capoluogo delle re
 
 ## Art. 3. — Organi dell'Agenzia: composizione e durata
 
+1.
+                        
+                            
+                                Organi dell'Agenzia e delle sezioni regionali sono:
+ 
+                            
+                            
+                                a)
+                                
+                                    il consiglio di amministrazione;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il Presidente.
+
 Il consiglio nazionale di amministrazione e' composto da due sindaci designati dall'A.N.C.I., da un presidente di provincia designato dall'U.P.I., da tre segretari comunali e provinciali eletti tra gli iscritti all'albo e da due esperti designati dalla conferenza Statocitta' e autonomie locali, su proposta del Presidente della conferenza, tra soggetti dotati di particolare professionalita' in materia di autonomie locali. Con la stessa composizione sono costituiti i consigli di amministrazione delle sezioni regionali.
 
 I consigli di amministrazione nazionale e delle sezioni regionali restano in carica per la stessa durata prevista dalla legge per il mandato elettivo degli organi degli enti locali. I componenti dei consigli di amministrazione possono essere nominati o eletti per non piu' di due mandati.
@@ -73,11 +91,124 @@ Ai fini della prima costituzione dei consigli di amministrazione nazionale e del
 ## Art. 5. — Elezione dei rappresentanti dei segretari
  comunali e provinciali nei consigli di amministrazione
 
+1.
+                        
+                            
+                                Con deliberazione del consiglio nazionale di amministrazione sono disciplinate le modalita' per lo svolgimento delle elezioni dei rappresentanti dei segretari comunali e provinciali nei consigli di amministrazione nazionale e delle sezioni regionali, con l'osservanza dei seguenti criteri:
+ 
+                            
+                            
+                                a)
+                                
+                                    sono elettori, per il consiglio nazionale, tutti i segretari iscritti all'albo, in servizio alla data delle elezioni; per i consigli delle sezioni regionali, tutti i segretari iscritti nelle rispettive sezioni regionali dell'albo, in servizio alla data delle elezioni;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    adozione, per lo svolgimento delle elezioni, del sistema proporzionale a scrutinio di lista;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    facolta' di presentazione delle liste dei candidati per il consiglio nazionale di amministrazione da parte dalle organizzazioni sindacali firmatarie dei contratti collettivi nazionali di lavoro applicabili ai segretari comunali e provinciali ovvero da organizzazioni sindacali o associazioni di categoria, previa sottoscrizione delle liste da parte di almeno il 5% degli iscritti all'albo, in almeno cinque regioni, con un minimo di trenta iscritti per regione;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    facolta' di presentazione delle liste dei candidati per il consiglio di amministrazione delle sezioni regionali da parte delle organizzazioni firmatarie dei contratti collettivi nazionali di lavoro dei segretari comunali e provinciali ovvero da organizzazioni sindacali o associazioni di categoria, previa sottoscrizione delle liste da parte di almeno il 5% degli iscritti alla sezione regionale dell'albo, con un nimo di cinquanta iscritti, in almeno il 50% delle province, e con un minimo di sei iscritti per provincia.
+
 Con decreto del Ministro dell'interno, da emanarsi entro quindici giorni dalla data di entrata in vigore del presente regolamento, sentite le organizzazioni sindacali di categoria maggiormente rappresentative a livello nazionale, sono stabilite le modalita' per lo svolgimento della prima elezione dei rappresentanti dei segretari comunali e provinciali nei consigli di amministrazione nazionale e delle sezioni regionali, nel rispetto dei criteri stabiliti dal comma 1.
 
 Con il decreto di cui al comma 2 viene fissata la data della prima elezione, da tenersi entro quindici giorni dalla data di entrata in vigore del decreto stesso.
 
 ## Art. 6. — Competenze dei consigli di amministrazione
+
+1.
+                        
+                            
+                                Il consiglio nazionale di amministrazione provvede alla tenuta dell'albo, alla gestione dei segretari comunali e provinciali e all'amministrazione dell'Agenzia. In particolare:
+ 
+                            
+                            
+                                a)
+                                
+                                    cura la tenuta dell'albo, le iscrizioni, le sospensioni, le cancellazioni;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    dispone l'assegnazione dei segretari comunali alle sezioni regionali dell'albo, sulla base dei criteri stabiliti dal presente regolamento;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    definisce le modalita' procedurali e organizzative per la gestione dell'albo e dei segretari, nel rispetto di quanto disciplinato dalla legge o dal presente regolamento;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    definisce i criteri per la tenuta e l'aggiornamento dei curricula degli iscritti all'albo;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    delibera i bandi dei concorsi per l'iscrizione all'albo e definisce le modalita' della partecipazione ai corsi per l'accesso e la progressione in carriera, l'aggiornamento e la specializzazione;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    dispone l'utilizzazione dei segretari comunali e provinciali non chiamati a ricoprire sedi di segreteria nel rispetto dei principi e criteri direttivi stabiliti dall'articolo 17, comma 78, lettera e), della legge e secondo le disposizioni di cui al presente regolamento;
+                                
+                            
+                            
+                                g)
+                                
+                                    nomina il collegio arbitrale di disciplina di cui all'articolo
+17, comma 3, e provvede all'irrogazione delle sanzioni disciplinari a conclusione dei relativi procedimenti, salvo che tale competenza non sia attribuita ai consigli di amministrazione delle sezioni regionali;
+
+                                
+                            
+                            
+                                h)
+                                
+                                    disciplina l'organizzazione degli uffici e del personale dell'Agenzia, nei limiti della dotazione organica stabilita dal presente regolamento, prevedendo un apposito ufficio per l'istruttoria dei procedimenti disciplinari di cui all'articolo 17, comma 1;
+
+                                
+                            
+                            
+                                i)
+                                
+                                    definisce le modalita' procedurali e organizzative per il proprio funzionamento e per quello dei consigli di amministrazione delle sezioni regionali ed adotta gli atti concernenti il patrimonio e le attivita' contrattuali dell'Agenzia, nel rispetto delle disposizioni fissate dal presente regolamento;
+
+                                
+                            
+                            
+                                l)
+                                
+                                    approva il bilancio di previsione, la relazione previsionale e programmatica triennale, il rendiconto del cassiere e il rendiconto generale della gestione dell'Agenzia;
+
+                                
+                            
+                            
+                                m)
+                                
+                                    disciplina le modalita' di elezione del presidente dei consigli di amministrazione nazionale e delle sezioni regionali nonche' le modalita' per lo svolgimento delle elezioni dei rappresentanti dei segretari comunali e provinciali nei consigli di amministrazione e per la presentazione delle liste dei candidati.
 
 La disciplina delle materie indicate al comma 1 viene emanata dal consiglio nazionale di amministrazione nel rispetto delle modalita' di relazioni sindacali previste dai vigenti contratti collettivi nazionali di lavoro.
 
@@ -106,6 +237,45 @@ L'Agenzia organizza il proprio autonomo funzionamento entro e non oltre sessanta
 ## Art. 8. — Misure per la pari opportunita'
 
 Il consiglio nazionale di amministrazione istituisce il comitato permanente delle pari opportunita'. Il comitato ha sede presso l'Agenzia. Il comitato e' composto da due sindaci nominati dall'A.N.C.I. e da un presidente di provincia nominato dall'U.P.I., da tre segretari comunali e provinciali designati dalle organizzazioni sindacali di categoria maggiormente rappresentative a livello nazionale in relazione al grado di rappresentativita' secondo i dati forniti dal Dipartimento della funzione pubblica e relativi al 31 dicembre dell'anno antecedente alla nomina nonche' da due esperti designati dalla conferenza Statocitta' e autonomie locali. Tutti i componenti del comitato devono essere donne.
+
+2.
+                        
+                            
+                                Al comitato spettano:
+ 
+                            
+                            
+                                a)
+                                
+                                    il parere preventivo in ordine a tutti i provvedimenti per la disciplina generale degli istituti di competenza del consiglio nazionale di amministrazione;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    i poteri di iniziativa e di proposta per l'adozione di provvedimenti su materie demandate al consiglio nazionale di amministrazione, su cui lo stesso e' tenuto a pronunciarsi;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    la vigilanza in ordine all'effettivita' dei principi di pari opportunita' nella gestione dell'albo e nell'esercizio delle funzioni;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    l'esame di casi anche individuali in cui possano configurarsi violazioni ai principi di pari opportunita' e la conseguente proposta di interventi o iniziative agli organi competenti dell'Agenzia;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    la promozione di studi, iniziative, ricerche e di attivita' formative e di aggiornamento, al fine di diffondere e valorizzare una cultura delle problematiche connesse con la differenza di genere, e in particolare quelle del lavoro femminile nel settore pubblico.
 
 Nei consigli di amministrazione nazionale e delle sezioni regionali, si deve garantire una adeguata presenza femminile.
 
@@ -161,6 +331,46 @@ I sindaci dei comuni con popolazione superiore a 250.000 abitanti e i presidenti
 
 ## Art. 12. — Prima iscrizione nelle fasce profesionali
  e disciplina transitoria
+
+1.
+                        
+                            
+                                Fino alla stipulazione di una diversa disciplina del contratto collettivo nazionale di lavoro e ferma restando la classificazione dei comuni e delle province ai fini dell'assegnazione del segretario prevista dalle tabelle A e B allegate al decreto del Presidente della Repubblica 23 giugno 1972, n. 749, i segretari comunali e provinciali sono iscritti nelle seguenti fasce professionali con le modalita' di seguito indicate:
+ 
+                            
+                            
+                                a)
+                                
+                                    i segretari comunali con meno di due anni di servizio, nella prima fascia professionale;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    i segretari comunali ed i segretari capi con due anni e meno di
+ nove anni e sei mesi di servizio, nella seconda fascia professionale;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    i segretari capi con nove anni e sei mesi di servizio ed i segretari generali di seconda classe con meno di tre anni di anzianita' di servizio nella qualifica, nella terza fascia professionale;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    i segretari generali di seconda classe con tre anni di servizio nella qualifica ed i segretari generali di classe 1 / B con meno di tre anni di anzianita' nella qualifica, nella quarta fascia professionale;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    i segretari generali di classe 1 / B con tre anni di servizio nella qualifica ed i segretari generali di classe 1 / A nella quinta fascia professionale.
 
 Fino alla prima nomina in un comune di classe superiore i segretari conservano anche l'iscrizione nella fascia professionale immediatamente inferiore e la possibilita' di essere nominati in un comune di tale fascia. Il trattamento giuridico ed economico resta, in ogni caso, quello determinato dalla fascia del comune o della provincia in cui viene prestato servizio nel relativo periodo. Si applicano le disposizioni di cui al comma 7 dell'articolo 11.
 
@@ -450,6 +660,38 @@ I responsabili dei servizi finanziari tengono nella sede regionale una contabili
 
 ## Art. 31. — Rendiconto generale di gestione
 
+1.
+                        
+                            
+                                Il rendiconto generale della gestione e' composto dai seguenti documenti:
+ 
+                            
+                            
+                                a)
+                                
+                                    conto di bilancio, per la dimostrazione delle entrate effettivamente riscosse e delle spese effettivamente pagate nell'esercizio, sulla base delle autorizzazioni di bilancio. Nello stesso conto e' data dimostrazione delle somme ancora da riscuotere;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    conto economico, redatto secondo le norme del codice civile;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    conto del patrimonio, redatto secondo le norme del codice civile;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    relazione generale, con l'illustrazione delle poste dei vari documenti nonche' con l'indicazione della attivita' svolta e dei risultati ottenuti rispetto alle previsioni e agli obiettivi programmati.
+
 Il rendiconto generale della gestione e' deliberato dal consiglio nazionale di amministrazione entro il mese di gennaio dell'anno successivo ed e' trasmesso, entro i dieci giorni successivi alla sua deliberazione, alla Corte dei conti per l'esame.
 
 ## Art. 32. — Revisori dei conti
@@ -470,6 +712,31 @@ Al collegio si applicano le disposizioni del codice civile in tema di sindaci de
 
 Fino alla attuazione dei decreti legislativi in materia di riordino, accorpamento e soppressione dei Ministeri, di cui alla legge 15 marzo 1997, n. 59, l'Agenzia e' sottoposta alla vigilanza del Ministero dell'interno.
 
+2.
+                        
+                            
+                                Nell'ambito dei poteri di vigilanza, il Ministero dell'interno:
+ 
+                            
+                            
+                                a)
+                                
+                                    riceve relazioni semestrali sull'attivita' dell'Agenzia;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    riceve copia degli atti fondamentali degli organi dell'Agenzia: bilancio preventivo, relazione previsionale e programmatica triennale, rendiconto del cassiere, rendiconto generale della gestione, delibere del collegio dei revisori ed atti regolamentari;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    puo' richiedere copia delle deliberazioni dei consigli di amministrazione nazionale e delle sezioni regionali che disciplinano la tenuta dell'albo, l'organizzazione ed il funzionamento dell'Agenzia e delle sue articolazioni regionali, nonche' notizie e documentazione sulle attivita' e i provvedimenti di competenza dell'Agenzia.
+
 In caso di mancata tempestiva approvazione del bilancio, di squilibrio del bilancio, di impossibilita' di funzionamento degli organi dell'Agenzia, ed in caso di reiterate e persistenti violazioni di legge nell'esercizio dell'attivita' obbligatoria dell'Agenzia, il Ministro dell'interno interviene con poteri sostitutivi, sciogliendo all'occorrenza i consigli di amministrazione e nominando commissari straordinari.
 
 ## Art. 34. — Norme transitorie e finali
@@ -481,6 +748,94 @@ Fino a diversa disciplina contenuta nel contratto collettivo nazionale di lavoro
 Il consiglio nazionale di amministrazione, entro trenta giorni dal suo insediamento, delibera il bilancio di previsione per l'anno in corso, relativamente ai mesi che mancano alla fine dell'anno.
 
 ## Art. 35. — Abrogazione di norme
+
+1.
+                        
+                            
+                                Decorsi centoventi giorni dalla data di entrata in vigore del presente regolamento, sono abrogati: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il regio decreto 21 marzo 1929, n. 371; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la legge 27 giugno 1942, n. 851, recante modificazioni al testo unico della legge comunale e provinciale approvato con regio decreto 3 marzo 1934, n. 383; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il decreto legislativo luogotenenziale 21 agosto 1945, n. 553; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    il decreto legislativo luogotenenziale 22 febbraio 1946, n. 123; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    la legge 9 agosto 1954, n. 748; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    gli articoli 8 e 9 del decreto del Presidente della Repubblica 19 agosto 1954, n. 968; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    la legge 8 giugno 1962, n. 604, ad eccezione degli articoli 40, 41 e 42; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    la legge 12 febbraio 1968, n. 107; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    il decreto del Presidente della Repubblica 23 giugno 1972, n. 749, ad eccezione delle allegate tabelle a) e b); 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    la legge 11 novembre 1975, n. 587; 
+
+                                
+                            
+                            
+                                m)
+                                
+                                    l'articolo 15-quater del decreto-legge 28 dicembre 1989, n. 415, convertito, con modificazioni, dalla legge 28 febbraio 1990, n. 38; 
+
+                                
+                            
+                            
+                                n)
+                                
+                                    gli articoli 23-bis e 24 del decreto-legge 18 gennaio 1993, n. 8, convertito, con modificazioni, dalla legge 19 marzo 1993, n. 68.
 
 ## Art. 36. — Entrata in vigore
 

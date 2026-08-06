@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Leggi delega e relativi provvedimenti delegati
 vigenza_date: 2017-09-01
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:41:17Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -218,6 +218,24 @@ Le seguenti disposizioni del testo unico approvato con decreto legislativo 16 ap
 Le seguenti disposizioni del testo unico di cui al comma 3 sono abrogate a decorrere dall'anno scolastico successivo alla data di entrata in vigore del presente decreto: articolo 129; articolo 130; articolo 143, comma 1; articolo 147; articolo 162, comma 5; articolo 178, comma 2.
 
 E' abrogata ogni altra disposizione incompatibile con le norme del presente decreto.
+
+6.
+                        
+                            
+                                Al testo unico di cui al comma 3 sono apportate le seguenti modificazioni:
+ 
+                            
+                            
+                                a)
+                                
+                                    all'articolo 100, comma 1, le parole: "di cui all'articolo 99" sono soppresse;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    all'articolo 183, comma 1, le parole: "a norma dell'articolo 177, comma 5" sono soppresse.
 
 Il presente decreto entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana.
 

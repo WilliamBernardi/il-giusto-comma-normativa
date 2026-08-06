@@ -8,8 +8,8 @@ vigente: true
 source: normattiva-opendata
 collection: Leggi delega e relativi provvedimenti delegati
 vigenza_date: 2024-01-06
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:41:14Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -31,9 +31,276 @@ Il presente decreto attua nell'ordinamento interno la decisione quadro 2003/577/
 
 ## Art. 2. — Definizioni
 
+1.
+                        
+                            
+                                Ai fini della presente decreto, si intende per: 
+ 
+                            
+                            
+                                a)
+                                
+                                    «Stato di emissione»: lo Stato membro dell'Unione europea la cui autorita' giudiziaria, secondo il diritto interno, ha emesso, convalidato o comunque confermato un provvedimento di blocco o di sequestro nell'ambito di un procedimento penale; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    «Stato di esecuzione»: lo Stato membro dell'Unione europea nel cui territorio si trova il bene o la prova; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    «provvedimento di blocco o di sequestro»: qualsiasi provvedimento adottato dalla competente autorita' giudiziaria dello Stato di emissione al fine di impedire provvisoriamente ogni operazione volta a distruggere, trasformare, spostare, trasferire o alienare beni previsti come corpo di reato o cose pertinenti al reato, che potrebbero essere oggetto di confisca nei casi e nei limiti previsti dall'articolo 240 del codice penale; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    «bene»: ogni bene materiale o immateriale, mobile o immobile, nonche' ogni atto giuridico o documento attestante un titolo o un diritto su tale bene, che secondo la competente autorita' giudiziaria dello Stato di emissione costituisca il prodotto di uno dei reati di cui all'articolo 3, ovvero rappresenti l'equivalente del valore di tale prodotto, ovvero sia stato lo strumento o l'oggetto di uno dei predetti reati; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    «prova»: gli oggetti, i documenti o i dati utilizzabili a fini probatori nei procedimenti penali per uno dei reati di cui all'articolo 3.
+
 ## - Titolo II NORME DI RECEPIMENTO INTERNO Capo I ((Procedura passiva di riconoscimento ed esecuzione dei provvedimenti di blocco e di sequestro))
 
 ## Art. 3. — Casi di riconoscimento ed esecuzione dei provvedimenti di blocco o di sequestro
+
+1.
+                        
+                            
+                                Indipendentemente dalla doppia incriminazione, si fa luogo al riconoscimento ed alla esecuzione di un provvedimento di blocco o di sequestro per i seguenti reati, se puniti nello Stato di emissione con pena detentiva non inferiore nel massimo a tre anni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    associazione per delinquere; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    terrorismo; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    tratta di esseri umani; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    sfruttamento sessuale dei bambini e pornografia infantile; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    traffico illecito di stupefacenti e sostanze psicotrope; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    traffico illecito di armi, munizioni ed esplosivi; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    corruzione; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    frode, compresa la frode che lede gli interessi finanziari delle Comunita' europee ai sensi della Convenzione del 26 luglio 1995, relativa alla tutela degli interessi finanziari delle Comunita' europee; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    riciclaggio; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    falsificazione e contraffazione di monete; 
+
+                                
+                            
+                            
+                                m)
+                                
+                                    criminalita' informatica; 
+
+                                
+                            
+                            
+                                n)
+                                
+                                    criminalita' ambientale, compreso il traffico illecito di specie animali protette e il traffico illecito di specie e di essenze vegetali protette; 
+
+                                
+                            
+                            
+                                o)
+                                
+                                    favoreggiamento dell'ingresso e del soggiorno illegali di cittadini non appartenenti a Stati membri dell'Unione europea; 
+
+                                
+                            
+                            
+                                p)
+                                
+                                    omicidio volontario, lesioni personali gravi; 
+
+                                
+                            
+                            
+                                q)
+                                
+                                    traffico illecito di organi e tessuti umani; 
+
+                                
+                            
+                            
+                                r)
+                                
+                                    sequestro di persona; 
+
+                                
+                            
+                            
+                                s)
+                                
+                                    razzismo e xenofobia; 
+
+                                
+                            
+                            
+                                t)
+                                
+                                    furti organizzati o con l'uso di armi; 
+
+                                
+                            
+                            
+                                u)
+                                
+                                    traffico illecito di beni culturali, compresi gli oggetti d'antiquariato e le opere d'arte; 
+
+                                
+                            
+                            
+                                v)
+                                
+                                    truffa; 
+
+                                
+                            
+                            
+                                z)
+                                
+                                    estorsione; 
+
+                                
+                            
+                            
+                                aa)
+                                
+                                    contraffazione e pirateria in materia di prodotti; 
+
+                                
+                            
+                            
+                                bb)
+                                
+                                    falsificazione di atti amministrativi e traffico di documenti falsi; 
+
+                                
+                            
+                            
+                                cc)
+                                
+                                    falsificazione di mezzi di pagamento; 
+
+                                
+                            
+                            
+                                dd)
+                                
+                                    traffico illecito di sostanze ormonali ed altri fattori di crescita; 
+
+                                
+                            
+                            
+                                ee)
+                                
+                                    traffico illecito di materie nucleari e radioattive; 
+
+                                
+                            
+                            
+                                ff)
+                                
+                                    traffico di veicoli rubati; 
+
+                                
+                            
+                            
+                                gg)
+                                
+                                    violenza sessuale; 
+
+                                
+                            
+                            
+                                hh)
+                                
+                                    incendio; 
+
+                                
+                            
+                            
+                                ii)
+                                
+                                    reati che rientrano nella competenza giurisdizionale della Corte penale internazionale; 
+
+                                
+                            
+                            
+                                ll)
+                                
+                                    dirottamento di nave o aeromobile; 
+
+                                
+                            
+                            
+                                mm)
+                                
+                                    sabotaggio.
 
 Fuori dai casi di cui al comma 1 e all'articolo 6, comma 4, lettera e), il riconoscimento delle decisioni di sequestro e' consentito solo se i fatti, per i quali e' stato emesso il provvedimento di blocco o di sequestro, sono puniti come reato dalla legge italiana, indipendentemente dagli elementi costitutivi o dalla qualificazione giuridica individuati dalla legge dello Stato di emissione.
 
@@ -78,6 +345,46 @@ Salve le disposizioni di cui al presente articolo, l'autorita' giudiziaria indiv
 Quando e' necessario garantire la conformita' della prova ottenuta ai requisiti dell'ordinamento dello Stato di emissione, fermo restando il rispetto dei principi fondamentali dell'ordinamento interno, l'autorita' osserva le formalita' e le procedure espressamente indicate dall'autorita' competente dello Stato di emissione per l'esecuzione del provvedimento di blocco o di sequestro probatorio, mentre, nel caso di cui all'articolo 5, comma 2, si osservano le disposizioni del codice di procedura penale per l'esecuzione del sequestro preventivo. In ogni caso, l'avvenuta esecuzione del provvedimento di blocco o di sequestro e' immediatamente comunicata all'autorita' giudiziaria dello Stato di emissione.
 
 Le ulteriori misure rese necessarie dal provvedimento di blocco o di sequestro sono adottate secondo le disposizioni applicabili nello Stato di esecuzione.
+
+4.
+                        
+                            
+                                La richiesta di riconoscimento o esecuzione del provvedimento di blocco o di sequestro puo' essere rigettata con decreto motivato: 
+ 
+                            
+                            
+                                a)
+                                
+                                    se il certificato di cui all'articolo 12, comma 3, non e' stato prodotto unitamente alla richiesta; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    se il predetto certificato risulta incompleto, ovvero se le informazioni ivi contenute risultano manifestamente non corrispondenti al provvedimento di blocco o di sequestro oggetto della richiesta; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    se la persona nei cui confronti deve essere eseguita una decisione di confisca gode di immunita' riconosciute dallo Stato italiano che limitano l'esercizio o il proseguimento dell'azione penale; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    se dalle informazioni contenute nel certificato risulta evidente la violazione del divieto di un secondo giudizio, ai sensi dell'articolo 649 del codice di procedura penale; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    se non ricorrono i presupposti indicati nell'articolo 3.
+Tuttavia, se il provvedimento di blocco o di sequestro e' stato emesso in relazione a violazioni tributarie, doganali o valutarie, l'esecuzione non puo' essere rifiutata per il fatto che la legge italiana non impone lo stesso tipo di tasse o di imposte, o per il fatto che la legislazione italiana in materia tributaria, valutaria o doganale e' diversa da quella dello Stato di emissione.
 
 Nei casi di cui alle lettere a) e b) del comma 4, l'autorita' giudiziaria puo' imporre all'autorita' dello Stato di emissione un termine per la produzione del certificato completo o corretto, ovvero di un documento ad esso equipollente. L'autorita' giudiziaria puo' altresi' dispensare l'autorita' giudiziaria dello Stato di emissione dalla presentazione del certificato, se non vi e' esigenza di acquisire altre informazioni.
 

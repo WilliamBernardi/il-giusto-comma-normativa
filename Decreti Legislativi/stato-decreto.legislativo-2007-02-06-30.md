@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
 vigenza_date: 2023-12-05
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:22Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -28,11 +28,83 @@ Sulla proposta del Ministro per le politiche europee e del Ministro dell'interno
 
 ## Art. 1. — Finalita'
 
+1.
+                    
+                        
+                            Il presente decreto legislativo disciplina:
+ 
+                        
+                        
+                            a)
+                            
+                                le modalita' d'esercizio del diritto di libera circolazione, ingresso e soggiorno nel territorio dello Stato da parte dei cittadini dell'Unione europea e dei familiari di cui all'articolo 2 che accompagnano o raggiungono i medesimi cittadini;
+
+                            
+                        
+                        
+                            b)
+                            
+                                il diritto di soggiorno permanente nel territorio dello Stato dei cittadini dell'Unione europea e dei familiari di cui all'articolo 2 che accompagnano o raggiungono i medesimi cittadini;
+
+                            
+                        
+                        
+                            c)
+                            
+                                le limitazioni ai diritti di cui alle lettere a) e b) per motivi di ordine pubblico e di pubblica sicurezza.
+
 ## Art. 2. — Definizioni
+
+1.
+                    
+                        
+                            Ai fini del presente decreto legislativo, si intende per:
+ 
+                        
+                        
+                            a)
+                            
+                                "cittadino dell'Unione": qualsiasi persona avente la cittadinanza di uno Stato membro;
+
+                            
+                        
+                        
+                            b)
+                            
+                                "familiare":
+ 1) il coniuge;
+ 2) il partner che abbia contratto con il cittadino dell'Unione un'unione registrata sulla base della legislazione di uno Stato membro, qualora la legislazione dello Stato membro ospitante equipari l'unione registrata al matrimonio e nel rispetto delle condizioni previste dalla pertinente legislazione dello Stato membro ospitante;
+ 3) i discendenti diretti di eta' inferiore a 21 anni o a carico e quelli del coniuge o partner di cui alla lettera b);
+ 4) gli ascendenti diretti a carico e quelli del coniuge o partner di cui alla lettera b);
+
+                            
+                        
+                        
+                            c)
+                            
+                                "Stato membro ospitante": lo Stato membro nel quale il cittadino dell'Unione si reca al fine di esercitare il diritto di libera circolazione o di soggiorno.
 
 ## Art. 3. — Aventi diritto
 
 Il presente decreto legislativo si applica a qualsiasi cittadino dell'Unione che si rechi o soggiorni in uno Stato membro diverso da quello di cui ha la cittadinanza, nonche' ai suoi familiari ai sensi dell'articolo 2, comma 1, lettera b), che accompagnino o raggiungano il cittadino medesimo.
+
+2.
+                    
+                        
+                            Senza pregiudizio del diritto personale di libera circolazione e di soggiorno dell'interessato, lo Stato membro ospitante, conformemente alla sua legislazione nazionale, agevola l'ingresso e il soggiorno delle seguenti persone: 
+ 
+                        
+                        
+                            a)
+                            
+                                ogni altro familiare, qualunque sia la sua cittadinanza, non definito all'articolo 2, comma 1, lettera b), se e' a carico o convive, nel paese di provenienza, con il cittadino dell'Unione titolare del diritto di soggiorno a titolo principale o se gravi motivi di salute impongono che il cittadino dell'Unione lo assista personalmente; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                il partner con cui il cittadino dell'Unione abbia una relazione stabile debitamente attestata ((con documentazione ufficiale)).
 
 Lo Stato membro ospitante effettua un esame approfondito della situazione personale e giustifica l'eventuale rifiuto del loro ingresso o soggiorno.
 
@@ -66,7 +138,71 @@ Fatte salve le disposizioni di leggi speciali conformi ai Trattati dell'Unione e
 
 ## Art. 7. — Diritto di soggiorno per un periodo superiore a tre mesi
 
+1.
+                    
+                        
+                            Il cittadino dell'Unione ha diritto di soggiornare nel territorio nazionale per un periodo superiore a tre mesi quando:
+ 
+                        
+                        
+                            a)
+                            
+                                e' lavoratore subordinato o autonomo nello Stato;
+
+                            
+                        
+                        
+                            b)
+                            
+                                dispone per se' stesso e per i propri familiari di risorse economiche sufficienti, per non diventare un onere a carico dell'assistenza sociale dello Stato durante il periodo di soggiorno, e di un'assicurazione sanitaria o di altro titolo idoneo comunque denominato che copra tutti i rischi nel territorio nazionale;
+
+                            
+                        
+                        
+                            c)
+                            
+                                e' iscritto presso un istituto pubblico o privato riconosciuto per seguirvi come attivita' principale un corso di studi o di formazione professionale e dispone, per se' stesso e per i propri familiari, di risorse economiche sufficienti, per non diventare un onere a carico dell'assistenza sociale dello Stato durante il suo periodo di soggiorno, da attestare attraverso una dichiarazione o con altra idonea documentazione, e di un'assicurazione sanitaria o di altro titolo idoneo che copra tutti i rischi nel territorio nazionale;
+
+                            
+                        
+                        
+                            d)
+                            
+                                e' familiare, come definito dall'articolo 2, che accompagna o raggiunge un cittadino dell'Unione che ha diritto di soggiornare ai sensi delle lettere a), b) o c).
+
 Il diritto di soggiorno di cui al comma 1 e' esteso ai familiari non aventi la cittadinanza di uno Stato membro quando accompagnano o raggiungono nel territorio nazionale il cittadino dell'Unione, purche' questi risponda alle condizioni di cui al comma 1, lettere a), b) o c).
+
+3.
+                    
+                        
+                            Il cittadino dell'Unione, gia' lavoratore subordinato o autonomo sul territorio nazionale, conserva il diritto al soggiorno di cui al comma 1, lettera a) quando:
+ 
+                        
+                        
+                            a)
+                            
+                                e' temporaneamente inabile al lavoro a seguito di una malattia o di un infortunio;
+
+                            
+                        
+                        
+                            b)
+                            
+                                e' in stato di disoccupazione involontaria debitamente comprovata dopo aver esercitato un'attivita' lavorativa per oltre un anno nel territorio nazionale ed e' iscritto presso il Centro per l'impiego, ovvero ha reso la dichiarazione, di cui all'articolo 2, comma 1, del decreto legislativo 21 aprile 2000, n. 181, cosi' come sostituito dall'articolo 3 del decreto legislativo 19 dicembre 2002, n. 297, che attesti l'immediata disponibilita' allo svolgimento di attivita' lavorativa;
+
+                            
+                        
+                        
+                            c)
+                            
+                                e' in stato di disoccupazione involontaria debitamente comprovata al termine di un contratto di lavoro di durata determinata inferiore ad un anno, ovvero si e' trovato in tale stato durante i primi dodici mesi di soggiorno nel territorio nazionale, e' iscritto presso il Centro per l'impiego ovvero ha reso la dichiarazione, di cui all'articolo 2, comma 1, del decreto legislativo 21 aprile 2000, n. 181, cosi' come sostituito dall'articolo 3 del decreto legislativo 19 dicembre 2002, n. 297, che attesti l'immediata disponibilita' allo svolgimento di attivita' lavorativa. In tale caso, l'interessato conserva la qualita' di lavoratore subordinato per un periodo di un anno;
+
+                            
+                        
+                        
+                            d)
+                            
+                                segue un corso di formazione professionale. Salvo il caso di disoccupazione involontaria, la conservazione della qualita' di lavoratore subordinato presuppone che esista un collegamento tra l'attivita' professionale precedentemente svolta e il corso di formazione seguito.
 
 ## Art. 8. — (( (Ricorsi avverso il mancato riconoscimento del diritto di soggiorno) ))
 
@@ -82,9 +218,59 @@ Al cittadino dell'Unione che intende soggiornare in Italia, ai sensi dell'artico
 
 Fermo quanto previsto dal comma 1, l'iscrizione e' comunque richiesta trascorsi tre mesi dall'ingresso ed e' rilasciata immediatamente una attestazione contenente l'indicazione del nome e della dimora del richiedente, nonche' la data della richiesta.
 
+3.
+                    
+                        
+                            Oltre a quanto previsto per i cittadini italiani dalla normativa di cui al comma 1, per l'iscrizione anagrafica di cui al comma 2, il cittadino dell'Unione deve produrre la documentazione attestante: 
+ 
+                        
+                        
+                            a)
+                            
+                                l'attivita' lavorativa, subordinata o autonoma, esercitata se l'iscrizione e' richiesta ai sensi dell'articolo 7, comma 1, lettera a); 
+
+                            
+                        
+                        
+                            b)
+                            
+                                la disponibilita' di risorse economiche sufficienti per se' e per i propri familiari, secondo i criteri di cui all'articolo 29, comma 3, lettera b), del testo unico delle disposizioni concernenti la disciplina dell'immigrazione e norme sulla condizione dello straniero, di cui al decreto legislativo 25 luglio 1998, n. 286, nonche' la titolarita' di una assicurazione sanitaria ovvero di altro titolo comunque denominato idoneo a coprire tutti i rischi nel territorio nazionale, se l'iscrizione e' richiesta ai sensi dell'articolo 7, comma 1, lettera b); 
+
+                            
+                        
+                        
+                            c)
+                            
+                                l'iscrizione presso un istituto pubblico o privato riconosciuto dalla vigente normativa e la titolarita' di un'assicurazione sanitaria ovvero di altro titolo comunque denominato idoneo a coprire tutti i rischi, nonche' la disponibilita' di risorse economiche sufficienti per se' e per i propri familiari, secondo i criteri di cui all'articolo 29, comma 3, lettera b), del citato decreto legislativo n. 286 del 1998, se l'iscrizione e' richiesta ai sensi dell'articolo 7, comma 1, lettera c).
+
 Ai fini della verifica della sussistenza del requisito della disponibilita' delle risorse economiche sufficienti al soggiorno, di cui al comma 3, lettere b) e c), deve, in ogni caso, essere valutata la situazione complessiva personale dell'interessato ((...)).
 
 Il cittadino dell'Unione puo' dimostrare di disporre, per se' e per i propri familiari, di risorse economiche sufficienti a non gravare sul sistema di assistenza pubblica, anche attraverso la dichiarazione di cui agli articoli 46 e 47 del testo unico delle disposizioni legislative e regolamentari in materia di documentazione amministrativa di cui al decreto del Presidente della Repubblica 28 dicembre 2000, n. 445.
+
+5.
+                    
+                        
+                            Ai fini dell'iscrizione anagrafica, oltre a quanto previsto per i cittadini italiani dalla normativa di cui al comma 1, i familiari del cittadino dell'Unione europea che non hanno un autonomo diritto di soggiorno devono presentare, in conformita' alle disposizioni del decreto del Presidente della Repubblica 28 dicembre 2000, n. 445: 
+ 
+                        
+                        
+                            a)
+                            
+                                un documento di identita' o il passaporto in corso di validita'; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                un documento rilasciato dall'autorita' competente del Paese di origine o provenienza che attesti la qualita' di familiare e, qualora richiesto, di familiare a carico ovvero di membro del nucleo familiare ovvero familiare affetto da gravi problemi di salute, che richiedono l'assistenza personale del cittadino dell'Unione, titolare di un autonomo diritto di soggiorno; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                l'attestato della richiesta d'iscrizione anagrafica del familiare cittadino dell'Unione.
 
 Salvo quanto previsto dal presente decreto, per l'iscrizione anagrafica ed il rilascio della ricevuta di iscrizione e del relativo documento di identita' si applicano le medesime disposizioni previste per il cittadino italiano.
 
@@ -95,6 +281,38 @@ Le richieste di iscrizioni anagrafiche dei familiari del cittadino dell'Unione c
 I familiari del cittadino dell'Unione non aventi la cittadinanza di uno Stato membro, di cui all'articolo 2, trascorsi tre mesi dall'ingresso nel territorio nazionale, richiedono alla questura competente per territorio di residenza la "Carta di soggiorno di familiare di un cittadino dell'Unione", redatta su modello conforme a quello stabilito con decreto del Ministro dell'interno da emanarsi entro sei mesi dalla data di entrata in vigore del presente decreto legislativo. Fino alla data di entrata in vigore del predetto decreto, e' rilasciato il titolo di soggiorno previsto dalla normativa vigente alla data di entrata in vigore del presente decreto.
 
 Al momento della richiesta di rilascio della carta di soggiorno, al familiare del cittadino dell'Unione e' rilasciata una ricevuta secondo il modello definito con decreto del Ministro dell'interno di cui al comma 1.
+
+3.
+                    
+                        
+                            Per il rilascio della Carta di soggiorno, e' richiesta la presentazione: 
+ 
+                        
+                        
+                            a)
+                            
+                                del passaporto o documento equivalente, in corso di validita'; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                di un documento rilasciato dall'autorita' competente del Paese di origine o provenienza che attesti la qualita' di familiare e, qualora richiesto, di familiare a carico ovvero di membro del nucleo familiare ovvero del familiare affetto da gravi problemi di salute, che richiedono l'assistenza personale del cittadino dell'Unione, titolare di un autonomo diritto di soggiorno; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                dell'attestato della richiesta d'iscrizione anagrafica del familiare cittadino dell'Unione; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                della fotografia dell'interessato, in formato tessera, in quattro esemplari.
 
 La carta di soggiorno di familiare di un cittadino dell'Unione ha una validita' di cinque anni dalla data del rilascio.
 
@@ -118,6 +336,38 @@ La partenza del cittadino dell'Unione dal territorio nazionale o il suo decesso 
 
 Il divorzio e l'annullamento del matrimonio dei cittadini dell'Unione non incidono sul diritto di soggiorno dei loro familiari aventi la cittadinanza di uno Stato membro, a condizione che essi abbiano acquisito il diritto di soggiorno permanente di cui all'articolo 14 o soddisfino personalmente le condizioni previste all'articolo 7, comma 1.
 
+2.
+                    
+                        
+                            Il divorzio e l'annullamento del matrimonio con il cittadino dell'Unione non comportano la perdita del diritto di soggiorno dei familiari del cittadino dell'Unione non aventi la cittadinanza di uno Stato membro a condizione che essi abbiano acquisito il diritto al soggiorno permanente di cui all'articolo 14 o che si verifichi una delle seguenti condizioni:
+ 
+                        
+                        
+                            a)
+                            
+                                il matrimonio e' durato almeno tre anni, di cui almeno un anno nel territorio nazionale, prima dell'inizio del procedimento di divorzio o annullamento;
+
+                            
+                        
+                        
+                            b)
+                            
+                                il coniuge non avente la cittadinanza di uno Stato membro ha ottenuto l'affidamento dei figli del cittadino dell'Unione in base ad accordo tra i coniugi o a decisione giudiziaria;
+
+                            
+                        
+                        
+                            c)
+                            
+                                l'interessato risulti parte offesa in procedimento penale, in corso o definito con sentenza di condanna, per reati contro la persona commessi nell'ambito familiare;
+
+                            
+                        
+                        
+                            d)
+                            
+                                il coniuge non avente la cittadinanza di uno Stato membro beneficia, in base ad un accordo tra i coniugi o a decisione giudiziaria, di un diritto di visita al figlio minore, a condizione che l'organo giurisdizionale ha ritenuto che le visite devono obbligatoriamente essere effettuate nel territorio nazionale, e fino a quando sono considerate necessarie.
+
 Nei casi di cui al comma 2, quando non si verifichi alcuna delle condizioni di cui alle lettere a), b), c) e d), si applica l'articolo 30, comma 5, del citato decreto legislativo n. 286 del 1998, e successive modificazioni.
 
 Nei casi di cui al comma 2, salvo che gli interessati abbiano acquisito il diritto di soggiorno permanente di cui al successivo articolo 14, il loro diritto di soggiorno e' comunque subordinato al requisito che essi dimostrino di esercitare un'attivita' lavorativa subordinata o autonoma, o di disporre per se' e per i familiari di risorse sufficienti, affinche' non divengano un onere per il sistema di assistenza sociale dello Stato durante il soggiorno, nonche' di una assicurazione sanitaria che copra tutti i rischi nello Stato, ovvero di fare parte del nucleo familiare, gia' costituito nello Stato, di una persona che soddisfa tali condizioni. Le risorse sufficienti sono quelle indicate all'articolo 9, comma 3.
@@ -127,6 +377,24 @@ Nei casi di cui al comma 2, salvo che gli interessati abbiano acquisito il dirit
 I cittadini dell'Unione ed i loro familiari beneficiano del diritto di soggiorno di cui all'articolo 6, finche' hanno le risorse economiche di cui all'articolo 9, comma 3, che gli impediscono di diventare un onere eccessivo per il sistema di assistenza sociale dello Stato membro ospitante e finche' non costituiscano un pericolo per l'ordine e la sicurezza pubblica.
 
 I cittadini dell'Unione e i loro familiari beneficiano del diritto di soggiorno di cui agli articoli 7, 11 e 12, finche' soddisfano le condizioni fissate negli stessi articoli. ((La verifica della sussistenza di tali condizioni non puo' essere effettuata se non in presenza di ragionevoli dubbi in ordine alla persistenza delle condizioni medesime.))
+
+3.
+                    
+                        
+                            Ferme le disposizioni concernenti l'allontanamento per motivi di ordine e sicurezza pubblica, un provvedimento di allontanamento non puo' essere adottato nei confronti di cittadini dell'Unione o dei loro familiari, qualora; 
+ 
+                        
+                        
+                            a)
+                            
+                                i cittadini dell'Unione siano lavoratori subordinati o autonomi; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                i cittadini dell'Unione siano entrati nel territorio dello Stato per cercare un posto di lavoro. In tale caso i cittadini dell'Unione e i membri della loro famiglia non possono essere allontanati fino a quando i cittadini dell'Unione possono dimostrare di essere iscritti nel Centro per l'impiego da non piu' di sei mesi, ovvero di aver reso la dichiarazione di immediata disponibilita' allo svolgimento dell'attivita' lavorativa, di cui all'articolo 2, comma 1, del decreto legislativo 21 aprile 2000, n. 181, cosi' come sostituito dall'articolo 3 del decreto legislativo 19 dicembre 2002, n. 297 e di non essere stati esclusi dallo stato di disoccupazione ai sensi dell'articolo 4 del medesimo decreto legislativo n. 297 del 2002.
 
 ## Art. 14. — Diritto di soggiorno permanente
 
@@ -140,6 +408,31 @@ Il diritto di soggiorno permanente si perde in ogni caso a seguito di assenze da
 
 ## Art. 15. — Deroghe a favore dei lavoratori che hanno cessato la loro attivita' nello Stato membro ospitante e dei loro familiari
 
+1.
+                    
+                        
+                            In deroga all'articolo 14 ha diritto di soggiorno permanente nello Stato prima della maturazione di un periodo continuativo di cinque anni di soggiorno:
+ 
+                        
+                        
+                            a)
+                            
+                                il lavoratore subordinato o autonomo il quale, nel momento in cui cessa l'attivita', ha raggiunto l'eta' prevista ai fini dell'acquisizione del diritto alla pensione di vecchiaia, o il lavoratore subordinato che cessa di svolgere un'attivita' subordinata a seguito di pensionamento anticipato, a condizione che abbia svolto nel territorio dello Stato la propria attivita' almeno negli ultimi dodici mesi e vi abbia soggiornato in via continuativa per oltre tre anni. Ove il lavoratore appartenga ad una categoria per la quale la legge non riconosce il diritto alla pensione di vecchiaia, la condizione relativa all'eta' e' considerata soddisfatta quando l'interessato ha raggiunto l'eta' di 60 anni;
+
+                            
+                        
+                        
+                            b)
+                            
+                                il lavoratore subordinato o autonomo che ha soggiornato in modo continuativo nello Stato per oltre due anni e cessa di esercitare l'attivita' professionale a causa di una sopravvenuta incapacita' lavorativa permanente. Ove tale incapacita' sia stata causata da un infortunio sul lavoro o da una malattia professionale che da' all'interessato diritto ad una prestazione interamente o parzialmente a carico di un'istituzione dello Stato, non si applica alcuna condizione relativa alla durata del soggiorno;
+
+                            
+                        
+                        
+                            c)
+                            
+                                il lavoratore subordinato o autonomo che, dopo tre anni d'attivita' e di soggiorno continuativi nello Stato, eserciti un'attivita' subordinata o autonoma in un altro Stato membro, pur continuando a risiedere nel territorio dello Stato, permanendo le condizioni previste per l'iscrizione anagrafica.
+
 Ai fini dell'acquisizione dei diritti previsti nel comma 1, lettere a) e b), i periodi di occupazione trascorsi dall'interessato nello Stato membro in cui esercita un'attivita' sono considerati periodi trascorsi nel territorio nazionale.
 
 I periodi di iscrizione alle liste di mobilita' o di disoccupazione involontaria, cosi' come definiti dal decreto legislativo 19 dicembre 2002, n. 297, o i periodi di sospensione dell'attivita' indipendenti dalla volonta' dell'interessato e l'assenza dal lavoro o la cessazione dell'attivita' per motivi di malattia o infortunio sono considerati periodi di occupazione ai fini dell'applicazione delle disposizioni di cui al comma 1.
@@ -147,6 +440,31 @@ I periodi di iscrizione alle liste di mobilita' o di disoccupazione involontaria
 La sussistenza delle condizioni relative alla durata del soggiorno e dell'attivita' di cui al comma 1, lettera a) e lettera b), non sono necessarie se il coniuge e' cittadino italiano, ovvero ha perso la cittadinanza italiana a seguito del matrimonio con il lavoratore dipendente o autonomo.
 
 I familiari, qualunque sia la loro cittadinanza, del lavoratore subordinato o autonomo, che soggiornano con quest'ultimo nel territorio dello Stato, godono del diritto di soggiorno permanente se il lavoratore stesso ha acquisito il diritto di soggiorno permanente in forza del comma 1.
+
+6.
+                    
+                        
+                            Se il lavoratore subordinato o autonomo decede mentre era in attivita' senza aver ancora acquisito il diritto di soggiorno permanente a norma del comma 1, i familiari che hanno soggiornato con il lavoratore nel territorio acquisiscono il diritto di soggiorno permanente, qualora si verifica una delle seguenti condizioni:
+ 
+                        
+                        
+                            a)
+                            
+                                il lavoratore subordinato o autonomo, alla data del suo decesso, abbia soggiornato in via continuativa nel territorio nazionale per due anni;
+
+                            
+                        
+                        
+                            b)
+                            
+                                il decesso sia avvenuto in seguito ad un infortunio sul lavoro o ad una malattia professionale;
+
+                            
+                        
+                        
+                            c)
+                            
+                                il coniuge superstite abbia perso la cittadinanza italiana a seguito del matrimonio con il lavoratore dipendente o autonomo.
 
 Se non rientrano nelle condizioni previste dal presente articolo, i familiari del cittadino dell'Unione di cui all'articolo 11, comma 2, e all'articolo 12, comma 2, che soddisfano le condizioni ivi previste, acquisiscono il diritto di soggiorno permanente dopo aver soggiornato legalmente e in via continuativa per cinque anni nello Stato membro ospitante.
 

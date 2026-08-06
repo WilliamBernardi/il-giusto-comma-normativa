@@ -8,8 +8,8 @@ codice_redazionale: 094G0280
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:42Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -47,6 +47,38 @@ Agli operatori ammessi alla semplificazione di cui al precedente articolo viene 
 ## Art. 3. — Procedura di inoltro delle merci ed adempimenti a destino
 
 Le merci devono essere inoltrate racchiuse in contenitori adibiti al traffico internazionale o in altri contenitori, in veicoli o in loro comparti debitamente suggellati. Tale suggellamento puo' anche essere effettuato con sistemi propri dell'operatore beneficiario, previamente consentiti dalla competente direzione della circoscrizione doganale.
+
+2.
+                    
+                        
+                            Le merci devono essere scortate dal documento di trasporto internazionale nel quale devono essere riportate le seguenti indicazioni:
+ 
+                        
+                        
+                            a)
+                            
+                                gli estremi di identificazione del proprietario delle merci e, se diverso, anche del titolare dell'autorizzazione di cui all'art. 2, comma 1;
+
+                            
+                        
+                        
+                            b)
+                            
+                                l'ufficio doganale di destinazione, ovvero il centro di raccolta di cui all'art. 127 del testo unico delle disposizioni legislative in materia doganale, ovvero il luogo di arrivo delle merci destinate ai soggetti di cui all'art. 12 del decreto legislativo n. 374 del 1990;
+
+                            
+                        
+                        
+                            c)
+                            
+                                gli estremi del certificato di garanzia;
+
+                            
+                        
+                        
+                            d)
+                            
+                                la designazione delle merci con i dati concernenti la qualita', la quantita', il valore e l'origine delle merci stesse.
 
 Le indicazioni di cui al comma precedente possono essere rilevate anche dai documenti commerciali che accompagnano le spedizioni ovvero contenute in un'apposita dichiarazione dell'operatore da allegare al documento di trasporto internazionale.
 

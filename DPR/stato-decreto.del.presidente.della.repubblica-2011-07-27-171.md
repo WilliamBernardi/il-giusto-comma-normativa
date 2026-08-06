@@ -8,8 +8,8 @@ codice_redazionale: 011G0212
 vigente: true
 source: normattiva-opendata
 collection: DPR
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:47:50Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -33,12 +33,55 @@ Per il personale di cui all'articolo 3 del decreto legislativo n. 165 del 2001 r
 
 ## Art. 2. — Inidoneita' psicofisica
 
+1.
+                    
+                        
+                            Ai fini del presente decreto, si intende per inidoneita' psicofisica permanente assoluta o relativa quanto contenuto nelle lettere a) o b): 
+ 
+                        
+                        
+                            a)
+                            
+                                inidoneita' psicofisica permanente assoluta lo stato di colui che a causa di infermita' o difetto fisico o mentale si trovi nell'assoluta e permanente impossibilita' di svolgere qualsiasi attivita' lavorativa; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                inidoneita' psicofisica permanente relativa, lo stato di colui che a causa di infermita' o difetto fisico o mentale si trovi nell'impossibilita' permanente allo svolgimento di alcune o di tutte le mansioni dell'area, categoria o qualifica di inquadramento.
+
 ## Art. 3. — Presupposti ed iniziativa per l'avvio della procedura 
  di verifica dell'idoneita' al servizio
 
 L'iniziativa per l'avvio della procedura per l'accertamento dell'inidoneita' psicofisica permanente spetta all'Amministrazione di appartenenza del dipendente, ovvero al dipendente interessato. Se il dipendente presta servizio in un'amministrazione diversa rispetto a quella di appartenenza, la procedura e' attivata dall'amministrazione di appartenenza su segnalazione di quella presso cui il dipendente presta servizio. La segnalazione avviene nel rispetto dei principi di pertinenza, non eccedenza e indispensabilita' dei dati trattati, di cui agli articoli 11, comma 1, lettera d), e 22, comma 3, del decreto legislativo 30 giugno 2003, n. 196, Codice in materia di protezione dei dati personali.
 
 Il dipendente puo' presentare istanza per l'avvio della procedura all'amministrazione di appartenenza in qualsiasi momento successivo al superamento del periodo di prova.
+
+3.
+                    
+                        
+                            La pubblica amministrazione avvia la procedura per l'accertamento dell'inidoneita' psicofisica del dipendente, in qualsiasi momento successivo al superamento del periodo di prova, nei seguenti casi: 
+ 
+                        
+                        
+                            a)
+                            
+                                assenza del dipendente per malattia, superato il primo periodo di conservazione del posto previsto nei contratti collettivi di riferimento; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                disturbi del comportamento gravi, evidenti e ripetuti, che fanno fondatamente presumere l'esistenza dell'inidoneita' psichica permanente assoluta o relativa al servizio; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                condizioni fisiche che facciano presumere l'inidoneita' fisica permanente assoluta o relativa al servizio.
 
 ## Art. 4. — Organi di accertamento medico
 
@@ -62,6 +105,31 @@ Rimane salva la vigente disciplina in materia di ricorsi in sede amministrativa 
 
 ## Art. 6. — Misure cautelari
 
+1.
+                    
+                        
+                            L'amministrazione puo' disporre la sospensione cautelare dal servizio del dipendente nelle seguenti ipotesi: 
+ 
+                        
+                        
+                            a)
+                            
+                                in presenza di evidenti comportamenti che fanno ragionevolmente presumere l'esistenza dell'inidoneita' psichica, quando gli stessi generano pericolo per la sicurezza o per l'incolumita' del dipendente interessato, degli altri dipendenti o dell'utenza, prima che sia sottoposto alla visita di idoneita'; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                in presenza di condizioni fisiche che facciano presumere l'inidoneita' fisica permanente assoluta o relativa al servizio, quando le stesse generano pericolo per la sicurezza o per l'incolumita' del dipendente interessato, degli altri dipendenti o dell'utenza, prima che sia sottoposto alla visita di idoneita'; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                in caso di mancata presentazione del dipendente alla visita di idoneita', in assenza di giustificato motivo.
+
 Nell'ipotesi di cui alle lettere a) e b) l'amministrazione puo' disporre la sospensione cautelare del dipendente sino alla data della visita e avvia senza indugio la procedura per l'accertamento dell'inidoneita' psicofisica del dipendente.
 
 Nell'ipotesi di cui alla lettera c), l'amministrazione puo' disporre la sospensione cautelare e provvede per un nuovo accertamento. In caso di rifiuto ingiustificato di sottoporsi alla visita reiterato per due volte, a seguito del procedimento di cui all'articolo 55-bis del decreto legislativo n. 165 del 2001, l'amministrazione puo' risolvere il rapporto di lavoro con preavviso.
@@ -83,6 +151,24 @@ Nel caso di inidoneita' a svolgere mansioni proprie del profilo di inquadramento
 Se non sono disponibili nella dotazione organica posti corrispondenti ad un profilo di professionalita' adeguata in base alle risultanze dell'accertamento medico, l'amministrazione colloca il dipendente in soprannumero, rendendo indisponibili, sino a successivo riassorbimento, un numero di posti equivalente dal punto di vista finanziario.
 
 Se il dipendente e' adibito a mansioni inferiori, il medesimo ha diritto alla conservazione del trattamento economico fisso e continuativo corrispondente all'area ed alla fascia economica di provenienza mediante la corresponsione di un assegno ad personam riassorbibile con ogni successivo miglioramento economico.
+
+5.
+                    
+                        
+                            Se l'inidoneita' psicofisica relativa riguarda personale con incarico di funzione dirigenziale, l'amministrazione, previo contradditorio con l'interessato, revoca l'incarico in essere e, in base alle risultanze dell'accertamento dell'organo medico competente, puo': 
+ 
+                        
+                        
+                            a)
+                            
+                                conferire un incarico dirigenziale, tra quelli disponibili, diverso e compatibile con l'esito dell'accertamento medico, assicurando eventualmente un adeguato percorso di formazione; a tal fine l'amministrazione programma il conferimento degli incarichi dirigenziali, tenendo anche conto delle procedure di verifica di idoneita' in corso; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                nel caso di indisponibilita' di posti di funzione dirigenziale, il dirigente con inidoneita' permanente relativa e' collocato a disposizione dei ruoli di cui all'articolo 23 del decreto legislativo 30 marzo 2001, n. 165, e successive modificazioni, senza incarico.
 
 Nel caso di conferimento a dirigente di incarico di valore economico inferiore, questi conserva il trattamento economico fisso e continuativo corrispondente all'incarico di provenienza sino alla prevista scadenza mediante la corresponsione di un assegno ad personam riassorbibile con ogni successivo miglioramento economico.
 

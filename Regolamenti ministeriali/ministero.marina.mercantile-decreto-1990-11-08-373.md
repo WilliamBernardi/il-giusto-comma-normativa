@@ -8,8 +8,8 @@ codice_redazionale: 090G0419
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:39Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -46,6 +46,60 @@ Le iniziative di cui all'art. 8, comma 6, della legge non sono ammesse al contri
 ## Art. 2. — Domande per la concessione del contributo per lavori
  di costruzione navale
 
+1.
+                        
+                            
+                                Per la concessione del contributo di cui all'art. 2, comma 1, della legge, l'impresa di costruzione navale iscritta ad uno degli albi speciali previsti dall'art. 19 della legge presenta domanda al Ministero della marina mercantile completa delle indicazioni di cui all'art. 3 della legge entro quindici giorni dalla data in cui e' stato stipulato il contratto di costruzione o, in assenza di contratto, dalla data della dichiarazione di costruzione in proprio.
+Entro i successivi novanta giorni dalla data di presentazione della domanda di concessione l'impresa e' tenuta a presentare i sottoelencati documenti:
+ 
+                            
+                            
+                                a)
+                                
+                                    contratto di costruzione registrato;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    nei casi di costruzione iniziata in proprio dall'impresa di costruzione, contratto registrato di vendita dell'unita', se' gia' stipulato ovvero, in caso contrario, dichiarazione di costruzione resa ai sensi dell'art. 233 del codice della navigazione;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    piani generali, specifica tecnica ed indicazione del peso presunto dell'unita' scarica ed asciutta ripartito in scafo, allestimento ed apparato motore, sottoscritti dall'impresa stessa;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    elementi preventivi di costo dell'unita' di cui all'allegato C, compilato nei sub-totali, nei totali, nei conti ausiliari, nelle spese generali e, ove possibile, nei dettagli, sottoscritto dall'impresa stessa;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    dichiarazione dell'impresa attestante che la stessa, in relazione ai lavori oggetto della domanda, non ha fruito di provvidenze aventi analoghe finalita' e contestuale impegno a non fruirne in futuro, una volta ottenuta la concessione del contributo di cui al presente articolo;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    dichiarazione relativa alla destinazione dell'unita', conformemente a quanto indicato nel precedente art. 1, comma 3;
+
+                                
+                            
+                            
+                                g)
+                                
+                                    dichiarazione contenente l'impegno a fornire tutti gli elementi necessari alla Commissione delle Comunita' economiche europee, qualora richiesti dalla stessa, ai fini dell'applicazione dell'art. 4, comma 5, della direttiva n. 167 del 26 gennaio 1987.
+
 Nei casi di cui all'art. 8, comma 2, della legge, in aggiunta ai documenti previsti dal precedente comma, deve essere presentata la documentazione comprovante il possesso dei requisiti di cui al decreto ministeriale ivi citato.
 
 Il rispetto dei termini previsti dal comma primo del presente articolo e' condizione di ricevibilita' della domanda di concessione.
@@ -54,6 +108,68 @@ Il rispetto dei termini previsti dal comma primo del presente articolo e' condiz
  di costruzione ed anticipi
 
 Successivamente all'inizio dei lavori di costruzione, che deve avvenire entro i termini di cui all'art. 4, comma 1, della legge, l'impresa di costruzione e' tenuta a presentare il certificato di inizio lavori, rilasciato dal Registro italiano navale in conformita' di quanto previsto all'art. 13 del presente regolamento.
+
+2.
+                        
+                            
+                                L'amministrazione, per procedere alla concessione del contributo, preliminarmente:
+ 
+                            
+                            
+                                a)
+                                
+                                    valuta l'ammissibilita' dell'iniziativa sia sotto il profilo giuridico che tecnico sulla base degli elementi acquisiti ai sensi del precedente art. 2;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    accerta la conformita' del prezzo contrattuale o di quello dichiarato dal cantiere ai prezzi praticati sul mercato internazionale per unita' similari od assimilabili tenendo conto di ogni utile elemento conoscitivo, della documentazione prodotta nonche' della struttura dei costi di produzione e dell'organizzazione produttiva dell'impresa di costruzione navale, risultante dall'iscrizione della stessa agli albi speciali di cui all'art. 19 della legge.
+
+3.
+                        
+                            
+                                L'impresa beneficiaria del contributo, che intende ottenere la corresponsione di anticipi ai sensi dell'art. 5, comma 1, della legge deve presentare domanda al Ministero della marina mercantile, allegando i seguenti documenti:
+ 
+                            
+                            
+                                a)
+                                
+                                    certificato del Registro italiano navale attestante lo stato di avanzamento globale della costruzione della nave;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    certificazione dell'Istituto nazionale per studi ed esperienze di architettura navale nei casi previsti dall'art. 4, comma 8, della legge attestante l'osservanza degli adempimenti di cui al predetto comma o la deroga ai sensi del comma 9 dello stesso articolo;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    nel caso di navi costruite per conto di committenti nazionali, documento dello stato maggiore della Marina comprovante che l'impresa istante e' in regola con la normativa in materia di apprestamenti difensivi di cui all'art. 8 del regio decreto-legge 19 settembre 1935, n. 1836, e successive modifiche ed integrazioni.
+
+4.
+                        
+                            
+                                Ai fini della corresponsione dell'anticipo nei casi di cui all'art. 5, comma 2, della legge l'impresa beneficiaria del contributo deve allegare i seguenti documenti:
+ 
+                            
+                            
+                                a)
+                                
+                                    fidejussione bancaria od assicurativa autenticata;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    certificato del Registro italiano navale attestante la data di inizio lavori.
+ 5. ln caso di corresponsione dell'anticipo di cui al comma precedente, la certificazione dell'Istituto nazionale per studi ed esperienza di architettura navale di cui alla lettera b) ed il documento dello stato maggiore della Marina di cui alla lettera c) del comma 1 del presente articolo devono essere presentati prima del raggiungimento del 25% di avanzamento effettivo dei lavori.
 
 ## Art. 4. — Maggiorazione delle aliquote di contributo
 
@@ -66,10 +182,162 @@ Ai sensi della decisione notificata con lettera SG(90)D/24114 del 6 luglio 1990 
 ## Art. 5. — Liquidazione definitiva e pagamento del contributo
  per lavori di costruzione navale
 
+1.
+                        
+                            
+                                Per la liquidazione definitiva ed il pagamento del contributo previsto dall'art. 2 della legge l'impresa di costruzione navale deve presentare domanda entro il termine previsto dall'art. 31 del presente regolamento allegando i seguenti documenti:
+ 
+                            
+                            
+                                a)
+                                
+                                    certificazione rilasciata dall'Istituto nazionale per studi ed esperienze di architettura navale nei casi previsti dall'art. 4, comma 8, della legge, attestante l'osservanza degli adempimenti di cui al predetto comma 8 o la deroga ai sensi dello stesso articolo, comma 9.
+ La certificazione deve riferirsi alla carena nella sua versione definitiva;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    certificato del Registro italiano navale nel quale siano indicati, se non risultanti da altro documento:
+ 1) il nome o il numero, il tipo, la stazza lorda, la destinazione dell'unita' ai sensi dell'art. 1, comma 3, del presente regolamento e, se trattasi di nave nazionale, l'abilitazione dell'unita' e gli estremi del registro delle navi in costruzione da cui essa proviene;
+ 2) il peso complessivo dell'unita' scarica ed asciutta e sua ripartizione in scafo, apparato motore ed allestimento, secondo lo schema di repertorio indicato negli allegati senza zavorra fissa, senza apprestamenti difensivi e senza dotazioni e parti di ricambio extra-regolamentari;
+ 3) la marca, il tipo, la potenza massima continuativa ed il numero dei giri dell'apparato motore di propulsione;
+ 4) la data di inizio e quella di ultimazione dei lavori di costruzione;
+ 5) la portata lorda;
+ 6) la velocita' dell'unita' alle prove in mare con l'indicazione delle condizioni di carico, della potenza sviluppata dall'apparato motore di propulsione e del numero dei giri dell'elica;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    dati della costruzione di cui all'allegato A, elementi peso dell'unita' di cui all'allegato B convalidate entrambe dal Registro italiano navale, elementi costo dell'unita' di cui all'allegato C e distinta conti ausiliari e distinta spese generali di cui all'allegato D;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    attestazione dell'Associazione degli industriali, competente per territorio, settore navalmeccanico o affine, circa il costo medio orario, comprensivo di oneri, della manodopera del cantiere relativo al periodo dei lavori di costruzione dell'unita';
+
+                                
+                            
+                            
+                                e)
+                                
+                                    in caso di aggiunte e varianti, una distinta dettagliata dei lavori, corredata, per ogni voce, degli elementi di peso e giornate-operaio impiegate per realizzarli;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    distinta delle modifiche alla specifica tecnica gia' presentata e piani generali definitivi, nonche' ogni altro documento ritenuto utile dall'impresa di costruzione navale;
+
+                                
+                            
+                            
+                                g)
+                                
+                                    nel caso di navi costruite per conto di committenti nazionali, documento dello stato maggiore della Marina comprovante che l'impresa istante e' in regola con la normativa in materia di apprestamenti difensivi di cui all'art. 8 del regio decreto-legge 19 settembre 1935, n. 1836, e successive modifiche ed integrazioni e certificato attestante l'iscrizione, anche provvisoria, della nave nella piu' alta classe del Registro italiano navale.
+
 Nella domanda deve essere indicato il prezzo concordato con il committente dettagliato con le opportune indicazioni, quali prezzo base, eventuali atti aggiuntivi, varianti ed altro.
 
 ## Art. 6. — Domanda di concessione del contributo
  per lavori di trasformazione navale
+
+1.
+                        
+                            
+                                Per la concessione del contributo relativo a lavori di trasformazione riguardanti le unita' di cui all'art. 1 della legge, l'impresa assuntrice dei medesimi, iscritta ad uno degli albi speciali previsti dall'art. 19 della legge, presenta domanda al Ministero della marina mercantile, entro quindici giorni dall'inizio dei lavori, nella quale devono essere indicati:
+ 
+                            
+                            
+                                a)
+                                
+                                    nome o numero, tipo, stazza lorda, nazionalita', destinazione dell'unita' e, per i rimorchiatori o spintori, potenza massima continuativa dell'apparato motore;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    data di inizio dei lavori e presunta durata dei medesimi;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    prezzo dei lavori;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    dichiarazione dell'impresa attestante che la stessa, in relazione ai lavori oggetto della domanda, non ha fruito di provvidenze aventi analoghe finalita' e contestuale impegno a non fruirne in futuro, una volta ottenuta la concessione del contributo di cui al presente articolo;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    dichiarazione dell'impresa sulla corrispondenza dei lavori alle tipologie di cui all'art. 1, commi 4 e 5, della legge.
+
+2.
+                        
+                            
+                                Entro novanta giorni dall'inizio lavori l'impresa assuntrice degli stessi e' tenuta a presentare i seguenti documenti:
+ 
+                            
+                            
+                                a)
+                                
+                                    contratto registrato di commessa dei lavori o, in mancanza, copia autentica degli ordinativi dei lavori da eseguire, sottoscritta dalle parti;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    specifica tecnica;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    piani generali relativi all'unita' prima e dopo la trasformazione;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    distinta dei quantitativi del materiale da impiegare e della manodopera occorrente, ripartita per scafo, allestimento ed apparato motore, sottoscritta dall'impresa stessa;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    certificato del Registro italiano navale attestante la data di inizio dei lavori;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    elementi preventivi di costo dei lavori di cui all'allegato F, compilato nei sub-totali, nei totali, nei conti ausiliari, nelle spese generali e, ove possibile, nei dettagli sottoscritto dall'esecutore dei lavori;
+
+                                
+                            
+                            
+                                g)
+                                
+                                    certificato dell'autorita' marittima del porto d'iscrizione dell'unita' o dell'autorita' consolare se trattasi di unita' estera, ovvero dell'autorita' marittima del porto in cui l'unita' e' approdata per l'esecuzione dei lavori, indicante il nome od il numero, il tipo, la stazza lorda, la destinazione e l'abilitazione dell'unita' nonche', per i rimorchiatori o spintori, potenza massima continuativa dell'apparato motore.
 
 Nei casi di cui all'art. 8, comma 2, della legge, in aggiunta ai documenti previsti dal precedente comma, deve altresi' essere presentata la documentazione comprovante il possesso dei requisiti di cui al decreto ministeriale ivi citato.
 
@@ -82,8 +350,65 @@ L'amministrazione, valutata l'ammissibilita' dell'iniziativa sulla base degli el
 
 Ai fini della corresponsione degli anticipi di cui all'art. 5, comma 6, della legge, l'impresa beneficiaria deve presentare domanda al Ministero della marina mercantile, allegando il certificato del Registro italiano navale attestante lo stato di avanzamento globale della trasformazione della nave.
 
+3.
+                        
+                            
+                                Ai fini della corresponsione dell'anticipo nei casi di cui all'art. 5, comma 2, della legge l'impresa beneficiaria del contributo deve allegare i seguenti documenti:
+ 
+                            
+                            
+                                a)
+                                
+                                    fidejussione bancaria od assicurativa autenticata;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    certificato del Registro italiano navale attestante la data di inizio lavori.
+
 ## Art. 8. — Liquidazione definitiva e pagamento del contributo
  per lavori di trasformazione navale
+
+1.
+                        
+                            
+                                Per la liquidazione definitiva ed il pagamento del contributo l'impresa assuntrice deve presentare domanda entro il termine previsto dall'art. 31 del presente regolamento, allegando i seguenti documenti:
+ 
+                            
+                            
+                                a)
+                                
+                                    certificato del Registro italiano navale contenente una sommaria descrizione dei lavori e l'attestazione della loro rispondenza alle tipologie di cui all'art. 1, commi 4 e 5, della legge, con espresso riferimento al carattere radicale delle modifiche di cui allo stesso quarto comma; le date di inizio e di ultimazione degli stessi; il nome o il numero dell'unita'; l'indicazione della stazza lorda della stessa; l'impresa assuntrice e, qualora i lavori comportino la sostituzione dell'apparato motore, l'indicazione della marca, del tipo, della potenza massima continuativa, del numero dei giri dell'apparato motore installato. Il Registro italiano navale dichiara altresi' che i lavori per cui e' emessa la documentazione di spesa esibita ai sensi della successiva lettera d) del presente articolo corrispondono ai lavori per i quali e' stato concesso il contributo e dichiara la destinazione dell'unita' successivamente ai lavori di trasformazione, conformemente a quanto indicato nell'art. 1, comma 3, del presente regolamento;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    pesi dei materiali impiegati di cui all'allegato E convalidata dal Registro italiano navale, elementi costo lavori eseguiti di cui all'allegato F, conti ausiliari e spese generali di cui all'allegato G;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    distinta delle modifiche alla specifica tecnica gia' presentata, piani generali definitivi;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    indicazione del prezzo complessivo con relativa documentazione di spesa ed ogni altro elemento che l'impresa ritenga utile al fine dell'accertamento dello stesso;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    attestazione dell'Associazione degli industriali competente per territorio, settore navalmeccanico o affine, circa il costo orario, comprensivo degli oneri, della manodopera del cantiere relativo al periodo in cui sono stati eseguiti i lavori di trasformazione dell'unita'.
 
 ## Art. 9. — Aggiunte e varianti
 
@@ -141,6 +466,38 @@ I certificati del Registro italiano navale relativi alle iniziative di costruzio
 
 ## Art. 14. — Concessione del contributo per investimenti
 
+1.
+                        
+                            
+                                Per ottenere la concessione del contributo previsto dall'art. 6 della legge, le imprese di costruzione, trasformazione, riparazione, demolizione navale nonche' di manutenzione di apparati motori marini iscritte ad uno degli albi speciali di cui all'art. 19 della legge, presentano al Ministero della marina mercantile apposita istanza entro il 31 dicembre 1990, pena l'irricevibilita' della stessa, corredata dai seguenti allegati:
+ 
+                            
+                            
+                                a)
+                                
+                                    piano di investimento con particolare riferimento alle finalita' che le iniziative si pongono ed ai prevedibili effetti conseguenti alla loro realizzazione in confronto alla situazione produttiva preesistente;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    planimetrie dei nuovi impianti e disegni delle opere principali;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    descrizione delle opere principali in cui si articola il piano di investimento, con l'indicazione, per singola voce, o per categoria omogenea di spesa, concernente l'ammontare degli investimenti, nonche' le date, anche presunte, di inizio e di ultimazione dei lavori;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    dichiarazione dell'impresa attestante che la stessa, in relazione ai lavori oggetto della domanda, non ha fruito di provvidenze aventi analoghe finalita' e contestuale impegno a non fruirne in futuro, una volta ottenuta la concessione del contributo di cui al presente articolo.
+
 Le imprese possono presentare domanda per l'aggiornamento del piano di investimento, qualora si siano rese necessarie variazioni tecniche in corso d'opera che non modifichino sostanzialmente il piano d'investimento originario, nonche' eventuali riduzioni in corso d'opera, purche' le opere effettivamente realizzate, nel loro complesso, siano idonee a raggiungere gli obiettivi previsti.
 
 Ai fini della concessione degli aiuti agli investimenti di cui all'art. 6 della legge non sono presi in considerazione gli effetti delle riduzioni di capacita' realizzate nel periodo 1984-86.
@@ -174,6 +531,24 @@ Nel caso di investimenti effettuati con il ricorso al sistema della locazione fi
 
 Per ottenere la concessione dei contributi per chiusure totali o parziali di cui all'art. 14 della legge, le imprese interessate presentano istanza al Ministero della marina mercantile.
 
+2.
+                        
+                            
+                                A detta istanza devono essere allegati:
+ 
+                            
+                            
+                                a)
+                                
+                                    relazione tecnico-economica recante una completa illustrazione del piano di riduzione o chiusura, con indicazione delle iniziative ivi previste e delle finalita' che le iniziative stesse si pongono e dei prevedibili effetti conseguenti alla loro realizzazione, e con l'indicazione delle motivazioni che hanno portato alla decisione di ridurre o cessare l'attivita';
+
+                                
+                            
+                            
+                                b)
+                                
+                                    certificato del competente ufficio marittimo attestante che l'impresa richiedente era in effettivo esercizio al 31 dicembre 1970 ed ha continuato la sua attivita' fino alla data del 31 dicembre 1986.
+
 Ai fini della concessione dei contributi per chiusure totali di cui all'art. 14 della legge, non sono prese in considerazione le riduzioni di capacita' effettuate nel periodo 1984-86.
 
 Ai medesimi fini di cui al comma precedente, il "valore contabile residuo delle installazioni" e' incluso tra i costi ammessi al beneficio dell'aiuto con i limiti di cui all'art. 7, comma 2, quinto trattino, della direttiva del Consiglio CEE n. 167/87 del 26 gennaio 1987.
@@ -189,9 +564,66 @@ La liquidazione del contributo e' disposta previo accertamento da parte della co
 
 ## Art. 19. — Concessione del contributo alle imprese armatoriali
 
+1.
+                        
+                            
+                                Le imprese che intendono ottenere il contributo di cui all'art. 9 della legge, per ciascuna iniziativa, presentano domanda al Ministero della marina Mercantile, entro la data di inizio dei relativi lavori, indicando:
+ 
+                            
+                            
+                                a)
+                                
+                                    gli elementi di individuazione dell'impresa;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il tipo, la stazza lorda effettiva o presunta e le caratteristiche principali dell'unita';
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il prezzo dei lavori;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    l'impresa che effettua i lavori e le date effettive o presunte di inizio e fine lavori;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    dichiarazione dell'impresa sulla corrispondenza dei lavori alle tipologie di cui al quarto e quinto comma dell'art. 1 della legge.
+
 Le imprese devono, inoltre, dichiarare il possesso dei requisiti per essere proprietarie di navi italiane ai sensi degli articoli 143 e 144 del codice della navigazione e se abbiano richiesto ed ottenuto, direttamente od indirettamente, per la medesima iniziativa, altre agevolazioni finanziarie, aventi analoghe finalita', da parte dello Stato od altri enti, in Italia o all'estero.
 
 Nella domanda le imprese possono altresi' chiedere che il contributo sia corrisposto secondo le modalita' di cui all'art. 10, comma 2, della legge.
+
+4.
+                        
+                            
+                                Ai fini della concessione del contributo la domanda deve essere corredata o successivamente integrata entro novanta giorni dall'inizio dei lavori dai seguenti documenti:
+ 
+                            
+                            
+                                a)
+                                
+                                    per le nuove costruzioni: contratto di costruzione registrato o di vendita registrato dell'unita' che sia stata iniziata in proprio oppure dichiarazione di costruzione nel caso in cui l'impresa armatoriale e l'impresa che effettua i lavori coincidano; piani generali, specifica tecnica della costruzione con l'indicazione del peso dell'unita' scarica ed asciutta, ripartito in scafo, allestimento ed apparato motore, sottoscritti dall'esecutore delle opere; elementi preventivi di costo dell'unita' di cui all'allegato C, compilato nei sub-totali, nei totali, nei conti ausiliari, nelle spese generali e, ove possibile, nei dettagli, sottoscritto dall'impresa di costruzione; certificato del Registro italiano navale attestante l'inizio lavori, in conformita' di quanto previsto dall'art. 13 del presente regolamento; relazione sul progettato impiego dell'unita' con riferimento al tipo di trasporto o di attivita' cui l'unita' stessa sara' destinata.
+
+                                
+                            
+                            
+                                b)
+                                
+                                    per i lavori di trasformazione: contratto di commessa dei lavori registrato o, in mancanza, copia autentica degli ordinativi dei lavori da eseguire, sottoscritta per accettazione dall'esecutore delle opere; descrizione tecnica dei lavori con allegati i relativi disegni illustrativi; distinta dei quantitativi del materiale da impiegare e della manodopera occorrente, ripartita per scafo, allestimento ed apparato motore, sottoscritta dall'esecutore delle opere; elementi preventivi di costo dei lavori di cui all'allegato F, compilato nei sub-totali, nei totali, nei conti ausiliari, nelle spese generali e, ove possibile, nei dettagli, sottoscritto dall'esecutore dei lavori; nel caso di navi nazionali, estratto delle matricole o dei registri di cui all'art. 146 del codice della navigazione attestante che l'impresa e' proprietaria della nave da trasformare; in caso di unita' non ancora iscritta, adeguata documentazione attestante il titolo di proprieta'; certificato del Registro italiano navale relativo all'inizio lavori in conformita' di quanto previsto dall'art. 13 del presente regolamento; relazione sul progettato impiego dell'unita' con riferimento al tipo di trasporto o di attivita' cui l'unita' stessa sara' destinata.
 
 Ai fini della corresponsione del contributo per lavori di costruzione o di trasformazione, secondo le modalita' di cui all'art. 10, comma 2, della legge, le imprese devono presentare certificato del Registro italiano navale attestante il raggiungimento del 10% dei lavori, conformemente a quanto indicato nell'art. 13 del presente regolamento.
 
@@ -263,6 +695,24 @@ L'erogazione delle rate semestrali di contributo potra' avvenire anche attravers
 ## Art. 26. — Concessione, liquidazione e pagamento del contributo
  per la demolizione navale
 
+1.
+                        
+                            
+                                Per la concessione del contributo di cui all'art. 7 della legge le imprese di demolizione navale iscritte all'albo speciale di demolizione navale, di cui all'art. 19 della legge, presentano al Ministero della marina mercantile domanda nella quale devono essere indicati:
+ 
+                            
+                            
+                                a)
+                                
+                                    nome o numero, tipo, stazza lorda e nazionalita' della nave da demolire; potenza dell'apparato motore qualora trattasi di unita' di cui all'art. 7, comma 4, lettera b), della legge;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    data dell'inizio dei lavori di demolizione e presunta loro durata o data ultimazione lavori.
+
 Alla domanda deve essere allegato il certificato dell'autorita' marittima del porto di iscrizione della nave o dell'autorita' consolare se trattasi di nave estera, ovvero dell'autorita' marittima del porto in cui la nave e' approdata per la demolizione, indicante il nome o il numero, il tipo, la stazza lorda e la nazionalita' della nave e, qualora trattasi di unita' di cui all'art. 7, comma 4, lettera b), della legge, la potenza dell'apparato motore; il certificato deve altresi' attestare che l'impresa ha titolo per procedere alla demolizione della nave e specificare la normativa applicata per la stazzatura della nave.
 
 Per ottenere la liquidazione ed il pagamento del contributo le imprese devono presentare a pena di decadenza al Ministero della marina mercantile domanda entro il termine di un anno dalla data di ultimazione dei lavori di demolizione, con allegato il certificato dell'autorita' marittima attestante la data di inizio e di ultimazione dei lavori stessi. Detto periodo si computa dalla data di entrata in vigore del presente regolamento nel caso di iniziative ultimate anteriormente a quest'ultima data.
@@ -277,6 +727,31 @@ Per i lavori di demolizione iniziati dal 1 gennaio 1987 alla data di iscrizion
 ## - Titolo V DISPOSIZIONI TRANSITORIE COMUNI E FINALI
 
 ## Art. 28. — Verifiche del Registro italiano navale
+
+1.
+                        
+                            
+                                Le imprese di costruzione navale nazionali che intendano ottenere il contributo sugli oneri per le verifiche effettuate dal Registro italiano navale negli anni 1989, 1990 e 1991 ai fini del rilascio dei certificati previsti dalle convenzioni internazionali e dalle leggi di cui all'art. 4, comma 2, della legge in relazione alla costruzione nei propri cantieri di navi mercantili di stazza lorda non inferiore alle 100 tonnellate destinate ad essere iscritte nelle matricole o nei registri di cui all'art. 146 del codice della navigazione, presentano istanza al Ministero della marina mercantile con riferimento alle fatture, quietanzate dal predetto organo, emesse nei propri confronti in ciascun anno del summenzionato triennio. La predetta istanza, da presentarsi a pena di irricevibilita' entro i sessanta giorni successivi alla scadenza dell'anno di riferimento, deve indicare:
+ 
+                            
+                            
+                                a)
+                                
+                                    l'unita' o le unita' per cui e' stata effettuata la fatturazione, con specificazioni circa la corrispondenza della o delle unita' in questione alla definizione di cui all'art. 1, comma 3, del presente regolamento;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    dichiarazione sottoscritta dal committente attestante che l'unita' o le unita' per cui sia stata emessa fatturazione saranno iscritte nelle matricole o nei registri di cui all'art. 146 del codice della navigazione;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    estratto del registro delle navi e costruzioni in cui siano iscritte le unita' interessate.
 
 Gli armatori di navi nazionali aventi le caratteristiche di cui al comma precedente che intendano ottenere il contributo previsto dall'art. 4, comma 7, della legge, presentano, negli stessi termini e con le medesime modalita' previste nel precedente comma, istanza al Ministero della marina mercantile, contenente gli elementi di cui alla lettera a) del precedente comma e corredata dell'estratto delle matricole o dei registri di cui all'art. 146 del codice della navigazione in cui figurino le unita' interessate e della certificazione dell'autorita' marittima dalla quale risulti che nel periodo di riferimento le navi interessate siano state in esercizio.
 

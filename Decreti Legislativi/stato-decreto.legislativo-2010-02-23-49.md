@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
 vigenza_date: 2014-08-21
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:23Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -32,6 +32,31 @@ Restano ferme le disposizioni della parte terza del decreto legislativo 3 aprile
 
 ## Art. 2. — Definizioni
 
+1.
+                    
+                        
+                            Ai fini del presente decreto, oltre alle definizioni di fiume, di bacino idrografico, di sottobacino e di distretto idrografico di cui all'articolo 54, comma 1, del decreto legislativo n. 152 del 2006 si applicano le seguenti definizioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                alluvione: l'allagamento temporaneo, anche con trasporto ovvero mobilitazione di sedimenti anche ad alta densita', di aree che abitualmente non sono coperte d'acqua. Cio' include le inondazioni causate da laghi, fiumi, torrenti, eventualmente reti di drenaggio artificiale, ogni altro corpo idrico superficiale anche a regime temporaneo, naturale o artificiale, le inondazioni marine delle zone costiere ed esclude gli allagamenti ((causati da impianti fognari)); 
+
+                            
+                        
+                        
+                            b)
+                            
+                                pericolosita' da alluvione: la probabilita' di accadimento di un evento alluvionale in un intervallo temporale prefissato e in una certa area; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                rischio di alluvioni: la combinazione della probabilita' di accadimento di un evento alluvionale e delle potenziali conseguenze negative per la salute umana, il territorio, i beni, l'ambiente, il patrimonio culturale e le attivita' economiche e sociali derivanti da tale evento.
+
 ## Art. 3. — Competenze amministrative
 
 Ferme restando le competenze del Ministero dell'ambiente e della tutela del territorio e del mare, agli adempimenti di cui agli articoli 4, 5, 6 e 7, comma 3, lettera a), provvedono, secondo quanto stabilito agli stessi articoli, le autorita' di bacino distrettuali di cui all'articolo 63 del decreto legislativo n. 152 del 2006, alle quali, ai sensi dell'articolo 67 dello stesso decreto, compete l'adozione dei piani stralcio di distretto per l'assetto idrogeologico.
@@ -41,6 +66,38 @@ Le regioni, in coordinamento tra loro e con il Dipartimento nazionale della prot
 ## Art. 4. — Valutazione preliminare del rischio di alluvioni
 
 Le autorita' di bacino distrettuali di cui all'articolo 63 del decreto legislativo n. 152 del 2006 effettuano, nell'ambito del distretto idrografico di riferimento, entro il 22 settembre 2011, la valutazione preliminare del rischio di alluvione, facendo salvi gli strumenti gia' predisposti nell'ambito della pianificazione di bacino in attuazione di norme previgenti, nonche' delle disposizioni della parte terza, sezione I, del decreto legislativo n. 152 del 2006.
+
+2.
+                    
+                        
+                            La valutazione preliminare del rischio di alluvioni fornisce una valutazione dei rischi potenziali, principalmente sulla base dei dati registrati, di analisi speditive e degli studi sugli sviluppi a lungo termine, tra cui, in particolare, le conseguenze dei cambiamenti climatici sul verificarsi delle alluvioni e tenendo conto della pericolosita' da alluvione. Detta valutazione comprende almeno i seguenti elementi: 
+ 
+                        
+                        
+                            a)
+                            
+                                cartografie tematiche del distretto idrografico in scala appropriata comprendenti i limiti amministrativi, i confini dei bacini idrografici, dei sottobacini e delle zone costiere, dalle quali risulti la topografia e l'uso del territorio; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                descrizione delle alluvioni avvenute in passato che hanno avuto notevoli conseguenze negative per la salute umana, il territorio, i beni, l'ambiente, il patrimonio culturale e le attivita' economiche e sociali e che, con elevata probabilita', possono ancora verificarsi in futuro in maniera simile, compresa l'estensione dell'area inondabile e, ove noti, le modalita' di deflusso delle acque, gli effetti al suolo e una valutazione delle conseguenze negative che hanno avuto; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                descrizione delle alluvioni significative avvenute in passato che pur non avendo avuto notevoli conseguenze negative ne potrebbero avere in futuro; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                valutazione delle potenziali conseguenze negative di future alluvioni per la salute umana, il territorio, i beni, l'ambiente, il patrimonio culturale e le attivita' economiche e sociali, tenendo conto di elementi quali la topografia, la localizzazione dei corpi idrici superficiali e le loro caratteristiche idrologiche e geomorfologiche generali, le aree di espansione naturale delle piene, l'efficacia delle infrastrutture artificiali esistenti per la difesa dalle alluvioni, la localizzazione delle aree popolate, di quelle ove esistono attivita' economiche e sociali e gli scenari a lungo termine, quali quelli socio-economici e ambientali, determinati anche dagli effetti dei cambiamenti climatici.
 
 Nel caso dei distretti idrografici internazionali condivisi con altri Stati membri dell'Unione europea, il Ministero dell'ambiente e della tutela del territorio e del mare e le autorita' di bacino distrettuali interessate garantiscono lo scambio delle pertinenti informazioni.
 
@@ -69,6 +126,52 @@ Per ogni scenario di cui al comma 2 vanno indicati almeno i seguenti elementi:
 
 Per le zone costiere in cui esiste un adeguato livello di protezione e per le zone in cui le inondazioni sono causate dalle acque sotterranee, le mappe di cui al comma 2 possono fare riferimento solo agli scenari di cui al comma 2, lettera a).
 
+5.
+                    
+                        
+                            Le mappe del rischio di alluvioni indicano le potenziali conseguenze negative derivanti dalle alluvioni, nell'ambito degli scenari di cui al comma 2 e prevedono le 4 classi di rischio di cui al decreto del Presidente del Consiglio dei Ministri in data 29 settembre 1998, pubblicato nella Gazzetta Ufficiale n. 3 del 5 gennaio 1993, espresse in termini di: 
+ 
+                        
+                        
+                            a)
+                            
+                                numero indicativo degli abitanti potenzialmente interessati; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                infrastrutture e strutture strategiche (autostrade, ferrovie, ospedali, scuole, etc); 
+
+                            
+                        
+                        
+                            c)
+                            
+                                beni ambientali, storici e culturali di rilevante interesse presenti nell'area potenzialmente interessata; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                distribuzione e tipologia delle attivita' economiche insistenti sull'area potenzialmente interessata; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                impianti di cui all'allegato I del decreto legislativo 18 febbraio 2005, n. 59, che potrebbero provocare inquinamento accidentale in caso di alluvione e aree protette potenzialmente interessate, individuate all'allegato 9 alla parte terza del decreto legislativo n. 152 del 2006; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                altre informazioni considerate utili dalle autorita' di bacino distrettuali, come le aree soggette ad alluvioni con elevato volume di trasporto solido e colate detritiche o informazioni su fonti rilevanti di inquinamento.
+
 L'elaborazione delle mappe di cui al comma 1 per le zone di cui all'articolo 5, comma 1, condivise con altri Stati membri della Comunita' europea e' effettuata previo scambio preliminare di informazioni tra le autorita' competenti interessate.
 
 Le mappe della pericolosita' da alluvione, e le mappe del rischio di alluvioni di cui al comma 1 non sono predisposte qualora vengano adottate le misure transitorie di cui all'articolo 11, comma 2.
@@ -78,6 +181,148 @@ Le mappe della pericolosita' da alluvione, e le mappe del rischio di alluvioni d
 I piani di gestione del rischio di alluvioni, di seguito piani di gestione, riguardano tutti gli aspetti della gestione del rischio di alluvioni, in particolare la prevenzione, la protezione e la preparazione, comprese le previsioni di' alluvione e il sistema di allertamento nazionale e tengono conto delle caratteristiche del bacino idrografico o del sottobacino interessato. I piani di gestione possono anche comprendere la promozione di pratiche sostenibili di uso del suolo, il miglioramento delle azioni di ritenzione delle acque, nonche' l'inondazione controllata di certe aree in caso di fenomeno alluvionale.
 
 Nei piani di gestione di cui al comma 1, sono definiti gli obiettivi della gestione del rischio di alluvioni per 1e zone di cui all'articolo 5, comma 1, e per quelle di cui all'articolo 11, evidenziando, in particolare, la riduzione delle potenziali conseguenze negative per la salute umana, il territorio, i beni, l'ambiente, il patrimonio culturale e le attivita' economiche e sociali, attraverso l'attuazione prioritaria di interventi non strutturali e di azioni per la riduzione della pericolosita'.
+
+3.
+                    
+                        
+                            Sulla base delle mappe di cui all'articolo 6: 
+ 
+                        
+                        
+                            a)
+                            
+                                le autorita' di bacino distrettuali di cui all'articolo 63 del decreto legislativo n. 152 del 2006 predispongono, secondo le modalita' e gli obiettivi definiti ai commi 2 e 4, piani di gestione, coordinati a livello di distretto idrografico, per le zone di cui all'articolo 5, comma 1, e le zone considerate ai sensi dell'articolo 11, comma 1. Detti piani sono predisposti nell'ambito delle attivita' di pianificazione di bacino di cui agli articoli 65, 66, 67, 68 del decreto legislativo n. 152 del 2006, facendo salvi gli strumenti di pianificazione gia' predisposti nell'ambito della pianificazione di bacino in attuazione della normativa previgente; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                le regioni, in coordinamento tra loro, nonche' con il Dipartimento nazionale della protezione civile, predispongono, ai sensi della normativa vigente e secondo quanto stabilito al comma 5, la parte dei piani di gestione per il distretto idrografico di riferimento relativa al sistema di allertamento, nazionale, statale e regionale, per il rischio idraulico ai fini di protezione civile, di cui alla direttiva del Presidente del Consiglio dei Ministri in data 27 febbraio 2004, con particolare riferimento al governo delle piene.
+
+4.
+                    
+                        
+                            I piani di gestione del rischio di alluvioni comprendono misure per raggiungere gli obiettivi definiti a norma del comma 2, nonche' gli elementi indicati all'allegato I, parte A. I piani di gestione tengono conto di aspetti quali: 
+ 
+                        
+                        
+                            a)
+                            
+                                la portata della piena e l'estensione dell'inondazione; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                le vie di deflusso delle acque e le zone con capacita' di espansione naturale delle piene; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                gli obiettivi ambientali di cui alla parte terza, titolo II, del decreto legislativo n. 152 del 2006; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                la gestione del suolo e delle acque; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                la pianificazione e le previsioni di sviluppo del territorio; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                l'uso del territorio; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                la conservazione della natura; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                la navigazione e le infrastrutture portuali; 
+
+                            
+                        
+                        
+                            i)
+                            
+                                i costi e i benefici; 
+
+                            
+                        
+                        
+                            l)
+                            
+                                le condizioni morfologiche e meteomarine alla foce.
+
+5.
+                    
+                        
+                            Per la parte di cui al comma 3, lettera b), i piani di gestione contengono una sintesi dei contenuti dei piani urgenti di emergenza predisposti ai sensi dell'articolo 67, comma 5, del decreto legislativo n. 152 del 2006, nonche' della normativa previgente e tengono conto degli aspetti relativi alle attivita' di: 
+ 
+                        
+                        
+                            a)
+                            
+                                previsione, monitoraggio, sorveglianza ed allertamento posti in essere attraverso la rete dei centri funzionali; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                presidio territoriale idraulico posto in essere attraverso adeguate strutture e soggetti regionali e provinciali; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                regolazione dei deflussi posta in essere anche attraverso i piani di laminazione; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                supporto all'attivazione dei piani urgenti di emergenza predisposti dagli organi di protezione civile ai sensi dell'articolo 67, comma 5, del decreto legislativo n. 152 del 2006 e della normativa previgente.
+
+6.
+                    
+                        
+                            Gli enti territorialmente interessati si conformano alle disposizioni dei piani di gestione di cui al presente articolo: 
+ 
+                        
+                        
+                            a)
+                            
+                                rispettandone le prescrizioni nel settore urbanistico, ai sensi dei commi 4 e 6 dell'articolo 65 del decreto legislativo n. 152 del 2006; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                predisponendo o adeguando, nella loro veste di organi di protezione civile, per quanto di competenza, i piani urgenti di emergenza di cui all'articolo 67, comma 5, del decreto legislativo n. 152 del 2006, facendo salvi i piani urgenti di emergenza gia' predisposti ai sensi dell'articolo 1, comma 4, del decreto-legge 11 giugno 1998, n. 180, convertito, con modificazioni, dalla legge 3 agosto 1998, n. 267.
 
 I piani di gestione di cui al presente articolo non includono misure che, per la loro portata e il loro impatto, possano incrementare il rischio di alluvione a monte o a valle di altri paesi afferenti lo stesso bacino idrografico o sottobacino, a meno che tali misure non siano coordinate e non sia stata trovata una soluzione concordata tra gli Stati interessati ai sensi dell'articolo
 
@@ -105,6 +350,31 @@ Le autorita' di bacino distrettuali di cui all'articolo 63 del decreto legislati
 I piani di gestione del rischio di alluvioni di cui all'articolo 7 ((comma 3, lettera a))) del presente decreto sono sottoposti alla verifica di assoggettabilita' alla valutazione ambientale strategica (VAS), di cui all'articolo 12 del decreto legislativo 3 aprile 2006, n. 152, qualora definiscano il quadro di riferimento per la realizzazione dei progetti elencati negli allegati II, III e IV alla parte seconda dello stesso decreto legislativo, oppure possano comportare un qualsiasi impatto ambientale sui siti designati come zone di protezione speciale per la conservazione degli uccelli selvatici e su quelli classificati come siti di importanza comunitaria per la protezione degli habitat naturali e della flora e della fauna selvatica.
 
 Ai fini dell'applicazione dell'articolo 77, comma 10, del decreto legislativo n. 152 del 2006, per alluvioni estreme si intendono le alluvioni di cui all'articolo 6, comma 2, lettera a), nonche' le alluvioni eccezionali, non prevedibili ma di impatto equivalente alle precedenti.
+
+3.
+                    
+                        
+                            Le misure di' cui al comma 1 garantiscono, in particolare, che: 
+ 
+                        
+                        
+                            a)
+                            
+                                le prime mappe della pericolosita' e del rischio di alluvioni di cui all'articolo 6 ed i successivi riesami di cui all'articolo 12 siano predisposti in modo che le informazioni in essi contenute siano coerenti con le informazioni, comunque correlate, presentate a norma dell'articolo 63, comma 7, lettera c), del decreto legislativo n. 152 del 2006. Essi sono coordinati e possono essere integrati nei riesami dei piani di gestione di cui all'articolo 117 dello stesso decreto legislativo n. 152 del 2006; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                l'elaborazione dei primi piani di gestione di cui agli articoli 7 e 8 ed i successivi riesami di cui all'articolo 12 siano effettuati in coordinamento con i riesami dei piani di gestione dei bacini idrografici di cui all'articolo 117 del decreto legislativo n. 152 del 2006 e possano essere integrati nei medesimi; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                la partecipazione attiva di tutti soggetti interessati di cui all'articolo 10, sia coordinata, quando opportuno, con la partecipazione attiva di tutti soggetti interessati prevista all'articolo 66, comma 7, del decreto legislativo n, 152 del 2006.
 
 ## Art. 10. — Informazione e consultazione del pubblico
 

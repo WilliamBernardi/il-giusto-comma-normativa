@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
 vigenza_date: 2018-01-01
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:29Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -65,6 +65,24 @@ Per i lavoratori di cui ai commi 2 e 3 si applicano le disposizioni in tema di o
 Per i lavoratori iscritti al Fondo successivamente alla data del 31 dicembre 1995 e privi di anzianita' contributiva alla predetta data, in luogo delle pensioni di vecchiaia e di anzianita', il Fondo medesimo eroga un'unica prestazione denominata "pensione di vecchiaia".
 
 ## Art. 3. — Modalita' di calcolo e requisiti d'accesso delle prestazioni pensionistiche
+
+1.
+                    
+                        
+                            Per i lavoratori gia' iscritti al Fondo alla data del 31 dicembre 1995, la pensione di vecchiaia si consegue: 
+ 
+                        
+                        
+                            a)
+                            
+                                all'eta' di 53 anni per gli uomini; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                all'eta' di 49 anni per le donne. Tale requisito e' fissato a 50 anni a decorrere dal 1° gennaio 2016, a 51 anni a decorrere dal 1° gennaio 2018, a 52 anni a decorrere dal 1° gennaio 2020 e a 53 anni a decorrere dal 1° gennaio 2022.
 
 I lavoratori di cui al comma 1 conseguono il diritto alla pensione quando siano trascorsi almeno venti anni dalla data iniziale dell'assicurazione all'ENPALS e risultino versati o accreditati in loro favore almeno 20 anni di contributi giornalieri, compresi quelli per prosecuzione volontaria. La predetta contribuzione deve risultare versata per lavoro svolto esclusivamente con la qualifica di professionista sportivo.
 

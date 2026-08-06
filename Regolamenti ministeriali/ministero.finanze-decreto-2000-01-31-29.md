@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
 vigenza_date: 2012-04-29
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:39Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -34,6 +34,45 @@ L'espletamento delle gare e il controllo centralizzato del gioco, dei relativi f
 
 ## Art. 2. — Concessione per la gestione del gioco
 
+1.
+                    
+                        
+                            Il Ministero delle finanze attribuisce, nel numero di volta in volta stabilito su direttiva del Ministro, in base al risultato delle gare espletate secondo la normativa comunitaria dall'affidatario del controllo centralizzato del gioco, le concessioni per la gestione del gioco del "Bingo" in apposite sale a persone fisiche o societa' con idonei e comprovati requisiti anche in ordine alla solidita' finanziaria, sulla base dei seguenti criteri:
+ 
+                        
+                        
+                            a)
+                            
+                                trasparenza dell'assetto proprietario ed efficienza della gestione delle singole sale di effettuazione del gioco;
+
+                            
+                        
+                        
+                            b)
+                            
+                                razionale e bilanciata distribuzione sul territorio, secondo parametri programmati e controllabili, della rete di sale destinate alla effettuazione del gioco;
+
+                            
+                        
+                        
+                            c)
+                            
+                                garanzia della liberta' di concorrenza e di mercato mediante la previsione di parametri volti ad impedire l'abuso di posizioni dominanti, tenendo anche conto del numero delle concessioni attribuite a ciascuna persona fisica o societa' e del volume di gioco raccoglibile da ciascun concessionario;
+
+                            
+                        
+                        
+                            d)
+                            
+                                adozione da parte dei concessionari e da parte del gestore, per lo svolgimento e la gestione del gioco, di strumenti informatici conformi alle specifiche tecniche stabilite con decreto del Ministero delle finanze al fine di assicurarne la compatibilita' con il sistema informativo di controllo centralizzato;
+
+                            
+                        
+                        
+                            e)
+                            
+                                le concessioni hanno la durata di sei anni e sono rinnovabili per una sola volta.
+
 Con decreto del Ministero delle finanze sono approvate le convenzioni-tipo che accedono alle concessioni.
 
 Il trasferimento della concessione e' consentito previo assenso del Ministero delle finanze a soggetti in possesso dei requisiti stabiliti per il rilascio della stessa.
@@ -41,6 +80,31 @@ Il trasferimento della concessione e' consentito previo assenso del Ministero de
 Se il concessionario e' costituito in forma di societa' per azioni, in accomandita per azioni o a responsabilita' limitata, le azioni aventi diritto di voto o le quote devono essere intestate a persone fisiche, societa' in nome collettivo o in accomandita semplice. E' escluso il trasferimento per semplice girata di dette azioni o quote. Le imprese comunicano al Ministero delle finanze l'elenco dei soci titolari, con il numero delle azioni o l'entita' delle quote da essi possedute e gli eventuali trasferimenti di titolarita'. La societa' per azioni deve altrimenti essere quotata in borsa. L'inosservanza delle disposizioni del presente comma comporta la decadenza dalla concessione.
 
 ## Art. 3. — Decadenza e revoca delle concessioni
+
+1.
+                    
+                        
+                            Il Ministero delle finanze dichiara la decadenza dalla concessione quando vengano meno i requisiti per l'attribuzione della concessione di cui al presente regolamento e al relativo bando di gara. La concessione e' inoltre revocata:
+ 
+                        
+                        
+                            a)
+                            
+                                in caso di interruzione dell'attivita' per cause non dipendenti da forza maggiore;
+
+                            
+                        
+                        
+                            b)
+                            
+                                quando nello svolgimento dell'attivita' sono commesse violazioni delle disposizioni del presente regolamento;
+
+                            
+                        
+                        
+                            c)
+                            
+                                quando vengono accertati gravi irregolarita' amministrative o il mancato rispetto degli obblighi fiscali.
 
 Il decreto di decadenza o di revoca e' pubblicato nella Gazzetta Ufficiale della Repubblica italiana.
 
@@ -51,6 +115,24 @@ La disposizione di cui al comma 3 si applica anche agli amministratori e ai soci
 ## Art. 4. — Disciplina dell'esercizio del gioco
 
 Il Bingo consiste nella estrazione di 90 numeri dall'1 al 90, ambedue inclusi, avendo i giocatori come unita' di gioco una o piu' cartelle su cui sono stampati quindici numeri diversi, distribuiti su tre file orizzontali di cinque numeri ciascuna e su nove colonne verticali, ciascuna comprendente i numeri della stessa decina, su ognuna delle quali possono essere uno, due o tre numeri, senza che vi sia mai una colonna senza numero.
+
+2.
+                    
+                        
+                            Le combinazioni vincenti sono:
+ 
+                        
+                        
+                            a)
+                            
+                                la cinquina che si realizza quando, durante una partita, per la prima volta sono estratti tutti e cinque i numeri che formano una fila orizzontale di una delle cartelle;
+
+                            
+                        
+                        
+                            b)
+                            
+                                il bingo che si realizza quando, durante una partita, per la prima volta, sono estratti tutti e quindici i numeri di una cartella.
 
 Con decreto del Ministero delle finanze e' approvata la disciplina relativa alle modalita' e agli elementi del gioco, alla stampa, alla distribuzione, alla vendita e all'uso delle cartelle, alle apparecchiature per l'estrazione delle palline, alle caratteristiche e all'uso delle palline, al prezzo di vendita delle cartelle, ai premi e alla loro corresponsione, alle regole di svolgimento delle partite, ai rimborsi, alla tenuta del libro dei verbali delle partite di gioco e ad ogni altra disposizione necessaria al buon andamento del gioco.
 

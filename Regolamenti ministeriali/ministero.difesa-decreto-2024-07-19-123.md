@@ -7,8 +7,8 @@ urn: urn:nir:ministero.difesa:decreto:2024-07-19;123
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:39Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -33,6 +33,94 @@ Acquisito il nulla osta della Presidenza del Consiglio dei Ministri all'adozione
 Il presente decreto stabilisce le regole tecniche del processo penale telematico della Giustizia Militare, disciplinando anche il periodo transitorio e la sperimentazione effettuata durante lo stesso.
 
 ## Art. 2. — Definizioni
+
+1.
+                        
+                            
+                                Ai fini del presente decreto si intendono per: 
+ 
+                            
+                            
+                                a)
+                                
+                                    
+                                        codice di procedura penale: allegato 1 al decreto del Presidente della Repubblica 22 settembre 1988, n. 447, recante «Approvazione del codice di procedura penale»; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    leggi processuali penali: l'insieme delle norme che disciplinano il procedimento e il processo penale militare in Italia, comprensivo sia del codice di procedura penale, sia dei codici penali militari di pace e di guerra, sia delle leggi speciali; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    giudizio penale militare: il complesso dell'attivita' procedimentale e processuale penale militare italiana, dal momento dell'iscrizione della notizia di reato sino all'esecuzione della pena irrogata, comprensivo anche dell'attivita' di sorveglianza; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    
+                                        codice penale: regio decreto 19 ottobre 1930, n. 1398, recante «Approvazione del testo definitivo del codice penale»; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    codici penali militari di pace e di guerra: regio decreto 20 febbraio 1941, n. 303, recante «Codici penali militari di pace e di guerra»; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    
+                                        codice dell'ordinamento militare: decreto legislativo 15 marzo 2010, n. 66, recante «Codice dell'ordinamento militare»; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    
+                                        codice dell'amministrazione digitale: decreto legislativo 7 marzo 2005, n. 82, recante «Codice dell'amministrazione digitale; 
+ h) linee guida AgID: le linee guida sulla formazione, gestione e conservazione dei documenti informatici ai sensi degli artt. 14-bis e 71 del codice dell'amministrazione digitale; 
+ i) codice in materia di protezione dei dati personali: decreto legislativo 30 giugno 2003, n. 196, recante «Codice in materia di protezione dei dati personali», recante disposizioni per l'adeguamento dell'ordinamento nazionale al regolamento (UE) n. 2016/679 del Parlamento europeo e del Consiglio, del 27 aprile 2016, relativo alla protezione delle persone fisiche con riguardo al trattamento dei dati personali, nonche' alla libera circolazione di tali dati e che abroga la direttiva 95/46/CE e successive modificazioni e abrogazioni di cui al decreto legislativo 10 agosto 2018, n. 101; 
+ l) Sistema Informativo della Giustizia Militare, di seguito denominato SIGMIL: l'insieme delle risorse hardware e software, mediante le quali il Ministero della difesa gestisce in via automatizzata attivita', dati, servizi, comunicazioni e procedure riguardanti l'esercizio dei compiti istituzionali inerenti allo svolgimento dell'attivita' processuale; 
+ m) Portale della Giustizia Militare: piattaforma informatica che fornisce le informazioni relative alla organizzazione della Giustizia Militare, e consente l'accesso ai servizi telematici resi disponibili dal SIGMIL, secondo le regole tecnico-operative previste nel presente decreto; 
+ n) posta elettronica certificata: sistema di posta elettronica nel quale e' fornita al mittente documentazione elettronica attestante l'invio e la consegna di documenti informatici, di cui all'articolo 1, comma 1, lettera g), del decreto del Presidente della Repubblica 11 febbraio 2005, n. 68; 
+ o) upload: e' il processo di invio o trasmissione di un file (o piu' genericamente di un flusso finito di dati o informazioni) da un client ad un sistema remoto (denominato server) attraverso una rete informatica; 
+ p) firma digitale: un particolare tipo di firma qualificata basata su un su un sistema di chiavi crittografiche, una pubblica e una privata, correlate tra loro, che consente al titolare di firma elettronica tramite la chiave privata e a un soggetto terzo tramite la chiave pubblica, rispettivamente, di rendere manifesta e di verificare la provenienza e l'integrita' di un documento informatico o di un insieme di documenti informatici di cui all'articolo 1, comma 1, lettera s), del decreto legislativo 7 marzo 2005, n. 82; 
+ q) identificazione informatica: processo di identificazione dell'utente abilitato interno o esterno per l'accesso ai servizi, alle piattaforme e alle risorse del dominio giustizia, mediante autenticazione elettronica, in conformita' alle disposizioni dettate in materia di identificazione e autenticazione elettronica dal decreto legislativo 7 marzo 2005, n. 82 e dal Regolamento (UE) n. 910/2014 (eIDAS); 
+ r) fascicolo informatico: fascicolo contenente gli atti e i documenti redatti in forma di documento informatico nonche' le copie informatiche di atti e documenti redatti in forma di documento analogico, nel rispetto di quanto stabilito dal codice dell'amministrazione digitale e dalla disciplina processuale vigente; 
+ s) documento informatico: il documento elettronico che contiene la rappresentazione informatica di atti, fatti o dati giuridicamente rilevanti; 
+ t) documento informatico multimediale: contenuto audio, video e/o foto codificati, ovvero compressi in modo digitale di atti, fatti o dati giuridicamente rilevanti mediante registrazione sonora, visiva o audiovisiva; 
+ u) copia informatica di documento analogico: il documento informatico avente contenuto identico a quello del documento analogico da cui e' tratto; 
+ v) copia per immagine su supporto informatico del documento analogico: documento informatico avente contenuto e forma identici a quelli del documento analogico da cui e' tratto; 
+ z) copia informatica di documento informatico: il documento informatico avente contenuto identico a quello del documento da cui e' tratto su supporto informatico con diversa sequenza di valori binari; 
+ aa) duplicato informatico: il documento informatico ottenuto mediante la memorizzazione, sullo stesso dispositivo o su dispositivi diversi, della medesima sequenza di valori binari del documento originario; 
+ bb) responsabile della transizione digitale del Ministero della difesa: il capo del VI Reparto dello Stato maggiore della Difesa; 
+ cc) soggetti abilitati: i soggetti abilitati ad interagire con il SIGMIL o con altri servizi telematici della Giustizia Militare. In particolare, si intende per: 1) soggetti abilitati interni, i magistrati militari, la polizia giudiziaria e il personale degli uffici giudiziari militari; 2) soggetti abilitati esterni, gli ausiliari del magistrato militare, i difensori, le parti pubbliche e private, gli altri soggetti previsti dalle leggi processuali penali;
+3) soggetti abilitati esterni pubblici, l'Avvocatura generale dello Stato, le avvocature distrettuali dello Stato, gli avvocati e i procuratori dello Stato, gli altri dipendenti di amministrazioni statali, regionali, metropolitane, provinciali e comunali nonche' il personale di polizia giudiziaria ed ogni altro soggetto tenuto per legge alla trasmissione della notizia di reato e delle comunicazioni successive; 
+ dd) soggetti ammessi a partecipare all'attivita' da remoto: tutti i soggetti che partecipano mediante collegamento audiovisivo ad una attivita' del giudizio penale militare; 
+ ee) magistrati militari: i soggetti esercitanti la funzione giudiziaria militare, tanto giudicante quanto requirente, di cui all'articolo 52 e ss. del codice dell'ordinamento militare; 
+ ff) pubblico ministero militare: il soggetto esercitante la funzione giudiziaria militare requirente; 
+ gg) personale amministrativo: il personale degli uffici giudiziari militari diverso dai magistrati militari e dalla polizia giudiziaria; 
+ hh) polizia giudiziaria: i soggetti esercitanti le funzioni previste dagli articoli 55 e seguenti del codice di procedura penale; 
+ ii) uffici giudiziari militari: il complesso degli uffici giudiziari, sia giudicanti che requirenti, indicati negli articoli 54, 55, 56, 57 e 58 del codice dell'ordinamento militare; 
+ ll) cooperazione applicativa: sistema di scambio di dati strutturati tra sistemi informativi sulla base di accordi di servizio tra amministrazioni; 
+ mm) spam: messaggi indesiderati; 
+ nn) software antispam: programma informatico che permette di inibire la ricezione di e-mail indesiderate; 
+ oo) log: documento informatico contenente la registrazione sequenziale e cronologica delle operazioni effettuate da un sistema informatico (server, storage, client, applicazioni o qualsiasi altro dispositivo informatizzato o programma); 
+ pp) specifiche tecniche: le disposizioni di carattere tecnico emanate, ai sensi dell'articolo 24, dal Responsabile della transizione al digitale del Ministero della difesa sentita l'Agenzia per l'Italia Digitale, d'intesa con il Consiglio della Magistratura Militare e, limitatamente ai profili inerenti alla protezione dei dati personali, sentito il Garante per la protezione dei dati personali; 
+ qq) PagoPA: il sistema dei pagamenti a favore delle pubbliche amministrazioni e dei gestori di pubblici servizi, che si avvale della piattaforma tecnologica di cui all'articolo 5, comma 2, del codice dell'amministrazione digitale; 
+ rr) Identificativo unico di versamento: codice numerico conforme agli standard stabiliti da PagoPA, che costituisce elemento identificativo delle operazioni che transitano su PagoPA.
 
 ## - Capo II Il processo penale telematico nella giustizia militare
 
@@ -137,6 +225,31 @@ I fascicoli del giudizio penale militare sono formati, conservati, aggiornati tr
 
 Restano fermi gli obblighi di conservazione dei documenti originali unici su supporto cartaceo previsti dal codice dell'amministrazione digitale o di atti e documenti depositati o comunque acquisiti in forma di documento analogico in conformita' alla disciplina processuale vigente.
 
+5.
+                        
+                            
+                                Il fascicolo informatico contiene l'indicazione: 
+ 
+                            
+                            
+                                a)
+                                
+                                    dell'ufficio titolare del procedimento, che cura la formazione e la gestione del fascicolo medesimo; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    dell'oggetto del procedimento e di ogni altro specifico contenuto previsto dalla normativa processuale e regolamentare; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    dell'elenco dettagliato degli atti e dei documenti depositati o comunque acquisiti, compresi quelli in forma di documento analogico.
+
 Con le specifiche tecniche stabilite ai sensi dell'articolo 24 sono definite le modalita' per il salvataggio dei log relativi alle operazioni di accesso al fascicolo informatico.
 
 ## Art. 10. — Trasmissione dei fascicoli informatici
@@ -178,6 +291,45 @@ L'atto o il documento che contiene dati di cui all'art. 9 del Regolamento Ue 201
 
 Le notificazioni e le comunicazioni telematiche sono eseguite mediante trasmissione dei documenti informatici tra caselle di posta elettronica certificata.
 
+2.
+                        
+                            
+                                Ove non vi sia stata una specifica indicazione del domicilio digitale, le notificazioni e le comunicazioni telematiche di cui al comma 1 sono effettuate: 
+ 
+                            
+                            
+                                a)
+                                
+                                    nei confronti delle pubbliche amministrazioni, all'indirizzo posta elettronica certificata risultante dall'indice degli indirizzi delle pubbliche amministrazioni (IPA); 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    nei confronti dei difensori, all'indirizzo posta elettronica certificata risultante dal registro generale degli indirizzi elettronici tenuto dal Ministero della giustizia (REGINDE); 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    nei confronti degli altri professionisti iscritti in albi ed elenchi istituiti con legge dello Stato, all'indirizzo di posta elettronica certificata risultante dall'indice nazionale degli indirizzi di posta elettronica certificata (INI-PEC); 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    nei confronti di imprese e societa', all'indirizzo di posta elettronica certificata risultante dall'indice nazionale degli indirizzi di posta elettronica certificata (INI-PEC); 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    nei confronti degli altri soggetti abilitati esterni, all'indirizzo di posta elettronica certificata risultante dall'indice nazionale dei domicili digitali (INAD).
+
 Le notificazioni e le comunicazioni telematiche di cui al comma 1 si intendono perfezionate al momento in cui viene generata da parte del gestore di posta elettronica certificata del destinatario la ricevuta di avvenuta consegna e produce gli effetti di cui agli articoli 45 e 48 del decreto legislativo 7 marzo 2005, n. 82.
 
 Nel caso di notificazioni eseguite a mezzo di ufficiale giudiziario, gli atti da notificare vanno trasmessi all'indirizzo di posta elettronica certificata dell'Ufficio Notificazioni Esecuzioni e Protesti (UNEP) pubblicato sull'indice degli indirizzi delle pubbliche amministrazioni (IPA).
@@ -192,6 +344,45 @@ Si applica, in ogni caso, il disposto dell'articolo 49 del codice dell'amministr
 
 ## Art. 14. — Requisiti della casella di posta elettronica certificata 
  del soggetto abilitato esterno
+
+1.
+                        
+                            
+                                I soggetti abilitati esterni all'utilizzo della posta elettronica certificata fermi restando gli obblighi previsti dal decreto del Presidente della Repubblica 11 febbraio 2005, n. 68 e dal decreto del Ministro per l'innovazione e le tecnologie 2 novembre 2005, pubblicato nella Gazzetta Ufficiale n. 266 del 15 novembre 2005, sono tenuti ad utilizzare servizi di gestori che: 
+ 
+                            
+                            
+                                a)
+                                
+                                    utilizzano software antispam idonei a prevenire la trasmissione di messaggi di posta elettronica indesiderati; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    utilizzano software idonei a verificare l'assenza di virus informatici per ogni messaggio in arrivo e in partenza; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    conservano, con ogni mezzo idoneo, le ricevute di avvenuta consegna dei messaggi trasmessi al dominio della Giustizia Militare; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    dispongono di uno spazio-disco minimo, definito nelle specifiche tecniche di cui all'articolo 24; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    sono dotati di un servizio automatico per la verifica della effettiva disponibilita' dello spazio della casella di posta elettronica certificata a disposizione e di un avviso sull'imminente saturazione della casella stessa.
 
 ## Art. 15. — Intercettazioni di conversazioni e comunicazioni
 

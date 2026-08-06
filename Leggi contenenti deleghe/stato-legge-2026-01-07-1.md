@@ -6,8 +6,8 @@ urn: urn:nir:stato:legge:2026-01-07;1
 vigente: true
 source: normattiva-opendata
 collection: Leggi contenenti deleghe
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:39:42Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 LEGGE
@@ -29,6 +29,48 @@ La Camera dei deputati ed il Senato della Repubblica hanno approvato;
 
 Modifiche agli articoli 1 e 3 della legge 14 gennaio 1994, n. 20, concernenti l'azione di responsabilita' e il controllo della Corte dei conti
 
+1.
+                    
+                        
+                            Alla legge 14 gennaio 1994, n. 20, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                all'articolo 1: 
+ 1) al comma 1: 
+ 1.1) dopo il secondo periodo sono inseriti i seguenti: «Costituisce colpa grave la violazione manifesta delle norme di diritto applicabili, il travisamento del fatto, l'affermazione di un fatto la cui esistenza e' incontrastabilmente esclusa dagli atti del procedimento o la negazione di un fatto la cui esistenza risulta incontrastabilmente dagli atti del procedimento. Ai fini della determinazione dei casi in cui sussiste la violazione manifesta delle norme di diritto applicabili si tiene conto, in particolare, del grado di chiarezza e precisione delle norme violate nonche' dell'inescusabilita' e della gravita' dell'inosservanza. Non costituisce colpa grave la violazione o l'omissione determinata dal riferimento a indirizzi giurisprudenziali prevalenti o a pareri delle autorita' competenti»; 
+ 1.2) al terzo periodo, le parole: «, limitatamente ai profili presi in considerazione nell'esercizio del controllo» sono sostituite dalle seguenti: «ovvero dagli atti richiamati e allegati che costituiscono il presupposto logico e giuridico dell'atto sottoposto a controllo»; 
+ 2) il comma 1.1 e' sostituito dal seguente: 
+ «1.1. La responsabilita' e' limitata ai fatti e alle omissioni commessi con dolo nei seguenti casi: 
+ a) conclusione di accordi di conciliazione nel procedimento di mediazione o in sede giudiziale da parte dei rappresentanti delle amministrazioni pubbliche di cui all'articolo 1, comma 2, del decreto legislativo 30 marzo 2001, n. 165; 
+ b) conclusione di procedimenti di accertamento con adesione, di accordi di mediazione, di conciliazioni giudiziali e di transazioni fiscali in materia tributaria»; 
+ 3) al comma 1-bis, le parole: «fermo restando il potere di riduzione, deve tenersi conto» sono sostituite dalle seguenti: «fermi restando il potere di riduzione e l'obbligo di esercizio del potere riduttivo nei casi previsti dal comma 1-octies del presente articolo, nella quantificazione del danno deve tenersi conto dell'eventuale concorso dell'amministrazione danneggiata nella produzione del danno medesimo e»; 
+ 4) al comma 1-ter e' aggiunto, in fine, il seguente periodo: «Il secondo periodo si interpreta nel senso che la buona fede dei titolari degli organi politici si presume, fino a prova contraria, fatti salvi i casi di dolo, quando gli atti adottati dai medesimi titolari, nell'esercizio delle proprie competenze, sono proposti, vistati o sottoscritti dai responsabili degli uffici tecnici o amministrativi, in assenza di pareri formali, interni o esterni, di contrario avviso»; 
+ 5) dopo il comma 1-septies sono inseriti i seguenti: 
+ «1-octies. Salvi i casi di danno cagionato con dolo o di illecito arricchimento, la Corte dei conti esercita il potere di riduzione ponendo a carico del responsabile, in quanto conseguenza immediata e diretta della sua condotta, il danno o il valore perduto per un importo non superiore al 30 per cento del pregiudizio accertato e, comunque, non superiore al doppio della retribuzione lorda conseguita nell'anno di inizio della condotta lesiva causa dell'evento o nell'anno immediatamente precedente o successivo, ovvero non superiore al doppio del corrispettivo o dell'indennita' percepiti per il servizio reso all'amministrazione o per la funzione o l'ufficio svolti, che hanno causato il pregiudizio. 
+ 1-novies. Nella sentenza di condanna la Corte dei conti puo', nei casi piu' gravi, disporre a carico del dirigente o del funzionario condannato la sospensione dalla gestione di risorse pubbliche per un periodo compreso tra sei mesi e tre anni.
+L'amministrazione, conseguentemente, avvia immediatamente un procedimento ai sensi dell'articolo 21 del decreto legislativo 30 marzo 2001, n. 165, da concludere improrogabilmente entro il termine della sospensione disposta con il passaggio in giudicato della sentenza, e assegna il dirigente o il funzionario sospeso a funzioni di studio e ricerca. 
+ 1-decies. L'avvenuto spontaneo pagamento di tutti gli importi indicati nella sentenza definitiva di condanna determina la cessazione di ogni altro effetto della condanna medesima»; 
+ 6) al comma 2, dopo le parole: «fatto dannoso» sono inserite le seguenti: «, indipendentemente dal momento in cui l'amministrazione o la Corte dei conti sono venuti a conoscenza del danno» e dopo le parole: «occultamento doloso del danno» sono inserite le seguenti: «, realizzato con una condotta attiva o in violazione di obblighi di comunicazione»; 
+ 7) e' aggiunto, in fine, il seguente comma: 
+ «4-bis. Chiunque assuma un incarico che comporti la gestione di risorse pubbliche dalla quale discenda la sua sottoposizione alla giurisdizione della Corte dei conti e' tenuto a stipulare, prima dell'assunzione dell'incarico, una polizza assicurativa a copertura dei danni patrimoniali cagionati dallo stesso all'amministrazione per colpa grave. Nei procedimenti per i danni patrimoniali, l'impresa di assicurazione e' litisconsorte necessario»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                all'articolo 3: 
+ 1) al comma 1, lettera g), le parole: «di appalto d'opera, se di importo superiore al valore in ECU stabilito dalla normativa comunitaria per l'applicazione delle procedure di aggiudicazione dei contratti stessi» sono sostituite dalle seguenti «di appalto di lavori, servizi o forniture, se di importo superiore alle soglie previste dall'articolo 14 del codice dei contratti pubblici, di cui al decreto legislativo 31 marzo 2023, n. 36»; 
+ 2) dopo il comma 1-bis sono inseriti i seguenti: 
+ «1-ter. Per i contratti pubblici connessi all'attuazione del Piano nazionale di ripresa e resilienza (PNRR) e del Piano nazionale per gli investimenti complementari al PNRR (PNC), il controllo preventivo di legittimita' di cui al comma 1, lettera g), e' svolto sui provvedimenti di aggiudicazione, anche provvisori, e sui provvedimenti conclusivi delle procedure di affidamento che non prevedono l'aggiudicazione formale. I termini di cui al comma 2 hanno carattere perentorio; qualora alla scadenza non sia intervenuta la deliberazione, l'atto si intende registrato anche ai fini dell'esclusione di responsabilita' di cui all'articolo 1, comma 1. Il visto puo' essere ricusato soltanto con deliberazione motivata. 
+ 1-quater. Le regioni, le province autonome e gli enti locali, con norma di legge o di statuto adottata previo parere delle sezioni riunite della Corte dei conti, possono sottoporre al controllo preventivo di legittimita' della Corte medesima i provvedimenti di aggiudicazione, anche provvisori, ovvero i provvedimenti conclusivi delle procedure di affidamento che non prevedono l'aggiudicazione formale, relativi ai contratti di appalto di lavori, servizi o forniture, attivi o passivi, ovvero ai contratti di concessione, finalizzati all'attuazione del PNRR e del PNC, di importo superiore alle soglie previste dall'articolo 14 del codice dei contratti pubblici, di cui al decreto legislativo 31 marzo 2023, n. 36. 
+ 1-quinquies. La facolta' di cui al comma 1-quater e' riconosciuta a ogni altro soggetto pubblico attuatore del PNRR e del PNC nel rispetto delle previsioni dei rispettivi ordinamenti. 
+ 1-sexies. Per gli atti e i provvedimenti di cui ai commi 1-quater e 1-quinquies si applicano le disposizioni di cui al comma 1-ter»; 
+ 3) al comma 2 sono aggiunte, in fine, le seguenti parole: «e si intendono registrati a tutti gli effetti, compresa l'esclusione di responsabilita' ai sensi dell'articolo 1, comma 1».
+
 ## Art. 2.
 
 Attivita' consultiva della Corte dei conti 
@@ -42,6 +84,137 @@ I pareri di cui al comma 1 sono resi entro il termine perentorio di trenta giorn
  e riordino delle funzioni della Corte dei conti
 
 Il Governo e' delegato ad adottare, entro dodici mesi dalla data di entrata in vigore della presente legge, uno o piu' decreti legislativi per la riorganizzazione e il riordino delle funzioni della Corte dei conti, al fine di un ulteriore incremento della sua efficienza, nonche' in materia di rimborso da parte delle amministrazioni di appartenenza delle spese legali sostenute nei giudizi per responsabilita' amministrativa.
+
+2.
+                    
+                        
+                            I decreti legislativi di cui al comma 1 sono adottati nel rispetto dei seguenti principi e criteri direttivi: 
+ 
+                        
+                        
+                            a)
+                            
+                                organizzare la Corte dei conti a livello centrale in sezioni abilitate a svolgere unitariamente funzioni consultive, di controllo, referenti e giurisdizionali, ripartite in collegi con provvedimenti del Presidente della Corte; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                rafforzare gli effetti nomofilattici delle pronunce delle sezioni riunite sulle funzioni consultive, di controllo, referenti e giurisdizionali nonche' sull'attivita' delle procure presso la Corte dei conti, prevedendo, in particolare, che il procuratore generale eserciti la sua funzione di coordinamento tenendo conto delle pronunce nomofilattiche delle sezioni riunite; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                fermo restando per le regioni a statuto speciale e per le province autonome di Trento e di Bolzano quanto previsto dai rispettivi statuti di autonomia e dalle relative norme di attuazione, organizzare la Corte dei conti a livello territoriale secondo i seguenti criteri: 
+ 1) ogni sede territoriale si articola in una sola sezione abilitata a svolgere unitariamente funzioni consultive, di controllo, referenti e giurisdizionali, ripartita in collegi con provvedimenti del presidente; 
+ 2) i presidi territoriali della Corte sono dotati di personale in funzione degli effettivi carichi di lavoro di ciascuna sede e di ciascun magistrato, con priorita' per le esigenze connesse allo svolgimento delle funzioni consultive e di controllo; 
+ 3) il consiglio di presidenza della Corte applica i magistrati a piu' di una sede ai fini del riequilibrio dei carichi di lavoro; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                articolare la funzione requirente presso la Corte dei conti in una procura generale e in procure territoriali, prevedendo che queste ultime siano rette da un viceprocuratore generale con funzioni di procuratore territoriale, preposto all'ufficio sotto il coordinamento del procuratore generale, e siano dotate di personale in funzione degli effettivi carichi di lavoro di ciascuna sede; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                disciplinare i poteri di indirizzo e di coordinamento della procura generale della Corte dei conti nei confronti delle procure territoriali, al fine di garantire l'esercizio uniforme della funzione requirente nelle sedi territoriali; prevedere, a tal fine, che il procuratore generale: 
+ 1) possa accedere in tempo reale, anche tramite strumenti informatici, agli atti dei procedimenti istruttori svolti anche in sede territoriale; 
+ 2) possa disporre del potere di avocazione delle istruttorie in casi tassativamente previsti in sede di attuazione della presente delega, tra cui quelli di inerzia nell'istruttoria in sede territoriale o di violazione delle disposizioni di indirizzo e coordinamento impartite dalla procura generale; 
+ 3) in caso di istruttorie che si caratterizzino per particolare rilevanza o per particolare complessita' o novita' delle questioni, debba sottoscrivere congiuntamente con il procuratore territoriale, a pena di nullita', gli atti di invito a dedurre, di citazione a giudizio e di disposizione di misure cautelari e possa affiancare al magistrato assegnatario del fascicolo in sede territoriale uno o piu' magistrati addetti all'ufficio della procura generale; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                stabilire che ogni magistrato svolge, secondo un criterio di rotazione temporale e con adeguata formazione professionale, tutte le funzioni attribuite alle sezioni cui e' assegnato, prevedendo il divieto di passaggio dalle funzioni requirenti alle funzioni giudicanti; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                regolamentare le procedure di accesso alla carriera della magistratura contabile, anche requirente, introducendo, tra l'altro, prove psicoattitudinali secondo i criteri stabiliti per l'accesso alla magistratura ordinaria; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                regolamentare l'esercizio dell'azione disciplinare a carico dei magistrati contabili, prevedendo che essa sia ispirata a criteri di trasparenza, celerita', rispetto del contraddittorio e tipizzazione degli illeciti; 
+
+                            
+                        
+                        
+                            i)
+                            
+                                fermo restando quanto previsto dal comma 7, stabilire la dotazione dell'organico dei magistrati della Corte dei conti e il numero massimo delle posizioni direttive e semidirettive, contenere il numero delle figure apicali o sub-apicali e rafforzare, nella dotazione di risorse umane e strumentali: 
+ 1) le funzioni consultiva e di controllo; 
+ 2) le funzioni di coordinamento della procura generale; 
+
+                            
+                        
+                        
+                            l)
+                            
+                                prevedere, per le nomine successive alla data di entrata in vigore della presente legge, un limite temporale massimo dei mandati di Presidente della Corte dei conti e di procuratore generale; 
+
+                            
+                        
+                        
+                            m)
+                            
+                                ampliare la tipologia dei giudizi a istanza di parte su cui la Corte dei conti puo' giudicare ai sensi dell'articolo 172 del codice della giustizia contabile, di cui all'allegato 1 annesso al decreto legislativo 26 agosto 2016, n. 174; 
+
+                            
+                        
+                        
+                            n)
+                            
+                                introdurre istituti deflativi del contenzioso, che consentano all'incolpato di formulare una richiesta di definizione della propria posizione con il pagamento in un'unica soluzione di una percentuale della somma fatta oggetto dell'invito a dedurre, prima della citazione in giudizio, fermo restando il potere di valutazione della proposta da parte del pubblico ministero; 
+
+                            
+                        
+                        
+                            o)
+                            
+                                regolamentare i procedimenti di svolgimento delle funzioni di controllo, consultive e referenti, nel rispetto del principio del contraddittorio, regolando i criteri per la costituzione e la composizione dei collegi e stabilendo i casi di pubblicita' e di riservatezza degli atti; 
+
+                            
+                        
+                        
+                            p)
+                            
+                                in particolare, disciplinare il controllo concomitante di cui all'articolo 11 della legge 4 marzo 2009, n. 15, prevedendo che esso sia svolto su richiesta delle Camere, del Governo o dell'amministrazione pubblica interessata e abbia a oggetto piani, programmi e progetti caratterizzati da rilevanza finanziaria e da significativo impatto socio-economico sui cittadini e sulle imprese e stabilendo un regime di limitazione della pubblicita' delle comunicazioni scambiate e degli atti e dei provvedimenti adottati nell'esercizio di tale funzione; 
+
+                            
+                        
+                        
+                            q)
+                            
+                                razionalizzare il quadro normativo, eventualmente raccogliendo in codici o testi unici le norme attinenti all'organizzazione della Corte dei conti e quelle attinenti allo svolgimento dei procedimenti non giurisdizionali; 
+
+                            
+                        
+                        
+                            r)
+                            
+                                apportare modifiche al codice della giustizia contabile, di cui all'allegato 1 annesso al decreto legislativo 26 agosto 2016, n. 174, al fine di prevedere interventi per il rimborso, da parte delle amministrazioni di appartenenza, delle spese legali effettivamente sostenute nei giudizi per responsabilita' amministrativa nel caso di sentenze o provvedimenti che escludano la responsabilita' degli amministratori dipendenti di amministrazioni pubbliche in conseguenza di atti e fatti connessi con lo svolgimento del servizio o con l'adempimento di obblighi istituzionali; 
+
+                            
+                        
+                        
+                            s)
+                            
+                                individuare atti degli enti locali di particolare rilevanza e complessita' sottoposti al controllo preventivo di legittimita' della Corte dei conti ai sensi dell'articolo 3 della legge 14 gennaio 1994, n. 20.
 
 I decreti legislativi di cui al comma 1 sono adottati su proposta del Presidente del Consiglio dei ministri, di concerto con il Ministro per la pubblica amministrazione e con il Ministro dell'economia e delle finanze, previa acquisizione del parere, per i profili di competenza, della Conferenza unificata di cui all'articolo 8 del decreto legislativo 28 agosto 1997, n. 281, che e' reso nel termine di quarantacinque giorni dalla data di trasmissione di ciascuno schema di decreto legislativo, decorso il quale il Governo puo' comunque procedere. Sulle disposizioni che danno attuazione ai principi e criteri direttivi di cui alle lettere a) e c) del comma 2, in luogo del parere previsto dal primo periodo del presente comma, e' acquisita, entro il medesimo termine ivi indicato, l'intesa in sede di Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome di Trento e di Bolzano. Lo schema di ciascun decreto legislativo e' successivamente trasmesso alle Camere per l'espressione dei pareri delle Commissioni parlamentari competenti per materia e per i profili finanziari, che si pronunciano nel termine di quarantacinque giorni dalla data di trasmissione, decorso il quale i decreti legislativi possono essere comunque adottati.
 Qualora il termine previsto per l'espressione del parere delle Commissioni parlamentari scada nei quarantacinque giorni che precedono la scadenza del termine di delega previsto dal comma 1 o successivamente, quest'ultimo e' prorogato di novanta giorni.

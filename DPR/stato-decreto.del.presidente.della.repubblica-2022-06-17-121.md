@@ -8,8 +8,8 @@ vigente: true
 source: normattiva-opendata
 collection: DPR
 vigenza_date: 2025-09-04
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:47:47Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -124,6 +124,44 @@ Al fine di strutturare con criteri maggiormente funzionali all'attivita' di serv
 
 L'indennita' di impiego operativo compete al personale di cui al comma 1, inserito nei turni continuativi 12/24-12/48, nei turni 12/36, nei turni 12/12-12/60 o in altre tipologie di turnazione individuate o da individuarsi con accordi integrativi nazionali, nei limiti dei turni di cui all'articolo 8 del decreto del Presidente della Repubblica 7 maggio 2008, come modificato dall'articolo 17 del presente decreto.
 
+3.
+                        
+                            
+                                L'indennita' di impiego operativo sostituisce i seguenti istituti retributivi accessori che vengono contestualmente disapplicati per il personale di cui al comma 1: 
+ 
+                            
+                            
+                                a)
+                                
+                                    indennita' di turno di cui all'articolo 22 del contratto collettivo nazionale di lavoro del comparto delle aziende e amministrazioni autonome dello Stato del 26 maggio 2004 e per le turnazioni di cui all'articolo 3 del relativo accordo stralcio sottoscritto in data 28 luglio 2004; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    indennita' operativa per il soccorso esterno di cui all'articolo 7 del decreto del Presidente della Repubblica 19 novembre 2010, n. 251.
+
+4.
+                        
+                            
+                                Le misure dell'indennita' di cui al comma 1 e delle relative maggiorazioni orarie sono stabilite rispettivamente in euro 11,50 per ciascun turno di dodici ore e: 
+ 
+                            
+                            
+                                a)
+                                
+                                    
+                                        ((in euro 1,21 per ciascuna ora diurna nei giorni festivi e in euro 1,31 per ciascuna ora tra le 22 e le 6 dei turni svolti nell'anno 2024 e in euro 1,41 a decorrere dal 31 dicembre 2024 e a valere dal 2025;))
+                                    
+                                
+                            
+                            
+                                b)
+                                
+                                    
+                                        ((in euro 3,42 per ciascuna ora nei giorni di Capodanno, Pasqua, Festa del Lavoro, Ferragosto, Natale e Santa Barbara a decorrere dall'anno 2024 e in euro 2,42 per ciascuna ora tra le 22 e le 6 nei giorni festivi.))
+
 A decorrere dal 31 dicembre 2021 e a valere dall'anno 2022, per le attivita' svolte dal personale di cui al comma 1, e' riconosciuta, in ragione della qualifica di appartenenza, del connesso grado di responsabilita' e dell'esperienza professionale maturata, una maggiorazione dell'indennita' di cui al presente articolo nelle misure di seguito indicate e nel limite complessivo di euro 6.448.677 annui: 
  euro 2,00 a turno in favore del personale con qualifica di vigile del fuoco esperto con scatto convenzionale e di vigile del fuoco coordinatore; 
  euro 2,30 a turno in favore del personale con qualifica di vigile del fuoco coordinatore con scatto convenzionale e di capo squadra; 
@@ -151,6 +189,71 @@ Indennita' di servizio operativo
 Al fine di strutturare con criteri maggiormente funzionali all'attivita' di servizio l'attribuzione degli emolumenti accessori, erogati ai sensi delle vigenti disposizioni di comparto, al personale non direttivo e non dirigente del Corpo nazionale dei vigili del fuoco appartenente ai ruoli operativi, specialistici e ai ruoli speciali antincendio (AIB) a esaurimento, a decorrere dal 31 dicembre 2021 e a valere dal 2022 e' riconosciuta l'indennita' di servizio operativo.
 
 L'indennita' di servizio operativo e' attribuita al personale di cui al comma 1 che effettua turnazioni o orario giornaliero, assegnato a funzioni correlate all'attivita' operativa di soccorso nonche' ad altri servizi operativi di istituto.
+
+3.
+                        
+                            
+                                L'indennita' di servizio operativo sostituisce i seguenti istituti retributivi accessori che vengono contestualmente disapplicati per il personale di cui al comma 1: 
+ 
+                            
+                            
+                                a)
+                                
+                                    compenso di produttivita' giornaliera di cui all'articolo 3 dell'accordo stralcio del 8 maggio 2008 per il personale non direttivo e non dirigente del Corpo nazionale dei vigili del fuoco; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    indennita' operativa per il soccorso esterno di cui all'articolo 7 del decreto del Presidente della Repubblica 19 novembre 2010, n. 251.
+
+4.
+                        
+                            
+                                La misura dell'indennita' di cui al comma 1 e' stabilita con le seguenti modalita': 
+ 
+                            
+                            
+                                a)
+                                
+                                    personale che effettua turnazioni di dodici ore assegnato a funzioni correlate all'attivita' operativa di soccorso, ivi compreso il personale specialista: euro 8,50 a turno; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    personale che effettua turnazioni di dodici ore assegnato ad altri servizi operativi di istituto: euro 2,00 a turno; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    personale che effettua orario giornaliero nella misura che segue: 
+ euro 1,00 a giornata, in caso di settimana lavorativa di sei giorni; 
+ euro 1,20 a giornata, in caso di settimana lavorativa di cinque giorni.
+
+5.
+                        
+                            
+                                Le misure delle maggiorazioni orarie della indennita' di cui al comma 1 sono stabilite: 
+ 
+                            
+                            
+                                a)
+                                
+                                    
+                                        ((in euro 1,21 per ciascuna ora diurna nei giorni festivi e in euro 1,31 per ciascuna ora tra le 22 e le 6 dei turni svolti nell'anno 2024 e in euro 1,41 a decorrere dal 31 dicembre 2024 e a valere dal 2025;))
+                                    
+                                
+                            
+                            
+                                b)
+                                
+                                    
+                                        ((in euro 3,42 per ciascuna ora nei giorni di Capodanno, Pasqua, Festa del Lavoro, Ferragosto, Natale e Santa Barbara a decorrere dall'anno 2024 e in euro 2,42 per ciascuna ora tra le 22 e le 6 nei giorni festivi.))
 
 A decorrere dal 31 dicembre 2021 e a valere dal 2022, per le attivita' svolte dal personale di cui al comma 2, e' riconosciuta, in ragione della qualifica di appartenenza e del connesso grado di responsabilita', una maggiorazione dell'indennita' di cui al presente articolo nelle misure di seguito indicate e nel limite complessivo di euro 881.098 annui: 
  euro 1,00 al giorno, in favore del personale con qualifica di vigile del fuoco esperto con scatto convenzionale e di vigile del fuoco coordinatore che effettua la settimana lavorativa di sei giorni; 
@@ -188,6 +291,46 @@ Al fine di strutturare con criteri maggiormente funzionali all'attivita' di serv
 L'indennita' di funzione tecnica e professionale e' attribuita al personale di cui al comma 1 che effettua orario giornaliero o turnazioni in considerazione delle funzioni proprie della qualifica di appartenenza, anche a integrazione delle attivita' svolte dalle strutture operative sia ordinariamente sia nei casi di calamita' pubbliche o in altre situazioni di emergenza.
 
 L'indennita' di funzione tecnica e professionale sostituisce il compenso di produttivita' giornaliera di cui all'articolo 3 dell'accordo stralcio del 8 maggio 2008 per il personale non direttivo e non dirigente del Corpo nazionale dei vigili del fuoco.
+
+4.
+                        
+                            
+                                La misura dell'indennita' di cui al comma 1 e' stabilita con le seguenti modalita': 
+ 
+                            
+                            
+                                a)
+                                
+                                    personale che effettua orario giornaliero: 
+ euro 1,00 a giornata, in caso di settimana lavorativa di sei giorni; 
+ euro 1,20 a giornata, in caso di settimana lavorativa di cinque giorni; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    personale che effettua turnazioni di dodici ore: euro 2,00 a turno.
+
+5.
+                        
+                            
+                                Le misure delle maggiorazioni orarie della indennita' di cui al comma 1 sono stabilite: 
+ 
+                            
+                            
+                                a)
+                                
+                                    
+                                        ((in euro 1,21 per ciascuna ora diurna nei giorni festivi e in euro 1,31 per ciascuna ora tra le 22 e le 6 dei turni svolti nell'anno 2024 e in euro 1,41 a decorrere dal 31 dicembre 2024 e a valere dal 2025;))
+                                    
+                                
+                            
+                            
+                                b)
+                                
+                                    
+                                        ((in euro 3,42 per ciascuna ora nei giorni di Capodanno, Pasqua, Festa del Lavoro, Ferragosto, Natale e Santa Barbara a decorrere dall'anno 2024 e in euro 2,42 per ciascuna ora tra le 22 e le 6 nei giorni festivi.))
 
 A decorrere dal 31 dicembre 2021 e a valere dal 2022, per le attivita' svolte dal personale di cui al comma 1, e' riconosciuta, in ragione della qualifica di appartenenza e del connesso grado di responsabilita', una maggiorazione dell'indennita' di cui al presente articolo nelle misure di seguito indicate e nel limite complessivo di euro 365.732 annui: 
  euro 0,52 al giorno, in favore del personale con qualifica di operatore esperto, di operatore esperto con scatto convenzionale, di orchestrale esperto, di orchestrale esperto con scatto convenzionale e di atleta del gruppo sportivo vigili del fuoco Fiamme Rosse con primo e secondo scatto convenzionale che effettua la settimana lavorativa di sei giorni; 
@@ -240,15 +383,192 @@ La corresponsione dei compensi di cui al presente articolo decorre dal perfezion
 
 ## Art. 11. — Alimentazione del Fondo di amministrazione
 
+1.
+                        
+                            
+                                Per ciascun esercizio finanziario, il fondo di amministrazione di cui all'articolo 6 del decreto del Presidente della Repubblica del 29 novembre 2007, e' alimentato stabilmente: 
+ 
+                            
+                            
+                                a)
+                                
+                                    dalle risorse con carattere di certezza e stabilita' derivanti da specifiche disposizioni normative o amministrative ovvero da disposizioni particolari attuative dell'ordinamento del Corpo nazionale dei vigili del fuoco che incrementano il fondo, con o senza effetti di trascinamento negli anni successivi; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    dall'importo corrispondente alle retribuzioni individuali di anzianita' del personale cessato dal servizio, compresa la quota di tredicesima mensilita', che confluisce stabilmente nel Fondo dall'anno successivo alla cessazione dal servizio in misura intera in ragione d'anno; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    dell'importo corrispondente alle indennita' di rischio e mensile, di cui gli articoli 4 e 5, non piu' corrisposte al personale cessato dal servizio compresa la quota di tredicesima mensilita' e non riutilizzate in conseguenza di nuove assunzioni; l'importo confluisce stabilmente nel Fondo dell'anno successivo alla cessazione dal servizio in misura intera in ragione d'anno.
+
+2.
+                        
+                            
+                                Il fondo di cui al comma 1 e' altresi' annualmente incrementato da: 
+ 
+                            
+                            
+                                a)
+                                
+                                    i maggiori introiti dei proventi derivanti da servizi di prevenzione e vigilanza di cui all'articolo 65, comma 1, del decreto del Presidente della Repubblica del 4 agosto 1990, n. 335; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    gli introiti derivanti dall'effettuazione dei servizi di formazione e delle attivita' di controllo di cui all'articolo 37 del decreto legislativo 9 aprile 2008, n. 81; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    gli introiti derivanti dai servizi svolti a seguito di convenzioni con amministrazioni o enti pubblici o privati, ai sensi dell'articolo 17, della legge 10 agosto 2000, n. 246, e dell'articolo 3 del decreto-legge 10 luglio 1995, n. 275, convertito dalla legge 8 agosto 1995, n. 339; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    le risorse di cui all'articolo 4, comma 3-bis, del decreto-legge 29 novembre 2008, n. 185, convertito, con modificazioni, dalla legge 28 gennaio 2009, n. 2, nei limiti di cui all'articolo 1, comma 365, lettera c), ultimo periodo, della legge 11 dicembre 2016, n. 232; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    le somme derivanti dall'attuazione dell'articolo 43 della legge 27 dicembre 1997, n. 449; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    gli importi corrispondenti ai ratei delle retribuzioni individuali di anzianita' e alle mensilita' residue delle indennita' di rischio e mensile, di cui gli articoli 4 e 5, nonche' agli importi corrispondenti alle mensilita' residue di eventuali assegni personali attribuiti a seguito di mobilita', transito o analoga forma di assegnazione da altre pubbliche amministrazioni ovvero a seguito di progressioni di carriera, del personale cessato dal servizio nel corso dell'anno precedente, calcolati in misura pari alle mensilita' residue dopo la cessazione, e non riutilizzate in conseguenza di nuove assunzioni, computandosi a tal fine, oltre ai ratei di tredicesima mensilita', le frazioni di mese superiori a quindici giorni; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    gli ulteriori risparmi di gestione e di spesa e da introiti previsti da altre disposizioni normative o amministrative ovvero attuative dell'ordinamento del Corpo nazionale dei vigili del fuoco che incrementano il fondo.
+
 La costituzione del fondo di cui all'articolo 6 del decreto del Presidente della Repubblica del 29 novembre 2007 avviene nel rispetto dei vincoli finanziari previsti dalle vigenti disposizioni di legge in materia.
 
 Il fondo di cui al comma 1 e' incrementato rispettivamente di euro 26.196, di euro 32.964 e di euro 24.449 per gli anni 2019, 2020 e 2021.
 
 ## Art. 12. — Utilizzo del Fondo di amministrazione
 
+1.
+                        
+                            
+                                A valere sulle risorse del fondo di amministrazione di cui all'articolo 11 del presente decreto, per il personale non direttivo e non dirigente del Corpo nazionale dei vigili del fuoco, si provvede alla corresponsione dei seguenti emolumenti accessori al personale: 
+ 
+                            
+                            
+                                a)
+                                
+                                    le indennita' di impiego operativo, di servizio operativo e di funzione tecnica e professionale, con le relative maggiorazioni previste dagli articoli 7, 8 e 9, commi 4, 5 e 6, del presente decreto, nel limite di euro 78.035.409 annui; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    i compensi per la partecipazione a turni di pronta disponibilita' di cui all'articolo 10 del presente decreto, nel limite di euro 3.000.000 annui; ((1))
+                                    
+                                
+                            
+                            
+                                c)
+                                
+                                    le indennita' previste dalla normativa di settore in favore del personale del Corpo nazionale dei vigili del fuoco che espleta funzioni specialistiche, di cui all'articolo 29 del decreto legislativo 13 ottobre 2005, n. 217; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    i compensi dovuti per le attivita' di prevenzione e vigilanza antincendi ai sensi dell'articolo 65, comma 2, del decreto del Presidente della Repubblica del 4 agosto 1990, n. 335; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    compensi per attivita' di formazione svolta dal personale ai sensi dell'articolo 37 del decreto legislativo 9 aprile 2008, n. 81; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    i compensi spettanti al personale del ruolo degli ispettori antincendi di cui all'articolo 65, comma 4, del decreto del Presidente della Repubblica 4 agosto 1990, n. 335; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    gli incentivi ai corsi di formazione per istruttori, docenti, discenti di cui agli accordi integrativi nazionali sottoscritti ai sensi dell'articolo 48, comma 2, lettera j), del CCNL 1998-2001; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    i compensi per attivita' di studio, ricerca e sperimentazione di cui agli accordi integrativi nazionali sottoscritti ai sensi dell'articolo 48, comma 2, lettera c), del CCNL 1998-2001; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    gli altri compensi e altre indennita' previsti da specifiche disposizioni normative o amministrative ovvero da disposizioni particolari attuative dell'ordinamento del Corpo nazionale dei vigili del fuoco.
+
 I limiti spesa di cui al comma 1, lettere a) e b) non operano con riferimento alle risorse previste da specifiche disposizioni normative a copertura degli oneri medesimi.
 
 Le risorse di cui all'articolo 11, comma 1, del presente decreto anche nelle more dell'accertamento per ciascun anno di competenza della consistenza delle risorse di cui ai successivi commi 2 e 3, del suddetto articolo, fermo restando quanto previsto dal comma 1 per la corresponsione degli emolumenti accessori in base alle vigenti disposizioni, sono utilizzate per promuovere il miglioramento dell'efficienza dei servizi istituzionali, con la realizzazione di piani e progetti strumentali e di risultato da definire mediante accordi integrativi nazionali ovvero accordi decentrati di livello centrale e periferico.
+
+4.
+                        
+                            
+                                Con accordo integrativo nazionale le risorse di cui al comma 3 sono destinate a incentivare le attivita' e i compiti cui si riconnettono peculiari responsabilita', fondamentali per l'operativita' e l'efficienza del soccorso tecnico urgente nonche' per i correlati servizi tecnico-professionali. In particolare, al personale con funzioni di capo partenza, di autista di automezzi per il soccorso terrestre con patente di terzo e quarto grado, di mezzi navali con patente nautica ma che non espleta le funzioni specialistiche di cui all'articolo 29 del decreto legislativo 13 ottobre 2005, n. 217, al personale con funzioni di consegnatario e di responsabile del personale. Le medesime risorse possono essere utilizzate altresi' per: 
+ 
+                            
+                            
+                                a)
+                                
+                                    sviluppare le attivita' progettuali di studio, ricerca, sperimentazione e formazione; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    remunerare l'esercizio di compiti che comportano specifiche responsabilita' nella gestione del soccorso e delle funzioni tecnico - professionali, anche con riferimento all'attivita' di tutoraggio, ovvero assegnati per fronteggiare particolari situazioni di lavoro, anche con riguardo al personale operativo che svolge turni di servizio presso i reparti volo ad integrazione del settore aeronavigante; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    incentivare il personale impiegato in attivita' di specializzazione e in attivita' specialistiche di cui agli articoli 45 e 51 del decreto del Presidente della Repubblica 28 febbraio 2012, n. 64, per il quale non sia previsto dalle norme legislative e contrattuali il riconoscimento di specifici emolumenti per l'esercizio delle funzioni di soccorso tecnico professionalizzato; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    individuare ulteriori compensi finalizzati al conseguimento di obiettivi di efficienza e di efficacia dei settori operativo e tecnico-professionale del Corpo nazionale dei vigili del fuoco previsti da specifiche disposizioni normative o amministrative.
 
 Le risorse di cui all'articolo 11, comma 2, del presente decreto, all'esito dell'accertamento della relativa consistenza, possono essere utilizzate, con ricorso ad accordi integrativi nazionali, per l'implementazione degli emolumenti accessori di cui al comma 1, potendo superare il limite di spesa ivi indicato, nonche' di quelli definiti ai sensi del comma 4.
 
@@ -267,7 +587,101 @@ L'elemento retributivo di cui al comma 1 e' corrisposto in relazione ai mesi di 
 
 ## Art. 14. — Trattamento di trasferta
 
+1.
+                        
+                            
+                                Al personale non direttivo e non dirigente del Corpo nazionale dei vigili del fuoco inviato in missione, oltre alla normale retribuzione, compete: 
+ 
+                            
+                            
+                                a)
+                                
+                                    una indennita' di trasferta pari a: 
+ euro 20,66 per ogni periodo di ventiquattro ore di trasferta, ivi comprese le ore di viaggio; 
+ un importo determinato proporzionalmente per ogni ora di trasferta, ivi comprese le ore di viaggio, in caso di trasferte di durata inferiore alle ventiquattro ore o per le ore eccedenti le ventiquattro ore, in caso di trasferte di durata superiore alle ventiquattro ore; ((1))
+                                    
+                                
+                            
+                            
+                                b)
+                                
+                                    il rimborso delle spese effettivamente sostenute per i viaggi in ferrovia, aereo, nave ed altri mezzi di trasporto extraurbani, nel limite del costo del biglietto; per i viaggi in aereo si applicano le disposizioni di cui all'articolo 18 del decreto-legge 13 agosto 2011, n. 138, convertito con modificazioni dalla legge 14 settembre 2011, n. 148; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    un'indennita' supplementare pari al cinque per cento del costo del biglietto aereo e del dieci per cento del costo per treno e nave; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    il rimborso delle spese per i mezzi di trasporto urbano o dei taxi ovvero delle spese relative al trasporto del materiale e degli strumenti occorrenti al personale per l'espletamento dell'incarico affidato, nei casi preventivamente individuati ed autorizzati dall'amministrazione; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    il compenso per lavoro straordinario, in presenza delle relative autorizzazioni, nel caso che l'attivita' lavorativa nella sede della trasferta si protragga per un tempo superiore al normale orario di lavoro previsto per la giornata; si considera, a tal fine, esclusivamente il tempo effettivamente lavorato, ivi compreso quello di conduzione dei mezzi di servizio, preventivamente autorizzata, con obbligo di sorveglianza e custodia del veicolo e di eventuali altri beni dell'amministrazione trasportati con esso.
+
+2.
+                        
+                            
+                                Resta fermo che il personale, in occasione dello svolgimento di missioni all'interno del territorio nazionale, e' tenuto a fruire, per il vitto e per l'alloggio, delle apposite idonee strutture dell'amministrazione, ai sensi dell'articolo 4, comma 98, della legge 12 novembre 2011, n. 183. Laddove dette strutture non siano esistenti e disponibili, previa attestazione dei dirigenti preposti alle sedi centrali e territoriali in cui e' svolta la missione e previa autorizzazione del dirigente che dispone l'invio in missione al personale compete, sulla base di idonea documentazione: 
+ 
+                            
+                            
+                                a)
+                                
+                                    
+                                        ((al personale inviato in missione di durata superiore a dodici ore compete il rimborso delle spese documentate nel limite di euro 30,55 per un pasto e di complessivi euro 61,10 per due pasti, fermo restando che per incarichi di durata non inferiore a otto ore compete il rimborso di un solo pasto;))
+                                        ((1))
+                                    
+                                
+                            
+                            
+                                b)
+                                
+                                    
+                                        ((i medesimi limiti di rimborso si applicano al personale in trasferta che dichiari di non aver potuto consumare i pasti per ragioni di servizio o per mancanza di strutture che ne consentano la consumazione pur avendone il diritto ai sensi della vigente normativa. E' consentito il rimborso del documento fiscale con dicitura «pasto completo»)). ((1))
+                                    
+                                
+                            
+                            
+                                c)
+                                
+                                    nei casi di missione continuativa nella medesima localita' di durata non inferiore a trenta giorni, il rimborso della spesa per il pernottamento in residenza turistico alberghiera di categoria corrispondente a quella ammessa per l'albergo, purche' risulti economicamente piu' conveniente rispetto al costo medio della categoria consentita nella medesima localita'.
+
 Al personale inviato in trasferta a supporto di delegazioni ufficiali dell'amministrazione, indipendentemente dalla qualifica di appartenenza, spettano i rimborsi e le agevolazioni previsti per i componenti della predetta delegazione.
+
+4.
+                        
+                            
+                                Le attivita' svolte in particolari situazioni operative che non consentono di fruire, durante le trasferte, del pasto o del pernottamento per mancanza di strutture e servizi di ristorazione, sono cosi' individuate, a titolo esemplificativo: 
+ 
+                            
+                            
+                                a)
+                                
+                                    attivita' di protezione civile nelle situazioni di prima urgenza e di soccorso tecnico urgente; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    attivita' di riparazione e controllo urgente di impianti e apparecchiature; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    attivita' di esercitazione o che comportino imbarchi immediati su mezzi aeronautici e marittimi.
 
 Al personale che svolge le attivita' di cui al comma 4 spetta la somma forfettaria onnicomprensiva e giornaliera di euro 20,66 lordi in luogo del rimborso del costo per il pasto e di euro 20,66 lordi per il pernottamento.
 
@@ -309,7 +723,73 @@ L'articolo 7 del decreto del Presidente della Repubblica 7 maggio 2008 e' sostit
 
 ## Art. 17. — Orario di lavoro
 
+1.
+                        
+                            
+                                All'articolo 8 del decreto del Presidente della Repubblica 7 maggio 2008 sono apportate le seguenti modifiche: 
+ 
+                            
+                            
+                                a)
+                                
+                                    dopo il comma 1 sono aggiunti i seguenti commi: 
+ «1-bis. Il personale di cui al titolo I, capo I e capo II, del decreto legislativo 13 ottobre 2005, n. 217, addetto all'attivita' di soccorso, svolge turni continuativi di servizio aventi, in linea generale, la seguente articolazione: dodici ore di lavoro diurno, di seguito indicato "turno diurno", ventiquattro ore di riposo, dodici ore di lavoro comprensive delle ore notturne, di seguito indicato "turno notturno", quarantotto ore di riposo, nel presente decreto definita turnazione 12/24 - 12/48, di norma articolato in orario 8:00-20:00 e 20:00-8:00. Sono ammesse diverse articolazioni dei turni continuativi di servizio assicurando almeno 11 ore di riposo tra due turni di lavoro. 
+ 1-ter. Il personale impiegato nei turni di servizio di cui al comma 1-bis effettua 1.602 ore di lavoro all'anno corrispondenti a 133,5 turni di servizio di dodici ore ciascuno, al netto del congedo ordinario. Sono fatte salve le assenze normativamente o contrattualmente previste. 
+ 1-quater. Le ulteriori ore prestate in eccedenza, per effetto della articolazione dei turni di servizio di cui al comma 1-bis, sono compensate con turni di riposo programmati nel calendario annuale.»; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    al comma 3 il secondo periodo e' sostituito dal seguente: «Le rispettive articolazioni sono determinate dai dirigenti responsabili degli uffici garantendo la concertazione di cui all'articolo 35.»; in fine sono inserite le seguenti parole: «complessivo di cui al presente comma.»; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    al comma 4, in fine, sono inserite le seguenti parole: «garantendo la concertazione di cui all'articolo 35». 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    al comma 6 le parole da «la seguente flessibilita'» fino a «ritardo» sono sostituite dalle seguenti: «garantendo la concertazione di cui all'articolo 35, la seguente flessibilita' in entrata ed in uscita che, di norma, potra' essere pari a: 
+ a) fino a un'ora di anticipo; 
+ b) fino a un'ora di ritardo.».
+
 ## Art. 18. — Particolari articolazioni dell'orario di lavoro
+
+1.
+                        
+                            
+                                All'articolo 9 del decreto del Presidente della Repubblica 7 maggio 2008 sono apportate le seguenti modifiche: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il comma 1 e' sostituito dal seguente: 
+ «1. Il personale del Corpo nazionale dei vigili del fuoco svolge, in alternativa alle tipologie di orario di lavoro di cui all'articolo 8, altre particolari articolazioni dell'orario di lavoro, correlate: 
+ a) all'esigenza di assicurare il soccorso tecnico urgente in caso di eventi calamitosi; 
+ b) all'ubicazione delle sedi di servizio, con particolare riferimento ai distaccamenti delle isole minori; 
+ c) a peculiari caratteristiche dei servizi di istituto e di soccorso tecnico urgente; 
+ d) alle esigenze dei reparti volo in relazione ai limiti di impiego degli equipaggi di volo fissati dall'Autorita' aeronautica del Corpo nazionale dei vigili del fuoco; 
+ e) alle specifiche esigenze dei distaccamenti aeroportuali in relazione all'orario di operativita' dello scalo; 
+ f) alle esigenze di assicurare la continuita' dei servizi informatici e di telecomunicazioni nonche' delle attivita' tecnico-professionali correlate al soccorso.». 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    dopo il comma 1 sono aggiunti i seguenti commi: 
+ «2. Il personale dei ruoli di rappresentanza svolge particolari articolazioni dell'orario di lavoro, organizzato anche sulla base di una programmazione plurisettimanale, correlate: 
+ a) alle esigenze del Gruppo sportivo vigili del fuoco Fiamme Rosse in relazione all'attivita' sportiva agonistica nonche' di allenamento e di preparazione atletica individuale e collegiale; 
+ b) alle esigenze della Banda musicale in relazione all'attivita' concertistica, alle relative prove, nonche' allo studio e alla preparazione individuale. 
+ 3. I criteri generali relativi all'articolazione dell'orario di lavoro di cui al comma 1, lettere a), c), d), e) ed f) e al comma 2, sono oggetto della procedura di concertazione di cui all'articolo 35.».
 
 ## Art. 19. — Orario di lavoro del personale che presta servizio nelle isole minori
 
@@ -358,9 +838,92 @@ Nel rispetto delle turnazioni di servizio, al personale impiegato in eventi cala
 
 ## Art. 23. — Assegnazione temporanea
 
+1.
+                        
+                            
+                                All'articolo 12 del decreto del Presidente della Repubblica 7 maggio 2008 sono apportate le seguenti modifiche: 
+ 
+                            
+                            
+                                a)
+                                
+                                    dopo il comma 1 sono aggiunti i seguenti commi: 
+ «1-bis. Costituiscono gravissimi motivi di carattere familiare e personale, che devono essere documentati con certificazione medica attestante: 
+ a) la patologia del dipendente non ostativa alla prestazione di servizio, tale da richiedere assistenza da parte dei congiunti e/o terapie presso strutture sanitarie specialistiche assenti nella sede di servizio o in sedi limitrofe; 
+ b) la patologia del coniuge/figli/genitori del dipendente che comporti pericolo di vita o gravissimo pregiudizio per l'integrita' fisica, anche nel caso di temporaneo ricovero, e la necessita' di relativa assistenza, a condizione che la patologia non si configuri esclusivamente di carattere cronico o di durata non determinabile e, come tale, implicante soluzioni assistenziali di tipo permanente. 
+ 1-ter. Costituisce, altresi', gravissimo motivo di carattere familiare il ricongiungimento a figli minori o a congiunti sottoposti a tutela, per sopravvenute circostanze che pongano solo in capo al dipendente la necessita' di assistenza temporanea, a condizione che venga comprovata l'impossibilita' da parte del soggetto che prima garantiva l'assistenza stessa e il carattere temporaneo della situazione.»; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il comma 3 e' soppresso.
+
 ## Art. 24. — Congedo ordinario
 
+1.
+                        
+                            
+                                All'articolo 13 del decreto del Presidente della Repubblica 7 maggio 2008 sono apportate le seguenti modifiche: 
+ 
+                            
+                            
+                                a)
+                                
+                                    al comma 2 e' inserito in fine il seguente periodo: 
+ «Per il personale che effettua le turnazioni 12/24 e 12/48, la durata del congedo ordinario e' di sedici turni, comprensivi dei turni equivalenti alle due giornate previste dalla suddetta norma.»; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il comma 3 e' sostituito dal seguente comma: 
+ «3. Per i primi tre anni di servizio, computando anche il periodo del corso di formazione iniziale, la durata del congedo ordinario e' di trenta giorni, comprensivi delle due giornate previste dall'articolo 1, comma 1, lettera a), della legge 23 dicembre 1977, n. 937. Per il personale che effettua le turnazioni 12/24 - 12/48, la durata del congedo ordinario e' di quindici turni, comprensivi dei turni equivalenti alle due giornate previste dalla suddetta norma.»; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il comma 5 e' sostituito dal seguente comma: 
+ «5. Ai sensi di quanto previsto dall'articolo 1, comma 1, lettera b), della legge 23 dicembre 1977, n. 937, spettano altresi' quattro giornate di riposo al personale che effettua orario giornaliero, ovvero due turni di riposo al personale che effettua turni di servizio di dodici ore, da fruire nell'arco dell'anno solare.»; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    al secondo periodo del comma 8 le parole «Esse sono fruite» sono sostituite dalle parole «Di norma deve essere fruito»; in fine, sono inserite le seguenti parole: «e, nel caso di personale turnista, deve essere distribuito equamente tra turni diurni e notturni. La concessione o il diniego del congedo richiesto deve essere comunicato al dipendente in forma scritta entro un termine congruo dalla presentazione dell'istanza, tenuto anche conto delle eventuali esigenze prospettate dall'interessato.»; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    il comma 16 e' sostituito dal seguente comma: 
+ «16. Il congedo ordinario maturato e non goduto per esigenze di servizio e' monetizzabile solo all'atto della cessazione del rapporto di lavoro, nei limiti delle vigenti norme di legge e delle relative disposizioni applicative.».
+
 ## Art. 25. — Permessi
+
+1.
+                        
+                            
+                                All'articolo 17 del decreto del Presidente della Repubblica 7 maggio 2008 sono apportate le seguenti modifiche: 
+ 
+                            
+                            
+                                a)
+                                
+                                    al comma 1 le parole da «decesso» a «n. 53» sono sostituite dalle seguenti: «decesso o documentata grave infermita' del coniuge, di un parente entro il secondo grado o di un affine di primo grado, in ragione di tre giorni all'anno per evento, ai sensi dell'articolo 4, comma 1, della legge 8 marzo 2000, n. 53. Il permesso per lutto puo' essere fruito entro sette giorni lavorativi dal decesso.»; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    al comma 3, dopo le parole «anche entro i» il termine «trenta» e' sostituito con il seguente «quarantacinque».
 
 ## Art. 26. — Cessione solidale del congedo ordinario
 
@@ -388,6 +951,62 @@ La presente disciplina potra' essere oggetto di revisione ai fini di una possibi
 
 ## Art. 27. — Assenze per malattia
 
+1.
+                        
+                            
+                                All'articolo 15 del decreto del Presidente della Repubblica 7 maggio 2008 sono apportate le seguenti modifiche: 
+ 
+                            
+                            
+                                a)
+                                
+                                    dopo il comma 3 e' aggiunto il seguente: 
+ «3-bis. L'Amministrazione puo' richiedere, previo parere del medico responsabile della struttura sanitaria centrale o territoriale e secondo le procedure di cui al comma 2, l'accertamento della idoneita' psicofisica del dipendente, in caso di disturbi del comportamento gravi, evidenti e ripetuti oppure in presenza di condizioni fisiche che facciano fondatamente presumere l'inidoneita' permanente assoluta o relativa al servizio oppure l'impossibilita' di rendere la prestazione.»; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    al comma 6, la lettera a) e' sostituita dalla seguente: 
+ «a) intera retribuzione fissa e continuativa, per i primi 9 mesi di assenza, con esclusione di qualsiasi compenso accessorio comunque denominato collegato alla presenza in servizio;»; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il comma 7 e' sostituito dal seguente: 
+ 7. «In caso di patologie gravi che richiedano terapie salvavita, come ad esempio l'emodialisi, la chemioterapia ed altre ad esse assimilabili, ai fini del presente articolo, sono esclusi dal computo dei giorni di assenza per malattia i relativi giorni di ricovero ospedaliero o di day-hospital, nonche' i giorni di assenza dovuti all'effettuazione delle citate terapie, visite specialistiche, esami diagnostici e follow up specialistico. In tali giornate il dipendente ha diritto all'intera retribuzione prevista dalla lettera a) del comma 6. L'attestazione della sussistenza delle particolari patologie richiedenti le terapie salvavita deve essere rilasciata dalle competenti strutture medico-legali delle Aziende sanitarie locali o dagli enti accreditati o, nei casi previsti, dalle strutture con competenze mediche delle pubbliche amministrazioni. Rientrano nella disciplina del presente comma anche i giorni di assenza dovuti agli effetti collaterali delle citate terapie, comportanti incapacita' lavorativa. I giorni di assenza dovuti alle terapie e agli effetti collaterali delle stesse sono debitamente certificati dalla struttura medica convenzionata ove e' stata effettuata la terapia o dall'organo medico competente. La procedura per il riconoscimento della grave patologia e' attivata dal dipendente e, dalla data del riconoscimento della stessa, decorrono le disposizioni di cui al presente comma. La disciplina del presente comma si applica alle assenze per l'effettuazione delle terapie salvavita intervenute successivamente alla data di sottoscrizione definitiva dell'accordo triennale recepito dal presente decreto.»; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    al comma 8 le parole «decreto legislativo n. 834/1981» sono sostituite dalle seguenti: «decreto del Presidente della Repubblica 30 dicembre 1981, n. 834»; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    al comma 12, al primo periodo, dopo le parole «raccomandata con avviso di ricevimento» sono aggiunte le seguenti parole: «o mediante strumento telematico, idoneo a garantire la certezza dell'invio»; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    il comma 13 e' sostituito dal seguente: «13. L'Amministrazione dispone il controllo della malattia ai sensi delle vigenti disposizioni di legge attraverso l'ente competente.»; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    al comma 15, le parole «anche se domenicale o festivo, dalle ore 10 alle ore 12 e dalle ore 17 alle ore 19» sono sostituite dalle seguenti: «anche nei giorni non lavorativi e festivi, nelle fasce orarie di reperibilita' determinate con decreto del Ministro per la pubblica amministrazione ai sensi dell'articolo 55-septies, comma 5-bis, del decreto legislativo 30 marzo 2001, n. 165.».
+
 ## Art. 28. — Assenze per l'espletamento di visite, terapie, 
  prestazioni specialistiche ed esami diagnostici
 
@@ -408,6 +1027,24 @@ La domanda di fruizione dei permessi e' presentata dal dipendente nel rispetto d
 L'assenza per i permessi di cui al comma 1 e' giustificata mediante attestazione di presenza, anche in ordine all'orario, redatta dal medico o dal personale amministrativo della struttura, anche privati, che hanno svolto la visita o la prestazione.
 
 L'attestazione e' inoltrata all'Amministrazione dal dipendente oppure e' trasmessa direttamente a quest'ultima, anche per via telematica, a cura del medico o della struttura.
+
+10.
+                        
+                            
+                                Nel caso di concomitanza tra l'espletamento di visite specialistiche, l'effettuazione di terapie od esami diagnostici e la situazione di incapacita' lavorativa temporanea del dipendente conseguente ad una patologia in atto, la relativa assenza e' imputata alla malattia, con la conseguente applicazione della disciplina legale e contrattuale in ordine al relativo trattamento giuridico ed economico. In tale ipotesi, l'assenza per malattia e' giustificata mediante: 
+ 
+                            
+                            
+                                a)
+                                
+                                    attestazione di malattia del medico curante individuato, in base a quanto previsto dalle vigenti disposizioni, comunicata all'Amministrazione secondo le modalita' ordinariamente previste in tale ipotesi; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    attestazione di presenza, redatta dal medico o dal personale amministrativo della struttura, anche privati, che hanno svolto la visita o la prestazione, secondo le previsioni dei commi 8 e 9 del presente articolo.
 
 Analogamente a quanto previsto dal comma 10, nei casi in cui l'incapacita' lavorativa e' determinata dalle caratteristiche di esecuzione e di impegno organico delle visite specialistiche, degli accertamenti, esami diagnostici e/o delle terapie, la relativa assenza e' imputata alla malattia, con la conseguente applicazione della disciplina legale e contrattuale in ordine al relativo trattamento giuridico ed economico. In tale caso l'assenza e' giustificata mediante l'attestazione di presenza di cui al comma 10, lettera b).
 
@@ -451,6 +1088,38 @@ Il personale appartenente ai ruoli tecnico-professionali, come indicato dall'art
 
 ## Art. 34. — Tutela dei dipendenti in particolari condizioni psicofisiche
 
+1.
+                        
+                            
+                                Allo scopo di favorire la riabilitazione e il recupero dei dipendenti nei confronti dei quali sia stato accertato, da una struttura sanitaria pubblica o da strutture associative convenzionate previste dalle leggi regionali vigenti, lo stato di tossicodipendenza o di alcolismo cronico e che si impegnino a sottoporsi ad un progetto terapeutico di recupero predisposto dalle predette strutture, sono stabilite le seguenti misure di sostegno, secondo le modalita' di sviluppo del progetto: 
+ 
+                            
+                            
+                                a)
+                                
+                                    diritto alla conservazione del posto per l'intera durata del progetto di recupero, con corresponsione del trattamento economico previsto per le assenze per malattia; i periodi eccedenti i diciotto mesi non sono retribuiti; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    concessione di permessi giornalieri orari retribuiti nel limite massimo di due ore, per la durata del progetto; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    riduzione dell'orario di lavoro, con l'applicazione degli istituti normativi e retributivi previsti per il rapporto di lavoro a tempo parziale, limitatamente alla durata del progetto di recupero; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    assegnazione del dipendente a mansioni diverse da quelle abituali, quando tale misura sia individuata dalla struttura che gestisce il progetto di recupero come supporto della terapia in atto.
+
 I dipendenti i cui parenti entro il secondo grado o, in mancanza, entro il terzo grado, ovvero i conviventi ai sensi della legge 20 maggio 2016, n. 76, si trovino nelle condizioni previste dal comma 1 ed abbiano iniziato a dare attuazione al progetto di recupero, possono fruire dell'aspettativa per motivi di famiglia per l'intera durata del progetto medesimo.
 
 I periodi di assenza di cui al presente articolo non vengono presi in considerazione ai fini del periodo di comporto previsto per le assenze per malattia.
@@ -482,6 +1151,24 @@ Attraverso il sistema delle relazioni sindacali:
  si migliora la qualita' delle decisioni assunte; 
  si sostengono la motivazione, la crescita professionale e l'aggiornamento del personale, attraverso una visione strategica improntata alla valorizzazione del personale, nonche' i processi di innovazione organizzativa e di riforma dell'Amministrazione; 
  si tutelano le condizioni di lavoro legate alla salute e alla sicurezza dei lavoratori.
+
+3.
+                        
+                            
+                                Fermo restando la centralita' dell'istituto della contrattazione, nel rispetto dei distinti ruoli e responsabilita' dell'Amministrazione e delle Organizzazioni sindacali firmatarie dell'accordo triennale recepito dal presente decreto, le relazioni sindacali si articolano nei seguenti modelli relazionali: 
+ 
+                            
+                            
+                                a)
+                                
+                                    partecipazione; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    contrattazione integrativa.
 
 La partecipazione e' finalizzata ad instaurare forme trasparenti e costruttive di dialogo tra le parti, ai diversi livelli su atti e decisioni di valenza generale dell'Amministrazione, in materia di organizzazione o aventi riflessi sul rapporto di lavoro ovvero a garantire adeguati diritti di informazione sugli stessi; si articola, a sua volta, in: 
  informazione; 
@@ -561,15 +1248,209 @@ L'articolo 32 del decreto del Presidente della Repubblica 7 maggio 2008 e' sosti
 
 ## Art. 42. — Federazioni sindacali
 
+1.
+                        
+                            
+                                All' articolo 37 del decreto del Presidente della Repubblica 7 maggio 2008 sono apportate le seguenti modifiche: 
+ 
+                            
+                            
+                                a)
+                                
+                                    al comma 3, al secondo periodo, dopo le parole «con lettera raccomandata a/r», sono inserite le seguenti parole: «o mediante strumento telematico, idoneo a garantire la certezza dell'invio»; in fine, sono inserite le seguenti parole: «o sulla posta elettronica certificata»; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    al comma 4, al primo periodo, la parola «biennio» e' sostituita dalla parola «triennio»; gli anni «2008-2009» sono eliminati; l'anno «2007» e' sostituito dalle parole «dell'anno precedente alla rilevazione»; l'anno «2008» e' sostituito dalla parola «successivo»; al secondo periodo, dopo le parole «31 marzo» e' eliminato l'anno «2008»; le parole «biennio 2008-2009» sono sostituite dalle seguenti parole «triennio contrattuale di riferimento»; al terzo periodo, il numero «35» e' sostituito dal numero «137»; il numero «2007» e' sostituito dalle seguenti parole «dell'anno precedente alla rilevazione»; al quarto periodo, dopo le parole, «31 marzo» l'anno «2008» e' eliminato; in fine l'anno «2008» e' sostituito dalla parola «successivo»; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    al comma 5, il numero «35» e' sostituito dal numero «137»; al secondo periodo, il numero «37» e' sostituito dal numero «139»; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    al comma 6, il numero «35» e' sostituito dal numero «137»; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    al comma 7, il numero «35» e' sostituito dal numero «137»; in fine il numero «34» e' sostituito dal numero «41» e le parole da «in attesa» fino a «217» sono soppresse; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    al comma 8, in fine, le parole da «verificati» a «comma 3» sono soppresse; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    al comma 9 al primo periodo le parole «Dall'1° gennaio 2007» sono soppresse.
+
 ## Art. 43. — Distacchi sindacali
+
+1.
+                        
+                            
+                                All'articolo 38 del decreto del Presidente della Repubblica 7 maggio 2008 sono apportate le seguenti modifiche: 
+ 
+                            
+                            
+                                a)
+                                
+                                    al comma 2, al primo periodo, il numero «35» e' sostituito dal numero «137»; le parole da «entro il primo» fino a «successivamente» sono soppresse, la parola «biennio» e' sostituita dalla parola «triennio»; al secondo periodo in fine, la parola «ripartizione» e' sostituita dalle parole «la rilevazione della rappresentativita'»; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il comma 3 e' sostituito dal seguente: 
+ «3. Le richieste di distacco sono presentate dalle organizzazioni sindacali nazionali aventi titolo alla Direzione Centrale per le risorse umane del Dipartimento dei vigili del fuoco, del soccorso pubblico e della difesa civile, la quale cura gli adempimenti istruttori, finalizzati all'accertamento dei requisiti di cui al comma 7. Accertati i predetti requisiti, il Dipartimento dei vigili del fuoco, del soccorso pubblico e della difesa civile acquisisce il preventivo assenso della Presidenza del Consiglio dei Ministri - Dipartimento della funzione pubblica, ed emana il decreto di distacco entro il termine di trenta giorni dalla richiesta del distacco. L'assenso della Presidenza del Consiglio dei Ministri - Dipartimento della funzione pubblica, finalizzato esclusivamente all'accertamento del requisito della rappresentativita' ed alla verifica del rispetto dello specifico contingente e del relativo riparto di cui al comma 2, e' considerato acquisito qualora lo stesso Dipartimento non provveda entro venti giorni dalla data di ricezione della richiesta di preventivo assenso. Entro il 31 gennaio di ciascun anno, le organizzazioni sindacali comunicano la conferma di ogni singolo distacco in atto; possono avanzare richiesta di revoca in ogni momento. La conferma annuale e la richiesta di revoca sono comunicate alla Direzione Centrale per le risorse umane del Dipartimento dei vigili del fuoco, del soccorso pubblico e della difesa civile, che le trasmette alla Presidenza del Consiglio dei Ministri - Dipartimento della funzione pubblica. I consequenziali provvedimenti sono adottati solo in caso di revoca.». 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    al comma 4, le parole «alla Presidenza del Consiglio dei Ministri - Dipartimento della Funzione pubblica e» sono soppresse; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    al comma 8, il numero «144» e' sostituito dal numero «244»; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    il comma 10 e' soppresso.
 
 ## Art. 44. — Aspettative sindacali non retribuite
 
+1.
+                        
+                            
+                                All'articolo 39 del decreto del Presidente della Repubblica 7 maggio 2008 sono apportate le seguenti modifiche: 
+ 
+                            
+                            
+                                a)
+                                
+                                    alla rubrica dell'articolo sono inserite le parole «non retribuite»; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il comma 2 e' sostituito dal seguente: 
+ «2. Le richieste di aspettativa sindacale sono presentate dalle organizzazioni sindacali rappresentative sul piano nazionale, di cui al comma 1, alla Direzione centrale per le risorse umane del Dipartimento dei vigili del fuoco, del soccorso pubblico e della difesa civile, la quale cura gli adempimenti istruttori, finalizzati all'accertamento dei requisiti di cui al comma 1. Accertati i predetti requisiti, la Direzione centrale per le risorse umane del Dipartimento dei vigili del fuoco, del soccorso pubblico e della difesa civile acquisisce per ciascuna richiesta nominativa il preventivo assenso della Presidenza del Consiglio dei Ministri - Dipartimento della funzione pubblica, ed emana il decreto di aspettativa entro il termine di trenta giorni dalla richiesta da parte dell'organizzazione sindacale. L'assenso della Presidenza del Consiglio dei Ministri - Dipartimento della funzione pubblica, finalizzato esclusivamente all'accertamento del requisito della rappresentativita', e' considerato acquisito qualora il Dipartimento della funzione pubblica stesso non provveda entro venti giorni dalla data di ricezione della richiesta di preventivo assenso». 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    al comma 3, le parole «e' comunicata» sono sostituite dalle parole «sono comunicate»; le parole «alla Presidenza del Consiglio dei Ministri - Dipartimento della funzione pubblica ed» sono soppresse; dopo le parole «difesa civile che» sono aggiunte le seguenti parole «le trasmette alla Presidenza del Consiglio dei Ministri - Dipartimento della funzione pubblica.», le parole «che adottano i consequenziali provvedimenti nel solo caso di revoca» sono sostituite dalle seguenti parole «I consequenziali provvedimenti sono adottati solo in caso di revoca».
+
 ## Art. 45. — Permessi sindacali retribuiti
+
+1.
+                        
+                            
+                                All'articolo 40 del decreto del Presidente della Repubblica 7 maggio 2008 sono apportate le seguenti modifiche: 
+ 
+                            
+                            
+                                a)
+                                
+                                    al comma 1, dopo le parole «collocato in distacco» sono inserite le parole «a tempo pieno»; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    al comma 2, il secondo periodo e' soppresso; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    al comma 3, il numero «35» e' sostituito dal numero «137».
 
 ## Art. 46. — Adempimenti dell'Amministrazione
 
+1.
+                        
+                            
+                                All'articolo 41 del decreto del Presidente della Repubblica 7 maggio 2008 sono apportate le seguenti modifiche: 
+ 
+                            
+                            
+                                a)
+                                
+                                    al comma 1, i numeri «35» sono sostituiti dai numeri «137»; dopo l'ottavo periodo e' inserito il seguente: «Nei soli limitati casi in cui la lavorazione delle buste paga relative al mese di gennaio si chiuda prima del 31 dicembre, la rilevazione avviene sulla busta paga del mese di febbraio a condizione che in detta busta paga risultino, per le nuove deleghe rilasciate a dicembre, sia la trattenuta riferita al mese di gennaio che quella riferita al mese di febbraio»; al nono periodo le seguenti parole «e, quindi, anche per quella in corso relativa alla raccolta delle deleghe al 31 dicembre 2007,» sono soppresse; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    al comma 2, le parole «31 maggio» sono sostituite dalle seguenti «31 marzo»; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    al comma 3, le parole «31 maggio» sono sostituite dalle seguenti «31 marzo»; in fine, le parole «Il Dipartimento della funzione pubblica verifica il rispetto dei limiti previsti dal presente decreto» sono soppresse.
+
 ## Art. 47. — Diritti sindacali
+
+1.
+                        
+                            
+                                Le seguenti disposizioni costituiscono parte integrante del presente decreto: 
+ 
+                            
+                            
+                                a)
+                                
+                                    articolo 2 (diritto di assemblea) del contratto collettivo nazionale sottoscritto in data 24 aprile 2002, integrativo del contratto collettivo nazionale di lavoro del comparto Aziende e Amministrazioni autonome dello Stato 1998-2001 del 24 maggio 2000; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    articolo 5, comma 3 (diritto ai locali) del contratto collettivo nazionale sottoscritto in data 30 luglio 2002, integrativo del contratto collettivo nazionale di lavoro del comparto Aziende e Amministrazioni autonome dello Stato 1998-2001 del 24 maggio 2000; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    articolo 5 (diritto di affissione) del contratto collettivo nazionale sottoscritto in data 30 luglio 2002, integrativo del contratto collettivo nazionale di lavoro del comparto Aziende e Amministrazioni autonome dello Stato 1998-2001 del 24 maggio 2000.
 
 ## - Titolo IV NORME FINALI
 
@@ -588,6 +1469,52 @@ Sono, altresi', disapplicate le disposizioni contrattuali non compatibili con il
 Al personale di cui al presente decreto continuano ad applicarsi, ove non in contrasto, le norme previste dai precedenti contratti collettivi nazionali e accordi recepiti con decreti del Presidente della Repubblica.
 
 ## Art. 50. — Copertura finanziaria
+
+1.
+                        
+                            
+                                All'onere derivante dall'attuazione del presente decreto, complessivamente pari a 133.773.830 euro per l'anno 2022 e a 65.768.292 euro a decorrere dall'anno 2023, si provvede: 
+ 
+                            
+                            
+                                a)
+                                
+                                    quanto a euro 59.638.322 per l'anno 2022, mediante corrispondente utilizzo delle disponibilita' in conto residui relative all'autorizzazione di spesa di cui all'articolo 1, comma 436, della legge 30 dicembre 2018, n. 145, che sono versate all'entrata del bilancio dello Stato nel medesimo anno; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    quanto a euro 5.021.044 per l'anno 2022, mediante corrispondente utilizzo delle disponibilita' in conto residui relative all'autorizzazione di spesa di cui all'articolo 30, comma 7-quater, del decreto-legge 25 maggio 2021, n. 73 convertito, con modificazioni, dalla legge 23 luglio 2021, n. 106, che sono versate all'entrata del bilancio dello Stato nel medesimo anno; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    quanto a euro 3.346.172 per l'anno 2022, mediante corrispondente utilizzo delle disponibilita' in conto residui relative all'autorizzazione di spesa di cui all'articolo 1, comma 996, della legge 30 dicembre 2020, n. 178, come sostituito dall'articolo 30, comma 7-quinquies, lettera a), del decreto-legge 25 maggio 2021, n. 73 convertito, con modificazioni, dalla legge 23 luglio 2021, n. 106, che sono versate all'entrata del bilancio dello Stato nel medesimo anno; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    quanto a euro 57.401.076 annui a decorrere dall'anno 2022 mediante corrispondente riduzione dell'autorizzazione di spesa di cui all'articolo 1, comma 436, della legge 30 dicembre 2018, n. 145; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    quanto a euro 5.021.044 annui a decorrere dall'anno 2022 mediante corrispondente riduzione dell'autorizzazione di spesa di cui all'articolo 30, comma 7-quater, del decreto-legge 25 maggio 2021, n. 73 convertito, con modificazioni, dalla legge 23 luglio 2021, n. 106; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    quanto a euro 3.346.172 annui a decorrere dall'anno 2022 mediante corrispondente riduzione dell'autorizzazione di spesa di cui all'articolo 1, comma 996, della legge 30 dicembre 2020, n. 178, come sostituito dall'articolo 30, comma 7-quinquies, lettera a) del decreto-legge 25 maggio 2021, n. 73 convertito, con modificazioni, dalla legge 23 luglio 2021, n. 106.
 
 Il Ministero dell'economia e delle finanze e' autorizzato ad apportare, con propri decreti, le occorrenti variazioni di bilancio.
 

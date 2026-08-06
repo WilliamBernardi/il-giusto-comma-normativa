@@ -7,8 +7,8 @@ urn: urn:nir:stato:decreto.legislativo:2024-12-27;219
 vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:31Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -38,6 +38,31 @@ Il presente decreto definisce, in attuazione della delega di cui all'articolo 27
 
 ## Art. 2. — Definizioni
 
+1.
+                    
+                        
+                            Ai fini del presente decreto si intende per: 
+ 
+                        
+                        
+                            a)
+                            
+                                «attivita' commerciale storica»: l'attivita' che consiste nella vendita al dettaglio, organizzata e continuativa, di beni sul mercato; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                «bottega artigiana»: l'attivita' gestita dall'imprenditore artigiano, caratterizzata dalla prevalente manualita' delle lavorazioni, come definita dall'articolo 2 della legge 8 agosto 1985, n. 443 o dalle normative regionali; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                «esercizio pubblico storico»: l'attivita' dedita alla ristorazione o alla somministrazione di alimenti e bevande.
+
 ## Art. 3.
 
 Attivita' commerciali, botteghe artigiane ed esercizi storici
@@ -64,6 +89,52 @@ Con decreto di natura regolamentare del Ministro delle imprese e del made in Ita
 
 Attivita' storiche di eccellenza
 
+1.
+                    
+                        
+                            Fermo restando quanto gia' stabilito dalle regioni nell'ambito della propria autonomia, sono definite «Attivita' commerciali, botteghe artigiane ed esercizi pubblici storici di eccellenza» le attivita' commerciali e gli esercizi pubblici storici che: 
+ 
+                        
+                        
+                            a)
+                            
+                                abbiano svolto nello stesso locale, da almeno settanta anni continuativi, nell'ambito dei quali non sono computati periodi di interruzione o sospensione non superiori ad un anno, un'attivita' di produzione, somministrazione o vendita al dettaglio nello stesso settore merceologico; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                siano gestite per almeno tre generazioni consecutive da una medesima famiglia con continuita' dell'attivita' storica e con il mantenimento della qualita' e dell'eccellenza ovvero dal soggetto subentrante ai sensi dell'articolo 3, comma 4, secondo periodo, che assicuri il mantenimento delle condizioni di cui all'articolo 3, comma 4. 
+
+                            
+                        
+                        
+                            c)
+                            
+                                siano connotate da un particolare interesse storico, culturale, artistico, turistico o merceologico ovvero legato alle tradizioni locali; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                abbiano conservato, per quanto possibile, l'aspetto storico, gli interni e gli arredi, ivi comprese mostre, vetrine e insegne della ditta; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                le strutture, gli interni e gli arredi siano connotati da una elevata qualita' progettuale e dei materiali; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                siano insediati nelle zone territoriali omogenee di cui alla lettera A) dell'articolo 2 del decreto del Ministro dei lavori pubblici 2 aprile 1968, n. 1444, o in zone equipollenti o in aree considerate di pregio commerciale ai sensi delle disposizioni degli enti territoriali competenti;
+
 Alle attivita' di cui al comma 1, disciplinate con il regolamento di cui all'articolo 3, comma 9, e' dedicata una specifica sezione dell'albo nazionale di cui all'articolo 6.
 
 ## Art. 5. — Diritti di prelazione ed estensione 
@@ -81,6 +152,38 @@ Restano ferme le competenze del Ministero della cultura in materia di individuaz
  e artigiane storiche e delle relative sottosezioni
 
 E' istituito l'Albo nazionale delle attivita' commerciali, delle botteghe artigiane e degli esercizi pubblici storici. L'Albo nazionale e' costituito dagli albi regionali, delle citta' metropolitane, comunali e delle province autonome, inviati e periodicamente aggiornati dalle regioni, dai comuni e dalle province autonome di Trento e di Bolzano. Nell'ambito dell'Albo nazionale e' costituita una sezione delle attivita' storiche di eccellenza.
+
+2.
+                    
+                        
+                            L'Albo e' gestito e alimentato dal Ministero delle imprese e del made in Italy. Il Ministero del turismo ne cura gli aspetti promozionali. Con decreto del Ministro delle imprese e del Made in Italy, di concerto con il Ministro del turismo per le questioni di competenza, adottato entro novanta giorni dall'entrata in vigore del presente decreto, previo parere della Conferenza unificata, sono individuate le modalita' attuative del comma 1. In particolare, il decreto provvede: 
+ 
+                        
+                        
+                            a)
+                            
+                                all'individuazione delle caratteristiche dell'Albo nazionale, della sezione delle attivita' storiche di eccellenza e di ulteriori sezioni per categoria merceologica, nonche' delle modalita' per lo scambio di informazioni con le regioni, le citta' metropolitane, i comuni e le province autonome di Trento e di Bolzano per il suo periodico aggiornamento; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                alle modalita' di pubblicazione dell'Albo nazionale in una specifica sezione del sito internet del Ministero delle imprese e del made in Italy, con predisposizione di rinvii ai siti internet delle regioni e dei comuni; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                alla predisposizione, nel portale «Italia.it» del Ministero del turismo e nel sito internet di ENIT s.p.a., di un apposito rinvio alla sezione del sito internet del Ministero delle imprese e del made in Italy di cui alla lettera b) e alla pubblicazione, nel sito internet del Ministero del turismo, delle informazioni sulle attivita' di cui all'articolo 7; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                alle modalita' di raccordo con le regioni, le citta' metropolitane, i comuni e con le province autonome di Trento e di Bolzano.
 
 ## Art. 7. — Misure di valorizzazione
 

@@ -8,8 +8,8 @@ vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
 vigenza_date: 2026-04-21
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:33Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -29,6 +29,56 @@ Sulla proposta del Presidente del Consiglio dei ministri e del Ministro delle in
 
 ## Art. 1. — Oggetto e ambito di applicazione
 
+1.
+                        
+                            
+                                Il presente decreto disciplina: 
+ 
+                            
+                            
+                                a)
+                                
+                                    le regole relative all'utilizzo ed alla gestione dell'infrastruttura ferroviaria adibita a servizi ferroviari nazionali e internazionali ed alle attivita' di trasporto per ferrovia delle imprese ferroviarie operanti in Italia; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    i criteri che disciplinano il rilascio, la proroga o la modifica delle licenze per la prestazione di servizi di trasporto ferroviario da parte delle imprese ferroviarie stabilite in Italia; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    i principi e le procedure da applicare nella determinazione e nella riscossione dei canoni dovuti per l'utilizzo dell'infrastruttura ferroviaria ed anche nell'assegnazione della capacita' di tale infrastruttura.
+
+2.
+                        
+                            
+                                Il presente decreto non si applica: 
+ 
+                            
+                            
+                                a)
+                                
+                                    alle reti ferroviarie locali e regionali isolate adibite al trasporto passeggeri ed alle imprese ferroviarie che esercitano unicamente servizi di trasporto urbano, extraurbano o regionale su tali reti; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    alle reti ferroviarie adibite unicamente alla prestazione di servizi passeggeri urbani e suburbani ed alle imprese ferroviarie che esercitano unicamente servizi di trasporto urbano ed extraurbano su tali reti; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    alle infrastrutture ferroviarie private adibite unicamente alle operazioni merci del proprietario delle stesse infrastrutture ed alle imprese ferroviarie che effettuano solo servizi di trasporto merci su tali infrastrutture.
+
 In deroga al comma 2, lettere a) e b), se l'impresa ferroviaria e' controllata, direttamente o indirettamente, da un'impresa o altra entita' che effettua o integra servizi di trasporto ferroviario diversi dai servizi urbani, suburbani o regionali, a siffatta impresa ferroviaria si applica quanto previsto agli articoli 4, 5, 11 e 16.
 
 Le reti ferroviarie rientranti nell'ambito di applicazione del presente decreto e per le quali sono attribuite alle regioni le funzioni e i compiti di programmazione e di amministrazione ai sensi del decreto legislativo 19 novembre 1997, n. 422, sono regolate, con particolare riferimento a quanto attiene all'utilizzo ed alla gestione di tali infrastrutture, all'attivita' di trasporto per ferrovia, al diritto di accesso all'infrastruttura ed alle attivita' di ripartizione ed assegnazione della capacita' di infrastruttura, sulla base dei principi della direttiva 2012/34/UE del Parlamento europeo e del Consiglio, che istituisce un unico spazio ferroviario europeo e del presente decreto.
@@ -37,15 +87,177 @@ Per le reti di cui al comma 4, le funzioni dell'organismo di regolazione di cui 
 
 Entro sei mesi dalla data di entrata in vigore del presente decreto, il Ministro delle infrastrutture e dei trasporti emana, previa intesa con la Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome di Trento e di Bolzano, sentito l'organismo di regolazione di cui all'articolo 3, comma 1, lettera t), un decreto ministeriale, con il quale sono individuate le reti ferroviarie di cui al comma 4. Nelle more dell'emanazione del decreto di cui al primo periodo, si applica il decreto del Ministro delle infrastrutture e dei trasporti del 5 agosto 2005. Il Ministro delle infrastrutture e dei trasporti provvede, altresi', con cadenza periodica, almeno quinquennale, ad apportare le necessarie modifiche al decreto di cui al primo periodo, per tener conto dell'evoluzione del mercato di settore. Le esclusioni di infrastrutture ferroviarie locali che non rivestono importanza strategica per il funzionamento del mercato ferroviario sono preventivamente notificate alla Commissione europea secondo le modalita' di cui all'articolo 2, paragrafo 4 della direttiva 2012/34/UE del Parlamento europeo e del Consiglio, nell'ambito dell'attivita' istruttoria di aggiornamento del decreto ministeriale.
 
+7.
+                        
+                            
+                                Il Ministero delle infrastrutture e dei trasporti trasmette contestualmente alle competenti Commissioni parlamentari, alla Conferenza unificata di cui all'articolo 8 del decreto legislativo 28 agosto 1997, n. 281, nonche' all'Autorita' di regolazione dei trasporti di cui all'articolo 37 del ((decreto-legge 6 dicembre)) 2011, n. 201, convertito, con modificazioni, dalla legge 22 dicembre 2011, n. 214, entro il 31 marzo dell'anno di scadenza del contratto di programma di cui all'articolo 15, un documento strategico, con durata almeno decennale, denominato Documento strategico pluriennale della mobilita' (DSPM). Il DSPM definisce gli indirizzi strategici di lungo termine per lo sviluppo della rete, la mobilita' di passeggeri e merci per ferrovia, la promozione del trasporto multimodale e la piena integrazione delle esigenze del settore industriale e dei poli logistici nella pianificazione infrastrutturale ((e contiene)): 
+ 
+                            
+                            
+                                a)
+                                
+                                    l'illustrazione delle esigenze in materia di mobilita' di passeggeri e merci per ferrovia; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le attivita' per la gestione e il rafforzamento del livello di presidio manutentivo della rete; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    l'individuazione dei criteri di valutazione della sostenibilita' ambientale, economica e sociale degli interventi e i necessari standard di sicurezza e di resilienza dell'infrastruttura ferroviaria nazionale anche con riferimento agli effetti dei cambiamenti climatici; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    la descrizione degli assi strategici in materia di mobilita' ferroviaria, con particolare riferimento a: 
+ 1) programmi di sicurezza e di resilienza delle infrastrutture, anche ((in ottemperanza a)) specifici obblighi di legge; 
+ 2) programmi di sviluppo tecnologico per aumentare la capacita' e migliorare le prestazioni con riferimento alla rete del Sistema nazionale integrato dei trasporti (SNIT) di primo e secondo livello; 
+ 3) interventi prioritari sulle direttrici, nonche' interventi prioritari da sottoporre a revisione progettuale; 
+ 4) attivita' relative al fondo per la progettazione degli interventi e le relative indicazioni di priorita' strategica; 
+ 5) individuazione delle priorita' strategiche relative ai collegamenti di ultimo miglio dei porti e degli aeroporti; 
+ 6) localizzazione degli interventi, con la specifica indicazione di quelli da realizzarsi nelle regioni del Mezzogiorno in conformita' ((agli obiettivi)) di cui all'articolo 7-bis, comma 2, del decreto-legge 29 dicembre 2016, n. 243, convertito, con modificazioni, dalla legge 27 febbraio 2017, n. 18; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    le linee strategiche delle sperimentazioni relative alle innovazioni tecnologiche e ambientali; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    la ricognizione dei fabbisogni per la manutenzione e i servizi per l'infrastruttura ferroviaria; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    le metodologie di valutazione degli investimenti, con particolare riferimento alla sostenibilita' ambientale e sociale e all'accessibilita' per le persone con disabilita'; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    la definizione della strategia nazionale pluriennale di pianificazione degli investimenti infrastrutturali, recante delle priorita' di investimento per la promozione del trasporto multimodale, anche finalizzato alla connessione delle principali aree industriali e dei nodi logistici alla rete di trasporto.
+
 Le Commissioni parlamentari e la Conferenza unificata di cui all'articolo 8 del decreto legislativo 28 agosto 1997, n. 281, nonche' l'Autorita' di regolazione dei trasporti di cui all'articolo 37 del ((decreto-legge 6 dicembre)) 2011, n. 201, convertito, con modificazioni, dalla legge 22 dicembre 2011, n. 214, quest'ultima in relazione alla coerenza degli investimenti previsti con le esigenze del mercato raccolte mediante i meccanismi di coordinamento di cui all'articolo 7-sexies della direttiva 2012/34/UE ((del Parlamento europeo e del Consiglio, del 21 novembre 2012)), si esprimono sul DSPM di cui al comma 7 nel termine di trenta giorni dalla sua ricezione, decorso il quale il Ministero delle infrastrutture e dei trasporti procede all'approvazione di detto documento con proprio decreto. Il documento strategico e' sottoposto ad aggiornamento dopo tre anni o comunque in caso di mutamento degli scenari di carattere eccezionale, secondo le modalita' indicate nel comma 7 e nel presente comma.
 
 Le disposizioni del presente decreto non pregiudicano la direttiva 2014/25/UE del Parlamento europeo e del Consiglio del 26 febbraio 2014, sulle procedure d'appalto degli enti erogatori nei settori dell'acqua, dell'energia, dei trasporti e dei servizi postali e che abroga la direttiva 2004/17/CE, recepita dal codice dei contratti pubblici di cui al decreto legislativo 18 aprile 2016, n. 50.
 
 ## Art. 2. — Principi
 
+1.
+                        
+                            
+                                Le attivita' disciplinate dal presente decreto si uniformano ai seguenti principi: 
+ 
+                            
+                            
+                                a)
+                                
+                                    autonomia e indipendenza gestionale, amministrativa e contabile delle imprese ferroviarie; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    indipendenza delle funzioni essenziali del gestore dell'infrastruttura, separazione contabile o costituzione di strutture aziendali autonome e distinte, sotto il profilo patrimoniale e contabile, per la gestione dell'infrastruttura ferroviaria e per l'esercizio dell'attivita' di trasporto a mezzo ferrovia; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    liberta' di accesso al mercato dei trasporti di merci e di passeggeri per ferrovia da parte delle imprese ferroviarie, in conformita' alle prescrizioni contenute nelle direttive dell'Unione europea e negli articoli 56 e seguenti del TFUE, a condizioni eque, non discriminatorie e trasparenti e tali da garantire lo sviluppo della concorrenza nel settore ferroviario; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    possibilita' di risanamento della struttura finanziaria delle imprese di proprieta' pubblica o controllate di settore, nel rispetto di quanto previsto dall'articolo 9 della direttiva 2012/34/UE del Parlamento europeo e del Consiglio, fatta salva la normativa dell'Unione sugli aiuti di Stato e a norma degli articoli 93, 107 e 108 TFUE.
+
 Dall'attuazione del presente articolo non devono derivare nuovi o maggiori oneri per la finanza pubblica.
 
 ## Art. 3. — Definizioni
+
+1.
+                        
+                            
+                                Ai fini del presente decreto si intende per: 
+ 
+                            
+                            
+                                a)
+                                
+                                    impresa ferroviaria: qualsiasi impresa pubblica o privata titolare di una licenza, la cui attivita' principale consiste nella prestazione di servizi per il trasporto sia di merci sia di persone per ferrovia e che garantisce obbligatoriamente la trazione; sono comprese anche le imprese che forniscono solo la trazione; 
+ b)gestore dell'infrastruttura: qualsiasi organismo o impresa responsabili dell'esercizio, della manutenzione e del rinnovo dell'infrastruttura ferroviaria di una rete nonche' della partecipazione al suo sviluppo come stabilito dallo Stato nell'ambito della sua politica generale sullo sviluppo e sul finanziamento dell'infrastruttura; 
+ b-bis) sviluppo dell'infrastruttura ferroviaria: la programmazione di rete, la programmazione finanziaria e degli investimenti, nonche' la costruzione e il potenziamento dell'infrastruttura; 
+ b-ter) esercizio dell'infrastruttura ferroviaria: l'assegnazione delle tracce ferroviarie, la gestione del traffico e l'imposizione di canoni per l'utilizzo dell'infrastruttura; 
+ b-quater) manutenzione dell'infrastruttura ferroviaria: i lavori destinati a mantenere le condizioni e la capacita' dell'infrastruttura esistente; 
+ b-quinquies) rinnovo dell'infrastruttura ferroviaria: i lavori di sostituzione di vasta portata sull'infrastruttura esistente che non ne modificano la prestazione globale; 
+ b-sexies) potenziamento dell'infrastruttura ferroviaria: i lavori di modifica di vasta portata sull'infrastruttura esistente che ne migliorano la prestazione globale; 
+ b-septies) funzioni essenziali del gestore dell'infrastruttura: l'adozione di decisioni relative all'assegnazione delle tracce ferroviarie, incluse sia la definizione e la valutazione della disponibilita' che l'assegnazione delle singole tracce ferroviarie, e l'adozione di decisioni relative all'imposizione dei canoni per l'utilizzo dell'infrastruttura, comprendenti il calcolo e la riscossione dei canoni, in conformita' ai criteri stabiliti dall'organismo di regolazione, ai sensi, in particolare, degli articoli 17 e 26 del presente decreto; 
+ c) infrastruttura ferroviaria: gli elementi elencati nell'allegato I del presente decreto; 
+ d) servizio di trasporto internazionale di merci: il servizio di trasporto nel quale il treno attraversa almeno una frontiera di uno Stato membro; il treno puo' essere unito o scomposto e le varie sezioni possono avere origini e destinazioni diverse, purche' tutti i vagoni attraversino almeno una frontiera; 
+ e) servizio di trasporto internazionale di passeggeri: il servizio di trasporto di passeggeri nel quale il treno attraversa almeno una frontiera di uno Stato membro e la cui finalita' principale e' trasportare passeggeri tra stazioni situate in Stati membri diversi; il treno puo' essere sia unito sia scomposto e le varie sezioni che lo compongono possono avere origini e destinazioni diverse, purche' tutti i vagoni attraversino almeno una frontiera; 
+ f) servizi urbani ed extraurbani: i servizi di trasporto la cui finalita' principale e' soddisfare le esigenze di un centro urbano o di un agglomerato, incluso un agglomerato transfrontaliero, insieme alle esigenze in materia di trasporto fra detto centro o agglomerato e le sue zone periferiche; 
+ g) servizi regionali: i servizi di trasporto la cui finalita' principale e' soddisfare le esigenze in materia di trasporto di una o piu' regioni, inclusa una regione transfrontaliera; 
+ h) transito: l'attraversamento del territorio dell'Unione che non prevede il carico o lo scarico di merci ne' la salita e la discesa di passeggeri nel territorio dell'Unione; 
+ i) percorso alternativo: un diverso percorso tra la stessa origine e la stessa destinazione, fermo restando che tra i due percorsi vi e' un rapporto di intercambiabilita' ai fini della gestione, da parte dell'impresa ferroviaria, del servizio di trasporto merci o passeggeri in questione; 
+ l) alternativa valida: l'accesso a un altro impianto di servizio, economicamente accettabile per l'impresa ferroviaria e tale da consentirle di effettuare il servizio di trasporto merci o passeggeri in questione; 
+ m) impianto di servizio: l'impianto, inclusi i terreni, gli edifici e le attrezzature, appositamente attrezzato, totalmente o parzialmente, per consentire la prestazione di uno o piu' servizi di cui all'articolo 13 commi 2, 9 e 11; 
+ n) operatore dell'impianto di servizio: un'entita' pubblica o privata responsabile della gestione di uno o piu' impianti di servizio o della prestazione di uno o piu' servizi alle imprese ferroviarie di cui all'articolo 13, commi 2, 9 e 11; 
+ o) accordo transfrontaliero: un accordo tra due o piu' Stati membri o tra Stati membri e paesi terzi, destinato a facilitare la prestazione di servizi ferroviari transfrontalieri; 
+ p) licenza: autorizzazione valida su tutto il territorio dell'Unione europea, rilasciata dall'apposita autorita' preposta al rilascio della licenza ad un'impresa, in virtu' della quale ne e' riconosciuta la capacita' di fornire servizi di trasporto ferroviario come impresa ferroviaria; tale capacita' puo' essere limitata alla prestazione di determinati tipi di servizi; 
+ q) ((LETTERA ABROGATA DAL D.LGS. 23 NOVEMBRE 2018, N. 139)); 
+ r) titolo autorizzatorio: il titolo rilasciato dal Ministro delle infrastrutture e dei trasporti, su richiesta delle imprese ferroviarie in possesso di licenza, che consente l'espletamento di servizi sul territorio nazionale a condizioni di reciprocita' qualora si tratti di imprese ferroviarie aventi sede al di fuori dell'Unione europea o loro controllate ai sensi dell'articolo 7 della legge 10 ottobre 1990, n. 287; (3) 
+ s) autorita' preposta al rilascio della licenza: l'organismo nazionale incaricato di rilasciare le licenze alle imprese ferroviarie che hanno sede nel territorio italiano e' il Ministero delle infrastrutture e dei trasporti; 
+ t) organismo di regolazione: l'Autorita' di regolazione dei trasporti istituita dall'articolo 37 del decreto-legge 6 dicembre 2011, n. 201, convertito, con modificazioni, dalla legge 22 dicembre 2011, n. 214, come modificato dall'articolo 36 del decreto-legge 24 gennaio 2012, n. 1, convertito, con modificazioni, dalla legge 24 marzo 2012, n. 27, che e' anche l'organismo nazionale di regolazione di cui all'articolo 55 della direttiva 2012/34/UE del Parlamento europeo e del Consiglio; 
+ u) trasporto ferroviario: svolgimento di un servizio di trasporto sia di merci che di passeggeri fra due distinte localita', a fronte di un contratto di trasporto e di un contratto di utilizzo dell'infrastruttura; 
+ v) contratto: un accordo concluso nel quadro di misure amministrative; 
+ z) contratto di utilizzo dell'infrastruttura: accordo concluso tra il gestore dell'infrastruttura e l'impresa ferroviaria, in base al quale e' concesso a quest'ultima l'utilizzo dell'infrastruttura in termini di tracce orarie, a fronte del pagamento dei canoni di cui all'articolo 17; 
+ aa) profitto ragionevole: un tasso di rendimento del proprio capitale, che tiene conto del rischio, anche in termini di entrate, o della mancanza di siffatto rischio, assunto dall'operatore dell'impianto di servizio e che e' in linea con il tasso medio per il settore interessato negli ultimi anni; 
+ bb) assegnazione della capacita': processo attraverso il quale vengono esaminate le richieste e definita l'assegnazione della capacita' di una determinata infrastruttura ferroviaria da parte del gestore dell'infrastruttura; 
+ cc) richiedente: un'impresa ferroviaria o un gruppo internazionale di imprese ferroviarie o altre persone fisiche o giuridiche, quali le regioni e le provincie autonome e, piu' in generale, le autorita' competenti di cui al regolamento (CE) n. 1370/2007 del Parlamento europeo e del Consiglio, nonche' i caricatori, gli spedizionieri e gli operatori di trasporti combinati, con un interesse di pubblico servizio o commerciale ad acquisire capacita' di infrastruttura ai fini dell'effettuazione di un servizio di trasporto ferroviario; 
+ dd) infrastruttura saturata: elemento dell'infrastruttura dove, anche dopo il coordinamento delle diverse richieste di capacita', non e' possibile soddisfare pienamente la domanda, anche se solo in determinati periodi; 
+ ee) piano di potenziamento della capacita': una misura o una serie di misure con un calendario di attuazione volte a ridurre le limitazioni di capacita' che portano a dichiarare un elemento dell'infrastruttura "infrastruttura saturata"; 
+ ff) coordinamento: la procedura in base alla quale il gestore dell'infrastruttura e i richiedenti cercano di risolvere situazioni in cui esistono richieste di capacita' di infrastruttura confliggenti; 
+ gg) accordo quadro: un accordo di carattere generale, giuridicamente vincolante, di diritto pubblico o privato, che definisce i diritti e gli obblighi di un richiedente e del gestore dell'infrastruttura in relazione alla capacita' di infrastruttura da assegnare e ai canoni da riscuotere per un periodo superiore alla vigenza di un orario di servizio; 
+ hh) capacita' di infrastruttura: il potenziale di programmazione delle tracce ferroviarie richieste su un elemento dell'infrastruttura per un certo periodo; 
+ ii) rete: l'intera infrastruttura ferroviaria gestita da un gestore dell'infrastruttura; 
+ ll) prospetto informativo della rete: un documento in cui sono pubblicate in dettaglio le regole generali, le scadenze, le procedure e i criteri relativi ai sistemi di definizione e di riscossione del canone per l'accesso e l'utilizzo dell'infrastruttura ferroviaria e dei corrispettivi dovuti per i servizi, nonche' quelli relativi all'assegnazione della capacita' e che contiene anche ogni altra informazione necessaria per presentare richieste di capacita' di infrastruttura; 
+ mm) traccia oraria: la frazione di capacita' di infrastruttura necessaria per far viaggiare un treno tra due localita' in un determinato periodo temporale; 
+ nn) orario di servizio: i dati che definiscono tutti i movimenti programmati dei treni e del materiale rotabile sulla infrastruttura interessata durante il suo periodo di validita'; 
+ oo) aree di deposito: aree destinate specificatamente al deposito temporaneo di veicoli ferroviari tra un impiego e l'altro; 
+ pp) manutenzione pesante: l'attivita' che non viene effettuata regolarmente nel quadro delle operazioni giornaliere e che richiede la rimozione del veicolo dal servizio; 
+ qq) progetti di investimento specifici: progetti di investimento finanziati, integralmente o parzialmente, con capitale di debito o di rischio; 
+ rr) raccordo: binario che si sviluppa dal deviatoio di allacciamento all'infrastruttura ferroviaria fino all'interno dell'impianto raccordato; 
+ ss) impianto raccordato: l'impianto, di proprieta' di soggetto diverso dal gestore dell'infrastruttura, ove si svolgono attivita' industriali o logistiche, ivi compresi i porti e le aree di sviluppo industriale, allacciato all'infrastruttura ferroviaria mediante un raccordo; 
+ tt) contratto di raccordo: atto fra il gestore dell'infrastruttura e il titolare o gestore dell'impianto raccordato che regola la gestione della circolazione fra l'infrastruttura ferroviaria e l'impianto raccordato e le verifiche di sicurezza sullo stato del raccordo; 
+ uu) costo totale: l'insieme dei costi operativi, degli ammortamenti e del costo di remunerazione del capitale investito, nelle sue componenti di capitale di debito o di rischio. 
+ uu-bis) impresa a integrazione verticale: un'impresa per cui si verifica, ai sensi del regolamento (CE) n. 139/2004 del Consiglio, una delle situazioni seguenti: 
+ 1) un gestore dell'infrastruttura e' controllato da un'impresa che contemporaneamente controlla una o piu' imprese ferroviarie che effettuano servizi ferroviari sulla rete del gestore dell'infrastruttura; 
+ 2) un gestore dell'infrastruttura e' controllato da una o piu' imprese ferroviarie che effettuano servizi ferroviari sulla rete del gestore dell'infrastruttura; 
+ 3) una o piu' imprese ferroviarie che effettuano servizi ferroviari sulla rete del gestore dell'infrastruttura sono controllate da un gestore dell'infrastruttura; 
+ 4) un'impresa costituita da divisioni distinte, in cui vi sia un gestore dell'infrastruttura e una o piu' divisioni che forniscono servizi di trasporto non dotate di personalita' giuridica distinta.
+Se sono pienamente indipendenti l'uno dell'altra, ma entrambi sono controllati direttamente dallo Stato senza un'entita' intermedia, il gestore dell'infrastruttura e l'impresa ferroviaria non sono considerati un'impresa ad integrazione verticale ai fini del presente decreto; 
+ uu-ter) biglietto cumulativo: uno o piu' biglietti che rappresentano un contratto di trasporto per servizi ferroviari consecutivi effettuati da una o piu' imprese ferroviarie; 
+ uu-quater) servizi di trasporto passeggeri ad alta velocita': servizi di trasporto ferroviario di passeggeri effettuati su linee appositamente costruite per l'alta velocita' attrezzate per velocita' generalmente pari o superiori a 250 km/h.
 
 -------------
                             AGGIORNAMENTO (3)
@@ -61,6 +273,45 @@ Le imprese ferroviarie stabilite in Italia sono indipendenti per quanto riguarda
 Le imprese ferroviarie sono gestite secondo i principi validi per le societa' commerciali, a prescindere dalla loro proprieta' pubblica o privata, anche per quanto riguarda gli obblighi di servizio pubblico imposti dallo Stato all'impresa e i contratti di servizio pubblico conclusi dalla medesima con le autorita' competenti.
 
 Le imprese ferroviarie definiscono i loro programmi di attivita', compresi i piani di investimento e di finanziamento. Detti programmi mirano al raggiungimento dell'equilibrio finanziario delle imprese e alla realizzazione degli altri obiettivi in materia di gestione tecnica, commerciale e finanziaria; essi inoltre indicano i mezzi per realizzare tali obiettivi.
+
+4.
+                        
+                            
+                                Con riferimento agli orientamenti di politica generale e in considerazione dei piani o contratti nazionali, eventualmente pluriennali, compresi i piani di investimento e di finanziamento e, lasciato impregiudicato il regolamento (CE) n. 1370/2007 del Parlamento europeo e del Consiglio, le imprese ferroviarie sono in particolare libere di: 
+ 
+                            
+                            
+                                a)
+                                
+                                    stabilire la propria organizzazione interna, fatte salve le disposizioni di cui agli articoli 11, 17 e 22; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    disciplinare le modalita' della fornitura e della commercializzazione dei servizi e stabilirne la tariffazione; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    prendere le decisioni concernenti il personale, la gestione patrimoniale e gli acquisti propri; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    aumentare la propria quota di mercato, elaborare nuove tecnologie, creare nuovi servizi e adottare tecniche di gestione innovative; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    avviare nuove attivita' in settori associati all'attivita' ferroviaria.
 
 In deroga a quanto previsto al comma 4, gli azionisti delle imprese ferroviarie detenute o controllate dallo Stato possono richiedere la loro approvazione preventiva per le principali decisioni relative alla gestione dell'impresa al pari degli azionisti di societa' per azioni private in virtu' del diritto societario italiano. Le disposizioni del presente articolo fanno salve le competenze degli organi di vigilanza in relazione alla nomina dei membri del consiglio di amministrazione.
 
@@ -82,7 +333,32 @@ E' in ogni caso fatto salvo quanto previsto dall'articolo 37, comma 3, lettera b
 
 ## Art. 6. — Accesso ed utilizzo dell'infrastruttura ferroviaria
 
+1.
+                        
+                            
+                                L'accesso e l'utilizzo dell'infrastruttura ferroviaria, ai fini dell'esercizio del trasporto ferroviario, e' consentito a condizione che ciascuna impresa ferroviaria dimostri: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il possesso della licenza corrispondente al servizio da prestare; 
 
+                                
+                            
+                            
+                                b)
+                                
+                                    il possesso del certificato di sicurezza, di cui all'articolo 10, rilasciato dall'Agenzia nazionale per la sicurezza delle ferrovie, di cui al decreto legislativo 10 agosto 2007, n. 162; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    di aver concluso, in base al diritto pubblico o privato, la stipula del contratto di utilizzo dell'infrastruttura di cui all'articolo 25. Le condizioni alla base di tale contratto sono non discriminatorie e trasparenti e sono pubblicate nel prospetto informativo della rete.
+
+((COMMA ABROGATO DAL D.LGS. 23 NOVEMBRE 2018, N. 139)).
 
 Le imprese ferroviarie aventi sede al di fuori dell'Unione europea o loro controllate ai sensi dell'articolo 7 della legge 10 ottobre 1990, n. 287, devono possedere, in aggiunta a quanto previsto al comma 1, il titolo autorizzatorio di cui all'articolo 3, comma 1, lettera r). (3)
 
@@ -118,15 +394,164 @@ Le imprese richiedenti sono tenute, all'atto della presentazione della domanda, 
 
 Le imprese richiedenti devono essere in possesso di requisiti di onorabilita', capacita' finanziaria e competenza professionale, nonche' di adeguata copertura della propria responsabilita' civile, per ottenere il rilascio della licenza.
 
+2.
+                        
+                            
+                                Costituiscono requisiti di onorabilita': 
+ 
+                            
+                            
+                                a)
+                                
+                                    non essere stati dichiarati falliti o sottoposti a liquidazione coatta amministrativa o ad amministrazione straordinaria, salvo che sia intervenuta sentenza di riabilitazione civile, ne' essere stati ammessi, nei cinque anni antecedenti la richiesta della licenza, alle procedure di concordato preventivo o di amministrazione controllata; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    non aver riportato sentenza definitiva di condanna o di applicazione della pena ai sensi dell'articolo 444 del codice di procedura penale per delitti contro il patrimonio, contro la fede pubblica, contro l'economia pubblica, l'industria e il commercio, contro la pubblica incolumita', contro la pubblica amministrazione, per i delitti previsti dal titolo XI del libro V del codice civile e dal titolo VI del regio decreto 16 marzo 1942, n. 267, ovvero per delitti non colposi per i quali la legge prevede la pena della reclusione non inferiore nel massimo a quattro anni, salvo che sia intervenuta sentenza di riabilitazione; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    non aver riportato sentenze di condanna per violazioni gravi o ripetute degli obblighi derivanti dal diritto previdenziale o dal diritto del lavoro, tra cui gli obblighi derivanti dalla legislazione in materia di salute e di sicurezza sul luogo di lavoro e gli obblighi in materia di legislazione doganale per le societa' che intendessero effettuare trasporti transfrontalieri di merci soggetti a procedure doganali; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    non essere stati sottoposti a misure di prevenzione personali o patrimoniali; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    non sussista alcuno dei divieti previsti dall'articolo 67 del decreto legislativo 6 settembre 2011, n. 159; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    non essere stati condannati in via definitiva per gravi violazioni di leggi specifiche relative ai trasporti. 
+
+                                
+                            
+                            
+                                f-bis)
+                                
+                                    non aver riportato sentenza definitiva di condanna per illeciti penali gravi connessi a obblighi derivanti da contratti collettivi vincolanti.
+
+3.
+                        
+                            
+                                I requisiti di cui al comma 2 devono essere posseduti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    dai titolari delle imprese individuali; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    da tutti i soci delle societa' di persone; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    dai soci accomandatari, quando trattasi di societa' in accomandita semplice o in accomandita per azioni; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    dagli amministratori delegati e dai legali rappresentanti per ogni altro tipo di societa'.
+
 Se non si tratta di imprese individuali, il requisito di cui al comma 2, lettera a), deve essere, altresi', posseduto dalla persona giuridica che esercita l'attivita' d'impresa.
 
 Costituisce requisito di capacita' finanziaria la capacita' dell'impresa di far fronte agli impegni effettivi e potenziali, stabiliti in base a presupposti realistici, per un periodo non inferiore a dodici mesi, sulla base delle disposizioni del regolamento (UE) 2015/171 del 4 febbraio 2015, di cui all'articolo 17, paragrafo 5 della direttiva 2012/34/UE del Parlamento europeo e del Consiglio.
+
+6.
+                        
+                            
+                                Per l'effettuazione dell'esame di capacita' finanziaria, la richiesta di licenza deve essere corredata da specifiche informazioni riguardanti i seguenti elementi, come riportato nell'allegato III della direttiva 2012/34/UE del Parlamento europeo e del Consiglio: 
+ 
+                            
+                            
+                                a)
+                                
+                                    risorse finanziarie disponibili, compresi depositi bancari, anticipi concessi in conto corrente, prestiti; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    fondi ed elementi di attivo realizzabile a titolo di garanzia; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    capitale di esercizio; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    costi di esercizio, compresi costi di acquisto e acconti per veicoli, terreni, edifici, attrezzature e materiale rotabile; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    oneri gravanti sul patrimonio dell'impresa ferroviaria; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    imposte e contributi sociali.
 
 Per la dimostrazione del possesso del requisito della capacita' finanziaria di cui al comma 5, l'impresa presenta una relazione, prodotta da un revisore dei conti o da altro esperto contabile giurato, valutativa delle informazioni richieste sulla base degli elementi indicati al comma 6, nonche' idonea documentazione da parte di una banca o una cassa di risparmio. Il revisore deve essere soggetto terzo, autonomo ed indipendente rispetto all'impresa o appartenere ad una amministrazione pubblica competente per materia.
 
 Le imprese richiedenti il rilascio di una licenza non possiedono la capacita' finanziaria richiesta qualora siano dovuti arretrati ingenti o ricorrenti di imposte o contributi sociali in relazione alle attivita' svolte dalle imprese stesse.
 
 In materia di competenza professionale, l'impresa dimostra di disporre o di essere in grado di disporre di un'organizzazione gestionale efficiente e di possedere le conoscenze e l'esperienza necessaria per esercitare un controllo operativo ed una supervisione sicuri ed efficaci relativamente ai servizi ferroviari della tipologia specificata nella licenza.
+
+10.
+                        
+                            
+                                Per l'effettuazione dell'esame della competenza professionale la richiesta di licenza deve essere corredata da specifiche informazioni relativamente: 
+ 
+                            
+                            
+                                a)
+                                
+                                    alla natura e allo stato di manutenzione del materiale rotabile con particolare riguardo alle norme di sicurezza; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    alle qualifiche del personale responsabile della sicurezza, nonche' alle modalita' di formazione del personale, fermo restando che il rispetto dei requisiti in materia di qualifiche deve essere provato mediante la presentazione dei corrispondenti documenti giustificativi.
 
 Le informazioni di cui alle lettere a) e b) del comma 10 possono essere sostituite da un piano organico che specifica i programmi di acquisizione e gestione delle risorse umane e strumentali, inclusa la manutenzione del materiale rotabile, con particolare riferimento alle norme di sicurezza.
 
@@ -162,6 +587,36 @@ L'impresa ferroviaria puo' chiedere la concessione di un termine piu' lungo di s
 Non possono essere richieste proroghe per l'inizio di attivita' superiori a due anni o proroghe successive, la cui somma temporale superi il periodo di due anni. Il Ministero delle infrastrutture e dei trasporti puo', inoltre, sospendere o revocare d'ufficio la licenza di quelle imprese ferroviarie che nei due anni di inattivita' non abbiano mai presentato istanza per il rilascio del certificato di sicurezza all'Agenzia nazionale per la sicurezza delle ferrovie. Tale prolungata inattivita' od assenza di attivazione del predetto procedimento di certificazione costituisce mancanza dei requisiti di competenza professionale di cui all'articolo 8, comma 9.
 
 Le imprese ferroviarie, durante il periodo di proroga o di sospensione dell'attivita', devono informare, in modo puntuale e con cadenza semestrale, il Ministero delle infrastrutture e dei trasporti, trasmettendo un rapporto sullo stato di avanzamento delle iniziative propedeutiche all'inizio di attivita', indicando eventuali modifiche societarie ed eventuali criticita' sopravvenute, al fine di consentire al Ministero delle infrastrutture e dei trasporti di valutare il rispetto della data prevista di inizio delle attivita'.
+
+11.
+                        
+                            
+                                L'impresa ferroviaria e' tenuta a richiedere la conferma della licenza nel caso in cui siano sopravvenute modifiche della configurazione giuridica dell'impresa stessa e, in particolare, nei casi di fusione, incorporazione o acquisizione del controllo societario da parte di un altro soggetto. L'impresa ferroviaria che richiede la conferma puo' continuare l'attivita', a meno che il Ministero delle infrastrutture e dei trasporti sospenda, con provvedimento motivato, l'efficacia della licenza gia' rilasciata, se ritiene compromessa la sicurezza del servizio di trasporto. 
+ 12.Nei casi di cui al comma 11, il Ministero delle infrastrutture e dei trasporti chiede evidenza, altresi', della permanenza delle condizioni per il rilascio del titolo autorizzatorio di cui all'articolo 3, comma 1, lettera r). (3) 
+ 13. L'impresa ferroviaria, che intende estendere o modificare in modo rilevante la propria attivita', deve chiedere la revisione della licenza. 
+ 14. Il Ministero delle infrastrutture e dei trasporti puo' revocare la licenza quando l'impresa ferroviaria risulta assoggettata ad una procedura concorsuale e mancano realistiche possibilita' di una soddisfacente ristrutturazione entro un ragionevole periodo di tempo. 
+ 15. Il Ministero delle infrastrutture e dei trasporti comunica immediatamente all'Agenzia ferroviaria europea, all'Agenzia nazionale per la sicurezza delle ferrovie ed al gestore dell'infrastruttura ferroviaria i provvedimenti di revoca, sospensione o modifica delle licenze adottati. L'Agenzia ferroviaria europea informa le autorita' preposte al rilascio delle licenze degli altri Stati membri. ((PERIODO SOPPRESSO DAL D.LGS. 23 NOVEMBRE 2018, N. 139)). 
+ 16. Le imprese titolari di licenza sono tenute a fornire, con cadenza annuale, i seguenti elementi informativi al Ministero delle infrastrutture e dei trasporti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    bilanci consolidati dell'anno; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    rapporto riassuntivo del traffico e dei servizi prestati; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    relazione contenente gli elementi di verifica del controllo di qualita' attuato e del livello di soddisfazione della clientela raggiunto nonche' i ritardi realizzati ed i rimborsi erogati.
 
 -------------
                             AGGIORNAMENTO (3)
@@ -224,6 +679,24 @@ La programmazione a lungo termine dei lavori di grande manutenzione o rinnovo e'
 
 ((
 
+1.
+                        
+                            
+                                A condizione che non sorgano conflitti di interesse e sia garantita la riservatezza delle informazioni sensibili sotto il profilo commerciale, il gestore dell'infrastruttura puo': 
+ 
+                            
+                            
+                                a)
+                                
+                                    delegare funzioni o parti di esse a un'entita' diversa, purche' questa non sia un'impresa ferroviaria, non controlli un'impresa ferroviaria o non sia da questa controllata. All'interno di un'impresa a integrazione verticale, le funzioni essenziali non possono essere delegate ad alcuna altra entita' inserita nell'impresa a integrazione verticale, a meno che tale entita' svolga esclusivamente funzioni essenziali; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    delegare l'esecuzione di lavori e i relativi compiti circa lo sviluppo, la manutenzione e il rinnovo dell'infrastruttura ferroviaria a imprese ferroviarie o societa' che controllano l'impresa ferroviaria o sono da essa controllate.
+
 Il gestore dell'infrastruttura mantiene il potere di vigilanza relativamente all'esercizio delle funzioni di cui all'articolo 3, comma 1, lettera b), e ne ha la responsabilita'. Le entita' che svolgono le funzioni essenziali si conformano agli articoli 11, 11-bis e 11-quater.
 
 Sotto la supervisione dell'organismo di regolazione, il gestore dell'infrastruttura puo' concludere accordi di cooperazione con una o piu' imprese ferroviarie in modo non discriminatorio e al fine di ottenere vantaggi per i clienti quali costi ridotti o migliori prestazioni sulla parte della rete coperta dall'accordo. L'organismo di regolazione monitora l'esecuzione di tali accordi e puo', in casi giustificati, raccomandare di porvi termine.
@@ -261,6 +734,38 @@ Nelle imprese a integrazione verticale, il gestore dell'infrastruttura tiene reg
 ((
 
 Il gestore dell'infrastruttura predispone idonei sistemi di coordinamento per la consultazione di tutte le imprese ferroviarie interessate e dei richiedenti, anche potenziali. L'organismo di regolazione ha facolta' di partecipare alle consultazioni in qualita' di osservatore.
+
+2.
+                        
+                            
+                                Il coordinamento, salvo quanto gia' previsto dagli articoli 14, comma 1, e 15, commi 2 e 6, riguarda: 
+ 
+                            
+                            
+                                a)
+                                
+                                    le necessita' dei richiedenti relative alla manutenzione e allo sviluppo della capacita' di infrastruttura; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il contenuto degli obiettivi di prestazione orientati agli utenti contenuti negli accordi contrattuali di cui all'articolo 15 e degli incentivi di cui all'articolo 15, comma 4, e la relativa attuazione; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    questioni di intermodalita' e interoperabilita' da trattarsi nell'ambito del piano commerciale di cui all'articolo 15, commi 5 e 6; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    qualsiasi altra questione relativa alle condizioni di accesso, all'uso dell'infrastruttura e alla qualita' dei servizi del gestore dell'infrastruttura.
 
 Il gestore dell'infrastruttura previa consultazione con le parti interessate, elabora e pubblica linee guida per il coordinamento delle tematiche di cui alle lettere a), b) e c). Il coordinamento ha luogo annualmente e il gestore dell'infrastruttura pubblica sul proprio sito web un'illustrazione delle attivita' intraprese ai sensi del presente articolo.
 
@@ -323,6 +828,119 @@ Qualora, a seguito dell'analisi prevista dall'articolo 12, commi 6 e 7, l'organi
 
 ## Art. 13. — Condizioni di accesso ai servizi
 
+1.
+                        
+                            
+                                Il gestore dell'infrastruttura garantisce, e quindi fornisce, a tutte le imprese ferroviarie cui sono state assegnate tracce orarie, a condizioni eque e non discriminatorie e senza corresponsione di alcun onere aggiuntivo rispetto al canone di accesso e utilizzo dell'infrastruttura, la fornitura dei seguenti servizi costituenti il pacchetto minimo di accesso: 
+ 
+                            
+                            
+                                a)
+                                
+                                    trattamento delle richieste di capacita' di infrastruttura ferroviaria, ai fini della conclusione dei contratti di utilizzo dell'infrastruttura; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    diritto di utilizzo della capacita' assegnata; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    uso dell'infrastruttura ferroviaria, compresi scambi e raccordi; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    controllo e regolazione della circolazione dei treni, segnalamento ed instradamento dei convogli, nonche' comunicazione di ogni informazione relativa alla circolazione; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    uso del sistema di alimentazione elettrica per la corrente di trazione, ove disponibile; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    tutte le altre informazioni necessarie per la realizzazione o la gestione del servizio per il quale e' stata concessa la capacita'.
+
+2.
+                        
+                            
+                                Gli operatori degli impianti di servizio forniscono, a condizioni eque, non discriminatorie e trasparenti, a tutte le imprese ferroviarie l'accesso, compreso quello alle linee ferroviarie, ai seguenti impianti di servizio, se esistenti, e ai servizi forniti in tale ambito: 
+ 
+                            
+                            
+                                a)
+                                
+                                    stazioni passeggeri, relativamente alle strutture funzionali ai sistemi di informazione di viaggio e agli spazi adeguati per i servizi di biglietteria ed alle altre strutture funzionali e necessarie per l'esercizio ferroviario; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    scali merci; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    scali di smistamento e aree di composizione dei treni, ivi comprese le aree di manovra; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    aree, impianti ed edifici destinati alla sosta, al ricovero ed al deposito di materiale rotabile e di merci; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    centri di manutenzione, ad eccezione dei centri di manutenzione pesante riservati a treni ad alta velocita' o ad altri tipi di materiale rotabile che esigono centri specializzati; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    altre infrastrutture tecniche, comprese quelle di pulizia e di lavaggio, nonche' gli impianti di scarico dei reflui delle toilette dei treni; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    infrastrutture portuali marittime e di navigazione interna collegate a servizi ferroviari; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    impianti e attrezzature di soccorso; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    aree o impianti per l'approvvigionamento di combustibile, i cui canoni sono indicati nelle fatture separatamente.
+
 Il collegamento tra gli impianti di servizio e l'infrastruttura ferroviaria e' disciplinato da specifici contratti di raccordo, il cui schema tipo e' riportato nel prospetto informativo della rete.
 Tali contratti devono contenere condizioni eque, non discriminatorie e trasparenti.
 
@@ -336,7 +954,85 @@ Se esistono conflitti fra diverse richieste, l'operatore dell'impianto di serviz
 
 Se un impianto di servizio di cui al comma 2, non e' utilizzato per almeno due anni consecutivi e le imprese ferroviarie hanno manifestato interesse ad accedere all'impianto in questione sulla base di esigenze dimostrate, il proprietario rende pubblico, anche mediante una informativa pubblicitaria nel medesimo impianto, che la gestione dell'impianto di servizio e' data in locazione o in leasing come impianto di servizio, in tutto o in parte, a meno che l'operatore di detto impianto di servizio non dimostri che un progetto di riconversione in corso ne impedisce l'uso da parte di un'impresa ferroviaria.
 
+9.
+                        
+                            
+                                Qualora l'operatore dell'impianto di servizio fornisca i sotto indicati servizi complementari, questi ultimi sono forniti a richiesta delle imprese ferroviarie, a condizioni eque, non discriminatorie e trasparenti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    corrente di trazione, i cui diritti di utilizzo sono indicati nelle fatture separatamente rispetto a quelli per l'utilizzo del sistema di alimentazione elettrica, fatta salva l'applicazione della direttiva 2009/72/CE; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    preriscaldamento dei treni passeggeri e servizio di rifornimento idrico dei treni; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    controllo della circolazione di treni che effettuano trasporti di merci pericolose; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    assistenza alla circolazione di treni speciali; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    servizi di manovra.
+
 Relativamente alla corrente di trazione di cui al comma 9, lettera a), il relativo prezzo di fornitura e' determinato sulla base di quanto previsto dall'articolo 29 del decreto-legge 24 giugno 2014, n. 91, convertito, con modificazioni, dalla legge 11 agosto 2014, n. 116. Tenuto conto delle variazioni delle condizioni del mercato dell'energia elettrica, il fornitore del servizio applica meccanismi di conguaglio alle imprese ferroviarie, in positivo o in negativo, sulla base dei costi di approvvigionamento da esso effettivamente sostenuti.
+
+11.
+                        
+                            
+                                L'operatore dell'impianto di servizio o il gestore dell'infrastruttura possono, su richiesta delle imprese ferroviarie, fornire, ove effettuati, a condizioni eque, non discriminatorie e trasparenti i seguenti servizi ausiliari: 
+ 
+                            
+                            
+                                a)
+                                
+                                    accesso alla rete di telecomunicazioni; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    fornitura di informazioni complementari; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    ispezione tecnica del materiale rotabile; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    servizi di biglietteria nelle stazioni passeggeri; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    servizi di manutenzione pesante prestati in centri di manutenzione dedicati ai treni ad alta velocita' o ad altri tipi di materiale rotabile che esigono centri specializzati.
 
 Fermo restando il rispetto del principio di non discriminazione, l'operatore dell'impianto di servizio o il gestore dell'infrastruttura non sono obbligati a fornire i servizi di cui al comma 11.
 
@@ -433,7 +1129,67 @@ Se i servizi complementari e ausiliari di cui all'articolo 13, commi 9 e 11, son
 
 Fatto salvo quanto previsto dall'articolo 17 in materia di determinazione dei canoni per l'utilizzo dell'infrastruttura ferroviaria, ai fini del pieno recupero, da parte del gestore, dei costi connessi all'accesso e all'utilizzo dell'infrastruttura ferroviaria e al collegamento con gli impianti di servizio, con decreto del Ministro delle infrastrutture e dei trasporti, di concerto con il Ministro dell'economia e delle finanze, possono essere previsti coefficienti di maggiorazione dei canoni per l'utilizzo dell'infrastruttura ferroviaria, fermo restando l'equilibrio economico e finanziario di cui all'articolo 16.
 
+2.
+                        
+                            
+                                Ai fini dell'adozione del decreto di cui al comma 1, il Ministero delle infrastrutture e dei trasporti si assicura che i gestori dell'infrastruttura abbiano valutato l'impatto dei coefficienti di maggiorazione per specifici segmenti di mercato, prendendo in considerazione almeno i binomi elencati nell'allegato VI, punto 1, della direttiva 2012/34/UE del Parlamento europeo e del Consiglio, scegliendo quelli pertinenti. L'elenco dei segmenti di mercato definiti dai gestori dell'infrastruttura contiene almeno i tre segmenti seguenti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    servizi merci; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    servizi passeggeri nel quadro di un contratto di servizio pubblico locale, regionale e nazionale; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    altri servizi passeggeri. 
+ Il gestore dell'infrastruttura puo' distinguere ulteriormente i segmenti di mercato in base alle merci o ai passeggeri trasportati nonche' ad altri parametri relativi ai segmenti specifici. Sono, inoltre, definiti i segmenti di mercato in cui le imprese ferroviarie non effettuano al momento servizi ma possono effettuarli durante il periodo di validita' del sistema di imposizione dei canoni. Il gestore dell'infrastruttura non include nel sistema di imposizione dei canoni nessun coefficiente di maggiorazione per tali segmenti di mercato.
+
 Il gestore dell'infrastruttura applica i coefficienti di maggiorazione di cui al comma 1 in base a principi di efficienza, trasparenza e non discriminazione, garantendo nel contempo la competitivita' ottimale dei segmenti del mercato ferroviario Il sistema di imposizione dei canoni deve rispettare gli aumenti di produttivita' conseguiti dalle imprese ferroviarie. Il gestore dell'infrastruttura puo' altresi' applicare, fatti salvi gli articoli 101, 102, 106 e 107 TFUE, le riduzioni sui canoni imposti all'impresa ferroviaria, secondo quanto previsto ai commi 11, 12 e 13, fermo restando l'equilibrio economico e finanziario di cui all'articolo 16.
+
+4.
+                        
+                            
+                                L'organismo di regolazione verifica: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la sostenibilita' per il mercato dell'applicazione dei coefficienti di maggiorazione cui al comma 1; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    che tali coefficienti siano applicati in base a principi di efficienza, trasparenza e non discriminazione; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    che tali coefficienti siano applicati in modo da garantire la competitivita' ottimale dei segmenti del mercato ferroviario; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    che il sistema di imposizione dei canoni rispetti gli aumenti di produttivita' conseguiti dalle imprese ferroviarie. 
+ L'organismo di regolazione comunica gli esiti della verifica al Ministero delle infrastrutture e dei trasporti e al Ministero dell'economia e delle finanze per le successive valutazioni.
+L'organismo di regolazione verifica inoltre che le riduzioni rispettino quanto stabilito ai commi 11, 12 e 13.
 
 Il livello dei canoni stabiliti non preclude l'utilizzo dell'infrastruttura a segmenti del mercato che possono pagare quanto meno il costo direttamente imputabile, piu' un tasso di rendimento accettabile per il mercato, alla prestazione del servizio ferroviario.
 
@@ -491,6 +1247,31 @@ I principi di base del sistema di controllo delle prestazioni indicati allegato 
 Diritti connessi alla capacita'
 
 Il gestore dell'infrastruttura ferroviaria e' il soggetto preposto all'assegnazione della capacita' di infrastruttura ferroviaria.
+
+2.
+                        
+                            
+                                Il gestore dell'infrastruttura ferroviaria procede alla ripartizione della capacita', garantendo: 
+ 
+                            
+                            
+                                a)
+                                
+                                    che la capacita' sia ripartita su base equa, non discriminatoria e nel rispetto dei principi stabiliti dall'articolo 26 e dal diritto dell'Unione; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    che la ripartizione della capacita' consenta un utilizzo efficace e ottimale dell'infrastruttura ferroviaria; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    la riservatezza commerciale delle informazioni ricevute.
 
 La capacita' di infrastruttura assegnata ad un richiedente non puo' essere trasferita dal beneficiario a un'altra impresa o servizio a pena di nullita' ed ogni violazione ha come conseguenza l'esclusione da una nuova assegnazione di capacita', nell'ambito della programmazione dell'orario di servizio immediatamente successivo. L'utilizzo della capacita' da parte di un'impresa ferroviaria, al fine di svolgere attivita' di trasporto per conto di un richiedente che non e' un'impresa ferroviaria, non e' considerato un trasferimento.
 
@@ -590,6 +1371,39 @@ Il gestore dell'infrastruttura, previa consultazione delle parti interessate, re
 
 In caso di richieste di capacita' confliggenti, il gestore dell'infrastruttura si adopera al fine di coordinarle nell'ottica di conciliare al massimo tutte le richieste anche, se del caso, proponendo, entro limiti ragionevoli, capacita' di infrastruttura diverse da quelle richieste. Tali limiti sono descritti nel prospetto informativo della rete.
 
+5.
+                        
+                            
+                                Il gestore dell'infrastruttura, sentiti i richiedenti interessati, cerca di risolvere eventuali conflitti. Le consultazioni in questo senso si basano sulla comunicazione gratuita, entro tempi ragionevoli e in forma scritta o elettronica, delle seguenti informazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    tracce ferroviarie richieste da tutti gli altri richiedenti sugli stessi itinerari; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    tracce ferroviarie assegnate in via preliminare a tutti gli altri richiedenti sugli stessi itinerari; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    tracce ferroviarie alternative sugli itinerari pertinenti proposte a norma del comma 4; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    descrizione dettagliata dei criteri utilizzati nella procedura di assegnazione della capacita'. 
+ A norma dell'articolo 11, ((comma 10)), dette informazioni sono fornite senza che sia resa nota l'identita' degli altri richiedenti, a meno che essi non vi abbiano acconsentito.
+
 I principi della procedura di coordinamento sono esposti nel prospetto informativo della rete e tengono conto, in particolare, sia della difficolta' di predisporre tracce orarie per i servizi di trasporto internazionale sia dell'effetto che ogni modificazione puo' comportare su altri gestori dell'infrastruttura.
 
 Fatti salvi i rimedi giurisdizionali previsti dall'ordinamento nazionale e le disposizioni di cui all'articolo 37, in caso di vertenze relative all'assegnazione della capacita' di infrastruttura, il gestore dell'infrastruttura predispone un sistema di risoluzione delle vertenze al fine di giungere alla rapida soluzione delle stesse. Questo sistema e' illustrato nel prospetto informativo della rete. Le decisioni in merito sono adottate dal gestore dell'infrastruttura entro dieci giorni lavorativi.
@@ -639,8 +1453,76 @@ Piano di potenziamento della capacita'
 
 Entro sei mesi dal completamento dell'analisi di capacita', il gestore dell'infrastruttura presenta un piano di potenziamento della capacita'.
 
+2.
+                        
+                            
+                                Il piano di potenziamento della capacita' e' elaborato previa consultazione dell'utenza dell'infrastruttura saturata ed indica: 
+ 
+                            
+                            
+                                a)
+                                
+                                    i motivi della saturazione; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il prevedibile futuro sviluppo del traffico; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    i vincoli allo sviluppo dell'infrastruttura; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    le opzioni e i costi del potenziamento della capacita', tra cui le probabili modifiche dei canoni di accesso.
+
 Oltre a quanto previsto al comma 2, il piano di potenziamento determina, in base a un'analisi costi-benefici delle possibili misure individuate, le azioni da adottare per potenziare la capacita' di infrastruttura, compreso un calendario per l'attuazione delle misure.
 Il piano e' sottoposto all'approvazione preliminare del Ministero delle infrastrutture e dei trasporti. La realizzazione del piano, relativamente agli investimenti necessari per il potenziamento della capacita', e' subordinata alla effettiva assegnazione di finanziamenti pubblici nell'ambito del contratto di programma di cui all'articolo 15.
+
+4.
+                        
+                            
+                                Il gestore dell'infrastruttura, per l'utilizzo di determinate infrastrutture e tratti infrastrutturali saturati, cessa di esigere il pagamento della componente del canone legata alla densita' di circolazione su tali infrastrutture e tratti infrastrutturali, qualora: 
+ 
+                            
+                            
+                                a)
+                                
+                                    non sia in grado di presentare un piano di potenziamento della capacita'; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    non porti avanti il piano di azione stabilito nel piano di potenziamento della capacita'.
+
+5.
+                        
+                            
+                                Il gestore dell'infrastruttura nei casi di cui al comma 4 puo', previa approvazione dell'organismo di regolazione, continuare ad esigere il pagamento del componente del canone di cui al medesimo comma, se: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il piano di potenziamento della capacita' non puo' essere attuato per ragioni che sfuggono al suo controllo; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le opzioni disponibili non sono economicamente o finanziariamente valide.
 
 ## Art. 34. — Utilizzo delle tracce orarie
 
@@ -679,6 +1561,101 @@ Le imprese ferroviarie che effettuano servizi di trasporto di passeggeri predisp
 ## Art. 37. — Organismo di regolazione
 
 L'organismo di regolazione e' l'Autorita' di regolazione dei trasporti che esercita le competenze nel settore dei trasporti ferroviari e dell'accesso alle relative infrastrutture ai sensi dell'articolo 37 del decreto-legge 6 dicembre 2011, n. 201, convertito, con modificazioni, dalla legge 22 dicembre 2011, n. 214, dell'articolo 37 del decreto-legge 24 gennaio 2012, n. 1, convertito, con modificazioni, dalla legge 24 marzo 2012, n. 27, della direttiva 2014/34/UE del Parlamento europeo e del Consiglio, e del presente decreto. L'organismo agisce in piena autonomia e con indipendenza di giudizio e di valutazione.
+
+2.
+                        
+                            
+                                Fatto salvo quanto previsto dall'articolo 28, comma 7, in tema di vertenze relative all'assegnazione della capacita' di infrastruttura, ogni richiedente ha il diritto di adire l'organismo di regolazione, se ritiene di essere stato vittima di un trattamento ingiusto, di discriminazioni o di qualsiasi altro pregiudizio, in particolare avverso decisioni prese dal gestore dell'infrastruttura o eventualmente dall'impresa ferroviaria o dall'operatore di un impianto di servizio in relazione a quanto segue: 
+ 
+                            
+                            
+                                a)
+                                
+                                    prospetto informativo della rete nella versione provvisoria e in quella definitiva; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    criteri in esso contenuti; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    procedura di assegnazione e relativo esito; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    sistema di imposizione dei canoni; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    livello o struttura dei canoni per l'utilizzo dell'infrastruttura che e' tenuto o puo' essere tenuto a pagare; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    accordi per l'accesso di cui agli articoli 12 e 13; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    accesso ai servizi e corrispettivi imposti per il loro utilizzo a norma degli articoli 13 e 17. 
+
+                                
+                            
+                            
+                                g-bis)
+                                
+                                    
+                                        ((gestione del traffico;))
+                                    
+                                
+                            
+                            
+                                g-ter)
+                                
+                                    
+                                        ((programmazione di rinnovo e manutenzione programmata o non programmata;))
+                                    
+                                
+                            
+                            
+                                g-quater)
+                                
+                                    
+                                        ((rispetto dei requisiti, inclusi quelli riguardanti i conflitti di interessi di cui agli articoli 11, 11-bis, 11-ter e 11-quater.)) 
+ 3.Fatte salve le competenze dell'Autorita' garante della concorrenza e del mercato sul mercato dei servizi ferroviari, l'organismo di regolazione dei trasporti, ferme restando le previsioni di cui all'articolo 37, commi 2 e 3, del decreto-legge 6 dicembre 2011, n. 201, convertito, con modificazioni, dalla legge 22 dicembre 2011, n. 214, ha il potere di monitorare la situazione concorrenziale sui mercati dei servizi ferroviari (( incluso, in particolare, il mercato per i servizi di trasporto passeggeri ad alta velocita', e le attivita' dei gestori dell'infrastruttura di cui al comma 2, lettere da a) a g-quater). L'organismo di regolazione controlla, in particolare, il rispetto del comma 2, lettere da a) a g-quater) )) di propria iniziativa e al fine di evitare discriminazioni nei confronti dei richiedenti. In particolare controlla che il prospetto informativo della rete non contenga clausole discriminatorie o non attribuisca al gestore dell'infrastruttura poteri discrezionali che possano essere utilizzati per discriminare i richiedenti. 
+ 4. L'organismo di regolazione collabora strettamente con l'autorita' nazionale di sicurezza, ai sensi della direttiva 2008/57/CE del Parlamento europeo e del Consiglio, del 17 giugno 2008, relativa all'interoperabilita' del sistema ferroviario comunitario e con l'autorita' preposta al rilascio della licenza, ai sensi dell'articolo 56, paragrafo 3, della direttiva 2012/34/UE del Parlamento europeo e del Consiglio. 
+ 5. Ai fini delle attivita' di cui al comma 4, le autorita' di cui al comma 4 elaborano congiuntamente un quadro per la cooperazione e lo scambio di informazioni che consenta di evitare conseguenze negative sulla concorrenza o sulla sicurezza nel mercato ferroviario.
+Tale quadro include un meccanismo che consenta all'organismo di regolazione di fornire all'autorita' nazionale di sicurezza e all'autorita' preposta al rilascio della licenza raccomandazioni in merito alle questioni che possono pregiudicare la concorrenza nel mercato ferroviario, e che permetta all'autorita' nazionale di sicurezza di fornire all'organismo di regolazione e all'autorita' preposta al rilascio della licenza raccomandazioni in merito alle questioni che possono pregiudicare la sicurezza. Fatta salva l'indipendenza di ogni autorita' nell'ambito delle rispettive prerogative, l'autorita' competente esamina dette raccomandazioni prima di adottare una decisione. Se l'autorita' competente decide di discostarsi dalle raccomandazioni, ne fornisce la motivazione. 
+ 6. L'organismo di regolazione garantisce che i canoni per l'accesso all'infrastruttura ed i corrispettivi per la fornitura dei servizi di cui all'articolo 13, fissati dall'operatore di impianto, siano conformi a quanto previsto dal presente decreto e non siano discriminatori. Le trattative tra i richiedenti e un gestore dell'infrastruttura concernenti il livello dei canoni di utilizzo dell'infrastruttura sono permesse soltanto se si svolgono sotto la supervisione dell'organismo di regolazione. Quest'ultimo interviene se le trattative possono contravvenire alle prescrizioni del presente decreto. 
+ 7. L'organismo di regolazione consulta regolarmente, e in ogni caso almeno ogni due anni, i rappresentanti degli utenti dei servizi ferroviari di trasporto merci e passeggeri per tenere conto del loro punto di vista in relazione al mercato ferroviario. 
+ 8. L'organismo di regolazione ha il potere di chiedere informazioni al gestore dell'infrastruttura, ai richiedenti ed a qualunque altra parte interessata. Le informazioni richieste sono fornite entro un lasso di tempo ragionevole, fissato dall'organismo di regolazione, non superiore a un mese, salvo in circostanze eccezionali, in cui l'organismo di regolazione concorda e autorizza una proroga limitata del termine, che non puo' superare due settimane addizionali. Le informazioni che devono essere fornite all'organismo di regolazione comprendono tutti i dati che detto organismo chiede nell'ambito della sua funzione decisoria, di monitoraggio e di controllo della concorrenza sui mercati dei servizi ferroviari. Sono compresi i dati necessari per scopi statistici e di osservazione del mercato. 
+ 9. L'organismo di regolazione esamina tutti i reclami e, a seconda dei casi, richiede le informazioni pertinenti e avvia consultazioni con tutte le parti interessate entro un mese dal ricevimento del reclamo. Esso decide in merito ai reclami, adotta le misure necessarie per rimediare alla situazione e informa le parti interessate della sua decisione motivata entro un lasso di tempo ragionevole e prestabilito, in ogni caso non superiore a sei settimane dal ricevimento di tutte le informazioni pertinenti. Fatte salve le competenze dell'autorita' garante della concorrenza e del mercato sul mercato dei servizi ferroviari, ove opportuno, l'organismo di regolazione decide di propria iniziativa in merito a misure adeguate per correggere le discriminazioni contro i richiedenti, le distorsioni del mercato e altri eventuali sviluppi indesiderabili su questi mercati, con particolare riferimento al comma 2, lettere da a) a (( g-quater) )). 
+ 10. La decisione dell'organismo di regolazione e' vincolante per tutte le parti cui e' destinata ed e' atto definitivo. L'organismo di regolazione puo' imporre il rispetto delle proprie decisioni comminando adeguate sanzioni. 
+ 11. In caso di ricorso contro un rifiuto di concessione di capacita' di infrastruttura o contro le condizioni di una proposta di capacita', l'organismo di regolazione puo' concludere che non e' necessario modificare la decisione del gestore dell'infrastruttura o che essa deve essere modificata secondo gli orientamenti precisati dall'organismo stesso. 
+ 12. Le decisioni dell'organismo di regolazione sono pubblicate e sono soggette a sindacato giurisdizionale. Il ricorso puo' avere effetto sospensivo sulla decisione dell'organismo di regolazione solo quando l'effetto immediato della decisione dell'organismo stesso puo' causare danni irrimediabili o manifestamente eccessivi al ricorrente. 
+ 13. ((Per verificare l'osservanza delle disposizioni relative alla separazione contabile di cui all'articolo 5 e delle disposizioni relative alla trasparenza finanziaria di cui all'articolo 11-quater l'organismo di regolazione ha la facolta' di effettuare audit in proprio o di farli realizzare dai gestori dell'infrastruttura, dagli operatori degli impianti di servizio e, se del caso, dalle imprese ferroviarie. Nel caso di imprese a integrazione verticale tale facolta' e' estesa a tutte le entita' giuridiche. L'organismo di regolazione e' autorizzato a chiedere tutte le informazioni pertinenti. In particolare, l'organismo di regolazione ha la facolta' di chiedere ai gestori dell'infrastruttura, agli operatori degli impianti di servizio e a tutte le imprese o altre entita' che effettuano o integrano le attivita' connesse alle varie categorie di trasporto ferroviario o di gestione dell'infrastruttura di cui all'articolo 5, commi 4 e 5, e all'articolo 13 di fornire tutte o parte delle informazioni contabili elencate nell'allegato IV del presente decreto e ogni altra informazione che l'organismo di regolazione puo' richiedere nell'esercizio delle funzioni di cui all'articolo 37, comma 3, lettera b), del decreto-legge 6 dicembre 2011, n. 201, convertito, con modificazioni, dalla legge 22 dicembre 2011, n. 214, con un livello di dettaglio sufficiente secondo quanto ritenuto necessario e proporzionato. Fatte salve le competenze delle autorita' nazionali responsabili delle questioni inerenti agli aiuti di Stato, dalla contabilita' l'organismo di regolazione puo' anche trarre conclusioni riguardanti questioni di aiuti di Stato di cui informa dette autorita'.)) 
+ 13-bis. ((L'organismo di regolazione verifica l'esecuzione degli accordi di cooperazione di cui all'articolo 11-ter, comma 3, e controlla il rispetto di quanto disposto dall'articolo 11-quater, commi 1, 4, 5, 6 e 8.)) 
+ 14. L'organismo di regolazione, osservando, in quanto applicabili, le disposizioni contenute nel capo I, sezioni I e II, della legge 24 novembre 1981, n. 689, provvede: 
+ a) in caso di accertate violazioni della disciplina relativa all'accesso ed all'utilizzo dell'infrastruttura ferroviaria e dei servizi connessi, ad irrogare una sanzione amministrativa pecuniaria fino ad un massimo dell'uno per cento del fatturato relativo ai proventi da mercato realizzato dal soggetto autore della violazione nell'ultimo esercizio chiuso anteriormente all'accertamento della violazione stessa e, comunque, non superiore a euro 1.000.000; 
+ b) in caso di inottemperanza ai propri ordini e prescrizioni, ad irrogare una sanzione amministrativa pecuniaria da euro 100.000 ad euro 500.000; 
+ c) qualora i destinatari di una richiesta dell'organismo non forniscano le informazioni o forniscano informazioni inesatte, fuorvianti o incomplete, ovvero senza giustificato motivo non forniscano le informazioni nel termine stabilito, ad irrogare una sanzione amministrativa pecuniaria da euro 50.000 a euro 250.000; 
+ d) in caso di reiterazione delle violazioni di cui alle lettere a), b) e c), ad irrogare una sanzione fino al doppio della sanzione massima prevista per ogni violazione.
 
 ## Art. 38. — Cooperazione tra organismi di regolazione
 
@@ -731,11 +1708,75 @@ Per assicurare la coerenza degli obblighi di comunicazione, il Ministro delle in
 
 ## Art. 41. — Ulteriori obblighi delle imprese ferroviarie
 
+1.
+                        
+                            
+                                Le imprese ferroviarie che espletano sull'infrastruttura ferroviaria nazionale servizi di trasporto di merci o di persone osservano, oltre ai requisiti stabiliti dal presente decreto, anche la legislazione nazionale, regionale, e la normativa regolamentare, compatibili con la legislazione europea, ed applicate in modo non discriminatorio, con particolare riguardo agli standard definiti e alle prescrizioni in materia di: 
+ 
+                            
+                            
+                                a)
+                                
+                                    requisiti tecnici ed operativi specifici per i servizi ferroviari; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    requisiti di sicurezza applicabili al personale, al materiale rotabile e all'organizzazione interna delle imprese ferroviarie; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    salute, sicurezza, condizioni sociali e diritti dei lavoratori e degli utenti; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    requisiti applicabili a tutte le imprese nel pertinente settore ferroviario destinate a offrire vantaggi o protezione agli utenti.
+
 E' fatto obbligo alle imprese ferroviarie di rispettare gli accordi applicabili ai trasporti ferroviari internazionali, nonche' le pertinenti disposizioni fiscali e doganali.
 
 ## - Capo VI Disposizioni Finali
 
 ## Art. 42. — Norme abrogate
+
+1.
+                        
+                            
+                                A decorrere dalla data di entrata in vigore del presente decreto sono abrogati: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il decreto legislativo 8 luglio 2003, n. 188; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    gli articoli 58 e 59 della legge 23 luglio 2009, n. 99; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il decreto del Ministero delle infrastrutture e dei trasporti 2 febbraio 2011; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    il decreto del Presidente della Repubblica 16 marzo 1999, n. 146, recante norme di attuazione della direttiva 95/18/CE, relativa alle licenze delle imprese ferroviarie, e della direttiva 95/19/CE, relativa alla ripartizione delle capacita' di infrastruttura ferroviaria e alla riscossione dei diritti per l'utilizzo dell'infrastruttura.
 
 Si intende fatto al presente decreto ogni riferimento ai decreti di cui al comma 1, nelle disposizioni legislative, regolamentari e amministrative concernenti la materia regolata dal presente decreto.
 

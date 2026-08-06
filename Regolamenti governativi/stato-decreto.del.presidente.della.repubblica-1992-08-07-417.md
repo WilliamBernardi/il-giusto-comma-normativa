@@ -8,8 +8,8 @@ codice_redazionale: 092G0447
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti governativi
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:11Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -38,6 +38,35 @@ I prefetti, i commissari del Governo nelle provincie di Trento e Bolzano ed il p
 I questori sovrintendono all'attivita' amministrativo-contabile degli uffici e reparti della Polizia di Stato di ciascuna provincia, nell'ambito delle attribuzioni devolute da leggi e regolamenti e delle direttive del Dipartimento della pubblica sicurezza.
 
 ## Art. 2. — Attribuzioni in materia di amministrazione e contabilita'
+
+1.
+                        
+                            
+                                Ferme restando l'organizzazione e le dotazioni di personale e mezzi stabilite con i decreti previsti dalla legge 1 aprile 1981, n. 121, per i singoli uffici e reparti della Polizia di Stato, le attribuzioni in materia di amministrazione e contabilita' sono le seguenti:
+
+                            
+                            
+                                a)
+                                
+                                    trattamento economico del personale: predisposizione degli atti relativi alle attribuzioni di stipendi ed altri assegni fissi, di trattamenti pensionistici e di fine rapporto, nonche' ai riscatti ed alle ricongiunzioni di servizi, alla posizione assicurativa I.N.P.S. ed alla liquidazione delle spese per cure; adempimenti preliminari per la liquidazione di competenze accessorie e di eventuali altri emolumenti dovuti anche al personale dell'Amministrazione civile dell'interno in servizio presso l'ufficio od il reparto;
+                                
+                            
+                            
+                                b)
+                                
+                                    gestione patrimoniale: mobilio, arredi, vestiario, equipaggiamento, casermaggio, armamento ed altri materiali e mezzi; manutenzione e pulizia dei locali; tenuta delle scritture contabili relative anche ai beni immobili;
+                                
+                            
+                            
+                                c)
+                                
+                                    servizio di cassa: riscossioni e pagamenti;
+                                
+                            
+                            
+                                d)
+                                
+                                    servizi vari: mense di servizio; spese concernenti il benessere del personale; spese d'ufficio; spese varie.
 
 Per tutto il personale degli uffici e reparti della provincia, fatta eccezione del personale amministrato dal reparto autonomo del Ministero dell'interno, gli adempimenti preliminari e la predisposizione degli atti di cui alla lettera a) del comma 1 vengono espletati presso l'ufficio amministrativo-contabile della questura.
 
@@ -186,6 +215,53 @@ Lo stesso comitato puo' essere sentito su qualsiasi argomento o questione riguar
 
 ## Art. 23. — Composizione del comitato tecnico-consultivo
 
+1.
+                        
+                            
+                                Il comitato tecnico-consultivo di cui all'articolo 22 e' presieduto dal direttore centrale dei servizi tecnico-logistici e della gestione patrimoniale ed e' composto da:
+
+                            
+                            
+                                a)
+                                
+                                    il direttore del servizio anticrimine della direzione centrale della polizia criminale;
+                                
+                            
+                            
+                                b)
+                                
+                                    il direttore del servizio affari generali della direzione centrale per gli affari generali;
+                                
+                            
+                            
+                                c)
+                                
+                                    il direttore del servizio antiterrorismo e operazioni speciali della direzione centrale per la polizia di prevenzione;
+                                
+                            
+                            
+                                d)
+                                
+                                    il direttore del servizio scuole della direzione centrale per gli istituti di istruzione;
+                                
+                            
+                            
+                                e)
+                                
+                                    i direttori dei servizi accasermamento forze di polizia, equipaggiamento e casermaggio, impianti tecnici e telecomunicazioni e motorizzazione della direzione centrale e dei servizi tecnico- logistici e della gestione patrimoniale;
+                                
+                            
+                            
+                                f)
+                                
+                                    il direttore dell'ufficio programmazione e bilancio della direzione centrale per i servizi di ragioneria;
+                                
+                            
+                            
+                                g)
+                                
+                                    un funzionario del Ministero del tesoro - Ragioneria generale dello Stato - Ispettorato generale di finanza, con qualifica di dirigente superiore;
+
 Per ciascuno dei suddetti componenti, e' nominato un supplente con qualifica dirigenziale.
 
 Il presidente ha facolta' di consentire l'intervento alle sedute dei direttori delle divisioni interessate o di altri funzionari, per illustrazioni e chiarimenti o per quant'altro occorra per l'esame e la valutazione delle materie iscritte all'ordine del giorno.
@@ -291,6 +367,23 @@ Tali operazioni debbono risultare da una dichiarazione da apporsi sui registri d
 
 ## Art. 35. — Disposizioni particolari per il passaggio di consegne
 
+1.
+                        
+                            
+                                Il cassiere che, per malattia o per altra causa impeditiva, non possa presenziare alle operazioni di cui all'articolo 34, deve:
+
+                            
+                            
+                                a)
+                                
+                                    darne tempestiva comunicazione al titolare dell'ufficio o reparto da cui dipende;
+                                
+                            
+                            
+                                b)
+                                
+                                    inviare al titolare medesimo le chiavi di cassa, a mezzo di altro dipendente munito di delega a rappresentarlo ed a sottoscrivere, per suo conto, gli atti relativi al passaggio di consegne.
+
 Qualora il cassiere sia nella impossibilita' di ottemperare agli adempimenti di cui al comma 1, il titolare dell'ufficio o reparto designa un proprio dipendente non corresponsabile del servizio di cassa, affinche' provveda a ritirare le chiavi ed a rappresentare il cassiere nelle operazioni anzidette.
 
 Il mancato intervento del cassiere e la presenza del suo rappresentante, sia fiduciario che di ufficio, nelle operazioni di passaggio delle consegne debbono risultare, a seconda dei casi, dalla dichiarazione o del verbale di cui al comma 2 dell'articolo 34.
@@ -352,9 +445,55 @@ Ove nella stessa provincia esistano mense a gestione diretta e mense in appalto,
 
 ## Art. 44. — Commissione per il vitto
 
+1.
+                        
+                            
+                                Per l'espletamento dei compiti di cui all'articolo 43, e' istituita, presso ogni questura, una commissione, nominata dal questore e composto da:
+
+                            
+                            
+                                a)
+                                
+                                    il vice questore vicario - presidente;
+                                
+                            
+                            
+                                b)
+                                
+                                    cinque appartenenti ai ruoli del personale della Polizia di Stato, di cui due designati dai sindacati piu' rappresentativi a livello provinciale, da scegliersi tra il personale in servizio negli uffici, reparti o istituti della provincia - membri;
+                                
+                            
+                            
+                                c)
+                                
+                                    un appartenente ai ruoli professionali dei sanitari della Polizia di Stato - membro.
+
 Le funzioni di segretario sono esercitate da un appartenente ai ruoli della Polizia di Stato con qualifica non inferiore a sovrintendente.
 
 ## Art. 45. — Contributo
+
+1.
+                        
+                            
+                                Il contributo di cui all'art.64 della legge 1 aprile 1981, n.121, ove spettante, va erogato:
+
+                            
+                            
+                                a)
+                                
+                                    all'ufficio, reparto o istituto competente, per le mense gestite direttamente dall'Amministrazione;
+                                
+                            
+                            
+                                b)
+                                
+                                    alla ditta contraente, per le mense affidate in appalto comprensivo dell'approvvigionamento dei generi alimentari;
+                                
+                            
+                            
+                                c)
+                                
+                                    all'Amministrazione dello Stato, all'ente pubblico od al titolare dell'esercizio privato, per il servizio mensa previsto dalle opposte convenzioni.
 
 ## Art. 46. — Coesistenza di mense obbligatorie
  e non obbligatorie di servizio
@@ -405,6 +544,53 @@ I centri di cui al comma 1 sono sottoposti al controllo del Ministero del tesoro
 Presso gli uffici, reparti ed istituti della Polizia di Stato, sono istituiti magazzini di servizio, per la conservazione e la distribuzione dei materiali - ivi compresi quelli forniti dal Provveditorato generale dello Stato - occorrenti per il funzionamento di detti organismi. I rispettivi consegnatari "per debito di vigilanza" rispondono della consistenza e della conservazione dei materiali ad essi affidati e ne dimostrano i movimenti ai consegnatari "per debito di custodia" dai quali ricevono i materiali stessi, con l'osservanza delle istruzioni emanate dal Dipartimento della pubblica sicurezza o dal Provveditorato generale dello Stato, a seconda dei casi.
 
 ## Art. 53. — Attribuzioni dei direttori dei centri
+
+1.
+                        
+                            
+                                I direttori dei centri di raccolta di materiali e mezzi, telecomunicazioni e motorizzazione esercitano le attribuzioni per assicurare la custodia e la conservazione dei materiali. In particolare:
+
+                            
+                            
+                                a)
+                                
+                                    accertano le responsabilita' amministrativo-contabili, ai sensi delle vigenti dsposizioni;
+                                
+                            
+                            
+                                b)
+                                
+                                    dispongono le verifiche dei magazzini e la ricognizione dei materiali ivi esistenti;
+                                
+                            
+                            
+                                c)
+                                
+                                    raccolgono le richieste di fabbisogno di materiali provenienti dai vari magazzini di servizio e le inoltrano, con il proprio parere, al Dipartimento della pubblica sicurezza;
+                                
+                            
+                            
+                                d)
+                                
+                                    dispongono i movimenti dei materiali e convalidano i relativi documenti;
+                                
+                            
+                            
+                                e)
+                                
+                                    coordinano l'attivita' dei consegnatari;
+                                
+                            
+                            
+                                f)
+                                
+                                    vigilano sulla regolarita' e tempestivita' della distribuzione dei materiali;
+                                
+                            
+                            
+                                g)
+                                
+                                    accertano la quantita' e la destinazione dei materiali consumati e formulano la previsione dei fabbisogni.
 
 ## Art. 54. — Assunzioni in carico
 

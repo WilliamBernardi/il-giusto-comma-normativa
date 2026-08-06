@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
 vigenza_date: 2011-12-10
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:39Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -61,4 +61,22 @@ Nel bilancio dell'esercizio dell'ISMEA, redatto ai sensi dell'articolo 7, comma 
 ## Art. 6. — Disposizioni finali
 
 In base a quanto disposto dall'articolo 66, comma 3, della legge 27 dicembre 2002, n. 289, per gli interventi del Fondo e' destinata la somma di 5 milioni di euro annui per il triennio 2003-2005.
+
+2.
+                    
+                        
+                            Le spese di gestione non potranno essere superiori al 5% della dotazione annuale del Fondo, mentre gli utili derivanti dalle attivita' del Fondo sono ripartiti come segue:
+ 
+                        
+                        
+                            a)
+                            
+                                una quota pari al 7,5% e' destinata alla societa' di gestione;
+
+                            
+                        
+                        
+                            b)
+                            
+                                la restante parte e' destinata ad alimentare la dotazione del Fondo.
 

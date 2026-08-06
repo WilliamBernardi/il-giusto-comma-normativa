@@ -8,8 +8,8 @@ codice_redazionale: 090G0307
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:39Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -29,7 +29,96 @@ Udito il parere del Consiglio di Stato espresso nell'adunanza generale del 31 ma
 
 ## Art. 1. — Generalita'
 
+1.
+                    
+                        
+                            Il servizio pubblico di posta elettronica e' un servizio postale gestito dall'Amministrazione delle poste e delle telecomunicazioni e provvede:
+ 
+                        
+                        
+                            a)
+                            
+                                alla trasmissione della corrispondenza utilizzando le risorse della tecnica elettronica di immagazzinamento e ritrasmissione nonche' di immagazzinamento e recupero della corrispondenza;
+
+                            
+                        
+                        
+                            b)
+                            
+                                alla riproduzione della suindicata corrispondenza elettronica nella localita' di destinazione;
+
+                            
+                        
+                        
+                            c)
+                            
+                                alla consegna del destinatario.
+
+2.
+                    
+                        
+                            L'Amministrazione provvede:
+ 
+                        
+                        
+                            a)
+                            
+                                alla diffusione del servizio ed all'acquisizione dell'utenza;
+
+                            
+                        
+                        
+                            b)
+                            
+                                all'assistenza all'utenza sia in fase di acquisizione che in fase di esercizio secondo le norme operative di cui all'art. 4.
+ AVVERTENZA:
+ Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, comma 3, del testo unico approvato con decreto del Presidente della Repubblica 28 dicembre 1985, n. 1092, al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio.
+ Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
+
 ## Art. 2. — Modalita' di esercizio
+
+1.
+                    
+                        
+                            Il servizio pubblico di posta elettronica viene espletato attraverso gli impianti di posta elettronica, i centri di posta elettronica, gli uffici di corrispondenza elettronica ed il centro di gestione con le seguenti modalita':
+ 
+                        
+                        
+                            a)
+                            
+                                gli impianti di posta elettronica (I.P.E.) ed i centri di posta elettronica (C.P.E.) provvedono, per la relativa area di competenza postale, alle seguenti funzioni:
+ 1) raccolta, in forma elettronica, delle corrispondenze elettroniche (C.E.) generate dai mittenti; le C.E. possono pervenire all'I.P.E. o al C.P.E. via telecomunicazione (rete telefonica, linee dati pubbliche, linee dedicate) o registrate su supporto (ad es. nastro magnetico);
+ 2) trasmissione al centro di gestione delle C.E. raccolte dagli utenti;
+ 3) ricezione, dal centro di gestione, delle C.E. destinate alla propria area di recapito; attuazione di procedure prioritarie per il trattamento di C.E. con recapito celere;
+ 4) elaborazioni necessarie per la stampa delle C.E. quali composizione dei testi, delle parti grafiche e degli indirizzi, compilazione dei formati di stampa e gestione e controllo dei processi di stampa;
+ 5) trasformazione in corrispondenze ordinarie delle C.E. destinate al recapito entro l'area postale locale, loro inserimento nel flusso di lavorazione meccanizzata delle corrispondenze, fino alla distribuzione ai portalettere;
+
+                            
+                        
+                        
+                            b)
+                            
+                                gli uffici di corrispondenza elettronica provvedono, per la relativa area di competenza postale, alle seguenti funzioni:
+ 1) accettazione delle C.E. su supporto magnetico consegnate dagli utenti;
+ 2) generazione di C.E. su terminale (tastiera-video) di ufficio postale;
+ 3) operazioni di "casella postale elettronica";
+
+                            
+                        
+                        
+                            c)
+                            
+                                il centro di gestione provvede alla gestione e supervisione operativa degli impianti e dei centri di P.E. ed alla gestione amministrativa del servizio di P.E., ed in particolare:
+ 1) alla raccolta in forma elettronica delle C.E. dagli impianti e dai centri di P.E., dagli uffici di corrispondenza elettronica e direttamente dagli utenti, mediante mezzi di telecomunicazioni;
+ 2) alla autenticazione degli utenti;
+ 3) alla gestione delle transazioni tra utenti e servizio;
+ 4) allo smistamento ed all'inoltro mediante mezzi di telecomunicazioni delle C.E. da stampare agli I.P.E. ed ai C.P.E. di competenza in base all'indirizzo postale del destinatario ed all'opzione di recapito richiesto;
+ 5) alla gestione delle "caselle postali elettroniche" degli utenti;
+ 6) alla registrazione degli utenti ed alla gestione dei dati d'utente;
+ 7) alla fatturazione delle transazioni tra utenti e servizio;
+ 8) alla gestione del sistema di archiviazione ed elaborazione di dati grafici;
+ 9) al controllo dello stato degli I.P.E. e dei C.P.E.;
+ 10) alla elaborazione di statistiche relative al traffico di C.E.
 
 ## Art. 3. — Compatibilita'
 
@@ -45,7 +134,50 @@ Per quanto non previsto dal presente regolamento devono essere osservate le norm
 
 ## Art. 5. — Accesso al servizio
 
+1.
+                    
+                        
+                            L'utente puo' accedere al servizio pubblico di posta elettronica:
+ 
+                        
+                        
+                            a)
+                            
+                                direttamente dai suoi terminali, tramite rete trasmissione dati, con procedure e protocolli compatibili con il sistema di posta elettronica dell'Amministrazione;
+
+                            
+                        
+                        
+                            b)
+                            
+                                da terminale pubblico installato presso gli uffici di corrispondenza elettronica (U.C.E.): laddove esso sia operante;
+
+                            
+                        
+                        
+                            c)
+                            
+                                tramite gli sportelli degli uffici abilitati, depositandovi i messaggi registrati su idoneo supporto magnetico (nastro o dischetto magnetico).
+
 ## Art. 6. — R e c a p i t o
+
+1.
+                    
+                        
+                            La corrispondenza puo' essere consegnata al destinatario:
+ 
+                        
+                        
+                            a)
+                            
+                                a mezzo fattorino o portalettere; se trattasi di corrispondenza urgente la consegna avviene di norma entro la mattinata del giorno lavorativo successivo a quello di accettazione;
+
+                            
+                        
+                        
+                            b)
+                            
+                                tramite casella postale elettronica; la corrispondenza rimane ivi memorizzata a disposizione dell'utente.
 
 ## Art. 7. — T a r i f f e
 

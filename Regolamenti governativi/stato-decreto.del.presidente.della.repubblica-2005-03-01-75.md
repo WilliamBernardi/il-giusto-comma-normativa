@@ -8,8 +8,8 @@ codice_redazionale: 005G0097
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti governativi
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:16Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -33,7 +33,96 @@ Sulla proposta del Ministro per l'innovazione e le tecnologie, di concerto con i
 
 ## Art. 1. — Definizioni
 
+1.
+                    
+                        
+                            Ai fini del presente regolamento s'intende per:
+ 
+                        
+                        
+                            a)
+                            
+                                accessibilita': ai sensi dell'articolo 2, comma 1, lettera a), della legge 9 gennaio 2004, n. 4, la capacita dei sistemi informatici, nelle forme e nei limiti consentiti dalle conoscenze tecnologiche, di erogare servizi e fornire informazioni fruibili, senza discriminazioni, anche da parte di coloro che a causa di disabilita' necessitano di tecnologie assistive o configurazioni particolari;
+
+                            
+                        
+                        
+                            b)
+                            
+                                tecnologie assistive: ai sensi dell'articolo 2, comma 1, lettera b), della legge n. 4 del 2004, gli strumenti e le soluzioni tecniche, hardware e software, che permettono alla persona disabile, superando o riducendo le condizioni di svantaggio, di accedere ai servizi erogati dai sistemi informatici;
+
+                            
+                        
+                        
+                            c)
+                            
+                                valutazione: processo con il quale si riscontra la rispondenza dei servizi ai requisiti di accessibilita';
+
+                            
+                        
+                        
+                            d)
+                            
+                                verifica tecnica: valutazione condotta da esperti, anche con strumenti informatici, sulla base di parametri tecnici;
+
+                            
+                        
+                        
+                            e)
+                            
+                                verifica soggettiva: valutazione del livello di qualita' dei servizi, gia' giudicati accessibili tramite la verifica tecnica, effettuata con l'intervento del destinatario, anche disabile, sulla base di considerazioni empiriche;
+
+                            
+                        
+                        
+                            f)
+                            
+                                fruibilita': la caratteristica dei servizi di rispondere a criteri di facilita' e semplicita' d'uso, di efficienza, di rispondenza alle esigenze dell'utente, di gradevolezza e di soddisfazione nell'uso del prodotto;
+
+                            
+                        
+                        
+                            g)
+                            
+                                soggetti privati: soggetti diversi da quelli di cui all'articolo 3 della legge n. 4 del 2004;
+
+                            
+                        
+                        
+                            h)
+                            
+                                valutatori: soggetti iscritti nell'apposito elenco e qualificati a certificare le caratteristiche di accessibilita' dei servizi.
+
 ## Art. 2. — Criteri e principi generali per l'accessibilita'
+
+1.
+                    
+                        
+                            Sono accessibili i servizi realizzati tramite sistemi informatici che presentano i seguenti requisiti:
+ 
+                        
+                        
+                            a)
+                            
+                                accessibilita' al contenuto del servizio da parte dell'utente;
+
+                            
+                        
+                        
+                            b)
+                            
+                                fruibilita' delle informazioni offerte, caratterizzata anche da:
+ 1) facilita' e semplicita' d'uso, assicurando, fra l'altro, che le azioni da compiere per ottenere servizi e informazioni siano sempre uniformi tra loro;
+ 2) efficienza nell'uso, assicurando, fra l'altro, la separazione tra contenuto, presentazione e modalita' di funzionamento delle interfacce, nonche' la possibilita' di rendere disponibile l'informazione attraverso differenti canali sensoriali;
+ 3) efficacia nell'uso e rispondenza alle esigenze dell'utente, assicurando, fra l'altro, che le azioni da compiere per ottenere in modo corretto servizi e informazioni siano indipendenti dal dispositivo utilizzato per l'accesso;
+ 4) soddisfazione nell'uso, assicurando, fra l'altro, l'accesso al servizio e all'informazione senza ingiustificati disagi o vincoli per l'utente;
+
+                            
+                        
+                        
+                            c)
+                            
+                                compatibilita' con le linee guida indicate nelle comunicazioni, nelle raccomandazioni e nelle direttive sull'accessibilita' dell'Unione europea, nonche' nelle normative internazionalmente riconosciute e tenendo conto degli indirizzi forniti dagli organismi pubblici e privati, anche internazionali, operanti nel settore, quali l'International Organization for Standardization (ISO) e il World Wide Web Consortium (W3C).
 
 Con apposito decreto del Ministro per l'innovazione e le tecnologie, di concerto con il Ministro dell'istruzione, dell'universita' e della ricerca, sentiti la Conferenza unificata e il Centro nazionale per l'informatica nella pubblica amministrazione (Cnipa), sono dettate specifiche regole tecniche che disciplinano 1'accessibilita', da parte degli utenti, agli strumenti didattici e formativi di cui all'articolo 5, comma 1, della legge n. 4 del 2004.
 
@@ -41,7 +130,82 @@ Con apposito decreto del Ministro per l'innovazione e le tecnologie, di concerto
 
 Il Cnipa, con proprio provvedimento, istituisce presso di se' l'elenco dei valutatori, stabilendone le modalita' tecniche per la tenuta, nonche' garantisce la pubblicita' dell'elenco medesimo e delle citate modalita' sul proprio sito internet.
 
+2.
+                    
+                        
+                            Nell'elenco di cui al comma 1 sono iscritte le persone giuridiche interessate che ne fanno richiesta, dimostrando di possedere i seguenti requisiti:
+ 
+                        
+                        
+                            a)
+                            
+                                garanzia di imparzialita' ed indipendenza nell'esercizio delle proprie attivita';
+
+                            
+                        
+                        
+                            b)
+                            
+                                disponibilita' di una adeguata strumentazione per l'applicazione delle metodologie di verifica tecnica e di verifica soggettiva di cui all'articolo 1, comma 1, rispettivamente, lettere d) ed e);
+
+                            
+                        
+                        
+                            c)
+                            
+                                disponibilita' di figure professionali esperte nelle suddette metodologie di verifica e di figure idonee ad interagire con i soggetti con specifiche disabilita'.
+
+3.
+                    
+                        
+                            Ai fini dei requisiti di cui al comma 2, lettera a), il valutatore, all'atto della richiesta di iscrizione, si impegna:
+ 
+                        
+                        
+                            a)
+                            
+                                a non esprimere valutazioni su siti o servizi dallo stesso realizzati;
+
+                            
+                        
+                        
+                            b)
+                            
+                                a non esprimere valutazioni in tutti i casi in cui queste possano avere un'incidenza specifica su interessi propri del valutatore o di soggetti allo stesso collegati da rapporti societari;
+
+                            
+                        
+                        
+                            c)
+                            
+                                una volta effettuata la valutazione, a non fornire, nell'arco dei ventiquattro mesi successivi, attivita' di implementazione sui siti o servizi per i quali sia stato incaricato di esprimere la valutazione stessa.
+
 Nell'accertamento dei requisiti di accessibilita' dei servizi, acquisiti con le procedure o realizzati tramite i contratti di cui all'articolo 4, commi 1 e 2, della legge n. 4 del 2004, le amministrazioni interessate possono acquisire il parere non vincolante di un valutatore iscritto nell'elenco di cui al comma 1.
+
+5.
+                    
+                        
+                            Con il decreto del Ministro per l'innovazione e le tecnologie, di cui all'articolo 11 della legge n. 4 del 2004, sono stabiliti:
+ 
+                        
+                        
+                            a)
+                            
+                                le specifiche tecniche per la sussistenza dei requisiti di cui al comma 2, lettere b) e c);
+
+                            
+                        
+                        
+                            b)
+                            
+                                gli importi massimi dovuti dai soggetti privati come corrispettivo per l'attivita' svolta dai valutatori di cui al comma 1, tenuto conto dei costi di organizzazione aziendale nella misura minima, maggiorati del dieci per cento;
+
+                            
+                        
+                        
+                            c)
+                            
+                                le somme dovute dai soggetti privati quale rimborso delle spese amministrative sostenute dalla Presidenza del Consiglio dei Ministri - Dipartimento per l'innovazione e le tecnologie per l'attivita' di cui all'articolo 4, comma 1, nonche' l'entita' della quota dovuta al Cnipa nei casi previsti dall'articolo 7, comma 2, per l'espletamento delle funzioni ispettive di cui al medesimo articolo 7.
 
 Il venire meno dei requisiti in base ai quali e' avvenuta l'iscrizione determina la cancellazione dall'elenco di cui al comma 1; la cancellazione e' altresi' disposta nel caso di violazione degli obblighi assunti dal valutatore ai sensi del comma 3.
 

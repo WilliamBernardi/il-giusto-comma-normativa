@@ -8,8 +8,8 @@ codice_redazionale: 009G0060
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:40Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -42,6 +42,42 @@ La prova di idoneita' ha luogo una sola volta ed e' indetta, in un'unica session
 
 Sono ammessi a partecipare alla prova di idoneita' i soggetti indicati all'articolo 182, comma 1-bis, del Codice.
 
+3.
+                    
+                        
+                            La domanda di partecipazione, da presentare entro sessanta giorni dalla pubblicazione del decreto di cui al comma 1 nella Gazzetta Ufficiale, secondo le modalita' ivi stabilite, e' corredata dalla dichiarazione del possesso dei requisiti richiesti dal predetto articolo 182, comma 1-bis del Codice, per ciascuna categoria dei soggetti legittimati a partecipare al concorso. Nella domanda devono essere indicati i dati relativi al versamento della tassa prescritta per l'ammissione agli esami di Stato, secondo quanto stabilito dal decreto del Presidente del Consiglio dei Ministri del 21 dicembre 1990 e successive modificazioni. I candidati che superano la prima prova devono presentare, entro il termine di cui all'articolo 6, comma 3, a pena di esclusione dal prosieguo della procedura, la documentazione comprovante il possesso dei requisiti dichiarati, come appresso indicato:
+ 
+                        
+                        
+                            a)
+                            
+                                i candidati ascrivibili alla categoria di cui alla lettera a) del comma 1-bis dell'articolo 182 del Codice, devono presentare:
+ ai fini della dimostrazione dell'effettivo svolgimento, per almeno quattro anni, dell'attivita' di restauro con responsabilita' diretta nella gestione tecnica dell'intervento, secondo le modalita' indicate dall'articolo 182, comma 1-ter del Codice, l'elenco degli interventi svolti e, per ciascun intervento dichiarato, l'originale o la copia autentica del certificato di regolare esecuzione del medesimo, rilasciato dall'autorita' preposta alla tutela del bene oggetto dei lavori o dagli istituti di cui all'articolo 9 del decreto legislativo 20 ottobre 1998, n. 368. Detto certificato deve essere accompagnato - fatta eccezione per gli interventi in cui il candidato abbia rivestito formalmente il ruolo di direttore tecnico o risulti titolare della ditta individuale affidataria dei lavori - dall'atto proveniente dal responsabile del procedimento, ovvero dal direttore dei lavori, adottato, acquisito al protocollo o, comunque, custodito dall'autorita' o dall'istituto che ha rilasciato il certificato di regolare esecuzione, attestante la responsabilita' diretta del candidato nella scelta delle metodologie, dei tempi e dell'esecuzione dell'intervento di restauro sul bene, con un ruolo almeno pari a quello di direttore di cantiere;
+
+                            
+                        
+                        
+                            b)
+                            
+                                i candidati ascrivibili alle categorie di cui alle lettere b),
+                            
+                        
+                        
+                            c)
+                            
+                                e
+                            
+                        
+                        
+                            d)
+                            
+                                del comma 1-bis dell'articolo 182 del Codice, devono presentare:
+ l'originale del titolo di studio ivi indicato o la copia autentica del medesimo, ovvero la dichiarazione sostitutiva di certificazione, resa ai sensi degli articoli 46 e 48 del decreto del Presidente della Repubblica 28 dicembre 2000, n. 445, che attesti il possesso del predetto titolo di studio e l'iscrizione ai relativi corsi prima della data del 31 gennaio 2006;
+ c) i candidati ascrivibili alla categoria di cui alla lettera d-bis) del comma 1-bis dell'articolo 182 del Codice, devono presentare:
+ la documentazione utile all'acquisizione della qualifica di «collaboratore restauratore di beni culturali» ai sensi del comma 1-quinquies, lettere a), b) e c), del predetto articolo 182, vale a dire il titolo di studio indicato a dette lettere a) o b) (in originale, in copia autenticata o mediante dichiarazione sostitutiva), oppure la dichiarazione, ovvero la autocertificazione, nonche' il visto di buon esito degli interventi, indicati a detta lettera c);
+ inoltre, ai fini della dimostrazione dell'effettivo svolgimento, per almeno tre anni alla data del 30 giugno 2007, dell'attivita' di restauro con responsabilita' diretta nella gestione tecnica dell'intervento, secondo le modalita' indicate dall'articolo 182, comma 1-ter del Codice, l'elenco degli interventi svolti e, per ciascun intervento dichiarato, l'originale o la copia autentica del certificato di regolare esecuzione del medesimo, rilasciato dall'autorita' preposta alla tutela del bene oggetto dei lavori o dagli istituti di cui all'articolo 9 del decreto legislativo 20 ottobre 1998, n. 368. Detto certificato deve essere accompagnato - fatta eccezione per gli interventi in cui il candidato abbia rivestito formalmente il ruolo di direttore tecnico o risulti titolare della ditta individuale affidataria dei lavori - dall'atto proveniente dal responsabile del procedimento, ovvero dal direttore dei lavori, adottato, acquisito al protocollo o, comunque, custodito dall'autorita' o dall'istituto che ha rilasciato il certificato di regolare esecuzione, attestante la responsabilita' diretta del candidato nella scelta delle metodologie, dei tempi e dell'esecuzione dell'intervento di restauro sul bene, con un ruolo almeno pari a quello di direttore di cantiere;
+ d) tutti i candidati indicati alle lettere precedenti devono presentare l'attestazione del versamento della tassa prescritta per l'ammissione agli esami di Stato, secondo quanto stabilito dal decreto del Presidente del Consiglio dei Ministri del 21 dicembre 1990 e successive modificazioni.
+
 Nella domanda di cui al comma 3 il candidato indica l'ambito di competenza, tra quelli previsti nell'allegato A al presente decreto, rispetto al quale intende sostenere le prove previste dall'articolo 3, commi 4 e 5.
 
 ## Art. 3. — Prove di esame
@@ -61,6 +97,31 @@ I manufatti o fac-simili per lo svolgimento della seconda prova scritta e della 
 
 ## Art. 4. — Composizione della Commissione e Sottocommissioni esaminatrici
 
+1.
+                    
+                        
+                            Con decreto del Ministro, da emanare entro trenta giorni dalla pubblicazione del decreto di cui all'articolo 2, comma 1 , e' nominata la commissione esaminatrice della prova di idoneita' (d'ora in avanti: «Commissione»), che ha sede presso il Ministero ed e' composta da cinque membri, dei quali:
+ 
+                        
+                        
+                            a)
+                            
+                                uno, con funzioni di presidente, e' scelto tra i magistrati amministrativi, ordinari, contabili, o tra gli avvocati dello Stato, ed e' designato secondo le norme dei rispettivi ordinamenti;
+
+                            
+                        
+                        
+                            b)
+                            
+                                due sono scelti nell'ambito del personale tecnico del Ministero, il primo tra i dirigenti tecnici, l'altro tra i restauratori della terza area, posizione economica F4. In caso di accertata carenza in organico dei restauratori di posizione F4, l'incarico puo' essere conferito anche a restauratori di terza area, posizioni economiche F1, F2 e F3;
+
+                            
+                        
+                        
+                            c)
+                            
+                                due sono designati dal Ministro dell'istruzione, dell'universita' e della ricerca, tra professori universitari di prima o seconda fascia o ricercatori universitari, nei settori scientifico-disciplinari di cui all'allegato B al presente decreto, attinenti alla conservazione del patrimonio storico ed artistico, ovvero docenti di ruolo delle Accademie delle belle arti nell'ambito delle materie afferenti alla conservazione ed al restauro del patrimonio storico ed artistico.
+
 Il provvedimento di nomina della Commissione indica un supplente per ciascun componente. Per le funzioni di segreteria, il Ministro nomina uno o piu' dipendenti dell'amministrazione, appartenenti all'area terza del personale amministrativo. Ai soli fini dello svolgimento della prima prova scritta, per ogni sede di espletamento, con il decreto di cui al comma 1, possono essere costituiti appositi comitati di vigilanza con le modalita' di cui ai commi 7 e 8 dell'articolo 9 del decreto del Presidente della Repubblica 9 maggio 1994, n. 487.
 
 Presso ogni sede individuata ai sensi dell'articolo 6, comma 4, il Ministro nomina una Sottocommissione avente la composizione indicata ai commi precedenti.
@@ -68,6 +129,75 @@ Presso ogni sede individuata ai sensi dell'articolo 6, comma 4, il Ministro nomi
 Con decreto adottato dal Ministro dopo la correzione della prima prova, la Commissione e le Sottocommissioni possono essere integrate con membri aggregati, esperti negli ambiti di competenza in esse non rappresentati, mantenendo un numero dispari di componenti. I membri aggregati esprimono il loro giudizio unitamente ai membri effettivi soltanto in relazione ai candidati per cui viene disposta l'aggregazione.
 
 ## Art. 5. — Compiti della Commissione
+
+1.
+                    
+                        
+                            La Commissione:
+ 
+                        
+                        
+                            a)
+                            
+                                forma l'elenco dei soggetti i quali, avendo presentato nei termini una valida domanda di partecipazione, possono sostenere la prima prova scritta; tale elenco viene pubblicato sul sito Internet del Ministero e di tale pubblicazione viene data comunicazione nella Gazzetta Ufficiale - 4ª serie speciale «Concorsi ed esami» almeno sessanta giorni prima dell'inizio della prova di idoneita'; tale pubblicazione ha valore di notifica a tutti gli effetti nei confronti di tutti i candidati;
+
+                            
+                        
+                        
+                            b)
+                            
+                                ai fini dello svolgimento della prima prova scritta, formula almeno 500 quesiti a risposta multipla, in proporzione al numero di quesiti previsti per ciascuna disciplina;
+
+                            
+                        
+                        
+                            c)
+                            
+                                valuta la prima prova scritta e predispone l'elenco dei candidati che hanno riportato il punteggio minimo necessario per il superamento della prova;
+
+                            
+                        
+                        
+                            d)
+                            
+                                valuta la documentazione comprovante il possesso dei requisiti di ammissione alla prova di idoneita' previsti dall'articolo 182, comma 1-bis e predispone l'elenco dei candidati ammessi a sostenere la seconda prova scritta;
+
+                            
+                        
+                        
+                            e)
+                            
+                                definisce i criteri per la valutazione della seconda prova scritta e della prova teorico-pratica e ne da' comunicazione alle Sottocommissioni prima dell'inizio della seconda prova scritta. Nella definizione dei criteri la commissione tiene comunque conto dei parametri appresso indicati:
+ 1) per la seconda prova scritta:
+ 1.1) capacita' di impostazione interdisciplinare;
+ 1.2) rispetto della sequenzialita' delle fasi di progettazione dell'intervento di restauro;
+ 1.3) padronanza del lessico tecnico;
+ 1.4) completamento della prova;
+ 2) per la prova teorico-pratica:
+ 2.1) corrispondenza dell'esecuzione dell'elaborato al modello dato;
+ 2.2) ordine nell' esecuzione dell' elaborato;
+ 2.3) completamento della prova;
+
+                            
+                        
+                        
+                            f)
+                            
+                                individua i manufatti o fac-simili oggetto della seconda prova scritta e della prova a carattere teorico-pratico, individua gli Istituti incaricati di predisporli e provvede all'assegnazione dei manufatti o fac-simili a ciascuna Sottocommissione, garantendo la piu' assoluta segretezza della fase preparatoria della prova;
+
+                            
+                        
+                        
+                            g)
+                            
+                                predispone, il giorno stabilito per lo svolgimento della seconda prova scritta e della successiva prova teorico-pratica, la traccia della prova da assegnare per ciascuno degli ambiti di competenza indicati nell'allegato A e alla contestuale trasmissione, anche per via telematica, della traccia medesima alle sedi presso cui operano le Sottocommissioni, garantendo la piu' assoluta segretezza della fase preparatoria delle tracce e della gestione dei manufatti o fac-simili utilizzati. La seconda prova scritta e la successiva prova teorico-pratica iniziano contestualmente in tutte le sedi d'esame e non possono avere inizio fino a che tutte le Sottocommissioni non abbiano comunicato alla Commissione, anche per via telematica, l'avvenuto ricevimento delle tracce;
+
+                            
+                        
+                        
+                            h)
+                            
+                                al termine della prova di idoneita', sulla base degli elenchi predisposti dalle Sottocommissioni ai sensi dell'articolo 6, comma 5, predispone l'elenco dei candidati idonei all'acquisizione della qualifica di restauratore di beni culturali e quello dei candidati idonei all'acquisizione della qualifica di collaboratore restauratore di beni culturali e li trasmette al Ministero.
 
 La Commissione individua altresi' le modalita' per la custodia degli elaborati delle prove d'esame per tutta la durata della prova di idoneita'. Al termine della prova di idoneita' gli elaborati sono custoditi dall'Amministrazione per un anno.
 

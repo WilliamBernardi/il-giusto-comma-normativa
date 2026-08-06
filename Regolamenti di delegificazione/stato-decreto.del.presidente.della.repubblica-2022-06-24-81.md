@@ -7,8 +7,8 @@ urn: urn:nir:stato:decreto.del.presidente.della.repubblica:2022-06-24;81
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti di delegificazione
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:40:25Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -29,6 +29,55 @@ Sulla proposta del Presidente del Consiglio dei ministri e del Ministro per la p
 ## Art. 1.
 
 Individuazione di adempimenti assorbiti dal Piano integrato di attivita' e organizzazione
+
+1.
+                    
+                        
+                            Ai sensi di quanto previsto dall'articolo 6, comma 1, del decreto-legge 9 giugno 2021, n. 80, convertito, con modificazioni, dalla legge 6 agosto 2021, n. 113, per le amministrazioni pubbliche di cui all'articolo 1, comma 2, del decreto legislativo 30 marzo 2001, n. 165, con piu' di cinquanta dipendenti, sono soppressi, in quanto assorbiti nelle apposite sezioni del Piano integrato di attivita' e organizzazione (PIAO), gli adempimenti inerenti ai piani di cui alle seguenti disposizioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                articolo 6, commi 1, 4 (Piano dei fabbisogni) e 6, e articoli 60-bis (Piano delle azioni concrete) e 60-ter, del decreto legislativo 30 marzo 2001, n. 165; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                
+                                    articolo 2, comma 594, lettera a), della legge 24 dicembre 2007, n. 244 (Piano per razionalizzare l'utilizzo delle dotazioni strumentali, anche informatiche, che corredano le stazioni di lavoro nell'automazione d'ufficio); 
+
+                            
+                        
+                        
+                            c)
+                            
+                                articolo 10, commi 1, lettera a), e 1-ter, del decreto legislativo 27 ottobre 2009, n. 150 (Piano della performance); 
+
+                            
+                        
+                        
+                            d)
+                            
+                                articolo 1, commi 5, lettera a) e 60, lettera a), della legge 6 novembre 2012, n. 190 (Piano di prevenzione della corruzione); 
+
+                            
+                        
+                        
+                            e)
+                            
+                                
+                                    articolo 14, comma 1, della legge 7 agosto 2015, n. 124 (Piano organizzativo del lavoro agile); 
+
+                            
+                        
+                        
+                            f)
+                            
+                                
+                                    articolo 48, comma 1, del decreto legislativo 11 aprile 2006, n. 198 (Piani di azioni positive).
 
 Per le amministrazioni tenute alla redazione del PIAO, tutti i richiami ai piani individuati al comma 1 sono da intendersi come riferiti alla corrispondente sezione del PIAO.
 

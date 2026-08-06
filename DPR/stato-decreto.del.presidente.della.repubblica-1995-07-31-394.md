@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: DPR
 vigenza_date: 2025-05-03
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:47:42Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -588,6 +588,28 @@ TABELLA I - INDENNITA' MENSILE DI IMPIEGO OPERATIVO DI BASE
 Per il personale che anche anteriormente all'entrata in vigore
 del presente decreto abbia prestato servizio nelle condizioni di cui agli articoli 3, 4, 5 e 6, primo, secondo e terzo comma, e 7 della legge 23 marzo 1983, n. 78, le misure di cui alla tabella riportata al comma 1 del presente articolo, sono maggiorate, per ogni anno di servizio effettivo prestato con percezione delle relative indennita' e per un periodo massimo complessivo di 20 anni, secondo le percentuali indicate nella tabella VI annessa alla legge 23 marzo 1983, n. 78.((4))
 
+3.
+                    
+                        
+                            A decorrere dal 1 dicembre 1995, sono soppresse le note 
+                        
+                        
+                            a)
+                            
+                                e
+                            
+                        
+                        
+                            b)
+                            
+                                alla tabella I,
+                            
+                        
+                        
+                            c)
+                            
+                                alla tabella II e le note alle tabelle III e IV allegate alla legge 23 marzo 1983, n. 78.
+
 Ai volontari di truppa in servizio permanente di cui al decreto legislativo 12 maggio 1995, n. 196, le indennita' operative per particolari impieghi di cui agli articoli 3, 4, 7 e 10, ed alla tabella IV della legge 23 marzo 1983, n. 78, percentualmente commisurate alla indennita' di impiego operativo di base, sono determinate con riferimento alle stesse percentuali previste per ufficiali e sottufficiali. Le indennita' operative per particolari impieghi di cui agli articoli 5 e 6 ed alle tabelle II e III della legge 23 marzo 1983, n. 78, percentualmente commisurate alla indennita' di impiego operativo di base, sono determinate con riferimento alle percentuali previste per i gradi nella II fascia delle tabelle stesse. Le indennita' ed i supplementi di cui agli articoli 8, 9, 11, 13, 15 e 16 della legge 23 marzo 1983, n. 78, sono determinate nelle misure percentuali previste dalle norme stesse per ufficiali e sottufficiali.
 
 Limitatamente al personale di cui all'art. 1, comma 1, le indennita' operative per particolari impieghi di cui agli articoli 3, 4, 5, 6, 7, 8, 9, 10 e 13, ed alle tabelle II, III e IV della legge 23 marzo 1983, n. 78, percentualmente commisurate alla indennita' di impiego operativo di base, vanno determinate con riferimento alle nuove misure di cui alla tabella del comma 1 in relazione al grado rivestito. Le indennita' ed i supplementi nelle misure percentuali previste agli articoli 11, 15 e 16, nonche' dalla tabella V della legge 23 marzo 1983, n. 78, vanno determinate con riferimento alla misura della indennita' di impiego operativo di base prevista dal comma 1 per il personale militare appartenente alla XIII fascia. (3)
@@ -726,6 +748,24 @@ Le norme di cui al presente articolo si applicano dal 1 gennaio 1996. Per il per
 
 Per il personale di cui all'art. 1, comma 1, la licenza straordinaria e' disciplinata dalla normativa prevista dall'art. 3 della legge 24 dicembre 1993, n. 537, come interpretato, modificato ed integrato dall'art. 22, commi 22 e 23, della legge 23 dicembre 1994, n. 724.
 
+2.
+                    
+                        
+                            In occasione di trasferimento del personale, per le esigenze di trasloco e di riorganizzazione familiare presso la nuova sede di servizio, l'Amministrazione concede una licenza straordinaria speciale nelle durate di seguito specificate:
+ 
+                        
+                        
+                            a)
+                            
+                                trasferimento in territorio nazionale: giorni 20 per il personale ammogliato o con famiglia a carico o con almeno 10 anni di servizio; giorni 10 per il personale senza famiglia a carico con meno di 10 anni di servizio;
+
+                            
+                        
+                        
+                            b)
+                            
+                                trasferimento per il personale destinato a prestare o che rientri dal servizio all'estero: giorni 30 al personale ammogliato o con famiglia a carico o con almeno 10 anni di servizio; giorni 20 al personale senza famiglia a carico con meno di 10 anni di servizio.
+
 Per il personale di cui all'art. 1, comma 1, la licenza breve e' soppressa.
 
 Le disposizioni di cui all'art. 3, comma 39, della legge 24 dicembre 1993, n. 537, non si applicano quando l'assenza dal servizio sia dovuta ad infermita' o lesioni dipendenti da causa di servizio o comunque riportate per fatti di servizio.
@@ -799,6 +839,31 @@ Per l'espletamento delle attivita' di cui ai commi precedenti, ai sensi dell'art
 ## Art. 22. — Criteri per l'istituzione di organi di verifica della qualita' e salubrita' dei servizi di mensa, e degli spacci, per lo sviluppo delle attivita' di protezione sociale e di benessere del personale, ivi compresi l'elevazione e l'aggiornamento culturale del medesimo, nonche' la gestione degli enti di assistenza del personale.
 
 Entro sei mesi dalla data di entrata in vigore del presente decreto, con decreto del Ministro della difesa saranno istituiti organi di verifica della qualita' e salubrita' dei servizi di mensa, e degli spacci, per lo sviluppo delle attivita' di protezione sociale e di benessere del personale, ivi compresi l'elevazione e l'aggiornamento culturale del medesimo, nonche' per la gestione degli enti di assistenza del personale.
+
+2.
+                    
+                        
+                            Tale decreto, nell'indicare le competenze dei suddetti organi, dovra' prevedere che:
+ 
+                        
+                        
+                            a)
+                            
+                                la presidenza degli stessi sia attribuita al comandante di Corpo dell'ente o del reparto o ad un suo delegato;
+
+                            
+                        
+                        
+                            b)
+                            
+                                venga consentita la partecipazione di rappresentanti di tutte le categorie del personale;
+
+                            
+                        
+                        
+                            c)
+                            
+                                uno dei componenti sia indicato dagli organismi di rappresentanza di base (COBAR).
 
 ## Art. 23. — Tutela legale
 

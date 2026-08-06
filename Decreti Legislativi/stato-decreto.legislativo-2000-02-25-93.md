@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
 vigenza_date: 2016-07-19
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:28Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -23,6 +23,236 @@ Sulla proposta del Ministro per le politiche comunitarie e del Ministro dell'ind
 ## Art. 1. — Campo di applicazione e definizioni
 
 Le disposizioni del presente decreto si applicano alla progettazione, alla fabbricazione e alla valutazione di conformita' delle attrezzature a pressione e degli insiemi sottoposti ad una pressione massima ammissibile PS superiore a 0,5 bar.
+
+2.
+                    
+                        
+                            Ai fini del presente decreto valgono le seguenti definizioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                "attrezzature a pressione": i recipienti, le tubazioni, gli accessori di sicurezza e gli accessori a pressione, ivi compresi gli elementi annessi a parti pressurizzate, quali flange, raccordi, manicotti, supporti, alette mobili; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                "recipiente": un alloggiamento progettato e costruito per contenere fluidi pressurizzati comprendente gli elementi annessi diretti sino al punto di accoppiamento con altre attrezzature. Un recipiente puo' essere composto di uno o piu' ((scomparti)); ((2))
+                                
+                            
+                        
+                        
+                            c)
+                            
+                                "tubazioni": i componenti di una conduttura destinati al trasporto dei fluidi, allorche' essi sono collegati al fine di essere inseriti in un sistema a pressione. Le tubazioni comprendono in particolare un tubo o un insieme di tubi, condotte, accessori, giunti di dilatazione, tubi flessibili o altri eventuali componenti sottoposti a pressione. Gli scambiatori di calore costituiti da tubi per il raffreddamento o il riscaldamento di aria sono parificati alle tubazioni; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                "accessori di sicurezza": i dispositivi destinati alla protezione delle attrezzature a pressione contro il superamento dei limiti ammissibili. Essi comprendono: 
+ 1) i dispositivi per la limitazione diretta della pressione, quali valvole di sicurezza, dispositivi a disco di rottura, aste pieghevoli, dispositivi di sicurezza pilotati per lo scarico della pressione (CSPRS); 
+ 2) i dispositivi di limitazione che attivano i sistemi di regolazione o che chiudono e disattivano l'attrezzatura, come pressostati, termostati, interruttori di livello del fluido e i dispositivi di "misurazione, controllo e regolazione per la sicurezza (SRMCR)"; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                "accessori a pressione": i dispositivi aventi funzione di servizio e i cui alloggiamenti sono sottoposti a pressione; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                "insiemi": varie attrezzature a pressione montate da un fabbricante per costituire un tutto integrato e funzionale; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                "pressione": la pressione riferita alla pressione atmosferica, vale a dire pressione relativa; il vuoto e' di conseguenza indicato con un valore negativo; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                "pressione massima ammissibile (PS)": la pressione massima per la quale l'attrezzatura e' progettata, specificata dal fabbricante.
+Essa e' definita nel punto, specificato dal fabbricante, in cui sono collegati gli organi di protezione o di sicurezza della parte superiore dell'attrezzatura o, se non idoneo, in qualsiasi altro punto specificato; 
+
+                            
+                        
+                        
+                            i)
+                            
+                                "temperatura minima/massima ammissibile (TS)": le temperature minime/massime per le quali l'attrezzatura e' progettata, specificate dal fabbricante; 
+
+                            
+                        
+                        
+                            l)
+                            
+                                "volume (V)": il volume interno di un recipiente, compreso il volume dei raccordi alla prima connessione ed escluso il volume degli elementi interni permanenti; 
+
+                            
+                        
+                        
+                            m)
+                            
+                                "dimensione nominale (DN)": la designazione numerica, contrassegnata dalle iniziali DN seguite da un numero, della dimensione comune a tutti i componenti di un sistema di tubazione diversi dai componenti indicati dai diametri esterni o dalla filettatura. Il numero e' arrotondato per fini di riferimento e non e' in stretta relazione con le dimensioni di fabbricazione; 
+
+                            
+                        
+                        
+                            n)
+                            
+                                "fluidi": i gas, i liquidi e i vapori allo stato puro nonche' le loro miscele. Un fluido puo' contenere una sospensione di solidi; 
+
+                            
+                        
+                        
+                            o)
+                            
+                                "giunzioni permanenti": le giunzioni che possono essere disgiunte solo con metodi distruttivi; 
+
+                            
+                        
+                        
+                            p)
+                            
+                                "approvazione europea di materiali": il documento tecnico, rilasciato ai sensi dell'articolo 11, che definisce le caratteristiche dei materiali destinati ad un impiego ripetuto per la fabbricazione di attrezzature a pressione, che non hanno formato oggetto di una norma armonizzata; 
+
+                            
+                        
+                        
+                            t)
+                            
+                                "entita' terza riconosciuta": il soggetto riconosciuto a norma dell'articolo 13, distinto dall'organismo notificato di cui all'articolo 12, che, in alternativa a quest'ultimo, puo' essere preposto specificatamente alla valutazione delle giunzioni permanenti delle parti che contribuiscono alla resistenza alla pressione delle attrezzature, ovvero alla valutazione delle prove non distruttive, in conformita' a quanto previsto dall'allegato I, rispettivamente ai punti 3.1.2 e 3.1.3; 
+
+                            
+                        
+                        
+                            u)
+                            
+                                "ispettorato degli utilizzatori": il soggetto designato a norma dell'articolo 14 per lo svolgimento delle procedure per la valutazione di conformita', di cui ai ((moduli A2, C2)), F e G dell'allegato III, esclusivamente con riferimento ad attrezzature e insiemi impiegati negli impianti gestiti dal gruppo ((...)) di cui fa parte l'ispettorato.((2))
+
+3.
+                    
+                        
+                            Sono esclusi dal campo di applicazione del presente decreto: 
+ 
+                        
+                        
+                            a)
+                            
+                                le condotte comprendenti una tubazione o un sistema di tubazioni per il trasporto di qualsiasi fluido o sostanza da o verso un impianto, in mare aperto o sulla terra ferma, a partire dall'ultimo organo di isolamento situato nel perimetro dell'impianto, comprese tutte le attrezzature progettate e collegate specificatamente per la condotta, fatta eccezione per le attrezzature a pressione standard, quali quelle delle cabine di salto di pressione e delle centrali di spinta; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                le reti per la raccolta, la distribuzione e il deflusso di acqua e relative apparecchiature, nonche' canalizzazioni per acqua motrice come condotte forzate, gallerie e pozzi in pressione per impianti idroelettrici ed i relativi accessori specifici; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                le attrezzature progettate specificatamente per usi nucleari le quali, in caso di guasto, possono provocare emissioni di radioattivita'; 
+
+                            
+                        
+                        
+                            i)
+                            
+                                le attrezzature per il controllo dei pozzi nell'industria dell'esplorazione ed estrazione del petrolio, del gas o geotermica nonche' nello stoccaggio sotterraneo, e previste per contenere o controllare la pressione del pozzo. Sono compresi la testa pozzo, gli otturatori di sicurezza (BOP), le tubazioni e i collettori nonche' le loro attrezzature a monte; 
+
+                            
+                        
+                        
+                            l)
+                            
+                                le attrezzature di cui fanno parte alloggiamenti o meccanismi in cui il dimensionamento, la scelta dei materiali, le norme di costruzione sono motivati essenzialmente da criteri di resistenza, rigidita' e stabilita' nei confronti degli effetti operativi statici e dinamici o da altri criteri legati al loro funzionamento e per le quali la pressione non costituisce un fattore significativo a livello di progettazione, quali: 
+ 1) i motori, comprese le turbine e i motori a combustione interna; 
+ 2) le macchine a vapore, le turbine a gas o a vapore, i turbogeneratori, i compressori, le pompe e gli attuatori; 
+
+                            
+                        
+                        
+                            m)
+                            
+                                gli altiforni, compresi i sistemi di raffreddamento dei forni, i dispositivi di recupero dell'aria calda, di estrazione delle polveri e dispositivi di lavaggio dei gas di scarico degli altiforni e cubilotti per la riduzione diretta, compreso il sistema di raffreddamento del forno, i convertitori a gas e i recipienti per la fusione, la rifusione, la degassificazione e la colata di acciaio e di metalli non ferrosi; 
+
+                            
+                        
+                        
+                            n)
+                            
+                                gli alloggiamenti per apparecchiature ad alta tensione come interruttori, dispositivi di comando, trasformatori e macchine rotanti; 
+
+                            
+                        
+                        
+                            o)
+                            
+                                gli alloggiamenti pressurizzati che avvolgono gli elementi dei sistemi di trasmissione quali cavi elettrici e telefonici; 
+
+                            
+                        
+                        
+                            p)
+                            
+                                le navi, i razzi, gli aeromobili o le unita' mobili "off-shore" nonche' le attrezzature espressamente destinate ad essere installate a bordo di questi veicoli o alla loro propulsione; 
+
+                            
+                        
+                        
+                            q)
+                            
+                                le attrezzature a pressione composte di un involucro leggero, ad esempio i pneumatici, i cuscini d'aria, le palle e i palloni da gioco, le imbarcazioni gonfiabili e altre attrezzature a pressione analoghe; 
+
+                            
+                        
+                        
+                            r)
+                            
+                                i silenziatori di scarico e di immissione; 
+
+                            
+                        
+                        
+                            s)
+                            
+                                le bottiglie o lattine per bevande gassate, destinate al consumo finale; 
+
+                            
+                        
+                        
+                            t)
+                            
+                                i recipienti destinati al trasporto ed alla distribuzione di bevande con un PS-V non superiore a 500 bar L e una pressione massima ammissibile non superiore a 7 bar; 
+
+                            
+                        
+                        
+                            v)
+                            
+                                i termosifoni e i tubi negli impianti di riscaldamento ad acqua calda; 
+
+                            
+                        
+                        
+                            z)
+                            
+                                i recipienti destinati a contenere liquidi con una pressione gassosa al di sopra del liquido non superiore a 0,5 bar.
 
 ---------------
                         AGGIORNAMENTO (2)
@@ -45,6 +275,71 @@ Le attrezzature a pressione e gli insiemi possono essere messi a disposizione de
  Il D.Lgs. 15 febbraio 2016, n. 26 ha disposto (con l'art. 3, comma 1) che la presente modifica si applica a decorrere dal 19 luglio 2016.
 
 ## Art. 3. — Requisiti tecnici particolari
+
+1.
+                    
+                        
+                            Le attrezzature a pressione indicate alle lettere a), b), c), e d), classificate in conformita' a quanto previsto dall'articolo 9 e dall'allegato II, devono soddisfare i requisiti essenziali stabiliti nell'allegato I secondo le seguenti modalita': 
+
+                        
+                        
+                            a)
+                            
+                                recipienti, ad eccezione di quelli di cui alla lettera b), destinati a contenere: 
+ 1) gas, gas liquefatti, gas disciolti sotto pressione, vapori e liquidi la cui tensione di vapore alla temperatura massima ammissibile e' superiore di almeno 0,5 bar alla pressione atmosferica normale (1013 mbar) entro i seguenti limiti: 
+ - per i fluidi del gruppo 1, quando il volume e' superiore a 1 litro e il prodotto PS-V e' superiore a 25 bar-L, nonche' quando la pressione PS e' superiore a 200 bar (allegato II, tabella 1);
+ - per i fluidi del gruppo 2, quando il volume e' superiore a 1 litro e il prodotto PS-V e' superiore a 50 bar-L, nonche' quando la pressione PS e' superiore a 1000 bar, nonche' per tutti gli estintori portatili e le bombole per apparecchi respiratori (allegato II, tabella 2); 
+ 2) liquidi con una tensione di vapore alla temperatura massima ammissibile inferiore o pari a 0,5 bar oltre la pressione atmosferica normale (1.013 mbar), entro i seguenti limiti: 
+ - per i fluidi del gruppo 1, quando il volume e' superiore a un litro e il prodotto PS-V e' superiore a 200 bar-L, nonche' quando la pressione PS e' superiore a 500 bar (allegato II, tabella 3); 
+ - per i fluidi del gruppo 2, quando la pressione PS e' superiore a 10 bar e il prodotto PS-V e' superiore a 10000 bar-L, nonche' quando la pressione PS e' superiore a 1000 bar (allegato II, tabella 4); 
+                            
+                        
+                        
+                            b)
+                            
+                                attrezzature a pressione a focolare o altro tipo di riscaldamento, con rischio di surriscaldamento, destinate alla generazione di vapore o acqua surriscaldata a temperature superiori a 110 oC, quando il volume e' superiore a 2 litri, nonche' tutte le pentole a pressione (allegato II, tabella 5); 
+                            
+                        
+                        
+                            c)
+                            
+                                tubazioni destinate a contenere: 
+ 1) gas, gas liquefatti, gas disciolti sotto pressione, vapori e liquidi la cui tensione di vapore alla temperatura massima ammissibile e' superiore di 0,5 bar alla pressione atmosferica normale (1013 mbar), entro i seguenti limiti: 
+ - per i fluidi del gruppo 1, quando la DN e' superiore a 25 (allegato II, tabella 6); 
+ - per i fluidi del gruppo 2, quando la DN e' superiore a 32 e il 
+ prodotto PS-DN e' superiore a 1000 bar (allegato II, tabella 7); 
+ 2) liquidi con una tensione di vapore alla temperatura massima ammissibile inferiore o pari a 0,5 bar oltre la pressione atmosferica normale (1013 mbar), entro i seguenti limiti: 
+ - per i fluidi del gruppo 1, quando la DN e' superiore a 25 e il prodotto PS-DN e' superiore a 2000 bar (allegato II tabella 8); 
+ - per i fluidi del gruppo 2, quando il PS e' superiore a 10 bar, la DN e' superiore a 200 e il prodotto PS-DN e' superiore a 5000 bar (allegato II, tabella 9); 
+                            
+                        
+                        
+                            d)
+                            
+                                accessori di sicurezza e accessori a pressione destinati ad attrezzature di cui alle lettere a), b) e c), anche quando tali attrezzature sono inserite in un insieme.
+
+2.
+                    
+                        
+                            Gli insiemi di cui all'articolo 1, comma 2, lettera f, comprendenti almeno un'attrezzatura a pressione di cui al comma 1 e di seguito indicati alle lettere a), b) e c), devono soddisfare i requisiti essenziali enunciati nell'allegato I, qualora abbiano le seguenti caratteristiche: 
+
+                        
+                        
+                            a)
+                            
+                                gli insiemi previsti per la produzione di vapore o di acqua surriscaldata ad una temperatura superiore a 110 oC, contenenti almeno un'attrezzatura a pressione a focolare o altro tipo di riscaldamento, con rischio di surriscaldamento; 
+                            
+                        
+                        
+                            b)
+                            
+                                gli insiemi diversi da quelli indicati alla lettera a), allorche' il fabbricante li destina a essere commercializzati e messi in servizio come insiemi; 
+                            
+                        
+                        
+                            c)
+                            
+                                in deroga a quanto disposto dall'alinea del presente comma, gli insiemi previsti per la produzione di acqua calda ad una temperatura inferiore a 110 oC, alimentati manualmente con combustibile solido, con un PS-V superiore a 50 bar-L debbono soddisfare i requisiti essenziali di cui ai punti 2.10, 2.11, 3.4, 5a) e 5d) dell'allegato I.
 
 In deroga a quanto previsto dall'articolo 4, comma 1, sono consentite l'immissione sul mercato e la messa in servizio delle attrezzature e degli insiemi aventi caratteristiche inferiori o pari ai limiti fissati rispettivamente dal comma 1, lettere a), b) e c), e dal comma 2, purche' progettati e fabbricati secondo la corretta prassi costruttiva in uso nello Stato di fabbricazione appartenente all'Unione europea o aderente all'Accordo istitutivo dello Spazio economico europeo, che garantisca la sicurezza di utilizzazione. Tali attrezzature e insiemi non recano la marcatura CE ((di cui all'articolo 15, fatte salve le altre norme nazionali e dell'Unione europea applicabili in materia di armonizzazione che ne prevedono l'apposizione)), sono corredati da sufficienti istruzioni per l'uso e hanno marcature che consentono l'individuazione del fabbricante o del suo mandatario stabilito nel territorio comunitario.((2))
 
@@ -181,6 +476,24 @@ I distributori che ritengono o hanno motivo di ritenere che le attrezzature a pr
 
 ((
 
+1.
+                    
+                        
+                            Gli operatori economici indicano alle autorita' di vigilanza che ne facciano richiesta: 
+ 
+                        
+                        
+                            a)
+                            
+                                qualsiasi operatore economico che abbia fornito loro attrezzature a pressione o insiemi; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                qualsiasi operatore economico cui abbiano fornito attrezzature a pressione o insiemi.
+
 2. Gli operatori economici devono essere in grado di presentare le informazioni di cui al comma 1 per dieci anni dal momento in cui siano stati loro forniti attrezzature a pressione o insiemi e per dieci anni dal momento in cui essi abbiano fornito attrezzature a pressione o insiemi.))
 
 ((2))
@@ -270,6 +583,24 @@ Qualora l'operatore economico interessato non prende le misure correttive adegua
 
 Il Ministero dello sviluppo economico informa immediatamente la Commissione e gli altri Stati membri circa le misure di cui ai commi 6 e 7. Il Ministero dello sviluppo economico comunica i provvedimenti di cui al presente articolo al Ministero del lavoro e delle politiche sociali ed agli organi segnalanti la presunta non conformita'.
 
+9.
+                    
+                        
+                            Le informazioni di cui al primo periodo del comma 8, includono tutti i particolari disponibili, soprattutto i dati necessari all'identificazione dell'attrezzatura a pressione o dell'insieme non conforme, la sua origine, la natura della presunta non conformita' e dei rischi connessi, la natura e la durata delle misure nazionali adottate, nonche' le argomentazioni avanzate dagli operatori economici interessati. In particolare, il Ministero dello sviluppo economico indica se l'inadempienza sia dovuta: 
+ 
+                        
+                        
+                            a)
+                            
+                                alla non conformita' dell'attrezzatura a pressione o dell'insieme alle prescrizioni relative alla salute o all'incolumita' delle persone o alla protezione degli animali domestici o dei beni materiali; oppure 
+
+                            
+                        
+                        
+                            b)
+                            
+                                alle carenze nelle norme armonizzate di cui all'articolo 5, commi 1 e 2, che conferiscono la presunzione di conformita'.
+
 Il Ministero dello sviluppo economico, quando non sia l'autorita' dello Stato membro che ha avviato la procedura a norma del presente articolo, informa immediatamente la Commissione e gli altri Stati membri di tutti i provvedimenti adottati, di tutte le altre informazioni a sua disposizione sulla non conformita' dell'attrezzatura a pressione o dell'insieme interessato e, in caso di disaccordo con la misura nazionale adottata, delle sue obiezioni.
 
 Il Ministero dello sviluppo economico tiene conto nello svolgimento della propria attivita', sia per le proprie misure provvisorie che per quelle assunte da autorita' di altri Stati membri che qualora, entro tre mesi dal ricevimento delle informazioni di cui al comma 9, uno Stato membro o la Commissione non sollevino obiezioni contro la misura provvisoria presa da uno Stato membro, tale misura e' ritenuta giustificata.
@@ -323,6 +654,73 @@ Nei casi di cui al comma 1, l'operatore economico garantisce che siano prese mis
 
 ((
 
+1.
+                    
+                        
+                            Fatto salvo l'articolo 8-bis, se il Ministero dello sviluppo economico giunge a una delle seguenti conclusioni, chiede all'operatore economico interessato di porre fine allo stato di non conformita' in questione: 
+ 
+                        
+                        
+                            a)
+                            
+                                la marcatura CE e' stata apposta in violazione dell'articolo 30 del regolamento (CE) n. 765/2008 o dell'articolo 15 del presente decreto; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                la marcatura CE non e' stata apposta; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                il numero di identificazione dell'organismo notificato e' stato apposto in violazione dell'articolo 15 o non e' stato apposto, pur essendo necessario a norma dell'articolo 15; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                la marcatura e l'etichettatura di cui all'allegato I, punto 3.3, non sono state apposte o sono state apposte in violazione dell'articolo 15 o dell'allegato I, punto 3.3; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                non e' stata compilata la dichiarazione di conformita' UE; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                non e' stata compilata correttamente la dichiarazione di conformita' UE; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                la documentazione tecnica non e' disponibile o e' incompleta; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                le informazioni di cui all'articolo 4-bis, comma 6, o all'articolo 4-quater, comma 3, sono assenti, false o incomplete; 
+
+                            
+                        
+                        
+                            i)
+                            
+                                qualsiasi altra prescrizione amministrativa di cui all'articolo 4-bis o all'articolo 4-quater non e' rispettata.
+
 2. Se la non conformita' di cui al comma 1 permane, il Ministero dello sviluppo economico adotta le adeguate misure per limitare o la messa a disposizione sul mercato dell'attrezzatura o dell'insieme o per garantire che sia richiamato o ritirato dal mercato.))
 
 ((2))
@@ -336,6 +734,41 @@ Nei casi di cui al comma 1, l'operatore economico garantisce che siano prese mis
 
 ((
 
+1.
+                    
+                        
+                            Le attrezzature a pressione di cui all'articolo 3, comma 1, sono classificate per categoria, in base all'allegato II, secondo criteri di pericolo crescente. Ai fini di questa classificazione, i fluidi sono suddivisi in due gruppi, nel modo seguente: 
+ 
+                        
+                        
+                            a)
+                            
+                                gruppo 1, che comprende oltre alle sostanze e miscele contenute nelle attrezzature a pressione la cui temperatura massima ammissibile TS e' superiore al punto di infiammabilita' del fluido, le sostanze e miscele, cosi' come definite all'articolo 2, punti 7 e 8, del regolamento (CE) n. 1272/2008, classificate come pericolose a norma delle seguenti classi di pericolo fisico o per la salute di cui all'allegato I, parti 2 e 3, di tale regolamento: 
+ 1) esplosivi instabili, o esplosivi delle divisioni 1.1, 1.2, 1.3, 1.4 e 1.5; 
+ 2) gas infiammabili, categorie 1 e 2; 
+ 3) gas comburenti, categoria 1; 
+ 4) liquidi infiammabili, categoria 1 e 2; 
+ 5) liquidi infiammabili della categoria 3, quando la temperatura massima ammissibile e' superiore al punto di infiammabilita'; 
+ 6) solidi infiammabili, categorie 1 e 2; 
+ 7) sostanze o miscele auto-reattive dei tipi da A a F; 
+ 8) liquidi piroforici, categoria 1; 
+ 9) solidi piroforici, categoria 1; 
+ 10) sostanze e miscele che, a contatto con l'acqua, liberano gas infiammabili, categorie 1, 2 e 3; 
+ 11) liquidi comburenti, categorie 1, 2 e 3; 
+ 12) solidi comburenti, categorie 1, 2 e 3; 
+ 13) perossidi organici dei tipi da A a F; 
+ 14) tossicita' acuta orale, categorie 1 e 2; 
+ 15) tossicita' acuta per via cutanea, categorie 1 e 2; 
+ 16) tossicita' acuta per inalazione, categorie 1, 2 e 3; 
+ 17) tossicita' specifica per organi bersaglio-esposizione singola, categoria 1. 
+
+                            
+                        
+                        
+                            b)
+                            
+                                gruppo 2, che comprende le sostanze e miscele non elencate alla lettera a).
+
 Allorche' un recipiente e' costituito da vari scomparti, e' classificato nella categoria piu' elevata di ciascuno dei singoli scomparti. Allorche' uno scomparto contiene piu' fluidi, e' classificato in base al fluido che comporta la categoria piu' elevata.
 
 ))
@@ -346,11 +779,68 @@ Allorche' un recipiente e' costituito da vari scomparti, e' classificato nella c
 
 Le procedure di valutazione della conformita' da applicare a un'attrezzatura a pressione sono determinate in base alla categoria stabilita all'articolo 9, in cui e' classificata l'attrezzatura.
 
+2.
+                    
+                        
+                            Le procedure di valutazione della conformita' da applicare per le diverse categorie sono le seguenti: 
+ 
+                        
+                        
+                            a)
+                            
+                                categoria I: modulo A; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                categoria II: modulo A2, modulo D1, modulo E1; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                categoria III: moduli B (tipo di progetto) + D, moduli B (tipo di progetto) + F, moduli B (tipo di produzione) + E, moduli B (tipo di produzione) + C2, modulo H; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                categoria IV: moduli B (tipo di produzione) + D, moduli B (tipo di produzione) + F, modulo G, modulo H1.
+
 Le procedure di valutazione della conformita' sono stabilite all'allegato III. Le attrezzature a pressione devono essere sottoposte a una delle procedure di valutazione della conformita', a scelta del fabbricante, previste per la categoria in cui sono classificate. Il fabbricante puo' parimenti scegliere di applicare una delle procedure previste per una categoria superiore, laddove esista.
 
 Nell'ambito delle procedure per la garanzia della qualita' delle attrezzature a pressione nelle categorie III e IV di cui all'articolo 3, comma 1, lettera a), punto 1), all'articolo 3, comma 1, lettera a), punto 2), primo trattino, e all'articolo 3, comma 1, lettera b), l'organismo notificato, quando svolge visite senza preavviso, preleva un campione dell'attrezzatura dai locali del fabbricante o dai locali di magazzinaggio al fine di compiere o di far compiere la valutazione finale di cui all'allegato I, punto 3.2. A tal fine, il fabbricante informa l'organismo notificato del calendario previsto per la produzione. L'organismo notificato effettua almeno due visite durante il primo anno di fabbricazione. La frequenza delle visite successive e' determinata dall'organismo notificato sulla base dei criteri indicati nel punto 4.4 dei moduli D, E ed H nonche' nel punto 5.4 del modulo H1.
 
 Nel caso di produzione in unico esemplare di recipienti e attrezzature a pressione della categoria III di cui all'articolo 3, comma 1, lettera b), in base alla procedura di cui al modulo H, l'organismo notificato compie o fa compiere la valutazione finale di cui all'allegato I, punto 3.2 dell'allegato I per ciascun singolo esemplare. A tal fine, il fabbricante comunica il calendario di produzione previsto all'organismo notificato.
+
+6.
+                    
+                        
+                            Gli insiemi di cui all'articolo 3, comma 2, sono sottoposti a una procedura globale di valutazione della conformita' che comprende le seguenti valutazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                la valutazione di conformita' di ciascuna delle attrezzature a pressione costitutive dell'insieme e di cui all'articolo 3, comma 1, che non sono ancora state oggetto di una distinta procedura di valutazione della conformita' ne' di una separata marcatura CE; la procedura di valutazione e' determinata in base alla categoria di ciascuna delle attrezzature; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                la valutazione dell'integrazione dei diversi componenti dell'insieme in base ai punti 2.3, 2.8 e 2.9 dell'allegato I che viene determinata in funzione della categoria piu' elevata tra quelle applicabili alle attrezzature interessate, diversa da quella applicabile agli accessori di sicurezza; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                la valutazione della protezione dell'insieme, per evitare che vengano superati i limiti di esercizio ammissibili in base ai punti 2.10 e 3.2.3 dell'allegato I, che deve essere effettuata in funzione della piu' elevata categoria applicabile alle attrezzature da proteggere.
 
 In deroga ai commi 1 e 6 il Ministero dello sviluppo economico puo', ove giustificato, consentire la messa a disposizione sul mercato e la messa in servizio, nel territorio dello Stato italiano, di attrezzature a pressione e di singoli insiemi di cui all'articolo 1, comma 2, per i quali non siano state applicate le procedure previste ai commi 1 e 6 del presente articolo e il cui uso sia nell'interesse della sperimentazione.
 
@@ -398,6 +888,52 @@ L'organismo nazionale di accreditamento rispetta comunque per quanto applicabili
 
 Il Ministero dello sviluppo economico assume piena responsabilita' per i compiti svolti dall'organismo di cui al comma 3.
 
+5.
+                    
+                        
+                            Il Ministero dello sviluppo economico, quale autorita' di notifica, il medesimo Ministero ed il Ministero del lavoro e delle politiche sociali ai fini dell'attivita' di autorizzazione, nonche' l'organismo nazionale di accreditamento, ai fini dell'attivita' di valutazione e controllo, organizzano e gestiscono le relative attivita' nel rispetto delle seguenti prescrizioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                in modo che non sorgano conflitti d'interesse con gli organismi di valutazione della conformita'; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                in modo che sia salvaguardata l'obiettivita' e l'imparzialita' delle attivita'; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                in modo che ogni decisione relativa alla notifica di un organismo di valutazione della conformita' sia presa da persone competenti diverse da quelle che hanno effettuato la valutazione; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                evitando di offrire ed effettuare attivita' eseguite dagli organismi di valutazione della conformita' o servizi di consulenza commerciali o su base concorrenziale; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                salvaguardando la riservatezza delle informazioni ottenute; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                assegnando a tali attivita' un numero di dipendenti competenti sufficiente per l'adeguata esecuzione dei suoi compiti.
+
 6. Il Ministero dello sviluppo economico informa la Commissione europea delle procedure adottate per la valutazione e la notifica degli organismi di valutazione della conformita' e per il controllo degli organismi notificati, delle entita' terze riconosciute e degli ispettorati degli utilizzatori nonche' di qualsiasi modifica delle stesse.))
 
 ((2))
@@ -420,6 +956,64 @@ L'organismo di valutazione della conformita' e' un organismo terzo indipendente 
 L'organismo di valutazione della conformita', i suoi alti dirigenti e il personale addetto alla valutazione della conformita' non sono ne' il progettista, ne' il fabbricante, ne' il fornitore, ne' l'installatore, ne' l'acquirente, ne' il proprietario, ne' l'utilizzatore o il responsabile della manutenzione delle attrezzature a pressione o degli insiemi sottoposti alla sua valutazione, ne' il rappresentante di uno di questi soggetti. Cio' non preclude l'uso delle attrezzature a pressione o degli insiemi valutati che sono necessari per il funzionamento dell'organismo di valutazione della conformita' o l'uso di tali attrezzature per scopi privati. L'organismo di valutazione della conformita', i suoi alti dirigenti e il personale addetto alla valutazione della conformita' non intervengono direttamente nella progettazione, nella fabbricazione o nella costruzione, nella commercializzazione, nell'installazione, nell'utilizzo o nella manutenzione di tali attrezzature a pressione o insiemi, ne' rappresentano i soggetti impegnati in tali attivita'. Non intraprendono alcuna attivita' che possa essere in conflitto con la loro indipendenza di giudizio o la loro integrita' per quanto riguarda le attivita' di valutazione della conformita' per cui sono notificati. Cio' vale in particolare per i servizi di consulenza. L'organismo di valutazione della conformita' garantisce che le attivita' delle sue affiliate o dei suoi subappaltatori non si ripercuotano sulla riservatezza, sull'obiettivita' o sull'imparzialita' delle sue attivita' di valutazione della conformita'.
 
 L'organismo di valutazione della conformita' e il suo personale eseguono le operazioni di valutazione della conformita' con il massimo dell'integrita' professionale e della competenza tecnica richiesta nel settore specifico e sono liberi da qualsivoglia pressione o incentivo, soprattutto di ordine finanziario, che possa influenzare il loro giudizio o i risultati delle loro attivita' di valutazione, in particolare da persone o gruppi di persone interessati ai risultati di tali attivita'.
+
+6.
+                    
+                        
+                            L'organismo di valutazione della conformita' e' in grado di eseguire tutti i compiti di valutazione della conformita' assegnatigli in base all'articolo 10 o all'articolo 11 o all'allegato I, punti 3.1.2 e 3.1.3 e per cui e' stato notificato, indipendentemente dal fatto che siano eseguiti dall'organismo stesso o per suo conto e sotto la sua responsabilita'. In ogni momento, per ogni procedura di valutazione della conformita' e per ogni tipo o categoria di attrezzature a pressione per i quali e' stato notificato, l'organismo di valutazione della conformita' ha a sua disposizione: 
+ 
+                        
+                        
+                            a)
+                            
+                                personale con conoscenze tecniche ed esperienza sufficiente e appropriata per eseguire i compiti di valutazione della conformita'; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                le necessarie descrizioni delle procedure in conformita' delle quali avviene la valutazione della conformita', garantendo la trasparenza e la capacita' di riproduzione di tali procedure; una politica e procedure appropriate che distinguano i compiti che svolge in qualita' di organismo di valutazione della conformita' dalle altre attivita'; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                le procedure per svolgere le attivita' che tengono debitamente conto delle dimensioni di un'impresa, del settore in cui opera, della sua struttura, del grado di complessita' della tecnologia del prodotto in questione e della natura di massa o seriale del processo produttivo.
+
+7.
+                    
+                        
+                            L'organismo di valutazione della conformita' dispone dei mezzi necessari per eseguire in modo appropriato i compiti tecnici e amministrativi connessi alle attivita' di valutazione della conformita' e ha accesso a tutti gli strumenti o impianti occorrenti.
+Il personale responsabile dell'esecuzione dei compiti di valutazione della conformita' dispone di quanto segue: 
+ 
+                        
+                        
+                            a)
+                            
+                                una formazione tecnica e professionale solida che include tutte le attivita' di valutazione della conformita' in relazione alle quali l'organismo di valutazione della conformita' e' stato notificato; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                soddisfacenti conoscenze delle prescrizioni relative alle valutazioni che esegue e un'adeguata autorita' per eseguire tali valutazioni; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                una conoscenza e una comprensione adeguate dei requisiti essenziali di salute e di sicurezza di cui all'allegato I, delle norme armonizzate applicabili e delle disposizioni pertinenti della normativa di armonizzazione dell'Unione e della pertinente normativa nazionale; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                la capacita' di elaborare certificati, registri e rapporti atti a dimostrare che le valutazioni sono state eseguite.
 
 E' garantita l'imparzialita' degli organismi di valutazione della conformita', dei loro alti dirigenti e del personale addetto alla valutazione della conformita'. La remunerazione degli alti dirigenti e del personale addetto alla valutazione della conformita' di un organismo di valutazione della conformita' non dipende dal numero di valutazioni eseguite o dai risultati di tali valutazioni.
 
@@ -478,6 +1072,63 @@ L'ispettorato degli utilizzatori, i suoi alti dirigenti e il personale addetto a
 Essi non intraprendono alcuna attivita' che possa essere in conflitto con la loro indipendenza di giudizio o la loro integrita' per quanto riguarda le attivita' di valutazione della conformita' per cui sono notificati. Cio' vale in particolare per i servizi di consulenza.
 
 Gli ispettorati degli utilizzatori e il loro personale eseguono le operazioni di valutazione della conformita' con il massimo dell'integrita' professionale e della competenza tecnica richiesta nel campo specifico e sono liberi da qualsivoglia pressione e incentivo, soprattutto di ordine finanziario, che possa influenzare il loro giudizio o i risultati delle loro attivita' di valutazione, in particolare da persone o gruppi di persone interessati ai risultati di tali attivita'.
+
+6.
+                    
+                        
+                            L'ispettorato degli utilizzatori e' in grado di eseguire tutti i compiti di valutazione della conformita' assegnatigli in base all'articolo 14 e per cui e' stato notificato, indipendentemente dal fatto che siano eseguiti dall'ispettorato degli utilizzatori stesso o per suo conto e sotto la sua responsabilita'. In ogni momento, per ogni procedura di valutazione della conformita' e per ogni tipo o categoria di attrezzature a pressione per i quali e' stato notificato, l'ispettorato degli utilizzatori ha a sua disposizione: 
+ 
+                        
+                        
+                            a)
+                            
+                                personale con conoscenze tecniche ed esperienza sufficiente e appropriata per eseguire i compiti di valutazione della conformita'; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                le necessarie descrizioni delle procedure in conformita' delle quali avviene la valutazione della conformita', garantendo la trasparenza e la capacita' di riproduzione di tali procedure; una politica e procedure appropriate che distinguono i compiti che svolge in qualita' di ispettorato degli utilizzatori dalle altre attivita'; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                le procedure per svolgere le attivita' che tengono debitamente conto delle dimensioni di un'impresa, del settore in cui opera, della sua struttura, del grado di complessita' della tecnologia del prodotto in questione e della natura di massa o seriale del processo produttivo.
+
+7.
+                    
+                        
+                            L'ispettorato degli utilizzatori dispone dei mezzi necessari per eseguire in modo appropriato i compiti tecnici e amministrativi connessi alle attivita' di valutazione della conformita' e ha accesso a tutti gli strumenti e impianti occorrenti. Il personale responsabile dell'esecuzione dei compiti di valutazione della conformita' dispone di quanto segue: 
+ 
+                        
+                        
+                            a)
+                            
+                                una formazione tecnica e professionale solida che include tutte le attivita' di valutazione della conformita' in relazione alle quali l'organismo di valutazione della conformita' e' stato notificato; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                soddisfacenti conoscenze delle prescrizioni relative alle valutazioni che esegue e un'adeguata autorita' per eseguire tali valutazioni; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                una conoscenza e una comprensione adeguate dei requisiti essenziali di sicurezza di cui all'allegato I, delle norme armonizzate applicabili e delle disposizioni pertinenti della normativa di armonizzazione dell'Unione e delle normative nazionali; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                la capacita' di elaborare certificati, registri e rapporti atti a dimostrare che le valutazioni sono state eseguite.
 
 E' garantita l'imparzialita' degli ispettorati degli utilizzatori, dei loro alti dirigenti e del personale addetto alla valutazione della conformita'. Gli ispettorati degli utilizzatori non possono svolgere attivita' che possano pregiudicarne l'indipendenza di giudizio e l'integrita' in relazione alle loro funzioni ispettive.
 La remunerazione degli alti dirigenti e del personale addetto alla valutazione della conformita' di un ispettorato degli utilizzatori non dipende dal numero di valutazioni eseguite o dai risultati di tali valutazioni.
@@ -571,6 +1222,38 @@ Qualora non siano prese misure correttive o non producano il risultato richiesto
 
 ((
 
+1.
+                    
+                        
+                            Gli organismi notificati, le entita' terze riconosciute e gli ispettorati degli utilizzatori informano il Ministero dello sviluppo economico e l'organismo nazionale di accreditamento: 
+ 
+                        
+                        
+                            a)
+                            
+                                di qualunque rifiuto, limitazione, sospensione o ritiro di un certificato; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                di qualunque circostanza che possa influire sull'ambito o sulle condizioni della notifica; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                di eventuali richieste di informazioni che abbiano ricevuto dalle autorita' di vigilanza del mercato in relazione alle attivita' di valutazione della conformita'; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                su richiesta, delle attivita' di valutazione della conformita' eseguite nell'ambito della loro notifica e di qualsiasi altra attivita', incluse quelle transfrontaliere e di subappalto.
+
 Gli organismi notificati, le entita' terze riconosciute e gli ispettorati degli utilizzatori forniscono agli altri organismi notificati a norma della direttiva attuata con il presente decreto, le cui attivita' di valutazione della conformita' sono simili o coprono le stesse attrezzature a pressione, informazioni pertinenti sulle questioni relative ai risultati negativi e, su richiesta, positivi delle valutazioni della conformita'.
 
 3. Gli organismi notificati partecipano, direttamente o mediante rappresentanti designati, al sistema di cooperazione e coordinamento tra organismi notificati istituito dalla Commissione europea a norma della direttiva attuata con il presente decreto ed ai lavori del relativo gruppo settoriale o dei relativi gruppi settoriali di organismi notificati.))
@@ -630,6 +1313,38 @@ Nell'esercizio delle competenze attribuitegli dal presente decreto, il Ministero
 
 ## Art. 18. — Sanzioni
 
+1.
+                    
+                        
+                            Il fabbricante o il suo mandatario che produce e commercializza o cede a qualsiasi titolo attrezzature a pressione o insiemi non conformi ai requisiti essenziali di sicurezza di cui all'allegato I ovvero il cui tipo non sia stato sottoposto alle valutazioni di conformita' previste dagli articoli 10, comma 3, e 14 e relative alle diverse categorie e' punito: 
+
+                        
+                        
+                            a)
+                            
+                                se trattasi di attrezzature o insiemi di categoria I, con la sanzione amministrativa del pagamento di una somma da ((euro ottomila)) a ((euro quarantottomila)); ((2))
+                                
+                            
+                        
+                        
+                            b)
+                            
+                                se trattasi di attrezzature o insiemi di categoria II, con l'arresto sino a sei mesi o con l'ammenda da ((euro diecimila)) a ((euro sedicimila)); ((2))
+                                
+                            
+                        
+                        
+                            c)
+                            
+                                se trattasi di attrezzature o insiemi di categoria III, con l'arresto da sei mesi a un anno o con l'ammenda da ((euro diecimila)) a ((euro sedicimila)); ((2))
+                                
+                            
+                        
+                        
+                            d)
+                            
+                                se trattasi di attrezzature o insiemi di categoria IV, con l'arresto da nove mesi a tre anni e con l'ammenda da ((euro diecimila)) a ((euro sedicimila)). ((2))
+
 Le pene di cui al comma 1 sono aumentate da un terzo alla meta' se le attrezzature o gli insiemi appaiono muniti della marcatura CE di cui all'articolo 15 o della dichiarazione CE di conformita' di cui all'allegato VII.
 
 Chi non osserva i provvedimenti legalmente adottati dagli organi preposti al controllo del rispetto delle norme di cui al presente decreto e' punito con la sanzione amministrativa del pagamento di una somma da ((euro ottomila)) a ((euro quarantottomila)). ((2))
@@ -644,6 +1359,35 @@ Per l'applicazione delle sanzioni amministrative previste dal presente articolo 
  Il D.Lgs. 15 febbraio 2016, n. 26 ha disposto (con l'art. 3, comma 1) che le presenti modifiche si applicano a decorrere dal 19 luglio 2016.
 
 ## Art. 19. — Disposizioni per la messa in servizio e l'utilizzazione delle attrezzature a pressione e degli insiemi
+
+1.
+                    
+                        
+                            Con uno o piu' decreti del Ministro dello sviluppo economico, di concerto con il Ministro del lavoro e delle politiche sociali sentito il Ministro della salute, sono adottate prescrizioni volte ad assicurare la permanenza dei requisiti di sicurezza in occasione dell'utilizzazione delle attrezzature a pressione e degli insiemi, compresi quelli in servizio alla data di entrata in vigore del presente decreto, e di adeguare a tale scopo le vigenti prescrizioni tecniche in materia di utilizzazione. In particolare sono individuate le attrezzature a pressione e gli insiemi per i quali e' obbligatoria la verifica di primo o nuovo impianto e sono adottate prescrizioni in ordine all'installazione, alla messa in servizio, alla manutenzione, alla riparazione, nonche' alla sottoposizione delle attrezze degli insiemi a una o piu' delle procedure di seguito elencate: (2) 
+
+                        
+                        
+                            a)
+                            
+                                dichiarazione di messa in servizio; 
+                            
+                        
+                        
+                            b)
+                            
+                                controllo di messa in servizio; 
+                            
+                        
+                        
+                            c)
+                            
+                                riqualificazione periodica; 
+                            
+                        
+                        
+                            d)
+                            
+                                controllo dopo riparazione.
 
 Con i decreti di cui al comma 1, d'intesa con il Ministero della difesa, sono individuate peculiari procedure di controllo per le attrezzature e gli insiemi in uso alle amministrazioni preposte alla tutela della sicurezza ed alla difesa dello Stato.
 

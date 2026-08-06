@@ -8,8 +8,8 @@ codice_redazionale: 096G0671
 vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:23Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -31,9 +31,68 @@ Per il personale iscritto al Fondo successivamente al 31 dicembre 1995 il contri
 
 A decorrere dalla data di entrata in vigore del presente decreto l'aliquota contributiva dovuta per il personale iscritto al Fondo alla medesima data e' stabilita nel 26,43 per cento delle retribuzioni imponibili, di cui il 6,647 per cento a carico dei lavoratori. A decorrere dalla medesima data sono destinate al Fondo stesso, le quote di contribuzione attualmente riguardanti il finanziamento delle prestazioni temporanee a carico della gestione di cui all'articolo 24 della legge 9 marzo 1989, n. 88, secondo le modalita' di cui al decreto del Ministro del lavoro e della previdenza sociale, di concerto con il Ministro del tesoro 21 febbraio 1996, pubblicato nella Gazzetta Ufficiale n. 83 del 9 aprile 1996.
 
+4.
+                    
+                        
+                            Le aliquote contributive dovute per il personale iscritto al Fondo alla data del 31 dicembre 1995 sono fissate, fino a concorrenza dell'aliquota in vigore nell'assicurazione generale obbligatoria, con le seguenti modalita':
+ 
+                        
+                        
+                            a)
+                            
+                                dal 1 gennaio 1998 l'aliquota a carico dei datori di lavoro e' stabilita nella misura del 20,583 per cento e quella a carico dei lavoratori nella misura del 7,047 per cento;
+
+                            
+                        
+                        
+                            b)
+                            
+                                dal 1 gennaio 1999 l'aliquota a carico dei datori di lavoro e' stabilita nella misura del 21,383 per cento e quella a carico dei lavoratori nella misura del 7,447 per cento;
+
+                            
+                        
+                        
+                            c)
+                            
+                                dal 1 gennaio 2000 l'aliquota a carico dei datori di lavoro e' stabilita nella misura del 22,183 per cento e quella a carico dei lavoratori nella misura del 7,847 per cento;
+
+                            
+                        
+                        
+                            d)
+                            
+                                dal 1 gennaio 2001 l'aliquota a carico dei datori di lavoro e' stabilita nella misura del 22,983 per cento e quella a carico dei lavoratori nella misura dell'8,247 per cento;
+
+                            
+                        
+                        
+                            e)
+                            
+                                dal 1 gennaio 2002 l'aliquota contributiva a carico dei datori di lavoro e quella a carico dei lavoratori sono pari a quelle in vigore presso l'assicurazione generale obbligatoria.
+
 Per il personale di cui al comma 1 trovano applicazione le disposizioni di cui all'articolo 2, comma 18, della legge 8 agosto 1995, n. 335.
 
 La disposizione di cui all'articolo 7, comma 3, della legge 4 dicembre 1956, n. 1450, e' abrogata. Il contributo al Fondo dovra' essere versato con le modalita', nei termini e con la periodicita' vigenti nel Fondo pensioni lavoratori dipendenti.
+
+7.
+                    
+                        
+                            A favore del personale iscritto al Fondo, sono estese, per periodi successivi al 31 dicembre 1996, ai fini delle prestazioni pensionistiche:
+ 
+                        
+                        
+                            a)
+                            
+                                le disposizioni contenute nell'articolo 5 del decreto del Presidente della Repubblica 26 aprile 1957, n. 818, e successive modificazioni e integrazioni, nell'articolo 7 del decreto-legge 12 settembre 1983, n. 463, convertito, con modificazioni, dalla legge 11 novembre 1983, n. 638, e nell'articolo 8 della legge 23 aprile 1981, n. 155, e successive modificazioni, in materia di accreditamento dei contributi obbligatori e figurativi;
+
+                            
+                        
+                        
+                            b)
+                            
+                                tutte le norme che disciplinano la contribuzione figurativa in caso di malattia e nei casi in cui vengano percepite le prestazioni per disoccupazione e per integrazioni salariali, con le stesse modalita' e limitazioni previste per gli iscritti al Fondo pensioni lavoratori dipendenti.
+ AVVERTENZA:
+ Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, comma 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con D.P.R. 28 dicembre 1985, n. 1092, al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
 
 ## Art. 2. — Regime pensionistico degli iscritti al Fondo di previdenza per gli
  addetti ai pubblici servizi di telefonia in concessione.
@@ -52,6 +111,24 @@ Per i lavoratori iscritti al Fondo, successivamente alla data del 31 dicembre 19
  delle prestazioni pensionistiche
 
 Al fine della determinazione dell'ammontare della pensione, l'anzianita' contributiva massima computabile dei lavoratori di cui all'articolo 2, commi 1 e 2, e' elevata a quaranta anni.
+
+2.
+                    
+                        
+                            L'importo complessivo del trattamento pensionistico liquidato esclusivamente in base al metodo retributivo non puo' in ogni caso superare il piu' favorevole fra i seguenti importi:
+ 
+                        
+                        
+                            a)
+                            
+                                80 per cento della retribuzione pensionabile determinata secondo le norme in vigore nell'assicurazione generale obbligatoria per i lavoratori dipendenti;
+
+                            
+                        
+                        
+                            b)
+                            
+                                90 per cento della retribuzione pensionabile considerata ai fini del calcolo della quota di pensione relativa alle anzianita' contributive maturate nel Fondo, anteriormente al 1 gennaio 1996.
 
 Restano confermate le disposizioni di cui all'articolo 1, comma 3, del decreto legislativo 30 dicembre 1992, n. 503, in conseguenza dell'opzione esercitata dall'iscritto ai sensi dell'articolo 6 del decreto-legge 22 dicembre 1981, n. 791, convertito, con modificazioni, dalla legge 26 febbraio 1982, n. 54, nonche' dell'articolo 6 della legge 29 dicembre 1990, n. 407.
 

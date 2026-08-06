@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
 vigenza_date: 2008-03-30
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:39Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -40,6 +40,23 @@ Il Fondo gode di autonoma gestione finanziaria e patrimoniale, ai sensi dell'art
 
 ## Art. 2. — Finalita' del Fondo
 
+1.
+                    
+                        
+                            Il Fondo ha lo scopo di attuare interventi nei confronti dei lavoratori dipendenti da tutti i datori di lavoro, ivi compresi i datori di lavoro facenti parte di gruppi creditizi del credito cooperativo, cui si applicano i contratti collettivi nazionali di categoria per le Banche di credito cooperativo/Casse rurali ed artigiane, e i relativi contratti complementari, che nell'ambito e in connessione con processi di ristrutturazione o di situazioni di crisi ai sensi dell'articolo 2, comma 28, legge 23 dicembre 1996, n. 662, o di riorganizzazione aziendale o di riduzione o trasformazione di attivita' o di lavoro:
+
+                        
+                        
+                            a)
+                            
+                                favoriscano il mutamento e il rinnovamento delle professionalita';
+                            
+                        
+                        
+                            b)
+                            
+                                realizzino politiche attive di sostegno del reddito e dell'occupazione.
+
 ## Art. 3. — Amministrazione del Fondo
 
 Il Fondo e' gestito da un "Comitato amministratore" composto da cinque esperti designati da Federcasse e cinque esperti designati dalle organizzazioni sindacali stipulanti il contratto collettivo nazionale del 28 febbraio 1998 con cui e' stata convenuta l'istituzione del Fondo, in possesso di specifica competenza e pluriennale esperienza in materia di lavoro e occupazione, nominati con decreto del Ministro del lavoro e della previdenza sociale, nonche' da due rappresentanti con qualifica non inferiore a dirigente, rispettivamente del Ministero del lavoro e della previdenza sociale e del Ministero del tesoro del bilancio e della programmazione economica. Per la validita' delle sedute e' necessaria la presenza di almeno sette componenti del comitato, aventi diritto al voto.
@@ -54,7 +71,92 @@ Ai predetti fini le organizzazioni sindacali di cui al comma 1 provvedono ad eff
 
 ## Art. 4. — Compiti del comitato amministratore del Fondo
 
+1.
+                    
+                        
+                            Il comitato amministratore deve:
+
+                        
+                        
+                            a)
+                            
+                                predisporre, sulla base dei criteri stabiliti dal consiglio di indirizzo e vigilanza dell'Istituto nazionale della previdenza sociale i bilanci annuali della gestione, preventivo e consuntivo, corredati da una relazione, e deliberare sui bilanci tecnici relativi alla gestione stessa;
+                            
+                        
+                        
+                            b)
+                            
+                                deliberare gli interventi in conformita' alle regole di precedenza e turnazione fra i datori di lavoro, di cui all'articolo 9;
+                            
+                        
+                        
+                            c)
+                            
+                                deliberare, sentite le parti firmatarie degli accordi del settore del credito cooperativo, la misura del contributo addizionale di cui all'articolo 6, comma 1, lettera b), nonche' la misura, espressa in termini percentuali, del contributo straordinario di cui all'articolo 6, comma 3;
+                            
+                        
+                        
+                            d)
+                            
+                                deliberare le sospensioni ai sensi dell'articolo 6, comma 5;
+                            
+                        
+                        
+                            e)
+                            
+                                vigilare sulla affluenza dei contributi, sulla erogazione delle prestazioni nonche' sull'andamento della gestione, studiando e proponendo i provvedimenti necessari per il miglior funzionamento del Fondo, nel rispetto del criterio di massima economicita';
+                            
+                        
+                        
+                            f)
+                            
+                                decidere, in unica istanza, sui ricorsi in materia di contributi e prestazioni;
+                            
+                        
+                        
+                            g)
+                            
+                                assolvere ogni altro compito che sia ad esso demandato da leggi o regolamenti, o che sia ad esso affidato dal consiglio di amministrazione dell'Istituto nazionale della previdenza sociale;
+                            
+                        
+                        
+                            h)
+                            
+                                deliberare le revoche degli assegni straordinari nei casi di non cumulabilita' di cui all'articolo 11;
+                            
+                        
+                        
+                            i)
+                            
+                                fare proposte, alle parti stipulanti il contratto collettivo nazionale del 28 febbraio 1998 con cui e' stata convenuta l'istituzione del Fondo, per l'incremento della contribuzione ordinaria di cui all'articolo 6, comma 1, lettera a), qualora le prestazioni richieste, non risolvibili con criteri di precedenza e turnazione, si inquadrino in progetti, su base territoriale, promossi dalle federazioni locali o dalla Federazione italiana e riconosciuti di valenza strategica in ordine agli obiettivi del credito cooperativo;
+                            
+                        
+                        
+                            l)
+                            
+                                determinare i criteri e le modalita' operativi per il versamento del contributo straordinario dovuto in attuazione dell'intervento previsto all'articolo 6, comma 4.
+
 ## Art. 5. — Prestazioni
+
+1.
+                    
+                        
+                            Il Fondo provvede, nell'ambito dei processi di cui all'articolo 2, comma 1:
+ 
+                        
+                        
+                            a)
+                            
+                                in via ordinaria:
+ 1) a contribuire al finanziamento di programmi formativi di riconversione o riqualificazione professionale, a livello aziendale, provinciale, regionale o interregionale, anche in concorso con gli appositi fondi nazionali, comunitari o della cooperazione;
+ 2) al finanziamento di specifici trattamenti a favore dei lavoratori interessati da riduzioni dell'orario di lavoro o da sospensione temporanea dell'attivita' lavorativa anche in concorso con gli appositi strumenti di sostegno previsti dalla legislazione vigente;
+
+                            
+                        
+                        
+                            b)
+                            
+                                in via straordinaria: all'erogazione di assegni straordinari per il sostegno al reddito, in forma rateale, ed al versamento della contribuzione correlata di cui all'articolo 2, comma 28, legge n. 662 del 1996, riconosciuti ai lavoratori ammessi a fruirne nel quadro dei processi di agevolazioni all'esodo. Qualora l'erogazione avvenga, su richiesta del lavoratore, in unica soluzione, l'assegno straordinario e' pari ad un importo corrispondente al 60% del valore attuale, calcolato secondo il tasso ufficiale di sconto vigente alla data del 28 febbraio 1998, di quanto sarebbe spettato, dedotta la contribuzione correlata, che pertanto non verra' versata, se detta erogazione fosse avvenuta in forma rateale.
 
 ((
 
@@ -69,6 +171,23 @@ Ai fini dell'applicazione dei criteri di cui al comma 3, si deve tenere conto de
 Il Fondo versa, altresi', la contribuzione di cui al precedente comma 1, lettera b), dovuta alla competente gestione assicurativa obbligatoria.
 
 ## Art. 6. — Finanziamento
+
+1.
+                    
+                        
+                            Per le prestazioni di cui all'articolo 5, comma 1, lettera a), e' dovuto al Fondo:
+
+                        
+                        
+                            a)
+                            
+                                un contributo ordinario dello 0,50%, di cui lo 0,375% a carico del datore di lavoro e lo 0,125% a carico dei lavoratori, calcolato sulla retribuzione imponibile ai fini previdenziali di tutti i lavoratori dipendenti con contratto a tempo indeterminato. Tale contributo puo' essere incrementato, dalle parti stipulanti il contratto collettivo nazionale del 28 febbraio 1998 con cui e' stata convenuta l'istituzione del Fondo, qualora le prestazioni richieste, non risolvibili con criteri di precedenza e turnazione, si inquadrino in progetti, su base territoriale, promossi dalle federazioni locali o dalla federazione italiana e riconosciuti di valenza strategica in ordine agli obiettivi del credito cooperativo;
+                            
+                        
+                        
+                            b)
+                            
+                                un contributo addizionale, a carico del datore di lavoro, in caso di fruizione delle prestazioni di cui all'articolo 5, comma 1, lettera a), punto 2), nella misura non superiore all'1,50%, calcolato sulla retribuzione imponibile di cui alla lettera a), con l'applicazione di un coefficiente correttivo pari al rapporto tra le retribuzioni parzialmente o totalmente perdute dai dipendenti che fruiscono delle prestazioni, e le retribuzioni che restano in carico al datore di lavoro.
 
 Eventuali variazioni della misura del contributo ordinario dello 0,50% sono ripartite tra datore di lavoro e lavoratori in ragione degli stessi criteri di ripartizione di cui al comma 1, lettera a).
 
@@ -91,6 +210,29 @@ Alle operazioni di liquidazione provvede il comitato amministratore del Fondo, c
 Qualora la gestione di liquidazione non risulti chiusa nel termine di cui al comma 11, la stessa e' assunta dal Ministero del tesoro, del bilancio e della programmazione economica - Dipartimento della Ragioneria generale dello Stato - Ispettorato generale per la liquidazione degli enti disciolti. Il comitato amministratore del fondo cessa dalle sue funzioni il trentesimo giorno successivo alla data di assunzione della gestione da parte del medesimo ispettorato generale. Entro tale data il comitato amministratore deve consegnare all'ispettorato generale per la liquidazione degli enti disciolti, sulla base di appositi inventari, le attivita' esistenti, i libri contabili, i bilanci e gli altri documenti del Fondo, nonche' il rendiconto relativo al periodo successivo all'ultimo bilancio approvato.
 
 ## Art. 7. — Accesso alle prestazioni
+
+1.
+                    
+                        
+                            L'accesso alle prestazioni di cui all'articolo 5 e' subordinato:
+
+                        
+                        
+                            a)
+                            
+                                per le prestazioni di cui all'articolo 5, comma 1, lettera a), punto 1), all'espletamento delle procedure contrattuali previste per i processi che modificano le condizioni di lavoro del personale;
+                            
+                        
+                        
+                            b)
+                            
+                                per le prestazioni di cui all'articolo 5, comma 1, lettera a), punto 2), all'espletamento delle procedure contrattuali previste per i processi che modificano le condizioni di lavoro del personale, ovvero determinano la riduzione dei livelli occupazionali, nonche' di quelle legislative laddove espressamente previste;
+                            
+                        
+                        
+                            c)
+                            
+                                per le prestazioni di cui all'articolo 5, comma 1, lettera b), all'espletamento delle procedure contrattuali preventive e di legge previste per i processi che determinano la riduzione dei livelli occupazionali;
 
 L'accesso alle prestazioni di cui all'articolo 5 e' altresi' subordinato alla condizione che le procedure sindacali di cui al comma 1 si concludano con accordo aziendale, nell'ambito del quale siano stati individuati, per i casi di cui al comma 1, lettere b) e c), una pluralita' di strumenti secondo quanto indicato dalle normative vigenti in materia di processi che modificano le condizioni di lavoro del personale, ovvero determinano la riduzione dei livelli occupazionali.
 
@@ -139,6 +281,27 @@ Per l'accesso alle prestazioni ordinarie di cui all'articolo 5, comma 1, lettera
 La retribuzione mensile dell'interessato utile per la determinazione dell'assegno ordinario e della paga oraria di cui al comma 1, e' quella individuata sulla base dell'ultima mensilita' percepita dall'interessato con il criterio specifico di un trecentosessantesimo della retribuzione annua per ogni giornata.
 
 Per i lavoratori a tempo parziale l'importo dell'assegno ordinario viene determinato proporzionando lo stesso alla minore durata della prestazione lavorativa.
+
+9.
+                    
+                        
+                            Nei casi di cui all'articolo 5, comma 1, lettera b), il Fondo eroga un assegno straordinario di sostegno al reddito il cui valore e' pari:
+
+                        
+                        
+                            a)
+                            
+                                per i lavoratori che possono conseguire la pensione di anzianita' prima di quella di vecchiaia, alla somma dei seguenti importi:
+ 1) l'importo netto del trattamento pensionistico spettante nell'assicurazione generale obbligatoria con la maggiorazione dell'anzianita' contributiva mancante per il diritto alla pensione di anzianita';
+ 2) l'importo delle ritenute di legge sull'assegno straordinario;
+                            
+                        
+                        
+                            b)
+                            
+                                per i lavoratori che possono conseguire la pensione di vecchiaia prima di quella di anzianita', alla somma dei seguenti importi:
+ 1) l'importo netto del trattamento pensionistico spettante nell'assicurazione generale obbligatoria con la maggiorazione dell'anzianita' contributiva mancante per il diritto alla pensione di vecchiaia;
+ 2) l'importo delle ritenute di legge sull'assegno straordinario.
 
 Nei casi di cui al comma 9, il versamento della contribuzione correlata e' effettuato per il periodo compreso tra la cessazione del rapporto di lavoro e la maturazione dei requisiti minimi richiesti per il diritto a pensione di anzianita' o vecchiaia; l'assegno straordinario, esclusa pertanto la predetta contribuzione correlata, e' corrisposto sino alla fine del mese antecedente a quello previsto per la decorrenza della pensione.
 

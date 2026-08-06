@@ -9,7 +9,7 @@ vigente: true
 source: normattiva-opendata
 collection: Atti di recepimento direttive UE
 zip_date: 2026-07-30
-fetched_at: 2026-08-02T09:40:51Z
+fetched_at: 2026-07-30
 ---
 
 DECRETO LEGISLATIVO
@@ -26,7 +26,43 @@ Sulla proposta del Presidente del Consiglio dei Ministri e del Ministro della sa
 
 ## Art. 1.
 
+1.
+                    
+                        
+                            All'articolo 1 del decreto legislativo 3 febbraio 1997, n. 52, sono apportate le seguenti modificazioni:
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 1 dopo la parola: "preparati" sono inserite le seguenti: "allorche' tali sostanze siano immesse sul mercato comunitario";
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 2, lettera h), il secondo periodo e' soppresso.
+
 ## Art. 2.
+
+1.
+                    
+                        
+                            All'articolo 2 del decreto legislativo 3 febbraio 1997, n. 52, sono apportate le seguenti modificazioni:
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 1, lettera c), dopo la parola: "sostanza" e dopo la parola: "monomeriche" e' inserito il seguente segno di interpunzione: ",";
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 2, lettera c), le parole: "sono infiammabili" sono sostituite dalle seguenti: "si infiammano".
 
 ## Art. 3.
 
@@ -34,13 +70,69 @@ All'articolo 4, comma 3, del decreto legislativo 3 febbraio 1997, n. 52, la paro
 
 ## Art. 4.
 
+1.
+                    
+                        
+                            All'articolo 5, comma 1, del decreto legislativo 3 febbraio 1997, n. 52, sono apportate le seguenti modificazioni:
+ 
+                        
+                        
+                            a)
+                            
+                                dopo le parole: "all'articolo 13", le parole: "comma 5" sono soppresse;
+
+                            
+                        
+                        
+                            b)
+                            
+                                la lettera a) e' sostituita dalla seguente:
+ " a) sono state notificate all'unita' di notifica ai sensi del presente decreto;".
+
 ## Art. 5.
+
+1.
+                    
+                        
+                            All'articolo 6, del decreto legislativo 3 febbraio 1997, n. 52, sono apportate le seguenti modificazioni:
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 2, dopo la parola: "soggetti", sono inserite le seguenti: "di cui al comma 1";
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 3, le parole: "dal notificante" sono sostituite dalle seguenti: "dal fabbricante, dall'importatore".
 
 ## Art. 6.
 
 All'articolo 11, comma 1, del decreto legislativo 3 febbraio 1997, n. 52, le parole: "ciascuno dei" sono sostituite dalle seguenti: "tutti i".
 
 ## Art. 7.
+
+1.
+                    
+                        
+                            All'articolo 13, del decreto legislativo 3 febbraio 1997, n. 52, sono apportate le seguenti modificazioni:
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 1, lettera e), e' aggiunto, in fine, il seguente periodo: "Tali sostanze sono quelle elencate in allegato A; con decreto del Ministro della sanita' si provvede ad integrare tale allegato in conformita' alle integrazioni disposte in sede comunitaria";
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 2, la lettera a) e' sostituita dalla seguente:
+ " a) i polimeri, ad eccezione di quelli contenenti 2 per cento o piu', in forma legata, di una sostanza non inclusa nell'EINECS;".
 
 ## Art. 8.
 
@@ -63,4 +155,22 @@ Alla tabella B, parte B, punto 4.2, le parole: "Tabella I" sono sostituite dalle
 All'allegato A al decreto legislativo 3 febbraio 1997, n. 52, nella parentesi, le parole: "articolo 1" sono sostituite dalle seguenti: "articolo 13".
 
 All'allegato II del decreto legislativo 3 febbraio 1997, n. 52, nel titolo, la parola: "rischio" e' sostituita dalla seguente "pericolo".
+
+3.
+                    
+                        
+                            All'allegato VII, parte D, del decreto legislativo 3 febbraio 1997, n. 52, sono apportate le seguenti modificazioni:
+ 
+                        
+                        
+                            a)
+                            
+                                alla lettera C, terzo capoverso, le parole: "paragrafo 1 della direttiva 67/548/CEE" sono sostituite dalle seguenti: "comma 1";
+
+                            
+                        
+                        
+                            b)
+                            
+                                alla lettera C.1.1, punto 3.6.1, primo capoverso, le parole: "paragrafo 1 della direttiva 67/548/CEE" sono sostituite dalle seguenti: "comma 1".
 

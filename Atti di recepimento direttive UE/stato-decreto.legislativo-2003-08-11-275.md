@@ -9,7 +9,7 @@ vigente: true
 source: normattiva-opendata
 collection: Atti di recepimento direttive UE
 zip_date: 2026-07-30
-fetched_at: 2026-08-02T09:40:47Z
+fetched_at: 2026-07-30
 ---
 
 DECRETO LEGISLATIVO
@@ -30,6 +30,37 @@ L'espressione: «Ministero dell'ambiente», ovunque ricorra nel decreto legislat
 L'espressione: «Ministero del tesoro», ovunque ricorra nel decreto legislativo 3 agosto 1998, n. 314, e' sostituita dalla seguente: Ministero dell'economia e delle finanze.
 
 ## Art. 2. — Modifiche all'articolo 2 del decreto legislativo 3 agosto 1998, n. 314
+
+1.
+                    
+                        
+                            All'articolo 2, comma 1, del decreto legislativo 3 agosto 1998, n. 314, sono apportate le seguenti modifiche:
+ 
+                        
+                        
+                            a)
+                            
+                                la lettera a) e' sostituita dalla seguente:
+ «a) "convenzioni internazionali": le convenzioni di seguito indicate, unitamente ai protocolli, ai successivi emendamenti e relativi codici obbligatori, in vigore al momento dell'applicazione delle disposizioni che rinviano alle suddette convenzioni:
+ 1) la Convenzione internazionale per la salvaguardia della vita umana in mare (SOLAS) firmata a Londra nel 1974 e resa esecutiva con legge 23 maggio 1980, n. 313, e con legge 4 giugno 1982, n. 488, che ha approvato il successivo protocollo del 17 febbraio 1978;
+ 2) la Convenzione internazionale per la prevenzione dell'inquinamento causato da navi (MARPOL 73/78) firmata a Londra nel 1973, emendata con il protocollo del 1978 e ratificata con legge 29 settembre 1980, n. 662, e, per quanto riguarda il protocollo, con legge 4 giugno 1982, n. 438, entrata in vigore in Italia il 2 ottobre 1983;
+ 3) la Convenzione internazionale del 1966 sulla linea di carico (LL66), resa esecutiva in Italia con decreto del Presidente della Repubblica 8 aprile 1968, n. 777, entrato in vigore il 21 luglio 1968, e successivi emendamenti del 1971 e del 1979 resi esecutivi in Italia con decreto del Presidente della Repubblica 8 aprile 1984, n. 968;»;
+
+                            
+                        
+                        
+                            b)
+                            
+                                la lettera h) e' sostituita dalla seguente:
+ «h) "certificato di classe": il documento rilasciato da una societa' di classificazione che certifica l'idoneita' strutturale e meccanica delle navi a determinati impieghi o servizi secondo le norme ed i regolamenti da essa fissati e resi pubblici;»;
+
+                            
+                        
+                        
+                            c)
+                            
+                                la lettera i) e' sostituita dalla seguente:
+ «i) "certificato di sicurezza radio per navi da carico": il certificato previsto dai regolamenti relativi alle stazioni radioelettriche di bordo della citata convenzione sulla salvaguardia della vita umana in mare (SOLAS), adottati dall'Organizzazione marittima internazionale (OMI).».
 
 ## Art. 3. — Sostituzione dell'articolo 3 del decreto legislativo 3 agosto 1998, n. 314
 
@@ -70,6 +101,28 @@ L'articolo 6 del decreto legislativo 3 agosto 1998, n. 314, e' sostituito dal se
  5. Dall'attuazione del presente articolo non devono derivare oneri aggiuntivi per il bilancio dello Stato.».
 
 ## Art. 6. — Modifiche all'articolo 7 del decreto legislativo 3 agosto 1998, n. 314
+
+1.
+                    
+                        
+                            All'articolo 7, comma 1, del decreto legislativo 3 agosto 1998, n. 314, sono apportate le seguenti modifiche:
+ 
+                        
+                        
+                            a)
+                            
+                                la lettera c) e' sostituita dalla seguente:
+ «c) trasmettere trimestralmente all'amministrazione tutte le informazioni relative ai trasferimenti, alle modifiche, alle sospensioni o alle revoche di classe;»;
+
+                            
+                        
+                        
+                            b)
+                            
+                                dopo la lettera f), sono aggiunte le seguenti:
+ «f-bis) comunicare alla Commissione europea tutte le informazioni pertinenti in merito alla flotta iscritta nella sua classe, ai trasferimenti, alle modifiche, alle sospensioni o alle revoche di classe, indipendentemente dalla bandiera battuta dalle navi;
+ f-ter) comunicare al sistema di informazione Sirenac per le ispezioni previste dal controllo dello Stato di approdo e pubblicare sul proprio sito web le seguenti informazioni relative alla propria flotta classificata: trasferimenti, modifiche, sospensioni e revoche della classe, comprese informazioni sulle visite programmate ma non effettuate; mancata applicazione delle raccomandazioni, prescrizioni di classe, condizioni o restrizioni operative relative alle navi della loro classe, indipendentemente dalla bandiera battuta dalle navi;
+ f-quater) mettere annualmente a disposizione del Comitato per la sicurezza marittima e la prevenzione dell'inquinamento provocato dalle navi (COSS), istituito dall'articolo 3 del regolamento (CE) n. 2099/2002, i risultati dell'esame della gestione del suo sistema di qualita'.».
 
 ## Art. 7. — Sostituzione dell'articolo 8 del decreto legislativo 3 agosto 1998, n. 314
 

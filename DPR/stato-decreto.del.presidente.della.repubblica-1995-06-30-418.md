@@ -8,8 +8,8 @@ codice_redazionale: 095G0452
 vigente: true
 source: normattiva-opendata
 collection: DPR
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:47:56Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -180,6 +180,45 @@ Il responsabile dell'attivita' deve provvedere affinche' nel corso della gestion
  non siano superati gli affollamenti massimi previsti per gli ambienti destinati a sale di consultazione e lettura; 
  siano mantenute sgombre da ogni ostacolo ed agibili le vie di esodo; 
  siano rispettate le disposizioni di esercizio in occasione di manutenzioni e risistemazioni.
+
+3.
+                        
+                            
+                                Il responsabile tecnico addetto alla sicurezza deve intervenire affinche': 
+ 
+                            
+                            
+                                a)
+                                
+                                    siano mantenuti efficienti i mezzi anticendio e siano eseguite con tempestivita' le manutenzioni o sostituzioni necessarie. Siano altresi' condotte periodicamente verifiche degli stessi mezzi con cadenza non superiore a sei mesi ed annotate nel registro dei controlli di cui al punto 4; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    siano mantenuti costantemente in buono stato tutti gli impianti presenti nell'edificio. Gli schemi aggiornati di detti impianti nonche' di tutte le condotte, fogne e opere idrauliche, strettamente connesse al funzionamento dell'edificio, ove in dotazione all'Istituto, devono essere conservati in apposito fascicolo. In particolare per gli impianti elettrici deve essere previsto che un addetto qualificato provveda, con la periodicita' stabilita dalle specifiche normative CEI, al loro controllo e manutenzione ed a segnalare al responsabile dell'attivita' eventuali carenze e/o malfunzionamento, per gli opportuni provvedimenti. Ogni loro modifica o integrazione dovra' essere annotata nel registro dei controlli e inserita nei relativi schemi. In ogni caso tutti gli impianti devono essere sottoposti a verifiche periodiche con cadenza non superiore a tre anni; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    siano tenuti in buono stato gli impianti di ventilazione, di condizionamento e riscaldamento ove esistenti, prevedendo in particolare una verifica periodica degli stessi con cadenza non superiore ad un anno. Le centrali termiche e frigorifere devono essere condotte da personale qualificato in conformita' con quanto previsto dalle vigenti normative; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    sia previsto un servizio organizzato composto da un numero proporzionato di addetti qualificati, in base alle dimensioni e alle caratteristiche dell'attivita', esperti nell'uso dei mezzi antincendio installati; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    siano eseguite per il personale addetto all'attivita' periodiche riunioni di addestramento e di istruzioni sull'uso dei mezzi di soccorso e di allarme, nonche' esercitazioni di sfollamento dell'attivita'.
 
 Il responsabile tecnico addetto alla sicurezza di cui al comma 1 deve altresi' curare la tenuta di un registro ove sono annotati tutti gli interventi ed i controlli relativi all'efficienza degli impianti elettrici dell'illuminazione di sicurezza e dei presidi antincendio, nonche' all'osservanza della normativa relativa ai carichi d'incendio nei vari ambienti dell'edificio e nelle aree a rischio specifico.
 

@@ -7,8 +7,8 @@ urn: urn:nir:ministero.economia.e.finanze:decreto:2016-04-05;66
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:40Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -29,6 +29,24 @@ Udito il parere del Consiglio di Stato, espresso dalla sezione consultiva per gl
 Istituzione della specialita' "motorizzazione terrestre, aerea e navale"
 
 Nell'ambito del comparto tecnico del ruolo tecnico-logistico-amministrativo del Corpo della guardia di finanza e' istituita la specialita' «motorizzazione terrestre, aerea e navale» in sostituzione della specialita' «motorizzazione».
+
+2.
+                    
+                        
+                            In attuazione del disposto di cui al comma 1: 
+ 
+                        
+                        
+                            a)
+                            
+                                all'articolo 44, comma 1, lettera b), del decreto legislativo 19 marzo 2001, n. 69, la parola «motorizzazione» e' sostituita dalle parole «motorizzazione terrestre, aerea e navale; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                la tabella n. 4 allegata al decreto legislativo n. 69 del 2001, e' sostituita dalla tabella allegata, che fa parte integrante del presente decreto.
 
 ## Art. 2. — Clausola di invarianza finanziaria
 

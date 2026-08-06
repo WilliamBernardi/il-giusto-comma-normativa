@@ -8,8 +8,8 @@ codice_redazionale: 092G0296
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti governativi
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:09Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -38,6 +38,31 @@ Il limite di importo di L. 5 previsto dall'art. 1 del regio decreto 12 maggio 19
 Il limite delle eccedenze di cassa di L. 10 previsto dal primo e dal secondo comma dell'art. 147 del regio decreto 8 maggio 1933, n. 841, aumentato a L. 2.400 per effetto del decreto del Presidente della Repubblica 30 giugno 1972, n. 422, e' ulteriormente elevato a L. 10.000.
 
 ## Art. 3.
+
+1.
+                    
+                        
+                            I limiti di somma indicati nell'art. 7 del regolamento approvato con decreto del Presidente della Repubblica 1 giugno 1989, n. 256, sono cosi' modificati:
+ 
+                        
+                        
+                            a)
+                            
+                                il limite di cui al comma 1, lettera b), e' elevato da L. 2.400.000 a L. 10.000.000;
+
+                            
+                        
+                        
+                            b)
+                            
+                                i limiti di cui al comma 1, lettera c), di L. 240.000 e L. 2.400.000 sono elevati, rispettivamente, a L. 500.000 e L. 10.000.000;
+
+                            
+                        
+                        
+                            c)
+                            
+                                il limite di cui al comma 1, lettera d), e' elevato da L. 240.000 a L. 500.000.
 
 ## Art. 4.
 

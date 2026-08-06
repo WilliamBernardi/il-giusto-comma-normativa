@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
 vigenza_date: 2000-11-23
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:30Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -54,6 +54,31 @@ Le disposizioni dell'articolo 16 del decreto legislativo 29 giugno 1996, n. 367,
 
 ## Art. 3. — O r g a n i
 
+1.
+                    
+                        
+                            In attesa della partecipazione di soggetti privati alle fondazioni ai sensi e nei limiti del decreto legislativo 29 giugno 1996, n. 367, il consiglio di amministrazione delle medesime e' nominato con decreto dell'Autorita' di Governo competente in materia di spettacolo, opera con la nomina della maggioranza dei suoi componenti ed e' composto dal presidente della fondazione, individuato ai sensi dell'articolo 11 del citato decreto legislativo n. 367 del 1996, il quale lo presiede, e da quattro membri, cosi individuati:
+ 
+                        
+                        
+                            a)
+                            
+                                un componente, designato dall'Autorita' di Governo competente in materia di spettacolo;
+
+                            
+                        
+                        
+                            b)
+                            
+                                un componente, designato dalla regione nel territorio della quale ha sede la fondazione;
+
+                            
+                        
+                        
+                            c)
+                            
+                                due componenti, designati dal sindaco del comune nel cui territorio la fondazione ha sede, ai sensi dell'articolo 36, comma 5, della legge 8 giugno 1990, n. 142.
+
 Fino al conseguimento della partecipazione di soggetti privati, il consiglio di amministrazione della fondazione conseguente alla trasformazione dell'Accademia nazionale di Santa Cecilia e' composto di sette membri, individuati secondo quanto gia' previsto dall'articolo 12, comma 3, del decreto legislativo 29 giugno 1996, n. 367. ((2))
 
 ----------------
@@ -90,6 +115,66 @@ Le disposizioni del comma 211, terzo periodo, dell'articolo 3 della legge 23 dic
                          La Corte Costituzionale con sentenza 13 - 18 novembre 2000 n. 503 (in G.U. 1a s.s. 22/11/2000 n. 48) ha dichiarato "l'illegittimita' costituzionale del decreto legislativo 23 aprile 1998, n. 134 (Trasformazione in fondazione degli enti lirici e delle istituzioni concertistiche assimilate, a norma dell'art. 11, comma 1, lettera b), della legge 15 marzo 1997, n. 59)."
 
 ## Art. 6. — Modificazioni al decreto legislativo 29 giugno 1996, n. 367
+
+1.
+                    
+                        
+                            Al decreto legislativo 29 giugno 1996, n. 367, sono apportate le seguenti modificazioni:
+ 
+                        
+                        
+                            a)
+                            
+                                nella rubrica dell'articolo 2 sono soppresse le parole: "di prioritario interesse nazionale";
+
+                            
+                        
+                        
+                            b)
+                            
+                                l'alinea del comma 1 dell'articolo 2 e' sostituito dal seguente: "Il presente decreto si applica:";
+
+                            
+                        
+                        
+                            c)
+                            
+                                nella lettera a) del comma 1 dell'articolo 2 le parole: "gli enti autonomi lirici e le istituzioni" sono sostituite dalle seguenti: "agli enti autonomi lirici e alle istituzioni" e la lettera b) e' sostituita dalla seguente: " b) ad altri enti operanti nel settore musicale, identificati, sulla base di criteri previamente definiti, dall'Autorita' di Governo competente in materia di spettacolo, con riferimento alle categorie previste dal titolo III della legge 14 agosto 1967, n. 800, e successive modificazioni.";
+
+                            
+                        
+                        
+                            d)
+                            
+                                il comma 2 dell'articolo 2 e' abrogato e nel comma 3 le parole: "di cui al comma 2" sono sostituite dalle seguenti: "di cui al comma 1, lettera b);";
+
+                            
+                        
+                        
+                            e)
+                            
+                                sono abrogati i commi 1 e 2 dell'articolo 5 e l'articolo 9;
+
+                            
+                        
+                        
+                            f)
+                            
+                                nel comma 5 dell'articolo 16, dopo le parole "Ministero del tesoro", sono inserite le seguenti: "e all'Autorita' di Governo competente in materia di spettacolo,";
+
+                            
+                        
+                        
+                            g)
+                            
+                                nel comma 1 dell'articolo 24 le parole: "agli enti lirici" sono sostituite dalle seguenti: "alle fondazioni derivanti dalla trasformazione degli enti di cui all'articolo 2, comma 1, lettera a);" ed il secondo periodo e' sostituito dal seguente: "I criteri hanno efficacia per tre anni, a decorrere dal 1 gennaio 1998.";
+
+                            
+                        
+                        
+                            h)
+                            
+                                nel comma 2 dell'articolo 25 le parole: "al momento della sua costituzione" sono sostituite dalle seguenti: "dai soggetti privati al momento della loro partecipazione"; le parole: "che approva la trasformazione dei soggetti di cui all'articolo 2" sono sostituite dalle seguenti: "di cui all'articolo 8," e le parole: "del predetto decreto che approva la trasformazione" sono sostituite dalle seguenti: "del predetto decreto".
 
 L'identificazione degli enti di cui all'articolo 2, comma 1, lettera b), del decreto legislativo 29 giugno 1996, n. 367, avviene sentito il parere, da rendersi entro trenta giorni dalla richiesta, della regione e del comune nel cui territorio l'ente ha sede.
 
@@ -132,6 +217,52 @@ Le disposizioni del presente decreto si applicano, in quanto compatibili, anche 
                          La Corte Costituzionale con sentenza 13 - 18 novembre 2000 n. 503 (in G.U. 1a s.s. 22/11/2000 n. 48) ha dichiarato "l'illegittimita' costituzionale del decreto legislativo 23 aprile 1998, n. 134 (Trasformazione in fondazione degli enti lirici e delle istituzioni concertistiche assimilate, a norma dell'art. 11, comma 1, lettera b), della legge 15 marzo 1997, n. 59)."
 
 ## Art. 9. — Abrogazioni
+
+1.
+                    
+                        
+                            Sono abrogati:
+ 
+                        
+                        
+                            a)
+                            
+                                il titolo II della legge 14 agosto 1967, n. 800, ad eccezione degli articoli 6, 7, 16, 19, 23;
+
+                            
+                        
+                        
+                            b)
+                            
+                                l'articolo 10, comma 5, secondo periodo, del decreto-legge 29 marzo 1995, n. 97, convertito, con modificazioni, dalla legge 30 maggio 1995, n. 203;
+
+                            
+                        
+                        
+                            c)
+                            
+                                gli articoli 2 e 3, comma 1, primo periodo, del decreto-legge 11 settembre 1987, n. 374, convertito, con modificazioni, dalla legge 29 ottobre 1987, n. 450;
+
+                            
+                        
+                        
+                            d)
+                            
+                                l'articolo 2, comma 5, della legge 17 febbraio 1982, n. 43;
+
+                            
+                        
+                        
+                            e)
+                            
+                                l'articolo 3 della legge 13 luglio 1984, n. 312;
+
+                            
+                        
+                        
+                            f)
+                            
+                                gli articoli 146 e 147 del regio decreto 6 maggio 1940, n. 635.((2))
 
 ----------------
                         AGGIORNAMENTO (2)

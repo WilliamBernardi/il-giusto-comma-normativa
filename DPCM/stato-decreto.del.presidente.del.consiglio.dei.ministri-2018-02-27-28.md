@@ -7,8 +7,8 @@ urn: urn:nir:stato:decreto.del.presidente.del.consiglio.dei.ministri:2018-02-27;
 vigente: true
 source: normattiva-opendata
 collection: DPCM
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:40:13Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DEL CONSIGLIO DEI MINISTRI
@@ -40,9 +40,78 @@ Le risorse disponibili nel fondo di gestione sono destinate alla copertura delle
 
 ## Art. 4. — Organi della Fondazione
 
+1.
+                    
+                        
+                            Sono organi della Fondazione: 
+ 
+                        
+                        
+                            a)
+                            
+                                il Presidente; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                il Consiglio di sorveglianza; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                il Direttore; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                il Comitato di gestione; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                il Comitato scientifico; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                il Collegio dei revisori.
+
 Il Presidente rappresenta la Fondazione e presiede il Consiglio di sorveglianza.
 
 Al fine di assicurare l'eccellenza della Fondazione, il Consiglio di sorveglianza svolge una generale attivita' di indirizzo e di controllo sulla Fondazione e assolve le funzioni attribuite dallo Statuto.
+
+4.
+                    
+                        
+                            Il Consiglio di sorveglianza e' composto da tredici membri, compreso il Presidente, nominati: 
+ 
+                        
+                        
+                            a)
+                            
+                                sette con decreto del Presidente del Consiglio dei ministri, dei quali due designati dal Ministro dell'economia e delle finanze, uno dal Ministro della salute e uno dal Ministro dell'istruzione, dell'universita' e della ricerca; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                i restanti con decreto del Presidente del Consiglio dei ministri, sentiti i Ministri dell'economia e delle finanze, della salute e dell'istruzione, dell'universita' e della ricerca, designati: 
+ 1) uno, d'intesa tra il Comune di Milano e la Regione Lombardia; 
+ 2) uno, d'intesa tra i Partecipanti, a condizione che, anche in associazione tra loro, versino almeno il tre per cento del contributo annuo erogato dallo Stato; 
+ 3) uno, dalla Conferenza dei Rettori e delle Universita' italiane - CRUI; 
+ 4) uno, dalla Consulta dei Presidenti degli enti pubblici di ricerca; 
+ 5) due, dal Consiglio di sorveglianza tra scienziati in discipline attinenti al progetto Human Technopole e tra esperti internazionali di sanita' pubblica, che svolgano la propria attivita' prevalentemente all'estero.
 
 Il Presidente del Consiglio di sorveglianza e' indicato, con il decreto di cui al comma 4, lettera a), tra i componenti da nominare senza che sia richiesta, ai sensi della medesima disposizione, una previa designazione.
 

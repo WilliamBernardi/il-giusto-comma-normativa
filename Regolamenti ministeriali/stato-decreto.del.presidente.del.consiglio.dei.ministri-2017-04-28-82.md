@@ -7,8 +7,8 @@ urn: urn:nir:stato:decreto.del.presidente.del.consiglio.dei.ministri:2017-04-28;
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:41Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DEL CONSIGLIO DEI MINISTRI
@@ -31,6 +31,52 @@ Sulla proposta del Presidente del Consiglio dei ministri e del Ministro dell'eco
 Il presente decreto disciplina i criteri e le modalita' di nomina degli arbitri, il supporto organizzativo alle procedure arbitrali e le modalita' di funzionamento del collegio arbitrale per l'erogazione da parte del Fondo di solidarieta' di prestazioni in favore degli investitori, come definiti all'articolo 2.
 
 ## Art. 2. — Definizioni
+
+1.
+                    
+                        
+                            Ai fini del presente decreto, conformemente, per le lettere da 
+                        
+                        
+                            a)
+                            
+                                a d), alle definizioni contenute all'articolo 8 del decreto-legge 3 maggio 2016, n. 59, convertito, con modificazioni, in legge 30 giugno 2016, n. 119, si intendono per: 
+ a) investitore: la persona fisica, l'imprenditore individuale, anche agricolo, e il coltivatore diretto, o il suo successore mortis causa, che ha acquistato gli strumenti finanziari subordinati indicati nell'articolo 1, comma 855, della legge 28 dicembre 2015, n. 208, nell'ambito di un rapporto negoziale diretto con la Banca in liquidazione che li ha emessi; il coniuge, il convivente more uxorio, i parenti entro il secondo grado in possesso dei predetti strumenti finanziari, a seguito di trasferimento con atto tra vivi; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                Banca in liquidazione o Banca: la Cassa di risparmio di Ferrara S.p.a. in liquidazione coatta amministrativa, la Banca delle Marche S.p.a. in liquidazione coatta amministrativa, la Banca popolare dell'Etruria e del Lazio - Societa' cooperativa in liquidazione coatta amministrativa, la Cassa di risparmio di Chieti S.p.a. in liquidazione coatta amministrativa; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                Fondo di solidarieta': il Fondo istituito dall'articolo 1, comma 855, della legge 28 dicembre 2015, n. 208; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                Fondo: il Fondo interbancario di tutela dei depositi quale gestore del Fondo di solidarieta' di cui alla lettera c); 
+
+                            
+                        
+                        
+                            e)
+                            
+                                procedura arbitrale: la procedura di natura arbitrale di accesso al Fondo di solidarieta' di cui al decreto adottato ai sensi dell'articolo 1, comma 857, lettera d), della legge 28 dicembre 2015, n. 208; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                Camera arbitrale: la Camera arbitrale per i contratti pubblici relativi a lavori, servizi, forniture, di seguito Camera arbitrale, di cui all'articolo 210 del decreto legislativo 18 aprile 2016, n. 50.
 
 ## Art. 3.
 

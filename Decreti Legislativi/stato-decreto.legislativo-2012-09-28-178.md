@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
 vigenza_date: 2026-04-30
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:33Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -27,6 +27,144 @@ Le funzioni esercitate dall'Associazione italiana della Croce rossa (CRI), di se
 Dal 1º gennaio 2016 l'Associazione e' l'unica Societa' nazionale di Croce rossa autorizzata ad operare sul territorio nazionale quale organizzazione di soccorso volontario conforme alle Convenzioni di Ginevra del 1949, ai relativi protocolli aggiuntivi, di seguito denominati Convenzioni e protocolli, ai principi fondamentali del Movimento internazionale di Croce rossa e Mezzaluna Rossa, di seguito denominato Movimento, nonche' alle risoluzioni e decisioni degli organi del medesimo, utilizzando gli emblemi previsti e autorizzati dai predetti atti. La Associazione subentra alla CRI nel riconoscimento da parte del Comitato Internazionale della Croce Rossa e nell'ammissione alla Federazione Internazionale delle Societa' di Croce rossa e Mezzaluna Rossa, assumendone i relativi obblighi e privilegi.
 
 La Repubblica Italiana rispetta in ogni tempo l'osservanza da parte dell'Associazione dei principi di cui al comma 2.
+
+4.
+                    
+                        
+                            L'Associazione e' autorizzata ad esercitare le seguenti attivita' d'interesse pubblico: 
+ 
+                        
+                        
+                            a)
+                            
+                                organizzare una rete di volontariato sempre attiva per assicurare allo Stato Italiano l'applicazione, per quanto di competenza, delle Convenzioni e protocolli, delle risoluzioni internazionali, nonche' il supporto di attivita' ricomprese nel servizio nazionale di protezione civile; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                collaborare con le societa' di Croce rossa e di Mezzaluna Rossa degli altri paesi, aderendo al Movimento; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                adempiere a quanto demandato dalle Convenzioni, risoluzioni e raccomandazioni degli organi della Croce rossa internazionale alle societa' della Croce rossa e Mezzaluna Rossa, nel rispetto dell'ordinamento vigente; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                organizzare e svolgere, in tempo di pace e in conformita' a quanto previsto dalle vigenti convenzioni e risoluzioni internazionali, servizi di assistenza sociale e di soccorso sanitario in favore di popolazioni, anche straniere, in occasione di calamita' e di situazioni di emergenza, di rilievo locale, regionale, nazionale e internazionale; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                svolgere attivita' umanitarie presso i centri per l'identificazione e l'espulsione di immigrati stranieri, nonche' gestire i predetti centri e quelli per l'accoglienza degli immigrati ed in particolare dei richiedenti asilo; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                svolgere in tempo di conflitto armato il servizio di ricerca e di assistenza dei prigionieri di guerra, degli internati, dei dispersi, dei profughi, dei deportati e rifugiati e, in tempo di pace, il servizio di ricerca delle persone scomparse in ausilio alle forze dell'ordine; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                svolgere attivita' ausiliaria delle Forze Armate, in Italia ed all'estero, in tempo di pace o di grave crisi internazionale, attraverso il Corpo militare volontario e il Corpo delle Infermiere volontarie, secondo le regole determinate dal Movimento; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                svolgere attivita' ausiliaria dei pubblici poteri, in Italia e all'estero, sentito il Ministro degli affari esteri, secondo le regole determinate dal Movimento; 
+
+                            
+                        
+                        
+                            i)
+                            
+                                agire quale struttura operativa del servizio nazionale di protezione civile ai sensi dell'articolo 11 della legge 24 febbraio 1992, n. 225, in luogo della CRI; 
+
+                            
+                        
+                        
+                            l)
+                            
+                                promuovere e diffondere, nel rispetto della normativa vigente, l'educazione sanitaria, la cultura della protezione civile e dell'assistenza alla persona; 
+
+                            
+                        
+                        
+                            m)
+                            
+                                realizzare interventi di cooperazione allo sviluppo in Paesi esteri, d'intesa ed in raccordo con il Ministero degli affari esteri e con gli uffici del Ministro per la cooperazione internazionale e l'integrazione; 
+
+                            
+                        
+                        
+                            n)
+                            
+                                collaborare con i componenti del Movimento in attivita' di sostegno alle popolazioni estere oggetto di rilevante vulnerabilita'; 
+
+                            
+                        
+                        
+                            o)
+                            
+                                svolgere attivita' di advocacy e diplomazia umanitaria, cosi' come intese dalle convenzioni e risoluzioni degli organi internazionali della Croce rossa; 
+
+                            
+                        
+                        
+                            p)
+                            
+                                svolgere attivita' con i piu' giovani ed in favore dei piu' giovani, anche attraverso attivita' formative presso le scuole di ogni ordine e grado; 
+
+                            
+                        
+                        
+                            q)
+                            
+                                diffondere e promuovere i principi e gli istituti del diritto internazionale umanitario nonche' i principi umanitari ai quali si ispira il Movimento; 
+
+                            
+                        
+                        
+                            r)
+                            
+                                promuovere la diffusione della coscienza trasfusionale e della cultura della donazione di sangue, organi e tessuti tra la popolazione e organizzare i donatori volontari, nel rispetto della normativa vigente e delle norme statutarie; 
+
+                            
+                        
+                        
+                            s)
+                            
+                                svolgere, ai sensi dell'articolo 1, comma 2-bis, della legge 3 aprile 2001, n. 120, e successive modificazioni, nell'ambito della programmazione regionale ed in conformita' alle disposizioni emanate dalle regioni, attivita' di formazione per il personale non sanitario e per il personale civile all'uso di dispositivi salvavita in sede extra ospedaliera e rilasciare le relative certificazioni di idoneita' all'uso; 
+
+                            
+                        
+                        
+                            t)
+                            
+                                svolgere, nell'ambito della programmazione regionale ed in conformita' alle disposizioni emanate dalle regioni, attivita' di formazione professionale, di formazione sociale, sanitaria e sociosanitaria, anche a favore delle altre componenti e strutture operative del Servizio nazionale di protezione civile; 
+
+                            
+                        
+                        
+                            t-bis)
+                            
+                                
+                                    ((svolgere attivita' di formazione dei soccorritori militari di cui all'articolo 213, comma 1, lettera b), del codice dell'ordinamento militare, di cui al decreto legislativo 15 marzo 2010, n. 66, secondo modalita' stabilite con apposita convenzione stipulata con il Ministero della difesa)).
 
 L'Associazione svolge ogni altro compito previsto dal proprio statuto.
 
@@ -49,6 +187,31 @@ La CRI e' riordinata secondo le disposizioni del presente decreto e dal 1º genn
 
 L'Ente svolge le attivita' in ordine al patrimonio e ai dipendenti della CRI di cui al presente decreto, nonche' ogni altra attivita' di gestione finalizzata all'espletamento delle funzioni di cui al presente articolo.
 
+3.
+                    
+                        
+                            Sono organi dell'Ente: 
+ 
+                        
+                        
+                            a)
+                            
+                                un comitato, nominato con decreto del Ministro della salute, presieduto dal Presidente nazionale dell'Associazione in carica che e' anche Presidente dell'Ente, da tre componenti designati dal Presidente tra i soci della CRI con particolari competenze amministrative e da altri tre componenti designati rispettivamente dai Ministri della salute, dell'economia e delle finanze e della difesa, con compiti di indirizzo e di approvazione dei regolamenti interni di organizzazione e funzionamento, di amministrazione, finanza e contabilita' ai quali si applica l'articolo 7. In caso di parita' nelle deliberazioni prevale il voto del Presidente, salvo per quelle relative agli indirizzi nelle materie di cui all'articolo 4, comma 1, lettere c) ed h), e all'articolo 6 che devono essere assunte all'unanimita'; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                un collegio dei revisori dei conti, nominato dal Ministro della salute, costituito da tre componenti, di cui uno magistrato della Corte dei conti con funzioni di Presidente, uno designato dal Ministro dell'economia e delle finanze, uno designato dalla Presidenza del Consiglio dei Ministri; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                un amministratore, con compiti di rappresentanza legale e di gestione, nominato dal Ministro della salute.
+
 Il Presidente dell'Ente, i componenti il comitato, l'amministratore, i componenti del collegio dei revisori dei conti durano in carica fino al 31 dicembre 2017. L'incarico di amministratore e' incompatibile con ogni altra attivita' esterna all'Ente e all'Associazione. Il trattamento economico dell'amministratore e dei componenti del collegio dei revisori dei conti e' determinato con decreto del Ministro dell'economia e delle finanze, di concerto con il Ministro della salute. Gli incarichi di Presidente e di componente del comitato sono svolti a titolo gratuito, salvo rimborso delle spese. Ove l'amministratore sia dipendente di pubbliche amministrazioni si applicano le disposizioni vigenti in materia di aspettativa di diritto.
 
 Le risorse finanziarie a carico del bilancio dello Stato, diverse da quelle di cui all'articolo 1, comma 6, che sarebbero state erogate alla CRI nell'anno 2014, secondo quanto disposto dalla normativa vigente in materia, nonche' risorse finanziarie, di pari ammontare a quelle determinate per l'anno 2014, salvo quanto disposto dall'articolo 6, comma 6, ((...)), sono attribuite all' Ente e all'Associazione, con decreti del Ministro della salute, del Ministro dell'economia e delle finanze e del Ministro della difesa, ciascuno in relazione alle proprie competenze, ripartendole tra Ente e Associazione in relazione alle funzioni di interesse pubblico ad essi affidati, senza determinare nuovi o maggiori oneri per la finanza pubblica. I decreti del Ministro della difesa tengono conto delle esigenze dei corpi ausiliari. (6) (8)
@@ -66,6 +229,32 @@ Le risorse finanziarie a carico del bilancio dello Stato, diverse da quelle di c
 
 Disposizioni sui tempi e sulle modalita' di applicazione delle disposizioni degli articoli 1 e 2
 
+1.
+                    
+                        
+                            Ai fini della compiuta attuazione del presente decreto, in via di prima applicazione e senza determinare nuovi e maggiori oneri per la finanza pubblica: 
+ 
+                        
+                        
+                            a)
+                            
+                                entro 30 giorni dalla data di entrata in vigore del presente decreto, il Commissario della CRI, con propria ordinanza, modifica lo statuto vigente della CRI riducendo il numero delle attuali componenti volontaristiche non ausiliarie delle Forze Armate di cui all'articolo 9, comma 2, numeri 3), 4), 5) e 6), del decreto del Presidente del Consiglio dei Ministri 6 maggio 2005, n. 97, secondo criteri di semplificazione, omogeneita' ed efficienza e applicando le risoluzioni e le linee guida del Movimento, nonche' le direttive internazionali sulla valorizzazione del contributo dei giovani, approvate a Ginevra nel novembre 2011; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                entro 20 giorni dalla data di entrata in vigore del presente decreto, il Commissario predispone e trasmette al Ministro della salute uno schema di nuovo regolamento elettorale che nei successivi 10 giorni e' emanato dal Ministro. Il Commissario convoca quindi le elezioni per i presidenti regionali, provinciali e locali della CRI, che esercitano fino al 1º gennaio 2016 le competenze attribuite dal decreto del Presidente del Consiglio dei Ministri n. 97 del 2005 agli organi del corrispondente livello territoriale. I Presidenti dei Comitati locali sono eletti dai soci del comitato locale; i Presidenti dei comitati provinciali sono eletti dai soci della provincia. I presidenti dei comitati locali e dei comitati provinciali eleggono il Presidente della regione di riferimento. In ogni caso il Presidente di ciascun livello territoriale e' scelto tra i soci del medesimo ambito territoriale. Nelle Regioni in cui vi e' un solo comitato provinciale, il Presidente del comitato provinciale assolve anche alla funzioni di Presidente del comitato regionale. Per le province autonome di Trento e di Bolzano sono eletti due Presidenti provinciali e non si procede all'elezione del Presidente regionale. Tutte le elezioni di cui alla presente lettera si svolgono entro 90 giorni dalla data di entrata in vigore del presente decreto.
+Nel caso in cui un candidato sia eletto per piu' cariche, rimane in carica per quella relativa alla maggiore dimensione territoriale e decade dalle altre. Sono in ogni caso esclusi dall'elettorato passivo coloro che non avevano il requisito di socio della Croce Rossa italiana alla data di nomina a Commissario ai diversi livelli della CRI; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                entro 120 giorni dalla data di entrata in vigore del presente decreto, si svolge l'Assemblea straordinaria, convocata dal Commissario, costituita esclusivamente dai Presidenti regionali, provinciali e locali che vengono eletti ai sensi della lettera b) entro e non oltre il termine di 90 giorni ivi previsto. Tale Assemblea, presieduta dal Commissario, elegge un Presidente nazionale e due Vice presidenti, di seguito denominati Presidente nazionale e Vice Presidenti, che durano in carica fino al 1º gennaio 2016, esercitando le competenze attribuite dal decreto del Presidente del Consiglio dei Ministri n. 97 del 2005 al presidente, al consiglio direttivo e all'Assemblea nazionale della CRI; i Vice presidenti agiscono su delega del presidente. L'elettorato attivo e passivo e' disciplinato ai sensi dell'articolo 12 del decreto del Presidente del Consiglio dei Ministri n. 97 del 2005. Il commissariamento e' vigente fino alla data di elezione del Presidente nazionale e cessa dalla predetta data.
+
 Il Presidente nazionale e i Vice Presidenti predispongono una proposta di atto costitutivo e di statuto provvisorio dell'Associazione, che si ispira ai principi del Movimento, nonche' ai criteri direttivi della volontarieta', dell'elettivita' e della rinnovabilita' delle cariche, della riduzione a non piu' di tre dei livelli organizzativi con capacita' di spesa e dell'adozione di atti negoziali, dello snellimento degli organi esecutivi, dell'adeguata rappresentanza dei giovani e di genere. La proposta e' sottoposta ad un'ulteriore Assemblea straordinaria costituita, oltre che dal Presidente nazionale e dai Vice presidenti, dai Presidenti regionali, provinciali e locali di cui al comma 1, lettera b), il cui funzionamento e' disciplinato dal Presidente nazionale e dai Vice Presidenti. La predetta Assemblea e' convocata e presieduta dal Presidente nazionale ed elegge anche i membri del comitato di cui all'articolo 2, comma 3, lettera a). Lo statuto e l'atto costitutivo sono approvati dalla predetta Assemblea entro sei mesi dalla data di elezione del Presidente nazionale. L'associazione e' costituita una volta approvati l'atto costitutivo e lo statuto e acquista la personalita' giuridica, in deroga al decreto del Presidente della Repubblica 10 febbraio 2000, n. 361, il 1º gennaio 2016, previa iscrizione nel registro delle persone giuridiche.
 
 Il Commissario della CRI ovvero il Presidente nazionale sono autorizzati ad utilizzare, escluse le risorse derivanti da raccolte fondi finalizzate, nonche' escluse le risorse provenienti dal Ministero della Difesa per gli anni 2010, 2011, 2012, 2013, 2014 e 2015 e destinate ai Corpi Ausiliari delle Forze Armate, la quota vincolata dell'avanzo accertato dell'amministrazione sia del comitato centrale che del consolidato alla data di entrata in vigore del presente decreto, per il ripiano immediato di debiti anche a carico dei bilanci dei comitati con riferimento all'ultimo conto consuntivo consolidato approvato, a quello che sara' approvato per il 2012, il 2013, il 2014 e il 2015 e per le esigenze del bilancio di previsione 2013, 2014 e 2015, ((e per l'anno 2016 con riferimento all'Ente strumentale alla Croce Rossa Italiana,)) nonche' ad utilizzare beni immobili tra quelli di cui all'articolo 4, comma 1, lettera c), a garanzia di mutui, prestiti o anticipazioni per fronteggiare carenze di liquidita' per spese obbligatorie e inderogabili.
@@ -73,6 +262,66 @@ Il Commissario della CRI ovvero il Presidente nazionale sono autorizzati ad util
 A far data dal 1º gennaio 2016 l'Associazione subentra in tutte le convenzioni in essere con la CRI alla predetta data e ad essa sono trasferiti i beni mobili e le risorse strumentali necessari all'erogazione dei servizi in convenzione, salvo quelli di cui all'articolo 4, comma 1, lettera h). Il Ministro della salute, con proprio decreto, su proposta del Presidente nazionale, sulla base degli statuti provvisori approvati per l'Ente e l'Associazione, determina gli altri rapporti attivi e passivi della CRI, cui succede l'Associazione dal 1º gennaio 2016. Il Presidente nazionale, sulla base di quanto disposto dagli articoli 1 e 2, in data antecedente al 1º gennaio 2016 definisce le linee operative provvisorie per l'Ente e l'Associazione, predispone lo schema di fabbisogno quantitativo e qualitativo di personale per entrambi i soggetti. Predispone inoltre, sentite le Organizzazioni sindacali, un piano di utilizzazione provvisorio del personale, sia a tempo indeterminato che a tempo determinato della CRI, da parte dell'Ente e dell' Associazione.
 
 ## Art. 4. — Patrimonio
+
+1.
+                    
+                        
+                            Il Commissario e successivamente il Presidente nazionale, fino al 31 dicembre 2015, con il parere conforme di un comitato nominato con la stessa composizione e modalita' di designazione e nomina di quello di cui all'articolo 2, comma 3 , lettera a) nonche', dalla predetta data fino al 31 dicembre 2017, l'Ente: 
+ 
+                        
+                        
+                            a)
+                            
+                                redigono, almeno entro il 31 dicembre 2015, e di seguito aggiornano lo stato di consistenza patrimoniale e l'inventario dei beni immobili di proprieta' o comunque in uso della CRI, nonche' elaborano e aggiornano un piano di valorizzazione degli immobili per recuperare le risorse economiche e finanziarie per il ripiano degli eventuali debiti accumulati anche a carico di singoli comitati, con riferimento all'ultimo conto consuntivo consolidato approvato e alle esigenze di bilancio di previsione a decorrere dall'anno 2013; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                identificano i beni immobili, non pervenuti all'attuale CRI con negozi giuridici modali, da mantenere all'Ente a garanzia di potenziali debiti per procedure giurisdizionali in corso, fino alla definizione della posizione debitoria; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                dismettono, nella fase transitoria e in deroga alla normativa vigente in materia economico-finanziaria e di contabilita' degli enti pubblici non economici, nei limiti del debito accertato anche a carico dei bilanci dei singoli comitati e con riferimento ai conti consuntivi consolidati e alle esigenze di bilancio di previsione a decorrere dall'anno 2013, gli immobili pervenuti alla CRI, a condizione che non provengano da negozi giuridici modali e che non siano necessari al perseguimento dei fini statutari e allo svolgimento dei compiti istituzionali e di interesse pubblico dell'Associazione; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                trasferiscono all'Associazione, a decorrere dal 1º gennaio 2016, i beni pervenuti alla CRI attraverso negozi giuridici modali e concedono in uso gratuito, con spese di manutenzione ordinaria a carico dell'usuario, alla medesima data quelli necessari allo svolgimento dei fini statutari e dei compiti istituzionali; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                compiono le attivita' necessarie per ricavare reddito, attraverso negozi giuridici di godimento, dagli immobili non necessari allo svolgimento dei compiti istituzionali e di interesse pubblico; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                esercitano la rinuncia a donazioni modali di immobili non piu' proficuamente utilizzabili per il perseguimento dei fini statutari; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                restituiscono, sentite le amministrazioni pubbliche titolari dei beni demaniali o patrimoniali indisponibili in godimento, i beni stessi ove non necessari allo svolgimento dei compiti istituzionali e di interesse pubblico; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                trasferiscono all'Associazione, a decorrere dal 1º gennaio 2016 e con le modalita' di cui all'articolo 2, comma 3, lettera a), i beni mobili acquistati con i contributi del Ministero della difesa per l'esercizio dei compiti affidati al Corpo militare volontario e al Corpo delle infermiere volontarie, nonche' i beni mobili acquisiti con contributi pubblici e finalizzati all'esercizio dei compiti elencati all'articolo 1, comma 4.
 
 ((
 

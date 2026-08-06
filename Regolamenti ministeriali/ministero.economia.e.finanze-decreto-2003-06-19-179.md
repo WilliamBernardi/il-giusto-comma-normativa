@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
 vigenza_date: 2019-01-01
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:40Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -171,6 +171,52 @@ Le ricevute delle giocate annullate sono ritirate e conservate dal concessionari
 
 ## Art. 5. — Ripartizione della posta
 
+1.
+                        
+                            
+                                La posta dei concorsi pronostici e' ripartita, secondo quanto gia' disposto dagli articoli 2 e 5 della legge 24 dicembre 1957, n. 1295, dall'articolo 2 della legge 29 settembre 1965, n. 1117, dall'articolo 3 della legge 29 dicembre 1988, n. 555, dall'articolo 27 della legge 30 dicembre 1991, n. 412, dall'articolo 2 del decreto legislativo 2 dicembre 1999, n. 464 e dall'articolo 4 del decreto-legge 8 luglio 2002, n. 138, convertito, con modificazioni, con la legge 8 agosto 2002, n. 178 e dall'articolo 1, comma 283, della legge 30 dicembre 2004, n. 311, nelle seguenti percentuali: 
+ 
+                            
+                            
+                                a)
+                                
+                                    aggio al punto di vendita 8%; (2) 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    montepremi: 34,65%;(2) 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    contributo CONI: 18,77%;(2) 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    contributo all'Istituto per il credito sportivo: 2,45%;(2) 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    imposta unica: 30,42%; ((6))
+                                    
+                                
+                            
+                            
+                                f)
+                                
+                                    contributo alle spese di gestione di AAMS: 5,71%.(2)
+
 ---------------
                             AGGIORNAMENTO (2)
                             
@@ -223,6 +269,31 @@ E' fatta comunque salva l'esperibilita' dell'azione innanzi all'autorita' giudiz
 Ai fini della determinazione della colonna unitaria vincente del concorso e' assunto, quale esito definitivo e incontestabile degli eventi, quello conseguito sul campo, ufficializzato da AAMS sulla scorta dell'acquisizione di plurime informazioni tramite media ed internet.
 
 Successivi mutamenti dei risultati, decisi per qualsiasi motivo dalle autorita' sportive competenti, annullamenti, penalizzazioni od altri provvedimenti, non risultano influenti agli effetti del concorso.
+
+3.
+                        
+                            
+                                Per la determinazione della colonna vincente si applicano le disposizioni di cui ai commi da 4 a 12, relativamente agli eventi:
+ 
+                            
+                            
+                                a)
+                                
+                                    il cui svolgimento non avviene o avviene in giorno diverso da quello prestabilito;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    che sono dichiarati non conclusi, per qualsiasi motivo, dalla commissione di controllo sulla scorta dell'acquisizione di plurime informazioni tramite media ed internet;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    che AAMS, sulla scorta dell'acquisizione di plurime informazioni tramite media ed internet, dichiara non validi prima della chiusura dell'accettazione, mediante pubblicazione sul bollettino ufficiale.
 
 Dopo la chiusura dell'accettazione, qualora, per qualsiasi motivo, uno o piu' eventi risultano nella condizione di cui al comma 3, lettera a), per il concorso pronostici Totocalcio e quello ad esso abbinato "il 9" l'evento, ai fini del concorso, e' considerato non disputato ed e' attribuito convenzionalmente un punto a qualsiasi pronostico indicato, dal partecipante, per tali eventi; per il concorso pronostici Totogol e quello ad esso abbinato "+Gol" l'evento, ai fini del concorso, e' considerato non disputato e si assumera' quale risultato valido, ai fini della determinazione della colonna vincente, quello del primo evento valido in schedina.
 
@@ -277,6 +348,73 @@ Gli incassi delle giocate, al netto dei compensi dovuti ai punti di vendita e da
 
 ## Art. 10. — (Rendicontazione di riferimento ai
  fini delle movimentazioni finanziarie)
+
+1.
+                        
+                            
+                                Al singolo concessionario e' fornita la rendicontazione della gestione finanziaria, da parte del totalizzatore nazionale, relativamente alla settimana contabile di riferimento. Il rendiconto della gestione finanziaria e' messo a disposizione del concessionario, entro la fine del terzo giorno successivo alla chiusura della settimana contabile di riferimento. Il rendiconto contiene le seguenti informazioni:
+ 
+                            
+                            
+                                a)
+                                
+                                    importo totale da versare;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    incasso totale lordo delle giocate raccolte, per tutti i concorsi di cui e' chiusa l'accettazione, nella settimana contabile di riferimento;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    aggio totale, trattenuto dai punti di vendita, relativo all'incasso di cui al punto b);
+
+                                
+                            
+                            
+                                d)
+                                
+                                    importo totale delle vincite pagate dai punti vendita nella settimana contabile di riferimento;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    incasso di ciascun concorso di cui e' chiusa l'accettazione nella settimana contabile di riferimento;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    aggio, trattenuto dai punti di vendita, per l'incasso di ciascun concorso;
+
+                                
+                            
+                            
+                                g)
+                                
+                                    elenco delle vincite pagate dai punti di vendita nella settimana contabile di riferimento;
+
+                                
+                            
+                            
+                                h)
+                                
+                                    l'importo totale dei rimborsi effettuati nella settimana contabile di riferimento e dei rimborsi prescritti nella medesima settimana;
+
+                                
+                            
+                            
+                                i)
+                                
+                                    il compenso spettante al concessionario.
 
 Gli importi dovuti dal concessionario ad AAMS, in dipendenza della concessione, sono stabiliti sulla base del rendiconto della gestione finanziaria di cui al comma 1, lettera a).(2)
 
@@ -397,6 +535,70 @@ Il concorso pronostici Totocalcio consiste nell'esprimere quattordici pronostici
 
 
 
+2.
+                        
+                            
+                                I pronostici sono espressi attraverso i segni convenzionali 1, X, 2:
+ 
+                            
+                            
+                                a)
+                                
+                                    nel caso di eventi relativi a partite di calcio per i quali e' richiesto il pronostico sull'esito finale o parziale della partita stessa, con il segno 1 si pronostica la vittoria della prima squadra indicata per ogni evento, con il segno 2 si pronostica la vittoria della seconda squadra indicata per ogni evento e con il segno X si pronostica il loro pareggio;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    nel caso di eventi relativi a tutti gli sport per i quali e' richiesto il pronostico sull'esito conseguito da singoli competitori o squadre, per ogni singolo nome: con il segno 1 si pronostica il piazzamento dal 1° al 3° posto; con il segno X il piazzamento dal 4° al 6° posto; con il segno 2 si indica il piazzamento oltre al 6° posto o la mancata classificazione del competitore o della squadra;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    nel caso di eventi relativi a competizioni nazionali ed internazionali di calcio o di altre manifestazioni sportive suddivise in gironi, batterie o gruppi, per i quali e' richiesto il pronostico riguardo il piazzamento delle squadre: con il segno 1 si pronostica il piazzamento al 1° posto; con il segno X si pronostica il piazzamento al 2° posto; con il segno 2 si pronostica il piazzamento dal 3° posto o la mancata classificazione delle squadre nei gironi, nelle batterie o nei gruppi in cui risultano inserite;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    nel caso di eventi relativi a partite di pallavolo per i quali e' richiesto il pronostico sull'esito finale della partita: con il segno 1 si pronostica la vittoria della prima squadra indicata per ogni evento entro il 4° set, con il segno 2 si pronostica la vittoria della seconda squadra indicata per ogni evento entro il 4° set e con il segno X si pronostica la vittoria di una delle due squadre al 5° set;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    nel caso di eventi relativi a partite di pallacanestro per i quali e' richiesto il pronostico sull'esito finale della partita: con il segno 1 si pronostica la vittoria della prima squadra indicata per ogni evento entro i tempi regolamentari, con il segno 2 si pronostica la vittoria della seconda squadra indicata per ogni evento entro i tempi regolamentari e con il segno X si pronostica la vittoria di una delle due squadre ai tempi supplementari;
+
+                                
+                            
+                            
+                                e-bis)
+                                
+                                    nel caso in cui il concorso sia imperniato su competizioni olimpiche o su giochi mondiali, continentali, di area europea o extraeuropea, gli atleti o le squadre nazionali, iscritti per la partecipazione a discipline sportive prescelte dall'ente gestore e indicate nella scheda, sono suddivisi in tre gruppi, contraddistinti rispettivamente con i segni 1, X, 2. Marcando i predetti segni convenzionali, riferiti a ciascuna delle discipline inserite nella scheda, il partecipante indica in quale dei tre gruppi 1, X, 2 figurano inclusi gli atleti o le squadre che, in base ai risultati ufficiali conseguiti al termine delle competizioni stesse, risultano primi classificati in ciascuna delle discipline elencate.(1)
+
+3.
+                        
+                            
+                                Le schedine di gioco del concorso pronostici Totocalcio contengono:
+ 
+                            
+                            
+                                a)
+                                
+                                    i quattordici eventi prescelti per il concorso;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    da due a otto colonne, costituite ciascuna da tre caselle per ogni evento, contraddistinte dai segni convenzionali 1, X, 2.
+
 AAMS stabilisce le caratteristiche delle schedine di gioco universali, valide per ogni concorso, in cui i quattordici eventi sono indicati con un numero d'ordine progressivo da 1 a 14; AAMS pubblicizza, attraverso il bollettino ufficiale, i contenuti specifici del concorso prima dell'apertura dello stesso.
 
 Il partecipante esprime il proprio pronostico sulle schedine di gioco contrassegnando, per ciascun evento, la casella del segno convenzionale 1, X, 2, corrispondente al risultato pronosticato.
@@ -423,6 +625,87 @@ Per le giocate sistemistiche effettuate attraverso i canali di raccolta del gioc
 
 La giocata a caratura minima non puo' essere inferiore a 16 colonne unitarie. Per ogni giocata a caratura accettata, il terminale di gioco emette tante cedole di caratura quante sono le suddivisioni stabilite all'atto della giocata. Il numero delle cedole di caratura e' compreso tra un minimo di 2 e un massimo di 99. Il prezzo unitario di ciascuna cedola di caratura e' pari al valore complessivo della giocata, convalidata dal totalizzatore nazionale, diviso per il numero totale delle cedole di caratura.
 
+4.
+                        
+                            
+                                La cedola di caratura, che costituisce ricevuta di partecipazione, contiene almeno i seguenti elementi:
+ 
+                            
+                            
+                                a)
+                                
+                                    denominazione del concessionario;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    codice identificativo del punto di vendita e del terminale di gioco emittente;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    identificativo o logo grafico del concorso Totocalcio;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    numero del concorso, anno e data di effettuazione del medesimo;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    pronostici contenuti nella giocata;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    numero delle colonne unitarie accettate;
+
+                                
+                            
+                            
+                                g)
+                                
+                                    identificativo univoco assegnato alla giocata a caratura dal totalizzatore nazionale;
+
+                                
+                            
+                            
+                                h)
+                                
+                                    numero identificativo progressivo della cedola di caratura e numero totale delle cedole emesse relative alla giocata;
+
+                                
+                            
+                            
+                                i)
+                                
+                                    importo complessivo della giocata a caratura ed importo della singola cedola di caratura; l'importo della cedola di caratura e' arrotondato al centesimo di euro superiore;
+
+                                
+                            
+                            
+                                j)
+                                
+                                    data e ora, espressa in ore, minuti e secondi, di accettazione della giocata, assegnata dal totalizzatore nazionale;
+
+                                
+                            
+                            
+                                k)
+                                
+                                    eventuale premio precedente di partecipazione conseguito dalla giocata.
+
 Ciascuna cedola di caratura, in originale ed integra in ogni sua parte, consente la riscossione, in quanto ricevuta di partecipazione, della eventuale quota vinta, ricavata dal quoziente fra l'importo dei premi realizzati con l'intera giocata a caratura ed il numero totale delle cedole emesse, o del rimborso.
 
 Per la riscossione del premio precedente di partecipazione, eventualmente vinto, il terminale di gioco emette ulteriore, specifica ricevuta da riconsegnare al punto di vendita ai fini del pagamento del premio stesso.
@@ -440,6 +723,80 @@ Le modalita' di partecipazione al concorso attraverso giocate a caratura special
 ## Art. 21. — Ricevuta di partecipazione
 
 La ricevuta di partecipazione e' emessa dal terminale di gioco solo dopo che la giocata e' stata accettata e registrata dal totalizzatore nazionale.
+
+2.
+                        
+                            
+                                La ricevuta contiene almeno i seguenti elementi:
+ 
+                            
+                            
+                                a)
+                                
+                                    denominazione del concessionario;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    codice identificativo del punto di vendita e del terminale di gioco emittente;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    identificativo o logo grafico del concorso Totocalcio;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    numero del concorso, anno e data di effettuazione del medesimo;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    pronostici contenuti nella giocata;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    numero delle colonne unitarie accettate;
+
+                                
+                            
+                            
+                                g)
+                                
+                                    identificativo univoco assegnato alla giocata dal totalizzatore nazionale;
+
+                                
+                            
+                            
+                                h)
+                                
+                                    importo della giocata;
+
+                                
+                            
+                            
+                                i)
+                                
+                                    data e ora, espressa in ore, minuti e secondi, di accettazione della giocata, assegnata dal totalizzatore nazionale;
+
+                                
+                            
+                            
+                                j)
+                                
+                                    eventuale premio precedente di partecipazione conseguito dalla giocata.
 
 Per la riscossione del premio precedente di partecipazione il terminale di gioco emette, inoltre, ulteriore, specifica ricevuta da riconsegnare al punto di vendita ai fini del pagamento del premio stesso.
 
@@ -478,6 +835,38 @@ c) 3ª categoria, per le colonne unitarie con 12 punti. ))
 
 ((
 
+1.
+                        
+                            
+                                Il montepremi del concorso pronostici Totocalcio, da ripartire tra i vincitori, e' costituito dalla somma:
+ 
+                            
+                            
+                                a)
+                                
+                                    della percentuale dell'intero ammontare delle poste giocate per il concorso, di cui all'articolo 5, comma 1, lettera b);
+
+                                
+                            
+                            
+                                b)
+                                
+                                    dei resti del concorso precedente;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    di una quota ulteriore, definita da specifici provvedimenti del direttore generale di AAMS antecedenti ai singoli concorsi, degli eventuali finanziamenti provenienti dagli sponsor;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    dei premi e dei rimborsi non riscossi, di cui all'articolo 17.
+
 2. Il montepremi di cui al comma 1 e' incrementato, ai fini della determinazione del montepremi complessivo, dell'eventuale jackpot. ))
 
 -------------------
@@ -491,6 +880,31 @@ c) 3ª categoria, per le colonne unitarie con 12 punti. ))
  mancanza di vincitori).
 
 Dall'importo del montepremi del concorso di cui all'articolo 24, comma 1, si deduce l'importo dei premi precedenti di partecipazione, cosi' determinando la quota del montepremi del concorso da destinare ai premi a punteggio.
+
+2.
+                        
+                            
+                                L'importo da destinare, ai sensi del comma 1, ai premi a punteggio e' determinato nel modo seguente:
+ 
+                            
+                            
+                                a)
+                                
+                                    il 40 per cento del montepremi del concorso, da destinare ai premi a punteggio, e' assegnato alle vincite di 1ª categoria, incrementato dell'eventuale jackpot, di cui all'articolo 24, comma 2;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il 30 per cento del montepremi del concorso, da destinare ai premi a punteggio, e' assegnato alle vincite di 2ª categoria;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il 30 per cento del montepremi del concorso, da destinare ai premi a punteggio, e' assegnato alle vincite di 3ª categoria.
 
 Il quoziente tra il montepremi di una categoria ed il numero delle colonne unitarie vincenti della stessa costituisce la quota unitaria di vincita della categoria.
 
@@ -616,6 +1030,38 @@ I premi a punteggio sono assegnati sulla base dei punti conseguiti in ciascuna c
 
 ((
 
+1.
+                        
+                            
+                                Il montepremi del concorso pronostici "il9", autonomo rispetto a quello previsto per il concorso pronostici Totocalcio, da ripartire tra i vincitori, e' costituito dalla somma:
+ 
+                            
+                            
+                                a)
+                                
+                                    della percentuale dell'intero ammontare delle poste giocate per il concorso, di cui all'articolo 5, comma 1, lettera b);
+
+                                
+                            
+                            
+                                b)
+                                
+                                    dei resti del concorso precedente;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    di una quota ulteriore, definita da specifici provvedimenti del direttore generale di AAMS antecedenti ai singoli concorsi, degli eventuali finanziamenti provenienti dagli sponsor;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    dei premi e dei rimborsi non riscossi, di cui all'articolo 17.
+
 2. Il montepremi di cui al comma 1, e' incrementato, ai fini della determinazione del montepremi complessivo, dell'eventuale jackpot. ))
 
 -------------------
@@ -670,6 +1116,24 @@ Nel caso in cui la commissione di controllo (( riscontri )), per qualsiasi motiv
 
 La partecipazione al concorso pronostici Totogol si effettua, presso il punto di vendita, contrassegnando i pronostici sulla schedina di gioco ovvero con la loro digitazione diretta sui terminali di gioco, da parte degli addetti ai terminali e su dettatura effettuata dal partecipante ovvero con le modalita' previste per il gioco a distanza.
 
+2.
+                        
+                            
+                                Le schedine di gioco del concorso pronostici Totogol contengono:
+ 
+                            
+                            
+                                a)
+                                
+                                    l'elenco numerato dei 14 eventi prescelti per il concorso;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    due o piu' pannelli, costituiti ciascuno da quattordici caselle per ognuna delle sette posizioni d'ordine pronosticabili, riportanti i numeri che contraddistinguono gli eventi in schedina.
+
 3. Il partecipante esprime il proprio pronostico sulle schedine di gioco contrassegnando, in corrispondenza di ciascuna posizione d'ordine, il numero che contraddistingue in schedina l'evento prescelto. Per ciascuna delle sette posizioni d'ordine deve essere espresso almeno un pronostico.))
 
 La giocata minima non puo' essere inferiore a 2 colonne unitarie. La giocata massima non puo superare le 16.384 colonne unitarie.
@@ -696,6 +1160,87 @@ Per le giocate sistemistiche effettuate attraverso i canali di raccolta del gioc
 
 La giocata a caratura minima non puo' essere inferiore a 16 colonne unitarie (( valide )). Per ogni giocata a caratura accettata, il terminale di gioco emette tante cedole di caratura quante sono le suddivisioni stabilite all'atto della giocata. Il numero totale delle cedole di caratura e' compreso tra un minimo di 2 ed un massimo di 99. Il prezzo unitario di ciascuna cedola di caratura e' pari al valore complessivo della giocata, convalidata dal totalizzatore nazionale, diviso per il numero totale delle cedole di caratura.
 
+4.
+                        
+                            
+                                La cedola di caratura, che costituisce ricevuta di partecipazione, contiene almeno i seguenti elementi:
+ 
+                            
+                            
+                                a)
+                                
+                                    denominazione del concessionario;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    codice identificativo del punto di vendita e del terminale di gioco emittente;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    identificativo o logo grafico del concorso Totogol;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    numero del concorso, anno e data di effettuazione del medesimo;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    pronostici contenuti nella giocata;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    numero delle colonne unitarie accettate;
+
+                                
+                            
+                            
+                                g)
+                                
+                                    identificativo univoco assegnato alla giocata a caratura dal totalizzatore nazionale;
+
+                                
+                            
+                            
+                                h)
+                                
+                                    numero identificativo progressivo della cedola di caratura e numero totale delle cedole emesse relative alla giocata;
+
+                                
+                            
+                            
+                                i)
+                                
+                                    importo complessivo della giocata a caratura ed importo della singola cedola di caratura; l'importo della cedola di caratura e' arrotondato al centesimo di euro superiore;
+
+                                
+                            
+                            
+                                j)
+                                
+                                    data e ora, espressa in ore, minuti e secondi, di accettazione della giocata, assegnata dal totalizzatore nazionale;
+
+                                
+                            
+                            
+                                k)
+                                
+                                    eventuale premio precedente di partecipazione, conseguito dalla giocata.
+
 Ciascuna cedola di caratura, in originale ed integra in ogni sua parte, consente la riscossione, in quanto ricevuta di partecipazione, dell'eventuale quota vinta, ricavata dal quoziente tra l'importo dei premi realizzati con l'intera giocata a caratura ed il numero totale delle cedole emesse, o del rimborso.
 
 Per la riscossione del premio precedente di partecipazione, eventualmente vinto, il terminale di gioco emette ulteriore, specifica ricevuta da riconsegnare al punto di vendita ai fini del pagamento del premio stesso.
@@ -718,6 +1263,80 @@ Le modalita' di partecipazione al concorso attraverso giocate a caratura special
 ((
 
 La ricevuta di partecipazione e' emessa dal terminale di gioco solo dopo che la giocata e' stata accettata e registrata dal totalizzatore nazionale.
+
+2.
+                        
+                            
+                                La ricevuta contiene almeno i seguenti elementi:
+ 
+                            
+                            
+                                a)
+                                
+                                    denominazione del concessionario;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    codice identificativo del punto di vendita e del terminale di gioco emittente;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    identificativo o logo grafico del concorso Totogol;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    numero del concorso, anno e data di effettuazione del medesimo;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    pronostici contenuti nella giocata;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    numero delle colonne unitarie accettate;
+
+                                
+                            
+                            
+                                g)
+                                
+                                    identificativo univoco assegnato alla giocata dal totalizzatore nazionale;
+
+                                
+                            
+                            
+                                h)
+                                
+                                    importo della giocata;
+
+                                
+                            
+                            
+                                i)
+                                
+                                    data e ora, espressa in ore, minuti e secondi, di accettazione della giocata, assegnata dal totalizzatore nazionale;
+
+                                
+                            
+                            
+                                l)
+                                
+                                    eventuale premio precedente di partecipazione conseguito dalla giocata.
 
 3. Per la riscossione del premio precedente di partecipazione il terminale di gioco emette, inoltre, ulteriore, specifica ricevuta da riconsegnare al punto di vendita ai fini del pagamento del premio stesso. ))
 
@@ -775,7 +1394,39 @@ d) 4ª categoria, per le colonne unitarie con 4 punti.))
 
 ## Art. 40. — (Composizione del montepremi da ripartire tra i vincitori).
 
+1.
+                        
+                            
+                                Il montepremi del concorso pronostici Totogol, da ripartire tra i vincitori, e' costituito dalla somma:
+ 
+                            
+                            
+                                a)
+                                
+                                    della percentuale dell'intero ammontare delle poste giocate per il concorso, di cui all'articolo 5, comma 1, lettera b);
 
+                                
+                            
+                            
+                                b)
+                                
+                                    dei resti del concorso precedente;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    di una quota ulteriore, definita da specifici provvedimenti del direttore generale di AAMS antecedenti ai singoli concorsi, degli eventuali finanziamenti provenienti dagli sponsor;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    dei premi e dei rimborsi non riscossi, di cui all'articolo 17.
+
+((2. Il montepremi del concorso di cui al comma 1 e' incrementato, ai fini della determinazione del montepremi complessivo, dell'eventuale jackpot.))
 
 ((4))
 
@@ -804,6 +1455,38 @@ d) 4ª categoria, per le colonne unitarie con 4 punti.))
 Dall'importo del montepremi del concorso di cui all'articolo 40 comma 1, si deduce l'importo dei premi precedenti di partecipazione cosi' determinando la quota del montepremi del concorso da destinare ai premi a punteggio.
 
 ((
+
+2.
+                        
+                            
+                                L'importo da destinare, ai sensi del comma 1, ai premi a punteggio del concorso Totogol e' determinato nel modo seguente:
+ 
+                            
+                            
+                                a)
+                                
+                                    il 20 per cento del montepremi del concorso, da destinare ai premi a punteggio, e' assegnato alle vincite di 1ª categoria piu' l'eventuale jackpot, di cui all'articolo 40, comma 2;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il 25 per cento del montepremi del concorso, da destinare ai premi a punteggio, e' assegnato alle vincite di 2ª categoria;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il 25 per cento del montepremi del concorso, da destinare ai premi a punteggio, e' assegnato alle vincite di 3ª categoria;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    il 30 per cento del montepremi del concorso, da destinare ai premi a punteggio, e' assegnato alle vincite di 4ª categoria.
 
 ))
 
@@ -948,6 +1631,38 @@ I premi precedenti di partecipazione sono assegnati subito dopo l'accettazione d
  Vincitori). ))
 
 ((
+
+1.
+                        
+                            
+                                Il montepremi del concorso pronostici "+Gol", autonomo rispetto a quello previsto per il concorso pronostici Totogol, da ripartire tra i vincitori, e' costituito dalla somma:
+ 
+                            
+                            
+                                a)
+                                
+                                    della percentuale dell'intero ammontare delle poste giocate per il concorso, di cui all'articolo 5, comma 1, lettera b);
+
+                                
+                            
+                            
+                                b)
+                                
+                                    dei resti del concorso precedente;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    di una quota ulteriore, definita da specifici provvedimenti del direttore generale di AAMS antecedenti ai singoli concorsi, degli eventuali finanziamenti provenienti dagli sponsor;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    dei premi e dei rimborsi non riscossi, di cui all'articolo 17.
 
 2. Il montepremi di cui al comma 1, e' incrementato, ai fini della determinazione del montepremi complessivo, dell'eventuale jackpot. ))
 

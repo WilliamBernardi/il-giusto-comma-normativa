@@ -8,8 +8,8 @@ codice_redazionale: 092G0346
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:39Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -24,6 +24,87 @@ Udito il parere del Consiglio di Stato, espresso nell'adunanza generale del 6 fe
 ## Art. 1.
 
 I soggetti, persone fisiche o legali rappresentanti di persone giuridiche, che presentino all'amministrazione istanze tendenti ad ottenere provvedimenti che pressuppongono l'accertamento o l'assenza di stati, fatti o qualita' indicati al comma 2, in luogo della esibizione della prescritta documentazione, possono rendere una dichiarazione temporanea sostitutiva, anche nel testo dell'istanza, purche' quest'ultima, o la dichiarazione separata, rechino la sottoscrizione autenticata da un notaio, cancelliere, segretario comunale o altro funzionario incaricato dal sindaco.
+
+2.
+                    
+                        
+                            La dichiarazione sostitutiva di cui al comma 1 puo' riguardare i seguenti stati, fatti o qualita':
+ 
+                        
+                        
+                            a)
+                            
+                                l'inesistenza delle cause di ineleggibilita' e di decadenza relative all'ufficio di amministratore di societa', indicate nell'art. 2382 del codice civile o in altre leggi speciali;
+
+                            
+                        
+                        
+                            b)
+                            
+                                l'iscrizione nel registro delle ditte tenuto dalle camere di commercio;
+
+                            
+                        
+                        
+                            c)
+                            
+                                l'iscrizione nel registro degli esercenti il commercio tenuto dalle camere di commercio;
+
+                            
+                        
+                        
+                            d)
+                            
+                                la qualita' di legale rappresentante di societa' commerciali;
+
+                            
+                        
+                        
+                            e)
+                            
+                                l'assenza, sia a carico di imprenditori individuali che di societa' commerciali, di procedure esecutive concorsuali o di proce- dure equivalenti secondo legislazioni straniere;
+
+                            
+                        
+                        
+                            f)
+                            
+                                lo stato di incensuratezza o l'assenza di condanne per determinati reati;
+
+                            
+                        
+                        
+                            g)
+                            
+                                l'assenza di procedure dirette ad irrogare misure di prevenzione della criminalita';
+
+                            
+                        
+                        
+                            h)
+                            
+                                l'assolvimento degli obblighi contributivi, assistenziali e previdenziali nascenti dalla qualita' di datore di lavoro;
+
+                            
+                        
+                        
+                            i)
+                            
+                                la regolare posizione rispetto ad obblighi tributari, nascenti dalla legislazione italiana o da legislazioni straniere;
+
+                            
+                        
+                        
+                            l)
+                            
+                                lo stato di disoccupazione;
+
+                            
+                        
+                        
+                            m)
+                            
+                                la qualita' di invalido e tipo o grado o classe o natura dell'invalidita', nonche' l'iscrizione negli elenchi degli invalidi; i soggetti, persone fisiche o legali rappresentanti di persone giuridiche, che presentino all'amministrazione istanze tendenti ad ottenere provvedimenti che presuppongono l'accertamento o l'assenza dei suddetti stati, fatti e qualita', possono rendere la relativa dichiarazione, anche nel testo dell'istanza, purche' quest'ultima, o la dichiarazione separata, rechino la sottoscrizione autenticata da un notaio, cancelliere, segretario comunale o altro funzionario incaricato dal sindaco.
 
 L'autenticazione della dichiarazione o della domanda viene effettuata, a richiesta degli interessati, dal funzionario incaricato di ricevere la documentazione.
 

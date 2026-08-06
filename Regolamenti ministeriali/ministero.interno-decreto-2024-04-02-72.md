@@ -7,8 +7,8 @@ urn: urn:nir:ministero.interno:decreto:2024-04-02;72
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:42Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -37,6 +37,31 @@ Il bando di concorso e' adottato con decreto del Capo del Dipartimento dei vigil
 L'identificazione informatica dei candidati che partecipano al concorso e' effettuata, ai fini della presentazione in via telematica della domanda di partecipazione, in conformita' a quanto disposto dall'articolo 64, comma 2-quater, del decreto legislativo 7 marzo 2005, n. 82.
 
 ## Art. 2. — Requisiti di partecipazione
+
+1.
+                        
+                            
+                                Al concorso pubblico di cui all'articolo 1, fermo restando quanto previsto dall'articolo 33, comma 1, del decreto legislativo 13 ottobre 2005, n. 217, possono partecipare i cittadini italiani in possesso dei seguenti requisiti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    eta' non superiore a 35 anni; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    idoneita' fisica, psichica e attitudinale ai servizi di navigazione aerea, secondo i parametri individuati nel decreto del Presidente della Repubblica 15 marzo 2010, n. 90. 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    idoneita' fisica, psichica e attitudinale per l'accesso ai ruoli del personale del Corpo nazionale che espleta funzioni operative di cui al decreto del Ministro dell'interno 4 novembre 2019, n. 166.
 
 Non sono ammessi al concorso coloro che si trovino nelle condizioni di cui all'articolo 33, comma 2, del decreto legislativo n. 217 del 2005.
 
@@ -156,6 +181,52 @@ Al personale del Corpo nazionale collocato in posizione utile nella graduatoria 
 
 ## Art. 10. — Dimissioni ed espulsioni dal corso di formazione
 
+1.
+                        
+                            
+                                E' dimesso dal corso di formazione di cui all'articolo 9 il personale che: 
+ 
+                            
+                            
+                                a)
+                                
+                                    dichiara di rinunciare al corso; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    non e' riconosciuto idoneo al volo o al servizio di istituto ai sensi dell'articolo 7, commi 4 e 9; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    non supera l'esame teorico-pratico di cui all'articolo 9, comma 5; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    non supera le verifiche intermedie di cui all'articolo 9, comma 8; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    non supera l'esame finale di cui all'articolo 9, comma 9; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    e' stato per qualsiasi motivo assente dalla fase teorico-pratica o dal corso avanzato per un numero di giorni, anche non consecutivi, superiore al venti per cento dei giorni di durata, rispettivamente, della fase teorico-pratica o del corso avanzato, salvi i casi di assenza o inidoneita' temporanea al volo dovuta a infermita' contratta durante il corso oppure dipendente da causa di servizio e i casi di assenza determinata da maternita'. Nell'ipotesi di assenza o inidoneita' temporanea al volo dovuta a infermita' contratta durante il corso oppure dipendente da causa di servizio, il personale e' ammesso a partecipare di diritto al corrispondente primo corso successivo al riconoscimento della sua idoneita' psico-fisica e sempre che nel periodo precedente a detto corso non sia intervenuta una delle cause di esclusione previste per la partecipazione al concorso. Nell'ipotesi di assenza determinata da maternita', le allieve sono ammesse a partecipare di diritto al primo corso successivo ai periodi di assenza dal lavoro previsti dalle disposizioni in materia di congedo di maternita' e sempre che nel periodo precedente a detto corso non sia intervenuta una delle cause di esclusione previste per la partecipazione al concorso.
+
 E' espulso dal corso il personale responsabile di infrazioni punite con sanzioni disciplinari pari o piu' gravi della sanzione pecuniaria di cui all'articolo 239, comma 1, del decreto legislativo 13 ottobre 2005, n. 217.
 
 I provvedimenti di dimissione e di espulsione dal corso sono adottati con decreto del capo del Dipartimento, su proposta del direttore centrale per la formazione.
@@ -175,6 +246,31 @@ Il bando di concorso e' adottato con decreto del Capo del Dipartimento e pubblic
 L'identificazione informatica dei candidati che partecipano al concorso e' effettuata, ai fini della presentazione in via telematica della domanda di partecipazione, in conformita' a quanto disposto dall'articolo 64, comma 2-quater, del decreto legislativo 7 marzo 2005, n. 82.
 
 ## Art. 12. — Requisiti di partecipazione
+
+1.
+                        
+                            
+                                Al concorso pubblico di cui all'articolo 11, fermo restando quanto previsto dall'articolo 34, comma 1, del decreto legislativo 13 ottobre 2005, n. 217, possono partecipare i cittadini italiani in possesso dei seguenti requisiti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    eta' non superiore a 35 anni; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    idoneita' fisica, psichica e attitudinale ai servizi di navigazione aerea, secondo i parametri individuati nel decreto del Presidente della Repubblica 15 marzo 2010, n. 90; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    idoneita' fisica, psichica e attitudinale per l'accesso ai ruoli del personale del Corpo nazionale che espleta funzioni operative di cui al decreto del Ministro dell'interno 4 novembre 2019, n. 166.
 
 Non sono ammessi al concorso coloro che si trovino nelle condizioni di cui all'articolo 34, comma 2, del decreto legislativo n. 217 del 2005.
 
@@ -293,6 +389,52 @@ Al personale del Corpo nazionale collocato in posizione utile nella graduatoria 
 
 ## Art. 20. — Dimissioni ed espulsioni dal corso di formazione
 
+1.
+                        
+                            
+                                E' dimesso dal corso di formazione di cui all'articolo 19 il personale che: 
+ 
+                            
+                            
+                                a)
+                                
+                                    dichiara di rinunciare al corso; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    non e' riconosciuto idoneo al servizio di istituto ai sensi dell'articolo 17, commi 4 e 9; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    non supera l'esame teorico-pratico di cui all'articolo 19, comma 5; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    non supera le verifiche intermedie di cui all'articolo 19, comma 8; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    non supera l'esame finale di cui all'articolo 19, comma 9; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    e' stato per qualsiasi motivo assente dalla fase teorico-pratica o dalla fase avanzata del corso per un numero di giorni, anche non consecutivi, superiore al venti per cento dei giorni di durata, rispettivamente, della fase teorico-pratica o della fase avanzata del corso, salvi i casi di assenza dovuta a infermita' contratta durante il corso oppure dipendente da causa di servizio e i casi di assenza determinata da maternita'. Nell'ipotesi di assenza dovuta a infermita' contratta durante il corso oppure dipendente da causa di servizio, il personale e' ammesso a partecipare di diritto al corrispondente primo corso successivo al riconoscimento della sua idoneita' psico-fisica e sempre che nel periodo precedente a detto corso non sia intervenuta una delle cause di esclusione previste per la partecipazione al concorso. Nell'ipotesi di assenza determinata da maternita', le allieve sono ammesse a partecipare di diritto al primo corso successivo ai periodi di assenza dal lavoro previsti dalle disposizioni in materia di congedo di maternita' e sempre che nel periodo precedente a detto corso non sia intervenuta una delle cause di esclusione previste per la partecipazione al concorso.
+
 E' espulso dal corso il personale responsabile di infrazioni punite con sanzioni disciplinari pari o piu' gravi della sanzione pecuniaria di cui all'articolo 239, comma 1, del decreto legislativo 13 ottobre 2005, n. 217.
 
 I provvedimenti di dimissione e di espulsione dal corso sono adottati con decreto del capo del Dipartimento, su proposta del direttore centrale per la formazione.
@@ -312,6 +454,31 @@ Il bando di concorso e' adottato con decreto del Capo del Dipartimento e pubblic
 L'identificazione informatica dei candidati che partecipano al concorso e' effettuata, ai fini della presentazione in via telematica della domanda di partecipazione, in conformita' a quanto disposto dall'articolo 64, comma 2-quater, del decreto legislativo 7 marzo 2005, n. 82.
 
 ## Art. 22. — Requisiti di partecipazione
+
+1.
+                        
+                            
+                                Al concorso pubblico di cui all'articolo 21, fermo restando quanto previsto dall'articolo 50, comma 1, del decreto legislativo 13 ottobre 2005, n. 217, possono partecipare i cittadini italiani in possesso dei seguenti requisiti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    eta' non superiore a 36 anni; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    idoneita' fisica, psichica e attitudinale per l'accesso ai ruoli del personale del Corpo nazionale che espleta funzioni operative di cui al decreto del Ministro dell'interno 4 novembre 2019, n. 166, e gli specifici requisiti di idoneita' fisica, psichica e attitudinale secondo i parametri individuati nell'allegato C, parte I, che costituisce parte integrante del presente regolamento. 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    titoli professionali marittimi individuati dall'articolo 1, commi 1 e 2, del decreto del Capo del Dipartimento del 24 settembre 2020.
 
 Non sono ammessi al concorso coloro che si trovino nelle condizioni di cui all'articolo 50, comma 2, del decreto legislativo n. 217 del 2005.
 
@@ -424,6 +591,52 @@ Al personale del Corpo nazionale collocato in posizione utile nella graduatoria 
 
 ## Art. 30. — Dimissioni ed espulsioni dal corso di formazione
 
+1.
+                        
+                            
+                                E' dimesso dal corso di formazione di cui all'articolo 29 il personale che: 
+ 
+                            
+                            
+                                a)
+                                
+                                    dichiara di rinunciare al corso; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    non e' riconosciuto idoneo al servizio di istituto ai sensi dell'articolo 29, comma 6; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    non supera l'esame teorico-pratico di cui all'articolo 29, comma 6; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    non supera le verifiche intermedie di cui all'articolo 29, comma 9; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    non supera l'esame finale di cui all'articolo 29, comma 10; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    e' stato per qualsiasi motivo assente dalla fase teorico-pratica o dalla fase avanzata del corso per un numero di giorni, anche non consecutivi, superiore al venti per cento dei giorni di durata, rispettivamente, della fase teorico-pratica o della fase avanzata del corso, salvi i casi di assenza dovuta a infermita' contratta durante il corso oppure dipendente da causa di servizio e i casi di assenza determinata da maternita'. Nell'ipotesi di assenza dovuta a infermita' contratta durante il corso oppure dipendente da causa di servizio, il personale e' ammesso a partecipare di diritto al corrispondente primo corso successivo al riconoscimento della sua idoneita' psico-fisica e sempre che nel periodo precedente a detto corso non sia intervenuta una delle cause di esclusione previste per la partecipazione alla selezione. Nell'ipotesi di assenza determinata da maternita', le allieve sono ammesse a partecipare di diritto al primo corso successivo ai periodi di assenza dal lavoro previsti dalle disposizioni in materia di congedo di maternita' e sempre che nel periodo precedente a detto corso non sia intervenuta una delle cause di esclusione previste per la partecipazione alla selezione.
+
 E' espulso dal corso il personale responsabile di infrazioni punite con sanzioni disciplinari pari o piu' gravi della sanzione pecuniaria di cui all'articolo 239, comma 1, del decreto legislativo 13 ottobre 2005, n. 217.
 
 I provvedimenti di dimissione e di espulsione dal corso sono adottati con decreto del Capo del Dipartimento, su proposta del direttore centrale per la formazione.
@@ -443,6 +656,31 @@ Il bando di concorso e' adottato con decreto del Capo del Dipartimento e pubblic
 L'identificazione informatica dei candidati che partecipano al concorso e' effettuata, ai fini della presentazione in via telematica della domanda di partecipazione, in conformita' a quanto disposto dall'articolo 64, comma 2-quater, del decreto legislativo 7 marzo 2005, n. 82.
 
 ## Art. 32. — Requisiti di partecipazione
+
+1.
+                        
+                            
+                                Al concorso pubblico di cui all'articolo 31, fermo restando quanto previsto dall'articolo 50, comma 1, del decreto legislativo 13 ottobre 2005, n. 217, possono partecipare i cittadini italiani in possesso dei seguenti requisiti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    eta' non superiore a 36 anni; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    idoneita' fisica, psichica e attitudinale per l'accesso ai ruoli del personale del Corpo nazionale che espleta funzioni operative di cui al decreto del Ministro dell'interno 4 novembre 2019, n. 166, e gli specifici requisiti di idoneita' fisica, psichica e attitudinale secondo i parametri individuati nell'allegato D, parte I, che costituisce parte integrante del presente regolamento; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    titoli professionali marittimi individuati dall'articolo 1, commi 3 e 4, del decreto del Capo del Dipartimento del 24 settembre 2020.
 
 Non sono ammessi al concorso coloro che si trovino nelle condizioni di cui all'articolo 50, comma 2, del decreto legislativo n. 217 del 2005.
 
@@ -555,6 +793,52 @@ Al personale del Corpo nazionale collocato in posizione utile nella graduatoria 
 
 ## Art. 40. — Dimissioni ed espulsioni dal corso di formazione
 
+1.
+                        
+                            
+                                E' dimesso dal corso di formazione di cui all'articolo 39 il personale che: 
+ 
+                            
+                            
+                                a)
+                                
+                                    dichiara di rinunciare al corso; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    non e' riconosciuto idoneo al servizio di istituto ai sensi dell'articolo 39, comma 6; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    non supera l'esame teorico-pratico di cui all'articolo 39, comma 6; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    non supera le verifiche intermedie di cui all'articolo 39, comma 9; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    non supera l'esame di fine corso di cui all'articolo 39, comma 10; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    e' stato per qualsiasi motivo assente dalla fase teorico-pratica o dalla fase avanzata del corso per un numero di giorni, anche non consecutivi, superiore al venti per cento dei giorni di durata, rispettivamente, della fase teorico-pratica o della fase avanzata del corso, salvi i casi di assenza dovuta a infermita' contratta durante il corso oppure dipendente da causa di servizio e i casi di assenza determinata da maternita'. Nell'ipotesi di assenza dovuta a infermita' contratta durante il corso oppure dipendente da causa di servizio, il personale e' ammesso a partecipare di diritto al corrispondente primo corso successivo al riconoscimento della sua idoneita' psico-fisica e sempre che nel periodo precedente a detto corso non sia intervenuta una delle cause di esclusione previste per la partecipazione alla selezione. Nell'ipotesi di assenza determinata da maternita', le allieve sono ammesse a partecipare di diritto al primo corso successivo ai periodi di assenza dal lavoro previsti dalle disposizioni in materia di congedo di maternita' e sempre che nel periodo precedente a detto corso non sia intervenuta una delle cause di esclusione previste per la partecipazione alla selezione.
+
 E' espulso dal corso il personale responsabile di infrazioni punite con sanzioni disciplinari pari o piu' gravi della sanzione pecuniaria di cui all'articolo 239, comma 1, del decreto legislativo 13 ottobre 2005, n. 217.
 
 I provvedimenti di dimissione e di espulsione dal corso sono adottati con decreto del capo del Dipartimento, su proposta del direttore centrale per la formazione.
@@ -574,6 +858,31 @@ Il bando di concorso e' adottato con decreto del Capo del Dipartimento e pubblic
 L'identificazione informatica dei candidati che partecipano al concorso e' effettuata, ai fini della presentazione in via telematica della domanda di partecipazione, in conformita' a quanto disposto dall'articolo 64, comma 2-quater, del decreto legislativo 7 marzo 2005, n. 82.
 
 ## Art. 42. — Requisiti di partecipazione
+
+1.
+                        
+                            
+                                Al concorso pubblico di cui all'articolo 41, fermo restando quanto previsto dall'articolo 52, comma 1, del decreto legislativo 13 ottobre 2005, n. 217, possono partecipare i cittadini italiani in possesso dei seguenti requisiti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    eta' non superiore a 36 anni; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    idoneita' fisica, psichica e attitudinale secondo i parametri individuati nell'allegato E, parte I, che costituisce parte integrante del presente regolamento. 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    titoli professionali di sommozzatore individuati dall'articolo 1, comma 1, del decreto del Capo Dipartimento del 24 settembre 2020.
 
 Non sono ammessi al concorso coloro che si trovino nelle condizioni di cui all'articolo 52, comma 2, del decreto legislativo n. 217 del 2005.
 
@@ -688,6 +997,68 @@ La commissione di cui al comma 11, sulla base del punteggio di cui al comma 13, 
 Al personale del Corpo nazionale collocato in posizione utile nella graduatoria finale il Capo del Corpo nazionale rilascia il brevetto VF di sommozzatore.
 
 ## Art. 50. — Dimissione ed espulsione dal corso di formazione
+
+1.
+                        
+                            
+                                E' dimesso dal corso di formazione di cui all'articolo 49 il personale che: 
+ 
+                            
+                            
+                                a)
+                                
+                                    dichiara di rinunciare al corso; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    non e' riconosciuto idoneo al servizio di istituto ai sensi dell'articolo 49, comma 6; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    non supera l'esame teorico-pratico di cui all'articolo 49, comma 6; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    non consegue i punteggi minimi di cui all'articolo 49, comma 10; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    non supera l'esame finale di cui all'articolo 49, comma 10; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    e' stato per qualsiasi motivo assente dalla fase teorico-pratica per un numero di giorni, anche non consecutivi, superiore al venti per cento dei giorni di durata della fase teorico-pratica, salvi i casi di assenza dovuta a infermita' contratta durante il corso oppure dipendente da causa di servizio e i casi di assenza determinata da maternita'. Nell'ipotesi di assenza dovuta a infermita' contratta durante il corso oppure dipendente da causa di servizio, il personale e' ammesso a partecipare di diritto al corrispondente primo corso successivo al riconoscimento della sua idoneita' psico-fisica e sempre che nel periodo precedente a detto corso non sia intervenuta una delle cause di esclusione previste per la partecipazione al concorso. Nell'ipotesi di assenza determinata da maternita', le allieve sono ammesse a partecipare di diritto al primo corso successivo ai periodi di assenza dal lavoro previsti dalle disposizioni in materia di congedo di maternita', e sempre che nel periodo precedente a detto corso non sia intervenuta una delle cause di esclusione previste per la partecipazione al concorso; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    e' stato per qualsiasi motivo assente dalla fase avanzata per un numero di giorni, non consecutivi, superiore al dieci per cento dei giorni di durata della fase avanzata, salvi i casi di assenza dovuta a infermita' contratta durante il corso e i casi di assenza determinata da maternita'. Nell'ipotesi di assenza dovuta a infermita' contratta durante il corso, il personale e' ammesso a partecipare di diritto al corrispondente primo corso successivo al riconoscimento della sua idoneita' psico-fisica e sempre che nel periodo precedente a detto corso non sia intervenuta una delle cause di esclusione previste per la partecipazione al concorso.
+Nell'ipotesi di assenza determinata da maternita', le allieve sono ammesse a partecipare di diritto al primo corso successivo ai periodi di assenza dal lavoro previsti dalle disposizioni in materia di congedo di maternita' e sempre che nel periodo precedente a detto corso non sia intervenuta una delle cause di esclusione previste per la partecipazione al concorso; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    e' stato per qualsiasi motivo assente dalla fase avanzata per un numero di giorni, consecutivi, superiore al cinque per cento dei giorni di durata della fase avanzata, salvi i casi di assenza dovuta a infermita' contratta durante il corso e i casi di assenza determinata da maternita'. Nell'ipotesi di assenza dovuta a infermita' contratta durante il corso, il personale e' ammesso a partecipare di diritto al corrispondente primo corso successivo al riconoscimento della sua idoneita' psico-fisica e sempre che nel periodo precedente a detto corso non sia intervenuta una delle cause di esclusione previste per la partecipazione al concorso.
+Nell'ipotesi di assenza determinata da maternita', le allieve sono ammesse a partecipare di diritto al primo corso successivo ai periodi di assenza dal lavoro previsti dalle disposizioni in materia di congedo di maternita' e sempre che nel periodo precedente a detto corso non sia intervenuta una delle cause di esclusione previste per la partecipazione al concorso.
 
 E' espulso dal corso il personale responsabile di infrazioni punite con sanzioni disciplinari pari o piu' gravi della sanzione pecuniaria di cui all'articolo 239, comma 1, del decreto legislativo n. 217 del 2005.
 

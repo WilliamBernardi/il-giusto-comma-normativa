@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Leggi delega e relativi provvedimenti delegati
 vigenza_date: 2025-01-25
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:41:14Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -56,6 +56,115 @@ Il trattamento economico accessorio del personale del Ministero della giustizia 
 
 ## Art. 2. — (Finalita')
 
+1.
+                        
+                            
+                                La Scuola e' preposta: 
+ 
+                            
+                            
+                                a)
+                                
+                                    alla formazione e all'aggiornamento professionale dei magistrati ordinari; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    all'organizzazione di seminari di aggiornamento professionale e di formazione dei magistrati e, nei casi previsti dalla lettera n), di altri operatori della giustizia; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    alla formazione iniziale e permanente della magistratura onoraria; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    alla formazione dei magistrati titolari di funzioni direttive e semidirettive negli uffici giudiziari; 
+
+                                
+                            
+                            
+                                d-bis)
+                                
+                                    all'organizzazione di corsi di formazione per i magistrati giudicanti e requirenti che aspirano al conferimento degli incarichi direttivi e semidirettivi di primo e di secondo grado; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    alla formazione dei magistrati incaricati di compiti di formazione; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    alle attivita' di formazione decentrata; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    alla formazione, su richiesta della competente autorita' di Governo, di magistrati stranieri in Italia o partecipanti all'attivita' di formazione che si svolge nell'ambito della Rete di formazione giudiziaria europea ovvero nel quadro di progetti dell'Unione europea e di altri Stati o di istituzioni internazionali, ovvero all'attuazione di programmi del Ministero degli affari esteri e al coordinamento delle attivita' formative dirette ai magistrati italiani da parte di altri Stati o di istituzioni internazionali aventi ad oggetto l'organizzazione e il funzionamento del servizio giustizia; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    alla collaborazione, su richiesta della competente autorita' di Governo, nelle attivita' dirette all'organizzazione e al funzionamento del servizio giustizia in altri Paesi; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    alla realizzazione di programmi di formazione in collaborazione con analoghe strutture di altri organi istituzionali o di ordini professionali; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    alla pubblicazione di ricerche e di studi nelle materie oggetto di attivita' di formazione; 
+
+                                
+                            
+                            
+                                m)
+                                
+                                    all'organizzazione di iniziative e scambi culturali, incontri di studio e ricerca, in relazione all'attivita' di formazione; 
+
+                                
+                            
+                            
+                                n)
+                                
+                                    allo svolgimento, anche sulla base di specifici accordi o convenzioni che disciplinano i relativi oneri, di seminari per operatori della giustizia o iscritti alle scuole di specializzazione forense; 
+
+                                
+                            
+                            
+                                o)
+                                
+                                    alla collaborazione alle attivita' connesse con lo svolgimento del tirocinio dei magistrati ordinari nell'ambito delle direttive formulate dal Consiglio superiore della magistratura e tenendo conto delle proposte dei consigli giudiziari. 
+
+                                
+                            
+                            
+                                o-bis)
+                                
+                                    all'organizzazione di corsi di preparazione al concorso per magistrato ordinario.
+
 All'attivita' di ricerca non si applica l'articolo 63 del decreto del Presidente della Repubblica 11 luglio 1980, n. 382.
 
 L'organizzazione della Scuola e' disciplinata dallo statuto e dai regolamenti adottati ai sensi dell'articolo 5, comma 2.
@@ -71,6 +180,31 @@ La Scuola adotta regolamenti di organizzazione interna, in conformita' alle disp
 ## Art. 4. — (( (Organi) ))
 
 ((
+
+1.
+                        
+                            
+                                Gli organi della Scuola sono:
+ 
+                            
+                            
+                                a)
+                                
+                                    il comitato direttivo;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il presidente;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il segretario generale.
 
 ))
 
@@ -137,6 +271,59 @@ Le modalita' di sostituzione del presidente in caso di assenza o impedimento son
 
 ## Art. 12. — (Funzioni)
 
+1.
+                        
+                            
+                                I componenti del comitato direttivo svolgono anche i compiti di responsabili di settore, curando, nell'ambito assegnato dallo stesso comitato direttivo: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la predisposizione della bozza di programma annuale delle attivita' didattiche, da sottoporre al comitato direttivo, elaborata tenendo conto delle linee programmatiche sulla formazione pervenute dal Consiglio superiore della magistratura e dal Ministro della giustizia, nonche' delle proposte pervenute dal Consiglio nazionale forense e dal Consiglio universitario nazionale; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'attuazione del programma annuale dell'attivita' didattica approvato dal comitato direttivo; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    la definizione del contenuto analitico di ciascuna sessione; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    l'individuazione dei docenti chiamati a svolgere l'incarico di insegnamento in ciascuna sessione, utilizzando lo specifico albo tenuto presso la Scuola, e la proposta dei relativi nominativi, in numero doppio rispetto agli incarichi, al comitato direttivo; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    la proposta dei criteri di ammissione alle sessioni di formazione; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    l'offerta di sussidio didattico e di sperimentazione di nuove formule didattiche; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    lo svolgimento delle sessioni presentando, all'esito di ciascuna di esse, relazioni consuntive.
+
 ## Art. 13. — ((ARTICOLO ABROGATO DALLA L. 30 LUGLIO 2007, N. 111))
 
 
@@ -163,6 +350,45 @@ Le modalita' di sostituzione del presidente in caso di assenza o impedimento son
 
 ((
 
+1.
+                        
+                            
+                                Il segretario generale della Scuola:
+ 
+                            
+                            
+                                a)
+                                
+                                    e' responsabile della gestione amministrativa e coordina tutte le attivita' della Scuola con esclusione di quelle afferenti alla didattica;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    provvede all'esecuzione delle delibere del comitato direttivo esercitando anche i conseguenti poteri di spesa;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    predispone la relazione annuale sull'attivita' della Scuola;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    esercita le competenze eventualmente delegategli dal comitato direttivo;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    esercita ogni altra funzione conferitagli dallo statuto e dai regolamenti interni.
+
 ))
 
 ## Art. 17-ter. — ((Funzioni, durata e trattamento economico))
@@ -180,6 +406,31 @@ L'incarico ((...)) puo' essere rinnovato per una sola volta per un periodo massi
 ## Art. 17-quater. — (( (Vice segretario generale). ))
 
 ((
+
+1.
+                        
+                            
+                                Il vice segretario generale della Scuola: 
+ 
+                            
+                            
+                                a)
+                                
+                                    coadiuva il segretario generale nell'esercizio delle sue funzioni; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    esercita le competenze delegategli dal segretario generale; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    sostituisce il segretario generale in caso di assenza o impedimento ed esercita ogni altra funzione conferitagli dallo statuto e dai regolamenti interni.
 
 ))
 
@@ -418,6 +669,59 @@ Agli oneri finanziari conseguenti alla applicazione del presente decreto, con es
 All'attuazione della disposizione di cui all'articolo 1, comma 4, si provvede con le risorse umane del Ministero della giustizia, ((i cui oneri, limitatamente al trattamento economico fondamentale, restano a carico della stessa amministrazione,)) all'uopo utilizzando le risorse finanziarie a tale scopo gia' destinate e senza nuovi o maggiori oneri a carico della finanza pubblica.
 
 ## Art. 38. — Abrogazioni
+
+1.
+                        
+                            
+                                Oltre a quanto previsto dal decreto legislativo di attuazione della delega di cui all'articolo 1, comma 3, della legge 25 luglio 2005, n. 150, sono abrogati, dalla data di efficacia delle disposizioni contenute nel presente decreto:
+ 
+                            
+                            
+                                a)
+                                
+                                    l'articolo 128, primo comma, dell'ordinamento giudiziario di cui al regio decreto 30 gennaio 1941, n. 12;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'articolo 129 dell'ordinamento giudiziario di cui al regio decreto 30 gennaio 1941, n. 12, e successive modificazioni;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    l'articolo 129-bis dell'ordinamento giudiziario di cui al regio decreto 30 gennaio 1941, n. 12, introdotto dall'articolo 16 della legge 13 febbraio 2001, n. 48;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    l'articolo 11, comma 5, della legge 13 febbraio 2001, n. 48;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    l'articolo 14, commi 2, 3 e 4, della legge 13 febbraio 2001, n. 48;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    la legge 30 maggio 1965, n. 579;
+
+                                
+                            
+                            
+                                g)
+                                
+                                    l'articolo 48 del decreto del Presidente della Repubblica 16 settembre 1958, n. 916, nonche' le disposizioni emanate in attuazione di tale articolo.
 
 ## Art. 39. — Efficacia
 

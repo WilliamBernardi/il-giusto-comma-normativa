@@ -8,8 +8,8 @@ codice_redazionale: 097G0362
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:40Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -66,6 +66,38 @@ Il potere di rappresentanza deve essere conferito utilizzando il modulo predispo
 Il modulo deve pervenire all'impresa di investimento, alla banca o all'agente di cambio almeno il giorno precedente quello previsto per l'assemblea in prima convocazione.
 
 ## Art. 5.
+
+1.
+                    
+                        
+                            Il modulo deve contenere ogni notizia utile per la sua compilazione e spedizione ed in particolare:
+ 
+                        
+                        
+                            a)
+                            
+                                il conferimento al rappresentante del potere di intervenire e votare in assemblea in nome e per conto del socio, compiendo le formalita' necessarie;
+
+                            
+                        
+                        
+                            b)
+                            
+                                la data di convocazione dell'assemblea e l'ordine del giorno;
+
+                            
+                        
+                        
+                            c)
+                            
+                                la precisazione che la procura e' sempre revocabile nei termini di cui al precedente articolo 2;
+
+                            
+                        
+                        
+                            d)
+                            
+                                informazioni in merito al voto che l'impresa di investimento, la banca o l'agente di cambio intenda esprimere, nel caso che il socio conferisca la rappresentanza senza dare indicazioni di voto.
 
 Il modulo deve consentire al socio di indicare il voto che intende venga espresso sui singoli argomenti all'ordine del giorno; quando all'ordine del giorno dell'assemblea vi sia la nomina degli amministratori o dei sindaci, sul modulo devono poter essere indicati i nominativi dei candidati che il socio intende siano votati.
 

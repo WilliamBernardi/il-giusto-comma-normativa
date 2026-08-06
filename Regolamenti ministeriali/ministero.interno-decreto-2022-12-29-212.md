@@ -7,8 +7,8 @@ urn: urn:nir:ministero.interno:decreto:2022-12-29;212
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:41Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -43,7 +43,50 @@ L'identificazione informatica dei candidati che partecipano alla procedura conco
 
 Le prove di esame sono costituite da tre prove pratiche e una prova orale.
 
+2.
+                        
+                            
+                                Le tre prove pratiche consistono in: 
+ 
+                            
+                            
+                                a)
+                                
+                                    una esecuzione, con lo strumento per il quale e' stato bandito il concorso, di un brano di concerto, scelto dal candidato; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    uno studio di adeguate difficolta' tecniche, scelto dalla commissione esaminatrice fra tre proposti dal candidato; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    una lettura e una esecuzione a prima vista di uno o piu' brani scelti dalla commissione esaminatrice.
+
 Sono ammessi alla prova orale i candidati che abbiano riportato in ciascuna prova pratica una votazione non inferiore a 21/30 (ventuno/trentesimi).
+
+4.
+                        
+                            
+                                La prova orale consiste in un colloquio vertente su: 
+ 
+                            
+                            
+                                a)
+                                
+                                    nozioni relative alla struttura fisico-acustica ed alla storia dello strumento suonato; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    ordinamento del Ministero dell'interno, con particolare riferimento al Dipartimento, e ordinamento del personale del Corpo nazionale.
 
 La prova orale si intende superata se il candidato ottiene una votazione non inferiore a 21/30 (ventuno/trentesimi).
 
@@ -67,7 +110,71 @@ L'identificazione informatica dei candidati che partecipano alla procedura conco
 
 Le prove di esame sono costituite da tre prove scritte, una prova orale e una prova pratica.
 
+2.
+                        
+                            
+                                Le tre prove scritte consistono in: 
+ 
+                            
+                            
+                                a)
+                                
+                                    una composizione di una fuga a quattro parti, da svolgere in un tempo massimo indicato nel bando; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    una composizione di una marcia eroica o funebre o trionfale o militare per pianoforte con qualche accenno strumentale, da svolgere in un tempo massimo indicato nel bando; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    una strumentazione per banda di un brano di musica per pianoforte, organo o per orchestra, da svolgere in un tempo massimo indicato nel bando.
+
 Sono ammessi alla prova orale i candidati che abbiano riportato in ciascuna prova scritta una votazione non inferiore a 21/30 (ventuno/trentesimi).
+
+4.
+                        
+                            
+                                La prova orale verte sulle seguenti materie: 
+ 
+                            
+                            
+                                a)
+                                
+                                    organizzazione delle bande musicali e loro sviluppo storico; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    tecnica di tutti gli strumenti compresi nell'organico strumentale che compongono la banda musicale individuati con il decreto del Capo del Dipartimento di cui all'articolo 125, comma 5, del decreto legislativo 13 ottobre 2005, n. 217; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    vari tipi di partitura; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    impiego degli strumenti di cui alla lettera b); 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    ordinamento del Ministero dell'interno, con particolare riferimento al Dipartimento, e ordinamento del personale del Corpo nazionale.
 
 Sono ammessi alla prova pratica i candidati che abbiano riportato nella prova orale una votazione non inferiore a 21/30 (ventuno/trentesimi).
 
@@ -99,6 +206,63 @@ L'articolo 4 del decreto del Ministro dell'interno 4 novembre 2019, n. 166, e' s
 ## Art. 7. — Commissioni esaminatrici
 
 La commissione esaminatrice del concorso ad orchestrale e quella del concorso a maestro direttore sono nominate con decreto del Capo del Dipartimento.
+
+2.
+                        
+                            
+                                La commissione esaminatrice del concorso ad orchestrale e' presieduta da un dirigente del Corpo nazionale che espleta funzioni operative con qualifica non inferiore a dirigente superiore o da un dirigente prefettizio con qualifica non inferiore a viceprefetto in servizio presso il Dipartimento ed e' composta da: 
+ 
+                            
+                            
+                                a)
+                                
+                                    un componente appartenente ai ruoli dei direttivi e dei dirigenti del Corpo nazionale; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    un docente di strumento presso un conservatorio statale o un istituto parificato; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il maestro direttore della banda musicale del Corpo nazionale ovvero da un maestro proveniente da altri Corpi o amministrazioni dello Stato; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    un docente o un esperto per ciascuno strumento per il quale e' bandito il concorso non appartenente all'amministrazione.
+
+3.
+                        
+                            
+                                La commissione esaminatrice del concorso a maestro direttore e' presieduta da un dirigente del Corpo nazionale che espleta funzioni operative, con qualifica non inferiore a dirigente superiore o da un dirigente prefettizio, con qualifica non inferiore a viceprefetto, in servizio presso il Dipartimento ed e' composta da: 
+ 
+                            
+                            
+                                a)
+                                
+                                    un componente appartenente ai ruoli dei direttivi e dei dirigenti del Corpo nazionale; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    un docente di composizione presso un conservatorio statale o un istituto parificato; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    due docenti di strumentazione per banda presso un conservatorio statale o un istituto parificato.
 
 Per la composizione delle commissioni esaminatrici di cui ai commi 2 e 3, ove non sia disponibile personale in servizio nel Dipartimento, si applicano le disposizioni di cui all'articolo 9, comma 4, del decreto del Presidente della Repubblica 9 maggio 1994, n. 487.
 
@@ -133,6 +297,45 @@ Al termine del corso di formazione, gli orchestrali in prova e il maestro dirett
 Con decreto del Direttore centrale per la formazione del Dipartimento, nell'ambito delle finalita' indicate dal presente articolo, sono individuate le ulteriori misure attuative e di dettaglio.
 
 Ciascuna commissione dell'esame di fine corso e' nominata con decreto del Capo del Dipartimento. E' presieduta da un dirigente del Corpo nazionale che espleta funzioni operative ed e' composta da due componenti appartenenti ai ruoli dei direttivi e dei dirigenti del Corpo nazionale. Le funzioni di segretario della commissione sono svolte da personale con qualifica non inferiore a ispettore logistico-gestionale. Con il medesimo decreto sono nominati, per le ipotesi di assenza o impedimento di ciascun componente effettivo, membri supplenti, per l'individuazione dei quali si applicano gli stessi requisiti previsti per i componenti effettivi.
+
+8.
+                        
+                            
+                                Sono dimessi dal corso di formazione gli orchestrali in prova ovvero il maestro direttore in prova: 
+ 
+                            
+                            
+                                a)
+                                
+                                    che non superino l'esame di cui al comma 5; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    che dichiarino di rinunciare al corso; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    che siano stati per qualsiasi motivo assenti dal corso per piu' di otto giorni, anche non consecutivi, salvo i casi di cui alle lettere d) ed e); 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    che siano stati assenti dal corso per piu' di dodici giorni, anche non consecutivi, se l'assenza e' stata determinata da infermita' contratta durante il corso o il tirocinio ovvero sia stata riconosciuta dipendente da causa di servizio qualora si tratti di personale gia' appartenente al Corpo nazionale. In tale caso gli orchestrali in prova ovvero il maestro direttore in prova sono ammessi a partecipare al primo corso successivo al riconoscimento della idoneita' psico-fisica; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    che siano stati assenti dal corso e dal tirocinio per piu' di dodici giorni, anche non consecutivi, se l'assenza e' stata determinata da maternita'. In tal caso, le orchestrali in prova ovvero la maestra direttrice in prova sono ammesse a partecipare al primo corso successivo ai periodi di assenza dal lavoro previsti dalle disposizioni in materia di congedo di maternita'.
 
 Sono espulsi dal corso di formazione e dal tirocinio gli orchestrali in prova e il maestro direttore in prova responsabili di infrazioni punibili con sanzioni disciplinari pari o piu' gravi della sanzione pecuniaria di cui all'articolo 239, comma 1, del decreto legislativo 13 ottobre 2005, n. 217.
 

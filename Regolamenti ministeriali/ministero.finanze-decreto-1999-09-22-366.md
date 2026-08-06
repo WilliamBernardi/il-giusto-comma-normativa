@@ -8,8 +8,8 @@ codice_redazionale: 099G0439
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:42Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -49,7 +49,57 @@ Il rapporto indicato nel comma 1 puo' essere annualmente modificato con decreto 
 
 ## Art. 5.
 
+1.
+                    
+                        
+                            Il confidi che intende prestare garanzia comunica preventivamente all'ufficio competente, nella cui circoscrizione si trova il proprio domicilio fiscale, l'ammontare del deposito costituito in garanzia e gli elementi identificativi dello stesso e dei titoli depositati, allegando:
+ 
+                        
+                        
+                            a)
+                            
+                                l'atto costitutivo e lo statuto vigente;
+
+                            
+                        
+                        
+                            b)
+                            
+                                il certificato di iscrizione nel registro delle imprese;
+
+                            
+                        
+                        
+                            c)
+                            
+                                la convenzione con la banca relativa alla gestione del deposito;
+
+                            
+                        
+                        
+                            d)
+                            
+                                l'ultimo bilancio approvato e depositato con allegato l'elenco dei soci da presentare annualmente unitamente alla richiesta di rinnovo dell'autorizzazione prevista dal comma 4.
+
 L'ufficio competente entro quindici giorni dalla comunicazione di cui al comma 1, assume informazioni presso la banca depositaria e, verificato il ricorrere delle condizioni di cui al comma 3, autorizza il confidi, nel termine di quindici giorni, a rilasciare la garanzia.
+
+3.
+                    
+                        
+                            L'autorizzazione, e' subordinata al ricorrere delle seguenti condizioni:
+ 
+                        
+                        
+                            a)
+                            
+                                patrimonio netto del confidi o ammontare dei fondi rischi depositati presso le banche non inferiore a tre miliardi di lire;
+
+                            
+                        
+                        
+                            b)
+                            
+                                decorso di un biennio dalla data di costituzione, se fatta per atto pubblico o scrittura privata autenticata ovvero dalla data di iscrizione nell'apposita sezione dell'elenco previsto dall'articolo 106 del decreto legislativo n. 385 del 1993, se fatta in altra forma.
 
 L'autorizzazione ha durata annuale ed e' rinnovabile a richiesta del confidi. Restano comunque validi ed efficaci gli impegni in garanzia assunti in base all'autorizzazione successivamente venuta meno.
 

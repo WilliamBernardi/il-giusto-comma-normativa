@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
 vigenza_date: 1996-06-20
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:40Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -40,11 +40,85 @@ Nel caso in cui le malattie invalidanti e il grado di minorazione a suo tempo ac
 
 A conclusione di ogni verifica deve essere presentata per ciascun nominativo interessato apposita relazione sull'esito della stessa all'ufficio di cui al successivo art. 7.
 
+5.
+                    
+                        
+                            Da tale relazione deve risultare per ogni interessato: 
+                        
+                        
+                            a)
+                            
+                                l'indicazione delle malattie e delle minorazioni risultanti dalla documentazione esistente in fascicolo all'epoca del primo accertamento sanitario;
+                            
+                        
+                        
+                            b)
+                            
+                                la natura delle provvidenze economiche (pensione, assegno, indennita') accordate sulla base degli accertamenti sanitari all'epoca effettuati;
+                            
+                        
+                        
+                            c)
+                            
+                                l'anamnesi e i risultati degli esami obiettivi e degli accertamenti effettuati in occasione della nuova visita, nonche' della documentazione sanitaria eventualmente in possesso degli interessati, in particolare di accertamenti clinici effettuati presso strutture pubbliche e di cartelle cliniche di eventuali ricoveri ospedalieri riguardanti un periodo di tempo successivo alla concessione di pensione, assegno o indennita';
+                            
+                        
+                        
+                            d)
+                            
+                                il giudizio sulla corrispondenza delle malattie e delle minorazioni accertate nella nuova visita, rapportate per quanto possibile all'epoca della prima visita e quelle riscontrate al momento della prima visita e che costituirono il presupposto per la concessione delle provvidenze economiche;
+                            
+                        
+                        
+                            e)
+                            
+                                la proposta per la conferma delle provvidenze accordate o per la loro revoca;
+                            
+                        
+                        
+                            f)
+                            
+                                ogni altro elemento o notizia ritenuti utili.
+
 ## Art. 3.
 
 La verifica dell'esistenza dei requisiti giuridico-economici che all'epoca motivarono la concessione della pensione, dell'assegno o dell'indennita' ai sensi delle leggi vigenti, e la loro attuale permanenza, e' effettuata sulla base della documentazione acquisita agli atti del fascicolo dell'interessato oppure da questi presentata personalmente al momento degli accertamenti sanitari, da riscontrarsi con dati, notizie o certificati riferiti all'epoca da richiedersi d'ufficio ai competenti Ministeri o enti.
 
 Al termine di ogni verifica deve essere presentata per ciascun nominativo interessato apposita relazione sull'esito della stessa all'ufficio di cui al successivo art. 7 il quale provvede a riunire tale relazione a quella concernente gli accertamenti sanitari effettuati, ai fini dei successivi adempimenti di competenza.
+
+3.
+                    
+                        
+                            Da tale relazione deve risultare per ogni interessato: 
+                        
+                        
+                            a)
+                            
+                                l'indicazione della situazione giuridica e di quella economica come risulta dagli atti esistenti in fascicolo;
+                            
+                        
+                        
+                            b)
+                            
+                                la natura delle provvidenze economiche (pensioni, assegno, indennita') concesse sulla base della documentazione giuridico-economica all'epoca presentata;
+                            
+                        
+                        
+                            c)
+                            
+                                il giudizio sulla situazione giuridica e su quella economica come viene a risultare per effetto della nuova documentazione acquisita, con riferimento sia alla situazione attuale che a quella esistente all'epoca e che costitui' il presupposto per la concessione delle provvidenze economiche;
+                            
+                        
+                        
+                            d)
+                            
+                                la proposta per la conferma delle provvidenze accordate o per la loro revoca;
+                            
+                        
+                        
+                            e)
+                            
+                                ogni altro elemento o notizia ritenuti utili.
 
 ## Art. 4.
 
@@ -73,6 +147,41 @@ L'onere relativo fara' carico al capitolo 6073 per il personale dell'Amministraz
 I beneficiari di pensione, di assegno o di indennita' convocati a visita a termine del precedente art. 4 sono sottoposti agli accertamenti da parte dei medici incaricati presso le strutture delle commissioni mediche periferiche o della commissione medica superiore o presso quelle del Servizio sanitario nazionale o della Sanita' militare, come previsto dall'art. 3 della legge 26 luglio 1988, n. 291. ((Le strutture del Servizio sanitario nazionale e della sanita' militare sono tenute ad effettuare gli accertamenti richiesti, per il tramite del presidente della commissione medica periferica, dai medici incaricati di effettuare le verifiche entro il termine di 30 giorni dalla richiesta)).
 
 Il direttore generale delle pensioni di guerra e dei servizi vari comunica ai presidenti delle cennate commissioni le opportune indicazioni ai fini del coordinamento e del migliore espletamento degli adempimenti necessari per gli accertamenti sanitari cui devono essere sottoposti i beneficiari suddetti. ((1))
+
+3.
+                    
+                        
+                            
+                                ((La Direzione generale comunica all'interessato la data e il luogo in cui deve essere sottoposto a visita per gli occorrenti accertamenti sanitari mediante raccomandata espresso con avviso di ricevimento da inviarsi trenta giorni prima)). Con la medesima comunicazione si avverte l'interessato che: 
+                        
+                        
+                            a)
+                            
+                                ove non si presenti alla visita senza giustificato motivo sara' sospesa la provvidenza di cui e' titolare;
+                            
+                        
+                        
+                            b)
+                            
+                                ove lo ritenga puo' farsi assistere nella visita da un suo medico di fiducia;
+                            
+                        
+                        
+                            c)
+                            
+                                puo' consegnare personalmente il certificato di nascita; il certificato di cittadinanza italiana; la dichiarazione di responsabilita', ai sensi dell'art. 24 della legge 13 aprile 1977, n. 114, circa la propria situazione reddituale con riferimento all'anno precedente quello della visita medica per cui e' stato convocato;
+                            
+                        
+                        
+                            d)
+                            
+                                la dichiarazione di non essere ricoverato gratuitamente in strutture pubbliche che provvedono alla sua assistenza. L'interessato puo' chiedere di essere visitato a domicilio qualora si trovi nella obiettiva impossibilita' di muoversi, presentando all'uopo domanda alla suddetta Direzione generale con allegato certificato medico attestante tale impossibilita' ((da trasmettere mediante raccomandata espresso con avviso di ricevimento)). 
+ 
+---------------
+
+ 
+AGGIORNAMENTO (1) 
+ Il Decreto 3 gennaio 1992, n. 148 ha disposto (con l'art. 1, comma 3) che le parole "dal direttore generale delle pensioni di guerra e dei servizi vari", contenute nel comma 2 del presente articolo, sono sostituite dalle seguenti: "dal direttore generale dei servizi vari e delle pensioni di guerra".
 
 ## Art. 8.
 

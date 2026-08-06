@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: DPR
 vigenza_date: 2004-06-07
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:47:45Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -50,6 +50,34 @@ Il Comitato, entro trenta giorni dalla sua costituzione, provvede ad emanare il 
 
 ## Art. 3. — Destinatari degli interventi
 
+1.
+                    
+                        
+                            Possono accedere agli interventi di cui all'articolo 1 le imprese costituite ed operanti in Italia che:
+ 
+                        
+                        
+                            a)
+                            
+                                sono in possesso di abilitazione complessiva di sicurezza in relazione alle finalita' di cui al regio decreto 11 luglio 1941, n. 1161, e alla legge 24 ottobre 1977, n. 801;
+
+                            
+                        
+                        
+                            b)
+                            
+                                hanno ottenuto la certificazione del sistema qualita' azienda ISO 9001 e sono titolari della certificazione AQAP corrispondente alla relativa categoria merceologica;
+
+                            
+                        
+                        
+                            c)
+                            
+                                hanno come attivita' principale la costruzione di:
+ 1) aeromobili, motori, equipaggiamenti e materiali aeronautici;
+ 2) sistemi satellitari, di lancio e di trasporto spaziale, stazioni di terra, equipaggiamenti e materiali spaziali;
+ 3) sistemi ed apparati elettronici ad alta tecnologia per applicazioni nel campo degli equipaggiamenti avionici, terrestri e navali.
+
 Sono considerate imprese con attivita' principale nei settori di cui al comma 1 le imprese il cui fatturato medio nei tre esercizi precedenti la domanda e' dovuto per oltre il 50% alle attivita' di cui alla lettera c) del comma 1.
 
 Per i rami d'azienda istituiti con apposita deliberazione che attribuisca agli stessi autonomia organizzativa ed economica con contabilita' gestionale autonoma, la sussistenza del requisito di cui al comma 2 e' verificata nell'ambito delle relative contabilita' gestionali autonome, sulla base di apposita dichiarazione rilasciata dal presidente del collegio sindacale o, qualora non esista collegio sindacale, dal rappresentante legale. Nei casi di costituzione di imprese per scorporo, si considera il fatturato risultante dai bilanci delle imprese o rami d'azienda scorporanti.
@@ -73,6 +101,66 @@ Nel caso in cui le attivita' di cui al comma 2 sono state avviate anteriormente 
 
 ## Art. 5. — Criteri di preminenza
 
+1.
+                    
+                        
+                            Ai fini della valutazione di cui all'articolo 7, comma 5, sono considerati preminenti, nell'ambito dei progetti e programmi di cui all'articolo 1, i progetti volti a conseguire:
+ 
+                        
+                        
+                            a)
+                            
+                                un rilevante accrescimento dell'autonomia del Paese nelle tecnologie sensibili per la sicurezza nazionale, attraverso sviluppi significativamente innovativi;
+
+                            
+                        
+                        
+                            b)
+                            
+                                il rafforzamento della collaborazione tra industria e comunita' scientifica nazionale per la partecipazione di questa alla realizzazione di elementi qualificanti dei progetti o programmi;
+
+                            
+                        
+                        
+                            c)
+                            
+                                l'incremento delle capacita' di gestione di sistemi integrati, preferibilmente a livello di architettura di grandi sistemi;
+
+                            
+                        
+                        
+                            d)
+                            
+                                l'allineamento allo stato dell'arte nelle tecnologie fondamentali e l'acquisizione di posizione di eccellenza in settori specialistici;
+
+                            
+                        
+                        
+                            e)
+                            
+                                lo sviluppo di una qualificata componente di piccole e medie imprese ad alta tecnologia e la crescita dimensionale di tali imprese;
+
+                            
+                        
+                        
+                            f)
+                            
+                                il consolidamento e l'incremento dei volumi di occupazione qualificata con particolare riferimento alle strutture industriali esistenti in aree in ritardo di sviluppo o colpite da declino industriale;
+
+                            
+                        
+                        
+                            g)
+                            
+                                lo sviluppo, con ruolo adeguato, dell'inserimento delle imprese nazionali nelle collaborazioni internazionali, promuovendo principalmente quelle relative ad intese nell'ambito dell'Unione europea;
+
+                            
+                        
+                        
+                            h)
+                            
+                                la presenza significativa di piccole e medie imprese in aree puntuali di eccellenza.
+
 I progetti e programmi di cui all'articolo 1 sono considerati di livello «elevato» o «medio», se in possesso rispettivamente di almeno sei o quattro dei requisiti di cui al comma 1.
 
 ## Art. 6. — Contenuti, misura e modalita' degli interventi
@@ -87,6 +175,73 @@ Su richiesta delle imprese interessate, il Ministero delle attivita' produttive,
 
 ## Art. 7. — Procedura
 
+1.
+                    
+                        
+                            Le imprese interessate, per ottenere gli interventi di cui all'articolo 1, presentano domanda alla Direzione generale per lo sviluppo produttivo e la competitivita' del Ministero delle attivita' produttive, di seguito denominata la Direzione generale, indicando in particolare:
+ 
+                        
+                        
+                            a)
+                            
+                                l'oggetto del progetto o programma;
+
+                            
+                        
+                        
+                            b)
+                            
+                                le tecnologie di cui all'articolo 1, comma 2, interessate dal progetto o programma ed i risultati tecnologici previsti;
+
+                            
+                        
+                        
+                            c)
+                            
+                                i prevedibili impieghi anche duali;
+
+                            
+                        
+                        
+                            d)
+                            
+                                il fabbisogno finanziario;
+
+                            
+                        
+                        
+                            e)
+                            
+                                la localizzazione delle attivita', gli effetti sui livelli e la qualificazione dell'occupazione con preminente riferimento alle aree di cui all'articolo 5, comma 1, lettera f), gli eventuali effetti indotti sulle altre imprese nazionali del settore, con particolare riferimento alle attivita' oggetto del programma destinate ad essere svolte da piccole e medie imprese;
+
+                            
+                        
+                        
+                            f)
+                            
+                                i tempi di attuazione;
+
+                            
+                        
+                        
+                            g)
+                            
+                                le condizioni e modi di partecipazione all'eventuale collaborazione internazionale;
+
+                            
+                        
+                        
+                            h)
+                            
+                                gli eventuali benefici concessi gia' in relazione alle stesse attivita' in base a normative agevolative nazionali e comunitarie;
+
+                            
+                        
+                        
+                            i)
+                            
+                                gli interventi richiesti.
+
 La domanda deve, altresi', comprendere l'impegno, a firma del legale rappresentante dell'azienda, a non produrre o commercializzare, entro i primi cinque anni dall'adozione del provvedimento di ammissione di cui all'articolo 7, comma 7, i prodotti basati sui risultati del progetto o programma salvo che il Ministro delle attivita' produttive, previo parere del Comitato di cui all'articolo 2, autorizzi la produzione e la commercializzazione di tali prodotti in considerazione della loro funzionalita' alle esigenze della sicurezza nazionale nel rispetto delle vigenti normative sulle esportazioni vincolate a licenza. Nel caso in cui la Direzione generale eserciti la facolta' di frazionamento di cui al comma 4, il termine ha decorrenza dalla data della valutazione relativa alla prima frazione di progetto o programma. L'impegno non riguarda le produzioni di cui all'articolo 11, comma 2, ed all'articolo 12, comma 1.
 
 La domanda deve essere redatta in duplice copia in conformita' ai modelli di cui all'allegato A e corredata della documentazione ivi indicata. Nelle domande le imprese possono esprimere la disponibilita' ad ottenere, in alternativa agli interventi previsti all'articolo 6, comma 1, gli interventi di cui al comma 3 ovvero al comma 4 dello stesso articolo 6. In tale caso le imprese forniranno, successivamente, gli elementi relativi alle intese preliminari raggiunte con gli istituti di credito.
@@ -96,6 +251,31 @@ La Direzione generale ha facolta' di chiedere all'impresa ogni dato, notizia e d
 Le domande pervenute alla Direzione generale sono sottoposte all'esame del Comitato di cui all'articolo 2, che verifica in particolare la sussistenza dei requisiti di preminenza del progetto o programma in base ai criteri di cui all'articolo 5 ed esprime la valutazione circa il livello «elevato» o «medio» dello stesso progetto o programma.
 
 Le risultanze istruttorie delle istanze di finanziamento devono essere poste a disposizione dei componenti del comitato, per l'esame, almeno trenta giorni prima della riunione.
+
+7.
+                    
+                        
+                            Sulla base del parere del Comitato, il titolare della Direzione generale emana, entro sessanta giorni dal parere stesso, il provvedimento per l'ammissione agli interventi del progetto o programma valutato di livello «elevato» o «medio», definendo in particolare:
+ 
+                        
+                        
+                            a)
+                            
+                                l'ammontare dei costi ammissibili;
+
+                            
+                        
+                        
+                            b)
+                            
+                                gli interventi;
+
+                            
+                        
+                        
+                            c)
+                            
+                                le modalita' delle erogazioni.
 
 Il provvedimento e' comunicato entro quindici giorni dalla Direzione generale all'impresa interessata, che lo restituisce corredato della firma del legale rappresentante per accettazione.
 

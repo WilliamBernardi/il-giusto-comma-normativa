@@ -8,8 +8,8 @@ codice_redazionale: 001G0205
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti governativi
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:11Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -38,6 +38,38 @@ All'articolo 4, comma 1, del decreto del Presidente della Repubblica 28 aprile 1
 
 ## Art. 2. — Dipartimento del tesoro
 
+1.
+                    
+                        
+                            All'articolo 1, comma 1, del decreto del Presidente della Repubblica 28 aprile 1998, n. 154, sono apportate le seguenti modifiche:
+ 
+                        
+                        
+                            a)
+                            
+                                alla lettera a) le parole da: "monitoraggio delle partecipazioni finanziarie pubbliche" sino alla fine della lettera sono soppresse;
+
+                            
+                        
+                        
+                            b)
+                            
+                                alla lettera f) sono aggiunte, in fine, le seguenti parole: "vigilanza e controllo sull'Istituto Poligrafico e Zecca dello Stato";
+
+                            
+                        
+                        
+                            c)
+                            
+                                dopo la lettera f) e' inserita la seguente: "f-bis) Direzione VII: monitoraggio delle partecipazioni finanziarie pubbliche; gestione delle partecipazioni azionarie dello Stato, esercizio dei diritti dell'azionista e gestione dei processi di dismissione e di privatizzazione, compresa la relativa attivita' istruttoria e preparatoria;";
+
+                            
+                        
+                        
+                            d)
+                            
+                                alla lettera g), dopo la parola: "sperimentazioni", sono aggiunte le seguenti: "studio, analisi e definizione delle esigenze funzionali e delle specifiche prestazioni e modalita' operative che devono essere assicurate, nell'ambito del sistema informativo integrato del Ministero, per lo svolgimento dei compiti istituzionali del Dipartimento, compresi la collaborazione e il supporto per l'elaborazione delle relative procedure e per le verifiche di funzionalita' dei servizi e dei processi informatici riguardanti le materie di competenza.".
+
 ## Art. 3. — Dipartimento per le politiche di sviluppo e di coesione
 
 All'articolo 3, comma 1, del decreto del Presidente della Repubblica 28 aprile 1998, n. 154, dopo la lettera e) e' aggiunta la seguente:
@@ -46,7 +78,48 @@ All'articolo 3, comma 1, del decreto del Presidente della Repubblica 28 aprile 1
 ## Art. 4. — Dipartimento dell'amministrazione generale
  del personale e dei servizi
 
+1.
+                    
+                        
+                            All'articolo 4 del decreto del Presidente della Repubblica 28 aprile 1998, n. 154, sono apportate le seguenti modifiche:
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 3, secondo periodo, le parole : "Servizio centrale del provveditorato dello Stato di cui al comma 1, lettera e)", sono sostituite dalle seguenti: "Servizio centrale per la qualita' dei processi e dell'organizzazione";
+
+                            
+                        
+                        
+                            b)
+                            
+                                dopo il comma 3 sono inseriti i seguenti:
+ "3-bis. Le competenze del soppresso Servizio del provveditorato generale dello Stato sono attribuite al Servizio centrale per la qualita' dei processi e dell'organizzazione.
+ 3-ter. I compiti spettanti al Ministero del tesoro, del bilancio e della programmazione economica in virtu' dell'articolo 26 della legge 23 dicembre 1999, n. 488, come modificato dagli articoli 58, 59 e 60 della legge 23 dicembre 2000, n. 388, sono attribuiti al Dipartimento dell'amministrazione generale, del personale e dei servizi.
+ 3-quater. Il riferimento al Provveditorato generale dello Stato, contenuto in atti normativi, regolamentari o di organizzazione, vale ad indicare il Dipartimento dell'amministrazione generale, del personale e dei servizi.
+ 3-quinquies. Le competenze ed i poteri espressamente attribuiti dagli atti indicati al comma 3-quater del presente articolo, se riferiti al Provveditore generale dello Stato, s'intendono attribuiti al capo del Servizio centrale per la qualita' dei processi e dell'organizzazione; se riferiti ai funzionari del Provveditorato generale dello Stato, s'intendono attribuiti ai funzionari del Dipartimento citato al medesimo comma 3-quater.".
+
 ## Art. 5. — Commissione tecnica della spesa pubblica
+
+1.
+                    
+                        
+                            Al decreto del Presidente della Repubblica 28 aprile 1998, n. 154, sono apportate le seguenti modifiche:
+ 
+                        
+                        
+                            a)
+                            
+                                all'articolo 6, comma 2, secondo periodo, le parole da: "nonche' la commissione tecnica della spesa pubblica" sino alla fine del periodo sono soppresse;
+
+                            
+                        
+                        
+                            b)
+                            
+                                dopo l'articolo 6 e' inserito il seguente:
+ "Art. 6-bis (Commissione tecnica della spesa pubblica). - 1. La commissione tecnica della spesa pubblica, opera, ai sensi dell'articolo 4, commi 2 e 4 del decreto legislativo 5 dicembre 1997, n. 430, nell'ambito del Dipartimento dell'amministrazione generale, del personale e dei servizi.".
 
 ## Art. 6. — Dotazioni organiche
 

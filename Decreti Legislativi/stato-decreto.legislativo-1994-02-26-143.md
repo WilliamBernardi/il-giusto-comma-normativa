@@ -8,8 +8,8 @@ codice_redazionale: 094G0174
 vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:21Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -39,6 +39,80 @@ L'Ente e' sottoposto all'alta vigilanza del Ministro dei lavori pubblici che det
 
 ## Art. 2. — Compiti dell'Ente
 
+1.
+                    
+                        
+                            L'Ente provvede a:
+ 
+                        
+                        
+                            a)
+                            
+                                gestire le strade e le autostrade di proprieta' dello Stato nonche' alla loro manutenzione ordinaria e straordinaria;
+
+                            
+                        
+                        
+                            b)
+                            
+                                realizzare il progressivo miglioramento ed adeguamento della rete delle strade e delle autostrade statali e della relativa segnaletica;
+
+                            
+                        
+                        
+                            c)
+                            
+                                costruire nuove strade statali e nuove autostrade, sia direttamente che in concessione;
+
+                            
+                        
+                        
+                            d)
+                            
+                                vigilare sull'esecuzione dei lavori di costruzione delle opere date in concessione e controllare la gestione delle autostrade il cui esercizio sia stato dato in concessione;
+
+                            
+                        
+                        
+                            e)
+                            
+                                curare l'acquisto, la costruzione, la conservazione, il miglioramento e l'incremento dei beni mobili ed immobili destinati al servizio delle strade e delle autostrade statali;
+
+                            
+                        
+                        
+                            f)
+                            
+                                attuare le leggi ed i regolamenti concernenti la tutela del patrimonio delle strade e delle autostrade statali, nonche' la tutela del traffico e della segnaletica; adottare i provvedimenti ritenuti necessari ai fini della sicurezza del traffico sulle strade ed autostrade medesime; esercitare, per le strade ed autostrade ad esso affidate, i diritti ed i poteri attribuiti all'ente proprietario;
+
+                            
+                        
+                        
+                            g)
+                            
+                                effettuare e partecipare a studi, ricerche e sperimentazioni in materia di viabilita', traffico e circolazione;
+
+                            
+                        
+                        
+                            h)
+                            
+                                costituire e partecipare a societa' per lo svolgimento all'estero di attivita' infrastrutturali, previa autorizzazione del Ministro dei lavori pubblici;
+
+                            
+                        
+                        
+                            i)
+                            
+                                effettuare, a pagamento, consulenze e progettazioni per conto di altre amministrazioni od enti italiani e stranieri;
+
+                            
+                        
+                        
+                            l)
+                            
+                                espletare, mediante il proprio personale, i compiti di cui al comma 3 dell'art. 12 del decreto legislativo 30 aprile 1992, n. 285 e dell'art. 23 del decreto del Presidente della Repubblica 16 dicembre 1992, n. 495.
+
 L'approvazione, da parte dei competenti organi dell'ente, dei progetti relativi ai lavori di cui al comma 1 equivale a dichiarazione di pubblica utilita' ed urgenza, al fine dell'applicazione delle leggi in materia di espropriazione per pubblica utilita'.
 
 L'Ente esercita ogni competenza gia' attribuita nelle materie di cui al comma 1 ad uffici ed amministrazioni dello Stato.
@@ -62,6 +136,31 @@ L'approvazione delle concessioni di costruzione ed esercizio di autostrade e' ri
 L'Ente e' dotato di un proprio patrimonio costituito da un fondo di dotazione e dai beni mobili e immobili, diversi dalle strade, strumentali alle sue attivita'.
 
 ## Art. 5. — Organi dell'Ente
+
+1.
+                    
+                        
+                            Sono organi dell'Ente:
+ 
+                        
+                        
+                            a)
+                            
+                                il consiglio;
+
+                            
+                        
+                        
+                            b)
+                            
+                                l'amministratore;
+
+                            
+                        
+                        
+                            c)
+                            
+                                il collegio dei revisori.
 
 La nomina, lo stato giuridico ed economico dei componenti e le relazioni tra gli organi dell'Ente sono disciplinati dallo statuto.
 
@@ -87,6 +186,31 @@ L'amministratore dura in carica cinque anni. L'incarico e' revocato, per gravi i
 L'amministratore presiede il consiglio, ha la rappresentanza legale dell'Ente e adotta gli atti di gestione, con possibilita' di delega, nei limiti stabiliti dallo statuto, ad uffici centrali e periferici.
 
 ## Art. 8. — Il collegio dei revisori
+
+1.
+                    
+                        
+                            Il collegio dei revisori e' composto da tre membri designati:
+ 
+                        
+                        
+                            a)
+                            
+                                uno dal Presidente del Consiglio dei Ministri, tra i dirigenti generali amministrativi o tecnici dell'Amministrazione dello Stato in servizio, con funzioni di presidente;
+
+                            
+                        
+                        
+                            b)
+                            
+                                uno dal Ministro dei lavori pubblici, scelto tra dirigenti generali amministrativi o tecnici in servizio;
+
+                            
+                        
+                        
+                            c)
+                            
+                                uno dal Ministro del tesoro, scelto tra dirigenti generali amministrativi in servizio, esperto in materia di revisione aziendale.
 
 Per ognuno dei membri del collegio dei revisori e' prevista la nomina di un membro supplente.
 

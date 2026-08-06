@@ -8,8 +8,8 @@ vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
 vigenza_date: 2026-05-29
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:33Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -67,6 +67,40 @@ L'Agenzia assicura altresi', nell'esercizio delle sue funzioni di organismo paga
 
 ## Art. 3. — Funzioni dell'organismo di coordinamento
 
+1.
+                        
+                            
+                                All'Agenzia, in qualita' di organismo di coordinamento, ferma restando l'attivita' di indirizzo del Ministro delle politiche agricole alimentari e forestali, di seguito denominato Ministro, sono attribuiti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    i compiti di carattere tecnico-operativo relativi al coordinamento di cui all'articolo 7, paragrafo 4, del regolamento (UE) n. 1306/2013 ed all'articolo 4 del regolamento di esecuzione (UE) n. 908/2014 della Commissione, del 6 agosto 2014. A tal fine, l'Agenzia agisce come interlocutore unico nei confronti della Commissione europea per tutte le questioni relative al FEAGA ed al FEASR. Resta ferma la competenza del Ministero nella gestione dei rapporti con la Commissione europea afferenti, in seno al Comitato dei fondi agricoli, alle attivita' di monitoraggio dell'evoluzione della spesa, di cui ai citati regolamenti (UE) n. 1306/2013 e n. 908/2014, sul finanziamento, sulla gestione e sul monitoraggio della politica agricola comune, nonche' alle fasi successive alla decisione di liquidazione dei conti adottata ai sensi della vigente normativa europea. L'Agenzia assicura il necessario supporto tecnico per l'esercizio delle competenze del Ministero; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la rendicontazione all'Unione europea dei pagamenti effettuati da tutti gli organismi pagatori riconosciuti. Alle eventuali rettifiche negative apportate dall'Unione alle spese dichiarate dagli organismi pagatori si fa fronte mediante assegnazione dei fondi occorrenti all'apposito conto corrente di tesoreria intestato «Ministero dell'economia e delle finanze - FEAGA», da parte del Ministero dell'economia e delle finanze; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    
+                                        ((LETTERA ABROGATA DAL D.LGS. 4 OTTOBRE 2019, N. 116)); 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    
+                                        ((LETTERA ABROGATA DAL D.LGS. 4 OTTOBRE 2019, N. 116)).
+
 L'Agenzia promuove l'applicazione uniforme delle norme dell'Unione europea e a tal fine verifica la conformita' e i tempi delle procedure istruttorie e di controllo seguite dagli organismi pagatori ed effettua il monitoraggio delle attivita' svolte dagli stessi anche ai sensi del regolamento (UE) n. 1306/2013, del Parlamento europeo e del Consiglio, del 17 dicembre 2013 e delle relative norme di attuazione.
 
 In caso di inadempimento o ritardo nell'esercizio delle attivita' svolte dagli organismi pagatori si applicano, su segnalazione dell'Agenzia al Ministro ed alle regioni interessate, le procedure di cui all'articolo 8 della legge 5 giugno 2003, n. 131.
@@ -74,7 +108,121 @@ In caso di inadempimento o ritardo nell'esercizio delle attivita' svolte dagli o
 Il Ministero dell'economia e delle finanze e' autorizzato, sentita l'Agenzia, previa espressa motivata richiesta degli organismi pagatori riconosciuti, ad effettuare a favore degli stessi anticipazioni di cassa entro sessanta giorni dalla richiesta, per far fronte alle esigenze di pagamento degli aiuti comunitari.
 Nell'effettuare le anticipazioni, il Ministero dell'economia e delle finanze tiene conto dell'avvenuta utilizzazione da parte di ciascun organismo pagatore riconosciuto delle anticipazioni concesse. Gli organismi pagatori riconosciuti sono inseriti nella tabella A, allegata alla legge 29 ottobre 1984, n. 720, istitutiva del sistema di tesoreria unica.
 
+5.
+                        
+                            
+                                L'Agenzia, nell'esercizio delle funzioni di coordinamento, svolge inoltre, avvalendosi del SIAN, i seguenti compiti a carattere nazionale: 
+ 
+                            
+                            
+                                a)
+                                
+                                    gestione, quale autorita' competente, del sistema integrato di gestione e controllo (SIGC) ivi compreso il sistema informativo geografico (GIS); 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    gestione del Fascicolo aziendale di cui all'articolo 13 del decreto legislativo 29 marzo 2004, n. 99, costituito dalle informazioni contenute nei fascicoli aziendali attualmente detenuti da tutti gli organismi pagatori; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    implementazione e gestione dell'anagrafe delle aziende agricole di cui alle vigenti disposizioni; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    gestione del Registro nazionale dei titoli all'aiuto di cui al regolamento (UE) n. 1307/2013, del Parlamento europeo e del Consiglio, del 17 dicembre 2013; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    gestione del Registro nazionale dei debiti di cui all'articolo 8-ter del decreto-legge 10 febbraio 2009, n. 5, convertito, con modificazioni, dalla legge 9 aprile 2009, n. 33; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    vigilanza sulla esecuzione dei controlli ex-post previsti dal regolamento (UE) n. 1306/2013 del Parlamento europeo e del Consiglio, del 17 dicembre 2013; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    
+                                        ((LETTERA ABROGATA DAL D.LGS. 4 OTTOBRE 2019, N. 116)); 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    coordinamento dei controlli, in qualita' di autorita' nazionale competente, al fine di assicurare l'osservanza delle normative dell'Unione europea in materia di conformita' alle norme di commercializzazione nel settore degli ortofrutticoli freschi e delle banane; 
+ i)((LETTERA ABROGATA DAL D.LGS. 4 OTTOBRE 2019, N. 116)); 
+ l) predisposizione dei dati concernenti le comunicazioni con la Commissione europea riguardanti le organizzazioni dei produttori ortofrutticoli, le loro associazioni ed i gruppi di produttori, in qualita' di unica autorita' nazionale; 
+ m) ((LETTERA ABROGATA DAL D.LGS. 4 OTTOBRE 2019, N. 116)); 
+ n) predisposizione dei dati concernenti le comunicazioni periodiche, previste dall'articolo 9 del regolamento delegato n. 2016/1238 della Commissione del 18 maggio 2016; 
+ o) attuazione degli adempimenti previsti dal regolamento (UE) n. 1303/2013 del Parlamento europeo e del Consiglio, del 17 dicembre 2013 in materia di autorita' di audit del Fondo europeo per gli affari marittimi e la pesca (FEAMP); 
+ p) promozione dell'applicazione uniforme delle attivita' di competenza delle regioni e delle province autonome di cui all'articolo 6 e tal fine monitora la conformita' e i tempi delle procedure istruttorie e di controllo e lo svolgimento delle relative attivita'; 
+ q) ogni altro compito attribuito all'Agenzia dalla normativa nazionale, anche in attuazione di quella dell'Unione europea e che gli organismi pagatori intendano delegare all'organismo di coordinamento.
+
 ## Art. 4. — Funzioni dell'organismo pagatore
+
+1.
+                        
+                            
+                                All'Agenzia, in qualita' di organismo pagatore nazionale, ai sensi dell'articolo 7, paragrafo 2, secondo comma, del regolamento (UE) n. 1306/2013, anche nella sua qualita' di organismo pagatore riconosciuto per il territorio o per gli ambiti su cui non esercitano competenze altri organismi pagatori riconosciuti, sono attribuiti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    gli adempimenti connessi con la gestione degli aiuti derivanti dalla politica agricola comune, nonche' degli interventi sul mercato e sulle strutture del settore agricolo, finanziati dal FEAGA e dal FEASR, dei quali e' responsabile nei confronti dell'Unione europea nonche' l'autorizzazione, l'esecuzione e la contabilizzazione dei relativi pagamenti; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    i compiti di esecuzione delle forniture dei prodotti agroalimentari disposte dalla Unione europea per gli aiuti alimentari e la cooperazione economica con altri Paesi, nonche' delle operazioni di provvista e di acquisto sul mercato interno e internazionale di prodotti agroalimentari per la formazione delle scorte necessarie e di quelle relative all'immissione regolata sul mercato interno e alla collocazione sui mercati dell'Unione europea e terzi dei suddetti prodotti, tranne nei casi in cui risulti piu' conveniente procedere ad acquisti in loco nei Paesi in via di sviluppo, oppure sia piu' opportuno avvalersi di organizzazioni internazionali; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    gli interventi sul mercato agricolo e agroalimentare, sentita la Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome di Trento e di Bolzano, per sostenere comparti in situazioni contingenti, per periodi temporalmente circoscritti, al fine di riassorbire la temporanea sovracapacita' produttiva per ristabilire l'equilibrio del mercato stesso, provvedendo alla successiva collocazione dei prodotti; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    l'esecuzione, d'intesa con il Ministero degli affari esteri e della cooperazione internazionale, delle forniture dei prodotti agroalimentari disposte dallo Stato, anche in conformita' alle linee di programmazione e di indirizzo in materia di cooperazione allo sviluppo di cui alla legge 11 agosto 2014, n. 125, recante disciplina generale sulla cooperazione internazionale per lo sviluppo; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    l'attuazione degli adempimenti previsti dal regolamento (UE) n. 1303/2013 in materia di autorita' di certificazione del Fondo europeo per gli affari marittimi e la pesca (FEAMP); 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    gli adempimenti connessi con la gestione degli aiuti disposti dal Ministero, da altre amministrazioni o delegati dalle regioni.
 
 L'Agenzia, in qualita' di organismo pagatore nazionale, al fine di incrementare l'efficienza e l'efficacia della gestione delle erogazioni degli aiuti, istituisce presso le regioni di competenza, nell'ambito delle risorse umane, strumentali e finanziarie disponibili, sportelli operativi, anche utilizzando a tale scopo i beni di cui all'articolo 16.
 
@@ -91,6 +239,45 @@ Gli organismi pagatori forniscono all'Agenzia tutte le informazioni occorrenti p
 Gli organismi pagatori sono responsabili della tempestiva e completa trasmissione all'Agenzia delle dichiarazioni destinate alla Commissione. Tali dichiarazioni sono basate su informazioni provenienti da fonti debitamente autorizzate, sottoposte a procedure di controllo adeguate e archiviate in modo sicuro, in formato elettronico, secondo le disposizioni appositamente impartite dall'Agenzia, in qualita' di organismo di coordinamento, al fine di garantire la completezza e l'affidabilita' del Sistema integrato di gestione e controllo.
 
 ## Art. 6. — Centri autorizzati di assistenza agricola
+
+1.
+                        
+                            
+                                Gli organismi pagatori, le regioni e le Province autonome di Trento e di Bolzano, ai sensi dell'articolo 7, paragrafo 1, del regolamento (UE) n. 1306/2013 e nel rispetto dell'allegato I, punto 1, lettera C, del regolamento (UE) n. 907/2014, fatte salve le specifiche competenze attribuite ai professionisti iscritti agli ordini e ai collegi professionali, possono, con apposita convenzione, incaricare Centri autorizzati di assistenza agricola (CAA), di cui al comma 3, ad effettuare, per conto dei propri utenti e sulla base di specifico mandato scritto, le seguenti attivita': 
+ 
+                            
+                            
+                                a)
+                                
+                                    tenere ed eventualmente conservare le scritture contabili; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    costituire ed aggiornare il fascicolo aziendale di cui alle vigenti disposizioni, in formato elettronico, acquisendo la documentazione a tal fine necessaria, previa verifica della relativa regolarita' formale anche sulla base delle procedure operative stabilite nelle convenzioni; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    assistere gli utenti nella elaborazione e nell'inoltro delle dichiarazioni di coltivazione e di produzione, avvalendosi delle procedure rese disponibili dalle amministrazioni interessate, nonche' nell'elaborazione e nell'inoltro di istanze e dichiarazioni riferite ai procedimenti amministrativi di interesse per la loro attivita' agricola; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    assistere gli utenti nell'elaborazione delle domande di ammissione a benefici comunitari, nazionali e regionali e provvedere al relativo inoltro avvalendosi delle procedure rese disponibili dal sistema informativo dell'organismo pagatore e previa verifica della regolarita' formale delle medesime domande; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    interrogare nell'interesse degli utenti le banche dati del SIAN ai fini della consultazione dello stato di ciascuna pratica relativa ai medesimi.
 
 Al fine di migliorare l'efficienza della rete di rilevazione preposta allo svolgimento delle statistiche ufficiali in materia agricola e, in particolare, dei censimenti dell'agricoltura di cui all'articolo 1, comma 227, della legge 27 dicembre 2017, n. 205, l'ISTAT e gli altri soggetti del Sistema statistico nazionale possono avvalersi dei CAA per provvedere alla raccolta dei dati di base, previa stipula di apposite convenzioni, anche a titolo oneroso.
 
@@ -113,6 +300,24 @@ Gli organismi pagatori, sentito l'organismo di coordinamento, nel rispetto della
 ((L'Agenzia e' l'autorita' competente per l'accertamento delle violazioni di cui al presente articolo nonche' per l'irrogazione delle relative sanzioni che si applicano secondo le modalita' di cui alla legge 24 novembre 1981, n. 689. I proventi del pagamento delle sanzioni amministrative pecuniarie sono versati all'entrata del bilancio dello Stato per essere riassegnati ai pertinenti capitoli di spesa del bilancio del Ministero dell'agricoltura, della sovranita' alimentare e delle foreste)).
 
 ## Art. 7. — Organi dell'Agenzia
+
+1.
+                        
+                            
+                                Sono organi dell'Agenzia: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il Direttore, scelto in base all'alta competenza, professionalita', capacita' manageriale e qualificata esperienza nell'esercizio di funzioni attinenti il settore operativo dell'Agenzia, in seguito a chiamata pubblica secondo criteri di merito e trasparenza che garantiscono l'indipendenza, la terzieta', l'onorabilita', l'assenza di conflitti di interessi, l'incompatibilita' con cariche politiche e sindacali. ((Il Direttore e' nominato con decreto del Ministro delle politiche agricole alimentari e forestali, previa trasmissione della proposta di nomina alle Commissioni parlamentari per il parere di competenza, che dovra' essere espresso entro i termini stabiliti dai regolamenti parlamentari delle due Camere.)) L'incarico ha la durata massima di tre anni, e' rinnovabile per una sola volta ed e' incompatibile con altri rapporti di lavoro subordinato e con qualsiasi altra attivita' professionale privata. 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il Collegio dei revisori dei conti, composto da tre membri effettivi e due supplenti nominati con decreto del Ministro. I componenti effettivi e supplenti devono essere in possesso del requisito di revisore legale di cui al decreto legislativo 27 gennaio 2010, n. 39. Il presidente e' designato dal Ministro dell'economia e delle finanze, scelto tra i dirigenti di ruolo, di livello non generale, iscritti nell'elenco di cui all'articolo 10, comma 19, del decreto-legge 6 luglio 2011, n. 98, convertito, con modificazioni, dalla legge 15 luglio 2011, n. 111, ed e' collocato fuori ruolo.
 
 Con decreto del Ministro, di concerto con il Ministro dell'economia e delle finanze sono determinati il compenso del Direttore e dei componenti del collegio dei revisori.
 
@@ -141,6 +346,31 @@ Al funzionamento del Comitato si provvede con le risorse umane, finanziarie e st
 Il Comitato esprime altresi' un parere non vincolante sul bilancio di previsione dell'Agenzia, limitatamente alle poste relative all'organismo di coordinamento.
 
 ## Art. 10. — Entrate dell'Agenzia
+
+1.
+                        
+                            
+                                Le entrate dell'Agenzia sono costituite: 
+ 
+                            
+                            
+                                a)
+                                
+                                    dalle assegnazioni a carico dello Stato, finalizzate anche alla gestione delle attivita' istituzionali dell'Agenzia, determinate con legge; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    dalle somme di provenienza dall'Unione europea per il finanziamento o il cofinanziamento del funzionamento dell'Agenzia e dei rimborsi forfettari da parte del FEAGA e del FEASR; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    dai proventi realizzati nell'espletamento delle gestioni di intervento.
 
 Non costituiscono entrate, ai sensi del comma 1, le assegnazioni a carico del bilancio dello Stato o della Unione europea destinate ad essere erogate a terzi a titolo di aiuti o per spese connesse alla gestione degli ammassi pubblici. Le somme destinate agli ammassi e agli aiuti comunitari, anche cofinanziati, sono gestite su un conto infruttifero intestato all'Agenzia con la dizione «Aiuti e ammassi comunitari» da tenersi presso la Tesoreria centrale dello Stato. Tali somme, cosi' identificate, costituiscono patrimonio distinto a tutti gli effetti da quello dell'Agenzia.
 
@@ -196,11 +426,76 @@ Nell'ambito dei compiti di cui ((all'articolo 01, comma 3, lettera a),)), ((il M
 
 Fermo restando quanto previsto al comma 6, il Ministero, l'AGEA, le regioni, le Province autonome di Trento e di Bolzano e gli organismi pagatori sono rispettivamente titolari, ai sensi del decreto legislativo 7 marzo 2005, n. 82, dei dati e documenti dagli stessi formati e caricati a qualsiasi titolo sul SIAN nell'esercizio delle proprie funzioni.
 
+6-ter.
+                        
+                            
+                                Fermo restando il rispetto della normativa vigente in materia di protezione dei dati personali e del codice dell'amministrazione digitale: 
+ 
+                            
+                            
+                                a)
+                                
+                                    i fornitori e gli eventuali terzi aventi causa rendono disponibili in via esclusiva al Ministero, ad AGEA, alle regioni, alle Province autonome di Trento e di Bolzano e agli organismi pagatori i dati raccolti o formati nel loro interesse o su loro incarico, che contribuiscano a qualsiasi titolo all'implementazione del SIAN; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    e' fatto divieto ai terzi fornitori di servizi ed eventuali terzi aventi causa dai soggetti di cui al comma 6-bis di divulgare o, comunque, utilizzare, per qualsiasi finalita', i dati presenti nel SIAN ai quali essi abbiano accesso nello svolgimento delle proprie funzioni.
+
 Resta salva la possibilita' per AGEA, le regioni, le Province autonome di Trento e di Bolzano e gli organismi pagatori di accedere al SIAN e di operare e sviluppare lo stesso al fine di esercitare le funzioni agli stessi attribuite. E' fatta comunque salva in ogni caso la possibilita' per i CAA di utilizzare i dati presenti nel SIAN ai quali abbiano accesso su mandato delle imprese agricole, per lo svolgimento delle attivita' di assistenza alle medesime imprese.
 
 ))
 
 ## Art. 15-bis. — (Trasformazione della societa' SIN S.p.a.)
+
+1.
+                        
+                            
+                                La SIN - Sistema Informativo Nazionale per lo sviluppo dell'Agricoltura - S.p.a., costituita ai sensi dell'articolo 14, comma 10-bis, del decreto legislativo 29 marzo 2004, n. 99, previa adozione dei necessari provvedimenti e delle modifiche statutarie che ne permettano la qualificazione quale societa' in house del Ministero e di AGEA, puo' svolgere le seguenti attivita': 
+ 
+                            
+                            
+                                a)
+                                
+                                    coordinamento nella progettazione e nello sviluppo delle nuove tecnologie informatiche in agricoltura e nella pesca; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    progettazione e sviluppo anche sperimentale di sistemi avanzati per l'attuazione della riforma della politica agricola comune e della pesca per il periodo 2021-2027 e per i successivi periodi; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    ricerca e sviluppo di sistemi innovativi applicati all'agricoltura e alla pesca, anche mediante l'implementazione di nuove tecnologie quali l'intelligenza artificiale e la block chain; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    supporto tecnico e amministrativo, al Ministero e ad AGEA, nel governo e sviluppo del SIAN, anche in coordinamento con i CAA; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    
+                                        ((LETTERA ABROGATA DAL D.L. 22 GIUGNO 2023, N. 75, CONVERTITO CON MODIFICAZIONI DALLA L. 10 AGOSTO 2023, N. 112)); 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    conclusione di accordi, sentito il Ministero, con altri soggetti pubblici, ivi incluse le regioni, le Province autonome di Trento e di Bolzano e i CAA, al fine di realizzare una cooperazione finalizzata all'efficientamento dei processi di erogazione di servizi nell'ambito dell'agricoltura e della pesca, ai sensi dell'articolo 15 della legge 7 agosto 1990, n. 241 e nei limiti di cui all'articolo 5, comma 6, del decreto legislativo 18 aprile 2016, n. 50.
 
 Lo svolgimento delle attivita' di cui al comma 1 puo' essere in ogni caso effettuato solo una volta espletata da parte di Consip S.p.a. la procedura ad evidenza pubblica di cui all'articolo 1, comma 6-bis, del decreto-legge 5 maggio 2015, n. 51, convertito, con modificazioni, dalla legge 2 luglio 2015, n. 91, e sottoscritti i relativi accordi quadro.
 
@@ -239,4 +534,50 @@ Sino all'adozione del decreto di cui all'articolo 6, comma 3, ultimo periodo, ri
 Qualora la normativa vigente faccia riferimento a disposizioni abrogate dall'articolo 21, e fuori dai casi di abrogazione per incompatibilita', il riferimento si intende effettuato alle corrispondenti disposizioni del presente decreto.
 
 ## Art. 21. — Abrogazioni
+
+1.
+                        
+                            
+                                Sono abrogati: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il decreto legislativo 27 maggio 1999, n. 165, ad eccezione dell'articolo 3, comma 6; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'articolo 18, commi 1, 1-bis, 1-ter, 1-quater e 1-quinquies del decreto legislativo 29 marzo 2004, n. 99; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    l'articolo 1, comma 1048, della legge 27 dicembre 2006, n. 296; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    l'articolo 20, commi 1, 2 e 3 della legge 6 febbraio 2007, n. 13; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    l'articolo 25 della legge 4 giugno 2010, n. 96, limitatamente alla individuazione delle Autorita' di certificazione e di audit del FEP, oggi FEAMP; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    l'articolo 12, comma 13, del decreto-legge 6 luglio 2012, n. 95, convertito, con modificazioni, dalla legge 7 agosto 2012, n. 135.
 

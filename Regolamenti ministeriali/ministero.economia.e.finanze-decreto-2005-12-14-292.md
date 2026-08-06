@@ -8,8 +8,8 @@ codice_redazionale: 006G0019
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:39Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -29,9 +29,87 @@ Udito il parere del Consiglio di Stato, espresso dalla Sezione consultiva per gl
 
 ## Art. 1. — Comandante generale
 
+1.
+                        
+                            
+                                Il Comandante generale esercita le funzioni di cui all'articolo 16 del decreto legislativo 30 marzo 2001, n. 165, e, in particolare:
+ 
+                            
+                            
+                                a)
+                                
+                                    avvalendosi del Comandante in seconda e del Capo di stato maggiore, coordina la pianificazione e la programmazione finanziaria;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    esercita i poteri di spesa e di acquisizione delle entrate, attribuendo ai responsabili dei progetti e ai comandanti degli enti e dei distaccamenti i limiti di valore per gli impegni delle spese e per l'acquisizione delle entrate;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    promuove e resiste alle liti; ha il potere di conciliare e transigere;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    definisce, con le determinazioni di cui all'articolo 2, comma 4, del decreto del Presidente della Repubblica 29 gennaio 1999, n. 34, l'organizzazione amministrativa centrale e periferica del Corpo della Guardia di finanza precisando i principi generali e i criteri cui devono conformarsi le relative gestioni di fondi e di valori.
+
 Il Comandante generale esercita le funzioni di cui al presente regolamento nel quadro delle attribuzioni di cui all'articolo 3, comma 1, lettera a), del decreto del Presidente della Repubblica 29 gennaio 1999, n. 34.
 
 ## Art. 2. — Comando generale
+
+1.
+                        
+                            
+                                Il Comando generale, sulla base delle determinazioni di cui all'articolo 1, lettera d), provvede al funzionamento degli enti di cui all'articolo 5, ed, in particolare, a:
+ 
+                            
+                            
+                                a)
+                                
+                                    tenere la contabilita' speciale aperta presso la Sezione di tesoreria provinciale di Roma di cui all'articolo 3;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    disporre le aperture di credito sui vari capitoli per gli enti della Guardia di finanza, nei limiti delle assegnazioni loro concesse;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    somministrare agli enti i fondi delle anticipazioni di cui alla lettera b);
+
+                                
+                            
+                            
+                                d)
+                                
+                                    eseguire, per conto e secondo le norme impartite dall'Ufficio Centrale di Bilancio del Ministero dell'economia e delle finanze, la revisione delle contabilita' rese dagli enti;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    eseguire, per delega del Ministero della difesa e per conto dell'Ufficio Centrale di Bilancio, istituito presso tale dicastero, la revisione della contabilita' dei materiali dell'amministrazione militare in distribuzione agli enti del Corpo;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    vigilare sulla tempestiva resa dei conti da parte degli enti.
 
 La firma e la conseguente responsabilita' degli atti relativi alle attribuzioni sopra indicate spetta al dirigente militare designato dal Comandante generale ai fini del loro esercizio.
 
@@ -56,6 +134,31 @@ Detto rendiconto e' trasmesso all'Ufficio Centrale di Bilancio presso il Ministe
 Alla fine di ogni esercizio finanziario, il Comando generale provvede, per ogni capitolo di bilancio, a determinare l'ammontare complessivo dei fondi accreditati sulla contabilita' speciale e delle spese sostenute dagli enti, dandone comunicazione all'Ufficio Centrale di Bilancio del Ministero dell'economia e delle finanze.
 
 ## Art. 5. — Denominazione delle strutture periferiche
+
+1.
+                        
+                            
+                                Ai fini del presente regolamento, sono denominati:
+ 
+                            
+                            
+                                a)
+                                
+                                    enti, i comandi del Corpo che hanno la gestione dei fondi di bilancio con resa del conto direttamente al Comando generale;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    distaccamenti, i comandi che hanno la gestione dei fondi di bilancio somministrati dall'ente, con resa del conto direttamente all'ente medesimo;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    reparti, gli altri comandi dipendenti amministrativamente dall'ente, che hanno la sola gestione di materiali e denaro.
 
 ## - CAPO II Contratti e servizi in economia
 
@@ -87,6 +190,24 @@ Le valutazioni tecnico-economiche effettuate dalle commissioni risultano da appo
 
 ## Art. 9. — Approvazione
 
+1.
+                        
+                            
+                                I contratti attivi e passivi stipulati dalla Guardia di finanza sono approvati:
+ 
+                            
+                            
+                                a)
+                                
+                                    dal Comandante generale o da ufficiali generali o superiori da lui delegati;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    dal Comandante dell'ente e dal Comandante del distaccamento, per i contratti stipulati nell'interesse dell'ente o del distaccamento, entro i limiti di valore per gli impegni delle spese e di acquisizione delle entrate attribuiti ai sensi dell'articolo 1, comma 1, lettera b).
+
 Il Comandante generale, al fine di assicurare la continuita' dei servizi logistici connessi alle attivita' operative e addestrative, puo' delegare al Comandante dell'ente, incaricato dell'acquisizione, l'approvazione dei contratti stipulati nell'interesse di piu' enti.
 
 L'approvazione rende eseguibili i contratti, gravanti sui fondi delle anticipazioni.
@@ -101,9 +222,302 @@ Le Autorita' di cui al comma 1, lettere a) ovvero b), nominano le commissioni di
 
 ## Art. 10. — Servizi in economia
 
+1.
+                        
+                            
+                                I lavori, le provviste e i servizi che possono essere eseguiti in economia, sono i seguenti:
+ 
+                            
+                            
+                                a)
+                                
+                                    lavori che l'autorita' competente dichiari debbano rimanere segreti o la cui esecuzione richieda misure speciali di sicurezza ai fini della tutela degli interessi essenziali della sicurezza dello Stato;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    lavori per fronteggiare l'immediato pericolo o per la difesa dalle inondazioni, per il prosciugamento degli edifici e dei comprensori militari inondati, per le riparazioni dei danni causati da incendi, da agenti atmosferici e tellurici e da altre calamita', nonche' i lavori concernenti la stabilita' degli edifici militari, la bonifica da ordigni esplosivi di qualunque genere, i lavori per la riparazione immediata e diretta dei danni derivanti da esercitazioni;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    immediate provvidenze a vantaggio dell'igiene e della sicurezza del personale durante i lavori e per i primi soccorsi in casi di infortunio;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    spese relative ai corsi concernenti l'addestramento militare e professionale all'interno e all'estero del personale, diretti a soddisfare specifiche esigenze non altrimenti fronteggiabili;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    provviste e prestazioni indispensabili per assicurare la necessaria continuita' dei servizi: sanitario, veterinario, viveri, vestiario, equipaggiamento, casermaggio, combustibili, carbolubrificanti, fari e segnalamenti marittimi, telecomunicazioni, nonche' tutte le spese necessarie per assicurare la continuita' dei servizi afferenti l'arruolamento e il reclutamento e delle attivita' operative inerenti a manovre, esercitazioni, trasporti e connessi servizi di supporto tecnico logistico e la cui interruzione comporti danni all'Amministrazione e pregiudizi dell'efficienza dei servizi;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    acquisizioni di beni e servizi di esclusiva produzione estera per le quali non sia possibile concludere contratti;
+
+                                
+                            
+                            
+                                g)
+                                
+                                    studi, progettazioni e costruzioni di modelli e di prototipi di armi, macchine, apparecchi, infrastrutture, impianti e materiali speciali, materiali di vestiario e casermaggio quando l'Amministrazione vi provvede direttamente;
+
+                                
+                            
+                            
+                                h)
+                                
+                                    lavori indispensabili per la rimozione degli ostacoli di qualunque genere alla navigazione marittima e aerea nonche' per l'agibilita' dei campi di volo;
+
+                                
+                            
+                            
+                                i)
+                                
+                                    spese per l'acquisto, noleggio, riparazione e manutenzione di autoveicoli, comprese le parti di ricambio;
+
+                                
+                            
+                            
+                                l)
+                                
+                                    spese per il funzionamento delle sale mediche e delle strutture veterinarie, compreso l'acquisto di medicinali, apparecchiature e materiali sanitari, quando l'interruzione delle provviste o delle prestazioni possa compromettere l'efficienza dei servizi recando danno all'Amministrazione;
+
+                                
+                            
+                            
+                                m)
+                                
+                                    spese per il funzionamento delle mense di servizio e per l'acquisto di generi sostitutivi, di miglioramento vitto e conforto, quando l'interruzione delle provviste o delle prestazioni possa compromettere l'efficienza dei servizi recando danno all'Amministrazione;
+
+                                
+                            
+                            
+                                n)
+                                
+                                    spese relative all'accasermamento, all'igiene dei militari, nonche' spese per la pulizia, derattizzazione, disinquinamento, disinfestazione delle infrastrutture e dei mezzi e per la raccolta ed il trasporto dei rifiuti;
+
+                                
+                            
+                            
+                                o)
+                                
+                                    spese per l'illuminazione, per le utenze telefoniche e per il riscaldamento dei locali, per la fornitura di acqua, di gas e di energia elettrica, anche mediante l'impiego di macchine e relative spese di allacciamento;
+
+                                
+                            
+                            
+                                p)
+                                
+                                    acquisto e rilegatura di libri, stampe, gazzette ufficiali e collezioni; acquisto di generi di cancelleria, di materiale per disegno e di valori bollati; acquisto e abbonamento a riviste e giornali, pubblicazioni e agenzie di stampa, servizi stampa; spese per traduzione, per l'elaborazione di pubblicazioni e riviste edite dall'Amministrazione ivi compresa la corresponsione dei compensi ai collaboratori, per prestazioni di lavoro autonomo dai medesimi rese;
+
+                                
+                            
+                            
+                                q)
+                                
+                                    spese per conferenze, mostre e cerimonie, di rappresentanza, di informazione attraverso agenzie di stampa, di propaganda, per l'addobbo e l'arredamento dei locali adibiti ad attivita' culturali e ricreative; spese per le onoranze funebri; per il museo storico del Corpo e per la banda musicale e le fanfare; acquisto di medaglie, nastrini, distintivi, croci di anzianita', diplomi, fasce tricolori, bandiere e oggetti per premi; spese inerenti a solennita' militari, feste nazionali, manifestazioni e ricorrenze varie;
+
+                                
+                            
+                            
+                                r)
+                                
+                                    studi, progettazione e costruzione di modelli e di prototipi, macchine, apparecchi, infrastrutture, impianti e materiali speciali interessanti l'attivita' istituzionale;
+
+                                
+                            
+                            
+                                s)
+                                
+                                    lavori occorrenti per l'ordinaria manutenzione e il minuto mantenimento degli immobili;
+
+                                
+                            
+                            
+                                t)
+                                
+                                    spese per le riparazioni dei mezzi navali, degli aeromobili e del materiale di volo, delle telecomunicazioni e assistenza di volo, delle armi, degli impianti, dei gruppi elettrogeni, nonche' spese necessarie per il funzionamento dei magazzini, dei laboratori, delle officine dei mezzi terrestri, navali ed aerei, degli impianti e apparecchiature a bordo e a terra, quando l'interruzione delle provviste e delle prestazioni possa compromettere l'efficienza dei servizi recando danno all'Amministrazione;
+
+                                
+                            
+                            
+                                u)
+                                
+                                    spese per garantire con immediatezza il servizio trasporti: attrezzature speciali, comprese quelle relative ai noli, all'imballaggio, allo sdoganamento, all'immagazzinamento, al facchinaggio, nonche' al carico e scarico dei materiali;
+
+                                
+                            
+                            
+                                v)
+                                
+                                    spese per le esigenze di approntamento e funzionamento dei reparti impiegati nelle operazioni di cui all'articolo 5 del decreto legislativo 19 marzo 2001, n. 68, e spese inerenti ai rifornimenti per i reparti, le navi e gli aeromobili del Corpo all'estero e le unita' navali distanti da apprestamenti logistici;
+
+                                
+                            
+                            
+                                z)
+                                
+                                    acquisto, manutenzione e riparazione di mobili, arredi, climatizzatori, attrezzi e materiali ginnicosportivi;
+
+                                
+                            
+                            
+                                aa)
+                                
+                                    acquisto, noleggio, installazione, gestione e manutenzione degli impianti di riproduzione, telefonici, telegrafici, radiotelefonici, informatici, meccanografici, televisivi, di amplificazione e diffusione sonora;
+
+                                
+                            
+                            
+                                bb)
+                                
+                                    acquisto e mantenimento di cani;
+
+                                
+                            
+                            
+                                cc)
+                                
+                                    spese per la stampa e la litografia di bollettini; acquisto, noleggio e manutenzione di attrezzature e materiali per tipografia, litografia, riproduzione grafica, legatoria, cinematografia e fotografia; acquisto, noleggio e manutenzione di macchine per scrivere e per calcolo, servizi di microfilmatura nonche' acquisto di attrezzature accessorie e di materiali speciali e di consumo e forniture di servizi per i centri elettronici, per i centri radiotelegrafonici, meccanografici e telematici.
+
+2.
+                        
+                            
+                                Il ricorso alla procedura in economia, nei limiti di importo di cui all'articolo 12, e' altresi' consentito nei seguenti casi particolari:
+ 
+                            
+                            
+                                a)
+                                
+                                    risoluzione di un precedente rapporto contrattuale, quando cio' sia ritenuto necessario o conveniente per assicurare la prestazione nel termine previsto dal contratto;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    completamento delle prestazioni non previste dal contratto in corso, qualora non sia possibile imporne l'esecuzione nell'ambito dell'oggetto principale del contratto medesimo;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    acquisizione di beni e servizi, nella misura strettamente necessaria, nel caso di contratti scaduti, nelle more di svolgimento delle ordinarie procedure di scelta del contraente;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    spese per l'acquisto di beni e servizi ricollegabili ad eventi oggettivamente imprevedibili ed urgenti, al fine di scongiurare situazioni di pericolo, a persone o cose, nonche' a danno dell'igiene e salute pubblica.
+
 ## Art. 11. — Autorizzazione
 
+1.
+                        
+                            
+                                L'esecuzione dei lavori, delle provviste e dei servizi di cui all'articolo 10 e' autorizzata:
+ 
+                            
+                            
+                                a)
+                                
+                                    dal Comandante generale o da ufficiali generali o superiori da lui designati;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    dal Comandante dell'ente, o del distaccamento, nei limiti di spesa determinati dal Comandante generale.
+
+2.
+                        
+                            
+                                L'atto che autorizza il ricorso alla procedura in economia deve indicare:
+ 
+                            
+                            
+                                a)
+                                
+                                    l'esigenza da soddisfare;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    i motivi per i quali e' adottata tale procedura;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    in quale tipologia di spese, prevista nel presente capo, rientri l'acquisizione;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    l'importo presunto della spesa;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    il capitolo di imputazione della spesa.
+
 ## Art. 12. — Limiti di spesa
+
+1.
+                        
+                            
+                                Il ricorso alla procedura in economia e' consentito quando l'importo della spesa non sia superiore a:
+ 
+                            
+                            
+                                a)
+                                
+                                    cinquantamila euro per le acquisizioni di beni e servizi di cui alle lettere d), i), g), n), o), p), q), r), s), u), z), aa), bb), cc) di cui all'articolo 10, comma 1;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    centotrentamila euro per le acquisizioni di beni e servizi di cui alle lettere c), e), f), l), m), t), v) dell'articolo 10, comma 1, e per quelle di cui al comma 2 dello stesso articolo;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    cinquantamila euro per i lavori da eseguirsi in amministrazione diretta;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    duecentomila euro per i lavori da eseguirsi a cottimo fiduciario.
 
 Il ricorso alla procedura in economia e' sempre consentito quando l'importo dell'acquisizione di beni e servizi sia inferiore a trentamila euro.
 
@@ -113,6 +527,49 @@ E' vietato frazionare artificiosamente l'acquisizione di beni e servizi aventi c
 
 ## Art. 13. — Esecuzione
 
+1.
+                        
+                            
+                                Le provviste, i lavori e i servizi possono essere eseguiti, sotto la diretta responsabilita' dell'ufficiale designato dalle autorita' di cui all'articolo 11, comma 1, lettere a) ovvero b) - in qualita' di responsabile del procedimento:
+ 
+                            
+                            
+                                a)
+                                
+                                    in amministrazione diretta;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    a cottimo fiduciario;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    in entrambi i modi, e cioe' parte in amministrazione diretta e parte a cottimo fiduciario.
+
+2.
+                        
+                            
+                                Sono eseguibili in amministrazione diretta:
+ 
+                            
+                            
+                                a)
+                                
+                                    i lavori e i servizi per i quali non occorre l'intervento di imprese; essi sono effettuati con materiale, utensili, mezzi e personale della stessa Amministrazione;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le provviste a pronta consegna e le lavorazioni ed i servizi a pronta esecuzione.
+
 Sono eseguibili a cottimo fiduciario i servizi, le provviste o le lavorazioni affidati direttamente a persone o a ditte di notoria capacita' o idoneita'.
 
 La scelta dell'impresa presso cui effettuare l'acquisizione deve avvenire mediante gara informale con richiesta di preventivi ad almeno cinque ditte ed acquisizione di almeno tre preventivi. Nel caso di esito infruttuoso della gara, si ripete l'indagine di mercato ed in tal caso l'acquisizione puo' essere aggiudicata anche in presenza di un solo preventivo.
@@ -120,6 +577,73 @@ La scelta dell'impresa presso cui effettuare l'acquisizione deve avvenire median
 Si prescinde dalla richiesta di piu' preventivi nel caso di nota specialita' dei beni da acquisire, in relazione alle caratteristiche tecniche o di mercato. Qualora per l'acquisizione dei suddetti beni ci si rivolga a ditte che commercializzano tali prodotti, occorre ugualmente osservare le prescrizioni di cui al comma 4 del presente articolo.
 
 Si prescinde altresi' dalla richiesta di piu' preventivi quando l'importo della spesa non superi l'ammontare di ventimila euro con esclusione dell'IVA. Tale limite e' elevato a quarantamila euro con esclusione dell'IVA per l'acquisizione di beni e servizi connessi ad impellenti ed imprevedibili esigenze di ordine pubblico.
+
+7.
+                        
+                            
+                                La lettera d'invito a presentare le offerte contiene tra l'altro:
+ 
+                            
+                            
+                                a)
+                                
+                                    l'oggetto della prestazione;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le caratteristiche tecniche;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    la qualita' e le modalita' di esecuzione e di assistenza;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    le eventuali garanzie richieste;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    le modalita' di pagamento;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    il termine di esecuzione della prestazione;
+
+                                
+                            
+                            
+                                g)
+                                
+                                    le penalita' da infliggere in caso di ritardo;
+
+                                
+                            
+                            
+                                h)
+                                
+                                    l'obbligo dell'assuntore di uniformarsi, a sua cura e spese, a tutte le disposizioni delle leggi e dei regolamenti vigenti in materia;
+
+                                
+                            
+                            
+                                i)
+                                
+                                    la facolta' per l'Amministrazione di provvedere all'esecuzione dell'obbligazione a spese della ditta aggiudicataria e di procedere alla rescissione del rapporto negoziale mediante semplice denuncia, nei casi in cui la ditta stessa venga meno alle obbligazioni assunte.
 
 Tra i preventivi acquisiti e', di massima, prescelto quello che offre il prezzo piu' basso. Negli altri casi la scelta puo' anche essere effettuata, con adeguata motivazione, sulla base del criterio dell'offerta economicamente piu' vantaggiosa.
 
@@ -145,6 +669,24 @@ I pagamenti sono effettuati entro trenta giorni dalla data del collaudo o, se su
 ## Art. 16. — Pagamento delle competenze
 
 Il personale della Guardia di finanza e' amministrato e riceve, secondo le modalita' e i termini previsti dalle vigenti disposizioni in materia, il trattamento economico spettante, i compensi accessori e, quando dovuti, il vitto, l'alloggio, il vestiario e l'equipaggiamento individuale, dall'organismo provvisto di autonomia amministrativa e presso il quale e' in forza.
+
+2.
+                        
+                            
+                                Per il personale che si trovi in particolari situazioni operative ed ambientali nel territorio nazionale o all'estero, o impiegato in attivita' addestrative o adibito a speciali servizi, individuate dal Comandante dell'ente, il pagamento delle competenze, fisse ed eventuali puo' essere effettuato:
+ 
+                            
+                            
+                                a)
+                                
+                                    con assegno circolare o di conto corrente, non trasferibile, intestato al creditore;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    con denaro contante.
 
 Le modalita' indicate al comma 2 possono essere adottate anche per il pagamento delle spettanze dovute ai militari di leva, compresi gli ufficiali di complemento.
 
@@ -216,7 +758,89 @@ All'inizio dell'anno finanziario, con determinazione del Comandante generale, lo
 
 Le somme ripartite sono accreditate sulla contabilita' speciale di cui all'articolo 3.
 
+4.
+                        
+                            
+                                Alla chiusura di ogni esercizio finanziario:
+ 
+                            
+                            
+                                a)
+                                
+                                    gli enti, entro il trentuno dicembre di ogni anno, versano al Comando generale l'importo del fondo scorta;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il Comando generale versa parimenti tale dotazione entro il trentuno dicembre di ogni anno in conto entrate tesoro, con imputazione allo speciale capitolo dello stato di previsione delle entrate dello Stato.
+
 ## Art. 27. — Utilizzo del fondo scorta e conti particolari
+
+1.
+                        
+                            
+                                Con il fondo scorta e conti particolari, si provvede a fronteggiare le esigenze di cui all'articolo 26, nonche' quelle connesse a:
+ 
+                            
+                            
+                                a)
+                                
+                                    pagamenti per conto di altri enti, nonche' ai prestiti di cui all'articolo 20;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    pagamenti di acconti e di anticipi al personale, nei casi previsti dalle disposizioni legislative o regolamentari vigenti in materia;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    anticipi alle mense obbligatorie di servizio;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    somministrazione dei fondi permanenti ai sensi dell'articolo 22.
+
+2.
+                        
+                            
+                                Al fondo scorta sono parimenti imputate le seguenti operazioni di entrata e di uscita:
+ 
+                            
+                            
+                                a)
+                                
+                                    versamento di somme accreditate da altri enti o reparti, da personale dipendente o da estranei all'Amministrazione, per essere inviate ad altri enti o reparti o a terzi creditori;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    stralcio dei titoli di pagamento dai rendiconti in attesa di perfezionamento;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    concessione o ricevimento di prestiti, ai sensi dell'articolo 20;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    altri eventuali pagamenti e introiti consentiti dalle vigenti disposizioni legislative e regolamentari.
 
 ## Art. 28. — Recupero delle somme anticipate con il fondo scorta
 
@@ -234,6 +858,115 @@ Le somme riscosse e quelle ritenute nei pagamenti, sempre che non siano dovute a
 
 Al versamento dei proventi in tesoreria provvedono, non oltre il giorno dieci del mese successivo alla riscossione, gli enti anche per i comandi amministrativamente dipendenti.
 
+4.
+                        
+                            
+                                Costituiscono proventi, in particolare, gli importi relativi a:
+ 
+                            
+                            
+                                a)
+                                
+                                    prestazioni della banda del Corpo effettuate su richiesta di enti e comitati;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    canoni per l'utilizzazione di alloggi di servizio in temporanea concessione;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    cessioni di materiali e prestazioni di qualsiasi specie ad altre amministrazioni dello Stato, ad amministrazioni diverse da quelle dello Stato e a privati;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    cessioni di vestiario e vendita di residui;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    attivita' di protezione sociale;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    abbonamenti alla «Rivista della Guardia di finanza»;
+
+                                
+                            
+                            
+                                g)
+                                
+                                    consumi privati per utenze;
+
+                                
+                            
+                            
+                                h)
+                                
+                                    addebiti per smarrimento e deterioramento di materiali;
+
+                                
+                            
+                            
+                                i)
+                                
+                                    recuperi di somme indebitamente percepite e gia' spesate a bilancio;
+
+                                
+                            
+                            
+                                l)
+                                
+                                    vendite di materiali fuori uso;
+
+                                
+                            
+                            
+                                m)
+                                
+                                    vendite di residui delle mense e delle cucine;
+
+                                
+                            
+                            
+                                n)
+                                
+                                    interessi maturati dei conti correnti intestati agli enti, distaccamenti e reparti;
+
+                                
+                            
+                            
+                                o)
+                                
+                                    risarcimento danni;
+
+                                
+                            
+                            
+                                p)
+                                
+                                    onorari medici per visite fiscali;
+
+                                
+                            
+                            
+                                q)
+                                
+                                    riscossioni di pertinenza dello Stato.
+
 ## Art. 30. — Resa del conto
 
 Gli enti rendono il conto, alla fine di ogni trimestre, dimostrando per ciascun capitolo di bilancio le anticipazioni ricevute e le spese sostenute.
@@ -244,13 +977,95 @@ Le rettificazioni alla contabilita' sono effettuate senza alterare le risultanze
 
 I predetti adempimenti possono essere effettuati anche mediante procedure informatiche.
 
+5.
+                        
+                            
+                                Unitamente ai rendiconti di cui ai commi 1 e 2, gli enti inviano al Comando generale:
+ 
+                            
+                            
+                                a)
+                                
+                                    la situazione del fondo scorta con l'indicazione dell'ammontare complessivo delle partite ancora accese alla fine del trimestre, raggruppate secondo la loro natura e oggetto;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    un prospetto riassuntivo dei proventi riscossi e versati in tesoreria durante il trimestre, raggruppati secondo la loro specie e oggetto;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    ogni altra dimostrazione contabile, statistica o economica.
+
 I documenti di cui al comma 5, lettere a) e b), sono trasmessi, a cura del Comando generale, all'Ufficio Centrale di Bilancio del Ministero dell'economia e delle finanze.
 
 ## - Capo VII Servizio vettovagliamento
 
 ## Art. 31. — Classificazione delle mense
 
+1.
+                        
+                            
+                                Le mense in funzione presso i comandi del Corpo sono classificate in:
+ 
+                            
+                            
+                                a)
+                                
+                                    mense allievi ufficiali, allievi ispettori e sovrintendenti e allievi finanzieri;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    mense obbligatorie di servizio;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    mense non obbligatorie di servizio.
+
 ## Art. 32. — Apporti dell'Amministrazione
+
+1.
+                        
+                            
+                                L'Amministrazione provvede:
+ 
+                            
+                            
+                                a)
+                                
+                                    alle spese per l'impianto delle mense e relative cucine;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    alla dotazione del materiale necessario per il loro funzionamento;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    alle spese di carattere generale quali acqua, combustibile, energia elettrica, pulizia e altri oneri accessori per la preparazione e la distribuzione dei pasti;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    all'assegnazione del personale di servizio per le mense gestite direttamente dai comandi del Corpo.
 
 ## Art. 33. — Modalita' del servizio di vettovagliamento
 
@@ -282,6 +1097,38 @@ L'atto di incetta contiene tutte le indicazioni relative ai cani acquistati nonc
 
 I fondi occorrenti sono forniti all'ente all'uopo designato e sono anticipati al presidente della commissione rimonta o alla persona da lui delegata.
 
+2.
+                        
+                            
+                                Le spese delle commissioni comprendono:
+ 
+                            
+                            
+                                a)
+                                
+                                    l'acquisto dei cani;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le indennita' e le spese di viaggio per il personale delle commissioni;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il mantenimento e il trasporto dei cani e il pagamento degli eventuali diritti doganali;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    le spese varie per il governo, la custodia, la cura dei cani ogni altra necessaria per il servizio della rimonta.
+
 ## Art. 37. — Adempimenti dei reparti di addestramento dei cani
 
 I reparti di addestramento, all'atto della ricezione dei cani, dispongono gli opportuni accertamenti sanitari e provvedono a iscrivere nei propri ruoli i cani stessi; entro cinque giorni dalla ricezione trasmettono alla commissione rimonta le relative attestazioni di ricevuta.
@@ -295,6 +1142,49 @@ La commissione provvede presso il venditore per la restituzione o per la proroga
 Nel caso di morte di un cane prima che sia trascorso il periodo di garanzia, il reparto accerta, con l'intervento dell'ufficiale veterinario o del medico veterinario convenzionato, se la causa sia da attribuirsi a vizi redibitori preesistenti. In tal caso, trasmette alla commissione rimonta i documenti necessari per il recupero del prezzo dal venditore.
 
 ## Art. 39. — Riforma e cessione
+
+1.
+                        
+                            
+                                I cani ritenuti non idonei al servizio sono riformati per deliberazione di una commissione nominata dal Comandante dell'ente e composta da tre ufficiali di cui uno veterinario. Sulla base di tale deliberazione, il Comando generale puo' concedere l'autorizzazione per:
+ 
+                            
+                            
+                                a)
+                                
+                                    la vendita a chiunque ne faccia richiesta;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la cessione gratuita, a favore di privati cittadini, enti o amministrazioni pubbliche o associazioni dotate di personalita' giuridica.
+
+2.
+                        
+                            
+                                I cani idonei, ma in soprannumero rispetto alle esigenze tecnico-operative, possono essere dichiarati fuori servizio e, previa autorizzazione del Comando generale, ceduti a pagamento, a:
+ 
+                            
+                            
+                                a)
+                                
+                                    corpi armati dello Stato;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    organizzazioni di pubblica utilita' che ne facciano richiesta;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    militari del Corpo.
 
 Le disposizioni relative alle suddette cessioni sono emanate con determinazione del Comandante generale.
 
@@ -388,9 +1278,59 @@ Il materiale proveniente dalla demolizione o dal disfacimento, che risulta di ne
 
 ## Art. 51. — Materiali fuori uso per cause tecniche
 
+1.
+                        
+                            
+                                Gli enti formulano proposta di dismissione o radiazione per i complessi, le parti o singoli oggetti che, pur essendo efficienti, rispettivamente:
+ 
+                            
+                            
+                                a)
+                                
+                                    non hanno trovato o non possono trovare utile impiego in relazione alla loro primitiva destinazione;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    sono ritenuti superati per motivi di natura tecnica.
+
 La proposta e' inoltrata al Comando generale, con il parere motivato della commissione tecnica nominata dal Comandante dell'ente.
 
 La dismissione o radiazione dei materiali, puo' essere disposta anche direttamente dal Comando generale.
+
+4.
+                        
+                            
+                                Il Comando generale stabilisce se i materiali dismessi o radiati devono essere:
+ 
+                            
+                            
+                                a)
+                                
+                                    impiegati per finalita' diverse da quelle originarie;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    trasformati;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    venduti, nello stato in cui si trovano o previa demolizione o disfacimento, previa dichiarazione di fuori uso;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    distrutti.
 
 ## Art. 52. — Vendita di materiali fuori uso
 
@@ -401,6 +1341,24 @@ Nel caso di permuta, ai sensi dell'articolo 1, comma 3, della legge 28 dicembre 
 Qualora l'alienazione di materiale fuori uso debba essere preceduta dalla demolizione o dal disfacimento dei materiali a carico di terzi, o in ragioni di particolari esigenze connesse alla sicurezza o all'igiene ambientale, l'Amministrazione puo' prevedere un unico procedimento nel quale l'eventuale costo delle operazioni di cui sopra potra' essere decurtato dall'importo di aggiudicazione finale.
 
 ## Art. 53. — Vendita di alcuni tipi di materiali
+
+1.
+                        
+                            
+                                Il Comandante generale puo' autorizzare la vendita dei materiali:
+ 
+                            
+                            
+                                a)
+                                
+                                    indicati al primo comma dell'articolo precedente dichiarati fuori uso, di valore di stima non superiore a trentamila euro;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    inservibili o provenienti da residuati di lavorazione, uso o disfacimento, compresi i residui delle mense e cucine.
 
 Per la vendita si procede previa acquisizione in prima istanza di almeno tre offerte e in seconda istanza di almeno una offerta consistente anche nel mero sgombero a titolo non oneroso.
 
@@ -459,6 +1417,31 @@ Alla nomina della commissione provvede il Ministro dell'economia e delle finanze
 
 ## Art. 59. — Autorita' competente
 
+1.
+                        
+                            
+                                Competenti a determinare in via amministrativa la responsabilita' e gli addebiti relativi al danno accertato, ai sensi degli articoli che precedono, sono:
+ 
+                            
+                            
+                                a)
+                                
+                                    il Comandante dell'ente fino al limite di valore stabilito dal Comandante generale;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il Comandante generale per importi superiori;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il Ministro dell'economia e delle finanze nel caso previsto dal comma 3 dell'articolo 58.
+
 L'autorita' competente emette decreto di scarico, ai sensi e per gli effetti dell'articolo 194 del regolamento per l'Amministrazione del patrimonio e la contabilita' generale dello Stato, se riconosce dimostrato il caso fortuito o la causa di forza maggiore. In caso contrario, dispone, sempre a mezzo di decreto, l'addebito ai responsabili e lo scarico contabile del materiale.
 
 Per cali di giacenza, di distribuzione, di trasformazione e di trasporto, che rientrano nelle aliquote fissate da speciali istruzioni, il discarico e' ammesso previo accertamento da parte di apposita commissione nominata dal Comandante dell'ente che ha in carico i materiali.
@@ -478,6 +1461,24 @@ Tale procedimento non sospende, tuttavia, lo svolgimento degli atti intesi ad ac
 Ove il recupero di cui al comma 1 non puo' comunque essere effettuato, i responsabili di pagamenti indebitamente eseguiti risarciscono il danno.
 
 ## Art. 62. — Quantificazione dell'addebito
+
+1.
+                        
+                            
+                                L'addebito per perdita di materiali e' commisurato:
+ 
+                            
+                            
+                                a)
+                                
+                                    per i materiali assunti in carico, al prezzo risultante dalle scritture contabili o nomenclatorie;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    per i materiali non assunti in carico, al prezzo di acquisto.
 
 L'addebito puo' essere ridotto o aumentato, quando risulti che il materiale aveva un valore effettivo inferiore o superiore a quello in carico.
 

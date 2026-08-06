@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
 vigenza_date: 2020-12-04
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:30Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -35,6 +35,66 @@ Il presente decreto disciplina, in base ai principi ed ai criteri direttivi di c
 L'informazione statistica ufficiale e' fornita al Paese e agli organismi internazionali attraverso il Sistema statistico nazionale.
 
 ## Art. 2. — Ordinamento del Sistema statistico nazionale
+
+1.
+                        
+                            
+                                Fanno parte del Sistema statistico nazionale: 
+ 
+                            
+                            
+                                a)
+                                
+                                    l'Istituto nazionale di statistica (ISTAT); 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    gli uffici di statistica centrali e periferici delle amministrazioni dello Stato e delle amministrazioni ed aziende autonome, istituiti ai sensi dell'art. 3; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    gli uffici di statistica delle regioni e delle province autonome; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    gli uffici di statistica delle province; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    gli uffici di statistica dei comuni singoli o associati e delle unita' sanitarie locali; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    gli uffici di statistica delle camere di commercio, industria, artigianato e agricoltura; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    gli uffici di statistica, comunque denominati, di amministrazioni e enti pubblici individuati ai sensi dell'art. 4; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    gli altri enti ed organismi pubblici di informazione statistica individuati con decreto del Presidente del Consiglio dei Ministri.
 
 ## Art. 3. — Uffici di statistica
 
@@ -72,6 +132,31 @@ Il Consiglio dei Ministri adotta atti di indirizzo e di coordinamento ai sensi d
 L'ISTAT esercita nei confronti degli uffici di cui al comma 1 poteri di indirizzo e coordinamento tecnici, allo scopo di renderne omogenee le metodologie.
 
 ## Art. 6. — Compiti degli uffici di statistica
+
+1.
+                        
+                            
+                                Gli uffici di statistica del Sistema statistico nazionale, oltre agli altri compiti attribuiti dalla normativa che li riguarda: 
+ 
+                            
+                            
+                                a)
+                                
+                                    promuovono e realizzano la rilevazione, l'elaborazione, la diffusione e l'archiviazione dei dati statistici che interessano l'amministrazione di appartenenza, nell'ambito del programma statistico nazionale; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    collaborano con le altre amministrazioni per l'esecuzione delle rilevazioni previste dal programma statistico nazionale; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    contribuiscono alla promozione e allo sviluppo informatico a fini statistici degli archivi gestionali e delle raccolte di dati amministrativi.
 
 Gli uffici attuano l'interconnessione ed il collegamento dei sistemi informativi dell'amministrazione di appartenenza con il Sistema statistico nazionale. Per attuare il collegamento tra il sistema informativo dell'anagrafe tributaria ed il Sistema statistico nazionale, la presidenza del Consiglio dei Ministri promuove, entro sei mesi dalla data di entrata in vigore del presente decreto, specifiche intese tra il Ministero delle finanze e l'Istituto nazionale di statistica anche al fine di assicurare il pieno rispetto dell'anonimato dei singoli contribuenti e del segreto fiscale.
 
@@ -156,6 +241,24 @@ Le procedure per l'accesso, da parte della Camera dei deputati e del Senato dell
 
 ## Art. 11. — Sanzioni amministrative
 
+1.
+                        
+                            
+                                Le sanzioni amministrative pecuniarie, di cui all'art. 7, sono stabilite: 
+ 
+                            
+                            
+                                a)
+                                
+                                    nella misura minima di lire quattrocentomila e massima di lire quattromilioni per le violazioni da parte di persone fisiche; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    nella misura minima di lire un milione e massima di lire diecimilioni per le violazioni da parte di enti e societa'.
+
 L'accertamento delle violazioni, ai fini dell'applicazione delle sanzioni amministrative pecuniarie, e' effettuato dagli uffici di statistica, facenti parte del Sistema statistico nazionale di cui all'art. 2, che siano venuti a conoscenza della violazione.
 
 Il competente ufficio di statistica redige motivato rapporto in ordine alla violazione e, previa contestazione degli addebiti agli interessati secondo il procedimento di cui agli articoli 13 e seguenti della legge 24 novembre 1981, n. 689, lo trasmette al prefetto della provincia, il quale procede ai sensi dell'art. 18 e seguenti della medesima legge. Dell'apertura del procedimento e' data comunicazione all'ISTAT. 
@@ -173,6 +276,32 @@ Il competente ufficio di statistica redige motivato rapporto in ordine alla viol
 ## Art. 12. — (( (Commissione per la garanzia della qualita' dell'informazione statistica) ))
 
 ((
+
+1.
+                        
+                            
+                                E' istituita la Commissione per la garanzia della qualita' dell'informazione statistica avente il compito di: 
+ 
+                            
+                            
+                                a)
+                                
+                                    vigilare sull'imparzialita', sulla completezza e sulla qualita' dell'informazione statistica, nonche' sulla sua conformita' con i regolamenti, le direttive e le raccomandazioni degli organismi internazionali e comunitari, prodotta dal Sistema statistico nazionale; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    contribuire ad assicurare il rispetto della normativa in materia di segreto statistico e di protezione dei dati personali, garantendo al Presidente dell'Istat e al Garante per la protezione dei dati personali la piu' ampia collaborazione, ove richiesta; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    esprimere un parere sul Programma statistico nazionale predisposto ai sensi dell'articolo 13; 
+ d)redigere un rapporto annuale, che si allega alla relazione di cui all'articolo 24.
 
 La Commissione, nell'esercizio dei compiti di cui al comma 1, puo' formulare osservazioni e rilievi al Presidente dell'ISTAT, il quale provvede a fornire i necessari chiarimenti entro trenta giorni dalla comunicazione, sentito il Comitato di cui all'articolo 3 del regolamento di cui al decreto del Presidente della Repubblica 7 settembre 2010, n. 166; qualora i chiarimenti non siano ritenuti esaustivi, la Commissione ne riferisce al Presidente del Consiglio dei Ministri.
 
@@ -217,9 +346,129 @@ L'Istituto centrale di statistica, istituito con legge 9 luglio 1926, n. 1162, a
 
 L'Istituto nazionale di statistica e' persona giuridica di diritto pubblico ed ha ordinamento autonomo secondo le disposizioni del presente decreto.
 
+3.
+                        
+                            
+                                Sono organi dell'Istituto: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il presidente; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il comitato per l'indirizzo e il coordinamento dell'informazione statistica; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il consiglio; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    il collegio dei revisori dei conti.
+
 L'ISTAT e' sottoposto alla vigilanza del Presidente del Consiglio dei Ministri.
 
 ## Art. 15. — Compiti dell'ISTAT
+
+1.
+                        
+                            
+                                L'ISTAT provvede: 
+ 
+                            
+                            
+                                a)
+                                
+                                    alla predisposizione del programma statistico nazionale; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    alla esecuzione dei censimenti e delle altre rilevazioni statistiche previste dal programma statistico nazionale ed affidate alla esecuzione dell'Istituto; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    all'indirizzo e al coordinamento delle attivita' statistiche degli enti ed uffici facenti parte del Sistema statistico nazionale di cui all'art. 2; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    all'assistenza tecnica agli enti ed uffici facenti parte del Sistema statistico nazionale di cui all'art. 2, nonche' alla valutazione, sulla base dei criteri stabiliti dal comitato di cui all'art. 17, dell'adeguatezza dell'attivita' di detti enti agli obiettivi del programma statistico nazionale; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    alla predisposizione delle nomenclature e metodologie di base per la classificazione e la rilevazione dei fenomeni di carattere demografico, economico e sociale. Le nomenclature e le metodologie sono vincolanti per gli enti ed organismi facenti parte del Sistema statistico nazionale; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    alla ricerca e allo studio sui risultati dei censimenti e delle rilevazioni effettuate, nonche' sulle statistiche riguardanti fenomeni d'interesse nazionale e inserite nel programma triennale; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    alla pubblicazione e diffusione dei dati, delle analisi e degli studi effettuati dall'Istituto ovvero da altri uffici del Sistema statistico nazionale che non possano provvedervi direttamente; in particolare alla pubblicazione dell'Annuario statistico italiano e del Bollettino mensile di statistica; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    alla promozione e allo sviluppo informatico a fini statistici degli archivi gestionali e delle raccolte di dati amministrativi; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    allo svolgimento di attivita' di formazione e di qualificazione professionale per gli addetti al Sistema statistico nazionale; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    ai rapporti con enti ed uffici internazionali operanti nel settore dell'informazione statistica; 
+
+                                
+                            
+                            
+                                m)
+                                
+                                    alla promozione di studi e ricerche in materia statistica; 
+
+                                
+                            
+                            
+                                n)
+                                
+                                    alla esecuzione di particolari elaborazioni statistiche per conto di enti e privati, remunerate a condizioni di mercato.
 
 Per lo svolgimento dei propri compiti l'ISTAT si puo' avvalere di enti pubblici e privati e di societa' mediante rapporti contrattuali e convenzionali, nonche' mediante partecipazione al capitale degli enti e societa' stessi.
 
@@ -253,6 +502,31 @@ Il presidente dura in carica quattro anni e puo' essere confermato una sola volt
 
 ## Art. 19. — Collegio dei revisori dei conti
 
+1.
+                        
+                            
+                                Il collegio dei revisori dei conti e' nominato, per la durata di tre anni, con decreto del Presidente del Consiglio dei Ministri ed e' composto da: 
+ 
+                            
+                            
+                                a)
+                                
+                                    un magistrato del Consiglio di Stato, con funzioni di presidente; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    un dirigente della Presidenza del Consiglio dei Ministri; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    un dirigente del Ministero del tesoro.
+
 Con il medesimo decreto sono nominati due membri supplenti.
 
 Il collegio dei revisori dei conti accerta la regolare tenuta della contabilita' e la corrispondenza del bilancio consuntivo alle risultanze dei libri e delle scritture contabili; verifica i risultati conseguiti rispetto agli obiettivi; esamina le giustificazioni fornite dall'Istituto in merito ad eventuali scostamenti. I componenti del collegio sono invitati alle sedute del consiglio.
@@ -265,9 +539,89 @@ I compensi per i componenti degli organi collegiali di cui agli articoli 12, 17,
 
 ## Art. 21. — Direttive e atti di indirizzo
 
+1.
+                        
+                            
+                                Le direttive e gli atti di indirizzo del comitato previsti dal comma 6 dell'art. 17 hanno ad oggetto: 
+ 
+                            
+                            
+                                a)
+                                
+                                    gli atti di esecuzione del programma statistico nazionale; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le iniziative per l'attuazione del predetto programma; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    i criteri organizzativi e la funzionalita' degli uffici di statistica delle amministrazioni dello Stato, anche ad ordinamento autonomo, nonche' degli enti e degli uffici facenti parte del Sistema statistico nazionale; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    i criteri e le modalita' per l'interscambio dei dati indicati dall'art. 6 fra gli uffici di statistica delle amministrazioni e degli enti facenti parte del Sistema statistico nazionale, assicurando, in ogni caso, il rispetto delle disposizioni di cui all'art. 8.
+
 ## Art. 22. — Compiti del consiglio
 
 Il presidente convoca il consiglio e fissa le materie da portare alla sua discussione.
+
+2.
+                        
+                            
+                                Spetta al consiglio: 
+ 
+                            
+                            
+                                a)
+                                
+                                    di deliberare, entro il 30 aprile di ciascun anno, un piano annuale che evidenzi gli obiettivi, le spese previste per il successivo triennio e le previsioni annuali di entrata, con indicazioni separate di quelle proprie e di quelle a carico del bilancio statale, seguendone periodicamente lo stato di attuazione.
+In tale documento e' altresi' inserito, con atto separato, il piano annuale di attuazione del programma statistico nazionale di cui all'art. 13; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    di deliberare il bilancio preventivo, le relative variazioni e il conto consuntivo; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    di deliberare il disegno organizzativo dell'Istituto, determinando gli uffici centrali e periferici e la loro organizzazione, fissandone i compiti e la dotazione di personale e di mezzi, nonche' il regolamento organico e la pianta organica del personale; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    di deliberare i regolamenti sulla gestione finanziaria, economica e patrimoniale, tenendo conto della natura specifica e dell'autonomia dell'ISTAT; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    di deliberare la partecipazione dell'ISTAT al capitale di enti e societa', ai sensi dell'art. 15, comma 2; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    
+                                        ((LETTERA ABROGATA DAL D.P.R. 7 SETTEMBRE 2010, N. 166)).
 
 ((COMMA ABROGATO DAL D.P.R. 7 SETTEMBRE 2010, N. 166)).
 

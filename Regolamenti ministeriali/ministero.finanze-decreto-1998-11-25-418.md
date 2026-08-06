@@ -8,8 +8,8 @@ codice_redazionale: 098G0474
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:42Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -29,9 +29,66 @@ Udito il parere del Consiglio di Stato espresso dalla sezione consultiva per gli
 
 ## Art. 1. — Tasse oggetto del trasferimento di funzioni
 
+1.
+                    
+                        
+                            Il trasferimento di funzioni previsto dal comma 10 dell'articolo 17, della legge 27 dicembre 1997, n. 449, ha per oggetto le seguenti tasse automobilistiche attribuite per intero alle regioni a statuto ordinario con l'articolo 23 del decreto legislativo 30 dicembre 1992, n. 504:
+ 
+                        
+                        
+                            a)
+                            
+                                la tassa automobilistica, disciplinata dal testo unico delle leggi sulle tasse automobilistiche approvato con decreto del Presidente della Repubblica 5 febbraio 1953, n. 39;
+
+                            
+                        
+                        
+                            b)
+                            
+                                la soprattassa diesel, istituita con decreto-legge 8 ottobre 1976, n. 691, convertito, con modificazioni, dalla legge 30 novembre 1976, n. 786, relativa alle autovetture e gli autoveicoli per il trasporto promiscuo di persone e cose non aventi le caratteristiche tecniche indicate nell'articolo 65, comma 5, del decreto-legge 30 agosto 1993, n. 331, convertito, con modificazioni, dalla legge 29 ottobre 1993, n. 427.
+
 ## Art. 2. — Controllo, riscossione e versamenti
 
 Il controllo e la riscossione delle tasse automobilistiche sono effettuati direttamente dalle regioni, anche ricorrendo all'istituto dell'avvalimento, o tramite concessionari individuati dalle stesse secondo le modalita' e le procedure di evidenza pubblica previste dalla normativa comunitaria e nazionale in tema di appalti e di servizi.
+
+2.
+                    
+                        
+                            Ai fini dell'affidamento delle attivita' di controllo e riscossione delle tasse automobilistiche ai concessionari, in possesso del requisito di onorabilita' di cui all'articolo 25 del decreto legislativo 1 settembre 1993, n. 385, si tiene conto dei seguenti elementi:
+ 
+                        
+                        
+                            a)
+                            
+                                capacita' finanziaria, da valutare anche ai fini della garanzia patrimoniale generale;
+
+                            
+                        
+                        
+                            b)
+                            
+                                organizzazione tecnica, in relazione alle esigenze di economicita' ed efficienza dell'attivita' di controllo e riscossione;
+
+                            
+                        
+                        
+                            c)
+                            
+                                disponibilita' di adeguato sistema informatico idoneo anche al collegamento con l'archivio delle tasse automobilistiche di cui all'articolo 5;
+
+                            
+                        
+                        
+                            d)
+                            
+                                ubicazione, stato e consistenza dei locali da destinarsi alle attivita';
+
+                            
+                        
+                        
+                            e)
+                            
+                                idoneita' tecnica e professionale del personale addetto al controllo ed alla riscossione.
 
 Per assicurare il corretto adempimento dell'obbligo di pagamento delle tasse automobilistiche i concessionari sono collegati in via telematica con gli archivi delle tasse automobilistiche di cui all'articolo 5.
 

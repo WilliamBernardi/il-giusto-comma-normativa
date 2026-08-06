@@ -7,8 +7,8 @@ urn: urn:nir:cultura.ministero:decreto:2021-10-01;241
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:39Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -50,6 +50,24 @@ Le Scuole organizzano, altresi', corsi di formazione e aggiornamento per la gest
 
 Le Scuole possono organizzare i corsi di cui al comma 2 anche su richiesta delle amministrazioni e degli enti interessati o su iniziativa delle Soprintendenze archivistiche e bibliografiche ed, eventualmente, in collaborazione con le Regioni, le Province autonome di Trento e Bolzano o altri enti pubblici e privati, senza oneri finanziari aggiuntivi a carico degli Archivi di Stato. Tali corsi sono organizzati in ragione delle esigenze formative individuate nell'ambito di specifici accordi con le pubbliche amministrazioni e gli enti privati interessati.
 
+4.
+                        
+                            
+                                Le Scuole rilasciano rispettivamente: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il diploma di specializzazione per gli archivisti di cui al comma 1; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'attestato di superamento della prova finale dei corsi di formazione e aggiornamento per la gestione documentale di cui al comma 2.
+
 L'accesso ai corsi di cui al comma 2 e' riservato prioritariamente al personale delle pubbliche amministrazioni.
 
 ## - Capo II Organizzazione delle Scuole
@@ -59,6 +77,24 @@ L'accesso ai corsi di cui al comma 2 e' riservato prioritariamente al personale 
 Le Scuole hanno sede presso gli Archivi di Stato indicati nella Tabella B annessa al decreto del Presidente della Repubblica n. 1409 del 1963.
 
 ## Art. 4. — Organi delle Scuole e loro compiti
+
+1.
+                        
+                            
+                                Sono organi delle Scuole: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il Direttore; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il Consiglio didattico.
 
 Le funzioni di Direttore sono svolte dal Direttore dell'Archivio di Stato presso cui e' istituita la Scuola. Il Direttore si avvale, per le attivita' di segreteria della Scuola, di una unita' interna all'istituto. Sia le funzioni di direzione sia le attivita' di segreteria non determinano alcun onere per la finanza pubblica, in quanto svolte da personale di ruolo dell'amministrazione.
 
@@ -83,6 +119,31 @@ Il diploma di specializzazione per archivisti e' valido ai fini e per gli effett
 ## Art. 6. — Titoli per l'accesso
 
 Sono ammessi ai corsi di specializzazione per archivisti di durata biennale di cui all'articolo 2, comma 1, coloro che sono in possesso di laurea specialistica o magistrale o di diploma di laurea di cui all'ordinamento anteriore al decreto del Ministro per l'universita' e la ricerca scientifica e tecnologica del 3 novembre 1999, n. 509, previo superamento della prova di ammissione di cui all'articolo 7.
+
+2.
+                        
+                            
+                                L'ammissione ai corsi di formazione e aggiornamento per la gestione documentale di durata annuale di cui all'articolo 2, comma 2, avviene sulla base della valutazione comparativa dei curricula, inviati dagli interessati, da parte del Consiglio didattico di cui all'articolo 4. Sono presi in considerazione, in ordine di priorita', i richiedenti l'ammissione ai corsi che siano in possesso di: 
+ 
+                            
+                            
+                                a)
+                                
+                                    laurea specialistica o magistrale o diploma di laurea di cui all'ordinamento anteriore al decreto del Ministro per l'universita' e la ricerca scientifica e tecnologica 3 novembre 1999, n. 509; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    laurea triennale; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    diploma di scuola secondaria di secondo grado.
 
 ## Art. 7.
 
@@ -164,6 +225,31 @@ Gli Archivi di Stato presso i quali hanno sede le Scuole assicurano, senza nuovi
 ## Art. 13. — Conferimento degli incarichi di docenza
 
 I Direttori delle Scuole pubblicano sul rispettivo sito istituzionale, entro il 30 aprile di ogni anno, il bando per il conferimento degli incarichi di docenza e trasmettono alla Direzione generale Archivi, entro il 31 maggio successivo, le domande pervenute.
+
+2.
+                        
+                            
+                                Il Direttore generale Archivi trasmette al Comitato tecnico-scientifico per gli Archivi le domande pervenute, ai fini di una valutazione dei titoli presentati. Il Comitato formula un parere, valutando le domande, a parita' di titoli, secondo il seguente ordine di priorita': 
+ 
+                            
+                            
+                                a)
+                                
+                                    personale del Ministero della cultura, con priorita' per quello con residenza nella citta' sede della Scuola; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    personale di altre pubbliche amministrazioni, nel rispetto delle disposizioni in tema di incompatibilita', cumulo di impieghi e incarichi, di cui all'articolo 53 del decreto legislativo 30 marzo 2001, n. 165; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    personale esterno alle pubbliche amministrazioni, per incarichi di insegnamento, nel rispetto della disciplina per il conferimento di incarichi esterni di cui all'articolo 7, comma 6, del decreto legislativo 30 marzo 2001, n. 165.
 
 Il Direttore generale Archivi, entro il 15 luglio di ogni anno, approva il piano dei conferimenti degli incarichi di docenza e nomina i docenti.
 

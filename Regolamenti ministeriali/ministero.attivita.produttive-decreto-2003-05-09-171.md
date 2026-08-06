@@ -8,8 +8,8 @@ codice_redazionale: 003G0195
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:39Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -28,6 +28,38 @@ Le domande di brevetto nazionale per invenzioni industriali, modelli di utilita'
 Le domande sono depositate sugli appositi moduli cartacei, compilati a macchina, leggibili anche da apparecchiature di scansione.
 
 ## Art. 2.
+
+1.
+                    
+                        
+                            Gli uffici competenti a ricevere le domande completano i moduli redigendo il processo verbale che attesta la data di deposito ed assegnano, secondo l'ordine cronologico di presentazione, una sigla di protocollazione costituita:
+ 
+                        
+                        
+                            a)
+                            
+                                dalla sigla della provincia;
+
+                            
+                        
+                        
+                            b)
+                            
+                                dall'anno corrente composto di quattro cifre;
+
+                            
+                        
+                        
+                            c)
+                            
+                                dalla sigla della tipologia del titolo richiesto;
+
+                            
+                        
+                        
+                            d)
+                            
+                                da un numero progressivo.
 
 I moduli di domanda sono sottoscritti da chi richiede il titolo di protezione o dal suo mandatario.
 

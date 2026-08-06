@@ -8,8 +8,8 @@ vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
 vigenza_date: 2024-12-28
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:21Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -37,13 +37,82 @@ Nell'elenco nazionale di cui al comma 2 e' istituita un'apposita sezione dedicat
 
 Ai fini della formazione dell'elenco di cui al comma 2, con decreto del Ministro della salute e' nominata ogni due anni, senza nuovi o maggiori oneri per la finanza pubblica, una commissione composta da cinque membri, di cui uno designato dal Ministro della salute con funzioni di presidente scelto tra magistrati ordinari, amministrativi, contabili e avvocati dello Stato, e quattro esperti di comprovata competenza ed esperienza, in particolare in materia di organizzazione sanitaria o di gestione aziendale, di cui uno designato dal Ministro della salute, uno designato dall'Agenzia nazionale per i servizi sanitari regionali, e due designati dalla Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome di Trento e di Bolzano. I componenti della commissione possono essere nominati una sola volta e restano in carica per il tempo necessario alla formazione dell'elenco e all'espletamento delle attivita' connesse e conseguenziali. In fase di prima applicazione, la commissione e' nominata entro trenta giorni dalla data di entrata in vigore del presente decreto.
 
+4.
+                    
+                        
+                            La commissione di cui al comma 3 procede alla formazione dell'elenco nazionale di cui al comma 2, entro centoventi giorni dalla data di insediamento, previa pubblicazione nella Gazzetta Ufficiale della Repubblica italiana e sul sito internet del Ministero della salute di un avviso pubblico di selezione per titoli. Alla selezione sono ammessi i candidati che non abbiano compiuto sessantacinque anni di eta' in possesso di: 
+ 
+                        
+                        
+                            a)
+                            
+                                diploma di laurea di cui all'ordinamento previgente al decreto ministeriale 3 novembre 1999, n. 509, pubblicato nella Gazzetta Ufficiale 4 gennaio 2000, n. 2, ovvero laurea specialistica o magistrale; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                comprovata esperienza dirigenziale, almeno quinquennale, nel settore sanitario o settennale in altri settori, con autonomia gestionale e diretta responsabilita' delle risorse umane, tecniche e o finanziarie, maturata nel settore pubblico o nel settore privato; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                attestato rilasciato all'esito del corso di formazione in materia di sanita' pubblica e di organizzazione e gestione sanitaria.
+I predetti corsi sono organizzati e attivati dalle regioni, anche in ambito interregionale, avvalendosi anche dell'Agenzia nazionale per i servizi sanitari regionali, e in collaborazione con le universita' o altri soggetti pubblici o privati accreditati ai sensi dell'articolo 16-ter, del decreto legislativo 30 dicembre 1992, n. 502, e successive modificazioni, operanti nel campo della formazione manageriale, con periodicita' almeno biennale. Entro centoventi giorni dalla data di entrata in vigore del presente decreto, con Accordo in sede di Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome di Trento e di Bolzano, sono definiti i contenuti, la metodologia delle attivita' didattiche tali da assicurare un piu' elevato livello della formazione, la durata dei corsi e il termine per l'attivazione degli stessi, nonche' le modalita' di conseguimento della certificazione. Sono fatti salvi gli attestati di formazione conseguiti alla data di entrata in vigore del presente decreto, ai sensi delle disposizioni previgenti e, in particolare dell'articolo 3-bis, comma 4, del decreto legislativo 30 dicembre 1992, n. 502, e successive modificazioni, nonche' gli attestati in corso di conseguimento ai sensi di quanto previsto dal medesimo articolo 3-bis, comma 4, anche se conseguiti in data posteriore all'entrata in vigore del presente decreto, purche' i corsi siano iniziati in data antecedente alla data di stipula dell'Accordo di cui al presente comma.
+
 I requisiti indicati nel comma 4 devono essere posseduti alla data di scadenza del termine stabilito per la presentazione della domanda di ammissione. Alle domande dovranno essere allegati il curriculum formativo e professionale e l'elenco dei titoli valutabili ai sensi del comma 6. La partecipazione alla procedura di selezione e' subordinata al versamento ad apposito capitolo di entrata del bilancio dello Stato di un contributo pari ad euro 30, non rimborsabile. I relativi introiti sono riassegnati ad apposito capitolo di spesa dello stato di previsione del Ministero della salute per essere destinati alle spese necessarie per assicurare il supporto allo svolgimento delle procedure selettive e per la gestione dell'elenco di idonei cui al presente articolo.
+
+6.
+                    
+                        
+                            La commissione procede alla valutazione dei titoli formativi e professionali e della comprovata esperienza dirigenziale assegnando un punteggio secondo i parametri di cui ai commi da 7-bis a 7-sexies, e criteri specifici predefiniti nell'avviso pubblico di cui al comma 4, considerando: 
+ 
+                        
+                        
+                            a)
+                            
+                                relativamente alla comprovata esperienza dirigenziale, la tipologia e dimensione delle strutture nelle quali e' stata maturata, anche in termini di risorse umane e finanziarie gestite, la posizione di coordinamento e responsabilita' di strutture con incarichi di durata non inferiore a un anno, nonche' eventuali provvedimenti di decadenza, o provvedimenti assimilabili; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                relativamente ai titoli formativi e professionali che devono comunque avere attinenza con le materie del management e della direzione aziendale, l'attivita' di docenza svolta in corsi universitari e post universitari presso istituzioni pubbliche e private di riconosciuta rilevanza, delle pubblicazioni e delle produzioni scientifiche degli ultimi cinque anni, il possesso di diplomi di specializzazione, dottorati di ricerca, master, corsi di perfezionamento universitari di durata almeno annuale, abilitazioni professionali, ulteriori corsi di formazione di ambito manageriale e organizzativo svolti presso istituzioni pubbliche e private di riconosciuta rilevanza della durata di almeno 50 ore, con esclusione dei corsi gia' valutati quali requisito d'accesso.
 
 Il punteggio massimo complessivamente attribuibile dalla commissione a ciascun candidato e' di 100 punti e possono essere inseriti nell'elenco nazionale i candidati che abbiano conseguito un punteggio minimo non inferiore a 70 punti. Il punteggio e' assegnato ai fini dell'inserimento del candidato nell'elenco nazionale che e' pubblicato secondo l'ordine alfabetico dei candidati senza l'indicazione del punteggio conseguito nella selezione.
 
 Ai fini della valutazione dell'esperienza dirigenziale maturata nel settore sanitario, pubblico o privato, di cui all'articolo 1, comma 4, lettera b), la Commissione fa riferimento all'esperienza acquisita nelle strutture autorizzate all'esercizio di attivita' sanitaria, del settore farmaceutico e dei dispositivi medici, nonche' negli enti a carattere regolatorio e di ricerca in ambito sanitario.
 
 L'esperienza dirigenziale valutabile dalla Commissione, di cui al comma 6, lettera a), e' esclusivamente l'attivita' di direzione dell'ente, dell'azienda, della struttura o dell'organismo ovvero di una delle sue articolazioni comunque contraddistinte, svolta, a seguito di formale conferimento di incarico, con autonomia organizzativa e gestionale, nonche' diretta responsabilita' di risorse umane, tecniche o finanziarie, maturata nel settore pubblico e privato. Non si considera esperienza dirigenziale valutabile ai sensi del presente comma l'attivita' svolta a seguito di incarico comportante funzioni di mero studio, consulenza e ricerca.
+
+7-quater.
+                    
+                        
+                            La Commissione valuta esclusivamente le esperienze dirigenziali maturate dal candidato negli ultimi sette anni e, nelle regioni con popolazione inferiore a 500.000 abitanti, negli ultimi dieci anni, attribuendo un punteggio complessivo massimo non superiore a 60 punti, tenendo conto per ciascun incarico di quanto previsto dal comma 6, lettera a). In particolare: 
+ 
+                        
+                        
+                            a)
+                            
+                                individua range predefiniti relativi rispettivamente al numero di risorse umane e al valore economico delle risorse finanziarie gestite e per ciascun range attribuisce il relativo punteggio; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                definisce il coefficiente da applicare al punteggio base ottenuto dal candidato in relazione alle diverse tipologie di strutture presso le quali l'esperienza dirigenziale e' stata svolta; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                definisce il coefficiente da applicare al punteggio base ottenuto dal candidato per l'esperienza dirigenziale che ha comportato il coordinamento e la responsabilita' di piu' strutture dirigenziali.
 
 Eventuali provvedimenti di decadenza del candidato, o provvedimenti assimilabili, riportati negli ultimi sette anni e, nelle regioni con popolazione inferiore a 500.000 abitanti, negli ultimi dieci anni, sono valutati con una decurtazione del punteggio pari ad un massimo di 8 punti. Il punteggio per ciascuna esperienza dirigenziale valutata, per la frazione superiore all'anno, e' attribuito assegnando per ciascun giorno di durata un trecentosessantacinquesimo del punteggio annuale previsto per quella specifica esperienza dirigenziale. Nel caso di sovrapposizioni temporali degli incarichi ricoperti, e' valutata ai fini dell'idoneita' esclusivamente una singola esperienza dirigenziale, scegliendo quella a cui puo' essere attribuito il maggior punteggio.
 
@@ -71,6 +140,38 @@ Non possono essere reinseriti nell'elenco nazionale coloro che siano stati dichi
 Le regioni nominano direttori generali esclusivamente gli iscritti all'elenco nazionale dei direttori generali di cui all'articolo 1. A tale fine, la regione rende noto, con apposito avviso pubblico, pubblicato sul sito internet istituzionale della regione l'incarico che intende attribuire, ai fini della manifestazione di interesse da parte dei soggetti iscritti nell'elenco nazionale. La valutazione dei candidati per titoli e colloquio e' effettuata da una commissione regionale, ((nominata dal Presidente della Regione, secondo modalita' e criteri definiti dalle Regioni,)) anche tenendo conto di eventuali provvedimenti di accertamento della violazione degli obblighi in materia di trasparenza. La commissione, composta da esperti, indicati da qualificate istituzioni scientifiche indipendenti che non si trovino in situazioni di conflitto d'interessi, di cui uno designato dall'Agenzia nazionale per i servizi sanitari regionali, e uno dalla regione, senza nuovi o maggiori oneri a carico della finanza pubblica, propone al presidente della regione una rosa di candidati, ((...)) nell'ambito dei quali viene scelto quello che presenta requisiti maggiormente coerenti con le caratteristiche dell'incarico da attribuire. Nella rosa proposta non possono essere inseriti coloro che abbiano ricoperto l'incarico di direttore generale, per due volte consecutive, presso la medesima azienda sanitaria locale, la medesima azienda ospedaliera o il medesimo ente del Servizio sanitario nazionale.
 
 Il provvedimento di nomina, di conferma o di revoca del direttore generale e' motivato e pubblicato sul sito internet istituzionale della regione e delle aziende o degli enti interessati, unitamente al curriculum del nominato, nonche' ai curricula degli altri candidati inclusi nella rosa. All'atto della nomina di ciascun direttore generale, le regioni definiscono e assegnano, aggiornandoli periodicamente, gli obiettivi di salute e di funzionamento dei servizi con riferimento alle relative risorse, gli obiettivi di trasparenza, finalizzati a rendere i dati pubblicati di immediata comprensione e consultazione per il cittadino, con particolare riferimento ai dati di bilancio sulle spese e ai costi del personale, da indicare sia in modo aggregato che analitico, tenendo conto dei canoni valutativi di cui al comma 3, e ferma restando la piena autonomia gestionale dei direttori stessi. La durata dell'incarico di direttore generale non puo' essere inferiore a tre anni e superiore a cinque anni. Alla scadenza dell'incarico, ovvero, nelle ipotesi di decadenza e di mancata conferma dell'incarico, le regioni procedono alla nuova nomina, previo espletamento delle procedure di cui presente articolo. ((La nuova nomina, in caso di decadenza e di mancata conferma, puo' essere effettuata anche mediante l'utilizzo degli altri nominativi inseriti nella rosa di candidati di cui al comma 1, relativa ad una selezione svolta in una data non antecedente agli ultimi tre anni e purche' i candidati inclusi nella predetta rosa risultino ancora inseriti nell'elenco nazionale di cui all'articolo 1.)) In caso di commissariamento delle aziende sanitarie locali, delle aziende ospedaliere e degli altri enti del Servizio sanitario nazionale, il commissario e' scelto tra i soggetti inseriti nell'elenco nazionale.
+
+3.
+                    
+                        
+                            Al fine di assicurare omogeneita' nella valutazione dell'attivita' dei direttori generali, entro centoventi giorni dalla data di entrata in vigore del presente decreto, con Accordo sancito in sede di Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome di Trento e di Bolzano, sono definiti i criteri e le procedure per valutare e verificare tale attivita', tenendo conto: 
+ 
+                        
+                        
+                            a)
+                            
+                                del raggiungimento di obiettivi di salute e di funzionamento dei servizi definiti nel quadro della programmazione regionale, con particolare riferimento all'efficienza, all'efficacia, alla sicurezza, all'ottimizzazione dei servizi sanitari e al rispetto degli obiettivi economico-finanziari e di bilancio concordati, avvalendosi anche dei dati e degli elementi forniti dall'Agenzia nazionale per i servizi sanitari regionali; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                della garanzia dei livelli essenziali di assistenza, anche attraverso la riduzione delle liste di attesa e la puntuale e corretta trasmissione dei flussi informativi ricompresi nel Nuovo Sistema Informativo Sanitario, dei risultati del programma nazionale valutazione esiti dell'Agenzia nazionale per i servizi sanitari regionali e dell'appropriatezza prescrittiva; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                degli obblighi in materia di trasparenza, con particolare riferimento ai dati di bilancio sulle spese e ai costi del personale; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                degli ulteriori adempimenti previsti dalla legislazione vigente.
 
 Trascorsi ventiquattro mesi dalla nomina di ciascun direttore generale, la regione, entro ((novanta giorni)), sentito il parere del sindaco o della Conferenza dei sindaci di cui all'articolo 3, comma 14, del decreto legislativo 30 dicembre 1992, n. 502, e successive modificazioni, ovvero, per le aziende ospedaliere, della Conferenza di cui all'articolo 2, comma 2-bis, del medesimo decreto legislativo, verifica i risultati aziendali conseguiti e il raggiungimento degli obiettivi di cui ai commi 2 e 3, e in caso di esito negativo dichiara, previa contestazione e nel rispetto del principio del contraddittorio, la decadenza immediata dall'incarico con risoluzione del relativo contratto, in caso di valutazione positiva la Regione procede alla conferma con provvedimento motivato. La disposizione si applica in ogni altro procedimento di valutazione dell'operato del direttore generale. A fini di monitoraggio, le regioni trasmettono all'Agenzia nazionale per i servizi sanitari regionali una relazione biennale sulle attivita' di valutazione dei direttori generali e sui relativi esiti.
 

@@ -10,7 +10,7 @@ source: normattiva-opendata
 collection: Atti di recepimento direttive UE
 vigenza_date: 2021-03-26
 zip_date: 2026-07-30
-fetched_at: 2026-08-02T09:40:50Z
+fetched_at: 2026-07-30
 ---
 
 DECRETO LEGISLATIVO
@@ -32,6 +32,24 @@ I gelati non sono considerati alimenti surgelati.
 
 ## Art. 2. — Definizione
 
+1.
+                    
+                        
+                            Per alimenti surgelati si intendono i prodotti alimentari:
+ 
+                        
+                        
+                            a)
+                            
+                                sottoposti ad un processo speciale di congelamento, detto "surgelazione", che permette di superare con la rapidita' necessaria, in funzione della natura del prodotto, la zona di cristallizzazione massima e di mantenere la temperatura del prodotto in tutti i suoi punti, dopo la stabilizzazione termica, ininterrottamente a valori pari o inferiori a - 18 C;
+
+                            
+                        
+                        
+                            b)
+                            
+                                commercializzati come tali.
+
 ## Art. 3. — Materie prime
 
 Le materie prime destinate alla produzione di alimenti surgelati devono essere sane, in buone condizioni igieniche, di adeguata qualita' merceologica e devono avere il necessario grado di freschezza.
@@ -46,7 +64,50 @@ Nella produzione degli alimenti surgelati composti e' consentita l'aggiunta di a
 
 La temperatura degli alimenti surgelati deve essere mantenuta in tutti i punti del prodotto ad un valore pari o inferiore a - 18 C.
 
+2.
+                    
+                        
+                            Sono tuttavia tollerate:
+ 
+                        
+                        
+                            a)
+                            
+                                durante il trasporto, brevi fluttuazioni verso l'alto non superiori a 3 C della temperatura del prodotto;
+
+                            
+                        
+                        
+                            b)
+                            
+                                durante la distribuzione locale e negli armadi e nei banchi frigoriferi per la vendita al consumatore, fluttuazioni verso l'alto della temperatura del prodotto non superiori a 3 C.
+
 ## Art. 5. — Mezzi criogeni
+
+1.
+                    
+                        
+                            I mezzi criogeni che possono essere usati per contatto diretto con gli alimenti da surgelare sono:
+ 
+                        
+                        
+                            a)
+                            
+                                aria;
+
+                            
+                        
+                        
+                            b)
+                            
+                                azoto;
+
+                            
+                        
+                        
+                            c)
+                            
+                                anidride carbonica.
 
 I criteri di purezza dei mezzi criogeni sono stabiliti con decreto del Ministro della sanita', sentito il Consiglio superiore di sanita', in attuazione di disposizioni comunitarie.
 
@@ -70,9 +131,80 @@ Le disposizioni del presente articolo si applicano anche agli alimenti surgelati
 
 ## Art. 8. — Etichettatura degli alimenti surgelati destinati al consumatore
 
+1.
+                    
+                        
+                            Fermo restando le disposizioni in materia di etichettatura dei prodotti alimentari, le stesse si applicano agli alimenti surgelati con le seguenti modalita' e integrazioni:
+ 
+                        
+                        
+                            a)
+                            
+                                la denominazione di vendita, completata dal termine "surgelato";
+
+                            
+                        
+                        
+                            b)
+                            
+                                il termine minimo di conservazione completato dalla indicazione del periodo in cui il prodotto puo' essere conservato presso il consumatore;
+
+                            
+                        
+                        
+                            c)
+                            
+                                le istruzioni relative alla conservazione del prodotto dopo l'acquisto completate dalla indicazione della temperatura di conservazione o dell'attrezzatura richiesta per la conservazione;
+
+                            
+                        
+                        
+                            d)
+                            
+                                l'avvertenza che il prodotto, una volta scongelato, non deve essere ricongelato e le eventuali istruzioni per l'uso;
+
+                            
+                        
+                        
+                            e)
+                            
+                                l'indicazione del lotto.
+
 Le disposizioni del presente articolo si applicano anche agli alimenti surgelati destinati ai ristoranti, agli ospedali, alle mense ed altre collettivita' analoghe.
 
 ## Art. 9. — Etichettatura degli alimenti surgelati non destinati al consumatore
+
+1.
+                    
+                        
+                            L'etichettatura degli alimenti surgelati non destinati al consumatore, ne' ai ristoranti, agli ospedali, alle mense e collettivita' analoghe, comporta le seguenti diciture:
+ 
+                        
+                        
+                            a)
+                            
+                                la denominazione di vendita completata dal termine "surgelato";
+
+                            
+                        
+                        
+                            b)
+                            
+                                la qualita' netta espressa in unita' di massa;
+
+                            
+                        
+                        
+                            c)
+                            
+                                l'indicazione del lotto;
+
+                            
+                        
+                        
+                            d)
+                            
+                                il nome o la ragione sociale e la sede del produttore o del confezionatore oppure di un venditore stabilito all'interno della Comunita' europea.
 
 Le indicazioni di cui al comma 1 possono essere riportate sull'imballaggio o sul contenitore o sulla confezione, o su un'etichetta appostavi.
 

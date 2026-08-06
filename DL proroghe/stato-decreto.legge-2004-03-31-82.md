@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: DL proroghe
 vigenza_date: 2004-05-29
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:39:27Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO-LEGGE
@@ -25,6 +25,24 @@ Ritenuta la straordinaria necessita' ed urgenza di prorogare il termine per la p
 Sulla proposta del Presidente del Consiglio dei Ministri e dei Ministri dell'economia e delle finanze e delle infrastrutture e dei trasporti;
 
 ## Art. 1.
+
+1.
+                    
+                        
+                            Al decreto-legge 30 settembre 2003, n. 269, convertito, con modificazioni, dalla legge 24 novembre 2003, n. 326, e successive modificazioni, sono apportate le seguenti modifiche:
+ 
+                        
+                        
+                            a)
+                            
+                                all'articolo 32, commi 15 e 32, le parole: «31 marzo 2004» sono sostituite dalle seguenti: «31 luglio 2004»;
+
+                            
+                        
+                        
+                            b)
+                            
+                                nell'allegato 1, le parole: «30 giugno 2004» e «30 settembre 2004», indicate dopo le parole: «seconda rata» e «terza rata», sono sostituite, rispettivamente, dalle seguenti: «30 settembre 2004» e «30 novembre 2004».
 
 ## Art. 2.
 

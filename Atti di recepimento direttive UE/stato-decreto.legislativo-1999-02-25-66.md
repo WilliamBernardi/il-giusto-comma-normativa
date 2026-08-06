@@ -10,7 +10,7 @@ source: normattiva-opendata
 collection: Atti di recepimento direttive UE
 vigenza_date: 2025-03-15
 zip_date: 2026-07-30
-fetched_at: 2026-08-02T09:40:50Z
+fetched_at: 2026-07-30
 ---
 
 DECRETO LEGISLATIVO
@@ -39,11 +39,167 @@ Il Presidente del Consiglio dei Ministri, entro il 31 marzo di ogni anno, trasme
 
 ## Art. 2. — Definizioni
 
+1.
+                        
+                            
+                                Ai fini del presente decreto legislativo si intende per:
+ 
+                            
+                            
+                                a)
+                                
+                                    "incidente": un evento, associato all'impiego di un aeromobile, che si verifica fra il momento in cui una persona si imbarca con l'intento di compiere un volo e il momento in cui tutte le persone che si sono imbarcate con la stessa intenzione sbarcano e nel quale:
+ 1) una persona riporti lesioni gravi o mortali, per il fatto di essere dentro l'aeromobile, o venire in contatto diretto con una parte qualsiasi dell'aeromobile, comprese parti staccatesi dall'aeromobile stesso, oppure essere direttamente esposta al getto dei reattori, fatta eccezione per i casi in cui le lesioni siano dovute a cause naturali, o siano procurate alla persona da se' medesima o da altre persone, oppure siano riportate da passeggeri clandestini nascosti fuori delle zone normalmente accessibili ai passeggeri e all'equipaggio; oppure
+ 2) l'aeromobile riporti un danno o un'avaria strutturale che comprometta la resistenza strutturale, le prestazioni o le caratteristiche di volo dell'aeromobile, e richieda generalmente una riparazione importante o la sostituzione dell'elemento danneggiato, fatta eccezione per i guasti o avarie al motore, quando il danno sia limitato al motore stesso, alla cappottatura o agli accessori, oppure per i danni limitati alle eliche, alle estremita' alari, alle antenne, ai pneumatici, ai dispositivi di frenatura, alla carenatura, a piccole ammaccature o fori nel rivestimento dell'aeromobile; oppure 3) l'aeromobile sia scomparso o completamente inaccessibile;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    "lesione grave": una lesione riportata da una persona in un incidente, che:
+ 1) richieda una degenza ospedaliera di oltre 48 ore, con inizio entro sette giorni dalla data in cui e' stata riportata; oppure,
+ 2) comporti una frattura ossea (tranne le fratture semplici delle dita delle mani e dei piedi, o del naso); oppure
+ 3) comporti lacerazioni che provochino gravi emorragie o lesioni a nervi, muscoli o tendini; oppure
+ 4) comporti lesioni a qualsiasi organo interno; oppure
+ 5) comporti ustioni di secondo o terzo grado o estese su piu' del 5% della superficie corporea; oppure,
+ 6) comporti un'esposizione accertata a sostanze infettive o a radiazioni nocive;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    "lesione mortale": una lesione riportata da una persona in un incidente che abbia come conseguenza la morte entro trenta giorni dalla data dell'incidente;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    "cause": le azioni, le omissioni, gli eventi, le condizioni, o una combinazione di tali fattori, che possono aver dato luogo all'incidente o all'inconveniente;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    "inchiesta": un insieme di operazioni svolte ai fini della prevenzione degli incidenti ed inconvenienti, che comprende la raccolta e l'analisi di dati, l'elaborazione di conclusioni, la determinazione delle cause e la formulazione di raccomandazioni in materia di sicurezza;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    "investigatore incaricato": una persona preposta, sulla base delle sue qualificazioni, all'organizzazione, allo svolgimento e al controllo di un'inchiesta;
+
+                                
+                            
+                            
+                                g)
+                                
+                                    "registratore di volo": qualsiasi tipo di registratore installato a bordo di un aeromobile per agevolare l'inchiesta sull'incidente o sull'inconveniente;
+
+                                
+                            
+                            
+                                h)
+                                
+                                    "impresa": qualsiasi persona fisica o giuridica, con o senza fini di lucro o qualsiasi organismo ufficiale, dotato di personalita' giuridica o meno;
+
+                                
+                            
+                            
+                                i)
+                                
+                                    "esercente": la persona, l'organismo o l'impresa che gestisce o intende gestire uno o piu' aeromobili;
+
+                                
+                            
+                            
+                                l)
+                                
+                                    "inconveniente": un evento, diverso dall'incidente, associato all'impiego di un aeromobile, che pregiudichi o possa pregiudicare la sicurezza delle operazioni;
+
+                                
+                            
+                            
+                                m)
+                                
+                                    "inconveniente grave": un inconveniente le cui circostanze rivelino che e' stato sfiorato l'incidente. Gli eventi indicati, a puro titolo esemplificativo, nel seguente elenco costituiscono tipici casi di inconveniente grave:
+ 1) mancata collisione che abbia richiesto una manovra di scampo per evitare una collisione o una situazione di pericolo;
+ 2) volo controllato fin quasi all'urto contro il terreno, evitato di misura;
+ 3) decollo interrotto su pista chiusa o occupata, oppure decollo da una tale pista con separazione marginale dagli ostacoli;
+ 4) atterraggio o tentativo di atterraggio su pista chiusa o occupata;
+ 5) grave insufficienza nel raggiungimento delle prestazioni previste durante il decollo o la salita iniziale;
+ 6) tutti i casi di incendio e presenza di fumo nella cabina passeggeri o nel vano bagagli o d'incendio al motore, anche se spenti mediante agenti estinguenti;
+ 7) qualsiasi evento che abbia richiesto l'uso di ossigeno di emergenza da parte dell'equipaggio;
+ 8) avaria strutturale dell'aeromobile o disintegrazione del motore non classificata come incidente;
+ 9) mal funzionamento multiplo di uno o piu' sistemi di bordo che ne comprometta gravemente l'operativita';
+ 10) qualsiasi caso di inabilita' fisica dell'equipaggio in volo;
+ 11) qualsiasi circostanza relativa al carburante che richieda la dichiarazione di emergenza da parte del pilota;
+ 12) inconvenienti in sede di decollo o atterraggio, quali atterraggio prima della soglia di pista o dopo la fine pista o sconfinamento laterale;
+ 13) avaria ai sistemi, fenomeni meteorologici, operazioni oltre i limiti dell'inviluppo di volo approvato o altri eventi che possono aver causato difficolta' nel controllo dell'aeromobile;
+ 14) avaria di piu' di un impianto a ridondanza obbligatorio per la condotta del volo e la navigazione;
+
+                                
+                            
+                            
+                                n)
+                                
+                                    "raccomandazione di sicurezza": una proposta dell'Agenzia formulata sulla base dei dati emersi dall'inchiesta, ai fini della prevenzione di incidenti ed inconvenienti.
+
 ## Art. 3. — Compiti e finalita'
 
 L'Agenzia, fatte salve le competenze del Ministero della difesa in merito agli aeromobili di Stato, conduce le inchieste tecniche di cui all'articolo 826 del codice della navigazione, cosi' come sostituito dall'articolo 17, comma 1, del presente decreto, con il solo obiettivo di prevenire incidenti e inconvenienti, escludendo ogni valutazione di colpa e responsabilita'.
 
 L'Agenzia compie attivita' di studio e di indagine, formulando raccomandazioni e proposte dirette a garantire la sicurezza della navigazione aerea e a prevenire incidenti e inconvenienti aeronautici.
+
+3.
+                        
+                            
+                                L'Agenzia provvede, in particolare, a:
+ 
+                            
+                            
+                                a)
+                                
+                                    proporre alle autorita' aeronautiche competenti l'emanazione di provvedimenti diretti a salvaguardare e migliorare la sicurezza del volo;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    collaborare, ove richiesto, con l'autorita' giudiziaria nello svolgimento di inchieste correlate a fatti aeronautici;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    assicurare i rapporti con enti, istituzioni ed operatori aeronautici nazionali ed esteri;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    consentire, in regime di reciprocita', la partecipazione di rappresentanti dello Stato in cui e' immatricolato un aeromobile interessato da incidente o inconveniente grave alla relativa indagine tecnica;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    monitorare, ai fini della prevenzione, gli indicatori significativi emersi nel corso delle investigazioni;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    monitorare gli incidenti occorsi ad apparecchi per il volo da diporto e sportivo.
 
 ## Art. 4. — ((ARTICOLO ABROGATO DAL D.P.R. 5 OTTOBRE 2010, N. 189 ))
 
@@ -90,9 +246,73 @@ Le pubbliche amministrazioni, gli enti di diritto pubblico e privato e gli altri
 
 L'Agenzia attiva ogni procedura diretta a garantire la collaborazione, nell'ambito delle rispettive competenze, con l'autorita' giudiziaria e con le altre autorita' interessate, al fine di assicurare lo svolgimento dell'inchiesta tecnica secondo le modalita' di cui all'articolo 10.
 
+4.
+                        
+                            
+                                L'Agenzia, anche sulla base di specifiche convenzioni:
+ 
+                            
+                            
+                                a)
+                                
+                                    si avvale delle risorse in dotazione ad altri enti ed istituzioni civili e militari e, in particolare, dei laboratori degli istituti del Consiglio nazionale delle ricerche, delle universita' e di altri enti pubblici di ricerca;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    assicura la mutua assistenza, ove possibile gratuita, con i corrispondenti organismi degli Stati membri dell'Unione europea, ai quali puo' inoltre chiedere o concedere l'utilizzazione di impianti, attrezzature e strumenti per effettuare esami tecnici specialistici, nonche', in caso di inchieste afferenti incidenti di gravi proporzioni, di esperti cui affidare lavori specifici;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    puo' delegare lo svolgimento dell'inchiesta ai corrispondenti organismi degli altri Stati membri dell'Unione europea.
+
 ## Art. 10. — Compiti degli investigatori incaricati
 
 Gli investigatori incaricati dall'Agenzia hanno l'obbligo di segretezza su ogni informazione relativa alle inchieste e svolgono il proprio incarico nei termini e secondo le modalita' stabilite dall'Agenzia.
+
+2.
+                        
+                            
+                                Salvo quanto previsto dall'articolo 348 del codice di procedura penale, gli investigatori incaricati dall'Agenzia, sentito il pubblico ministero, al fine di svolgere l'inchiesta di propria competenza, possono:
+ 
+                            
+                            
+                                a)
+                                
+                                    accedere al luogo dell'incidente o dell'inconveniente, nonche' agli aeromobili civili coinvolti, al loro contenuto e ai loro relitti per il rilevamento degli indizi e per dare disposizioni in ordine alla raccolta, all'esame e alla conservazione dei reperti e di ogni altro elemento necessario all'inchiesta;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    avere accesso immediato ai registratori di volo e a qualsiasi altra registrazione attinente l'aeromobile coinvolto nell'incidente o nell'inconveniente;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    effettuare e richiedere accertamenti e analisi su persone e cose che hanno attinenza diretta o indiretta con gli eventi indagati, ovvero partecipare a quelli richiesti da terzi anche acquisendo la relativa documentazione;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    procedere all'audizione delle persone informate sui fatti;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    accedere a qualsiasi informazione utile in possesso del proprietario, dell'esercente, del costruttore dell'aeromobile, degli enti preposti all'aviazione civile e del gestore dell'aeroporto interessato.
 
 ## Art. 11. — Divieto di divulgazione
 

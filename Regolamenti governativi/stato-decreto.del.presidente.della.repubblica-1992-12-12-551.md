@@ -8,8 +8,8 @@ codice_redazionale: 093G0043
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti governativi
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:09Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -53,9 +53,52 @@ Le armi di reparto sono custodite nelle armerie.
 
 ## Art. 5. — Assegnazione e consegna delle armi
 
+1.
+                        
+                            
+                                Il dipartimento dell'Amministrazione penitenziaria - Ufficio del personale, provvede all'assegnazione agli uffici competenti:
+ 
+                            
+                            
+                                a)
+                                
+                                    dell'armamento individuale per la successiva assegnazione al personale che ne abbia diritto;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    dell'armamento di reparto.
+
 L'autorita' dirigente, tenuto conto delle direttive generali e sentito il comandante del reparto, determina, con ordine di servizio, l'armamento di reparto da consegnarsi al personale in relazione alle esigenze.
 
 ## Art. 6. — Doveri dell'assegnatario
+
+1.
+                        
+                            
+                                L'assegnatario deve:
+ 
+                            
+                            
+                                a)
+                                
+                                    custodire responsabilmente l'arma e curarne costantemente e scrupolosamente la manutenzione;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    applicare sempre e dovunque le norme e le precauzioni di sicurezza previste per il maneggio dell'arma;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    mantenere l'addestramento ricevuto, mediante l'esercizio delle tecniche apprese e partecipando alle esercitazioni di tiro a tal fine organizzate dall'Amministrazione penitenziaria.
 
 L'armamento individuale deve essere immediatamente riconsegnato all'ufficio di appartenenza all'atto della cessazione o della sospensione del rapporto di servizio, nonche' in ogni altro caso in cui l'Amministrazione penitenziaria disponga al riguardo con provvedimento motivato.
 

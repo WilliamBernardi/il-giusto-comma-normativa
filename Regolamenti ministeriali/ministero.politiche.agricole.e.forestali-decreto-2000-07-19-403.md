@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
 vigenza_date: 2004-08-05
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:40Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -34,6 +34,24 @@ Udito il parere del Consiglio di Stato, espresso dalla sezione consultiva per gl
 
 ## Art. 1. — Monta naturale privata: requisiti dei riproduttori maschi
 
+1.
+                        
+                            
+                                Il riproduttore animale maschio, per essere adibito alla monta naturale privata, deve soddisfare le seguenti condizioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    essere iscritto nella sezione "riproduttori maschi" del libro genealogico o del registro anagrafico della razza di appartenenza o in un registro di suini riproduttori ibridi. L'iscrizione e' attestata dal certificato genealogico o anagrafico, rilasciato dall'associazione allevatori o dall'ente che tiene i suddetti libri o registri; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    essere identificato, qualora trattasi di bovini, bufalini, ovini, caprini e suini con le modalita' previste dall'articolo 4 del decreto del Presidente della Repubblica 30 aprile 1996, n. 317, e qualora trattasi di equini, tramite i dati segnaletici e un tatuaggio o altro mezzo idoneo stabilito dalle norme del competente libro genealogico o registro anagrafico.
+
 In applicazione a quanto stabilito all'articolo 5, comma 2, lettere a) e b) della legge 15 gennaio 1991, n. 30, gli stalloni non iscritti a libri genealogici o registri ufficialmente istituiti, devono, prima del loro impiego per la fecondazione in monta naturale, essere individuati secondo le norme stabilite dalle regioni e dalle provincie autonome di Trento e Bolzano, di seguito denominate regioni, che li hanno autorizzati.
 
 Per la specie equina la monta naturale privata e' regolata dalle stesse norme che disciplinano la monta naturale pubblica di cui all'articolo 2. 
@@ -49,6 +67,31 @@ Per la specie equina la monta naturale privata e' regolata dalle stesse norme ch
 ## Art. 2. — Monta naturale pubblica: autorizzazioni
 
 Chiunque intenda gestire una stazione di monta naturale pubblica deve munirsi di apposita autorizzazione rilasciata dalla regione competente per territorio.
+
+2.
+                        
+                            
+                                Le regioni prevedono le modalita' di presentazione delle domande di autorizzazione, che devono comunque contenere: 
+ 
+                            
+                            
+                                a)
+                                
+                                    nome, cognome, dati anagrafici, codice fiscale, partita I.V.A. e residenza del richiedente o denominazione, sede, partita I.V.A. e generalita' complete del legale rappresentante, se trattasi di persona giuridica; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    localita' e ubicazione della stazione; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    l'indicazione dei riproduttori maschi presenti (numero, specie e razza).
 
 Al momento del rilascio dell'autorizzazione le regioni attribuiscono alla stazione di monta un codice univoco a livello nazionale.
 
@@ -66,6 +109,79 @@ Su espressa richiesta, l'autorizzazione a gestire le stazioni di monta pubblica 
 
 ## Art. 3. — Requisiti delle stazioni di monta pubblica
 
+1.
+                        
+                            
+                                Il rilascio dell'autorizzazione e' subordinato alla sussistenza delle seguenti condizioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    che la stazione di monta disponga di strutture e ricoveri adeguati per gli animali e di un conveniente luogo per l'accoppiamento con presenza di idonea attrezzatura per la monta; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    che la stazione di monta sia costruita in modo da garantire le necessarie misure di igiene e sanita' contro la diffusione delle malattie infettive e parassitarie; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    che il gestore della stazione di monta sia in possesso del diploma di istruzione secondaria di primo grado ad esclusione dei gestori delle stazioni di monta gia' autorizzati ai sensi della precedente normativa (legge 3 febbraio 1963, n. 127); 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    che il personale impiegato sia qualificato per le specifiche mansioni cui deve essere adibito.
+
+2.
+                        
+                            
+                                In caso di richiesta di poter praticare l'inseminazione artificiale prevista dall'articolo 2, comma 5, l'autorizzazione e' subordinata alla sussistenza anche dei seguenti requisiti attestati da apposita certificazione rilasciata dalla azienda sanitaria locale di competenza: 
+ 
+                            
+                            
+                                a)
+                                
+                                    che la stazione disponga di locali ed attrezzature adeguati al prelievo e alla preparazione del materiale seminale fresco; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    che siano rispettate le prescrizioni emanate dalle competenti aziende sanitarie locali in materia di profilassi e di polizia sanitaria; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    che la regolarita' del prelievo e dell'utilizzo del seme fresco sia garantita da un veterinario; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    risponda alle vigenti disposizioni sul benessere degli animali; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    che la stazione disponga di personale idoneo a dette mansioni. 
+ 
+ ((1))
+
 --------------
                             AGGIORNAMENTO (1)
                             
@@ -73,6 +189,40 @@ Su espressa richiesta, l'autorizzazione a gestire le stazioni di monta pubblica 
  Annulla, per quanto di ragione, il predetto decreto del Ministro delle politiche agricole e forestali del 19 luglio 2000, n. 403".
 
 ## Art. 4. — Requisiti dei riproduttori maschi
+
+1.
+                        
+                            
+                                Il riproduttore, per essere adibito alla monta naturale pubblica, deve soddisfare le seguenti condizioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    essere iscritto nella sezione "riproduttori maschi" del libro genealogico o del registro anagrafico della razza di appartenenza o in un registro di suini riproduttori ibridi. L'iscrizione e' attestata dal certificato genealogico o anagrafico, rilasciato dall'associazione allevatori o dall'ente che tiene i suddetti libri o registri; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    essere identificato, qualora trattasi di bovini, bufalini, ovini, caprini e suini con le modalita' previste dall'articolo 4 del decreto del Presidente della Repubblica 30 aprile 1996, n. 317, e qualora trattasi di equini, tramite i dati segnaletici e un tatuaggio o altro mezzo idoneo stabilito dalle norme del competente libro genealogico o registro anagrafico. Gli stalloni non iscritti ai libri genealogici o ai registri ufficialmente istituiti, devono, prima del loro impiego per la fecondazione in monta naturale, essere identificati secondo le norme stabilite dalle regioni che li hanno autorizzati; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    disporre, ove previsto nel relativo libro genealogico o registro, di un certificato di accertamento dell'ascendenza, basato sull'analisi del gruppo sanguigno o altro metodo adeguato, rilasciato dall'associazione allevatori o dall'ente che tiene il medesimo libro o registro; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    essere in possesso delle certificazioni sanitarie, rilasciate dalla azienda sanitaria locale, che attestino i requisiti stabiliti dal Ministero della sanita'. 
+ 
+ ((1))
 
 --------------
                             AGGIORNAMENTO (1)
@@ -98,6 +248,96 @@ La regione provvede annualmente, prima dell'inizio di ciascuna campagna di fecon
 
 ## Art. 6. — Obblighi del gestore della stazione di monta pubblica
 
+1.
+                        
+                            
+                                Il gestore della stazione di monta pubblica e' tenuto: 
+ 
+                            
+                            
+                                a)
+                                
+                                    a registrare tutti gli atti fecondativi sugli appositi moduli di avvenuto accoppiamento, forniti dalla regione, nei quali siano comunque indicati: la data di inseminazione, la razza o il tipo genetico e la matricola del riproduttore maschio, l'identificazione, la razza o il tipo genetico della fattrice coperta, nonche' le generalita' del proprietario della fattrice; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    a disporre di un registro riportante specie, razza o tipo genetico e matricola dei riproduttori maschi presenti nella stazione; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    a rilasciare al proprietario della fattrice copia del certificato di intervento fecondativo; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    a conservare i moduli per almeno tre anni 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    ad uniformarsi alle prescrizioni emanate dalle competenti aziende sanitarie locali in materia di profilassi e di polizia sanitaria; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    a denunciare, anche tramite il veterinario, la comparsa nei propri riproduttori di qualsiasi manifestazione sospetta o di qualsiasi malattia infettiva e/o diffusiva; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    a conservare il certificato azienda sanitaria locale rilasciato in base a quanto previsto all'articolo 4, lettera d); 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    a rendere pubbliche le tariffe di monta per ciascun riproduttore impiegato nella stazione ed a comunicarle, nei termini stabiliti, alla regione competente; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    a non mantenere nella stazione maschi interi in eta' da riproduzione non autorizzati o non aventi i requisiti prescritti per essere idonei alla riproduzione, anche se adibiti all'accertamento preliminare del calore nelle fattrici; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    comunicare alla regione competente, nei termini stabiliti dalla stessa, l'elenco dei riproduttori iscritti ai libri genealogici o ai registri ed impiegati; 
+
+                                
+                            
+                            
+                                m)
+                                
+                                    non ricoverare nelle stesse strutture di stabulazione, che devono essere nettamente separate le une dalle altre, animali di specie diverse; tuttavia possono essere ammessi gli altri animali domestici assolutamente necessari al normale funzionamento della stazione, sempreche' essi non presentino alcun rischio di infezione per gli animali destinati alla fecondazione nella stazione. Ove la stazione sia ubicata in un allevamento con altri animali della stessa specie, i riproduttori maschi devono essere tenuti separati dal resto dell'allevamento; 
+
+                                
+                            
+                            
+                                n)
+                                
+                                    non detenere nei locali della stazione, attrezzature atte alla refrigerazione, al congelamento e al trattamento del materiale seminale. 
+ 
+ ((1))
+
 --------------
                             AGGIORNAMENTO (1)
                             
@@ -109,6 +349,31 @@ La regione provvede annualmente, prima dell'inizio di ciascuna campagna di fecon
 ## Art. 7. — Inseminazione artificiale pubblica: autorizzazioni
 
 Chiunque intenda gestire una pubblica stazione di inseminazione artificiale equina con materiale seminale refrigerato o congelato prodotto dai centri autorizzati deve munirsi di apposita autorizzazione rilasciata dalla regione competente per territorio.
+
+2.
+                        
+                            
+                                Le regioni prevedono le modalita' di presentazione delle domande di autorizzazione, che devono comunque contenere: 
+ 
+                            
+                            
+                                a)
+                                
+                                    nome, cognome, dati anagrafici, codice fiscale, partita I.V.A. e residenza del richiedente o denominazione, sede, partita I.V.A. e generalita' complete del legale rappresentante se trattasi di persona giuridica; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    localita' e ubicazione della stazione; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    nome, cognome, dati anagrafici, codice univoco nazionale e indirizzo del veterinario che garantisce la regolare operativita' della stazione di inseminazione artificiale.
 
 Al momento del rilascio dell'autorizzazione le regioni attribuiscono alla stazione di inseminazione artificiale un codice univoco a livello nazionale.
 
@@ -126,6 +391,40 @@ Le regioni possono rilasciare al medesimo richiedente sia l'autorizzazione a ges
 
 ## Art. 8. — Requisiti delle stazioni di inseminazione artificiale
 
+1.
+                        
+                            
+                                Il rilascio dell'autorizzazione e' subordinato oltreche' alla presenza dei requisiti gia' previsti all'articolo 3 per le stazioni di monta naturale, anche alla sussistenza delle seguenti condizioni attestate da apposita certificazione rilasciata dalla azienda sanitaria locale di competenza: 
+ 
+                            
+                            
+                                a)
+                                
+                                    che la stazione disponga di locali e attrezzature adeguate alla conservazione del materiale seminale refrigerato e congelato; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    che la stazione disponga di un locale situato in prossimita' degli altri ambienti, ma non comunicante con essi, destinato agli accertamenti relativi allo stato sanitario dell'apparato genitale delle fattrici ed, eventualmente, alla terapia, nonche' di locali idonei alla inseminazione; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    che la stazione sia in grado di assicurare una assistenza veterinaria continuativa e qualificata; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    che la stazione risponda alle vigenti disposizioni sul benessere degli animali. 
+ 
+ ((1))
+
 --------------
                             AGGIORNAMENTO (1)
                             
@@ -133,6 +432,82 @@ Le regioni possono rilasciare al medesimo richiedente sia l'autorizzazione a ges
  Annulla, per quanto di ragione, il predetto decreto del Ministro delle politiche agricole e forestali del 19 luglio 2000, n. 403".
 
 ## Art. 9. — Obblighi del gestore della stazione di inseminazione artificiale
+
+1.
+                        
+                            
+                                Il gestore della stazione di inseminazione artificiale e' tenuto a: 
+ 
+                            
+                            
+                                a)
+                                
+                                    registrare tutti gli atti fecondativi sugli appositi moduli di avvenuta inseminazione, forniti dalla regione, nei quali siano comunque indicati: la data di inseminazione, la razza o il tipo genetico e la matricola del riproduttore maschio, l'identificazione e la razza o il tipo genetico della fattrice coperta, nonche' le generalita' del proprietario della fattrice; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    rilasciare al proprietario della fattrice copia del certificato di intervento fecondativo; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    conservare i moduli per almeno tre anni; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    uniformarsi alle prescrizioni emanate dalle competenti aziende sanitarie locali in materia di profilassi e di polizia sanitaria; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    comunicare alla regione competente l'eventuale sostituzione del veterinario che garantisce l'operativita' della stazione di inseminazione artificiale; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    denunciare, anche tramite il veterinario, la comparsa sulle fattrici di qualsiasi manifestazione sospetta o di qualsiasi malattia infettiva o diffusiva; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    rendere pubbliche le tariffe di inseminazione artificiale per ciascun riproduttore impiegato nella stazione ed a comunicarle, nei termini stabiliti, alla regione competente; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    non mantenere nella stazione maschi in eta' da riproduzione anche se adibiti all'accertamento preliminare del calore nelle fattrici; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    non ricoverare nelle stesse strutture di stabulazione, che devono essere nettamente separate le une dalle altre, animali di specie diverse; tuttavia possono essere ammessi gli altri animali domestici assolutamente necessari al normale funzionamento della stazione, sempreche' essi non presentino alcun rischio di infezione per le fattrici destinate alla fecondazione nella stazione; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    tenere un registro cronologico di carico e scarico del materiale seminale distinguendo quello refrigerato e da quello congelato. 
+ 
+ ((1))
 
 --------------
                             AGGIORNAMENTO (1)
@@ -144,6 +519,26 @@ Le regioni possono rilasciare al medesimo richiedente sia l'autorizzazione a ges
 
 ## Art. 10. — Impianti per l'inseminazione artificiale
 
+1.
+                        
+                            
+                                Gli impianti adibiti alla produzione e distribuzione di materiale seminale per l'inseminazione artificiale si distinguono in: 
+ 
+                            
+                            
+                                a)
+                                
+                                    centri di produzione dello sperma: che provvedono alla raccolta, preparazione, controllo, confezione, conservazione e distribuzione ai recapiti del materiale seminale. Per il solo materiale seminale fresco e refrigerato, considerate le caratteristiche di conservazione, e' ammessa la distribuzione diretta alle aziende agricole, ai medici veterinari ed agli operatori pratici di inseminazione artificiale. I centri genetici sono equiparati, limitatamente all'esercizio dell'attivita' di valutazione genetica, ai centri di produzione dello sperma. Nei centri di produzione di materiale seminale equino e' possibile provvedere, previa espressa autorizzazione ai sensi dell'articolo 2, comma 5 e dell'articolo 3, comma 2, anche all'inseminazione delle fattrici con materiale seminale fresco ivi prodotto; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    recapiti: che provvedono alla conservazione e alla ridistribuzione del materiale seminale congelato e degli embrioni congelati forniti, rispettivamente, dai centri di produzione dello sperma e dai centri di produzione degli embrioni, di cui all'articolo 23, comma 1, con i quali sono collegati anche ai fini della responsabilita' circa l'impiego del seme e degli embrioni. 
+ 
+ ((1))
+
 --------------
                             AGGIORNAMENTO (1)
                             
@@ -151,6 +546,52 @@ Le regioni possono rilasciare al medesimo richiedente sia l'autorizzazione a ges
  Annulla, per quanto di ragione, il predetto decreto del Ministro delle politiche agricole e forestali del 19 luglio 2000, n. 403".
 
 ## Art. 11. — Centri di produzione: autorizzazioni
+
+1.
+                        
+                            
+                                I centri di produzione dello sperma possono operare esclusivamente previa concessione di un'autorizzazione, rilasciata dalla regione competente per territorio. Le regioni prevedono le modalita' di presentazione delle domande di autorizzazione, che devono comunque contenere: 
+ 
+                            
+                            
+                                a)
+                                
+                                    nome e cognome, dati anagrafici, codice fiscale, partita I.V.A. e residenza del richiedente o denominazione, sede, partita I.V.A. e generalita' complete del legale rappresentante, se trattasi di persona giuridica; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    nome e cognome, dati anagrafici, codice univoco nazionale ed indirizzo del veterinario responsabile della gestione sanitaria del centro; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    ubicazione e descrizione dei fabbricati ed impianti, corredate da prospetto dei locali e attrezzature, con allegata pianta planimetrica e relativi estremi catastali; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    elenco dei recapiti collegati; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    indicazione dei riproduttori presenti (specie e razza); 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    informazioni specifiche sull'organizzazione tecnica e commerciale per la produzione e la distribuzione del materiale seminale.
 
 Le regioni attribuiscono a ciascun centro di produzione un numero di codice univoco a livello nazionale.
 
@@ -168,6 +609,87 @@ Nell'autorizzazione viene fatto esplicito riferimento alla persona del titolare,
 
 ## Art. 12. — Requisiti dei centri di produzione dello sperma
 
+1.
+                        
+                            
+                                I centri di produzione dello sperma, ai fini del rilascio dell'autorizzazione, devono: 
+ 
+                            
+                            
+                                a)
+                                
+                                    essere posti, in permanenza, sotto la direzione sanitaria di un veterinario responsabile; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    essere in possesso di un certificato della azienda sanitaria locale di competenza, dal quale risulti che sono garantite le necessarie misure di igiene e sanita'; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    disporre di: 
+ 1) adeguati locali o strutture di stabulazione rispondenti alle disposizioni per il benessere degli animali, con possibilita' di isolamento degli animali stessi; 
+ 2) un ambiente per il prelievo del materiale seminale, comprendente un locale separato per la pulizia, la disinfezione e la sterilizzazione delle attrezzature; 
+ 3) un locale per il trattamento e la confezione del materiale seminale; 
+ 4) un locale per la conservazione del materiale seminale; 
+ 5) servizi igienici per il personale ed un locale ad uso spogliatoio; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    essere recintati in modo da prevenire qualsiasi contatto con animali che si trovano al di fuori del centro; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    essere strutturati in modo che i locali di stabulazione siano materialmente separati dai locali di trattamento del materiale seminale e che entrambi siano separati dal locale di conservazione del materiale seminale; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    disporre di una sorveglianza che impedisca l'accesso alle persone non autorizzate. Eventuali visite al centro dovranno avvenire nel rispetto delle condizioni stabilite dal veterinario responsabile della gestione sanitaria del centro medesimo; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    disporre di personale tecnicamente competente, adeguatamente addestrato ai procedimenti di disinfezione ed alle tecniche igieniche per il controllo della propagazione delle malattie; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    essere costruiti in modo che i locali di stabulazione degli animali e quelli di raccolta, di trattamento e di immagazzinamento dello sperma possano essere agevolmente puliti e disinfettati; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    disporre di locali o ambienti di isolamento privi di comunicazione diretta con quelli destinati alla normale stabulazione dei riproduttori; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    disporre, qualora si provveda ai sensi dell'articolo 10, comma 1, lettera a), alla inseminazione di fattrici con materiale seminale equino fresco, di un locale situato in prossimita' degli altri ambienti, ma non comunicante con essi, destinato agli accertamenti relativi allo stato sanitario dell'apparato genitale delle fattrici ed, eventualmente, alla terapia, nonche' di locali idonei alla inseminazione. 
+ 
+ ((1))
+
 --------------
                             AGGIORNAMENTO (1)
                             
@@ -175,6 +697,122 @@ Nell'autorizzazione viene fatto esplicito riferimento alla persona del titolare,
  Annulla, per quanto di ragione, il predetto decreto del Ministro delle politiche agricole e forestali del 19 luglio 2000, n. 403".
 
 ## Art. 13. — Obblighi dei centri di produzione dello sperma
+
+1.
+                        
+                            
+                                I centri di produzione dello sperma hanno l'obbligo di: 
+ 
+                            
+                            
+                                a)
+                                
+                                    vietare il ricovero nella stessa struttura di stabulazione di animali di specie diverse; tuttavia, sono ammessi altri animali domestici assolutamente necessari al funzionamento normale del centro di produzione, sempreche' essi non presentino alcun rischio di infezione per gli animali delle cui specie lo sperma deve essere raccolto, e soddisfino le condizioni stabilite dal veterinario responsabile della gestione sanitaria del centro. Qualora il centro sia stato autorizzato a produrre materiale seminale di specie diverse, le rispettive strutture di stabulazione e di prelievo del materiale seminale, nonche' le relative attrezzature di raccolta e di trattamento, devono essere nettamente separate; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    allevare esclusivamente riproduttori maschi autorizzati all'inseminazione artificiale o giovani riproduttori ammessi ad una prova di valutazione genetica, anche nel caso di produzione per conto terzi; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    uniformarsi alle prescrizioni emanate dalle competenti autorita' sanitarie, in materia di profilassi e polizia veterinaria; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    denunciare la comparsa nei propri animali di qualsiasi malattia infettiva o diffusiva; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    seguire le norme sanitarie in materia di prelievo, preparazione e conservazione del materiale seminale stabilite dal Ministero della sanita'; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    comunicare alla regione competente l'eventuale sostituzione del veterinario responsabile della direzione sanitaria dell'impianto; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    rendere pubbliche le tariffe del materiale seminale di ciascun riproduttore e comunicarle tempestivamente alla regione competente; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    annotare su apposito registro, per ciascuno dei riproduttori presenti: specie, razza, data di nascita, identificazione, malattie riscontrate, vaccinazioni praticate e controlli effettuati sul materiale seminale; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    tenere un registro con l'indicazione giornaliera del materiale seminale prelevato da ciascun riproduttore, con l'indicazione delle dosi valide prodotte per ciascuna partita. Per il materiale seminale congelato deve essere indicato, inoltre, il numero identificativo di ciascuna partita; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    tenere un registro cronologico di carico del materiale seminale prodotto e di scarico del materiale seminale in uscita, distinguendo il materiale seminale fresco da quello refrigerato e da quello congelato. Nello stesso registro deve essere registrato il carico e lo scarico del materiale seminale proveniente da altri centri di produzione; 
+
+                                
+                            
+                            
+                                m)
+                                
+                                    distribuire il materiale seminale esclusivamente in fiale o altri contenitori sigillati e riportanti chiare e inamovibili indicazioni sul centro di produzione dello sperma, identificazione della partita (data o giorno progressivo entro anno e anno di raccolta dello sperma), specie, razza o tipo genetico, matricola del riproduttore; 
+
+                                
+                            
+                            
+                                n)
+                                
+                                    rilasciare, per ciascuna partita di materiale seminale prodotto od importato, a richiesta degli acquirenti, un certificato attestante, oltre ai dati identificativi della partita medesima, le caratteristiche qualitative rilevate, secondo quanto previsto dall'articolo 37, comma 1; 
+
+                                
+                            
+                            
+                                o)
+                                
+                                    rilasciare per ogni atto di vendita di materiale seminale un documento accompagnatorio contenente i dati della partita (specie, razza, matricola del riproduttore maschio e identificazione della partita) cui il materiale seminale appartiene. Il documento non e' necessario qualora dette informazioni siano gia' contenute nella fattura; 
+
+                                
+                            
+                            
+                                p)
+                                
+                                    sottostare a tutti gli obblighi e soddisfare tutti i requisiti previsti per i recapiti, nonche' disporre della relativa autorizzazione, qualora distribuiscano direttamente materiale seminale; 
+
+                                
+                            
+                            
+                                q)
+                                
+                                    detenere o sottoporre annualmente alle valutazioni genetiche previste dai libri genealogici o registri anagrafici un numero di riproduttori maschi delle specie o razze per le quali si richiede l'autorizzazione, non inferiore al 5% del totale dei riproduttori maschi in prova per le medesime valutazioni genetiche nell'anno precedente, salvo diverse disposizioni previste dal libro genealogico o registro anagrafico in ordine alla valutazione genetica. Per i centri di produzione gia' in possesso di autorizzazione ai sensi della legge 25 luglio 1952, n. 1009, il numero dei riproduttori da sottoporre a valutazione genetica non puo' comunque essere inferiore al 3% del totale; 
+
+                                
+                            
+                            
+                                r)
+                                
+                                    seguire le procedure atte al controllo qualitativo del materiale seminale, cosi' come disciplinato dall'articolo 37.
 
 I centri di produzione di materiale seminale possono distribuire dosi eterospermiche di materiale seminale suino fresco o refrigerato ottenute miscelando il materiale seminale di due verri della stessa razza o tipo genetico, purche' entrambi in possesso dei requisiti previsti per l'impiego in inseminazione artificiale pubblica. Dette dosi vengono distribuite in contenitori che recano, al posto della matricola del verro, un codice alfanumerico che, in base alle registrazioni del centro di produzione, permette di risalire all'identita' dei due verri produttori. 
  
@@ -192,6 +830,40 @@ I recapiti possono operare esclusivamente previa concessione di una autorizzazio
 
 Le regioni possono revocare l'autorizzazione qualora il gestore si renda inadempiente agli obblighi previsti dall'articolo 16, oppure, vengano meno una o piu' condizioni prescritte per il rilascio dell'autorizzazione medesima. Le regioni comunicano al Ministero delle politiche agricole e forestali e al Ministero della sanita' l'elenco dei recapiti autorizzati e di quelli revocati. Il Ministero delle politiche agricole e forestali annualmente provvede a divulgare l'elenco dei recapiti operanti.
 
+3.
+                        
+                            
+                                Le regioni prevedono le modalita' di presentazione delle domande di autorizzazione, che devono comunque contenere: 
+ 
+                            
+                            
+                                a)
+                                
+                                    nome e cognome, dati anagrafici, codice fiscale, partita I.V.A. e residenza del richiedente, o denominazione, sede, partita I.V.A. e generalita' complete del legale rappresentante se trattasi di persona giuridica; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    ubicazione e descrizione dei fabbricati e relativi estremi catastali; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    elenco dei centri nazionali di produzione dello sperma, dei centri di produzione degli embrioni e dei gruppi di raccolta degli embrioni dai quali provengono rispettivamente il materiale seminale e gli embrioni distribuiti; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    indicazioni specifiche sulla organizzazione della distribuzione. 
+ 
+ ((1))
+
 --------------
                             AGGIORNAMENTO (1)
                             
@@ -200,6 +872,26 @@ Le regioni possono revocare l'autorizzazione qualora il gestore si renda inademp
 
 ## Art. 15. — Requisiti dei recapiti
 
+1.
+                        
+                            
+                                I recapiti, al fine del rilascio dell'autorizzazione, devono: 
+ 
+                            
+                            
+                                a)
+                                
+                                    essere diretti da un esperto zootecnico in possesso di un diploma di scuola media superiore o diploma di laurea ad indirizzo agrario o zootecnico, fatti salvi i recapiti gia' in possesso di autorizzazione regionale ai sensi della legge 25 luglio 1952, n. 1009; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    disporre di appositi locali dotati di aspiratori dei fumi di azoto, pareti lavabili e servizi igienici, nonche' di contenitori idonei alla conservazione del materiale seminale ed embrioni confezionati. 
+ 
+ ((1))
+
 --------------
                             AGGIORNAMENTO (1)
                             
@@ -207,6 +899,69 @@ Le regioni possono revocare l'autorizzazione qualora il gestore si renda inademp
  Annulla, per quanto di ragione, il predetto decreto del Ministro delle politiche agricole e forestali del 19 luglio 2000, n. 403".
 
 ## Art. 16. — Obblighi dei recapiti
+
+1.
+                        
+                            
+                                I recapiti hanno l'obbligo di: 
+ 
+                            
+                            
+                                a)
+                                
+                                    detenere e distribuire materiale seminale ed embrioni provenienti esclusivamente dai centri nazionali di produzione dello sperma o di embrioni con i quali sono collegati. Il passaggio di materiale seminale o di embrioni tra recapiti e' consentito solo se entrambi i recapiti interessati risultano formalmente collegati con il centro di produzione nazionale di origine del materiale riproduttivo scambiato; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    tenere un registro cronologico di carico per il materiale seminale disponibile da cui risulti la relativa provenienza e di scarico per quello distribuito, da cui risultino gli allevamenti acquirenti o i nominativi degli operatori che l'hanno acquistato o ricevuto in deposito per l'impiego esclusivo in azienda; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    comunicare trimestralmente alla regione il numero di dosi di materiale seminale ed embrioni, distinte per riproduttore, distribuite ai vari allevamenti e agli operatori identificati dal relativo codice; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    rendere pubblico il prezzo a dose di materiale seminale per ciascun riproduttore e comunicarlo alla regione; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    distribuire materiale seminale ed embrionale esclusivamente a: allevatori o loro delegati, direttamente o a domicilio, operatori di cui agli articoli 21 e 31, altri recapiti collegati funzionalmente allo stesso centro secondo quanto previsto alla lettera a); 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    rilasciare, per ogni atto di vendita di materiale seminale congelato o di embrioni, un documento accompagnatorio contenente i dati relativi a specie, razza e matricola del riproduttore maschio cui il materiale seminale appartiene. Il documento non e' necessario qualora dette informazioni siano gia' contenute nella fattura.
+Qualora il trasferimento del materiale seminale o degli embrioni avvenga fra recapiti collegati ai sensi della lettera a), dovranno essere fornite le indicazioni previste per i centri all'articolo 13, comma 1, lettera o); 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    divulgare e mettere a disposizione dei veterinari, dei tecnici e degli allevatori le pubblicazioni ufficiali aggiornate delle associazioni nazionali allevatori di specie e razza, relative alle valutazioni genetiche dei riproduttori italiani, nonche' gli elenchi dei riproduttori esteri approvati per l'uso in Italia; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    consentire il libero accesso nei locali del recapito al personale incaricato della vigilanza, il quale puo' effettuare le verifiche ed i controlli del materiale seminale a qualsiasi titolo commercializzato. 
+ 
+ ((1))
 
 --------------
                             AGGIORNAMENTO (1)
@@ -217,6 +972,38 @@ Le regioni possono revocare l'autorizzazione qualora il gestore si renda inademp
 ## Art. 17. — Impiego dell'inseminazione artificiale nell'ambito aziendale: suini
 
 Negli allevamenti suinicoli e' consentito il prelievo e la preparazione di materiale seminale proveniente dai riproduttori maschi presenti in azienda per l'esclusiva inseminazione delle scrofe dell'azienda medesima.
+
+2.
+                        
+                            
+                                Condizioni per l'impiego dell'inseminazione artificiale nell'ambito aziendale sono: 
+ 
+                            
+                            
+                                a)
+                                
+                                    che l'azienda disponga di locali ed attrezzature adeguati per il prelievo, la preparazione e la conservazione del materiale seminale, fresco o refrigerato; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    che i riproduttori maschi presenti nell'allevamento risultino idonei per la monta naturale; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    che siano rispettate le prescrizioni emanate dalle competenti aziende sanitarie locali in materia di profilassi e di polizia sanitaria; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    che l'azienda disponga di personale di cui all'articolo 21.
 
 L'azienda ha l'obbligo di comunicare tempestivamente alla regione competente lo svolgimento di detta attivita'. Le regioni, con riferimento alle dimensioni dell'allevamento, possono prevedere che la responsabilita' sanitaria sia assicurata da un veterinario. 
  
@@ -229,6 +1016,61 @@ L'azienda ha l'obbligo di comunicare tempestivamente alla regione competente lo 
  Annulla, per quanto di ragione, il predetto decreto del Ministro delle politiche agricole e forestali del 19 luglio 2000, n. 403".
 
 ## Art. 18. — Inseminazione artificiale: requisiti dei riproduttori maschi
+
+1.
+                        
+                            
+                                Il riproduttore maschio, per essere adibito alla produzione di materiale seminale da utilizzare in inseminazione artificiale, deve soddisfare le seguenti condizioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    essere iscritto nella sezione "riproduttori maschi" del libro genealogico o del registro anagrafico della razza di appartenenza o in un registro dei suini riproduttori ibridi. L'iscrizione e' attestata dal certificato genealogico o anagrafico, rilasciato dall'associazione degli allevatori o dall'ente che tiene i suddetti libri o registri; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    aver superato con esito positivo le valutazioni genetiche, per l'ammissione alla inseminazione artificiale, programmate ed organizzate dalle associazioni degli allevatori o dall'ente competente che tiene il libro o registro, o essere stato ammesso ad una prova di valutazione genetica, qualora trattasi di un giovane riproduttore. In questo ultimo caso, l'utilizzazione del materiale seminale e' consentita nei limiti quantitativi necessari per la realizzazione, da parte dell'associazione degli allevatori o dell'ente competente, delle prove medesime; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    essere identificato, qualora trattasi di bovini, bufalini, ovini, caprini e suini con le modalita' previste dall'articolo 4 del decreto del Presidente della Repubblica 30 aprile 1996, n. 317, e qualora trattasi di equini, tramite i dati segnaletici e un tatuaggio o altro mezzo idoneo stabilito dalle norme del competente libro genealogico o registro anagrafico; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    disporre di un certificato di accertamento dell'ascendenza basato sull'analisi del gruppo sanguigno o altro metodo adeguato, rilasciato dall'associazione degli allevatori o dall'ente competente che tiene il libro genealogico o il registro; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    essere in possesso delle certificazioni sanitarie, rilasciate dalle aziende sanitarie locali, che attestino i requisiti stabiliti dal Ministero della sanita'; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    essere sottoposto, almeno due volte l'anno, agli accertamenti sanitari effettuati a cura delle aziende sanitarie locali, che attestino l'assenza di malattie infettive e diffusive, a norma delle vigenti disposizioni di polizia veterinaria e delle ordinanze emanate dal Ministero della sanita'; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    provenire da un centro genetico o da altro centro di produzione di pari livello sanitario, oppure essere risultato negativo, prima dell'ammissione al centro, alle prove stabilite dal Ministero della sanita' ed effettuate durante l'isolamento di almeno trenta giorni in appositi locali adibiti a quarantena. 
+ 
+ ((1))
 
 --------------
                             AGGIORNAMENTO (1)
@@ -264,7 +1106,72 @@ Le regioni, previa comunicazione al Ministero delle politiche agricole e foresta
 
 ## Art. 21. — Pratica della inseminazione artificiale
 
+1.
+                        
+                            
+                                I veterinari e gli operatori pratici che intendono esercitare l'attivita' di inseminazione artificiale devono essere iscritti in appositi elenchi tenuti dalla competente regione, che attribuira' a ciascun iscritto uno specifico codice univoco identificativo. Le regioni prevedono le modalita' per la presentazione delle domande di iscrizione che devono comunque contenere le seguenti indicazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    ambito territoriale in cui si intende praticare l'inseminazione artificiale; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    impianti a cui si ricorre per la fornitura del materiale seminale; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    dichiarazione relativa allo svolgimento dell'attivita' nel proprio o altrui allevamento (per i soli operatori pratici); 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    iscrizione all'albo professionale (per i veterinari). 
+ Gli operatori pratici di inseminazione artificiale devono allegare alla domanda medesima autocertificazione relativa al possesso dell'attestato di idoneita' rilasciato ai sensi dell'articolo 2 della legge 11 marzo 1974, n. 74, nonche' alla sottoscrizione di convenzioni con i centri di produzione, o con i recapiti a questi ultimi collegati.
+
 La regione puo' sospendere o revocare l'iscrizione nei suddetti elenchi, previo parere di una apposita commissione regionale nella quale siano rappresentate anche le categorie interessate, qualora il veterinario o l'operatore pratico di inseminazione artificiale si renda inadempiente agli obblighi previsti dal presente regolamento.
+
+3.
+                        
+                            
+                                I veterinari e gli operatori pratici di inseminazione artificiale hanno l'obbligo di: 
+ 
+                            
+                            
+                                a)
+                                
+                                    rifornirsi di materiale seminale esclusivamente presso i recapiti autorizzati; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    mantenere in buono stato di conservazione il materiale seminale; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    utilizzare esclusivamente materiale seminale di riproduttori approvati per l'inseminazione artificiale; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    certificare l'intervento di inseminazione artificiale, su appositi moduli forniti dalle regioni. L'obbligo di certificazione dell'intervento di inseminazione artificiale non sussiste per l'inseminazione artificiale suina effettuata con seme fresco o refrigerato.
 
 Ciascuna dose di materiale seminale deve essere usata per una sola fattrice. E' vietata la suddivisione delle singole dosi ed il conseguente utilizzo per piu' di una fecondazione. 
  
@@ -296,6 +1203,26 @@ Alla inseminazione artificiale deve comunque provvedere un veterinario o un oper
 
 ## Art. 23. — Organizzazione per la raccolta e produzione di embrioni ed oociti
 
+1.
+                        
+                            
+                                Le organizzazioni per la raccolta e produzione di embrioni ed oociti si distinguono in: 
+ 
+                            
+                            
+                                a)
+                                
+                                    gruppi di raccolta: costituiti da uno o piu' tecnici o da un gruppo organizzato di tecnici che, sotto la direzione di un veterinario responsabile, provvedono, anche per conto terzi, alla raccolta, al trattamento ed alla conservazione degli embrioni di animali di interesse zootecnico, con esclusione degli embrioni concepiti tramite fecondazione in vitro; provvedono altresi' al trasferimento di detti embrioni su fattrici riceventi; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    centri di produzione: costituiti da strutture di laboratorio e da personale qualificato che provvedono al prelievo di oociti di animali di interesse zootecnico, alla loro fecondazione in vitro, alla coltura degli embrioni ottenuti, agli eventuali trattamenti, nonche' al congelamento, conservazione e alla distribuzione degli embrioni prodotti tramite i recapiti di cui all'articolo 10, lettera b). 
+ 
+ ((1))
+
 --------------
                             AGGIORNAMENTO (1)
                             
@@ -304,6 +1231,49 @@ Alla inseminazione artificiale deve comunque provvedere un veterinario o un oper
 
 ## Art. 24. — Gruppi di raccolta: autorizzazioni
 
+1.
+                        
+                            
+                                I gruppi di raccolta degli embrioni possono operare esclusivamente previa concessione di una autorizzazione rilasciata dalla regione competente per territorio. Le regioni prevedono le modalita' di presentazione delle domande di autorizzazione, che devono comunque contenere: 
+ 
+                            
+                            
+                                a)
+                                
+                                    nome, cognome, dati anagrafici, codice fiscale, partita I.V.A. e residenza del richiedente o denominazione, sede, partita I.V.A. e generalita' complete del legale rappresentante se trattasi di persona giuridica; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    nome e cognome, dati anagrafici, codice univoco nazionale ed indirizzo del veterinario responsabile della gestione sanitaria della raccolta, del trattamento e della conservazione degli embrioni; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    indicazione delle specie trattate; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    indicazione delle attrezzature utilizzate; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    ubicazione e descrizione dei locali del laboratorio stabile con il quale si e' collegati ai sensi dell'articolo 26, comma 1, lettera d). 
+ 3. Le regioni attribuiscono ad ogni gruppo di raccolta un numero di codice univoco a livello nazionale. 
+ 4. La regione puo' revocare l'autorizzazione qualora il gruppo di raccolta si renda inadempiente agli obblighi previsti dall'articolo 28, oppure vengano meno una o piu' condizioni prescritte per il rilascio dell'autorizzazione medesima. Le regioni comunicano al Ministero delle politiche agricole e forestali ed al Ministero della sanita' l'elenco dei gruppi di raccolta autorizzati e di quelli revocati. 
+ 
+ ((1))
+
 --------------
                             AGGIORNAMENTO (1)
                             
@@ -311,6 +1281,53 @@ Alla inseminazione artificiale deve comunque provvedere un veterinario o un oper
  Annulla, per quanto di ragione, il predetto decreto del Ministro delle politiche agricole e forestali del 19 luglio 2000, n. 403".
 
 ## Art. 25. — Centri di produzione: autorizzazioni
+
+1.
+                        
+                            
+                                I centri di produzione di embrioni possono operare esclusivamente previa concessione di una autorizzazione rilasciata dalla regione competente per territorio. Le regioni prevedono le modalita' di presentazione delle domande di autorizzazione, che devono comunque contenere: 
+ 
+                            
+                            
+                                a)
+                                
+                                    nome, cognome, dati anagrafici, codice fiscale, partita I.V.A. e residenza del richiedente o denominazione, sede, partita I.V.A. e generalita' complete del legale rappresentante se trattasi di persona giuridica; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    nome e cognome, dati anagrafici, codice univoco nazionale ed indirizzo del veterinario responsabile della gestione sanitaria del centro; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    indicazione delle specie trattate; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    informazioni specifiche sull'organizzazione tecnica e commerciale; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    modalita' di certificazione degli embrioni prodotti; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    ubicazione e descrizione dei fabbricati, degli impianti, locali ed attrezzature ed allegata pianta planimetrica. 
+ Le regioni attribuiscono ad ogni centro di produzione un numero di codice univoco a livello nazionale.
 
 Le regioni possono revocare l'autorizzazione qualora il centro di produzione si renda inadempiente agli obblighi previsti dall'articolo 29, oppure, vengano meno una o piu' condizioni prescritte per il rilascio dell'autorizzazione medesima. Le regioni comunicano al Ministero delle politiche agricole e forestali e al Ministero della sanita' l'elenco dei centri di produzione autorizzati e di quelli revocati. Il Ministero delle politiche agricole e forestali annualmente provvede a divulgare l'elenco dei centri operanti, distinti per singola specie. 
  
@@ -324,6 +1341,49 @@ Le regioni possono revocare l'autorizzazione qualora il centro di produzione si 
 
 ## Art. 26. — Requisiti dei gruppi di raccolta
 
+1.
+                        
+                            
+                                I gruppi di raccolta degli embrioni, ai fini del rilascio dell'autorizzazione, devono: 
+ 
+                            
+                            
+                                a)
+                                
+                                    operare stabilmente sotto la direzione di un veterinario responsabile della gestione tecnico-sanitaria del prelievo, del trattamento e dell'immagazzinaggio degli embrioni; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    disporre di strutture di laboratorio fisse o mobili che consentano l'esame, il trattamento ed il confezionamento degli embrioni e comprendano almeno un'area di lavoro, un microscopio ed un impianto criogenico; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    disporre, ove usufruiscano di un laboratorio stabile: 
+ 1) di un locale destinato al trattamento degli embrioni, adiacente, ma fisicamente separato, dal luogo di accoglimento degli animali donatori; 
+ 2) di un locale o di un ambiente per la pulizia e la sterilizzazione degli strumenti e del materiale utilizzato per il prelievo degli embrioni; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    disporre, ove usufruiscano di un laboratorio mobile, di una parte del veicolo appositamente attrezzata e composta da due aree distinte: una per l'esame ed il trattamento degli embrioni, l'altra per depositarvi le attrezzature ed i materiali che sono stati in contatto con gli animali donatori. Il laboratorio mobile deve sempre essere collegato con un laboratorio stabile, in modo che siano assicurate la sterilizzazione delle attrezzature e la fornitura dei liquidi e degli altri prodotti necessari per il prelievo ed il trattamento degli embrioni; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    essere in possesso di un certificato dell'azienda sanitaria locale di competenza, dal quale risulti che sono garantite le necessarie misure di igiene e sanita', cosi' come previsto dall'allegato A della direttiva del 25 settembre 1989, n. 89/556/CEE. 
+ 
+ ((1))
+
 --------------
                             AGGIORNAMENTO (1)
                             
@@ -331,6 +1391,61 @@ Le regioni possono revocare l'autorizzazione qualora il centro di produzione si 
  Annulla, per quanto di ragione, il predetto decreto del Ministro delle politiche agricole e forestali del 19 luglio 2000, n. 403".
 
 ## Art. 27. — Requisiti dei centri di produzione degli embrioni
+
+1.
+                        
+                            
+                                I centri di produzione degli embrioni, ai fini del rilascio dell'autorizzazione, devono: 
+ 
+                            
+                            
+                                a)
+                                
+                                    operare stabilmente sotto la direzione di un veterinario responsabile della gestione tecnico-sanitaria del prelievo e del trattamento degli oociti, nonche' del trattamento e della conservazione degli embrioni prodotti con fecondazione in vitro; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    essere in possesso di un certificato dell'azienda sanitaria locale di competenza dal quale risulti che sono garantite le necessarie misure di igiene e sanita', cosi' come previsto dall'allegato A della direttiva 25 settembre 1989, n. 89/556/CEE; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    disporre di personale tecnicamente competente, adeguatamente addestrato ai procedimenti di disinfezione ed alle tecniche igieniche per il controllo della propagazione delle malattie; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    disporre di locali per il trattamento degli embrioni privi di comunicazione diretta con quelli destinati alla eventuale stabulazione di animali; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    essere costruiti in modo tale che i locali di trattamento ed immagazzinamento degli embrioni e di eventuale stabulazione di animali possano essere agevolmente puliti e disinfettati; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    non utilizzare un laboratorio situato in una zona dichiarata infetta dalle competenti autorita' sanitarie; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    disporre, ove usufruiscano di un laboratorio mobile, di una parte del veicolo appositamente attrezzata e composta da due aree distinte: una per l'esame ed il trattamento degli embrioni, l'altra per depositarvi le attrezzature ed i materiali che sono stati in contatto con gli animali donatori. Il laboratorio mobile deve sempre essere collegato con un laboratorio stabile, in modo che siano assicurate la sterilizzazione delle attrezzature e la fornitura dei liquidi e degli altri prodotti necessari per il prelievo ed il trattamento degli embrioni. 
+ 
+ ((1))
 
 --------------
                             AGGIORNAMENTO (1)
@@ -340,6 +1455,82 @@ Le regioni possono revocare l'autorizzazione qualora il centro di produzione si 
 
 ## Art. 28. — Obblighi per i gruppi di raccolta di embrioni
 
+1.
+                        
+                            
+                                I gruppi di raccolta di embrioni hanno l'obbligo di: 
+ 
+                            
+                            
+                                a)
+                                
+                                    uniformarsi alle prescrizioni emanate dalle competenti autorita' sanitarie in materia di profilassi e polizia veterinaria; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    seguire le norme sanitarie in materia di raccolta, trattamento e immagazzinaggio degli embrioni stabilite dal Ministero della sanita'; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    comunicare alla regione competente l'eventuale sostituzione del veterinario responsabile della direzione sanitaria del gruppo; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    tenere un registro di carico e scarico per gli embrioni raccolti, impiantati e immagazzinati sia presso lo stesso gruppo di raccolta, sia presso l'allevamento delle donatrici; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    conservare gli embrioni esclusivamente in fiale o altri contenitori sigillati e riportanti chiare ed inamovibili indicazioni su: numero di codice del gruppo di raccolta, data di raccolta degli embrioni, specie, razza o tipo genetico, matricola dei donatori. In caso di piu' embrioni in un singolo contenitore, gli embrioni medesimi debbono provenire tutti dallo stesso intervento fecondativo; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    rilasciare, per ogni atto di raccolta per conto terzi o di vendita di embrioni, un documento accompagnatorio dell'embrione contenente i dati identificativi della partita: specie, razza, numero di identificazione, o matricola nel caso degli equini, della donatrice e del riproduttore maschio; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    rilasciare, a richiesta degli acquirenti, per ciascun embrione o gruppo di embrioni di un medesimo contenitore, un certificato attestante, oltre i dati identificativi dell'embrione o degli embrioni medesimi, le caratteristiche qualitative rilevate secondo quanto previsto dall'articolo 37, comma 2; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    certificare, su appositi moduli forniti dalle regioni, l'intervento di trasferimento embrionale, indicando la data, specie, razza o tipo genetico e matricola dei donatori, specie, razza o tipo genetico e matricola, se presente, della ricevente, nonche' generalita' del proprietario della stessa; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    non operare in zona dichiarata infetta dalla competente autorita' sanitaria; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    provvedere alla sterilizzazione delle attrezzature che vengono a contatto con gli embrioni o con gli animali donatori durante la raccolta, nonche', prima dell'uso, dei contenitori per il magazzinaggio e il trasporto. 
+ 
+ ((1))
+
 --------------
                             AGGIORNAMENTO (1)
                             
@@ -348,6 +1539,89 @@ Le regioni possono revocare l'autorizzazione qualora il centro di produzione si 
 
 ## Art. 29. — Obblighi per i centri di produzione di embrioni
 
+1.
+                        
+                            
+                                I centri di produzione di embrioni hanno l'obbligo di: 
+ 
+                            
+                            
+                                a)
+                                
+                                    uniformarsi alle prescrizioni emanate dalle competenti autorita' sanitarie in materia di profilassi e polizia veterinaria; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    seguire le norme sanitarie in materia di raccolta, trattamento e immagazzinaggio degli oociti e degli embrioni stabilite dal Ministero della sanita'; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    comunicare alla regione competente l'eventuale sostituzione del veterinario responsabile della direzione sanitaria del centro; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    annotare, su apposito registro dei prelievi, per ciascuna donatrice di oociti: specie, razza, codice di identificazione e, se trattasi di animale vivo, stato sanitario riscontrato al momento del prelievo; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    tenere un apposito registro di laboratorio con l'indicazione giornaliera delle fecondazioni in vitro effettuate, con l'indicazione degli embrioni prodotti e del materiale seminale utilizzato; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    tenere un registro di carico degli embrioni prodotti e di scarico degli embrioni in uscita; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    rilasciare, per ogni atto di raccolta per conto terzi o di vendita di embrioni, un documento accompagnatorio dell'embrione contenente i dati identificativi della partita: specie, razza, numero di identificazione, o matricola nel caso degli equini, della donatrice e del riproduttore maschio; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    distribuire gli embrioni esclusivamente in fiale o altri contenitori sigillati e riportanti chiare ed inamovibili indicazioni su: codice di identificazione del centro di produzione di embrioni, data di raccolta degli embrioni, specie, razza o tipo genetico, matricola del padre e della madre. In caso di piu' embrioni in un singolo contenitore, gli embrioni medesimi debbono provenire tutti dallo stesso intervento fecondativo; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    rilasciare, a richiesta degli acquirenti, per ciascun embrione o gruppo di embrioni di un medesimo contenitore un certificato attestante, oltre i dati identificativi dell'embrione o degli embrioni medesimi, le caratteristiche qualitative rilevate secondo quanto previsto dall'articolo 37, comma 2; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    sottostare a tutti gli obblighi e soddisfare tutti i requisiti previsti per i recapiti, nonche' disporre della relativa autorizzazione, qualora distribuiscano direttamente embrioni; 
+
+                                
+                            
+                            
+                                m)
+                                
+                                    provvedere alla sterilizzazione delle attrezzature per l'asportazione ed il trasporto delle ovaie. Dette attrezzature devono essere usate esclusivamente per tale scopo. 
+ 
+ ((1))
+
 --------------
                             AGGIORNAMENTO (1)
                             
@@ -355,6 +1629,49 @@ Le regioni possono revocare l'autorizzazione qualora il centro di produzione si 
  Annulla, per quanto di ragione, il predetto decreto del Ministro delle politiche agricole e forestali del 19 luglio 2000, n. 403".
 
 ## Art. 30. — Requisiti degli embrioni
+
+1.
+                        
+                            
+                                Gli embrioni, esclusi quelli concepiti tramite fecondazione in vitro, devono: 
+ 
+                            
+                            
+                                a)
+                                
+                                    provenire dalla fecondazione di un oocita di femmina iscritta al libro genealogico, o registro anagrafico, con materiale seminale di riproduttore autorizzato alla inseminazione artificiale; tale requisito non e' richiesto per le razze autoctone ed i tipi etnici a limitata diffusione, presi in considerazione nel quadro dell'attivita' di recupero e potenziamento promossa dal Ministero delle politiche agricole e forestali o dalle regioni; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    provenire da animali donatori che soddisfino i requisiti sanitari stabiliti dal Ministero della sanita'.
+
+2.
+                        
+                            
+                                Gli oociti per la successiva fecondazione in vitro debbono: 
+ 
+                            
+                            
+                                a)
+                                
+                                    provenire da femmina o gruppi di femmine iscritte nei libri genealogici o registri anagrafici, o da femmina non iscritta ai suddetti libri o registri, purche' di razza chiaramente riconoscibile; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    essere fecondati in vitro con materiale seminale di riproduttore autorizzato alla inseminazione artificiale; tale requisito non e' richiesto per le razze autoctone ed i tipi etnici a limitata diffusione; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    essere prelevati da donatrici provenienti da allevamenti situati in zone non dichiarate infette dalle competenti autorita', e, comunque, da donatrici macellate per cause diverse da quelle di profilassi.
 
 La certificazione dell'origine degli embrioni raccolti o prodotti provenienti da femmine iscritte nei libri genealogici o nei registri anagrafici e' disciplinata dal competente libro o registro.  
  ((1))
@@ -369,7 +1686,52 @@ La certificazione dell'origine degli embrioni raccolti o prodotti provenienti da
 
 I veterinari che intendono praticare l'impianto embrionale devono essere iscritti negli appositi elenchi tenuti dalla competente regione, che attribuisce a ciascun iscritto un codice identificativo.
 
+2.
+                        
+                            
+                                Le regioni devono prevedere le modalita' di presentazione delle domande di iscrizione, che devono comunque contenere: 
+ 
+                            
+                            
+                                a)
+                                
+                                    eventuali recapiti a cui si ricorre per la fornitura del materiale embrionale; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    iscrizione all'albo professionale.
+
 Le regioni possono sospendere o revocare iscrizione nei suddetti elenchi qualora il veterinario autorizzato all'impianto embrionale risulti inadempiente agli obblighi previsti dal presente regolamento previo parere di un'apposita commissione regionale di cui all'articolo 21, comma 2.
+
+4.
+                        
+                            
+                                I veterinari hanno l'obbligo di: 
+ 
+                            
+                            
+                                a)
+                                
+                                    rifornirsi di embrioni esclusivamente presso i recapiti autorizzati; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    mantenere in buono stato di conservazione gli embrioni; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    certificare su appositi moduli forniti dalle regioni, l'intervento di impianto embrionale. 
+ 
+ ((1))
 
 --------------
                             AGGIORNAMENTO (1)
@@ -398,6 +1760,70 @@ L'allevatore puo' cedere ad altro allevatore embrioni prelevati dai propri anima
 ## - Capo V Certificazione degli interventi fecondativi e degli impianti embrionali
 
 ## Art. 33. — Certificazione degli interventi fecondativi
+
+1.
+                        
+                            
+                                Gli interventi fecondativi effettuati in stazioni di monta naturale pubblica o mediante l'inseminazione artificiale e gli impianti embrionali sono certificati su appositi modelli rilasciati dalle regioni, predisposti dal Ministero delle politiche agricole e forestali, uniformi per tutto il territorio nazionale e contenti i seguenti dati: 
+ 
+                            
+                            
+                                a)
+                                
+                                    specie, razza, nome e codice di identificazione del riproduttore maschio; indicazioni della partita e del centro di produzione di provenienza, nel caso di utilizzo di materiale seminale; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    identificazione della fattrice, qualora trattasi di bovini, bufalini, ovini, caprini e suini con le modalita' previste dall'articolo 4 del decreto del Presidente della Repubblica 30 aprile 1996, n. 317, e qualora trattasi di equini, sulla base delle modalita' previste dalle norme del competente libro genealogico o registro anagrafico; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    data dell'intervento fecondativo; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    nome, cognome, sottoscrizione e indicazione del codice del responsabile della certificazione.
+
+2.
+                        
+                            
+                                Responsabile della certificazione e della registrazione dei dati e': 
+ 
+                            
+                            
+                                a)
+                                
+                                    il veterinario o l'operatore pratico che ha eseguito l'intervento, nel caso dell'inseminazione artificiale; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il veterinario nel caso di impianto embrionale; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il gestore della stazione, nel caso della monta naturale pubblica; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    l'allevatore, solo nel caso della monta naturale privata e per le fattrici vendute gravide.
 
 Tutti gli atti fecondativi effettuati in monta naturale privata saranno registrati su un apposito registro aziendale, che deve contenere il codice attribuito all'azienda, la data di monta e codice identificativo del riproduttore fecondatore. Ove venga praticata la monta brada, vanno riportate, al posto della data di monta, le date di entrata e di uscita del maschio o della fattrice dal gruppo di monta, nonche' i codici identificativi di tutti i maschi inclusi nel gruppo di monta medesimo. Per le fattrici vendute gravide l'allevatore rilascia un certificato di atto fecondativo. Per gli allevamenti iscritti o sottoposti ai controlli funzionali la documentazione corrispondente rilasciata dal libro genealogico o dal registro anagrafico puo' sostituire il registro aziendale.
 
@@ -457,6 +1883,26 @@ Ciascuna regione provvede all'aggregazione dei dati trasmessi dai centri e recap
 
 La vigilanza sulla regolare applicazione della legge 15 gennaio 1991, n. 30 e del presente regolamento di esecuzione e' affidata, secondo le rispettive competenze, al Ministero delle politiche agricole e forestali, al Ministero della sanita', alle regioni, alle aziende sanitarie locali competenti per territorio ed a chiunque spetti di farla osservare.
 
+2.
+                        
+                            
+                                I titolari di allevamenti, di stazioni private e pubbliche di fecondazione, di stazioni di inseminazione artificiale, di centri di produzione dello sperma, di recapiti, di centri di produzione di embrioni e di gruppi di raccolta, devono: 
+ 
+                            
+                            
+                                a)
+                                
+                                    consentire il libero accesso agli impianti e ai locali di allevamento al personale incaricato della vigilanza per l'effettuazione delle verifiche e dei controlli; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    presentare tutti i documenti e fornire le informazioni richieste dall'autorita' competente. 
+ 
+ ((1))
+
 --------------
                             AGGIORNAMENTO (1)
                             
@@ -496,6 +1942,38 @@ Su richiesta dei gestori delle stazioni di monta e dei centri di produzione di s
  Annulla, per quanto di ragione, il predetto decreto del Ministro delle politiche agricole e forestali del 19 luglio 2000, n. 403".
 
 ## Art. 39. — Divieto di commercializzazione e obbligo di distruzione di materiale seminale ed embrionale difforme
+
+1.
+                        
+                            
+                                E' vietata la distribuzione e commercializzazione delle partite di materiale seminale, embrioni o altro materiale riproduttivo che: 
+ 
+                            
+                            
+                                a)
+                                
+                                    a seguito delle analisi a campione eseguite dall'Istituto sperimentale italiano "Lazzaro Spallanzani", non risultino conformi a quanto previsto dalle direttive tecniche emanate dal Ministero delle politiche agricole e forestali ai sensi dell'articolo 37, comma 3; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    non abbiano i requisiti sanitari previsti dalle vigenti disposizioni di legge; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    provengano da riproduttori privi dei requisiti genetici o sanitari previsti; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    provengano da riproduttori maschi risultati negativi a seguito di prove di valutazione genetica o, comunque, radiati dalla corrispondente sezione del libro genealogico.
 
 La distruzione delle dosi di materiale seminale e di embrioni che e' obbligatoria, deve avvenire, rispettivamente presso i centri di produzione dello sperma e presso quelli degli embrioni, alla presenza dei rappresentanti della regione competente per territorio e dell'associazione allevatori o di altro ente che tiene il libro genealogico o il registro anagrafico della razza o specie interessata.
 

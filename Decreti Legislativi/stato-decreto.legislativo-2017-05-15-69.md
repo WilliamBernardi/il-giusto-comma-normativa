@@ -8,8 +8,8 @@ vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
 vigenza_date: 2020-01-01
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:23Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -47,6 +47,28 @@ Le disposizioni di cui all'articolo 25-bis del decreto legislativo 14 settembre 
 
 ## Art. 2. — Disposizioni in materia di esodo e prepensionamento
 
+1.
+                        
+                            
+                                All'articolo 37 della legge 5 agosto 1981, n. 416 sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    al comma 1: 
+ 1) all'alinea, le parole: «al trattamento di cui all'articolo 35» sono sostituite dalle seguenti: «ai trattamenti di cui all'articolo 25-bis del decreto legislativo 14 settembre 2015, n. 148, comma 3, lettere a) e b), per i lavoratori poligrafici, e lettera a), per i giornalisti,»; 
+ 2) alla lettera a), le parole: «di cui al citato articolo 35» sono sostituite dalle seguenti: «di cui all'articolo 25-bis del decreto legislativo 14 settembre 2015, n. 148,»; 
+ 3) la lettera b) e' sostituita dalla seguente: 
+ «b) per i giornalisti professionisti iscritti all'INPGI, dipendenti dalle imprese editrici di giornali quotidiani, di giornali periodici e di agenzie di stampa a diffusione nazionale, di cui all'articolo 27, secondo comma, con almeno venticinque anni di anzianita' contributiva, limitatamente al numero di unita' ammesso dal Ministero del lavoro e delle politiche sociali, di concerto con il Ministero dell'economia e delle finanze, a seguito di accordi recepiti dal Ministero del lavoro e delle politiche sociali, sulla base delle risorse finanziarie disponibili e per i soli casi di riorganizzazione aziendale in presenza di crisi: anticipata liquidazione della pensione di vecchiaia nei cinque anni che precedono il raggiungimento dell'eta' fissata per il diritto alla pensione di vecchiaia nel regime previdenziale dell'INPGI, con integrazione a carico dello stesso Istituto di un numero massimo di cinque anni di anzianita' contributiva. Il requisito di anzianita' contributiva di cui al primo periodo e' progressivamente adeguato agli incrementi della speranza di vita ai sensi dell'articolo 12 del decreto-legge 31 maggio 2010, n. 78, convertito, con modificazioni, dalla legge 30 luglio 2010, n. 122.»; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    al comma 2, il secondo periodo e' sostituito dal seguente: «Per i giornalisti che abbiano raggiunto una eta' anagrafica la cui differenza con quella richiesta per l'accesso al trattamento pensionistico di vecchiaia sia inferiore a cinque anni, l'anzianita' contributiva e' maggiorata di un periodo pari a tale differenza, fermo restando il limite massimo di 360 contributi mensili.».
+
 ((
 
 I trattamenti di vecchiaia anticipata di cui all'articolo 37, comma 1, lettera b), della legge 5 agosto 1981, n. 416, sono erogati in favore di giornalisti dipendenti da aziende che abbiano presentato al Ministero del lavoro e delle politiche sociali, in data successiva al 31 dicembre 2019, piani di riorganizzazione o ristrutturazione aziendale che prevedono la contestuale assunzione, nel rapporto minimo di un'assunzione a tempo indeterminato ogni due prepensionamenti, di giovani di eta' non superiore a 35 anni, giornalisti o soggetti in possesso di competenze professionali coerenti con la realizzazione dei programmi di rilancio, riconversione digitale e sviluppo aziendale, come individuate dai predetti piani, ovvero di giornalisti che abbiano gia' in essere, con la stessa azienda o con azienda facente capo al medesimo gruppo editoriale, rapporti di lavoro autonomo di cui agli articoli 2222 e seguenti del codice civile, anche in forma di collaborazione coordinata e continuativa.
@@ -54,6 +76,24 @@ I trattamenti di vecchiaia anticipata di cui all'articolo 37, comma 1, lettera b
 2-bis. L'instaurazione di rapporti di lavoro dipendente o autonomo di cui agli articoli 2222 e seguenti del codice civile, anche in forma di collaborazione coordinata e continuativa, ovvero la sottoscrizione di contratti per la cessione del diritto d'autore, con i giornalisti che abbiano optato per i trattamenti di vecchiaia anticipata di cui al comma 2, comporta la revoca del finanziamento concesso, anche nel caso in cui il rapporto di lavoro sia instaurato con un'azienda diversa facente capo al medesimo gruppo editoriale))
 
 ## Art. 3. — Disposizioni transitorie
+
+1.
+                        
+                            
+                                Ai fini della anticipata liquidazione della pensione di vecchiaia nei confronti dei giornalisti interessati dai piani di cui all'articolo 1, commi da 226 a 232, della legge 11 dicembre 2016, n. 232, i cui accordi non siano stati recepiti in sede di Ministero del lavoro e delle politiche sociali ai sensi dell'articolo 37, comma 1, lettera b) della legge 5 agosto 1981, n. 416, alla data di entrata in vigore del presente decreto, si applicano i seguenti requisiti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    un'anzianita' contributiva pari almeno a 25 anni interamente accreditati presso l'INPGI; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    un'eta' anagrafica pari, negli anni 2017 e 2018, ad almeno 58 anni, se donne, e a 60 anni, se uomini.
 
 L'efficacia dell'inclusione degli accordi indicati al comma 1 e' in ogni caso subordinata al rispetto dei limiti di spesa programmati a legislazione vigente ai sensi dell'articolo 1, comma 226, della legge 11 dicembre 2016, n. 232, anche mediante incremento del contributo aggiuntivo a carico dei datori di lavoro di cui al comma 228 del citato articolo 1 della legge n. 232 del 2016 fino a totale copertura degli oneri conseguenti dal comma 1 per l'inclusione dei predetti accordi.
 

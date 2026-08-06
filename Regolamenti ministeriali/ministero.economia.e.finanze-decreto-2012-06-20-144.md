@@ -8,8 +8,8 @@ codice_redazionale: 012G0166
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:40Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -48,9 +48,312 @@ Possono chiedere l'iscrizione al Registro le persone fisiche che soddisfano i re
 ## Art. 3. — Contenuto della domanda di iscrizione 
  delle persone fisiche
 
+1.
+                        
+                            
+                                Nella domanda di iscrizione al Registro, i soggetti di cui all'articolo 2 comma 2 del decreto legislativo 27 gennaio 2010, n. 39 indicano, anche ai sensi del D.P.R. 28 dicembre 2000, n. 445, quanto segue: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il cognome, il nome, il luogo e la data di nascita; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la residenza, anche se all'estero, ed il domicilio in Italia, il domicilio fiscale se diverso, nonche' l'indirizzo presso il quale il revisore svolge la propria attivita'; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il codice fiscale e l'eventuale numero di partita IVA; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    l'indirizzo di posta elettronica certificata; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    il titolo di studio conseguito; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    di aver svolto il tirocinio previsto dall'articolo 3 del decreto legislativo 27 gennaio 2010, n. 39; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    di aver superato l'esame previsto dall'articolo 4, del decreto legislativo 27 gennaio 2010, n. 39; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    l'amministrazione o l'ente di appartenenza, se il richiedente e' pubblico dipendente; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    il nome, il numero di iscrizione, l'indirizzo e il sito internet dell'eventuale societa' di revisione presso la quale il revisore svolge attivita' di revisione legale o della quale e' socio o amministratore; 
+
+                                
+                            
+                            
+                                j)
+                                
+                                    ogni altra eventuale iscrizione in albi o registri di revisori legali o di revisori dei conti in altri Stati membri dell'Unione europea o in Paesi terzi, con l'indicazione dei numeri di iscrizione e delle autorita' competenti alla tenuta degli albi o registri; 
+
+                                
+                            
+                            
+                                k)
+                                
+                                    di essere in possesso dei requisiti di onorabilita' definiti con regolamento adottato dal Ministro dell'economia e delle finanze, sentita la Consob, ai sensi dell'articolo 2, comma 2, lettera a) del decreto legislativo 27 gennaio 2010, n. 39; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    l'indirizzo presso il quale intende ricevere le eventuali comunicazioni inerenti al registro ed il recapito telefonico; 
+
+                                
+                            
+                            
+                                m)
+                                
+                                    l'eventuale rete di appartenenza, cosi' come definita nell'articolo 1, comma 1, lettera l), del decreto legislativo 27 gennaio 2010, n. 39 e nel Regolamento attuativo di cui all'articolo 10, comma 13, del decreto legislativo 27 gennaio 2010, n. 39; 
+
+                                
+                            
+                            
+                                n)
+                                
+                                    la dichiarazione di impegno a comunicare ogni eventuale variazione delle informazioni di cui ai punti precedenti; 
+
+                                
+                            
+                            
+                                o)
+                                
+                                    di aver provveduto al versamento del contributo di iscrizione di cui all'articolo 7 del presente regolamento, indicando gli estremi identificativi della transazione necessari per identificare in maniera univoca l'avvenuto pagamento.
+
+2.
+                        
+                            
+                                Nella domanda di iscrizione al Registro, i soggetti di cui all'articolo 2 comma 3 lettera a) del decreto legislativo 27 gennaio 2010, n. 39 indicano, anche ai sensi del D.P.R. 28 dicembre 2000, n. 445, quanto segue: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il cognome, il nome, il luogo e la data di nascita; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la residenza, anche se all'estero, ed il domicilio in Italia, nonche', se diverso il domicilio fiscale; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il codice fiscale ed il numero di partita IVA; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    l'indirizzo di posta elettronica certificata; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    il titolo di studio conseguito; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    il numero di iscrizione nel registro previsto ai fini dell'esercizio della revisione legale nel Paese di origine e l'indicazione dell'autorita' competente alla tenuta dell'albo o registro; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    ogni altra eventuale iscrizione in albi o registri di revisori legali o di revisori dei conti in altri Stati membri dell'Unione europea o in Paesi terzi, con l'indicazione dei numeri di iscrizione e delle autorita' competenti alla tenuta degli albi o registri; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    l'indirizzo presso il quale intende ricevere eventuali comunicazioni inerenti al registro ed il recapito telefonico; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    l'eventuale rete di appartenenza cosi' come definita nell'articolo 1, comma 1, lettera l), del decreto legislativo 27 gennaio 2010, n. 39 e nel Regolamento attuativo di cui all'articolo 10, comma 13, del decreto legislativo 27 gennaio 2010, n. 39; 
+
+                                
+                            
+                            
+                                j)
+                                
+                                    la dichiarazione di impegno a comunicare ogni eventuale variazione delle informazioni di cui ai punti precedenti; 
+
+                                
+                            
+                            
+                                k)
+                                
+                                    di aver provveduto al versamento del contributo di iscrizione di cui all'articolo 7 del presente regolamento, indicando gli estremi identificativi della transazione necessari per identificare in maniera univoca l'avvenuto pagamento; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    di aver superato la prova attitudinale prevista dall'articolo 2 comma 3, lettera a) del decreto legislativo 27 gennaio 2010, n. 39 e dal relativo Regolamento attuativo;
+
+3.
+                        
+                            
+                                Nella domanda di iscrizione al Registro, i soggetti di cui all'articolo 2 comma 3 lettera b) del decreto legislativo 27 gennaio 2010, n. 39, indicano, anche ai sensi del D.P.R. 28 dicembre 2000, n. 445, quanto segue: 
+ 
+                            
+                            
+                                a)
+                                
+                                    le informazioni di cui ai punti da a) a k) del comma precedente; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    di aver superato la prova attitudinale prevista dall'articolo 2 comma 3, lettera b) del decreto legislativo 27 gennaio 2010, n. 39 e dal relativo Regolamento attuativo; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    di essere in regola con gli obblighi di aggiornamento professionale previsti nel Paese terzo.
+
 ## Art. 4.
 
 Contenuto della domanda di iscrizione delle societa'
+
+1.
+                        
+                            
+                                Nella domanda di iscrizione nel Registro, i legali rappresentanti dei soggetti di cui all'articolo 2 comma 4 del decreto legislativo 27 gennaio 2010, n. 39 dichiarano, anche ai sensi del D.P.R. 28 dicembre 2000, n. 445, quanto segue: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la denominazione o la ragione sociale; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'indirizzo della sede e di tutti gli uffici con rappresentanza stabile in Italia; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    i riferimenti necessari per contattare la societa', l'indirizzo di posta elettronica certificata e l'eventuale sito internet, il nome del referente ed ogni altra informazione utile che consenta di comunicare con la societa'; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    il numero di partita IVA e/o il codice fiscale della societa'; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    il nome, cognome ed il numero di iscrizione nel Registro, dei revisori legali soci o amministratori della societa' di revisione, degli altri revisori legali che svolgono attivita' di revisione legale presso la societa', nonche' di coloro che rappresentano la societa' nella revisione legale, con l'indicazione di eventuali provvedimenti in essere, assunti ai sensi degli articoli 24 comma 1, lettere b) e d) e 26, comma 1, lettere c) e d), del decreto legislativo 27 gennaio 2010, n. 39; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    il nome, cognome e domicilio in Italia dei componenti del consiglio di amministrazione o del consiglio di gestione diversi da quelli di cui alla lettera e), con l'indicazione di ogni eventuale iscrizione in albi o registri di revisori legali o di revisori dei conti in altri Stati membri dell'Unione europea o in Paesi terzi, specificando gli eventuali numeri di iscrizione e delle autorita' competenti alla tenuta degli albi o registri medesimi; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    il nome, cognome e domicilio dei soci diversi da quelli di cui alla lettera e), con l'indicazione di ogni eventuale iscrizione in albi o registri di revisori legali o di revisori dei conti in altri Stati membri dell'Unione europea o in Paesi terzi, con l'indicazione dei numeri di iscrizione e delle autorita' competenti alla tenuta degli albi o registri medesimi; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    ogni altra eventuale iscrizione della societa' in albi o registri di revisione legale o di revisione dei conti in altri Stati membri dell'Unione europea o in Paesi terzi, con l'indicazione dei numeri di iscrizione e delle autorita' competenti alla tenuta degli albi o registri medesimi; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    la sussistenza di ciascuna delle condizioni previste nell'articolo 2, comma 4 del decreto legislativo 27 gennaio 2010, n. 39 e dal relativo Regolamento attuativo; 
+
+                                
+                            
+                            
+                                j)
+                                
+                                    la denominazione della eventuale rete a cui la societa' appartiene, cosi' come definita nell'articolo 1, comma 1, lettera l), del decreto legislativo 27 gennaio 2010, n. 39 e nel Regolamento attuativo di cui all'articolo 10, comma 13, del decreto legislativo 27 gennaio 2010, n. 39, con l'indicazione dei nomi e degli indirizzi di tutte le altre societa' appartenenti alla rete e delle affiliate, ovvero, in alternativa, l'indicazione del sito internet o altro luogo gestito dalla rete e destinato a raccogliere e rendere accessibili al pubblico tali informazioni; 
+
+                                
+                            
+                            
+                                k)
+                                
+                                    di aver provveduto al versamento del contributo di iscrizione di cui all'articolo 7 del presente regolamento, indicando gli estremi identificativi della transazione necessari per identificare in maniera univoca l'avvenuto pagamento.
 
 ## Art. 5. — Presentazione della domanda 
  di iscrizione delle persone fisiche
@@ -106,6 +409,24 @@ L'iscrizione al Registro dei revisori legali decorre dalla data di pubblicazione
 ## - Capo IV Cancellazione dal registro dei revisori
 
 ## Art. 10. — Cancellazione
+
+1.
+                        
+                            
+                                Al di fuori delle fattispecie sanzionatorie di cancellazione previste dal capo VIII del decreto legislativo 27 gennaio 2010, n. 39, il Ministero dell'economia e delle finanze, Ragioneria Generale dello Stato, Ispettorato Generale di Finanza, sentita la Commissione istituita ai sensi dell'articolo 42 del predetto decreto legislativo, dispone con proprio decreto la cancellazione del revisore o della societa' di revisione nei seguenti casi: 
+ 
+                            
+                            
+                                a)
+                                
+                                    su richiesta dell'interessato, previa dimostrazione che non siano in corso, alla data di presentazione dell'istanza, incarichi di revisione legale, anche tenuto conto di quanto previsto all'articolo 13, comma 6, del decreto legislativo 27 gennaio 2010, n. 39; la cancellazione del revisore non puo' comunque essere disposta se e' in corso nei suoi confronti un procedimento sanzionatorio ai sensi dell'articolo 25 del citato decreto legislativo o dell'articolo 195 del TUIF; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    quando sia venuta meno una delle condizioni o dei requisiti previsti per l'iscrizione al Registro dei revisori legali, ovvero quando l'interessato abbia ottenuto la predetta iscrizione attraverso false dichiarazioni o attestazioni mendaci.
 
 La cancellazione dal registro dei revisori e' disposta d'ufficio nei casi di morte o interdizione legale del revisore, ovvero nei casi di estinzione della societa' di revisione.
 

@@ -8,8 +8,8 @@ codice_redazionale: 070U0112
 vigente: true
 source: normattiva-opendata
 collection: DPR
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:47:58Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -21,4 +21,31 @@ Pietro, nel comune di Brusasco Cavagnolo, e della unione della prima con quella 
 ## Art. 1.
 
 N.
+
+112.
+                    
+                        
+                            Decreto del Presidente della Repubblica 11 febbraio 1970, col quale, sulla proposta del Ministro per l'interno, viene riconosciuto, agli effetti civili, il decreto dell'Ordinario diocesano di Casale Monferrato in data 15 gennaio 1969, col quale sono state disposte: 
+                        
+                        
+                            a)
+                            
+                                la separazione delle parrocchie di S.
+ Pietro, in localita' Collegna del comune di Verrua Savoia (Torino), e di S. Pietro, in frazione Marcorengo del comune di Brusasco Cavagnolo (Torino);
+                            
+                        
+                        
+                            b)
+                            
+                                l'unione "aeque principalis" delle parrocchie di S. Pietro, in localita' Collegna del comune di Verrua Savoia (Torino), e di S. Giovanni, nello stesso comune;
+                            
+                        
+                        
+                            c)
+                            
+                                l'unione "aeque principalis" delle parrocchie di S. Pietro, in frazione Marcorengo del comune di Brusasco Cavagnolo, e di S. Giorgio, in Brozolo (Torino).
+
+Visto, il Guardasigilli: GAVA
+ Registrato alla Corte dei conti, addi' 2 aprile 1970
+ Atti del Governo, registro n. 234, foglio n. 87. - CARUSO
 

@@ -8,8 +8,8 @@ codice_redazionale: 093G0271
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:38Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -51,7 +51,70 @@ Le disposizioni di legge richiamate al precedente comma stabiliscono i soggetti 
 
 ## Art. 2. — Soggetti tenuti al pagamento del contributo
 
+1.
+                    
+                        
+                            Sono tenuti al pagamento del contributo per le prestazioni del Servizio sanitario nazionale con le modalita' stabilite con il presente regolamento, fatto salvo il disposto del comma 1 dell'art. 31 della legge 28 febbraio 1986, n. 41, e del comma 13 dell'art. 5 della legge 29 dicembre 1990, n. 407, i seguenti soggetti: 
+ 
+                        
+                        
+                            a)
+                            
+                                artigiani e loro rispettivi familiari coadiutori; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                esercenti attivita' commerciali e loro rispettivi familiari coadiutori; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                liberi professionisti iscritti nei relativi albi; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                lavoratori dipendenti e pensionati, in possesso di altri redditi diversi da quelli di lavoro dipendente e di pensione; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                coltivatori diretti, mezzadri, coloni e rispettivi concedenti, nonche' i componenti attivi dei rispettivi nuclei familiari; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                soggetti, diversi da quelli indicati alle precedenti lettere da a) ad e), non tenuti all'iscrizione a forme obbligatorie di previdenza, per i quali la partecipazione contributiva all'assistenza sanitaria e' regolata dall'art. 63 della legge 23 dicembre 1978, n. 833, e successive modificazioni (cittadini non mutuati); 
+
+                            
+                        
+                        
+                            g)
+                            
+                                cittadini stranieri residenti in Italia.
+
 ## Art. 3. — Base imponibile e periodo di commisurazione del contributo
+
+1.
+                    
+                        
+                            Per i soggetti indicati alle lettere da 
+                        
+                        
+                            a)
+                            
+                                ad f) dell'art. 2, il contributo e' applicato, nelle misure e nei limiti di reddito indicati all'art. 31, commi 8, 9, 11, 13 e 14 della legge 28 febbraio 1986, n. 41, e successive modificazioni, sul reddito complessivo ai fini dell'IRPEF determinato ai sensi dell'art. 8 del testo unico delle imposte sui redditi approvato con decreto del Presidente della Repubblica 22 dicembre 1986, n. 917. Per i redditi di lavoro dipendente e di pensione, posseduti unitamente ad altri redditi, restano ferme le disposizioni vigenti alla data di entrata in vigore del presente regolamento relativamente alla esclusione dei redditi stessi dalla formazione della base imponibile, nonche' alla loro rilevanza ai fini dell'applicazione delle aliquote del contributo; l'importo di tali redditi e' computato al lordo dei contributi previdenziali e assistenziali a carico del dipendente o pensionato.
 
 Per i soggetti indicati alla lettera f) dell'art. 2, che siano tenuti al pagamento del contributo per un periodo inferiore all'anno, il contributo e' determinato ai sensi dell'art. 31, comma 11, della legge n. 41 del 1986, al netto delle somme gia' pagate a titolo di contributo per le prestazioni del Servizio sanitario nazionale.
 
@@ -70,6 +133,31 @@ Per i soggetti, tenuti a corrispondere il contributo, che adempiano agli obbligh
 
 ## Art. 5. — Liquidazione ed accertamento del contributo
 
+1.
+                    
+                        
+                            In sede di controllo delle dichiarazioni presentate ai fini dell'IRPEF, l'Amministrazione finanziaria provvede secondo le disposizioni dell'art. 36- bis del decreto del Presidente della Repubblica 29 settembre 1973, n. 600: 
+ 
+                        
+                        
+                            a)
+                            
+                                alla liquidazione del contributo dovuto per le prestazioni del Servizio sanitario nazionale risultante dalla dichiarazione dei redditi; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al recupero del contributo dovuto e non versato, previa determinazione, ove occorra, dell'imponibile, sulla base dei dati risultanti dalla dichiarazione dei redditi; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                al rimborso del contributo versato in eccedenza sulla scorta dei dati e degli elementi dichiarati.
+
 Le rettifiche e gli accertamenti eseguiti ai sensi degli articoli 38, 39, 41 e 41- bis del decreto del Presidente della Repubblica 29 settembre 1973, n. 600, spiegano efficacia anche con riguardo al contributo per le prestazioni del Servizio sanitario nazionale. A tal fine l'avviso di accertamento di cui all'art. 42 del predetto decreto e' integrato con l'indicazione della base imponibile, dell'importo relativo al contributo medesimo e delle aliquote applicate.
 
 L'Amministrazione finanziaria, sulla base delle disposizioni di cui all'art. 37 del decreto del Presidente della Repubblica 29 settembre 1973, n. 600, puo' effettuare accertamenti per il recupero del contributo per le prestazioni del Servizio sanitario nazionale indipendentemente dall'esercizio dei poteri di accertamento di cui al comma 2. In tali casi devono essere notificati appositi avvisi, con l'osservanza delle prescrizioni contenute nell'art. 42 del decreto del Presidente della Repubblica n. 600 del 1973.
@@ -79,6 +167,32 @@ Gli accertamenti relativi al contributo dovuto con riferimento ai soggetti indic
 Al fine di verificare l'osservanza dell'obbligo di pagamento del contributo, l'Amministrazione finanzaria puo' avvalersi dei dati in possesso di enti ed organismi che gestiscono forme di previdenza relativamente ai soggetti indicati all'art. 2 del presente regolamento. Per lo scambio di informazioni tra l'Amministrazione finanziaria ed i predetti enti ed organismi si applicano, in quanto compatibili, i commi da 11 a 12-quinquies dell'art. 3 del decreto- legge 29 marzo 1991, n. 103, convertito con modificazioni dalla legge 1 giugno 1991, n. 166. E' fatta salva, in ogni caso, la facolta' prevista dall'art. 32, primo comma, n. 5, e dall'art. 33, secondo comma, del decreto del Presidente della Repubblica 29 settembre 1973, n. 600.
 
 ## Art. 6. — Riscossione del contributo
+
+1.
+                    
+                        
+                            Il contributo per le prestazioni del Servizio sanitario nazionale e' corrisposto mediante: 
+ 
+                        
+                        
+                            a)
+                            
+                                versamento diretto al concessionario competente secondo il domicilio fiscale del soggetto obbligato; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                versamento alle sezioni di tesoreria provinciale dello Stato operanti presso i capoluoghi di regione e le province autonome di Trento e Bolzano, mediante delega irrevocabile alle aziende di credito indicate all'art. 3- bis del decreto del Presidente della Repubblica 29 settembre 1973, n. 602; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                versamento alle sezioni di tesoreria provinciale dello Stato operanti presso i capoluoghi di regione e le province autonome di Trento e Bolzano, mediante delega irrevocabile all'amministrazione postale. 
+ Per i cittadini stranieri residenti in Italia, ai quali, ai sensi del comma 3 dell'art. 3, non si applicano le disposizioni del presente regolamento, il versamento del contributo va effettuato, con la modalita' di cui al punto c).
 
 Il contributo per le prestazioni del Servizio sanitario nazionale e' versato, con le modalita' previste per l'IRPEF, a titolo di acconto nell'anno cui il contributo si riferisce secondo quanto stabilito dal successivo comma 4, e a saldo entro il termine previsto per il pagamento delle imposte dovute a saldo in base alla dichiarazione dei redditi.
 
@@ -112,6 +226,16 @@ Ai fini dell'irrogazione delle sanzioni si estendono al contributo, in quanto ap
 Nei casi previsti al comma 1, nonche' in caso di accertamento di cui ai commi 2 e 3 dell'art. 5, si applicano le disposizioni degli articoli 9, 20 e 21 del decreto del Presidente della Repubblica n. 602 del 1973.
 
 ## Art. 8. — Disposizioni transitorie
+
+1.
+                    
+                        
+                            In applicazione dei commi 1 e 3 dell'art. 14 della legge 30 dicembre 1991, n. 413, per i soggetti indicati alle lettere da 
+                        
+                        
+                            a)
+                            
+                                a e) dell'art. 2, i versamenti del contributo per le prestazioni del Servizio sanitario nazionale da effettuare nell'anno 1992 secondo le disposizioni vigenti alla data di entrata in vigore di detta legge, costituiscono versamenti a titolo di acconto del contributo dovuto per lo stesso anno 1992. Il saldo del versamento deve essere effettuato entro il termine previsto per il pagamento delle imposte dovute a saldo in base alla dichiarazione dei redditi relativa al periodo d'imposta 1992, salvo il diritto al rimborso in caso di eccedenza.
 
 Per i soggetti indicati alla lettera f) dell'art. 2 e per i cittadini stranieri di cui alla lettera g) dello stesso articolo ad essi assimilati, i versamenti del contributo da effettuare nel 1992 secondo le disposizioni vigenti alla data di entrata in vigore della legge n. 413 del 1991, costituiscono versamenti a titolo definitivo in quanto relativi all'anno 1991. Il versamento del contributo per l'anno 1992 va effettuato in unica soluzione entro il termine previsto per il pagamento delle imposte dovute a saldo in base alla dichiarazione dei redditi relativa al periodo d'imposta 1992.
 

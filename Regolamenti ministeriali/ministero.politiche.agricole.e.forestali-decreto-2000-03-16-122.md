@@ -8,8 +8,8 @@ codice_redazionale: 000G0170
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:38Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -79,6 +79,23 @@ In deroga all'articolo 4, paragrafo 1, del regolamento (CE) n. 1254/1999, e in a
 
 Per poter beneficiare del premio, il produttore deve presentare apposita richiesta di aiuto, nonche' domanda di pagamento per superficie, ai sensi dell'articolo 2, paragrafo 1, del regolamento (CE) n. 1251/1999 del Consiglio del 17 maggio 1999. Sono esentati dalla presentazione della domanda di pagamenti per superficie i produttori che dispongono di un numero di capi da prendere in considerazione per la determinazione del coefficiente di densita' non superiore alle 15 UBA (unita' bovini adulti).
 
+2.
+                        
+                            
+                                In particolare, non possono beneficiare del premio:
+
+                            
+                            
+                                a)
+                                
+                                    le aziende che allevino esclusivamente vacche appartenenti alle razze riportate nell'allegato 1;
+                                
+                            
+                            
+                                b)
+                                
+                                    le aziende titolari di un quantitativo di riferimento latte complessivo totale superiore a 120.000 kg ai sensi dell'articolo 16, paragrafo 3, del regolamento (CE) n. 1255/1999 del Consiglio del 17 maggio 1999.
+
 La limitazione di cui al comma 2, lettera b), non si applica alle aziende che effettuino esclusivamente vendite dirette, le quali ricadano nelle norme di cui all'articolo 6, paragrafo 2, lettera a), comma 2, del regolamento (CE) n. 1254/1999. In tal caso le aziende devono disporre comunque di superfici foraggiere sufficienti sia alla produzione di latte che all'allevamento dei capi per i quali il premio e' richiesto ed i richiedenti il premio devono impegnarsi a non effettuare consegne di latte ne' di prodotti lattiero-caseari per un periodo di 12 mesi a decorrere dalla data di presentazione della domanda.
 
 ## Art. 9. — Presentazione delle domande
@@ -92,6 +109,35 @@ All'importo del premio per capo fissato all'articolo 6, paragrafo 4, del regolam
 ## Art. 11. — Massimali individuali
 
 Per l'anno 2000, l'A.I.M.A. in liquidazione calcola per i singoli produttori i massimali individuali, che sono pari a quelli loro spettanti al 31 dicembre 1999.
+
+2.
+                        
+                            
+                                Il Ministero delle politiche agricole e forestali, qualora la somma dei diritti ridistribuiti superi il massimale nazionale di 621.611 diritti, provvede ad operare anche attraverso l'organismo pagatore una riduzione tenendo conto dei seguenti criteri oggettivi:
+
+                            
+                            
+                                a)
+                                
+                                    tasso di utilizzazione dei rispettivi massimali individuali da parte dei produttori durante i tre anni di riferimento precedenti il 2000;
+                                
+                            
+                            
+                                b)
+                                
+                                    realizzazione di un programma di investimenti o di estensivizzazione, ai sensi del regolamento (CE) n. 1257/1999 del Consiglio del 17 maggio 1999, nel settore delle carni bovine;
+                                
+                            
+                            
+                                c)
+                                
+                                    particolari circostanze naturali o l'applicazione di sanzioni, che abbiano causato il mancato versamento o un ridotto versamento del premio per almeno un anno di riferimento;
+                                
+                            
+                            
+                                d)
+                                
+                                    altre circostanze eccezionali, in seguito alle quali i pagamenti effettuati per almeno un anno di riferimento non corrispondono alla reale situazione contestata durante gli anni precedenti.
 
 L'A.I.M.A. in liquidazione comunica ai singoli produttori i massimali individuali spettanti a partire dal 1o gennaio 2000.
 
@@ -112,6 +158,29 @@ I diritti al premio attribuiti ad ogni singolo produttore possono essere trasfer
 
 Qualora un produttore non utilizzi nel corso di ogni anno almeno il 90% dei propri diritti, la quota non utilizzata viene riversata nella riserva nazionale, salvo i casi previsti all'articolo 23, paragrafo 2, del regolamento (CE) n. 2342/1999.
 
+3.
+                        
+                            
+                                A tal fine viene considerato come utilizzato:
+
+                            
+                            
+                                a)
+                                
+                                    il numero dei capi eleggibili al premio a seguito dei controlli amministrativi;
+                                
+                            
+                            
+                                b)
+                                
+                                    il numero di capi oggetto di una cessione temporanea, da parte del cedente;
+                                
+                            
+                            
+                                c)
+                                
+                                    il numero di capi riscontrato a controllo in caso di accertamento in azienda.
+
 In caso di cessione temporanea, qualora colui che riceve i diritti non utilizzi almeno il 90% della quota a propria disposizione, verranno ritirati in via prioritaria i diritti di sua proprieta' e, in subordine, anche quelli ricevuti temporaneamente, fino a copertura della quota non utilizzata.
 
 I trasferimenti dei diritti al premio, come pure le cessioni temporanee, non possono diventare effettivi prima della notifica congiunta all'organismo pagatore da parte del produttore che trasferisce e di colui che riceve i diritti al premio, effettuata con le modalita' fissate ai sensi dell'articolo 5.
@@ -129,6 +198,40 @@ Le zone sensibili e le aree in cui la produzione bovina riveste particolare impo
 ## Art. 14. — Beneficiari e importo del premio
 
 I produttori di bovini maschi e/o di vacche nutrici possono accedere al premio di estensivizzazione di cui all'articolo 13 del regolamento (CE) n. 1254/1999, come integrazione del premio speciale e/o del premio per le vacche nutrici, a condizione che il carico di bestiame ad ettaro calcolato in funzione del successivo comma 2, sia rispettato dal 1o gennaio al 31 dicembre dell'anno in cui viene presentata la domanda.
+
+2.
+                        
+                            
+                                Per gli anni 2000 e 2001 l'importo del premio e' pari a:
+
+                            
+                            
+                                a)
+                                
+                                    33 euro/capo per coefficiente di densita' tra 1,6 e 2 UBA/ha;
+                                
+                            
+                            
+                                b)
+                                
+                                    66 euro/capo per coefficiente di densita' inferiore a 1,6 UBA/ha.
+
+3.
+                        
+                            
+                                Per gli anni 2002 e successivi l'importo del premio e' pari a:
+
+                            
+                            
+                                a)
+                                
+                                    40 euro/capo per coefficiente di densita' tra 1,4 e 1,8 UBA/ha;
+                                
+                            
+                            
+                                b)
+                                
+                                    80 euro/capo per coefficiente di densita' inferiore a 1,4 UBA/ha.
 
 ## Art. 15. — Animali ammissibili e determinazione della superficie foraggera
 
@@ -163,13 +266,111 @@ Il pagamento dell'aiuto e' condizionato alla verifica presso la banca dati centr
 
 I responsabili delle strutture di macellazione presso le quali vengono abbattuti gli animali oggetto di richiesta di premio devono redigere una dichiarazione da far pervenire all'organismo pagatore, il piu' rapidamente possibile e comunque anteriormente alla data di presentazione delle prime domande di premio per gli animali abbattuti presso lo stesso stabilimento di macellazione.
 
+5.
+                        
+                            
+                                Le strutture di macellazione devono disporre di un registro di macellazione che riporti almeno le seguenti informazioni:
+
+                            
+                            
+                                a)
+                                
+                                    numero di identificazione e numero di macellazione di ciascun animale;
+                                
+                            
+                            
+                                b)
+                                
+                                    peso carcassa dell'animale cosi' come prescritto dall'articolo 36 del regolamento (CE) n. 2342/1999;
+                                
+                            
+                            
+                                c)
+                                
+                                    data di macellazione, Paese di provenienza dell'animale;
+                                
+                            
+                            
+                                d)
+                                
+                                    codice dell'ultima azienda di provenienza dell'animale.
+
 Le modalita' di applicazione dell'articolo 35 del regolamento CE n. 2342/1999 sono determinate ai sensi dell'articolo 5, paragrafo 1.
 
 ## - Sezione VI Regime di pagamenti supplementari
 
 ## Art. 19. — Beneficiari, animali ammessi ed importi
 
+1.
+                        
+                            
+                                I produttori possono usufruire di pagamenti supplementari di cui all'articolo 14 del regolamento (CE) n. 1254/1999, che ammontano a:
+
+                            
+                            
+                                a)
+                                
+                                    21,9 Meuro, per l'anno 2000;
+                                
+                            
+                            
+                                b)
+                                
+                                    43,7 Meuro, per il 2001;
+                                
+                            
+                            
+                                c)
+                                
+                                    65,6 Meuro, per il 2002 e anni successivi.
+
+2.
+                        
+                            
+                                La somma globale va ripartita esclusivamente tra le seguenti categorie:
+
+                            
+                            
+                                a)
+                                
+                                    animali maschi della specie bovina di eta' superiore ad 8 mesi;
+                                
+                            
+                            
+                                b)
+                                
+                                    vacche di razze specializzate da carne;
+                                
+                            
+                            
+                                c)
+                                
+                                    giovenche di razze specializzate da carne.
+
 ## Art. 20. — Animali maschi della specie bovina
+
+1.
+                        
+                            
+                                Le somme riservate agli animali maschi della specie bovina sono pari a:
+
+                            
+                            
+                                a)
+                                
+                                    18,9 Meuro per l'anno 2000;
+                                
+                            
+                            
+                                b)
+                                
+                                    36,2 Meuro per l'anno 2001;
+                                
+                            
+                            
+                                c)
+                                
+                                    54,1 Meuro per l'anno 2002 e successivi.
 
 Gli importi supplementari di cui al comma 1, sono concessi come integrazione del premio alla macellazione per tutti gli animali di eta' uguale o superiore agli otto mesi.
 
@@ -185,6 +386,29 @@ Per l'anno 2001 e successivi i pagamenti supplementari possono essere corrispost
 
 ## Art. 21. — Vacche e giovenche di razze specializzate da carne
 
+1.
+                        
+                            
+                                Per gli animali femmine di cui al comma 2, lettere b) e c) dell'articolo 20, la dotazione finanziaria massima resa disponibile e' pari a:
+
+                            
+                            
+                                a)
+                                
+                                    3 Meuro, per l'anno 2000;
+                                
+                            
+                            
+                                b)
+                                
+                                    7,5 Meuro, per l'anno 2001;
+                                
+                            
+                            
+                                c)
+                                
+                                    11,5 Meuro, per l'anno 2002 e successivi.
+
 Obiettivo della destinazione finanziaria di cui al comma 1 e' quello di tutelare talune peculiarita' produttive nazionali che perseguono con la loro attivita' di allevamento la salvaguardia ambientale nonche' il mantenimento e l'eventuale incremento della produzione nazionale di carne proveniente da razze specializzate.
 
 Il pagamento dell'aiuto e' condizionato alla verifica presso la banca dati centralizzata di cui al regolamento (CE) n. 820/97, dell'avvenuta registrazione della marca e dei relativi periodi di permanenza nella stalla.
@@ -194,6 +418,29 @@ I pagamenti sono effettuati dall'organismo pagatore come integrazione di premio 
 Le razze specializzate da carne e le modalita' di applicazione del presente articolo sono definite, ai sensi dell'articolo 5, comma 1.
 
 ## Art. 22. — Determinazione importi di premio
+
+1.
+                        
+                            
+                                L'organismo pagatore, sulla base del numero di capi pagabili di cui al punto 2, lettere b) e c) dell'articolo 20, calcola l'importo unitario di premio che comunque non puo' essere superiore a:
+
+                            
+                            
+                                a)
+                                
+                                    31 euro/capo per l'anno 2000;
+                                
+                            
+                            
+                                b)
+                                
+                                    43 euro/capo per l'anno 2001;
+                                
+                            
+                            
+                                c)
+                                
+                                    62 euro/capo per l'anno 2002 e successivi.
 
 Qualora per gli animali femmine il numero di premi pagabili comporti economie rispetto alle dotazioni finanziarie rese disponibili, queste si aggiungono alle somme riservate alla categoria dei bovini maschi di cui all'articolo 20, comma 2, lettera a), del presente regolamento.
 

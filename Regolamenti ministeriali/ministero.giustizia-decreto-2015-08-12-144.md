@@ -8,8 +8,8 @@ vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
 vigenza_date: 2020-12-27
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:41Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -43,7 +43,296 @@ Il titolo di avvocato specialista e' conferito dal Consiglio nazionale forense i
 
 ((
 
+1.
+                        
+                            
+                                L'avvocato puo' conseguire il titolo di specialista in non piu' di due dei seguenti settori di specializzazione: 
+ 
+                            
+                            
+                                a)
+                                
+                                    diritto civile; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    diritto penale; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    diritto amministrativo; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    diritto del lavoro e della previdenza sociale; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    diritto tributario, doganale e della fiscalita' internazionale; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    diritto internazionale; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    diritto dell'Unione europea; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    diritto dei trasporti e della navigazione; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    diritto della concorrenza; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    diritto dell'informazione, della comunicazione digitale e della protezione dei dati personali; 
+
+                                
+                            
+                            
+                                m)
+                                
+                                    diritto della persona, delle relazioni familiari e dei minorenni; 
+
+                                
+                            
+                            
+                                n)
+                                
+                                    tutela dei diritti umani e protezione internazionale; 
+
+                                
+                            
+                            
+                                o)
+                                
+                                    diritto dello sport.
+
 Nei settori di cui alle lettere a), b) e c) il titolo di specialista si acquisisce a seguito della frequenza con profitto dei percorsi formativi ovvero dell'accertamento della comprovata esperienza relativamente ad almeno uno degli indirizzi di specializzazione indicati nei commi 3, 4 e 5, in conformita' alle disposizioni del presente regolamento.
+
+3.
+                        
+                            
+                                Al settore del diritto civile afferiscono i seguenti indirizzi: 
+ 
+                            
+                            
+                                a)
+                                
+                                    diritto successorio; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    diritti reali, condominio e locazioni; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    diritto dei contratti; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    diritto della responsabilita' civile, della responsabilita' professionale e delle assicurazioni; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    diritto agrario; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    diritto commerciale e societario; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    diritto industriale, della proprieta' intellettuale e dell'innovazione tecnologica; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    diritto della crisi di impresa e dell'insolvenza; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    diritto dell'esecuzione forzata; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    diritto bancario e dei mercati finanziari; 
+
+                                
+                            
+                            
+                                m)
+                                
+                                    diritto dei consumatori.
+
+4.
+                        
+                            
+                                Al settore del diritto penale afferiscono i seguenti indirizzi: 
+ 
+                            
+                            
+                                a)
+                                
+                                    diritto penale della persona; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    diritto penale della pubblica amministrazione; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    diritto penale dell'ambiente, dell'urbanistica e dell'edilizia; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    diritto penale dell'economia e dell'impresa; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    diritto penale della criminalita' organizzata e delle misure di prevenzione; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    diritto dell'esecuzione penale; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    diritto penale dell'informazione, di internet e delle nuove tecnologie.
+
+5.
+                        
+                            
+                                Al settore del diritto amministrativo afferiscono i seguenti indirizzi: 
+ 
+                            
+                            
+                                a)
+                                
+                                    diritto del pubblico impiego e della responsabilita' amministrativa; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    diritto urbanistico, dell'edilizia e dei beni culturali; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    diritto dell'ambiente e dell'energia; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    diritto sanitario; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    diritto dell'istruzione; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    diritto dei contratti pubblici e dei servizi di interesse economico generale; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    diritto delle autonomie territoriali e del contenzioso elettorale; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    contabilita' pubblica e contenzioso finanziario-statistico.
 
 ))
 
@@ -60,6 +349,31 @@ I consigli dell'ordine formano e aggiornano, a norma dell'articolo 15, comma 1, 
 ## Art. 6. — Disposizioni comuni
 
 Per conseguire il titolo di avvocato specialista in uno dei settori di specializzazione previsti dall'articolo 3, l'interessato deve presentare domanda presso il consiglio dell'ordine d'appartenenza che, verificata la regolarita' della documentazione, la trasmette al Consiglio nazionale forense.
+
+2.
+                        
+                            
+                                Puo' presentare domanda l'avvocato che: 
+ 
+                            
+                            
+                                a)
+                                
+                                    negli ultimi cinque anni ha frequentato con esito positivo i corsi di specializzazione di cui all'articolo 7, oppure ha maturato una comprovata esperienza nel settore di specializzazione ai sensi dell'articolo 8; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    non ha riportato, nei tre anni precedenti la presentazione della domanda, una sanzione disciplinare definitiva, diversa dall'avvertimento, conseguente ad un comportamento realizzato in violazione del dovere di competenza o di aggiornamento professionale; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    non ha subito, nei due anni precedenti la presentazione della domanda, la revoca del titolo di specialista.
 
 Al fine dell'osservanza del limite di cui all'articolo 3 la domanda puo' contenere la rinuncia al titolo di specialista gia' conseguito.
 
@@ -97,6 +411,45 @@ Le convenzioni di cui ai commi 3 e 4 possono prevedere che le lezioni in cui si 
 
 Il comitato di gestione, d'intesa con il comitato scientifico, determina la quota di iscrizione al corso in modo da garantire esclusivamente l'integrale copertura delle spese di funzionamento e docenza nonche' delle spese di organizzazione e gestione, ivi incluse quelle relative al comitato di gestione e al comitato scientifico.
 
+12.
+                        
+                            
+                                L'organizzazione dei corsi deve aver luogo in conformita' ai seguenti criteri: 
+ 
+                            
+                            
+                                a)
+                                
+                                    durata almeno biennale e didattica non inferiore a 200 ore; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    composizione mista ed adeguata qualificazione del corpo docente; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    didattica frontale non inferiore a 100 ore; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    obbligo di frequenza nella misura minima dell'ottanta per cento della durata del corso; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    previsione di almeno una prova, scritta e orale, al termine di ciascun anno di corso, volta ad accertare l'adeguato livello di preparazione del candidato.
+
 ((
 
 Il corso, di durata complessiva almeno biennale, relativo ad uno dei settori di specializzazione di cui all'articolo 3, comma 1, lettere a), b) e c), prevede una parte generale e una parte speciale di durata non inferiore a un anno destinata alla specializzazione in uno degli indirizzi afferenti al settore.
@@ -107,13 +460,49 @@ La prova di cui al comma 12, lettera e), e' valutata da una commissione nominata
 
 ## Art. 8. — Comprovata esperienza
 
+1.
+                        
+                            
+                                Il titolo di avvocato specialista puo' essere conseguito anche dimostrando la sussistenza congiunta dei seguenti requisiti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    di avere maturato un'anzianita' di iscrizione all'albo degli avvocati ininterrotta e senza sospensioni di almeno otto anni; 
 
+                                
+                            
+                            
+                                b)
+                                
+                                    di avere esercitato negli ultimi cinque anni in modo assiduo, prevalente e continuativo attivita' di avvocato in uno dei settori di specializzazione di cui all'articolo 3, mediante la produzione di documentazione, giudiziale o stragiudiziale, comprovante che l'avvocato ha trattato nel quinquennio incarichi professionali fiduciari rilevanti per quantita' e qualita', almeno pari a ((dieci per anno)). Ai fini della presente lettera non si tiene conto degli affari che hanno ad oggetto medesime questioni giuridiche e necessitano di un'analoga attivita' difensiva.
+
+((2. Nell'accertamento dei requisiti di cui al presente articolo, la commissione di cui all'articolo 6, comma 4, valuta la congruenza dei titoli presentati e degli incarichi documentati con il settore e, se necessario, con l'indirizzo di specializzazione indicati dal richiedente. Anche in deroga al previsto numero minimo di incarichi per anno, la commissione tiene conto della natura e della particolare rilevanza degli incarichi documentati e delle specifiche caratteristiche del settore e dell'indirizzo di specializzazione))
 
 ## - Titolo III Mantenimento del titolo
 
 ## Art. 9. — Disposizioni comuni
 
 L'avvocato specialista, ogni tre anni dall'iscrizione nell'elenco di cui all'articolo 5, dichiara e documenta al consiglio dell'ordine d'appartenenza l'adempimento degli obblighi di formazione permanente nel settore di specializzazione, a norma degli articoli 10 ed 11.
+
+2.
+                        
+                            
+                                Il consiglio dell'ordine di appartenenza: 
+ 
+                            
+                            
+                                a)
+                                
+                                    cura la tempestiva trasmissione al Consiglio nazionale forense della dichiarazione e della documentazione, esprimendo parere non vincolante sul mantenimento del titolo di specialista; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    ovvero comunica al Consiglio nazionale forense il mancato deposito della dichiarazione e della documentazione.
 
 ## Art. 10. — Aggiornamento professionale specialistico
 
@@ -128,6 +517,24 @@ Il titolo di avvocato specialista puo' essere mantenuto anche dimostrando di ave
 ## - Titolo IV Revoca del titolo
 
 ## Art. 12. — Revoca del titolo
+
+1.
+                        
+                            
+                                Il titolo di avvocato specialista e' revocato dal Consiglio nazionale forense, a seguito di comunicazione del Consiglio dell'Ordine, nei seguenti casi: 
+ 
+                            
+                            
+                                a)
+                                
+                                    irrogazione di sanzione disciplinare definitiva, diversa dall'avvertimento, conseguente ad un comportamento realizzato in violazione del dovere di competenza o di aggiornamento professionale; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    mancato adempimento degli obblighi di formazione continua ovvero dell'obbligo di deposito nei termini della dichiarazione e della documentazione di cui all'articolo 9, comma 1.
 
 Il Consiglio nazionale forense, di propria iniziativa o su segnalazione del consiglio dell'ordine o di terzi puo' dar corso al procedimento per la revoca del titolo di avvocato specialista nei casi di grave e comprovata carenza delle specifiche competenze del settore di specializzazione.
 

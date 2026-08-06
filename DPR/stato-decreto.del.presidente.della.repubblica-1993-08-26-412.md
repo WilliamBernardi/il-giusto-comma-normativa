@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: DPR
 vigenza_date: 2022-04-29
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:47:43Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -36,6 +36,171 @@ Udito il parere del Consiglio di Stato, espresso nell'adunanza generale del 28 g
 Sulla proposta del Ministro dell'industria, del commercio e dell'artigianato;
 
 ## Art. 1. — (Definizioni)
+
+1.
+                    
+                        
+                            Ai fini dell'applicazione del presente regolamento si intende: 
+ 
+                        
+                        
+                            a)
+                            
+                                per "edificio", un sistema costituito dalle strutture edilizie esterne che delimitano uno spazio di volume definito, dalle strutture interne che ripartiscono detto volume e da tutti gli impianti, dispositivi tecnologici ed arredi che si trovano al suo interno; la superficie esterna che delimita un edificio puo' confinare con tutti o alcuni di questi elementi: l'ambiente esterno, il terreno, altri edifici; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                per "edificio di proprieta' pubblica", un edificio di proprieta' dello Stato, delle Regioni, degli Enti Locali, nonche' di altri Enti Pubblici, anche economici, destinato sia allo svolgimento delle attivita' dell'Ente, sia ad altre attivita' o usi, compreso quello di abitazione privata; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                per "edificio adibito ad uso pubblico", un edificio nel quale si svolge, in tutto o in parte, l'attivita' istituzionale di Enti pubblici; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                per "edificio di nuova costruzione", salvo quanto pervisto dall'articolo 7 comma 3, un edificio per il quale la richiesta di concessione edilizia sia stata presentata successivamente alla data di entrata in vigore del regolamento stesso; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                per "climatizzazione invernale", l'insieme di funzioni atte ad assicurare, durante il periodo di esercizio dell'impianto termico consentito dalle disposizioni del presente regolamento, il benessere degli occupanti mediante il controllo, all'interno degli ambienti, della temperatura e, ove presenti dispositivi idonei, della umidita', della portata di rinnovo e della purezza dell'aria; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                per "impianto termico", un impianto tecnologico destinato alla climatizzazione degli ambienti con o senza produzione di acqua calda per usi igienici e sanitari o alla sola produzione centralizzata di acqua calda per gli stessi usi, comprendente i sistemi di produzione, distribuzione e utilizzazione del calore nonche' gli organi di regolazione e di controllo; sono quindi compresi negli impianti termici gli impianti individuali di riscaldamento, mentre non sono considerati impianti termici apparecchi quali: stufe, caminetti, radiatori individuali, scaldacqua unifamiliari; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                per "impianto termico di nuova installazione", un impianto termico installato in un edificio di nuova costruzione o in un edificio o porzione di edificio antecedentemente privo di impianto termico; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                per "manutenzione ordinaria dell'impianto termico", le operazioni specificamente previste nei libretti d'uso e manutenzione degli apparecchi e componenti che possono essere effettuate in luogo con strumenti ed attrezzature di corredo agli apparecchi e componenti stessi e che comportino l'impiego di attrezzature e di materiali di consumo d'uso corrente; 
+
+                            
+                        
+                        
+                            i)
+                            
+                                per "manutenzione straordinaria dell'impianto termico", gli interventi atti a ricondurre il funzionamento dell'impianto a quello previsto dal progetto e/o dalla normativa vigente mediante il ricorso, in tutto o in parte, a mezzi, attrezzature, strumentazioni, riparazioni, ricambi di parti, ripristini, revisione o sostituzione di apparecchi o componenti dell'impianto termico; 
+
+                            
+                        
+                        
+                            j)
+                            
+                                per "proprietario dell'impianto termico", chi e' proprietario, in tutto o in parte, dell'impianto termico; nel caso di edifici dotati di impianti termici centralizzati amministrati in condominio e nel caso di soggetti diversi dalle persone fisiche gli obblighi e le responsabilita' posti a carico del proprietario dal presente regolamento sono da intendersi riferiti agli Amministratori; 
+
+                            
+                        
+                        
+                            l)
+                            
+                                per "ristrutturazione di un impianto termico", gli interventi rivolti a trasformare l'impianto termico mediante un insieme sistematico di opere che comportino la modifica sostanziale sia dei sistemi di produzione che di distribuzione del calore; rientrano in questa categoria anche la trasformazione di un impianto termico centralizzato in impianti termici individuali nonche' la risistemazione impiantistica nelle singole unita' immobiliari o parti di edificio in caso di installazione di un impianto termico individuale previo distacco dall'impianto termico centralizzato; 
+
+                            
+                        
+                        
+                            m)
+                            
+                                per "sostituzione di un generatore di calore", la rimozione di un vecchio generatore e l'installazione di un altro nuovo destinato ad erogare energia termica alle medesime utenze; 
+
+                            
+                        
+                        
+                            n)
+                            
+                                per "esercizio e manutenzione di un impianto termico", il complesso di operazioni che comporta l'assunzione di responsabilita' finalizzata alla gestione degli impianti includente: conduzione, manutenzione ordinaria e straordinaria e controllo, nel rispetto delle norme in materia di sicurezza, di contenimento dei consumi energetici e di salvaguardia ambientale; 
+
+                            
+                        
+                        
+                            o)
+                            
+                                per "terzo responsabile dell'esercizio e della manutenzione dell'impianto termico", la persona fisica o giuridica che, essendo in possesso dei requisiti previsti dalle normative vigenti e comunque di idonea capacita' tecnica, economica, organizzativa, e' delegata dal proprietario ad assumere la responsabilita' dell'esercizio, della manutenzione e dell'adozione delle misure necessarie al contenimento dei consumi energetici; 
+
+                            
+                        
+                        
+                            p)
+                            
+                                per "contratto servizio energia", l'atto contrattuale che disciplina l'erogazione dei beni e servizi necessari a mantenere le condizioni di comfort negli edifici nel rispetto delle vigenti leggi in materia di uso razionale dell'energia, di sicurezza e di salvaguardia dell'ambiente, provvedendo nel contempo al miglioramento del processo di trasformazione e di utilizzo dell'energia; 
+
+                            
+                        
+                        
+                            q)
+                            
+                                per "valori nominali" delle potenze e dei rendimenti di cui ai punti successivi, quelli dichiarati e garantiti dal costruttore per il regime di funzionamento continuo; 
+
+                            
+                        
+                        
+                            r)
+                            
+                                per "potenza termica del focolare" di un generatore di calore, il prodotto del potere calorifico inferiore del combustibile impiegato e della portata di combustibile bruciato; l'unita' di misura utilizzata e' il kW; 
+
+                            
+                        
+                        
+                            s)
+                            
+                                per "potenza termica convenzionale" di un generatore di calore, la potenza termica del focolare diminuita della potenza termica persa al camino; l'unita' di misura utilizzata e' il kW; 
+
+                            
+                        
+                        
+                            t)
+                            
+                                per "potenza termica utile" di un generatore di calore, la quantita' di calore trasferita nell'unita' di tempo al fluido termovettore, corrispondente alla potenza termica del focolare diminuita della potenza termica scambiata dall'involucro del generatore con l'ambiente e della potenza termica persa al camino; l'unita' di misura utilizzata e' il kW; 
+
+                            
+                        
+                        
+                            u)
+                            
+                                per "rendimento di combustione", sinonimo di "rendimento termico convenzionale" di un generatore di calore, il rapporto tra la potenza termica convenzionale e la potenza termica del focolare; 
+
+                            
+                        
+                        
+                            v)
+                            
+                                per "rendimento termico utile" di un generatore di calore, il rapporto tra la potenza termica utile e la potenza termica del focolare; 
+
+                            
+                        
+                        
+                            w)
+                            
+                                per "temperatura dell'aria in un ambiente", la temperatura dell'aria misurata secondo le modalita' prescritte dalla norma tecnica UNI 5364; 
+
+                            
+                        
+                        
+                            z)
+                            
+                                per "gradi giorno" di una localita', la somma, estesa a tutti i giorni di un periodo annuale convenzionale di riscaldamento, delle sole differenze positive giornaliere tra la temperatura dell'ambiente, convenzionalmente fissata a 20°C, e la temperatura media esterna giornaliera; l'unita' di misura utilizzata e' il grado giorno (GG). (1) ((1a))
 
 -------------
                         AGGIORNAMENTO (1)
@@ -122,6 +287,45 @@ Negli impianti termici di nuova installazione, nella ristrutturazione degli impi
 
 Gli impianti termici installati successivamente al 31 agosto 2013 devono essere collegati ad appositi camini, canne fumarie o sistemi di evacuazione dei prodotti della combustione, con sbocco sopra il tetto dell'edificio alla quota prescritta dalla regolamentazione tecnica vigente. (10)
 
+9-bis.
+                    
+                        
+                            E' possibile derogare a quanto stabilito dal comma 9 nei casi in cui: 
+ 
+                        
+                        
+                            a)
+                            
+                                si procede, anche nell'ambito di una riqualificazione energetica dell'impianto termico, alla sostituzione di generatori di calore individuali che risultano installati in data antecedente a quella di cui al comma 9, con scarico a parete o in canna collettiva ramificata; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                l'adempimento dell'obbligo di cui al comma 9 risulta incompatibile con norme di tutela degli edifici oggetto dell'intervento, adottate a livello nazionale, regionale o comunale; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                il progettista attesta e assevera l'impossibilita' tecnica a realizzare lo sbocco sopra il colmo del tetto. (10) 
+
+                            
+                        
+                        
+                            d)
+                            
+                                si procede alle ristrutturazioni di impianti termici individuali gia' esistenti, siti in stabili plurifamiliari, qualora nella versione iniziale non dispongano gia' di camini, canne fumarie o sistemi di evacuazione dei prodotti della combustione con sbocco sopra il tetto dell'edificio, funzionali e idonei o comunque adeguabili alla applicazione di apparecchi a condensazione; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                vengono installati ((pompe di calore a gas o)) uno o piu' generatori ibridi compatti, composti almeno da una caldaia a condensazione a gas e da una pompa di calore e dotati di specifica certificazione di prodotto.
+
 Per accedere alle deroghe previste al comma 9-bis, e' obbligatorio: 
  i. nei casi di cui alla lettera a), installare generatori di calore a gas a camera stagna il cui rendimento sia superiore a quello previsto all'articolo 4, comma 6, lettera a), del decreto del Presidente della Repubblica, del 2 aprile 2009, n. 59; 
  ii. nei casi di cui alle lettere b), c), e d), installare generatori di calore a gas a condensazione i cui prodotti della combustione abbiano emissioni medie ponderate di ossidi di azoto non superiori a 70 mg/kWh, misurate secondo le norme di prodotto vigenti; 
@@ -160,6 +364,31 @@ L'allegato D al presente decreto individua alcune tecnologie di utilizzo delle f
 Negli impianti termici di nuova installazione, nella ristrutturazione degli impianti termici nonche' nella sostituzione di generatori di calore, i generatori di calore ad acqua calda di potenza nominale utile pari o inferiore a 400 kW devono avere un "rendimento termico utile" conforme a quanto prescritto dal decreto del Presidente della Repubblica 15 novembre 1996, n. 660. l generatori ad acqua calda di potenza superiore devono rispettare i limiti di rendimento fissati dal medesimo decreto del Presidente della Repubblica per le caldaie di potenza pari a 400 kW. I generatori di calore ad aria calda devono avere un "rendimento di combustione" non inferiore ai valori riportati nell'allegato E al presente decreto.
 
 ))
+
+2.
+                    
+                        
+                            Alle disposizioni di cui al comma 1 non sono soggetti: 
+ 
+                        
+                        
+                            a)
+                            
+                                i generatori di calore alimentati a combustibili solidi; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                i generatori di calore appositamente concepiti per essere alimentati con combustibili le cui caratteristiche si discostano sensibilmente da quelle dei combustibili liquidi o gassosi comunemente commercializzati, quali ad esempio gas residui di lavorazioni, biogas; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                i generatori di calore policombustibili limitatamente alle condizioni di funzionamento con combustibili di cui alla lettera b.
 
 ## Art. 7. — Termoregolazione e contabilizzazione
 

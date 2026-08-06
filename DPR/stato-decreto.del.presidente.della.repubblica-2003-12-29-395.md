@@ -8,8 +8,8 @@ codice_redazionale: 004G0070
 vigente: true
 source: normattiva-opendata
 collection: DPR
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:47:53Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -26,6 +26,52 @@ Udito il parere del Consiglio di Stato, espresso dalla sezione consultiva per gl
 Sulla proposta del Ministro per gli italiani nel mondo e del Ministro degli affari esteri, di concerto con il Ministro dell'interno, con il Ministro della giustizia, con il Ministro dell'economia e delle finanze e con il Ministro per la funzione pubblica;
 
 ## Art. 1. — Definizioni
+
+1.
+                    
+                        
+                            Ai fini del presente regolamento si intende per:
+ 
+                        
+                        
+                            a)
+                            
+                                «legge», la legge 23 ottobre 2003, n. 286;
+
+                            
+                        
+                        
+                            b)
+                            
+                                «elenco aggiornato», l'elenco aggiornato dei cittadini italiani residenti all'estero, di cui all'articolo 5, comma 1, della legge 27 dicembre 2001, n. 459;
+
+                            
+                        
+                        
+                            c)
+                            
+                                «elettore», il cittadino italiano residente nella circoscrizione consolare ai sensi dell'articolo 13, comma 1, della legge, iscritto nelle liste elettorali di cui all'articolo 5, comma 1, della legge 27 dicembre 2001, n. 459, e all'articolo 5, comma 8, del regolamento di cui al decreto del Presidente della Repubblica 2 aprile 2003, n. 104;
+
+                            
+                        
+                        
+                            d)
+                            
+                                «ufficio consolare», uno degli uffici di cui all'articolo 29, comma primo, primo periodo, della legge 24 gennaio 1979, n. 18, e successive modificazioni;
+
+                            
+                        
+                        
+                            e)
+                            
+                                «circoscrizione consolare», l'ambito di competenza territoriale dell'ufficio consolare;
+
+                            
+                        
+                        
+                            f)
+                            
+                                «Comitato», il Comitato degli italiani all'estero.
 
 Ai fini della legge e del presente regolamento, per «data stabilita per le votazioni» e «giorno stabilito per le votazioni» si intende l'ultimo giorno utile per l'arrivo delle buste contenenti le schede votate all'ufficio consolare.
 
@@ -157,6 +203,24 @@ Ai sensi dell'articolo 15, comma 3, della legge, le dichiarazioni di presentazio
 
 Le liste sono formate da un numero di candidati almeno pari al numero dei membri del Comitato da eleggere e non superiore a sedici per i Comitati composti da dodici membri e a ventidue per i Comitati composti da diciotto membri. Di ogni candidato e' indicato il cognome, il nome, il luogo e la data di nascita, nonche' un numero progressivo assegnato dal presentatore della lista.
 
+3.
+                    
+                        
+                            Assieme alle liste dei candidati sono presentate:
+ 
+                        
+                        
+                            a)
+                            
+                                le dichiarazioni, firmate e autenticate, di accettazione della candidatura di ciascun candidato;
+
+                            
+                        
+                        
+                            b)
+                            
+                                la designazione di un rappresentante effettivo e di uno supplente per il comitato elettorale circoscrizionale, ai sensi dell'articolo 16, comma 4, della legge.
+
 Ogni lista, munita di proprio contrassegno, e' presentata, corredata della prescritta documentazione, da uno dei candidati o da uno dei sottoscrittori all'ufficio elettorale, nelle ore d'ufficio, dal ventesimo al trentesimo giorno successivo alla data di indizione delle elezioni. Il presentatore dichiara il proprio domicilio ai fini delle successive notificazioni.
 
 Il presidente dell'ufficio elettorale rilascia ricevuta degli atti presentati, indicando giorno e ora della presentazione e provvede a trasmetterli al comitato elettorale circoscrizionale, appena questo e' costituito, unitamente al verbale delle operazioni compiute.
@@ -171,9 +235,101 @@ A decorrere dal quindicesimo giorno successivo alla data di indizione delle elez
 
 Ai sensi dell'articolo 16, comma 4, della legge, entro il decimo giorno successivo alla data di indizione delle elezioni, il capo dell'ufficio consolare richiede alle associazioni degli emigrati italiani che operano nella circoscrizione consolare da almeno cinque anni un elenco di propri rappresentanti, designati nell'osservanza dei rispettivi statuti, ai fini della loro inclusione nel comitato elettorale circoscrizionale. Entro il secondo giorno successivo alla scadenza del termine stabilito per la presentazione delle liste, le associazioni degli emigrati italiani comunicano, anche collettivamente, all'ufficio consolare tale elenco.
 
+2.
+                    
+                        
+                            Entro il quinto giorno successivo alla scadenza del termine stabilito per la presentazione delle liste, con decreto del capo dell'ufficio consolare e' costituito il comitato elettorale circoscrizionale, composto da:
+ 
+                        
+                        
+                            a)
+                            
+                                i rappresentanti designati dai presentatori delle liste di candidati ai sensi dell'articolo 14, comma 3, lettera b);
+
+                            
+                        
+                        
+                            b)
+                            
+                                i rappresentanti delle associazioni degli emigrati italiani di cui al comma 1, in numero non superiore a sei nelle circoscrizioni in cui risiedono fino a centomila cittadini italiani iscritti nell'elenco aggiornato e non superiore a dodici nelle altre circoscrizioni.
+
 Se il numero dei rappresentanti designati dalle associazioni degli emigrati italiani di cui al comma 1 supera i limiti di cui al comma 2, lettera b), i rappresentanti delle associazioni degli emigrati italiani sono scelti mediante sorteggio tra i designati.
 
 ## Art. 16. — Ammissione delle liste
+
+1.
+                    
+                        
+                            Entro il decimo giorno successivo alla scadenza del termine stabilito per la presentazione delle liste, il comitato elettorale circoscrizionale:
+ 
+                        
+                        
+                            a)
+                            
+                                verifica se le liste sono sottoscritte dal numero prescritto di elettori residenti nella circoscrizione consolare, dichiarandole non valide se non corrispondono a questa condizione;
+
+                            
+                        
+                        
+                            b)
+                            
+                                invita i presentatori a modificare i contrassegni delle liste, se questi sono identici o confondibili con quelli presentati in precedenza, e decide su qualsiasi contestazione in proposito;
+
+                            
+                        
+                        
+                            c)
+                            
+                                riduce al limite prescritto le liste formate da un numero di candidati superiore a sedici per i Comitati composti da dodici membri e a ventidue per i Comitati composti da diciotto membri, cancellando gli ultimi nomi;
+
+                            
+                        
+                        
+                            d)
+                            
+                                cancella dalle liste i nomi dei candidati per i quali manca la dichiarazione di accettazione della candidatura;
+
+                            
+                        
+                        
+                            e)
+                            
+                                cancella dalle liste i nomi dei candidati che sono compresi in piu' liste;
+
+                            
+                        
+                        
+                            f)
+                            
+                                cancella dalle liste i nomi dei candidati che, nel giorno stabilito per le votazioni, non hanno l'eta' richiesta per l'elettorato passivo;
+
+                            
+                        
+                        
+                            g)
+                            
+                                cancella dalle liste i nomi dei candidati che non sono residenti nella circoscrizione consolare;
+
+                            
+                        
+                        
+                            h)
+                            
+                                verifica se le liste sono formate, anche a seguito delle operazioni di cui alle lettere d), e), f) e g), da un numero di candidati pari almeno al numero dei membri del Comitato da eleggere e in caso contrario ne dichiara la non ammissibilita';
+
+                            
+                        
+                        
+                            i)
+                            
+                                assegna definitivamente un numero ai singoli candidati di ciascuna lista ammessa, secondo l'ordine in cui vi sono iscritti;
+
+                            
+                        
+                        
+                            l)
+                            
+                                assegna a ciascuna lista ammessa un numero progressivo secondo l'ordine di presentazione.
 
 ## Art. 17. — Stampa e invio del materiale elettorale
 
@@ -218,6 +374,24 @@ Gli elettori ammessi al voto ai sensi del presente articolo sono iscritti nell'e
 ## Art. 21. — Nomina degli scrutatori e designazione
  dei rappresentanti di lista
 
+1.
+                    
+                        
+                            Entro il quindicesimo giorno precedente la data stabilita per le votazioni, i presentatori delle liste ammesse consegnano al comitato elettorale circoscrizionale:
+ 
+                        
+                        
+                            a)
+                            
+                                un elenco di elettori ai fini della nomina a scrutatore, ai sensi dell'articolo 19, comma 3, della legge;
+
+                            
+                        
+                        
+                            b)
+                            
+                                la designazione, per ogni seggio istituito nella circoscrizione consolare, di un rappresentante di lista effettivo e di uno supplente.
+
 Ai sensi dell'articolo 19, comma 3, della legge, il comitato elettorale circoscrizionale nomina gli scrutatori tra gli elettori designati dai presentatori delle liste ammesse con modalita' tali da garantire, ove possibile, la partecipazione di tutte le liste.
 
 Per ciascun seggio elettorale sono nominati quattro scrutatori.
@@ -234,9 +408,63 @@ Il giorno successivo alla data stabilita per le votazioni, nell'ora fissata dal 
 
 Il presidente del seggio riceve, da parte del comitato elettorale circoscrizionale, l'estratto del verbale di nomina degli scrutatori, le designazioni dei rappresentanti di lista, un congruo numero di urne, gli stampati e il materiale occorrenti per le operazioni, nonche' copia autentica dell'elenco degli elettori, copia dell'elenco aggiunto degli elettori ammessi al voto dall'ufficio consolare, i plichi con le buste contenenti schede unitamente alla comunicazione del numero di queste.
 
+6.
+                    
+                        
+                            Il presidente procede quindi alle operazioni di apertura dei plichi e delle buste assegnate al seggio dal comitato elettorale circoscrizionale e, successivamente, alle operazioni di scrutinio. A tale fine il presidente, coadiuvato dal vice presidente e dal segretario:
+ 
+                        
+                        
+                            a)
+                            
+                                accerta se il numero delle buste ricevute corrisponde al numero delle buste indicate nella lista compilata e consegnata insieme alle buste medesime dal comitato elettorale circoscrizionale;
+
+                            
+                        
+                        
+                            b)
+                            
+                                accerta contestualmente se le buste ricevute provengono da un'unica circoscrizione consolare;
+
+                            
+                        
+                        
+                            c)
+                            
+                                procede successivamente all'apertura di ciascuna delle buste esterne compiendo per ciascuna di esse le seguenti operazioni:
+ 1) accerta se la busta contiene il tagliando del certificato elettorale di un solo elettore e la seconda busta contenente la scheda con l'espressione del voto;
+ 2) accerta se il tagliando incluso nella busta appartiene a elettore incluso nell'elenco trasmesso dal comitato elettorale circoscrizionale;
+ 3) accerta se la busta contenente la scheda con l'espressione del voto e' chiusa, integra e non reca alcun segno di riconoscimento e la inserisce nell'apposita urna sigillata;
+ 4) annulla, senza procedere allo scrutinio del voto, la scheda inclusa in una busta che contiene piu' di un tagliando del certificato elettorale, o un tagliando di elettore che ha votato piu' di una volta, o di elettore non appartenente alla circoscrizione consolare, o contenuta in una busta aperta, lacerata o che reca segni di riconoscimento, o la scheda inclusa nella medesima busta insieme al tagliando o al certificato elettorale, o non accompagnata nella busta esterna ne' dal tagliando ne' dal certificato elettorale. Non procede ad annullare la scheda se il tagliando non e' stato staccato dal certificato elettorale ma e' incluso nella busta esterna, ovvero nel caso in cui e' incluso nella busta esterna il certificato elettorale privo del tagliando.
+
 I tagliandi dei certificati elettorali relativi alle buste contenenti schede annullate senza procedere allo scrutinio sono separati dalle buste stesse in modo tale che non sia possibile procedere alla identificazione del voto. Dopo la conclusione delle operazioni preliminari allo scrutinio, congiuntamente per tutti i casi di annullamento, per i relativi elettori, uno dei componenti del seggio accerta l'avvenuta votazione apponendo la propria firma accanto al nome nell'apposita colonna della lista degli aventi diritto al voto. Compiute le suddette operazioni, i tagliandi di cui al precedente periodo vengono confusi con i tagliandi relativi alle buste inserite nell'urna.
 
 ## Art. 23. — Operazioni di scrutinio
+
+1.
+                    
+                        
+                            Completata l'apertura delle buste esterne e l'inserimento nell'urna sigillata di tutte le buste interne recanti la scheda con l'espressione del voto, si procede alle operazioni di spoglio. A tale fine:
+ 
+                        
+                        
+                            a)
+                            
+                                il vice presidente del seggio estrae successivamente dall'urna ciascuna delle buste contenenti la scheda che reca l'espressione del voto e la apre;
+
+                            
+                        
+                        
+                            b)
+                            
+                                il presidente, ricevuta la scheda, appone la propria firma sul retro di essa e la consegna al segretario;
+
+                            
+                        
+                        
+                            c)
+                            
+                                il segretario enuncia ad alta voce i voti espressi e prende nota dei voti di ciascuna lista e di ciascun candidato; pone quindi le schede scrutinate in apposita cassetta.
 
 Le operazioni di cui al comma 1 sono compiute nell'ordine indicato; del compimento e del risultato di ciascuna di esse e' fatta menzione nel verbale.
 
@@ -245,6 +473,45 @@ Le operazioni di cui al comma 1 sono compiute nell'ordine indicato; del compimen
 Oltre a quanto previsto dall'articolo 23, comma 2, nel verbale del seggio sono inseriti i nominativi dei rappresentanti di lista, il numero delle buste esterne consegnate al seggio dal comitato elettorale circoscrizionale, il numero delle schede valide, bianche, nulle, annullate senza procedere allo scrutinio, contestate e assegnate nonche' contestate e non assegnate, i risultati elettorali, il numero dei votanti, gli atti relativi allo scrutinio, le eventuali proteste e reclami presentati nonche' le modalita' di formazione dei plichi e di trasmissione di tutto il materiale. Il verbale, redatto in due esemplari, e' letto, firmato in ciascun foglio e sottoscritto da tutti i componenti del seggio e dai rappresentanti di lista.
 
 Il presidente del seggio accerta personalmente la corrispondenza numerica delle cifre segnate nelle varie colonne del verbale con il numero dei votanti, dei voti validi, delle schede nulle, delle schede bianche, dei voti dichiarati nulli, delle schede annullate senza procedere allo scrutinio, delle schede contestate e assegnate e di quelle contestate e non assegnate, verificando la congruita' dei dati, e dandone pubblica lettura ed espressa attestazione nel verbale.
+
+3.
+                    
+                        
+                            Compilato il verbale, il presidente procede alla formazione di un plico contenente gli esemplari del verbale, con allegati i prospetti di scrutinio, e tutti i documenti relativi alle operazioni del seggio, nonche', in plichi separati:
+ 
+                        
+                        
+                            a)
+                            
+                                le schede annullate;
+
+                            
+                        
+                        
+                            b)
+                            
+                                le schede bianche, le schede nulle;
+
+                            
+                        
+                        
+                            c)
+                            
+                                le schede contenenti voti contestati, avendo cura di tenere distinte le schede contenenti voti contestati e assegnati da quelle contenenti voti contestati e provvisoriamente non assegnati;
+
+                            
+                        
+                        
+                            d)
+                            
+                                le schede valide;
+
+                            
+                        
+                        
+                            e)
+                            
+                                la lista degli elettori.
 
 I plichi di cui al comma 3 sono recapitati, al termine delle operazioni, dal presidente del seggio al presidente del comitato elettorale circoscrizionale.
 
@@ -257,6 +524,31 @@ Entro quarantotto ore dal ricevimento dei plichi di cui all'articolo 24, comma 3
 Le schede riesaminate, assegnate e non assegnate, sono chiuse in un unico plico che, sigillato e firmato dai componenti del comitato elettorale, e' allegato al verbale di cui all'articolo 22, comma 1, della legge.
 
 ## Art. 26. — Ripartizione dei seggi
+
+1.
+                    
+                        
+                            Compiute le operazioni di scrutinio, il comitato elettorale circoscrizionale:
+ 
+                        
+                        
+                            a)
+                            
+                                determina il quoziente elettorale dividendo il totale dei voti validi riportati da tutte le liste, ivi compresi quelli assegnati ai sensi dell'articolo 25, comma 1, per il numero dei candidati da eleggere e attribuisce a ogni lista tanti seggi quante volte il quoziente elettorale risulta contenuto nel numero dei voti validi da essa riportati;
+
+                            
+                        
+                        
+                            b)
+                            
+                                determina la cifra individuale di ogni candidato sommando i voti di preferenza validi ottenuti da ciascun candidato, compresi quelli assegnati ai sensi dell'articolo 25, comma 1;
+
+                            
+                        
+                        
+                            c)
+                            
+                                determina la graduatoria dei candidati di ciascuna lista secondo le rispettive cifre individuali, prevalendo, a parita' di cifre individuali, l'ordine di presentazione nella lista.
 
 I seggi eventualmente restanti dopo le operazioni di cui al comma 1, lettera a), sono successivamente attribuiti alle liste per le quali le divisioni hanno dato i maggiori resti e, in caso di parita' di resti, alla lista che ha ottenuto il piu' alto numero di voti validi. Sono considerati resti anche i voti delle liste che non hanno ottenuto alcun quoziente.
 

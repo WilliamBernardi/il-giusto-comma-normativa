@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
 vigenza_date: 2020-02-20
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:28Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -30,6 +30,45 @@ SULLA PROPOSTA del Presidente del Consiglio dei Ministri, di concerto con i Mini
 
 ## Art. 1. — (Sanzioni disciplinari)
 
+1.
+                        
+                            
+                                L'appartenente al Corpo di polizia penitenziaria che viola i doveri specifici e generici del servizio e della disciplina indicati dalla legge, dai regolamenti o conseguenti alla emanazione di un ordine, commette infrazione disciplinare ed e' soggetto alle seguenti sanzioni:
+ 
+                            
+                            
+                                a)
+                                
+                                    censura;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    pena pecuniaria;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    deplorazione;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    sospensione dal servizio;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    destituzione.
+
 Le predette sanzioni devono essere graduate, nella misura, in relazione alla gravita' delle infrazioni ed alle conseguenze che le stesse hanno prodotto per l'Amministrazione o per il servizio.
 
 Il provvedimento che infligge la sanzione deve essere motivato.
@@ -38,11 +77,243 @@ Il provvedimento che infligge la sanzione deve essere motivato.
 
 ## Art. 2. — (Censura)
 
+1.
+                        
+                            
+                                La censura e' una dichiarazione di biasimo con la quale vengono punite:
+ 
+                            
+                            
+                                a)
+                                
+                                    le lievi trasgressioni;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la negligenza in servizio;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    la mancanza di correttezza nel comportamento;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    il disordine della divisa o l'uso promiscuo di capi di vestiario della divisa con altri non pertinenti alla stessa;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    il contegno comunque scorretto verso superiori, pari qualifica, dipendenti, pubblico.
+
 E'inflitta, per iscritto, dal direttore dell'ufficio dal quale il trasgressore gerarchicamente dipende.
 
 ## Art. 3. — (Pena pecuniaria)
 
 La pena pecuniaria consiste nella riduzione in misura non superiore a cinque trentesimi di una mensilita' dello stipendio e degli altri assegni a carattere fisso e continuativo.
+
+2.
+                        
+                            
+                                Con tale sanzione vengono punite le seguenti infrazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la recidiva in una mancanza punibile con la censura; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'esercizio occasionale di commercio o di mestiere incompatibile; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    l'inosservanza dell'obbligo di mantenere la permanenza o la reperibilita'; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    la manifesta negligenza nel prendere visione dell'ordine di servizio; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    l'omessa o ritardata presentazione in servizio sino ad un massimo di quarantotto ore; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    la grave negligenza in servizio; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    il ritardo o la negligenza nell'esecuzione di un ordine; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    l'irregolarita' nell'ordine di trattazione degli affari; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    l'inosservanza del dovere di informare immediatamente i superiori della ricezione di un ordine la cui esecuzione costituisce manifestamente reato; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    l'inosservanza delle norme che vietano lo svolgimento di attivita' politica nei casi previsti dalla legge; 
+
+                                
+                            
+                            
+                                m)
+                                
+                                    l'inosservanza delle norme che regolano i diritti sindacali degli appartenenti al Corpo di polizia penitenziaria; 
+
+                                
+                            
+                            
+                                n)
+                                
+                                    l'emanazione di un ordine non attinente al servizio o alla disciplina o eccedente i compiti di istituto o lesivo della dignita' professionale; 
+
+                                
+                            
+                            
+                                o)
+                                
+                                    l'omissione o l'imprecisione nell'emanazione di ordini o di disposizioni di servizio; 
+
+                                
+                            
+                            
+                                p)
+                                
+                                    l'inosservanza del divieto di influire, direttamente o indirettamente, sulla scelta del difensore da parte del detenuto o dell'internato; 
+
+                                
+                            
+                            
+                                q)
+                                
+                                    il contegno sconveniente con i detenuti o gli internati ed il servirsi di essi per scrivere lettere, domande o rapporti; 
+
+                                
+                            
+                            
+                                r)
+                                
+                                    le parzialita' manifeste, i modi inurbani, gli abusi di autorita' coi dipendenti o coi detenuti o gli internati, i motteggi e le ingiurie rivolti a questi ultimi; 
+
+                                
+                            
+                            
+                                s)
+                                
+                                    la tolleranza delle indebite introduzioni e dei traffici di generi nello stabilimento; 
+
+                                
+                            
+                            
+                                t)
+                                
+                                    la trascuratezza nel sorvegliare i detenuti o gli internati, particolarmente se incaricati di servizi speciali, in modo da rendere possibili abusi da parte dei medesimi; 
+
+                                
+                            
+                            
+                                u)
+                                
+                                    la infedeltain servizio, manifestata col rivelare ad estranei o a detenuti o internati fatti relativi al servizio stesso o riguardanti i processi in corso, o coll'occultare le mancanze dei detenuti o internati o coll'asportare dall'ufficio documenti o copie di qualsiasi natura; 
+
+                                
+                            
+                            
+                                v)
+                                
+                                    il procurare ai detenuti o agli internati viveri, bevande, ed altri oggetti; 
+
+                                
+                            
+                            
+                                z)
+                                
+                                    il ritardo ingiustificato nel consegnare ai superiori oggetti sequestrati ai detenuti o internati; 
+
+                                
+                            
+                            
+                                aa)
+                                
+                                    il comprare o vendere, il dare o ricevere in prestito dai detenuti o internati qualsiasi somma od oggetto, al di fuori dei casi rientranti nei compiti d'istituto; 
+
+                                
+                            
+                            
+                                bb)
+                                
+                                    il turpiloquio abituale e le bestemmie, specialmente alla presenza dei detenuti o internati; 
+
+                                
+                            
+                            
+                                cc)
+                                
+                                    l'ingerenza negli affari relativi ai processi dei detenuti, il far commissioni di qualsivoglia natura per conto dei detenuti o internati; 
+
+                                
+                            
+                            
+                                dd)
+                                
+                                    il maltrattare i detenuti o internati; 
+
+                                
+                            
+                            
+                                ee)
+                                
+                                    il servirsi senza permesso per uso particolare di oggetti di pertinenza dell'Amministrazione o destinati a servizi o a vantaggio della medesima; 
+
+                                
+                            
+                            
+                                ff)
+                                
+                                    l'inesattezza o l'ingiustificato ritardo nel riferire sulle infrazioni dei dipendenti o dei detenuti o internati.
 
 La pena pecuniaria e' inflitta dal Provveditore regionale, previo giudizio del Consiglio regionale di disciplina.
 
@@ -53,6 +324,101 @@ Agli appartenenti alla carriera dei funzionari la pena pecuniaria e' inflitta da
 ))
 
 ## Art. 4. — (Deplorazione)
+
+1.
+                        
+                            
+                                La deplorazione e' una dichiarazione scritta di formale riprovazione, con la quale vengono punite le seguenti infrazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la recidiva entro sei mesi delle infrazioni gia' punite con la pena pecuniaria; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il dare prove manifeste di negligenza nel comando o nel mantenere la disciplina; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il frequentare luoghi, persone o compagnie sconvenienti con evidente offesa alla dignita' delle funzioni; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    il contrarre debiti con i dipendenti; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    l'alterco con i colleghi o con altri operatori penitenziari in presenza dei detenuti; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    il fare eseguire ai detenuti lavori senza autorizzazione; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    l'introdursi nelle sezioni ove sono ristretti detenuti di sesso diverso, senza autorizzazione; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    gli atti diretti ad impedire o limitare l'esercizio dei diritti politici o sindacali o del mandato di difensore o di componente di un organo collegiale previsto dalle norme del Corpo di polizia penitenziaria; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    la negligenza nel governo o nella cura delle condizioni di vita o di benessere del personale o nel controllo sul comportamento disciplinare dei dipendenti; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    la negligenza o l'imprudenza o la inosservanza delle disposizioni sull'impiego del personale e dei mezzi o nell'uso, nella custodia o nella conservazione di armi, mezzi, materiali, infrastrutture, carteggio e documenti. 
+
+                                
+                            
+                            
+                                m)
+                                
+                                    l'addormentarsi in servizio; 
+
+                                
+                            
+                            
+                                n)
+                                
+                                    le indebite osservazioni in servizio, il censurare l'operato dei superiori, il seminare malcontento fra i colleghi; 
+
+                                
+                            
+                            
+                                o)
+                                
+                                    la tolleranza di abusi commessi dai dipendenti.
 
 Essa comporta il ritardo di un anno nell'aumento periodico dello stipendio o nella attribuzione della classe di stipendio superiore, a decorrere dal giorno in cui verrebbe a maturare il primo beneficio successivo alla data nella quale la mancanza e' stata rilevata.
 
@@ -72,6 +438,108 @@ La sospensione dal servizio consiste nell'allontanamento dal servizio per un per
 
 Comporta la deduzione dal computo dell'anzianita' di un periodo pari a quello trascorso dal punito in sospensione dal servizio, nonche' il ritardo di due anni nella promozione o nell'aumento periodico dello stipendio o nella attribuzione di una classe superiore di stipendio con la decorrenza di cui all'articolo 4. Tale ritardo e' elevato a tre anni se la sospensione dalla qualifica e' superiore a quattro mesi.
 
+3.
+                        
+                            
+                                Puo' essere inflitta nei seguenti casi: 
+ 
+                            
+                            
+                                a)
+                                
+                                    recidiva entro sei mesi delle infrazioni gia' punite con la deplorazione; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    occultamento delle infrazioni alla disciplina commesse dal personale dipendente; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    violazione degli ordini dei superiori, quando non abbia rilevanza penale; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    condanna, con sentenza passata in giudicato, per delitto non colposo, salvo quanto previsto dall'articolo 6; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    assidua frequenza, senza necessita' di servizio, di persone dedite ad attivita' illecite o di pregiudicati; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    uso non terapeutico, provato, di sostanze stupefacenti o psicotrope; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    denigrazione dell'Amministrazione o dei superiori; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    comportamento che produce turbamento nella regolarita' o nella continuita' del servizio di istituto; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    omessa o ritardata presentazione in servizio per un periodo superiore a quarantotto ore e inferiore ai cinque giorni o, comunque, nei casi in cui l'omissione o la ritardata presentazione in servizio di cui all'articolo 3, comma 2, lettera e), provochi gravi disservizi ovvero sia reiterata o abbituale; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    invio di lettere anonime contenenti accuse temerarie contro superiori o colleghi; 
+
+                                
+                            
+                            
+                                m)
+                                
+                                    introduzione nello stabilimento, per destinarli ai detenuti o internati, di denari, armi o strumenti atti ad offendere od a facilitare l'evasione, il non sequestrarli scoprendoli, o l'omettere di denunciarne il trafugamento; 
+
+                                
+                            
+                            
+                                n)
+                                
+                                    associazione diretta e indiretta ad interessi degli appaltatori o committenti dello stabilimento; 
+
+                                
+                            
+                            
+                                o)
+                                
+                                    accettare dai detenuti o internati o dai loro familiari o conviventi mance o regali sotto qualsiasi pretesto o forma, o l'entrare in rapporti di interesse con essi; 
+
+                                
+                            
+                            
+                                p)
+                                
+                                    favorire in qualsiasi modo la corrispondenza dei detenuti o internati, sia dentro sia fuori dello stabilimento.
+
 La sospensione dal servizio e' inflitta con decreto del ((capo del Dipartimento dell'Amministrazione penitenziaria)), previo giudizio del consiglio centrale di disciplina.
 
 Nel caso in cui la sospensione e' motivata ai sensi della lettera f) del comma 3, il decreto prevede, altresi', le iniziative di recupero socio-terapeutico, ai sensi del decreto del Presidente della Repubblica 9 ottobre 1990, n. 309, e del decreto del Presidente della Repubblica 23 agosto 1988, n. 395.
@@ -79,6 +547,84 @@ Nel caso in cui la sospensione e' motivata ai sensi della lettera f) del comma 3
 ## Art. 6. — (Destituzione)
 
 La destituzione consiste nella cancellazione dai ruoli dell'appartenente al Corpo di polizia penitenziaria la cui condotta abbia reso incompatibile la sua ulteriore permanenza in servizio.
+
+2.
+                        
+                            
+                                La destituzione inflitta: 
+ 
+                            
+                            
+                                a)
+                                
+                                    per atti che rivelino mancanza del senso dell'onore o del senso morale; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    per atti che siano in grave contrasto con i doveri assunti con il giuramento; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    per grave abuso di autorita' o di fiducia; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    per dolosa violazione dei doveri, che abbia arrecato grave pregiudizio allo Stato, all'Amministrazione penitenziaria, ad enti pubblici o a privati; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    per gravi atti di insubordinazione commessi pubblicamente o per istigazione all'insubordinazione; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    per reiterazione delle infrazioni per le quali prevista la sospensione dal servizio o per persistente riprovevole condotta dopo che siano stati adottati altri provvedimenti disciplinari; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    per omessa riassunzione del servizio, senza giustificato motivo, dopo cinque giorni di assenza arbitraria.
+
+3.
+                        
+                            
+                                Fermo restando quanto previsto dall'articolo 15 della legge 19 marzo 1990, n. 55, come modificato dall'articolo 1 della legge 18 gennaio 1992, n. 16, l'appartenente al Corpo di polizia penitenziaria puo' altresi' essere destituito all'esito del procedimento disciplinare di cui al comma 4, nei seguenti casi: 
+ 
+                            
+                            
+                                a)
+                                
+                                    condanna passata in giudicato per i delitti contro la personalita' dello Stato; per i delitti contro la pubblica Amministrazione; per i delitti contro l'Amministrazione della giustizia; per i delitti contro la fede pubblica, escluso quello di cui all'articolo 457 del codice penale; per i delitti contro la moralita' pubblica ed il buoncostume previsti dagli articoli 519, 520, 521 e 537 del codice penale e per i delitti previsti dagli articoli 3 e 4 della legge 20 febbraio 1958, n. 75; per i delitti di rapina, estorsione, millantato credito, furto, truffa, appropriazione indebita, sequestro di persona a scopo di estorsione, circonvenzione di persone incapaci, usura, ricettazione; per qualsiasi delitto avente finalita' di terrorismo o di eversione dell'ordinamento costituzionale; per i delitti previsti dalla legge 15 dicembre 1990, n. 395, sul nuovo ordinamento del Corpo di polizia penitenziaria; per qualsiasi altro delitto non colposo per il quale sia stata irrogata una pena non inferiore ad un anno di reclusione; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    condanna, passata in giudicato, che importi l'interdizione perpetua dai pubblici uffici; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    applicazione di una misura di sicurezza personale di cui all'articolo 215 del codice penale, ovvero di una misura di prevenzione a norma dell'articolo 3 della legge 27 dicembre 1956, n. 1423, dell'articolo 19 della legge 22 maggio 1975, n. 152, e dell'articolo 14 della legge 19 marzo 1990, n. 55.
 
 La destituzione per le cause di cui al comma 3 e' inflitta all'esito del procedimento disciplinare, che deve essere proseguito o promosso entro centottanta giorni dalla data in cui l'Amministrazione ha avuto notizia della sentenza irrevocabile di condanna ovvero del provvedimento con cui stata applicata in via definitiva la misura di sicurezza o di prevenzione e concluso nei successivi novanta giorni.
 Quando vi sia stata sospensione cautelare dal servizio a causa del procedimento penale, la stessa conserva la sua efficacia, se non revocata, per un periodo di tempo non superiore a cinque anni.
@@ -120,9 +666,66 @@ Quando l'appartenente al Corpo di polizia penitenziaria viene sottoposto, per gl
 
 Ogni superiore competente a rilevare le infrazioni.
 
+2.
+                        
+                            
+                                Il superiore che rileva l'infrazione deve:
+ 
+                            
+                            
+                                a)
+                                
+                                    contestare, dopo essersi qualificato, la mancanza al responsabile;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    procedere alla sua identificazione;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    astenersi, di massima, dal richiamarlo in presenza di altre persone, tranne che le circostanze non impongano l'immediata repressione; in tal caso deve riferirsi unicamente al particolare fatto del momento;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    dare le eventuali disposizioni atte ad eliminare o ad attenuare le conseguenze delle infrazioni;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    inoltrare rapporto sui fatti all'organo competente ad infliggere la sanzione.
+
 Il rapporto deve indicare chiaramente e concisamente tutti gli elementi obbiettivi e utili a configurare l'infrazione e non deve contenere alcuna proposta relativa alla specie e all'entita' della sanzione.
 
 ## Art. 11. — (Modalita' per l'irrogazione delle sanzioni)
+
+1.
+                        
+                            
+                                L'organo competente ad infliggere la sanzione deve:
+ 
+                            
+                            
+                                a)
+                                
+                                    tener conto di tutte le circostanze attenuanti, dei precedenti disciplinari e di servizio del trasgressore, del carattere, dell'eta', della qualifica e dell'anzianita' di servizio;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    sanzionare con maggiore rigore le mancanze commesse in servizio o che abbiano prodotto piu' gravi conseguenze per il servizio, quelle commesse in presenza o in concorso con inferiori o indicanti scarso senso morale e quelle recidive o abituali.
 
 Ogni sanzione deve essere inflitta previa contestazione degli addebiti e dopo che siano state sentite e vagliate le giustificazioni dell'interessato, nei modi previsti dall'articolo 12.
 
@@ -152,6 +755,39 @@ Con le stesse modalita' si procede alla nomina di un pari numero di supplenti pe
 
 ((2-bis. Sono competenti a giudicare disciplinarmente il personale in formazione, rispettivamente, il direttore della Scuola o istituto di istruzione e il direttore generale della formazione))
 
+3.
+                        
+                            
+                                Con decreto del provveditore regionale e' costituito, in ogni provveditorato, il consiglio regionale di disciplina, composto da: 
+ 
+                            
+                            
+                                a)
+                                
+                                    un dirigente penitenziario, che lo convoca e lo presiede, con esclusione del direttore dell'istituto ove presta servizio l'incolpato; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    due appartenenti alla carriera dei funzionari del Corpo di polizia penitenziaria, che non prestino servizio presso lo stesso istituto dell'incolpato; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    
+                                        ((LETTERA SOPPRESSA DAL D.LGS. 27 DICEMBRE 2019, N. 172)). 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    un appartenente al ruolo ispettori del Corpo di polizia penitenziaria con funzioni di segretario.
+
 Con le stesse modalita' si procede alla nomina di un pari numero di supplenti per i membri di cui alle lettere a), b), c) e d) del comma 3.
 
 Il consiglio regionale di disciplina e' competente a giudicare gli appartenenti al Corpo di polizia penitenziaria che prestano servizio nell'ambito provveditoriale.
@@ -176,6 +812,17 @@ I componenti del consiglio centrale e dei consigli regionali durano in carica tr
 
 ## Art. 15. — (Istruttoria per l'irrogazione della pena pecuniaria, della deplorazione, della sospensione dal servizio e della distituzione)
 
+1.
+                        
+                            
+                                L'istruttoria per irrogare la pena pecuniaria, la deplorazione, la sospensione dal servizio o la destituzione deve svolgersi attraverso le seguenti fasi: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il direttore dell'istituto ((ovvero il comandante del reparto quando rivesta la qualifica di primo dirigente)), il capo dell'ufficio o del servizio che abbia notizia di un'infrazione commessa da un dipendente, per la quale sia prevista una sanzione piu' grave della censura, informa il provveditore regionale competente per la sede in cui lo stesso presta servizio, qualora l'infrazione comporti la sanzione della pena pecuniaria o della deplorazione; informa l'autorita' centrale competente, qualora l'infrazione comporti la sanzione della sospensione dal servizio o della destituzione.
+
 Le predette autorita', ove ritengano che l'infrazione comporti l'irrogazione di una delle predette sanzioni, dispongono che venga svolta inchiesta disciplinare affidandone lo svolgimento ad un funzionario istruttore che appartenga ad istituto, ufficio o servizio diverso da quello dell'inquisito e che sia di livello dirigenziale, qualora l'infrazione comporti la sanzione della destituzione, della carriera dei funzionari del Corpo di polizia penitenziaria, negli altri casi, purche' avente qualifica superiore a quella dell'incolpato.
 
 Per il funzionario istruttore valgono le norme sulla astensione e sulla ricusazione dei componenti i consigli di disciplina.
@@ -199,9 +846,66 @@ Il segretario, appena terminata la prima riunione, notifica per iscritto all'inq
 
 Il difensore, se lo richiede, ha la facolta' di prendere visione degli atti prima della data della riunione e di chiederne copia; lo stesso non puo' intervenire alle sedute degli organi collegiali senza l'assenso dell'interessato.
 
+4.
+                        
+                            
+                                Nel giorno fissato, aperta la seduta, il presidente, dopo aver fatto introdurre l'inquisito e l'eventuale difensore:
+ 
+                            
+                            
+                                a)
+                                
+                                    legge l'ordine di convocazione;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    rende noti i precedenti disciplinari e di servizio dell'inquisito;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    legge le dichiarazioni scritte dell'avvenuto esame, da parte propria e degli altri membri, degli atti dell'inchiesta formale;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    fa leggere dal segretario la contestazione degli addebiti, le giustificazioni e la relazione del funzionario istruttore;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    chiede se i membri del consiglio o l'inquisito desiderino che sia letto qualche altro atto dell'inchiesta e, se lo ritiene necessario, ne autorizza la lettura.
+
 Il presidente, o i membri del consiglio previa autorizzazione del presidente, possono chiedere al giudicando chiarimenti sui fatti a lui addebitati. Questi puo' presentare una memoria preparata in precedenza e firmata, contenente la sua difesa, e puo' produrre eventuali nuovi elementi; la memoria e i documenti sono letti da uno dei componenti il consiglio ed allegati agli atti. Il presidente da' la parola al difensore, se presente, le cui conclusioni devono essere riportate nel verbale della seduta, ed infine chiede all'inquisito se ha altro da aggiungere. Udite le ulteriori ragioni a difesa ed esaminati gli eventuali nuovi documenti, il presidente dichiara chiusa la trattazione orale e fa ritirare l'inquisito ed il difensore.
 
 Il consiglio, se ritiene di non poter esprimere il proprio giudizio senza un supplemento di istruttoria, sospende il procedimento e restituisce gli atti all'organo proponente indicando i punti sui quali giudica necessari ulteriori accertamenti.
+
+7.
+                        
+                            
+                                Non verificandosi l'ipotesi di cui al comma 6 il consiglio delibera a maggioranza di voti, con le seguenti modalita' :
+ 
+                            
+                            
+                                a)
+                                
+                                    il presidente sottopone separatamente a decisione le questioni pregiudiziali, quelle incidentali la cui decisione sia stata differita, quelle di fatto e di diritto riguardanti le infrazioni contestate e, quindi, i componenti del consiglio danno il loro voto su ciascuna questione;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    qualora nella votazione si manifestino piu' di due opinioni, i componenti il consiglio che hanno votato per la sanzione piu' grave si uniscono a quelli che hanno votato per la sanzione immediatamente inferiore fino a che venga a sussistere la maggioranza. In ogni altro caso, quando su una questione vi e' parita' di voti, prevale l'opinione piu' favorevole al giudicando.
 
 ## Art. 17. — (Deliberazione del consiglio di disciplina)
 

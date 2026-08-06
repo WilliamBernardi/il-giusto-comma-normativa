@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Testi Unici
 vigenza_date: 2026-03-01
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:40:01Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -259,11 +259,130 @@ Il titolo di citta' puo' essere concesso con decreto del Presidente della Repubb
 
 ## Art. 19. — Funzioni
 
+1.
+                        
+                            
+                                Spettano alla provincia le funzioni amministrative di interesse provinciale che riguardino vaste zone intercomunali o l'intero territorio provinciale nei seguenti settori:
+
+                            
+                            
+                                a)
+                                
+                                    difesa del suolo, tutela e valorizzazione dell'ambiente e prevenzione delle calamita';
+                                
+                            
+                            
+                                b)
+                                
+                                    tutela e valorizzazione delle risorse idriche ed energetiche;
+                                
+                            
+                            
+                                c)
+                                
+                                    valorizzazione dei beni culturali;
+                                
+                            
+                            
+                                d)
+                                
+                                    viabilita' e trasporti;
+                                
+                            
+                            
+                                e)
+                                
+                                    protezione della flora e della fauna parchi e riserve naturali;
+                                
+                            
+                            
+                                f)
+                                
+                                    caccia e pesca nelle acque interne;
+                                
+                            
+                            
+                                g)
+                                
+                                    organizzazione dello smaltimento dei rifiuti a livello provinciale, rilevamento, disciplina e controllo degli scarichi delle acque e delle emissioni atmosferiche e sonore;
+                                
+                            
+                            
+                                h)
+                                
+                                    servizi sanitari, di igiene e profilassi pubblica, attribuiti dalla legislazione statale e regionale;
+                                
+                            
+                            
+                                i)
+                                
+                                    compiti connessi alla istruzione secondaria di secondo grado ed artistica ed alla formazione professionale, compresa l'edilizia scolastica, attribuiti dalla legislazione statale e regionale;
+                                
+                            
+                            
+                                l)
+                                
+                                    raccolta ed elaborazione dati, assistenza tecnico-amministrativa agli enti locali.
+
 La provincia, in collaborazione con i comuni e sulla base di programmi da essa proposti promuove e coordina attivita', nonche' realizza opere di rilevante interesse provinciale sia nel settore economico, produttivo, commerciale e turistico, sia in quello sociale, culturale e sportivo.
 
 La gestione di tali attivita' ed opere avviene attraverso le forme previste dal presente testo unico per la gestione dei servizi pubblici locali.
 
 ## Art. 20. — Compiti di programmazione
+
+1.
+                        
+                            
+                                La provincia:
+
+
+                            
+                            
+                                a)
+                                
+                                    raccoglie e coordina le proposte avanzate dai comuni, ai fini della programmazione economica, territoriale ed ambientale della regione;
+                                
+                            
+                            
+                                b)
+                                
+                                    concorre alla determinazione del programma regionale di sviluppo e degli altri programmi e piani regionali secondo norme dettate dalla legge regionale;
+                                
+                            
+                            
+                                c)
+                                
+                                    formula e adotta con riferimento alle previsioni e agli obiettivi del programma regionale di sviluppo propri programmi pluriennali sia di carattere generale che settoriale e promuove il coordinamento dell'attivita' programmatoria dei comuni.
+
+2.
+                        
+                            
+                                La provincia, inoltre, ferme restando le competenze dei comuni ed in attuazione della legislazione e dei programmi regionali, predispone ed adotta il piano territoriale di coordinamento che determina gli indirizzi generali di assetto del territorio e, in particolare, indica:
+
+
+                            
+                            
+                                a)
+                                
+                                    le diverse destinazioni del territorio in relazione alla prevalente vocazione delle sue parti;
+                                
+                            
+                            
+                                b)
+                                
+                                    la localizzazione di massima delle maggiori infrastrutture e delle principali linee di comunicazione;
+                                
+                            
+                            
+                                c)
+                                
+                                    le linee di intervento per la sistemazione idrica, idrogeologica ed idraulico-forestale ed in genere per il consolidamento del suolo e la regimazione delle acque;
+                                
+                            
+                            
+                                d)
+                                
+                                    le aree nelle quali sia opportuno istituire parchi o riserve naturali.
 
 I programmi pluriennali e il piano territoriale di coordinamento sono trasmessi alla regione ai fini di accertarne la conformita' agli indirizzi regionali della programmazione socio-economica e territoriale.
 
@@ -278,6 +397,59 @@ Gli enti e le amministrazioni pubbliche, nell'esercizio delle rispettive compete
 
 
 ((COMMA ABROGATO DALLA L. 23 DICEMBRE 2009, N. 191, COME MODIFICATA DAL D.L. 5 GENNAIO 2010, N. 2, CONVERTITO CON MODIFICAZIONI DALLA L. 26 MARZO 2010, N. 42)).
+
+3.
+                        
+                            
+                                Per la revisione delle circoscrizioni provinciali e l'istituzione di nuove province i comuni esercitano l'iniziativa di cui all'articolo 133 della Costituzione, tenendo conto dei seguenti criteri ed indirizzi: 
+ 
+                            
+                            
+                                a)
+                                
+                                    ciascun territorio provinciale deve corrispondere alla zona entro la quale si svolge la maggior parte dei rapporti sociali, economici e culturali della popolazione residente; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    ciascun territorio provinciale deve avere dimensione tale, per ampiezza, entita' demografica, nonche' per le attivita' produttive esistenti o possibili, da consentire una programmazione dello sviluppo che possa favorire il riequilibrio economico, sociale e culturale del territorio provinciale e regionale; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    l'intero territorio di ogni comune deve far parte di una sola provincia; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    l'iniziativa dei comuni, di cui all'articolo 133 della Costituzione, deve conseguire l'adesione della maggioranza dei comuni dell'area interessata, che rappresentino, comunque, la maggioranza della popolazione complessiva dell'area stessa, con delibera assunta a maggioranza assoluta dei consiglieri assegnati; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    di norma, la popolazione delle province risultanti dalle modificazioni territoriali non deve essere inferiore a 200.000 abitanti; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    l'istituzione di nuove province non comporta necessariamente l'istituzione di uffici provinciali delle amministrazioni dello Stato e degli altri enti pubblici; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    le province preesistenti debbono garantire alle nuove, in proporzione al territorio ed alla popolazione trasferiti, personale, beni, strumenti operativi e risorse finanziarie adeguati.
 
 Ai sensi del secondo comma dell'articolo 117 della Costituzione le regioni emanano norme intese a promuovere e coordinare l'iniziativa dei comuni di cui alla lettera d) del comma 3.
 
@@ -338,6 +510,42 @@ Le comunita' montane sono unioni di comuni, enti locali costituiti fra comuni mo
 La comunita' montana ha un organo rappresentativo e un organo esecutivo composti da sindaci, assessori o consiglieri dei comuni partecipanti. Il presidente puo' cumulare la carica con quella di sindaco di uno dei comuni della comunita'. I rappresentanti dei comuni della comunita' montana sono eletti dai consigli dei comuni partecipanti con il sistema del voto limitato garantendo la rappresentanza delle minoranze.
 
 La regione individua, concordandoli nelle sedi concertative di cui all'articolo 4, gli ambiti o le zone omogenee per la costituzione delle comunita' montane, in modo da consentire gli interventi per la valorizzazione della montagna e l'esercizio associato delle funzioni comunali. La costituzione della comunita' montana avviene con provvedimento del presidente della giunta regionale.
+
+4.
+                        
+                            
+                                La legge regionale disciplina le comunita' montane stabilendo in particolare:
+
+
+                            
+                            
+                                a)
+                                
+                                    le modalita' di approvazione dello statuto;
+                                
+                            
+                            
+                                b)
+                                
+                                    le procedure di concertazione;
+                                
+                            
+                            
+                                c)
+                                
+                                    la disciplina dei piani zonali e dei programmi annuali;
+                                
+                            
+                            
+                                d)
+                                
+                                    i criteri di ripartizione tra le comunita' montane dei finanziamenti regionali e di quelli dell'Unione europea;
+                                
+                            
+                            
+                                e)
+                                
+                                    i rapporti con gli altri enti operanti nel territorio.
 
 La legge regionale puo' escludere dalla comunita' montana i comuni parzialmente montani nei quali la popolazione residente nel territorio montano sia inferiore al 15 per cento della popolazione complessiva, restando sempre esclusi i capoluoghi di provincia e i comuni con popolazione complessiva superiore a 40.000 abitanti.
 L'esclusione non priva i rispettivi territori montani dei benefici e degli interventi speciali per la montagna stabiliti dall'Unione europea e dalle leggi statali e regionali. La legge regionale puo' prevedere, altresi', per un piu' efficace esercizio delle funzioni e dei servizi svolti in forma associata, l'inclusione dei comuni confinanti, con popolazione non superiore a 20.000 abitanti, che siano parte integrante del sistema geografico e socioeconomico della comunita'.
@@ -435,6 +643,26 @@ Decorso inutilmente il termine di cui sopra la regione esercita il potere sostit
 
 Le regioni predispongono, concordandolo con i comuni nelle apposite sedi concertative, un programma di individuazione degli ambiti per la gestione associata sovracomunale di funzioni e servizi, realizzato anche attraverso le unioni, che puo' prevedere altresi' la modifica di circoscrizioni comunali e i criteri per la corresponsione di contributi e incentivi alla progressiva unificazione. Il programma e' aggiornato ogni tre anni, tenendo anche conto delle unioni di comuni regolarmente costituite.
 
+4.
+                        
+                            
+                                Al fine di favorire il processo di riorganizzazione sovracomunale dei servizi, delle funzioni e delle strutture, le regioni provvedono a disciplinare, con proprie leggi, nell'ambito del programma territoriale di cui al comma 3, le forme di incentivazione dell'esercizio associato delle funzioni da parte dei comuni, con l'eventuale previsione nel proprio bilancio di un apposito fondo. A tale fine, oltre a quanto stabilito dal comma 3 e dagli articoli 30 e 32, le regioni si attengono ai seguenti principi fondamentali:
+
+
+                            
+                            
+                                a)
+                                
+                                    nella disciplina delle incentivazioni:
+1) favoriscono il massimo grado di integrazione tra i comuni, graduando la corresponsione dei benefici in relazione al livello di unificazione, rilevato mediante specifici indicatori con riferimento alla tipologia ed alle caratteristiche delle funzioni e dei servizi associati o trasferiti in modo tale da erogare il massimo dei contributi nelle ipotesi di massima integrazione;
+2) prevedono in ogni caso una maggiorazione dei contributi nelle ipotesi di fusione e di unione, rispetto alle altre forme di gestione sovracomunale;
+                                
+                            
+                            
+                                b)
+                                
+                                    promuovono le unioni di comuni, senza alcun vincolo alla successiva fusione, prevedendo comunque ulteriori benefici da corrispondere alle unioni che autonomamente deliberino, su conforme proposta dei consigli comunali interessati, di procedere alla fusione.
+
 ## Art. 34. — Accordi di programma
 
 Per la definizione e l'attuazione di opere, di interventi o di programmi di intervento che richiedono, per la loro completa realizzazione, l'azione integrata e coordinata di comuni, di province e regioni, di amministrazioni statali e di altri soggetti pubblici, o comunque di due o piu' tra i soggetti predetti, il presidente della regione o il presidente della provincia o il sindaco, in relazione alla competenza primaria o prevalente sull'opera o sugli interventi o sui programmi di intervento, promuove la conclusione di un accordo di programma, anche su richiesta di uno o piu' dei soggetti interessati, per assicurare il coordinamento delle azioni e per determinarne i tempi, le modalita', il finanziamento ed ogni altro connesso adempimento.
@@ -466,6 +694,90 @@ Sono organi di governo del comune il consiglio, la giunta, il sindaco.
 Sono organi di governo della provincia il consiglio, la giunta, il presidente.
 
 ## Art. 37. — Composizione dei consigli
+
+1.
+                        
+                            
+                                Il consiglio comunale e' composto dal sindaco e:
+
+
+                            
+                            
+                                a)
+                                
+                                    da 60 membri nei comuni con popolazione superiore ad un milione di abitanti;
+                                
+                            
+                            
+                                b)
+                                
+                                    da 50 membri nei comuni con popolazione superiore a 500.000 abitanti;
+                                
+                            
+                            
+                                c)
+                                
+                                    da 46 membri nei comuni con popolazione superiore a 250.000 abitanti.
+                                
+                            
+                            
+                                d)
+                                
+                                    da 40 membri nei comuni con popolazione superiore a 100.000 abitanti o che, pur avendo popolazione inferiore, siano capoluoghi di provincia;
+                                
+                            
+                            
+                                e)
+                                
+                                    da 30 membri nei comuni con popolazione superiore a 30.000 abitanti;
+                                
+                            
+                            
+                                f)
+                                
+                                    da 20 membri nei comuni con popolazione superiore a 10.000 abitanti;
+                                
+                            
+                            
+                                g)
+                                
+                                    da 16 membri nei comuni con popolazione superiore a 3.000 abitanti;
+                                
+                            
+                            
+                                h)
+                                
+                                    da 12 membri negli altri comuni.
+
+2.
+                        
+                            
+                                Il consiglio provinciale e' composto dal presidente della provincia e:
+
+
+                            
+                            
+                                a)
+                                
+                                    da 45 membri nelle province con popolazione residente superiore a 1.400.000 abitanti;
+                                
+                            
+                            
+                                b)
+                                
+                                    da 36 membri nelle province con popolazione residente superiore a 700.000 abitanti;
+                                
+                            
+                            
+                                c)
+                                
+                                    da 30 membri nelle province con popolazione residente superiore a 300.000 abitanti;
+                                
+                            
+                            
+                                d)
+                                
+                                    da 24 membri nelle altre province.
 
 Il presidente della provincia e i consiglieri provinciali rappresentano la intera provincia.
 
@@ -540,6 +852,77 @@ Il consiglio comunale, nella prima seduta, elegge tra i propri componenti la com
 
 Il consiglio e' l'organo di indirizzo e di controllo politico-amministrativo.
 
+2.
+                        
+                            
+                                Il consiglio ha competenza limitatamente ai seguenti atti fondamentali: 
+
+                            
+                            
+                                a)
+                                
+                                    statuti dell'ente e delle aziende speciali, regolamenti salva l'ipotesi di cui all'articolo 48, comma 3, criteri generali in materia di ordinamento degli uffici e dei servizi; 
+                                
+                            
+                            
+                                b)
+                                
+                                    programmi, relazioni previsionali e programmatiche, piani finanziari, programmi triennali e elenco annuale dei lavori pubblici, bilanci annuali e pluriennali e relative variazioni, rendiconto, piani territoriali ed urbanistici, programmi annuali e pluriennali per la loro attuazione, eventuali deroghe ad essi, pareri da rendere per dette materie; 
+                                
+                            
+                            
+                                c)
+                                
+                                    convenzioni tra i comuni e quelle tra i comuni e provincia, costituzione e modificazione di forme associative; 
+                                
+                            
+                            
+                                d)
+                                
+                                    istituzione, compiti e norme sul funzionamento degli organismi di decentramento e di partecipazione; 
+                                
+                            
+                            
+                                e)
+                                
+                                    organizzazione dei pubblici servizi, costituzione di istituzioni e aziende speciali, concessione dei pubblici servizi, partecipazione dell'ente locale a societa' di capitali, affidamento di attivita' o servizi mediante convenzione; 
+                                
+                            
+                            
+                                f)
+                                
+                                    istituzione e ordinamento dei tributi, con esclusione della determinazione delle relative aliquote; disciplina generale delle tariffe per la fruizione dei beni e dei servizi; 
+                                
+                            
+                            
+                                g)
+                                
+                                    indirizzi da osservare da parte delle aziende pubbliche e degli enti dipendenti, sovvenzionati o sottoposti a vigilanza; 
+                                
+                            
+                            
+                                h)
+                                
+                                    contrazione di mutui e aperture di credito non previste espressamente in atti fondamentali del consiglio ed emissioni di prestiti obbligazionari; 
+                                
+                            
+                            
+                                i)
+                                
+                                    spese che impegnino i bilanci per gli esercizi successivi, escluse quelle relative alle locazioni di immobili ed alla somministrazione e fornitura di beni e servizi a carattere continuativo; 
+                                
+                            
+                            
+                                l)
+                                
+                                    acquisti e alienazioni immobiliari, relative permute, appalti e concessioni che non siano previsti espressamente in atti fondamentali del consiglio o che non ne costituiscano mera esecuzione e che, comunque, non rientrino nella ordinaria amministrazione di funzioni e servizi di competenza della giunta, del segretario o di altri funzionari; 
+                                
+                            
+                            
+                                m)
+                                
+                                    definizione degli indirizzi per la nomina e la designazione dei rappresentanti del comune presso enti, aziende ed istituzioni, nonche' nomina dei rappresentanti del consiglio presso enti, aziende ed istituzioni ad esso espressamente riservata dalla legge.
+
 Il consiglio, nei modi disciplinati dallo statuto, partecipa altresi' alla definizione, all'adeguamento e alla verifica periodica dell'attuazione delle linee programmatiche da parte del sindaco o del presidente della provincia e dei singoli assessori.
 
 Le deliberazioni in ordine agli argomenti di cui al presente articolo non possono essere adottate in via d'urgenza da altri organi del comune o della provincia, salvo quelle attinenti alle variazioni di bilancio adottate dalla giunta da sottoporre a ratifica del consiglio nei sessanta giorni successivi, a pena di decadenza. 
@@ -592,6 +975,27 @@ Gli statuti, nel rispetto di quanto stabilito dal comma 1, possono fissare il nu
 Nei comuni con popolazione superiore a 15.000 abitanti e nelle province gli assessori sono nominati dal sindaco o dal presidente della provincia, anche al di fuori dei componenti del consiglio, fra i cittadini in possesso dei requisiti di candidabilita', eleggibilita' e compatibilita' alla carica di consigliere.
 
 Nei comuni con popolazione inferiore a 15.000 abitanti lo statuto puo' prevedere la nomina ad assessore di cittadini non facenti parte del consiglio ed in possesso dei requisiti di candidabilita', eleggibilita' e compatibilita' alla carica di consigliere.
+
+5.
+                        
+                            
+                                Fino all'adozione delle norme statutarie di cui al comma 1, le giunte comunali e provinciali sono composte da un numero, di assessori stabilito rispettivamente nelle seguenti misure: 
+ 
+                            
+                            
+                                a)
+                                
+                                    non superiore a 4 nei comuni con popolazione inferiore a 10.000 abitanti; non superiore a 6 nei comuni con popolazione compresa tra 10.001 e 100.000 abitanti; non superiore a 10 nei comuni con popolazione compresa tra 100.001 e 250.000 abitanti e nei capoluoghi di provincia con popolazione inferiore a 100.000 abitanti; non superiore a 12 nei comuni con popolazione compresa tra 250.001 e 500.000 abitanti; non superiore a 14 nei comuni con popolazione compresa tra 500.001 e 1.000.000 di abitanti e non superiore a 16 nei comuni con popolazione superiore a 1.000.000 di abitanti; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    non superiore a 6 per le province a cui sono assegnati 24 consiglieri; non superiore a 8 per le province a cui sono assegnati 30 consiglieri; non superiore a 10 per le province a cui sono assegnati 36 consiglieri; non superiore a 12 per quelle a cui sono assegnati 45 consiglieri. 
+ --------------- 
+ AGGIORNAMENTO (31) 
+ La L. 24 dicembre 2007, n. 244, ha disposto (con l'art. 2, comma 23) che la presente modifica "entra in vigore a decorrere dalle prossime elezioni amministrative locali".
 
 ## Art. 48. — Competenze delle giunte
 
@@ -682,6 +1086,31 @@ Le dimissioni presentate dal sindaco o dal presidente della provincia diventano 
 Lo scioglimento del consiglio comunale o provinciale determina in ogni caso la decadenza del sindaco o del presidente della provincia nonche' delle rispettive giunte.
 
 ## Art. 54. — (Attribuzioni del sindaco nelle funzioni di competenza statale)
+
+1.
+                        
+                            
+                                Il sindaco, quale ufficiale del Governo, sovrintende: 
+ 
+                            
+                            
+                                a)
+                                
+                                    all'emanazione degli atti che gli sono attribuiti dalla legge e dai regolamenti in materia di ordine e sicurezza pubblica; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    allo svolgimento delle funzioni affidategli dalla legge in materia di pubblica sicurezza e di polizia giudiziaria; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    alla vigilanza su tutto quanto possa interessare la sicurezza e l'ordine pubblico, informandone preventivamente il prefetto.
 
 Il sindaco, nell'esercizio delle funzioni di cui al comma 1, concorre ad assicurare anche la cooperazione della polizia locale con le Forze di polizia statali, nell'ambito delle direttive di coordinamento impartite dal Ministro dell'interno - Autorita' nazionale di pubblica sicurezza.
 
@@ -1134,6 +1563,52 @@ COMMA ABROGATO DALLA L. 24 DICEMBRE 2007, N. 244.
 
 Agli amministratori ai quali viene corrisposta l'indennita' di funzione prevista dal presente capo non e' dovuto alcun gettone per la partecipazione a sedute degli organi collegiali del medesimo ente, ne' di commissioni che di quell'organo costituiscono articolazioni interne ed esterne.
 
+8.
+                        
+                            
+                                La misura delle indennita' di funzione e dei gettoni di presenza di cui al presente articolo e' determinata, senza maggiori oneri a carico del bilancio dello Stato, con decreto del Ministro dell'interno, di concerto con il Ministro del tesoro, del bilancio e della programmazione economica, ai sensi dell'articolo 17, Comma 3, della legge 23 agosto 1988, n. 400, sentita la Conferenza Stato-citta' ed autonomie locali nel rispetto dei seguenti criteri: 
+ 
+                            
+                            
+                                a)
+                                
+                                    equiparazione del trattamento per categorie di amministratori; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    articolazione delle indennita' in rapporto con la dimensione demografica degli enti, tenuto conto delle fluttuazioni stagionali della popolazione, della percentuale delle entrate proprie dell'ente rispetto al totale delle entrate, nonche' dell'ammontare del bilancio di parte corrente; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    articolazione dell'indennita' di funzione dei presidenti dei consigli, dei vice sindaci e dei vice presidenti delle province, degli assessori, in rapporto alla misura della stessa stabilita per il sindaco e per il presidente della provincia. Al presidente e agli assessori delle unioni di comuni, dei consorzi fra enti locali e delle comunita' montane sono attribuite le indennita' di funzione nella misura massima del 50 per cento dell'indennita' prevista per un comune avente popolazione pari alla popolazione dell'unione di comuni, del consorzio fra enti locali o alla popolazione montana della comunita' montana; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    definizione di speciali indennita' di funzione per gli amministratori delle citta' metropolitane in relazione alle particolari funzioni ad esse assegnate; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    LETTERA SOPPRESSA DAL D.L. 31 MAGGIO 2010, N. 78, CONVERTITO CON MODIFICAZIONI DALLA L. 30 LUGLIO 2010, N. 122. 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    previsione dell'integrazione dell'indennita' dei sindaci e dei presidenti di provincia, a fine mandato, con una somma pari a una indennita' mensile, spettante per ciascun anno di mandato.
+
 La misura dell'indennita' di funzione di cui al presente articolo spettante ai sindaci dei comuni con popolazione fino a 3.000 abitanti e' incrementata fino all'85 per cento della misura dell'indennita' spettante ai sindaci dei comuni con popolazione fino a 5.000 abitanti.
 
 Su richiesta della Conferenza Stato-citta' ed autonomie locali si' puo' procedere alla revisione del decreto ministeriale di cui al comma 8 con la medesima procedura ivi indicata.
@@ -1224,6 +1699,54 @@ All'ordinamento degli uffici e del personale degli enti locali, ivi compresi i d
 
 Gli enti locali disciplinano, con propri regolamenti, in conformita' allo statuto, l'ordinamento generale degli uffici e dei servizi, in base a criteri di autonomia, funzionalita' ed economicita' di gestione e secondo principi di professionalita' e responsabilita'.
 
+2.
+                        
+                            
+                                La potesta' regolamentare degli enti locali si esercita, tenendo conto di quanto demandato alla contrattazione collettiva nazionale, nelle seguenti materie:
+
+
+                            
+                            
+                                a)
+                                
+                                    responsabilita' giuridiche attinenti ai singoli operatori nell'espletamento delle procedure amministrative;
+                                
+                            
+                            
+                                b)
+                                
+                                    organi, uffici, modi di conferimento della titolarita' dei medesimi;
+                                
+                            
+                            
+                                c)
+                                
+                                    principi fondamentali di organizzazione degli uffici;
+                                
+                            
+                            
+                                d)
+                                
+                                    procedimenti di selezione per l'accesso al lavoro e di avviamento al lavoro;
+                                
+                            
+                            
+                                e)
+                                
+                                    ruoli, dotazioni organiche e loro consistenza complessiva;
+                                
+                            
+                            
+                                f)
+                                
+                                    garanzia della liberta' di insegnamento ed autonomia professionale nello svolgimento dell'attivita' didattica, scientifica e di ricerca;
+                                
+                            
+                            
+                                g)
+                                
+                                    disciplina della responsabilita' e delle incompatibilita' tra impiego nelle pubbliche amministrazioni ed altre attivita' e casi di divieto di cumulo di impieghi e incarichi pubblici.
+
 I regolamenti di cui al comma 1, nella definizione delle procedure per le assunzioni, fanno riferimento ai principi fissati dall'articolo 36 del decreto legislativo 3 febbraio 1993, n. 29, e successive modificazioni ed integrazioni.
 
 In mancanza di disciplina regolamentare sull'ordinamento degli uffici e dei servizi o per la parte non disciplinata dalla stessa, si applica la procedura di reclutamento prevista dal decreto del Presidente della Repubblica 9 maggio 1994, n. 487.
@@ -1302,6 +1825,43 @@ Il comune e la provincia hanno un segretario titolare dipendente dall'Agenzia au
 Il segretario comunale e provinciale svolge compiti di collaborazione e funzioni di assistenza giuridico-amministrativa nei confronti degli organi dell'ente in ordine alla conformita' dell'azione amministrativa alle leggi, allo statuto ed ai regolamenti.
 
 Il sindaco e il presidente della provincia, ove si avvalgano della facolta' prevista dal comma 1 dell'articolo 108, contestualmente al provvedimento di nomina del direttore generale disciplinano, secondo l'ordinamento dell'ente e nel rispetto del loro distinti ed autonomi ruoli, i rapporti tra il segretario ed il direttore generale.
+
+4.
+                        
+                            
+                                Il segretario sovrintende allo svolgimento delle funzioni dei dirigenti e ne coordina l'attivita', salvo quando ai sensi e per gli effetti del comma 1 dell'articolo 108 il sindaco e il presidente della provincia abbiano nominato il direttore generale. Il segretario inoltre: 
+ 
+
+                            
+                            
+                                a)
+                                
+                                    partecipa con funzioni consultive, referenti e di assistenza alle riunioni del consiglio e della giunta e ne cura la verbalizzazione; 
+                                
+                            
+                            
+                                b)
+                                
+                                    esprime il parere di cui all'articolo 49, in relazione alle sue competenze, nel caso in cui l'ente non abbia responsabili dei servizi; 
+                                
+                            
+                            
+                                c)
+                                
+                                    
+                                        ((roga, su richiesta dell'ente, i contratti nei quali l'ente e' parte e autentica)) scritture private ed atti unilaterali nell'interesse dell'ente; 
+                                
+                            
+                            
+                                d)
+                                
+                                    esercita ogni altra funzione attribuitagli dallo statuto o dai regolamenti, o conferitagli dal sindaco o dal presidente della provincia; 
+                                
+                            
+                            
+                                e)
+                                
+                                    esercita le funzioni di direttore generale nell'ipotesi prevista dall'articolo 108, comma 4.
 
 Il regolamento sull'ordinamento degli uffici e dei servizi, puo' prevedere un vicesegretario per coadiuvare il segretario e sostituirlo nei casi di vacanza, assenza o impedimento.
 
@@ -1392,6 +1952,68 @@ Questi si uniformano al principio per cui i poteri di indirizzo e di controllo p
 
 Spettano ai dirigenti tutti i compiti, compresa l'adozione degli atti e provvedimenti amministrativi che impegnano l'amministrazione verso l'esterno, non ricompresi espressamente dalla legge o dallo statuto tra le funzioni di indirizzo e controllo politico-amministrativo degli organi di governo dell'ente o non rientranti tra le funzioni del segretario o del direttore generale, di cui rispettivamente agli articoli 97 e 108.
 
+3.
+                        
+                            
+                                Sono attribuiti ai dirigenti tutti i compiti di attuazione degli obiettivi e dei programmi definiti con gli atti di indirizzo adottati dai medesimi organi tra i quali in particolare, secondo le modalita' stabilite dallo statuto o dai regolamenti dell'ente: 
+ 
+
+                            
+                            
+                                a)
+                                
+                                    la presidenza delle commissioni di gara e di concorso; ((la commissione giudicatrice, nel caso di aggiudicazione dei contratti di importo inferiore alle soglie europee con il criterio dell'offerta economicamente piu' vantaggiosa, puo' essere presieduta dal responsabile unico del procedimento;))
+                                        ((141))
+                                    
+                                
+                            
+                            
+                                b)
+                                
+                                    la responsabilita' delle procedure d'appalto e di concorso; 
+                                
+                            
+                            
+                                c)
+                                
+                                    la stipulazione dei contratti; 
+                                
+                            
+                            
+                                d)
+                                
+                                    gli atti di gestione finanziaria, ivi compresa l'assunzione di impegni di spesa; 
+                                
+                            
+                            
+                                e)
+                                
+                                    gli atti di amministrazione e gestione del personale; 
+                                
+                            
+                            
+                                f)
+                                
+                                    i provvedimenti di autorizzazione, concessione o analoghi, il cui rilascio presupponga accertamenti e valutazioni, anche di natura discrezionale, nel rispetto di criteri predeterminati dalla legge, dai regolamenti, da atti generali di indirizzo, ivi comprese le autorizzazioni e le concessioni edilizie; 
+                                
+                            
+                            
+                                g)
+                                
+                                    tutti i provvedimenti di sospensione dei lavori, abbattimento e riduzione in pristino di competenza comunale, nonche' i poteri di vigilanza edilizia e di irrogazione delle sanzioni amministrative previsti dalla vigente legislazione statale e regionale in materia di prevenzione e repressione dell'abusivismo edilizio e paesaggistico-ambientale; 
+                                
+                            
+                            
+                                h)
+                                
+                                    le attestazioni, certificazioni comunicazioni, diffide, verbali, autenticazioni, legalizzazioni ed ogni altro atto costituente manifestazione di giudizio e di conoscenza; 
+                                
+                            
+                            
+                                i)
+                                
+                                    gli atti ad essi attribuiti dallo statuto e dai regolamenti o, in base a questi, delegati dal sindaco.
+
 Le attribuzioni dei dirigenti, in applicazione del principio di cui all'articolo 1, comma 4, possono essere derogate soltanto espressamente e ad opera di specifiche disposizioni legislative.
 
 A decorrere dalla data di entrata in vigore del presente testo unico, le disposizioni che conferiscono agli organi di cui al capo I titolo III l'adozione di atti di gestione e di atti o provvedimenti amministrativi, si intendono nel senso che la relativa competenza spetta ai dirigenti, salvo quanto previsto dall'articolo 50, comma 3, e dall'articolo 54.
@@ -1463,6 +2085,29 @@ Gli enti locali, tenendo conto delle proprie peculiarita' nell'esercizio della p
 
 ## Art. 113-bis. — (Gestione dei servizi pubblici locali privi di rilevanza economica)
 
+1.
+                        
+                            
+                                Ferme restando le disposizioni previste per i singoli settori, i servizi pubblici locali privi di rilevanza economica sono gestiti mediante affidamento diretto a: 
+
+                            
+                            
+                                a)
+                                
+                                    istituzioni; 
+                                
+                            
+                            
+                                b)
+                                
+                                    aziende speciali, anche consortili; 
+                                
+                            
+                            
+                                c)
+                                
+                                    societa' a capitale interamente pubblico a condizione che gli enti pubblici titolari del capitale sociale esercitino sulla societa' un controllo analogo a quello esercitato sui propri servizi e che la societa' realizzi la parte piu' importante della propria attivita' con l'ente o gli enti pubblici che la controllano.
+
 E' consentita la gestione in economia quando, per le modeste dimensioni o per le caratteristiche del servizio, non sia opportuno procedere ad affidamento ai soggetti di cui al comma 1.
 
 Gli enti locali possono procedere all'affidamento diretto dei servizi culturali e del tempo libero anche ad associazioni e fondazioni da loro costituite o partecipate.
@@ -1497,6 +2142,17 @@ Le aziende speciali e le istituzioni si iscrivono e depositano i propri bilanci 
 L'ente locale conferisce il capitale di dotazione; determina le finalita' e gli indirizzi; approva gli atti fondamentali; esercita la vigilanza; verifica i risultati della gestione; provvede alla copertura degli eventuali costi sociali.
 
 Il collegio dei revisori dei conti dell'ente locale esercita le sue funzioni anche nei confronti delle istituzioni. Lo statuto dell'azienda speciale prevede un apposito organo, di revisione, nonche' forme autonome di verifica della gestione.
+
+8.
+                        
+                            
+                                Ai fini di cui al comma 6 sono fondamentali i seguenti atti ((dell'azienda)) da sottoporre all'approvazione del consiglio comunale: ((83))
+                                
+                            
+                            
+                                a)
+                                
+                                    il piano-programma, comprendente un contratto di servizio che disciplini i rapporti tra ente locale ed azienda speciale;
 
 ((8-bis. Ai fini di cui al comma 6, sono fondamentali i seguenti atti dell'istituzione da sottoporre all'approvazione del consiglio comunale:
 
@@ -1621,6 +2277,30 @@ Il controllo preventivo di legittimita' si estende anche agli atti delle Istituz
 
 ## Art. 127. — Controllo eventuale
 
+1.
+                        
+                            
+                                Le deliberazioni della giunta e del consiglio sono sottoposte al controllo, nei limiti delle illeggittimita' denunziate, quando un quarto dei consiglieri provinciali o un quarto dei consiglieri nei comuni con popolazione superiore a 15.000 abitanti ovvero un quinto dei consiglieri nei comuni con popolazione sino a 15.000 abitanti ne facciano richiesta scritta e motivata con l'indicazione delle norme violate, entro dieci giorni dall'affissione all'albo pretorio, quando le deliberazioni stesse riguardino:
+
+
+                            
+                            
+                                a)
+                                
+                                    appalti e affidamento di servizi o forniture di importo superiore alla soglia di rilievo comunitario;
+                                
+                            
+                            
+                                b)
+                                
+                                    dotazioni organiche e relative variazioni;
+                                
+                            
+                            
+                                c)
+                                
+                                    assunzioni del personale.
+
 Nei casi previsti dal comma 1, il controllo e' esercitato dal comitato regionale di controllo ovvero, se istituito, dal difensore civico comunale o provinciale. L'organo che procede al controllo, se ritiene che la deliberazione sia illegittima, ne da comunicazione all'ente, entro quindici giorni dalla richiesta, e lo invita ad eliminare i vizi riscontrati. In tal caso, se l'ente non ritiene di modificare la delibera, essa acquista efficacia se viene confermata con il voto favorevole della maggioranza assoluta dei componenti il consiglio.
 
 La giunta puo' altresi' sottoporre al controllo preventivo di legittimita' dell'organo regionale di controllo ogni altra deliberazione dell'ente secondo le modalita' di cui all'articolo 133.
@@ -1643,6 +2323,29 @@ Possono essere attivati nell'ambito dei comitati regionali di controllo servizi 
 
 ## Art. 130. — Composizione del comitato
 
+1.
+                        
+                            
+                                Il comitato regionale di controllo e ogni sua eventuale sezione sono composti:
+
+
+                            
+                            
+                                a)
+                                
+                                    da quattro esperti eletti dal consiglio regionale, di cui:
+1) uno iscritto da almeno dieci anni nell'albo degli avvocati, scelto in una terna proposta dal competente ordine professionale;
+
+2) uno iscritto da almeno dieci anni all'albo dei dottori commercialisti o dei ragionieri, scelto in una terna proposta dai rispettivi ordini professionali;
+3) uno scelto tra chi abbia ricoperto complessivamente per almeno cinque anni la carica di sindaco, di presidente della provincia, di consigliere regionale o di parlamentare nazionale, ovvero tra i funzionari statali, regionali o degli enti locali in quiescenza, con qualifica non inferiore a dirigente od equiparata;
+4) uno scelto tra i magistrati o gli avvocati dello Stato in quiescenza, o tra i professori di ruolo di universita' in materie giuridiche ed amministrative ovvero tra i segretari comunali o provinciali in quiescenza;
+                                
+                            
+                            
+                                b)
+                                
+                                    da un esperto designato dal commissario del Governo scelto fra funzionari dell'Amministrazione civile dell'interno in servizio nelle rispettive province.
+
 Il consiglio regionale elegge non piu' di due componenti supplenti aventi i requisiti di cui alla lettera a) del comma 1; un terzo supplente, avente i requisiti di cui alla lettera b) del comma 1, e' designato dal commissario del Governo.
 
 In caso di assenza od impedimento dei componenti effettivi, di cui rispettivamente alle lettere a) e b) del comma 1, intervengono alle sedute i componenti supplenti, eletti o designati per la stessa categoria.
@@ -1658,6 +2361,25 @@ Il presidente ed il vicepresidente del comitato, se dipendenti pubblici, sono co
 Ai componenti del comitato si applicano le norme relative ai permessi ed alle aspettative previsti per gli amministratori locali.
 
 ## Art. 131. — Incompatibilita' ed ineleggibilita'
+
+1.
+                        
+                            
+                                Non possono essere eletti e non possono far parte dei comitati regionali di controllo:
+
+
+                            
+                            
+                                a)
+                                
+                                    i deputati, i senatori, i parlamentari europei;
+b)i consiglieri e gli assessori regionali;
+c) gli amministratori di enti locali o di altri enti soggetti a controllo del comitato, nonche' coloro che abbiano ricoperto tali cariche nell'anno precedente alla costituzione del medesimo comitato;
+d) coloro che si trovano nelle condizioni di ineleggibilita' alle cariche di cui alle lettere b) e c), con esclusione dei magistrati e dei funzionari dello Stato;
+e) i dipendenti ed i contabili della regione e degli enti locali sottoposti al controllo del comitato nonche' i dipendenti dei partiti presenti nei consigli degli enti locali della regione;
+f) i componenti di altro comitato regionale di controllo o delle sezioni di esso;
+g) coloro che prestano attivita' di consulenza o di collaborazione presso la regione o enti sottoposti al controllo regionale;
+h) coloro che ricoprono incarichi direttivi o esecutivi nei partiti a livello provinciale, regionale o nazionale, nonche' coloro che abbiano ricoperto tali incarichi nell'anno precedente alla costituzione del comitato.
 
 ## Art. 132. — Funzionamento del comitato
 
@@ -1725,6 +2447,42 @@ Le disposizioni del presente capo si applicano anche agli altri enti di cui all'
 ## - CAPO II Controllo sugli organi
 
 ## Art. 141. — Scioglimento e sospensione dei consigli comunali e provinciali
+
+1.
+                        
+                            
+                                I consigli comunali e provinciali vengono sciolti con decreto del Presidente della Repubblica, su proposta del Ministro dell'interno: 
+ 
+                            
+                            
+                                a)
+                                
+                                    quando compiano atti contrari alla Costituzione o per gravi e persistenti violazioni di legge, nonche' per gravi motivi di ordine pubblico; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    quando non possa essere assicurato il normale funzionamento degli organi e dei servizi per le seguenti cause: 
+ 1) impedimento permanente, rimozione, decadenza, decesso del sindaco o del presidente della provincia; 
+ 2) dimissioni del sindaco o del presidente della provincia; 
+ 3) cessazione dalla carica per dimissioni contestuali, ovvero rese anche con atti separati purche' contemporaneamente presentati al protocollo dell'ente, della meta' piu' uno dei membri assegnati, non computando a tal fine il sindaco o il presidente della provincia; 
+ 4) riduzione dell'organo assembleare per impossibilita' di surroga alla meta' dei componenti del consiglio; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    quando non sia approvato nei termini il bilancio. 
+
+                                
+                            
+                            
+                                c-bis)
+                                
+                                    nelle ipotesi in cui gli enti territoriali al di sopra dei mille abitanti siano sprovvisti dei relativi strumenti urbanistici generali e non adottino tali strumenti entro diciotto mesi dalla data di elezione degli organi. In questo caso, il decreto di scioglimento del consiglio e' adottato su proposta del Ministro dell'interno di concerto con il Ministro delle infrastrutture e dei trasporti.
 
 Nella ipotesi di cui alla lettera c) del comma 1, trascorso il termine entro il quale il bilancio deve essere approvato senza che sia stato predisposto dalla giunta il relativo schema, l'organo regionale di controllo nomina un commissario affinche' lo predisponga d'ufficio per sottoporlo al consiglio. In tal caso e comunque quando il consiglio non abbia approvato nei termini di legge lo schema di bilancio predisposto dalla giunta, l'organo regionale di controllo assegna al consiglio, con lettera notificata ai singoli consiglieri, un termine non superiore a 20 giorni per la sua approvazione, decorso il quale si sostituisce, mediante apposito commissario, all'amministrazione inadempiente. Del provvedimento sostitutivo e' data comunicazione al prefetto che inizia la procedura per lo scioglimento del consiglio. (95)
 
@@ -1854,6 +2612,45 @@ Il Ministro dell'interno presenta al Parlamento una relazione ((annuale)) sull'a
 
 Gli enti locali, nell'ambito della loro autonomia normativa e organizzativa, individuano strumenti e metodologie per garantire, attraverso il controllo di regolarita' amministrativa e contabile, la legittimita', la regolarita' e la correttezza dell'azione amministrativa.
 
+2.
+                        
+                            
+                                Il sistema di controllo interno e' diretto a: 
+ 
+                            
+                            
+                                a)
+                                
+                                    verificare, attraverso il controllo di gestione, l'efficacia, l'efficienza e l'economicita' dell'azione amministrativa, al fine di ottimizzare, anche mediante tempestivi interventi correttivi, il rapporto tra obiettivi e azioni realizzate, nonche' tra risorse impiegate e risultati; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    valutare l'adeguatezza delle scelte compiute in sede di attuazione dei piani, dei programmi e degli altri strumenti di determinazione dell'indirizzo politico, in termini di congruenza tra i risultati conseguiti e gli obiettivi predefiniti; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    garantire il costante controllo degli equilibri finanziari della gestione di competenza, della gestione dei residui e della gestione di cassa, anche ai fini della realizzazione degli obiettivi di finanza pubblica determinati dal patto di stabilita' interno, mediante l'attivita' di coordinamento e di vigilanza da parte del responsabile del servizio finanziario, nonche' l'attivita' di controllo da parte dei responsabili dei servizi; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    verificare, attraverso l'affidamento e il controllo dello stato di attuazione di indirizzi e obiettivi gestionali, anche in riferimento all'articolo 170, comma 6, la redazione del bilancio consolidato ((nel rispetto di quanto previsto dal decreto legislativo 23 giugno 2011, n. 118, e successive modificazioni)), l'efficacia, l'efficienza e l'economicita' degli organismi gestionali esterni dell'ente; (83) 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    garantire il controllo della qualita' dei servizi erogati, sia direttamente, sia mediante organismi gestionali esterni, con l'impiego di metodologie dirette a misurare la soddisfazione degli utenti esterni e interni dell'ente.
+
 Le lettere d) ed e) del comma 2 si applicano solo agli enti locali con popolazione superiore a 100.000 abitanti in fase di prima applicazione, a 50.000 abitanti per il 2014 e a 15.000 abitanti a decorrere dal 2015.
 
 Nell'ambito della loro autonomia normativa e organizzativa, gli enti locali disciplinano il sistema dei controlli interni secondo il principio della distinzione tra funzioni di indirizzo e compiti di gestione, anche in deroga agli altri principi di cui all'articolo 1, comma 2, del decreto legislativo 30 luglio 1999, n. 286, e successive modificazioni. Partecipano all'organizzazione del sistema dei controlli interni il segretario dell'ente, il direttore generale, laddove previsto, i responsabili dei servizi e le unita' di controllo, laddove istituite.
@@ -1926,6 +2723,38 @@ Le sezioni regionali della Corte dei conti, con cadenza annuale, nell'ambito del
 
 ))
 
+2.
+                        
+                            
+                                Il Ministero dell'economia e delle finanze - Dipartimento della Ragioneria generale dello Stato puo' attivare verifiche sulla regolarita' della gestione amministrativo-contabile, ai sensi dell'articolo 14, comma 1, lettera d), della legge 31 dicembre 2009, n.196, oltre che negli altri casi previsti dalla legge, qualora un ente evidenzi, anche attraverso le rilevazioni SIOPE, situazioni di squilibrio finanziario riferibili ai seguenti indicatori: 
+ 
+                            
+                            
+                                a)
+                                
+                                    ripetuto utilizzo dell'anticipazione di tesoreria; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    disequilibrio consolidato della parte corrente del bilancio; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    anomale modalita' di gestione dei servizi per conto di terzi; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    aumento non giustificato di spesa degli organi politici istituzionali. (78)
+
 Le sezioni regionali di controllo della Corte dei conti possono attivare le procedure di cui al comma 2. (78)
 
 In caso di rilevata assenza o inadeguatezza degli strumenti e delle metodologie di cui al secondo periodo del comma 1 del presente articolo, fermo restando quanto previsto dall'articolo 1 della legge 14 gennaio 1994, n.20, e successive modificazioni, e dai commi 5 e 5-bis dell'articolo 248 del presente testo unico, le sezioni giurisdizionali regionali della Corte dei conti irrogano agli amministratori responsabili la condanna ad una sanzione pecuniaria da un minimo di cinque fino ad un massimo di venti volte la retribuzione mensile lorda dovuta al momento di commissione della violazione. 
@@ -1953,6 +2782,66 @@ L'ordinamento della finanza locale e' riservato alla legge, che la coordina con 
 Ai comuni e alle province la legge riconosce, nell'ambito della finanza pubblica, autonomia finanziaria fondata su certezza di risorse proprie e trasferite.
 
 La legge assicura, altresi', agli enti locali potesta' impositiva autonoma nel campo delle imposte, delle tasse e delle tariffe, con conseguente adeguamento della legislazione tributaria vigente. A tal fine i comuni e le province in forza dell'articolo 52 del decreto legislativo 15 dicembre 1997, n. 446, e successive modificazioni possono disciplinare con regolamento le proprie entrate, anche tributarie, salvo per quanto attiene alla individuazione e definizione delle fattispecie imponibili, dei soggetti passivi e dell'aliquota massima dei singoli tributi, nel rispetto delle esigenze di semplificazione degli adempimenti dei contribuenti. Per quanto non regolamentato si applicano le disposizioni di legge vigenti.
+
+4.
+                        
+                            
+                                La finanza dei comuni e delle province e' costituita da:
+ 
+                            
+                            
+                                a)
+                                
+                                    imposte proprie;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    addizionali e compartecipazioni ad imposte erariali o regionali;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    tasse e diritti per servizi pubblici;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    trasferimenti erariali;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    trasferimenti regionali;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    altre entrate proprie, anche di natura patrimoniale;
+
+                                
+                            
+                            
+                                g)
+                                
+                                    risorse per investimenti;
+
+                                
+                            
+                            
+                                h)
+                                
+                                    altre entrate.
 
 I trasferimenti erariali sono ripartiti in base a criteri obiettivi che tengano conto della popolazione, del territorio e delle condizioni socio- economiche, nonche' in base ad una perequata distribuzione delle risorse che tenga conto degli squilibri di fiscalita' locale.
 
@@ -1992,6 +2881,24 @@ Gli enti locali ispirano la propria gestione al principio della programmazione. 
 Il Documento unico di programmazione e' composto dalla Sezione strategica, della durata pari a quelle del mandato amministrativo, e dalla Sezione operativa di durata pari a quello del bilancio di previsione finanziario.
 
 Il bilancio di previsione finanziario comprende le previsioni di competenza e di cassa del primo esercizio del periodo considerato e le previsioni di competenza degli esercizi successivi. Le previsioni riguardanti il primo esercizio costituiscono il bilancio di previsione finanziario annuale.
+
+4.
+                        
+                            
+                                Il sistema contabile degli enti locali garantisce la rilevazione unitaria dei fatti gestionali sotto il profilo finanziario, economico e patrimoniale, attraverso l'adozione: 
+ 
+                            
+                            
+                                a)
+                                
+                                    della contabilita' finanziaria, che ha natura autorizzatoria e consente la rendicontazione della gestione finanziaria; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    della contabilita' economico-patrimoniale ai fini conoscitivi, per la rilevazione degli effetti economici e patrimoniali dei fatti gestionali e per consentire la rendicontazione economico e patrimoniale.
 
 I risultati della gestione finanziaria, economico e patrimoniale sono dimostrati nel rendiconto comprendente il conto del bilancio, il conto economico e lo stato patrimoniale.
 
@@ -2115,9 +3022,157 @@ L'Osservatorio si avvale delle strutture e dell'organizzazione della Direzione c
 
 ## Art. 155. — ((Commissione per la stabilita' finanziaria degli enti locali))
 
+1.
+                        
+                            
+                                La ((Commissione per la stabilita' finanziaria degli enti locali)) operante presso il Ministero dell'interno, gia' denominata Commissione di ricerca per la finanza locale, svolge i seguenti compiti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    controllo centrale, da esercitare prioritariamente in relazione alla verifica della compatibilita' finanziaria, sulle dotazioni organiche e sui provvedimenti di assunzione di personale degli enti dissestati e degli enti strutturalmente deficitari, ai sensi dell'articolo 243; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    parere da rendere al Ministro dell'interno sul provvedimento di approvazione o diniego del piano di estinzione delle passivita', ai sensi dell'articolo 256, comma 7; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    proposta al Ministro dell'interno di misure straordinarie per il pagamento della massa passiva in caso di insufficienza delle risorse disponibili, ai sensi dell'articolo 256, comma 12; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    parere da rendere in merito all'assunzione del mutuo con la Cassa depositi e prestiti da parte dell'ente locale, ai sensi dell'articolo 255, comma 5; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    parere da rendere al Ministro dell'interno sul provvedimento di approvazione o diniego dell'ipotesi di bilancio stabilmente riequilibrato, ai sensi dell'articolo 261; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    proposta al Ministro dell'interno di adozione delle misure necessarie per il risanamento dell'ente locale, a seguito del ricostituirsi di disavanzo di amministrazione o insorgenza di debiti fuori bilancio non ripianabili con i normali mezzi o mancato rispetto delle prescrizioni poste a carico dell'ente, ai sensi dell'articolo 268; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    parere da rendere al Ministro dell'interno sul provvedimento di sostituzione di tutto o parte dell'organo straordinario di liquidazione, ai sensi dell'articolo 254, comma 8; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    approvazione, previo esame, della rideterminazione della pianta organica dell'ente locale dissestato, ai sensi dell'articolo 259, comma 7.
+
 La composizione e le modalita' di funzionamento della Commissione sono disciplinate con regolamento da adottarsi ai sensi dell'articolo 17, comma 1, della legge 23 agosto 1988, n. 400.
 
 ## Art. 156. — Classi demografiche e popolazione residente
+
+1.
+                        
+                            
+                                Ai fini dell'applicazione delle disposizioni contenute nella parte seconda del presente testo unico valgono per i comuni, se non diversamente disciplinato, le seguenti classi demografiche:
+ 
+                            
+                            
+                                a)
+                                
+                                    comuni con meno di 500 abitanti;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    comuni da 500 a 999 abitanti;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    comuni da 1.000 a 1.999 abitanti;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    comuni da 2.000 a 2.999 abitanti;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    comuni da 3.000 a 4.999 abitanti;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    comuni da 5.000 a 9.999 abitanti;
+
+                                
+                            
+                            
+                                g)
+                                
+                                    comuni da 10.000 a 19.999 abitanti;
+
+                                
+                            
+                            
+                                h)
+                                
+                                    comuni da 20.000 a 59.999 abitanti;
+
+                                
+                            
+                            
+                                i)
+                                
+                                    comuni da 60.000 a 99.999 abitanti;
+
+                                
+                            
+                            
+                                l)
+                                
+                                    comuni da 100.000 a 249.999 abitanti;
+
+                                
+                            
+                            
+                                m)
+                                
+                                    comuni da 250.000 a 499.999 abitanti;
+
+                                
+                            
+                            
+                                n)
+                                
+                                    comuni da 500.000 abitanti ed oltre.
 
 Le disposizioni del presente testo unico e di altre leggi e regolamenti relative all'attribuzione di contributi erariali di qualsiasi natura, nonche' all'inclusione nel sistema di tesoreria unica di cui alla legge 29 ottobre 1984, n. 720, alla disciplina del dissesto finanziario ed alla disciplina dei revisori dei conti, che facciano riferimento alla popolazione, vanno interpretate, se non diversamente disciplinato, come concernenti la popolazione residente calcolata alla fine del penultimo anno precedente per le province ed i comuni secondo i dati dell'Istituto nazionale di statistica, ovvero secondo i dati dell'Uncem per le comunita' montane. Per le comunita' montane e i comuni di nuova istituzione si utilizza l'ultima popolazione disponibile.
 
@@ -2156,6 +3211,29 @@ Ove il contributo attenga ad un intervento realizzato in piu' esercizi finanziar
 ## Art. 159. — Norme sulle esecuzioni nei confronti degli enti locali
 
 Non sono ammesse procedure di esecuzione e di espropriazione forzata nei confronti degli enti locali presso soggetti diversi dai rispettivi tesorieri. Gli atti esecutivi eventualmente intrapresi non determinano vincoli sui beni oggetto della procedura espropriativa.
+
+2.
+                        
+                            
+                                Non sono soggette ad esecuzione forzata, a pena di nullita' rilevabile anche d'ufficio dal giudice, le somme di competenza degli enti locali destinate a: 
+
+                            
+                            
+                                a)
+                                
+                                    pagamento delle retribuzioni al personale dipendente e dei conseguenti oneri previdenziali per i tre mesi successivi; 
+                                
+                            
+                            
+                                b)
+                                
+                                    pagamento delle rate di mutui e di prestiti obbligazionari scadenti nel semestre in corso; 
+                                
+                            
+                            
+                                c)
+                                
+                                    espletamento dei servizi locali indispensabili. ((16))
 
 Per l'operativita' dei limiti all'esecuzione forzata di cui al comma 2 occorre che l'organo esecutivo, con deliberazione da adottarsi per ogni semestre e notificata al tesoriere, quantifichi preventivamente gli importi delle somme destinate alle suddette finalita'. ((16))
 
@@ -2224,6 +3302,31 @@ Nel caso in cui il bilancio di esercizio non sia approvato entro il 31 dicembre 
 L'esercizio provvisorio e' autorizzato con legge o con decreto del Ministro dell'interno che, ai sensi di quanto previsto dall'art. 151, primo comma, differisce il termine di approvazione del bilancio, d'intesa con il Ministro dell'economia e delle finanze, sentita la Conferenza Stato-citta' ed autonomia locale, in presenza di motivate esigenze. Nel corso dell'esercizio provvisorio non e' consentito il ricorso all'indebitamento e gli enti possono impegnare solo spese correnti, le eventuali spese correlate riguardanti le partite di giro, lavori pubblici di somma urgenza o altri interventi di somma urgenza. Nel corso dell'esercizio provvisorio e' consentito il ricorso all'anticipazione di tesoreria di cui all'art. 222. (122) ((145))
 
 COMMA ABROGATO DAL D.L. 14 AGOSTO 2020, N. 104.
+
+5.
+                        
+                            
+                                Nel corso dell'esercizio provvisorio, gli enti possono impegnare mensilmente,unitamente alla quota dei dodicesimi non utilizzata nei mesi precedenti, per ciascun programma, le spese di cui al comma 3, per importi non superiori ad un dodicesimo degli stanziamenti del secondo esercizio del bilancio di previsione deliberato l'anno precedente, ridotti delle somme gia' impegnate negli esercizi precedenti e dell'importo accantonato al fondo pluriennale vincolato, con l'esclusione delle spese: 
+ 
+                            
+                            
+                                a)
+                                
+                                    tassativamente regolate dalla legge; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    non suscettibili di pagamento frazionato in dodicesimi; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    a carattere continuativo necessarie per garantire il mantenimento del livello qualitativo e quantitativo dei servizi esistenti, impegnate a seguito della scadenza dei relativi contratti.
 
 COMMA ABROGATO DAL D.L. 14 AGOSTO 2020, N. 104.
 
@@ -2465,11 +3568,156 @@ Il bilancio di previsione finanziario puo' subire variazioni nel corso dell'eser
 
 Le variazioni al bilancio sono di competenza dell'organo consiliare salvo quelle previste dai commi 5-bis e 5-quater. (83)
 
+3.
+                        
+                            
+                                Le variazioni al bilancio possono essere deliberate non oltre il 30 novembre di ciascun anno, fatte salve le seguenti variazioni, che possono essere deliberate sino al 31 dicembre di ciascun anno: 
+ 
+                            
+                            
+                                a)
+                                
+                                    l'istituzione di tipologie di entrata a destinazione vincolata e il correlato programma di spesa; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'istituzione di tipologie di entrata senza vincolo di destinazione, con stanziamento pari a zero, a seguito di accertamento e riscossione di entrate non previste in bilancio, secondo le modalita' disciplinate dal principio applicato della contabilita' finanziaria; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    l'utilizzo delle quote del risultato di amministrazione vincolato ed accantonato per le finalita' per le quali sono stati previsti; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    quelle necessarie alla reimputazione agli esercizi in cui sono esigibili, di obbligazioni riguardanti entrate vincolate gia' assunte e, se necessario, delle spese correlate; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    le variazioni delle dotazioni di cassa di cui al comma 5-bis, lettera d); 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    le variazioni di cui al comma 5-quater, lettera b); 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    le variazioni degli stanziamenti riguardanti i versamenti ai conti di tesoreria statale intestati all'ente e i versamenti a depositi bancari intestati all'ente. (74) (83)
+
 Ai sensi dell'articolo 42 le variazioni di bilancio possono essere adottate dall'organo esecutivo in via d'urgenza opportunamente motivata, salvo ratifica, a pena di decadenza, da parte dell'organo consiliare entro i sessanta giorni seguenti e comunque entro il 31 dicembre dell'anno in corso se a tale data non sia scaduto il predetto termine. (83)
 
 In caso di mancata o parziale ratifica del provvedimento di variazione adottato dall'organo esecutivo, l'organo consiliare e' tenuto ad adottare nei successivi trenta giorni, e comunque sempre entro il 31 dicembre dell'esercizio in corso, i provvedimenti ritenuti necessari nei riguardi dei rapporti eventualmente sorti sulla base della deliberazione non ratificata.
 
+5-bis.
+                        
+                            
+                                L'organo esecutivo con provvedimento amministrativo approva le variazioni del piano esecutivo di gestione, salvo quelle di cui al comma 5-quater, e le seguenti variazioni del bilancio di previsione non aventi natura discrezionale, che si configurano come meramente applicative delle decisioni del Consiglio, per ciascuno degli esercizi considerati nel bilancio: 
+ 
+                            
+                            
+                                a)
+                                
+                                    variazioni riguardanti l'utilizzo della quota vincolata e accantonata del risultato di amministrazione nel corso dell'esercizio provvisorio consistenti nella mera reiscrizione di economie di spesa derivanti da stanziamenti di bilancio dell'esercizio precedente corrispondenti a entrate vincolate, secondo le modalita' previste dall'art. 187, comma 3-quinquies; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    variazioni compensative tra le dotazioni delle missioni e dei programmi riguardanti l'utilizzo di risorse comunitarie e vincolate, nel rispetto della finalita' della spesa definita nel provvedimento di assegnazione delle risorse, o qualora le variazioni siano necessarie per l'attuazione di interventi previsti da intese istituzionali di programma o da altri strumenti di programmazione negoziata, gia' deliberati dal Consiglio; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    variazioni compensative tra le dotazioni delle missioni e dei programmi limitatamente alle spese per il personale, conseguenti a provvedimenti di trasferimento del personale all'interno dell'ente; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    variazioni delle dotazioni di cassa, salvo quelle previste dal comma 5-quater, garantendo che il fondo di cassa alla fine dell'esercizio sia non negativo; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    variazioni riguardanti il fondo pluriennale vincolato di cui all'art. 3, comma 5, del decreto legislativo 23 giugno 2011, n. 118, effettuata entro i termini di approvazione del rendiconto in deroga al comma 3; (83) 
+
+                                
+                            
+                            
+                                e-bis)
+                                
+                                    variazioni compensative tra macroaggregati dello stesso programma all'interno della stessa missione.
+
 Con il regolamento di contabilita' si disciplinano le modalita' di comunicazione al Consiglio delle variazioni di bilancio di cui al comma 5-bis. (83)
+
+5-quater.
+                        
+                            
+                                Nel rispetto di quanto previsto dai regolamenti di contabilita', i responsabili della spesa o, in assenza di disciplina, il responsabile finanziario, possono effettuare, per ciascuno degli esercizi del bilancio: 
+ 
+                            
+                            
+                                a)
+                                
+                                    le variazioni compensative del piano esecutivo di gestione fra capitoli di entrata della medesima categoria e fra i capitoli di spesa del medesimo macroaggregato, escluse le variazioni dei capitoli appartenenti ai macroaggregati riguardanti i trasferimenti correnti, i contribuiti agli investimenti, ed ai trasferimenti in conto capitale, che sono di competenza della Giunta; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le variazioni di bilancio fra gli stanziamenti riguardanti il fondo pluriennale vincolato e gli stanziamenti correlati, in termini di competenza e di cassa, escluse quelle previste dall'art. 3, comma 5, del decreto legislativo 23 giugno 2011, n. 118. Le variazioni di bilancio riguardanti le variazioni del fondo pluriennale vincolato sono comunicate trimestralmente alla giunta; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    le variazioni di bilancio riguardanti l'utilizzo della quota vincolata del risultato di amministrazione derivanti da stanziamenti di bilancio dell'esercizio precedente corrispondenti a entrate vincolate, in termini di competenza e di cassa, secondo le modalita' previste dall'art. 187, comma 3-quinquies; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    le variazioni degli stanziamenti riguardanti i versamenti ai conti di tesoreria statale intestati all'ente e i versamenti a depositi bancari intestati all'ente; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    le variazioni necessarie per l'adeguamento delle previsioni, compresa l'istituzione di tipologie e programmi, riguardanti le partite di giro e le operazioni per conto di terzi; (83) 
+
+                                
+                            
+                            
+                                e-bis)
+                                
+                                    in caso di variazioni di esigibilita' della spesa, le variazioni relative a stanziamenti riferiti a operazioni di indebitamento gia' autorizzate e perfezionate, contabilizzate secondo l'andamento della correlata spesa, e le variazioni a stanziamenti correlati ai contributi a rendicontazione, escluse quelle previste dall'articolo 3, comma 4, del decreto legislativo 23 giugno 2011, n. 118. Le suddette variazioni di bilancio sono comunicate trimestralmente alla giunta.
 
 Le variazioni al bilancio di previsione disposte con provvedimenti amministrativi, nei casi previsti dal presente decreto, e le variazioni del piano esecutivo di gestione non possono essere disposte con il medesimo provvedimento amministrativo. Le determinazioni dirigenziali di variazione compensativa dei capitoli del piano esecutivo di gestione di cui al comma 5-quater sono effettuate al fine di favorire il conseguimento degli obiettivi assegnati ai dirigenti. (83)
 
@@ -2532,6 +3780,37 @@ Le fasi di gestione delle entrate sono l'accertamento, la riscossione ed il vers
 L'accertamento costituisce la prima fase di gestione dell'entrata mediante la quale, sulla base di idonea documentazione, viene verificata la ragione del credito e la sussistenza di un idoneo titolo giuridico, individuato il debitore, quantificata la somma da incassare, nonche' fissata la relativa scadenza. ((Le entrate relative al titolo "Accensione prestiti" sono accertate nei limiti dei rispettivi stanziamenti di competenza del bilancio.))
                                 ((83))
 
+2.
+                        
+                            
+                                L'accertamento delle entrate avviene ((distinguendo le entrate ricorrenti da quelle non ricorrenti attraverso la codifica della transazione elementare di cui agli articoli 5 e 6 del decreto legislativo 23 giugno 2011, n. 118, e successive modificazioni, seguendo le seguenti disposizioni)): ((83))
+                                
+                            
+                            
+                                a)
+                                
+                                    per le entrate di carattere tributario, a seguito di emissione di ruoli o a seguito di altre forme stabilite per legge; 
+                                
+                            
+                            
+                                b)
+                                
+                                    per le entrate patrimoniali e per quelle provenienti dalla gestione di servizi a carattere produttivo e di quelli connessi a tariffe o contribuzioni dell'utenza, a seguito di acquisizione diretta o di emissione di liste di carico; 
+                                
+                            
+                            
+                                c)
+                                
+                                    per le entrate relative a partite compensative delle spese ((del titolo "Servizi per conto terzi e partite di giro",)) in corrispondenza dell'assunzione del relativo impegno di spesa; ((83))
+                                    
+                                
+                            
+                            
+                                d)
+                                
+                                    per le altre entrate, anche di natura eventuale o variabile. mediante contratti, provvedimenti giudiziari o atti amministrativi specifici ((, salvo i casi, tassativamente previsti nel principio applicato della contabilita' finanziaria, per cui e' previsto l'accertamento per cassa.))
+                                        ((83))
+
 Il responsabile del procedimento con il quale viene accertata l'entrata trasmette al responsabile del servizio finanziario l'idonea documentazione di cui al comma 2, ai fini dell'annotazione nelle scritture contabili, secondo i tempi ed i modi previsti dal regolamento di contabilita' dell'ente ((, nel rispetto di quanto previsto dal presente decreto e dal principio generale della competenza finanziaria e dal principio applicato della contabilita' finanziaria di cui agli allegati n. 1 e n. 4/2 del decreto legislativo 23 giugno 2011, n. 118, e successive modificazioni.))
                                 ((83))
 
@@ -2547,6 +3826,80 @@ Il responsabile del procedimento con il quale viene accertata l'entrata trasmett
 La riscossione costituisce la successiva fase del procedimento dell'entrata, che consiste nel materiale introito da parte del tesoriere o di altri eventuali incaricati della riscossione delle somme dovute all'ente.
 
 La riscossione e' disposta a mezzo di ordinativo di incasso, fatto pervenire al tesoriere nelle forme e nei tempi previsti dalla convenzione di cui all'articolo 210.
+
+3.
+                        
+                            
+                                L'ordinativo d'incasso e' sottoscritto dal responsabile del servizio finanziario o da altro dipendente individuato dal regolamento di contabilita' e contiene almeno: 
+ 
+                            
+                            
+                                a)
+                                
+                                    l'indicazione del debitore; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'ammontare della somma da riscuotere; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    la causale; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    gli eventuali vincoli di destinazione delle entrate derivanti ((...)) da trasferimenti o da prestiti; (83) 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    l'indicazione del titolo e della tipologia distintamente per residui o competenza; (83) 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    la codifica di bilancio; (83) 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    il numero progressivo; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    l'esercizio finanziario e la data di emissione; 
+
+                                
+                            
+                            
+                                h-bis)
+                                
+                                    la codifica SIOPE di cui all'art. 14 della legge 31 dicembre 2009, n. 196; (83) 
+
+                                
+                            
+                            
+                                h-ter)
+                                
+                                    i codici della transazione elementare di cui agli articoli da 5 a 7, del decreto legislativo 23 giugno 2011, n. 118. (83)
 
 Il tesoriere deve accettare, senza pregiudizio per i diritti dell'ente, la riscossione di ogni somma, versata in favore dell'ente, ivi comprese le entrate di cui al comma 4-ter, anche senza la preventiva emissione di ordinativo d'incasso. In tale ipotesi il tesoriere ne da' immediata comunicazione all'ente, richiedendo la regolarizzazione. L'ente procede alla regolarizzazione dell'incasso entro i successivi 60 giorni e, comunque, entro i termini previsti per la resa del conto del tesoriere. (83)
 
@@ -2588,12 +3941,55 @@ Le fasi di gestione della spesa sono l'impegno, la liquidazione, l'ordinazione e
 
 L'impegno costituisce la prima fase del procedimento di spesa, con la quale, a seguito di obbligazione giuridicamente perfezionata e' determinata la somma da pagare, determinato il soggetto creditore, indicata la ragione e la relativa scadenza e viene costituito il vincolo sulle previsioni di bilancio, nell'ambito della disponibilita' finanziaria accertata ai sensi dell'articolo 151.(83)
 
+2.
+                        
+                            
+                                Con l'approvazione del bilancio e successive variazioni, e senza la necessita' di ulteriori atti, e' costituito impegno sui relativi stanziamenti per le spese dovute: 
+ 
+                            
+                            
+                                a)
+                                
+                                    per il trattamento economico tabellare gia' attribuito al personale dipendente e per i relativi oneri riflessi; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    per le rate di ammortamento dei mutui e dei prestiti, interessi di preammortamento ed ulteriori oneri accessori nei casi in cui non si sia provveduto all'impegno nell'esercizio in cui il contratto di finanziamento e' stato perfezionato; (83) 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    per contratti di somministrazione riguardanti prestazioni continuative, nei casi in cui l'importo dell'obbligazione sia definita contrattualmente. Se l'importo dell'obbligazione non e' predefinito nel contratto, con l'approvazione del bilancio si provvede alla prenotazione della spesa, per un importo pari al consumo dell'ultimo esercizio per il quale l'informazione e' disponibile. (83)
+
 Durante la gestione possono anche essere prenotati impegni relativi a procedure in via di espletamento. I provvedimenti relativi per i quali entro il termine dell'esercizio non e' stata assunta dall'ente l'obbligazione di spesa verso i terzi decadono e costituiscono economia della previsione di bilancio alla quale erano riferiti, concorrendo alla determinazione del risultato contabile di amministrazione di cui all'articolo 186. ((Le economie riguardanti le spese di investimento per lavori pubblici concorrono alla determinazione del fondo pluriennale secondo le modalita' definite, entro il 30 aprile 2019, con decreto del Ministero dell'economia e delle finanze - Dipartimento della Ragioneria generale dello Stato, di concerto con il Ministero dell'interno - Dipartimento per gli affari interni e territoriali e con la Presidenza del Consiglio dei ministri - Dipartimento per gli affari regionali e le autonomie, su proposta della Commissione per l'armonizzazione degli enti territoriali di cui all'articolo 3-bis del decreto legislativo 23 giugno 2011, n. 118, al fine di adeguare il principio contabile applicato concernente la contabilita' finanziaria previsto dall'allegato n. 4/2 del medesimo decreto legislativo )). (83)
 
 Costituiscono inoltre economia le minori spese sostenute rispetto all'impegno assunto, verificate con la conclusione della fase della liquidazione.
 
 Tutte le obbligazioni passive giuridicamente perfezionate, devono essere registrate nelle scritture contabili quando l'obbligazione e' perfezionata, con imputazione all'esercizio in cui l'obbligazione viene a scadenza, secondo le modalita' previste dal principio applicato della contabilita' finanziaria di cui all'allegato n. 4/2 del decreto legislativo 23 giugno 2011, n. 118.
 Non possono essere riferite ad un determinato esercizio finanziario le spese per le quali non sia venuta a scadere nello stesso esercizio finanziario la relativa obbligazione giuridica. Le spese sono registrate anche se non determinano movimenti di cassa effettivi. (83)
+
+6.
+                        
+                            
+                                Gli impegni di spesa sono assunti nei limiti dei rispettivi stanziamenti di competenza del bilancio di previsione, con imputazione agli esercizi in cui le obbligazioni passive sono esigibili. Non possono essere assunte obbligazioni che danno luogo ad impegni di spesa corrente: 
+ 
+                            
+                            
+                                a)
+                                
+                                    sugli esercizi successivi a quello in corso, a meno che non siano connesse a contratti o convenzioni pluriennali o siano necessarie per garantire la continuita' dei servizi connessi con le funzioni fondamentali, fatta salva la costante verifica del mantenimento degli equilibri di bilancio, anche con riferimento agli esercizi successivi al primo; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    sugli esercizi non considerati nel bilancio, a meno delle spese derivanti da contratti di somministrazione, di locazione, relative a prestazioni periodiche o continuative di servizi di cui all'art. 1677 del codice civile, delle spese correnti correlate a finanziamenti comunitari e delle rate di ammortamento dei prestiti, inclusa la quota capitale. Le obbligazioni che comportano impegni riguardanti le partite di giro e i rimborsi delle anticipazioni di tesoreria sono assunte esclusivamente in relazione alle esigenze della gestione. (83)
 
 I provvedimenti dei responsabili dei servizi che comportano impegni di spesa sono trasmessi al responsabile del servizio finanziario e sono esecutivi con l'apposizione del visto di regolarita' contabile attestante la copertura finanziaria. (83)
 
@@ -2621,6 +4017,94 @@ Il servizio finanziario effettua, secondo i principi e le procedure della contab
 ## Art. 185. — Ordinazione e pagamento
 
 Gli ordinativi di pagamento sono disposti nei limiti dei rispettivi stanziamenti di cassa, salvo i pagamenti riguardanti il rimborso delle anticipazioni di tesoreria, i servizi per conto terzi e le partite di giro. (83)
+
+2.
+                        
+                            
+                                Il mandato di pagamento e' sottoscritto dal dipendente dell'ente individuato dal regolamento di contabilita' nel rispetto delle leggi vigenti e contiene almeno i seguenti elementi: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il numero progressivo del mandato per esercizio finanziario; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la data di emissione; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    l'indicazione della missione, del programma e del titolo di bilancio cui e' riferita la spesa e la relativa disponibilita', distintamente per residui o competenza e cassa; (83) 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    la codifica di bilancio; (83) 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    l'indicazione del creditore e, se si tratta di persona diversa, del soggetto tenuto a rilasciare quietanza, nonche' il relativo codice fiscale o la partita IVA; (83) 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    l'ammontare della somma dovuta e la scadenza, qualora sia prevista dalla legge o sia stata concordata con il creditore; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    la causale e gli estremi dell'atto esecutivo, che legittima l'erogazione della spesa; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    le eventuali modalita' agevolative di pagamento se richieste dal creditore; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    il rispetto degli eventuali vincoli di destinazione ((...)) relativi a trasferimenti o ai prestiti; (83) 
+
+                                
+                            
+                            
+                                i-bis)
+                                
+                                    la codifica SIOPE di cui all'art. 14 della legge 31 dicembre 2009, n. 196; (83) 
+
+                                
+                            
+                            
+                                i-ter)
+                                
+                                    i codici della transazione elementare di cui agli articoli da 5 a 7, del decreto legislativo 23 giugno 2011, n. 118. (83) 
+
+                                
+                            
+                            
+                                i-quater)
+                                
+                                    l'identificazione delle spese non soggette al controllo dei dodicesimi di cui all'art. 163, comma 5, in caso di esercizio provvisorio. (83)
 
 Il mandato di pagamento e' controllato, per quanto attiene alla sussistenza dell'impegno e della liquidazione e al rispetto dell'autorizzazione di cassa, dal servizio finanziario, che provvede altresi' alle operazioni di contabilizzazione e di trasmissione al tesoriere. (83)
 
@@ -2654,9 +4138,77 @@ Il risultato contabile di amministrazione e' accertato con l'approvazione del re
 Il risultato di amministrazione e' distinto in fondi liberi, fondi vincolati, fondi destinati agli investimenti e fondi accantonati. I fondi destinati agli investimenti sono costituiti dalle entrate in c/capitale senza vincoli di specifica destinazione non spese, e sono utilizzabili con provvedimento di variazione di bilancio solo a seguito dell'approvazione del rendiconto.
 L'indicazione della destinazione nel risultato di amministrazione per le entrate in conto capitale che hanno dato luogo ad accantonamento al fondo crediti di dubbia e difficile esazione e' sospeso, per l'importo dell'accantonamento, sino all'effettiva riscossione delle stesse. I trasferimenti in conto capitale non sono destinati al finanziamento degli investimenti e non possono essere finanziati dal debito e dalle entrate in conto capitale destinate al finanziamento degli investimenti. I fondi accantonati comprendono gli accantonamenti per passivita' potenziali e il fondo crediti di dubbia esigibilita'. Nel caso in cui il risultato di amministrazione non sia sufficiente a comprendere le quote vincolate, destinate e accantonate, l'ente e' in disavanzo di amministrazione. Tale disavanzo e' iscritto come posta a se stante nel primo esercizio del bilancio di previsione secondo le modalita' previste dall'art. 188. (83)
 
+2.
+                        
+                            
+                                La quota libera dell'avanzo di amministrazione dell'esercizio precedente, accertato ai sensi dell'art. 186 e quantificato ai sensi del comma 1, puo' essere utilizzato con provvedimento di variazione di bilancio, per le finalita' di seguito indicate in ordine di priorita': 
+ 
+                            
+                            
+                                a)
+                                
+                                    per la copertura dei debiti fuori bilancio; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    per i provvedimenti necessari per la salvaguardia degli equilibri di bilancio di cui all'art. 193 ove non possa provvedersi con mezzi ordinari; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    
+                                        ((LETTERA ABROGATA DALLA L. 30 DICEMBRE 2025, N. 199)); 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    
+                                        ((LETTERA ABROGATA DALLA L. 30 DICEMBRE 2025, N. 199)); 
+ ((La quota libera dell'avanzo di amministrazione puo' essere inoltre utilizzata, sulla base delle specifiche necessita', per il finanziamento di spese correnti a carattere non permanente, per il finanziamento di spese di investimento e per l'estinzione anticipata di prestiti.)) Resta salva la facolta' di impiegare l'eventuale quota del risultato di amministrazione "svincolata", in occasione dell'approvazione del rendiconto, sulla base della determinazione dell'ammontare definitivo della quota del risultato di amministrazione accantonata per il fondo crediti di dubbia esigibilita', per finanziare lo stanziamento riguardante il fondo crediti di dubbia esigibilita' nel bilancio di previsione dell'esercizio successivo a quello cui il rendiconto si riferisce.
+Nelle operazioni di estinzione anticipata di prestiti, qualora l'ente non disponga di una quota sufficiente di avanzo libero, nel caso abbia somme accantonate per una quota pari al 100 per cento del fondo crediti di dubbia esigibilita', puo' ricorrere all'utilizzo di quote dell'avanzo destinato a investimenti solo a condizione che garantisca, comunque, un pari livello di investimenti aggiuntivi. (83)
+
 Le quote del risultato presunto derivanti dall'esercizio precedente, costituite da accantonamenti risultanti dall'ultimo consuntivo approvato o derivanti da fondi vincolati possono essere utilizzate per le finalita' cui sono destinate prima dell'approvazione del conto consuntivo dell'esercizio precedente, attraverso l'iscrizione di tali risorse, come posta a se' stante dell'entrata, nel primo esercizio del bilancio di previsione o con provvedimento di variazione al bilancio. L'utilizzo della quota vincolata o accantonata del risultato di amministrazione e' consentito, sulla base di una relazione documentata del dirigente competente, anche in caso di esercizio provvisorio, esclusivamente per garantire la prosecuzione o l'avvio di attivita' soggette a termini o scadenza, la cui mancata attuazione determinerebbe danno per l'ente, secondo le modalita' individuate al comma 3-quinquies. (83)
 
 L'avanzo di amministrazione non vincolato non puo' essere utilizzato nel caso in cui l'ente si trovi in una delle situazioni previste dagli articoli 195 e 222, fatto salvo l'utilizzo per i provvedimenti di riequilibrio di cui all'articolo 193.
+
+3-ter.
+                        
+                            
+                                Costituiscono quota vincolata del risultato di amministrazione le entrate accertate e le corrispondenti economie di bilancio: 
+ 
+                            
+                            
+                                a)
+                                
+                                    nei casi in cui la legge o i principi contabili generali e applicati individuano un vincolo di specifica destinazione dell'entrata alla spesa; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    derivanti da mutui e finanziamenti contratti per il finanziamento di investimenti determinati; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    derivanti da trasferimenti erogati a favore dell'ente per una specifica destinazione determinata; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    derivanti da entrate accertate straordinarie, non aventi natura ricorrente, cui l'amministrazione ha formalmente attribuito una specifica destinazione. E' possibile attribuire un vincolo di destinazione alle entrate straordinarie non aventi natura ricorrente solo se l'ente non ha rinviato la copertura del disavanzo di amministrazione negli esercizi successivi e ha provveduto nel corso dell'esercizio alla copertura di tutti gli eventuali debiti fuori bilancio, compresi quelli di cui all'art. 193. L'indicazione del vincolo nel risultato di amministrazione per le entrate vincolate che hanno dato luogo ad accantonamento al fondo crediti di dubbia e difficile esazione e' sospeso, per l'importo dell'accantonamento, sino all'effettiva riscossione delle stesse. Il regime vincolistico di competenza si estende alla cassa solo relativamente alle entrate di cui alle lettere b) e c).(83)
 
 Se il bilancio di previsione impiega quote vincolate del risultato di amministrazione presunto ai sensi del comma 3, entro il 31 gennaio la Giunta verifica l'importo delle quote vincolate del risultato di amministrazione presunto sulla base di un preconsuntivo relativo alle entrate e alle spese vincolate ed approva l'aggiornamento dell'allegato al bilancio di previsione di cui all'art. 11, comma 3, lettera a), del decreto legislativo 23 giugno 2011, n. 118, e successive modificazioni. Se la quota vincolata del risultato di amministrazione presunto e' inferiore rispetto all'importo applicato al bilancio di previsione, l'ente provvede immediatamente alle necessarie variazioni di bilancio che adeguano l'impiego del risultato di amministrazione vincolato. (83)
 
@@ -2736,6 +4288,31 @@ Il regolamento di contabilita' dell'ente disciplina le modalita' attraverso le q
 
 ## Art. 192. — Determinazioni a contrattare e relative procedure
 
+1.
+                        
+                            
+                                La stipulazione dei contratti deve essere preceduta da apposita determinazione del responsabile del procedimento di spesa indicante:
+ 
+                            
+                            
+                                a)
+                                
+                                    il fine che con il contratto si intende perseguire;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'oggetto del contratto, la sua forma e le clausole ritenute essenziali;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    le modalita' di scelta del contraente ammesse dalle disposizioni vigenti in materia di contratti delle pubbliche amministrazioni e le ragioni che ne sono alla base.
+
 Si applicano, in ogni caso, le procedure previste dalla normativa della Unione europea recepita o comunque vigente nell'ordinamento giuridico italiano.
 
 ## Art. 193. — Salvaguardia degli equilibri di bilancio
@@ -2774,6 +4351,45 @@ La mancata adozione, da parte dell'ente, dei provvedimenti di riequilibrio previ
  Il D.Lgs. 23 giugno 2011, n. 118, come modificato dal D.Lgs. 10 agosto 2014, n. 126, ha disposto (con l'art. 80, comma 1) che le presenti modifiche "si applicano, ove non diversamente previsto nel presente decreto, a decorrere dall'esercizio finanziario 2015, con la predisposizione dei bilanci relativi all'esercizio 2015 e successivi".
 
 ## Art. 194. — Riconoscimento di legittimita' di debiti fuori bilancio
+
+1.
+                        
+                            
+                                Con deliberazione consiliare di cui all'articolo 193, comma 2, o con diversa periodicita' stabilita dai regolamenti di contabilita', gli enti locali riconoscono la legittimita' dei debiti fuori bilancio derivanti da: 
+ 
+                            
+                            
+                                a)
+                                
+                                    sentenze esecutive; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    copertura di disavanzi di consorzi, di aziende speciali e di istituzioni, nei limiti degli obblighi derivanti da statuto, convenzione o atti costitutivi, purche' sia stato rispettato l'obbligo di pareggio del bilancio di cui all'articolo 114 ed il disavanzo derivi da fatti di gestione; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    ricapitalizzazione, nei limiti e nelle forme previste dal codice civile o da norme speciali, di societa' di capitali costituite per l'esercizio di servizi pubblici locali. 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    procedure espropriative o di occupazione d'urgenza per opere di pubblica utilita'; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    acquisizione di beni e servizi, in violazione degli obblighi di cui ai commi 1, 2 e 3 dell'articolo 191, nei limiti degli accertati e dimostrati utilita' ed arricchimento per l'ente, nell'ambito dell'espletamento di pubbliche funzioni e servizi di competenza.
 
 Per il pagamento, l'ente puo' provvedere anche mediante un piano di rateizzazione, della durata di tre anni finanziari compreso quello in corso, convenuto con i creditori.
 
@@ -2836,7 +4452,61 @@ Nell'ambito dei sistemi di controllo di gestione di cui agli articoli 196, 197 e
 
 ## Art. 199. — Fonti di finanziamento
 
+1.
+                        
+                            
+                                Per l'attivazione degli investimenti gli enti locali possono utilizzare: 
+ 
+                            
+                            
+                                a)
+                                
+                                    entrate correnti destinate per legge agli investimenti; 
 
+                                
+                            
+                            
+                                b)
+                                
+                                    
+                                        ((avanzo di parte corrente del)) bilancio, ((costituito)) da eccedenze di entrate correnti rispetto alle spese correnti aumentate delle quote capitali di ammortamento dei prestiti:((83))
+                                    
+                                
+                            
+                            
+                                c)
+                                
+                                    entrate derivanti dall'alienazione di beni e diritti patrimoniali, riscossioni di crediti, proventi da concessioni edilizie e relative sanzioni; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    entrate derivanti da trasferimenti in conto capitale dello Stato, delle regioni, da altri interventi pubblici e privati finalizzati agli investimenti, da interventi finalizzati da parte di organismi comunitari e internazionali; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    avanzo di amministrazione, nelle forme disciplinate dall'articolo 187; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    mutui passivi; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    altre forme di ricorso al mercato finanziario consentite dalla legge.
+
+((1-bis. Le entrate di cui al comma 1, lettere a), c), d) ed f) sono destinate esclusivamente al finanziamento di spese di investimento e non possono essere impiegate per la spesa corrente.))
 
 ---------------
                             AGGIORNAMENTO (83)
@@ -2846,6 +4516,38 @@ Nell'ambito dei sistemi di controllo di gestione di cui agli articoli 196, 197 e
 ## Art. 200. — Gli investimenti
 
 Per tutti gli investimenti degli enti locali, comunque finanziati, l'organo deliberante, nell'approvare il progetto od il piano esecutivo dell'investimento, da' atto della copertura delle maggiori spese derivanti dallo stesso nel bilancio di previsione ed assume impegno di inserire nei bilanci pluriennali successivi le ulteriori o maggiori previsioni di spesa relative ad esercizi futuri, delle quali e' redatto apposito elenco. (83)
+
+1-bis.
+                        
+                            
+                                La copertura finanziaria delle spese di investimento imputate agli esercizi successivi e' costituita: 
+ 
+                            
+                            
+                                a)
+                                
+                                    da risorse accertate esigibili nell'esercizio in corso di gestione, confluite nel fondo pluriennale vincolato accantonato per gli esercizi successivi; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    da risorse accertate esigibili negli esercizi successivi, la cui esigibilita' e' nella piena discrezionalita' dell'ente o di altra pubblica amministrazione; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    dall'utilizzo del risultato di amministrazione nel primo esercizio considerato nel bilancio di previsione, nel rispetto di quanto previsto dall'art. 187. Il risultato di amministrazione puo' confluire nel fondo pluriennale vincolato accantonato per gli esercizi successivi. (83) 
+
+                                
+                            
+                            
+                                c-bis)
+                                
+                                    da altre fonti di finanziamento individuate nei principi contabili allegati al decreto legislativo 23 giugno 2011, n. 118, e successive modificazioni.
 
 Per l'attivita' di investimento che comporta impegni di spesa che vengono a scadenza in piu' esercizi finanziari, deve essere dato specificamente atto, al momento dell'attivazione del primo impegno, di aver predisposto la copertura finanziaria per l'effettuazione della complessiva spesa dell'investimento, anche se la forma di copertura e' stata gia' indicata nell'elenco annuale ((del programma triennale dei lavori pubblici previsto dall'articolo 21 del codice dei contratti pubblici, di cui al decreto legislativo 18 aprile 2016, n. 50)). (83)
 
@@ -2862,6 +4564,29 @@ Per le nuove opere di cui al comma 1 il cui progetto generale comporti una spesa
 
 COMMA ABROGATO DAL D.L. 27 DICEMBRE 2000, N. 392, CONVERTITO CON MODIFICAZIONI DALLA L. 28 FEBBRAIO 2001, N. 26.
 
+4.
+                        
+                            
+                                Le tariffe dei servizi pubblici di cui al comma 1 sono determinati in base ai seguenti criteri: 
+
+                            
+                            
+                                a)
+                                
+                                    la corrispondenza tra costi e ricavi in modo da assicurare la integrale copertura dei costi, ivi compresi gli oneri di ammortamento tecnico-finanziario; 
+                                
+                            
+                            
+                                b)
+                                
+                                    l'equilibrato rapporto tra i finanziamenti raccolti ed il capitale investito; 
+                                
+                            
+                            
+                                c)
+                                
+                                    l'entita' dei costi di gestione delle opere, tenendo conto anche degli investimenti e della qualita' del servizio.
+
 ---------------
                             AGGIORNAMENTO (83)
                             
@@ -2876,6 +4601,24 @@ Il ricorso all'indebitamento da parte degli enti locali e' ammesso esclusivament
 Le relative entrate hanno destinazione vincolata.
 
 ## Art. 203. — Attivazione delle fonti di finanziamento derivanti dal ricorso all'indebitamento
+
+1.
+                        
+                            
+                                Il ricorso all'indebitamento e' possibile solo se sussistono le seguenti condizioni : 
+ 
+                            
+                            
+                                a)
+                                
+                                    avvenuta approvazione del rendiconto dell'esercito del penultimo anno precedente quello in cui si intende deliberare il ricorso a forme di indebitamento; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    avvenuta deliberazione del bilancio ((di previsione)) nel quale sono ((iscritti i relativi stanziamenti)).((83))
 
 Ove nel corso dell'esercizio si renda necessario attuare nuovi investimenti o variare quelli gia' in atto, l'organo consiliare adotta apposita variazione al bilancio ((di previsione)), fermo restando l'adempimento degli obblighi di cui al comma 1.
 Contestualmente ((adegua il documento unico di programmazione e di conseguenza le previsioni del bilancio degli esercizi successivi)) per la copertura degli oneri derivanti dall'indebitamento e per la copertura delle spese di gestione. 
@@ -2894,6 +4637,52 @@ Contestualmente ((adegua il documento unico di programmazione e di conseguenza l
 
 Oltre al rispetto delle condizioni di cui all'articolo 203, l'ente locale puo' assumere nuovi mutui e accedere ad altre forme di finanziamento reperibili sul mercato solo se l'importo annuale degli interessi, sommato a quello dei mutui precedentemente contratti, a quello dei prestiti obbligazionari precedentemente emessi, a quello delle aperture di credito stipulate e a quello derivante da garanzie prestate ai sensi dell'articolo 207, al netto dei contributi statali e regionali in conto interessi, non supera il 12 per cento, per l'anno 2011, l'8 per cento, per gli anni dal 2012 al 2014, e il 10 per cento, a decorrere dall'anno 2015, delle entrate relative ai primi tre titoli delle entrate del rendiconto del penultimo anno precedente quello in cui viene prevista l'assunzione dei mutui.
 PERIODO SOPPRESSO DAL D.LGS. 23 GIUGNO 2011, N. 118, COME MODIFICATO DAL D.LGS. 10 AGOSTO 2014, N. 126. Per gli enti locali di nuova istituzione si fa riferimento, per i primi due anni, ai corrispondenti dati finanziari del bilancio di previsione. Il rispetto del limite e' verificato facendo riferimento anche agli interessi riguardanti i finanziamenti contratti e imputati contabilmente agli esercizi successivi. Non concorrono al limite di indebitamento le garanzie prestate per le quali l'ente ha accantonato l'intero importo del debito garantito.(57) (83)
+
+2.
+                        
+                            
+                                I contratti di mutuo con enti diversi dalla Cassa depositi e prestiti, e dall'Istituto per il credito sportivo, devono, a pena di nullita', essere stipulati in forma pubblica e contenere le seguenti clausole e condizioni: (83) 
+ 
+                            
+                            
+                                a)
+                                
+                                    l'ammortamento non puo' avere durata inferiore ai cinque anni; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la decorrenza dell'ammortamento deve essere fissata al 1 gennaio dell'anno successivo a quello della stipula del contratto. In alternativa, la decorrenza dell'ammortamento puo' essere posticipata al 1 luglio seguente o al 1 gen- naio dell'anno successivo e, per i contratti stipulati nel primo semestre dell'anno, puo' essere anticipata al 1 luglio dello stesso anno; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    la rata di ammortamento deve essere comprensiva, sin dal primo anno della quota capitale e della quota interessi; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    unitamente alla prima rata di ammortamento del mutuo cui si riferiscono devono, essere corrisposti gli eventuali interessi di preammortamento gravati degli ulteriori interessi, al medesimo tasso, decorrenti dalla data di inizio dell'ammortamento e sino alla scadenza della prima rata. Qualora l'ammortamento del mutuo decorra dal primo gennaio del secondo anno successivo a quello in cui e' avvenuta la stipula del contratto, gli interessi di preammortamento sono calcolati allo stesso tasso del mutuo dalla data di valuta della somministrazione al 31 dicembre successivo e dovranno essere versati dall'ente mutuatario con la medesima valuta 31 dicembre successivo; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    deve essere indicata la natura della spesa da finanziare con il mutuo e, ove necessario, avuto riguardo alla tipologia dell'investimento, dato atto dell'intervenuta approvazione ((del progetto di fattibilita' tecnico-economica)) o esecutivo, secondo le norme vigenti; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    deve essere rispettata la misura massima del tasso di interesse applicabile ai mutui, determinato periodicamente dal dal Ministro dell'economia e delle finanze con proprio decreto.(83)
 
 Le disposizioni del comma 2 si applicano, ove compatibili, alle altre forme di indebitamento cui l'ente locale acceda.
 
@@ -2922,6 +4711,52 @@ Gli enti locali sono autorizzati ad attivare prestiti obbligazionari nelle forme
 Gli enti locali sono autorizzati a contrarre aperture di credito nel rispetto della disciplina di cui al presente articolo.
 
 L'utilizzo del ricavato dell'operazione e' sottoposto alla disciplina di cui all'articolo 204, comma 3.
+
+3.
+                        
+                            
+                                I contratti di apertura di credito devono, a pena di nullita', essere stipulati in forma pubblica e contenere le seguenti clausole e condizioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la banca e' tenuta ad effettuare erogazioni, totali o parziali, dell'importo del contratto in base alle richieste di volta in volta inoltrate dall'ente e previo rilascio da parte di quest'ultimo delle relative delegazioni di pagamento ai sensi dell'articolo 206. ((PERIODO SOPPRESSO DAL D.LGS. 23 GIUGNO 2011, N. 118, COME MODIFICATO DAL D.LGS. 10 AGOSTO 2014, N. 126, A SUA VOLTA MODIFICATO DALL'AVVISO DI RETTIFICA IN G.U. 10/03/2015, N. 57))
+                                    
+                                
+                            
+                            
+                                b)
+                                
+                                    gli interessi sulle aperture di credito devono riferirsi ai soli importi erogati. L'ammortamento di tali importi deve avere una durata non inferiore a cinque anni con decorrenza dal 1° gennaio o dal 1° luglio successivi alla data dell'erogazione; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    le rate di ammortamento devono essere comprensive, sin dal primo anno, della quota capitale e della quota interessi; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    unitamente alla prima rata di ammortamento delle somme erogate devono essere corrisposti gli eventuali interessi di preammortamento, gravati degli ulteriori interessi decorrenti dalla data di inizio dell'ammortamento e sino alla scadenza della prima rata; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    deve essere indicata la natura delle spese da finanziare e, ove necessario, avuto riguardo alla tipologia dell'investimento, dato atto dell'intervenuta approvazione del progetto o dei progetti definitivi o esecutivi, secondo le norme vigenti; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    deve essere rispettata la misura massima di tasso applicabile alle aperture di credito i cui criteri di determinazione sono demandati ad apposito decreto del Ministro dell'economia e delle finanze, di concerto con il Ministro dell'interno.
 
 Il contratto di cui al comma 3 puo' prevedere l'erogazione dei singoli tiraggi sulla base di scritture private ovvero di atti di quietanza, fermo restando, al termine di periodi di tempo contrattualmente predeterminati, la formalizzazione dell'insieme dei tiraggi effettuati con unico atto pubblico. (83)
 
@@ -2954,6 +4789,29 @@ A fronte di operazioni di emissione di prestiti obbligazionari effettuate congiu
 
 La garanzia fideiussoria puo' essere inoltre rilasciata a favore della societa' di capitali, costituite ai sensi dell'articolo 113 ), comma 1, lettera e), per l'assunzione di mutui destinati alla realizzazione delle opere di cui all'articolo 116, comma 1. In tali casi i comuni, le province e le citta' metropolitane rilasciano la fideiussione limitatamente alle rate di ammortamento da corrispondersi da parte della societa' sino al secondo esercizio finanziario successivo a quello dell'entrata in funzione dell'opera ed in misura non superiore alla propria quota percentuale di partecipazione alla societa'.
 
+3.
+                        
+                            
+                                La garanzia fideiussoria puo' essere rilasciata anche a favore di terzi ((, che possono essere destinatari di contributi agli investimenti finanziati da debito, come definiti dall'art. 3, comma 18, lettere g) ed h), della legge 24 dicembre 2003, n. 350,)) per l'assunzione di mutui destinati alla realizzazione o alla ristrutturazione di opere a fini culturali, sociali o sportivi, su terreni di proprieta' dell'ente locale, purche' siano sussistenti le seguenti condizioni: ((83))
+                                
+                            
+                            
+                                a)
+                                
+                                    il progetto sia stato approvato dall'ente locale e sia stata stipulata una convenzione con il soggetto mutuatario che regoli la possibilita' di utilizzo delle strutture in funzione delle esigenze della collettivita' locale; 
+                                
+                            
+                            
+                                b)
+                                
+                                    la struttura realizzata sia acquisita al patrimonio dell'ente al termine della concessione; 
+                                
+                            
+                            
+                                c)
+                                
+                                    la convenzione regoli i rapporti tra ente locale e mutuatario nel caso di rinuncia di questi alla realizzazione o ristrutturatone dell'opera.
+
 Gli interessi annuali relativi alle operazioni di indebitamento garantite con fideiussione concorrono alla formazione del limite di cui al comma 1 dell'articolo 204 e non possono impegnare piu' di un quinto di tale limite.
 
 ((4-bis. Con il regolamento di contabilita' l'ente puo' limitare la possibilita' di rilasciare fideiussioni.))
@@ -2968,6 +4826,32 @@ Gli interessi annuali relativi alle operazioni di indebitamento garantite con fi
 ## - TITOLO V TESORERIA  CAPO I Disposizioni generali
 
 ## Art. 208. — Soggetti abilitati a svolgere il servizio di tesoreria
+
+1.
+                        
+                            
+                                Gli enti locali hanno un servizio di tesoreria che puo' essere affidato: 
+ 
+                            
+                            
+                                a)
+                                
+                                    per i comuni capoluoghi di provincia, le province, le citta' metropolitane, ad una banca autorizzata, a svolgere l'attivita' di cui all'articolo 10 del decreto legislativo 1 settembre 1993, n. 385; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    per i comuni non capoluoghi di provincia, le comunita' montane e le unioni di comuni, anche a societa' per azioni regolarmente costituite con capitale sociale interamente versato non inferiore a ((cinquecentomila euro)), aventi per oggetto la gestione del servizio di tesoreria e la riscossione dei tributi degli enti locali e che alla data del 25 febbraio 1995 erano incaricate dello svolgimento del medesimo servizio a condizione che il capitale sociale risulti adeguato a quello minimo richiesto dalla normativa vigente per le banche di credito cooperativo; ((83))
+                                    
+                                
+                            
+                            
+                                c)
+                                
+                                    altri soggetti abilitati per legge. 
+ (68)
 
 -----------
                             AGGIORNAMENTO (68)
@@ -3183,6 +5067,31 @@ Alle operazioni di verifica intervengono gli amministratori che cessano dalla ca
 
 ## Art. 225. — Obblighi di documentazione e conservazione
 
+1.
+                        
+                            
+                                Il tesoriere e' tenuto, nel corso dell'esercizio, ai seguenti adempimenti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    aggiornamento e conservazione del giornale di cassa; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    conservazione del verbale di verifica di cassa di cui agli articoli 223 e 224; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    conservazione (( per almeno cinque anni)) delle rilevazioni ((...)) di cassa previste dalla legge. ((83))
+
 Le modalita' e la periodicita' di trasmissione della documentazione di cui al comma 1 sono fissate nella convenzione.
 
 ------------
@@ -3193,6 +5102,39 @@ Le modalita' e la periodicita' di trasmissione della documentazione di cui al co
 ## Art. 226. — Conto del tesoriere
 
 Entro il termine di 30 giorni dalla chiusura dell'esercizio finanziario, il tesoriere, ai sensi dell'articolo 93, rende all'ente locale il conto della propria gestione di cassa il quale lo trasmette alla competente sezione giurisdizionale della Corte dei conti entro 60 giorni dall'approvazione del rendiconto.
+
+2.
+                        
+                            
+                                Il conto del tesoriere e' redatto su modello di cui all'allegato n. 17 al decreto legislativo 23 giugno 2011, n. 118. Il tesoriere allega al conto la seguente documentazione: (83) 
+ 
+                            
+                            
+                                a)
+                                
+                                    
+                                        ((LETTERA ABROGATA DAL D.L. 26 OTTOBRE 2019, N. 124, CONVERTITO CON MODIFICAZIONI DALLA L. 19 DICEMBRE 2019, N. 157)); 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    gli ordinativi di riscossione e di pagamento; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    la parte delle quietanze originali rilasciate a fronte degli ordinativi di riscossione e di pagamento o, in sostituzione, i documenti informatici contenenti gli estremi delle medesime. (83) 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    eventuali altri documenti richiesti dalla Corte dei conti.
 
 ------------
                             AGGIORNAMENTO (83)
@@ -3214,6 +5156,32 @@ Contestualmente al rendiconto, l'ente approva il rendiconto consolidato, compren
 Nelle more dell'adozione della contabilita' economico-patrimoniale, gli enti locali con popolazione inferiore a 5.000 abitanti che si avvalgono della facolta', prevista dall'art. 232, non predispongono il conto economico, lo stato patrimoniale e il bilancio consolidato. (83)
 
 Ai fini del referto di cui all'articolo 3, commi 4 e 7, della legge 14 gennaio 1994, n. 20, e del consolidamento dei conti pubblici, la Sezione enti locali potra' richiedere i rendiconti di tutti gli altri enti locali.
+
+5.
+                        
+                            
+                                Al rendiconto della gestione sono allegati i documenti previsti dall'art. 11 comma 4 del decreto legislativo 23 giugno 2011, n. 118, e successive modificazioni, ed i seguenti documenti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    l'elenco degli indirizzi internet di pubblicazione del rendiconto della gestione, del bilancio consolidato deliberati e relativi al penultimo esercizio antecedente quello cui si riferisce il bilancio di previsione, dei rendiconti e dei bilanci consolidati delle unioni di comuni di cui il comune fa parte e dei soggetti considerati nel gruppo "amministrazione pubblica" di cui al principio applicato del bilancio consolidato allegato al decreto legislativo 23 giugno 2011, n. 118, e successive modificazioni, relativi al penultimo esercizio antecedente quello cui il bilancio si riferisce.
+Tali documenti contabili sono allegati al rendiconto della gestione qualora non integralmente pubblicati nei siti internet indicati nell'elenco; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la tabella dei parametri di riscontro della situazione di deficitarieta' strutturale; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il piano degli indicatori e dei risultati di bilancio. (83)
 
 Gli enti locali di cui all'articolo 2 inviano telematicamente alle Sezioni enti locali il rendiconto completo di allegati, le informazioni relative al rispetto del patto di stabilita' interno, nonche' i certificati del conto preventivo e consuntivo. Tempi, modalita' e protocollo di comunicazione per la trasmissione telematica dei dati sono stabiliti con decreto di natura non regolamentare del Ministro dell'interno, di concerto con il Ministro dell'economia e delle finanze, sentite la Conferenza Stato, citta' e autonomie locali e la Corte dei conti.
 
@@ -3241,6 +5209,24 @@ Contestualmente all'approvazione del rendiconto, la giunta adegua, ove necessari
 ## Art. 228. — Conto del bilancio
 
 Il conto del bilancio dimostra i risultati finali della gestione rispetto alle autorizzazioni contenute nel primo esercizio considerato nel bilancio di previsione. (83)
+
+2.
+                        
+                            
+                                Per ciascuna tipologia di entrata e per ciascun programma di spesa, il conto del bilancio comprende, distintamente per residui e competenza: (83) 
+ 
+                            
+                            
+                                a)
+                                
+                                    per l'entrata le somme accertate, con distinzione della parte riscossa e di quella ancora da riscuotere; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    per la spesa le somme impegnate, con distinzione della parte pagata e di quella ancora da pagare e di quella impegnata con imputazione agli esercizi successivi rappresentata dal fondo pluriennale vincolato. (83)
 
 Prima dell'inserimento nel conto del bilancio dei residui attivi e passivi l'ente locale provvede all'operazione di riaccertamento degli stessi, consistente nella revisione delle ragioni del mantenimento in tutto od in parte dei residui e della corretta imputazione in bilancio, secondo le modalita' di cui all'art. 3, comma 4, del decreto legislativo 23 giugno 2011, n. 118, e successive modificazioni. (83)
 
@@ -3294,6 +5280,65 @@ Il patrimonio degli enti locali e' costituito dal complesso dei beni e dei rappo
 
 Gli enti locali includono nello stato patrimoniale i beni del demanio, con specifica distinzione, ferme restando le caratteristiche proprie, in relazione alle disposizioni del codice civile. (83)
 
+4.
+                        
+                            
+                                Gli enti locali valutano i beni del demanio e del patrimonio, comprensivi delle relative manutenzioni straordinarie, secondo le modalita' previste dal principio applicato della contabilita' economico-patrimoniale di cui all'allegato n. 4/3 del decreto legislativo 23 giugno 2011, n. 118, e successive modificazioni. (83)  
+                            
+                            
+                                a)
+                                
+                                    LETTERA SOPPRESSA DAL D.LGS. 23 GIUGNO 2011, N. 118, COME MODIFICATO DAL D.LGS. 10 AGOSTO 2014, N. 126; (83) 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    LETTERA SOPPRESSA DAL D.LGS. 23 GIUGNO 2011, N. 118, COME MODIFICATO DAL D.LGS. 10 AGOSTO 2014, N. 126; (83) 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    LETTERA SOPPRESSA DAL D.LGS. 23 GIUGNO 2011, N. 118, COME MODIFICATO DAL D.LGS. 10 AGOSTO 2014, N. 126; (83) 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    LETTERA SOPPRESSA DAL D.LGS. 23 GIUGNO 2011, N. 118, COME MODIFICATO DAL D.LGS. 10 AGOSTO 2014, N. 126; (83) 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    LETTERA SOPPRESSA DAL D.LGS. 23 GIUGNO 2011, N. 118, COME MODIFICATO DAL D.LGS. 10 AGOSTO 2014, N. 126; (83) 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    LETTERA SOPPRESSA DAL D.LGS. 23 GIUGNO 2011, N. 118, COME MODIFICATO DAL D.LGS. 10 AGOSTO 2014, N. 126; (83) 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    LETTERA SOPPRESSA DAL D.LGS. 23 GIUGNO 2011, N. 118, COME MODIFICATO DAL D.LGS. 10 AGOSTO 2014, N. 126; (83) 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    LETTERA SOPPRESSA DAL D.LGS. 23 GIUGNO 2011, N. 118, COME MODIFICATO DAL D.LGS. 10 AGOSTO 2014, N. 126; (83)
+
 Lo stato patrimoniale comprende anche i crediti inesigibili, stralciati dal conto del bilancio, sino al compimento dei termini di prescrizione. Al rendiconto della gestione e' allegato l'elenco di tali crediti distintamente rispetto a quello dei residui attivi. (83)
 
 Il regolamento di contabilita' puo' prevedere la compilazione di conti patrimoniali di inizio e fine mandato degli amministratori. (83)
@@ -3341,6 +5386,53 @@ Gli enti che rinviano la contabilita' economico-patrimoniale con riferimento all
 
 Entro il termine di (( 30 giorni )) dalla chiusura dell'esercizio finanziario, l'economo, il consegnatario di beni e gli altri soggetti di cui all'articolo 93, comma 2, rendono il conto della propria gestione all'ente locale il quale lo trasmette alla competente sezione giurisdizionale della Corte dei conti entro 60 giorni dall'approvazione del rendiconto.
 
+2.
+                        
+                            
+                                Gli agenti contabili, a danaro e a materia, allegano al conto, per quanto di rispettiva competenza:
+
+                            
+                            
+                                a)
+                                
+                                    il provvedimento di legittimazione del contabile alla gestione;
+                                
+                            
+                            
+                                b)
+                                
+                                    la lista per tipologie di beni;
+                                
+                            
+                            
+                                c)
+                                
+                                    copia degli inventari tenuti dagli agenti contabili;
+                                
+                            
+                            
+                                d)
+                                
+                                    la documentazione giustificativa della gestione;
+                                
+                            
+                            
+                                e)
+                                
+                                    i verbali di passaggio di gestione;
+                                
+                            
+                            
+                                f)
+                                
+                                    le verifiche ed i discarichi amministrativi e per annullamento, variazioni e simili;
+                                
+                            
+                            
+                                g)
+                                
+                                    eventuali altri documenti richiesti dalla Corte dei conti.
+
 Qualora l'organizzazione dell'ente locale lo consenta i conti e le informazioni relative agli allegati di cui ai precedenti commi sono trasmessi anche attraverso strumenti informatici, con modalita' da definire attraverso appositi protocolli di comunicazione.
 
 I conti di cui al comma 1 sono redatti su modello approvato con il regolamento previsto dall'articolo 160.
@@ -3365,6 +5457,31 @@ Gli enti locali con popolazione inferiore a 5.000 abitanti possono non predispor
 
 I consigli comunali, provinciali e delle citta' metropolitane eleggono con voto limitato a due componenti un collegio di revisori composto da tre membri.
 
+2.
+                        
+                            
+                                I componenti del collegio dei revisori sono scelti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    uno tra gli iscritti al registro dei revisori contabili, il quale svolge le funzioni di presidente del collegio; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    uno tra gli iscritti nell'albo dei dottori commercialisti; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    uno tra gli iscritti nell'albo dei ragionieri.
+
 Nei comuni con popolazione inferiore a 15.000 abitanti, nelle unioni dei comuni ((, salvo quanto previsto dal comma 3-bis,)) e nelle comunita' montane la revisione economico-finanziaria e' affidata ad un solo revisore eletto dal consiglio comunale o dal consiglio dell'unione di comuni o dall'assemblea della comunita' montana a maggioranza assoluta dei membri e scelto tra i soggetti di cui al comma 2.
 
 ((3-bis. Nelle unioni di comuni che esercitano in forma associata tutte le funzioni fondamentali dei comuni che ne fanno parte, la revisione economico-finanziaria e' svolta da un collegio di revisori composto da tre membri, che svolge le medesime funzioni anche per i comuni che fanno parte dell'unione))
@@ -3376,6 +5493,31 @@ Gli enti locali comunicano ai propri tesorieri i nominativi dei soggetti cui e' 
 L'organo di revisione contabile dura in carica tre anni a decorrere dalla data di esecutivita' della delibera o dalla data di immediata eseguibilita' nell'ipotesi di cui all'articolo 134, comma 3, e ((i suoi componenti non possono svolgere l'incarico per piu' di due volte nello stesso ente locale)). Ove nei collegi si proceda a sostituzione di un singolo componente la durata dell'incarico del nuovo revisore e' limitata al tempo residuo sino alla scadenza del termine triennale, calcolata a decorrere dalla nomina dell'intero collegio. Si applicano le norme relative alla proroga degli organi amministrativi di cui agli articoli 2, 3, comma 1, 4, comma 1, 5, comma 1, e 6 del decreto-legge 16 maggio 1994, n. 293, convertito, con modificazioni, dalla legge 15 luglio 1994, n. 444.
 
 Il revisore e' revocabile solo per inadempienza ed in particolare per la mancata presentazione della relazione alla proposta di deliberazione consiliare del rendiconto entro il termine previsto dall'articolo 239, comma 1, lettera d).
+
+3.
+                        
+                            
+                                Il revisore cessa dall'incarico per: 
+ 
+                            
+                            
+                                a)
+                                
+                                    scadenza del mandato; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    dimissioni volontarie ((da comunicare con preavviso di almeno quarantacinque giorni e che non sono soggette ad accettazione da parte dell'ente)); 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    impossibilita' derivante da qualsivoglia causa a svolgere l'incarico per un periodo di tempo stabilito dal regolamento dell'ente.
 
 ## Art. 236. — Incompatibilita' ed ineleggibilita' dei revisori
 
@@ -3399,8 +5541,79 @@ L'affidamento dell'incarico di revisione e' subordinato alla dichiarazione, resa
 
 ## Art. 239. — Funzioni dell'organo di revisione
 
+1.
+                        
+                            
+                                L'organo di revisione svolge le seguenti funzioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    attivita' di collaborazione con l'organo consiliare secondo le disposizioni dello statuto e del regolamento; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    pareri, con le modalita' stabilite dal regolamento, in materia di: 
+ 1) strumenti di programmazione economico-finanziaria; 
+ 2) proposta di bilancio di previsione verifica degli equilibri e variazioni di bilancio ((escluse quelle attribuite alla competenza della giunta, del responsabile finanziario e dei dirigenti, a meno che il parere dei revisori sia espressamente previsto dalle norme o dai principi contabili, fermo restando la necessita' dell'organo di revisione di verificare, in sede di esame del rendiconto della gestione, dandone conto nella propria relazione, l'esistenza dei presupposti che hanno dato luogo alle variazioni di bilancio approvate nel corso dell'esercizio, comprese quelle approvate nel corso dell'esercizio provvisorio.)); ((83)) 
+ 3) modalita' di gestione dei servizi e proposte di costituzione o di partecipazione ad organismi esterni; 
+ 4) proposte di ricorso all'indebitamento; 
+ 5) proposte di utilizzo di strumenti di finanza innovativa, nel rispetto della disciplina statale vigente in materia; 
+ 6) proposte di riconoscimento di debiti fuori bilancio e transazioni; 
+ 7) proposte di regolamento di contabilita', economato-provveditorato, patrimonio e di applicazione dei tributi locali; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    vigilanza sulla regolarita' contabile, finanziaria ed economica della gestione relativamente all'acquisizione delle entrate, all'effettuazione delle spese, all'attivita' contrattuale, all'amministrazione dei beni, alla completezza della documentazione, agli adempimenti fiscali ed alla tenuta della contabilita'; l'organo di revisione svolge tali funzioni anche con tecniche motivate di campionamento. 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    relazione sulla proposta di deliberazione consiliare ((di approvazione)) del rendiconto della gestione e sullo schema di rendiconto entro il termine, previsto dal regolamento di contabilita' e comunque non inferiore a 20 giorni decorrente dalla trasmissione della stessa proposta approvata dall'organo esecutivo. La relazione ((dedica un'apposita sezione all'eventuale rendiconto consolidato di cui all'art. 11, commi 8 e 9, e)) contiene l'attestazione sulla corrispondenza del rendiconto alle risultanze della gestione nonche' rilievi, considerazioni e proposte tendenti a conseguire efficienza, produttivita' ed economicita' della gestione; ((83))
+                                    
+                                
+                            
+                            
+                                e)
+                                
+                                    referto all'organo consiliare su gravi irregolarita' di gestione con contestuale denuncia ai competenti organi giurisdizionali ove si configurino ipotesi di responsabilita'; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    verifiche di cassa di cui all'articolo 223.
+
 Nei pareri di cui alla lettera b) del comma 1 e' espresso un motivato giudizio di congruita', di coerenza e di attendibilita' contabile delle previsioni di bilancio e dei programmi e progetti, anche tenuto conto dell'attestazione del responsabile del servizio finanziario ai sensi dell'articolo 153, delle variazioni rispetto all'anno precedente, dell'applicazione dei parametri di deficitarieta' strutturale e di ogni altro elemento utile. Nei pareri sono suggerite all'organo consiliare le misure atte ad assicurare l'attendibilita' delle impostazioni. I pareri sono obbligatori.
 L'organo consiliare e' tenuto ad adottare i provvedimenti conseguenti o a motivare adeguatamente la mancata adozione delle misure proposte dall'organo di revisione.
+
+2.
+                        
+                            
+                                Al fine di garantire l'adempimento delle funzioni di cui al precedente comma, l'organo di revisione ha diritto di accesso agli atti e documenti dell'ente e puo' partecipare all'assemblea dell'organo consiliare per l'approvazione del bilancio di previsione e del rendiconto di gestione. Puo' altresi' partecipare alle altre assemblee dell'organo consiliare e, se previsto dallo statuto dell'ente, alle riunioni dell'organo esecutivo. Per consentire la partecipazione alle predette assemblee all'organo di revisione sono comunicati i relativi ordini del giorno. Inoltre all'organo di revisione sono trasmessi: 
+ 
+                            
+                            
+                                a)
+                                
+                                    da parte della Corte dei conti i rilievi e le decisioni assunti a tutela della sana gestione finanziaria dell'ente; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    da parte del responsabile del servizio finanziario le attestazioni di assenza di copertura finanziaria in ordine alle delibere di impegni di spesa.
 
 L'organo di revisione e' dotato, a cura dell'ente locale, dei mezzi necessari per lo svolgimento dei propri compiti, secondo quanto stabilito dallo statuto e dai regolamenti.
 
@@ -3456,6 +5669,31 @@ Le norme di cui al presente capo si applicano a comuni, province e comunita' mon
 
 Gli enti locali strutturalmente deficitari, individuati ai sensi dell'articolo 242, sono soggetti al controllo centrale sulle dotazioni organiche e sulle assunzioni di personale da parie della Commissione per la stabilita' finanziaria degli enti locali. Il controllo e' esercitato prioritariamente in relazione alla verifica sulla compatibilita' finanziaria.
 
+2.
+                        
+                            
+                                Gli enti locali strutturalmente deficitari sono soggetti ai controlli centrali in materia di copertura del costo di alcuni servizi. Tali controlli verificano mediante un'apposita certificazione che: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il costo complessivo della gestione dei servizi a domanda individuale, riferito ai dati della competenza, sia stato coperto con i relativi proventi tariffari e contributi finalizzati in misura non inferiore al 36 per cento, ((a tale fine sono esclusi i costi di gestione degli asili nido)); 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il costo complessivo della gestione del servizio di acquedotto, riferito ai dati della competenza, sia stato coperto con la relativa tariffa in misura non inferiore all'80 per cento; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il costo complessivo della gestione del servizio di smaltimento dei rifiuti solidi urbani interni ed equiparati, riferito ai dati della competenza, sia stato coperto con la relativa tariffa almeno nella misura prevista dalla legislazione vigente.
+
 I costi complessivi di gestione dei servizi di cui al comma 2 devono comunque comprendere gli oneri diretti e indiretti di personale, le spese per l'acquisto di beni e servizi, le spese per i trasferimenti e per gli oneri di ammortamento degli impianti e delle attrezzature. Per le quote di ammortamento si applicano i coefficienti indicati nel decreto del Ministro delle finanze in data 31 dicembre 1988 e successive modifiche o integrazioni. I coefficienti si assumono ridotti del 50 per cento per i beni ammortizzabili acquisiti nell'anno di riferimento. Nei casi in cui detti servizi sono forniti da organismi di gestione degli enti locali, nei costi complessivi di gestione sono considerati gli oneri finanziari dovuti agli enti proprietari di cui all'articolo 44 del decreto del Presidente della Repubblica 4 ottobre 1986, n. 902, da versare dagli organismi di gestione agli enti proprietari entro l'esercizio successivo a quello della riscossione delle tariffe e della erogazione in conto esercizio. I costi complessivi di gestione del servizio di cui al comma 2, lettera c), sono rilevati secondo le disposizioni vigenti in materia.
 
 "I contratti di servizio, stipulati dagli enti locali con le societa' controllate, con esclusione di quelle quotate in borsa, devono contenere apposite clausole volte a prevedere, ove si verifichino condizioni di deficitarieta' strutturale, la riduzione delle spese di personale delle societa' medesime, anche in applicazione di quanto previsto dall'articolo 18, comma 2-bis, del decreto-legge n. 112 del 2008, convertito, con modificazioni, dalla legge n. 133 del 2008.
@@ -3466,6 +5704,24 @@ Alle province ed ai comuni in condizioni strutturalmente deficitarie che, pur es
 Ove non risulti inviato alla banca dati delle amministrazioni pubbliche di cui all'articolo 13 della legge 31 dicembre 2009, n. 196, il rendiconto della gestione del penultimo anno precedente, si fa riferimento all'ultimo rendiconto presente nella stessa banca dati o, in caso di ulteriore indisponibilita', nella banca dati dei certificati di bilancio del Ministero dell'interno. La sanzione si applica sulle risorse attribuite dal Ministero dell'interno a titolo di trasferimenti erariali e di federalismo fiscale; in caso di incapienza l'ente locale e' tenuto a versare all'entrata del bilancio dello Stato le somme residue.
 
 Le disposizioni di cui al comma 5 si applicano a decorrere dalle sanzioni da applicare per il mancato rispetto dei limiti di copertura dei costi di gestione dell'esercizio 2011.
+
+6.
+                        
+                            
+                                Sono soggetti, in via provvisoria, ai controlli centrali di cui al comma 2, sino all'adempimento: 
+ 
+                            
+                            
+                                a)
+                                
+                                    gli enti locali per i quali non sia intervenuta nei termini di legge la deliberazione del rendiconto della gestione; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    gli enti locali che non inviino il rendiconto della gestione alla banca dati delle amministrazioni pubbliche entro 30 giorni dal termine previsto per la deliberazione.
 
 Gli enti locali che hanno deliberato lo stato di dissesto finanziario sono soggetti, per la durata del risanamento, ai controlli di cui al comma 1, sono tenuti alla presentazione della certificazione di cui al comma 2 e sono tenuti per i servizi a domanda individuale al rispetto, per il medesimo periodo, del livello minimo di copertura dei costi di gestione di cui al comma 2, lettera a).
 
@@ -3524,6 +5780,38 @@ La durata massima del piano di riequilibrio finanziario pluriennale, di cui al p
                                     
                                         20 anni
 
+6.
+                        
+                            
+                                Il piano di riequilibrio finanziario pluriennale deve tenere conto di tutte le misure necessarie a superare le condizioni di squilibrio rilevate e deve, comunque, contenere: 
+ 
+                            
+                            
+                                a)
+                                
+                                    le eventuali misure correttive adottate dall'ente locale in considerazione dei comportamenti difformi dalla sana gestione finanziaria e del mancato rispetto degli obiettivi posti con il patto di stabilita' interno accertati dalla competente sezione regionale della Corte dei conti; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la puntuale ricognizione, con relativa quantificazione, dei fattori di squilibrio rilevati, dell'eventuale disavanzo di amministrazione risultante dall'ultimo rendiconto approvato e di eventuali debiti fuori bilancio; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    l'individuazione, con relative quantificazione e previsione dell'anno di effettivo realizzo, di tutte le misure necessarie per ripristinare l'equilibrio strutturale del bilancio, per l'integrale ripiano del disavanzo di amministrazione accertato e per il finanziamento dei debiti fuori bilancio entro il periodo massimo di dieci anni, a partire da quello in corso alla data di accettazione del piano; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    l'indicazione, per ciascuno degli anni del piano di riequilibrio, della percentuale di ripiano del disavanzo di amministrazione da assicurare e degli importi previsti o da prevedere nei bilanci annuali e pluriennali per il finanziamento dei debiti fuori bilancio.
+
 Ai fini della predisposizione del piano, l'ente e' tenuto ad effettuare una ricognizione di tutti i debiti fuori bilancio riconoscibili ai sensi dell'articolo 194. Per il finanziamento dei debiti fuori bilancio l'ente puo' provvedere anche mediante un piano di rateizzazione, della durata massima pari agli anni del piano di riequilibrio, compreso quello in corso, convenuto con i creditori.
 
 Al fine di pianificare la rateizzazione dei pagamenti di cui al comma 7, l'ente locale interessato puo' richiedere all'agente della riscossione una dilazione dei carichi affidati dalle agenzie fiscali e relativi alle annualita' ricomprese nel piano di riequilibrio pluriennale dell'ente. Le rateizzazioni possono avere una durata temporale massima di dieci anni con pagamenti rateali mensili. Alle rateizzazioni concesse si applica la disciplina di cui all'articolo 19, commi 1-quater, 3 e 3-bis, del decreto del Presidente della Repubblica 29 settembre 1973, n. 602. Sono dovuti gli interessi di dilazione di cui all'articolo 21 del citato decreto del Presidente della Repubblica n. 602 del 1973.
@@ -3533,6 +5821,103 @@ Le disposizioni del comma 7-bis si applicano anche ai carichi affidati dagli ent
 Le modalita' di applicazione delle disposizioni dei commi 7-bis e 7-ter sono definite con decreto del Ministero dell'economia e delle finanze, di concerto con il Ministero del lavoro e delle politiche sociali, da adottare entro trenta giorni dalla data di entrata in vigore della presente disposizione.
 
 L'ente locale e' tenuto a rilasciare apposita delegazione di pagamento ai sensi dell'articolo 206 quale garanzia del pagamento delle rate relative ai carichi delle agenzie fiscali e degli enti gestori di forme di previdenza e assistenza obbligatoria di cui ai commi 7-bis e 7-ter.
+
+8.
+                        
+                            
+                                Al fine di assicurare il prefissato graduale riequilibrio finanziario, per tutto il periodo di durata del piano, l'ente: 
+ 
+                            
+                            
+                                a)
+                                
+                                    puo' deliberare le aliquote o tariffe dei tributi locali nella misura massima consentita, anche in deroga ad eventuali limitazioni disposte dalla legislazione vigente; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    e' soggetto ai controlli centrali in materia di copertura di costo di alcuni servizi, di cui all'articolo 243, comma 2, ed e' tenuto ad assicurare la copertura dei costi della gestione dei servizi a domanda individuale prevista dalla lettera a) del medesimo articolo 243, comma 2; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    e' tenuto ad assicurare, con i proventi della relativa tariffa, la copertura integrale dei costi della gestione del servizio di smaltimento dei rifiuti solidi urbani e del servizio acquedotto; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    e' soggetto al controllo sulle dotazioni organiche e sulle assunzioni di personale previsto dall'articolo 243, comma 1; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    e' tenuto ad effettuare una revisione straordinaria di tutti i residui attivi e passivi conservati in bilancio, stralciando i residui attivi inesigibili o di dubbia esigibilita' da inserire nel conto del patrimonio fino al compimento dei termini di prescrizione, nonche' una sistematica attivita' di accertamento delle posizioni debitorie aperte con il sistema creditizio e dei procedimenti di realizzazione delle opere pubbliche ad esse sottostanti ed una verifica della consistenza ed integrale ripristino dei fondi delle entrate con vincolo di destinazione; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    e' tenuto ad effettuare una rigorosa revisione della spesa con indicazione di precisi obiettivi di riduzione della stessa, nonche' una verifica e relativa valutazione dei costi di tutti i servizi erogati dall'ente e della situazione di tutti gli organismi e delle societa' partecipati e dei relativi costi e oneri comunque a carico del bilancio dell'ente; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    puo' procedere all'assunzione di mutui per la copertura di debiti fuori bilancio riferiti a spese di investimento in deroga ai limiti di cui all'articolo 204, comma 1, previsti dalla legislazione vigente, nonche' accedere al Fondo di rotazione per assicurare la stabilita' finanziaria degli enti locali di cui all'articolo 243-ter, a condizione che si sia avvalso della facolta' di deliberare le aliquote o tariffe nella misura massima prevista dalla lettera a), che abbia previsto l'impegno ad alienare i beni patrimoniali disponibili non indispensabili per i fini istituzionali dell'ente e che abbia provveduto alla rideterminazione della dotazione organica ai sensi dell'articolo 259, comma 6, fermo restando che la stessa non puo' essere variata in aumento per la durata del piano di riequilibrio.
+
+9.
+                        
+                            
+                                In caso di accesso al Fondo di rotazione di cui all'articolo 243-ter, l'Ente deve adottare entro il termine dell'esercizio finanziario le seguenti misure di riequilibrio della parte corrente del bilancio: 
+ 
+                            
+                            
+                                a)
+                                
+                                    a decorrere dall'esercizio finanziario successivo, riduzione delle spese di personale, da realizzare in particolare attraverso l'eliminazione dai fondi per il finanziamento della retribuzione accessoria del personale dirigente e di quello del comparto, delle risorse di cui agli articoli 15, comma 5, e 26, comma 3, dei Contratti collettivi nazionali di lavoro del 1° aprile 1999 (comparto) e del 23 dicembre 1999 (dirigenza), per la quota non connessa all'effettivo incremento delle dotazioni organiche; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    entro il termine di un quinquennio, riduzione almeno del 10 per cento delle spese per acquisti di beni e prestazioni di servizi di cui al macroaggregato 03 della spesa corrente, finanziate attraverso risorse proprie. Ai fini del computo della percentuale di riduzione, dalla base di calcolo sono esclusi gli stanziamenti destinati: 
+ 1) alla copertura dei costi di gestione del servizio di smaltimento dei rifiuti solidi urbani; 
+ 2) alla copertura dei costi di gestione del servizio di acquedotto; 
+ 3) al servizio di trasporto pubblico locale; 
+ 4) al servizio di illuminazione pubblica; 
+ 5) al finanziamento delle spese relative all'accoglienza, su disposizione della competente autorita' giudiziaria, di minori in strutture protette in regime di convitto e semiconvitto; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    entro il termine di un quinquennio, riduzione almeno del 25 per cento delle spese per trasferimenti di cui al macroaggregato 04 della spesa corrente, finanziate attraverso risorse proprie. Ai fini del computo della percentuale di riduzione, dalla base di calcolo sono escluse le somme relative a trasferimenti destinati ad altri livelli istituzionali, a enti, agenzie o fondazioni lirico-sinfoniche; 
+
+                                
+                            
+                            
+                                c-bis)
+                                
+                                    ferma restando l'obbligatorieta' delle riduzioni indicate nelle lettere b) e c), l'ente locale ha facolta' di procedere a compensazioni, in valore assoluto e mantenendo la piena equivalenza delle somme, tra importi di spesa corrente, ad eccezione della spesa per il personale e ferme restando le esclusioni di cui alle medesime lettere b) e c) del presente comma. Tali compensazioni sono puntualmente evidenziate nel piano di riequilibrio approvato; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    blocco dell'indebitamento, fatto salvo quanto previsto dal primo periodo del comma 8, lettera g), per i soli mutui connessi alla copertura di debiti fuori bilancio pregressi.
 
 In deroga al comma 8, lettera g), e al comma 9, lettera d), del presente articolo e all'articolo 243-ter, i comuni che fanno ricorso alla procedura di riequilibrio finanziario pluriennale prevista dal presente articolo possono contrarre mutui, oltre i limiti di cui al comma 1 dell'articolo 204, necessari alla copertura di spese di investimento relative a progetti e interventi che garantiscano l'ottenimento di risparmi di gestione funzionali al raggiungimento degli obiettivi fissati nel piano di riequilibrio finanziario pluriennale, per un importo non superiore alle quote di capitale dei mutui e dei prestiti obbligazionari precedentemente contratti ed emessi, rimborsate nell'esercizio precedente, nonche' alla copertura, anche a titolo di anticipazione, di spese di investimento strettamente funzionali all'ordinato svolgimento di progetti e interventi finanziati in prevalenza con risorse provenienti dall'Unione europea o da amministrazioni ed enti nazionali, pubblici o privati. 
  (92) (130) ((137))
@@ -3566,6 +5951,24 @@ In deroga al comma 8, lettera g), e al comma 9, lettera d), del presente articol
 Per il risanamento finanziario degli enti locali che hanno deliberato la procedura di riequilibrio finanziario di cui all'articolo 243-bis lo Stato prevede un'anticipazione a valere sul Fondo di rotazione, denominato: "Fondo di rotazione per assicurare la stabilita' finanziaria degli enti locali".
 
 Con decreto del Ministero dell'interno, di concerto con il Ministero dell'economia e delle finanze, sentita la Conferenza Stato-citta' ed autonomie locali, da emanare entro il 30 novembre 2012, sono stabiliti i criteri per la determinazione dell'importo massimo dell'anticipazione di cui al comma 1 attribuibile a ciascun ente locale, nonche' le modalita' per la concessione e per la restituzione della stessa in un periodo massimo di 10 anni decorrente dall'anno successivo a quello in cui viene erogata l'anticipazione di cui al comma 1.
+
+3.
+                        
+                            
+                                I criteri per la determinazione dell'anticipazione attribuibile a ciascun ente locale, nei limiti dell'importo massimo fissato in euro 300 per abitante per i comuni e in euro 20 per abitante per le province o per le citta' metropolitane, e della disponibilita' annua del Fondo, devono tenere anche conto: 
+ 
+                            
+                            
+                                a)
+                                
+                                    dell'incremento percentuale delle entrate tributarie ed extratributarie previsto nell'ambito del piano di riequilibrio pluriennale; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    della riduzione percentuale delle spese correnti previste nell'ambito del piano di riequilibrio pluriennale.
 
 ))
 
@@ -3743,6 +6146,31 @@ La nomina dell'organo straordinario di liquidazione e' disposta con decreto del 
 
 Per i componenti dell'organo straordinario di liquidazione valgono le incompatibilita' di cui all'articolo 236.
 
+4.
+                        
+                            
+                                L'organo straordinario di liquidazione ha competenza relativamente a fatti ed atti di gestione verificatisi entro il 31 dicembre dell'anno precedente a quello dell'ipotesi di bilancio riequilibrato e provvede alla:
+ 
+                            
+                            
+                                a)
+                                
+                                    rilevazione della massa passiva;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    acquisizione e gestione dei mezzi finanziari disponibili ai fini del risanamento anche mediante alienazione dei beni patrimoniali;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    liquidazione e pagamento della massa passiva.
+
 In ogni caso di accertamento di danni cagionati all'ente locale o all'erario, l'organo straordinario di liquidazione provvede alla denuncia dei fatti alla Procura Regionale presso la Corte dei conti ed alla relativa segnalazione al Ministero dell'interno tramite le prefetture.
 
 ## Art. 253. — Poteri organizzatori
@@ -3760,6 +6188,31 @@ Organo straordinario di liquidazione puo' auto organizzarsi, e, per motivate esi
 L'organo straordinario di liquidazione provvede all'accertamento della massa passiva mediante la formazione, entro 180 giorni dall'insediamento, di un piano di rilevazione. Il termine e' elevato di ulteriori 180 giorni per i comuni con popolazione superiore a 250.000 abitanti o capoluogo di provincia e per le province.
 
 Ai fini della formazione del piano di rilevazione, l'organo straordinario di liquidazione entro 10 giorni dalla data dell'insediamento, da' avviso, mediante affissione all'albo pretorio ed anche a mezzo stampa, dell'avvio della procedura di rilevazione delle passivita' dell'ente locale. Con l'avviso l'organo straordinario di liquidazione invita chiunque ritenga di averne diritto a presentare, entro un termine perentorio di sessanta giorni prorogabile per una sola volta di ulteriori trenta giorni con provvedimento motivato del predetto organo, la domanda in carta libera, corredata da idonea documentazione, atta a dimostrare la sussistenza del debito dell'ente, il relativo importo ed eventuali cause di prelazione, per l'inserimento nel piano di rilevazione.
+
+3.
+                        
+                            
+                                Nel piano di rilevazione della massa passiva sono inclusi; 
+ 
+                            
+                            
+                                a)
+                                
+                                    i debiti di bilancio e fuori bilancio di cui all'articolo 194 verificatisi entro il 31 dicembre dell'anno precedente quello dell'ipotesi di bilancio riequilibrato; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    i debiti derivanti dalle procedure esecutive estinte ai sensi dell'articolo 248, comma 2; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    i debiti derivanti da transazioni compiute dall'organo straordinario di liquidazione ai sensi del comma 7.
 
 L'organo straordinario di liquidazione, ove lo ritenga necessario, richiede all'ente che i responsabili dei servizi competenti per materia attestino che la prestazione e' stata effettivamente resa e che la stessa rientra nell'ambito dell'espletamento di pubbliche funzioni e servizi di competenza dell'ente locale. I responsabili dei servizi attestano altresi' che non e' avvenuto, nemmeno parzialmente, il pagamento del corrispettivo e che il debito non e' caduto in prescrizione alla data della dichiarazione di dissesto. I responsabili dei servizi provvedono entro sessanta giorni dalla richiesta, decorsi i quali l'attestazione si intende resa dagli stessi in senso negativo circa la sussistenza del debito.
 
@@ -4089,6 +6542,318 @@ Le disposizioni degli articoli 125, 127 e 289 del testo unico della - legge comu
 Sono fatti salvi gli effetti dei regolamenti del consiglio in materia organizzativa e contabile adottati nel periodo intercorrente tra il 18 maggio 1997 ed il 21 agosto 1999 e non sottoposti al controllo, nonche' degli atti emanati in applicazione di detti regolamenti.
 
 ## Art. 274. — Norme abrogate
+
+1.
+                        
+                            
+                                Sono o restano abrogate le seguenti disposizioni: 
+ 
+
+                            
+                            
+                                a)
+                                
+                                    
+                                        regio decreto 3 marzo 1934, n. 383; 
+                                
+                            
+                            
+                                b)
+                                
+                                    
+                                        articoli 31 e 32 del regio decreto 7 giugno 1943, n. 651; 
+                                
+                            
+                            
+                                c)
+                                
+                                    
+                                        articoli 2, commi 1, 2 e 3, e 23, commi 2 e 3, della legge 8 marzo 1951, n. 122; 
+                                
+                            
+                            
+                                d)
+                                
+                                    
+                                        articolo 63 della legge 10 febbraio 1953, n. 62; 
+                                
+                            
+                            
+                                e)
+                                
+                                    articoli 6, 9, 9-bis fatta salva l'applicabilita' delle disposizioni ivi previste agli amministratori regionali ai sensi dell'articolo 19 della legge 17 febbraio 1968, n. 108, 72, commi 3 e 4, e 75 del decreto del Presidente della Repubblica del 16 maggio 1960, n. 570; 
+                                
+                            
+                            
+                                f)
+                                
+                                    
+                                        legge 13 dicembre 1965, n. 1371; 
+                                
+                            
+                            
+                                g)
+                                
+                                    
+                                        articolo 6, comma 1, della legge 18 marzo 1968, n. 444; 
+                                
+                            
+                            
+                                h)
+                                
+                                    
+                                        articolo 6, comma 3, della legge 3 dicembre 1971, n. 1102; 
+                                
+                            
+                            
+                                i)
+                                
+                                    
+                                        articolo 16, comma 2, del decreto del Presidente della Repubblica 24 luglio 1977, n. 616; 
+                                
+                            
+                            
+                                j)
+                                
+                                    
+                                        articolo 6, comma 15, del decreto-legge 29 dicembre 1977, n. 946, convertito, con modificazioni, dalla legge 27 febbraio 1978, n. 43; 
+                                
+                            
+                            
+                                k)
+                                
+                                    
+                                        articolo 4, del decreto-legge 10 novembre 1978, n. 702, convertito, con modificazioni, dalla legge 8 gennaio 1979, n. 3; 
+                                
+                            
+                            
+                                l)
+                                
+                                    
+                                        legge 23 aprile 1981, n. 154, fatte salve le disposizioni ivi previste per i consiglieri regionali; 
+                                
+                            
+                            
+                                m)
+                                
+                                    
+                                        articoli 4 e 6 della legge 23 marzo 1981, n. 93; 
+                                
+                            
+                            
+                                n)
+                                
+                                    articolo 15, punto 4.4, limitatamente al primo periodo, articoli 35-bis e 35-ter, del decreto-legge 28 febbraio 1983, n. 55, convertito, con modificazioni, dalla legge 26 aprile 1983, n. 131; 
+                                
+                            
+                            
+                                o)
+                                
+                                    
+                                        legge 27 dicembre 1985, n. 816; 
+                                
+                            
+                            
+                                p)
+                                
+                                    articoli 15, salvo per quanto riguarda gli amministratori e i componenti degli organi comunque denominati delle aziende sanitarie locali e ospedaliere, i consiglieri regionali, 15-bis e 16 della legge 19 marzo 1990, n. 55; 
+                                
+                            
+                            
+                                q)
+                                
+                                    
+                                        legge 8 giugno 1990, n. 142; 
+                                
+                            
+                            
+                                r)
+                                
+                                    
+                                        articolo 13-bis, del decreto-legge 12 gennaio 1991, n. 6, convertito, con modificazioni, dalla legge 15 marzo 1991, n. 80; 
+                                
+                            
+                            
+                                s)
+                                
+                                    
+                                        articolo 15, del decreto-legge 13 maggio 1991, n. 152, convertito, con modificazioni, dalla legge 12 luglio 1991, n. 203; 
+                                
+                            
+                            
+                                t)
+                                
+                                    
+                                        decreto-legge 31 maggio 1991, n. 164 convertito, con modificazioni, dalla legge 22 luglio 1991, n. 221; 
+                                
+                            
+                            
+                                u)
+                                
+                                    
+                                        articolo 2, della legge 11 agosto 1991, n. 271; 
+                                
+                            
+                            
+                                v)
+                                
+                                    
+                                        articoli 1 e 4 comma 2, della legge 18 gennaio 1992, n. 16; 
+                                
+                            
+                            
+                                w)
+                                
+                                    
+                                        articolo 12 commi 1, 3, 4, 5, 7 e 8, della legge 23 dicembre 1992, n. 498; 
+                                
+                            
+                            
+                                x)
+                                
+                                    
+                                        articolo 3, comma 9, del decreto legislativo 30 dicembre 1992, n. 502, limitatamente a quanto riguarda le cariche di consigliere comunale, provinciale, sindaco, assessore comunale, presidente e assessore di comunita' montane; 
+                                
+                            
+                            
+                                y)
+                                
+                                    
+                                        articoli da 44 a 47, del decreto legislativo 30 dicembre 1992, n. 504; 
+                                
+                            
+                            
+                                z)
+                                
+                                    
+                                        articoli 8 e 8-bis, del decreto-legge 18 gennaio 1993, n. 8, convertito, con modificazioni, dalla legge 19 marzo 1993, n. 68; 
+                                
+                            
+                            
+                                aa)
+                                
+                                    
+                                        articolo 36-bis, comma 2, del decreto legislativo 3 febbraio 1993, n. 29; 
+                                
+                            
+                            
+                                bb)
+                                
+                                    
+                                        articolo 3 del decreto-legge 25 febbraio 1993, n. 42, convertito, con modificazioni, dalla legge 23 aprile 1993, n. 120; 
+                                
+                            
+                            
+                                cc)
+                                
+                                    
+                                        legge 25 marzo 1993, n. 81, limitatamente agli articoli: 1, 2, 3, comma 5, 5, 6, 7, 7-bis, 8, 9, 10, commi 1 e 2, da 12 a 27 e 31; 
+                                
+                            
+                            
+                                dd)
+                                
+                                    
+                                        articoli 1 e 7 della legge 15 ottobre 1993, n. 415; 
+                                
+                            
+                            
+                                ee)
+                                
+                                    
+                                        decreto-legge 20 dicembre 1993, n. 529, convertito dalla legge 11 febbraio 1994, n. 108; 
+                                
+                            
+                            
+                                ff)
+                                
+                                    
+                                        articoli 1, 2 e 4 della legge 12 gennaio 1994, n. 30; 
+                                
+                            
+                            
+                                gg)
+                                
+                                    
+                                        articolo 4, commi 2, 3 e 5 del decreto-legge 31 gennaio 1995, n. 26, convertito, con modificazioni, dalla legge 29 marzo 1995, n. 95; 
+                                
+                            
+                            
+                                hh)
+                                
+                                    
+                                        articoli da 1 a 114 del decreto legislativo 25 febbraio 1995, n. 77; 
+                                
+                            
+                            
+                                ii)
+                                
+                                    
+                                        articolo 5, commi 8, 8-bis, 8-ter, 9, 9-bis ed 11-bis del decreto-legge 28 agosto 1995, n. 361, convertito, con modificazioni, dalla legge 27 ottobre 1995, n. 437; 
+                                
+                            
+                            
+                                jj)
+                                
+                                    
+                                        articolo 1, comma 89, ed articolo 3, comma 69, della legge 28 dicembre 1995, n. 549; 
+                                
+                            
+                            
+                                kk)
+                                
+                                    
+                                        legge 15 maggio 1997, n. 127, limitatamente agli articoli: 4; 5 ad eccezione del comma 7; 6 commi 1, 2, 3, 4, 5, 7, 8, 10, 11 e 12 fatta salva l'applicabilita' delle disposizioni ivi previste per le camere di commercio, industria, artigianato e agricoltura, le aziende sanitarie locali e ospedaliere; 10; 17, commi 8, 9 e 18, secondo periodo, da 33 a 36, 37, nella parte in cui si riferisce al controllo del comitato regionale di controllo, da 38 a 45, 48, da 51 a 59, da 67 a 80 ad eccezione del 79-bis, da 84 a 86; 
+                                
+                            
+                            
+                                ll)
+                                
+                                    
+                                        articolo 2, commi 12, 13, 15, 16, 29, 30 e 31 della legge 16 giugno 1998, n. 191; 
+                                
+                            
+                            
+                                mm)
+                                
+                                    
+                                        articolo 4, comma 2, della legge 18 novembre 1998, n. 415; 
+                                
+                            
+                            
+                                nn)
+                                
+                                    
+                                        articolo 2, comma 1, del decreto-legge 26 gennaio 1999, n. 8, convertito, con modificazioni, dalla legge 25 marzo 1999, n. 75; 
+                                
+                            
+                            
+                                oo)
+                                
+                                    
+                                        articolo 9, comma 5, della legge 8 marzo 1999, n. 50; 
+                                
+                            
+                            
+                                pp)
+                                
+                                    
+                                        articoli 2, 7 e 8, commi 4 e 5, della legge 30 aprile 1999, n. 120; 
+                                
+                            
+                            
+                                qq)
+                                
+                                    
+                                        legge 3 agosto 1999, n. 265, limitatamente agli articoli 1; 2; 3; 
+4, commi 1 e 3; 5; 6 tranne il comma 8; 7 comma 1; 8; 11 tranne il comma 13; 13, commi 1, 3 e 4; 14; 16; 17, comma 3; 18, commi 1 e 2; 19; 20; 21; 22; 23; 24; 25; 26, commi da 1 a 6; 27; 28, commi 3, 5, 6 e 7; 29; 30; 32 e 33; 
+                                
+                            
+                            
+                                rr)
+                                
+                                    
+                                        legge 13 dicembre 1999, n. 475, ad eccezione dell'articolo 1, comma 3, e fatte salve le disposizioni ivi previste per gli amministratori regionali.
 
 ## Art. 275. — Norma finale
 

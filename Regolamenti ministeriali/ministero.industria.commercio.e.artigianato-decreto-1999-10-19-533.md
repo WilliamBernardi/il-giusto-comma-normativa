@@ -8,8 +8,8 @@ codice_redazionale: 000G0028
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:38Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -23,7 +23,64 @@ Udito il parere del Consiglio di Stato, espresso dalla sezione consultiva per gl
 
 ## Art. 1. — Ambito di applicazione e requisiti per la concessione della garanzia
 
+1.
+                    
+                        
+                            Agli effetti del presente regolamento: 
+ 
+                        
+                        
+                            a)
+                            
+                                le imprese cedenti sono quelle imprese che cedono i crediti vantati nei confronti delle imprese assoggettate alla procedura di amministrazione straordinaria, ai sensi della legge 3 aprile 1979, n. 95. Esse devono essere costituite alla data di cessione del credito, come impresa commerciale ai sensi dell'articolo 2195 del codice civile ed appartenere a settori che non sono oggetto di limitazioni o divieti sulla base della disciplina comunitaria degli aiuti di Stato; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                i crediti oggetto della cessione, anche parziale, sono i crediti certi liquidi ed esigibili compresi gli accessori, vantati in prededuzione ai sensi dell'articolo 111, numero 1), L.F., nei confronti di imprese in amministrazione straordinaria per le quali la predetta autorizzazione e' cessata nei tre anni antecedenti la data di entrata in vigore della legge 30 luglio 1998, n. 274.
+
 ## Art. 2. — Contratto di cessione
+
+1.
+                    
+                        
+                            Il contratto di cessione deve contenere: 
+ 
+                        
+                        
+                            a)
+                            
+                                il valore nominale del credito ceduto comprensivo degli interessi legali maturati per un importo non superiore alla soglia de minimis; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                eventuali accessori al credito ceduto; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                il corrispettivo pattuito per la cessione, tenuto conto dell'esistenza della garanzia statale; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                espressa esclusione di qualsiasi forma di garanzia del cedente; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                eventuali modalita' della cessione.
 
 Il contratto non deve essere sottoposto ad alcuna condizione se non a quella della concessione della garanzia di cui all'articolo 3.
 
@@ -44,6 +101,31 @@ Nel caso in cui, allo scadere dei due anni dalla data del provvedimento di conce
 Entro due mesi dal ricevimento della richiesta, il Ministero del tesoro provvede al pagamento dell'importo non corrisposto dall'impresa debitrice. A seguito del pagamento, il tesoro e' surrogato nei diritti del cessionario ai sensi dell'articolo 1203, numero 3, del codice civile e concorre alle ripartizioni effettuate dall'impresa debitrice.
 
 ## Art. 4. — Norme procedurali
+
+1.
+                    
+                        
+                            La richiesta di concessione della garanzia statale sulle cessioni di credito di cui all'articolo 1, lettera b), e' presentata dal cessionario all'ufficio del Ministero dell'industria, del commercio e dell'artigianato (di qui in avanti Ministero dell'industria), competente in materia di vigilanza sulle imprese sottoposte alla procedura di amministrazione straordinaria. Alla richiesta sono allegati: 
+ 
+                        
+                        
+                            a)
+                            
+                                copia del contratto di cessione del credito; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                copia dei documenti probatori del credito; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                dichiarazione del cedente sul possesso dei requisiti per l'accesso alla garanzia, redatta secondo il modello approvato con decreto del Ministro dell'industria.
 
 Entro trenta giorni dal ricevimento della richiesta, il Ministero dell'industria, acquisita dal commissario della procedura di amministrazione straordinaria debitrice la dichiarazione di riconoscimento del credito e di accettazione della cessione, completa l'istruttoria in ordine alla sussistenza dei requisiti per l'accesso alla garanzia di cui agli articoli 1 e 2, e ne comunica l'esito al Ministero del tesoro, trasmettendo l'istanza e la documentazione ad essa allegata.
 

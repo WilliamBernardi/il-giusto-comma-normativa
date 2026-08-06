@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: DPR
 vigenza_date: 2017-12-29
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:47:42Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -29,6 +29,45 @@ Sulla proposta del Ministro dell'istruzione, dell'universita' e della ricerca, d
 ## Art. 1. — Oggetto e ambito di applicazione
 
 Il presente regolamento disciplina la revisione del trattamento economico dei professori e dei ricercatori universitari gia' in servizio e di coloro i quali sono risultati vincitori di concorsi indetti fino alla data di entrata in vigore della legge 30 dicembre 2010, n. 240, nonche' il trattamento economico dei professori e dei ricercatori assunti ai sensi della medesima legge.
+
+2.
+                    
+                        
+                            Ai sensi del presente regolamento si intendono: 
+ 
+                        
+                        
+                            a)
+                            
+                                per professori e ricercatori universitari gia' in servizio, i professori e ricercatori universitari di ruolo in servizio alla data di entrata in vigore della predetta legge; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                per vincitori di concorsi indetti fino alla data di entrata in vigore della legge 30 dicembre 2010, n. 240, i professori destinatari di chiamata ai sensi della legge 3 luglio 1998, n. 210, anche in virtu' di quanto previsto ai sensi dell'articolo 29, comma 4, della predetta legge n. 240 del 2010 e i ricercatori nominati in ruolo all'esito di procedure di valutazione comparativa indette fino all'entrata in vigore della medesima legge; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                per professori assunti ai sensi della legge n. 240 del 2010, i professori assunti secondo le procedure di cui agli articoli 18 e 24, commi 5 e 6, della medesima legge; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                per professori e ricercatori assunti secondo il regime previgente, i professori e ricercatori universitari di ruolo di cui alle lettere a) e b); 
+
+                            
+                        
+                        
+                            e)
+                            
+                                per "Legge", la legge 30 dicembre 2010, n. 240.
 
 ## Art. 2. — Revisione del trattamento economico dei professori e ricercatori assunti secondo il regime previgente
 

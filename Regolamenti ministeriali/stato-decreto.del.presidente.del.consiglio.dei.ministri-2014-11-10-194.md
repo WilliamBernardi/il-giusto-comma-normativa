@@ -7,8 +7,8 @@ urn: urn:nir:stato:decreto.del.presidente.del.consiglio.dei.ministri:2014-11-10;
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:40Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DEL CONSIGLIO DEI MINISTRI
@@ -35,6 +35,24 @@ Su proposta del Ministero dell'interno, del Ministro per la semplificazione e la
 ## Art. 1. — Subentro alle anagrafi tenute dai comuni
 
 L'Anagrafe Nazionale della Popolazione Residente (ANPR) subentra gradualmente alle anagrafi tenute dai comuni secondo il piano di subentro e le modalita', idonee a garantire l'integrita', l'univocita' e la sicurezza dei dati, descritti nell'Allegato A, che costituisce parte integrante del presente regolamento. Nel subentro sono compresi i dati informatizzati relativi alle situazioni anagrafiche pregresse alla data del subentro e alle schede archiviate in formato elettronico.
+
+2.
+                    
+                        
+                            I dati anagrafici inviati dai comuni ai fini del subentro sono sottoposti ai seguenti controlli formali da parte del Ministero dell'interno: 
+ 
+                        
+                        
+                            a)
+                            
+                                validazione del codice fiscale previo confronto con l'anagrafe tributaria, di cui al decreto del Presidente della Repubblica 29 settembre 1973, n. 605; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                verifica di congruita' con i dati contenuti nell'ANPR al momento del subentro.
 
 Il Ministero dell'Interno e l'Istituto nazionale di statistica, sentito il Garante per la protezione dei dati personali, definiscono standard e indicatori finalizzati a monitorare la qualita' dei dati registrati nell'ANPR nella fase di subentro.
 

@@ -8,8 +8,8 @@ codice_redazionale: 093G0198
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti di delegificazione
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:40:25Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -90,4 +90,36 @@ Il comma 2 dell'art. 8 del decreto del Presidente della Repubblica 27 dicembre 1
 ## Art. 9. — Direttore generale
 
 Il direttore generale e' nominato con delibera del consiglio di amministrazione, ai sensi della legge 20 marzo 1975, n. 70.
+
+2.
+                    
+                        
+                            Il direttore generale:
+ 
+                        
+                        
+                            a)
+                            
+                                provvede alla esecuzione degli atti deliberati dal consiglio di amministrazione e dal comitato esecutivo;
+
+                            
+                        
+                        
+                            b)
+                            
+                                provvede alla gestione del personale e all'amministrazione ordinaria dell'Istituto;
+
+                            
+                        
+                        
+                            c)
+                            
+                                sovrintende ai servizi interni ed esterni dell'Istituto;
+
+                            
+                        
+                        
+                            d)
+                            
+                                firma gli atti di ordinaria amministrazione.
 

@@ -8,8 +8,8 @@ codice_redazionale: 004G0105
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti governativi
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:15Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -44,6 +44,38 @@ Il ruolo e' pubblicato sul sito Internet dell'amministrazione e di tale pubblica
 Il ruolo dei dirigenti e' tenuto a cura di ogni amministrazione secondo principi di trasparenza e completezza dei dati, nonche' di pertinenza e non eccedenza dei medesimi, nel rispetto delle disposizioni contenute nel decreto legislativo 30 giugno 2003, n. 196.
 
 Fermo restando quanto previsto dall'articolo 19 del decreto legislativo 30 marzo 2001, n. 165, ai soli fini della predisposizione e della tenuta dei ruoli i dirigenti sono inquadrati e ordinati secondo il criterio dell'anzianita' maturata nella fascia di appartenenza, fatto salvo quanto previsto per la Presidenza del Consiglio dei Ministri dal decreto legislativo 5 dicembre 2003, n. 343. L'anzianita' e' determinata dalla decorrenza giuridica della nomina rispettivamente nella prima e nella seconda fascia. In caso di pari anzianita' nella prima fascia, la posizione e' determinata in base all'anzianita' maturata nella seconda fascia. In caso di parita', dalla data di accesso nella pubblica amministrazione ed in caso di ulteriore parita' dalla maggiore eta'.
+
+3.
+                    
+                        
+                            Per ogni dirigente inquadrato nel ruolo sono inseriti i seguenti dati:
+ 
+                        
+                        
+                            a)
+                            
+                                cognome, nome, luogo e data di nascita;
+
+                            
+                        
+                        
+                            b)
+                            
+                                data di inquadramento nella fascia di appartenenza o in quella inferiore, ove necessario;
+
+                            
+                        
+                        
+                            c)
+                            
+                                data di primo inquadramento nell'amministrazione;
+
+                            
+                        
+                        
+                            d)
+                            
+                                incarichi conferiti ai sensi dell'articolo 19, commi 3 e 4, del decreto legislativo 30 marzo 2001, n. 165; per ogni incarico devono essere indicati la decorrenza e il termine di scadenza.
 
 I dati riguardanti i dirigenti inquadrati nei ruoli sono trasmessi dalle amministrazioni al Dipartimento della funzione pubblica, che provvede all'inserimento e all'aggiornamento della banca dati prevista dall'articolo 23 del decreto legislativo 30 marzo 2001, n. 165, e ne assicura la consultabilita' via Internet, nel rispetto delle disposizioni di cui al decreto legislativo 30 giugno 2003, n. 196.
 

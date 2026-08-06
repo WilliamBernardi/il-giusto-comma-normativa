@@ -8,8 +8,8 @@ codice_redazionale: 087U0306
 vigente: true
 source: normattiva-opendata
 collection: DPR
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:48:14Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -42,7 +42,85 @@ Il Ministro e i Sottosegretari dispongono, rispettivamente, di un gabinetto e di
 
 ## Art. 2. — Utilizzazione di strutture esterne al Ministero
 
+1.
+                        
+                            
+                                Per l'esercizio delle sue funzioni il Ministero dell'ambiente puo' inoltre avvalersi, nei casi e nei modi consentiti dalla legge:
+ 
+                            
+                            
+                                a)
+                                
+                                    dei servizi tecnici dello Stato, previa intesa con i Ministri competenti;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    dei servizi tecnici delle unita' sanitarie locali, previa intesa con la regione;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    della collaborazione degli istituti superiori;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    della collaborazione degli organi di consulenza tecnico-scientifica dello Stato;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    della collaborazione degli enti pubblici specializzati operanti a livello nazionale;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    della collaborazione degli istituti e dipartimenti universitari, con i quali puo' stipulare apposite convenzioni.
+
 ## Art. 3. — Strutture operative per la vigilanza, la prevenzione e la repressione delle violazioni in danno dell'ambiente
+
+1.
+                        
+                            
+                                Per la vigilanza, la prevenzione e la repressione delle violazioni compiute in danno dell'ambiente il Ministero dell'ambiente si avvale:
+ 
+                            
+                            
+                                a)
+                                
+                                    del nucleo operativo ecologico dell'Arma dei carabinieri, che e' posto alla diretta dipendenza funzionale del Ministro dell'ambiente;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    del Corpo forestale dello Stato, con particolare riguardo alla tutela del patrimonio naturalistico nazionale, previa intesa con il Ministro competente;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    degli appositi reparti del Corpo della guardia di finanza, nonche' dei reparti delle Forze di polizia, previa intesa con i Ministri competenti, fatte salve le attribuzioni di coordinamento di cui alla legge 1 aprile 1981, n. 121;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    delle capitanerie di porto, previa intesa con il Ministro della marina mercantile.
 
 ## - Capo II GABINETTO DEL MINISTRO
 
@@ -95,6 +173,80 @@ Le segreterie particolari dei Sottosegretari di Stato hanno la composizione ed a
 
 Il Servizio esercita le funzioni generali di competenza del Ministero concernenti tutte le forme di inquinamento e il risanamento dell'ambiente, e quindi la prevenzione, la rilevazione e lo studio dei fenomeni inquinanti, la promozione ed il coordinamento dell'attivita' di ricerca e sperimentazione tecnico-scientifica in materia di prevenzione degli inquinamenti e risanamento ambientale, l'individuazione e il risanamento delle aree inquinate. Promuove e cura i relativi adempimenti tecnici ed amministrativi, anche in riferimento a convenzioni internazionali, direttive, decisioni e regolamenti comunitari, nonche' i rapporti con le regioni per le materie di competenza. Predispone gli atti e le attivita' di competenza del Ministro riguardanti le stesse materie, anche ai fini dell'adozione degli atti per i quali e' previsto il suo concerto.
 
+2.
+                        
+                            
+                                In particolare, sono comprese tra le funzioni esercitate dal Servizio quelle relative:
+ 
+                            
+                            
+                                a)
+                                
+                                    alle competenze in materia di tutela delle acque dall'inquinamento gia' attribuite al Comitato interministeriale previsto dall'art. 3 della legge 10 maggio 1976, n. 319, ed a quelle gia' attribuire dalla stessa legge e dalle successive modifiche ed integrazioni al Ministero dei lavori pubblici, trasferite al Ministero dell'ambiente a norma dell'art. 2, comma 1, lettera a), della legge 8 luglio 1986, n. 349;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    alle competenze attribuite al Ministro dell'ambiente, a norma dell'art. 2, commi 16 e 17, della legge 8 luglio 1986, n. 349, per la concertazione dei provvedimenti relativi all'attuazione dei decreti del Presidente della Repubblica 8 giugno 1982, n. 470, e 3 luglio 1982, n. 515, concernenti rispettivamente la qualita' delle acque di balneazione e delle acque di superficie destinate alla produzione di acqua potabile;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    alle competenze in materia di smaltimento dei rifiuti gia' attribuite al Comitato interministeriale previsto dall'art. 5 del decreto del Presidente della Repubblica 10 settembre 1982, n. 915, trasferite al Ministero dell'ambiente a norma dell'art. 2, comma 1, lettera b), della legge 8 luglio 1986, n. 349;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    alle competenze in materia di inquinamento atmosferico ed acustico attribuite al Ministero dell'ambiente a norma dell'art. 2, comma 1, lettera c), della legge 8 luglio 1986, n. 349;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    alle competenze attribuite al Ministro dell'ambiente, a norma dell'art. 2, comma 6, della legge 8 luglio 1986, n. 349, per assicurare il coordinamento, ad ogni livello di pianificazione, delle funzioni di tutela dell'ambiente con gli interventi per la tutela e l'utilizzazione delle acque;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    alle competenze attribuite al Ministro dell'ambiente, a norma dell'art. 2, comma 7, della legge 8 luglio 1986, n. 349, per la concertazione della programmazione nazionale delle risorse idriche, di cui agli articoli 90 e 91 del decreto del Presidente della Repubblica 24 luglio 1977, n. 616;
+
+                                
+                            
+                            
+                                g)
+                                
+                                    alle competenze attribuite al Ministro dell'ambiente, a norma dell'art. 2, comma 14, della legge 8 luglio 1986, n. 349, ai fini della fissazione dei limiti massimi di accettabilita' delle concentrazioni e dei limiti massimi di esposizione relativi ad inquinamenti di natura chimica, fisica e biologica e delle emissioni sonore di cui all'art. 4 della legge 23 dicembre 1978, n. 833, nonche' per la concertazione delle proposte relative alla fissazione di tali limiti quando siano relativi agli ambienti di lavoro;
+
+                                
+                            
+                            
+                                h)
+                                
+                                    alle competenze attribuite al Ministro dell'ambiente, a norma dell'art. 2, comma 15, della legge 8 luglio 1986, n. 349, per la concertazione degli atti di indirizzo e di coordinamento previsti dalla legge 23 dicembre 1978, n. 833, relativi a funzioni trasferite alle regioni, e degli atti di esercizio di poteri relativi a funzioni delegate alle regioni stesse, ove riferiti ad inquinamenti di natura chimica, fisica, biologica o da emissioni sonore;
+
+                                
+                            
+                            
+                                i)
+                                
+                                    alle autorizzazioni e alle notifiche di cui all'art. 4 della legge 8 luglio 1986, n. 349;
+
+                                
+                            
+                            
+                                l)
+                                
+                                    alle competenze attribuite al Ministro dell'ambiente, a norma dell'art. 7, della legge 8 luglio 1986, n. 349, per la dichiarazione di "area ad elevato rischio di crisi ambientale", per l'individuazione dei conseguenti obiettivi per gli interventi di risanamento e per la formazione di un piano di disinquinamento.
+
 Il Servizio partecipa inoltre, per la parte di sua competenza e in collaborazione con il Servizio per la conservazione della natura, all'esercizio delle funzioni attribuite al Ministro dell'ambiente, a norma dell'art. 2, comma 8, della legge 8 luglio 1986, n. 349, per la concertazione dei provvedimenti relativi al piano generale di difesa del mare e delle coste marine di cui all'art. 1 della legge 31 dicembre 1982, n. 979.
 
 Il Servizio si articola nelle seguenti divisioni:
@@ -113,6 +265,45 @@ All'ufficio e' preposto un impiegato di livello funzionale non inferiore al sett
 
 Il Servizio esercita le funzioni generali di competenza del Ministero per la conservazione e la valorizzazione dell'ambiente naturale e del patrimonio faunistico e vegetazionale, e quindi la promozione e il coordinamento dell'attivita' di ricerca e sperimentazione tecnico-scientifica interessante gli aspetti conservativi dell'ambiente e delle specie naturali, le iniziative di educazione ambientale nel settore delle aree protette ed ogni altra funzione di competenza del Ministero in materia di parchi naturali, riserve marine, zone umide ed altre zone protette e di tutela della flora e della fauna. Promuove e cura i relativi adempimenti tecnici ed amministrativi, anche in riferimento a convenzioni internazionali, direttive, decisioni e regolamenti comunitari, nonche' i rapporti con le regioni per le materie di competenza. Predispone gli atti e le attivita' di competenza del Ministro riguardanti le stesse materie, anche ai fini dell'adozione dei provvedimenti per i quali e' previsto il suo concerto.
 
+2.
+                        
+                            
+                                In particolare, sono comprese tra le funzioni esercitate dal Servizio quelle relative:
+ 
+                            
+                            
+                                a)
+                                
+                                    all'individuazione dei territori nei quali promuovere l'istituzione di riserve naturali e di parchi di carattere interregionale, a norma dell'art. 5, commi 1 e 2 della legge 8 luglio 1986, n. 349;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    alla definizione di criteri omogenei di gestione e all'emanazione di direttive per il raggiungimento degli obiettivi scientifici, educativi e di protezione naturalistica per i parchi nazionali e per le riserve naturali statali, verificandone l'osservanza, nonche' all'elaborazione di norme generali di indirizzo e di coordinamento per la gestione delle aree protette di carattere regionale e locale, a norma dell'art. 5, comma 3, della legge 8 luglio 1986, n. 349;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    all'istituzione e alla gestione delle riserve marine e ai conseguenti piani di vincolo, regolamenti e convenzioni ed altre attivita' inerenti, a norma dell'art. 2, commi 9, 10, 11 e 12 della legge 8 luglio 1986, n. 349;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    alle attivita' di competenza del Ministro dell'ambiente in collaborazione con il Servizio valutazione impatto ambientale, ai sensi dell'art. 6, comma 8, della legge 8 luglio 1986, n. 349, per la concertazione degli atti di esercizio dei poteri di cui agli articoli 4 e 82 del decreto del Presidente della Repubblica 24 luglio 1977, n. 616, relativamente alle zone di particolare interesse ambientale di cui all'art. 1-bis del decreto-legge 27 giugno 1985, n. 312, come modificato dalla legge di conversione 8 agosto 1985, n. 431;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    alla tutela della flora e della fauna, delle zone umide e di altri ecosistemi di cui si ritenga utile la conservazione e la valorizzazione, per la parte di competenza del Ministero dell'ambiente, ai sensi dell'art. 1, comma 2, della legge 8 luglio 1986, n. 349, d'intesa con le altre amministrazioni interessate.
+
 Il Servizio partecipa inoltre, per la parte di sua competenza e in collaborazione con il Servizio prevenzione degli inquinamenti e risanamento ambientale, all'esercizio delle funzioni attribuite al Ministero dell'ambiente, a norma dell'art. 2, comma 8, della legge 8 luglio 1986, n. 349, per la concertazione dei provvedimenti relativi al piano generale di difesa del mare e delle coste marine di cui all'art. 1 della legge 31 dicembre 1982, n. 979.
 
 Nel rispetto delle competenze e delle procedure di cui all'art. 8, comma 4, della legge 8 luglio 1986, n. 349, il Servizio puo' anche avvalersi, per l'espletamento delle sue funzioni, della collaborazione del Corpo forestale dello Stato e delle Capitanerie di porto.
@@ -129,6 +320,80 @@ All'ufficio e' preposto un impiegato di livello funzionale non inferiore al sett
 ## Art. 11. — Servizio valutazione dell'impatto ambientale, informazione ai cittadini e per la relazione sullo stato dell'ambiente
 
 Il Servizio esercita le funzioni generali di competenza del Ministero concernenti tutte le opere, gli interventi e i piani che abbiano rilevanza d'impatto ambientale, l'informazione e i rapporti con i cittadini in materia ambientale, la raccolta e la gestione dei dati e la redazione della relazione al Parlamento sullo stato dell'ambiente, nonche' l'attivita' di studio, ricerca e sperimentazione tecnico-scientifica in materia di impatto ambientale, di trasformazione dell'ambiente e di uso delle risorse. Promuove e cura i relativi adempimenti tecnici e amministrativi, anche in riferimento a convenzioni internazionali, direttive, decisioni e regolamenti comunitari, nonche' i rapporti con le regioni per le materie di competenza, predispone gli atti e le attivita' di competenza del Ministro riguardanti le stesse materie, anche ai fini dell'adozione dei provvedimenti per i quali e' previsto il suo concerto.
+
+2.
+                        
+                            
+                                In particolare, sono comprese tra le funzioni esercitate dal Servizio quelle relative:
+ 
+                            
+                            
+                                a)
+                                
+                                    alle competenze del Ministero dell'ambiente per la valutazione dell'impatto ambientale derivanti dalla disciplina transitoria di cui all'art. 6 della legge 8 luglio 1986, n. 349, nonche' dalla disciplina di recepimento nell'ordinamento italiano della direttiva del Consiglio delle Comunita' europee del 27 giugno 1985, n. 337, e di ogni altra direttiva comunitaria concernente l'impatto ambientale, predisponendo i relativi atti e attivita' di competenza del Ministro;
+                                
+                            
+                            
+                                b)
+                                
+                                    alle competenze attribuite al Ministro dell'ambiente, a norma
+dell'art. 2, comma 5, della legge 8 luglio 1986, n. 349, per la concertazione dei piani e programmi di settore a carattere nazionale che abbiano rilevanza di impatto ambientale;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    alle competenze attribuite al Ministro dell'ambiente, a norma dell'art. 2, comma 6 della legge 8 luglio 1986, n. 349, per assicurare il coordinamento, ad ogni livello di pianificazione, delle funzioni di tutela dell'ambiente con gli interventi per la difesa del suolo;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    alle competenze attribuite al Ministro dell'ambiente, a norma dell'art. 2, comma 7, della legge 8 luglio 1986, n. 349, per la concertazione delle linee fondamentali dell'assetto del territorio nazionale e della difesa del suolo, di cui all'art. 81, comma 1, lettera a), del decreto del Presidente della Repubblica 24 luglio 1977, n. 616;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    alle competenze attribuite al Ministro dell'ambiente, a norma dell'art. 2, comma 19, della legge 8 luglio 1986, n. 349, per la concertazione del piano nazionale per la protezione civile;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    alle competenze attribuite al Ministero dell'ambiente, a norma dell'art. 2, comma 1, lettera d), della legge 8 luglio 1986, n. 349, in materia di cave e torbiere, di cui all'art. 62 del decreto del Presidente della Repubblica 24 luglio 1977, n. 616;
+
+                                
+                            
+                            
+                                g)
+                                
+                                    all'adempimento e alla promozione di quanto previsto dall'art. 14, comma 1, della legge 8 luglio 1986, n. 349, e all'adempimento di quanto previsto dal comma 3 dello stesso articolo in materia di informazioni sullo stato dell'ambiente;
+
+                                
+                            
+                            
+                                h)
+                                
+                                    alla ricezione di istanze, osservazioni e pareri in materia di tutela ambientale, nonche' alla verifica tecnica delle segnalazioni di cui all'art. 8, comma 3, della legge 8 luglio 1986, n. 349, avvalendosi, per le risposte e gli interventi conseguenti, della collaborazione degli altri servizi ed uffici;
+
+                                
+                            
+                            
+                                i)
+                                
+                                    alle iniziative da adottare anche d'intesa con altri Servizi od uffici interessati per l'attuazione di quanto previsto dall'art. 1, comma 3, della legge 8 luglio 1986, n. 349, in materia di educazione ambientale.
+
+                                
+                            
+                            
+                                l)
+                                
+                                    alle attivita' in collaborazione con il Servizio conservazione natura previste dal precedente art. 10, comma 2, lettera d).
 
 Il Servizio cura, per l'attivita' tutta del Ministero e d'intesa con gli altri Servizi ed uffici, la costituzione e la gestione della banca dati del Ministero, nonche' i relativi collegamenti con centri di elaborazione dati di altre amministrazioni od enti, ai fini della razionale utilizzazione dei dati disponibili presso il Ministero, dell'informazione ai cittadini e per la predisposizione della relazione sullo stato dell'ambiente.
 
@@ -149,6 +414,81 @@ All'ufficio e' preposto un impiegato di livello funzionale non inferiore al sett
 Il Servizio e' organo operativo e di consulenza nel settore delle scienze della terra.
 
 Il Servizio opera nell'ambito del Ministero dell'ambiente, con autonomia funzionale e scientifica. Di esso possono avvalersi direttamente le amministrazioni dello Stato con competenza sul territorio nonche', sulla base di una convenzione-tipo, le regioni. A sua volta il Servizio puo' avvalersi dell'attivita', della consulenza e di prestazioni di organismi tecnico-scientifici anche privati.
+
+3.
+                        
+                            
+                                Sono comprese tra le funzioni esercitate dal Servizio quelle relative:
+ 
+                            
+                            
+                                a)
+                                
+                                    agli studi e alle ricerche per la realizzazione e la pubblicazione della carta geologica d'Italia, delle carte tematiche e delle relative memorie illustrative;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    a studi e ricerche di carattere geofisico;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    allo studio paleontologico e litologico dei materiali raccolti;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    allo studio dei giacimenti minerari sotto l'aspetto geologico;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    alla raccolta dei minerali, delle rocce e dei reperti
+paleontologici, e al loro ordinamento in collezione;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    alla raccolta, all'ordinamento, alla schedatura e agli scambi di pubblicazioni tecniche e scientifiche, italiane e straniere, nel settore delle scienze della terra;
+
+                                
+                            
+                            
+                                g)
+                                
+                                    alla redazione e alla stampa del Bollettino del Servizio geologico e delle altre pubblicazioni ufficiali;
+
+                                
+                            
+                            
+                                h)
+                                
+                                    alla raccolta e alla gestione di dati geologici e geofisici, anche su base informatica, per la costituzione di una banca dati nazionale;
+
+                                
+                            
+                            
+                                i)
+                                
+                                    all'esercizio dei poteri ispettivi in relazione a scavi, pozzi, perforazioni, rilievi geofisici, ricerche idriche, opere di ingegneria civile;
+
+                                
+                            
+                            
+                                l)
+                                
+                                    a studi geologici, geofisici, geominerari e geoapplicativi in altri Stati, anche su richiesta dei Governi interessati.
 
 Al Servizio e' preposto un dirigente generale del ruolo tecnico, che fa parte di diritto del Consiglio superiore dei lavori pubblici, con funzioni di direttore. E' coadiuvato da due dirigenti superiori del ruolo tecnico, con funzioni di vicedirettori.
 
@@ -259,16 +599,411 @@ Ai fini del reclutamento, della formazione e della riqualificazione tecnica del 
 
 ## Art. 26. — Dotazioni organiche del Servizio prevenzione degli inquinamenti e risanamento ambientale
 
+1.
+                        
+                            
+                                Al Servizio prevenzione degli inquinamenti e risanamento ambientale sono attribuite, in pianta organica, le seguenti unita' di personale:
+ 
+                            
+                            
+                                a)
+                                
+                                    un dirigente generale del ruolo tecnico;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    un dirigente superiore del ruolo amministrativo;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    un dirigente superiore del ruolo tecnico;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    un primo dirigente del ruolo amministrativo;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    tre primi dirigenti del ruolo tecnico;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    due unita' della carriera direttiva amministrativa, 7° e 8° livello funzionale;
+
+                                
+                            
+                            
+                                g)
+                                
+                                    sedici unita' della carriera direttiva tecnica, 7° e 8° livello funzionale;
+
+                                
+                            
+                            
+                                h)
+                                
+                                    quarantuno unita' della carriera di concetto, 6° e 7° livello funzionale, di cui ventuno con la qualifica di ufficiale ecologico e venti con la qualifica di segretario;
+
+                                
+                            
+                            
+                                i)
+                                
+                                    trentadue unita' della carriera esecutiva, 4° e 5° livello funzionale, di cui cinque con la qualifica di coadiutore meccanografo, dodici con la qualifica di assistente ecologico e quindici con la qualifica di coadiutore-archivista dattilografo;
+
+                                
+                            
+                            
+                                l)
+                                
+                                    sei unita' della carriera ausiliaria, 2° e 3° livello funzionale, con la qualifica di commesso.
+
 ## Art. 27. — Dotazioni organiche del Servizio conservazione della natura
+
+1.
+                        
+                            
+                                Al Servizio conservazione della natura sono attribuite, in pianta organica, le seguenti unita' di personale:
+ 
+                            
+                            
+                                a)
+                                
+                                    un dirigente generale del ruolo tecnico;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    un dirigente superiore del ruolo tecnico;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    un primo dirigente del ruolo amministrativo;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    due primi dirigenti del ruolo tecnico;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    tre unita' della carriera direttiva amministrativa, 7° e 8° livello funzionale;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    sette unita' della carriera direttiva tecnica, 7° e 8° livello funzionale;
+
+                                
+                            
+                            
+                                g)
+                                
+                                    diciassette unita' della carriera di concetto, 6° e 7° livello funzionale, di cui sette con la qualifica di ufficiale ecologico e dieci con la qualifica di segretario;
+
+                                
+                            
+                            
+                                h)
+                                
+                                    dodici unita' della carriera esecutiva, 4° e 5° livello funzionale, di cui quattro con la qualifica di assistente ecologico e otto con la qualifica di coadiutore-archivista dattilografo;
+
+                                
+                            
+                            
+                                i)
+                                
+                                    due unita' della carriera ausiliaria, 2° e 3° livello funzionale, con la qualifica di commesso.
 
 ## Art. 28. — Dotazioni organiche del Servizio valutazione dell'impatto ambientale, informazione ai cittadini e per la relazione sullo stato dell'ambiente
 
+1.
+                        
+                            
+                                Al Servizio valutazione dell'impatto ambientale, informazione ai cittadini e per la relazione sullo stato dell'ambiente sono attribuite, in pianta organica, le seguenti unita' di personale:
+ 
+                            
+                            
+                                a)
+                                
+                                    un dirigente generale del ruolo tecnico;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    un dirigente superiore del ruolo amministrativo;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    un dirigente superiore del ruolo tecnico;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    un primo dirigente del ruolo amministrativo;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    due primi dirigenti del ruolo tecnico;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    tre unita' della carriera direttiva amministrativa, 7° e 8° livello funzionale;
+
+                                
+                            
+                            
+                                g)
+                                
+                                    quindici unita' della carriera direttiva tecnica, 7° e 8° livello funzionale;
+
+                                
+                            
+                            
+                                h)
+                                
+                                    trentacinque unita' della carriera di concetto, 6° e 7° livello funzionale, di cui venti con la qualifica di ufficiale ecologico e quindici con la qualifica di segretario;
+
+                                
+                            
+                            
+                                i)
+                                
+                                    ventisei unita' della carriera esecutiva, 4° e 5° livello funzionale, cui otto con la qualifica di coadiutore meccanografo, quattro con la qualifica di assistente ecologico e quattordici con la qualifica di coadiutore-archivista dattilografo;
+
+                                
+                            
+                            
+                                l)
+                                
+                                    cinque unita' della carriera ausiliaria, 2° e 3° livello funzionale, con la qualifica di commesso.
+
 ## Art. 29. — Dotazioni organiche del Servizio geologico
+
+1.
+                        
+                            
+                                Al servizio geologico sono attribuite, in pianta organica, le seguenti unita' di personale:
+ 
+                            
+                            
+                                a)
+                                
+                                    un dirigente generale del ruolo tecnico;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    due dirigenti superiori del ruolo tecnico;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    quattro primi dirigenti del ruolo tecnico;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    un ispettore generale e un geologo capo del ruolo ad esaurimento;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    ventinove unita' della carriera direttiva tecnica, 7° e 8° livello funzionale;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    ventisei unita' della carriera di concetto, 6° e 7° livello funzionale, di cui ventitre con la qualifica di perito e tre con la qualifica di segretario;
+
+                                
+                            
+                            
+                                g)
+                                
+                                    sette unita' della carriera esecutiva, 4° e 5° livello funzionale, con la qualifica di assistente;
+
+                                
+                            
+                            
+                                h)
+                                
+                                    cinque unita' della carriera ausiliaria, 2°, 3° e 4° livello funzionale, di cui tre con la qualifica di commesso e due con la qualifica di agente tecnico;
+
+                                
+                            
+                            
+                                i)
+                                
+                                    quattro unita' di personale operaio, 3°, 4° e 5° livello funzionale, con la qualifica di operaio.
 
 ## Art. 30. — Dotazioni organiche del Servizio di collaborazione al funzionamento
 degli ordini di alta consulenza del Ministero dell'ambiente e per l'organizzazione e il coordinamento dei loro uffici ausiliari
 
+1.
+                        
+                            
+                                Al servizio di collaborazione al funzionamento degli organi di alta consulenza del Ministero dell'ambiente e per l'organizzazione e il funzionamento dei loro uffici ausiliari sono assegnate, in pianta organica, le seguenti unita' di personale:
+ 
+                            
+                            
+                                a)
+                                
+                                    un dirigente generale del ruolo amministrativo;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    un dirigente superiore del ruolo amministrativo;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    un primo dirigente del ruolo amministrativo;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    due unita' della carriera direttiva amministrativa, 7° e 8° livello funzionale;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    due unita' della carriera direttiva tecnica 7° e 8° livello funzionale;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    quattro unita' della carriera di concetto, 6° e 7° livello funzionale, di cui due con la qualifica di ufficiale ecologico e due con la qualifica di segretario;
+
+                                
+                            
+                            
+                                g)
+                                
+                                    quattro unita' della carriera esecutiva, 4° e 5° livello funzionale, di cui due con la qualifica di coadiutore meccanografo e due con la qualifica di coadiutore-archivista dattilografo;
+
+                                
+                            
+                            
+                                h)
+                                
+                                    due unita' della carriera ausiliaria, 2° e 3° livello funzionale, con la qualifica di commesso.
+
 ## Art. 31. — Dotazioni organiche del Servizio affari generali e del personale
+
+1.
+                        
+                            
+                                Al Servizio affari generali e del personale sono attribuite, in pianta organica, le seguenti unita' di personale:
+ 
+                            
+                            
+                                a)
+                                
+                                    un dirigente generale del ruolo amministrativo;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    un dirigente superiore del ruolo amministrativo;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    quattro primi dirigenti del ruolo amministrativo;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    dieci unita' della carriera direttiva amministrativa, 7° e 8° livello funzionale;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    trentatre unita' della carriera di concetto, 6° e 7° livello funzionale, di cui ventitre con la qualifica di segretario e dieci con la qualifica di ragioniere;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    sessantadue unita' della carriera esecutiva, 4° e 5° livello funzionale, di cui cinque con la qualifica di coadiutore meccanografo, e cinquantasette con la qualifica di coadiutore-archivista dattilografo;
+
+                                
+                            
+                            
+                                g)
+                                
+                                    trentacinque unita' della carriera ausiliaria, 2° e 3° livello funzionale, di cui quindici con la qualifica di commesso e venti con la qualifica di agente tecnico.
 
 ## Art. 32. — Assegnazioni di personale disposte dal Ministro
 

@@ -8,8 +8,8 @@ codice_redazionale: 001G0411
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:41Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -34,6 +34,63 @@ Udito il parere espresso dalla sezione consultiva per gli atti normativi del Con
 ## - Capo I DISPOSIZIONI GENERALI
 
 ## Art. 1. — Definizioni
+
+1.
+                        
+                            
+                                Ai fini del presente regolamento il termine:
+ 
+                            
+                            
+                                a)
+                                
+                                    "camera di commercio" indica la camera di commercio, industria, artigianato e agricoltura;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    "diritto" indica il diritto annuale dovuto alle camere di commercio ai sensi dell'articolo 18, lettera b), della legge 29 dicembre 1993, n. 580, modificato dall'articolo 17 della legge 23 dicembre 1999, n. 488;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    "registro delle imprese" indica l'ufficio del registro delle imprese di cui all'articolo 2188 del codice civile, istituito dall'articolo 8 della legge n. 580/1993;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    "sezioni speciali del registro delle imprese" indica le sezioni previste dal comma 4, dell'articolo 8, della legge n. 580/1993;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    "unita' locale" indica l'impianto operativo o amministrativo-gestionale, ubicato in luogo diverso da quello della sede, nel quale l'impresa esercita stabilmente una o piu' attivita' economiche, dotato di autonomia e di tutti gli strumenti necessari allo svolgimento di una finalita' produttiva, o di una sua fase intermedia, cui sono imputabili costi e ricavi relativi alla produzione o alla distribuzione di beni oppure alla prestazione di servizi quali, ad esempio, laboratori, officine, stabilimenti, magazzini, depositi, studi professionali, uffici, negozi, filiali, agenzie, centri di formazione, miniere, alberghi, bar, ristoranti, ecc.;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    "fatturato" indica:
+ 1) per gli enti creditizi e finanziari tenuti alla redazione del conto economico, a norma dell'articolo 6 del decreto legislativo 27 gennaio 1992, n. 87, la somma degli interessi attivi e assimilati e delle commissioni attive, come dichiarati ai fini dell'imposta regionale sulle attivita' produttive;
+ 2) per i soggetti esercenti imprese di assicurazione tenuti alla redazione del conto economico, a norma dell'articolo 9 del decreto legislativo 26 maggio 1997, n. 173, la somma dei premi e degli altri proventi tecnici, come dichiarati ai fini dell'imposta regionale sulle attivita' produttive;
+ 3) per le societa' e gli enti che esercitano in via esclusiva o prevalente l'attivita' di assunzione di partecipazioni in enti diversi da quelli creditizi e finanziari, la somma dei ricavi delle vendite e delle prestazioni, degli altri ricavi e proventi ordinari e degli interessi attivi e proventi assimilati, come dichiarati ai fini dell'imposta regionale sulle attivita' produttive;
+ 4) per gli altri soggetti, la somma dei ricavi delle vendite e delle prestazioni e degli altri ricavi e proventi ordinari, come dichiarati ai fini dell'imposta regionale sulle attivita' produttive e, in mancanza, come rappresentati nelle scritture contabili previste dagli articoli 2214 e seguenti del codice civile;
+
+                                
+                            
+                            
+                                g)
+                                
+                                    "TUIR" indica il testo unico delle imposte sui redditi come riportato nel decreto del Presidente della Repubblica 22 dicembre 1986, n. 917, e successive modifiche.
 
 ## - Capo II PRESUPPOSTO DEL DIRITTO E SOGGETTI PASSIVI
 

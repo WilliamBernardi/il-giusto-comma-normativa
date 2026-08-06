@@ -9,7 +9,7 @@ vigente: true
 source: normattiva-opendata
 collection: Atti di recepimento direttive UE
 zip_date: 2026-07-30
-fetched_at: 2026-08-02T09:40:47Z
+fetched_at: 2026-07-30
 ---
 
 DECRETO LEGISLATIVO
@@ -41,7 +41,118 @@ Per l'ottenimento della partecipazione finanziaria di cui al comma 1, le regioni
 
 La partecipazione finanziaria dell'Unione europea, accordata ai fini della "lotta fitosanitaria" nel territorio, nei casi di apparizione reale o sospetta di un organismo nocivo dovuta all'introduzione o alla diffusione dello stesso nella Comunita', fino alla copertura non superiore al 50% delle spese relative alle misure necessarie adottate o previste per debellare tale organismo nocivo o, se cio' non e' possibile, per arginarne la diffusione, e' integrata dalle regioni e dalle province autonome di Trento e di Bolzano, cui tali spese competono, fino alla copertura complessiva delle stesse, a carico dei rispettivi bilanci.
 
+2.
+                    
+                        
+                            La richiesta della partecipazione finanziaria di cui al comma 1 puo' essere avanzata se l'organismo nocivo, elencato o meno negli allegati I e II del decreto del Ministro delle risorse agricole, alimentari e forestali del 31 gennaio 1996, e successive modificazioni:
+ 
+                        
+                        
+                            a)
+                            
+                                e' stato oggetto di notifica alla Commissione europea e agli altri Stati membri e;
+
+                            
+                        
+                        
+                            b)
+                            
+                                costituisce un pericolo imminente per la totalita' o parte del territorio della Comunita' in quanto apparso in una zona in cui non era stato fino allora presente oppure era stato debellato o e' in corso di eradicazione e;
+
+                            
+                        
+                        
+                            c)
+                            
+                                e' stato introdotto in detta zona tramite forniture di vegetali, prodotti vegetali o altre voci provenienti da un paese terzo o da un'altra zona dell'Unione europea.
+
+3.
+                    
+                        
+                            Le misure necessarie di cui al comma 1 sono:
+ 
+                        
+                        
+                            a)
+                            
+                                le operazioni di distruzione, disinfezione, disinfestazione, sterilizzazione, pulizia o qualsiasi altro trattamento effettuato ufficialmente o su richiesta dei servizi fitosanitari regionali per:
+ 1) vegetali, prodotti vegetali e altre voci costitutivi delle forniture tramite i quali e' stato introdotto l'organismo nocivo nella zona in questione, riconosciuti come contaminati o che possono esserlo;
+ 2) vegetali, prodotti vegetali e altre voci riconosciuti come contaminati, o che possono essere stati contaminati dall'organismo nocivo introdotto perche' derivanti dai vegetali delle forniture in questione o per essere stati in prossimita' di vegetali, prodotti vegetali o altre voci di tali forniture o di quelli da esse derivanti;
+ 3) substrati di coltivazione e terreni riconosciuti come contaminati o che possono essere stati contaminati dall'organismo nocivo in questione;
+ 4) materiali di produzione, condizionamento, imballaggio o immagazzinamento, locali di immagazzinamento o di condizionamento, nonche' mezzi di trasporto che sono stati in contatto con la totalita' o una parte di vegetali, prodotti vegetali ed altre voci di cui sopra;
+
+                            
+                        
+                        
+                            b)
+                            
+                                le ispezioni o le prove effettuate ufficialmente o su richiesta delle autorita' competenti al fine di controllare la presenza o la gravita' della contaminazione ad opera dell'organismo nocivo introdotto;
+
+                            
+                        
+                        
+                            c)
+                            
+                                il divieto o la limitazione dell'impiego di substrati di coltivazione, di aree coltivabili o di locali, nonche' di vegetali, prodotti vegetali o altre voci diversi dai materiali facenti parte delle forniture in questione o da quelli aventi la stessa origine, se tale divieto o limitazione risulta da decisioni ufficiali motivate da rischi fitosanitari connessi all'organismo nocivo introdotto.
+
+4.
+                    
+                        
+                            Si considerano spese derivanti direttamente dalle misure necessarie di cui al comma 3 i pagamenti effettuati a valere su stanziamenti pubblici al fine di:
+ 
+                        
+                        
+                            a)
+                            
+                                coprire totalmente o in parte i costi delle misure di cui al comma 3, lettere a) e b), fatta eccezione per quelli connessi con il normale funzionamento dell'organismo ufficiale responsabile in questione di cui ai titoli III e VIII del decreto del Ministro delle risorse agricole, alimentari e forestali del 31 gennaio 1996, e successive modificazioni, oppure
+
+                            
+                        
+                        
+                            b)
+                            
+                                compensare la totalita' o parte delle perdite finanziarie, diverse dal mancato profitto, direttamente derivanti da una o piu' delle misure di cui al comma 3, lettera c).
+
 Nei casi in cui, con regolamento della commissione europea, una compensazione per mancato profitto e' considerata, in deroga al comma 4, lettera b), spesa derivante direttamente dalle misure necessarie di cui al comma 3, puo' essere richiesta, alle condizioni previste dal comma 2, la concessione di una partecipazione finanziaria dell'Unione europea fino alla copertura non superiore al 25 % della spesa.
+
+6.
+                    
+                        
+                            Le regioni e le province autonome di Trento e di Bolzano che, per azioni ed interventi rientranti fra quelli contemplati dal presente articolo, adottati o previsti nel settore nell'ambito delle proprie attribuzioni, intendono usufruire della partecipazione finanziaria dell'Unione europea di cui ai commi 1 e 5, trasmettono tempestivamente al Ministero per le politiche agricole la relativa domanda diretta alla Commissione europea. La domanda deve essere corredata da una relazione dettagliata e documentata contenente le seguenti informazioni:
+ 
+                        
+                        
+                            a)
+                            
+                                il riferimento alla notifica dell'organismo nocivo alla Commissione europea e agli altri Stati membri;
+
+                            
+                        
+                        
+                            b)
+                            
+                                la natura e l'entita' della presenza di organismi nocivi di cui al comma 1, nonche' degli antefatti e delle modalita' della scoperta;
+
+                            
+                        
+                        
+                            c)
+                            
+                                l'identita' delle forniture di cui al comma 2, lettera c), attraverso le quali l'organismo nocivo e' stato introdotto, ovvero, qualora non si possa fornire l'informazione, l'origine presunta della presenza e i motivi per cui non e' stato possibile individuare le forniture;
+
+                            
+                        
+                        
+                            d)
+                            
+                                le misure necessarie che sono state adottate o sono previste, compreso lo scadenziario, per le quali si chiede di beneficiare della partecipazione finanziaria dell'Unione europea;
+
+                            
+                        
+                        
+                            e)
+                            
+                                i risultati ottenuti e il costo reale o stimato delle spese sostenute o da sostenere e la parte di tali spese che e' o sara' coperta da stanziamenti pubblici, concessi dalla regione o dalla provincia autonoma per la realizzazione delle misure necessarie stesse.
 
 Le domande di partecipazione finanziaria di cui al comma 6 sono trasmesse dal Ministero per le politiche agricole alla Commissione europea non oltre l'anno civile successivo a quello della scoperta dell'organismo nocivo. Le informazioni di cui alle lettere a) , b) , c) , d) ed e) del comma 6 sono immediatamente trasmesse dal Ministero per le politiche agricole anche agli Stati membri dell'Unione europea.
 
@@ -73,7 +184,57 @@ Le regioni e le province autonome di Trento e di Bolzano comunicano al Ministero
 ## Art. 6. — Sospensione o riduzione
  della partecipazione finanziaria
 
+1.
+                    
+                        
+                            La partecipazione finanziaria di cui agli articoli 3 e 4 puo' essere sospesa o ridotta se, sulla base delle informazioni ricevute o dei risultati di propri controlli o degli esami eseguiti in conformita' di procedure analoghe a quelle di cui all'articolo 24, paragrafo 1, del regolamento (CEE) n. 4253/88 del Consiglio, sia stato accertato, da parte della Commissione europea, che ricorre almeno una delle seguenti condizioni:
+ 
+                        
+                        
+                            a)
+                            
+                                che la mancata o incompleta esecuzione delle misure necessarie indicate agli articoli 3 e 4 o il mancato rispetto delle modalita' o dei termini stabiliti o richiesti per gli obiettivi perseguiti non sono giustificati;
+
+                            
+                        
+                        
+                            b)
+                            
+                                che le misure non sono piu' necessarie;
+
+                            
+                        
+                        
+                            c)
+                            
+                                che si e' verificata una irregolarita' o una modifica importante che riguarda la natura o le condizioni di attuazione dell'azione o della misura e per la quale non e' stata chiesta l'approvazione della Commissione europea.
+
 ## Art. 7. — Restituzione della partecipazione finanziaria
+
+1.
+                    
+                        
+                            Le somme relative alla partecipazione finanziaria dell'Unione europea di cui agli articoli 3 e 4 sono restituite totalmente o in parte, se, dalle informazioni fornite, risulta che sussiste almeno una delle seguenti condizioni:
+ 
+                        
+                        
+                            a)
+                            
+                                che le misure necessarie decise non sono state realizzate o non lo sono state in modo conforme alle modalita' o ai termini stabiliti o necessari per gli obiettivi perseguiti;
+
+                            
+                        
+                        
+                            b)
+                            
+                                che gli importi versati sono stati utilizzati a fini diversi da quelli per i quali la partecipazione finanziaria e' stata concessa;
+
+                            
+                        
+                        
+                            c)
+                            
+                                l'esistenza di una irregolarita' o di una modifica importante che riguarda la natura o le condizioni di attuazione dell'azione o della misura e per la quale non e' stata chiesta l'approvazione della Commissione europea.
 
 I diritti nei quali e' subentrata l'Unione europea ai sensi dell'articolo 5 sono oggetto di un ritrasferimento al titolare originario con effetto dalla restituzione di cui al comma 1, nella misura in cui detti diritti sono da questa coperti.
 

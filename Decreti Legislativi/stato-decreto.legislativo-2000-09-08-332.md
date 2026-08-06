@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
 vigenza_date: 2022-09-28
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:23Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -158,9 +158,52 @@ L'organismo notificato puo' richiedere, giustificando debitamente la richiesta, 
 
 ## Art. 10. — Registrazione dei fabbricanti e dei dispositivi
 
+1.
+                    
+                        
+                            Il fabbricante stabilito in Italia che immette in commercio dispositivi a nome proprio comunica al Ministero della sanita': 
+ 
+                        
+                        
+                            a)
+                            
+                                l'indirizzo della sede; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                le informazioni relative ai reagenti, ai prodotti reattivi e ai materiali per la taratura e il controllo, raggruppati in termini di caratteristiche tecnologiche comuni e di analiti, nonche' qualsiasi significativo cambiamento ad essi apportato, inclusa la sospensione dell'immissione in commercio; per gli altri dispositivi, le indicazioni appropriate; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                nel caso dei dispositivi di cui all'allegato II e dei dispositivi per test autodiagnostici, tutti i dati che consentano l'identificazione di detti dispositivi, i parametri analitici e, se del caso, diagnostici di cui all'allegato I, parte A, punto 3, i risultati della valutazione delle prestazioni conformemente all'allegato VIII, i certificati, nonche' qualsiasi cambiamento significativo degli stessi, inclusa la sospensione dell'immissione in commercio.
+
 Se i dispositivi di cui all'allegato II e i dispositivi per test autodiagnostici sono immessi in commercio o messi in servizio nel territorio italiano, il fabbricante comunica preventivamente al Ministero della sanita' i dati che ne consentono l'identificazione, unitamente all'etichetta e alle istruzioni per l'uso.
 
 Se non ha la sede in uno Stato membro, il fabbricante che immette in commercio a nome proprio i dispositivi deve designare un mandatario stabilito nel territorio dell'Unione europea. Il mandatario stabilito in Italia deve comunicare al Ministero della sanita' tutte le informazioni di cui al comma 1.
+
+4.
+                    
+                        
+                            Qualora le comunicazioni di cui al comma 1, riguardano un dispositivo recante la marcatura CE che e' un "prodotto nuovo", il fabbricante o il suo mandatario deve indicarlo nella comunicazione stessa. Ai fini del presente articolo un dispositivo e' considerato "nuovo" se: 
+ 
+                        
+                        
+                            a)
+                            
+                                per l'analita in questione o per un altro parametro, durante i tre anni precedenti tale dispositivo non e' stato disponibile in modo continuativo nel mercato comunitario; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                la procedura di analisi prevede il ricorso ad una tecnologia analitica che non e' stata utilizzata in modo continuativo nel mercato comunitario durante i tre anni precedenti in relazione ad un determinato analita o altro parametro.
 
 Il Ministero della sanita' provvede a registrare le comunicazioni di cui ai commi 1 e 3, ai fini dell'inserimento nella banca dati europea di cui all'articolo 12.
 
@@ -176,6 +219,24 @@ Le modalita' di applicazione del presente articolo sono adottate dal Ministero d
  Ha inoltre disposto (con l'art. 30, comma 7) che "Le disposizioni del decreto legislativo, n. 332 del 2000, relative ai dispositivi di cui all'articolo 110, paragrafi 3 e 4 del regolamento, restano in vigore fino alle date in esso indicate, nella misura necessaria dell'applicazione di tali paragrafi".
 
 ## Art. 11. — Procedura di vigilanza
+
+1.
+                    
+                        
+                            Il fabbricante o il mandatario comunicano al Ministero della sanita', ai fini della registrazione e della valutazione, gli incidenti di seguito menzionati che abbiano coinvolto dispositivi muniti di marcatura CE: 
+ 
+                        
+                        
+                            a)
+                            
+                                qualsiasi disfunzione, guasto o alterazione delle caratteristiche o delle prestazioni di un dispositivo, nonche' ogni eventuale lacuna nell'etichetta o nelle istruzioni per l'uso che, direttamente o indirettamente, possa causare o avere causato il decesso o un peggioramento grave dello stato di salute di un paziente, di un utilizzatore o di altre persone; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                qualsiasi causa di ordine tecnico o sanitario connesso alle caratteristiche o alle prestazioni di un dispositivo, che abbia determinato, per i motivi di cui alla lettera a), il ritiro dal mercato, da parte del fabbricante, dei dispositivi dello stesso tipo.
 
 I legali rappresentanti delle strutture sanitarie pubbliche e private e gli operatori sanitari pubblici e privati o gli organizzatori di programmi di valutazione esterna della qualita' comunicano al Ministero della sanita' gli incidenti di cui al comma 1. Il Ministero della sanita' informa dell'incidente il fabbricante dei dispositivi coinvolti o il suo mandatario.
 
@@ -196,7 +257,33 @@ Le modalita' di applicazione del presente articolo sono adottate dal Ministero d
 
 ## Art. 12. — Banca dati europea
 
-((3))
+1.
+                    
+                        
+                            Il Ministero della sanita', in vista dell'istituzione di una banca dati europea, acquisisce le seguenti informazioni ai fini della loro trasmissione a detta banca dati: 
+ 
+                        
+                        
+                            a)
+                            
+                                i dati relativi alla registrazione dei fabbricanti e dei dispositivi in base all'articolo 10; ((4))
+                                
+                            
+                        
+                        
+                            b)
+                            
+                                i dati relativi ai certificati rilasciati, modificati, integrati, sospesi, ritirati o rifiutati secondo le procedure di cui agli allegati III, IV, V, VI e VII; ((4))
+                                
+                            
+                        
+                        
+                            c)
+                            
+                                i dati ottenuti in base alla procedura di vigilanza definita all'articolo 11. ((4))
+
+((COMMA ABROGATO DAL D.LGS. 5 AGOSTO 2022, N. 138)). 
+ ((3))
 
 ----------------
                         AGGIORNAMENTO (4)

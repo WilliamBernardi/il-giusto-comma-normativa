@@ -8,8 +8,8 @@ codice_redazionale: 002G0305
 vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:21Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -23,6 +23,22 @@ Sulla proposta dei Ministri per le politiche comunitarie e della salute, di conc
 
 ## Art. 1.
 
+1.
+                    
+                        
+                            All'articolo 2 del decreto legislativo 24 febbraio 1997, n. 46, e successive modificazioni, sono apportate le seguenti modifiche:
+ 
+                        
+                        
+                            a)
+                            
+                                dopo il comma 2 e' inserito il seguente:
+ "2-bis. I dispositivi comprendenti come parte integrante una sostanza, la quale, qualora utilizzata separatamente, puo' essere considerata un costituente di un medicinale o un medicinale derivato dal sangue o dal plasma umano ai sensi dell'articolo 22 del decreto legislativo 29 maggio 1991, n. 178, e successive modificazioni, e puo' avere un effetto sul corpo umano con un'azione accessoria a quella del dispositivo, in seguito denominata "derivato del sangue umano , devono essere valutati e autorizzati in conformita' al presente decreto.";
+ b) al comma 3 la lettera c) e' sostituita dalla seguente:
+ "c) ai medicinali, ivi compresi quelli derivati dal sangue umano, soggetti al decreto legislativo 29 maggio 1991, n. 178, e successive modificazioni;";
+ c) al comma 3 la lettera e) e' sostituita dalla seguente:
+ "e) al sangue umano, ai prodotti derivati dal sangue umano, al plasma umano o alle cellule ematiche di origine umana, o ai dispositivi che, al momento dell'immissione in commercio, contengono simili prodotti derivati dal sangue, dal plasma o dalle cellule ematiche, ad eccezione dei dispositivi di cui al comma 2-bis;".
+
 ## Art. 2.
 
 All'articolo 11 del decreto legislativo 24 febbraio 1997, n. 46, e successive modificazioni, dopo il comma 12 e' inserito il seguente:
@@ -35,6 +51,39 @@ All'articolo 21 del decreto legislativo 24 febbraio 1997, n. 46, e successive mo
 
 ## Art. 4.
 
+1.
+                    
+                        
+                            All'articolo 23 del decreto legislativo 24 febbraio 1997, n. 46, e successive modificazioni, sono apportate le seguenti modifiche:
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 1 le parole: "da lire un milione a lire dieci milioni" sono sostituite dalle seguenti: "da euro cinquecentosedici/46 a euro cinquemilacentosessantaquattro/57";
+
+                            
+                        
+                        
+                            b)
+                            
+                                il comma 2 e' sostituito con il seguente:
+ "2. Colui il quale effettua pubblicita' di dispositivi medici in violazione delle disposizioni di cui all'articolo 21, commi 1, 2 e 2-bis e' soggetto alle sanzioni amministrative pecuniarie previste dall'articolo 201 del testo unico delle leggi sanitarie, approvato con regio decreto 27 luglio 1934, n. 1265, e successive modificazioni.";
+
+                            
+                        
+                        
+                            c)
+                            
+                                al comma 3 le parole: "da lire trenta milioni a lire centottanta milioni" sono sostituite dalle seguenti: "da euro quindicimilaquattrocentonovantatre/71 a euro novantaduemilanovecentosessantadue/24";
+
+                            
+                        
+                        
+                            d)
+                            
+                                al comma 4 le parole: "da lire cinque milioni a lire trenta milioni" sono sostituite dalle seguenti: "da euro duemilacinquecentottantadue/28 a euro quindicimilaquattrocentonovantatre/71".
+
 Nell'articolo 201, quinto comma, del testo unico delle leggi sanitarie, approvato con regio decreto 27 luglio 1934, n. 1265, e successive modificazioni, le parole: "da lire cinque milioni a trenta milioni" sono sostituite dalle seguenti: "da euro 2.582,28 ad euro 15.493,71".
 
 ## Art. 5.
@@ -44,9 +93,81 @@ All'articolo 24 del decreto legislativo 24 febbraio 1997, n. 46, e successive mo
 
 ## Art. 6.
 
+1.
+                    
+                        
+                            All'allegato I del decreto legislativo 24 febbraio 1997, n. 46, e successive modificazioni, sono apportate le seguenti modifiche:
+ 
+                        
+                        
+                            a)
+                            
+                                al punto 7.4, sono aggiunti i seguenti periodi:
+ "Se un dispositivo incorpora, come parte integrante, un derivato del sangue umano di cui all'articolo 2, comma 2-bis, l'organismo notificato deve chiedere all'Agenzia europea per la valutazione dei medicinali (EMEA) un parere scientifico sulla qualita' e sulla sicurezza di tale derivato e deve tener conto delle disposizioni comunitarie in materia, nonche' delle disposizioni di recepimento della direttiva 2001/83/CE previste per casi analoghi; l'utilita' di tale derivato, in quanto parte integrante del dispositivo medico, deve essere verificata alla luce della destinazione del dispositivo.
+ Ai sensi dell'articolo 22, comma 5, del decreto legislativo 29 maggio 1991, n. 178, un campione di ogni lotto del prodotto allo stato sfuso o del prodotto finito del derivato del sangue umano e' sottoposto al controllo dell'Istituto superiore di sanita'.".
+
+                            
+                        
+                        
+                            b)
+                            
+                                al punto 13.3, e' aggiunta la seguente lettera:
+ "n) nel caso di un dispositivo di cui all'articolo 2, comma 2-bis, una menzione indicante che il dispositivo incorpora, come parte integrante, un derivato del sangue umano.".
+
 ## Art. 7.
 
+1.
+                    
+                        
+                            All'allegato II del decreto legislativo 24 febbraio 1997, n. 46, e successive modificazioni, sono apportate le seguenti modifiche:
+ 
+                        
+                        
+                            a)
+                            
+                                al punto 3.2, lettera c), il quinto trattino, primo periodo, e' sostituito dal seguente:
+ " - una dichiarazione che indichi se il dispositivo incorpora o meno, come parte integrante, un derivato del sangue umano o una sostanza che puo' essere considerata una specialita' medicinale di cui all'allegato I, punto 7.4, nonche' i dati relativi alle prove svolte in proposito necessarie a valutare la sicurezza, la qualita' e l'utilita' di tale derivato del sangue umano o di tale sostanza, tenendo conto della destinazione del dispositivo;";
+
+                            
+                        
+                        
+                            b)
+                            
+                                al punto 4.3, il secondo e il terzo periodo sono sostituiti dai seguenti:
+ "Nel caso di dispositivi di cui al primo periodo del punto 7.4 dell'allegato I, prima di prendere una decisione l'organismo notificato consulta il Ministero della salute - Direzione generale della valutazione dei medicinali e della farmacovigilanza, ai sensi del decreto legislativo 29 maggio 1991, n. 178, e successive modificazioni, per quanto riguarda gli aspetti contemplati in tale punto. Quando adotta la decisione, l'organismo notificato tiene in debito conto i pareri espressi nel corso di tale consultazione e trasmette la decisione finale al Ministero della salute - Ufficio dispositivi medici.
+ Nel caso di dispositivi di cui al secondo periodo del punto 7.4 dell'allegato I, il parere scientifico dell'EMEA deve essere inserito nella documentazione concernente il dispositivo. Quando adotta la decisione, l'organismo notificato tiene in debito conto il parere espresso dall'EMEA. L'organismo notificato non puo' rilasciare il certificato se il parere scientifico dell'EMEA e' sfavorevole. Esso provvede a informare l'EMEA della sua decisione finale.";
+
+                            
+                        
+                        
+                            c)
+                            
+                                dopo il punto 7 sono aggiunti i seguenti:
+ "8. Applicazione ai dispositivi di cui all'articolo 2, comma 2-bis.
+ 8.1. Al termine della fabbricazione di ogni lotto di dispositivi di cui all'articolo 2, comma 2-bis, il fabbricante informa l'organismo notificato del rilascio di tale lotto di dispositivi e gli trasmette il certificato ufficiale di rilascio del lotto del derivato del sangue umano utilizzato in questo dispositivo emesso dall'Istituto superiore di sanita'.".
+
 ## Art. 8.
+
+1.
+                    
+                        
+                            All'allegato III del decreto legislativo 24 febbraio 1997, n. 46, e successive modificazioni, sono apportate le seguenti modifiche:
+ 
+                        
+                        
+                            a)
+                            
+                                al punto 3 il sesto trattino e' sostituito dal seguente:
+ " - una dichiarazione che indichi se il dispositivo incorpora o meno, come parte integrante, un derivato del sangue umano o una sostanza che puo' essere considerata una specialita' medicinale di cui al punto 7.4 dell'allegato I, nonche' i dati relativi alle prove svolte in proposito necessarie a valutare la sicurezza, la qualita' e l'utilita' di tale derivato del sangue umano o di tale sostanza, tenendo conto della destinazione del dispositivo;";
+
+                            
+                        
+                        
+                            b)
+                            
+                                al punto 5 il secondo e il terzo periodo sono sostituiti dai seguenti:
+ "Nel caso di dispositivi di cui al primo periodo del punto 7.4 dell'allegato I, prima di prendere una decisione, l'organismo notificato consulta il Ministero della salute - Direzione generale della valutazione dei medicinali e della farmacovigilanza, per quanto riguarda gli aspetti contemplati in tale punto. Quando adotta la decisione, l'organismo notificato tiene in debito conto i pareri espressi nel corso di tale consultazione. Esso provvede a informare il Ministero della salute - Ufficio dispositivi medici, della sua decisione finale.
+ Nel caso di dispositivi di cui al secondo periodo del punto 7.4 dell'allegato I, il parere scientifico dell'EMEA deve essere inserito nella documentazione concernente il dispositivo. Quando adotta la decisione, l'organismo notificato tiene in debito conto il parere espresso dall'EMEA. L'organismo notificato non puo' rilasciare il certificato se il parere scientifico dell'EMEA e' sfavorevole. Esso provvede ad informare l'EMEA della sua decisione finale.".
 
 ## Art. 9.
 

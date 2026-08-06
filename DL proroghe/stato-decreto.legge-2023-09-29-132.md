@@ -8,8 +8,8 @@ vigente: true
 source: normattiva-opendata
 collection: DL proroghe
 vigenza_date: 2026-03-01
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:39:27Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO-LEGGE
@@ -40,6 +40,31 @@ I contratti di locazione o di assegnazione in godimento aventi ad oggetto unita'
 
 Ferma la facolta' di riscatto eventualmente prevista nei contratti di cui al comma 1, fino al ((31 dicembre 2026)) il proprietario che intende trasferire a titolo oneroso le unita' immobiliari di cui al medesimo comma 1 deve notificare la proposta di alienazione all'assegnatario, al quale e' attribuito il diritto di prelazione. Si applicano gli articoli 38 e 39 della legge 27 luglio 1978, n. 392, in quanto compatibili.
 
+3.
+                    
+                        
+                            Per i contratti di cui al comma 1 scaduti alla data di entrata in vigore della legge di conversione del presente decreto la prelazione di cui al comma 2 puo' essere esercitata alle seguenti condizioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                l'immobile e' occupato dall'assegnatario o, in caso di decesso, dal suo nucleo familiare al momento della notificazione della volonta' di alienarlo; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                il proprietario dell'immobile non ne ha disposto con contratto preliminare o contratto definitivo di compravendita ovvero con altro contratto costitutivo o traslativo di usufrutto, uso o abitazione, trascritto anteriormente alla data di entrata in vigore della legge di conversione del presente decreto; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                il soggetto che esercita la prelazione ha adempiuto regolarmente al pagamento dell'indennita' di occupazione.
+
 Al fine di consentire l'esercizio del diritto di prelazione, i contratti di cui al comma 3 si intendono rinnovati sino al ((31 dicembre 2026)), ai medesimi termini e condizioni, salvo che non sia intervenuto provvedimento passato in giudicato di rilascio dell'immobile.
 
 Le disposizioni di cui al presente articolo non pregiudicano le facolta' di riscatto eventualmente previste a favore degli assegnatari degli immobili di cui al comma 1.
@@ -69,6 +94,24 @@ All'articolo 1, comma 7, del decreto-legge 1° giugno 2023, n. 61, convertito, c
 
 
 ## Art. 4. — ((Proroga di termini per l'assegnazione agevolata di beni ai soci e per il versamento della relativa imposta sostitutiva))
+
+1.
+                    
+                        
+                            All'articolo 1 della legge 29 dicembre 2022, n. 197 sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 100, le parole: «30 settembre 2023», ((ovunque ricorrono)), sono sostituite dalle seguenti: «30 novembre 2023»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 105, il primo periodo e' sostituito dal seguente: «Le societa' che si avvalgono delle disposizioni di cui ai commi da 100 a 104 devono versare l'imposta sostitutiva entro il 30 novembre 2023, con i criteri di cui al decreto legislativo 9 luglio 1997, n. 241.».
 
 ## Art. 5. — ((Differimento del termine per la comunicazione della variazione del codice IBAN tramite il portale del Fondo indennizzi risparmiatori))
 
@@ -152,6 +195,31 @@ Misure urgenti in materia di ((anticipo dei termini per l'utilizzo del)) contrib
 
 ((
 
+1.
+                    
+                        
+                            I gestori degli impianti di generazione di energia elettrica alimentati a carbone con potenza termica nominale superiore a 300 MW che hanno usufruito delle deroghe di cui all'articolo 5-bis, comma 3, del decreto-legge 25 febbraio 2022, n. 14, convertito, con modificazioni, dalla legge 5 aprile 2022, n. 28, e che, in considerazione del divieto di importazione del carbone russo stabilito dall'articolo 3 duodecies del regolamento (UE) n. 833/2014 del Consiglio, del 31 luglio 2014, non riescono a reperire sul mercato carbone di qualita' tale da garantire l'osservanza dei valori limite delle emissioni, possono usufruire di ulteriori deroghe ai sensi del medesimo articolo 5-bis, commi 3 e 3-bis, a condizione che: 
+ 
+                        
+                        
+                            a)
+                            
+                                i medesimi impianti siano inseriti dalla societa' Terna S.p.A. nell'elenco degli impianti essenziali per la sicurezza del sistema elettrico ai sensi dell'articolo 3, comma 11, lettera a), del decreto-legge 29 novembre 2008, n. 185, convertito, con modificazioni, dalla legge 28 gennaio 2009, n. 2; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                la Terna S.p.A. dichiari che un'eventuale indisponibilita' non programmata dei medesimi impianti comporterebbe il rischio elevato del mancato rispetto degli standard di sicurezza dell'esercizio del sistema elettrico; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                la deroga sia limitata a quanto necessario per consentire il rispetto degli standard di sicurezza dell'esercizio del sistema elettrico.
+
 ## Art. 7-quater. — (( (Disposizioni in materia di continuita' territoriale). ))
 
 ((
@@ -218,11 +286,48 @@ All'articolo 58, comma 5-septies, secondo periodo, del decreto-legge 21 giugno 2
 
 ((
 
+1.
+                    
+                        
+                            All'articolo 7-bis del decreto-legge 21 ottobre 2021, n. 146, convertito, con modificazioni, dalla legge 17 dicembre 2021, n. 215, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 2, le parole: "31 dicembre 2023" sono sostituite dalle seguenti: "30 marzo 2025"; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                dopo il comma 2 e' aggiunto il seguente: 
+ "2-bis. Presso il Ministero delle infrastrutture e dei trasporti e' istituito un tavolo tecnico, con la partecipazione delle amministrazioni interessate, degli enti proprietari delle strade e delle associazioni di categoria, per la definizione del Piano nazionale per i trasporti in condizioni di eccezionalita'. Il predetto Piano, da adottare entro il 30 ottobre 2024 con decreto del Ministro delle infrastrutture e dei trasporti, di concerto con il Ministro dell'interno, previa intesa in sede di Conferenza unificata di cui all'articolo 8 del decreto legislativo 28 agosto 1997, n. 281, individua i corridoi dedicati ai trasporti in condizioni di eccezionalita' che garantiscono il collegamento tra le aree industrializzate del Paese e i principali poli logistici e industriali, le modalita' di monitoraggio dei manufatti e le azioni necessarie per risolvere le criticita' anche di natura infrastrutturale, nel limite delle risorse allo scopo finalizzate a legislazione vigente ovvero con oneri a carico degli utilizzatori dei predetti corridoi. Entro novanta giorni dall'adozione del Piano, il tavolo istituito ai sensi del primo periodo propone i criteri e le modalita' per ridefinire i contenuti e l'operativita' delle linee guida di cui all'articolo 10, comma 10-bis, del codice della strada, di cui al decreto legislativo 30 aprile 1992, n. 285, ai fini della relativa adozione entro il termine di cui al comma 2 del presente articolo. Ai partecipanti al tavolo tecnico non spettano compensi, gettoni di presenza, rimborsi di spese o altri emolumenti comunque denominati".
+
 ))
 
 ## Art. 10-ter. — (( (Proroga dei termini per l'accesso all'indennizzo in favore delle vittime di reati intenzionali violenti). ))
 
 ((
+
+1.
+                    
+                        
+                            All'articolo 1, comma 594, della legge 30 dicembre 2018, n. 145, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                le parole: "31 dicembre 2021" sono sostituite dalle seguenti: "31 dicembre 2025"; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                le parole: "31 ottobre 2021" sono sostituite dalle seguenti: "31 ottobre 2025".
 
 ))
 
@@ -283,6 +388,31 @@ Al fine di garantire la piena attuazione della riorganizzazione prevista dal reg
 
 ((
 
+1.
+                    
+                        
+                            All'articolo 10 del decreto legislativo 19 febbraio 2014, n. 14, relativo al temporaneo ripristino di sezioni distaccate insulari, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 1, le parole: "31 dicembre 2023" sono sostituite dalle seguenti: "31 dicembre 2024"; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 2, le parole: "31 dicembre 2023" sono sostituite dalle seguenti: "31 dicembre 2024"; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                al comma 3, le parole: "31 dicembre 2023" sono sostituite dalle seguenti: "31 dicembre 2024".
+
 Il termine di cui all'articolo 10, comma 13, del decreto legislativo 19 febbraio 2014, n. 14, limitatamente alle sezioni distaccate di Ischia, Lipari e Portoferraio, e' prorogato al 1° gennaio 2025.
 
 3. Per l'attuazione delle disposizioni di cui al presente articolo e' autorizzata la spesa di euro 159.000 per l'anno 2024, cui si provvede mediante corrispondente riduzione delle proiezioni dello stanziamento del fondo speciale di parte corrente iscritto, ai fini del bilancio triennale 2023-2025, nell'ambito del programma "Fondi di riserva e speciali" della missione "Fondi da ripartire" dello stato di previsione del Ministero dell'economia e delle finanze per l'anno 2023, allo scopo parzialmente utilizzando l'accantonamento relativo al Ministero della giustizia))
@@ -311,6 +441,24 @@ I termini di cui ai commi 7 e 13 dell'articolo 10-bis del decreto-legge 13 giugn
 
 ((
 
+1.
+                    
+                        
+                            Al codice dei contratti pubblici, di cui al decreto legislativo 31 marzo 2023, n. 36, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                all'articolo 16, comma 1, le parole: "concreta ed effettiva" sono soppresse; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                all'articolo 73, comma 4, le parole: "dieci giorni" sono sostituite dalle seguenti: "trenta giorni".
+
 ))
 
 ## Art. 15-quinquies. — (( (Proroga del termine per l'operativita' del Tecnopolo Mediterraneo per lo Sviluppo Sostenibile). ))
@@ -326,6 +474,24 @@ Agli oneri derivanti dall'attuazione del presente articolo, pari a 500.000 euro 
 ## Art. 15-sexies. — (( (Differimento di termini per la realizzazione del nuovo complesso ospedaliero della citta' di Siracusa). ))
 
 ((
+
+1.
+                    
+                        
+                            All'articolo 42-bis del decreto-legge 8 aprile 2020, n. 23, convertito, con modificazioni, dalla legge 5 giugno 2020, n. 40, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 1, le parole: "entro tre anni dalla data di entrata in vigore della legge di conversione del presente decreto" sono sostituite dalle seguenti: "entro il 31 dicembre 2024"; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 2, le parole: "e' di un anno, prorogabile per due anni" sono sostituite dalle seguenti: "e' fissata fino al 31 dicembre 2024".
 
 2. Agli oneri derivanti dal presente articolo, pari a 16.000 euro per l'anno 2023 e 100.000 euro per l'anno 2024, si provvede mediante corrispondente riduzione del Fondo di cui all'articolo 1, comma 200, della legge 23 dicembre 2014, n. 190))
 

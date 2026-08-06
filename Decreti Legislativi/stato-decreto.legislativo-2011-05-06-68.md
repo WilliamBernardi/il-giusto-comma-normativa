@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
 vigenza_date: 2026-01-01
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:32Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -64,6 +64,31 @@ Non puo' essere disposta la riduzione dell'IRAP se la maggiorazione di cui all'a
 Restano fermi gli automatismi fiscali previsti dalla vigente legislazione nel settore sanitario nei casi di squilibrio economico, nonche' le disposizioni in materia di applicazione di incrementi delle aliquote fiscali per le regioni sottoposte ai Piani di rientro dai deficit sanitari.
 
 ## Art. 6. — Addizionale regionale all'IRPEF
+
+1.
+                        
+                            
+                                A decorrere dall'anno 2012 ciascuna regione a Statuto ordinario puo', con propria legge, aumentare o diminuire l'aliquota dell'addizionale regionale all'IRPEF di base. La predetta aliquota di base e' pari a 1,23 per cento sino alla rideterminazione effettuata ai sensi dell'articolo 2, comma 1, primo periodo. La maggiorazione non puo' essere superiore: 
+ 
+                            
+                            
+                                a)
+                                
+                                    a 0,5 punti percentuali per gli anni 2012 e 2013; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    a 1,1 punti percentuali per l'anno 2014; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    a 2,1 punti percentuali a decorrere dall'anno 2015. (2)
 
 Fino al 31 dicembre 2011, rimangono ferme le aliquote della addizionale regionale all'IRPEF delle regioni che, alla data di entrata in vigore del presente decreto, sono superiori alla aliquota di base, salva la facolta' delle medesime regioni di deliberare la loro riduzione fino alla medesima aliquota di base.
 
@@ -173,19 +198,161 @@ Trasmette altresi' tali risultati alla Conferenza di cui all'articolo 5 della ci
 
 ## Art. 14. — Classificazione delle spese regionali
 
+1.
+                        
+                            
+                                Le spese di cui all'articolo 8, comma 1, lettera a), numero 1), della citata legge n. 42 del 2009 sono quelle relative ai livelli essenziali delle prestazioni nelle seguenti materie: 
+ 
+                            
+                            
+                                a)
+                                
+                                    sanita'; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    assistenza; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    istruzione; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    trasporto pubblico locale, con riferimento alla spesa in conto capitale; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    ulteriori materie individuate in base all'articolo 20, comma 2, della medesima legge n. 42 del 2009.
+
 Le spese di cui all'articolo 8, comma 1, lettera a), numero 2), della citata legge n. 42 del 2009 sono individuate nelle spese diverse da quelle indicate nel comma 1 del presente articolo e nell'articolo 8, comma 1, lettera a), numero 3), della medesima legge n. 42 del 2009.
 
 ## Art. 15. — Fase a regime e fondo perequativo
 
+1.
+                        
+                            
+                                A decorrere dal ((2027 o da un anno antecedente ove ricorrano le condizioni di cui al presente decreto legislativo)), in conseguenza dell'avvio del percorso di graduale convergenza verso i costi standard, le fonti di finanziamento delle spese delle regioni di cui all'articolo 14, comma 1, sono le seguenti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la compartecipazione all'IVA di cui all'articolo 4; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    quote dell'addizionale regionale all'IRPEF, come rideterminata secondo le modalita' dell'articolo 2, comma 1; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    l'IRAP, fino alla data della sua sostituzione con altri tributi; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    quote del fondo perequativo di cui al comma 5; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    le entrate proprie, nella misura convenzionalmente stabilita nel riparto delle disponibilita' finanziarie per il servizio sanitario nazionale per l'anno 2010.
+
 Ai fini del comma 1, il gettito dell'IRAP e' valutato in base all'aliquota ordinariamente applicabile in assenza di variazioni disposte dalla regione ovvero delle variazioni indicate dall'articolo 5, comma 4. Ai fini del comma 1, il gettito derivante dall'applicazione dell'aliquota dell'addizionale regionale all'IRPEF di cui all'articolo 6 e' valutato in base all'aliquota calcolata ai sensi dell'articolo 2, comma 1, primo periodo. Il gettito e', inoltre, valutato su base imponibile uniforme, con le modalita' stabilite con decreto del Presidente del Consiglio dei Ministri, su proposta del Ministro dell'economia e delle finanze, di concerto con il ((Ministro per gli affari regionali e le autonomie)), sentita la Conferenza Stato-Regioni.
 
 La percentuale di compartecipazione all'IVA e' stabilita con decreto del Presidente del Consiglio dei Ministri, su proposta del Ministro dell'economia e delle finanze, sentita la Conferenza Stato-Regioni, al livello minimo assoluto sufficiente ad assicurare il pieno finanziamento del fabbisogno corrispondente ai livelli essenziali delle prestazioni in una sola regione. Per il finanziamento integrale dei livelli essenziali delle prestazioni nelle regioni ove il gettito tributario e' insufficiente, concorrono le quote del fondo perequativo di cui al comma 5.
+
+4.
+                        
+                            
+                                Le fonti di finanziamento delle spese di cui all'articolo 14, comma 2, sono le seguenti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    i tributi propri derivati di cui all'articolo 8, comma 3; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    i tributi propri di cui all'articolo 7, comma 1, lettera b), n. 3), della citata legge n. 42 del 2009; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    quote dell'addizionale regionale all'IRPEF, come rideterminata secondo le modalita' dell'articolo 2, comma 1; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    quote del fondo perequativo di cui al comma 7.
 
 E' istituito, dall'anno ((2027 o da un anno antecedente ove ricorrano le condizioni di cui al presente decreto legislativo)), un fondo perequativo alimentato dal gettito prodotto da una compartecipazione al gettito dell'IVA determinata in modo tale da garantire in ogni regione il finanziamento integrale delle spese di cui all'articolo 14, comma 1. Nel primo anno di funzionamento del fondo perequativo, le suddette spese sono computate in base ai valori di spesa storica e dei costi standard, ove stabiliti; nei successivi quattro anni devono gradualmente convergere verso i costi standard.
 Le modalita' della convergenza sono stabilite con decreto del Presidente del Consiglio dei Ministri, su proposta del ((Ministro per gli affari regionali e le autonomie)), di concerto con il Ministro dell'economia e delle finanze, d'intesa con la Conferenza Stato-Regioni e previo parere delle Commissioni della Camera dei Deputati e del Senato della Repubblica competenti per i profili di carattere finanziario. Allo schema di decreto del Presidente del Consiglio dei Ministri e' allegata una relazione tecnica concernente le conseguenze di carattere finanziario. Ai fini del presente comma, per il settore sanitario, la spesa coincide con il fabbisogno sanitario standard, come definito ai sensi dell'articolo 26.
 
 La differenza tra il fabbisogno finanziario necessario alla copertura delle spese di cui all'articolo 14, comma 1, e il gettito regionale dei tributi ad esse dedicati, e' determinato con l'esclusione delle variazioni di gettito prodotte dall'esercizio dell'autonomia tributaria, nonche' del gettito di cui all'articolo 9.
 E' inoltre garantita la copertura del differenziale certificato positivo tra i dati previsionali e l'effettivo gettito dei tributi, escluso il gettito di cui all'articolo 9, alla regione di cui al comma 3, primo periodo. Nel caso in cui l'effettivo gettito dei tributi sia superiore ai dati previsionali, il differenziale certificato e' acquisito al bilancio dello Stato.
+
+7.
+                        
+                            
+                                Per il finanziamento delle spese di cui all'articolo 14, comma 2, le quote del fondo perequativo sono assegnate alle regioni sulla base dei seguenti criteri: 
+ 
+                            
+                            
+                                a)
+                                
+                                    le regioni con maggiore capacita' fiscale, ovvero quelle nelle quali il gettito per abitante dell'addizionale regionale all'IRPEF supera il gettito medio nazionale per abitante, alimentano il fondo perequativo, in relazione all'obiettivo di ridurre le differenze interregionali di gettito per abitante rispetto al gettito medio nazionale per abitante; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le regioni con minore capacita' fiscale, ovvero quelle nelle quali il gettito per abitante dell'addizionale regionale all'IRPEF e' inferiore al gettito medio nazionale per abitante, partecipano alla ripartizione del fondo perequativo, alimentato dalle regioni di cui alla lettera a), in relazione all'obiettivo di ridurre le differenze interregionali di gettito per abitante rispetto al gettito medio nazionale per abitante; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il principio di perequazione delle differenti capacita' fiscali dovra' essere applicato in modo da ridurre le differenze, in misura non inferiore al 75 per cento, tra i territori con diversa capacita' fiscale per abitante senza alternarne la graduatoria in termini di capacita' fiscale per abitante; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    la ripartizione del fondo perequativo tiene conto, per le regioni con popolazione al di sotto di un numero di abitanti determinato con le modalita' previste al comma 8, ultimo periodo, del fattore della dimensione demografica in relazione inversa alla dimensione demografica stessa.
 
 Le quote del fondo perequativo risultanti dall'applicazione del presente articolo sono distintamente indicate nelle assegnazioni annuali. L'indicazione non comporta vincoli di destinazione. Nel primo anno di funzionamento la perequazione fa riferimento alle spese di cui all'articolo 14, comma 2, computate in base ai valori di spesa storica; nei successivi quattro anni la perequazione deve gradualmente convergere verso le capacita' fiscali. Le modalita' della convergenza, nonche' le modalita' di attuazione delle lettere a), b), c) e d) del comma 7, sono stabilite con decreto di natura regolamentare del Presidente del Consiglio dei Ministri, su proposta del Ministro dell'economia e delle finanze, d'intesa con la Conferenza Stato-Regioni e previo parere delle commissioni della Camera dei Deputati e del Senato della Repubblica competenti per i profili di carattere finanziario. Allo schema di decreto del Presidente del Consiglio dei Ministri e' allegata una relazione tecnica concernente le conseguenze di carattere finanziario.
 
@@ -214,6 +381,52 @@ L'accertamento delle violazioni alle norme del presente articolo compete alle am
 COMMA ABROGATO DAL D.L. 6 DICEMBRE 2011, N. 201, CONVERTITO CON MODIFICAZIONI DALLA L. 22 DICEMBRE 2011, N. 214.
 
 Con decreto del Ministro dell'economia e delle finanze, adottato ai sensi dell'articolo 56, comma 11, del citato decreto legislativo n. 446 del 1997, entro trenta giorni dalla data di entrata in vigore del presente decreto, sono modificate le misure dell'imposta provinciale di trascrizione (IPT) di cui al decreto ministeriale 27 novembre 1998, n. 435, in modo che sia soppressa la previsione specifica relativa alla tariffa per gli atti soggetti a I.V.A. e la relativa misura dell'imposta sia determinata secondo i criteri vigenti per gli atti non soggetti ad IVA. (1)
+
+7.
+                        
+                            
+                                Con il disegno di legge di stabilita', ovvero con disegno di legge ad essa collegato, il Governo promuove il riordino dell'IPT di cui all'articolo 56 del citato decreto legislativo n. 446 del 1997, in conformita' alle seguenti norme generali: 
+ 
+                            
+                            
+                                a)
+                                
+                                    individuazione del presupposto dell'imposta nella registrazione del veicolo e relativa trascrizione, e nelle successive intestazioni; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    individuazione del soggetto passivo nel proprietario e in ogni altro intestatario del bene mobile registrato; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    delimitazione dell'oggetto dell'imposta ad autoveicoli, motoveicoli eccedenti una determinata potenza e rimorchi; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    determinazione uniforme dell'imposta per i veicoli nuovi e usati in relazione alla potenza del motore e alla classe di inquinamento; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    coordinamento ed armonizzazione del vigente regime delle esenzioni ed agevolazioni; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    destinazione del gettito alla provincia in cui ha residenza o sede legale il soggetto passivo d'imposta.
 
 Salvo quanto previsto dal comma 6, fino al 31 dicembre 2011 continua ad essere attribuita alle province l'IPT con le modalita' previste dalla vigente normativa. La riscossione puo' essere effettuata dall'ACI senza oneri per le province, salvo quanto previsto dalle convenzioni stipulate tra le province e l'ACI stesso.  ((4))
 
@@ -284,6 +497,84 @@ Ai sensi dell'articolo 13 della citata legge n. 42 del 2009, sono istituiti nel 
 
 In attuazione dell'articolo 15 della citata legge n. 42 del 2009, alle citta' metropolitane sono attribuiti, a partire dalla data di insediamento dei rispettivi organi, il sistema finanziario e il patrimonio delle province soppresse a norma dell'articolo 23, comma 8, della medesima legge.
 
+2.
+                        
+                            
+                                Sono attribuite alle citta' metropolitane, con apposito decreto del Presidente del Consiglio dei Ministri da adottare su proposta del Ministro dell'economia e delle finanze, d'intesa con la Conferenza unificata, le seguenti fonti di entrata: 
+ 
+                            
+                            
+                                a)
+                                
+                                    una compartecipazione al gettito dell'IRPEF prodotto sul territorio della citta' metropolitana; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    una compartecipazione alla tassa automobilistica regionale, stabilita dalla regione secondo quanto previsto dall'articolo 19, comma 2; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    l'imposta sulle assicurazioni contro la responsabilita' civile derivante dalla circolazione dei veicoli a motore, esclusi i ciclomotori, conformemente a quanto previsto dall'articolo 17; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    l'IPT, conformemente a quanto previsto dall'articolo 17; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    i tributi di cui all'articolo 20.
+
+3.
+                        
+                            
+                                Le fonti di entrata di cui al comma 2 finanziano: 
+ 
+                            
+                            
+                                a)
+                                
+                                    le funzioni fondamentali della citta' metropolitana gia' attribuite alla provincia; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la pianificazione territoriale generale e delle reti infrastrutturali; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    la strutturazione di sistemi di coordinati di gestione dei servizi pubblici; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    la promozione ed il coordinamento dello sviluppo economico e sociale; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    le altre funzioni delle citta' metropolitane.
+
 Con il decreto del Presidente del Consiglio dei Ministri di cui al comma 2, e' altresi' attribuita alle citta' metropolitane la facolta' di istituire un'addizionale sui diritti di imbarco portuali ed aeroportuali;
 
 La regione puo' attribuire alla citta' metropolitana la facolta' di istituire l'imposta sulle emissioni sonore degli aeromobili solo ove l'abbia soppressa ai sensi dell'articolo 8.
@@ -318,7 +609,73 @@ Per gli anni 2011 e 2012 il fabbisogno nazionale standard corrisponde al livello
 
 Il Ministro della salute, di concerto con il Ministro dell'economia e delle finanze, d'intesa, ai sensi dell'articolo 3 del decreto legislativo 28 agosto 1997, n. 281, con la conferenza Stato-Regioni sentita la struttura tecnica di supporto di cui all'articolo 3 dell'intesa Stato-Regioni del 3 dicembre 2009, determina annualmente, sulla base della procedura definita nel presente articolo, i costi e i fabbisogni standard regionali.
 
+1-bis.
+                        
+                            
+                                A decorrere dall'anno 2017: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la determinazione dei costi e dei fabbisogni standard di cui al comma 1 avviene entro il 15 febbraio dell'anno di riferimento ed e' aggiornata ove lo richieda l'eventuale ridefinizione del livello del finanziamento per il Servizio sanitario nazionale; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    qualora non venga raggiunta l'intesa di cui al comma l entro il predetto termine, con decreto del Ministro della salute, di concerto con il Ministro dell'economia e delle finanze, da adottarsi entro il 15 marzo dell'anno di riferimento, si provvede alla determinazione dei costi e dei fabbisogni standard in via provvisoria, facendosi riferimento alla proposta di riparto del Ministero della salute presentata in Conferenza Stato-regioni, ed assegnando alle singole regioni il valore regionale individuato nella medesima proposta, al netto dello 0,5 per cento. Con il medesimo decreto si provvede all'assegnazione alle regioni del 95 per cento del finanziamento degli obiettivi di piano sanitario nazionale; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    in conseguenza del perfezionamento del decreto di determinazione provvisoria dei costi e dei fabbisogni standard il Ministero dell'economia e delle finanze e' autorizzato ad erogare alle regioni: 
+ 1) le risorse ivi previste a titolo di finanziamento indistinto nelle percentuali di cui all'articolo 2, comma 68, lettera b), della legge 23 dicembre 2009, n. 191; 
+ 2) le risorse ivi previste a titolo di obiettivi di piano sanitario nazionale nelle percentuali d'acconto stabilite dall'articolo 1, comma 34-bis, della legge 23 dicembre 1996, n. 662; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    qualora non venga raggiunta l'intesa di cui al comma 1 entro il 30 settembre dell'anno di riferimento, con decreto del Ministro della salute, di concerto con il Ministro dell'economia e delle finanze, e' adottata la determinazione dei costi e dei fabbisogni standard in via definitiva; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    la determinazione definitiva dei costi e dei fabbisogni standard non puo' comportare per la singola regione un livello del finanziamento inferiore al livello individuato in via provvisoria con il richiamato decreto interministeriale, ferma restando la rideterminazione dei costi e dei fabbisogni standard, e delle relative erogazioni in termini di cassa, eventualmente dovuta ad aggiornamento del livello complessivo del finanziamento del Servizio sanitario nazionale.
+
 Per la determinazione dei costi e dei fabbisogni standard regionali si fa riferimento agli elementi informativi presenti nel Nuovo sistema informativo sanitario (NSIS) del Ministero della salute.
+
+3.
+                        
+                            
+                                Ai sensi dell'articolo 2, comma 2, lettera a), dell'intesa Stato-Regioni in materia sanitaria per il triennio 2010-2012 del 3 dicembre 2009, con riferimento ai macrolivelli di assistenza definiti dal decreto del Presidente del Consiglio dei Ministri di individuazione dei livelli essenziali di assistenza in ambito sanitario del 29 novembre 2001, costituiscono indicatori della programmazione nazionale per l'attuazione del federalismo fiscale i seguenti livelli percentuali di finanziamento della spesa sanitaria: 
+ 
+                            
+                            
+                                a)
+                                
+                                    5 per cento per l'assistenza sanitaria collettiva in ambiente di vita e di lavoro; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    51 per cento per l'assistenza distrettuale; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    44 per cento per l'assistenza ospedaliera.
 
 Il fabbisogno sanitario standard delle singole regioni a statuto ordinario, cumulativamente pari al livello del fabbisogno sanitario nazionale standard, e' determinato, in fase di prima applicazione a decorrere dall'anno 2013, applicando a tutte le regioni i valori di costo rilevati nelle regioni di riferimento. In sede di prima applicazione e' stabilito il procedimento di cui ai commi dal 5 all'11.
 
@@ -327,6 +684,45 @@ Sono regioni di riferimento le tre regioni, tra cui obbligatoriamente la prima, 
 A decorrere dall'anno 2016 il Ministro della salute, di concerto con il Ministro dell'economia e delle finanze, sentito il Ministro per gli affari regionali e le autonomie, indica le cinque regioni di cui al comma 5 entro il termine del 15 settembre dell'anno precedente a quello di riferimento e la Conferenza Stato-Regioni individua le tre regioni di riferimento di cui al medesimo comma 5 entro il termine del 30 settembre dell'anno precedente a quello di riferimento. Qualora non sia raggiunta l'intesa sulle tre regioni entro il predetto termine, le stesse sono automaticamente individuate nelle prime tre.
 
 Ai fini della determinazione dei fabbisogni sanitari standard regionali degli anni 2021, 2022 , 2023, 2024 e 2025 sono regioni di riferimento tutte le cinque regioni indicate, ai sensi di quanto previsto dal comma 5, dal Ministro della salute, di concerto con il Ministro dell'economia e delle finanze, sentito il Ministro per gli affari regionali e le autonomie. ((Per la determinazione dei fabbisogni sanitari standard regionali degli anni 2025 e 2026 sono regioni di riferimento le stesse regioni indicate per la determinazione dei fabbisogni sanitari standard regionali per l'anno 2024)).
+
+6.
+                        
+                            
+                                I costi standard sono computati a livello aggregato per ciascuno dei tre macrolivelli di assistenza: assistenza collettiva, assistenza distrettuale e assistenza ospedaliera. Il valore di costo standard e' dato, per ciascuno dei tre macrolivelli di assistenza erogati in condizione di efficienza ed appropriatezza dalla media pro-capite pesata del costo registrato dalle regioni di riferimento. A tal fine il livello della spesa delle tre macroaree delle regioni di riferimento: 
+ 
+                            
+                            
+                                a)
+                                
+                                    e' computato al lordo della mobilita' passiva e al netto della mobilita' attiva extraregionale; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    e' depurato della quota di spesa finanziata dalle maggiori entrate proprie rispetto alle entrate proprie considerate ai fini della determinazione del finanziamento nazionale. La riduzione e' operata proporzionalmente sulle tre macroaree; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    e' depurato della quota di spesa che finanzia livelli di assistenza superiori ai livelli essenziali; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    e' depurato delle quote di ammortamento che trovano copertura ulteriore rispetto al finanziamento ordinario del Servizio sanitario nazionale, nei termini convenuti presso i Tavoli tecnici di verifica; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    e' applicato, per ciascuna regione, alla relativa popolazione pesata regionale.
 
 Le regioni in equilibrio economico sono individuate sulla base dei risultati relativi al secondo esercizio precedente a quello di riferimento e le pesature sono effettuate con i pesi per classi di eta' considerati ai fini della determinazione del fabbisogno sanitario relativi al secondo esercizio precedente a quello di riferimento. A decorrere dall'anno 2015 i pesi sono definiti con decreto del Ministro della salute, di concerto con il Ministro dell'economia e delle finanze, previa intesa con la Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome di Trento e di Bolzano, sulla base dei criteri previsti dall'articolo 1, comma 34, della legge 23 dicembre 1996, n. 662, tenendo conto, nella ripartizione del costo e del fabbisogno sanitario standard regionale, del percorso di miglioramento per il raggiungimento degli standard di qualita', la cui misurazione si puo' avvalere del sistema di valutazione di cui all'articolo 30 del presente decreto. Qualora non venga raggiunta l'intesa entro il 30 aprile 2015, per l'anno 2015 continuano ad applicarsi i pesi di cui al primo periodo del presente comma. A decorrere dall'anno 2016, qualora non siano disponibili i dati previsti dal primo e dal secondo periodo del presente comma in tempo utile a garantire il rispetto del termine di cui al comma 5-bis, la determinazione dei costi e dei fabbisogni standard regionali e' effettuata individuando le regioni in equilibrio e i pesi sulla base rispettivamente dei risultati e dei valori ultimi disponibili. In via transitoria, per gli anni 2021 e 2022, nelle more dell'applicazione di quanto previsto al secondo periodo del presente comma ed in deroga a quanto previsto dal quarto periodo del presente comma, al fine di tenere conto della proposta regionale presentata dal Presidente della Conferenza delle regioni e delle province autonome il 15 aprile 2021, l'85 per cento delle risorse destinate alla copertura del fabbisogno standard nazionale per gli anni 2021 e 2022 sono ripartite secondo i criteri di cui al presente comma e il restante 15 per cento delle medesime risorse e' ripartito sulla base della popolazione residente riferita al 1° gennaio 2020 per il riparto 2021 e al 1° gennaio 2021 per il riparto 2022. Per l'anno 2022, nel caso in cui non venga raggiunta l'intesa prevista dal comma 1, il decreto di determinazione provvisoria dei costi e dei fabbisogni standard di cui al comma 1-bis, lettera b), e' adottato entro il 30 settembre 2022 mentre il decreto di determinazione definitiva di cui al comma 1-bis, lettera d), e' adottato entro il 31 dicembre 2022. Entro il 31 dicembre 2022 il Ministro della salute, di concerto con il Ministro dell'economia e delle finanze, previa intesa con la Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome di Trento e di Bolzano, emana il decreto di cui al secondo periodo del presente comma.
 
@@ -357,6 +753,24 @@ In coerenza con il processo di convergenza di cui all'articolo 20, comma 1, lett
 Le relative determinazioni sono trasmesse, dal momento della sua istituzione, alla conferenza permanente per il coordinamento della finanza pubblica di cui all'articolo 5 della citata legge n. 42 del 2009.
 
 ## Art. 30. — Disposizioni relative alla prima applicazione
+
+1.
+                        
+                            
+                                In fase di prima applicazione: 
+ 
+                            
+                            
+                                a)
+                                
+                                    restano ferme le vigenti disposizioni in materia di riparto delle somme destinate al rispetto degli obiettivi del Piano sanitario nazionale, ad altre attivita' sanitarie a destinazione vincolate, nonche' al finanziamento della mobilita' sanitaria; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    restano altresi' ferme le ulteriori disposizioni in materia di finanziamento sanitario non disciplinate dal presente decreto.
 
 Il Ministro della salute, d'intesa con la Conferenza Stato-Regioni, implementa un sistema adeguato di valutazione della qualita' delle cure e dell'uniformita' dell'assistenza in tutte le regioni ed effettua un monitoraggio costante dell'efficienza e dell'efficacia dei servizi, anche al fine degli adempimenti di cui all'articolo 27, comma 11.
 
@@ -407,6 +821,53 @@ Le determinazioni adottate dalla conferenza sono trasmesse ai Presidenti delle C
 Si applicano in quanto compatibili le disposizioni previste per la Conferenza unificata dal citato decreto legislativo n. 281 del 1997.
 
 ## Art. 36. — Funzioni
+
+1.
+                        
+                            
+                                In attuazione di quanto previsto dall'articolo 5, comma 1, della citata legge n. 42 del 2009: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la Conferenza concorre, in conformita' a quanto previsto dall'articolo 10 della citata legge n. 196 del 2009 alla ripartizione degli obiettivi di finanza pubblica per sottosettore istituzionale, ai sensi dell'articolo 10, comma 1, e 2, lettera e) della citata legge n. 196 del 2009; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la Conferenza avanza proposte: 
+ 1. per la determinazione degli indici di virtuosita' e dei relativi incentivi; 
+ 2. per la fissazione dei criteri per il corretto utilizzo dei fondi perequativi secondo principi di efficacia, efficienza e trasparenza e ne verifica l'applicazione. 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    la Conferenza verifica: 
+ 1) l'utilizzo dei fondi stanziati per gli interventi speciali ai sensi dell'articolo 16 della citata legge n. 42 del 2009; 
+ 2) assicura la verifica periodica del funzionamento del nuovo ordinamento finanziario dei comuni, delle province, delle citta' metropolitane e delle regioni; 
+ 3) assicura la verifica delle relazioni finanziarie fra i diversi livelli di governo e l'adeguatezza delle risorse finanziarie di ciascun livello di governo rispetto alle funzioni svolte, proponendo eventuali modifiche o adeguamenti al sistema; 
+ 4) verifica la congruita' dei dati e delle basi informative, finanziarie e tributarie fornite dalle amministrazioni territoriali; 
+ 5) verifica periodicamente la realizzazione del percorso di convergenza ai costi e ai fabbisogni standard nonche' agli obiettivi di servizio; 
+ 6) la Conferenza mette a disposizione del Senato della Repubblica, della Camera dei Deputati, dei Consigli regionali e di quelli delle province autonome tutti gli elementi informativi raccolti. 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    la Conferenza promuove la conciliazione degli interessi fra i diversi livelli di governo interessati all'attuazione delle norme sul federalismo fiscale; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    la Conferenza vigila sull'applicazione dei meccanismi di premialita', sul rispetto dei meccanismi sanzionatori e sul loro funzionamento.
 
 Anche ai fini dell'attuazione di cui al comma 1, lettera c), numero 5), la Conferenza permanente per il coordinamento della finanza pubblica provvede, con cadenza trimestrale, ad illustrare, in sede di Conferenza unificata di cui al citato decreto legislativo n. 281 del 1997, i lavori svolti.
 

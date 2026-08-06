@@ -9,7 +9,7 @@ source: normattiva-opendata
 collection: Atti di recepimento direttive UE
 vigenza_date: 2026-01-06
 zip_date: 2026-07-30
-fetched_at: 2026-08-02T09:40:51Z
+fetched_at: 2026-07-30
 ---
 
 DECRETO LEGISLATIVO
@@ -35,7 +35,154 @@ Le disposizioni del presente decreto si applicano alle imposte di qualsiasi tipo
 
 Le disposizioni del presente decreto si applicano alle imposte di cui al comma 3 riscosse all'interno del territorio in cui si applicano i trattati in forza dell'articolo 52 del Trattato sull'Unione europea.
 
+5.
+                    
+                        
+                            Le disposizioni del presente decreto non si applicano: 
+ 
+                        
+                        
+                            a)
+                            
+                                ai contributi previdenziali obbligatori dovuti ad uno Stato membro o ad una ripartizione dello stesso o ad organismi di previdenza sociale di diritto pubblico; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                all'imposta sul valore aggiunto, ai dazi doganali o alle accise; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                ai diritti, quali quelli per certificati e altri documenti rilasciati da autorita' pubbliche; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                alle tasse di natura contrattuale, quale corrispettivo per pubblici servizi.
+
 ## Art. 2. — Definizioni
+
+1.
+                    
+                        
+                            Ai fini del presente decreto si intende per: 
+ 
+                        
+                        
+                            a)
+                            
+                                autorita' competente: l'autorita' designata dallo Stato membro oppure, ove agisca, per delega, l'ufficio centrale di collegamento; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                ufficio centrale di collegamento: l'ufficio che e' stato designato quale responsabile principale dei contatti con gli altri Stati membri nel settore della cooperazione amministrativa; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                servizio di collegamento: qualsiasi ufficio diverso dall'ufficio centrale di collegamento che e' stato designato per procedere a scambi diretti di informazioni a norma del presente decreto; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                funzionario competente: qualsiasi funzionario che e' stato autorizzato a scambiare direttamente informazioni a norma del presente decreto; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                autorita' richiedente: l'ufficio centrale di collegamento o un servizio di collegamento che formula una richiesta di assistenza a nome dell'autorita' competente; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                autorita' interpellata: l'ufficio centrale di collegamento o un servizio di collegamento che riceve una richiesta di assistenza a nome dell'autorita' competente; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                indagine amministrativa: tutti i controlli, le verifiche e gli interventi eseguiti dagli Stati membri nell'esercizio delle loro funzioni allo scopo di assicurare la corretta applicazione della normativa fiscale; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                persona: 
+ 1) una persona fisica; 
+ 2) una persona giuridica o dove la normativa vigente lo preveda, un'associazione di persone alla quale e' riconosciuta la capacita' di compiere atti giuridici, ma che e' priva di personalita' giuridica; 
+ 3) qualsiasi altro istituto giuridico di qualunque natura e forma, dotato o meno di personalita' giuridica, che possiede o gestisce beni che, compreso il reddito da essi derivato, sono soggetti a una delle imposte di cui all'articolo 1, comma 3, del presente decreto. 
+
+                            
+                        
+                        
+                            h-bis)
+                            
+                                ruling preventivo transfrontaliero: 
+ 1) gli accordi preventivi, diversi da quelli indicati nella lettera h-ter), stipulati ai sensi dell'articolo 31-ter, comma 1, del decreto del Presidente della Repubblica 29 settembre 1973, n. 600; 
+ 2) gli accordi preventivi connessi all'utilizzo dei beni immateriali stipulati ai sensi dell'articolo 1, commi da 37 a 45, della legge 23 dicembre 2014, n. 190, aventi ad oggetto una operazione transfrontaliera; 
+ 3) i pareri resi su istanze di interpello presentate ai sensi dell'articolo 11, comma 1, lettere a) e c), della legge 27 luglio del 2000, n. 212, aventi ad oggetto l'interpretazione o l'applicazione di norme, anche di origine convenzionale, concernenti il trattamento fiscale di una operazione transfrontaliera; 
+ 4) i pareri resi su istanze di interpello presentate ai sensi dell'articolo 6, comma 2, del decreto legislativo 5 agosto 2015, n. 128, aventi ad oggetto l'interpretazione o l'applicazione di norme, anche di origine convenzionale, concernenti il trattamento fiscale di una operazione transfrontaliera; 
+ 5) i pareri resi su istanze di interpello, presentate ai sensi dell'articolo 2 del decreto legislativo 14 settembre 2015, n. 147, aventi ad oggetto l'interpretazione o l'applicazione di norme, anche di origine convenzionale, concernenti il trattamento fiscale di una operazione transfrontaliera; 
+ 6) ogni altro accordo o parere reso su istanze di interpello con effetti simili alle categorie elencate ai numeri da 1 a 5, presentate ai sensi di una normativa emanata in data successiva all'entrata in vigore del presente decreto. (1) 
+
+                            
+                        
+                        
+                            h-ter)
+                            
+                                accordo preventivo sui prezzi di trasferimento: gli accordi per la preventiva definizione in contraddittorio dei metodi di calcolo del valore normale delle operazioni di cui all'articolo 110, comma 7, del testo unico delle imposte sui redditi approvato con decreto del Presidente della Repubblica 22 dicembre 1986, n. 917, e gli accordi per l'applicazione ad un caso concreto di norme, anche di origine convenzionale, concernenti l'attribuzione di utili e perdite alla stabile organizzazione in un altro Stato di un'impresa o un ente residente ovvero alla stabile organizzazione in Italia di un soggetto non residente, stipulati ai sensi dell'articolo 31-ter, comma 1, lettere a) e b), del decreto del Presidente della Repubblica 29 settembre 1973, n. 600; (1) 
+
+                            
+                        
+                        
+                            h-quater)
+                            
+                                operazione transfrontaliera: un'operazione o una serie di operazioni in cui, alternativamente: 
+ 1) non tutte le parti coinvolte nell'operazione o nella serie di operazioni risiedono, a fini fiscali, in Italia; 
+ 2) una o piu' delle parti coinvolte nell'operazione o nella serie di operazioni e' simultaneamente residente a fini fiscali in Italia e in una o piu' giurisdizioni; 
+ 3) una delle parti coinvolte nell'operazione o nella serie di operazioni svolge la propria attivita' in un'altra giurisdizione tramite una stabile organizzazione e l'operazione o la serie di operazioni fa parte dell'attivita' o costituisce il complesso delle attivita' della stabile organizzazione. Un'operazione transfrontaliera o una serie di operazioni transfrontaliere comprendono anche le transazioni poste in essere da una persona giuridica rispetto alle attivita' che tale persona esercita in un altro Stato membro tramite una stabile organizzazione; 
+ 4) che ha un impatto transfrontaliero. (1) 
+
+                            
+                        
+                        
+                            h-quinquies)
+                            
+                                registro centrale sicuro: registro centrale istituito dalla Commissione europea relativo alla cooperazione amministrativa nel settore fiscale in cui le informazioni comunicate ai sensi dell'articolo 8-bis, paragrafi 1 e 2, della direttiva 2011/16/UE sono registrate ai fini dello scambio automatico; (1) 
+
+                            
+                        
+                        
+                            i)
+                            
+                                con mezzi elettronici: mediante attrezzature elettroniche di trattamento (compresa la compressione digitale) e di memorizzazione di dati e utilizzando fili, radio, mezzi ottici o altri mezzi elettromagnetici; 
+
+                            
+                        
+                        
+                            l)
+                            
+                                rete CCN: la piattaforma comune basata sulla rete comune di comunicazione (CCN) e sull'interfaccia comune di sistema (CSI), sviluppata dall'Unione europea per assicurare tutte le trasmissioni con mezzi elettronici tra l'autorita' richiedente di uno Stato membro e l'autorita' interpellata di un altro Stato membro nel settore della fiscalita'.
 
 ---------------
                         AGGIORNAMENTO (1)
@@ -86,6 +233,56 @@ L'autorita' interpellata provvede alla raccolta delle informazioni richieste o a
 ((
 
 Ai fini delle richieste effettuate ai sensi del presente articolo, le informazioni prevedibilmente pertinenti sono quelle che l'autorita' richiedente ritiene, conformemente al proprio diritto nazionale, ragionevolmente pertinenti per la verifica della posizione fiscale di uno o piu' contribuenti, identificati nominativamente o in altro modo, e la cui acquisizione e' giustificata ai fini dell'indagine.
+
+3-ter.
+                    
+                        
+                            L'autorita' richiedente, anche al fine di dimostrare all'autorita' interpellata la prevedibile pertinenza delle informazioni ai sensi del comma 3-bis, indica nella richiesta: 
+ 
+                        
+                        
+                            a)
+                            
+                                i motivi di carattere fiscale per cui si richiedono le informazioni; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                la specificazione delle informazioni richieste per l'amministrazione o l'applicazione del diritto nazionale.
+
+3-quater.
+                    
+                        
+                            Se una richiesta effettuata ai sensi del presente articolo riguarda un gruppo di contribuenti che non possono essere identificati singolarmente, l'autorita' richiedente fornisce all'autorita' interpellata almeno le seguenti informazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                la descrizione dettagliata del gruppo; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                l'indicazione specifica delle norme applicabili e dei fatti in base ai quali vi e' motivo di ritenere che i contribuenti del gruppo non le abbiano rispettate; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                i chiarimenti sul modo in cui le informazioni richieste possono contribuire a verificare il rispetto delle norme applicabili da parte dei contribuenti del gruppo; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                l'indicazione dei fatti e delle circostanze relative all'eventuale coinvolgimento di una terza parte, che ha contribuito attivamente al mancato rispetto delle norme applicabili da parte dei contribuenti del gruppo.
 
 ))
 
@@ -179,6 +376,59 @@ L'Agenzia delle entrate, nel caso in cui la violazione dei dati si e' verificata
 ))
 
 ## Art. 11. — Modifiche normative
+
+1.
+                    
+                        
+                            Al decreto del Presidente della Repubblica 29 settembre 1973, n. 600, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                all'articolo 31-bis, primo comma, le parole: «sul reddito e sul patrimonio» sono sostituite dalle seguenti: «di qualsiasi tipo riscosse da o per conto dell'amministrazione finanziaria e delle ripartizioni territoriali, comprese le autorita' locali»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                all'articolo 31-bis, dopo il secondo comma e' inserito il seguente: «In sede di assistenza e cooperazione nello scambio di informazioni l'amministrazione finanziaria opera nel rispetto dei termini indicati agli articoli 7, 8 e 10 della direttiva 2011/16/UE del 15 febbraio 2011 del Consiglio, che ha abrogato la direttiva 77/799/CEE del 19 dicembre 1977.»; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                all'articolo 31-bis, il quarto comma e' sostituito dal seguente: «Le informazioni sono trattate e tenute segrete con i limiti e le modalita' previsti dal CAPO IV, condizioni che disciplinano la cooperazione amministrativa, e VI, relazioni con i Paesi terzi, della direttiva 2011/16/UE.»; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                all'articolo 31-bis, dopo il quinto comma e' inserito il seguente: «In sede di assistenza e cooperazione per lo scambio di informazioni, la presenza negli uffici amministrativi e la partecipazione alle indagini amministrative di funzionari delle amministrazioni fiscali degli altri stati membri dell'Unione europea, e' disciplinata dall'articolo 11 della direttiva 2011/16/UE del 15 febbraio 2011 del Consiglio. Alla presenza dei funzionari dell'Amministrazione finanziaria, che esercitano il coordinamento delle indagini amministrative, i funzionari esteri possono interrogare i soggetti sottoposti al controllo ed esaminare la relativa documentazione, a condizione di reciprocita' e previo accordo tra l'autorita' richiedente e l'autorita' interpellata. I funzionari dell'Amministrazione finanziaria utilizzano direttamente le informazioni scambiate durante le indagini svolte all'estero.»; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                all'articolo 60-bis, primo comma, le parole: «sulle imposte indicate nell'articolo 1 della direttiva 77/799/CEE del Consiglio, del 19 dicembre 1977, modificata dalle direttive 2003/93/CE del Consiglio, del 7 ottobre 2003, e 2004/56/CE del Consiglio, del 21 aprile 2004» sono sostituite dalle seguenti: «sulle imposte indicate nell'articolo 2 della direttiva 2011/16/UE del 15 febbraio 2011 del Consiglio, che ha abrogato la direttiva 77/799/CEE del 19 dicembre 1977»; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                all'articolo 60-bis, secondo comma, le parole: «sulle imposte indicate nell'articolo 1 della direttiva 77/799/CEE» sono sostituite dalle seguenti: «sulle imposte indicate nell'articolo 2 della direttiva 2011/16/UE del 15 febbraio 2011 del Consiglio, che ha abrogato la direttiva 77/799/CEE del 19 dicembre 1977»; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                all'articolo 60-bis, dopo il secondo comma e' inserito il seguente: «L'amministrazione finanziaria puo' notificare un documento, secondo le modalita' di cui all'articolo 60, direttamente ad una persona nel territorio di un altro Stato membro.».
 
 I servizi di collegamento non hanno l'obbligo di effettuare indagini o di comunicare informazioni, qualora condurre tali indagini o raccogliere le informazioni richieste per fini propri non sia consentito dall'ordinamento.
 

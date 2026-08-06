@@ -8,8 +8,8 @@ codice_redazionale: 012G0005
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti di delegificazione
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:40:25Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -31,6 +31,31 @@ Sulla proposta del Ministro delle infrastrutture e dei trasporti, di concerto co
 
 Il reclutamento del personale dell'Agenzia nazionale per la sicurezza delle ferrovie, di seguito denominato: "Agenzia", avviene mediante procedure concorsuali o selettive i cui criteri informatori sono individuati nei principi fissati dall'articolo 97 della Costituzione, dal decreto del Presidente della Repubblica 9 maggio 1994, n. 487, e successive modificazioni, dagli articoli 7, 28, 35 e 36 del decreto legislativo 30 marzo 2001, n. 165, e successive modificazioni, di seguito denominato: "decreto legislativo n. 165 del 2001".
 
+2.
+                        
+                            
+                                Le procedure di reclutamento si conformano ai seguenti principi: 
+ 
+                            
+                            
+                                a)
+                                
+                                    adeguata pubblicita' della selezione e delle relative modalita' di svolgimento che garantiscano l'imparzialita' e assicurino economicita' e celerita' di espletamento; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    adozione di meccanismi oggettivi e trasparenti idonei a verificare il possesso dei requisiti professionali richiesti in relazione alla posizione da ricoprire, eventualmente tramite ricorso all'ausilio di sistemi automatizzati finalizzati a realizzare anche forme di preselezione; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    rispetto delle pari opportunita' tra lavoratrici e lavoratori.
+
 Fermo restando quanto stabilito all'articolo 38 del decreto legislativo n. 165 del 2001, alle selezioni sono ammessi cittadini italiani e cittadini dell'Unione europea che siano in possesso dei requisiti fissati dall'articolo 3 del decreto del Presidente del Consiglio dei Ministri 7 febbraio 1994, n. 174.
 
 ## - Titolo II PROCEDURE DI RECLUTAMENTO
@@ -48,6 +73,157 @@ Qualora le procedure di cui al comma 1 abbiano ad oggetto la copertura di posizi
 ## Art. 4. — Responsabile del procedimento
 
 Il dirigente dell'ufficio competente in materia di reclutamento e formazione del personale, di cui all'articolo 3 del decreto del Presidente della Repubblica 25 febbraio 2009, n. 35, con proprio provvedimento nomina il responsabile di ciascun procedimento concorsuale-selettivo, di norma, nell'ambito delle risorse umane assegnate al proprio ufficio. Il nominativo del responsabile del procedimento deve essere indicato nel bando concorsuale o nell'avviso di selezione.
+
+2.
+                        
+                            
+                                Il responsabile del procedimento ha il compito di garantire la regolarita' del procedimento medesimo nel rispetto della normativa di riferimento e dei termini fissati dal provvedimento di avvio della selezione o nel bando di concorso. Il responsabile del procedimento cura, tra l'altro, l'esatto adempimento in ordine a: 
+ 
+                            
+                            
+                                a)
+                                
+                                    pubblicazione del bando nella Gazzetta Ufficiale della Repubblica italiana e con le altre forme di pubblicita' previste dall'articolo 3; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    informatizzazione delle domande e suddivisione in elenchi dei partecipanti; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    istruttoria delle domande finalizzata all'accertamento del possesso da parte dei candidati dei requisiti di partecipazione richiesti dal bando, nonche' all'accertamento della regolarita' delle domande e della documentazione presentate dai candidati prima dell'inoltro della stessa alla commissione esaminatrice; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    predisposizione dei decreti di esclusione dei candidati motivati dal difetto di almeno uno dei requisiti richiesti dal bando; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    notifica ai candidati del provvedimento di esclusione attraverso invio di lettera raccomandata con avviso di ricevimento; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    predisposizione del decreto di nomina della commissione esaminatrice; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    predisposizione, d'intesa con l'ufficio preposto al trattamento economico e giuridico, dei decreti di impegno relativi ai compensi spettanti ai componenti della commissione esaminatrice, contestualmente all'adempimento di cui alla lettera f) ovvero qualora non possibile al termine della procedura selettiva; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    adempimenti relativi all'insediamento della commissione esaminatrice, quali l'invio di copia del decreto di nomina ad ogni singolo componente, l'individuazione della sede di svolgimento delle attivita' della commissione, l'avvio dei contatti con il segretario della commissione in vista della futura trasmissione della documentazione afferente il concorso; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    consegna formale al segretario della commissione esaminatrice della documentazione riguardante i candidati ammessi alla procedura selettiva; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    approvazione, da parte della commissione esaminatrice, dei test relativi alla prova scritta sostitutivi dell'elaborato in forma scritta da somministrare in forma automatizzata; 
+
+                                
+                            
+                            
+                                m)
+                                
+                                    custodia degli eventuali questionari o test relativi alla prova preselettiva o scritta ovvero di entrambe qualora la medesima custodia non risulti assegnata alla commissione esaminatrice ovvero alla impresa che ne cura la predisposizione in base al contratto di esternalizzazione; 
+
+                                
+                            
+                            
+                                n)
+                                
+                                    organizzazione logistica dello svolgimento delle prove preliminari o delle prove scritte ovvero di entrambe; 
+
+                                
+                            
+                            
+                                o)
+                                
+                                    comunicazione ai candidati del superamento della prova preliminare o della prova scritta ovvero di entrambe e della data fissata per le successive prove; 
+
+                                
+                            
+                            
+                                p)
+                                
+                                    d'intesa con il segretario della commissione esaminatrice, organizzazione logistica delle sedute relative alle prove orali; 
+
+                                
+                            
+                            
+                                q)
+                                
+                                    acquisizione della documentazione comprovante il possesso dei titoli di precedenza e preferenza; 
+
+                                
+                            
+                            
+                                r)
+                                
+                                    predisposizione del decreto di approvazione della graduatoria finale di merito e della nomina dei vincitori a seguito della trasmissione dell'ultimo verbale da parte del segretario della commissione esaminatrice; 
+
+                                
+                            
+                            
+                                s)
+                                
+                                    pubblicazione, anche mediante avviso, nella Gazzetta Ufficiale della Repubblica italiana e sul sito dell'Agenzia della graduatoria dei vincitori; 
+
+                                
+                            
+                            
+                                t)
+                                
+                                    ricezione formale dal segretario della commissione esaminatrice della documentazione riguardante i candidati che ha formato oggetto dell'attivita' valutativa da parte della commissione stessa al termine delle operazioni concorsuali; 
+
+                                
+                            
+                            
+                                u)
+                                
+                                    archiviazione della predetta documentazione in ossequio alla normativa concernente la tutela dei dati personali; 
+
+                                
+                            
+                            
+                                v)
+                                
+                                    calcolo dei compensi spettanti ai componenti la commissione esaminatrice ed inoltro della documentazione relativa all'ufficio competente per la liquidazione degli stessi; 
+
+                                
+                            
+                            
+                                z)
+                                
+                                    ogni ulteriore adempimento relativo allo svolgimento dell'attivita' procedimentale.
 
 Il responsabile del procedimento e', altresi', competente in materia di istanze di accesso agli atti.
 
@@ -67,6 +243,24 @@ Il segretario della commissione esaminatrice provvede alla custodia della docume
  della commissione esaminatrice
 
 I membri, anche aggregati, della commissione esaminatrice nella loro prima riunione e in ogni caso prima dell'inizio delle prove sottoscrivono una dichiarazione di non sussistenza di situazioni di incompatibilita' tra i singoli componenti e i candidati, ai sensi degli articoli 51 e 52 del codice di procedura civile, a seguito della presa visione dell'elenco nominativo degli stessi.
+
+2.
+                        
+                            
+                                Successivamente alla verifica delle eventuali incompatibilita', la commissione esaminatrice procede alla: 
+ 
+                            
+                            
+                                a)
+                                
+                                    definizione, prima dell'inizio delle prove, del termine del procedimento di reclutamento in considerazione del numero dei candidati e del tipo di procedura, dandone comunicazione al responsabile del procedimento per la pubblicazione sul sito internet dell'Agenzia. In assenza dell'individuazione del predetto termine si applica il termine stabilito dall'articolo 11, comma 5, del decreto del Presidente della Repubblica 9 maggio 1994, n. 487; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    definizione, prima della scadenza del termine di presentazione delle domande, dei criteri e delle modalita' di valutazione delle prove e determinazione dei punteggi attribuiti alle categorie dei titoli e alle articolazioni degli stessi eventualmente individuate, nonche' dei punteggi attribuiti alle singole prove, differenziate in relazione alla specificita' dei profili messi a concorso e delle modalita' di assunzione che puo' essere con contratto a tempo indeterminato ovvero con contratto a tempo determinato o contratti di formazione e lavoro.
 
 ## Art. 7. — Criteri generali per il reclutamento e la valutazione dei candidati
 
@@ -91,6 +285,31 @@ I quiz da sottoporre ai candidati predisposti dall'azienda specializzata prescel
 I contratti aventi ad oggetto la predisposizione dei quiz, la somministrazione di questi ultimi, la custodia dei medesimi, la vigilanza durante lo svolgimento delle prove, l'affitto della sede delle prove, sono stipulati dal competente ufficio dell'Agenzia, a seguito di motivata richiesta del responsabile dell'ufficio addetto al reclutamento del personale.
 
 ## Art. 9. — Titoli
+
+1.
+                        
+                            
+                                Ai fini della formazione delle graduatorie di merito relative alle procedure concorsuali per l'assunzione di personale con contratti a tempo determinato ed indeterminato, sono valutabili soltanto i titoli che non costituiscono requisito di ammissione previsto dal bando. Le categorie di titoli ammessi a valutazione ed il punteggio massimo attribuibile a ciascuna categoria sono stabiliti come segue: 
+ 
+                            
+                            
+                                a)
+                                
+                                    titoli di cultura; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    titoli professionali; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    titoli vari.
 
 Rientrano tra i titoli di cultura i titoli di studio aggiuntivi rispetto a quello richiesto per la partecipazione alla procedura di reclutamento purche' coerenti con il profilo da ricoprire, essendo il titolo di studio richiesto per l'ammissione eventualmente valutabile unicamente in relazione al voto riportato. Rientrano tra i predetti titoli, i diplomi di laurea e le lauree specialistiche, i dottorati di ricerca, i diplomi di specializzazione universitaria rilasciati o riconosciuti dallo Stato o conseguiti all'estero, purche' riconosciuti equipollenti a quelli nazionali.
 
@@ -168,6 +387,31 @@ Le regole delle procedure di selezione di cui al comma 1 sono stabilite nei rela
 ## - Titolo V GESTIONE E SVILUPPO PROFESSIONALE   DEL PERSONALE
 
 ## Art. 15. — Formazione
+
+1.
+                        
+                            
+                                Le attivita' di formazione sono rivolte a: 
+ 
+                            
+                            
+                                a)
+                                
+                                    valorizzare il patrimonio professionale dell'Agenzia; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    assicurare la continuita' operativa dei servizi migliorandone la qualita' e l'efficienza; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    sostenere i processi di cambiamento organizzativo.
 
 L'Agenzia promuove ed attua, nel rispetto delle disposizioni contrattuali, interventi e programmi di formazione permanente e di aggiornamento continuo del personale, per migliorarne il livello di prestazione nelle posizioni attualmente ricoperte e accrescerne le capacita' potenziali in funzione dell'affidamento di incarichi diversi, anche ai fini dello sviluppo di professionalita' polivalenti e della progressione di carriera.
 

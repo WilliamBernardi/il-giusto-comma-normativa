@@ -7,8 +7,8 @@ urn: urn:nir:stato:decreto.legislativo:2016-02-15;28
 vigente: true
 source: normattiva-opendata
 collection: Leggi delega e relativi provvedimenti delegati
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:41:14Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -30,11 +30,123 @@ Il presente decreto stabilisce i requisiti per la tutela della salute della popo
 
 ## Art. 2. — Definizioni
 
+1.
+                    
+                        
+                            Ai fini del presente decreto si intende per: 
+ 
+                        
+                        
+                            a)
+                            
+                                «acque destinate al consumo umano»: 
+ 1) tutte le acque trattate o non trattate, destinate ad uso potabile, per la preparazione o la cottura di cibi e bevande, o per altri usi domestici, a prescindere dalla loro origine, siano esse fornite tramite una rete di distribuzione, mediante cisterne, in bottiglie o altri contenitori; 
+ 2) tutte le acque utilizzate in un'impresa alimentare per la fabbricazione, il trattamento, la conservazione o l'immissione sul mercato di prodotti o sostanze destinati al consumo umano; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                «sostanza radioattiva»: qualsiasi sostanza contenente uno o piu' radionuclidi di cui, ai fini della radioprotezione, non si puo' trascurare l'attivita' o la concentrazione; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                «parametri» o «parametri indicatori»: le grandezze fisiche o dosimetriche adottate nel presente decreto per il controllo della radioattivita' nelle acque destinate al consumo umano, quali, in particolare, la concentrazione di attivita' di radon, la concentrazione di attivita' di trizio, la dose indicativa; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                «dose indicativa» o «DI»: la dose efficace impegnata per un anno d'ingestione risultante da tutti i radionuclidi, di origine naturale e artificiale, presenti nelle acque destinate al consumo umano, ad eccezione di trizio, potassio-40, radon e prodotti di decadimento del radon a vita breve; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                «valore di parametro»: il valore di attenzione del parametro, ovvero il valore con cui confrontare la media annua dei valori misurati del parametro e al di sopra del quale e' obbligatorio valutare se la presenza di sostanze radioattive nelle acque destinate al consumo umano costituisca un rischio per la salute umana tale da richiedere un intervento, inclusa, ove necessario, l'adozione di provvedimenti correttivi volti a migliorare la qualita' dell'acqua, per quanto riguarda la presenza di sostanze radioattive, e a garantire che essa soddisfi i requisiti del presente decreto; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                «programma di controllo»: insieme delle attivita' atte a verificare, mediante il monitoraggio dei parametri indicatori, il rispetto dei valori di parametro nelle acque destinate al consumo umano, fissati ai sensi dell'articolo 5 del presente decreto; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                «NORM»: acronimo di Naturally Occurring Radioactive Materials indicante materiali, generalmente materie prime, o prodotti secondari, o residui di attivita' industriali, contenenti radionuclidi di origine naturale e regolati dal decreto legislativo 17 marzo 1995, n. 230, e successive modificazioni; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                «gestore»: il gestore del servizio idrico integrato cosi' come riportato all'articolo 74, comma 1, lettera r), del decreto legislativo 3 aprile 2006, n. 152, e successive modificazioni ovvero chiunque fornisce a terzi acqua destinata al consumo umano mediante rete di distribuzione idrica, oppure chiunque fornisce a terzi acqua destinata al consumo umano attraverso cisterne, fisse o mobili, o attraverso impianti idrici autonomi, oppure chiunque confeziona per la distribuzione a terzi, acqua destinata al consumo umano in bottiglie o altri contenitori; sono altresi' considerati gestori le imprese alimentari che utilizzano acque di cui alla lettera a), numero 2, se queste derivano da fonti proprie o comunque non sono fornite attraverso rete di distribuzione idrica; 
+
+                            
+                        
+                        
+                            i)
+                            
+                                «rete di distribuzione idrica»: insieme degli impianti e strutture finalizzate alla produzione e fornitura di acqua destinata al consumo umano attraverso le fasi di captazione, trattamento, adduzione e distribuzione alle utenze.
+
 ## Art. 3. — Ambito di applicazione ed esenzioni
 
 Il presente decreto si applica alle acque destinate al consumo umano.
 
+2.
+                    
+                        
+                            Il presente decreto non si applica: 
+ 
+                        
+                        
+                            a)
+                            
+                                alle acque minerali naturali riconosciute come tali ai sensi del decreto legislativo 8 ottobre 2011, n. 176, che attua la direttiva 2009/54/CE; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                alle acque medicinali ai sensi del decreto legislativo 24 aprile 2006, n. 219, che attua la direttiva 2001/83/CE.
+
 Con decreto del Ministro della salute, possono essere esentate dall'applicazione del presente decreto le acque destinate al consumo umano provenienti da una singola fonte che ne eroga in media meno di 10 m³ al giorno o che approvvigiona meno di 50 persone, escluse le acque fornite nell'ambito di una attivita' commerciale o pubblica.
+
+4.
+                    
+                        
+                            In caso di esenzione ai sensi del comma 3, le regioni e le province autonome provvedono a che: 
+ 
+                        
+                        
+                            a)
+                            
+                                la popolazione interessata sia informata al riguardo e in ordine a qualsiasi provvedimento eventualmente adottato al fine di tutelare la salute umana dagli effetti negativi derivanti dalla contaminazione delle acque destinate al consumo umano; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                la popolazione interessata sia informata della possibilita' di chiedere alle autorita' competenti lo svolgimento di verifiche atte ad escludere, in concreto, rischi per la salute connessi all'eventuale presenza di sostanze radioattive; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                la popolazione interessata riceva tempestivamente i consigli appropriati allorche' si manifesti un pericolo potenziale per la salute umana derivante dalla qualita' di tali acque.
 
 ## Art. 4. — Obblighi generali
 
@@ -44,12 +156,69 @@ Le regioni e le province autonome inviano al Ministero della salute il testo del
 
 Il programma di controllo deve essere aggiornato nei casi in cui cambino le condizioni sulla base delle quali e' stato elaborato, seguendo le stesse modalita' di cui al comma 2.
 
+4.
+                    
+                        
+                            In caso di superamento di uno o piu' valori di parametro di cui all'articolo 5, le regioni e le province autonome, avvalendosi delle aziende sanitarie locali, ovvero di altri enti pubblici competenti a svolgere controlli sulla salubrita' delle acque e sugli alimenti e bevande per scopi di tutela della salute pubblica individuati da leggi regionali e delle ARPA/APPA, assicurano che: 
+ 
+                        
+                        
+                            a)
+                            
+                                venga valutato il rischio per la salute a cui e' esposta la popolazione interessata; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                vengano adottati, ove necessario, provvedimenti correttivi volti a ridurre la concentrazione di radioattivita' nell'acqua destinata al consumo umano per renderla conforme ai requisiti del presente decreto; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                vengano adottate, ove necessario, misure cautelative a tutela della salute pubblica.
+
 Ai fini dell'elaborazione del programma di controllo delle acque destinate al consumo umano di cui al comma 1, le regioni e le province autonome effettuano le valutazioni preliminari di cui all'Allegato II avvalendosi delle aziende sanitarie locali, ovvero da altri enti pubblici competenti a svolgere controlli sulla salubrita' delle acque e sugli alimenti e bevande per scopi di tutela della salute pubblica individuati da leggi regionali, e delle ARPA/APPA. La pianificazione e le risultanze delle suddette valutazioni preliminari sono parte integrante del programma di controllo di cui al comma 1.
 
 ## Art. 5. — Valori di parametro 
  e punti in cui i valori devono essere rispettati
 
 I valori di parametro sono riportati nell'allegato I.
+
+2.
+                    
+                        
+                            I valori di parametro devono essere rispettati nei seguenti punti: 
+ 
+                        
+                        
+                            a)
+                            
+                                per le acque fornite attraverso una rete di distribuzione idrica nel punto in cui queste fuoriescono dai rubinetti; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                per le acque fornite da una cisterna, nel punto in cui fuoriescono dalla cisterna; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                per le acque confezionate in bottiglie o altri contenitori, nel punto in cui sono imbottigliate o introdotte nei contenitori; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                per le acque utilizzate nelle imprese alimentari, nel punto in cui sono utilizzate nell'impresa.
 
 La definizione dei punti di cui al comma 2 avviene fatta salva la scelta del punto di prelievo per il controllo dei parametri indicatori, che puo' essere un punto qualsiasi della rete di distribuzione idrica ovvero del sistema idropotabile, a condizione che non vi siano modifiche peggiorative della qualita' dell'acqua per quel che riguarda i valori di concentrazione di radioattivita' tra il punto di prelievo per il controllo e i punti in cui i valori di parametro devono essere rispettati. Nei casi di cui al comma 2, lettere b), c) e d), se l'acqua introdotta nelle cisterne, confezionata in bottiglie o altri contenitori, o utilizzata nelle imprese alimentari, proviene da una rete di distribuzione idrica, il controllo della radioattivita' puo' essere considerato assolto dal controllo sulla rete di distribuzione idrica di provenienza effettuato ai sensi del presente decreto, a condizione che i contenitori, le cisterne, i serbatoi di accumulo, le tubazioni, i raccordi, le guarnizioni, nonche' tutti i materiali utilizzati con cui l'acqua entra in contatto fino ai punti in cui i valori di parametro devono essere rispettati, non incrementino i valori di concentrazione di radioattivita' dell'acqua proveniente dalla rete di distribuzione idrica.
 
@@ -76,9 +245,70 @@ Per le acque confezionate in bottiglie o altri contenitori, sono fatti salvi i p
 
 Provvedimenti in caso di non conformita' dei parametri indicatori e informazione alla popolazione
 
+1.
+                    
+                        
+                            Le regioni e le province autonome assicurano che, nell'ambito dei controlli esterni, in caso di superamento come valore medio annuo di uno dei valori di parametro, le aziende sanitarie locali, ovvero gli altri enti pubblici competenti a svolgere controlli sulla salubrita' delle acque e sugli alimenti e bevande per scopi di tutela della salute pubblica individuati da leggi regionali, comunicano tale superamento al gestore e, avvalendosi delle ARPA/APPA: 
+ 
+                        
+                        
+                            a)
+                            
+                                valutano i rischi per la salute a cui e' esposta la popolazione interessata; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                esaminano, avvalendosi della collaborazione del gestore interessato, i dati relativi al superamento al fine di individuarne la causa; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                individuano, ove necessario, i provvedimenti correttivi e le misure cautelative di cui all'articolo 4, comma 4, lettere b) e c).
+
 Le azioni di cui al comma 1 vanno eseguite tempestivamente, tenendo conto dell'entita' del superamento dei valori di parametro, e comunque entro 6 mesi dal superamento del valore di parametro.
 
 Le regioni e le province autonome inviano tempestivamente, e comunque entro il termine di cui al comma 2, al Ministero della salute la documentazione relativa alla valutazione dei rischi per la salute di cui al comma 1, lettera a), le risultanze dell'esame di cui al comma 1, lettera b), nonche' le eventuali misure cautelative e i provvedimenti correttivi individuati ai sensi del comma 1, lettera c). Il Ministero della salute, avvalendosi della collaborazione dell'Istituto superiore di sanita', esamina la documentazione ricevuta ai sensi del presente comma e trasmette alla regione o provincia autonoma un parere entro 2 mesi dal ricevimento della predetta documentazione.
+
+4.
+                    
+                        
+                            Gli eventuali provvedimenti correttivi e le misure cautelative di cui al comma 1, lettera c), modificati per tener conto del parere del Ministero della salute di cui al comma 3, sono comunicati tempestivamente, e comunque non oltre 30 giorni dal ricevimento del parere del Ministero della salute di cui al comma 3, ai soggetti competenti per la loro attuazione che deve comunque avvenire non oltre 3 mesi dalla suddetta comunicazione. In particolare: 
+ 
+                        
+                        
+                            a)
+                            
+                                il sindaco adotta le misure cautelative a tutela della salute pubblica; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                il gestore attua i provvedimenti correttivi, al fine di garantire il ripristino della qualita' dell'acqua secondo i requisiti del presente decreto.
+
+5.
+                    
+                        
+                            Il sindaco, l'azienda sanitaria locale, ovvero l'altro ente pubblico competente a svolgere controlli sulla salubrita' delle acque e sugli alimenti e bevande per scopi di tutela della salute pubblica individuato da leggi regionali, e il gestore del servizio idrico integrato ovvero chi fornisce a terzi acqua destinata al consumo umano mediante una rete di distribuzione idrica oppure attraverso cisterne fisse o mobili, provvedono, ciascuno per quanto di propria competenza, a che la popolazione interessata: 
+ 
+                        
+                        
+                            a)
+                            
+                                sia tempestivamente e adeguatamente informata della valutazione del rischio di cui al comma 1, lettera a), nonche' degli eventuali provvedimenti correttivi e misure cautelative adottati; il gestore del servizio idrico integrato ovvero chi fornisce a terzi acqua destinata al consumo umano mediante una rete di distribuzione idrica oppure attraverso cisterne fisse o mobili informa gli utenti circa la situazione di non conformita' accertata e circa i provvedimenti correttivi attuati; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                sia consigliata su eventuali misure cautelative supplementari utili alla tutela della salute umana sotto il profilo della radioprotezione.
 
 Nell'ambito dei controlli interni, in caso di superamento di uno dei valori di parametro in un dato campione, il gestore, comunica tale superamento alla azienda sanitaria locale, ovvero all'altro ente pubblico competente a svolgere controlli sulla salubrita' delle acque e sugli alimenti e bevande per scopi di tutela della salute pubblica individuato da leggi regionali, entro 7 giorni dall'acquisizione del risultato della misura, al fine di procedere con le conseguenti valutazioni e gli eventuali interventi.
 

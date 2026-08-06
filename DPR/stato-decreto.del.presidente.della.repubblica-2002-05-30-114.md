@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: DPR
 vigenza_date: 2002-12-06
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:47:45Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -46,6 +46,137 @@ SULLA PROPOSTA del Presidente del Consiglio dei ministri e del Ministro per la f
 ## Art. 3. — Definizioni
 
 
+
+1.
+                        
+                            
+                                Ai fini del presente testo unico, se non diversamente ed espressamente indicato:
+
+                            
+                            
+                                a)
+                                
+                                    "magistrato" e' il giudice o il pubblico ministero, anche onorario, preposto alla funzione giurisdizionale sulla base di norme di legge e delle disposizioni dei codici di procedura penale e civile;
+                                
+                            
+                            
+                                b)
+                                
+                                    "magistrato professionale" e' il magistrato che ha uno stabile rapporto di servizio con l'amministrazione;
+                                
+                            
+                            
+                                c)
+                                
+                                    "magistrato onorario" e' il giudice di pace, il giudice onorario di tribunale, il vice procuratore onorario, il giudice onorario aggregato;
+                                
+                            
+                            
+                                d)
+                                
+                                    "giudice popolare" e' il componente non togato nei collegi di assise;
+                                
+                            
+                            
+                                e)
+                                
+                                    "esperto" e' il componente privato dell'ufficio giudiziario minorile, dell'ufficio giudiziario di sorveglianza, dell'ufficio giudiziario agrario;
+                                
+                            
+                            
+                                f)
+                                
+                                    "ufficio giudiziario" e' l'ufficio del magistrato competente secondo le norme di legge e le disposizioni dei codici di procedura penale e civile;
+                                
+                            
+                            
+                                g)
+                                
+                                    "ufficio" e' l'apparato della pubblica amministrazione strumentale all'ufficio giudiziario, con esclusione in ogni caso dell'ufficio finanziario;
+                                
+                            
+                            
+                                h)
+                                
+                                    "ufficio finanziario" e' l'ufficio dell'amministrazione finanziaria competente secondo l'organizzazione interna;
+                                
+                            
+                            
+                                i)
+                                
+                                    "funzionario addetto all'ufficio" e' la persona che svolge la funzione amministrativa secondo l'organizzazione interna;
+                                
+                            
+                            
+                                l)
+                                
+                                    "ufficiale giudiziario" e' la persona che svolge la funzione secondo l'organizzazione interna degli uffici notificazioni e protesti (UNEP);
+                                
+                            
+                            
+                                m)
+                                
+                                    "notificazione da parte dell'ufficiale giudiziario", ai fini delle spettanze degli ufficiali giudiziari, e' la trasmissione della notizia di un atto o la trasmissione di copia di un atto;
+                                
+                            
+                            
+                                n)
+                                
+                                    "ausiliario del magistrato" e' il perito, il consulente tecnico, l'interprete, il traduttore e qualunque altro soggetto competente, in una determinata arte o professione o comunque idoneo al compimento di atti, che il magistrato o il funzionario addetto all'ufficio puo' nominare a norma di legge;
+                                
+                            
+                            
+                                o)
+                                
+                                    "processo" e' qualunque procedimento contenzioso o non contenzioso di natura giurisdizionale;
+                                
+                            
+                            
+                                p)
+                                
+                                    "processo penale" e' il procedimento o processo penale e penale militare;
+                                
+                            
+                            
+                                q)
+                                
+                                    "amministrazione pubblica ammessa alla prenotazione a debito" e' l'amministrazione dello Stato, o altra amministrazione pubblica, ammessa da norme di legge alla prenotazione a debito di imposte o di spese a suo carico;
+                                
+                            
+                            
+                                r)
+                                
+                                    "annotazione" e' l'attivita' su supporto cartaceo o informatico per riportare il dato nei registri;
+                                
+                            
+                            
+                                s)
+                                
+                                    "prenotazione a debito" e' l'annotazione a futura memoria di una voce di spesa, per la quale non vi e' pagamento, ai fini dell'eventuale successivo recupero;
+                                
+                            
+                            
+                                t)
+                                
+                                    "anticipazione" e' il pagamento di una voce di spesa che, ricorrendo i presupposti previsti dalla legge, e' recuperabile;
+                                
+                            
+                            
+                                u)
+                                
+                                    "sanzione pecuniaria processuale" e' la somma dovuta sulla base delle norme del codice di procedura civile e del codice di procedura penale, recuperabile nelle forme previste per le spese;
+                                
+                            
+                            
+                                v)
+                                
+                                    "sanzione amministrativa pecuniaria" e' la sanzione pecuniaria, anche derivante da conversione della sanzione interdittiva, dovuta dalle persone giuridiche, dalle societa' e dalle associazioni anche prive di personalita' giuridica, ai sensi del decreto legislativo 8 giugno 2001, n. 231;
+                                
+                            
+                            
+                                z)
+                                
+                                    "concessionario" e' il soggetto incaricato ai sensi dell'articolo 4, del decreto legislativo 9 luglio 1997, n. 237.
 
 ## - Titolo II Disposizioni generali relative al processo penale
 
@@ -229,6 +360,31 @@ Alla notifica richiesta dall'amministrazione pubblica ammessa alla prenotazione 
 
 Al fine di conseguire la riduzione delle spese per la comunicazione e notificazione di atti e per la trasmissione di documenti, possono essere stipulate apposite convenzioni con le imprese private o i soggetti pubblici operanti nel settore, scelti secondo la vigente normativa sull'evidenza pubblica. Le convenzioni sono approvate con decreto del Ministero della giustizia, di concerto con il Ministero dell'economia e delle finanze.
 
+2.
+                        
+                            
+                                Nella convenzione, che puo' prevedere differenziazioni a livello territoriale, sono stabiliti, in particolare :
+ 
+                            
+                            
+                                a)
+                                
+                                    i compensi, anche forfettizzati;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le modalita' e le cadenze temporali del pagamento dei compensi;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    le penalita' per l'inosservanza degli obblighi.
+
 ## - Titolo IV Diritto di copia e diritto di certificato
 
 ## Art. 40. — Determinazione di nuovi supporti e degli importi
@@ -329,6 +485,31 @@ Al commissario ad acta si applica la disciplina degli ausiliari del magistrato, 
 
 Al fine di conseguire la riduzione delle spese di pubblicazione dei provvedimenti del magistrato nel processo penale e civile, possono essere stipulate apposite convenzioni con le imprese private o i soggetti pubblici operanti nel settore, scelti secondo la vigente normativa sull'evidenza pubblica.
  Le convenzioni sono approvate con decreto del Ministero della giustizia, di concerto con il Ministero dell'economia e delle finanze.
+
+2.
+                        
+                            
+                                Nella convenzione, che puo' prevedere differenziazioni al livello territoriale, sono stabiliti, in particolare:
+ 
+                            
+                            
+                                a)
+                                
+                                    i compensi, anche forfettizzati;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le modalita' e le cadenze temporali del pagamento dei compensi;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    le penalita' per l'inosservanza degli obblighi.
 
 ## - Titolo X Demolizione di opere abusive e riduzione in pristino dei luoghi nel processo penale e amministrativo
 
@@ -807,6 +988,39 @@ Con apposita convenzione con i concessionari, da approvarsi con decreto del Mini
 
 
 
+1.
+                        
+                            
+                                Le spese anticipate dall'erario nella procedura di vendita di beni confiscati sono:
+ 
+                            
+                            
+                                a)
+                                
+                                    le spese di spedizione o l'indennita' di trasferta degli ufficiali giudiziari per le notificazioni
+ civili a richiesta d'ufficio;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le spese ed onorari agli ausiliari del magistrato;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    l'indennita' di custodia;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    le spese per gli strumenti di pubblicita' legale dei provvedimenti del magistrato.
+
 ## - Titolo IV Spese processuali della procedura esecutiva attivata dal concessionario per la riscossione delle entrate iscritte a ruolo
 
 ## Art. 157. — Spese processuali della procedura esecutiva attivata dal concessionario per la riscossione delle entrate iscritte a ruolo
@@ -838,6 +1052,31 @@ Nel caso di compensazione delle spese, se la registrazione e' chiesta dall'ammin
 ## Art. 161. — Elenco registri
 
 
+
+1.
+                        
+                            
+                                Presso gli uffici che svolgono le relative funzioni sono tenuti i seguenti registri:
+ 
+                            
+                            
+                                a)
+                                
+                                    registro delle spese pagate dall'erario;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    registro delle spese prenotate a debito;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    registro dei crediti da recuperare e delle successive vicende del credito.
 
 ## Art. 162. — Attivita' dell'ufficio
 
@@ -933,6 +1172,67 @@ E' ammesso l'accreditamento sul conto corrente bancario o postale intestato a so
 
 
 
+1.
+                        
+                            
+                                Per ciascun ordine o decreto di pagamento emesso, l'ufficio che dispone il pagamento compila l'apposito modello, con i seguenti dati:
+
+                            
+                            
+                                a)
+                                
+                                    il numero d'iscrizione nel registro delle spese pagate
+dall'erario;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    i dati anagrafici e il codice fiscale del beneficiario se persona fisica, ovvero la denominazione, la sede, il codice fiscale e i dati identificativi del legale rappresentante se persona giuridica o ente;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    gli estremi della fattura qualora il beneficiario sia soggetto all'imposta sul valore aggiunto;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    l'indicazione dell'importo lordo, delle ritenute da operare, dell'ammontare delle imposte dovute e dell'importo netto;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    le coordinate bancarie del conto corrente ovvero il numero di conto corrente postale sul quale effettuare l'accreditamento;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    gli estremi dell'eventuale delega per l'accreditamento, se il conto corrente e' intestato a soggetto diverso dal beneficiario;
+
+                                
+                            
+                            
+                                g)
+                                
+                                    gli estremi dell'eventuale delega per il pagamento a soggetto diverso dal beneficiario;
+
+                                
+                            
+                            
+                                h)
+                                
+                                    il timbro con la data dell'ufficio che dispone il pagamento e la sottoscrizione del funzionario addetto.
+
 Il modello di pagamento e' conforme agli allegati n. 2 e n. 3 del presente testo unico e ha appositi spazi per la quietanza del beneficiario e per l'indicazione degli estremi dell'accreditamento.
 
 Entro un mese dall'emissione dell'ordine o decreto di pagamento, il modello e' trasmesso al competente concessionario in duplice copia, ovvero al competente ufficio postale in unico esemplare, nonche' al beneficiario, per il quale, solo in caso di pagamento in contanti, assume valore di avviso di pagamento. Entro lo stesso termine l'ufficio trasmette copia della documentazione relativa ai singoli modelli di pagamento al funzionario delegato.
@@ -984,6 +1284,39 @@ Il concessionario allega copia del modello di pagamento al proprio conto giudizi
 
 
 Il concessionario e la filiale di Poste Italiane S.p.a. compilano un prospetto riepilogativo dei pagamenti su apposito modello, conforme agli allegati numeri 4 e 5 del presente testo unico.
+
+2.
+                        
+                            
+                                Il modello, riferito a ciascun ufficio che ha disposto i pagamenti, contiene i seguenti dati:
+ 
+                            
+                            
+                                a)
+                                
+                                    i pagamenti eseguiti nel mese precedente in ordine cronologico;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    i mancati accreditamenti, specificando se gia' risultano come
+pagamenti nei prospetti precedenti;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    i mancati pagamenti in contanti per decorso del termine di decadenza;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    la sottoscrizione del funzionario addetto.
 
 Il modello compilato dal concessionario contiene, inoltre, in corrispondenza di ogni singolo pagamento, l'importo dei compensi trattenuti, la descrizione dei capitoli ed articoli d'entrata ai quali erano destinate le somme utilizzate per effettuare i pagamenti e per l'attribuzione del compenso, il totale di ciascun capitolo e articolo.
 
@@ -1047,6 +1380,31 @@ Le somme indebitamente pagate ascrivibili a responsabilita' del concessionario o
 
 I rapporti con le Poste Italiane S.p.a. per i pagamenti effettuati sono regolati da convenzione approvata con decreto del Ministero dell'economia e delle finanze di concerto con il Ministero della giustizia.
 
+2.
+                        
+                            
+                                Nella convenzione sono stabiliti, in particolare:
+ 
+                            
+                            
+                                a)
+                                
+                                    i compensi, anche forfettizzati, compresi quelli relativi ai pagamenti effettuati dal 1999;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le modalita' e la cadenza temporale del pagamento dei compensi;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    le penalita' per l'inosservanza degli obblighi.
+
 ## Art. 190. — Determinazione delle regole tecniche telematiche
 
 
@@ -1063,15 +1421,97 @@ Con decreto dirigenziale del Ministero della giustizia, di concerto con la Presi
 
 
 
+1.
+                        
+                            
+                                Il contributo unificato e' corrisposto mediante:
+ 
+                            
+                            
+                                a)
+                                
+                                    versamento ai concessionari;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    versamento in conto corrente postale intestato alla sezione di tesoreria provinciale dello Stato;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    versamento presso le rivendite di generi di monopolio e di valori bollati.
+
 ## Art. 193. — Convenzioni per il pagamento presso le rivendite di generi di monopolio
 
 
 
 I rapporti tra le rivendite di generi di monopolio e di valori bollati e il Ministero dell'economia e delle finanze sono regolati da apposita convenzione, da approvarsi con decreto del Ministero dell'economia e delle finanze, di concerto con il Ministero della giustizia.
 
+2.
+                        
+                            
+                                Con la convenzione sono stabiliti:
+ 
+                            
+                            
+                                a)
+                                
+                                    i compensi spettanti agli intermediari;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le modalita' operative del versamento e del riversamento delle somme;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    le caratteristiche del contrassegno di cui all'articolo 194, comma 3;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    le penalita' a carico dell'intermediario per l'inosservanza degli obblighi convenzionali.
+
 ## Art. 194. — Ricevuta di versamento
 
 
+
+1.
+                        
+                            
+                                La ricevuta del versamento contiene, a titolo di causale:
+ 
+                            
+                            
+                                a)
+                                
+                                    l'ufficio giudiziario adito;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le generalita' e il codice fiscale dell'attore o ricorrente;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    le generalita' delle altre parti.
 
 In caso di pluralita' di convenuti o resistenti e' indicato per esteso il nominativo del primo dei medesimi recato dall'atto introduttivo del processo ed il numero in cifra dei restanti.
 

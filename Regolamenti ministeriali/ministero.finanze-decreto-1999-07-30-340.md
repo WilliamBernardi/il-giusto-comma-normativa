@@ -8,8 +8,8 @@ codice_redazionale: 099G0413
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:38Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -22,6 +22,31 @@ Entrata in vigore del decreto: 1/11/1999
 Udito il parere del Consiglio di Stato espresso nell'adunanza della sezione consultiva per gli atti normativi del 24 maggio 1999;
 
 ## Art. 1. — Operazioni imponibili
+
+1.
+                    
+                        
+                            Le operazioni effettuate dalle agenzie di viaggio e turismo per l'organizzazione di pacchetti turistici costituiti, ai sensi dell'articolo 2 del decreto legislativo 17 marzo 1995, n. 111, da viaggi, vacanze, circuiti tutto compreso e connessi servizi, manifestazioni, convegni e simili, verso il pagamento di un corrispettivo globale, sono considerate come una prestazione di servizi unica soggetta all'imposta sul valore aggiunto se eseguita nel territorio dell'Unione europea. Si intende per pacchetto turistico la combinazione di almeno due degli elementi di seguito indicati, purche' la durata sia superiore alle ventiquattro ore, ovvero si estenda per un periodo di tempo comprendente almeno una notte: 
+ 
+                        
+                        
+                            a)
+                            
+                                trasporto; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                alloggio; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                servizi turistici non accessori al trasporto o all'alloggio, che costituiscono parte significativa del pacchetto turistico.
 
 Le disposizioni di cui al comma 1 si applicano anche qualora le suddette prestazioni siano rese dalle agenzie di viaggio e turismo tramite mandatari.
 
@@ -82,6 +107,38 @@ Le fatture e gli altri documenti di acquisto debbono essere distintamente annota
 Se l'agenzia effettua anche le prestazioni di cui al comma 5 dell'articolo 1, i relativi costi vanno annotati, distinguendo quelli che riguardano cessioni e prestazioni di terzi effettuate all'interno della Unione europea da quelli relativi a cessioni e prestazioni di terzi effettuate al di fuori dell'Unione stessa.
 
 ## Art. 6. — Liquidazioni e versamenti
+
+1.
+                    
+                        
+                            L'imposta da liquidare e versare periodicamente ai sensi degli articoli 27 e 33 del decreto del Presidente della Repubblica 26 ottobre 1972, n. 633, e' calcolata con le seguenti modalita':
+ 
+                        
+                        
+                            a)
+                            
+                                dall'ammontare dei corrispettivi relativi alle operazioni imponibili diventate esigibili nel mese precedente si deduce l'ammontare dei costi al lordo dell'imposta, registrati nello stesso periodo, relativi a cessioni di beni e prestazioni di servizi effettuate da terzi a diretto vantaggio del viaggiatore dell'agenzia, all'interno della Unione europea. Per l'agenzia di viaggio e turismo che agisce in nome e per conto proprio e per il mandatario senza rappresentanza, l'importo da dedurre e' costituito dal corrispettivo relativo alle prestazioni effettuate all'interno della Unione europea cosi' come indicato nella fattura di cui al comma 5 dell'articolo 4;
+
+                            
+                        
+                        
+                            b)
+                            
+                                sulla differenza di cui alla lettera a), diminuita della percentuale di cui all'articolo 27, quarto comma, del decreto del Presidente della Repubblica 26 ottobre 1972, n. 633, si applica l'aliquota ordinaria;
+
+                            
+                        
+                        
+                            c)
+                            
+                                dall'ammontare dell'imposta che ne risulta, si detrae, con le limitazioni di cui all'articolo 19-bis 1 del decreto del Presidente della Repubblica 26 ottobre 1972, n. 633, e successive modificazioni e integrazioni, l'ammontare dell'imposta assolta o dovuta dall'agenzia o ad essa addebitata a titolo di rivalsa in relazione ai beni ed ai servizi, diversi da quelli forniti da terzi a diretto vantaggio del viaggiatore, importati o acquistati nell'esercizio dell'impresa;
+
+                            
+                        
+                        
+                            d)
+                            
+                                se l'ammontare dei costi di cui alla lettera a), risulta superiore all'ammontare dei corrispettivi relativi alle operazioni imponibili, l'importo dell'eccedenza e' computato in aumento dei costi registrati nel mese o trimestre successivo. Se tale eccedenza risulta dalla dichiarazione annuale, il relativo importo e' computato nelle liquidazioni periodiche relative all'anno successivo.
 
 ## Art. 7. — Fatturazione e registrazione delle prestazioni
  di intermediazione

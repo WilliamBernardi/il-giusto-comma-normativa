@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
 vigenza_date: 2017-08-15
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:28Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -41,7 +41,43 @@ L'articolo 2 del regio decreto 30 gennaio 1941, n. 12 e' sostituito dal seguente
 
 ## Art. 3.
 
+1.
+                        
+                            
+                                L'articolo 3 del regio decreto 30 gennaio 1941, n. 12 e' cosi' modificato:
+ 
+                            
+                            
+                                a)
+                                
+                                    nel primo comma, le parole ", pretura" sono soppresse;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    nel secondo comma, le parole "Alle corti, ai tribunali ed alle preture" sono sostituite dalle parole "Alle corti e ai tribunali".
+
 ## Art. 4.
+
+1.
+                        
+                            
+                                L'articolo 4 del regio decreto 30 gennaio 1941, n. 12 e' cosi' modificato:
+ 
+                            
+                            
+                                a)
+                                
+                                    nel primo comma, le parole "delle preture," sono soppresse;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    nel secondo comma, le parole "i vice pretori" sono sostituite dalle parole "i giudici onorari di tribunale".
 
 ## Art. 5.
 
@@ -49,6 +85,25 @@ Il primo comma dell'articolo 7-bis del regio decreto 30 gennaio 1941, n. 12 e' s
  "La ripartizione degli uffici giudiziari di cui all'articolo 1 in sezioni, la destinazione dei singoli magistrati alle sezioni e alle corti di assise, l'assegnazione alle sezioni dei presidenti, la designazione dei magistrati che hanno la direzione di sezioni a norma dell'articolo 47-bis, secondo comma, l'attribuzione degli incarichi di cui agli articoli 47-ter, terzo comma, 47-quater, secondo comma, e 50-bis, il conferimento delle specifiche attribuzioni processuali individuate dalla legge e la formazione dei collegi giudicanti sono stabiliti ogni biennio con decreto del Ministro di grazia e giustizia in conformita' delle deliberazioni del Consiglio superiore della magistratura assunte sulle proposte dei presidenti delle corti di appello, sentiti i consigli giudiziari. Decorso il biennio, l'efficacia del decreto e' prorogata fino a che non sopravvenga un altro decreto.".
 
 ## Art. 6.
+
+1.
+                        
+                            
+                                L'articolo 7-ter del regio decreto 30 gennaio 1941, n. 12 e' cosi' modificato:
+ 
+                            
+                            
+                                a)
+                                
+                                    il secondo periodo del primo comma e' sostituito dal seguente: "Nel determinare i criteri per l'assegnazione degli affari penali al giudice per le indagini preliminari, il Consiglio superiore della magistratura stabilisce la concentrazione, ove possibile, in capo allo stesso giudice dei provvedimenti relativi al medesimo procedimento e la designazione di un giudice diverso per lo svolgimento delle funzioni di giudice dell'udienza preliminare.";
+
+                                
+                            
+                            
+                                b)
+                                
+                                    dopo il secondo comma e' aggiunto il seguente:
+ "Il Consiglio superiore della magistratura determina i criteri generali per l'organizzazione degli uffici del pubblico ministero e per l'eventuale ripartizione di essi in gruppi di lavoro.".
 
 ## Art. 7.
 
@@ -309,11 +364,54 @@ In deroga al disposto dell'articolo 2, terzo comma, del regio decreto legislativ
 
 Entro un anno dalla data di efficacia delle disposizioni del presente decreto, i magistrati gia' titolari dei posti indicati nel comma 1 possono chiedere, in deroga al disposto dell'articolo 194 del regio decreto 30 gennaio 1941, n. 12, l'assegnazione a posti vacanti pubblicati. Nell'assegnazione dei posti vacanti di presidente di tribunale ordinario, presidente di sezione di tribunale ordinario, procuratore della Repubblica e procuratore aggiunto della Repubblica presso il tribunale ordinario, sono particolarmente valutate le attitudini allo svolgimento di funzioni direttive dimostrate nell'esercizio delle precedenti funzioni.
 
+3.
+                        
+                            
+                                Nel medesimo termine indicato nel comma 2, i magistrati gia' titolari dei posti indicati nel comma 1 possono chiedere altresi', eventualmente subordinando gli effetti della domanda al mancato conferimento di un posto richiesto a norma del comma 2, di essere destinati all'esercizio di una delle seguenti funzioni, anche in soprannumero riassorbibile con le successive vacanze:
+ 
+                            
+                            
+                                a)
+                                
+                                    consigliere di corte di cassazione, limitatamente ai magistrati titolari dei posti soppressi indicati nell'articolo 33, comma 2;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    consigliere di corte di appello nel distretto da essi scelto;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    giudice di tribunale o sostituto procuratore della Repubblica in una sede da essi scelta.
+
 I magistrati gia' titolari dei posti indicati nel comma 1 che nel termine perentorio previsto non hanno richiesto l'assegnazione a norma del comma 2 o la destinazione a norma del comma 3, sono destinati di ufficio ad esercitare le funzioni di giudice di tribunale o di sostituto procuratore della Repubblica negli uffici cui sono state trasferite le funzioni degli uffici soppressi, o, se si tratta di magistrati gia' titolari di posti di presidente di sezione di tribunale, presso lo stesso ufficio in cui esercitavano le loro funzioni. La stessa disposizione si applica a coloro che non hanno ottenuto l'assegnazione a norma del comma 2 e che non hanno richiesto la destinazione a norma del comma 3.
 
 Le eventuali nuove destinazioni sono considerate come trasferimenti a domanda a tutti gli effetti e, in particolare, agli effetti previsti dall'articolo 13 della legge 2 aprile 1979, n. 97, come sostituito dall'articolo 6 della legge 19 febbraio 1981, n. 27, salvo quanto previsto dall'articolo 34, comma 2, secondo periodo, del presente decreto.
 
 ((
+
+6.
+                        
+                            
+                                In deroga all'articolo 194 del regio decreto 30 gennaio 1941, n. 12, i magistrati indicati nel comma 1 possono chiedere di essere trasferiti ad altre sedi o assegnati ad altre funzioni:
+ 
+                            
+                            
+                                a)
+                                
+                                    trascorsi due anni dal giorno dell'inizio effettivo dell'attivita' nell'ufficio al quale sono stati destinati, se assegnati a funzioni direttive a norma del comma 2;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    senza l'osservanza di alcun termine, se assegnati ad altre sedi o destinati ad altre funzioni a norma dei commi 2, 3 e 4, fuori del caso previsto dalla lettera a) del presente comma.
 
 ))
 
@@ -582,6 +680,25 @@ L'articolo 341 del codice di procedura civile e' sostituito dal seguente:
 
 ## Art. 74.
 
+1.
+                        
+                            
+                                L'articolo 350 del codice di procedura civile e' cosi' modificato:
+ 
+                            
+                            
+                                a)
+                                
+                                    il primo comma e' sostituito dal seguente:
+ "Davanti alla corte di appello la trattazione dell'appello e' collegiale; davanti al tribunale l'appello e' trattato e deciso dal giudice monocratico.";
+
+                                
+                            
+                            
+                                b)
+                                
+                                    nel secondo e nel terzo comma, la parola "collegio" e' sostituita dalla parola "giudice".
+
 ## Art. 75.
 
 L'articolo 351 del codice di procedura civile e' sostituito dal seguente:
@@ -640,7 +757,45 @@ Negli articoli 433, primo comma, 434, secondo comma, 435, primo comma, e 439 del
 
 ## Art. 86.
 
+1.
+                        
+                            
+                                L'articolo 444 del codice di procedura civile e' cosi' modificato:
+ 
+                            
+                            
+                                a)
+                                
+                                    il primo comma e' sostituito dal seguente:
+ "Le controversie in materia di previdenza e di assistenza obbligatorie indicate nell'articolo 442 sono di competenza del tribunale, in funzione di giudice del lavoro, nella cui circoscrizione ha la residenza l'attore.";
+
+                                
+                            
+                            
+                                b)
+                                
+                                    nel secondo e nel terzo comma la parola "pretore" e' sostituita dalla parola "tribunale".
+
 ## Art. 87.
+
+1.
+                        
+                            
+                                L'articolo 447-bis del codice di procedura civile e' cosi' modificato:
+ 
+                            
+                            
+                                a)
+                                
+                                    il primo comma e' sostituito dal seguente:
+ "Le controversie in materia di locazione e di comodato di immobili urbani e quelle di affitto di aziende sono disciplinate dagli articoli 414, 415, 416, 417, 418, 419, 420, 421, primo comma, 422, 423, primo e terzo comma, 424, 425, 426, 427, 428, 429, primo e secondo comma, 430, 433, 434, 435, 436, 437, 438, 439, 440, 441, in quanto applicabili.";
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il primo periodo del secondo comma e' soppresso.
 
 ## - Capo III Disposizioni sul processo di esecuzione
 
@@ -655,6 +810,25 @@ L'articolo 483 del codice di procedura civile e' sostituito dal seguente:
  Se e' iniziata anche l'esecuzione immobiliare, l'ordinanza e' pronunciata dal giudice di quest'ultima.".
 
 ## Art. 90.
+
+1.
+                        
+                            
+                                L'articolo 484 del codice di procedura civile e' cosi' modificato:
+ 
+                            
+                            
+                                a)
+                                
+                                    il secondo comma e' sostituito dal seguente:
+ "La nomina del giudice dell'esecuzione e' fatta dal presidente del tribunale, su presentazione a cura del cancelliere del fascicolo entro due giorni dalla sua formazione.";
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il terzo comma e' abrogato.
 
 ## Art. 91.
 
@@ -678,7 +852,51 @@ Nel primo comma dell'articolo 520 del codice di procedura civile le parole "dell
 
 ## Art. 96.
 
+1.
+                        
+                            
+                                L'articolo 543 del codice di procedura civile e' cosi' modificato:
+ 
+                            
+                            
+                                a)
+                                
+                                    nel n. 3 del secondo comma, la parola "pretore" e' sostituita dalla parola "tribunale";
+
+                                
+                            
+                            
+                                b)
+                                
+                                    nel n. 4 del secondo comma, la parola "pretore" e' sostituita dalle parole "giudice dell'esecuzione";
+
+                                
+                            
+                            
+                                c)
+                                
+                                    nel quarto comma, le parole "della pretura" sono sostituite dalle parole "del tribunale".
+
 ## Art. 97.
+
+1.
+                        
+                            
+                                L'articolo 545 del codice di procedura civile e' cosi' modificato:
+ 
+                            
+                            
+                                a)
+                                
+                                    il primo comma e' sostituito dal seguente:
+ "Non possono essere pignorati i crediti alimentari, tranne che per cause di alimenti, e sempre con l'autorizzazione del presidente del tribunale o di un giudice da lui delegato e per la parte dal medesimo determinata mediante decreto.";
+
+                                
+                            
+                            
+                                b)
+                                
+                                    nel terzo comma le parole "dal pretore" sono sostituite dalle parole "dal presidente del tribunale o da un giudice da lui delegato".
 
 ## Art. 98.
 
@@ -724,6 +942,24 @@ Negli articoli 661, 668, terzo comma, 669-quater, terzo comma, 678, primo comma,
 
 ## Art. 107.
 
+1.
+                        
+                            
+                                L'articolo 669-ter del codice di procedura civile e' cosi' modificato:
+ 
+                            
+                            
+                                a)
+                                
+                                    nel secondo comma, la parola "pretore" e' sostituita dalla parola "tribunale";
+
+                                
+                            
+                            
+                                b)
+                                
+                                    nel quarto comma, le parole "o al pretore dirigente" sono soppresse.
+
 ## Art. 108.
 
 Nel secondo comma dell'articolo 669-terdecies del codice di procedura civile le parole "contro i provvedimenti del pretore si propone al tribunale, quello" sono soppresse.
@@ -739,11 +975,55 @@ Negli articoli 733, primo comma, 753, secondo comma, 765, secondo comma, 769, pr
 
 ## Art. 111.
 
+1.
+                        
+                            
+                                L'articolo 746 del codice di procedura civile e' cosi' modificato:
+ 
+                            
+                            
+                                a)
+                                
+                                    nel secondo periodo, le parole "al pretore del mandamento nel quale" sono sostituite dalle parole "al tribunale nella cui circoscrizione";
+
+                                
+                            
+                            
+                                b)
+                                
+                                    nel terzo periodo, la parola "pretore" e' sostituita dalla parola "giudice".
+
 ## Art. 112.
 
 Nel primo comma dell'articolo 747 del codice di procedura civile le parole "per i mobili al pretore e per gli immobili" sono soppresse.
 
 ## Art. 113.
+
+1.
+                        
+                            
+                                L'articolo 749 del codice di procedura civile e' cosi' modificato:
+ 
+                            
+                            
+                                a)
+                                
+                                    nel primo comma la parola "pretore" e' sostituita dalla parola "tribunale";
+
+                                
+                            
+                            
+                                b)
+                                
+                                    nel secondo comma la parola "pretore" e' sostituita dalla parola "giudice";
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il terzo comma e' sostituito dal seguente:
+ "Il giudice provvede con ordinanza, contro la quale e' ammesso reclamo al tribunale in composizione collegiale a norma dell'articolo 739. Il collegio, del quale non puo' far parte il giudice che ha emesso il provvedimento reclamato, provvede con ordinanza non impugnabile in camera di consiglio, previa audizione degli interessati a norma del comma precedente".
 
 ## Art. 114.
 
@@ -752,7 +1032,59 @@ Il primo comma dell'articolo 778 del codice di procedura civile e' sostituito da
 
 ## Art. 115.
 
+1.
+                        
+                            
+                                L'articolo 779 del codice di procedura civile e' cosi' modificato:
+ 
+                            
+                            
+                                a)
+                                
+                                    nel secondo comma la parola "pretore" e' sostituita dalla parola "giudice";
+
+                                
+                            
+                            
+                                b)
+                                
+                                    nel terzo comma, e' soppresso il primo periodo;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il quinto comma e' sostituito dal seguente:
+ "Se l'erede contesta l'esistenza delle condizioni previste nell'articolo 509 del codice civile il giudice provvede all'istruzione della causa, a norma del libro secondo, disponendo gli opportuni mezzi conservativi, compresa eventualmente la nomina del curatore.".
+
 ## Art. 116.
+
+1.
+                        
+                            
+                                L'articolo 825 del codice di procedura civile e' cosi' modificato:
+ 
+                            
+                            
+                                a)
+                                
+                                    nel secondo comma, la parola "pretura" e' sostituita dalla parola "tribunale";
+
+                                
+                            
+                            
+                                b)
+                                
+                                    nel terzo comma e quarto comma, la parola "pretore" e' sostituita dalla parola "tribunale";
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il quinto comma e' sostituito dal seguente:
+ "Contro il decreto che nega l'esecutorieta' del lodo e' ammesso reclamo, entro trenta giorni dalla comunicazione, mediante ricorso al tribunale in composizione collegiale, del quale non puo' far parte il giudice che ha emesso il provvedimento reclamato; il collegio, sentite le parti, provvede in camera di consiglio con ordinanza non impugnabile.".
 
 ## - Titolo II DISPOSIZIONI SUL PROCESSO CIVILE Capo V Modifiche alle disposizioni per l'attuazione del codice di procedura civile
 
@@ -781,6 +1113,24 @@ Il primo comma dell'articolo 56 delle disposizioni per l'attuazione del codice d
  "Dopo il deposito in cancelleria dell'atto introduttivo del giudizio a norma dell'articolo 319 del codice o, in mancanza, il giorno stesso dell'udienza fissata a norma dell'articolo 316 del codice, su presentazione da parte del cancelliere dell'atto, il capo dell'ufficio del giudice di pace designa il magistrato che viene incaricato dell'istruzione della causa.".
 
 ## Art. 122.
+
+1.
+                        
+                            
+                                L'articolo 57 delle disposizioni per l'attuazione del codice di procedura civile e' cosi' modificato:
+ 
+                            
+                            
+                                a)
+                                
+                                    nel primo comma, le parole "nell'articolo 312" sono sostituite dalle parole "nell'articolo 316";
+
+                                
+                            
+                            
+                                b)
+                                
+                                    nel secondo comma, le parole "il pretore o" sono soppresse.
 
 ## Art. 123.
 
@@ -859,6 +1209,24 @@ Quando e' stato proposto appello al tribunale da una delle parti a norma della d
 
 ## Art. 135.
 
+1.
+                        
+                            
+                                I procedimenti pendenti davanti al tribunale alla data di efficacia del presente decreto legislativo sono definiti:
+ 
+                            
+                            
+                                a)
+                                
+                                    dal tribunale sulla base delle disposizioni anteriormente vigenti, se si tratta di giudizi di appello ovvero se, alla predetta data, sono gia' state precisate le conclusioni o la causa e' stata comunque ritenuta in decisione;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    dal tribunale sulla base delle disposizioni introdotte dal presente decreto, in ogni altro caso; la composizione del tribunale resta tuttavia regolata dalle disposizioni anteriormente vigenti.
+
 ## Art. 136.
 
 In tutti i casi previsti dal presente capo restano comunque ferme le preclusioni e le decadenze gia' verificatesi e la validita' degli atti compiuti.
@@ -876,6 +1244,24 @@ Il secondo e il terzo comma dell'articolo 100 del codice civile sono sostituiti 
 Nell'articolo 254, primo comma, del codice civile le parole "o davanti al giudice tutelare" sono soppresse.
 
 ## Art. 139.
+
+1.
+                        
+                            
+                                L'articolo 343 del codice civile e' cosi' modificato:
+ 
+                            
+                            
+                                a)
+                                
+                                    nel primo comma, le parole "la pretura del mandamento" sono sostituite dalle parole "il tribunale del circondario";
+
+                                
+                            
+                            
+                                b)
+                                
+                                    nel secondo comma, la parola "mandamento" e' sostituita dalla parola "circondario".
 
 ## Art. 140.
 
@@ -946,6 +1332,25 @@ Nella sezione II del capo I delle disposizioni per l'attuazione del codice civil
 
 ## Art. 154.
 
+1.
+                        
+                            
+                                L'articolo 52 delle disposizioni per l'attuazione del codice civile e' cosi' modificato:
+ 
+                            
+                            
+                                a)
+                                
+                                    il primo comma e' sostituito dal seguente:
+ "Presso la cancelleria di ogni tribunale e' tenuto, a cura del cancelliere, il registro delle successioni.";
+
+                                
+                            
+                            
+                                b)
+                                
+                                    nel secondo comma, la parola "pretore" e' sostituita dalla parola "tribunale".
+
 ## Art. 155.
 
 Nell'articolo 53, primo comma, delle disposizioni per l'attuazione del codice civile la parola "pretore" e' sostituita dalla parola "cancelliere".
@@ -990,6 +1395,24 @@ Il primo comma dell'articolo 75 del nuovo testo della legge generale sui libri f
  "Presso ogni tribunale e sezione distaccata di tribunale e' costituito un ufficio tavolare, incaricato della conservazione dei libri fondiari, cui e' preposto un giudice designato dal presidente del tribunale.".
 
 ## Art. 164.
+
+1.
+                        
+                            
+                                L'articolo 126 del nuovo testo della legge generale sui libri fondiari allegato al regio decreto 28 marzo 1929, n. 499 e' cosi' modificato:
+ 
+                            
+                            
+                                a)
+                                
+                                    nel secondo comma, dopo la parola "tribunale" sono inserite le parole "in composizione collegiale, del quale non puo' far parte il giudice che ha emesso il provvedimento reclamato";
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il terzo comma e' abrogato.
 
 ## Art. 165.
 
@@ -1087,6 +1510,25 @@ Nella lettera a) del comma 1 dell'articolo 51 del codice di procedura penale le 
 
 ## Art. 176.
 
+1.
+                        
+                            
+                                L'articolo 52 del codice di procedura penale e' cosi' modificato:
+ 
+                            
+                            
+                                a)
+                                
+                                    nei commi 2 e 4, le parole "il procuratore della Repubblica presso la pretura," e "del procuratore della Repubblica presso la pretura," sono rispettivamente soppresse;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il comma 3 e' sostituito dal seguente:
+ "3. Sulla dichiarazione di astensione del procuratore della Repubblica presso il tribunale e del procuratore generale presso la corte di appello decidono, rispettivamente, il procuratore generale presso la corte di appello e il procuratore generale presso la corte di cassazione".
+
 ## - Capo IV Disposizioni relative agli atti
 
 ## Art. 177.
@@ -1171,6 +1613,24 @@ Nella lettera d) del comma 1 dell'articolo 555 del codice di procedura penale le
 
 ## Art. 193.
 
+1.
+                        
+                            
+                                L'articolo 558 del codice di procedura penale e' cosi' modificato:
+ 
+                            
+                            
+                                a)
+                                
+                                    la rubrica e' sostituita dalla seguente: "(Trasmissione degli atti al giudice del dibattimento)";
+
+                                
+                            
+                            
+                                b)
+                                
+                                    nei commi 1 e 3 la parola "pretore" e' sostituita dalla parola "giudice".
+
 ## Art. 194.
 
 Nel comma 1 dell'articolo 559 del codice di procedura penale la parola "pretore" e' sostituita dalla parola "giudice".
@@ -1181,6 +1641,25 @@ Nel comma 1 dell'articolo 562 del codice di procedura penale la parola "pretore"
 
 ## Art. 196.
 
+1.
+                        
+                            
+                                L'articolo 563 del codice di procedura penale e' cosi' modificato:
+ 
+                            
+                            
+                                a)
+                                
+                                    il comma 1 e' sostituito dal seguente:
+ "1. Si osservano le disposizioni del titolo II del libro VI, in quanto applicabili.";
+
+                                
+                            
+                            
+                                b)
+                                
+                                    nel comma 4 la parola "pretore" e' sostituita dalla parola "giudice".
+
 ## Art. 197.
 
 Il comma 1 dell'articolo 565 del codice di procedura penale e' sostituito dal seguente:
@@ -1188,7 +1667,50 @@ Il comma 1 dell'articolo 565 del codice di procedura penale e' sostituito dal se
 
 ## Art. 198.
 
+1.
+                        
+                            
+                                L'articolo 566 del codice di procedura penale e' cosi' modificato:
+ 
+                            
+                            
+                                a)
+                                
+                                    nel comma 1 la parola "pretore" e' sostituita dalle parole "giudice del dibattimento";
+
+                                
+                            
+                            
+                                b)
+                                
+                                    nei commi 2, 3, 4, 5 e 8 la parola "pretore" e' sostituita dalla parola "giudice".
+
 ## Art. 199.
+
+1.
+                        
+                            
+                                L'articolo 567 del codice di procedura penale e' cosi' modificato:
+ 
+                            
+                            
+                                a)
+                                
+                                    nel comma 1 le parole "stabilite per il procedimento davanti al tribunale" sono sostituite dalle parole "previste dai titoli II e III del libro VII";
+
+                                
+                            
+                            
+                                b)
+                                
+                                    nei commi 4 e 5 la parola "pretore" e' sostituita dalla parola "giudice";
+
+                                
+                            
+                            
+                                c)
+                                
+                                    nel comma 6 la parola "pretore" e' sostituita dalla parola "giudice" e le parole "del circondario" sono soppresse.
 
 ## - Capo IX Disposizioni relative alle impugnazioni
 
@@ -1202,9 +1724,47 @@ Nel comma 2 dell'articolo 582 del codice di procedura penale le parole "della pr
 
 ## Art. 202.
 
+1.
+                        
+                            
+                                L'articolo 596 del codice di procedura penale e' cosi' modificato:
+ 
+                            
+                            
+                                a)
+                                
+                                    il comma 1 e' sostituito dal seguente:
+ "1. Sull'appello proposto contro le sentenze pronunciate dal tribunale decide la corte di appello.";
+
+                                
+                            
+                            
+                                b)
+                                
+                                    nel comma 3, le parole "presso il tribunale" sono soppresse.
+
 ## Art. 203. — null
 
 ## Art. 204.
+
+1.
+                        
+                            
+                                L'articolo 608 del codice di procedura penale e' cosi' modificato:
+ 
+                            
+                            
+                                a)
+                                
+                                    il comma 3 e' soppresso;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il comma 4 e' sostituito dal seguente:
+ "4. Il procuratore generale e il procuratore della Repubblica presso il tribunale possono anche ricorrere nei casi previsti dall'articolo 569 e da altre disposizioni di legge.".
 
 ## Art. 205. — null
 
@@ -1362,15 +1922,176 @@ Quando per l'espletamento delle funzioni pretorili trasferite all'autorita' ammi
 
 ## Art. 233.
 
+1.
+                        
+                            
+                                La legge 16 febbraio 1913, n. 89 e' cosi' modificata:
+ 
+                            
+                            
+                                a)
+                                
+                                    negli articoli 38, primo e secondo comma, 63, primo comma, e 66, secondo comma, le parole "pretore del mandamento" e "pretore" sono sostituite, dove ricorrono, dalle parole "capo dell'archivio notarile del distretto";
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il primo e il secondo comma dell'articolo 39 sono sostituiti dai seguenti:
+ "Nel caso di morte o di cessazione definitiva dall'esercizio notarile, il capo dell'archivio notarile del distretto deve procedere all'apposizione dei sigilli sopra tutti gli atti, i repertori e le carte relative all'ufficio notarile ed esistenti nello studio del notaio od indebitamente altrove; e quando sia eseguita la rimozione dei sigilli procedera' al ritiro degli atti e dei repertori.
+ Nei casi di urgenza potra' essere provveduto dal capo dell'archivio notarile, con l'intervento del presidente del consiglio notarile del distretto o di un membro da lui delegato, alla rimozione dei sigilli, allo scopo di aprire un testamento, rilasciare copie, estratti o certificati, e compiere qualsiasi altra operazione.";
+
+                                
+                            
+                            
+                                c)
+                                
+                                    nel secondo comma dell'articolo 56 le parole "pretore del mandamento" sono sostituite dalle parole "presidente del tribunale";
+
+                                
+                            
+                            
+                                d)
+                                
+                                    il secondo periodo del primo comma dell'articolo 107 e' sostituito dal seguente: "Nei casi indicati nell'articolo 39, il capo dell'archivio notarile del distretto procede alla rimozione dei sigilli ed al ritiro degli atti, volumi e sigilli nella sede dell'ufficio del notaio, con l'intervento del presidente del consiglio notarile del distretto o di un membro da lui delegato.";
+
+                                
+                            
+                            
+                                e)
+                                
+                                    il secondo comma dell'articolo 107 e' sostituito dal seguente: "Il capo dell'archivio notarile compila il processo verbale
+contenente l'inventario delle cose consegnate o ritirate che, sottoscritto da lui, dal presidente del consiglio notarile o dal membro da lui delegato, dal notaio o dal suo procuratore, viene conservato nell'archivio notarile. Nel caso in cui sia il notaio o un suo procuratore ad effettuare la consegna, il processo verbale viene compilato in duplice originale, uno dei quali viene rimesso allo stesso notaio.".
+
 ## Art. 234.
+
+1.
+                        
+                            
+                                Il primo comma dell'articolo 25 del regio decretolegge 23 ottobre 1924, n. 1737, convertito dalla legge 18 marzo 1926, n. 562, e' cosi' modificato:
+ 
+                            
+                            
+                                a)
+                                
+                                    nel n. 1 le parole "pretore, qualora il comune, in cui il notaio aveva la residenza, sia sede di pretura, e al conciliatore del comune medesimo negli altri casi" sono sostituite dalle parole "capo dell'archivio notarile del distretto in cui il notaio aveva la residenza";
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il n. 2 e' abrogato.
 
 ## - Capo III Modifiche in materia di stato civile
 
 ## Art. 235.
 
+1.
+                        
+                            
+                                Salvo quanto previsto dall'articolo 2, comma 12, della legge 15 maggio 1997, n. 127, il regio decreto 9 luglio 1939, n. 1238 e' cosi' modificato:
+ 
+                            
+                            
+                                a)
+                                
+                                    nel primo comma dell'articolo 20 le parole "dal pretore del mandamento" sono sostituite dalle parole "dal prefetto o da un suo delegato";
+
+                                
+                            
+                            
+                                b)
+                                
+                                    negli articoli 20, secondo comma, 21, primo e secondo comma, e 24, primo comma, la parola "pretore" e' sostituita dalla parola "prefetto";
+
+                                
+                            
+                            
+                                c)
+                                
+                                    negli articoli 37, primo comma, primo periodo, e 39, primo comma, la parola "pretore" e' sostituita dalle parole "giudice delegato dal presidente del tribunale";
+
+                                
+                            
+                            
+                                d)
+                                
+                                    il secondo comma dell'articolo 97 e' sostituito dal seguente: "Lo sposo che si trova nell'impossibilita' di presentare l'atto di nascita, puo' supplirvi con una dichiarazione sostitutiva di certificazione.";
+
+                                
+                            
+                            
+                                e)
+                                
+                                    il terzo comma dell'articolo 97 e' abrogato;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    negli articoli 178, secondo comma, 179, primo comma, 180 e 181, primo e secondo comma, la parola "pretore" e' sostituita dalle parole "prefetto o un suo delegato";
+
+                                
+                            
+                            
+                                g)
+                                
+                                    il terzo comma dell'articolo 181 e' abrogato;
+
+                                
+                            
+                            
+                                h)
+                                
+                                    nel secondo comma dell'articolo 182 le parole "o delegare per essa il pretore" sono soppresse.
+
 ## - Capo IV Modifiche in materia di inchiesta amministrativa per infortuni sul lavoro
 
 ## Art. 236.
+
+1.
+                        
+                            
+                                Il decreto del Presidente della Repubblica 30 giugno 1965, n. 1124 e' cosi' modificato:
+ 
+                            
+                            
+                                a)
+                                
+                                    negli articoli 55, terzo comma, 56, primo, secondo, terzo e quarto comma, 57, primo, secondo, terzo e quarto comma, 58, terzo comma, 59, secondo comma, 60, primo comma, 62, terzo comma, 232, terzo comma, 239, secondo comma, e 240, primo comma, le parole "il pretore", "al pretore", "dal pretore" e "del pretore" sono rispettivamente sostituite, dove compaiono, dalle parole "la direzione provinciale del lavoro - settore ispezione del lavoro", "alla direzione provinciale del lavoro - settore ispezione del lavoro", "dalla direzione provinciale del lavoro - settore ispezione del lavoro" e " della direzione provinciale del lavoro - settore ispezione del lavoro";
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il primo comma dell'articolo 58 e' sostituito dal seguente:
+ "Gli ispettori del lavoro e i funzionari da essi delegati i quali, per eseguire le inchieste previste dall'articolo 56, devono trasferirsi dalla propria sede, hanno diritto ad un'indennita' nella misura ed alle condizioni stabilite dalle norme vigenti.";
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il secondo comma dell'articolo 58 e il terzo comma dell'articolo 60 sono abrogati;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    il primo comma dell'articolo 62 e' sostituito dal seguente:
+ "Le indennita' di cui all'articolo 58 sono liquidate dalla direzione provinciale del lavoro - settore ispezione del lavoro.";
+
+                                
+                            
+                            
+                                e)
+                                
+                                    nel primo comma dell'articolo 239 la parola "pretore" e' sostituita dalle parole "pubblico ministero".
 
 ## - Capo V Modifiche di norme in materia di trasporto
 
@@ -1382,7 +2103,50 @@ Nell'ottavo comma dell'articolo 58 della legge 6 giugno 1974, n. 298 la parola "
 
 ## Art. 238.
 
+1.
+                        
+                            
+                                Il decreto del Presidente della Repubblica 20 marzo 1967, n. 223 e' cosi' modificato:
+ 
+                            
+                            
+                                a)
+                                
+                                    nel primo comma dell'articolo 21 le parole "dal presidente del tribunale, o dal pretore" sono sostituite dalle parole "dal prefetto o da un suo delegato";
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il secondo periodo del primo comma dell'articolo 25 e' soppresso;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    nel secondo comma dell'articolo 25 le parole "magistrati in servizio presso la pretura circondariale, a riposo od onorari" sono sostituite dalle parole "dipendenti del Ministero dell'interno con qualifica non inferiore a consigliere di prefettura".
+
 ## Art. 239.
+
+1.
+                        
+                            
+                                La legge 7 ottobre 1947, n. 1058 e' cosi' modificata:
+ 
+                            
+                            
+                                a)
+                                
+                                    nel primo comma dell'articolo 18, le parole "dal presidente del tribunale, nelle sedi ove esista, o dal pretore nelle altre sedi" sono sostituite dalle parole "dal prefetto o da un suo delegato";
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il secondo periodo del primo comma nell'articolo 19 e' abrogato.
 
 ## - Titolo VI DISPOSIZIONI IN MATERIA DI TASSA PER L'ISCRIZIONE A RUOLO, DI DIRITTI DI CANCELLERIA E DI IMPOSTE DI BOLLO
 
@@ -1424,6 +2188,24 @@ Quando la competenza del pretore e' prevista in via alternativa a quella del pre
 
 ## Art. 246.
 
+1.
+                        
+                            
+                                L'articolo 8 del regio decreto legge 27 novembre 1933, n. 1578, convertito, con modificazioni, dalla legge 22 gennaio 1934, n. 36, e' cosi' modificato:
+ 
+                            
+                            
+                                a)
+                                
+                                    nel primo periodo del secondo comma le parole "alle preture" sono sostituite dalle parole "ai tribunali" e sono aggiunte, in fine, le parole ", limitatamente ai procedimenti che, in base alle norme vigenti anteriormente alla data di efficacia del decreto legislativo di attuazione della legge 16 luglio 1997, n. 254, rientravano nella competenza del pretore";
+
+                                
+                            
+                            
+                                b)
+                                
+                                    nel secondo periodo del secondo comma le parole "Davanti alle medesime preture" sono sostituite dalle parole "Davanti ai medesimi tribunali e negli stessi limiti,".
+
 Le disposizioni previste dal secondo comma dell'articolo 8 del regio decreto legge n. 1578 del 1933, come modificato dal comma 1 del presente articolo, si applicano fino a quando non sara' attuata la complessiva riforma della professione forense.
 
 ## Art. 247.
@@ -1431,6 +2213,22 @@ Le disposizioni previste dal secondo comma dell'articolo 8 del regio decreto leg
 Il presente decreto legislativo entra in vigore il giorno successivo alla sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana e diventa efficace a decorrere dal 2 giugno 1999, fatta eccezione per le disposizioni previste dagli articoli 17, 33, comma 1, 38, comma 1 e 40, commi 1 e 3.
 
 Le disposizioni previste dall'articolo 48-ter del regio decreto 30 gennaio 1941, n. 12, introdotto dall'articolo 15 del presente decreto, divengono efficaci (( decorsi due anni dalla data di entrata in vigore della legge di conversione del decreto-legge 24 maggio 1999, n. 145.
+
+2-bis.
+                        
+                            
+                                Le disposizioni previste dai seguenti articoli divengono efficaci il 2 gennaio 2000:
+ 
+                            
+                            
+                                a)
+                                
+                                    
+                                        articoli 33-bis e 33-ter del codice di procedura penale, introdotti dall'articolo 169 del presente decreto;
+ c) articoli 42-quater, secondo comma, e 43-bis, terzo comma, lettera b), dell'ordinamento giudiziario, approvato con regio decreto 30 gennaio 1941, n. 12, introdotti rispettivamente dagli articoli 8 e 10 del presente decreto;
+ d) articolo 71, secondo comma, secondo periodo, dell'ordinamento giudiziario, approvato con il citato regio decreto n. 12 del 1941, come sostituito dall'articolo 21 del presente decreto, limitatamente alla parte in cui estende ai vice procuratori onorari le incompatibilita' previste per i giudici onorari di tribunale dall'articolo 42-quater, secondo comma, dell'ordinamento giudiziario, approvato con il citato regio decreto n. 12 del 1941;
+ e) articolo 72, terzo comma, dell'ordinamento giudiziario, approvato con il citato regio decreto n. 12 del 1941, come sostituito dall'articolo 23 del presente decreto;
+ f) articoli 220, 221 e 222, comma 2, del presente decreto.
 
 Sino al 2 gennaio 2000 il tribunale giudica in composizione collegiale sui reati gia' appartenenti alla competenza del tribunale in base alle disposizioni vigenti anteriormente alla data indicata nel comma 1, ed in composizione monocratica sui reati gia' appartenenti alla competenza del pretore in base alle medesime disposizioni. Sino alla stessa data del 2 gennaio 2000, nell'assegnazione degli affari ai giudici del tribunale ordinario, prevista dal primo comma del citato articolo 43-bis dell'ordinamento giudiziario, approvato con regio decreto 30 gennaio 1941, n. 12, e' seguito il criterio di non affidare ai giudici onorari, nella materia penale, le funzioni di giudice per le indagini preliminari e di giudice dell'udienza preliminare, nonche' la trattazione di procedimenti relativi a reati non appartenenti alla competenza del pretore in base alle disposizioni vigenti anteriormente alla data indicata nel comma 1.))
 

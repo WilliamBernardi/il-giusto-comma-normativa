@@ -7,8 +7,8 @@ urn: urn:nir:stato:decreto.del.presidente.della.repubblica:2025-03-10;66
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti governativi
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:16Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -28,6 +28,74 @@ Sulla proposta del Presidente del Consiglio dei ministri e del Ministro per gli 
 
 ## Art. 1. — Ambito di applicazione
 
+1.
+                    
+                        
+                            Il presente decreto, in applicazione di quanto disposto dall'articolo 63, paragrafo 1, del regolamento (UE) 2021/1060, definisce le norme sull'ammissibilita' delle spese per i programmi cofinanziati dal Fondo europeo di sviluppo regionale (FESR), dal Fondo sociale europeo Plus (FSE+), dal Fondo per una transizione giusta (JTF), dal Fondo europeo per gli affari marittimi, la pesca e l'acquacoltura (FEAMPA), dal Fondo Asilo, migrazione e integrazione (AMIF), dal Fondo Sicurezza interna (ISF) e dallo Strumento di sostegno finanziario per la gestione delle frontiere e la politica dei visti (BMVI) per il periodo di programmazione 2021-2027, fatto salvo quanto previsto dallo stesso regolamento (UE) 2021/1060 e dai regolamenti di seguito elencati: 
+ 
+                        
+                        
+                            a)
+                            
+                                
+                                    regolamento (UE) 2021/1058, il «regolamento FESR e Fondo di coesione»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                
+                                    regolamento (UE) 2021/1057, il «regolamento FSE+»; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                
+                                    regolamento (UE) 2021/1139, il «regolamento FEAMPA»; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                
+                                    regolamento (UE) 2021/1059, il «regolamento Interreg»; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                
+                                    regolamento (UE) 2021/1056, il «regolamento JTF»; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                
+                                    regolamento (UE) 2021/1147, il «regolamento AMIF»; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                
+                                    regolamento (UE) 2021/1148, il «regolamento BMVI»; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                
+                                    regolamento (UE) 2021/1149, il «regolamento ISF».
+
 Le spese ammissibili, nel caso di aiuti di Stato ai sensi dell'articolo 107 del Trattato sul funzionamento dell'Unione europea (TFUE), sono quelle riconosciute dalla Commissione europea nella relativa decisione di autorizzazione dell'aiuto o, in caso di aiuti esentati dall'obbligo di notifica, quelle previste dai relativi regolamenti di esenzione, fatte salve eventuali disposizioni piu' restrittive previste dai regolamenti di cui al comma 1. Nel caso di aiuti de minimis, le spese ammissibili sono quelle previste dalle pertinenti basi giuridiche.
 
 Le disposizioni in materia di ammissibilita' delle spese previste dal presente regolamento si applicano anche alle spese relative alle operazioni finanziate nell'ambito dei programmi dell'Obiettivo cooperazione territoriale europea, sostenuti dal FESR e dagli strumenti di finanziamento esterno dell'Unione europea, effettuate sul territorio nazionale, se l'ammissibilita' della spesa non e' diversamente disciplinata dal regolamento (UE) 2021/1059 nonche' da regole supplementari definite dagli Stati membri nell'ambito del Comitato di sorveglianza di ciascun Programma di cooperazione territoriale europea.
@@ -39,6 +107,70 @@ Sono fatte salve, laddove previste nei provvedimenti attuativi dei programmi, co
 ## Art. 2. — Principi generali
 
 I fondi di cui all'articolo 1, comma 1, sono utilizzati per fornire sostegno sotto forma di sovvenzioni, premi e strumenti finanziari o mediante una combinazione degli stessi.
+
+2.
+                    
+                        
+                            Per i costi da rimborsare ai sensi dell'articolo 53, paragrafo 1, lettera a), del regolamento (UE) 2021/1060 e per i costi diretti alla base dell'applicazione delle forme di sovvenzione di cui alla lettera d) del medesimo articolo, se a costi reali, la spesa puo' essere ritenuta ammissibile se soddisfa tutti i requisiti di carattere generale di seguito indicati. La spesa deve essere: 
+ 
+                        
+                        
+                            a)
+                            
+                                pertinente e imputabile ad un'operazione selezionata dall'Autorita' di gestione o sotto la sua responsabilita', conformemente alla normativa applicabile; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                effettivamente sostenuta dal beneficiario e comprovata da fatture quietanzate o giustificata da documenti contabili aventi valore probatorio equivalente o, in casi debitamente giustificati, da idonea documentazione comunque attestante la pertinenza all'operazione della spesa sostenuta; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                sostenuta nel periodo di ammissibilita' delle spese, come previsto dall'articolo 3 del presente decreto; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                tracciabile ovvero verificabile attraverso una corretta e completa tenuta della documentazione al fine di assicurare l'esistenza di un'adeguata pista di controllo in conformita' con quanto previsto dall'articolo 69, paragrafo 6 e dall'allegato XIII del regolamento (UE) 2021/1060. I pagamenti in contanti sono ammissibili nel rispetto della normativa di riferimento, fatti salvi i limiti piu' restrittivi fissati dall'Autorita' di gestione e fermo restando il divieto di artificioso frazionamento; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                contabilizzata, in conformita' alle disposizioni di legge ed ai principi contabili e, se del caso, sulla base delle specifiche disposizioni dell'Autorita' di gestione.
+
+3.
+                    
+                        
+                            Per i costi da rimborsare ai sensi dell'articolo 53, paragrafo 1, lettere b), c), d), ove diversi da quelli di cui al comma 2, e f), del regolamento (UE) 2021/1060, e' necessaria la sussistenza di tutte le condizioni di seguito indicate: 
+ 
+                        
+                        
+                            a)
+                            
+                                l'operazione e' selezionata dall'Autorita' di gestione o sotto la sua responsabilita', conformemente alla normativa applicabile; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                le azioni che costituiscono la base per il rimborso sono attuate nel periodo di ammissibilita', come previsto dall'articolo 3 del presente regolamento; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                e' assicurata l'esistenza di un'adeguata pista di controllo in conformita' con quanto previsto dall'articolo 69, paragrafo 6, e dall'allegato XIII del regolamento (UE) 2021/1060.
 
 Con riguardo alle operazioni a valere sul FEAMPA che non comportano spese per il beneficiario, la spesa ammissibile e' l'aiuto pubblico erogato al beneficiario medesimo.
 
@@ -62,6 +194,24 @@ Nell'ambito del programma possono essere previste sovvenzioni per i beneficiari 
 Gli importi delle forme di sovvenzioni di cui alle lettere b), c) e d) dell'articolo 53, paragrafo 1, del regolamento (UE) 2021/1060 sono stabiliti secondo uno dei modi previsti dal paragrafo 3 del medesimo articolo 53. Gli importi delle forme di sovvenzioni di cui alle predette lettere b), c) e d) del paragrafo 1 dell'articolo 53 possono essere definiti anche sulla base delle disposizioni previste nell'ambito di meccanismi di sovvenzione stabiliti per altri programmi della politica di coesione, anche afferenti a precedenti cicli di programmazione, per tipologie analoghe di operazioni. In conformita' all'articolo 53, paragrafo 3, del regolamento (UE) 2021/1060 le opzioni di semplificazione dei costi applicate per la rendicontazione delle spese nell'ambito del Piano Nazionale di Ripresa e Resilienza (PNRR) possono applicarsi anche a tipologie analoghe di operazione finanziate a valere sui fondi di cui all'articolo 1, comma 1.
 
 Le metodologie approvate in un programma ai sensi dell'articolo 94 del regolamento (UE) 2021/1060 o stabilite nell'atto delegato di cui al paragrafo 4 del medesimo articolo possono essere utilizzate dall'Autorita' di gestione anche per le opzioni semplificate in materia di costi applicate a livello di beneficiario.
+
+5.
+                    
+                        
+                            I costi del personale si dividono in due categorie di costi: 
+ 
+                        
+                        
+                            a)
+                            
+                                costi del personale dipendente; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                costi del personale esterno, se non legato da un rapporto di lavoro dipendente.
 
 Per il calcolo dei costi diretti di un'operazione relativi al personale possono applicarsi le disposizioni di cui all'articolo 55 del regolamento (UE) 2021/1060. Relativamente alla disciplina di cui al paragrafo 2 del citato articolo 55, il costo annuo o mensile lordo del lavoro per il personale e' rappresentato dalla retribuzione lorda, determinata in linea con la consueta pratica di retribuzione del beneficiario per la categoria di funzione in questione o in linea con il diritto nazionale applicabile, gli accordi collettivi o le statistiche ufficiali, incluse le retribuzioni in natura, delle altre indennita' aggiuntive, dei premi e della retribuzione per il lavoro straordinario, delle tasse e dei contributi previdenziali e assicurativi a carico dei lavoratori, nonche' dagli oneri sociali volontari e obbligatori a carico del datore di lavoro e dagli oneri differiti. E' ammissibile la spesa relativa anche solo ad alcune delle voci di cui al secondo periodo o a parte di esse.
 
@@ -97,9 +247,69 @@ Le modalita' di sostegno finanziario attraverso premi sono disciplinate dal cita
 
 ## Art. 8. — Spese connesse al credito d'imposta
 
+1.
+                    
+                        
+                            In caso di sostegno dei fondi di cui all'articolo 1, comma 1, concesso sotto forma di credito d'imposta, l'importo corrispondente al credito d'imposta riconosciuto ed effettivamente utilizzato, costituisce spesa ammissibile alle seguenti condizioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                il credito di imposta e' previsto e disciplinato da specifiche disposizioni normative nazionali; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                il credito d'imposta e' concesso per sostenere misure finalizzate al raggiungimento degli obiettivi del programma; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                la concessione del credito d'imposta avviene nel rispetto della normativa in materia di aiuti di Stato, laddove applicabile.
+
 ## Art. 9. — Spese connesse all'esonero contributivo
 
+1.
+                    
+                        
+                            In caso di sostegno dei fondi di cui all'articolo 1, comma 1, concesso sotto forma di esonero contributivo, l'importo corrispondente all'esonero contributivo riconosciuto ed effettivamente utilizzato, costituisce spesa ammissibile alle seguenti condizioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                l'esonero contributivo e' previsto e disciplinato da specifiche disposizioni normative nazionali; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                l'esonero contributivo e' concesso per sostenere misure finalizzate al raggiungimento degli obiettivi del programma; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                la concessione dell'esonero avviene nel rispetto della normativa in materia di aiuti di Stato, laddove applicabile.
+
 ## Art. 10. — Strumenti finanziari
+
+1.
+                    
+                        
+                            Il sostegno degli strumenti finanziari e' utilizzato al fine di contribuire al conseguimento degli obiettivi specifici stabiliti nell'ambito di una priorita'. Le spese sostenute nell'ambito di strumenti finanziari sono ammissibili alle condizioni e nei limiti previsti dagli articoli da 58 a 62 e dagli articoli 68, 81 e 92 del regolamento (UE) 2021/1060, nonche', ove rilevanti, dai regolamenti di cui alle lettere da 
+                        
+                        
+                            a)
+                            
+                                a n) dell'articolo 1, comma 1, del presente regolamento.
 
 ## Art. 11. — Spese connesse all'operazione
 
@@ -129,6 +339,31 @@ Nell'ambito degli interventi del FSE+, ai fini dell'inclusione sociale e del con
 
 Fermo quanto previsto dall'articolo 64, paragrafo 1, lettera a), del regolamento (UE) 2021/1060 e fatte salve le previsioni dei regolamenti specifici dei fondi di cui all'articolo 1, comma 1, del presente regolamento non sono altresi' ammissibili, ai fini del sostegno nel contesto dei predetti fondi, i costi relativi a multe, penali, ammende, sanzioni pecuniarie, nonche' le spese relative ad operazioni escluse dall'ambito di applicazione di ciascun fondo.
 
+2.
+                    
+                        
+                            Fermo quanto previsto dal comma 1, non sono ammissibili nel contesto dei fondi di cui all'articolo 1, comma 1, i seguenti costi: 
+ 
+                        
+                        
+                            a)
+                            
+                                i deprezzamenti e le passivita'; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                gli interessi di mora; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                le perdite sul cambio, le commissioni e altri oneri per operazioni relative a prodotti finanziari ai sensi dell'articolo 1, comma 1, lettera u), del decreto legislativo 24 febbraio 1998, n. 58.
+
 Ai sensi dell'articolo 66 del regolamento (UE) 2021/1060, non sono ammissibili le spese per una delocalizzazione, come definita all'articolo 2, punto 61-bis), del regolamento (UE) 651/2014.
 
 Ai sensi dell'articolo 16, paragrafo 1, del regolamento (UE) 2021/1057 non sono ammissibili, per il sostegno generale dalla componente del FSE+ in regime di gestione concorrente, i costi per l'acquisto di terreni e beni immobili, nonche' di infrastrutture. I costi per l'acquisto di mobili, attrezzature e veicoli sono ammissibili solo quando tale acquisto e' necessario per raggiungere l'obiettivo dell'operazione, o quando tali voci sono completamente ammortizzate durante l'operazione, ovvero l'acquisto di detti beni costituisce l'opzione piu' economica.
@@ -152,15 +387,182 @@ Le spese per garanzie fornite da una banca, da una societa' di assicurazione o d
 
 ## Art. 17. — Acquisto di materiale usato
 
+1.
+                    
+                        
+                            Fatto salvo quanto previsto dai regolamenti specifici di ciascun fondo, l'acquisto di materiale usato costituisce spesa ammissibile se sono soddisfatte tutte le seguenti condizioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                il venditore rilascia una dichiarazione attestante la provenienza esatta del materiale e che lo stesso, nel corso degli ultimi cinque anni, non ha beneficiato di un contributo nazionale o europeo. Nel caso di materiale ceduto dalle piccole e medie imprese (PMI), il periodo sopraccitato puo' essere ridotto a tre anni previa valutazione dell'Autorita' di gestione; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                il prezzo del materiale usato non e' superiore al suo valore di mercato ed e' inferiore al costo di materiale simile nuovo; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                le caratteristiche tecniche del materiale usato acquisito sono adeguate alle esigenze dell'operazione e sono conformi alle norme e agli standard pertinenti.
+
 ## Art. 18. — Acquisto di terreni
+
+1.
+                    
+                        
+                            L'acquisto di terreni, salvo quanto previsto dai regolamenti specifici di ciascun fondo, rappresenta una spesa ammissibile, alle seguenti condizioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                la sussistenza di un nesso diretto fra l'acquisto del terreno e gli obiettivi dell'operazione; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                la percentuale rappresentata dall'acquisto del terreno non puo' superare il dieci per cento della spesa totale ammissibile dell'operazione considerata; il limite e' del 15 per cento in relazione ai siti in stato di degrado e a quelli precedentemente adibiti a uso industriale che comprendono edifici; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                nei casi in cui non e' possibile averne conoscenza in modo diverso, la presentazione di una perizia giurata di parte, redatta da un valutatore qualificato secondo le disposizioni europee e nazionali vigenti, nonche' dei codici di condotta, indipendente o debitamente autorizzato, che attesta il valore di mercato del terreno.
+
+2.
+                    
+                        
+                            Le disposizioni di cui al comma 1, lettera b), non si applicano nel caso di operazioni relative alla conservazione dell'ambiente, quando sono rispettate tutte le seguenti condizioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                l'acquisto e' stato effettuato sulla base di giustificati motivi e di una decisione positiva da parte dell'Autorita' di gestione; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                il terreno e' destinato all'uso stabilito per un periodo determinato nella decisione di cui alla lettera a); 
+
+                            
+                        
+                        
+                            c)
+                            
+                                il terreno non ha una destinazione agricola, salvo in casi debitamente giustificati individuati dall'Autorita' di gestione; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                l'acquisto e' effettuato da parte o per conto di un'istituzione pubblica o di un organismo di diritto pubblico.
 
 Nel caso di strumenti finanziari, le percentuali indicate nel comma 1 si applicano al contributo del programma versato al destinatario finale o, nel caso delle garanzie, all'importo del prestito sottostante.
 
 ## Art. 19. — Acquisto di edifici
 
+1.
+                    
+                        
+                            L'acquisto di edifici gia' costruiti, salvo quanto previsto dai regolamenti specifici di ciascun fondo, costituisce una spesa ammissibile nei limiti del valore come determinato ai sensi della lettera a) e purche' sia direttamente connesso all'operazione in questione, se sussistono le seguenti condizioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                e' presentata una perizia giurata di parte, redatta da un valutatore qualificato come indicato alla lettera c), comma 1, dell'articolo 18, che attesta il valore di mercato del bene e la conformita' dell'immobile alle disposizioni urbanistiche e edilizie vigenti, nonche' alle disposizioni dettate a tutela del paesaggio e degli altri eventuali vincoli gravanti sull'area interessata; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                la perizia giurata di cui alla lettera a) esplicita i punti non conformi quando l'operazione prevede la loro regolarizzazione da parte del beneficiario; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                l'immobile non ha fruito, nel corso dei cinque anni precedenti, di un finanziamento pubblico, nazionale o europeo; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                l'immobile e' utilizzato per la destinazione e per il periodo stabiliti dall'Autorita' di gestione; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                l'edificio e' utilizzato conformemente alle finalita' dell'operazione.
+
 L'edificio puo' ospitare servizi dell'amministrazione pubblica solo quando tale uso e' conforme alle attivita' ammissibili dal fondo interessato.
 
 ## Art. 20. — Locazione finanziaria
+
+1.
+                    
+                        
+                            Fatta salva l'ammissibilita' della spesa per locazione semplice o per noleggio, purche' direttamente connessa all'operazione, la spesa per la locazione finanziaria (leasing) e' ammissibile al contributo dei fondi di cui all'articolo 1, comma 1, alle seguenti condizioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                quando il beneficiario e' il concedente: 
+ 1) il sostegno e' utilizzato al fine di ridurre l'importo dei canoni versati dall'utilizzatore del bene oggetto del contratto di locazione finanziaria; 
+ 2) i contratti di locazione finanziaria comportano una clausola di riacquisto oppure prevedono una durata minima pari alla vita utile del bene oggetto del contratto; 
+ 3) in caso di risoluzione del contratto prima della scadenza del periodo di durata minima, senza la previa approvazione delle autorita' competenti, il concedente si impegna a restituire alle autorita' nazionali interessate, mediante accredito al fondo appropriato, la parte della sovvenzione europea corrispondente al periodo residuo; 
+ 4) l'acquisto del bene da parte del concedente, comprovato da una fattura quietanzata o da un documento contabile avente forza probatoria equivalente, costituisce la spesa ammissibile al sostegno; l'importo massimo ammissibile non puo' superare il valore di mercato del bene dato in locazione; 
+ 5) non sono ammissibili le spese attinenti al contratto di leasing non indicate al numero 4), tra cui le tasse, il margine del concedente, i costi di rifinanziamento degli interessi, le spese generali, gli oneri assicurativi; 
+ 6) l'aiuto versato al concedente e' utilizzato interamente a vantaggio dell'utilizzatore mediante una riduzione uniforme di tutti i canoni pagati nel periodo contrattuale; 
+ 7) il concedente dimostra che il beneficio dell'aiuto e' trasferito interamente all'utilizzatore, elaborando una distinta dei pagamenti dei canoni o con un metodo alternativo che fornisca assicurazioni equivalenti; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                quando il beneficiario e' l'utilizzatore: 
+ 1) i canoni pagati dall'utilizzatore al concedente, comprovati da una fattura quietanzata o da un documento contabile avente forza probatoria equivalente, costituiscono la spesa ammissibile; 
+ 2) nel caso di contratti di locazione finanziaria contenenti una clausola di riacquisto o che prevedono una durata contrattuale minima corrispondente alla vita utile del bene, l'importo massimo ammissibile non puo' superare il valore di mercato del bene; non sono ammissibili le altre spese connesse al contratto, tra cui tributi, interessi, costi di rifinanziamento interessi, spese generali, oneri assicurativi; 
+ 3) l'aiuto relativo ai contratti di locazione finanziaria di cui al numero 2) e' versato all'utilizzatore in una o piu' quote sulla base dei canoni effettivamente pagati; se la durata del contratto supera il termine finale per la contabilizzazione dei pagamenti ai fini dell'intervento cofinanziato, e' ammissibile soltanto la spesa relativa ai canoni esigibili e pagati dall'utilizzatore sino al termine finale stabilito per i pagamenti ai fini dell'intervento; 
+ 4) nel caso di contratti di locazione finanziaria che non contengono un patto di retrovendita e la cui durata e' inferiore al periodo di vita utile del bene oggetto del contratto, i canoni sono ammissibili in proporzione alla durata dell'operazione ammissibile; e' onere dell'utilizzatore dimostrare che la locazione finanziaria costituisce il metodo piu' economico per acquisire l'uso del bene; nel caso in cui risulti che i costi sono inferiori utilizzando un metodo alternativo, quale la locazione semplice del bene, i costi supplementari sono detratti dalla spesa ammissibile; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                se il regime di aiuti di Stato applicabile impone l'obbligo di acquistare i beni oggetto del leasing: 
+ 1) l'atto di conferimento dell'aiuto contiene una clausola per l'esercizio obbligatorio dell'opzione di acquisto del bene da parte del locatario o prevede un periodo minimo di locazione equivalente alla durata di vita utile del bene oggetto del contratto; 
+ 2) l'esercizio dell'opzione di acquisto deve concretizzarsi al piu' tardi al termine del contratto di locazione; 
+ 3) se il riscatto non e' effettuato dal locatario entro il termine di scadenza del contratto di leasing, il beneficiario dell'aiuto si impegna per iscritto a rimborsare l'aiuto concesso in relazione al contratto di leasing finanziario, conformemente alle norme in materia di aiuti di Stato; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                i canoni pagati dall'utilizzatore in forza di un contratto di vendita e conseguente retrolocazione finanziaria sono spese ammissibili ai sensi della lettera b) e i costi di acquisto del bene non sono ammissibili al contributo.
 
 ## Art. 21.
 

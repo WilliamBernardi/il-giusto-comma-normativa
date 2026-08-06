@@ -8,8 +8,8 @@ codice_redazionale: 002G0197
 vigente: true
 source: normattiva-opendata
 collection: DPR
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:47:47Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -32,6 +32,49 @@ Sulla proposta del Presidente del Consiglio dei Ministri e del Ministro dell'eco
 ## Art. 1.
 
 All'articolo 1, comma 1, del decreto del Presidente della Repubblica 22 settembre 2000, n. 451, dopo la lettera d) e' inserita la seguente: "d-bis Vice Ministri: i Sottosegretari di Stato ai quali sia stato attribuito il titolo di Vice Ministro;".
+
+2.
+                    
+                        
+                            All'articolo 2 del decreto del Presidente della Repubblica 22 settembre 2000, n. 451, sono apportate le seguenti modificazioni:
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 2, dopo la lettera f) e' inserita la seguente: "f-bis le segreterie e l'Ufficio dei Vice Ministri;";
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 4, dopo le parole: "Le Segreterie" sono inserite le seguenti: "dei Vice Ministri e" e dopo la parola: "rispettivi" sono inserite le seguenti: "Vice Ministri e";
+
+                            
+                        
+                        
+                            c)
+                            
+                                al comma 5, le parole: "il Sottosegretario si avvale" sono sostituite dalle seguenti: "il Vice Ministro ed il Sottosegretario si avvalgono".
+
+3.
+                    
+                        
+                            All'articolo 7, comma 1, del decreto del Presidente della Repubblica 22 settembre 2000, n. 451, sono apportate le seguenti modificazioni:
+ 
+                        
+                        
+                            a)
+                            
+                                alla lettera b), dopo le parole: "per il responsabile della Segreteria tecnica" sono inserite le seguenti: ", per il Capo dell'Ufficio del Vice Ministro";
+
+                            
+                        
+                        
+                            b)
+                            
+                                alla lettera c), dopo le parole: "per il segretario particolare del Ministro," sono inserite le seguenti: "per i due esperti di cui all'articolo 9-bis), comma 2,".
 
 Nella rubrica dell'articolo 9 del decreto del Presidente della Repubblica 22 settembre 2000, n. 451, dopo la parola: "Segreterie" sono inserite le seguenti: "dei Vice Ministri e".
 

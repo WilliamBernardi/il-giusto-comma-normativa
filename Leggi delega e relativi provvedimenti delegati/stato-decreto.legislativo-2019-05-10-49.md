@@ -7,8 +7,8 @@ urn: urn:nir:stato:decreto.legislativo:2019-05-10;49
 vigente: true
 source: normattiva-opendata
 collection: Leggi delega e relativi provvedimenti delegati
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:41:15Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -24,8 +24,58 @@ Sulla proposta del Presidente del Consiglio dei ministri e del Ministro dell'eco
 
 ## Art. 1. — Modifiche al codice civile
 
+1.
+                    
+                        
+                            All'articolo 2391-bis del codice civile sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                al secondo comma, le parole «di cui al» sono sostituite dalle seguenti: «e le regole previsti dal»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                dopo il secondo comma, e' aggiunto il seguente: 
+ «La Consob, nel definire i principi indicati nel primo comma, individua, in conformita' all'articolo 9-quater della direttiva 2007/36/CE, almeno: 
+ a) le soglie di rilevanza delle operazioni con parti correlate tenendo conto di indici quantitativi legati al controvalore dell'operazione o al suo impatto su uno o piu' parametri dimensionali della societa'. La Consob puo' individuare anche criteri di rilevanza che tengano conto della natura dell'operazione e della tipologia di parte correlata; 
+ b) regole procedurali e di trasparenza proporzionate rispetto alla rilevanza e alle caratteristiche delle operazioni, alle dimensioni della societa' ovvero alla tipologia di societa' che fa ricorso al mercato del capitale di rischio, nonche' i casi di esenzione dall'applicazione, in tutto o in parte, delle predette regole; 
+ c) i casi in cui gli amministratori, fermo restando quanto previsto dall'articolo 2391, e gli azionisti coinvolti nell'operazione sono tenuti ad astenersi dalla votazione sulla stessa ovvero misure di salvaguardia a tutela dell'interesse della societa' che consentono ai predetti azionisti di prendere parte alla votazione sull'operazione.».
+
 ## Art. 2. — Modifiche alla Parte III, Titolo II-bis, Capo IV 
  del decreto legislativo 24 febbraio 1998, n. 58
+
+1.
+                    
+                        
+                            All'articolo 82 del decreto legislativo 24 febbraio 1998, n. 58, sono apportate le seguenti modifiche: 
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 2: 
+ 1) dopo le parole «nel rispetto delle disposizioni del regolamento di cui al comma 1» sono inserite le seguenti: «, della direttiva 2007/36/CE e delle relative disposizioni attuative»; 
+ 2) la lettera g) e' sostituita dalla seguente: 
+ «g) le modalita' e i termini di comunicazione, su richiesta, nei casi e ai soggetti individuati dal regolamento stesso, dei dati identificativi dei titolari di strumenti finanziari diversi da quelli di cui all'articolo 83-duodecies e degli intermediari che li detengono, fatta salva la possibilita' per i titolari degli strumenti finanziari di vietare espressamente la comunicazione dei propri dati identificativi;»; 
+ 3) alla lettera i) dopo le parole «gestione delle operazioni societarie da parte degli intermediari» sono inserite le seguenti: «, dei depositari centrali e degli emittenti»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                dopo il comma 4, e' aggiunto il seguente: 
+ «4-bis. La Consob, d'intesa con la Banca d'Italia, individua con regolamento: 
+ a) le attivita' che depositari centrali ed intermediari sono tenuti a svolgere in conformita' con gli articoli 3-bis, 3-ter e 3-quater della direttiva 2007/36/CE; 
+ b) i soggetti coinvolti nel processo di identificazione degli azionisti di cui all'articolo 83-duodecies e le relative modalita' operative; 
+ c) le modalita' e i termini per la conservazione e il trattamento dei dati identificativi, acquisiti dagli emittenti ai sensi dell'articolo 83-duodecies, comma 1; 
+ d) le modalita' operative per la trasmissione delle informazioni e l'agevolazione dell'esercizio dei diritti degli azionisti; 
+ e) le ulteriori disposizioni attuative della citata direttiva per gli aspetti connessi alla disciplina dell'attivita' di gestione accentrata.».
 
 All'articolo 83-novies del decreto legislativo 24 febbraio 1998, n. 58, al comma 1, dopo la lettera g), e' aggiunta la seguente: 
  «g-bis) trasmette le informazioni necessarie per l'esercizio dei diritti degli azionisti nei casi individuati dal regolamento di cui all'articolo 82, comma 4-bis.».
@@ -34,8 +84,147 @@ Dopo l'articolo 83-novies del decreto legislativo 24 febbraio 1998, n. 58, e' in
  «Art. 83-novies.1 (Non discriminazione, proporzionalita' e trasparenza dei costi). - 1. Gli intermediari e i depositari centrali comunicano al pubblico i corrispettivi per i servizi prestati ai sensi del capo I-bis della direttiva 2007/36/CE, distintamente per ciascun servizio. 
  2. I corrispettivi che gli intermediari e i depositari centrali applicano agli azionisti, agli emittenti con azioni ammesse alle negoziazioni nei mercati regolamentati italiani o di altri Stati membri dell'Unione europea, e agli altri intermediari, devono essere non discriminatori e proporzionati ai costi effettivi sostenuti per la prestazione dei servizi. Qualsiasi differenza fra i corrispettivi applicati per l'esercizio dei diritti a livello nazionale e transfrontaliero e' consentita unicamente se debitamente giustificata e se tiene conto della variazione dei costi effettivi sostenuti per la prestazione dei connessi servizi.».
 
+4.
+                    
+                        
+                            All'articolo 83-duodecies del decreto legislativo 24 febbraio 1998, n. 58, sono apportate le seguenti modifiche: 
+ 
+                        
+                        
+                            a)
+                            
+                                il comma 1 e' sostituito dal seguente: 
+ «1. Al fine di facilitare la comunicazione degli emittenti con gli azionisti nonche' l'esercizio dei diritti sociali, anche in modo coordinato, da parte degli azionisti, gli emittenti italiani con azioni ammesse alle negoziazioni nei mercati regolamentati italiani o di altri Stati membri dell'Unione europea hanno il diritto di richiedere ai soggetti indicati dal regolamento di cui all'articolo 82, comma 4-bis, l'identificazione degli azionisti che detengono azioni in misura superiore allo 0,5% del capitale sociale con diritto di voto. La richiesta di identificazione puo' essere avanzata anche tramite un soggetto terzo designato dall'emittente. I costi del processo di identificazione sono a carico dell'emittente.»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                il comma 2 e' abrogato; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                dopo il comma 2, e' inserito il seguente: 
+ «2-bis. Gli intermediari e i depositari centrali sono legittimati ad adempiere alle richieste dei dati identificativi degli azionisti formulate da emittenti aventi la sede legale in un altro Stato membro dell'Unione europea, con azioni ammesse alle negoziazioni nei mercati regolamentati italiani o di altri Stati membri dell'Unione europea.»; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                il comma 3 e' sostituito dal seguente: 
+ «3. L'emittente e' tenuto a effettuare la medesima richiesta su istanza di tanti soci che rappresentino almeno la meta' della quota minima di partecipazione stabilita dalla Consob ai sensi dell'articolo 147-ter, comma 1. I relativi costi sono ripartiti tra l'emittente ed i soci richiedenti secondo i criteri stabiliti dalla Consob con regolamento, avendo riguardo all'esigenza di non incentivare l'uso dello strumento da parte dei soci per finalita' non coerenti con l'obiettivo di facilitare il coordinamento tra i soci stessi al fine di esercitare i diritti che richiedono una partecipazione qualificata.»; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                al comma 4, le parole «Le societa'» sono sostituite dalle seguenti: «Gli emittenti»; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                il comma 5 e' sostituito dal seguente: 
+ «5. Gli statuti delle societa' italiane con azioni ammesse alle negoziazioni con il consenso dell'emittente nei sistemi multilaterali di negoziazione italiani o di altri Paesi dell'Unione europea possono prevedere che si applichi il presente articolo. Il presente articolo non si applica alle societa' cooperative.».
+
 ## Art. 3. — Modifiche alla Parte IV, Titolo III, Capo II 
  del decreto legislativo 24 febbraio 1998, n. 58
+
+1.
+                    
+                        
+                            All'articolo 123-ter del decreto legislativo 24 febbraio 1998, n. 58, sono apportate le seguenti modifiche: 
+ 
+                        
+                        
+                            a)
+                            
+                                la rubrica e' sostituita dalla seguente: 
+ «(Relazione sulla politica in materia di remunerazione e sui compensi corrisposti)»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 1, le parole «una relazione sulla remunerazione» sono sostituite dalle seguenti: «una relazione sulla politica di remunerazione e sui compensi corrisposti»; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                al comma 2, le parole «sulla remunerazione» sono soppresse; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                al comma 3: 
+ 1) all'alinea, le parole «sulla remunerazione» sono soppresse e dopo la parola «illustra» sono inserite le seguenti: «in modo chiaro e comprensibile»; 
+ 2) alla lettera a), dopo le parole «almeno all'esercizio successivo» sono inserite le seguenti: «e, fermo restando quanto previsto dall'articolo 2402 del codice civile, dei componenti degli organi di controllo»; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                dopo il comma 3, sono inseriti i seguenti: 
+ «3-bis. La politica di remunerazione contribuisce alla strategia aziendale, al perseguimento degli interessi a lungo termine e alla sostenibilita' della societa' e illustra il modo in cui fornisce tale contributo. Fermo quanto previsto dal comma 3-ter, le societa' sottopongono al voto dei soci la politica di remunerazione di cui al comma 3 con la cadenza richiesta dalla durata della politica definita ai sensi del comma 3, lettera a), e comunque almeno ogni tre anni o in occasione di modifiche della politica medesima. Le societa' attribuiscono compensi solo in conformita' con la politica di remunerazione da ultimo approvata dai soci. In presenza di circostanze eccezionali le societa' possono derogare temporaneamente alla politica di remunerazione, purche' la stessa preveda le condizioni procedurali in base alle quali la deroga puo' essere applicata e specifichi gli elementi della politica a cui si puo' derogare. Per circostanze eccezionali si intendono solamente situazioni in cui la deroga alla politica di remunerazione e' necessaria ai fini del perseguimento degli interessi a lungo termine e della sostenibilita' della societa' nel suo complesso o per assicurarne la capacita' di stare sul mercato. 
+ 3-ter. La deliberazione prevista dal comma 3-bis e' vincolante.
+Qualora l'assemblea dei soci non approvi la politica di remunerazione sottoposta al voto ai sensi del comma 3-bis la societa' continua a corrispondere remunerazioni conformi alla piu' recente politica di remunerazione approvata dall'assemblea o, in mancanza, puo' continuare a corrispondere remunerazioni conformi alle prassi vigenti. La societa' sottopone al voto dei soci una nuova politica di remunerazione al piu' tardi in occasione della successiva assemblea prevista dall'articolo 2364, secondo comma, o dell'assemblea prevista dall'articolo 2364-bis, secondo comma, del codice civile.»; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                al comma 4: 
+ 1) dopo le parole «La seconda sezione» sono inserite le seguenti: «della relazione, in modo chiaro e comprensibile e »; 
+ 2) alla lettera a), le parole «approvata nell'esercizio precedente» sono sostituite dalle seguenti: «relativa all'esercizio di riferimento»; 
+ 3) dopo la lettera b), e' aggiunta la seguente: 
+ «b-bis) illustra come la societa' ha tenuto conto del voto espresso l'anno precedente sulla seconda sezione della relazione.»; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                il comma 6 e' sostituito dal seguente: 
+ «6. Fermo restando quanto previsto dagli articoli 2389 e 2409-terdecies, primo comma, lettera a), del codice civile, e dall'articolo 114-bis, l'assemblea convocata ai sensi dell'articolo 2364, secondo comma, ovvero dell'articolo 2364-bis, secondo comma, del codice civile, delibera in senso favorevole o contrario sulla seconda sezione della relazione prevista dal comma 4. La deliberazione non e' vincolante. L'esito della votazione e' posto a disposizione del pubblico ai sensi dell'articolo 125-quater, comma 2.»; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                il comma 7 e' sostituito dal seguente: 
+ «7. La Consob con regolamento, adottato sentite Banca d'Italia e Ivass per quanto concerne i soggetti rispettivamente vigilati e nel rispetto di quanto previsto dalla normativa europea di settore, indica le informazioni da includere nella prima sezione della relazione e le caratteristiche di tale politica in conformita' con l'articolo 9-bis della direttiva 2007/36/CE e nel rispetto di quanto previsto dal paragrafo 3 della raccomandazione 2004/913/CE e dal paragrafo 5 della raccomandazione 2009/385/CE.»; 
+
+                            
+                        
+                        
+                            i)
+                            
+                                al comma 8 il primo periodo e' sostituito dal seguente: 
+ «8. La Consob, con il regolamento adottato ai sensi del comma 7, indica altresi' le informazioni da includere nella seconda sezione della relazione, nel rispetto di quanto previsto dall'articolo 9-ter della direttiva 2007/36/CE.»; 
+
+                            
+                        
+                        
+                            l)
+                            
+                                dopo il comma 8, sono inseriti i seguenti: 
+ «8-bis. Il soggetto incaricato di effettuare la revisione legale del bilancio verifica l'avvenuta predisposizione da parte degli amministratori della seconda sezione della relazione. 
+ 8-ter. Rimangono ferme le disposizioni previste in materia di remunerazioni da normative di settore.».
 
 Al Capo II del Titolo III della Parte IV del decreto legislativo 24 febbraio 1998, n. 58, dopo la sezione I-bis, e' inserita la seguente: 
  «Sezione I-ter (Trasparenza degli investitori istituzionali, dei gestori di attivi e dei consulenti in materia di voto) 
@@ -98,9 +287,56 @@ All'articolo 127-ter del decreto legislativo 24 febbraio 1998, n. 58, il comma 1
 Dopo l'articolo 190.1 del decreto legislativo 24 febbraio 1998, n. 58, e' inserito il seguente: 
  «Art. 190.1-bis (Ulteriori sanzioni amministrative pecuniarie in tema di disciplina della gestione accentrata di strumenti finanziari). - 1. Agli intermediari indicati nell'articolo 79-decies, comma 1, lettera b), per inosservanza delle disposizioni di cui all'articolo 83-novies, comma 1, lettere g) e g-bis), 83-novies.1, e di quelle emanate in base ad esse, si applica la sanzione amministrativa pecuniaria da euro trentamila a euro centocinquantamila.».
 
+2.
+                    
+                        
+                            All'articolo 192-bis del decreto legislativo 24 febbraio 1998, n. 58 sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                la rubrica e' sostituita dalla seguente: «(Sanzioni amministrative in tema di informazioni sul governo societario e di politica di remunerazione e compensi corrisposti)»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                dopo il comma 1 e' inserito il seguente: 
+ ««1.1 Salvo che il fatto costituisca reato, nei confronti delle societa' quotate nei mercati regolamentati che violano le disposizioni previste dall'articolo 123-ter e le relative disposizioni attuative nonche' nei confronti dei soggetti che svolgono funzioni di amministrazione, di direzione o di controllo, qualora la loro condotta abbia contribuito a determinare la violazione delle disposizioni sopra richiamate da parte della societa', si applica la sanzione amministrativa pecuniaria da euro diecimila a euro centocinquantamila ovvero le sanzioni previste dal comma 1, lettere a) e b).»; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                il comma 1-ter e' sostituito dal seguente: 
+ «1-ter. Alle omissioni delle comunicazioni prescritte dall'articolo 123-bis, comma 2, lettera a), e richiamate dai commi 1 e 1-bis del presente articolo si applica l'articolo 187-quinquiesdecies, comma 1-quater.».
+
 Dopo l'articolo 192-quater del decreto legislativo 24 febbraio 1998, n. 58, e' inserito il seguente: 
  «Art. 192-quinquies (Sanzioni amministrative in tema di operazioni con parti correlate). - 1. Nei confronti delle societa' quotate nei mercati regolamentati che violano l'articolo 2391-bis del codice civile e le relative disposizioni di attuazione adottate dalla Consob ai sensi del medesimo articolo, si applica una sanzione amministrativa pecuniaria da euro diecimila a euro centocinquantamila. 
  2. Salvo che il fatto costituisca reato, per le violazioni indicate nel comma 1, nei confronti dei soggetti che svolgono funzioni di amministrazione e di direzione si applica, nei casi previsti dall'articolo 190-bis, comma 1, lettera a), una sanzione amministrativa pecuniaria da euro cinquemila a euro centocinquantamila.».
+
+4.
+                    
+                        
+                            All'articolo 193 del decreto legislativo 24 febbraio 1998, n. 58 sono apportate le seguenti modifiche: 
+ 
+                        
+                        
+                            a)
+                            
+                                la rubrica e' sostituita dalla seguente: 
+ «(Sanzioni amministrative in tema di informazione societaria e doveri dei sindaci, dei revisori legali e delle societa' di revisione legale)»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                dopo il comma 1-quinquies e' inserito il seguente: 
+ «1-sexies. Al soggetto di cui all'articolo 123-ter, comma 8-bis, che omette di verificare l'avvenuta predisposizione della seconda sezione della relazione si applica una sanzione amministrativa pecuniaria da euro diecimila ad euro centomila.».
 
 Dopo l'articolo 193-bis del decreto legislativo 24 febbraio 1998, n. 58, e' inserito il seguente: 
  «Art. 193-bis.1 (Sanzioni amministrative in tema di trasparenza degli investitori istituzionali, dei gestori di attivi e dei consulenti in materia di voto). - 1. Salvo che il fatto costituisca reato, nei confronti degli investitori istituzionali e dei gestori di attivi in caso di violazione degli articoli 124-quinquies, 124-sexies e 124-septies, nonche' nei confronti dei consulenti in materia di voto in caso di violazione dell'articolo 124-octies ovvero delle relative disposizioni attuative, si applica una sanzione amministrativa pecuniaria da euro duemilacinquecento a euro centocinquantamila. 
@@ -141,6 +377,38 @@ All'articolo 191 del decreto legislativo 7 settembre 2005, n. 209, al comma 1, l
 ## Art. 7. — Disposizioni transitorie e finali
 
 Il presente decreto entra in vigore il 10 giugno 2019.
+
+2.
+                    
+                        
+                            L'applicazione delle disposizioni di seguito elencate e' differita come specificato: 
+ 
+                        
+                        
+                            a)
+                            
+                                l'articolo 2 e l'articolo 3, comma 3, si applicano a decorrere dalla data di applicazione del regolamento di esecuzione (UE) 2018/1212 del 3 settembre 2018; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                l'articolo 3, comma 1, si applica alle relazioni sulla politica di remunerazione e sui compensi corrisposti da pubblicare in occasione delle assemblee di approvazione dei bilanci relativi agli esercizi finanziari aventi inizio a partire dal 1° gennaio 2019; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                l'articolo 3, comma 4, si applica alle assemblee il cui avviso di convocazione sia pubblicato a decorrere dal 1° gennaio 2020; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                l'articolo 3, comma 2, si applica decorso un anno dall'entrata in vigore del presente decreto legislativo.
 
 Le disposizioni di attuazione previste dal presente decreto legislativo sono adottate entro centottanta giorni dalla data della sua entrata in vigore ad eccezione di quelle richiamate dal comma 2, lettera a), del presente articolo che sono adottate entro ventiquattro mesi dall'adozione degli atti di esecuzione di cui all'articolo 3-bis, paragrafo 8, all'articolo 3-ter, paragrafo 6, e all'articolo 3-quater, paragrafo 3, della direttiva 2007/36/CE. Le disposizioni di attuazione emanate ai sensi delle disposizioni sostituite o abrogate dal presente decreto legislativo sono abrogate dalla data di entrata in vigore delle nuove disposizioni nelle corrispondenti materie. Fino a tale data esse continuano a essere applicate.
 

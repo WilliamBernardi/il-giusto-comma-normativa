@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: DPR
 vigenza_date: 2012-12-19
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:47:42Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -41,6 +41,52 @@ Fino alla data di entrata in vigore del regolamento di cui al comma 1, continua 
 ## Art. 2. — Definizioni degli organici
 
 Le disposizioni del presente Capo si applicano alle scuole dell'infanzia e alle istituzioni di ogni ordine e grado, comprese quelle annesse ai convitti nazionali e agli educandati statali.
+
+2.
+                        
+                            
+                                Le dotazioni organiche complessive sono definite annualmente sia a livello nazionale che per ambiti regionali tenuto conto degli assetti ordinamentali, dei piani di studio e delle consistenze orarie previsti dalle norme in vigore, in base:
+ 
+                            
+                            
+                                a)
+                                
+                                    alla previsione dell'entita' e della composizione della popolazione scolastica e con riguardo alle esigenze degli alunni disabili e degli alunni di cittadinanza non italiana;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    al grado di densita' demografica delle varie province di ciascuna regione e della distribuzione della popolazione tra i comuni di ogni circoscrizione provinciale;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    alle caratteristiche geo-morfologiche dei territori interessati e alle condizioni socioeconomiche e di disagio delle diverse realta';
+
+                                
+                            
+                            
+                                d)
+                                
+                                    all'articolazione dell'offerta formativa;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    alla distribuzione degli alunni nelle classi e nei plessi sulla base di un incremento del rapporto medio, a livello nazionale, alunni/classe di 0,40 da realizzare nel triennio 2009-2011;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    alle caratteristiche dell'edilizia scolastica.
 
 Le dotazioni di cui al comma 2 sono determinate, altresi', con l'osservanza dei criteri e dei parametri previsti dal presente regolamento. Le dotazioni dell'istruzione secondaria di I e II grado sono inoltre determinate con riguardo alle diverse discipline ed attivita' contenute nei curricoli delle singole istituzioni.
 
@@ -160,6 +206,38 @@ Nelle situazioni di particolare isolamento, ove sono funzionanti corsi di prepar
 
 ## Art. 16. — Disposizioni relative alla formazione delle classi iniziali negli istituti e scuole di istruzione secondaria di II grado
 
+1.
+                        
+                            
+                                Le classi del primo anno di corso degli istituti e scuole di istruzione secondaria di II grado sono costituite, di norma, con non meno di 27 allievi. A tal fine la previsione del numero delle classi del primo anno di corso in funzione nell'anno scolastico successivo deve essere formulata dividendo per 27 il numero complessivo di alunni iscritti nell'istituto o scuola e tenendo conto dei seguenti elementi di valutazione:
+ 
+                            
+                            
+                                a)
+                                
+                                    domande di iscrizione presentate;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    eventuale scostamento tra le iscrizioni e il numero degli studenti effettivamente frequentanti ciascuna scuola nei precedenti anni scolastici;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    serie storica dei tassi di non ammissione alla classe successiva;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    ogni altro elemento obiettivamente rilevabile derivante da nuovi insediamenti urbani, tendenze demografiche, livelli di scolarizzazione, istituzione di nuove scuole e nuovi indirizzi di specializzazione.
+
 Gli eventuali resti della costituzione di classi con 27 alunni sono distribuiti tra le classi dello stesso istituto, sede coordinata e sezione staccata o aggregata, qualora non sia possibile trasferire in istituti viciniori dello stesso ordine e tipo le domande eccedenti, e senza superare, comunque, il numero di 30 studenti per classe; si costituisce una sola classe quando le iscrizioni non superano le 30 unita'. Per il solo anno scolastico 2009/2010 restano confermati i limiti massimi di alunni per classe previsti dall'articolo 15 del decreto del Ministro della pubblica istruzione in data 24 luglio 1998, n. 331, e successive modificazioni, per le istituzioni scolastiche individuate in un apposito piano generale di riqualificazione dell'edilizia scolastica adottato dal Ministero dell'istruzione, dell'universita' e della ricerca d'intesa con il Ministero dell'economia e delle finanze.
 
 Negli istituti in cui sono presenti ordini di studio o sezioni di diverso tipo, le classi del primo anno di corso si formano separatamente per ogni ordine o sezione di diverso tipo, secondo la procedura di cui ai commi 1 e 2.
@@ -199,6 +277,32 @@ La consistenza delle dotazioni organiche del personale educativo dei convitti na
 
 Entro il limite massimo di personale determinato per effetto del conteggio di cui al comma 1, i dirigenti delle istituzioni educative definiscono la ripartizione dei posti da assegnare, distintamente, al personale educativo maschile e a quello femminile.
 
+3.
+                        
+                            
+                                Le dotazioni organiche degli istitutori e delle istitutrici sono determinate rapportando il totale dei convittori e delle convittrici ed il totale dei semiconvittori e delle semiconvittrici, di cui al comma 1, ai seguenti parametri:
+ 
+                            
+                            
+                                a)
+                                
+                                    in presenza di convittori e/o convittrici:
+ 1) con almeno quaranta convittori: cinque posti;
+ 2) con almeno quaranta convittrici: cinque posti;
+ 3) per ogni ulteriore gruppo di dieci convittori e/o convittrici: un posto;
+ 4) per ogni gruppo ulteriore di venti semiconvittori e/o semiconvittrici: un posto;
+ 5) con almeno trenta convittori o convittrici ed almeno quaranta semiconvittori e/o semiconvittrici: sei posti;
+ 6) per ogni gruppo di ottanta convittori e/o convittrici e' aggiunto un posto oltre quelli di cui al punto 3;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    in assenza di convittori e/o convittrici:
+ 1) con almeno settanta semiconvittori e/o semiconvittrici: quattro posti;
+ 2) per ogni gruppo ulteriore di venti semiconvittori e/o semiconvittrici : un posto.
+
 Qualora l'istituzione educativa sia unica in ambito regionale, i posti di istitutore o istitutrice possono essere assegnati anche in deroga al numero dei convittori e delle convittrici stabilito al comma 3, lettere a), numeri 1 e 2 e lettera b), n. 1). Nel caso previsto dal comma 3, lettera b), n. 1), la dotazione organica e' costituita esclusivamente da un'unita' di personale educativo per ogni gruppo di venti semiconvittori e/o semiconvittrici. I dirigenti preposti agli uffici scolastici regionali possono apportare limitate deroghe ai parametri previsti in relazione al numero di convittori nei soli casi in cui i convitti assicurino il funzionamento nell'arco dell'intera settimana (sette giorni) e nei periodi delle festivita' scolastiche.
 
 ## - CAPO V
@@ -223,6 +327,66 @@ Il medesimo personale, in via subordinata, e' utilizzato su posto o frazione di 
 Ai fini di cui al comma 1 viene effettuata, con apposita modifica al CCNI sulla mobilita', una riduzione dell'aliquota, che non deve superare il 20 per cento dei posti disponibili, riservata ai trasferimenti interprovinciali; per le medesime finalita', si tiene conto di quanto previsto, rispettivamente, dai commi 7 e 11 dell'articolo 72 del citato decreto-legge n. 112 del 2008 convertito, con modificazioni, dalla legge n. 133 del 2008, in materia di trattenimento in servizio oltre il limite di eta' e di compimento dell'anzianita' massima contributiva di quaranta anni.
 
 ## Art. 24. — Abrogazioni
+
+1.
+                        
+                            
+                                A decorrere dalla data di entrata in vigore del presente decreto, ovvero, in riferimento alle lett. c), d), e) seguenti, a decorrere dalla data di entrata in vigore del regolamento di cui all'articolo 1, comma 1, sono abrogati :
+ 
+                            
+                            
+                                a)
+                                
+                                    l'articolo 446, comma 1, del decreto legislativo 16 aprile 1994, n. 297;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'articolo 1, comma 72, della legge 23 dicembre 1996, n. 662;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il decreto del Ministro della pubblica istruzione in data 15 marzo 1997, n. 176;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    l'articolo 3 del decreto del Presidente della Repubblica 18 giugno 1998, n. 233;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    i Titoli II, III e IV del decreto ministeriale 24 luglio 1998, n. 331;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    il decreto del Ministro della pubblica istruzione in data 3 giugno 1999, n. 141;
+
+                                
+                            
+                            
+                                g)
+                                
+                                    l'articolo 8 del decreto interministeriale 18 dicembre 2001, n. 131;
+
+                                
+                            
+                            
+                                h)
+                                
+                                    l'articolo 35, comma 1, della legge 27 dicembre 2002, n. 289.
 
 A decorrere dalla medesima data di cui al comma 1, sono abrogate le disposizioni di legge e di regolamento in contrasto con il presente decreto.
 

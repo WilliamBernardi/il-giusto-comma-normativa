@@ -7,8 +7,8 @@ urn: urn:nir:stato:decreto.legislativo:2017-01-19;7
 vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:29Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -23,6 +23,34 @@ Acquisiti i pareri delle competenti commissioni della Camera dei deputati e del 
 Sulla proposta del Ministro della giustizia, di concerto con i Ministri dell'interno, del lavoro e delle politiche sociali e degli affari esteri e della cooperazione internazionale;
 
 ## Art. 1. — Modifiche alla legge 31 maggio 1995, n. 218
+
+1.
+                    
+                        
+                            Alla legge 31 maggio 1995, n. 218, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                dopo l'articolo 32 sono inseriti i seguenti articoli: 
+ «Art. 32-bis. (Matrimonio contratto all'estero da cittadini italiani dello stesso sesso). - 1. Il matrimonio contratto all'estero da cittadini italiani con persona dello stesso sesso produce gli effetti dell'unione civile regolata dalla legge italiana. 
+ Art. 32-ter. (Unione civile tra persone maggiorenni dello stesso sesso). - 1. La capacita' e le altre condizioni per costituire unione civile sono regolate dalla legge nazionale di ciascuna parte al momento della costituzione dell'unione civile. Se la legge applicabile non ammette l'unione civile tra persone maggiorenni dello stesso sesso si applica la legge italiana. Le disposizioni di cui all'articolo 1, comma 4, della legge 20 maggio 2016, n. 76, sono di applicazione necessaria. 
+ 2. Ai fini del nulla osta di cui all'articolo 116, primo comma, del codice civile, non rilevano gli impedimenti relativi al sesso delle parti. Qualora la produzione del nulla osta sia preclusa in ragione del mancato riconoscimento, secondo la legge dello Stato di cui lo straniero e' cittadino, dell'unione civile tra persone dello stesso sesso o di analogo istituto, il nulla osta e' sostituito da un certificato o altro atto comunque idoneo ad attestare la liberta' di stato, ovvero da dichiarazione sostitutiva ai sensi del decreto del Presidente della Repubblica 28 dicembre 2000, n. 445. Resta salva la liberta' di stato accertata o acquisita per effetto di un giudicato italiano o riconosciuto in Italia. 
+ 3. L'unione civile e' valida, quanto alla forma, se e' considerata tale dalla legge del luogo di costituzione o dalla legge nazionale di almeno una delle parti o dalla legge dello Stato di comune residenza al momento della costituzione. 
+ 4. I rapporti personali e patrimoniali tra le parti sono regolati dalla legge dello Stato davanti alle cui autorita' l'unione e' stata costituita. A richiesta di una delle parti il giudice puo' disporre l'applicazione della legge dello Stato nel quale la vita comune e' prevalentemente localizzata. Le parti possono convenire per iscritto che i loro rapporti patrimoniali sono regolati dalla legge dello Stato di cui almeno una di esse e' cittadina o nel quale almeno una di esse risiede. 
+ 5. Alle obbligazioni alimentari si applica l'articolo 45. 
+ Art. 32-quater. (Scioglimento dell'unione civile). - 1. In materia di scioglimento dell'unione civile la giurisdizione italiana sussiste, oltre che nei casi previsti dagli articoli 3 e 9, anche quando una delle parti e' cittadina italiana o l'unione e' stata costituita in Italia. I medesimi titoli di giurisdizione si applicano anche in materia di nullita' o di annullamento dell'unione civile. 
+ 2. Lo scioglimento dell'unione civile e' regolato dalla legge applicabile al divorzio in conformita' al regolamento n. 1259/2010/UE del Consiglio del 20 dicembre 2010 relativo ad una cooperazione rafforzata nel settore della legge applicabile al divorzio e alla separazione personale. 
+ Art. 32-quinquies. (Unione civile costituita all'estero tra cittadini italiani dello stesso sesso). - 1. L'unione civile, o altro istituto analogo, costituiti all'estero tra cittadini italiani dello stesso sesso abitualmente residenti in Italia produce gli effetti dell'unione civile regolata dalla legge italiana.»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                l'articolo 45 e' sostituito dal seguente: 
+ «Art. 45. (Obbligazioni alimentari nella famiglia). - 1. Le obbligazioni alimentari nella famiglia sono regolate dalla legge designata dal regolamento 2009/4/CE del Consiglio del 18 dicembre 2008 relativo alla competenza, alla legge applicabile, al riconoscimento e all'esecuzione delle decisioni e alla cooperazione in materia di obbligazioni alimentari, e successive modificazioni.».
 
 ## Art. 2. — Clausola di invarianza finanziaria
 

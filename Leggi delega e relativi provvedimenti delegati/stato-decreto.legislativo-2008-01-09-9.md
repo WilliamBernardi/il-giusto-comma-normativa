@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Leggi delega e relativi provvedimenti delegati
 vigenza_date: 2026-06-26
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:41:20Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -33,6 +33,228 @@ Sulla proposta del Ministro per le politiche giovanili e le attivita' sportive e
 Il presente decreto legislativo reca, in attuazione dei principi e dei criteri sanciti dalla legge 19 luglio 2007, n. 106, disposizioni volte a garantire la trasparenza e l'efficienza del mercato dei diritti audiovisivi degli eventi sportivi di campionati, coppe e tornei professionistici a squadre e delle correlate manifestazioni sportive, organizzati a livello nazionale, ed a disciplinare la ripartizione delle risorse economiche e finanziarie assicurate dalla commercializzazione in forma centralizzata di tali diritti, in modo da garantire l'equilibrio competitivo fra i soggetti partecipanti alle competizioni e da destinare una quota di tale risorse a fini di mutualita'.
 
 ## Art. 2. — Definizioni
+
+1.
+                        
+                            
+                                Ai fini del presente decreto legislativo si intende per:
+ 
+                            
+                            
+                                a)
+                                
+                                    «legge delega»: la legge 19 luglio 2007, n. 106;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    «evento»: l'evento sportivo costituito da una gara singola, disputata da due soggetti in competizione tra loro secondo modalita' e durata stabilite dai regolamenti sportivi, organizzata di norma dal soggetto che ha la disponibilita' dell'impianto sportivo e delle aree riservate e con la partecipazione dell'altro soggetto in qualita' di ospite, destinata alla fruizione del pubblico e comprensiva degli accadimenti di contorno che si verificano nell'area tecnica, nel campo di destinazione, negli spazi circostanti il campo di gioco e all'interno del recinto di gioco dell'impianto sportivo, come definiti dai regolamenti sportivi;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    «organizzatore dell'evento»: la societa' sportiva che assume la responsabilita' e gli oneri dell'organizzazione dell'evento disputato nell'impianto sportivo di cui essa ha la disponibilita';
+
+                                
+                            
+                            
+                                d)
+                                
+                                    «competizione»: qualunque competizione sportiva, organizzata in forma ufficiale di campionato, coppa o torneo professionistico cui partecipa una pluralita' di squadre secondo modalita' e durata previste dai regolamenti sportivi, nonche' gli ulteriori eventi organizzati sulla base dell'esito delle predette competizioni;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    «organizzatore della competizione»: il soggetto cui e' demandata o delegata l'organizzazione della competizione da parte della federazione sportiva riconosciuta dal Comitato olimpico nazionale italiano, competente per la rispettiva disciplina sportiva;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    «giornata»: il turno della competizione che comprende tutti gli eventi disputati in uno o in piu' giorni solari, secondo il calendario predisposto dall'organizzatore della competizione;
+
+                                
+                            
+                            
+                                g)
+                                
+                                    «diretta»: la trasmissione in tempo reale dell'evento;
+
+                                
+                            
+                            
+                                h)
+                                
+                                    «differita»: la trasmissione dell'evento dopo la conclusione dell'evento medesimo;
+
+                                
+                            
+                            
+                                i)
+                                
+                                    «prima differita»: la prima trasmissione in differita integrale dell'evento;
+
+                                
+                            
+                            
+                                j)
+                                
+                                    «replica»: la trasmissione integrale dell'evento successivamente alla prima messa in onda o alla prima differita;
+
+                                
+                            
+                            
+                                k)
+                                
+                                    «sintesi»: la trasmissione dell'evento di durata non superiore ai 45 minuti;
+
+                                
+                            
+                            
+                                l)
+                                
+                                    «immagini salienti»: le immagini salienti dell'evento, ivi compresi i fermi immagine, le immagini al rallentatore, l'instant replay e qualsiasi altro fotogramma o elaborazione delle azioni di gioco in grafica animata;
+
+                                
+                            
+                            
+                                m)
+                                
+                                    «immagini correlate»: le immagini filmate all'interno dell'impianto sportivo e delle relative aree riservate prima e dopo l'evento, comprese le immagini filmate degli accadimenti sportivi e delle interviste negli spazi al di fuori del recinto di gioco, in sala stampa, in area spogliatoi, nei passaggi dagli spogliatoi al campo di gioco, nonche' le interviste ai tifosi e le immagini degli spalti filmate anche nel corso dell'evento;
+
+                                
+                            
+                            
+                                n)
+                                
+                                    «prima messa in onda»: la diretta, la prima differita e la prima trasmissione delle immagini salienti;
+
+                                
+                            
+                            
+                                o)
+                                
+                                    «diritti audiovisivi»: i diritti esclusivi, di durata pari a cinquanta anni dalla data in cui si svolge l'evento, che comprendono:
+ 1) la fissazione e la riproduzione, diretta o indiretta, temporanea o permanente, in qualunque modo o forma, in tutto o in parte, delle immagini dell'evento, in qualunque luogo in cui l'evento si svolga;
+ 2) la comunicazione al pubblico delle riprese, fissazioni e riproduzioni, nonche' la loro messa a disposizione del pubblico in maniera tale che ciascuno possa avervi accesso dal luogo e nel momento scelti individualmente, su reti di comunicazione elettronica.
+Tale diritto non si esaurisce con alcun atto di comunicazione al pubblico o di messa a disposizione del pubblico delle immagini dell'evento;
+ 3) la distribuzione con qualsiasi modalita', compresa la vendita, dell'originale e delle copie delle riprese, fissazioni o riproduzioni dell'evento. Il diritto di distribuzione non si esaurisce nel territorio della Comunita' europea se non nel caso di prima vendita effettuata o consentita dall'avente diritto in uno Stato membro;
+ 4) il noleggio ed il prestito dell'originale e delle copie delle fissazioni dell'evento. La vendita o la distribuzione, sotto qualsiasi forma, non esauriscono il diritto di noleggio e di prestito;
+ 5) la fissazione, elaborazione o riproduzione, in tutto o in parte, delle emissioni dell'evento per nuove trasmissioni o ritrasmissioni o per nuove fissazioni aventi ad oggetto l'evento;
+ 6) l'utilizzazione delle immagini dell'evento per finalita' promozionali e pubblicitarie di prodotti e servizi, nonche' per finalita' di abbinamento delle immagini dell'evento a giochi e scommesse e per lo svolgimento delle relative attivita';
+ 7) la conservazione delle fissazioni delle immagini dell'evento ai fini della costituzione di un archivio o banca dati da riprodurre, elaborare, comunicare al pubblico e distribuire in qualunque modo e forma nei termini che precedono, a partire dalla mezzanotte dell'ottavo giorno che segue alla disputa dell'evento medesimo;
+
+                                
+                            
+                            
+                                p)
+                                
+                                    «diritto di archivio»: il diritto di cui alla lettera o), numero 7);
+
+                                
+                            
+                            
+                                q)
+                                
+                                    «diritti audiovisivi di natura primaria»: i diritti di prima messa in onda;
+
+                                
+                            
+                            
+                                r)
+                                
+                                    «diritti audiovisivi di natura secondaria»: i diritti di trasmissione della replica, della sintesi e delle immagini salienti;
+
+                                
+                            
+                            
+                                s)
+                                
+                                    «pacchetto»: un complesso di diritti audiovisivi relativi agli eventi di una o piu' competizioni;
+
+                                
+                            
+                            
+                                t)
+                                
+                                    «contratto di licenza»: il contratto avente ad oggetto la licenza a termine, all'operatore della comunicazione o all'intermediario indipendente, dei diritti audiovisivi relativi agli eventi della competizione;
+
+                                
+                            
+                            
+                                u)
+                                
+                                    «piattaforma»: sistema di distribuzione e di diffusione dei prodotti audiovisivi mediante tecnologie e mezzi di trasmissione e di ricezione delle immagini, sia in chiaro che ad accesso condizionato, anche a pagamento, su reti di comunicazione elettronica;
+
+                                
+                            
+                            
+                                v)
+                                
+                                    «prodotti audiovisivi»: i prodotti editoriali aventi ad oggetto eventi della competizione, confezionati sulla base delle diverse modalita' di trasmissione, nonche' delle diverse piattaforme, in conformita' agli orari e agli schemi approvati dall'organizzatore della competizione;
+
+                                
+                            
+                            
+                                w)
+                                
+                                    «in chiaro»: modalita' di trasmissione dei prodotti audiovisivi in forma non codificata e gratuitamente accessibile a tutti gli utenti;
+
+                                
+                            
+                            
+                                x)
+                                
+                                    «a pagamento»: modalita' di trasmissione dei prodotti audiovisivi attraverso un sistema ad accesso condizionato e dietro il pagamento di un corrispettivo per la visione da parte dell'utente, anche su richiesta individuale;
+
+                                
+                            
+                            
+                                y)
+                                
+                                    «reti di comunicazione elettronica»: i sistemi di trasmissione e, se del caso, le apparecchiature di commutazione o di instradamento e altre risorse che consentono di trasmettere segnali via cavo, via radio, a mezzo di fibre ottiche o con altri mezzi elettromagnetici, comprese le reti satellitari, le reti terrestri mobili e fisse, a commutazione di circuito e a commutazione di pacchetto, compresa Internet, le reti utilizzate per la diffusione circolare dei programmi sonori e televisivi, i sistemi per il trasporto della corrente elettrica, nella misura in cui siano utilizzati per trasmettere i segnali, le reti televisive via cavo, indipendentemente dal tipo di informazione trasportato;
+
+                                
+                            
+                            
+                                z)
+                                
+                                    «operatore della comunicazione»: il soggetto che ha la responsabilita' editoriale nella predisposizione dei programmi televisivi o radiofonici e dei relativi programmi-dati destinati, anche su richiesta individuale, alla diffusione anche ad accesso condizionato su frequenze terrestri in tecnica digitale, via cavo o via satellite o con ogni altro mezzo di comunicazione elettronica e che e' legittimato a svolgere le attivita' commerciali ed editoriali connesse alla diffusione delle immagini o dei suoni e dei dati relativi all'evento, nonche' il soggetto che presta servizi di comunicazione elettronica;
+
+                                
+                            
+                            
+                                aa)
+                                
+                                    «intermediario indipendente»: il soggetto che svolge attivita' di intermediazione nel mercato dei diritti audiovisivi sportivi e che non si trovi in una delle situazioni di controllo o collegamento ai sensi dei commi 13, 14 e 15 dell'articolo 43 del decreto legislativo 31 luglio 2005, n. 177, con operatori della comunicazione, con l'organizzatore della competizione e con organizzatori degli eventi, ovvero in una situazione di controllo analogo. Ai fini della presente legge, si ha situazione di controllo analogo quando le offerte dell'intermediario indipendente sono imputabili, sulla base di univoci elementi, ad un unico centro decisionale riferibile a operatori della comunicazione, all'organizzatore della competizione e agli organizzatori degli eventi;
+
+                                
+                            
+                            
+                                bb)
+                                
+                                    «canale tematico ufficiale»: l'insieme di programmi audiovisivi originali, di durata non inferiore alle otto ore settimanali, distribuito anche all'estero su qualsiasi piattaforma distributiva, predisposto da un fornitore di contenuti e unificati da un medesimo marchio editoriale, riferito prevalentemente alla attivita' sportiva e societaria dell'organizzatore dell'evento, che concede in esclusiva al fornitore di contenuti l'uso del proprio marchio e della propria immagine, veicolati su qualsiasi mezzo di comunicazione, in chiaro o pagamento;
+
+                                
+                            
+                            
+                                cc)
+                                
+                                    «stagione sportiva»: il periodo, secondo i regolamenti sportivi, che intercorre tra il 1° luglio e il 30 giugno dell'anno solare successivo;
+
+                                
+                            
+                            
+                                dd)
+                                
+                                    «utente»: il consumatore finale che, attraverso l'accesso ad una piattaforma distributiva, fruisce dei prodotti audiovisivi.
 
 ## - Titolo II TITOLARITA' ED ESERCIZIO DEI DIRITTI AUDIOVISIVI  Capo I  Regole generali
 
@@ -297,7 +519,34 @@ Fermo restando quanto previsto dall'articolo 26, i criteri di ripartizione delle
 
 ## Art. 26. — (Ripartizione delle risorse del Campionato di calcio di serie A)
 
-, e' determinata sulla base dei seguenti criteri:
+1.
+                        
+                            
+                                La ripartizione delle risorse assicurate dalla commercializzazione dei diritti audiovisivi relativi al Campionato italiano di calcio di serie A, dedotte le quote di cui all'articolo 22, e' effettuata con le seguenti modalita': 
+ 
+                            
+                            
+                                a)
+                                
+                                    una quota del 50 per cento in parti uguali tra tutti i soggetti partecipanti al Campionato di serie A; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    
+                                        ((una quota del 28 per cento)) sulla base dei risultati sportivi conseguiti; ((6))
+                                    
+                                
+                            
+                            
+                                c)
+                                
+                                    
+                                        ((una quota del 22 per cento)) sulla base del radicamento sociale. ((6))
+
+((2. La quota di cui al comma 1, lettera b), e' determinata sulla base dei seguenti criteri:
 
 a) la classifica e i punti conseguiti nell'ultimo campionato;
 

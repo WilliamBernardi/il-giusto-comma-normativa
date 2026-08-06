@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
 vigenza_date: 1994-06-13
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:42Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -40,6 +40,25 @@ Le presenti regole tecniche stabiliscono le prescrizioni minime cui debbono sodd
 
 ## Art. 2. — Banda di frequenze e canalizzazione
 
+1.
+                        
+                            
+                                La banda di frequenze e la canalizzazione, stabilite in base al regolamento delle radiocomunicazioni ed agli accordi internazionali, sono le seguenti:
+ 
+                            
+                            
+                                a)
+                                
+                                    banda di frequenze: 526,5 (Compreso) 1606,5 kHz;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    valore della frequenza portante, per ciascun canale:
+ Fp = 531 + 9 x k (kHz), con k intero variabile fra 0 e 119.
+
 ## Art. 3. — Tipo di modulazione e larghezza di banda
 
 La modulazione e' di ampiezza a doppia banda laterale. La larghezza di banda a radiofrequenza deve essere di 9 kHz. A tal fine il segnale modulante di bassa frequenza deve risultare attenuato, rispetto al suo livello alla frequenza di 4 kHz, eventualmente con filtro esterno, di almeno: 10 dB a 5 kHz, 21 dB a 7 kHz e 48 dB oltre 15 kHz.
@@ -68,6 +87,25 @@ Le prove possono essere limitate solo alle parti del trasmettitore piu' sensibil
 
 ## Art. 8. — Banda di frequenze e canalizzazione
 
+1.
+                        
+                            
+                                La banda di frequenze e la canalizzazione, stabilite in base al regolamento delle radiocomunicazioni, agli accordi internazionali ed al piano nazionale di ripartizione delle radiofrequenze, sono le seguenti:
+ 
+                            
+                            
+                                a)
+                                
+                                    banda di frequenze: 87.5 (Compreso) 108 MHz;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    valore della frequenza portante, per ciascun canale:
+ Fp = 87,6 + 0,1 x k (MHz), con k intero variabile fra 0 e 203.
+
 ## Art. 9. — Deviazione di frequenza e preenfasi
 
 La deviazione massima di frequenza e' di (Piu' o Meno) 75 kHz.
@@ -89,6 +127,26 @@ La tolleranza di frequenza ammessa e' di 2000 Hz.
 
 ## Art. 13. — Emissioni non essenziali
 
+1.
+                        
+                            
+                                La potenza delle emissioni non essenziali (ai connettori d'antenna) deve essere:
+ 
+                            
+                            
+                                a)
+                                
+                                    per apparati con potenza maggiore di 25 W:
+ 60 dB al di sotto della potenza emessa dall'apparato, con un valore massimo non superiore ad 1 mW;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    per apparati con potenza minore o uguale a 25 W:
+ 40 dB al di sotto della potenza emessa dall'apparato, con un valore massimo non superiore a 25 (Micron)W.
+
 ## Art. 14. — Condizioni ambientali particolari
 
 Le caratteristiche citate ai precedenti articoli 12 e 13 devono essere mantenute nelle condizioni climatiche definite dal diagramma dell'allegata fig. 1 e per variazioni anche contemporanee della tensione di alimentazione entro (Piu' o Meno) 10% rispetto al valore nominale, per apparati con potenza nominale non superiore a 2000 W, ed entro (Piu' o Meno) 2% per apparati con potenza superiore.
@@ -109,7 +167,59 @@ Nel caso di un trasmettitore stereofonico lo stesso filtro deve essere previsto 
 
 ## Art. 16. — Irradiazioni non essenziali
 
+1.
+                        
+                            
+                                Per irradiazioni non essenziali si intendono:
+ 
+                            
+                            
+                                a)
+                                
+                                    l'irradiazione della portante proveniente da qualsiasi parte del trasmettitore, esclusa la sua linea d'uscita;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'irradiazione a frequenze spurie, all'interno ed al di fuori della banda di funzionamento, proveniente da qualsiasi parte del trasmettitore.
+
 Irradiazione della portante direttamente nell'ambiente: in nessuna direzione la portante deve produrre intensita' di campo superiore a quella ottenibile con una potenza di 46 dB inferiore alla potenza nominale, alimentando un dipolo in mezz'onda nella direzione di massima irradiazione, posto idealmente al centro della zona occupata dal trasmettitore. La misura deve essere effettuata con trasmettitore non modulato ed in piena potenza, chiuso su un carico artificiale e con gli ingressi di modulazione chiusi con resistori schermati di valore pari all'impedenza nominale degli ingressi stessi. Per la misura puo' essere usato il metodo di sostituzione.
+
+3.
+                        
+                            
+                                L'irradiazione a frequenze spurie direttamente nell'ambiente, proveniente da qualsiasi parte del trasmettitore riguarda:
+ 
+                            
+                            
+                                a)
+                                
+                                    le armoniche della portante;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le frequenze parassite generate accidentalmente nel trasmettitore o corrispondenti a prodotti d'intermodulazione.
+
+4.
+                        
+                            
+                                In nessuna direzione le irradiazioni a frequenze spurie debbono produrre intensita' di campo superiore a quella ottenibile con una potenza di 1 mW alimentando un dipolo in mezz'onda nella direzione di massima irradiazione per la voce 
+                            
+                            
+                                a)
+                                
+                                    del comma 3 ed intensita' di campo superiore a quella ottenibile con una potenza di 10 (Micron)W per la voce
+                                
+                            
+                            
+                                b)
+                                
+                                    del comma 3. La misura viene effettuata nelle stesse condizioni indicate al comma 2.
 
 L'Amministrazione delle poste e delle telecomunicazioni ha facolta' di chiedere al costruttore l'autocertificazione di rispondenza dell'apparato ai limiti relativi alle irradiazioni non essenziali di cui ai commi 2, 3 e 4.
 
@@ -155,6 +265,42 @@ Al fine di poter effettuare le misure di stabilita' di frequenza, l'apparato dev
 
 ## Art. 22. — Emissioni non essenziali
 
+1.
+                        
+                            
+                                Per trasmettitori funzionanti su frequenze non superiori a 230 MHz, la potenza delle emissioni non essenziali, ai connettori d'antenna, deve essere:
+ 
+                            
+                            
+                                a)
+                                
+                                    per apparati con potenza maggiore di 25 W: 60 db al di sotto della potenza emessa dall'apparato in corrispondenza del livello del nero con un valore massimo non superiore a 1 mW;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    per apparati con potenza minore o uguale a 25 W: 40 dB al di sotto della potenza emessa dall'apparato in corrispondenza del livello del nero con valore massimo non superiore a 25 (Micron)W.
+
+2.
+                        
+                            
+                                Per trasmettitori funzionanti su frequenze comprese fra 470 MHz e 862 MHz la potenza delle emissioni non essenziali deve essere:
+ 
+                            
+                            
+                                a)
+                                
+                                    per apparati con potenza maggiore di 25 W: 60 dB al di sotto della potenza emessa dall'apparato in corrispondenza del livello del nero con un valore massimo non superiore a 20 mW;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    per apparati con potenza minore o uguale a 25 W: 40 dB al di sotto della potenza emessa dall'apparato in corrispondenza del livello del nero con valore massimo non superiore a 25 (Micron)W.
+
 Le misure devono essere effettuate con trasmettitore video non modulato ed una potenza pari a quella del livello del nero (2,5 dB al di sotto di quella corrispondente al picco dei sincronismi) e con trasmettitore audio non modulato ed in piena potenza.
 
 ## Art. 23. — Condizioni ambientali particolari
@@ -194,7 +340,43 @@ Nel rimanente campo di frequenze, essendo i prodotti di intermodulazione legati 
 
 ## Art. 25. — Irradiazioni non essenziali
 
+1.
+                        
+                            
+                                Per irradiazioni non essenziali si intendono:
+ 
+                            
+                            
+                                a)
+                                
+                                    l'irradiazione delle portanti video ed audio proveniente da qualsiasi parte del trasmettitore, esclusa la sua linea d'uscita;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'irradiazione di frequenze spurie, all'interno ed al di fuori del canale di funzionamento, proveniente da qualsiasi parte del trasmettitore.
+
 Irradiazione delle portanti video ed audio direttamente nell'ambiente: in nessuna direzione le portanti video ed audio debbono produrre intensita' di campo superiori a quelle ottenibili con una potenza di 40 dB inferiore alle rispettive potenze nominali, alimentando un dipolo in mezz'onda nella direzione di massima irradiazione, posto idealmente al centro della zona occupata dal trasmettitore. La misura deve essere effettuata con il trasmettitore video non modulato e funzionante ad una potenza di 2,5 dB al di sotto di quella corrispondente al picco dei sincronismi e col trasmettitore audio non modulato ed in piena potenza. Entrambi i trasmettitori, video ed audio, vanno chiusi, attraverso l'unita' combinatrice, su carico artificiale e con gli ingressi di modulazione chiusi con resistori schermati di valore pari alle impedenze nominali degli ingressi stessi. Per la misura puo' essere utilizzato il metodo di sostituzione.
+
+3.
+                        
+                            
+                                L'irradiazione di frequenze spurie direttamente nell'ambiente proveniente da qualsiasi parte del trasmettitore riguarda:
+ 
+                            
+                            
+                                a)
+                                
+                                    le armoniche delle portanti video ed audio;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le frequenze parassite generate accidentalmente nel trasmettitore o corrispondenti a prodotti d'intermodulazione.
 
 In nessuna direzione le irradiazioni a frequenze spurie debbono produrre intensita' di campo superiore a quella ottenibile con una potenza di 25 mW alimentando un dipolo in mezz'onda nella direzione di massima irradiazione. La misura viene effettuata nelle stesse condizioni indicate al comma 2.
 
@@ -228,6 +410,56 @@ Le specifiche tecniche, di cui al presente regolamento, sono valide anche ai fin
 
 Il richiedente l'omologazione deve presentare domanda in duplice copia, di cui una su carta da bollo di valore corrente con firma autenticata nei modi di legge, indirizzata al Ministero delle poste e delle telecomunicazioni - Direzione centrale servizi radioelettrici, viale Europa 175, 00144 Roma e per conoscenza all'Istituto superiore delle poste e delle telecomunicazioni. La domanda e la relativa copia devono essere recapitate alla Direzione centrale servizi radioelettrici in un unico plico.
 
+2.
+                        
+                            
+                                Nella suddetta domanda devono essere indicati:
+ 
+                            
+                            
+                                a)
+                                
+                                    generalita' complete del richiedente;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    ditta costruttrice, tipo, marca e modello dell'apparato da omologare.
+
+3.
+                        
+                            
+                                A ciascuna copia della domanda deve essere allegata la seguente documentazione tecnica, timbrata e firmata dal richiedente:
+ 
+                            
+                            
+                                a)
+                                
+                                    elenco delle specifiche tecniche;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    descrizione di funzionamento e di uso dell'apparato;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    schemi a blocco e schemi elettrici completi con indicazione o elenco di tutti i componenti;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    illustrazioni e/o fotografie a colori delle viste esterne ed interne dell'apparato, dalle quali sia possibile individuare chiaramente l'apparato stesso, la disposizione dei comandi, dei vari circuiti e dei relativi componenti.
+
 La documentazione, di cui al comma 3 punto b), deve essere redatta in lingua italiana, quella relativa agli altri punti dello stesso comma deve essere redatta in lingua italiana o, eventualmente, in lingua inglese.
 
 La Direzione centrale servizi radioelettrici, in seguito denominata DCSR, accertata la regolarita' della documentazione, provvede ad inviare all'Istituto superiore delle poste e delle telecomunicazioni, in seguito denominato ISPT, incaricato di effettuare le verifiche tecniche di laboratorio, copia della domanda corredata dalla documentazione tecnica.
@@ -237,6 +469,32 @@ Le verifiche tecniche vengono eseguite su un esemplare del modello di apparato p
 Effettuate le verifiche tecniche ed accertato l'avvenuto saldo delle relative spese, l'ISPT comunica alla DCSR l'esito delle verifiche stesse.
 
 La DCSR provvede a comunicare l'esito al richiedente e, nel caso di esito positivo, invia il certificato di omologazione.
+
+9.
+                        
+                            
+                                Il richiedente, che deve comunque presentare la domanda di cui ai commi 1, 2, 3 e 4, puo' richiedere l'esonero dalla presentazione dell'esemplare per l'esame di laboratorio nei casi in cui:
+ 
+                            
+                            
+                                a)
+                                
+                                    vengono apportate lievi modifiche costruttive ad un apparato, che abbia gia' ottenuto l'omologazione, tali da non alterare, a parere del costruttore, le specifiche tecniche gia' verificate;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    viene cambiata la designazione del modello di un apparato, che abbia gia' ottenuto l'omologazione;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    viene presentato un certificato di cui all'art. 28.
+ La DCSR, valutata e verificata la richiesta di esonero, invia il nuovo certificato di omologazione al richiedente.
 
 Il richiedente e' autorizzato ad immettere sul mercato gli apparati dalla data di ricevimento del certificato di omologazione.
 

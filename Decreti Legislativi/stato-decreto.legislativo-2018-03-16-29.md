@@ -8,8 +8,8 @@ vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
 vigenza_date: 2019-12-31
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:29Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -28,6 +28,98 @@ Sulla proposta del Ministro dell'economia e delle finanze;
 ## - Capo I Spesa
 
 ## Art. 1. — Impegno e pagamento
+
+1.
+                        
+                            
+                                All'articolo 34 della legge 31 dicembre 2009, n. 196, sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    al secondo periodo del comma 2 le parole: «della necessaria copertura finanziaria» sono sostituite dalle seguenti: «delle necessarie disponibilita' finanziarie, in termini di competenza e di cassa, di cui al terzo periodo» e il terzo periodo e' sostituito dai seguenti: «L'impegno puo' essere assunto solo in presenza, sulle pertinenti unita' elementari di bilancio, di disponibilita' finanziarie sufficienti, in termini di competenza, a far fronte in ciascun anno alla spesa imputata in bilancio e, in termini di cassa, a farvi fronte almeno nel primo anno, garantendo comunque il rispetto del piano finanziario dei pagamenti (Cronoprogramma), anche mediante l'utilizzo degli strumenti di flessibilita' stabiliti dalla legislazione vigente in fase gestionale o in sede di formazione del disegno di legge di bilancio. Nel caso di trasferimenti di somme ad amministrazioni pubbliche, l'impegno di spesa puo' essere assunto anche solamente in presenza della ragione del debito e dell'importo complessivo da impegnare, qualora i rimanenti elementi costitutivi dell'impegno indicati al secondo periodo del presente comma siano individuabili all'esito di un iter procedurale legislativamente disciplinato.»; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    dopo il comma 2 e' inserito il seguente: 
+ «2-bis. Nel caso di spesa da demandarsi a funzionari o commissari delegati, comunque denominati, l'amministrazione provvede ad assumere impegni di spesa delegata, al fine di mettere a disposizione le risorse ai predetti soggetti. Tali impegni sono assunti nei limiti dello stanziamento, con imputazione agli esercizi in cui le obbligazioni assunte o programmate dai funzionari delegati sono esigibili, sulla base di un programma di spesa, opportunamente documentato, comunicato all'amministrazione dai medesimi funzionari delegati e commisurato all'effettivo fabbisogno degli stessi, ai fini dell'emissione degli ordini di accreditamento. I relativi ordini di accreditamento sono disposti nel rispetto di quanto previsto dal piano finanziario dei pagamenti di cui all'articolo 23, comma 1-ter, e nel limite degli impegni assunti per l'esercizio finanziario di riferimento. L'assunzione degli impegni di spesa delegata e' possibile solo in presenza dei seguenti elementi costitutivi: la ragione dell'impegno, l'importo ovvero gli importi da impegnare, l'esercizio finanziario o gli esercizi finanziari su cui gravano le scadenze di pagamento. A valere sugli impegni di spesa delegata, l'amministrazione dispone una o piu' aperture di credito in funzione dell'esigibilita' delle obbligazioni assunte o programmate dal funzionario delegato. Qualora nel corso della gestione, a fronte delle aperture di credito ricevute non si perfezionino obbligazioni esigibili entro il termine dell'esercizio, i funzionari delegati ne danno comunicazione all'amministrazione per la corrispondente riduzione degli ordini di accreditamento. L'importo oggetto di riduzione rientra nella disponibilita' dell'amministrazione e puo' essere accreditato nel medesimo esercizio finanziario in favore di altri funzionari delegati, ovvero nuovamente impegnato secondo le modalita' di cui al presente articolo. Gli importi degli impegni di spesa delegata, a fronte dei quali, alla data di chiusura dell'esercizio, non corrispondono ordini di accreditamento costituiscono economie di bilancio. Gli importi delle aperture di credito non interamente utilizzati dai funzionari delegati entro il termine di chiusura dell'esercizio costituiscono residui di spesa delegata e possono essere accreditati agli stessi in conto residui negli esercizi successivi, prioritariamente in base all'esigibilita' delle obbligazioni assunte dai funzionari delegati, fermi restando i termini di conservazione dei residui di cui all'articolo 34-bis.
+Previa autorizzazione dell'amministrazione di riferimento, secondo le norme vigenti nell'ordinamento specifico di ogni singola amministrazione, i funzionari delegati possono avviare le procedure per l'acquisizione di forniture, servizi e lavori che comportano, in tutto o in parte, obbligazioni a carico di esercizi successivi, anche prima dell'emissione del relativo ordine di accreditamento.»; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    al comma 6, lettera b), le parole: «i capitoli interessati» sono sostituite dalle seguenti: «le unita' elementari di bilancio interessate»; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    al comma 7 sono apportate le seguenti modificazioni: 
+ 1) al primo periodo, le parole: «Al fine di consentire la programmazione dei pagamenti in coerenza con le complessive autorizzazioni di cassa del bilancio statale» sono sostituite dalle seguenti: «Al fine di garantire una corretta programmazione dell'utilizzo degli stanziamenti di cassa del bilancio statale» e le parole: «sui capitoli di bilancio» sono sostituite dalle seguenti: «sulle unita' elementari di bilancio»; 
+ 2) al primo periodo, la parola: «pluriennale» e' soppressa; 
+ 3) dopo il secondo periodo, e' aggiunto il seguente: «Il dirigente responsabile della gestione ha l'obbligo di aggiornare il piano finanziario dei pagamenti, con riferimento alle unita' elementari di bilancio di propria pertinenza, almeno con cadenza mensile, anche in assenza di nuovi impegni e, in ogni caso, in relazione a provvedimenti di variazioni di bilancio adottati ai sensi della normativa vigente in materia di flessibilita' in fase di gestione.»; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    dopo il comma 7 e' inserito il seguente: «7-bis. Nel caso di spesa da demandarsi a funzionari o commissari delegati, comunque denominati, il piano finanziario dei pagamenti e' predisposto e aggiornato dal dirigente responsabile anche sulla base delle comunicazioni dei funzionari delegati di cui al comma 2-bis.»; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    dopo il comma 8 e' inserito il seguente: «8-bis. Quali titoli e documenti comprovanti il diritto acquisito dai creditori sono considerati prioritari i provvedimenti di approvazione degli stati di avanzamento lavori, ove previsti, ovvero le fatture regolarmente emesse.»; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    al comma 10 sono apportate le seguenti modificazioni: 
+ 1) le parole: «sull'applicazione dei commi 7, 8 e 9» sono sostituite dalle seguenti: «sull'applicazione dei commi 7, 7-bis, 8 e 9»; 
+ 2) la parola: «(Cronoprogramma)» e' soppressa; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    al comma 11 le parole: «A partire dal 1° gennaio 2017, e'» sono sostituite dalla seguente: «E'», nonche' le parole: «e altre spese di importo e scadenza fissi ed accertati » sono soppresse; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    il comma 12 e' sostituito dal seguente: «12. Le spese di cui al comma 11 sono pagate mediante mandati informatici. Il pagamento delle pensioni nonche' delle competenze fisse ed accessorie al personale dello Stato viene effettuato mediante ordini collettivi di pagamento informatici. Le altre spese di importo e scadenza fissi ed accertati sono pagate mediante ruoli di spesa fissa informatici.».
+
+2.
+                        
+                            
+                                All'articolo 34-bis della legge 31 dicembre 2009, n. 196, sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    ai commi 2 e 4, le parole: «ai pertinenti capitoli» sono sostituite dalle seguenti: «alle pertinenti unita' elementari di bilancio»; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    dopo il comma 4, e' inserito il seguente: «4-bis. I termini di cui ai commi da 1 a 4 si applicano anche ai residui di cui al comma 2-bis dell'articolo 34».
 
 All'articolo 34-ter, comma 1, primo periodo, della legge 31 dicembre 2009, n. 196, le parole: «capitolo di bilancio» sono sostituite dalle seguenti: «unita' elementare di bilancio.».
 
@@ -77,6 +169,38 @@ All'articolo 6 del decreto-legge 2 marzo 1989, n. 65, convertito, con modificazi
 L'ultimo periodo dell'articolo 3, comma 12, del decreto-legge 20 giugno 1996, n. 323, convertito, con modificazioni, dalla legge 8 agosto 1996, n. 425, e' sostituto dai seguenti: «In relazione alle effettive e documentate esigenze di fabbisogno, indicate sul piano finanziario dei pagamenti del pertinente capitolo di bilancio dalla amministrazione titolare del centro di spesa, il Ministero dell'economia e delle finanze - Dipartimento della Ragioneria generale dello Stato, su richiesta dell'amministrazione competente, ferma restando la cadenza trimestrale, puo' assentire l'assunzione di impegni di importo differente per ciascun trimestre. L'erogazione e' effettuata entro il decimo giorno dall'inizio del trimestre di riferimento.».
 
 ## Art. 5. — Abrogazioni e disposizioni finali
+
+1.
+                        
+                            
+                                Sono abrogati: 
+ 
+                            
+                            
+                                a)
+                                
+                                    l'articolo 59, l'articolo 59-bis, secondo comma, l'articolo 60, primo e secondo comma, e l'articolo 61-bis del regio decreto 18 novembre 1923, n. 2440; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    i commi 10, 11 e 12 dell'articolo 6 del decreto-legge 6 luglio 2012, n. 95, convertito, con modificazioni, dalla legge 7 agosto 2012, n. 135; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    l'articolo 60, comma 15, del decreto-legge 25 giugno 2008, n. 112, convertito, con modificazioni, dalla legge 6 agosto 2008, n. 133; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    la legge 17 agosto 1960, n. 908.
 
 Le abrogazioni disposte dal presente articolo acquistano efficacia a decorrere dal 1° gennaio 2019.
 

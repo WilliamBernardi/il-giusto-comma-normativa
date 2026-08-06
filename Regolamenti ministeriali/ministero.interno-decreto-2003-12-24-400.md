@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
 vigenza_date: 2018-05-23
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:38Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -129,6 +129,80 @@ I giudizi d'idoneita' per l'ammissione al secondo ciclo previsti per il corso di
 
 Il giudizio di idoneita' al servizio di polizia al termine del corso di formazione iniziale per commissari e' espresso anche in relazione alle risultanze degli atti d'ufficio dal direttore dell'Istituto superiore di Polizia, sentito il comitato direttivo.
 
+3.
+                        
+                            
+                                I giudizi di idoneita' devono essere motivati e sono espressi sulla base dei seguenti parametri:
+ 
+                            
+                            
+                                a)
+                                
+                                    qualita' morali e di carattere: viene valutata la condivisione di principi e valori fondamentali quali la rettitudine, la lealta' e la correttezza;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    doti di equilibrio: viene valutata la capacita' di controllare le reazioni emotive;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    senso del dovere: viene valutata l'applicazione nelle attivita' formative e l'attaccamento alle istituzioni;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    senso della disciplina: viene valutata l'osservanza delle norme regolamentari e delle direttive impartite dai superiori;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    senso di responsabilita': viene valutata l'attitudine ad assumere le responsabilita' inerenti al proprio ruolo;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    spirito di iniziativa e capacita' organizzativa e di risoluzione: vengono valutate le capacita' di promuovere attivita' rispondenti alle esigenze, nonche' la capacita' di impiegare le risorse disponibili, analizzare i problemi e scegliere idonee soluzioni;
+
+                                
+                            
+                            
+                                g)
+                                
+                                    adattabilita' al lavoro di gruppo: viene valutata la capacita' di rapportarsi positivamente con gli altri nell'espletamento delle attivita';
+
+                                
+                            
+                            
+                                h)
+                                
+                                    condotta: vengono valutati i comportamenti tenuti durante il corso, l'interesse dimostrato, nonche' la capacita' di instaurare un corretto e costruttivo rapporto con superiori e colleghi;
+
+                                
+                            
+                            
+                                i)
+                                
+                                    rendimento negli studi: viene valutato il livello dei risultati conseguiti durante il corso; la valutazione tiene, altresi', conto dell'impegno e rendimento negli studi, dell'esito di esercitazioni, interrogazioni, questionari, tesine, lavori individuali e di gruppo e di ogni altra attivita' attinente al percorso formativo seguito dal frequentatore;
+
+                                
+                            
+                            
+                                l)
+                                
+                                    qualita' fisiche: viene valutato il grado di efficienza fisica dimostrato durante il corso.
+
 Il giudizio di idoneita' di cui ai commi 1 e 2, deve essere motivato ed e' espresso, sulla base dei medesimi parametri enunciati al comma 3, anche in relazione agli esiti del tirocinio operativo e dei periodi di applicazione risultanti dalle note valutative ed informative di cui agli articoli 15, 16, 25 e 30.
 
 I giudizi sono sintetizzati in una nota valutativa, con l'attribuzione di un punteggio da 0 a 3 per ogni singolo parametro.
@@ -203,7 +277,64 @@ Il giudizio finale e' costituito da un voto espresso in trentesimi che valuta co
 
 La graduatoria finale e' formata sulla base del punteggio complessivo attribuito a ciascun frequentatore, aumentato come previsto dal comma 4.
 
+2.
+                        
+                            
+                                Il punteggio complessivo e' formato calcolando la media, in trentesimi:
+ 
+                            
+                            
+                                a)
+                                
+                                    del voto riportato nel concorso per l'accesso al ruolo dei commissari;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    della media dei voti riportati negli esami e nelle altre prove stabiliti dal piano di studio di cui all'articolo 3, comma 2, sostenuti durante il primo ciclo del corso;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    della media dei voti riportati negli esami e nelle altre prove stabiliti dal piano di studio di cui all'articolo 3, comma 2, sostenuti durante il secondo ciclo del corso;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    del voto riportato nell'esame finale.
+
 Ai fini del calcolo di cui al comma 2 agli esami superati in sessione suppletiva cui il frequentatore sia stato ammesso per insufficiente profitto si intende attribuito il voto di 18/30.
+
+4.
+                        
+                            
+                                Il punteggio di cui al comma 2 e' aumentato, secondo la valutazione ottenuta nel giudizio di idoneita' al servizio di polizia conseguito alla fine del secondo ciclo, di:
+ 
+                            
+                            
+                                a)
+                                
+                                    0,25 punti per la valutazione da 22 a 25/30;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    0,50 punti per la valutazione da 26 a 29/30;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    0,75 punti per la valutazione di 30/30.
 
 ## - Capo II Corso di formazione per vice commissari del ruolo direttivo speciale della Polizia di Stato
 
@@ -227,7 +358,64 @@ Il giudizio finale e' costituito da un voto espresso in trentesimi che valuta co
 
 La graduatoria finale e' formata sulla base del punteggio complessivo attribuito a ciascun frequentatore, aumentato come previsto dal comma 4.
 
+2.
+                        
+                            
+                                Il punteggio complessivo e' formato calcolando la media, in trentesimi:
+ 
+                            
+                            
+                                a)
+                                
+                                    del voto riportato nel concorso per l'accesso al ruolo direttivo speciale;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    della media dei voti riportati negli esami e nelle altre prove stabiliti dal piano di studio, sostenuti durante il primo ciclo del corso;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    della media dei voti riportati negli esami e nelle altre prove stabiliti dal piano di studio, sostenuti durante il secondo ciclo del corso;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    del voto riportato nell'esame finale.
+
 Ai fini del calcolo di cui al comma 2, agli esami superati in sessione suppletiva cui il frequentatore sia stato ammesso per insufficiente profitto si intende attribuito il voto di 18/30.
+
+4.
+                        
+                            
+                                Il punteggio di cui al comma 2 e' aumentato, secondo la valutazione conseguita nel giudizio di idoneita', di:
+ 
+                            
+                            
+                                a)
+                                
+                                    0,25 punti per la valutazione da 22 a 25/30;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    0,50 punti per la valutazione da 26 a 29/30;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    0,75 punti per la valutazione di 30/30.
 
 ## Art. 23. — Disposizioni transitorie per il ruolo direttivo speciale
 
@@ -265,7 +453,57 @@ Il giudizio finale e' costituito da un voto espresso in trentesimi che valuta co
 
 La graduatoria finale e' formata sulla base del punteggio complessivo attribuito a ciascun frequentatore, aumentato come previsto dal comma 4.
 
+2.
+                        
+                            
+                                Il punteggio complessivo e' formato calcolando la media, in trentesimi:
+ 
+                            
+                            
+                                a)
+                                
+                                    del voto riportato nel concorso per l'accesso al ruolo dei direttori tecnici;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    della media dei voti riportati negli esami e nelle altre prove eventualmente stabiliti dal piano di studio;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    del voto riportato nell'esame finale.
+
 Ai fini del calcolo di cui al comma 2, agli esami superati in sessione suppletiva cui il frequentatore sia stato ammesso per insufficiente profitto si intende attribuito il voto di 18/30.
+
+4.
+                        
+                            
+                                Il punteggio di cui al comma 2 e' aumentato, secondo la valutazione conseguita nel giudizio di idoneita', di:
+ 
+                            
+                            
+                                a)
+                                
+                                    0,25 punti per la valutazione da 22 a 25/30;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    0,50 punti per la valutazione da 26 a 29/30;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    0,75 punti per la valutazione di 30/30.
 
 ## - Capo IV Corso di formazione per vice direttori tecnici del ruolo speciale ad esaurimento della Polizia di Stato
 
@@ -307,7 +545,57 @@ Il giudizio finale e' costituito da un voto espresso in trentesimi che valuta co
 
 La graduatoria finale e' formata sulla base del punteggio complessivo attribuito a ciascun frequentatore, aumentato come previsto dal comma 4.
 
+2.
+                        
+                            
+                                Il punteggio complessivo e' formato calcolando la media, in trentesimi:
+ 
+                            
+                            
+                                a)
+                                
+                                    del voto riportato nel concorso per l'accesso al ruolo dei direttivi medici;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    della media dei voti riportati negli esami e nelle altre prove eventualmente stabiliti dal piano di studio;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    del voto riportato nell'esame finale.
+
 Ai fini del calcolo di cui al comma 2, agli esami superati in sessione suppletiva cui il frequentatore sia stato ammesso per insufficiente profitto si intende attribuito il voto di 18/30.
+
+4.
+                        
+                            
+                                Il punteggio di cui al comma 2 e' aumentato, secondo la valutazione conseguita nel giudizio di idoneita', di:
+ 
+                            
+                            
+                                a)
+                                
+                                    0,25 punti per la valutazione da 22 a 25/30;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    0,50 punti per la valutazione da 26 a 29/30;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    0,75 punti per la valutazione di 30/30.
 
 ## - Titolo III CORSO DI FORMAZIONE DIRIGENZIALE Capo I Corso di formazione dirigenziale per l'accesso alla qualifica di primo dirigente dei ruoli del personale della Polizia di Stato che espleta funzioni di polizia, di primo dirigente tecnico e di primo dirigente medico
 

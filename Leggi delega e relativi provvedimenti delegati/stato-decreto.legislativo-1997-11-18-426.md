@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Leggi delega e relativi provvedimenti delegati
 vigenza_date: 2023-08-17
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:41:15Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -47,6 +47,24 @@ Ove lo statuto non venga adottato entro il termine di centocinquanta giorni dall
 
 ## Art. 3. — Finalita'
 
+1.
+                    
+                        
+                            La Fondazione Centro sperimentale di cinematografia e' istituzione di alta formazione e di ricerca nel campo della cinematografia ((e delle produzioni audiovisive, con particolare riferimento all'analisi e all'attuazione delle innovazioni conseguenti allo sviluppo delle tecnologie digitali)). Essa ha le seguenti finalita': 
+ 
+                        
+                        
+                            a)
+                            
+                                lo sviluppo dell'arte e della tecnica cinematografica ed audiovisiva a livello d'eccellenza, attraverso la ricerca, la sperimentazione, la produzione, l'attivita' di alta formazione, perfezionamento e aggiornamento, svolgendo iniziative di avanguardia e curando la promozione ed il coordinamento di iniziative di formazione sul territorio nazionale, anche in collaborazione con istituti pubblici e privati e con le universita', e, mediante intese, con le regioni, le province ed i comuni; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                la conservazione, l'incremento, il restauro e la promozione, in Italia ed all'estero, del patrimonio culturale cinematografico, anche mediante convenzioni con enti, istituzioni ed associazioni culturali, scuole ed universita';
+
 COMMA SOPPRESSO DAL D.LGS. 22 GENNAIO 2004, N. 32.
 
 La Fondazione Centro sperimentale di cinematografia puo', previa autorizzazione del Ministro per i beni e le attivita' culturali, partecipare a societa' di capitali, e puo' svolgere, altresi', attivita' commerciali ed altre attivita' accessorie, in conformita' agli scopi istituzionali. Non e' comunque ammessa la distribuzione degli utili, che devono essere destinati agli scopi istituzionali.
@@ -57,6 +75,30 @@ Nel caso in cui eserciti un'attivita' commerciale, la Fondazione e' soggetta, in
 ((
 
 Per il perseguimento delle finalita' di cui all'articolo 3, la Fondazione Centro sperimentale di cinematografia si articola in due distinti settori, denominati Scuola nazionale di cinema e Cineteca nazionale, soggetti ai poteri di indirizzo e controllo degli organi della Fondazione. A tali settori sono preposti due direttori, denominati rispettivamente Preside e Conservatore.
+
+2.
+                    
+                        
+                            La Fondazione "Centro sperimentale di cinematografia", tramite la Scuola nazionale di cinema, realizza lo sviluppo dell'arte e della tecnica cinematografica ed audiovisiva a livello di eccellenza, mediante: 
+
+                        
+                        
+                            a)
+                            
+                                l'attivita' di alta formazione, con l'elaborazione dei metodi didattici piu' avanzati; 
+                            
+                        
+                        
+                            b)
+                            
+                                l'attivita' di ricerca e di sperimentazione nel campo digitale e nei settori cinematografico ed audiovisivo; 
+                            
+                        
+                        
+                            c)
+                            
+                                l'attivita' di produzione, con lo svolgimento di iniziative di avanguardia. 
+Con decreto del Ministro per i beni e le attivita' culturali, di concerto con il Ministro dell'istruzione, dell'universita' e della ricerca, su proposta elaborata dalla Scuola nazionale di cinema, in conformita' alle disposizioni che disciplinano l'alta formazione artistica, e' determinato l'ordinamento degli studi in relazione alle tipologie di corsi, alla composizione del corpo docente, alla durata dei corsi di formazione ordinaria e di quelli di perfezionamento o di aggiornamento eventualmente istituiti, nonche' alla valenza del titolo conferito all'esito dei corsi, anche in riferimento ad eventuali titoli preferenziali per le attivita' sovvenzionate dallo Stato e da altri enti pubblici.
 
 La Fondazione "Centro Sperimentale di Cinematografia" tramite la Cineteca nazionale, provvede alla raccolta delle opere della cinematografia nazionale, alla loro conservazione e, ove occorra, al loro restauro, anche con la ricerca di tecnologie piu' avanzate; provvede alla conservazione dei negativi delle opere filmiche nei casi previsti dalla legge; cura la raccolta e la conservazione di opere della cinematografia internazionale; svolge azione di coordinamento sul territorio nazionale con le cineteche che ricevono sostegni e contributi pubblici, e azione di raccordo con le rimanenti; svolge le finalita' di cui all'articolo 3, comma 1, lettera b), anche mediante supporto e collaborazione con la Scuola nazionale di cinema.
 
@@ -83,6 +125,67 @@ Lo statuto determina la composizione, le competenze e le modalita' di nomina del
 
 Il consiglio di amministrazione e' nominato con decreto del Ministro per i beni e le attivita' culturali, sentito il parere delle competenti Commissioni parlamentari, ed e' composto dal presidente, indicato dal medesimo Ministro, e da ((sei)) componenti, designati, rispettivamente, ((tre dal Ministro della cultura, uno dal Ministro dell'universita' e della ricerca, uno dal Ministro dell'istruzione e del merito)) ed uno dal Ministro dell'economia e delle finanze. I componenti del consiglio di amministrazione sono individuati tra personalita' di elevato profilo culturale, con particolare riguardo al campo cinematografico ed audiovisivo, e con comprovate capacita' organizzative. Possono far parte del consiglio di amministrazione due ulteriori rappresentanti di soggetti pubblici o privati che partecipino alle attivita' della Fondazione con un contributo annuo di almeno un milione di euro. Essi restano in carica per l'anno cui si riferisce il contributo.
 
+2.
+                    
+                        
+                            Il consiglio di amministrazione, in particolare: 
+ 
+                        
+                        
+                            a)
+                            
+                                adotta lo statuto e le sue successive modificazioni; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                definisce le linee generali dell'attivita' della Fondazione, l'indirizzo generale della gestione e l'organizzazione degli uffici; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                approva il bilancio di esercizio, insieme ad una adeguata relazione tecnica; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                
+                                    ((LETTERA ABROGATA DAL D.L. 22 GIUGNO 2023, N. 75, CONVERTITO CON MODIFICAZIONI DALLA L. 10 AGOSTO 2023, N. 112)); 
+
+                            
+                        
+                        
+                            e)
+                            
+                                nomina, su proposta del presidente, il direttore generale, al quale e' affidata l'attivita' di gestione amministrativa, sulla base degli indirizzi definiti dal consiglio di amministrazione e delle direttive del presidente; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                nomina, su proposta del presidente, ((sentito il comitato scientifico,)) il preside della Scuola nazionale di cinema ed il Conservatore della Cineteca nazionale; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                nomina, su proposta del presidente, ((sentiti il comitato scientifico e il preside)), i docenti della Scuola nazionale di cinema; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                assegna gli stanziamenti per le varie attivita' istituzionali e ((delibera la proposta da sottoporre al Ministro della cultura)), d'intesa con il Ministro dell'economia e delle finanze, ((concernente i compensi)) spettanti al presidente ed ai componenti degli organi collegiali.
+
 COMMA SOPPRESSO DAL D.LGS. 22 GENNAIO 2004, N. 32.
 
 ## Art. 6-bis. — (( (Presidente). ))
@@ -100,6 +203,31 @@ Il presidente e' nominato con decreto del Ministro per i beni e le attivita' cul
 ## Art. 7. — (Comitato scientifico).
 
 
+
+2.
+                    
+                        
+                            Il comitato scientifico opera con la presenza di almeno quattro componenti; esso formula proposte ed esprime pareri in ordine: 
+ 
+                        
+                        
+                            a)
+                            
+                                ai programmi ed agli indirizzi di carattere didattico della Scuola nazionale di cinema; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                all'attivita' della Cineteca nazionale; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                alle attivita' di formazione, di ricerca e di diffusione della cultura cinematografica;
 
 ((2-bis. Il comitato scientifico esprime altresi' il proprio parere in merito alla nomina del preside della Scuola nazionale di cinema, del Conservatore della Cineteca nazionale nonche' dei docenti della Scuola nazionale di cinema))
 
@@ -119,6 +247,26 @@ Entro tre mesi dalla stipulazione del primo contratto collettivo di lavoro appli
 
 ## Art. 9. — Disponibilita' finanziarie e gestione
 
+1.
+                    
+                        
+                            La ((Fondazione Centro sperimentale di cinematografia)) provvede ai suoi compiti con: 
+
+                        
+                        
+                            a)
+                            
+                                i redditi del suo patrimonio, fermo quanto previsto dall'articolo 3, comma 3; 
+                            
+                        
+                        
+                            b)
+                            
+                                i contributi ordinari dello Stato, destinati alle finalita' istituzionali della fondazione, stanziati con determinazione triennale, negli stati di previsione della spesa del Ministero per i beni e le attivita' culturali, con riferimento al Fondo unico dello spettacolo; 
+d) eventuali proventi di gestione, anche con riferimento alla utilizzazione dei teatri di posa e delle altre strutture; 
+e) eventuali contribuiti ed assegnazioni, anche a titolo di sponsorizzazione, da parte di altri soggetti o enti pubblici o privati, italiani e stranieri; 
+f) eventuali altre entrate, derivanti dall'esercizio di attivita' commerciali ((, nel rispetto dei limiti cui all'articolo 3, comma 3)).
+
 Ai fini dell'assegnazione del contributo di cui al comma 1, lettera b), la ((Fondazione Centro sperimentale di cinematografia)) presenta ogni tre anni, entro il 31 ottobre dell'anno antecedente al triennio di riferimento, un programma delle attivita', con relazione finanziaria ed evidenziazione delle somme necessarie al perseguimento delle singole finalita' istituzionali. Il contributo, di misura non inferiore all'8 per cento della quota del Fondo unico per lo spettacolo destinato al cinema, e' assegnato, sentita la commissione consultiva per il cinema, con decreto del Ministro per i beni e le attivita' culturali, avente efficacia triennale, salvo revoca o modificazioni.
 
 La gestione finanziaria e' soggetta al controllo della Corte dei conti alle condizioni e con le modalita' di cui alla legge 21 marzo 1958, n. 259.
@@ -126,6 +274,36 @@ La gestione finanziaria e' soggetta al controllo della Corte dei conti alle cond
 La ((Fondazione Centro sperimentale di cinematografia)), a partire dal 1 gennaio dell'anno solare successivo a quello della trasformazione, anche quando non esercita attivita' commerciale, deve tenere i libri e le altre scritture contabili prescritti dall'articolo 2214 del codice civile e deve redigere il bilancio di esercizio secondo le disposizioni degli articoli 2423 e seguenti del codice civile, in quanto compatibili.
 
 ## Art. 10. — Vigilanza e amministrazione straordinaria
+
+1.
+                    
+                        
+                            
+                                ((Il Ministro per i beni e le attivita' culturali)) e' titolare del potere di vigilanza sulla gestione della ((Fondazione Centro sperimentale di cinematografia)). Puo' disporre lo scioglimento del consiglio di amministrazione quando: 
+
+                        
+                        
+                            a)
+                            
+                                risultano gravi irregolarita' nell'amministrazione, ovvero gravi violazioni delle disposizioni legislative, amministrative o statutarie che regolano l'attivita' della ((Fondazione)); 
+                            
+                        
+                        
+                            b)
+                            
+                                il conto economico chiude con una perdita superiore al 30 per cento del patrimonio per due esercizi consecutivi, ovvero sono previste perdite del patrimonio di analoga entita'; 
+                            
+                        
+                        
+                            c)
+                            
+                                non viene ricostituito il patrimonio, ai sensi dell'articolo 11, comma 2; 
+                            
+                        
+                        
+                            d)
+                            
+                                vi e' impossibilita' di funzionamento degli organi.
 
 Con il decreto di scioglimento viene nominato un commissario straordinario e ne vengono determinati la durata dell'incarico ed il compenso. Il commissario straordinario esercita tutti i poteri del presidente e del consiglio di amministrazione.
 

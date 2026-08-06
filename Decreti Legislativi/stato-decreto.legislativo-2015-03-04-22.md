@@ -8,8 +8,8 @@ vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
 vigenza_date: 2026-01-01
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:32Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -34,6 +34,39 @@ A decorrere dal 1° maggio 2015 e' istituita presso la Gestione prestazioni temp
 Sono destinatari della NASpI i lavoratori dipendenti con esclusione dei dipendenti a tempo indeterminato delle pubbliche amministrazioni di cui all'articolo 1, comma 2, del decreto legislativo 30 marzo 2001, n. 165, e successive modificazioni, nonche' degli operai agricoli a tempo determinato o indeterminato, per i quali ultimi trovano applicazione le norme di cui all'articolo 7, comma 1, del decreto-legge 21 marzo 1988, n. 86, convertito, con modificazioni, dalla legge 20 maggio 1988, n. 160, all'articolo 25 della legge 8 agosto 1972, n. 457, all'articolo 7 della legge 16 febbraio 1977, n. 37, e all'articolo 1 della legge 24 dicembre 2007, n. 247. ((A decorrere dal 1° gennaio 2022 sono destinatari della NASpI anche gli operai agricoli a tempo indeterminato delle cooperative e loro consorzi che trasformano, manipolano e commercializzano prodotti agricoli e zootecnici prevalentemente propri o conferiti dai loro soci, di cui alla legge 15 giugno 1984, n. 240)).
 
 ## Art. 3. — Requisiti
+
+1.
+                        
+                            
+                                La NASpI e' riconosciuta ai lavoratori che abbiano perduto involontariamente la propria occupazione e che presentino congiuntamente i seguenti requisiti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    siano in stato di disoccupazione ai sensi dell'articolo 1, comma 2, lettera c), del decreto legislativo 21 aprile 2000, n. 181, e successive modificazioni; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    possano far valere, nei quattro anni precedenti l'inizio del periodo di disoccupazione, almeno tredici settimane di contribuzione; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    possano far valere trenta giornate di lavoro effettivo, a prescindere dal minimale contributivo, nei dodici mesi che precedono l'inizio del periodo di disoccupazione. 
+
+                                
+                            
+                            
+                                c-bis)
+                                
+                                    
+                                        ((con riferimento agli eventi di disoccupazione verificatisi dal 1° gennaio 2025, possano far valere almeno tredici settimane di contribuzione dall'ultimo evento di cessazione del rapporto di lavoro a tempo indeterminato interrotto per dimissioni volontarie, anche a seguito di risoluzione consensuale, fatte salve le ipotesi di cui al comma 2 e di dimissioni di cui all'articolo 55 del testo unico delle disposizioni legislative in materia di tutela e sostegno della maternita' e della paternita', di cui al decreto legislativo 26 marzo 2001, n. 151. Tale requisito si applica a condizione che l'evento di cessazione per dimissioni sia avvenuto nei dodici mesi precedenti l'evento di cessazione involontaria per cui si richiede la prestazione)).
 
 Il requisito di cui al comma 1, lettera c), cessa di applicarsi con riferimento agli eventi di disoccupazione verificatisi dal 1° gennaio 2022.
 
@@ -136,6 +169,45 @@ La contribuzione relativa all'assicurazione generale obbligatoria per l'invalidi
 
 ## Art. 11. — Decadenza
 
+1.
+                        
+                            
+                                Ferme restando le misure conseguenti all'inottemperanza agli obblighi di partecipazione alle azioni di politica attiva previste dal decreto di cui all'articolo 7, comma 3, il lavoratore decade dalla fruizione della NASpI nei seguenti casi: 
+ 
+                            
+                            
+                                a)
+                                
+                                    perdita dello stato di disoccupazione; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    inizio di un'attivita' lavorativa subordinata senza provvedere alle comunicazioni di cui all'articolo 9, commi 2 e 3; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    inizio di un'attivita' lavorativa in forma autonoma o di impresa individuale senza provvedere alla comunicazione di cui all'articolo 10, comma 1, primo periodo; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    raggiungimento dei requisiti per il pensionamento di vecchiaia o anticipato; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    acquisizione del diritto all'assegno ordinario di invalidita', salvo il diritto del lavoratore di optare per la NASpI.
+
 ## Art. 12. — Contribuzione figurativa
 
 La contribuzione figurativa e' rapportata alla retribuzione di cui all'articolo 4, comma 1, entro un limite di retribuzione pari a 1,4 volte l'importo massimo mensile della NASpI per l'anno in corso.
@@ -161,6 +233,31 @@ Alla NASpI si applicano le disposizioni in materia di ASpI in quanto compatibili
 Indennita' di disoccupazione per i lavoratori con rapporto di collaborazione coordinata e continuativa - DIS-COLL
 
 In attesa degli interventi di semplificazione, modifica o superamento delle forme contrattuali previsti all'articolo 1, comma 7, lettera a), della legge n. 183 del 2014, in via sperimentale per il 2015, in relazione agli eventi di disoccupazione verificatisi a decorrere dal 1° gennaio 2015 e sino al 31 dicembre 2015, e' riconosciuta ai collaboratori coordinati e continuativi, anche a progetto, con esclusione degli amministratori e dei sindaci, iscritti in via esclusiva alla Gestione separata, non pensionati e privi di partita IVA, che abbiano perduto involontariamente la propria occupazione, una indennita' di disoccupazione mensile denominata DIS-COLL.
+
+2.
+                        
+                            
+                                La DIS-COLL e' riconosciuta ai soggetti di cui al comma 1 che presentino congiuntamente i seguenti requisiti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    siano, al momento della domanda di prestazione, in stato di disoccupazione ai sensi dell'articolo 1, comma 2, lettera c), del decreto legislativo n. 181 del 2000, e successive modificazioni; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    possano far valere almeno un mese di contribuzione nel periodo che va dal primo gennaio dell'anno solare precedente l'evento di cessazione dal lavoro al predetto evento; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    possano far valere, nell'anno solare in cui si verifica l'evento di cessazione dal lavoro, un mese di contribuzione oppure un rapporto di collaborazione di cui al comma 1 di durata pari almeno ad un mese e che abbia dato luogo a un reddito almeno pari alla meta' dell'importo che da' diritto all'accredito di un mese di contribuzione.
 
 La DIS-COLL e' rapportata al reddito imponibile ai fini previdenziali risultante dai versamenti contributivi effettuati, derivante da rapporti di collaborazione di cui al comma 1, relativo all'anno in cui si e' verificato l'evento di cessazione dal lavoro e all'anno solare precedente, diviso per il numero di mesi di contribuzione, o frazione di essi.
 

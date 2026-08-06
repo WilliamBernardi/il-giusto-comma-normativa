@@ -8,8 +8,8 @@ codice_redazionale: 001G0481
 vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:28Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -23,11 +23,75 @@ Sulla proposta del Ministro del lavoro e delle politiche sociali;
 
 ## Art. 1. — Ambito di applicazione
 
+1.
+                    
+                        
+                            Le norme del presente decreto disciplinano per i lavoratori soci degli organismi associativi individuati dall'articolo 1 del decreto del Presidente della Repubblica 30 aprile 1970, n. 602, e successive modificazioni, che svolgono le attivita' di cui all'elenco allegato al decreto del Ministero del lavoro e della previdenza sociale in data 3 dicembre 1999, pubblicato nella Gazzetta Ufficiale n. 297 del 20 dicembre 1999, la contribuzione previdenziale ed assistenziale dovuta agli enti previdenziali interessati per le seguenti forme di previdenza e di assistenza sociale:
+ 
+                        
+                        
+                            a)
+                            
+                                assicurazione per l'invalidita', la vecchiaia ed i superstiti;
+
+                            
+                        
+                        
+                            b)
+                            
+                                assicurazione per l'assegno per il nucleo familiare;
+
+                            
+                        
+                        
+                            c)
+                            
+                                assicurazione per le prestazioni economiche di malattia e maternita';
+
+                            
+                        
+                        
+                            d)
+                            
+                                assicurazione contro gli infortuni sul lavoro e le malattie professionali.
+
 ## Art. 2. — Omogeneizzazione della retribuzione imponibile
 
 A decorrere dal 1 gennaio 2002, l'imponibile giornaliero per i lavoratori soci degli organismi associativi di cui all'articolo 1, ai fini del versamento dei contributi previdenziali ed assistenziali per le forme assicurative ivi previste, non puo' essere inferiore all'importo che garantisce, su base annua, il rispetto del parametro introdotto dall'articolo 7, comma 1, primo periodo, del decreto-legge 12 settembre 1983, n. 463, convertito, con modificazioni, dalla legge 11 novembre 1983, n. 638, come modificato dall'articolo 1, comma 2, primo periodo, del decreto-legge 9 ottobre 1989, n. 338, convertito, con modificazioni, dalla legge 7 dicembre 1989, n. 389, e successive modificazioni.
 
 ## Art. 3. — Adeguamento della misura della contribuzione previdenziale
+
+1.
+                    
+                        
+                            A decorrere dal 1 gennaio 2003, per ciascun socio lavoratore, ai fini del versamento dei contributi dovuti per l'invalidita', la vecchiaia ed i superstiti, l'imponibile giornaliero di cui all'articolo 2, comma 1, e' annualmente aumentato nelle seguenti misure percentuali calcolate sulla differenza retributiva esistente tra l'importo determinato ai sensi del citato articolo 2, comma 1, ed il corrispondente minimo contrattuale giornaliero previsto, per il medesimo anno, dal relativo contratto collettivo nazionale di lavoro, o da quello del settore o della categoria affine:
+ 
+                        
+                        
+                            a)
+                            
+                                del 25 per cento per l'anno 2003;
+
+                            
+                        
+                        
+                            b)
+                            
+                                del 50 per cento per l'anno 2004;
+
+                            
+                        
+                        
+                            c)
+                            
+                                del 75 per cento per l'anno 2005;
+
+                            
+                        
+                        
+                            d)
+                            
+                                del 100 per cento per l'anno 2006.
 
 A decorrere dal 1 gennaio 2003, ai fini del versamento dei contributi di previdenza e di assistenza sociale diversi da quelli dovuti per l'invalidita', la vecchiaia ed i superstiti, l'imponibile giornaliero di cui all'articolo 2, comma 1, e' annualmente aumentato, secondo le modalita' temporali e nelle percentuali di cui al comma 1, calcolate sulla differenza retributiva esistente tra l'importo determinato ai sensi del citato articolo 2, comma 1, ed il limite minimo di retribuzione giornaliera di cui all'articolo 7, comma 1, secondo periodo, del decreto-legge 12 settembre 1983, n. 463, convertito, con modificazioni, dalla legge 11 novembre 1983, n. 638, cosi' come modificato dall'articolo 1, comma 2, secondo periodo, del decreto-legge 9 ottobre 1989, n. 338, convertito, con modificazioni, dalla legge 7 dicembre 1989, n. 389, e successive modificazioni.
 
@@ -40,6 +104,45 @@ Gli organismi associativi di cui all'articolo 1 sono comunque responsabili del p
 ## Art. 4. — Norme transitorie
 
 Sino al 31 dicembre 2006, il periodo di occupazione media mensile, ai fini del versamento dei contributi di previdenza e di assistenza sociale, e' confermato in 26 giornate lavorative.
+
+2.
+                    
+                        
+                            Nei territori del Mezzogiorno e nelle regioni Basilicata e Campania, individuati dal decreto del Ministro del lavoro e della previdenza sociale in data 27 maggio 1982, pubblicato nella Gazzetta Ufficiale della Repubblica italiana n. 147 del 31 maggio 1982, il periodo di occupazione media mensile e' elevato a 26 giornate lavorative secondo il seguente schema:
+ 
+                        
+                        
+                            a)
+                            
+                                18 giornate nel 2002;
+
+                            
+                        
+                        
+                            b)
+                            
+                                20 giornate nel 2003;
+
+                            
+                        
+                        
+                            c)
+                            
+                                22 giornate nel 2004;
+
+                            
+                        
+                        
+                            d)
+                            
+                                24 giornate nel 2005;
+
+                            
+                        
+                        
+                            e)
+                            
+                                26 giornate nel 2006.
 
 Sino al 31 dicembre 2006, ai soli fini del versamento dei contributi dovuti per l'invalidita', la vecchiaia ed i superstiti, restano confermate le classi di contribuzione fissate con decreti ministeriali adottati ai sensi dell'articolo 6 del decreto del Presidente della Repubblica 30 aprile 1970, n. 602, e successive modificazioni, purche' di importo non inferiore all'imponibile determinato per ciascun anno, secondo le modalita' di cui all'articolo 3, comma 1.
 

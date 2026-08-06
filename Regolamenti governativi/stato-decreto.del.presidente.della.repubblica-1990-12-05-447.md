@@ -8,8 +8,8 @@ codice_redazionale: 091G0056
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti governativi
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:16Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -47,6 +47,31 @@ Il presente regolamento ha decorrenza dal 1 gennaio 1988 e durata fino al 31 d
 
 Ferma restando l'autonomia delle parti l'Azienda e l'ASDA-CIDA firmatari dell'accordo recepito con il presente regolamento, consapevoli dell'importanza del ruolo delle reciproche relazioni per il consolidamento e lo sviluppo delle potenzialita' del settore, esprimono la comune volonta' di garantire l'efficienza e l'efficacia delle attivita' aziendali sotto l'aspetto economico-produttivo. A tal fine si dichiarano disponibili a perseguire anche le necessarie modifiche di ordine organizzativo capaci di garantire la migliore tutela dell'interesse pubblico attraverso l'offerta all'utenza di servizi quantitativamente e qualitativamente correlati alla domanda nel tempo e nello spazio in condizioni di economicita' e convengono di realizzare un sistema di relazioni e di informazioni coerente con tali esigenze.
 
+2.
+                    
+                        
+                            Di conseguenza, nel rispetto delle competenze proprie degli organi aziendali ed al fine di ricercare ogni possibile contributo per l'organizzazione e l'esercizio dei servizi istituzionali, strumentali e di supporto, l'Azienda assicura, con cadenza annuale, una tempestiva ed aggiornata informazione all'organizzazione sindacale dei dirigenti in particolare sui provvedimenti che riguardano:
+ 
+                        
+                        
+                            a)
+                            
+                                la programmazione aziendale e i relativi piani di investimento;
+
+                            
+                        
+                        
+                            b)
+                            
+                                l'organizzazione della struttura aziendale e la sua articolazione sia centrale che periferica;
+
+                            
+                        
+                        
+                            c)
+                            
+                                le funzioni del personale dirigente in rapporto alle modificazioni strutturali e organizzative.
+
 A questo ultimo fine le parti convengono di dar luogo, con cadenza semestrale ad appositi incontri per un'analisi della situazione.
 
 ## Art. 5. — Aggiornamento professionale
@@ -76,6 +101,66 @@ Le prestazioni rese in eccedenza all'orario di lavoro di cui sopra si intendono 
 
 ## Art. 8. — Giorni festivi
 
+1.
+                    
+                        
+                            Sono considerati giorni festivi:
+ 
+                        
+                        
+                            a)
+                            
+                                le domeniche;
+
+                            
+                        
+                        
+                            b)
+                            
+                                le seguenti festivita':
+ 25 aprile (anniversario della Liberazione);
+ 1 maggio (festa del lavoro);
+ 1 gennaio (capodanno);
+ 6 gennaio;
+ lunedi' di Pasqua;
+ 15 agosto (Assunzione);
+ 1 novembre (Ognissanti);
+ 8 dicembre (Immacolata Concezione);
+ 25 dicembre (S. Natale);
+ 26 dicembre (S. Stefano);
+ 29 giugno (SS. Pietro e Paolo) limitatamente ai soggetti previsti dalla legge;
+
+                            
+                        
+                        
+                            c)
+                            
+                                il giorno riconosciuto come festivita' nel settore dell'assistenza al volo per il restante personale dell'Azienda.
+
+2.
+                    
+                        
+                            Per il trattamento delle prestazioni rese nelle giornate dichiarate festive si applicano le seguenti disposizioni:
+ 
+                        
+                        
+                            a)
+                            
+                                prestazioni rese nella giornata di domenica: ferma restando la fruizione di una giornata di recupero a compensazione del riposo settimanale non fruito, le prestazioni si intendono retribute attraverso l'indennita' di cui all'art. 18;
+
+                            
+                        
+                        
+                            b)
+                            
+                                in caso di prestazioni negli altri giorni dichiarati festivi di cui alle lettere b) e
+                            
+                        
+                        
+                            c)
+                            
+                                del comma 1 o di festivita' coincidente con la domenica sara' corrisposto, in aggiunta alla normale retribuzione mensile, un compenso sostitutivo della festivita' non goduta pari ad 1/26 della retribuzione base mensile (stipendio tabellare piu' indennita' integrativa speciale); ove la prestazione di lavoro intervenga in una festivita' coincidente con la domenica, il compenso sostitutivo sara' pari a 2/26.
+
 ## Art. 9. — Ferie
 
 A partire dal 1 gennaio 1988, il personale dirigente ha diritto, per ogni anno di servizio, ad un periodo di ferie retribuito in relazione all'anzianita' di servizio complessivamente considerata: giorni 26 lavorativi fino al compimento del 14 anno di servizio; giorni 32 lavorativi oltre il 14 anno di servizio.
@@ -104,11 +189,82 @@ La competenza a concedere congedi, aspettative, il congedo per matrimonio e i pe
 
 ## Art. 11. — Elementi della retribuzione lorda globale
 
+1.
+                    
+                        
+                            Gli elementi che concorrono a formare la retribuzione lorda globale del personale dirigente sono i seguenti:
+ 
+                        
+                        
+                            a)
+                            
+                                stipendio tabellare mensile, costituito dagli importi riferiti a ciascuna qualifica dirigenziale riportati nella tabella di cui all'art. 12;
+
+                            
+                        
+                        
+                            b)
+                            
+                                indennita' integrativa speciale di cui all'art. 14;
+
+                            
+                        
+                        
+                            c)
+                            
+                                aumenti periodici di anzianita' di cui all'art. 15;
+
+                            
+                        
+                        
+                            d)
+                            
+                                indennita' professionale di cui all'art. 17;
+
+                            
+                        
+                        
+                            e)
+                            
+                                indennita' di esercizio di cui all'art. 18;
+
+                            
+                        
+                        
+                            f)
+                            
+                                incentivo annuale di rendimento di cui all'art. 19.
+
 La retribuzione mensile base, a ogni effetto contrattuale, e' costituita dallo stipendio tabellare e dall'indennita' di adeguamento al costo della vita.
 
 La retribuzione globale e' costituita dalla retribuzione base piu' tutti gli altri elementi retributivi a carattere continuativo che sono corrisposti con cadenza mensile o annuale.
 
 ## Art. 12. — Stipendi tabellari
+
+1.
+                    
+                        
+                            Gli stipendi tabellari mensili fissati dalla allegata tabella A per le qualifiche dirigenziali conglobano le seguenti voci retributive:
+ 
+                        
+                        
+                            a)
+                            
+                                importo mensile relativo all'adeguamento delle retribuzioni al costo della vita corrisposta nella forma della indennita' integrativa speciale con riferimento alle variazioni intervenute fino al 31 gennaio 1977 nella misura unica di L. 90.152; di conseguenza la corrispondente indennita' spettante al personale dirigente e' ridotta dello stesso importo a partire dal 1 gennaio 1988;
+
+                            
+                        
+                        
+                            b)
+                            
+                                quota parte degli scatti di anzianita' attribuiti alla data del 1 gennaio 1988 con riferimento alle anzianita' individualmente riconosciute alla data del 31 dicembre 1987 nella misura unica di L. 250.000 per i dirigenti e di L. 300.000 per i direttori di DAV e i direttori centrali;
+
+                            
+                        
+                        
+                            c)
+                            
+                                importo del premio di produzione mensile previsto dall'art. 6 della delibera n. 192 del 17 dicembre 1985 nelle misure di lire 250.000, 305.500 e 385.000 rispettivamente per dirigenti, direttori centrali e vice direttore generale.
 
 ## Art. 13. — Retribuzione oraria e giornaliera
 
@@ -176,6 +332,31 @@ A partire dal 1 gennaio 1988, e' istituito un incentivo di rendimento individu
 
 L'ammontare complessivo dell'incentivo annuale e' commisurato al 5% del monte annuo degli stipendi tabellari di tutte le qualifiche dirigenziali previste in organico.
 
+3.
+                    
+                        
+                            Il premio incentivante viene attribuito ed erogato con provvedimento del consiglio di amministrazione secondo la seguente procedura:
+ 
+                        
+                        
+                            a)
+                            
+                                per una quota pari al 30% dell'intera disponibilita' in funzione del grado di raggiungimento degli obiettivi predeterminati per ciascuna unita' organica; nel caso in cui i programmi e gli obiettivi non siano stati tempestivamente predeterminati, la somma disponibile a questo titolo viene assegnata in parti uguali a tutta la dirigenza;
+
+                            
+                        
+                        
+                            b)
+                            
+                                per una quota pari al 20% dell'intera disponibilita' su proposta motivata del direttore generale, in relazione alla valutazione di rendimento di ciascuna unita' dirigenziale;
+
+                            
+                        
+                        
+                            c)
+                            
+                                per una quota pari al restante 50% dell'intera disponibilita' in funzione dei risultati e/o delle economie di gestione realizzate da ciascuna unita' dirigenziale, individuati attraverso appositi parametri che saranno fissati sentita l'organizzazione sindacale dei dirigenti.
+
 ## Art. 20. — Corresponsione della retribuzione
 
 La retribuzione deve essere corrisposta al personale dirigente entro e non oltre il 25 di ogni mese. In caso di ritardo superiore a dieci giorni decorreranno di pieno diritto gli interessi nella misura in vigore fissata per il tasso ufficiale di sconto dalle autorita' monetarie nazionali.
@@ -196,9 +377,105 @@ Il consiglio di amministrazione, su proposta del direttore generale, con proprio
 
 ## Art. 23. — Trasferimento e relativo trattamento economico
 
+1.
+                    
+                        
+                            Il trasferimento del personale dirigente che comporti trasferimento di sede puo' essere disposto dal consiglio di amministrazione, sentito il parere di una apposita commissione paritetica, nei seguenti casi:
+ 
+                        
+                        
+                            a)
+                            
+                                per comprovate esigenze di servizio e per ragioni tecniche, organizzative e produttive;
+
+                            
+                        
+                        
+                            b)
+                            
+                                a domanda dell'interessato, valutate le esigenze di servizio ed ove non ostino ragioni tecniche, organizzative e produttive.
+
+2.
+                    
+                        
+                            La commissione paritetica sara' cosi' composta:
+ 
+                        
+                        
+                            a)
+                            
+                                in rappresentanza dell'Azienda:
+ il presidente del consiglio di amministrazione, che la presiede; due consiglieri di amministrazione designati dal consiglio di amministrazione;
+ il direttore generale;
+
+                            
+                        
+                        
+                            b)
+                            
+                                in rappresentanza dei dirigenti:
+ quattro membri designati dall'organizzazione sindacale dei dirigenti.
+
+3.
+                    
+                        
+                            La commissione dovra' esprimere il proprio motivato parere osservando i seguenti criteri:
+ 
+                        
+                        
+                            a)
+                            
+                                esame dei requisiti professionali posseduti;
+
+                            
+                        
+                        
+                            b)
+                            
+                                condizioni sociali;
+
+                            
+                        
+                        
+                            c)
+                            
+                                anzianita' di servizio nella qualifica ed anzianita' complessiva;
+
+                            
+                        
+                        
+                            d)
+                            
+                                eta'.
+
 La commissione decide a maggioranza dei presenti; in caso di parita' di voti prevale il voto del presidente.
 
 Il trasferimento dovra' essere comunicato per iscritto al dirigente con un preavviso non inferiore a trenta giorni di calendario.
+
+6.
+                    
+                        
+                            Al dirigente trasferito anche a seguito di variazioni di qualifica da una ad un'altra sede di servizio e ove il trasferimento obblighi il dirigente ad un cambiamento di residenza sara' corrisposto:
+ 
+                        
+                        
+                            a)
+                            
+                                il rimborso di tutte le spese sostenute e documentate in relazione al materiale spostamento suo e del nucleo familiare;
+
+                            
+                        
+                        
+                            b)
+                            
+                                l'eventuale maggiore spesa effettivamente sostenuta per un alloggio dello stesso tipo di quello occupato nella sede di origine, per un periodo da stabilirsi direttamente tra le parti e comunque non inferiore ad un anno; nel caso di alloggio di proprieta' nella sede di origine l'eventuale differenza dei valori va calcolata in base alla normativa sull'"equo canone";
+
+                            
+                        
+                        
+                            c)
+                            
+                                un'indennita' una tantum pari a quattro mensilita' di retribuzione se il dirigente ha carichi di famiglia e a due mensilita' se senza carichi.
 
 ## Art. 24. — Effetti sul trattamento di quiescenza
 

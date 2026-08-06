@@ -8,8 +8,8 @@ codice_redazionale: 095G0001
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:41Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -29,7 +29,99 @@ E' individuata la figura professionale dell'infermiere con il seguente profilo: 
 
 L'assistenza infermieristica preventiva, curativa, palliativa e riabilitativa e' di natura tecnica, relazionale, educativa. Le principali funzioni sono la prevenzione delle malattie, l'assistenza dei malati e dei disabili di tutte le eta' e l'educazione sanitaria.
 
+3.
+                    
+                        
+                            L'infermiere:
+ 
+                        
+                        
+                            a)
+                            
+                                partecipa all'identificazione dei bisogni di salute della persona e della collettivita';
+
+                            
+                        
+                        
+                            b)
+                            
+                                identifica i bisogni di assistenza infermieristica della persona e della collettivita' e formula i relativi obiettivi;
+
+                            
+                        
+                        
+                            c)
+                            
+                                pianifica, gestisce e valuta l'intervento assistenziale infermieristico;
+
+                            
+                        
+                        
+                            d)
+                            
+                                garantisce la corretta applicazione delle prescrizioni diagnostico-terapeutiche;
+
+                            
+                        
+                        
+                            e)
+                            
+                                agisce sia individualmente sia in collaborazione con gli altri operatori sanitari e sociali;
+
+                            
+                        
+                        
+                            f)
+                            
+                                per l'espletamento delle funzioni si avvale, ove necessario, dell'opera del personale di supporto;
+
+                            
+                        
+                        
+                            g)
+                            
+                                svolge la sua attivita' professionale in strutture sanitarie pubbliche o private, nel territorio e nell'assistenza domiciliare, in regime di dipendenza o libero-professionale.
+
 L'infermiere contribuisce alla formazione del personale di supporto e concorre direttamente all'aggiornamento relativo al proprio profilo professionale e alla ricerca.
+
+5.
+                    
+                        
+                            La formazione infermieristica post-base per la pratica specialistica e' intesa a fornire agli infermieri di assistenza generale delle conoscenze cliniche avanzate e delle capacita' che permettano loro di fornire specifiche prestazioni infermieristiche nelle seguenti aree:
+ 
+                        
+                        
+                            a)
+                            
+                                sanita' pubblica: infermiere di sanita' pubblica;
+
+                            
+                        
+                        
+                            b)
+                            
+                                pediatria: infermiere pediatrico;
+
+                            
+                        
+                        
+                            c)
+                            
+                                salute mentale-psichiatria: infermiere psichiatrico;
+
+                            
+                        
+                        
+                            d)
+                            
+                                geriatria: infermiere geriatrico;
+
+                            
+                        
+                        
+                            e)
+                            
+                                area critica: infermiere di area critica.
 
 In relazione a motivate esigenze emergenti dal Servizio sanitario nazionale, potranno essere individuate, con decreto del Ministero della sanita', ulteriori aree richiedenti una formazione complementare specifica.
 

@@ -8,8 +8,8 @@ codice_redazionale: 091G0011
 vigente: true
 source: normattiva-opendata
 collection: DPR
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:47:47Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -44,4 +44,68 @@ I prelievi delle somme accreditate sulle carte nominative sono ammessi, senza ri
 Il titolare della carta nominativa puo' disporre delle somme accreditate per effettuare operazioni presso gli uffici postali abilitati o presso soggetti all'uopo autorizzati.
 
 ## Art. 3.
+
+1.
+                    
+                        
+                            Con decreto del Ministro delle poste e delle telecomunicazioni sono stabiliti:
+ 
+                        
+                        
+                            a)
+                            
+                                le caratteristiche delle carte nominative;
+
+                            
+                        
+                        
+                            b)
+                            
+                                le modalita' di utilizzazione delle carte stesse;
+
+                            
+                        
+                        
+                            c)
+                            
+                                la disciplina del rapporto fra amministrazione ed utente relativamente alla costituzione del conto per operazioni di cassa;
+
+                            
+                        
+                        
+                            d)
+                            
+                                le disposizioni di raccordo con le norme, anche contabili, regolatrici dei servizi a danaro;
+
+                            
+                        
+                        
+                            e)
+                            
+                                le caratteristiche dei distributori automatici di banconote, quali mezzi di custodia limitatamente alle provviste di contante occorrenti per il loro funzionamento;
+
+                            
+                        
+                        
+                            f)
+                            
+                                il tipo di prestazioni fornite dalla carta e le relative decorrenze nonche' gli uffici abilitati all'esecuzione delle prestazioni stesse.
+
+2.
+                    
+                        
+                            Con decreto del Ministro delle poste e delle telecomunicazioni, di concerto con il Ministro del tesoro, sono stabiliti:
+ 
+                        
+                        
+                            a)
+                            
+                                i limiti dei prelevamenti mediante l'uso dei distributori automatici;
+
+                            
+                        
+                        
+                            b)
+                            
+                                il prezzo della carta nominativa e le tariffe per le connesse operazioni.
 

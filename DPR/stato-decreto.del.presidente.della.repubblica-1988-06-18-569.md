@@ -8,8 +8,8 @@ codice_redazionale: 089G0064
 vigente: true
 source: normattiva-opendata
 collection: DPR
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:48:03Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -24,4 +24,22 @@ Udito il parere del Consiglio di Stato;
 Sulla proposta del Ministro dei trasporti, di concerto con i Ministri dell'interno, del tesoro, della difesa e del turismo e dello spettacolo;
 
 ## Art. 1.
+
+1.
+                    
+                        
+                            Sono approvate le seguenti modifiche al testo dello statuto tipo degli aero clubs locali, allegato allo statuto dell'Aero club d'Italia, approvato con decreto del Presidente della Repubblica 29 novembre 1965, n. 1715:
+ 
+                        
+                        
+                            a)
+                            
+                                nel primo comma dell'art. 1, sono aggiunte, in fine, le seguenti parole: "e di volo da diporto o sportivo;";
+
+                            
+                        
+                        
+                            b)
+                            
+                                nel primo comma dell'art. 13, al n. 6, sono aggiunte, in fine, le seguenti parole: "il volo da diporto o sportivo.".
 

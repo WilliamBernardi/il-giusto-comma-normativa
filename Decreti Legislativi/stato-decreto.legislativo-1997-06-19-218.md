@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
 vigenza_date: 2025-06-13
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:21Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -45,6 +45,38 @@ La definizione delle imposte sui redditi ha effetto anche per l'imposta sul valo
 Puo' essere oggetto di definizione anche la determinazione sintetica del reddito complessivo netto.
 
 L'accertamento definito con adesione non e' soggetto ad impugnazione, non e' integrabile o modificabile da parte dell'ufficio e non rileva ai fini dell'imposta comunale per l'esercizio di imprese e di arti e professioni, nonche' ai fini extratributari, fatta eccezione per i contributi previdenziali e assistenziali, la cui base imponibile e' riconducibile a quella delle imposte sui redditi. La definizione esclude, anche con effetto retroattivo, in deroga all'articolo 20 della legge 7 gennaio 1929, n. 4, la punibilita' per i reati previsti dal decreto-legge 10 luglio 1982, n. 429, convertito, con modificazioni, dalla legge 7 agosto 1982, n. 516, limitatamente ai fatti oggetto dell'accertamento; la definizione non esclude comunque la punibilita' per i reati di cui agli articoli 2, comma 3, e 4 del medesimo decreto-legge.
+
+4.
+                        
+                            
+                                La definizione non esclude l'esercizio dell'ulteriore azione accertatrice entro i termini previsti dall'articolo 43 del decreto del Presidente della Repubblica 29 settembre 1973, n. 600, relativo all'accertamento delle imposte sui redditi, e dall'articolo 57 del decreto del Presidente della Repubblica 26 ottobre 1972, n. 633, riguardante l'imposta sul valore aggiunto: 
+ 
+                            
+                            
+                                a)
+                                
+                                    se sopravviene la conoscenza di nuovi elementi, in base ai quali e' possibile accertare un maggior reddito, superiore al cinquanta per cento del reddito definito e comunque non inferiore a centocinquanta milioni di lire; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    se la definizione riguarda accertamenti parziali; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    se la definizione riguarda i redditi derivanti da partecipazione nelle societa' o nelle associazioni indicate nell'articolo 5 del testo unico delle imposte sui redditi, approvato con decreto del Presidente della Repubblica 22 dicembre 1986, n. 917, ovvero in aziende coniugali non gestite in forma societaria; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    se l'azione accertatrice e' esercitata nei confronti delle societa' o associazioni o dell'azienda coniugale di cui alla lettera c), alle quali partecipa il contribuente nei cui riguardi e' intervenuta la definizione.
 
 A seguito della definizione, le sanzioni per le violazioni concernenti i tributi oggetto dell'adesione commesse nel periodo d'imposta, nonche' per le violazioni concernenti il contenuto delle dichiarazioni relative allo stesso periodo, si applicano nella misura di un terzo del minimo previsto dalla legge, ad eccezione di quelle applicate in sede di liquidazione delle dichiarazioni ai sensi dell'articolo 36-bis del decreto del Presidente della Repubblica 29 settembre 1973, n. 600, e dell'articolo 60, sesto comma, del decreto del Presidente della Repubblica 26 ottobre 1972, n. 633, nonche' di quelle concernenti la mancata, incompleta o non veritiera risposta alle richieste formulate dall'ufficio. Sulle somme dovute a titolo di contributi previdenziali e assistenziali di cui al comma 3 non si applicano sanzioni e interessi. (12) ((20))
 
@@ -89,6 +121,33 @@ Nel caso di esercizio di attivita' d'impresa o di arti e professioni in forma as
 Non si applicano le disposizioni dell'articolo 44 del decreto del Presidente della Repubblica 29 settembre 1973, n. 600, riguardante la partecipazione dei comuni all'accertamento dei redditi delle persone fisiche.
 
 ## Art. 5. — Avvio del procedimento
+
+1.
+                        
+                            
+                                
+                                    ((L'ufficio di iniziativa, nei casi di cui all'articolo 6-bis, comma 2, della legge n. 212 del 2000, contestualmente alla notifica dell'avviso di accertamento o di rettifica ovvero dell'atto di recupero, ovvero su istanza del contribuente, nei casi di cui all'articolo 6, gli comunica un invito a comparire nel quale sono indicati:))
+                                    ((23))
+                                
+                            
+                            
+                                a)
+                                
+                                    i periodi di imposta suscettibili di accertamento; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il giorno e il luogo della comparizione per definire l'accertamento con adesione. 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    le maggiori imposte, ritenute, contributi, sanzioni ed interessi dovuti;
 
 COMMA ABROGATO DALLA L. 23 DICEMBRE 2014, N. 190. (15) (16)
 
@@ -142,6 +201,24 @@ Qualora tra la data di comparizione, di cui al comma 1, lettera b), e quella di 
 ## Art. 5-quater. — (( (Adesione ai verbali di constatazione). ))
 
 ((
+
+1.
+                        
+                            
+                                Il contribuente puo' prestare adesione anche ai verbali di constatazione redatti ai sensi dell'articolo 24 della legge 7 gennaio 1929, n. 4: 
+ 
+                            
+                            
+                                a)
+                                
+                                    senza condizioni; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    condizionandola alla rimozione di errori manifesti.
 
 L'adesione di cui al comma 1 puo' avere a oggetto esclusivamente il contenuto integrale del verbale di constatazione e deve intervenire entro i trenta giorni successivi alla data della consegna del verbale mediante comunicazione, da parte del contribuente, al competente ufficio dell'Agenzia delle entrate indicato nel verbale e all'organo che lo ha redatto.
 
@@ -275,6 +352,40 @@ Fino all'entrata in funzione dell'ufficio indicato nel comma 1, e' competente l'
 
 ## Art. 11. — Avvio del procedimento
 
+1.
+                        
+                            
+                                
+                                    ((L'ufficio di iniziativa, nei casi di cui all'articolo 6-bis, comma 2, della legge n. 212 del 2000, contestualmente alla notifica dell'avviso di accertamento o di rettifica ovvero dell'atto di recupero, ovvero su istanza del contribuente, nei casi di cui all'articolo 12, gli comunica un invito a comparire nel quale sono indicati:))
+                                    ((23))
+                                
+                            
+                            
+                                a)
+                                
+                                    gli elementi identificativi dell'atto, della denuncia o della dichiarazione cui si riferisce l'accertamento suscettibile di adesione; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il giorno e il luogo della comparizione per definire l'accertamento con adesione. 
+
+                                
+                            
+                            
+                                b-bis)
+                                
+                                    le maggiori imposte, sanzioni e interessi dovuti; 
+
+                                
+                            
+                            
+                                b-ter)
+                                
+                                    i motivi che ((determinano le)) maggiori imposte di cui alla lettera b-bis); ((23))
+
 COMMA ABROGATO DALLA L. 23 DICEMBRE 2014, N. 190. (15)
 
 ((1-ter. Qualora tra la data di comparizione, di cui al comma 1, lettera b), e quella di decadenza dell'amministrazione dal potere di notificazione dell'atto impositivo intercorrono meno di novanta giorni, il termine di decadenza per la notificazione dell'atto impositivo e' automaticamente prorogato di centoventi giorni, in deroga al termine ordinario.))
@@ -387,6 +498,31 @@ Il pagamento delle somme dovute ai sensi degli articoli 8 e 15 si esegue mediant
 Qualora successivamente all'accertamento le dichiarazioni presentate ai fini delle imposte sui redditi e dell'imposta sul valore aggiunto risultino difformi dalle copie acquisite nel corso dell'attivita' di controllo ovvero ne risulti omessa la presentazione, gli uffici procedono all'accertamento e alla liquidazione delle imposte dovute e possono integrare, modificare o revocare gli atti gia' notificati, nonche' irrogare o revocare le relative sanzioni. La conservazione della copia delle dichiarazioni e' obbligatoria per i soggetti che devono tenere le scritture contabili, nonche' per i soci o associati di societa' o associazioni di cui all'articolo 5 del testo unico delle imposte sui redditi, approvato con decreto del Presidente della Repubblica 22 dicembre 1986, n. 917, o per il coniuge dell'azienda coniugale non gestita in forma societaria.
 
 ## Art. 17. — Abrogazioni e delegificazione
+
+1.
+                        
+                            
+                                Sono abrogati:
+ 
+                            
+                            
+                                a)
+                                
+                                    i commi 2 e 3 dell'articolo 5 del decreto - legge 27 aprile 1990, n. 90, convertito, con modificazioni, dalla legge 27 giugno 1990, n. 165, riguardanti la definizione delle pendenze tributarie;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    gli articoli 2 -bis e 2 -ter del decreto - legge 30 settembre 1994, n. 564, convertito, con modificazioni, dalla legge 30 novembre 1994, n. 656, riguardanti l'accertamento con adesione;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il quarto comma dell'articolo 54 del decreto del Presidente della Repubblica 29 settembre 1973, n. 600, riguardante l'applicazione in misura ridotta delle sanzioni in caso di rinuncia all'impugnazione dell'accertamento.
 
 Con effetto dalla data di entrata in vigore del .presente decreto legislativo sono abrogate tutte le altre disposizioni con esso incompatibili.
 

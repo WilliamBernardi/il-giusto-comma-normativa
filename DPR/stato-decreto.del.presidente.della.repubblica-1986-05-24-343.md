@@ -8,8 +8,8 @@ codice_redazionale: 086U0343
 vigente: true
 source: normattiva-opendata
 collection: DPR
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:47:50Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -24,4 +24,38 @@ Udito il parere del Consiglio di Stato;
 Sulla proposta del Ministro del commercio con l'estero, di concerto con il Ministro del tesoro;
 
 ## Art. 1.
+
+1.
+                    
+                        
+                            Il regolamento per i servizi in economia del Ministero del commercio con l'estero, approvato con decreto del Presidente della Repubblica 30 aprile 1976, n. 754, e' modificato come segue: 
+ 
+                        
+                        
+                            a)
+                            
+                                l'ultimo comma dell'art. 1 e' sostituito dal seguente: 
+ "Il limite massimo entro il quale potra' provvedersi in economia alle spese sopradette e' stabilito in L. 24.000.000."; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                il secondo comma dell'art. 3 e' sostituito dal seguente: 
+ "I lavori di manutenzione e le forniture necessarie all'Amministrazione centrale possono essere disposte direttamente dal consegnatario cassiere fino al limite di L. 400.000."; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                le parole contenute nel primo comma dell'art. 7 "ai sensi dell'art. 3, comma quarto, del regio decreto 20 ottobre 1924, n. 1796" sono sostituite dalle seguenti: "ai sensi degli articoli 6, ultimo comma, e 7 del decreto del Presidente della Repubblica 30 novembre 1979, n. 718"; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                il secondo comma dell'art. 7 e' soppresso.
 

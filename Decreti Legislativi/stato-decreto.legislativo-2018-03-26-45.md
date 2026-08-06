@@ -7,8 +7,8 @@ urn: urn:nir:stato:decreto.legislativo:2018-03-26;45
 vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:28Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -37,6 +37,31 @@ Le entrate erariali spettanti alla Regione comprendono le indennita', le maggior
 Ai fini dell'applicazione dell'articolo 49 dello Statuto, il gettito dei tributi erariali si intende riferito al territorio regionale secondo i criteri indicati nei commi seguenti.
 
 E' riferito al territorio regionale il gettito relativo all'accisa sulla benzina e sul gasolio ivi erogati per uso autotrazione, il gettito dell'accisa sull'energia elettrica ivi consumata, il gettito dell'accisa sui tabacchi lavorati immessi in consumo nel territorio stesso.
+
+3.
+                    
+                        
+                            Il gettito dell'imposta sul reddito delle persone fisiche riferito al territorio regionale e' costituito: 
+ 
+                        
+                        
+                            a)
+                            
+                                dall'imposta netta risultante dalle dichiarazioni dei redditi e dei sostituti di imposta, nonche' dalle certificazioni sostitutive presentate dai contribuenti e per conto dei contribuenti aventi domicilio fiscale nel territorio regionale; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                dall'imposta sui redditi a tassazione separata delle persone fisiche aventi domicilio fiscale nel territorio regionale; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                dalle somme riscosse a seguito delle attivita' di accertamento e di controllo effettuate dalle amministrazioni statali e regionali nei confronti dei contribuenti aventi domicilio fiscale nel territorio regionale.
 
 Il gettito dell'imposta sul reddito delle societa' riferito al territorio regionale e' costituito da una quota del gettito nazionale dell'imposta, determinata secondo la distribuzione regionale dei versamenti effettuata sulla base del valore della produzione netta, di cui all'articolo 4 del decreto legislativo 15 dicembre 1997, n. 446, di ciascun soggetto passivo.
 

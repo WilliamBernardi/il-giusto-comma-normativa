@@ -8,8 +8,8 @@ codice_redazionale: 091G0096
 vigente: true
 source: normattiva-opendata
 collection: DPCM
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:40:12Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DEL CONSIGLIO DEI MINISTRI
@@ -32,6 +32,66 @@ il seguente regolamento:
 ## - TITOLO I DISPOSIZIONI GENERALI
 
 ## Art. 1. — Abbreviazioni
+
+1.
+                        
+                            
+                                Nel presente regolamento le seguenti denominazioni abbreviate corrispondono:
+ 
+                            
+                            
+                                a)
+                                
+                                    "la/alla/della legge", alla legge 9 luglio 1990, n. 185;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    "materiali", ai materiali di armamento di cui all'art. 2 della legge;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    "elenco", all'elenco dei materiali di armamento di cui all'art. 2, comma 3, della legge;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    "registro", al registro nazionale delle imprese di cui all'art. 3 della legge;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    "operatore" e "operatori", ai soggetti interessati a ottenere o che abbiano ottenuto il rilascio delle autorizzazioni e nulla-osta di cui alla legge nonche' ai richiedenti le transazioni bancarie di cui all'art. 11, comma 1, del presente regolamento;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    "operazione" ed "operazioni", a esportazione ed importazione, definitiva o temporanea; transito; cessione di licenze di produzione, concessione di licenze di fabbricazione e trasformazione o adattamento di materiali e mezzi di cui all'art. 1 e all'art. 2, commi 5 e 7, della legge; prestazione di servizi di cui all'art. 2, comma 6, all'art. 9, comma 5, lettera a), e all'art. 11, comma 2, lettera b), della legge;
+
+                                
+                            
+                            
+                                g)
+                                
+                                    "comitato", al comitato consultivo di cui all'art. 7 della legge;
+
+                                
+                            
+                            
+                                h)
+                                
+                                    "CISD", al Comitato interministeriale per gli scambi di materiali di armamento per la difesa di cui all'art. 6 della legge.
 
 ## - TITOLO I DISPOSIZIONI GENERALI Capo I NORME GENERALI SUI PROCEDIMENTI
 
@@ -71,6 +131,73 @@ Salve le condizioni o limitazioni che siano disposte per il rilascio di singole 
 
 ## Art. 6. — Trattative contrattuali
 
+1.
+                        
+                            
+                                Ogni comunicazione di inizio di trattative contrattuali riguardante le operazioni di cui all'art. 9 della legge e' presentata dall'operatore contemporaneamente ai Ministeri degli affari esteri e della difesa, con le modalita' indicate nei seguenti commi e secondo le direttive del Ministro degli affari esteri, emanate di concerto con il Ministro della difesa. Nella comunicazione sono indicati i seguenti dati:
+ 
+                            
+                            
+                                a)
+                                
+                                    estremi di iscrizione nel registro;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    informazioni, requisiti e qualita' soggettive inerenti agli altri partecipanti alle trattative;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    oggetto del contratto che si intende stipulare, con precisazione del tipo dei materiali oggetto delle trattative riferito all'elenco ed eventualmente alla lista di cui all'art. 18 della legge nonche' alla voce doganale, e quantitativo previsto;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    classifica di segretezza dei materiali o dell'oggetto della trattativa;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    se noti, modalita' di esecuzione, ivi compresi termini e modalita' di regolamento finanziario, previsti;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    Paesi di destinazione finale, di provenienza, o intermedia;
+
+                                
+                            
+                            
+                                g)
+                                
+                                    se noti, eventuali soggetti intermediari;
+
+                                
+                            
+                            
+                                h)
+                                
+                                    destinatario finale;
+
+                                
+                            
+                            
+                                i)
+                                
+                                    per operazioni di cui all'art. 9, comma 5, della legge, ad esclusione della lettera e) del medesimo comma, estremi della precedente autorizzazione il cui oggetto sia ad esse connesso.
+
 Nel caso in cui l'operatore intenda partecipare a una gara, deve inviare, ai sensi del comma 1, una dichiarazione di intento corredata del relativo bando, il cui contenuto e' parte integrante della comunicazione, nella quale l'operatore e' tenuto a indicare anche gli eventuali dati aggiuntivi che intenderebbe inserire nell'offerta.
 
 Nei casi in cui i Ministri degli affari esteri e della difesa intendano avvalersi del comitato ai sensi dell'art. 9, comma 6, della legge, il relativo parere e' reso entro quindici giorni dalla data della richiesta.
@@ -83,6 +210,59 @@ Al procedimento per il rinnovo delle autorizzazioni di cui all'art. 10 della leg
 
 ## Art. 7. — Autorizzazione alle esportazioni, importazioni
  transiti e cessioni di licenze di produzione
+
+1.
+                        
+                            
+                                Le domande per l'autorizzazione di cui all'art. 11 della legge, sono presentate al Ministero degli affari esteri dall'operatore, che contemporaneamente ne invia copia al Ministero delle finanze. Nelle domande sono indicati i seguenti dati, oltre a quelli di cui all'art. 11, comma 2, della legge:
+ 
+                            
+                            
+                                a)
+                                
+                                    estremi di iscrizione nel registro;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    tipo di materiali oggetto dell'operazione con estremi di riferimento dell'elenco, eventualmente della lista di cui all'art. 18 della legge, nonche' della voce doganale corrispondente;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    classifica di segretezza del materiale o dell'oggetto dell'operazione;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    Paesi di provenienza per operazioni di importazione e di transito;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    soggetti intermediari;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    modalita' di regolamento finanziario delle prestazioni comprese nell'operazione;
+
+                                
+                            
+                            
+                                g)
+                                
+                                    dogane interessate dall'esecuzione, anche frazionata dell'operazione.
 
 L'obbligo di accludere alla domanda di cui al comma 1 copia dell'autorizzazione a trattare o del nulla-osta e' adempiuto dall'operatore presentando copia della comunicazione di inizio di trattative e, ove emanato, del provvedimento che abbia posto condizioni e limitazioni.
 
@@ -99,6 +279,52 @@ I procedimenti disciplinati agli articoli 6 e 7 si applicano alle operazioni di 
 
 ## Art. 9. — Nulla-osta per prestazione di servizi
 
+1.
+                        
+                            
+                                Per le operazioni di cui all'art. 2, comma 6, della legge, l'operatore presenta, secondo modalita' indicate con direttive del Ministro della difesa, apposita domanda, della quale invia contemporaneamente copia ai Ministri degli affari esteri e dell'interno, contenente i seguenti dati:
+ 
+                            
+                            
+                                a)
+                                
+                                    estremi di iscrizione nel registro;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    informazioni, requisiti e qualita' soggettive inerenti ai destinatari dell'operazione ed eventuali altri partecipanti alla stessa;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    tipo di servizi oggetto dell'operazione e modalita' di esecuzione;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    ammontare del contratto e indicazione di termini, anche intermedi, di esecuzione;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    Paese di destinazione dei servizi e luogo di esecuzione delle prestazioni oggetto del contratto;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    estremi dell'autorizzazione relativa alla operazione precedente, della quale la prestazione di servizi costituisce prosecuzione.
+
 Il nulla-osta del Ministro della difesa, sentiti i Ministri degli affari esteri e dell'interno, e' rilasciato entro quarantacinque giorni dalla data di ricevimento della domanda di cui al comma 1.
 
 Quando vengono a cessare le condizioni per il rilascio, il nulla-osta e' soggetto a sospensione o revoca disposte dal Ministro della difesa, sentiti i Ministri degli affari esteri e dell'interno.
@@ -107,11 +333,128 @@ Quando vengono a cessare le condizioni per il rilascio, il nulla-osta e' soggett
 
 Per le importazioni, definitive o temporanee, effettuate direttamente dall'Amministrazione dello Stato o per conto di questa, ai sensi dell'art. 1, comma 8, lettera a), della legge, alla dogana sara' presentata idonea documentazione direttamente dall'Amministrazione che effettua o per conto della quale l'impresa effettua l'operazione. Il Ministero delle finanze, al fine di definire le informazioni essenziali all'immediata identificazione dell'operazione, provvede ad emanare, d'intesa con i Ministeri interessati, apposite direttive.
 
+2.
+                        
+                            
+                                L'autorizzazione per le importazioni temporanee effettuate da imprese straniere di cui all'art. 1, comma 8, lettera e), della legge, e' rilasciata dal Ministro dell'interno, su domanda delle imprese straniere presentata, tramite e amministrazioni o i soggetti pubblici e privati italiani interessati, allo stesso Ministero, inviata contemporaneamente in copia al Ministero della difesa e contenente i seguenti dati:
+ 
+                            
+                            
+                                a)
+                                
+                                    informazioni, requisiti e qualita' soggettive dell'impresa importatrice e, in particolare, Paese di residenza;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    tipo dei materiali con riferimento all'elenco e quantita' dei materiali stessi;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    Paese di provenienza dei materiali oggetto dell'operazione;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    destinatario e luogo di destinazione della temporanea importazione;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    termini di inizio e di conclusione dell'operazione;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    dogana di entrata e di uscita, con eventuali indicazioni relative all'itinerario e al vettore.
+
 L'autorizzazione di cui al comma 2 e' rilasciata entro quarantacinque giorni dal ricevimento della relativa domanda.
 
 Ulteriori specifiche direttive inerenti la presentazione delle domande di cui al comma 2, sono emanate dal Ministro dell'interno, d'intesa con il Ministro della difesa.
 
 ## Art. 11. — Autorizzazione del Ministro del tesoro
+
+1.
+                        
+                            
+                                Relativamente alle transazioni bancarie di cui all'art. 27 della legge, gli operatori devono presentare agli istituti e alle aziende di credito ai quali richiedono la transazione, per ogni singolo contratto concernente le operazioni assoggettate alla disciplina della legge, una dichiarazione contenente i seguenti dati:
+ 
+                            
+                            
+                                a)
+                                
+                                    estremi di iscrizione nel registro per le imprese;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    beni e servizi oggetto dell'operazione e importo corrispondente;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    modalita' di regolamento finanziario;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    Paese di destinazione e/o di provenienza di tali beni e servizi;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    identita' dell'acquirente o fornitore, debitore o creditore;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    estremi della corrispondente autorizzazione o nulla-osta di cui all'art. 1, comma 8, e agli articoli 9 e 13 della legge;
+
+                                
+                            
+                            
+                                g)
+                                
+                                    natura e importo delle relative transazioni bancarie, anche accessorie.
+
+2.
+                        
+                            
+                                Gli istituti e aziende di credito riceventi la dichiarazione di cui al comma 1, chiedono al Ministro del tesoro, secondo modalita' stabilite dal Ministro stesso, l'autorizzazione, trasmettendo la dichiarazione di cui al comma 1, integrata dei seguenti dati:
+ 
+                            
+                            
+                                a)
+                                
+                                    modalita' di esecuzione della transazione richiesta;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    fase di esecuzione, parziale o conclusiva, dell'operazione cui e' riferita la transazione.
 
 Il Ministro del tesoro, entro trenta giorni dal ricevimento della documentazione di cui al comma 2, emana il provvedimento di autorizzazione, nel quale possono essere stabiliti eventuali condizioni o limitazioni, ovvero nega l'autorizzazione allo svolgimento delle transazioni bancarie notificate.
 
@@ -150,6 +493,31 @@ Le informazioni e documentazioni di cui ai precedenti commi sono trasmesse con m
 ## Art. 15. — Conferenze di servizi e accordi
 
 Quando si ravvisi l'opportunita' di una contestuale valutazione degli interessi pubblici di cui alla legge, viene convocata, dall'autorita' competente all'adozione del provvedimento, la conferenza di servizi di cui all'art. 6, comma 1, lettera c), e all'art. 14 della legge 7 agosto 1990, n. 241.
+
+2.
+                        
+                            
+                                Ai fini della completezza e tempestivita' dell'istruttoria da parte delle unita' organizzative responsabili degli adempimenti procedimentali, nonche' della tempestiva acquisizione di informazioni riguardanti le operazioni disciplinate dalla legge e dal presente regolamento, la Presidenza del Consiglio dei Ministri, i Ministeri degli affari esteri, di grazia e giustizia, dell'interno del tesoro, delle finanze, della difesa, del commercio con l'estero nonche' altri Ministeri interessati, stipulano accordi di collaborazione riguardanti, in particolare:
+ 
+                            
+                            
+                                a)
+                                
+                                    la costituzione di un sistema informativo;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'acquisizione di intese, concerti, nulla-osta, assensi, designazioni;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il distacco di nuclei di personale presso il Ministero degli affari esteri.
 
 Ogni amministrazione partecipante all'accordo individua nell'ambito della propria struttura, l'unita' organizzativa responsabile delle attivita' disciplinate nell'accordo.
 

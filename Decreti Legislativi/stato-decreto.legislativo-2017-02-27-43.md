@@ -8,8 +8,8 @@ vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
 vigenza_date: 2024-12-31
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:21Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -44,6 +44,52 @@ Il CIP si conforma ai principi dell'ordinamento sportivo paralimpico internazion
 
 Ai fini del presente decreto per paralimpica deve intendersi qualsiasi attivita' sportiva praticata da persone disabili, a ogni livello e per olimpica qualsiasi attivita' sportiva praticata da atleti normodotati.
 
+4.
+                    
+                        
+                            L'ente ha come missione istituzionale: 
+ 
+                        
+                        
+                            a)
+                            
+                                l'agonismo di alto livello e la preparazione degli atleti paralimpici delle diverse discipline e l'approntamento dei mezzi idonei per le Paralimpiadi e per tutte le altre manifestazioni sportive nazionali o competizioni internazionali paralimpiche; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                la promozione della massima diffusione della pratica sportiva in condizioni di uguaglianza e pari opportunita' al fine di rendere effettivo il diritto allo sport di tutti i soggetti, in ogni fascia di eta' e di popolazione, a qualunque livello e per qualsiasi tipologia di disabilita'; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                il sostegno a tutte le federazioni, discipline associate, enti di promozione e associazioni benemerite riconosciute dal CIP; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                l'impulso a progetti di promozione e avviamento alla pratica sportiva delle persone con disabilita' sull'intero territorio nazionale nel comparto socio-sanitario e della scuola, nel rispetto delle competenze delle regioni e delle province autonome; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                l'adozione, anche d'intesa con la sezione per la vigilanza e il controllo sul doping e per la tutela della salute nelle attivita' sportive del comitato tecnico sanitario istituito ai sensi dell'articolo 2 del decreto del Presidente della Repubblica 28 marzo 2013, n. 44, di misure di prevenzione e repressione dell'uso di sostanze che alterano le naturali prestazioni fisiche degli atleti paralimpici nelle attivita' sportive paralimpiche; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                l'adozione e la promozione di iniziative contro ogni forma di discriminazione e di violenza nello sport.
+
 ## Art. 3. — Statuto
 
 Lo statuto e' adottato a maggioranza assoluta dei componenti del consiglio nazionale, su proposta della giunta nazionale, ed e' approvato, entro sessanta giorni dalla sua ricezione, con decreto dell'autorita' vigilante, di concerto con il Ministro dell'economia e delle finanze.
@@ -56,6 +102,45 @@ Lo statuto dell'ente disciplina le procedure per l'elezione del presidente, dell
 
 ## Art. 4. — Organi
 
+1.
+                    
+                        
+                            Sono organi del CIP: 
+ 
+                        
+                        
+                            a)
+                            
+                                il consiglio nazionale; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                la giunta nazionale; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                il presidente; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                il segretario generale; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                il collegio dei revisori dei conti.
+
 Gli organi del CIP restano in carica quattro anni. I componenti che assumono le funzioni nel corso del quadriennio restano in carica fino alla scadenza degli organi. Il presidente ed i componenti della giunta nazionale indicati nell'articolo 7, comma 1, lettere c), d), ed e) non possono restare in carica oltre ((tre mandati)). ((PERIODO SOPPRESSO DALLA L. 11 GENNAIO 2018, N. 8)).((Le disposizioni del presente comma si applicano anche ai presidenti e ai membri degli organi direttivi delle strutture territoriali del CIP)).
 
 ((COMMA ABROGATO DALLA L. 11 GENNAIO 2018, N. 8)).
@@ -63,6 +148,73 @@ Gli organi del CIP restano in carica quattro anni. I componenti che assumono le 
 L'eventuale compenso spettante agli organi e' determinato, senza oneri aggiuntivi per la finanza pubblica, con decreto dell'autorita' di vigilanza, di concerto con il Ministero dell'economia e delle finanze, sulla base delle norme vigenti in materia.
 
 ## Art. 5. — Consiglio nazionale
+
+1.
+                    
+                        
+                            Il consiglio nazionale e' composto da: 
+ 
+                        
+                        
+                            a)
+                            
+                                il presidente del CIP, che lo presiede; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                i presidenti delle FSP e delle FSNP; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                i membri italiani appartenenti all'esecutivo dell'IPC; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                atleti e tecnici sportivi in rappresentanza delle FSP, delle FSNP delle DSP e delle DSAP, a condizione che non abbiano subito sanzioni di sospensione dall'attivita' sportiva conseguente all'utilizzo di sostanze che alterano le naturali prestazioni fisiche nelle attivita' sportive di riferimento; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                tre membri in rappresentanza delle strutture territoriali regionali e delle province autonome; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                tre membri in rappresentanza delle strutture territoriali provinciali; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                due membri in rappresentanza degli enti di promozione sportiva, di cui uno in rappresentanza degli enti di promozione sportiva riconosciuti dal CONI la cui attivita' paralimpica sia riconosciuta dal CIP e uno in rappresentanza degli enti di promozione sportiva paralimpica; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                tre membri in rappresentanza delle DSP e delle DSAP, di cui uno in rappresentanza delle DSP; 
+
+                            
+                        
+                        
+                            i)
+                            
+                                un membro in rappresentanza delle associazioni benemerite paralimpiche.
 
 Lo statuto regola il procedimento elettorale dei componenti elettivi di cui alle lettere d), e), f), g), h), i) del comma 1, con le medesime modalita' previste per i corrispondenti procedimenti elettorali di cui allo statuto del CONI.
 
@@ -80,7 +232,138 @@ Il consiglio nazionale, nel rispetto delle deliberazioni e degli indirizzi emana
 
 Il consiglio nazionale elegge il presidente del CIP e i componenti della giunta nazionale.
 
+3.
+                    
+                        
+                            Il consiglio nazionale svolge altresi' i seguenti compiti: 
+ 
+                        
+                        
+                            a)
+                            
+                                adotta lo statuto e gli altri atti di competenza, nonche' i relativi atti di indirizzo interpretativo ed applicativo; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                stabilisce i principi fondamentali ai quali devono uniformarsi, allo scopo del riconoscimento ai fini sportivi, gli statuti delle FSP, delle DSP, degli enti di promozione sportiva paralimpica e delle associazioni benemerite paralimpiche; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                delibera in ordine ai provvedimenti di riconoscimento, ai fini sportivi, delle FSP, delle DSP, degli enti di promozione sportiva paralimpica e delle associazioni benemerite paralimpiche, sulla base dei requisiti fissati dallo statuto, tenendo conto, a tal fine, anche della rappresentanza e dell'inclusione della relativa attivita' sportiva nel programma dei Giochi paralimpici, dell'eventuale riconoscimento dell'IPC, della tradizione sportiva della disciplina paralimpica nonche' dei limiti di cui all'articolo 2, comma 1; delibera, altresi', in ordine ai provvedimenti di riconoscimento delle sole attivita' paralimpiche delle FSN in qualita' di FSNP, delle DSA in qualita' di DSAP e degli enti di promozione sportiva riconosciuti dal CONI; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                stabilisce, in armonia con l'ordinamento sportivo internazionale paralimpico e nell'ambito di ciascuna federazione sportiva paralimpica o disciplina sportiva paralimpica, criteri per la distinzione dell'attivita' sportiva paralimpica dilettantistica da quella professionistica; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                stabilisce i criteri e le modalita' per l'esercizio dei controlli sulle FSP, sulle DSP nonche' sugli enti di promozione sportiva paralimpica; stabilisce altresi', in conformita' con la disciplina del CONI, i criteri e le modalita' per l'esercizio dei controlli sulle FSNP, sulle DSAP e gli enti di promozione sportiva riconosciuti dal CONI limitatamente alle attivita' paralimpiche; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                delibera, su proposta della giunta nazionale, il commissariamento delle FSP e delle DSP, in caso di gravi irregolarita' nella gestione o di gravi violazioni dell'ordinamento sportivo paralimpico da parte degli organi direttivi ovvero in caso di constatata impossibilita' di funzionamento dei medesimi o nel caso in cui non siano garantiti il regolare avvio e svolgimento delle competizioni sportive nazionali paralimpiche; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                delibera, su iniziativa della giunta nazionale, di proporre al CONI il commissariamento o il commissariamento ad acta delle FSNP e delle DSAP, in caso di gravi irregolarita' nella gestione dell'attivita' paralimpica o di gravi violazioni dell'ordinamento sportivo paralimpico da parte degli organi direttivi o nel caso in cui non siano garantiti il regolare avvio e svolgimento delle competizioni sportive nazionali paralimpiche; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                approva gli indirizzi generali sull'attivita' dell'ente, il bilancio preventivo e il bilancio consuntivo, ferma restando l'approvazione di tali bilanci da parte dell'Autorita' di vigilanza, di concerto con il Ministro dell'economia e delle finanze, entro il termine di sessanta giorni; 
+
+                            
+                        
+                        
+                            i)
+                            
+                                esprime parere sulle questioni ad esso sottoposte dalla giunta nazionale; 
+
+                            
+                        
+                        
+                            l)
+                            
+                                svolge gli altri compiti previsti dal presente decreto e dallo statuto.
+
 ## Art. 7. — Giunta nazionale
+
+1.
+                    
+                        
+                            La giunta nazionale e' composta da: 
+ 
+                        
+                        
+                            a)
+                            
+                                il presidente del CIP, che la presiede; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                i membri italiani dell'IPC; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                dieci rappresentanti delle FSP, delle FSNP, delle DSP e delle DSAP; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                un rappresentante nazionale degli enti di promozione sportiva paralimpica; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                due rappresentanti delle strutture territoriali del CIP.
+
+2.
+                    
+                        
+                            Tra i componenti di cui alla lettera c) del comma 1, almeno tre sono eletti tra gli atleti e i tecnici sportivi; i restanti sono eletti tra coloro che abbiano uno dei seguenti requisiti: 
+ 
+                        
+                        
+                            a)
+                            
+                                presidenti di FSP, di FSNP, di DSP o di DSAP, in numero non superiore a cinque di cui almeno tre presidenti di FSP o DSP; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                componenti in carica o ex componenti dell'organo direttivo del CIP, di una FSP, di una FSNP, di una DSP o di una DSAP.
 
 Alle riunioni della giunta nazionale partecipa, senza diritto di voto, il segretario generale.
 
@@ -89,6 +372,90 @@ Alle riunioni della giunta nazionale partecipa altresi', senza diritto di voto, 
 ## Art. 8. — Compiti della giunta nazionale
 
 La giunta nazionale esercita le funzioni di indirizzo generale dell'attivita' amministrativa e gestionale del CIP, definendone gli obiettivi ed i programmi e verificando la rispondenza dei risultati agli indirizzi impartiti.
+
+2.
+                    
+                        
+                            La giunta nazionale svolge altresi' i seguenti compiti: 
+ 
+                        
+                        
+                            a)
+                            
+                                formula la proposta di statuto dell'ente; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                definisce annualmente i criteri e i parametri fondamentali cui deve attenersi il contratto di servizio stipulato dal CIP, ai sensi dell'articolo 17 del presente decreto, con particolare riferimento alla gestione delle risorse umane, con la CONI Servizi Spa, in senso analogo rispetto al contratto stipulato dal CONI e previsto dall'articolo 8, comma 8, del decreto-legge 8 luglio 2002, n. 138, convertito, con modificazioni, dalla legge 8 agosto 2002, n. 178; la delibera e' trasmessa all'Autorita' di vigilanza per l'approvazione; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                fermo restando quanto previsto dalla lettera b), delibera sull'ordinamento e sull'organizzazione dei servizi e degli uffici e adotta, altresi', il regolamento di amministrazione e contabilita', sottoposto all'approvazione dell'Autorita' di vigilanza, di concerto con il Ministro dell'economia e delle finanze; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                esercita i poteri di verifica sull'organizzazione generale dei servizi e degli uffici dell'ente, fermo restando quanto previsto alla lettera b) del presente comma; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                delibera la proposta di bilancio preventivo e il bilancio consuntivo da sottoporre all'approvazione del consiglio nazionale e approva le variazioni di bilancio da sottoporre all'approvazione del consiglio nazionale; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                esercita, sulla base dei criteri e modalita' stabilite ai sensi dell'articolo 6, comma 2, lettera e), il potere di controllo sulle FSP, sulle DSP e sugli enti di promozione sportiva paralimpica nonche', esclusivamente per l'attivita' paralimpica e di concerto con il CONI, sulle FSNP, sulle DSAP e sugli enti di promozione sportiva riconosciuti dal CONI, la cui attivita' paralimpica sia riconosciuta dal CIP, in merito al regolare svolgimento delle competizioni paralimpiche, alla preparazione paralimpica, all'attivita' sportiva paralimpica di alto livello ed all'utilizzo dei contributi finanziari di cui alla lettera e) del presente comma; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                propone al consiglio nazionale il commissariamento delle FSP o delle DSP, in caso di gravi irregolarita' nella gestione o di gravi violazioni dell'ordinamento sportivo da parte degli organi direttivi, ovvero in caso di constatata impossibilita' di funzionamento dei medesimi, o nel caso in cui non siano stati ottemperati gli adempimenti regolamentari al fine di garantire il regolare avvio e svolgimento delle competizioni sportive nazionali; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                propone al consiglio nazionale la trasmissione al CONI della richiesta di commissariamento o di commissariamento ad acta delle FSNP e delle DSAP, in caso di gravi irregolarita' nella gestione dell'attivita' paralimpica o di gravi violazioni dell'ordinamento sportivo paralimpico da parte degli organi direttivi o nel caso in cui non siano garantiti il regolare avvio e svolgimento delle competizioni sportive nazionali paralimpiche; 
+
+                            
+                        
+                        
+                            i)
+                            
+                                nomina il segretario generale; 
+
+                            
+                        
+                        
+                            l)
+                            
+                                svolge gli altri compiti previsti dal presente decreto e dallo statuto; 
+
+                            
+                        
+                        
+                            m)
+                            
+                                individua, con delibera sottoposta all'approvazione dell'autorita' di vigilanza, i criteri generali dei procedimenti di giustizia sportiva, secondo i seguenti principi: 
+ 1. obbligo degli affiliati e tesserati, per la risoluzione delle controversie attinenti lo svolgimento dell'attivita' sportiva, di rivolgersi agli organi di giustizia federale; 
+ 2. previsione che i procedimenti in materia di giustizia sportiva rispettino i principi del contraddittorio tra le parti, del diritto di difesa, della terzieta' e imparzialita' degli organi giudicanti, della ragionevole durata, della motivazione e della impugnabilita' delle decisioni; 
+ 3. razionalizzazione dei rapporti tra procedimenti di giustizia sportiva di competenza del CIP con quelli delle singole FSP, delle FSNP, delle DSP e delle DSAP, in accordo con il CONI.
 
 ## Art. 9. — Presidente del CIP
 
@@ -100,6 +467,24 @@ Il presidente, eletto ai sensi del comma 2, e' nominato con decreto del Presiden
 
 La carica di presidente e' incompatibile con altre cariche sportive in seno alle FSP, alle FSNP, alle DSP ed alle DSAP.
 
+5.
+                    
+                        
+                            Il presidente e' eletto tra persone aventi esperienza nel campo della disabilita' generale ed in materia di disabilita' sportiva, tesserati o ex tesserati al CIP, alle FSP, alle FSNP, alle DSP o alle DSAP per almeno quattro anni in possesso di uno dei seguenti requisiti: 
+ 
+                        
+                        
+                            a)
+                            
+                                aver ricoperto la carica di presidente o vice presidente o consigliere nazionale del CIP o di presidente o vice presidente di una FSP, di una FSNP, di una DSP, di una DSAP o di membro della giunta nazionale del CIP o di una struttura territoriale del CIP; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                essere stato atleta partecipante ai Giochi paralimpici.
+
 ## Art. 10. — Collegio dei revisori dei conti
 
 Il collegio dei revisori dei conti e' nominato, ogni quattro anni, con decreto dell'autorita' di vigilanza ed e' composto di tre membri, dei quali uno, con funzioni di presidente, in rappresentanza dell'autorita' vigilante, uno in rappresentanza del Ministero dell'economia e delle finanze, il terzo designato dall'ente tra iscritti al registro dei revisori legali o tra persone in possesso di specifica professionalita'.
@@ -107,6 +492,45 @@ Il collegio dei revisori dei conti e' nominato, ogni quattro anni, con decreto d
 ## Art. 11. — Segretario generale
 
 Il segretario generale e' nominato dalla giunta nazionale tra soggetti in possesso di adeguati requisiti tecnico-professionali ed elevata e comprovata qualificazione professionale rispetto al ruolo e agli obiettivi da conseguire, nonche' esperienza in materia di disabilita' sportiva. il rapporto di lavoro del segretario generale e' regolato con contratto di diritto privato di durata quadriennale, rinnovabile.
+
+2.
+                    
+                        
+                            Il segretario generale svolge i seguenti compiti: 
+ 
+                        
+                        
+                            a)
+                            
+                                provvede alla gestione amministrativa dell'ente in base agli indirizzi generali della giunta nazionale e cura l'organizzazione generale dei servizi, degli uffici, nonche' del relativo personale, anche in relazione alle funzioni di valutazione e controllo del buon andamento degli stessi e all'attuazione della normativa vigente in materia di anticorruzione; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                predispone il bilancio dell'ente; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                attua, per quanto di competenza, le deliberazioni del consiglio nazionale e della giunta nazionale; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                partecipa senza diritto di voto alle sedute della giunta nazionale; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                espleta i compiti ad esso affidati dall'ordinamento sportivo paralimpico internazionale ed esercita le altre attribuzioni previste dal presente decreto e dallo statuto.
 
 Il segretario generale risponde alla giunta nazionale del funzionamento complessivo della struttura, assicura il coordinamento dell'azione amministrativa e vigila sull'efficienza e sull'efficacia dei servizi e degli uffici. L'incarico di segretario generale puo' essere revocato per grave e persistente inosservanza delle disposizioni di legge e di regolamento, per gravi irregolarita' amministrative, per omissione nell'esercizio delle funzioni, per grave inosservanza delle direttive impartite dalla giunta nazionale, nonche' per il mancato raggiungimento degli obiettivi.
 

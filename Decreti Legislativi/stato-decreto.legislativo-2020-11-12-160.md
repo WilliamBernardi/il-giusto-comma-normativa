@@ -8,8 +8,8 @@ vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
 vigenza_date: 2026-07-23
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:35Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -40,6 +40,25 @@ Il presente decreto legislativo detta, ai sensi dell'articolo 1, comma 5, della 
 ## Art. 2. — Modifiche all'articolo 2 del decreto legislativo 
  18 luglio 2005, n. 171
 
+1.
+                    
+                        
+                            All'articolo 2 del decreto legislativo 18 luglio 2005, n. 171, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 1, dopo la lettera c-ter), e' aggiunta la seguente:
+«c-quater) e' utilizzata, nel rispetto della normativa europea, nazionale e regionale di settore, per l'esercizio di attivita' in forma itinerante di somministrazione di cibo e di bevande e di commercio al dettaglio.»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 3, la parola «extraeuropei» e' sostituita dalle seguenti: «di un Paese terzo».
+
 ## Art. 3. — Nautica sociale
 
 Dopo l'articolo 2 del decreto legislativo 18 luglio 2005, n. 171, e' inserito il seguente: 
@@ -51,11 +70,75 @@ Dopo l'articolo 2 del decreto legislativo 18 luglio 2005, n. 171, e' inserito il
 ## Art. 4. — Modifiche all'articolo 3 del decreto legislativo 
  18 luglio 2005, n. 171
 
+1.
+                    
+                        
+                            All'articolo 3, comma 1, del decreto legislativo 18 luglio 2005, n. 171, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                alla lettera e), dopo la parola «ovvero» sono inserite le seguenti: «fino a»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                dopo la lettera h), e' aggiunta la seguente: «h-bis) unita' da diporto a controllo remoto: unita' da diporto a comando remoto priva a bordo di personale adibito al comando.».
+
 ## Art. 5. — Modifiche all'articolo 15-ter del decreto legislativo 
  18 luglio 2005, n. 171
 
+1.
+                    
+                        
+                            All'articolo 15-ter del decreto legislativo 18 luglio 2005, n. 171, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 3, la lettera a) e' sostituita dalla seguente: «a) la licenza per navi destinate esclusivamente al noleggio per finalita' turistiche redatta su modulo conforme al modello approvato con decreto del Ministero delle infrastrutture e dei trasporti;»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                il comma 4 e' sostituito dal seguente: «4. La licenza e il libro unico di bordo di cui al comma 3, lettere a) e c), sono disciplinati dal regolamento di attuazione del presente codice.»; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                al comma 5, le parole «licenza di navigazione» sono sostituite dalle seguenti: «licenza di cui al comma 3, lettera a)».
+
 ## Art. 6. — Modifiche all'articolo 19 del decreto legislativo 
  18 luglio 2005, n. 171
+
+1.
+                    
+                        
+                            All'articolo 19 del decreto legislativo 18 luglio 2005, n. 171, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                dopo il comma 1, e' aggiunto il seguente: «1-bis. Per ottenere l'iscrizione nell'Archivio telematico centrale delle unita' da diporto (ATCN) di un'unita' da diporto di propria costruzione, ferma restando l'applicazione delle vigenti disposizioni tributarie, il cantiere che ha costruito, completato o assemblato l'unita' presenta, in luogo del titolo di proprieta' di cui al comma 1, una dichiarazione sostitutiva dell'atto di notorieta' ai sensi dell'articolo 47 del decreto del Presidente della Repubblica 28 dicembre 2000, n. 445, nella quale autocertifica le predette circostanze e che l'unita' da diporto e' di sua esclusiva proprieta', indicando altresi' il nome, le caratteristiche tecniche del modello e il codice identificativo dello scafo.». 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 3: 
+ 1) le parole «in nome o per conto» sono sostituite dalle seguenti: «in nome e per conto»; 
+ 2) le parole «o di un altro Stato individuato» sono sostituite dalle seguenti: «, o di Stati terzi individuati»; 
+ 3) dopo le parole «un attestato dell'autorita'» e' inserita la seguente: «straniera».
 
 ## Art. 7. — Modifiche all'articolo 20 del decreto legislativo 
  18 luglio 2005, n. 171
@@ -110,12 +193,115 @@ Dopo l'articolo 27 del decreto legislativo 18 luglio 2005, n. 171, e' inserito i
 ## Art. 13. — Modifiche all'articolo 29 del decreto legislativo 
  18 luglio 2005, n. 171
 
+1.
+                    
+                        
+                            All'articolo 29 del decreto legislativo 18 luglio 2005, n. 171, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 11, dopo la parola «satellitare» sono inserite le seguenti: «, o con apparato equivalente,»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 11-bis, la parola «conduttore» e' sostituita dalla seguente: «comandante».
+
 ## Art. 14. — Modifiche all'articolo 38 del decreto legislativo 
  18 luglio 2005, n. 171
 
+1.
+                    
+                        
+                            All'articolo 38 del decreto legislativo 18 luglio 2005, n. 171, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 1, le parole «e da diporto utilizzate a fini commerciali» sono sostituite dalle seguenti: «, anche utilizzate a fini commerciali, nonche' sulle navi destinate esclusivamente al noleggio per finalita' turistiche»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 1-bis, le parole «da diporto oggetto di contratti di noleggio» sono sostituite dalle seguenti: «e sulle navi da diporto oggetto di contratti di noleggio, nonche' sulle navi destinate esclusivamente al noleggio per finalita' turistiche,» e dopo la parola «marittima» sono inserite le seguenti: «o della navigazione interna».
+
 ## Art. 15. — Modifiche all'articolo 39 del decreto legislativo 18 luglio 2005, n. 171
 
+1.
+                    
+                        
+                            All'articolo 39 del decreto legislativo 18 luglio 2005, n. 171, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 6, lettera d), dopo le parole «da diporto» sono aggiunte le seguenti: «e moto d'acqua»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                il comma 6-bis e' sostituito dal seguente: «6-bis. Per le patenti nautiche di categoria A, B e C possono essere indicate anche prescrizioni, relative alla durata della loro validita', conseguenti all'esito degli accertamenti medici di idoneita' psichica e fisica in sede di rilascio, convalida o revisione. Per le patenti nautiche di categoria D possono essere indicate anche limitazioni relative alla tipologia di unita' da diporto, alle caratteristiche dello scafo, alla potenza dei motori installati, ai limiti di navigazione, anche entro specifiche distanze dalla costa e alle condizioni meteomarine.
+Per le patenti nautiche di categoria D possono essere indicate anche limitazioni alla durata della loro validita', nonche' prescrizioni relative all'utilizzo di specifici adattamenti o all'avvalimento di assistenti o mediatori in rapporto allo specifico deficit, oltre alle limitazioni espresse nel periodo precedente, conseguenti all'esito degli accertamenti medici di idoneita' psichica e fisica in sede di rilascio, convalida o revisione. Le limitazioni e le prescrizioni sono riportate sulla patente nautica, utilizzando i codici comunitari armonizzati, ovvero i codici nazionali stabiliti dal Dipartimento per i trasporti, la navigazione, gli affari generali ed il personale del Ministero delle infrastrutture e dei trasporti. Con il regolamento di attuazione del presente codice, adottato anche di concerto con il Ministro della salute, sono stabiliti i requisiti psico-fisici, per il conseguimento e il rinnovo delle patenti nautiche A, B, C e D. Con il medesimo regolamento sono stabiliti i requisiti psico-fisici per il rilascio e il rinnovo delle patenti nautiche A, B e C anche a persone con disabilita' motoria e sensoriale.».
+
 ## Art. 16. — Modifiche all'articolo 39-bis del decreto legislativo 18 luglio 2005, n. 171
+
+1.
+                    
+                        
+                            All'articolo 39-bis del decreto legislativo 18 luglio 2005, n. 171, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                il comma 1 e' sostituito dal seguente: «1. Per finalita' di sicurezza della navigazione e di salvaguardia della vita umana in mare, di prevenzione e repressione dei reati compiuti tramite l'uso di unita' da diporto, di ottimizzazione dell'azione amministrativa e per disporre di dati completi e aggiornati sull'utenza diportistica, anche a favore di altre Amministrazioni, presso il Ministero delle infrastrutture e dei trasporti e' istituita l'anagrafe nazionale delle patenti nautiche nel rispetto delle disposizioni del decreto legislativo 7 marzo 2005, n. 82 e delle regole tecniche adottate ai sensi dell'articolo 71 dello stesso codice.»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 2, dopo la lettera b) e' inserita la seguente:
+«b-bis) le limitazioni e le prescrizioni di cui all'articolo 39, comma 6-bis;»; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                al comma 2, la lettera c) e' sostituita dalla seguente: «c) i dati relativi alle violazioni di norme previste dal presente codice, dal relativo regolamento di attuazione o da altri leggi o regolamenti applicabili in materia, che comportano l'irrogazione di sanzioni amministrative accessorie, anche per effetto di recidive;»; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                al comma 2, la lettera d) e' sostituita dalla seguente: «d) i dati relativi a sinistri marittimi, in cui il titolare e' stato coinvolto con addebito di responsabilita', che hanno comportato l'irrogazione di sanzioni amministrative accessorie o l'emanazione di sentenza penale di condanna passata in giudicato, parimenti annotate in anagrafe.»; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                al comma 3, dopo le parole «compagnie di assicurazione» sono inserite le seguenti: «con riferimento ai certificati di assicurazione rilasciati»; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                dopo il comma 3 e' inserito il seguente: «3-bis. L'annotazione del cambiamento della residenza del titolare della patente nautica e' effettuata dal Centro elaborazione dati (CED) del Ministero delle infrastrutture e dei trasporti, che aggiorna il dato nell'anagrafe nazionale delle patenti nautiche. A tal fine, il Ministero dell'interno rende disponibili, secondo le modalita' di cui al decreto del Presidente del Consiglio dei ministri previsto dall'articolo 62, comma 6, del decreto legislativo 7 marzo 2005, n. 82, i dati dell'Anagrafe nazionale della popolazione residente (ANPR), istituita presso il medesimo Ministero ai sensi del citato articolo 62. 
+ g) il comma 5 e' sostituito dal seguente: «5. Con decreto del Ministro delle infrastrutture e dei trasporti, di concerto con i Ministri dell'interno, per l'innovazione tecnologica e la digitalizzazione e per la pubblica amministrazione, ai sensi dell'articolo 17, comma 3, della legge 23 agosto 1988, n. 400, previa acquisizione del parere del Garante per la protezione dei dati personali ai sensi dell'articolo 36, paragrafo 4, del regolamento (UE) 2016/679 del Parlamento europeo e del Consiglio, del 27 aprile 2016, da adottare entro dodici mesi dalla data di entrata in vigore della presente disposizione, sono stabiliti l'organizzazione e il funzionamento dell'anagrafe nazionale delle patenti nautiche, i tipi di dati trattati, le operazioni eseguibili, il motivo di interesse pubblico rilevante e le misure di tutela per gli interessati, assicurando la protezione dei dati personali per i diritti e le liberta' degli interessati attraverso misure di garanzia appropriate e specifiche e prevedendo idonee misure tecniche di sicurezza, nonche' le modalita' di accesso e le modalita' e i tempi per la trasmissione dei dati da parte dei soggetti di cui al comma 3.».
 
 ## Art. 17.
 
@@ -287,6 +473,24 @@ L'articolo 49-octies del decreto legislativo 18 luglio 2005, n. 171, e' sostitui
 ## Art. 25. — Modifiche all'articolo 49-nonies del decreto legislativo 
  18 luglio 2005, n. 171
 
+1.
+                    
+                        
+                            All'articolo 49-nonies del decreto legislativo 18 luglio 2005, n. 171, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 3, le parole «alle unita'» sono sostituite dalle seguenti: «a natanti e a imbarcazioni»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 4, dopo le parole «la sua delimitazione» sono aggiunte le seguenti: «a terra» e le parole «una banchina d'accesso con altezza massima di cinquanta centimetri rispetto al livello dell'acqua. In alternativa e' possibile l'utilizzo di un idoneo sistema di pontili galleggianti, collegati a terra,» sono sostituite dalle seguenti: «sistemi idonei allo specifico attracco».
+
 ## Art. 26. — Modifiche all'articolo 52 decreto legislativo 
  18 luglio 2005, n. 171
 
@@ -294,6 +498,25 @@ All'articolo 52 del decreto legislativo 18 luglio 2005, n. 171, comma 7, dopo le
 
 ## Art. 27. — Modifiche all'articolo 57-bis del decreto legislativo 
  18 luglio 2005, n. 171
+
+1.
+                    
+                        
+                            All'articolo 57-bis del decreto legislativo 18 luglio 2005, n. 171, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                la rubrica e' sostituita dalla seguente: «Vendita e somministrazione di cibi e bevande. Commercio al dettaglio.
+Inquinamento acustico»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                il comma 1 e' sostituito dal seguente: «1. Fermo restando quanto previsto dal regolamento (CE) n. 852/2004 del Parlamento europeo e del Consiglio del 29 aprile 2004 sull'igiene dei prodotti alimentari, le regioni disciplinano la somministrazione itinerante di cibo e bevande, nonche' le attivita' di commercio al dettaglio operate in mare e nelle acque interne mediante unita' da diporto utilizzate a tale fine commerciale durante la stagione balneare. Con riguardo alle bevande alcoliche, la relativa somministrazione e' disciplinata in maniera piu' restrittiva nelle aree interessate da intenso traffico diportistico e commerciale allo scopo di prevenire sinistri dovuti al loro abuso.».
 
 ## Art. 28. — Modifiche all'articolo 60 del decreto legislativo 
  18 luglio 2005, n. 171
@@ -308,8 +531,81 @@ All'articolo 60 del decreto legislativo 18 luglio 2005, n. 171, dopo il comma 3 
 ## Art. 29. — Modifiche all'articolo 64 del decreto legislativo 
  18 luglio 2005, n. 171
 
+1.
+                    
+                        
+                            All'articolo 64, comma 2, del decreto legislativo 18 luglio 2005, n. 171, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                la parola «annualmente» e' soppressa; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                dopo la parola «trasporti», sono inserite le seguenti: «, il quale viene aggiornato periodicamente e secondo necessita'».
+
 ## Art. 30. — Modifiche all'articolo 59 del decreto legislativo 
  3 novembre 2017, n. 229
+
+1.
+                    
+                        
+                            All'articolo 59, comma 1, del decreto legislativo 3 novembre 2017, n. 229, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                la lettera e) e' abrogata; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                alla lettera h), dopo le parole «in solitario,», sono inserite le seguenti: «anche nel caso di navigazione limitata all'area di ricerca e soccorso nazionale se in presenza di strumenti elettronici per la localizzazione,», la parola «rilasciati» e' sostituita dalla seguente: «rilasciate» e dopo le parole «n. 171» sono inserite le seguenti: «, nonche' gli apparati di comunicazione»; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                la lettera i) e' sostituita dalla seguente: «i) disciplina dei requisiti soggettivi, fisici, psichici e morali per il conseguimento, la convalida e la revisione delle patenti nautiche, anche a favore di persone con disabilita' fisica, psichica o sensoriale, ovvero con disturbi specifici dell'apprendimento (DSA), nonche' delle modalita' di accertamento e di certificazione dei predetti requisiti, prevedendo misure di semplificazione finalizzate a svolgere le visite mediche, oltre che presso strutture pubbliche, presso gabinetti medici, anche allestiti nelle sedi delle scuole nautiche e dei consorzi per l'attivita' di scuola nautica, che rispettino idonei requisiti igienico sanitari e siano accessibili e fruibili dalle persone con disabilita', a condizione che le visite siano svolte da medici in possesso del codice identificativo per il rilascio delle patenti guida, ai sensi del decreto ministeriale 31 gennaio 2011, pubblicato nella Gazzetta Ufficiale della Repubblica italiana n. 38 del 16 febbraio 2011»; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                alla lettera l), sono aggiunte, in fine, le seguenti parole: «e quelle per tutelare i diritti fondamentali degli interessati secondo le previsioni di cui agli articoli 2-sexies e 2-octies del medesimo codice»; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                la lettera o) e' abrogata; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                alla lettera s), la parola «conduttore» e' sostituita dalla seguente: «locatario»; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                dopo la lettera bb), sono aggiunte le seguenti: 
+ «bb-bis) disciplina della navigazione e dell'utilizzo delle unita' da diporto a controllo remoto, delle responsabilita' connesse e del regime assicurativo; 
+ bb-ter) disciplina relativa all'annotazione sul ruolino di equipaggio, secondo criteri di semplificazione delle procedure e alla luce delle modalita' di comunicazione telematica, anche con riguardo alle unita' in acque estere.».
 
 ## Art. 31. — Modifiche all'articolo 22 del decreto legislativo 11 gennaio 2016, n. 5
 

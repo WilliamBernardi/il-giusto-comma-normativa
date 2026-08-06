@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
 vigenza_date: 2016-05-26
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:29Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -164,6 +164,106 @@ Le procedure di valutazione della conformita' sono stabilite nell'allegato II.
 
 La documentazione tecnica deve descrivere in modo intelligibile la progettazione, la fabbricazione e il funzionamento dello strumento di misura e deve consentire di valutare la conformita' dello stesso ai requisiti fissati dal presente decreto.
 
+2.
+                    
+                        
+                            La documentazione tecnica deve essere sufficientemente dettagliata per assicurare: 
+ 
+                        
+                        
+                            a)
+                            
+                                la definizione delle caratteristiche metrologiche; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                la riproducibilita' dei risultati delle misure degli strumenti prodotti quando essi sono ((correttamente regolati)) avvalendosi degli opportuni mezzi previsti; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                l'integrita' dello strumento.
+
+3.
+                    
+                        
+                            Ai fini della valutazione e dell'((identificazione del tipo o dello strumento di misura)), la documentazione tecnica deve includere quanto segue: 
+ 
+                        
+                        
+                            a)
+                            
+                                una descrizione generale dello strumento; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                i disegni di progettazione e di fabbricazione, nonche' i piani relativi a componenti, sottounita', circuiti ed altre simili parti;
+                            
+                        
+                        
+                            c)
+                            
+                                le procedure di fabbricazione per garantire una produzione omogenea; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                se del caso, una descrizione dei dispositivi elettronici con schemi, diagrammi, diagrammi di flusso dell'informazione del software logico e generale che ne illustrino le caratteristiche e il funzionamento; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                le descrizioni e le spiegazioni necessarie per comprendere le lettere b), c) e d), compreso il funzionamento dello strumento; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                un elenco delle norme ((armonizzate o dei documenti normativi previsti all'articolo 12, applicati in tutto o in parte, i cui riferimenti sono stati pubblicati nella Gazzetta Ufficiale dell'Unione europea)); 
+
+                            
+                        
+                        
+                            g)
+                            
+                                le descrizioni delle soluzioni adottate per soddisfare i requisiti essenziali qualora non siano state applicate ((le norme armonizzate o i documenti normativi previsti all'articolo 12, compreso un elenco delle altre pertinenti specifiche tecniche applicate)); 
+
+                            
+                        
+                        
+                            h)
+                            
+                                i risultati dei calcoli di progetto, di esami; 
+
+                            
+                        
+                        
+                            i)
+                            
+                                i risultati delle prove pertinenti, ove necessario, per dimostrare che ((il tipo o lo strumento)) e' conforme a: 
+ 1) i requisiti del presente decreto in base alle condizioni di funzionamento nominali dichiarate e ai disturbi ambientali specifici; 
+ 2) le specifiche di durata dei contatori del gas, dell'acqua, ((di energia termica)) nonche' dei contatori di liquidi diversi dall'acqua; 
+
+                            
+                        
+                        
+                            l)
+                            
+                                gli ((certificati di esame CE del tipo o i certificati)) di esame CE del progetto per quanto concerne gli strumenti che contengono parti identiche a quelle del progetto.
+
 Il fabbricante specifica la posizione dei sigilli e delle marcature.
 
 Il fabbricante indica, ((se del caso)), i requisiti di compatibilita' con interfacce e sottounita'.
@@ -192,6 +292,52 @@ Le modalita' di svolgimento dell'attivita' di cui al primo periodo del comma 2 e
 
 Il Ministero dello sviluppo economico assume piena responsabilita' per i compiti svolti dall'organismo di cui al comma 3.
 
+5.
+                    
+                        
+                            Il Ministero dello sviluppo economico, quale autorita' di notifica e ai fini dell'attivita' di autorizzazione, nonche' l'organismo nazionale di accreditamento, ai fini dell'attivita' di valutazione e controllo, organizzano e gestiscono le relative attivita' nel rispetto delle seguenti prescrizioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                in modo che non sorgano conflitti d'interesse con gli organismi di valutazione della conformita'; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                in modo che sia salvaguardata l'obiettivita' e l'imparzialita' delle attivita'; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                in modo che ogni decisione relativa alla notifica di un organismo di valutazione della conformita' sia presa da persone competenti diverse da quelle che hanno effettuato la valutazione; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                evitando di offrire ed effettuare attivita' eseguite dagli organismi di valutazione della conformita' o servizi di consulenza commerciali o su base concorrenziale; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                salvaguardando la riservatezza delle informazioni ottenute; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                assegnando a tali attivita' un numero di dipendenti competenti sufficiente per l'adeguata esecuzione dei suoi compiti.
+
 6. Il Ministero dello sviluppo economico informa la Commissione europea delle procedure adottate per la valutazione e la notifica degli organismi di valutazione della conformita' e per il controllo degli organismi notificati, i nonche' di qualsiasi modifica delle stesse))
 
 ## Art. 9-bis. — (( (Prescrizioni relative agli organismi notificati e presunzione di conformita'). ))
@@ -207,6 +353,64 @@ L'organismo di valutazione della conformita' e' un organismo terzo indipendente 
 L'organismo di valutazione della conformita', i suoi alti dirigenti e il personale addetto alla valutazione della conformita' non sono ne' il progettista, ne' il fabbricante, ne' il fornitore, ne' l'installatore, ne' l'acquirente, ne' il proprietario, ne' l'utilizzatore o il responsabile della manutenzione degli strumenti sottoposti alla sua valutazione, ne' il rappresentante di uno di questi soggetti. Cio' non preclude l'uso degli strumenti di misura valutati che sono necessari per il funzionamento dell'organismo di valutazione della conformita' o l'uso di tali strumenti di misura per scopi privati. L'organismo di valutazione della conformita', i suoi alti dirigenti e il personale addetto alla valutazione della conformita' non intervengono direttamente nella progettazione, nella fabbricazione o nella costruzione, nella commercializzazione, nell'installazione, nell'utilizzo o nella manutenzione degli strumenti di misura, ne' rappresentano i soggetti impegnati in tali attivita'. Non intraprendono alcuna attivita' che possa essere in conflitto con la loro indipendenza di giudizio o la loro integrita' per quanto riguarda le attivita' di valutazione della conformita' per cui sono notificati. Cio' vale in particolare per i servizi di consulenza. Cio' non preclude la possibilita' di scambio di informazioni tecniche tra il fabbricante e l'organismo. L'organismo di valutazione della conformita' garantisce che le attivita' delle sue affiliate o dei suoi subappaltatori non si ripercuotano sulla riservatezza, sull'obiettivita' o sull'imparzialita' delle sue attivita' di valutazione della conformita'.
 
 L'organismo di valutazione della conformita' e il suo personale eseguono le operazioni di valutazione della conformita' con il massimo dell'integrita' professionale e della competenza tecnica e sono liberi da qualsivoglia pressione o incentivo, soprattutto di ordine finanziario, che possa influenzare il loro giudizio o i risultati delle loro attivita' di valutazione, in particolare da persone o gruppi di persone interessati ai risultati di tali attivita'.
+
+6.
+                    
+                        
+                            L'organismo di valutazione della conformita' e' in grado di eseguire tutti i compiti di valutazione della conformita' assegnatigli in base all'allegato II e per cui e' stato notificato, indipendentemente dal fatto che siano eseguiti dall'organismo stesso o per suo conto e sotto la sua responsabilita'. In ogni momento, per ogni procedura di valutazione della conformita' e per ogni tipo o categoria di strumenti di misura per i quali e' stato notificato, l'organismo di valutazione della conformita' ha a sua disposizione: 
+ 
+                        
+                        
+                            a)
+                            
+                                personale con conoscenze tecniche ed esperienza sufficiente e appropriata per eseguire i compiti di valutazione della conformita'; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                le necessarie descrizioni delle procedure in conformita' delle quali avviene la valutazione della conformita', garantendo la trasparenza e la capacita' di riproduzione di tali procedure; una politica e procedure appropriate che distinguano i compiti che svolge in qualita' di organismo di valutazione della conformita' dalle altre attivita'; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                le procedure per svolgere le attivita' che tengono debitamente conto delle dimensioni di un'impresa, del settore in cui opera, della sua struttura, del grado di complessita' della tecnologia dello strumento in questione e della natura di massa o seriale del processo produttivo.
+
+7.
+                    
+                        
+                            L'organismo di valutazione della conformita' dispone dei mezzi necessari per eseguire in modo appropriato i compiti tecnici e amministrativi connessi alle attivita' di valutazione della conformita' e ha accesso a tutti gli strumenti o impianti occorrenti.
+Il personale responsabile dell'esecuzione dei compiti di valutazione della conformita' dispone di quanto segue: 
+ 
+                        
+                        
+                            a)
+                            
+                                una formazione tecnica e professionale solida che include tutte le attivita' di valutazione della conformita' in relazione alle quali l'organismo di valutazione della conformita' e' stato notificato; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                soddisfacenti conoscenze delle prescrizioni relative alle valutazioni che esegue e un'adeguata autorita' per eseguire tali valutazioni; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                una conoscenza e una comprensione adeguate dei requisiti essenziali di cui all'allegato I, delle norme armonizzate e dei documenti normativi applicabili e delle disposizioni pertinenti della normativa di armonizzazione dell'Unione europea nonche' delle normative nazionali; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                la capacita' di elaborare certificati, registri e rapporti atti a dimostrare che le valutazioni sono state eseguite.
 
 E' garantita l'imparzialita' degli organismi di valutazione della conformita', dei loro alti dirigenti e del personale addetto allo svolgimento di compiti di valutazione della conformita'. La remunerazione degli alti dirigenti e del personale addetto allo svolgimento di compiti di valutazione della conformita' non dipende dal numero di valutazioni eseguite o dai risultati di tali valutazioni.
 
@@ -235,6 +439,38 @@ Le attivita' possono essere subappaltate o eseguite da un'affiliata solo con il 
 ((
 
 Un organismo interno accreditato puo' essere utilizzato per svolgere attivita' di valutazione della conformita' per l'impresa di cui fa parte ai fini dell'applicazione delle procedure di cui al modulo A2 e al modulo C2 dell'al legato II. Tale organismo costituisce una parte separata e distinta dell'impresa e non partecipa alla progettazione, alla produzione, alla fornitura, all'installazione, all'utilizzo o alla manutenzione degli strumenti di misura che valuta.
+
+2.
+                    
+                        
+                            L'organismo interno accreditato soddisfa i seguenti requisiti: 
+ 
+                        
+                        
+                            a)
+                            
+                                e' accreditato a norma del regolamento (CE) n. 765/2008; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                esso e il suo personale sono identificabili a livello dell'organizzazione e s'iscrivono all'interno dell'impresa di cui fanno parte in una linea gerarchica che ne garantisce l'imparzialita' e la dimostra al pertinente organismo nazionale di accreditamento; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                ne' esso ne' il suo personale sono responsabili della progettazione, della fabbricazione, della fornitura, dell'installazione, del funzionamento o della manutenzione degli strumenti di misura che valutano e non partecipano ad attivita' che possano pregiudicare la loro indipendenza di giudizio o integrita' nelle attivita' di valutazione che svolgono; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                fornisce i suoi servizi esclusivamente all'impresa di cui fa parte.
 
 3. L'organismo interno accreditato non e' notificato agli Stati membri o alla Commissione, ma l'impresa di cui fa parte o l'organismo nazionale di accreditamento fornisce informazioni sul suo accreditamento al Ministero dello sviluppo economico))
 
@@ -355,6 +591,25 @@ Nel caso in cui l'operatore economico interessato non prende le misure correttiv
 
 Il Ministero dello sviluppo economico informa immediatamente la Commissione e gli altri Stati membri circa le misure di cui ai commi 6 e 7. Il Ministero dello sviluppo economico comunica i provvedimenti di cui al presente articolo agli organi segnalanti la presunta non conformita'.
 
+9.
+                    
+                        
+                            Le informazioni di cui al primo periodo del comma 8, includono tutti i particolari disponibili, soprattutto i dati necessari all'identificazione dello strumento di misura non conforme, la sua origine, la natura della presunta non conformita' e dei rischi connessi, la natura e la durata delle misure nazionali adottate, nonche' gli argomenti espressi dall'operatore economico interessato.
+In particolare, il Ministero dello sviluppo economico indica se l'inadempienza sia dovuta a una delle due cause seguenti: 
+ 
+                        
+                        
+                            a)
+                            
+                                non conformita' dello strumento di misura alle prescrizioni relative agli aspetti di protezione del pubblico interesse stabiliti nel presente decreto; oppure 
+
+                            
+                        
+                        
+                            b)
+                            
+                                carenze nelle norme armonizzate di cui all'articolo 12, che conferiscono la presunzione di conformita'.
+
 Il Ministero dello sviluppo economico, quando la procedura a norma dell'articolo 42 della direttiva 2014/32/UE e' stata avviata dall'autorita' di un altro Stato membro, informa immediatamente la Commissione e gli altri Stati membri di tutti i provvedimenti adottati, di tutte le altre informazioni a sua disposizione sulla non conformita' dello strumento di misura interessato e, in caso di disaccordo con la misura nazionale adottata, delle sue obiezioni.
 
 Il Ministero dello sviluppo economico tiene conto nello svolgimento della propria attivita', sia per le proprie misure provvisorie che per quelle assunte da autorita' di altri Stati membri, che nel caso in cui, entro tre mesi dal ricevimento delle informazioni di cui al comma 9, uno Stato membro o la Commissione non sollevano obiezioni contro la misura provvisoria presa da uno Stato membro, tale misura e' ritenuta giustificata.
@@ -389,11 +644,103 @@ Il Ministero dello sviluppo economico informa immediatamente la Commissione e gl
 
 ((
 
+1.
+                    
+                        
+                            Fatto salvo l'articolo 16, se il Ministero dello sviluppo economico giunge a una delle seguenti conclusioni, chiede all'operatore economico interessato di porre fine allo stato di non conformita' in questione: 
+ 
+                        
+                        
+                            a)
+                            
+                                la marcatura CE o la marcatura metrologica supplementare e' stata apposta in violazione dell'articolo 30 del regolamento (CE) n. 765/2008 o dell'articolo 13 del presente decreto; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                la marcatura CE o la marcatura metrologica supplementare non e' stata apposta; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                il numero di identificazione dell'organismo notificato, qualora tale organismo intervenga nella fase di controllo della produzione, e' stato apposto in violazione dell'articolo 13 o non e' stato apposto; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                la dichiarazione di conformita' UE non accompagna lo strumento di misura; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                non e' stata compilata correttamente la dichiarazione di conformita' UE; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                la documentazione tecnica non e' disponibile o e' incompleta; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                le informazioni di cui all'articolo 4-bis, comma 6, o all'articolo 4-quater, comma 3, sono assenti, false o incomplete; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                non e' rispettata qualsiasi altra prescrizione amministrativa di cui all'articolo 4-bis o all'articolo 4-quater.
+
 2. Se la non conformita' di cui al comma 1 permane, il Ministero dello sviluppo economico adotta le adeguate misure per limitare o proibire la messa a disposizione sul mercato dello strumento o per garantire che sia richiamato o ritirato dal mercato))
 
 ## Art. 18. — (( (Obbligo di informazione a carico degli organismi notificati). ))
 
 ((
+
+1.
+                    
+                        
+                            Gli organismi notificati informano il Ministero dello sviluppo economico e l'organismo nazionale di accreditamento: 
+ 
+                        
+                        
+                            a)
+                            
+                                di qualunque rifiuto, limitazione, sospensione o ritiro di un certificato; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                di qualunque circostanza che possa influire sull'ambito o sulle condizioni della notifica; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                di eventuali richieste di informazioni che abbiano ricevuto dalle autorita' di vigilanza del mercato in relazione alle attivita' di valutazione della conformita'; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                su richiesta, delle attivita' di valutazione della conformita' eseguite nell'ambito della loro notifica e di qualsiasi altra attivita', incluse quelle transfrontaliere e di subappalto.
 
 Gli organismi notificati forniscono agli altri organismi notificati a norma della direttiva attuata con il presente decreto, le cui attivita' di valutazione della conformita' sono simili o coprono gli stessi strumenti di misura, informazioni pertinenti sulle questioni relative ai risultati negativi e, su richiesta, positivi delle valutazioni della conformita'.
 
@@ -417,6 +764,98 @@ I rapporti sulle violazioni ((di cui ai commi 1, 2 e 2-bis)) sono presentati, ai
 
 ## Art. 21. — Abrogazioni
 
+1.
+                    
+                        
+                            Fatto salvo quanto previsto dall'articolo 22, a decorrere dalla data di entrata in vigore del presente decreto sono abrogati i seguenti provvedimenti:
+ 
+                        
+                        
+                            a)
+                            
+                                
+                                    decreto del Presidente della Repubblica 23 agosto 1982, n. 857, che recepisce la direttiva 71/318/CEE, del 26 luglio 1971, per il ravvicinamento delle legislazioni degli Stati membri relative ai contatori di volume di gas;
+
+                            
+                        
+                        
+                            b)
+                            
+                                
+                                    decreto del Presidente della Repubblica 12 agosto 1982, n. 736, che recepisce la direttiva 71/319/CEE, del 26 luglio 1971, per il ravvicinamento delle legislazioni degli Stati membri relative ai contatori di liquidi diversi dall'acqua;
+
+                            
+                        
+                        
+                            c)
+                            
+                                
+                                    decreto del Presidente della Repubblica 12 agosto 1982, n. 737, che recepisce la direttiva 71/348/CEE, del 12 ottobre 1971, per il ravvicinamento delle legislazioni degli Stati membri relative ai dispositivi accessori per contatori di liquidi diversi dall'acqua;
+
+                            
+                        
+                        
+                            d)
+                            
+                                
+                                    decreto del Presidente della Repubblica 23 agosto 1982, n. 864, che recepisce la direttiva 73/362/CEE, del 19 novembre 1973, per il ravvicinamento delle legislazioni degli Stati membri relative alle misure lineari materializzate;
+
+                            
+                        
+                        
+                            e)
+                            
+                                
+                                    decreto del Presidente della Repubblica 23 agosto 1982, n. 854, che recepisce la direttiva 75/33/CEE, del 17 dicembre 1974, per il ravvicinamento delle legislazioni degli Stati membri relative ai contatori d'acqua fredda, per quanto riguarda i contatori di cui all'allegato MI-001, contemplati dal presente decreto;
+
+                            
+                        
+                        
+                            f)
+                            
+                                
+                                    decreto del Presidente della Repubblica 23 agosto 1982, n. 846, che recepisce la direttiva 75/410/CEE, del 24 giugno 1975, per il ravvicinamento delle legislazioni degli Stati membri relative agli strumenti per pesare totalizzatori continui;
+
+                            
+                        
+                        
+                            g)
+                            
+                                
+                                    decreto del Presidente della Repubblica 10 settembre 1982, n. 872, che recepisce la direttiva 76/891/CEE, del 4 novembre 1976, per il ravvicinamento delle legislazioni degli Stati membri relative ai contatori di energia elettrica;
+
+                            
+                        
+                        
+                            h)
+                            
+                                
+                                    decreto del Presidente della Repubblica 23 agosto 1982, n. 866, che recepisce la direttiva 77/95/CEE, del 21 dicembre 1976, per il ravvicinamento delle legislazioni degli Stati membri relative ai tassametri;
+
+                            
+                        
+                        
+                            i)
+                            
+                                
+                                    decreto del Presidente della Repubblica 23 agosto 1982, n. 856, che recepisce la direttiva 77/313/CEE, del 5 aprile 1977, per il ravvicinamento delle legislazioni degli Stati membri in materia di complessi di misurazione per liquidi diversi dall'acqua;
+
+                            
+                        
+                        
+                            l)
+                            
+                                
+                                    decreto del Presidente della Repubblica 23 agosto 1982, n. 834, che recepisce la direttiva 78/1031/CEE, del 5 dicembre 1978, per il ravvicinamento delle legislazioni degli Stati membri relative alle selezionatrici ponderali a funzionamento automatico;
+
+                            
+                        
+                        
+                            m)
+                            
+                                
+                                    decreto del Presidente della Repubblica 23 agosto 1982, n. 855, che recepisce la direttiva 79/830/CEE, dell'11 settembre 1979, per il ravvicinamento delle legislazioni degli Stati membri relative ai contatori di acqua calda.
+
 Sono abrogate le disposizioni del testo unico delle leggi metriche, approvato con regio decreto 23 agosto 1890, n. 7088, e successive modificazioni, contrastanti o incompatibili con il presente decreto.
 
 ## Art. 22. — Disposizioni transitorie
@@ -434,6 +873,31 @@ I dispositivi ed i sistemi di misura di cui all'articolo 1, comma 1, se utilizza
 Al fine di favorire la possibilita' per i consumatori di acquistare latte crudo, non preconfezionato, in piccole quantita' predeterminate, fino ad un massimo di cinque litri per ciascuna erogazione, i distributori automatici per la vendita di tale prodotto al consumatore, il quale deve essere munito di adeguato recipiente, sono esonerati, ai sensi ((dell'articolo 3 della direttiva 2014/32/UE)) dalle procedure di valutazione di conformita', dall'apposizione delle marcature di cui agli articoli 5 e 13 e dai controlli previsti dall'articolo 14, fatto salvo il rispetto delle disposizioni in materia di commercializzazione del latte e di sicurezza alimentare. I distributori in servizio alla data di entrata in vigore del presente articolo possono essere utilizzati senza essere sottoposti ai controlli metrologici legali previsti dalla normativa vigente, fermi restando gli ambiti di controllo a tutela dei consumatori e le attivita' di vigilanza sul rispetto delle prescrizioni di cui al comma 2 effettuate da parte dei soggetti ((di cui all'articolo 14, comma 2)).
 
 ((1-bis. Al fine di agevolare la distribuzione dell'acqua potabile non preconfezionata, in piccole quantita' predeterminate, tenuto conto del modico valore della transazione, i distributori automatici per la vendita di tale prodotto sono esonerati, ai sensi dell'articolo 3, della direttiva 2014/32/UE, dalle procedure di valutazione della conformita', dall'apposizione delle marcature di cui agli articoli 5 e 13 e dai controlli previsti dall'articolo 14, fatto salvo il rispetto delle disposizioni in materia di commercializzazione dell'acqua e di sicurezza sanitaria. Ai distributori in servizio alla data di entrata in vigore del presente comma si applica il secondo periodo del comma 1 del presente articolo))
+
+2.
+                    
+                        
+                            I distributori ((di cui ai commi 1 e 1-bis)) devono in ogni caso soddisfare le seguenti condizioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                l'iscrizione apposta sul distributore deve indicare che la quantita' ((...)) offerta e' da considerarsi come quantita' minima garantita; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                deve essere indicata la ragione sociale dell'esercente, la sua sede piu' vicina ed i relativi recapiti e, con indicazione separata, le istruzioni d'uso; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                l'esercente deve assicurare il corretto funzionamento e la verificazione a cadenza biennale del dispositivo di dosaggio le cui risultanze devono essere messe a disposizione degli organi di vigilanza.
 
 ((2-bis. Al fine di consentirne il mantenimento in servizio dopo il 30 ottobre 2016 anche nel caso in cui si renda necessario aggiungere o sostituire dispositivi o sistemi self-service ad essi associati, i distributori di carburanti che soddisfano le norme applicabili anteriormente al 30 ottobre 2006 e sono stati o sono commercializzati e messi in servizio fino al 30 ottobre 2016 ai sensi dell'articolo 22, comma 1, possono essere associati a dispositivi o sistemi self-service immessi sul mercato in conformita' alle norme applicabili dal 30 ottobre 2006. Tale associazione e' consentita nel rispetto dei requisiti di cui al punto 8.1 dell'allegato I, da documentare mediante certificato di valutazione dei dispositivi rilasciato da organismo notificato e da controllare in occasione di verifiche periodiche e, eventualmente, di controlli casuali. Analoghe cautele sono osservate per il mantenimento in servizio di dispositivi o sistemi self-service che soddisfano le norme applicabili anteriormente al 30 ottobre 2006, nel caso in cui si renda necessario aggiungere o sostituire distributori di carburanti ad essi associati, approvati secondo le medesime norme, con distributori immessi sul mercato in conformita' alle norme applicabili dal 30 ottobre 2006))
 

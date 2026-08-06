@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
 vigenza_date: 2017-12-06
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:42Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -62,6 +62,84 @@ ASGGIORNAMENTO (1)
 ## Art. 2. — ((1. I soggetti che intendono ottenere l'indennizzo di cui all'articolo 1 presentano le relative domande al Ministero della salute, Direzione generale della vigilanza sugli enti e della sicurezza delle cure, da ora denominata "Direzione generale", entro il termine di dieci anni dalla data di entrata in vigore della legge 24 dicembre 2007, n. 244, se nati nel periodo dal 1959 al 1965, ovvero entro il termine di dieci anni dalla data di entrata in vigore della legge 7 agosto 2016, n. 160, se nati al di fuori del predetto periodo.))
 
 ((1))
+
+2.
+                    
+                        
+                            La domanda, in carta semplice, deve contenere i seguenti dati: 
+ 
+                        
+                        
+                            a)
+                            
+                                dati anagrafici del danneggiato e dell'eventuale rappresentante nel caso di incapace; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                indicazioni del danno per il quale si chiede l'indennizzo; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                elenco della documentazione allegata; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                indirizzo al quale inviare ogni comunicazione; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                firma del richiedente o del rappresentante; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                data di presentazione.
+
+3.
+                    
+                        
+                            L'istanza deve essere corredata della seguente documentazione amministrativa, nel rispetto delle disposizioni in materia di dichiarazioni sostitutive indicate nel D.P.R. 28 dicembre 2000, n. 445: 
+ 
+                        
+                        
+                            a)
+                            
+                                certificato di nascita del danneggiato; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                certificato di residenza; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                codice fiscale; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                nomina del rappresentante nel caso di danneggiato incapace.
 
 ((4. La documentazione sanitaria da presentare a corredo della domanda di cui al comma 2 e' indicata nell'allegato A al presente regolamento.))
 

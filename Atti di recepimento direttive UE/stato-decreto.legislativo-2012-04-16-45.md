@@ -9,7 +9,7 @@ vigente: true
 source: normattiva-opendata
 collection: Atti di recepimento direttive UE
 zip_date: 2026-07-30
-fetched_at: 2026-08-02T09:40:47Z
+fetched_at: 2026-07-30
 ---
 
 DECRETO LEGISLATIVO
@@ -179,6 +179,24 @@ All'articolo 25, comma 6, del decreto legislativo 21 novembre 2007, n. 231, la l
 ## Art. 4. — Disposizioni transitorie
 
 Gli istituti di moneta elettronica iscritti prima del 30 aprile 2011 all'albo di cui al previgente articolo 114-bis del decreto legislativo 1° settembre 1993, n. 385, possono proseguire la propria attivita' fino a sessanta giorni dopo la data di entrata in vigore delle disposizioni di attuazione del presente decreto secondo le previgenti disposizioni legislative e regolamentari; decorso tale termine cessano l'attivita', a meno che non siano stati iscritti ovvero siano in corso di iscrizione, ai sensi del comma 2, nell'albo di cui all'articolo 114-quater, introdotto nel decreto legislativo 1° settembre 1993, n. 385, dall'articolo 1, comma 3, del presente decreto.
+
+2.
+                    
+                        
+                            La Banca d'Italia iscrive nell'albo di cui all'articolo 114-quater, introdotto nel decreto legislativo 1° settembre 1993, n. 385, dal presente decreto, gli istituti di moneta elettronica che: 
+ 
+                        
+                        
+                            a)
+                            
+                                risultano iscritti prima del 30 aprile 2011 nell'albo di cui al previgente articolo 114-bis del decreto legislativo 1° settembre 1993, n. 385; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                presentino alla Banca d'Italia entro sessanta giorni dalla data di entrata in vigore delle disposizioni di attuazione del presente decreto un'apposita relazione da cui risulti il rispetto delle previsioni di cui all'articolo 114-quinquies.1 introdotto nel decreto legislativo 1° settembre 1993, n. 385, dall'articolo 1, comma 3, del presente decreto e un programma di attivita' redatto in conformita' alle disposizioni emanate dalla Banca d'Italia.
 
 In deroga al comma 1, gli istituti di moneta elettronica, iscritti prima del 30 aprile 2011 all'albo di cui al previgente articolo 114-bis del decreto legislativo 1° settembre 1993, n. 385, che beneficino della deroga prevista dal previgente articolo 114-quinquies del decreto legislativo 1° settembre 1993, n. 385, possono proseguire l'attivita' fino al 30 aprile 2012 ovvero, se posteriore, fino a sessanta giorni dopo la data di entrata in vigore delle disposizioni di attuazione del presente decreto, secondo le previgenti disposizioni legislative e regolamentari. Decorso tale termine cessano la propria attivita', a meno che non siano stati iscritti nell'albo di cui all'articolo 114-quater, introdotto nel decreto legislativo 1° settembre 1993, n. 385, dall'articolo 1,comma 3, del presente decreto, ovvero sia in corso un procedimento di autorizzazione ai sensi dell'articolo 114-quinquies introdotto nel decreto legislativo 1° settembre 1993, n. 385, dall'articolo 1, comma 3, del presente decreto, anche al fine di avvalersi della deroga prevista dall'articolo 114-quinquies.4 introdotto nel decreto legislativo 1° settembre 1993, n. 385, dall'articolo 1, comma 3, del presente decreto.
 

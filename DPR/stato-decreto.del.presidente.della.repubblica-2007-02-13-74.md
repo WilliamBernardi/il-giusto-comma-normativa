@@ -8,8 +8,8 @@ codice_redazionale: 007G0088
 vigente: true
 source: normattiva-opendata
 collection: DPR
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:47:50Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -36,4 +36,22 @@ Sentito il Ministro dei trasporti;
 Sulla proposta del Ministro delle infrastrutture, di concerto con i Ministri dello sviluppo economico, per i beni e le attivita' culturali, del lavoro e della previdenza sociale, per le politiche europee, dell'ambiente e della tutela del territorio e del mare e dell'economia e delle finanze;
 
 ## Art. 1.
+
+1.
+                    
+                        
+                            Nel decreto del Presidente della Repubblica 25 gennaio 2000, n. 34, come modificato dal decreto del Presidente della Repubblica 10 marzo 2004, n. 93, sono apportate le seguenti modificazioni:
+ 
+                        
+                        
+                            a)
+                            
+                                all'articolo 18, comma 8, sono soppressi il quinto ed il sesto periodo;
+
+                            
+                        
+                        
+                            b)
+                            
+                                nell'allegato A, voce Categorie di opere specializzate, declaratoria della categoria OS12, sono soppresse le seguenti parole: ", nei limiti specificati all'articolo 18, comma 8, la produzione in stabilimento industriale,".
 

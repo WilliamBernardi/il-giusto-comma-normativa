@@ -8,8 +8,8 @@ vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
 vigenza_date: 2025-12-18
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:32Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -29,12 +29,50 @@ All'articolo 152, primo comma, del regio decreto 30 marzo 1942, n. 327, recante 
 
 ## Art. 2. — Modifiche all'articolo 1 del decreto-legge 30 dicembre 1997, n. 457, convertito, con modificazioni, dalla legge 27 febbraio 1998, n. 30
 
+1.
+                    
+                        
+                            All'articolo 1, del decreto-legge 30 dicembre 1997, n. 457, convertito, con modificazioni, dalla legge 27 febbraio 1998, n. 30, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                dopo il comma 1, e' inserito il seguente: «1-bis.
+L'autorizzazione di cui al comma 1 e' rilasciata a seguito di specifica istanza presentata dai soggetti interessati, anche per posta certificata, secondo modalita' stabilite con decreto del Ministero delle infrastrutture e dei trasporti.»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 5, sono aggiunte, in fine, le seguenti parole: «e, limitatamente alle navi traghetto ro-ro e ro-ro pax, iscritte nel registro internazionale, adibite a traffici commerciali tra porti appartenenti al territorio nazionale, continentale e insulare, anche a seguito o in precedenza di un viaggio proveniente da o diretto verso un altro Stato, deve essere imbarcato esclusivamente personale italiano o comunitario.».
+
 ## Art. 3. — Modifiche all'articolo 2 del decreto-legge 30 dicembre 1997, n. 457, convertito, con modificazioni, dalla legge 27 febbraio 1998, n. 30
 
 All'articolo 2, del decreto-legge 30 dicembre 1997, n. 457, convertito, con modificazioni, dalla legge 27 febbraio 1998, n. 30, dopo il comma 1-bis, e' inserito il seguente: 
  «1-ter. Gli accordi di cui al comma 1-bis non possono riguardare le navi traghetto ro-ro e ro-ro pax iscritte nel registro internazionale adibite a traffici commerciali tra porti appartenenti al territorio nazionale, continentale e insulare, anche per viaggi effettuati a seguito o in precedenza di un viaggio proveniente da o diretto verso un altro Stato.».
 
 ## Art. 4. — Modifiche all'articolo 4 del decreto-legge 30 dicembre 1997, n. 457, convertito, con modificazioni, dalla legge 27 febbraio 1998, n. 30
+
+1.
+                    
+                        
+                            All'articolo 4 del decreto-legge 30 dicembre 1997, n. 457, convertito, con modificazioni, dalla legge 27 febbraio 1998, n. 30, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 1 e' aggiunto, in fine, il seguente periodo: «Per le navi traghetto ro-ro e ro-ro pax iscritte nel registro internazionale adibite a traffici commerciali tra porti appartenenti al territorio nazionale, continentale e insulare, anche a seguito o in precedenza di un viaggio proveniente da o diretto verso un altro Stato, il beneficio di cui al presente comma e' attribuito a condizione che sulla nave nel periodo cui si riferisce il versamento delle ritenute alla fonte sia stato imbarcato esclusivamente personale italiano o comunitario.»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                dopo il comma 2-ter e' aggiunto il seguente: 
+ «2-quater. Per le navi traghetto ro-ro e ro-ro pax, iscritte nel registro internazionale, adibite a traffici commerciali tra porti appartenenti al territorio nazionale, continentale e insulare, anche a seguito o in precedenza di un viaggio proveniente da o diretto verso un altro Stato, i benefici fiscali di cui al comma 2 sono attribuiti a condizione che sulla nave sia stato imbarcato esclusivamente personale italiano o comunitario.».
 
 ## Art. 5. — Modifiche all'articolo 6 del decreto-legge 30 dicembre 1997, n. 457, convertito, con modificazioni, dalla legge 27 febbraio 1998, n. 30
 
@@ -62,6 +100,25 @@ Resta fermo il calcolo del reddito imponibile dell'armatore in riferimento alle 
 
 ## Art. 8. — Disposizioni in materia di tariffa dei diritti consolari 
  relativi alla navigazione
+
+1.
+                    
+                        
+                            A decorrere dal primo giorno del secondo mese successivo all'entrata in vigore del presente decreto legislativo, all'articolo 1, comma 621, della legge 28 dicembre 2015, n. 208 (legge di stabilita' 2016), sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                alla lettera d) le parole: «39,» sono soppresse e sono aggiunte, in fine, le seguenti: «e i diritti di cui all'articolo 55 sono fissati in euro 25.»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                dopo la lettera d) e' aggiunta la seguente: 
+ «d-bis) i diritti di cui all'articolo 74 sono fissati in euro 50.».
 
 ## Art. 9. — Disposizioni finali e transitorie
 

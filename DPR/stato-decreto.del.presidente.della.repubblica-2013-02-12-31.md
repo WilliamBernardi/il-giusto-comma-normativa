@@ -7,8 +7,8 @@ urn: urn:nir:stato:decreto.del.presidente.della.repubblica:2013-02-12;31
 vigente: true
 source: normattiva-opendata
 collection: DPR
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:47:59Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -24,17 +24,140 @@ Sulla proposta del Ministro delle infrastrutture e dei trasporti e, limitatament
 
 ## Art. 1. — Modifiche all'articolo 9 del decreto del Presidente della Repubblica 16 dicembre 1992, n. 495
 
+1.
+                    
+                        
+                            All'articolo 9 del decreto del Presidente della Repubblica 16 dicembre 1992, n. 495, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 2, le parole: "Ministero dei trasporti e della navigazione - Direzione generale della Motorizzazione Civile e dei Trasporti in Concessione (M.C.T.C.)" sono sostituite dalle seguenti: "Ministero delle infrastrutture e dei trasporti - Direzione generale per la motorizzazione"; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                dopo il comma 3, e' inserito il seguente: 
+ "3-bis. Salvo quanto previsto dall'articolo 10, comma 2, lettera b), comma 3 e comma 6 del codice, un trasporto in condizioni di eccezionalita' e' consentito quando anche una sola delle cose trasportate, indivisibile ai sensi dell'articolo 10, comma 4, del codice, determina eccedenze rispetto ai limiti di sagoma o di massa fissati dagli articoli 61 e 62 del codice, o entrambi, e non e' possibile eseguirlo in condizioni ordinarie.".
+
 ## Art. 2. — Modifiche all'articolo 10 del decreto del Presidente della Repubblica 16 dicembre 1992, n. 495
 
 All'articolo 10, comma 2, del decreto del Presidente della Repubblica 16 dicembre 1992, n. 495, le parole: "Ministero dei trasporti e della navigazione - Direzione generale della Motorizzazione Civile e dei Trasporti in Concessione (M.C.T.C.)" sono sostituite dalle seguenti: "Ministero delle infrastrutture e dei trasporti - Direzione generale per la motorizzazione".
 
 ## Art. 3. — Modifiche all'articolo 11 del decreto del Presidente della Repubblica 16 dicembre 1992, n. 495
 
+1.
+                    
+                        
+                            All'articolo 11 del decreto del Presidente della Repubblica 16 dicembre 1992, n. 495, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 2, le parole: "Ministero dei trasporti e della navigazione - Direzione generale della Motorizzazione Civile e dei Trasporti in Concessione (M.C.T.C.)" sono sostituite dalle seguenti: "Ministero delle infrastrutture e dei trasporti - Direzione generale per la motorizzazione", e le parole: "Ministero dei trasporti e della navigazione" sono sostituite dalle seguenti: "Ministero delle infrastrutture e dei trasporti"; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 6, le parole: "Ministero dei trasporti e della navigazione - Direzione generale della Motorizzazione Civile e dei Trasporti in Concessione (M.C.T.C.)" sono sostituite dalle seguenti: "Ministero delle infrastrutture e dei trasporti - Direzione generale per la motorizzazione".
+
 ## Art. 4. — Modifiche all'articolo 12 del decreto del Presidente della Repubblica 16 dicembre 1992, n. 495
 
 All'articolo 12, comma 3, del decreto del Presidente della Repubblica 16 dicembre 1992, n. 495, le parole: "Ministero dei trasporti e della navigazione - Direzione generale della Motorizzazione Civile e dei Trasporti in Concessione (M.C.T.C.)" sono sostituite dalle seguenti: "Ministero delle infrastrutture e dei trasporti - Direzione generale per la motorizzazione".
 
 ## Art. 5. — Modifiche all'articolo 13 del decreto del Presidente della Repubblica 16 dicembre 1992, n. 495
+
+1.
+                    
+                        
+                            All'articolo 13 del decreto del Presidente della Repubblica 16 dicembre 1992, n. 495, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 1: 
+ 1) alla lettera a), le parole: "in un determinato periodo di tempo" sono sostituite dalle seguenti: "entro dodici mesi dalla data di rilascio"; 
+ 2) alla lettera b), le parole: "in date prestabilite, o in date libere ma entro un determinato periodo di tempo" sono sostituite dalle seguenti: "entro sei mesi dalla data di rilascio"; 
+ 3) la lettera c) e' sostituita dalla seguente: "c) singole, valide per un unico viaggio da effettuarsi entro tre mesi dalla data di rilascio."; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                dopo il comma 1, e' inserito il seguente: 
+ "1-bis. In relazione al tipo di autorizzazione richiesta, e alle esigenze del trasporto, per viaggio si intende sia la sola andata, sia l'andata ed il ritorno, con veicolo, o complesso di veicoli, a carico o a vuoto. Per percorso si intende un itinerario collegante sempre la stessa origine e la stessa destinazione, come individuato dai richiedenti, e che puo' essere modificato dagli enti proprietari secondo le esigenze di viabilita'. Il percorso si intende ripetitivo quando mantiene fisse le tratte stradali comprese tra origine e destinazione."; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                al comma 2: 
+1) al punto A): 
+ 1.1) la lettera a) e' sostituita dalla seguente: "a) i veicoli o i trasporti siano eccezionali solamente ai sensi dell'articolo 61 del codice, e la massa complessiva a pieno carico del veicolo o del complesso di veicoli, quale risulta dalla carta di circolazione, non superi i limiti di cui all'articolo 62;"; 
+ 1.2) la lettera b) e' sostituita dalla seguente: "b) il carico del trasporto eccezionale non sporga anteriormente e l'eventuale sporgenza posteriore non superi i quattro decimi della lunghezza del veicolo con il quale il trasporto stesso viene effettuato;"; 
+ 1.3) alla lettera c), le parole: "siano costituite sempre da materiale della stessa natura e siano riconducibili sempre ad una stessa tipologia" sono sostituite dalle seguenti: "rispettino le condizioni di cui al comma 9"; 
+ 1.4) la lettera e) e' soppressa; 
+ 1.5) alla lettera f), le parole: "i veicoli e i trasporti" sono sostituite dalle seguenti: "i veicoli o i trasporti"e, al punto 2), le parole: "larghezza 2,50 m" sono sostituite dalle seguenti: "larghezza 2,55 m"; 
+2) il punto B) e' sostituito dal seguente: 
+ "B) E' altresi' rilasciata per le seguenti categorie di veicoli e di trasporti eccezionali, in considerazione delle loro specificita' e purche' siano riconducibili sempre alla medesima tipologia: 
+ a) veicoli per uso speciale individuati agli articoli 203, comma 2, lettere b), c), h), i), j), bb), cc) e ii), 204, comma 2, lettere a) e b), e veicoli eccezionali al seguito dei veicoli di cui all'articolo 203, comma 2, lettera h), adibiti al trasporto esclusivo di attrezzature ad essi complementari; 
+ b) autotreni ed autoarticolati con rimorchio o semirimorchio destinato al trasporto esclusivo di macchine operatrici da cantiere, anche se superano le dimensioni prescritte dall'articolo 61 del codice, ma sono comunque compresi entro i limiti fissati dall'ente che rilascia l'autorizzazione, in relazione alla configurazione della rete stradale interessata, di massa complessiva a pieno carico non superiore a 72 t, ovvero 56 t se formati con motrice classificata mezzo d'opera o dichiarata idonea a formare autoarticolati mezzi d'opera; 
+ c) veicoli adibiti al trasporto di carri ferroviari; 
+ d) veicoli che trasportano, in quanto adeguatamente e permanentemente allestiti, pali per linee elettriche, telefoniche e di pubblica illuminazione, purche' non eccedenti con il carico le dimensioni in larghezza ed altezza di cui all'articolo 61 del codice, ed aventi lunghezza massima di 14 m. Le parti a sbalzo devono essere efficacemente segnalate ai fini della sicurezza della circolazione; la parte a sbalzo anteriore non deve eccedere 2,50 m misurati dal centro dell'asse anteriore; 
+ e) veicoli adibiti al trasporto di blocchi di pietra naturale a condizione che il trasporto venga effettuato senza sovrapporre i blocchi gli uni sugli altri; 
+ f) veicoli adibiti al trasporto di elementi prefabbricati compositi e di apparecchiature industriali complesse per l'edilizia, per i quali il trasporto, compatibilmente con le caratteristiche dei percorsi richiesti, rientri nei limiti dimensionali e ponderali seguenti: 
+ altezza 4,30 m, larghezza 2,55 m, lunghezza 35 m, massa complessiva 108 t; 
+ g) veicoli adibiti al trasporto di coils e laminati grezzi; 
+ h) veicoli adibiti al trasporto di attrezzature per spettacoli viaggianti, che non eccedano i limiti di massa fissati dall'articolo 62 del codice e i seguenti limiti dimensionali: altezza 4,30 m, larghezza 2,60 m, lunghezza 23 m. 
+ L'autorizzazione periodica e' rilasciata su percorsi anche diversi o su elenchi di strade; non e' consentita per i veicoli di cui alle lettere e), f) e g) per il transito sulle strade classificate di tipo A, ai sensi dell'articolo 2, comma 2, del codice."; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                al comma 3, le parole: "i percorsi" sono sostituite dalle seguenti: "il percorso"; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                al comma 5: 
+ 1) dopo le parole: "di tipo periodico" sono inserite le seguenti: "di cui al comma 2, punto A),"; 
+ 2) l'inciso: ", fatta salva la invariabilita' della natura del materiale e della tipologia degli elementi," e' soppresso; 
+ 3) le parole: "Direzione generale della M.C.T.C." sono sostituite dalle seguenti: "Direzione generale per la motorizzazione"; 
+ 4) dopo le parole: "fissati dall'articolo 62 del codice" sono inserite le seguenti: "; in tal caso viene meno l'obbligo della scorta, qualora imposta"; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                il comma 7 e' sostituito dal seguente: 
+ "7. Per le autorizzazioni di tipo singolo o multiplo, e per i trasporti eccezionali di cui al comma 2, punto B), e' ammessa la facolta' di ridurre, anche congiuntamente, le dimensioni o la massa degli elementi oggetto del trasporto o il loro posizionamento o il loro numero, a condizione che: 
+ a) permangano le condizioni che impongono la scorta, ove la stessa e' prescritta; 
+ b) sia garantito il rispetto, in qualunque condizione di carico, delle prescrizioni di cui all'articolo 16; 
+ c) siano rispettati i limiti di massa fissati dall'autorizzazione o, in mancanza, dall'articolo 62 del codice; 
+ d) rimanga inalterata la natura del materiale e la tipologia degli elementi. 
+ Resta fermo l'indennizzo gia' corrisposto ai sensi dell'articolo 18, ove dovuto. 
+ Per i trasporti eccezionali solamente in lunghezza, ai sensi dell'articolo 61 del codice, e per i quali nel provvedimento di autorizzazione non e' prescritta la scorta, e' ammessa anche la facolta' di ridurre la dimensione longitudinale del trasporto, anche con eventuale riduzione di massa, fino al limite fissato dall'articolo 61 del codice, potendo rientrare anche entro il limite stesso."; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                al comma 9, aggiungere, in fine, i seguenti periodi: "L'impiego di specifiche attrezzature non deve determinare eccedenze superiori a 4,20 m in altezza. Nel caso di autotreni, non si configura l'abbinamento longitudinale delle cose indivisibili qualora l'eccedenza in lunghezza si verifichi posteriormente per il solo rimorchio.".
 
 ## Art. 6. — Modifiche all'articolo 14 del decreto del Presidente della Repubblica 16 dicembre 1992, n. 495
 
@@ -91,9 +214,156 @@ L'articolo 15 del decreto del Presidente della Repubblica 16 dicembre 1992, n. 4
 
 ## Art. 8. — Modifiche all'articolo 16 del decreto del Presidente della Repubblica 16 dicembre 1992, n. 495
 
+1.
+                    
+                        
+                            All'articolo 16 del decreto del Presidente della Repubblica 16 dicembre 1992, n. 495, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                il comma 1 e' sostituito dal seguente: 
+ "1. Nel provvedimento di autorizzazione sono stabilite le prescrizioni ritenute opportune per la tutela del patrimonio stradale e la sicurezza della circolazione quali, ad esempio, gli eventuali percorsi da seguire o da evitare, i limiti di velocita' da rispettare, la necessita' o meno della scorta tecnica da parte del personale abilitato di cui all'articolo 12, comma 3-bis, del codice, gli eventuali periodi temporali, orari e giornalieri, di non validita' delle autorizzazioni, le modalita' inerenti la marcia, la sosta o il ricovero del veicolo o del complesso, l'eventuale obbligo di comunicare il transito nel caso sia prescritta la scorta ovvero si eccedano i limiti previsti dall'articolo 62 del codice. Il provvedimento deve, altresi', contenere la prescrizione che, in caso di neve, ghiaccio, nebbia o scarsa visibilita', sia diurna che notturna, il veicolo deve essere tempestivamente allontanato dalla sede stradale e condotto alla piu' vicina area disponibile. I vari enti proprietari interessati dal transito, previo coordinamento tra loro secondo le facolta' di cui all'articolo 14, comma 1, qualora le situazioni e condizioni locali lo consentano, si adoperano perche' le prescrizioni siano il piu' possibile uniformi."; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                i commi 4, 5 e 6 sono sostituiti dai seguenti: 
+ "4. Ferme restando le condizioni di cui al comma 3 e le facolta' di cui all'articolo 13, commi 5 e 7, se nel provvedimento di autorizzazione e' prescritta la scorta tecnica a cura del personale abilitato di cui all'articolo 12, comma 3-bis, del codice, il capo-scorta dovra' attenersi alle indicazioni del disciplinare di cui al comma 6, e alle eventuali indicazioni fornite, ai sensi del comma 5, dagli organi di polizia stradale di cui all'articolo 12, comma 1, del codice. Prima dell'inizio del viaggio il capo-scorta deve darne comunicazione agli organi di polizia stradale competenti per territorio di cui all'articolo 12, comma 1, del codice: 
+ a) con preavviso di ventiquattro ore, quando il viaggio deve essere effettuato sulle strade o tratti di strade di tipo A e B, ai sensi dell'articolo 2, comma 2, del codice, e sulle altre strade extraurbane con almeno due corsie per senso di marcia, per veicoli o trasporti eccezionali di larghezza superiore a 4,5 m o di lunghezza superiore a 38 m; 
+ b) con preavviso di tre giorni, quando il viaggio deve essere effettuato sulle altre strade o tratti di strade diverse da quelle indicate alla lettera a) per i veicoli o trasporti eccezionali di larghezza superiore a 4 m o lunghezza superiore a 35 m, ai fini dell'eventuale intervento, prima della partenza, di una pattuglia di Polizia stradale, per il controllo tecnico documentale sul trasporto da eseguire; 
+ c) con preavviso di cinque giorni, quando e' necessaria l'adozione di provvedimenti di chiusura completa al transito della strada con deviazione del traffico su itinerari alternativi, ai sensi dell'articolo 10, comma 9, del codice, ovvero la chiusura del tratto stradale interessato ha durata prevedibile superiore ad un'ora. 
+ La comunicazione, che deve essere fornita con le modalita' indicate con direttive del Ministero dell'interno, deve precisare la data e l'ora d'inizio del viaggio e le generalita' del capo-scorta designato. 
+ 5. Gli organi di polizia stradale competenti per territorio di cui all'articolo 12, comma 1, del codice, secondo le direttive fornite dal Ministero dell'interno, e conformemente alle disposizioni del disciplinare tecnico di cui al comma 6, possono: 
+ a) nei casi indicati dal comma 4, lettere a) e b), se le circostanze lo richiedono, imporre all'impresa autorizzata o ai soggetti di cui al comma 6-bis, che effettuano la scorta tecnica, ulteriori modalita' operative ovvero fornire indicazioni sul numero di ulteriori veicoli o persone abilitate di scorta; 
+ b) nel caso indicato dal comma 4, lettera c), se le circostanze lo consentono, autorizzare il personale della scorta tecnica a coadiuvare il personale di polizia o ad eseguire direttamente, in luogo di esso, le necessarie operazioni. 
+ 6. La scorta tecnica puo' essere svolta direttamente da una delle imprese interessate al trasporto con autoveicoli di cui abbia la disponibilita' o puo' essere affidata a imprese specializzate. In entrambi i casi le imprese devono essere munite di autorizzazione allo svolgimento del servizio di scorta tecnica e le persone incaricate della scorta tecnica devono essere munite di apposita abilitazione. Con disciplinare tecnico approvato con decreto del Ministro delle infrastrutture e dei trasporti, di concerto con il Ministro dell'interno, da pubblicare nella Gazzetta Ufficiale della Repubblica, sono stabiliti i requisiti e le modalita' per l'autorizzazione delle imprese allo svolgimento del servizio di scorta tecnica e per l'abilitazione delle persone atte ad eseguire la scorta tecnica. Con lo stesso disciplinare tecnico sono stabiliti i dispositivi supplementari di cui devono essere dotati gli autoveicoli adibiti al servizio di scorta tecnica, le modalita' di svolgimento della stessa, nonche' le eventuali ulteriori comunicazioni.
+L'autorizzazione allo svolgimento del servizio di scorta tecnica da parte dell'impresa e l'abilitazione del personale incaricato sono rilasciati da parte del Ministero dell' interno."; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                al comma 6-bis, sono aggiunti, in fine, i seguenti periodi: "Per i veicoli eccezionali ovvero per i trasporti in condizioni di eccezionalita' nella disponibilita' o sotto il diretto controllo delle Forze armate, la scorta tecnica puo' essere effettuata dal personale dell'amministrazione della difesa. Parimenti, le amministrazioni assimilate alle Forze armate di cui all'articolo 138, comma 11, del codice, potranno effettuare la scorta tecnica con proprio personale. L'abilitazione del personale di scorta tecnica ai predetti veicoli o trasporti eccezionali e' rilasciata dal Comando militare competente o dall'autorita' assimilata ai sensi dell'articolo 138, comma 11, del codice. Le disposizioni del disciplinare tecnico approvato con decreto del Ministro delle infrastrutture e dei trasporti, di concerto con il Ministro dell'interno di cui al comma 6, si applicano, limitatamente alle modalita' di effettuazione della scorta, anche per la circolazione dei veicoli e trasporti eccezionali nella disponibilita' o sotto il diretto controllo dei soggetti di cui all'articolo 138, comma 11, del codice."; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                il comma 7 e' sostituito dal seguente: "7. Per le scorte assicurate dalla specialita' Polizia Stradale della Polizia di Stato, ovvero dai corpi di polizia municipale o provinciale ai sensi dell'articolo 21, comma 2, nel rispetto del regolamento di amministrazione e di contabilita' dell'Amministrazione della Pubblica Sicurezza, ovvero della competente amministrazione, sono a carico del richiedente le spese e gli oneri relativi, fissati con provvedimento del Ministero dell'interno, di concerto con il Ministero dell'economia e delle finanze."; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                i commi 10, 11 e 12 sono sostituiti dai seguenti: 
+ "10. Sulle autorizzazioni singole e multiple, qualora sia dovuto l'indennizzo d'usura, devono essere annotati, prima di iniziare il viaggio, l'ora e il giorno di effettuazione di ciascun viaggio e l'autorizzazione, al termine del suo uso o alla sua scadenza, deve essere restituita all'ente che ha rilasciato l'autorizzazione stessa. Deve, inoltre, essere allegata copia della dichiarazione sostitutiva e dello schema di carico di cui all'articolo 14, comma 7, punto B), lettera b). 
+ 11. Nel caso in cui nella domanda si sia fatto riferimento a veicoli di riserva, conformemente a quanto disposto all'articolo 14, comma 3, qualora sia dovuto l'indennizzo d'usura, prima dell'inizio del viaggio devono essere comunicati i numeri delle targhe del veicolo isolato o del complesso di veicoli da utilizzare per il trasporto. Le comunicazioni devono essere allegate all'autorizzazione e sostituiscono l'annotazione di cui al comma 10. La comunicazione puo' essere effettuata dalla ditta che esegue la scorta ovvero dal capo-scorta. 
+ 12. Se l'annotazione prevista nel comma 10 non risulta iscritta sul documento di autorizzazione e se la comunicazione di cui al comma 11 non risulta effettuata, il trasporto eccezionale deve ritenersi non autorizzato. Pertanto, in caso di accertamento da parte degli organi di polizia stradale, lo stesso e' soggetto a tutte le conseguenze previste per la mancata autorizzazione. Alla fine del viaggio, durante il quale e' stata accertata la inadempienza, l'autorizzazione deve essere restituita all'ufficio che l'ha rilasciata. Se la comunicazione, ancorche' effettuata, non risulta allegata, il trasporto eccezionale e' invece soggetto a tutte le conseguenze previste per il mancato rispetto delle prescrizioni."; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                al comma 13, e' aggiunto, in fine, il seguente periodo: "Le comunicazioni possono essere effettuate in qualunque modalita' purche' suscettibile di riscontro. Secondo le facolta' di cui all'articolo 14, comma 1, annotazioni, comunicazioni e rilievi possono essere formulati in forma digitale."; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                al comma 14-bis, le parole: "all'articolo 12, commi 1 e 3-bis" sono sostituite dalle seguenti: "all'articolo 12, comma 1, ovvero il personale abilitato di cui all'articolo 12, comma 3-bis"; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                ai commi 15 e 16, le parole: "Direzione generale della M.C.T.C." sono sostituite dalle seguenti "Direzione generale per la motorizzazione"; 
+
+                            
+                        
+                        
+                            i)
+                            
+                                al comma 17, le parole "Ministro dei lavori pubblici" sono sostituite dalle parole "Ministro delle infrastrutture e dei trasporti".
+
 ## Art. 9. — Modifiche all'articolo 17 del decreto del Presidente della Repubblica 16 dicembre 1992, n. 495
 
+1.
+                    
+                        
+                            All'articolo 17 del decreto del Presidente della Repubblica 16 dicembre 1992, n. 495, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                il comma 1 e' sostituito dal seguente: 
+ "1. Le autorizzazioni di tipo singolo e multiplo non possono essere rilasciate per un periodo superiore rispettivamente a mesi tre ed a mesi sei."; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                il comma 2 e' sostituito dal seguente: 
+ "2. Le autorizzazioni di tipo periodico non possono essere rilasciate per un periodo superiore a mesi dodici."; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                il comma 3 e' soppresso.
+
 ## Art. 10. — Modifiche all'articolo 18 del decreto del Presidente della Repubblica 16 dicembre 1992, n. 495
+
+1.
+                    
+                        
+                            All'articolo 18 del decreto del Presidente della Repubblica 16 dicembre 1992, n. 495, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                il comma 2 e' sostituito dal seguente: "2. Dell'effettuato versamento fa fede la ricevuta riportante gli estremi identificativi del veicolo o complesso di veicoli, da allegare, in originale o in copia secondo i casi, alla domanda di autorizzazione, salvo che l'ente stesso non acquisisca altrimenti l'informazione dell'avvenuto pagamento. Nei casi in cui l'ente rilasciante non sia proprietario o concessionario della strada interessata al transito, si effettua tempestivo trasferimento delle somme percepite a favore del competente ente. Il riscontro del pagamento deve essere annotato sull'autorizzazione. Secondo le facolta' di cui all'articolo 14, comma 1, l'annotazione puo' essere effettuata in forma digitale."; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                il comma 5 e' sostituito dal seguente: "5. La valutazione convenzionale riferita al periodo di un anno e alla massa complessiva del veicolo, quale risulta dalla relativa carta di circolazione, e' effettuata come segue: 
+ a) veicoli e trasporti di cui all'articolo 13, comma 2, punto B), lettere a), b) se diversi dai mezzi d'opera, e), f) e g): 
+ 1) sino a 20 t, euro 510,26; 
+ 2) da oltre 20 t a 33 t, euro 850,09; 
+ 3) da oltre 33 t a 56 t, euro 1.445,05. 
+ Per la massa superiore a 56 t, gli importi aumentano di euro 25,31 per ogni t in piu'; 
+ b) veicoli e trasporti di cui all'articolo 13, comma 2, punto B), lettere b), e), f) e g), qualora il numero di assi sia superiore a otto, ovvero lettera b), limitatamente al rimorchio o alla massa gravante al suolo del semirimorchio quale risulta dalla relativa carta di circolazione, se mezzi d'opera: 
+ 1) sino a 20 t, euro 169,91; 
+ 2) da oltre 20 t a 33 t, euro 297,48; 
+ 3) da oltre 33 t a 56 t, euro 510,26; 
+ 4) da oltre 56 t a 70 t, euro 850,09. 
+ Per la massa superiore a 70 t, gli importi aumentano di euro 25,31 per ogni t in piu'; 
+ c) veicoli e trasporti di cui all'articolo 13, comma 2, punto B), lettera c): 
+ 1) euro 1,03 per viaggio, per i complessi adibiti al trasporto di carri ferroviari a due assi aventi massa massima di 40 t e euro 6,71 per viaggio, per i complessi adibiti al trasporto di carri ferroviari a quattro assi, aventi massa massima di 80 t. I richiedenti devono, all'atto della domanda, versare a titolo di acconto per ogni trimestre, le somme di euro 92,96 o di euro 604,25, rispettivamente per i carri ferroviari a due o a quattro assi. Tali somme sono conguagliate, entro il primo mese successivo al trimestre, sulla base della documentazione dei viaggi effettuati nel trimestre stesso. Tale documentazione e' convalidata dal gestore del trasporto ferroviario."; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                al comma 6 sono aggiunti, in fine, i seguenti periodi: 
+ "Nel caso di complessi mezzi d'opera, per il cui veicolo trainante sia stato versato l'indennizzo d'usura di cui all'articolo 34, comma 1, del codice, la durata dell'autorizzazione e' commisurata a quella della tassa di possesso. Per i veicoli e i trasporti di cui all'articolo 10, comma 2, lettera b), del codice, nelle condizioni di cui all'articolo 10, comma 2-bis, del codice, l'indennizzo per la maggiore usura e' corrisposto in misura forfettaria come indicato nello stesso comma, e la durata dell'autorizzazione non puo' essere superiore al periodo di frazionamento della tassa di possesso; nelle diverse condizioni di cui al comma 4, per i medesimi veicoli e trasporti, l'indennizzo e' corrisposto in maniera convenzionale, e gli importi sono determinati ai sensi del comma 5.".
 
 ## Art. 11. — Modifiche all'articolo 21 del decreto del Presidente della Repubblica 16 dicembre 1992, n. 495
 
@@ -132,9 +402,50 @@ Detta scorta puo' essere realizzata con autoveicoli di cui dispone l'impresa agr
 
 ## Art. 15. — Modifiche all'allegato del Titolo I del decreto del Presidente della Repubblica 16 dicembre 1992, n 495)
 
+1.
+                    
+                        
+                            All'allegato al Titolo I del decreto del Presidente della Repubblica 16 dicembre 1992, n. 495, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                nella Tabella I.3, nella parte relativa agli assi tandem e quadrupli, tutte le misure: "1,30" sono sostituite dalla seguente: "1,80", e tutte le misure: "1,00" sono sostituite dalla seguente:
+"1,40".
+
 ## Art. 16. — Modifiche all'allegato del Titolo II del decreto del Presidente della Repubblica 16 dicembre 1992, n. 495
 
+1.
+                    
+                        
+                            All'allegato al Titolo II del decreto del Presidente della Repubblica 16 dicembre 1992, n. 495, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                nella didascalia delle figure II 87, II 181, II 330, II 332, II 333, II 335 e II 336 le parole: "pneumatici da neve" sono sostituite dalle seguenti: "pneumatici invernali".
+
 ## Art. 17. — Modifiche all'articolo 206 del decreto del Presidente della Repubblica 16 dicembre 1992, n. 495
+
+1.
+                    
+                        
+                            All'articolo 206 del decreto del Presidente della Repubblica 16 dicembre 1992, n. 495, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 1, sono aggiunte, in fine, le seguenti parole: "e per lo svolgimento delle attivita' di manutenzione e di tutela del territorio"; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                dopo il comma 1, e' inserito il seguente: "1-bis. Le macchine agricole attrezzate per lo svolgimento delle attivita' di manutenzione e di tutela del territorio rispettano le prescrizioni dell'articolo 104, comma 7, del codice.".
 
 ## Art. 18. — Disposizioni finanziarie ed entrata in vigore
 

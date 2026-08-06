@@ -8,8 +8,8 @@ codice_redazionale: 011G0127
 vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:29Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -37,11 +37,68 @@ Salvo che il fatto costituisca reato, chiunque fabbrica o commercializza aliment
 
 Salvo che il fatto costituisca reato, chiunque commercializza o presenta un prodotto, diverso dagli alimenti per lattanti, come prodotto idoneo a soddisfare da solo il fabbisogno nutritivo dei lattanti in buona salute nei primi sei mesi di vita, fino all'introduzione di una adeguata alimentazione complementare, e' soggetto al pagamento di una sanzione amministrativa pecuniaria da diecimila euro a sessantamila euro.
 
+3.
+                    
+                        
+                            Salvo che il fatto costituisca reato, e' soggetto al pagamento di una sanzione amministrativa pecuniaria da ventimila euro a centomila euro chiunque fabbrica o commercializza: 
+ 
+                        
+                        
+                            a)
+                            
+                                alimenti per lattanti con fonti proteiche diverse da quelle definite nell'allegato I, punto 2, del regolamento, o con altri ingredienti alimentari la cui idoneita' alla particolare alimentazione dei lattanti fin dalla nascita non e' confermata da pareri scientifici di organismi riconosciuti a livello nazionale ed internazionale; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                alimenti per lattanti o alimenti di proseguimento utilizzando materiale derivato da organismi geneticamente modificati, salvo quanto previsto dall'articolo 12, comma 2, del regolamento (CE) n. 1829/2003.
+
 Salvo che il fatto costituisca reato, chiunque fabbrica o commercializza alimenti di proseguimento con fonti proteiche diverse da quelle indicate nell'allegato II, punto 2, del regolamento, o con altri ingredienti alimentari la cui idoneita' alla particolare alimentazione dei lattanti dopo il compimento del sesto mese non e' confermata da pareri scientifici di organismi riconosciuti a livello nazionale ed internazionale e' soggetto al pagamento di una sanzione amministrativa pecuniaria da dodicimila euro a settantaduemila euro.
 
 Salvo che il fatto costituisca reato, la stessa sanzione prevista dal comma 3 si applica a chiunque fabbrica o commercializza alimenti per lattanti in difformita' ai criteri di composizione di cui all'allegato V dello stesso regolamento. Chiunque fabbrica o commercializza alimenti per lattanti in difformita' rispetto ai criteri di composizione di cui ai commi 2 e 3 dell'articolo 6 del regolamento, e' soggetto al pagamento di una sanzione pecuniaria da quindicimila euro a novantamila euro.
 
 Salvo che il fatto costituisca reato, la stessa sanzione prevista dal comma 4 si applica a chiunque fabbrica o commercializza alimenti di proseguimento in difformita' ai criteri di composizione fissati nell'allegato II del regolamento e senza tenere conto delle norme di cui all'allegato V dello stesso regolamento.
+
+7.
+                    
+                        
+                            Salvo che il fatto costituisca reato, la medesima sanzione di cui al comma 3 si applica a chiunque fabbrica o commercializza alimenti per lattanti o alimenti di proseguimento: 
+ 
+                        
+                        
+                            a)
+                            
+                                utilizzando sostanze diverse da quelle elencate nell'allegato III del regolamento; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                utilizzando additivi diversi da quelli indicati nella parte 1 e nella parte 2 dell'allegato XIII del decreto del Ministro della sanita' 27 febbraio 1996, n. 209, e successive modificazioni; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                contenenti residui di singoli prodotti fitosanitari in quantita' superiore a quella fissata nell'articolo 8, comma 1, del regolamento; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                contenenti, nei prodotti proposti come pronti al consumo o ricostruiti in base alle istruzioni del produttore, residui di prodotti fitosanitari superiori ai limiti indicati nell'allegato IX del regolamento; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                utilizzando prodotti agricoli contenenti residui di prodotti fitosanitari superiori ai limiti indicati nell'allegato VIII del regolamento, ferma restando l'applicazione di quanto previsto dall'articolo 8, commi 4 e 6, del regolamento.
 
 Salvo che il fatto costituisca reato, la medesima sanzione di cui al comma 3 si applica a chiunque esporta verso Paesi terzi i prodotti di cui all'articolo 2, comma 2, lettere c) e d), in difformita' da quanto previsto all'articolo 18, comma 1, del regolamento medesimo.
 
@@ -74,6 +131,63 @@ Salvo che il fatto costituisca reato, chiunque nella pubblicita' degli alimenti 
 di modalita' di commercializzazione, di distribuzione 
 di campioni e forniture di alimenti per lattanti
 
+1.
+                    
+                        
+                            Salvo che il fatto costituisca reato, e' soggetto al pagamento di una sanzione amministrativa pecuniaria da dodicimila euro a settantaduemila euro, l'operatore del settore alimentare che commercializza: 
+ 
+                        
+                        
+                            a)
+                            
+                                un alimento per lattanti senza aver trasmesso, al Ministero della salute, un campione dell'etichetta utilizzata per il prodotto, con le modalita' previste dall'articolo 7 del decreto legislativo 27 gennaio 1992, n. 111; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                un alimento per lattanti recante un'etichetta con dati o indicazioni diversi da quelli riportati sull'etichetta trasmessa ai sensi della lettera a); 
+
+                            
+                        
+                        
+                            c)
+                            
+                                un alimento per lattanti prima che siano trascorsi trenta giorni dalla data di ricezione dell'etichetta da parte del Ministero della salute.
+
+2.
+                    
+                        
+                            Salvo che il fatto costituisca reato, la stessa sanzione di cui al comma 1 si applica: 
+ 
+                        
+                        
+                            a)
+                            
+                                a chiunque distribuisce campioni o fa ricorso a qualunque altro sistema volto a promuovere le vendite di alimenti per lattanti direttamente presso il consumatore nella fase del commercio al dettaglio, quali esposizioni speciali, buoni sconto, premi, vendite speciali, vendite promozionali, vendite abbinate, vendite a distanza, a domicilio o per corrispondenza; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                ai produttori e ai distributori di alimenti per lattanti che offrono, in qualsiasi forma, campioni gratuiti o a basso prezzo e altri omaggi di alimenti per lattanti al pubblico, alle donne incinte, alle madri e ai membri delle famiglie, direttamente o indirettamente attraverso il sistema sanitario nazionale, ovvero attraverso gli informatori sanitari; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                a chiunque fornisce gratuitamente attrezzature, materiale informativo o materiale didattico a istituzioni o ad altre organizzazioni diverse da quelle di cui all'articolo 12, comma 3, del regolamento, ovvero non rispetta nella fornitura le condizioni previste nel medesimo articolo; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                a chiunque utilizza o distribuisce le forniture di alimenti per lattanti donate o vendute a basso prezzo a istituzioni o organizzazioni per essere utilizzate nelle istituzioni stesse o per essere distribuite all'esterno delle strutture in difformita' da quanto previsto nell'articolo 12, comma 5, del regolamento.
+
 Salvo che il fatto costituisca reato, al responsabile dell'ente organizzatore dei convegni e delle manifestazioni di cui all'articolo 13, comma 1, del regolamento, che omette di segnalare i congressi e le manifestazioni almeno novanta giorni prima del loro svolgimento al Ministero della salute si applica la sanzione amministrativa pecuniaria da quindicimila euro a novantamila euro.
 
 Salvo che il fatto costituisca reato, la medesima sanzione di cui al comma 3 si applica alle imprese interessate agli alimenti per la prima infanzia che ricorrono a qualsiasi sistema diretto e indiretto di contribuzione e sponsorizzazione nella organizzazione o partecipazione a congressi e manifestazioni scientifiche in cui si trattano argomenti concernenti l'alimentazione della prima infanzia.
@@ -105,6 +219,27 @@ Con decreto del Ministro della salute, da adottarsi, d'intesa con la Conferenza 
 ## Art. 9. — Istituzione Fondo
 
 E' istituito nello stato di previsione del Ministero della salute un Fondo per le iniziative di ricerca e di informazione a favore della promozione dell'allattamento al seno, ai sensi dell'articolo 14 del regolamento, da finanziarsi con le maggiori entrate derivanti dalla nuova disciplina sanzionatoria prevista dal presente decreto, che a tale fine sono versate ad apposito capitolo dell'entrata del bilancio dello Stato per la successiva riassegnazione al Fondo medesimo, secondo le modalita' di cui al comma 2.
+
+2.
+                    
+                        
+                            Le entrate derivanti dall'applicazione delle sanzioni previste dal presente decreto vengono introitate dalle Aziende sanitarie locali, Autorita' competenti ai sensi del decreto legislativo 6 novembre 2007, n. 193, a livello territoriale; dette entrate vengono cosi' ripartite: 
+ 
+                        
+                        
+                            a)
+                            
+                                il 65 per cento al Ministero della salute per iniziative di ricerca e di informazione a favore della promozione dell'allattamento al seno, ai sensi dell'articolo 14 del regolamento, e versati su apposito capitolo di entrata del bilancio statale, di cui al comma 1; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                il restante 35 per cento viene cosi' ripartito secondo le seguenti modalita': 
+ l ) il 25 per cento alle Aziende sanitarie locali; 
+ 2) il 5 per cento ai laboratori del controllo ufficiale; 
+ 3) il 5 per cento alle regioni e alle province autonome di Trento e di Bolzano.
 
 Il Ministro dell'economia e delle finanze provvede, con propri decreti, alle occorrenti variazioni di bilancio.
 

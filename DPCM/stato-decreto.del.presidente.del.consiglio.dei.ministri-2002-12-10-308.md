@@ -8,8 +8,8 @@ codice_redazionale: 003G0027
 vigente: true
 source: normattiva-opendata
 collection: DPCM
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:40:12Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DEL CONSIGLIO DEI MINISTRI
@@ -39,6 +39,38 @@ Sulla proposta dei Ministri del lavoro e delle politiche sociali e della salute;
 
 E' istituito presso l'Istituto superiore per la prevenzione e la sicurezza del lavoro (ISPESL) il registro nazionale dei casi di mesotelioma asbesto-correlati. L'ISPESL e' autorizzato alla raccolta ed al trattamento dei dati ai sensi dell'articolo 22 della legge 31 dicembre 1996, n. 675, cosi' come modificato dall'articolo 5 del decreto legislativo 11 maggio 1999, n. 135.
 
+2.
+                    
+                        
+                            Nel registro e' raccolta l'informazione relativa ai casi di mesotelioma della pleura, del peritoneo, del pericardio e della tunica vaginale del testicolo, diagnosticati in Italia, con lo scopo di:
+ 
+                        
+                        
+                            a)
+                            
+                                stimare l'incidenza dei casi di mesotelioma in Italia;
+
+                            
+                        
+                        
+                            b)
+                            
+                                raccogliere informazioni sulla pregressa esposizione ad amianto dei casi registrati;
+
+                            
+                        
+                        
+                            c)
+                            
+                                contribuire alla valutazione degli effetti, dell'avvenuto uso industriale, dell'amianto ed al riconoscimento delle fonti di contaminazione;
+
+                            
+                        
+                        
+                            d)
+                            
+                                promuovere progetti di ricerca per la valutazione dell'associazione tra casi di mesotelioma ed esposizione ad amianto.
+
 ## Art. 2. — Centri operativi regionali
 
 Presso ogni regione, gli assessorati alla sanita' individuano i Centri operativi regionali, di seguito denominati COR, e nominano il funzionario responsabile della rilevazione dei casi di mesotelioma e dell'accertamento della pregressa esposizione ad amianto, nonche', su proposta di questo, il soggetto vicario nei casi di vacanza, assenza o impedimento del primo.
@@ -50,6 +82,52 @@ Entro centottanta giorni dalla data di emanazione del presente decreto, le regio
 La rilevazione di cui al comma 1 comprende i casi di cui al precedente articolo 1, diagnosticati a partire dal 1 gennaio 2000.
 
 ## Art. 3. — Compiti dei Centri operativi regionali
+
+1.
+                    
+                        
+                            I COR provvedono:
+ 
+                        
+                        
+                            a)
+                            
+                                alla raccolta ed archiviazione delle informazioni su tutti i casi di mesotelioma della pleura, del peritoneo e della tunica vaginale del testicolo, sulla base delle informazioni di cui al comma 4;
+
+                            
+                        
+                        
+                            b)
+                            
+                                alla definizione dei casi dal punto di vista diagnostico;
+
+                            
+                        
+                        
+                            c)
+                            
+                                alle verifiche di qualita' delle diagnosi pervenute;
+
+                            
+                        
+                        
+                            d)
+                            
+                                alla ricerca ed integrazione dell'informazione sulla pregressa esposizione all'amianto dei casi identificati;
+
+                            
+                        
+                        
+                            e)
+                            
+                                al controllo periodico del flusso informativo dei casi di mesotelioma, anche al fine di valutarne la completezza;
+
+                            
+                        
+                        
+                            f)
+                            
+                                all'invio all'ISPESL, mediante la scheda di notifica di cui all'allegato 1, delle informazioni relative alla diagnosi ed alle valutazioni dell'esposizione con salvaguardia delle previsioni normative di cui alla legge n. 675 del 1996 e del decreto legislativo n. 135 del 1999.
 
 I COR provvedono all'assolvimento dei compiti di cui al precedente comma 1, in conformita' a standards definiti e periodicamente aggiornati dall'ISPESL, anche con la collaborazione dei COR, attraverso la elaborazione delle apposite linee guida.
 

@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
 vigenza_date: 2003-03-26
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:41Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -32,6 +32,45 @@ Udito il parere del Consiglio di Stato espresso dalla Sezione per gli atti norma
 
 ## Art. 1. — O r g a n i
 
+1.
+                    
+                        
+                            Sono organi dell'Istituto:
+ 
+                        
+                        
+                            a)
+                            
+                                il presidente;
+
+                            
+                        
+                        
+                            b)
+                            
+                                il consiglio di indirizzo e vigilanza;
+
+                            
+                        
+                        
+                            c)
+                            
+                                il consiglio di amministrazione;
+
+                            
+                        
+                        
+                            d)
+                            
+                                il collegio dei revisori dei conti;
+
+                            
+                        
+                        
+                            e)
+                            
+                                il direttore generale.
+
 Gli organi di cui al comma 1, con esclusione di quello di cui alla lettera e), durano in carica quattro anni e possono essere confermati una sola volta.
  Avvertenza:
  Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, commi 2 e 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con D.P.R. 28 dicembre 1985, n. 1092, al solo fine di facilitare la lettura delle disposizioni di legge modificate o alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
@@ -42,11 +81,161 @@ Il presidente e' nominato con la procedura di cui all'articolo 3 della legge 23 
 
 La nomina viene conferita su proposta del Ministro delle comunicazioni a soggetti, anche estranei alla pubblica amministrazione, di riconosciuta e documentata competenza ed esperienza in materia di amministrazione e organizzazione, preferibilmente nell'ambito delle attivita' istituzionali dell'ente.
 
+3.
+                    
+                        
+                            Il presidente:
+ 
+                        
+                        
+                            a)
+                            
+                                ha la rappresentanza legale dell'Istituto;
+
+                            
+                        
+                        
+                            b)
+                            
+                                convoca almeno ogni due mesi il consiglio di amministrazione, predispone l'ordine del giorno degli argomenti da sottoporre al consiglio medesimo, dandone comunicazione al presidente del Consiglio di indirizzo e vigilanza e assicurandone la relativa istruttoria;
+
+                            
+                        
+                        
+                            c)
+                            
+                                convoca il consiglio di amministrazione, quando ne facciano richiesta non meno di cinque consiglieri, entro otto giorni da tale richiesta, ponendo all'ordine del giorno gli argomenti indicati nella richiesta medesima;
+
+                            
+                        
+                        
+                            d)
+                            
+                                vigila sull'esecuzione delle deliberazioni degli organi collegiali dell'Istituto;
+
+                            
+                        
+                        
+                            e)
+                            
+                                puo', nei limiti imposti dalla legislazione vigente e nell'ambito dei criteri generali stabiliti dal consiglio di amministrazione, delegare, nel caso di assenza ed impedimento, e soltanto per tempo limitato e per oggetti definiti, la rappresentanza legale dell'Istituto ad un membro del consiglio di amministrazione, al direttore generale, ai dirigenti o ad altri funzionari. I relativi atti sono comunicati al consiglio di amministrazione nella prima seduta utile;
+
+                            
+                        
+                        
+                            f)
+                            
+                                adotta, anche su proposta del direttore generale, in caso di assoluta urgenza che non consenta una convocazione del consiglio di amministrazione in tempo utile ad evitare un pregiudizio per l'Istituto, i provvedimenti di competenza del consiglio di amministrazione, salvo l'obbligo di presentarli per la ratifica al consiglio stesso nella prima seduta utile;
+
+                            
+                        
+                        
+                            g)
+                            
+                                firma gli atti e documenti che comportano impegni per l'Istituto, ferme restando le attribuzioni conferite ai dirigenti dagli articoli 16 e 17 del decreto legislativo 3 febbraio 1993, n. 29, e successive modificazioni ed integrazioni;
+
+                            
+                        
+                        
+                            h)
+                            
+                                dispone la trasmissione al consiglio di indirizzo e vigilanza delle deliberazioni adottate dal consiglio di amministrazione;
+
+                            
+                        
+                        
+                            i)
+                            
+                                rappresenta l'Istituto nelle trattative sindacali a livello nazionale;
+
+                            
+                        
+                        
+                            l)
+                            
+                                nomina, d'intesa con il consiglio di indirizzo e vigilanza, i componenti dell'organo di controllo interno, istituito ai sensi dell'articolo 20 del decreto legislativo 3 febbraio 1993, n. 29, e successive modificazioni.
+
 L'indennita' di carica ed il gettone di presenza spettanti al Presidente sono determinati con decreto del Presidente del Consiglio dei Ministri su proposta del Ministro delle comunicazioni, di intesa con il Ministro del tesoro.
 
 ## Art. 3. — Consiglio di indirizzo e vigilanza
 
 Il Consiglio di indirizzo e vigilanza e' nominato con decreto del Presidente del Consiglio dei Ministri su proposta del Ministro delle comunicazioni sulla base della designazione delle confederazioni e delle organizzazioni sindacali dei lavoratori maggiormente rappresentativi sul piano nazionale.
+
+2.
+                    
+                        
+                            Il Consiglio di indirizzo e vigilanza e' composto da quattordici membri di cui:
+ 
+                        
+                        
+                            a)
+                            
+                                sette membri designati dalle organizzazioni sindacali dei lavoratori postelegrafonici maggiormente rappresentative sul piano nazionale;
+
+                            
+                        
+                        
+                            b)
+                            
+                                il presidente dell'Istituto;
+
+                            
+                        
+                        
+                            c)
+                            
+                                sei membri designati rispettivamente:
+ 1) due dal Ministro delle comunicazioni;
+ 2) uno dal Ministro del lavoro e della previdenza sociale;
+ 3) uno dal Ministro del tesoro;
+ 4) uno dal Ministro per la funzione pubblica;
+ 5) uno dall'ente Poste Italiane.
+
+3.
+                    
+                        
+                            Il consiglio di indirizzo e vigilanza:
+ 
+                        
+                        
+                            a)
+                            
+                                definisce i programmi e individua le linee di indirizzo dell'Istituto;
+
+                            
+                        
+                        
+                            b)
+                            
+                                elegge tra i rappresentanti dei lavoratori dipendenti il proprio presidente;
+
+                            
+                        
+                        
+                            c)
+                            
+                                nell'ambito della programmazione generale, determina gli obiettivi strategici pluriennali;
+
+                            
+                        
+                        
+                            d)
+                            
+                                definisce, in sede di autoregolamentazione, la propria organizzazione interna, nonche' le modalita' e le strutture con cui esercitare le proprie funzioni, compresa quella di vigilanza, per la quale puo' avvalersi anche dell'organo di controllo interno, istituito ai sensi dell'articolo 20 del decreto legislativo 3 febbraio 1993, n. 29, e successive modificazioni, per acquisire i dati e gli elementi relativi alla realizzazione degli obiettivi e alla corretta ed economica gestione delle risorse;
+
+                            
+                        
+                        
+                            e)
+                            
+                                emana le direttive di carattere generale relative all'attivita' dell'Istituto;
+
+                            
+                        
+                        
+                            f)
+                            
+                                approva in via definitiva il bilancio preventivo e il conto consuntivo, nonche' i piani pluriennali e i criteri generali dei piani di investimento e disinvestimento, entro sessanta giorni della deliberazione del consiglio di amministrazione; in caso di non concordanza tra i due organi, il Ministro delle comunicazioni provvede all'approvazione definitiva.
 
 ((
 
@@ -58,7 +247,99 @@ L'indennita' di carica ed il gettone di presenza spettanti ai componenti del Con
 
 Il consiglio di amministrazione e' nominato con decreto del Presidente del Consiglio dei Ministri su proposta del Ministro delle comunicazioni.
 
+2.
+                    
+                        
+                            Fanno parte del consiglio di amministrazione, oltre al presidente dell'Istituto che lo presiede:
+ 
+                        
+                        
+                            a)
+                            
+                                due membri designati dal Ministro delle comunicazioni;
+
+                            
+                        
+                        
+                            b)
+                            
+                                un membro designato dal Ministro del lavoro e della previdenza sociale;
+
+                            
+                        
+                        
+                            c)
+                            
+                                un membro designato dal Ministro del tesoro;
+
+                            
+                        
+                        
+                            d)
+                            
+                                due membri designati dall'ente Poste Italiane.
+
 Il presidente nomina il segretario del consiglio di amministrazione scegliendolo tra i funzionari dell'istituto.
+
+4.
+                    
+                        
+                            Il consiglio di amministrazione, nell'osservanza degli indirizzi generali fissati dal consiglio di indirizzo e vigilanza:
+ 
+                        
+                        
+                            a)
+                            
+                                predispone i piani pluriennali, il bilancio preventivo e le relative variazioni, il conto consuntivo;
+
+                            
+                        
+                        
+                            b)
+                            
+                                delibera i piani di impiego dei fondi disponibili nell'ambito dei predetti piani pluriennali e dei criteri di investimento e disinvestimento approvati dal consiglio di indirizzo e vigilanza;
+
+                            
+                        
+                        
+                            c)
+                            
+                                attribuisce al direttore generale le risorse annuali di spesa;
+
+                            
+                        
+                        
+                            d)
+                            
+                                delibera l'ordinamento dei servizi ed il regolamento organico del personale nonche' le variazioni delle dotazioni organiche;
+
+                            
+                        
+                        
+                            e)
+                            
+                                delibera il piano annuale o pluriennale di assunzioni del personale;
+
+                            
+                        
+                        
+                            f)
+                            
+                                propone la nomina del direttore generale;
+
+                            
+                        
+                        
+                            g)
+                            
+                                su proposta del direttore generale predispone l'ordinamento dei servizi e la relativa disciplina amministrativa ai sensi del decreto legislativo 3 febbraio 1993, n. 29, che deve tener conto delle peculiarita' delle attivita' svolte e della disciplina delle diverse finalita' istituzionali che l'Istituto persegue, nonche' dei principi di cui alla legge 7 agosto 1990, n. 241;
+
+                            
+                        
+                        
+                            h)
+                            
+                                attribuisce ad un dirigente, eventualmente conferendogli le funzioni vicarie, il compito di sostituire il Direttore generale in caso di assenza o impedimento dello stesso.
 
 Il funzionamento del consiglio di amministrazione e' disciplinato con l'apposito regolamento per le adunanze deliberato dal consiglio stesso. Per la validita' delle sedute del consiglio e' richiesta la presenza della maggioranza dei suoi componenti. Le deliberazioni sono assunte con il voto favorevole della maggioranza dei presenti. In caso di parita' di voti prevale il voto del presidente.
 
@@ -107,4 +388,57 @@ Il direttore generale fornisce al consiglio di indirizzo e vigilanza la document
 Decide in merito ai reclami proposti in materia di prestazioni entro trenta giorni dalla presentazione, sentito il dirigente competente.
 
 ## Art. 7. — Disposizioni finali
+
+1.
+                    
+                        
+                            Sono abrogate le disposizioni incompatibili con quelle del presente regolamento ed in particolare le seguenti disposizioni di cui al decreto ministeriale 12 giugno 1995, n. 329:
+ 
+                        
+                        
+                            a)
+                            
+                                articolo 3;
+
+                            
+                        
+                        
+                            b)
+                            
+                                articolo 4, commi 1, 2 e 3;
+
+                            
+                        
+                        
+                            c)
+                            
+                                articolo 5;
+
+                            
+                        
+                        
+                            d)
+                            
+                                articolo 6, comma 1, lettere a), b), c), d), e), f), g), i), l), e commi 2, 3, 4, 5 e 6;
+
+                            
+                        
+                        
+                            e)
+                            
+                                articolo 7;
+
+                            
+                        
+                        
+                            f)
+                            
+                                articolo 8;
+
+                            
+                        
+                        
+                            g)
+                            
+                                articolo 9.
 

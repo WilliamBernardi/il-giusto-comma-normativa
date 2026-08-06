@@ -8,8 +8,8 @@ vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
 vigenza_date: 2024-05-18
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:42Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -51,6 +51,38 @@ Considerata l'opportunita' di non accogliere l'osservazione del Consiglio di Sta
 
 ## Art. 1. — Oggetto
 
+1.
+                    
+                        
+                            Il presente regolamento, ai sensi dell'articolo 3, comma 3, del decreto legislativo 13 aprile 2017, n. 61 determina, in relazione ai percorsi di istruzione professionale: 
+ 
+                        
+                        
+                            a)
+                            
+                                i risultati di apprendimento dell'area di istruzione generale declinati in termini di competenze, abilita' e conoscenze, nell'ambito degli assi culturali che caratterizzano i percorsi di istruzione professionale nel biennio e nel triennio, come definiti nell'Allegato 1, parte integrante del presente regolamento; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                i profili di uscita degli undici indirizzi di studio dei percorsi di istruzione professionale e i relativi risultati di apprendimento, declinati in termini di competenze, abilita' e conoscenze, come definiti nell'Allegato 2, parte integrante del presente regolamento. Per ciascun profilo di indirizzo, nell'Allegato 2, sono contenuti il riferimento alle attivita' economiche referenziate ai codici ATECO, adottati dall'Istituto nazionale di statistica per le rilevazioni statistiche nazionali di carattere economico ed esplicitati sino a livello di sezione e di correlate divisioni, nonche' la correlazione ai settori economico-professionali di cui al decreto del Ministro del lavoro e delle politiche sociali, di concerto con il Ministro dell'istruzione, dell'universita' e della ricerca, del 30 giugno 2015, pubblicato nella Gazzetta Ufficiale 20 luglio 2015, n. 166; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                l'articolazione dei quadri orari degli indirizzi di cui all'Allegato B) del decreto legislativo n. 61 del 2017, come definiti nell'Allegato 3, parte integrante del presente regolamento; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                la correlazione di ciascuno degli indirizzi dei percorsi quinquennali dell'istruzione professionale con le qualifiche e i diplomi professionali conseguiti nell'ambito dei percorsi di istruzione e formazione professionale (IeFP), come definita nell'Allegato 4, parte integrante del presente regolamento, anche al fine di facilitare il sistema dei passaggi tra i sistemi formativi, di cui all'articolo 8 del decreto legislativo n. 61 del 2017.
+
 Il passaggio al nuovo ordinamento e' supportato, ai sensi dell'articolo 11, comma 3, del decreto legislativo n. 61 del 2017, dalle indicazioni e dagli orientamenti a sostegno dell'autonomia delle istituzioni scolastiche che offrono percorsi di istruzione professionale, di cui agli articoli 4, 5, 6 e 7.
 
 ## Art. 2. — Definizioni
@@ -79,9 +111,108 @@ Ai fini e agli effetti delle disposizioni di cui al presente regolamento, si int
 
 I percorsi di istruzione professionale fanno parte dell'istruzione secondaria superiore, ai sensi dell'articolo 13 del decreto-legge 31 gennaio 2007, n. 7, convertito, con modificazioni, dalla legge 2 aprile 2007, n. 40, e costituiscono un'articolazione del secondo ciclo del sistema di istruzione e formazione, ai sensi dell'articolo 1 del decreto legislativo 17 ottobre 2005, n. 226. I percorsi sono strutturati, ai sensi dell'articolo 4 del decreto legislativo, in un biennio e in un successivo triennio e hanno un'identita' culturale, metodologica e organizzativa, riconoscibile dagli studenti e dalle loro famiglie, che si riassume nel profilo educativo, culturale e professionale, di seguito denominato P.E.Cu.P, del diplomato dell'istruzione professionale, di cui all'Allegato A al decreto legislativo.
 
+2.
+                    
+                        
+                            Ai sensi dell'articolo 3, comma 1, del decreto legislativo, i profili di uscita dei percorsi di cui al comma 1 riguardano i seguenti indirizzi: 
+ 
+                        
+                        
+                            a)
+                            
+                                agricoltura, sviluppo rurale, valorizzazione dei prodotti del territorio e gestione delle risorse forestali e montane; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                pesca commerciale e produzioni ittiche; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                industria e artigianato per il Made in Italy; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                manutenzione e assistenza tecnica; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                gestione delle acque e risanamento ambientale; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                servizi commerciali; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                enogastronomia e ospitalita' alberghiera; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                servizi culturali e dello spettacolo; 
+
+                            
+                        
+                        
+                            i)
+                            
+                                servizi per la sanita' e l'assistenza sociale; 
+
+                            
+                        
+                        
+                            l)
+                            
+                                arti ausiliarie delle professioni sanitarie: odontotecnico; 
+
+                            
+                        
+                        
+                            m)
+                            
+                                arti ausiliarie delle professioni sanitarie: ottico.
+
 I profili di uscita, di cui al comma 2, associati agli specifici risultati di apprendimento, declinati in termini di competenze, abilita' e conoscenze, integrano il P.E.Cu.P, di cui al comma 1, connotano il raccordo dei percorsi dell'istruzione professionale con il mondo del lavoro e delle professioni.
 
 Ai fini della spendibilita' in ambito sanitario del diploma conseguito in esito al percorso di studi dell'indirizzo di cui al comma 2, lettera i), si applicano le disposizioni della legge 1° febbraio 2006, n. 43.
+
+5.
+                    
+                        
+                            Gli indirizzi di studio sono strutturati: 
+ 
+                        
+                        
+                            a)
+                            
+                                in attivita' ed insegnamenti di istruzione generale, comuni a tutti gli indirizzi, riferiti all'asse culturale dei linguaggi, dall'asse matematico e dall'asse storico sociale, di cui all'Allegato 1; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                in attivita' ed insegnamenti di indirizzo riferiti all'asse scientifico, tecnologico e professionale, di cui all'Allegato 2.
 
 L'articolazione dei quadri orari di cui all'Allegato 3 e' caratterizzata dall'aggregazione, nel biennio, delle attivita' e degli insegnamenti all'interno degli assi culturali relativi all'obbligo di istruzione e dall'aggregazione, nel triennio, delle attivita' e degli insegnamenti di istruzione generale, secondo quanto previsto all'articolo 5, comma 1, lettera b), del decreto legislativo. I quadri orari sono articolati in una parte comune, che concerne tutti gli indirizzi e comprende le attivita' e gli insegnamenti di istruzione generale, e in una parte specifica per ciascun indirizzo. Le istituzioni scolastiche di I.P. costruiscono i percorsi formativi sulla base dei quadri orari, nel rispetto dei limiti di cui all'articolo 5 del presente regolamento. La declinazione degli indirizzi prevista dal comma 5, tiene conto, gia' nella fase di progettazione, della dotazione organica e delle classi di concorso per le quali e' abilitato il personale in servizio presso l'istituzione scolastica. Fatto salvo quanto previsto al periodo precedente, non possono essere proposte declinazioni che creano esuberi o richiedono risorse ulteriori rispetto all'organico assegnato.
 
@@ -113,6 +244,24 @@ I percorsi di secondo livello, di cui all'articolo 4, comma 3 del decreto del Pr
 
 Le istituzioni scolastiche di I.P. sono scuole territoriali dell'innovazione, aperte al territorio e concepite come laboratori di ricerca, sperimentazione e innovazione didattica. Esse definiscono i Piani triennali dell'offerta formativa secondo i principi e le finalita' indicati all'articolo 1 del decreto legislativo, tenuto conto delle richieste degli studenti e delle famiglie per realizzare attivita' finalizzate al raggiungimento degli obiettivi formativi considerati prioritari a norma dell'articolo 1, comma 7, della legge n. 107 del 2015.
 
+2.
+                    
+                        
+                            Per la progettazione e gestione dei Piani triennali dell'offerta formativa, le istituzioni scolastiche di I.P., ai sensi dell'articolo 6, comma 1, lettere a) e b) del decreto legislativo, possono utilizzare: 
+ 
+                        
+                        
+                            a)
+                            
+                                la quota di autonomia del 20 per cento dell'orario complessivo del biennio, nonche' dell'orario complessivo del triennio, per il perseguimento degli obiettivi di apprendimento relativi al profilo di uscita di ciascun indirizzo di studio e per potenziare gli insegnamenti obbligatori per le studentesse e gli studenti, con particolare riferimento alle attivita' di laboratorio sulla base dei criteri generali e delle indicazioni contenuti nel P.E.Cu.P., nell'ambito dell'organico dell'autonomia di cui all'articolo 1, comma 5 della legge n. 107 del 2015; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                gli spazi di flessibilita', in coerenza con gli indirizzi attivati e con i profili di uscita di cui all'articolo 3, entro il 40 per cento dell'orario complessivo previsto per il terzo, quarto e quinto anno, nell'ambito dell'organico dell'autonomia di cui all'articolo 1, comma 5, della legge n. 107 del 2015.
+
 Le istituzioni scolastiche di I.P., nell'utilizzo delle quote di autonomia di cui al comma 2, lettera a), fermo restando il loro computo rispetto all'orario complessivo, garantiscono il perseguimento degli obiettivi comuni di apprendimento contenuti nel P.E.Cu.P. A tal fine, per gli insegnamenti e le attivita' dell'area generale, le istituzioni scolastiche di I.P. possono diminuire le ore, per il biennio e per ciascuna classe del triennio, non oltre il 20 per cento rispetto al monte ore previsto per ciascuno di essi all'Allegato 3. Per gli insegnamenti e le attivita' dell'area di indirizzo, le istituzioni scolastiche di I.P. garantiscono l'inserimento, nel percorso formativo, del monte ore minimo previsto per ciascuno di essi all'Allegato 3.
 
 Le istituzioni scolastiche di I.P., nell'esercizio della propria autonomia, possono prevedere, nei Piani triennali dell'offerta formativa, la declinazione dei profili degli indirizzi di studio di cui all'articolo 3 nei percorsi formativi richiesti dal territorio, in modo coerente con le priorita' indicate dalle regioni nella propria programmazione a norma dell'articolo 3, comma 5, del decreto legislativo. A tal fine, le Istituzioni scolastiche di I.P. possono utilizzare gli spazi di flessibilita' del 40 per cento dell'orario complessivo previsto per il terzo, quarto e quinto anno, nei limiti delle dotazioni organiche assegnate senza determinare esuberi di personale a norma dell'articolo 9 del decreto legislativo e garantendo comunque l'inserimento nel percorso formativo del monte ore minimo previsto per ciascun insegnamento e attivita' di cui all'Allegato 3.
@@ -125,6 +274,24 @@ I Piani triennali dell'offerta formativa comprendono attivita' e progetti di ori
 
 Nei piani triennali dell'Offerta formativa e' resa trasparente e leggibile la declinazione degli indirizzi di studio, a norma dell'articolo 3, comma 5, del decreto legislativo, nei percorsi richiesti dal territorio con l'indicazione delle attivita' economiche di riferimento.
 
+9.
+                    
+                        
+                            Le istituzioni scolastiche di I.P., nell'esercizio della propria autonomia, nel limite delle risorse disponibili a legislazione vigente e nel rispetto dei vincoli di bilancio, ferma restando la possibilita' di ricevere finanziamenti da soggetti pubblici e privati a norma dell'articolo 6 del decreto legislativo, possono: 
+ 
+                        
+                        
+                            a)
+                            
+                                stipulare contratti di prestazioni d'opera con esperti del mondo del lavoro e delle professioni, in possesso di una specifica e documentata esperienza professionale maturata nell'ambito delle attivita' economiche di riferimento dell'indirizzo di studio e in possesso di competenze specialistiche non presenti nell'istituto; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                dotarsi di dipartimenti quali articolazioni funzionali del collegio dei docenti, per il sostegno alla didattica e alla progettazione formativa e di un comitato tecnico-scientifico, composto da docenti e da esperti del mondo del lavoro e delle professioni e della ricerca scientifica e tecnologica, con funzioni consultive e di proposta per l'organizzazione delle attivita' e degli insegnamenti di indirizzo e l'utilizzazione degli spazi di autonomia e flessibilita', fermo restando che, ai componenti del comitato non spettano compensi, indennita', gettoni di presenza o altre utilita' comunque denominate.
+
 Le istituzioni scolastiche di I.P. possono prevedere, nei Piani triennali dell'offerta formativa, l'attivazione, in via sussidiaria, di percorsi di IeFP per il rilascio di qualifiche triennali e diplomi professionali quadriennali di cui all'articolo 17 del decreto legislativo 17 ottobre 2005, n. 226, previo accreditamento regionale secondo modalita' definite con gli accordi previsti dall'articolo 7, comma 2, del decreto legislativo. Tali percorsi sono realizzati nel rispetto degli standard formativi definiti da ciascuna regione e secondo i criteri e le modalita' definiti ai sensi dell'articolo 4, comma 4, del decreto legislativo.
 
 Fermo restando quanto previsto dall'articolo 3, comma 6, ultimo periodo, le istituzioni scolastiche di I.P., nel rispetto delle competenze degli organi collegiali, progettano e realizzano i Piani triennali dell'offerta formativa utilizzando le dotazioni organiche determinate dall'Ufficio scolastico regionale competente sulla base dei criteri indicati all'articolo 9 del decreto legislativo, ivi comprese quelle relative alle quote di compresenza, all'esercizio delle funzioni relative agli uffici tecnici, all'utilizzo delle quote di autonomia e degli spazi di flessibilita' previsti all'articolo 6 del decreto legislativo nonche' quelle dell'organico per il potenziamento di cui all'articolo 1, comma 95 della legge n. 107 del 2015 e dell'allegata Tabella 1. Gli Uffici scolastici regionali garantiscono l'ordinato sviluppo dei percorsi formativi assicurando le risorse necessarie, ove disponibili.
@@ -134,6 +301,24 @@ Nei limiti della consistenza complessiva dell'organico dell'autonomia del person
 ## Art. 6. — Indicazioni per l'attivazione dei percorsi
 
 I percorsi di istruzione professionale, come ridefiniti dal decreto legislativo, in relazione ai profili di uscita e ai risultati di apprendimento di cui all'articolo 3, assumono, a partire dalle classi prime funzionanti nell'anno scolastico 2018/2019, un modello didattico improntato al principio della personalizzazione educativa volta a consentire ad ogni studentessa e ad ogni studente di rafforzare e innalzare le proprie competenze per l'apprendimento permanente, a partire da quelle chiave di cittadinanza, nonche' di orientare il proprio progetto di vita e di lavoro, anche per migliori prospettive di occupabilita'.
+
+2.
+                    
+                        
+                            Ai fini della personalizzazione del percorso di apprendimento a norma dell'articolo 5, comma 1, lettera a), del decreto legislativo, ciascun consiglio di classe redige, entro il 31 gennaio del primo anno di frequenza, il P.F.I e lo aggiorna durante l'intero percorso scolastico, a partire dal bilancio personale. Il P.F.I. costituisce lo strumento per: 
+ 
+                        
+                        
+                            a)
+                            
+                                evidenziare i saperi e le competenze acquisite da ciascuna studentessa e da ciascuno studente, anche in modo non formale e informale; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                rilevare le potenzialita' e le carenze riscontrate, al fine di motivare ed orientare ciascuna studentessa e ciascuno studente nella progressiva costruzione del proprio progetto formativo e professionale utilizzando una quota del monte ore indicato all'articolo 4, comma 2, del decreto legislativo.
 
 Il dirigente scolastico, sentito il consiglio di classe, individua, all'interno di quest'ultimo, i docenti che assumono la funzione di tutor per sostenere le studentesse e gli studenti nell'attuazione e nello sviluppo del P.F.I. L'attivita' di tutorato consiste nell'accompagnamento di ciascuna studentessa e di ciascuno studente nel processo di apprendimento personalizzato finalizzato alla progressiva maturazione delle competenze. Il docente tutor favorisce, altresi', la circolazione continua delle informazioni sullo stato di attuazione del P.F.I. all'interno del consiglio di classe, al fine di consentire il progressivo monitoraggio e l'eventuale adattamento del percorso formativo. L'attivita' di tutorato e' svolta dai docenti designati nell'ambito delle risorse disponibili presso l'istituzione scolastica a legislazione vigente, fatto salvo lo svolgimento delle attivita' di cui all'articolo 1, comma 5, della legge n. 107 del 2015.
 

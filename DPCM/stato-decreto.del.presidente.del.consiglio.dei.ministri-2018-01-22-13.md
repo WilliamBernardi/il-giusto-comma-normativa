@@ -7,8 +7,8 @@ urn: urn:nir:stato:decreto.del.presidente.del.consiglio.dei.ministri:2018-01-22;
 vigente: true
 source: normattiva-opendata
 collection: DPCM
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:40:13Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DEL CONSIGLIO DEI MINISTRI
@@ -44,7 +44,99 @@ Il presente decreto si applica agli esercizi alberghieri esistenti che rispettan
 
 ## Art. 3. — Definizioni
 
+1.
+                    
+                        
+                            Ai fini del presente decreto si intende per: 
+ 
+                        
+                        
+                            a)
+                            
+                                condhotel: un esercizio alberghiero aperto al pubblico, a gestione unitaria, composto da una o piu' unita' immobiliari ubicate nello stesso comune o da parti di esse, che forniscono alloggio, servizi accessori ed eventualmente vitto, in camere destinate alla ricettivita' e, in forma integrata e complementare, in unita' abitative a destinazione residenziale, dotate di servizio autonomo di cucina, la cui superficie complessiva non puo' superare i limiti di cui all'articolo 4, comma 1, lettera b); 
+
+                            
+                        
+                        
+                            b)
+                            
+                                gestione unitaria: attivita' concernente la fornitura di alloggio, servizi accessori ed eventualmente vitto, riferibile ad un condhotel, sia per le camere destinate alla ricettivita' che, in forma integrata e complementare, per le unita' abitative a destinazione residenziale, dotate di servizio autonomo di cucina; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                fornitura di servizi alberghieri in forma integrata e complementare: attivita' concernente la fornitura anche alle unita' abitative di tipo residenziale dei servizi alberghieri e aggiuntivi normalmente assicurati dal gestore unico della struttura ricettiva alle camere destinate alla ricettivita'; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                gestore unico: il soggetto responsabile della gestione unitaria dell'esercizio alberghiero, avviato ai sensi delle leggi vigenti in materia di avviamento dell'esercizio alberghiero; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                riqualificazione: interventi di restauro e di risanamento conservativo, di cui all'articolo 3, comma 1, lettera c) del decreto del Presidente della Repubblica 6 giugno 2001, n. 380, nonche' interventi di ristrutturazione edilizia, di cui all'articolo 3, comma 1, lettera d) del decreto del Presidente della Repubblica 6 giugno 2001, n. 380, la cui realizzazione comporta per l'esercizio alberghiero l'acquisizione di requisiti per una classificazione superiore a quella precedentemente attribuita di almeno una stella, da cui risulti una classificazione minima di tre stelle all'esito dell'intervento di riqualificazione, ad eccezione degli esercizi contrassegnati da una classificazione di quattro stelle o superiore gia' prima dell'intervento di cui alla presente lettera, anche nel rispetto delle eventuali prescrizioni disposte da leggi regionali; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                unita' abitative ad uso residenziale: unita' abitative, per le quali sia intervenuto specifico mutamento di destinazione d'uso, dotate di servizio autonomo di cucina, inserite nel contesto del condhotel, destinate alla vendita e soggette al limite di superficie complessiva di cui all'articolo 4, comma 1, lettera b), del presente decreto.
+
 ## Art. 4. — Condizioni di esercizio dei condhotel
+
+1.
+                    
+                        
+                            I condhotel rispondono alle seguenti condizioni di esercizio che devono svolgersi con modalita' compatibili con la gestione unitaria della struttura in cui gli stessi sono ubicati: 
+ 
+                        
+                        
+                            a)
+                            
+                                presenza di almeno sette camere, al netto delle unita' abitative ad uso residenziale, all'esito dell'intervento di riqualificazione di cui all'articolo 3, comma 1, lettera e), del presente decreto, ubicati in una o piu' unita' immobiliari inserite in un contesto unitario, collocate nel medesimo comune, e aventi una distanza non superiore a 200 metri lineari dall'edificio alberghiero sede del ricevimento, fermo restando il requisito di cui alla lettera c) del presente comma; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                rispetto della percentuale massima della superficie netta delle unita' abitative ad uso residenziale pari al quaranta per cento del totale della superficie netta destinata alle camere; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                presenza di portineria unica per tutti coloro che usufruiscono del condhotel, sia in qualita' di ospiti dell'esercizio alberghiero che di proprietari delle unita' abitative a uso residenziale, con la possibilita' di prevedere un ingresso specifico e separato ad uso esclusivo di dipendenti e fornitori; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                gestione unitaria e integrata dei servizi del condhotel e delle camere, delle suites e delle unita' abitative arredate destinate alla ricettivita' e delle unita' abitative ad uso residenziale, di cui all'articolo 5, per la durata specificata nel contratto di trasferimento delle unita' abitative ad uso residenziale e comunque non inferiore a dieci anni dall'avvio dell'esercizio del condhotel; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                esecuzione di un intervento di riqualificazione, all'esito del quale venga riconosciuta all'esercizio alberghiero una classificazione minima di tre stelle; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                rispetto della normativa vigente in materia di agibilita' per le unita' abitative ad uso residenziale, ai sensi dell'articolo 24 del decreto del Presidente della Repubblica 6 giugno 2001, n. 380.
 
 ## Art. 5.
 
@@ -60,6 +152,38 @@ Acquisto di unita' abitative ad uso residenziale
  ubicate in un condhotel
 
 I contratti di trasferimento della proprieta' delle unita' abitative ad uso residenziale ubicate in un condhotel indicano le condizioni di cui all'articolo 4 poste a disciplina dell'esercizio del diritto oggetto del contratto di compravendita.
+
+2.
+                    
+                        
+                            In particolare devono essere ricompresi i seguenti contenuti: 
+ 
+                        
+                        
+                            a)
+                            
+                                per quanto riguarda i beni oggetto di compravendita, una descrizione accurata e dettagliata dell'immobile e dell'ubicazione all'interno dell'esercizio del condhotel, nonche' la descrizione appropriata dell'intera struttura; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                per quanto riguarda i servizi, le condizioni di godimento e le modalita' concernenti l'uso di eventuali strutture comuni; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                per quanto riguarda i costi imputabili ai proprietari di unita' abitative ad uso residenziale ubicate in un condhotel, una descrizione accurata e appropriata di tutti i costi connessi alla proprieta' dell'unita' residenziale, delle modalita' attraverso cui tali costi sono ripartiti, con indicazione delle spese obbligatorie, quali quelle relative ad imposte e tasse, e delle spese amministrative e gestionali generali, quali quelle relative alla gestione, manutenzione e riparazione delle parti comuni del condhotel; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                la previsione che l'unita' abitativa a uso residenziale, ove non utilizzata dal proprietario, con il suo consenso, possa essere adibita da parte del gestore unico a impiego alberghiero.
 
 I contratti di trasferimento della proprieta' delle unita' abitative ad uso residenziale poste all'interno dei condhotel regolano altresi' le modalita' di utilizzo delle singole unita' abitative, qualora venga meno per qualunque causa l'attivita' del gestore unico.
 

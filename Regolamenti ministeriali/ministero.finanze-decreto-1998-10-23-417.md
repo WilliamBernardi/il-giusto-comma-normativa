@@ -8,8 +8,8 @@ codice_redazionale: 098G0466
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:42Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -30,4 +30,43 @@ Ritenuta la necessita', in considerazione delle nuove disposizioni legislative m
 Udito il parere del Consiglio di Stato, reso dalla sezione consultiva per gli atti normativi, nell'adunanza del 2 luglio 1998;
 
 ## Art. 1.
+
+1.
+                    
+                        
+                            Al decreto del Ministro delle finanze, di concerto con il Ministro del lavoro e della previdenza sociale10 marzo 1964, sono apportate le seguenti modificazioni:
+ 
+                        
+                        
+                            a)
+                            
+                                nell'articolo 4, primo comma, le parole: "dal capo del compartimento doganale d'ispezione", sono sostituite dalle seguenti: "da un componente eletto tra i membri stessi";
+
+                            
+                        
+                        
+                            b)
+                            
+                                nell'articolo 8 il primo periodo del quarto comma e' sostituito dal seguente: "Le operazioni di voto si effettuano presso le sedi dei singoli consigli compartimentali e con le modalita' fissate dal Consiglio nazionale degli spedizionieri doganali.";
+
+                            
+                        
+                        
+                            c)
+                            
+                                gli articoli 9, 10, 11, 12 e 13 sono soppressi;
+
+                            
+                        
+                        
+                            d)
+                            
+                                nell'articolo 15, primo comma, le parole: "coi precedenti articoli", sono sostituite dalle seguenti: "dal Consiglio nazionale degli spedizionieri doganali";
+
+                            
+                        
+                        
+                            e)
+                            
+                                nell'articolo 16, terzo comma, le parole: "presso ciascuna direzione circoscrizionale", sono sostituite dalle seguenti: "presso la sede di ciascun consiglio compartimentale".
 

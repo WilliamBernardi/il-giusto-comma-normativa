@@ -7,8 +7,8 @@ urn: urn:nir:stato:decreto.del.presidente.del.consiglio.dei.ministri:2022-06-22;
 vigente: true
 source: normattiva-opendata
 collection: DPCM
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:40:12Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DEL CONSIGLIO DEI MINISTRI
@@ -26,6 +26,24 @@ Sulla proposta del Ministro della giustizia, di concerto con il Ministro per la 
 
 ## Art. 1. — Modifiche al decreto del Presidente 
  del Consiglio dei ministri 15 giugno 2015, n. 84
+
+1.
+                    
+                        
+                            Al decreto del Presidente del Consiglio dei ministri 15 giugno 2015, n. 84, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                la tabella C e' sostituita da quella di cui all'allegato I, che costituisce parte integrante del presente decreto; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                la tabella F e' sostituita da quella di cui all'allegato II, che costituisce parte integrante del presente decreto.
 
 ## Art. 2. — Disposizioni finali
 

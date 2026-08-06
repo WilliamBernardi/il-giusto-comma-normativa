@@ -7,8 +7,8 @@ urn: urn:nir:stato:decreto.legislativo:2025-12-30;211
 vigente: true
 source: normattiva-opendata
 collection: Leggi delega e relativi provvedimenti delegati
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:41:19Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -27,6 +27,60 @@ Sulla proposta del Ministro per gli affari europei, il PNRR e le politiche di co
 Il presente decreto attua la direttiva (UE) 2024/1226 del Parlamento europeo e del Consiglio, del 24 aprile 2024, relativa alla definizione dei reati e delle sanzioni per la violazione delle misure restrittive dell'Unione e che modifica la direttiva (UE) 2018/1673, di seguito denominata «direttiva».
 
 ## Art. 2. — Definizioni
+
+1.
+                    
+                        
+                            Ai fini del presente decreto si applicano le definizioni seguenti: 
+ 
+                        
+                        
+                            a)
+                            
+                                «misure restrittive dell'Unione europea»: misure restrittive adottate dall'Unione europea sulla base dell'articolo 29 del Trattato sull'Unione europea e dell'articolo 215 del Trattato sul funzionamento dell'Unione europea; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                «persona, entita' od organismo designati»: una persona fisica o giuridica, un'entita' o un organismo o gruppo assoggettati a misure restrittive dell'Unione europea; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                «fondi»: attivita' e benefici finanziari di ogni tipo, compresi, tra gli altri: 
+ 1) contanti, assegni, cambiali, vaglia postali e altri strumenti di pagamento; 
+ 2) depositi presso enti finanziari o altre entita', saldi sui conti, debiti e titoli obbligazionari; 
+ 3) titoli negoziati a livello pubblico e privato e prestiti obbligazionari, comprese le azioni, i certificati azionari, le obbligazioni, i paghero', i warrant, le obbligazioni ipotecarie e i contratti finanziari derivati; 
+ 4) interessi, dividendi o altri proventi di attivita' o plusvalenze maturate o generate dalle attivita'; 
+ 5) crediti, diritti di compensazione, garanzie, fideiussioni o altri impegni finanziari; 
+ 6) lettere di credito, polizze di carico e atti di cessione; 
+ 7) documenti da cui risulti un interesse riguardante capitali o risorse finanziarie; 
+ 8) cripto-attivita', definite all'articolo 3, paragrafo 1, punto 5, del regolamento (UE) 2023/1114 del Parlamento europeo e del Consiglio, del 31 maggio 2023; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                «risorse economiche»: attivita' materiali o immateriali di ogni tipo, mobili o immobili, che non sono fondi ma che potrebbero essere utilizzate per ottenere fondi, beni o servizi; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                «congelamento di fondi»: il divieto di spostare, trasferire, alterare, utilizzare o gestire i fondi o di avere accesso ad essi in modo da modificarne il volume, l'importo, la collocazione, la proprieta', il possesso, la natura e la destinazione o da introdurre un cambiamento tale da consentire l'uso dei fondi in questione, compresa la gestione di portafoglio; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                «congelamento di risorse economiche»: il divieto di utilizzare risorse economiche per ottenere fondi, beni o servizi, anche attraverso la vendita, la locazione o le ipoteche.
 
 ## Art. 3. — Modifiche al Libro II del codice penale
 
@@ -68,11 +122,71 @@ Al Libro II del codice penale, al Titolo I, dopo il Capo I e' inserito il seguen
 
 ## Art. 4. — Modifiche al codice di procedura penale
 
+1.
+                    
+                        
+                            Al codice di procedura penale sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                all'articolo 51, comma 3-quinquies, dopo le parole «di cui agli articoli» sono inserite le seguenti: «275-bis, 275-ter, 275-quater, 275-quinquies,» e le parole «per il delitto di cui all'articolo 1, comma 11, del decreto-legge 21 settembre 2019, n. 105, convertito, con modificazioni, dalla legge 18 novembre 2019, n. 133,», sono sostituite dalle seguenti: «per i delitti di cui all'articolo 1, comma 11, del decreto-legge 21 settembre 2019, n. 105, convertito, con modificazioni, dalla legge 18 novembre 2019, n. 133, e di cui all'articolo 12, comma 1, aggravato ai sensi del comma 1-bis, del decreto legislativo 25 luglio 1998, n. 286,»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                all'articolo 407, comma 2, lettera a), dopo il numero 7-ter) e' inserito il seguente: 
+ «7-quater) delitti previsti dal capo I-bis del titolo I del libro II del codice penale e dall'articolo 12, comma 1, aggravato ai sensi del comma 1-bis, del decreto legislativo 25 luglio 1998, n. 286;»; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                all'articolo 371-bis, comma 4-bis, dopo il secondo periodo, e' aggiunto, in fine, il seguente: «Le disposizioni di cui al presente comma si applicano altresi' in relazione ai procedimenti per i reati di cui agli articoli 275-bis, 275-ter, 275-quater e 275-quinquies del codice penale e di cui all'articolo 12, comma 1, aggravato ai sensi del comma 1-bis, del decreto legislativo 25 luglio 1998, n. 286.».
+
 ## Art. 5. — Modifica al testo unico delle disposizioni concernenti la disciplina dell'immigrazione e norme sulla condizione dello straniero, di cui al decreto legislativo 25 luglio 1998, n. 286
 
 All'articolo 12 del decreto legislativo 25 luglio 1998, n. 286, dopo il comma 1 e' inserito il seguente: «1-bis Se i fatti di cui al comma 1 sono commessi in violazione di un divieto, di un obbligo o di una restrizione imposti da una misura restrittiva dell'Unione europea, ovvero da disposizioni di legge nazionale che attuano una misura restrittiva dell'Unione europea, consentendo o comunque agevolando l'ingresso nel territorio dello Stato di persone fisiche designate, la pena e' aumentata.».
 
 ## Art. 6. — Modifiche al decreto legislativo 8 giugno 2001, n. 231
+
+1.
+                    
+                        
+                            Al decreto legislativo 8 giugno 2001, n. 231 sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                all'articolo 10: 
+ 1) al comma 3, le parole: «L'importo» sono sostituite dalle seguenti: «Salvo quanto previsto dal comma 3-bis, l'importo»; 
+ 2) dopo il comma 3, e' inserito il seguente: 
+ «3-bis. Nei casi previsti dalla legge, la sanzione pecuniaria e' determinata in relazione alla specifica percentuale, indicata per ciascun illecito, del fatturato globale totale dell'ente relativo all'esercizio finanziario precedente quello in cui e' stato commesso il reato o, se inferiore, all'esercizio finanziario precedente l'applicazione della sanzione pecuniaria. Quando non e' possibile accertate il fatturato globale totale dell'ente, la sanzione pecuniaria e' applicata nell'importo determinato in relazione a ciascun illecito.»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                all'articolo 13, comma 2, le parole «dall'articolo 25, comma 5» sono sostituite dalle seguenti: «dagli articoli 25, comma 5 e 25-octies.2, comma 3»; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                dopo l'articolo 25-octies.1 e' inserito il seguente: 
+ «Art. 25-octies.2 (Reati in materia di violazione di misure restrittive dell'Unione europea). - 1. In relazione alla commissione dei delitti previsti dal codice penale contro la politica estera e la sicurezza comune dell'Unione europea, si applicano: 
+ a) per la violazione degli articoli 275-bis, primo, secondo, e quinto comma, e 275-quater, primo comma, del codice penale, nonche' dell'articolo 12, comma 1-bis, del decreto legislativo 25 luglio 1998, n. 286, la sanzione pecuniaria della percentuale dall'1 per cento al 5 per cento del fatturato globale dell'ente nell'esercizio finanziario precedente quello in cui e' stato commesso il reato o, se inferiore, nell'esercizio finanziario precedente l'applicazione della sanzione pecuniaria; 
+ b) per la violazione dell'articolo 275-ter, primo e secondo comma, del codice penale, la sanzione pecuniaria della percentuale dallo 0,5 per cento all'1 per cento del fatturato globale dell'ente nell'esercizio finanziario precedente quello in cui e' stato commesso il reato o, se inferiore, nell'esercizio finanziario precedente l'applicazione della sanzione pecuniaria. 
+ 2. Quando non e' possibile stabilire il fatturato globale annuo dell'ente, si applica all'ente, rispettivamente, la sanzione pecuniaria da euro 3 milioni a euro 40 milioni in relazione ai reati di cui di cui agli articoli 275-bis, primo, secondo, e quinto comma, e 275-quater, primo comma del codice penale, e al reato di cui all'articolo 12, comma 1, aggravato ai sensi del comma 1-bis, del decreto legislativo 25 luglio 1998, n. 286 e la sanzione pecuniaria da euro 1 milione sino a euro 8 milioni in relazione ai reati di cui all'articolo 275-ter, primo e secondo comma, del codice penale. 
+ 3. Nei casi di condanna per uno dei reati di cui al comma 1, lettere a) e b), si applicano all'ente le sanzioni interdittive previste dall'articolo 9, comma 2 per una durata non inferiore a due anni e non superiore a sei anni, se il reato e' stato commesso da uno dei soggetti di cui all'articolo 5, comma 1, lettera a), e per una durata non inferiore a un anno e non superiore a tre anni se il reato e' stato commesso da uno dei soggetti di cui all'articolo 5, comma 1, lettera b). 
+ 4. In caso di reiterazione degli illeciti di cui al comma 1, lettere a) e b), le sanzioni pecuniarie ivi previste sono aumentate di un terzo.».
 
 ## Art. 7. — Modifica al decreto legislativo 10 marzo 2023, n. 24
 
@@ -107,11 +221,72 @@ Fuori dei casi di cui al comma 1, quando acquisisce la notizia dei reati di cui 
 
 ## Art. 11. — Raccolta e trasmissione dei dati statistici
 
+1.
+                    
+                        
+                            Il Ministero della giustizia invia ogni anno alla Commissione europea i seguenti dati statistici relativi ai delitti di cui agli articoli 275-bis, 275-ter, 275-quater e 275-quinquies del codice penale e all'articolo 12, comma 1, aggravato ai sensi del comma 1-bis, del decreto legislativo 25 luglio 1998, n. 286: 
+ 
+                        
+                        
+                            a)
+                            
+                                numero di reati iscritti per i quali e' intervenuta sentenza di condanna o decreto penale di condanna non piu' soggetti ad impugnazione; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                numero dei procedimenti definiti con provvedimento di archiviazione; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                numero delle persone fisiche: 
+ i) nei cui confronti e' stata esercitata azione penale; 
+ ii) nei cui confronti sono stati pronunciati sentenza di condanna o decreto penale di condanna non piu' soggetti ad impugnazione; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                numero degli enti: 
+ i) nei cui confronti e' stata elevata contestazione ai sensi del decreto legislativo 8 giugno 2001, n. 231; 
+ ii) nei cui confronti e' stata applicata taluna delle sanzioni previste dal decreto legislativo 8 giugno 2001, n. 231; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                la tipologia e l'ammontare delle pene e delle sanzioni irrogate.
+
 Il Ministero della giustizia, pubblica con cadenza triennale i dati di cui al comma 1 in apposita sezione del proprio sito istituzionale e provvede all'aggiornamento periodico dei dati pubblicati.
 
 ## Art. 12. — Norme di coordinamento e abrogazioni
 
 Dalla data di entrata in vigore del presente decreto legislativo le disposizioni di cui all'articolo 20, commi 1, 2 e 3, del decreto legislativo 15 dicembre 2017, n. 221, sono abrogate.
+
+2.
+                    
+                        
+                            Al decreto legislativo 15 dicembre 2017, n. 221, sono altresi' apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                all'articolo 20, comma 3-bis, le parole «le operazioni di cui al comma 1» sono sostituite dalle seguenti «operazioni di esportazione o importazione di prodotti listati per effetto di misure restrittive unionali o presta servizi di qualsiasi natura soggetti a misure restrittive unionali, o partecipa a qualsiasi titolo a procedure per l'affidamento di contratti di appalto pubblico o di concessione soggetti a misure restrittive unionali o esegue, in tutto o in parte, uno o piu' dei medesimi contratti,»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                all'articolo 21-bis, al comma 1, le parole «o 20, commi 1 e 2,» sono soppresse.
 
 ## Art. 13. — Clausola di invarianza finanziaria
 

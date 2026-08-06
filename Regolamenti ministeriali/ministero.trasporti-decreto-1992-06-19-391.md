@@ -8,8 +8,8 @@ codice_redazionale: 092G0431
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:38Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -52,6 +52,45 @@ I pannelli di cui all'art. 2, comma 1, devono essere approvati secondo le modali
 I pannelli devono essere muniti di almeno 4 fori, uno per angolo, per la loro apposizione sulle attrezzature e/o sul veicolo.
 
 ## Art. 5.
+
+1.
+                    
+                        
+                            I pannelli di cui all'art. 2, comma 1, del presente decreto, devono essere installati nel rispetto delle seguenti prescrizioni generali:
+ 
+                        
+                        
+                            a)
+                            
+                                i pannelli possono essere amovibili, purche' la loro installazione risulti stabile e sicura;
+
+                            
+                        
+                        
+                            b)
+                            
+                                i pannelli per le segnalazioni anteriore e/o posteriore degli ingombri a sbalzo devono essere applicati su un piano verticale perpendicolare all'asse della trattrice agricola; i pannelli, per quanto piu' possibile, devono essere posti in corrispondenza del limite esterno degli ingombri a sbalzo;
+
+                            
+                        
+                        
+                            c)
+                            
+                                i pannelli per le segnalazioni laterali degli ingombri a sbalzo devono essere applicati parallelamente al piano longitudinale mediano del complesso;
+
+                            
+                        
+                        
+                            d)
+                            
+                                l'altezza massima dal suolo del bordo superiore dei pannelli non deve risultare superiore a 2,20 m;
+
+                            
+                        
+                        
+                            e)
+                            
+                                i pannelli non possono sporgere dalla sagoma del complesso trattrice-attrezzatura, ne' costituire sporgenza pericolosa rispetto alla parte sulla quale sono applicati.
 
 Gli ingombri laterali a sbalzo dovuti alle attrezzature che superino la sagoma della trattrice, devono essere segnalati con i pannelli rettangolari di cui alle figure 2A, 2B, 3A, 3B sia nella parte anteriore che posteriore dell'ingombro stesso.
 

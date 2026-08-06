@@ -7,8 +7,8 @@ urn: urn:nir:stato:decreto.legislativo:2014-03-04;43
 vigente: true
 source: normattiva-opendata
 collection: Leggi delega e relativi provvedimenti delegati
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:41:18Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -147,6 +147,31 @@ All'articolo 6 del decreto legislativo 25 gennaio 2010, n. 7, dopo il comma 1 so
 
 ## Art. 7. — Attuazione dell'articolo 1, paragrafo 9 
  della direttiva 2011/76/UE
+
+1.
+                    
+                        
+                            L'allegato III del decreto legislativo 25 gennaio 2010, n. 7, e' cosi' modificato: 
+ 
+                        
+                        
+                            a)
+                            
+                                il primo capoverso e' sostituito dal seguente: «Il presente allegato stabilisce i principi fondamentali per il calcolo dell'onere medio ponderato per l'infrastruttura in modo da rispecchiare l'articolo 3, comma 8. L'obbligo di correlare gli oneri per l'infrastruttura ai costi non pregiudica la liberta' di scegliere, a norma del medesimo articolo 3, comma 8, di non recuperare la totalita' dei costi attraverso la riscossione degli oneri per l'infrastruttura o la liberta', a norma dell'articolo 3, commi 11 e 12, di differenziare gli importi di oneri per l'infrastruttura specifici dall'onere medio.»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al secondo capoverso la parola: «comunitaria» e' sostituita dalle seguenti: «dell'Unione»; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                al punto 1, secondo trattino, le parole: «dell'articolo 4, comma 1» sono sostituite dalle seguenti: «dell'articolo 3, comma 8».
 
 ## Art. 8. — Attuazione dell'articolo 1, paragrafo 10, 
  della direttiva 2011/76/UE

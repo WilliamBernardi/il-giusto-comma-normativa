@@ -9,7 +9,7 @@ vigente: true
 source: normattiva-opendata
 collection: Atti di recepimento direttive UE
 zip_date: 2026-07-30
-fetched_at: 2026-08-02T09:40:49Z
+fetched_at: 2026-07-30
 ---
 
 DECRETO
@@ -107,6 +107,31 @@ Il Ministro delle poste e delle telecomunicazioni comunica alla commissione dell
 
 ## Art. 10. — Art. 7, paragrafo 4, della direttiva
 
+1.
+                    
+                        
+                            In sede di acquisto di apparecchiature terminali contemplate da specifiche comuni di conformita', i gestori dei servizi pubblici di telecomunicazioni adottano capitolati tecnici conformi a dette specifiche, ad eccezione dei seguenti casi:
+ 
+                        
+                        
+                            a)
+                            
+                                quando l'apparecchiatura e' destinata a sostituire apparecchiature collegate alla rete prima dell'adozione della specifica comune di conformita' e quando tali apparecchiature rispondono alla stessa specifica tecnica dell'apparecchiatura che sostituiscono; oppure quando, durante un periodo di transizione tra i due sistemi, riconosciuto come necessario e definito nell'ambito di una NET, si manifesti l'esigenza di aggiungere un numero limitato di apparecchiature rispondenti alla specifica del primo sistema. In entrambi i casi, l'Ispettorato generale delle telecomunicazioni, cui deve essere data preventiva notizia del ricorso alla deroga e del numero di apparecchiature interessate da parte dei gestori dei servizi pubblici di telecomunicazioni, trasmette le medesime informazioni alla commissione delle Comunita' europee ed al comitato di cui all'art. 5, comma 1;
+
+                            
+                        
+                        
+                            b)
+                            
+                                qualora una consultazione accurata del mercato - la quale comprenda una ricerca effettuata anche tramite pubblicazione nella "Gazzetta Ufficiale" delle Comunita' europee - dimostri che non esiste un'offerta a condizioni economiche accettabili per una apparecchiatura terminale conforme alle specifiche comuni di conformita'. In tal caso, sulla base di una assoluta necessita' e per un periodo limitato di tempo, i gestori dei servizi pubblici di telecomunicazioni possono applicare soltanto una parte delle caratteristiche fissate nelle specifiche comuni di conformita';
+
+                            
+                        
+                        
+                            c)
+                            
+                                L'ispettorato generale delle telecomunicazioni, cui deve essere data preventiva notizia del ricorso alla deroga e del periodo di efficacia della deroga stessa, trasmette le medesime informazioni alla commissione delle Comunita' europee, precisando le divergenze tra il capitolato tecnico adottato e la specifica comune di conformita'.
+
 Qualora la commissione delle Comunita' europee non abbia richiesto alla CEPT una revisione della specifica comune di conformita', la deroga adottata dai gestori dei servizi pubblici di telecomunicazioni scade quando un altro Stato membro presenti al comitato di cui all'art. 5, comma 1, la prova che una apparecchiatura terminale, rispondente alla stessa specifica comune di conformita', sia stata collegata alla sua rete pubblica di telecomunicazioni in condizioni commerciali normali.
 
 Nell'ipotesi di cui al comma precedente, l'Ispettorato generale delle telecomunicazioni puo' chiedere alla commissione delle Comunita' europee una proroga della deroga, quando sussistano condizioni tecniche ed economiche nazionali sufficientemente diverse da quelle dell'altro Stato membro, tali da giustificare la proroga stessa.
@@ -114,6 +139,25 @@ Nell'ipotesi di cui al comma precedente, l'Ispettorato generale delle telecomuni
 Nel caso di deroga ad una specifica comune di conformita' adottata da altri Paesi membri, il medesimo Ispettorato comunica al comitato di cui all'art. 5, comma 1, la prova che un'apparecchiatura terminale rispondente a detta specifica e' stata collegata alla rete pubblica di telecomunicazioni nazionali in condizioni commerciali normali.
 
 ## Art. 11. — Art. 8 della direttiva
+
+1.
+                    
+                        
+                            L'Ispettorato generale delle telecomunicazioni, previo esame da parte dell'Istituto superiore delle poste e delle telecomunicazioni della specifica comune di conformita' e del risultato delle prove eseguite da laboratori accreditati in altri Stati membri, puo' soprassedere al riconoscimento di un certificato di conformita' rilasciato ai fini dell'omologazione in uno dei casi seguenti:
+ 
+                        
+                        
+                            a)
+                            
+                                qualora constati lacune nell'applicazione della specifica comune di conformita';
+
+                            
+                        
+                        
+                            b)
+                            
+                                qualora constati che la stessa specifica comune di conformita' non risponde alle esigenze essenziali cui dovrebbe rispondere.
+ In entrambi i casi, lo stesso Ispettorato, sentito il Ministero dell'industria, del commercio e dell'artigianato, informa immediatamente la commissione delle Comunita' europee e gli altri Stati membri, precisando i motivi della propria decisione.
 
 Quando la decisione riguarda la protezione degli utenti di una apparecchiatura terminale dall'elettricita', si applicano le procedure di cui all'art. 9 della direttiva n. 73/23/CEE del 19 febbraio 1973, attuata con legge 18 ottobre 1977, n. 791.
 

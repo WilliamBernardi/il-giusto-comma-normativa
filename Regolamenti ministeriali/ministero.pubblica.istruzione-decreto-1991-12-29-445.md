@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
 vigenza_date: 2001-03-11
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:38Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -81,9 +81,115 @@ L'esclusione puo' aver luogo in qualsiasi momento, quando ne siano emersi i moti
 
 Le domande per l'ammissione agli esami debbono essere indirizzate all'istituto tecnico statale della sede prescelta ed inviate al collegio dei periti industriali, in conformita' di quanto previsto nel precedente art. 3.
 
+2.
+                    
+                        
+                            Nella domanda, redatta su carta legale e corredata della documentazione indicata nel successivo art. 5, i candidati debbono indicare:
+ 
+                        
+                        
+                            a)
+                            
+                                cognome e nome;
+
+                            
+                        
+                        
+                            b)
+                            
+                                luogo e data di nascita;
+
+                            
+                        
+                        
+                            c)
+                            
+                                l'istituto tecnico presso il quale e' stato conseguito il di- ploma di perito industriale, la specializzazione e l'anno scolastico relativo;
+
+                            
+                        
+                        
+                            d)
+                            
+                                la pratica professionale svolta ovvero la scuola superiore diretta a fini speciali presso la quale e' stato conseguito il relativo diploma, con indicazione della specializzazione e della data del conseguimento;
+
+                            
+                        
+                        
+                            e)
+                            
+                                la specializzazione per la quale si intende conseguire l'abilitazione all'esercizio della libera professione;
+
+                            
+                        
+                        
+                            f)
+                            
+                                la residenza anagrafica e l'indirizzo al quale desiderano che vengano loro inviate le eventuali comunicazioni relative agli esami;
+
+                            
+                        
+                        
+                            g)
+                            
+                                la dichiarazione sotto la propria responsabilita', pena la esclusione in qualsiasi momento dagli esami, di non aver prodotto per la stessa sessione altra domanda di ammissione ad una diversa sede di esame;
+
+                            
+                        
+                        
+                            h)
+                            
+                                data e firma.
+
 La firma dei candidati apposta in calce alla domanda deve essere legalizzata a norma delle vigenti disposizioni.
 
 ## Art. 5. — Documentazione
+
+1.
+                    
+                        
+                            Alla domanda di ammissione agli esami devono essere allegati i seguenti documenti rilasciati con l'osservanza delle vigenti disposizioni sul bollo:
+ 
+                        
+                        
+                            a)
+                            
+                                diploma di perito industriale in originale o in copia autentica;
+
+                            
+                        
+                        
+                            b)
+                            
+                                certificazione rilasciata dal presidente del competente collegio dei periti industriali attestante l'iscrizione al registro dei praticanti e l'avvenuto compimento del biennio di pratica o comunque l'assolvimento delle condizioni stabilite dal terzo comma dell'art. 2 della legge 2 febbraio 1990, n. 17;
+
+                            
+                        
+                        
+                            c)
+                            
+                                un breve curriculum in carta semplice, sottoscritto dal candidato, relativo all'attivita' professionale ed agli eventuali ulteriori studi compiuti dopo il conseguimento del diploma di perito industriale;
+
+                            
+                        
+                        
+                            d)
+                            
+                                eventuali pubblicazioni di carattere professionale;
+
+                            
+                        
+                        
+                            e)
+                            
+                                ricevute da cui risulti l'avvenuto versamento della tassa di ammissione agli esami nella misura di L. 6.000 dovuta all'erario e del contributo nella misura di L. 3.000 dovuto all'istituto tecnico statale sede di esame, a norma della legge 8 dicembre 1956, n. 1378, e successive modificazioni, e del precedente art. 1;
+
+                            
+                        
+                        
+                            f)
+                            
+                                un elenco sottoscritto su carta semplice dei documenti, numerati in ordine progressivo, prodotti a corredo della domanda.
 
 ## Art. 6. — Adempimenti dei collegi dei periti industriali
 
@@ -94,6 +200,31 @@ Le domande prodotte dai candidati con allegata la relativa documentazione e gli 
 ## Art. 7. — Commissioni esaminatrici
 
 Le commissioni esaminatrici sono nominate con decreto del Ministro della pubblica istruzione e sono composte dal presidente e da quattro membri.
+
+2.
+                    
+                        
+                            Il presidente viene scelto nelle seguenti categorie:
+ 
+                        
+                        
+                            a)
+                            
+                                professori universitari di ruolo ordinario o straordinario;
+
+                            
+                        
+                        
+                            b)
+                            
+                                professori universitari associati o fuori ruolo;
+
+                            
+                        
+                        
+                            c)
+                            
+                                presidi di ruolo ordinario degli istituti tecnici industriali.
 
 Uno dei membri della commissione viene scelto tra i professori di ruolo delle scuole secondarie superiori, docenti laureati di materie tecniche, che insegnino o abbiano effettivamente insegnato tali discipline negli istituti tecnici industriali.
 

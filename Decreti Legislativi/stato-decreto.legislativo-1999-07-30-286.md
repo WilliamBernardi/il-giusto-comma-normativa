@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
 vigenza_date: 2014-08-19
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:21Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -30,6 +30,77 @@ Sulla proposta del Presidente del Consiglio dei Ministri e del Ministro per la f
 ## - Capo I Disposizioni di carattere generale
 
 ## Art. 1. — Principi generali del controllo interno
+
+1.
+                        
+                            
+                                Le pubbliche amministrazioni, nell'ambito della rispettiva autonomia, si dotano di strumenti adeguati a:
+ 
+                            
+                            
+                                a)
+                                
+                                    garantire la legittimita', regolarita' e correttezza dell'azione amministrativa (controllo di regolarita' amministrativa e contabile);
+                                
+                            
+                            
+                                b)
+                                
+                                    verificare l'efficacia, efficienza ed economicita' dell'azione
+amministrativa al fine di ottimizzare, anche mediante tempestivi interventi di correzione, il rapporto tra costi e risultati (controllo di gestione);
+
+                                
+                            
+                            
+                                c)
+                                
+                                    valutare le prestazioni del personale con qualifica dirigenziale (valutazione della dirigenza);
+
+                                
+                            
+                            
+                                d)
+                                
+                                    valutare l'adeguatezza delle scelte compiute in sede di attuazione dei piani, programmi ed altri strumenti di determinazione dell'indirizzo politico, in termini di congruenza tra risultati conseguiti e obiettivi predefiniti (valutazione e controllo strategico).
+
+2.
+                        
+                            
+                                La progettazione d'insieme dei controlli interni rispetta i seguenti principi generali, obbligatori per i Ministeri, applicabili dalle regioni nell'ambito della propria autonomia organizzativa e legislativa e derogabili da parte di altre amministrazioni pubbliche, fermo restando il principio di cui all'articolo 3 del decreto legislativo 3 febbraio 1993, n. 29, e successive modificazioni ed integrazioni, di qui in poi denominato "decreto n. 29":
+ 
+                            
+                            
+                                a)
+                                
+                                    l'attivita' di valutazione e controllo strategico supporta l'attivita' di programmazione strategica e di indirizzo politicoamministrativo di cui agli articoli 3, comma 1, lettere b) e c), e 14 del decreto n. 29. Essa e' pertanto svolta da strutture che rispondono direttamente agli organi di indirizzo politicoamministrativo. ((PERIODO ABROGATO DAL D.LGS. 27 OTTOBRE 2009, N. 150));
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il controllo di gestione e l'attivita' di valutazione dei dirigenti, fermo restando quanto previsto alla lettera a), sono svolte da strutture e soggetti che rispondono ai dirigenti posti al vertice dell'unita' organizzativa interessata;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    l'attivita' di valutazione dei dirigenti utilizza anche i risultati del controllo di gestione, ma e' svolta da strutture o soggetti diverse da quelle cui e' demandato il controllo di gestione medesimo;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    le funzioni di cui alle precedenti lettere sono esercitate in modo integrato;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    e' fatto divieto di affidare verifiche di regolarita' amministrativa e contabile a strutture addette al controllo di gestione, alla valutazione dei dirigenti, al controllo strategico.
 
 Gli enti locali e le camere di commercio, industria, artigianato e agricoltura possono adeguare le normative regolamentari alle disposizioni del presente decreto, nel rispetto dei propri ordinamenti generali e delle norme concernenti l'ordinamento finanziario e contabile.
 
@@ -61,6 +132,59 @@ Al fine anche di adeguare l'organizzazione delle strutture di controllo della Co
  La Corte Costituzionale, con sentenza 9 - 17 maggio 2001, n. 139 (in G.U. 1ª s.s. 23/05/2001, n. 20), "Dichiara che non spetta al Governo adottare l'art. 3, comma 1, del decreto legislativo 30 luglio 1999, n. 286 (Riordino e potenziamento dei meccanismi e strumenti di monitoraggio e valutazione dei costi, dei rendimenti e dei risultati dell'attivita' svolta dalle amministrazioni pubbliche, a norma dell'articolo 11 della legge 15 marzo 1997, n. 59), e per conseguenza lo annulla".
 
 ## Art. 4. — Controllo di gestione
+
+1.
+                        
+                            
+                                Ai fini del controllo di gestione, ciascuna amministrazione pubblica definisce:
+ 
+                            
+                            
+                                a)
+                                
+                                    l'unita' o le unita' responsabili della progettazione e della gestione del controllo di gestione;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le unita' organizzative a livello delle quali si intende misurare l'efficacia, efficienza ed economicita' dell'azione amministrativa;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    le procedure di determinazione degli obiettivi gestionali e dei soggetti responsabili;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    l'insieme dei prodotti e delle finalita' dell'azione amministrativa, con riferimento all'intera amministrazione o a singole unita' organizzative;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    le modalita' di rilevazione e ripartizione dei costi tra le unita' organizzative e di individuazione degli obiettivi per cui i costi sono sostenuti;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    gli indicatori specifici per misurare efficacia, efficienza ed economicita';
+
+                                
+                            
+                            
+                                g)
+                                
+                                    la frequenza di rilevazione delle informazioni.
 
 Nelle amministrazioni dello Stato, il sistema dei controlli di gestione supporta la funzione dirigenziale di cui all'articolo 16, comma 1, del decreto n. 29. Le amministrazioni medesime stabiliscono le modalita' operative per l'attuazione del controllo di gestione entro tre mesi dall'entrata in vigore del presente decreto, dandone comunicazione alla Presidenza del Consiglio dei Ministri. Il Presidente del Consiglio dei Ministri, con propria direttiva, periodicamente aggiornabile, stabilisce in maniera tendenzialmente omogenea i requisiti minimi cui deve ottemperare il sistema dei controlli di gestione.
 
@@ -100,6 +224,52 @@ Il personale che svolge incarichi dirigenziali ai sensi dell'articolo 19, commi 
 ## Art. 9. — Sistemi informativi
 
 Ai sensi dell'articolo 17, comma 1, lettera a), della legge 15 marzo 1997, n. 59, il sistema di controllo di gestione e il sistema di valutazione e controllo strategico delle amministrazioni statali si avvalgono di un sistema informativostatistico unitario, idoneo alla rilevazionedi grandezze quantitative a carattere economico- finanziario. La struttura del sistema informativostatisticobasata su una banca dati delle informazioni rilevanti ai fini del controllo, ivi comprese quelle di cui agli articoli 63 e 64 del decreto n. 29, e sulla predisposizione periodica di una serie di prospetti numerici e grafici (sintesi statistiche) di corredo alle analisi periodiche elaborate dalle singole amministrazioni. Il sistema informativostatistico e' organizzato in modo da costituire una struttura di servizio per tutte le articolazioni organizzative del Ministero.
+
+2.
+                        
+                            
+                                I sistemi automatizzati e le procedure manuali rilevanti ai fini del sistema di controllo, qualora disponibili, sono i seguenti:
+ 
+                            
+                            
+                                a)
+                                
+                                    sistemi e procedure relativi alla rendicontazione contabile della singola amministrazione;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    sistemi e procedure relativi alla gestione del personale (di tipo economico, finanziario e di attivita' - presenze, assenze, attribuzione a centro di disponibilita');
+
+                                
+                            
+                            
+                                c)
+                                
+                                    sistemi e procedure relativi al fabbisogno ed al dimensionamento del personale;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    sistemi e procedure relativi alla rilevazione delle attivita' svolte per la realizzazione degli scopi istituzionali (erogazione prodotti/servizi, sviluppo procedure amministrative) e dei relativi effetti;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    sistemi e procedure relativi alla analisi delle spese di funzionamento (personale, beni e servizi) dell'amministrazione;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    sistemi e procedure di contabilita' analitica.
 
 ## Art. 10. — Abrogazione di norme e disposizioni transitorie
 

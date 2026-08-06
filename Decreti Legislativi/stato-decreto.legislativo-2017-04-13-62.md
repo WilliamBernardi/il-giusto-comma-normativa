@@ -8,8 +8,8 @@ vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
 vigenza_date: 2025-11-06
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:31Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -143,6 +143,31 @@ Per ogni istituzione scolastica paritaria svolge le funzioni di Presidente il co
 
 L'esame di Stato e' costituito da tre prove scritte ed un colloquio, valutati con votazioni in decimi. La commissione d'esame predispone le prove d'esame ed i criteri per la correzione e la valutazione.
 
+4.
+                        
+                            
+                                Le prove scritte, finalizzate a rilevare le competenze definite nel profilo finale dello studente secondo le Indicazioni nazionali per il curricolo, sono: 
+ 
+                            
+                            
+                                a)
+                                
+                                    prova scritta di italiano o della lingua nella quale si svolge l'insegnamento, intesa ad accertare la padronanza della stessa lingua; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    prova scritta relativa alle competenze logico matematiche; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    prova scritta, relativa alle competenze acquisite, articolata in una sezione per ciascuna delle lingue straniere studiate.
+
 Il colloquio e' finalizzato a valutare le conoscenze descritte nel profilo finale dello studente secondo le Indicazioni nazionali, con particolare attenzione alla capacita' di argomentazione, di risoluzione di problemi, di pensiero critico e riflessivo, nonche' il livello di padronanza delle competenze di cittadinanza, delle competenze nelle lingue straniere. Per i percorsi ad indirizzo musicale, nell'ambito del colloquio e' previsto anche lo svolgimento di una prova pratica di strumento.
 
 Con decreto del Ministro dell'istruzione, dell'universita' e della ricerca sono definite le modalita' di articolazione e di svolgimento delle prove.
@@ -162,6 +187,52 @@ Gli esiti finali degli esami sono resi pubblici mediante affissione all'albo del
 La certificazione di cui all'articolo 1, comma 6, descrive lo sviluppo dei livelli delle competenze chiave e delle competenze di cittadinanza progressivamente acquisite dalle alunne e dagli alunni, anche sostenendo e orientando gli stessi verso la scuola del secondo ciclo.
 
 La certificazione e' rilasciata al termine della scuola primaria e del primo ciclo di istruzione.
+
+3.
+                        
+                            
+                                I modelli nazionali per la certificazione delle competenze sono emanati con decreto del Ministro dell'istruzione, dell'universita' e della ricerca sulla base dei seguenti principi: 
+ 
+                            
+                            
+                                a)
+                                
+                                    riferimento al profilo dello studente nelle Indicazioni nazionali per il curricolo della scuola dell'infanzia e del primo ciclo di istruzione; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    ancoraggio alle competenze chiave individuate dall'Unione europea, cosi' come recepite nell'ordinamento italiano; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    definizione, mediante enunciati descrittivi, dei diversi livelli di acquisizione delle competenze; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    valorizzazione delle eventuali competenze significative, sviluppate anche in situazioni di apprendimento non formale e informale; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    coerenza con il piano educativo individualizzato per le alunne e gli alunni con disabilita'; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    indicazione, in forma descrittiva, del livello raggiunto nelle prove a carattere nazionale di cui all'articolo 7, distintamente per ciascuna disciplina oggetto della rilevazione e certificazione sulle abilita' di comprensione e uso della lingua inglese.
 
 ## Art. 10.
 
@@ -236,6 +307,39 @@ Nell'ambito della funzione ispettiva sono assicurate verifiche e monitoraggi sul
 
 Sono ammessi a sostenere l'esame di Stato in qualita' di candidati interni le studentesse e gli studenti che hanno frequentato l'ultimo anno di corso dei percorsi di istruzione secondaria di secondo grado presso istituzioni scolastiche statali e paritarie.
 
+2.
+                        
+                            
+                                L'ammissione all'esame di Stato e' disposta, in sede di scrutinio finale, dal consiglio di classe, presieduto dal dirigente scolastico o da suo delegato. E' ammesso all'esame di Stato, salvo quanto previsto dall'articolo 4, comma 6, del decreto del Presidente della Repubblica del 24 giugno 1998 n. 249, la studentessa o lo studente in possesso dei seguenti requisiti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    frequenza per almeno tre quarti del monte ore annuale personalizzato, fermo restando quanto previsto dall'articolo 14, comma 7, del decreto del Presidente della Repubblica del 22 giugno 2009, n. 122; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    partecipazione, durante l'ultimo anno di corso, alle prove predisposte dall'INVALSI, volte a verificare i livelli di apprendimento conseguiti nelle discipline oggetto di rilevazione di cui all'articolo 19; (3) 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    svolgimento dell'attivita' di alternanza scuola-lavoro secondo quanto previsto dall'indirizzo di studio nel secondo biennio e nell'ultimo anno di corso. Nel caso di candidati che, a seguito di esame di idoneita', siano ammessi al penultimo o all'ultimo anno di corso, le tipologie e i criteri di riconoscimento delle attivita' di alternanza scuola-lavoro necessarie per l'ammissione all'esame di Stato sono definiti con il decreto di cui all'articolo 14, comma 3, ultimo periodo; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    votazione non inferiore ai sei decimi in ciascuna disciplina o gruppo di discipline valutate con l'attribuzione di un unico voto secondo l'ordinamento vigente e un voto di comportamento non inferiore a sei decimi. ((Nel caso di valutazione del comportamento pari a sei decimi, il consiglio di classe assegna un elaborato critico in materia di cittadinanza attiva e solidale da trattare in sede di colloquio dell'esame conclusivo del secondo ciclo)). Nel caso di votazione inferiore a sei decimi in una disciplina o in un gruppo di discipline, il consiglio di classe puo' deliberare, con adeguata motivazione, l'ammissione all'esame conclusivo del secondo ciclo.
+Nella relativa deliberazione, il voto dell'insegnante di religione cattolica, per le alunne e gli alunni che si sono avvalsi dell'insegnamento della religione cattolica, e' espresso secondo quanto previsto dal punto 2.7 del decreto del Presidente della Repubblica 16 dicembre 1985, n. 751; il voto espresso dal docente per le attivita' alternative, per le alunne e gli alunni che si sono avvalsi di detto insegnamento, se determinante, diviene un giudizio motivato iscritto a verbale. ((Nel caso di valutazione del comportamento inferiore a sei decimi, il consiglio di classe delibera la non ammissione all'esame di Stato conclusivo del percorso di studi)).
+
 Sono equiparati ai candidati interni le studentesse e gli studenti in possesso del diploma professionale quadriennale di «Tecnico» conseguito nei percorsi del Sistema di istruzione e formazione professionale, che abbiano positivamente frequentato il corso annuale previsto dall'articolo 15, comma 6, del decreto legislativo 17 ottobre 2005, n. 226, e recepito dalle Intese stipulate tra il Ministero dell'istruzione, dell'universita' e della ricerca e le regioni o province autonome.
 
 Sono ammessi, a domanda, direttamente all'esame di Stato conclusivo del secondo ciclo, le studentesse e gli studenti che hanno riportato, nello scrutinio finale della penultima classe, non meno di otto decimi in ciascuna disciplina o gruppo di discipline e non meno di otto decimi nel comportamento, che hanno seguito un regolare corso di studi di istruzione secondaria di secondo grado e che hanno riportato una votazione non inferiore a sette decimi in ciascuna disciplina o gruppo di discipline e non inferiore a otto decimi nel comportamento negli scrutini finali dei due anni antecedenti il penultimo, senza essere incorsi in non ammissioni alla classe successiva nei due anni predetti. Le votazioni suddette non si riferiscono all'insegnamento della religione cattolica e alle attivita' alternative.
@@ -246,6 +350,38 @@ Sono ammessi, a domanda, direttamente all'esame di Stato conclusivo del secondo 
  Il D.L. 30 dicembre 2019, n. 162, convertito con modificazioni dalla L. 28 febbraio 2020, n. 8, ha disposto (con l'art. 6, comma 5-bis) che "In considerazione della particolare situazione linguistica delle scuole in lingua tedesca e delle localita' ladine della Provincia autonoma di Bolzano, le disposizioni in materia di requisiti di ammissione all'esame di Stato di cui agli articoli 13, comma 2, lettera b), e 14, comma 3, sesto periodo, del decreto legislativo 13 aprile 2017, n. 62, si applicano a decorrere dal 1° settembre 2022 per le scuole in lingua tedesca, limitatamente alla prova INVALSI nella disciplina "tedesco", e per le scuole delle localita' ladine, limitatamente alle prove INVALSI nelle discipline "italiano" e "tedesco"".
 
 ## Art. 14. — Ammissione dei candidati esterni
+
+1.
+                        
+                            
+                                Sono ammessi a sostenere l'esame di Stato in qualita' di candidati esterni, alle condizioni previste dal presente articolo, coloro che: 
+ 
+                            
+                            
+                                a)
+                                
+                                    compiano il diciannovesimo anno di eta' entro l'anno solare in cui si svolge l'esame e dimostrino di aver adempiuto all'obbligo di istruzione; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    siano in possesso del diploma di scuola secondaria di primo grado da un numero di anni almeno pari a quello della durata del corso prescelto, indipendentemente dall'eta'; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    siano in possesso di titolo conseguito al termine di un corso di studio di istruzione secondaria di secondo grado di durata almeno quadriennale del previgente ordinamento o siano in possesso di diploma professionale di tecnico di cui all'articolo 15 del decreto legislativo 17 ottobre 2005, n. 226; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    abbiano cessato la frequenza dell'ultimo anno di corso prima del 15 marzo.
 
 Fermo restando quanto disposto dall'articolo 7 della legge 10 dicembre 1997, n. 425, l'ammissione dei candidati esterni che non siano in possesso di promozione all'ultima classe e' subordinata al superamento di un esame preliminare inteso ad accertare la loro preparazione sulle materie previste dal piano di studi dell'anno o degli anni per i quali non siano in possesso della promozione o dell'idoneita' alla classe successiva, nonche' su quelle previste dal piano di studi dell'ultimo anno. Sostengono altresi' l'esame preliminare, sulle materie previste dal piano di studi dell'ultimo anno, i candidati in possesso di idoneita' o di promozione all'ultimo anno che non hanno frequentato il predetto anno ovvero che non hanno comunque titolo per essere scrutinati per l'ammissione all'esame. Il superamento dell'esame preliminare, anche in caso di mancato superamento dell'esame di Stato, vale come idoneita' all'ultima classe. L'esame preliminare e' sostenuto davanti al consiglio della classe dell'istituto, statale o paritario, collegata alla commissione alla quale il candidato e' stato assegnato; il candidato e' ammesso all'esame di Stato se consegue un punteggio minimo di sei decimi in ciascuna delle prove cui e' sottoposto.
 
@@ -320,6 +456,24 @@ L'esito delle prove di cui ai commi 3 e 4 dell'articolo 17 e' pubblicato, per tu
 Il punteggio minimo complessivo per superare l'esame e' di sessanta centesimi.
 
 La commissione d'esame puo' motivatamente integrare il punteggio fino a un massimo di tre punti ove il candidato abbia ottenuto un punteggio complessivo di almeno ((novanta)) punti, tra credito scolastico e prove d'esame.
+
+6.
+                        
+                            
+                                La commissione all'unanimita' puo' motivatamente attribuire la lode a coloro che conseguono il punteggio massimo di cento punti senza fruire della predetta integrazione del punteggio, a condizione che: 
+ 
+                            
+                            
+                                a)
+                                
+                                    abbiano conseguito il credito scolastico massimo con voto unanime del consiglio di classe; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    abbiano conseguito il punteggio massimo previsto per ogni prova d'esame.
 
 L'esito dell'esame con l'indicazione del punteggio finale conseguito, inclusa la menzione della lode, e' pubblicato, contemporaneamente per tutti i candidati della classe, all'albo dell'istituto sede della commissione, con la sola indicazione «non diplomato» nel caso di mancato superamento dell'esame stesso.
 
@@ -414,7 +568,82 @@ Le disposizioni di cui ai Capi I e II del presente decreto, gli articoli 23 e 27
 
 Con effetto a partire dal 1° settembre 2017, all'articolo 13 del decreto del Presidente della Repubblica 22 giugno del 2009, n. 122 dopo le parole «del presente regolamento» sono soppresse le seguenti: «ivi comprese quelle relative alla prova scritta nazionale per l'esame di Stato del primo ciclo». Con effetto a partire dal 1° settembre 2018, l'articolo 6, comma 3, ultimo periodo, del decreto del Presidente della Repubblica 28 marzo 2013, n. 80, e' sostituito dal seguente: «Tali rilevazioni sono effettuate su base censuaria nelle classi seconda e quinta della scuola primaria, terza della scuola secondaria di primo grado, seconda e ultima della scuola secondaria di secondo grado e comunque entro il limite, a decorrere dall'anno 2013, dell'assegnazione finanziaria disposta a valere sul Fondo di cui all'articolo 7 del decreto legislativo 5 giugno 1998, n. 204.».
 
+3.
+                        
+                            
+                                Con effetto a partire dal 1° settembre 2017 sono disposte le seguenti abrogazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    
+                                        articoli 146, comma 2, 179, comma 2, e 185, commi 3 e 4, del decreto legislativo 16 aprile 1994, n. 297; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    
+                                        articolo 8, commi 1, 2 e 4, e articolo 11, commi da 1 a 6, del decreto legislativo 19 febbraio 2004, n. 59; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    
+                                        articolo 3, commi 1, 1-bis, 2, 3 e 3-bis del decreto-legge 1° settembre 2008, n. 137, convertito nella legge 30 ottobre 2008, n. 169; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    
+                                        articolo 1, comma 4, del decreto-legge 7 settembre 2007, n. 147 convertito, con modificazioni dalla legge 25 ottobre 2007, n. 176.
+
+4.
+                        
+                            
+                                Con effetto a partire dal 1° settembre 2018 sono disposte le seguenti abrogazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    articoli 1, 2, commi da 1 a 7, 3, 4, commi da 1 a 9 e 11 e 12, nonche' articoli 5 e 6 della legge 10 dicembre 1997, n. 425; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    
+                                        articolo 3, comma 1, lettera c), della legge 28 marzo 2003, n. 53.
+
 Con effetto a partire dal 1° settembre 2017 le disposizioni di cui agli articoli 7, 9, comma 1, 10, comma 1, e 13 del decreto del Presidente della Repubblica 22 giugno del 2009, n. 122, nonche' l'articolo 2, comma 2, e 3 del decreto-legge 1° settembre 2008, n. 137, convertito nella legge 30 ottobre 2008, n. 169 cessano di avere efficacia con riferimento alle istituzioni scolastiche del primo ciclo di istruzione.
+
+6.
+                        
+                            
+                                Con effetto a partire dal 1° settembre 2017 cessano di avere efficacia: 
+ 
+                            
+                            
+                                a)
+                                
+                                    gli articoli 1, 2, 3, 8, comma 1, articolo 9, commi 2, 3 e 4, articolo 14, commi 1 e 2, del decreto del Presidente della Repubblica 22 giugno del 2009, n. 122. 
+ Con effetto a partire dal 1° settembre 2018 cessano di avere efficacia: 
+ a) le disposizioni di cui al decreto del Presidente della Repubblica 23 luglio 1998, n. 323, fatto salvo l'articolo 9, comma 8; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    gli articoli 6, 8, commi da 3 a 6, articolo 9, commi 5 e 6, articolo 10, comma 2, articolo 11, articolo 14, comma 3, del decreto del Presidente della Repubblica 22 giugno del 2009, n. 122.
 
 -------------
                             AGGIORNAMENTO (1)

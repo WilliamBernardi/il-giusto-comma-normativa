@@ -7,8 +7,8 @@ urn: urn:nir:ministero.ambiente.e.tutela.territorio.e.mare:decreto:2016-12-29;26
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:41Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -41,6 +41,80 @@ Le disposizioni del presente decreto non si applicano alle attivita' di composta
 Le disposizioni del presente decreto non si applicano agli impianti di compostaggio aerobico di rifiuti biodegradabili di cui all'articolo 214, comma 7-bis, del decreto legislativo 3 aprile 2006, n. 152.
 
 ## Art. 2. — Definizioni
+
+1.
+                    
+                        
+                            Ai fini del presente decreto si applicano le definizioni di cui alla parte quarta del decreto legislativo 3 aprile 2006, n. 152, nonche' le seguenti: 
+ 
+                        
+                        
+                            a)
+                            
+                                apparecchiatura: struttura idonea all'attivita' di compostaggio di comunita' di cui all'articolo 183, comma 1, lettera qq-bis), del decreto legislativo 3 aprile 2006, n. 152, finalizzata alla produzione di compost mediante decomposizione aerobica in cui l'aerazione avviene in modo naturale (compostiera statica) o indotto (compostiera elettromeccanica). L'apparecchiatura e' classificata in funzione della capacita' di trattamento in taglie piccola (T1), media (T2) e grande (T3) secondo la tabella di cui all'allegato 5; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                compostaggio: processo aerobico di degradazione, stabilizzazione e umificazione della sostanza organica per la produzione di compost; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                compost: miscela di sostanze umificate derivanti dalla degradazione biologica aerobica di rifiuti organici non destinata alla vendita e che rispetta le caratteristiche di cui all'articolo 6; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                utenza: soggetto iscritto al ruolo della tassa rifiuti di cui all'articolo 1, comma 641, della legge 27 dicembre 2013, n. 147; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                organismo collettivo: due o piu' utenze domestiche o non domestiche costituite in condominio, associazione, consorzio o societa', ovvero in altre forme associative di diritto privato che intendono intraprendere un'attivita' di compostaggio; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                utenze conferenti: utenze domestiche e non domestiche, associate ad un unico organismo collettivo, e ammesse al conferimento dei propri rifiuti organici prodotti nell'apparecchiatura e all'utilizzo del compost prodotto; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                conduttore: soggetto incaricato della conduzione dell'apparecchiatura; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                responsabile: legale rappresentante dell'organismo collettivo; 
+
+                            
+                        
+                        
+                            i)
+                            
+                                strutturante: materiale ligneo-cellulosico di granulometria adeguata alle caratteristiche dell'apparecchiatura, impiegato con la funzione di ottimizzare il processo di compostaggio; 
+
+                            
+                        
+                        
+                            l)
+                            
+                                piano di utilizzo: documento, approvato dall'organismo collettivo, recante le modalita' di utilizzo del compost ottenuto dall'attivita' di compostaggio di comunita'.
 
 ## Art. 3. — Procedura semplificata
 
@@ -90,6 +164,38 @@ Il conduttore e' individuato dall'organismo collettivo. In caso di dimissioni o 
 
 La nomina del conduttore e l'accettazione dell'incarico risultano da atto scritto comunicato al soggetto di cui all'articolo 3 e con le modalita' ivi specificate.
 
+3.
+                    
+                        
+                            Il conduttore di apparecchiature di taglia media (T2) e grande (T3), prima dell'inizio dello svolgimento dei propri compiti, partecipa ad un corso di formazione della durata di almeno 8 ore, i cui contenuti minimi sono i seguenti: 
+ 
+                        
+                        
+                            a)
+                            
+                                definizioni e tipologie dei rifiuti organici; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                tecniche e tecnologie del compostaggio; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                uso e funzionamento delle compostiere di tipo statico ed elettromeccanico; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                uso in agricoltura e florovivaistica del compost.
+
 Il corso puo' essere erogato dall'impresa che fornisce l'apparecchiatura ovvero da enti o istituti competenti nel settore.
 Al termine del corso e' rilasciato apposito attestato.
 
@@ -98,6 +204,38 @@ Il conduttore assicura il corretto funzionamento dell'apparecchiatura secondo le
 Il conduttore, per le apparecchiature di taglia media (T2) e grande (T3), conserva in un apposito registro, anche elettronico, i dati relativi ai quantitativi dei rifiuti conferiti nell'apparecchiatura, del compost e degli scarti prodotti e del compost che non rispetta le caratteristiche di cui all'articolo 6, comma 1, per le finalita' di cui all'articolo 8, comma 1.
 
 ## Art. 8. — Contributo agli obiettivi di gestione del rifiuto
+
+1.
+                    
+                        
+                            Ai fini della riduzione della tassa rifiuti di cui all'articolo 180, comma 1-septies, del decreto legislativo 3 aprile 2006, n. 152, e dell'eventuale computo del compostaggio di comunita' nella percentuale di raccolta differenziata da parte dei comuni, il responsabile dell'apparecchiatura comunica entro il 31 gennaio di ogni anno, ai sensi dell'articolo 47 del decreto del Presidente della Repubblica 28 dicembre 2000, n. 445, al comune territorialmente competente, nelle modalita' definite dal medesimo, le quantita' in peso, relative all'anno solare precedente: 
+ 
+                        
+                        
+                            a)
+                            
+                                dei rifiuti conferiti; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                del compost prodotto; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                degli scarti; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                del compost che non rispetta le caratteristiche di cui all'articolo 6.
 
 Per le apparecchiature di taglia piccola (T1) e per le attivita' di compostaggio di comunita' con quantita' complessiva di rifiuti annui conferiti inferiori a una tonnellata, la dichiarazione di cui al comma 1 e' effettuata sulla base di una stima ottenuta moltiplicando il numero dei componenti delle utenze conferenti per la quota media di rifiuto organico presente nel rifiuto urbano.
 

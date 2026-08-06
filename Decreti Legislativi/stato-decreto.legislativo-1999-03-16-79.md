@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
 vigenza_date: 2026-02-04
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:32Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -146,6 +146,31 @@ Le informazioni necessarie per una concorrenza effettiva e per l'efficiente funz
 
 Il gestore della rete di trasmissione nazionale fornisce ai gestori di altri sistemi interconnessi con il proprio le informazioni sufficienti a garantire il funzionamento sicuro ed efficiente, lo sviluppo coordinato e l'interoperabilita' del sistema interconnesso, assicura che non vi siano discriminazioni tra utenti e categorie di utenti, specialmente a favore delle proprie societa' e imprese collegate, fornisce a tutti gli utenti, in condizioni di parita', le informazioni necessarie per un efficiente accesso al sistema, riscuote le rendite da congestione e i pagamenti dovuti nell'ambito del meccanismo di compensazione tra gestori dei sistemi di trasmissione, in conformita' all'articolo 49 del regolamento (UE) 2019/943, acquista i servizi ancillari volti a garantire la sicurezza del sistema, partecipa alle valutazioni di adeguatezza del sistema, a livello nazionale ed europeo, assicura la digitalizzazione dei propri sistemi di trasmissione e provvede alla gestione dei dati, anche attraverso lo sviluppo di sistemi di gestione, alla cybersicurezza e alla protezione dei dati, sotto la vigilanza e il controllo dell'ARERA e sentita l'Agenzia per la cybersicurezza nazionale per gli aspetti relativi alla cybersicurezza.
 
+2-ter.
+                        
+                            
+                                Il gestore della rete di trasmissione nazionale acquisisce i servizi di bilanciamento nel rispetto delle seguenti condizioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    stabilisce procedure trasparenti, non discriminatorie e fondate su criteri di mercato; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    assicura la partecipazione di tutte le imprese elettriche qualificate e di tutti i partecipanti al mercato dell'energia elettrica e dei servizi connessi, inclusi i partecipanti al mercato che offrono energia elettrica prodotta da fonti rinnovabili, i partecipanti al mercato attivi nella gestione della domanda, i gestori di impianti di stoccaggio dell'energia elettrica e i partecipanti al mercato coinvolti in un'aggregazione; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    definisce, d'intesa con l'ARERA e previa approvazione di quest'ultima, nonche' in stretta collaborazione con tutti i partecipanti al mercato dell'energia elettrica, i requisiti tecnici per la fornitura dei servizi di bilanciamento necessari.
+
 Il gestore della rete di trasmissione, previa approvazione da parte dell'ARERA, stabilisce, con una procedura trasparente e partecipativa che coinvolge gli utenti e i gestori del sistema di distribuzione dell'energia elettrica, le specifiche tecniche per i servizi ancillari non relativi alla frequenza e gli standard dei prodotti di mercato necessari per la fornitura di tali servizi. Le specifiche tecniche e gli standard cosi' definiti assicurano la partecipazione effettiva e discriminatoria di tutti i partecipanti al mercato dell'energia elettrica, con le stesse garanzie di cui al comma 2-ter, lettera b), del presente articolo.
 
 Il gestore della rete di trasmissione nazionale scambia le informazioni necessarie e si coordina con i gestori del sistema di distribuzione, al fine di assicurare l'uso ottimale delle risorse, il funzionamento sicuro ed efficiente del sistema e lo sviluppo del mercato dell'energia elettrica. Il gestore della rete di trasmissione nazionale ha diritto ad essere adeguatamente remunerato per l'acquisizione di servizi che consentono di recuperare i corrispondenti costi, determinati in misura ragionevole, ivi comprese le spese necessarie per le tecnologie dell'informazione e della comunicazione e i costi dell'infrastruttura.
@@ -171,6 +196,35 @@ Il gestore della rete e' concessionario delle attivita' di trasmissione e dispac
 Il gestore, con proprie delibere, stabilisce le regole per il dispacciamento nel rispetto delle condizioni di cui al comma 3 e degli indirizzi di cui al comma 2 dell'articolo 1. Sulla base di direttive emanate dall'Autorita' per l'energia elettrica e il gas entro novanta giorni dalla data di entrata in vigore del presente decreto, il gestore della rete di trasmissione nazionale adotta regole tecniche, di carattere obiettivo e non discriminatorio, in materia di progettazione e funzionamento degli impianti di generazione, delle reti di distribuzione, delle apparecchiature direttamente connesse, dei circuiti di interconnessione e delle linee dirette, al fine di garantire la piu' idonea connessione alla rete di trasmissione nazionale nonche' la sicurezza e la connessione operativa tra le reti. L'Autorita' per l'energia elettrica e il gas verifica la conformita' delle regole tecniche adottate dal gestore alle direttive dalla stessa emanate e si pronuncia, sentito il gestore, entro novanta giorni; qualora la pronuncia non intervenga entro tale termine, le regole si intendono approvate. In nessun caso possono essere riconosciuti ai proprietari di porzioni della rete di trasmissione nazionale, o a coloro che ne abbiano la disponibilita', fatta eccezione per il gestore della rete di trasmissione nazionale in relazione alle attivita' di trasmissione e dispacciamento, diritti di esclusiva o di priorita' o condizioni di maggior favore di alcun tipo nell'utilizzo della stessa. L'utilizzazione della rete di trasmissione nazionale per scopi estranei al servizio elettrico non puo' comunque comportare vincoli o restrizioni all'utilizzo della rete stessa per le finalita' disciplinate dal presente decreto. Le regole tecniche di cui al presente comma sono pubblicate nella Gazzetta Ufficiale della Repubblica italiana e sono notificate alla Commissione delle Comunita' europee a norma dell'articolo 8 della direttiva 81/189/CEE del Consiglio del 28 marzo 1983.
 
 Entro novanta giorni dalla data di entrata in vigore del presente decreto, il Ministro dell'industria, del commercio e dell'artigianato, sentiti l'Autorita' per l'energia elettrica e il gas e i soggetti interessati, determina con proprio decreto l'ambito della rete di trasmissione nazionale, comprensiva delle reti di tensione uguale o superiore a 220 kV e delle parti di rete, aventi tensioni comprese tra 120 e 220 kV, da individuare secondo criteri funzionali. Successivamente alla emanazione di tale decreto il gestore puo' affidare a terzi, previa autorizzazione del Ministro dell'industria, del commercio e dell'artigianato e sulla base di convenzioni approvate dall'Autorita' per l'energia elettrica e il gas, la gestione di limitate porzioni della rete di trasmissione nazionale non direttamente funzionali alla stessa. Entro trenta giorni dalla emanazione del decreto di determinazione della rete di trasmissione nazionale i proprietari di tale rete, o coloro che ne hanno comunque la disponibilita', costituiscono una o piu' societa' di capitali alle quali, entro i successivi novanta giorni, sono trasferiti esclusivamente i beni e i rapporti, le attivita' e le passivita', relativi alla trasmissione di energia elettrica. Il Ministro dell'industria, del commercio e dell'artigianato e il Ministro del tesoro, del bilancio e della programmazione economica possono promuovere l'aggregazione delle suddette societa', anche in forme consortili, favorendo la partecipazione di tutti gli operatori del mercato.
+
+8.
+                        
+                            
+                                Il gestore stipula convenzioni, anche con le societa' che dispongono delle reti di trasmissione, per disciplinare gli interventi di manutenzione e di sviluppo della rete e dei dispositivi di interconnessione con altre reti nel caso in cui non ne sia proprietario; altrimenti, il gestore risponde direttamente nei confronti del Ministero delle attivita' produttive della tempestiva esecuzione degli interventi di manutenzione e sviluppo della rete deliberati. Le suddette convenzioni, sono stipulate in conformita' ad una convenzione tipo definita, entro centoventi giorni dall'entrata in vigore del presente decreto legislativo, con decreto del Ministro dell'industria, del commercio e dell'artigianato, su proposta dell'Autorita' dell'energia elettrica e del gas, a norma della legge n. 481 del 1995, sentita la Conferenza unificata, istituita ai sensi del decreto legislativo 28 agosto 1997, n. 281. Tale convenzione tipo prevede: 
+
+                            
+                            
+                                a)
+                                
+                                    la competenza del gestore ad assumere le decisioni in materia di manutenzione, gestione e sviluppo della rete; 
+                                
+                            
+                            
+                                b)
+                                
+                                    un'adeguata remunerazione delle attivita' e degli investimenti, tenuto conto degli obblighi normativi a carico degli operatori; 
+                                
+                            
+                            
+                                c)
+                                
+                                    le modalita' di accertamento di disfunzioni ed inadempimenti e la determinazione delle conseguenti sanzioni, della possibilita' di interventi sostitutivi e di eventuali indennizzi alle parti lese; 
+                                
+                            
+                            
+                                d)
+                                
+                                    le modalita' di coinvolgimento delle regioni interessate in ordine agli aspetti di localizzazione, razionalizzazione e sviluppo delle reti.
 
 In caso di mancata stipula, entro centoventi giorni dall'emanazione del decreto di determinazione della rete di trasmissione nazionale di cui al comma 7, delle convenzioni con le societa' che dispongono delle reti di trasmissione, le stesse sono definite e rese efficaci entro i successivi sessanta giorni con decreto del Ministro dell'industria, del commercio e dell'artigianato, su proposta dell'Autorita' per l'energia elettrica ed il gas. Fino alla assunzione della titolarita' da parte del gestore di cui al comma 4, i soggetti proprietari delle reti restano responsabili della corretta manutenzione e funzionamento delle reti e dei dispositivi di loro proprieta'; i costi relativi possono essere riconosciuti dal gestore della rete di trasmissione nazionale nell'ambito della relativa convenzione. Eventuali inadempienze o disservizi sono sanzionati dall'Autorita' per l'energia elettrica ed il gas. L'Autorita' per l'energia elettrica e il gas controlla che i rapporti oggetto delle convenzioni si svolgano nel rispetto delle disposizioni in esse contenute, potendo irrogare le sanzioni previste dall'articolo 2, comma 20, lettera c), della legge 14 novembre 1995, n. 481, nel caso in cui le violazioni accertate pregiudichino l'accesso e l'uso a condizioni paritetiche della rete di trasmissione nazionale. Dei provvedimenti e delle iniziative adottate ai sensi del presente comma viene data preventiva comunicazione al Ministro dell'industria, del commercio e dell'artigianato.
 
@@ -240,6 +294,24 @@ Con determinazione dell'Autorita' per l'energia elettrica e il gas, da adottarsi
 
 ## Art. 7. — Piccole reti isolate
 
+1.
+                        
+                            
+                                Con regolamento del Ministro dell'industria, del commercio e dell'artigianato, adottato entro il 30 settembre 1999 su proposta dell'Autorita' per l'energia elettrica e il gas ai sensi dell'articolo 17, comma 2, della legge 23 agosto 1988, n. 400, sentita la Conferenza unificata, istituita ai sensi del decreto legislativo 28 agosto 1997, n. 281, sono dettate le disposizioni relative al funzionamento delle piccole reti isolate. Il regolamento si attiene ai seguenti criteri ed obiettivi:
+ 
+                            
+                            
+                                a)
+                                
+                                    sicurezza, efficienza ed economicita' del servizio;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    sviluppo, ove possibile, dell'interconnessione con la rete di trasmissione nazionale;
+
 ## Art. 8. — Attivita' di produzione
 
 A decorrere dal 1 gennaio 2003 a nessun soggetto e' consentito produrre o importare, direttamente o indirettamente, piu' del 50 per cento del totale dell'energia elettrica prodotta e importata in Italia. Nel caso tale soglia, calcolata come media su base triennale, sia superata, l'Autorita' garante della concorrenza e del mercato adotta i provvedimenti di cui all'articolo 15 della legge 10 ottobre 1990, n. 287. A tale scopo, entro la stessa data l'ENEL S.p.a. cede non meno di 15.000 MW della propria capacita' produttiva. A tal fine l'ENEL S.p.a. predispone entro centoventi gioni dall'entrata in vigore del presente decreto un piano per le cessioni degli impianti; l'approvazione del suddetto piano, nonche' la scelta delle modalita' di alienazione sono determinate con decreto del Presidente del Consiglio dei Ministri, su proposta del Ministro del tesoro, del bilancio e della programmazione economica, di concerto con il Ministro dell'industria, del commercio e dell'artigianato. Il piano per le cessioni degli impianti deve consentire sia adeguate condizioni di mercato sia la necessaria attenzione alla presenza di piani industriali, al mantenimento della produzione nei siti e alle ricadute occupazionali e deve tener conto delle esigenze relative alle attivita' di sviluppo, di innovazione, di ricerca e di internazionalizzazione dell'ENEL S.p.a.
@@ -247,6 +319,24 @@ A decorrere dal 1 gennaio 2003 a nessun soggetto e' consentito produrre o import
 Ove il termine del 1 gennaio 2003 di cui al comma 1 non sia compatibile, per le condizioni del mercato, con il rispetto degli obblighi nello stesso comma previsti, l'Autorita' garante della concorrenza e del mercato con proprio provvedimento, sentita l'Autorita' per l'energia elettrica e il gas, puo' disporre, su richiesta del soggetto interessato, una proroga non superiore a un anno.
 
 Fermi restando quanto previsto dal decreto legislativo 31 marzo 1998, n. 112, nonche' la disciplina relativa alla valutazione di impatto ambientale, entro un anno dalla data di entrata in vigore del presente decreto sono emanati, ai sensi dell'articolo 17, comma 2, della legge 23 agosto 1988, n. 400, uno o piu' regolamenti per disciplinare l'autorizzazione alla costruzione e all'esercizio di nuovi impianti di produzione dell'energia elettrica o la modifica o il ripotenziamento di impianti esistenti, alimentati da fonti convenzionali.
+
+4.
+                        
+                            
+                                I regolamenti si conformano ai seguenti principi:
+ 
+                            
+                            
+                                a)
+                                
+                                    i progetti sono autorizzati mediante lo svolgimento di una procedura unificata e semplificata, riferita a ciascuna categoria di impianto nonche' mediante il rilascio, in tempi determinati, di un unico provvedimento riguardante sia l'impianto principale che le opere connesse e le infrastrutture indispensabili al suo esercizio;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    i progetti di modifica o ripotenziamento sono valutati sotto il profilo urbanistico solo in caso di occupazione di aree esterne a quelle di pertinenza dell'impianto esistente.
 
 Il diniego di autorizzazione, fondato in ogni caso su motivi obiettivi e non discriminatori, e' comunicato, con la relativa motivazione, al richiedente. Del provvedimento e' data informazione alla Commissione delle Comunita' europee.
 
@@ -294,6 +384,136 @@ Il gestore della rete di trasmissione nazionale assicura la precedenza all'energ
 ## Art. 12. — Concessioni idroelettriche
 
 Alla scadenza delle concessioni di grandi derivazioni idroelettriche e nei casi di decadenza o rinuncia, le opere di cui all'articolo 25, primo comma, del testo unico di cui al regio decreto 11 dicembre 1933, n. 1775, passano, senza compenso, in proprieta' delle regioni, in stato di regolare funzionamento. In caso di esecuzione da parte del concessionario, a proprie spese e nel periodo di validita' della concessione, di investimenti sui beni di cui al primo periodo, purche' previsti dall'atto di concessione o comunque autorizzati dal concedente, alla riassegnazione della concessione secondo le procedure di cui ai commi seguenti, e' riconosciuto al concessionario uscente, per la parte di bene non ammortizzato, un indennizzo pari al valore non ammortizzato, fermo restando quanto previsto dall'articolo 26 del testo unico di cui al regio decreto n. 1775 del 1933. Per i beni diversi da quelli previsti dai periodi precedenti si applica la disciplina stabilita dall'articolo 25, commi secondo e seguenti, del testo unico di cui al regio decreto n. 1775 del 1933, con corresponsione del prezzo da quantificare al netto dei beni ammortizzati, sulla base del comma 1-ter del presente articolo, intendendosi sostituiti gli organi statali ivi indicati con i corrispondenti organi della regione.
+
+1-bis.
+                        
+                            
+                                Le regioni, ove non ritengano sussistere un prevalente interesse pubblico ad un diverso uso delle acque, incompatibile con il mantenimento dell'uso a fine idroelettrico, possono assegnare le concessioni di grandi derivazioni idroelettriche, previa verifica dei requisiti di capacita' tecnica, finanziaria e organizzativa di cui al comma 1-ter, lettera d): 
+                            
+                            
+                                a)
+                                
+                                    ad operatori economici individuati attraverso l'espletamento di gare con procedure ad evidenza pubblica;
+                                
+                            
+                            
+                                b)
+                                
+                                    a societa' a capitale misto pubblico privato nelle quali il socio privato e' scelto attraverso l'espletamento di gare con procedure ad evidenza pubblica;
+                                
+                            
+                            
+                                c)
+                                
+                                    mediante forme di partenariato ai sensi degli articoli 179 e seguenti del codice di cui al decreto legislativo 18 aprile 2016, n. 50. L'affidamento a societa' partecipate deve comunque avvenire nel rispetto delle disposizioni del testo unico di cui al decreto legislativo 19 agosto 2016, n. 175.
+
+1-ter.
+                        
+                            
+                                Nel rispetto dell'ordinamento dell'Unione europea e degli accordi internazionali, nonche' dei principi fondamentali dell'ordinamento statale e delle disposizioni di cui al presente articolo, le regioni disciplinano con legge, entro un anno dalla data di entrata in vigore della presente disposizione e comunque non oltre il 31 marzo 2020, le modalita' e le procedure di assegnazione delle concessioni di grandi derivazioni d'acqua a scopo idroelettrico, stabilendo in particolare: 
+ 
+                            
+                            
+                                a)
+                                
+                                    le modalita' per lo svolgimento delle procedure di assegnazione di cui al comma 1-bis; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    i termini di avvio delle procedure di cui al comma 1-bis; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    i criteri di ammissione e di assegnazione; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    la previsione che l'eventuale indennizzo e' posto a carico del concessionario subentrante; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    i requisiti di capacita' finanziaria, organizzativa e tecnica adeguata all'oggetto della concessione richiesti ai partecipanti e i criteri di valutazione delle proposte progettuali, prevedendo quali requisiti minimi: 
+ 1) ai fini della dimostrazione di adeguata capacita' organizzativa e tecnica, l'attestazione di avvenuta gestione, per un periodo di almeno cinque anni, di impianti idroelettrici aventi una potenza nominale media pari ad almeno 3 MW; 
+ 2) ai fini della dimostrazione di adeguata capacita' finanziaria, la referenza di due istituti di credito o societa' di servizi iscritti nell'elenco generale degli intermediari finanziari che attestino che il partecipante ha la possibilita' di accedere al credito per un importo almeno pari a quello del progetto proposto nella procedura di assegnazione, ivi comprese le somme da corrispondere per i beni di cui alla lettera n); 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    i termini di durata delle nuove concessioni, comprese tra venti anni e quaranta anni; il termine massimo puo' essere incrementato fino ad un massimo di dieci anni, in relazione alla complessita' della proposta progettuale presentata e all'importo dell'investimento; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    gli obblighi o le limitazioni gestionali, subordinatamente ai quali sono ammissibili i progetti di sfruttamento e utilizzo delle opere e delle acque, compresa la possibilita' di utilizzare l'acqua invasata per scopi idroelettrici per fronteggiare situazioni di crisi idrica o per la laminazione delle piene; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    i miglioramenti minimi in termini energetici, di potenza di generazione e di producibilita' da raggiungere nel complesso delle opere di derivazione, adduzione, regolazione e condotta dell'acqua e degli impianti di generazione, trasformazione e connessione elettrica con riferimento agli obiettivi strategici nazionali in materia di sicurezza energetica e fonti energetiche rinnovabili, compresa la possibilita' di dotare le infrastrutture di accumulo idrico per favorire l'integrazione delle stesse energie rinnovabili nel mercato dell'energia e nel rispetto di quanto previsto dal codice di trasmissione, dispacciamento, sviluppo e sicurezza della rete elettrica di cui all'articolo 1, comma 4, del decreto del Presidente del Consiglio dei ministri 11 maggio 2004, pubblicato nella Gazzetta Ufficiale n. 115 del 18 maggio 2004, e dai suoi aggiornamenti; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    i livelli minimi in termini di miglioramento e risanamento ambientale del bacino idrografico di pertinenza, in coerenza con gli strumenti di pianificazione a scala di distretto idrografico in attuazione della direttiva 2000/60/CE del Parlamento europeo e del Consiglio, del 23 ottobre 2000, determinando obbligatoriamente una quota degli introiti derivanti dall'assegnazione, da destinare al finanziamento delle misure dei piani di gestione distrettuali o dei piani di tutela finalizzate alla tutela e al ripristino ambientale dei corpi idrici interessati dalla derivazione; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    le misure di compensazione ambientale e territoriale, anche a carattere finanziario, da destinare ai territori dei comuni interessati dalla presenza delle opere e della derivazione compresi tra i punti di presa e di restituzione delle acque garantendo l'equilibrio economico finanziario del progetto di concessione; 
+
+                                
+                            
+                            
+                                m)
+                                
+                                    le modalita' di valutazione, da parte dell'amministrazione competente, dei progetti presentati in esito alle procedure di assegnazione, che avviene nell'ambito di un procedimento unico ai fini della selezione delle proposte progettuali presentate, che tiene luogo della verifica o valutazione di impatto ambientale, della valutazione di incidenza nei confronti dei siti di importanza comunitaria interessati e dell'autorizzazione paesaggistica, nonche' di ogni altro atto di assenso, concessione, permesso, licenza o autorizzazione, comunque denominato, previsto dalla normativa statale, regionale o locale; a tal fine, alla valutazione delle proposte progettuali partecipano, ove necessario, il Ministero dell'ambiente e della tutela del territorio e del mare, il Ministero dello sviluppo economico, il Ministero per i beni e le attivita' culturali e gli enti gestori delle aree naturali protette di cui alla legge 6 dicembre 1991, n. 394; per gli aspetti connessi alla sicurezza degli invasi di cui al decreto-legge 8 agosto 1994, n. 507, convertito, con modificazioni, dalla legge 21 ottobre 1994, n. 584, e all'articolo 6, comma 4-bis, della legge 1° agosto 2002, n. 166, al procedimento valutativo partecipa il Ministero delle infrastrutture e dei trasporti; 
+
+                                
+                            
+                            
+                                n)
+                                
+                                    l'utilizzo dei beni di cui all'articolo 25, secondo comma, del testo unico di cui al regio decreto n. 1775 del 1933, nel rispetto del codice civile, secondo i seguenti criteri: 
+ 1) per i beni mobili di cui si prevede l'utilizzo nel progetto di concessione, l'assegnatario corrisponde agli aventi diritto, all'atto del subentro, un prezzo, in termini di valore residuo, determinato sulla base dei dati reperibili dagli atti contabili o mediante perizia asseverata; in caso di mancata previsione di utilizzo nel progetto di concessione, per tali beni si procede alla rimozione e allo smaltimento secondo le norme vigenti a cura ed onere del proponente; 
+ 2) per i beni immobili dei quali il progetto proposto prevede l'utilizzo, l'assegnatario corrisponde agli aventi diritto, all'atto del subentro, un prezzo il cui valore e' determinato sulla base dei dati reperibili dagli atti contabili o mediante perizia asseverata sulla base di attivita' negoziale tra le parti; 
+ 3) i beni immobili dei quali il progetto proposto non prevede l'utilizzo restano di proprieta' degli aventi diritto; 
+
+                                
+                            
+                            
+                                o)
+                                
+                                    la previsione, nel rispetto dei principi dell'Unione europea, di specifiche clausole sociali volte a promuovere la stabilita' occupazionale del personale impiegato; 
+
+                                
+                            
+                            
+                                p)
+                                
+                                    le specifiche modalita' procedimentali da seguire in caso di grandi derivazioni idroelettriche che interessano il territorio di due o piu' regioni, in termini di gestione delle derivazioni, vincoli amministrativi e ripartizione dei canoni, da definire d'intesa tra le regioni interessate; le funzioni amministrative per l'assegnazione della concessione sono di competenza della regione sul cui territorio insiste la maggior portata di derivazione d'acqua in concessione. (20) 
+ ((1-ter.1. Le procedure di assegnazione delle concessioni di grandi derivazioni idroelettriche sono effettuate ai sensi del comma 1-ter e in ogni caso secondo parametri competitivi, equi e trasparenti, tenendo conto della valorizzazione economica dei canoni concessori di cui al comma 1-quinquies e degli interventi di miglioramento della sicurezza delle infrastrutture esistenti e di recupero della capacita' di invaso, prevedendo a carico del concessionario subentrante un congruo indennizzo, da quantificare nei limiti di quanto previsto al comma 1, secondo periodo, che tenga conto dell'ammortamento degli investimenti effettuati dal concessionario uscente, definendo la durata della concessione, nel rispetto dei limiti previsti dalla normativa vigente, sulla base di criteri economici fondati sull'entita' degli investimenti proposti, determinando le misure di compensazione ambientale e territoriale, anche a carattere finanziario, da destinare ai territori dei comuni interessati dalla presenza delle opere e della derivazione compresi tra i punti di presa e di restituzione delle acque, e garantendo l'equilibrio economico-finanziario del progetto di concessione, nonche' i livelli minimi in termini di miglioramento e risanamento ambientale del bacino idrografico. Al fine di promuovere l'innovazione tecnologica e la sostenibilita' delle infrastrutture di grande derivazione idroelettrica, l'affidamento delle relative concessioni puo' avvenire anche facendo ricorso alle procedure previste dall'articolo 183 del codice dei contratti pubblici, di cui al decreto legislativo 18 aprile 2016, n. 50)).
 
 ((1-quater. Le procedure di assegnazione delle concessioni di grandi derivazioni idroelettriche sono avviate entro due anni dalla data di entrata in vigore della legge regionale di cui al comma 1-ter e comunque non oltre il 31 dicembre 2023. Le regioni comunicano tempestivamente al Ministero delle infrastrutture e della mobilita' sostenibili l'avvio e gli esiti delle procedure di assegnazione delle concessioni di grandi derivazioni idroelettriche. Decorso il termine di cui al primo periodo, e comunque in caso di mancata adozione delle leggi regionali entro i termini prescritti dal comma 1-ter, il Ministro delle infrastrutture e della mobilita' sostenibili propone l'esercizio del potere sostitutivo di cui all'articolo 8 della legge 5 giugno 2003, n. 131, ai fini dell'avvio, sulla base della disciplina regionale di cui al comma 1-ter, ove adottata, e di quanto previsto dal comma 1-ter.1, delle procedure di assegnazione delle concessioni, prevedendo che il 10 per cento dell'importo dei canoni concessori, in deroga all'articolo 89, comma 1, lettera i), del decreto legislativo 31 marzo 1998, n. 112, resti acquisito al patrimonio statale. Restano in ogni caso ferme le competenze statali di cui al decreto-legge 8 agosto 1994, n. 507, convertito, con modificazioni, dalla legge 21 ottobre 1994, n. 584, e di cui alla legge 1° agosto 2002, n. 166))
 
@@ -361,6 +581,46 @@ I commi 1, 2, 3, 5 e 11 dell'articolo 9 del decreto del Presidente della Repubbl
 
 L'ENEL S.p.a. assume le funzioni di indirizzo strategico e di coordinamento dell'assetto industriale e delle attivita' esercitate dalle societa' da essa controllate. Entro sessanta giorni dalla data di entrata in vigore del presente decreto l'assemblea dell'ENEL S.p.a. delibera le conseguenti modifiche statutarie.
 
+2.
+                        
+                            
+                                L'ENEL S.p.a. costituisce societa' separate per lo svolgimento delle seguenti attivita':
+ 
+                            
+                            
+                                a)
+                                
+                                    la produzione di energia elettrica;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la distribuzione di energia elettrica e la vendita ai clienti vincolati;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    la vendita ai clienti idonei;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    l'esercizio dei diritti di proprieta' della rete di trasmissione comprensiva delle linee di trasporto e delle stazioni di trasformazione dell'energia elettrica e le connesse attivita' di manutenzione e sviluppo decise dal gestore ai sensi dell'articolo 3, comma 2;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    
+                                        ((lo smantellamento delle centrali)) elettronucleari dismesse, la chiusura del ciclo del combustibile e le attivita' connesse e conseguenti, anche in consorzio con altri enti pubblici o societa' che, se a presenza pubblica, possono anche acquisirne la titolarita'.
+
 Alle costituende societa' sono conferiti entro centottanta giorni dalla data di entrata in vigore del presente decreto tutti i beni e rapporti giuridici relativi all'oggetto della loro attivita', ivi compresa una quota parte dei debiti afferenti al patrimonio conferito. Fino alla predetta data l'ENEL S.p.a. puo' transitoriamente continuare l'esercizio delle attivita' di cui al comma 2.
 
 Le azioni della societa' di cui al comma 2, lettera e), sono assegnate al Ministero del tesoro, del bilancio e della programmazione economica; la medesima societa' si attiene agli indirizzi formulati dal Ministro dell'industria, del commercio e dell'artigianato.
@@ -368,6 +628,92 @@ Le azioni della societa' di cui al comma 2, lettera e), sono assegnate al Minist
 L'atto di conferimento puo' stabilire che gli effetti del conferimento, anche ai fini delle imposte sul reddito, decorrano da una data non anteriore a quella in cui si chiude l'ultimo bilancio della societa' conferente.
 
 ## Art. 14. — Clienti idonei
+
+1.
+                        
+                            
+                                Dalla data di entrata in vigore del presente decreto hanno diritto alla qualifica di clienti idonei:
+
+                            
+                            
+                                a)
+                                
+                                    i distributori, limitatamente all'energia elettrica destinata a clienti idonei connessi alla propria rete;
+                                
+                            
+                            
+                                b)
+                                
+                                    gli acquirenti grossisti, limitatamente all'energia consumata da clienti idonei con cui hanno stipulato contratti di vendita;
+                                
+                            
+                            
+                                c)
+                                
+                                    i soggetti cui e' conferita da altri Stati la capacita' giuridica di concludere contratti di acquisto o fornitura di energia elettrica scegliendo il venditore o il distributore, limitatamente all'energia consumata al di fuori del territorio nazionale;
+                                
+                            
+                            
+                                d)
+                                
+                                    l'azienda di cui all'articolo 10 del decreto del Presidente della Repubblica 26 marzo 1977, n. 235.
+
+2.
+                        
+                            
+                                Con la medesima decorrenza di cui al comma 1 hanno altresi' diritto alla qualifica di clienti idonei i soggetti di seguito specificati aventi consumi annuali di energia elettrica, comprensivi dell'eventuale energia autoprodotta, nella misura di seguito indicata:
+
+                            
+                            
+                                a)
+                                
+                                    ogni cliente finale il cui consumo, misurabile in un unico punto del territorio nazionale, sia risultato, nell'anno precedente, superiore a 30 GWh;
+                                
+                            
+                            
+                                b)
+                                
+                                    le imprese costituite in forma societaria, i gruppi di imprese, anche ai sensi dell'articolo 7 della legge 10 ottobre 1990, n. 287, i consorzi e le societa' consortili il cui consumo sia risultato nell'anno precedente, anche come somma dei consumi dei singoli componenti la persona giuridica interessata, superiore a 30 GWh, i cui consumi, ciascuno della dimensione minima di 2 GWh su base annua, siano ubicati, salvo aree individuate con specifici atti di programmazione regionale, esclusivamente nello stesso comune o in comuni contigui.
+
+3.
+                        
+                            
+                                A decorrere dal 1 gennaio 2000 hanno diritto alla qualifica di clienti idonei:
+
+                            
+                            
+                                a)
+                                
+                                    i soggetti di cui al comma 2, lettera a), aventi consumi non inferiori a 20 GWh;
+                                
+                            
+                            
+                                b)
+                                
+                                    i soggetti di cui al comma 2, lettera b), aventi consumi non inferiori a 20 GWh, con dimensione minima di 1 GWh.
+
+4.
+                        
+                            
+                                A decorrere dal 1 gennaio 2002 hanno diritto alla qualifica di clienti idonei:
+
+                            
+                            
+                                a)
+                                
+                                    i soggetti di cui al comma 2, lettera a), aventi consumi non inferiori a 9 GWh;
+                                
+                            
+                            
+                                b)
+                                
+                                    i soggetti di cui al comma 2, lettera b), aventi consumi non inferiori a 9 GWh, con dimensione minima di 1 GWh;
+                                
+                            
+                            
+                                c)
+                                
+                                    ogni cliente finale il cui consumo sia risultato nell'anno precedente superiore a 1 GWh in ciascun punto di misura considerato e superiore a 40 GWh come somma dei suddetti punti di misura.
 
 Nel caso in cui il mercato dei clienti idonei, comprensivo degli autoconsumi, risulti inferiore al 30 per cento il 19 febbraio 1999, al 35 per cento il 1 gennaio 2000, al 40 per cento il 1 gennaio 2002, il Ministro dell'industria, del commercio e dell'artigianato, con proprio decreto, individua, anche su proposta delle Regioni, nuovi limiti per l'attribuzione della qualifica di cliente idoneo, tenuto anche conto del processo di riequilibrio del sistema tariffario.
 

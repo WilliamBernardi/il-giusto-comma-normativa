@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: DPR
 vigenza_date: 2018-05-29
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:47:45Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -2886,6 +2886,31 @@ Le misure mensili di cui al comma 1 sono corrisposte per dodici mensilita'.
 
 ## Art. 6. — Fondo di amministrazione
 
+1.
+                    
+                        
+                            Il Fondo di amministrazione per il personale non direttivo e non dirigente di cui all'articolo 6 del decreto del Presidente della Repubblica 29 novembre 2007 e' aumentato dalle seguenti risorse annue: 
+ 
+                        
+                        
+                            a)
+                            
+                                per l'anno 2008: euro 40.900,00; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                per l'anno 2009: euro 984.600,00; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                a decorrere dal 31 dicembre 2009 e a valere dal 2010: euro 8.300,00.(1) ((2))
+
 Gli importi di cui alle lettere a), b) e c) del comma 1 non comprendono gli oneri contributivi e l'IRAP a carico dello Stato. Gli importi di cui alle lettere a) e b) non hanno effetto di trascinamento nell'anno successivo.
 
 Restano ferme le disposizioni relative alla composizione del predetto Fondo ed all'utilizzo dello stesso.
@@ -3026,6 +3051,31 @@ Le somme di cui al comma 1 non comprendono gli oneri contributivi e l'IRAP a car
 
 Le risorse di cui all'articolo 4, comma 3-bis, del decreto-legge 29 novembre 2008, n. 185, convertito, con modificazioni, dalla legge 28 gennaio 2009, n. 2, versate all'entrata del bilancio dello Stato, nella quota del 38,30 per cento, vengono destinate, mediante riassegnazione da effettuarsi con decreto del Ministro dell'economia e delle finanze, all'integrazione del Fondo di amministrazione per il personale non direttivo e non dirigente di cui all'articolo 6, del decreto del Presidente della Repubblica 29 novembre 2007, per essere utilizzate ai fini all'attuazione di patti per il soccorso pubblico da stipulare, di anno in anno, tra il Governo e le organizzazione sindacali per assicurare il miglioramento della qualita' del servizio di soccorso prestato dal personale.
 
+2.
+                    
+                        
+                            Le risorse del Fondo di amministrazione di cui al comma 1, per gli anni 2009 e 2010, verranno utilizzate prevalentemente: 
+ 
+                        
+                        
+                            a)
+                            
+                                per incrementare, fino al massimo di 1 euro al giorno, il compenso di produttivita' spettante al personale dei ruoli tecnici, amministrativo-contabili e tecnico-informatici nonche' al personale operativo che effettua orario di lavoro giornaliero; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                per incrementare la misura dell'indennita' di turno per i turni notturni, fino al massimo di 3 euro a turno; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                per incrementare la misura oraria, fino al massimo di 2 euro l'ora, del compenso per l'incentivazione degli istruttori e formatori e anche per altre finalita'.
+
 Le modalita' di utilizzo delle risorse di cui al comma 2 sono stabilite in apposito accordo decentrato a livello nazionale;
 
 Per gli anni successivi la destinazione delle risorse di cui al comma 1 saranno stabilite in appositi accordi decentrati a livello nazionale.
@@ -3035,6 +3085,24 @@ Per gli anni successivi la destinazione delle risorse di cui al comma 1 saranno 
 Al personale di cui all'articolo 1, comma 1, continua ad applicarsi, ove non in contrasto con il presente decreto ed in quanto compatibile con le vigenti disposizioni legislative e regolamentari, la disciplina contrattuale relativa al predetto personale.
 
 ## Art. 10. — Copertura finanziaria
+
+1.
+                    
+                        
+                            All'onere derivante dall'attuazione del presente decreto, pari ad euro 116.531.000 per l'anno 2010 ed euro 62.602.000 a decorrere dall'anno 2011, si provvede: 
+ 
+                        
+                        
+                            a)
+                            
+                                per l'anno 2010, quanto ad euro 39.929.000 a valere sulle disponibilita' in conto residui, all'uopo conservate, sul capitolo 3027 "Fondo da ripartire per l'attuazione dei contratti del personale delle Amministrazioni statali anche ad ordinamento autonomo, ivi compreso il personale militare e quello dei Corpi di polizia e delle Universita'"; quanto ad euro 48.005.000 mediante riduzione dell'autorizzazione di spesa prevista dall'articolo 2, comma 28, della legge 22 dicembre 2008, n. 203, e dall'articolo 3, comma 144, della legge 24 dicembre 2007, n. 244; quanto ad euro 14.597.000 a valere sulle risorse disponibili sullo stato di previsione della spesa del Ministero dell'interno relative all'autorizzazione di spesa prevista dall'articolo 17, comma 35-quinquies, del decreto-legge 1° luglio 2009, n. 78, convertito, con modificazioni, dalla legge 3 agosto 2009, n. 102, e quanto ad euro 14.000.000 a valere sulle risorse iscritte sullo stato di previsione della spesa del Ministero dell'interno relative all'autorizzazione di spesa prevista dall'articolo 3, comma 144, della legge 24 dicembre 2007, n. 244; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                a decorrere dall'anno 2011, quanto ad euro 48.005.000 mediante riduzione dell'autorizzazione di spesa prevista dall'articolo 2, comma 28, della legge 22 dicembre 2008, n. 203, e dall'articolo 3, comma 144, della legge 24 dicembre 2007, n. 244, e quanto ad euro 14.597.000,00 mediante riduzione dell'autorizzazione di spesa prevista dall'articolo 17, comma 35-quinquies, del decreto-legge 1° luglio 2009, n. 78, convertito, con modificazioni, dalla legge 3 agosto 2009, n. 102;
 
 Il Ministro dell'economia e delle finanze e' autorizzato ad apportare, con propri decreti, le occorrenti variazioni di bilancio.
 

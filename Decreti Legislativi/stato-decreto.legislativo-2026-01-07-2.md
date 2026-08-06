@@ -7,8 +7,8 @@ urn: urn:nir:stato:decreto.legislativo:2026-01-07;2
 vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:32Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -35,8 +35,49 @@ All'articolo 4, comma 1, del decreto legislativo 14 marzo 2014, n. 49, la letter
 ## Art. 2. — Modifiche all'articolo 23 del decreto legislativo 
  14 marzo 2014, n. 49
 
+1.
+                    
+                        
+                            All'articolo 23 del decreto legislativo 14 marzo 2014, n. 49, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 1, dopo le parole: «Per i RAEE storici» sono inserite le seguenti: «di cui all'articolo 4, comma 1, lettera o),»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 2: 
+ 1) le parole: «Per i RAEE derivanti da AEE» sono sostituite dalle seguenti: «Per i RAEE derivanti dalle AEE di cui all'articolo 2, comma 1, lettera a), diverse dai pannelli fotovoltaici,»; 
+ 2) dopo le parole: «13 agosto 2005,» sono inserite le seguenti: «nonche' da tutte le altre AEE di cui all'articolo 2, comma 1, lettera b), diverse dai pannelli fotovoltaici e che sono state immesse sul mercato a partire dal 15 agosto 2018,».
+
 ## Art. 3. — Modifiche all'articolo 24 del decreto legislativo 
  14 marzo 2014, n. 49
+
+1.
+                    
+                        
+                            All'articolo 24 del decreto legislativo 14 marzo 2014, n. 49, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 1, dopo la parola: «professionali» sono inserite le seguenti: «di cui all'articolo 4, comma 1, lettera o),»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 2: 
+ 1) dopo la parola: «elettroniche»" sono inserite le seguenti: «di cui all'articolo 2, comma 1, lettera a), diverse dai pannelli fotovoltaici,»; 
+ 2) dopo le parole: «13 agosto 2005,» sono inserite le seguenti: «nonche' da tutte le altre AEE di cui all'articolo 2, comma 1, lettera b), diverse dai pannelli fotovoltaici e che sono state immesse sul mercato a partire dal 15 agosto 2018»; 
+ 3) le parole: «dalla predetta data» sono sostituite dalle seguenti: «dalle predette date».
 
 ## Art. 4. — Modifiche all'articolo 24-bis del decreto legislativo 
  14 marzo 2014, n. 49
@@ -45,6 +86,31 @@ All'articolo 24-bis, comma 1, primo periodo, del decreto legislativo 14 marzo 20
 
 ## Art. 5. — Modifiche all'articolo 28 del decreto legislativo 
  14 marzo 2014, n. 49
+
+1.
+                    
+                        
+                            All'articolo 28 del decreto legislativo 14 marzo 2014, n. 49, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 1 sono aggiunti, in fine, i seguenti periodi: «Per i pannelli fotovoltaici, l'obbligo si applica a quelli immessi sul mercato a partire dal 13 agosto 2012. Relativamente alle AEE di cui all'articolo 2, comma 1, lettera b), che non rientrano nell'ambito di applicazione dell'articolo 2, comma 1, lettera a), l'obbligo si applica solo per quelle immesse sul mercato a partire dal 15 agosto 2018.»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 2, le parole: «CEI EN 50419:2006-05» sono sostituite dalle seguenti: «CEI EN 50419:2023-02» e le parole: «CENELEC EN 50419:2006-03» sono sostituite dalle seguenti: «CENELEC EN 50419:2022»; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                al comma 4, le parole: «CEI EN 50419:2006-05» sono sostituite dalle seguenti: «CEI 50419:2023-02.
 
 ## Art. 6. — Modifica all'articolo 40 del decreto legislativo 
  14 marzo 2014, n. 49

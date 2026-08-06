@@ -8,8 +8,8 @@ codice_redazionale: 001G0164
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:40Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DEL CONSIGLIO DEI MINISTRI
@@ -39,6 +39,56 @@ del beneficio nell'anno scolastico 2000-2001
 
 La valutazione della situazione economica equivalente del richiedente e' determinata con riferimento al nucleo familiare composto dal richiedente medesimo, dai soggetti con i quali convive e da quelli considerati a suo carico ai fini IRPEF.
 
+2.
+                    
+                        
+                            La situazione economica equivalente del nucleo familiare si ottiene sommando:
+ 
+                        
+                        
+                            a)
+                            
+                                tutti i redditi netti dei diversi componenti il nucleo familiare quali risultanti dalle dichiarazioni dei redditi o, in mancanza di obbligo di presentazione della dichiarazione dei redditi, dall'ultimo certificato sostitutivo rilasciato dai datori di lavoro o da enti previdenziali;
+
+                            
+                        
+                        
+                            b)
+                            
+                                il reddito delle attivita' finanziarie.
+
+3.
+                    
+                        
+                            Dalla cifra risultante a norma del comma 2 si detraggono:
+ 
+                        
+                        
+                            a)
+                            
+                                L. 2.500.000 qualora il nucleo familiare risieda in abitazioni in locazione e non possegga altri immobili adibiti ad uso abitativo o residenziale nel comune di residenza; tale importo e' elevato a L. 3.500.000 qualora i membri del nucleo familiare non posseggano altri immobili adibiti ad uso abitativo o residenziale in altri comuni; non puo' essere detratta alcuna cifra nel caso in cui il canone di locazione e' corrisposto a societa' le cui quote sono intestate in tutto o in parte a membri del nucleo familiare;
+
+                            
+                        
+                        
+                            b)
+                            
+                                L. 1.000.000 per il secondo figlio, L. 1.500.000 per il terzo figlio e L. 2.000.000 per ciascuno dei figli successivi al terzo, ove i figli siano a carico del richiedente;
+
+                            
+                        
+                        
+                            c)
+                            
+                                L. 2.000.000 per ciascun ulteriore componente del nucleo familiare, esclusi il coniuge ed i figli, che sia a carico del richiedente; detta cifra e' aumentata a L. 3.000.000 nel caso si tratti di invalido totale;
+
+                            
+                        
+                        
+                            d)
+                            
+                                L. 2.000.000, aggiuntivi alla cifra di cui alla lettera b), per ciascun figlio riconosciuto con handicap grave a norma dell'articolo 3, comma 3, della legge 5 febbraio 1992, n. 104, o con invalidita' superiore al 66 per cento. La stessa cifra si aggiunge nel caso in cui uno dei genitori dell'alunno versi nella stessa situazione di handicap o di invalidita'.
+
 Il richiedente attesta la situazione economica equivalente del nucleo familiare con dichiarazione sostitutiva a norma della legge 4 gennaio 1968, n. 15, resa su modello conforme all'allegato B.
 
 Il richiedente dichiara altresi' di avere conoscenza che, nel caso di corresponsione dei benefici, si applica l'articolo 4, comma 2, del decreto legislativo 31 marzo 1998, n. 109, in materia di controllo della veridicita' delle informazioni fornite.
@@ -62,6 +112,38 @@ Ai sensi dell'articolo 1, comma 11, della legge 10 marzo 2000, n. 62, restano fe
 
 ## Art. 5. — Modalita' per la fruizione dei benefici e per
  la indicazione del loro utilizzo
+
+1.
+                    
+                        
+                            Le regioni e le province autonome di Trento e Bolzano definiscono, nel quadro dei principi dettati dall'articolo 1 della legge 10 marzo 2000, n. 62, gli interventi per l'assegnazione delle borse di studio sulla base delle seguenti modalita' e finalita':
+ 
+                        
+                        
+                            a)
+                            
+                                individuazione delle specifiche condizioni economiche per l'assegnazione prioritaria delle borse di studio ai sensi dell'articolo 1, comma 3;
+
+                            
+                        
+                        
+                            b)
+                            
+                                individuazione delle tipologie di spese effettivamente sostenute, alla cui copertura parziale o totale sono destinate le borse di studio, ricomprendendo tra queste le spese per la frequenza, i trasporti, le mense e i sussidi scolastici;
+
+                            
+                        
+                        
+                            c)
+                            
+                                determinazione dell'importo massimo delle borse di studio erogabili, eventualmente differenziato per ciascun ordine e grado di scuola frequentata;
+
+                            
+                        
+                        
+                            d)
+                            
+                                individuazione dei criteri per la ripartizione delle somme di cui all'articolo 4, comma 1, agli enti erogatori dei benefici.
 
 Il tetto minimo di spesa effettivamente sostenuta ai fini dell'ammissione al beneficio di cui al presente decreto e' stabilito in L. 100.000.
 

@@ -7,8 +7,8 @@ urn: urn:nir:ministero.giustizia:decreto:2019-09-20;170
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:40Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -47,6 +47,77 @@ Il notaio e il capo dell'archivio notarile, ai quali non pervenga la ricevuta di
 
 Il registro generale dei testamenti comunica al richiedente, con messaggio di posta elettronica certificata, il numero e la data di registrazione della richiesta di iscrizione e il numero di repertorio dell'atto a cui si riferisce la richiesta o il motivo che la rende irricevibile. Il documento informatico contenente la comunicazione di irricevibilita' della richiesta e' sottoscritto con firma digitale o con altro tipo di firma elettronica qualificata. Qualora non pervenga la ricevuta di avvenuta consegna entro ventiquattro ore dall'invio, il registro generale dei testamenti deve trasmettere nuovamente le predette comunicazioni in via telematica ovvero su supporto cartaceo.
 
+5.
+                    
+                        
+                            Sono da considerare irricevibili e si considerano non trasmesse le richieste di iscrizione non registrate esclusivamente per uno dei seguenti motivi: 
+ 
+                        
+                        
+                            a)
+                            
+                                richiesta non trasmessa con messaggio di posta elettronica certificata, in conformita' a quanto previsto dal comma 2; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                richiesta di iscrizione non elaborabile perche' il documento informatico e' difforme dalle specifiche tecniche disposte con il provvedimento di cui all'articolo 6, comma 2; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                richiesta di iscrizione non sottoscritta con le modalita' previste dal comma 1 ovvero sottoscritta con firma basata su un certificato elettronico revocato, scaduto o sospeso; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                richiesta di iscrizione sottoscritta da soggetto non legittimato a trasmettere la richiesta di iscrizione.
+
+6.
+                    
+                        
+                            Il presidente del consiglio notarile comunica all'archivio notarile distrettuale: 
+ 
+                        
+                        
+                            a)
+                            
+                                l'iscrizione a ruolo del notaio; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                la sospensione, l'interdizione temporanea, l'interdizione dai pubblici uffici o altro provvedimento comportante sospensione del notaio dall'esercizio ai sensi della legge penale e la revoca o cessazione dei provvedimenti medesimi; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                la cessazione definitiva dall'esercizio del notaio ovvero il trasferimento ad altro distretto; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                la nomina del notaio depositario, la consegna e la restituzione degli atti, previsti dall'articolo 43 della legge 16 febbraio 1913, n. 89; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                la nomina del notaio delegato o del coadiutore, previsti dagli articoli 44 e 45 della legge 16 febbraio 1913, n. 89 e la revoca dei predetti provvedimenti.
+
 Le comunicazioni di cui al comma 6 sono eseguite immediatamente e comunque non oltre tre giorni dalla data del provvedimento del presidente del consiglio notarile o del consiglio notarile, dell'esecuzione delle sanzioni e delle misure cautelari, della consegna degli atti o della loro restituzione, della ricezione da parte del consiglio notarile del provvedimento emesso da altra autorita'.
 
 Le comunicazioni di cui al comma 6 devono essere eseguite a mezzo di posta elettronica certificata, ai sensi dell'articolo 48 del decreto legislativo 7 marzo 2005, n. 82. Nel caso in cui non pervenga la ricevuta di avvenuta consegna entro ventiquattro ore dall'invio, la comunicazione deve essere trasmessa nuovamente in via telematica ovvero su supporto cartaceo.
@@ -78,6 +149,45 @@ Il capo dell'archivio notarile effettua i controlli previsti dall'articolo 14 de
 ## Art. 6. — Regole tecniche
 
 I documenti informatici e quelli su supporto cartaceo contenenti le richieste di iscrizione devono essere trasmessi e conservati con modalita', conformi alle idonee misure di sicurezza di cui all'articolo 32 del regolamento (UE) 2016/679 del Parlamento europeo e del Consiglio, del 27 aprile 2016, che assicurino la sicurezza, la riservatezza e l'integrita' dei dati e il rispetto dei principi di segretezza dettati dalla legge 25 maggio 1981, n. 307 e dal decreto del Presidente della Repubblica 18 dicembre 1984, n. 956, con le garanzie necessarie ad impedire la conoscenza dei dati da parte di soggetti diversi da quelli che ne hanno diritto.
+
+2.
+                    
+                        
+                            Con provvedimento del direttore generale dell'Ufficio centrale degli archivi notarili, adottato entro centottanta giorni dall'entrata in vigore del presente regolamento e pubblicato nella Gazzetta Ufficiale, acquisito il parere dell'AgID e del Garante per la protezione dei dati personali, in conformita' alle regole tecniche previste dall'articolo 71 del codice dell'amministrazione digitale, sono fissate: 
+ 
+                        
+                        
+                            a)
+                            
+                                le modalita' tecnico-operative per la redazione, sottoscrizione, trasmissione e conservazione delle richieste di iscrizione, delle comunicazioni di cui all'articolo 2, comma 4, delle comunicazioni che gli archivi notarili devono effettuare all'Ufficio centrale degli archivi notarili in merito ai versamenti eseguiti dai notai, per la gestione e conservazione dei dati e per assicurare la loro segretezza; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                i requisiti di legittimazione e le credenziali di autenticazione con le quali il personale degli archivi notarili puo' consultare in via telematica i dati inseriti nel registro generale dei testamenti; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                le modalita' informatiche e telematiche di consultazione dei dati dell'indice previsto dal terzo comma dell'articolo 154 del regolamento approvato con regio decreto 10 settembre 1914, n. 1326, e dall'articolo 27 del regio decreto-legge 23 ottobre 1924, n. 1737, convertito dalla legge 18 marzo 1926, n. 562; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                la data a decorrere dalla quale la richiesta d'iscrizione puo' essere eseguita per via telematica; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                la data a decorrere dalla quale le nuove modalita' di cui alla lettera b) sono operative.
 
 ## Art. 7.
 

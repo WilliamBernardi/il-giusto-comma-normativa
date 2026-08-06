@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: DPR
 vigenza_date: 2023-07-14
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:47:44Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -32,6 +32,31 @@ Sulla proposta del Presidente del Consiglio dei Ministri, e del Ministro per la 
 
 L'assunzione a tempo determinato e indeterminato nelle amministrazioni pubbliche avviene mediante concorsi pubblici, orientati alla massima partecipazione e alla individuazione delle competenze qualificate, che si svolgono secondo le modalita' definite nel presente regolamento, nel rispetto delle disposizioni e dei criteri di cui agli articoli 35, 35-ter e 35-quater del decreto legislativo 30 marzo 2001, n. 165.
 
+2.
+                        
+                            
+                                L'amministrazione che indice il concorso adotta, tra le seguenti, la tipologia selettiva piu' funzionale alla natura dei profili professionali richiesti nel bando di concorso: 
+ 
+                            
+                            
+                                a)
+                                
+                                    concorso per esami; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    concorso per titoli ed esami; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    corso-concorso.
+
 Il concorso pubblico si svolge con modalita' che ne garantiscano l'imparzialita', l'efficienza, l'efficacia nel soddisfare i fabbisogni dell'amministrazione reclutante e la celerita' di espletamento ricorrendo, ove necessario, all'ausilio di sistemi automatizzati diretti anche a realizzare forme di preselezione e a selezioni decentrate per circoscrizione territoriali.
 
 Per le aree o categorie per l'accesso alle quali e' richiesto il solo requisito dell'assolvimento dell'obbligo scolastico, fatti salvi gli eventuali ulteriori requisiti per specifiche professionalita', si procede mediante avviamento a selezione degli iscritti negli elenchi tenuti dai centri per l'impiego che siano in possesso del titolo di studio richiesto dalla normativa vigente al momento della pubblicazione dell'avviso.
@@ -45,6 +70,45 @@ Per le assunzioni del personale di cui all'articolo 3, commi 1, 1-bis e 2, del d
 ## Art. 2. — (( (Requisiti generali per l'accesso al pubblico impiego). ))
 
 ((
+
+1.
+                        
+                            
+                                Possono accedere agli impieghi nelle pubbliche amministrazioni i soggetti che posseggono i seguenti requisiti generali: 
+ 
+                            
+                            
+                                a)
+                                
+                                    cittadinanza italiana o possesso dei requisiti previsti dall'articolo 38, commi 1, 2 e 3-bis, del decreto legislativo 30 marzo 2001, n. 165; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    maggiore eta'; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    godimento dei diritti civili e politici; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    idoneita' fisica allo specifico impiego, ove richiesta per lo svolgimento della prestazione; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    possesso del titolo di studio richiesto dal bando per accedere al concorso e dei titoli esperienziali eventualmente richiesti.
 
 Per i candidati non cittadini italiani e non titolari dello status di rifugiato o di protezione sussidiaria, il godimento dei diritti civili e politici di cui al comma 1, lettera c), e' riferito al Paese di cittadinanza.
 
@@ -71,6 +135,59 @@ Non possono essere assunti nelle pubbliche amministrazioni coloro che siano stat
 
 Il bando di concorso e' pubblicato nel Portale unico del reclutamento, di cui all'articolo 35-ter del decreto legislativo 30 marzo 2001, n. 165. La pubblicazione delle procedure di reclutamento nei siti istituzionali e sul Portale unico del reclutamento esonera le amministrazioni pubbliche, inclusi gli enti locali, dall'obbligo di pubblicazione delle selezioni pubbliche nella Gazzetta Ufficiale.
 
+2.
+                        
+                            
+                                Il bando di concorso deve contenere almeno: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il termine di presentazione della domanda, non inferiore a 10 e non superiore a 30 giorni dalla pubblicazione del bando sul Portale, e le modalita' di presentazione delle domande attraverso il medesimo Portale; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    i requisiti generali richiesti per l'assunzione e i requisiti particolari eventualmente richiesti dalla specifica posizione da coprire; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il numero e la tipologia delle prove previste, ivi compreso l'accertamento della conoscenza di almeno una lingua straniera ai sensi dell'articolo 37, del decreto legislativo 30 marzo 2001, n. 165, nonche' la struttura delle prove stesse, le competenze oggetto di verifica, ivi incluse quelle di cui all'articolo 7, comma 8, i punteggi attribuibili e il punteggio minimo richiesto per l'ammissione a eventuali successive fasi concorsuali e per il conseguimento dell'idoneita'; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    i titoli stabiliti nel bando che danno luogo a precedenza o a preferenza a parita' di punteggio diversi da quelli di cui all'articolo 5, rispetto a questi anche prioritari, e comunque strettamente pertinenti ai posti banditi; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    le percentuali dei posti riservati al personale interno, in conformita' alle normative vigenti nei singoli comparti, e le percentuali dei posti riservati da leggi a favore di determinate categorie nel rispetto delle disposizioni di cui all'articolo 5; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    fermo restando la disciplina di cui all'articolo 16, della legge 12 marzo 1999, n. 68, prevista per i soggetti con disabilita', a pena di nullita' dei concorsi, le misure per assicurare a tutti i soggetti con disturbi specifici dell'apprendimento (DSA) nelle prove scritte, la possibilita' di sostituire tali prove con un colloquio orale o di utilizzare strumenti compensativi per le difficolta' di lettura, di scrittura e di calcolo, nonche' di usufruire di un prolungamento dei tempi stabiliti per lo svolgimento delle medesime prove ai sensi dell'articolo 7; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    il numero dei posti, i profili e le sedi di prevista assegnazione nel caso di copertura di tutti i posti banditi.
+
 La Presidenza del Consiglio dei ministri o l'amministrazione interessata dispongono in ogni momento, con provvedimento motivato, l'esclusione dal concorso per difetto dei requisiti prescritti.
 
 I bandi di concorso danno sempre conto delle percentuali di personale in servizio appartenente alle categorie riservatarie di cui all'articolo 5, comma 2, nonche' della rappresentativita' di genere nell'amministrazione che bandisce, riferita alle categorie dei posti messi a concorso, ai sensi dell'articolo 6.
@@ -89,6 +206,80 @@ Ciascuna amministrazione, inoltre, deve garantire un servizio di assistenza di t
 ((
 
 Alle procedure di concorso si partecipa esclusivamente previa registrazione nel Portale unico del reclutamento, di cui all'articolo 35-ter del decreto legislativo 30 marzo 2001, n. 165, di seguito denominato Portale, disponibile all'indirizzo www.InPA.gov.it sviluppato dal Dipartimento della funzione pubblica della Presidenza del Consiglio dei ministri, che ne cura la gestione. La registrazione allo stesso e' gratuita e puo' essere realizzata esclusivamente mediante i sistemi di identificazione SPID, CIE e CNS di cui all'articolo 64, commi 2-quater e 2-nonies, del decreto legislativo 7 marzo 2005, n. 82 ovvero mediante un'identita' digitale basata su credenziali di livello almeno significativo nell'ambito di un regime di identificazione elettronica oggetto di notifica, conclusa con esito positivo, ai sensi dell'articolo 9 del regolamento (UE), n. 910/2014 del Parlamento europeo e del Consiglio, del 23 luglio 2014.
+
+2.
+                        
+                            
+                                All'atto della registrazione al Portale l'interessato compila il proprio curriculum vitae, con valore di dichiarazione sostitutiva di certificazione ai sensi dell'articolo 46 del testo unico di cui al decreto del Presidente della Repubblica 28 dicembre 2000, n. 445, indicando: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il cognome, il nome, il codice fiscale; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il luogo e la data di nascita; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    di essere cittadino italiano o di altro Stato membro dell'Unione europea, ai sensi dell'articolo 38 del decreto legislativo 30 marzo 2001, n. 165, ovvero di essere titolare dello status di rifugiato ovvero dello status di protezione sussidiaria, o di essere cittadino di Paesi terzi in possesso del permesso di soggiorno UE per soggiornanti di lungo periodo e dei requisiti di cui all'articolo 2, comma 2; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    indirizzo di residenza o di domicilio, se diverso dalla residenza, il proprio indirizzo PEC o un domicilio digitale a lui intestato al quale intende ricevere le comunicazioni relative al concorso, unitamente a un recapito telefonico; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    il comune nelle cui liste elettorali e' iscritto, oppure i motivi della non iscrizione o della cancellazione dalle liste medesime; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    di non essere stato destituito o dispensato dall'impiego presso una pubblica amministrazione per persistente insufficiente rendimento o dichiarato decaduto per aver conseguito la nomina o l'assunzione mediante la produzione di documenti falsi o viziati da nullita' insanabile, ovvero licenziato ai sensi della vigente normativa di legge o contrattuale; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    il titolo di studio posseduto o l'abilitazione professionale richiesti ai fini della partecipazione alla procedura selettiva, con indicazione dell'universita' o dell'istituzione che lo ha rilasciato e la data del conseguimento. Se il titolo di studio e' stato conseguito all'estero il candidato indica gli estremi del provvedimento con il quale il titolo stesso e' stato riconosciuto equipollente al corrispondente titolo italiano o dichiara che provvedera' a richiedere l'equiparazione; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    la specializzazione posseduta o la professionalita' esercitata richieste dal bando; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    le documentate esperienze professionali e gli altri titoli da valutare in base a quanto previsto dal bando e dalla normativa applicabile; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    di non aver riportato condanne penali con sentenza passata in giudicato e di non avere in corso procedimenti penali, ne' procedimenti amministrativi per l'applicazione di misure di sicurezza o di prevenzione, nonche' precedenti penali a proprio carico iscrivibili nel casellario giudiziale, ai sensi dell'articolo 3 del decreto del Presidente della Repubblica 14 novembre 2002, n. 313. In caso contrario, devono essere indicate le condanne, i procedimenti a carico e ogni eventuale precedente penale, precisando la data del provvedimento e l'autorita' giudiziaria che lo ha emanato ovvero quella presso la quale penda un eventuale procedimento penale.
 
 La registrazione al Portale comporta il consenso al trattamento dei dati personali nel rispetto della disciplina del regolamento (UE) n. 2016/679 del Parlamento europeo e del Consiglio, del 27 aprile 2016, e del decreto legislativo 30 giugno 2003, n. 196.
 
@@ -109,6 +300,24 @@ Le modalita' di accesso e di utilizzo del Portale da parte delle regioni e degli
 Nei pubblici concorsi, le riserve di posti in favore di particolari categorie di cittadini, comunque denominate, non possono complessivamente superare la meta' dei posti messi a concorso.
 
 Se, in relazione a tale limite, sia necessaria una riduzione dei posti da riservare secondo la legge, essa si attua in misura proporzionale per ciascuna delle categorie delle riserve previste dal bando.
+
+3.
+                        
+                            
+                                Qualora tra i concorrenti dichiarati idonei nella graduatoria di merito ve ne siano alcuni che appartengono a piu' categorie che danno titolo a differenti riserve di posti, si tiene conto prima del titolo che da' diritto ad una maggiore riserva nel seguente ordine: 
+ 
+                            
+                            
+                                a)
+                                
+                                    riserva di posti a favore di coloro che appartengono alle categorie di cui alla legge 12 marzo 1999, n. 68, o equiparate; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    riserva di posti ai sensi degli articoli 1014 e 678 del codice dell'ordinamento militare, di cui al decreto legislativo 15 marzo 2010, n. 66.
 
 4. A parita' di titoli e di merito, e in assenza di ulteriori benefici previsti da leggi speciali, l'ordine di preferenza dei titoli e' il seguente:
 
@@ -190,6 +399,51 @@ Le disposizioni di cui al presente articolo si applicano anche alla procedura di
 Nei casi in cui le prove scritte abbiano luogo in piu' sedi, in ognuna di esse e' costituito un comitato di vigilanza, presieduto da un membro della commissione e composto almeno da due dipendenti di qualifica o categoria non inferiore a quella per la quale il concorso e' stato bandito. I membri del comitato sono individuati dall'amministrazione procedente tra il proprio personale in servizio presso la sede di esame o, in caso di comprovate esigenze di servizio, anche tra quello di sedi o amministrazioni diverse.
 
 Le commissioni esaminatrici delle procedure selettive previste dal presente regolamento sono nominate con decreto del Presidente del Consiglio dei ministri nei casi di cui all' articolo 19, e con provvedimento adottato dalla stessa autorita' che ha bandito il concorso negli altri casi. Questi ne da' comunicazione alla Presidenza del Consiglio dei ministri - Dipartimento della funzione pubblica.
+
+7.
+                        
+                            
+                                Nel rispetto delle disposizioni del presente articolo, le commissioni esaminatrici prevedono, con l'individuazione preferenziale di personale di qualifica pari o superiore a quella cui il concorso e' riferito, la partecipazione di: 
+ 
+                            
+                            
+                                a)
+                                
+                                    personale dirigenziale o equiparato, con funzione di presidente, appartenente all'amministrazione che ha bandito il concorso o anche appartenente ad altra amministrazione; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    docenti ed esperti nelle materie oggetto del concorso;
+                                
+                            
+                            
+                                c)
+                                
+                                    professionisti esperti o appartenenti a soggetti esterni specializzati nella valutazione delle capacita', attitudini, motivazioni individuali e dello stile comportamentale, ove previsto; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    personale non dirigenziale appartenente all'amministrazione che ha bandito il concorso, anche con funzione di segretario; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    specialisti in psicologia e risorse umane, ove previsto; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    esperti in competenze digitali e trasversali in ambito di comunicazione e gestione del personale.
 
 In relazione al numero dei partecipanti alle selezioni o per particolari esigenze organizzative opportunamente motivate, le commissioni esaminatrici dei concorsi per esami o per titoli ed esami possono essere suddivise in sottocommissioni, con l'integrazione di un numero di componenti pari a quello delle commissioni originarie e di un segretario aggiunto.
 
@@ -393,6 +647,31 @@ Gli avviamenti sono effettuati sulla base delle graduatorie circoscrizionali, op
 Iscrizione nelle ((elenchi))
 
 ((I centri per l'impiego formano una graduatoria relativa a ciascuna area o categoria e profili generici e diverse graduatorie, distinte per area o categoria, e profili che richiedono specifiche professionalita', nelle quali l'inserimento, a differenza della prima, e' operato sulla base del possesso di qualifica riconosciuta con attestati o sulla base di precedenti lavorativi, anche nell'impiego privato.)). Le graduatorie sono formate sulla base degli elementi di cui alla tabella allegata al presente decreto, valutati uniformemente in tutto il territorio nazionale secondo i coefficienti ivi indicati.
+
+2.
+                        
+                            
+                                Hanno titolo a partecipare alle selezioni per l'assunzione: 
+ 
+                            
+                            
+                                a)
+                                
+                                    presso le amministrazioni e gli enti a carattere infraregionale o uffici periferici anche di amministrazioni e di enti a carattere nazionale e pluriregionale, il cui ambito territoriale di competenza e' compreso o coincide con quello di una ((centro)) per l'impiego, i lavoratori inseriti nella graduatoria della selezione stessa; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    presso le amministrazioni e gli enti, o uffici periferici, il cui ambito territoriale e' compreso o coincide con quello di piu' sezioni della stessa provincia o della stessa regione, i lavoratori inseriti nelle graduatorie di tutte le ((centri)) per l'impiego rispettivamente interessate; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    presso le sedi ministeriali delle amministrazioni centrali dello Stato, le sedi delle direzioni generali e centrali delle amministrazioni ad ordinamento autonomo e degli enti a carattere nazionale o ultraregionale e le strutture alle sedi stesse direttamente riferibili, i lavoratori iscritti nella graduatoria di qualsiasi ((centro)) per l'impiego operante nel territorio nazionale.
 
 Il lavoratore aspirante all'avviamento al lavoro deve dichiarare alla sezione di iscrizione, ai sensi ((del decreto del Presidente della Repubblica 28 dicembre 2000, n. 445)), il possesso dei requisiti generali di ammissione agli impieghi e la non sussistenza delle ipotesi di esclusione. E' comunque riservato all'amministrazione o ente che procede all'assunzione di provvedere all'accertamento di titoli e requisiti nei modi di legge.
 

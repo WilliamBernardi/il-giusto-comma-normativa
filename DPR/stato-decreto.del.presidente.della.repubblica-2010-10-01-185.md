@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: DPR
 vigenza_date: 2025-05-03
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:47:47Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -957,6 +957,31 @@ Le misure dell'importo aggiuntivo pensionabile di cui all'articolo 4, comma 2, d
 
 ## Art. 5. — Fondo per l'efficienza 
  dei servizi istituzionali
+
+1.
+                        
+                            
+                                Il Fondo per l'efficienza dei servizi istituzionali di cui all'articolo 5, del decreto del Presidente della Repubblica 11 settembre 2007, n. 171, come modificato dall'articolo 5 del decreto del Presidente della Repubblica 16 aprile 2009, n. 52, e' ulteriormente incrementato delle seguenti risorse economiche annue: 
+ 
+                            
+                            
+                                a)
+                                
+                                    per l'anno 2008, euro 740.000,00; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    per l'anno 2009, euro 535.000,00; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    a decorrere dal 31 dicembre 2009 ed a valere dall'anno 2010, euro 3.660.000,00.
 
 Gli importi di cui alle lettere a), b) e c) del comma 1, non comprendono gli oneri contributivi e l'IRAP a carico dello Stato.
 Quelli afferenti alle lettere a) e b) non hanno effetto di trascinamento negli anni successivi.

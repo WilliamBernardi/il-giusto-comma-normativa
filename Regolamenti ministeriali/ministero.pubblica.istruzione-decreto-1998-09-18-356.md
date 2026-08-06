@@ -8,8 +8,8 @@ codice_redazionale: 098G0407
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:39Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -34,6 +34,31 @@ Il candidato deve realizzare, a propria scelta, uno dei seguenti tipi di elabora
  B) Sviluppo di un argomento scelto dal candidato tra quelli proposti all'interno di grandi ambiti di riferimento storicopolitico, socioeconomico, artisticoletterario, tecnicoscientifico. L'argomento puo' essere svolto in una forma scelta dal candidato tra modelli di scrittura diversi: saggio breve, relazione, articolo di giornale, intervista, lettera. Per l'anno scolastico 1998-99 le forme di scrittura da utilizzarsi da parte del candidato sono quelle del saggio breve o dell'articolo di giornale.
  C) Sviluppo di un argomento di carattere storico, coerente con i programmi svolti nell'ultimo anno di corso.
  D) Trattazione di un tema su un argomento di ordine generale, attinto al corrente dibattito culturale, per il quale possono essere fornite indicazioni di svolgimento.
+
+3.
+                    
+                        
+                            Nella produzione dell'elaborato il candidato deve dimostrare:
+ 
+                        
+                        
+                            a)
+                            
+                                correttezza e proprieta' nell'uso della lingua;
+
+                            
+                        
+                        
+                            b)
+                            
+                                possesso di adeguate conoscenze relative sia all'argomento scelto che al quadro di riferimento generale in cui esso si inserisce;
+
+                            
+                        
+                        
+                            c)
+                            
+                                attitudini allo sviluppo critico delle questioni proposte e alla costruzione di un discorso organico e coerente, che sia anche espressione di personali convincimenti.
 
 Nello svolgimento della prova di cui al comma 2, lettera A), il candidato deve dimostrare di essere in possesso di conoscenze e competenze idonee alla individuazione della natura del testo e delle sue strutture formali.
  Avvertenza:

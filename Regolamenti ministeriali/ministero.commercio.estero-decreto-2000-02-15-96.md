@@ -8,8 +8,8 @@ codice_redazionale: 000G0140
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:40Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -40,6 +40,41 @@ L'albo delle camere di commercio italo-estere o estere in Italia (di seguito: al
 Le associazioni cui partecipino enti e imprese italiane e di altro Stato riconosciuto dallo Stato italiano presentano la domanda di iscrizione all'albo al Ministero del commercio con l'estero, direzione generale per la promozione degli scambi e l'internazionalizzazione delle imprese.
 
 La denominazione "camera di commercio" puo' essere assunta dopo l'iscrizione all'albo e deve essere abbandonata se l'iscrizione viene successivamente revocata.
+
+3.
+                    
+                        
+                            Alla domanda sono allegati i seguenti documenti:
+
+                        
+                        
+                            a)
+                            
+                                atto costitutivo e statuto in copia autenticata con specifica menzione dell'eventuale statuizione relativa al divieto di distribuire, anche in modo indiretto, utili o avanzi di gestione nonche' fondi, riserve o capitale durante la vita dell'associazione;
+                            
+                        
+                        
+                            b)
+                            
+                                nominativi dei soci, in elenco firmato dal legale rappresentante, con specifica menzione degli enti e delle imprese iscritte nel registro delle imprese presso le camere di commercio, industria, artigianato ed agricoltura;
+                            
+                        
+                        
+                            c)
+                            
+                                nominativi di coloro che compongono gli organi statutari, in elenco firmato dal legale rappresentante;
+                            
+                        
+                        
+                            d)
+                            
+                                bilanci e relazioni annuali sulla attivita' programmata e su quella eseguita relativamente almeno ai due anni precedenti a quello in cui viene domandata l'iscrizione all'albo, unitamente ai verbali dell'assemblea e dell'organo di controllo;
+                            
+                        
+                        
+                            e)
+                            
+                                eventuale riconoscimento dello Stato estero.
 
 ## Art. 3. — Iscrizione all'albo
 

@@ -7,8 +7,8 @@ urn: urn:nir:stato:decreto.del.presidente.della.repubblica:2013-03-13;49
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti governativi
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:09Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -28,11 +28,117 @@ Sulla proposta del Ministro della difesa, di concerto con i Ministri per gli aff
 
 ## Art. 1. — Definizioni
 
+1.
+                        
+                            
+                                Ai fini del presente regolamento si applicano le seguenti definizioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    «decreto legislativo»: il decreto legislativo 15 novembre 2011, n. 208, recante la disciplina dei contratti pubblici relativi a lavori, servizi e forniture nei settori della difesa e sicurezza in attuazione della direttiva 2009/81/CE; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    «codice»: il decreto legislativo 12 aprile 2006, n. 163, recante il codice dei contratti pubblici in attuazione delle direttive 2004/17/CE e 2004/18/CE; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    «regolamento generale»: il decreto del Presidente della Repubblica 5 ottobre 2010, n. 207, recante il regolamento di cui all'articolo 5 del codice; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    «regolamento per gli appalti della difesa»: il decreto del Presidente della Repubblica 15 novembre 2012, n. 236, recante regolamento per la disciplina delle attivita' del Ministero della difesa in relazione a lavori, servizi e forniture, emanato ai sensi dell'articolo 196 del codice; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    «codice dell'ordinamento militare»: il decreto legislativo 15 marzo 2010, n. 66, e successive modificazioni, recante il Codice dell'ordinamento militare; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    «testo unico dell'ordinamento militare»: il decreto del Presidente della Repubblica 15 marzo 2010, n. 90, e successive modificazioni, recante il testo unico delle disposizioni regolamentari in materia di ordinamento militare, a norma dell'articolo 14 della legge 28 novembre 2005, n. 246; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    «intese internazionali»: protocolli, memorandum, intese, o altri documenti comunque denominati, posti in essere dalle Amministrazioni della difesa dell'Italia con uno o piu' Paesi terzi, o dell'Italia e di uno o piu' Stati membri con uno o piu' Paesi terzi, discendenti da accordi sottoposti a ratifica; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    «autorita' di vertice»: il Capo di Stato maggiore della difesa, il Segretario generale della difesa e Direttore nazionale degli armamenti, i Capi di Stato maggiore delle Forze armate e il Comandante generale dell'Arma dei carabinieri; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    «operatore economico»: persona fisica o giuridica, o ente pubblico, o raggruppamento di tali persone o enti, o rete di imprese, che offre sul mercato la realizzazione di lavori o opere, la fornitura di prodotti o la prestazione di servizi; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    «area delle operazioni»: ambito operativo territoriale definito dagli organi di vertice in sede di pianificazione dell'operazione militare all'estero; 
+
+                                
+                            
+                            
+                                m)
+                                
+                                    «operatore economico localizzato»: operatore economico che, nell'area delle operazioni, dispone di risorse idonee a soddisfare prontamente e' adeguatamente le esigenze operative.
+
 Per quanto non espressamente definito al comma 1, si applica l'articolo 1 del decreto legislativo.
 
 ## Art. 2.
 
 Finalita' e ambito di applicazione
+
+1.
+                        
+                            
+                                Ai sensi dell'articolo 4, comma 1, del decreto legislativo, il presente regolamento detta la disciplina esecutiva e attuativa in materia di contratti, compresi quelli affidati con procedure in economia nel settore della difesa, limitatamente agli istituti che richiedono una disciplina speciale rispetto a quella contenuta nei regolamenti di esecuzione di cui agli articoli 5 e 196 del codice, aventi per oggetto: 
+ 
+                            
+                            
+                                a)
+                                
+                                    forniture di materiale militare e loro parti, di componenti o di sottoassiemi; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    lavori, forniture e servizi direttamente correlati al materiale di cui alla lettera a), per ognuno e per tutti gli elementi del suo ciclo di vita; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    lavori e servizi per fini specificatamente militari.
 
 Le autorita' di vertice, interforze e di Forza armata, nell'ambito delle rispettive competenze, dichiarano la natura dei lavori, servizi o forniture, ai fini dell'applicazione delle lettere b) e c) del comma 1.
 
@@ -108,6 +214,31 @@ Per i contratti di importo inferiore a un milione di euro, e' in facolta' della 
 
 ## Art. 10. — Lavori in economia
 
+1.
+                        
+                            
+                                Fermo restando quanto previsto dall'articolo 7, comma 2, i lavori di cui all'articolo 2, comma 1, lettere b) e c), possono essere eseguiti in economia secondo le modalita' di cui agli articoli 65, 66 e 67 del regolamento per gli appalti della difesa, entro i seguenti limiti massimi di importo: 
+ 
+                            
+                            
+                                a)
+                                
+                                    200.000 euro, per i lavori a mezzo cottimo fiduciario; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    200.000 euro per i lavori in amministrazione diretta; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    senza limiti di importo, per i lavori eseguiti a mezzo reparti del Genio militare.
+
 Per i lavori il cui valore e' superiore a 80.000 euro e fino a 200.000 euro, l'affidamento mediante cottimo fiduciario avviene nel rispetto dei principi di trasparenza, rotazione e parita' di trattamento, previa consultazione di almeno cinque operatori economici, se sussistono in tale numero soggetti idonei, individuati sulla base di indagini di mercato ovvero tramite elenchi di operatori economici predisposti dalla stazione appaltante. Per i lavori il cui importo e' inferiore o uguale a 80.000 euro, e' consentito l'affidamento diretto da parte del responsabile del procedimento.
 
 ## Art. 11. — Certificato di regolare esecuzione
@@ -122,7 +253,71 @@ Per le opere non eccedenti l'importo di cui all'articolo 10, comma 1, lettera b)
 
 ## Art. 13. — Enti committenti, esecutori e fruitori del contratto
 
+1.
+                        
+                            
+                                In caso di contratti che soddisfano le esigenze di una o piu' Forze armate, ovvero di uno o piu' enti, la stazione appaltante individua, in conformita' con le disposizioni del codice dell'ordinamento militare, uno o piu' enti committenti, esecutori e fruitori del contratto, i quali, anche fuori del territorio nazionale: 
+ 
+                            
+                            
+                                a)
+                                
+                                    curano l'esecuzione contrattuale secondo le modalita' stabilite dai documenti contrattuali; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    verificano il regolare svolgimento dei servizi; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    effettuano la verifica di conformita'; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    accertano, in termini di quantita' e qualita', il rispetto delle prescrizioni previste nei documenti contrattuali; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    svolgono, in modo autonomo, le funzioni che il regolamento generale attribuisce al direttore dell'esecuzione; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    svolgono le altre funzioni previste dai documenti contrattuali.
+
 ## Art. 14. — Esecuzione anticipata del contratto
+
+1.
+                        
+                            
+                                Il responsabile del procedimento puo' autorizzare, con provvedimento motivato, l'esecuzione anticipata dell'intera prestazione contrattuale dopo l'intervenuta efficacia dell'aggiudicazione definitiva, anche prima della stipula del contratto stesso: 
+ 
+                            
+                            
+                                a)
+                                
+                                    se il contratto ha per oggetto forniture di beni o servizi indicati all'articolo 2 che debbono essere immediatamente consegnati o eseguiti, in ragione della loro stessa natura ovvero del luogo in cui le prestazioni devono essere rese; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    nei casi di comprovata urgenza.
 
 Nelle ipotesi di esecuzione anticipata di cui al comma 1, il responsabile del procedimento, in caso di successiva mancata stipula del contratto, tiene conto di quanto gia' eventualmente predisposto o fornito ai fini del rimborso delle spese ai relativi esecutori o fornitori.
 
@@ -162,9 +357,94 @@ Se e' presente idonea professionalita' nell'ambito dell'organo di verifica, essa
 
 ## Art. 18. — Casi di utilizzo delle procedure di acquisto in economia e limiti di spesa
 
+1.
+                        
+                            
+                                Ferme restando le modalita' e le procedure previste dal regolamento per gli appalti della difesa, nei limiti di importo di cui all'articolo 10, comma 1, lettera a), del decreto legislativo, e' possibile acquisire in economia le seguenti tipologie di beni e servizi: 
+ 
+                            
+                            
+                                a)
+                                
+                                    corsi per l'addestramento militare e professionale in Italia o all'estero del personale militare e civile; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    beni e servizi necessari ad assicurare le attivita' operative inerenti alle manovre, alle esercitazioni, ai trasporti e ai connessi servizi di supporto tecnico-logistico; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    studi, consulenze specialistiche, indagini e rilevazioni, progettazioni e costruzioni di modelli e di prototipi di armi, macchine, apparati, impianti e materiali speciali, attinenti alla difesa militare; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    beni e servizi necessari per le riparazioni dei mezzi navali, degli aeromobili, del materiale di volo, delle telecomunicazioni e dell'assistenza al volo, dei veicoli dotati di ruote e cingolati, dei mezzi da combattimento, delle armi, degli impianti, dei gruppi elettrogeni; per il funzionamento dei laboratori, delle officine per la riparazione dei mezzi terrestri, navali e aerospaziali, degli impianti e delle apparecchiature a bordo e a terra; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    beni e servizi necessari per il funzionamento dei reparti di campagna, dei servizi sulle navi e sugli aeromobili, nonche' per i rifornimenti dei reparti, navi e aeromobili militari all'estero e delle unita' navali dislocate in localita' distanti da apprestamenti logistici navali; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    beni e servizi necessari per le esigenze dell'approntamento e del funzionamento dei contingenti costituiti all'occorrenza da un'unita' organica o da un complesso di unita' organiche, anche a carattere interforze, per particolari esigenze connesse a missioni e a operazioni in Italia o all'estero, o delle unita' assimilabili; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    beni e servizi necessari per la riparazione immediata e diretta dei danni causati da esercitazioni; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    beni e servizi per assicurare il servizio di casermaggio, nonche' i servizi relativi alla leva, all'arruolamento e al reclutamento, nonche' per la locazione di scorte, di carbolubrificanti, di ossigeno, di combustibili, di generi non deperibili e di materiali di commissariato e materiali per il supporto tecnico e logistico dei mezzi terrestri, navali e aeronautici; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    servizi di architettura e di ingegneria funzionali alle attivita' disciplinate dal presente regolamento.
+
 Ferme restando le modalita' e le procedure previste dal regolamento per gli appalti della difesa, e' altresi', consentito, in presenza di ragioni d'urgenza connesse a esigenze operative che rendano incompatibile lo svolgimento delle normali procedure con la salvaguardia dei requisiti di snellezza e celerita' richiesti, l'affidamento diretto, fino a un importo di 80.000 euro, da parte del responsabile del procedimento. La necessita' e l'urgenza devono risultare da atto motivato del comandante del contingente che dispone l'acquisizione di beni e servizi di cui al comma 1 o del responsabile dell'ente che la pone in essere.
 
 ## Art. 19. — Atti amministrativi di affidamento
+
+1.
+                        
+                            
+                                Il capo del servizio amministrativo, ovvero il funzionario che esplica funzioni equipollenti, sulla base delle risultanze della ricognizione dei preventivi, emette apposito atto dispositivo per la successiva acquisizione, che e' perfezionata: 
+ 
+                            
+                            
+                                a)
+                                
+                                    se l'importo della spesa non supera l'ammontare di 80.000 euro, mediante lettera di ordinazione; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    negli altri casi, mediante atto negoziale da stipulare nelle forme di cui all'articolo 11, comma 13, del codice.
 
 ## Art. 20. — Attestazione di regolare esecuzione
 

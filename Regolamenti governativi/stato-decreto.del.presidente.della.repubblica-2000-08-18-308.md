@@ -8,8 +8,8 @@ codice_redazionale: 000G0356
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti governativi
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:09Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -75,9 +75,40 @@ Le imposte di registro, ipotecaria, catastale, di bollo e comunale sull'incremen
 
 ## Art. 8. — Imposta di registro
 
+1.
+                        
+                            
+                                Al testo unico delle disposizioni concernenti l'imposta di registro approvato con decreto del Presidente della Repubblica 26 aprile 1986, n. 131, sono apportate le seguenti modifiche:
+ 
+                            
+                            
+                                a)
+                                
+                                    all'articolo 41:
+ 1) al comma 1, le parole: "10 mila" sono sostituite dalla parola "mille" e le parole: "5 mila" sono sostituite dalla parola: "cinquecento" e, dopo la parola "superiore", sono aggiunte le seguenti: ", ovvero all'unita', nel caso in cui i valori siano espressi in euro, per difetto se la frazione e' inferiore a 50 centesimi e per eccesso se non inferiore";
+ 2) al comma 2, le parole: "inferiore alla misura fissa indicata nella tariffa" sono sostituite dalle seguenti: "inferiore alla misura fissa indicata nell'articolo 11 della tariffa, parte prima, salvo quanto disposto dagli articoli 5 e 7 della tariffa stessa";
+
+                                
+                            
+                            
+                                b)
+                                
+                                    all'articolo 76, comma 2, dopo le parole: "presentati per la registrazione", sono inserite le seguenti parole: "o registrati per via telematica".
+
 ## Art. 9. — Imposta di bollo
 
 Nell'articolo 1, comma 1-bis, della tariffa dell'imposta di bollo, parte prima, annessa al decreto del Presidente della Repubblica 26 ottobre 1972, n. 642, dopo le parole: "all'articolo 2678 del codice civile", sono aggiunte le seguenti: "nonche' le conseguenti istanze per l'iscrizione dei diritti nel libro fondiario e relativi decreti".
 
 ## Art. 10. — Imposte ipotecaria e catastale
+
+1.
+                        
+                            
+                                Al testo unico delle disposizioni concernenti le imposte ipotecaria e catastale approvato con decreto legislativo 31 ottobre 1990, n. 347, e' apportata la seguente modifica:
+ 
+                            
+                            
+                                a)
+                                
+                                    all'articolo 18, la parola: "diecimila" e' sostituita dalla parola: "mille" e la parola: "cinquemila" e' sostituita dalla parola "cinquecento" e, dopo la parola: "superiore", sono aggiunte, le seguenti: ", ovvero all'unita', nel caso in cui i valori siano espressi in euro, per difetto se la frazione e' inferiore a 50 centesimi e per eccesso se non inferiore".
 

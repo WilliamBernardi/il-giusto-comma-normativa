@@ -9,7 +9,7 @@ vigente: true
 source: normattiva-opendata
 collection: Atti di recepimento direttive UE
 zip_date: 2026-07-30
-fetched_at: 2026-08-02T09:40:49Z
+fetched_at: 2026-07-30
 ---
 
 DECRETO LEGISLATIVO
@@ -35,7 +35,175 @@ Le inchieste, svolte sulla base della disciplina contenuta nel presente decreto,
 
 Il presente decreto si applica ai sinistri ed agli incidenti marittimi che coinvolgono navi di bandiera nazionale ovunque si trovino ovvero si verificano nel mare territoriale o nelle acque marittime interne dello Stato, quali definite nell'UNCLOS ovvero incidono su altri interessi rilevanti dello Stato.
 
+2.
+                    
+                        
+                            Il presente decreto non si applica ai sinistri ed agli incidenti marittimi che interessano soltanto: 
+ 
+                        
+                        
+                            a)
+                            
+                                navi militari o destinate al trasporto truppe o altre navi di proprieta' o gestite dagli Stati che siano utilizzate esclusivamente per servizi governativi non commerciali; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                navi senza mezzi di propulsione meccanica; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                navi in legno di costruzione primitiva; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                navi ed imbarcazioni da diporto non adibite al traffico commerciale, salvo che siano dotate di equipaggio e trasportino piu' di 12 passeggeri a fini commerciali; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                navi per la navigazione interna utilizzate nelle acque interne; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                navi da pesca di lunghezza inferiore a 15 metri; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                unita' fisse di perforazione.
+
 ## Art. 3. — Definizioni
+
+1.
+                    
+                        
+                            Ai fini del presente decreto si intende per: 
+ 
+                        
+                        
+                            a)
+                            
+                                codice IMO per le inchieste sui sinistri e sugli incidenti marittimi: il codice per le inchieste sui sinistri e sugli incidenti marittimi adottato con risoluzione A.849(20) dell'assemblea dell'IMO del 27 novembre 1997; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                sinistro grave: il sinistro di cui alla definizione contenuta nella circolare MSC-MEPC.3/Circ.3 del comitato per la sicurezza marittima e del comitato per la protezione dell'ambiente marino dell'IMO del 18 dicembre 2008; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                traghetto RO-RO: le navi di cui alla definizione contenuta nell'articolo 1 del decreto legislativo 2 febbraio 2001, n. 28, attuativo della direttiva 1999/35/CE; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                unita' veloce da passeggeri: le unita' veloci di cui alla definizione contenuta nell'articolo 1 del decreto legislativo 2 febbraio 2001, n. 28, attuativo della direttiva 1999/35/CE; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                registratore dei dati di viaggio (VDR): il registratore di cui alla definizione contenuta nella risoluzione A.861(20) dell'assemblea dell'IMO e nella risoluzione MSC.163(78) del comitato per la sicurezza marittima dell'IMO; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                raccomandazione in materia di sicurezza: qualsiasi proposta formulata, anche ai fini di registrazione e controllo: 
+ 1) dall'organismo inquirente di cui all'articolo 4, o dall'organismo inquirente dello Stato estero che in forza di preventivi accordi con l'Amministrazione svolge o dirige l'inchiesta di sicurezza in base alle informazioni derivanti da tale inchiesta; 
+ 2) dalla Commissione in base ad una analisi astratta dei dati e ai risultati delle inchieste di sicurezza realizzate; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                organismo investigativo: l'organismo investigativo sui sinistri marittimi, istituito presso il Ministero delle infrastrutture e dei trasporti di cui all'articolo 4 del presente decreto; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                investigatore: persona fisica, appartenente all'Organismo investigativo preposta all'organizzazione, allo svolgimento e al controllo di un'indagine o di parte di essa; 
+
+                            
+                        
+                        
+                            i)
+                            
+                                consulente: persona fisica non appartenente all'organismo investigativo, iscritto all'elenco degli esperti di cui all'articolo 4, comma 4, dotato di specifica esperienza nel settore marittimo, di cui puo' avvalersi l'organismo investigativo.
+
+2.
+                    
+                        
+                            Ai fini del presente decreto, le seguenti espressioni, vanno intese secondo le definizioni contenute nel codice IMO per le inchieste sui sinistri e sugli incidenti marittimi: 
+ 
+                        
+                        
+                            a)
+                            
+                                sinistro marittimo; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                sinistro molto grave; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                incidente marittimo; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                inchiesta di sicurezza sul sinistro o incidente marittimo; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                Stato che dirige l'inchiesta; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                Stato titolare di interessi rilevanti.
 
 ## Art. 4. — Organismo investigativo
 
@@ -58,6 +226,73 @@ L'Organismo investigativo e' responsabile della tenuta e del costante aggiorname
 
 Nel rispetto delle esigenze di riservatezza e del segreto delle attivita' di indagine, le attivita' investigative sono condotte tempestivamente, senza pregiudizio per la celerita' degli accertamenti volti ad acquisire dati, notizie ed informazioni rilevanti per l'inchiesta di sicurezza.
 
+2.
+                    
+                        
+                            L'organismo investigativo puo': 
+ 
+                        
+                        
+                            a)
+                            
+                                accedere liberamente a qualsiasi area pertinente o al luogo del sinistro nonche' a qualsiasi nave, relitto o struttura, ivi compresi il carico, l'attrezzatura o i rottami; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                stilare immediatamente l'elenco delle prove e provvedere alla ricerca e alla rimozione controllate del relitto, dei rottami o di altri elementi o sostanze a fini d'esame o analisi; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                richiedere l'esame o l'analisi degli elementi di cui alla lettera b) e avere libero accesso ai risultati di tali esami o analisi; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                accedere liberamente a qualsiasi pertinente informazione o dato registrato, compresi i dati del VDR, che si riferiscano alla nave, al viaggio, al carico, all'equipaggio o ad altre persone, oggetti, situazioni o circostanze, farne copia e uso; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                accedere liberamente ai risultati degli esami effettuati sui corpi delle vittime o delle analisi eseguite su campioni prelevati dai corpi delle vittime; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                richiedere i risultati di esami sulle persone partecipanti coinvolte nell'esercizio della nave o su altre persone interessate nonche' di analisi su campioni prelevati dalle stesse e accedere liberamente agli stessi; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                interrogare testimoni senza la presenza di persone i cui interessi possano presumibilmente pregiudicare il corretto svolgimento dell'inchiesta di sicurezza; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                ottenere i verbali delle ispezioni e tutte le informazioni pertinenti in possesso dello Stato di bandiera, degli armatori, delle societa' di classificazione o di altri soggetti pertinenti, sempre che tali soggetti o i loro rappresentanti risiedano nello Stato membro; 
+
+                            
+                        
+                        
+                            i)
+                            
+                                richiedere l'assistenza delle autorita' competenti degli Stati coinvolti, compresi gli ispettori dello Stato di bandiera e dello Stato di approdo, i funzionari del servizio guardiacostiero e di ricerca e soccorso, gli operatori del servizio di traffico marittimo, i piloti o altro personale portuale o marittimo.
+
 Nel caso di indagini penali in corso, l'organismo investigativo svolge le attivita' previste dal comma 2 in collaborazione con l'autorita' giudiziaria, la quale assicura che dette attivita' non siano indebitamente precluse, sospese o ritardate.
 
 I rapporti di cui all'articolo 14, anche in relazione agli accertamenti di fatto ivi contenuti ed alle conclusioni rappresentate non costituiscono fonte di prova in un eventuale procedimento amministrativo ovvero penale.
@@ -71,6 +306,31 @@ Al fine di garantire il migliore conseguimento degli obiettivi di cui all'artico
 L'organismo investigativo collabora con l'Autorita' giudiziaria e l'Autorita' marittima nello svolgimento delle inchieste correlate ai sinistri ed incidenti marittimi ed attiva a tal fine ogni procedura diretta a garantire idonee forme di collaborazione con dette autorita' per rendere reciprocamente disponibili, nel contesto delle rispettive attribuzioni, ogni elemento tecnico di cui si sia a conoscenza, senza pregiudizio alcuno per il buon esito delle rispettive indagini.
 
 ## Art. 7. — Obbligo di indagine
+
+1.
+                    
+                        
+                            L'inchiesta di sicurezza e' avviata obbligatoriamente quando un sinistro marittimo molto grave presenti almeno una delle seguenti caratteristiche: 
+ 
+                        
+                        
+                            a)
+                            
+                                si verifichi con il coinvolgimento di una nave battente la bandiera nazionale, indipendentemente dal luogo del sinistro; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                si verifichi nel mare territoriale e nelle acque marittime interne dello Stato quali definite nell'UNCLOS, indipendentemente dalla bandiera della nave o delle navi coinvolte nel sinistro; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                incida su un rilevante interesse nazionale, indipendentemente dal luogo in cui e' avvenuto il sinistro e dalla bandiera della nave o delle navi coinvolte.
 
 In caso di sinistri gravi l'organismo investigativo effettua una valutazione preliminare dei fatti e delle circostanze dell'evento finalizzata a determinare l'attivazione formale di una inchiesta di sicurezza. Qualora l'organismo investigativo ritenga di non avviare un'inchiesta di sicurezza, le ragioni di tale decisione sono registrate e notificate presso la banca dati europea per i sinistri marittimi utilizzando, allo scopo, il modello di cui all'allegato II del presente decreto. In caso di ogni altro sinistro ovvero incidente marittimo l'organismo investigativo decide se debba essere avviata o meno un'inchiesta di sicurezza con provvedimento motivato in base ai criteri di cui al comma 4.
 
@@ -98,6 +358,27 @@ L'organismo investigativo puo' richiedere assistenza e collaborazione all'omolog
 
 ## Art. 9. — Tutela della riservatezza
 
+1.
+                    
+                        
+                            Fatto salvo il disposto dell'articolo 6 e nel rispetto delle previsioni del decreto legislativo 30 giugno 2003, n. 196: 
+ 
+                        
+                        
+                            a)
+                            
+                                e' vietato divulgare, per finalita' diverse, atti e documenti relativi all'inchiesta, quali: 
+ 1) le prove testimoniali e le altre dichiarazioni, relazioni e annotazioni raccolte o ricevute dall'organismo investigativo; 
+ 2) i documenti da cui risulti l'identita' delle persone che hanno testimoniato nell'ambito dell'inchiesta; 
+ 3) i dati sensibili che riguardano persone coinvolte nel sinistro o incidente marittimo; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                nel corso dell'attivita' d'inchiesta e fino alla conclusione della stessa, i relativi atti e documenti, nonche' il contenuto delle relazioni non in versione definitiva, sono sottratti al diritto di accesso di cui all'articolo 24 della legge 7 agosto 1990, n. 241, e su di essi deve essere osservato il segreto d'ufficio.
+
 Le deposizioni testimoniali relative al sinistro o incidente marittimo, assunte dagli investigatori dell'organismo investigativo nel quadro delle indagini, non possono essere utilizzate per scopi diversi dalle inchieste di sicurezza e, in ogni caso, il loro trattamento deve avvenire secondo modalita' che escludano l'identificazione degli autori al fine di assicurare la riservatezza.
 
 Il Ministro delle infrastrutture e dei trasporti, in casi eccezionali, con provvedimento motivato, puo' derogare in tutto o in parte dai vincoli di riservatezza stabiliti nel comma 1, qualora la divulgazione si renda necessaria per l'attuazione di un interesse pubblico dello Stato ritenuto prevalente rispetto alle finalita' proprie del decreto.
@@ -105,6 +386,73 @@ Il Ministro delle infrastrutture e dei trasporti, in casi eccezionali, con provv
 ## Art. 10. — Sistema di cooperazione permanente
 
 L'organismo investigativo partecipa alla realizzazione di un sistema di cooperazione permanente con i corrispondenti organismi degli altri Stati membri al fine di individuare metodi e procedure diretti a migliorare le attivita' di investigazione, favorendo il perseguimento degli obiettivi del presente decreto.
+
+2.
+                    
+                        
+                            L'organismo investigativo, allo scopo di attuare il sistema di cooperazione permanente, svolge la necessaria attivita' di raccordo con le istituzioni dell'UE e con i corrispondenti Organismi degli altri Stati membri, in particolare per delineare le migliori procedure e modalita' per consentire: 
+ 
+                        
+                        
+                            a)
+                            
+                                la condivisione di impianti, di dispositivi e attrezzature per l'indagine tecnica sui relitti e sull'attrezzatura delle navi o su altri oggetti rilevanti ai fini dell'inchiesta di sicurezza nonche' l'estrazione e la valutazione delle informazioni contenute nei VDR e in altri dispositivi elettronici; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                la cooperazione tecnica o lo scambio di conoscenze tecniche per l'esecuzione di compiti specifici; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                l'acquisizione e la condivisione di informazioni utili per analizzare i dati relativi ai sinistri ed elaborare opportune raccomandazioni in materia di sicurezza a livello comunitario; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                la redazione di principi comuni per monitorare l'attuazione delle raccomandazioni di sicurezza e per adeguare i metodi di indagine al progresso tecnico e scientifico; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                la fissazione di norme sulla riservatezza applicabili ai fini della condivisione, nel rispetto delle norme nazionali, delle prove testimoniali e del trattamento dei dati e degli altri documenti di cui all'articolo 9, anche in relazioni con i Paesi terzi; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                l'organizzazione, ove opportuno, di attivita' di formazione utili per gli inquirenti; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                la promozione della cooperazione con gli organi inquirenti di Paesi terzi e con le organizzazioni internazionali incaricate delle inchieste sugli incidenti marittimi nei settori disciplinati dal presente decreto; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                la fornitura di tutte le informazioni pertinenti agli organi inquirenti che conducono le inchieste di sicurezza; 
+
+                            
+                        
+                        
+                            i)
+                            
+                                l'uso adeguato degli avvisi urgenti di cui all'articolo 15, comma 2.
 
 ## Art. 11. — Cooperazione con i Paesi terzi titolari di interessi rilevanti
 
@@ -116,7 +464,78 @@ La cooperazione dell'organismo investigativo in un'inchiesta di sicurezza svolta
 
 E' fatto obbligo agli armatori e comandanti di unita' navali, comprese quelle di bandiera estera, di non intralciare e di collaborare con gli investigatori durante l'attivita' d'indagine, di rendere disponibile qualunque fonte di potenziale prova nonche' favorire l'accesso a qualunque locale della nave ed al relativo armamento.
 
+2.
+                    
+                        
+                            Allo stesso obbligo soggiacciono: 
+ 
+                        
+                        
+                            a)
+                            
+                                gli interessati a qualunque titolo alla nave, al carico o al viaggio; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                il cantiere navale che ha costruito la nave; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                le imprese che hanno realizzato o partecipato all'armamento della nave; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                i componenti l'equipaggio e gli eventuali passeggeri; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                qualunque altro soggetto che, a giudizio dell'investigatore, possa essere in possesso di informazioni utili all'inchiesta.
+
 ## Art. 13. — Protezione delle prove
+
+1.
+                    
+                        
+                            Il comandante della nave, l'equipaggio e gli altri soggetti di cui all'articolo 12, comma 2, nonche' chiunque sia venuto a contatto con fonti di prova rilevanti ai fini della individuazione delle cause dell'evento, hanno l'obbligo, per quanto possibile secondo l'ordinaria diligenza, di: 
+ 
+                        
+                        
+                            a)
+                            
+                                preservare le informazioni provenienti da carte nautiche, libri di bordo, registrazioni elettroniche, magnetiche e cassette video nonche' le informazioni provenienti dai VDR e da altri apparecchi elettronici, riguardanti il periodo precedente, concomitante e successivo all'evento; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                impedire che tali informazioni siano cancellate o, comunque, alterate; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                prevenire l'alterazione di qualsiasi altra dotazione, attrezzatura, dispositivo o di locali della nave rilevanti ai fini dell'inchiesta; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                agire tempestivamente per raccogliere e conservare gli elementi di prova o favorire la raccolta e la conservazione degli elementi di prova da parte dell'investigatore.
 
 L'Autorita' marittima o consolare di cui all'articolo 578 del codice della navigazione, quando abbia notizia di un sinistro o incidente marittimo o valuti che sussistono ragionevoli motivi per ritenere che una nave sia perduta o scomparsa, ne da' immediato avviso all'organismo investigativo, adottando i provvedimenti occorrenti per impedire la dispersione degli elementi utili per gli ulteriori accertamenti.
 

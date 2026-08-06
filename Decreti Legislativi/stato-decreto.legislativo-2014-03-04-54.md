@@ -7,8 +7,8 @@ urn: urn:nir:stato:decreto.legislativo:2014-03-04;54
 vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:27Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -25,6 +25,49 @@ Sulla proposta del Presidente del Consiglio dei Ministri e del Ministro dell'eco
 Il presente decreto detta le disposizioni attuative della direttiva 2011/85/UE del Consiglio, dell'8 novembre 2011, relativa ai requisiti per i quadri di bilancio degli Stati membri, integrative delle disposizioni gia' vigenti e, in particolare, di quelle contenute nella legge 31 dicembre 2009, n. 196, e nella legge 24 dicembre 2012, n. 243.
 
 ## Art. 2. — Modifiche alla legge 31 dicembre 2009, n. 196
+
+1.
+                    
+                        
+                            Alla legge 31 dicembre 2009, n. 196, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                all'articolo 10, comma 2, dopo la lettera c), e' inserita la seguente: 
+ «c-bis) un confronto con le previsioni macroeconomiche e di bilancio della Commissione piu' aggiornate e illustra le differenze piu' significative tra lo scenario macroeconomico e finanziario scelto e le previsioni della Commissione, con particolare riferimento alle variabili esogene adottate.». 
+
+                            
+                        
+                        
+                            b)
+                            
+                                all'articolo 10, comma 2, lettera e), dopo le parole «obiettivi programmatici» sono inserite le seguenti «definiti in coerenza con quanto previsto dall'ordinamento europeo». 
+
+                            
+                        
+                        
+                            c)
+                            
+                                All'articolo 10, comma 2, dopo la lettera i) aggiungere la seguente: 
+ «l) informazioni sulle passivita' potenziali che possono avere effetti sui bilanci pubblici, ai sensi della direttiva 2011/85/UE del Consiglio, dell'8 novembre 2011.» 
+
+                            
+                        
+                        
+                            d)
+                            
+                                Dopo l'articolo 10-bis e' inserito il seguente: 
+ 
+ «Art. 10-ter. 
+ 
+ 
+ Monitoraggio previsioni 
+ 
+ 1. L'Ufficio parlamentare di bilancio istituito dall'articolo 5 della legge costituzionale 20 aprile 2012, n. 1 svolge le attivita' previste dall'articolo 18, comma 1, lettera a), della legge 24 dicembre 2012, n. 243, tenendo conto anche delle previsioni contenute nei documenti di programmazione economica e finanziaria. Il Governo fornisce allo stesso Ufficio le informazioni necessarie per la valutazione delle previsioni contenute nei documenti di programmazione economica e finanziaria. 
+ 2. I risultati delle valutazioni e verifiche di cui al comma 1 sono resi pubblici secondo modalita' e tempi stabiliti dall'Ufficio parlamentare tenendo conto dei tempi di presentazione dei documenti di finanza pubblica e sono opportunamente considerati per l'elaborazione di successivi documenti. 
+ 3. Qualora i risultati della valutazione evidenzino un errore significativo rispetto alle risultanze di consuntivo, che si ripercuota sulle previsioni macroeconomiche per un periodo di almeno quattro anni consecutivi, il Governo trasmette una relazione al Parlamento nella quale indica le ragioni dello scostamento, nonche' le eventuali azioni che intende intraprendere.».
 
 ## Art. 3. — Controlli
 

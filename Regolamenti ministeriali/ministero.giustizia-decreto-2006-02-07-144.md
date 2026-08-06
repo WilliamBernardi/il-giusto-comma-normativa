@@ -8,8 +8,8 @@ codice_redazionale: 006G0162
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:40Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -26,6 +26,45 @@ IL MINISTRO DELL'INTERNO
 Udito il parere del Consiglio di Stato, espresso dalla Sezione consultiva per gli atti normativi nell'adunanza del 30 maggio 2005, le cui osservazioni sono state recepite, ad eccezione di quella concernente la formula utilizzata nell'articolo 4, il cui accoglimento importerebbe conseguenze in contrasto con le regole fondamentali del trattamento penitenziario;
 
 ## Art. 1. — Ambito di applicazione
+
+1.
+                    
+                        
+                            Sono sottoposti alle disposizioni del presente regolamento:
+ 
+                        
+                        
+                            a)
+                            
+                                i detenuti e gli internati che risultano tenere o aver tenuto condotte di collaborazione previste dal codice penale o da disposizioni speciali relativamente ai delitti previsti dall'articolo 9, comma 2, decreto-legge 15 gennaio 1991, n. 8, e che siano ammessi alle speciali misure di protezione o per i quali sia stata avanzata la proposta di ammissione a misure speciali di protezione, ovvero per i quali sia stata avanzata richiesta di piano provvisorio di protezione, ovvero che siano sottoposti a piano provvisorio di protezione, ovvero che siano sottoposti a misure di eccezionale urgenza ai sensi dell'articolo 13, comma 1, decreto-legge 15 gennaio 1991, n. 8;
+
+                            
+                        
+                        
+                            b)
+                            
+                                i detenuti e gli internati che risultano tenere o aver tenuto condotte di collaborazione previste dal codice penale o da disposizioni speciali relativamente ai delitti previsti dall'articolo 9, comma 2, decreto-legge 15 gennaio 1991, n. 8, per i quali, sebbene non sia stata avanzata richiesta di speciali misure di protezione, il Procuratore della Repubblica che sta raccogliendo o che ha raccolto il verbale illustrativo dei contenuti della collaborazione previsto dall'articolo 16-quater del medesimo decreto-legge, richiede, in vista della formulazione della proposta di ammissione a speciali misure di protezione, l'adozione di particolari cautele nella gestione penitenziaria;
+
+                            
+                        
+                        
+                            c)
+                            
+                                i soggetti che sono stati sottoposti nel passato alle speciali misure di protezione e ne sono fuoriusciti con misure di reinserimento sociale ai sensi dell'articolo 13, comma 5, decreto-legge 15 gennaio 1991, n. 8, salvo che, anche sulla base di informazioni provenienti dall'autorita' giudiziaria, il nuovo stato di detenzione o di internamento non sia conseguente a fatti incompatibili con le condotte di collaborazione con la giustizia;
+
+                            
+                        
+                        
+                            d)
+                            
+                                i detenuti e gli internati che sono stati sottoposti nel passato alle speciali misure di protezione poi revocate, ovvero al piano provvisorio di protezione non seguito dalla richiesta delle speciali misure di protezione, ovvero a misure di eccezionale urgenza non seguite dalla definizione di un piano provvisorio o delle speciali misure di protezione;
+
+                            
+                        
+                        
+                            e)
+                            
+                                i detenuti e gli internati che, sebbene non tengono o non hanno tenuto condotte di collaborazione, sono sottoposti alle speciali misure di protezione in ragione delle situazioni previste dall'articolo 9, comma 5, decreto-legge 15 gennaio 1991, n. 8.
 
 ## Art. 2. — Principi direttivi del trattamento penitenziario
  dei collaboratori di giustizia
@@ -60,6 +99,31 @@ Fatte salve le misure indicate all'articolo 3, comma 1, su richiesta del Procura
 
 I detenuti e gli internati indicati all'articolo 1, comma 1, lettere d) ed e), sono rispettivamente assegnati, con provvedimento della Direzione generale dei detenuti e del trattamento del Dipartimento dell'Amministrazione penitenziaria, ad appositi e tra loro distinti istituti o sezioni di istituto, comunque diversi da quelli indicati ai commi 1 e 2.
 
+4.
+                    
+                        
+                            Le disposizioni previste ai precedenti commi si applicano, compatibilmente con le modalita' di fruizione del beneficio concesso, anche ai detenuti e agli internati, collaboratori di giustizia:
+ 
+                        
+                        
+                            a)
+                            
+                                assegnati al lavoro all'esterno ai sensi dell'articolo 21, legge 26 luglio 1975, n. 354;
+
+                            
+                        
+                        
+                            b)
+                            
+                                ammessi alla misura della semiliberta' ai sensi dell'articolo 48 della medesima legge;
+
+                            
+                        
+                        
+                            c)
+                            
+                                ammessi alla cura e all'assistenza all'esterno dei figli di eta' non superiore agli anni dieci ai sensi dell'articolo 21-bis della medesima legge.
+
 Per il compimento di specifici atti non esperibili nell'istituto o nella sezione di assegnazione, su richiesta del Procuratore della Repubblica che svolge le indagini, la Direzione generale dei detenuti e del trattamento del Dipartimento dell'Amministrazione penitenziaria puo' trasferire, per il tempo strettamente necessario e comunque preventivamente indicato, i detenuti e gli internati di cui all'articolo 1 ad istituti o sezioni diversi da quelli indicati ai commi 1, 2, 3 e 4, assicurando comunque le esigenze di sicurezza ed evitando i contatti con altri collaboratori di giustizia che, in base alle notizie comunicate dall'autorita' giudiziaria e dal Servizio centrale di protezione, risultano partecipare ai medesimi procedimenti giudiziari o avere, comunque, reso dichiarazioni sui medesimi fatti delittuosi.
 
 Qualora agli internati che si trovano nelle condizioni previste dall'articolo 1, per salvaguardare la genuinita' delle dichiarazioni nonche' per tutelare l'incolumita' personale, non sia possibile assicurare nella casa di lavoro o nella colonia agricola di assegnazione le stesse condizioni restrittive e le stesse opportunita' di trattamento applicate agli altri internati, la Direzione generale dei detenuti e del trattamento del Dipartimento dell'Amministrazione penitenziaria puo' assegnarli ad un'altra casa di lavoro o colonia agricola, assicurando comunque le suddette esigenze.
@@ -69,6 +133,46 @@ I medesimi criteri indicati al comma 6 si applicano agli internati che si trovan
 La Direzione generale dei detenuti e del trattamento del Dipartimento dell'Amministrazione penitenziaria, qualora ricorrano gravi ragioni di sicurezza, puo', sentita l'autorita' giudiziaria, assegnare i detenuti o gli internati indicati all'articolo 1, comma 1, lettera d), ad istituti o sezioni di istituto ordinari.
 
 ## Art. 5. — Ordini di servizio in materia di sicurezza
+
+1.
+                    
+                        
+                            La direzione dell'istituto penitenziario dotato di sezione per detenuti o internati indicati all'articolo 1 adotta, anche sulla base di eventuali disposizioni del Dipartimento dell'Amministrazione penitenziaria, un apposito ordine di servizio contenente tutte le prescrizioni alle quali deve attenersi il personale per la gestione dei soggetti ivi ristretti e in ogni caso:
+ 
+                        
+                        
+                            a)
+                            
+                                l'assegnazione, ai servizi di sezione, di personale capace ed esperto, nonche' la rigorosa limitazione e la registrazione degli accessi;
+
+                            
+                        
+                        
+                            b)
+                            
+                                le cautele per assicurare la riservatezza degli atti relativi al collaboratori di giustizia;
+
+                            
+                        
+                        
+                            c)
+                            
+                                le modalita' di spostamento e di uscita dei detenuti dalla sezione;
+
+                            
+                        
+                        
+                            d)
+                            
+                                le cautele per assicurare che il cibo, i farmaci e gli oggetti che i detenuti possono legittimamente acquistare o detenere non possano subire manipolazioni;
+
+                            
+                        
+                        
+                            e)
+                            
+                                l'indicazione delle misure per garantire il rispetto dei divieti contenuti nell'articolo 13, comma 14, decreto-legge 15 gennaio 1991, n. 8.
+ 3. Qualora l'istituto penitenziario non sia dotato di sezione per collaboratori di giustizia, la direzione dell'istituto di pena in cui sia ristretto un soggetto che abbia manifestato la volonta' di collaborare o che comunque si trovi nelle condizioni di cui all'articolo 1, emana un ordine di servizio di contenuto analogo a quello indicato nel comma 2.
 
 ## Art. 6. — Colloqui e corrispondenza
 

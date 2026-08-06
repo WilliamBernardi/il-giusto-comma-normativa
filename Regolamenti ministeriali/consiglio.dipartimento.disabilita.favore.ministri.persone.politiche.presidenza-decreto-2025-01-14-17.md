@@ -7,8 +7,8 @@ urn: urn:nir:consiglio.dipartimento.disabilita.favore.ministri.persone.politiche
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:41Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -42,11 +42,108 @@ Udito il parere del Consiglio di Stato, espresso dalla Sezione consultiva atti n
 
 Il presente regolamento disciplina le modalita', i tempi, i criteri e gli obblighi di comunicazione ai fini dell'autogestione del budget di progetto di cui all'articolo 28 del decreto legislativo 3 maggio 2024, n. 62, di seguito «decreto legislativo».
 
+2.
+                    
+                        
+                            Ferme restando le definizioni di cui all'articolo 2, comma 1, del decreto legislativo, ai fini del presente regolamento, si applicano le seguenti definizioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                «autogestione del budget di progetto»: gestione di risorse finanziarie o di voucher da parte del responsabile dell'autogestione.
+L'autogestione puo' riguardare la totalita' delle risorse del budget di progetto o quota di esse; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                «responsabile dell'autogestione»: la persona con disabilita', il genitore del minore con disabilita', il tutore o amministratore di sostegno dotato dei relativi poteri o il soggetto delegato dalla persona con disabilita' con procura rilasciata anche nel progetto di vita, a compiere i singoli atti occorrenti per l'autogestione e a garantire la rendicontazione; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                «responsabile per l'erogazione»: soggetto responsabile del procedimento di erogazione delle risorse o dei voucher conferiti in autogestione individuato da ciascuna delle amministrazioni conferenti, ai sensi dell'articolo 26, comma 7, del decreto legislativo; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                «voucher»: titoli che danno accesso a servizi, beni materiali o immateriali assicurati da uno o piu' fornitori accreditati. 
+
+                            
+                        
+                        
+                            e)
+                            
+                                «referente per l'attuazione del progetto di vita»: soggetto di cui all'articolo 29 del decreto legislativo 3 maggio 2024, n. 62; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                «unita' di valutazione multidimensionale»: l'unita' di cui all'articolo 24 del decreto legislativo.
+
 ## Art. 2. — Ambito di applicazione
+
+1.
+                    
+                        
+                            Il presente regolamento si applica alle risorse del budget di progetto di cui al citato articolo 28 del decreto legislativo ad esclusione delle: 
+ 
+                        
+                        
+                            a)
+                            
+                                risorse proprie che la persona con disabilita', o altri privati nel suo interesse, conferiscano al progetto di vita; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                risorse per le quali, a legislazione vigente, e' esclusa la rendicontazione; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                risorse conferite, a legislazione vigente, a fondo perduto.
 
 ## Art. 3. — Autogestione
 
 I soggetti individuati dall'articolo 1, comma 2, lettera b), possono chiedere, in fase di definizione del progetto di vita di cui all'articolo 18 del decreto legislativo, di autogestire, in tutto o in parte, le risorse del budget di progetto. Il referente per l'attuazione del progetto di vita trasmette ai soggetti pubblici di cui all'articolo 26 comma 7, del decreto legislativo la richiesta di autogestione del budget di progetto e partecipa alla relativa istruttoria interloquendo, ove necessario, con i medesimi soggetti.
+
+2.
+                    
+                        
+                            I soggetti pubblici di cui all'articolo 26, comma 7, del decreto legislativo possono, ciascuno per le risorse di rispettiva competenza, accogliere la richiesta tenuto conto della situazione di contesto della persona e anche: 
+ 
+                        
+                        
+                            a)
+                            
+                                della eventuale disponibilita' di strumenti aggregativi della spesa che agevolino l'acquisizione delle corrispondenti risorse; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                della efficienza, dell'efficacia e dell'economicita' della autogestione; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                del principio dell'integrazione e dell'interoperabilita' nell'impiego delle risorse e degli interventi pubblici e, se disponibili, degli interventi privati.
 
 I soggetti di cui al comma 2 comunicano l'accoglimento o il diniego della richiesta al referente per l'attuazione del progetto di vita.
 
@@ -56,9 +153,45 @@ Gli esiti delle valutazioni di cui al comma 2 intervengono nel rispetto dei term
 
 Il progetto di vita indica i termini e la periodicita' per l'erogazione delle risorse finanziarie e dei voucher destinati all'acquisizione di servizi o beni da parte del responsabile.
 
+2.
+                    
+                        
+                            Nel caso in cui il progetto di vita non rechi l'indicazione dei termini e della periodicita' di cui al comma 1: 
+ 
+                        
+                        
+                            a)
+                            
+                                le risorse finanziarie e i voucher destinati all'acquisizione di servizi o beni a carattere ricorrente sono erogati al responsabile dell'autogestione bimestralmente ed almeno 30 giorni prima rispetto al momento dell'utilizzo indicato nel progetto di vita; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                le risorse finanziarie e i voucher destinati all'acquisizione di servizi o beni a carattere non ricorrente sono erogati al responsabile dell'autogestione almeno 30 giorni prima dell'acquisto programmato nel progetto di vita.
+
 ## Art. 5.
 
 Tracciabilita'
+
+1.
+                    
+                        
+                            Il responsabile dell'autogestione assicura la tracciabilita' delle risorse finanziarie e dei voucher conferiti in autogestione mediante: 
+ 
+                        
+                        
+                            a)
+                            
+                                l'utilizzo di un conto corrente dedicato, anche in via non esclusiva, bancario o postale, acceso presso banche di Paesi dell'Unione europea o presso Poste italiane SpA; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                la conservazione della documentazione di cui all'articolo 10 per un periodo minimo di cinque anni dalla relativa spesa.
 
 ## Art. 6. — Vincolo di destinazione
 
@@ -67,6 +200,84 @@ Le risorse finanziarie e i voucher conferiti in autogestione sono vincolati al r
 ## Art. 7.
 
 Vincolo di modalita'
+
+1.
+                    
+                        
+                            Le risorse finanziarie e i voucher conferiti in autogestione per l'acquisizione di servizi, prestazioni individuali sono utilizzati in uno o piu' dei seguenti modi: 
+ 
+                        
+                        
+                            a)
+                            
+                                stipula di un contratto di lavoro dipendente registrato presso l'INPS, che preveda una remunerazione non inferiore a quella minima prevista dai contratti collettivi nazionali di lavoro del settore depositati ai sensi dell'articolo 14 del decreto legislativo 14 settembre 2015, n. 151; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                utilizzo, nel caso di prestazioni di lavoro occasionali, del libretto famiglia di cui all'articolo 54-bis del decreto-legge 24 aprile 2017, n. 50 convertito, con modificazioni, dalla legge 21 giugno 2017, n. 96; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                acquisto di servizi da un operatore economico non individuale iscritto al registro delle imprese o da un ente iscritto al registro unico nazionale del terzo settore o onlus; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                utilizzo dei voucher presso un soggetto accreditato.
+
+2.
+                    
+                        
+                            Le risorse finanziarie e i voucher conferiti in autogestione per la fornitura di beni materiali o immateriali sono utilizzati mediante la stipula di contratti di: 
+ 
+                        
+                        
+                            a)
+                            
+                                compravendita; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                noleggio; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                locazione; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                leasing; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                l'acquisto di servizio sostitutivo, quando consentito dalla tipologia di bene da acquistare; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                l'utilizzo dei voucher presso un soggetto accreditato.
 
 ## Art. 8. — Vincolo temporale di utilizzo
 
@@ -111,6 +322,31 @@ Il termine di cui al comma 1 puo' essere incrementato di 30 giorni, a richiesta,
 In caso di superamento dei termini di cui ai commi 1 e 2 l'erogazione delle risorse e' sospesa e si procede ai sensi dell'articolo 14.
 
 ## Art. 14. — Revisione e revoca dell'autogestione
+
+1.
+                    
+                        
+                            L'autogestione puo' essere oggetto di revisione a cura dell'Unita' di valutazione multidimensionale unitamente ai soggetti responsabili di cui all'articolo 26, comma 7, del decreto legislativo, su proposta del referente per l'attuazione, al fine di: 
+ 
+                        
+                        
+                            a)
+                            
+                                aumentare le risorse finanziarie o i voucher conferiti in autogestione; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                ridurre le risorse finanziarie o i voucher conferiti in autogestione, nel caso di cui agli articoli 11 e 12; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                revocare, anche in parte, l'autogestione nel caso di cui all'articolo 12.
 
 In caso di revoca, le prestazioni sono erogate direttamente a cura dei soggetti di cui all'articolo 26, comma 4, del decreto legislativo.
 

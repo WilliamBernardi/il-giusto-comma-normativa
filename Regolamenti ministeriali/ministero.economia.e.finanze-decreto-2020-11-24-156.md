@@ -8,8 +8,8 @@ vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
 vigenza_date: 2022-01-01
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:42Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -26,6 +26,136 @@ Sentito il Garante per la protezione dei dati personali, che ha reso il parere d
 Udito il parere del Consiglio di Stato, espresso dalla sezione consultiva per gli atti normativi nell'adunanza del 3 novembre 2020;
 
 ## Art. 1. — Definizioni
+
+1.
+                    
+                        
+                            Ai fini del presente decreto si intendono per: 
+ 
+                        
+                        
+                            a)
+                            
+                                «programma»: il programma infrannuale di rimborso in denaro a favore degli aderenti che, fuori dall'esercizio di attivita' d'impresa, arte o professione, effettuano acquisti da esercenti mediante l'utilizzo di strumenti di pagamento elettronici; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                «strumenti di pagamento elettronici»: gli strumenti di pagamento nell'ambito di operazioni di acquisto di beni o servizi per il tramite di un dispositivo di accettazione, e precisamente: a) la moneta elettronica di cui all'articolo 1, comma 2, lettera h-ter), del decreto legislativo 1° settembre 1993, n. 385; b) gli strumenti che consentono l'esecuzione di operazioni di pagamento effettuate nell'ambito dei servizi previsti dall'articolo 1, comma 2, lettera h-septies.1), del decreto legislativo 1° settembre 1993, n. 385, inclusi quelli di cui all'articolo 2, comma 2, lettera m), del decreto legislativo 27 gennaio 2010, n. 11; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                «esercente»: il soggetto che svolge attivita' di vendita di beni e di prestazione di servizi presso il quale sono effettuati acquisti mediante l'utilizzo di strumenti di pagamento elettronici e tramite un acquirer convenzionato; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                «aderente»: la persona fisica maggiorenne, residente nel territorio dello Stato, che partecipa al programma; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                «acquirer convenzionato»: il soggetto che ha concluso un accordo con l'esercente per l'utilizzo di dispositivi di accettazione e che ha sottoscritto, altresi', una convenzione con la PagoPA S.p.A. per partecipare al programma ovvero Bancomat S.p.A., previa sottoscrizione della convenzione con la PagoPA S.p.A.; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                «identificativo univoco dell'esercente» o «MerchantID»: il numero che identifica l'esercente univocamente all'interno del sistema dei pagamenti elettronici e in ogni singola operazione di pagamento eseguita in favore dell'esercente; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                «issuer convenzionato»: il soggetto che abbia concluso un accordo con il pagatore per la fornitura di uno strumento di pagamento elettronico e che abbia sottoscritto una convenzione con la PagoPA S.p.A. ovvero il soggetto che abbia sottoscritto con la PagoPA S.p.A. una convenzione per potere mettere a disposizione dei propri clienti, in alternativa all'APP IO, un sistema per l'adesione al programma; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                «sistema cashback»: il sistema, predisposto e gestito ai sensi del presente decreto dalla societa' PagoPA S.p.A., nell'ambito della piattaforma tecnologica di cui all'articolo 5, comma 2, del decreto legislativo 7 marzo 2005, n. 82, che raccoglie i dati rilevanti, ai fini della partecipazione al programma, degli aderenti e degli esercenti, definisce la graduatoria e trasmette le informazioni rilevanti all'APP IO e ai sistemi messi a disposizione dagli issuer convenzionati e, ai fini dell'erogazione del rimborso, alla Consap-Concessionaria servizi assicurativi pubblici S.p.A.; 
+
+                            
+                        
+                        
+                            i)
+                            
+                                «APP IO»: l'applicazione, prevista all'articolo 64-bis del decreto legislativo del 7 marzo 2005, n. 82, predisposta e gestita da PagoPA S.p.A. in virtu' dell'articolo 8, comma 2, del decreto-legge 14 dicembre 2018, n. 135, convertito, con modificazioni, dalla legge 11 febbraio 2019, n. 12, tramite la quale gli aderenti possono partecipare al programma e visualizzare la graduatoria finale; 
+
+                            
+                        
+                        
+                            l)
+                            
+                                «primary account number» o «PAN»: il numero identificativo di una carta di debito o di credito o prepagata, associato alla stessa fin dalla sua emissione, ovvero l'identificativo univoco dell'aderente che effettua la transazione, nel caso di strumenti di pagamento elettronici che non prevedano il numero identificativo della carta; 
+
+                            
+                        
+                        
+                            m)
+                            
+                                «codice carta crittografato in modo irreversibile»: l'oscuramento crittografico non reversibile del PAN (Hashpan); 
+
+                            
+                        
+                        
+                            n)
+                            
+                                «circuito PagoBancomat»: il circuito domestico di titolarita' di Bancomat S.p.A., operante su carte emesse dai singoli issuer sottoscrittori delle licenze emesse dalla stessa Bancomat S.p.A.; 
+
+                            
+                        
+                        
+                            o)
+                            
+                                «dispositivo di accettazione»: il dispositivo fisico che, per il tramite di software e/o applicazioni informatiche, consente il pagamento degli acquisti tramite strumenti di pagamento elettronici; 
+
+                            
+                        
+                        
+                            p)
+                            
+                                «marca temporale»: sequenza di caratteri che rappresentano una data e/o un orario per accertare l'effettiva esecuzione di un'operazione di pagamento e che, piu' precisamente, indica il numero di secondi trascorsi tra la data e/o l'orario dell'operazione di pagamento e una data e/o un orario convenzionale; 
+
+                            
+                        
+                        
+                            q)
+                            
+                                «MEF»: il Ministero dell'economia e delle finanze; 
+
+                            
+                        
+                        
+                            r)
+                            
+                                «SPID»: il sistema pubblico d'identita' digitale di cui all'articolo 64 del decreto legislativo 7 marzo 2005, n. 82; 
+
+                            
+                        
+                        
+                            s)
+                            
+                                «CIE»: il documento d'identita' munito di elementi per l'identificazione fisica del titolare, di cui all'articolo 66 del decreto legislativo 7 marzo 2005, n. 82; 
+
+                            
+                        
+                        
+                            t)
+                            
+                                «valutazione di impatto sulla protezione dei dati»: la valutazione d'impatto di cui all'articolo 35 del regolamento UE 2016/679.
 
 ## Art. 2. — Oggetto e ambito di applicazione
 
@@ -48,6 +178,34 @@ Restano salvi i rimborsi gia' corrisposti.
 
 Funzionalita' e flussi informativi
 
+1.
+                    
+                        
+                            Sulla base del PAN fornito dall'aderente in sede di registrazione di cui all'articolo 3, comma 2, opportunamente protetto mediante una funzione crittografica non reversibile, anche in conformita' allo standard PCI DSS, e messo a disposizione da PagoPA S.p.A. per conto del MEF, gli acquirer convenzionati, in attuazione della convenzione stipulata con PagoPA S.p.A., verificano la partecipazione dell'aderente al programma, al fine di individuare i dati necessari, relativi esclusivamente alle transazioni effettuate con gli strumenti di pagamento elettronici indicati dagli aderenti, da inviare, attraverso un canale cifrato, al sistema cashback. Gli acquirer convenzionati utilizzano i dati messi a disposizione da PagoPA S.p.A. per conto del MEF per finalita' strettamente necessarie all'attuazione del programma. A tal fine, gli acquirer convenzionati integrano i propri sistemi tecnologici al fine di consentire la regolare trasmissione a PagoPA S.p.A. dei seguenti dati necessari all'attuazione del programma: 
+ 
+                        
+                        
+                            a)
+                            
+                                il codice carta crittografato in modo irreversibile (Hashpan); 
+
+                            
+                        
+                        
+                            b)
+                            
+                                gli estremi della transazione con esito positivo inviata e presente anche sul sistema cassa, ovvero i dati contenuti nella ricevuta elaborata dal dispositivo di accettazione anche in forma cartacea, tra cui: 
+ 1) la marca temporale del pagamento; 
+ 2) l'importo della transazione espresso in euro; 
+ 3) l'identificativo unico dell'operazione di pagamento che colleghi le fasi dell'operazione di pagamento stessa; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                l'identificativo univoco dell'esercente, attribuito da ciascun acquirer.
+
 Gli acquirer convenzionati inviano i dati di cui al comma 1 al sistema cashback attraverso un canale cifrato, entro la giornata successiva a quella nella quale e' stato effettuato il pagamento. Le modalita' di trasmissione dei dati sono disciplinate nelle convenzioni stipulate a titolo gratuito da PagoPA S.p.A. con gli acquirer convenzionati.
 
 I dati di cui all'articolo 3, comma 2, sono comunicati al sistema cashback dall'APP IO e dall'issuer convenzionato attraverso un canale cifrato. Con lo stesso canale, sono trasmessi anche gli IBAN degli aderenti che abbiano maturato il rimborso.
@@ -58,9 +216,113 @@ I dati relativi alle singole transazioni sono memorizzati solo per il tempo nece
 
 ## Art. 5. — Convenzioni tra il MEF e PagoPA S.p.A. e tra il MEF e Consap S.p.A.
 
+1.
+                    
+                        
+                            E' stipulata apposita convenzione tra il MEF e PagoPA S.p.A., per un importo non superiore a 2,2 milioni di euro per l'anno 2020, e di 3 milioni di euro per ciascuno degli anni 2021 e 2022, per la progettazione, realizzazione e gestione di specifiche funzioni all'interno del sistema cashback, che disciplina: 
+ 
+                        
+                        
+                            a)
+                            
+                                la raccolta dei dati relativi agli aderenti di cui all'articolo 3; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                la raccolta dei dati relativi ai pagamenti di cui all'articolo 4, comma 1; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                le modalita' di conferimento dei dati necessari per il perseguimento delle finalita' statistiche di cui all'articolo 12, comma 9; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                l'identificazione dei beneficiari dei rimborsi di cui agli articoli 6, 7 e 8; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                la trasmissione a PagoPA S.p.A. dei dati di cui ai punti a), b) e d), nel rispetto del principio di minimizzazione, per consentire agli aderenti di verificare, tramite l'APP IO o tramite l'issuer convenzionato, l'importo del rimborso spettante e la posizione nella graduatoria di cui all'articolo 8.
+
+2.
+                    
+                        
+                            E' stipulata apposita convenzione tra il MEF e Consap S.p.A., per un importo massimo di 1,5 milioni di euro per ciascuno degli anni 2021 e 2022, che disciplina: 
+ 
+                        
+                        
+                            a)
+                            
+                                l'accesso ai dati di cui al comma 1, lettere a), b), e d); 
+
+                            
+                        
+                        
+                            b)
+                            
+                                la ricezione dal sistema cashback dell'IBAN dei beneficiari per l'accredito in loro favore dei rimborsi di cui agli articoli 6, 7 e 8; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                l'erogazione dei rimborsi ai beneficiari ai sensi degli articoli 6, 7 e 8, secondo le modalita' di cui all'articolo 9; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                la gestione di tutte le fasi dei reclami e delle eventuali controversie derivanti dall'attuazione del programma; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                le modalita' di conferimento dei dati necessari per il perseguimento delle finalita' statistiche di cui all'articolo 12, comma 9.
+
 ## Art. 6. — Rimborso cashback
 
 Agli aderenti al programma e' attribuito un rimborso in misura percentuale per ogni transazione regolata con strumenti di pagamento elettronici, alle condizioni e nei limiti di cui al presente articolo.
+
+2.
+                    
+                        
+                            La misura del rimborso di cui al comma 1 e' determinata con riferimento ai seguenti periodi: 
+ 
+                        
+                        
+                            a)
+                            
+                                1° gennaio 2021 - 30 giugno 2021; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                1° luglio 2021 - 31 dicembre 2021; (1) ((4))
+                                
+                            
+                        
+                        
+                            c)
+                            
+                                
+                                    ((LETTERA ABROGATA DALLA L. 30 DICEMBRE 2021, N. 234)).
 
 Per ciascuno dei periodi di cui al comma 2, accedono al rimborso esclusivamente gli aderenti che abbiano effettuato un numero minimo di 50 transazioni regolate con strumenti di pagamento elettronici. In tali casi, il rimborso e' pari al 10 per cento dell'importo di ogni transazione e si tiene conto delle transazioni fino ad un valore massimo di 150 euro per singola transazione. Le transazioni di importo superiore a 150 euro concorrono fino all'importo di 150 euro.
 

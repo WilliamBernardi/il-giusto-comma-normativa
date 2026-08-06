@@ -7,8 +7,8 @@ urn: urn:nir:stato:decreto.legislativo:2023-11-23;188
 vigente: true
 source: normattiva-opendata
 collection: Leggi delega e relativi provvedimenti delegati
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:41:16Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -47,8 +47,58 @@ Al decreto legislativo 17 marzo 2023, n. 42, al capo II, all'articolo 2, e' ante
 ## Art. 3. — Modifiche all'articolo 2 del decreto legislativo 
  17 marzo 2023, n. 42
 
+1.
+                    
+                        
+                            All'articolo 2 del decreto legislativo 17 marzo 2023, n. 42, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                
+                                    dopo il comma 1 e' inserito il seguente: 
+ «1-bis. Qualora a carico dei soggetti di cui al comma 1 sia stato disposto il sequestro preventivo dell'azienda nell'ambito di un procedimento per i reati previsti dall'articolo 603-bis del codice penale, l'autorita' giudiziaria ne da' immediata comunicazione agli Organismi pagatori che sospendono l'erogazione dei benefici fino alla revoca della misura cautelare, salvo che il giudice disponga il controllo giudiziario o nomini un amministratore giudiziario che assicuri la continuita' dell'azienda.»;
+                                
+                            
+                        
+                        
+                            b)
+                            
+                                
+                                    il comma 2 e' abrogato.
+
 ## Art. 4. — Modifiche all'articolo 3 del decreto legislativo 
  17 marzo 2023, n. 42
+
+1.
+                    
+                        
+                            All'articolo 3, del decreto legislativo 17 marzo 2023, n. 42, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                
+                                    il comma 2 e' sostituito dal seguente: 
+ «2. In base alla gravita' dell'infrazione, definita con i criteri posti dal decreto di cui all'articolo 25, la riduzione e' pari al 3 per cento, 5 per cento o 10 per cento dell'importo dei pagamenti di cui all'articolo 2, comma 1. Si applica, in ogni caso, la percentuale del 10 per cento, ove l'infrazione riguardi un numero di lavoratori superiore a 8.»;
+                                
+                            
+                        
+                        
+                            b)
+                            
+                                
+                                    al comma 3 le parole: «10 per cento» sono sostituite dalle seguenti: «20 per cento»;
+                                
+                            
+                        
+                        
+                            c)
+                            
+                                
+                                    al comma 4 le parole: «15 per cento» sono sostituite dalle seguenti: «30 per cento».
 
 ## Art. 5. — Modifiche all'articolo 5 del decreto legislativo 
  17 marzo 2023, n. 42
@@ -69,8 +119,60 @@ All'articolo 9, comma 2, del decreto legislativo 17 marzo 2023, n. 42, le parole
 ## Art. 8. — Modifiche all'articolo 10 del decreto legislativo 
  17 marzo 2023, n. 42
 
+1.
+                    
+                        
+                            All'articolo 10 del decreto legislativo 17 marzo 2023, n. 42, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                
+                                    il comma 2 e' sostituito dal seguente: 
+ «2. Per l'anno 2023, e' sospesa l'applicazione delle sanzioni di cui al comma 1, a condizione che l'infrazione sia di grado basso e che il beneficiario inadempiente presenti domanda per il medesimo regime nel 2024.»;
+                                
+                            
+                        
+                        
+                            b)
+                            
+                                
+                                    il comma 3 e' sostituito dal seguente: 
+ «3. Se i beneficiari per i quali la sanzione e' stata sospesa nel 2023, compiono ulteriori violazioni nel 2024, la sanzione sospesa per il 2023 verra' applicata unitamente a quella comminata per il 2024.».
+
 ## Art. 9. — Modifiche all'articolo 15 del decreto legislativo 
  17 marzo 2023, n. 42
+
+1.
+                    
+                        
+                            All'articolo 15 del decreto legislativo 17 marzo 2023, n. 42, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                
+                                    alla rubrica dopo le parole: «Violazione degli impegni» sono inserite le seguenti: «e degli altri obblighi»;
+                                
+                            
+                        
+                        
+                            b)
+                            
+                                
+                                    il comma 1 e' sostituito dal seguente: 
+ «1. Per gli interventi per lo sviluppo rurale non connessi alla superficie e agli animali, in caso di violazione degli impegni previsti dal PSP o degli altri obblighi dell'intervento, si applica per ogni violazione o gruppi di violazioni, la riduzione o l'esclusione dell'importo complessivo ammesso, erogato o da erogare, per ciascun intervento a cui si riferiscono gli impegni violati. Nel caso di violazione degli impegni per assicurare la stabilita' delle operazioni di investimento, previsti dal Piano strategico della PAC, i parametri di gravita' e entita' sono da considerarsi sempre di livello massimo.»;
+                                
+                            
+                        
+                        
+                            c)
+                            
+                                
+                                    dopo il comma 1 e' inserito il seguente: 
+ «1-bis. I beneficiari, che richiedono nella domanda di aiuto un importo che risulta maggiore del 25 per cento rispetto a quello considerato ammissibile dall'organismo pagatore competente, sono soggetti ad una sanzione pari alla differenza tra i due importi. La riduzione o l'esclusione si applica anche alle spese che sono risultate non ammissibili in seguito ai controlli in loco o in occasione di successive verifiche.».
 
 ## Art. 10. — Modifica del Capo VII del decreto legislativo 
  17 marzo 2023, n. 42
@@ -162,6 +264,50 @@ Al decreto legislativo 17 marzo 2023, n. 42, dopo il Capo VII sono inseriti i se
 
 ## Art. 12. — Modifiche all'articolo 25 del decreto legislativo 
  17 marzo 2023, n. 42
+
+1.
+                    
+                        
+                            All'articolo 25 del decreto legislativo 17 marzo 2023, n. 42, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 1: 
+ 1) dopo la cifra «12», le parole: «, comma 2» sono soppresse; 
+ 2) dopo la cifra «15», le parole «, comma 2» sono soppresse; 
+ 3) sono inserite, in fine, le seguenti «, 21 e 23»;
+                                
+                            
+                        
+                        
+                            b)
+                            
+                                
+                                    dopo il comma 1 e' inserito il seguente: 
+ «1-bis. Con decreto del Ministro dell'agricoltura, della sovranita' alimentare e delle foreste, sono disciplinate le modalita' di esecuzione dei controlli finalizzati all'applicazione delle sanzioni previste dagli articoli 22 e 24.»;
+                                
+                            
+                        
+                        
+                            c)
+                            
+                                
+                                    il comma 2 e' sostituito dal seguente: 
+ «2. Fatta salva l'applicazione delle riduzioni previste dai Capi VII. VII-bis e VII-ter, le riduzioni dei pagamenti previste nel presente decreto si applicano nell'ordine seguente: 
+ a) le riduzioni previste ai Capi III, V e VI; 
+ b) all'importo risultante dall'applicazione della lettera a), si applicano le riduzioni previste al Capo IV; 
+ c) all'importo risultante dall'applicazione della lettera b), si applicano le riduzioni previste al Capo II.»;
+                                
+                            
+                        
+                        
+                            d)
+                            
+                                
+                                    dopo il comma 2, e' aggiunto il seguente: 
+ «2-bis. Quando a seguito di comunicazione del Fondo mutualistico nazionale AgriCat agli organismi pagatori, effettuata mediante iscrizione nel registro debitori nazionale da parte di Agea, risulta che l'impresa agricola beneficiaria degli aiuti ha indebitamente percepito importi a titolo di indennizzo a seguito di una denuncia di sinistro per eventi catastrofali, l'Organismo pagatore compensa l'importo dell'aiuto da erogare con gli importi indebitamente percepiti.».
 
 ## Art. 13. — Clausola di invarianza finanziaria
 

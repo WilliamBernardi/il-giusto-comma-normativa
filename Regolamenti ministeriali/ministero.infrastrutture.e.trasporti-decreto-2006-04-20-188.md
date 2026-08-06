@@ -8,8 +8,8 @@ codice_redazionale: 006G0204
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:38Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -32,6 +32,24 @@ Acquisito il parere della Conferenza permanente per i rapporti tra lo Stato e le
 Udito il parere del Consiglio di Stato espresso nell'adunanza del 27 febbraio 2006;
 
 ## Art. 1. — Definizioni
+
+1.
+                    
+                        
+                            I termini utilizzati nel presente decreto devono intendersi secondo le definizioni riportate, nell'articolo 1 del decreto legislativo 4 febbraio 2000, n. 45 e nel capitolo III del relativo allegato I, salvo i seguenti termini secondo i quali si intende per:
+ 
+                        
+                        
+                            a)
+                            
+                                «servizio di linea»: una serie di collegamenti, effettuati in modo da assicurare il traffico fra gli stessi due o piu' porti, in base ad un orario pubblicato o con collegamenti tanto regolari o frequenti da costituire una serie sistematica evidente;
+
+                            
+                        
+                        
+                            b)
+                            
+                                «terra ferma»: il territorio peninsulare italiano e le due isole maggiori, Sicilia e Sardegna.
 
 ## Art. 2. — Campo di applicazione
 

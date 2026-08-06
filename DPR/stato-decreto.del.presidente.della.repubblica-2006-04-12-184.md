@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: DPR
 vigenza_date: 2013-08-21
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:47:41Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -93,6 +93,38 @@ In ogni caso, la copia dei documenti e' rilasciata subordinatamente al pagamento
 
 ## Art. 8. — Contenuto minimo degli atti delle singole amministrazioni
 
+1.
+                    
+                        
+                            I provvedimenti generali organizzatori di cui all'articolo 1, comma 2, riguardano in particolare:
+ 
+                        
+                        
+                            a)
+                            
+                                le modalita' di compilazione delle richieste di accesso, preferibilmente mediante la predisposizione di apposita modulistica;
+
+                            
+                        
+                        
+                            b)
+                            
+                                le categorie di documenti di interesse generale da pubblicare in luoghi accessibili a tutti e i servizi volti ad assicurare adeguate e semplificate tecniche di ricerca dei documenti, anche con la predisposizione di indici e la indicazione dei luoghi di consultazione;
+
+                            
+                        
+                        
+                            c)
+                            
+                                l'ammontare dei diritti e delle spese da corrispondere per il rilascio di copie dei documenti di cui sia stata fatta richiesta, fatte salve le competenze del Ministero dell'economia e delle finanze;
+
+                            
+                        
+                        
+                            d)
+                            
+                                l'accesso alle informazioni contenute in strumenti informatici, adottando le misure atte a salvaguardare la distruzione, la perdita accidentale, nonche' la divulgazione non autorizzata. In tali casi, le copie dei dati informatizzati possono essere rilasciate sugli appositi supporti, ove forniti dal richiedente, ovvero mediante collegamento in rete, ove esistente.
+
 ## Art. 9. — Non accoglimento della richiesta
 
 Il rifiuto, la limitazione o il differimento dell'accesso richiesto in via formale sono motivati, a cura del responsabile del procedimento di accesso, con riferimento specifico alla normativa vigente, alla individuazione delle categorie di cui all'articolo 24 della legge, ed alle circostanze di fatto per cui la richiesta non puo' essere accolta cosi' come proposta.
@@ -109,6 +141,24 @@ Il potere di differimento di cui all'articolo 24, comma 4, della legge e' eserci
 
 ## Art. 11. — Commissione per l'accesso
 
+1.
+                    
+                        
+                            Nell'esercizio della vigilanza sull'attuazione del principio di piena conoscibilita' dell'azione amministrativa, la Commissione per l'accesso, di cui all'articolo 27 della legge:
+ 
+                        
+                        
+                            a)
+                            
+                                esprime pareri per finalita' di coordinamento dell'attivita' organizzativa delle amministrazioni in materia di accesso e per garantire l'uniforme applicazione dei principi, sugli atti che le singole amministrazioni adottano ai sensi dell'articolo 24, comma 2, della legge, nonche', ove ne sia richiesta, su quelli attinenti all'esercizio e all'organizzazione del diritto di accesso;
+
+                            
+                        
+                        
+                            b)
+                            
+                                decide i ricorsi di cui all'articolo 12.
+
 Il Governo puo' acquisire il parere della Commissione per l'accesso ai fini dell'emanazione del regolamento di cui all'articolo 24, comma 6, della legge, delle sue modificazioni e della predisposizione di normative comunque attinenti al diritto di accesso.
 
 Presso la Commissione per l'accesso opera l'archivio degli atti concernenti la disciplina del diritto di accesso previsti dall'articolo 24, comma 2, della legge. A tale fine, i soggetti di cui all'articolo 23 della legge trasmettono per via telematica alla Commissione per l'accesso i suddetti atti e ogni loro successiva modificazione.
@@ -119,9 +169,91 @@ Il ricorso alla Commissione per l'accesso da parte dell'interessato avverso il d
 
 Il ricorso, notificato agli eventuali controinteressati con le modalita' di cui all'articolo 3, e' presentato nel termine di trenta giorni dalla piena conoscenza del provvedimento impugnato o dalla formazione del silenzio rigetto sulla richiesta d'accesso. Nel termine di quindici giorni dall'avvenuta comunicazione i controinteressati possono presentare alla Commissione le loro controdeduzioni.
 
+3.
+                    
+                        
+                            Il ricorso contiene: 
+ 
+                        
+                        
+                            a)
+                            
+                                le generalita' del ricorrente; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                la sommaria esposizione dell'interesse al ricorso; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                la sommaria esposizione dei fatti; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                l'indicazione dell'indirizzo al quale dovranno pervenire, anche a mezzo fax o per via telematica, le decisioni della Commissione.
+
+4.
+                    
+                        
+                            Al ricorso sono allegati: 
+ 
+                        
+                        
+                            a)
+                            
+                                il provvedimento impugnato, salvo il caso di impugnazione di silenzio rigetto; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                le ricevute dell'avvenuta spedizione, con raccomandata con avviso di ricevimento, di copia del ricorso ai controinteressati, ove individuati gia' in sede di presentazione della richiesta di accesso.
+
 Ove la Commissione ravvisi l'esistenza di controinteressati, non gia' individuati nel corso del procedimento, notifica ad essi il ricorso.
 
 ((PERIODO SOPPRESSO DAL D.L. 21 GIUGNO 2013, N. 69, CONVERTITO CON MODIFICAZIONI DALLA L. 9 AGOSTO 2013, N. 98)). Le deliberazioni sono adottate a maggioranza dei presenti. La Commissione si pronuncia entro trenta giorni dalla presentazione del ricorso o dal decorso del termine di cui al comma 2. Scaduto tale termine, il ricorso si intende respinto. Nel caso in cui venga richiesto il parere del Garante per la protezione dei dati personali il termine e' prorogato di venti giorni. Decorsi inutilmente tali termini, il ricorso si intende respinto.
+
+7.
+                    
+                        
+                            Le sedute della Commissione non sono pubbliche. La Commissione: 
+ 
+                        
+                        
+                            a)
+                            
+                                dichiara irricevibile il ricorso proposto tardivamente; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                dichiara inammissibile il ricorso proposto da soggetto non legittimato o comunque privo dell'interesse previsto dall'articolo 22, comma 1, lettera b), della legge; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                dichiara inammissibile il ricorso privo dei requisiti di cui al comma 3 o degli eventuali allegati indicati al comma 4; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                esamina e decide il ricorso in ogni altro caso.
 
 La decisione di irricevibilita' o di inammissibilita' del ricorso non preclude la facolta' di riproporre la richiesta d'accesso e quella di proporre il ricorso alla Commissione avverso le nuove determinazioni o il nuovo comportamento del soggetto che detiene il documento.
 

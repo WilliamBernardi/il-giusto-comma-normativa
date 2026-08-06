@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
 vigenza_date: 2025-07-24
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:31Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -66,6 +66,24 @@ Le Associazioni hanno l'obbligo di assoggettare a revisione gli enti cooperativi
 
 A tale scopo, e per ogni finalita' connessa all'attuazione del presente decreto, si considerano aderenti a ciascuna Associazione gli enti cooperativi dalle stesse assoggettati a revisione e quelli che, sebbene non vigilati, abbiano ad esse versato il contributo biennale previsto dalle norme vigenti.
 
+8.
+                        
+                            
+                                Le Associazioni, alla scadenza del termine stabilito per l'esercizio della vigilanza, comunicano agli Uffici territoriali del Governo e, nelle more dell'adozione del decreto del Ministro dell'interno di cui all'articolo 9, comma 3, del decreto del Presidente della Repubblica del 15 maggio 2001, n. 287, alle Direzioni provinciali del lavoro:
+ 
+                            
+                            
+                                a)
+                                
+                                    l'elenco degli enti cooperativi assoggettati a revisione;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'elenco degli enti cooperativi non revisionati, indicando espressamente quelli che non hanno versato il contributo.
+
 Il mancato versamento del contributo biennale all'Associazione non esime quest'ultima dall'obbligo di effettuare la revisione fino quando l'ente cooperativo non e' cancellato dall'elenco degli aderenti.
 
 ## Art. 3. — Riconoscimento delle Associazioni
@@ -87,6 +105,24 @@ Il Ministro puo' revocare il riconoscimento di cui al comma 1 alle Associazioni 
 Nell'esecuzione delle funzioni di vigilanza sugli enti cooperativi associati, le Associazioni sono tenute ad osservare le norme stabilite dal Ministro.
 
 ## Art. 4. — Oggetto della revisione cooperativa
+
+1.
+                        
+                            
+                                La revisione cooperativa e' finalizzata a: 
+ 
+                            
+                            
+                                a)
+                                
+                                    fornire agli organi di direzione e di amministrazione degli enti suggerimenti e consigli per migliorare la gestione ed il livello di democrazia interna, al fine di promuovere la reale partecipazione dei soci alla vita sociale; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    accertare, anche attraverso una verifica della gestione amministrativo-contabile, la natura mutualistica dell'ente, verificando l'effettivita' della base sociale, la partecipazione dei soci alla vita sociale ed allo scambio mutualistico con l'ente, la qualita' di tale partecipazione, l'assenza di scopi di lucro dell'ente, nei limiti previsti dalla legislazione vigente, e la legittimazione dell'ente a beneficiare delle agevolazioni fiscali, previdenziali e di altra natura.
 
 Il revisore accerta altresi' la consistenza dello stato patrimoniale, attraverso l'acquisizione del bilancio d'esercizio, delle relazioni del consiglio di amministrazione e del collegio sindacale, nonche', ove prevista, della certificazione di bilancio.
 
@@ -116,6 +152,45 @@ Nel caso di revisione di enti cooperativi associati ovvero nel caso di revisione
 Nel caso in cui l'ente cooperativo ha necessita' di certificare il possesso dei requisiti mutualistici, al fine del godimento di un'agevolazione o dell'applicazione di un provvedimento di favore, e non dispone del certificato di revisione o dell'attestazione di revisione, relativi al periodo di vigilanza in corso, e' tenuto a produrre agli Uffici territoriali del Governo e, nelle more dell'adozione del decreto del Ministro dell'interno di cui all'articolo 9, comma 3, del decreto del Presidente della Repubblica del 15 maggio 2001, n. 287, alle Direzioni provinciali del lavoro, e all'Associazione cui eventualmente aderisce, una dichiarazione, sottoscritta dal presidente dell'ente medesimo e, per asseverazione, dal presidente del collegio sindacale.
 
 Se il collegio sindacale non e' previsto dalla legge o dall'atto costitutivo, o il presidente dello stesso non e' iscritto al registro dei revisori contabili, la sottoscrizione per asseverazione e' apposta da un revisore contabile esterno, scelto fra i soggetti iscritti nel registro dei revisori contabili.
+
+3.
+                        
+                            
+                                Nella dichiarazione di cui al comma 1 sono indicati, oltre agli estremi identificativi dell'ente cooperativo e del legale rappresentante:
+ 
+                            
+                            
+                                a)
+                                
+                                    l'iscrizione all'albo nazionale delle societa' cooperative ovvero, nelle more dell'istituzione dello stesso, al registro prefettizio;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    eventuali iscrizioni richieste dalla legge per il godimento della agevolazione o del provvedimento di favore di cui si chiede l'applicazione;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    gli estremi del versamento del contributo dovuto ai fondi di mutualita' nazionale, ai sensi degli articoli 8 e 11 della legge 31 gennaio 1992, n. 59, o, in difetto, le motivazioni per il mancato versamento;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    il numero dei soci, come risultante dal libro soci;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    l'indicazione dell'agevolazione o del provvedimento di favore di cui si chiede l'applicazione e dell'ente competente al riguardo, unitamente alla dichiarazione del possesso dei requisiti per poterne godere.
 
 Alla dichiarazione sostitutiva deve essere allegato l'ultimo bilancio approvato, con l'indicazione degli estremi dell'avvenuto deposito presso il registro delle imprese, nonche' copia del versamento del contributo biennale di revisione previsto dalle norme vigenti.
 
@@ -157,9 +232,94 @@ In caso di particolari esigenze le ispezioni possono essere effettuate anche da 
 
 ## Art. 9. — Oggetto dell'ispezione straordinaria
 
+1.
+                        
+                            
+                                Le ispezioni straordinarie accertano:
+ 
+                            
+                            
+                                a)
+                                
+                                    l'esatta osservanza delle norme legislative, regolamentari, statutarie e mutualistiche;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la sussistenza dei requisiti richiesti da leggi generali e speciali per il godimento di agevolazioni tributarie, previdenziali e di altra natura;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il regolare funzionamento amministrativo contabile dell'ente;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    l'esatta impostazione tecnica e il regolare svolgimento delle attivita' specifiche promosse o assunte dall'ente;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    la consistenza patrimoniale dell'ente e lo stato delle attivita' e delle passivita';
+
+                                
+                            
+                            
+                                f)
+                                
+                                    la correttezza dei rapporti istaurati con i soci lavoratori e l'effettiva rispondenza di tali rapporti rispetto al regolamento e alla contrattazione collettiva di settore od alle tariffe vigenti.
+
 Il Ministero fissa, con proprio provvedimento, le modalita' di esecuzione delle ispezioni e il modello del relativo verbale.
 
 ## Art. 10. — L'ispettore di cooperative
+
+1.
+                        
+                            
+                                Agli ispettori di cooperative sono attribuiti, oltre alla facolta' di diffida di cui all'articolo 5:
+ 
+                            
+                            
+                                a)
+                                
+                                    il potere di accesso presso la sede dell'ente cooperativo ed in tutti gli altri luoghi di esercizio dell'attivita', anche presso terzi;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il potere di convocare ed interrogare tutti i soggetti coinvolti nell'attivita' dell'ente cooperativo, compresi i terzi;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il potere di acquisire e trattenere temporaneamente la documentazione sociale per il periodo ritenuto congruo per l'esecuzione dell'ispezione e comunque per un massimo di trenta giorni;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    il potere di estrarre copia e riprodurre atti;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    il potere di siglare i libri sociali e gli altri documenti al fine di impedire alterazioni o manomissioni degli stessi.
 
 ## - Titolo IV LA CERTIFICAZIONE DI BILANCIO
 
@@ -176,6 +336,45 @@ Il Ministro definisce, con proprio decreto, lo schema di convenzione di cui all'
 ## - Titolo V EFFETTI DELLA VIGILANZA
 
 ## Art. 12. — Provvedimenti
+
+1.
+                        
+                            
+                                Il Ministero, sulla base delle risultanze emerse in sede di vigilanza, valutate le circostanze del caso, puo' adottare, i seguenti provvedimenti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    cancellazione dall'albo nazionale degli enti cooperativi ovvero, nelle more dell'adozione del decreto ministeriale di cui all'articolo 15, comma 3, cancellazione dal registro prefettizio e dallo schedario generale della cooperazione; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    gestione commissariale, ai sensi dell'articolo 2543 del codice civile; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    scioglimento per atto dell'autorita', ai sensi dell'articolo 2544 del codice civile; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    sostituzione dei liquidatori, ai sensi dell'articolo 2545 del codice civile; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    liquidazione coatta amministrativa, ai sensi dell'articolo 2540 del codice civile.
 
 I provvedimenti sanzionatori di cui alle lettere a), b), c) e d) del comma 1 sono adottati sentita la Commissione centrale per le cooperative.
 

@@ -8,8 +8,8 @@ codice_redazionale: 009G0165
 vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:30Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -24,6 +24,107 @@ Preso atto che la Conferenza permanente per i rapporti tra lo Stato, le regioni 
 Sulla proposta del Ministro per le politiche europee e del Ministro del lavoro, della salute e delle politiche sociali, di concerto con i Ministri degli affari esteri, della giustizia, dell'economia e delle finanze, delle politiche agricole alimentari e forestali, dello sviluppo economico e per i rapporti con le regioni;
 
 ## Art. 1. — Modifiche al decreto legislativo 16 marzo 2006, n. 158
+
+1.
+                    
+                        
+                            Al decreto legislativo 16 marzo 2006, n. 158, e successive modificazioni, sono apportate le seguenti modifiche:
+ 
+                        
+                        
+                            a)
+                            
+                                all'articolo 1, comma 2, le lettere a) e c) sono sostituite dalle seguenti:
+ «a) carni e prodotti a base di carne di cui al regolamento (CE) n. 853/2004 del Parlamento europeo e del Consiglio, del 29 aprile 2004, e successive modificazioni;
+ c) medicinali veterinari di cui al decreto legislativo 6 aprile 2006, n. 193, e successive modificazioni.»;
+
+                            
+                        
+                        
+                            b)
+                            
+                                all'articolo 1, comma 3, la lettera e) e' sostituita dalla seguente:
+ «e) trattamento terapeutico: la somministrazione in conformita' alle prescrizioni di cui all'articolo 4, ad un singolo animale da azienda di una delle sostanze autorizzate allo scopo di trattare, previo esame dell'animale da parte di un veterinario, una disfunzione della fecondita', inclusa l'interruzione di una gravidanza indesiderata, e, per quanto riguarda le sostanze beta-agoniste, in vista dell'induzione della tocolisi nelle vacche al momento del parto nonche' del trattamento di disfunzioni respiratorie, di malattia navicolare e di laminite e dell'induzione della tocolisi negli equidi;»;
+
+                            
+                        
+                        
+                            c)
+                            
+                                l'articolo 2 e' sostituito dal seguente:
+ «Art. 2 (Divieto di immissione sul mercato) - 1. E' vietata l'immissione sul mercato di tireostatici, stilbeni, derivati dello stilbene, loro sali ed esteri, estradiolo-17 beta e suoi derivati sotto forma di esteri e sostanze beta-agoniste al fine della loro somministrazione a qualsiasi animale le cui carni e i cui prodotti siano destinati al consumo umano, per scopi diversi da quelli previsti all'articolo 4, comma 1, limitatamente alle lettere b) e c).»;
+
+                            
+                        
+                        
+                            d)
+                            
+                                all'articolo 4, comma 1, la lettera b) e' sostituita dalla seguente:
+ «b) trembolone allilico da somministrare per via orale, ovvero le sostanze ß-agoniste a equidi, sempreche' siano utilizzati conformemente alle indicazioni del fabbricante;»;
+
+                            
+                        
+                        
+                            e)
+                            
+                                all'articolo 4, comma 1, la lettera d) e' soppressa;
+
+                            
+                        
+                        
+                            f)
+                            
+                                all'articolo 4 il comma 2 e' sostituito dal seguente:
+ «2. La somministrazione dei medicinali veterinari di cui al comma 1, lettere a) e c), deve essere effettuata da un veterinario o, nel caso di medicinali veterinari contenenti le sostanze di cui al comma 1, lettera b), sotto la sua diretta responsabilita'.»;
+
+                            
+                        
+                        
+                            g)
+                            
+                                all'articolo 5, comma 1, la lettera c) e' soppressa;
+
+                            
+                        
+                        
+                            h)
+                            
+                                all'articolo 6, comma 1, nell'alinea le parole: «ai sensi dell'articolo 3 del decreto legislativo 27 gennaio 1992, n. 119,» sono sostituite dalle seguenti: «ai sensi dell'articolo 5 del decreto legislativo 6 aprile 2006, n. 193,»;
+
+                            
+                        
+                        
+                            i)
+                            
+                                all'articolo 6, comma 1, alla lettera a), le parole: «apportata dal regolamento (CEE) n. 2309 del 1993» sono sostituite dalle seguenti: «apportata dal regolamento (CE) n. 726/2004»;
+
+                            
+                        
+                        
+                            l)
+                            
+                                all'articolo 8, comma 1, le parole: «di cui al decreto legislativo 27 gennaio 1992, n. 119,» sono sostituite dalle seguenti: «di cui al decreto legislativo 6 aprile 2006, n. 193,»;
+
+                            
+                        
+                        
+                            m)
+                            
+                                all'articolo 10, comma 1, alla lettera b), dopo le parole: «carni o prodotti ottenuti da animali» sono inserite le seguenti: «destinati al consumo umano»;
+
+                            
+                        
+                        
+                            n)
+                            
+                                all'articolo 15, comma 3, le parole: «previsto dal decreto legislativo 27 gennaio 1992, n. 119» sono sostituite dalle seguenti: «previsto dal decreto legislativo 6 aprile 2006, n. 193,»;
+
+                            
+                        
+                        
+                            o)
+                            
+                                all'articolo 20, comma 1, le parole: «all'articolo 4, comma 1, lettera h), del decreto legislativo 27 gennaio 1992, n. 119» sono sostituite dalle seguenti: «all'articolo 12, comma 3, lettera h), del decreto legislativo 6 aprile 2006, n. 193», e le parole: «all'articolo 7 del regolamento (CEE) n. 2377/1990» sono sostituite dalle seguenti: «all'articolo 8 del regolamento (CE) n. 470 del 2009».
 
 ## Art. 2. — Clausola di cedevolezza
 

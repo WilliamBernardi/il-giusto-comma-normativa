@@ -7,8 +7,8 @@ vigente: true
 source: normattiva-opendata
 collection: Leggi delega e relativi provvedimenti delegati
 vigenza_date: 2025-06-13
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:41:18Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -78,9 +78,69 @@ Alle attivita' di cui al presente articolo si provvede con le risorse umane, fin
 ## Art. 8. — Scadenza dei versamenti rateali 
  delle imposte
 
+1.
+                    
+                        
+                            All'articolo 20 del decreto legislativo 9 luglio 1997, n. 241, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                
+                                    al comma 1, le parole: «, previa opzione esercitata dal contribuente in sede di dichiarazione periodica,» sono soppresse e le parole: «mese di novembre» sono sostituite dalle seguenti: «16 dicembre»;
+                                
+                            
+                        
+                        
+                            b)
+                            
+                                
+                                    il comma 4 e' sostituito dal seguente: «4. I versamenti rateali sono effettuati entro il giorno 16 di ciascun mese.».
+
 Le disposizioni di cui al comma 1 si applicano a decorrere dal versamento delle somme dovute a titolo di saldo delle imposte relative al periodo d'imposta in corso al 31 dicembre 2023.
 
 ## Art. 9. — Ampliamento soglia versamenti minimi dell'IVA e delle ritenute sui redditi di lavoro autonomo
+
+1.
+                    
+                        
+                            All'articolo 1, comma 4, del decreto del Presidente della Repubblica 23 marzo 1998, n. 100, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                
+                                    le parole: «lire cinquantamila» sono sostituite dalle seguenti: «euro 100»;
+                                
+                            
+                        
+                        
+                            b)
+                            
+                                
+                                    dopo le parole: «relativo al mese successivo» sono aggiunte le seguenti: «e comunque entro il 16 dicembre dello stesso anno».
+
+2.
+                    
+                        
+                            All'articolo 7, comma 1, lettera a), del decreto del Presidente della Repubblica 14 ottobre 1999, n. 542, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                
+                                    le parole: «lire 50.000» sono sostituite dalle seguenti: «euro 100»;
+                                
+                            
+                        
+                        
+                            b)
+                            
+                                
+                                    dopo le parole: «trimestre successivo» sono aggiunte, in fine, le seguenti: «e comunque entro il 16 dicembre dello stesso anno».
 
 Le disposizioni di cui ai commi 1 e 2 si applicano a decorrere dalle somme dovute con riferimento alle liquidazioni periodiche relative all'anno d'imposta 2024.
 
@@ -88,14 +148,104 @@ Se l'importo dovuto con riferimento alle ritenute di cui agli articoli 25 e 25-b
 
 La disposizione di cui al comma 4 si applica ai compensi corrisposti a decorrere dal mese di gennaio 2024.
 
+6.
+                    
+                        
+                            All'articolo 25-ter, comma 2-bis, del decreto del Presidente della Repubblica 29 settembre 1973, n. 600, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                
+                                    al secondo periodo, le parole: «30 giugno» sono sostituite dalle seguenti: «16 giugno» e le parole: «20 dicembre» sono sostituite dalle seguenti: «16 dicembre»;
+                                
+                            
+                        
+                        
+                            b)
+                            
+                                
+                                    dopo il secondo periodo, e' aggiunto, in fine, il seguente: «Il versamento delle ritenute operate nel mese di dicembre e' comunque effettuato entro il giorno 16 del mese successivo.».
+
 ## Art. 10. — Sospensione dell'invio di comunicazioni 
  e inviti
+
+1.
+                    
+                        
+                            Salvo casi di indifferibilita' e urgenza, dal 1° al 31 agosto e dal 1° al 31 dicembre e' sospeso l'invio dei seguenti atti, elaborati o emessi dall'Agenzia delle entrate: 
+ 
+                        
+                        
+                            a)
+                            
+                                comunicazioni degli esiti dei controlli automatizzati effettuati ai sensi degli articoli 36-bis del decreto del Presidente della Repubblica 29 settembre 1973, n. 600, e 54-bis del decreto del Presidente della Repubblica 26 ottobre 1972, n. 633; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                comunicazioni degli esiti dei controlli formali effettuati ai sensi dell'articolo 36-ter del decreto del Presidente della Repubblica 29 settembre 1973, n. 600; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                comunicazioni degli esiti della liquidazione delle imposte dovute sui redditi assoggettati a tassazione separata, di cui all'articolo 1, comma 412, della legge 30 dicembre 2004, n. 311; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                inviti all'adempimento di cui all'articolo 1, commi da 634 a 636, della legge 23 dicembre 2014, n. 190.
 
 Restano ferme le disposizioni di cui all'articolo 7-quater, comma 17, del decreto-legge 22 ottobre 2016, n. 193, convertito, con modificazioni, dalla legge 1° dicembre 2016, n. 225 e articolo 37, comma 11-bis, secondo periodo, del decreto-legge 4 luglio 2006, n. 223, convertito, con modificazioni, dalla legge 4 agosto 2006, n. 248.
 
 ## Art. 11. — Revisione dei termini di presentazione delle dichiarazioni fiscali
 
+1.
+                    
+                        
+                            Con effetto dal 2 maggio 2024, al decreto del Presidente della Repubblica 22 luglio 1998, n. 322, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                all'articolo 2, comma 1, le parole: «30 novembre» sono sostituite dalle seguenti: «((31 ottobre))»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                all'articolo 2, comma 2, le parole: «entro l'ultimo giorno dell'undicesimo mese» sono sostituite dalle seguenti: «entro l'ultimo giorno del ((decimo mese))»;
+
 Per i soggetti con periodo d'imposta non coincidente con l'anno solare per i quali il termine di presentazione delle dichiarazioni dei redditi e dell'imposta regionale sulle attivita' produttive relative al periodo d'imposta precedente a quello in corso al 31 dicembre 2023 scade successivamente alla data del 2 maggio 2024, continuano ad applicarsi per il predetto periodo d'imposta i termini di presentazione vigenti anteriormente alla medesima data.
+
+3.
+                    
+                        
+                            Con effetto dal ((15 aprile)) 2025, al decreto del Presidente della Repubblica 22 luglio 1998, n. 322, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                all'articolo 2, i commi 1 e 2 sono sostituiti dai seguenti:
+«1. Le persone fisiche presentano la dichiarazione secondo le disposizioni di cui all'articolo 3, per il tramite di un ufficio delle Poste italiane S.p.a. tra il ((15 aprile)) ed il 30 giugno ovvero in via telematica tra il ((15 aprile)) e il ((31 ottobre)) dell'anno successivo a quello di chiusura del periodo di imposta. Le societa' o le associazioni di cui all'articolo 5 del testo unico delle imposte sui redditi di cui al decreto del Presidente della Repubblica 22 dicembre 1986, n. 917, presentano la dichiarazione secondo le disposizioni di cui all'articolo 3 in via telematica tra il ((15 aprile)) e il ((31 ottobre)) dell'anno successivo a quello di chiusura del periodo di imposta. 
+ 2. I soggetti all'imposta sul reddito delle societa' presentano la dichiarazione secondo le disposizioni di cui all'articolo 3 in via telematica a partire dal ((15 aprile)) dell'anno successivo, se il periodo d'imposta coincide con l'anno solare, ed entro l'ultimo giorno del ((decimo mese)) successivo a quello di chiusura del periodo d'imposta.»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                all'articolo 4, comma 4-bis, le parole: «entro il 31 ottobre di ciascun anno» sono sostituite dalle seguenti: «tra il ((15 aprile)) e il 31 ottobre di ciascun anno».
 
 ## Art. 12. — (( (Termine annuale di invio al Sistema Tessera Sanitaria dei dati relativi alle spese sanitarie) ))
 
@@ -154,9 +304,49 @@ All'articolo 5, comma 2-quater, del decreto legislativo 7 marzo 2005, n. 82, le 
 
 ## Art. 19. — Dichiarazione dei redditi precompilata per le persone fisiche compresi i titolari di partita IVA
 
+1.
+                    
+                        
+                            All'articolo 1 del decreto legislativo 21 novembre 2014, n. 175 sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                
+                                    dopo il comma 1, e' inserito il seguente: «1-bis. A decorrere dal 2024, in via sperimentale, utilizzando le informazioni e i dati indicati al comma 1, l'Agenzia delle entrate rende disponibile telematicamente, entro il 30 aprile di ciascun anno, la dichiarazione precompilata relativa ai redditi prodotti nell'anno precedente anche alle persone fisiche titolari di redditi differenti da quelli indicati al medesimo comma 1. Con riferimento agli oneri indicati nella dichiarazione precompilata forniti dai soggetti terzi si applicano le disposizioni di cui all'articolo 5 del presente decreto.»;
+                                
+                            
+                        
+                        
+                            b)
+                            
+                                
+                                    al comma 3, dopo le parole: «La dichiarazione precompilata», sono inserite le seguenti: «, di cui ai commi 1 e 1-bis,».
+
 Alle attivita' di cui al presente articolo si provvede con le risorse umane, finanziarie e strumentali disponibili a legislazione vigente.
 
 ## Art. 20. — Comunicazione dei dati reddituali da parte dei soggetti terzi ai fini della dichiarazione precompilata
+
+1.
+                    
+                        
+                            All'articolo 3 del decreto legislativo 21 novembre 2014, n. 175 sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                
+                                    nella rubrica, dopo le parole: «dati relativi a oneri e spese sostenute dai contribuenti», sono inserite le seguenti: «e a redditi percepiti dai contribuenti»;
+                                
+                            
+                        
+                        
+                            b)
+                            
+                                
+                                    al comma 4, dopo le parole: «dei dati relativi alle spese che danno diritto a deduzioni dal reddito o detrazioni dall'imposta diverse da quelle indicate nei commi 1, 2 e 3», sono inserite le seguenti: «e dei dati relativi ai redditi percepiti dai contribuenti».
 
 ## Art. 21. — Modello Unico di delega per l'accesso 
  ai servizi dell'Agenzia
@@ -172,6 +362,52 @@ La rinuncia alla delega ricevuta e' comunicata dagli intermediari di cui al comm
 Con provvedimento del direttore dell'Agenzia delle entrate, da adottarsi entro centoventi giorni dall'entrata in vigore del presente decreto, sono definite le modalita' di attuazione delle previsioni di cui al presente articolo.
 
 ## Art. 22. — Rafforzamento dei servizi digitali
+
+1.
+                    
+                        
+                            L'Agenzia delle entrate mette a disposizione dei contribuenti servizi digitali per: 
+ 
+                        
+                        
+                            a)
+                            
+                                potenziare i canali di assistenza a distanza; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                consentire la registrazione delle scritture private; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                consentire la richiesta e l'ottenimento di certificati rilasciati dall'Agenzia stessa; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                consentire il confronto a distanza tra contribuente e uffici dell'Agenzia, nonche' lo scambio di documentazione relativa ad attivita' di controllo e accertamento; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                consentire il calcolo e il versamento degli importi dovuti a seguito di attivita' di controllo e accertamento nonche' liquidazione dei tributi gestiti dall'Agenzia delle entrate; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                l'effettuazione di ulteriori adempimenti.
 
 Con uno o piu' provvedimenti del direttore dell'Agenzia delle entrate, sentito il Garante per la protezione dei dati personali nei casi previsti dall'articolo 36, comma 1, del regolamento (UE) 2016/679 del Parlamento europeo e del Consiglio, del 27 aprile 2016, sono definite le regole tecniche e amministrative per la messa a disposizione, l'accesso e l'utilizzo dei predetti servizi digitali ai contribuenti ed eventualmente agli intermediari da loro delegati.
 

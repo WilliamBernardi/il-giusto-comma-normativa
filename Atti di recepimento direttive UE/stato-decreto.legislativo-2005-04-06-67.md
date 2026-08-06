@@ -9,7 +9,7 @@ vigente: true
 source: normattiva-opendata
 collection: Atti di recepimento direttive UE
 zip_date: 2026-07-30
-fetched_at: 2026-08-02T09:40:49Z
+fetched_at: 2026-07-30
 ---
 
 DECRETO LEGISLATIVO
@@ -35,6 +35,73 @@ Il presente decreto non si applica ai dispositivi medici di cui al comma 1 qualo
 
 ## Art. 2. — Definizioni
 
+1.
+                    
+                        
+                            Ai fini del presente decreto, oltre alle definizioni del decreto legislativo 24 febbraio 1997, n. 46, di seguito denominato: «decreto legislativo n. 46 del 1997», si applicano le seguenti definizioni:
+ 
+                        
+                        
+                            a)
+                            
+                                cellula: la piu' piccola unita' organizzata di qualsiasi forma vivente capace di esistenza indipendente e di autorigenerarsi in ambiente idoneo;
+
+                            
+                        
+                        
+                            b)
+                            
+                                tessuto: una organizzazione di cellule e/o di componenti extracellulari;
+
+                            
+                        
+                        
+                            c)
+                            
+                                derivato: un materiale ottenuto da un tessuto animale mediante un processo di fabbricazione, come, ad esempio, collagene, gelatina, anticorpi monoclinali;
+
+                            
+                        
+                        
+                            d)
+                            
+                                non vitale: non suscettibile di metabolismo o moltiplicazione;
+
+                            
+                        
+                        
+                            e)
+                            
+                                agenti trasmissibili: entita' patogene non classificate, prioni ed entita' quali gli agenti dell'encefalopatia spongiforme bovina e dello scrapie;
+
+                            
+                        
+                        
+                            f)
+                            
+                                riduzione, eliminazione o rimozione: un processo mediante il quale vengono ridotti, eliminati o rimossi gli agenti trasmissibili al fine di prevenire infezioni o reazioni patogene;
+
+                            
+                        
+                        
+                            g)
+                            
+                                disattivazione: un processo mediante il quale viene ridotta la capacita' di agenti trasmissibili di causare infezioni o reazioni patogene;
+
+                            
+                        
+                        
+                            h)
+                            
+                                Paese di origine: il Paese in cui l'animale e' nato, e' stato allevato e/o e' stato macellato;
+
+                            
+                        
+                        
+                            i)
+                            
+                                materiali di base: le materie prime o altri prodotti di origine animale e dai quali, o tramite i quali, vengono fabbricati i dispositivi di cui all'articolo 1, comma 1.
+
 ## Art. 3. — Valutazione di conformita'
 
 Prima di presentare domanda di valutazione della conformita' a norma dell'articolo 11, comma 1, del decreto legislativo n. 46 del 1997, i produttori dei dispositivi medici di cui all'articolo 1, comma 1, applicano il sistema di analisi e gestione del rischio di cui all'allegato 1 al presente decreto.
@@ -48,6 +115,45 @@ Se sulla base della verifica di cui al comma 1 e' necessario che i Ministeri del
 ## Art. 5. — Analisi e gestione del rischio
 
 Le procedure di valutazione della conformita' per i dispositivi medici di cui all'articolo 1, comma 1, comprendono la valutazione della loro conformita' ai requisiti essenziali stabiliti dal decreto legislativo n. 46 del 1997 e alle modalita' di cui all'allegato 1 al presente decreto.
+
+2.
+                    
+                        
+                            Gli organismi notificati valutano la strategia di analisi e di gestione del rischio seguita dal fabbricante e, in particolare, quanto segue:
+ 
+                        
+                        
+                            a)
+                            
+                                le informazioni fornite dal fabbricante;
+
+                            
+                        
+                        
+                            b)
+                            
+                                la giustificazione dell'uso di tessuti animali o di derivati;
+
+                            
+                        
+                        
+                            c)
+                            
+                                i risultati di studi in materia di eliminazione e/o disattivazione, o di ricerca nella letteratura scientifica;
+
+                            
+                        
+                        
+                            d)
+                            
+                                il controllo da parte del fabbricante sulle fonti delle materie prime, sui prodotti finiti e sui subappaltatori;
+
+                            
+                        
+                        
+                            e)
+                            
+                                la necessita' di verifica degli aspetti relativi all'approvvigionamento, comprese le forniture da parte di terzi.
 
 Nella valutazione dell'analisi e della gestione del rischio eseguita nel corso della procedura di valutazione della conformita', gli organismi notificati tengono conto del certificato di idoneita' EST rilasciato per i materiali di base dalla Direzione europea per la qualita' dei medicinali, di seguito denominato certificato EST, ove questo sia disponibile.
 

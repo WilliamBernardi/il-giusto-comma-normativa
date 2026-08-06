@@ -10,7 +10,7 @@ source: normattiva-opendata
 collection: Atti di recepimento direttive UE
 vigenza_date: 1999-06-18
 zip_date: 2026-07-30
-fetched_at: 2026-08-02T09:40:48Z
+fetched_at: 2026-07-30
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -28,7 +28,132 @@ Sulla proposta del Presidente del Consiglio dei Ministri e del Ministro dei tras
 
 ## Art. 1. — Campo di applicazione
 
+1.
+                    
+                        
+                            Il presente regolamento si applica alle operazioni di imbarco e trasporto o sbarco che si effettuano nei porti italiani per quanto attiene alle merci pericolose o inquinanti:
+ 
+                        
+                        
+                            a)
+                            
+                                in colli:
+ 1) in colli posti in "unita' di carico" o su "carrelli" oppure posti in contenitori posizionati su carrelli;
+ 2) in contenitori con solidi alla rinfusa;
+ 3) in contenitori intermedi;
+ 4) in contenitori cisterna;
+ 5) in veicoli cisterna stradali;
+ 6) in veicoli cisterna ferroviari;
+ 7) in veicoli stradali che contengono solidi alla rinfusa;
+ 8) in veicoli ferroviari che contengono solidi alla rinfusa;
+ 9) in chiatte (su navi porta chiatte) che contengono solidi alla rinfusa;
+
+                            
+                        
+                        
+                            b)
+                            
+                                alla rinfusa.
+
+2.
+                    
+                        
+                            Il presente regolamento non si applica:
+ 
+                        
+                        
+                            a)
+                            
+                                alla sosta e alla movimentazione delle merci pericolose all'interno delle aree portuali e a terra;
+
+                            
+                        
+                        
+                            b)
+                            
+                                ai depositi di combustibile, alle scorte ed attrezzature di bordo;
+
+                            
+                        
+                        
+                            c)
+                            
+                                alle navi da guerra e ad altre navi dello Stato utilizzate a fini non commerciali.
+
 ## Art. 2. — Definizioni
+
+1.
+                    
+                        
+                            Ai fini del presente regolamento si intendono per: 
+ 
+                        
+                        
+                            a)
+                            
+                                "agente marittimo" il raccomandatario marittimo di cui all'articolo 2 della legge 4 aprile 1977, n. 135; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                "nave", qualsiasi nave da carico, petroliera, chimicheria o gasiera o nave passeggeri diretta ad un porto della Comunita' o che ne esce e che trasporta merci pericolose o inquinanti, come indicato all'articolo 1, comma 1; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                "merci pericolose" le merci classificate nel codice IMDG ((inclusi i materiali radioattivi di cui alla raccolta INF)), nel capitolo 17 del codice IBC e nel capitolo 19 del codice IGC; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                "merci inquinanti": 
+ 1) idrocarburi, secondo la definizione della MARPOL, allegato 1; 
+ 2) sostanze liquide nocive, secondo la definizione della MARPOL, allegato 2; 
+ 3) sostanze dannose, secondo la definizione della MARPOL, allegato 3; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                "Marpol": la Convenzione internazionale del 1973 sulla prevenzione dell'inquinamento causato da navi e il relativo protocollo del 1978, in vigore al 1 gennaio 1998;
+                            
+                        
+                        
+                            f)
+                            
+                                Codice IMDG, il Codice marittimo internazionale per il trasporto delle merci pericolose in vigore il 1 gennaio 1997; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                "Codice IBC": il codice internazionale OMI per la costruzione e armamento delle navi che trasportano sostanze chimiche pericolose alla rinfusa, in vigore al 10 luglio 1998;
+                            
+                        
+                        
+                            h)
+                            
+                                "Codice IGC": il codice internazionale OMI per la costruzione e l'attrezzatura delle navi addette al trasporto di gas liquefatti alla rinfusa, in vigore al 1 luglio 1998;
+                            
+                        
+                        
+                            i)
+                            
+                                "raccolta INF": il corpus delle norme di sicurezza OMI per il trasporto di combustibile nucleare irradiato, di plutonio e di scorie altamente radioattive in fusti a bordo di navi in vigore dal 1 gennaio 1998;
+                            
+                        
+                        
+                            j)
+                            
+                                "risoluzione OMI A.851 (20)": la risoluzione 851 (20) dell'Organizzazione marittima internazionale, adottata dall'assemblea nella 20 sessione il 27 novembre 1997, avente per titolo "Principi generali dei sistemi di notifica e norme di compilazione delle notifiche, con orientamenti per la notifica di sinistri in cui sono coinvolte merci pericolose, sostanze nocive e/o sostanze inquinanti per l'ambiente marino";
 
 ## Art. 3. — Dichiarazione di imbarco
 

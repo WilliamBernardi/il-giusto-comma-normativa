@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Regi decreti
 vigenza_date: 2026-04-29
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T10:29:52Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 REGIO DECRETO

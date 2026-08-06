@@ -8,8 +8,8 @@ codice_redazionale: 098G0494
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:42Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -38,6 +38,64 @@ Alle universita' e alle istituzioni scolastiche di ogni ordine e grado, ivi comp
 Il contributo e' evidenziato nella fattura di acquisto con riferimento all'articolo 6 della legge 27 dicembre 1997, n. 449, ed e' corrisposto dal venditore mediante compensazione con il prezzo di acquisto, per ciascuna unita' operativa acquistata, come definita al comma 4.
 
 L'IVA si applica sul prezzo di acquisto fatturato al lordo del contributo ed al netto dello sconto del venditore.
+
+4.
+                    
+                        
+                            Agli effetti del comma 1 del presente regolamento si intende per "personal computer multimediale completo" un personal computer dotato di: 
+                        
+                        
+                            a)
+                            
+                                unita' centrale;
+                            
+                        
+                        
+                            b)
+                            
+                                unita' disco rigido;
+                            
+                        
+                        
+                            c)
+                            
+                                unita' lettore CD- ROM;
+                            
+                        
+                        
+                            d)
+                            
+                                scheda di gestione dell'audio del video;
+                            
+                        
+                        
+                            e)
+                            
+                                diffusori sonori;
+                            
+                        
+                        
+                            f)
+                            
+                                monitor;
+                            
+                        
+                        
+                            g)
+                            
+                                dispositivi di connessione di periferiche;
+                            
+                        
+                        
+                            h)
+                            
+                                tastiera e mouse;
+                            
+                        
+                        
+                            i)
+                            
+                                sistema operativo capace di gestire le risorse sopra elencate. Nel caso in cui le universita' e le istituzioni scolastiche acquistino piu' personal computer che condividono un unico accesso ai servizi telematici, la fornitura puo' comprendere piu' unita' operative, comunque capaci di elaborazioni autonome, ciascuna dotata, al minimo, di quanto indicato ai punti a), f), g), h), i). Agli stessi effetti si intende per "modem" a corredo del "personal computer" qualsiasi dispositivo interno od esterno adatto al collegamento remoto del PC (modem per linee telefoniche analogiche, terminal adapter per linee telefoniche digitali (ISDN) router per linee dedicate, ecc.), e per "software" sia quello di base che quello applicativo. L'istituzione che chiede di accedere al beneficio deve poter dimostrare di possedere o di acquistare almeno uno di tali dispositivi con il quale consentire la connessione del personal computer acquistato ai servizi di rete.
 
 ## Art. 2.
 

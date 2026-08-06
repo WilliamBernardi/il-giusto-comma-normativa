@@ -8,8 +8,8 @@ vigente: true
 source: normattiva-opendata
 collection: Leggi delega e relativi provvedimenti delegati
 vigenza_date: 2025-05-14
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:41:14Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -29,6 +29,88 @@ Acquisiti i pareri delle competenti Commissioni della Camera dei deputati e del 
 
 Il presente decreto, in attuazione della delega disposta con l'articolo 1 della legge 6 giugno 2016, n. 106, detta norme per la revisione della disciplina in materia di servizio civile nazionale, nel rispetto dei principi e criteri direttivi individuati dall'articolo 8 della medesima legge.
 
+2.
+                        
+                            
+                                Nel presente decreto sono denominati: 
+ 
+                            
+                            
+                                a)
+                                
+                                    «Piano triennale»: strumento di programmazione del servizio civile universale che si attua per programmi di intervento; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    
+                                        ((LETTERA ABROGATA DAL D.L. 6 NOVEMBRE 2021, N. 152, CONVERTITO CON MODIFICAZIONI DALLA L. 29 DICEMBRE 2021, N. 233)); 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    «Settore»: ambito di intervento in cui si realizza il servizio civile universale; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    «Programma di intervento»: documento proposto dagli enti iscritti all'albo degli enti di servizio civile universale, contenente un insieme organico di progetti di servizio civile universale coordinati tra loro e finalizzati ad intervenire in uno o piu' settori, anche aventi ad oggetto specifiche aree territoriali; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    «Progetto di servizio civile universale»: elaborato contenente modalita', tempi e risorse per la realizzazione delle attivita' di servizio civile universale; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    «Sede di attuazione»: articolazione organizzativa dell'ente di servizio civile universale nella quale si svolgono le attivita' previste nel progetto ovvero articolazione organizzativa di altri enti, pubblici o privati, legati da specifici accordi all'ente di servizio civile universale; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    «Ente di servizio civile universale»: soggetto pubblico o privato iscritto all'albo degli enti di servizio civile universale; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    «Consulta nazionale per il servizio civile universale»: organo consultivo della competente struttura della Presidenza del Consiglio dei ministri in ordine alle questioni concernenti l'attuazione del servizio civile universale; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    «Operatore volontario del servizio civile universale»: volontario impegnato nella realizzazione del servizio civile universale in Italia o all'estero; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    «Rappresentanza degli operatori volontari»: organo di rappresentanza degli operatori volontari, articolato a livello nazionale e a livello regionale; 
+
+                                
+                            
+                            
+                                m)
+                                
+                                    «Fondo nazionale per il servizio civile»: fondo istituito dalla legge 8 luglio 1998, n. 230, nel quale affluiscono le risorse di cui all'articolo 11 della legge 6 marzo 2001, n. 64 nonche' le risorse comunitarie per il finanziamento degli interventi di servizio civile universale.
+
 ## Art. 2.
 
 Istituzione del servizio civile universale e finalita'
@@ -37,6 +119,59 @@ E' istituito il servizio civile universale finalizzato, ai sensi degli articoli 
 
 ## Art. 3. — Settori di intervento
 
+1.
+                        
+                            
+                                I settori di intervento nei quali si realizzano le finalita' del servizio civile universale di cui all'articolo 2 sono i seguenti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    assistenza; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    protezione civile; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    patrimonio ambientale e riqualificazione urbana; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    patrimonio storico, artistico e culturale; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    educazione e promozione culturale ((, paesaggistica, ambientale, del turismo sostenibile e sociale,)) e dello sport; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    agricoltura in zona di montagna, agricoltura sociale e biodiversita'; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    promozione della pace tra i popoli, della nonviolenza e della difesa non armata; promozione e tutela dei diritti umani; cooperazione allo sviluppo; promozione della cultura italiana all'estero e sostegno alle comunita' di italiani all'estero.
+
 ## - Capo II Programmazione e attuazione del servizio civile universale
 
 ## Art. 4. — Programmazione
@@ -44,6 +179,31 @@ E' istituito il servizio civile universale finalizzato, ai sensi degli articoli 
 La programmazione del servizio civile universale e' realizzata con un Piano triennale, ((, suscettibile di aggiornamento annuale,)) attuato mediante programmi di intervento, proposti dagli enti di servizio civile universale nell'ambito di uno o piu' settori di cui all'articolo 3.
 
 Il Piano triennale ((tiene conto)) del contesto nazionale e internazionale e delle specifiche aree geografiche, ivi comprese quelle estere, nonche' delle risorse del bilancio dello Stato, di quelle comunitarie e di altre risorse destinate al servizio civile universale, rese disponibili da soggetti pubblici o privati.
+
+3.
+                        
+                            
+                                Il Piano triennale ((...)), ((contiene)): 
+ 
+                            
+                            
+                                a)
+                                
+                                    la definizione degli obiettivi e degli indirizzi generali in materia di servizio civile universale, anche al fine di favorire la partecipazione dei giovani con minori opportunita'; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la programmazione degli interventi in materia di servizio civile universale, per l'Italia e per l'estero, anche a carattere sperimentale, e l'individuazione di quelli ritenuti prioritari; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    l'individuazione degli standard qualitativi degli interventi.
 
 Il Piano triennale ((e' predisposto)) dalla Presidenza del Consiglio dei ministri sentite le amministrazioni competenti per i settori previsti dall'articolo 3 e le regioni e ((e' approvato)) con decreto del Presidente del Consiglio dei ministri, d'intesa con la Conferenza permanente per i rapporti tra lo Stato, le regioni e le Province autonome di Trento e di Bolzano, ai sensi dell'articolo 3 del decreto legislativo 28 agosto 1997, n. 281, previo parere della Consulta nazionale per il servizio civile universale.
 
@@ -74,6 +234,70 @@ Le amministrazioni pubbliche, gli enti locali, gli altri enti pubblici territori
 La programmazione, l'organizzazione e l'attuazione del servizio civile universale, nonche' l'accreditamento degli enti, le attivita' di controllo ed ogni ulteriore adempimento relativo alle funzioni attribuite in materia di servizio civile universale allo Stato dall'articolo 8 della legge 6 giugno 2016, n. 106, sono svolte dalla Presidenza del Consiglio dei ministri senza nuovi e maggiori oneri a carico della finanza pubblica, nei limiti della dotazione organica, di personale dirigenziale e non dirigenziale vigente alla data di entrata in vigore del presente decreto.
 
 ## Art. 7. — Funzioni delle regioni e province autonome
+
+1.
+                        
+                            
+                                Le regioni e le Province autonome di Trento e di Bolzano: 
+ 
+                            
+                            
+                                a)
+                                
+                                    sono sentite dalla Presidenza del Consiglio dei ministri, ai sensi dell'articolo 4, comma 4, nella fase di predisposizione del Piano triennale ((...)); si esprimono in sede di Conferenza permanente per i rapporti tra lo Stato, le regioni e le Province autonome di Trento e di Bolzano sul decreto del Presidente del Consiglio dei ministri, ai fini dell'intesa di cui all'articolo 4, comma 4; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    sono coinvolte nella valutazione dei programmi di intervento approvati dalla Presidenza del Consiglio dei ministri, con le modalita' previste all'articolo 5, commi 5, 6 e 7; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    esprimono il parere in sede di Conferenza permanente per i rapporti tra lo Stato, le regioni e le Province autonome di Trento e di Bolzano sul documento di programmazione finanziaria di cui all'articolo 24; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    attuano programmi di servizio civile universale con risorse proprie presso i soggetti accreditati all'albo degli enti di servizio civile universale, previa approvazione della Presidenza del Consiglio dei ministri, consistente nella verifica del rispetto dei principi e delle finalita' del servizio civile universale di cui al presente decreto.
+
+2.
+                        
+                            
+                                Le regioni e le Province autonome di Trento e di Bolzano, previa sottoscrizione di uno o piu' accordi con la Presidenza del Consiglio dei ministri, possono svolgere le seguenti funzioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    formazione da erogare al personale degli enti di servizio civile universale, anche avvalendosi di enti di servizio civile universale dotati di una specifica professionalita'; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    controllo sulla gestione delle attivita' svolte dagli enti di servizio civile universale nei territori di ciascuna regione o provincia autonoma; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    valutazione dei risultati relativi agli interventi svolti dagli enti di servizio civile universale e realizzati nei territori di ciascuna regione o provincia autonoma o citta' metropolitana; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    ispezioni presso gli enti di servizio civile universale che operano unicamente negli ambiti territoriali delle regioni e delle province autonome, finalizzate alla verifica della corretta realizzazione degli interventi, nonche' del regolare impiego degli operatori di servizio civile universale.
 
 Fino alla data della sottoscrizione degli accordi di cui al presente articolo, ovvero in caso di mancata sottoscrizione degli stessi, la Presidenza del Consiglio dei ministri provvede allo svolgimento delle attivita' previste al comma 2.
 
@@ -140,6 +364,24 @@ Il Dipartimento per le politiche giovanili e il servizio civile universale della
 E' istituito presso la Presidenza del Consiglio dei ministri, senza nuovi e maggiori oneri a carico del bilancio dello Stato, l'albo degli enti di servizio civile universale.
 
 All'albo degli enti di servizio civile universale possono iscriversi amministrazioni pubbliche e, previo accertamento del rispetto della normativa antimafia di cui al decreto legislativo 6 settembre 2011, n. 159, enti privati, in possesso dei requisiti previsti dall'articolo 3 della legge 6 marzo 2001, n. 64.
+
+3.
+                        
+                            
+                                Al fine di assicurare la qualita', l'efficienza e l'efficacia del servizio civile universale, le amministrazioni pubbliche e gli enti privati devono possedere i seguenti livelli minimi di capacita' organizzativa di cui alla lettera b) dell'articolo 3 della legge n. 64 del 2001: 
+ 
+                            
+                            
+                                a)
+                                
+                                    un'articolazione organizzativa di cento sedi di attuazione, aventi i requisiti di cui all'articolo 5, comma 3, ivi incluse eventuali sedi all'estero e sedi di altri enti pubblici o privati legati da specifici accordi all'ente di servizio civile universale; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    una dotazione di personale qualificato in possesso di idonei titoli di studio, o di esperienza biennale nelle relative funzioni, ovvero che abbia svolto specifici corsi di formazione e costituita da: un coordinatore responsabile del servizio civile universale; un responsabile della sicurezza ai sensi del decreto legislativo 9 aprile 2008, n. 81 e successive modificazioni; un responsabile dell'attivita' di formazione degli operatori volontari e dei relativi formatori, ivi inclusa la valorizzazione delle competenze; un responsabile della gestione degli operatori volontari; un responsabile dell'attivita' informatica; un responsabile delle attivita' di controllo, verifica e valutazione del servizio civile universale.
 
 L'albo di cui al comma 1 e' articolato in distinte sezioni regionali alle quali possono iscriversi enti di servizio civile universale che operano esclusivamente nel territorio di un'unica regione e che hanno, con riferimento alla capacita' organizzativa di cui all'articolo 3, comma 1, lettera b) della legge 6 marzo 2001, n. 64, un'articolazione minima di trenta sedi di attuazione, fermo restando gli ulteriori requisiti di cui all'articolo 5, comma 3, del presente decreto e quelli previsti dal comma 3, lettera b).
 
@@ -300,6 +542,56 @@ Il Presidente del Consiglio dei ministri presenta ogni anno al Parlamento, entro
 Il servizio civile universale e' finanziato dal Fondo nazionale per il servizio civile, istituito ai sensi dell'articolo 19 della legge 8 luglio 1998, n. 230, e collocato presso la Presidenza del Consiglio dei ministri. Al Fondo affluiscono tutte le risorse di cui all'articolo 11 della legge 6 marzo 2001, n. 64, nonche' le risorse comunitarie destinate all'attuazione degli interventi di servizio civile universale. Resta ferma la possibilita' per i soggetti privati di concorrere alle forme di finanziamento previste dall'articolo 11 della legge 6 marzo 2001, n. 64.
 
 Ai fini dell'erogazione dei trattamenti previsti dal presente decreto, la Presidenza del Consiglio dei ministri cura l'amministrazione e la programmazione annuale delle risorse di cui al Fondo nazionale per il servizio civile, formulando annualmente, entro il 31 gennaio dell'anno di riferimento, un apposito documento di programmazione finanziaria, previo parere della Consulta nazionale del servizio civile universale e della Conferenza permanente per i rapporti tra lo Stato, le regioni e le Province autonome di Trento e di Bolzano. Il documento di programmazione finanziaria puo' essere variato con apposita nota infrannuale, ove se ne manifesti l'esigenza e sussistano adeguate risorse finanziarie disponibili. La nota di variazione e' predisposta con le stesse formalita' del documento di programmazione finanziaria entro il 30 settembre dell'anno di riferimento.
+
+3.
+                        
+                            
+                                Il documento di programmazione finanziaria di cui al comma 2, in relazione alle risorse disponibili stabilisce: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il contingente complessivo degli operatori volontari da avviare al servizio civile universale nell'anno di riferimento con l'indicazione del numero di: 
+ 1. operatori volontari da avviare in Italia; 
+ 2. operatori volontari da avviare all'estero; 
+ 3. operatori volontari impegnati in interventi in Italia, che possono svolgere un periodo di servizio nei Paesi dell'Unione europea secondo le modalita' previste dall'articolo 12, comma 1; 
+ 4. operatori volontari per l'accompagnamento dei grandi invalidi e ciechi civili di cui all'articolo 1 della legge 27 dicembre 2002, n. 288 e all'articolo 40 della legge 27 dicembre 2002, n. 289; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la quota delle risorse del Fondo da utilizzare per le spese di funzionamento ai sensi dell'articolo 7 della legge 6 marzo 2001, n. 64; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    la quota di risorse del Fondo vincolata, a richiesta dei conferenti, ai sensi dell'articolo 11, comma 2, della legge 6 marzo 2001, n. 64, allo sviluppo di programmi di intervento in aree e settori di impiego specifico; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    la quantificazione e le modalita' di erogazione dei contributi da erogare alle regioni o province autonome per le attivita' di cui all'articolo 7, comma 3, nonche' la quota relativa ai contributi da erogare agli enti di servizio civile universale per le attivita' di cui agli articoli 12, comma 2, e 13, comma 2; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    la quantificazione dell'assegno mensile da corrispondere agli operatori volontari in Italia e all'estero, nonche' gli eventuali oneri assicurativi e accessori. 
+
+                                
+                            
+                            
+                                e-bis)
+                                
+                                    la quota di risorse occorrenti per le procedure elettorali della rappresentanza degli operatori volontari e per lo svolgimento delle relative Assemblee.
 
 Al Fondo nazionale per il servizio civile di cui al presente articolo continuano ad applicarsi le disposizioni di cui all'articolo 1 del decreto-legge 16 settembre 1999, n. 324, convertito con modificazioni dalla legge 12 novembre 1999, n. 424, nonche' le disposizioni del decreto legislativo 30 giugno 2011, n. 123 e successive modificazioni e le previsioni di cui al decreto del Presidente del Consiglio dei ministri 22 novembre 2010, pubblicato nella Gazzetta Ufficiale n. 286 del 7 dicembre 2010.
 

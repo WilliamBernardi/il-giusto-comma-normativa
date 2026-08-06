@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: DPR
 vigenza_date: 2018-02-13
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:47:44Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -37,6 +37,49 @@ La connessione si ha quando diversi procedimenti siano tra loro condizionati o s
 La concessione di beni del demanio marittimo per la realizzazione delle strutture dedicate alla nautica da diporto di cui all'articolo 2, lettera c), e' rilasciata conducendo secondo principi di celerita' e snellezza le procedure gia' operanti per le strutture di interesse turisticoricreativo in applicazione dell'articolo 59 del decreto del Presidente della Repubblica 24 luglio 1977, n. 616, del decreto-legge 5 ottobre 1993, n. 400, convertito, con modificazioni, dalla legge 4 dicembre 1993, n. 494, e dell'articolo 8 del decreto-legge 21 ottobre 1996, n. 535, convertito, con modificazioni, dalla legge 23 dicembre 1996, n. 647.
 
 ## Art. 2. — Definizioni
+
+1.
+                    
+                        
+                            Sono strutture dedicate alla nautica da diporto: 
+ 
+                        
+                        
+                            a)
+                            
+                                il "porto turistico", ovvero il complesso di strutture amovibili ed inamovibili realizzate con opere a terra e a mare allo scopo di servire unicamente o precipuamente la nautica da diporto ed il diportista nautico, anche mediante l'apprestamento di servizi complementari; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                l'"approdo turistico", ovvero la porzione dei porti polifunzionali aventi le funzioni di cui all'articolo 4, comma 3, della legge 28 gennaio 1994, n. 84, destinata a servire la nautica da diporto ed il diportista nautico, anche mediante l'apprestamento di servizi complementari; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                i "punti d'ormeggio", ovvero le aree demaniali marittime e gli specchi acquei dotati di strutture che non importino impianti di difficile rimozione, destinati all'ormeggio, alaggio, varo e rimessaggio ((, anche a secco,)) di piccole imbarcazioni e natanti da diporto.
+
+2.
+                    
+                        
+                            La concessione demaniale marittima per la realizzazione delle strutture dedicate alla nautica da diporto di cui al comma 1, lettere a) e b), e' rilasciata: 
+ 
+                        
+                        
+                            a)
+                            
+                                con atto approvato dal direttore marittimo, nel caso di concessioni di durata non superiore a quindici anni; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                con atto approvato dal dirigente generale preposto alla Direzione generale del demanio marittimo e dei porti del Ministero dei trasporti e della navigazione, nel caso di concessioni di durata superiore a quindici anni.
 
 Qualora la concessione ricada nella circoscrizione territoriale di una autorita' portuale, e' rilasciata dal presidente ai sensi dell'articolo 8, comma 3, lettera h), della legge 28 gennaio 1994, n. 
 84, e l'attivita' istruttoria di competenza dell'autorita' marittima e' curata dal segretario generale.
@@ -67,6 +110,59 @@ Eventuali domande concorrenti con quella pubblicata vanno presentate, a pena d'i
 
 Esperita la pubblicazione, le istanze pervenute, corredate della relativa documentazione, sono trasmesse a cura dell'autorita' marittima, entro trenta giorni, al sindaco del comune interessato.
 
+2.
+                    
+                        
+                            I progetti preliminari sono sottoposti all'esame di una conferenza di servizi promossa dal sindaco entro trenta giorni dalla ricezione delle istanze, alla quale sono chiamati a partecipare:
+ 
+                        
+                        
+                            a)
+                            
+                                la regione, per la ammissibilita' sotto il profilo urbanistico e pianificatorio, per la verifica di cui all'articolo 10 del decreto del Presidente della Repubblica 12 aprile 1996, nonche' per l'autorizzazione ai sensi dell'articolo 7 della legge 29 giugno 1939, n. 1497, ove non delegata agli enti locali;
+
+                            
+                        
+                        
+                            b)
+                            
+                                il comune, per l'ammissibilita' sotto il profilo urbanistico edilizio;
+
+                            
+                        
+                        
+                            c)
+                            
+                                la circoscrizione doganale, ai fini dell'autorizzazione di cui all'articolo 19 del decreto legislativo 8 novembre 1990, n. 374;
+
+                            
+                        
+                        
+                            d)
+                            
+                                l'autorita' competente al rilascio della concessione demaniale marittima ai sensi dell'articolo 2, comma 2;
+
+                            
+                        
+                        
+                            e)
+                            
+                                l'ufficio del genio civile opere marittime, ai fini della valutazione sull'idoneita' tecnica delle opere;
+
+                            
+                        
+                        
+                            f)
+                            
+                                l'ufficio del territorio del Ministero delle finanze, per gli aspetti dominicali;
+
+                            
+                        
+                        
+                            g)
+                            
+                                altre amministrazioni che, in forza di leggi, regolamenti o appositi provvedimenti amministrativi, risultino preposte alla tutela di specifici interessi pubblici.
+
 Le domande, complete degli allegati, sono inviate agli enti invitati alla conferenza almeno novanta giorni prima della data di convocazione, al fine di consentire ai medesimi l'espletamento delle procedure necessarie alla compiuta e definitiva espressione delle rispettive competenze. La regione si esprime per i profili di propria competenza previa acquisizione del parere dei propri organi tecnici consultivi.
 
 Sono fatte salve le disposizioni di cui all'articolo 5, commi 5, 6 e 7, del decreto del Presidente della Repubblica 12 aprile 1996, nonche' quelle di cui all'articolo 27 della legge 8 giugno 1990, n. 142, e successive modificazioni.
@@ -86,6 +182,24 @@ La regione, in relazione alle caratteristiche, localizzazione, tipologia, dimens
 ## Art. 6. — Approvazione del progetto definitivo
 
 Entro quindici giorni dalla valutazione di ammissibilita' del progetto preliminare, il sindaco invita il richiedente alla presentazione del progetto definitivo, redatto ai sensi dell'articolo 16, comma 3, della legge n. 109 del 1994, con particolare riferimento al piano di monitoraggio e manutenzione dell'opera e del tratto di costa interessato e allo studio d'impatto ambientale, ove prescritto, redatto secondo le indicazioni di cui al decreto del Presidente della Repubblica 12 aprile 1996, per la successiva trasmissione alla competente autorita' regionale.
+
+2.
+                    
+                        
+                            L'approvazione del progetto definitivo e' effettuata:
+ 
+                        
+                        
+                            a)
+                            
+                                in caso di conformita' dello stesso ai vigenti strumenti di pianificazione ed urbanistici, mediante conferenza di servizi, ai sensi e per gli effetti di cui all'articolo 14 della legge 7 agosto 1990, n. 241, e successive modificazioni;
+
+                            
+                        
+                        
+                            b)
+                            
+                                in caso di difformita' del progetto rispetto ai vigenti strumenti di pianificazione ed urbanistici, mediante accordo di programma ai sensi e per gli effetti dell'articolo 27 della legge n. 142 del 1990 e successive modificazioni.
 
 Alla conferenza di servizi o all'accordo di programma promossi dal sindaco partecipano, per la formalizzazione dei provvedimenti di rispettiva competenza, ove non definitivamente formalizzati nel corso dell'esame del progetto preliminare, le amministrazioni di cui all'articolo 5, comma 2, ed in ogni caso il competente ufficio del genio civile delle opere marittime del Ministero dei lavori pubblici per la valutazione di idoneita' tecnica delle opere descritte nel progetto, nonche' l'autorita' competente per la pronuncia di compatibilita' ambientale ai sensi del decreto del Presidente della Repubblica 12 aprile 1996.
 

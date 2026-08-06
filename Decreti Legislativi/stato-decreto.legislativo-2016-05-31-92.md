@@ -8,8 +8,8 @@ vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
 vigenza_date: 2024-04-21
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:31Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -55,7 +55,140 @@ Per i magistrati onorari che, all'esito dell'elezione straordinaria prevista dal
 
 ## Art. 3. — Sezione autonoma per i magistrati onorari del consiglio giudiziario
 
+1.
+                    
+                        
+                            Al decreto legislativo 27 gennaio 2006, n. 25, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                l'articolo 10 e' sostituito dal seguente: 
+ 
+ "ART. 10 
+(Sezione autonoma per i magistrati onorari del consiglio giudiziario) 
+ 
+ 1. Nel consiglio giudiziario e' istituita una sezione autonoma per i giudici onorari di pace e i vice procuratori onorari per l'esercizio delle competenze assegnate dalla legge in relazione: 
+ a) alla procedura di concorso per titoli per l'accesso, all'ammissione al tirocinio e all'organizzazione e al coordinamento del medesimo; 
+ b) alla proposta per la nomina di coloro che hanno terminato il tirocinio e alla formazione di una graduatoria degli idonei; 
+ c) al giudizio di idoneita' per la conferma nell'incarico; 
+ d) alle valutazioni sulle proposte di sospensione dalle funzioni, decadenza, dispensa, revoca dell'incarico e di applicazione di sanzioni disciplinari. 
+ 2. La sezione autonoma e' altresi' competente per l'espressione dei pareri sui provvedimenti organizzativi e sulle proposte di organizzazione dagli uffici del giudice di pace. Essa esercita inoltre le competenze assegnate dalla legge in relazione alle determinazioni organizzative dell'attivita' dei vice procuratori onorari in procura della Repubblica e dei giudici onorari di pace in tribunale, fatta eccezione per le materie di cui all'articolo 7-bis dell'ordinamento giudiziario, di cui al regio decreto 30 gennaio 1941, n. 12. 
+ 3. La sezione autonoma e' composta, oltre che dai componenti di diritto del consiglio giudiziario, da: 
+ a) tre magistrati e un avvocato, eletti dal consiglio giudiziario tra i suoi componenti, e due giudici onorari di pace e un vice procuratore onorario eletti sia dai giudici onorari di pace che dai viceprocuratori onorari in servizio nel distretto, nell'ipotesi di cui all'articolo 9, comma 2; 
+ b) cinque magistrati e un avvocato, eletti dal consiglio giudiziario tra i suoi componenti, e tre giudici onorari di pace e due vice procuratori onorari eletti sia dai giudici onorari di pace che dai vice procuratori onorari in servizio nel distretto, nell'ipotesi di cui all'articolo 9, comma 3; 
+ c) otto magistrati e due avvocati, eletti dal consiglio giudiziario tra i suoi componenti, e quattro giudici onorari di pace e tre viceprocuratori onorari eletti sia dai giudici onorari di pace che dai viceprocuratori onorari in servizio nel distretto, nell'ipotesi di cui all'articolo 9, comma 3-bis. 
+ 4. Le sedute della sezione autonoma sono valide con la presenza della meta' piu' uno dei componenti e le deliberazioni sono assunte a maggioranza dei presenti. In caso di parita' prevale il voto del presidente. 
+ 5. In caso di mancanza o di impedimento, i membri di diritto del consiglio giudiziario sono sostituiti da chi ne esercita le funzioni. 
+ 6. Nelle ipotesi di cui al comma 1, lettere c) e d), il componente della sezione autonoma nominato dal Consiglio nazionale forense non puo' partecipare alle discussioni e alle deliberazioni della sezione medesima, che riguardano un magistrato onorario che esercita le funzioni in un ufficio del circondario del tribunale presso cui ha sede l'ordine al quale l'avvocato e' iscritto."; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                l'articolo 12-ter e' sostituto dal seguente: 
+ 
+ "ART. 12-ter 
+(Presentazione delle liste per la elezione dei magistrati onorari componenti della sezione autonoma del consiglio giudiziario). 
+ 
+ 1. Concorrono all'elezione dei magistrati onorari componenti della sezione di cui all'articolo 10, che si tiene contemporaneamente a quella per i componenti togati e negli stessi locali e seggi, le liste di candidati presentate da almeno quindici elettori. Ciascuna lista non puo' essere composta da un numero di candidati superiore al numero di eleggibili per il consiglio giudiziario. Nessun candidato puo' essere inserito in piu' di una lista. 
+ 2. Ciascun elettore non puo' presentare piu' di una lista. Le firme di presentazione per le liste dei giudici onorari di pace sono autenticate dal presidente del tribunale del circondario ovvero da un magistrato da questi delegato. Le firme di presentazione per le liste dei vice procuratori onorari sono autenticate dal procuratore della Repubblica del circondario ovvero da un magistrato da questi delegato. 
+ 3. Ogni elettore riceve due schede, una per ciascuna delle categorie di magistrati onorari di cui all'articolo 10, ed esprime il voto di lista ed una sola preferenza nell'ambito della lista votata."; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                all'articolo 12-quater, la rubrica e' sostituita dalla seguente: "Assegnazione dei seggi per i magistrati onorari". 
+
+                            
+                        
+                        
+                            d)
+                            
+                                all'articolo 13, comma 2, le parole: "ed il componente rappresentante dei giudici di pace" sono sostituite dalle seguenti: "ed i componenti rappresentanti dei giudici onorari di pace e dei vice procuratori onorari".
+
 ## Art. 4. — Modifiche al decreto legislativo 28 febbraio 2008, n. 35
+
+1.
+                    
+                        
+                            Al decreto legislativo 28 febbraio 2008, n. 35, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                all'articolo 1, comma 1, le parole: "ed i giudici di pace" sono sostituite dalle seguenti: ", i giudici onorari di pace e i vice procuratori onorari"; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                all'articolo 2, comma 2, le parole: "ed i giudici di pace" sono sostituite dalle seguenti: ", i giudici onorari di pace e i vice procuratori onorari"; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                all'articolo 3 sono apportate le seguenti modificazioni: 
+ 1) al comma 1, le parole: "e dei giudici di pace" sono sostituite dalle seguenti: "dei giudici onorari di pace e dei vice procuratori onorari", le parole: "sia per i giudici di pace" sono sostituite dalle seguenti: "sia per i giudici onorari di pace e per i vice procuratori onorari" e le parole: "non piu' di trecento magistrati e giudici di pace" sono sostituite dalle seguenti: " non piu' di trecento magistrati, giudici onorari di pace e vice procuratori onorari"; 
+ 2) al comma 2, primo periodo, le parole: "distinti tra magistrati ordinari e giudici di pace" sono sostituite dalle seguenti: "distinti tra magistrati ordinari e onorari" e, al terzo periodo, le parole: " I magistrati o i giudici di pace" sono sostituite dalle seguenti: "I magistrati, i giudici onorari di pace o i vice procuratori onorari"; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                all'articolo 4 sono apportate le seguenti modificazioni: 
+ 1) al comma 1, le parole: "al doppio di quello dei magistrati e dei giudici di pace" sono sostituite dalle seguenti: "al doppio di quello dei magistrati ordinari e onorari"; 
+ 2) il comma 4, e' sostituito dal seguente: "4. Il voto del giudice onorario di pace e del vice procuratore onorario e' espresso indicando su ciascuna scheda la lista prescelta. Puo', inoltre, essere indicato il nome e il cognome di un solo magistrato onorario del distretto di appartenenza scelto tra quelli compresi nella lista votata. La scheda e' piegata e riconsegnata al presidente, il quale, dopo aver fatto prendere nota al segretario del nome del votante, la pone nell'urna."; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                all'articolo 8, le parole: " A4 e A5" sono sostituite dalle seguenti: "A4, A5 e A5-bis"; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                all'allegato A5 le parole: "giudici di pace" sono sostituite, ovunque ricorrano, dalle seguenti: "giudici onorari di pace" e le parole: "giudice di pace" sono sostituite dalle seguenti: "giudice onorario di pace"; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                dopo l'allegato A5 e' aggiunto il seguente: 
+ 
+ "Allegato A5-bis (articolo 8) 
+Modello della scheda per le elezioni dei componenti vice procuratori onorari dei consigli giudiziari (colore bianco) 
+ 
+ 
+ELEZIONE DEI COMPONENTI VICE PROCURATORI ONORARI DEL CONSIGLIO GIUDIZIARIO 
+ 
+ 
+ Presso la Corte di appello di ----- 
+ 
+ 
+ 
+ 
+                                
+                                    
+                                        
+                                            Lista 
+                                        
+                                        
+                                            Componente vice procuratore onorario
 
 ## Art. 5. — Elezioni straordinarie dei magistrati onorari componenti della sezione del consiglio giudiziario relativa ai magistrati onorari
 

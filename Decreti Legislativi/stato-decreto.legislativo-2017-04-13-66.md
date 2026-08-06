@@ -8,8 +8,8 @@ vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
 vigenza_date: 2024-08-10
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:28Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -31,6 +31,32 @@ Sulla proposta del Ministro dell'istruzione, dell'universita' e della ricerca, d
 
 Principi e finalita'
 
+1.
+                        
+                            
+                                L'inclusione scolastica: 
+ 
+                            
+                            
+                                a)
+                                
+                                    riguarda le bambine e i bambini, le alunne e gli alunni, le studentesse e gli studenti, risponde ai differenti bisogni educativi e si realizza attraverso strategie educative e didattiche finalizzate allo sviluppo delle potenzialita' di ciascuno nel rispetto del diritto all'autodeterminazione e all'accomodamento ragionevole, nella prospettiva della migliore qualita' di vita; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    si realizza nell'identita' culturale, educativa, progettuale, nell'organizzazione e nel curricolo delle istituzioni scolastiche, nonche' attraverso la definizione e la condivisione del progetto individuale fra scuole, famiglie e altri soggetti, pubblici e privati, operanti sul territorio; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    
+                                        ((costituisce)) impegno fondamentale di tutte le componenti della comunita' scolastica le quali, nell'ambito degli specifici ruoli e responsabilita', concorrono ad assicurare il successo formativo delle bambine e dei bambini, delle alunne e degli alunni, delle studentesse e degli studenti.
+
 Il presente decreto promuove la partecipazione della famiglia, nonche' delle associazioni di riferimento, quali interlocutori dei processi di inclusione scolastica e sociale.
 
 ## Art. 2. — Ambito di applicazione
@@ -45,9 +71,66 @@ Le disposizioni di cui al presente decreto si applicano esclusivamente alle bamb
 
 Lo Stato, le Regioni e gli Enti locali, nel rispetto della normativa vigente, perseguono l'obiettivo di garantire le prestazioni per l'inclusione scolastica delle bambine e dei bambini, delle alunne e degli alunni, delle studentesse e degli studenti di cui all'articolo 2, comma 1, tenuto conto del principio di accomodamento ragionevole cosi' come definito dall'articolo 2 della Convenzione delle Nazioni Unite sui diritti delle persone con disabilita', ratificata ai sensi della legge 3 marzo 2009, n. 18.
 
+2.
+                        
+                            
+                                Lo Stato provvede, per il tramite dell'Amministrazione scolastica: 
+ 
+                            
+                            
+                                a)
+                                
+                                    all'assegnazione nella scuola statale dei docenti per il sostegno didattico, al fine di assicurare il diritto all'educazione e all'istruzione delle bambine e dei bambini, delle alunne e degli alunni, delle studentesse e degli studenti di cui all'articolo 2, comma 1; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    alla definizione dell'organico del personale amministrativo, tecnico e ausiliario (ATA) tenendo conto, tra i criteri per il riparto delle risorse professionali, della presenza di bambine e bambini, alunne e alunni, studentesse e studenti con ((accertata condizione di disabilita' ai fini dell'inclusione scolastica)) iscritti presso ciascuna istituzione scolastica statale, fermo restando il limite alla dotazione organica di cui all'articolo 19, comma 7, del decreto-legge 6 luglio 2011, n. 98, convertito, con modificazioni, dalla legge 15 luglio 2011, n. 111, e successive modificazioni; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    all'assegnazione, nell'ambito del personale ATA, dei collaboratori scolastici nella scuola statale anche per lo svolgimento dei compiti di assistenza previsti dal profilo professionale, tenendo conto del genere delle bambine e dei bambini, delle alunne e degli alunni, delle studentesse e degli studenti, nell'ambito delle risorse umane disponibili e assegnate a ciascuna istituzione scolastica; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    all'assegnazione alle istituzioni scolastiche del sistema nazionale di istruzione di un contributo economico, parametrato al numero delle bambine e dei bambini, delle alunne e degli alunni, delle studentesse e degli studenti con accertata condizione di disabilita' ai fini dell'inclusione scolastica accolti ed alla relativa percentuale rispetto al numero complessivo dei frequentanti.
+
 ((COMMA ABROGATO DAL D.L. 27 SETTEMBRE 2021, N. 130)).
 
 Entro 180 giorni dalla data di entrata in vigore del presente decreto, con intesa in sede di Conferenza Unificata ai sensi dell'articolo 3 e dell'articolo 9 del decreto legislativo 28 agosto 1997, n. 281, sono individuati i criteri per una progressiva uniformita' su tutto il territorio nazionale della definizione dei profili professionali del personale destinato all'assistenza per l'autonomia e per la comunicazione personale, ferme restando le diverse competenze dei collaboratori scolastici di cui all'articolo 3, comma 2, lettera c), del presente decreto come definite dal CCNL, comparto istruzione e ricerca, vigente, anche attraverso la previsione di specifici percorsi formativi propedeutici allo svolgimento dei compiti assegnati, nel rispetto comunque degli ambiti di competenza della contrattazione collettiva e nei limiti dell'autorizzazione di spesa di cui all'articolo 1, comma 947, della legge 28 dicembre 2015, n. 208, e delle altre risorse al medesimo fine disponibili a legislazione vigente.
+
+5.
+                        
+                            
+                                Gli Enti territoriali, nel rispetto del riparto delle competenze previsto dall'articolo 1, comma 85 e seguenti, della legge 7 aprile 2014, n. 56, e dall'articolo 1, comma 947, della legge 28 dicembre 2015, n. 208, provvedono ad assicurare, nei limiti delle risorse disponibili: 
+ 
+                            
+                            
+                                a)
+                                
+                                    gli interventi necessari per garantire l'assistenza di loro competenza, inclusa l'assegnazione del personale, come previsto dall'articolo 13, comma 3, della legge 5 febbraio 1992, n. 104, nonche' dall'articolo 139, comma 1, del decreto legislativo 31 marzo 1998, n. 112, secondo le modalita' attuative e gli standard qualitativi previsti nell'accordo di cui al comma 5-bis, ferme restando le diverse competenze dei collaboratori scolastici, di cui all'articolo 3, comma 2, lettera c), del presente decreto, come definite dal CCNL, comparto Istruzione e Ricerca, vigente; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    i servizi per il trasporto per l'inclusione scolastica, come garantiti dall'articolo 8, comma 1, lettera g), della legge 5 febbraio 1992, n. 104, ed esercitati secondo il riparto delle competenze stabilito dall'articolo 26 della medesima legge, nonche' dall'articolo 139, comma 1, lettera c), del decreto legislativo 31 marzo 1998, n. 112; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    l'accessibilita' e la fruibilita' fisica, senso percettiva e comunicativa degli spazi e degli strumenti delle istituzioni scolastiche statali di cui all'articolo 8, comma 1, lettera c), della legge 5 febbraio 1992, n. 104, e all'articolo 2, comma 1, lettera b), della legge 11 gennaio 1996, n. 23.
 
 Con accordo in sede di Conferenza Unificata, da perfezionare entro centoventi giorni dalla data di entrata in vigore della presente disposizione, sono definite le modalita' attuative degli interventi e dei servizi di cui alle lettere a), b), c) del comma 5, ivi comprese le modalita' e le sedi per l'individuazione e l'indicazione, nei limiti delle risorse disponibili, del fabbisogno di servizi, delle strutture e delle risorse professionali, nonche' gli standard qualitativi relativi alle predette lettere.
 
@@ -58,6 +141,52 @@ Ai sensi dell'articolo 315, comma 1, lettera b), del decreto legislativo 16 apri
 Valutazione della qualita' dell'inclusione scolastica
 
 La valutazione della qualita' dell'inclusione scolastica e' parte integrante del procedimento di valutazione delle istituzioni scolastiche previsto dall'articolo 6 del decreto del Presidente della Repubblica 28 marzo 2013, n. 80.
+
+2.
+                        
+                            
+                                L'Istituto nazionale per la valutazione del sistema educativo di istruzione e di formazione (INVALSI), in fase di predisposizione dei protocolli di valutazione e dei quadri di riferimento dei rapporti di autovalutazione, sentito l'Osservatorio permanente per l'inclusione scolastica di cui all'articolo 15 del presente decreto, definisce gli indicatori per la valutazione della qualita' dell'inclusione scolastica sulla base dei seguenti criteri: 
+ 
+                            
+                            
+                                a)
+                                
+                                    livello di inclusivita' del Piano triennale dell'offerta formativa come concretizzato nel Piano per l'inclusione scolastica; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    realizzazione di percorsi per la personalizzazione, individualizzazione e differenziazione dei processi di educazione, istruzione e formazione, definiti ed attivati dalla scuola, in funzione delle caratteristiche specifiche delle bambine e dei bambini, delle alunne e degli alunni, delle studentesse e degli studenti; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    livello di coinvolgimento dei diversi soggetti nell'elaborazione del Piano per l'inclusione e nell'attuazione dei processi di inclusione; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    realizzazione di iniziative finalizzate alla valorizzazione delle competenze professionali del personale della scuola incluse le specifiche attivita' formative; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    utilizzo di strumenti e criteri condivisi per la valutazione dei risultati di apprendimento delle alunne e degli alunni, delle studentesse e degli studenti, anche attraverso il riconoscimento delle differenti modalita' di comunicazione; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    grado di accessibilita' e di fruibilita' delle risorse, attrezzature, strutture e spazi e, in particolare, dei libri di testo adottati e dei programmi gestionali utilizzati dalla scuola.
 
 ## - Capo III Procedure di certificazione e documentazione per l'inclusione  scolastica
 
@@ -77,9 +206,76 @@ Alla legge 5 febbraio 1992, n. 104 sono apportate le seguenti modificazioni:
 
 ((
 
+3.
+                        
+                            
+                                Il Profilo di funzionamento di cui all'articolo 12, comma 5, della legge 5 febbraio 1992, n. 104, che ricomprende la diagnosi funzionale e il profilo dinamico-funzionale, come modificato dal presente decreto, e' redatto da una unita' di valutazione multidisciplinare, nell'ambito del SSN, composta da: 
+ 
+                            
+                            
+                                a)
+                                
+                                    uno specialista in neuropsichiatria infantile o un medico specialista, esperto nella patologia che connota lo stato di salute del minore; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    almeno due delle seguenti figure: un esercente di professione sanitaria nell'area della riabilitazione, uno psicologo dell'eta' evolutiva, un assistente sociale o un pedagogista o un altro delegato, in possesso di specifica qualificazione professionale, in rappresentanza dell'Ente locale di competenza.
+
 ))
 
+4.
+                        
+                            
+                                Il Profilo di funzionamento di cui all'articolo 12, comma 5, della legge 5 febbraio 1992, n. 104, come modificato dal presente decreto: 
+ 
+                            
+                            
+                                a)
+                                
+                                    e' il documento propedeutico e necessario alla predisposizione del ((Piano educativo individualizzato (PEI) e del Progetto individuale;)); 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    definisce anche le competenze professionali e la tipologia delle misure di sostegno e delle risorse strutturali ((utili)) per l'inclusione scolastica; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    e' redatto con la collaborazione dei genitori o di chi esercita la responsabilita' genitoriale della bambina o del bambino, dell'alunna o dell'alunno, nonche', nel rispetto del diritto di autodeterminazione nella massima misura possibile, della studentessa o dello studente con disabilita', con la partecipazione del dirigente scolastico ovvero di un docente specializzato sul sostegno didattico, dell'istituzione scolastica ove e' iscritto la bambina o il bambino, l'alunna o l'alunno, la studentessa o lo studente;
+                                
+                            
+                            
+                                d)
+                                
+                                    e' aggiornato al passaggio di ogni grado di istruzione, a partire dalla scuola dell'infanzia, nonche' in presenza di nuove e sopravvenute condizioni di funzionamento della persona.
+
 I genitori o chi ne esercita la responsabilita' ((genitoriale)) trasmettono ((il profilo di funzionamento di cui al comma 4)), ((all'istituzione scolastica e all'ente locale competente, rispettivamente ai fini della predisposizione del PEI e del Progetto individuale, qualora questo venga richiesto)).
+
+6.
+                        
+                            
+                                Con decreto del Ministro della salute, di concerto con i Ministri dell'istruzione, dell'universita' e della ricerca, del lavoro e delle politiche sociali, dell'economia e delle finanze, per la famiglia e le disabilita', per gli affari regionali e le autonomie, sentito l'Osservatorio permanente per l'inclusione scolastica di cui all'articolo 15 del presente decreto, previa intesa in sede di Conferenza Unificata di cui ((all'articolo 3 e all'articolo 9)) del decreto legislativo 28 agosto 1997, n. 281, da adottare entro 180 giorni dalla data di entrata in vigore del presente decreto, sono definite le Linee guida contenenti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    i criteri, i contenuti e le modalita' di redazione della certificazione di disabilita' in eta' evolutiva, ((ai fini dell'inclusione scolastica, tenuto conto della Classificazione internazionale delle malattie (ICD) e della Classificazione internazionale del funzionamento, della disabilita' e della salute (ICF) dell'OMS)); 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    i criteri, i contenuti e le modalita' di redazione del Profilo di funzionamento, ((tenuto conto della)) classificazione ICF dell'OMS.
 
 ((
 
@@ -106,6 +302,63 @@ Si provvede agli adempimenti previsti dal presente articolo con le risorse umane
 ## Art. 7. — Piano educativo individualizzato
 
 All'articolo 14, comma 2, della legge 8 novembre 2000, n. 328, dopo le parole «valutazione diagnostico-funzionale» sono aggiunte le seguenti: «o al Profilo di funzionamento» e dopo le parole «Servizio sanitario nazionale» sono aggiunte le seguenti: «, il Piano educativo individualizzato a cura delle istituzioni scolastiche».
+
+2.
+                        
+                            
+                                Il PEI di cui all'articolo 12, comma 5, della legge 5 febbraio 1992, n. 104, come modificato dal presente decreto: 
+ 
+                            
+                            
+                                a)
+                                
+                                    e' elaborato e approvato ((dal Gruppo di lavoro operativo per l'inclusione di cui all'articolo 9, comma 10;)); 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    tiene conto dell'accertamento della condizione di disabilita' in eta' evolutiva ai fini dell'inclusione scolastica, di cui all'articolo 12, comma 5, della legge 5 febbraio 1992, n. 104, e del Profilo di funzionamento, avendo particolare riguardo all'indicazione dei facilitatori e delle barriere, secondo la prospettiva bio-psico-sociale alla base della classificazione ICF dell'OMS;
+                                
+                            
+                            
+                                c)
+                                
+                                    individua ((obiettivi educativi e didattici,)) strumenti, strategie e modalita' per realizzare un ambiente di apprendimento nelle dimensioni della relazione, della socializzazione, della comunicazione, dell'interazione, dell'orientamento e delle autonomie ((, anche sulla base degli interventi di corresponsabilita' educativa intrapresi dall'intera comunita' scolastica per il soddisfacimento dei bisogni educativi individuati;)); 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    esplicita le modalita' di sostegno didattico, compresa la proposta del numero di ore di sostegno alla classe, le modalita' di verifica, i criteri di valutazione, gli interventi di inclusione svolti dal personale docente nell'ambito della classe e in progetti specifici, la valutazione in relazione alla programmazione individualizzata, nonche' gli interventi di assistenza igienica e di base, svolti dal personale ausiliario nell'ambito del plesso scolastico e la proposta delle risorse professionali da destinare all'assistenza, all'autonomia e alla comunicazione, secondo le modalita' attuative e gli standard qualitativi previsti dall'accordo di cui al comma 5-bis dell'articolo 3;
+                                
+                            
+                            
+                                e)
+                                
+                                    definisce gli strumenti per l'effettivo svolgimento ((dei percorsi per le competenze trasversali e per l'orientamento)), assicurando la partecipazione dei soggetti coinvolti nel progetto di inclusione; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    indica le modalita' di coordinamento degli interventi ivi previsti e la loro interazione con il Progetto individuale; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    e' redatto in via provvisoria entro giugno e in via definitiva, di norma, non oltre il mese di ottobre, tenendo conto degli elementi previsti nel decreto ministeriale di cui al comma 2-ter; e' redatto a partire dalla scuola dell'infanzia ed e' aggiornato in presenza di nuove e sopravvenute condizioni di funzionamento della persona. Nel passaggio tra i gradi di istruzione, e' assicurata l'interlocuzione tra i docenti della scuola di provenienza e quelli della scuola di destinazione. Nel caso di trasferimento di iscrizione e' garantita l'interlocuzione tra le istituzioni scolastiche interessate ed e' ridefinito sulla base delle eventuali diverse condizioni contestuali della scuola di destinazione;
+                                
+                            
+                            
+                                h)
+                                
+                                    e' soggetto a verifiche periodiche nel corso dell'anno scolastico al fine di accertare il raggiungimento degli obiettivi e apportare eventuali modifiche ed integrazioni.
 
 ((
 
@@ -175,6 +428,38 @@ Corso di specializzazione per le attivita' di sostegno didattico nella scuola de
 
 La specializzazione per le attivita' di sostegno didattico alle bambine e ai bambini, alle alunne e agli alunni con accertata condizione di disabilita' in eta' evolutiva ai fini dell'inclusione scolastica nella scuola dell'infanzia e nella scuola primaria si consegue attraverso il corso di specializzazione di cui al comma 2.
 
+2.
+                        
+                            
+                                Il corso di specializzazione in pedagogia e didattica speciale per le attivita' di sostegno didattico e l'inclusione scolastica: 
+ 
+                            
+                            
+                                a)
+                                
+                                    e' annuale e prevede l'acquisizione di 60 crediti formativi universitari, comprensivi di almeno 300 ore di tirocinio, pari a 12 crediti formativi universitari; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    e' attivato presso le universita' autorizzate dal Ministero dell'istruzione, dell'universita' e della ricerca nelle quali sono attivi i corsi di laurea a ciclo unico in Scienze della Formazione Primaria; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    e' programmato a livello nazionale dal Ministero dell'istruzione, dell'universita' e della ricerca in ragione delle esigenze e del fabbisogno del sistema nazionale di istruzione e formazione; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    ai fini dell'accesso richiede il superamento di una prova predisposta dalle universita'.
+
 Accedono al corso esclusivamente gli aspiranti in possesso della laurea magistrale a ciclo unico in Scienze della Formazione Primaria che abbiano conseguito ulteriori 60 crediti formativi universitari relativi alle didattiche dell'inclusione oltre a quelli gia' previsti nel corso di laurea. Ai fini del conseguimento dei predetti 60 CFU, possono essere riconosciuti i crediti formativi universitari eventualmente conseguiti dai predetti laureati magistrali in relazione ad insegnamenti nonche' a crediti formativi universitari ottenuti in sede di svolgimento del tirocinio e di discussione di tesi attinenti al sostegno e all'inclusione.
 
 La positiva conclusione del corso di cui al comma 2 e' titolo per l'insegnamento sui posti di sostegno della scuola dell'infanzia e della scuola primaria.
@@ -203,11 +488,68 @@ Per valorizzare le competenze professionali e garantire la piena attuazione del 
 
 Al fine di agevolare la continuita' educativa e didattica di cui al comma 1, nel caso di richiesta da parte della famiglia, e valutato, da parte del dirigente scolastico, l'interesse del discente, nell'ambito dell'attribuzione degli incarichi a tempo determinato di cui all'articolo 4, commi 1 e 2, della legge 3 maggio 1999, n. 124, al docente in possesso del titolo di specializzazione per l'insegnamento agli ((alunni con disabilita')) puo' essere proposta la conferma, con precedenza assoluta rispetto al restante personale a tempo determinato, sul medesimo posto di sostegno assegnatogli nel precedente anno scolastico, fermi restando la disponibilita' del posto, il preventivo svolgimento delle operazioni relative al personale a tempo indeterminato e l'accertamento del diritto alla nomina nel contingente dei posti disponibili da parte del docente interessato. ((La valutazione di cui al primo periodo e' comunicata alla famiglia)).
 
+3-bis.
+                        
+                            
+                                La procedura di cui al comma 3 si applica, altresi', alle seguenti categorie di personale docente: 
+ 
+                            
+                            
+                                a)
+                                
+                                    docenti privi del titolo di specializzazione per l'insegnamento agli ((alunni con disabilita')) che siano inseriti nelle graduatorie di sostegno adottate in applicazione dell'articolo 4, comma 6-bis, della legge 3 maggio 1999, n. 124, avendo svolto tre annualita' di insegnamento su posto di sostegno nel relativo grado, valutate ai sensi dell'articolo 11, comma 14, della medesima legge; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    docenti privi del titolo di specializzazione per l'insegnamento agli ((alunni con disabilita')) che abbiano svolto servizio su posto di sostegno in quanto individuati sulla base della migliore collocazione di fascia con il relativo miglior punteggio nelle graduatorie di cui all'articolo 1, comma 605, lettera c), della legge 27 dicembre 2006, n. 296, o nelle graduatorie di cui all'articolo 4, comma 6-bis, della legge 3 maggio 1999, n. 124.
+
 Al fine di garantire la continuita' didattica durante l'anno scolastico, si applica l'articolo 461 del testo unico di cui al decreto legislativo 16 aprile 1994, n. 297.
 
 ## Art. 15. — Osservatorio permanente per l'inclusione scolastica
 
 E' istituito presso il Ministero dell'istruzione, dell'universita' e della ricerca l'Osservatorio permanente per l'inclusione scolastica, che si raccorda con l'Osservatorio nazionale sulla condizione delle persone con disabilita'.
+
+2.
+                        
+                            
+                                L'Osservatorio permanente per l'inclusione scolastica svolge i seguenti compiti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    analisi e studio delle tematiche relative all'inclusione delle bambine e dei bambini, delle alunne e degli alunni, delle studentesse e degli studenti con ((accertata condizione di disabilita' in eta' evolutiva ai fini dell'inclusione scolastica)) a livello nazionale e internazionale; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    monitoraggio delle azioni per l'inclusione scolastica; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    proposte di accordi inter-istituzionali per la realizzazione del progetto individuale di inclusione; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    proposte di sperimentazione in materia di innovazione metodologico-didattica e disciplinare; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    pareri e proposte sugli atti normativi inerenti l'inclusione scolastica.
 
 L'Osservatorio di cui al comma 2 e' presieduto dal Ministro dell'istruzione, dell'universita' e della ricerca o da un suo delegato, ed e' composto da un rappresentante del Ministro delegato per la famiglia e le disabilita', nonche', dai rappresentanti delle Associazioni delle persone con disabilita' maggiormente rappresentative sul territorio nazionale nel campo dell'inclusione scolastica, da studenti nonche' da altri soggetti pubblici e privati, comprese le istituzioni scolastiche, nominati dal Ministro dell'istruzione, dell'universita' e della ricerca.
 
@@ -218,6 +560,24 @@ Dall'attuazione del presente articolo non devono derivare nuovi o maggiori oneri
 ## Art. 15-bis. — (( (Misure di accompagnamento). ))
 
 ((
+
+1.
+                        
+                            
+                                Con decreto del Ministero dell'istruzione, dell'universita' e della ricerca, da adottare entro centoventi giorni dalla data di entrata in vigore della presente disposizione, sono stabilite le misure di accompagnamento delle istituzioni scolastiche alle nuove modalita' di inclusione previste dal presente decreto. In particolare, dovranno essere definite misure di accompagnamento in ordine a: 
+ 
+                            
+                            
+                                a)
+                                
+                                    iniziative formative per il personale scolastico; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    attivazione di progetti e iniziative per il supporto delle istituzioni scolastiche.
 
 Con il medesimo decreto di cui al comma 1 e' definita la composizione di un comitato istituito presso il Ministero dell'istruzione, dell'universita' e della ricerca per la direzione e il coordinamento delle misure di accompagnamento. Ai componenti del comitato non spetta alcun compenso, indennita', gettone di presenza, rimborso spese e qualsivoglia altro emolumento.
 
@@ -243,6 +603,24 @@ Sono fatte salve le competenze attribuite in materia di inclusione scolastica al
 
 ## Art. 18. — Abrogazioni e coordinamenti
 
+1.
+                        
+                            
+                                A decorrere dal ((1° settembre 2019)) sono abrogati: 
+ 
+                            
+                            
+                                a)
+                                
+                                    Il terzo e il quinto periodo del comma 5 dell'articolo 10 del decreto-legge 31 maggio 2010, n. 78, convertito, con modificazioni, dalla legge 30 luglio 2010, n. 122; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il regolamento di cui al decreto del Presidente del Consiglio dei ministri 23 febbraio 2006, n. 185.
+
 Le disposizioni di cui al citato articolo 10, comma 5, del decreto-legge n. 78 del 2010, come modificato dal comma 1, si applicano anche alle commissioni di cui al comma 1-bis dell'articolo 4 della legge n. 104 del 1992, introdotto dal presente decreto.
 
 All'articolo 13, comma 2-ter, del decreto-legge 12 settembre 2013, n.104, convertito, con modificazioni, dalla legge 8 novembre 2013, n. 128, le parole «le diagnosi funzionali», ovunque ricorrano, sono sostituite dalle seguenti: «i Profili di funzionamento».
@@ -254,6 +632,24 @@ Con regolamento da adottare ai sensi dell'articolo 17, comma 3, della legge 23 a
 A decorrere dal 1° settembre 2019 il Profilo di funzionamento sostituisce la diagnosi funzionale e il profilo dinamico-funzionale.
 
 Le disposizioni di cui all'articolo 5, commi da 1 a 5, all'articolo 6 ((, all'articolo 7)) e all'articolo 10 decorrono dal 1° settembre 2019. ((Le disposizioni di cui all'articolo 10 si applicano dall'anno scolastico 2020/2021. A decorrere dal 1° settembre 2019)) il decreto del Presidente della Repubblica 24 febbraio 1994 recante «Atto di indirizzo e coordinamento relativo ai compiti delle unita' sanitarie locali in materia di alunni portatori di handicap», pubblicato nella Gazzetta Ufficiale 6 aprile 1994, n. 79, e' soppresso e il Profilo di funzionamento e' redatto dall'unita' di valutazione multidisciplinare disciplinata dall'articolo 5, comma 3, del presente decreto.
+
+3.
+                        
+                            
+                                I Gruppi di lavoro di cui all'articolo 15 della legge n. 104 del 1992, come modificato dall'articolo 9 del presente decreto, sono istituti con le seguenti decorrenze: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il GLIR e il GLI dal 1° settembre 2017; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il GIT dal 1° settembre 2019.
 
 Le disposizioni di cui ai commi 1, 2, 3, 8 e 9 dell'articolo 15 della legge n. 104 del 1992, come sostituito dall'articolo 9 del presente decreto, si applicano a decorrere dal 1° settembre 2017.
 Nelle more continuano ad applicarsi le disposizioni di cui ai commi 2 e 4 dell'articolo 15 della legge n. 104 del 1992 nel testo previgente alla data di entrata in vigore del presente decreto.

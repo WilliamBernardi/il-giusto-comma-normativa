@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: DPR
 vigenza_date: 2001-05-09
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:47:44Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -49,6 +49,42 @@ Ad essi si da' esecuzione ai sensi dell'art. 14 della legge 29 marzo 1983, n. 93
 
 ## Art. 3. — Livelli di contrattazione
 
+1.
+                        
+                            
+                                Le parti individuano i seguenti livelli di contrattazione decentrata:
+ 
+                            
+                            
+                                a)
+                                
+                                    - REGIONE, che riguarda:
+ l'attuazione dei criteri in base ai quali definire le piante organiche nonche' i criteri per la formazione dei piani di assunzione di personale;
+ la formazione dei programmi di occupazione;
+ la verifica dell'applicazione delle norme sulla mobilita' compresa quella derivante da situazioni di sovradimensionamento e sottodimensionamento degli organici;
+ la predisposizione dei programmi di aggiornamento, qualificazione e riqualificazione professionale del personale;
+ la predisposizione dei programmi di informatizzazione delle procedure e della destinazione delle risorse, nonche' del loro utilizzo;
+ i piani e i programmi volti ad incrementare la produttivita', loro verifica ed incentivazioni connesse;
+ la definizione di criteri attinenti le modalita' di riparto degli incentivi alla produttivita';
+ la predisposizione di norme atte a regolamentare le attivita' culturali e ricreative;
+ le pari opportunita';
+ le altre materie specificamente e tassativamente indicate nel presente decreto.
+
+                                
+                            
+                            
+                                b)
+                                
+                                    - LOCALE, alla quale competono tutti gli aspetti dell'organizzazione del lavoro e, in particolare:
+ la proposta per l'individuazione della dotazione dei posti di pianta organica necessari e degli esuberi - anche in dipendenza di processi di riorganizzazione, ristrutturazione ed innovazione tecnologica ed, infine, dei posti gia' esistenti da trasformare, in adeguamento alle reali esigenze di servizio, sulla base degli standards stabiliti a livello nazionale e regionale;
+ l'individuazione di criteri attuativi dell'orario di lavoro e dei diversi tipi di rapporto di lavoro (part-time ecc.) nonche' le modalita' di accertamento del suo rispetto sulla base di quanto stabilito dal presente decreto;
+ i carichi di lavoro in funzione degli obiettivi e dei piani di lavoro;
+ l'individuazione dei criteri per stabilire i casi in cui le esigenze di servizio richiedano di derogare al limite massimo previsto per l'effettuazione di lavoro straordinario;
+ l'attuazione dei criteri per l'identificazione delle unita' operative in cui applicare l'istituto della pronta disponibilita', per la programmazione e l'articolazione della stessa e per la individuazione delle figure professionali necessarie;
+ la verifica dell'applicazione dei criteri attinenti la modalita' di riparto degli incentivi alla produttivita';
+ le proposte in ordine ai processi di innovazioni tecnologiche; la verifica dell'applicazione delle misure di igiene, di prevenzione e sicurezza nei luoghi di lavoro;
+ le altre materie specificatamente e tassativamente indicate nel presente decreto.
+
 ((
 
 Gli enti provvedono a costituire le delegazioni di parte pubblica abilitate alla trattativa ai vari livelli di contrattazione decentrata entro 15 giorni dalla data di entrata in vigore del decreto del Presidente della Repubblica di recepimento dell'accordo nazionale di comparto ed a convocare le Confederazioni ed Organizzazioni Sindacali maggiormente rappresentantive ai sensi delle vigenti disposizioni, per l'avvio del negoziato entro e non oltre 15 giorni.
@@ -70,6 +106,28 @@ Gli accordi decentrati non possono comportare oneri aggiuntivi se non nei limiti
 ))
 
 ## Art. 4. — Composizione delle delegazioni
+
+1.
+                        
+                            
+                                A livello di contrattazione regionale la delegazione trattante e' costituita:
+ 
+                            
+                            
+                                a)
+                                
+                                    per la parte pubblica dalle seguenti rappresentanze:
+ della regione;
+ dell'Associazione nazionale comuni italiani per i comuni e i loro consorzi;
+ dell'Unione nazionale comunita' montane per le comunita' montane;
+ degli altri enti di cui all'art. 1 per quanto di rispettiva competenza;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    per le organizzazioni sindacali, una delegazione composta da rappresentanti di ciascuna organizzazione sindacale firmataria dell'accordo recepito dal presente decreto, che abbia adottato codici di autoregolamentazione dell'esercizio del diritto di sciopero e dalle confederazioni maggiormente rappresentative su base nazionale.
 
 La delegazione di parte pubblica e' presieduta dal presidente della regione o da un suo delegato.
 
@@ -162,6 +220,24 @@ In tema di designazione del rappresentante sindacale si applica la procedura pre
 
 ((
 
+1.
+                        
+                            
+                                Le prove di esame sono le seguenti:
+ 
+                            
+                            
+                                a)
+                                
+                                    prova pratica o d'arte su materie attinenti il posto messo a selezione;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    colloquio sulle materie oggetto della prova pratica o d'arte.
+
 La commissione dispone complessivamente di 100 punti cosi' ripartiti:
  30 punti per i titoli;
  70 punti per le prove d'esame.
@@ -169,6 +245,31 @@ La commissione dispone complessivamente di 100 punti cosi' ripartiti:
 I punti per le prove di esame sono cosi' ripartiti:
  40 punti per la prova pratica;
  30 punti per la prova orale.
+
+4.
+                        
+                            
+                                I punti per la valutazione dei titoli sono cosi' ripartiti:
+ titoli di carriera: punti 20:
+ 
+                            
+                            
+                                a)
+                                
+                                    servizio prestato presso le unita' sanitarie locali o presso enti, servizi e presidi a queste trasferiti o presso pubbliche amministrazioni:
+ nella posizione funzionale e nella materia cui si riferisce la selezione, punti 1,80 per anno;
+ nella posizione funzionale inferiore e nella materia cui si riferisce la selezione, punti 1,20 per anno.
+ I punteggi di cui sopra sono ridotti del 50% se i servizi risultano prestati in materie diverse da quelle oggetto della selezione.
+ I servizi prestati nella posizione funzionale superiore a quella cui si riferisce la selezione sono valutati con i punteggi di cui sopra, maggiorati del 10%;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    altri servizi, punti 0,60 per anno;
+ titoli vari: punti 10:
+ il punteggio previsto per tale categoria di titoli e' attribuito dalla commissione, con motivata valutazione, tenuto conto della loro attinenza con la posizione funzionale da conferire sulla base dei criteri previsti dall'art. 10 del decreto ministeriale 30 gennaio 1982, e successive modificazioni, e di documentate situazioni di particolare rilevanza sociale.
 
 ))
 
@@ -189,6 +290,24 @@ Il trattamento economico per il rapporto di lavoro a tempo parziale e' pari al 5
 La copertura dei posti con rapporto a tempo parziale avviene nel rispetto della normativa concorsuale vigente.
 
 In ogni caso, prima della attivazione della suddetta procedura, l'ente deve consentire al proprio personale di ruolo gia' in servizio la possibilita' di optare per i posti con il rapporto a tempo parziale.
+
+8.
+                        
+                            
+                                In caso di piu' opzioni rispetto ai posti disponibili, l'accoglimento della richiesta viene disposto in base all'anzianita' complessiva nella posizione funzionale rivestita. In caso di parita', si deve tener conto nell'ordine:
+ 
+                            
+                            
+                                a)
+                                
+                                    del numero e dell'eta' dei componenti il nucleo familiare;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    delle condizioni di salute del dipendente.
 
 La richiesta di passaggio a posti ad orario intero in caso di piu' domande viene disposta in base all'anzianita' complessiva nella posizione funzionale rivestita.
 
@@ -229,6 +348,38 @@ Saranno adottati i necessari provvedimenti tendenti ad introdurre la riserva dei
 ## Art. 15. — Turni di servizio ed organizzazione del lavoro
 
 L'organizzazione del lavoro deve rispondere alle esigenze dell'utenza del Servizio sanitario nazionale. Deve tendere, pertanto, ad accrescere la qualita' e la produttivita' dei servizi ed all'utilizzazione completa delle strutture.
+
+2.
+                        
+                            
+                                In linea con tale indirizzo in sede di contrattazione decentrata saranno previste modalita' di articolazione dell'orario di lavoro che dovranno rispondere ai seguenti criteri:
+ 
+                            
+                            
+                                a)
+                                
+                                    utilizzazione in maniera programmata di tutti gli istituti che rendano concreta una gestione mirata dell'organizzazione dei servizi, della dinamica degli organici e dei carichi di lavoro;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    orario continuato, laddove le esigenze richiedano la presenza nell'arco delle dodici o ventiquattro ore;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    orario articolato al di fuori delle previsioni di cui alla lettera b) per consentire una migliore utilizzazione del personale;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    ricorso al lavoro straordinario nei casi assolutamente eccezionali in base ai carichi di lavoro e, comunque, per periodi predeterminati nel limite del monte ore di cui all'art. 17.
 
 La programmazione e l'articolazione dell'orario di lavoro dovranno comunque garantire l'erogazione dei servizi nelle ore pomeridiane e sino alle ore 18, fatta salva la possibilita' di anticipare o posticipare il suddetto orario per alcuni servizi, presidi, uffici etc. da individuare in sede di contrattazione decentrata, sulla base di riscontri obiettivi delle effettive esigenze degli utenti.
 
@@ -298,6 +449,46 @@ In caso di chiamata l'attivita' prestata viene computata come lavoro straordinar
 
 Di regola non potranno essere previste per ciascun dipendente piu' di 6 pronte disponibilita' nel mese.
 
+12.
+                        
+                            
+                                E' vietata la pronta disponibilita' alle seguenti figure professionali, eccetto coloro che svolgono la loro attivita' nei comparti operatori e nelle strutture di emergenza:
+ 
+                            
+                            
+                                a)
+                                
+                                    tutte le figure del ruolo amministrativo;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    tutte le figure professionali del ruolo professionale ad eccezione dell'ingegnere;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    ruolo tecnico:
+ agente tecnico;
+ ausiliario socio-sanitario;
+ ausiliario socio-sanitario specializzato;
+ assistente sociale;
+ analista centro elaborazione dati, statistici, sociologi;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    ruolo sanitario:
+ capo sala;
+ terapista della riabilitazione;
+ psicologi.
+
 Alle seguenti figure professionali e' consentita la pronta disponibilita' per eccezionali esigenze di funzionalita' della struttura:
  ((...));
  operatori tecnici;
@@ -314,6 +505,38 @@ Gli aumenti rispetto alle precedenti misure decorrono dalla data di entrata in v
 ## Art. 19. — Mobilita'
 
 La mobilita' del personale, quale fattore indispensabile dell'organizzazione del lavoro e presupposto della funzionalita' di gestione dei servizi, favorisce l'esplicazione della professionalita' nell'ambito delle diverse strutture, concorrendo alla formazione permanente e polivalente degli operatori.
+
+2.
+                        
+                            
+                                Vengono, pertanto, individuate, ai sensi dell'art. 3, primo comma, punto 9), della legge-quadro sul pubblico impiego 29 marzo 1983, n. 93, e dall'art. 6 del decreto del Presidente della Repubblica 1 febbraio 1986, n. 13, le seguenti forme di mobilita':
+ 
+                            
+                            
+                                a)
+                                
+                                    la mobilita' nell'ambito dell'ente;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la mobilita' tra enti della stessa regione;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    la mobilita' tra enti di regioni diverse;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    la mobilita' tra enti di diverso comparto.
 
 La mobilita' del personale e' disposta esclusivamente nell'ambito delle funzioni proprie della posizione funzionale, profilo professionale e, ove previsto della disciplina di appartenenza dell'interessato.
 
@@ -435,6 +658,52 @@ L'aggiornamento professionale e' obbligatorio e facoltativo e riguarda tutto il 
 
 Il relativo finanziamento e' previsto nel Fondo sanitario nazionale con una apposita voce a destinazione vincolata.
 
+3.
+                        
+                            
+                                L'aggiornamento obbligatorio e' svolto in orario di lavoro e comprende:
+ 
+                            
+                            
+                                a)
+                                
+                                    la partecipazione obbligatoria a corsi di aggiornamento organizzati dal Servizio sanitario nazionale;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la frequenza obbligatoria a congressi, convegni, seminari e altre manifestazioni consimili, da chiunque organizzati, compresi nei programmi regionali;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    l'uso di testi, riviste tecniche ed altro materiale bibliografico messo a disposizione dal Servizio sanitario nazionale;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    l'uso di tecnologie audiovisive ed informatiche;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    la ricerca finalizzata del personale in base a programmi definiti in sede di contrattazione decentrata.
+
+                                
+                            
+                            
+                                f)
+                                
+                                    il comando finalizzato previsto dall'articolo 45 del decreto del Presidente della Repubblica 20 dicembre 1979, n. 761
+
 I programmi regionali e di singolo ente che dovranno prevedere fondi destinati alle attivita' di cui al comma 3, e gli indici di utilizzazione adeguati ai profili professionali, sono determinati con la partecipazione delle organizzazioni sindacali firmatarie dell'accordo recepito dal presente decreto.
 
 A tali fini, presso ogni regione e singolo ente, verra' istituita apposita commissione paritetica composta da membri nominati dal comitato di gestione, od organo corrispondente secondo i rispettivi ordinamenti, e da membri designati dalle organizzazioni sindacali firmatarie dell'accordo recepito nel presente decreto.
@@ -448,6 +717,31 @@ Nell'aggiornamento tecnico-scientifico facoltativo rientra l'istituto del comand
 Sulle domande complessive di aggiornamento facoltativo decide un comitato tecnico scientifico composto da membri designati dagli enti, scelti fra il personale dipendente, e da membri designati dalle organizzazioni sindacali firmatarie dell'accordo recepito dal presente decreto.
 
 Il comitato di gestione o l'organo corrispondente secondo i rispettivi ordinamenti, di norma approva le decisioni del comitato tecnico-scientifico ed, in caso contrario, e' tenuto a fornire una opportuna motivazione. ((La partecipazione ai corsi, convegni e congressi, la frequenza delle scuole di specializzazione e gli esami sostenuti devono essere adeguatamente documentati al fine della concessione del congedo straordinario previsto dall'articolo 10 del decreto del Presidente della Repubblica 25 giugno 1983, n. 348, e dalla circolare 10705 del 30 dicembre 1987 del Dipartimento della funzione pubblica))
+
+11.
+                        
+                            
+                                La partecipazione all'attivita' didattica del personale si realizza nelle seguenti aree di applicazione:
+ 
+                            
+                            
+                                a)
+                                
+                                    corsi di specializzazione, corsi pre-laurea e scuole a fini speciali, secondo la disciplina prevista dalle convenzioni con l'universita', ai sensi dell'art. 39 della legge 23 dicembre 1978, n. 833;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    aggiornamento professionale obbligatorio del personale, organizzato dal Servizio sanitario nazionale;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    formazione di base e riqualificazione del personale.
 
 Le attivita' sub b) e c) sono riservate in linea di principio al personale del Servizio sanitario nazionale, con l'eventuale integrazione di docenti esterni.
 
@@ -597,6 +891,24 @@ Le, modalita' necessarie per assicurare durante lo svolgimento delle assemblee i
 ## Art. 38. — ((Diritto all'informazione))
 
 L'informazione si attua, ai sensi dell'art. 18 del decreto del Presidente della Repubblica 1 febbraio 1986, n. 13, in modo costante e tempestiva con le organizzazioni sindacali a livello confederale e di categoria.
+
+2.
+                        
+                            
+                                Gli enti destinatari del presente decreto garantiscono una costante e preventiva informazione sugli atti e sui provvedimenti che riguardano:
+ 
+                            
+                            
+                                a)
+                                
+                                    la programmazione. Viene riconosciuto alle organizzazioni sindacali firmatarie dell'accordo recepito dal presente decreto il diritto di informazione in fase di predisposizione degli atti che le parti pubbliche intendono assumere in ordine alla programmazione del settore sanitario per quanto riguarda la funzionalita' dei servizi;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la contrattazione. Per un sempre piu' responsabile e qualificato ruolo di tutte le componenti contrattuali, le parti si impegnano alla piu' ampia diffusione di dati e di conoscenze che consentano l'utilizzo di strumenti corretti per la definizione e l'applicazione degli accordi di lavoro.
 
 In una visione socio-sanitaria, le tre primarie sedi di acquisizione del diritto informativo e di intervento per il sindacato sono quella governativa, regionale e degli enti destinatari del presente decreto.
 
@@ -1077,6 +1389,24 @@ L'indennita' di cui al primo comma non e' cumulabile, per i medici, con l'indenn
 
 ## Art. 54. — Indennita' di coordinamento
 
+1.
+                        
+                            
+                                Ai coordinatori amministrativi e sanitari di cui all'art. 8 del decreto del Presidente della Repubblica 20 dicembre 1979, n. 761, spetta l'indennita' differenziata fissa annua lorda e costante di:
+ 
+                            
+                            
+                                a)
+                                
+                                    L. 2.800.000 per unita' sanitaria locale fino a 150.000 abitanti;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    L. 3.600.000 per unita' sanitaria locale superiore a 150.000 abitanti, ovvero con presenza di una struttura ospedaliera generale ex regionale. ((5))
+
 ---------------
                             AGGIORNAMENTO (5)
                              Il D.P.R. 28 novembre 1990, n. 384 ha disposto (con gli artt. 46, comma 2 e 110, comma 6) che "A decorrere dal 1 dicembre 1990 le indennita' differenziate di coordinamento previste dall'articolo 54 del decreto del Presidente della Repubblica 20 maggio 1987, n. 270, sono rideterminate, rispettivamente, in L. 3.780.000 e L. 4.860.000.
@@ -1159,6 +1489,38 @@ Gli aumenti delle indennita' rispetto alle precedenti misure vengono corrisposti
 
 Nei confronti del personale dipendente dal Servizio sanitario nazionale si applicano per quanto concerne l'equo indennizzo le disposizioni e procedure stabilite in materia per i dipendenti civili dello Stato di cui al decreto del Presidente della Repubblica 10 gennaio 1957, n. 3, e successive integrazioni e modificazioni.
 
+2.
+                        
+                            
+                                Le misure dell'equo indennizzo sono stabilite secondo le seguenti modalita':
+ 
+                            
+                            
+                                a)
+                                
+                                    per la determinazione dell'equo indennizzo si considera la classe iniziale di stipendio del livello di appartenenza maggiorata dell'80%;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la misura dell'equo indennizzo per le menomazioni dell'integrita' fisica iscritte alla prima categoria della tabella A allegata al decreto del Presidente della Repubblica 23 dicembre 1978, n. 915, e' pari a 2,5 volte l'importo dello stipendio determinato a norma del punto a);
+
+                                
+                            
+                            
+                                c)
+                                
+                                    per la liquidazione dell'equo indennizzo si fa riferimento in ogni caso al trattamento economico corrispondente al livello retributivo di appartenenza del dipendente al momento della presentazione della domanda;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    restano ferme le percentuali di riduzione stabilite dalle vigenti norme per le menomazioni dell'integrita' fisica inferiori a quelle di prima categoria.
+
 L'amministrazione ha diritto di dedurre dall'importo dell'equo indennizzo e fino a concorrenza del medesimo, eventuali somme percepite allo stesso titolo dal dipendente per effetto di assicurazione obbligatoria o facoltativa i cui contributi o premi siano stati corrisposti dall'amministrazione stessa.
 
 Nel caso che per effetto di tali assicurazioni l'indennizzo venga liquidato al dipendente sotto la forma di rendita vitalizia, il relativo recupero avverra' capitalizzando la rendita stessa in relazione all'eta' dell'interessato.
@@ -1182,6 +1544,31 @@ L'istituto di incentivazione della produttivita' deve tendere ad incrementare la
 Il meccanismo di incentivazione, per sua natura, a regime dovra' essere organizzato su base budgettaria con un fondo di dotazione e riscontri di tipo funzionale e contabile.
 
 Per l'arco di vigenza dell'accordo collettivo 1986/1988 recepito dal presente decreto a decorrere dalla data di entrata in vigore dello stesso, si ridefinisce la disciplina vigente quale fase di evoluzione verso il futuro sistema "per obiettivi", con gli opportuni e specifici adattamenti riferiti alle due aree negoziali di cui all'art. 6 del decreto del Presidente della Repubblica 5 marzo 1986, n. 68.
+
+4.
+                        
+                            
+                                L'attivazione dell'istituto resta subordinata al conseguimento dei seguenti obiettivi validi su tutto il territorio nazionale, nei servizi di prevenzione, diagnosi, cura e riabilitazione:
+ 
+                            
+                            
+                                a)
+                                
+                                    deve mantenersi o migliorarsi il rapporto fra prestazioni rese in normale orario di lavoro e prestazioni rese in plus-orario secondo le rilevazioni effettuate nel triennio 1984-1986;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la gestione dell'istituto deve tendere a migliorare alcuni indici di produttivita' complessivi;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    deve concretizzarsi una razionale distribuzione territoriale delle prestazioni utilizzando l'attivita' resa in plus-orario, oltre alla sede di assegnazione, anche nei presidi territoriali (distretti, centri di prenotazione, consultori, ecc.) e nei presidi multizonali.
 
 Tali obiettivi costituiscono vincoli per l'accordo decentrato a livello regionale che traccera' altresi' le linee generali dei programmi, gli schemi dei piani di lavoro ed i criteri delle verifiche in campo. Non dovra' comunque verificarsi, a livello di unita' sanitarie locali, un incremento della spesa complessiva derivante dalla quota pro-capite media per assistito secondo le rilevazioni del triennio 1984-1986. Ogni semestre dovranno essere verificati con le organizzazioni sindacali firmatarie dell'accordo recepito dal presente decreto gli aspetti tendenziali dell'applicazione dell'istituto in ordine al conseguimento degli obiettivi che costituiscono la condizione per l'attribuzione dei compensi.
 
@@ -1417,6 +1804,24 @@ Le quote di cui al fondo comune dell'equipe non medica previsto dall'art. 104, a
 
 L'attivita' connessa con l'istituto delle incentivazioni sub I), comma 6, dell'art. 66 va svolta in plus orario.
 
+2.
+                        
+                            
+                                I tetti massimi di plus orario sono fissati nei limiti del fondo a disposizione di cui all'art. 67 come segue:
+ 
+                            
+                            
+                                a)
+                                
+                                    7 ore settimanali per il personale laureato non medico che effettua prestazioni rilevabili e fatturabili ai sensi del tariffario unico nazionale;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    3 ore settimanali per il personale tecnico sanitario e con funzioni di riabilitazione, di vigilanza e ispezione. In attesa degli accordi quadro regionali, attuativi dell'istituto, restano in vigore le norme specifiche dal decreto del Presidente della Repubblica n. 348/1983, art. 64.
+
 I tetti massimi di plus-orario determinati ai sensi del comma 2 verranno, pertanto, applicati a decorrere dalla data di entrata in vigore dell'accordo decentrato a livello regionale applicativo dell'istituto di cui al presente decreto.
 
 Per il personale infermieristico il plus-orario non potra' essere superiore a due ore settimanali.
@@ -1489,6 +1894,45 @@ Agli accordi decentrati si da' esecuzione ai sensi dell'art. 14 della legge 29 m
 
 ## Art. 75. — Livelli di contrattazione
 
+1.
+                        
+                            
+                                Le parti individuano i seguenti livelli di contrattazione decentrata:
+ 
+                            
+                            
+                                a)
+                                
+                                    - regionale, che riguarda:
+ attuazione dei criteri in base ai quali definire le piante organiche nonche' i criteri per la formazione dei piani di assunzione di personale;
+ la formazione dei programmi di occupazione medica e veterinaria;
+ la verifica dell'applicazione delle norme sulla mobilita', compresa quella derivante da situazioni di sovradimensionamento e sottodimensionamento degli organici;
+ l'applicazione dei criteri per l'effettivo esercizio dell'attivita' libero-professionale;
+ la predisposizione dei programmi di aggiornamento professionale, di ricerca, didattica e la qualificazione del personale medico e veterinario;
+ la predisposizione dei programmi di informatizzazione delle procedure e della destinazione delle risorse, nonche' del loro utilizzo;
+ i piani e i programmi volti ad incrementare la produttivita', loro verifica ed incentivazioni connesse;
+ la definizione di criteri attinenti le modalita' di riparto degli incentivi alla produttivita';
+ la predisposizione di norme atte a regolamentare le attivita' culturali e ricreative;
+ le "pari opportunita'";
+ le altre materie specificatamente e tassativamente indicate nel presente decreto;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    locale, al quale competono tutti gli aspetti dell'organizzazione del lavoro e, in particolare:
+ la proposta per l'individuazione della dotazione dei posti di pianta organica necessari e degli esuberi, anche in dipendenza di processi di riorganizzazione, ristrutturazione ed innovazione tecnologica dei servizi sanitari ed infine dei posti gia' esistenti da trasformare, in adeguamento alle reali esigenze di servizio, sulla base degli standards stabiliti a livello nazionale e regionale;
+ l'individuazione di criteri attuativi dell'orario di lavoro e dei diversi tipi di rapporto di lavoro nonche' le modalita' di accertamento del suo rispetto, sulla base di quanto stabilito dal presente decreto;
+ i carichi di lavoro in funzione degli obiettivi e dei piani di lavoro;
+ l'individuazione dei criteri per stabilire i casi in cui le esigenze di servizio richiedano di derogare al limite massimo previsto per l'effettuazione di lavoro straordinario;
+ l'attuazione dei criteri per l'identificazione delle unita' operative in cui applicare l'istituto della pronta disponibilita', per la programmazione e l'articolazione della stessa e per l'individuazione delle figure professionali e posizioni funzionali necessarie;
+ la verifica dell'applicazione dei criteri attinenti le modalita' di riparto degli incentivi alla produttivita';
+ la verifica delle modalita' applicative dell'effettivo esercizio dell'attivita' libero-professionale;
+ i criteri di utilizzazione dell'orario riservato all'aggiornamento professionale, alla didattica e alla ricerca;
+ le proposte in ordine ai processi di innovazioni tecnologiche; la verifica dell'applicazione delle misure di igiene, di prevenzione e sicurezza nei luoghi di lavoro;
+ le altre materie specificatamente e tassativamente indicate nel presente decreto.
+
 ((
 
 Gli Enti provvedono a costituire le delegazioni di parte pubblica abilitate alla trattativa ai vari livelli di contrattazione decentrata entro 15 giorni dalla data di entrata in vigore del presente regolamento ed a convocare le Organizzazioni Sindacali mediche maggiormente rappresentative ai sensi delle vigenti disposizioni, per l'avvio del negoziato entro e non oltre 15 giorni.
@@ -1510,6 +1954,29 @@ Gli accordi decentrati non possono comportare oneri aggiuntivi se non nei limiti
 ))
 
 ## Art. 76. — Composizione delle delegazioni
+
+1.
+                        
+                            
+                                A livello di contrattazione regionale la delegazione trattante e' costituita:
+ 
+                            
+                            
+                                a)
+                                
+                                    per la parte pubblica dalle seguenti rappresentanze:
+ della regione;
+ dell'ANCI per i comuni e i loro consorzi;
+ dell'UNCEM per le comunita' montane;
+ degli altri enti di cui all'art. 1 per quanto di rispettiva competenza.
+
+                                
+                            
+                            
+                                b)
+                                
+                                    per le organizzazioni sindacali:
+ da rappresentanti di ciascuna organizzazione sindacale medica e veterinaria firmataria dell'accordo recepito dal presente decreto, che abbia adottato, in sede nazionale, codici di autoregolamentazione dell'esercizio del diritto di sciopero.
 
 La delegazione di parte pubblica e' presieduta dal presidente della regione o da un suo delegato.
 
@@ -1540,6 +2007,24 @@ Nel pieno rispetto di quanto previsto dal presente decreto e di quanto stabilito
 
 In ogni caso tali attivita' non debbono configurare un distinto rapporto di impiego.
 
+9.
+                        
+                            
+                                In attuazione dell'art. 6 del decreto del Presidente della Repubblica n. 68/1986, la riduzione dell'orario di lavoro avverra' con le seguenti cadenze temporali:
+ 
+                            
+                            
+                                a)
+                                
+                                    per i medici a tempo pieno e per i veterinari: da ore 38 ad ore 37 settimanali, con decorrenza dal primo giorno del mese successivo alla data di entrata in vigore del presente decreto; da ore 37 a ore 36 settimanali, con decorrenza 31 dicembre 1987;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    per i medici a tempo definito: da ore 28,30 ad ore 27,30 settimanali, con decorrenza dal primo giorno del mese successivo alla data di entrata in vigore del presente decreto e dal 31 dicembre 1987, n. 27 ore settimanali.
+
 La riduzione delle ore comporta la revisione dell'organizzazione del lavoro e delle piante organiche sulla base dei parametri stabiliti a livello nazionale e regionale, sentite le Organizzazioni sindacali firmatarie dell'accordo recepito dal presente decreto.
 
 Nell'intento di pervenire ad una completa integrazione del personale medico nel servizio pubblico gli enti debbono privilegiare il rapporto a tempo pieno e favorire, pertanto, le richieste di passaggio dei medici dal rapporto a tempo definito al rapporto a tempo pieno.
@@ -1560,10 +2045,44 @@ I medici ed i veterinari hanno altresi' l'obbligo di prestare l'attivita' per tu
 
 ## Art. 78. — Commissione regionale
 
+1.
+                        
+                            
+                                In ciascuna regione e' istituita una apposita commissione regionale cui e' affidato:
+ 
+                            
+                            
+                                a)
+                                
+                                    il riesame delle domande del personale medico di passaggio dal tempo definito al tempo pieno non accolte dagli enti di appartenenza;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'esame delle domande di ammissione all'esercizio della libera attivita' professionale qualora non attivata all'interno delle strutture dell'ente.
+
 La commissione di cui al comma 1 e' cosi' composta:
  da un rappresentante della regione che la presiede;
  da un rappresentante designato dall'ente interessato;
  da un rappresentante del Ministero della sanita'.
+
+3.
+                        
+                            
+                                La commissione regionale decide sulle domande di cui ai punti 
+                            
+                            
+                                a)
+                                
+                                    e
+                                
+                            
+                            
+                                b)
+                                
+                                    entro sessanta giorni, previa verifica delle effettive situazioni locali con la partecipazione delle Organizzazioni sindacali mediche firmatarie dell'accordo recepito dal presente decreto.
 
 La commissione regionale e' integrata, di volta in volta, da un membro designato dalle Organizzazioni sindacali mediche firmatarie dell'accordo recepito dal presente decreto.
 
@@ -1588,6 +2107,24 @@ Tale presenza medica e' destinata a far fronte ad esigenze ordinarie e di emerge
 Alle citate esigenze si provvede mediante la presenza attiva, attraverso un funzionale utilizzato delle equipes per le dodici ore diurne, ove le piante organiche lo consentano e, comunque, in rapporto alla migliore organizzazione del lavoro.
 
 Nei reparti di rianimazione e terapia intensiva la presenza medica deve essere garantita attraverso una turnazione per la copertura dell'intero arco delle 24 ore.
+
+5.
+                        
+                            
+                                Alle esigenze di emergenza notturne e festive si provvede mediante:
+ 
+                            
+                            
+                                a)
+                                
+                                    il dipartimento di emergenza, laddove esso e' istituito, eventualmente integrato, ove necessario da altri servizi di guardia o di pronta disponibilita' secondo i criteri indicati in sede di contrattazione decentrata;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'utilizzazione della guardia medica divisionale e/o interdivisionale.
 
 La guardia medica e' svolta durante il normale orario di lavoro, laddove la dotazione organica delle unita' operative consenta di garantire tutte le attivita' mediche istituzionali.
 
@@ -1661,6 +2198,52 @@ L'aggiornamento professionale del personale medico e veterinario e' obbligatorio
 
 Il relativo finanziamento e' previsto nel Fondo sanitario nazionale con una apposita voce a destinazione vincolata.
 
+3.
+                        
+                            
+                                L'aggiornamento obbligatorio e' svolto in orario di lavoro e comprende:
+ 
+                            
+                            
+                                a)
+                                
+                                    la partecipazione obbligatoria a corsi di aggiornamento organizzati dal Servizio sanitario nazionale;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la frequenza obbligatoria a congressi, convegni, seminari e altre manifestazioni consimili, da chiunque organizzati, compresi nei programmi regionali;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    l'uso di testi, riviste tecniche ed altro materiale bibliografico messo a disposizione dal Servizio sanitario nazionale;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    l'uso di tecnologie audiovisive ed informatiche;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    ricerca finalizzata del personale medico in base a programmi definiti in sede di contrattazione decentrata.
+
+                                
+                            
+                            
+                                f)
+                                
+                                    il comando finalizzato previsto dall'articolo 45 del decreto del Presidente della Repubblica 20 dicembre 1979, n. 761.
+
 I programmi regionali e di singolo ente, che dovranno prevedere fondi destinati alle attivita' di cui al comma 3 e gli indici di utilizzazione adeguati ai profili professionali del medico e veterinario, sono determinati, previo confronto con le Organizzazioni sindacali firmatarie dell'accordo recepito dal presente decreto, secondo criteri e modalita' di cui all'art. 6, comma 9, del decreto del Presidente della Repubblica 68/1986.
 
 A tali fini, presso ogni regione e singolo ente verra' istituita una apposita commissione paritetica composta da membri nominati dal comitato di gestione od organo corrispondente secondo i rispettivi ordinamenti, e da membri designati dalle Organizzazioni sindacali mediche firmatarie dell'accordo recepito dal presente decreto.
@@ -1674,6 +2257,31 @@ Nell'aggiornamento tecnico-scientifico facoltativo rientra l'istituto del comand
 Sulle domande complessive di aggiornamento facoltativo decide un comitato tecnico-scientifico composto da medici e veterinari designati dagli enti, scelti fra il personale dipendente e da medici e veterinari designati dalle Organizzazioni sindacali mediche firmatarie dell'accordo recepito nel presente decreto.
 
 Il comitato di gestione o l'organo corrispondente secondo i rispettivi ordinamenti, di norma, approva le decisioni del comitato tecnico-scientifico ed, in caso contrario, e' tenuto a fornire una opportuna motivazione. ((La partecipazione ai corsi, convegni, congressi e la frequenza delle scuole di specializzazione e gli esami sostenuti, devono essere adeguatamente documentati al fine della concessione del congedo straordinario previsto dall'articolo 10 del decreto del Presidente della Repubblica 25 giugno 1983, n. 348, e dalla circolare n. 10705 del 30 dicembre 1987 del Dipartimento della funzione pubblica;))
+
+11.
+                        
+                            
+                                La partecipazione all'attivita' didattica del personale medico e veterinario si realizza nelle seguenti aree di applicazione:
+ 
+                            
+                            
+                                a)
+                                
+                                    corsi di specializzazione, corsi pre-laurea e scuole a fini speciali, secondo la disciplina prevista dalle convenzioni con l'universita', ai sensi dell'art. 39 della legge n. 833/1978;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    aggiornamento professionale obbligatorio del personale interessato organizzato dal Servizio sanitario nazionale;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    formazione di base, aggiornamento professionale e riqualificazione del personale non medico.
 
 Le attivita' sub b) e e) del comma 11, sono riservate in linea di principio al personale del Servizio sanitario nazionale, con l'eventuale integrazione di docenti esterni.
 
@@ -1786,6 +2394,31 @@ Per l'effettuazione di consulti e consulenze da parte dei veterinari si applica 
 
 ## Art. 89. — Compatibilita' del personale medico e veterinario
 
+1.
+                        
+                            
+                                L'attivita' libero-professionale deve essere esercitata alla condizione che:
+ 
+                            
+                            
+                                a)
+                                
+                                    venga prestata al di fuori del normale orario di servizio, dell'eventuale plus orario e non rientri nell'ambito del lavoro straordinario;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    non sia in contrasto con i compiti di istituto;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    non venga prestata con rapporto di lavoro subordinato, non sia comunque in contrasto con gli interessi dell'ente e sia in ogni caso subordinata all'impegno di garantire la piena funzionalita' dei servizi.
+
 ## Art. 90. — Tariffario
 
 Fino alla data di entrata in vigore del decreto ministeriale di cui all'art. 35, ottavo comma, del decreto del Presidente della Repubblica 20 dicembre 1979, n. 761, da emanarsi entro novanta giorni dalla data di entrata in vigore del presente decreto si applicano le attuali tariffe.
@@ -1893,6 +2526,24 @@ Nel caso di passaggio a livello superiore per concorso, l'inquadramento avviene 
 
 L'indennita' differenziata di responsabilita' primariale spetta ai medici primari.
 
+2.
+                        
+                            
+                                Tale indennita' viene attribuita nelle seguenti misure lorde fisse, per 12 mensilita', con esclusione della 13ª mensilita', secondo l'appartenenza all'area:
+ 
+                            
+                            
+                                a)
+                                
+                                    area funzionale di medicina e di direzione sanitaria L. 270.000 mensili;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    area funzionale di chirurgia (ivi comprese le discipline mediche con terapia intensiva) L. 380.000 mensili. ((5))
+
 ---------------
                             AGGIORNAMENTO (5)
                             Il D.P.R. 28 novembre 1990, n. 384 (con l'art. 114, comma 1) ha disposto che "Gli importi dell'indennita' differenziata di responsabilita' primariale, di cui all'articolo 96 del decreto del Presidente della Repubblica 20 maggio 1987, n. 270, punti a) e b), sono rispettivamente rideterminati in L. 364.500 ed in L. 513.000 a decorrere dal 1 dicembre 1990."
@@ -1932,6 +2583,31 @@ Il meccanismo di incentivazione, per sua natura, a regime dovra' essere organizz
 
 Per l'arco di vigenza dell'accordo collettivo 1986/1988 recepito dal presente decreto e a decorrere dalla data di entrata in vigore dello stesso, si ridefinisce la disciplina vigente quale fase transitoria verso il futuro sistema "per obiettivi", con gli opportuni e specifici adattamenti riferiti alle due aree negoziali di cui all'art. 6 del decreto del Presidente della Repubblica n. 68/1986.
 
+4.
+                        
+                            
+                                L'attivazione dell'istituto e' obbligatoria ed e' finalizzata al conseguimento dei seguenti obiettivi validi su tutto il territorio nazionale nei servizi di prevenzione, diagnosi, cura e riabilitazione:
+ 
+                            
+                            
+                                a)
+                                
+                                    deve mantenersi o migliorarsi il rapporto fra prestazioni rese in normale orario di lavoro e prestazioni rese in plus-orario, secondo le rilevazioni effettuate nel triennio 1984-1986;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la gestione dell'istituto deve tendere a migliorare alcuni indici di produttivita' complessivi;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    deve concretizzarsi una razionale distribuzione territoriale delle prestazioni utilizzando l'attivita' resa in plus-orario, oltre alla sede di assegnazione, anche nei presidi territoriali (distretti, centri di prenotazione, consultori, ecc.) e nei presidi multizonali.
+
 Tali obiettivi costituiscono vincoli per l'accordo-quadro regionale che traccera' altresi' le linee generali dei programmi, gli schemi dei piani di lavoro ed i criteri delle verifiche in campo. Non dovra' comunque verificarsi, a livello di Unita' Sanitarie Locali, un incremento della spesa complessiva derivante dalla quota pro-capite media per assistito secondo le rilevazioni del triennio 1984-1986.
 Ogni semestre dovranno essere verificati con le organizzazioni sindacali firmatarie dell'accordo recepito nel presente decreto gli aspetti tendenziali dell'applicazione dell'istituto in ordine al conseguimento degli obiettivi che costituiscono la condizione per l'attribuzione dei compensi.
 
@@ -1963,11 +2639,68 @@ Fermo restando l'obbligo dell'attivita' ambulatoriale da prestarsi nel normale o
 
 Detta attivita' viene organizzata attraverso la predisposizione di orari o turni che garantiscano una equa rotazione di tutto il personale sanitario in modo da assicurare la presenza di tutti i componenti della equipe, ognuno nell'ambito delle rispettive attribuzioni e delle rispettive posizioni funzionali, nonche' l'espletamento dell'attivita' stessa in tutti i giorni feriali.
 
+3.
+                        
+                            
+                                L'accordo decentrato a livello regionale, nel definire le modalita' operative dell'istituto dell'incentivazione della produttivita', finalizzate al perseguimento degli obiettivi programmatici, dovra' comunque tenere conto dei seguenti indici di produttivita':
+ 
+                            
+                            
+                                a)
+                                
+                                    durata media della degenza complessiva e per singole unita' operative;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    riduzione dei tempi di attesa intra ed extra ospedaliera.
+
 Ai fini del computo economico del presente istituto il numero delle prestazioni effettuate secondo le predette modalita' e soggette a tale valutazione non puo' eccedere nei servizi di prevenzione, diagnosi, cura e riabilitazione il 50% del volume complessivo, compresa l'attivita' svolta in favore dei pazienti ricoverati, di attivita' dell'unita' operativa, tenendo anche conto dell'attivita' lavorativa prestata per altri istituti contrattuali.
 
 Fino al raggiungimento del predetto 50% (vedi tabella A) le prestazioni effettuate sono considerate tutte utili ai fini della determinazione dei tetti consentiti e concordati.
 
 Per le attivita' ambulatoriali svolte da equipes operanti in unita' operative con posti letto l'attivita' di maggiore produttivita' rivolta ai non ricoverati verra' valutata sulla base delle prestazioni effettivamente erogate in plus-orario senza le limitazioni di cui ai commi precedenti.
+
+7.
+                        
+                            
+                                La valutazione della produttivita' dell'istituto sub II), comma 6, dell'art. 101 viene definita su specifici programmi in sede regionale, attuati e verificati nelle singole Unita' Sanitarie Locali sulla base dei seguenti indici medi di produttivita' oggettivamente rilevati a livello regionale:
+ 
+                            
+                            
+                                a)
+                                
+                                    contenimento della spesa corrente rispetto a quella storica riferita all'anno precedente a quello preso in considerazione e rivalutazione del tasso ufficiale di inflazione escludendo dal computo la eventuale assegnazione finanziaria rispetto alla predetta determinazione;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    durata media della degenza, indice di occupazione di posti letto, indice di turn-over del posto letto;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    riduzione dei tempi di attesa intra ed extra ospedaliera;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    economie realizzate rispetto all'indice medio regionale per la farmaceutica esterna;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    altri eventuali indici di produttivita', oggettivamente rilevabili e quantificabili, determinati a livello regionale.
 
 Tabella A
 
@@ -2812,6 +3545,126 @@ In relazione agli inquadramenti e alle promozioni conferiti in data successiva a
 
 ## Art. 117. — Norma particolare di primo inquadramento
 
+1.
+                        
+                            
+                                Dalla data di entrata in vigore del presente decreto le sottoindicate figure professionali, tali in posizione di ruolo e con l'incarico formalmente attribuito delle funzioni a fianco di ciascuna figura indicate alla data del 20 dicembre 1979, vengono cosi' inquadrate:
+ 
+                            
+                            
+                                a)
+                                
+                                    dirigente direttore di sede regionale o provinciale di ente nazionale o di cassa mutua provinciale - 11° livello;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    collaboratori coordinatori titolari di ufficio della sede provinciale o con la titolarita' di una sezione territoriale dell'Istituto nazionale delle assicurazioni di malattia, ovvero, titolari o reggenti di una sede o cassa mutua provinciale, se in possesso dell'anzianita' di cui alla tabella allegato 2 al decreto del Presidente della Repubblica n. 761/1979 (cinque anni) - 10° livello;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    collaboratore coordinatore cui sia stata formalmente attribuita la titolarita' di un reparto della sede provinciale - 9° livello;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    collaboratori titolari d'ufficio di sede provinciale, o di sezione territoriale INAM o di sede di cassa mutua - 8° livello;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    personale medico capo ripartizione - o 9° livello allegato A ex decreto del Presidente della Repubblica 1 giugno 1979, n. 191, in comuni capoluogo di provincia - 11° livello;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    seconda qualifica professionale (personale infermieristico) non in possesso dello specifico titolo professionale - 6° livello;
+
+                                
+                            
+                            
+                                g)
+                                
+                                    seconda qualifica professionale (personale infermieristico) in possesso dello specifico titolo professionale e di livello differenziato o incarico di coordinamento - 7° livello;
+
+                                
+                            
+                            
+                                h)
+                                
+                                    seconda qualifica professionale (personale tecnico sanitario, di vigilanza e ispezione, di riabilitazione) non in possesso dello specifico titolo professionale - 6° livello;
+
+                                
+                            
+                            
+                                i)
+                                
+                                    seconda qualifica professionale (personale tecnico sanitario, di vigilanza e ispezione, di riabilitazione) in possesso dello specifico titolo professionale e di una anzianita' di tre anni nella qualifica nonche' del livello differenziato o l'incarico di coordinamento - 7° livello;
+
+                                
+                            
+                            
+                                l)
+                                
+                                    personale infermieristico degli enti locali (sesto livello ex decreto del Presidente della Repubblica n. 191/1979) in possesso dello specifico titolo professionale (certificato di abilitazione a funzioni direttive) - 7° livello;
+
+                                
+                            
+                            
+                                m)
+                                
+                                    capo infermiere del parastato in possesso dello specifico titolo professionale (certificato di abilitazione a funzioni direttive) - 7° livello;
+
+                                
+                            
+                            
+                                n)
+                                
+                                    agente tecnico del parastato in possesso del livello differenziato - 4° livello;
+
+                                
+                            
+                            
+                                o)
+                                
+                                    collaboratori tecnici del parastato:
+ 1) se in possesso di laurea specifica (ingegneria, architettura, geologia, sociologia, statistica) inquadrati nel profilo professionale corrispondente alla laurea - 9° livello;
+ 2) se in possesso di laurea non specifica e con dieci anni di anzianita' in carriera direttiva, inquadrati nel ruolo amministrativo - 9° livello;
+ 3) collaboratori tecnici coordinatori, senza laurea, inquadrati nel ruolo amministrativo - 8° livello;
+ 4) collaboratori tecnici senza laurea, inquadrati nel ruolo amministrativo - 7° livello.
+
+                                
+                            
+                            
+                                p)
+                                
+                                    personale tecnico addetto, negli enti di provenienza, ad attivita' sanitarie tecniche di vigilanza ed ispezione con livello retributivo funzionale non inferiore al V ex decreto del Presidente della Repubblica n. 191/1979, o inquadrato, purche' in livello corrispondente nella qualifica di perito chimico, perito fisico o qualifica corrispondente nonche' il personale tecnico proveniente dall'Ente nazionale per la prevenzione degli infortuni, dall'Associazione nazionale per il controllo della combustione, dagli ispettorati del lavoro (personale seconda qualifica professionale o del ruolo tecnico) e' inquadrato, a seconda della specifica professionalita' posseduta, al profilo professionale del personale tecnico sanitario o al profilo professionale del personale di vigilanza e ispezione, nelle rispettive posizioni funzionali di collaboratore - 6° livello; e coordinatore (se inquadrato in un livello superiore a seconda dei rispettivi ordinamenti) - 7° livello;
+
+                                
+                            
+                            
+                                q)
+                                
+                                    personale ex ospedaliero, dei I livello dirigenziale di ospedale con oltre ottocento posti letto, con laurea ovvero con cinque anni di anzianita' maturati nella qualifica anche successivamente alla data di cui al comma 1 del presente articolo - 10° livello;
+
+                                
+                            
+                            
+                                r)
+                                
+                                    personale ex ospedaliero del II livello dirigenziale di ospedale con oltre ottocento posti letto, con laurea ovvero con cinque anni di anzianita' maturati nella qualifica anche successivamente alla data di cui al comma 1 del presente articolo - 11° livello.
+
 ## Art. 118. — Flussi informativi
 
 Sugli istituti normativi a rilievo economico del presente decreto vengono attivati appositi flussi informativi di controllo all'interno del sistema informativo sanitario facente capo al servizio centrale della programmazione sanitaria del Ministero della sanita'.
@@ -2827,9 +3680,115 @@ La commissione ha il compito:
  di promuovere misure per la diffusione di metodiche per l'innalzamento qualitativo del livello tecnico-scientifico delle prestazioni, anche mediante iniziative nella formazione professionale;
  di valutare che le strutture pubbliche e convenzionate soddisfino gli standards minimi di dotazione strutturale, definiti in campo nazionale nell'ambito dello studio sull'accreditamento promosso dalla commissione nazionale individuando problemi di dotazione infrastrutturale, organizzativi o manageriali e suggerendo apposite soluzioni, graduali e compatibili con le risorse finanziarie del sistema.
 
+3.
+                        
+                            
+                                La commissione regionale e' nominata con provvedimento della regione, e' presieduta dal presidente dell'ordine dei medici del capoluogo di regione ed e' costituita da:
+ 
+                            
+                            
+                                a)
+                                
+                                    cinque esperti qualificati, scelti tra dipendenti del Servizio sanitario nazionale e delle strutture universitarie;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    cinque rappresentanti del ruolo sanitario del personale delle unita' sanitarie locali, designati dalle organizzazioni sindacali garantendo la presenza dei diversi profili professionali;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    cinque rappresentanti degli ordini e collegi professionali;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    cinque rappresentanti di associazioni scientifiche e culturali mediche;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    un funzionario della carriera direttiva amministrativa della regione con funzioni di segretario.
+
 In ogni ospedale e' costituito, a cura della direzione sanitaria, un gruppo di lavoro per la promozione della qualita' tecnico-scientifica delle prestazioni sanitarie, composto da personale medico e non medico del ruolo sanitario, con il compito di stimolare studi e programmi di promozione di qualita', attivita' di formazione e di verifica dell'ottemperanza di standards assistenziali, infrastrutturali e di costo predefiniti.
 
 L'attivita' di questi gruppi deve avvenire nel quadro delle indicazioni fornite dalla commissione regionale.
+
+6.
+                        
+                            
+                                Allo scopo di fornire indirizzi di carattere generale, di coordinare un programma nazionale di formazione ed impostare uno studio nazionale per la definizione di criteri di accreditamento alle commissioni professionali regionali, con decreto del Ministro della sanita', e' costituita una commissione professionale a livello centrale, presieduta dal presidente della Federazione nazionale dell'ordine dei medici e costituita da:
+ 
+                            
+                            
+                                a)
+                                
+                                    sei esperti scelti tra dipendenti del Servizio sanitario nazionale e delle strutture universitarie;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    tre dirigenti del Ministero della sanita';
+
+                                
+                            
+                            
+                                c)
+                                
+                                    sei esperti qualificati designati congiuntamente dalla delegazione regionale degli assessori firmatari dell'accordo recepito dal presente decreto e dall'ANCI;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    sei rappresentanti del ruolo sanitario del personale delle unita' sanitarie locali designati dalle organizzazioni sindacali;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    sei rappresentanti delle federazioni degli ordini e collegi professionali;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    sei rappresentanti di associazioni scientifiche e culturali mediche;
+
+                                
+                            
+                            
+                                g)
+                                
+                                    un rappresentante del Ministero del tesoro;
+
+                                
+                            
+                            
+                                h)
+                                
+                                    un rappresentante del Dipartimento della funzione pubblica;
+
+                                
+                            
+                            
+                                i)
+                                
+                                    un funzionario della carriera direttiva del Ministero della sanita' con funzioni di segretario.
 
 ## Art. 120. — Accordo intercompartimentale
 

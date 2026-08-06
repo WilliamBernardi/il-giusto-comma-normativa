@@ -8,8 +8,8 @@ codice_redazionale: 007G0057
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:41Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -34,6 +34,25 @@ Udito il parere del Consiglio di Stato, espresso dalla sezione consultiva per gl
 ## Art. 1. — Standard qualitativi, quantitativi e strutturali
 
 Gli standard qualitativi e quantitativi delle strutture dedicate alle cure palliative e della rete di assistenza ai pazienti terminali sono individuati nell'Allegato 1. La descrizione e la modalita' di calcolo degli indicatori sono riportate nell'Allegato
+
+2.
+                    
+                        
+                            Tali Allegati costituiscono parte integrante del presente Regolamento.
+ 2. Le regioni garantiscono:
+ 
+                        
+                        
+                            a)
+                            
+                                l'informazione ai cittadini ed agli operatori sulla istituzione della rete di assistenza palliativa, sulla localizzazione dei servizi e delle strutture, sull'assistenza erogata dalla rete e sulle modalita' di accesso secondo quanto previsto dall'articolo 14 del decreto legislativo 30 dicembre 1992, n. 502, e successive modificazioni;
+
+                            
+                        
+                        
+                            b)
+                            
+                                l'utilizzo sistematico e continuativo, da parte della rete di assistenza palliativa, di strumenti di valutazione della qualita' percepita dai malati e dalle loro famiglie, secondo quanto previsto nel punto 2.2 della «Carta dei servizi pubblici sanitari», di cui al decreto del Presidente del Consiglio dei Ministri 19 maggio 1995.
 
 Per quanto attiene agli standard strutturali si applica il decreto del Presidente del Consiglio dei Ministri 20 gennaio 2000, integrato dalle norme regionali in vigore.
 

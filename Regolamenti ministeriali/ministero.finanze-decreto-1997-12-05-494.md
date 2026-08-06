@@ -8,8 +8,8 @@ codice_redazionale: 098G0025
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:38Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -72,6 +72,38 @@ Relativamente ai periodi per i quali non risulta documentato il possesso da part
 
 ## Art. 2.
 
+1.
+                    
+                        
+                            Nel caso in cui i titoli di cui all'articolo 1, comma 1, non siano depositati presso la banca emittente, la fruizione del regime di non imposizione dei relativi proventi e' subordinata all'acquisizione ed alla conservazione, da parte della banca emittente, di un'attestazione di avvenuto deposito dei titoli da parte del soggetto non residente, rilasciata dalla banca o dall'impresa di investimento depositaria, nella quale siano indicati i dati di seguito elencati:
+ 
+                        
+                        
+                            a)
+                            
+                                con riferimento a ciascuno dei titoli depositati:
+ 1) data di emissione del titolo;
+ 2) numero progressivo di identificazione del titolo;
+ 3) valore nominale del titolo;
+ 4) date di pagamento degli interessi, premi ed altri frutti;
+ 5) data di inizio e fine del deposito;
+ 6) numero dei giorni in cui il titolo e' stato depositato;
+
+                            
+                        
+                        
+                            b)
+                            
+                                con riferimento alle generalita' del soggetto non residente beneficiario degli interessi, premi ed altri frutti:
+ 1) cognome e nome;
+ 2) sesso;
+ 3) data di nascita;
+ 4) citta' di nascita;
+ 5) Stato di nascita;
+ 6) denominazione o ragione sociale;
+ 7) domicilio fiscale completo;
+ 8) estremi del documento di riconoscimento.
+
 Il soggetto non residente depositante e' tenuto a comunicare tempestivamente al depositario e all'emittente il venire meno dello status di non residente ovvero l'eventuale trasferimento dei titoli indicati nel comma 1 dell'articolo 1 ad altro soggetto.
 
 ## Art. 3.
@@ -81,6 +113,24 @@ La fruizione del regime di non imposizione prevista dall'articolo 1, comma 1, e'
 ## Art. 4.
 
 La banca emittente segnala annualmente all'Amministrazione finanziaria l'ammontare degli interessi, premi ed altri frutti dei buoni fruttiferi e dei certificati di deposito sui quali non e' stata applicata la ritenuta di cui al secondo comma, dell'articolo 26, del decreto del Presidente della Repubblica 29 settembre 1973, n. 600.
+
+2.
+                    
+                        
+                            La segnalazione di cui al comma 1 deve essere effettuata conformemente al modello di dichiarazione approvato ai sensi dell'articolo 8 del decreto del Presidente della Repubblica n. 600 del 1973 e ha ad oggetto:
+ 
+                        
+                        
+                            a)
+                            
+                                i dati identificativi dei soggetti non residenti, come previsto dall'articolo 2, comma 1, lettera b);
+
+                            
+                        
+                        
+                            b)
+                            
+                                l'ammontare degli interessi non assoggettati alla ritenuta prevista dal secondo comma dell'articolo 26 del decreto del Presidente della Repubblica n. 600 del 1973.
 
 La dichiarazione prevista nel comma 2 e' presentata nei modi e nei termini previsti per la dichiarazione degli interessi ed altri redditi di capitale che i soggetti all'imposta sul reddito delle persone giuridiche devono presentare contestualmente alla dichiarazione dei redditi propri ai sensi dell'articolo 9 del decreto del Presidente della Repubblica n. 600 del 1973.
 

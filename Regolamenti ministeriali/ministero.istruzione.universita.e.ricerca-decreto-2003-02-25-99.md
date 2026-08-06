@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
 vigenza_date: 2006-05-12
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:39Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -29,6 +29,45 @@ Udito il parere del Consiglio di Stato, espresso dalla sezione consultiva degli 
 ## Art. 1. — Definizioni
 
 Il presente regolamento disciplina le modalita' di accesso dei medici alle scuole di specializzazione in medicina e chirurgia di cui al titolo VI articoli 34-46 del decreto legislativo 17 agosto 1999, n. 368. Restano ferme le disposizioni speciali che consentono l'accesso ai laureati non medici ad alcune delle predette scuole.
+
+2.
+                    
+                        
+                            Ai sensi del presente regolamento si intendono:
+ 
+                        
+                        
+                            a)
+                            
+                                per universita', gli atenei e gli istituti di istruzione universitaria, statali e non statali che rilasciano titoli di studio con valore legale;
+
+                            
+                        
+                        
+                            b)
+                            
+                                per scuola o scuole, la scuola o le scuole di specializzazione per le professioni dell'area medica, di cui al titolo VI, articoli 34-46, del decreto legislativo n. 368/99;
+
+                            
+                        
+                        
+                            c)
+                            
+                                per MIUR, il Ministero dell'istruzione, dell'universita' e della ricerca;
+
+                            
+                        
+                        
+                            d)
+                            
+                                per CUN, il Consiglio universitario nazionale;
+
+                            
+                        
+                        
+                            e)
+                            
+                                per CNSU, il Consiglio nazionale degli studenti universitari.
 
 ## Art. 2. — Ammissione alla scuola
 
@@ -63,6 +102,54 @@ La prova pratica consiste nella valutazione da parte del candidato di un referto
 Non e' ammessa, durante ambedue le prove del concorso, la consultazione di qualsiasi testo, pena l'esclusione dal concorso.
 
 ## Art. 5. — Valutazione titoli
+
+1.
+                    
+                        
+                            La commissione ha a disposizione 100 punti, dei quali 60 per la valutazione della prova scritta, 15 per la prova pratica, 5 per il voto di laurea e 20 per il curriculum degli studi universitari. La valutazione del curriculume del voto di laurea avviene in conformita' ai seguenti criteri:
+
+                        
+                        
+                            a)
+                            
+                                voto di laurea - max 5 punti
+
+
+per voto di laurea inferiore a 100 punti 0
+per ciascun punto da 100 a 109 punti 0,30
+per i pieni voti assoluti punti 4
+per la lode punti 5
+
+                            
+                        
+                        
+                            b)
+                            
+                                curriculum - max 20 punti
+b.1) esami - max 5 punti: gli esami utili per la valutazione, in numero di 7, di cui 3 di discipline di base e 4 di discipline cliniche, sono scelti dal Consiglio della scuola tra i corsi integrati in statuto e indicati nel bando, con punteggio cosi' attribuibile:
+
+
+per ogni esame superato con voti da 27 a 29/30 punti 0,25
+per ogni esame superato con la votazione di 30/30 punti 0,50
+per ogni esame superato con lode punti 0,75
+
+b.2) attinenza della tesi alla tipologia di specializzazione - max 6,5 punti:
+
+
+nessuna attinenza punti 0
+attinenza bassa punti 2
+attinenza media punti 4,50
+attinenza alta punti 6,50
+
+b.3) attivita' elettive certificate attinenti la tipologia di specializzazione: corsi monografici, internati elettivi in Italia e all'estero - max 6 punti:
+
+
+per ogni corso, internato punti 1
+
+b.4) pubblicazioni a stampa, o lavori che risultano accettati da riviste scientifiche attinenti la specializzazione - max 2,5 punti:
+
+
+ogni pubblicazione o lavoro punti 0,50
 
 Non possono essere presi in considerazione lavori dattiloscritti o in corso di stampa non ancora accettati da riviste scientifiche. Il giudizio relativo ai punti b2 e b3 deve essere motivato. Le frazioni di punto non previste nel presente regolamento non sono ammesse.
 

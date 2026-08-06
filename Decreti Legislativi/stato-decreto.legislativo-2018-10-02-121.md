@@ -8,8 +8,8 @@ vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
 vigenza_date: 2026-06-12
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:34Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -98,7 +98,49 @@ Con il provvedimento che applica una misura penale di comunita' sono indicate le
 
 Se la pena detentiva da eseguire non supera i quattro anni il condannato puo' essere affidato all'ufficio di servizio sociale per i minorenni, per lo svolgimento del programma di intervento educativo.
 
+2.
+                        
+                            
+                                Il programma, predisposto in collaborazione con i servizi socio-sanitari territoriali, contiene gli impegni in ordine: 
+ 
+                            
+                            
+                                a)
+                                
+                                    alle attivita' di istruzione, di formazione professionale, di istruzione e formazione professionale, di lavoro o comunque utili per l'educazione e l'inclusione sociale; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    alle prescrizioni riguardanti la dimora, la liberta' di movimento e il divieto di frequentare determinati luoghi; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    alle prescrizioni dirette ad impedire lo svolgimento di attivita' ovvero relazioni personali che possono indurre alla commissione di ulteriori reati.
+
 Con lo stesso provvedimento il tribunale di sorveglianza puo' disporre prescrizioni riguardanti l'adempimento degli obblighi di assistenza familiare e ogni altra prescrizione utile per l'educazione e il positivo inserimento sociale del minorenne, compreso, quando opportuno, il collocamento in comunita'.
+
+4.
+                        
+                            
+                                L'ordinanza che dispone l'affidamento in prova indica altresi':
+
+                            
+                            
+                                a)
+                                
+                                    il ruolo del servizio sociale per i minorenni e dei servizi socio-sanitari territoriali nell'esecuzione del programma;
+                                
+                            
+                            
+                                b)
+                                
+                                    le modalita' di svolgimento delle attivita' di utilita' sociale.
 
 Nel corso dell'affidamento le prescrizioni possono essere modificate dal magistrato di sorveglianza sulla base delle indicazioni fornite dall'ufficio di servizio sociale per i minorenni.
 Le deroghe temporanee alle prescrizioni sono autorizzate, per motivi di urgenza, dal direttore dell'ufficio di servizio sociale per i minorenni, il quale ne da' immediata comunicazione al magistrato di sorveglianza.
@@ -179,6 +221,31 @@ Se il condannato per reati commessi da minorenne abbia fatto ingresso in un isti
 
 ((
 
+1.
+                        
+                            
+                                Il direttore dell'istituto penale per i minorenni richiede al magistrato di sorveglianza per i minorenni il nulla osta al trasferimento presso un idoneo istituto per adulti, individuato dal Dipartimento dell'amministrazione penitenziaria del Ministero della giustizia, del detenuto che ha compiuto ventuno anni, in espiazione di pena per reati commessi durante la minore eta', il quale, alternativamente: 
+ 
+                            
+                            
+                                a)
+                                
+                                    con i suoi comportamenti compromette la sicurezza ovvero turba l'ordine negli istituti; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    con violenza o minaccia impedisce le attivita' degli altri detenuti; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    nella vita penitenziaria si avvale dello stato di soggezione da lui indotto negli altri detenuti.
+
 La medesima disciplina di cui al comma 1 si applica al detenuto che ha compiuto diciotto anni, in espiazione di pena per reati commessi durante la minore eta', il quale realizza cumulativamente le condotte di cui alle lettere a), b) e c) del medesimo comma 1.
 
 Il magistrato di sorveglianza, quando sussistono le condizioni di cui al comma 1, puo' negare il nulla osta al trasferimento presso l'istituto individuato solo per ragioni di sicurezza, anche del detenuto medesimo.
@@ -203,6 +270,38 @@ I servizi sociali minorili dell'amministrazione della giustizia presentano, anch
 ## Art. 11-bis. — (( (Informazioni relative alla detenzione). ))
 
 ((
+
+1.
+                        
+                            
+                                Fermo quanto previsto dall'articolo 1, quando e' disposta l'esecuzione della condanna a pena detentiva il minorenne e' altresi' informato che: 
+ 
+                            
+                            
+                                a)
+                                
+                                    ha diritto a che la privazione della liberta' personale si svolga in luoghi diversi da quelli previsti per gli adulti, fino al compimento del diciottesimo anno di eta' e, salvi i casi previsti dalla legge, anche fino al compimento del venticinquesimo anno di eta'; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    ha diritto ad un progetto di intervento educativo personalizzato sulla base di una valutazione individuale; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    ha diritto ad accedere alle misure penali di comunita' e alle altre misure alternative alla detenzione, nei casi e alle condizioni previsti dalla legge; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    ha diritto alla rivalutazione della decisione dell'autorita' giudiziaria circa le modalita' di esecuzione della pena e la sussistenza dei presupposti per l'applicazione delle misure penali di comunita' e delle altre misure alternative alla detenzione, tenuto conto che la pena detentiva e' disposta solo quando le altre pene non risultino adeguate.
 
 ))
 
@@ -286,6 +385,38 @@ Sono favorite le visite prolungate per i detenuti che non usufruiscono di permes
 
 Il regolamento che disciplina la vita nell'istituto e' portato a conoscenza dei detenuti al loro ingresso con linguaggio comprensibile.
 
+2.
+                        
+                            
+                                Ai fini della verifica dell'adesione ai programmi di intervento educativo, con conseguente progressione e concessione di benefici, e' valutato anche il rispetto delle seguenti regole di comportamento all'interno dell'istituto: 
+ 
+                            
+                            
+                                a)
+                                
+                                    osservanza degli orari, cura dell'igiene personale, pulizia e ordine della camera di pernottamento; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    partecipazione alle attivita' di istruzione, formazione professionale, istruzione e formazione professionale, lavoro, culturali e sportive; la permanenza nelle camere di pernottamento nel corso dello svolgimento di tali attivita' e' consentita soltanto in casi eccezionali, o per motivi di salute accertati dall'area sanitaria; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    consumazione dei pasti nelle aree specificamente dedicate e non all'interno delle camere di pernottamento, salvo specifica indicazione in tal senso da parte dell'area sanitaria; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    relazioni con gli operatori e con gli altri detenuti improntate al reciproco rispetto.
+
 ## Art. 21. — Custodia attenuata
 
 Possono essere organizzate sezioni a custodia attenuata per ospitare detenuti che non presentano rilevanti profili di pericolosita' o che sono prossimi alle dimissioni e ammessi allo svolgimento di attivita' all'esterno. L'organizzazione di tali strutture deve prevedere spazi di autonomia nella gestione della vita personale e comunitaria.
@@ -301,6 +432,38 @@ L'assegnazione a un istituto penale per minorenni e' comunicata all'autorita' gi
 Ai trasferimenti si applicano i criteri di cui al comma 1 e sono disposti con provvedimento motivato, previo nulla osta dell'autorita' giudiziaria. Nei casi di urgenza sono eseguiti dalla competente amministrazione per la giustizia minorile e comunicati senza ritardo all'autorita' giudiziaria.
 
 ## Art. 23. — Sanzioni disciplinari
+
+1.
+                        
+                            
+                                Fermo quanto previsto dall'articolo 77 del decreto del Presidente della Repubblica 30 giugno 2000, n. 230, e successive modificazioni, sulle infrazioni disciplinari, possono essere applicate le seguenti sanzioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    rimprovero verbale e scritto del direttore dell'istituto; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    attivita' dirette a rimediare al danno cagionato; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    esclusione dalle attivita' ricreative per non piu' di dieci giorni; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    esclusione dalle attivita' in comune per non piu' di dieci giorni.
 
 Le sanzioni del rimprovero verbale e scritto sono deliberate dal direttore dell'istituto, mentre per le altre e' competente il consiglio di disciplina composto dal direttore dell'istituto o, in caso di legittimo impedimento, dall'impiegato piu' alto in grado con funzioni di presidente, da uno dei magistrati onorari esperti addetti al tribunale per le persone, per i minorenni e per le famiglie designato dal presidente, e da un educatore. (2)(6) (9) ((10))
 
@@ -322,6 +485,38 @@ Le sanzioni del rimprovero verbale e scritto sono deliberate dal direttore dell'
  Il D.Lgs. 10 ottobre 2022, n. 149, come modificato dal D.L. 8 agosto 2025, n. 117, ha disposto (con l'art. 49, comma 1) che "Le disposizioni previste dalla sezione settima del capo IV hanno effetto decorsi quattro anni dalla data della pubblicazione del presente decreto nella Gazzetta Ufficiale e si applicano ai procedimenti introdotti successivamente a tale data".
 
 ## Art. 24. — Dimissione
+
+1.
+                        
+                            
+                                Nei sei mesi precedenti, l'ufficio di servizio sociale per i minorenni, in collaborazione con l'area trattamentale, prepara e cura la dimissione: 
+ 
+                            
+                            
+                                a)
+                                
+                                    elaborando, per i condannati cui non siano state applicate misure penali di comunita', programmi educativi, di formazione professionale, di lavoro e di sostegno all'esterno; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    curando i contatti con i familiari di riferimento e con i servizi socio-sanitari territoriali, ai fini di quanto previsto nell'articolo 12, comma 4; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    rafforzando, in assenza di riferimenti familiari, i rapporti con i servizi socio-sanitari territoriali e con le organizzazioni di volontariato, per la presa in carico del soggetto; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    attivando sul territorio le risorse educative, di formazione, di lavoro e di sostegno, in particolare per i condannati privi di legami familiari sul territorio nazionale, ovvero la cui famiglia sia irreperibile o inadeguata, e individuando le figure educative o la comunita' di riferimento proposte dai servizi sociali per i minorenni o dai servizi socio-sanitari territoriali.
 
 ## Art. 25. — Relazione al Parlamento sull'utilizzo delle risorse
 

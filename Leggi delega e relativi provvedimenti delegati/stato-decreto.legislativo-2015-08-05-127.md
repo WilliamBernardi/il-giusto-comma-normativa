@@ -8,8 +8,8 @@ vigente: true
 source: normattiva-opendata
 collection: Leggi delega e relativi provvedimenti delegati
 vigenza_date: 2026-01-01
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:41:19Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -34,15 +34,84 @@ A decorrere dalla data di cui al periodo precedente, l'Agenzia delle entrate met
 
 Al fine di razionalizzare il procedimento di fatturazione e registrazione, per le cessioni di beni e le prestazioni di servizi effettuate tra soggetti residenti o stabiliti nel territorio dello Stato, e per le relative variazioni, sono emesse esclusivamente fatture elettroniche utilizzando il Sistema di Interscambio e secondo il formato di cui al comma 2. Gli operatori economici possono avvalersi, attraverso accordi tra le parti, di intermediari per la trasmissione delle fatture elettroniche al Sistema di Interscambio, ferme restando le responsabilita' del soggetto che effettua la cessione del bene o la prestazione del servizio. Con il medesimo decreto ministeriale di cui al comma 2 potranno essere individuati ulteriori formati della fattura elettronica basati su standard o norme riconosciuti nell'ambito dell'Unione europea. Le fatture elettroniche emesse nei confronti dei consumatori finali sono rese disponibili a questi ultimi dai servizi telematici dell'Agenzia delle entrate; una copia della fattura elettronica ovvero in formato analogico sara' messa a disposizione direttamente da chi emette la fattura. E' comunque facolta' dei consumatori rinunciare alla copia elettronica o in formato analogico della fattura. PERIODO SOPPRESSO DAL D.L. 30 APRILE 2022, N. 36. PERIODO SOPPRESSO DAL D.L. 30 APRILE 2022, N. 36. (3) (4) (19)
 
+3-bis.
+                    
+                        
+                            I soggetti passivi di cui al comma 3 trasmettono telematicamente all'Agenzia delle entrate i dati relativi alle operazioni di cessione di beni e di prestazione di servizi effettuate e ricevute verso e da soggetti non stabiliti nel territorio dello Stato, salvo quelle per le quali e' stata emessa una bolletta doganale, quelle per le quali siano state emesse o ricevute fatture elettroniche secondo le modalita' indicate nel comma 3, nonche' quelle, purche' di importo non superiore ad euro 5.000 per ogni singola operazione, relative ad acquisti di beni e servizi non rilevanti territorialmente ai fini IVA in Italia ai sensi degli articoli da 7 a 7-octies del decreto del Presidente della Repubblica 26 ottobre 1972, n. 633. La trasmissione telematica e' effettuata trimestralmente entro la fine del mese successivo al trimestre di riferimento. Con riferimento alle operazioni effettuate a partire dal 1° luglio 2022, i dati di cui al primo periodo sono trasmessi telematicamente utilizzando il Sistema di interscambio secondo il formato di cui al comma 2. Con riferimento alle medesime operazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                la trasmissione telematica dei dati relativi alle operazioni svolte nei confronti di soggetti non stabiliti nel territorio dello Stato e' effettuata entro i termini di emissione delle fatture o dei documenti che ne certificano i corrispettivi; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                la trasmissione telematica dei dati relativi alle operazioni ricevute da soggetti non stabiliti nel territorio dello Stato e' effettuata entro il quindicesimo giorno del mese successivo a quello di ricevimento del documento comprovante l'operazione o di effettuazione dell'operazione.
+
 I soggetti obbligati alla comunicazione dei dati delle fatture emesse e ricevute ai sensi del comma 3 del presente articolo sono esonerati dall'obbligo di annotazione in apposito registro, di cui agli articoli 23 e 25 del decreto del Presidente della Repubblica 26 ottobre 1972, n. 633.
 
 COMMA ABROGATO DALLA L. 27 DICEMBRE 2017, N. 205. (3) (4)
 
 Con decreto del Ministro dell'economia e delle finanze, da emanarsi entro sei mesi dalla data di entrata in vigore del presente decreto, sono stabilite nuove modalita' semplificate di controlli a distanza degli elementi acquisiti dall'Agenzia delle entrate ai sensi dei commi 3 e 3-bis, basate sul riscontro tra i dati comunicati dai soggetti passivi dell'imposta sul valore aggiunto e le transazioni effettuate, tali da ridurre gli adempimenti di tali soggetti, non ostacolare il normale svolgimento dell'attivita' economica degli stessi ed escludere la duplicazione di attivita' conoscitiva. (3) (4)
 
+5-bis.
+                    
+                        
+                            I file delle fatture elettroniche acquisiti ai sensi del comma 3 sono memorizzati fino al 31 dicembre dell'ottavo anno successivo a quello di presentazione della dichiarazione di riferimento ovvero fino alla definizione di eventuali giudizi, al fine di essere utilizzati: 
+ 
+                        
+                        
+                            a)
+                            
+                                dalla Guardia di finanza nell'assolvimento delle funzioni di polizia economica e finanziaria di cui all'articolo 2, comma 2, del decreto legislativo 19 marzo 2001, n. 68; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                dall'Agenzia delle entrate e dalla Guardia di Finanza per le attivita' di analisi del rischio e di controllo a fini fiscali. 
+
+                            
+                        
+                        
+                            b-bis)
+                            
+                                dall'Agenzia delle dogane e dei monopoli per le attivita' di vigilanza e di controllo di cui all'articolo 18 del testo unico delle disposizioni legislative concernenti le imposte sulla produzione e sui consumi e relative sanzioni penali e amministrative, di cui al decreto legislativo 26 ottobre 1995, n. 504; 
+
+                            
+                        
+                        
+                            b-ter)
+                            
+                                
+                                    ((dall'Agenzia delle entrate per mettere a disposizione dell'agente della riscossione i dati relativi alla somma dei corrispettivi delle fatture emesse da debitori iscritti a ruolo e dai loro coobbligati nei confronti di uno stesso soggetto nei sei mesi precedenti a quello in cui i medesimi dati sono messi a disposizione, per le attivita' di analisi mirate all'avvio di procedure esecutive presso terzi. Le modalita' attuative della disposizione di cui alla presente lettera sono definite con provvedimento del direttore dell'Agenzia delle entrate)).
+
 Ai fini di cui al comma 5-bis, la Guardia di Finanza, l'Agenzia delle entrate nonche' l'Agenzia delle dogane e dei monopoli, sentito il Garante per la protezione dei dati personali, adottano idonee misure di garanzia a tutela dei diritti e delle liberta' degli interessati, attraverso la previsione di apposite misure di sicurezza, anche di carattere organizzativo, in conformita' con le disposizioni del regolamento (UE) 2016/679 del Parlamento Europeo e del Consiglio del 27 aprile 2016 e del decreto legislativo 30 giugno 2003, n. 196.
 
 Per la fatturazione elettronica e per la memorizzazione, conservazione e consultazione delle fatture elettroniche relative alle cessioni di beni e alle prestazioni di servizi destinate agli organismi di cui agli articoli 4, 6 e 7 della legge 3 agosto 2007, n. 124, resta fermo quanto previsto ai sensi dell'articolo 29 della medesima legge.
+
+6.
+                    
+                        
+                            In caso di emissione di fattura, tra soggetti residenti o stabiliti nel territorio dello Stato, con modalita' diverse da quelle previste dal comma 3, la fattura si intende non emessa e si applicano le sanzioni previste dall'articolo 6 del decreto legislativo 18 dicembre 1997, n. 471. Il cessionario e il committente, per non incorrere nella sanzione di cui all'articolo 6, comma 8, del decreto legislativo 18 dicembre 1997, n. 471, devono adempiere agli obblighi documentali ivi previsti mediante il Sistema di Interscambio. Per il primo semestre del periodo d'imposta 2019 le sanzioni di cui ai periodi precedenti: 
+ 
+                        
+                        
+                            a)
+                            
+                                non si applicano se la fattura e' emessa con le modalita' di cui al comma 3 entro il termine di effettuazione della liquidazione periodica dell'imposta sul valore aggiunto ai sensi dell'articolo 1, comma 1, del decreto del Presidente della Repubblica 23 marzo 1998, n. 100; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                si applicano con riduzione dell'80 per cento a condizione che la fattura elettronica sia emessa entro il termine di effettuazione della liquidazione dell'imposta sul valore aggiunto del periodo successivo. Per i contribuenti che effettuano la liquidazione periodica dell'imposta sul valore aggiunto con cadenza mensile le disposizioni di cui al periodo precedente si applicano fino al 30 settembre 2019. In caso di omissione della trasmissione di cui al comma 3-bis ovvero di trasmissione di dati incompleti o inesatti, si applica la sanzione di cui all'articolo 11, comma 2-quater, del decreto legislativo 18 dicembre 1997, n. 471. (3)(4)
 
 Gli obblighi di conservazione previsti dall'articolo 3 del decreto del Ministro dell'economia e delle finanze 17 giugno 2014, pubblicato nella Gazzetta Ufficiale n. 146 del 26 giugno 2014, si intendono soddisfatti per tutte le fatture elettroniche nonche' per tutti i documenti informatici trasmessi attraverso il Sistema di Interscambio di cui all'articolo 1, comma 211, della legge 24 dicembre 2007, n. 244, e memorizzati dall'Agenzia delle entrate. Per il servizio di conservazione gratuito delle fatture elettroniche di cui al presente articolo, reso disponibile agli operatori IVA dall'Agenzia delle entrate, il partner tecnologico Sogei S.p.a. non puo' avvalersi di soggetti terzi. I tempi e le modalita' di applicazione della presente disposizione, anche in relazione agli obblighi contenuti nell'articolo 5 del citato decreto ministeriale 17 giugno 2014, sono stabiliti con apposito provvedimento del direttore dell'Agenzia delle entrate. Con provvedimento del direttore dell'Agenzia delle dogane e dei monopoli sono altresi' stabilite le modalita' di conservazione degli scontrini delle giocate dei giochi pubblici autorizzati, secondo criteri di semplificazione e attenuazione degli oneri di gestione per gli operatori interessati e per l'amministrazione, anche con il ricorso ad adeguati strumenti tecnologici, ferme restando le esigenze di controllo dell'amministrazione finanziaria. (3) (4)
 
@@ -132,6 +201,32 @@ Il termine di decadenza di cui all'articolo 57, primo comma, del decreto del Pre
  a) cessioni di benzina o di gasolio destinati ad essere utilizzati come carburanti per motori, ad eccezione delle cessioni di carburante per autotrazione presso gli impianti stradali di distribuzione, per le quali il comma 920 si applica dal 1° gennaio 2019".
 
 ## Art. 4. — (Semplificazioni amministrative e contabili)
+
+1.
+                    
+                        
+                            A partire dalle operazioni IVA effettuate dal 1° luglio 2021, in via sperimentale, nell'ambito di un programma di assistenza on line basato sui dati delle operazioni acquisiti con le fatture elettroniche e con le comunicazioni delle operazioni transfrontaliere nonche' sui dati dei corrispettivi acquisiti telematicamente e sugli ulteriori dati fiscali presenti nel sistema dell'Anagrafe tributaria, l'Agenzia delle entrate mette a disposizione di tutti i soggetti passivi dell'IVA residenti e stabiliti in Italia, in apposita area riservata del sito internet dell'Agenzia stessa, le bozze dei seguenti documenti: 
+ 
+                        
+                        
+                            a)
+                            
+                                registri di cui agli articoli 23 e 25 del decreto del Presidente della Repubblica 26 ottobre 1972, n. 633; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                liquidazione periodica dell'IVA; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                LETTERA SOPPRESSA DAL D.L. 22 MARZO 2021, N. 41, CONVERTITO CON MODIFICAZIONI DALLA L. 21 MAGGIO 2021, N. 69. 
+ ((1.1)). A partire dalle operazioni IVA effettuate dal 1° gennaio 2022, in via sperimentale, oltre alle bozze dei documenti di cui al comma 1, lettere a) e b), l'Agenzia delle entrate mette a disposizione anche la bozza della dichiarazione annuale dell'IVA.
 
 Per i soggetti passivi dell'IVA che, anche per il tramite di intermediari di cui all'articolo 3, comma 3, del regolamento di cui al decreto del Presidente della Repubblica 22 luglio 1998, n. 322, in possesso della delega per l'utilizzo dei servizi di fatturazione elettronica, convalidano, nel caso in cui le informazioni proposte dall'Agenzia delle entrate siano complete, ovvero integrano nel dettaglio i dati proposti nelle bozze dei documenti di cui al comma 1, lettera a), viene meno l'obbligo di tenuta dei registri di cui agli articoli 23 e 25 del decreto del Presidente della Repubblica 26 ottobre 1972, n. 633, fatta salva la tenuta del registro di cui all'articolo 18, comma 2, del decreto del Presidente della Repubblica 29 settembre 1973, n. 600. L'obbligo di tenuta dei registri ai fini dell'IVA permane per i soggetti che optano per la tenuta dei registri secondo le modalita' di cui all'articolo 18, comma 5, del decreto del Presidente della Repubblica 29 settembre 1973, n. 600. (5)
 

@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
 vigenza_date: 2006-07-22
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:40Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -62,6 +62,66 @@ Le funzioni di componente del comitato sono incompatibili con quelle connesse a 
 
 ## Art. 4. — Compiti del comitato amministratore del Fondo
 
+1.
+                    
+                        
+                            Il comitato amministratore deve:
+ 
+                        
+                        
+                            a)
+                            
+                                predisporre, sulla base dei criteri stabiliti dal consiglio di indirizzo e vigilanza dell'INPS, i bilanci annuali della gestione, preventivo e consuntivo, corredati da una relazione, e deliberate sui bilanci tecnici relativi alla gestione stessa;
+
+                            
+                        
+                        
+                            b)
+                            
+                                deliberare in ordine alla concessione degli interventi e dei trattamenti di cui all'articolo 5;
+
+                            
+                        
+                        
+                            c)
+                            
+                                deliberare le sospensioni ai sensi dell'articolo 6, comma 2;
+
+                            
+                        
+                        
+                            d)
+                            
+                                deliberare, in caso di mancata utilizzazione totale o parziale delle risorse derivanti dalla contribuzione prevista dall'articolo 6, l'utilizzo delle residue risorse disponibili per l'anno successivo, riducendo proporzionalmente per lo stesso anno l'apporto dell'Ente;
+
+                            
+                        
+                        
+                            e)
+                            
+                                vigilare sull'affluenza dei contributi, sull'ammissione agli interventi e sulla erogazione dei trattamenti, nonche', sull'andamento della gestione;
+
+                            
+                        
+                        
+                            f)
+                            
+                                decidere, in unica istanza, sui ricorsi in materia di contributi e prestazioni;
+
+                            
+                        
+                        
+                            g)
+                            
+                                assolvere ogni altro compito ad esso demandato da leggi o regolamenti, o che sia ad esso affidato dal consiglio di amministrazione dell'INPS;
+
+                            
+                        
+                        
+                            h)
+                            
+                                deliberare la revoca, totale o parziale, degli assegni straordinari nei casi di cumulo dei redditi di cui all'articolo 10.
+
 ## Art. 5. — Prestazioni
 
 Il Fondo provvede, nell'ambito dei processi di cui all'articolo 2, all'erogazione di assegni straordinari per il sostegno al reddito, in forma rateale, ed al versamento della contribuzione correlata di cui all'articolo 2, comma 28, della legge n. 662/1996, riconosciuti ai lavoratori ammessi a fruirne nel quadro dei processi di agevolazioni all'esodo. Oltre a tale assegno, il Fondo provvede all'erogazione di un bonus di ingresso al Fondo e di un bonus da corrispondersi all'atto della maturazione del trattamento pensionistico. Qualora l'erogazione avvenga in unica soluzione, su richiesta del lavoratore al fine di intraprendere attivita' autonoma o cooperativistica, l'assegno straordinario e' pari ad un importo corrispondente al 70 per cento dell'importo mensile lordo che percepirebbe al momento della concessione, moltiplicato per il numero dei mesi ai quali avrebbe diritto al momento di detta erogazione e per i quali non verra' versata alcuna contribuzione, in quanto non spettante; in tale ipotesi resta escluso il bonus da erogarsi all'atto della maturazione del trattamento pensionistico.
@@ -75,6 +135,24 @@ Ai fini dell'applicazione dei criteri di cui al comma 3, si dovra' tenere conto 
 Il Fondo provvedera' a versare, altresi', la contribuzione dovuta di cui al precedente comma 1, alla competente gestione assicurativa obbligatoria.
 
 ## Art. 6. — Finanziamento
+
+1.
+                    
+                        
+                            Per le prestazioni di cui all'articolo 5, l'ETI S.p.a. provvedera' all'erogazione di:
+ 
+                        
+                        
+                            a)
+                            
+                                un contributo ordinario dello 0,5 per cento calcolato sulla retribuzione imponibile ai fini previdenziali di tutti i lavoratori dipendenti con contratto a tempo indeterminato ((, con esclusione del personale con qualifica di dirigente));
+
+                            
+                        
+                        
+                            b)
+                            
+                                un contributo straordinario, determinato dal comitato amministratore, relativamente ai soli lavoratori interessati alla corresponsione degli assegni medesimi, il cui ammontare e' determinato in misura corrispondente al fabbisogno di copertura degli assegni straordinari erogabili ((, della contribuzione correlata e degli assegni per il nucleo familiare di cui all'articolo 9, comma 1, lettera c-bis) )). Detto contributo sara' versato in rate trimestrali anticipate, la prima delle quali decorrente dal primo mese successivo all'emanazione del regolamento.
 
 L'obbligo del versamento al Fondo del contributo ordinario dello 0,5 per cento e' sospeso, su deliberazione del comitato amministratore, ai sensi dell'articolo 4, lettera c).
 
@@ -97,6 +175,38 @@ L'accesso alle prestazioni del Fondo comportera', per i lavoratori interessati, 
 I criteri di individuazione dei lavoratori in esubero o eccedentari tengono conto delle effettive esigenze di personale manifestate dall'ETI S.p.a. alle organizzazioni sindacali nazionali con le quali e' stata convenuta l'istituzione del Fondo, nel corso della procedura preliminare alla costituzione del Fondo stesso e definite con gli accordi del 19 aprile 2000, del 18 maggio 2000 e del 3 agosto 2000.
 
 ## Art. 9. — Prestazioni: criteri e misure
+
+1.
+                    
+                        
+                            Per i lavoratori ammessi a fruire delle prestazioni del Fondo di cui all'articolo 5 si provvedera' ad erogare:
+ 
+                        
+                        
+                            a)
+                            
+                                l'importo dell'assegno rateale che sara' pari all'80 per cento del trattamento economico goduto dal soggetto all'atto della maturazione del diritto d'accesso al Fondo e sara' calcolato esclusivamente con riferimento alle seguenti voci: stipendio tabellare, indennita' integrativa speciale e retribuzione individuale di anzianita' (tutte calcolate per tredici mensilita), nonche' indennita' aziendale (calcolata per dodici mensilita). Detti importi sono lordi e verranno erogati al netto delle ritenute di legge;
+
+                            
+                        
+                        
+                            b)
+                            
+                                un bonus di ingresso al Fondo, pari al 10 per cento del trattamento economico che complessivamente verra' percepito dal soggetto in applicazione di quanto previsto nel precedente punto a) e rapportato all'intero periodo di permanenza nel Fondo stesso;
+
+                            
+                        
+                        
+                            c)
+                            
+                                un bonus ulteriore, da corrispondersi al momento della maturazione del requisito pensionistico, pari alla differenza tra quanto indicato nella tabella a) dell'accordo del 3 agosto 2000 e quanto corrisposto in attuazione del precedente punto b).
+
+                            
+                        
+                        
+                            c-bis)
+                            
+                                qualora ne ricorrano le condizioni di legge e con onere a carico del Fondo, l'Assegno per il nucleo familiare, nella misura prevista dalle norme vigenti in materia.
 
 L'importo dell'assegno straordinario come sopra determinato, erogato sia in forma rateale sia in unica soluzione, e' comprensivo dell'indennita' sostitutiva del preavviso.
 

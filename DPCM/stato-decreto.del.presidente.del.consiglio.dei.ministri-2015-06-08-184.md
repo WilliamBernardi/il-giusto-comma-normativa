@@ -7,8 +7,8 @@ urn: urn:nir:stato:decreto.del.presidente.del.consiglio.dei.ministri:2015-06-08;
 vigente: true
 source: normattiva-opendata
 collection: DPCM
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:40:13Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DEL CONSIGLIO DEI MINISTRI
@@ -23,6 +23,52 @@ DEL CONSIGLIO DEI MINISTRI
 Udito il parere del Consiglio di Stato n. 420/2014 emesso dalla Sezione consultiva per gli atti normativi nell'adunanza del 6 marzo 2014;
 
 ## Art. 1. — Denominazioni
+
+1.
+                    
+                        
+                            Nel presente decreto sono denominati: 
+ 
+                        
+                        
+                            a)
+                            
+                                «Segretario generale»: il Segretario generale della Presidenza del Consiglio dei ministri; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                «Strutture generali»: i Dipartimenti della Presidenza del Consiglio dei ministri e gli Uffici autonomi ad essi equiparati ai fini della rilevanza esterna e dell'autonomia funzionale ad essi attribuita, comprese le strutture generali affidate ai Ministri o Sottosegretari; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                «Uffici»: le strutture, anch'esse di livello dirigenziale generale, in cui si articolano i Dipartimenti; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                «Servizi»: le strutture di livello dirigenziale non generale; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                «Strutture di missione»: le Strutture di missione di cui all'articolo 7, comma 4, del decreto legislativo 30 luglio 1999, n. 303, istituite presso la Presidenza del Consiglio dei ministri; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                «Strutture di supporto ai Commissari straordinari del Governo»: le Strutture di supporto ai Commissari straordinari del Governo di cui all'articolo 11 della legge 23 agosto 1988, n. 400, istituite presso la Presidenza del Consiglio dei ministri.
 
 ## Art. 2. — Oggetto e ambito di applicazione
 

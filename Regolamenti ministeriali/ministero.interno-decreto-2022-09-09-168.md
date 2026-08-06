@@ -7,8 +7,8 @@ urn: urn:nir:ministero.interno:decreto:2022-09-09;168
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:40Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -40,6 +40,45 @@ Udito il parere n. 1197/2022 del Consiglio di Stato espresso dalla Sezione consu
 
 ## Art. 1. — Ambito di applicazione
 
+1.
+                        
+                            
+                                La Parte I del presente regolamento disciplina: 
+ 
+                            
+                            
+                                a)
+                                
+                                    le modalita' di svolgimento dei concorsi pubblici, per l'accesso: 
+ 1) alle carriere dei funzionari di Polizia, dei funzionari tecnici di Polizia, dei medici di Polizia e dei medici veterinari di Polizia ai sensi, rispettivamente, degli articoli 3, comma 3, 31, comma 3 e 46, comma 2, del decreto legislativo 5 ottobre 2000, n. 334; 
+ 2) ai ruoli degli ispettori e degli ispettori tecnici della Polizia di Stato, ai sensi, rispettivamente, degli articoli 27, comma 1, lettera a), del decreto del Presidente della Repubblica 24 aprile 1982, n. 335 e 25, comma 1, lettera a), del decreto del Presidente della Repubblica 24 aprile 1982, n. 337; 
+ 3) ai ruoli degli agenti e assistenti ed agenti e assistenti tecnici della Polizia di Stato, ai sensi, rispettivamente, degli articoli 6 del decreto del Presidente della Repubblica n. 335 del 1982 e 5 del decreto del Presidente della Repubblica n. 337 del 1982; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le modalita' di svolgimento delle altre procedure di reclutamento per la nomina ad allievo agente ed allievo agente tecnico della Polizia di Stato, ai sensi, rispettivamente, degli articoli 6, commi 5 e 6, del decreto del Presidente della Repubblica n. 335 del 1982 e 5, commi 4 e 5, del decreto del Presidente della Repubblica n. 337 del 1982; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    le modalita' di svolgimento dei concorsi interni, per l'accesso: 
+ 1) alla carriera dei funzionari di Polizia ai sensi dell'articolo 5-bis del decreto legislativo n. 334 del 2000; 
+ 2) alla qualifica di vice questore aggiunto della Polizia di Stato ai sensi dell'articolo 6, comma 1, lettera b), del decreto legislativo n. 334 del 2000; 
+ 3) ai ruoli degli ispettori e degli ispettori tecnici della Polizia di Stato, ai sensi, rispettivamente, degli articoli 27, comma 1, lettera b), del decreto del Presidente della Repubblica n. 335 del 1982 e 25, comma 1, lettera b), del decreto del Presidente della Repubblica n. 337 del 1982; 
+ 4) ai ruoli dei sovrintendenti e dei sovrintendenti tecnici della Polizia di Stato, ai sensi, rispettivamente, degli articoli 24-quater, comma 1, lettera b), del decreto del Presidente della Repubblica n. 335 del 1982 e 20-quater, comma 1, lettera b), del decreto del Presidente della Repubblica n. 337 del 1982; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    la definizione dei requisiti di idoneita' fisica, psichica ed attitudinale al servizio, per la nomina a maestro direttore, maestro vice direttore e orchestrale della Banda musicale della Polizia di Stato ai sensi, rispettivamente, degli articoli 12, comma 1, 13, comma 1, e 14, comma 1, del decreto del Presidente della Repubblica 30 aprile 1987, n. 240.
+
 ## - Capo I Procedure
 
 ## Art. 2. — Domanda di partecipazione
@@ -52,6 +91,164 @@ Per la partecipazione ai concorsi pubblici il candidato deve essere in possesso 
 
 Per poter presentare la domanda di partecipazione al concorso pubblico il candidato deve munirsi di credenziali del Sistema Pubblico di Identita' Digitale (SPID) o di carta di identita' elettronica (CIE) o di altra modalita' di accesso certificata prevista dal bando di concorso.
 
+5.
+                        
+                            
+                                Nella domanda di partecipazione al concorso pubblico il candidato deve dichiarare: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il cognome ed il nome; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il luogo e la data di nascita; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il codice fiscale; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    il possesso della cittadinanza italiana; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    il comune ove e' iscritto nelle liste elettorali, ovvero il motivo della mancata iscrizione o della cancellazione; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    di non aver riportato condanne anche non definitive per delitti non colposi, di non aver subito sentenze di applicazione della pena su richiesta, ai sensi dell'articolo 444 c.p.p., o di non aver assunto la qualita' di imputato in procedimenti penali per delitti non colposi per i quali e' stato sottoposto a misura cautelare personale o lo e' stato senza successivo annullamento della misura, ovvero assoluzione o proscioglimento o archiviazione anche con provvedimenti non definitivi; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    di non essere stato o non essere sottoposto a misure di prevenzione o di sicurezza; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    di non essere: 
+ 1) stato dimesso o espulso per motivi penali o disciplinari da uno dei corsi di formazione finalizzati all'immissione nei ruoli o nelle carriere della Polizia di Stato; 
+ 2) stato destinatario della sanzione disciplinare della sospensione dal servizio o dall'impiego ovvero di non essere sottoposto a procedimento disciplinare per l'irrogazione della stessa sanzione; 
+ 3) o essere stato sospeso, a qualsiasi titolo, cautelarmente dal servizio per motivi penali o per motivi disciplinari per fatti per i quali e' ancora pendente il giudizio penale o disciplinare; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    il possesso del titolo di studio richiesto, con l'indicazione della scuola, dell'istituto o dell'universita' che lo ha rilasciato, della votazione riportata e della data in cui e' stato o sara' conseguito. Nei concorsi per l'accesso alla qualifica di vice ispettore tecnico, ad eccezione dei settori del servizio sanitario, di psicologia e di supporto logistico-amministrativo, il possesso di una delle lauree triennali, magistrali o specialistiche, indicate nella Tabella 1, inerente al settore per il quale il candidato concorre, assolve al requisito del possesso dello specifico titolo di studio di istruzione secondaria di secondo grado; in tale caso il diploma di laurea non e' valutato come titolo; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    il possesso delle abilitazioni e specializzazioni richieste, con l'indicazione della data nelle quali sono state o saranno conseguite; 
+
+                                
+                            
+                            
+                                m)
+                                
+                                    il possesso dell'iscrizione ad albi o elenchi professionali ovvero la data di presentazione della relativa istanza di iscrizione; 
+
+                                
+                            
+                            
+                                n)
+                                
+                                    i servizi eventualmente prestati come dipendente presso le pubbliche amministrazioni e le cause, diverse dall'inidoneita' psico-fisica, di espulsione o proscioglimento, d'autorita' o d'ufficio, da precedente arruolamento nelle Forze armate o nelle Forze di polizia, ovvero di destituzione, dispensa o di decadenza dall'impiego in una pubblica amministrazione, licenziamento dal lavoro alle dipendenze di pubbliche amministrazioni a seguito di procedimento disciplinare; 
+
+                                
+                            
+                            
+                                o)
+                                
+                                    i titoli che intende sottoporre alla valutazione della Commissione esaminatrice con la rispettiva data di conseguimento, ove prevista; 
+
+                                
+                            
+                            
+                                p)
+                                
+                                    l'eventuale possesso di titoli di preferenza compatibili di cui all'articolo 5, commi 4 e 5, del decreto del Presidente della Repubblica 9 maggio 1994, n. 487 ed all'articolo 73, comma 14, del decreto legge 21 giugno 2013, n. 69, convertito dalla legge 9 agosto 2013, n. 98, a pena del mancato riconoscimento; 
+
+                                
+                            
+                            
+                                q)
+                                
+                                    il settore o il profilo professionale per il quale si concorre nei concorsi per l'accesso alla carriera dei funzionari tecnici di Polizia e al ruolo degli ispettori tecnici; 
+
+                                
+                            
+                            
+                                r)
+                                
+                                    la specializzazione utile quale requisito per la partecipazione al concorso per l'accesso alla carriera dei medici di Polizia, qualora in possesso di piu' titoli di specializzazione compresi tra quelli individuati dal bando di concorso; 
+
+                                
+                            
+                            
+                                s)
+                                
+                                    ogni altra indicazione richiesta dal bando di concorso.
+
+6.
+                        
+                            
+                                Nella domanda di partecipazione al concorso interno, il candidato deve dichiarare, oltre a quanto previsto nelle lettere a), b), f), g), h), numeri 1) e 3), i), o) del comma 5, e nelle lettere l), m), q) e r), ove richiesto, del medesimo comma 5: 
+ 
+                            
+                            
+                                a)
+                                
+                                    l'Ufficio o il Reparto presso il quale presta servizio; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'ente matricolare di riferimento; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il punteggio conseguito nei rapporti informativi nel periodo indicato dal bando; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    di non aver riportato le sanzioni disciplinari previste come causa di esclusione dal bando di concorso;
+
 I candidati che intendono concorrere per i posti riservati previsti dall'articolo 4, devono farne espressa richiesta nella domanda di partecipazione al concorso, a pena del mancato riconoscimento del titolo di riserva, precisando la riserva per la quale concorrono ed indicando, nell'ipotesi di candidati in possesso dell'attestato di cui all'articolo 4 del decreto del Presidente della Repubblica 26 luglio 1976, n. 752, la lingua italiana o tedesca nella quale intendono sostenere le prove d'esame.
 
 L'Amministrazione della pubblica sicurezza non assume responsabilita' per la dispersione di comunicazioni dipendente da inesatte o incomplete indicazioni del recapito da parte del candidato o da mancata, oppure tardiva, comunicazione del cambiamento del recapito indicato nella domanda, ne' per eventuali disguidi telematici non imputabili all'Amministrazione stessa.
@@ -61,6 +258,115 @@ L'Amministrazione della pubblica sicurezza non assume responsabilita' per la dis
 I concorsi sono indetti con decreto del Capo della polizia-Direttore generale della pubblica sicurezza.
 
 I concorsi pubblici sono indetti su base nazionale e i relativi bandi sono pubblicati nella Gazzetta Ufficiale della Repubblica italiana, con avviso di pubblicazione sul sito; i bandi relativi ai concorsi interni sono pubblicati nel Bollettino Ufficiale del personale del Ministero dell'interno, con avviso di pubblicazione sul sito.
+
+3.
+                        
+                            
+                                Nel decreto del Capo della polizia-Direttore generale della pubblica sicurezza di cui al comma 1, oltre ai requisiti di partecipazione richiesti, sono indicati: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il numero dei posti messi a concorso suddivisi, per i concorsi per l'accesso al ruolo del personale che espleta attivita' tecnico-scientifica o tecnica, per ciascun settore e profilo professionale, con la precisazione che e' possibile presentare domanda di partecipazione solo con riferimento ad un profilo professionale tra quelli messi a concorso. Nei concorsi per l'accesso alla carriera dei funzionari tecnici di Polizia, il bando deve indicare anche il numero dei posti messi a concorso per ciascun ruolo; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    i termini e le modalita' di presentazione, per via telematica, delle domande di partecipazione al concorso e dei documenti di cui alla lettera e); 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    i requisiti di partecipazione e le cause di esclusione dal concorso; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    il numero dei posti riservati dalla legge a favore di determinate categorie; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    i documenti prescritti; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    il titolo di studio richiesto e le eventuali specializzazioni, abilitazioni all'esercizio professionale e le iscrizioni ai relativi albi; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    il giorno, l'ora ed il luogo di svolgimento delle prove scritte o dell'eventuale prova preselettiva, ovvero la data di pubblicazione sul sito del diario delle prove che ha valore di notifica a tutti gli effetti; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    il numero dei candidati da convocare per sostenere le ulteriori fasi concorsuali, seguendo l'ordine della graduatoria dell'eventuale prova preselettiva o della prova scritta; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    le materie oggetto delle prove d'esame e la votazione minima da conseguire; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    le modalita' di accertamento della conoscenza della lingua inglese e delle apparecchiature e delle applicazioni informatiche maggiormente diffuse, ai sensi dell'articolo 37, comma 1, del decreto legislativo 30 marzo 2001, n. 165; 
+
+                                
+                            
+                            
+                                m)
+                                
+                                    il riferimento al decreto legislativo 11 aprile 2006, n. 198, che garantisce pari opportunita' tra uomini e donne per l'accesso al lavoro; 
+
+                                
+                            
+                            
+                                n)
+                                
+                                    i titoli valutabili e i relativi punteggi, nell'ambito delle categorie di titoli indicati nel presente regolamento per ciascun concorso e le modalita' ed i termini di presentazione della relativa documentazione; 
+
+                                
+                            
+                            
+                                o)
+                                
+                                    l'eventuale possesso di titoli di preferenza di cui all'articolo 5, commi 4 e 5, del decreto del Presidente della Repubblica n. 487 del 1994, e all'articolo 73, comma 14, del decreto legge n. 69 del 2013, convertito dalla legge n. 98 del 2013, nonche' i termini e le modalita' della loro presentazione; 
+
+                                
+                            
+                            
+                                p)
+                                
+                                    gli esercizi che i candidati devono eseguire per l'accertamento dell'efficienza fisica per l'accesso ai ruoli degli agenti ed assistenti, degli ispettori e alla carriera dei funzionari di Polizia; 
+
+                                
+                            
+                            
+                                q)
+                                
+                                    ogni altra prescrizione o notizia ritenuta utile.
 
 ## Art. 4. — Riserve di posti, preferenze e precedenze
 
@@ -81,6 +387,80 @@ I posti riservati non coperti per mancanza di vincitori sono conferiti, secondo 
 I candidati che superano tutte le fasi concorsuali devono trasmettere al Ministero dell'interno - Dipartimento della pubblica sicurezza - Direzione centrale per gli affari generali e le politiche del personale della Polizia di Stato - Servizio concorsi, entro il termine perentorio di quindici giorni dalla data del relativo avviso, i documenti attestanti il possesso dei titoli che danno diritto a partecipare alle riserve di posti e quelli di precedenza e di preferenza nella nomina, gia' indicati nella domanda di partecipazione al concorso con le modalita' indicate dal bando di concorso. L'omessa presentazione o indicazione nella domanda di partecipazione al concorso della documentazione, entro i termini stabiliti, determina la mancata valutazione dei titoli.
 
 ## Art. 5. — Commissioni esaminatrici
+
+1.
+                        
+                            
+                                Le commissioni esaminatrici dei concorsi di cui ai Titoli II e III sono nominate con decreto del Capo della polizia-Direttore generale della pubblica sicurezza e sono composte: 
+ 
+                            
+                            
+                                a)
+                                
+                                    per i concorsi per l'accesso alla carriera dei funzionari di Polizia e per il concorso per la promozione a vice questore aggiunto: da un magistrato o da un avvocato dello Stato corrispondente a consigliere di Stato, ovvero da un prefetto o da un dirigente generale di pubblica sicurezza che la presiede, da due funzionari della carriera dei funzionari di Polizia con qualifica non inferiore a primo dirigente e da due professori universitari o ricercatori universitari esperti in una o piu' delle materie su cui vertono le prove d'esame; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    per i concorsi per l'accesso alla carriera dei funzionari tecnici di Polizia: da un magistrato o da un avvocato dello Stato corrispondente a consigliere di Stato, ovvero da un prefetto o da un dirigente generale dell'Amministrazione della pubblica sicurezza che la presiede, da due funzionari della carriera dei funzionari tecnici di Polizia con qualifica dirigenziale non superiore a primo dirigente tecnico e da due professori universitari o ricercatori universitari esperti in una o piu' delle materie su cui vertono le prove d'esame; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    per i concorsi per l'accesso alla carriera dei medici di Polizia: da un magistrato o da un avvocato dello Stato corrispondente a consigliere di Stato, ovvero da un prefetto o da un dirigente generale di pubblica sicurezza che la presiede, da due medici della carriera dei medici di Polizia con qualifica non inferiore a primo dirigente medico e da due professori universitari o ricercatori universitari esperti in una o piu' delle materie su cui vertono le prove d'esame. La Commissione e' integrata da un docente universitario o da un medico della Polizia di Stato con qualifica non inferiore a primo dirigente medico, esperto nelle specializzazioni indicate nel bando di concorso; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    per i concorsi per l'accesso alla carriera dei medici veterinari di Polizia: da un magistrato o da un avvocato dello Stato corrispondente a consigliere di Stato, ovvero da un prefetto o da un dirigente generale di pubblica sicurezza che la presiede, da un medico della carriera dei medici veterinari della Polizia di Stato, ovvero da un medico veterinario militare e da due professori universitari o ricercatori universitari esperti in una o piu' delle materie su cui vertono le prove d'esame; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    per i concorsi per l'accesso al ruolo degli ispettori: da un dirigente della Polizia di Stato con qualifica non inferiore a dirigente superiore che la presiede, da due funzionari della carriera dei funzionari di Polizia con qualifica non inferiore a vice questore aggiunto e da due docenti in materie giuridiche di scuola secondaria di secondo grado; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    per i concorsi per l'accesso al ruolo degli ispettori tecnici: da un dirigente della Polizia di Stato con qualifica non inferiore a dirigente superiore o qualifiche equiparate che la presiede, da due funzionari della Polizia di Stato di cui uno appartenente alla carriera dei funzionari di Polizia ed uno alla carriera dei funzionari tecnici di Polizia con qualifica, rispettivamente, non inferiore a vice questore aggiunto e a direttore tecnico capo, da due docenti di scuola secondaria di secondo grado nelle materie relative a ciascuno dei profili professionali messi a concorso e da uno o piu' esperti nelle materie relative ai profili professionali messi a concorso con qualifica non inferiore a commissario capo tecnico o medico principale della Polizia di Stato; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    per i concorsi per l'accesso al ruolo dei sovrintendenti: da un dirigente della carriera dei funzionari di Polizia con qualifica non inferiore a dirigente superiore che la presiede e da quattro funzionari della carriera dei funzionari di Polizia con qualifica non superiore a primo dirigente; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    per i concorsi per l'accesso al ruolo dei sovrintendenti tecnici: da un dirigente della carriera dei funzionari tecnici di Polizia con qualifica non inferiore a dirigente superiore tecnico che la presiede e da quattro funzionari della carriera dei funzionari tecnici di Polizia con qualifica non superiore a primo dirigente tecnico; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    per i concorsi e le altre procedure di reclutamento per l'accesso al ruolo degli agenti ed assistenti: da un dirigente della carriera dei funzionari di Polizia con qualifica non inferiore a dirigente superiore che la presiede, da due funzionari con qualifica non superiore a primo dirigente e da due docenti di ruolo di scuola secondaria di secondo grado; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    per i concorsi e le altre procedure di reclutamento per l'accesso al ruolo degli agenti ed assistenti tecnici: da un dirigente della carriera dei funzionari tecnici di Polizia con qualifica non inferiore a dirigente superiore tecnico che la presiede, da due funzionari con qualifica non superiore a primo dirigente tecnico e da due docenti di ruolo di scuola secondaria di secondo grado.
 
 Salvo motivata impossibilita', i componenti di ciascun sesso non possono eccedere i due terzi del totale delle commissioni esaminatrici.
 
@@ -121,6 +501,70 @@ La valutazione dei titoli viene effettuata nei confronti dei candidati che hanno
 Il candidato deve inviare i documenti comprovanti il possesso dei titoli valutabili secondo le modalita' indicate dal bando di concorso.
 
 La Direzione centrale per gli affari generali e le politiche del personale della Polizia di Stato del Dipartimento della pubblica sicurezza mette a disposizione della Commissione esaminatrice una scheda digitale contenente l'elencazione dei titoli dichiarati e prodotti dal candidato, se non gia' in possesso dell'Amministrazione della pubblica sicurezza.
+
+7.
+                        
+                            
+                                Ai fini della valutazione dei titoli professionali, per i concorsi interni, si applicano i seguenti criteri: 
+ 
+                            
+                            
+                                a)
+                                
+                                    i servizi della stessa natura, ai fini del punteggio, si sommano tra loro, purche' non siano stati svolti nel medesimo contesto temporale; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le frazioni di un anno sono valutate al semestre compiuto, escludendo da ogni punteggio la frazione inferiore al semestre; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    tra due o piu' servizi contemporanei e' valutato solo quello piu' favorevole al candidato; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    assegnazione di un punteggio maggiore ai titoli attinenti ai compiti previsti per il ruolo o la carriera per la quale si concorre.
+
+8.
+                        
+                            
+                                Non sono in ogni caso oggetto di valutazione: 
+ 
+                            
+                            
+                                a)
+                                
+                                    i titoli che non sono previsti dal bando di concorso, indicati dal candidato nella domanda di partecipazione e riportati nella scheda di validazione compilata dall'Ente matricolare di competenza e sottoscritta dal candidato; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    i servizi anteriori e i titoli di studio prodromici a quelli eventualmente prescritti per l'accesso al concorso; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    le attestazioni di lodevole servizio; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    le attivita' svolte in istituti non dipendenti da enti pubblici e quelle inerenti all'esercizio della libera professione.
 
 ## Art. 8. — Formazione ed approvazione della graduatoria
 
@@ -250,7 +694,96 @@ I candidati che per gravi e documentati motivi non possono sostenere gli accerta
 
 ## Art. 18. — Requisiti di partecipazione e cause di esclusione dai concorsi
 
+1.
+                        
+                            
+                                I requisiti per la partecipazione ai concorsi di cui al presente Titolo sono i seguenti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    cittadinanza italiana; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    godimento dei diritti civili e politici; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    qualita' di condotta previste dall'articolo 26 della legge 1° febbraio 1989, n. 53. La valutazione comprende l'accertamento dell'attuale o pregressa sottoposizione a misure di prevenzione o di sicurezza; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    limiti di eta' stabiliti dal regolamento adottato ai sensi dell'articolo 3, comma 6, della legge 15 maggio 1997, n. 127; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    efficienza fisica, qualora prescritta, idoneita' fisica, psichica e attitudinale prevista per l'accesso ai ruoli e alle carriere di cui al presente regolamento da accertare in conformita' alle disposizioni contenute nel decreto del Ministro dell'interno 30 giugno 2003, n. 198 e nel decreto del Presidente della Repubblica 17 dicembre 2015, n. 207; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    titolo di studio prescritto, abilitazione all'esercizio della professione e relativa iscrizione all'albo, ove previsti.
+
 Non sono ammessi a partecipare ai concorsi coloro che sono stati per motivi diversi dall'inidoneita' psico-fisica espulsi o prosciolti, d'autorita' o d'ufficio, da precedente arruolamento nelle Forze armate o nelle Forze di polizia, ovvero destituiti, dispensati o dichiarati decaduti dall'impiego in una pubblica amministrazione, destinatari della misura accessoria dell'estinzione del rapporto di impiego prevista dall'articolo 32-quinquies del codice penale, licenziati dal lavoro alle dipendenze di pubbliche amministrazioni a seguito di procedimento disciplinare; non sono, altresi', ammessi coloro che hanno riportato condanna anche non definitiva per delitti non colposi, che hanno subito sentenze di applicazione della pena su richiesta, ai sensi dell'articolo 444 c.p.p., o che hanno assunto la qualita' di imputato in procedimenti penali per delitti non colposi per i quali sono sottoposti a misura cautelare personale, o lo sono stati senza annullamento della misura, ovvero assoluzione o proscioglimento o archiviazione anche con provvedimenti non definitivi.
+
+3.
+                        
+                            
+                                Non sono, altresi', ammessi a partecipare ai concorsi coloro che: 
+ 
+                            
+                            
+                                a)
+                                
+                                    sono stati dimessi o espulsi per motivi penali o disciplinari da uno dei corsi di formazione finalizzati all'immissione nei ruoli o nelle carriere della Polizia di Stato; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    sono stati destinatari della sanzione disciplinare della sospensione dal servizio o dall'impiego ovvero nei cui confronti risulti ancora pendente il procedimento disciplinare per l'irrogazione della stessa sanzione; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    in analogia al disposto dell'articolo 93 del decreto del Presidente della Repubblica 10 gennaio 1957, n. 3, sono o sono stati sospesi, a qualsiasi titolo, cautelarmente dal servizio per motivi penali o per motivi disciplinari per fatti per i quali e' ancora pendente il giudizio penale o disciplinare; resta ferma la previsione contenuta nell'articolo 94 del decreto del Presidente della Repubblica n. 3 del 1957.
+
+4.
+                        
+                            
+                                I requisiti di ammissibilita' devono essere posseduti alla data di scadenza del termine utile per la presentazione delle domande di partecipazione ai concorsi, ad eccezione: 
+ 
+                            
+                            
+                                a)
+                                
+                                    del titolo di studio e dell'eventuale abilitazione professionale richiesti per l'accesso che, ai sensi dell'articolo 3, comma 6, del decreto legislativo 29 maggio 2017, n. 95, possono essere conseguiti entro la data di svolgimento della prima prova, anche preliminare; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    dell'iscrizione agli albi o elenchi professionali, ove prevista, che puo' essere conseguita entro l'inizio del prescritto corso di formazione iniziale, purche' il candidato sia in possesso di idonea documentazione attestante l'avvenuta presentazione della relativa istanza.
 
 I requisiti di ammissibilita' devono essere mantenuti, ad eccezione di quello relativo al limite di eta', sino al termine della procedura concorsuale, ai sensi dell'articolo 3, comma 13, del decreto legislativo n. 95 del 2017, a pena di esclusione dalla procedura concorsuale.
 
@@ -267,6 +800,52 @@ L'esclusione dal concorso e' disposta con decreto del Capo della polizia-Diretto
 ## Art. 19. — Prova preselettiva
 
 Nei concorsi per l'accesso alla qualifica iniziale dei ruoli degli ispettori, degli ispettori tecnici e delle carriere dei funzionari della Polizia di Stato, se il numero delle domande di partecipazione al concorso e' superiore a cinquanta volte il numero dei posti messi a concorso e, comunque, non inferiore a tremila, e' effettuata una prova preselettiva per determinare i candidati da ammettere alle successive fasi concorsuali.
+
+2.
+                        
+                            
+                                Il test preselettivo e' articolato in quesiti con risposta a scelta multipla concernenti l'accertamento della conoscenza delle sotto indicate materie: 
+ 
+                            
+                            
+                                a)
+                                
+                                    per l'accesso alla carriera dei funzionari di Polizia: diritto penale, diritto processuale penale, diritto civile, diritto costituzionale, diritto amministrativo; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    per l'accesso alla carriera dei funzionari tecnici di Polizia: discipline d'esame indicate, per ciascun ruolo e settore, ove previsto, nella Tabella 2 allegata; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    per l'accesso alla carriera dei medici di Polizia: clinica medica e clinica chirurgica, anatomia patologica, farmacologia e tossicologia clinica, statistica sanitaria, normativa sanitaria, medicina legale e delle assicurazioni e medicina del lavoro; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    per l'accesso alla carriera dei medici veterinari di Polizia: patologia clinica e biochimica clinica veterinaria, anatomia patologica veterinaria, farmacologia e tossicologia veterinaria, statistica sanitaria, normativa sanitaria; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    per l'accesso al ruolo degli ispettori: elementi di diritto penale, elementi di diritto processuale penale, elementi di diritto costituzionale, nozioni di diritto amministrativo, con particolare riguardo alla legislazione speciale in materia di pubblica sicurezza; nozioni di diritto civile, nelle parti concernenti le persone, la famiglia, i diritti reali, le obbligazioni e la tutela dei diritti; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    per l'accesso al ruolo degli ispettori tecnici: discipline indicate, per ciascun settore e profilo professionale, ove previsto, nella Tabella 3 allegata. La prova preselettiva e' effettuata limitatamente ai profili professionali per i quali il numero delle domande di partecipazione e' superiore a dieci volte il numero dei relativi posti messi a concorso.
 
 La prova preselettiva puo' essere svolta per gruppi predeterminati di candidati, in una o piu' sedi ed in giorni diversi.
 
@@ -304,6 +883,31 @@ Per la prova preselettiva per l'accesso alla carriera dei funzionari tecnici di 
 
 Il tempo massimo per lo svolgimento della prova e' stabilito dalla Commissione esaminatrice, che ne da' atto nel verbale con il quale sono stabiliti i criteri di valutazione della prova pubblicati sul sito.
 
+6.
+                        
+                            
+                                I questionari da sottoporre ai candidati sono predisposti mediante un processo di randomizzazione della banca dati dei quesiti della prova preselettiva di cui all'articolo 19 che ne garantisce la diversita' di composizione, nel rispetto dello stesso numero di quesiti per ciascuna materia e della medesima percentuale del grado di difficolta' secondo le seguenti percentuali: 
+ 
+                            
+                            
+                                a)
+                                
+                                    30% - domande facili; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    50% - domande di media difficolta'; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    20% - domande difficili.
+
 ## Art. 23. — Formazione e approvazione della graduatoria della prova preselettiva
 
 La correzione anonima degli elaborati, l'attribuzione del relativo punteggio e il successivo abbinamento all'identita' del suo autore sono effettuati con strumentazione automatica, utilizzando processi e apparecchiature a lettura ottica.
@@ -325,6 +929,26 @@ Il calendario delle convocazioni e' pubblicato sul sito.
 Nella verifica dell'efficienza fisica, i candidati sono sottoposti ad esercizi ginnici indicati nel bando di concorso. Le «Modalita' per lo svolgimento delle prove di efficienza fisica», adottate con provvedimento del Direttore centrale per gli affari generali e le politiche del personale della Polizia di Stato, sono preventivamente pubblicate, almeno una settimana prima del loro svolgimento, sul sito nella sezione dedicata al concorso.
 
 Nell'accertamento dei requisiti psico-fisici, i candidati sono sottoposti ad un esame clinico, a valutazione psichica e ad accertamenti strumentali e di laboratorio secondo modalita' e tempi previsti da apposite «Modalita' per l'accertamento dei requisiti psico-fisici» adottate con provvedimento del Direttore centrale di sanita' e pubblicate, almeno una settimana prima dello svolgimento degli accertamenti, sul sito nella sezione dedicata al concorso.
+
+7.
+                        
+                            
+                                Negli accertamenti attitudinali i candidati sono sottoposti ad una indagine conoscitiva e valutativa finalizzata a verificare l'attitudine del candidato allo svolgimento dei compiti connessi con l'attivita' di polizia secondo procedure di svolgimento contenute in specifiche «Modalita' per l'espletamento degli accertamenti attitudinali» adottate con provvedimento del Direttore centrale per gli affari generali e le politiche del personale della Polizia di Stato e pubblicate, almeno una settimana prima dello svolgimento degli accertamenti, sul sito nella sezione dedicata al concorso. Tali accertamenti sono articolati in due distinte fasi: 
+ 
+                            
+                            
+                                a)
+                                
+                                    fase istruttoria, volta alla preliminare ricognizione degli elementi necessari per la formazione della decisione finale, condotta separatamente da: 
+ funzionari della carriera dei funzionari tecnici di Polizia del ruolo degli psicologi, mediante somministrazione di una batteria di test composta da uno o piu' test psicometrici relativi alle seguenti categorie: questionari di personalita' per l'indagine personologica e motivazionale, questionari di personalita' finalizzati alla rilevazione di alterazioni della sfera psichica, scale di valutazione dimensionale, prove di performance. La valutazione degli elementi emersi e' espressa in una «relazione psicologica»; 
+ funzionari appartenenti ad una delle carriere dei funzionari della Polizia di Stato in possesso della qualifica di perito in materia di selezione attitudinale individuati, preferibilmente, tra gli appartenenti al ruolo che espleta funzioni di polizia, ovvero attivita' tecnico-scientifica o tecnica ovvero dei sanitari, in relazione alla tipologia del concorso bandito, mediante conduzione di un'intervista attitudinale con il candidato, finalizzata all'esplorazione delle aree del profilo attitudinale di riferimento anche alla luce delle indicazioni fornite nella «relazione psicologica». Gli esiti dell'intervista sono riportati in una «scheda di valutazione attitudinale»; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    fase costitutiva, nella quale la Commissione di cui all'articolo 25, comma 3, composta da membri diversi da quelli intervenuti nella fase di cui alla lettera a), valutata la documentazione istruttoria e le risultanze di un ulteriore colloquio condotto collegialmente, assume le deliberazioni conclusive in merito al possesso dei requisiti attitudinali, alle potenzialita' indispensabili all'espletamento delle mansioni e delle funzioni del ruolo o della carriera per la quale si concorre e all'assunzione delle discendenti responsabilita'.
 
 Con decreto del Direttore centrale per gli affari generali e le politiche del personale della Polizia di Stato del Dipartimento della pubblica sicurezza, su proposta della Commissione per gli accertamenti attitudinali, sono approvati i test realizzati da professionisti o istituti pubblici o privati specializzati, tenuto conto delle funzioni dei ruoli e delle carriere per le quali il candidato concorre. Tali strumenti di indagine per l'accertamento dei requisiti attitudinali sono sottoposti a preventiva valutazione da parte della Direzione centrale di sanita'.
 
@@ -356,7 +980,78 @@ Le commissioni di cui al presente articolo sono nominate con decreto del Capo de
 
 Il concorso e' articolato in due prove scritte ed una prova orale.
 
+2.
+                        
+                            
+                                Le due prove scritte, della durata massima di otto ore ciascuna, vertono sulle seguenti materie: 
+ 
+                            
+                            
+                                a)
+                                
+                                    diritto costituzionale congiuntamente o disgiuntamente a diritto amministrativo, con eventuale riferimento alla legislazione speciale in materia di pubblica sicurezza; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    diritto penale congiuntamente o disgiuntamente a diritto processuale penale.
+
 La Commissione esaminatrice non procede alla correzione della seconda prova scritta, qualora nella prima prova corretta il candidato abbia conseguito un punteggio inferiore a diciotto trentesimi.
+
+4.
+                        
+                            
+                                La prova orale, oltre che sulle materie oggetto delle prove scritte, verte sulle seguenti materie: 
+ 
+                            
+                            
+                                a)
+                                
+                                    diritto civile; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    diritto della navigazione; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    ordinamento dell'Amministrazione della pubblica sicurezza; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    diritto dell'Unione europea; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    diritto internazionale; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    nozioni di medicina legale; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    lingua inglese, consistente nella traduzione di un testo, dall'inglese all'italiano, senza l'ausilio del dizionario, e in una conversazione.
 
 Nel corso della prova orale e' accertata, inoltre, la conoscenza dell'uso delle apparecchiature e delle applicazioni informatiche piu' diffuse da realizzarsi anche mediante una verifica applicativa, nonche' la conoscenza delle potenzialita' organizzative connesse all'uso degli strumenti informatici.
 
@@ -419,7 +1114,64 @@ Oltre a quanto previsto dall'articolo 7, nei concorsi pubblici per l'accesso all
 
 Il concorso per l'accesso alla carriera dei medici di Polizia consiste in due prove scritte, una di carattere generale ed una specialistica, ed una prova orale.
 
+2.
+                        
+                            
+                                Le due prove scritte, della durata massima di otto ore ciascuna, vertono sulle seguenti materie: 
+ 
+                            
+                            
+                                a)
+                                
+                                    prova scritta di carattere generale: clinica medica e clinica chirurgica; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    prova scritta specialistica: differenziata in base alle materie proprie delle diverse aree di specializzazione indicate nel bando di concorso.
+
 La Commissione esaminatrice non procede alla correzione della seconda prova scritta, qualora nella prima prova corretta il candidato abbia conseguito un punteggio inferiore a diciotto trentesimi.
+
+4.
+                        
+                            
+                                La prova orale verte, oltre che sulle materie oggetto delle prove scritte, sulle seguenti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    medicina di urgenza e primo soccorso; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    medicina legale e delle assicurazioni; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    medicina del lavoro; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    igiene e medicina preventiva; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    lingua inglese, consistente nella traduzione di un testo, dall'inglese all'italiano, senza l'ausilio del dizionario, e in una conversazione.
 
 Nel corso della prova orale e' accertata, inoltre, la conoscenza dell'uso delle apparecchiature e delle applicazioni informatiche piu' diffuse da realizzarsi anche mediante una verifica applicativa, nonche' la conoscenza delle potenzialita' organizzative connesse all'uso degli strumenti informatici.
 
@@ -430,6 +1182,39 @@ La convocazione alla prova orale, con l'indicazione del voto riportato nelle pro
 La prova orale e' superata se il candidato consegue una votazione non inferiore a diciotto trentesimi.
 
 ## Art. 31. — Titoli valutabili
+
+1.
+                        
+                            
+                                Oltre a quanto previsto dall'articolo 7, nei concorsi pubblici per l'accesso alla carriera dei medici di Polizia, le categorie di titoli da ammettere a valutazione ed il punteggio massimo attribuito a ciascuna di esse, sono stabiliti come segue: 
+ A) CATEGORIA TITOLI DI STUDIO, fino a punti 8, suddivisa nelle seguenti sotto-categorie: 
+ 1) laurea in medicina e chirurgia valutata in relazione al punteggio conseguito: 
+ 
+                            
+                            
+                                a)
+                                
+                                    da novantuno a centodieci centodecimi, fino a punti 2; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    centodieci centodecimi con lode, punti 2,5; 
+ 2) diploma di specializzazione universitaria per l'accesso alla carriera dei medici, valutato in relazione al punteggio conseguito: 
+ a) da sessantuno a settanta settantesimi, fino a punti 1; 
+ b) settanta settantesimi con lode, punti 2; 
+ 3) diplomi di specializzazione diversi da quello richiesto quale requisito per la partecipazione al concorso, fino a punti 1; 
+ 4) dottorato di ricerca, conseguito presso un'istituzione universitaria statale o riconosciuto in conformita' alla normativa vigente, fino a punti 1; 
+ 5) master universitario, fino a punti 1; 
+ 6) conoscenza di una o piu' lingue straniere, diversa dall'inglese, certificata da parte di Enti certificatori delle competenze in lingua straniera riconosciuti dal Ministero dell'istruzione, dell'universita' e della ricerca, fino a punti 0,5. 
+ B) CATEGORIA TITOLI PROFESSIONALI, fino a punti 12, suddivisa nelle seguenti sotto-categorie: 
+ 1) incarichi e servizi prestati presso amministrazioni pubbliche (Stato, Regioni, Province, Comuni, organismi di diritto pubblico), fino a punti 1,5; 
+ 2) incarichi di docenza di livello universitario, fino a punti 4; 
+ 3) superamento di concorsi sanitari presso enti pubblici, fino a punti 1,5; 
+ 4) corsi di aggiornamento e di qualificazione, fino a punti 2; 
+ 5) pubblicazioni scientifiche nelle materie oggetto delle prove concorsuali, che siano conformi alle disposizioni vigenti e che rechino un contributo apprezzabile alla dottrina o alla pratica professionale ai sensi dell'articolo 67 del decreto del Presidente della Repubblica n. 686 del 1957, fino a punti 3.
 
 ## Art. 32. — Formazione ed approvazione della graduatoria
 
@@ -443,7 +1228,74 @@ Con il decreto di cui al comma 1 i vincitori sono inseriti in un'unica graduator
 
 Il concorso per l'accesso alla carriera dei medici veterinari di Polizia consiste in due prove scritte ed una prova orale.
 
+2.
+                        
+                            
+                                Le due prove scritte, della durata massima di otto ore ciascuna, vertono sulle seguenti materie: 
+ 
+                            
+                            
+                                a)
+                                
+                                    prima prova, congiuntamente o disgiuntamente: 
+ 1) patologia e semeiotica medica veterinaria; 
+ 2) patologia e semeiotica chirurgica veterinaria; 
+ 3) malattie infettive, profilassi e polizia veterinaria; 
+ 4) ortopedia e clinica traumatologica veterinaria; 
+ 5) fisiopatologia della riproduzione animale; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    seconda prova, congiuntamente o disgiuntamente: 
+ 1) clinica medica veterinaria; 
+ 2) clinica chirurgica veterinaria; 
+ 3) fisiologia della nutrizione animale; 
+ 4) igiene veterinaria e difesa sanitaria degli allevamenti e dell'ambiente; 
+ 5) sanita' pubblica veterinaria.
+
 La Commissione esaminatrice non procede alla correzione della seconda prova scritta, qualora nella prima prova corretta il candidato abbia conseguito un punteggio inferiore a diciotto trentesimi.
+
+4.
+                        
+                            
+                                La prova orale verte, oltre che sulle materie oggetto delle prove scritte, sulle seguenti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    malattie infettive, profilassi e polizia veterinaria; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    nutrizione ed alimentazione animale; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    allevamento e patologie degli equini; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    allevamento, igiene e benessere del cane; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    lingua inglese, consistente nella traduzione di un testo, dall'inglese all'italiano, senza l'ausilio del dizionario, e in una conversazione.
 
 Nel corso della prova orale e' accertata, inoltre, la conoscenza dell'uso delle apparecchiature e delle applicazioni informatiche piu' diffuse da realizzarsi anche mediante una verifica applicativa, nonche' la conoscenza delle potenzialita' organizzative connesse all'uso degli strumenti informatici.
 
@@ -455,6 +1307,36 @@ La prova orale e' superata se il candidato consegue una votazione non inferiore 
 
 ## Art. 34. — Titoli valutabili
 
+1.
+                        
+                            
+                                Oltre a quanto previsto dall'articolo 7, nei concorsi pubblici per l'accesso alla carriera dei medici veterinari di Polizia, le categorie di titoli da ammettere a valutazione ed il punteggio massimo attribuito a ciascuna di esse, sono stabiliti come segue: 
+ A) CATEGORIA TITOLI DI STUDIO, fino a punti 8, suddivisa nelle seguenti sotto-categorie: 
+ 1) laurea in medicina veterinaria valutata in relazione al punteggio conseguito: 
+ 
+                            
+                            
+                                a)
+                                
+                                    da novantuno a centodieci centodecimi, fino a punti 2; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    centodieci centodecimi con lode, punti 2,5; 
+ 2) diplomi di specializzazione, fino a punti 3; 
+ 3) dottorato di ricerca, conseguito presso un'istituzione universitaria statale o riconosciuto in conformita' alla normativa vigente, fino a punti 1; 
+ 4) master universitario, fino a punti 1; 
+ 5) conoscenza di una o piu' lingue straniere, diversa dall'inglese, certificata da parte di Enti certificatori delle competenze in lingua straniera riconosciuti dal Ministero dell'istruzione, dell'universita' e della ricerca, fino a punti 0,5. 
+ B) CATEGORIA TITOLI PROFESSIONALI, fino a punti 12, suddivisa nelle seguenti sotto-categorie: 
+ 1) incarichi e servizi prestati presso amministrazioni pubbliche (Stato, Regioni, Province, Comuni, organismi di diritto pubblico), fino a punti 1,5; 
+ 2) incarichi di docenza di livello universitario, fino a punti 4; 
+ 3) superamento di concorsi sanitari presso enti pubblici, fino a punti 1,5; 
+ 4) corsi di aggiornamento e di qualificazione, fino a punti 2; 
+ 5) pubblicazioni scientifiche, che siano conformi alle disposizioni vigenti e che rechino un contributo apprezzabile alla dottrina o alla pratica professionale ai sensi dell'articolo 67 del decreto del Presidente della Repubblica n. 686 del 1957, fino a punti 3.
+
 ## - Capo III Concorsi per l'accesso ai ruoli degli ispettori e degli ispettori tecnici   Sezione I Concorso per l'accesso al ruolo degli ispettori
 
 ## Art. 35. — Prove d'esame
@@ -462,6 +1344,24 @@ La prova orale e' superata se il candidato consegue una votazione non inferiore 
 Le prove d'esame del concorso consistono in una prova scritta e in una prova orale.
 
 La prova scritta, della durata massima di sei ore, consiste nella stesura di un elaborato su elementi di diritto penale ovvero di diritto processuale penale, con eventuali riferimenti al diritto costituzionale.
+
+3.
+                        
+                            
+                                La prova orale, oltre che sulle materie oggetto della prova scritta, ivi compresi gli elementi di diritto costituzionale, verte sulle seguenti materie: 
+ 
+                            
+                            
+                                a)
+                                
+                                    nozioni di diritto amministrativo, con particolare riguardo alla legislazione speciale in materia di pubblica sicurezza; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    nozioni di diritto civile, nelle parti concernenti le persone, la famiglia, i diritti reali, le obbligazioni e la tutela dei diritti.
 
 La prova orale comprende anche l'accertamento della conoscenza della lingua inglese e dell'informatica.
 
@@ -550,19 +1450,225 @@ I quesiti sono pubblicati sul sito, almeno venti giorni prima dell'inizio dello 
 
 Il tempo massimo per lo svolgimento della prova e' stabilito dalla Commissione esaminatrice, che ne da' atto nel verbale con il quale sono stabiliti i criteri di valutazione della prova pubblicati sul sito.
 
+10.
+                        
+                            
+                                Il questionario da sottoporre ai candidati e' predisposto mediante un processo di randomizzazione della banca dati dei quesiti della prova d'esame che ne garantisce la diversita' di composizione, nel rispetto dello stesso numero di quesiti per ciascuna materia e della medesima percentuale del grado di difficolta' secondo le seguenti percentuali: 
+ 
+                            
+                            
+                                a)
+                                
+                                    30% - domande facili; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    50% - domande di media difficolta'; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    20% - domande difficili.
+
 La correzione anonima degli elaborati, l'attribuzione del relativo punteggio e il successivo abbinamento all'identita' del suo autore sono effettuati con strumentazione automatica, utilizzando processi e apparecchiature a lettura ottica.
 
 La Commissione esaminatrice, avvalendosi di un sistema informatizzato messo a disposizione dall'Amministrazione della pubblica sicurezza, attribuisce i punteggi e forma la graduatoria della prova d'esame.
 
 ## Art. 40. — Titoli valutabili
 
+1.
+                        
+                            
+                                Oltre a quanto previsto dall'articolo 7, nei concorsi pubblici per l'accesso ai ruoli degli agenti ed assistenti e degli agenti e assistenti tecnici, le categorie di titoli da ammettere a valutazione ed il punteggio massimo attribuito a ciascuna di esse, sono stabiliti come segue: 
+ A) CONCORSO PER L'ACCESSO AL RUOLO DEGLI AGENTI ED ASSISTENTI: 
+ A.1 CATEGORIA PARTICOLARI QUALIFICAZIONI, fino a punti 5, suddivisa nelle seguenti sotto-categorie: 
+ 
+                            
+                            
+                                a)
+                                
+                                    maestro di sci, rilasciato da enti sportivi riconosciuti dal CONI, fino a punti 0,5; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    cavaliere in possesso di brevetto B o patente 1° grado, patente di 2° grado e patente di istruttore, titoli rilasciati esclusivamente dalla Federazione Italiana Sport Equestri (F.I.S.E), fino a punti 0,5; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    conduttore cinofilo, istruttore cinofilo, figurante cinofilo, titoli rilasciati esclusivamente dall'Ente Nazionale Cinofilia Italiana (E.N.C.I.), fino a punti 0,5; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    brevetto di istruttore di tiro rilasciato dall'Unione Italiana Tiro a Segno (U.I.T.S.), fino a punti 0,5; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    brevetto di paracadutista, fino a punti 0,5; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    brevetto di pilota di aereo/elicottero, fino a punti 1; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    patente nautica, fino a punti 0,25; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    brevetto di bagnino di salvataggio, rilasciato da enti sportivi riconosciuti dal Comitato Olimpico Nazionale Italiano (C.O.N.I.), fino a punti 0,25; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    patente di guida di veicoli ed equivalenti abilitazioni alla guida di veicoli militari, fino a punti 0,5; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    titolarita' di cintura con grado non inferiore a marrone per le discipline di judo, karate', aikido, jujitsu e non inferiore a rossa per il taekwondo, tutti rilasciati da enti sportivi riconosciuti dal C.O.N.I., fino a punti 0,5. 
+ A.2 CATEGORIA TITOLI DI CULTURA, fino a punti 5, suddivisa nelle seguenti sotto-categorie: 
+ a) diploma di istruzione secondaria di secondo grado, ulteriore rispetto a quello richiesto come requisito di accesso, fino a punti 0,5; 
+ b) diploma di laurea conseguito presso un'istituzione universitaria statale o riconosciuta in conformita' alla normativa vigente, ulteriore rispetto a quello propedeutico al conseguimento della laurea magistrale, specialistica ed equipollenti di cui alla lettera c), fino a punti 1; 
+ c) laurea magistrale, specialistica ed equipollenti, conseguita presso un'istituzione universitaria statale o riconosciuta in conformita' alla normativa vigente, fino a punti 1,5; 
+ d) conoscenza di una o piu' lingue straniere, diversa dall'inglese, certificata da parte di Enti certificatori delle competenze in lingua straniera riconosciuti dal Ministero dell'istruzione, dell'universita' e della ricerca, fino a punti 1; 
+ e) conoscenza certificata delle procedure e dei sistemi informatici, riconosciuta a livello europeo o internazionale, fino a punti 1. 
+ B) CONCORSO PER L'ACCESSO AL RUOLO DEGLI AGENTI ED ASSISTENTI TECNICI: 
+ B.1 CATEGORIA TITOLI DI CULTURA, fino a punti 10, suddivisa nelle seguenti sotto-categorie: 
+ a) diploma di istruzione secondaria di secondo grado, ulteriore rispetto a quello richiesto come requisito di accesso, fino a punti 1; 
+ b) diploma di laurea conseguito presso un'istituzione universitaria statale o riconosciuta in conformita' alla normativa vigente, ulteriore rispetto a quello propedeutico al conseguimento della laurea magistrale, specialistica ed equipollenti di cui alla lettera c), fino a punti 2; 
+ c) laurea magistrale, specialistica ed equipollenti, conseguita presso un'istituzione universitaria statale o riconosciuta in conformita' alla normativa vigente, fino a punti 3; 
+ d) conoscenza di una o piu' lingue straniere, diversa dall'inglese, certificata da parte di Enti certificatori delle competenze in lingua straniera riconosciuti dal Ministero dell'istruzione, dell'universita' e della ricerca, fino a punti 2; 
+ e) conoscenza certificata delle procedure e dei sistemi informatici, riconosciuta a livello europeo o internazionale, fino a punti 2.
+
 ## - Capo V Altre procedure di reclutamento per l'accesso ai ruoli degli agenti ed assistenti e degli agenti ed assistenti tecnici
 
 ## Art. 41. — Ambito di applicazione
 
+1.
+                        
+                            
+                                Il presente Capo disciplina le modalita' di svolgimento delle procedure di reclutamento di cui all'articolo 1, comma 1, lettera b), per la nomina ad allievo agente ed allievo agente tecnico della Polizia di Stato: 
+ 
+                            
+                            
+                                a)
+                                
+                                    del coniuge e dei figli superstiti, nonche' dei fratelli, qualora unici superstiti, degli appartenenti alle Forze di Polizia deceduti o resi permanentemente invalidi al servizio, con invalidita' non inferiore all'ottanta per cento della capacita' lavorativa, a causa di azioni criminose di cui all'articolo 82, comma 1, della legge 23 dicembre 2000, n. 388, ovvero per effetto di ferite o lesioni riportate nell'espletamento di servizi di polizia o di soccorso pubblico i quali ne facciano richiesta; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    del coniuge e dei figli superstiti, nonche' dei fratelli, qualora unici superstiti, degli appartenenti alle Forze di Polizia deceduti o resi permanentemente invalidi al servizio, con invalidita' non inferiore all'ottanta per cento della capacita' lavorativa, per effetto di ferite o lesioni riportate nell'espletamento di missioni internazionali di pace.
+
 ## Art. 42. — Presentazione della domanda
 
 La domanda di assunzione diretta deve essere presentata al Dipartimento della pubblica sicurezza - Direzione centrale per gli affari generali e le politiche del personale della Polizia di Stato per il tramite della Questura della provincia di residenza.
+
+2.
+                        
+                            
+                                Nella domanda l'aspirante deve dichiarare: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il cognome ed il nome; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il codice fiscale; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il luogo e la data di nascita; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    il possesso della cittadinanza italiana; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    le generalita' del familiare appartenente alle Forze di polizia con l'indicazione del vincolo di parentela e dell'Amministrazione di appartenenza; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    il possesso del titolo di studio richiesto, con l'indicazione della scuola secondaria di secondo grado che lo ha rilasciato e della data in cui e' stato conseguito; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    il comune ove e' iscritto nelle liste elettorali, ovvero il motivo della non iscrizione o cancellazione; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    di non essere stato, per motivi diversi dall'idoneita' psico-fisica, espulso o prosciolto, d'autorita' o d'ufficio, da precedente arruolamento nelle Forze armate o nelle Forze di polizia, ovvero destituito, dispensato o dichiarato decaduto dall'impiego in una pubblica amministrazione, licenziato dal lavoro alle dipendenze di pubbliche amministrazioni a seguito di procedimento disciplinare; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    di non aver riportato condanna anche non definitiva per delitti non colposi e di non essere imputato in procedimenti penali per delitti non colposi per i quali e' sottoposto a misura cautelare personale, o lo e' stato senza annullamento della misura, ovvero assoluzione o proscioglimento o archiviazione anche con provvedimenti non definitivi; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    di non essere stato o non essere sottoposto a misure di prevenzione o di sicurezza.
 
 L'Amministrazione della pubblica sicurezza provvede d'ufficio ad accertare i requisiti di accesso, della condotta e dell'idoneita' fisica, compresa l'efficienza fisica, ove prevista, psichica e attitudinale al servizio, nonche' le cause di risoluzione di precedenti rapporti di pubblico impiego.
 
@@ -575,6 +1681,31 @@ Gli aspiranti in possesso dei requisiti di cui all'articolo 18 e dell'efficienza
 ## - Titolo III Disciplina delle modalità di svolgimento dei concorsi interni   Capo I Disposizioni generali e comuni
 
 ## Art. 44. — Requisiti di partecipazione
+
+1.
+                        
+                            
+                                I requisiti per la partecipazione ai concorsi di cui al presente Titolo sono i seguenti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    limiti di eta' stabiliti dal regolamento adottato ai sensi dell'articolo 3, comma 6, della legge n. 127 del 1997; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    requisiti medici previsti per l'acceso agli specifici ruoli del personale della Polizia di Stato che espleta funzioni di polizia e alle carriere dei medici e dei medici veterinari di Polizia, qualora il candidato appartenga ai ruoli del personale che espleta attivita' tecnico-scientifica o tecnica, e requisiti psico-attitudinali specificamente previsti per l'accesso ai ruoli e alle carriere superiori dal decreto del Ministro dell'interno 30 giugno 2003, n. 198. Gli accertamenti medici e psico-attitudinali gia' effettuati all'atto dell'ingresso nella Polizia di Stato non devono essere ripetuti; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    titolo di studio prescritto, abilitazione all'esercizio della professione e relativa iscrizione all'albo, ove previsti.
 
 Si applicano le disposizioni di cui all'articolo 18, commi 3, lettere a) e c), 4, 5, 9 e 10.
 
@@ -593,6 +1724,24 @@ Si applicano le disposizioni di cui all'articolo 24, commi da 6 a 14.
 ## - Capo II Concorso per l'accesso alla qualifica iniziale della carriera dei funzionari di polizia
 
 ## Art. 46. — Cause di esclusione dal concorso
+
+1.
+                        
+                            
+                                Non sono ammessi a partecipare al concorso i candidati che hanno riportato nei tre anni precedenti la data di pubblicazione del bando che indice il concorso: 
+ 
+                            
+                            
+                                a)
+                                
+                                    un giudizio complessivo inferiore a «distinto»; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la sanzione disciplinare della pena pecuniaria o altra sanzione piu' grave.
 
 ## Art. 47. — Titoli valutabili
 
@@ -619,7 +1768,50 @@ Oltre a quanto previsto dall'articolo 7, nei concorsi interni per l'accesso alla
 
 Il concorso e' articolato in due prove scritte ed una prova orale.
 
+2.
+                        
+                            
+                                Le due prove scritte, della durata massima di sei ore ciascuna, vertono sulle seguenti materie: 
+ 
+                            
+                            
+                                a)
+                                
+                                    diritto amministrativo, con particolare riguardo alla legislazione speciale in materia di pubblica sicurezza, ovvero diritto penale congiuntamente o disgiuntamente a diritto processuale penale; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    risoluzione di un caso in ambito gestionale-organizzativo per verificare l'attitudine del candidato alla soluzione di problemi inerenti allo svolgimento delle funzioni connesse alla qualifica di vice commissario della Polizia di Stato.
+
 La Commissione non procede alla correzione della seconda prova scritta, qualora nella prima prova corretta il candidato abbia conseguito un punteggio inferiore a diciotto trentesimi.
+
+4.
+                        
+                            
+                                La prova orale verte, oltre che su tutte le materie indicate nel comma 2, lettera a) e sul caso di cui al comma 2, lettera b), sulle seguenti materie: 
+ 
+                            
+                            
+                                a)
+                                
+                                    diritto costituzionale; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    ordinamento dell'Amministrazione della pubblica sicurezza; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    lingua straniera prescelta dal candidato tra quelle indicate nel bando di concorso. L'accertamento della conoscenza della lingua straniera consiste nella traduzione di un testo dalla lingua scelta dal candidato all'italiano, senza l'ausilio del dizionario, e in una conversazione.
 
 Nel corso della prova orale e' accertata, inoltre, la conoscenza dell'uso delle apparecchiature e delle applicazioni informatiche piu' diffuse, in linea con gli standard europei da realizzarsi anche mediante una verifica applicativa.
 
@@ -636,6 +1828,38 @@ La prova orale e' superata se il candidato consegue una votazione non inferiore 
 Non e' ammesso a partecipare al concorso il candidato che, alla data di pubblicazione del bando che indice il concorso, si trova nelle condizioni di cui agli articoli 60 e 61 del decreto legislativo n. 334 del 2000.
 
 ## Art. 50. — Domande di partecipazione
+
+1.
+                        
+                            
+                                Oltre a quanto previsto dall'articolo 2, nella domanda di partecipazione i candidati devono dichiarare: 
+ 
+                            
+                            
+                                a)
+                                
+                                    di non aver riportato, nei tre anni precedenti, giudizi complessivi inferiori a «distinto»; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    di non aver riportato, nell'anno precedente, la sanzione disciplinare della pena pecuniaria; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    di non aver riportato, nei tre anni precedenti, la sanzione disciplinare della deplorazione; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    di non aver riportato, nei cinque anni precedenti, la sanzione disciplinare della sospensione dal servizio.
 
 ## Art. 51. — Titoli valutabili
 
@@ -664,6 +1888,59 @@ Le prove d'esame per la promozione alla qualifica di vice questore aggiunto cons
 
 La prova scritta, della durata di otto ore, consiste nella risoluzione di un caso in ambito giuridico-amministrativo o gestionale-organizzativo, finalizzato a verificare l'attitudine del candidato alla soluzione di problemi inerenti allo svolgimento delle funzioni connesse alla nuova qualifica dirigenziale.
 
+3.
+                        
+                            
+                                La prova orale consiste in un colloquio interdisciplinare sulle seguenti materie: 
+ 
+                            
+                            
+                                a)
+                                
+                                    diritto penale; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    diritto processuale penale; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    diritto amministrativo; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    elementi di diritto dell'Unione europea; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    legislazione di pubblica sicurezza; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    elementi di contabilita' di Stato; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    lingua straniera. La conoscenza della lingua straniera consiste nella traduzione di un testo dalla lingua scelta dal candidato all'italiano, senza l'ausilio del dizionario, e in una conversazione.
+
 Nel corso della prova orale e' accertata, inoltre, la conoscenza dell'uso delle apparecchiature e delle applicazioni informatiche piu' diffuse da realizzarsi anche mediante una verifica applicativa, nonche' la conoscenza delle potenzialita' organizzative connesse all'uso degli strumenti informatici.
 
 Alla prova orale sono ammessi i candidati che hanno riportato una votazione non inferiore a diciotto trentesimi nella prova scritta.
@@ -675,6 +1952,24 @@ La prova orale e' superata se il candidato consegue una votazione non inferiore 
 ## - Capo IV Concorsi per l'accesso ai ruoli degli ispettori e degli ispettori tecnici   Sezione I Concorso per l'accesso al ruolo degli ispettori
 
 ## Art. 53. — Cause di esclusione dal concorso
+
+1.
+                        
+                            
+                                Non e' ammesso a partecipare al concorso il candidato che ha riportato nel biennio precedente la data di pubblicazione del bando che indice il concorso: 
+ 
+                            
+                            
+                                a)
+                                
+                                    un giudizio complessivo inferiore a «buono»; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la deplorazione o sanzione disciplinare piu' grave.
 
 ## Art. 54. — Prove d'esame
 
@@ -705,6 +2000,24 @@ Oltre a quanto previsto dall'articolo 7, nei concorsi interni per l'accesso al r
 ## - Sezione II Concorso per l'accesso al ruolo degli ispettori tecnici
 
 ## Art. 56. — Cause di esclusione dal concorso
+
+1.
+                        
+                            
+                                Non e' ammesso a partecipare al concorso il candidato che ha riportato nel biennio precedente la data di pubblicazione del bando che indice il concorso: 
+ 
+                            
+                            
+                                a)
+                                
+                                    un giudizio complessivo inferiore a «buono»; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la deplorazione o sanzione disciplinare piu' grave.
 
 ## Art. 57. — Prove d'esame
 
@@ -739,6 +2052,24 @@ Oltre a quanto previsto dall'articolo 7, nei concorsi interni per l'accesso al r
 ## - Capo V Concorsi per l'accesso ai ruoli dei sovrintendenti e dei sovrintendenti tecnici
 
 ## Art. 59. — Cause di esclusione dai concorsi
+
+1.
+                        
+                            
+                                Non sono ammessi a partecipare ai concorsi i candidati che alla data di scadenza dei termini per la presentazione delle domande hanno riportato, nell'ultimo biennio: 
+ 
+                            
+                            
+                                a)
+                                
+                                    un giudizio complessivo inferiore a «buono»; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    sanzioni disciplinari piu' gravi della deplorazione.
 
 ## Art. 60. — Prova scritta
 
@@ -785,6 +2116,31 @@ Gli assistenti capo tecnici che hanno superato la selezione effettuata con scrut
 
 Requisiti di idoneita' fisica e psichica e cause di non idoneita'
 
+1.
+                        
+                            
+                                I requisiti di idoneita' fisica e psichica di cui devono essere in possesso i candidati ai concorsi pubblici per la nomina a maestro direttore, a maestro vice direttore e ad orchestrale della Banda musicale della Polizia di Stato, sono i seguenti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    sana e robusta costituzione fisica; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il rapporto altezza-peso, il tono e l'efficienza delle masse muscolari, la distribuzione del pannicolo adiposo e il trofismo devono rispecchiare un'armonia atta a configurare la robusta costituzione e la necessaria agilita' indispensabile per l'espletamento dei servizi di polizia nelle specifiche attivita' della Banda musicale; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    senso cromatico e luminoso normale, campo visivo normale, visione notturna sufficiente, visione binoculare e stereoscopica sufficiente. Visus corretto non inferiore a dieci decimi per ciascun occhio, con una correzione massima complessiva di tre diottrie per i seguenti vizi di rifrazione: miopia, ipermetropia, astigmatismo semplice (miopico e ipermetropico) e di tre diottrie quale somma complessiva dei singoli vizi di rifrazione per l'astigmatismo composto e l'astigmatismo misto.
+
 Costituiscono, inoltre, cause di non idoneita' per l'ammissione ai concorsi di cui al comma 1 le imperfezioni e infermita' indicate nella Tabella 4 allegata che fa parte integrante del presente regolamento.
 
 ## Art. 64. — Requisiti attitudinali
@@ -796,6 +2152,52 @@ Per i candidati ai concorsi pubblici per la nomina a orchestrale della Banda mus
 ## - Parte II Modalità di svolgimento dei corsi di formazione iniziale per l'accesso ai ruoli e alle carriere del personale della polizia di stato, dei corsi di formazione dirigenziale e dei corsi di aggiornamento professionale per i funzionari della polizia di stato   Titolo I Disposizioni generali e comuni
 
 ## Art. 65. — Ambito di applicazione
+
+1.
+                        
+                            
+                                La Parte II del presente regolamento disciplina le modalita' di svolgimento: 
+ 
+                            
+                            
+                                a)
+                                
+                                    dei corsi di formazione per l'accesso alle carriere dei funzionari di Polizia, dei funzionari tecnici di Polizia, dei medici di Polizia e dei medici veterinari di Polizia, inclusa la disciplina dei giudizi di idoneita' al servizio di polizia e del periodo applicativo ai sensi, rispettivamente, degli articoli 4, comma 6, 5-ter, comma 4, 32, commi 2 e 4, 33, comma 4, 47, comma 2, e 48, commi 2 e 4, del decreto legislativo n. 334 del 2000; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    dei corsi di formazione dirigenziale per l'accesso alle qualifiche di vice questore aggiunto, di direttore tecnico capo, di medico capo e di medico veterinario capo ai sensi, rispettivamente, degli articoli 6, comma 4, 33 comma 4, e 48, comma 4, del decreto legislativo n. 334 del 2000; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    dei corsi di aggiornamento professionale e di formazione specialistica di cui agli articoli 52 e 57 del decreto legislativo n. 334 del 2000; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    dei corsi di formazione per allievi vice ispettori e allievi vice ispettori tecnici ai sensi, rispettivamente, degli articoli 27, comma 7, del decreto del Presidente della Repubblica n. 335 del 1982, 25-bis, comma 9, e 25-ter, comma 5, del decreto del Presidente della Repubblica n. 337 del 1982, inclusa la disciplina del giudizio di idoneita'; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    del corso di formazione professionale per l'accesso alla qualifica iniziale del ruolo dei sovrintendenti ai sensi dell'articolo 24-quater, comma 6, del decreto del Presidente della Repubblica n. 335 del 1982 e del corso di formazione tecnico-professionale per l'accesso alla qualifica iniziale del ruolo dei sovrintendenti tecnici ai sensi dell'articolo 20-quater, comma 6, del decreto del Presidente della Repubblica n. 337 del 1982; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    dei corsi di formazione per allievi agenti e allievi agenti tecnici ai sensi, rispettivamente, degli articoli 6-bis, commi 2 e 7, del decreto del Presidente della Repubblica n. 335 del 1982, e 5, comma 8, del decreto del Presidente della Repubblica n. 337 del 1982, nonche' le modalita' di formulazione del giudizio di idoneita' al servizio di polizia.
 
 ## Art. 66.
 
@@ -897,6 +2299,45 @@ Per assicurare il corretto svolgimento delle prove d'esame e delle altre prove p
 
 ## Art. 72. — Ambito di applicazione
 
+1.
+                        
+                            
+                                Il presente Titolo disciplina i corsi che si svolgono a cura della Scuola stabilendo: 
+ 
+                            
+                            
+                                a)
+                                
+                                    i principi in materia di struttura ed organizzazione generale dei corsi; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le modalita' di svolgimento dei corsi di formazione per l'accesso alle carriere dei funzionari di Polizia, dei funzionari tecnici di Polizia, dei medici di Polizia e dei medici veterinari di Polizia, inclusa la disciplina dei giudizi di idoneita' al servizio di polizia e del periodo applicativo; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    le modalita' di svolgimento dei corsi di formazione per lo sviluppo dirigenziale delle carriere dei funzionari di cui alla lettera b); 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    le modalita' di svolgimento dei corsi di aggiornamento professionale e di formazione specialistica di cui agli articoli 52 e 57 del decreto legislativo 5 ottobre 2000, n. 334; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    le modalita' di svolgimento e di verifica finale del tirocinio operativo previsto dopo la conclusione dei corsi di formazione cui sono stati avviati i vincitori dei concorsi pubblici per l'accesso alla qualifica di commissario della Polizia di Stato e di commissario tecnico della Polizia di Stato, ai sensi, rispettivamente, degli articoli 4, comma 4, e 32, comma 4, del decreto legislativo n. 334 del 2000.
+
 ## - Sezione I Struttura e organizzazione dei corsi
 
 ## Art. 73. — Giuramento e obblighi
@@ -924,6 +2365,24 @@ Il direttore della Scuola puo' ripartire i frequentatori di ogni corso in piu' s
 A ciascuna delle sezioni puo' essere preposto un funzionario della Polizia di Stato, con qualifica superiore a quella dei frequentatori, la cui attivita' e' coordinata dal funzionario preposto al corso.
 
 Gli incarichi di cui ai commi 1 e 3 sono di natura esclusiva e sono conferiti dal direttore della Scuola.
+
+5.
+                        
+                            
+                                Il funzionario preposto al corso: 
+ 
+                            
+                            
+                                a)
+                                
+                                    svolge compiti di inquadramento e di addestramento professionale; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    ai fini dell'attribuzione dei giudizi di idoneita', compila il registro delle annotazioni comportamentali, documentando, per ciascun frequentatore, ogni elemento che, pur non risultando rilevante ai fini disciplinari o premiali, e' suscettibile di valutazione acquisendo agli atti d'ufficio ogni altro elemento utile per la conoscenza del frequentatore.
 
 Per le finalita' di cui al presente articolo con decreto del Capo della polizia-Direttore generale della pubblica sicurezza puo' essere disposta la temporanea assegnazione, presso la Scuola, di funzionari della Polizia di Stato in possesso di specifici requisiti professionali.
 
@@ -960,6 +2419,105 @@ Attribuzione del giudizio di idoneita'
 
 Il giudizio di idoneita' per l'ammissione al secondo ciclo previsto dall'articolo 4, comma 3, del decreto legislativo n. 334 del 2000, nonche' il giudizio di idoneita' al servizio di polizia, previsto dagli articoli 4, comma 4, 5-ter, comma 3, 32, comma 4, e 47, comma 4, del medesimo decreto legislativo n. 334 del 2000 al termine del corso di formazione iniziale, sono espressi dal direttore della Scuola, sentiti i direttori di Servizio, i responsabili delle articolazioni di livello divisionale del Servizio Didattica, il funzionario di cui all'articolo 75, comma 1, del presente regolamento.
 
+2.
+                        
+                            
+                                I giudizi di idoneita' di cui al comma 1 devono essere motivati e sono espressi in conformita' ai seguenti parametri: 
+ 
+                            
+                            
+                                a)
+                                
+                                    qualita' morali: e' valutata la profonda e leale adesione ai valori dell'ordinamento costituzionale, con particolare riguardo ai doveri incombenti su tutti i cittadini e, in specie, sui pubblici funzionari; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    doti di equilibrio: e' valutata la capacita' di controllare le reazioni nei vari contesti; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    senso del dovere e di responsabilita': e' valutata l'attitudine ad assolvere con zelo e affidabilita' gli impegni attinenti al proprio ruolo; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    condotta e senso della disciplina: sono valutati i comportamenti tenuti durante il corso, con particolare riferimento all'osservanza delle norme regolamentari, delle direttive impartite dai superiori, nonche' delle regole di comportamento della Scuola; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    spirito di iniziativa e capacita' organizzativa e di risoluzione: sono valutate le capacita' di analizzare i contesti e le situazioni, scegliere le soluzioni idonee, promuovere le attivita' rispondenti alle esigenze, impiegare al meglio le risorse disponibili; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    adattabilita' al lavoro di gruppo: e' valutata la capacita' di rapportarsi positivamente con gli altri nell'espletamento delle attivita'; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    abilita' comunicative: e' valutata la capacita' di gestire il processo di comunicazione nei diversi contesti; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    rendimento negli studi: e' parametrato secondo la media complessiva dei voti conseguiti negli esami di cui all'articolo 78, tenendosi conto altresi' delle lodi ottenute; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    qualita' fisiche: e' valutato il grado di efficienza fisica dimostrato durante il corso; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    attitudini tecnico-operative: sono valutate sulla base di apposite prove previste dal Piano della formazione.
+
+3.
+                        
+                            
+                                Ai fini di cui al comma 2, il direttore della Scuola puo' avvalersi, tra l'altro: 
+ 
+                            
+                            
+                                a)
+                                
+                                    del registro delle annotazioni comportamentali, di cui all'articolo 75, comma 5, lettera b); 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    delle valutazioni attribuite a ciascun frequentatore in ogni occasione della verifica delle conoscenze, abilita' e competenze acquisite; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    delle note valutative redatte per ciascun frequentatore dai funzionari coordinatori degli Uffici o Reparti, presso i quali si e' svolto il rispettivo periodo applicativo, di cui agli articoli 85, 90 e 92, qualora previsto, del presente regolamento.
+
 I giudizi sono sintetizzati in una nota valutativa, con l'attribuzione di un punteggio da zero a tre per ogni singolo parametro.
 
 L'idoneita' e' conseguita con l'attribuzione di un punteggio complessivo non inferiore a diciotto trentesimi. L'idoneita' non e' in ogni caso conseguita, a prescindere dal punteggio riportato, qualora il frequentatore abbia ottenuto il punteggio di zero anche in un solo parametro.
@@ -968,13 +2526,123 @@ L'idoneita' e' conseguita con l'attribuzione di un punteggio complessivo non inf
 
 Il direttore della Scuola, dopo aver attribuito il giudizio di idoneita' di cui all'articolo 80, individua, nell'ambito dei profili professionali di cui al comma 2, quelli in relazione ai quali, anche ai fini di cui all'articolo 94, comma 2, ciascun frequentatore mostra le maggiori predisposizioni all'impiego, tenuto conto del giudizio di idoneita', delle valutazioni conseguite in ciascun esame e su ogni altra prova, anche finalizzata all'analisi delle competenze, nonche' sulle inclinazioni comunque emerse e documentate durante l'intero percorso formativo.
 
+2.
+                        
+                            
+                                I profili professionali di cui al comma 1 sono individuati con decreto del Capo della Polizia-Direttore generale della pubblica sicurezza in relazioni alle seguenti aree di impiego: 
+ 
+                            
+                            
+                                a)
+                                
+                                    strategico organizzativo; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    analitico investigativo; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    tattico operativo; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    comunicativo motivazionale; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    direttivo gestionale.
+
 ## Art. 82. — Graduatoria finale
 
 La graduatoria finale dei corsi di cui al Capo II e' formata sulla base del punteggio complessivo attribuito a ciascun frequentatore, aumentato secondo la previsione del comma 5.
 
 Il punteggio complessivo e' formato calcolando la media ponderata tra la votazione finale conseguita nel concorso, riportata in centodecimi, e il voto finale del corso, in ragione, rispettivamente, dei coefficienti percentuali di trenta e di settanta.
 
+3.
+                        
+                            
+                                Il voto finale del corso e' formato dalla media, espressa in centodecimi e attribuita tra un minimo di sessantasei e un massimo di centodieci, dei voti riportati negli esami e in ogni altra prova stabilita dal Piano della formazione, cui e' sommato il punteggio attribuito all'esame finale secondo i seguenti parametri: 
+ 
+                            
+                            
+                                a)
+                                
+                                    cinque punti per una valutazione di trenta trentesimi; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    quattro punti per una valutazione di ventinove trentesimi; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    tre punti per una valutazione di ventotto trentesimi; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    due punti per una valutazione di ventisette trentesimi; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    un punto per una valutazione di ventisei trentesimi; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    zero punti per una valutazione compresa tra diciotto e venticinque trentesimi.
+
 Ai fini del calcolo della relativa media, agli esami superati in sessione straordinaria, cui il frequentatore e' stato ammesso per insufficiente profitto, e' attribuito il voto di diciotto trentesimi.
+
+5.
+                        
+                            
+                                Il punteggio di cui al comma 2 e' aumentato, secondo la valutazione ottenuta nel giudizio di idoneita' al servizio di polizia, di: 
+ 
+                            
+                            
+                                a)
+                                
+                                    0,90 punti per la valutazione da ventidue a venticinque trentesimi; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    1,80 punti per la valutazione da ventisei a ventinove trentesimi; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    2,80 punti per la valutazione di trenta trentesimi.
 
 ## - Capo II Corsi di formazione per l'accesso alle carriere dei funzionari della polizia di stato   Sezione I Corso per l'accesso alla qualifica di commissario
 
@@ -1032,6 +2700,24 @@ Al termine del periodo applicativo, i funzionari coordinatori delle strutture pr
 
 Finalita' didattiche e articolazione del corso
 
+1.
+                        
+                            
+                                Il corso della durata di un anno, e' finalizzato: 
+ 
+                            
+                            
+                                a)
+                                
+                                    alla formazione necessaria per l'espletamento delle funzioni inerenti ai compiti istituzionali dell'Amministrazione della pubblica sicurezza, ai sensi dell'articolo 2 del decreto legislativo n. 334 del 2000; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    all'acquisizione di crediti formativi per il conseguimento di una delle lauree magistrali o specialistiche a contenuto giuridico di cui all'articolo 3, comma 2, del decreto legislativo n. 334 del 2000 sulla base di programmi e modalita' coerenti con le norme concernenti l'autonomia didattica degli atenei, in funzione della valorizzazione e dello sviluppo delle conoscenze che ciascun frequentatore ha acquisito con il conseguimento della laurea triennale di cui all'articolo 5-bis, comma 1, del decreto legislativo n. 334 del 2000.
+
 Il corso e' comprensivo di un periodo applicativo di durata, non superiore a tre mesi, fissata dal Piano della formazione. Si applicano le disposizioni di cui all'articolo 5-ter del decreto legislativo n. 334 del 2000 e agli articoli 85 e 86 del presente regolamento.
 
 Al termine del corso, i vice commissari ricevono la sciarpa azzurra, insegna del comando e la sciarpa tricolore, insegna della funzione di pubblica sicurezza.
@@ -1041,6 +2727,24 @@ Al termine del corso, i vice commissari ricevono la sciarpa azzurra, insegna del
 ## Art. 89.
 
 Finalita' didattiche e articolazione del corso
+
+1.
+                        
+                            
+                                Il corso della durata di un anno, e' finalizzato: 
+ 
+                            
+                            
+                                a)
+                                
+                                    alla formazione necessaria per l'espletamento delle funzioni tecnico-scientifiche inerenti ai compiti istituzionali dell'Amministrazione della pubblica sicurezza, ai sensi dell'articolo 30 del decreto legislativo n. 334 del 2000; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    al conseguimento del master universitario di secondo livello, funzionale allo sviluppo di conoscenze di particolare rilievo per l'assolvimento delle funzioni tecnico-scientifiche istituzionali, individuato nell'ambito dell'offerta formativa disponibile a livello nazionale, anche con riguardo ai profili professionali di ciascun frequentatore.
 
 ## Art. 90. — Periodo applicativo
 
@@ -1108,6 +2812,31 @@ La relazione di cui al comma 2, unitamente all'elaborato di cui al comma 1, sono
 
 Finalita' e articolazione del corso
 
+1.
+                        
+                            
+                                Il corso di formazione dirigenziale di cui agli articoli 6, 33 e 48 del decreto legislativo n. 334 del 2000 ad indirizzo prevalentemente professionale ha durata di un mese ed e' finalizzato a perfezionare le conoscenze e le competenze necessarie per l'esercizio delle funzioni dirigenziali nella Polizia di Stato e per l'assunzione delle connesse responsabilita', di carattere: 
+ 
+                            
+                            
+                                a)
+                                
+                                    tecnico, gestionale e giuridico, per il personale della carriera dei funzionari di Polizia; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    tecnico e gestionale, per il personale della carriera dei funzionari tecnici di Polizia; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    sanitario, gestionale e giuridico, per il personale delle carriere dei medici di Polizia e dei medici veterinari di Polizia.
+
 Il Piano della formazione puo' prevedere moduli differenziati in relazione alle specificita' funzionali delle diverse carriere dei funzionari della Polizia di Stato.
 
 I commissari capo, i commissari capo tecnici, i medici principali e i medici veterinari principali che non frequentano il corso per un periodo superiore a cinque giorni, anche non consecutivi, non conseguono la promozione, salvo che l'assenza sia determinata da maternita', da gravi infermita', anche non dipendenti da causa di servizio, che richiedono terapie salvavita ed impediscono lo svolgimento delle attivita' giornaliere o da altre ad esse assimilabili secondo le indicazioni dell'Ufficio medico legale dell'Azienda sanitaria competente per territorio, o da infermita' dipendente da causa di servizio o contratta durante il corso. In tali ultimi casi, i commissari capo, i commissari capo tecnici, i medici principali e i medici veterinari principali, dopo la riacquistata idoneita' fisico-psichica, sono ammessi a frequentare il primo corso dirigenziale successivo.
@@ -1117,6 +2846,31 @@ I commissari capo, i commissari capo tecnici, i medici principali e i medici vet
 Al termine del corso, i frequentatori sostengono un esame finale consistente in una prova orale relativa agli argomenti compresi nel Piano della formazione.
 
 La prova d'esame forma oggetto di una complessiva valutazione di merito delle conoscenze e competenze professionali e gestionali espressa in un giudizio di «insufficiente profitto», «sufficiente profitto», «buon profitto», «segnalato profitto». Il corso si intende superato con un giudizio non inferiore a «sufficiente profitto».
+
+3.
+                        
+                            
+                                I giudizi di cui al comma 2 sono espressi in trentesimi secondo i seguenti criteri di equivalenza: 
+ 
+                            
+                            
+                                a)
+                                
+                                    «segnalato profitto»: trenta trentesimi; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    «buon profitto»: da ventisette a ventinove trentesimi; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    «sufficiente profitto»: da diciotto a ventisei trentesimi.
 
 ## Art. 98. — Graduatoria finale
 
@@ -1147,6 +2901,31 @@ Per la validita' della partecipazione i frequentatori non devono risultare assen
 La frequenza con profitto dei corsi e' accertata mediante modalita' di verifica stabilite dal Piano della formazione.
 
 La valutazione di cui al comma 1 e' espressa con un giudizio di «insufficiente profitto», «sufficiente profitto», «buon profitto», «segnalato profitto». I corsi si intendono superati con un giudizio non inferiore a «sufficiente profitto».
+
+3.
+                        
+                            
+                                Nell'esame finale, il giudizio di cui al comma 2 e' espresso in trentesimi secondo i seguenti criteri di equivalenza: 
+ 
+                            
+                            
+                                a)
+                                
+                                    «segnalato profitto»: trenta trentesimi; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    «buon profitto»: da ventisette a ventinove trentesimi; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    «sufficiente profitto»: da diciotto a ventisei trentesimi.
 
 ## Art. 102. — Aggiornamento professionale dei medici della Polizia di Stato attraverso formazione specialistica
 
@@ -1190,6 +2969,45 @@ I risultati delle prove d'esame sono pubblicati mediante affissione all'albo del
 
 ## Art. 107. — Commissione degli esami e delle altre prove
 
+1.
+                        
+                            
+                                Le commissioni degli esami e delle altre prove previste dal Piano della formazione dei corsi di cui al presente Titolo sono nominate con decreto del Capo della polizia-Direttore generale della pubblica sicurezza e sono composte: 
+ 
+                            
+                            
+                                a)
+                                
+                                    per i corsi di formazione per l'accesso al ruolo degli ispettori: dal direttore dell'istituto di istruzione ove si svolge il corso con funzioni di presidente, da un appartenente alla carriera dei funzionari di Polizia in servizio presso il medesimo istituto di istruzione con qualifica non superiore a vice questore e da tre docenti del corso; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    per i corsi di formazione per l'accesso al ruolo degli ispettori tecnici: dal direttore dell'istituto di istruzione ove si svolge il corso con funzioni di presidente, da un appartenente alla carriera dei funzionari di Polizia in servizio presso il medesimo istituto di istruzione con qualifica non superiore a vice questore e da tre docenti del corso. La Commissione puo' essere integrata con uno o piu' esperti nelle materie relative ai profili professionali dei frequentatori con qualifica non inferiore a commissario capo tecnico o medico principale; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    per i corsi di formazione per l'accesso ai ruoli dei sovrintendenti e dei sovrintendenti tecnici: dal direttore dell'istituto di istruzione ove si svolge il corso con funzioni di presidente, da un appartenente alla carriera dei funzionari di Polizia in servizio presso il medesimo istituto di istruzione con qualifica non superiore a vice questore e da un docente del corso; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    per il corso di formazione per l'accesso al ruolo degli agenti ed assistenti: dal direttore dell'istituto di istruzione ove si svolge il corso con funzioni di presidente e da un appartenente alla carriera dei funzionari di Polizia con qualifica non superiore a vice questore, in servizio presso il medesimo istituto di istruzione, e da un docente del corso; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    per il corso di formazione per l'accesso al ruolo degli agenti ed assistenti tecnici: dal direttore dell'istituto di istruzione ove si svolge il corso con funzioni di presidente e da un appartenente alla carriera dei funzionari di Polizia, con qualifica non superiore a vice questore, in servizio presso il medesimo istituto di istruzione e da un docente del corso.
+
 Per le commissioni di cui al comma 1, le funzioni di segretario sono svolte da un appartenente alla carriera dei funzionari di Polizia con qualifica non superiore a commissario capo o da un funzionario dei ruoli del personale dell'Amministrazione civile dell'interno o da un appartenente al ruolo degli ispettori della Polizia di Stato, in servizio presso l'istituto di istruzione ove si svolge il corso.
 
 Le commissioni degli esami sono integrate, per lo svolgimento della prova pratica di difesa personale e di tecniche operative, qualora previste, da un istruttore per ciascuna delle rispettive discipline, scelto preferibilmente tra quelli che hanno curato il percorso formativo.
@@ -1218,7 +3036,135 @@ Giudizio di idoneita' al servizio di polizia
 
 Il giudizio di idoneita' al servizio di polizia, necessario per l'iscrizione in ruolo, e' espresso, per ciascun corsista vincitore di concorso pubblico, dal direttore dell'istituto di istruzione, sulla base delle risultanze del fascicolo personale, consultati i docenti del corso ed i responsabili delle articolazioni corsi e studi.
 
+2.
+                        
+                            
+                                Il giudizio di idoneita' deve essere motivato ed e' espresso in conformita' ai sotto indicati parametri di valutazione comuni per i corsi di formazione per vice ispettori, vice ispettori tecnici, agenti ed agenti tecnici: 
+ 
+                            
+                            
+                                a)
+                                
+                                    qualita' morali e di carattere: e' valutata la profonda e leale adesione ai valori e principi dell'ordinamento costituzionale, con particolare riguardo ai doveri di lealta', correttezza e rettitudine richiesti agli appartenenti alla Polizia di Stato. Si tiene, altresi', conto della consapevolezza della dimensione valoriale nella vita professionale e privata, della conoscenza dei propri limiti e delle proprie potenzialita' e si considera la capacita' di controllare le reazioni nei vari contesti; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    senso del dovere e della disciplina: e' valutata la capacita' di mantenere un comportamento corretto, con particolare riferimento all'osservanza delle norme regolamentari, delle direttive impartite dai superiori, nonche' delle regole di comportamento dell'istituto di istruzione; e' considerata anche la volonta' di perseverare nel raggiungere gli obiettivi scelti o proposti da terzi, anche con spirito di sacrificio; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    senso della responsabilita' e spirito di servizio: e' valutata l'attitudine ad assolvere con zelo e affidabilita' gli impegni attinenti al proprio ruolo e ad assumersi consapevolmente le conseguenze dei propri comportamenti; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    cura della persona, assetto formale e cura dei materiali: e' valutato il portamento, la proprieta' dei modi, l'educazione, il garbo e la cura della persona e dell'uniforme, in ogni contesto. Si tiene conto dell'attenzione che viene prestata nella conservazione e manutenzione dei beni e materiali assegnati e di quelli patrimonio dell'Amministrazione della pubblica sicurezza; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    capacita' comunicative e qualita' dei rapporti interpersonali: e' valutata la capacita' di gestire il processo di comunicazione nei diversi contesti e, in generale nella relazione con gli altri, anche al di fuori dell'ambito formativo e in ambienti interni ed esterni all'Amministrazione della pubblica sicurezza.
+
+3.
+                        
+                            
+                                Per i corsi di formazione per vice ispettori e vice ispettori tecnici vengono, altresi', valutati i seguenti parametri: 
+ 
+                            
+                            
+                                a)
+                                
+                                    capacita' di coordinamento e direzione di unita' operative: e' valutata la capacita' di esprimere direttive chiare e di assumersi le connesse responsabilita', di interagire e di rapportarsi positivamente con gli altri nell'espletamento delle diverse attivita'; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    spirito di iniziativa, capacita' di risoluzione: sono valutate le capacita' di analizzare i contesti e le situazioni e scegliere le soluzioni idonee nonche' l'attitudine dimostrata, durante il corso, di promuovere attivita' e soluzioni adeguate alle contingenti esigenze e necessita' anche in relazione ad eventuali compiti assegnati; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    assiduita' dimostrata e rendimento negli studi; sono valutati l'impegno dimostrato, l'interesse e la qualita' della partecipazione dimostrata nello svolgimento delle attivita' proposte, nonche' i risultati conseguiti negli esami e nelle prove previste dal Piano della formazione.
+
+4.
+                        
+                            
+                                Per i corsi di formazione per allievi agenti ed allievi agenti tecnici vengono, altresi', valutati i seguenti parametri: 
+ 
+                            
+                            
+                                a)
+                                
+                                    capacita' all'interazione di gruppo: e' valutata la capacita' di collaborare in modo costruttivo e di rapportarsi positivamente con gli altri nell'espletamento delle diverse attivita'; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    spirito di iniziativa: sono valutate le capacita' di analizzare i contesti e le situazioni e scegliere le soluzioni idonee nonche' l'attitudine dimostrata, durante il corso, di promuovere attivita' e soluzioni adeguate in relazione ad eventuali compiti assegnati; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    assiduita' dimostrata e rendimento negli studi: sono valutati l'impegno l'interesse e la qualita' della partecipazione nello svolgimento delle attivita' proposte, nonche' i risultati conseguiti negli esami e nelle prove previste dal Piano della formazione.
+
 Per il personale gia' appartenente ai ruoli della Polizia di Stato, vincitore di concorso pubblico per l'accesso ai ruoli degli ispettori e ispettori tecnici, il giudizio di idoneita' al servizio di polizia e' espresso, sulla base dei parametri di cui ai commi 2 e 3, con particolare riferimento all'idoneita' allo svolgimento delle funzioni proprie del nuovo ruolo.
+
+6.
+                        
+                            
+                                Qualora la formazione in video collegamento, in modalita' e-learning o decentrata e telematica superi un terzo della durata complessiva del corso, il giudizio di idoneita' e' espresso, in deroga ai commi 2, 3 e 4 in conformita' ai sotto indicati parametri di valutazione: 
+ 
+                            
+                            
+                                a)
+                                
+                                    senso del dovere e della disciplina; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    senso della responsabilita'; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    cura della persona, assetto formale e cura dei materiali; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    capacita' comunicative; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    spirito di servizio ed assiduita' dimostrata.
 
 A ciascun parametro di valutazione e' attribuito un punteggio da uno a tre.
 
@@ -1266,7 +3212,57 @@ L'esame finale del corso consiste nella discussione di una tesi, anche a caratte
 
 ## Art. 114. — Graduatoria finale
 
+1.
+                        
+                            
+                                Oltre a quanto previsto dall'articolo 110, la graduatoria finale e' formata sulla base del punteggio complessivo attribuito a ciascun allievo vice ispettore formato calcolando la media, in trentesimi: 
+ 
+                            
+                            
+                                a)
+                                
+                                    del voto conseguito nel concorso per l'accesso al ruolo degli ispettori, convertito in trentesimi con apposita tabella di conversione predisposta dalla Commissione d'esame o dalla Commissione unica di esame ove costituita; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    dei voti conseguiti nelle prove scritte o orali; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    del voto conseguito nell'esame finale.
+
 L'allievo vice ispettore che ha superato la prova d'esame in sessione straordinaria a seguito del mancato superamento dell'esame in sessione ordinaria consegue, ai fini della graduatoria finale, una votazione pari alla media tra il voto riportato in sessione straordinaria e diciotto trentesimi.
+
+3.
+                        
+                            
+                                Il punteggio di cui ai commi 1 e 2 e' aumentato, secondo la valutazione conseguita nel giudizio di idoneita' al servizio di polizia, di: 
+ 
+                            
+                            
+                                a)
+                                
+                                    0,25 punti per la valutazione da diciassette a diciannove ventiquattresimi; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    0,50 punti per la valutazione da venti a ventidue ventiquattresimi; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    0,75 punti per la valutazione da ventitre' a ventiquattro ventiquattresimi.
 
 A parita' di punteggio complessivo, la precedenza e' riconosciuta all'allievo vice ispettore che precede nella graduatoria del concorso.
 
@@ -1275,6 +3271,31 @@ A parita' di punteggio complessivo, la precedenza e' riconosciuta all'allievo vi
 ## Art. 115.
 
 Durata e finalita'
+
+1.
+                        
+                            
+                                Il corso, della durata di sei mesi, e' articolato in tre fasi formative: 
+ 
+                            
+                            
+                                a)
+                                
+                                    una realizzata in modalita' telematiche e informatiche; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    una di formazione residenziale presso l'istituto di istruzione; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    una di tirocinio applicativo, presso la sede di assegnazione.
 
 La successione temporale e la durata delle fasi formative sono disciplinate con decreto del Capo della Polizia-Direttore generale della pubblica sicurezza.
 
@@ -1344,6 +3365,31 @@ Oltre a quanto previsto dall'articolo 110, al termine dei corsi per la nomina al
 
 Durata e finalita'
 
+1.
+                        
+                            
+                                Il corso di formazione tecnico-professionale, della durata di sei mesi, e' articolato in tre fasi formative di cui: 
+ 
+                            
+                            
+                                a)
+                                
+                                    una realizzata in modalita' telematiche e informatiche; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    una di formazione residenziale presso l'istituto di istruzione; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    una di tirocinio applicativo, presso la sede di assegnazione.
+
 La successione temporale e la durata delle fasi formative sono disciplinate con decreto del Capo della polizia-Direttore generale della pubblica sicurezza.
 
 Il corso persegue obiettivi didattici finalizzati all'esercizio delle funzioni previste per gli appartenenti al ruolo degli ispettori tecnici, tenuto conto della specificita' delle funzioni inerenti ai vari profili professionali o settori per i quali e' stato indetto il concorso.
@@ -1377,6 +3423,31 @@ Al termine del tirocinio applicativo, il dirigente dell'Ufficio o Reparto, anche
 ## Art. 126.
 
 Durata e finalita' dei corsi
+
+1.
+                        
+                            
+                                I corsi di formazione professionale, della durata di tre mesi, sono articolati in tre fasi formative: 
+ 
+                            
+                            
+                                a)
+                                
+                                    una realizzata in modalita' telematiche e informatiche; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    una di formazione residenziale presso gli istituti di istruzione; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    una di applicazione pratica, presso la sede di assegnazione.
 
 La successione temporale e la durata delle tre fasi formative sono disciplinate con decreto del Capo della polizia-Direttore generale della pubblica sicurezza.
 
@@ -1464,6 +3535,59 @@ Alla prova e' attribuito un punteggio massimo di trenta trentesimi e la stessa e
 Le disposizioni del presente regolamento non si applicano ai concorsi gia' banditi e ai conseguenti corsi di formazione.
 
 ## Art. 136. — Abrogazioni
+
+1.
+                        
+                            
+                                Fatto salvo quanto previsto dall'articolo 135, a decorrere dal quindicesimo giorno successivo alla data di pubblicazione del presente regolamento nella Gazzetta Ufficiale della Repubblica italiana cessano di applicarsi: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il decreto del Presidente della Repubblica 23 dicembre 1983, n. 903; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'articolo 10 del Regolamento degli istituti di istruzione, adottato con decreto del Ministro dell'interno 9 marzo 1983; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il decreto del Ministro dell'interno 1° agosto 2002, n. 199, ad esclusione del Capo II-bis limitatamente all'espletamento dei concorsi per l'accesso al ruolo dei sovrintendenti di cui all'articolo 2, comma 1, lettere a), a-bis), a-ter), a-quater), b), b-bis) del decreto legislativo n. 95 del 2017; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    il decreto del Ministro dell'interno 4 dicembre 2003, n. 370; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    il decreto del Ministro dell'interno 28 aprile 2005, n. 129; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    il decreto del Capo della polizia-Direttore generale della pubblica sicurezza 23 marzo 2018, ad esclusione dell'articolo 38 in materia di corsi di aggiornamento dirigenziale da espletare ai sensi dell'articolo 2, comma 1, lettere bb), iii) e rrr) del decreto legislativo n. 95 del 2017; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    il decreto del Capo della polizia-Direttore generale della pubblica sicurezza 17 luglio 2018.
 
 Ogni richiamo alle disposizioni dei decreti di cui al comma 1 si intende riferito alle disposizioni del presente regolamento.
 

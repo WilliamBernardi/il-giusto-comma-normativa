@@ -8,8 +8,8 @@ codice_redazionale: 006G0277
 vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:21Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -223,6 +223,46 @@ Il lavoro puo' proseguire nella zona interessata solo se vengono prese misure ad
  1. Nei casi accertati di mesotelioma asbesto-correlati, trovano applicazione le disposizioni contenute nell'articolo 71, con la costituzione di un apposito registro nazionale presso l'ISPESL.».
 
 ## Art. 3. — Sanzioni
+
+1.
+                    
+                        
+                            All'articolo 89 del decreto legislativo 19 settembre 1994, n. 626, sono apportate le seguenti modificazioni:
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 1, dopo le parole: «49-quinquies, commi 1 e 6;» sono inserite le seguenti: «59-quinquies, commi 1 e 3;»;
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 2, lettera a), dopo le parole: «56, comma 2; 58;» sono inserite le seguenti: «59-sexies, commi 1, 2 e 4; 59-septies; 59-nonies, comma 1; 59-decies; 59-undecies; 59-duodecies, commi da 1 a 4; 59-terdecies; 59-quaterdecies; 59-quinquiesdecies, commi 1, 2 e 3; 59-sexiesdecies, commi 1, secondo periodo, e 2;»;
+
+                            
+                        
+                        
+                            c)
+                            
+                                al comma 2, lettera b), dopo le parole: «56, comma 1; 57;» sono inserite le seguenti: «59-quater, comma 1; 59-octies;»;
+
+                            
+                        
+                        
+                            d)
+                            
+                                al comma 2, dopo la lettera b-bis), e' aggiunta la seguente:
+«b-ter) con l'arresto fino a tre mesi o con l'ammenda da euro 250 a euro 1.000 per la violazione degli articoli 59-sexies, comma 3, e 59-duodecies, commi 5 e 7.»;
+
+                            
+                        
+                        
+                            e)
+                            
+                                al comma 3, dopo le parole: «11;» sono inserite le seguenti: «59-nonies, comma 3; 59-sexiesdecies, commi 3 e 4;».
 
 ## Art. 4. — Clausola di cedevolezza
 

@@ -7,8 +7,8 @@ urn: urn:nir:stato:decreto.del.presidente.del.consiglio.dei.ministri:2026-03-27;
 vigente: true
 source: normattiva-opendata
 collection: DPCM
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:40:13Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DEL CONSIGLIO DEI MINISTRI
@@ -24,6 +24,38 @@ Uditi i pareri del Consiglio di Stato espressi dalla Sezione consultiva per gli 
 
 ## Art. 1. — Definizioni
 
+1.
+                    
+                        
+                            Ai fini del presente regolamento si intende per: 
+ 
+                        
+                        
+                            a)
+                            
+                                «Codice»: il decreto legislativo 31 marzo 2023, n. 36, recante «Codice dei contratti pubblici in attuazione dell'articolo 1 della legge 21 giugno 2022, n. 78, recante delega al Governo in materia di contratti pubblici»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                «RUO»: il responsabile dell'unita' organizzativa, che agisce come stazione appaltante o ente concedente, o un suo delegato, di livello dirigenziale; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                «RUP»: il responsabile unico del progetto; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                «Presidenza»: la Presidenza del Consiglio dei ministri.
+
 ## Art. 2. — Oggetto e ambito di applicazione
 
 Il presente regolamento disciplina la ripartizione delle risorse da destinare agli incentivi per lo svolgimento di funzioni tecniche di cui all'articolo 45, comma 2, del Codice.
@@ -34,9 +66,96 @@ Sono esclusi dall'applicazione del presente regolamento i contratti di cui all'a
 
 ## Art. 3. — Misura degli incentivi
 
+1.
+                    
+                        
+                            Gli incentivi alle funzioni tecniche di cui all'articolo 45, comma 2, del Codice sono costituiti da una quota non superiore al 2 per cento dell'importo dei lavori, servizi e forniture, posti a base delle procedure di scelta del contraente, al netto dell'imposta sul valore aggiunto (IVA), comprensivi anche degli oneri previdenziali e assistenziali e dell'imposta regionale sulle attivita' produttive (IRAP), a carico della Presidenza, secondo i seguenti scaglioni e nei limiti delle relative aliquote: 
+ 
+                        
+                        
+                            a)
+                            
+                                per i lavori: 
+ 1) 2 per cento per importi fino a un milione di euro; 
+ 2) 1,8 per cento per importi superiori al milione di euro e fino alla soglia comunitaria; 
+ 3) 1,5 per cento per importi superiori alla soglia comunitaria e fino a venti milioni di euro; 
+ 4) 1 per cento per importi superiori a venti milioni di euro e fino a cinquanta milioni di euro; 
+ 5) 0,2 per cento per importi oltre cinquanta milioni di euro; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                per i servizi: 
+ 1) 2 per cento per importi inferiori alla soglia comunitaria; 
+ 2) 1,5 per cento per importi superiori alla soglia comunitaria e fino a cinquecentomila euro; 
+ 3) 1 per cento per importi superiori a cinquecentomila euro e fino a due milioni di euro; 
+ 4) 0,5 per cento per importi superiori a due milioni di euro; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                per le forniture: 
+ 1) 1,5 per cento per importi fino a un milione di euro; 
+ 2) 1 per cento per importi superiori a un milione di euro e fino a due milioni di euro; 
+ 3) 0,5 per cento per importi superiori a due milioni di euro.
+
 Ai sensi dell'articolo 45, comma 1, del Codice le somme di cui al comma 1 sono previste nell'ambito del quadro economico del progetto o del capitolato posto a base della procedura di scelta del contraente. Tali somme sono ricomprese, con specifica clausola, nell'impegno di spesa attinente al relativo contratto e fanno capo al medesimo capitolo di spesa previsto per i singoli lavori, servizi e forniture.
 
 Nel rispetto dell'articolo 45, comma 3, primo periodo, del Codice, l'80 per cento delle risorse di cui al comma 1 e' ripartito per ciascuna opera o lavoro, servizio o fornitura, tra il RUP e i soggetti che svolgono le funzioni tecniche indicate all'articolo 45, comma 2, del Codice, nonche' tra i loro collaboratori.
+
+4.
+                    
+                        
+                            Le percentuali effettive degli incentivi attribuibili per le funzioni tecniche di cui all'articolo 45 del Codice, svolte nell'ambito di procedure di affidamento aventi a oggetto opere o lavori, sono identificate, secondo le modalita' e i criteri previsti in sede di contrattazione decentrata integrativa del personale, nel rispetto dei seguenti valori minimi e massimi e, comunque, entro il valore complessivo percentuale inferiore o uguale a 100: 
+ 
+                        
+                        
+                            a)
+                            
+                                dal 25 per cento al 45 per cento, da ripartire per il gruppo del RUP; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                dal 20 per cento al 45 per cento, da ripartire per il gruppo della progettazione, programmazione e controllo della spesa e predisposizione dei documenti di gara; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                dal 25 per cento al 55 per cento, da ripartire per il gruppo della direzione dei lavori e del collaudo.
+
+5.
+                    
+                        
+                            Le percentuali effettive degli incentivi attribuibili alle funzioni tecniche di cui all'articolo 45 del Codice, svolte nell'ambito di procedure di affidamento aventi a oggetto servizi e forniture, sono identificate, secondo le modalita' e i criteri previsti in sede di contrattazione decentrata integrativa del personale, nel rispetto dei seguenti valori minimi e massimi e, comunque, entro il valore complessivo percentuale inferiore o uguale a 100: 
+ 
+                        
+                        
+                            a)
+                            
+                                dal 25 per cento al 45 per cento, da ripartire per il gruppo del RUP; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                dal 20 per cento al 45 per cento, da ripartire per il gruppo della progettazione, programmazione e controllo della spesa e predisposizione dei documenti di gara; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                dal 25 per cento al 55 per cento, da ripartire per il gruppo della direzione dell'esecuzione contrattuale e verifica della conformita'.
 
 I compensi incentivanti connessi alle prestazioni di cui all'articolo 45, commi 2 e 3, del Codice, svolte a favore della Presidenza da altre amministrazioni pubbliche, sono trasferiti, secondo modalita' stabilite in appositi accordi, alle stesse amministrazioni aggiudicatrici al fine di provvedere alla loro corresponsione, nel limite di cui all'articolo 45 del Codice.
 
@@ -51,6 +170,31 @@ Il RUO nomina gli incaricati delle funzioni tecniche di cui all'articolo 45 del 
 Nel provvedimento di conferimento dell'incarico, o con atto successivo, sono indicati, su proposta del RUP, i termini entro i quali devono essere eseguite le prestazioni.
 
 Tutti gli incarichi, compresi quelli di supporto e collaborazione tecnica ed amministrativa, devono essere formalizzati per iscritto prima dello svolgimento delle relative attivita'. Non si da' luogo a pagamenti in favore di personale che non risulti nominato con provvedimento formale.
+
+5.
+                    
+                        
+                            Sono soggetti interessati all'applicazione della presente disciplina: 
+ 
+                        
+                        
+                            a)
+                            
+                                il RUP e gli altri soggetti incaricati delle funzioni elencate nell'Allegato I.10 del Codice, connesse alla realizzazione di lavori e all'acquisizione di servizi o forniture nel caso in cui e' nominato il direttore dell'esecuzione, ivi inclusi gli appalti di manutenzione ordinaria e straordinaria di particolare complessita'; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                il direttore dell'esecuzione nei casi in cui e' prevista la nomina; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                i collaboratori dei soggetti di cui alla lettera a), individuati nell'atto formale.
 
 Non possono essere conferiti incarichi a coloro che sono stati condannati, anche con sentenza non passata in giudicato, per i reati previsti nel capo I del titolo II del libro secondo del Codice penale, ne' ai soggetti che, nei due anni antecedenti, siano stati interessati da provvedimenti disciplinari, ad esclusione del rimprovero verbale o scritto, ovvero al personale interessato da misure cautelari di sospensione dal servizio. Il RUO accerta preliminarmente la sussistenza delle predette condizioni ostative.
 
@@ -76,11 +220,96 @@ La determinazione degli importi spettanti al personale incaricato avviene con pr
 
 La liquidazione puo' essere corrisposta anche in corrispondenza dei certificati di pagamento emessi sulla base degli stati di avanzamento lavori. Per i servizi e le forniture la liquidazione puo' essere corrisposta in concomitanza all'emissione dei certificati di pagamento prodotti a seguito delle verifiche periodiche di conformita' o di regolare esecuzione.
 
+3.
+                    
+                        
+                            Le prestazioni sono considerate rese: 
+ 
+                        
+                        
+                            a)
+                            
+                                per la direzione lavori, con l'emissione del certificato di ultimazione lavori; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                per il collaudo tecnico amministrativo, con l'emissione del certificato di collaudo finale; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                per la programmazione della spesa per investimenti, con l'emanazione del relativo provvedimento; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                per la verifica dei progetti, con l'invio al responsabile unico del progetto della relazione finale di verifica; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                per le procedure di bando, con la pubblicazione dell'aggiudicazione; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                per l'esecuzione dei contratti in caso di forniture e servizi, con l'espletamento delle verifiche periodiche; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                per le verifiche di conformita', con l'emissione della certificazione di regolare esecuzione.
+
 Nel caso in cui alla stessa unita' di personale siano affidati, nell'ambito della medesima opera o lavoro, piu' incarichi tecnici la quota dell'incentivo spettante e' pari alla somma delle quote relative alle singole prestazioni svolte, nei limiti di cui al comma 6.
 
 In caso di cessazione dell'incarico per motivazioni diverse da quelle di cui agli articoli 7 e 8, l'incentivo spettante e' liquidato in proporzione alle attivita' effettivamente svolte.
 
 Ferma restando l'applicazione dell'articolo 23-ter del decreto-legge 6 dicembre 2011, n. 201, convertito, con modificazioni, dalla legge 22 dicembre 2011, n. 214, ai sensi dell'articolo 45, comma 4, del Codice, l'incentivo complessivamente maturato da ciascuna unita' di personale nel corso dell'anno di competenza, anche per attivita' svolte per conto di altre amministrazioni, non puo' superare l'importo del 100 per cento del trattamento economico complessivo annuo lordo, percepito nella medesima annualita' di riferimento dalla stessa unita' di personale. Ove la Presidenza adotti i metodi e gli strumenti di gestione informativa digitale delle costruzioni di cui all'articolo 43 del Codice il limite di cui al primo periodo e' aumentato del 15 per cento, in relazione alle attivita' svolte nell'anno di riferimento.
+
+7.
+                    
+                        
+                            Ai fini della liquidazione, viene redatta una scheda sottoscritta dal RUO, controfirmata dal personale incaricato, contenente: 
+ 
+                        
+                        
+                            a)
+                            
+                                il tipo di attivita' assegnata nonche' da svolgere; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                la percentuale realizzata nell'anno di competenza; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                i tempi previsti e i tempi effettivi; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                l'indicazione dell'importo dell'incentivo da liquidare, in conformita' dell'attivita' svolta rispetto a quanto assegnato.
 
 ## Art. 7.
 
@@ -93,6 +322,24 @@ L'incarico e' revocato e non e' corrisposto alcun incentivo qualora il ritardo d
 ## Art. 8.
 
 Altre ipotesi di responsabilita'
+
+1.
+                    
+                        
+                            L'incarico e' revocato e non e' corrisposto alcun incentivo al soggetto incaricato che, nello svolgimento dei compiti assegnati per l'esecuzione di funzioni tecniche, risulti responsabile di: 
+ 
+                        
+                        
+                            a)
+                            
+                                violazioni degli obblighi previsti dalla legge, dalla contrattazione collettiva di lavoro e dal codice di comportamento; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                errori, omissioni o negligenze, non ricompresi nei casi di cui alla lettera a), tali da determinare aumenti dei costi previsti nel quadro economico o danni per la Presidenza.
 
 ## Art. 9.
 

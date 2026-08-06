@@ -8,8 +8,8 @@ vigente: true
 source: normattiva-opendata
 collection: Leggi delega e relativi provvedimenti delegati
 vigenza_date: 2019-03-28
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:41:18Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -27,6 +27,55 @@ Sulla proposta del Presidente del Consiglio dei ministri e del Ministro dell'eco
 ## Art. 1. — Modifiche al decreto legislativo 
  1° settembre 1993, n. 385
 
+1.
+                    
+                        
+                            L'articolo 1 del decreto legislativo 1° settembre 1993, n. 385, e' cosi' modificato: 
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 1, la lettera e) e' sostituita dalla seguente: 
+ «e) "IVASS" indica l'Istituto per la vigilanza sulle assicurazioni;»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 1, la lettera f) e' soppressa; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                al comma 1, la lettera m) e' soppressa; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                al comma 2, dopo la lettera h-bis) e' inserita la seguente: 
+ «h-bis.1) "istituti di moneta elettronica comunitari": gli istituti di moneta elettronica aventi sede legale e amministrazione centrale in uno stesso Stato comunitario diverso dall'Italia;»; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                al comma 2, dopo la lettera h-octies) e' aggiunta la seguente: 
+ «h-novies) "personale": i dipendenti e coloro che comunque operano sulla base di rapporti che ne determinano l'inserimento nell'organizzazione aziendale, anche in forma diversa dal rapporto di lavoro subordinato»; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                al comma 3, le parole: «, in conformita' delle deliberazioni del CICR,» sono soppresse.
+
 All'articolo 4, comma 1, del decreto legislativo 1° settembre 1993, n. 385, le parole: «nei titoli II e III» sono sostituite dalle seguenti: «nel titolo II».
 
 All'articolo 6 del decreto legislativo 1° settembre 1993, n. 385, dopo il comma 3 e' inserito il seguente: 
@@ -38,9 +87,81 @@ All'articolo 7, comma 5, del decreto legislativo 1° settembre 1993, n. 385, la 
 L'articolo 8, comma 1, del decreto legislativo 1° settembre 1993, n. 385, e' sostituito dal seguente: 
  «1. La Banca d'Italia pubblica sul proprio sito web i provvedimenti di carattere generale emanati dalle autorita' creditizie nonche' altri provvedimenti rilevanti relativi ai soggetti sottoposti a vigilanza.».
 
+6.
+                    
+                        
+                            L'articolo 12 del decreto legislativo 1° settembre 1993, n. 385, e' cosi' modificato: 
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 5, le parole: «, in conformita' delle deliberazioni del CICR,» sono soppresse; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 6, le parole: «, in conformita' delle deliberazioni del CICR,» sono soppresse.
+
+7.
+                    
+                        
+                            L'articolo 14 del decreto legislativo 1° settembre 1993, n. 385, e' cosi' modificato: 
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 1, la lettera d) e' sostituita dalla seguente: 
+ «d) sussistano i presupposti per il rilascio dell'autorizzazione prevista dall'articolo 19 per i titolari delle partecipazioni ivi indicate;»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 1, la lettera e) e' sostituita dalla seguente: 
+ «e) i soggetti che svolgono funzioni di amministrazione, direzione e controllo siano idonei, ai sensi dell'articolo 26;»; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                il comma 2-bis e' abrogato; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                dopo il comma 4, e' aggiunto il seguente: 
+ «4-bis. La Banca d'Italia emana disposizioni attuative del presente articolo, con particolare riguardo alla procedura di autorizzazione e alle modalita' di presentazione dell'istanza, ai criteri di valutazione delle condizioni previste dal comma 1, alle ipotesi di decadenza e di revoca dell'autorizzazione.».
+
 All'articolo 17, comma 1, del decreto legislativo 1° settembre 1993, n. 385, le parole: «, in conformita' delle deliberazioni del CICR,» sono soppresse.
 
 All'articolo 18, comma 5, del decreto legislativo 1° settembre 1993, n. 385, dopo le parole: «dall'articolo 79» sono aggiunte le seguenti: «, commi 1, 3 e 4».
+
+10.
+                    
+                        
+                            L'articolo 19 del decreto legislativo 1° settembre 1993, n. 385, e' cosi' modificato: 
+ 
+                        
+                        
+                            a)
+                            
+                                il comma 5 e' sostituito dal seguente: 
+ «5. La Banca d'Italia rilascia l'autorizzazione quando ricorrono condizioni atte a garantire una gestione sana e prudente della banca, valutando la qualita' del potenziale acquirente e la solidita' finanziaria del progetto di acquisizione in base ai seguenti criteri: la reputazione del potenziale acquirente ai sensi dell'articolo 25; l'idoneita', ai sensi dell'articolo 26, di coloro che, in esito all'acquisizione, svolgeranno funzioni di amministrazione, direzione e controllo nella banca; la solidita' finanziaria del potenziale acquirente; la capacita' della banca di rispettare a seguito dell'acquisizione le disposizioni che ne regolano l'attivita'; l'idoneita' della struttura del gruppo del potenziale acquirente a consentire l'esercizio efficace della vigilanza. L'autorizzazione non puo' essere rilasciata in caso di fondato sospetto che l'acquisizione sia connessa ad operazioni di riciclaggio o di finanziamento del terrorismo. L'autorizzazione puo' essere sospesa o revocata se vengono meno o si modificano i presupposti e le condizioni per il suo rilascio.»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 9, le parole: «, in conformita' delle deliberazioni del CICR» sono soppresse.
 
 La rubrica del capo IV del titolo II del decreto legislativo 1° settembre 1993, n. 385, e' sostituita dalla seguente: «Partecipanti al capitale ed esponenti aziendali».
 
@@ -92,6 +213,55 @@ La Banca d'Italia riceve, da parte del personale delle banche e delle relative c
  3. La Banca d'Italia si avvale delle informazioni contenute nelle segnalazioni, ove rilevanti, esclusivamente nell'esercizio delle funzioni di vigilanza e per il perseguimento delle finalita' previste dall'articolo 5. 
  4. Nel caso di accesso ai sensi degli articoli 22, e seguenti, della legge 7 agosto 1990, n. 241, l'ostensione del documento e' effettuata con modalita' che salvaguardino comunque la riservatezza del segnalante. Si applica l'articolo 52-bis, commi 3 e 4.».
 
+19.
+                    
+                        
+                            L'articolo 53 del decreto legislativo 1° settembre 1993, n. 385, e' cosi' modificato: 
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 1, le parole: «, in conformita' delle deliberazioni del CICR,» sono soppresse; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                il comma 2 e' abrogato; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                il comma 3 e' abrogato; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                il comma 4 e' sostituito dal seguente: 
+ «4. La Banca d'Italia disciplina condizioni e limiti per l'assunzione, da parte delle banche o dei gruppi bancari, di attivita' di rischio nei confronti di coloro che possono esercitare, direttamente o indirettamente, un'influenza sulla gestione della banca o del gruppo bancario nonche' dei soggetti a essi collegati. In ogni caso i soci e gli amministratori, fermi restando gli obblighi previsti dall'articolo 2391, primo comma, del codice civile, si astengono dalle deliberazioni in cui abbiano un interesse in conflitto, per conto proprio o di terzi. Ove verifichi in concreto l'esistenza di situazioni di conflitto di interessi, la Banca d'Italia puo' stabilire condizioni e limiti specifici per l'assunzione delle attivita' di rischio.»; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                al comma 4-quater le parole: «, in conformita' alle deliberazioni del CICR,» sono soppresse; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                dopo il comma 4-quater, sono aggiunti i seguenti: 
+ «4-quinquies. Le disposizioni emanate ai sensi del presente articolo possono prevedere che determinate operazioni siano sottoposte ad autorizzazione della Banca d'Italia. Possono inoltre prevedere che determinate decisioni in materia di remunerazione e di incentivazione siano rimesse alla competenza dell'assemblea dei soci, anche nel modello dualistico di amministrazione e controllo, stabilendo quorum costitutivi e deliberativi anche in deroga a norme di legge. 
+ 4-sexies. E' nullo qualunque patto o clausola non conforme alle disposizioni in materia di sistemi di remunerazione e di incentivazione emanate ai sensi del comma 1, lettera d), o contenute in atti dell'Unione europea direttamente applicabili. La nullita' della clausola non comporta la nullita' del contratto. Le previsioni contenute nelle clausole nulle sono sostituite di diritto, ove possibile, con i parametri indicati nelle disposizioni suddette nei valori piu' prossimi alla pattuizione originaria.».
+
 Dopo l'articolo 53 del decreto legislativo 1° settembre 1993, n. 385, sono inseriti i seguenti: 
  «Art. 53-bis (Poteri di intervento). - 1. La Banca d'Italia puo': 
  a) convocare gli amministratori, i sindaci e il personale delle banche; 
@@ -119,6 +289,45 @@ L'articolo 62 del decreto legislativo 1° settembre 1993, n. 385, e' sostituito 
 All'articolo 66 del decreto legislativo 1° settembre 1993, n. 385, dopo il comma 5, sono aggiunti i seguenti: 
  «5-bis. La Banca d'Italia puo' chiedere informazioni al personale dei soggetti indicati al comma 1, anche per il tramite di questi ultimi, e per i medesimi fini ivi indicati. 
  5-ter. Gli obblighi previsti dai commi 1, 2 e 4 si applicano anche ai soggetti ai quali siano state esternalizzate funzioni aziendali essenziali o importanti e al loro personale.».
+
+27.
+                    
+                        
+                            L'articolo 67 del decreto legislativo 1° settembre 1993, n. 385, e' cosi' modificato: 
+ 
+                        
+                        
+                            a)
+                            
+                                il comma 1 e' sostituito dal seguente: 
+ «1. Al fine di esercitare la vigilanza consolidata, la Banca d'Italia impartisce alla capogruppo, con provvedimenti di carattere generale, disposizioni concernenti il gruppo bancario complessivamente considerato o suoi componenti, aventi ad oggetto: 
+ a) l'adeguatezza patrimoniale; 
+ b) il contenimento del rischio nelle sue diverse configurazioni; 
+ c) le partecipazioni detenibili; 
+ d) il governo societario, l'organizzazione amministrativa e contabile, nonche' i controlli interni e i sistemi di remunerazione e di incentivazione; 
+ e) l'informativa da rendere al pubblico sulle materie di cui al presente comma.». 
+
+                            
+                        
+                        
+                            b)
+                            
+                                il comma 2 e' abrogato; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                il comma 2-ter e' abrogato; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                dopo il comma 3-bis, e' aggiunto il seguente: 
+ «3-ter. Si applicano l'articolo 53, commi 4-quinquies e 4-sexies, e l'articolo 53-ter.».
 
 Dopo l'articolo 67-bis del decreto legislativo 1° settembre 1993, n. 385, e' inserito il seguente: 
  «Art. 67-ter (Poteri di intervento). - 1. La Banca d'Italia puo': 
@@ -151,11 +360,512 @@ Dopo l'articolo 98 del decreto legislativo 1° settembre 1993, n. 385, e' inseri
  2. Il provvedimento fissa la data da cui decorre la rimozione dei componenti degli organi. La Banca d'Italia convoca l'assemblea della capogruppo per il rinnovo degli organi con funzioni di amministrazione e controllo. 
  3. Resta salva la possibilita' in ogni momento di disporre l'amministrazione straordinaria della capogruppo di cui all'articolo 98, secondo le modalita' e con gli effetti previsti dal presente capo.».
 
+34.
+                    
+                        
+                            L'articolo 107, comma 1, del decreto legislativo 1° settembre 1993, n. 385, e' cosi' modificato: 
+ 
+                        
+                        
+                            a)
+                            
+                                la lettera e) e' sostituita dalla seguente: 
+ «e) sussistano i presupposti per il rilascio dell'autorizzazione prevista dall'articolo 19 per i titolari delle partecipazioni ivi indicate;»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                dopo la lettera e), e' inserita la seguente: 
+ «e-bis) i soggetti che svolgono funzioni di amministrazione, direzione e controllo siano idonei, secondo quanto previsto ai sensi dell'articolo 110;».
+
+35.
+                    
+                        
+                            L'articolo 108 del decreto legislativo 1° settembre 1993, n. 385, e' cosi' modificato: 
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 3, dopo la lettera d), e' aggiunta la seguente: 
+ «d-bis) disporre, qualora la loro permanenza in carica sia di pregiudizio per la sana e prudente gestione dell'intermediario finanziario, la rimozione dalla carica di uno o piu' esponenti aziendali; la rimozione non e' disposta ove ricorrano gli estremi per pronunciare la decadenza ai sensi dell'articolo 26, salvo che sussista urgenza di provvedere.»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                dopo il comma 3, e' inserito il seguente: 
+ «3-bis. La Banca d'Italia puo' altresi' convocare gli amministratori, i sindaci, i dirigenti dei soggetti ai quali siano state esternalizzate funzioni aziendali essenziali o importanti.»; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                dopo il comma 4, sono inseriti i seguenti: 
+ «4-bis. La Banca d'Italia puo' chiedere informazioni al personale degli intermediari finanziari, anche per il tramite di questi ultimi. 
+ 4-ter. Gli obblighi previsti dal comma 4 si applicano anche ai soggetti ai quali gli intermediari finanziari abbiano esternalizzato funzioni aziendali essenziali o importanti e al loro personale.»; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                al comma 5, dopo le parole: «presso gli intermediari finanziari» sono inserite le seguenti: «o i soggetti a cui sono esternalizzate funzioni aziendali essenziali o importanti».
+
+36.
+                    
+                        
+                            L'articolo 109 del decreto legislativo 1° settembre 1993, n. 385, e' cosi' modificato: 
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 3, lettera c), e' aggiunto in fine il seguente periodo: «I poteri previsti dalla presente lettera si applicano anche ai soggetti ai quali siano state esternalizzate funzioni aziendali essenziali o importanti.»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                dopo il comma 3, sono aggiunti i seguenti: 
+ «3-bis. La Banca d'Italia puo' chiedere informazioni al personale dei soggetti indicati al comma 3, lettera b), anche per il tramite di questi ultimi e per i medesimi fini ivi indicati. 
+ 3-ter. Gli obblighi e i poteri previsti dal comma 3, lettera b), si applicano anche ai soggetti ai quali siano state esternalizzate funzioni aziendali essenziali o importanti e al loro personale.».
+
+37.
+                    
+                        
+                            L'articolo 110 del decreto legislativo 1° settembre 1993, n. 385, e' cosi' modificato: 
+ 
+                        
+                        
+                            a)
+                            
+                                il comma 1 e' sostituito dal seguente: 
+ «1. Agli intermediari finanziari si applicano, in quanto compatibili, le disposizioni contenute negli articoli 19, 20, 21, 22, 23, 24, 47, 52, 61, commi 4 e 5, 62, 63, 64, 78 e 82.»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                dopo il comma 1, sono aggiunti i seguenti: 
+ «1-bis. Ai soggetti che svolgono funzioni di amministrazione, direzione e controllo presso intermediari finanziari si applica l'articolo 26, ad eccezione del comma 3, lettere c) ed e); il decreto di cui all'articolo 26 puo' prevedere l'applicazione dei criteri di competenza definiti ai sensi del medesimo articolo, comma 3, lettera c), avuto riguardo alla complessita' operativa, dimensionale e organizzativa degli intermediari, nonche' alla natura specifica dell'attivita' svolta. 
+ 1-ter. Ai titolari delle partecipazioni indicate all'articolo 19 in intermediari finanziari si applica l'articolo 25, ad eccezione del comma 2, lettera b); il decreto di cui all'articolo 25 puo' prevedere l'applicazione dei criteri di competenza definiti ai sensi del medesimo articolo, comma 2, lettera b), avuto riguardo alla complessita' operativa, dimensionale e organizzativa degli intermediari, nonche' alla natura specifica dell'attivita' svolta.».
+
 L'articolo 112, comma 2, del decreto legislativo 1° settembre 1993, n. 385, e' sostituito dal seguente: 
  «2. L'iscrizione e' subordinata al ricorrere delle condizioni di forma giuridica, di capitale sociale o fondo consortile, patrimoniali, di oggetto sociale e di assetto proprietario individuate dall'articolo 13 del decreto-legge 30 settembre 2003, n. 269, convertito, con modificazioni, dalla legge 24 novembre 2003, n. 326, nonche' al possesso da parte di coloro che detengono partecipazioni e dei soggetti che svolgono funzioni di amministrazione, direzione e controllo dei requisiti di onorabilita' stabiliti ai sensi degli articoli 25, comma 2, lettera a), e 26, comma 3, lettera a). La sede legale e quella amministrativa devono essere situate nel territorio della Repubblica.».
 
+39.
+                    
+                        
+                            L'articolo 114-quinquies del decreto legislativo 1° settembre 1993, n. 385, e' cosi' modificato: 
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 1, la lettera e) e' sostituita dalla seguente: 
+ «e) sussistano i presupposti per il rilascio dell'autorizzazione prevista dall'articolo 19 per i titolari delle partecipazioni ivi indicate;»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 1, dopo la lettera e), e' inserita la seguente: 
+ «e-bis) i soggetti che svolgono funzioni di amministrazione, direzione e controllo siano idonei, secondo quanto previsto ai sensi dell'articolo 114-quinquies.3;»; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                al comma 4, la lettera c), e' sostituita dalla seguente: 
+ «c) siano individuati uno o piu' soggetti responsabili del patrimonio di cui alla lettera b); ad essi si applica l'articolo 26, comma 3, lettere a) e b).».
+
+40.
+                    
+                        
+                            L'articolo 114-quinquies.2 del decreto legislativo 1° settembre 1993, n. 385, e' cosi' modificato: 
+ 
+                        
+                        
+                            a)
+                            
+                                dopo il comma 1, sono inseriti i seguenti: 
+ «1-bis. La Banca d'Italia puo' chiedere informazioni al personale degli istituti di moneta elettronica, anche per il tramite di questi ultimi. 
+ 1-ter. Gli obblighi previsti dal comma 1 si applicano anche ai soggetti ai quali gli istituti di moneta elettronica abbiano esternalizzato funzioni aziendali essenziali o importanti e al loro personale.»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 3, dopo la lettera d), e' aggiunta la seguente: 
+ «d-bis) disporre, qualora la loro permanenza in carica sia di pregiudizio per la sana e prudente gestione dell'istituto di moneta elettronica, la rimozione dalla carica di uno o piu' esponenti; la rimozione non e' disposta ove ricorrano gli estremi per pronunciare la decadenza ai sensi dell'articolo 26, salvo che sussista urgenza di provvedere.»; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                dopo il comma 3, e' inserito il seguente: 
+ «3-bis. La Banca d'Italia puo' altresi' convocare gli amministratori, i sindaci, i dirigenti dei soggetti ai quali siano state esternalizzate funzioni aziendali essenziali o importanti.»; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                il comma 4 e' sostituito dal seguente: 
+ «4. La Banca d'Italia puo' effettuare ispezioni presso gli istituti di moneta elettronica, i loro agenti o i soggetti a cui sono esternalizzate funzioni aziendali essenziali o importanti attivita' e richiedere a essi l'esibizione di documenti e gli atti che ritenga necessari. La Banca d'Italia notifica all'autorita' competente dello Stato comunitario ospitante l'intenzione di effettuare ispezioni sul territorio di quest'ultimo nei confronti di istituti di moneta elettronica, dei loro agenti o dei soggetti a cui sono esternalizzate funzioni aziendali essenziali o importanti ovvero richiede alle autorita' competenti del medesimo Stato comunitario di effettuare tali accertamenti.»; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                al comma 5, dopo le parole: «o i soggetti a cui sono esternalizzate» sono inserite le seguenti: «funzioni aziendali essenziali o importanti»; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                dopo il comma 6, sono aggiunti i seguenti: 
+ «6-bis. In caso di violazione, da parte di istituti di moneta elettronica comunitari che non esercitano attivita' imprenditoriali diverse dall'emissione di moneta elettronica o dalla prestazione di servizi di pagamento, delle disposizioni relative alle succursali o alla prestazione di servizi nel territorio della Repubblica, la Banca d'Italia puo' ordinare all'istituto di moneta elettronica di porre termine a tali irregolarita', dandone comunicazione all'autorita' competente dello Stato membro in cui l'istituto di moneta elettronica ha sede legale per i provvedimenti eventualmente necessari. 
+ 6-ter. Quando manchino o risultino inadeguati i provvedimenti dell'autorita' competente, quando le irregolarita' commesse possano pregiudicare interessi generali ovvero nei casi di urgenza per la tutela delle ragioni dei depositanti, dei risparmiatori e degli altri soggetti ai quali sono prestati i servizi, la Banca d'Italia adotta le misure necessarie, comprese l'imposizione del divieto di intraprendere nuove operazioni e la chiusura della succursale.».
+
+41.
+                    
+                        
+                            L'articolo 114-quinquies.3 del decreto legislativo 1° settembre 1993, n. 385, e' cosi' modificato: 
+ 
+                        
+                        
+                            a)
+                            
+                                il comma 1 e' sostituito dal seguente: 
+ «1. Agli istituti di moneta elettronica si applicano, in quanto compatibili, le disposizioni contenute negli articoli 19, 20, 21, 22, 23, 24, 52, 139 e 140 nonche' nel titolo VI. Agli emittenti che agiscono in veste di pubblica autorita' si applicano solo gli articoli 114-ter e 126-novies nonche', relativamente a queste disposizioni, gli articoli 39 e 40 del decreto legislativo 27 gennaio 2010, n. 11.»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                dopo il comma 1, sono inseriti i seguenti: 
+ «1-bis. Ai soggetti che svolgono funzioni di amministrazione, direzione e controllo presso istituti di moneta elettronica si applica l'articolo 26, ad eccezione del comma 3, lettere c) ed e); il decreto di cui all'articolo 26 puo' prevedere l'applicazione dei criteri di competenza definiti ai sensi del medesimo articolo, comma 3, lettera c), avuto riguardo alla complessita' operativa, dimensionale e organizzativa degli istituti, nonche' alla natura specifica dell'attivita' svolta. 
+ 1-ter. Ai titolari delle partecipazioni indicate all'articolo 19 in istituti di moneta elettronica si applica l'articolo 25, ad eccezione del comma 2, lettera b); il decreto di cui all'articolo 25 puo' prevedere l'applicazione dei criteri di competenza definiti ai sensi del medesimo articolo, comma 2, lettera b), avuto riguardo alla complessita' operativa, dimensionale e organizzativa degli istituti, nonche' alla natura specifica dell'attivita' svolta.»; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                il comma 2 e' sostituito dal seguente: 
+ «2. Agli istituti di moneta elettronica che non esercitano attivita' imprenditoriali diverse dall'emissione di moneta elettronica o dalla prestazione di servizi di pagamento, si applicano altresi' gli articoli 78, 82, 113-bis e 113-ter.».
+
+42.
+                    
+                        
+                            L'articolo 114-novies, comma 1, del decreto legislativo 1° settembre 1993, n. 385, e' cosi' modificato: 
+ 
+                        
+                        
+                            a)
+                            
+                                la lettera e) e' sostituita dalla seguente: 
+ «e) sussistano i presupposti per il rilascio dell'autorizzazione prevista dall'articolo 19 per i titolari delle partecipazioni ivi indicate;»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                dopo la lettera e) e' inserita la seguente: 
+ «e-bis) i soggetti che svolgono funzioni di amministrazione, direzione e controllo siano idonei, secondo quanto previsto ai sensi dell'articolo 114-undecies;».
+
+43.
+                    
+                        
+                            L'articolo 114-undecies del decreto legislativo 1° settembre 1993, n. 385, e' cosi' modificato: 
+ 
+                        
+                        
+                            a)
+                            
+                                il comma 1 e' sostituito dal seguente: 
+ «1. Agli istituti di pagamento si applicano, in quanto compatibili, le disposizioni contenute negli articoli 19, 20, 21, 22, 23, 24, 52, 139 e 140 nonche' nel titolo VI.»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                dopo il comma 1, sono inseriti i seguenti: 
+ «1-bis. Ai soggetti che svolgono funzioni di amministrazione, direzione e controllo presso istituti di pagamento si applica l'articolo 26, ad eccezione del comma 3, lettere c) ed e); il decreto di cui all'articolo 26 puo' prevedere l'applicazione dei criteri di competenza definiti ai sensi del medesimo articolo, comma 3, lettera c), avuto riguardo alla complessita' operativa, dimensionale e organizzativa degli istituti, nonche' alla natura specifica dell'attivita' svolta. 
+ 1-ter. Ai titolari delle partecipazioni indicate all'articolo 19 in istituti di pagamento si applica l'articolo 25, ad eccezione del comma 2, lettera b); il decreto di cui all'articolo 25 puo' prevedere l'applicazione dei criteri di competenza definiti ai sensi del medesimo articolo, comma 2, lettera b), avuto riguardo alla complessita' operativa, dimensionale e organizzativa degli istituti, nonche' alla natura specifica dell'attivita' svolta.»; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                il comma 2 e' sostituito dal seguente: 
+ «2. Agli istituti di pagamento che non esercitino attivita' imprenditoriali diverse dalla prestazione dei servizi di pagamento ai sensi dell'articolo 114-novies, comma 4, si applicano altresi' gli articoli 78, 82, 113-bis e 113-ter, ad eccezione del comma 7, 114-quinquies.2, commi 6-bis e 6-ter.».
+
+44.
+                    
+                        
+                            L'articolo 114-quaterdecies del decreto legislativo 1° settembre 1993, n. 385, e' cosi' modificato: 
+ 
+                        
+                        
+                            a)
+                            
+                                dopo il comma 1, sono inseriti i seguenti: 
+ «1-bis. La Banca d'Italia puo' chiedere informazioni al personale degli istituti di pagamento, anche per il tramite di questi ultimi. 
+ 1-ter. Gli obblighi previsti dal comma 1 si applicano anche ai soggetti ai quali gli istituti di pagamento abbiano esternalizzato funzioni aziendali essenziali o importanti e al loro personale.»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 3, dopo la lettera d) e' aggiunta la seguente: 
+ «d-bis) disporre, qualora la loro permanenza in carica sia di pregiudizio per la sana e prudente gestione dell'istituto di pagamento, la rimozione dalla carica di uno o piu' esponenti aziendali; la rimozione non e' disposta ove ricorrano gli estremi per pronunciare la decadenza ai sensi dell'articolo 26, salvo che sussista urgenza di provvedere.»; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                dopo il comma 3, e' inserito il seguente: 
+ «3-bis. La Banca d'Italia puo' altresi' convocare gli amministratori, i sindaci e i dirigenti dei soggetti ai quali siano state esternalizzate funzioni aziendali essenziali o importanti.»; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                il comma 4 e' sostituito dal seguente: 
+ «4. La Banca d'Italia puo' effettuare ispezioni presso gli istituti di pagamento, i loro agenti o i soggetti a cui sono esternalizzate funzioni aziendali essenziali o importanti e richiedere a essi l'esibizione di documenti e gli atti che ritenga necessari. La Banca d'Italia notifica all'autorita' competente dello Stato comunitario ospitante l'intenzione di effettuare ispezioni sul territorio di quest'ultimo nei confronti di istituti di pagamento, dei loro agenti o dei soggetti a cui sono esternalizzate funzioni aziendali essenziali o importanti ovvero richiede alle autorita' competenti del medesimo Stato comunitario di effettuare tali accertamenti.»; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                il comma 5 e' sostituito dal seguente: 
+ «5. Le autorita' competenti di uno Stato comunitario, dopo aver informato la Banca d'Italia, possono ispezionare, anche tramite persone da esse incaricate, gli istituti di pagamento comunitari, i loro agenti o i soggetti a cui sono esternalizzate funzioni aziendali essenziali o importanti che operano nel territorio della Repubblica.
+Se le autorita' competenti di uno Stato comunitario lo richiedono, la Banca d'Italia puo' procedere direttamente agli accertamenti.».
+
+45.
+                    
+                        
+                            L'articolo 128 del decreto legislativo 1° settembre 1993, n. 385, e' cosi' modificato: 
+ 
+                        
+                        
+                            a)
+                            
+                                il comma 2 e' sostituito dal seguente: 
+ «2. Con riguardo ai beneficiari e ai terzi destinatari delle disposizioni previste dall'articolo 126-quater, comma 3, i controlli previsti dal comma 1 sono demandati al Ministro dello sviluppo economico al quale compete, inoltre, l'irrogazione delle sanzioni previste dall'articolo 144, commi 1, lettere b), c), d), ed e), e 4.»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                il comma 3, e' sostituito dal seguente: 
+ «3. Con riguardo ai soggetti individuati ai sensi dell'articolo 115, comma 2, il CICR indica le autorita' competenti a effettuare i controlli previsti dal comma 1 e a irrogare le sanzioni previste dall'articolo 144, commi 1, lettere b), c), d), ed e), e 4.».
+
 All'articolo 128-ter, comma 1, del decreto legislativo 1° settembre 1993, n. 385, la lettera d) e' sostituita dalla seguente: 
  «d) pubblicare i provvedimenti di cui al presente articolo sul sito web della Banca d'Italia e disporre altre forme di pubblicazione, eventualmente a cura e spese dell'intermediario.».
+
+47.
+                    
+                        
+                            L'articolo 133 del decreto legislativo 1° settembre 1993, n. 385, e' cosi' modificato: 
+ 
+                        
+                        
+                            a)
+                            
+                                il comma 3 e' sostituito dal seguente: 
+ «3. Chiunque contravviene al disposto dei commi 1, 1-bis, 1-ter e 1-quater e' punito con la sanzione amministrativa pecuniaria da 5.000 a 5 milioni di euro. Se la violazione e' commessa da una societa' o un ente, e' applicata la sanzione amministrativa pecuniaria da euro 30.000 fino al 10 per cento del fatturato. Le stesse sanzioni si applicano a chi, attraverso informazioni e comunicazioni in qualsiasi forma, induce in altri il falso convincimento di essere sottoposto alla vigilanza della Banca d'Italia ai sensi dell'articolo 108 o di essere abilitato all'esercizio delle attivita' di cui all'articolo 111.»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                dopo il comma 3, e' aggiunto il seguente: 
+ «3-bis. Si applica l'articolo 144, comma 9.».
+
+48.
+                    
+                        
+                            L'articolo 136 del decreto legislativo 1° settembre 1993, n. 385, e' cosi' modificato: 
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 1, dopo le parole: «presa all'unanimita'» sono inserite le seguenti: «con l'esclusione del voto dell'esponente interessato»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                il comma 3 e' sostituito dal seguente: 
+ «3. L'inosservanza delle disposizioni del comma 1 e' punita con la reclusione da uno a tre anni e con la multa da 206 a 2.066 euro.».
+
+49.
+                    
+                        
+                            L'articolo 139 del decreto legislativo 1° settembre 1993, n. 385, e' cosi' modificato: 
+ 
+                        
+                        
+                            a)
+                            
+                                il comma 1 e' sostituito dal seguente: 
+ «1. L'omissione delle domande di autorizzazione previste dall'articolo 19, la violazione degli obblighi di comunicazione previsti dall'articolo 20, comma 2, nonche' la violazione delle disposizioni dell'articolo 24, commi 1 e 3, dell'articolo 25, comma 3, sono punite con la sanzione amministrativa pecuniaria da 5.000 a 5 milioni di euro. Se la violazione e' commessa da una societa' o un ente, e' applicata la sanzione amministrativa pecuniaria da euro 30.000 fino al 10 per cento del fatturato.»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                il comma 1-bis e' sostituito dal seguente: 
+ «1-bis. Le medesime sanzioni si applicano alla violazione delle norme di cui al comma 1, in quanto richiamate dall'articolo 110.»; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                dopo il comma 3, e' aggiunto il seguente: 
+ «3-bis. Si applica l'articolo 144, comma 9.».
+
+50.
+                    
+                        
+                            L'articolo 140 del decreto legislativo 1° settembre 1993, n. 385, e' cosi' modificato: 
+ 
+                        
+                        
+                            a)
+                            
+                                il comma 1 e' sostituito dal seguente: 
+ «1. L'omissione delle comunicazioni previste dagli articoli 20, commi 1, 3, primo periodo, e 4, 21, commi 1, 2, 3 e 4, 63 e' punita con la sanzione amministrativa pecuniaria da 5.000 a 5 milioni di euro. Se la violazione e' commessa da una societa' o un ente, e' applicata la sanzione amministrativa pecuniaria da euro 30.000 fino al 10 per cento del fatturato.»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                il comma 1-bis e' sostituito dal seguente: 
+ «1-bis. Le medesime sanzioni si applicano per l'omissione delle comunicazioni di cui alle norme indicate nel comma 1, in quanto richiamate dall'articolo 110.»; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                dopo il comma 2, e' aggiunto il seguente: 
+ «2-bis. Si applica l'articolo 144, comma 9.».
+
+51.
+                    
+                        
+                            L'articolo 144 del decreto legislativo 1° settembre 1993, n. 385, e' cosi' modificato: 
+ 
+                        
+                        
+                            a)
+                            
+                                alla rubrica, dopo le parole: «sanzioni amministrative» sono aggiunte le seguenti: «alle societa' o enti»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                il comma 1 e' sostituito dal seguente: 
+ «1. Nei confronti delle banche, degli intermediari finanziari, delle rispettive capogruppo, degli istituti di moneta elettronica, degli istituti di pagamento e dei soggetti ai quali sono state esternalizzate funzioni aziendali essenziali o importanti, nonche' di quelli incaricati della revisione legale dei conti, si applica la sanzione amministrativa pecuniaria da euro 30.000 fino al 10 per cento del fatturato, per le seguenti violazioni: 
+ a) inosservanza degli articoli 18, comma 4, 26, 28, comma 2-ter, 34, comma 2, 35, 49, 51, 52, 52-bis, 53, 53-bis, 53-ter, 54, 55, 61 comma 5, 64, commi 2 e 4, 66, 67, 67-ter, 68, 108, 109, comma 3, 110 in relazione agli articoli 26, 52, 61, comma 5, 64, commi 2 e 4, 114-quinquies.1, 114-quinquies.2, 114-quinquies.3, in relazione agli articoli 26 e 52, 114-octies, 114-undecies in relazione agli articoli 26 e 52, 114-duodecies, 114-terdecies, 114-quaterdecies, 129, comma 1, 145, comma 3, 146, comma 2, 147, o delle relative disposizioni generali o particolari impartite dalle autorita' creditizie; 
+ b) inosservanza degli articoli 116, 123, 124, 126-quater e 126-novies, comma 3, o delle relative disposizioni generali o particolari impartite dalle autorita' creditizie; 
+ c) inosservanza degli articoli 117, commi 1, 2 e 4, 118, 119, 120, 120-quater, 125, commi 2, 3 e 4, 125-bis, commi 1, 2, 3 e 4, 125-octies, commi 2 e 3, 126, 126-quinquies, comma 2, 126-sexies, 126-septies e 128-decies, comma 2, o delle relative disposizioni generali o particolari impartite dalle autorita' creditizie; 
+ d) inserimento nei contratti di clausole nulle o applicazione alla clientela di oneri non consentiti, in violazione dell'articolo 40-bis o del titolo VI, ovvero offerta di contratti in violazione dell'articolo 117, comma 8; 
+ e) inserimento nei contratti di clausole aventi l'effetto di imporre al debitore oneri superiori a quelli consentiti per il recesso o il rimborso anticipato ovvero ostacolo all'esercizio del diritto di recesso da parte del cliente, ivi compresa l'omissione del rimborso delle somme allo stesso dovute per effetto del recesso.»; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                il comma 2 e' abrogato; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                il comma 3 e' abrogato; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                il comma 3-bis e' abrogato; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                il comma 4 e' sostituito dal seguente: 
+ «4. La sanzione di cui al comma 1, si applica per l'inosservanza delle norme contenute nell'articolo 128, comma 1, ovvero nei casi di ostacolo all'esercizio delle funzioni di controllo previste dal medesimo articolo 128, di mancata adesione ai sistemi di risoluzione stragiudiziale delle controversie previsti dall'articolo 128-bis, nonche' di inottemperanza alle misure inibitorie adottate dalla Banca d'Italia ai sensi dell'articolo 128-ter. La stessa sanzione si applica altresi' nel caso di frazionamento artificioso di un unico contratto di credito al consumo in una pluralita' di contratti dei quali almeno uno sia di importo inferiore al limite inferiore previsto ai sensi dell'articolo 122, comma 1, lettera a).»; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                il comma 5 e' abrogato; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                il comma 5-bis e' sostituito dal seguente: 
+ «5-bis. Nel caso in cui l'intermediario mandante rilevi nel comportamento dell'agente in attivita' finanziaria le violazioni previste dai commi 1, lettere b), c), d), ed e), e 4, l'inosservanza degli obblighi previsti dall'articolo 125-novies o la violazione dell'articolo 128-decies, comma 1, ultimo periodo, adotta immediate misure correttive e trasmette la documentazione relativa alle violazioni riscontrate, anche ai fini dell'applicazione dell'articolo 128-duodecies, all'Organismo di cui all'articolo 128-undecies.»; 
+
+                            
+                        
+                        
+                            i)
+                            
+                                il comma 8 e' sostituito dal seguente: 
+ «8. Le sanzioni previste dai commi 1, lettere b), c), d), ed e), e 4 si applicano quando le infrazioni rivestono carattere rilevante, secondo i criteri definiti dalla Banca d'Italia, con provvedimento di carattere generale, tenuto conto dell'incidenza delle condotte sulla complessiva organizzazione e sui profili di rischio aziendali.»; 
+
+                            
+                        
+                        
+                            l)
+                            
+                                il comma 9 e' sostituito dal seguente: 
+ «9. Se il vantaggio ottenuto dall'autore della violazione come conseguenza della violazione stessa e' superiore ai massimali indicati nel presente articolo, le sanzioni amministrative pecuniarie di cui al presente articolo sono elevate fino al doppio dell'ammontare del vantaggio ottenuto, purche' tale ammontare sia determinabile.».
 
 Dopo l'articolo 144 del decreto legislativo 1° settembre 1993, n. 385, sono inseriti i seguenti: 
  «Art. 144-bis (Ordine di porre termine alle violazioni). - 1. Per le violazioni previste dall'articolo 144, comma 1, lettera a), quando esse siano connotate da scarsa offensivita' o pericolosita', la Banca d'Italia puo', in alternativa all'applicazione delle sanzioni amministrative pecuniarie, applicare nei confronti della societa' o dell'ente una sanzione consistente nell'ordine di eliminare le infrazioni, anche indicando le misure da adottare e il termine per l'adempimento. 
@@ -179,9 +889,135 @@ Dopo l'articolo 144 del decreto legislativo 1° settembre 1993, n. 385, sono ins
  Art. 144-quinquies (Sanzioni per violazioni di disposizioni dell'Unione europea direttamente applicabili). - 1. Nelle materie a cui si riferiscono le disposizioni richiamate agli articoli 139, 140, 144, 144-bis e 144-ter, le sanzioni ivi previste si applicano, nella misura e con le modalita' stabilite nel presente titolo, anche in caso di inosservanza del regolamento UE n. 575/2013, delle relative norme tecniche di regolamentazione e di attuazione emanate dalla Commissione europea ai sensi degli articoli 10 e 15 del regolamento (CE) n. 1093/2010, ovvero in caso di inosservanza degli atti dell'ABE direttamente applicabili ai soggetti vigilati adottati ai sensi di quest'ultimo regolamento. 
  Art. 144-sexies (Obbligo di astensione). - 1. I soci e gli amministratori che violano l'obbligo di astensione di cui all'articolo 53, comma 4, secondo periodo, sono puniti con una sanzione amministrativa pecuniaria da euro 50.000 a euro 150.000.».
 
+53.
+                    
+                        
+                            L'articolo 145 del decreto legislativo 1° settembre 1993, n. 385, e' cosi' modificato: 
+ 
+                        
+                        
+                            a)
+                            
+                                il comma 1 e' sostituito dal seguente: 
+ «1. Per le violazioni previste nel presente titolo cui e' applicabile una sanzione amministrativa, la Banca d'Italia contestati gli addebiti ai soggetti interessati, tenuto conto del complesso delle informazioni raccolte, applica le sanzioni con provvedimento motivato. I soggetti interessati possono, entro trenta giorni dalla contestazione, presentare deduzioni e chiedere un'audizione personale in sede di istruttoria, cui possono partecipare anche con l'assistenza di un avvocato.»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                dopo il comma 1 e' inserito il seguente: 
+ «1-bis. Il procedimento sanzionatorio e' retto dai principi del contraddittorio, della conoscenza degli atti istruttori, della verbalizzazione nonche' della distinzione tra funzioni istruttorie e funzioni decisorie.»; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                il comma 3 e' sostituito dal seguente: 
+ «3. Il provvedimento di applicazione delle sanzioni previste dal presente titolo e' pubblicato senza ritardo e per estratto sul sito web della Banca d'Italia. Nel caso in cui avverso il provvedimento di applicazione della sanzione sia adita l'autorita' giudiziaria, la Banca d'Italia menziona l'avvio dell'azione giudiziaria e l'esito della stessa nel proprio sito web a margine della pubblicazione. La Banca d'Italia, tenuto conto della natura della violazione e degli interessi coinvolti, puo' stabilire modalita' ulteriori per dare pubblicita' al provvedimento, ponendo le relative spese a carico dell'autore della violazione.»; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                dopo il comma 3, sono inseriti i seguenti: 
+ «3-bis. Nel provvedimento di applicazione della sanzione la Banca d'Italia dispone la pubblicazione in forma anonima del provvedimento sanzionatorio quando quella ordinaria: 
+ a) abbia ad oggetto dati personali ai sensi del decreto legislativo 30 giugno 2003, n. 196, la cui pubblicazione appaia sproporzionata rispetto alla violazione sanzionata; 
+ b) possa comportare rischi per la stabilita' dei mercati finanziari o pregiudicare lo svolgimento di un'indagine penale in corso; 
+ c) possa causare un pregiudizio sproporzionato ai soggetti coinvolti, purche' tale pregiudizio sia determinabile. 
+ 3-ter. Se le situazioni descritte nel comma 3-bis hanno carattere temporaneo, la pubblicazione e' effettuata quando queste sono venute meno.»; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                il comma 4 e' sostituito dal seguente: 
+ «4. Contro il provvedimento che applica la sanzione e' ammesso ricorso alla corte di appello di Roma. Il ricorso e' notificato, a pena di decadenza, alla Banca d'Italia nel termine di trenta giorni dalla comunicazione del provvedimento impugnato, ovvero sessanta giorni se il ricorrente risiede all'estero, ed e' depositato in cancelleria, unitamente ai documenti offerti in comunicazione, nel termine perentorio di trenta giorni dalla notifica.»; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                al comma 5 le parole: «decreto motivato» sono sostituite dalle seguenti: «ordinanza non impugnabile.»; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                il comma 6 e' sostituito dal seguente: 
+ «6. Il Presidente della corte di appello designa il giudice relatore e fissa con decreto l'udienza pubblica per la discussione dell'opposizione. Il decreto e' notificato alle parti a cura della cancelleria almeno sessanta giorni prima dell'udienza. La Banca d'Italia deposita memorie e documenti nel termine di dieci giorni prima dell'udienza. Se alla prima udienza l'opponente non si presenta senza addurre alcun legittimo impedimento, il giudice, con ordinanza ricorribile per cassazione, dichiara il ricorso improcedibile, ponendo a carico dell'opponente le spese del procedimento.»; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                il comma 7 e' sostituito dal seguente: 
+ «7. All'udienza, la Corte di appello dispone, anche d'ufficio, i mezzi di prova che ritiene necessari, nonche' l'audizione personale delle parti che ne abbiano fatto richiesta. Successivamente le parti procedono alla discussione orale della causa. La sentenza e' depositata in cancelleria entro sessanta giorni. Quando almeno una delle parti manifesta l'interesse alla pubblicazione anticipata del dispositivo rispetto alla sentenza, il dispositivo e' pubblicato mediante deposito in cancelleria non oltre sette giorni dall'udienza di discussione.»; 
+
+                            
+                        
+                        
+                            i)
+                            
+                                dopo il comma 7, e' inserito il seguente: 
+ «7-bis. Con la sentenza la Corte d'Appello puo' rigettare l'opposizione, ponendo a carico dell'opponente le spese del procedimento, o accoglierla, annullando in tutto o in parte il provvedimento o riducendo l'ammontare o la durata della sanzione.»; 
+
+                            
+                        
+                        
+                            l)
+                            
+                                il comma 8 e' sostituito dal seguente: 
+ «8. Copia della sentenza e' trasmessa, a cura della cancelleria della corte di appello, alla Banca d'Italia, anche ai fini della pubblicazione prevista dal comma 3.»; 
+
+                            
+                        
+                        
+                            m)
+                            
+                                al comma 9, in fine, e' aggiunto il seguente periodo: «I proventi derivanti dalle sanzioni previste dal presente titolo affluiscono al bilancio dello Stato.»; 
+
+                            
+                        
+                        
+                            n)
+                            
+                                il comma 10 e' abrogato; 
+
+                            
+                        
+                        
+                            o)
+                            
+                                al comma 11, le parole: «nell'articolo» sono sostituite dalle seguenti: «negli articoli 6, 10, 11 e».
+
 Dopo l'articolo 145-bis del decreto legislativo 1° settembre 1993, n. 385, sono inseriti i seguenti: 
  «Art. 145-ter (Comunicazione all'ABE sulle sanzioni applicate). - 1. La Banca d'Italia comunica all'ABE le sanzioni amministrative applicate ai sensi del presente titolo, ivi comprese quelle pubblicate in forma anonima, nonche' le informazioni ricevute dai soggetti interessati sulle azioni da essi avviate avverso i provvedimenti sanzionatori e sull'esito delle stesse. 
  Art. 145-quater (Disposizioni di attuazione). - 1. La Banca d'Italia emana disposizioni di attuazione del presente titolo.».
+
+55.
+                    
+                        
+                            L'articolo 159 del decreto legislativo 1° settembre 1993, n. 385, e' cosi' modificato: 
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 3,il secondo periodo e' soppresso; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 4, le parole: «n. 89/646/CEE,» sono sostituite dalle seguenti: «2013/36/UE,».
 
 All'articolo 161 del decreto legislativo 1° settembre 1993, n. 385, al comma 1, dopo le parole: «il decreto legislativo del Capo provvisorio dello Stato 17 luglio 1947, n. 691, fatta eccezione per gli articoli 3, 4, 5» le parole: «e per le competenze valutarie del CICR previste dall'articolo 1, primo comma» sono soppresse.
 
@@ -236,8 +1072,83 @@ All'articolo 2 del decreto legislativo 24 febbraio 1998, n. 58, dopo il comma 2 
 
 All'articolo 3, comma 3, del decreto legislativo 24 febbraio 1998, n. 58, le parole: sono pubblicati dalla Banca d'Italia e dalla CONSOB nei rispettivi Bollettini» sono sostituite dalle seguenti: «sono pubblicati dalla Banca d'Italia nel proprio sito internet e dalla CONSOB, in formato elettronico, nel proprio Bollettino».
 
+4.
+                    
+                        
+                            L'articolo 6 del decreto legislativo 24 febbraio 1998, n. 58, e' cosi' modificato: 
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 1, lettera a), in fine, sono aggiunte le seguenti parole: «, nonche' l'informativa da rendere al pubblico sulle stesse materie e sul governo societario, l'organizzazione amministrativa e contabile, i controlli interni e i sistemi di remunerazione e di incentivazione»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                dopo il comma 2-sexies sono aggiunti i seguenti: 
+ «2-septies. Le disposizioni in materia di sistemi di remunerazione e di incentivazione emanate ai sensi del comma 2-bis, lettera a), possono prevedere che determinate decisioni in materia di remunerazione e di incentivazione siano rimesse alla competenza dell'assemblea dei soci, anche nel modello dualistico di amministrazione e controllo, stabilendo quorum costitutivi e deliberativi anche in deroga a norme di legge. 
+ 2-octies. E' nullo qualunque patto o clausola non conforme alle disposizioni in materia di sistemi di remunerazione e di incentivazione emanate ai sensi del comma 2-bis, lettera a), o contenute in atti dell'Unione europea direttamente applicabili. La nullita' della clausola non comporta la nullita' del contratto. Le previsioni contenute nelle clausole nulle sono sostituite di diritto, ove possibile, con i parametri indicati nelle disposizioni suddette nei valori piu' prossimi alla pattuizione originaria. 
+ 2-novies. I soci e gli amministratori dei soggetti abilitati, fermi restando gli obblighi previsti dall'articolo 2391, primo comma, del codice civile, si astengono dalle deliberazioni in cui abbiano un interesse in conflitto, per conto proprio o di terzi.».
+
+5.
+                    
+                        
+                            L'articolo 7 del decreto legislativo 24 febbraio 1998, n. 58, e' cosi' modificato: 
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 1, lettera a) le parole: «i dirigenti» sono sostituite dalle seguenti: «il personale»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                dopo il comma 1 e' inserito il seguente: 
+ «1-bis. La Banca d'Italia e la Consob, nell'ambito delle rispettive competenze, possono altresi' convocare gli amministratori, i sindaci e il personale di coloro ai quali i soggetti abilitati abbiano esternalizzato funzioni aziendali essenziali o importanti;»; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                il comma 2 e' sostituito dal seguente: 
+ «2. La Banca d'Italia puo' adottare, a fini di stabilita', provvedimenti specifici aventi a oggetto le materie disciplinate dall'articolo 6, comma 1, lettera a), e, ove la situazione lo richieda: adottare, sentita la Consob, provvedimenti restrittivi o limitativi concernenti i servizi, le attivita', le operazioni e la struttura territoriale; vietare la distribuzione di utili o di altri elementi del patrimonio; con riferimento a strumenti finanziari computabili nel patrimonio a fini di vigilanza, vietare il pagamento di interessi; fissare limiti all'importo totale della parte variabile delle remunerazioni nei soggetti abilitati, quando sia necessario per il mantenimento di una solida base patrimoniale. I provvedimenti possono essere emanati nei confronti di uno o piu' soggetti abilitati, nonche' di una o piu' categorie di essi.»; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                dopo il comma 2 e' inserito il seguente: 
+ «2-bis. La Banca d'Italia puo' disporre la rimozione di uno o piu' esponenti aziendali di Sim, societa' di gestione del risparmio, Sicav e Sicaf, qualora la loro permanenza in carica sia di pregiudizio per la sana e prudente gestione del soggetto abilitato; la rimozione non e' disposta ove ricorrano gli estremi per pronunciare la decadenza ai sensi dell'articolo 13, salvo che sussista urgenza di provvedere.».
+
 Dopo l'articolo 7 del decreto legislativo 24 febbraio 1998, n. 58, e' inserito il seguente: 
  «Art. 7-bis (Riserve di capitale). - 1. La Banca d'Italia adotta le misure sulle riserve di capitale previste dal capo IV del titolo VII della direttiva 2013/36/UE, nonche' quelle di natura macroprudenziale previste dal regolamento UE n. 575/2013, quale autorita' designata ai sensi di tali normative comunitarie nei confronti delle Sim e delle succursali di imprese di investimento extracomunitarie.».
+
+7.
+                    
+                        
+                            L'articolo 8 del decreto legislativo 24 febbraio 1998, n. 58, e' cosi' modificato: 
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 1 e' aggiunto in fine il seguente periodo: «La Banca d'Italia e la Consob, nell'ambito delle rispettive competenze, possono chiedere informazioni al personale dei soggetti abilitati, anche per il tramite di questi ultimi.»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                dopo il comma 1-bis e' inserito il seguente: 
+ «1-ter. Gli obblighi previsti dal comma 1 si applicano anche a coloro ai quali i soggetti abilitati abbiano esternalizzato funzioni aziendali essenziali o importanti e al loro personale.».
 
 Dopo l'articolo 8 del decreto legislativo 24 febbraio 1998, n. 58, sono inseriti i seguenti: 
  «Art. 8-bis (Sistemi interni di segnalazione delle violazioni). - 1. I soggetti abilitati e le relative capogruppo adottano procedure specifiche per la segnalazione al proprio interno da parte del personale, di atti o fatti che possano costituire una violazione delle norme disciplinanti l'attivita' svolta. 
@@ -255,6 +1166,29 @@ Dopo l'articolo 8 del decreto legislativo 24 febbraio 1998, n. 58, sono inseriti
 
 All'articolo 10 del decreto legislativo 24 febbraio 1998, n. 58, dopo il comma 1-bis e' inserito il seguente: 
  «1-ter. La Banca d'Italia e la Consob possono effettuare ispezioni, richiedere l'esibizione dei documenti e il compimento degli atti ritenuti necessari anche presso coloro ai quali i soggetti abilitati abbiano esternalizzato funzioni aziendali essenziali o importanti e al loro personale.».
+
+10.
+                    
+                        
+                            L'articolo 12 del decreto legislativo 24 febbraio 1998, n. 58, e' cosi' modificato: 
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 5, dopo la lettera b) e' aggiunta la seguente: 
+ «b-bis) effettuare ispezioni presso soggetti ai quali siano state esternalizzate funzioni aziendali essenziali o importanti da parte dei soggetti indicati dalle lettere a) e b), limitatamente alle finalita' ivi richiamate.»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                dopo il comma 5-bis sono aggiunti i seguenti: 
+ «5-ter. La Banca d'Italia puo' disporre, qualora la loro permanenza in carica sia di pregiudizio per la sana e prudente gestione del gruppo, la rimozione di uno o piu' esponenti aziendali della capogruppo; la rimozione non e' disposta ove ricorrano gli estremi per pronunciare la decadenza ai sensi dell'articolo 13, salvo che sussista urgenza di provvedere. 
+ 5-quater. La Banca d'Italia e la Consob possono chiedere, nell'ambito delle rispettive competenze, informazioni anche al personale dei soggetti indicati al comma 3, anche per il tramite di questi ultimi. 
+ 5-quinquies. Gli obblighi previsti dai commi 2 e 3 si applicano anche ai soggetti ai quali siano state esternalizzate funzioni aziendali essenziali o importanti e al loro personale. 
+ 5-sexies. Alla societa' capogruppo si applicano gli articoli 6, commi 2-septies e 2-octies, e 7, commi 1 e 1-bis.».
 
 L'articolo 13 del decreto legislativo 24 febbraio 1998, n. 58, e' sostituito dal seguente: 
  «Art. 13 (Esponenti aziendali). - 1. I soggetti che svolgono funzioni di amministrazione, direzione e controllo presso Sim, societa' di gestione del risparmio, Sicav e Sicaf devono essere idonei allo svolgimento dell'incarico. 
@@ -283,6 +1217,104 @@ L'articolo 14 del decreto legislativo 24 febbraio 1998, n. 58, e' sostituito dal
  7. L'impugnazione puo' essere proposta anche dalla Banca d'Italia o dalla Consob entro centottanta giorni dalla data della deliberazione ovvero, se questa e' soggetta a iscrizione nel registro delle imprese, entro centottanta giorni dall'iscrizione o, se e' soggetta solo a deposito presso l'ufficio del registro delle imprese, entro centottanta giorni dalla data di questo. 
  8. Le partecipazioni, eccedenti le soglie previste dall'articolo 15, comma 1, dei soggetti privi dei requisiti di onorabilita' devono essere alienate entro i termini stabiliti dalla Banca d'Italia o dalla Consob.».
 
+13.
+                    
+                        
+                            L'articolo 15 del decreto legislativo 24 febbraio 1998, n. 58, e' cosi' modificato: 
+ 
+                        
+                        
+                            a)
+                            
+                                la rubrica e' sostituita dalla seguente: «Acquisizione e cessione di partecipazioni»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                il comma 2 e' sostituito dal seguente: 
+ «2. La Banca d'Italia puo' vietare entro il termine stabilito ai sensi del comma 5, lettera c), l'acquisizione della partecipazione quando ritenga che non ricorrono condizioni atte a garantire una gestione sana e prudente dell'intermediario, valutando la qualita' del potenziale acquirente e la solidita' finanziaria del progetto di acquisizione in base ai seguenti criteri: la reputazione del potenziale acquirente ai sensi dell'articolo 14; l'idoneita', ai sensi dell'articolo 13, da parte di coloro che, in esito all'acquisizione, svolgeranno funzioni di amministrazione, direzione e controllo; la solidita' finanziaria del potenziale acquirente; la capacita' dell'intermediario di rispettare a seguito dell'acquisizione le disposizioni che ne regolano l'attivita'; l'idoneita' della struttura del gruppo del potenziale acquirente a consentire l'esercizio efficace della vigilanza; l'assenza di fondato sospetto che l'acquisizione sia connessa a operazioni di riciclaggio o di finanziamento del terrorismo. La Banca d'Italia puo' fissare un termine massimo per l'acquisizione nonche' comunicare, anche prima della scadenza del termine, che nulla osta all'operazione.».
+
+14.
+                    
+                        
+                            L'articolo 19, comma 1, del decreto legislativo 24 febbraio 1998, n. 58, e' cosi' modificato: 
+ 
+                        
+                        
+                            a)
+                            
+                                la lettera f) e' sostituita dalla seguente: 
+ «f) i soggetti che svolgono funzioni di amministrazione, direzione e controllo siano idonei ai sensi dell'articolo 13;»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                la lettera g) e' sostituita dalla seguente: 
+ «g) i titolari delle partecipazioni indicate nell'articolo 15, comma 1, abbiano i requisiti e soddisfino i criteri stabiliti ai sensi dell'articolo 14 e non ricorrano le condizioni per il divieto previsto dall'articolo 15, comma 2.».
+
+15.
+                    
+                        
+                            L'articolo 34, comma 1, del decreto legislativo 24 febbraio 1998, n. 58, e' cosi' modificato: 
+ 
+                        
+                        
+                            a)
+                            
+                                la lettera d) e' sostituita dalla seguente: 
+ «d) i soggetti che svolgono funzioni di amministrazione, direzione e controllo siano idonei, secondo quanto previsto dall'articolo 13;»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                la lettera e) e' sostituita dalla seguente: 
+ «e) i titolari delle partecipazioni indicate all'articolo 15, comma 1, hanno i requisiti e soddisfano i criteri stabiliti ai sensi dell'articolo 14 e non ricorrono le condizioni per il divieto previsto dall'articolo 15, comma 2;».
+
+16.
+                    
+                        
+                            L'articolo 35-bis, comma 1, del decreto legislativo 24 febbraio 1998, n. 58, e' cosi' modificato: 
+ 
+                        
+                        
+                            a)
+                            
+                                la lettera d) e' sostituita dalla seguente: 
+ «d) i soggetti che svolgono funzioni di amministrazione, direzione e controllo siano idonei secondo quanto previsto dall'articolo 13;»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                la lettera e) e' sostituita dalla seguente: 
+ «e) i titolari delle partecipazioni indicate all'articolo 15, comma 1, hanno i requisiti e soddisfano i criteri stabiliti ai sensi dell'articolo 14 e non ricorrono le condizioni per il divieto previsto dall'articolo 15, comma 2;».
+
+17.
+                    
+                        
+                            L'articolo 38, comma 1, del decreto legislativo 24 febbraio 1998, n. 58, e' cosi' modificato: 
+ 
+                        
+                        
+                            a)
+                            
+                                la lettera d) e' sostituita dalla seguente: 
+ «d) i soggetti che svolgono funzioni di amministrazione, direzione e controllo siano idonei secondo quanto previsto dall'articolo 13;»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                alla lettera e), la parola: «requisiti» e' sostituita dalle seguenti: «e soddisfano i criteri».
+
 All'articolo 52 del decreto legislativo 24 febbraio 1998, n. 58, dopo il comma 3-ter e' aggiunto il seguente: 
  «3-quater. Se la violazione riguarda disposizioni relative alla liquidita' dell'impresa d'investimento comunitaria o in ogni altro caso di deterioramento della situazione di liquidita' della stessa, la Banca d'Italia puo' adottare le misure necessarie per la stabilita' finanziaria o per la tutela delle ragioni dei soggetti ai quali sono prestati i servizi, se quelle prese dall'autorita' competente dello Stato d'origine mancano o risultano inadeguate; le misure da adottare sono comunicate all'autorita' competente dello Stato d'origine.».
 
@@ -293,6 +1325,31 @@ Dopo l'articolo 56 del decreto legislativo 24 febbraio 1998, n. 58, e' inserito 
 
 L'articolo 61, comma 3, del decreto legislativo 24 febbraio 1998, n. 58, e' sostituito dal seguente: 
  «3. Il Ministro dell'economia e delle finanze, sentita la Consob, determina con regolamento i requisiti di onorabilita', professionalita' e indipendenza dei soggetti che svolgono funzioni di amministrazione, direzione e controllo nelle societa' di gestione, in conformita' a quanto previsto ai sensi dell'articolo 13. Il difetto dei requisiti determina la decadenza dalla carica. Essa e' dichiarata dal consiglio di amministrazione, dal consiglio di sorveglianza o dal consiglio di gestione entro trenta giorni dalla nomina o dalla conoscenza del difetto sopravvenuto. In caso di inerzia la decadenza e' pronunciata dalla Consob.».
+
+21.
+                    
+                        
+                            L'articolo 80 del decreto legislativo 24 febbraio 1998, n. 58, e' cosi' modificato: 
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 4, primo periodo, sono aggiunte in fine le seguenti parole: «, in conformita' a quanto previsto ai sensi dell'articolo 13.»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 4, secondo periodo, le parole: «Si applica l'articolo 13, commi 2 e 3.» sono sostituite dalle seguenti: «Il difetto dei requisiti determina la decadenza dalla carica. Essa e' dichiarata dal consiglio di amministrazione, dal consiglio di sorveglianza o dal consiglio di gestione entro trenta giorni dalla nomina o dalla conoscenza del difetto sopravvenuto. In caso di inerzia, la decadenza e' pronunciata dalla Banca d'Italia o dalla Consob.»; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                al comma 5, in fine, il secondo periodo e' sostituito dal seguente: «Si applica il comma 4, terzo e quarto periodo.».
 
 Agli articoli 4-bis, 25-bis, 117, 123-ter e 148 del decreto legislativo 24 febbraio 1998, n. 58, la parola: «Isvap» e' sostituita dalla seguente: «Ivass».
 

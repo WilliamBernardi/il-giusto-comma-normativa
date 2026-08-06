@@ -8,8 +8,8 @@ vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
 vigenza_date: 2023-09-05
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:21Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -32,6 +32,100 @@ Il presente decreto, in attuazione delle deleghe di cui all'articolo 8 della leg
 Dall'attuazione del presente decreto non devono derivare nuovi o maggiori oneri a carico della finanza pubblica. Le amministrazioni interessate provvedono agli adempimenti del presente provvedimento con le risorse umane, strumentali e finanziarie disponibili a legislazione vigente.
 
 ## Art. 2. — Definizioni
+
+1.
+                        
+                            
+                                Ai fini del presente decreto, si intende per: 
+ 
+                            
+                            
+                                a)
+                                
+                                    Associazione o Societa' sportiva dilettantistica: il soggetto giuridico affiliato ad una Federazione sportiva nazionale, ad una Disciplina sportiva associata o ad un Ente di promozione sportiva ((anche paralimpico, e comunque iscritto nel Registro nazionale delle attivita' sportive dilettantistiche)) che svolge, senza scopo di lucro, attivita' sportiva, nonche' la formazione, la didattica, la preparazione e l'assistenza all'attivita' sportiva dilettantistica; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    Associazioni benemerite: gli organismi sportivi attivi che operano nel campo della promozione di iniziative di rilevanza sociale; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    Comitato italiano paralimpico (CIP): l'ente pubblico, riconosciuto dal Comitato paralimpico internazionale, che ha il compito di garantire la massima diffusione dell'idea paralimpica ed il piu' proficuo avviamento alla pratica sportiva delle persone disabili; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    Comitato olimpico nazionale italiano (CONI): l'ente pubblico, riconosciuto dal Comitato olimpico internazionale che, in conformita' alla Carta olimpica, svolge il ruolo di Comitato olimpico sul territorio nazionale; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    Dipartimento per lo sport: la struttura amministrativa della Presidenza del Consiglio dei ministri operante nell'area funzionale dello sport; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    Disciplina sportiva associata: l'organizzazione sportiva nazionale, priva dei requisiti per il riconoscimento quale Federazione sportiva nazionale, che svolge attivita' sportiva sul territorio nazionale; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    Enti di promozione sportiva: gli organismi sportivi che operano nel campo della promozione e nell'organizzazione di attivita' motorie e sportive con finalita' ricreative e formative, anche a tutela delle minoranze linguistiche; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    Federazione sportiva nazionale: l'Organizzazione sportiva nazionale, affiliata alla Federazione sportiva internazionale di appartenenza, posta al vertice di una disciplina sportiva o a un gruppo di discipline affini; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    Federazioni sportive paralimpiche: l'Organizzazione sportiva nazionale riconosciuta dal Comitato italiano paralimpico posta al vertice di una disciplina sportiva paralimpica o a un gruppo di discipline paralimpiche affini; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    Registro nazionale delle attivita' sportive dilettantistiche: il registro istituito presso il Dipartimento per lo sport al quale devono essere iscritte, per accedere a benefici e contributi pubblici statali in materia di sport, tutte le Societa' e Associazioni sportive dilettantistiche che effettivamente svolgono attivita' sportiva, compresa l'attivita' didattica e formativa;
+                                
+                            
+                            
+                                m)
+                                
+                                    settore dilettantistico: il settore di una Federazione sportiva nazionale o Disciplina sportiva associata non qualificato come professionistico; 
+
+                                
+                            
+                            
+                                n)
+                                
+                                    settore professionistico: il settore qualificato come professionistico dalla rispettiva Federazione sportiva nazionale o Disciplina sportiva associata; 
+
+                                
+                            
+                            
+                                o)
+                                
+                                    Sport e salute S.p.a.: la societa' per azioni a controllo pubblico che svolge attivita' di produzione e fornitura servizi di interesse generale a favore dello sport, secondo le direttive e gli indirizzi del Presidente del Consiglio dei ministri o dell'autorita' politica da esso delegata in materia di sport.
 
 ## Art. 3. — Competenze legislative di Stato, 
  regioni e province autonome
@@ -77,9 +171,86 @@ La domanda di iscrizione e' inviata al Dipartimento per lo sport, su richiesta d
 
 ))
 
+2.
+                        
+                            
+                                Alla domanda e' allegata la documentazione attestante: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la ragione sociale o denominazione, la natura giuridica, il codice fiscale e l'eventuale partita IVA dell'associazione o societa' sportiva dilettantistica; 
+
+                                
+                            
+                            
+                                a-bis)
+                                
+                                    l'atto costitutivo e lo statuto dell'Associazione o Societa' sportiva dilettantistica;
+                                
+                            
+                            
+                                b)
+                                
+                                    i dati inerenti alla sede legale e i recapiti; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    la data dello statuto vigente; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    la dichiarazione contenente l'indicazione dell'oggetto sociale e le attivita' sportive, didattiche e formative; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    la dichiarazione contenente l'indicazione della composizione e della durata dell'organo amministrativo e delle generalita' del legale rappresentante e degli amministratori; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    i dati dei tesserati.
+
 Ogni associazione e societa' sportiva dilettantistica trasmette, in via telematica, entro il 31 gennaio dell'anno successivo, una dichiarazione riguardante l'aggiornamento dei dati di cui al comma 2, l'aggiornamento degli amministratori in carica e ogni altra modifica intervenuta nell'anno precedente.
 
 Con decreto del Presidente del Consiglio dei ministri o dell'autorita' di Governo delegata in materia di sport possono essere rideterminati i dati richiesti ai sensi del comma 2, anche fissando requisiti ulteriori. ((Il medesimo decreto disciplina, inoltre, le modalita' di inserimento dei dati dei soggetti direttamente tesserati con le Federazioni sportive nazionali, le Discipline sportive associate e gli Enti di promozione sportiva, anche paralimpici.))
+
+4.
+                        
+                            
+                                Entro quarantacinque giorni dalla presentazione della domanda, il Dipartimento per lo sport, ((verificata la sussistenza dei requisiti richiesti nonche' delle altre condizioni previste)), puo': 
+ 
+                            
+                            
+                                a)
+                                
+                                    accogliere la domanda e iscrivere l'ente; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    rifiutare l'iscrizione con provvedimento motivato; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    richiedere di integrare la documentazione ai sensi dell'articolo 1, comma 5, del decreto del Presidente della Repubblica 10 febbraio 2000, n. 361.
 
 ((
 

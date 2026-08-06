@@ -7,8 +7,8 @@ urn: urn:nir:consiglio.digitale.dipartimento.ministri.presidenza.trasformazione:
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:39Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -29,6 +29,122 @@ Sentito il Garante per la protezione dei dati personali, che ha reso il parere d
 Sentito il Ministro dell'economia e delle finanze;
 
 ## Art. 1. — Definizioni
+
+1.
+                    
+                        
+                            Ai fini del presente decreto si intende per: 
+ 
+                        
+                        
+                            a)
+                            
+                                «addetto al recapito postale»: il soggetto incaricato del recapito analogico dell'avviso di avvenuta ricezione, ai sensi articolo 26, comma 7, del decreto-legge 17 luglio 2020, n. 76, come convertito, con modificazioni, dalla legge 11 settembre 2020, n. 120 e dell'avviso di mancato recapito, ai sensi articolo 26, comma 6, del medesimo decreto-legge. 
+
+                            
+                        
+                        
+                            b)
+                            
+                                «app IO»: il punto di accesso telematico di cui all'articolo 64-bis del decreto legislativo 7 marzo 2005, n. 82; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                «avviso di cortesia»: l'avviso in modalita' informatica, contenente le stesse informazioni dell'avviso di avvenuta ricezione, inviato dal gestore della piattaforma, ai sensi dell'articolo 26, commi 5-bis, 6 e 7, del decreto-legge n. 76 del 2020, come convertito, con modificazioni, dalla legge 11 settembre 2020, n. 120; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                «CAD»: il decreto legislativo 7 marzo 2005, n. 82; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                «CIE»: il documento d'identita' munito di elementi per l'identificazione fisica del titolare, di cui all'articolo 66 del decreto legislativo 7 marzo 2005, n. 82; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                «decreto-legge»: il decreto-legge 17 luglio 2020, n. 76 76, convertito, con modificazioni, dalla legge 11 settembre 2020, n. 120; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                «domicilio digitale di piattaforma»: l'indirizo di posta elettronica certificata o di un servizio elettronico di recapito certificato qualificato, appositamente eletto per la ricezione delle notificazioni delle pubbliche amministrazioni effettuate tramite piattaforma, di cui all'articolo 26, comma 5, lettera c), del decreto-legge; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                «domicilio digitale speciale»: l'indirizzo di posta elettronica certificata o di un servizio elettronico di recapito certificato qualificato, eletto ai sensi dell'articolo 3-bis, comma 4-quinquies, del decreto legislativo n. 82 del 2005 o di altre disposizioni di legge, come domicilio speciale per determinati atti o affari, se a tali atti o affari e' riferita la notificazione, di cui all'articolo 26, comma 5, lettera b), del decreto-legge; 
+
+                            
+                        
+                        
+                            i)
+                            
+                                «domicilio digitale generale»: l'indirizzo di posta elettronica certificata o di un servizio elettronico di recapito certificato qualificato inserito in uno degli elenchi di cui agli articoli 6-bis, 6-ter e 6-quater del CAD e previsto dall'articolo 26, comma 5, lettera a), del decreto-legge; 
+
+                            
+                        
+                        
+                            l)
+                            
+                                «funzionario incaricato»: il soggetto che per primo accede alla piattaforma per conto del mittente al fine predisporre le condizioni iniziali per l'impiego del sistema; 
+
+                            
+                        
+                        
+                            m)
+                            
+                                «funzionari autorizzati»: i soggetti autorizzati ad operare sulla piattaforma per conto del mittente, ivi incluso il funzionario incaricato; 
+
+                            
+                        
+                        
+                            n)
+                            
+                                «gestore della piattaforma»: la societa' di cui all'articolo 8, comma 2, del decreto-legge 14 dicembre 2018, n. 135, convertito, con modificazioni, dalla legge 11 febbraio 2019, n. 12; 
+
+                            
+                        
+                        
+                            o)
+                            
+                                «livello di sicurezza significativo»: il livello di garanzia previsto dall'articolo 8 del Regolamento (UE) n. 910/2014 del Parlamento europeo e del Consiglio del 23 luglio 2014 in materia di identificazione elettronica e servizi fiduciari per le transazioni elettroniche nel mercato interno e che abroga la direttiva 1999/93/CE e dal Regolamento di esecuzione della Commissione 8 settembre 2015, n. 2015/1502, «relativo alla definizione delle specifiche e procedure tecniche minime riguardanti i livelli di garanzia per i mezzi di identificazione elettronica ai sensi dell'articolo 8, paragrafo 3, del Regolamento (UE) n. 910/2014 del Parlamento europeo e del Consiglio in materia di identificazione elettronica e servizi fiduciari per le transazioni elettroniche nel mercato interno»: 
+
+                            
+                        
+                        
+                            p)
+                            
+                                «mittenti»: le amministrazioni individuate dall'articolo 26, comma 2, lettera c), del decreto-legge; 
+
+                            
+                        
+                        
+                            q)
+                            
+                                «recapito digitale»: il canale di comunicazione, diverso dal domicilio digitale, indicato dal destinatario ai fini del ricevimento degli avvisi di cortesia; 
+
+                            
+                        
+                        
+                            r)
+                            
+                                «SPID»: il Sitema Pubblico di Identita' Digitale, disciplinato dall'articolo 64 del CAD.
 
 ## Art. 2. — Oggetto e ambito di applicazione
 
@@ -138,6 +254,66 @@ Il gestore della piattaforma invia ai destinatari un avviso di cortesia in modal
 L'avviso di cortesia e' reso disponibile altresi' tramite il punto di accesso di cui all'articolo 64-bis del CAD. Gli utenti di app IO, che risultino avere attivato il servizio di messaggistica, ricevono un messaggio che consente di abilitare il servizio di messaggistica anche per la ricezione degli avvisi di cortesia di cui al presente articolo.
 
 ## Art. 12. — Attestazioni del gestore della piattaforma
+
+1.
+                    
+                        
+                            Il gestore della piattaforma rilascia, con valore legale opponibile ai terzi, ai sensi dell'articolo 26, comma 11, del decreto-legge, le attestazioni relative: 
+ 
+                        
+                        
+                            a)
+                            
+                                alla data e ora di messa a disposizione dei documenti informatici sulla piattaforma da parte delle amministrazioni, con indicazione della sequenza crittografica (hash) identificativa di ciascun documento associato allo IUN; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                all'indirizzo del destinatario risultante, alla data e ora dell'invio dell'avviso di avvenuta ricezione, da uno degli elenchi di cui agli articoli 6-bis, 6-ter e 6-quater del CAD o che sia stato eletto ai sensi dell'articolo 26, comma 5, lettere b) o c), del decreto legge; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                alla data e ora di invio e di consegna al destinatario dell'avviso di avvenuta ricezione in formato elettronico e alla data di ricezione del messaggio di mancato recapito alle caselle di posta elettronica certificata o al servizio elettronico di recapito certificato qualificato risultanti sature, non valide o non attive; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                alla data e ora in cui il gestore della piattaforma ha reso disponibile l'avviso di mancato recapito del messaggio ai sensi dell'articolo 26, comma 6, del decreto-legge; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                alla data e ora in cui il destinatario ha avuto accesso al documento informatico oggetto di notificazione; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                al periodo di malfunzionamento della piattaforma; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                alla data e ora di ripristino delle funzionalita' della piattaforma; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                alla conformita' all'originale della copia informatica dell'avviso di avvenuta ricezione cartaceo e degli atti relativi alla notificazione effettuata con le modalita' di cui all'articolo 26, comma 7, del decreto-legge.
 
 Il documento contenente le attestazioni di cui al comma 1, viene generato e marcato temporalmente dal sistema. Il gestore della piattaforma adotta tutte le misure tecnologiche idonee a garantirne l'autenticita' l'integrita' e l'immodificabilita' Le attestazioni sono accessibili, attraverso la piattaforma, da parte dei mittenti, destinatari, e loro delegati e, per i soli mittenti, anche mediante interfacce di servizio informatiche (API).
 

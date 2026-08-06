@@ -8,8 +8,8 @@ codice_redazionale: 001G0165
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti governativi
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:16Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -37,6 +37,31 @@ L'Istituto eroga, a favore di soggetti pubblici e privati, finanziamenti a medio
 
 ## Art. 3. — Patrimonio
 
+1.
+                    
+                        
+                            Il patrimonio dell'Istituto, la cui consistenza e' accertata con decreto del Ministro del tesoro, del bilancio e della programmazione economica, di concerto con il Ministro per i beni e le attivita' culturali, tenendo conto dei diritti eventualmente acquisiti dai soggetti partecipanti al fondo di dotazione, e' costituito:
+ 
+                        
+                        
+                            a)
+                            
+                                dal fondo di dotazione, conferito dai partecipanti, nonche' dal fondo di garanzia, conferito dal Comitato olimpico nazionale italiano, di seguito denominato "CONI";
+
+                            
+                        
+                        
+                            b)
+                            
+                                dal fondo patrimoniale di cui al quarto comma dell'articolo 2 della legge 24 dicembre 1957, n. 1295, e successive modificazioni;
+
+                            
+                        
+                        
+                            c)
+                            
+                                dalle riserve.
+
 ## Art. 4. — O r g a n i
 
 Sono organi dell'Istituto il presidente, il consiglio di amministrazione, il collegio sindacale.
@@ -54,14 +79,159 @@ Lo statuto provvede per la sostituzione del presidente nei casi di assenza od im
 
 ## Art. 6. — Consiglio di amministrazione
 
+1.
+                    
+                        
+                            Il consiglio di amministrazione e' composto:
+ 
+                        
+                        
+                            a)
+                            
+                                dal presidente dell'Istituto;
+
+                            
+                        
+                        
+                            b)
+                            
+                                da due membri designati dai Ministro per i beni e le attivita' culturali;
+
+                            
+                        
+                        
+                            c)
+                            
+                                da due membri designati dal Ministro del tesoro, del bilancio e della programmazione economica;
+
+                            
+                        
+                        
+                            d)
+                            
+                                da tre membri designati dal CONI;
+
+                            
+                        
+                        
+                            e)
+                            
+                                da tre membri designati dalla Conferenza unificata Stato, regioni ed autonomie locali;
+
+                            
+                        
+                        
+                            f)
+                            
+                                da tre membri designati d'intesa dagli altri partecipanti al fondo di dotazione.
+
 I componenti del consiglio di amministrazione sono nominati con decreto del Ministro per i beni e le attivita' culturali, restano in carica quattro anni e possono essere riconfermati per una sola volta.
 I componenti nominati in sostituzione di consiglieri comunque cessati dalla carica durano in carica per il residuo periodo e cessano unitamente agli altri.
+
+3.
+                    
+                        
+                            Al consiglio di amministrazione spetta l'amministrazione dell'Istituto, salve le funzioni eventualmente delegate dallo statuto al comitato esecutivo. Sono comunque esercitati in via esclusiva dal consiglio di amministrazione i seguenti compiti:
+ 
+                        
+                        
+                            a)
+                            
+                                adozione dello statuto;
+
+                            
+                        
+                        
+                            b)
+                            
+                                approvazione del bilancio;
+
+                            
+                        
+                        
+                            c)
+                            
+                                ripartizione degli utili;
+
+                            
+                        
+                        
+                            d)
+                            
+                                emissione di obbligazioni, ai sensi delle disposizioni vigenti;
+
+                            
+                        
+                        
+                            e)
+                            
+                                compravendita di immobili e partecipazioni in societa';
+
+                            
+                        
+                        
+                            f)
+                            
+                                nomina del direttore generale e determinazione del relativo trattamento economico;
+
+                            
+                        
+                        
+                            g)
+                            
+                                approvazione del regolamento organico del personale;
 
 Lo statuto puo' prevedere che il consiglio di amministrazione dell'Istituto allo scopo di potenziare la propria funzionalita', costituisca un comitato esecutivo, composto di cinque membri, scelti in modo da assicurare una adeguata rappresentativita'.
 
 Per la costituzione del primo consiglio di amministrazione, ove avvenga antecedentemente alla data prevista dall'articolo 55, comma 1, del decreto legislativo 30 luglio 1999, n. 300, che istituisce il Ministero dell'economia e delle finanze, uno dei due membri di cui al punto c) del comma 1 e' designato dal Ministro delle finanze.
 
 ## Art. 7. — Collegio sindacale
+
+1.
+                    
+                        
+                            Il collegio sindacale, nominato con decreto del Ministro per i beni e le attivita' culturali, e' composto:
+ 
+                        
+                        
+                            a)
+                            
+                                dal presidente designato dal Ministro del tesoro, del bilancio e della programmazione economica;
+
+                            
+                        
+                        
+                            b)
+                            
+                                da un membro designato dal Ministro per i beni e le attivita' culturali;
+
+                            
+                        
+                        
+                            c)
+                            
+                                da un membro designato dal CONI;
+
+                            
+                        
+                        
+                            d)
+                            
+                                da un membro designato dalla Conferenza unificata Stato, regioni ed autonomie locali;
+
+                            
+                        
+                        
+                            e)
+                            
+                                da un membro designato dagli altri partecipanti al fondo di dotazione;
+
+                            
+                        
+                        
+                            f)
+                            
+                                da due membri supplenti designati dal Ministro del tesoro, del bilancio e della programmazione economica.
 
 Il collegio sindacale resta in carica quattro anni. I componenti possono essere confermati e a loro si applicano le disposizioni riguardanti i sindaci delle societa' finanziarie di cui al titolo V del decreto legislativo 1o settembre 1993, n. 385, recante il testo unico delle leggi in materia bancaria e creditizia.
 
@@ -86,6 +256,38 @@ Gli utili netti risultanti dal bilancio sono destinati, per una quota non inferi
 L'Istituto puo' provvedere alla concessione di contributi sugli interessi per i finanziamenti con il fondo istituito ai sensi dell'articolo 5 della legge 24 dicembre 1957, n. 1295, e successive modificazioni. La titolarita' di detto fondo, la cui consistenza e' accertata con decreto del Ministro per i beni e le attivita' culturali di concerto con il Ministro del tesoro, del bilancio e della programmazione economica entro sessanta giorni dalla data di
  entrata in vigore del presente regolamento, e' attribuita allo Stato.
 
+2.
+                    
+                        
+                            Il fondo e' alimentato:
+ 
+                        
+                        
+                            a)
+                            
+                                dai versamenti, da parte del CONI, dell'aliquota dell'uno per cento, calcolata sugli incassi lordi dei concorsi pronostici, previsti dall'articolo 5 della legge 24 dicembre 1957, n. 1295, e successive modificazioni;
+
+                            
+                        
+                        
+                            b)
+                            
+                                dai versamenti, da parte del CONI, dell'aliquota del due per cento, calcolata sugli incassi lordi dei concorsi pronostici, previsti dall' articolo 2, quarto comma, della legge 24 dicembre 1957, n. 1295, e successive modificazioni;
+
+                            
+                        
+                        
+                            c)
+                            
+                                dagli importi dei premi dei concorsi pronostici colpiti da decadenza, ai sensi dell'articolo 5 della legge 24 dicembre 1957, n. 1295, e successive modificazioni;
+
+                            
+                        
+                        
+                            d)
+                            
+                                dai proventi netti derivanti dagli investimenti del fondo.
+
 Alla gestione del fondo di cui al comma 1 provvede l'Istituto con separata contabilita' e senza applicazione di commissioni od oneri diversi dal recupero dei costi di una efficiente gestione.
 
 ## Art. 11. — S t a t u t o
@@ -95,6 +297,24 @@ Lo statuto, recante disposizioni sull'organizzazione ed il funzionamento dell'Is
 Il Ministero per i beni e le attivita' culturali esercita sull'Istituto la vigilanza a norma dell'articolo 157, comma 3, del decreto legislativo 31 marzo 1998, n. 112, dell'articolo 2, comma 2, lettera g), del decreto legislativo 20 ottobre 1998, n. 368, e dell'articolo 53 del decreto legislativo 30 luglio 1999, n. 300. Il Ministero del tesoro, del bilancio e della programmazione economica esercita i poteri di vigilanza per quanto di propria competenza.
 
 ## Art. 12. — Disposizioni finali
+
+1.
+                    
+                        
+                            Le partecipazioni al fondo di dotazione possono essere trasferite:
+ 
+                        
+                        
+                            a)
+                            
+                                ad altri partecipanti al fondo;
+
+                            
+                        
+                        
+                            b)
+                            
+                                a soggetti terzi, previa autorizzazione del consiglio di amministrazione ed approvazione del Ministro per i beni e le attivita' culturali di concerto con il Ministro del tesoro, del bilancio e della programmazione economica.
 
 Per gli onorari notarili sugli atti e contratti relativi ai mutui concessi dall'Istituto si applicano le disposizioni di cui all'articolo 3, settimo comma, della legge 24 dicembre 1957, n. 1295, e successive modificazioni.
 

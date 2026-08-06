@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: DPR
 vigenza_date: 2025-09-04
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:47:47Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -39,7 +39,201 @@ E' previsto un livello di contrattazione decentrata nazionale aziendale o di set
 
 ## Art. 3. — Le materie
 
+1.
+                        
+                            
+                                La contrattazione decentrata nazionale aziendale o di settore ha per oggetto le seguenti materie:
+ 
+                            
+                            
+                                a)
+                                
+                                    i criteri per l'organizzazione del lavoro;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    i criteri per la determinazione dei tempi, dei carichi di lavoro e dei relativi moduli organizzativi;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    i criteri, la struttura e la programmazione dell'orario di lavoro e le modalita' di accertamento del suo rispetto;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    i criteri per l'utilizzo del lavoro straordinario;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    le proposte per l'assunzione del personale a tempo definito;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    le proposte per la determinazione delle dotazioni organiche;
+
+                                
+                            
+                            
+                                g)
+                                
+                                    le proposte di modifica di eventuali indici misuratori delle prestazioni lavorative previsti nelle diverse aziende;
+
+                                
+                            
+                            
+                                h)
+                                
+                                    i criteri per la mobilita' del personale e per l'erogazione di eventuali incentivi economici;
+
+                                
+                            
+                            
+                                i)
+                                
+                                    le direttive per la sicurezza, la salubrita' e l'igiene dell'ambiente di lavoro.
+
+                                
+                            
+                            
+                                l)
+                                
+                                    i piani per la formazione, l'addestramento e l'aggiornamento professionale del personale, nonche' i relativi programmi e le necessarie strutture;
+
+                                
+                            
+                            
+                                m)
+                                
+                                    le proposte di programmi per l'introduzione delle nuove tecnologie intese ad ottenere un migliore rendimento dei servizi ed una migliore organizzazione del lavoro;
+
+                                
+                            
+                            
+                                n)
+                                
+                                    i programmi per la realizzazione dei servizi sociali (mense, tempo libero, etc.) ed i relativi criteri di gestione;
+
+                                
+                            
+                            
+                                o)
+                                
+                                    le proposte per la determinazione dei profili professionali, loro modifiche, integrazioni e soppressioni all'interno delle qualifiche, dei livelli e/o categorie;
+
+                                
+                            
+                            
+                                p)
+                                
+                                    piani di azioni positive in favore delle lavoratrici per la realizzazione delle pari opportunita';
+
+                                
+                            
+                            
+                                q)
+                                
+                                    criteri, sistemi, quantificazioni dei piani e controllo di produttivita' ed incentivazioni connesse.
+
+2.
+                        
+                            
+                                La contrattazione decentrata territoriale ha per oggetto le seguenti materie:
+ 
+                            
+                            
+                                a)
+                                
+                                    applicazione dei criteri di erogazione degli incentivi di produttivita';
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'organizzazione del lavoro in rapporto alla struttura dei servizi anche ai fini di formulare proposte per la determinazione delle consistenze organiche;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    la verifica del funzionamento dei servizi e delle strutture produttive in favore dell'utenza;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    le proposte in ordine alle misure per la sicurezza, la salubrita' e l'igiene dell'ambiente di lavoro, nonche' per l'utilizzazione delle strutture, dei locali e delle attrezzature;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    le mense, i servizi per il tempo libero a livello territoriale e l'accesso dei patronati sindacali sui posti di lavoro;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    la struttura degli orari (turni, flessibilita', straordinari, permessi, apertura e chiusura degli uffici);
+
+                                
+                            
+                            
+                                g)
+                                
+                                    la mobilita' aziendale a domanda, regionale, zonale e provinciale;
+
+                                
+                            
+                            
+                                h)
+                                
+                                    i corsi di aggiornamento, qualificazione, riqualificazione nell'ambito di programmi nazionali aziendali.
+
 ## Art. 4. — Soggetti titolari
+
+1.
+                        
+                            
+                                Titolari della negoziazione decentrata sono:
+ PER LA PARTE PUBBLICA
+ Una delegazione composta:
+ 
+                            
+                            
+                                a)
+                                
+                                    dal ministro competente o da un suo delegato, che la presiede;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    da una rappresentanza dei titolari degli uffici ai quali si
+riferiscono gli accordi decentrati.
+
+ PER LA PARTE SINDACALE
+ Una delegazione composta:
+ a) dai rappresentanti di ciascuna organizzazione sindacale maggiormente rappresentativa nell'azienda o settore interessato che abbia adottato codice di autoregolamentazione dell'esercizio del diritto di sciopero uguale ad uno di quelli adottati dalle organizzazioni sindacali firmatarie dell'accordo recepito nel presente decreto nonche' dai rappresentanti delle confederazioni maggiormente rappresentative su base nazionale.
 
 Qualora l'accordo riguardi una pluralita' di uffici dipendenti da diverse aziende o settori, esclusi quelli dipendenti dallo stesso ministero, aventi sede nella medesima regione, la delegazione di parte pubblica e' presieduta dal commissario del Governo o dal corrispondente organo nelle regioni a statuto speciale.
 
@@ -70,6 +264,31 @@ L'accordo va redatto per iscritto e deve essere sottoscritto dalla parte pubblic
 Le organizzazioni sindacali dissenzienti o che non abbiano partecipato alla trattativa possono esprimere le proprie osservazioni nel merito prima che l'accordo venga tradotto in provvedimento amministrativo e comunque entro il termine di quindici giorni dalla sua conclusione.
 
 L'accordo e' recepito con decreto del ministro, oppure con altri atti, secondo i rispettivi ordinamenti, a firma del competente dirigente, quale delegato del ministro, entro trenta giorni dalla scadenza del termine di cui al precedente comma.
+
+11.
+                        
+                            
+                                Il decreto del ministro o altro atto previsto dai rispettivi ordinamenti e' comunque necessario:
+ 
+                            
+                            
+                                a)
+                                
+                                    quando l'accordo ha efficacia in tutto il territorio nazionale, o comunque investe tutti gli uffici dell'amministrazione interessata;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    quando l'accordo ha efficacia per gli uffici periferici, non ricompresi nell'ambito di competenza territoriale di un unico organo amministrativo periferico;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    se le norme introdotte dall'accordo innovano altre norme previste da un precedente decreto ministeriale, a meno che il ministro non abbia previsto esplicitamente tale possibilita' nel provvedimento di delega relativo a quell'accordo decentrato.
 
 Gli accordi decentrati, riguardanti una pluralita' di uffici dipendenti da diverse aziende, escluse quelle dipendenti dallo stesso ministero, aventi sede nella medesima regione, sono recepiti con decreto del commissario del Governo e, ove ritenuto necessario, con decreto del Presidente del Consiglio dei Ministri.
 
@@ -138,6 +357,52 @@ L'orario flessibile, in alcuni casi specifici, puo' riguardare tutto il personal
 
 Qualora l'orario ordinario e l'orario flessibile non riescano ad assicurare l'effettuazione di determinate lavorazioni ovvero lo svolgimento di attivita' particolarmente articolate o diluite nel tempo o che per essere concluse devono attenersi a tempi tecnici non comprimibili o modificabili, l'organizzazione del lavoro puo' essere articolata su due o piu' turni.
 
+2.
+                        
+                            
+                                I criteri direttivi che devono essere osservati per l'adozione dell'orario di lavoro su turni sono i seguenti:
+ 
+                            
+                            
+                                a)
+                                
+                                    prima di ricorrere all'organizzazione del lavoro su turni necessita valutare se i risultati da conseguire non possano esserlo mediante la contemporanea adozione dell'orario ordinario e dell'orario flessibile;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'adozione del lavoro su turni deve corrispondere ad esigenze non sopprimibili o comprimibili in quanto imposte dall'osservanza di particolari prescrizioni o dalla sequenza di operazioni tecniche collegate od interdipendenti ovvero dalla necessita' di rispettare tempi tecnici di attesa, oppure dalle esigenze dell'utenza e del razionale utilizzo degli impianti;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    l'adozione dei turni puo' essere altresi' correlata - e quindi limitata nel tempo - allo svolgimento di determinati compiti a stretto tempo di adempimento ovvero a scadenze periodiche che, ancorche' conosciute, non consentano una programmazione di tipo ordinario per le fasi finali o di completamento di specifici processi, specie tecnici;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    l'adozione dei turni puo' anche prevedere una sovrapposizione da definirsi in sede di negoziazione decentrata con il turno precedente ai fini dello scambio di consegne, di materiali specifici e di istruzioni ovvero di affiancamento per esecuzione di lavorazioni particolarmente delicate o pericolose, nonche' per il controllo dei sistemi sussidiari di sicurezza, in senso generale e di allarme;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    il ricorso al lavoro su turni presuppone - specie quando non connessi a particolari fasi del processo produttivo - la distribuzione del personale, nei vari turni, ripartito sulla base delle professionalita' che devono essere presenti in ciascuno turno, con assoluta preminenza, quindi dell'interesse funzionale del servizio reso dall'amministrazione;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    la contrattazione nazionale di azienda o settore determina il numero massimo dei turni pomeridiani e/o notturni effettuabili nell'arco del mese da ciascun operatore, facendo comunque salve le esigenze imprevedibili ed eccezionali, quelle derivanti da calamita' o eventi naturali nonche' e quelle proprie della programmazione ordinaria dell'orario di lavoro e le esigenze riscontrabili in differenti realta' operative.
+
 ## Art. 11. — Permessi e ritardi
 
 Al dipendente possono essere concessi, per particolari esigenze personali, ed a domanda, brevi permessi di durata non superiore alla meta' dell'orario giornaliero.
@@ -189,6 +454,24 @@ I risultati dell'indagine sono riassunti a livello centrale dell'azienda e costi
 
 Per la formulazione di proposte per la determinazione degli organici, da portare al medesimo livello di negoziazione decentrata nazionale di azienda o settore e decentrata territoriale indicata nel comma 7, si terra' conto anche delle situazioni specifiche dei singoli uffici, strutture operative o stabilimenti, nonche' delle diverse figure professionali impegnate, delle figure professionali addette a servizi indivisibili, delle eventuali necessita' di professionalita' nuove, degli eventuali processi di ristrutturazione delle attivita' degli uffici, delle eventuali iniziative volte ad offrire nuovi servizi all'utenza, degli effetti del turn-over sulle effettive presenze degli addetti, della programmazione dell'orario di servizio e di apertura al pubblico e di quant'altro ritenuto utile al fine di pervenire ad una appropriata definizione delle necessita' organiche degli stessi.
 
+9.
+                        
+                            
+                                Tali proposte saranno valutate in sede di negoziazione decentrata a livello aziendale e potranno costituire la base per proposte finalizzate a:
+ 
+                            
+                            
+                                a)
+                                
+                                    modificare le piante organiche di ufficio. Tali modifiche saranno effettuate con provvedimento dell'azienda sentito il consiglio di amministrazione, entro i limiti consentiti dalle dotazioni organiche;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    modificare i contingenti dei profili insistenti sulla stessa qualifica funzionale.
+
 I commi 5 e seguenti non si applicano alle aziende e settori che hanno istituito strumenti e procedure per la determinazione e verifica delle dotazioni organiche.
 
 ## Art. 14. — Mobilita'
@@ -200,6 +483,52 @@ Alla copertura dei posti che a seguito della rideterminazione delle dotazioni or
 Le aziende o settori dopo averla verificata in sede di accordo decentrato per azienda a livello centrale e territoriale, porteranno a conoscenza del personale la situazione delle vacanze dei posti di ogni singolo ufficio, distinti per profilo professionale e relativa qualifica funzionale, al fine di mettere in grado il personale interessato di produrre domanda di trasferimento.
 
 Gli avvisi di disponibilita' dei posti sono pubblicati nel Bollettino ufficiale o altri atti amministrativi, almeno una volta all'anno.
+
+3.
+                        
+                            
+                                La graduatoria degli aspiranti e' formata tenendo conto dei seguenti requisiti:
+ 
+                            
+                            
+                                a)
+                                
+                                    condizioni di famiglia;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    eventuali necessita' di studio del dipendente, del coniuge e dei figli;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    servizio gia' prestato in sedi disagiate;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    anzianita' di servizio;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    anzianita' di sede di provenienza;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    altri requisiti da individuare a livello di contrattazione aziendale.
 
 Le aziende o settori provvedono a concordare con le organizzazioni sindacali tempi e modi per l'attuazione dei trasferimenti.
 
@@ -1325,6 +1654,52 @@ Al personale in servizio nella regione autonoma a statuto speciale Valle d'Aosta
 
 ## Art. 54. — Nona qualifica funzionale
 
+1.
+                        
+                            
+                                Il personale appartenente alla nona qualifica funzionale, istituita dall'art. 2 del decreto-legge 28 gennaio 1986, n. 9, convertito, con modificazioni, nella legge 24 marzo 1986, n. 78, espleta le seguenti funzioni:
+ 
+                            
+                            
+                                a)
+                                
+                                    sostituzione del dirigente in caso di assenza o impedimento;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    reggenza dell'ufficio in attesa della destinazione del dirigente titolare;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    collaborazione diretta alla attivita' di direzione espletata dal dirigente;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    direzione di uffici, istituti o servizi di particolare rilevanza o di stabilimenti di notevole complessita' non riservati a qualifiche dirigenziali;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    prestazioni per elaborazione, studio e ricerca altamente qualificate, richiedenti capacita' professionali di livello universitario nei campi amministrativo, tecnico o scientifico, convalidate da documentate esperienze nel settore, ed ove necessario, da abilitazione all'esercizio della professione, ovvero da specializzazione postuniversitaria;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    attivita' ispettive di particolare importanza, anche sulla gestione di progetti-obiettivo e di attivita' programmata, in funzione del conseguimento dei risultati e verifica degli stessi.
+
 ## Art. 55. — Dotazioni organiche
 
 In sede di prima applicazione del presente decreto, con decreto del Ministro competente, di concerto con il Ministro del tesoro e per la funzione pubblica, sono determinate le dotazioni organiche della nona qualifica funzionale, per ciascuna azienda o settore e per ogni singolo ruolo, in numero pari alla meta' della dotazione organica dell'ottava qualifica funzionale relativamente al personale della ex carriera direttiva alla data di entrata in vigore del presente decreto.
@@ -1388,6 +1763,80 @@ Con cadenza annuale, di regola entro il mese di settembre, le delegazioni stipul
 Sulla base dei risultati delle predette verifiche le parti possono formulare osservazioni e proposte da allegare alla relazione indicata dall'articolo 16 della legge-quadro sul pubblico impiego 29 marzo 1983, n. 93, o da porre a base di iniziative dirette a rimuovere eventuali ostacoli alla compiuta e tempestiva attuazione delle intese.
 
 ## Art. 61. — Accordo intercompartimentale
+
+1.
+                        
+                            
+                                Ai sensi dell'art. 12, comma 1, della legge 29 marzo 1983, n. 93, le parti concordano di demandare alla prossima contrattazione intercompartimentale le seguenti materie:
+ 
+                            
+                            
+                                a)
+                                
+                                    disciplina concernente l'utilizzazione delle 150 ore di studio;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    disciplina del congedo ordinario;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    disciplina del congedo straordinario;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    disciplina dell'aspettativa;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    disciplina del trattamento di missione;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    disciplina del trattamento di trasferimento;
+
+                                
+                            
+                            
+                                g)
+                                
+                                    disciplina delle aspettative e dei permessi sindacali;
+
+                                
+                            
+                            
+                                h)
+                                
+                                    inserimento nella tredicesima mensilita' della quota i.i.s. di L. 48.480;
+
+                                
+                            
+                            
+                                i)
+                                
+                                    reperibilita';
+
+                                
+                            
+                            
+                                l)
+                                
+                                    indennita' di rischio.
 
 In attesa della nuova disciplina resta in vigore la normativa attualmente vigente nelle suindicate materie.
 
@@ -2003,7 +2452,335 @@ Dette indennita' sono cumulabili con l'indennita' mensile pensionabile di cui al
 
 ## Art. 105. — Disposizioni particolari
 
+1.
+                        
+                            
+                                Nel rispetto dell'autonomia organizzativa garantita dall'art. 1 della legge 13 maggio 1983, n. 197, per la Cassa depositi e prestiti vengono stabilite le seguenti deroghe alle disposizioni generali contenute nel presente decreto:
+ 
+                            
+                            
+                                a)
+                                
+                                    rientrano tra le materie oggetto di contrattazione nazionale aziendale anche quelle materie che, sulla base del comma 2 dell'art. 3 del presente decreto, avrebbero formato oggetto di contrattazione decentrata territoriale; alle materie indicate nel comma 1 dell'art. 3 sono aggiunte le proposte di modifica dell'ordinamento del personale da sottoporre all'approvazione del Consiglio di amministrazione, ai sensi dell'art. 8, lettera g), della legge 13 maggio 1983, n. 197.
+ L'orario di lavoro e' disciplinato secondo le modalita' di cui agli articoli 7, 8, 9, 10 e 11 del presente decreto;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la presidenza della delegazione di parte pubblica, composta come previsto all'art. 4 del presente decreto per la contrattazione nazionale aziendale della Cassa depositi e prestiti, e' di spettanza del direttore generale, quale organo cui e' demandata la rappresentanza legale dell'istituto; in deroga al precedente art. 5, comma 4, nel caso in cui non si fosse raggiunto l'accordo entro il termine di cui all'articolo suddetto la rappresentanza di parte pubblica e' integrata dal Ministro del tesoro, presidente del consiglio di amministrazione, o da un suo delegato a norma dell'art. 7, lettera a), della legge 13 maggio 1983, n. 197;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il personale della Cassa depositi e prestiti e' ripartito nei livelli funzionali determinati dai decreti del Presidente della Repubblica 4 agosto 1984, pubblicato nella Gazzetta Ufficiale n. 221 dell'11 agosto 1984, e 4 agosto 1986, pubblicato nella Gazzetta Ufficiale n. 236 del 10 ottobre 1986, emessi a norma dell'art. 11, quarto comma, della legge 13 maggio 1983, n. 197, ed attuati ai sensi dell'art. 8, lettera g), della predetta legge.
+
+                                
+                            
+                            
+                                d)
+                                
+                                    il comitato paritetico, gia' costituito ai sensi dell'art. 14 della legge 13 maggio 1983, n. 197, esplica anche le funzioni del comitato di cui al comma 4 dell'art. 21;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    le disposizioni sulla mobilita' di comparto contenuto nell'art. 16 e quelle relative al piano occupazionale ed ai progetti finalizzati occupazionali contenuti negli articoli 19 e 20 si applicano alla Cassa depositi e prestiti, facendo in ogni caso salva l'autonomia organizzativa dell'istituto sancita dall'art. 1 della legge 13 maggio 1983, n. 197;
+
 ## Art. 106. — Trattamento economico di raccordo
+
+1.
+                        
+                            
+                                Visto l'accordo sulla definizione del trattamento economico del personale della Cassa depositi e prestiti per il periodo 1 luglio 1983-31 dicembre 1984, siglato il 1 luglio 1986, se ne riportano qui di seguito i contenuti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    le corrispondenze di inquadramento per livello tra ordinamento ministeriale di provenienza e nuovo ordinamento della Cassa sono cosi' indicate: 
+ 
+ 
+ 
+                                    
+                                        
+                                            
+                                                Ministeri 
+                                            
+                                            
+                                                Cassa DD.PP. 
+                                            
+                                        
+                                        
+                                            
+                                                - 
+                                            
+                                            
+                                                - 
+                                            
+                                        
+                                        
+                                            
+                                                1° 
+                                            
+                                            
+                                                - 
+                                            
+                                        
+                                        
+                                            
+                                                2° 
+                                            
+                                            
+                                                - 
+                                            
+                                        
+                                        
+                                            
+                                                3° 
+                                            
+                                            
+                                                1° 
+                                            
+                                        
+                                        
+                                            
+                                                - 
+                                            
+                                            
+                                                - 
+                                            
+                                        
+                                        
+                                            
+                                                4° 
+                                            
+                                            
+                                                - 
+                                            
+                                        
+                                        
+                                            
+                                                5° 
+                                            
+                                            
+                                                2° 
+                                            
+                                        
+                                        
+                                            
+                                                6° 
+                                            
+                                            
+                                                3° 
+                                            
+                                        
+                                        
+                                            
+                                                7° 
+                                            
+                                            
+                                                4° 
+                                            
+                                        
+                                        
+                                            
+                                                8° 
+                                            
+                                            
+                                                5° 
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                            
+                                b)
+                                
+                                    per il periodo 1 luglio 1983-31 dicembre 1984 il trattamento tabellare base e' il seguente: 
+ 
+                                    
+                                        
+                                            
+                                                Livello 
+                                            
+                                            
+                                                Stipendio 
+                                            
+                                        
+                                        
+                                            
+                                                1° 
+                                            
+                                            
+                                                4.050.000 
+                                            
+                                        
+                                        
+                                            
+                                                2° 
+                                            
+                                            
+                                                5.100.000 
+                                            
+                                        
+                                        
+                                            
+                                                3° 
+                                            
+                                            
+                                                5.730.000 
+                                            
+                                        
+                                        
+                                            
+                                                4° 
+                                            
+                                            
+                                                6.400.000 
+                                            
+                                        
+                                        
+                                            
+                                                5° 
+                                            
+                                            
+                                                7.700.000 
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                            
+                                c)
+                                
+                                    al personale che alla data del 1 luglio 1983 rivestiva nelle amministrazioni di provenienza la settima ed ottava qualifica funzionale viene attribuito rispettivamente il beneficio convenzionale annuo lordo di L. 563.200 e L. 670.000. 
+Ai fini dell'attribuzione dei benefici derivanti dal nuovo tabellare, si applicano gli scaglionamenti previsti dall'accordo recepito nel decreto del Presidente della Repubblica 15 marzo 1984, n. 53; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    l'inquadramento del personale nel nuovo reticolo retributivo avverra' sulla base delle classi e scatti posseduti dal personale alla data di cui alla lettera e), rimanendo inalterato il tempo gia' maturato ai fini della classe o scatto successivi; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    il valore delle classi e scatti si computa in ragione del 6% biennale sul trattamento tabellare indicato, fino al sedicesimo anno, e del 2,50% biennale computato sull'ultima classe. Gli accorpamenti previsti per i livelli retributivi di cui alla lettera a) si intendono attuati con il meccanismo del maturato economico cosi' come previsto dall'art. 25 della legge n. 312/1980; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    i nuovi trattamenti tabellari hanno effetto, dalla medesima decorrenza, sulla tredicesima mensilita', sulle ritenute previdenziali ed assistenziali, sull'indennita' di buonuscita, sull'equo indennizzo; non hanno effetto sul premio di produzione corrisposto fino alla data di entrata in vigore del nuovo meccanismo; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    il lavoro straordinario effettuato dal personale della Cassa dal 1 luglio 1983 viene riliquidato sulla base del meccanismo di calcolo in vigore alla stessa data presso l'Azienda delle poste e telecomunicazioni; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    dal 5 febbraio 1985 il personale che a seguito di concorso o promozione o inquadramento, con esclusione degli accorpamenti di cui al decreto del Presidente della Repubblica 4 agosto 1984, consegue un livello retributivo superiore a quello di appartenenza viene inquadrato nel nuovo livello con relativo stipendio iniziale cui si aggiunge quanto maturato per classi e scatti, compreso il maturato "in itinere", nel livello di provenienza trasformato in classi e scatti nel nuovo livello; l'eventuale eccedenza sui valori delle classi e degli scatti, corrisposta come assegno, viene temporizzata ai fini dell'ulteriore progressione economica; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    al finanziamento del riallineamento retributivo sopra esposto si provvede con la riduzione delle misure mensili del premio in godimento al 30 giugno 1986 del 7,5%; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    il premio di produzione in godimento al 1 luglio 1986 e' cosi' ridefinito: 
+ un premio annuo da corrispondere in due rate semestrali, finalizzato al raggiungimento di predeterminati obiettivi fissati di volta in volta dal consiglio di amministrazione, sentite le organizzazioni sindacali aziendali maggiormente rappresentative, nella misura annua pari al 10% della retribuzione annua lorda (per 12 mesi) costituita dallo stipendio e dalla I.I.S., in godimento al 31 dicembre dell'anno precedente; tale premio viene corrisposto in relazione al grado di operosita' e rendimento e dell'apporto dato alla produzione tenendo conto delle giornate di effettiva presenza utilizzata per il conseguimento del progetto obiettivo e sulla scelta di criteri e di standards stabiliti d'intesa con le organizzazioni sindacali aziendali maggiormente rappresentative firmatarie del presente protocollo; 
+ un premio mensile cosi' articolato: 
+ 
+ 
+ 
+                                    
+                                        
+                                            
+                                                Livelli  
+                                            
+                                            
+                                                Premio mensile Lire 
+                                            
+                                        
+                                        
+                                            
+                                                1° 
+                                            
+                                            
+                                                110.000 
+                                            
+                                        
+                                        
+                                            
+                                                2° 
+                                            
+                                            
+                                                140.000 
+                                            
+                                        
+                                        
+                                            
+                                                3° 
+                                            
+                                            
+                                                170.000 
+                                            
+                                        
+                                        
+                                            
+                                                4° 
+                                            
+                                            
+                                                200.000 
+                                            
+                                        
+                                        
+                                            
+                                                5° 
+                                            
+                                            
+                                                235.000 
+                                            
+                                        
+                                    
+                                    
+
+ 
+ 
+ Le predette misure mensili sono maggiorate di un importo non riassorbibile pari alla differenza fra il percepito mensile, prima dell'entrata in vigore del presente meccanismo al netto del 7,5%, e la somma fra il premio mensile ed il premio semestrale rapportato a mese. 
+ Il premio semestrale, il premio mensile e l'assegno non riassorbibile vengono corrisposti anche in relazione alla quantita' e qualita' di lavoro sulla base di standards individuali fissati dal consiglio d'amministrazione d'intesa con le organizzazioni sindacali aziendali. Le assenze delle quali tener conto per le attribuzioni delle varie parti di premio sono quelle previste dal decreto del Presidente del Consiglio dei Ministri 13 aprile 1984, che istituisce il compenso incentivante per i ministeriali. 
+ Con gli stessi parametri e criteri di cui al premio mensile, alla fine di ogni anno vanno ripartite a favore del personale che ha prestato servizio nello stesso anno tutte le quote di premio mensile e semestrale non erogate rispetto al monte globale teoricamente percepibile;((3))
+                                    
+                                
+                            
+                            
+                                m)
+                                
+                                    vengono fatte salve le somme percepite a titolo di premio di produzione fino al 30 giugno 1986 e quelle erogabili per recupero di produttivita' fino a tale data.
 
 ------------
                             AGGIORNAMENTO (3)

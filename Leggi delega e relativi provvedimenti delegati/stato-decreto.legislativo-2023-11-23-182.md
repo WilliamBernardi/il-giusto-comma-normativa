@@ -7,8 +7,8 @@ urn: urn:nir:stato:decreto.legislativo:2023-11-23;182
 vigente: true
 source: normattiva-opendata
 collection: Leggi delega e relativi provvedimenti delegati
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:41:18Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -93,6 +93,38 @@ La tabella B, annessa alla legge 5 marzo 1991, n. 71, e' sostituita dalla tabell
 
 ## Art. 9. — Poteri del membro nazionale presso l'Eurojust
 
+1.
+                    
+                        
+                            Il membro nazionale distaccato presso l'Eurojust ha il potere di: 
+ 
+                        
+                        
+                            a)
+                            
+                                agevolare o altrimenti sostenere l'emissione o l'esecuzione delle richieste di assistenza giudiziaria o riconoscimento reciproco; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                contattare direttamente e scambiare informazioni con le autorita' nazionali competenti o con qualsiasi altro organo, ufficio o agenzia competente dell'Unione europea, inclusa la Procura europea; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                contattare direttamente e scambiare informazioni con le autorita' internazionali competenti, in conformita' degli impegni internazionali dello Stato; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                partecipare alle squadre investigative comuni, anche alla loro costituzione.
+
 Il membro nazionale, di concerto con l'autorita' nazionale competente, puo' altresi' emettere o eseguire ogni richiesta di assistenza giudiziaria reciproca o di riconoscimento reciproco, nonche' disporre, chiedere o eseguire misure investigative a norma della direttiva 2014/41/UE del Parlamento europeo e del Consiglio, del 3 aprile 2014.
 
 Quando ricorrono ragioni di urgenza, se non e' possibile individuare o contattare tempestivamente l'autorita' nazionale competente, il membro nazionale puo' adottare le misure di cui al comma 2, a condizione che ne informi quanto prima l'autorita' nazionale competente.
@@ -105,6 +137,52 @@ Il membro nazionale provvede alle comunicazioni necessarie ad assicurare il corr
 
 Richiesta e scambio di informazioni 
  con le autorita' nazionali
+
+1.
+                    
+                        
+                            Fermo quanto disposto dall'articolo 21 del regolamento, ai fini dell'esercizio delle funzioni conferitegli dal regolamento, il membro nazionale presso l'Eurojust puo': 
+ 
+                        
+                        
+                            a)
+                            
+                                richiedere e scambiare con l'autorita' giudiziaria competente, anche in deroga al divieto stabilito dall'articolo 329 del codice di procedura penale, informazioni scritte in ordine a procedimenti penali e al contenuto di atti degli stessi; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                accedere alle informazioni contenute nei registri e nelle anagrafi indicati dall'articolo 1 del testo unico delle disposizioni legislative e regolamentari in materia di casellario giudiziale, di casellario giudiziale europeo, di anagrafe delle sanzioni amministrative dipendenti da reato e dei relativi carichi pendenti, di cui al decreto del Presidente della Repubblica 14 novembre 2002, n. 313, alle stesse condizioni del magistrato del pubblico ministero e mediante richiesta all'ufficio centrale del casellario giudiziale; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                accedere alle informazioni contenute nei registri delle notizie di reato e negli altri registri istituiti presso gli uffici giudiziari, nonche' alle informazioni contenute in ogni altro pubblico registro; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                richiedere all'autorita' che ha la competenza centrale per la sezione nazionale del Sistema di informazione Schengen di comunicare dati inseriti nel Sistema; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                accedere alle informazioni contenute nell'anagrafe delle persone detenute; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                accedere, nel rispetto delle disposizioni di cui articolo 12 della legge 30 giugno 2009, n. 85, alle informazioni inserite nella banca dati nazionale del DNA e nel laboratorio centrale per la banca dati nazionale del DNA.
 
 La richiesta di cui al comma 1, lettera a), nonche' la richiesta di accedere alle informazioni contenute nei registri delle notizie di reato e negli altri registri istituiti presso gli uffici giudiziari, sono inviate al pubblico ministero. Il pubblico ministero, quando non accoglie la richiesta, la trasmette, unitamente al proprio parere, al procuratore generale presso la Corte di cassazione, che provvede con decreto motivato.
 
@@ -140,6 +218,31 @@ Ai fini di cui all'articolo 13, comma 3, del decreto legislativo 5 aprile 2006, 
 La legge 14 marzo 2005, n. 41, e' abrogata.
 
 ## Art. 15. — Disposizioni finanziarie
+
+1.
+                    
+                        
+                            Agli oneri derivanti dall'attuazione delle disposizioni di cui agli articoli 2, 4, 6 e 7, del presente decreto, valutati in euro 772.229 annui a decorrere dall'anno 2023, si provvede: 
+ 
+                        
+                        
+                            a)
+                            
+                                quanto ad euro 458.697 annui a decorrere dall'anno 2023, mediante corrispondente utilizzo delle risorse rinvenienti dall'abrogazione delle disposizioni di cui all'articolo 14; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                quanto ad euro 273.862 annui a decorrere dall'anno 2023, mediante corrispondente riduzione dell'autorizzazione di spesa di cui all' articolo 11, comma 3, della legge 4 agosto 2022, n. 127; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                quanto ad euro 39.670 annui a decorrere dall'anno 2023, mediante corrispondente riduzione del fondo per il recepimento della normativa europea, di cui all'articolo 41-bis della legge 24 dicembre 2012, n. 234.
 
 Fatto salvo quanto previsto al comma precedente, le amministrazioni interessate provvedono all'attuazione delle disposizioni di cui al presente decreto nei limiti delle risorse umane, strumentali e finanziarie disponibili a legislazione vigente.
 

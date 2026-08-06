@@ -7,8 +7,8 @@ urn: urn:nir:ministero.istruzione:decreto:2022-10-13;194
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:39Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -46,7 +46,120 @@ Il presente decreto e' adottato in attuazione dell'articolo 29, comma 1, del dec
 
 Il reclutamento dei dirigenti scolastici si realizza mediante concorsi selettivi per titoli ed esami indetti con bando nazionale con cadenza triennale e organizzati su base regionale, subordinatamente alla disponibilita' di posti vacanti e disponibili nel triennio di riferimento.
 
+3.
+                    
+                        
+                            Ai fini del presente decreto si applicano le seguenti definizioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                Ministero: Ministero dell'istruzione; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                Ministro: Ministro dell'istruzione; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                USR: ufficio scolastico regionale o uffici scolastici regionali; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                dirigenti preposti agli USR: i direttori generali degli USR o i dirigenti di II fascia preposti alla direzione di un USR; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                dirigenti tecnici: dirigenti di seconda fascia che svolgono la funzione ispettiva tecnica di cui all'articolo 8 del decreto del Presidente del Consiglio dei ministri 30 settembre 2020, n. 166; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                Testo unico: il testo unico delle disposizioni legislative vigenti in materia di istruzione, relative alle scuole di ogni ordine e grado, adottato con decreto legislativo 16 aprile 1994, n. 297; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                decreto legislativo: il decreto legislativo 30 marzo 2001, n. 165; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                bando: ciascun bando di concorso adottato in attuazione del presente regolamento; 
+
+                            
+                        
+                        
+                            i)
+                            
+                                TIC: tecnologie dell'informazione e della comunicazione; 
+
+                            
+                        
+                        
+                            j)
+                            
+                                CEFR: il Common European Framework of References for Languages come definito dal Consiglio europeo.
+
 ## Art. 2. — Requisiti di ammissione
+
+1.
+                    
+                        
+                            E' ammesso a partecipare alle procedure di cui al presente decreto il personale docente ed educativo delle istituzioni scolastiche ed educative statali assunto con contratto a tempo indeterminato e confermato in ruolo ai sensi della normativa vigente, che abbia effettivamente reso, nelle istituzioni scolastiche ed educative statali, un servizio di almeno cinque anni e che sia in possesso di uno tra i seguenti titoli di studio: 
+ 
+                        
+                        
+                            a)
+                            
+                                laurea magistrale; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                laurea specialistica; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                diploma di laurea conseguito secondo gli ordinamenti didattici previgenti al decreto del Ministro dell'universita' e della ricerca scientifica e tecnologica 3 novembre 1999, n. 509, pubblicato nella Gazzetta Ufficiale della Repubblica italiana n. 2 del 4 gennaio 2000; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                diploma accademico di secondo livello rilasciato dalle istituzioni dell'alta formazione artistica, musicale e coreutica; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                diploma accademico di vecchio ordinamento congiunto con diploma di istituto secondario superiore.
 
 I titoli di studio di cui al comma 1 conseguiti all'estero sono considerati validi per l'ammissione al concorso se dichiarati equipollenti o equivalenti a titoli universitari italiani secondo la normativa vigente.
 
@@ -76,6 +189,73 @@ Sono altresi' messi a concorso i posti che si prevede si rendano vacanti e dispo
 Dai posti determinati ai sensi dei commi 5 e 6 sono detratti quelli occorrenti per l'assunzione dei vincitori dei concorsi precedentemente banditi.
 
 ## Art. 4. — Bando di concorso
+
+1.
+                    
+                        
+                            Il bando di concorso, adottato secondo le disposizioni di cui all'articolo 29 del decreto legislativo, definisce le modalita' attuative delle disposizioni di cui al presente decreto e disciplina, tra l'altro: 
+ 
+                        
+                        
+                            a)
+                            
+                                i requisiti generali di ammissione al concorso, ai sensi dell'articolo 2; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                il contingente di posti messi a bando, suddivisi per regione; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                il termine, il contenuto e le modalita' di presentazione delle istanze di partecipazione al concorso; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                l'ammontare e le modalita' di versamento del contributo posto a carico dei candidati per far parzialmente fronte alle spese della procedura concorsuale, ai sensi dell'articolo 29 del decreto legislativo; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                le modalita' di svolgimento dell'eventuale prova preselettiva, ai sensi dell'articolo 6; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                le modalita' di svolgimento delle prove concorsuali di cui agli articoli 7 e 8, assicurando la pubblicita' della prova orale; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                le modalita' di informazione ai candidati ammessi alla procedura concorsuale; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                i documenti richiesti per l'assunzione; 
+
+                            
+                        
+                        
+                            i)
+                            
+                                l'informativa sul trattamento dei dati personali.
 
 ## Art. 5. — Procedura concorsuale
 
@@ -119,6 +299,73 @@ L'elenco dei candidati ammessi a sostenere la prova scritta e' pubblicato sul si
 
 La prova scritta, unica per tutto il territorio nazionale, consiste in cinque quesiti a risposta aperta, che non devono avere ad oggetto tutti gli ambiti di cui al comma 2, e in due quesiti in lingua inglese di cui al comma 3.
 
+2.
+                    
+                        
+                            I cinque quesiti a risposta aperta vertono sui seguenti ambiti disciplinari: 
+ 
+                        
+                        
+                            a)
+                            
+                                Normativa riferita al sistema educativo di istruzione e di formazione e agli ordinamenti degli studi in Italia con particolare attenzione ai processi di riforma in atto; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                Modalita' di conduzione delle organizzazioni complesse e di gestione dei gruppi, con particolare riferimento alla realta' delle istituzioni scolastiche ed educative statali; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                Processi di programmazione, gestione e valutazione delle istituzioni scolastiche, con particolare riferimento alla predisposizione e gestione del Piano triennale dell'offerta formativa, all'elaborazione del Rapporto di autovalutazione, del Piano di miglioramento e della Rendicontazione sociale, nel quadro dell'autonomia delle istituzioni scolastiche e in rapporto alle esigenze formative del territorio; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                Organizzazione degli ambienti di apprendimento, con particolare riferimento all'inclusione scolastica, all'innovazione digitale e ai processi di innovazione nella didattica, all'interno di una adeguata progettazione pedagogica; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                Organizzazione del lavoro e gestione del personale, con particolare riferimento alla realta' del personale scolastico; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                Valutazione ed autovalutazione del personale, degli apprendimenti e dei sistemi e dei processi scolastici; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                Elementi di diritto civile e amministrativo, con particolare riferimento alle obbligazioni giuridiche e alle responsabilita' tipiche del dirigente scolastico, nonche' di diritto penale con particolare riferimento ai delitti contro la pubblica amministrazione e in danno di minorenni; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                Contabilita' di Stato, con particolare riferimento alla programmazione e gestione finanziaria presso le istituzioni scolastiche ed educative statali e relative aziende speciali; 
+
+                            
+                        
+                        
+                            i)
+                            
+                                Sistemi educativi dei Paesi dell'Unione europea.
+
 I due quesiti in lingua inglese consistono ciascuno in cinque domande a risposta multipla volte a verificare la comprensione di un testo fornito ai candidati. Detti quesiti vertono sulle materie di cui al comma 2, lettere d) o i), al fine di verificare il possesso della conoscenza della lingua inglese almeno al livello B2 del CEFR.
 
 La prova scritta si svolge mediante l'ausilio di mezzi informatizzati nella regione per la quale il candidato ha presentato domanda di partecipazione, nelle sedi individuate dagli USR. La mancata presentazione per l'espletamento della prova nel giorno, ora e sede stabiliti, per qualsiasi causa, ancorche' dovuta a forza maggiore, comporta l'esclusione dal concorso.
@@ -132,6 +379,31 @@ Nel corso della prova scritta, i candidati possono utilizzare, esclusivamente, l
 Sono ammessi alla prova orale i candidati che conseguono nella prova scritta il punteggio minimo previsto dall'articolo 9 comma 2.
 
 ## Art. 8. — Prova orale
+
+1.
+                    
+                        
+                            La prova orale, la cui durata e' definita dal bando di concorso, consiste in: 
+ 
+                        
+                        
+                            a)
+                            
+                                un colloquio sugli ambiti disciplinari della prova scritta, che accerta la preparazione professionale del candidato sui medesimi e verifica la capacita' di risolvere un caso riguardante la funzione del dirigente scolastico; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                una verifica della conoscenza e della capacita' di utilizzo degli strumenti informatici e delle TIC di piu' comune impiego presso le istituzioni scolastiche; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                una verifica della conoscenza della lingua inglese al livello B2 del CEFR, attraverso la lettura e traduzione di un testo scelto dalla commissione esaminatrice e una conversazione in lingua inglese.
 
 La prova orale e' superata dai candidati che conseguono il punteggio minimo previsto dall'articolo 9, comma 3.
 
@@ -153,6 +425,38 @@ Il punteggio finale e' dato dalla somma dei voti conseguiti nella prova scritta,
 ## Art. 10. — Predisposizione delle prove
 
 L'eventuale prova preselettiva di cui all'articolo 6 e la prova scritta di cui all'articolo 7 sono predisposte a livello nazionale dal Ministero, che a tal fine si avvale della collaborazione di un Comitato tecnico-scientifico, nominato dal Ministro con proprio decreto per ogni tornata concorsuale. I componenti del Comitato tecnico-scientifico, di comprovata qualificazione nelle materie oggetto del concorso, sono scelti tra docenti universitari, avvocati di Stato, magistrati della Corte dei conti, dirigenti scolastici, dirigenti amministrativi di ruolo e dirigenti tecnici di ruolo. Al Comitato sono aggregati componenti esperti nella lingua inglese, designati tra docenti di ruolo abilitati all'insegnamento per la relativa classe di concorso. Questi ultimi partecipano all'attivita' del Comitato senza che la stessa comporti oneri di sostituzione a carico del bilancio dello Stato.
+
+2.
+                    
+                        
+                            Il Comitato tecnico-scientifico: 
+ 
+                        
+                        
+                            a)
+                            
+                                predispone i quesiti, in numero pari a tre volte il numero dei candidati, da cui si estraggono a sorte i quesiti da somministrare il giorno dello svolgimento della prova scritta; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                redige i quesiti a risposta aperta di cui all'articolo 7, comma 1, e quelli a risposta multipla di cui all'articolo 6, comma 6, ovvero valida i quesiti della eventuale prova preselettiva, la cui predisposizione puo' essere demandata dal Ministero a soggetti esterni; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                redige i quesiti a risposta chiusa in lingua inglese di cui all'articolo 7, comma 3; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                definisce i quadri di riferimento in base ai quali sono costruite e valutate la prova scritta e la prova orale, da pubblicarsi prima dello svolgimento delle prove.
 
 I quesiti in cui si articola la prova orale di cui all'articolo 8, comma 1 sono predisposti dalla Commissione esaminatrice, che sceglie altresi' i testi in lingua inglese da leggere e tradurre.
 
@@ -182,6 +486,66 @@ I provvedimenti di nomina delle commissioni e delle eventuali sottocommissioni e
 La commissione e le eventuali sottocommissioni possono svolgere i propri lavori in modalita' telematica e/o mediante strumenti di videoconferenza, garantendo comunque l'anonimato nella correzione delle prove, la sicurezza e la tracciabilita' delle comunicazioni, secondo la normativa vigente.
 
 ## Art. 12. — Condizioni personali ostative all'incarico di presidente e componente della commissione e delle sottocommissioni del concorso e alla nomina di componente del Comitato tecnico-scientifico
+
+1.
+                    
+                        
+                            Sono condizioni ostative all'incarico di presidente, componente e componente aggregato della commissione e delle sottocommissioni del concorso, nonche' alla nomina quale componente del Comitato tecnico-scientifico: 
+ 
+                        
+                        
+                            a)
+                            
+                                avere riportato condanne penali o avere in corso procedimenti penali per i quali sia stata formalmente iniziata l'azione penale; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                avere in corso procedimenti disciplinari ai sensi delle norme disciplinari dei rispettivi ordinamenti; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                essere incorsi nelle sanzioni disciplinari previste nei rispettivi ordinamenti; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                essere stati collocati a riposo da piu' di quattro anni dalla data di pubblicazione del bando; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                a partire dall'anno antecedente alla data di indizione del concorso, essere componenti dell'organo di direzione politica dell'amministrazione, ricoprire cariche politiche o elettive parlamentari, regionali o negli Enti locali o l'incarico di sindaco o di assessore, essere rappresentanti sindacali, anche presso le Rappresentanze sindacali unitarie, essere designati dalle confederazioni ed organizzazioni sindacali o dalle associazioni professionali; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                avere relazioni di parentela, affinita' entro il quarto grado o abituale convivenza con uno o piu' concorrenti; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                aver organizzato, gestito o diretto, a partire dall'anno antecedente alla data di indizione del concorso, corsi aventi l'esclusiva finalita' di preparazione ai concorsi per il reclutamento di dirigenti scolastici; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                essere stati destituiti o licenziati dall'impiego per motivi disciplinari, per ragioni di salute o per decadenza dall'impiego comunque determinata.
 
 ## Art. 13. — Graduatorie di merito
 
@@ -219,8 +583,86 @@ Al fine di supportare il dirigente scolastico neoassunto nello svolgimento dei p
 
 Il dirigente preposto all'USR designa un dirigente scolastico con il compito di svolgere le funzioni di tutor per i dirigenti scolastici neoassunti. Ogni tutor segue al massimo tre dirigenti scolastici, svolge le funzioni di cui al comma 7 ed esercita ogni utile forma di ascolto, consulenza e collaborazione per migliorare la qualita' e l'efficacia dell'azione dirigenziale. Il tutor visita le istituzioni scolastiche di titolarita' dei dirigenti neoassunti almeno due volte nel corso del periodo di formazione e prova e redige la relazione di cui all'articolo 15, comma 7. All'attivita' del tutor e' riconosciuto un compenso economico nell'ambito delle risorse assegnate per la formazione iniziale dei dirigenti scolastici. Al tutor e' altresi' riconosciuta una specifica attestazione dell'attivita' svolta, inserita nel curriculum professionale e che forma parte integrante del fascicolo personale.
 
+9.
+                    
+                        
+                            Con successivo decreto del Ministro sono definiti: 
+ 
+                        
+                        
+                            a)
+                            
+                                le modalita' organizzative, l'articolazione e i contenuti didattici generali delle attivita' di formazione di cui al comma 6; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                le attivita' di accompagnamento di cui al comma 7; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                le modalita' e i criteri per la designazione dei tutor; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                le modalita' di documentazione del periodo di formazione e prova da parte del dirigente scolastico neoassunto; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                ulteriori compiti e adempimenti del Ministero, degli USR e dei tutor; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                eventuali forme di collaborazione con universita' e altri soggetti istituzionali nelle attivita' formative.
+
 ## Art. 15. — Valutazione del periodo di formazione 
  e prova
+
+1.
+                    
+                        
+                            Il periodo di formazione e di prova assolve alla finalita' di verificare la padronanza delle competenze professionali del dirigente scolastico, con riguardo all'articolo 1, comma 93, della legge 13 luglio 2015, n. 107 e al decreto legislativo 30 marzo 2001, n. 165, con riferimento particolare ai seguenti ambiti: 
+ 
+                        
+                        
+                            a)
+                            
+                                possesso ed esercizio delle competenze gestionali ed organizzative finalizzate alla correttezza, trasparenza, efficienza ed efficacia dell'azione dirigenziale; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                possesso ed esercizio delle competenze per lo sviluppo e la valorizzazione delle risorse umane, la conduzione e la gestione dei gruppi e dei conflitti; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                possesso ed esercizio delle competenze concernenti i rapporti con la comunita' scolastica, il territorio e i referenti istituzionali; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                possesso ed esercizio delle competenze concernenti l'analisi della realta' scolastica di assegnazione, nonche' della progettazione delle iniziative volte al suo miglioramento.
 
 Ai fini della verifica di cui al comma 1, lettera a), sono valutate la capacita' di svolgere le attivita' gestionali connesse con l'incarico dirigenziale e di ottemperare alle procedure previste dalla normativa vigente, in relazione agli atti di pertinenza del dirigente scolastico, nonche' la correttezza nella gestione delle risorse economiche, finanziarie e strumentali.
 

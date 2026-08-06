@@ -7,8 +7,8 @@ urn: urn:nir:ecologica.ministero.transizione:decreto:2022-09-20;178
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:41Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO 20 settembre 2022 178 Regolamento di attuazione dell'articolo 1-ter del decreto-legge 14 ottobre 2019, n. 111, convertito, con modificazioni, dalla legge 12 dicembre 2019, n. 141, concernente il «Programma #iosonoAmbiente». (22G00186)
@@ -52,6 +52,8 @@ In sede di prima applicazione, il bando di cui al comma 1 e' pubblicato entro qu
 ## Art. 3. — Selezione dei progetti
 
 I progetti di cui all'articolo 2 sono valutati da una Commissione operante presso il Ministero dell'istruzione e composta da un esperto, con funzione di Presidente, designato dal medesimo Ministero, e da due esperti designati, rispettivamente, dal Ministero della transizione ecologica e dal Ministero dell'universita' e della ricerca. La Commissione opera con risorse umane, finanziarie e strumentali a legislazione vigente e senza oneri ulteriori per la finanza pubblica.
+
+2.Il bando di cui all'articolo 2 disciplina la nomina della Commissione e le modalita' di scelta fra i progetti, applicando nell'ordine i seguenti criteri di priorita': a)progetti presentati da reti di scuole; b)progetti presentati dalle scuole, anche sulla base di appostiti protocolli d'intesa stipulati con enti parco e aree marine protette; c)maggior numero di studenti coinvolti nella realizzazione dei progetti a tutela dell'ambiente; d)progetti che prevedono attivita' di volontariato degli studenti o attivita' di promozione di nuovi stili di vita attraverso buone pratiche ambientali degli studenti orientate all'assunzione di comportamenti eco-sostenibili; e)progetti presentati congiuntamente ad associazioni di protezione ambientale riconosciute ai sensi dell'articolo 13 della legge 8 luglio 1986, n. 349; f)progetti presentati congiuntamente all'Istituto superiore per la protezione e la ricerca ambientale, alle Agenzie regionali e delle province autonome di Trento e Bolzano per la protezione dell'ambiente, a universita', centri di ricerca pubblici o consorzi universitari ed interuniversitari; g)raccordo con le iniziative di cui all'articolo 5, comma 2.
 
 ## Art. 4. — Finanziamento dei progetti
 

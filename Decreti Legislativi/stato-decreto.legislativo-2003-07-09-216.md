@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
 vigenza_date: 2026-06-07
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:34Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -31,6 +31,24 @@ Il presente decreto reca le disposizioni relative all'attuazione della parita' d
 
 ## Art. 2. — Nozione di discriminazione
 
+1.
+                    
+                        
+                            Ai fini del presente decreto e salvo quanto disposto dall'articolo 3, commi da 3 a 6, per principio di parita' di trattamento si intende l'assenza di qualsiasi discriminazione diretta o indiretta a causa della religione, delle convinzioni personali, degli handicap, dell'eta' ((, della nazionalita')) o dell'orientamento sessuale. Tale principio comporta che non sia praticata alcuna discriminazione diretta o indiretta, cosi' come di seguito definite: 
+ 
+                        
+                        
+                            a)
+                            
+                                discriminazione diretta quando, per religione, per convinzioni personali, per handicap, per eta' ((, per nazionalita')) o per orientamento sessuale, una persona e' trattata meno favorevolmente di quanto sia, sia stata o sarebbe trattata un'altra in una situazione analoga; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                discriminazione indiretta quando una disposizione, un criterio, una prassi, un atto, un patto o un comportamento apparentemente neutri possono mettere le persone che professano una determinata religione o ideologia di altra natura, le persone portatrici di handicap, le persone di una particolare eta' ((o nazionalita')) o di un orientamento sessuale in una situazione di particolare svantaggio rispetto ad altre persone.
+
 E' fatto salvo il disposto dell'articolo 43, commi 1 e 2 del testo unico delle disposizioni concernenti la disciplina dell'immigrazione e norme sulla condizione dello straniero, approvato con decreto legislativo 25 luglio 1998, n. 286.
 
 Sono, altresi', considerate come discriminazioni, ai sensi del comma 1, anche le molestie ovvero quei comportamenti indesiderati, posti in essere per uno dei motivi di cui all'articolo 1, aventi lo scopo o l'effetto di violare la dignita' di una persona e di creare un clima intimidatorio, ostile, degradante, umiliante od offensivo.
@@ -39,11 +57,128 @@ L'ordine di discriminare persone a causa della religione, delle convinzioni pers
 
 ## Art. 3. — Ambito di applicazione
 
+1.
+                    
+                        
+                            Il principio di parita' di trattamento senza distinzione di religione, di convinzioni personali, di handicap, di eta' ((, di nazionalita')) e di orientamento sessuale si applica a tutte le persone sia nel settore pubblico che privato ed e' suscettibile di tutela giurisdizionale secondo le forme previste dall'articolo 4, con specifico riferimento alle seguenti aree: 
+ 
+                        
+                        
+                            a)
+                            
+                                accesso all'occupazione e al lavoro, sia autonomo che dipendente, compresi i criteri di selezione e le condizioni di assunzione; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                occupazione e condizioni di lavoro, compresi gli avanzamenti di carriera, la retribuzione e le condizioni del licenziamento ((, la salute e la sicurezza, il reintegro professionale o il ricollocamento)); 
+
+                            
+                        
+                        
+                            c)
+                            
+                                accesso a tutti i tipi e livelli di orientamento e formazione professionale, perfezionamento e riqualificazione professionale, inclusi i tirocini professionali; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                affiliazione e attivita' nell'ambito di organizzazioni di lavoratori, di datori di lavoro o di altre organizzazioni professionali e prestazioni erogate dalle medesime organizzazioni. 
+
+                            
+                        
+                        
+                            d-bis)
+                            
+                                accesso all'alloggio; 
+
+                            
+                        
+                        
+                            d-ter)
+                            
+                                accesso a vantaggi sociali e fiscali; 
+
+                            
+                        
+                        
+                            d-quater)
+                            
+                                assistenza fornita dagli uffici di collocamento;
+
+2.
+                    
+                        
+                            La disciplina di cui al presente decreto fa salve tutte le disposizioni vigenti in materia di: 
+ 
+                        
+                        
+                            a)
+                            
+                                condizioni di ingresso, soggiorno ed accesso all'occupazione, all'assistenza e alla previdenza dei cittadini dei Paesi terzi e degli apolidi nel territorio dello Stato; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                sicurezza e protezione sociale; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                sicurezza pubblica, tutela dell'ordine pubblico, prevenzione dei reati e tutela della salute; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                stato civile e prestazioni che ne derivano; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                forze armate, limitatamente ai fattori di eta' e di handicap.
+
 Nel rispetto dei principi di proporzionalita' e ragionevolezza e purche' la finalita' sia legittima, nell'ambito del rapporto di lavoro o dell'esercizio dell'attivita' di impresa, non costituiscono atti di discriminazione ai sensi dell'articolo 2 quelle differenze di trattamento dovute a caratteristiche connesse alla religione, alle convinzioni personali, all'handicap, all'eta' ((, alla nazionalita')) o all'orientamento sessuale di una persona, qualora, per la natura dell'attivita' lavorativa o per il contesto in cui essa viene espletata, si tratti di caratteristiche che costituiscono un requisito essenziale e determinante ai fini dello svolgimento dell'attivita' medesima. PERIODO SOPPRESSO DAL D.L. 8 APRILE 2008, N. 59, CONVERTITO CON MODIFICAZIONI DALLA L. 6 GIUGNO 2008, N. 101.
 
 Al fine di garantire il rispetto del principio della parita' di trattamento delle persone con disabilita', i datori di lavoro pubblici e privati sono tenuti ad adottare accomodamenti ragionevoli, come definiti dalla Convenzione delle Nazioni Unite sui diritti delle persone con disabilita', ratificata ai sensi della legge 3 marzo 2009, n. 18, nei luoghi di lavoro, per garantire alle persone con disabilita' la piena eguaglianza con gli altri lavoratori. I datori di lavoro pubblici devono provvedere all'attuazione del presente comma senza nuovi o maggiori oneri per la finanza pubblica e con le risorse umane, finanziarie e strumentali disponibili a legislazione vigente.
 
 Sono fatte salve le disposizioni che prevedono accertamenti di idoneita' al lavoro nel rispetto di quanto stabilito dai commi 2 e 3.
+
+4-bis.
+                    
+                        
+                            Sono fatte salve le disposizioni che prevedono trattamenti differenziati in ragione dell'eta' dei lavoratori e in particolare quelle che disciplinano: 
+ 
+                        
+                        
+                            a)
+                            
+                                la definizione di condizioni speciali di accesso all'occupazione e alla formazione professionale, di occupazione e di lavoro, comprese le condizioni di licenziamento e di retribuzione, per i giovani, i lavoratori anziani e i lavoratori con persone a carico, allo scopo di favorire l'inserimento professionale o di assicurare la protezione degli stessi; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                la fissazione di condizioni minime di eta', di esperienza professionale o di anzianita' di lavoro per l'accesso all'occupazione o a taluni vantaggi connessi all'occupazione; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                la fissazione di un'eta' massima per l'assunzione, basata sulle condizioni di formazione richieste per il lavoro in questione o sulla necessita' di un ragionevole periodo di lavoro prima del pensionamento.
 
 Le disposizioni di cui al comma 4-bis sono fatte salve purche' siano oggettivamente e ragionevolmente giustificate da finalita' legittime, quali giustificati obiettivi della politica del lavoro, del mercato del lavoro e della formazione professionale, qualora i mezzi per il conseguimento di tali finalita' siano appropriati e necessari.
 
@@ -96,6 +231,45 @@ I soggetti di cui al comma 1 sono altresi' legittimati ad agire nei casi di disc
 ((6))
 
 All'((Organismo per la parita' istituito in recepimento della direttiva (UE) 2024/1499 del Consiglio, del 7 maggio 2024)), e' assegnato, altresi', il compito di svolgere, in modo autonomo e imparziale, attivita' di promozione della parita' e di rimozione di qualsiasi forma di discriminazione nei confronti dei lavoratori che esercitano il diritto alla libera circolazione all'interno dell'Unione europea. ((6))
+
+2.
+                    
+                        
+                            I compiti dell'ufficio di cui al comma 1, con particolare riferimento alle discriminazioni nei confronti dei lavoratori fondate sulla nazionalita', sono i seguenti: 
+ 
+                        
+                        
+                            a)
+                            
+                                prestare o assicurare che sia prestata assistenza indipendente, giuridica o di altra natura, ai lavoratori dell'Unione europea e ai loro familiari, fatti salvi i loro diritti e i diritti delle associazioni e delle organizzazioni o di altri soggetti giuridici preposti alla tutela dei loro diritti secondo l'ordinamento italiano; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                fungere da punto di contatto nei confronti di punti di contatto equivalenti in altri Stati membri dell'Unione europea al fine di cooperare e di scambiare informazioni utili; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                realizzare o commissionare indagini e analisi indipendenti riguardo a restrizioni e ostacoli ingiustificati al diritto di libera circolazione o alla discriminazione basata sulla nazionalita' dei lavoratori dell'Unione europea e dei loro familiari; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                assicurare la pubblicazione di relazioni indipendenti e formulare raccomandazioni su ogni questione connessa alle restrizioni, agli ostacoli o alla discriminazione di cui alla lettera c); 
+
+                            
+                        
+                        
+                            e)
+                            
+                                pubblicare informazioni pertinenti sull'applicazione a livello nazionale delle norme dell'Unione europea sulla libera circolazione dei lavoratori.
 
 --------------
                         AGGIORNAMENTO (6)

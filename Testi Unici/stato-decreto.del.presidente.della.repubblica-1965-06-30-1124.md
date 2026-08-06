@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Testi Unici
 vigenza_date: 2023-11-19
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:39:59Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -356,6 +356,59 @@ Costituiscono redditi di lavoro dipendente ai fini contributivi quelli di cui al
 Per il calcolo dei contributi di previdenza e assistenza sociale si applicano le disposizioni contenute nell'articolo 48 del testo unico delle imposte sui redditi, approvato con decreto del Presidente della Repubblica 22 dicembre 1986, n. 917, salvo quanto specificato nei seguenti commi.
 
 Le somme e i valori di cui al comma 1 dell'articolo 48 del testo unico delle imposte sui redditi, approvato con decreto del Presidente della Repubblica 22 dicembre 1986, n. 917, si intendono al lordo di qualsiasi contributo e trattenuta, ivi comprese quelle di cui al comma 2, lettera h), dello stesso articolo 48.
+
+4.
+                        
+                            
+                                Sono esclusi dalla base imponibile:
+ 
+                            
+                            
+                                a)
+                                
+                                    le somme corrisposte a titolo di trattamento di fine rapporto;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le somme corrisposte in occasione della cessazione del rapporto di lavoro al fine di incentivare l'esodo dei lavoratori, nonche' quelle la cui erogazione trae origine dalla predetta cessazione, fatta salva l'imponibilita' dell'indennita' sostitutiva del preavviso;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    i proventi e le indennita' conseguite, anche in forma assicurativa, a titolo di risarcimento danni;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    le somme poste a carico di gestioni assistenziali e previdenziali obbligatorie per legge; le somme e le provvidenze erogate da casse, fondi e gestioni di cui al successivo punto f) e quelle erogate dalle Casse edili di cui al comma 4; i proventi derivanti da polizze assicurative; i compensi erogati per conto di terzi non aventi attinenza con la prestazione lavorativa;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    nei limiti ed alle condizioni stabilite dall'articolo 2 del decreto-legge 25 marzo 1997, n. 67, convertito, con modificazioni, dalla legge 23 maggio 1997, n. 135, le erogazioni previste dai contratti collettivi aziendali, ovvero di secondo livello, delle quali sono incerti la corresponsione o l'ammontare e la cui struttura sia correlata dal contratto collettivo medesimo alla misurazione di incrementi di produttivita', qualita' ed altri elementi di competitivita' assunti come indicatori dell'andamento economico dell'impresa e dei suoi risultati;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    i contributi e le somme a carico del datore di lavoro, versate o accantonate, sotto qualsiasi forma, a finanziamento delle forme pensionistiche complementari di cui al decreto legislativo 21 aprile 1993, n. 124, e successive modificazioni e integrazioni, e a casse, fondi, gestioni previste da contratti collettivi o da accordi o da regolamenti aziendali, al fine di erogare prestazioni integrative previdenziali o assistenziali a favore del lavoratore e suoi familiari nel corso del rapporto o dopo la sua cessazione. I contributi e le somme predetti, diverse dalle quote di accantonamento al TFR, sono assoggettati al contributo di solidarieta' del 10 per cento di cui all'articolo 9-bis del decreto-legge 29 marzo 1991, n. 103, convertito, con modificazioni, dalla legge 1 giugno 1991, n. 166, e al citato decreto legislativo n. 124 del 1993, e successive modificazioni e integrazioni, a carico del datore di lavoro e devoluto alle gestioni pensionistiche di legge cui sono iscritti i lavoratori. Resta fermo l'assoggettamento a contribuzione ordinaria nel regime obbligatorio di appartenenza delle quote ed elementi retributivi a carico del lavoratore destinati al finanziamento delle forme pensionistiche complementari e alle casse, fondi e gestioni predetti. Resta fermo, altresi', il contributo di solidarieta' a carico del lavoratore nella misura del 2 per cento di cui all'articolo 1, comma 5, lettera b), del decreto legislativo 14 dicembre 1995, n. 579;
+
+                                
+                            
+                            
+                                g)
+                                
+                                    i trattamenti di famiglia di cui all'articolo 3, comma 3, lettera d), del testo unico delle imposte sui redditi, approvato con decreto del Presidente della Repubblica 22 dicembre 1986, n. 917.
 
 L'elencazione degli elementi esclusi dalla base imponibile e' tassativa.
 

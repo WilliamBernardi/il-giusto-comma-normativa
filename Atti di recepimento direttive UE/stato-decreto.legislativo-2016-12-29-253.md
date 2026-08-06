@@ -8,7 +8,7 @@ vigente: true
 source: normattiva-opendata
 collection: Atti di recepimento direttive UE
 zip_date: 2026-07-30
-fetched_at: 2026-08-02T09:40:50Z
+fetched_at: 2026-07-30
 ---
 
 DECRETO LEGISLATIVO
@@ -112,6 +112,53 @@ Gli Uffici e le Amministrazioni competenti forniscono tempestivamente e in via t
 Dall'attuazione del presente decreto legislativo non devono derivare nuovi o maggiori oneri a carico della finanza pubblica. Le amministrazioni competenti provvedono alla attuazione del medesimo decreto nell'ambito delle risorse umane, strumentali e finanziarie disponibili a legislazione vigente.
 
 ## Art. 4. — Abrogazioni
+
+1.
+                    
+                        
+                            All'articolo 27 del decreto legislativo 25 luglio 1998, n. 286, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 1: 
+ 1) alla lettera f) le parole: «effettuando anche prestazioni che rientrano nell'ambito del lavoro subordinato» sono soppresse; 
+ 2) la lettera g) e' soppressa; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 1-ter, primo periodo, le parole: «e g)» sono soppresse.
+
+2.
+                    
+                        
+                            All'articolo 40 del decreto Presidente della Repubblica 31 agosto 1999, n. 394, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 9: 
+ 1) alla lettera a) le parole: «di formazione professionale, ovvero» sono sostituite dalle seguenti: «di formazione professionale.»; 
+ 2) la lettera b) soppressa; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 10, il terzo e il quarto periodo sono soppressi; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                il comma 11 e' soppresso.
 
 ## Art. 5. — Entrata in vigore
 

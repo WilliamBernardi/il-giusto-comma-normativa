@@ -8,8 +8,8 @@ codice_redazionale: 011G0163
 vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:30Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -24,6 +24,39 @@ Acquisiti i pareri delle competenti Commissioni della Camera dei deputati e tenu
 Sulla proposta del Presidente del Consiglio dei Ministri e del Ministro dell'ambiente e della tutela del territorio e del mare e del Ministro della giustizia, di concerto con il Ministri degli affari esteri, dello sviluppo economico, delle politiche agricole alimentari e forestali, delle infrastrutture e dei trasporti e dell'economia e delle finanze;
 
 ## Art. 1. — Modifiche al codice penale
+
+1.
+                    
+                        
+                            Al codice penale sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                dopo l'articolo 727, e' inserito il seguente: 
+ 
+ «Art. 727-bis 
+ 
+ 
+(Uccisione, distruzione, cattura, prelievo, detenzione di esemplari di specie animali o vegetali selvatiche protette) 
+ 
+ Salvo che il fatto costituisca piu' grave reato, chiunque, fuori dai casi consentiti, uccide, cattura o detiene esemplari appartenenti ad una specie animale selvatica protetta e' punito con l'arresto da uno a sei mesi o con l'ammenda fino a 4. 000 euro, salvo i casi in cui l'azione riguardi una quantita' trascurabile di tali esemplari e abbia un impatto trascurabile sullo stato di conservazione della specie. 
+ Chiunque, fuori dai casi consentiti, distrugge, preleva o detiene esemplari appartenenti ad una specie vegetale selvatica protetta e' punito con l'ammenda fino a 4. 000 euro, salvo i casi in cui l'azione riguardi una quantita' trascurabile di tali esemplari e abbia un impatto trascurabile sullo stato di conservazione della specie.»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                dopo l'articolo 733, e' inserito il seguente: 
+ 
+ «Art. 733-bis 
+ 
+ 
+(Distruzione o deterioramento di habitat all'interno di un sito protetto) 
+ 
+ Chiunque, fuori dai casi consentiti, distrugge un habitat all'interno di un sito protetto o comunque lo deteriora compromettendone lo stato di conservazione, e' punito con l'arresto fino a diciotto mesi e con l'ammenda non inferiore a 3. 000 euro.».
 
 Ai fini dell'applicazione dell'articolo 727-bis del codice penale, per specie animali o vegetali selvatiche protette si intendono quelle indicate nell'allegato IV della direttiva 92/43/CE e nell'allegato I della direttiva 2009/147/CE.
 
@@ -90,6 +123,48 @@ All'articolo 260-bis del decreto legislativo 3 aprile 2006, n. 152, dopo il comm
 Al comma 1 dell'articolo 260-ter del decreto legislativo 3 aprile 2006, n. 152, dopo le parole: «All'accertamento delle violazioni di cui ai commi» le parole: «8 e 9» sono sostituite dalle seguenti: «7 e 8».
 
 ## Art. 4. — Modifiche al decreto legislativo 3 dicembre 2010, n. 205
+
+1.
+                    
+                        
+                            All'articolo 190 del decreto legislativo 3 aprile 2006, n. 152, come modificato dall'articolo16, comma 1, lettera d), del decreto legislativo 3 dicembre 2010, n. 205, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 1 prima delle parole: «I soggetti di cui all'articolo 188-ter» sono anteposte le seguenti: «Fatto salvo quanto stabilito al comma 1-bis,»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                dopo il comma 1 e' inserito il seguente: «1-bis. Sono esclusi dall'obbligo di tenuta di un registro di carico e scarico gli imprenditori agricoli di cui all'articolo 2135 del codice civile che raccolgono e trasportano i propri rifiuti speciali non pericolosi di cui all'art. 212, comma 8, nonche' le imprese e gli enti che, ai sensi dell'art. 212, comma 8, raccolgono e trasportano i propri rifiuti speciali non pericolosi di cui all'articolo 184, comma 3, lettera b).».
+
+2.
+                    
+                        
+                            All'articolo 39 del decreto legislativo 3 dicembre 2010, n. 205, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                il comma 2 e' sostituito dal seguente: 
+ «2. Al fine di graduare la responsabilita' nel primo periodo di applicazione del sistema di controllo della tracciabilita' dei rifiuti (SISTRI) di cui all'articolo 188-bis, comma 2, lettera a), del decreto legislativo 3 aprile 2006, n. 205, e successive modificazioni, i soggetti obbligati all'iscrizione al predetto sistema che omettono l'iscrizione o il relativo versamento nei termini previsti, fermo restando l'obbligo di adempiere all'iscrizione al predetto sistema con pagamento del relativo contributo, sono puniti, per ciascun mese o frazione di mese di ritardo: 
+ a) con una sanzione pari al cinque per cento dell'importo annuale dovuto per l'iscrizione se l'inadempimento si verifica nei primi otto mesi successivi alla decorrenza degli obblighi di operativita' per ciascuna categoria di operatori, enti o imprese, come individuata dall'articolo 12, comma 2, del decreto del Ministro dell'ambiente e della tutela del territorio e del mare in data 17 dicembre 2009, e successive modificazioni, pubblicato nel supplemento ordinario alla Gazzetta Ufficiale n. 9 del 13 gennaio 2010; 
+ b) con una sanzione pari al cinquanta per cento dell'importo annuale dovuto per l'iscrizione se l'inadempimento si verifica o comunque si protrae per i quattro mesi successivi al periodo individuato alla lettera a) del presente comma.»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                dopo il comma 2, sono inseriti i seguenti: 
+ «2-bis. Anche in attuazione di quanto disposto al comma 1, i soggetti di cui all'articolo 188-ter, commi 1, 2, 4 e 5, del decreto legislativo 3 aprile 2006, n. 152, e successive modificazioni, che fino alla decorrenza degli obblighi di operativita' del sistema di controllo della tracciabilita' dei rifiuti (SISTRI) di cui all'articolo 188-bis, comma 2, lettera a), del decreto legislativo 3 aprile 2006, n. 152, e successive modificazioni, non adempiono alle prescrizioni di cui all'articolo 28, comma 2, del decreto del Ministro dell'ambiente e della tutela del territorio e del mare 18 febbraio 2011, n. 52, sono soggetti alle relative sanzioni previste dall'articolo 258 del decreto legislativo 3 aprile 2006, n. 152, nella formulazione precedente all'entrata in vigore del presente decreto. 
+ 2-ter. Anche in attuazione di quanto disposto al comma 1, le sanzioni previste dall'articolo 258 del decreto legislativo 3 aprile 2006, n. 152, nella formulazione previgente a quella di cui al decreto legislativo 3 dicembre 2010, n. 205, per la presentazione del modello unico di dichiarazione ambientale si applicano ai soggetti tenuti alla comunicazione di cui all'articolo 28, comma 1, del citato decreto ministeriale 18 febbraio 2011, n. 52, e successive modificazioni, secondo i termini e le modalita' ivi indicati. 
+ 2-quater. Le sanzioni amministrative di cui all'articolo 260-bis, commi 3, 4, 5, 7 e 9, del decreto legislativo 3 aprile 2006, n. 152, e successive modificazioni, sono ridotte, ad eccezione dei casi di comportamenti fraudolenti di cui al predetto comma 3, a un decimo per le violazioni compiute negli otto mesi successivi alla decorrenza degli obblighi di operativita' per ciascuna categoria di operatori, enti o imprese, come individuata dall'articolo 1 del decreto ministeriale 26 maggio 2011, e successive modificazioni, e a un quinto per le violazioni compiute dalla scadenza dell'ottavo mese e per i successivi quattro mesi.».
 
 ## Art. 5. — Clausola di invarianza
 

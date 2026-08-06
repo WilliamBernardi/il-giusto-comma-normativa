@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
 vigenza_date: 2010-01-07
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:42Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DEL CONSIGLIO DEI MINISTRI
@@ -38,6 +38,59 @@ dall'articolo 1, comma 5, si giustifica in considerazione del fatto che la garan
 
 Il tabaccaio che intende riscuotere le tasse automobilistiche presenta, anche per il tramite delle associazioni di categoria, apposita istanza alla regione o alla provincia autonoma per la quale intende svolgere il relativo servizio. Per le regioni Sardegna, Friuli-Venezia Giulia e Valle d'Aosta, l'istanza e' presentata al Ministero delle finanze.
 
+2.
+                    
+                        
+                            Nell'istanza sono indicati:
+ 
+                        
+                        
+                            a)
+                            
+                                il numero di licenza di rivendita rilasciata dal Ministero delle finanze, Monopoli di Stato;
+
+                            
+                        
+                        
+                            b)
+                            
+                                l'indirizzo in cui e' sita la rivendita (comune, via e numero civico);
+
+                            
+                        
+                        
+                            c)
+                            
+                                il codice fiscale del titolare;
+
+                            
+                        
+                        
+                            d)
+                            
+                                il nome e il cognome del titolare;
+
+                            
+                        
+                        
+                            e)
+                            
+                                il comune e la data di nascita del titolare;
+
+                            
+                        
+                        
+                            f)
+                            
+                                la residenza del titolare (comune, via e numero civico);
+
+                            
+                        
+                        
+                            g)
+                            
+                                l'impegno a dotarsi di mezzi tecnici idonei ad assicurare il collegamento e le caratteristiche di sicurezza definiti secondo le modalita' di cui all'articolo 2, comma 3.
+
 L'ente provvede sull'istanza nel termine di sessanta giorni dalla sua presentazione e comunica le proprie determinazioni all'interessato, anche per il tramite delle associazioni di categoria. ((PERIODO SOPPRESSO DALL' ERRATA-CORRIGE IN G.U. 29/01/1999, N. 23)).
 
 Il tabaccaio, a garanzia degli obblighi connessi allo svolgimento del servizio, presta per l'anno 1999 una fidejussione bancaria o assicurativa unica, pari a lire cento milioni, a favore dei soggetti indicati al comma 1 per i quali e' prestato il servizio stesso. A partire dall'anno 2000, la cauzione e' commisurata all'ammontare mensile medio delle riscossioni effettuate nell'anno precedente, arrotondate per difetto al milione di lire.
@@ -50,6 +103,31 @@ Le condizioni di garanzia tra gli enti garanti ed il beneficiario sono regolate 
  relativi alla riscossione
 
 Il collegamento con gli archivi delle tasse automobilistiche, previsti dagli articoli 5 e 6 del decreto ministeriale 25 novembre 1998, n. 418, e l'invio dei dati dei versamenti vengono effettuati mediante utilizzo di una rete telematica e per il tramite di un idoneo sistema informatico indicato dalle associazioni di categoria.
+
+2.
+                    
+                        
+                            Il sistema informatico deve:
+ 
+                        
+                        
+                            a)
+                            
+                                assicurare il collegamento in tempo reale con gli archivi delle tasse automobilistiche di cui al comma 1;
+
+                            
+                        
+                        
+                            b)
+                            
+                                garantire la sicurezza ed integrita' dei dati trasmessi;
+
+                            
+                        
+                        
+                            c)
+                            
+                                essere operativo su tutto il territorio nazionale.
 
 Le modalita' di collegamento e le caratteristiche di sicurezza del collegamento stesso sono definite d'intesa tra le regioni interessate e le associazioni di categoria dei tabaccai, ed approvate con decreto del Ministro delle finanze.
 

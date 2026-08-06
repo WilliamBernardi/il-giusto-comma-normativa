@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Regi decreti
 vigenza_date: 2025-08-10
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T10:26:29Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 REGIO DECRETO
@@ -686,6 +686,63 @@ Quando venga a risultare che l'assunzione degli impegni non fu tempestivamente d
 ## Art. 54. — (Disposizioni di pagamento)
 
 Il pagamento delle spese dello Stato si effettua secondo lo standard ordinativo informatico previsto dall'articolo 14, comma 8-bis, della ((legge 31 dicembre 2009, n. 196)), direttamente a valere sugli stanziamenti di bilancio dello Stato o tramite l'utilizzo di fondi disponibili in tesoreria.
+
+2.
+                        
+                            
+                                Il pagamento a valere sugli stanziamenti del bilancio e' effettuato attraverso le seguenti tipologie di disposizione: 
+ 
+                            
+                            
+                                a)
+                                
+                                    mandati informatici, emessi dagli ordinatori primari di spesa; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    ordinativi informatici, emessi dagli ordinatori secondari di spesa titolari di contabilita' ordinaria sulle aperture di credito disposte dalle amministrazioni deleganti; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    buoni di prelevamento informatici, a valere sulle risorse messe a disposizione degli ordinatori secondari ai sensi della lettera b); 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    spese fisse telematiche, per i pagamenti indicati nell'articolo 62; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    altre disposizioni di pagamento informatizzato previste dalla legge o dal regolamento.
+
+3.
+                        
+                            
+                                Il pagamento tramite l'utilizzo di risorse disponibili in tesoreria e' effettuato: 
+ 
+                            
+                            
+                                a)
+                                
+                                    con ordinativi informatici a valere sulle disponibilita' delle contabilita' speciali e dei conti aperti presso la tesoreria statale; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    con ordinativi informatici a titolo di anticipazione di tesoreria, nei casi previsti da norme di legge o regolamentari o da autorizzazione amministrativa da parte del Dipartimento della Ragioneria generale dello Stato.
 
 Le disposizioni per i pagamenti del debito pubblico all'interno e all'estero, dei crediti documentari, nonche' dei rimborsi fiscali sono stabilite dal regolamento. Sui pagamenti di cui al presente articolo sono comunque effettuate, in sede di controllo, le attivita' di riscontro della Corte dei conti.
 

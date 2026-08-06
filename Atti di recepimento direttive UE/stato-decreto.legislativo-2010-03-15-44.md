@@ -9,7 +9,7 @@ vigente: true
 source: normattiva-opendata
 collection: Atti di recepimento direttive UE
 zip_date: 2026-07-30
-fetched_at: 2026-08-02T09:40:50Z
+fetched_at: 2026-07-30
 ---
 
 DECRETO LEGISLATIVO
@@ -335,6 +335,318 @@ Il decreto interministeriale di cui al comma 3 dell'articolo 44 del decreto legi
 ## - Capo II NORME DI COORDINAMENTO DEL TESTO UNICO   DELLA RADIOTELEVISIONE
 
 ## Art. 17. — Norme integrative e di coordinamento
+
+1.
+                        
+                            
+                                Al decreto legislativo 31 luglio 2005, n. 177, sono apportate le seguenti modifiche: 
+ 
+                            
+                            
+                                a)
+                                
+                                    all'articolo 3 la parola: «radiotelevisivo» e' sostituita dalle seguenti: «dei servizi di media audiovisivi e della radiofonia»; dopo le parole: «dell'informazione» sono aggiunte le seguenti: «, la tutela dei diritti d'autore e di proprieta' intellettuale»; la parola comunitario e' sostituita dalle seguenti «dell'Unione europea»; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'articolo 4 e' sostituito dal seguente: 
+ «Art. 4 (Principi generali del sistema dei servizi di media audiovisivi e della radiofonia a garanzia degli utenti). - 1. La disciplina del sistema dei servizi di media audiovisivi e radiofonici, a tutela degli utenti, garantisce: 
+ a) l'accesso dell'utente, secondo criteri di non discriminazione, ad un'ampia varieta' di informazioni e di contenuti offerti da una pluralita' di operatori nazionali e locali, favorendo a tale fine la fruizione e lo sviluppo, in condizioni di pluralismo e di liberta' di concorrenza, delle opportunita' offerte dall'evoluzione tecnologica da parte dei soggetti che svolgono o intendono svolgere attivita' nel sistema delle comunicazioni; 
+ b) la diffusione di un congruo numero di programmi radiotelevisivi nazionali e locali in chiaro, garantendo l'adeguata copertura del territorio nazionale o locale. 
+ 2. Il trattamento dei dati personali delle persone fisiche e degli enti nel settore radiotelevisivo e' effettuato nel rispetto dei diritti, delle liberta' fondamentali, nonche' della dignita' umana, con particolare riferimento alla riservatezza e all'identita' personale, in conformita' alla legislazione vigente in materia.»; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    la rubrica dell'articolo 5 e' sostituita dalla seguente: «Principi generali del sistema dei servizi di media audiovisivi e della radiofonia a salvaguardia del pluralismo e della concorrenza»; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    all' articolo 5, comma 1, la parola: «radiotelevisivo» e' sostituita dalle seguenti: «dei servizi di media audiovisivi e della radiofonia»; alla lettera a), le parole: «mercato radiotelevisivo» sono sostituite dalle seguenti: «sistema dei servizi di media audiovisivi e della radiofonia»; alla lettera b) le parole: «fornitore di contenuti televisivi o di fornitore di contenuti radiofonici» sono sostituite dalle seguenti: «di emittente o di fornitore di servizi di media audiovisivi a richiesta o di emittente radiofonica digitale»; e le parole: «l'attivita' di operatore di rete, per le attivita' di fornitore di contenuti televisivi o di fornitore di contenuti radiofonici oppure di fornitore di servizi interattivi associati o di servizi di accesso condizionato» sono sostituite dalle seguenti: «le attivita' dianzi menzionate»; le parole: «in applicazione della delibera dell'Autorita' 15 novembre 2001, n. 435/01/CONS, pubblicata nella Gazzetta Ufficiale n. 284 del 6 dicembre 2001» sono soppresse; le parole: «l'autorizzazione all'attivita' di fornitore di contenuti» sono sostituite dalle seguenti: «l'autorizzazione all'attivita' di emittente o di fornitore di servizi di media audiovisivi a richiesta o di emittente radiofonica digitale» e, in fine, le parole: «o di fornitore di contenuti» sono sostituite dalle seguenti: «o di emittente, anche radiofonica digitale, o di fornitore di servizi di media a richiesta»; alla lettera d) le parole: «per la fornitura di contenuti televisivi» sono sostituite dalle seguenti: «per emittente»; la parola: «radiofonici» e' sostituita dalle seguenti: «emittente radiofonica digitale»; e, in fine, le parole: «fornitore di contenuti» sono sostituite dalla seguente: «emittente, anche radiofonica digitale,»; alla lettera e), il numero 1) e' sostituito dal seguente: «1) di non effettuare discriminazioni nei confronti delle emittenti, anche radiofoniche digitali, o dei fornitori di servizi di media audiovisivi a richiesta non riconducibili a societa' collegate e controllate, rendendo disponibili a queste ultime le stesse informazioni tecniche messe a disposizione delle emittenti, anche radiofoniche digitali, o dei fornitori di servizi media a richiesta riconducibili a societa' collegate e controllate;»; alla lettera e), numero 2), le parole: «soggetti autorizzati a fornire contenuti» sono sostituite dalle seguenti: «emittenti, anche radiofoniche digitali, o fra fornitori di servizi di media a richiesta»; le parole: «e fornitori indipendenti di contenuti e servizi,» sono sostituite dalle seguenti: «ed emittenti, anche radiofoniche digitali, fornitori di servizi di media a richiesta e fornitore di servizi interattivi associati o di servizi di accesso condizionato indipendenti,»; alla lettera e), numero 3), le parole: «dai fornitori di contenuti» sono sostituite dalle seguenti: «dalle emittenti, anche radiofoniche digitali, o dai fornitori di servizi media a richiesta»; alla lettera f) le parole: «i fornitori di contenuti» sono sostituite dalle seguenti: «le emittenti, anche radiofoniche digitali, e per i fornitori di servizi di media a richiesta»; e le parole: «degli stessi» sono sostituite dalle seguenti: «di programmi»; alla lettera g) le parole: «operanti nel settore delle comunicazioni radiotelevisive in tecnica digitale» sono sostituite dalle seguenti: «, diverse da quelle che trasmettono in tecnica analogica, operanti nei settori dei servizi di media audiovisivi o della emittenza radiofonica o dei servizi interattivi associati o di servizi di accesso condizionato»; il numero 1) della lettera g) e' sostituito dal seguente: «1) l'emittente, anche radiofonica digitale, o il fornitore di servizi di media a richiesta che sia anche fornitore di servizi, sia tenuto ad adottare un sistema di contabilita' separata per ciascuna autorizzazione»; il numero 2) della lettera g) e' sostituito dal seguente « 2) l'emittente, anche radiofonica digitale, che sia anche operatore di rete in ambito televisivo nazionale, ovvero fornitore di servizi interattivi associati o di servizi di accesso condizionato, sia tenuto alla separazione societaria. »; alla lettera g), dopo il numero 2), e' aggiunto il seguente: «2-bis) le disposizioni di cui ai numeri 1) e 2) non si applicano ai soggetti operanti unicamente in ambito locale su frequenze terrestri»; alla lettera h) le parole: «del fornitore di contenuti radiotelevisivi» sono sostituite dalle seguenti: «delle emittenti, anche radiofoniche digitali,»; alla lettera i) le parole: «per le emittenti radiofoniche e televisive private, per i fornitori di contenuti in ambito nazionale» sono sostituite dalle seguenti: «per le emittenti, anche analogiche, per le emittenti radiofoniche, operanti in ambito nazionale»; al numero 1) della lettera i) dopo le parole: «radiotelevisive locali» e' aggiunta la seguente: «analogiche»; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    l'articolo 6 e' soppresso; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    la rubrica dell'articolo 7 e' sostituita dalla seguente: «Principi generali in materia di informazione e di ulteriori compiti di pubblico servizio nel settore dei servizi di media audiovisivi e radiofonici»; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    all'articolo 7, comma 1, le parole: «radiotelevisiva, da qualsiasi emittente o fornitore di contenuti esercitata,» sono sostituite dalle seguenti: «mediante servizio di media audiovisivo o radiofonico»; al comma 2, lettera a), dopo la parola: «opinioni» le parole «, comunque non consentendo la sponsorizzazione dei notiziari» sono soppresse; al comma 3 le parole: «radiotelevisive ed i fornitori di contenuti in ambito nazionale» sono sostituite dalle seguenti: «, anche analogiche e per le emittenti radiofoniche, diverse da quelle operanti in ambito locale,»; al comma 5 le parole: «nella Comunita' europea» sono sostituite dalle seguenti: «nell'Unione europea»; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    all'articolo 8, comma 2, le parole: «di radiodiffusione televisiva» sono sostituite dalle seguenti: «dei servizi di media audiovisivi»; le parole: « titolari di autorizzazione alla fornitura di contenuti destinati alla diffusione» sono sostituite dalle seguenti: «abilitati a diffondere i propri contenuti»; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    la rubrica dell'articolo 9 e' sostituita dalla seguente: «Ministero dello sviluppo economico»; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    all'articolo 9, comma 2, le parole: «Ministro delle comunicazioni per il settore radiotelevisivo» sono sostituite dalle seguenti: «Ministro dello sviluppo economico per i settori dei servizi di media audiovisivi e della radiofonia»; al comma 3, le parole: «nel settore radiotelevisivo» sono sostituite dalle seguenti: «nei settori dei servizi di media audiovisivi e della radiofonia»; 
+
+                                
+                            
+                            
+                                m)
+                                
+                                    la rubrica dell'articolo 10 e' sostituita dalla seguente: «Competenze in materia di servizi di media audiovisivi e radiodiffusione dell'Autorita' per le garanzie nelle comunicazioni»; 
+
+                                
+                            
+                            
+                                n)
+                                
+                                    all'articolo 10, comma 1, le parole: «anche radiotelevisive» sono sostituite dalle seguenti: «anche mediante servizi di media audiovisivi o radiofonici»; al comma 2 le parole: «in materia di radiotelevisione» sono sostituite dalle seguenti: «in materia di servizi di media audiovisivi e radiofonici»; 
+
+                                
+                            
+                            
+                                o)
+                                
+                                    all'articolo 11, comma 1, le parole: «materia radiotelevisiva» sono sostituite dalle seguenti: «in materia di servizi di media audiovisivi e radiofonici»; 
+
+                                
+                            
+                            
+                                p)
+                                
+                                    all'articolo 12, comma 1, lettera c), le parole: «per fornitore di contenuti» sono sostituite dalle seguenti: «per emittente, anche radiofonica digitale,»; alla lettera d) la parola: «licenza» e' sostituita dalla seguente: «autorizzazione»; 
+
+                                
+                            
+                            
+                                q)
+                                
+                                    all'articolo 15, comma 5, e' aggiunto, in fine, il seguente periodo: «Il Ministero dello sviluppo economico provvede a uniformare la durata delle autorizzazioni degli operatori di rete rilasciate ai sensi del presente testo unico con quelle rilasciate ai sensi del decreto legislativo 1° agosto 2003, n. 259.»; 
+
+                                
+                            
+                            
+                                r)
+                                
+                                    la rubrica del Capo II, del Titolo III, e' sostituita dalla seguente: «Disciplina dell'emittente su frequenze terrestri»; la rubrica dell'articolo 16 e' sostituita dalla seguente: «Autorizzazione per emittente su frequenze terrestri»; 
+
+                                
+                            
+                            
+                                s)
+                                
+                                    all'articolo 16, comma 1, la parola «televisivi» e' sostituita da quella «audiovisivi». Il comma 3 e' soppresso; 
+
+                                
+                            
+                            
+                                t)
+                                
+                                    all'articolo 17, comma 1, la parola: «contenuti» e' sostituita dalle seguenti: «programmi audiovisivi». Dopo il comma 2 e' aggiunto il seguente: «2-bis. Con proprio regolamento, l'Autorita' provvede ad uniformare i contributi previsti per le diffusioni su frequenze terrestri in tecnica analogica a quelli previsti per le diffusioni in tecnica digitale. Con il medesimo regolamento, l'Autorita' provvede ad uniformare i contributi dovuti dai fornitori di servizi di media audiovisivi, indipendentemente dalla rete di comunicazione elettronica impiegata.»; 
+
+                                
+                            
+                            
+                                u)
+                                
+                                    nella rubrica dell' articolo 18 le parole: «fornitore di contenuti televisivi» sono sostituite dalla seguente: «emittente»; al comma 1 dello stesso articolo le parole: «contenuti televisivi» sono sostituite dalle seguenti: «servizi di media audiovisivi»; al comma 2 le parole: «lettera p)» sono sostituite dalle seguenti: «lettera z)»; al comma 5 le parole: «fornitore di contenuti» sono sostituite dalla seguente: «emittente»; 
+
+                                
+                            
+                            
+                                v)
+                                
+                                    nella rubrica dell'articolo 19 le parole: «fornitore di contenuti radiofonici» sono sostituite dalle seguenti: «emittente radiofonica digitale»; al comma 1 dello stesso articolo le parole: «fornitura di contenuti» sono sostituite dalle seguenti: «prestazione di servizi»; 
+
+                                
+                            
+                            
+                                z)
+                                
+                                    la rubrica del Capo III, del Titolo III, e' sostituita dalla seguente: «Disciplina dell'emittente via satellite e via cavo». La rubrica dell'articolo 20 e' sostituita dalla seguente: «Autorizzazioni alla prestazione di servizi media audiovisivi o radiofonici via satellite»; 
+
+                                
+                            
+                            
+                                aa)
+                                
+                                    l'articolo 20, comma 1, e' sostituito dal seguente: «1.
+L'autorizzazione alla prestazione di servizi media audiovisivi lineari o radiofonici via satellite e' rilasciata dalla Autorita' sulla base della disciplina stabilita con proprio regolamento.»; 
+
+                                
+                            
+                            
+                                bb)
+                                
+                                    la rubrica dell' articolo 21 e' sostituita dalla seguente: «Autorizzazioni alla prestazione di servizi di media audiovisivi o radiofonici via cavo»; 
+
+                                
+                            
+                            
+                                cc)
+                                
+                                    all'articolo 21, comma 1, le parole: «diffusione di contenuti radiotelevisivi» sono sostituite dalle seguenti: «prestazione di servizi di media audiovisivi lineari o radiofonici»; dopo il comma 1 e' aggiunto, in fine, il seguente: «1-bis. L'autorizzazione alla prestazione di servizi di media audiovisivi lineari o radiofonici su altri mezzi di comunicazione elettronica e' rilasciata dall'Autorita' sulla base della disciplina stabilita con proprio regolamento, da adottare entro il 30 giugno 2010»; 
+
+                                
+                            
+                            
+                                dd)
+                                
+                                    all'articolo 22, comma 1, le parole: «ai fornitori di contenuti» sono sostituite dalle seguenti: «alle emittenti, anche radiofoniche digitali, che diffondono»; 
+
+                                
+                            
+                            
+                                ee)
+                                
+                                    dopo l'articolo 22 e' inserito il seguente Titolo: 
+ «Titolo III (Attivita'). - Capo III-bis (Disciplina del fornitore di servizi di media audiovisivi a richiesta). - Art. 22-bis (Autorizzazione alla fornitura di servizi di media audiovisivi a richiesta). - 1. L'attivita' di fornitore di servizi di media audiovisivi a richiesta e' soggetta al regime dell'autorizzazione generale. A tal fine, il richiedente presenta all'Autorita' una dichiarazione di inizio attivita' nel rispetto della disciplina stabilita dalla Autorita' stessa con proprio regolamento. 
+ 2. Nel rispetto del presente testo unico, l'Autorita' adotta il regolamento di cui al comma 1 entro il 30 giugno 2010. Il regolamento individua gli elementi della dichiarazione di inizio attivita', con riferimento a qualita' e requisiti del soggetto, persona fisica o giuridica, che svolge l'attivita', escluso ogni riferimento ai contenuti dei servizi oggetto dell'attivita' medesima e stabilisce i modelli per la presentazione della dichiarazione di inizio attivita'.»; 
+
+                                
+                            
+                            
+                                ff)
+                                
+                                    all'articolo 23, comma 1, secondo periodo, dopo la parola «emittenti» e' inserita la seguente: «analogiche»; al comma 3 le parole «lettera p)» sono sostituite dalle seguenti: «lettera z)»; al comma 4 dopo la parola: «emittenti» e' inserita la seguente: «analogiche» e le parole: «lettera p)» sono sostituite dalle seguenti: «lettera z)»; 
+
+                                
+                            
+                            
+                                gg)
+                                
+                                    all'articolo 25, comma 1, le parole: «le licenze e» sono soppresse; 
+
+                                
+                            
+                            
+                                hh)
+                                
+                                    all'articolo 26, ai commi 1 e 2, dopo la parola: «radiotelevisive» e' inserita la seguente: «analogiche»; al comma 1 le parole: «alla fornitura di contenuti» sono sostituite dalle seguenti: «per emittente, anche radiofonica digitale,»; 
+
+                                
+                            
+                            
+                                ii)
+                                
+                                    all'articolo 27, comma 1, dopo le parole: «emittenti televisive» e' inserita la seguente: «analogiche»; al comma 5, dopo le parole «radiodiffusione sonora e televisiva» e' aggiunta la seguente «analogica»; dopo le parole: «emittenti televisive» e' aggiunta la seguente «analogiche»; e in fine, dopo la parola «emittenti» sono aggiunte le seguenti « radiofoniche analogiche»; al comma 6 dopo le parole «emittenti» sono aggiunte le seguenti «analogiche». 
+
+                                
+                            
+                            
+                                ll)
+                                
+                                    all'articolo 28, comma 2, dopo le parole «ciascuna emittente» e' inserita la parola «analogica»; 
+
+                                
+                            
+                            
+                                mm)
+                                
+                                    all'articolo 29, comma 1, dopo la parola «radiotelevisive» e' inserita la seguente: «analogiche»; al comma 2, dopo la parola: «locali» e' aggiunta la seguente: «analogiche»; e, in fine, dopo la parola: «emittenti» e' aggiunta la seguente: «analogiche»; al comma 3 dopo la parola «radiofoniche» e' aggiunta la seguente: «analogiche»; e dopo la parola «televisive» e' aggiunta la seguente: «analogiche»; al comma 6, dopo la parola: «emittenti» sono aggiunte le seguenti: «analogiche, televisive o radiofoniche,»; al comma 7, dopo la parola: «locali» sono aggiunte le seguenti: «analogiche, televisive o radiofoniche,»; al comma 8, dopo le parole: « interconnesse tra emittenti» e' aggiunta la seguente: «analogiche»; in fine, al comma 8, dopo le parole: «limiti previsti per le emittenti» e' aggiunta la seguente: «analogiche»; 
+
+                                
+                            
+                            
+                                nn)
+                                
+                                    la rubrica dell'articolo 30 e' sostituita dalla seguente: «Ripetizione di palinsesti radiotelevisivi»; al primo periodo ed al terzo periodo del comma 2 del medesimo articolo, dopo le parole: «emittenti televisive» e' aggiunta la seguente: «analogiche»; in fine, al comma 2, le parole: «lettera q)» sono sostituite dalle seguenti: «lettera aa)»; 
+
+                                
+                            
+                            
+                                oo)
+                                
+                                    la rubrica del Capo V del Titolo III e' sostituita dalla seguente: «Disciplina del fornitore di servizi interattivi associati o di servizi di accesso condizionato»; 
+
+                                
+                            
+                            
+                                pp)
+                                
+                                    dopo l'articolo 32-quater e' inserito il seguente: 
+ «Art. 32-quinquies (Telegiornali e giornali radio. Rettifica). - 1.
+Ai telegiornali e ai giornali radio si applicano le norme sulla registrazione dei giornali e periodici, contenute negli articoli 5 e 6 della legge 8 febbraio 1948, n. 47, e successive modificazioni; i direttori dei telegiornali e dei giornali radio sono, a questo fine, considerati direttori responsabili. 
+ 2. Chiunque si ritenga leso nei suoi interessi morali, quali in particolare l'onore e la reputazione, o materiali da trasmissioni contrarie a verita' ha diritto di chiedere al fornitore di servizi di media audiovisivi lineari, incluse la concessionaria del servizio pubblico generale radiotelevisivo, all'emittente radiofonica ovvero alle persone da loro delegate al controllo della trasmissione, che sia trasmessa apposita rettifica, purche' questa ultima non abbia contenuto che possa dar luogo a responsabilita' penali. 
+ 3. La rettifica e' effettuata entro quarantotto ore dalla data di ricezione della relativa richiesta, in fascia oraria e con il rilievo corrispondenti a quelli della trasmissione che ha dato origine alla lesione degli interessi. Trascorso detto termine senza che la rettifica sia stata effettuata, l'interessato puo' trasmettere la richiesta all'Autorita', che provvede ai sensi del comma 4. 
+ 4. Fatta salva la competenza dell'autorita' giudiziaria ordinaria a tutela dei diritti soggettivi, nel caso in cui l'emittente, televisiva o radiofonica, analogica o digitale, o la concessionaria del servizio pubblico generale radiotelevisivo ritengano che non ricorrono le condizioni per la trasmissione della rettifica, sottopongono entro il giorno successivo alla richiesta la questione all'Autorita', che si pronuncia nel termine di cinque giorni. Se l'Autorita' ritiene fondata la richiesta di rettifica, quest'ultima, preceduta dall'indicazione della pronuncia dell'Autorita' stessa, deve essere trasmessa entro le ventiquattro ore successive alla pronuncia medesima. 
+ 5. Sono abrogati gli articoli da 5 a 9 del decreto del Presidente della Repubblica 27 marzo 1992, n. 255, attuativi dell'articolo 10 della legge 6 agosto 1990, n. 223.»; 
+
+                                
+                            
+                            
+                                qq)
+                                
+                                    all'articolo 33, comma 1, le parole: «ai fornitori di contenuti» sono sostituite dalle seguenti: «televisive o radiofoniche, sia digitali che analogiche,»; in fine, sono aggiunte le parole: «Analoga richiesta potra' essere effettuata ai fornitori di servizi di media a richiesta, che dovranno inserire i predetti comunicati nel loro catalogo, dandone adeguato rilievo.»; 
+
+                                
+                            
+                            
+                                rr)
+                                
+                                    all'articolo 35, comma 2, le parole: «all'articolo 4, comma 1, lettere b) e c)» sono sostituite dalle seguenti: «dell'articolo 32, comma 2, e dell'articolo 36-bis»; al comma 3 le parole «di cui al comma 1» sono sostituite dalle seguenti: «di cui al comma 3»; al comma 4 le parole: «dell'emittente sanzionata» sono sostituite dalle seguenti: « del soggetto sanzionato»; al comma 4-bis le parole: «del comma 6-bis dell'articolo 34» sono sostituite dalle seguenti: «dell'articolo 35-bis»; 
+
+                                
+                            
+                            
+                                ss)
+                                
+                                    dopo l'articolo 35 e' inserito il seguente: 
+ «Art. 35-bis (Valori dello sport). - 1. Le emittenti, anche analogiche, e le emittenti radiofoniche, nelle trasmissioni di commento degli avvenimenti sportivi, in particolare calcistici, sono tenute all'osservanza di specifiche misure, individuate con codice di autoregolamentazione recepito con decreto del Ministro dello sviluppo economico di concerto con il Ministro per la gioventu' e con il Ministro della giustizia, adottato ai sensi dell'articolo 17, comma 3, della legge 23 agosto 1988, n. 400, previo parere delle Commissioni parlamentari competenti, anche al fine di contribuire alla diffusione tra i giovani dei valori di una competizione sportiva leale e rispettosa dell'avversario, per prevenire fenomeni di violenza o di turbativa dell'ordine pubblico legati allo svolgimento di manifestazioni sportive.»; 
+
+                                
+                            
+                            
+                                tt)
+                                
+                                    all'articolo 43, comma 10, le parole: «lettera l)» sono sostituite dalle seguenti: «lettera s)»; 
+
+                                
+                            
+                            
+                                uu)
+                                
+                                    all'articolo 45, comma 2, lettera q), le parole: «dell'articolo 4, comma 2» sono sostituite dalle seguenti: «dell'articolo 32, comma 3»; 
+
+                                
+                            
+                            
+                                vv)
+                                
+                                    all'articolo 51, comma 1, lettera c), le parole: «sulla pubblicita', sponsorizzazioni e televendite di cui agli articoli 4, comma 1, lettere c) e d), 37, 38, 39 e 40» sono sostituite dalle seguenti: «sulle comunicazioni commerciali audiovisive, pubblicita' televisiva e radiofonica, sponsorizzazioni, televendite ed inserimento di prodotti di cui agli articoli 36-bis, 37, 38, 39, 40 e 40-bis»; alla lettera h) le parole: «all'articolo 32» sono sostituite dalle seguenti: «all'articolo 32-bis»; alla lettera i) le parole: «4, comma 1, lettera b)» sono sostituite dalle seguenti: «32, comma 2»; al comma 4 e al comma 9 le parole: «o del fornitore di contenuti» sono sostituite dalle seguenti «, anche analogica, o dell'emittente radiofonica»; 
+
+                                
+                            
+                            
+                                zz)
+                                
+                                    all'articolo 53, comma 1, le parole: «per la diffusione circolare dei programmi» sono sostituite dalle seguenti: «per la diffusione di servizi di media audiovisivi e radiofonici».
 
 ## Art. 18. — Allineamento dei titoli abilitativi
 

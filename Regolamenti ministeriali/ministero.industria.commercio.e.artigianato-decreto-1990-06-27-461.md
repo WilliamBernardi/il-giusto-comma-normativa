@@ -8,8 +8,8 @@ codice_redazionale: 091G0401
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:38Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -36,6 +36,25 @@ I contributi sono concessi per l'acquisto o l'acquisizione mediante locazione fi
 
 I contributi sono concessi anche nei casi di acquisto con patto di riservato dominio a norma dell'art. 1523 del codice civile e della legge 28 novembre 1965, n. 1329, e successive modificazioni ed integrazioni, a condizione che in relazione a quest'ultima non siano stati concessi o semplicemente richiesti i contributi in conto interessi.
 
+3.
+                    
+                        
+                            Per ogni farmacia od associazione, i contributi sono concessi nella misura del:
+ 
+                        
+                        
+                            a)
+                            
+                                32 per cento del costo dei beni agevolabili, al netto dell'IVA e di ogni onere accessorio, con il limite di lire 600 milioni, nei territori di cui all'art. 1 del decreto del Presidente della Repubblica 6 marzo 1978, n. 218, e successive modificazioni ed integrazioni;
+
+                            
+                        
+                        
+                            b)
+                            
+                                25 per cento del costo dei beni agevolabili, al netto dell'IVA e di ogni onere accessorio, con il limite di lire 350 milioni, nei restanti territori.
+ Tra gli oneri accessori sono da considerare l'imballo, il trasporto, il collaudo del macchinario, nonche' la formazione del personale. Detti limiti e percentuali sono applicati in relazione all'ubicazione dell'unita' commerciale o amministrativa in cui sono installati i beni agevolabili.
+
 I contributi non sono concessi per investimenti il cui costo complessivo, al netto dell'IVA e di ogni onere accessorio, sia inferiore a lire 50 milioni, ne' per i soli programmi applicativi ne' per la parte di costo dei programmi stessi eccedente quello delle macchine e delle apparecchiature. La quota di contributo relativa ai programmi applicativi non puo' superare il venticinque per cento del contributo totale.
 
 Per i beni importati direttamente dalle ditte richiedenti, il costo e' determinato sulla base del tasso di cambio della valuta di fatturazione, rilevato dalla dichiarazione di importazione. Il relativo contributo e' erogato in misura non superiore a quella determinata con il decreto di concessione di cui al successivo art. 5.
@@ -51,7 +70,64 @@ Le domande non corredate di uno o piu' dei documenti di cui ai punti da 1 a 5 de
 
 ## Art. 4.
 
+1.
+                    
+                        
+                            I beni agevolabili, di cui al comma 1 dell'art. 2, devono essere:
+ 
+                        
+                        
+                            a)
+                            
+                                ordinati nel periodo intercorrente dall'11 marzo 1988 al 10 marzo 1989. Nel caso di acquisizione mediante locazione finanziaria o a norma dell'art. 1523 del codice civile, detti termini si applicano sia per gli ordini che per i relativi contratti;
+
+                            
+                        
+                        
+                            b)
+                            
+                                di nuova fabbricazione. In merito fa fede l'attestazione del costruttore o del venditore scritta in lingua italiana;
+
+                            
+                        
+                        
+                            c)
+                            
+                                conformi alle norme sulla prevenzione degli infortuni e sull'igiene del lavoro. Tale conformita', ai soli effetti del presente decreto, e' dichiarata: dal costruttore, in lingua italiana, dagli enti speciali federati all'Ente nazionale di unificazione o dagli istituti e dai centri del Consiglio nazionale delle ricerche, per i beni prodotti negli Stati membri della Comunita' economica europea e legalmente in circolazione negli Stati medesimi, secondo gli schemi di cui agli allegati 14, 15 e 16 dagli enti speciali federati all'Ente nazionale di unificazione o dagli istituti e dai centri del Consiglio nazionale delle ricerche, per i beni prodotti in Stati non membri della Comunita' economica europea secondo lo schema di cui all'allegato 16;
+
+                            
+                        
+                        
+                            d)
+                            
+                                installati in unita' locali della ditta beneficiaria;
+
+                            
+                        
+                        
+                            e)
+                            
+                                consegnati alla ditta beneficiaria non oltre il termine di centottanta giorni dalla data di pubblicazione del presente decreto nella Gazzetta Ufficiale. In proposito fa fede la bolla di consegna.
+
 ## Art. 5.
+
+1.
+                    
+                        
+                            Il contributo e' concesso ed erogato dal Ministro dell'industria, del commercio e dell'artigianato, su proposta del Comitato interministerialedi cui all'art. 9, quinto comma, del decreto del Presidente della Repubblica 9 novembre 1976, n. 902. Il contributo puo' essere erogato, per il suo intero ammontare, contestualmente all'emanazione del decreto concessivo a seguito di presentazione di apposita "domanda di concessione-erogazione", qualora, alla data della proposta del Comitato, i beni agevolabili siano stati consegnati e la ditta abbia provveduto al pagamento:
+ 
+                        
+                        
+                            a)
+                            
+                                dell'intero ammontare del costo dei beni, nel caso di acquisti effettuati in via ordinaria;
+
+                            
+                        
+                        
+                            b)
+                            
+                                di canoni o di rate per un ammontare pari almeno al 60 per cento del costo dei beni, nel caso di acquisizione mediante locazione finanziaria o a norma dell'art. 1523 del codice civile o della legge 28 novembre 1965, n. 1329, senza richiesta del contributo al Mediocredito centrale.
 
 Per le operazioni di locazione finanziaria o a norma dell'art. 1523 del codice civile o della legge 28 novembre 1965, n. 1329, qualora alla data della proposta del Comitato siano stati pagati soltanto l'acconto ed il primo canone o canoni o rate, per un ammontare pari almeno al 20 per cento del costo dei beni, il contributo e' erogato nella misura del 50 per cento contestualmente all'emanazione del decreto concessivo. Con il medesimo decreto e' autorizzata l'erogazione della restante quota di contributo, che sara' disposta a seguito di apposita "domanda di erogazione", da presentare successivamente al pagamento di canoni o di rate per un ammontare pari almeno al 60 per cento del costo dei beni, redatta in carta legale secondo lo schema indicato nell'allegato 12 che fa parte integrante del presente decreto, e previo accertamento da parte del Ministero dell'industria, del commercio e dell'artigianato degli altri presupposti di cui al precedente art. 4.
 

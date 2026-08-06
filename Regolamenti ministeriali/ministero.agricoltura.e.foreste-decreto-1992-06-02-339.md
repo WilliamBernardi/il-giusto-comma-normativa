@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
 vigenza_date: 1995-09-22
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:39Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -49,11 +49,83 @@ I soggetti che intendono (( essere autorizzati alla gestione di impianti )) di c
 
 ## Art. 4. — Requisito dell'idoneita' morale
 
+1.
+                    
+                        
+                            Il requisito dell'idoneita' morale si considera insussistente quando ricorra uno dei seguenti casi: 
+ 
+                        
+                        
+                            a)
+                            
+                                condanna definitiva per delitti non colposi per i quali la legge commini la pena della reclusione non inferiore nel minimo a due anni o nel massimo a cinque anni, ovvero per i delitti di cui agli articoli 513, 515, 516, 517, 640 e 640- bis del codice penale, ovvero condanna che importi l'interdizione dai pubblici uffici di durata superiore a tre anni; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                assoggettamento ad una delle misure di prevenzione personale ai sensi degli articoli 3 e 4 della legge 27 dicembre 1956, n. 1423, come modificati dagli articoli 4 e 5 della legge 3 agosto 1988, n. 327, con gli effetti di cui all'art. 3 della legge 19 marzo 1990, n. 55, come modificato dall'art. 20 del decreto-legge 13 maggio 1991, n. 
+152, convertito dalla legge 12 luglio 1991, n. 203; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                intervenuta dichiarazione di fallimento.
+
 Il requisito dell'idoneita' morale deve essere riferito al titolare dell'impresa individuale o, quando si tratti di societa', a quest'ultima, a tutti i soci per le societa' semplici o in nome collettivo, ai soci accomandatari per le societa' in accomandita semplice e per azioni, agli amministratori per ogni altro tipo di societa'. Nel caso di organismi associativi dei produttori iscritti nell'elenco nazionale di cui all'art. 5 della legge 27 luglio 1967, n. 622, il requisito in parola e' riferito ai legali rappresentanti degli organismi medesimi ed agli eventuali altri componenti l'organo di amministrazione. Quando all'esercizio dell'impresa, o di un ramo di essa, ovvero alla direzione dell'impianto, sia preposto un institore o un direttore tecnico, il requisito dell'idoneita' morale e' riferito anche a questi ultimi.
+
+3.
+                    
+                        
+                            Il requisito dell'idoneita' morale e' comprovato: 
+ 
+                        
+                        
+                            a)
+                            
+                                dal certificato del casellario giudiziale, di data non anteriore a tre mesi; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                dalla certificazione prevista dall'art. 10-sexies della legge 31 maggio 1965, n. 575, introdotto dall'art. 7 della legge 19 marzo 1990, n. 55, come da ultimo sostituito dall'art. 20 del decreto-legge 13 maggio 1991, n. 152, convertito dalla legge 12 luglio 1991, n. 203; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                dal certificato del casellario giudiziale presso la cancelleria commerciale del competente tribunale per quanto riguarda il fallimento della societa' o dei singoli soci.
 
 Il requisito dell'idoneita' morale si intende soddisfatto quando per le condanne penali o per la dichiarazione di fallimento sia intervenuta la riabilitazione a norma delle vigenti disposizioni di legge.
 
 ## Art. 5. — Requisito dell'idoneita' tecnica
+
+1.
+                    
+                        
+                            Ai fini del requisito dell'idoneita' tecnica, gli impianti di condizionamento devono rispondere alle seguenti caratteristiche: 
+ 
+                        
+                        
+                            a)
+                            
+                                per gli agrumi e la frutta fresca: 
+ 1) magazzini di condizionamento con superficie minima di base coperta di mq 1.200, di cui mq 400 riservati alla lavorazione, selezione e confezionamento, con dotazione di attrezzature meccaniche idonee per consentire il condizionamento di almeno 170 quintali di frutta al giorno; 
+ 2) capacita' frigorifera di almeno 800 quintali; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                per gli ortaggi: 
+ 1) magazzini con superficie minima di base coperta di mq 1.200, con dotazione di attrezzature meccaniche idonee, a seconda dei singoli prodotti, per assicurare la lavorazione ed il condizionamento di almeno 170 quintali di ortaggi al giorno.
 
 Il requisito dell'idoneita' tecnica e' comprovato mediante apposita relazione giurata di uno o piu' esperti, iscritti negli albi professionali degli ingegneri, degli architetti, dei dottori agronomi e forestali, dei periti agrari o dei geometri, dalla quale risulti l'analitica descrizione delle strutture e delle attrezzature di cui al comma 1, lettere a) e b).
 
@@ -80,7 +152,122 @@ I soggetti autorizzati all'esercizio delle attivita' in forma collegata nominano
 
 La domanda per il rilascio dell'autorizzazione, redatta in carta da bollo con firma autenticata, e' indirizzata all'Azienda di Stato per gli interventi nel mercato agricolo - AIMA e puo' essere inviata anche a mezzo del servizio postale con plico raccomandato.
 
+2.
+                    
+                        
+                            La domanda deve contenere le seguenti indicazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                se trattasi di impresa individuale: 
+ 1) nome, cognome, luogo e data di nascita del titolare dell'impresa, dell'institore e del direttore tecnico; 
+ 2) residenza e domicilio; 
+ 3) numero di codice fiscale e partita IVA; 
+ 4) numero di recapito telefonico e numero del telex e del telefax. 
+
+                            
+                        
+                        
+                            b)
+                            
+                                se trattasi di societa' e di organismo associativo: 
+ 1) denominazione o ragione sociale; 
+ 2) sede e domicilio legale; 
+ 3) nome, cognome, luogo e data di nascita del legale rappresentante, dei componenti l'organo di amministrazione e del direttore tecnico; 
+ 4) numero di codice fiscale e partita IVA; 
+ 5) numero di recapito telefonico e numero del telex e del telefax.
+
+3.
+                    
+                        
+                            Alla domanda deve essere allegata, oltre alla documentazione comprovante il possesso dei requisiti di cui agli articoli 4, 5 e 6, la seguente ulteriore documentazione: 
+ 
+                        
+                        
+                            a)
+                            
+                                per le imprese individuali: 
+ 1) certificato di nascita e di residenza del titolare dell'impresa, dell'institore e del direttore tecnico, di data non anteriore a tre mesi; 
+ 2) certificato di iscrizione alla competente camera di commercio, industria, artigianato e agricoltura, con l'indicazione dell'attivita' specifica dell'impresa (rilasciato in data non anteriore a tre mesi da quella della presentazione della domanda); 
+
+                            
+                        
+                        
+                            b)
+                            
+                                per le societa': 
+ 1) copia autenticata dell'atto costitutivo e dello statuto; 
+ 2) certificato di iscrizione alla competente camera di commercio, industria, artigianato e agricoltura, con l'indicazione dell'attivita' specifica della societa' (rilasciato in data non anteriore a tre mesi da quella della presentazone della domanda); 
+ 3) certificato della cancelleria del competente tribunale, contenente l'indicazione dei legali rappresentanti e degli amministratori la socita', dal quale risulti che la stessa non si trova in stato di fallimento, di liquidazione, di concordato preventivo o di cessazione di attivita', rilasciato in data non anteriore a tre mesi da quella della presentazione della domanda; limitatamente alle societa' cooperative agricole, inoltre, il certificato di iscrizione all'albo tenuto presso la prefettura territorialmente competente; 
+ 4) certificato di nascita, residenza e del casellario giudiziale del legale rappresentante, dei componenti l'organo di amministrazione e del direttore tecnico, di data non anteriore a tre mesi; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                per gli organismi associativi dei produttori iscritti all'elenco nazionale di cui all'art. 5 della legge 27 luglio 1967, n. 
+622: 
+ 1) copia del decreto di riconoscimento del Ministro dell'agricoltura e delle foreste; 
+ 2) certificato di nascita e di residenza del legale rappresentante e dei componenti l'organo di amministrazione, di data non anteriore a tre mesi; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                per tutti i soggetti di cui alle lettere a), b) e c), copia autenticata dell'atto di proprieta' o da cui risulti la disponibilita' dell'impianto, ai sensi dell'art. 2, comma 2. 
+ 3. L'autorizzazione e' rilasciata, previa deliberazione del consiglio di amministrazione dell'Azienda di Stato per gli interventi nel mercato agricolo - AIMA, con decreto del Ministro dell'agricoltura e delle foreste, presidente della stessa Azienda, nel termine di novanta giorni dal ricevimento della domanda, Ove la domanda sia ritenuta irregolare od incompleta ne e' data comunicazione all'interessato entro sessanta giorni dalla presentazione della domanda stessa, indicando la causa della irregolarita' o della incompletezza. In questi casi il termine iniziale decorre dal ricevimento della domanda regolarizzata o completata.
+
 E' istituita (( presso l'Azienda di Stato per gli interventi nel mercato agricolo - A.I.M.A. )) una commissione di valutazione con il compito di esaminare le domande relative al rilascio delle autorizzazioni nel termine di novanta giorni dal ricevimento della domanda. Ove la domanda fosse ritenuta irregolare od incompleta ne e' data comunicazione all'interessato entro sessanta giorni dalla presentazione della domanda stessa, indicando la causa dell'irregolarita' o della incompletezza. In questi casi il termine iniziale decorre dal ricevimento della domanda regolarizzata o incompleta. (( PERIODO SOPPRESSO DAL DECRETO 11 LUGLIO 1995, N. 393)). ((2))
+
+5.
+                    
+                        
+                            La predetta commissione e' composta da: 
+ 
+                        
+                        
+                            a)
+                            
+                                un rappresentante del Ministero dell'agricoltura e delle foreste con funzioni di presidente; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                un rappresentante dell'Azienda di Stato per gli interventi nel mercato agricolo - AIMA; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                un rappresentante dell'Istituto per il commercio con l'estero - ICE; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                un rappresentante del Ministero dell'industria e del commercio; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                un rappresentante delle associazioni piu' rappresentative delle categorie della produzione; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                un rappresentante delle associazioni piu' rappresentative delle categorie del commercio.
 
 In caso di assenza o di impedimento, il presidente e gli altri componenti sono sostituiti da membri supplenti, contestualmente designati dai rispettivi Ministeri, enti e associazioni di categoria.
 
@@ -92,6 +279,31 @@ I membri della commissione durano in carica quattro anni e possono essere riconf
  Il Decreto 11 luglio 1995, n. 393 ha disposto (con l'art. 6, comma 1) che " Nel medesimo comma 4 sono soppresse le parole "presso l'Ente per gli interventi nel mercato agricolo - EIMA".
 
 ## Art. 9. — Revoca dell'autorizzazione
+
+1.
+                    
+                        
+                            L'autorizzazione e' revocata: 
+ 
+                        
+                        
+                            a)
+                            
+                                nel caso del venir meno del requisito della idoneita' morale di cui all'art. 4, comma 1. La revoca non e' disposta quando le persone indicate nel comma 2 dello stesso art. 4, siano sostituite entro il termine perentorio di sessanta giorni dalla comunicazione prevista dal comma 3 del presente articolo. Nel caso di svolgimento dell'attivita' di condizionamento in forma collegata la revoca dovra' essere disposta quando intervenga il fallimento di uno dei soggetti autorizzati e nel predetto termine non sia possibile operare le necessarie sostituzioni. 
+
+                            
+                        
+                        
+                            b)
+                            
+                                nel caso di perdita di una delle caratteristiche tecniche di cui all'art. 5, comma 1, lettere a) e b), nonche' di perdita del requisito dell'idoneita' finanziaria di cui all'art. 6; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                nel caso di accertate violazioni dei doveri previsti nell'esercizio delle attivita' di condizionamento e di etichettatura (allegato 1 - modollo di etichetta).
 
 Qualora la revoca dell'autorizzazione nei confronti di uno dei soggetti autorizzati allo svolgimento delle attivita' di condizionamento in forma collegata determini il venir meno delle caratteristiche tecniche, di cui all'art. 5, comma 1, degli impianti cumulativamente considerati, l'Azienda di Stato per gli interventi nel mercato agricolo - AIMA assegna agli altri soggetti nominativamente indicati nell'autorizzazione un termine per l'adeguamento degli impianti cumulati alle caratteristiche tecniche prescritte. Il termine puo' essere prorogato per non piu' di due volte. Ai fini di cui sopra gli interessati trasmettono all'Azienda di Stato per gli interventi nel mercato agricolo - AIMA, nei quindici giorni successivi alla scadenza del termine loro assegnato, la relazione giurata prevista dall'art. 5, comma 2. Le disposizioni del presente comma si applicano altresi' in ogni caso in cui il venir meno delle caratteristiche tecniche, di cui al citato art. 5, degli impianti cumulati sia da collegare alla volonta' di alcuno dei soggetti di recedere dall'accordo per l'esercizio delle attivita' in forma collegata ovvero alla oggettiva impossibilita' di alcuno dei soggetti medesimi di proseguire in tale esercizio.
 
@@ -113,11 +325,61 @@ costituiscono un gruppo misto di valutazione.
 
 Ai fini dell'esecuzione dei controlli di qualita', di cui all'art. 1 del presente decreto, e, allo scopo di fissare modalita' amministrative-finanziarie, l'AIMA stipula una apposita convenzione con l'Istituto nazionale per il commercio con l'estero (ICE).
 
+4.
+                    
+                        
+                            A tal fine e' istituita una commissione, i cui membri saranno nominati dalle singole amministrazioni di appartenenza, composta da: 
+                        
+                        
+                            a)
+                            
+                                direttori generali del MAF - Direzione generale della tutela 
+economica dei prodotti agricoli, AIMA e ICE; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                dirigenti, uno per amministrazione, del MAF - D.G. tutela, AIMA e ICE; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                da un rappresentante per ognuna delle tre organizzazioni professionali agricole maggiormente rappresentative (Coldiretti, Confagricoltura e CIA).
+
 5. La predetta commissione, sara' in carica per quattro anni, avra' anche il compito di esaminare le problematiche e la verifica costante della costituzione e dell'attivita' di programmazione dei controlli))
 
 ## Art. 11-bis. — (( (Esenzioni dall'applicazione delle norme di qualita'). ))
 
 ((
+
+1.
+                    
+                        
+                            Non sono soggetti all'obbligo di conformita' con le norme comuni di qualita', ai sensi dell'art. 3, commi 2 e 3, del regolamento CEE n. 1035/1972, gli ortofrutticoli che sono: 
+ 
+                        
+                        
+                            a)
+                            
+                                prodotti e venduti direttamente dal produttore agricolo al consumatore finale; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                avviati dal produttore agricolo a centri di condizionamento riconosciuti o di deposito; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                venduti dal produttore agricolo ad operatori commerciali iscritti nell'apposito registro ed avviati a centri di condizionamento riconosciuti o a centri di deposito. Dai centri di deposito il prodotto deve essere avviato unicamente a centri di condizionamento riconosciuti.
 
 ))
 
@@ -142,6 +404,24 @@ Le merci di peso pari o inferiore a cinquecento chilogrammi per prodotto sono es
 ((
 
 Presso l'Ente per gli interventi nel mercato agricolo - EIMA, vengono istituiti registri degli operatori e degli importatori, tenuti in forma di anagrafe informatizzata.
+
+2.
+                    
+                        
+                            Il registro degli operatori, comma 1, e' diviso in: 
+ 
+                        
+                        
+                            a)
+                            
+                                registro degli operatori che commercializzono in fase di spedizione e all'ingrosso; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                registro degli operatori autorizzati a gestire impianti di condizionamento.
 
 Le domande per l'iscrizione nei registri sono presentate dagli interessati gia' operanti entro il 31 dicembre 1995.
 

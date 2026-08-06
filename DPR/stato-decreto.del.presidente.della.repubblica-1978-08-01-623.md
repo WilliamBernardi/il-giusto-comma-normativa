@@ -8,8 +8,8 @@ codice_redazionale: 078U0623
 vigente: true
 source: normattiva-opendata
 collection: DPR
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:47:59Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -20,4 +20,24 @@ DECRETO DEL PRESIDENTE DELLA REPUBBLICA
 ## Art. 1.
 
 N.
+
+623.
+                    
+                        
+                            Decreto del Presidente della Repubblica 1 agosto 1978, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare il legato disposto dalla sig.na Miotti Maria con testamento olografo 3 marzo 1973, pubblicato a rogito notaio dott. Carlo D'Este in data 4 febbraio 1975, n. 7308 di repertorio e n. 3126 di raccolta, registrato a Rapallo il 17 febbraio 1975 al n. 261, vol. 180 mod. 1, consistente in beni immobili siti in Rapallo: 
+                        
+                        
+                            a)
+                            
+                                appartamento sito in via Vespucci 22/9, riportato al nuovo catasto edilizio urbano alla partita 4485, foglio 35, mappale 429 sub 18 di vani 8;
+                            
+                        
+                        
+                            b)
+                            
+                                magazzino sito in via Vespucci 22/9, riportato nel nuovo catasto edilizio urbano alla partita 4485, foglio 35, mappale 429 sub 6, di mq. 14, il tutto per un valore complessivo di L. 17.000.000.
+
+Visto, il Guardasigilli: BONIFACIO
+ Registrato alla Corte dei conti, addi' 11 ottobre 1978
+ Registro n. 7 Presidenza, foglio n. 13
 

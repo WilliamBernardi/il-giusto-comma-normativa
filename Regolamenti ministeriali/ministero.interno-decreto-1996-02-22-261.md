@@ -8,8 +8,8 @@ codice_redazionale: 096G0274
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:40Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -52,6 +52,66 @@ I servizi di vigilanza nei locali di pubblico spettacolo e trattenimento, a term
 
 L'entita' dei servizi viene stabilita dalla commissione provinciale su proposta, avanzata in tale sede, dal comandante provinciale dei vigili del fuoco e le relative prescrizioni sono notificate agli interessati tramite i sindaci dei comuni in cui si svolge l'attivita'.
 
+3.
+                        
+                            
+                                Il servizio di vigilanza deve essere obbligatoriamente richiesto da parte dei titolari delle seguenti attivita' di pubblico spettacolo e trattenimento:
+ 
+                            
+                            
+                                a)
+                                
+                                    teatri, cinema-teatri, teatri-tenda, circhi con capienza superiore a 500 posti; teatri all'aperto con capienza superiore a 2.000 posti;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    teatri di posa per riprese cinematografiche e televisive con capienza superiore a 100 posti, quando e' prevista la presenza del pubblico;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    sale pubbliche di audizione in cui si tengono conferenze, concerti e simili con capienza superiore a 1.000 posti;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    impianti per attivita' sportive all'aperto con capienza superiore a 10.000 posti anche quando gli stessi vengono occasionalmente utilizzati per manifestazioni diverse da quelle sportive;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    impianti per attivita' sportive al chiuso con capienza superiore a 4.000 posti, anche quando gli stessi vengono occasionalmente utilizzati per manifestazioni diverse da quelle sportive;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    edifici, luoghi e locali posti al chiuso ove si svolgono, anche occasionalmente, mostre, gallerie, esposizioni con superficie lorda superiore a 2.000 mq; fiere e quartieri fieristici con superficie lorda superiore a 4.000 mq se al chiuso e 10.000 mq se all'aperto;
+
+                                
+                            
+                            
+                                g)
+                                
+                                    locali ove si svolgono trattenimeti danzanti con capienza superiore a 1.500 persone;
+
+                                
+                            
+                            
+                                h)
+                                
+                                    luoghi o aree all'aperto, pubblici o aperti al pubblico, ove occasionalmente si presentano spettacoli o trattenimenti con afflusso di oltre 10.000 persone.
+
 Per le finalita' di cui all'art. 2, il servizio di vigilanza potra' essere prescritto dalle commissioni provinciali di vigilanza sui locali di pubblico spettacolo, su segnalazione dei comandi provinciali dei vigili del fuoco, anche per attivita' di pubblico spettacolo o trattenimento svolte in ambienti di capienza o superficie inferiore a quelle indicate nel comma precedente, quando l'ubicazione, le caratteristiche ambientali o altri fattori rilevanti per le suddette finalita' lo facciano ritenere indispensabile nel pubblico interesse. Tale valutazione, va fatta attraverso accertamento sopralluogo da farsi dalla stessa commissione provinciale.
 
 In ogni caso, nei locali ove non sia scritto il servizio obbligatorio di vigilanza da parte del Corpo nazionale dei vigili del fuoco, il gestore dovra' provvedere a garantire, durante lo spettacolo, la presenza di idoneo personale per i primi e piu' urgenti interventi in caso di incendio. L'idoneita' del suddetto personale sara' accertata a cura del comando provinciale dei vigili del fuoco competente per territorio.
@@ -82,6 +142,77 @@ Al termine dello spettacolo, i vigili del fuoco incaricati del servizio sostano 
 ## Art. 8. — Adempimenti di enti e privati
 
 I gestori di locali di pubblico spettacolo e trattenimento, ai quali la commissione provinciale di vigilanza abbia prescritto il servizio di vigilanza antincendi da parte del Corpo nazionale dei vigili del fuoco a termini dell'art. 2, comma 1, lettera b), della legge 26 luglio 1965, n. 966, sono tenuti a richiedere detto servizio, presentando domanda nonche' attestato del pagamento effettuato presso la tesoreria provinciale dello Stato, al comando provinciale vigili del fuoco competente per territorio, con le modalita' previste dalla legge 26 luglio 1965, n. 966, almeno cinque giorni prima dell'inizio dello spettacolo o del trattenimento; in mancanza di tale adempimento il servizio non puo' essere svolto e la circostanza e' segnalata dal comando provinciale dei vigili del fuoco alle autorita' competenti per l'adozione dei provvedimenti di cui all'ultimo comma dell'art. 2 della legge 26 luglio 1965, n. 966.
+
+2.
+                        
+                            
+                                Il gestore del locale di pubblico spettacolo e trattenimento deve osservare le norme previste in materia di sicurezza antincendio, nonche' le eventuali prescrizioni impartite dalla commissione provinciale di vigilanza sui locali di pubblico spettacolo. Egli e' tenuto, in particolare, a mettere a disposizione del personale di vigilanza, oltre al verbale contenente le prescrizioni della commissione provinciale, la planimetria generale dell'attivita' in cui sia riportato l'ubicazione di:
+ 
+                            
+                            
+                                a)
+                                
+                                    mezzi antincendio fissi e mobili;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    sistemi di vie di esodo, come corridoi, scale, uscite all'esterno;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    luci di sicurezza;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    quadro elettrico generale;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    locali di pertinenza, con indicazione della relativa destinazione d'uso;
+
+3.
+                        
+                            
+                                Il gestore comunica il nominativo della persona incaricata, dalla direzione del locale, della manutenzione e gestione degli impianti provvedendo affinche' non vengano alterate le condizioni di sicurezza ed, in particolare, siano mantenuti:
+ 
+                            
+                            
+                                a)
+                                
+                                    sgombere ed agibili le vie di esodo;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    efficienti i mezzi e gli impianti antincendi, eseguendone la manutenzione necessaria;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    efficienti l'impianto elettrico principale e quello di sicurezza con le modalita' e la periodicita' stabilita dalle specifiche normative;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    efficienti i dispositivi di sicurezza degli impianti di ventilazione, condizionamento e riscaldamento.
 
 Il gestore cura che tutto il personale in servizio nel locale sia informato sui rischi ragionevolmente prevedibili, al fine di portare ausilio nei casi di emergenza disponendo, altresi', la collocazione, in modo ben visibile, su ciascun piano di planimetrie schematiche di orientamento che indichino le vie di esodo.
 

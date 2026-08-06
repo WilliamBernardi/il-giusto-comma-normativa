@@ -8,8 +8,8 @@ vigente: true
 source: normattiva-opendata
 collection: Leggi delega e relativi provvedimenti delegati
 vigenza_date: 2026-05-29
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:41:20Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -32,6 +32,145 @@ Sulla proposta del Ministro per gli affari europei, il Sud, le politiche di coes
 Il presente decreto disciplina le sanzioni per la violazione delle regole stabilite nel Piano Strategico PAC per il percepimento dei pagamenti unionali, di cui al regolamento (UE) 2021/2115.
 
 Ai fini del presente decreto, per sanzioni si intendono le riduzioni o esclusioni dei pagamenti previsti dal regolamento (UE) 2021/2115, concessi o da concedere al beneficiario interessato.
+
+3.
+                        
+                            
+                                Non si applicano le sanzioni nei seguenti casi: 
+ 
+                            
+                            
+                                a)
+                                
+                                    inosservanza dovuta a un errore dell'Organismo pagatore competente o di altra autorita', ove l'errore non poteva essere ragionevolmente individuato dal beneficiario; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    riduzione non superiore a 100 euro; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    inosservanza delle condizioni di concessione dell'aiuto dovuta a cause di forza maggiore o a circostanze eccezionali di cui all'articolo 3 del regolamento (UE) 2021/2116.
+
+4.
+                        
+                            
+                                Ai fini del presente decreto si applicano le seguenti definizioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    «parcella agricola»: una unita' di superficie agricola, come definita nel Piano strategico della PAC; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    «superficie dichiarata»: la superficie oggetto di una domanda di aiuto o di una domanda di pagamento. Qualora la stessa superficie costituisca la base per una domanda di aiuto o di pagamento nell'ambito di piu' interventi, tale superficie e' presa in considerazione separatamente per ciascuno di tali interventi; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    «superficie determinata»: la superficie in ordine alla quale sono soddisfatti tutti i criteri e obblighi relativi alle condizioni di concessione degli aiuti; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    «capi dichiarati»: gli animali oggetto di una domanda di aiuto per animale nel quadro dei regimi di aiuto per animali o oggetto di una domanda di pagamento nell'ambito di una misura di sostegno connessa agli animali; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    «capo potenzialmente ammissibile»: un animale in grado a priori di soddisfare potenzialmente i criteri di ammissibilita' per ricevere l'aiuto nell'ambito del regime di aiuto per animali o un sostegno nell'ambito delle misure di sostegno connesse agli animali nell'anno di domanda in questione; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    «capo accertato»: nell'ambito di un regime di aiuto per animali, l'animale in ordine al quale sono soddisfatte tutte le condizioni previste dalle regole riguardanti la concessione degli aiuti; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    «gruppo coltura»: la superficie per la quale e' previsto lo stesso importo unitario dell'intervento. Si distingue in: 
+ 1) superficie dichiarata ai fini dell'attivazione di diritti all'aiuto nell'ambito del sostegno di base al reddito per la sostenibilita'; 
+ 2) superficie che da' diritto al pagamento ridistributivo complementare al reddito per la sostenibilita'; 
+ 3) superficie che da' diritto a pagamenti nell'ambito del regime per i giovani agricoltori; 
+ 4) superficie dichiarata per ciascuna misura di sostegno accoppiato al reddito; 
+ 5) gruppo per ciascuna delle superfici dichiarate ai fini di qualsiasi altro regime di aiuto o misura di sostegno per superficie a cui si applica un diverso importo unitario. Se gli importi unitari dell'aiuto sono variabili, e' presa in considerazione la media di tali importi in relazione alle rispettive superfici dichiarate; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    «gruppo di impegni»: l'insieme di due o piu' impegni affini, caratterizzati da elementi comuni ed omogenei, afferenti ad un determinato gruppo di colture; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    «gruppo di infrazioni»: l'insieme di due o piu' infrazioni relative ad impegni affini, caratterizzati da elementi comuni ed omogenei, afferenti ad un determinato gruppo di colture; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    «PSP»: il Piano Strategico PAC; 
+
+                                
+                            
+                            
+                                m)
+                                
+                                    «portata» di un'inosservanza: parametro determinato tenendo conto in particolare dell'impatto dell'inosservanza stessa, che puo' essere limitato all'azienda oppure piu' ampio; 
+
+                                
+                            
+                            
+                                n)
+                                
+                                    «gravita'» di un'inosservanza: parametro dipendente in particolare dalla rilevanza delle conseguenze dell'inosservanza medesima alla luce degli obiettivi del requisito o della norma in questione; 
+
+                                
+                            
+                            
+                                o)
+                                
+                                    «persistenza» o «durata» di un'inosservanza: parametro dipendente in particolare dal lasso di tempo nel corso del quale ne perdura l'effetto o dalla possibilita' di eliminarne l'effetto con mezzi ragionevoli. 
+
+                                
+                            
+                            
+                                o-bis)
+                                
+                                    provvedimento di riconoscimento: il provvedimento adottato dalle regioni e province autonome, necessario ai fini dell'accesso agli aiuti previsti dal Piano Strategico della PAC (PSP) per l'intervento della distillazione dei sottoprodotti; 
+
+                                
+                            
+                            
+                                o-ter)
+                                
+                                    criteri di riconoscimento: disposizioni di cui al regolamento (UE) 1308/2013 del Parlamento europeo e del Consiglio e di cui alle disposizioni nazionali attuative, che stabiliscono le norme sul riconoscimento, sulle dimensioni minime, sul controllo democratico e sul valore della produzione commercializzata delle organizzazioni di produttori e loro associazioni del settore dell'ortofrutta e delle patate.
 
 Gli Organismi pagatori, ai sensi dell'articolo 9, paragrafo 1, secondo sottoparagrafo, del regolamento (UE) 2021/2116, applicano le sanzioni previste dal presente decreto.
 
@@ -85,6 +224,52 @@ In relazione alle infrazioni commesse dai singoli beneficiari, per ogni anno sol
 
 ## Art. 4. — Ambito di applicazione
 
+1.
+                        
+                            
+                                Le norme di cui al presente capo si applicano in caso di violazione dei criteri di ammissibilita', degli impegni o degli altri obblighi relativi alle condizioni per la concessione dell'aiuto o del sostegno, prevedendone le sanzioni, in relazione ai seguenti interventi: 
+ 
+                            
+                            
+                                a)
+                                
+                                    sostegno di base al reddito per la sostenibilita'; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    sostegno ridistributivo complementare al reddito per la sostenibilita'; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    sostegno complementare al reddito per i giovani agricoltori; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    regimi per il clima, l'ambiente e il benessere degli animali; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    misure di sostegno accoppiato al reddito; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    interventi basati sulle superfici e sugli animali, ai sensi degli articoli 70, 71 e 72 del regolamento (UE) n. 2021/2115.
+
 Le funzioni relative ai procedimenti di accertamento e applicazione delle riduzioni previste dagli articoli del presente Capo spettano all'Autorita' di gestione, per quanto di competenza, e agli Organismi pagatori di cui all'articolo 9 del regolamento (UE) 2021/2116.
 
 ## Art. 5. — Riduzione dei pagamenti per la presentazione tardiva delle domande
@@ -109,6 +294,31 @@ Qualora un beneficiario, per un dato anno, non dichiari tutte le parcelle agrico
 
 Fatto salvo il rispetto delle condizioni di ammissibilita', qualora nell'ambito di un intervento sia applicabile un limite o un massimale individuale, e la superficie o il numero di animali dichiarati dal beneficiario superi il suddetto limite o il massimale individuale, la superficie dichiarata o il numero di animali dichiarati corrispondenti sono adeguati al limite o al massimale fissato per il beneficiario in questione.
 
+3.
+                        
+                            
+                                Qualora un beneficiario, per un dato anno e per un gruppo coltura dichiari una superficie maggiore rispetto alla superficie determinata, l'aiuto e' calcolato sulla base della superficie determinata per il gruppo coltura a cui si riferiscono gli impegni violati, dalla quale e' sottratta: 
+ 
+                            
+                            
+                                a)
+                                
+                                    due volte la differenza accertata per il gruppo coltura in questione, se questa e' superiore al 3 per cento o a due ettari, ma non superiore al 20 per cento della superficie determinata; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'intero importo dell'aiuto o della misura di sostegno per il gruppo coltura in questione se la differenza accertata e' superiore al 20 per cento; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    se la differenza accertata e' superiore al 50 per cento, il beneficiario e' tenuto, altresi', a restituire una somma supplementare, pari all'importo dell'aiuto o del sostegno corrispondente alla differenza tra la superficie dichiarata e la superficie determinata per il gruppo coltura in questione; se tale importo non puo' essere recuperato integralmente nel corso dei due anni successivi all'anno dell'accertamento, il saldo restante e' azzerato.
+
 Qualora la differenza, tra superficie complessivamente dichiarata ai fini del pagamento nell'ambito degli interventi di cui all'articolo 4, comma 1, e la superficie determinata, sia inferiore o uguale a 0,1 ettari e al 20 per cento della superficie dichiarata, la superficie determinata e' considerata uguale alla superficie dichiarata.
 
 Al beneficiario che nell'anno precedente non ha subito alcuna riduzione per sovradichiarazione delle superfici per il regime di aiuto o la misura di sostegno in questione, per gli interventi di cui all'articolo 4, comma 1, lettere a), b), c) e d) e gli interventi di cui agli articoli 71 e 72 del regolamento (UE) n. 2021/2115, qualora la differenza accertata, di cui al comma 3 del presente articolo, non superi il 10 per cento della superficie determinata, l'aiuto e' calcolato sulla base della superficie determinata, dalla quale e' sottratta una sola volta la differenza accertata. Tale beneficiario e' sottoposto a controllo l'anno successivo e, in caso di esito negativo del controllo, decade dall'applicazione del presente comma con ricalcolo della riduzione per l'anno precedente.
@@ -118,6 +328,56 @@ Qualora si accerti che il «giovane agricoltore», di cui all'articolo 4, paragr
 Fatto salvo quanto previsto dall'articolo 5 del regolamento (UE) 2020/2220, qualora, successivamente all'assegnazione di diritti all'aiuto agli agricoltori, si accerti che determinati diritti sono stati assegnati indebitamente o il loro valore sia stato indebitamente fissato su un valore errato, l'agricoltore interessato restituisce alla riserva nazionale i diritti indebitamente assegnati ovvero la parte del loro valore indebitamente assegnato. I diritti all'aiuto indebitamente assegnati o la parte di valore indebitamente assegnati si considerano non assegnati dal momento della loro attribuzione.
 
 In caso di trasferimento a terzi da parte del beneficiario originario, l'obbligo di restituzione, proporzionalmente al numero di diritti trasferiti, e la rettifica incombono anche sui cessionari, qualora il cedente non disponga di un numero di diritti sufficiente per compensare il numero dei diritti all'aiuto che gli sono stati indebitamente assegnati.
+
+9.
+                        
+                            
+                                L'importo totale dell'aiuto, cui il beneficiario ha diritto nell'ambito di un regime di aiuti per bovini, ovini e caprini, o di una misura di sostegno connessa agli stessi animali, o di un tipo di operazione nell'ambito di tale misura di sostegno, e' versato in base al numero dei capi accertati, a condizione che, in seguito a controlli amministrativi o a seguito di sopralluogo: 
+ 
+                            
+                            
+                                a)
+                                
+                                    non si riscontrino piu' di tre capi non accertati; ((oppure, per gli interventi di sviluppo rurale per animali di specie ovina e caprina, limitatamente alle aree montane individuate ai sensi dell'articolo 32 del regolamento (UE) n. 1305/2013, per consistenze degli allevamenti superiori ai tredici capi e inferiori a quaranta capi, non si riscontrino piu' del 30 per cento di capi non accertati rispetto al totale dei capi per i quali si chiede il contributo))
+                                    
+                                
+                            
+                            
+                                b)
+                                
+                                    i bovini, gli ovini e i caprini non accertati possano essere identificati individualmente con qualsiasi mezzo previsto dal sistema di identificazione e di registrazione degli animali.
+
+10.
+                        
+                            
+                                In mancanza delle condizioni di cui al comma 9, lettere a) e b), l'importo totale dell'aiuto o del sostegno cui il beneficiario ha diritto e' cosi' ridotto: 
+ 
+                            
+                            
+                                a)
+                                
+                                    se la percentuale del rapporto tra capi non accertati e capi accertati e' inferiore o uguale al 20 per cento, la riduzione e' effettuata in tale misura; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    se la percentuale del rapporto tra capi non accertati e capi accertati e' superiore al 20 per cento ma inferiore o uguale al 30 per cento, la riduzione e' effettuata nella misura di due volte tale percentuale; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    se la percentuale del rapporto tra capi non accertati e capi accertati e' superiore al 30 per cento, non e' concesso alcun aiuto o sostegno; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    se la percentuale del rapporto tra capi non accertati e capi accertati e' superiore al 50 per cento, non e' concesso alcun aiuto o sostegno e il beneficiario e' tenuto, altresi', a restituire una somma supplementare pari all'importo corrispondente alla differenza tra il numero di capi dichiarati e il numero di capi accertati. Se tale importo non puo' essere recuperato integralmente nel corso dei due anni successivi all'anno dell'accertamento, il saldo restante e' azzerato.
 
 ## - Capo IV Sanzioni per la violazione delle regole della condizionalita'
 
@@ -218,6 +478,31 @@ Nel caso di violazione delle regole in materia di appalti pubblici, ai sensi del
 
 Alle misure agro-climatico-ambientali o di imboschimento dei terreni agricoli relative a domande ammesse entro il 31 dicembre 2006, ai sensi dei regolamenti (CEE) n. 2078/92, n. 2080/92 e n. 1257/99, continuano ad applicarsi i criteri di ammissibilita', gli impegni e gli altri obblighi previsti nei contratti agro-ambientali o di imboschimento sottoscritti.
 
+2.
+                        
+                            
+                                Per le misure relative ai programmi di sviluppo rurale dei periodi 2007-2013 e 2014-2022, finanziate con risorse FEASR afferenti a uno dei periodi suindicati, si applica, in materia di sanzioni, la disciplina definita dalle Regioni e Provincie autonome, ovvero dalle Autorita' di Gestione dei Programmi di Sviluppo Rurale, in materia di: 
+ 
+                            
+                            
+                                a)
+                                
+                                    violazioni di impegni riferiti alle colture, ai gruppi di colture, alle operazioni, alle misure e agli impegni pertinenti di condizionalita' individuati nei documenti programmatori 2007-2013, come ridefiniti ai sensi del regolamento (UE) n. 1306/2013; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    parametri per l'individuazione dei livelli della gravita', entita', durata e ripetizione di ciascuna violazione; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    casistiche identificate dai documenti di programmazione approvati dalla Commissione europea e dalle relative disposizioni attuative che comportano l'esclusione o la revoca dal sostegno dell'operazione o misura.
+
 ## - Capo VII ((Sanzioni per la violazione di disposizioni del settore dell'ortofrutta e del settore delle patate e del settore olivicolo))
 
 ## Art. 18. — (( (Inosservanza dei criteri di riconoscimento). ))
@@ -243,6 +528,24 @@ Quando pervengono da parte di organismi di accertamento e di controllo notizie c
 
 Le organizzazioni di produttori e le associazioni di organizzazioni di produttori o altri operatori, rimborsano gli aiuti indebitamente percepiti, maggiorati degli interessi.
 
+2.
+                        
+                            
+                                Gli interessi sono calcolati: 
+ 
+                            
+                            
+                                a)
+                                
+                                    a decorrere dal ricevimento del pagamento indebito; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    al tasso applicato dalla Banca centrale europea alle sue operazioni principali di rifinanziamento, pubblicato nella Gazzetta ufficiale dell'Unione europea, serie C, in vigore alla data del pagamento indebito, maggiorato di tre punti percentuali.
+
 ))
 
 ## Art. 21. — (( (Sanzioni per gli importi non ammissibili nel settore dell'ortofrutta e delle patate). ))
@@ -258,6 +561,31 @@ Se il valore della produzione commercializzata e' dichiarato e verificato prima 
 ## Art. 22. — (( (Sanzioni a seguito di controlli di primo livello sulle operazioni di ritiro nel settore dell'ortofrutta e delle patate). ))
 
 ((
+
+1.
+                        
+                            
+                                Fatto salvo quanto previsto dall'articolo 21, un'organizzazione di produttori o un'associazione di organizzazione di produttori che viola le norme di commercializzazione o non rispetta i requisiti minimi di cui al Titolo II del regolamento di esecuzione (UE) 2011/543 in materia di operazioni di ritiro dal mercato di cui all'articolo 27 del regolamento delegato (UE) 2022/126 per la distribuzione gratuita e' soggetta alle seguenti sanzioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    se i quantitativi non conformi sono inferiori al 10 per cento di quelli ritirati, la sanzione e' pari all'aiuto dell'Unione, calcolato in base ai quantitativi dei prodotti ritirati non conformi; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    se i quantitativi non conformi sono compresi tra il 10 per cento e il 25 per cento di quelli ritirati, la sanzione e' pari al doppio dell'importo dell'aiuto dell'Unione, calcolato in base ai quantitativi dei prodotti ritirati non conformi; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    se i quantitativi non conformi superano il 25 per cento di quelli ritirati, la sanzione e' pari all'importo dell'aiuto dell'Unione per l'intero quantitativo comunicato.
 
 ))
 
@@ -295,6 +623,56 @@ Le sanzioni di cui ai commi 1 e 2 si applicano anche in caso di inosservanza deg
 
 ((
 
+1.
+                        
+                            
+                                Fatte salve le ipotesi previste dall'articolo 21, un'organizzazione di produttori o un'associazione di organizzazioni di produttori del settore ortofrutticolo e' soggetta a una sanzione pari all'importo dell'indennita' percepita per le superfici oggetto di violazione degli obblighi previsti dall'articolo 17 del regolamento delegato (UE) 2022/126 per la raccolta verde quando ricorre una delle seguenti ipotesi: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la superficie comunicata per la raccolta verde non e' ammissibile alla misura; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la superficie non e' stata interamente sottoposta a raccolta o la produzione non e' stata denaturata; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    si verifica un impatto ambientale negativo o conseguenze fitosanitarie negative.
+
+2.
+                        
+                            
+                                Un'organizzazione di produttori o un'associazione di organizzazioni di produttori del settore ortofrutticolo e' soggetta a una sanzione pari all'importo dell'indennita' percepita per le superfici oggetto di violazione degli obblighi previsti dall'articolo 17 del regolamento delegato (UE) 2022/126 per la mancata raccolta quanto ricorre una delle seguenti ipotesi: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la superficie comunicata per la mancata raccolta non e' ammissibile alla misura; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la raccolta e' stata comunque effettuata, in tutto o in parte, salvo che l'intervento non abbia ad oggetto piante ortofrutticole che hanno un periodo di raccolta superiore ad un mese; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    si verifica un impatto ambientale negativo o conseguenze fitosanitarie negative.
+
 ))
 
 ## Art. 24-quater. — (( (Sanzione a fronte della presentazione tardiva della domanda di aiuto). ))
@@ -309,6 +687,31 @@ In deroga a quanto previsto dall'articolo 5, un'organizzazione di produttori o u
 
 ((
 
+1.
+                        
+                            
+                                Un'organizzazione di produttori o un'associazione di organizzazioni di produttori del settore olivicolo che, ai fini del conseguimento del pertinente aiuto, dichiara un valore della produzione commercializzata di cui agli articoli 30, 31 e 32 del regolamento delegato (UE) 2022/126, diverso da quella accertato, e' soggetta alle seguenti sanzioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    se la differenza tra il valore accertato e quello dichiarato e' minore del 5 per cento, il valore preso a riferimento ai fini del conseguimento dell'aiuto e' ridotto in misura corrispondente; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    se la differenza tra il valore accertato e quello dichiarato e' superiore al 5 per cento ma inferiore al 20 per cento, il valore preso a riferimento ai fini del conseguimento dell'aiuto e' ridotto nella medesima misura, con una ulteriore riduzione del 5 per cento; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    se la differenza tra il valore accertato e quello dichiarato e' superiore o uguale al 20 per cento, il riconoscimento e' revocato per l'anno di competenza.
+
 Nei casi di cui alle lettere a) e b) del comma 1, l'Organismo pagatore compensa l'importo residuo dell'aiuto da erogare con l'importo indebitamente percepito e, per l'eventuale eccedenza, procede all'escussione della polizza fideiussoria. Nel caso di cui alla lettera c), l'Organismo pagatore escute la polizza fideiussoria al fine di ottenere la restituzione integrale di quanto erogato.
 
 ))
@@ -319,7 +722,89 @@ Nei casi di cui alle lettere a) e b) del comma 1, l'Organismo pagatore compensa 
 
 ((
 
+1.
+                        
+                            
+                                I beneficiari dell'aiuto previsto per l'intervento di cui all'articolo 58, paragrafo 1, lettera a), del regolamento (UE) 2021/2115, che non realizzano sull'intera superficie l'intervento oggetto della domanda di aiuto, sono soggetti alle seguenti sanzioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    se la differenza tra la superficie realizzata e quella indicata nella domanda approvata e' di minima entita' e comunque non superiore al 20 per cento, il sostegno e' calcolato sulla base della superficie effettivamente realizzata; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    se la differenza tra la superficie realizzata e quella indicata nella domanda di aiuto supera il 20 per cento ma e' uguale o inferiore al 50 per cento, l'aiuto e' erogato sulla base della superficie effettivamente realizzata e ridotto del doppio della differenza; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    se la differenza tra la superficie realizzata e quella indicata nella domanda e' superiore al 50 per cento, l'aiuto e' negato e, se gia' concesso, e' integralmente restituito.
+
 Nelle ipotesi di cui al comma 1, in caso di forza maggiore o circostanze eccezionali previste dalla normativa comunitaria e nazionale, ai beneficiari che dimostrano di aver raggiunto l'obiettivo generale dell'operazione e' riconosciuto un aiuto pari all'importo corrispondente alla parte dell'operazione realizzata, salvo il recupero di quanto ricevuto a titolo di anticipo per la parte non attuata.
+
+3.
+                        
+                            
+                                I beneficiari dell'aiuto di cui al comma 1 che hanno ricevuto l'anticipo previsto dall'articolo 49 del regolamento (UE) 2016/1149 sono esclusi per tre anni dall'accesso ai contributi per la ristrutturazione e riconversione dei vigneti e si procede all'incameramento della fideiussione nelle seguenti ipotesi: 
+ 
+                            
+                            
+                                a)
+                                
+                                    se realizzano l'intervento su una superficie differente rispetto a quella approvata in misura superiore al 50 per cento; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    se rinunciano all'intervento o sono soggetti a revoca dell'aiuto concesso; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    se presentano la domanda del pagamento del saldo finale oltre cinque giorni dalla scadenza del termine stabilito; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    se non presentano la domanda di pagamento del saldo finale.
+
+4.
+                        
+                            
+                                I beneficiari dell'aiuto di cui al comma 1 che non hanno ricevuto l'anticipo del contributo sono esclusi per un anno dall'accesso all'aiuto per la ristrutturazione e riconversione dei vigneti nelle seguenti ipotesi: 
+ 
+                            
+                            
+                                a)
+                                
+                                    presentazione delle domande di pagamento del saldo oltre cinque giorni dalla scadenza del termine stabilito; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    mancata presentazione della domanda di pagamento del saldo; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    presentazione della rinuncia al contributo concesso, successivamente al trentesimo giorno antecedente la data di scadenza della presentazione delle domande di pagamento del saldo.
 
 ))
 
@@ -327,11 +812,61 @@ Nelle ipotesi di cui al comma 1, in caso di forza maggiore o circostanze eccezio
 
 ((
 
+1.
+                        
+                            
+                                I beneficiari dell'aiuto previsto per l'intervento di cui all'articolo 58, paragrafo 1, lettera c), del regolamento (UE) 2021/2115 che non realizzano l'intervento sull'intera superficie oggetto della domanda sono soggetti alle seguenti sanzioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    se la differenza tra la superficie realizzata e quella oggetto della domanda approvata e' di minima entita' e comunque non supera il 20 per cento, il sostegno e' calcolato sulla base della superficie effettivamente realizzata; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    se la differenza tra la superficie realizzata e quella oggetto della domanda di aiuto e' superiore al 20 per cento ma e' uguale o inferiore al 50 per cento, l'aiuto e' erogato sulla base della superficie realizzata e ridotto del doppio della differenza; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    se la differenza tra la superficie realizzata e quella oggetto della domanda supera il 50 per cento, l'aiuto e' negato e, se gia' concesso, e' restituito. In tale ipotesi il beneficiario e' escluso dall'intervento per i successivi tre anni, a decorrere dalla data di presentazione della domanda.
+
 ))
 
 ## Art. 24-octies. — (Sanzioni per la violazione delle disposizioni in materia di investimenti in immobilizzazioni materiali e immateriali)
 
+1.
+                        
+                            
+                                I beneficiari del contributo per l'intervento di cui all'articolo 58, paragrafo 1, lettera b), del regolamento (UE) 2021/2115 che non utilizzano un anticipo ricevuto sono soggetti alle seguenti sanzioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    un anno di esclusione dall'aiuto se l'importo dell'anticipo non speso e' superiore al 10 per cento ma inferiore o uguale al 30 per cento dell'anticipo erogato; 
 
+                                
+                            
+                            
+                                b)
+                                
+                                    due anni di esclusione dall'aiuto se l'importo dell'anticipo non speso e' superiore al 30 per cento ma inferiore al 50 per cento dell'anticipo erogato; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    tre anni di esclusione dall'aiuto se l'importo dell'anticipo non speso e' superiore o uguale al 50 per cento dell'anticipo erogato.
+
+((Ai beneficiari del contributo per l'intervento di cui all'articolo 58, paragrafo 1, lettera b), del regolamento (UE) 2021/2115 che non realizzano integralmente l'investimento, per motivi diversi da cause di forza maggiore o circostanze eccezionali, e' riconosciuto il contributo per un importo corrispondente alle singole azioni realizzate, decurtato dell'importo del contributo corrispondente alle azioni non realizzate, a condizione che l'obiettivo generale dell'investimento sia stato comunque raggiunto)).
 
 In caso di mancato utilizzo dell'anticipo versato, si applicano le disposizioni previste dall'articolo 24 del regolamento (UE) 2022/127 e dall'articolo 56 del regolamento (UE) 2022/128.
 
@@ -340,6 +875,24 @@ I beneficiari del contributo che non presentano la domanda di pagamento del sald
 In deroga a quanto previsto dall'articolo 5, nel settore vitivinicolo, i beneficiari del contributo che presentano la domanda di pagamento del saldo entro il quinto giorno solare successivo alla scadenza del termine fissato, sono soggetti ad una sanzione pari all'1 per cento del contributo riconosciuto per ogni giorno di ritardo. Le domande di pagamento presentate oltre i cinque giorni dalla scadenza del termine previsto non possono essere accolte e sono respinte.
 
 In deroga a quanto previsto dall'articolo 1-bis, qualora, all'esito dei controlli, risulta che l'importo del contributo versato e' superiore all'importo dovuto, si procede al recupero dell'aiuto indebitamente versato.
+
+6.
+                        
+                            
+                                Fermo quanto previsto dall'articolo 1, comma 3, non si applica alcuna sanzione: 
+ 
+                            
+                            
+                                a)
+                                
+                                    in caso di approvazione di modifiche al progetto iniziale o qualora l'anticipo non sia stato versato e sia stata presentata domanda di rinuncia nei trenta giorni precedenti il termine ultimo previsto per la presentazione della domanda di saldo; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    se l'importo non speso e' inferiore al 10 per cento dell'anticipo erogato.
 
 ## Art. 24-novies. — (( (Sanzione a carico del distillatore dei sottoprodotti della vinificazione). ))
 
@@ -387,6 +940,31 @@ Con decreto del Ministro dell'agricoltura, della sovranita' alimentare e delle f
 ))
 
 ((
+
+2.
+                        
+                            
+                                Fatta salva l'applicazione delle riduzioni previste dai Capi VII. VII-bis e VII-ter, le riduzioni dei pagamenti previste nel presente decreto si applicano nell'ordine seguente: 
+ 
+                            
+                            
+                                a)
+                                
+                                    le riduzioni previste ai Capi III, V e VI; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    all'importo risultante dall'applicazione della lettera a), si applicano le riduzioni previste al Capo IV; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    all'importo risultante dall'applicazione della lettera b), si applicano le riduzioni previste al Capo II.
 
 ))
 

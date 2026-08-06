@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: DPR
 vigenza_date: 2001-05-09
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:47:43Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -259,6 +259,45 @@ Le disposizioni conseguenti avranno effetto a partire dall'inizio del secondo an
 
 Sono, comunque, fatti salvi i principi e le garanzie di stato giuridico stabiliti dalla legge, nonche' le competenze proprie degli organi di governo della scuola.
 
+6.
+                        
+                            
+                                Nel definire gli eventuali adeguamenti si terra' conto dei seguenti principi e criteri generali:
+ 
+                            
+                            
+                                a)
+                                
+                                    i trasferimenti si attuano annualmente;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    tutto il personale direttivo e docente di ruolo ha titolo a partecipare alle operazioni di trasferimento definitivo ed annuale; il personale amministrativo, tecnico ed ausiliario ha titolo a partecipare alle operazioni di trasferimento definitivo;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    saranno individuate le categorie di personale aventi diritto alla precedenza assoluta, fermo restando che, in ogni caso, il personale trasferito d'ufficio per soppressione di posto conserva per un triennio, a domanda, la titolarita' nella scuola o plesso di provenienza;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    l'ordine delle operazioni di trasferimento deve essere determinato, per quanto possibile, con criteri di omogeneita' tra i vari settori;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    le situazioni di soprannumero relative ai posti di sostegno vanno individuate con riferimento alle singole tipologie; per i trasferimenti d'ufficio si terra' conto delle tabelle di viciniorieta' definite sulla base delle distanze reali determinate, a livello provinciale, con riferimento a ciascun comune.
+
 I passaggi di cattedra previsti dall'art. 75 del decreto del Presidente della Repubblica n. 417/1974, sono effettuati con i criteri stabiliti per i trasferimenti e successivamente ad essi nel limite massimo del 30 per cento dei posti disponibili.
 
 Le assegnazioni provvisorie vengono disposte annualmente dopo i trasferimenti, i passaggi e le utilizzazioni sui posti vacanti e disponibili dell'organico di fatto ad eccezione di quelli richiesti dal personale trasferito d'ufficio il quale ritrovi nell'organico di fatto una disponibilita' di posto nella scuola di precedente titolarita'.
@@ -307,7 +346,78 @@ Restano fermi comunque i compensi spettanti ai presidenti ed ai componenti che s
 
 ## Art. 13. — Accordi
 
+1.
+                        
+                            
+                                La negoziazione decentrata di cui all'art. 14 della legge 19 marzo 1983, n. 93, e' da riferire, per il comparto scuola a livello provinciale, alle seguenti materie:
+ 
+                            
+                            
+                                a)
+                                
+                                    criteri generali dell'organizzazione del lavoro del personale ATA e del personale educativo nel rispetto delle competenze che la normativa vigente riserva agli organi della scuola;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    determinazione del fabbisogno e utilizzazione del lavoro straordinario del personale ATA;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    proposte per la sicurezza, la salubrita' e l'igiene dell'ambiente di lavoro, nonche' per l'utilizzazione delle strutture dei locali, delle attrezzature, ferme restando le competenze degli organi collegiali secondo gli articoli 5 e 6 del decreto del Presidente della Repubblica 31 maggio 1974, n. 416 e l'art. 12 della legge 4 agosto 1977, n. 517;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    criteri e modalita' per l'utilizzazione dei servizi sociali da mettere a disposizione del personale;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    criteri e modalita' per l'attuazione delle iniziative di aggiornamento e di formazione in servizio del personale ATA, docente, direttivo;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    individuazione di priorita' e distribuzione delle risorse relative al fondo di incentivazione;
+
+                                
+                            
+                            
+                                g)
+                                
+                                    misure rivolte all'attuazione delle garanzie del personale e allo sviluppo delle relazioni sindacali.
+
 ## Art. 14. — Titolari del potere di negoziazione decentrata
+
+1.
+                        
+                            
+                                I titolari del potere di negoziazione decentrata sono:
+ 
+                            
+                            
+                                a)
+                                
+                                    per la parte pubblica, una delegazione composta dal Ministro competente, che la presiede, o da un suo delegato ovvero dal commissario di Governo, nei casi previsti dal secondo comma dell'art. 14 della legge 29 marzo 1983, n. 93, e da una rappresentanza dei titolari degli uffici direttamente interessati alle questioni oggetto della trattativa;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    per la parte sindacale, una delegazione composta da rappresentanti di ciascuna organizzazione sindacale maggiormente rappresentativa nel settore interessato che abbiano adottato codici di autoregolamentazione dello esercizio del diritto di sciopero uguali a quelli adottati dalle organizzazioni sindacali firmatarie dell'accordo recepito dal presente decreto e delle confederazioni maggiormente rappresentative su base nazionale;
 
 Per le strutture di rilievo territoriale non inferiore a quella provinciale o per gli uffici, istituti o servizi di particolare rilevanza non riconducibile alla circoscrizione provinciale, la delegazione di parte pubblica, salva diversa delega da parte del Ministro, e' presieduta dal titolare di uno degli uffici interessati all'accordo, che rivesta qualifica dirigenziale.
 
@@ -340,6 +450,31 @@ L'accordo va redatto per iscritto e deve essere sottoscritto dalla parte sindaca
 Le organizzazioni sindacali dissenzienti, o che non abbiano partecipato alla trattativa, possono esprimere le proprie osservazioni nel merito prima che l'accordo venga tradotto in provvedimento amministrativo e comunque entro il termine di quindici giorni dalla sua conclusione.
 
 L'accordo e' recepito con decreto del Ministro, oppure con altri atti a firma del competente dirigente, entro trenta giorni dalla scadenza del termine di cui al comma 2.
+
+4.
+                        
+                            
+                                Il decreto del Ministro e' comunque necessario:
+ 
+                            
+                            
+                                a)
+                                
+                                    quando l'accordo ha efficacia in tutto il territorio nazionale, o comunque investe tutti gli uffici dell'Amministrazione interessata;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    quando l'accordo ha efficacia per gli uffici periferici, non ricompresi nell'ambito di competenza territoriale di un unico organo amministrativo periferico;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    se le norme, introdotte dall'accordo, innovano altre norme previste da un precedente decreto ministeriale, a meno che il Ministro non abbia previsto esplicitamente tale possibilita' nel provvedimento di delega relativo a quell'accordo decentrato.
 
 Gli accordi decentrati, riguardanti una pluralita' di uffici locali dello Stato aventi sede nella medesima regione, sono recepiti, con decreto del commissario di Governo e, ove necessario, con decreto del Presidente del Consiglio dei Ministri.
 
@@ -501,6 +636,24 @@ Qualora nelle istituzioni scolastiche l'orario ordinario e l'orario flessibile n
 L'adozione di una organizzazione del lavoro su turni puo' essere altresi' attuata quando la collocazione fuori dell'orario antimeridiano di alcune mansioni o funzioni previste dai profili professionali concorre oggettivamente a realizzare migliori livelli di efficienza ed efficacia dei servizi, rispondendo anche alle complesse e diversificate domande di attivita' di supporto all'iniziativa didattica, di aggiornamento e di sperimentazione.
 
 In sede di accordo decentrato saranno individuati i criteri, i limiti e le procedure da adottare, in ambito provinciale, per il ricorso alle turnazioni quale diverso modello di organizzazione del lavoro, salvaguardando il ruolo e la competenza degli organi collegiali, previo confronto con le organizzazioni sindacali eventualmente presenti nella scuola. Potranno essere tenute presenti le possibilita' di adesione volontaria da parte dei singoli ai diversi turni per l'intero anno scolastico in considerazione della mobilita' territoriale e della funzionalita' della scuola.
+
+4.
+                        
+                            
+                                Gli accordi decentrati, comunque, non potranno prescindere dai seguenti criteri:
+ 
+                            
+                            
+                                a)
+                                
+                                    prima di ricorrere all'organizzazione per turni del lavoro occorre valutare se non si possa conseguire lo stesso risultato adottando altri modelli di organizzazione del lavoro (orario flessibile);
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'adozione del lavoro su turni deve corrispondere ad esigenze non sopprimibili o comprimibili.
 
 ## Art. 38. — Mobilita' professionale
 

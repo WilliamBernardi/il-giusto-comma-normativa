@@ -9,7 +9,7 @@ vigente: true
 source: normattiva-opendata
 collection: Atti di attuazione Regolamenti UE
 zip_date: 2026-07-24
-fetched_at: 2026-08-02T09:38:54Z
+fetched_at: 2026-07-24
 ---
 
 DECRETO
@@ -33,6 +33,22 @@ In applicazione del regolamento CEE n. 3766/91 del Consiglio del 12 dicembre 199
 
 In conformita' all'art. 4 del regolamento del Consiglio l'aiuto e' concesso per ogni ettaro di superficie a seminativo su cui e' stata effettuata la semina ed e' stato conseguito il raccolto di semi di soia, colza e ravizzone e di girasole, nel rispetto dei requisiti e delle condizioni previste agli articoli 1, 3, 5, 6 e 7 del regolamento della Commissione.
 
+3.
+                    
+                        
+                            Ferma la disposizione di cui all'art. 3 par. 1, lettera ii)- 
+                        
+                        
+                            a)
+                            
+                                del regolamento della Commissione che stabilisce in misura non inferiore a 0,3 ettari la superficie complessiva risultante in domanda, perche' si possa beneficiare dell'aiuto, e' determinata ai suddetti fini in 0,1 ettari la dimensione minima di ogni singolo appezzamento interamente seminato con semi di soia, di colza e ravizzone e di girasole, ai sensi della lettera ii)-
+                            
+                        
+                        
+                            b)
+                            
+                                del medesimo articolo.
+
 In conformita' all'art. 2, par. 4, del regolamento del Consiglio e dell'art. 3, par. 1, del regolamento della Commissione, le superfici oggetto di aiuto debbono insistere su regioni o parti di regioni idonee, sotto il profilo climatico e agronomico, alla coltivazione dei vari tipi di seme oleoso, tenuto conto della vocazione colturale e dei dati storici di investimento colturale di semi oleosi nelle medesime zone risultanti dal piano di regionalizzazione di cui all'art. 2 del presente regolamento.
 
 Per i produttori di semi di colza e ravizzone il diritto a beneficiare dell'aiuto e' subordinato al rispetto dei requisiti riportati all'art. 7 del regolamento del Consiglio ed all'art. 6 e allegati IV, V e VI del regolamento della Commissione. L'impiego, nella stessa azienda, di sementi ottenute dal raccolto di sementi certificate di una delle varieta' di cui all'allegato IV del regolamento della Commissione, e' subordinato all'esito favorevole dei controlli di conformita' delle sementi impiegate ai requisiti richiesti dall'allegato V del regolamento della Commissione, espletati dall'A.I.M.A. anteriormente alla semina, su specifica richiesta del produttore.
@@ -42,6 +58,24 @@ Per i produttori di semi di colza e ravizzone il diritto a beneficiare dell'aiut
 L'importo degli aiuti e' fissato, in conformita' agli articoli 3 e 8 del regolamento del Consiglio, dalla Commissione CEE sulla base di un piano di regionalizzazione, che delimita le regioni omogenee di produzione, elaborato e definito secondo i criteri e le modalita' previste all'art. 2 del regolamento del Consiglio.
 
 ## Art. 3. — Concessione dell'aiuto
+
+1.
+                    
+                        
+                            In conformita' all'art. 4 del regolamento del Consiglio ed all'art. 2 del regolamento della Commissione, per i produttori che coltivano semi di soia, di colza e ravizzone e di girasole in coltura principale il pagamento dell'aiuto e' previsto:
+ 
+                        
+                        
+                            a)
+                            
+                                in forma anticipata per un importo non superiore al 50% dell'importo di riferimento regionale previsionale di cui all'art. 3, par. 3, del regolamento del Consiglio;
+
+                            
+                        
+                        
+                            b)
+                            
+                                in forma definitiva per un importo pari alla differenza tra l'importo di riferimento regionale definitivo di cui all'art. 3, par. 4, del regolamento del Consiglio ed il pagamento anticipato.
 
 ## Art. 4. — Modalita' per la richiesta di aiuto
 
@@ -63,6 +97,38 @@ Girasole:
  semina primaverile 30-5-1992 -- 30-11-1992
 
 L'inosservanza delle scadenze sopra indicate comporta l'applicazione delle penalita' previste all'art. 14, paragrafi 1 e 2 del regolamento della Commissione, il cui testo viene allegato al presente regolamento.
+
+4.
+                    
+                        
+                            Alla domanda che, in conformita' all'art. 3, par. 2, del regolamento della Commissione, dovra' contenere tutte le informazioni minime di cui all'allegato II del medesimo regolamento e comprovare il rispetto delle condizioni previste al par. 1 dello stesso articolo, ciascun produttore, salvo quanto previsto ai successivi commi 4, 5 e 6, dovra' allegare:
+ 
+                        
+                        
+                            a)
+                            
+                                fotocopia del tesserino del codice fiscale;
+
+                            
+                        
+                        
+                            b)
+                            
+                                certificazione richiesta dalla legge del 19 marzo 1990, n. 55, anche avvalendosi della facolta' di autocertificazione prevista dall'art. 20, comma 8, del decreto-legge 13 maggio 1991, n. 152, convertito, con modificazioni, dalla legge 21 luglio 1991, n. 203, avente validita' iniziale non anteriore al 15 maggio 1992;
+
+                            
+                        
+                        
+                            c)
+                            
+                                certificazione catastale relativa alla partita ed alle particelle coltivate a semi oleosi indicate in domanda;
+
+                            
+                        
+                        
+                            d)
+                            
+                                mappa in cui sia indicata l'ubicazione degli appezzamenti coltivati a semi oleosi nella particella, solo nel caso in cui non tutta la particella sia coltivata a semi oleosi.
 
 I produttori di soia in sola coltura intercalare che, ai sensi dell'art. 7 del regolamento della Commissione non beneficiano del pagamento in forma anticipata, dovranno far pervenire all'A.I.M.A. la certificazione di cui alla lettera b) del precedente comma 3, avente validita' iniziale non anteriore al 31 gennaio 1993, entro il 15 febbraio 1993.
 

@@ -8,8 +8,8 @@ codice_redazionale: 099G0320
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:42Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -35,6 +35,80 @@ La nomina alla qualifica di vice perito tecnico si consegue, nel limite del cinq
  Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
 
 ## Art. 2. — Bando di concorso
+
+1.
+                    
+                        
+                            Il concorso interno di cui all'articolo 1 e' indetto con decreto del Capo della Polizia - Direttore generale della pubblica sicurezza, da pubblicare nel Bollettino ufficiale del personale del Ministero dell'interno, nel quale sono indicati:
+ 
+                        
+                        
+                            a)
+                            
+                                il numero dei posti messi a concorso in ciascun profilo professionale;
+
+                            
+                        
+                        
+                            b)
+                            
+                                i requisiti richiesti per la partecipazione al concorso;
+
+                            
+                        
+                        
+                            c)
+                            
+                                la definizione, anche per categorie omogenee, delle corrispondenze fra i profili professionali del ruolo dei revisori tecnici e quelli relativi ai posti messi a concorso;
+
+                            
+                        
+                        
+                            d)
+                            
+                                la riserva per il personale bilingue ai sensi dell'articolo 2 del decreto del Presidente della Repubblica 26 luglio 1976, n. 752, cosi' come modificato dal decreto legislativo 9 settembre 1997, n. 354;
+
+                            
+                        
+                        
+                            e)
+                            
+                                le modalita' di presentazione delle domande di partecipazione;
+
+                            
+                        
+                        
+                            f)
+                            
+                                le categorie di titoli ammessi a valutazione ed i punteggi massimi attribuibili a ciascuna di esse;
+
+                            
+                        
+                        
+                            g)
+                            
+                                le materie oggetto delle prove d'esame;
+
+                            
+                        
+                        
+                            h)
+                            
+                                la votazione minima da conseguire nella prova scritta e nel colloquio;
+
+                            
+                        
+                        
+                            i)
+                            
+                                il giorno, l'ora ed il luogo in cui avra' svolgimento la prova scritta, ovvero la data del Bollettino ufficiale del personale del Ministero dell'interno nel quale sara' pubblicato il diario di detta prova;
+
+                            
+                        
+                        
+                            l)
+                            
+                                ogni altra prescrizione o notizia ritenuta utile.
 
 ## Art. 3. — Possesso dei requisiti ed esclusione dal concorso
 
@@ -151,6 +225,59 @@ Al colloquio sono ammessi i candidati che abbiano riportato nella prova scritta 
 Il colloquio non si intende superato se il candidato non abbia riportato la votazione di almeno trenta cinquantesimi.
 
 ## Art. 7. — Titoli di servizio
+
+1.
+                    
+                        
+                            Le categorie di titoli di servizio ammessi a valutazione ed il punteggio massimo attribuito a ciascuna categoria sono stabiliti come segue:
+ 
+                        
+                        
+                            a)
+                            
+                                rapporti informativi e giudizi complessivi del biennio anteriore, fino a punti 12;
+
+                            
+                        
+                        
+                            b)
+                            
+                                qualita' delle funzioni svolte - con particolare riferimento alla specifica competenza professionale dimostrata ed al grado di responsabilita' assunta - da rapportare a due fasce di valutazione concernenti rispettivamente: 1) i servizi che comportano compiti di guida e controllo di unita' operative e/o particolari conoscenze tecniche ed attitudini; 2) i servizi non riconducibili alla precedente fascia, fino a punti 12;
+
+                            
+                        
+                        
+                            c)
+                            
+                                incarichi e servizi speciali conferiti con specifico provvedimento dell'Amministrazione, che comportino un rilevante aggravio di lavoro e presuppongano una particolare competenza professionale, fino a punti 6;
+
+                            
+                        
+                        
+                            d)
+                            
+                                titoli attinenti alla formazione professionale del candidato con particolare riguardo ai corsi professionali e di specializzazione frequentati e superati, alle abilitazioni professionali conseguite, fino a punti 4;
+
+                            
+                        
+                        
+                            e)
+                            
+                                lavori originali elaborati per il servizio che il candidato ha svolto nell'esercizio delle proprie attribuzioni o per speciale incarico conferitogli dall'Amministrazione di appartenenza o da quella presso cui presta servizio e che vertono su problemi tecnici attinenti ai servizi dell'Amministrazione, fino a punti 4;
+
+                            
+                        
+                        
+                            f)
+                            
+                                speciali riconoscimenti, fino a punti 6;
+
+                            
+                        
+                        
+                            g)
+                            
+                                anzianita' nel ruolo dei revisori tecnici, fino a punti 6.
 
 Nell'ambito delle suddette categorie, la commissione esaminatrice determina i titoli valutabili ed i criteri di massima per la valutazione degli stessi e per l'attribuzione dei relativi punteggi. Predetermina altresi' i punteggi da attribuire ai giudizi complessivi presi in considerazione.
 

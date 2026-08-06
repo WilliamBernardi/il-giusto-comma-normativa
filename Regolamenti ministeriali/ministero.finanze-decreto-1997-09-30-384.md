@@ -8,8 +8,8 @@ codice_redazionale: 097G0414
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:39Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -36,6 +36,31 @@ Anche a seguito della cessione restano impregiudicati i poteri della Amministraz
 
 Ferma rimanendo l'applicazione dell'art. 43 del citato decreto del Presidente della Repubblica n. 602/1973 nei confronti del soggetto cedente per i crediti rimborsati al cessionario di cui risulta l'insussistenza, l'Amministrazione finanziaria puo' procedere anche nei confronti di quest'ultimo, previa notificazione degli atti.
 Per assicurare il recupero del credito erariale sia il cedente che il cessionario hanno l'obbligo di dare tempestiva comunicazione all'Amministrazione finanziaria delle variazioni del domicilio fiscale; in caso di inosservanza non puo' opporsi il difetto di notifica.
+
+7.
+                    
+                        
+                            L'atto di cessione dei crediti di cui al comma 1 e' inefficace nei confronti dell'Amministrazione finanziaria se:
+ 
+                        
+                        
+                            a)
+                            
+                                al momento della notifica, l'Amministrazione ha gia' proceduto all'emissione dell'ordinativo di pagamento;
+
+                            
+                        
+                        
+                            b)
+                            
+                                e' stata presentata richiesta per il rimborso mediante titoli di Stato e, al momento della notifica, il Ministero delle finanze ha gia' proceduto alla trasmissione dell'elenco degli aventi diritto al rimborso al Ministero del tesoro;
+
+                            
+                        
+                        
+                            c)
+                            
+                                al momento della notifica, risultano a carico del cedente eventuali iscrizioni a ruolo relative a tributi erariali, notificate in data anteriore a quella della notifica dell'atto di cessione. In tal caso la cessione ha effetto solo per gli importi eccedenti quelli oggetto delle iscrizioni a ruolo.
 
 Le cessioni di crediti effettuate anteriormente alla data di entrata in vigore della legge n. 549/1995, in conformita' alle norme contenute negli articoli 69 e 70 del regio decreto n. 2440/1923, sono efficaci nei confronti dell'Amministrazione finanziaria a condizione che le parti provvedano al rinnovo della notifica secondo le modalita' previste dal precedente comma 4.
  Avvertenza:

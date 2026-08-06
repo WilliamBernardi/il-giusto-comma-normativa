@@ -8,7 +8,7 @@ vigente: true
 source: normattiva-opendata
 collection: Atti di recepimento direttive UE
 zip_date: 2026-07-30
-fetched_at: 2026-08-02T09:40:49Z
+fetched_at: 2026-07-30
 ---
 
 DECRETO LEGISLATIVO
@@ -40,7 +40,425 @@ Per ogni sottosistema del sistema ferroviario sono stabilite le disposizioni rel
 
 Il presente decreto si applica all'intero sistema ferroviario, che e' suddiviso in sottosistemi di natura strutturale e funzionale.
 
+2.
+                        
+                            
+                                Il presente decreto non si applica: 
+ 
+                            
+                            
+                                a)
+                                
+                                    alle metropolitane; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    ai tram e ai veicoli leggeri su rotaia, nonche' alle infrastrutture utilizzate soltanto da tali veicoli; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    alle reti di cui al decreto legislativo Sicurezza ferroviaria, che sono isolate dal punto di vista funzionale dal resto del sistema ferroviario, nonche' ai soggetti e ai veicoli che operano esclusivamente su tali reti; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    alle infrastrutture ferroviarie private, ivi compresi i binari di raccordo privati, utilizzate per fini non commerciali dal proprietario o da un operatore per le loro rispettive attivita' di trasporto merci o per il trasporto di persone, nonche' ai veicoli utilizzati esclusivamente su tali infrastrutture; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    alle infrastrutture destinate ad un uso storico o turistico, nonche' ai veicoli utilizzati esclusivamente su tali infrastrutture; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    alle infrastrutture per il trasporto leggero su rotaia, utilizzate occasionalmente da veicoli ferroviari nelle condizioni operative del sistema di trasporto leggero su rotaia, ove e' necessario il transito di quei veicoli soltanto a fini di connettivita'; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    ai veicoli utilizzati principalmente sulle infrastrutture per il trasporto leggero su rotaia, ma attrezzati con alcuni componenti ferroviari necessari per consentire il transito a tali veicoli su una sezione confinata e limitata di infrastruttura ferroviaria soltanto a fini di connettivita'.
+
+3.
+                        
+                            
+                                Per operare nel sistema ferroviario i veicoli che rientrano nella fattispecie del tram-treno, fatta eccezione per i veicoli esclusi dall'ambito di applicazione del presente decreto ai sensi del comma 2, per gli aspetti che non sono disciplinati dalle Specifiche Tecniche di Interoperabilita' (STI) applicabili, rispettano le seguenti disposizioni e procedure: 
+ 
+                            
+                            
+                                a)
+                                
+                                    norme nazionali o altre pertinenti misure accessibili, per garantire che tali veicoli soddisfino i requisiti essenziali pertinenti, definite dall'Agenzia Nazionale per la Sicurezza delle Ferrovie e delle Infrastrutture Stradali e Autostradali (ANSFISA) e dal Ministero delle infrastrutture e dei trasporti per quanto di rispettiva competenza; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    procedura di autorizzazione applicabile a tali veicoli definita dall'ANSFISA; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    disposizioni atte a garantire che l'esercizio misto di tram-treni e treni soddisfi tutti i requisiti essenziali, nonche' gli obiettivi comuni di sicurezza (Common Safety Target - CST) pertinenti, definite dall'ANSFISA; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    in deroga all'articolo 21, in caso di esercizio transfrontaliero, l'ANSFISA coopera con la pertinente autorita' dello Stato confinante ai fini del rilascio delle autorizzazioni dei veicoli di cui al presente comma.
+
 ## Art. 3. — Definizioni
+
+1.
+                        
+                            
+                                Ai fini dell'applicazione del presente decreto si intende per: 
+ 
+                            
+                            
+                                a)
+                                
+                                    «sistema ferroviario»: gli elementi della rete ferroviaria ed i veicoli elencati all'Allegato I, facenti parte di tutte le reti ferroviarie insistenti sul territorio nazionale o che operano su di esse; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    «interoperabilita'»: la capacita' del sistema ferroviario di consentire la circolazione sicura e senza soluzione di continuita' di treni, garantendo i livelli di prestazione specificati; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    «veicolo»: veicolo ferroviario idoneo a circolare con ruote sulle linee ferroviarie, con o senza trazione, che si compone di uno o piu' sottosistemi strutturali e funzionali; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    «rete»: linee, stazioni, terminal e tutti i tipi di attrezzature fisse necessarie per assicurare il funzionamento sicuro e continuo del sistema ferroviario italiano; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    «sottosistemi»: parti strutturali o funzionali del sistema ferroviario italiano, come indicato nell'Allegato II; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    «sottosistema mobile»: il sottosistema materiale rotabile ed il sottosistema controllo-comando e segnalamento di bordo; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    «componenti di interoperabilita'»: qualsiasi componente elementare, gruppo di componenti, sottoinsieme o insieme completo di materiali, incorporati o destinati ad essere incorporati in un sottosistema, da cui dipende direttamente o indirettamente l'interoperabilita' del sistema ferroviario, compresi i beni materiali e quelli immateriali; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    «prodotto»: un prodotto ottenuto tramite un processo di fabbricazione, inclusi i componenti di interoperabilita' ed i sottosistemi; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    «requisiti essenziali»: l'insieme delle condizioni descritte nell'Allegato III che devono essere soddisfatte dal sistema ferroviario, dai sottosistemi e dai componenti di interoperabilita', comprese le interfacce; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    «specifica europea»: una specifica che rientra in una delle seguenti categorie: una specifica tecnica comune, quale definita nell'allegato XIII del decreto legislativo 18 aprile 2016, n. 50; una specifica tecnica europea di cui all'articolo 68 del decreto legislativo 18 aprile 2016, n. 50; una norma europea quale definita all'articolo 2, paragrafo 1, lettera b), del regolamento (UE) n. 1025/2012; 
+
+                                
+                            
+                            
+                                m)
+                                
+                                    «Specifica Tecnica di Interoperabilita' - STI» (Technical Specification for Interoperability - TSI): una regola tecnica europea adottata ai sensi della direttiva (UE) 2016/797, avente ad oggetto ciascun sottosistema o parte di un sottosistema, allo scopo di soddisfare i requisiti essenziali e garantire l'interoperabilita' del sistema ferroviario dell'Unione europea; 
+
+                                
+                            
+                            
+                                n)
+                                
+                                    «caso specifico»: ogni parte del sistema ferroviario che necessita di disposizioni particolari nelle STI, temporanee o permanenti, a causa di limitazioni geografiche, topografiche, di ambiente urbano o di coerenza rispetto al sistema ferroviario esistente, in particolare le linee e le reti ferroviarie isolate dalla rete del resto dell'Unione europea, la sagoma, lo scartamento o l'interasse fra i binari, i veicoli destinati ad un uso strettamente locale, regionale o storico e i veicoli che provengono da Paesi terzi o che sono ivi destinati; 
+
+                                
+                            
+                            
+                                o)
+                                
+                                    «ristrutturazione»: lavori importanti di modifica di un sottosistema o di una sua parte, che comportano una modifica della documentazione tecnica che accompagna la dichiarazione «CE» di verifica, qualora tale documentazione tecnica sia presente, e che migliorano l'insieme delle prestazioni del sottosistema; 
+
+                                
+                            
+                            
+                                p)
+                                
+                                    «rinnovo»: lavori importanti di sostituzione di un sottosistema o di una sua parte che non modificano l'insieme delle prestazioni del sottosistema; 
+
+                                
+                            
+                            
+                                q)
+                                
+                                    «sistema ferroviario esistente»: l'infrastruttura costituita dalle linee e dagli impianti fissi delle reti ferroviarie esistenti al momento dell'entrata in vigore del presente decreto, nonche' i veicoli di ogni categoria e origine che percorrono tale infrastruttura; 
+
+                                
+                            
+                            
+                                r)
+                                
+                                    «sostituzione nell'ambito della manutenzione»: sostituzione di componenti con elementi aventi funzione e prestazioni identiche a quelle del componente sostituito, nell'ambito della manutenzione preventiva o correttiva; 
+
+                                
+                            
+                            
+                                s)
+                                
+                                    «tram-treno»: un veicolo progettato per un uso combinato sia su infrastrutture per il trasporto leggero su rotaia sia su infrastrutture ferroviarie; 
+
+                                
+                            
+                            
+                                t)
+                                
+                                    «messa in servizio»: insieme delle operazioni mediante le quali un sottosistema e' messo in servizio operativo; 
+
+                                
+                            
+                            
+                                u)
+                                
+                                    «ente appaltante»: ente, pubblico o privato, che ordina la progettazione ovvero la costruzione, oppure, il rinnovo o la ristrutturazione di un sottosistema; 
+
+                                
+                            
+                            
+                                v)
+                                
+                                    «detentore»: una persona fisica o giuridica che, essendo il proprietario del veicolo o avendo diritto ad utilizzarlo, lo sfrutta in quanto mezzo di trasporto ed e' registrato in quanto tale nel registro dei veicoli di cui all'articolo 47 della direttiva (UE) 2016/797; 
+
+                                
+                            
+                            
+                                z)
+                                
+                                    «richiedente»: una persona fisica o giuridica che chiede un'autorizzazione, sia essa un'impresa ferroviaria, un gestore dell'infrastruttura o un'altra persona fisica o giuridica, come un fabbricante, un proprietario o un detentore. Ai fini dell'articolo 15, per «richiedente» si intende un ente appaltante o un fabbricante, oppure i loro mandatari. Ai fini dell'articolo 19, per «richiedente» si intende una persona fisica o giuridica che richiede la decisione dell'Agenzia dell'Unione europea per le ferrovie (ERA) per l'approvazione delle soluzioni tecniche prospettate per i progetti di apparecchiature ERTMS a terra; 
+
+                                
+                            
+                            
+                                aa)
+                                
+                                    «progetto in fase avanzata di sviluppo»: qualsiasi progetto la cui fase di progettazione o costruzione e' giunta a un punto tale che una modifica delle specifiche tecniche potrebbe compromettere la fattibilita' del progetto cosi' come pianificato; 
+
+                                
+                            
+                            
+                                bb)
+                                
+                                    «norma armonizzata»: una norma europea quale definita all'articolo 2, punto 1, lettera c), del regolamento (UE) n. 1025/2012; 
+
+                                
+                            
+                            
+                                cc)
+                                
+                                    «Agenzia Nazionale per la Sicurezza delle Ferrovie e delle Infrastrutture Stradali e Autostradali» (ANSFISA): l'organismo nazionale, istituito dal decreto-legge 28 settembre 2018, n. 109, convertito, con modificazioni, dalla legge 16 novembre 2018, n. 130, operante come autorita' nazionale preposta alla sicurezza con riferimento ai compiti riguardanti la sicurezza ferroviaria assegnati dal decreto legislativo recante attuazione della direttiva (UE) 2016/798 del Parlamento europeo e del Consiglio dell'11 maggio 2016 sulla sicurezza delle ferrovie; 
+
+                                
+                            
+                            
+                                dd)
+                                
+                                    «tipo»: il tipo di veicolo che definisce le caratteristiche essenziali di progettazione del veicolo, cui si riferisce il certificato di esame del tipo o del progetto, descritto nel pertinente modulo di verifica; 
+
+                                
+                            
+                            
+                                ee)
+                                
+                                    «serie»: una serie di veicoli identici di uno stesso tipo di progetto; 
+
+                                
+                            
+                            
+                                ff)
+                                
+                                    «soggetto responsabile della manutenzione» (Entity in Charge of Maintenance - ECM): soggetto responsabile della manutenzione di un veicolo, come definito ai sensi del decreto legislativo Sicurezza ferroviaria; 
+
+                                
+                            
+                            
+                                gg)
+                                
+                                    «trasporto leggero su rotaia»: un sistema di trasporto ferroviario urbano e/o suburbano con una resistenza alla collisione di C-III o C-IV (conformemente alla norma EN 15227:2011) e una resistenza massima del veicolo di 800 kN (sforzo longitudinale di compressione nella zona di accoppiamento); i sistemi di trasporto leggero su rotaia possono disporre di un tracciato proprio o condividerlo con il traffico stradale ed in generale non effettuano scambi di veicoli con traffico merci o passeggeri di lunga distanza; 
+
+                                
+                            
+                            
+                                hh)
+                                
+                                    «norme nazionali»: tutte le norme e le altre disposizioni vincolanti, emanate dalle competenti Autorita', che contengono requisiti in materia di sicurezza ferroviaria o requisiti tecnici diversi da quelli stabiliti dalle norme dell'Unione europea o internazionali, e che sono applicabili alle imprese ferroviarie, ai gestori dell'infrastruttura o a terzi; 
+
+                                
+                            
+                            
+                                ii)
+                                
+                                    «stato di funzionamento di progetto»: il normale modo di funzionamento e le condizioni di degrado prevedibili, compresa l'usura, nei limiti e nelle condizioni di utilizzo specificate nei fascicoli tecnici e di manutenzione; 
+
+                                
+                            
+                            
+                                ll)
+                                
+                                    «area d'uso di un veicolo»: una o piu' reti all'interno di uno Stato membro o di un gruppo di Stati membri in cui un veicolo e' destinato ad essere utilizzato; 
+
+                                
+                            
+                            
+                                mm)
+                                
+                                    «strumenti di conformita' accettabili»: pareri non vincolanti emessi dall'ERA per definire i metodi atti a stabilire il rispetto dei requisiti essenziali; 
+
+                                
+                            
+                            
+                                nn)
+                                
+                                    «strumenti di conformita' nazionali accettabili»: pareri non vincolanti emessi dall'ANSFISA per definire i metodi atti a stabilire il rispetto delle norme nazionali; 
+
+                                
+                            
+                            
+                                oo)
+                                
+                                    «immissione sul mercato»: la prima messa a disposizione sul mercato dell'Unione europea di un componente di interoperabilita', di un sottosistema o di un veicolo, in grado di funzionare nel suo stato di funzionamento di progetto; 
+
+                                
+                            
+                            
+                                pp)
+                                
+                                    «fabbricante»: qualsiasi persona fisica o giuridica che fabbrica un prodotto nella forma di componenti di interoperabilita', sottosistemi o veicoli, oppure lo fa progettare o fabbricare e lo commercializza con il proprio nome o marchio; 
+
+                                
+                            
+                            
+                                qq)
+                                
+                                    «mandatario»: persona fisica o giuridica stabilita nell'Unione europea che ha ricevuto, da un fabbricante o da un ente appaltante, un mandato scritto che la autorizza ad agire per conto di tale fabbricante o ente appaltante in relazione a determinati compiti; 
+
+                                
+                            
+                            
+                                rr)
+                                
+                                    «specifica tecnica»: un documento che prescrive i requisiti tecnici che un prodotto, un sottosistema, un processo o un servizio, devono soddisfare; 
+
+                                
+                            
+                            
+                                ss)
+                                
+                                    «accreditamento»: l'accreditamento quale definito all'articolo 2, paragrafo 1, numero 10, del regolamento (CE) n. 765/2008 del Parlamento europeo e del Consiglio, del 9 luglio 2008, che pone norme in materia di accreditamento e vigilanza del mercato per quanto riguarda la commercializzazione dei prodotti; 
+
+                                
+                            
+                            
+                                tt)
+                                
+                                    «organismo nazionale di accreditamento»: l'organismo nazionale di accreditamento quale definito all'articolo 2, punto 10, del regolamento (CE) n. 765/2008; per l'Italia e' l'Ente Unico nazionale di accreditamento italiano di cui all'articolo 4 della legge 23 luglio 2009, n. 99; 
+
+                                
+                            
+                            
+                                uu)
+                                
+                                    «valutazione della conformita'»: la procedura atta a dimostrare se i pertinenti requisiti, relativi a un prodotto, a un processo, a un servizio, a un sottosistema, a una persona o a un organismo, sono stati rispettati; 
+
+                                
+                            
+                            
+                                vv)
+                                
+                                    «organismo di valutazione della conformita'»: un organismo che e' stato notificato o designato dallo Stato membro quale responsabile delle attivita' di valutazione della conformita', rispettivamente, alle norme dell'Unione europea o alle norme nazionali, tra cui tarature, prove, certificazioni e ispezioni; 
+
+                                
+                            
+                            
+                                zz)
+                                
+                                    «persona con disabilita'» e «persona a mobilita' ridotta»: le persone con una menomazione fisica, mentale, intellettiva o sensoriale, permanente o temporanea, la cui interazione con barriere puo' ostacolare il pieno ed efficace utilizzo dei trasporti su una base di uguaglianza con gli altri passeggeri, e le persone la cui mobilita' nell'utilizzo dei mezzi di trasporto e' ridotta a causa dell'eta'; 
+
+                                
+                            
+                            
+                                aaa)
+                                
+                                    «gestore dell'infrastruttura»: il soggetto definito ai sensi dell'articolo 3, comma 1, lettera b), del decreto legislativo 15 luglio 2015, n. 112, recante recepimento della direttiva 2012/34/UE del Parlamento europeo e del Consiglio; 
+
+                                
+                            
+                            
+                                bbb)
+                                
+                                    «impresa ferroviaria»: il soggetto definito ai sensi dell'articolo 3, comma 1, lettera a), del decreto legislativo n. 112 del 2015 e qualsiasi altra impresa pubblica o privata la cui attivita' consiste nella prestazione di servizi di trasporto di merci ovvero di passeggeri per ferrovia e che garantisce obbligatoriamente la trazione, incluse le imprese che forniscono solo la trazione; 
+
+                                
+                            
+                            
+                                ccc)
+                                
+                                    «binari di raccordo privati»: binari ferroviari che collegano un'infrastruttura ferroviaria privata con la rete del sistema ferroviario fino alla barriera tecnica atta a evitare l'interferenza tra i movimenti effettuati all'interno del raccordo e quelli sulla rete ferroviaria stessa; sui binari di detto raccordo vengono effettuate movimentazioni di veicoli unicamente per gli scopi indicati all'articolo 2, comma 2, lettera d); 
+
+                                
+                            
+                            
+                                ddd)
+                                
+                                    «Agenzia dell'Unione europea per le Ferrovie (European Union Agency for Railways, o ERA)»: l'organismo di cui al regolamento (UE) 2016/796 del Parlamento europeo e del Consiglio dell'11 maggio 2016; 
+
+                                
+                            
+                            
+                                eee)
+                                
+                                    «decreto legislativo Sicurezza ferroviaria»: il decreto legislativo recante attuazione della direttiva (UE) 2016/798 del Parlamento europeo e del Consiglio dell'11 maggio 2016, sulla sicurezza delle ferrovie.
 
 ## Art. 4. — Requisiti essenziali
 
@@ -63,6 +481,38 @@ L'ANSFISA partecipa con propri rappresentanti alle fasi di elaborazione e revisi
 Il Ministero delle infrastrutture e dei trasporti partecipa alle attivita' del Comitato di cui all'articolo 51 della direttiva (UE) 2016/797, con il supporto dell'ANSFISA.
 
 ## Art. 6. — Deroghe alle STI
+
+1.
+                        
+                            
+                                I richiedenti possono presentare istanza per derogare, del tutto o in parte, a una o piu' STI, nei seguenti casi: 
+ 
+                            
+                            
+                                a)
+                                
+                                    per un progetto di realizzazione di un nuovo sottosistema, o parte di esso, per il rinnovo o la ristrutturazione di un sottosistema esistente, o parte di esso, nonche' per ogni elemento del sistema ferroviario che si trovi in una fase avanzata di sviluppo oppure che formi oggetto di un contratto in corso di esecuzione alla data di applicazione delle STI interessate; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    quando, in seguito a un incidente o a una catastrofe naturale, le condizioni di ripristino rapido della rete non consentano dal punto di vista economico o tecnico l'applicazione parziale o totale delle STI pertinenti; in tal caso la non applicazione delle STI e' limitata al periodo precedente al ripristino della rete; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    per ogni progetto concernente il rinnovo, l'estensione o la ristrutturazione di un sottosistema esistente, o parte di esso, nel caso in cui l'applicazione delle STI interessate rischi di compromettere la redditivita' economica del progetto ovvero la compatibilita' del sistema ferroviario italiano; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    per un progetto di creazione di un nuovo sottosistema o per un progetto concernente il rinnovo o la ristrutturazione di un sistema esistente, quando la rete ferroviaria e' separata o isolata per la presenza del mare o separata dalla rete ferroviaria del resto dell'Unione europea a causa di condizioni geografiche particolari.
 
 Il Ministero delle infrastrutture e dei trasporti comunica alla Commissione europea, entro un anno dall'entrata in vigore di ogni STI, un elenco dei progetti che hanno luogo nel territorio nazionale e che, sulla base di adeguate giustificazioni fornite dal richiedente, si trovano nella fase avanzata di sviluppo di cui al comma 1, lettera a). Ai fini dell'inserimento nel suddetto elenco, ciascun richiedente comunica al Ministero, entro nove mesi dall'entrata in vigore delle STI interessate, i progetti che ritiene rientrino nella suddetta fattispecie.
 
@@ -123,7 +573,57 @@ Non conformita' dei componenti di interoperabilita' ai requisiti essenziali
 
 Se un gestore dell'infrastruttura, un'impresa ferroviaria, un fabbricante, un ECM o un ente appaltante, constata che un componente di interoperabilita', munito della dichiarazione «CE» di conformita' o di idoneita' all'impiego, immesso sul mercato e utilizzato conformemente alla sua destinazione, non soddisfa i requisiti essenziali, adotta per quanto di competenza tutte le misure necessarie per limitare il suo ambito di applicazione, per evitarne l'impiego, per ritirarlo dal mercato o per richiamarlo, e ne informa immediatamente l'ANSFISA.
 
+2.
+                        
+                            
+                                Se l'ANSFISA constata la non conformita' di cui al comma 1, adotta tutte le misure necessarie per limitare l'ambito di applicazione del componente di interoperabilita', per vietarne l'impiego, per ritirarlo dal mercato o per richiamarlo, ed informa immediatamente il Ministero delle infrastrutture e dei trasporti e il Ministero dello sviluppo economico, esponendo i motivi della sua decisione e precisando in particolare se la non conformita' deriva da: 
+ 
+                            
+                            
+                                a)
+                                
+                                    un'inosservanza dei requisiti essenziali; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    un'errata applicazione delle specifiche europee, a condizione che sia invocata l'applicazione di queste specifiche; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    una carenza delle specifiche europee.
+
 Il Ministero delle infrastrutture e dei trasporti e il Ministero dello sviluppo economico, ognuno per gli aspetti di rispettiva competenza, informano immediatamente la Commissione europea delle misure adottate e delle motivazioni di cui al comma 2, e adottano provvedimenti conformi alle eventuali conclusioni comunicate dalla Commissione europea.
+
+4.
+                        
+                            
+                                Se la decisione di cui ai commi 1 e 2 risulta da una carenza nelle specifiche europee, il Ministero delle infrastrutture e dei trasporti, il Ministero dello sviluppo economico, o se del caso l'ANSFISA, applica una o piu' delle misure seguenti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    procede al ritiro parziale o totale di tale specifica dalle pubblicazioni nazionali in cui e' iscritta; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    se la specifica interessata e' una norma armonizzata, richiede la limitazione o il ritiro di tale norma ai sensi dell'articolo 11 del regolamento (UE) n. 1025/2012; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    richiede la revisione della STI a norma dell'articolo 6 della direttiva (UE) 2016/797.
 
 Se un componente di interoperabilita' munito della dichiarazione «CE» di conformita' risulta non conforme ai requisiti essenziali, il fabbricante o il suo mandatario che ha redatto la dichiarazione provvede alla sua regolarizzazione ai sensi del presente decreto.
 Qualora la non conformita' persista si procede in conformita' a quanto previsto all'articolo 11.
@@ -154,9 +654,98 @@ Conformita' alle STI e alle norme nazionali
 
 L'ANSFISA considera conformi ai requisiti essenziali i sottosistemi di natura strutturale, costitutivi del sistema ferroviario, muniti, laddove previsto, della «dichiarazione "CE" di verifica» redatta con riferimento alle STI, a norma dell'articolo 15, comma 1, ovvero della «dichiarazione di verifica» redatta con riferimento alle norme nazionali a norma dell'articolo 15, comma 8, o di entrambe.
 
+2.
+                        
+                            
+                                Le norme nazionali per l'applicazione dei requisiti essenziali e, se del caso, gli strumenti di conformita' nazionali accettabili sono applicati nei casi seguenti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    qualora le STI non contemplino alcuni aspetti corrispondenti ai requisiti essenziali, inclusi i punti in sospeso di cui all'articolo 4, paragrafo 6, della direttiva (UE) 2016/797; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    qualora la deroga a una o piu' STI o di parte di esse sia stata notificata in applicazione dell'articolo 6; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    qualora un caso specifico necessiti dell'applicazione di norme tecniche non riprese nella STI pertinente; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    le norme nazionali utilizzate per specificare i sistemi esistenti sono limitate alla valutazione della compatibilita' tecnica del veicolo con la rete; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    le reti e i veicoli non sono coperti dalle STI; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    quale misura preventiva temporanea urgente, specialmente in seguito a un incidente.
+
 ## Art. 14. — Notifica delle norme nazionali
 
+1.
+                        
+                            
+                                L'ANSFISA, attraverso il sistema informatico appropriato di cui all'articolo 27 del regolamento (UE) 2016/796, notifica alla Commissione e all'ERA le norme nazionali di cui all'articolo 13, comma 2, nei seguenti casi: 
+ 
+                            
+                            
+                                a)
+                                
+                                    ogni volta che dette norme sono modificate; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    quando e' stata presentata una nuova domanda per la deroga alle STI a norma dell'articolo 6; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    quando dette norme sono abrogate a seguito della pubblicazione o revisione di una STI.
+
 L'ANSFISA assicura che le norme nazionali di cui al comma 1, comprese quelle relative alle interfacce tra i veicoli e le reti, siano facilmente accessibili, di dominio pubblico e siano redatte con una terminologia che possa essere compresa da tutte le parti interessate.
+
+3.
+                        
+                            
+                                L'ANSFISA e il Ministero delle infrastrutture e dei trasporti, nelle materie di rispettiva competenza, possono predisporre nuove norme nazionali nei seguenti casi: 
+ 
+                            
+                            
+                                a)
+                                
+                                    qualora una STI non soddisfi appieno i requisiti essenziali; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    quale misura preventiva urgente, specialmente in seguito a un incidente.
 
 Per le finalita' di cui al comma 3, l'ANSFISA e il Ministero delle infrastrutture e dei trasporti trasmettono il progetto di nuova norma nazionale all'ERA e alla Commissione europea, attraverso il sistema informatico appropriato a norma dell'articolo 27 del regolamento (UE) 2016/796, in tempo utile ed in linea con i termini di cui all'articolo 25, paragrafo 1, del regolamento (UE) 2016/796, prima della prevista introduzione della nuova norma proposta e fornendo una motivazione per la sua introduzione. L'ANSFISA e il Ministero delle infrastrutture e dei trasporti assicurano che il progetto sia sufficientemente sviluppato per permettere all'ERA di svolgere il suo esame a norma dell'articolo 25, paragrafo 2, del regolamento (UE) 2016/796.
 
@@ -215,13 +804,117 @@ I sottosistemi controllo-comando e segnalamento a terra, energia e infrastruttur
 
 L'ANSFISA provvede, previa consultazione dei soggetti interessati, alla pubblicazione, sul proprio sito istituzionale, di dettagliate linee guida che indicano la procedura necessaria per ottenere le autorizzazioni di messa in servizio di impianti fissi, garantendo il rispetto dei termini del procedimento previsti dal presente articolo. Tali linee guida, ai fini della compilazione della relativa domanda, illustrano i requisiti, i documenti necessari e la procedura per ottenere le autorizzazioni. L'ANSFISA coopera con l'ERA nella loro divulgazione.
 
+3.
+                        
+                            
+                                Il richiedente presenta una domanda di autorizzazione di messa in servizio di impianti fissi all'ANSFISA, almeno cinque mesi prima della data di prevista attivazione. Tale domanda e' accompagnata da un fascicolo completo di tutte le informazioni necessarie e che include le prove documentali relative ai seguenti elementi: 
+ 
+                            
+                            
+                                a)
+                                
+                                    dichiarazioni di verifica di cui all'articolo 15; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    compatibilita' tecnica dei sottosistemi con il sistema nel quale sono integrati, accertata in base alle pertinenti STI, alle norme nazionali e ai registri; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    integrazione in condizioni di sicurezza di tali sottosistemi, accertata in base alle pertinenti STI, alle norme nazionali e ai metodi comuni di sicurezza (CSM) di cui all'articolo 6 della direttiva (UE) 2016/798; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    decisione favorevole dell'ERA emessa in conformita' dell'articolo 19 della direttiva (UE) 2016/797, nel caso di sottosistemi controllo-comando e segnalamento a terra che coinvolgono attrezzature del sistema europeo di controllo dei treni (European Train Control System, ETCS), del sistema globale di comunicazione mobile - ferrovie (Global System for Mobile Communications - Railway, GSM-R); 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    rispetto dell'esito della procedura di cui all'articolo 30, paragrafo 2, del regolamento (UE) 2016/796, nel caso di una modifica al progetto di capitolato d'oneri o alla descrizione delle soluzioni tecniche previste intervenuta successivamente alla decisione favorevole.
+
 Entro un mese dal ricevimento della domanda, l'ANSFISA informa il richiedente che il fascicolo e' completo o richiede allo stesso le pertinenti informazioni aggiuntive, fissando un termine ragionevole per la relativa comunicazione. L'ANSFISA verifica la completezza, la pertinenza e la coerenza del fascicolo e, nel caso di apparecchiature ERTMS a terra, l'osservanza della decisione favorevole dell'ERA e, laddove necessario, dell'esito della procedura di cui al comma 3, lettera e). All'esito di tale verifica, l'ANSFISA rilascia l'autorizzazione per la messa in servizio di impianti fissi, oppure informa il richiedente della sua decisione negativa, entro un termine ragionevole prestabilito, e comunque entro quattro mesi dal ricevimento di tutte le informazioni pertinenti.
+
+5.
+                        
+                            
+                                Nel caso di rinnovo o ristrutturazione dei sottosistemi esistenti, il richiedente invia all'ANSFISA un fascicolo con la descrizione del progetto, almeno 5 mesi prima della data di prevista attivazione. Entro un mese dal ricevimento della domanda del richiedente, l'ANSFISA informa il richiedente che il fascicolo e' completo oppure chiede le pertinenti informazioni aggiuntive, fissando un termine ragionevole per la relativa comunicazione.
+L'ANSFISA, in stretta collaborazione con l'ERA nel caso di progetti di apparecchiature ERTMS a terra, esamina il fascicolo e decide entro un termine ragionevole prestabilito, e comunque entro quattro mesi dal ricevimento di tutte le informazioni pertinenti se sia necessaria una nuova autorizzazione di messa in servizio, laddove: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il livello di sicurezza globale del sottosistema interessato puo' risentire dei lavori previsti; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    e' richiesta dalle STI pertinenti; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    e' richiesta dal piano nazionale di implementazione; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    sono modificati i valori dei parametri sulla cui base l'autorizzazione era gia' stata rilasciata.
 
 In caso di decisione negativa concernente una domanda di autorizzazione di messa in servizio di impianti fissi, essa deve essere motivata in modo esauriente dall'ANSFISA. Entro un mese dalla ricezione della notifica della decisione negativa, il richiedente puo' presentare all'ANSFISA stessa una domanda motivata di riesame della decisione. L'ANSFISA dispone di un termine di due mesi dalla data di ricezione della domanda di riesame per confermare o revocare la propria precedente decisione. Se questa e' confermata, il richiedente puo' presentare ricorso dinanzi all'autorita' giudiziaria competente.
 
 Il gestore dell'infrastruttura apre al pubblico i relativi sottosistemi nuovi, rinnovati o ristrutturati dopo aver acquisito tutte le opportune certificazioni e autorizzazioni, nonche' tutti i permessi necessari.
 
 ## Art. 19. — Implementazione armonizzata dell'ERTMS nell'Unione europea
+
+1.
+                        
+                            
+                                Prima di qualsiasi gara d'appalto che coinvolga le apparecchiature ERTMS a terra, il richiedente deve presentare all'ERA idonea domanda di approvazione. La domanda, relativa a singoli progetti ERTMS o per una combinazione di progetti, una linea, un gruppo di linee o una rete, e' accompagnata da un fascicolo che include: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il progetto di capitolato d'oneri o la descrizione delle soluzioni tecniche previste; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    prove documentali delle condizioni necessarie alla compatibilita' tecnica e operativa del sottosistema con i veicoli destinati a circolare sulla rete di cui trattasi; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    prove documentali della conformita' delle soluzioni tecniche previste con le pertinenti STI; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    altri eventuali documenti pertinenti, quali pareri dell'ANSFISA, dichiarazioni di verifica o certificati di conformita'.
 
 La domanda e le informazioni su tutte le domande, sulle fasi delle pertinenti procedure e sui loro risultati, nonche', sulle richieste e decisioni della Commissione di ricorso di cui all'articolo 55 del regolamento (UE) 2016/796, sono presentate attraverso lo sportello unico di cui all'articolo 12 del medesimo regolamento.
 
@@ -241,6 +934,38 @@ Il richiedente immette sul mercato sottosistemi mobili soltanto se sono progetta
 
 Il richiedente immette sul mercato un veicolo soltanto dopo che l'ERA, ai sensi dei commi da 5 a 8, oppure l'ANSFISA ai sensi del comma 9 hanno rilasciato la relativa autorizzazione.
 
+2.
+                        
+                            
+                                Nella domanda di autorizzazione di immissione sul mercato del veicolo, il richiedente specifica l'area d'uso. La domanda include la documentazione comprovante che la compatibilita' tecnica tra il veicolo e la rete nell'area d'uso e' stata controllata ed e' accompagnata da un fascicolo relativo al veicolo o al tipo di veicolo, nel quale sono contenute le prove documentali relative: 
+ 
+                            
+                            
+                                a)
+                                
+                                    all'immissione sul mercato dei sottosistemi mobili di cui e' composto il veicolo a norma dell'articolo 20, sulla base della dichiarazione «CE» di verifica; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    alla compatibilita' tecnica dei sottosistemi di cui alla lettera a) all'interno del veicolo, accertata in base alle pertinenti STI, e ove necessario, alle norme nazionali; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    all'integrazione in condizioni di sicurezza dei sottosistemi di cui alla lettera a) all'interno del veicolo, accertata in base alle pertinenti STI, e ove necessario, alle norme nazionali ed ai metodi comuni di sicurezza di cui all'articolo 6 della direttiva (UE) 2016/798; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    alla compatibilita' tecnica del veicolo con la rete nell'area d'uso, accertata in base alle pertinenti STI, e, ove necessario, alle norme nazionali, ai registri dell'infrastruttura ed al metodo comune di sicurezza sulla valutazione dei rischi di cui all'articolo 6 della direttiva (UE) 2016/798.
+
 La domanda e le informazioni su tutte le domande ad essa relative, sulle fasi delle pertinenti procedure e sui loro risultati, nonche' sulle richieste e decisioni della Commissione di appello, sono presentate attraverso lo sportello unico di cui all'articolo 12 del regolamento (UE) 2016/796.
 
 Quando e' necessario acquisire prove della compatibilita' tecnica di cui alle lettere b) e d) del comma 2, l'ANSFISA rilascia un'autorizzazione temporanea al richiedente per l'impiego del veicolo per verifiche pratiche sulla rete. Il gestore dell'infrastruttura interessata, consultato il richiedente, si adopera affinche' le prove siano effettuate entro tre mesi dalla ricezione della domanda. Se del caso, l'ANSFISA adotta le misure necessarie affinche' le prove siano effettuate.
@@ -257,8 +982,65 @@ Per la parte di area di esercizio in territorio italiano, quando l'ERA non conco
 Se l'area d'uso e' limitata ad una o piu' reti all'interno del solo territorio italiano, l'ANSFISA puo' rilasciare, sotto la propria responsabilita' e su istanza del richiedente, l'autorizzazione di immissione sul mercato del veicolo. Per rilasciare tale autorizzazione l'ANSFISA valuta il fascicolo in relazione agli elementi specificati al comma 2 e secondo le procedure stabilite nell'atto di esecuzione adottato ai sensi dell'articolo 21, comma 9, della direttiva (UE) 2016/797. Entro un mese dal ricevimento della domanda del richiedente, l'ANSFISA informa il richiedente che il fascicolo e' completo oppure chiede le pertinenti informazioni supplementari. L'autorizzazione rilasciata dall'ANSFISA e' valida, anche senza estensione dell'area d'uso, per i veicoli che viaggiano verso le stazioni situate negli Stati membri confinanti con caratteristiche della rete similari, quando tali stazioni sono prossime alla frontiera, a seguito di consultazione delle competenti autorita' nazionali preposte alla sicurezza. Tale consultazione puo' essere svolta caso per caso ovvero stabilita in un accordo transfrontaliero tra l'ANSFISA e le autorita' nazionali preposte alla sicurezza interessate, tenuto conto di eventuali precedenti accordi tra gli Stati. Nel caso di non applicazione di una o piu' STI o di parte di esse di cui all'articolo 6, l'ANSFISA rilascia al richiedente il proprio parere in merito di cui al comma 6 del medesimo articolo e successivamente rilascia l'autorizzazione del veicolo soltanto dopo l'applicazione della procedura in esso stabilita. L'ANSFISA rilascia autorizzazioni di immissione sul mercato di veicoli oppure informa il richiedente della sua decisione negativa, entro un termine ragionevole prestabilito, e comunque entro quattro mesi dal ricevimento di tutte le informazioni pertinenti.
 Tali autorizzazioni permettono l'immissione dei veicoli sul mercato dell'Unione europea nella rispettiva area d'uso.
 
+10.
+                        
+                            
+                                L'autorizzazione di immissione sul mercato del veicolo indica: 
+ 
+                            
+                            
+                                a)
+                                
+                                    l'area d'uso; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    i valori dei parametri previsti dalle STI e, ove necessario, dalle norme nazionali per la verifica della compatibilita' tecnica fra il veicolo e l'area d'uso; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    la conformita' del veicolo alle pertinenti STI e alle norme nazionali in relazione ai parametri di cui alla lettera b); 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    le condizioni per l'utilizzo del veicolo e altre restrizioni.
+
 Qualunque decisione negativa riguardo al rilascio di una autorizzazione di immissione sul mercato del veicolo o all'esclusione di una parte della rete sulla base di una valutazione negativa di cui al comma 8 e' adeguatamente motivata. Entro un mese dalla ricezione della decisione, il richiedente puo' presentare all'ERA o all'ANSFISA, nei casi di cui al comma 9, una domanda di riesame.
 L'ERA o l'ANSFISA dispongono di un termine di due mesi dalla data di ricezione della domanda di riesame per confermare o revocare la propria decisione. Se la decisione negativa dell'ERA e' confermata, il richiedente puo' presentare ricorso dinanzi alla Commissione di ricorso designata a norma dell'articolo 55 del regolamento (UE) 2016/796. Se la decisione negativa dell'ANSFISA e' confermata, il richiedente puo' presentare ricorso dinanzi al Tribunale amministrativo competente.
+
+12.
+                        
+                            
+                                In caso di rinnovo o ristrutturazione di un veicolo esistente gia' provvisto di autorizzazione di immissione sul mercato del veicolo, e' necessario richiedere una nuova autorizzazione di immissione sul mercato del veicolo se: 
+ 
+                            
+                            
+                                a)
+                                
+                                    i valori dei parametri di cui al comma 10, lettera b), sono modificati al di fuori della gamma dei parametri accettabili definiti nelle STI; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il livello di sicurezza globale del veicolo interessato risente dei lavori previsti; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    e' richiesta dalle STI pertinenti.
 
 Ai fini del rilascio di un'autorizzazione relativa ad un'estensione dell'area d'uso di un veicolo che e' gia' stato autorizzato, il richiedente presenta il fascicolo all'ERA integrato con i pertinenti documenti di cui al comma 2 concernenti l'area d'uso aggiuntiva. L'ERA, dopo aver seguito le procedure di cui ai commi da 5 a 8, rilascia un'autorizzazione aggiornata che copre l'estensione dell'area d'uso.
 
@@ -274,6 +1056,31 @@ Quando l'area d'uso e' limitata al solo territorio italiano, nelle more della re
 Quando l'area d'uso copre il territorio di piu' di uno Stato membro, il veicolo e' registrato in uno degli Stati membri interessati.
 
 ## Art. 23. — Controlli preventivi all'utilizzo dei veicoli autorizzati
+
+1.
+                        
+                            
+                                Prima che un'impresa ferroviaria utilizzi un veicolo nell'area d'uso specificata nella sua autorizzazione di immissione sul mercato, essa verifica che: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il veicolo sia stato autorizzato all'immissione sul mercato a norma dell'articolo 21 e sia registrato; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il veicolo sia compatibile con la tratta, sulla base del registro dell'infrastruttura, delle pertinenti STI o, qualora tale registro non esista o sia incompleto, di ogni informazione pertinente che il gestore dell'infrastruttura deve fornire gratuitamente entro quindici giorni, salvo che il gestore dell'infrastruttura e l'impresa ferroviaria concordino un diverso termine, comunque non superiore a trenta giorni; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il veicolo sia adeguatamente integrato nella composizione del treno in cui e' previsto faccia esercizio, tenendo conto del sistema di gestione della sicurezza di cui al decreto legislativo Sicurezza ferroviaria e della STI concernente l'esercizio e la gestione del traffico.
 
 Ai fini di cui al comma 1, l'impresa ferroviaria puo' concordare con il gestore dell'infrastruttura lo svolgimento a proprio carico di prove in linea o in laboratorio. Il gestore dell'infrastruttura, in collaborazione con il richiedente, si adopera affinche' le eventuali prove siano effettuate entro tre mesi dalla ricezione della domanda.
 
@@ -360,6 +1167,38 @@ L'organismo di valutazione della conformita' deve soddisfare i requisiti previst
 
 L'organismo di valutazione della conformita' e' dotato di personalita' giuridica ed esegue tutti i compiti di valutazione della conformita' che la pertinente STI affida e per cui e' stato notificato, indipendentemente dal fatto che li esegua in prima persona o che siano eseguiti per suo conto e sotto la sua responsabilita'.
 
+3.
+                        
+                            
+                                Per ogni procedura di valutazione della conformita' e per ogni tipo o categoria di prodotto per cui e' stato notificato, l'organismo di valutazione della conformita' dispone: 
+ 
+                            
+                            
+                                a)
+                                
+                                    del personale necessario, dotato di conoscenze tecniche e di esperienza sufficiente ed adeguata all'esecuzione dei compiti di valutazione della conformita'; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    delle pertinenti e aggiornate procedure documentate in base alle quali e' effettuata la valutazione della conformita', a garanzia della trasparenza di tali procedure e della capacita' di applicarle; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    di politiche e procedure appropriate per scindere i compiti che svolge in qualita' di organismo notificato di valutazione della conformita' dalle altre attivita'; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    delle procedure documentate idonee all'esecuzione delle attivita', che tengono debitamente conto delle dimensioni dell'impresa, del settore in cui opera, della sua struttura, del grado di complessita' tecnologica del prodotto in questione e della natura seriale o di massa del processo produttivo.
+
 L'organismo di valutazione della conformita' dispone delle risorse e dei mezzi necessari per svolgere adeguatamente i compiti tecnici ed amministrativi connessi alle attivita' di valutazione della conformita' e ha accesso a tutte le apparecchiature o strutture necessarie.
 
 L'organismo di valutazione della conformita' sottoscrive un contratto di assicurazione per la responsabilita' civile al fine di coprire tutti i rischi derivanti dalla propria attivita'.
@@ -390,6 +1229,38 @@ L'organismo di valutazione della conformita' e il suo personale svolgono le atti
 
 Personale degli organismi di valutazione della conformita'
 
+1.
+                        
+                            
+                                Il personale responsabile dell'esecuzione delle attivita' di valutazione della conformita' possiede le seguenti competenze: 
+ 
+                            
+                            
+                                a)
+                                
+                                    una formazione tecnica e professionale comprovata che includa tutte le attivita' di valutazione della conformita' per cui l'organismo di valutazione della conformita' e' stato notificato; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    soddisfacenti conoscenze delle prescrizioni relative alle valutazioni che esegue ed un'adeguata autorevolezza per eseguire tali valutazioni; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    una conoscenza e una comprensione adeguate dei requisiti essenziali, delle norme armonizzate applicabili e delle disposizioni pertinenti del diritto dell'Unione europea; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    la capacita' di elaborare certificati, registrazioni e rapporti atti a dimostrare che le valutazioni di conformita' sono state eseguite.
+
 La retribuzione dei dirigenti e del personale addetto alle valutazioni di un organismo di valutazione della conformita' non dipende dal numero di valutazioni eseguite ne' dai risultati di tali valutazioni.
 
 ## Art. 33.
@@ -411,6 +1282,38 @@ L'organismo notificato tiene a disposizione dell'Ente unico nazionale di accredi
 ## Art. 35. — Organismi interni accreditati
 
 I richiedenti possono far eseguire attivita' di valutazione della conformita' da un organismo interno accreditato, ai fini dell'espletamento delle procedure previste dai moduli A1, A2, C1 o C2 di cui all'allegato II della decisione 768/2008/CE e dai moduli CA1 e CA2 di cui all'allegato I della decisione 2010/713/UE. Tale organismo deve costituire una articolazione separata e distinta all'interno della struttura e dell'organizzazione del richiedente interessato e non partecipa alla progettazione, produzione, fornitura, installazione, utilizzo o manutenzione dei prodotti che valuta.
+
+2.
+                        
+                            
+                                Un organismo interno accreditato soddisfa i seguenti requisiti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    e' accreditato a norma del regolamento (CE) n. 765/2008; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    esso e il suo personale, nell'ambito dell'impresa di cui fanno parte, sono identificabili a livello dell'organizzazione e hanno metodi o procedure di elaborazione delle relazioni che garantiscano la loro imparzialita'; tale aspetto e' dimostrato all'Ente unico nazionale di accreditamento italiano; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    ne' esso ne' il suo personale sono responsabili della progettazione, fabbricazione, fornitura, installazione, funzionamento o manutenzione dei prodotti che valutano e non partecipano ad attivita' che possano pregiudicare la loro indipendenza di giudizio o integrita' nelle attivita' di valutazione che svolgono; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    fornisce i propri servizi esclusivamente all'impresa di cui fa parte.
 
 Un organismo interno accreditato non viene notificato agli Stati membri o alla Commissione, ma l'impresa di cui fa parte e l'Ente Unico nazionale di accreditamento italiano informano l'Autorita' di notifica del suo accreditamento.
 
@@ -450,6 +1353,38 @@ Se le misure correttive non sono prese o se queste non producono l'effetto desid
 
 ## Art. 40. — Obbligo degli organismi notificati di fornire informazioni
 
+1.
+                        
+                            
+                                Gli organismi notificati informano l'Autorita' di notifica e l'Ente unico nazionale di accreditamento italiano: 
+ 
+                            
+                            
+                                a)
+                                
+                                    di qualunque rifiuto, limitazione, sospensione o revoca di un certificato; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    di qualunque circostanza che incida sull'ambito della notifica e sulle condizioni per la notifica stessa; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    di eventuali richieste di informazioni che ha ricevuto dal Ministero dello sviluppo economico in qualita' di autorita' di vigilanza del mercato in relazione ad attivita' di valutazione della conformita'; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    su richiesta, in relazione ad attivita' di valutazione della conformita' eseguite nell'ambito della notifica e di qualsiasi altra attivita' svolta, incluse quelle transfrontaliere e di subappalto.
+
 L'ANSFISA e le eventuali competenti autorita' nazionali interessate degli Sati membri preposte alla sicurezza sono informate di qualunque rifiuto, limitazione, sospensione o revoca del certificato di cui al comma 1, lettera a).
 
 Gli organismi notificati forniscono le pertinenti informazioni sulle questioni relative ai risultati negativi e, su richiesta, ai risultati positivi della valutazione della conformita' agli altri organismi notificati ai sensi della direttiva (UE) 2016/797, che svolgono analoghe attivita' di valutazione della conformita' sugli stessi prodotti.
@@ -485,6 +1420,52 @@ Il richiedente la prima autorizzazione e' responsabile di apporre sul veicolo il
 ## Art. 44. — Registri dei veicoli
 
 Fino al momento della piena operativita' del registro europeo dei veicoli (European Vehicle Register - EVR) di cui all'articolo 47, paragrafo 5, della direttiva (UE) 2016/797, l'ANSFISA alimenta il registro nazionale dei veicoli. Tale registro e' conforme alle specifiche comuni definite dagli atti di esecuzione di cui all'articolo 47, paragrafo 2, della direttiva (UE) 2016/797 ed e' adeguatamente aggiornato. Il registro e' accessibile alle autorita' nazionali preposte alla sicurezza e agli organismi investigativi designati a norma degli articoli 16 e 22 della direttiva (UE) 2016/798, nonche', per qualsiasi richiesta legittima, agli organismi di regolamentazione di cui all'articolo 55 della direttiva 2012/34/UE, all'ERA, alle imprese ferroviarie, ai gestori delle infrastrutture e alle persone od organizzazioni che registrano veicoli o che figurano nel registro.
+
+2.
+                        
+                            
+                                Il registro nazionale dei veicoli contiene almeno i seguenti elementi: 
+ 
+                            
+                            
+                                a)
+                                
+                                    l'EVN; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    gli estremi della dichiarazione «CE» di verifica e dell'organismo che l'ha rilasciata; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    gli estremi del registro europeo dei tipi di veicoli autorizzati di cui all'articolo 48 della direttiva (UE) 2016/797; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    le generalita' del proprietario del veicolo e del suo detentore; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    le restrizioni di esercizio del veicolo; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    gli estremi del soggetto responsabile della manutenzione (ECM).
 
 Fino a quando i registri nazionali dei veicoli degli Stati membri non sono collegati in conformita' della specifica di cui all'articolo 47, paragrafo 2, della direttiva (UE) 2016/797, l'ANSFISA aggiorna il registro nazionale, limitatamente ai dati che la riguardano, inserendovi le modifiche apportate da un altro Stato membro al proprio registro.
 
@@ -541,6 +1522,52 @@ Prima di autorizzare la messa in servizio di apparecchiature ERTMS a terra non s
 Gli allegati al presente decreto sono aggiornati e modificati con decreto del Ministro delle infrastrutture e dei trasporti.
 
 ## Art. 49. — Abrogazioni
+
+1.
+                        
+                            
+                                A decorrere dalla data di entrata in vigore del presente decreto sono abrogati: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il decreto legislativo 8 ottobre 2010, n. 191, di attuazione della direttiva 2008/57/CE e 2009/131/CE relativa all'interoperabilita' del sistema ferroviario comunitario; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il decreto del Ministro delle infrastrutture e dei trasporti 22 luglio 2011, di recepimento della direttiva 2011/18/UE, pubblicato nella Gazzetta Ufficiale n. 211 del 10 settembre 2011; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il decreto del Ministro delle infrastrutture e dei trasporti 5 settembre 2013, di recepimento della direttiva 2013/09/UE, pubblicato nella Gazzetta Ufficiale n. 241 del 14 ottobre 2013; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    il decreto del Ministro delle infrastrutture e dei trasporti 29 dicembre 2014, di recepimento della direttiva 2014/38/UE, pubblicato nella Gazzetta Ufficiale n. 11 del 15 gennaio 2015; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    il decreto del Ministro delle infrastrutture e dei trasporti 26 giugno 2015, di recepimento della direttiva 2014/106/UE pubblicato nella Gazzetta Ufficiale n. 178 del 3 agosto 2015; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    il decreto del Ministro delle infrastrutture e dei trasporti 21 dicembre 2012, di determinazione delle tariffe relative all'interoperabilita' del sistema ferroviario transeuropeo convenzionale e ad alta velocita', pubblicato nella Gazzetta Ufficiale n. 56 del 7 marzo 2013.
 
 Continuano ad applicarsi le norme tecniche adottate in attuazione dei decreti di cui al comma 1 e restano efficaci, fino alla loro scadenza, tutti i negozi giuridici attivi e passivi posti in essere sia dall'ANSF sia dall'ANSFISA prima della data di entrata in vigore del presente decreto.
 

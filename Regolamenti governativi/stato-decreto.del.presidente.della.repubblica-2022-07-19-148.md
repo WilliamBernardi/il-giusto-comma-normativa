@@ -7,8 +7,8 @@ urn: urn:nir:stato:decreto.del.presidente.della.repubblica:2022-07-19;148
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti governativi
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:09Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -25,6 +25,60 @@ Udito il parere del Consiglio di Stato, espresso dalla sezione consultiva per gl
 Sulla proposta del Ministro delle infrastrutture e della mobilita' sostenibili, di concerto con i Ministri degli affari esteri e della cooperazione internazionale, della salute, dello sviluppo economico, dell'economia e delle finanze, della difesa e dell'interno;
 
 ## Art. 1. — Modifiche all'articolo 1 del regolamento approvato con decreto del Presidente della Repubblica 8 novembre 1991, n. 435
+
+1.
+                    
+                        
+                            All'articolo 1, comma 1, del regolamento approvato con decreto del Presidente della Repubblica 8 novembre 1991, n. 435, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                
+                                    dopo il punto 1, e' inserito il seguente: «1-bis) Acque protette della laguna di Venezia: le acque portuali di Venezia e di Chioggia ricadenti all'interno della conterminazione della laguna di Venezia di cui alla legge 5 marzo 1963, n. 366;»;
+                                
+                            
+                        
+                        
+                            b)
+                            
+                                
+                                    il punto 6 e' sostituito dal seguente: «Autorita' marittima: organo periferico del Ministero delle infrastrutture e della mobilita' sostenibili, all'estero, l'autorita' consolare e, ai fini dell'applicazione delle disposizioni speciali sul trasporto pubblico locale lagunare, le Capitanerie di porto di Venezia e di Chioggia, secondo le rispettive circoscrizioni;»;
+                                
+                            
+                        
+                        
+                            c)
+                            
+                                
+                                    dopo il punto 6, e' inserito il seguente: «6-bis) Colreg 1972: la convenzione sul regolamento internazionale del 1972 per prevenire gli abbordi in mare, con annessi, firmata a Londra il 20 ottobre 1972, ratificata e resa esecutiva con legge 27 dicembre 1977, n. 1085;»
+                                
+                            
+                        
+                        
+                            d)
+                            
+                                
+                                    al punto 20, le parole «della Marina Mercantile» sono sostituite dalle seguenti: «delle infrastrutture e della mobilita' sostenibili - Comando generale del Corpo delle Capitanerie di porto»;
+                                
+                            
+                        
+                        
+                            e)
+                            
+                                
+                                    dopo il punto 31, sono inseriti i seguenti: «31-bis) Nave lagunare: nave che naviga esclusivamente all'interno delle acque protette della laguna di Venezia e che effettua trasporto pubblico locale lagunare o trasporto pubblico non di linea, la cui propulsione dipende da motore endotermico o elettrico o combinazione degli stessi, in grado di imprimere una velocita' non inferiore a sette nodi all'andatura corrispondente al regime di servizio continuativo, al dislocamento di pieno carico in condizione di mare calmo; 
+ 31-ter) Nave lagunare esistente: una nave lagunare diversa dalla nave lagunare nuova; 
+ 31-quater) Nave lagunare nuova: una nave lagunare la cui chiglia sia stata impostata o si trovi a un equivalente stadio di costruzione alla data del 1° gennaio 2023 o successivamente;»;
+                                
+                            
+                        
+                        
+                            f)
+                            
+                                
+                                    dopo il punto 41, e' inserito il seguente: «41-bis) Navigazione nelle acque protette della laguna di Venezia: la navigazione effettuata con le navi lagunari nelle acque di cui al punto 1-bis;».
 
 ## Art. 2. — Modifiche all'articolo 9 del regolamento approvato con decreto del Presidente della Repubblica 8 novembre 1991, n. 435
 
@@ -54,6 +108,27 @@ All'articolo 52 del regolamento approvato con decreto del Presidente della Repub
  b) ferme restando le disposizioni di cui all'articolo 168-septies, i certificati di sicurezza e i documenti relativi alla stazione radio delle navi di stazza lorda inferiore alle venticinque tonnellate sono conservati a bordo o presso la sede della societa' armatrice; in tale ultimo caso devono essere prodotti, a richiesta, agli organi di controllo entro il termine dagli stessi indicato.».
 
 ## Art. 7. — Modifiche all'articolo 57 del regolamento approvato con decreto del Presidente della Repubblica 8 novembre 1991, n. 435
+
+1.
+                    
+                        
+                            All'articolo 57 del regolamento approvato con decreto del Presidente della Repubblica 8 novembre 1991, n. 435, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                
+                                    al comma 3, lettera c), dopo le parole «abilitate a navigazione locale» sono inserite le seguenti: «e le navi lagunari»;
+                                
+                            
+                        
+                        
+                            b)
+                            
+                                
+                                    dopo il comma 5, e' inserito il seguente: 
+ «5-bis. Le navi lagunari iscritte nelle matricole o nei registri nazionali posteriormente all'8 agosto 1973 e anteriormente alla data di entrata in vigore del presente regolamento devono mantenere il grado di compartimentazione richiesto alla data di impostazione chiglia.».
 
 ## Art. 8. — Modifiche all'articolo 59 del regolamento approvato con decreto del Presidente della Repubblica 8 novembre 1991, n. 435
 
@@ -104,13 +179,132 @@ All'articolo 71 del regolamento approvato con decreto del Presidente della Repub
 
 ## Art. 15. — Modifiche all'articolo 73 del regolamento approvato con decreto del Presidente della Repubblica 8 novembre 1991, n. 435
 
+1.
+                    
+                        
+                            All'articolo 73 del regolamento approvato con decreto del Presidente della Repubblica 8 novembre 1991, n. 435, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                
+                                    al comma 1, dopo le parole «Tutte le navi» sono inserite le seguenti: «, ad eccezione delle navi lagunari di stazza lorda inferiore a 200 tonnellate,»;
+                                
+                            
+                        
+                        
+                            b)
+                            
+                                
+                                    al comma 2, sono inserite, in fine, le seguenti parole: «Per le navi lagunari, devono essere sistemati mezzi di comunicazione tra la plancia e le posizioni dalle quali e' stabilito, dai regolamenti dell'ente tecnico, il comando della macchina di governo principale e ausiliaria. I mezzi di comunicazione, che devono essere conformi ai regolamenti dell'ente tecnico, possono non essere installati quando, a soddisfazione dell'Autorita' marittima, e' possibile comunicare agevolmente a voce tra le posizioni di comando delle macchine e la plancia.»;
+                                
+                            
+                        
+                        
+                            c)
+                            
+                                
+                                    al comma 3, sono inserite, in fine, le seguenti parole: «Per le navi lagunari, detto sistema di comunicazione dal ponte di comando ai locali interni della nave e' previsto solo per le navi a piu' ponti.»;
+                                
+                            
+                        
+                        
+                            d)
+                            
+                                
+                                    dopo il comma 4, e' inserito il seguente: 
+ «4-bis. Le navi lagunari di stazza lorda superiore o uguale a 200 tonnellate, senza personale di guardia in macchina se non in caso di avaria dei telecomandi dei motori dalla plancia, possono essere munite, in luogo di quanto previsto dal comma 1, di un portavoce ovvero di un telefono a cuffia, indipendente da altri impianti telefonici di bordo o di un dispositivo sonoro di trasmissione di ordini di potenza adeguata alla rumorosita' del locale macchine, provvisto di mezzo di conferma dell'ordine ricevuto, alimentato da fonte di energia autonoma e indipendente da altri mezzi di comunicazione di bordo.»;
+                                
+                            
+                        
+                        
+                            e)
+                            
+                                
+                                    dopo il comma 5, e' inserito il seguente: 
+ «5-bis. Per le navi lagunari di stazza inferiore a 200 tonnellate ma superiore o uguale a 25 tonnellate, dove timoniere e motorista sono a vista reciproca non e' richiesto alcun dispositivo di trasmissione di ordini di cui al comma 5. Il dispositivo di trasmissione ordini non e' altresi' richiesto per le navi lagunari bielica di stazza inferiore a 200 tonnellate ma superiore o uguale a 25 tonnellate.».
+
 ## Art. 16. — Modifiche all'articolo 82 del regolamento approvato con decreto del Presidente della Repubblica 8 novembre 1991, n. 435
 
 All'articolo 82, comma 2, del regolamento approvato con decreto del Presidente della Repubblica 8 novembre 1991, n. 435, dopo le parole: «Tutte le navi», sono inserite le seguenti: «, con esclusione delle navi lagunari,».
 
 ## Art. 17. — Modifiche all'articolo 86 del regolamento approvato con decreto del Presidente della Repubblica 8 novembre 1991, n. 435
 
+1.
+                    
+                        
+                            All'articolo 86 del regolamento approvato con decreto del Presidente della Repubblica 8 novembre 1991, n. 435, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                
+                                    al comma 1, lettera b), le parole «o locale» sono sostituite dalle seguenti: «, locale o nelle acque protette della laguna di Venezia,»;
+                                
+                            
+                        
+                        
+                            b)
+                            
+                                
+                                    al comma 2, lettera c), le parole «e le navi in navigazione nazionale locale» sono sostituite dalle seguenti: «, le navi in navigazione nazionale locale e in navigazione nelle acque protette della laguna di Venezia»;
+                                
+                            
+                        
+                        
+                            c)
+                            
+                                
+                                    dopo il comma 3, e' inserito il seguente: 
+ «3-bis. Fermo restando quanto disposto dai commi 1, lettera b) e 2, lettera c), alle navi lagunari si applicano le seguenti diposizioni: 
+ a) per le navi esistenti rimangono in vigore i provvedimenti di deroga concessi entro il 31 dicembre 2022; 
+ b) per le navi di stazza lorda inferiore o uguale a 200 tonnellate puo' essere omessa la sistemazione di un impianto idrico antincendio qualora siano presenti: 
+ 1) impianto elettrico a tensione di sicurezza come definita dai regolamenti dell'ente tecnico; 
+ 2) sedili e materiali di rivestimento certificati non combustibili o aventi caratteristiche non inferiori a «limitata attitudine a propagare la fiamma»; 
+ 3) impianto fisso di estinzione incendi per il locale apparato motore; 
+ 4) estintori portatili equamente distribuiti a bordo in quantita' non inferiore al 150 per cento del minimo previsto dai regolamenti dell'ente tecnico; 
+ 5) avvisatori manuali incendio per le navi il cui ponte di comando non sia a livello del ponte principale.».
+
 ## Art. 18. — Modifiche all'articolo 89 del regolamento approvato con decreto del Presidente della Repubblica 8 novembre 1991, n. 435
+
+1.
+                    
+                        
+                            All'articolo 89 del regolamento approvato con decreto del Presidente della Repubblica 8 novembre 1991, n. 435, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                
+                                    al comma 2, dopo le parole «dall'8 agosto 1973» sono inserite le seguenti: «e sulle navi lagunari nuove»;
+                                
+                            
+                        
+                        
+                            b)
+                            
+                                
+                                    al comma 2, lettera b), punto iv), dopo le parole «non deve essere inferiore a 25 centimetri» sono inserite le seguenti: «, mentre sulle navi lagunari nuove gli scalini delle scale devono avere un'alzata non superiore a 20 centimetri e una pedata adeguata all'alzata e tali da ottenere un'inclinazione non superiore a 45°»;
+                                
+                            
+                        
+                        
+                            c)
+                            
+                                
+                                    al comma 2, lettera c), dopo le parole «di lunghezza inferiore a 30 metri,» sono inserite le seguenti: «e per le navi lagunari nuove indipendentemente dalla loro lunghezza,»;
+                                
+                            
+                        
+                        
+                            d)
+                            
+                                
+                                    dopo il comma 3, e' inserito il seguente: 
+ «3-bis. Le navi lagunari esistenti restano soggette alla osservanza della sola normativa riguardante scale, corridoi e porte di sfuggita in vigore alla data della loro costruzione.».
 
 ## Art. 19. — Modifiche all'articolo 90 del regolamento approvato con decreto del Presidente della Repubblica 8 novembre 1991, n. 435
 
@@ -136,6 +330,42 @@ All'articolo 97 del regolamento approvato con decreto del Presidente della Repub
  c) i dispositivi di ammaino dei mezzi collettivi di salvataggio e del battello d'emergenza sono soggetti alle ispezioni e alle prove previste dalla convenzione.».
 
 ## Art. 22. — Modifiche all'articolo 105 del regolamento approvato con decreto del Presidente della Repubblica 8 novembre 1991, n. 435
+
+1.
+                    
+                        
+                            All'articolo 105 del regolamento approvato con decreto del Presidente della Repubblica 8 novembre 1991, n. 435, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                
+                                    alla rubrica, le parole «e locale» sono sostituite dalle seguenti: «, locale e nelle acque protette della laguna di Venezia»;
+                                
+                            
+                        
+                        
+                            b)
+                            
+                                
+                                    dopo il comma 5, e' inserito il seguente: 
+ «5-bis. Le disposizioni dei commi da 1 a 5 non si applicano alle navi lagunari, per le quali valgono le seguenti: 
+ a) le navi sono provviste di mezzi collettivi di salvataggio in numero tale da poter accogliere tutte le persone per le quali le stesse sono certificate; 
+ b) se sussistono i presupposti di cui all'articolo 106-bis, le navi possono essere dotate di mezzi collettivi di salvataggio in misura ridotta: 
+ 1) pari al 50 per cento del numero massimo delle persone trasportabili, per le navi che trasportano un numero di passeggeri uguale o superiore a 250; 
+ 2) pari al 25 per cento del numero massimo di persone trasportabili, per le navi che trasportano un numero di passeggeri inferiore a 250; 
+ c) indipendentemente da quanto disposto alle lettere a) e b), le navi di stazza lorda inferiore a 25 tonnellate possono essere dotate di mezzi collettivi di salvataggio in misura non inferiore al 25 per cento del numero massimo di persone trasportabili; 
+ d) le navi di stazza lorda inferiore a 5 tonnellate non hanno l'obbligo di essere dotate di mezzi collettivi di salvataggio se trasportano un numero di persone inferiore a venti; 
+ e) la dotazione di mezzi collettivi di salvataggio e' costituita da imbarcazioni di salvataggio ovvero da zattere autogonfiabili, eventualmente asservite ai dispositivi di evacuazione marini (MES), ovvero da apparecchi galleggianti ovvero da salvagenti anulari conteggiati nella misura di uno ogni due persone; 
+ f) fermo restando quanto disposto dalle lettere a), b), c), d) ed e), sono presenti a bordo salvagenti anulari secondo le seguenti modalita': 
+ 1) navi di lunghezza superiore a 24 metri, escluse le navi traghetto: quattro salvagenti anulari di cui almeno due dotati di boetta luminosa e sagola galleggiante. Almeno uno dei salvagenti anulari e' dotato di boetta fumogena, da attivarsi prima del lancio e collegata con sagola galleggiante di lunghezza adeguata; 
+ 2) navi di lunghezza uguale o inferiore a 24 metri ma superiore a 10 metri: due salvagenti anulari, entrambi dotati di boetta luminosa e sagola galleggiante. Almeno uno dei salvagenti anulari e' dotato di boetta fumogena da attivarsi prima del lancio.
+E' consentito il posizionamento della boetta fumogena nella cabina di pilotaggio; 
+ 3) navi di lunghezza inferiore a 10 metri: un salvagente anulare dotato di boetta luminosa, sagola galleggiante e boetta fumogena da attivarsi prima del lancio. E' consentito il posizionamento della boetta fumogena nella cabina di pilotaggio; 
+ 4) navi traghetto: quattro salvagenti anulari, di cui due ubicati sulle alette del ponte di comando e dotati di segnale di tipo combinato. Tale dotazione e' obbligatoria per le navi lagunari di nuova costruzione e sostituisce l'attuale dotazione, per le navi esistenti, alla prima visita di sicurezza dopo il 31 dicembre 2022; 
+ g) i salvagenti anulari di cui al comma 5, utilizzati in sostituzione degli apparecchi galleggianti, non sono computabili tra quelli prescritti dalla lettera f); 
+ h) le navi sono dotate di mezzi per la risalita fissi o manovrabili da bordo se l'altezza dell'opera morta, al minimo galleggiamento, e' maggiore di 50 centimetri.».
 
 ## Art. 23. — Modifiche all'articolo 106 del regolamento approvato con decreto del Presidente della Repubblica 8 novembre 1991, n. 435
 
@@ -207,6 +437,26 @@ All'articolo 110 del regolamento approvato con decreto del Presidente della Repu
 All'articolo 112, comma 1, del regolamento approvato con decreto del Presidente della Repubblica 8 novembre 1991, n. 435, dopo le parole «navigazione nazionale locale» sono inserite le seguenti: «o nelle acque protette della laguna di Venezia».
 
 ## Art. 29. — Modifiche all'articolo 119 del regolamento approvato con decreto del Presidente della Repubblica 8 novembre 1991, n. 435
+
+1.
+                    
+                        
+                            All'articolo 119 del regolamento approvato con decreto del Presidente della Repubblica 8 novembre 1991, n. 435, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                
+                                    al comma 2, lettera c), dopo le parole «navigazione locale» sono inserite le seguenti: «o a navigazione nelle acque protette della laguna di Venezia»;
+                                
+                            
+                        
+                        
+                            b)
+                            
+                                
+                                    al comma 3, lettera b), dopo le parole «navigazione locale» sono inserite le seguenti: «o a navigazione nelle acque protette della laguna di Venezia».
 
 ## Art. 30. — Modifiche all'articolo 131 del regolamento approvato con decreto del Presidente della Repubblica 8 novembre 1991, n. 435
 
@@ -292,6 +542,31 @@ All'articolo 142 del regolamento approvato con decreto del Presidente della Repu
  d) un sistema di identificazione automatica (AIS), se di stazza lorda superiore a 150 tonnellate. Le caratteristiche tecniche, per le nuove installazioni, e di utilizzo dell'apparecchiatura sono determinate dal Ministero. Non e' necessario che l'apparecchiatura sia interfacciata al dispositivo di indicazione della prora.».
 
 ## Art. 40. — Modifiche all'articolo 145 del regolamento approvato con decreto del Presidente della Repubblica 8 novembre 1991, n. 435
+
+1.
+                    
+                        
+                            All'articolo 145 del regolamento approvato con decreto del Presidente della Repubblica 8 novembre 1991, n. 435, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                
+                                    alla rubrica, le parole «e locale» sono sostituite dalle seguenti: «, locale e nelle acque protette della laguna di Venezia»;
+                                
+                            
+                        
+                        
+                            b)
+                            
+                                
+                                    dopo il comma 2, sono inseriti i seguenti: 
+ «2-bis. Le disposizioni dei commi 1 e 2 non si applicano alle navi lagunari, per le quali vale la seguente: 
+ a) le navi lagunari a propulsione meccanica, oltre agli strumenti e alle dotazioni di cui agli articoli 71, comma 1-bis e 142, comma 4-bis, hanno i seguenti materiali di servizio: 
+ 1) alberatura, secondo i piani della nave; 
+ 2) un altoparlante autonomo portatile, se di stazza lorda superiore o uguale a 25 tonnellate. 
+ 2-ter. Le navi lagunari di stazza lorda inferiore a 5 tonnellate sono esentate dall'applicazione delle disposizioni di cui al presente articolo.».
 
 ## Art. 41.
 

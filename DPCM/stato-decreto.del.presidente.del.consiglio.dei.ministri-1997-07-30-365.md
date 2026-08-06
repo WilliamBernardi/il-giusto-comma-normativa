@@ -8,8 +8,8 @@ codice_redazionale: 097G0402
 vigente: true
 source: normattiva-opendata
 collection: DPCM
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:40:12Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DEL CONSIGLIO DEI MINISTRI
@@ -46,6 +46,64 @@ La commissione, salvo che ricorrano gravi motivi dei quali deve essere fatta men
 ## Art. 4.
 
 Il giudizio di idoneita' viene formulato a seguito della valutazione dei titoli di carriera, dei titoli di studio, dell'anzianita' di servizio, del curriculum formativo, e del superamento di un colloquio che, oltre ai contenuti di conoscenza dell'organizzazione del Servizio sanitario nazionale, abbia anche chiari contenuti professionali finalizzati ad accertare il livello di professionalita' dell'interessato.
+
+2.
+                    
+                        
+                            Tale giudizio e' conseguito dagli interessati che superino il colloquio con un punteggio non inferiore a ventuno trentesimi e conseguano un punteggio non inferiore a punti 8,9 in base ai seguenti titoli:
+ 
+                        
+                        
+                            a)
+                            
+                                orario di incarico per un numero di ore settimanali pari o superiore a 29, fino a un massimo di 38: punti 0,10 per ora;
+
+                            
+                        
+                        
+                            b)
+                            
+                                anzianita' di incarico per i primi cinque anni di attivita': punti 0,10 per mese;
+
+                            
+                        
+                        
+                            c)
+                            
+                                anzianita' di incarico: per ciascun anno, o frazione superiore a sei mesi, oltre il quinto anno:
+ 1) nella stessa disciplina punti 0,50;
+ 2) in altra disciplina punti 0,25;
+
+                            
+                        
+                        
+                            d)
+                            
+                                altre specializzazioni o libere docenze oltre a quella richiesta per l'attribuzione dell'incarico:
+ 1) in disciplina affine: punti 1,00 per ciascuna specializzazione o libera docenza;
+ 2) in disciplina appartenente alla stessa area funzionale: punti 0,50 per ciascuna specializzazione o libera docenza;
+ 3) in disciplina appartenente ad altra area funzionale: punti 0,25 per ciascuna specializzazione o libera docenza;
+
+                            
+                        
+                        
+                            e)
+                            
+                                altre lauree, oltre a quella richiesta per l'ammissione al giudizio di idoneita', comprese tra quelle previste per l'appartenenza al ruolo sanitario: punti 0,10 per ognuna fino ad un massimo di 0,30;
+
+                            
+                        
+                        
+                            f)
+                            
+                                pubblicazioni e titoli scientifici: punti fino ad un massimo di 0,30;
+
+                            
+                        
+                        
+                            g)
+                            
+                                curriculum formativo: punti fino ad un massimo di 0,50.
 
 Per la valutazione dei titoli di cui alle lettere f) e g) si applicano i criteri di cui all'articolo 10 del decreto del Ministro della sanita' 30 gennaio 1982, pubblicato nel supplemento ordinario alla Gazzetta Ufficiale n. 51 del 22 febbraio 1982.
 

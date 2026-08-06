@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
 vigenza_date: 2026-03-01
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:42Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -37,12 +37,71 @@ Nel rispetto delle norme tecniche di cui al presente regolamento le regioni adot
 
 ## Art. 2. — Definizioni
 
+1.
+                    
+                        
+                            Ai fini del presente regolamento si intende per: 
+ 
+                        
+                        
+                            a)
+                            
+                                recupero: riqualificazione di un'acqua reflua, mediante adeguato trattamento depurativo, al fine di renderla adatta alla distribuzione per specifici riutilizzi; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                impianto di recupero: le strutture destinate al trattamento depurativo di cui alla lettera a), incluse le eventuali strutture di equalizzazione e di stoccaggio delle acque reflue recuperate presenti all'interno dell'impianto, prima dell'immissione nella rete di distribuzione delle acque reflue recuperate; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                rete di distribuzione: le strutture destinate all'erogazione delle acque reflue recuperate, incluse le eventuali strutture per la loro equalizzazione, l'ulteriore trattamento e lo stoccaggio, diverse da quelle di cui alla lettera b); 
+
+                            
+                        
+                        
+                            d)
+                            
+                                riutilizzo: impiego di acqua reflua recuperata di determinata qualita' per specifica destinazione d'uso, per mezzo di una rete di distribuzione, in parziale o totale sostituzione di acqua superficiale o sotterranea. 
+ ((1))
+
 -------------
                         AGGIORNAMENTO (1)
                         
  Il D.L. 31 dicembre 2025, n. 200, convertito con modificazioni dalla L. 27 febbraio 2026, n. 26, ha disposto (con l'art. 13, comma 1-ter) che "A decorrere dalla data di entrata in vigore del regolamento adottato ai sensi dell'articolo 99, comma 1, del decreto legislativo 3 aprile 2006, n. 152, e' abrogato il regolamento di cui al decreto del Ministro dell'ambiente e della tutela del territorio 12 giugno 2003, n. 185".
 
 ## Art. 3. — Destinazioni d'uso ammissibili
+
+1.
+                    
+                        
+                            Le destinazioni d'uso ammissibili delle acque reflue recuperate sono le seguenti: 
+ 
+                        
+                        
+                            a)
+                            
+                                irriguo: per l'irrigazione di colture destinate sia alla produzione di alimenti per il consumo umano ed animale sia a fini non alimentari, nonche' per l'irrigazione di aree destinate al verde o ad attivita' ricreative o sportive; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                civile: per il lavaggio delle strade nei centri urbani; per l'alimentazione dei sistemi di riscaldamento o raffreddamento; per l'alimentazione di reti duali di adduzione, separate da quelle delle acque potabili, con esclusione dell'utilizzazione diretta di tale acqua negli edifici a uso civile, ad eccezione degli impianti di scarico nei servizi igienici; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                industriale: come acqua antincendio, di processo, di lavaggio e per i cicli termici dei processi industriali, con l'esclusione degli usi che comportano un contatto tra le acque reflue recuperate e gli alimenti o i prodotti farmaceutici e cosmetici. 
+ ((1))
 
 -------------
                         AGGIORNAMENTO (1)
@@ -175,6 +234,24 @@ Le regioni trasmettono al Ministero dell'ambiente e della tutela del territorio 
 ## Art. 14. — Norme transitorie
 
 Per un periodo di tre anni a decorrere dalla data di entrata in vigore del presente regolamento, le autorizzazioni di cui all'articolo 6 possono prevedere, in caso di riutilizzo irriguo, per il solo parametro Escherichia coli, una deroga ai limiti previsti dalla tabella allegata al presente regolamento, fino a 100 UFC/100 ml, da riferirsi all'80% dei campioni, con un valore massimo di 1000 UFC/100 ml. Il presente comma si applica esclusivamente a condizione che nelle aree di origine delle acque reflue e in quelle ove avviene il riutilizzo irriguo non sia riscontrato un incremento, nel tempo, dei casi di patologie riconducibili a contaminazione fecale.
+
+2.
+                    
+                        
+                            I titolari delle reti di distribuzione devono, in tal caso, rispettare le seguenti condizioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                il metodo irriguo non deve comportare il contatto diretto dei prodotti edibili crudi con le acque reflue recuperate; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                il riutilizzo irriguo non deve riguardare aree verdi aperte al pubblico.
 
 L'autorita' competente e' tenuta a dare comunicazione delle autorizzazioni che prevedano la deroga di cui al comma 1 all'autorita' sanitaria. 
  ((1))

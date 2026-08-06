@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
 vigenza_date: 2015-08-13
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:21Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -27,6 +27,24 @@ Sulla proposta dei Ministri per gli affari europei, dell'interno, della difesa e
 ## Art. 1. — Modifiche al decreto legislativo 4 aprile 2010, n. 58
 
 
+
+2.
+                    
+                        
+                            All'articolo 53 del testo unico delle leggi di pubblica sicurezza, approvato con regio decreto 18 giugno 1931, n. 773, come da ultimo modificato dall'articolo 17 del decreto legislativo 4 aprile 2010, n. 58, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 2 le parole: «, ai fini della sicurezza fisica dei depositi e dei locali di vendita» sono soppresse; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                il comma 3 e' sostituito dal seguente: «3. L'iscrizione nell'allegato A al regolamento per l'esecuzione del presente testo unico dei prodotti nelle singole categorie e' disposta con provvedimento del capo della polizia - direttore generale della pubblica sicurezza. Gli articoli pirotecnici marcati CE non necessitano dell'iscrizione di cui al presente comma.».
 
 ## Art. 2. — ((ARTICOLO ABROGATO DAL D.LGS. 29 LUGLIO 2015, N. 123))
 

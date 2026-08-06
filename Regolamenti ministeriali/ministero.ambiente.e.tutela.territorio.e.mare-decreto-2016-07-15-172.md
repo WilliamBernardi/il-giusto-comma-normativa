@@ -7,8 +7,8 @@ urn: urn:nir:ministero.ambiente.e.tutela.territorio.e.mare:decreto:2016-07-15;17
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:41Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -44,7 +44,113 @@ Il presente decreto non si applica alle operazioni inerenti i materiali provenie
 
 ## Art. 2. — Definizioni
 
+1.
+                    
+                        
+                            Ai fini del presente decreto si intende per: 
+ 
+                        
+                        
+                            a)
+                            
+                                sito di interesse nazionale: sito oggetto di interventi di bonifica ai sensi dell'articolo 252 del decreto legislativo 3 aprile 2006, n. 152, e successive modificazioni; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                area portuale: struttura naturale o artificiale, posta sul litorale in grado di fornire protezione da avverse condizioni meteo e di consentire l'approdo e l'ormeggio a imbarcazioni, il carico/scarico merci e l'imbarco/sbarco di persone; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                area marino costiera: area compresa tra la linea di costa, ovvero la zona di interfaccia o di transizione tra terra e mare, che puo' presentare forme e dinamiche diverse, non prestandosi per definizione a rigidi confini spaziali, e il limite della perimetrazione del sito di interesse nazionale; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                corpo idrico di provenienza: elemento distinto e significativo di acque superficiali e relativi fondali di un bacino artificiale, di un fiume o canale o parte di essi nonche' di ambienti di transizione o di aree marino costiere, posti in sito di interesse nazionale e dal quale provengono i materiali dragati; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                reimpiego: immissione o refluimento dei materiali dragati nell'ambito del corpo idrico di provenienza anche al fine di rifacimento degli arenili, per la formazione di terreni costieri, per il miglioramento dello stato dei fondali attraverso attivita' di capping o per il riempimento di casse di colmata, vasche di raccolta o strutture di contenimento ovvero impieghi a terra o in aree con falda naturalmente salinizzata; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                deposito temporaneo: temporaneo stoccaggio dei materiali dragati in strutture appositamente create nella zona di intervento ed autorizzate con provvedimento dell'autorita' competente in cui sono indicate le specifiche prescrizioni tecniche atte a garantire il corretto contenimento del materiale e la durata che, ai sensi l'articolo 5, comma 5, della legge 28 gennaio 1994, n. 84 non puo' eccedere il periodo massimo di trenta mesi.
+
 ## Art. 3. — Progetto di dragaggio
+
+1.
+                    
+                        
+                            Ai fini di non pregiudicare le operazioni di bonifica del sito di interesse nazionale, il progetto di dragaggio, presentato ai sensi dell'articolo 5-bis comma 1, della legge 28 gennaio 1994, n. 84, deve contenere: 
+ 
+                        
+                        
+                            a)
+                            
+                                i risultati della caratterizzazione dell'area da dragare, e ove necessario, i risultati della caratterizzazione del sito di reimpiego; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                l'individuazione dell'area da dragare mediante l'indicazione delle coordinate geografiche dei vertici che compongono l'area nel sistema di riferimento WGS84; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                le metodologie prescelte per l'intero processo di gestione del sedimento dragato o delle singole frazioni dello stesso, dal dragaggio fino alla collocazione o riutilizzo finali, secondo le indicazioni dell'allegato A al presente decreto, ed il relativo cronoprogramma delle attivita'; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                i metodi e le misure previste per la mitigazione degli effetti attesi derivanti dalle modalita' operative e gestionali prescelte, secondo le indicazioni dell'allegato A al presente decreto; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                il piano di monitoraggio previsto per l'intero processo di movimentazione e gestione del sedimento, secondo le indicazioni dell'allegato A al presente decreto; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                le modalita' di verifica dei fondali dragati; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                il progetto di realizzazione di eventuali casse di colmata, vasche di raccolta o strutture di contenimento destinate ad accogliere il sedimento dragato o le singole frazioni dello stesso; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                le modalita' di gestione dei sedimenti dragati a terra secondo quanto previsto dall'articolo 5-bis comma 2, della legge 28 gennaio 1994, n. 84.
 
 Nel caso in cui la Commissione di cui all'articolo 8 del decreto legislativo 3 aprile 2006, n. 152 consideri che il progetto di dragaggio vada assoggettato a valutazione di impatto ambientale, il termine di 30 giorni di cui all'articolo 5-bis, comma 1, e' interrotto nelle more della presentazione dello studio di impatto ambientale da parte del proponente e del completamento della procedura di VIA da parte dell'autorita' competente, nel rispetto dei termini fissati dalla normativa vigente.
 
@@ -55,6 +161,31 @@ Ai fini del reimpiego dei sedimenti dragati e per la relativa autorizzazione all
 ## Art. 4.
 
 Modalita' di reimpiego dei materiali dragati
+
+1.
+                    
+                        
+                            Ai fini del reimpiego dei materiali dragati nell'ambito del corpo idrico di provenienza e per la relativa autorizzazione all'utilizzo degli stessi, ai sensi dell'articolo 5-bis, comma 2, della legge 28 gennaio 1994, n. 84, il progetto di dragaggio individua: 
+ 
+                        
+                        
+                            a)
+                            
+                                l'idoneita' dei sedimenti a essere immessi o refluiti nei corpi idrici dai quali provengono, ovvero utilizzati per il rifacimento degli arenili, per formare terreni costieri ovvero per migliorare lo stato dei fondali attraverso attivita' di capping; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                l'idoneita' dei sedimenti ad essere impiegati a terra o in aree con falda naturalmente salinizzata; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                l'idoneita' dei sedimenti ad essere refluiti in strutture di contenimento.
 
 ## Art. 5.
 

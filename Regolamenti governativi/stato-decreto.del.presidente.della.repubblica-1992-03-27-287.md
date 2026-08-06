@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Regolamenti governativi
 vigenza_date: 2008-08-22
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:16Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -35,6 +35,48 @@ Sulla proposta del Ministro delle finanze, di concerto con il Ministro del tesor
 
 
 Sono uffici di diretta collaborazione il Gabinetto del Ministro nonche' le segreterie particolari del Ministro e dei Sottosegretari di Stato, di cui al regio decreto-legge 10 luglio 1924, n. 1100, e successive modifiche ed integrazioni.
+
+3.
+                        
+                            
+                                Sono uffici alle dirette dipendenze del Ministro: 
+
+                            
+                            
+                                a)
+                                
+                                    
+                                        (( LETTERA ABROGATA DAL D.P.R. 26 MARZO 2001, N. 107 )); 
+                                
+                            
+                            
+                                b)
+                                
+                                    l'ufficio del coordinamento legislativo; 
+                                
+                            
+                            
+                                c)
+                                
+                                    l'ufficio per i servizi dell'informazione e stampa; 
+                                
+                            
+                            
+                                d)
+                                
+                                    il Servizio centrale degli ispettori tributari; 
+                                
+                            
+                            
+                                e)
+                                
+                                    la Scuola centrale tributaria; 
+                                
+                            
+                            
+                                f)
+                                
+                                    il servizio per il controllo interno.
 
 (( COMMA ABROGATO DAL D.P.R. 26 MARZO 2001, N. 107 )).
 
@@ -167,6 +209,84 @@ Il Ministro delle finanze esercita tutte le attribuzioni relative all'organizzaz
 ## Art. 30. — (Ufficio del coordinamento legislativo)
 
 Le funzioni svolte dall'ufficio del coordinamento tributario, legislazione studi e stampa, istituito con l'articolo 1, primo comma, del decreto luogotenenziale 5 settembre 1944, n. 202, sono demandate all'ufficio del coordinamento legislativo, ai sensi di quanto disposto dall'articolo 4, comma 1, lettera a), della citata legge n. 358 del 1991.
+
+2.
+                        
+                            
+                                L'ufficio del coordinamento legislativo svolge le seguenti funzioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    predisposizione di schemi di provvedimenti normativi e di attuazione normativa di direttive comunitarie; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    esame e valutazione degli elementi su questioni di legittimita' costituzionale; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    esame e predisposizione delle risposte a interrogazioni, interpellanze e mozioni parlamentari; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    elaborazioni di pareri e relazioni su problemi giuridici; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    coordinamento dell'attivita' di realizzazione e gestione del servizio di documentazione tributaria; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    rapporti con gli uffici del Parlamento e della Presidenza del Consiglio dei ministri.
+
+3.
+                        
+                            
+                                L'ufficio si articola in un servizio e tre divisioni con le attribuzioni di seguito indicate: 
+ 
+                            
+                            
+                                a)
+                                
+                                    servizio di coordinamento e affari generali: coordinamento delle attivita' dell'ufficio secondo le direttive del direttore; affari relativi al personale, all'organizzazione e ai metodi di lavoro anche mediante il ricorso a sistemi automatizzati e collegamenti telematici con i sistemi informativi del Parlamento, della Corte di cassazione, della Gazzetta Ufficiale. Ogni altro affare che esula dalla competenza delle divisioni; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    divisione "Atti di Governo": redazione dei testi normativi e cura del loro iter sino all'approvazione da parte del Consiglio dei ministri; formulazione di pareri su richiesta degli organi centrali dell'Amministrazione; redazione di note, pareri e relazioni, con formulazione normativa, su disegni di legge d'iniziativa di altri Ministeri; assistenza tecnico-giuridica al Ministro durante il Consiglio dei ministri ed eventuale successivo perfezionamento dei testi normativi; esame dei decreti ministeriali su richiesta degli organi centrali dell'Amministrazione; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    divisione "Relazioni ed atti parlamentari": esame dello svolgersi dei lavori parlamentari su disegni e proposte di legge; diario e riscontro delle attivita' parlamentari; redazione e illustrazione di emendamenti; formulazione di pareri su disegni e proposte di iniziativa parlamentare; assistenza tecnico-giuridica al Ministro e ai Sottosegretari; predisposizione delle note da allegare alle leggi da pubblicare nella Gazzetta Ufficiale; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    divisione "Atti di sindacato ispettivo e questioni di legittimita' costituzionale": adempimenti concernenti gli atti del sindacato ispettivo della Camera dei deputati e del Senato della Repubblica e istruzione di quelli rivolti al Ministro delle finanze; predisposizione degli elementi per gli interventi in causa dell'Amministrazione, nei giudizi davanti alla Corte di giustizia della Comunita' economica europea, alla Corte costituzionale e alle altre giurisdizioni nazionali e internazionali.
 
 ## Art. 31. — (Ufficio per i servizi dell'informazione e stampa)
 

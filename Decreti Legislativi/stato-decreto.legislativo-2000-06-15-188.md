@@ -8,8 +8,8 @@ codice_redazionale: 000G0237
 vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:28Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -45,6 +45,30 @@ All'articolo 3 il comma 4 e' sostituito dal seguente:
 "4. Fino all'istituzione ed al riconoscimento degli appositi organismi di cui al comma 3, l'Agenzia e' organismo pagatore dello Stato italiano per l'erogazione di aiuti, contributi e premi comunitari previsti dalla normativa dell'Unione europea e finanziati dal FEOGA, non attribuita ad altri organismi pagatori nazionali".
 
 ## Art. 4.
+
+1.
+                    
+                        
+                            Dopo l'articolo 3 e' inserito il seguente:
+"Art. 3-bis (Centri autorizzati di assistenza agricola). - 1. Gli organismi pagatori, ai sensi e nel rispetto del punto 4 dell'allegato al regolamento (CE) n. 1663/95, fatte salve le specifiche competenze attribuite ai professionisti iscritti agli ordini e ai collegi professionali, possono, con apposita convenzione, incaricare "Centri autorizzati di assistenza agricola (CAA), di cui al comma 2, ad effettuare, per conto dei propri utenti e sulla base di specifico mandato scritto, le seguenti attivita':
+
+                        
+                        
+                            a)
+                            
+                                tenere ed eventualmente conservare le scritture contabili;
+                            
+                        
+                        
+                            b)
+                            
+                                assisterli nella elaborazione delle dichiarazioni di coltivazione e di produzione, delle domande di ammissione a benefici comunitari, nazionali e regionali e controllare la regolarita' formale delle dichiarazioni immettendone i relativi dati nel sistema informativo attraverso le procedure del SIAN;
+                            
+                        
+                        
+                            c)
+                            
+                                interrogare le banche dati del SIAN ai fini della consultazione dello stato di ciascuna pratica relativa ai propri associati.
 
 I Centri di cui al comma 1 sono istituiti, per l'esercizio dell'attivita' di assistenza agli agricoltori, nella forma di societa' di capitali, dalle organizzazioni professionali agricole maggiormente rappresentative, o da loro associazioni, da associazioni dei produttori e dei lavoratori, da associazioni di liberi professionisti e dagli enti di patronato e di assistenza professionale, che svolgono servizi analoghi, promossi dalle organizzazioni sindacali. Con decreto del Ministro delle politiche agricole e forestali, d'intesa con la Conferenza Stato-regioni, sono stabiliti i requisiti minimi di garanzia e di funzionamento per lo svolgimento delle attivita' di cui al comma 1.
 

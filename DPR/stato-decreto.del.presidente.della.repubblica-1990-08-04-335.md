@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: DPR
 vigenza_date: 2001-05-09
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:47:43Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -40,9 +40,161 @@ Le parti assumono come obiettivo fondamentale dell'azione amministrativa il migl
 
 A tale scopo, le aziende e le amministrazioni dello Stato ad ordinamento autonomo approntano strumenti per la tutela degli interessi degli utenti, anche attraverso l'istituzione di uffici di pubbliche relazioni, abilitati inoltre a ricevere eventuali reclami e suggerimenti degli utenti ai fini del miglioramento dei servizi.
 
+3.
+                        
+                            
+                                In tale quadro le aziende e le amministrazioni dello Stato ad ordinamento autonomo predispongono, sentite le organizzazioni e le confederazioni sindacali maggiormente rappresentative all'interno di ciascuna di esse, appositi progetti - da realizzare nel periodo di vigenza del presente regolamento - finalizzati in particolare ad assicurare condizioni di massima trasparenza, di dialogo e di sicurezza nel rapporto con gli utenti, mediante interventi diretti al conseguimento di: 
+ 
+                            
+                            
+                                a)
+                                
+                                    semplificazione della modulistica e riduzione della documentazione a corredo delle domande di prestazioni, applicando le norme sull'autocertificazione di cui alla legge 4 gennaio 1968, n. 15, e le istruzioni contenute nella circolare del Ministro per la funzione pubblica in data 20 dicembre 1988, pubblicata nella Gazzetta Ufficiale n. 7 del 10 gennaio 1989; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    ampliamento degli orari di apertura degli uffici, per garantire, ove necessario, l'accesso degli utenti stessi in almeno due pomeriggi alla settimana. In sede di contrattazione decentrata verranno definite le modalita' attuative; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    collegamento interamministrazioni e unificazione di adempimenti che valgano ad agevolare il rapporto con gli utenti, anche attraverso l'istituzione di "sportelli polivalenti"; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    miglioramento della logistica relativamente ai locali adibiti al ricevimento degli utenti, con l'obiettivo di ridurre al minimo l'attesa ed i disagi ad essa connessi, anche abbattendo le barriere architettoniche; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    formazione del personale addetto al ricevimento degli utenti, da attuare mediante piani da specificare in sede di contrattazione decentrata, specificamente rivolta ad assicurare completezza delle informazioni fornite anche con l'ausilio di adeguate apparecchiature elettroniche.
+
 Entro un anno dalla data di entrata in vigore del presente regolamento ed in prosieguo con cadenza annuale, le aziende promuovono apposite conferenze, con le organizzazioni e confederazioni sindacali di cui al comma 3 e con rappresentanti delle associazioni maggiormente rappresentative degli utenti, per esaminare l'andamento dei rapporti con l'utenza ed in particolare i risultati ottenuti e gli impedimenti riscontrati nell'ottimizzazione del processo di erogazione dei servizi.
 
 ## Art. 3. — Servizi pubblici essenziali
+
+1.
+                        
+                            
+                                Ai sensi del decreto del Presidente della Repubblica 23 agosto 1988, n. 395, art. 10, i servizi da considerare essenziali nel comparto del personale delle aziende e delle amministrazioni dello Stato ad ordinamento autonomo sono i seguenti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    protezione civile e servizi di soccorso ai cittadini; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    produzione e distribuzione di energia e beni di prima necessita', nonche' gestione e manutenzione dei relativi impianti; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    erogazione di assegni e di indennita' con funzione di sostentamento; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    servizio postale, di telecomunicazioni e di informazione radio- televisiva, vigilanza per la sicurezza delle strutture dei monopoli fiscali; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    depositi cauzionali; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    trasporti.
+
+2.
+                        
+                            
+                                Nell'ambito dei servizi essenziali dovra' garantirsi, con le modalita' di cui all'articolo 4, la continuita' delle seguenti prestazioni indispensabili per assicurare il rispetto dei valori e dei diritti costituzionalmente tutelati: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il funzionamento dei servizi radioelettrici, postali, telegrafici e telefonici, limitatamente alle attivita' relative alla salvezza della vita umana, alle comunicazioni di Stato e di assistenza al volo, nonche' al controllo delle emissioni radioelettriche al fine di evitare interferenze che potrebbero pregiudicare le comunicazioni nell'ambito dei servizi di Stato, aeroportuali, dei vigili del fuoco, di pronto soccorso e della protezione civile; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la sorveglianza, la salvaguardia, la funzionalita' e la sicurezza dei mezzi, delle attrezzature e degli impianti anche a ciclo continuo, nonche' il presidio per la salvaguardia dei fondi e dei valori negli uffici di maggiore rilevanza; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    l'integrita' della materia prima; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    l'informazione e le notizie sullo stato di transitabilita' delle strade a livello nazionale e regionale; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    le informazioni e le notizie per il servizio meteorologico, per gli avvisi ai naviganti e per la viabilita', anche ai fini del soccorso aereo, marittimo e stradale; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    il soccorso tecnico urgente prestato dal Corpo nazionale dei vigili del fuoco ed eventualmente dalle altre aziende del comparto nell'ambito del servizio di protezione civile; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    l'erogazione di assegni e di indennita' con funzioni di sostentamento, quali pensioni sociali e di invalidita' civile; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    il servizio di trasporto aereo, limitatamente all'esigenza di assistenza per i voli di Stato, sia nazionali che esteri, di emergenza ed ai collegamenti con le isole; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    il servizio attinente ai depositi cauzionali ed al relativo ufficio informazioni, allo svolgimento di gare pubbliche ed all'erogazione di premi, limitatamente ai giorni di scadenza previsti dalla normativa comunitaria.
 
 ## Art. 4. — Prestazioni indispensabili e contingenti di personale per il funzionamento dei servizi pubblici essenziali
 
@@ -91,6 +243,24 @@ Le disposizioni del comma 1 si applicano fino alla fine dell'anno successivo all
 ## Art. 8. — Aspettative sindacali
 
 Per l'amministrazione autonoma dei Monopoli di Stato, per l'amministrazione delle poste e delle telecomunicazioni e per l'Azienda di Stato per i servizi telefonici continua ad applicarsi, in relazione alle disposizioni del presente articolo e degli articoli 9, 10 e 11, la normativa vigente di cui, rispettivamente, agli articoli 119, 120 e 121 della legge 11 luglio 1980, n. 312, e succes- sive modificazioni ed integrazioni, ed agli articoli 23, 24 e 25 della legge 3 aprile 1979, n. 101, e successive modificazioni ed integrazioni.
+
+2.
+                        
+                            
+                                A decorrere dal 31 dicembre 1990, il numero complessivo dei dipendenti da collocare in aspettativa per le amministrazioni od aziende di seguito indicate e' fissato: 
+ 
+                            
+                            
+                                a)
+                                
+                                    in 15 unita' per il Corpo nazionale dei vigili del fuoco; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    in 8 unita' per l'Azienda nazionale autonoma delle strade.
 
 Il numero delle unita' di personale in aspettativa sindacale che, alla data di entrata in vigore del presente regolamento, si trovi in eccedenza rispetto al limite massimo previsto nel comma 2 e' riassorbito entro tale limite nel termine perentorio di due anni dalla data di cui sopra.
 
@@ -173,6 +343,38 @@ Gli importi liquidati dalle societa' assicuratrici in base alle polizze stipulat
 
 ## Art. 13. — Tutela dei dipendenti in particolari condizioni psico-fisiche
 
+1.
+                        
+                            
+                                In attuazione dell'art. 18 del decreto del Presidente della Repubblica 23 agosto 1988, n. 395, allo scopo di favorire il recupero di dipendenti nei confronti dei quali sia stata attestata, da una struttura associativa convenzionata prevista dalle leggi regionali vigenti, la condizione di soggetto a tossicodipendenza o alcolismo cronico o grave debilitazione psico-fisica e che si impegnino a sottoporsi ad un progetto terapeutico di recupero predisposto e controllato dalle strutture medesime, sono stabilite le seguenti misure di sostegno: 
+ 
+                            
+                            
+                                a)
+                                
+                                    concessione dell'aspettativa per infermita' per l'intera durata del ricovero presso strutture specializzate; per il periodo eccedente la durata massima dell'aspettativa con retribuzione intera compete la retribuzione ridotta alla meta' per l'intera durata del ricovero; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    concessione di permessi giornalieri orari retribuiti, nel limite massimo di due ore per la durata del progetto; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    ulteriore riduzione dell'orario di lavoro, superiore alle due ore giornaliere previste alla lettera b), con relativa riduzione retributiva; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    utilizzazione temporanea, relativa alla fase riabilitativa, del dipendente in mansioni della stessa qualifica diverse da quelle abituali, quando tale misura sia stata individuata dalla struttura sanitaria pubblica come supporto della terapia in atto.
+
 I dipendenti, il cui coniuge od i cui parenti entro il terzo grado, a condizione che quest'ultimi non abbiano parenti piu' prossimi, si trovino nelle condizioni previste dal comma 1 ed abbiano iniziato l'esecuzione del progetto di riabilitazione, hanno titolo ad ottenere la concessione di orari flessibili, di permessi giornalieri o dell'aspettativa per motivi di famiglia per l'intera durata del progetto medesimo. Gli stessi benefici spettano ai dipendenti che abbiano la tutela giuridica di persone che si trovino nelle stesse condizioni previste nel presente comma.
 
 L'amministrazione dispone l'accertamento della idoneita' al servizio dei dipendenti di cui al comma 1 qualora i dipendenti medesimi non si siano volontariamente sottoposti alle previste terapie.
@@ -180,6 +382,31 @@ L'amministrazione dispone l'accertamento della idoneita' al servizio dei dipende
 ## Art. 14. — Tutela dei portatori di handicape dei dipendenti in particolari condizioni fisiche
 
 In attuazione dell'art. 18 del decreto del Presidente della Repubblica 23 agosto 1988, n. 395, allo scopo di favorire la riabilitazione di dipendenti nei confronti dei quali sia stata attestata, da una struttura sanitaria pubblica, la necessita' di sottoporsi a terapie salvavita ovvero la condizione di portatore di handicap, che debbono sottoporsi ad un intervento riabilitativo predisposto e controllato dalle strutture medesime, si applicano le disposizioni di cui all'articolo 13, ad esclusione del comma 3.
+
+2.
+                        
+                            
+                                L'attuazione della normativa sulla tutela dei lavoratori invalidi, di cui alla legge 30 marzo 1971, n. 118, ed ai decreti del Presidente della Repubblica 27 aprile 1978, n. 384, 1 febbraio 1986, n. 13, e 23 agosto 1988, n. 395, e' demandata alla negoziazione decentrata territoriale al fine di: 
+ 
+                            
+                            
+                                a)
+                                
+                                    individuare e rimuovere gli ostacoli architettonici che limitano l'accesso e la libera utilizzazione degli ambienti di lavoro; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    richiedere l'intervento delle strutture ispettive competenti a certificare l'esistenza degli ostacoli e la natura degli interventi necessari per rimuoverli; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    definire le modifiche strutturali e organizzative atte a garantire la piena integrazione produttiva dei lavoratori invalidi.
 
 ## Art. 15. — Tutela maternita'
 
@@ -199,7 +426,64 @@ I Comitati per le pari opportunita', di cui al comma 4 dell'articolo 21 del decr
 
 I comitati sono composti da 5 componenti designati dalle organizzazioni sindacali maggiormente rappresentative all'interno delle aziende, e da un pari numero di funzionari in rappresentanza dell'amministrazione. I comitati sono presieduti da un rappresentante dell'Amministrazione.
 
+3.
+                        
+                            
+                                Fermo restando quanto previsto dall'art. 21 del decreto del Presidente della Repubblica 18 maggio 1987, n. 269, in sede di contrattazione decentrata nazionale e territoriale, anche tenendo conto delle proposte formulate dai comitati, sono concordate le proposte e le misure volte a favorire effettive pari opportunita' nelle condizioni di lavoro e di sviluppo professionale, con particolare riferimento a: 
+ 
+                            
+                            
+                                a)
+                                
+                                    accesso e modalita' di svolgimento dei corsi di formazione professionale; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    flessibilita' degli orari di lavoro in rapporto a quelli dei servizi sociali; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    perseguimento di un effettivo equilibrio di posizioni funzionali, a parita' di requisiti professionali, di cui si dovra' tener conto anche nella attribuzione di incarichi o funzioni piu' qualificate, nell'ambito delle misure volte a superare, per la generalita' dei dipendenti, l'assegnazione in via permanente di mansioni estremamente parcellizzate e prive di ogni possibilita' di evoluzione professionale.
+
 ## Art. 18. — Diritto allo studio
+
+1.
+                        
+                            
+                                I permessi di cui all'art. 3 del decreto del Presidente della Repubblica 23 agosto 1988, n. 395, qualora le richieste superino il tre per cento delle unita' in servizio presso ciascuna amministrazione all'inizio dell'anno, sono concessi nel seguente ordine: 
+ 
+                            
+                            
+                                a)
+                                
+                                    ai dipendenti che frequentano l'ultimo anno del corso di studio e, se studenti universitari o post-universitari, abbiano superato gli esami degli anni precedenti; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    ai dipendenti che frequentano l'anno di corso che precede l'ultimo e, successivamente, quelli che, nell'ordine, frequentano gli anni ancora anteriori, escluso il primo, ferma restando per gli studenti universitari e post-universitari la condizione di cui alla lettera a); 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    ai dipendenti che frequentano corsi per i quali e' prevista la frequenza obbligatoria; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    ai dipendenti ammessi a frequentare attivita' didattiche, che non si trovino nelle condizioni di cui alle lettere a) e b).
 
 Nell'ambito di ciascuna delle fattispecie di cui al comma 1, la precedenza e' accordata, nell'ordine, ai dipendenti che frequentino corsi di studi della scuola media inferiore, della scuola media superiore, universitari o post-universitari.
 
@@ -229,6 +513,71 @@ Al personale trasferito da una ad altra amministrazione anche di diverso compart
  categoria o qualifica funzionale VIII e superiori: L. 3.500.000; categoria o qualifica funzionale VII: L. 3.000.000; categoria o qualifica funzionale VI: L. 2.500.000; categoria o qualifica funzionale V ed inferiori: L. 2.000.000.
 
 ## Art. 22. — Trattamento di missione
+
+1.
+                        
+                            
+                                Le misure intere lorde dell'indennita' di cui all'articolo 5, comma 2, del decreto del Presidente della Repubblica 23 agosto 1988, n. 395, sono le seguenti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    categorie o qualifiche: quinta, sesta, settima, ottava, nona L. 39.600; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    categorie o qualifiche: prima, seconda, terza e quarta L.
+28.800.
+
+2.
+                        
+                            
+                                Le particolari categorie di dipendenti di cui all'articolo 5, comma 7, del decreto del Presidente della Repubblica 23 agosto 1988, n. 395, sono individuate nel personale inviato in missione fuori della ordinaria sede di servizio per: 
+ 
+                            
+                            
+                                a)
+                                
+                                    attivita' di protezione civile nelle situazioni di prima emergenza, di soccorso tecnico urgente e di scorta a trasporti speciali; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    attivita' di intervento, manutenzione, controllo e sorveglianza su impianti, apparecchiature ed immobili; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    attivita' di manutenzione e sorveglianza lungo la rete delle strade ed autostrade statali; di conduzioni di autoveicoli, nonche' di funzionamento dei mezzi operativi per la esecuzione della manutenzione connessa con la sicurezza stradale; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    attivita' di controllo, rilevazione, collaudo, ispezione delle opere d'arte (ponti, gallerie, manufatti ecc.); 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    attivita' di gestione, di controllo, di rilevazione, di collaudo, di vigilanza, di verifica ed ispettiva di natura amministrativo-contabile, tecnica, fiscale e similare; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    attivita' che comportino imbarchi brevi su unita' aeronautiche e marittime.
 
 Per il personale indicato nel comma 2 le particolarissime condizioni di cui al comma 7 dell'articolo 5 del decreto del Presidente della Repubblica 23 agosto 1988, n. 395, sono individuate nella impossibilita' della fruizione del pasto o del pernottamento per mancanza di strutture e servizi di ristorazione; in tale circostanza viene corrisposto un compenso forfettario giornaliero di lire 20.000 nette in luogo dell'importo corrispondente al costo del pasto e di L. 20.000 nette per il pernottamento.
 
@@ -339,6 +688,38 @@ Per i corsi fuori dell'orario di servizio, l'articolazione degli orari e le sedi
 
 ## Art. 28. — Rideterminazione organici
 
+1.
+                        
+                            
+                                In attuazione dell'art. 11 della legge 29 dicembre 1988, n. 554, al fine di un primo ridimensionamento degli organici, con decreto del Ministro delle poste e delle telecomunicazioni, sentiti la commissione paritetica amministrazione-sindacati ed il consiglio di amministrazione, di concerto con il Ministro del tesoro e con il Ministro per la funzione pubblica, entro il 30 settembre 1990 si provvedera' alla riduzione della dotazione organica del personale dell'Amministrazione delle poste e delle telecomunicazioni nella misura di circa 7.100 unita'. Tale risultato sara' conseguito mediante: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la riduzione per circa 1.300 unita' della maggiorazione dell'assegno di personale, relativamente agli uffici principali la cui attivita' e' articolata in piu' turni di lavoro nell'arco della giornata; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la riduzione per circa 1.200 unita' delle maggiorazioni dell'assegno base di cui al decreto ministeriale 19 ottobre 1974, relativamente agli uffici locali; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    l'aumento del divisore del rapporto utilizzato per la determinazione del fabbisogno di personale necessario per l'espletamento dell'attivita' lavorativa degli uffici amministrativi centrali, compartimentali e periferici, in modo tale da conseguire una riduzione di circa 3.000 unita'; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    l'adeguamento degli indici parametrici delle operazioni per la cui esecuzione sono state introdotte tecnologie automatizzate e la soppressione degli indici attinenti ad adempimenti superati o superflui, con riduzione di circa 800 unita' presso gli uffici postali elettronici e di circa 800 unita' presso gli uffici di telecomunicazioni dotati di sistema leotex.
+
 Il conferimento delle funzioni superiori e' subordinato alla essenzialita' ed alla indifferibilita' dei compiti da espletare, alla assoluta impossibilita' di assicurarne lo svolgimento con l'attribuzione dei medesimi ad unita' presenti ed appartenenti alla categoria richiesta per la copertura del posto vacante od a categoria superiore, nonche' all'emissione di formale provvedimento a cura dell'autorita' competente.
 
 In attuazione dell'articolo 7 della legge 25 ottobre 1989, n. 355, con decreto del Ministro delle poste e delle telecomunicazioni, sentiti la Commissione paritetica amministrazione-sindacati ed il Consiglio di amministrazione, sono individuate le funzioni per le quali e' consentito il conferimento delle funzioni superiori e sono determinate le modalita' di applicazione delle disposizioni recate dal comma 2.
@@ -347,17 +728,174 @@ In attuazione dell'articolo 7 della legge 25 ottobre 1989, n. 355, con decreto d
 
 Il fondo di incentivazione, di cui all'art. 23, per l'Amministrazione delle poste e delle telecomunicazioni, per 45 miliardi di lire annue e' destinato alla rivalutazione dell'indennita' oraria per il servizio prestato dalle ore 21 alle ore 7, del compenso per prestazioni di lavoro nelle giornate festive e delle maggiorazioni del premio industriale per gli addetti ai servizi di recapito e di guida, a turni rotativi ed ai servizi di cassa.
 
+2.
+                        
+                            
+                                Agli stessi fini, di cui al comma 1, sono devolute le seguenti economie annue: 
+ 
+                            
+                            
+                                a)
+                                
+                                    lire 15 miliardi derivanti dall'attuazione delle disposizioni in materia di rideterminazione degli organici previste dall'art. 28, conseguenti a riduzione del compenso di intensificazione; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    lire 9 miliardi, lire 2,2 miliardi, lire 9,2 miliardi e lire 1,6 miliardi per riduzione degli stanziamenti iscritti, rispettivamente, nei capitoli nn. 103, 110, 138 e 149 dello stato di previsione della spesa dell'Amministrazione delle poste e delle telecomunicazioni per l'anno 1990, concernenti i compensi per il lavoro straordinario, di intensificazione e di abbinamento.
+
+3.
+                        
+                            
+                                La rivalutazione delle indennita' e dei compensi indicati nel comma 1 e' stabilita nelle seguenti misure lorde: 
+ 
+                            
+                            
+                                a)
+                                
+                                    indennita' oraria per il servizio prestato dalle ore 21,00 alle ore 7,00: quaranta per cento; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    compenso per prestazioni di lavoro nelle giornate festive: quaranta per cento; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    maggiorazione del premio industriale per gli addetti ai servizi di cassa di cui all'articolo 66 del decreto del Presidente della Repubblica 18 maggio 1987, n. 269: lire 1.400 al giorno; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    maggiorazione del premio industriale per gli addetti ai servizi di recapito ed alla guida di automezzi: lire 1.200 al giorno; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    maggiorazione del premio industriale per gli addetti ai turni rotativi: lire 1.200 al giorno indipendentemente dalla categoria di appartenenza.
+
 Le rivalutazioni hanno effetto dal 1 ottobre 1990.
 
 Le competenze accessorie sono corrisposte unitamente allo stipendio del mese successivo a quello cui esse si riferiscono.
+
+6.
+                        
+                            
+                                Con decreto del Ministro delle poste e delle telecomunicazioni, di concerto con i Ministri del tesoro e per la funzione pubblica, sentite le organizzazioni sindacali maggiormente rappresentative, si provvede: 
+ 
+                            
+                            
+                                a)
+                                
+                                    alla soppressione del premio di produzione, incrementando corrispondentemente la "misura base" del premio industriale; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    alla rielaborazione della disciplina del premio industriale, tenendo conto delle modifiche apportate con il presente articolo e di quelle eventualmente richieste dall'esigenza di armonizzazione delle diverse voci che compongono il compenso; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    alla rideterminazione degli uffici, servizi e settori, nei confronti del cui personale possa essere confermata l'erogazione di compensi di intensificazione in relazione alla natura dell'attivita' svolta.
 
 ## Art. 30. — Utilizzazione fondo di incentivazione per l'Azienda di Stato per i servizi telefonici
 
 Il fondo di incentivazione di cui all'art. 23, relativamente all'Azienda di Stato per i servizi telefonici, e' destinato, per un importo di lire 2,5 miliardi annue, alla rivalutazione dell'indennita' oraria per il servizio prestato dalle 21 alle 7, del compenso per prestazioni di lavoro nelle giornate festive e delle maggiorazioni del premio industriale per gli addetti ai servizi di guida, a turni rotativi ed ai servizi di cassa e, ove occorra, al finanziamento della reperibilita'.
 
+2.
+                        
+                            
+                                Agli stessi fini, di cui al comma 1, sono devolute le seguenti economie annue: 
+ 
+                            
+                            
+                                a)
+                                
+                                    lire 500 milioni e 1.000 milioni per riduzione degli stanziamenti iscritti rispettivamente nei capitoli 104 e 126 dello stato di previsione della spesa dell'Azienda di Stato per i servizi telefonici per l'anno 1990, concernenti i compensi per lavoro straordinario per il personale amministrativo e tecnico; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    lire 1.000 milioni per riduzione degli stanziamenti del capitolo concernente il compenso per premio industriale.
+
+3.
+                        
+                            
+                                La rivalutazione delle indennita' e dei compensi indicati nel comma 1 e' stabilita nelle seguenti misure lorde: 
+ 
+                            
+                            
+                                a)
+                                
+                                    indennita' oraria per il servizio prestato dalle ore 21 alle ore 7: quaranta per cento; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    compenso per prestazioni di lavoro nelle giornate festive: quaranta per cento; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    aumento della maggiorazione del premio industriale per gli addetti ai servizi di cassa: lire 1.400 al giorno; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    aumento della maggiorazione del premio industriale per gli addetti ai servizi di guida automezzi: lire 1.200 al giorno; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    aumento della maggiorazione del premio industriale per gli addetti ai turni rotativi: lire 1.200 al giorno, indipendentemente dalla categoria di appartenenza.
+
 Le rivalutazioni hanno effetto dal 1 ottobre 1990.
 
 Le competenze accessorie sono corrisposte unitamente allo stipendio del mese successivo a quello cui esse si riferiscono.
+
+6.
+                        
+                            
+                                Con decreto del Ministro delle poste e delle telecomunicazioni, di concerto con i Ministri del tesoro e per la funzione pubblica, sentite le organizzazioni sindacali maggiormente rappresentative, si provvede: 
+ 
+                            
+                            
+                                a)
+                                
+                                    alla soppressione del premio di produzione, incrementando corrispondentemente la misura base del premio industriale; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    alla rielaborazione della disciplina del premio industriale, tenendo conto delle modifiche apportate con il presente articolo e di quelle eventualmente richieste dalla esigenza di armonizzazione delle diverse voci che compongono il compenso.
 
 ## Art. 31. — Incremento della retribuzione di anzianita'
 
@@ -424,7 +962,43 @@ Le misure dei nuovi stipendi, negli importi effettivamente corrisposti in relazi
 
 ## Art. 42. — Trattamento di missione
 
+1.
+                        
+                            
+                                Le misure intere lorde dell'indennita' di cui al comma 1 dell'articolo 22 sono stabilite: 
+ 
+                            
+                            
+                                a)
+                                
+                                    in lire 40.320 per il personale inquadrato nelle categorie dalla V alla IX; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    in lire 29.680 per il personale inquadrato nelle categorie dalla I alla IV.
+
 ## Art. 43. — Personale viaggiante
+
+1.
+                        
+                            
+                                A decorrere dal 1 ottobre 1990, le indennita' di cui al comma 1 dell'articolo 16 del decreto del Presidente della Repubblica 6 gennaio 1978, n. 919, come modificato da ultimo dall'articolo 18 della legge 25 ottobre 1989, n. 355, sono cosi' modificate: 
+ 
+                            
+                            
+                                a)
+                                
+                                    direttori di treni postali e capiturno: lire 2.250; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    rimanente personale: lire 2.100.
 
 ## - Capo II SPECIFICITA' DELLE AZIENDE E AMMINISTRAZIONI DELLO STATO AD ORDINAMENTO AUTONOMO. Sezione II Personale dell'Amministrazione autonoma dei monopoli di Stato
 
@@ -598,6 +1172,45 @@ E' istituito un fondo alimentato dalla quota pari allo 0,65%
 una quota parte pari al 60% 
  dei proventi derivanti da servizi di prevenzione e di vigilanza forniti dalla Amministrazione con prestazioni fuori degli orari di lavoro ordinari, straordinari e di turnazioni.
 
+2.
+                        
+                            
+                                Il fondo viene utilizzato: 
+ 
+                            
+                            
+                                a)
+                                
+                                    per compensare i dipendenti che partecipano alla realizzazione dei servizi di prevenzione e di vigilanza; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    per l'incentivazione degli addetti alla formazione e all'aggiornamento del personale del Corpo; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    per incentivare la partecipazione del personale ai corsi di aggiornamento professionale; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    per compensare la partecipazione a turni di reperibilita'; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    per sviluppare l'attivita' di studio, ricerca e sperimentazione.
+
 Le modalita' e i criteri di utilizzazione del fondo per le attivita' di cui al comma 2 sono definite in sede di contrattazione decentrata nazionale.
 
 I compensi giornalieri per la partecipazione ai turni di reperibilita' di cui al comma 2, lettera d), sono definiti in sede di contrattazione decentrata nazionale ed approvati con decreto del Presidente del Consiglio dei Ministri, su proposta del Ministro dell'interno, di concerto con il Ministro del tesoro.
@@ -652,6 +1265,25 @@ L'accordo aziendale e' sottoposto alla deliberazione del consiglio di amministra
 L'accordo aziendale potra' definire eventuali momenti di contrattazione decentrata territoriale, stabilendone, nell'ambito delle proprie competenze, i modi, i tempi, gli ambiti territoriali, le materie e le parti.
 
 ## Art. 73. — Premio di produzione
+
+1.
+                        
+                            
+                                A decorrere dal 1 ottobre 1990, al personale spetta un premio di produzione cosi' determinato: 
+ 
+                            
+                            
+                                a)
+                                
+                                    un premio annuo da corrispondere in due rate semestrali, finalizzato al raggiungimento di obiettivi fissati di volta in volta dal consiglio di amministrazione, sentite le organizzazioni sindacali aziendali maggiormente rappresentative, nella misura annua pari al 10% della retribuzione annua lorda (per 12 mesi) costituita dallo stipendio e dall'indennita' integrativa speciale, in godimento al 31 dicembre dell'anno precedente; tale premio viene corrisposto in relazione al grado di operosita' e rendimento e dell'apporto dato alla produzione tenendo conto delle giornate di effettiva presenza utilizzata per il conseguimento del progetto obiettivo e sulla scelta di criteri e di standards stabiliti d'intesa con le organizzazioni sindacali aziendali maggiormente rappresentative firmatarie dell'accordo recepito con il presente regolamento; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    un premio mensile cosi' articolato: 
+ Livello 1 .............................................. L. 140.000 Livello 2 .............................................. L. 171.000 Livello 3 .............................................. L. 203.000 Livello 4 .............................................. L. 235.000 Livello 5 .............................................. L. 273.000 Livello 6 .............................................. L. 310.000
 
 I compensi di cui alle lettere a) e b) del comma 1 sono corrisposti anche in relazione alla quantita' e qualita' di lavoro, sulla base di standards individuali fissati dal consiglio di amministrazione d'intesa con le organizzazioni sindacali aziendali.
 
@@ -738,6 +1370,77 @@ gruppo 1 ................................................... L. 1.800 gruppo 2 .
 Restano confermate, ove non modificate o sostitutite dal presente regolamento, le disposizioni di cui ai decreti del Presidente della Repubblica 18 maggio 1987, n. 269, e 17 settembre 1987, n. 494.
 
 ## Art. 89. — Copertura finanziaria
+
+1.
+                        
+                            
+                                L'onere derivante dall'applicazione del presente regolamento e' valutato: 
+ 
+                            
+                            
+                                a)
+                                
+                                    per il periodo 1988-1990, in complessive lire 707 miliardi, ivi compresi gli oneri per arretrati relativi agli anni 1988 e 1989 e al netto di lire 635 miliardi quale acconto sui miglioramenti economici autorizzato dal decreto-legge 24 luglio 1990, n. 200, e di lire 180 miliardi per minori spese derivanti dalla legge 29 dicembre 1988, n. 554; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    a decorrere dall'anno 1991, in lire 1.295 miliardi annui al netto di lire 180 miliardi per minori spese derivanti dalla detta legge 29 dicembre 1988, n. 554.
+
+2.
+                        
+                            
+                                Il predetto onere netto e' cosi' ripartito, rispettivamente, per il periodo 1988-1990 e per l'anno 1991 e successivi: 
+ 
+                            
+                            
+                                a)
+                                
+                                    Azienda nazionale autonoma delle strade (ANAS), lire 26,5 miliardi e lire 48 miliardi; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    Azienda autonoma dei monopoli, lire 32 miliardi e lire 60 miliardi; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    Amministrazione delle poste e delle telecomunicazioni, lire 560 miliardi e lire 1.025 miliardi; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    Azienda di Stato per i servizi telefonici, lire 35 miliardi e lire 64 miliardi; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    Corpo nazionale dei vigili del fuoco, lire 52 miliardi e lire 95 miliardi; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    Azienda di Stato per gli interventi nel mercato agricolo (AIMA), lire 0,5 miliardi e lire 1 miliardo; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    Cassa depositi e prestiti, lire 1 miliardo e lire 2 miliardi.
 
 All'onere di lire 707 miliardi per l'anno 1990 e di lire 1.295 miliardi annui a decorrere dall'anno 1991, si provvede, quanto a lire 350 miliardi per l'anno 1990 ed a lire 700 miliardi a decorrere dal 1991, con le maggiori entrate derivanti dall'adeguamento delle tariffe postali e quanto a lire 357 miliardi per l'anno 1990 ed a lire 595 miliardi a decorrere dal 1991, mediante corrispondente riduzione dello stanziamento iscritto sul capitolo n. 6868 dello stato di previsione del Ministero del tesoro per l'anno 1990 a corrispondenti capitoli per gli anni successivi.
 

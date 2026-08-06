@@ -8,8 +8,8 @@ vigente: true
 source: normattiva-opendata
 collection: DPR
 vigenza_date: 2023-01-15
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:47:42Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -26,6 +26,73 @@ Udito il parere del Consiglio di Stato n. 1719/18, espresso dalla Sezione consul
 Sulla proposta del Presidente del Consiglio dei ministri e del Ministro dell'economia e delle finanze;
 
 ## Art. 1. — Definizioni e denominazioni
+
+1.
+                    
+                        
+                            Ai fini del presente regolamento si adottano le seguenti definizioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                amministrazioni centrali dello Stato: le amministrazioni, incluse le loro articolazioni periferiche, alle quali si applicano le disposizioni di cui agli articoli 38-bis, 38-ter e 40 della legge 31 dicembre 2009, n. 196; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                amministrazioni pubbliche: le amministrazioni di cui all'articolo 1, comma 2, della legge 31 dicembre 2009, n. 196; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                piano dei conti integrato: elenco dei conti di natura finanziaria ed economico-patrimoniale, basato su una struttura gerarchica a piu' livelli in grado di consentire la rilevazione degli eventi gestionali e di evidenziare, attraverso l'utilizzo dei principi contabili applicati, le modalita' di raccordo, anche in sequenza temporale, dei dati finanziari ed economico-patrimoniali; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                livelli dell'articolazione del piano dei conti: strutture classificatorie con livelli gerarchici successivi esplicative della natura finanziaria ed economico-patrimoniale delle transazioni contabili elementari riconducibili alle unita' elementari di bilancio; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                livelli minimi di articolazione del piano dei conti: livelli base della struttura classificatoria gerarchica necessari per le registrazioni degli eventi gestionali sul sistema integrato delle scritture contabili; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                voce del piano dei conti: voce contabile di riferimento che corrisponde ad uno dei livelli gerarchici del piano dei conti; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                contenuto delle voci del piano dei conti: natura degli eventi gestionali classificati al livello di ciascuna voce elementare del piano dei conti, in base alle scritture contabili di natura finanziaria, economico-patrimoniale, comprese le scritture di integrazione e rettifica e quelle degli ammortamenti; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                sistema integrato di scritture contabili: sistema di scritture contabili che consente la registrazione di ciascun evento gestionale rilevante in modo da assicurare l'integrazione e la coerenza delle rilevazioni di natura finanziaria con quelle di natura economica e patrimoniale; 
+
+                            
+                        
+                        
+                            i)
+                            
+                                transazione contabile elementare: ogni evento gestionale oggetto delle registrazioni contabili nell'ambito delle finalita' delle amministrazioni centrali dello Stato posto in essere dai soggetti responsabili delle registrazioni nel sistema di contabilita' integrata.
 
 ## Art. 2. — Schema del piano dei conti integrato
 
@@ -53,6 +120,24 @@ In base agli esiti della sperimentazione prevista dall'articolo 38-sexies della 
 Contabilita' finanziaria ed economico-patrimoniale
 
 Il piano dei conti integrato di cui all'allegato 1, predisposto in coerenza con il piano dei conti di cui al decreto del Presidente della Repubblica 4 ottobre 2013, n. 132, costituisce lo strumento per la tenuta della contabilita' integrata, che le amministrazioni centrali dello Stato adottano ai sensi dell'articolo 38-bis della legge 31 dicembre 2009, n. 196, affiancando, a fini conoscitivi, la contabilita' economico-patrimoniale alla contabilita' finanziaria. La registrazione degli eventi contabilmente rilevanti ai fini della manifestazione economica e patrimoniale mediante l'utilizzo del piano dei conti e' obbligatoria e indipendente dalle registrazioni sulla contabilita' finanziaria.
+
+2.
+                    
+                        
+                            Ciascun evento contabilmente rilevante deve trovare corrispondenza in una o piu' transazioni contabili elementari, che sono registrate in modo da assicurare: 
+ 
+                        
+                        
+                            a)
+                            
+                                la movimentazione di una voce del piano dei conti relativa al modulo finanziario, ove la transazione contabile elementare discenda da un evento contabilmente rilevante ai fini della manifestazione finanziaria; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                la movimentazione delle opportune voci del piano dei conti relative ai moduli economico e patrimoniale, ove la transazione contabile elementare discenda da un evento rilevante ai fini della manifestazione economica e patrimoniale.
 
 Ciascuna voce del piano dei conti relativa alla contabilita' finanziaria e' correlata alle corrispondenti voci del piano dei conti relativo alla contabilita' economico-patrimoniale mediante schemi di collegamento predisposti dal Dipartimento della Ragioneria generale dello Stato e pubblicati sul relativo sito internet istituzionale.
 

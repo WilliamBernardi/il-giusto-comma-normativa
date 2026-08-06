@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
 vigenza_date: 2014-12-18
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:38Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -77,13 +77,271 @@ Il presente regolamento individua, in conformita' del comma 4 dell'art. 24 della
 
 ## Art. 2. — Categorie di documenti inaccessibili per motivi attinenti alla sicurezza, alla difesa nazionale ed alle relazioni internazionali.
 
+1.
+                    
+                        
+                            Ai sensi della lettera a) del comma 5 dell'art. 8 del decreto del Presidente della Repubblica 27 giugno 1992, n. 352, ed in relazione alla esigenza di salvaguardare la sicurezza, la difesa nazionale nonche' l'esercizio della sovranita' nazionale, la continuita' e la correttezza delle relazioni internazionali, sono sottratte all'accesso le seguenti categorie di documenti, compresi quelli ad essi direttamente connessi: 
+ 
+                        
+                        
+                            a)
+                            
+                                documenti relativi all'attivita' investigativa ed ispettiva la cui diffusione puo' pregiudicare l'attivita' di indagine di organismi nazionali ed esteri, incidendo sulla correttezza delle relazioni internazionali; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                documenti attinenti ad accordi di cooperazione, anche di carattere investigativo nei settori istituzionali sviluppati con l'apporto e la collaborazione di organismi di polizia, fiscali e doganali esteri nonche' dei servizi della Commissione dell'Unione europea e di altri organismi comunitari e internazionali; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                documenti relativi alla fornitura o sperimentazione di beni e servizi considerati di carattere strategico; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                documenti relativi all'assegnazione di personale agli organismi di informazione e sicurezza; 
+
+                            
+                        
+                        
+                            d-bis)
+                            
+                                documenti concernenti le procedure di rilascio, diniego, limitazione, sospensione, revoca e proroga relative ai Nulla osta di sicurezza, all'autorizzazione all'Accesso Cifra, all'accesso ai sistemi per l'elaborazione automatica di dati classificati, nonche' le informazioni e autorizzazioni relative al personale esperto nella trattazione e nella gestione di documenti classificati, agli operatori di apparati cifranti e alle "appendici riservate" di atti contrattuali che prevedono la trattazione di informazioni classificate.
+
 ## Art. 3. — Categorie di documenti inaccessibili per motivi attinenti alla
  determinazione ed attuazione della politica monetaria e valutaria.
 
+1.
+                    
+                        
+                            Ai sensi della lettera b) del comma 5 dell'art. 8 del decreto del Presidente della Repubblica 27 giugno 1992, n. 352, ed in relazione all'esigenza di salvaguardare la riservatezza dei processi di formazione, di determinazione e di attuazione della politica monetaria e valutaria, e' sottratta all'accesso la seguente categoria di documenti, compresi quelli ad essi direttamente connessi:
+ 
+                        
+                        
+                            a)
+                            
+                                studi, relazioni, indagini ed elaborazioni finalizzati alla determinazione e all'attuazione della politica tributaria e alla quantificazione del gettito fiscale, dalla cui anticipata diffusione possa derivare pregiudizio alle scelte di politica monetaria e valutaria.
+
 ## Art. 4. — Categorie di documenti inaccessibili per motivi attinenti all'ordine ed alla sicurezza pubblica, nonche' alla prevenzione ed alla repressione della criminalita'.
+
+1.
+                    
+                        
+                            Ai sensi della lettera c) del comma 5 dell'art. 8 del decreto del Presidente della Repubblica 27 giugno 1992, n. 352, ed in relazione all'esigenza di salvaguardare l'ordine e la sicurezza pubblica, nonche' la prevenzione e la repressione della criminalita', sono sottratte all'accesso le seguenti categorie di documenti, compresi quelli ad essi direttamente connessi:
+ 
+                        
+                        
+                            a)
+                            
+                                documenti relativi all'attivita' investigativa, ispettiva e di controllo dalla cui diffusione possa comunque derivare pregiudizio alla prevenzione e repressione della criminalita' nei settori di competenza anche attraverso la conoscenza delle tecniche informative ed operative nonche' degli atti di organizzazione interna, quando questa possa pregiudicare le singole attivita' di indagine;
+
+                            
+                        
+                        
+                            b)
+                            
+                                atti istruttori, comunicazioni su ipotesi di frodi in materia tributaria e segnalazioni dei servizi della Commissione dell'Unione europea o di altri organismi internazionali o Stati esteri ai fini della prevenzione e repressione delle frodi stesse;
+
+                            
+                        
+                        
+                            c)
+                            
+                                documenti relativi alle assegnazioni di personale alla Direzione investigativa antimafia ed al servizio centrale di protezione in favore dei collaboratori della giustizia, alle richieste di personale da parte delle autorita' giudiziarie, di altre autorita' dello Stato, di enti o del Corpo della guardia di finanza per il successivo impiego in attivita' di polizia giudiziaria o di polizia tributaria, ovvero connesse ad incarichi per i quali e' richiesto un rapporto fiduciario;
+
+                            
+                        
+                        
+                            d)
+                            
+                                atti e documenti attinenti alla identita' e gestione delle fonti confidenziali ed alle informazioni fornite dalle fonti stesse, individuate o anonime, nonche' contenute in esposti da chiunque inoltrati;
+
+                            
+                        
+                        
+                            e)
+                            
+                                documenti attinenti all'attivita' informativa nei settori istituzionali, siano essi originati autonomamente sia che provengano da altri organismi, in Italia o all'estero, con i quali intercorrono rapporti di collaborazione diretta o indiretta;
+
+                            
+                        
+                        
+                            f)
+                            
+                                atti e documenti riguardanti il funzionamento dei servizi di polizia ivi compresi quelli relativi all'addestramento, all'impiego ed alla mobilita' del personale del Corpo della guardia di finanza, nonche' i documenti sulla condotta del personale rilevanti ai fini della tutela dell'ordine e della sicurezza pubblica e la repressione della criminalita' e quelli relativi ai contingenti delle Forze armate posti a disposizione dell'Autorita' di pubblica sicurezza;
+
+                            
+                        
+                        
+                            g)
+                            
+                                relazioni di servizio ed altri atti o documenti presupposto per l'adozione degli atti o provvedimenti dell'Autorita' nazionale e delle altre autorita' di pubblica sicurezza, nonche' degli ufficiali o agenti di pubblica sicurezza, ovvero inerenti all'attivita' di tutela dell'ordine e della sicurezza pubblica o di prevenzione e repressione della criminalita', salvo che si tratti di documentazione che, per disposizione di legge o di regolamento, debba essere unita a provvedimenti o atti soggetti a pubblicita';
+
+                            
+                        
+                        
+                            h)
+                            
+                                atti e documenti riguardanti l'organizzazione, le strutture, la dislocazione sul territorio dei presidi, gli impianti, i mezzi e le dotazioni del Corpo della guardia di finanza, nonche' l'approvvigionamento, la dislocazione e la consistenza delle scorte di materiali, inerenti l'attivita' di tutela dell'ordine e della sicurezza pubblica e la repressione della criminalita';
+
+                            
+                        
+                        
+                            i)
+                            
+                                documenti del Corpo della guardia di finanza inerenti all'emanazione di ordini di servizio, nonche' all'esecuzione del servizio stesso, relazioni, rapporti, ed informative concernenti l'attivita' svolta nei settori istituzionali;
+
+                            
+                        
+                        
+                            l)
+                            
+                                atti e documenti concernenti la sicurezza delle infrastrutture, la protezione e custodia di armi, munizioni, esplosivi e materiali classificati;
+
+                            
+                        
+                        
+                            m)
+                            
+                                atti di pianificazione, programmazione, acquisizione gestione e manutenzione, dismissione di infrastrutture ed aree, nei limiti in cui detti documenti contengono notizie o informazioni rilevanti al fine di garantire la sicurezza pubblica nonche' la prevenzione e la repressione della criminalita';
+
+                            
+                        
+                        
+                            n)
+                            
+                                atti e documenti in materia di ricerca, sviluppo, pianificazione, programmazione, acquisizione, gestione e conservazione dei mezzi, delle armi, dei materiali e delle scorte, ivi comprese le relazioni tecniche sulle prove d'impiego dei materiali di sperimentazione;
+
+                            
+                        
+                        
+                            o)
+                            
+                                documentazione relativa alla descrizione progettuale e funzionale di impianti a rischio, limitatamente alle parti la cui conoscenza puo' agevolare la commissione di atti di sabotaggio.
 
 ## Art. 5. — Categorie di documenti inaccessibili per motivi attinenti
  alla riservatezza di persone, gruppi ed imprese
+
+1.
+                    
+                        
+                            Ai sensi della lettera d) del comma 5 dell'art. 8 del decreto del Presidente della Repubblica 27 giugno 1992, n. 352, ed in relazione all'esigenza di salvaguardare la vita privata e la riservatezza di persone fisiche e giuridiche, gruppi, imprese e associazioni, garantendo, peraltro, la visione degli atti dei procedimenti amministrativi la cui conoscenza sia necessaria per la cura o la difesa degli interessi giuridicamente rilevanti propri di coloro che ne fanno motivata richiesta, sono sottratte all'accesso, fatte salve le richieste del titolare dell'interesse, le seguenti categorie di documenti, compresi quelli ad essi direttamente connessi:
+ 
+                        
+                        
+                            a)
+                            
+                                documentazione finanziaria, economica, patrimoniale e tecnica di persone fisiche e giuridiche, gruppi, imprese e associazioni comunque acquisita ai fini dell'attivita' amministrativa;
+
+                            
+                        
+                        
+                            b)
+                            
+                                documenti contenenti progetti tecnici o studi presentati da concorrenti nel corso delle procedure di acquisizione di beni mobili, immobili e servizi;
+
+                            
+                        
+                        
+                            c)
+                            
+                                atti di natura strumentale concernenti la predisposizione di programmi e l'elaborazione di criteri selettivi per l'individuazione delle categorie economiche sottoposte a controlli, nonche' gli elenchi dei soggetti selezionati automaticamente ai fini dell'azione accertatrice degli uffici;
+
+                            
+                        
+                        
+                            d)
+                            
+                                atti e documenti allegati alle dichiarazioni tributarie;
+
+                            
+                        
+                        
+                            e)
+                            
+                                atti registrati che non sono soggetti ad obbligo di trascrizione ne' ad altra forma di pubblicita' verso terzi;
+
+                            
+                        
+                        
+                            f)
+                            
+                                documenti caratteristici, matricolari o concernenti situazioni dei dipendenti dell'Amministrazione ovvero dei candidati all'assunzione, salvo quanto previsto dall'art. 3 della legge 5 novembre 1962, n. 1695;
+
+                            
+                        
+                        
+                            g)
+                            
+                                documenti riguardanti i procedimenti disciplinari o le inchieste ispettive effettuate a carico dei singoli dipendenti o sull'attivita' degli uffici, anche a seguito di segnalazione di privati, di organizzazioni di categoria o sindacali;
+
+                            
+                        
+                        
+                            h)
+                            
+                                documenti attinenti ad accertamenti medico-legali o comunque relativi alla salute delle persone, ivi comprese le selezioni psico-attitudinali;
+
+                            
+                        
+                        
+                            i)
+                            
+                                documenti concernenti i procedimenti di sospensione, di trasferimento per incompatibilita' ambientale, dispensa, destituzione o decadenza dal servizio, nonche' dei corrispondenti procedimenti previsti per il personale militare;
+
+                            
+                        
+                        
+                            l)
+                            
+                                documenti relativi a denunce agli organi dell'autorita' giudiziaria ordinaria e contabile all'interno dei quali siano individuati o individuabili soggetti per i quali si configurano responsabilita' civili, amministrative e contabili;
+
+                            
+                        
+                        
+                            m)
+                            
+                                atti e documenti attinenti alla selezione ed al reclutamento del personale, ai lavori delle commissioni esaminatrici di concorsi e degli organismi preposti alla valutazione ed alle scelte relative alla progressione di carriera del personale dipendente, fino al momento dell'approvazione della graduatoria. Gli atti di cui alla precedente lettera h) restano comunque esclusi anche dopo l'approvazione della graduatoria;
+
+                            
+                        
+                        
+                            n)
+                            
+                                documenti riguardanti processi di lavorazione industriale del tabacco, anche se non tutelati da brevetto, comprensivi dell'impiego delle materie prime e sussidiarie;
+
+                            
+                        
+                        
+                            o)
+                            
+                                atti e documenti nominativi relativi al pagamento, effettuato dall'Amministrazione autonoma dei monopoli di Stato, dei premi delle lotterie nazionali e delle vincite al gioco del lotto;
+
+                            
+                        
+                        
+                            p)
+                            
+                                verifiche tecniche ed analisi effettuate dai laboratori chimici delle dogane, contenenti la specificazione degli elementi del prodotto, anche se non coperto da brevetto industriale;
+
+                            
+                        
+                        
+                            q)
+                            
+                                atti e documenti tecnici allegati alle denunce di attivazione di impianti ove si lavorano, si trasformano o trovano impiego prodotti soggetti ad imposte di fabbricazione ed accise, quali:
+ 1) planimetrie di stabilimenti e impianti industriali;
+ 2) relazioni tecniche descrittive dei processi di lavorazione e delle caratteristiche delle strumentazioni di misura;
+ 3) verbali degli esperimenti di lavorazione con l'indicazione dei parametri di impiego e di resa della lavorazione;
+ 4) bilanci delle materie e bilanci energetici.
 
 ## Art. 6. — Integrazioni, modificazioni e pubblicita'
  del presente regolamento

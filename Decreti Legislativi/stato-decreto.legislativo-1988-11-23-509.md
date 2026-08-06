@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
 vigenza_date: 2011-08-11
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:29Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -35,6 +35,31 @@ Ai fini della valutazione della riduzione della capacita' lavorativa, le infermi
 
 La dizione diagnostica deve essere espressa con chiarezza e precisione in modo da consentire l'individuazione delle minorazioni ed infermita' che, per la loro particolare gravita', determinano la totale incapacita' lavorativa, o che, per la loro media o minore entita', determinano invece la riduzione di tale capacita'.
 L'accertamento diagnostico deve essere effettuato dalle strutture periferiche del Servizio sanitario nazionale o da quelle della sanita' militare.
+
+4.
+                    
+                        
+                            La determinazione della percentuale di riduzione della capacita' lavorativa deve basarsi:
+ 
+                        
+                        
+                            a)
+                            
+                                sull'entita' della perdita anatomica o funzionale, totale o parziale, di organi od apparati;
+
+                            
+                        
+                        
+                            b)
+                            
+                                sulla possibilita' o meno dell'applicazione di apparecchi protesici che garantiscano in modo totale o parziale il ripristino funzionale degli organi ed apparati lesi;
+
+                            
+                        
+                        
+                            c)
+                            
+                                sull'importanza che riveste, in attivita' lavorative, l'organo o l'apparato sede del danno anatomico o funzionale.
 
 ## Art. 2.
 

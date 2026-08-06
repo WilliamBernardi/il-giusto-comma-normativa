@@ -8,8 +8,8 @@ vigente: true
 source: normattiva-opendata
 collection: Leggi di ratifica
 vigenza_date: 2024-09-05
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:43:08Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 LEGGE

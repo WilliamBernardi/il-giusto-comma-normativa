@@ -7,8 +7,8 @@ urn: urn:nir:ministero.politiche.agricole.alimentari.e.forestali:decreto:2017-03
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:40Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -38,6 +38,87 @@ Il presente decreto disciplina le modalita' applicative delle disposizioni conce
 
 ## Art. 2. — Definizioni
 
+1.
+                    
+                        
+                            Ai fini del presente decreto, si intende per: 
+ 
+                        
+                        
+                            a)
+                            
+                                commissione unica nazionale (C.U.N.): l'organismo istituito dal Ministero delle politiche agricole alimentari e forestali e dal Ministero dello sviluppo economico per la formulazione, in modo regolamentato e trasparente, della tendenza di mercato e dei prezzi indicativi dei prodotti, oggetto di valutazione della C.U.N., a livello nazionale; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                commissari delle C.U.N.: i delegati delle organizzazioni professionali e delle associazioni di categoria dei produttori agricoli, della cooperazione agricola e agroalimentare, dell'industria di trasformazione, del commercio e della distribuzione, competenti per le filiere a cui le C.U.N. si riferiscono, che acquistano o vendono prodotti in nome e per conto proprio; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                garanti: rappresentanti delle parti contraenti diversi dai commissari C.U.N.; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                prodotti agricoli: i prodotti dell'allegato I di cui all'articolo 38, comma 3, del Trattato sul funzionamento dell'Unione europea; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                prodotti alimentari: i prodotti di cui all'articolo 2 del regolamento (CE) n. 178/2002 del Parlamento europeo e del Consiglio del 28 gennaio 2002; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                borse merci: borse di commercio istituite ai sensi della legge 20 marzo 1913, n. 272; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                sale di contrattazione: luoghi d'incontro per la contrattazione di merci istituite dalle camere di commercio industria artigianato e agricoltura; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                commissioni prezzi: commissioni per la rilevazione dei prezzi indicativi del mercato locale istituite dalle Camere di commercio industria artigianato e agricoltura; 
+
+                            
+                        
+                        
+                            i)
+                            
+                                tendenza di mercato: direzione principale in cui il mercato si sta muovendo, identificabile con gli aggettivi «stabile» o «tendenzialmente stabile» o «in calo» o «in rialzo»; 
+
+                            
+                        
+                        
+                            l)
+                            
+                                prezzi indicativi: prezzo orientativo in linea con la tendenza di mercato formulata, che non tiene conto di caratteristiche qualitative del prodotto diverse dagli standard, delle modalita' di consegna/ritiro e di pagamento e di qualsiasi altro fattore relativo alla commercializzazione, che sono oggetto di libera contrattazione tra le parti (acquirente e venditore); 
+
+                            
+                        
+                        
+                            m)
+                            
+                                B.M.T.I. S.c.p.A.: Borsa merci telematica italiana S.c.p.A. - societa' pubblica non a scopo di lucro istituita ai sensi dell'articolo 8 del regolamento di cui al decreto del Ministro delle politiche agricole e forestali 6 aprile 2006, n. 174, e successive modificazioni.
+
 ## Art. 3. — Ruolo delle C.U.N.
 
 Le C.U.N. hanno il compito di formulare, in modo regolamentato e trasparente, la tendenza di mercato ed i relativi prezzi indicativi dei prodotti agricoli, agroalimentari ed ittici, a livello nazionale, che possono essere utilizzati dagli operatori commerciali quale riferimento nei contratti di compravendita e di cessione stipulati ai sensi della normativa vigente.
@@ -64,11 +145,75 @@ Criteri di rappresentativita'
 
 I commissari delle C.U.N. sono designati dalle organizzazioni professionali e dalle associazioni di categoria rappresentative dei produttori agricoli, della cooperazione agricola e agroalimentare, dell'industria di trasformazione, del commercio e della distribuzione, individuate secondo il criterio proporzionale del corrispondente quantitativo di settore/categoria di prodotto/prodotto rappresentato dai propri associati sul totale del corrispondente quantitativo a livello nazionale, assicurando al contempo il principio di pluralita'.
 
+2.
+                    
+                        
+                            I delegati indicati dalle organizzazioni e dalle associazioni quali commissari nelle C.U.N., oltre ad avere una idonea e qualificata professionalita', devono soddisfare i seguenti requisiti: 
+ 
+                        
+                        
+                            a)
+                            
+                                vendono o acquistano prodotti in nome e per conto proprio, senza alcun vincolo comprovato che ne limiti la libera contrattazione e la concorrenza; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                non devono presentare conflitti di interesse con le attivita' che dovranno essere svolte.
+
 La verifica del rispetto dei suddetti requisiti deve essere effettuata dalle organizzazioni professionali e dalle associazioni di categoria designatrici.
 
 Il Comitato dei garanti di cui all'articolo 4, comma 5, e' composto da sei rappresentanti, che non possono svolgere al contempo il ruolo di commissario, di cui due garanti, (titolare e supplente), nominati dalle organizzazioni professionali e associazioni di categoria che rappresentano la parte venditrice; due garanti, (titolare e supplente), nominati dalle organizzazioni professionali e associazioni di categoria che rappresentano la parte acquirente; due garanti, (titolare e supplente), nominati di comune accordo tra la parte venditrice e la parte acquirente o, in caso di disaccordo tra le parti, nominati dal Ministero delle politiche agricole alimentari e forestali di concerto con il Ministero dello sviluppo economico, tramite la consultazione di un elenco pubblico di possibili candidati di professionalita' adeguata a svolgere tale ruolo, consultabile negli appositi siti internet gestiti da B.M.T.I. S.c.p.A..
 
 ## Art. 6. — Funzionamento delle C.U.N.
+
+1.
+                    
+                        
+                            Il regolamento di funzionamento delle C.U.N. e' approvato, previa consultazione delle organizzazioni professionali e delle associazioni di categoria, con il decreto direttoriale di cui al comma 1 dell'articolo 4 e definisce: 
+ 
+                        
+                        
+                            a)
+                            
+                                il funzionamento di ciascuna C.U.N.; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                il giorno e la periodicita' della riunione; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                il codice di comportamento che stabilisce i doveri minimi di diligenza, lealta', imparzialita' e buona condotta che i componenti della C.U.N. sono tenuti a sottoscrivere ed osservare; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                il numero dei commissari; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                le regole di variazione dei delegati, di esclusione e le relative penalita'; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                l'eventuale presenza e il funzionamento del Comitato dei garanti.
 
 La segreteria delle C.U.N. e' assicurata da B.M.T.I. S.c.p.A. su incarico del Ministero delle politiche agricole alimentari e forestali, la quale provvede a convocarle in via ordinaria e/o straordinaria ed a coordinare le attivita' delle stesse, fornendo ai commissari un report informativo contenente dati di mercato raccolti nel modo piu' esaustivo ed aggiornato possibile.
 

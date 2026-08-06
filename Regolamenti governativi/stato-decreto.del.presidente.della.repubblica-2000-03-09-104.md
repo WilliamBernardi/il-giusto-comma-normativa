@@ -8,8 +8,8 @@ codice_redazionale: 000G0143
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti governativi
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:10Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -32,6 +32,35 @@ Il presente regolamento disciplina il procedimento relativo al rilascio del dupl
 In caso di smarrimento, sottrazione o distruzione della patente, entro quarantotto ore dalla constatazione, il titolare deve farne denuncia agli organi di polizia compilando, altresi', apposito modulo su cui e' applicata una fotografia autenticata a cura degli stessi organi di polizia i quali rilasciano, contestualmente, un permesso provvisorio di guida della validita' di novanta giorni. Dal momento del rilascio del permesso provvisorio di guida, la patente identificata nella denuncia non e' piu' valida.
 
 Entro sette giorni dalla data di presentazione della denuncia gli organi di polizia di cui al comma 1 ne danno comunicazione all'Ufficio centrale operativo del Ministero dei trasporti e della navigazione trasmettendo il modulo di cui al comma 1 secondo le modalita' tecniche indicate dal Ministero medesimo.
+
+3.
+                    
+                        
+                            L'Ufficio centrale operativo del Ministero dei trasporti e della navigazione, conseguentemente, provvede a:
+
+                        
+                        
+                            a)
+                            
+                                registrare i dati contenuti nel modulo di cui al comma 1 all'Anagrafe nazionale degli abilitati alla guida;
+                            
+                        
+                        
+                            b)
+                            
+                                dare comunicazione, per via telematica, al Ministero dell'interno dell'avvenuta registrazione;
+                            
+                        
+                        
+                            c)
+                            
+                                predisporre il duplicato della patente smarrita, sottratta o distrutta;
+                            
+                        
+                        
+                            d)
+                            
+                                trasmettere il duplicato per posta-contrassegno all'indirizzo di residenza del titolare, in modo che vi giunga entro i novanta giorni di validita' del permesso provvisorio di guida di cui al comma 1. Ove il duplicato non pervenga entro il termine prestabilito al domicilio dell'interessato la validita' del permesso provvisorio si intende prorogata fino al momento della consegna del duplicato.
 
 Qualora, nei casi di cui al comma 1, gli organi di polizia, all'atto della denuncia, facciano presente, che e' impossibile estrarre il duplicato della patente dall'anagrafe nazionale degli abilitati alla guida, al rilascio del duplicato provvedono, entro trenta giorni dalla data di presentazione, da parte del titolare, di apposita domanda, gli uffici provinciali della motorizzazione civile e dei trasporti in concessione. Alla medesima domanda e' allegata l'attestazione di resa denuncia agli organi di polizia, i quali rilasciano, contestualmente, un permesso provvisorio di guida della validita' di novanta giorni.
 

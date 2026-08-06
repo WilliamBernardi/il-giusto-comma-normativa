@@ -8,8 +8,8 @@ codice_redazionale: 000G0408
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:42Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -54,6 +54,31 @@ Nel caso di mancato o inesatto versamento del contributo di cui al comma 2, il s
 Qualora il datore di lavoro non ottemperi, successivamente all'irrogazione delle sanzioni amministrative di cui al comma 5, al versamento del contributo secondo le modalita' stabilite ai sensi del comma 3, il servizio dichiara, con apposito provvedimento, la decadenza dall'esonero parziale; una nuova domanda puo' essere inoltrata non prima che siano trascorsi dodici mesi dalla precedente autorizzazione.
 
 ## Art. 3. — Criteri e modalita' di concessione
+
+1.
+                    
+                        
+                            Ai fini della concessione al datore di lavoro richiedente dell'autorizzazione all'esonero parziale, il servizio verifica la sussistenza di speciali condizioni di attivita', accertando la presenza, in tali attivita', di almeno una delle seguenti caratteristiche:
+ 
+                        
+                        
+                            a)
+                            
+                                faticosita' della prestazione lavorativa richiesta;
+
+                            
+                        
+                        
+                            b)
+                            
+                                pericolosita' connaturata al tipo di attivita', anche derivante da condizioni ambientali nelle quali si svolge l'attivita' stessa;
+
+                            
+                        
+                        
+                            c)
+                            
+                                particolare modalita' di svolgimento dell'attivita' lavorativa.
 
 In presenza di almeno una delle caratteristiche previste dal comma 1 ed in assenza di mansioni compatibili con le condizioni di disabilita' e con le capacita' lavorative degli aventi diritto, esaminate le motivazioni a sostegno della domanda che devono evidenziare la difficolta', in relazione alle speciali condizioni di attivita' per le quali si richiede l'esonero, di effettuare l'inserimento mirato di cui alla legge n. 68 del 1999, il servizio puo' autorizzare l'esonero parziale fino alla misura percentuale massima del 60 per cento della quota di riserva, a seconda della rilevanza delle caratteristiche di cui al citato comma 1. Tale percentuale puo' essere aumentata fino all'80 per cento per i datori di lavoro operanti nel settore della sicurezza e della vigilanza e nel settore del trasporto privato.
 

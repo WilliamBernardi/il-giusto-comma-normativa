@@ -8,8 +8,8 @@ codice_redazionale: 004G0251
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:39Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -39,9 +39,66 @@ Le imprese di cui ai Titoli secondo e quinto del Libro quinto del Codice Civile 
 
 ## Art. 2. — Domanda di iscrizione nell'elenco
 
+1.
+                    
+                        
+                            Le istanze con le quali le imprese interessate chiedono al Ministero degli affari esteri l'iscrizione nell'elenco di cui all'articolo 1 indicano espressamente:
+ 
+                        
+                        
+                            a)
+                            
+                                la propria denominazione o ragione sociale, con l'indicazione del numero di iscrizione al tribunale od al registro delle imprese;
+
+                            
+                        
+                        
+                            b)
+                            
+                                l'area di attivita' in cui operano;
+
+                            
+                        
+                        
+                            c)
+                            
+                                gli enti od organismi internazionali di interesse;
+
+                            
+                        
+                        
+                            d)
+                            
+                                i settori professionali ed il numero massimo di candidati per ogni settore professionale che intendono fornire;
+
+                            
+                        
+                        
+                            e)
+                            
+                                l'impegno a mantenere il posto di lavoro al proprio personale chiamato a ricoprire posti od incarichi presso enti od organismi internazionali, con eventuale indicazione della durata massima dell'aspettativa, comunque non superiore a tre anni, non rinnovabile.
+
 ## Art. 3. — Iscrizione nell'elenco
 
 Il Ministero degli affari esteri, esaminata la richiesta e valutata la sua compatibilita' con l'articolo 9 della legge n. 145 del 2002, nonche' con le disposizioni della legge 31 maggio 1965, n. 575 e successive modificazioni ed integrazioni, provvede all'iscrizione dandone comunicazione all'impresa richiedente.
+
+2.
+                    
+                        
+                            A seguito dell'avvenuta iscrizione nell'elenco di cui all'articolo 2, il Ministero degli affari esteri, nei limiti dei posti vacanti resi pubblici dalle organizzazioni internazionali:
+ 
+                        
+                        
+                            a)
+                            
+                                segnala alle imprese le offerte di impiego disponibili nelle aree di attivita' in cui operano, trasmettendo altresi' il materiale informativo utile alla presentazione delle candidature con la richiesta dei dati personali e professionali relativi al personale che intendono mettere a disposizione;
+
+                            
+                        
+                        
+                            b)
+                            
+                                invita le imprese a far presentare ai propri dipendenti, gia' individuati ed in possesso dei requisiti richiesti, la candidatura alla specifica offerta direttamente all'organizzazione internazionale, inviando per conoscenza copia della documentazione al Ministero stesso.
 
 ## Art. 4. — Procedure di attuazione
 

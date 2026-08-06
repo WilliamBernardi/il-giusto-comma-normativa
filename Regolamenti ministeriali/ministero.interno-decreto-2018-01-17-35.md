@@ -7,8 +7,8 @@ urn: urn:nir:ministero.interno:decreto:2018-01-17;35
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:42Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -40,6 +40,59 @@ L'Osservatorio e' supportato, con compiti di segreteria, dall'Ufficio di Gabinet
 
 Nell'ambito delle competenze assegnate ai sensi dell'articolo 6 della legge 3 luglio 2017, n. 105, l'Osservatorio, anche sulla base delle risultanze dell'attivita' dell'Organismo tecnico di cui all'articolo 3, promuove il raccordo fra lo Stato e gli enti locali nel monitoraggio, nella prevenzione e nel contrasto del fenomeno degli atti intimidatori nei confronti degli amministratori locali.
 
+2.
+                    
+                        
+                            In particolare, in tale contesto l'Osservatorio: 
+ 
+                        
+                        
+                            a)
+                            
+                                propone al Ministro dell'interno l'adozione di specifiche direttive da indirizzare ai Prefetti della Repubblica; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                promuove studi e analisi per la formulazione di proposte normative in materia; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                elabora mirate campagne di comunicazione volte a sensibilizzare l'opinione pubblica sul fenomeno; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                promuove il raccordo e lo scambio informativo tra i soggetti istituzionali interessati, anche ai fini del supporto all'elaborazione di progettualita' in tema di legalita', idonee a fronteggiare il fenomeno, finanziabili con specifiche risorse europee e nazionali; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                promuove - anche attraverso l'eventuale coinvolgimento delle universita' o delle scuole di formazione delle istituzioni interessate - iniziative di formazione e di aggiornamento rivolte agli amministratori locali, ai segretari comunali, ai dipendenti degli enti locali, nonche' ai dipendenti dello Stato che, per ragione del loro ruolo o incarico, sono comunque coinvolti nelle attivita' di prevenzione e contrasto del fenomeno degli atti intimidatori nei confronti degli amministratori locali; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                promuove - anche attraverso l'eventuale coinvolgimento delle scuole del sistema nazionale di istruzione o delle scuole di formazione delle istituzioni interessate - iniziative di promozione della legalita' con particolare riferimento alle giovani generazioni; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                assicura un'attivita' di monitoraggio e valutazione delle azioni intraprese, anche ai fini delle verifiche dell'impatto della regolamentazione di cui al decreto del Presidente del Consiglio dei ministri 15 settembre 2017, n. 169.
+
 ## Art. 3. — Organismo tecnico di supporto all'Osservatorio sul fenomeno degli atti intimidatori nei confronti degli amministratori locali
 
 Presso il Dipartimento della pubblica sicurezza - Direzione centrale della polizia criminale opera, quale articolazione dell'Osservatorio di cui all'articolo 1, un Organismo tecnico di supporto, presieduto dal vice direttore generale della pubblica sicurezza - Direttore centrale della polizia criminale e composto da rappresentanti del Dipartimento della pubblica sicurezza, del Dipartimento per gli affari interni e territoriali, del Dipartimento per le politiche del personale dell'amministrazione civile e per le risorse strumentali e finanziarie, delle Forze di polizia.
@@ -47,6 +100,38 @@ Presso il Dipartimento della pubblica sicurezza - Direzione centrale della poliz
 Per l'esame di specifiche problematiche e' sempre fatta salva la facolta' del Presidente dell'Organismo tecnico di chiamare a partecipare alle riunioni altri soggetti, pubblici e privati, a vario titolo interessati alla prevenzione e/o al contrasto del fenomeno delittuoso in questione.
 
 L'Organismo tecnico e' supportato, con compiti di segreteria, da funzionari del Servizio analisi criminale della menzionata Direzione centrale della polizia criminale.
+
+4.
+                    
+                        
+                            L'Organismo tecnico: 
+ 
+                        
+                        
+                            a)
+                            
+                                effettua un costante monitoraggio del fenomeno, anche mediante l'analisi dei dati forniti dagli Osservatori regionali e loro Sezioni provinciali di cui ai successivi articoli 5, 6 e 7. A tal fine, anche in relazione ai diversi contesti territoriali, indirizza a livello tecnico-operativo l'attivita' degli stessi, specificando la tipologia delle esigenze informative e le modalita' di valutazione delle informazioni acquisite; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                sulla base delle risultanze informative derivanti dall'attivita' di monitoraggio di cui alla lett. a), valuta la pubblicazione, in un'apposita sezione del sito istituzionale del Ministero dell'interno, dei dati in forma aggregata e anonima sul fenomeno degli atti intimidatori agli amministratori locali; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                propone all'Osservatorio iniziative e strategie di prevenzione e contrasto del fenomeno; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                riferisce periodicamente all'Osservatorio sull'andamento del fenomeno e sugli sviluppi delle iniziative in corso.
 
 ## Art. 4. — Relazione al Parlamento
 
@@ -72,6 +157,24 @@ In caso di impossibilita' di partecipare alle riunioni dell'Osservatorio regiona
 Per l'esame di specifiche problematiche, e' sempre fatta salva la facolta' del Prefetto presidente dell'Osservatorio regionale di chiamare a partecipare alle riunioni altri soggetti, rappresentanti delle istituzioni, delle associazioni e della societa' civile, docenti universitari o esperti nelle materie di cui a presente decreto.
 
 I Prefetti delle sedi capoluogo di provincia possono prevedere l'istituzione di Sezioni provinciali quali articolazioni degli Osservatori regionali, nell'ambito delle Conferenze provinciali permanenti di cui all'articolo 11, comma 3, del decreto legislativo 30 luglio 1999, n. 300, e del decreto del Presidente della Repubblica 3 aprile 2006, n. 180, per l'esame e l'analisi di specifiche esigenze emerse dai rispettivi territori, specie in quei contesti in cui il fenomeno si presenta con caratteristiche piu' accentuate.
+
+6.
+                    
+                        
+                            Gli Osservatori regionali: 
+ 
+                        
+                        
+                            a)
+                            
+                                sulla base delle indicazioni tecnico-operative dell'Organismo tecnico di cui all'articolo 3, monitorano ed analizzano l'andamento del fenomeno degli atti intimidatori nei confronti degli amministratori locali, anche proponendo eventuali soluzioni da attuare in ambito locale. Le risultanze del monitoraggio e dell'analisi del fenomeno sono trasmesse all'Organismo tecnico, con le modalita' che sono dallo stesso stabilite e direttamente comunicate, nonche' all'Ufficio di Gabinetto del Ministro dell'interno; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                promuovono in ambito locale, anche sulla base delle direttive dell'Osservatorio nazionale e attraverso l'eventuale coinvolgimento delle universita' o delle Scuole di formazione delle istituzioni interessate, iniziative di formazione e di aggiornamento rivolte agli amministratori locali, ai segretari comunali, ai dipendenti degli enti locali, nonche' ai dipendenti dello Stato che, per ragione del loro ruolo o incarico, sono comunque coinvolti nelle attivita' di prevenzione e contrasto del fenomeno degli atti intimidatori nei confronti degli amministratori locali. Favoriscono, altresi', iniziative di promozione della legalita', con particolare riferimento alle giovani generazioni, anche nell'ottica di sostenere azioni riconducibili all'articolo 5 del decreto-legge 20 febbraio 2017, n. 14, convertito, con modificazioni, dalla legge 18 aprile 2017, n. 48.
 
 ## Art. 6.
 

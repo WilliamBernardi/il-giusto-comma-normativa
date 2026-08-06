@@ -8,8 +8,8 @@ codice_redazionale: 006G0012
 vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:24Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -130,6 +130,35 @@ Tale importo e' periodicamente aggiornato con le modalita' di cui al terzo comma
 
 ## Art. 14. — Modifiche all'articolo 16
  del regio decreto 16 marzo 1942, n. 267
+
+1.
+                        
+                            
+                                All'articolo 16 del regio decreto 16 marzo 1942, n. 267, sono apportate le seguenti modificazioni:
+ 
+                            
+                            
+                                a)
+                                
+                                    al secondo comma, i numeri 3), 4) e 5) sono sostituiti dai seguenti:
+ "3) ordina al fallito il deposito dei bilanci e delle scritture contabili e fiscali obbligatorie, nonche' dell'elenco dei creditori, entro tre giorni, se non e' stato ancora eseguito a norma dell'articolo 14;
+ 4) stabilisce il luogo, il giorno e l'ora dell'adunanza in cui si procedera' all'esame dello stato passivo, entro il termine perentorio di non oltre centoventi giorni dal deposito della sentenza;
+ 5) assegna ai creditori e ai terzi, che vantano diritti reali o personali su cose in possesso del fallito, il termine perentorio di trenta giorni prima dell'adunanza di cui al numero precedente per la presentazione in cancelleria delle domande di insinuazione.";
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il terzo comma e' sostituito dal seguente:
+ "La sentenza produce i suoi effetti dalla data della pubblicazione ai sensi dell'articolo 133, primo comma, del codice di procedura civile. Gli effetti nei riguardi dei terzi si producono dalla data di iscrizione della sentenza nel registro delle imprese ai sensi dell'articolo 17, secondo comma.";
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il quarto comma e' abrogato.
 
 ## Art. 15. — Sostituzione dell'articolo 17
  del regio decreto 16 marzo 1942, n. 267
@@ -263,6 +292,28 @@ L'articolo 32 del regio decreto 16 marzo 1942, n. 267, e' sostituito dal seguent
 
 ## Art. 29. — Modifiche all'articolo 33 del regio decreto 16 marzo 1942, n. 267
 
+1.
+                        
+                            
+                                All'articolo 33 del regio decreto 16 marzo 1942, n. 267, sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    al primo comma le parole: "entro un mese"" sono sostituite dalle seguenti "entro sessanta giorni" e le parole "sul tenore della vita privata di lui e della famiglia", sono soppresse; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il secondo, terzo e quarto comma sono sostituiti dai seguenti: "Il curatore deve inoltre indicare gli atti del fallito gia' impugnati dai creditori, nonche' quelli che egli intende impugnare.
+Il giudice delegato puo' chiedere al curatore una relazione sommaria anche prima del termine suddetto. 
+ Se si tratta di societa', la relazione deve esporre i fatti accertati e le informazioni raccolte sulla responsabilita' degli amministratori e degli organi di controllo, dei soci e, eventualmente, di estranei alla societa'. 
+ Il giudice delegato ordina il deposito della relazione in cancelleria, disponendo la segretazione delle parti relative alla responsabilita' penale del fallito e di terzi ed alle azioni che il curatore intende proporre qualora possano comportare l'adozione di provvedimenti cautelari, nonche' alle circostanze estranee agli interessi della procedura e che investano la sfera personale del fallito. Copia della relazione, nel suo testo integrale, e' trasmessa al pubblico ministero. 
+ Il curatore, ogni sei mesi successivi alla presentazione della relazione di cui al primo comma, redige altresi' un rapporto riepilogativo delle attivita' svolte, con indicazione di tutte le informazioni raccolte dopo la prima relazione, accompagnato dal conto della sua gestione. Copia del rapporto e' trasmessa al comitato dei creditori, unitamente agli estratti conto dei depositi postali o bancari relativi al periodo. Il comitato dei creditori o ciascuno dei suoi componenti possono formulare osservazioni scritte. Altra copia del rapporto e' trasmessa, assieme alle eventuali osservazioni, per via telematica all'ufficio del registro delle imprese, nei quindici giorni successivi alla scadenza del termine per il deposito delle osservazioni nella cancelleria del tribunale.".
+
 ## Art. 30. — Sostituzione dell'articolo 34
  del regio decreto 16 marzo 1942, n. 267
 
@@ -296,6 +347,24 @@ Dopo l'articolo 36 del regio decreto 16 marzo 1942, n. 267, e' inserito il segue
 ## Art. 34. — Modifiche all'articolo 37
  del regio decreto 16 marzo 1942, n. 267
 
+1.
+                        
+                            
+                                All'articolo 37 del regio decreto 16 marzo 1942, n. 267, sono apportate le seguenti modificazioni:
+ 
+                            
+                            
+                                a)
+                                
+                                    il secondo comma e' sostituito dal seguente: "Il tribunale provvede con decreto motivato, sentiti il curatore e il comitato dei creditori.";
+
+                                
+                            
+                            
+                                b)
+                                
+                                    dopo il secondo comma, e' aggiunto, in fine, il seguente: "Contro il decreto di revoca o di rigetto dell'istanza di revoca, e' ammesso reclamo alla corte di appello ai sensi dell'articolo 26; il reclamo non sospende l'efficacia del decreto.".
+
 ## Art. 35. — Integrazioni al regio decreto 16 marzo 1942, n. 267
 
 Dopo l'articolo 37 del regio decreto 16 marzo 1942, n. 267, e' inserito il seguente:
@@ -306,8 +375,45 @@ Dopo l'articolo 37 del regio decreto 16 marzo 1942, n. 267, e' inserito il segue
 ## Art. 36. — Modifiche all'articolo 38
  del regio decreto 16 marzo 1942, n. 267
 
+1.
+                        
+                            
+                                All'articolo 38 del regio decreto 16 marzo 1942, n. 267, sono apportate le seguenti modificazioni:
+ 
+                            
+                            
+                                a)
+                                
+                                    il primo comma e' sostituito dal seguente: "Il curatore adempie ai doveri del proprio ufficio, imposti dalla legge o derivanti dal piano di liquidazione approvato, con la diligenza richiesta dalla natura dell'incarico. Egli deve tenere un registro preventivamente vidimato da almeno un componente del comitato dei creditori, e annotarvi giorno per giorno le operazioni relative alla sua amministrazione.";
+
+                                
+                            
+                            
+                                b)
+                                
+                                    al secondo comma, sono aggiunte, in fine, le seguenti parole: ", ovvero del comitato dei creditori".
+
 ## Art. 37. — Modifiche all'articolo 39
  del regio decreto 16 marzo 1942, n. 267
+
+1.
+                        
+                            
+                                All'articolo 39 del regio decreto 16 marzo 1942, n. 267, sono apportate le seguenti modificazioni:
+ 
+                            
+                            
+                                a)
+                                
+                                    al primo comma, le parole: "ministro per la grazia e giustizia"" sono sostituite dalle seguenti: "Ministro della giustizia";
+
+                                
+                            
+                            
+                                b)
+                                
+                                    dopo il secondo comma, e' inserito il seguente:" "Se nell'incarico si sono succeduti piu' curatori, il compenso e' stabilito secondo criteri di proporzionalita' ed e' liquidato, in ogni caso, al termine della procedura, salvi eventuali acconti.";
+ c) al terzo comma, le parole: ",se vi e' luogo" sono soppresse.
 
 ## Art. 38. — Sostituzione dell'articolo 40
  del regio decreto 16 marzo 1942, n. 267
@@ -360,6 +466,31 @@ All'articolo 44 del regio decreto 16 marzo 1942, n. 267, e' aggiunto, in fine, i
 
 ## Art. 43. — Modifiche all'articolo 46
  del regio decreto 16 marzo 1942, n. 267
+
+1.
+                        
+                            
+                                All'articolo 46 del regio decreto 16 marzo 1942, n. 267, sono apportate le seguenti modificazioni:
+ 
+                            
+                            
+                                a)
+                                
+                                    al primo comma, il numero 3 e' sostituito dal seguente: "3) i frutti derivanti dall'usufrutto legale sui beni dei figli, i beni costituiti in fondo patrimoniale e i frutti di essi, salvo quanto e' disposto dall'articolo 170 del codice civile;";
+
+                                
+                            
+                            
+                                b)
+                                
+                                    al primo comma, il numero 4) e' soppresso;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il secondo comma e' sostituito dal seguente: "I limiti previsti nel primo comma, n. 2), sono fissati con decreto motivato del giudice delegato che deve tener conto della condizione personale del fallito e di quella della sua famiglia.".
 
 ## Art. 44. — Modifiche all'articolo 47
  del regio decreto 16 marzo 1942, n. 267
@@ -478,6 +609,24 @@ All'articolo 73, primo comma, del regio decreto 16 marzo 1942, n. 267, le parole
 ## Art. 61. — Modifiche all'articolo 74
  del regio decreto 16 marzo 1942, n. 267
 
+1.
+                        
+                            
+                                All'articolo 74 del regio decreto 16 marzo 1942, n. 267, sono apportate le seguenti modificazioni:
+ 
+                            
+                            
+                                a)
+                                
+                                    al primo comma, le parole: "dei commi secondo, terzo e quarto dell'art. 72" sono sostituite dalle seguenti: "dell'articolo 72, primo e secondo comma";
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il secondo comma e' sostituito dal seguente: "Se il curatore subentra, deve pagare integralmente il prezzo anche delle consegne gia' avvenute o dei servizi gia' erogati.".
+
 ## Art. 62. — Modifiche all'articolo 76
  del regio decreto 16 marzo 1942, n. 267
 
@@ -498,6 +647,24 @@ L'articolo 78 del regio decreto 16 marzo 1942, n. 267, e' sostituito dal seguent
 
 ## Art. 65. — Modifiche all'articolo 79
  del regio decreto 16 marzo 1942, n. 267
+
+1.
+                        
+                            
+                                All'articolo 79 del regio decreto 16 marzo 1942, n. 267, sono apportate le seguenti modificazioni:
+ 
+                            
+                            
+                                a)
+                                
+                                    al primo comma, le parole: "il giorno della dichiarazione di fallimento" sono sostituite dalle seguenti: "dal giorno della dichiarazione di fallimento";
+
+                                
+                            
+                            
+                                b)
+                                
+                                    al secondo comma, sono aggiunte, in fine, le seguenti parole: "e il credito e' regolato a norma dell'articolo 111, primo comma, n. 1).".
 
 ## Art. 66. — Sostituzione dell'articolo 80
  del regio decreto 16 marzo 1942, n. 267
@@ -818,6 +985,26 @@ L'articolo 110 del regio decreto 16 marzo 1942, n. 267, e' sostituito dal seguen
 ## Art. 99. — Modifiche all'articolo 111
  del regio decreto 16 marzo 1942, n. 267
 
+1.
+                        
+                            
+                                All'articolo 111 del regio decreto 16 marzo 1942, n. 267, sono apportate le seguenti modificazioni:
+ 
+                            
+                            
+                                a)
+                                
+                                    al primo comma, il numero 1) e' sostituito dal seguente:
+ "1) per il pagamento dei crediti prededucibili;";
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il secondo comma e' sostituito dal seguente:
+ "Sono considerati debiti prededucibili quelli cosi' qualificati da una specifica disposizione di legge, e quelli sorti in occasione o in funzione delle procedure concorsuali di cui alla presente legge; tali debiti sono soddisfatti con preferenza ai sensi del primo comma n. 1).".
+
 ## Art. 100. — Integrazioni al regio decreto 16 marzo 1942, n. 267
 
 Dopo l'articolo 111 del regio decreto 16 marzo 1942, n. 267, sono inseriti i seguenti:
@@ -893,6 +1080,40 @@ L'articolo 117 del regio decreto 16 marzo 1942, n. 267, e' sostituito dal seguen
 ## Art. 108. — Modifiche all'articolo 118
  del regio decreto 16 marzo 1942, n. 267
 
+1.
+                        
+                            
+                                All'articolo 118 del regio decreto 16 marzo 1942, n. 267, sono apportate le seguenti modificazioni:
+ 
+                            
+                            
+                                a)
+                                
+                                    al primo comma, numero 1), le parole: "nei termini stabiliti" sono sostituite dalle seguenti: "nel termine stabilito";
+
+                                
+                            
+                            
+                                b)
+                                
+                                    al primo comma, numero 2), le parole: "il compenso del curatore e le spese di procedura" sono sostituite dalle seguenti: "tutti i debiti e le spese da soddisfare in prededuzione";
+
+                                
+                            
+                            
+                                c)
+                                
+                                    al primo comma, il numero 4) e' sostituito dal seguente:
+ "4) quando nel corso della procedura si accerta che la sua prosecuzione non consente di soddisfare, neppure in parte, i creditori concorsuali, ne' i crediti prededucibili e le spese di procedura. Tale circostanza puo' essere, accertata con la relazione o con i successivi rapporti riepilogativi di cui all'articolo 33.";
+
+                                
+                            
+                            
+                                d)
+                                
+                                    dopo il primo comma e' aggiunto, in fine, il seguente:
+ "Ove si tratti di fallimento di societa' il curatore ne chiede la cancellazione dal registro delle imprese. La chiusura della procedura di fallimento della societa' determina anche la chiusura della procedura estesa ai soci ai sensi dell'articolo 147, salvo che nei confronti del socio non sia stata aperta una procedura di fallimento come imprenditore individuale.".
+
 ## Art. 109. — Modifiche all'articolo 119
  del regio decreto 16 marzo 1942, n. 267
 
@@ -912,6 +1133,33 @@ All'articolo 120 del regio decreto 16 marzo 1942, n. 267, il secondo comma e' so
 ## Art. 111. — Modifiche all'articolo 121
  del regio decreto 16 marzo 1942, n. 267
 
+1.
+                        
+                            
+                                All'articolo 121 del regio decreto 16 marzo 1942, n. 267, sono apportate le seguenti modificazioni:
+ 
+                            
+                            
+                                a)
+                                
+                                    al secondo comma, le parole: "non soggetta a gravame" sono soppresse;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    al secondo comma, il numero 2) e' sostituito dal seguente:
+ "2) stabilisce i termini previsti dai numeri 4) e 5) del secondo comma dell'articolo 16, eventualmente abbreviandoli non oltre la meta'; i creditori gia' ammessi al passivo nel fallimento chiuso possono chiedere la conferma del provvedimento di ammissione salvo che intendano insinuare al passivo ulteriori interessi.";
+
+                                
+                            
+                            
+                                c)
+                                
+                                    dopo il secondo comma, e' aggiunto, in fine, il seguente:
+ "La sentenza puo' essere appellata a norma dell'articolo 18.".
+
 ## Art. 112. — Modifiche all'articolo 122
  del regio decreto 16 marzo 1942, n. 267
 
@@ -920,6 +1168,25 @@ All'articolo 122 del regio decreto 16 marzo 1942, n. 267, il secondo comma e' so
 
 ## Art. 113. — Modifiche all'articolo 123
  del regio decreto 16 marzo 1942, n. 267
+
+1.
+                        
+                            
+                                All'articolo 123 del regio decreto 16 marzo 1942, n. 267, sono apportate le seguenti modificazioni:
+ 
+                            
+                            
+                                a)
+                                
+                                    al primo comma la parola: "70" e' sostituita dalla seguente: "67-bis";
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il secondo comma e' sostituito dal seguente:
+ "Sono privi di effetto nei confronti dei creditori gli atti a titolo gratuito e quelli di cui all'articolo 69, posteriori alla chiusura e anteriori alla riapertura del fallimento.".
 
 ## Art. 114. — Sostituzione dell'articolo 124
  del regio decreto 16 marzo 1942, n. 267
@@ -1008,6 +1275,25 @@ Gli articoli 132, 133 e 134 del regio decreto 16 marzo 1942, n. 267, sono abroga
 ## Art. 123. — Modifiche all'articolo 136
  del regio decreto 16 marzo 1942, n. 267
 
+1.
+                        
+                            
+                                All'articolo 136 del regio decreto 16 marzo 1942, n. 267, sono apportate le seguenti modificazioni:
+ 
+                            
+                            
+                                a)
+                                
+                                    al primo comma, le parole: "nella sentenza" sono sostituite dalle seguenti: "nel decreto";
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il terzo comma e' sostituito dal seguente:
+ "Accertata la completa esecuzione del concordato, il giudice delegato ordina lo svincolo delle cauzioni e la cancellazione delle ipoteche iscritte a garanzia e adotta ogni misura idonea per il conseguimento delle finalita' del concordato.".
+
 ## Art. 124. — Sostituzione dell'articolo 137
  del regio decreto 16 marzo 1942, n. 267
 
@@ -1021,6 +1307,33 @@ L'articolo 137 del regio decreto 16 marzo 1942, n. 267, e' sostituito dal seguen
 
 ## Art. 125. — Modifiche all'articolo 138
  del regio decreto 16 marzo 1942, n. 267
+
+1.
+                        
+                            
+                                All'articolo 138 del regio decreto 16 marzo 1942, n. 267, sono apportate le seguenti modificazioni:
+ 
+                            
+                            
+                                a)
+                                
+                                    al primo comma, le parole: "Nessun'altra azione di nullita' e' ammessa" sono sostituite dalle seguenti: "Non e' ammessa alcuna altra azione di nullita'. Si procede a norma dell'articolo 137.";
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il secondo comma e' sostituito dal seguente:
+ "Il decreto che annulla il concordato riapre la procedura di fallimento ed e' provvisoriamente esecutivo. Esso e' reclamabile ai sensi dell'articolo 131.";
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il terzo comma e' sostituito dal seguente:
+ "Il ricorso per l'annullamento deve proporsi nel termine di sei mesi dalla scoperta del dolo e, in ogni caso, non oltre due anni dalla scadenza del termine fissato per l'ultimo adempimento previsto nel concordato.".
 
 ## Art. 126. — Sostituzione dell'articolo 139
  del regio decreto 16 marzo 1942, n. 267
@@ -1122,6 +1435,25 @@ All'articolo 152 del regio decreto 16 marzo 1942, n. 267, il secondo comma e' so
 ## Art. 136. — Modifiche all'articolo 153
  del regio decreto 16 marzo 1942, n. 267
 
+1.
+                        
+                            
+                                All'articolo 153 del regio decreto 16 marzo 1942, n. 267, sono apportate le seguenti modificazioni:
+ 
+                            
+                            
+                                a)
+                                
+                                    al primo comma sono soppresse le parole: "Tuttavia i creditori particolari possono opporsi a norma dell'articolo 129, secondo comma, alla chiusura del fallimento del socio loro debitore.";
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il secondo comma e' sostituito dal seguente:
+ "Contro il decreto di chiusura del fallimento del socio e' ammesso reclamo a norma dell'articolo 26.".
+
 ## - Capo XII Modifiche al titolo II, capo XI, del regio decreto 16 marzo 1942, n. 267
 
 ## Art. 137. — Sostituzione della rubrica del capo XI, del titolo II,
@@ -1170,6 +1502,25 @@ L'articolo 166 del regio decreto 16 marzo 1942, n. 267, e' sostituito dal seguen
 
 ## Art. 143. — Modifiche all'articolo 167
  del regio decreto 16 marzo 1942, n. 267
+
+1.
+                        
+                            
+                                All'articolo 167 del regio decreto 16 marzo 1942, n. 267, sono apportate le seguenti modificazioni:
+ 
+                            
+                            
+                                a)
+                                
+                                    al primo comma, le parole: "e la direzione del giudice delegato" sono soppresse;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    dopo il secondo comma, e' aggiunto, in fine, il seguente:
+ "Con il decreto previsto dall'articolo 163 o con successivo decreto, il tribunale puo' stabilire un limite di valore al di sotto del quale non e' dovuta l'autorizzazione di cui al secondo comma.".
 
 ## Art. 144. — Modifiche all'articolo 169
  del regio decreto 16 marzo 1942, n. 267
@@ -1220,6 +1571,24 @@ L'articolo 195 del regio decreto 16 marzo 1942, n. 267, e' sostituito dal seguen
 ## Art. 149. — Modifiche all'articolo 213
  del regio decreto 16 marzo 1942, n. 267
 
+1.
+                        
+                            
+                                All'articolo 213 del regio decreto 16 marzo 1942, n. 267, sono apportate le seguenti modificazioni:
+ 
+                            
+                            
+                                a)
+                                
+                                    al primo comma, le parole: "del Regno" sono soppresse;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    al terzo comma, le parole: "2456 e 2457" sono sostituite dalle seguenti: "2494 e 2495".
+
 ## - Capo XVIII Disciplina transitoria, abrogazioni ed entrata in vigore
 
 ## Art. 150. — Disciplina transitoria
@@ -1232,6 +1601,25 @@ L'articolo 3, comma 3, del decreto-legge 8 luglio 2002, n. 138, convertito, con 
 
 ## Art. 152. — Disposizioni abrogative
  in materia di limitazioni personali del fallito
+
+1.
+                        
+                            
+                                Sono abrogate le seguenti disposizioni:
+ 
+                            
+                            
+                                a)
+                                
+                                    art. 2, comma 1, lettera a), del testo unico delle leggi per la disciplina dell'elettorato attivo e per la tenuta e la revisione delle liste elettorali, di cui al decreto del Presidente della Repubblica 20 marzo 1967, n. 223;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    
+                                        art. 3, comma 1, lettera e), della legge 8 agosto 1991, n. 264, limitatamente alle parole: "o dichiarato fallito, ovvero non sia in corso, nei suoi confronti, un procedimento per dichiarazione di fallimento".
 
 ## Art. 153. — Entrata in vigore
 

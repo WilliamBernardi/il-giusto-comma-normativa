@@ -7,8 +7,8 @@ urn: urn:nir:ministero.lavoro.e.politiche.sociali:decreto:2022-09-19;171
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:38Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -49,6 +49,52 @@ Le operazioni di pagamento di cui al comma 1 devono essere effettuate da un forn
 ## Art. 3.
 
 Individuazione delle attivita' caritatevoli
+
+1.
+                    
+                        
+                            Ai fini del presente regolamento sono considerate caritatevoli le seguenti attivita' di interesse generale, di cui all'articolo 5, comma 1 del decreto legislativo 3 luglio 2017, n. 117, erogate a titolo gratuito dagli enti del Terzo settore: 
+ 
+                        
+                        
+                            a)
+                            
+                                formazione extra-scolastica, finalizzata alla prevenzione della dispersione scolastica e al successo scolastico e formativo, alla prevenzione del bullismo e al contrasto alla poverta' educativa, di cui al citato articolo 5, comma 1, lettera l); 
+
+                            
+                        
+                        
+                            b)
+                            
+                                cooperazione allo sviluppo, ai sensi della legge 11 agosto 2014, n. 125, di cui al citato articolo 5, comma 1, lettera n); 
+
+                            
+                        
+                        
+                            c)
+                            
+                                alloggio sociale, ai sensi del decreto del Ministero delle infrastrutture del 22 aprile 2008, nonche' ogni altra attivita' di carattere residenziale temporaneo diretta a soddisfare bisogni sociali, sanitari, culturali, formativi o lavorativi, di cui al citato articolo 5, comma 1, lettera q); 
+
+                            
+                        
+                        
+                            d)
+                            
+                                accoglienza umanitaria ed integrazione sociale dei migranti, di cui al citato articolo 5, comma 1, lettera r); 
+
+                            
+                        
+                        
+                            e)
+                            
+                                beneficenza, sostegno a distanza, cessione gratuita di alimenti o prodotti di cui alla legge 19 agosto 2016, n. 166, o erogazione di denaro, beni o servizi a sostegno di persone svantaggiate o di attivita' di interesse generale, di cui al citato articolo 5, comma 1, lettera u); 
+
+                            
+                        
+                        
+                            f)
+                            
+                                protezione civile, ai sensi della legge 24 febbraio 1992, n. 225, di cui al citato articolo 5, comma 1, lettera y).
 
 ## Art. 4. — Disposizione transitoria
 

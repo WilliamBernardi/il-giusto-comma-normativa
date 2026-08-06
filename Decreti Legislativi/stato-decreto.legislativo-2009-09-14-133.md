@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
 vigenza_date: 2022-02-01
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:29Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -316,6 +316,24 @@ Salvo che il fatto costituisca reato e' soggetto alla sanzione amministrativa pe
 
 ((
 
+1.
+                        
+                            
+                                Salvo che il fatto costituisca reato, e' soggetto alla sanzione amministrativa pecuniaria da 3.000 a 18.000 euro: 
+ 
+                            
+                            
+                                a)
+                                
+                                    l'operatore economico che, nel mettere a disposizione di un utilizzatore professionale o di un altro operatore economico un precursore di esplosivi soggetto a restrizioni, omette di richiedere, per ciascuna transazione, le informazioni di cui all'articolo 8, paragrafo 2, del regolamento, salvo che la verifica non sia stata gia' effettuata nei dodici mesi precedenti e che la transazione non si discosti in maniera significativa da quelle in precedenza concluse; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'operatore economico che non conserva per diciotto mesi dalla data della transazione la documentazione relativa alle informazioni di cui all'articolo 8, paragrafo 2, del regolamento, o che non la esibisce a richiesta delle autorita' preposte ai controlli.
+
 Salvo che il fatto costituisca reato e' soggetto alla sanzione amministrativa pecuniaria da 10.000 a 60.000 euro l'intermediario responsabile di un mercato online che non adotta misure idonee a garantire che gli utenti che mettono a disposizione precursori di esplosivi disciplinati attraverso i suoi servizi rispettino gli obblighi di verifica all'atto della vendita di cui all'articolo 8, paragrafo 5, del regolamento.
 
 Salvo che il fatto costituisca piu' grave reato e' punito con l'arresto fino a un anno e con l'ammenda fino a 500 euro l'acquirente di un precursore di esplosivi soggetto a restrizioni che, richiesto dall'operatore economico di fornire le informazioni di cui all'articolo 8, paragrafo 2, del regolamento, rende dichiarazioni false o reticenti.
@@ -325,6 +343,24 @@ Salvo che il fatto costituisca piu' grave reato e' punito con l'arresto fino a u
 ## Art. 17-sexies. — (( (Violazione degli obblighi derivanti dall'articolo 9 del regolamento in materia di omessa segnalazione di transazioni sospette, sparizioni e furti).))
 
 ((
+
+1.
+                        
+                            
+                                Salvo che il fatto costituisca reato, sono soggetti alla sanzione amministrativa pecuniaria da 10.000 a 60.000 euro: 
+ 
+                            
+                            
+                                a)
+                                
+                                    l'operatore economico e l'intermediario responsabile di un mercato online che non predispongono procedure per la rilevazione delle transazioni sospette conformemente alle disposizioni di cui all'articolo 9, paragrafo 2, del regolamento; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'operatore economico e l'intermediario responsabile di un mercato online che, essendo richiesti di effettuare o avendo effettuato una transazione sospetta di precursori di esplosivi disciplinati, omettono nelle ventiquattro ore successive di darne segnalazione al punto di contatto nazionale.
 
 2. Salvo che il fatto costituisca piu' grave reato sono puniti con l'arresto fino a dodici mesi o con l'ammenda fino a 371 euro l'operatore economico e l'utilizzatore professionale che, avendo subito il furto o constatato la sparizione di un quantitativo significativo di precursori di esplosivi disciplinati nella loro disponibilita', omettono nelle ventiquattro ore successive di darne segnalazione al punto di contatto nazionale))
 

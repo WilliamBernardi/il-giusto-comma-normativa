@@ -8,8 +8,8 @@ codice_redazionale: 006G0163
 vigente: true
 source: normattiva-opendata
 collection: DPR
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:47:50Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -31,6 +31,73 @@ Il presente regolamento si applica agli impianti e apparecchiature di condiziona
 
 ## Art. 2. — Definizioni
 
+1.
+                    
+                        
+                            Ai soli fini del presente regolamento si applicano le seguenti definizioni:
+ 
+                        
+                        
+                            a)
+                            
+                                «sostanze controllate», le sostanze lesive del-l'ozono stratosferico di cui alle lettere b) e c);
+
+                            
+                        
+                        
+                            b)
+                            
+                                «clorofluorocarburi», le sostanze elencate nel gruppo I e II dell'allegato I del regolamento (CE) n. 2037/2000;
+
+                            
+                        
+                        
+                            c)
+                            
+                                «idroclorofluorocarburi», le sostanze elencate nel gruppo VIII dell'allegato I del regolamento (CE) n. 2037/2000;
+
+                            
+                        
+                        
+                            d)
+                            
+                                «recupero», la raccolta e il magazzinaggio di sostanze controllate provenienti, per esempio, da macchine, apparecchiature, vasche di contenimento, effettuati nel corso delle operazioni di manutenzione o prima dello smaltimento;
+
+                            
+                        
+                        
+                            e)
+                            
+                                «riciclo», la riutilizzazione di sostanze lesive recuperate previa effettuazione di un processo di pulitura di base quale la filtrazione e l'essicazione. Per i refrigeranti, il riciclo prevede normalmente la ricarica delle apparecchiature spesso effettuata in loco;
+
+                            
+                        
+                        
+                            f)
+                            
+                                «rigenerazione», il ritrattamento e la valorizzazione delle sostanze controllate recuperate attraverso operazioni quali filtrazione, essiccazione, distillazione e trattamento chimico, allo scopo di riportare la sostanza a determinate caratteristiche di funzionalita';
+
+                            
+                        
+                        
+                            g)
+                            
+                                «distruzione», trasformazione permanente o decomposizione di tutta o una porzione significante di sostanza controllata mediante tecnologie approvate dalle Parti del Protocollo di Montreal sulle sostanze dannose per la fascia di ozono;
+
+                            
+                        
+                        
+                            h)
+                            
+                                «manutenzione», le operazioni di riparazione, sostituzione del fluido refrigerante, incluse le operazioni di recupero, riciclo e ricarica, nonche' il controllo periodico di apparecchiature ed impianti di refrigerazione, condizionamento d'aria e pompe di calore contenenti le sostanze controllate;
+
+                            
+                        
+                        
+                            i)
+                            
+                                «gestore», qualsiasi persona fisica o giuridica che detiene o gestisce l'impianto o l'apparecchiatura contenente nel circuito frigorifero sostanze controllate.
+
 ## Art. 3. — Attivita' di recupero e di riciclo
 
 Le operazioni di recupero e di riciclo delle sostanze controllate contenute nel circuito frigorifero di impianti e apparecchiature di refrigerazione, condizionamento d'aria e pompe di calore sono effettuate con dispositivi conformi alle caratteristiche e nel rispetto delle norme tecniche stabilite dalla norma ISO 11650.
@@ -40,6 +107,24 @@ Il gestore deve custodire un libretto di impianto conforme al modello di cui all
 I dispositivi di cui al comma 1 dovranno uniformarsi alla norma ISO 11650 entro nove mesi dalla data di entrata in vigore del presente regolamento.
 
 ## Art. 4. — Controlli di fughe
+
+1.
+                    
+                        
+                            Le apparecchiature e gli impianti di refrigerazione, di condizionamento d'aria e le pompe di calore contenenti sostanze controllate in quantita' superiore ai 3 kg, devono essere sottoposte a controllo della presenza di fughe nel circuito di refrigerazione, con la frequenza indicata al comma 2, da registrarsi nel libretto di impianto di cui all'allegato I. Gli impianti e le apparecchiature suddette devono essere sottoposti a controllo con le seguenti cadenze:
+ 
+                        
+                        
+                            a)
+                            
+                                annuale: per impianti e apparecchiature con un contenuto di sostanze controllate comprese tra i 3 e i 100 kg;
+
+                            
+                        
+                        
+                            b)
+                            
+                                semestrale: per impianti e apparecchiature con un contenuto di sostanze controllate superiore ai 100 kg.
 
 Quando nel corso di un'ispezione venga individuato un indizio di fuga, si dovra' procedere alla ricerca della fuga con un apparecchio cercafughe di sensibilita' superiore a 5 g/anno. La ricerca sul lato di alta pressione deve essere eseguita con l'impianto funzionante mentre quella sul lato di bassa pressione deve essere eseguita con l'impianto spento.
 

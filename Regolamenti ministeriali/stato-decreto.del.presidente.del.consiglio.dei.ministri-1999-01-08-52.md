@@ -8,8 +8,8 @@ codice_redazionale: 099G0106
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:40Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DEL CONSIGLIO DEI MINISTRI
@@ -32,6 +32,52 @@ Udito il parere del Consiglio di Stato espresso dalla sezione consultiva per gli
 ## Art. 1.
 
 E' autorizzata la tenuta in forma automatizzata dei registri di cui agli articoli 51 del regio decreto 17 agosto 1907, n. 642, 37, 59, 72, 73 e 88 del regio decreto 21 aprile 1942, n. 444, 23 e 24 del decreto del Presidente della Repubblica 21 aprile 1973, n. 214, in sostituzione delle registrazioni effettuate su supporti cartacei.
+
+2.
+                    
+                        
+                            I documenti informatici contengono i dati previsti dai seguenti registri ora in uso:
+ 
+                        
+                        
+                            a)
+                            
+                                presso il Consiglio di Stato in sede giurisdizionale:
+ 1) registro generale dei ricorsi (modello all. CdSG1);
+ 2) registro protocollo di sezione dati generali (modello all.
+CdSG2);
+ 3) registro protocollo di sezione - iter procedurale (modello all.
+GdSG3);
+ 4) registro degli atti per sezione (modello all. CdSG4);
+ 5) registro delle istanze di fissazione di udienza per sezione (modello all. CdSG5);
+ 6) registro delle istanze di prelievo per sezione (modello all.
+CdSG6);
+ 7) registro ordinanze di sospensione per sezione (modello all.
+CdSG7);
+ 8) registro delle decisioni per sezione (modello CdSG8);
+
+                            
+                        
+                        
+                            b)
+                            
+                                presso il Consiglio di Stato in sede consultiva:
+ 1) protocollo generale per sezione (modello CdSC1);
+
+                            
+                        
+                        
+                            c)
+                            
+                                presso i tribunali amministrativi regionali e sezioni autonome:
+ 1) registro generale dei ricorsi (modello all. TARI);
+ 2) registro delle ordinanze collegiali (modello all. TAR2);
+ 3) registro delle ordinanze presidenziali (modello all. TAR3);
+ 4) registro ordinanze di sospensiva (modello all. TAR4);
+ 5) registro delle sentenze (modello all. TAR5);
+ 6) registro delle domande di fissazione di udienza (modello all.
+TAR6);
+ 7) protocollo atti (modello TAR7).
 
 ## Art. 2.
 

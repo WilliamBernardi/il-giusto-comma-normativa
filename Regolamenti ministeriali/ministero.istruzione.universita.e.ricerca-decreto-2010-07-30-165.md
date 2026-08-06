@@ -8,8 +8,8 @@ codice_redazionale: 010G0182
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:38Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -36,6 +36,63 @@ Udito il parere del Consiglio di Stato, espresso dalla Sezione consultiva per gl
 Di concerto con il Ministro della salute e con il Ministro del lavoro e delle politiche sociali;
 
 ## Art. 1. — Definizioni
+
+1.
+                    
+                        
+                            I benefici applicabili ai fini del presente regolamento sono: 
+ 
+                        
+                        
+                            a)
+                            
+                                il diritto alla precedenza nell'assegnazione di sede e il diritto alla scelta, ove possibile, della sede piu' vicina al proprio domicilio ai sensi, rispettivamente, dell'articolo 21 e dell'articolo 33, comma 6, della legge n. 104 del 1992 e successive modificazioni; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                il diritto del familiare lavoratore o dell'affidatario di persona con handicap in situazione di gravita' ai sensi, rispettivamente, dei commi 5 e 7, dell'articolo 33, della legge n. 104 del 1992 e successive modificazioni, a scegliere, ove possibile, la sede piu' vicina al domicilio individuato dalle richiamate disposizioni; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                il diritto alla riserva del posto ai sensi e nei limiti delle disposizioni di cui agli articoli 3 e 18, comma 2, della legge n. 68 del 1999.
+
+2.
+                    
+                        
+                            Ai fini del presente regolamento si intende: 
+ 
+                        
+                        
+                            a)
+                            
+                                per condizione familiare, di cui all'articolo 1, commi 4-octies e 4-decies, del decreto-legge 25 settembre 2009, n. 134, convertito in legge, con modificazioni, dall'articolo 1, comma 1, della legge 24 novembre 2009, n. 167, di seguito indicato come «decreto-legge», quella del familiare o dell'affidato con handicap in situazione di gravita', rilevanti agli effetti, rispettivamente, dei commi 5 e 7, dell'articolo 33, della legge n. 104 del 1992 e successive modificazioni, nonche' quella del soggetto riconosciuto grande invalido per cause di guerra, di servizio o di lavoro; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                per certificazione medica originale, di cui all'articolo 1, comma 4-octies, del decreto-legge, si intende l'atto, il verbale o la certificazione, rilasciata all'interessato a conclusione dell'accertamento effettuato a norma dell'articolo 4 della legge n. 104 del 1992 e successive modificazioni; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                relativamente al personale docente, educativo ed A.T.A., per autorita' scolastiche di cui all'articolo 1, comma 4-octies del decreto-legge, gli uffici di livello dirigenziale non generale che gestiscono, quali articolazioni territoriali degli uffici scolastici regionali, la graduatoria nella quale l'interessato ha chiesto l'inserimento; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                relativamente ai dirigenti scolastici, per ufficio scolastico regionale competente di cui all'articolo 1, comma 4-novies del decreto-legge, l'ufficio scolastico regionale che provvede all'assunzione a tempo indeterminato del predetto personale.
 
 ## Art. 2. — Ambito soggettivo di applicazione
 

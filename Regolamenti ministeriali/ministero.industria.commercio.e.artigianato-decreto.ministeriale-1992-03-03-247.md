@@ -8,8 +8,8 @@ codice_redazionale: 092G0264
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:41Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO MINISTERIALE
@@ -65,6 +65,31 @@ La concessione del contributo in conto capitale a fronte di investimenti totalme
 
 Gli investimenti devono essere effettuati entro 360 giorni a decorrere dalla comunicazione di concessione del contributo. Qualora entro detto termine perentorio gli investimenti siano stati effettuati solo in parte, il contributo potra' essere erogato in relazione ai beni realmente consegnati o realizzati purche' conformi alle tipologie di cui all'allegato 2. In tal caso le condizioni stabilite dall'art. 3 si applicano con riferimento a detti beni. Le somme impegnate ma non erogate per mancata o parziale effettuazione degli investimenti affluiscono nuovamente nella disponibilita' generale dei fondi previsti dal comma 2 dell'art. 6 della legge n. 317/1991.
 
+4.
+                    
+                        
+                            Ove gli investimenti siano effettuati, ai sensi dell'art. 3, entro detto termine perentorio, l'impresa beneficiaria, ai fini dell'erogazione del contributo, trasmette al Ministero dell'industria, del commercio e dell'artigianato:
+ 
+                        
+                        
+                            a)
+                            
+                                una domanda di erogazione redatta sull'apposito modulo predisposto per la lettura ottica e conforme allo schema di cui all'allegato 7, che fa parte integrante del presente decreto, sottoscritta dal legale rappresentante. Detto modulo e' disponibile presso l'Associazione bancaria italiana, l'Unione italiana delle camere di commercio, industria, artigianato e agricoltura, l'Associazione istituti regionali di mediocredito - Assireme, l'Associazione italiana leasing - Assilea, l'Istituto centrale per il credito a medio termine - Mediocredito centrale, la Cassa per il credito alle imprese artigiane - Artigiancassa, gli istituti di credito, le societa' di locazione finanziaria, le camere di commercio, industria, artigianato ed agricoltura di ciascuna provincia e, d'intesa con queste ultime, le associazioni imprenditoriali. Il modulo predetto e' obbligatorio. Le domande redatte su moduli diversi o non originali saranno considerate nulle e rinviate al mittente. La domanda deve essere corredata da una certificazione rilasciata dal presidente del collegio sindacale. In mancanza del collegio sindacale, la certificazione puo' essere rilasciata da un revisore dei conti ovvero da un professionista iscritto all'albo dei dottori commercialisti o in quello dei ragionieri e periti commerciali;
+
+                            
+                        
+                        
+                            b)
+                            
+                                una perizia giurata, asseverata, redatta in conformita' allo schema di cui all'allegato 1/C, sottoscritta da un ingegnere o da un perito industriale iscritto nel rispettivo albo professionale;
+
+                            
+                        
+                        
+                            c)
+                            
+                                certificazione o autocertificazione "antimafia" ai sensi della legge 19 marzo 1990, n. 55, e successive modificazioni ed integrazioni.
+
 Gli investimenti oggetto della domanda di erogazione di cui all'allegato 7 devono essere quelli per i quali e' stato concesso il contributo in conto capitale. In tal caso la perizia giurata non deve essere collegata alla domanda di erogazione. In caso di variazioni, i beni oggetto della domanda di erogazione devono essere funzionalmente equivalenti a quelli oggetto della concessione. Tale equivalenza e' attestata dalla perizia giurata asseverata allegata a detta domanda di erogazione.
 
 Eventuali variazioni del costo complessivo dei beni oggetto dell'agevolazione sono considerate prive di efficacia, ai fini dell'erogazione dei contributi, in caso di aumento, mentre sono con- siderate valide in caso di diminuzione.
@@ -77,9 +102,144 @@ Gli investimenti possono essere effettuati mediante acquisizione o realizzazione
 
 Il costo dei beni fatturati in valuta estera deve essere determinato sulla base del tasso di cambio indicato nella dichiarazione di importazione.
 
+3.
+                    
+                        
+                            Gli investimenti si intendono effettuati ove:
+ 
+                        
+                        
+                            a)
+                            
+                                i beni siano stati tutti consegnati ovvero completamente realizzati;
+
+                            
+                        
+                        
+                            b)
+                            
+                                il relativo costo agevolabile sia stato interamente fatturato all'impresa acquirente, ovvero alla societa' di locazione finanziaria, nel caso di acqusizione mediante locazione finanziaria, fatta salva la quota del 10 per cento di cui al comma 1;
+
+                            
+                        
+                        
+                            c)
+                            
+                                l'impresa richiedente abbia effettuato pagamenti, corrisposto canoni o rate, pari ad almeno il 30% del costo agevolabile del totale dei beni oggetto della fatturazione.
+
 I costi per i corsi di formazione sono ammessi al credito di imposta o al contributo in conto capitale se i relativi contratti sono stati stipulati a decorrere dal 25 ottobre 1991.
 
+5.
+                    
+                        
+                            Ai fini della fruizione dell'agevolazione, sono considerati ininfluenti:
+ 
+                        
+                        
+                            a)
+                            
+                                le date degli ordini, dei contratti e delle bolle di consegna eventualmente antecedenti al 25 ottobre 1991;
+
+                            
+                        
+                        
+                            b)
+                            
+                                il numero dei sistemi, macchinari, apparecchiature o comunque dei beni indicati nella dichiarazione o domanda di contributo di cui all'allegato 1, ammissibili ad agevolazione ai sensi del presente decreto;
+
+                            
+                        
+                        
+                            c)
+                            
+                                il numero dei fornitori o dei produttori dei beni.
+
+6.
+                    
+                        
+                            Sono esclusi dalle agevolazioni:
+ 
+                        
+                        
+                            a)
+                            
+                                i beni consegnati ad imprese diverse dall'impresa richiedente, ovvero installati in unita' locali diverse da quelle indicate nella dichiarazione o nella domanda di contributo di cui all'allegato 1;
+
+                            
+                        
+                        
+                            b)
+                            
+                                gli investimenti fatturati, anche parzialmente, anteriormente al 25 ottobre 1991;
+
+                            
+                        
+                        
+                            c)
+                            
+                                gli investimenti non fatturati, fatta salva la quota del 10% di cui al comma 1;
+
+                            
+                        
+                        
+                            d)
+                            
+                                gli investimenti oggetto di autofatturazione;
+
+                            
+                        
+                        
+                            e)
+                            
+                                le imposte, le spese notarili, gli interessi passivi e tutti gli oneri accessori, ivi compresi il trasporto e l'imballaggio. Sono altresi' esclusi dalle agevolazioni il montaggio ed il collaudo, ove non fatturati, nonche' le opere murarie comunque connesse agli investimenti;
+
+                            
+                        
+                        
+                            f)
+                            
+                                il materiale di consumo e gli accessori non indispensabili al funzionamento del sistema o delle apparecchiature;
+
+                            
+                        
+                        
+                            g)
+                            
+                                gli investimenti per i quali siano state richieste o concesse altre agevolazioni previste dalla legge n. 317/1991, da altre normative statali, regionali o delle province autonome di Trento e Bolzano ovvero da azioni comunitarie cofinanziate, fatti salvi i benefici finanziari disposti direttamente con atti delle Comunita' europee.
+
 ## Art. 4. — Revoca delle agevolazioni
+
+1.
+                    
+                        
+                            Il Ministero dell'industria, del commercio e dell'artigianato, ai sensi dell'art. 13 della legge n. 317/1991, provvede alla revoca dei crediti d'imposta o dei contributi in conto capitale concessi, qualora:
+ 
+                        
+                        
+                            a)
+                            
+                                i beni oggetto dell'agevolazione risultino essere stati ceduti, alienati o distratti nei tre anni successivi alla data di concessione;
+
+                            
+                        
+                        
+                            b)
+                            
+                                i medesimi beni oggetto dell'agevolazione risultino essere stati ammessi anche ad altre agevolazioni previste dalla legge n. 317/1991, da altre normative statali, regionali o delle province autonome di Trento e Bolzano ovvero da azioni comunitarie cofinanziate, fatti salvi ove previsti i benefici finanziari disposti con atti delle Comunita' europee;
+
+                            
+                        
+                        
+                            c)
+                            
+                                la documentazione necessaria non sia stata completata entro il termine di 90 giorni dalla richiesta degli enti o degli istituti convenzionati con il Ministero dell'industria, del commercio e dell'artigianato;
+
+                            
+                        
+                        
+                            d)
+                            
+                                i controlli effettuati dai medesimi enti ed istituti o gli eventuali ulteriori accertamenti disposti dal Ministero stesso ai sensi dell'art. 4 della legge n. 317/1991, evidenzino l'insussistenza delle condizioni previste dagli articoli 5 e 12 della legge nonche' del presente decreto.
 
 In caso di revoca del credito di imposta, il Ministero dell'industria, del commercio e dell'artigianato ne da' immediata comunicazione al Ministero delle finanze.
 

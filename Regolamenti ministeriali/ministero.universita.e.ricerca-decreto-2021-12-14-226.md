@@ -7,8 +7,8 @@ urn: urn:nir:ministero.universita.e.ricerca:decreto:2021-12-14;226
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:38Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -30,15 +30,262 @@ Finalita' e ambito di applicazione
 
 Il dottorato di ricerca fornisce le competenze necessarie per esercitare, presso universita', enti pubblici o soggetti privati, attivita' di ricerca di alta qualificazione, anche ai fini dell'accesso alle carriere nelle amministrazioni pubbliche e dell'integrazione di percorsi professionali di elevata innovativita'.
 
+2.
+                    
+                        
+                            La formazione dottorale, in coerenza con i principi e gli indirizzi condivisi a livello europeo, consente di: 
+ 
+                        
+                        
+                            a)
+                            
+                                concepire, progettare, realizzare e adattare in autonomia programmi di ricerca ovvero di innovazione; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                condurre analisi critiche, valutazioni e sintesi di idee e processi, nuovi e complessi, nelle istituzioni di ricerca, nel sistema produttivo, nella pubblica amministrazione e nell'ambito delle libere professioni; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                contribuire, grazie all'acquisizione di nuove competenze scientifiche e trasversali, al perseguimento degli Obiettivi per lo sviluppo sostenibile individuati dall'Assemblea generale delle Nazioni Unite, ai traguardi indicati nell'Agenda 2030 per lo Sviluppo Sostenibile e alle loro declinazioni nelle politiche europee; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                contribuire alla realizzazione dello Spazio europeo della ricerca e dell'istruzione superiore, tenendo conto dei relativi Standard e Linee guida per l'assicurazione della qualita'.
+
+3.
+                    
+                        
+                            Per conseguire gli obiettivi di cui al comma 1, sulla base dei «Principi per una formazione dottorale innovativa» approvati in sede europea, la formazione dottorale: 
+ 
+                        
+                        
+                            a)
+                            
+                                persegue l'avanzamento delle conoscenze attraverso la formazione alla ricerca di base e alla ricerca applicata, nonche' l'eccellenza sulla base di standard accademici stabiliti tramite procedure di revisione tra pari; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                e' svolta in un ambiente istituzionale attrattivo e criticamente stimolante, nel quale il dottorando puo' acquisire autonomia e responsabilita' utili al successivo percorso professionale; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                promuove opportunita' di formazione interdisciplinare, multidisciplinare e transdisciplinare, anche in ambiti non accademici, quali il settore industriale, della pubblica amministrazione, dei servizi e delle istituzioni culturali, con il coinvolgimento di esperti del settore nelle attivita' formative; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                contribuisce al rafforzamento delle relazioni transnazionali e internazionali nel campo della ricerca, anche attivando dottorati congiunti e forme di co-tutela, e assicura, coerentemente con il progetto di ricerca sviluppato dal dottorando, periodi di mobilita' all'estero di durata congrua rispetto al progetto dottorale; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                prevede l'acquisizione di competenze trasversali in modo da agevolare il loro trasferimento e il loro sviluppo in ambito scientifico e professionale; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                si realizza nell'ambito di un sistema di assicurazione della qualita', distinto da quello previsto per il primo e secondo ciclo della formazione universitaria, finalizzato a migliorare la qualita' dell'ambiente di ricerca e a definire procedure trasparenti e responsabili per l'ammissione, la supervisione, il rilascio del titolo e lo sviluppo professionale dei dottorandi.
+
+4.
+                    
+                        
+                            Il presente regolamento individua: 
+ 
+                        
+                        
+                            a)
+                            
+                                i soggetti che possono richiedere l'accreditamento dei corsi e delle relative sedi, e i requisiti a tal fine previsti; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                le modalita' e i criteri di accreditamento dei corsi di dottorato e delle relative sedi; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                le condizioni che determinano la revoca dell'accreditamento nonche' le modalita' di monitoraggio e di valutazione degli obiettivi formativi conseguiti, anche in termini di inserimento professionale; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                le modalita' di accesso ai corsi di dottorato, e i diritti e doveri dei dottorandi; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                i criteri e le regole generali per l'istituzione e il funzionamento dei corsi di dottorato, disciplinati dai regolamenti di dottorato delle universita'; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                le modalita' di finanziamento dei corsi di dottorato e di raccolta dei dati relativi alle attivita' svolte durante i corsi.
+
 ## Art. 2. — Definizioni
+
+1.
+                    
+                        
+                            Ai fini del presente regolamento si intendono: 
+ 
+                        
+                        
+                            a)
+                            
+                                per Ministro e per Ministero, il Ministro dell'universita' e della ricerca e il Ministero dell'universita' e della ricerca; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                per Universita', le universita' italiane, statali e non statali legalmente riconosciute, ivi compresi gli istituti di istruzione universitaria a ordinamento speciale; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                per ANVUR, l'Agenzia nazionale di valutazione del sistema universitario e della ricerca, di cui all'articolo 2, comma 138, del decreto-legge 3 ottobre 2006, n. 262, convertito, con modificazioni, dalla legge 24 novembre 2006, n. 286, nonche' al decreto del Presidente della Repubblica 1° febbraio 2010, n. 76.
 
 ## Art. 3. — Soggetti che possono richiedere l'accreditamento
 
 Il Ministro dispone, su conforme parere dell'ANVUR, l'accreditamento dei corsi di dottorato proposti dalle Universita', in coerenza con gli Standard e le Linee guida condivisi a livello europeo, che sviluppano una specifica, ampia, originale, qualificata e continuativa attivita', sia didattica che di ricerca, adeguatamente riconosciuta a livello internazionale nei settori di interesse per il dottorato.
 
+2.
+                    
+                        
+                            Le Universita' possono richiedere l'accreditamento dei corsi e delle relative sedi anche in forma associata mediante la stipula di convenzioni o la costituzione di consorzi, che possono essere sede amministrativa dei corsi, con uno o piu' dei seguenti soggetti: 
+ 
+                        
+                        
+                            a)
+                            
+                                altre Universita' italiane o universita' estere, con possibilita' di rilascio del titolo finale multiplo o congiunto; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                enti di ricerca pubblici o privati, italiani o esteri, in possesso di requisiti di elevata qualificazione culturale e scientifica e dotati di strutture e attrezzature scientifiche idonee; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                istituzioni di cui all'articolo 2, comma 1, della legge 21 dicembre 1999, n. 508, accreditate ai sensi dell'articolo 15 del presente regolamento, con possibilita' di rilascio del titolo finale multiplo o congiunto; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                imprese, anche estere, che svolgono una qualificata attivita' di ricerca e sviluppo; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                pubbliche amministrazioni, istituzioni culturali e infrastrutture di ricerca di rilievo europeo o internazionale, per la realizzazione di specifici programmi di ricerca e sviluppo ovvero di innovazione.
+
 Alle istituzioni che rilasciano titoli equipollenti al titolo di dottore di ricerca, ai sensi dell'articolo 74 del decreto del Presidente della Repubblica 11 luglio 1980, n. 382, si applicano le procedure e i requisiti di accreditamento dei corsi e delle sedi di cui al presente regolamento.
 
 ## Art. 4. — Requisiti per l'accreditamento dei corsi e delle sedi di dottorato di ricerca
+
+1.
+                    
+                        
+                            Sono requisiti necessari per l'accreditamento dei corsi e delle sedi di dottorato: 
+ 
+                        
+                        
+                            a)
+                            
+                                il rispetto dei seguenti criteri relativi alla composizione del collegio dei docenti, tenendo conto ove possibile dell'equilibrio di genere: 
+ 1) il collegio del dottorato e' costituito da un numero minimo di componenti, pari a dodici ovvero, nel caso di dottorati attivati dalle Scuole superiori di istruzione universitaria a ordinamento speciale, pari a sei, appartenenti ad ambiti scientifici coerenti con gli obiettivi formativi del corso. Il collegio e' costituito, per almeno la meta' dei componenti, da professori universitari di ruolo di prima o seconda fascia, e per la restante parte da ricercatori di ruolo di Universita' o enti pubblici di ricerca, ovvero, nel caso di dottorati in forma associata con enti pubblici di ricerca, anche da ricercatori appartenenti ai ruoli di dirigenti di ricerca, ricercatori o primi ricercatori degli enti stessi, ferma restando la quota minima dei professori. In ogni caso, i ricercatori appartenenti al collegio di dottorato devono essere in possesso di una qualificazione scientifica attestata sulla base dei requisiti necessari previsti dalla normativa vigente per l'accesso alle funzioni di professore di seconda fascia e i professori di una qualificazione scientifica attestata sulla base dei requisiti necessari previsti per l'accesso alle funzioni del ruolo di appartenenza; 
+ 2) i componenti dei collegi appartenenti a universita' o enti di ricerca esteri devono essere in possesso almeno dei requisiti minimi previsti dalla normativa vigente per l'accesso alle funzioni di professore di seconda fascia; 
+ 3) il coordinatore del dottorato deve essere in possesso di una elevata qualificazione scientifica, attestata sulla base dei requisiti previsti dalla normativa vigente per l'accesso alle funzioni di professore di prima fascia; 
+ 4) fermo restando quanto previsto ai numeri 1, 2 e 3, possono far parte del collegio di dottorato, nella misura massima di un terzo della composizione complessiva del medesimo, esperti, pur non appartenenti a Universita' o enti pubblici di ricerca, in possesso di elevata e comprovata qualificazione scientifica o professionale in ambiti di ricerca coerenti con gli obiettivi formativi del corso di dottorato; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                il numero delle borse di dottorato. A tal fine e' richiesto: 
+ 1) salvo che per le Scuole superiori di istruzione universitaria a ordinamento speciale, la disponibilita', per ciascun ciclo di dottorati da attivare, di un numero medio di almeno quattro borse di studio per corso di dottorato attivato, escludendo dal computo le borse assegnate ai dottorati attivati in convenzione o in consorzio, fermo restando che per il singolo corso di dottorato tale disponibilita' non puo' essere inferiore a tre; 
+ 2) nel caso di dottorati attivati ai sensi dell'articolo 3, comma 2, da due soggetti, ciascuno finanzia almeno due borse di studio; ove i soggetti siano superiori a due, il soggetto che e' sede amministrativa del corso finanzia almeno due borse e ciascun altro soggetto ne finanzia almeno una; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                congrui e stabili finanziamenti per la sostenibilita' del corso di dottorato, con specifico riferimento alla disponibilita' di borse di studio e al sostegno dell'attivita' dei dottorandi; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                strutture operative e scientifiche, specifiche e qualificate, per lo svolgimento dell'attivita' di studio e di ricerca dei dottorandi, adeguate al numero di borse di studio previste, ivi inclusi, in relazione alle specificita' proprie del corso, strutture di carattere assistenziale, laboratori scientifici, un adeguato patrimonio biblioteconomico, banche dati e risorse per il calcolo elettronico; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                attivita' di ricerca avanzata e attivita' di alta formazione, anche di tipo seminariale, ovvero svolte all'interno di laboratori o di infrastrutture di ricerca di livello e interesse europeo; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                attivita', anche in comune tra piu' corsi di dottorato, di formazione interdisciplinare, multidisciplinare e transdisciplinare, di perfezionamento linguistico e informatico, nonche' attivita' nel campo della didattica, della gestione della ricerca e della conoscenza dei sistemi di ricerca europei e internazionali, della valorizzazione e disseminazione dei risultati, della proprieta' intellettuale e dell'accesso aperto ai dati e ai prodotti della ricerca e dei principi fondamentali di etica e integrita'; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                un sistema di assicurazione della qualita' della progettazione e della gestione della formazione dottorale conforme agli Standard per l'assicurazione della qualita' nello Spazio europeo dell'istruzione superiore (EHEA), secondo le indicazioni dell'ANVUR.
 
 I requisiti di cui al comma 1 si applicano anche ai dottorati attivati ai sensi all'articolo 3, comma 2. In tali casi, i soggetti partecipanti garantiscono ai dottorandi, in maniera continuativa, l'effettiva condivisione delle strutture e delle attivita' di alta formazione e di ricerca, e prevedono attivita' formative comuni, anche a rotazione tra le sedi.
 
@@ -77,6 +324,24 @@ Le Universita' possono organizzare i corsi di dottorato in Scuole di dottorato, 
 
 ## Art. 7. — Corsi di dottorato e scuole di specializzazione mediche
 
+1.
+                    
+                        
+                            Fermo restando quanto previsto dall'articolo 8, comma 1, le Universita' disciplinano con regolamento le modalita' di svolgimento della frequenza congiunta del corso di dottorato e di un corso di specializzazione medica, nel rispetto delle seguenti condizioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                compatibilita', anche in considerazione della distanza tra le sedi, delle attivita' e dell'impegno previsti dalla scuola di specializzazione e dal corso di dottorato, attestata dal consiglio della scuola di specializzazione medica e dal collegio di dottorato; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                incompatibilita' tra la borsa di dottorato e gli emolumenti, comunque denominati, percepiti in relazione alle attivita' della scuola di specializzazione.
+
 Nei casi di frequenza congiunta di cui al presente articolo, la domanda di riduzione delle attivita' dottorali e' accolta dal collegio dei docenti del corso di dottorato, previa valutazione positiva della coerenza delle attivita' di ricerca, gia' svolte nel corso di specializzazione medica, con il progetto dottorale. Ai fini dell'accoglimento della domanda di cui al presente comma, e' richiesto, altresi', il giudizio di compatibilita', espresso dal consiglio della scuola di specializzazione, del progetto dottorale con le finalita' didattiche della scuola di specializzazione medesima. Nel caso di accoglimento della domanda di cui al presente comma, il corso di dottorato ha durata comunque non inferiore a due anni.
 
 ## Art. 8.
@@ -88,6 +353,24 @@ Per l'ammissione al corso di dottorato e' indetta, almeno una volta all'anno, un
 Il bando per l'ammissione al corso di dottorato, redatto in italiano e in inglese, e' pubblicato, per almeno trenta giorni, sul sito del soggetto accreditato, sul sito europeo Euraxess e sul sito del Ministero. Il bando indica i criteri di accesso e di valutazione dei titoli, la presenza di eventuali prove scritte, inclusi test riconosciuti a livello internazionale, nonche' le modalita' di svolgimento dei colloqui, che possono prevedere anche la presentazione e la discussione di un progetto di ricerca. Se il bando riserva una quota di posti a studenti laureati in universita' estere, ai sensi del comma 4, ovvero a borsisti di Stati esteri o a specifici programmi di mobilita' internazionale, i soggetti accreditati possono stabilire modalita' differenziate di svolgimento della procedura di ammissione e formano, in tal caso, una graduatoria separata. I posti riservati non attribuiti possono essere resi disponibili per altre procedure di selezione di cui al comma 1.
 
 Il bando reca l'indicazione del numero delle borse di dottorato e delle eventuali altre forme di sostegno finanziario.
+
+4.
+                    
+                        
+                            I bandi di selezione possono prevedere: 
+ 
+                        
+                        
+                            a)
+                            
+                                l'ammissione di idonei al corso in caso di rinuncia dei vincitori o se si rendono disponibili ulteriori risorse, entro i termini stabiliti dai regolamenti di ateneo; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                la riserva di una quota delle borse e delle altre forme di sostegno finanziario a favore di soggetti che hanno conseguito, presso universita' estere, il titolo di studio richiesto per l'ammissione al corso di dottorato.
 
 Nel caso di progetti di collaborazione nazionali, europei e internazionali, possono essere previste specifiche procedure di ammissione e modalita' organizzative, in relazione alle caratteristiche dei singoli progetti di dottorato attivati nell'ambito di corsi di dottorato accreditati.
 
@@ -125,13 +408,88 @@ Fatte salve le verifiche relative al completamento del programma delle attivita'
 
 I soggetti di cui all'articolo 3, in sede di accreditamento iniziale o successivamente, possono chiedere il riconoscimento della qualificazione di «dottorato industriale», anche come parte della denominazione, per i corsi di dottorato attivati sulla base di convenzioni o consorzi che comprendano anche soggetti di cui all'articolo 3, comma 2, lettera d), che svolgono attivita' di ricerca e sviluppo.
 
+2.
+                    
+                        
+                            Le convenzioni di cui al comma 1 disciplinano: 
+ 
+                        
+                        
+                            a)
+                            
+                                le modalita' di coordinamento delle attivita' di ricerca tra le parti; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                le modalita' di svolgimento delle attivita' di ricerca presso l'impresa, nonche', relativamente ai possibili posti coperti da dipendenti delle imprese, la ripartizione dell'impegno complessivo del dipendente e la durata del corso di dottorato; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                i meccanismi incentivanti al fine di promuovere il trasferimento tecnologico e lo sviluppo dei risultati dell'attivita' di ricerca da parte delle imprese convenzionate.
+
 Le tematiche di ricerca caratterizzanti il corso di dottorato industriale riconoscono particolare rilievo alla promozione dello sviluppo economico e del sistema produttivo, facilitando la progettazione congiunta in relazione alle tematiche della ricerca e alle attivita' dei dottorandi.
+
+4.
+                    
+                        
+                            I bandi per l'ammissione ai corsi di dottorato industriale, in coerenza con gli indirizzi definiti in sede europea e con le strategie di sviluppo del sistema nazionale nonche' nel rispetto dei principi di cui all'articolo 1, possono: 
+ 
+                        
+                        
+                            a)
+                            
+                                indicare specifici requisiti per lo svolgimento delle attivita' di ricerca, quali l'interdisciplinarita', l'adesione a reti internazionali e l'intersettorialita', con particolare riferimento al settore delle imprese; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                destinare una quota dei posti disponibili ai dipendenti delle imprese o degli enti convenzionati impegnati in attivita' di elevata qualificazione, ammessi al dottorato a seguito del superamento della relativa selezione.
 
 Resta in ogni caso ferma la possibilita' di cui all'articolo 45 del decreto legislativo 15 giugno 2015, n. 81, di attivare contratti di apprendistato finalizzati alla formazione del dottorato industriale, garantendo comunque la prevalenza dell'attivita' di ricerca. Tali contratti di apprendistato sono considerati equivalenti alle borse di dottorato ai fini del computo del numero minimo necessario per l'attivazione del corso.
 
 ## Art. 11. — Dottorati di interesse nazionale
 
 Il Ministero favorisce l'attivazione dei dottorati di interesse nazionale e ne prevede le modalita' di cofinanziamento.
+
+2.
+                    
+                        
+                            Si definisce di interesse nazionale un corso di dottorato che presenta i seguenti requisiti: 
+ 
+                        
+                        
+                            a)
+                            
+                                contribuisce in modo comprovato al progresso della ricerca, anche attraverso il raggiungimento di obiettivi specifici delle aree prioritarie di intervento del Piano nazionale di ripresa e resilienza, ivi compresi quelli connessi alla valorizzazione dei corsi di dottorato innovativo per la pubblica amministrazione e per il patrimonio culturale, ovvero del Programma nazionale per la ricerca o dei relativi Piani nazionali; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                prevede, gia' in fase di accreditamento, la stipula di convenzioni o la costituzione di consorzi fra piu' Universita', nonche' con istituzioni di ricerca di alta qualificazione e di riconosciuto livello internazionale, anche estere, che prevedono la effettiva condivisione delle attivita' formative e di ricerca, le modalita' di regolazione delle forme di sostegno finanziario, le modalita' di scambio e di mobilita' dei docenti e dei dottorandi ed eventuali forme di co-tutela; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                prevede, gia' in fase di accreditamento, il coordinamento e la progettazione congiunta delle attivita' di ricerca tra almeno una Universita' e almeno quattro soggetti di cui all'articolo 3, comma 2, per realizzare percorsi formativi di elevata qualificazione e consentire l'accesso a infrastrutture di ricerca idonee alla realizzazione dei progetti di ricerca dei dottorandi; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                prevede, per ciascun ciclo di dottorato, almeno trenta borse di studio, ciascuna di importo determinato ai sensi dell'articolo 9, comma 3, fermo restando che la quota per il sostegno alle attivita' di ricerca e formazione del dottorando e' incrementata, a valere sul cofinanziamento ministeriale, in misura pari al venti per cento dell'importo della borsa.
 
 I soggetti di cui al comma 2, lettera c), assegnano le borse di studio per il dottorato di interesse nazionale con le modalita' di cui all'articolo 8, previa valutazione dei candidati da parte di una commissione formata in modo da assicurare la partecipazione di componenti stranieri o esterni ai soggetti convenzionati.
 
@@ -154,6 +512,123 @@ Ferma restando l'applicazione delle norme a tutela della genitorialita' di cui a
 I regolamenti di ateneo prevedono una rappresentanza dei dottorandi nel collegio di dottorato per la trattazione dei problemi didattici e organizzativi.
 
 ## Art. 13. — Valutazione e finanziamento dei corsi di dottorato
+
+1.
+                    
+                        
+                            I soggetti accreditati finanziano i corsi di dottorato con: 
+ 
+                        
+                        
+                            a)
+                            
+                                fondi propri; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                fondi del Ministero a valere sulle linee di finanziamento previste a legislazione vigente; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                finanziamenti previsti nell'ambito delle forme associative di cui all'articolo 3, comma 2; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                fondi di altri ministeri o altri soggetti pubblici o privati; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                bandi competitivi a livello nazionale, europeo e internazionale.
+
+2.
+                    
+                        
+                            Il finanziamento di cui al comma 1, lettera b), e' ripartito annualmente con decreto del Ministro sulla base dei seguenti criteri generali: 
+ 
+                        
+                        
+                            a)
+                            
+                                produttivita' e qualita' dell'attivita' di ricerca svolta dai docenti del collegio e dai dottorandi e dottori di ricerca; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                grado di internazionalizzazione del dottorato, rilevato in base alla proporzione di dottorandi o di docenti provenienti dall'estero e in base alla valorizzazione dei periodi di frequenza all'estero; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                attrattivita' del dottorato misurata sulla base del numero di dottorandi ammessi al corso che non hanno conseguito la laurea magistrale nella medesima sede o in sedi con essa consorziate o convenzionate ai sensi all'articolo 3, comma 2; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                dotazione di servizi, risorse infrastrutturali e risorse finanziarie, a disposizione del dottorato e dei dottorandi, anche a seguito di processi di fusione o di federazione tra atenei; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                sbocchi occupazionali dei dottori di ricerca; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                attivita' di valorizzazione dei risultati della ricerca, svolte dai membri del collegio dei docenti, dai dottorandi e dai dottori di ricerca che hanno conseguito il titolo, adeguatamente documentate con modalita' che consentono all'ANVUR di valutarne l'impatto; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                numero di borse di studio finanziate dai soggetti esterni; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                grado di soddisfazione dei dottorandi relativamente al corso frequentato, rilevato tramite appositi questionari anonimi.
+
+3.
+                    
+                        
+                            Nell'ambito delle assegnazioni annuali per le attivita' di formazione successive al conseguimento della laurea magistrale, il Ministero puo' destinare una quota dei fondi disponibili a una o piu' delle seguenti finalita': 
+ 
+                        
+                        
+                            a)
+                            
+                                cofinanziamento di borse di dottorato, assegnate ai dottorati d'interesse nazionale di cui all'articolo 11; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                incentivazione dei corsi di dottorato di cui all'articolo 3, comma 2.
 
 ## Art. 14. — Anagrafe dei dottorati e banca dati delle tesi di dottorato
 

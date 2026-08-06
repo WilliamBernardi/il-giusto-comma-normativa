@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Leggi delega e relativi provvedimenti delegati
 vigenza_date: 2012-08-12
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:41:17Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -81,6 +81,67 @@ Al fine di rafforzare la competitivita' tecnologica dei settori produttivi e di 
 
 Per ricerca industriale e sviluppo precompetitivo si intendono le attivita' cosi' definite dalla disciplina comunitaria vigente in materia di aiuti di Stato alla ricerca e sviluppo. Ai fini dell'ammissione agli interventi di sostegno di cui al presente titolo, la ricerca industriale puo' prevedere anche attivita' non preponderanti di sviluppo precompetitivo per la validazione dei risultati.
 
+3.
+                        
+                            
+                                Ai sensi del presente titolo si intendono: 
+ 
+                            
+                            
+                                a)
+                                
+                                    per imprese, i soggetti di cui all'articolo 2, comma 1, lettere a) e b); 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    per centri di ricerca, i soggetti di cui all'articolo 2, comma 1, lettera c); 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    per soggetti industriali, quelli di cui all'articolo 2, comma 1, lettere a), b) e c); 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    per soggetti assimilati, quelli di cui all'articolo 2, comma 1, lettera d); 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    per soggetti assimilati in fase d'avvio, quelli di cui all'articolo 2, comma 1, lettera e); 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    per soggetti associati, quelli di cui all'articolo 2, comma 2; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    per aree depresse del paese, quelle di cui agli obiettivi 1, 2 e 5 b), di cui al regolamento (CEE) 2052/88 del consiglio del 24 giugno 1988, relativo ai fondi strutturali dell'Unione europea e successive modificazioni, nonche' le zone ammesse a deroga ai sensi dell'articolo 92.3, lettere a) e c), del Trattato di Roma; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    per CIVR, il comitato di indirizzo per la valutazione della ricerca, di cui all'articolo 5 del decreto legislativo 5 giugno 1998, n. 204. 
+((4))
+
 ------------
                             AGGIORNAMENTO (4)
                             
@@ -89,9 +150,97 @@ Per ricerca industriale e sviluppo precompetitivo si intendono le attivita' cosi
 
 ## Art. 2. — Soggetti ammissibili
 
+1.
+                        
+                            
+                                Sono soggetti ammissibili agli interventi di cui al presente titolo: 
+ 
+                            
+                            
+                                a)
+                                
+                                    le imprese che esercitano le attivita' di cui all'articolo 2195 del codice civile, numeri 1) e 3); 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le imprese artigiane di produzione di cui alla legge 8 agosto 1985, n. 443; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    i centri di ricerca con personalita' giuridica autonoma promossi dai soggetti di cui alle lettere a) e b); 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    societa', consorzi e societa' consortili comunque costituite, con partecipazione in ogni caso superiore al 50 per cento, ovvero al 30 per cento se hanno sede in aree depresse, da imprese e centri di ricerca di cui alle lettere a), b) e c), nonche' eventualmente da altri soggetti tra: universita', enti di ricerca, ENEA, ASI, societa' di assicurazione, banche iscritte all'albo di cui all'articolo 13 del decreto legislativo 1 settembre 1993, n. 385, intermediari finanziari iscritti nell'elenco generale di cui all'articolo 106 del decreto legislativo 1 settembre 1993, n. 385, fondi mobiliari chiusi istituiti con legge 14 agosto 1993, n. 344, societa' finanziarie per l'innovazione e lo sviluppo istituite con l'articolo 2 della legge 31 luglio 1991, n. 317, fondi mobiliari chiusi di cui all'articolo 37 del decreto legislativo 24 febbraio 1998, n. 58, intermediari finanziari iscritti all'albo di cui all'articolo 107 del decreto legislativo 1 settembre 1993, n. 385; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    societa' di recente costituzione ovvero da costituire, finalizzate all'utilizzazione industriale dei risultati della ricerca, per le attivita' di cui all'articolo 3, comma 1, lettera b), numero 1, con la partecipazione azionaria o il concorso, o comunque con il relativo impegno di tutti o alcuni tra i seguenti soggetti: 
+ 1) professori e ricercatori universitari, personale di ricerca dipendente da enti di ricerca, ENEA e ASI, nonche' dottorandi di ricerca e titolari di assegni di ricerca di cui all'articolo 51, comma 6, della legge 27 dicembre 1997, n. 449, sulla base di regolamenti delle universita' e degli enti di appartenenza, che ne disciplinino la procedura autorizzativa e il collocamento in aspettativa ovvero il mantenimento in servizio o nel corso di studio, nonche' le questioni relative ai diritti di proprieta' intellettuale e che definiscano le limitazioni volte a prevenire i conflitti di interesse con le societa' costituite o da costituire; 
+ 2) soggetti di cui alle lettere a), b), c), d) e f); 
+ 3) societa' di assicurazione, banche iscritte all'albo di cui all'articolo 13 del decreto legislativo 1 settembre 1993, n. 385, intermediari finanziari iscritti nell'elenco generale di cui all'articolo 106 del decreto legislativo 1 settembre 1993, n. 385, fondi mobiliari chiusi istituiti con legge 14 agosto 1993, n. 344, societa' finanziarie per l'innovazione e lo sviluppo istituite con l'articolo 2 della legge n. 317 del 31 luglio 1991, fondi mobiliari chiusi di cui all'articolo 37 del decreto legislativo 24 febbraio 1998, n. 58, intermediari finanziari iscritti all'albo di cui all'articolo 107 del decreto legislativo 1 settembre 1993, n. 385; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    universita', enti di ricerca anche a carattere regionale, ENEA ed ASI per i casi di cui alle lettere d) ed e) e al comma 2, nonche' per le attivita' di cui all'articolo 3, comma 1, lettera c), numero 2 e per attivita', proposte in collaborazione con i soggetti di cui alle lettere a), b), c), d), e), di ricerca e di alta formazione tecnologica finalizzate agli obiettivi di cui all'articolo 1, comma 1; 
+
+                                
+                            
+                            
+                                f-bis)
+                                
+                                    i parchi scientifici e tecnologici istituiti con legge regionale;
+
 I soggetti industriali possono presentare i progetti di cui all'articolo 3, comma 1, lettera a), numeri 1, 2 e 3, nonche' comma 1, lettera d), numero 2, anche congiuntamente con universita', enti di ricerca, ENEA ed ASI. Nel caso di progetti relativi ad attivita' svolte nelle aree depresse del paese, la partecipazione finanziaria dei soggetti industriali non puo' essere inferiore al 30 per cento dell'impegno finanziario previsto. Per progetti relativi ad attivita' svolte nelle restanti aree del paese la predetta percentuale non puo' essere inferiore al 51 per cento.
 
 I soggetti di cui al comma 1 accedono agli interventi di cui al presente titolo esclusivamente se hanno stabile organizzazione sul territorio nazionale.
+
+3-bis.
+                        
+                            
+                                Ai fini della semplificazione dei rapporti istruttori e di gestione dei progetti di ricerca, per ciascun progetto i partecipanti possono individuare tra di loro un soggetto capofila. Il ricorso a tale soluzione organizzativa e' incentivato secondo modalita' e criteri fissati ai sensi dell'articolo 6, comma 2. Il soggetto capofila assolve i seguenti compiti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    rappresenta le imprese ed enti partecipanti nei rapporti con l'amministrazione che concede le agevolazioni, anche ai fini dell'avvalimento e della garanzia dei requisiti; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    ai fini dell'accesso alle agevolazioni, presenta in nome proprio e per conto delle altre imprese ed enti partecipanti, la proposta o progetto di ricerca e le eventuali variazioni degli stessi; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    richiede, in nome proprio e per conto delle imprese ed enti che realizzano i progetti e gli interventi, le erogazioni per stato di avanzamento, attestando la regolare esecuzione dei progetti e degli investimenti stessi nonche' delle eventuali variazioni; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    effettua il monitoraggio periodico sullo svolgimento del programma.
 
 E' consentita la variazione non rilevante dei progetti di ricerca industriale, in termini soggettivi nel limite del venti per cento dei soggetti che rappresentano il raggruppamento proponente, in qualsiasi forma giuridica organizzato e fatto salvo il minimo di uno, oppure in termini oggettivi di rappresentanza partecipativa fino al limite del venti per cento del valore del progetto, in fase di valutazione preventiva degli stessi ai fini dell'ammissione al finanziamento, nel caso in cui altri soggetti partecipanti alla compagine dimostrino di poter surrogare il soggetto rinunciatario o escluso per motivazioni di carattere economico-finanziario senza alterare la qualita' e il valore del progetto, garantendo il raggiungimento degli obiettivi dichiarati.
 
@@ -113,6 +262,50 @@ Le variazioni del progetto senza aumento di spesa approvate in ambito comunitari
 
 ## Art. 3. — Attivita' finanziabili
 
+1.
+                        
+                            
+                                Sono ammissibili per: 
+ 
+                            
+                            
+                                a)
+                                
+                                    interventi di sostegno su progetti o programmi di ricerca industriale, come definita all'articolo 1, comma 2: 
+ 1) le attivita' svolte in ambito nazionale, sulla base di progetti autonomamente presentati da soggetti industriali, assimilati e associati; 
+ 2) le attivita' svolte nel quadro di programmi dell'Unione europea o di accordi internazionali, sulla base di progetti autonomamente presentati da soggetti industriali, assimilati e associati , nonche' sulla base di progetti cofinanziati dall'Unione europea a seguito di bandi internazionali di ricerca industriale; 
+ 2-bis) le attivita' di assistenza a soggetti individuali, assimilati e associati ai fini della predisposizione di progetti da presentare nell'ambito degli interventi previsti da programmi dell'Unione europea; 
+ 3) le attivita' svolte sulla base di progetti predisposti in conformita' a bandi emanati dal MURST per obiettivi specifici, da parte di soggetti industriali, assimilati e associati; 
+ 4) i contratti affidati da soggetti industriali e assimilati ad universita', enti di ricerca, ENEA, ASI e fondazioni private che svolgono attivita' di ricerca; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    altri interventi di sostegno su progetto o programma: 
+ 1) le attivita' di ricerca industriale, sviluppo precompetitivo, diffusione di tecnologie, fino all'avvio e comunque finalizzate a nuove iniziative economiche ad alto contenuto tecnologico, per l'utilizzazione industriale dei risultati della ricerca da parte di soggetti assimilati in fase d'avvio, su progetto o programma presentato anche da coloro che si impegnano a costituire o a concorrere alla nuova societa'; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    interventi di sostegno all'occupazione nella ricerca industriale, come definita ai sensi dell'articolo 1, comma 2, alla mobilita' temporanea dei ricercatori e alla connessa diffusione delle tecnologie: 
+ 1) le assunzioni di titolari di diploma universitario, di diploma di laurea, di specializzazione e di dottorato di ricerca per avviamento ad attivita' di ricerca, da parte di soggetti industriali e assimilati; 
+ 2) i distacchi temporanei di cui al comma 2; 
+ 3) l'alta formazione di ricercatori e tecnici di ricerca operanti nel settore industriale; 
+ 4) l'assunzione, da parte di soggetti industriali e assimilati, di oneri relativi a borse di studio concesse per la frequenza a corsi di dottorato di ricerca, nonche' ad assegni di ricerca di cui all'articolo 51, comma 6, della legge 27 dicembre 1997, n. 449, nel caso il relativo programma di ricerca sia concordato con il medesimo soggetto industriale o assimilato; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    interventi di sostegno ad infrastrutture, strutture e servizi per la ricerca industriale, come definita ai sensi dell'articolo 1, comma 2, e per la diffusione delle tecnologie: 
+ 1) l'affidamento da parte di soggetti industriali e assimilati a laboratori di ricerca esterni pubblici e privati, dei quali si sia accertata la qualificazione e l'idoneita', di studi e ricerche sui processi produttivi, di attivita' applicative dei risultati della ricerca, di formazione del personale tecnico per l'utilizzazione di nuove tecnologie, di prove e test sperimentali; 
+ 2) la realizzazione, l'ampliamento, la ristrutturazione, la delocalizzazione, il riorientamento, il recupero di competitivita', la trasformazione, l'acquisizione di centri di ricerca, nonche' il riorientamento e il recupero di competitivita' di strutture di ricerca di soggetti industriali e assimilati, con connesse attivita' di riqualificazione e formazione del personale.
+
 Il personale di ricerca, dipendente da enti di ricerca, ENEA, ASI, nonche' i professori e i ricercatori universitari, possono essere temporaneamente distaccati, ai sensi del presente comma, presso soggetti industriali e assimilati, con priorita' per piccole e medie imprese nonche' presso i soggetti assimilati in fase d'avvio e le iniziative economiche di cui al comma 1, lettera b), numero 1), su richiesta degli stessi soggetti e previo assenso dell'interessato, per un periodo non superiore a quattro anni, rinnovabile una sola volta. Il personale distaccato mantiene il rapporto di lavoro con il soggetto da cui dipende e l'annesso trattamento economico e contributivo. Il servizio prestato durante il periodo di distacco costituisce titolo valutabile per le valutazioni comparative per la copertura di posti vacanti di professore universitario e per l'accesso alle fasce superiori del personale di ricerca degli enti.
 Il distacco avviene sulla base di intese tra le parti che regolano le funzioni, le modalita' di inserimento e l'attribuzione di un compenso aggiuntivo da parte del destinatario. Le universita' e gli enti di ricerca, nell'ambito della programmazione del personale, l'ENEA, l'ASI, possono ricevere contributi a valere sul Fondo di cui all'articolo 5, per assunzioni a termine in sostituzione del personale distaccato.((4))
 
@@ -123,6 +316,59 @@ Il distacco avviene sulla base di intese tra le parti che regolano le funzioni, 
  b) il decreto legislativo 27 luglio 1999, n. 297, e successive modificazioni".
 
 ## Art. 4. — Strumenti
+
+1.
+                        
+                            
+                                Sono strumenti di intervento: 
+ 
+                            
+                            
+                                a)
+                                
+                                    i contributi a fondo perduto; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il credito agevolato; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    i contributi in conto interessi; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    i crediti di imposta ai sensi dell'articolo 5 della legge 27 dicembre 1997, n. 449, con le integrazioni di cui al comma 2; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    la prestazione di garanzie; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    gli atti di cui all'articolo 2, commi da 203 a 207, della legge 23 dicembre 1996, n. 662, in conformita' alle delibere del Comitato interministeriale per la programmazione economica (CIPE); 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    il bonus fiscale, ai sensi dell'articolo 7, commi 1 e 4, del decreto legislativo 31 marzo 1998, n. 123.
 
 I crediti di cui all'articolo 5 della legge 27 dicembre 1997, n. 449, possono essere erogati anche per le attivita' di cui all'articolo 3, comma 1, lettera b), numero 1), anche con riferimento agli utili e alle plusvalenze derivanti dalle partecipazioni ivi previste e alle imposte sostitutive dovute dai fondi mobiliari chiusi, in conformita' ad apposite modifiche e integrazioni del decreto interministeriale 22 luglio 1998, n. 275, nonche' nei limiti delle disponibilita' finanziarie di cui all'articolo 5, comma 7, della legge 27 dicembre 1997, n. 449.
 
@@ -214,6 +460,54 @@ Restano valide fino alla scadenza , integrate per quanto necessario ai fini dell
 
 Entro il 31 dicembre 1999 il MURST assume la gestione diretta delle attivita' svolte in regime di convenzione dall'IMI (ora San Paolo-IMI), ovvero nell'ambito dei decreti di cui all'articolo 6, comma 2, e' deliberato l'affidamento di tali attivita' a terzi mediante appalti di servizi ai sensi della normativa vigente in materia. Alla scadenza del predetto termine, in caso di assunzione della gestione diretta, ovvero alla data di conclusione della procedura di appalto, e' risolta di diritto la convenzione con l'Istituto mobiliare italiano (IMI), di cui all'articolo 4 della legge 25 ottobre 1968, n. 1089, e successive modificazioni e integrazioni, fatto salvo che per la gestione dei contratti stipulati, nonche' per le attivita' istruttorie e gestionali di natura economico-finanziaria, comprese la stipula e la gestione dei contratti, relativamente alle domande di agevolazione presentate fino alla data del 31 dicembre 1999 ai sensi degli articoli 4, 5, 6, 7, 9 e 11 del decreto del Ministro dell'universita' e della ricerca scientifica e tecnologica 8 agosto 1997, pubblicato nel supplemento ordinario alla Gazzetta Ufficiale n. 270 del 19 novembre 1997, degli articoli da 8 a 13 della legge 17 febbraio 1982, n. 46, e successive modificazioni, dell'articolo 11 del decreto-legge 16 maggio 1994, n. 299, convertito, con modificazioni, dalla legge 19 luglio 1994, n. 451, e successive modificazioni, limitatamente alle domande presentate nell'esercizio 1997, dell'articolo 14 della legge 24 giugno 1997, n. 196, e successive modificazioni, con esclusivo riferimento all'esercizio 1998, nonche' per la completa dismissione della propria quota di partecipazione al capitale delle societa' di ricerca istituite ai sensi dell'articolo 2, primo comma, lettera d), della citata legge n. 46 del 1982, e successive modificazioni.
 
+4.
+                        
+                            
+                                A decorrere dalla data di entrata in vigore del primo decreto di cui all'articolo 6, comma 2: 
+
+                            
+                            
+                                a)
+                                
+                                    sono abrogate le seguenti disposizioni: 
+ 1) articolo 4 della legge 25 ottobre 1968, n. 1089, salvo il primo periodo del comma 1; 
+ 2) articoli 2 e 3 della legge 14 ottobre 1974, n. 652; 
+ 3) articolo 70, commi 3, 4 e 5 del decreto del Presidente della Repubblica 6 marzo 1978, n. 218; 
+ 4) articoli dal 2 al 12 della legge 17 febbraio 1982, n. 46; 
+ 5) articolo 12, commi 8, 9 e 11 della legge 1 marzo 1986, n. 64; 
+ 6) articolo 15, commi 3 e 4, della legge 11 marzo 1988, n. 67; 
+ 7) articolo 1, comma 2, articoli 2, 3, 4 e 5 della legge 5 agosto 1988, n. 346; 
+ 8) articolo 11, commi 2, 3 e 4 del decreto-legge 16 maggio 1994,  n. 299, convertito, con modificazioni, dalla legge 19 luglio 1994, n. 451; 
+ 9) articolo 1, comma 1, lettera d), del decreto-legge 23 settembre 
+ 1994, n. 547, convertito dalla legge 22 novembre 1994, n. 644, 
+ dalle parole "di cui il 30 per cento" fino alla fine della lettera; 
+ 10) articolo 3, commi 2, 2-bis e 3 del decretolegge 31 gennaio 1995, n. 26, convertito dalla legge 29 marzo 1995, n. 95; 
+ 11) articolo 6, commi 2, 3, 4 e 6 del decreto-legge 8 febbraio 1995, n. 32, convertito dalla legge 7 aprile 1995, n. 104; 
+ 12) articolo 1, comma 35, della legge 28 dicembre 1995, n. 549; 
+ 13) articolo 14 della legge 24 giugno 1997, n. 196; 
+ 14) articolo 45, commi 15 e 16 della legge 23 dicembre 1998, n. 448; 
+                                
+                            
+                            
+                                b)
+                                
+                                    al comma 6 dell'articolo 70 del decreto del Presidente della Repubblica 6 marzo 1978, n. 218, le parole "Per centri di ricerca di cui al terzo comma del presente articolo" sono sostituite dalle seguenti "Per i centri di ricerca scientifica e tecnologica, con particolare riguardo a quelli finalizzati ad attivita' produttive anche se collegati ad imprese ed anche se realizzati in forme consortili"; 
+                                
+                            
+                            
+                                c)
+                                
+                                    all'articolo 1, della legge 5 agosto 1988, n. 346, il comma 1 e' sostituito dal seguente: 
+ "1. Il Ministro dell'universita' e della ricerca scientifica e 
+ tecnologica e' autorizzato, per interventi di sostegno alla 
+ ricerca scientifica e tecnologica, a concedere contributi in conto interessi su mutui."; 
+                                
+                            
+                            
+                                d)
+                                
+                                    all'articolo 11, comma 5 del decreto-legge 16 maggio 1994, n. 299, convertito con modificazioni, dalla legge 19 luglio 1994, n. 451, le parole "di cui ai commi 1 e 2" sono sostituite dalle seguenti "di cui al comma 1" e l'ultimo periodo e' sostituito dal seguente: "Tali risorse sono destinate ad incrementare le disponibilita' del Fondo per le agevolazioni alla ricerca, istituito nello stato di previsione del MURST". ((4))
+
 ------------
                             AGGIORNAMENTO (4)
                             
@@ -222,6 +516,45 @@ Entro il 31 dicembre 1999 il MURST assume la gestione diretta delle attivita' sv
 
 ## Art. 10. — Norme di coordinamento con le competenze del Ministero 
 dell'industria, del commercio e dell'artigianato
+
+1.
+                        
+                            
+                                Con decreti interministeriali di natura non regolamentare dei Ministri dell'universita' e della ricerca scientifica e tecnologica e dell'industria, del commercio e dell'artigianato sono determinate le modalita': 
+ 
+                            
+                            
+                                a)
+                                
+                                    di partecipazione al sostegno finanziario delle attivita' di cui all'articolo 3, comma 1, lettera b), numero 1), attraverso un utilizzo integrato degli strumenti di competenza delle due Amministrazioni e per l'eventuale intervento di altre amministrazioni o soggetti pubblici; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    di costituzione e di operativita' delle banche dati dei rispettivi Ministeri, concernenti gli interventi di cui al presente decreto e quelli di competenza del Ministero dell'industria, del commercio e dell'artigianato in ordine alle attivita' finanziate a valere sul FIT e ai sensi del decreto-legge 28 marzo 1997, n. 79, convertito dalla legge 28 maggio 1997, n. 140, al fine di assicurare lo scambio di informazioni; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    di trasferimento reciproco di domande e progetti presentati ad un Ministero relativamente ad attivita' di competenza dell'altra amministrazione, facendo salva la data di presentazione e l'eventuale livello di priorita' acquisito presso la prima amministrazione ricevente; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    di armonizzazione delle istruttorie tecnicoscientifiche dei progetti e delle domande e dei criteri per gli interventi di cui all'articolo 4, comma 1, lettera e); 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    di coordinamento delle attivita' dei rispettivi comitati per la valutazione delle attivita' finanziabili, che prevedano sessioni congiunte almeno trimestralmente ai fini di cui alla lettera a), di un monitoraggio degli interventi di sostegno e comunque obbligatoriamente in caso di incerta attribuzione della competenza sull'intervento.
 
 Il Ministro dell'industria, del commercio e dell'artigianato determina con proprio decreto le direttive per la gestione del FIT, sentiti il Ministro dell'universita' e della ricerca scientifica e tecnologica ed il Ministro del tesoro, del bilancio e della programmazione economica. Il comma 3 dell'articolo 14 della legge 17 febbraio 1982, n. 46, e' abrogato.
 

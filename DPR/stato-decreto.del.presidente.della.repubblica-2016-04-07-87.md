@@ -8,8 +8,8 @@ vigente: true
 source: normattiva-opendata
 collection: DPR
 vigenza_date: 2026-01-02
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:47:47Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -41,6 +41,300 @@ Il trattamento dei dati personali in applicazione del presente regolamento e' ef
 
 ## Art. 2. — Definizioni
 
+1.
+                        
+                            
+                                Ai fini del presente regolamento si intende per: 
+ 
+                            
+                            
+                                a)
+                                
+                                    legge: legge 30 giugno 2009, n. 85; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    banca dati: banca dati nazionale del DNA; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    laboratorio centrale: laboratorio centrale per la banca dati nazionale del DNA; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    AFIS (Automated Fingerprint Identification System): sistema automatizzato per l'identificazione delle impronte digitali del casellario centrale d'identita' del Ministero dell'interno, Dipartimento della pubblica sicurezza, collocato presso la Direzione centrale anticrimine della Polizia di Stato, Servizio polizia scientifica; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    CUI (Codice Univoco Identificativo): codice alfanumerico generato in automatico dal sistema AFIS e legato univocamente alla persona di cui all'articolo 9 della legge o al consanguineo sottoposti a prelievo di un campione biologico; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    LIMS (Laboratory Information Management System): un sistema informativo idoneo a gestire i dati e il flusso di lavoro di un laboratorio; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    campione biologico: quantita' di sostanza biologica prelevata sulla persona sottoposta a tipizzazione del profilo del DNA; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    reperto biologico: traccia biologica presente su un reperto acquisito sulla scena di un delitto o comunque su cose pertinenti al reato; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    codice Paese: codice alfanumerico che identifica univocamente il Paese, secondo una codifica tecnica stabilita dal responsabile della banca dati in conformita' alle decisioni del Consiglio dell'Unione europea n. 2008/615/GAI e n. 2008/616/GAI, e successive modificazioni, nonche' per finalita' di collaborazione internazionale di polizia ai sensi dell'articolo 12 della legge; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    codice ente: codice alfanumerico che identifica univocamente la Forza di polizia o l'istituzione di elevata specializzazione, secondo una codifica tecnica stabilita dal responsabile della banca dati; 
+
+                                
+                            
+                            
+                                m)
+                                
+                                    codice laboratorio: codice alfanumerico che identifica univocamente il laboratorio che effettua la tipizzazione del profilo del DNA, secondo una codifica tecnica stabilita dal responsabile della banca dati; 
+
+                                
+                            
+                            
+                                n)
+                                
+                                    codice profilo del DNA: codice che identifica l'origine del campione biologico e del reperto biologico dai quali viene tipizzato il profilo del DNA, secondo una codifica tecnica stabilita dal responsabile della banca dati, in conformita' alle decisioni del Consiglio dell'Unione europea n. 2008/615/GAI e n. 2008/616/GAI e successive modificazioni, nonche' per finalita' di collaborazione internazionale di polizia ai sensi dell'articolo 12 della legge; 
+
+                                
+                            
+                            
+                                o)
+                                
+                                    codice prelievo: codice alfanumerico che univocamente individua il campione biologico ottenuto dai soggetti di cui all'articolo 9 della legge o dai consanguinei della persona scomparsa sottoposti a prelievo e non consente l'identificazione diretta del soggetto. Viene generato automaticamente dal sistema AFIS secondo una codifica tecnica stabilita dal responsabile della banca dati; 
+
+                                
+                            
+                            
+                                p)
+                                
+                                    codice reperto biologico: codice alfanumerico che univocamente individua il reperto biologico e non consente l'identificazione diretta del reperto biologico o di un cadavere o di resti cadaverici.
+Viene generato automaticamente dal LIMS del laboratorio, che procede all'esame del reperto biologico, unitamente alle seguenti informazioni, secondo una codifica tecnica stabilita dal responsabile della banca dati: 
+ 1) codice dell'ente; 
+ 2) codice laboratorio; 
+
+                                
+                            
+                            
+                                q)
+                                
+                                    numero di riferimento: codice alfanumerico che univocamente individua il campione biologico e il reperto biologico, in conformita' alle decisioni del Consiglio dell'Unione europea n. 2008/615/GAI e n. 2008/616/GAI, e successive modificazioni, nonche' per finalita' di collaborazione internazionale di polizia ai sensi dell'articolo 12 della legge, composto dai seguenti elementi: 
+ 1) codice Paese; 
+ 2) codice profilo del DNA; 
+ 3) codice prelievo o codice reperto biologico; 
+
+                                
+                            
+                            
+                                r)
+                                
+                                    trattamento: qualunque operazione o complesso di operazioni effettuate anche senza l'ausilio di strumenti elettronici, concernenti la raccolta, la registrazione, l'organizzazione, la conservazione, la consultazione, l'elaborazione, la modificazione, la selezione, la tipizzazione, il raffronto, l'utilizzo, l'interconnessione, il blocco, la comunicazione, la diffusione, la cancellazione e la distruzione di dati; 
+
+                                
+                            
+                            
+                                s)
+                                
+                                    accesso: consultazione, anche informatica, dei dati e delle informazioni contenute nella banca dati; 
+
+                                
+                            
+                            
+                                t)
+                                
+                                    dati identificativi: dati personali che permettono l'identificazione diretta dell'interessato; 
+
+                                
+                            
+                            
+                                u)
+                                
+                                    DNA: acido desossiribonucleico, depositario della informazione genetica, sotto forma di una sequenza lineare di nucleotidi, portatore dell'informazione ereditaria; 
+
+                                
+                            
+                            
+                                v)
+                                
+                                    profilo del DNA: codice alfanumerico che rappresenta una serie di caratteristiche identificative della parte non codificante di un campione di DNA umano analizzato, vale a dire la struttura molecolare particolare dei vari loci del DNA; 
+
+                                
+                            
+                            
+                                z)
+                                
+                                    punto di contatto nazionale o estero: autorita', nazionale o estera, designata per lo scambio dei dati e per le finalita' di cooperazione internazionale di polizia.
+
+2.
+                        
+                            
+                                Ai fini del presente regolamento si intende, inoltre, per: 
+ 
+                            
+                            
+                                a)
+                                
+                                    tipizzazione: complesso delle operazioni tecniche di laboratorio che conducono alla produzione del profilo del DNA; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    locus: la posizione fisica su un cromosoma di un gene o di un marcatore in una regione del DNA; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    allele: varianti del DNA presenti in uno stesso locus; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    marcatore: locus di una molecola che contiene tipicamente informazioni diverse nei diversi individui; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    nomenclatura di un marcatore genetico: denominazione di un marcatore localizzato nella regione fisica del gene corrispondente a quella del gene stesso; se il marcatore genetico si trova fuori dalla regione del gene, la denominazione identifica la localizzazione sul cromosoma; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    elettroferogramma: il risultato dell'analisi elettroforetica della sequenza di frammenti del DNA utilizzata per estrapolare il profilo del DNA; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    allele drop-out: mancata amplificazione del DNA di un allele che porta ad una non corretta determinazione di una condizione eterozigote; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    stutter: banda artefattuale con un numero di ripetizioni diverse rispetto all'allele genitore; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    PCR (Polymerase Chain Reaction): reazione a catena dell'enzima polimerasi; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    primers: frammenti sintetici di DNA utilizzati per la PCR; 
+
+                                
+                            
+                            
+                                m)
+                                
+                                    termociclatore (thermal cycler): strumento di laboratorio utilizzato per effettuare i cicli di amplificazione del DNA; 
+
+                                
+                            
+                            
+                                n)
+                                
+                                    ladder allelico: l'insieme delle varianti alleliche ad un locus maggiormente rappresentative a livello mondiale; 
+
+                                
+                            
+                            
+                                o)
+                                
+                                    set-up: la fase di preparazione durante una delle operazioni tecniche della tipizzazione del DNA; 
+
+                                
+                            
+                            
+                                p)
+                                
+                                    STR (Short Tandem Repeat): regioni del DNA costituite da sequenze di DNA ripetute in tandem che se presenti su loci autosomici, ovvero non sessuali, sono generalmente indicati come STR, se presenti su cromosomi sessuali sono indicati come Y-STR o X-STR; 
+
+                                
+                            
+                            
+                                q)
+                                
+                                    mtDNA: sigla che indica il DNA mitocondriale; 
+
+                                
+                            
+                            
+                                r)
+                                
+                                    file di log: registro degli accessi e delle operazioni; 
+
+                                
+                            
+                            
+                                s)
+                                
+                                    log: accesso e operazione; 
+
+                                
+                            
+                            
+                                t)
+                                
+                                    back-up: salvataggio e ripristino dei dati; 
+
+                                
+                            
+                            
+                                u)
+                                
+                                    kit commerciali: specifici equipaggiamenti tecnici validati.
+
 ## - Capo II Organizzazione e funzionamento della banca dati e del laboratorio centrale, modalità di acquisizione di campioni biologici, di gestione e tipizzazione dei profili del DNA, di trattamento e di accesso ai dati Sezione I Organizzazione e funzionamento della banca dati e del laboratorio centrale
 
 ## Art. 3. — Organizzazione e funzionamento della banca dati 
@@ -68,6 +362,52 @@ Con decreto del Ministro dell'interno di concerto con il Ministro della giustizi
 
 Il laboratorio centrale e' collocato presso il Ministero della giustizia, Dipartimento dell'amministrazione penitenziaria - ((Direzione generale delle specialita' del Corpo di polizia penitenziaria)).
 
+2.
+                        
+                            
+                                Il laboratorio centrale e' dotato di strutture robotizzate in grado di compiere le seguenti fasi di tipizzazione del DNA: 
+ 
+                            
+                            
+                                a)
+                                
+                                    accettazione, catalogazione e conservazione del campione biologico; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    set-up del campione; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    eventuale fase di estrazione del DNA; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    eventuale fase di quantificazione; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    amplificazione del DNA mediante PCR, ovvero moltiplicazione in vitro di frammenti di DNA mediante reazione a catena dell'enzima polimerasi; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    lettura ed interpretazione del profilo del DNA mediante sequenziatore automatico.
+
 Il laboratorio centrale per la gestione complessiva del flusso del lavoro e dei dati di laboratorio si avvale di un LIMS che assicura la tracciabilita' del campione biologico, delle varie fasi della tipizzazione del DNA e delle operazioni effettuate dal personale addetto, ivi inclusi gli amministratori di sistema, e la registrazione non modificabile di tutte le variazioni apportate ai dati.
 
 La continuita' del funzionamento di un LIMS del laboratorio centrale e' assicurata da uno specifico sistema di misure tecnologiche di back-up del LIMS il cui accesso e' riservato ai soli operatori autorizzati mediante una procedura di autenticazione e autorizzazione.
@@ -83,6 +423,141 @@ Gli accessi ai locali e agli armadi adibiti alla conservazione dei campioni biol
 I soggetti di cui all'articolo 9 della legge sono sottoposti al prelievo di due campioni di mucosa orale, allo scopo di consentire l'eventuale ripetizione della tipizzazione del DNA, previa identificazione degli stessi tramite accesso telematico all'AFIS e registrazione delle operazioni di identificazione e prelievo, a cura dell'organo procedente, nel sistema AFIS. Il prelievo e' effettuato soltanto se il soggetto non e' stato gia' sottoposto in precedenza ad analoga operazione, salvi i casi in cui sia stata gia' disposta la distruzione del campione ai sensi dell'articolo 24 e ricorrano nuovamente i presupposti di cui all'articolo 9 della legge, ferma restando la registrazione nel sistema AFIS ai fini dell'aggiornamento del dato.
 
 Salvo quanto previsto al comma 3, al prelievo provvede, sia per i soggetti minorenni che per gli adulti, il personale di Polizia penitenziaria, specificamente formato e addestrato.
+
+3.
+                        
+                            
+                                Nei seguenti casi, al prelievo provvede il personale della forza di polizia delegata all'esecuzione del provvedimento restrittivo, specificamente formato e addestrato: 
+ 
+                            
+                            
+                                a)
+                                
+                                    applicazione di ordinanza che dispone gli arresti domiciliari, la permanenza in casa o il collocamento in comunita'; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    arresto in flagranza o fermo, con esclusione dei casi in cui, dopo il giudizio di convalida, sia disposta l'associazione ad un istituto penitenziario; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    applicazione di una misura alternativa alla detenzione, se il soggetto non e' in stato di custodia; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    applicazione di una misura di sicurezza detentiva, anche nella forma del collocamento in comunita'.
+
+4.
+                        
+                            
+                                I campioni biologici di cui al comma 1 sono prelevati secondo le seguenti modalita': 
+ 
+                            
+                            
+                                a)
+                                
+                                    il personale che effettua il prelievo indossa i dispositivi di protezione individuale ogni qualvolta procede ad un prelievo; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il prelievo viene effettuato tramite un tampone orale a secco che viene strofinato sulla parte interna della guancia ovvero sulle gengive per un tempo adeguato; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    ogni campione biologico e' posto in un contenitore separato; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    il campione biologico e' conservato a temperatura ambiente.
+
+5.
+                        
+                            
+                                Entrambi i campioni biologici sono inviati al Laboratorio centrale nel piu' breve tempo possibile in un unico plico chiuso con sigillo antieffrazione, utilizzando modalita' organizzative, che razionalizzino la trasmissione da parte dei soggetti di cui all'articolo 9, comma 6, della legge, anche avvalendosi di corrieri specializzati che assicurino l'integrita' del plico stesso e la sua tracciabilita'. Su ciascuno dei campioni e' apposta identica etichetta che deve contenere, in formato leggibile: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il codice dell'ufficio segnalatore; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il codice identificativo dell'operatore che ha effettuato il prelievo dei campioni biologici; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    numero di riferimento; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    la data del prelievo.
+
+6.
+                        
+                            
+                                Il laboratorio centrale provvede ai seguenti adempimenti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    registrazione informatizzata del plico contenente i due campioni biologici con modalita' che consentano la tracciabilita' delle operazioni effettuate dal personale addetto e la registrazione di tutte le variazioni apportate ai dati; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    apertura del plico sigillato contenente i due campioni biologici, ponendo un campione in una nuova busta di sicurezza, che viene conservata per eventuali successive indagini o controlli, e sottoponendo l'altro a tipizzazione del DNA; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    apposizione in una busta della parte di campione biologico inutilizzata, con applicazione a chiusura di una nuova etichetta; chiusura del predetto involucro in una busta di sicurezza idonea alla conservazione; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    inserimento per via telematica del profilo del DNA nella banca dati, del relativo numero di riferimento, del codice ente e del codice laboratorio; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    qualora si verifichi che la tipizzazione del DNA del primo dei due campioni biologici ha fornito esito negativo o parziale, il personale del laboratorio centrale provvede ad informare l'AFIS. Una volta individuato il soggetto cui si riferisce il campione biologico, AFIS informa l'ufficio segnalatore di procedere, previa autorizzazione dell'Autorita' giudiziaria, alla ripetizione del prelievo. Nel caso di ripetizione del prelievo, l'ufficio segnalatore lo comunica all'AFIS che informa il laboratorio centrale perche' provveda alla distruzione di entrambi i campioni biologici e del profilo del DNA parziale. Nel caso di impossibilita' di ripetizione del prelievo, l'ufficio segnalatore provvede ad acquisire dall'Autorita' giudiziaria anche l'autorizzazione a processare il secondo campione, informando tempestivamente l'AFIS per la successiva comunicazione al laboratorio centrale.
 
 Il flusso del campione biologico, dal momento del prelievo fino all'arrivo al laboratorio centrale e' gestito attraverso una procedura informatizzata, raggiungibile dal portale della banca dati, riservata ai soli operatori autorizzati mediante una procedura di autenticazione e autorizzazione.
 
@@ -130,6 +605,31 @@ Il personale in servizio presso i laboratori delle Forze di polizia e la banca d
 La consultazione puo' essere effettuata a livello nazionale, solo caso per caso ai sensi dell'articolo 2, lettera k), della decisione del Consiglio dell'Unione europea n. 2008/616/GAI, e l'esito del raffronto comunicato per via automatizzata ai laboratori delle Forze di polizia che hanno inserito il profilo del DNA, tramite il portale della banca dati. Dell'esito del raffronto, per i casi di denuncia di scomparsa formulata ai sensi della legge n. 203 del 2012, sentita l'autorita' giudiziaria, e' data comunicazione al prefetto competente per l'informazione del Commissario straordinario del Governo per le persone scomparse.
 
 In caso di una concordanza tra un profilo del DNA trasmesso ed i profili del DNA registrati nella banca dati, si applicano le disposizioni dell'articolo 10, commi 6, 7, 8 e 9.
+
+4.
+                        
+                            
+                                Le richieste di consultazione e le risposte automatizzate effettuate tramite il portale della banca dati devono contenere per le forze di polizia le seguenti informazioni richieste dal portale della banca dati: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il riferimento normativo del reato per la motivazione; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'identificazione dell'ufficio richiedente e dell'operatore; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    la denominazione dell'ufficio e l'identificativo dell'Autorita' giudiziaria, il numero del procedimento penale e l'anno di riferimento.
 
 ## Art. 10. — Criteri di inserimento e raffronto tra profili di DNA 
  e norme di concordanza
@@ -195,6 +695,31 @@ Finalita' del trattamento
 
 I dati personali trasmessi o ricevuti sono trattati per le finalita' di cui all'articolo 1, comma 2.
 
+2.
+                        
+                            
+                                Il trattamento dei dati ricevuti dal punto di contatto nazionale in risposta ad una richiesta di consultazione o di raffronto e' autorizzato esclusivamente allo scopo di: 
+ 
+                            
+                            
+                                a)
+                                
+                                    accertare la concordanza tra i profili DNA raffrontati; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    predisporre e introdurre una domanda di assistenza giudiziaria in caso di concordanza dei dati; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    effettuare le registrazioni di cui all'articolo 17.
+
 Il trattamento dei dati ricevuti e' altresi' ammesso per scopi compatibili con quelli per i quali sono stati trasmessi e previa autorizzazione dello Stato membro che li ha trasmessi, nel rispetto della legislazione nazionale italiana.
 
 Il punto di contatto nazionale tratta i dati che gli vengono trasmessi dal punto di contatto di un altro Stato membro per le finalita' di cui all'articolo 1, comma 2, solo se tale trattamento e' necessario per realizzare un raffronto, rispondere per via automatizzata alle consultazioni o effettuare le registrazioni di cui all'articolo 17. Al termine del raffronto o della risposta automatizzata alle consultazioni, i dati trasmessi sono immediatamente cancellati a meno che non sia necessario un ulteriore trattamento per le finalita' di cui al comma 2, lettere b) e c).
@@ -211,6 +736,24 @@ Se si ha motivo di ritenere che i dati ricevuti in risposta ad una richiesta di 
 
 I dati personali che non avrebbero dovuto essere ricevuti sono cancellati.
 
+5.
+                        
+                            
+                                I dati lecitamente ricevuti sono cancellati: 
+ 
+                            
+                            
+                                a)
+                                
+                                    se non sono piu' necessari alle finalita' per le quali sono stati trasmessi dall'altro Stato membro. Se i dati personali sono stati ricevuti senza richiesta, il punto di contatto nazionale verifica immediatamente se siano necessari per le finalita' per le quali sono stati trasmessi; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    al termine del periodo massimo di conservazione dei dati ai sensi della legislazione nazionale dello Stato membro che li ha trasmessi, qualora l'autorita' di trasmissione abbia indicato tale periodo massimo al punto di contatto nazionale all'atto della trasmissione.
+
 Si procede al blocco dei dati, ai sensi dell'articolo 4, comma 1, lettera o), del decreto legislativo 30 giugno 2003, n. 196, quando vi siano motivi per ritenere che la cancellazione degli stessi pregiudicherebbe un legittimo interesse della persona, nel rispetto della legislazione nazionale. I dati bloccati possono essere, comunque, utilizzati o trasmessi solo per le finalita' che ne hanno impedito la cancellazione.
 
 ## Art. 17. — Log delle operazioni
@@ -218,6 +761,31 @@ Si procede al blocco dei dati, ai sensi dell'articolo 4, comma 1, lettera o), de
 Nell'ambito delle misure di sicurezza adottate in conformita' agli articoli da 31 a 36 e all'allegato B del decreto legislativo 30 giugno 2003, n. 196, e successive modificazioni, tutte le operazioni effettuate in applicazione del presente capo sono registrate in appositi file di log ai fini della verifica della liceita' del trattamento dei dati.
 
 La consultazione automatizzata puo' essere effettuata solo da personale del punto di contatto nazionale debitamente abilitato. Su richiesta, l'elenco del personale e' messo a disposizione del Garante per la protezione dei dati personali, nonche' delle autorita' preposte alla protezione dei dati degli altri Stati membri.
+
+3.
+                        
+                            
+                                Le registrazioni di cui al comma 1, che includono anche l'informazione riguardante l'esistenza o meno di una risposta positiva, comprendono le seguenti informazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    i dati trasmessi; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la data e l'ora precisa della trasmissione; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    la denominazione o il codice di riferimento dell'autorita' che effettua la consultazione e dell'autorita' che gestisce la banca dati.
 
 Sono registrati inoltre il motivo della consultazione o della trasmissione, e i riferimenti del personale che ha effettuato la consultazione e di quello che l'ha richiesta.
 
@@ -253,6 +821,38 @@ L'indicazione dei nomi dei marcatori impiegati sono quelli riportati nelle racco
 
 Le tipologie di marcatori che possono essere utilizzate nella tipizzazione del profilo del DNA per essere inseriti nella banca dati sono STR, Y-STR, X-STR e mtDNA secondo una codifica tecnica stabilita dal responsabile della banca dati in conformita' alle decisioni del Consiglio dell'Unione europea n. 2008/615/GAI e n. 2008/616/GAI e successive modificazioni, nonche' per finalita' di collaborazione internazionale di polizia ai sensi dell'articolo 12 della legge.
 
+4.
+                        
+                            
+                                I marcatori impiegati per la definizione del profilo genetico utile per essere utilizzati nell'identificazione personale (loci autosomici) devono rispettare almeno i seguenti criteri: 
+ 
+                            
+                            
+                                a)
+                                
+                                    essere variazioni di lunghezza o di sequenza, trasmessi con modalita' mendeliana; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    essere indipendenti; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    avere un alto valore informativo, cioe' avere un valore di eterozigosita' superiore al 70 per cento; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    avere un numero sufficientemente alto di alleli presenti nella popolazione.
+
 L'amplificazione di ogni singolo campione biologico deve essere effettuata attraverso l'uso di due kit commerciali che hanno per il medesimo locus una diversa sequenza dei primers, al fine di evitare una non corretta assegnazione allelica.
 
 I loci amplificati dai due kit commerciali si devono sovrapporre per almeno dieci loci.
@@ -262,6 +862,59 @@ L'amplificazione del DNA deve sempre essere allestita con il controllo positivo 
 ## Art. 23. — Lettura ed interpretazione del profilo di DNA
 
 La determinazione del profilo genetico deve avvenire utilizzando un sequenziatore automatico di acidi nucleici per la corsa elettroforetica dei frammenti di DNA e dotato di software dedicati alla successiva lettura ed interpretazione del profilo del DNA.
+
+2.
+                        
+                            
+                                Per una corretta assegnazione allelica devono essere seguiti i seguenti criteri minimi standard: 
+ 
+                            
+                            
+                                a)
+                                
+                                    ogni corsa elettroforetica deve avere almeno un ladder allelico; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    in ogni corsa elettroforetica a ciascun campione di PCR deve essere associato uno standard interno di peso molecolare noto; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    l'assegnazione degli alleli di un profilo del DNA puo' essere fatta solo se tutti i picchi dello standard di cui alla lettera b) sono stati correttamente assegnati; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    l'assegnazione degli alleli di ciascun profilo del DNA viene effettuata mediante software specifici; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    l'interpretazione del profilo del DNA deve essere effettuata da due persone distinte o dalla stessa persona in due momenti diversi; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    i picchi denominati «stutter» devono avere una altezza media non superiore al valore percentuale stabilito dalla validazione del kit commerciale utilizzato per quel locus; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    tutti i picchi dell'elettroferogramma devono essere distinti dalla linea di base.
 
 ## - Sezione II Tempi di conservazione dei campioni biologici e dei profili del DNA
 
@@ -336,6 +989,38 @@ L'operatore di polizia giudiziaria in servizio presso il Dipartimento della pubb
 Il personale in servizio presso il Laboratorio centrale, specificamente abilitato, successivamente al ricevimento della comunicazione di cui al comma 3, provvede alla cancellazione del profilo del DNA presente nella banca dati ed alla distruzione dei campioni biologici. Delle operazioni e' redatto verbale. Il codice prelievo viene comunicato al sistema AFIS al fine di consentire l'aggiornamento del dato.
 
 ## Art. 30. — Cancellazione dei dati e distruzione dei campioni biologici nei casi di cui all'articolo 13, comma 2, della legge
+
+1.
+                        
+                            
+                                Nei casi di cui all'articolo 13, comma 2, della legge, il personale del laboratorio delle Forze di polizia che ha proceduto all'identificazione del cadavere o al ritrovamento di resti cadaverici o della persona scomparsa, previo nulla osta dell'Autorita' giudiziaria, procede: 
+ 
+                            
+                            
+                                a)
+                                
+                                    alla cancellazione del profilo del DNA abbinato al codice reperto biologico del cadavere, dei resti cadaverici, della persona scomparsa e dei consanguinei; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    alla distruzione dei campioni biologici dei consanguinei, se in suo possesso; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    qualora non sia in possesso dei campioni biologici, comunica al laboratorio delle Forze di polizia che ha proceduto alla tipizzazione del DNA dei consanguinei il relativo codice reperto biologico, per la distruzione; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    comunica, per via telematica, al sistema AFIS il codice prelievo del campione che e' stato distrutto al fine di consentire l'aggiornamento del dato.
 
 Delle operazioni di cui al comma 1 e' redatto verbale.
 

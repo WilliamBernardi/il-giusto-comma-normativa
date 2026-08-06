@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
 vigenza_date: 2000-05-12
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:40Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -34,15 +34,111 @@ Ai fini del computo del finanziamento, sono ammesse le spese di progettazione e 
 
 ## Art. 2.
 
+1.
+                    
+                        
+                            Sono ammissibili le sole istanze che:
+ 
+                        
+                        
+                            a)
+                            
+                                hanno ad oggetto edifici o complessi immobiliari stabilmente e con carattere di continuita' ((ancorche' non esclusivamente,)) destinati a rappresentazioni pubbliche teatrali, o comunque dal vivo;
+
+                            
+                        
+                        
+                            b)
+                            
+                                si riferiscono a progetti approvati in forma esecutiva, ai sensi della vigente disciplina in materia di lavori pubblici, se presentati da enti pubblici territoriali, ovvero a progetti che hanno ottenuto tutte le autorizzazioni, concessioni, approvazioni, nulla osta, pareri, ed ogni altro atto di assenso previsto dalla legge al fine della loro concreta realizzazione;
+
+                            
+                        
+                        
+                            c)
+                            
+                                si riferiscono a progetti che prevedono la loro esecuzione in un unico lotto.
+
 ## Art. 3.
 
 La istanza per l'ammissione al finanziamento, in regola con l'imposta di bollo, e' presentata, prima dell'inizio dei lavori, ((al Ministero per i beni e le attivita' culturali)) - Dipartimento dello spettacolo, ed al soggetto gestore del fondo di cui all'articolo 2 della legge 14 agosto 1971, n. 819, entro il 31 gennaio di ciascun anno.
 
 In sede di prima applicazione, sono prese in esame le istanze pervenute entro il termine di sessanta giorni dalla pubblicazione in Gazzetta Ufficiale del presente regolamento.
 
+3.
+                    
+                        
+                            Alla istanza deve essere allegata la seguente documentazione:
+ 
+                        
+                        
+                            a)
+                            
+                                dichiarazione resa ai sensi dell'articolo 3 della legge 4 gennaio 1968, n. 15, e successive modificazioni, con la quale l'interessato indichi il titolo di proprieta' dell'immobile, oltre che la sussistenza di tutte le autorizzazioni, concessioni, approvazioni, nulla osta, pareri, ed ogni altro atto di assenso previsto dalla legge per l'esecuzione di lavori;
+
+                            
+                        
+                        
+                            b)
+                            
+                                dichiarazione sostitutiva di atto di notorieta', resa ai sensi dell'articolo 4 della legge 4 gennaio 1968, n. 15, e successive modificazioni, con la quale si attesti la destinazione dell'immobile a sede teatrale, ai sensi dell'articolo 2, comma 1, lettera a);
+
+                            
+                        
+                        
+                            c)
+                            
+                                copia del progetto, corredato da una relazione tecnica a firma del progettista, che attesti anche il rispetto delle norme di sicurezza vigenti al momento della presentazione dell'istanza, e dai preventivi di spesa distinti per importi relativi ad interventi strutturali, a rinnovo ed adeguamento di arredi ed impianti, a spese di progettazione e direzione lavori;
+
+                            
+                        
+                        
+                            d)
+                            
+                                perizia giurata con cui il progettista dichiari, sotto la propria responsabilita', che la esecuzione dei lavori progettati consente l'immediata fruizione della sala teatrale, senza alcuna necessita' di ulteriori interventi o completamenti;
+
+                            
+                        
+                        
+                            e)
+                            
+                                atto di impegno del proprietario di conservazione della destinazione dell'immobile a sala teatrale per non meno di dieci anni, pena la decadenza dal finanziamento.
+
 ## Art. 4.
 
 Il finanziamento, della durata massima di ((cinque anni)), e' disposto ed erogato dal soggetto gestore del fondo di cui all'articolo 2 della legge 14 agosto 1971, n. 819, previo assenso del Capo del Dipartimento dello spettacolo.
+
+2.
+                    
+                        
+                            A tal fine, gli interventi sono programmati secondo l'ordine cronologico di ricezione delle domande complete della documentazione prescritta, nel rispetto del seguente ordine di priorita':
+ 
+                        
+                        
+                            a)
+                            
+                                interventi in immobili di proprieta' di enti pubblici territoriali, e soggetti alle disposizioni della legge 1 giugno 1939, n. 1089;
+
+                            
+                        
+                        
+                            b)
+                            
+                                interventi in immobili di proprieta' di enti pubblici territoriali;
+
+                            
+                        
+                        
+                            c)
+                            
+                                interventi in immobili soggetti alle disposizioni della legge 1 giugno 1939, n. 1089;
+
+                            
+                        
+                        
+                            d)
+                            
+                                interventi in altri immobili diversi da quelli indicati nelle precedenti lettere.
 
 ((
 
@@ -88,6 +184,31 @@ Gli estratti conto sono sottoscritti dai legali rappresentanti dei soggetti fina
 ((
 
 Il gestore del fondo vigila sulla regolare utilizzazione del finanziamento e del contributo.
+
+2.
+                    
+                        
+                            Il capo del dipartimento dello spettacolo, su proposta del soggetto gestore del fondo, puo' disporre la decadenza dal finanziamento o dal contributo nei seguenti casi:
+ 
+                        
+                        
+                            a)
+                            
+                                gli interventi oggetto del finanziamento o del contributo non hanno avuto inizio entro un anno dalla data della rispettiva erogazione;
+
+                            
+                        
+                        
+                            b)
+                            
+                                gli interventi oggetto del finanziamento o del contributo non sono stati definitivamente completati entro il termine contrattualmente previsto, salvo gravi e documentati motivi, immediatamente comunicati e, in ogni caso, se entro cinque anni dalla erogazione del beneficio la sala non e' divenuta, per qualunque causa, utilizzabile per la sua destinazione;
+
+                            
+                        
+                        
+                            c)
+                            
+                                si accerta che l'immobile ha perso la destinazione a sala teatrale nel corso dei dieci anni successivi alla erogazione del finanziamento o del contributo.
 
 3. Non possono essere presentate nuove istanze sulla base del presente regolamento, aventi ad oggetto il medesimo immobile, prima che siano trascorsi dieci anni dalla data di accoglimento di una precedente domanda))
 

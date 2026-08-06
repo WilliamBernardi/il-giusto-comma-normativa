@@ -8,8 +8,8 @@ codice_redazionale: 093G0597
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:38Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -38,6 +38,24 @@ Udito il parare espresso dal Consiglio di Stato nell'adunanza generale del 21 no
 Constatato che in data 15 ottobre 1993 e' stata effettuata la comunicazione alla Presidenza del Consiglio dei Ministri, in forza all'art. 17, comma terzo, della legge 23 agosto 1988, n. 400;
 
 ## Art. 1.
+
+1.
+                    
+                        
+                            L'Istituto superiore prevenzione e sicurezza del lavoro (ISPESL) esercita direttamente le seguenti attivita' omologative di primo o nuovo impianto secondo la normativa a fianco indicata:
+ 
+                        
+                        
+                            a)
+                            
+                                impianti di messa a terra (art. 328 del decreto del Presidente della Repubblica n. 547 del 27 aprile 1955; decreto ministeriale del 22 febbraio 1965 del Ministero del lavoro e della previdenza sociale);
+
+                            
+                        
+                        
+                            b)
+                            
+                                installazioni e dispositivi di protezione dalle scariche atmosferiche (art. 40 del decreto del Presidente della Repubblica n. 547 del 27 aprile 1955; decreto ministeriale del 22 febbraio 1965 del Ministero del lavoro e della previdenza sociale).
 
 Per tali servizi all'ISPESL sono versati i corrispettivi previsti dalla vigente tariffa.
  AVVERTENZA:

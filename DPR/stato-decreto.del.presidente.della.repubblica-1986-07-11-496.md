@@ -8,8 +8,8 @@ codice_redazionale: 086U0496
 vigente: true
 source: normattiva-opendata
 collection: DPR
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:48:02Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -28,4 +28,36 @@ Il costo base di produzione a metro quadrato per gli immobili ultimati nell'anno
 Il costo base di produzione a metro quadrato per gli immobili ultimati nell'anno 1985 e' determinato in L. 820.000 per le regioni Campania, Abruzzo, Molise, Puglia, Basilicata, Calabria, Sicilia e Sardegna.
 
 ## Art. 3.
+
+1.
+                    
+                        
+                            Gli elementi costitutivi del costo di produzione incidono sul costo base medesimo nelle seguenti percentuali:
+ 
+                        
+                        
+                            a)
+                            
+                                81% per il costo di produzione di cui alla lettera a) dell'art. 22 della legge 27 luglio 1978, n. 392;
+
+                            
+                        
+                        
+                            b)
+                            
+                                7% per il contributo di concessione di cui alla lettera b) dell'art. 22, se la costruzione e' stata realizzata sulla base di concessione edilizia;
+
+                            
+                        
+                        
+                            c)
+                            
+                                12% per il costo dell'area di cui alla lettera c) dell'art. 22;
+
+                            
+                        
+                        
+                            d)
+                            
+                                7%, in alternativa alla percentuale prevista alla lettera b), per gli oneri di urbanizzazione di cui alla lettera d) dell'art. 22, se la costruzione e' stata realizzata sulla base di licenza edilizia.
 

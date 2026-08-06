@@ -8,8 +8,8 @@ codice_redazionale: 001G0008
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:41Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -22,6 +22,24 @@ Ritenuta la necessita' di adottare, ai sensi del citato articolo 14, comma 16, l
 Udito il parere del Consiglio di Stato - Sezione consultiva per gli atti normativi nell'adunanza del 15 maggio 2000, ai sensi dell' articolo 17, comma 4 della legge 23 agosto 1988, n. 400;
 
 ## Art. 1.
+
+1.
+                    
+                        
+                            I costi derivanti dalle attivita' attribuite, ai sensi dell'articolo 14, comma 15 della legge 21 dicembre 1999, n. 526, che ha sostituito l'articolo 53 della legge 24 aprile 1998, n. 128, ai Consorzi di tutela delle DOP o IGP, incaricati con decreto del Ministero delle politiche agricole e forestali, sono determinati dal competente organo consortile e sono posti a carico:
+ 
+                        
+                        
+                            a)
+                            
+                                di tutti i soggetti che aderiscono al Consorzio;
+
+                            
+                        
+                        
+                            b)
+                            
+                                dei soggetti, anche se non aderenti al Consorzio, appartenenti alle corrispondenti categorie individuate all'articolo 4 del decreto ministeriale n. 61413 del 12 aprile 2000 recante disposizioni generali relative ai requisiti di rappresentativita' dei Consorzi di tutela delle DOP e delle IGP, secondo i criteri stabiliti con il presente regolamento.
 
 ## Art. 2.
 

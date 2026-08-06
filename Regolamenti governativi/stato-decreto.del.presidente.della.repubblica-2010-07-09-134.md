@@ -8,8 +8,8 @@ codice_redazionale: 010G0155
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti governativi
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:16Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -29,6 +29,24 @@ Sulla proposta del Ministro delle infrastrutture e dei trasporti, di concerto co
 Il presente regolamento disciplina la gestione autonoma delle entrate realizzate a qualsiasi titolo e delle spese sostenute dal Comitato centrale per l'Albo nazionale degli autotrasportatori per l'espletamento dei compiti istituzionali di cui al decreto legislativo 21 novembre 2005, n. 284.
 
 ## Art. 2. — Autonomia contabile e finanziaria
+
+1.
+                    
+                        
+                            Le risorse finanziarie del Comitato centrale sono costituite: 
+ 
+                        
+                        
+                            a)
+                            
+                                dalle quote annue di iscrizione all'Albo, al cui versamento sono soggette le imprese iscritte all'Albo stesso, ai sensi dell'articolo 63 della legge 6 giugno 1974, n. 298; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                dagli stanziamenti di cui all'articolo 2, comma 3, del decreto-legge 28 dicembre 1998, n. 451, convertito, con modificazioni, dalla legge 26 febbraio 1999, n. 40, e successive modificazioni.
 
 Le risorse di cui al comma 1, lettera a), sono versate all'entrata del bilancio dello Stato per essere riassegnate, con decreto del Ministro dell'economia e delle finanze, ad appositi capitoli della missione «Diritto alla mobilita'», programma «Logistica ed intermodalita' nel trasporto» dello stato di previsione della spesa del Ministero delle infrastrutture e dei trasporti.
 

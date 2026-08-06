@@ -8,8 +8,8 @@ codice_redazionale: 090G0138
 vigente: true
 source: normattiva-opendata
 collection: DPCM
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:40:13Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DEL CONSIGLIO DEI MINISTRI
@@ -32,6 +32,73 @@ D'intesa con il Ministro per i problemi delle aree urbane;
 E' istituito il Dipartimento per le aree urbane, di seguito indicato Dipartimento, alle dipendenze del Ministro per i problemi delle aree urbane.
 
 ## Art. 2. — Competenze
+
+1.
+                    
+                        
+                            Il Dipartimento provvede agli adempimenti riguardanti:
+ 
+                        
+                        
+                            a)
+                            
+                                la base conoscitiva e progettuale per iniziative legislative, amministrative e finanziarie relative al potenziamento e alla realizzazione di infrastrutture e servizi nelle aree urbane e nelle aree metropolitane, nonche' all'equilibrio tra domanda e offerta di alloggi nel mercato immobiliare in aree urbane ad alta tensione abitativa;
+
+                            
+                        
+                        
+                            b)
+                            
+                                l'attivita' di comitati e organi collegiali di studio, di consulenza e di supporto tecnico operanti nelle materie attribuite al Dipartimento;
+
+                            
+                        
+                        
+                            c)
+                            
+                                la verifica di operativita' ed il controllo di attuazione della legislazione vigente inerente la definizione, l'assetto e la gestione delle aree urbane e metropolitane, nonche' il coordinamento dell'azione amministrativa per l'attuazione delle relative iniziative;
+
+                            
+                        
+                        
+                            d)
+                            
+                                azioni dell'amministrazione centrale volte allo studio ed alla realizzazione di programmi di intervento per la soluzione di specifici problemi delle aree urbane e delle aree metropolitane, con particolare riguardo alla vigente disciplina dell'intervento straordinario nel Mezzogiorno, anche mediante intese ed accordi di programma; nonche' l'esercizio di poteri sostitutivi in casi di inadempimenti e ritardi;
+
+                            
+                        
+                        
+                            e)
+                            
+                                l'intesa di cui al primo comma dell'art. 3 della legge 22 luglio 1975, n. 382, relativamente ad attivita' connesse alla gestione delle aree urbane e delle aree metropolitane, nonche' il raccordo tra enti territoriali, amministrazioni, enti pubblici, anche economici, ed aziende autonome operanti nelle aree predette;
+
+                            
+                        
+                        
+                            f)
+                            
+                                l'esercizio di specifiche funzioni attribuite dalla legge al Ministro per i problemi delle aree urbane;
+
+                            
+                        
+                        
+                            g)
+                            
+                                l'esercizio di altre funzioni delegate dal Presidente del Consiglio dei Ministri al Ministro per i problemi delle aree urbane;
+
+                            
+                        
+                        
+                            h)
+                            
+                                gli affari generali, l'organizzazione e le attivita' strumentali al funzionamento del Dipartimento, nonche', con il coordinamento dei competenti uffici e dipartimenti del Segretariato generale, gli affari relativi al personale, beni e servizi per il funzionamento del dipartimento, gli adempimenti in materia contabile e finanziaria attribuiti al Ministro per i problemi delle aree urbane e l'introduzione ed utilizzazione di tecnologie informatiche per le attivita' del Dipartimento;
+
+                            
+                        
+                        
+                            i)
+                            
+                                il coordinamento delle attivita' amministrative svolte all'interno del Dipartimento.
 
 ## Art. 3. — Organizzazione
 

@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
 vigenza_date: 2015-03-24
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:41Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO MINISTERIALE
@@ -45,6 +45,32 @@ All'atto della presentazione della domanda rilasciata all'interessato una ricevu
 Ove la domanda dell'interessato sia ritenuta irregolare o incompleta, il responsabile del procedimento ne da' comunicazione all'istante entro quarantacinque giorni, indicando le cause dell'irregolarita' o della incompletezza. In questi casi il termine decorre dal ricevimento della domanda regolarizzata o completata.
 
 ## Art. 4. — Comunicazione dell'inizio del procedimento
+
+1.
+                    
+                        
+                            Ai sensi degli articoli 7 e 8 della Legge 241/1990 - che qui si intendono integralmente richiamati - il responsabile del procedimento da' comunicazione dell'inizio del procedimento ai soggetti nei confronti dei quali il provvedimento finale e' destinato a produrre effetti, ai soggetti la cui partecipazione al procedimento sia prevista da leggi o da regolamenti nonche' ai soggetti ai quali possa derivare un pregiudizio dal provvedimento.
+ Nella comunicazione devono essere indicati:
+ 
+                        
+                        
+                            a)
+                            
+                                l'ufficio e il soggetto responsabile del procedimento;
+
+                            
+                        
+                        
+                            b)
+                            
+                                l'oggetto del procedimento;
+
+                            
+                        
+                        
+                            c)
+                            
+                                l'ufficio in cui si puo' prendere visione degli atti.
 
 I soggetti di cui al comma 1 sono informati dell'avvio del procedimento mediante comunicazione personale, ai sensi dell'art. 8 della legge 7 agosto 1990, n. 241. Qualora la comunicazione personale risulti, in tutto o in parte, impossibile o eccessivamente onerosa, nonche' nei casi in cui vi siano esigenze di particolare celerita', il responsabile del procedimento adottera' le forme di pubblicita' piu' idonee.
 

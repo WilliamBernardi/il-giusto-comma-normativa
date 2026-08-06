@@ -8,8 +8,8 @@ vigente: true
 source: normattiva-opendata
 collection: Testi Unici
 vigenza_date: 2026-04-21
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:40:01Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -39,9 +39,129 @@ Le disposizioni contenute nel presente decreto sono applicate avendo riguardo al
 
 Per tutto quanto non derogato dalle disposizioni del presente decreto, si applicano alle societa' a partecipazione pubblica le norme sulle societa' contenute nel codice civile e le norme generali di diritto privato.
 
+4.
+                    
+                        
+                            Restano ferme: 
+ 
+                        
+                        
+                            a)
+                            
+                                le specifiche disposizioni, contenute in leggi o regolamenti governativi o ministeriali, che disciplinano societa' a partecipazione pubblica di diritto singolare costituite per l'esercizio della gestione di servizi di interesse generale o di interesse economico generale o per il perseguimento di una specifica missione di pubblico interesse; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                le disposizioni di legge riguardanti la partecipazione di amministrazioni pubbliche a enti associativi diversi dalle societa' e a fondazioni.
+
 Le disposizioni del presente decreto si applicano, solo se espressamente previsto, alle societa' quotate, come definite dall'articolo 2, comma 1, lettera p), nonche' alle societa' da esse ((controllate)).
 
 ## Art. 2. — Definizioni
+
+1.
+                    
+                        
+                            Ai fini del presente decreto si intendono per: 
+ 
+                        
+                        
+                            a)
+                            
+                                «amministrazioni pubbliche»: le amministrazioni di cui all'articolo 1, comma 2, del decreto legislativo n. 165 del 2001, i loro consorzi o associazioni per qualsiasi fine istituiti, gli enti pubblici economici e le autorita' di sistema portuale; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                «controllo»: la situazione descritta nell'articolo 2359 del codice civile. Il controllo puo' sussistere anche quando, in applicazione di norme di legge o statutarie o di patti parasociali, per le decisioni finanziarie e gestionali strategiche relative all'attivita' sociale e' richiesto il consenso unanime di tutte le parti che condividono il controllo; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                «controllo analogo»: la situazione in cui l'amministrazione esercita su una societa' un controllo analogo a quello esercitato sui propri servizi, esercitando un'influenza determinante sia sugli obiettivi strategici che sulle decisioni significative della societa' controllata. Tale controllo puo' anche essere esercitato da una persona giuridica diversa, a sua volta controllata allo stesso modo dall'amministrazione partecipante; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                «controllo analogo congiunto»: la situazione in cui l'amministrazione esercita congiuntamente con altre amministrazioni su una societa' un controllo analogo a quello esercitato sui propri servizi. La suddetta situazione si verifica al ricorrere delle condizioni di cui all'articolo 5, comma 5, del decreto legislativo 18 aprile 2016, n. 50; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                «enti locali»: gli enti di cui all'articolo 2 del decreto legislativo 18 agosto 2000, n. 267; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                «partecipazione»: la titolarita' di rapporti comportanti la qualita' di socio in societa' o la titolarita' di strumenti finanziari che attribuiscono diritti amministrativi; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                «partecipazione indiretta»: la partecipazione in una societa' detenuta da un'amministrazione pubblica per il tramite di societa' o altri organismi soggetti a controllo da parte della medesima amministrazione pubblica; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                «servizi di interesse generale»: le attivita' di produzione e fornitura di beni o servizi che non sarebbero svolte dal mercato senza un intervento pubblico o sarebbero svolte a condizioni differenti in termini di accessibilita' fisica ed economica, continuita', non discriminazione, qualita' e sicurezza, che le amministrazioni pubbliche, nell'ambito delle rispettive competenze, assumono come necessarie per assicurare la soddisfazione dei bisogni della collettivita' di riferimento, cosi' da garantire l'omogeneita' dello sviluppo e la coesione sociale, ivi inclusi i servizi di interesse economico generale; 
+
+                            
+                        
+                        
+                            i)
+                            
+                                «servizi di interesse economico generale»: i servizi di interesse generale erogati o suscettibili di essere erogati dietro corrispettivo economico su un mercato; 
+
+                            
+                        
+                        
+                            l)
+                            
+                                "societa'": gli organismi di cui ai titoli V e VI, capo I, del libro V del codice civile, anche aventi come oggetto sociale lo svolgimento di attivita' consortili, ai sensi dell'articolo 2615-ter del codice civile; 
+
+                            
+                        
+                        
+                            m)
+                            
+                                «societa' a controllo pubblico»: le societa' in cui una o piu' amministrazioni pubbliche esercitano poteri di controllo ai sensi della lettera b); 
+
+                            
+                        
+                        
+                            n)
+                            
+                                «societa' a partecipazione pubblica»: le societa' a controllo pubblico, nonche' le altre societa' partecipate direttamente da amministrazioni pubbliche o da societa' a controllo pubblico; 
+
+                            
+                        
+                        
+                            o)
+                            
+                                «societa' in house»: le societa' sulle quali un'amministrazione esercita il controllo analogo o piu' amministrazioni esercitano il controllo analogo congiunto, nelle quali la partecipazione di capitali privati avviene nelle forme di cui all'articolo 16, comma 1, e che soddisfano il requisito dell'attivita' prevalente di cui all'articolo 16, comma 3; 
+
+                            
+                        
+                        
+                            p)
+                            
+                                «societa' quotate»: le societa' a partecipazione pubblica che emettono azioni quotate in mercati regolamentati; le societa' che hanno emesso, alla data del 31 dicembre 2015, strumenti finanziari, diversi dalle azioni, quotati in mercati regolamentati. ((11))
 
 ---------------
                         AGGIORNAMENTO (11)
@@ -61,6 +181,45 @@ Nelle societa' a responsabilita' limitata a controllo pubblico l'atto costitutiv
 Finalita' perseguibili mediante l'acquisizione e la gestione di partecipazioni pubbliche
 
 Le amministrazioni pubbliche non possono, direttamente o indirettamente, costituire societa' aventi per oggetto attivita' di produzione di beni e servizi non strettamente necessarie per il perseguimento delle proprie finalita' istituzionali, ne' acquisire o mantenere partecipazioni, anche di minoranza, in tali societa'.
+
+2.
+                    
+                        
+                            Nei limiti di cui al comma 1, le amministrazioni pubbliche possono, direttamente o indirettamente, costituire societa' e acquisire o mantenere partecipazioni in societa' esclusivamente per lo svolgimento delle attivita' sotto indicate: 
+ 
+                        
+                        
+                            a)
+                            
+                                produzione di un servizio di interesse generale, ivi inclusa la realizzazione e la gestione delle reti e degli impianti funzionali ai servizi medesimi; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                progettazione e realizzazione di un'opera pubblica sulla base di un accordo di programma fra amministrazioni pubbliche, ai sensi dell'articolo 193 del decreto legislativo n. 50 del 2016; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                realizzazione e gestione di un'opera pubblica ovvero organizzazione e gestione di un servizio d'interesse generale attraverso un contratto di partenariato di cui all'articolo 180 del decreto legislativo n. 50 del 2016, con un imprenditore selezionato con le modalita' di cui all'articolo 17, commi 1 e 2; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                autoproduzione di beni o servizi strumentali all'ente o agli enti pubblici partecipanti o allo svolgimento delle loro funzioni, nel rispetto delle condizioni stabilite dalle direttive europee in materia di contratti pubblici e della relativa disciplina nazionale di recepimento; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                servizi di committenza, ivi incluse le attivita' di committenza ausiliarie, apprestati a supporto di enti senza scopo di lucro e di amministrazioni aggiudicatrici di cui all'articolo 3, comma 1, lettera a), del decreto legislativo n. 50 del 2016.
 
 Al solo fine di ottimizzare e valorizzare l'utilizzo di beni immobili facenti parte del proprio patrimonio, le amministrazioni pubbliche possono, altresi', anche in deroga al comma 1, acquisire partecipazioni in societa' aventi per oggetto sociale esclusivo la valorizzazione del patrimonio delle amministrazioni stesse, tramite il conferimento di beni immobili allo scopo di realizzare un investimento secondo criteri propri di un qualsiasi operatore di mercato.
 
@@ -111,6 +270,38 @@ Le societa' a controllo pubblico, che svolgano attivita' economiche protette da 
 
 Le societa' a controllo pubblico predispongono specifici programmi di valutazione del rischio di crisi aziendale e ne informano l'assemblea nell'ambito della relazione di cui al comma 4.
 
+3.
+                    
+                        
+                            Fatte salve le funzioni degli organi di controllo previsti a norma di legge e di statuto, le societa' a controllo pubblico valutano l'opportunita' di integrare, in considerazione delle dimensioni e delle caratteristiche organizzative nonche' dell'attivita' svolta, gli strumenti di governo societario con i seguenti: 
+ 
+                        
+                        
+                            a)
+                            
+                                regolamenti interni volti a garantire la conformita' dell'attivita' della societa' alle norme di tutela della concorrenza, comprese quelle in materia di concorrenza sleale, nonche' alle norme di tutela della proprieta' industriale o intellettuale; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                un ufficio di controllo interno strutturato secondo criteri di adeguatezza rispetto alla dimensione e alla complessita' dell'impresa sociale, che collabora con l'organo di controllo statutario, riscontrando tempestivamente le richieste da questo provenienti, e trasmette periodicamente all'organo di controllo statutario relazioni sulla regolarita' e l'efficienza della gestione; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                codici di condotta propri, o adesione a codici di condotta collettivi aventi a oggetto la disciplina dei comportamenti imprenditoriali nei confronti di consumatori, utenti, dipendenti e collaboratori, nonche' altri portatori di legittimi interessi coinvolti nell'attivita' della societa'; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                programmi di responsabilita' sociale d'impresa, in conformita' alle raccomandazioni della Commissione dell'Unione europea.
+
 Gli strumenti eventualmente adottati ai sensi del comma 3 sono indicati nella relazione sul governo societario che le societa' controllate predispongono annualmente, a chiusura dell'esercizio sociale e pubblicano contestualmente al bilancio d'esercizio.
 
 Qualora le societa' a controllo pubblico non integrino gli strumenti di governo societario con quelli di cui al comma 3, danno conto delle ragioni all'interno della relazione di cui al comma 4.
@@ -118,6 +309,38 @@ Qualora le societa' a controllo pubblico non integrino gli strumenti di governo 
 ## Art. 7.
 
 Costituzione di societa' a partecipazione pubblica
+
+1.
+                    
+                        
+                            La deliberazione di partecipazione di un'amministrazione pubblica alla costituzione di una societa' e' adottata con: 
+ 
+                        
+                        
+                            a)
+                            
+                                decreto del Presidente del Consiglio dei ministri, su proposta del Ministro dell'economia e delle finanze di concerto con i ministri competenti per materia, previa deliberazione del Consiglio dei ministri, in caso di partecipazioni statali; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                provvedimento del competente organo della regione, in caso di partecipazioni regionali; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                deliberazione del consiglio comunale, in caso di partecipazioni comunali; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                delibera dell'organo amministrativo dell'ente, in tutti gli altri casi di partecipazioni pubbliche.
 
 L'atto deliberativo e' redatto in conformita' a quanto previsto all'articolo 5, comma 1.
 
@@ -128,6 +351,38 @@ L'atto deliberativo e' pubblicato sui siti istituzionali dell'amministrazione pu
 Nel caso in cui sia prevista la partecipazione all'atto costitutivo di soci privati, la scelta di questi ultimi avviene con procedure di evidenza pubblica a norma dell'articolo 5, comma 9, del decreto legislativo n. 50 del 2016.
 
 Nel caso in cui una societa' a partecipazione pubblica sia costituita senza l'atto deliberativo di una o piu' amministrazioni pubbliche partecipanti, o l'atto deliberativo di partecipazione di una o piu' amministrazioni sia dichiarato nullo o annullato, le partecipazioni sono liquidate secondo quanto disposto dall'articolo 24, comma 5. Se la mancanza o invalidita' dell'atto deliberativo riguarda una partecipazione essenziale ai fini del conseguimento dell'oggetto sociale, si applicano le disposizioni di cui all'articolo 2332 del codice civile.
+
+7.
+                    
+                        
+                            Sono, altresi', adottati con le modalita' di cui ai commi 1 e 2: 
+ 
+                        
+                        
+                            a)
+                            
+                                le modifiche di clausole dell'oggetto sociale che consentano un cambiamento significativo dell'attivita' della societa'; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                la trasformazione della societa'; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                il trasferimento della sede sociale all'estero; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                la revoca dello stato di liquidazione.
 
 ## Art. 8.
 
@@ -191,6 +446,38 @@ Con decreto del Ministro dell'economia e delle finanze, previo parere delle Comm
 Fino all'emanazione del decreto di cui al comma 6 restano in vigore le disposizioni di cui all'articolo 4, comma 4, secondo periodo, del decreto-legge 6 luglio 2012, n. 95, convertito, con modificazioni, dalla legge 7 agosto 2012, n. 135, e successive modificazioni, e al decreto del Ministro dell'economia e delle finanze 24 dicembre 2013, n. 166.
 
 Gli amministratori delle societa' a controllo pubblico non possono essere dipendenti delle amministrazioni pubbliche controllanti o vigilanti. Qualora siano dipendenti della societa' controllante, in virtu' del principio di onnicomprensivita' della retribuzione, fatto salvo il diritto alla copertura assicurativa e al rimborso delle spese documentate, nel rispetto del limite di spesa di cui al comma 6, essi hanno l'obbligo di riversare i relativi compensi alla societa' di appartenenza. Dall'applicazione del presente comma non possono derivare aumenti della spesa complessiva per i compensi degli amministratori. ((18))
+
+9.
+                    
+                        
+                            Gli statuti delle societa' a controllo pubblico prevedono altresi': 
+ 
+                        
+                        
+                            a)
+                            
+                                l'attribuzione da parte del consiglio di amministrazione di deleghe di gestione a un solo amministratore, salva l'attribuzione di deleghe al presidente ove preventivamente autorizzata dall'assemblea; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                l'esclusione della carica di vicepresidente o la previsione che la carica stessa sia attribuita esclusivamente quale modalita' di individuazione del sostituto del presidente in caso di assenza o impedimento, senza riconoscimento di compensi aggiuntivi; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                il divieto di corrispondere gettoni di presenza o premi di risultato deliberati dopo lo svolgimento dell'attivita', e il divieto di corrispondere trattamenti di fine mandato, ai componenti degli organi sociali; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                il divieto di istituire organi diversi da quelli previsti dalle norme generali in tema di societa'.
 
 E' comunque fatto divieto di corrispondere ai dirigenti delle societa' a controllo pubblico indennita' o trattamenti di fine mandato diversi o ulteriori rispetto a quelli previsti dalla legge o dalla contrattazione collettiva ovvero di stipulare patti o accordi di non concorrenza, anche ai sensi dell'articolo 2125 del codice civile.
 
@@ -265,6 +552,31 @@ Societa' in house
 
 Le societa' in house ricevono affidamenti diretti di contratti pubblici dalle amministrazioni che esercitano su di esse il controllo analogo o da ciascuna delle amministrazioni che esercitano su di esse il controllo analogo congiunto solo se non vi sia partecipazione di capitali privati, ad eccezione di quella prescritta da norme di legge e che avvenga in forme che non comportino controllo o potere di veto, ne' l'esercizio di un'influenza determinante sulla societa' controllata.
 
+2.
+                    
+                        
+                            Ai fini della realizzazione dell'assetto organizzativo di cui al comma 1: 
+ 
+                        
+                        
+                            a)
+                            
+                                gli statuti delle societa' per azioni possono contenere clausole in deroga delle disposizioni dell'articolo 2380-bis e dell'articolo 2409-novies del codice civile; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                gli statuti delle societa' a responsabilita' limitata possono prevedere l'attribuzione all'ente o agli enti pubblici soci di particolari diritti, ai sensi dell'articolo 2468, terzo comma, del codice civile; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                in ogni caso, i requisiti del controllo analogo possono essere acquisiti anche mediante la conclusione di appositi patti parasociali; tali patti possono avere durata superiore a cinque anni, in deroga all'articolo 2341-bis, primo comma, del codice civile.
+
 Gli statuti delle societa' di cui al presente articolo devono prevedere che oltre l'ottanta per cento del loro fatturato sia effettuato nello svolgimento dei compiti a esse affidati dall'ente pubblico o dagli enti pubblici soci ((...)).
 
 ((
@@ -291,7 +603,64 @@ Il socio privato deve possedere i requisiti di qualificazione previsti da norme 
 
 La durata della partecipazione privata alla societa', aggiudicata ai sensi del comma 1 del presente articolo, non puo' essere superiore alla durata dell'appalto o della concessione. Lo statuto prevede meccanismi idonei a determinare lo scioglimento del rapporto societario in caso di risoluzione del contratto di servizio.
 
+4.
+                    
+                        
+                            Nelle societa' di cui al presente articolo: 
+ 
+                        
+                        
+                            a)
+                            
+                                gli statuti delle societa' per azioni possono contenere clausole in deroga delle disposizioni dell'articolo 2380-bis e dell'articolo 2409-novies del codice civile al fine di consentire il controllo interno del socio pubblico sulla gestione dell'impresa; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                gli statuti delle societa' a responsabilita' limitata possono prevedere l'attribuzione all'ente o agli enti pubblici partecipanti e ai soci privati di particolari diritti, ai sensi dell'articolo 2468, terzo comma, del codice civile, e derogare all'articolo 2479, primo comma, del codice civile nel senso di eliminare o limitare la competenza dei soci; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                gli statuti delle societa' per azioni possono prevedere l'emissione di speciali categorie di azioni e di azioni con prestazioni accessorie da assegnare al socio privato; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                i patti parasociali possono avere durata superiore a cinque anni, in deroga all'articolo 2341-bis, primo comma, del codice civile, purche' entro i limiti di durata del contratto per la cui esecuzione la societa' e' stata costituita.
+
 Nel rispetto delle disposizioni del presente articolo, al fine di ottimizzare la realizzazione e la gestione di piu' opere e servizi, anche non simultaneamente assegnati, la societa' puo' emettere azioni correlate ai sensi dell'articolo 2350, secondo comma, del codice civile, o costituire patrimoni destinati o essere assoggettata a direzione e coordinamento da parte di un'altra societa'.
+
+6.
+                    
+                        
+                            Alle societa' di cui al presente articolo che non siano organismi di diritto pubblico, costituite per la realizzazione di lavori o opere o per la produzione di beni o servizi non destinati ad essere collocati sul mercato in regime di concorrenza, per la realizzazione dell'opera pubblica o alla gestione del servizio per i quali sono state specificamente costituite non si applicano le disposizioni del decreto legislativo n. 50 del 2016, se ricorrono le seguenti condizioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                la scelta del socio privato e' avvenuta nel rispetto di procedure di evidenza pubblica; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                il socio privato ha i requisiti di qualificazione previsti dal decreto legislativo n. 50 del 2016 in relazione alla prestazione per cui la societa' e' stata costituita; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                la societa' provvede in via diretta alla realizzazione dell'opera o del servizio, in misura superiore al 70% del relativo importo.
 
 ## Art. 18.
 
@@ -320,6 +689,38 @@ Le societa' a controllo pubblico garantiscono il concreto perseguimento degli ob
 
 I provvedimenti e i contratti di cui ai commi 5 e 6 sono pubblicati sul sito istituzionale della societa' e delle pubbliche amministrazioni socie. In caso di mancata o incompleta pubblicazione si applicano l'articolo 22, comma 4, 46 e 47, comma 2, del decreto legislativo 14 marzo 2013, n. 33.
 
+8.
+                    
+                        
+                            Le pubbliche amministrazioni titolari di partecipazioni di controllo in societa', in caso di reinternalizzazione di funzioni o servizi esternalizzati, affidati alle societa' stesse, procedono, prima di poter effettuare nuove assunzioni, al riassorbimento delle unita' di personale gia' dipendenti a tempo indeterminato da amministrazioni pubbliche e transitate alle dipendenze della societa' interessata dal processo di reinternalizzazione, mediante l'utilizzo delle procedure di mobilita' di cui all'articolo 30 del decreto legislativo n. 165 del 2001 e nel rispetto dei vincoli in materia di finanza pubblica e contenimento delle spese di personale. Il riassorbimento puo' essere disposto solo nei limiti dei posti vacanti nelle dotazioni organiche dell'amministrazione interessata e nell'ambito delle facolta' assunzionali disponibili. La spesa per il riassorbimento del personale gia' in precedenza dipendente dalle stesse amministrazioni con rapporto di lavoro a tempo indeterminato non rileva nell'ambito delle facolta' assunzionali disponibili e, per gli enti territoriali, anche del parametro di cui all'articolo 1, comma 557-quater, della legge n. 296 del 2006, a condizione che venga fornita dimostrazione, certificata dal parere dell'organo di revisione economico-finanziaria, che le esternalizzazioni siano state effettuate nel rispetto degli adempimenti previsti dall'articolo 6-bis del decreto legislativo 30 marzo 2001, n. 165, e, in particolare, a condizione che: 
+ 
+                        
+                        
+                            a)
+                            
+                                in corrispondenza del trasferimento alla societa' della funzione sia stato trasferito anche il personale corrispondente alla funzione medesima, con le correlate risorse stipendiali; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                la dotazione organica dell'ente sia stata corrispondentemente ridotta e tale contingente di personale non sia stato sostituito; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                siano state adottate le necessarie misure di riduzione dei fondi destinati alla contrattazione integrativa; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                l'aggregato di spesa complessiva del personale soggetto ai vincoli di contenimento sia stato ridotto in misura corrispondente alla spesa del personale trasferito alla societa'. (2)
+
 Le disposizioni di cui all'articolo 1, commi da 565 a 568 della legge 27 dicembre 2013, n. 147, continuano ad applicarsi fino alla data di pubblicazione del decreto di cui all'articolo 25, comma 1, e comunque non oltre il 31 dicembre 2017.
 
 Al personale di cui al presente articolo e al personale dipendente di enti pubblici non economici, anche per esigenze strettamente collegate all'attuazione del Piano nazionale di ripresa e resilienza si applicano, in quanto compatibili, le disposizioni di cui agli articoli 30 del decreto legislativo 10 settembre 2003, n. 276, e 56 del testo unico di cui al decreto del Presidente della Repubblica 10 gennaio 1957, n. 3. Restano fermi, per le amministrazioni riceventi, i limiti quantitativi stabiliti dall'articolo 30, comma 1-quinquies, del decreto legislativo 30 marzo 2001, n. 165. I comandi o distacchi di cui al presente articolo non possono eccedere la durata di un anno ((, sono rinnovabili)) e, comunque, non possono essere utilizzati oltre il ((31 dicembre 2027)).
@@ -332,6 +733,59 @@ Al personale di cui al presente articolo e al personale dipendente di enti pubbl
 ## Art. 20. — Razionalizzazione periodica delle partecipazioni pubbliche
 
 Fermo quanto previsto dall'articolo 24, comma 1, le amministrazioni pubbliche effettuano annualmente, con proprio provvedimento, un'analisi dell'assetto complessivo delle societa' in cui detengono partecipazioni, dirette o indirette, predisponendo, ove ricorrano i presupposti di cui al comma 2, un piano di riassetto per la loro razionalizzazione, fusione o soppressione, anche mediante messa in liquidazione o cessione. Fatto salvo quanto previsto dall'articolo 17, comma 4, del decreto-legge 24 giugno 2014, n. 90, convertito, con modificazioni, dalla legge 11 agosto 2014, n. 114, le amministrazioni che non detengono alcuna partecipazione lo comunicano alla sezione della Corte dei conti competente ai sensi dell'articolo 5, comma 4, e alla struttura di cui all'articolo 15.
+
+2.
+                    
+                        
+                            I piani di razionalizzazione, corredati di un'apposita relazione tecnica, con specifica indicazione di modalita' e tempi di attuazione, sono adottati ove, in sede di analisi di cui al comma 1, le amministrazioni pubbliche rilevino: 
+ 
+                        
+                        
+                            a)
+                            
+                                partecipazioni societarie che non rientrino in alcuna delle categorie di cui all'articolo 4; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                societa' che risultino prive di dipendenti o abbiano un numero di amministratori superiore a quello dei dipendenti; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                partecipazioni in societa' che svolgono attivita' analoghe o similari a quelle svolte da altre societa' partecipate o da enti pubblici strumentali; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                partecipazioni in societa' che, nel triennio precedente, abbiano conseguito un fatturato medio non superiore a un milione di euro; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                partecipazioni in societa' diverse da quelle costituite per la gestione di un servizio d'interesse generale che abbiano prodotto un risultato negativo per quattro dei cinque esercizi precedenti; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                necessita' di contenimento dei costi di funzionamento; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                necessita' di aggregazione di societa' aventi ad oggetto le attivita' consentite all'articolo 4.
 
 I provvedimenti di cui ai commi 1 e 2 sono adottati entro il 31 dicembre di ogni anno e sono trasmessi con le modalita' di cui all'articolo 17 del decreto-legge n. 90 del 2014, convertito, con modificazioni, dalla legge di conversione 11 agosto 2014, n. 114 e rese disponibili alla struttura di cui all'articolo 15 e alla sezione di controllo della Corte dei conti competente ai sensi dell'articolo 5, comma 4.
 
@@ -357,6 +811,24 @@ Norme finanziarie sulle societa' partecipate dalle amministrazioni locali
 
 Nel caso in cui societa' partecipate dalle pubbliche amministrazioni locali comprese nell'elenco di cui all'articolo 1, comma 3, della legge 31 dicembre 2009, n. 196, presentino un risultato di esercizio negativo, le pubbliche amministrazioni locali partecipanti, che adottano la contabilita' finanziaria, accantonano nell'anno successivo in apposito fondo vincolato un importo pari al risultato negativo non immediatamente ripianato, in misura proporzionale alla quota di partecipazione. Le pubbliche amministrazioni locali che adottano la contabilita' civilistica adeguano il valore della partecipazione, nel corso dell'esercizio successivo, all'importo corrispondente alla frazione del patrimonio netto della societa' partecipata ove il risultato negativo non venga immediatamente ripianato e costituisca perdita durevole di valore.
 Per le societa' che redigono il bilancio consolidato, il risultato di esercizio e' quello relativo a tale bilancio. Limitatamente alle societa' che svolgono servizi pubblici a rete di rilevanza economica, per risultato si intende la differenza tra valore e costi della produzione ai sensi dell'articolo 2425 del codice civile. L'importo accantonato e' reso disponibile in misura proporzionale alla quota di partecipazione nel caso in cui l'ente partecipante ripiani la perdita di esercizio o dismetta la partecipazione o il soggetto partecipato sia posto in liquidazione. Nel caso in cui i soggetti partecipati ripianino in tutto o in parte le perdite conseguite negli esercizi precedenti l'importo accantonato viene reso disponibile agli enti partecipanti in misura corrispondente e proporzionale alla quota di partecipazione.
+
+2.
+                    
+                        
+                            Gli accantonamenti e le valutazioni di cui al comma 1 si applicano a decorrere dall'anno 2015. In sede di prima applicazione, per gli anni 2015, 2016 e 2017, in presenza di adozione della contabilita' finanziaria: 
+ 
+                        
+                        
+                            a)
+                            
+                                l'ente partecipante a societa' che hanno registrato nel triennio 2011-2013 un risultato medio negativo accantona, in proporzione alla quota di partecipazione, una somma pari alla differenza tra il risultato conseguito nell'esercizio precedente e il risultato medio 2011-2013 migliorato, rispettivamente, del 25 per cento per il 2014, del 50 per cento per il 2015 e del 75 per cento per il 2016; qualora il risultato negativo sia peggiore di quello medio registrato nel triennio 2011-2013, l'accantonamento e' operato nella misura indicata dalla lettera b); 
+
+                            
+                        
+                        
+                            b)
+                            
+                                l'ente partecipante a societa' che hanno registrato nel triennio 2011-2013 un risultato medio non negativo accantona, in misura proporzionale alla quota di partecipazione, una somma pari al 25 per cento per il 2015, al 50 per cento per il 2016 e al 75 per cento per il 2017 del risultato negativo conseguito nell'esercizio precedente.
 
 Le societa' a partecipazione di maggioranza, diretta e indiretta, delle pubbliche amministrazioni locali titolari di affidamento diretto da parte di soggetti pubblici per una quota superiore all'80 per cento del valore della produzione, che nei tre esercizi precedenti abbiano conseguito un risultato economico negativo, procedono alla riduzione del 30 per cento del compenso dei componenti degli organi di amministrazione. Il conseguimento di un risultato economico negativo per due anni consecutivi rappresenta giusta causa ai fini della revoca degli amministratori. Quanto previsto dal presente comma non si applica ai soggetti il cui risultato economico, benche' negativo, sia coerente con un piano di risanamento preventivamente approvato dall'ente controllante.
 
@@ -442,6 +914,24 @@ Sono fatte salve, fino al completamento dei relativi progetti, le partecipazioni
 
 Ove alla data di entrata in vigore del presente decreto non sia stato adottato il decreto previsto dall'articolo 1, comma 672, della legge 28 dicembre 2015, n. 208, il decreto di cui all'articolo 11, comma 6 e' adottato entro trenta giorni dalla suddetta data.
 
+9.
+                    
+                        
+                            Al decreto legislativo 23 giugno 2011, n. 118, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                all'articolo 11-quater, comma 1, le parole: «Si definisce» sono sostituite dalle seguenti: «Ai fini dell'elaborazione del bilancio consolidato, si definisce»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                all'articolo 11-quinquies, comma 1, le parole: «Per societa' partecipata» sono sostituite dalle seguenti: «Ai fini dell'elaborazione del bilancio consolidato, per societa' partecipata».
+
 Le societa' a controllo pubblico si adeguano alle previsioni dell'articolo 11, comma 8, entro il 31 luglio 2017.
 
 Salva l'immediata applicazione della disciplina sulla revisione straordinaria di cui all'articolo 24, alla razionalizzazione periodica di cui all'articolo 20 si procede a partire dal 2018, con riferimento alla situazione al 31 dicembre 2017.
@@ -460,6 +950,49 @@ In deroga all'articolo 4, le amministrazioni pubbliche possono acquisire o mante
 
 ## Art. 27. — Coordinamento con la legislazione vigente
 
+1.
+                    
+                        
+                            All'articolo 18 del decreto-legge 25 giugno 2008, n. 112, convertito, con modificazioni, dalla legge 6 agosto 2008, n. 133 sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                nella rubrica, le parole: «delle societa'» sono sostituite dalle seguenti: «delle aziende e istituzioni»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 2-bis, le parole: «Le aziende speciali, le istituzioni e le societa' a partecipazione pubblica locale totale o di controllo», ovunque occorrano, sono sostituite dalle seguenti: «Le aziende speciali e le istituzioni».
+
+2.
+                    
+                        
+                            All'articolo 1 della legge 27 dicembre 2013, n. 147, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 550, le parole: «alle aziende speciali, alle istituzioni e alle societa'» sono sostituite dalle seguenti: «alle aziende speciali e alle istituzioni»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 554, le parole: «le aziende speciali, le istituzioni e le societa'» sono sostituite dalle seguenti: «le aziende speciali e le istituzioni»; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                al comma 555, le parole: «diversi dalle societa' che svolgono servizi pubblici locali» sono soppresse.
+
 ((
 
 Resta fermo quanto previsto dall'articolo 3-bis, comma 2-bis, del decreto-legge 13 agosto 2011, n. 138, convertito, con modificazioni, dalla legge 14 settembre 2011, n. 148.
@@ -470,4 +1003,75 @@ Sono escluse le societa' quotate come definite dall'articolo 2, comma 1, lettera
 ))
 
 ## Art. 28. — Abrogazioni
+
+1.
+                    
+                        
+                            Sono abrogati: 
+ 
+                        
+                        
+                            a)
+                            
+                                gli articoli 116, 122 del decreto legislativo 18 agosto 2000, n. 267; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                l'articolo 14, comma 1, del decreto legge 30 settembre 2003, n. 269, convertito, con modificazioni, dalla legge 24 novembre 2003, n. 326; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                l'articolo 1, comma 3, lettera n), della legge 23 agosto 2004, n. 239; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                l'articolo 13 del decreto legge 4 luglio 2006, n. 223, convertito, con modificazioni, dalla legge 4 agosto 2006, n. 248; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                l'articolo 1, commi 725, 726, 727, 728, 729, 730, 733 e 735 della legge 27 dicembre 2006, n. 296; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                l'articolo 3, commi 12, 12-bis, 14, 15, 16, 17, 27, 27-bis, 28, 28-bis, 29, 32-bis, 32-ter e 44, ottavo periodo, della legge 24 dicembre 2007, n. 244; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                l'articolo 18 del decreto-legge 25 giugno 2008, n. 112, convertito, con modificazioni, dalla legge 6 agosto 2008, n. 133, commi 1, 2 e 3; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                l'articolo 71 della legge 18 giugno 2009, n. 69; 
+ l) l'articolo 6, comma 19, del decreto-legge 31 maggio 2010, n. 78, convertito, con modificazioni, dalla legge 30 luglio 2010, n. 122; 
+ m) l'articolo 3-bis, comma 6, del decreto-legge 13 agosto 2011, n. 138, convertito, con modificazioni, dalla legge 14 settembre 2011, n. 148; 
+ n) l'articolo 23-bis, commi 5-bis, 5-ter, 5-quater, 5-quinquies e 5-sexies, del decreto-legge 6 dicembre 2011, n. 201, convertito, con modificazioni, dalla legge 22 dicembre 2011, n. 214; 
+ o) l'articolo 4, comma 4, del decreto-legge 6 luglio 2012, n. 95, convertito, con modificazioni, dalla legge 7 agosto 2012, n. 135, limitatamente al primo e al terzo periodo; 
+ p) l'articolo 4, comma 5, del citato decreto-legge n. 95 del 2012, limitatamente al primo periodo e alle parole "e dal terzo" del secondo periodo; 
+ q) l'articolo 4, comma 13, del citato decreto-legge n. 95 del 2012, limitatamente al primo, al secondo e al quarto periodo; 
+ r) l'articolo 3, comma 7-bis, del decreto-legge 31 agosto 2013, n. 101, convertito in legge 30 ottobre 2013, n. 125; 
+ s) l'articolo 1, commi 551, limitatamente al secondo periodo, 558 e 562, limitatamente alla lettera b), della legge 27 dicembre 2013, n. 147; 
+ t) l'articolo 1, commi da 563 a 568 e da 568-ter a 569-bis, della legge 27 dicembre 2013, n. 147; 
+ u) l'articolo 23 del decreto-legge 24 aprile 2014, n. 66, convertito, con modificazioni, dalla legge 23 giugno 2014, n. 89; 
+ v) l'articolo 1, comma 672, della legge 28 dicembre 2015, n. 208.
 

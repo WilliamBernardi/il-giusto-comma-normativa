@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: DPR
 vigenza_date: 2022-06-15
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:47:41Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -1650,8 +1650,67 @@ Gli importi di cui al precedente comma 2 riassorbono gli incrementi attribuiti a
 
 ## Art. 5. — Fondo per l'efficienza dei servizi istituzionali
 
+1.
+                        
+                            
+                                Per ogni Forza di polizia ad ordinamento civile il Fondo per l'efficienza dei servizi istituzionali, di cui all'articolo 14 del decreto del Presidente della Repubblica 18 giugno 2002, n. 164, come incrementato dall'articolo 3 del decreto del Presidente della Repubblica 19 novembre 2003, n. 348, dall'articolo 7 del decreto del Presidente della Repubblica 5 novembre 2004, n. 301, dall'articolo 4 del decreto del Presidente della Repubblica 28 aprile 2006, n. 220, dall'articolo 5 del decreto del Presidente della Repubblica 11 settembre 2007, n. 170, e' ulteriormente incrementato delle seguenti risorse economiche annue:
+ 
+                            
+                            
+                                a)
+                                
+                                    per l'anno 2007:
+ 1) Polizia di Stato: euro 13.804.000;
+ 2) Polizia penitenziaria: euro 5.195.000;
+ 3) Corpo forestale dello Stato: euro 702.000;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    per l'anno 2008:
+ 1) Polizia di Stato: euro 46.203.000;
+ 2) Polizia penitenziaria: euro 17.820.000;
+ 3) Corpo forestale dello Stato: euro 3.462.000;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    a decorrere dall'anno 2009:
+ 1) Polizia di Stato: euro 11.637.000;
+ 2) Polizia penitenziaria: euro 1.908.000;
+ 3) Corpo forestale dello Stato: euro 188.000.
+
 Gli importi di cui alle lettere a), b) e c) del comma 1 non comprendono gli oneri contributivi e l'IRAP a carico dello Stato.
 Quelli afferenti all'anno 2007 e all'anno 2008 non hanno effetto di trascinamento negli anni successivi.
+
+3.
+                        
+                            
+                                Per il solo anno 2009 gli importi di cui al precedente comma 1, lettera c), sono maggiorati come segue:
+ 
+                            
+                            
+                                a)
+                                
+                                    Polizia di Stato: euro 174.000;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    Polizia penitenziaria: euro 77.000;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    Corpo forestale dello Stato: euro 9.000.
 
 Gli importi di cui al precedente comma 3 non comprendono gli oneri contributivi e l'IRAP a carico dello Stato e non hanno effetto di trascinamento negli anni successivi.
 
@@ -1898,6 +1957,31 @@ Ferme restando le vigenti disposizioni in materia di buoni pasto, a decorrere da
 
 ## Art. 8. — Assegno funzionale
 
+1.
+                        
+                            
+                                A decorrere dal 1° dicembre 2008, fermi restando i requisiti di cui all'articolo 5, comma 3, del decreto del Presidente della Repubblica 16 marzo 1999, n. 254, all'assegno funzionale pensionabile di cui all'articolo 3, commi 1 e 2, del decreto del Presidente della Repubblica 28 aprile 2006, n. 220, sono apportate le seguenti modifiche: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la misura prevista al compimento di 29 anni di servizio per le qualifiche di Agente, Agente scelto, Assistente e Assistente Capo, viene incrementata di euro 781,00 annui lordi; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le misure previste al compimento di 29 anni, ivi compresa quella di cui al punto precedente, vengono attribuite al compimento di 27 anni di servizio; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    al compimento di 32 anni di servizio, le misure attribuite a 27 anni di servizio vengono rideterminate negli importi indicati nella colonna 4 della tabella di cui al successivo comma 2 e nella colonna 4 della tabella di cui al successivo comma 3. (2)
+
 Per effetto di quanto previsto al precedente comma 1, a decorrere dal 1° dicembre 2008, le misure dell'assegno funzionale sono fissate negli importi annui lordi di cui alla tabella seguente: 
  
  Parte di provvedimento in formato grafico
@@ -2086,6 +2170,66 @@ Per agevolare il soddisfacimento di particolari esigenze collegate a terapie o v
 
 ## Art. 18. — Tutela delle lavoratrici madri
 
+1.
+                        
+                            
+                                Oltre a quanto previsto dal decreto legislativo 26 marzo 2001, n. 151, al personale delle Forze di polizia ad ordinamento civile si applicano le seguenti disposizioni:
+ 
+                            
+                            
+                                a)
+                                
+                                    esonero dalla sovrapposizione completa dei turni, a richiesta degli interessati, tra coniugi dipendenti dalla stessa Amministrazione con figli fino a sei anni di eta';
+
+                                
+                            
+                            
+                                b)
+                                
+                                    esonero, a domanda, per la madre o, alternativamente, per il padre, dal turno notturno sino al compimento del terzo anno di eta' del figlio;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    esonero, a domanda, sino al compimento del terzo anno di eta' del figlio, per la madre dal turno notturno o da turni continuativi articolati sulle 24 ore, o per le situazioni monoparentali da turni continuativi articolati sulle 24 ore;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    esonero, a domanda, dal turno notturno per le situazioni monoparentali, ivi compreso il genitore unico affidatario, sino al compimento del dodicesimo anno di eta' del figlio convivente;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    divieto di inviare in missione fuori sede o in servizio di ordine pubblico per piu' di una giornata, senza il consenso dell'interessato, il personale con figli di eta' inferiore a tre anni che ha proposto istanza per essere esonerato dai turni continuativi e notturni e dalla sovrapposizione dei turni;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    esonero, a domanda, dal turno notturno per i dipendenti che abbiano a proprio carico un soggetto disabile ai sensi della legge 5 febbraio 1992, n. 104;
+
+                                
+                            
+                            
+                                g)
+                                
+                                    possibilita' per le lavoratrici madri e per i lavoratori padri vincitori di concorso interno, con figli fino al dodicesimo anno di eta', di frequentare il corso di formazione presso la scuola piu' vicina al luogo di residenza, tra quelle in cui il corso stesso si svolge;
+
+                                
+                            
+                            
+                                h)
+                                
+                                    divieto di impiegare la madre o il padre che fruiscono dei riposi giornalieri, ai sensi degli articoli 39 e 40, del decreto legislativo 26 marzo 2001, n. 151 in turni continuativi articolati sulle 24 ore.
+
 La disposizione di cui all'articolo 9, comma 1, del decreto legislativo 26 marzo 2001, n. 151, si applica anche alle appartenenti al Corpo forestale dello Stato.
 
 Nel caso di adozione o affidamento preadottivo, i benefici di cui ai commi 1 e 2 si applicano dalla data di effettivo ingresso del bambino nella famiglia.
@@ -2101,6 +2245,31 @@ Non si applicano i commi 1 e 2 dell'articolo 20 del decreto del Presidente della
 ## Art. 20. — Asili nido
 
 Nell'ambito delle attivita' assistenziali nei confronti del personale e nei limiti degli stanziamenti relativi ai capitoli ad esse inerenti l'Amministrazione, in luogo della istituzione di asili nido, puo' concedere il rimborso, anche parziale, delle rette relative alle spese sostenute dai dipendenti per i figli a carico, secondo modalita' e criteri da concordare con le organizzazioni sindacali rappresentative sul piano nazionale.
+
+2.
+                        
+                            
+                                A decorrere dall'anno 2009, le risorse di cui all'articolo 38 del decreto del Presidente della Repubblica 18 giugno 2002, n. 164, sono incrementate, per le finalita' di cui al comma 1, dei seguenti importi annui:
+ 
+                            
+                            
+                                a)
+                                
+                                    Polizia di Stato: euro 533.695;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    Polizia penitenziaria: euro 500.000;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    Corpo forestale dello stato: euro 126.715.
 
 ## Art. 21. — Tutela legale
 
@@ -3701,8 +3870,57 @@ AGGIORNEMENTO (1)
 
 ## Art. 28. — Fondo per l'efficienza dei servizi istituzionali
 
+1.
+                        
+                            
+                                Per ogni Forza di polizia ad ordinamento militare il Fondo per l'efficienza dei servizi istituzionali, di cui all'articolo 53 del decreto del Presidente della Repubblica 18 giugno 2002, n. 164, cosi' come incrementato dall'articolo 8 del decreto del Presidente della Repubblica 19 novembre 2003, n. 348, dall'articolo 14 del decreto del Presidente della Repubblica 5 novembre 2004, n. 301, dall'articolo 8 del decreto del Presidente della Repubblica 28 aprile 2006, n. 220 e dall'articolo 23 del decreto del Presidente della Repubblica 11 settembre 2007, n. 170 e' ulteriormente incrementato delle seguenti risorse economiche annue:
+ 
+                            
+                            
+                                a)
+                                
+                                    per l'anno 2007:
+ 1) Arma dei carabinieri: euro 15.345.000;
+ 2) Guardia di Finanza: euro 9.579.000;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    per l'anno 2008:
+ 1) Arma dei carabinieri: euro 46.954.000;
+ 2) Guardia di Finanza: euro 28.286.000;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    a decorrere dall'anno 2009:
+ 1) Arma dei carabinieri: euro 14.410.000;
+ 2) Guardia di Finanza: euro 4.540.000.
+
 Gli importi di cui alle lettere a), b) e c) del comma 1 non comprendono gli oneri contributivi e l'IRAP a carico dello Stato.
 Quelli afferenti all'anno 2007 e all'anno 2008 non hanno effetto di trascinamento negli anni successivi.
+
+3.
+                        
+                            
+                                Per il solo anno 2009 gli importi di cui al precedente comma 1 lettera c), sono maggiorati come segue:
+ 
+                            
+                            
+                                a)
+                                
+                                    Arma dei carabinieri: euro 74.000;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    Guardia di Finanza: euro 38.000.
 
 Gli importi di cui al precedente comma 3 non comprendono gli oneri contributivi e l'IRAP a carico dello Stato e non hanno effetto di trascinamento negli anni successivi.
 
@@ -4144,6 +4362,66 @@ Per agevolare il soddisfacimento di particolari esigenze collegate a terapie o v
 
 ## Art. 41. — Tutela delle lavoratrici madri
 
+1.
+                        
+                            
+                                Oltre a quanto previsto dal decreto legislativo 26 marzo 2001, n. 151, al personale delle Forze di polizia ad ordinamento militare si applicano le seguenti disposizioni:
+ 
+                            
+                            
+                                a)
+                                
+                                    esonero dalla sovrapposizione completa dell'orario di servizio, a richiesta degli interessati, tra coniugi dipendenti dalla stessa Amministrazione con figli fino a sei anni di eta';
+
+                                
+                            
+                            
+                                b)
+                                
+                                    esonero, a domanda, per la madre o, alternativamente, per il padre, dal servizio notturno sino al compimento del terzo anno di eta' del figlio;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    esonero, a domanda, sino al compimento del terzo anno di eta' del figlio, per la madre dal servizio notturno o dal servizio su turni continuativi articolati sulle 24 ore, o per le situazioni monoparentali dal servizio su turni continuativi articolati sulle 24 ore;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    esonero, a domanda, dal servizio notturno per le situazioni monoparentali, ivi compreso il genitore unico affidatario, sino al compimento del dodicesimo anno di eta' del figlio convivente;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    divieto di inviare in missione fuori sede o in servizio di ordine pubblico per piu' di una giornata, senza il consenso dell'interessato, il personale con figli di eta' inferiore a tre anni che ha proposto istanza per essere esonerato dai servizi continuativi e notturni e dalla sovrapposizione dei servizi;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    esonero, a domanda, dal servizio notturno per i dipendenti che abbiano a proprio carico un soggetto disabile ai sensi della legge 5 febbraio 1992, n. 104;
+
+                                
+                            
+                            
+                                g)
+                                
+                                    possibilita' per le lavoratrici madri e per i lavoratori padri vincitori di concorso interno, con figli fino al dodicesimo anno di eta', di frequentare il corso di formazione presso la scuola piu' vicina al luogo di residenza, tra quelle in cui il corso stesso si svolge;
+
+                                
+                            
+                            
+                                h)
+                                
+                                    divieto di impiegare la madre o il padre che fruiscono dei riposi giornalieri, ai sensi degli articoli 39 e 40 del decreto legislativo 26 marzo 2001, n. 151, in servizi continuativi articolati sulle 24 ore.
+
 Nel caso di adozione o affidamento preadottivo, i benefici di cui al comma 1 si applicano dalla data di effettivo ingresso del bambino nella famiglia.
 
 ## Art. 42. — Diritto allo studio
@@ -4157,6 +4435,24 @@ Non si applicano i commi 1 e 2 dell'articolo 57 del decreto del Presidente della
 ## Art. 43. — Asili nido
 
 Nell'ambito delle attivita' assistenziali nei confronti del personale e nei limiti degli stanziamenti relativi ai capitoli ad esse inerenti l'Amministrazione, in luogo della istituzione di asili nido, puo' concedere il rimborso, anche parziale, delle rette relative alle spese sostenute dai dipendenti per i figli a carico.
+
+2.
+                        
+                            
+                                A decorrere dall'anno 2009, le risorse di cui all'articolo 61 del decreto del Presidente della Repubblica 18 giugno 2002, n. 164, sono incrementate, per le finalita' di cui al comma 1, dei seguenti importi annui:
+ 
+                            
+                            
+                                a)
+                                
+                                    Arma dei carabinieri: euro 500.000;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    Guardia di finanza: euro 503.720.
 
 ## Art. 44. — Tutela legale
 

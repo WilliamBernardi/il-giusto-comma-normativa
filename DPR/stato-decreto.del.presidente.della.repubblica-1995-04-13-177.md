@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: DPR
 vigenza_date: 1995-10-19
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:47:45Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -38,6 +38,81 @@ Se e' stato notificato avviso di accertamento, l'accertamento con adesione e' es
 ## Art. 2. — Criteri generali da porre a base
  delle elaborazioni dell'anagrafe tributaria
 
+1.
+                    
+                        
+                            La societa' concessionaria del sistema informativo del Ministero delle finanze sulla base degli elementi risultanti dalle dichiarazioni acquisite provvede a formare gruppi omogenei di contribuenti, per ciascuna annualita', con i seguenti criteri:
+ 
+                        
+                        
+                            a)
+                            
+                                classificazione dei contribuenti per tipo di modello di dichiarazione dei redditi e per settore economico di appartenenza;
+
+                            
+                        
+                        
+                            b)
+                            
+                                ordinamento dei contribuenti in ordine crescente di ricavi e suddivisione in ulteriori venti classi di ricavi;
+
+                            
+                        
+                        
+                            c)
+                            
+                                ordinamento dei contribuenti all'interno di ognuna delle classi suddette di ricavo in ordine crescente di redditivita', calcolata rapportando il reddito al ricavo;
+
+                            
+                        
+                        
+                            d)
+                            
+                                nell'ambito di ogni classe di cui alla lettera b) suddivisione dei contribuenti in ulteriori dieci gruppi di redditivita'.
+
+2.
+                    
+                        
+                            La societa' di cui al comma 1, per individuare il maggior ricavo relativo a ciascun gruppo omogeneo, provvede a:
+ 
+                        
+                        
+                            a)
+                            
+                                determinare il reddito medio di ciascun gruppo omogeneo come media aritmetica dei redditi del gruppo;
+
+                            
+                        
+                        
+                            b)
+                            
+                                determinare, nell'ambito di ogni classe di ricavo, la differenza tra il reddito medio del gruppo di redditivita' successivo e quello del gruppo in esame;
+
+                            
+                        
+                        
+                            c)
+                            
+                                determinare la base per il calcolo del maggior ricavo confrontando la differenza di ogni gruppo di redditivita' con la differenza media della classe di ricavo di appartenenza, attribuendo la maggiore tra le due differenze ai primi quattro gruppi di redditivita' e la differenza media agli altri.
+
+3.
+                    
+                        
+                            La societa' di cui al comma 1, sulla base di quanto disposto nei commi 1 e 2, individua le posizioni soggettive a cui attribuire il maggior ricavo e provvede a:
+ 
+                        
+                        
+                            a)
+                            
+                                determinare l'importo da assegnare ad ogni contribuente applicando un coefficiente in modo da rendere il maggior ricavo inversamente proporzionale alla redditivita' dichiarata;
+
+                            
+                        
+                        
+                            b)
+                            
+                                incrementare il ricavo dichiarato di ciascun contribuente dell'importo cosi' determinato, tenuto conto che l'incremento non puo' essere inferiore ad un valore minimo dipendente dal ricavo dichiarato. L'incremento del ricavo non puo' essere inferiore a L. 500.000 per le persone fisiche e a L. 1.250.000 per le societa', le associazioni tra professionisti e gli enti commerciali.
+
 I criteri di determinazione del maggiore ricavo di cui ai commi 1, 2 e 3 non si applicano ai soggetti che, in considerazione delle dimensioni e delle caratteristiche della attivita' esercitata, non sono classificabili per gruppi omogenei.
 
 I criteri indicati nel presente articolo escludono, ad ogni effetto di legge, ai fini dell'accertamento con adesione, l'applicabilita' dell'art. 8, primo comma, del decreto del Presidente della Repubblica 6 ottobre 1978, n. 627, e successive modificazioni; l'applicabilita' dei coefficienti presuntivi, di cui all'art. 12 del decreto-legge 2 marzo 1989, n. 69, convertito, con modificazioni, dalla legge 27 aprile 1989, n. 154, e successive modificazioni; nonche' la liquidazione e la riscossione delle maggiori imposte di cui al comma 1 dell'art. 11-bis del decreto-legge 19 settembre 1992, n. 384, convertito, con modificazioni, dalla legge 14 novembre 1992, n. 438.
@@ -48,6 +123,38 @@ Con decreto del Ministro delle finanze sono approvate le relative metodologie di
  per ll calcolo degli importi dovuti dai contribuenti
 
 Il maggior ricavo determinato ai sensi dell'art. 2 costituisce base imponibile ai fini delle imposte sui redditi e dell'imposta sul valore aggiunto.
+
+2.
+                    
+                        
+                            La societa' concessionaria del sistema informativo del Ministero delle finanze, per ciascun contribuente, distintamente per ciascuna annualita', calcola le maggiori imposte dovute:
+ 
+                        
+                        
+                            a)
+                            
+                                ai fini dell'imposta sul reddito delle persone fisiche, calcolando la differenza tra l'imposta gravante sul reddito imponibile dichiarato e quella determinata sul reddito imponibile calcolato incrementando il reddito imponibile dichiarato del maggior reddito determinato con il procedimento indicato nell'art. 2, tenuto conto della irrilevanza delle perdite di cui all'art. 8, comma 3;
+
+                            
+                        
+                        
+                            b)
+                            
+                                ai fini dell'imposta sul reddito delle persone giuridiche, calcolando un importo pari al trentasei per cento del maggior reddito, calcolato con il procedimento indicato nell'art. 2, tenuto conto della irrilevanza delle perdite di cui all'art. 8, comma 3;
+
+                            
+                        
+                        
+                            c)
+                            
+                                ai fini dell'imposta locale sui redditi, calcolando un importo pari al sedici virgola due per cento del maggior reddito di specie determinato con il procedimento indicato nell'art. 2;
+
+                            
+                        
+                        
+                            d)
+                            
+                                ai fini dell'imposta sul valore aggiunto, applicando al maggior imponibile, determinato con il procedimento indicato nell'art. 2, l'aliquota media data dal rapporto tra l'imposta relativa alle operazioni imponibili ed il volume d'affari dichiarati.
 
 Le persone fisiche che percepiscono redditi prodotti in forma associata ai sensi dell'art. 5 del testo unico delle imposte sui redditi, approvato con decreto del Presidente della Repubblica 22 dicembre 1986, n. 917, possono definire tali redditi, sulla base della definizione accettata dalla societa', versando le somme dovute ai sensi della lettera a) del comma 2.
 
@@ -63,6 +170,52 @@ La societa' concessionaria del sistema informativo del Ministero delle finanze, 
  e competenza degli uffici
 
 La societa' concessionaria del sistema informativo del Ministero delle finanze predispone appositi avvisi nominativi contenenti "proposta di accertamento con adesione" con l'invito a definire la posizione tributaria risultante dalla proposta mediante l'accettazione degli importi indicati. La proposta viene predisposta, per ciascun contribuente, per tutti i tributi e puo' essere formulata con atti distinti per una o piu' annualita'.
+
+2.
+                    
+                        
+                            Gli avvisi di cui al comma 1 devono, in particolare, contenere l'indicazione:
+ 
+                        
+                        
+                            a)
+                            
+                                dell'ufficio distrettuale delle imposte dirette o dell'imposta sul valore aggiunto, territorialmente competente a gestire la proposta diretta al contribuente;
+
+                            
+                        
+                        
+                            b)
+                            
+                                del nominativo, dell'indirizzo, del codice fiscale e della partita IVA del contribuente cui la proposta e' diretta;
+
+                            
+                        
+                        
+                            c)
+                            
+                                degli elementi presi a base per la determinazione dell'importo dovuto;
+
+                            
+                        
+                        
+                            d)
+                            
+                                delle somme dovute a titolo di imposta e relative sanzioni per ciascuna annualita';
+
+                            
+                        
+                        
+                            e)
+                            
+                                delle modalita' di pagamento delle somme dovute a seguito dell'adesione del contribuente e del termine entro cui il pagamento deve essere effettuato;
+
+                            
+                        
+                        
+                            f)
+                            
+                                per ciascuna annualita', dell'esistenza di eventuali condizioni ostative dell'accertamento con adesione, nonche' dell'indisponibilita' dei dati occorrenti per la determinazione della proposta.
 
 Gli uffici di cui al comma 2, lettera a), competenti a gestire le proposte di accertamento con adesione, sono individuati in base all'ultimo domicilio fiscale risultante al sistema informativo del Ministero delle finanze, anche se per alcune annualita' oggetto di accertamento con adesione la competenza territoriale spetta ad altro ufficio. La competenza territoriale dell'ufficio distrettuale delle imposte dirette prevale su quella dell'ufficio per l'imposta sul valore aggiunto; per gli uffici distrettuali delle imposte dirette aventi sede nei capoluoghi di provincia o nei comuni sedi anche di ufficio IVA la competenza territoriale per i comuni compresi nel relativo distretto e' equivalente a quella dell'ufficio dell'imposta sul valore aggiunto.
 
@@ -82,6 +235,24 @@ Qualora la proposta non sia pervenuta al contribuente, per le annualita' fino al
 ## Art. 7. — Modalita' di pagamento
 
 Per le annualita' sino al 1992 il pagamento delle somme indicate nella proposta puo' essere effettuato in due rate di pari importo, di cui la prima entro il 15 settembre 1995 e la seconda entro il 15 dicembre 1995. Per le annualita' relative all'anno 1993 il pagamento deve essere effettuato entro il 15 dicembre 1995.
+
+2.
+                    
+                        
+                            I pagamenti devono essere eseguiti con le seguenti modalita':
+ 
+                        
+                        
+                            a)
+                            
+                                mediante delega ad un'azienda di credito autorizzata;
+
+                            
+                        
+                        
+                            b)
+                            
+                                tramite il concessionario della riscossione competente in base all'ultimo domicilio fiscale.
 
 Con decreto del Ministro delle finanze sono stabilite le modalita' tecniche, la modulistica e i codici di versamento per l'attuazione del comma 2.
 

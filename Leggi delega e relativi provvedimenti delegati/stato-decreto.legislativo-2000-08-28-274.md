@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Leggi delega e relativi provvedimenti delegati
 vigenza_date: 2024-04-04
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:41:15Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -29,7 +29,99 @@ Sulla proposta del Ministro della giustizia;
 
 ## Art. 1. — Organi giudiziari nel procedimento penale davanti al giudice di pace
 
+1.
+                        
+                            
+                                Svolgono funzioni giudiziarie nel procedimento penale davanti al giudice di pace:
+ 
+                            
+                            
+                                a)
+                                
+                                    il procuratore della Repubblica presso il tribunale nel cui circondario ha sede il giudice di pace;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il giudice di pace.
+
 ## Art. 2. — Principi generali del procedimento davanti al giudice di pace
+
+1.
+                        
+                            
+                                Nel procedimento davanti al giudice di pace, per tutto cio' che non e' previsto dal presente decreto, si osservano, in quanto applicabili, le norme contenute nel codice di procedura penale e nei titoli I e II del decreto legislativo 28 luglio 1989, n. 271, ad eccezione delle disposizioni relative:
+ 
+                            
+                            
+                                a)
+                                
+                                    all'incidente probatorio;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    all'arresto in flagranza e al fermo di indiziato di delitto;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    alle misure cautelari personali;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    alla proroga del termine per le indagini;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    all'udienza preliminare;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    al giudizio abbreviato;
+
+                                
+                            
+                            
+                                g)
+                                
+                                    all'applicazione della pena su richiesta;
+
+                                
+                            
+                            
+                                h)
+                                
+                                    al giudizio direttissimo;
+
+                                
+                            
+                            
+                                i)
+                                
+                                    al giudizio immediato;
+
+                                
+                            
+                            
+                                l)
+                                
+                                    al decreto penale di condanna.
 
 Nel corso del procedimento, il giudice di pace deve favorire, per quanto possibile, la conciliazione tra le parti.
 
@@ -38,6 +130,176 @@ Nel corso del procedimento, il giudice di pace deve favorire, per quanto possibi
 Nel procedimento davanti al giudice di pace, assume la qualita' di imputato la persona alla quale il reato e' attribuito nella citazione a giudizio disposta dalla polizia giudiziaria o nel decreto di convocazione delle parti emesso dal giudice di pace.
 
 ## Art. 4. — Competenza per materia
+
+1.
+                        
+                            
+                                Il giudice di pace e' competente: 
+ 
+                            
+                            
+                                a)
+                                
+                                    per i delitti consumati o tentati previsti dagli articoli 581, 582, limitatamente alle fattispecie di cui al secondo comma perseguibili a querela di parte, ad esclusione dei fatti commessi contro uno dei soggetti elencati dall'articolo 577, secondo comma, ovvero contro il convivente, 590, limitatamente alle fattispecie perseguibili a querela di parte e ad esclusione delle fattispecie connesse alla colpa professionale e dei fatti commessi con violazione delle norme per la prevenzione degli infortuni sul lavoro o relative all'igiene del lavoro o che abbiano determinato una malattia professionale quando, nei casi anzidetti, derivi una malattia di durata superiore a venti giorni, 594, 595, primo e secondo comma, 612, primo comma, 626, 627, 631, salvo che ricorra l'ipotesi di cui all'articolo 639-bis, 632, salvo che ricorra l'ipotesi di cui all'articolo 639-bis, 633, primo comma, salvo che ricorra l'ipotesi di cui all'articolo 639-bis, 635, primo comma, 636, salvo che ricorra l'ipotesi di cui all'articolo 639-bis, 637, 638, primo comma, 639, primo comma, e 647 del codice penale; ((16))
+                                    
+                                
+                            
+                            
+                                b)
+                                
+                                    per le contravvenzioni previste dagli articoli 689, 690, 691, 726, primo comma, e 731 del codice penale.
+
+2.
+                        
+                            
+                                Il giudice di pace e' altresi' competente per i delitti, consumati o tentati, e per le contravvenzioni previsti dalle seguenti disposizioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    
+                                        articoli 25 e 62, terzo comma, del regio decreto 18 giugno 1931, n. 773, recante "Testo unico in materia di sicurezza"; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    
+                                        articoli 1095, 1096 e 1119 del regio decreto 30 marzo 1942, n. 327, recante "Approvazione del testo definitivo del codice della navigazione"; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    
+                                        articolo 3 del decreto del Presidente della Repubblica 4 agosto 1957, n. 918, recante "Approvazione del testo organico delle norme sulla disciplina dei rifugi alpini"; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    
+                                        articoli 102 e 106 del decreto del Presidente della Repubblica 30 marzo 1957, n. 361, recante "Testo unico delle leggi per l'elezione della Camera dei deputati"; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    
+                                        articolo 92 del decreto del Presidente della Repubblica 16 maggio 1960, n. 570, recante "Testo unico delle leggi per la composizione e la elezione degli organi delle amministrazioni comunali"; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    
+                                        articolo 15, secondo comma, della legge 28 novembre 1965, n. 1329, recante "Provvedimenti per l'acquisto di nuove macchine utensili"; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    
+                                        articolo 3 della legge 8 novembre 1991, n. 362, recante "Norme di riordino del settore farmaceutico"; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    
+                                        articolo 51 della legge 25 maggio 1970, n. 352, recante "Norme sui referendum previsti dalla Costituzione e sulla iniziativa legislativa del popolo"; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    articoli 3, terzo e quarto comma, 46, quarto comma e 65, terzo comma, del decreto del Presidente della Repubblica 11 luglio 1980, n. 753, recante "Nuove norme in materia di polizia, sicurezza e regolarita' dell'esercizio delle ferrovie e di altri servizi di trasporto"; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    
+                                        articoli 18 e 20 della legge 2 agosto 1982, n. 528, recante "Ordinamento del gioco del lotto e misure per il personale del lotto"; 
+
+                                
+                            
+                            
+                                m)
+                                
+                                    
+                                        articolo 17, comma 3, della legge 4 maggio 1990, n. 107, recante "Disciplina per le attivita' trasfusionali relative al sangue umano ed ai suoi componenti e per la produzione di plasmaderivati"; 
+
+                                
+                            
+                            
+                                n)
+                                
+                                    
+                                        articolo 15, comma 3, del decreto legislativo 27 settembre 1991, n. 311, recante "Attuazione delle direttive n. 87/404/CEE e n. 90/488/CEE in materia di recipienti semplici a pressione, a norma dell'articolo 56 della legge 29 dicembre 1990, n. 428"; 
+
+                                
+                            
+                            
+                                o)
+                                
+                                    
+                                        articolo 11, comma 1, del decreto legislativo 27 settembre 1991, n. 313, recante "Attuazione della direttiva n. 88/378/CEE relativa al ravvicinamento delle legislazioni degli Stati membri concernenti la sicurezza dei giocattoli, a norma dell'articolo 54 della legge 29 dicembre 1990, n. 428"; 
+
+                                
+                            
+                            
+                                p)
+                                
+                                    LETTERA ABROGATA DALLA L. 6 APRILE 2005, N. 49; 
+
+                                
+                            
+                            
+                                q)
+                                
+                                    
+                                        articoli 186, commi 2 e 6, 187, commi 4 e 5, del decreto legislativo 30 aprile 1992, n. 285, recante "Nuovo codice della strada"; 
+
+                                
+                            
+                            
+                                r)
+                                
+                                    
+                                        articolo 10, comma 1, del decreto legislativo 14 dicembre 1992, n. 507, recante "Attuazione della direttiva n. 90/385/CEE concernente il ravvicinamento delle legislazioni degli Stati membri relative ai dispositivi medici impiantabili attivi"; 
+
+                                
+                            
+                            
+                                s)
+                                
+                                    
+                                        articolo 23, comma 2, del decreto legislativo 24 febbraio 1997, n. 46, recante "Attuazione della direttiva n. 90/385/CEE concernente i dispositivi medici". 
+
+                                
+                            
+                            
+                                s-bis)
+                                
+                                    articolo 10-bis del testo unico delle disposizioni concernenti la disciplina dell'immigrazione e norme sulla condizione dello straniero, di cui al decreto legislativo 25 luglio 1998, n. 286. 
+
+                                
+                            
+                            
+                                s-ter)
+                                
+                                    articolo 13, comma 5.2, e articolo 14, commi 1-bis, 5-ter e 5-quater, del testo unico delle disposizioni concernenti la disciplina dell'immigrazione e norme sulla condizione dello straniero, di cui al decreto legislativo 25 luglio 1998, n. 286.
 
 La competenza per i reati di cui ai commi 1 e 2 e' tuttavia del tribunale se ricorre una o piu' delle circostanze previste dagli articoli 1 del decreto-legge 15 dicembre 1979, n. 625, convertito, con modificazioni, dalla legge 6 febbraio 1980, n. 15, 7 del decreto-legge 13 maggio 1991, n. 152, convertito, con modificazioni, dalla legge 12 luglio 1991, n. 203, e 3 del decreto-legge 26 aprile 1993, n. 122, convertito, con modificazioni, dalla legge 25 giugno 1993, n. 205.
 
@@ -65,6 +327,24 @@ Se alcuni dei procedimenti connessi appartengono alla competenza del giudice di 
 La connessione non opera se non e' possibile la riunione dei processi, ne' tra procedimenti di competenza del giudice di pace e procedimenti di competenza di un giudice speciale.
 
 ## Art. 7. — Casi di connessione davanti al giudice di pace
+
+1.
+                        
+                            
+                                Davanti al giudice di pace si ha connessione di procedimenti:
+ 
+                            
+                            
+                                a)
+                                
+                                    se il reato per cui si procede e' stato commesso da piu' persone in concorso o cooperazione fra loro;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    se una persona e' imputata di piu' reati commessi con una sola azione od omissione.
 
 ## Art. 8. — Competenza per territorio determinata dalla connessione
 
@@ -156,6 +436,47 @@ Il pubblico ministero cita l'imputato davanti al giudice di pace.
 
 ))
 
+2.
+                        
+                            
+                                La citazione contiene:
+
+                            
+                            
+                                a)
+                                
+                                    le generalita' dell'imputato e le altre indicazioni personali che valgono ad identificarlo;
+                                
+                            
+                            
+                                b)
+                                
+                                    l'indicazione della persona offesa, qualora risulti identificata;
+                                
+                            
+                            
+                                c)
+                                
+                                    l'imputazione formulata dal pubblico ministero e l'indicazione delle fonti di prova di cui si chiede l'ammissione. Se viene chiesto l'esame di testimoni o consulenti tecnici, nell'atto devono essere indicate, a pena di inammissibilita', le circostanze su cui deve vertere l'esame;
+                                
+                            
+                            
+                                d)
+                                
+                                    l'indicazione del giudice competente per il giudizio, nonche' del luogo, del giorno e dell'ora della comparizione, con l'avvertimento all'imputato che non comparendo sara' giudicato in contumacia;
+                                
+                            
+                            
+                                e)
+                                
+                                    l'avviso che l'imputato ha facolta' di nominare un difensore di fiducia e che, in mancanza, sara' assistito da difensore di ufficio;
+                                
+                            
+                            
+                                f)
+                                
+                                    l'avviso che il fascicolo relativo alle indagini preliminari e' depositato presso la segreteria del pubblico ministero e che le parti e loro difensori hanno facolta' di prenderne visione e di estrarne copia.
+
 ((
 
 La citazione deve essere sottoscritta, a pena di nullita', dal pubblico ministero o dall'assistente giudiziario.
@@ -175,7 +496,71 @@ La citazione e' nulla se l'imputato non e' identificato in modo certo ovvero se 
 
 Per i reati procedibili d'ufficio, in caso di flagranza di reato ovvero quando la prova e' evidente, la polizia giudiziaria chiede al pubblico ministero l'autorizzazione a presentare immediatamente l'imputato a giudizio dinanzi al giudice di pace.
 
+2.
+                        
+                            
+                                La richiesta di cui al comma 1, depositata presso la segreteria del pubblico ministero, contiene:
+ 
+                            
+                            
+                                a)
+                                
+                                    le generalita' dell'imputato e del suo difensore, ove nominato;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'indicazione delle persone offese dal reato;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    la descrizione, in forma chiara e precisa, del fatto che si addebita all'imputato, con l'indicazione degli articoli di legge che si assumono violati;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    l'indicazione delle fonti di prova a sostegno della richiesta, nonche' le generalita' dei testimoni e dei consulenti tecnici, con espressa indicazione delle circostanze su cui deve vertere l'esame;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    la richiesta di fissazione dell'udienza per procedere nei confronti delle persone citate a giudizio.
+
 Salvo che ritenga di richiedere l'archiviazione, il pubblico ministero autorizza la presentazione immediata nei quindici giorni successivi, indicando la data e l'ora del giudizio dinanzi al giudice di pace e nominando un difensore d'ufficio all'imputato che ne e' privo. Se non ritiene sussistere i presupposti per la presentazione immediata o se ritiene la richiesta manifestamente infondata ovvero presentata dinanzi ad un giudice di pace incompetente per territorio, il pubblico ministero provvede ai sensi dell'articolo 25, comma 2.
+
+4.
+                        
+                            
+                                L'ufficiale giudiziario notifica senza ritardo all'imputato e al suo difensore copia della richiesta di cui al comma 2 e dell'autorizzazione del pubblico ministero contenente:
+ 
+                            
+                            
+                                a)
+                                
+                                    l'avviso all'imputato che se non compare sara' giudicato in contumacia;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'avviso all'imputato che ha diritto di nominare un difensore di fiducia e che in mancanza sara' assistito da difensore di ufficio;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    l'avviso che il fascicolo relativo alle indagini e' depositato presso la segreteria del pubblico ministero e che le parti e i loro difensori hanno facolta' di prenderne visione e di estrarne copia.
 
 Si applica l'articolo 20, comma 5.
 
@@ -195,6 +580,73 @@ Se ritiene sussistere i presupposti di cui al comma 1, il pubblico ministero rin
 ## Art. 21. — Ricorso immediato al giudice
 
 Per i reati procedibili a querela e' ammessa la citazione a giudizio dinanzi al giudice di pace della persona alla quale il reato e' attribuito su ricorso della persona offesa.
+
+2.
+                        
+                            
+                                Il ricorso deve contenere:
+ 
+                            
+                            
+                                a)
+                                
+                                    l'indicazione del giudice;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le generalita' del ricorrente e, se si tratta di persona giuridica o di associazione non riconosciuta, la denominazione dell'ente, con l'indicazione del legale rappresentante;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    l'indicazione del difensore del ricorrente e la relativa nomina;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    l'indicazione delle altre persone offese dal medesimo reato delle quali il ricorrente conosca l'identita';
+
+                                
+                            
+                            
+                                e)
+                                
+                                    le generalita' della persona citata a giudizio;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    la descrizione, in forma chiara e precisa, del fatto che si addebita alla persona citata a giudizio, con l'indicazione degli articoli di legge che si assumono violati;
+
+                                
+                            
+                            
+                                g)
+                                
+                                    i documenti di cui si chiede l'acquisizione;
+
+                                
+                            
+                            
+                                h)
+                                
+                                    l'indicazione delle fonti di prova a sostegno della richiesta, nonche' delle circostanze su cui deve vertere l'esame dei testimoni e dei consulenti tecnici;
+
+                                
+                            
+                            
+                                i)
+                                
+                                    la richiesta di fissazione dell'udienza per procedere nei confronti delle persone citate a giudizio.
 
 Il ricorso deve essere sottoscritto dalla persona offesa o dal suo legale rappresentante e dal difensore. La sottoscrizione della persona offesa e' autenticata dal difensore.
 
@@ -218,6 +670,45 @@ La costituzione di parte civile deve avvenire, a pena di decadenza, con la prese
 
 ## Art. 24. — Inammissibilita' del ricorso
 
+1.
+                        
+                            
+                                Il ricorso e' inammissibile:
+ 
+                            
+                            
+                                a)
+                                
+                                    se e' presentato oltre il termine indicato dall'articolo 22, comma 1;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    se risulta presentato fuori dei casi previsti;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    se non contiene i requisiti indicati nell'articolo 21, comma 2, ovvero non risulta sottoscritto a norma dei commi 3 e 4 del medesimo articolo;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    se e' insufficiente la descrizione del fatto o l'indicazione delle fonti di prova;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    se manca la prova dell'avvenuta comunicazione al pubblico ministero.
+
 ## Art. 25. — Richieste del pubblico ministero
 
 Entro dieci giorni dalla comunicazione del ricorso il pubblico ministero presenta le sue richieste nella cancelleria del giudice di pace.
@@ -240,6 +731,45 @@ Se riconosce la propria incompetenza per territorio, il giudice di pace la dichi
 Se non deve provvedere ai sensi dell'articolo 26, il giudice di pace, entro venti giorni dal deposito del ricorso, convoca le parti in udienza con decreto.
 
 Tra il giorno del deposito del ricorso e l'udienza non devono intercorrere piu' di novanta giorni.
+
+3.
+                        
+                            
+                                Il decreto contiene:
+ 
+                            
+                            
+                                a)
+                                
+                                    l'indicazione del giudice che procede, nonche' del luogo, del giorno e dell'ora della comparizione;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le generalita' della persona nei cui confronti e' stato presentato il ricorso, con l'invito a comparire e l'avvertimento che non comparendo sara' giudicato in contumacia;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    l'avviso che ha facolta' di nominare un difensore di fiducia e che, in mancanza, sara' assistito dal difensore di ufficio nominato nel decreto;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    la trascrizione dell'imputazione;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    la data e la sottoscrizione del giudice e dell'ausiliario che l'assiste.
 
 Il decreto, unitamente al ricorso, e' notificato, a cura del ricorrente, al pubblico ministero, alla persona citata in giudizio e al suo difensore almeno venti giorni prima dell'udienza. Entro lo stesso termine il ricorrente notifica il decreto alle altre persone offese di cui conosca l'identita'.
 
@@ -501,6 +1031,32 @@ Si osservano le disposizioni di cui all'articolo 162, commi 1, 3 e 4, del decret
 
 ## Art. 51. — Disposizioni regolamentari e sulla tenuta dei registri
 
+1.
+                        
+                            
+                                Con regolamento emanato ai sensi dell'articolo 17, comma 3, della legge 23 agosto 1988, n. 400, entro centocinquanta giorni dalla pubblicazione del presente decreto legislativo, il Ministro della giustizia adotta le disposizioni regolamentari relative ai procedimenti penali davanti al giudice di pace, che concernono:
+ 
+                            
+                            
+                                a)
+                                
+                                    le modalita' di formazione e tenuta dei fascicoli degli uffici giudiziari;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    
+                                        ((LETTERA ABROGATA DAL D.P.R. 14 NOVEMBRE 2002, N. 313));
+
+                                
+                            
+                            
+                                c)
+                                
+                                    le altre attivita' necessarie per l'attuazione del presente decreto legislativo.
+
 Il parere del Consiglio di Stato sul regolamento previsto nel comma 1 e' reso entro trenta giorni dalla richiesta.
 
 La disciplina sulla tenuta in forma automatizzata dei registri e delle altre forme di registrazione in materia penale e' adottata con decreto del Ministro della giustizia.
@@ -510,6 +1066,31 @@ La disciplina sulla tenuta in forma automatizzata dei registri e delle altre for
 ## Art. 52. — Sanzioni
 
 Ai reati attribuiti alla competenza del giudice di pace per i quali e' prevista la sola pena della multa o dell'ammenda continuano ad applicarsi le pene pecuniarie vigenti.
+
+2.
+                        
+                            
+                                Per gli altri reati di competenza del giudice di pace le pene sono cosi' modificate:
+ 
+                            
+                            
+                                a)
+                                
+                                    quando il reato e' punito con la pena della reclusione o dell'arresto alternativa a quella della multa o dell'ammenda, si applica la pena pecuniaria della specie corrispondente da lire cinquecentomila a cinque milioni; se la pena detentiva e' superiore nel massimo a sei mesi, si applica la predetta pena pecuniaria o la pena della permanenza domiciliare da sei giorni a trenta giorni ovvero la pena del lavoro di pubblica utilita' per un periodo da dieci giorni a tre mesi;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    quando il reato e' punito con la sola pena della reclusione o dell'arresto, si applica la pena pecuniaria della specie corrispondente da lire un milione a cinque milioni o la pena della permanenza domiciliare da quindici giorni a quarantacinque giorni ovvero la pena del lavoro di pubblica utilita' da venti giorni a sei mesi;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    quando il reato e' punito con la pena della reclusione o dell'arresto congiunta con quella della multa o dell'ammenda, si applica la pena pecuniaria della specie corrispondente da lire un milione e cinquecentomila a cinque milioni o la pena della permanenza domiciliare da venti giorni a quarantacinque giorni ovvero la pena del lavoro di pubblica utilita' da un mese a sei mesi.
 
 Nei casi di recidiva reiterata infraquinquennale, il giudice applica la pena della permanenza domiciliare o quella del lavoro di pubblica utilita', salvo che sussistano circostanze attenuanti ritenute prevalenti o equivalenti.
 

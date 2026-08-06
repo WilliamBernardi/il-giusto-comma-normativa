@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Regolamenti di delegificazione
 vigenza_date: 2011-08-18
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:40:24Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -33,6 +33,33 @@ Le procedure di spesa sono rette, oltre che dal principio di legalita', da princ
 I pagamenti dello Stato sono effettuati, di regola, con titoli informatici. Essi sono regolati secondo procedure conformi alle esigenze del sistema economico nazionale ed operano in forma integrata con i servizi del sistema bancario e postale.
 
 L'estinzione dei titoli di spesa si effettua in via ordinaria mediante accreditamento sui conti correnti bancari o postali dei creditori, ovvero mediante gli altri mezzi di pagamento disponibili sui circuiti bancario e postale, secondo la scelta operata dal creditore.
+
+4.
+                    
+                        
+                            Agli effetti del presente regolamento si denominano con il termine "Ragionerie" i seguenti uffici della Ragioneria generale dello Stato, a seconda della rispettiva competenza: 
+ 
+                        
+                        
+                            a)
+                            
+                                Ragionerie centrali; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                
+                                    ((LETTERA ABROGATA DAL D.P.R. 20 FEBBRAIO 1998, N. 38)); 
+
+                            
+                        
+                        
+                            c)
+                            
+                                Ragionerie provinciali. 
+ Per "Sistema informativo integrato" si intende il sistema informativo integrato della Ragioneria generale dello Stato e della Corte dei conti, costituito a supporto delle funzioni di controllo preventivo e successivo attribuite a tali organi, anche ai sensi della legge 14 gennaio 1994, n. 20 e del decreto legislativo 3 febbraio 1993, n. 29 e successive modificazioni.
 
 ## Art. 2. — Documentazione
 
@@ -57,6 +84,16 @@ Nel decreto previsto dal comma 1 sono indicate, accanto ai capitoli compresi nel
 Ai fini dell'informatizzazione delle procedure di spesa, gli atti dai quali deriva un impegno a carico del bilancio dello Stato debbono contenere una clausola di ordinazione della spesa formata da tutti gli elementi necessari per provvedere al pagamento, nelle evidenze disponibili al momento dell'impegno.
 
 In tutti i casi nei quali al pagamento non si debba provvedere in unica soluzione, la clausola di ordinazione della spesa riporta anche le condizioni, i termini e gli eventuali importi dei singoli pagamenti.
+
+3.
+                    
+                        
+                            Gli elementi di cui al comma 1, ed in ogni caso quelli indicati dall'articolo 652, comma 1, lettere da 
+                        
+                        
+                            a)
+                            
+                                ad f), del regio decreto 23 maggio 1924 n. 827, aggiunto dall'articolo 17 del presente regolamento, sono inseriti, a cura della competente Ragioneria, nel sistema informativo integrato al momento della registrazione dell'impegno e costituiscono la base per la formazione del mandato informatico, che tiene luogo dell'ordinativo diretto cartaceo.
 
 Qualora il pagamento debba essere effettuato in via definitiva per un importo inferiore a quello impegnato, si provvede alla rideterminazione dell'impegno. Nella stessa sede si provvede per le modifiche che si rendessero necessarie per l'esatta individuazione del creditore e del luogo dell'adempimento. (2) ((3))
 
@@ -222,6 +259,59 @@ Il Ministro del tesoro, con proprio decreto, adegua i limiti di somma di cui al 
 Con apposita convenzione fra il Ministro del tesoro e l'Ente poste italiane sono disciplinate le modalita' di espletamento degli adempimenti a carico delle Poste italiane in relazione a quanto previsto nel presente articolo. La convenzione regola espressamente i casi di mancata riscossione degli assegni da parte dei beneficiari.
 
 ## Art. 16. — Pagamento mediante mandati informatici
+
+1.
+                    
+                        
+                            Mediante mandati informatici, emessi sulle tesorerie dai competenti organi delle amministrazioni in luogo degli ordinativi diretti cartacei, vengono disposti pagamenti per i seguenti titoli: 
+ 
+                        
+                        
+                            a)
+                            
+                                somme da pagare ai creditori dello Stato; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                somme da versare o rimborsare al contabile del portafoglio; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                somme da versare con imputazione ad entrate di bilancio; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                somme dovute dallo Stato e da compensare, ai termini degli artt. 1241 e 1242 del cod. civ.; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                ritenute per imposte, tasse e titoli diversi da versare allo Stato o ad enti autonomi; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                somme dovute per qualsiasi altro titolo che non determinino effettivo movimento di danaro; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                fondi di bilancio da versare ai conti correnti di amministrazioni o gestioni autonome, compresi i conti correnti postali previsti dall'articolo 15.
 
 Le ritenute sui pagamenti di cui al presente articolo possono essere regolate con procedimenti semplificati da stabilirsi con decreti del Ministro del tesoro, sulla base dei valori medi riferiti all'intero stanziamento di ciascun capitolo.
 

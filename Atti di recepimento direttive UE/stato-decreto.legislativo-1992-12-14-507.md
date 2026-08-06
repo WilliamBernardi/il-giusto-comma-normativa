@@ -10,7 +10,7 @@ source: normattiva-opendata
 collection: Atti di recepimento direttive UE
 vigenza_date: 2022-09-28
 zip_date: 2026-07-30
-fetched_at: 2026-08-02T09:40:50Z
+fetched_at: 2026-07-30
 ---
 
 DECRETO LEGISLATIVO
@@ -133,7 +133,34 @@ Se non ha sede in uno Stato membro, il fabbricante che immette in commercio a no
 
 ## Art. 7-ter. — (Banca dati europea).
 
-((5))
+1.
+                    
+                        
+                            Il Ministero della salute trasmette alla banca dati europea le seguenti informazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                
+                                    ((LETTERA ABROGATA DAL D.LGS. 5 AGOSTO 2022, N. 137)); 
+
+                            
+                        
+                        
+                            b)
+                            
+                                i dati ottenuti in base alle procedure di vigilanza definite agli art. 11; ((5))
+                                
+                            
+                        
+                        
+                            c)
+                            
+                                i dati relativi alle indagini cliniche di cui all'articolo 7.((5))
+
+((COMMA ABROGATO DAL D.LGS. 5 AGOSTO 2022, N. 137)). 
+ ((5))
 
 --------------
                         AGGIORNAMENTO (5)

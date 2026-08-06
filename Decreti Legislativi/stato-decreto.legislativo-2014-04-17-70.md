@@ -8,8 +8,8 @@ vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
 vigenza_date: 2023-08-11
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:23Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -85,6 +85,38 @@ E' fatta salva l'applicazione delle penali previste dai contratti di servizio pu
 Per l'accertamento e l'irrogazione delle sanzioni amministrative pecuniarie da parte dell'Organismo si osservano, in quanto compatibili con quanto previsto dal presente articolo, le disposizioni contenute nel capo I, sezioni I e II, della legge 24 novembre 1981, n. 689 ((, fatto salvo quanto previsto dall'articolo 20 del presente decreto, con riferimento all'articolo 16 della medesima legge n. 689 del 1981)). L'Organismo, con proprio regolamento, da adottare entro sessanta giorni dalla pubblicazione del presente decreto, nel rispetto della legislazione vigente in materia, disciplina i procedimenti per l'accertamento e l'irrogazione delle sanzioni, in modo da assicurare agli interessati la piena conoscenza degli atti istruttori, il contraddittorio in forma scritta e orale, la verbalizzazione e la separazione tra funzioni istruttorie e funzioni decisorie. Il regolamento disciplina i casi in cui, con l'accordo dell'impresa destinataria dell'atto di avvio del procedimento sanzionatorio, possono essere adottate modalita' procedurali semplificate di irrogazione delle sanzioni amministrative pecuniarie.
 
 L'Organismo, valutati gli elementi comunque in suo possesso e quelli portati a sua conoscenza da chiunque vi abbia interesse, da' avvio al procedimento sanzionatorio mediante contestazione immediata o la notificazione degli estremi della violazione.
+
+3.
+                        
+                            
+                                L'((Organismo)) determina l'importo delle sanzioni amministrative pecuniarie nell'ambito del minimo e massimo edittale previsto per ogni fattispecie di violazione dal presente decreto, nel rispetto dei principi di effettivita' e proporzionalita' ed in funzione: 
+ 
+                            
+                            
+                                a)
+                                
+                                    della gravita' della violazione; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    della reiterazione della violazione; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    dalle azioni poste in essere per la eliminazione o attenuazione delle conseguenze della violazione; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    del rapporto percentuale dei passeggeri coinvolti dalla violazione rispetto a quelli trasportati.
 
 Le somme derivanti dal pagamento delle sanzioni sono versate all'entrata del bilancio dello Stato per la successiva riassegnazione in un apposito fondo da istituire nello stato di previsione del Ministero delle infrastrutture e dei trasporti, per il finanziamento di progetti a vantaggio dei consumatori dei settori dei trasporti.
 Con successivo decreto del Ministro delle infrastrutture e dei trasporti, su proposta dell'((Organismo)), adottato d'intesa con la Conferenza Stato-regioni e province autonome, il predetto fondo e' assegnato a progetti del predetto Ministero, e alle regioni, in misura tale che a ciascuna regione sia trasferito l'importo corrispondente all'ammontare derivante dal pagamento delle sanzioni, applicate in relazione ai servizi di trasporto ferroviario di competenza regionale e locale, riferibili al proprio territorio.

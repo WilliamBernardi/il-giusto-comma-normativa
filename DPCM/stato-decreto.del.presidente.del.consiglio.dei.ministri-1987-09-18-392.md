@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: DPCM
 vigenza_date: 1987-12-30
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:40:12Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DEL CONSIGLIO DEI MINISTRI
@@ -49,6 +49,56 @@ I lavoratori indicati nel comma 1 possono iscriversi, altresi', nella lista di c
 ## Art. 4. — Avviamento alla selezione
 
 L'amministrazione interessata richiede alla sezione circoscrizionale per l'impiego territorialmente competente l'avviamento a selezione di un numero di lavoratori pari a quello dei posti da ricoprire, da inquadrare in profili professionali le cui declaratorie richiedano espressamente il solo requisito del titolo di studio della scuola dell'obbligo.
+
+2.
+                    
+                        
+                            Per essere avviati a selezione gli iscritti nelle liste devono dichiarare di essere in possesso dei requisiti richiesti per l'accesso ai pubblici impieghi ed in particolare:
+ 
+                        
+                        
+                            a)
+                            
+                                cittadinanza italiana;
+
+                            
+                        
+                        
+                            b)
+                            
+                                eta' non inferiore agli anni 18 e non superiore ai 35; sono fatti salvi i limiti di eta' diversi indicati da particolari disposizioni di legge e regolamenti e quelli di elevazione e di non applicazione del limite massimo di eta' previsti dalle norme vigenti;
+
+                            
+                        
+                        
+                            c)
+                            
+                                titolo di studio della scuola secondaria di primo grado (licenza media inferiore) o titolo di studio della scuola primaria (licenza elementare) con assolvimento dell'obbligo scolastico.
+
+3.
+                    
+                        
+                            Non possono essere, in ogni caso, avviati a selezione:
+ 
+                        
+                        
+                            a)
+                            
+                                coloro che sono esclusi dall'elettorato attivo;
+
+                            
+                        
+                        
+                            b)
+                            
+                                coloro che sono stati destituiti o dispensati dall'impiego presso una pubblica amministrazione o dichiarati decaduti per avere conseguito l'impiego mediante produzione di documenti falsi o viziati da invalidita' insanabile;
+
+                            
+                        
+                        
+                            c)
+                            
+                                i dipendenti dello Stato o di enti pubblici collocati a riposo anche in applicazione di disposizioni a carattere transitorio e speciale.
 
 Il possesso dei requisiti di cui ai commi 2 e 3, sia al momento della domanda che successivamente, e' attestato dal lavoratore alle sezioni circoscrizionali per l'impiego mediante dichiarazione di responsabilita' autenticata ai sensi della legge 4 gennaio 1968, n. 15.
 

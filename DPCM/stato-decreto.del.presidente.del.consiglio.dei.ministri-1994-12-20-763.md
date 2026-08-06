@@ -8,8 +8,8 @@ codice_redazionale: 095G0060
 vigente: true
 source: normattiva-opendata
 collection: DPCM
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:40:12Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DEL CONSIGLIO DEI MINISTRI
@@ -36,8 +36,149 @@ Nel presente regolamento, pertanto, il termine "Amministrazione" designa tutti g
 ## Art. 2. — Categorie di documenti inaccessibili
  per motivi di ordine e sicurezza pubblica
 
+1.
+                    
+                        
+                            Ai sensi dell'art. 8, comma 5, lettera c), del decreto del Presidente della Repubblica 27 giugno 1992, n. 352, ed in relazione all'esigenza di salvaguardare la sicurezza e l'ordine pubblico, sono sottratte all'accesso le seguenti categorie di documenti:
+ 
+                        
+                        
+                            a)
+                            
+                                atti e documenti concernenti gli impianti di sicurezza degli edifici destinati a sede dell'Amministrazione;
+
+                            
+                        
+                        
+                            b)
+                            
+                                atti e documenti relativi al responsabile della sicurezza e delle comunicazioni riservate;
+
+                            
+                        
+                        
+                            c)
+                            
+                                atti e documenti concernenti l'organizzazione ed il funzionamento dei servizi di sicurezza nell'ambito dell'Amministrazione in occasione di visite ufficiali di autorita' civili e militari o di incontri con rappresentanti di organismi italiani o stranieri;
+
+                            
+                        
+                        
+                            d)
+                            
+                                lavori preparatori, documentazione predisposta e carteggi scambiati in vista di incontri con rappresentanti di organismi nazionali o internazionali.
+
 ## Art. 3. — Categorie di documenti inaccessibili per motivi
  di riservatezza di terzi, persone, gruppi ed imprese
+
+1.
+                    
+                        
+                            Ai sensi dell'art. 24 della legge 7 agosto 1990, n. 241, nonche' dell'art. 8, comma 5, lettera d), del decreto del Presidente della Repubblica 27 giugno 1992, n. 352, ed in relazione all'esigenza di salvaguardare la riservatezza di terzi, persone, gruppi ed imprese, garantendo peraltro ai medesimi la visione degli atti relativi ai procedimenti amministrativi, la cui conoscenza sia necessaria per curare o per difendere i loro interessi giuridici, sono sottratte all'accesso le seguenti categorie di documenti:
+ 
+                        
+                        
+                            a)
+                            
+                                rapporti informativi sul personale dipendente, nonche' note caratteristiche a qualsiasi titolo compilate sul predetto personale;
+
+                            
+                        
+                        
+                            b)
+                            
+                                documenti attinenti a giudizi o valutazioni relativi a procedure non concorsuali concernenti il personale da reclutare;
+
+                            
+                        
+                        
+                            c)
+                            
+                                accertamenti medico-legali e relativa documentazione;
+
+                            
+                        
+                        
+                            d)
+                            
+                                documenti ed atti relativi alla salute delle persone ovvero concernenti le condizioni psicofisiche delle medesime;
+
+                            
+                        
+                        
+                            e)
+                            
+                                documentazione attinente ai lavori delle commissioni giudicatrici di concorso, fino all'esaurimento delle procedure concorsuali;
+
+                            
+                        
+                        
+                            f)
+                            
+                                documentazione caratteristica, matricolare e concernente situazioni private dell'impiegato;
+
+                            
+                        
+                        
+                            g)
+                            
+                                documentazione attinente a procedimenti penali e disciplinari ovvero utilizzabile ai fini dell'apertura di procedimenti disciplinari, nonche' concernente l'istruzione dei ricorsi amministrativi prodotti dal personale dipendente;
+
+                            
+                        
+                        
+                            h)
+                            
+                                documentazione attinente ad accertamenti ispettivi e amministrativo-contabili per la parte relativa alla tutela della vita privata e della riservatezza;
+
+                            
+                        
+                        
+                            i)
+                            
+                                documentazione attinente ai provvedimenti di dispensa dal servizio;
+
+                            
+                        
+                        
+                            l)
+                            
+                                documentazione relativa alla situazione finanziaria, economica e patrimoniale di persone, gruppi ed imprese comunque utilizzata ai fini dell'attivita' amministrativa;
+
+                            
+                        
+                        
+                            m)
+                            
+                                dichiarazioni di riservatezza e relativi atti istruttori dei documenti conservati negli archivi di Stato concernenti situazioni puramente private di persone o processi penali, secondo quanto previsto dall'art. 21 del decreto del Presidente della Repubblica 30 settembre 1963, n. 1409;
+
+                            
+                        
+                        
+                            n)
+                            
+                                rapporti alla procura generale ed alle procure regionali della Corte dei conti e richieste o relazioni di dette procure ove siano nominativamente individuati soggetti per i quali si appalesa la sussistenza di responsabilita' amministrative, contabili e penali;
+
+                            
+                        
+                        
+                            o)
+                            
+                                atti di promovimento di azioni di responsabilita' di fronte alla procura generale ed alle procure regionali della Corte dei conti nonche' alle competenti autorita' giudiziarie;
+
+                            
+                        
+                        
+                            p)
+                            
+                                atti e documenti relativi alla concessione dei benefici assistenziali di cui all'art. 15, lettera o), del decreto del Presidente della Repubblica 8 maggio 1987, n. 266;
+
+                            
+                        
+                        
+                            q)
+                            
+                                segnalazioni, atti o esposti informali di privati, di organizzazioni sindacali e di categorie o altre associazioni, fino a quando in ordine ad essi non sia conclusa la necessaria istruttoria.
 
 ## Art. 4. — Esclusioni dal diritto di accesso
  gia' previste dall'ordinamento

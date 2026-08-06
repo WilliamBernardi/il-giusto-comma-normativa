@@ -8,8 +8,8 @@ codice_redazionale: 099G0219
 vigente: true
 source: normattiva-opendata
 collection: Leggi delega e relativi provvedimenti delegati
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:41:16Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -24,6 +24,24 @@ Acquisiti i pareri delle competenti commissioni permanenti del Senato della Repu
 Sulla proposta del Ministro di grazia e giustizia;
 
 ## Art. 1.
+
+1.
+                    
+                        
+                            L'articolo 7-ter del regio decreto 30 gennaio 1941, n. 12, come modificato dall'articolo 6 del decreto legislativo19 febbraio 1998, n. 51, e' cosi' ulteriormente modificato:
+ 
+                        
+                        
+                            a)
+                            
+                                la rubrica e' sostituita dalla seguente: "(Criteri per l'assegnazione degli affari e la sostituzione dei giudici impediti)";
+
+                            
+                        
+                        
+                            b)
+                            
+                                il primo periodo del primo comma e' sostituito dal seguente: "L'assegnazione degli affari alle singole sezioni ed ai singoli collegi e giudici e' effettuata, rispettivamente, dal dirigente dell'ufficio e dal presidente della sezione o dal magistrato che la dirige, secondo criteri obiettivi e predeterminati, indicati in via generale dal Consiglio superiore della magistratura ed approvati contestualmente alle tabelle degli uffici e con la medesima procedura.".
 
 ## Art. 2.
 

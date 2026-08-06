@@ -8,8 +8,8 @@ codice_redazionale: 000G0386
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:39Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -64,6 +64,24 @@ Il programma degli interventi di rilievo nazionale di cui all'articolo 3 individ
 ## Art. 6.
 
 Le risorse attribuite al Ministero delle finanze per il 1999 dall'articolo 2, comma 1, del decreto-legge 30 dicembre 1999, n. 500, sono destinate, nei limiti dell'importo complessivo di 10 miliardi di lire, alla concessione di un'agevolazione con credito di imposta pari a lire 20 per ogni chilovattora (Kwh) di calore fornito, da traslare sul prezzo di cessione all'utente finale, per la gestione di reti di teleriscaldamento alimentato con biomassa quale fonte energetica nei comuni ricadenti nelle zone climatiche E ed F.
+
+2.
+                    
+                        
+                            Al fine dell'ammissione ai benefici di cui al precedente comma 1, i gestori delle reti di teleriscaldamento presentano all'ufficio tecnico di finanza territorialmente competente apposita istanza contenente le indicazioni e le notizie stabilite con decreto del direttore generale del dipartimento delle dogane e delle imposte indirette, da pubblicare nella Gazzetta Ufficiale della Repubblica italiana entro trenta giorni dalla data di entrata in vigore del presente decreto. Con lo stesso decreto sono stabilite:
+ 
+                        
+                        
+                            a)
+                            
+                                le modalita' per l'effettuazione dei controlli sulla regolarita' delle istanze ai fini della ammissibilita' al beneficio;
+
+                            
+                        
+                        
+                            b)
+                            
+                                le annotazioni contabili e gli altri adempimenti cui sono tenuti i gestori degli impianti di teleriscaldamento ammessi al medesimo beneficio, nonche' la presentazione di una richiesta di riconoscimento del credito d'imposta.
 
 L'ufficio tecnico di finanza, effettuato il controllo sulla richiesta di cui al comma 2, restituisce al gestore, entro venti giorni dalla presentazione, una copia della richiesta medesima, con l'indicazione del credito d'imposta spettante. Sono dovuti anche gli interessi legali a decorrere dal ventunesimo giorno successivo alla data di presentazione della richiesta.
 

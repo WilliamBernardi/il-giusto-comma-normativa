@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
 vigenza_date: 1998-09-24
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:40Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -52,6 +52,84 @@ Sono considerate unita' immobiliari anche le costruzioni ovvero porzioni di esse
 
 Costituiscono oggetto dell'inventario tutte le unita' immobiliari, come definite all'articolo 2.
 
+2.
+                        
+                            
+                                Ai soli fini della identificazione, ai sensi dell'articolo 4, possono formare oggetto di iscrizione in catasto, senza attribuzione di rendita catastale, ma con descrizione dei caratteri specifici e della destinazione d'uso, i seguenti immobili:
+ 
+                            
+                            
+                                a)
+                                
+                                    fabbricati o loro porzioni in corso di costruzione o di definizione;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    costruzioni inidonee ad utilizzazioni produttive di reddito, a causa dell'accentuato livello di degrado;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    lastrici solari;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    aree urbane.
+
+3.
+                        
+                            
+                                A meno di una ordinaria autonoma suscettibilita' reddituale, non costituiscono oggetto di inventariazione i seguenti immobili:
+ 
+                            
+                            
+                                a)
+                                
+                                    manufatti con superficie coperta inferiore a 8 m(elevato a)2 ;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    serre adibite alla coltivazione e protezione delle piante sul suolo naturale;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    vasche per l'acquacoltura o di accumulo per l'irrigazione dei terreni;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    manufatti isolati privi di copertura;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    tettoie, porcili, pollai, casotti, concimaie, pozzi e simili, di altezza utile inferiore a 1,80 m, purche' di volumetria inferiore a 150 m(elevato a)3 ;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    manufatti precari, privi di fondazione, non stabilmente infissi al suolo.
+
 Le opere di cui al comma 3, lettere a) ed e), nonche' quelle di cui alla lettera c) rivestite con paramento murario, qualora accessori a servizio di una o piu' unita' immobiliari ordinarie, sono oggetto di iscrizione in catasto contestualmente alle predette unita'.
 
 ## Art. 4. — Identificazione catastale
@@ -67,6 +145,31 @@ Con provvedimento del direttore del dipartimento del territorio, sono disciplina
 Per quanto non diversamente previsto dal presente regolamento, ai fini della conservazione del catasto dei fabbricati si applica la normativa vigente per il nuovo catasto edilizio urbano istituito con regio decreto-legge 13 aprile 1939, n. 652, convertito, con modificazioni, dalla legge 11 agosto 1939, n. 1249.
 
 ## Art. 6. — Costruzioni di scarsa rilevanza cartografica o censuaria
+
+1.
+                        
+                            
+                                Ai fini della applicazione delle modalita' semplificate di denuncia, di cui all'articolo 7, vengono definite di scarsa rilevanza cartografica o censuaria:
+ 
+                            
+                            
+                                a)
+                                
+                                    le costruzioni realizzate in aderenza a fabbricati gia' inseriti in mappa e comportanti un incremento di superficie coperta minore o uguale al cinquanta per cento della superficie occupata dal corpo di fabbrica preesistente;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le unita' afferenti fabbricati gia' censiti o nuove costruzioni aventi superficie minore o uguale a 20 m(elevato a)2 ; i manufatti precari in lamiera o legname, le costruzioni in muratura di pietrame a secco, le tettoie, le vasche e simili, purche' abbiano modesta consistenza planovolumetrica;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    le costruzioni non abitabili o agibili e comunque di fatto non utilizzabili, a causa di dissesti statici, di fatiscenza o inesistenza di elementi strutturali e impiantistici, ovvero delle principali finiture ordinariamente presenti nella categoria catastale, cui l'immobile e' censito o censibile, ed in tutti i casi nei quali la concreta utilizzabilita' non e' conseguibile con soli interventi edilizi di manutenzione ordinaria o straordinaria. In tali casi alla denuncia deve essere allegata una apposita autocertificazione, attestante l'assenza di allacciamento alle reti dei servizi pubblici dell'energia elettrica, dell'acqua e del gas.
 
 ## Art. 7. — Modalita' semplificate per la denuncia delle costruzioni di scarsa rilevanza cartografica o censuria
 
@@ -97,7 +200,78 @@ Le disposizioni di cui al comma 1 si applicano anche ai tecnici professionisti a
 
 ## Art. 11. — Requisiti di base della cartografia
 
+1.
+                        
+                            
+                                La cartografia e' costituita da un archivio informatizzato e presenta i requisiti di essere:
+ 
+                            
+                            
+                                a)
+                                
+                                    definita ed appoggiata ad una maglia di riferimento di punti fiduciali, individuati planoaltimetricamente nel sistema di riferimento nazionale;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    costituita da una rappresentazione planoaltimetrica basata sul tematismo fondamentale dei possessi o delle proprieta' e quello della potenzialita' produttiva agricola;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    aggiornata con precisioni topometriche differenziate, in funzione della conformazione orografica del territorio e della diversa rilevanza urbanistica ed economica dei terreni;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    costituita da una rappresentazione di tipo numerico a carattere vettoriale o digitale.
+
 ## Art. 12. — Contenuti tematici della cartografia
+
+1.
+                        
+                            
+                                Nella cartografia sono rappresentati i seguenti tematismi informativi:
+ 
+                            
+                            
+                                a)
+                                
+                                    vertici di riferimento rappresentati dalla maglia dei punti fiduciali;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    particelle rappresentative dei possessi o proprieta' dei terreni, nonche' della potenzialita' produttiva del suolo;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    particelle rappresentative dei fabbricati e delle eventuali loro aree pertinenziali;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    tessuto connettivo pubblico o di uso pubblico costituito dalla rete e dalle infrastrutture viarie e fluviali, con relativa toponomastica;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    particolari topografici anche di non specifico interesse catastale e altre informazioni, che permettono una migliore lettura della cartografia.
 
 ## Art. 13. — Tematismo del possesso o della proprieta'
 
@@ -113,6 +287,52 @@ Nella cartografia sono rappresentate le informazioni relative al tematismo della
 
 ## Art. 15. — Struttura logica dell'archivio informatizzato
  di cartografia
+
+1.
+                        
+                            
+                                La struttura logica degli archivi informatizzati della cartografia e' costituita da diversi livelli logici, ovvero da categorie omogenee di elementi informativi. Detti livelli concernono:
+ 
+                            
+                            
+                                a)
+                                
+                                    la maglia dei punti fiduciali;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il tematismo del possesso o delle proprieta' e dell'isopotenzialita' produttiva del suolo;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    le linee perimetrali dei fabbricati e delle relative aree di pertinenza;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    gli elementi individuativi del collegamento con gli archivi informatizzati dei dati amministrativocensuari;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    altri elementi informativi geometrici di interesse catastale, quali l'uso pubblico del suolo e la simbologia catastale;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    ulteriori elementi informativi geometrici anche di non specifico interesse catastale, atti ad una migliore lettura della cartografia.
 
 Il dipartimento del territorio, con decreto del direttore generale, ha facolta' di prevedere ulteriori livelli logici, qualora le esigenze di gestione della cartografia informatizzata lo richiedano.
 
@@ -153,11 +373,61 @@ I vertici della maglia sono conservati dal dipartimento del territorio. Per la l
 
 La maglia primaria puo' essere composta anche di vertici di riferimento realizzati da altre istituzioni pubbliche o private, purche' rispondenti ai requisiti di precisione stabiliti nel presente regolamento e verificati dal dipartimento del territorio.
 
+4.
+                        
+                            
+                                La maglia primaria presenta le seguenti precisioni intrinseche:
+ 
+                            
+                            
+                                a)
+                                
+                                    nel posizionamento planimetrico:
+(delta N(elevato a 2)+ delta E(elevata a 2))elevato a 1/2 < o = 0.15m
+
+                                
+                            
+                            
+                                b)
+                                
+                                    nel posizionamento altimetrico:
+ | delta H | < o = 0.20m
+dove:
+ delata N, delta E sono le differenze fra le coordinate di un punto fiduciale riportate sulla monografia e quelle dello stesso punto ricavate con operazioni di collegamento al vertice IGM95 piu' vicino;
+ delta H e' la differenza tra la quota geoidica di un punto fiduciale riportata sulla monografia e quella dello stesso punto, ricavata con operazioni di livellazioni di precisione appoggiate alla rete sopra menzionata.
+
 ## Art. 21. — Maglia secondaria dei punti fiduciali
 
 La maglia secondaria viene definita con una densita' di un vertice ogni venticinque ettari. I vertici della maglia sono individuati con metodologie di rilievo e con le precisioni intrinseche di cui al comma 3, differenziate in funzione dell'urbanizzazione e della morfologia del territorio.
 
 I vertici della maglia secondaria possono essere integrati o aggiornati nelle coordinate, qualora siano soggetti a nuove rilevazioni da parte di altre istituzioni pubbliche o private, purche' le nuove informazioni di aggiornamento rispondano a requisiti di maggiore precisione rispetto a quelle precedenti.
+
+3.
+                        
+                            
+                                Per la maglia secondaria dei vertici di riferimento vengono stabilite le seguenti precisioni intrinseche:
+ 
+                            
+                            
+                                a)
+                                
+                                    nel posizionamento planimetrico:
+(delta N(elevato a 2) + delta E(elevata a 2))elevato a 1/2 < o = T p
+
+                                
+                            
+                            
+                                b)
+                                
+                                    nel posizionamento altimetrico:
+ | delta H | < o = T
+ H
+dove:
+ 1) T = 0.20 m, T = 0.30 m, per le aree urbanizzate o di
+ p H espansione urbanistica;
+ 2) T p = 0.25 m, T = 0.40 m, per le aree agricole in pianura o p H media collina;
+ 3) T = 0.30 m, T = 0.50 m, per le aree agricole di alta collina
+ p H o montagna.
 
 ## - Capo III Produzione e adeguamento della cartografia catastale
 
@@ -178,6 +448,54 @@ La cartografia catastale e' rappresentata in fogli di mappa.
 ## Art. 24. — Precisioni planoaltimetriche della mappa
 
 Le precisioni della mappa sono commisurate alle caratteristiche delle zone, oggetto di rilievo e di rappresentazione.
+
+2.
+                        
+                            
+                                Per i punti della mappa catastale, sono stabiliti i seguenti criteri per la definizione delle tolleranze planimetriche ed altimetriche:
+ 
+                            
+                            
+                                a)
+                                
+                                    le coordinate (N' , E' ) di un punto P del terreno
+ p p
+memorizzate nell'archivio informatizzato e le coordinate dello stesso punto (N , E ) ricavate con operazioni topografiche sufficientemente p p
+precise e riferite ai vertici della rete geodetica di inquadramento della mappa, devono soddisfare la relazione:
+ _ _
+ | 2 2 | 1/2
+ |(N' - N ) + (E' - E ) | < o = T
+ |_ p p p p _| p
+in cui T e' uguale a:
+ p
+ 1) 0.40 m per le aree urbanizzate o di espansione urbanistica;
+ 2) 0.80 m per le aree agricole in pianura o media collina;
+ 3) 1.60 m per le aree agricole di alta collina o montagna;
+ b)la differenza tra la quota H prime di un punto del terreno, memorizzata nell'archivio informatico e la quota H dello stesso punto ricavata direttamente con operazioni sufficientemente precise, deve soddisfare la seguente relazione:
+ | H' - H | < o = T
+ H
+in cui T :
+ H
+ 1) per i punti quotati isolati, e' uguale a:
+ a) 0.40 m per le aree urbanizzate o di espansione urbanistica;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    0.60 m per le aree agricole di pianura o media collina;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    1.00 m per le aree agricole di alta collina o montagna;
+ 2) per i punti appartenenti a curve di livello, e' uguale a:
+ a) 0.60 m per aree urbanizzate o di espansione urbanistica;
+ b) 0.90 m per aree agricole di pianura e media collina;
+ c) 1.80 m per aree agricole di alta collina o montagna.
 
 ## - Capo IV Aggiornamento della cartografia catastale
 

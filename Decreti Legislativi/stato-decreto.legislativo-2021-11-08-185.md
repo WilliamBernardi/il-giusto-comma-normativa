@@ -7,8 +7,8 @@ urn: urn:nir:stato:decreto.legislativo:2021-11-08;185
 vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:30Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -24,10 +24,161 @@ Sulla proposta del Presidente del Consiglio dei ministri e del Ministro dello sv
 
 ## Art. 1. — Modifiche alla legge 10 ottobre 1990 n. 287
 
+1.
+                    
+                        
+                            All'articolo 10 della legge 10 ottobre 1990, n. 287, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                il comma 3 e' sostituito dai seguenti: 
+ «3. I membri dell'Autorita' sono nominati per sette anni e non possono essere confermati. Essi non possono esercitare, a pena di decadenza, alcuna attivita' professionale o di consulenza, ne' possono essere amministratori o dipendenti di enti pubblici o privati, ne' ricoprire altri uffici pubblici di qualsiasi natura. I dipendenti statali sono collocati fuori ruolo per l'intera durata del mandato. I membri dell'Autorita' non possono essere rimossi o destituiti per motivi connessi al corretto svolgimento dei loro compiti o al corretto esercizio dei poteri nell'applicazione della presente legge ovvero degli articoli 101 o 102 del TFUE. I membri dell'Autorita' possono essere sollevati dall'incarico solamente quando e' applicata la pena accessoria di cui all'articolo 28 del Codice penale con sentenza passata in giudicato; in tali casi, il Collegio dell'Autorita' informa i Presidenti della Camera dei deputati e del Senato della Repubblica per i provvedimenti di competenza. 
+ 3-bis. I membri e il personale dell'Autorita' svolgono i loro compiti ed esercitano i loro poteri ai fini dell'applicazione della presente legge e degli articoli 101 e 102 del TFUE in modo indipendente da ingerenze politiche e da altre influenze esterne.
+Essi non sollecitano ne' accettano istruzioni dal Governo o da altri soggetti pubblici o privati nello svolgimento dei loro compiti o nell'esercizio dei loro poteri. I membri e il personale dell'Autorita' si astengono dall'intraprendere qualsiasi azione incompatibile con lo svolgimento dei loro compiti o con l'esercizio dei loro poteri ai fini dell'applicazione della presente legge ovvero degli articoli 101 o 102 del TFUE. 
+ 3-ter. L'Autorita' adotta e pubblica un codice di condotta per i propri membri e il proprio personale, che include disposizioni in materia di conflitto di interessi e le relative sanzioni. I membri e il personale dell'Autorita', per i tre anni successivi dalla cessazione delle loro funzioni, non possono essere coinvolti in procedimenti istruttori riguardanti l'applicazione degli articoli 101 o 102 TFUE ovvero degli articoli 2 o 3 della presente legge di cui si sono occupati durante il loro rapporto di lavoro o incarico presso l'Autorita'. I contratti conclusi e gli incarichi conferiti in violazione di quanto previsto dal precedente periodo sono nulli.»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 7, dopo il primo periodo, e' aggiunto il seguente: «L'Autorita' e' indipendente nell'utilizzare la propria dotazione finanziaria.».
+
 All'articolo 12 della legge n. 287 del 1990, dopo il comma 1, sono inseriti i seguenti: 
  «1-bis. I tipi di prove ammissibili dinanzi all'Autorita' comprendono i documenti, le dichiarazioni orali, i messaggi elettronici, le registrazioni e tutti gli altri documenti contenenti informazioni, indipendentemente dalla loro forma e dal supporto sul quale le informazioni sono conservate. 
  1-ter. L'Autorita' ha il potere di definire le priorita' di intervento ai fini dell'applicazione della presente legge e degli articoli 101 e 102 del TFUE. L'Autorita' puo' non dare seguito alle segnalazioni che non rientrino tra le proprie priorita' di intervento. 
  1-quater. I procedimenti relativi alle infrazioni degli articoli 101 o 102 del TFUE ovvero degli articoli 2 o 3 della presente legge, incluso l'esercizio dei poteri di cui al presente capo II da parte dell'Autorita', rispettano i principi generali del diritto dell'Unione europea e la Carta dei diritti fondamentali dell'Unione europea.».
+
+3.
+                    
+                        
+                            All'articolo 14 della legge n. 287 del 1990, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                il comma 1 e' sostituito dal seguente: 
+ «1. L'Autorita', nei casi di presunta infrazione degli articoli 101 o 102 del TFUE ovvero degli articoli 2 o 3 della presente legge, svolge l'istruttoria in tempi ragionevoli e ne notifica l'apertura alle imprese e agli enti interessati. I titolari o legali rappresentanti delle imprese ed enti hanno diritto di essere sentiti, personalmente o a mezzo di procuratore speciale, nel termine fissato contestualmente alla notifica ed hanno facolta' di presentare deduzioni e pareri in ogni stadio dell'istruttoria, nonche' di essere nuovamente sentiti prima della chiusura della stessa.»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                il comma 2 e' sostituito dai seguenti: 
+ «2. L'Autorita' puo' in ogni momento dell'istruttoria richiedere a imprese, associazioni di imprese o persone fisiche e giuridiche che ne sono in possesso di fornire informazioni e di esibire documenti utili ai fini dell'istruttoria, entro un termine ragionevole e indicato nella richiesta. Tali richieste di informazioni sono proporzionate e non obbligano i destinatari ad ammettere un'infrazione degli articoli 101 o 102 del TFUE ovvero degli articoli 2 o 3 della presente legge. L'obbligo di fornire tutte le informazioni necessarie comprende le informazioni accessibili ai destinatari della richiesta. 
+ 2-bis. L'Autorita' puo' in ogni momento dell'istruttoria convocare in audizione ogni rappresentante di un'impresa o di un'associazione di imprese, un rappresentante di altre persone giuridiche e ogni persona fisica se tali rappresentanti o tali persone fisiche possono essere in possesso di informazioni rilevanti ai fini dell'istruttoria. 
+ 2-ter. L'Autorita' puo' disporre perizie e analisi economiche e statistiche nonche' la consultazione di esperti in ordine a qualsiasi elemento rilevante ai fini dell'istruttoria. 
+ 2-quater. L'Autorita' puo' in ogni momento dell'istruttoria disporre presso imprese e associazioni di imprese tutte le ispezioni necessarie all'applicazione della presente legge e degli articoli 101 e 102 del TFUE. I funzionari dell'Autorita' incaricati di procedere alle ispezioni possono: 
+ a) accedere a tutti i locali, terreni e mezzi di trasporto delle imprese e associazioni di imprese; 
+ b) controllare i libri e qualsiasi altro documento connesso all'azienda, su qualsiasi forma di supporto, e accedere a tutte le informazioni accessibili all'entita' oggetto dell'accertamento ispettivo; 
+ c) fare o acquisire, sotto qualsiasi forma, copie o estratti dei suddetti libri o documenti e, se lo ritengono opportuno, continuare dette ricerche di informazioni e la selezione di copie o estratti nei locali dell'Autorita' o in altri locali da essa designati; 
+ d) apporre sigilli a tutti i locali, libri e documenti aziendali per la durata dell'accertamento ispettivo e nella misura necessaria al suo espletamento; 
+ e) chiedere a qualsiasi rappresentante o membro del personale dell'impresa o dell'associazione di imprese spiegazioni sui fatti o documenti relativi all'oggetto e allo scopo dell'accertamento ispettivo e verbalizzarne le risposte. 
+ 2-quinquies. Se vi sono motivi ragionevoli di sospettare che libri o altri documenti connessi all'azienda e all'oggetto dell'ispezione, che possono essere pertinenti per provare un'infrazione degli articoli 101 o 102 del TFUE ovvero degli articoli 2 o 3 della presente legge, siano conservati in locali, terreni e mezzi di trasporto diversi da quelli di cui all'articolo 14, comma 2-quater, lettera a), della presente legge, compresa l'abitazione di dirigenti, amministratori e altri membri del personale delle imprese o associazioni di imprese interessate, l'Autorita' puo' disporre ispezioni in tali locali, terreni e mezzi di trasporto. I funzionari dell'Autorita' incaricati dell'ispezione dispongono dei poteri di cui al comma 2-quater, lettere a), b), e c), del presente articolo. 
+ 2-sexies. L'accertamento ispettivo nei luoghi di cui al comma 2-quinquies del presente articolo puo' essere eseguito soltanto se autorizzato con decreto motivato emesso dal procuratore della Repubblica del luogo ove deve svolgersi l'accesso. Il decreto e' notificato all'Autorita' entro dieci giorni dall'emissione. Contro il decreto di diniego, l'Autorita' puo' proporre opposizione, entro dieci giorni dalla notificazione, con atto presentato alla segreteria del procuratore della Repubblica che ha emesso il decreto. L'atto di opposizione e' trasmesso, unitamente al decreto di diniego, al giudice per le indagini preliminari ai sensi dell'articolo 368 del codice di procedura penale. 
+ 2-septies. Nello svolgimento dell'attivita' ispettiva di cui ai commi 2-quater e 2-quinquies del presente articolo, l'Autorita' puo' avvalersi della collaborazione dei militari della Guardia di finanza, che, ai sensi dell'articolo 54, comma 4, della legge 6 febbraio 1996, n. 52, agiscono con i poteri e le facolta' previsti dai decreti del Presidente della Repubblica 26 ottobre 1972, n. 633, e 29 settembre 1973, n. 600, e dalle altre disposizioni tributarie, nonche' della collaborazione di altri organi dello Stato. 
+ 2-octies. Quando l'Autorita' svolge un'ispezione ai sensi dei commi 2-quater e 2-quinquies del presente articolo o un'audizione ai sensi del comma 2-bis del presente articolo, in nome e per conto di altre autorita' nazionali garanti della concorrenza conformemente all'articolo 22 del regolamento (CE) n. 1/2003 del Consiglio, del 16 dicembre 2002, i funzionari e le altre persone che li accompagnano autorizzati o nominati dall'autorita' nazionale garante della concorrenza richiedente possono assistere all'ispezione o all'audizione svolti dall'Autorita' e parteciparvi attivamente, sotto il controllo dei funzionari dell'Autorita' medesima.»; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                il comma 5 e' sostituito dai seguenti: 
+ «5. L'Autorita' dispone l'applicazione di una sanzione amministrativa pecuniaria fino all'1 per cento del fatturato totale realizzato a livello mondiale durante l'esercizio precedente se, dolosamente o per colpa: 
+ a) le imprese o le associazioni di imprese ostacolano l'ispezione di cui al comma 2-quater, del presente articolo; 
+ b) sono stati infranti i sigilli apposti ai sensi del comma 2-quater, lettera d), del presente articolo, ferme le ulteriori sanzioni penali previste per l'autore dell'infrazione; 
+ c) in risposta ad una domanda rivolta nel corso di un'ispezione ai sensi del comma 2-quater, lettera e), del presente articolo, le imprese e le associazioni di imprese non forniscono una risposta completa o forniscono informazioni inesatte o fuorvianti; 
+ d) in risposta ad una richiesta di informazioni ai sensi del comma 2 del presente articolo, le imprese e le associazioni di imprese forniscono informazioni inesatte, incomplete o fuorvianti oppure non forniscono le informazioni entro il termine stabilito; 
+ e) le imprese o le associazioni di imprese non si presentano all'audizione convocata ai sensi del comma 2-bis del presente articolo. 
+ 6. L'Autorita' puo' irrogare alle imprese e associazioni di imprese penalita' di mora il cui importo puo' giungere fino al 5 per cento del fatturato medio giornaliero realizzato a livello mondiale durante l'esercizio sociale precedente per ogni giorno di ritardo a decorrere dalla data fissata nella richiesta o nel provvedimento, al fine di costringerle: 
+ a) a fornire informazioni complete ed esatte in risposta ad una richiesta di informazioni ai sensi del comma 2 del presente articolo; 
+ b) a presentarsi all'audizione convocata ai sensi del comma 2-bis del presente articolo; 
+ c) a sottoporsi all'ispezione di cui al comma 2-quater del presente articolo. 
+ 7. Con provvedimento dell'Autorita', sono sottoposte alla sanzione amministrativa pecuniaria da 150 euro a 25.823 euro le persone fisiche che, dolosamente o per colpa: 
+ a) ostacolano l'accertamento ispettivo di cui al comma 2-quinquies del presente articolo; 
+ b) in risposta ad una richiesta di informazioni ai sensi del comma 2 del presente articolo, forniscono informazioni inesatte, incomplete o fuorvianti oppure non forniscono le informazioni entro il termine stabilito, salvo rifiuto motivato se le informazioni richieste possono far emergere la propria responsabilita' per un illecito passibile di sanzioni amministrative di carattere punitivo o per un reato; 
+ c) non si presentano all'audizione convocata ai sensi del comma 2-bis del presente articolo. 
+ 8. L'Autorita' puo' irrogare alle persone fisiche penalita' di mora da 150 euro a 500 euro per ogni giorno di ritardo a decorrere dalla data fissata nella richiesta o nel provvedimento, al fine di costringerle a: 
+ a) fornire informazioni complete ed esatte in risposta a una richiesta di informazioni ai sensi del comma 2 del presente articolo, salvo rifiuto motivato se le informazioni richieste possono far emergere la propria responsabilita' per un illecito passibile di sanzioni amministrative di carattere punitivo o per un reato; 
+ b) presentarsi all'audizione convocata ai sensi del comma 2-bis del presente articolo; 
+ c) sottoporsi all'ispezione di cui al comma 2-quinquies del presente articolo.».
+
+4.
+                    
+                        
+                            All'articolo 14-bis della legge n. 287 del 1990, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                il comma 2, e' sostituito dal seguente: «2. Le decisioni adottate ai sensi del comma 1 del presente articolo sono proporzionate e applicabili fino all'adozione della decisione finale oppure per un periodo di tempo specificato che puo', se necessario e opportuno, essere prorogato. L'Autorita' informa la rete europea della concorrenza delle misure cautelari adottate nel contesto di procedimenti volti all'accertamento di infrazioni degli articoli 101 e 102 del TFUE.»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 3, sono aggiunte, in fine, le seguenti parole: «totale realizzato a livello mondiale durante l'esercizio precedente».
+
+5.
+                    
+                        
+                            All'articolo 14-ter della legge n. 287 del 1990, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 1, dopo le parole: «L'Autorita', valutata l'idoneita' di tali impegni», sono aggiunte le seguenti: «e previa consultazione degli operatori del mercato» e le parole: «e chiudere», sono sostituite dalle seguenti: «. Tale decisione puo' essere adottata per un periodo di tempo determinato e chiude»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 2, sono aggiunte, in fine, le seguenti parole: «totale realizzato a livello mondiale durante l'esercizio precedente.
+Al fine di monitorare l'attuazione degli impegni, l'Autorita' esercita i poteri di cui all'articolo 14 della presente legge»; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                al comma 3, lettera a), dopo le parole: «si modifica», sono aggiunte le seguenti: «in modo determinante».
+
+6.
+                    
+                        
+                            All'articolo 15 della legge n. 287 del 1990, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                il comma 1 e' sostituito dai seguenti: 
+ «1. Se, a seguito dell'istruttoria di cui all'articolo 14 della presente legge, l'Autorita' ravvisa un'infrazione degli articoli 101 o 102 del TFUE ovvero degli articoli 2 o 3 della presente legge, fissa alle imprese e associazioni di imprese interessate il termine per l'eliminazione dell'infrazione stessa ovvero, se l'infrazione e' gia' cessata, ne vieta la reiterazione. A tal fine l'Autorita' puo' imporre l'adozione di qualsiasi rimedio comportamentale o strutturale proporzionato all'infrazione commessa e necessario a far cessare effettivamente l'infrazione stessa. Al momento di scegliere fra due rimedi ugualmente efficaci, l'Autorita' opta per il rimedio meno oneroso per l'impresa, in linea con il principio di proporzionalita'. 
+ 1-bis. Tenuto conto della gravita' e della durata dell'infrazione, dispone inoltre l'applicazione di una sanzione amministrativa pecuniaria fino al 10 per cento del fatturato realizzato in ciascuna impresa o associazione di imprese nell'ultimo esercizio chiuso anteriormente alla notificazione della diffida, determinando i termini entro i quali l'impresa deve procedere al pagamento della sanzione. Se l'infrazione commessa da un'associazione di imprese riguarda le attivita' dei suoi membri, l'Autorita' dispone l'applicazione di una sanzione amministrativa pecuniaria fino al 10 per cento della somma dei fatturati totali a livello mondiale realizzati nell'ultimo esercizio chiuso anteriormente alla notificazione della diffida di ciascun membro operante sul mercato interessato dall'infrazione commessa dall'associazione. Tuttavia, la responsabilita' finanziaria di ciascuna impresa riguardo al pagamento della sanzione non puo' superare il 10 per cento del fatturato da essa realizzato nell'ultimo esercizio chiuso anteriormente alla notificazione della diffida. 
+ 1-ter. Quando a un'associazione di imprese e' irrogata una sanzione tenendo conto del fatturato dei suoi membri ai sensi degli articoli 14, comma 5, e 15, comma 1-bis, e l'associazione non e' solvibile, essa e' tenuta a richiedere ai propri membri contributi a concorrenza dell'importo della sanzione. Se tali contributi non sono stati versati integralmente all'associazione di imprese entro il termine fissato dall'Autorita', l'Autorita' puo' esigere il pagamento della sanzione direttamente da qualsivoglia impresa i cui rappresentanti erano membri degli organi decisionali dell'associazione quando quest'ultima ha assunto la decisione che ha costituito l'infrazione. Se necessario per garantire il pagamento integrale della sanzione, dopo aver richiesto il pagamento a dette imprese, l'Autorita' puo' anche esigere il pagamento dell'importo della sanzione ancora dovuto da qualsivoglia membro dell'associazione che operava sul mercato nel quale si e' verificata l'infrazione.
+Tuttavia, non puo' esigersi il pagamento dalle imprese che dimostrano che non hanno attuato la decisione dell'associazione che ha costituito l'infrazione e che o non erano a conoscenza della sua esistenza, o si sono attivamente dissociate da essa prima dell'inizio dell'indagine. 
+ 1-quater. Se, in base alle informazioni di cui dispone, l'Autorita' ritiene che non sussistono le condizioni per ravvisare un'infrazione, l'Autorita' puo' assumere una decisione in tal senso.
+Quando, dopo aver informato la Commissione europea ai sensi dell'articolo 11, paragrafo 3, del regolamento (CE) n. 1/2003, l'Autorita' ritiene che sono venuti meno i motivi di intervento e chiude pertanto il procedimento istruttorio, ne informa di conseguenza la Commissione europea.»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                il comma 2-bis e' sostituito dal seguente: 
+ «2-bis. L'Autorita' puo' irrogare alle imprese e associazioni di imprese penalita' di mora il cui importo puo' giungere fino al 5 per cento del fatturato medio giornaliero realizzato a livello mondiale durante l'esercizio sociale precedente per ogni giorno di ritardo a decorrere dalla data fissata nella decisione, al fine di costringerle a: 
+ a) ottemperare alla diffida di cui al comma 1 del presente articolo; 
+ b) ottemperare alle misure cautelari adottate ai sensi dell'articolo 14-bis; 
+ c) rispettare gli impegni resi obbligatori mediante decisione ai sensi dell'articolo 14-ter.».
 
 Dopo l'articolo 15 della legge n. 287 del 1990, sono inseriti i seguenti: 
  «Art. 15-bis (Non applicazione delle sanzioni). - 1. L'Autorita', in conformita' all'ordinamento dell'Unione europea, adotta con proprio provvedimento generale un programma di trattamento favorevole che definisce i casi in cui, in virtu' della qualificata collaborazione prestata dalle imprese nell'accertamento di infrazioni delle regole di concorrenza, la sanzione amministrativa pecuniaria puo' essere non applicata o ridotta per le imprese che rivelino la loro partecipazione a cartelli segreti. 

@@ -8,8 +8,8 @@ vigente: true
 source: normattiva-opendata
 collection: Leggi delega e relativi provvedimenti delegati
 vigenza_date: 2026-01-24
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:41:19Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -31,19 +31,424 @@ Sulla proposta del Presidente del Consiglio dei ministri e del Ministro dell'amb
 
 Finalita'
 
+1.
+                        
+                            
+                                Il presente decreto legislativo stabilisce misure e procedure volte a proteggere l'ambiente e la salute umana: 
+ 
+                            
+                            
+                                a)
+                                
+                                    prevenendo o riducendo gli impatti negativi derivanti dalla progettazione e dalla produzione delle apparecchiature elettriche ed elettroniche e dalla produzione e gestione dei rifiuti di apparecchiature elettriche ed elettroniche; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    riducendo gli impatti negativi e migliorando l'efficacia dell'uso delle risorse per conseguire obiettivi di sviluppo sostenibile, in applicazione dei principi e dei criteri di cui agli articoli 177, 178, 178-bis, 179, 180, 180-bis e 181 del decreto legislativo 3 aprile 2006, n. 152, e successive modificazioni.
+
 ## Art. 2. — Ambito di applicazione
+
+1.
+                        
+                            
+                                Le disposizioni del presente decreto legislativo si applicano: 
+ 
+                            
+                            
+                                a)
+                                
+                                    alle apparecchiature elettriche ed elettroniche rientranti nelle categorie di cui all'Allegato I ed elencate a titolo esemplificativo all'Allegato II, dalla data di entrata in vigore del presente decreto legislativo sino al 14 agosto 2018; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    a tutte le apparecchiature elettriche ed elettroniche, come classificate nelle categorie dell'Allegato III ed elencate a titolo esemplificativo nell'Allegato IV dal 15 agosto 2018.
 
 Il presente decreto legislativo non pregiudica l'applicazione della normativa nazionale di recepimento delle disposizioni europee in materia di sicurezza, di salute, di sostanze chimiche, nonche' del regolamento (CE) n. 1907/2006 del Parlamento europeo e del Consiglio, del 18 dicembre 2006, concernente la registrazione, la valutazione, l'autorizzazione e la restrizione delle sostanze chimiche (REACH), del decreto legislativo 16 febbraio 2011, n. 15, di recepimento della direttiva 2009/125/CE del Parlamento europeo e del Consiglio, del 21 ottobre 2009 sulla progettazione ecocompatibile dei prodotti connessi all'energia, della normativa nazionale di recepimento della direttiva 2011/65/UE del Parlamento europeo e del Consiglio dell'8 giugno 2011 sulla restrizione dell'uso di determinate sostanze pericolose nelle apparecchiature elettriche ed elettroniche e della Parte Quarta del decreto legislativo 3 aprile 2006, n. 152, e successive modificazioni.
 
 ## Art. 3. — Esclusioni
 
+1.
+                        
+                            
+                                Sono escluse dal campo di applicazione del presente decreto legislativo: 
+ 
+                            
+                            
+                                a)
+                                
+                                    le apparecchiature necessarie per la tutela degli interessi essenziali della sicurezza nazionale, comprese le armi, le munizioni e il materiale bellico, purche' destinate a fini specificamente militari; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le apparecchiature progettate e installate specificamente come parte di un'altra apparecchiatura che e' esclusa o che non rientra nell'ambito di applicazione del presente decreto legislativo, purche' possano svolgere la propria funzione solo in quanto parti di tale apparecchiatura; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    le lampade a incandescenza.
+
+2.
+                        
+                            
+                                A far data dal 15 agosto 2018 sono altresi' escluse dal campo di applicazione del presente decreto legislativo: 
+ 
+                            
+                            
+                                a)
+                                
+                                    le apparecchiature destinate ad essere inviate nello spazio; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    gli utensili industriali fissi di grandi dimensioni; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    le installazioni fisse di grandi dimensioni, ad eccezione delle apparecchiature che non sono progettate e installate specificamente per essere parte di dette installazioni; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    i mezzi di trasporto di persone o di merci, esclusi i veicoli elettrici a due ruote non omologati; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    le macchine mobili non stradali destinate ad esclusivo uso professionale; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    le apparecchiature appositamente concepite a fini di ricerca e sviluppo, disponibili unicamente nell'ambito di rapporti tra imprese; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    i dispositivi medici ed i dispositivi medico-diagnostici in vitro qualora vi sia il rischio che tali dispositivi siano infetti, ai sensi del decreto del Presidente della Repubblica 15 luglio 2003, n. 254, prima della fine del ciclo di vita e i dispositivi medici impiantabili attivi.
+
 ## Art. 4. — Definizioni
+
+1.
+                        
+                            
+                                Ai fini del presente decreto legislativo si intende per: 
+ 
+                            
+                            
+                                a)
+                                
+                                    'apparecchiature elettriche ed elettroniche' o 'AEE': le apparecchiature che dipendono, per un corretto funzionamento, da correnti elettriche o da campi elettromagnetici e le apparecchiature di generazione, trasferimento e misurazione di queste correnti e campi e progettate per essere usate con una tensione non superiore a 1000 volt per la corrente alternata e a 1500 volt per la corrente continua; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    'utensili industriali fissi di grandi dimensioni': un insieme di grandi dimensioni di macchine, apparecchiature e componenti, o entrambi che funzionano congiuntamente per un'applicazione specifica, installati e disinstallati in maniera permanente da professionisti in un determinato luogo e utilizzati e gestiti da professionisti presso un impianto di produzione industriale o un centro di ricerca e sviluppo; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    'installazioni fisse di grandi dimensioni': una combinazione su larga scala di apparecchi di vario tipo ed, eventualmente, di altri dispositivi, che: 
+ 1) sono assemblati, installati e disinstallati da professionisti; 
+ 2) sono destinati ad essere utilizzati in modo permanente come parti di un edificio o di una struttura in un luogo prestabilito e apposito; 
+ 3) possono essere sostituiti unicamente con le stesse apparecchiature appositamente progettate; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    'macchine mobili non stradali': le macchine dotate di una fonte di alimentazione a bordo, il cui funzionamento richiede mobilita' o movimento continuo o semicontinuo durante il lavoro, tra una serie di postazioni di lavoro fisse; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    'rifiuti di apparecchiature elettriche ed elettroniche' o 'RAEE': le apparecchiature elettriche o elettroniche che sono rifiuti ai sensi dell'articolo 183, comma 1, lettera a), del decreto legislativo 3 aprile 2006, n. 152, inclusi tutti i componenti, sottoinsiemi e materiali di consumo che sono parte integrante del prodotto al momento in cui il detentore si disfi, abbia l'intenzione o l'obbligo disfarsene; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    'RAEE di piccolissime dimensioni': i RAEE di dimensioni esterne inferiori a 25 cm; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    'produttore': la persona fisica o giuridica che, qualunque sia la tecnica di vendita utilizzata, compresa la comunicazione a distanza, ai sensi della Sezione II, del Capo I, del Titolo III del decreto legislativo 6 settembre 2005, n. 206, riguardante la protezione dei consumatori in materia di contratti a distanza: 
+ 1) e' stabilita nel territorio nazionale e fabbrica AEE recanti il suo nome o marchio di fabbrica oppure commissiona la progettazione o la fabbricazione di AEE e le commercializza sul mercato nazionale apponendovi il proprio nome o marchio di fabbrica; 
+ 2) e' stabilita nel territorio nazionale e rivende sul mercato nazionale, con il suo nome o marchio di fabbrica, apparecchiature prodotte da altri fornitori; il rivenditore non viene considerato 'produttore', se l'apparecchiatura reca il marchio del produttore a norma del numero 1); 
+ 3) e' stabilita nel territorio nazionale ed immette sul mercato nazionale, nell'ambito di un'attivita' professionale, AEE di un Paese terzo o di un altro Stato membro dell'Unione europea; 
+ 4) e' stabilita in un altro Stato membro dell'Unione europea o in un paese terzo e vende sul mercato nazionale AEE mediante tecniche di comunicazione a distanza direttamente a nuclei domestici o a utilizzatori diversi dai nuclei domestici; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    'distributore': persona fisica o giuridica iscritta al Registro delle imprese di cui alla legge 29 dicembre 1993, n. 580, e successive modificazioni, che, operando nella catena di approvvigionamento, rende disponibile sul mercato un'AEE. Tale definizione non osta a che un distributore sia al tempo stesso un produttore ai sensi della lettera g); 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    'distributore al dettaglio': una persona fisica o giuridica come definita nella lettera h), che rende disponibile un'AEE all'utilizzatore finale; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    'RAEE provenienti dai nuclei domestici': i RAEE originati dai nuclei domestici e i RAEE di origine commerciale, industriale, istituzionale e di altro tipo, analoghi, per natura e quantita', a quelli originati dai nuclei domestici. I rifiuti delle AEE che potrebbero essere usate sia dai nuclei domestici che da utilizzatori diversi dai nuclei domestici sono in ogni caso considerati RAEE provenienti dai nuclei domestici; 
+
+                                
+                            
+                            
+                                m)
+                                
+                                    'RAEE professionali': i RAEE diversi da quelli provenienti dai nuclei domestici di cui alla lettera l); 
+
+                                
+                            
+                            
+                                n)
+                                
+                                    'RAEE equivalenti': i RAEE ritirati a fronte della fornitura di una nuova apparecchiatura, che abbiano svolto la stessa funzione dell'apparecchiatura fornita; 
+
+                                
+                            
+                            
+                                o)
+                                
+                                    
+                                        ((RAEE storici: i RAEE derivanti da:)) 
+ 1) ((apparecchiature elettriche ed elettroniche di cui all'articolo 2, comma 1, lettera a), diverse dai pannelli fotovoltaici, immesse sul mercato il 13 agosto 2005 o anteriormente a tale data;)) 
+ 2) ((pparecchiature elettriche ed elettroniche di cui all'articolo 2, comma 1, lettera b), diverse dai pannelli fotovoltaici, immesse sul mercato prima del 15 agosto 2018 e non rientranti tra quelle di cui all'articolo 2, comma 1, lettera a), conformemente alle disposizioni relative alla responsabilita' estesa del produttore;))
+                                    
+                                
+                            
+                            
+                                p)
+                                
+                                    'accordo finanziario': qualsiasi contratto o accordo di prestito, noleggio, affitto o vendita dilazionata relativo a qualsiasi apparecchiatura, indipendentemente dal fatto che i termini di tale contratto o accordo o di un contratto o accordo accessori prevedano il trasferimento o la possibilita' del trasferimento della proprieta' di tale apparecchiatura; 
+
+                                
+                            
+                            
+                                q)
+                                
+                                    'messa a disposizione sul mercato': la fornitura di un prodotto per la distribuzione, il consumo o l'uso sul mercato nazionale nel corso di un'attivita' commerciale, a titolo oneroso o gratuito; 
+
+                                
+                            
+                            
+                                r)
+                                
+                                    'immissione sul mercato': la prima messa a disposizione di un prodotto sul mercato nazionale nell'ambito di un'attivita' professionale; 
+
+                                
+                            
+                            
+                                s)
+                                
+                                    'rimozione': l'operazione manuale, meccanica, chimica o metallurgica in seguito alla quale le sostanze, le miscele e le componenti pericolose sono confinate in un flusso identificabile o sono una parte identificabile di un flusso nel processo di trattamento. Una sostanza, una miscela o una componente e' identificabile se puo' essere monitorata per verificare che il trattamento e' sicuro per l'ambiente; 
+
+                                
+                            
+                            
+                                t)
+                                
+                                    'dispositivo medico': un dispositivo medico o un accessorio ai sensi rispettivamente delle lettere a) o b) dell'articolo 1, comma 2, del decreto legislativo 24 febbraio 1997, n. 46, recante attuazione della direttiva 93/42/CEE, del Consiglio del 14 giugno 1993, sui dispositivi medici, che costituisca un'AEE; 
+
+                                
+                            
+                            
+                                u)
+                                
+                                    'dispositivo medico-diagnostico in vitro': un dispositivo diagnostico in vitro o un accessorio ai sensi rispettivamente delle lettere b) o c), dell'articolo 1, comma 1, del decreto legislativo 25 gennaio 2010, n. 37, recante attuazione della direttiva 98/79/CE del Parlamento europeo e del Consiglio, del 27 ottobre 1998, relativa ai dispositivi medico-diagnostici in vitro che costituisca un'AEE; 
+
+                                
+                            
+                            
+                                v)
+                                
+                                    'dispositivo medico impiantabile attivo': un dispositivo medico impiantabile attivo ai sensi, dell'articolo 1, comma 2, lettera c), del decreto legislativo 14 dicembre 1992, n. 507, che costituisca un'AEE; 
+
+                                
+                            
+                            
+                                z)
+                                
+                                    'rifiuto pericoloso': i rifiuti che presentano le caratteristiche indicate nell'articolo 183, comma 1, lettera b), del decreto legislativo 3 aprile 2006, n. 152; 
+
+                                
+                            
+                            
+                                aa)
+                                
+                                    'prevenzione': le misure indicate nell'articolo 183, comma 1, lettera m), del decreto legislativo 3 aprile 2006, n. 152; 
+
+                                
+                            
+                            
+                                bb)
+                                
+                                    'raccolta': le operazioni definite all'articolo 183, comma 1, lettera o), del decreto legislativo 3 aprile 2006, n. 152, compresa la cernita e il deposito preliminare alla raccolta e la gestione dei centri di raccolta di cui alla lettera mm); 
+
+                                
+                            
+                            
+                                cc)
+                                
+                                    'deposito preliminare alla raccolta': il deposito temporaneo di cui all'articolo 3, paragrafo 1, punto 10, e alle note al punto D15 dell'Allegato I e al punto R13 dell'Allegato II della direttiva 2008/98/CE del Parlamento europeo e del Consiglio, del 19 novembre 2008; 
+
+                                
+                            
+                            
+                                dd)
+                                
+                                    'raccolta differenziata': la raccolta definita nell'articolo 183, comma 1, lettera p), del decreto legislativo 3 aprile 2006, n. 152; 
+
+                                
+                            
+                            
+                                ee)
+                                
+                                    'riutilizzo': le operazioni indicate nell'articolo 183, comma 1, lettera r), del decreto legislativo 3 aprile 2006, n. 152; 
+
+                                
+                            
+                            
+                                ff)
+                                
+                                    'preparazione per il riutilizzo': le operazioni indicate nell'articolo 183, comma 1, lettera q), del decreto legislativo 3 aprile 2006, n. 152; 
+
+                                
+                            
+                            
+                                gg)
+                                
+                                    'recupero': le operazioni indicate nell'articolo 183, comma 1, lettera t), del decreto legislativo 3 aprile 2006, n. 152; 
+
+                                
+                            
+                            
+                                hh)
+                                
+                                    'riciclaggio': le operazioni di recupero indicate nell'articolo 183, comma 1, lettera u), del decreto legislativo 3 aprile 2006, n. 152; 
+
+                                
+                            
+                            
+                                ii)
+                                
+                                    'smaltimento': le operazioni indicate nell'articolo 183, comma 1, lettera z), del decreto legislativo 3 aprile 2006, n. 152; 
+
+                                
+                            
+                            
+                                ll)
+                                
+                                    'trattamento': le operazioni indicate nell'articolo 183, comma 1, lettera s), del decreto legislativo 3 aprile 2006, n. 152; 
+
+                                
+                            
+                            
+                                mm)
+                                
+                                    'centro di raccolta dei RAEE': centro di raccolta definito e disciplinato ai sensi dell'articolo 183, comma 1, lettera mm), del decreto legislativo 3 aprile 2006, n. 152, e successive modificazioni, presso il quale sono raccolti, mediante raggruppamento differenziato, anche le diverse tipologie di RAEE; 
+
+                                
+                            
+                            
+                                nn)
+                                
+                                    'marchio': immagine, simbolo o iscrizione apposta sulla apparecchiatura elettrica ed elettronica ai sensi dell'articolo 28, che permette l'identificazione del produttore; 
+
+                                
+                            
+                            
+                                oo)
+                                
+                                    'raggruppamento': ciascuno dei raggruppamenti di RAEE definiti all'Allegato 1 del regolamento 25 settembre 2007, n. 185; 
+
+                                
+                            
+                            
+                                pp)
+                                
+                                    'luogo di raggruppamento': deposito preliminare alla raccolta dei RAEE domestici organizzato dai distributori ai sensi dell'articolo 11; 
+
+                                
+                            
+                            
+                                qq)
+                                
+                                    'rifiuti derivanti dai pannelli fotovoltaici': sono considerati RAEE provenienti dai nuclei domestici i rifiuti originati da pannelli fotovoltaici installati in impianti di potenza nominale inferiore a 10 KW. Detti pannelli vanno conferiti ai "Centri di raccolta" nel raggruppamento n. 4 dell'Allegato 1 del decreto 25 settembre 2007, n. 185; tutti i rifiuti derivanti da pannelli fotovoltaici installati in impianti di potenza nominale superiore o uguale a 10 KW sono considerati RAEE professionali.
 
 Non e' 'produttore' ai sensi della lettera g) chiunque fornisca finanziamenti esclusivamente sulla base o a norma di un accordo finanziario, a meno che non agisca in qualita' di produttore ai sensi dei numeri da 1) a 4) della lettera g).
 
 Per le apparecchiature elettriche ed elettroniche destinate all'esportazione il produttore e' considerato tale solo ai fini degli articoli 5, 26, 28 e 29.
 
 ## Art. 5. — Progettazione dei prodotti
+
+1.
+                        
+                            
+                                In coerenza con le misure previste dal Programma nazionale di prevenzione dei rifiuti di cui all'articolo 180, comma 1-bis, del decreto legislativo 3 aprile 2006, n. 152, e successive modificazioni, il Ministro dell'ambiente e della tutela del territorio e del mare, di concerto col Ministro dello sviluppo economico, disciplina le misure dirette a: 
+ 
+                            
+                            
+                                a)
+                                
+                                    promuovere la cooperazione tra produttori e operatori degli impianti di trattamento, recupero e riciclaggio; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    favorire la progettazione e la produzione ecocompatibili di AEE, al fine di facilitare le operazioni di smontaggio, riparazione, nonche' le operazioni di preparazione per il riutilizzo, riutilizzo, recupero e smaltimento dei RAEE, loro componenti e materiali, con particolare riguardo per quei prodotti che introducono soluzioni innovative per la diminuzione dei carichi ambientali associati al ciclo di vita; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    sostenere il mercato dei materiali riciclati anche per la produzione di nuove AEE.
 
 Le misure di cui al comma 1 tengono conto dell'intero ciclo di vita delle apparecchiature e delle migliori tecniche disponibili, e sono volte, in particolare, a favorire la corretta applicazione dei requisiti di progettazione ecologica di cui al decreto legislativo 16 febbraio 2011, n. 15, nonche' ad evitare che le caratteristiche specifiche della progettazione o i processi di fabbricazione possano ostacolare o limitare il riutilizzo e il trattamento dei RAEE, salvo che gli stessi presentino vantaggi di primaria importanza in relazione ad interessi di rilevanza costituzionale, quali la protezione dell'ambiente e la sicurezza.
 
@@ -83,6 +488,49 @@ Le informazioni di cui al comma 3-bis sono pubblicate e aggiornate a cura dei si
 3-quater. I sistemi di gestione collettivi di cui al comma 2, che destinano in tutto o in parte gli avanzi di gestione provenienti dai contributi ambientali alla riduzione degli importi dei contributi stessi, assicurano la pubblicita' ai sensi dei commi 3-bis e 3-ter anche degli importi dei contributi cosi' determinati))
 
 ## Art. 9. — I sistemi individuali
+
+1.
+                        
+                            
+                                I produttori che intendono adempiere ai propri obblighi in forma individuale organizzano un sistema autosufficiente operante in modo uniforme sull'intero territorio nazionale per la gestione dei RAEE che derivano dal consumo delle proprie AEE e ne chiedono il riconoscimento al Ministero dell'ambiente e della tutela del territorio e del mare. L'istanza e' corredata da un progetto descrittivo, idoneo a dimostrare che il sistema: 
+ 
+                            
+                            
+                                a)
+                                
+                                    e' organizzato secondo criteri di efficienza, efficacia, economicita' e trasparenza; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    e' effettivamente in grado di operare su tutto il territorio nazionale e di conseguire, nell'ambito delle attivita' svolte, gli obiettivi di recupero e riciclaggio di cui all'Allegato V; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    opera attraverso modalita' di gestione idonee a garantire che gli utilizzatori finali siano adeguatamente informati sulle modalita' di funzionamento del sistema e sui metodi di raccolta dei RAEE.
+
+2.
+                        
+                            
+                                Costituisce parte integrante del progetto di cui al comma 1, un piano di raccolta, attestante che il sistema proposto sia in grado di intercettare tutti i RAEE generati dalle proprie AEE sull'intero territorio nazionale, secondo una delle seguenti modalita': 
+ 
+                            
+                            
+                                a)
+                                
+                                    la predisposizione di un efficiente sistema di restituzione dei RAEE generati dalle proprie AEE; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la stipula di apposite convenzioni con i soggetti responsabili della raccolta sull'intero territorio nazionale, da redigere al fine di assicurare che il produttore contraente effettui il ritiro presso i centri di raccolta ed altri luoghi di raggruppamento dei soli RAEE derivanti dalle proprie AEE immesse sul mercato, identificate tramite il marchio di cui all'articolo 28 e appositamente selezionate.
 
 Il riconoscimento da parte del Ministero dell'ambiente e della tutela del territorio e del mare avviene entro 90 giorni dalla presentazione del progetto ed e' requisito essenziale per l'iscrizione al Registro nazionale di cui all'articolo 29 del presente decreto legislativo. Qualora il riconoscimento di un sistema individuale sia richiesto a seguito di recesso da un sistema collettivo, tale recesso ha effetto solo dalla data indicata nel provvedimento di riconoscimento del sistema. I sistemi riconosciuti trasmettono annualmente al Ministero dell'ambiente e della tutela del territorio e del mare un programma specifico di gestione dei propri RAEE relativo all'anno solare successivo, copia del bilancio di esercizio corredato da una relazione sulla gestione relativa all'anno solare precedente con l'indicazione degli obiettivi raggiunti. La revoca del riconoscimento disposta nel caso in cui non siano raggiunti gli obiettivi di recupero stabiliti nell'articolo 19 determina la cancellazione automatica dal Registro nazionale e l'applicazione della sanzione di cui all'articolo 38, comma 7, del presente decreto legislativo. ((I sistemi devono dimostrare, ai fini del riconoscimento, di essere in possesso delle certificazioni ISO 9001 e 14001, oppure EMAS, o altro sistema equivalente di gestione della qualita' sottoposto ad audit e che comprenda anche i processi di trattamento ed il monitoraggio interno all'azienda)).
 
@@ -148,6 +596,24 @@ I regolamenti di cui ai decreti del Ministro dell'ambiente e della tutela del te
 
 ## Art. 12. — Raccolta differenziata dei RAEE domestici
 
+1.
+                        
+                            
+                                Al fine di ridurre al minimo lo smaltimento dei RAEE provenienti dai nuclei domestici come rifiuti urbani misti, mediante il raggiungimento di un elevato livello di raccolta differenziata idoneo a realizzare gli obiettivi indicati nell'articolo 14, e di sottoporre i RAEE raccolti al trattamento adeguato di cui all'articolo 18, devono essere attivate le seguenti misure ed azioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    i Comuni assicurano la funzionalita' e l'adeguatezza, in ragione della densita' della popolazione, dei sistemi di raccolta differenziata dei RAEE provenienti dai nuclei domestici e l'accessibilita' ai relativi centri di raccolta, al fine di permettere ai detentori finali, ai distributori, agli installatori ed ai gestori dei centri di assistenza tecnica dei RAEE di conferire gratuitamente i RAEE prodotti nel loro territorio o detenuti presso luoghi di raggruppamento organizzati dai distributori nel loro territorio. Il conferimento di rifiuti prodotti in altri Comuni e' consentito solo previa sottoscrizione di apposita convenzione con il Comune di destinazione. Detta convenzione e' obbligatoria per i Comuni che non abbiano allestito un centro di raccolta idoneo a ricevere i RAEE. 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    fatto salvo quanto stabilito alla lettera a) e ai commi 1 e 3 dell'articolo 11, i produttori, individualmente o attraverso i sistemi collettivi cui aderiscono, possono organizzare e gestire sistemi di raccolta o di restituzione dei RAEE provenienti dai nuclei domestici per realizzare gli obiettivi definiti dal presente decreto legislativo.
+
 La realizzazione e la gestione di centri di raccolta di cui alle lettere a) e b) si svolge con le modalita' previste dalle disposizioni adottate in attuazione dell'articolo 183, comma 1, lettera mm), del decreto legislativo 3 aprile 2006, n. 152, ovvero, in alternativa, con le modalita' previste agli articoli 208, 213 e 216 del decreto legislativo 3 aprile 2006, n. 152.
 
 La raccolta differenziata deve riguardare in via prioritaria le apparecchiature per lo scambio di temperatura contenenti sostanze che riducono lo strato di ozono e gas fluorurati ad effetto serra, lampade fluorescenti contenenti mercurio, pannelli fotovoltaici e apparecchiature di piccole dimensioni di cui alle categorie 5 e 6 dell'Allegato III.
@@ -160,13 +626,95 @@ Fatto salvo quanto stabilito all'articolo 24 del presente decreto, i produttori,
 
 ## Art. 14. — Tasso di raccolta differenziata
 
+1.
+                        
+                            
+                                Ogni anno devono essere raggiunti i seguenti obiettivi di raccolta differenziata: 
+ 
+                            
+                            
+                                a)
+                                
+                                    fino al 31 dicembre 2015 deve essere conseguito un tasso medio di raccolta differenziata dei RAEE provenienti dai nuclei domestici pari ad almeno 4 chilogrammi l'anno per abitante; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    dal 1° gennaio 2016 deve essere conseguito un tasso minimo di raccolta pari almeno al 45 per cento, calcolato sulla base del peso totale dei RAEE raccolti conformemente alle previsioni del presente decreto in un dato anno ed espresso come percentuale del peso medio delle AEE immesse sul mercato nei tre anni precedenti. Nel periodo dal 1° gennaio 2016 al 31 dicembre 2018 il quantitativo dei RAEE raccolti deve aumentare gradualmente fino al conseguimento del tasso finale di raccolta di cui alla lettera c); 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    al 1° gennaio 2019 deve essere conseguito un tasso minimo di raccolta pari al 65 per cento del peso medio delle AEE immesse sul mercato nei tre anni precedenti o in alternativa, deve, essere conseguito un tasso minimo di raccolta pari all'85 per cento del peso dei RAEE prodotti nel territorio nazionale.
+
 In attesa che la Commissione definisca una metodologia comune per calcolare il volume misurato in base al peso di RAEE prodotti, il Ministro dell'ambiente e della tutela del territorio e del mare, sentita l'ISPRA, e di concerto col Ministro dello sviluppo economico, puo' definire una metodologia di calcolo del peso totale dei RAEE prodotti da applicarsi sull'intero territorio nazionale, tenendo in debita considerazione i differenti cicli di vita e di riutilizzazione delle AEE e nel rispetto delle migliori tecniche disponibili.
 
 .
 
 ## Art. 15. — Ritiro dei RAEE conferiti nei centri di raccolta
 
+1.
+                        
+                            
+                                I produttori assicurano il ritiro su tutto il territorio nazionale dei RAEE depositati nei centri di raccolta di cui all'articolo 12, comma 1, lettera a), sulla base delle modalita' definite: 
+ 
+                            
+                            
+                                a)
+                                
+                                    da apposite convenzioni stipulate ai sensi dell'articolo 9, comma 2, lettera b), nel caso dei sistemi individuali; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    dal Centro di Coordinamento, nel caso dei sistemi collettivi.
+
 Le associazioni di categoria rappresentative dei produttori iscritti al Centro di coordinamento, le associazioni di categoria a livello nazionale delle imprese che effettuano la raccolta, ciascuna tramite un unico delegato, l'Associazione nazionale Comuni italiani (ANCI) e il Centro di coordinamento stipulano un Accordo di programma, con validita' triennale, entro sei mesi dall'entrata in vigore del presente decreto legislativo. Tale accordo e' rinnovato entro il termine del 31 dicembre che precede la scadenza del primo triennio.
+
+3.
+                        
+                            
+                                L'accordo di cui al comma 2 disciplina le modalita' e i tempi di ritiro dei RAEE dai centri di raccolta, l'organizzazione della raccolta in modo omogeneo sull'intero territorio nazionale e gli oneri per lo svolgimento delle relative attivita', con particolare riferimento a: 
+ 
+                            
+                            
+                                a)
+                                
+                                    condizioni generali di ritiro da parte sistemi collettivi dei RAEE conferiti ai centri di raccolta comunali; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    modalita' necessarie affinche' il ritiro sia effettuato in modo razionale ed omogeneo su tutto il territorio nazionale; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    modalita' di gestione dei rifiuti di cui al comma 4 dell'articolo 12, conferiti ai centri di raccolta, attraverso l'individuazione di impianti idonei, con oneri a carico dei produttori; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    premi di efficienza, ovvero gli importi che i produttori sono tenuti ad erogare ai centri di raccolta comunali al verificarsi di condizioni di buona operativita', sulla base dei quantitativi di RAEE ritirati dai sistemi collettivi; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    l'adeguamento e l'implementazione dei centri di raccolta comunali.
 
 Tali convenzioni non danno origine ad alcun diritto di esclusiva in favore dei produttori.
 
@@ -174,6 +722,42 @@ In caso di mancata stipula dell'accordo di cui al comma 2 nei termini previsti, 
 Nelle more della stipula del primo accordo restano validi tra le parti gli accordi di programma gia' stipulati.
 
 ## Art. 16. — Ritiro e trasporto dei RAEE conferiti presso i distributori
+
+1.
+                        
+                            
+                                I RAEE provenienti dai nuclei domestici e conferiti presso i luoghi di raggruppamento gestiti dai distributori sono trasportati dai distributori: 
+ 
+                            
+                            
+                                a)
+                                
+                                    ai centri di raccolta di cui all'articolo 12, comma 1, lettera a), nelle modalita' indicate dal regolamento 25 settembre 2007, n. 185; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    agli impianti di trattamento adeguato o presso i centri di raccolta di cui all'articolo 12, comma 1, lettera b), nel rispetto delle formalita' e degli adempimenti previsti dalla Parte Quarta del decreto legislativo 3 aprile 2006, n. 152.
+
+2.
+                        
+                            
+                                Le associazioni di categoria maggiormente rappresentative a livello nazionale della distribuzione, le associazioni di categoria maggiormente rappresentative a livello nazionale delle imprese che effettuano la raccolta e le associazioni di categoria rappresentative dei produttori iscritti al Centro di coordinamento, ciascuna tramite un unico delegato, l'Associazione nazionale comuni italiani (ANCI) e il Centro di coordinamento, sentito il Comitato di indirizzo, definiscono con accordo di programma le modalita' di ritiro e raccolta dei RAEE conferiti ai distributori ai sensi dell'articolo 11, commi 1 e 3, e i rispettivi oneri, con particolare riferimento a: 
+ 
+                            
+                            
+                                a)
+                                
+                                    i premi di efficienza, ovvero gli importi che i produttori sono tenuti ad erogare ai distributori al verificarsi di condizioni di buona operativita' del raggruppamento, sulla base dei quantitativi di RAEE ritirati dai sistemi collettivi; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le modalita' di supporto ai distributori, da parte del Centro di coordinamento, ai fini dello svolgimento delle procedure amministrative di cui alla Parte Quarta del decreto legislativo 3 aprile 2006, n. 152.
 
 L'accordo ha validita' triennale, e' stipulato entro sei mesi dall'entrata in vigore del presente decreto legislativo e rinnovato entro il termine del 31 dicembre che precede la scadenza del primo triennio. Si applica il comma 5 dell'articolo 15.
 
@@ -247,6 +831,24 @@ Le spedizioni all'estero di AEE usate sono effettuate in conformita' ai requisit
 
 Il produttore che fornisce AEE sul territorio nazionale mediante tecniche di comunicazione a distanza, nel caso in cui non abbia sede nel territorio italiano, effettua l'iscrizione al Registro nazionale di cui all'articolo 29 personalmente o tramite un rappresentante autorizzato ai sensi dell'articolo 30 del presente decreto legislativo. In tal caso il rappresentante autorizzato e' responsabile anche dell'organizzazione del ritiro dei RAEE equivalenti, in ragione dell'uno contro uno, su tutto il territorio nazionale.
 
+2.
+                        
+                            
+                                I distributori che effettuano la vendita mediante tecniche di comunicazione a distanza, comprese la televendita e la vendita elettronica, al fine di adempiere all'obbligo di ritiro gratuito dell'apparecchiatura di tipo equivalente ai sensi dell'articolo 11, comma 1, indicano in modo chiaro: 
+ 
+                            
+                            
+                                a)
+                                
+                                    i propri luoghi di raggruppamento o i luoghi convenzionati presso i quali l'utilizzatore finale puo' conferire gratuitamente i RAEE di tipo equivalente, senza maggiori oneri di quelli che ragionevolmente lo stesso sopporterebbe in caso di vendita non a distanza, oppure; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le modalita' di ritiro presso lo stesso luogo di consegna, gratuitamente e senza maggiori oneri di quelli che ragionevolmente lo stesso sopporterebbe in caso di vendita non a distanza.
+
 Tale indicazione costituisce elemento essenziale del contratto di vendita, a pena di nullita' dello stesso e la sua assenza da' diritto alla richiesta dell'integrale restituzione della somma pagata.
 
 ## - Titolo III FINANZIAMENTO DELLA GESTIONE DEI RAEE
@@ -256,6 +858,25 @@ Tale indicazione costituisce elemento essenziale del contratto di vendita, a pen
 Modalita' di finanziamento dei RAEE provenienti dai nuclei domestici
 
 Per i RAEE storici ((di cui all'articolo 4, comma 1, lettera o),)) il finanziamento delle operazioni di ritiro e di trasporto dei RAEE domestici conferiti nei centri di raccolta, nonche' delle operazioni di trattamento adeguato, di recupero e di smaltimento ambientalmente compatibile dei medesimi, e' a carico dei produttori presenti sul mercato nello stesso anno in cui si verificano i rispettivi costi, in proporzione alla rispettiva quota di mercato, calcolata in base al peso delle AEE immesse sul mercato per ciascun tipo di apparecchiatura o per ciascun raggruppamento, nell'anno solare di riferimento.
+
+2.
+                        
+                            
+                                
+                                    ((Per i RAEE derivanti dalle AEE di cui all'articolo 2, comma 1, lettera a), diverse dai pannelli fotovoltaici,)) immesse sul mercato dopo il 13 agosto 2005, ((nonche' da tutte le altre AEE di cui all'articolo 2, comma 1, lettera b), diverse dai pannelli fotovoltaici e che sono state immesse sul mercato a partire dal 15 agosto 2018,)) il finanziamento delle operazioni di ritiro e di trasporto dei RAEE domestici conferiti nei centri di raccolta, nonche' delle operazioni di trattamento adeguato, di recupero e di smaltimento ambientalmente compatibile dei medesimi, e' a carico dei produttori presenti sul mercato nell'anno in cui si verificano i rispettivi costi, che possono adempiere in base alle seguenti modalita': 
+ 
+                            
+                            
+                                a)
+                                
+                                    individualmente, con riferimento ai soli RAEE derivanti dal consumo delle proprie AEE; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    mediante un sistema collettivo, in proporzione alla rispettiva quota di mercato, calcolata in base al peso delle AEE immesse sul mercato per ciascun tipo di apparecchiatura o per ciascun raggruppamento, nell'anno solare di riferimento.
 
 Il Ministro dell'ambiente e della tutela del territorio e del mare definisce le misure necessarie per assicurare che siano elaborati appropriati meccanismi o procedure di rimborso dei contributi ai produttori qualora le AEE siano trasferite per l'immissione sul mercato al di fuori del territorio nazionale.
 
@@ -289,7 +910,64 @@ Il produttore, nel momento in cui immette un'AEE sul mercato, presta adeguata ga
 
 ## Art. 26. — Informazione agli utilizzatori
 
+1.
+                        
+                            
+                                Il produttore di AEE fornisce, all'interno delle istruzioni per l'uso delle stesse, adeguate informazioni concernenti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    l'obbligo di non smaltire i RAEE come rifiuti urbani misti e di effettuare, per detti rifiuti, la raccolta differenziata; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    i sistemi di ritiro o di raccolta dei RAEE, nonche' la possibilita' e le modalita' di consegna al distributore del RAEE equivalente all'atto dell'acquisto di una nuova AEE ai sensi dell'articolo 11, comma 1, o di conferimento gratuito senza alcun obbligo di acquisto per i RAEE di piccolissime dimensioni ai sensi dell'articolo 11, comma 3; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    gli effetti potenziali sull'ambiente e sulla salute umana dovuti alla eventuale presenza di sostanze pericolose nelle apparecchiature elettriche ed elettroniche e ad una scorretta gestione delle stesse; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    il ruolo degli acquirenti nel contribuire al riutilizzo, al riciclaggio e ad altre forme di recupero dei RAEE; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    il significato del simbolo riportato all'Allegato IX.
+
 Nel caso in cui, tenuto conto della tipologia dell'AEE, non e' prevista la fornitura delle istruzioni, le informazioni di cui al comma 1 sono fornite dal distributore al dettaglio presso il punto di vendita mediante opportune pubblicazioni o l'esposizione di materiale informativo, ai sensi dell'articolo 11, comma 1.
+
+3.
+                        
+                            
+                                Il gestore del servizio pubblico di raccolta informa gli utilizzatori finali su: 
+ 
+                            
+                            
+                                a)
+                                
+                                    le misure adottate dalla Pubblica Amministrazione affinche' gli utenti finali contribuiscano alla raccolta dei RAEE e ad agevolare il processo di trattamento degli stessi; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il ruolo dell'utilizzatore finale nella preparazione per il riutilizzo, nel riciclaggio e nelle altre forme di recupero dei RAEE.
 
 ## Art. 27. — Informazione agli impianti di trattamento
 
@@ -369,6 +1047,80 @@ Entro sei mesi dalla data dell'entrata in vigore del presente decreto, il Centro
 
 Il Centro di Coordinamento adegua lo statuto alle disposizioni del presente decreto legislativo entro 90 giorni dall'entrata in vigore. Lo statuto e le successive modifiche sono approvate con decreto del Ministro dell'ambiente della tutela del territorio e del mare di concerto con il Ministro dello sviluppo economico e con il Ministro dell'economia e delle finanze, entro 60 giorni dalla presentazione.
 
+5.
+                        
+                            
+                                Il Centro di coordinamento ottimizza, uniformando le relative modalita' e condizioni, la raccolta, il ritiro e la gestione dei RAEE in modo omogeneo su tutto il territorio nazionale da parte dei sistemi collettivi ((e individuali)) per il conferimento agli impianti di trattamento. In particolare il Centro di coordinamento ha il compito di: 
+ 
+                            
+                            
+                                a)
+                                
+                                    garantire il ritiro dei RAEE conferiti ai centri di raccolta comunali in modo omogeneo su tutto il territorio nazionale da parte di ogni sistema collettivo, nel rispetto del principio di concorrenza e non discriminazione, al fine di incrementare la raccolta dei RAEE da parte dei Comuni e di conseguire gli obiettivi di raccolta differenziata, riciclaggio, recupero stabiliti dal presente decreto legislativo; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    collaborare alla definizione della metodologia di cui al decreto ministeriale dell'articolo 18, comma 4; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    supportare il Comitato di vigilanza nella definizione criteri oggettivi di quantificazione delle quote di mercato, promuovendo a tal fine studi da parte di istituti scientifici e di ricerca; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    assicurare risposte tempestive alle richieste di ritiro da parte dei centri di raccolta, utilizzando a tal fine metodologie telematiche; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    raccogliere e rendicontare i dati relativi alla raccolta e al trattamento sulla base delle informazioni acquisite ai sensi dell'articolo 34; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    trasmettere annualmente all'ISPRA le informazioni di cui alla lettera e) ai fini della predisposizione della relazione di cui all'articolo 31, comma 1; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    stipulare specifici accordi con le associazioni di categoria dei soggetti recuperatori, sentito il Comitato di indirizzo, al fine di assicurare adeguati ed omogenei livelli di trattamento e qualificazione delle aziende di settore; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    assicurare il monitoraggio dei flussi di RAEE distinti per categoria di cui agli Allegati I e III del presente decreto legislativo smistati ai sistemi collettivi sulla base di modalita' da definire d'intesa con l'ISPRA e il Comitato di vigilanza e controllo; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    predisporre per ciascun raggruppamento di RAEE un programma annuale di prevenzione e attivita' da trasmettere al Comitato di vigilanza e controllo. Tale programma deve contenere indicazioni specifiche anche con riguardo agli obiettivi di recupero dei RAEE stabilite per ogni categoria; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    coordinare e garantire il corretto trasferimento delle informazioni di cui all'articolo 27 fornite dai produttori agli impianti di preparazione per il riutilizzo, trattamento e riciclaggio attraverso strumenti elettronici, mediante la predisposizione di un'apposita banca dati.
+
 Il Centro di coordinamento puo' svolgere i propri compiti anche mediante il ricorso a societa' di servizi ed altri soggetti esterni purche' venga garantita la riservatezza dei dati trattati.
 
 -------------
@@ -380,9 +1132,94 @@ Il Centro di coordinamento puo' svolgere i propri compiti anche mediante il rico
 
 ## Art. 34. — Informazioni al Centro di coordinamento
 
+1.
+                        
+                            
+                                Ai fini dello svolgimento delle competenze di cui all'articolo 33, il Centro di coordinamento acquisisce annualmente le seguenti informazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    i dati inerenti i RAEE gestiti dagli impianti di trattamento; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    i dati inerenti i RAEE ricevuti dai distributori.
+
 Tali informazioni possono essere utilizzati anche al fine della trasmissione delle informazioni agli altri Stati membri dell'Unione europea ai sensi dell'articolo 7, paragrafo 2, della direttiva 2012/19/UE.
 
 ## Art. 35. — Comitato di vigilanza e di controllo
+
+1.
+                        
+                            
+                                Il Comitato di vigilanza e di controllo sulla gestione dei RAEE e delle pile, degli accumulatori e dei relativi rifiuti, gia' istituito presso il Ministero dell'ambiente e della tutela del territorio e del mare ai sensi dell'articolo 15, comma 1, del decreto legislativo 25 luglio 2005, n. 151, e ridefinito dall'articolo 19 del decreto legislativo 20 novembre 2008, n. 188, svolge i seguenti compiti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    predispone ed aggiorna il Registro nazionale di cui all'articolo 29, sulla base delle comunicazioni delle Camere di commercio previste allo stesso articolo 29, comma 8; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    raccoglie, esclusivamente in formato elettronico, i dati relativi ai prodotti immessi sul mercato e alle garanzie finanziarie che i produttori sono tenuti a comunicare al Registro nazionale ai sensi dell'articolo 29, comma 6; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    calcola, sulla base dei dati di cui alla lettera b), le rispettive quote di mercato dei produttori; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    programma e dispone, sulla base di apposito piano, ispezioni nei confronti dei produttori che non effettuano le comunicazioni di cui alla lettera b) e, su campione, sulle comunicazioni previste alla stessa lettera b); 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    vigila affinche' le apparecchiature immesse sul mercato dopo il 13 agosto 2005 rechino l'identificativo del produttore ed il simbolo di cui all'Allegato IX ed affinche' i produttori che forniscono apparecchiature elettriche ed elettroniche mediante tecniche di comunicazione a distanza informino il Registro sulla conformita' alle disposizioni di cui all'articolo 29; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    assicura il monitoraggio sull'attuazione del presente decreto legislativo; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    funge da punto di riferimento per la rappresentazione di diverse problematiche da parte degli interessati, e del Centro di coordinamento ed in particolare, in mancanza di una specifica valutazione a livello europeo, si esprime circa l'applicabilita' o meno del presente decreto legislativo a tipologie di AEE non elencate agli Allegati II e IV; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    favorisce l'adozione di iniziative finalizzate a garantire l'uniforme applicazione del presente decreto legislativo e dei suoi provvedimenti attuativi, anche sottoponendo eventuali proposte di modifica della normativa ai Ministeri competenti; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    fornisce al Ministero dell'ambiente e della tutela del territorio e del mare le informazioni in suo possesso che siano necessarie ai fini della predisposizione delle relazioni di cui all'articolo 31, comma 2.
 
 Con apposita delibera, il Comitato definisce i criteri di determinazione delle quote di mercato di cui alla lettera c) del comma 1, anche in considerazione, ove possibile, del diverso impatto ambientale delle singole tipologie di AEE. A tal fine, il Comitato valuta l'analisi del ciclo di vita dei beni che puo' essere facoltativamente presentata da ciascun produttore con riferimento alle proprie apparecchiature elettriche ed elettroniche. Le quote sono comunicate ai produttori di AEE mediante il sito www.registroraee.it, previo avviso pubblicato nella Gazzetta Ufficiale. Ai fini della definizione delle quote di mercato, il Comitato di vigilanza si avvale del Centro di coordinamento.
 
@@ -394,11 +1231,135 @@ L'attivita' e il funzionamento del Comitato sono disciplinati con regolamento in
 
 Il Comitato d'indirizzo sulla gestione dei RAEE istituito e disciplinato ai sensi degli articoli 13 e 15 del regolamento 25 settembre 2007, n. 185, e' ricostituito entro 180 giorni dalla data dell'entrata in vigore del presente decreto legislativo ed opera in base alle disposizioni del regolamento 25 settembre 2007, n. 185, salvo quanto previsto dal presente decreto.
 
+2.
+                        
+                            
+                                Il Comitato e' composto da tredici membri, di cui: 
+ 
+                            
+                            
+                                a)
+                                
+                                    tre designati dalle Organizzazioni nazionali dell'industria scelti tra le categorie maggiormente rappresentative, dei quali almeno uno in rappresentanza del settore del recupero e trattamento; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    due designati dalle Organizzazioni nazionali delle categorie del commercio; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    uno dalle Organizzazioni nazionali delle categorie dell'artigianato; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    uno dalle Organizzazioni nazionali delle categorie della cooperazione; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    due dalle Regioni; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    uno dall'ANCI; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    uno dall'UPI; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    uno da Confservizi; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    uno dalle Associazioni dei consumatori.
+
 I membri del Comitato restano in carica quattro anni.
 
 Il Comitato di indirizzo sulla gestione dei RAEE svolge un compito di supporto al Comitato di vigilanza e controllo ed al Centro di coordinamento.
 
+5.
+                        
+                            
+                                In particolare il Comitato di indirizzo: 
+ 
+                            
+                            
+                                a)
+                                
+                                    monitora l'operativita', la funzionalita' logistica e l'economicita' del sistema di gestione dei RAEE; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    funge da punto di riferimento degli interessi delle categorie rappresentate; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    svolge una funzione di coordinamento tra gli interessi delle categorie in esso rappresentate e l'attivita' del Centro di coordinamento e del Comitato di vigilanza e controllo, mediante la trasmissione di atti di indirizzo; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    trasmette annualmente al Ministero dell'ambiente una relazione sull'andamento del sistema di raccolta, recupero e riciclaggio dei RAEE.
+
 ## Art. 37. — Ispezione e monitoraggio
+
+1.
+                        
+                            
+                                Le autorita' competenti svolgono ispezioni e monitoraggi per verificare la corretta attuazione del presente decreto. Tali ispezioni comprendono almeno: 
+ 
+                            
+                            
+                                a)
+                                
+                                    le informazioni fornite dal produttore al Registro nazionale in fase di iscrizione e in fase di comunicazione annuale; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le spedizioni, in particolare le esportazioni di RAEE al di fuori dell'Unione europea, conformemente al regolamento (CE) n. 1013/2006 e al regolamento (CE) n. 1418/2007; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    le operazioni svolte presso gli impianti di trattamento, come previsto dalla direttiva 2008/98/CE e dall'Allegato VII alla stessa direttiva.
 
 ## - Titolo VI SANZIONI, DISPOSIZIONI TRANSITORIE E FINALI
 
@@ -410,6 +1371,66 @@ Il distributore che, nell'ipotesi di cui all'articolo 11, commi 1 e 3, indebitam
 
 ((La violazione da parte del distributore degli obblighi di cui all'articolo 34, comma 1, lettera b), comporta l'applicazione di una sanzione amministrativa pecuniaria da euro 2.000 a euro 10.000.
 L'inesatta o incompleta comunicazione dei medesimi dati comporta l'applicazione delle suddette sanzioni amministrative ridotte della meta')).
+
+2.
+                        
+                            
+                                Salvo che il fatto non costituisca reato, il produttore: 
+ 
+                            
+                            
+                                a)
+                                
+                                    che non provvede ad organizzare il sistema di raccolta separata dei RAEE professionali di cui all'articolo 13, ed i sistemi di ritiro ed invio, di trattamento e di recupero dei RAEE di cui agli articoli 18, comma 2, e 19, comma 1, ed a finanziare le relative operazioni, nelle ipotesi e secondo le modalita' di cui agli articoli 23 e 24, fatti salvi, per tali ultime operazioni, gli accordi eventualmente conclusi ai sensi dell'articolo 24, comma 3, e' soggetto alla sanzione amministrativa pecuniaria da euro 30.000 ad euro 100.000; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    che, nel momento in cui immette una apparecchiatura elettrica od elettronica sul mercato, non provvede a costituire la garanzia finanziaria di cui all'articolo 25, e' soggetto alla sanzione amministrativa pecuniaria da euro 200 ad euro 1.000 per ciascuna apparecchiatura immessa sul mercato; resta ferma la sanzionabilita' delle identiche condotte commesse dopo il 10 luglio 2010; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    che non fornisce, nelle istruzioni per l'uso di AEE, le informazioni di cui all'articolo 26, e' soggetto alla sanzione amministrativa pecuniaria da euro 2.000 ad euro 5.000; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    che, entro un anno dalla immissione sul mercato di ogni tipo di nuova AEE, non mette a disposizione degli impianti di trattamento le informazioni di cui all'articolo 27, e' soggetto alla sanzione amministrativa pecuniaria da euro 5.000 ad euro 30.000; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    che, dopo il termine di cui all'articolo 40, comma 4, immette sul mercato AEE prive del marchio di cui all'articolo 28, e' soggetto alla sanzione amministrativa pecuniaria da euro 200 ad euro 1.000 per ciascuna apparecchiatura immessa sul mercato; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    che, immette sul mercato AEE prive del simbolo di cui all'articolo 28, comma 5, e' soggetto alla sanzione amministrativa pecuniaria da euro 100 ad euro 500 per ciascuna apparecchiatura immessa sul mercato; resta ferma la sanzionabilita' delle identiche condotte commesse dopo il 31 dicembre 2010; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    che, senza avere provveduto all'iscrizione presso la Camera di Commercio ai sensi dell'articolo 29, comma 8, immette sul mercato AEE, e' soggetto alla sanzione amministrativa pecuniaria da euro 30.000 ad euro 100.000; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    che, entro il termine stabilito dall'articolo 29, comma 2, non effettua l'iscrizione al Registro nazionale o non effettua le comunicazioni delle informazioni ivi previste, ovvero le comunica in modo incompleto o inesatto, e' soggetto alla sanzione amministrativa pecuniaria da euro 2.000 ad euro 20.000.
 
 La mancata iscrizione degli impianti di trattamento al registro predisposto dal Centro di Coordinamento ai sensi dell'articolo 33, comma 2, comporta l'applicazione della sanzione amministrativa pecuniaria da euro 2.000 ad euro 20.000. In caso di mancata registrazione ovvero qualora il Centro di coordinamento accerti il venir meno dei requisiti per l'iscrizione, l'autorita' diffida a provvedere entro e non oltre 30 giorni, decorsi inutilmente i quali l'autorizzazione e' revocata.
 
@@ -459,4 +1480,36 @@ Con decreto del Ministro dell'ambiente e della tutela del territorio e del mare,
 ## Art. 42. — Abrogazioni
 
 A decorrere dalla data di entrata in vigore del presente decreto, ogni riferimento alla direttiva 2002/96/CE del Parlamento europeo e del Consiglio, del 27 gennaio 2003, sui rifiuti di apparecchiature elettriche ed elettroniche (RAEE), in qualunque atto normativo contenuto, si intende effettuato alla direttiva 2012/19/UE, del Parlamento europeo e del Consiglio, del 4 luglio 2012, sui rifiuti di apparecchiature elettriche ed elettroniche (RAEE).
+
+2.
+                        
+                            
+                                A decorrere dalla data di entrata in vigore del presente decreto sono abrogati: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il decreto legislativo 25 luglio 2005, n. 151, e successive modificazioni, ad eccezione dell'articolo 6, comma 1-bis, dell'articolo 10, comma 4, dell'articolo 13, comma 8, dell'articolo 15, commi 1 e 4, e dell'articolo 20, comma 4; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'articolo 9, commi 2 e 4, l'articolo 10, l'articolo 13, comma 2, e l'articolo 14 del regolamento 25 settembre 2007, n. 185; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il comma 1 dell'articolo 21 della legge 4 giugno 2010, n. 96; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    l'articolo 22 della legge 6 agosto 2013, n. 97.
 

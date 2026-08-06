@@ -8,8 +8,8 @@ codice_redazionale: 098G0282
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:42Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -41,15 +41,101 @@ Sono escluse dalle agevolazioni le imprese che alla data di sottoscrizione della
 
 ## Art. 2. — Attivita' e costi ammissibili
 
+1.
+                    
+                        
+                            In conformita' alla disciplina comunitaria degli aiuti di Stato alle imprese per le attivita' di ricerca e sviluppo, le agevolazioni di cui al presente regolamento sono concesse per le attivita' di ricerca industriale e di sviluppo, purche' non commissionate da terzi, rivolte rispettivamente:
+ 
+                        
+                        
+                            a)
+                            
+                                all'acquisizione di nuove conoscenze finalizzate alla messa a punto di nuovi prodotti, processi produttivi o servizi, ovvero al notevole miglioramento di prodotti e processi produttivi esistenti;
+
+                            
+                        
+                        
+                            b)
+                            
+                                alla concretizzazione delle conoscenze di cui alla lettera a), mediante le fasi di progettazione e realizzazione di progetti pilota e dimostrativi, nonche' di prototipi non commercializzabili, finalizzate a nuovi prodotti, processi o servizi ovvero ad apportare modifiche sostanziali a prodotti, linee di produzione e processi produttivi purche' tali interventi comportino sensibili miglioramenti delle tecnologie esistenti.
+
+2.
+                    
+                        
+                            Sono ammessi alle agevolazioni i seguenti costi, sostenuti per lo svolgimento delle attivita' di cui al comma 1 nell'esercizio precedente a quello di presentazione della dichiarazionedomanda di cui all'articolo 5, comma 1, e imputati al relativo conto economico in conformita' a quanto indicato nella relazione di cui all'articolo 2428 del codice civile:
+ 
+                        
+                        
+                            a)
+                            
+                                costi per il personale impiegato;
+
+                            
+                        
+                        
+                            b)
+                            
+                                costi per strumentazioni ed attrezzature;
+
+                            
+                        
+                        
+                            c)
+                            
+                                costi per servizi di consulenza tecnologica e per acquisizione di conoscenze.
+
 Sono altresi' ammessi alle agevolazioni gli oneri per le spese generali quantificati forfettariamente nella misura del 40 per cento del costo del personale di cui alla lettera a) del comma 2.
 
 I costi di cui al comma 2, lettere a), b) e c), sono ammissibili nella misura dedotta nell'esercizio secondo quanto previsto dal testo unico delle imposte sui redditi approvato con decreto del Presidente della Repubblica 22 dicembre 1986, n. 917. I costi di cui alle predette lettere b) e c) sono altresi' ammissibili qualora riferiti a beni nuovi e servizi acquisiti a decorrere dal 1 gennaio 1997, anche tramite leasing, ed effettivamente utilizzati per le attivita' di cui al comma 1 nell'esercizio precedente a quello di presentazione della dichiarazionedomanda di cui al successivo articolo 5, comma 1.
+
+5.
+                    
+                        
+                            I beni e i servizi di cui alle lettere b) e c) del comma 2 s'intendono acquisiti qualora:
+ 
+                        
+                        
+                            a)
+                            
+                                per i beni di cui alla lettera b), il relativo costo sia stato interamente fatturato all'impresa acquirente, ovvero alla societa' di leasing, e i beni siano stati consegnati ed installati presso l'impresa richiedente l'agevolazione;
+
+                            
+                        
+                        
+                            b)
+                            
+                                per i servizi di cui alla lettera c), le prestazioni oggetto della consulenza siano state fatturate ed ultimate.
 
 Qualora i beni acquisiti siano alienati successivamente all'avvenuto utilizzo degli stessi per le attivita' di cui al comma 1, l'impresa beneficiaria conserva con le modalita' di cui all'articolo 5, comma 2, e per il periodo ivi previsto la documentazione comprovante la data della cessione e gli estremi identificativi del bene ceduto.
 
 Le imprese esonerate dalla tenuta della contabilita' ordinaria o dalla redazione del bilancio desumono i costi di cui al comma 2 dalla dichiarazione dei redditi riferita all'esercizio precedente a quello di presentazione della dichiarazionedomanda di cui all'articolo 5.
 
 ## Art. 3. — Misura dell'agevolazione
+
+1.
+                    
+                        
+                            In conformita' alla disciplina comunitaria degli aiuti di Stato alle imprese per le attivita' di ricerca e sviluppo, la misura dell'agevolazione e' determinata in funzione delle dimensioni dell'impresa richiedente nonche' dell'ubicazione delle unita' locali presso le quali vengono condotte le attivita' di cui all'articolo 2, comma 1, sulla base delle seguenti misure percentuali da applicare ai costi sostenuti secondo i criteri di ammissibilita' di cui all'articolo 2, commi 2, 3 e 4:
+ 
+                        
+                        
+                            a)
+                            
+                                per le piccole imprese, 30 per cento nelle aree di cui all'articolo 92, paragrafo 3, lettera a) del trattato di Roma; 25 per cento nelle aree di cui all'articolo 92, paragrafo 3, lettera c) del trattato di Roma; 20 per cento nelle restanti aree;
+
+                            
+                        
+                        
+                            b)
+                            
+                                per le medie imprese, 25 per cento nelle aree di cui all'articolo 92, paragrafo 3, lettera a) del trattato di Roma; 20 per cento nelle aree di cui all'articolo 92, paragrafo 3, lettera c) del trattato di Roma; 15 per cento nelle restanti aree;
+
+                            
+                        
+                        
+                            c)
+                            
+                                per le grandi imprese, 20 per cento nelle aree di cui all'articolo 92, paragrafo 3, lettera a) del trattato di Roma; 15 per cento nelle aree di cui all'articolo 92, paragrafo 3, lettera c) del trattato di Roma; 10 per cento nelle restanti aree.
 
 A decorrere dalle dichiarazionidomande riferite al terzo periodo d'imposta successivo a quello di entrata in vigore del presente regolamento, e' altresi' riconosciuta, in aggiunta alle misure agevolative di cui al comma 1, un'agevolazione, pari al 20 per cento delle aliquote percentuali di cui al medesimo comma 1, commisurata agli incrementi dei costi di cui all'articolo 2, comma 2, rispetto alla media degli analoghi costi sostenuti nei tre periodi d'imposta antecedenti l'esercizio cui la dichiarazione si riferisce ed imputati al conto economico, nei medesimi esercizi, secondo quanto previsto dal citato articolo 2, comma 2. Ai fini del presente comma le imprese di cui all'articolo 2, comma 7, presentano, con riferimento agli esercizi per i quali non sia stata presentata la dichiarazionedomanda, apposita certificazione sottoscritta da un revisore o professionista tra quelli indicati al comma 1, lettera a), dell'articolo 5, attestante i costi sostenuti nei predetti esercizi.
 
@@ -65,7 +151,50 @@ Con apposita convenzione stipulata tra il Ministero dell'industria, del commerci
 
 ## Art. 5. — Procedure per la concessione delle agevolazioni
 
+1.
+                    
+                        
+                            Ai fini della concessione delle agevolazioni l'impresa interessata trasmette al concessionario per il successivo inoltro al Ministero dell'industria, del commercio e dell'artigianato:
+ 
+                        
+                        
+                            a)
+                            
+                                una dichiarazionedomanda sottoscritta dal legale rappresentante e dal responsabile aziendale delle attivita' di ricerca e sviluppo, controfirmata dal presidente del collegio sindacale ovvero, in mancanza del collegio sindacale, da un revisore dei conti o da un professionista iscritto all'albo dei dottori commercialisti od a quello dei ragionieri e periti commerciali od a quello dei consulenti del lavoro, attestante la sussistenza delle condizioni per l'accesso alle agevolazioni e le attivita' di cui all'articolo 2, comma 1, svolte nell'esercizio precedente a quello di presentazione della dichiarazionedomanda, con indicazione dei relativi obiettivi e dei costi sostenuti da assumere per il calcolo dell'agevolazione spettante ai sensi dell'articolo 2, commi 2 e 3, e dell'articolo 3, comma 2;
+
+                            
+                        
+                        
+                            b)
+                            
+                                una perizia giurata di un professionista competente nella materia, iscritto al relativo albo professionale, attestante l'inerenza dei costi sostenuti alle attivita' indicate nella dichiarazione di cui alla lettera a) del presente comma e la loro congruita', nonche' la conformita' delle attivita' svolte e dei costi sostenuti a quanto previsto dal presente regolamento.
+
 Il Ministro dell'industria, del commercio e dell'artigianato con proprio decreto definisce le informazioni e le documentazioni ulteriori da allegare alla dichiarazionedomanda, ivi incluse quelle che le imprese beneficiarie sono obbligate a conservare in azienda, ai fini dell'attivita' ispettiva per cinque esercizi successivi a quello della dichiarazionedomanda, individuando altresi' il concessionario responsabile delle attivita' istruttorie. Con lo stesso decreto e' fissata la decorrenza del termine per la presentazione della dichiarazionedomanda e lo schema da utilizzare obbligatoriamente per l'accesso alle agevolazioni.
+
+3.
+                    
+                        
+                            Il concessionario provvede a:
+ 
+                        
+                        
+                            a)
+                            
+                                accertare la completezza e la regolarita' formale delle dichiarazionidomande presentate;
+
+                            
+                        
+                        
+                            b)
+                            
+                                acquisire, ove prevista, la certificazione antimafia;
+
+                            
+                        
+                        
+                            c)
+                            
+                                trasmettere al Ministero dell'industria, del commercio e dell'artigianato l'elenco dei soggetti ammissibili alle agevolazioni, tenuto conto dell'ordine cronologico di presentazione delle dichiarazioni e delle risorse disponibili.
 
 Il Ministero dell'industria, del commercio e dell'artigianato, sulla base delle informazioni trasmesse dal concessionario, entro trenta giorni dalla presentazione della domanda e fatti salvi, in ogni caso, i maggiori termini connessi all'acquisizione della certificazione antimafia, comunica al richiedente il riconoscimento del diritto al beneficio.
 

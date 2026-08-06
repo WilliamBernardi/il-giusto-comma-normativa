@@ -7,8 +7,8 @@ urn: urn:nir:ministero.ambiente.e.tutela.territorio.e.mare:decreto:2018-03-21;56
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:39Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -29,6 +29,164 @@ Ambito di applicazione e finalita'
 In attuazione dell'articolo 21, comma 1, della legge 28 dicembre 2015, n. 221, il presente regolamento stabilisce le modalita' di funzionamento dello schema nazionale volontario denominato «Made Green in Italy», per la valutazione e la comunicazione dell'impronta ambientale dei prodotti Made in Italy, anche con il rilascio del logo «Made Green in Italy» ai prodotti di cui all'articolo 2, lettera v).
 
 ## Art. 2. — Definizioni
+
+1.
+                    
+                        
+                            Ai fini del presente regolamento si applicano le seguenti definizioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                «schema Made Green in Italy»: programma nazionale volontario per la valutazione e comunicazione dell'impronta ambientale; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                «gestore dello schema»: il Ministero dell'ambiente e della tutela del territorio e del mare; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                «prodotto»: «bene» o «servizio», inclusi i prodotti intermedi o semilavorati; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                «categoria di prodotto»: gruppo di prodotti in grado di soddisfare funzioni analoghe; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                «linee guida PEF (Product Environmental Footprint)»: linee guida, metodi, prescrizioni tecniche ed altri documenti di interesse comune sviluppati nell'ambito della applicazione pilota europea del metodo PEF e approvate nell'ambito del progetto PEF della Commissione europea, rese disponibili dal Ministero dell'ambiente e della tutela del territorio e del mare sul proprio sito istituzionale; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                «metodo PEF»: metodo di determinazione dell'impronta ambientale di prodotto come definito dalla raccomandazione 2013/179/UE della Commissione europea e dalle Linee guida PEF; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                «impronta ambientale di prodotto»: il risultato di uno studio volto a misurare e comunicare le prestazioni ambientali nel corso del ciclo di vita del prodotto; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                «ciclo di vita»: fasi consecutive e interconnesse di un ciclo produttivo, dall'acquisizione o generazione di materie prime, o dalle risorse naturali, allo smaltimento finale; 
+
+                            
+                        
+                        
+                            i)
+                            
+                                «regole di categoria di prodotto - RCP»: indicazioni metodologiche rilasciate dal gestore dello schema che definiscono regole e requisiti obbligatori e facoltativi necessari alla conduzione di studi relativi all'impronta ambientale per una specifica categoria di prodotto; 
+
+                            
+                        
+                        
+                            l)
+                            
+                                «soggetti proponenti le RCP»: soggetti (privati o pubblici) costituiti da almeno tre aziende - di cui almeno una piccola e media impresa secondo la definizione fornita dal decreto del Ministro delle attivita' produttive del 18 aprile 2005 - che rappresentano la quota maggioritaria del settore della specifica categoria di prodotto per la quale si intende proporre l'elaborazione di RCP all'interno dello schema; per quota maggioritaria si intende oltre il 50% della produzione nazionale (fatturato) riferita all'anno solare precedente alla proposta di RCP; 
+
+                            
+                        
+                        
+                            m)
+                            
+                                «dichiarazione di impronta ambientale di prodotto - DIAP»: dichiarazione ambientale che fornisce informazioni sia quantitative che qualitative sulle prestazioni ambientali del prodotto; 
+
+                            
+                        
+                        
+                            n)
+                            
+                                «comunicazione dell'impronta ambientale di prodotto»: divulgazione di informazioni sulle prestazioni ambientali, nel corso del ciclo di vita di un prodotto, a imprese, investitori, organismi pubblici e consumatori; 
+
+                            
+                        
+                        
+                            o)
+                            
+                                «impatto ambientale»: qualsiasi modifica all'ambiente, positiva o negativa, derivante in tutto o in parte da prodotti di un'azienda; 
+
+                            
+                        
+                        
+                            p)
+                            
+                                «PEFCR - regole di categoria relative all'impronta ambientale dei prodotti»: regole, basate sul ciclo di vita, specifiche per tipologia di prodotto elaborate nell'ambito del progetto pilota Environmental Footprint (EF) della Commissione europea, che complementano il metodo PEF identificando ulteriori requisiti per una data categoria di prodotto; 
+
+                            
+                        
+                        
+                            q)
+                            
+                                «requisiti addizionali obbligatori»: informazioni addizionali qualitative e quantitative, che devono essere indicate dai soggetti proponenti in ogni RCP; 
+
+                            
+                        
+                        
+                            r)
+                            
+                                «requisiti addizionali facoltativi»: informazioni addizionali qualitative e quantitative che possono essere indicate dai soggetti proponenti in ogni RCP; 
+
+                            
+                        
+                        
+                            s)
+                            
+                                «benchmark»: valore di riferimento utilizzato per la categoria di prodotto definito nella RCP della specifica categoria di prodotto; 
+
+                            
+                        
+                        
+                            t)
+                            
+                                «criteri ambientali minimi - CAM»: criteri di cui ai decreti del Ministro dell'ambiente e della tutela del territorio e del mare 11 aprile 2008 e 10 aprile 2013; 
+
+                            
+                        
+                        
+                            u)
+                            
+                                «verificatore»: soggetto (persona fisica o giuridica) atto alla verifica indipendente perche' in possesso di requisiti di competenza ed esperienza definiti dalla raccomandazione 2013/179/UE e dalle linee guida PEF; 
+
+                            
+                        
+                        
+                            v)
+                            
+                                «prodotti Made in Italy»: prodotti originari dell'Italia nel rispetto di quanto stabilito dall'articolo 60 del regolamento (UE) n. 952/2013 del Parlamento europeo e del Consiglio del 9 ottobre 2013, che istituisce il codice doganale dell'Unione, e dalle relative disposizioni di applicazione; 
+
+                            
+                        
+                        
+                            z)
+                            
+                                «prodotti Made Green in Italy»: i prodotti Made in Italy che presentano prestazioni ambientali pari o superiori ai benchmark di riferimento, la valutazione delle quali e' effettuata secondo il metodo PEF; 
+
+                            
+                        
+                        
+                            aa)
+                            
+                                «soggetto richiedente»: produttore di prodotti classificabili come Made in Italy ai sensi della lettera v) dell'articolo 2, che richiedono l'adesione allo schema per almeno un loro prodotto.
 
 ## Art. 3. — Proposta, approvazione e pubblicazione della RCP
 

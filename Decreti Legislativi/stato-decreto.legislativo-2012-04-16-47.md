@@ -8,8 +8,8 @@ codice_redazionale: 012G0067
 vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:28Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -188,7 +188,122 @@ Documento contenente le informazioni chiave per gli investitori e prospetto
 
 ## Art. 2. — Modifiche al decreto del Presidente della Repubblica 29 settembre 1973, n. 600
 
+1.
+                    
+                        
+                            All'articolo 26-quinquies del decreto del Presidente della Repubblica 29 settembre 1973, n. 600, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 5 dopo le parole: «decreto legislativo 1° aprile 1996, n. 239» sono aggiunte, in fine, le seguenti: «e maturati nel periodo di possesso delle quote o azioni. Il predetto possesso e' attestato dal deposito dei titoli presso un intermediario residente in Italia.»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 6, primo periodo, le parole: «, salvo che il trasferimento sia avvenuto per successione o donazione» sono soppresse; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                al comma 6, dopo il primo periodo e' inserito il seguente: «Ai medesimi fini si considera rimborso la conversione di quote o azioni da un comparto ad altro comparto del medesimo organismo di investimento collettivo.»; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                dopo il comma 6 sono aggiunti i seguenti: 
+ «6-bis. Nel caso di societa' di gestione estera che istituisce in Italia organismi di investimento collettivo del risparmio, la ritenuta di cui al comma 1 e' applicata direttamente dalla societa' di gestione estera operante nel territorio dello Stato in regime di libera prestazione di servizi ovvero da un rappresentante fiscale scelto tra i soggetti indicati nell'articolo 23, che risponde in solido con l'impresa estera per gli obblighi di determinazione e versamento dell'imposta e provvede alla dichiarazione annuale delle somme. Il percipiente e' tenuto a comunicare, ove necessario, i dati e le informazioni utili per la determinazione dei redditi consegnando, anche in copia, la relativa documentazione o, in mancanza, una dichiarazione sostitutiva nella quale attesti i predetti dati e informazioni. 
+ 6-ter. I proventi di cui al comma 1 percepiti senza applicazione della ritenuta al di fuori dell'esercizio d'impresa commerciale sono assoggettati ad imposizione sostitutiva delle imposte sui redditi con la stessa aliquota della ritenuta a titolo d'imposta.».
+
 ## Art. 3. — Modifiche alla legge 23 marzo 1983, n. 77
+
+1.
+                    
+                        
+                            All'articolo 10-ter della legge 23 marzo 1983, n. 77, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 1, secondo periodo, le parole: «valore medio ponderato» sono sostituite dalle seguenti: «costo medio ponderato»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 1 l'ultimo periodo e' sostituito dal seguente: «In ogni caso il valore o il costo delle quote o azioni e' rilevato dai prospetti periodici.»; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                al comma 2, primo periodo, la parola: «assoggettati» e' sostituita dalle seguenti: «il cui gestore sia soggetto»; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                al comma 2, secondo periodo, le parole: «valore medio ponderato» sono sostituite dalle seguenti: «costo medio ponderato»; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                al comma 2 gli ultimi due periodi sono sostituiti dal seguente: «In ogni caso il valore o il costo delle quote o azioni e' rilevato dai prospetti periodici.»; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                al comma 3, primo periodo, le parole: «, salvo che il trasferimento sia avvenuto per successione o donazione» sono soppresse; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                al comma 3, dopo il primo periodo e' aggiunto il seguente: «Ai medesimi fini si considera rimborso la conversione di quote o azioni da un comparto ad altro comparto del medesimo organismo di investimento collettivo.»; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                al comma 6, primo periodo, le parole: «valore di sottoscrizione o acquisto» sono sostituite dalle seguenti: «costo medio ponderato di sottoscrizione o acquisto»; 
+
+                            
+                        
+                        
+                            i)
+                            
+                                al comma 6 il secondo periodo e' sostituito dal seguente: «In ogni caso il valore o il costo delle azioni e' rilevato dai prospetti periodici.»; 
+
+                            
+                        
+                        
+                            l)
+                            
+                                al comma 7 dopo il primo periodo e' aggiunto il seguente: «Si applicano le disposizioni di cui al comma 3.»; 
+
+                            
+                        
+                        
+                            m)
+                            
+                                al comma 8 le parole: «non residenti in Italia» sono sostituite dalle seguenti: «residenti in Paesi con i quali siano in vigore le predette convenzioni».
 
 ## Art. 4. — Modifiche al decreto del Presidente della Repubblica 22 dicembre 1986, n. 917
 
@@ -199,6 +314,45 @@ All'articolo 67, comma 1-quater, del decreto del Presidente della Repubblica 22 
 All'articolo 6, comma 5, secondo periodo, del decreto legislativo 21 novembre 1997, n. 461, dopo le parole: «o siano rimborsate» sono inserite le seguenti: «o cedute».
 
 ## Art. 6. — Modifiche al decreto-legge 29 dicembre 2010, n. 225
+
+1.
+                    
+                        
+                            All'articolo 2 del decreto-legge 29 dicembre 2010, n. 225, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 71 dopo le parole: «introdotto dal comma 63 del presente articolo» sono inserite le seguenti: «e dell'articolo 10-ter, comma 1, della legge 23 marzo 1983, n. 77,»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 72 e' aggiunto, in fine, il seguente periodo: «Tali disposizioni si applicano anche in caso di cessazione del fondo o della SICAV a seguito di fusione transfrontaliera; per le quote o azioni del fondo detenute nell'esercizio di imprese commerciali le rettifiche di valore corrispondenti ai risultati negativi di gestione alle stesse imputabili sono ammesse in deduzione dal reddito.»; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                al comma 73 dopo le parole: «derivanti dal rimborso» sono inserite le seguenti: «o cessione»; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                al comma 75 sono aggiunte, in fine, le seguenti parole: «ovvero il valore delle quote o azioni iscritto in bilancio dalle imprese di assicurazioni al 31 dicembre 2010, ai sensi dell'articolo 16, comma 8, del decreto legislativo 26 maggio 1997, n. 173. Per le quote o azioni, diverse da quelle valutate ai sensi dell'articolo 16, comma 8, del decreto legislativo n. 173, possedute dalle imprese alla data del 30 giugno 2011, i proventi iscritti in bilancio, per l'importo che eccede i minori valori ammessi in deduzione, concorrono a formare il reddito nell'esercizio in cui sono realizzati.»; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                al comma 77, alla fine del primo periodo, sono inserite le seguenti parole: «ovvero quello iscritto nel rendiconto del fondo pensione alla data del 31 dicembre 2010, ove le quote o azioni sono state sottoscritte o acquistate prima del 1° gennaio 2011.».
 
 ## Art. 7. — Disposizioni finali e transitorie
 

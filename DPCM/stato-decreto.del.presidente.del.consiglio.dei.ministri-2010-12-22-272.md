@@ -8,8 +8,8 @@ codice_redazionale: 011G0040
 vigente: true
 source: normattiva-opendata
 collection: DPCM
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:40:12Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DEL CONSIGLIO DEI MINISTRI
@@ -33,4 +33,39 @@ Nell'allegato A, che costituisce parte integrante del presente decreto, sono ind
 Entro due anni dalla data di entrata in vigore del presente regolamento, e successivamente a cadenza biennale, il Ministero dello sviluppo economico verifica lo stato di attuazione della normativa, per le modificazioni ritenute necessarie, anche per le finalita' di cui all'articolo 7 della legge 18 giugno 2009, n. 69, da apportare nelle forme previste dalle vigenti disposizioni.
 
 ## Art. 2. — Abrogazioni
+
+1.
+                    
+                        
+                            Sono abrogati i seguenti decreti ministeriali: 
+ 
+                        
+                        
+                            a)
+                            
+                                
+                                    decreto ministeriale 26 marzo 1993, n. 329; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                
+                                    decreto ministeriale 11 aprile 1994, n. 454; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                decreto ministeriale 28 dicembre 1994, pubblicato nella Gazzetta Ufficiale 5 gennaio 1995, n. 4; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                
+                                    decreto ministeriale 10 gennaio 2001, n. 9.
 

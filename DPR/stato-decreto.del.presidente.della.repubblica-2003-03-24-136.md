@@ -8,8 +8,8 @@ codice_redazionale: 003G0153
 vigente: true
 source: normattiva-opendata
 collection: DPR
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:47:50Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -33,11 +33,61 @@ Il Ministro delle infrastrutture e dei trasporti esercita la vigilanza sull'ente
 
 ## Art. 2. — Organi del RID
 
+1.
+                    
+                        
+                            Sono organi del RID:
+ 
+                        
+                        
+                            a)
+                            
+                                il presidente;
+
+                            
+                        
+                        
+                            b)
+                            
+                                il consiglio di amministrazione;
+
+                            
+                        
+                        
+                            c)
+                            
+                                il collegio dei revisori dei conti.
+
 ## Art. 3. — Il presidente
 
 Il presidente, legale rappresentante del RID, e' scelto tra soggetti aventi comprovata esperienza derivante dallo svolgimento di analoghe funzioni presso amministrazioni o enti pubblici o privati; e' nominato con decreto del Presidente della Repubblica, su proposta del Ministro delle infrastrutture e dei trasporti, di concerto con il Ministro dell'ambiente e della tutela del territorio, sentita la Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome di Trento e di Bolzano, sentite le commissioni parlamentari competenti per materia, ai sensi della legge 24 gennaio 1978, n. 14. Dura in carica cinque anni e puo' essere confermato una sola volta; convoca e presiede il consiglio di amministrazione; rappresenta l'ente nei rapporti istituzionali, anche a livello internazionale; esercita i poteri e le funzioni previste dallo statuto del RID.
 
 ## Art. 4. — Il consiglio di amministrazione
+
+1.
+                    
+                        
+                            Il consiglio di amministrazione e' composto dal presidente e da quattro consiglieri di cui:
+ 
+                        
+                        
+                            a)
+                            
+                                due membri tecnici esperti in materia di dighe, di cui uno designato dalla Conferenza permanente per i rapporti tra la Stato, le regioni e le province autonome di Trento e di Bolzano;
+
+                            
+                        
+                        
+                            b)
+                            
+                                un membro esperto in materie giuridiche;
+
+                            
+                        
+                        
+                            c)
+                            
+                                un membro esperto in gestione d'impresa, designato dalla Conferenza di cui alla lettera a).
 
 I membri del consiglio di amministrazione di cui alle lettere a), b) e c) del comma 1 sono nominati con decreto del Ministro delle infrastrutture e dei trasporti, sentito il Ministro dell'ambiente e della tutela del territorio, restano in carica cinque anni e possono essere confermati una sola volta. Le nomine sono effettuate almeno tre mesi prima della scadenza del quinquennio.
 
@@ -45,11 +95,156 @@ In caso di cessazione dall'incarico del presidente o di uno o piu' membri del co
 
 Con decreto del Ministro delle infrastrutture e dei trasporti, di concerto col Ministro dell'economia e delle finanze, sono stabiliti i compensi per il presidente e per i membri del consiglio di amministrazione, con imputazione a carico del bilancio del RID.
 
+5.
+                    
+                        
+                            Il consiglio di amministrazione:
+ 
+                        
+                        
+                            a)
+                            
+                                adotta, ai sensi dell'articolo 13 del decreto legislativo 29 ottobre 1999, n. 419, lo statuto dell'ente, da sottoporre all'approvazione del Ministro vigilante, di concerto con il Ministro dell'economia e delle finanze;
+
+                            
+                        
+                        
+                            b)
+                            
+                                approva, su proposta del direttore generale, le determinazioni relative all'articolazione interna, all'organico ed all'ordinamento del personale, coerenti con le particolari attivita' di carattere professionale necessarie al perseguimento dei fini istituzionali e nell'ambito della normativa contrattuale prevista per il comparto di appartenenza;
+
+                            
+                        
+                        
+                            c)
+                            
+                                adotta il regolamento di contabilita' e gestione del RID da sottoporre all'approvazione del Ministro delle infrastrutture e dei trasporti, di concerto con il Ministro dell'economia e delle finanze, con l'obbligo del raggiungimento dell'equilibrio economico-finanziario della gestione; il regolamento dovra' prevedere l'assoggettamento alla normativa sulla tesoreria unica di cui alla legge 29 ottobre 1984, n. 720, nonche' agli articoli 25 e 30 della legge 5 agosto 1978, n. 468;
+
+                            
+                        
+                        
+                            d)
+                            
+                                individua gli obiettivi, i programmi, le priorita' e le direttive generali per l'azione amministrativa e per la gestione, ripartendo le risorse economico-finanziarie da destinare alle diverse finalita'; definisce criteri e modalita' per il monitoraggio e la valutazione dei risultati;
+
+                            
+                        
+                        
+                            e)
+                            
+                                approva il bilancio annuale preventivo e consuntivo, nonche' gli schemi previsionali pluriennali;
+
+                            
+                        
+                        
+                            f)
+                            
+                                approva le direttive tecniche di cui all'articolo 10, comma 5;
+
+                            
+                        
+                        
+                            g)
+                            
+                                adotta disposizioni al fine di accelerare la conclusione delle attivita' delle commissioni di cui all'articolo 14 del decreto del Presidente della Repubblica 1° novembre 1959, n. 1363, gia' istituite alla data di entrata in vigore del presente decreto;
+
+                            
+                        
+                        
+                            h)
+                            
+                                si esprime sulle proposte della consulta degli iscritti di cui all'articolo 8, nonche' su ogni altra questione non espressamente deferita ad altro organo;
+
+                            
+                        
+                        
+                            i)
+                            
+                                autorizza la stipula di convenzioni con le regioni e le province autonome di Trento e di Bolzano, per l'espletamento delle attivita' di competenza degli uffici periferici di cui all'articolo 11, con l'utilizzo di personale degli enti suddetti;
+
+                            
+                        
+                        
+                            l)
+                            
+                                determina i criteri ed i parametri per la quantificazione degli oneri connessi alle altre attivita' svolte dal RID, ivi comprese quelle di cui all'ultimo periodo del comma 1 dell'articolo 6 della legge 1° agosto 2002, n. 166;
+
+                            
+                        
+                        
+                            m)
+                            
+                                nomina il direttore generale, previo assenso del Ministro delle infrastrutture e dei trasporti;
+
+                            
+                        
+                        
+                            n)
+                            
+                                nomina i dirigenti dell'ente, su proposta del direttore generale;
+
+                            
+                        
+                        
+                            o)
+                            
+                                nomina i membri del comitato tecnico-scientifico e, con apposita delibera, determina le modalita' di funzionamento del predetto organo di consulenza e stabilisce le indennita' per i componenti del comitato, con imputazione sul bilancio del RID.
+
 ## Art. 5. — Il comitato tecnico-scientifico
 
 I componenti del comitato tecnico-scientifico, organo di consulenza del RID, durano in carica cinque anni, rinnovabili.
 
+2.
+                    
+                        
+                            I componenti del comitato, in numero non superiore a dodici, sono scelti nell'ambito di esperti, di cui due indicati dalla consulta degli iscritti e gli altri sulla base del criterio di assicurare adeguata ed equilibrata presenza di:
+ 
+                        
+                        
+                            a)
+                            
+                                esponenti delle varie discipline tecnico-specialistiche;
+
+                            
+                        
+                        
+                            b)
+                            
+                                esperti nei campi della progettazione, costruzione, manutenzione ed esercizio delle dighe.
+
 Nel caso di cessazione anticipata dall'incarico di membri del comitato, si procede in analogia a quanto disposto dall'articolo 4, comma 3.
+
+4.
+                    
+                        
+                            Il direttore generale convoca il comitato tecnico-scientifico che esprime pareri non vincolanti su:
+ 
+                        
+                        
+                            a)
+                            
+                                proposte di direttive tecniche di cui all'articolo 10, comma 5;
+
+                            
+                        
+                        
+                            b)
+                            
+                                questioni di particolare rilevanza tecnica;
+
+                            
+                        
+                        
+                            c)
+                            
+                                ogni altra questione di competenza del RID, ad esso specificatamente demandata dal Ministro delle infrastrutture e dei trasporti;
+
+                            
+                        
+                        
+                            d)
+                            
+                                questioni proposte dalle regioni o province autonome di Trento e di Bolzano.
 
 ## Art. 6. — Il collegio dei revisori dei conti
 
@@ -79,6 +274,38 @@ Gli iscritti al RID eleggono i propri rappresentanti nella consulta ed approvano
 
 La consulta viene convocata almeno una volta l'anno dal direttore generale del RID, nonche' su richiesta di almeno la meta' dei componenti la consulta medesima nella quale sono specificati gli argomenti da porre all'ordine del giorno. I pareri della consulta sono trasmessi dal direttore generale al consiglio di amministrazione, anche per le determinazioni di sua competenza, da adottarsi ai sensi del comma 8.
 
+4.
+                    
+                        
+                            La consulta e' costituita da:
+ 
+                        
+                        
+                            a)
+                            
+                                cinque rappresentanti degli iscritti che eserciscono serbatoi ad uso idroelettrico;
+
+                            
+                        
+                        
+                            b)
+                            
+                                tre rappresentanti degli iscritti che eserciscono serbatoi ad uso irriguo;
+
+                            
+                        
+                        
+                            c)
+                            
+                                tre rappresentanti degli iscritti che eserciscono serbatoi ad uso potabile;
+
+                            
+                        
+                        
+                            d)
+                            
+                                un rappresentante degli iscritti che eserciscono serbatoi adibiti ad altro uso. Ai fini della predetta costituzione, per i serbatoi ad uso promiscuo si fa riferimento all'uso prevalente.
+
 Sono considerate comunque, ai sensi del comma 1, di prioritario interesse le questioni relative alle materie di cui all'articolo 4, comma 5, lettere: d), prima parte, f) e g). L'acquisizione del parere della consulta avviene altresi' sulle determinazioni concernenti le entrate di cui all'articolo 12, comma 1, lettera c).
 
 La consulta elegge tra i propri membri il coordinatore.
@@ -90,6 +317,32 @@ La consulta esprime i pareri entro il termine di trenta giorni dalla data di ric
 Le spese per la partecipazione alle sedute della consulta non possono far carico al bilancio del RID.
 
 ## Art. 9. — Vigilanza governativa
+
+1.
+                    
+                        
+                            Il Ministro delle infrastrutture e dei trasporti esercita funzioni di indirizzo, vigilanza e controllo sull'attivita' del RID.
+In particolare:
+ 
+                        
+                        
+                            a)
+                            
+                                vigila che l'attivita' del RID corrisponda ai fini pubblico-istituzionali e si attui con criteri di efficacia, efficienza, economicita' e sicurezza e formula, ove lo ritenga necessario, indirizzi a carattere generale per il loro migliore perseguimento;
+
+                            
+                        
+                        
+                            b)
+                            
+                                scioglie il consiglio di amministrazione, nominando contestualmente un commissario straordinario per la durata necessaria a garantire la continuita' della gestione, in caso di gravi e reiterate violazioni, accertate nell'espletamento dei compiti di vigilanza di cui alla lettera a); puo', altresi', revocare il mandato ad un singolo membro, nel caso in cui le suddette violazioni siano a questo addebitabili, nonche' per sopravvenuto impedimento fisico o giuridico all'assolvimento delle funzioni;
+
+                            
+                        
+                        
+                            c)
+                            
+                                autorizza l'effettuazione di attivita' di consulenza o collaborazione svolta sia a titolo gratuito che oneroso, con organismi governativi di Stati esteri.
 
 Le delibere di approvazione del bilancio di previsione, delle variazioni e del conto consuntivo, nonche' le delibere relative all'articolo 4, comma 5, lettere a), b) e c), sono sottoposte all'approvazione del Ministro delle infrastrutture e dei trasporti, di concerto con il Ministro dell'economia e delle finanze.
 
@@ -103,6 +356,77 @@ Con il regolamento per la disciplina del procedimento di approvazione dei proget
 
 Il RID fornisce consulenza tecnica specialistica per l'emanazione della normativa tecnica in materia di dighe, nonche' dati e assistenza tecnica agli organi competenti in materia di protezione civile, per situazioni nelle quali siano coinvolte dighe.
 
+4.
+                    
+                        
+                            Il RID altresi', sulla base di apposite convenzioni:
+ 
+                        
+                        
+                            a)
+                            
+                                organizza corsi di formazione ed aggiornamento su argomenti interessanti il campo delle dighe;
+
+                            
+                        
+                        
+                            b)
+                            
+                                svolge, per opere non soggette alla successiva approvazione da parte del RID, e su richiesta di amministrazioni, enti pubblici, o privati, funzioni di assistenza tecnica, consulenza o di perizia tecnica in materia, valutazioni di congruita' economica, avanzamento qualitativo e quantitativo ai fini di certificazione di spesa, nonche' compiti di certificazione di qualita' ed accreditamento, anche associandosi con altri organismi, per quanto attiene alla progettazione, costruzione e all'esercizio delle dighe ed altri settori tecnologicamente affini;
+
+                            
+                        
+                        
+                            c)
+                            
+                                partecipa con propri rappresentanti ad organismi associativi, nazionali ed internazionali, aventi come scopo l'avanzamento delle conoscenze scientifiche e tecniche nelle discipline correlate alle dighe;
+
+                            
+                        
+                        
+                            d)
+                            
+                                promuove studi e conferenze di esperti e stipula accordi con organismi, anche esteri, nelle materie di proprio interesse.
+
+5.
+                    
+                        
+                            Il RID emana direttive nelle materie di competenza, nel rispetto di quanto stabilito dalla normativa generale, con particolare riferimento ai seguenti aspetti:
+ 
+                        
+                        
+                            a)
+                            
+                                suddivisione delle dighe in classi di rischio, al fine di una diversificazione delle modalita' di redazione e presentazione dei progetti e delle condizioni imposte nelle fasi di costruzione e di esercizio delle opere;
+
+                            
+                        
+                        
+                            b)
+                            
+                                individuazione dei codici di calcolo automatico di verificata affidabilita' per la definizione e lo sviluppo dei progetti e indicazione delle modalita' di rappresentazione dei relativi risultati;
+
+                            
+                        
+                        
+                            c)
+                            
+                                determinazione e standardizzazione dei metodi e delle prove necessarie per garantire i controlli qualitativi e quantitativi nel corso dei lavori;
+
+                            
+                        
+                        
+                            d)
+                            
+                                definizione dei requisiti tecnici, costruttivi e funzionali per l'omologazione della strumentazione per il controllo delle dighe;
+
+                            
+                        
+                        
+                            e)
+                            
+                                individuazione delle modalita' di trattamento e archiviazione informatica dei dati strumentali e della loro teletrasmissione alla banca dati del RID.
+
 ## Art. 11. — Organizzazione del RID
 
 L'organizzazione del RID e', in fase transitoria, strutturata sulla base del soppresso Servizio nazionale dighe in funzione degli ulteriori compiti e della personalita' giuridica attribuiti dal decreto legislativo 31 marzo 1998, n. 112. Territorialmente il RID e' articolato in una sede centrale ed in uffici periferici. L'organico del servizio e' determinato secondo l'allegata tabella A).
@@ -110,6 +434,31 @@ L'organizzazione del RID e', in fase transitoria, strutturata sulla base del sop
 Gli uffici periferici in prima applicazione hanno sede in Torino, Milano, Venezia, Firenze, Perugia, Napoli, Catanzaro, Cagliari e Palermo. In successiva applicazione, sentite le regioni interessate, gli uffici possono avere ubicazione diversa o aggiuntiva, in relazione al numero di dighe presenti sul territorio ed alle eventuali situazioni di rischio, ovvero a sopravvenute esigenze, con determinazione del consiglio di amministrazione.
 
 ## Art. 12. — Entrate del RID
+
+1.
+                    
+                        
+                            Costituiscono entrate del RID:
+ 
+                        
+                        
+                            a)
+                            
+                                le somme iscritte annualmente in apposito capitolo dello stato di previsione della spesa del Ministero delle infrastrutture e dei trasporti, in misura pari alle somme destinate nel corrente esercizio finanziario al funzionamento del soppresso Servizio nazionale dighe, comprese nelle risorse iscritte nell'ambito delle unita' previsionali di base di parte corrente e di conto capitale di pertinenza del centro di responsabilita' «servizi tecnici nazionali» nello stato di previsione del Ministero dell'economia e delle finanze;
+
+                            
+                        
+                        
+                            b)
+                            
+                                le entrate derivanti dalle prestazioni o convenzioni di cui all'articolo 10;
+
+                            
+                        
+                        
+                            c)
+                            
+                                le quote annue di iscrizione per le dighe di cui all'articolo 13, comma 1, dovute quale compartecipazione alle spese da parte degli utenti dei servizi, nei modi previsti dalla legge, fermo restando quanto previsto dall'articolo 6, commi 2 e 3, della legge 1° agosto 2002, n. 166, nel rispetto del criterio della proporzionalita' e dei vantaggi conseguiti; per le dighe in costruzione l'iscrizione avviene all'atto dell'autorizzazione al primo invaso e prima dell'inizio dello stesso.
 
 Le entrate previste al comma 1, lettera a), affluiscono al bilancio del RID su apposita unita' previsionale di base inserita nello stato di previsione del Ministero delle infrastrutture e dei trasporti. Le entrate previste alla lettera c) del medesimo comma affluiscono direttamente al bilancio del RID.
 
@@ -121,6 +470,24 @@ Tutte le dighe di ritenuta aventi le caratteristiche di cui all'articolo 91, com
 All'iscrizione ed agli obblighi da essa derivanti sono tenuti i concessionari o richiedenti la concessione di derivazione d'acqua, i proprietari delle opere e, in solido, i gestori delle dighe. Per le dighe gia' in esercizio, sperimentale o ordinario, alla data di entrata in vigore del presente decreto, l'iscrizione avviene nei termini indicati dalla legge 1° agosto 2002, n. 166.
 
 ## Art. 14. — Norme transitorie e finali
+
+1.
+                    
+                        
+                            Entro venti giorni dalla data di entrata in vigore del presente decreto:
+ 
+                        
+                        
+                            a)
+                            
+                                la Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome di Trento e di Bolzano provvede alle designazioni di cui agli articoli 4, comma 1, lettere a) e c), e 6, comma 1. Entro i successivi venti giorni, il Ministro delle infrastrutture e dei trasporti, sentito il Ministro dell'ambiente e della tutela del territorio, nomina il consiglio di amministrazione;
+
+                            
+                        
+                        
+                            b)
+                            
+                                il Ministro dell'economia e delle finanze effettua la designazione di cui all'articolo 6, comma 1; entro i successivi venti giorni, il Ministro delle infrastrutture e dei trasporti nomina il collegio dei revisori dei conti.
 
 Allo scopo di assicurare continuita' nello svolgimento dei compiti istituzionali, il direttore del soppresso Servizio nazionale dighe continua ad esercitare le funzioni di direttore generale del RID fino alla nomina del direttore generale di cui all'articolo 7, e comunque non oltre un anno dalla data di entrata in vigore del presente decreto.
 

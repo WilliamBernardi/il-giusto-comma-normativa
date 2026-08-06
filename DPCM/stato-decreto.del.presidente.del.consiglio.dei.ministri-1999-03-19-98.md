@@ -8,8 +8,8 @@ codice_redazionale: 099G0174
 vigente: true
 source: normattiva-opendata
 collection: DPCM
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:40:12Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DEL CONSIGLIO DEI MINISTRI
@@ -43,11 +43,75 @@ L'espressione abbreviata "Ufficio di segreteria", nel presente decreto, corrispo
 
 L'Ufficio di segreteria opera alle dirette dipendenze e secondo gli indirizzi del Presidente della Conferenza, ai sensi dell'articolo 10, comma 2, del decreto legislativo 28 agosto 1997, n. 281.
 
+4.
+                    
+                        
+                            L'Ufficio di segreteria, in particolare, provvede:
+ 
+                        
+                        
+                            a)
+                            
+                                agli adempimenti preliminari e conseguenti alle riunioni della Conferenza, ivi compresa l'informazione relativa alle determinazioni assunte;
+
+                            
+                        
+                        
+                            b)
+                            
+                                all'attivita' istruttoria connessa all'esercizio delle funzioni e dei compiti attribuiti alla Conferenza o da questa svolti, assicurando il necessario raccordo e coordinamento dei competenti uffici dello Stato, delle regioni e delle province autonome;
+
+                            
+                        
+                        
+                            c)
+                            
+                                alle attivita' strumentali al raccordo, alla reciproca informazione ed alla leale collaborazione tra le Amministrazioni dello Stato, le regioni e le province autonome;
+
+                            
+                        
+                        
+                            d)
+                            
+                                agli adempimenti strumentali all'attivita' dei gruppi di lavoro o comitati istituiti nell'ambito della Conferenza a norma dell'articolo 7, comma 2, del decreto legislativo 28 agosto 1997, n. 281.
+
 L'Ufficio di segreteria svolge, a norma dell'articolo 10, comma 1, del decreto legislativo 28 agosto 1997, n. 281, i compiti di cui al comma 4 a supporto dell'esercizio delle competenze della Conferenza unificata di cui all'articolo 8 del medesimo decreto legislativo, congiuntamente alla Segreteria della Conferenza Statocitta' ed autonomie locali.
 
 ## Art. 3. — Organizzazione dell'Ufficio di segreteria
 
 All'Ufficio di segreteria e' preposto un direttore. L'incarico e' conferito, con decreto del Presidente del Consiglio dei Ministri, su proposta del Ministro per gli affari regionali, a norma dell'articolo 28 della legge 23 agosto 1988, n. 400. Il direttore assolve alle funzioni di segretario della Conferenza.
+
+2.
+                    
+                        
+                            L'Ufficio di segreteria e' articolato nei seguenti servizi, ai quali sono preposti dirigenti, statali o regionali, ai sensi dell'art. 10, comma 2, del decreto legislativo 28 agosto 1997, n. 281:
+ 
+                        
+                        
+                            a)
+                            
+                                finanza, programmazione, rapporti con l'Unione europea e affari istituzionali;
+
+                            
+                        
+                        
+                            b)
+                            
+                                territorio e infrastrutture;
+
+                            
+                        
+                        
+                            c)
+                            
+                                attivita' produttive;
+
+                            
+                        
+                        
+                            d)
+                            
+                                politiche sociali e servizi alla persona.
 
 Il direttore, per l'espletamento delle proprie funzioni, per i compiti di cui all'articolo 5, comma 3, del decreto del Presidente del Consiglio dei Ministri 6 agosto 1998 e per fornire ogni possibile supporto ai servizi di cui al comma 2, si avvale di una segreteria tecnica alla quale viene preposto un dirigente. Tale segreteria tecnica assicura, altresi', il raccordo con le strutture della Presidenza del Consiglio dei Ministri strumentali al funzionamento dell'Ufficio di segreteria, ai fini della gestione delle risorse finanziarie e del personale statale, nonche' con le regioni e le province autonome, per quanto riguarda la gestione del personale non statale.
 

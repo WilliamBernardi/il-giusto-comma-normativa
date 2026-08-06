@@ -7,8 +7,8 @@ urn: urn:nir:ministero.infrastrutture.e.trasporti:decreto:2019-11-12;144
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:38Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -42,9 +42,45 @@ I soggetti indicati all'articolo 47, comma 1-quinquies, del citato decreto-legge
 
 ## Art. 2. — Risorse del Fondo
 
+1.
+                    
+                        
+                            Il Fondo e' alimentato dalle seguenti risorse: 
+ 
+                        
+                        
+                            a)
+                            
+                                somme derivanti dal versamento all'entrata di bilancio dello Stato e dalla successiva riassegnazione al pertinente capitolo di spesa del contributo pari allo 0,5 per cento dell'importo del ribasso d'asta offerto dall'aggiudicatario delle gare di appalto di cui all'articolo 1, comma 2. Le amministrazioni aggiudicatrici, ovvero il contraente generale provvedono, entro trenta giorni dall'aggiudicazione definitiva, al versamento del contributo sul Capo XV, capitolo 2454, articolo 38 dello stato di previsione dell'entrata del bilancio dello Stato; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                somme relative all'autorizzazione di spesa di cui all'articolo 47, comma 1-quinquies del citato decreto-legge n. 34 del 2019, pari a 12 milioni di euro per l'anno 2019 e a 33,5 milioni di euro per l'anno 2020. Tali somme sono destinate esclusivamente ai crediti insoddisfatti alla data del 30 giugno 2019, in titolarita' dei soggetti di cui all'articolo 1, comma 3, in relazione a procedure concorsuali aperte dal 1° gennaio 2018 al 30 giugno 2019.
+
 Il Ministero, verificata la mancata corresponsione del contributo di cui al comma 1, lettera a), nel termine ivi previsto, anche avvalendosi delle risultanze delle banche dati pubbliche disponibili in materia di appalti, diffida l'amministrazione aggiudicatrice ovvero il contraente generale alla corresponsione dello stesso.
 
 ## Art. 3. — Accesso alle risorse del Fondo
+
+1.
+                    
+                        
+                            I soggetti di cui all'articolo 1, comma 3, in presenza dei presupposti di cui all'articolo 47, comma 1-ter o comma 1-quinquies, del citato decreto-legge n. 34 del 2019, chiedono l'accesso alle risorse del Fondo con istanza presentata all'amministrazione aggiudicatrice, da inviare con posta elettronica certificata, compilata secondo il modello di cui all'Allegato A. In caso di affidamento a contraente generale, l'istanza e' presentata, con le medesime modalita' alternativamente: 
+ 
+                        
+                        
+                            a)
+                            
+                                all'amministrazione aggiudicatrice e per conoscenza anche al contraente generale e all'affidatario dei lavori; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al contraente generale medesimo e per conoscenza all'affidatario dei lavori.
 
 L'istanza di accesso alle risorse del Fondo e' corredata della documentazione attestante l'esistenza, l'esigibilita', l'importo del credito nei confronti dell'appaltatore, del contraente generale o dell'affidatario del contraente generale, insoluto alla data di presentazione dell'istanza.
 

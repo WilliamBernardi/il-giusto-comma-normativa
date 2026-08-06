@@ -8,8 +8,8 @@ codice_redazionale: 003G0003
 vigente: true
 source: normattiva-opendata
 collection: DPR
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:47:57Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -24,6 +24,32 @@ Ritenuta la necessita' di apportare modifiche al regolamento sui servizi di banc
 Sulla proposta del Ministro dell'economia e delle finanze e del Ministro delle comunicazioni;
 
 ## Art. 1.
+
+1.
+                    
+                        
+                            All'articolo 7 del decreto del Presidente della Repubblica 14 marzo 2001, n. 144, sono apportate le seguenti modifiche:
+ 
+                        
+                        
+                            a)
+                            
+                                la rubrica e' sostituita dalla seguente: "Assegni postali ordinari";
+
+                            
+                        
+                        
+                            b)
+                            
+                                i commi 1 e 3 sono abrogati;
+
+                            
+                        
+                        
+                            c)
+                            
+                                il comma 4 e' sostituito dal seguente:
+ "4. Agli assegni postali ordinari si applicano le disposizioni del regio decreto 21 dicembre 1933, n. 1736, e tutte le altre disposizioni relative all'assegno bancario.".
 
 ## Art. 2.
 

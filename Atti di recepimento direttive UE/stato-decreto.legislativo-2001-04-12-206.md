@@ -10,7 +10,7 @@ source: normattiva-opendata
 collection: Atti di recepimento direttive UE
 vigenza_date: 2013-05-12
 zip_date: 2026-07-30
-fetched_at: 2026-08-02T09:40:49Z
+fetched_at: 2026-07-30
 ---
 
 DECRETO LEGISLATIVO
@@ -34,7 +34,76 @@ Il Ministro della sanita' coordina le attivita' amministrative e tecnico-scienti
 
 ## Art. 2. — (definizioni)
 
+1.
+                    
+                        
+                            Ai fini del presente decreto si intende per:
+
+
+                        
+                        
+                            a)
+                            
+                                microorganismo: ogni entita' microbiologica cellulare o non cellulare capace di replicarsi o di trasferire materiale genetico, compresi virus, viroidi, cellule animali e cellule vegetali in coltura;
+                            
+                        
+                        
+                            b)
+                            
+                                microorganismo geneticamente modificato (MOGM): un microorganismo il cui materiale genetico e' stato modificato in un modo che non avviene in natura per incrocio e/o ricombinazione naturale.
+ Nell'ambito di tale definizione:
+1) la modificazione genetica avviene almeno mediante l'impiego delle tecniche elencate nell'allegato I, parte A;
+2) le tecniche elencate nell'allegato I, parte B, non sono considerate tecniche che hanno per effetto una modificazione genetica;
+                            
+                        
+                        
+                            c)
+                            
+                                impiego confinato: ogni attivita' nella quale i microorganismi vengono modificati geneticamente o nella quale tali MOGM vengono messi in coltura, conservati, utilizzati, trasportati, distrutti, smaltiti o altrimenti utilizzati, e per la quale vengono usate misure specifiche di contenimento, al fine di limitare il contatto degli stessi con la popolazione o con l'ambiente;
+                            
+                        
+                        
+                            d)
+                            
+                                incidente: ogni evento imprevisto che comporti una diffusione non intenzionale di agenti biologici e di MOGM nel corso del loro impiego confinato che possa presentare un pericolo immediato o differito, per la salute dell'uomo o per l'ambiente;
+                            
+                        
+                        
+                            e)
+                            
+                                titolare dell'impianto: il datore di lavoro cosi' come definito all'articolo 2, comma 1, lettera b), del decreto legislativo 19 settembre 1994, n. 626, e successive modifiche ed integrazioni;
+                            
+                        
+                        
+                            f)
+                            
+                                utilizzatore: il responsabile scientifico e gestionale dell'impiego confinato di MOGM;
+                            
+                        
+                        
+                            g)
+                            
+                                notifica: la presentazione da parte dell'utilizzatore o del titolare dell'impianto al Ministero della sanita' dei documenti contenenti le informazioni richieste a norma del presente decreto.
+
 ## Art. 3. — (deroghe)
+
+1.
+                    
+                        
+                            Fatto salvo l'articolo 5, comma 1, il presente decreto non si applica:
+
+
+                        
+                        
+                            a)
+                            
+                                qualora la modificazione genetica sia ottenuta con l'impiego delle tecniche o delle metodologie indicate nell'allegato II, parte A, purche' le stesse non comportino ricorso a molecole ricombinanti di acido nucleico o a microrganismi geneticamente modificati diversi da quelli prodotti con l'applicazione delle tecniche o metodologie elencate nello stesso allegato;
+                            
+                        
+                        
+                            b)
+                            
+                                agli impieghi confinati dei MOGM elencati nell'allegato II, parte C, che soddisfino i criteri specificati nello stesso allegato, parte B, concernenti la sicurezza per la salute umana e per l'ambiente.
 
 Con decreto del Ministro della sanita', di concerto con il Ministro dell'ambiente e sentita la Commissione di cui all'articolo 14, sono recepiti i provvedimenti comunitari con i quali verranno adottate le parti B e C dell'allegato II, nel rispetto dei termini previsti dagli stessi provvedimenti.
 
@@ -50,6 +119,38 @@ Nell'impiego confinato di microorganismi modificati geneticamente devono essere 
 
 L'utilizzatore procede ad una valutazione dell'impiego confinato al fine di evitare i rischi per la salute umana e per l'ambiente che tale impiego potrebbe comportare, utilizzando almeno gli elementi di valutazione e la procedura di cui all'allegato III, lettere A e B.
 
+3.
+                    
+                        
+                            Effettuata la valutazione di cui al comma 2, l'utilizzatore assegna l'impiego confinato ad una delle quattro classi sottoelencate applicando il relativo livello di contenimento, ai sensi dell'articolo 6:
+ 
+                        
+                        
+                            a)
+                            
+                                classe 1: impieghi confinati che presentano rischi nulli o trascurabili, ovvero operazioni per le quali un livello 1 di contenimento e' adeguato a proteggere la salute umana e l'ambiente;
+
+                            
+                        
+                        
+                            b)
+                            
+                                classe 2: impieghi confinati a basso rischio, ovvero operazioni per le quali un livello 2 di contenimento e' adeguato a proteggere la salute umana e l'ambiente;
+
+                            
+                        
+                        
+                            c)
+                            
+                                classe 3: impieghi confinati che presentano un rischio moderato, ovvero operazioni per le quali un livello 3 di contenimento e' adeguato a proteggere la salute umana e l'ambiente;
+
+                            
+                        
+                        
+                            d)
+                            
+                                classe 4: impieghi confinati ad atto rischio, ovvero operazioni per le quali un livello 4 di contenimento e' adeguato a proteggere la salute umana e l'ambiente.
+
 Qualora sussista un dubbio sull'assegnazione dell'impiego confinato tra due delle classi di cui al comma 3, l'assegnazione va fatta alla classe che prevede le misure di protezione piu' rigorose.
 Il Ministero della sanita', sentita la commissione di cui all'articolo 14, sulla base delle prove presentate a corredo delle notifiche di cui agli articoli 7, 9 e 10, puo' autorizzare a non applicare una o piu' di dette misure.
 
@@ -57,11 +158,86 @@ La valutazione di cui al comma 2 tiene in particolare considerazione il problema
 
 All'esito della valutazione di cui ai commi 2, 3, 4 e 5, l'utilizzatore redige apposito documento di valutazione del rischio, nel quale specifica gli elementi di valutazione dei quali ha tenuto conto ai fini dell'assegnazione della classe di cui al comma 3, sulla base di quanto previsto dall'allegato III, che consegna al titolare dell'impianto.
 
+7.
+                    
+                        
+                            Il titolare dell'impianto:
+
+
+                        
+                        
+                            a)
+                            
+                                Conserva presso rimpianto il documento di cui al comma 6;
+                            
+                        
+                        
+                            b)
+                            
+                                su richiesta, mette il documento di cui al comma 6 a disposizione del Ministero della sanita', del Ministero dell'ambiente, del Ministero del lavoro e della previdenza sociale e degli organi di vigilanza di cui all'articolo 17.
+
 ## Art. 6. — (misure di contenimento e di prevenzione e di protezione)
+
+1.
+                    
+                        
+                            Salvo quanto previsto dall'articolo 5, comma 4, e dai paragrafi 2 e 3 dell'allegato IV, l'utilizzatore:
+
+                        
+                        
+                            a)
+                            
+                                si assicura che siano applicate le misure minime di contenimento e di protezione di cui alle tabelle dell'allegato IV, corrispondenti alla classe dell'impiego confinato. Le misure indicate in tali tabelle sostituiscono, per quanto riguarda i MOGM, le corrispondenti misure contenute negli allegati XII e XIII del decreto legislativo n. 626 del 1994, e successive modifiche ed integrazioni;
+                            
+                        
+                        
+                            b)
+                            
+                                conserva, su supporto cartaceo o informatico, registrazioni delle operazioni eseguite.
+
+2.
+                    
+                        
+                            L'utilizzatore e' tenuto a riesaminare periodicamente, e comunque almeno ogni tre anni per gli impieghi confinati delle classi 1 e 2 e annualmente per gli impieghi confinati di classe 3 e 4, la valutazione di cui all'articolo 5, comma 2, le misure di contenimento e le altre misure di protezione applicate. Tale riesame e' effettuato immediatamente:
+
+                        
+                        
+                            a)
+                            
+                                quando vi e' ragione di ritenere che le misure di contenimento o la classe attribuita all'impiego confinato non siano piu' adeguate alle nuove conoscenze tecniche o scientifiche;
+                            
+                        
+                        
+                            b)
+                            
+                                in caso di incidente;
+                            
+                        
+                        
+                            c)
+                            
+                                su motivata richiesta del Ministero della sanita', sentita la Commissione di cui all'articolo 14, anche a seguito di segnalazione degli organi di vigilanza di cui all'articolo 17.
 
 Nel caso di impieghi di classe 3 e 4 l'utilizzatore, ultimato il riesame ai sensi del comma 2, invia una relazione documentata al Ministero della sanita'.
 
 All'esito del riesame di cui ai commi 2 e 3, l'utilizzatore redige apposito documento, secondo le modalita' di cui all'allegato III, parte C, che consegna al titolare dell'impianto.
+
+5.
+                    
+                        
+                            Il titolare dell'impianto:
+
+                        
+                        
+                            a)
+                            
+                                conserva presso l'impianto il documento di cui al comma 4;
+                            
+                        
+                        
+                            b)
+                            
+                                su richiesta, mette il documento di cui al comma 4 a disposizione del Ministero della sanita', del Ministero dell'ambiente, del Ministero del lavoro e della previdenza sociale e degli organi di vigilanza di cui all'articolo 17.
 
 L'articolo 65, comma 2, del decreto legislativo n. 626 del 1994, e successive modificazioni ed integrazioni, e' sostituito dal seguente: "2. Nelle zone di lavoro di cui all'articolo 64, comma 1, lettera b), e' vietato assumere cibi e bevande, fumare, conservare cibi destinati al consumo umano, usare pipette a bocca e applicare cosmetici".
 
@@ -95,11 +271,57 @@ L'utilizzatore, per gli impieghi confinati della classe 3 o della classe 4 da es
 
 Un impiego confinato della classe 3 o della classe 4 non puo' aver luogo senza l'autorizzazione scritta del Ministero della sanita'.
 
+3.
+                    
+                        
+                            L'autorizzazione di cui al comma 2 e' comunicata all'utilizzatore ed al titolare dell'impianto, nonche' alla regione o provincia autonoma Interessata:
+
+                        
+                        
+                            a)
+                            
+                                entro e non oltre 60 giorni dalla presentazione della notifica di cui al comma 1, se gli impianti sono stati oggetto di precedente notifica relativa a impieghi confinati della classe 3 o della classe 4, e se sono state rispettate le prescrizioni previste dalla precedente autorizzazione per un impiego confinato della stessa classe o di una classe superiore;
+                            
+                        
+                        
+                            b)
+                            
+                                entro e non oltre 90 giorni dalla presentazione della notifica di cui al comma 1, negli altri casi.
+
 ## Art. 11. — (istruttoria delle notifiche)
 
 Il Ministero della sanita', ricevute le notifiche di cui agli articoli 7, 9 e 10, le sottopone, dopo l'istruttoria preliminare di cui al comma 2, al parere della commissione interministeriale di cui all'art. 14.
 
 Il Ministero della sanita' effettua l'istruttoria preliminare esaminando la conformita' delle notifiche alle disposizioni del presente decreto e la completezza delle informazioni fornite.
+
+3.
+                    
+                        
+                            Il Ministero della sanita', in conformita' al parere della commissione interministeriale di cui all'articolo 14:
+
+                        
+                        
+                            a)
+                            
+                                chiede ai notificanti di fornire le eventuali ulteriori informazioni;
+                            
+                        
+                        
+                            b)
+                            
+                                chiede ai notificanti di apportare modifiche alle modalita' dell'impiego confinato proposto o di modificare la classe attribuita all'impiego o agli impieghi confinati;
+                            
+                        
+                        
+                            c)
+                            
+                                delimita il periodo entro il quale l'impiego confinato e' consentito ovvero e' sottoposto a condizioni specifiche;
+                            
+                        
+                        
+                            d)
+                            
+                                prescrive specifiche condizioni per l'impianto o per l'impiego proposti.
 
 Sono irricevibili le notifiche prive della ricevuta relativa al versamento delle tariffe di cui all'articolo 18.
 
@@ -107,9 +329,43 @@ I termini di cui agli articoli 7, 9 e 10,decorrono dalla data di ricevimento da 
 
 La popolazione interessata deve essere messa in grado di esprimere il proprio parere in merito alla richiesta di autorizzazione relativa agli impianti destinati ad impieghi confinati della classe 4.
 
+7.
+                    
+                        
+                            Ai fini di quanto previsto dal comma 6, contestualmente alla presentazione della notifica di cui all'articolo 7, il notificante a proprie spese:
+
+                        
+                        
+                            a)
+                            
+                                deposita copia della notifica, contenente almeno le informazioni di cui all'allegato V, parte A, nella sede del Comune ove e' prevista l'installazione dell'impianto;
+                            
+                        
+                        
+                            b)
+                            
+                                provvede, lo stesso giorno, a pubblicare un avviso dell'avvenuto deposito della predetta documentazione sui due quotidiani aventi maggior diffusione nel territorio interessato, con l'indicazione del luogo ove e' possibile prendere visione della stessa.
+
 Chiunque intende fornire elementi conoscitivi e valutativi che ritenga ostativi al rilascio dell'autorizzazione all'impianto di cui ai comma 6, puo' presentare in forma scritta osservazioni al Ministero della sanita' e alle Autorita' locali interessate, entro 30 giorni dalla pubblicazione dell'avviso di cui al comma 7. Tali osservazioni sono valutate in sede Istruttoria.
 
 ## Art. 12. — (modifica delle notifiche)
+
+1.
+                    
+                        
+                            L'utilizzatore informa immediatamente il Ministero della sanita' e aggiorna la notifica di cui agli articoli 9 e 10 nei seguenti casi:
+
+                        
+                        
+                            a)
+                            
+                                qualora disponga, o sia in grado di disporre, di nuove conoscenze scientifiche o tecniche rilevanti per la natura e la gravita' dei rischi che l'impiego confinato in atto comporta;
+                            
+                        
+                        
+                            b)
+                            
+                                qualora intenda modificare l'impiego confinato in modo che ne possano derivare conseguenze sulla natura e sulla gravita' dei rischi;
 
 Il titolare dell'impianto informa immediatamente il Ministero della sanita' e aggiorna la notifica di cui all'articolo 7, qualora intenda apportare qualsiasi modifica all'impianto cosi' come descritto all'Allegato V, parte A.
 
@@ -120,6 +376,29 @@ Il Ministero della Sanita', qualora dopo il rilascio dell'autorizzazione all'imp
 I dati e le informazioni relativi alle notifiche presentate ai sensi del presente decreto,possono essere utilizzati solo per gli scopi per i quali sono stati forniti. A tutela della riservatezza delle imprese e del diritti di proprieta' intellettuale chiunque sia incaricato di esaminare gli atti di notifica, o comunque ne venga a conoscenza per ragioni di ufficio, e' tenuto a non divulgare le informazioni in essi contenute.
 
 Qualora l'utilizzatore ritenga che la diffusione delle informazioni notificate ai sensi degli articoli 7, 9 e 10,o altrimenti fornite in virtu' del presente decreto possa pregiudicare la sua posizione di concorrenza, indica le informazioni per le quali chiede che vengano trattate come riservate fornendo motivazioni verificabili a fondamento della richiesta.
+
+3.
+                    
+                        
+                            In nessun caso possono essere trattate come riservate le seguenti informazioni:
+
+                        
+                        
+                            a)
+                            
+                                le caratteristiche generali degli MOGM, il nome dell'utilizzatore e del titolare dell'impianto quando le due figure non coincidono e la localita' dell'impiego;
+                            
+                        
+                        
+                            b)
+                            
+                                la classe dell'impiego confinato e le misure di contenimento in concreto adottate;
+                            
+                        
+                        
+                            c)
+                            
+                                la valutazione degli effetti potenzialmente nocivi del MOGM, in particolare per la salute umana e per l'ambiente.
 
 Il Ministero della sanita', ricevuta la richiesta di cui al comma 2, consultato il richiedente e sentita la commissione di cui all'articolo 14, decide in merito informandone il richiedente.
 
@@ -140,6 +419,31 @@ Nello svolgimento dei lavori, la commissione puo' organizzarsi in sottogruppi ed
 Le funzioni di segreteria sono svolte a cura del Dipartimento della prevenzione del Ministero della sanita', presso il quale ha sede la Commissione interministeriale di valutazione.
 
 COMMA ABROGATO DAL D.P.R. 14 MAGGIO 2007, N. 86.
+
+7.
+                    
+                        
+                            La commissione svolge i seguenti compiti: 
+ 
+                        
+                        
+                            a)
+                            
+                                esamina le notifiche di cui agli articoli 7, 9 10 e 12, ed esprime parere sulle stesse, ai sensi dell'art. 11, individuando i casi di applicazione dell'articolo 15; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                esprime parere su ogni altra questione relativa agli aspetti considerati dal presente decreto; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                promuove, ove lo ritenga necessario, la richiesta di parere al Consiglio superiore di sanita' e al Comitato nazionale per la biosicurezza e le biotecnologie della Presidenza del Consiglio dei Ministri.
 
 La commissione di cui al presente articolo, sostituisce la commissione di cui all'articolo 15 del decreto legislativo 3 marzo 1993, n. 91, abrogato con l'articolo 24,. Tutti i riferimenti al predetto articolo 15, contenuti in atti normativi, si intendono pertanto sostituiti con i riferimenti al presente articolo. (1) ((3))
 
@@ -175,6 +479,35 @@ Il Ministero della sanita', entro il 31 dicembre di ogni anno, invia alla Commis
 ## Art. 16. — (obblighi in caso di incidente)
 
 Al verificarsi di un incidente l'utilizzatore e' tenuto ad informare il Ministero della sanita' e il titolare dell'impianto. Per gli impieghi confinati ricadenti nella disciplina dell'articolo 15, comma 1, ove dall'incidente derivi o possa derivare un rilascio di microorganismi geneticamente modificati o di agenti biologici all'esterno della zona utilizzata per l'impiego confinato, l'utilizzatore e' tenuto ad informarne anche il Ministero dell'ambiente, i presidenti della regione e della provincia, il prefetto ed i sindaci competenti per territorio:
+
+2.
+                    
+                        
+                            La comunicazione deve essere immediata, effettuata in forma scritta e contenere:
+
+                        
+                        
+                            a)
+                            
+                                le circostanze dell'incidente;
+                            
+                        
+                        
+                            b)
+                            
+                                l'identita' e la quantita' dei MOGM o degli agenti biologici interessati;
+                            
+                        
+                        
+                            c)
+                            
+                                le informazioni necessarie alla valutazione degli effetti dell'incidente sulla salute della popolazione e sull'ambiente e quanto altro utile all'eventuale attivazione dei piani di emergenza esterni all'impianto;
+                            
+                        
+                        
+                            d)
+                            
+                                le misure adottate.
 
 I presidenti delle regioni e delle province, il prefetto e i sindaci competenti per territorio, sulla base delle rispettive competenze, attivano, se necessario, i piani di emergenza di cui all'articolo 15, informandone in modo analitico i Ministeri della sanita', dell'ambiente e dell'interno e l'Agenzia nazionale per la protezione civile, anche ai fini di cui all'articolo 15, commi 6 e 7, sulle circostanze dell'incidente utili ad una valutazione complessiva del medesimo.
 
@@ -219,6 +552,47 @@ Il titolare dell'impianto e' punito con l'arresto da tre a sei mesi o con l'amme
 L'utilizzatore e' punito con l'arresto da tre a sei mesi o con l'ammenda da lire tre milioni a lire otto milioni per la violazione dell'articolo 5, comma 6, dell'articolo 6, comma 1, lettera a), e comma 4, e dell'articolo 12, comma 1.
 
 L'utilizzatore e' punito con l'arresto da due a quattro mesi o con l'ammenda da lire un milione a lire cinque milioni per la violazione dell'articolo 16, commi 1 e 2.
+
+4.
+                    
+                        
+                            La sanzione prevista al comma 1 si applica anche:
+
+                        
+                        
+                            a)
+                            
+                                al titolare dell'impianto in cui ha luogo l'impiego confinato di MOGM che sia privo dell'autorizzazione di cui all'articolo 7 commi 2 e 3;
+                            
+                        
+                        
+                            b)
+                            
+                                all'utilizzatore che, per gli impieghi confinati di classe 3 e 4, sia privo dell'autorizzazione di cui all'articolo 10, comma 2;
+                            
+                        
+                        
+                            c)
+                            
+                                al titolare dell'impianto che non osserva le prescrizioni stabilite dal Ministero della sanita' per l'impianto destinato all'impiego confinato di microorganismi geneticamente modificati;
+                            
+                        
+                        
+                            d)
+                            
+                                all'utilizzatore che non osserva le prescrizioni stabilite dal Ministero della sanita' per l'impiego confinato di microorganismi geneticamente modificati;
+                            
+                        
+                        
+                            e)
+                            
+                                all'utilizzatore che, per gli impieghi confinati di classe 2, non osserva le disposizioni di cui all'articolo 9, commi 2 e 3;
+                            
+                        
+                        
+                            f)
+                            
+                                al titolare dell'impianto ed all'utilizzatore che non osservano le prescrizioni dettate dal Ministero della sanita' in caso di incidente, ai sensi dell'articolo 16, comma 5.
 
 All'utilizzatore che non osserva le disposizioni di cui all'articolo 6, comma 1, lettera b) si applica la sanzione amministrativa pecuniaria da lire un milione a lire sei milioni.
 

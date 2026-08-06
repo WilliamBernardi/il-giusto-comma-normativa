@@ -7,8 +7,8 @@ urn: urn:nir:stato:legge.costituzionale:1961-03-09;1
 vigente: true
 source: normattiva-opendata
 collection: Leggi costituzionali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:39:08Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 LEGGE COSTITUZIONALE

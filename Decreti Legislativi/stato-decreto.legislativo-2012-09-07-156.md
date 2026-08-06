@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
 vigenza_date: 2015-03-01
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:22Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -34,7 +34,27 @@ Le competenze territoriali degli uffici soppressi ai sensi del comma 1 sono attr
 
 ## Art. 2. — Modifiche alla legge 21 novembre 1991, n. 374
 
+1.
+                    
+                        
+                            Alla legge 21 novembre 1991, n. 374, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                l'articolo 2 e' sostituito dal seguente: 
+ «Articolo 2. (Sede e circondario degli uffici del giudice di pace). - 1. Gli uffici del giudice di pace hanno sede nei comuni di cui alla tabella A allegata alla presente legge, con competenza territoriale sul circondario ivi rispettivamente indicato. 
+ 2. Con decreto del Presidente della Repubblica, su proposta del Ministro della giustizia, sentiti il consiglio giudiziario e i comuni interessati, possono essere istituite sedi distaccate. Con le medesime modalita' possono essere costituiti in un unico ufficio due o piu' uffici contigui. Nel decreto e' designato il comune in cui ha sede l'ufficio del giudice di pace.»; 
 
+                            
+                        
+                        
+                            b)
+                            
+                                e' inserita la tabella A, di cui all'allegato 1 del presente decreto.
+
+((1-bis. Il giudice di pace di Aversa e' rinominato giudice di pace di Napoli nord.))
 
 ((1))
 

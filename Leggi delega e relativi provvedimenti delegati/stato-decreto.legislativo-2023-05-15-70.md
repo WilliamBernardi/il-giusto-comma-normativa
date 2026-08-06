@@ -7,8 +7,8 @@ urn: urn:nir:stato:decreto.legislativo:2023-05-15;70
 vigente: true
 source: normattiva-opendata
 collection: Leggi delega e relativi provvedimenti delegati
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:41:15Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -23,6 +23,28 @@ Acquisiti i pareri delle competenti Commissioni della Camera dei deputati e del 
 Sulla proposta del Ministro per gli affari europei, il Sud, le politiche di coesione e il PNRR e del Ministro delle imprese e del made in Italy, di concerto con i Ministri degli affari esteri e della cooperazione internazionale, della giustizia e dell'economia e delle finanze;
 
 ## Art. 1. — Modifiche al decreto legislativo 7 settembre 2005, n. 209
+
+1.
+                    
+                        
+                            Al decreto legislativo 7 settembre 2005, n. 209, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                
+                                    all'articolo 285, dopo il comma 4, e' aggiunto, in fine, il seguente: 
+ «4-bis. La CONSAP ha il potere di negoziare e di concludere, entro il 23 dicembre 2023, un accordo con gli organismi omologhi al Fondo di garanzia per le vittime della strada degli altri Stati membri dell'Unione europea, al fine di dare attuazione alle procedure di rimborso e di rivalsa previste dall'articolo 10-bis, paragrafo 13, della direttiva 2009/103/CE del Parlamento europeo e del Consiglio del 16 settembre 2009. L'accordo e' notificato immediatamente alla Commissione europea.»;
+                                
+                            
+                        
+                        
+                            b)
+                            
+                                
+                                    all'articolo 296, dopo il comma 2, e' aggiunto, in fine, il seguente: 
+ «2-bis. La CONSAP ha il potere di negoziare e di concludere, entro il 23 dicembre 2023, un accordo con gli omologhi organismi degli altri Stati membri dell'Unione europea, al fine di dare attuazione alle procedure di rimborso e di rivalsa previste dall'articolo 25-bis, paragrafo 13, della direttiva 2009/103/CE del Parlamento europeo e del Consiglio del 16 settembre 2009. L'accordo e' notificato immediatamente alla Commissione europea.».
 
 ## Art. 2. — Clausola di invarianza finanziaria
 

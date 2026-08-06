@@ -8,8 +8,8 @@ codice_redazionale: 094G0344
 vigente: true
 source: normattiva-opendata
 collection: DPR
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:47:53Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -51,12 +51,46 @@ Il presente regolamento disciplina i procedimenti di rimborso a privati di somme
 
 ## Art. 2. — P r e s u p p o s t i
 
+1.
+                    
+                        
+                            I richiedenti le operazioni indicate nella tabella 3, allegata alla legge 1 dicembre 1986, n.870, sono tenuti a corrispondere i diritti, comprensivi delle spese per moduli di domanda e stampati, nonche' di ogni altra spesa e prestazione per le seguenti operazioni:
+ 
+                        
+                        
+                            a)
+                            
+                                tecniche e tecnico-amministrative in materia di veicoli a motore e rimorchi o della loro guida, di motoscafi e imbarcazioni a motore o della loro guida, di navi e galleggianti impiegati per la navigazione interna;
+
+                            
+                        
+                        
+                            b)
+                            
+                                (non e' stata ammessa al visto della Corte dei conti).
+
 ## Art. 3. — Modalita' di versamento
 
 Le operazioni previste all'art. 2 possono essere effettuate, a richiesta degli interessati, presso le sedi da essi predisposte e con tutte le spese a loro carico.
 
 ## Art. 4. — Modalita' del rimborso a privati
  di somme versate erroneamente o in eccedenza
+
+1.
+                    
+                        
+                            Per la corresponsione delle competenze spettanti al personale della Direzione generale della motorizzazione civile e dei trasporti in concessione, per l'effettuazione delle operazioni indicate all'art. 2, nonche' per i rimborsi ai privati delle somme versate erroneamente o in eccedenza, si provvede mediante aperture di credito a favore dei seguenti funzionari delegati: 
+                        
+                        
+                            a)
+                            
+                                il cassiere della Direzione generale della motorizzazione civile e dei trasporti in concessione;
+                            
+                        
+                        
+                            b)
+                            
+                                i direttori degli uffici periferici della stessa Direzione generale.
 
 I funzionari delegati sono autorizzati, limitatamente alle operazioni di rimborso, a disporre i rimborsi stessi mediante buoni di prelevamento in contanti in proprio favore.
 

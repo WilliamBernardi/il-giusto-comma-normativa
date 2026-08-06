@@ -8,8 +8,8 @@ codice_redazionale: 096G0557
 vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:28Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -36,6 +36,29 @@ La conversione del montante contributivo in rendita a favore dei predetti lavora
 
 ## Art. 3. — Trattamento pensionistico dei lavoratori in servizio
  alla data del 31 dicembre 1995
+
+1.
+                    
+                        
+                            Per i lavoratori in servizio alla data del 31 dicembre 1995 il trattamento pensionistico di anzianita' e' regolato secondo i seguenti principi:
+ 
+                        
+                        
+                            a)
+                            
+                                i lavoratori, con anzianita' di servizio, utile per la maturazione del diritto a pensione, pari o superiore a 20 anni interi alla predetta data conseguono il diritto alla prestazione pensionistica:
+ 1) se in possesso dei requisiti anagrafici di cui all'allegata tabella A, con applicazione delle riduzioni percentuali di cui alla tabella B per ogni anno mancante al requisito contributivo complessivo di 35 anni di anzianita';
+ 2) oppure, se in possesso dell'anzianita' di servizio di cui alla tabella C, con applicazione delle riduzioni percentuali di cui alla tabella B per ogni anno mancante al requisito contributivo complessivo di 37 anni di anzianita'. Le riduzioni percentuali dei trattamenti di pensione operano definitivamente anche nei confronti dei titolari di pensione di reversibilita';
+
+                            
+                        
+                        
+                            b)
+                            
+                                i lavoratori aventi un'anzianita' di servizio inferiore a quella prevista dalla lettera a), con esclusione di coloro di cui all'art. 2, comma 1, conseguono il diritto alla pensione:
+ 1) se in possesso di un'eta' anagrafica minima di cui alla tabella D e di un'anzianita' di servizio di cui alla tabella E, con l'applicazione delle riduzioni percentuali per ogni anno mancante al requisito contributivo complessivo di 35 anni di anzianita' di cui all'allegata tabella B;
+ 2) oppure, se in possesso dell'anzianita' di servizio di cui alla tabella E, con applicazione delle riduzioni percentuali di cui alla tabella B per ogni anno di anzianita' mancante al requisito contributivo complessivo in vigore secondo quanto previsto dalla colonna 2 della tabella B allegata all'art. 1, comma 26, della citata legge n. 335 del 1995.
+ Le riduzioni percentuali dei trattamenti di pensione operano definitivamente anche nei confronti dei titolari di pensione di reversibilita'.
 
 Le riduzioni percentuali dei trattamenti di pensione di cui alle lettere a) e b) del comma 1 non trovano applicazione nei confronti dei lavoratori che maturino il diritto alla prestazione pensionistica di vecchiaia nell'assicurazione generale obbligatoria.
 

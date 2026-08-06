@@ -8,8 +8,8 @@ codice_redazionale: 002G0151
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti governativi
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:09Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -26,6 +26,24 @@ Udito il parere del Consiglio di Stato, espresso dalla sezione consultiva per gl
 Sulla proposta del Ministro dell'economia e delle finanze;
 
 ## Art. 1.
+
+1.
+                    
+                        
+                            L'erogazione delle pensioni e degli assegni congeneri, nonche' degli assegni vitalizi, a carico del bilancio dello Stato e' disposta dal Centro nazionale di elaborazione e servizi del sistema informativo del Ministero dell'economia e delle finanze con ordini collettivi di pagamento tratti sui competenti capitoli di spesa, da estinguersi mediante: 
+ 
+                        
+                        
+                            a)
+                            
+                                commutazione in "bonifici domiciliati" per il pagamento in contanti presso gli istituti di credito e gli uffici postali; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                accreditamento ai conti correnti bancario o postale ovvero nel libretto di risparmio postale intestati ai beneficiari, mediante bonifici. Con la modalita' di cui alla lettera b) viene effettuato anche il versamento delle ritenute extraerariali gravanti sugli emolumenti anzidetti.
 
 Gli ordini collettivi di pagamento sono inviati mensilmente alla Banca d'Italia corredati di supporti informatici recanti i seguenti elementi: le generalita', codice fiscale dei titolari di rate di pensioni e di assegni, il numero di iscrizione delle relative partite di spesa, le somme spettanti e il mese di esigibilita', il codice del-l'ufficio pagatore, ovvero i dati identificativi dei conti correnti bancario o postale o del libretto di risparmio postale. Per il pagamento mediante bonifici domiciliati, qualora al beneficiario sia stato nominato un rappresentante legale ovvero lo stesso abbia nominato un procuratore, oltre al nominativo dell'intestatario e' indicato anche quello del rappresentante legale o del procuratore, preceduto rispettivamente dalla locuzione "rappresentato da" o "procuratore".
 

@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
 vigenza_date: 2005-12-31
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:30Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -68,6 +68,45 @@ Presso il Ministero del bilancio e della programmazione economica e' costituito 
 
 L'Osservatorio e' tenuto a fornire al Parlamento le informazioni, le notizie e i documenti che le competenti commissioni permanenti ritengono utili per l'esercizio dei propri compiti istituzionali.
 
+3.
+                    
+                        
+                            Spetta all'Osservatorio: 
+ 
+                        
+                        
+                            a)
+                            
+                                proporre al Ministro del bilancio e della programmazione economica eventuali iniziative amministrative ovvero legislative o regolamentari necessarie per il miglioramento degli interventi; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                analizzare gli effetti nella convergenza economica e sociale ottenuti tramite gli interventi di agevolazione, di realizzazione delle infrastrutture, di formazione; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                esaminare lo stato di attuazione degli interventi anche in relazione al rispetto delle normative internazionali e comunitarie; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                acquisire elementi ed elaborare proposte per il miglioramento della qualita' dei servizi pubblici nelle aree depresse; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                comunicare al Ministro del bilancio e della programmazione economica, ai fini della successiva presentazione al Parlamento, una relazione sull'attivita' svolta dall'Osservatorio stesso.
+
 Con decreto del Presidente del Consiglio dei Ministri, su proposta del Ministro del bilancio e della programmazione economica, di concerto con il Ministro del tesoro, vengono disciplinati l'organizzazione e il funzionamento dell'Osservatorio stesso, nonche' il contingente, suddiviso per qualifiche, del personale appartenente alle pubbliche amministrazioni da utilizzare ai fini dell'attivita' dell'Osservatorio stesso; il contingente predetto non puo' essere superiore complessivamente alle trenta unita', con prioritaria utilizzazione del personale proveniente dai soppressi organismi del Mezzogiorno. Con il predetto decreto sono stabilite le indennita' da corrispondere, in relazione alle funzioni svolte, al presidente, ai componenti e al personale addetto all'Osservatorio; ai relativi oneri e a quelli connessi all'attivita' ed ai compiti dell'Osservatorio si provvede utilizzando le risorse del Fondo di cui all'art. 19, 
 comma 5.((4))
 
@@ -90,6 +129,45 @@ Nota redazionale
  E' possibile visualizzare il testo originario accedendo alla versione pdf della relativa Gazzetta di pubblicazione.
 
 ## Art. 6. — Agevolazioni alle attivita' di ricerca
+
+1.
+                    
+                        
+                            In attuazione delle funzioni di coordinamento della ricerca scientifica e tecnologica , e dell'istruzione universitaria spettanti al Ministero dell'universita' e della ricerca scientifica e tecnologica sono allo stesso trasferite le funzioni relative: 
+ 
+                        
+                        
+                            a)
+                            
+                                alla predisposizione ed alla stipulazione dei contratti di programma, da approvarsi dal CIPE, relativi ai centri di ricerca e ai progetti di ricerca; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                ai programmi ed ai progetti di ricerca previsti dalle intese di programma con l'Ente per le nuove tecnologie, l'energia e l'ambiente (ENEA) e con il Consiglio nazionale delle ricerche (CNR); 
+
+                            
+                        
+                        
+                            c)
+                            
+                                al potenziamento della rete consortile di ricerca (ex progetto speciale 35) e delle strutture edilizie universitarie meridionali; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                all'attuazione dell'intesa dei parchi scientifici e tecnologici; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                agli altri progetti compresi nell'azione organica n. 2, riguardanti la ricerca, i progetti pilota e la formazione.((3))
 
 Per l'esercizio delle suddette funzioni il Ministero dell'universita' e della ricerca scientifica e tecnologica puo' attivare gli strumenti previsti dalla legislazione nazionale in materia di ricerca applicata. 
  
@@ -233,6 +311,24 @@ Ferme restando le vigenti disposizioni in materia di mobilita' per il personale 
 ## Art. 14-bis. — ( (Trattamento economico del personale
 
 
+
+1.
+                    
+                        
+                            Il personale di cui all'articolo 14, comma 1, nonche' il personale che sia gia' volontariamente, anche a seguito di domanda di revoca espressa entro il 28 febbraio 1994, cessato dal servizio dopo la data del 12 ottobre 1993 e che ne faccia apposita domanda entro il 31 luglio 1994, puo' optare alternativamente per uno dei seguenti trattamenti economici: 
+ 
+                        
+                        
+                            a)
+                            
+                                cessazione del rapporto di impiego con la soppressa Agenzia con diritto alla contestuale liquidazione da parte dell'INA del trattamento di fine rapporto costituito alla data del 12 ottobre 1993, in base alla normativa vigente in materia alla stessa data; definizione, con riferimento alla suddetta data del 12 ottobre 1993, della posizione pensionistica gia' costituita; instaurazione, dal 13 ottobre 1993, del rapporto di servizio con le amministrazioni di assegnazione. In alternativa l'interessato puo' richiedere che la definizione della propria posizione pensionistica venga riferita alla data del 31 luglio 1994. Al dipendente spetta il trattamento economico previsto per la qualifica attribuita ai fini dell'inquadramento, computando, ai soli fini della progressione economica, secondo le modalita' previste per le qualifiche dirigenziali statali, l'anzianita' di qualifica maturata presso l'ultimo organismo di provenienza. La percezione del trattamento pensionistico maturato presso l'INPS e l'INPDAI alla data del 12 ottobre 1993 potra' avvenire solo alla cessazione del rapporto di lavoro con l'amministrazione di assegnazione. I servizi gia' coperti dall'iscrizione previdenziale presso l'INA non sono riscattabili ai fini dell'indennita' di buonuscita; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                ricongiungimento del servizio prestato presso l'Agenzia e di quello prestato successivamente alla data del 12 ottobre 1993 con il servizio prestato presso l'amministrazione di assegnazione. Al dipendente e' attribuito lo stipendio iniziale della qualifica attribuitagli ai fini dell'inquadramento, comprensivo dell'indennita' integrativa speciale ed incrementato di un importo, calcolato secondo le modalita' previste per le qualifiche dirigenziali statali, corrispondente ai bienni di anzianita' nell'ultima qualifica rivestita e valutata ai fini dell'inquadramento alla data del 13 ottobre 1993. Al dipendente, in aggiunta alla retribuzione come sopra determinata, e' attribuito un assegno personale pensionabile, riassorbibile con qualsiasi successivo miglioramento, pari alla differenza tra la predetta retribuzione e lo stipendio gia' percepito presso la soppressa Agenzia per la promozione dello sviluppo del Mezzogiorno, ma comunque non superiore a lire 1.500.000 lorde mensili. Le altre indennita' eventualmente spettanti presso l'amministrazione di destinazione, diverse dall'indennita' integrativa speciale, sono corrisposte solo nella misura eventualmente eccedente l'importo del predetto assegno personale. Ai fini previdenziali si applica l'articolo 6 della legge 7 febbraio 1979, n. 29. Il trattamento di fine rapporto costituito presso l'INA, di cui all'articolo 14, comma 4, e' corrisposto al momento della cessazione dal servizio presso l'amministrazione di assegnazione, aggiuntivamente all'indennita' di buonuscita. I servizi gia' coperti dall'iscrizione previdenziale presso l'INA non sono riscattabili ai fini dell'indennita' di buonuscita.
 
 Qualora la posizione pensionistica del dipendente alla data di cessazione del rapporto e del ricongiungimento sia di almeno trenta anni di anzianita' contributiva, presso l'INPS o presso l'INPDAI, tale posizione, a richiesta dell'interessato, e' mantenuta fino al raggiungimento dei trentacinque anni di anzianita' contributiva, tramite versamenti integrativi di contributi previdenziali a carico dello Stato, di importo tale che i contributi previdenziali complessivamente a carico dello Stato non siano inferiori a quelli dovuti alla stessa data di cessazione del rapporto e del ricongiungimento.
 

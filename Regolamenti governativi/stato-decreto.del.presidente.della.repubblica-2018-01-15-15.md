@@ -7,8 +7,8 @@ urn: urn:nir:stato:decreto.del.presidente.della.repubblica:2018-01-15;15
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti governativi
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:11Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -109,6 +109,143 @@ Per l'attivazione dei collegamenti gli organi, uffici e comandi di polizia posso
 I dati personali oggetto di trattamento sono conservati per un periodo di tempo non superiore a quello necessario per il conseguimento delle finalita' di polizia di cui all'articolo 3.
 
 I dati personali soggetti a trattamento automatizzato, trascorsa la meta' del tempo massimo di conservazione di cui al comma 3, se uguale o superiore a quindici anni, sono accessibili ai soli operatori a cio' abilitati e designati, incaricati del trattamento secondo profili di autorizzazione predefiniti in base alle indicazioni del capo dell'ufficio o del comandante del reparto e in relazione a specifiche attivita' informative, di sicurezza o di indagine di polizia giudiziaria.
+
+3.
+                        
+                            
+                                Fatto salvo quanto previsto dai commi 6 e 7, i dati personali non possono essere conservati oltre il termine massimo fissato come segue: 
+ 
+                            
+                            
+                                a)
+                                
+                                    dati relativi a provvedimenti di natura interdittiva, di sicurezza e cautelare, nonche' a misure restrittive della liberta' personale conseguenti ad una sentenza di condanna - 20 anni dalla cessazione della loro efficacia; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    dati relativi a misure di prevenzione di carattere personale e patrimoniale - 25 anni dalla cessazione della loro efficacia; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    dati relativi a procedimenti, misure e provvedimenti su cui interviene una procedura di annullamento, invalidazione o revoca - 3 anni dalla data di inoppugnabilita' del provvedimento di annullamento, invalidazione o revoca; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    dati relativi a provvedimenti che dichiarano l'estinzione della pena o del reato - 8 anni dall'inoppugnabilita' del provvedimento; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    dati derivanti da attivita' informativa e ispettiva svolta per le finalita' di cui all'articolo 3 - 15 anni dall'ultimo trattamento; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    dati relativi ad attivita' di polizia giudiziaria conclusa con provvedimento di archiviazione - 20 anni dall'emissione del provvedimento; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    dati relativi ad attivita' di polizia giudiziaria conclusa con sentenza di assoluzione o di non doversi procedere - 20 anni dal passaggio in giudicato della sentenza; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    dati relativi ad attivita' di polizia giudiziaria conclusa con sentenza di condanna - 25 anni dal passaggio in giudicato della sentenza; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    dati relativi ad attivita' di indagine o polizia giudiziaria che non hanno dato luogo a procedimento penale - 15 anni dall'ultimo trattamento; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    dati relativi ad attivita' di prevenzione generale e soccorso pubblico - 5 anni dalla raccolta; 
+
+                                
+                            
+                            
+                                m)
+                                
+                                    dati relativi a controlli di polizia - 20 anni dalla raccolta; 
+
+                                
+                            
+                            
+                                n)
+                                
+                                    dati raccolti per l'analisi criminale e di prevenzione - 10 anni dall'elaborazione dell'analisi; 
+
+                                
+                            
+                            
+                                o)
+                                
+                                    dati relativi a provvedimenti di espulsione e rimpatrio di stranieri - 30 anni dall'esecuzione; 
+
+                                
+                            
+                            
+                                p)
+                                
+                                    dati relativi a nulla osta, licenze, autorizzazioni di polizia - 5 anni dalla scadenza o dalla revoca del titolo; 
+
+                                
+                            
+                            
+                                q)
+                                
+                                    dati relativi alla detenzione delle armi o parti di esse, di munizioni finite e di materie esplodenti di qualsiasi genere - 5 anni dalla cessazione della detenzione; 
+
+                                
+                            
+                            
+                                r)
+                                
+                                    dati relativi a persone detenute negli istituti penitenziari - 30 anni dalla scarcerazione a seguito di espiazione della pena in caso di condanna - 5 anni dalla scarcerazione a seguito di decreto di archiviazione o non luogo a procedere o di sentenza di assoluzione; 
+
+                                
+                            
+                            
+                                s)
+                                
+                                    dati relativi a persone sottoposte a misure di sicurezza detentive - 25 anni dalla scadenza del termine di efficacia della misura; 
+
+                                
+                            
+                            
+                                t)
+                                
+                                    dati relativi alla gestione delle attivita' operative - 10 anni dall'ultimo trattamento; 
+
+                                
+                            
+                            
+                                u)
+                                
+                                    dati raccolti mediante sistemi di ripresa fotografica, audio e video nei servizi di ordine pubblico e di polizia giudiziaria - 3 anni dalla raccolta; dati raccolti mediante sistemi di videosorveglianza o di ripresa fotografica, audio e video di documentazione dell'attivita' operativa - 18 mesi dalla raccolta. Si applicano i diversi termini di conservazione di cui alla lettera b), quando i dati personali sono confluiti in un procedimento per l'applicazione di una misura di prevenzione, o quelli di cui alle lettere a), f), g), h) e i), quando i dati personali sono confluiti in un procedimento penale.
 
 I termini di conservazione di cui al comma 3 sono aumentati di due terzi quando i dati personali sono trattati nell'ambito di attivita' preventiva o repressiva relativa ai delitti di cui all'articolo 51, commi 3-bis, 3-quater e 3-quinquies, del codice di procedura penale, nonche' per le ulteriori ipotesi indicate dall'articolo 407, comma 2, lettera a), del codice di procedura penale.
 

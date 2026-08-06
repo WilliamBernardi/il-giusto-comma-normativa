@@ -8,8 +8,8 @@ codice_redazionale: 099G0519
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:42Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -36,6 +36,105 @@ Per "opera audiovisiva in coproduzione" o "compartecipazione" si intende l'opera
 ## Art. 2. — Riconoscimento della nazionalita' italiana
 
 Possono essere riconosciute di nazionalita' italiana le opere audiovisive realizzate in coproduzione o in compartecipazione con imprese di altre nazioni, in base ad accordi internazionali di reciprocita'. In mancanza di accordo internazionale, la compartecipazione puo' essere autorizzata, ai sensi dell'articolo 19 della legge 4 novembre 1965, n. 1213, con decreto del Ministro per i beni e le attivita' culturali, sentita la Commissione per il credito cinematografico, per singole iniziative di carattere culturale e imprenditoriale.
+
+2.
+                    
+                        
+                            Le componenti artistiche e tecniche dell'opera da prendere in considerazione sono:
+ 
+                        
+                        
+                            a)
+                            
+                                regista italiano;
+
+                            
+                        
+                        
+                            b)
+                            
+                                autore del soggetto italiano o autori in maggioranza italiani;
+
+                            
+                        
+                        
+                            c)
+                            
+                                sceneggiatore italiano o sceneggiatori in maggioranza italiani;
+
+                            
+                        
+                        
+                            d)
+                            
+                                interpreti principali in maggioranza italiani;
+
+                            
+                        
+                        
+                            e)
+                            
+                                interpreti secondari per almeno il settantacinque per cento del loro numero complessivo italiani;
+
+                            
+                        
+                        
+                            f)
+                            
+                                ripresa sonora diretta in lingua italiana;
+
+                            
+                        
+                        
+                            g)
+                            
+                                direttore della fotografia italiano;
+
+                            
+                        
+                        
+                            h)
+                            
+                                montatore italiano;
+
+                            
+                        
+                        
+                            i)
+                            
+                                autore della musica italiano;
+
+                            
+                        
+                        
+                            l)
+                            
+                                scenografo italiano;
+
+                            
+                        
+                        
+                            m)
+                            
+                                costumista italiano.
+
+3.
+                    
+                        
+                            La nazionalita' italiana delle opere in coproduzione o in compartecipazione e' riconosciuta alle opere audiovisive che:
+ 
+                        
+                        
+                            a)
+                            
+                                prevedono una quota di partecipazione dell'impresa nazionale alla produzione non inferiore al venti per cento del costo dell'opera, salvo deroghe concesse con il decreto adottato ai sensi del comma 1;
+
+                            
+                        
+                        
+                            b)
+                            
+                                presentano complessivamente almeno una delle componenti di cui all'articolo 1, comma 2, lettere a) , b) , c), nonche' una delle componenti di cui all'articolo 1, comma 2, lettere d) e) ed f); due delle componenti di cui all'articolo 1, comma 2, lettere g), h), i), l), e m).
 
 Il numero delle opere che ciascuna impresa nazionale puo' realizzare in coproduzione con quota minoritaria non puo' superare il doppio di quelle realizzate dalla medesima, da sola o in coproduzione con quota maggioritaria, riconosciute nazionali da non oltre due anni.
 

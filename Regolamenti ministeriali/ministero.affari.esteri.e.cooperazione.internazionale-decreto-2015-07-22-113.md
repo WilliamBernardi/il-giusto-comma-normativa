@@ -8,8 +8,8 @@ vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
 vigenza_date: 2020-03-01
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:39Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -35,6 +35,116 @@ Acquisito il parere delle competenti Commissioni parlamentari;
 
 Il presente regolamento reca lo statuto dell'Agenzia italiana per la cooperazione allo sviluppo e ne disciplina le competenze e le regole di funzionamento, nel rispetto dei criteri di efficacia, economicita', unitarieta' e trasparenza degli interventi di cooperazione allo sviluppo.
 
+2.
+                        
+                            
+                                Ai fini del presente decreto, i seguenti termini hanno il significato di seguito indicato: 
+ 
+                            
+                            
+                                a)
+                                
+                                    «legge istitutiva»: legge 11 agosto 2014, n. 125, recante «Disciplina generale sulla cooperazione internazionale allo sviluppo»; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    «Ministro»: Ministro degli affari esteri e della 
+ cooperazione internazionale; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    «Vice ministro»: Vice ministro della cooperazione allo sviluppo di cui all'articolo 11 della legge istitutiva; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    «MAECI»: Ministero degli affari esteri e della cooperazione internazionale di cui all'articolo 12 del decreto legislativo 30 luglio 1999, n. 300; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    «DGCS»: Direzione generale per la cooperazione allo sviluppo del MAECI, di cui all'articolo 20 della legge istitutiva; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    «Agenzia»: Agenzia italiana per la cooperazione allo sviluppo, istituita dall'articolo 17 della legge istitutiva; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    «direttore»: il direttore dell'Agenzia di cui all'articolo 17, comma 5, della legge istitutiva; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    «sedi all'estero»: sedi all'estero dell'Agenzia di cui all'articolo 17, comma 7, della legge istitutiva; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    «Comitato congiunto»: Comitato congiunto per la cooperazione allo sviluppo di cui all'articolo 21 della legge istitutiva; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    «capi missione»: capi delle rappresentanze diplomatiche di cui all'articolo 30 del decreto del Presidente della Repubblica 5 gennaio 1967, n. 18; 
+
+                                
+                            
+                            
+                                m)
+                                
+                                    «documento triennale»: documento triennale di programmazione e di indirizzo di cui all'articolo 12 della legge istitutiva; 
+
+                                
+                            
+                            
+                                n)
+                                
+                                    «convenzione con il Ministro»: convenzione tra il Ministro e il direttore di cui all'articolo 8, comma 4, lettera e), del decreto legislativo 30 luglio 1999, n. 300; 
+
+                                
+                            
+                            
+                                o)
+                                
+                                    «data di piena operativita'»: data di cui all'articolo 31, comma 1, della legge istitutiva; 
+
+                                
+                            
+                            
+                                p)
+                                
+                                    «regolamento di contabilita'»: regolamento interno di contabilita' di cui all'articolo 17, comma 6, della legge istitutiva; 
+
+                                
+                            
+                            
+                                q)
+                                
+                                    «regolamento di organizzazione»: regolamento interno di organizzazione di cui all'articolo 8, comma 4, lettera l), del decreto legislativo n. 300 del 1999.
+
 ## Art. 2.
 
 Finalita'
@@ -59,6 +169,31 @@ La convenzione con il Ministro si conforma all'articolo 8, comma 4, lettera e), 
 
 L'Agenzia e' regolata dalla legge istitutiva, dal decreto legislativo 30 luglio 1999, n. 300, dal presente statuto, dal codice civile e dalle altre norme relative alle persone giuridiche pubbliche.
 
+2.
+                        
+                            
+                                Sono organi dell'Agenzia: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il direttore; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il comitato direttivo; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il collegio dei revisori dei conti.
+
 L'Agenzia si avvale del patrocinio dell'Avvocatura generale dello Stato ai sensi dell'articolo 1 del regio decreto 30 ottobre 1933, n. 1611.
 
 Il regolamento di organizzazione diventa esecutivo con l'approvazione del Ministro.
@@ -67,11 +202,223 @@ Sul regolamento di contabilita', il Ministro acquisisce il concerto del Ministro
 
 ## Art. 5. — Direttore
 
+1.
+                        
+                            
+                                Il direttore rappresenta l'Agenzia, ne dirige e controlla l'attivita', e' responsabile della gestione e del conseguimento degli obiettivi attribuiti. Egli, in particolare: 
+ 
+                            
+                            
+                                a)
+                                
+                                    propone per l'approvazione del Ministro il regolamento di organizzazione; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    propone per l'approvazione del Ministro, di concerto con il Ministro dell'economia e delle finanze, il regolamento di contabilita'; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    stipula la convenzione con il Ministro; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    predispone e sottopone al Ministro il bilancio preventivo e il conto consuntivo; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    fatti salvi i poteri di proposta attribuiti dalla legge istitutiva alla DGCS, propone al Comitato congiunto le iniziative da approvare e lo informa di quelle sulle quali dispone autonomamente; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    adotta gli atti di gestione necessari per il conseguimento degli obiettivi dell'Agenzia e, nell'ambito della programmazione annuale, esercita i relativi poteri di spesa, fatte salve le competenze dei dirigenti e fermo restando il limite di cui all'articolo 17, comma 6, della legge istitutiva; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    svolge funzioni di impulso, coordinamento, direzione, vigilanza e controllo nei confronti degli uffici e delle sedi all'estero; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    conferisce gli incarichi dirigenziali di livello non generale e propone al Ministro il conferimento degli incarichi di livello dirigenziale generale; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    assegna ai dirigenti gli obiettivi da perseguire per l'attuazione dei programmi e la responsabilita' di specifici progetti; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    attribuisce ai capi degli uffici e delle sedi all'estero le risorse finanziarie, umane e strumentali; 
+
+                                
+                            
+                            
+                                m)
+                                
+                                    cura le relazioni sindacali, definisce le politiche d'incentivazione, di formazione e d'impiego ottimale del personale; 
+
+                                
+                            
+                            
+                                n)
+                                
+                                    propone al Ministro la nomina dei componenti del comitato direttivo, ne convoca e presiede le riunioni; 
+
+                                
+                            
+                            
+                                o)
+                                
+                                    previa autorizzazione del Comitato congiunto, nel rispetto dell'articolo 17, comma 7, della legge istitutiva, istituisce o sopprime le sedi all'estero e ne determina l'ambito territoriale di competenza; 
+
+                                
+                            
+                            
+                                p)
+                                
+                                    assicura il supporto dell'Agenzia al MAECI nelle attivita' di natura tecnico-operativa previste dalla legge istitutiva; 
+
+                                
+                            
+                            
+                                q)
+                                
+                                    svolge le funzioni ed attivita' amministrative non espressamente attribuite al comitato direttivo dalle norme vigenti e dal presente statuto.
+
+2.
+                        
+                            
+                                La selezione per la nomina del direttore di cui all'articolo 17, comma 5, della legge istitutiva e' cosi' disciplinata: 
+ 
+                            
+                            
+                                a)
+                                
+                                    i requisiti, le modalita' e i criteri di determinazione dell'idoneita' di cui alla lettera d), i termini e le modalita' di presentazione delle candidature sono divulgati mediante avviso pubblicato nella Gazzetta Ufficiale della Repubblica italiana, sui siti istituzionali della Presidenza del Consiglio dei Ministri e del MAECI e con modalita' idonee a garantire la diffusione anche internazionale; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le candidature sono valutate da una commissione di almeno cinque membri, nominati dal Ministro nel rispetto dell'articolo 4 del decreto del Presidente della Repubblica 24 settembre 2004, n. 272; la commissione comprende almeno un dirigente generale o equiparato del MAECI e un professore universitario in materie attinenti all'ambito di attivita' dell'Agenzia; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    della commissione possono far parte persone estranee alla pubblica amministrazione, di comprovata esperienza nel campo della cooperazione allo sviluppo, individuate, anche tra funzionari dell'Unione Europea o di organizzazioni internazionali di cui l'Italia e' parte, nel rispetto dei criteri di trasparenza e di imparzialita' e che non siano componenti dell'organo di direzione politica dell'amministrazione, che non ricoprano cariche politiche e che non siano rappresentanti sindacali o designati da confederazioni ed organizzazioni sindacali o dalle associazioni professionali; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    i candidati ritenuti idonei sulla base della documentazione allegata alla domanda di partecipazione sono ammessi a un colloquio, all'esito del quale la commissione, per il tramite del Vice ministro, formula al Ministro una motivata proposta con almeno tre e non oltre cinque nominativi; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    gli elenchi di coloro che hanno presentato domanda, degli ammessi al colloquio e dei candidati proposti sono pubblicati sul sito istituzionale del MAECI.
+
 Il trattamento giuridico ed economico onnicomprensivo del direttore e' determinato con contratto individuale, ai sensi dell'articolo 19, comma 2, del decreto legislativo 30 marzo 2001, n. 165. Il Ministro puo' disporre in ogni momento la revoca dell'incarico per inosservanza delle direttive generali e per i risultati negativi rispetto agli obiettivi assegnati, nel rispetto dei principi di cui all'articolo 21 del decreto legislativo 30 marzo 2001, n. 165. L'incarico e' incompatibile con altri rapporti di lavoro subordinato pubblico o privato e con qualsiasi altra attivita' professionale. L'incarico non puo' essere conferito a persone in quiescenza.
 
 In caso di assenza o di impedimento, il direttore e' sostituito dal titolare di incarico dirigenziale generale di maggiore anzianita'.
 
 ## Art. 6. — Comitato direttivo
+
+1.
+                        
+                            
+                                Il comitato direttivo si riunisce periodicamente, e' composto dal direttore, che lo presiede, e da quattro componenti individuati come segue: 
+ 
+                            
+                            
+                                a)
+                                
+                                    i due capi delle strutture di livello dirigenziale generale dell'Agenzia, per la durata dell'incarico; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    altri due dirigenti dell'Agenzia, di cui uno con funzioni di segretario, nominati dal Ministro su proposta del direttore per un mandato di quattro anni, rinnovabile.
+
+2.
+                        
+                            
+                                Il comitato direttivo coadiuva il direttore e, in particolare: 
+ 
+                            
+                            
+                                a)
+                                
+                                    formula proposte in ordine alla programmazione delle attivita' dell'Agenzia; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    individua misure e iniziative dirette a favorire l'economicita' della gestione; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    esprime un parere sulle proposte dell'Agenzia al Comitato congiunto; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    esprime un parere sugli schemi di convenzione con il MAECI e con altre amministrazioni pubbliche di cui all'articolo 17, comma 4, della legge istitutiva; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    esprime un parere sulla proposta di bilancio preventivo e sul conto consuntivo dell'Agenzia; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    esprime, su richiesta del Ministro, un parere su proposte di modifica del presente statuto e dei regolamenti di organizzazione e di contabilita'.
 
 Le deliberazioni sono approvate con il voto favorevole della maggioranza assoluta dei componenti.
 
@@ -97,6 +444,33 @@ Gli uffici in Italia assicurano il supporto tecnico ed amministrativo al diretto
 
 ## Art. 9. — Sedi all'estero
 
+1.
+                        
+                            
+                                Con le modalita' di cui all'articolo 17, comma 7, della legge istitutiva possono essere istituite, nell'ambito delle risorse finanziarie disponibili, fino a trenta sedi all'estero, la cui direzione e' affidata a personale dirigenziale, della terza area o a personale di cui all'articolo 32, comma 4, primo periodo, della legge istitutiva. 
+ 2.((COMMA ABROGATO DAL D.L. 30 DICEMBRE 2019, N. 162, CONVERTITO CON MODIFICAZIONI DALLA L. 28 FEBBRAIO 2020, N. 8)). 
+ 3. Le procedure concorsuali di reclutamento del personale di cui all'articolo 19, comma 6, della legge istitutiva, nel rispetto del contingente ivi previsto, sono regolate dalle norme applicabili al personale di pari qualifica degli uffici di cui all'articolo 30 del decreto del Presidente della Repubblica 5 gennaio 1967, n. 18. 
+ 4. I capi delle sedi all'estero rispondono al direttore, da cui dipendono gerarchicamente, per l'uso delle risorse e per il raggiungimento degli obiettivi assegnati. I capi missione esercitano nei confronti delle sedi all'estero le funzioni di cui all'articolo 37 del decreto del Presidente della Repubblica 5 gennaio 1967, n. 18, sulla base della convenzione con il Ministro e delle direttive del Ministro. 
+ 5. Le sedi all'estero possono essere delegate alla gestione delle iniziative di cooperazione e delle relative risorse, nei limiti previsti dall'articolo 17, comma 3, della legge istitutiva. 
+ 6. L'autonomia gestionale e finanziaria e le modalita' di rendicontazione sono disciplinate dal regolamento di contabilita', che si ispira, per quanto compatibile, al decreto del Presidente della Repubblica 1° febbraio 2010, n. 54, nel rispetto dei seguenti criteri: 
+ 
+                            
+                            
+                                a)
+                                
+                                    ai titolari delle sedi all'estero competono i poteri e le responsabilita' attribuiti dal medesimo dPR ai capi di rappresentanza diplomatica; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    contestualmente all'invio alla sede centrale dell'Agenzia, i bilanci preventivi e consuntivi delle sedi all'estero sono inviati ai capi missione territorialmente competenti, che, entro venti giorni, possono inviare osservazioni al MAECI. 
+ 7. Al fine di rafforzare l'efficacia degli interventi 
+ realizzati dai soggetti del sistema italiano di cooperazione allo sviluppo di cui al Capo VI della legge istitutiva, l'Agenzia, attraverso le sedi all'estero e d'intesa con i capi missione competenti, promuove a livello locale 
+ riunioni periodiche o altre forme di consultazione, coordinamento e scambio di informazioni con gli operatori che realizzano iniziative di cooperazione. 
+ 8. I capi delle sedi all'estero si conformano alle direttive dei capi missione in materia di sicurezza.
+
 ## - Capo III Disposizioni in materia di personale
 
 ## Art. 10. — Reclutamento e inquadramento del personale
@@ -109,6 +483,31 @@ Per i profili professionali per il cui accesso e' richiesta la laurea, e' inoltr
 L'inquadramento di personale dipendente da pubbliche amministrazioni nell'organico dell'Agenzia tiene conto dell'esperienza professionale maturata ai soli fini dell'individuazione dell'idoneo profilo professionale, ferme restando le disposizioni contrattuali e normative vigenti nonche' l'area e la fascia retributiva di appartenenza.
 
 ## Art. 11. — Realizzazione degli interventi di cooperazione all'estero
+
+1.
+                        
+                            
+                                L'Agenzia realizza e monitora in loco le iniziative di cooperazione mediante: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il proprio personale destinato alle sedi all'estero; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'invio in missione di dipendenti propri o di altre amministrazioni pubbliche; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    personale non appartenente alla pubblica amministrazione mediante l'invio in missione o la stipula di contratti di diritto privato a tempo determinato, disciplinati dal diritto locale, nel rispetto dei principi fondamentali dell'ordinamento italiano.
 
 I criteri e le modalita' di selezione del personale di cui al comma 1, lettere b), e c), sono approvati dal Comitato congiunto, su proposta del direttore, sulla base di standard internazionali di efficacia, efficienza e trasparenza, nei limiti dell'ambito temporale e delle risorse assegnati per ciascun intervento, nel rispetto dei principi di pubblicita', imparzialita' e pari opportunita'. Con le stesse modalita' e' determinato il trattamento economico del personale di cui al comma 1, lettera c).
 
@@ -182,10 +581,153 @@ Le attivita' di cui al presente articolo si conformano in ogni caso ai principi 
 
 L'Agenzia dispone l'iscrizione all'elenco di cui all'articolo 26, comma 3, della legge istitutiva, a domanda del legale rappresentante del soggetto interessato, redatta secondo i criteri e i parametri fissati dal Comitato congiunto. La domanda puo' essere presentata anche da soggetti costituiti secondo l'ordinamento di altro Stato membro dell'Unione europea. L'Agenzia verifica la documentazione presentata e accerta, anche mediante ispezioni presso l'organizzazione richiedente, la sussistenza e il mantenimento dei requisiti.
 
+2.
+                        
+                            
+                                Per l'iscrizione nell'elenco di cui al comma 1 e il suo mantenimento, l'Agenzia verifica, secondo modalita' e criteri fissati dal Comitato congiunto entro sei mesi dall'entrata in vigore del presente statuto, che i soggetti di cui al presente articolo: 
+ 
+                            
+                            
+                                a)
+                                
+                                    agiscano con modalita' conformi ai principi della legge istitutiva e rispettino gli standard internazionali in materia di diritti umani, responsabilita' sociale e tutela ambientale; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    non siano debitori verso la pubblica amministrazione per debiti certi, liquidi, esigibili, comprese le situazioni debitorie derivanti da revoca di contributi; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    non abbiano tenuto comportamenti connotati da grave negligenza o malafede nella realizzazione di progetti o nell'esercizio delle loro attivita'; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    abbiano finalita' statutarie connesse alla cooperazione allo sviluppo.
+
 L'Agenzia verifica il mantenimento dei requisiti di idoneita' delle organizzazioni non governative iscritte all'Anagrafe unica delle ONLUS in base all'articolo 32, comma 7, della legge istitutiva.
 L'Agenzia comunica all'Agenzia delle entrate la perdita da parte delle organizzazioni di cui al presente comma dei requisiti di idoneita' o di iscrizione all'elenco di cui all'articolo 26 della legge istitutiva, ai fini della cancellazione dall'Anagrafe unica delle ONLUS.
 
+4.
+                        
+                            
+                                L'Agenzia verifica lo svolgimento dell'attivita' di cooperazione allo sviluppo e solidarieta' internazionale, anche all'estero, in relazione all'applicazione dei benefici fiscali di cui all'articolo 26, comma 5, della legge istitutiva, nonche' in relazione al mantenimento dei requisiti necessari per l'iscrizione nell'Anagrafe unica delle ONLUS. A tal fine l'Agenzia: 
+ 
+                            
+                            
+                                a)
+                                
+                                    comunica all'Agenzia delle entrate i soggetti per i quali risulta il mancato svolgimento dell'attivita' di cooperazione allo sviluppo e solidarieta' internazionale; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    fornisce le informazioni richieste dall'Agenzia delle entrate nell'ambito dell'ordinaria attivita' di controllo; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    supporta, nell'ambito delle attivita' e finalita' di cui alla legge istitutiva, l'Agenzia delle entrate nella verifica delle attivita' svolte all'estero dalle ONLUS e dagli altri soggetti della cooperazione allo sviluppo.
+
 ## Art. 18. — Concessione di contributi
+
+1.
+                        
+                            
+                                Il Comitato congiunto stabilisce, nell'ambito della programmazione annuale di cui all'articolo 21, comma 3, della legge istitutiva, le risorse da destinare, mediante procedure comparative pubbliche, a iniziative promosse dai soggetti iscritti nell'elenco di cui all'articolo 26, comma 3, della legge istitutiva, e che: 
+ 
+                            
+                            
+                                a)
+                                
+                                    rispettano i principi fondamentali e le finalita' della legge istitutiva; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    sono in linea con gli indirizzi generali contenuti nel documento triennale e con gli impegni internazionali assunti dall'Italia; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    prevedono la partecipazione di una controparte locale idonea ad assicurare la sostenibilita'; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    prevedono un apporto finanziario del proponente, in misura stabilita dal Comitato congiunto.
+
+2.
+                        
+                            
+                                Entro sei mesi dall'entrata in vigore del presente statuto, il Comitato congiunto, su proposta del direttore, approva le procedure di cui all'articolo 26, comma 4, della legge istitutiva, secondo i seguenti criteri: 
+ 
+                            
+                            
+                                a)
+                                
+                                    previa approvazione del Comitato congiunto, che stabilisce le priorita' geografiche e settoriali, l'Agenzia indice annualmente una o piu' procedure di selezione di iniziative nei Paesi partner e di progetti di informazione ed educazione allo sviluppo; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    gli avvisi pubblici definiscono le modalita' e i termini per la presentazione dei progetti e le procedure di selezione; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    sui progetti da realizzare in tutto o in parte all'estero e' acquisito il parere dei capi missione competenti per territorio sulle condizioni politiche e di sicurezza; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    i progetti sono valutati da una commissione, nominata dal direttore, ai cui componenti non spetta alcun compenso, rimborso spese, gettone di presenza o emolumento comunque denominato; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    
+                                        ((LETTERA ABROGATA DALLA L. 27 DICEMBRE 2017, N. 205)); 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    lo svolgimento delle iniziative e l'utilizzazione dei relativi fondi sono rendicontati mediante rapporti descrittivi e contabili; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    l'Agenzia monitora lo svolgimento delle iniziative e verifica i risultati conseguiti.
 
 ## Art. 19. — Affidamento di iniziative
 
@@ -200,6 +742,45 @@ L'Agenzia adotta un codice di comportamento ai sensi dell'articolo 54 del decret
 Sullo schema di codice di comportamento e' acquisito, per il tramite del MAECI, il parere del Consiglio nazionale per la cooperazione allo sviluppo, fermo restando l'articolo 54, comma 5, del decreto legislativo 30 marzo 2001, n. 165.
 
 ## Art. 21. — Valutazione delle iniziative di cooperazione
+
+1.
+                        
+                            
+                                Il MAECI e l'Agenzia stipulano annualmente una convenzione, approvata dal Comitato congiunto, che regola il trasferimento alla DGCS delle risorse finanziarie per l'esecuzione del programma delle valutazioni, definito sulla base dei seguenti principi: 
+ 
+                            
+                            
+                                a)
+                                
+                                    conformita' a linee guida, approvate dal Comitato congiunto, che disciplinano, nel rispetto della normativa sui contratti pubblici, il ricorso a valutatori indipendenti esterni di comprovata esperienza nel settore; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    utilizzazione di un sistema di indicatori che misura l'efficacia sociale ed ambientale complessiva degli interventi, nel rispetto degli standard internazionali in materia; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    consultazione dell'Agenzia e delle competenti rappresentanze diplomatiche; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    coinvolgimento dei Paesi partner; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    coordinamento con gli altri donatori.
 
 I documenti di cui al presente articolo e i risultati delle valutazioni effettuate sono pubblicati nei siti istituzionali dell'Agenzia e del MAECI.
 

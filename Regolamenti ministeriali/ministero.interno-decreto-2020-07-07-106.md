@@ -7,8 +7,8 @@ urn: urn:nir:ministero.interno:decreto:2020-07-07;106
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:40Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -47,7 +47,50 @@ Le funzioni di segretario della commissione sono svolte da personale con qualifi
 
 Le prove di esame sono costituite da una prova scritta e da una prova orale. La prova scritta consiste nella stesura, senza l'ausilio di strumenti informatici, di un elaborato nelle materie indicate al comma 2.
 
+2.
+                        
+                            
+                                La prova scritta verte sulle seguenti materie: 
+ 
+                            
+                            
+                                a)
+                                
+                                    diritto amministrativo; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    contabilita' di Stato.
+
 Sono ammessi alla prova orale i candidati che abbiano riportato nella prova scritta una votazione non inferiore a 21/30 (ventuno/trentesimi).
+
+4.
+                        
+                            
+                                La prova orale verte, oltre che sulle materie di cui al comma 2, sulle seguenti materie: 
+ 
+                            
+                            
+                                a)
+                                
+                                    diritto costituzionale; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    elementi di diritto dell'Unione europea; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    ordinamento del Ministero dell'interno, con particolare riferimento al Dipartimento, anche con riguardo all'ordinamento del personale del Corpo nazionale.
 
 La prova orale si intende superata se il candidato ottiene una votazione non inferiore a 21/30 (ventuno/trentesimi).
 
@@ -56,6 +99,52 @@ La prova orale si intende superata se il candidato ottiene una votazione non inf
 Titoli e anzianita' di servizio
 
 La commissione esaminatrice valuta, in base alle categorie e ai punteggi indicati nel presente articolo, i seguenti titoli: titoli di studio, abilitazioni professionali, corsi di formazione e aggiornamento professionale, pubblicazioni e lavori originali; valuta, altresi', secondo i punteggi di cui al comma 7, l'anzianita' di effettivo servizio.
+
+2.
+                        
+                            
+                                I titoli di studio ammessi a valutazione, con i relativi punteggi, sono: 
+ 
+                            
+                            
+                                a)
+                                
+                                    lauree universitarie: punti 1,00; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    lauree magistrali: punti 1,50; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    master universitario di I livello: punti 0,30; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    master universitario di II livello: punti 0,50; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    diploma di specializzazione conseguito al termine di un corso di specializzazione istituito dalle universita': punti 0,75; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    dottorato di ricerca: punti 1,00.
 
 Sono valutabili, fra le classi di laurea magistrale, esclusivamente i titoli di studio diversi da quello considerato ai fini dell'inquadramento nel ruolo di appartenenza. I punteggi dei titoli di studio di cui al comma 2 sono fra loro cumulabili, ad eccezione di quelli di cui alle lettere a) e b) afferenti al medesimo corso di laurea. Il punteggio complessivo attribuibile ai titoli di studio e' pari ad un massimo di punti 2,50.
 
@@ -96,7 +185,64 @@ Le funzioni di segretario della commissione sono svolte da personale con qualifi
 
 Le prove di esame sono costituite da una prova scritta e da una prova orale. La prova scritta consiste nella stesura, senza l'ausilio di strumenti informatici, di un elaborato nelle materie indicate al comma 2.
 
+2.
+                        
+                            
+                                La prova scritta verte sulle seguenti materie: 
+ 
+                            
+                            
+                                a)
+                                
+                                    architettura, sviluppo e verifica di applicativi software e di reti di telecomunicazione; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    gestione dei sistemi di elaborazione dati e dei database management systems (D.B.M.S.).
+
 Sono ammessi alla prova orale i candidati che abbiano riportato nella prova scritta una votazione non inferiore a 21/30 (ventuno/trentesimi).
+
+4.
+                        
+                            
+                                La prova orale verte, oltre che sulle materie di cui al comma 2, sulle seguenti materie: 
+ 
+                            
+                            
+                                a)
+                                
+                                    informatizzazione della pubblica amministrazione, con particolare riferimento agli aspetti tecnici e al codice dell'amministrazione digitale; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    sicurezza informatica; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    elementi di diritto amministrativo; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    elementi di contabilita' di stato; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    ordinamento del Ministero dell'interno, con particolare riferimento al Dipartimento, anche con riguardo all'ordinamento del personale del Corpo nazionale.
 
 La prova orale si intende superata se il candidato ottiene una votazione non inferiore a 21/30 (ventuno/trentesimi).
 
@@ -105,6 +251,52 @@ La prova orale si intende superata se il candidato ottiene una votazione non inf
 Titoli e anzianita' di servizio
 
 La commissione esaminatrice valuta, in base alle categorie e ai punteggi indicati nel presente articolo, i seguenti titoli: titoli di studio, abilitazioni professionali, corsi di formazione e aggiornamento professionale, pubblicazioni e lavori originali; valuta, altresi', secondo i punteggi di cui al comma 7, l'anzianita' di effettivo servizio.
+
+2.
+                        
+                            
+                                I titoli di studio ammessi a valutazione, con i relativi punteggi, sono: 
+ 
+                            
+                            
+                                a)
+                                
+                                    lauree universitarie: punti 1,00; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    lauree magistrali: punti 1,50; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    master universitario di I livello: punti 0,30; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    master universitario di II livello: punti 0,50; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    diploma di specializzazione conseguito al termine di un corso di specializzazione istituito dalle universita': punti 0,75; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    dottorato di ricerca: punti 1,00.
 
 Sono valutabili, fra le classi di laurea magistrale, esclusivamente i titoli di studio diversi da quello considerato ai fini dell'inquadramento nel ruolo di appartenenza. I punteggi dei titoli di studio di cui al comma 2 sono fra loro cumulabili, ad eccezione di quelli di cui alle lettere a) e b) afferenti al medesimo corso di laurea. Il punteggio complessivo attribuibile ai titoli di studio e' pari ad un massimo di punti 2,50.
 
@@ -145,7 +337,71 @@ Le funzioni di segretario della commissione sono svolte da personale con qualifi
 
 Le prove di esame sono costituite da una prova scritta e da una prova orale.
 
+2.
+                        
+                            
+                                La prova scritta consiste nell'analisi di un caso di studio inerente a una situazione di emergenza con la stesura, senza l'ausilio di strumenti informatici, di: 
+ 
+                            
+                            
+                                a)
+                                
+                                    un articolo giornalistico, con numero massimo di battute prestabilito; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    un piano d'azione per la comunicazione in emergenza; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    un comunicato stampa e messaggistica da divulgare attraverso reti sociali virtuali.
+
 Sono ammessi alla prova orale i candidati che abbiano riportato nella prova scritta una votazione non inferiore a 21/30 (ventuno/trentesimi).
+
+4.
+                        
+                            
+                                La prova orale verte, oltre che sulla discussione del caso di studio oggetto della prova scritta, sulle seguenti materie: 
+ 
+                            
+                            
+                                a)
+                                
+                                    comunicazione pubblica e istituzionale e comunicazione in emergenza; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    organizzazione del Corpo nazionale per il coordinamento e la direzione degli interventi di soccorso e per il raccordo con il sistema nazionale di Protezione civile; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    diritto dell'informazione e della comunicazione; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    elementi di diritto amministrativo e di diritto costituzionale; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    ordinamento del Ministero dell'interno, con particolare riferimento al Dipartimento, anche con riguardo all'ordinamento del personale del Corpo nazionale.
 
 Nell'ambito della prova orale e' accertata la conoscenza della lingua straniera, scelta dal candidato all'atto della presentazione della domanda, tra quelle indicate nel bando di concorso, e la conoscenza dell'uso delle apparecchiature e delle applicazioni informatiche piu' diffuse.
 
@@ -156,6 +412,52 @@ La prova orale si intende superata se il candidato ottiene una votazione non inf
 Titoli e anzianita' di servizio
 
 La commissione esaminatrice valuta, in base alle categorie e ai punteggi indicati nel presente articolo, i seguenti titoli: titoli di studio, abilitazioni professionali, iscrizione all'elenco dei giornalisti pubblicisti, corsi di formazione e aggiornamento professionale, pubblicazioni e lavori originali; valuta, altresi', secondo i punteggi di cui al comma 8, l'anzianita' di effettivo servizio.
+
+2.
+                        
+                            
+                                I titoli di studio ammessi a valutazione, con i relativi punteggi, sono: 
+ 
+                            
+                            
+                                a)
+                                
+                                    lauree universitarie: punti 1,00; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    lauree magistrali: punti 1,50; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    master universitario di I livello: punti 0,30; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    master universitario di II livello: punti 0,50; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    diploma di specializzazione conseguito al termine di un corso di specializzazione istituito dalle universita': punti 0,75; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    dottorato di ricerca: punti 1,00.
 
 Sono valutabili, fra le classi di laurea magistrale, esclusivamente i titoli di studio diversi da quello considerato ai fini dell'inquadramento nel ruolo di appartenenza. I punteggi dei titoli di studio di cui al comma 2 sono fra loro cumulabili, ad eccezione di quelli di cui alle lettere a) e b) afferenti al medesimo corso di laurea. Il punteggio complessivo attribuibile ai titoli di studio e' pari ad un massimo di punti 2,50.
 

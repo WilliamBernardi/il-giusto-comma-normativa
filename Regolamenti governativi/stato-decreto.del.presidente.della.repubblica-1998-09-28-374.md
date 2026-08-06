@@ -8,8 +8,8 @@ codice_redazionale: 098G0426
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti governativi
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:10Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -47,7 +47,64 @@ Per lo svolgimento delle sue attivita' l'ISAE ha l'accesso, mediante specifici p
 
 ## Art. 3. — Fonti di finanziamento
 
+1.
+                    
+                        
+                            Al conseguimento dei fini istituzionali l'Istituto provvede:
+ 
+                        
+                        
+                            a)
+                            
+                                con il contributo annuo dello Stato, determinato con la legge finanziaria;
+
+                            
+                        
+                        
+                            b)
+                            
+                                con i contributi di amministrazioni ed enti pubblici e privati, nonche' di organizzazioni internazionali;
+
+                            
+                        
+                        
+                            c)
+                            
+                                con i redditi di beni costituenti il proprio patrimonio;
+
+                            
+                        
+                        
+                            d)
+                            
+                                con i proventi derivanti dalle attivita' di promozione, consulenza e collaborazione con soggetti pubblici e privati, ivi comprese le risorse finanziarie aggiuntive eventualmente derivanti dall'inserimento in programmi di ricerca nazionali e internazionali ai sensi del decreto legislativo 5 giugno 1998, n. 204, nonche' dalla diffusione delle proprie pubblicazioni.
+
 ## Art. 4. — Organi dell'Istituto
+
+1.
+                    
+                        
+                            Gli organi dell'Istituto, nominati ai sensi degli articoli 5, 6 e 8, sono:
+ 
+                        
+                        
+                            a)
+                            
+                                il presidente;
+
+                            
+                        
+                        
+                            b)
+                            
+                                il comitato amministrativo;
+
+                            
+                        
+                        
+                            c)
+                            
+                                il collegio dei revisori dei conti.
 
 Il presidente e i componenti degli organi collegiali dell'Istituto durano in carica quattro anni e possono essere confermati una sola volta.
 
@@ -57,9 +114,87 @@ Al presidente e ai componenti degli organi collegiali previsti dal presente rego
 
 Il presidente, scelto tra persone di alta qualificazione scientifica nelle materie di competenza dell'Istituto, e' nominato ai sensi dell'articolo 6, comma 2, del decreto legislativo 5 giugno 1998, n. 204.
 
+2.
+                    
+                        
+                            Il presidente:
+ 
+                        
+                        
+                            a)
+                            
+                                ha la rappresentanza legale dell'ente;
+
+                            
+                        
+                        
+                            b)
+                            
+                                predispone ed aggiorna il programma di ricerca dell'Istituto, prioritariamente in base alle direttive del Ministro vigilante, e ne dispone l'esecuzione;
+
+                            
+                        
+                        
+                            c)
+                            
+                                assicura l'unita' di indirizzo delle attivita' dell'ente;
+
+                            
+                        
+                        
+                            d)
+                            
+                                convoca e presiede il comitato amministrativo di cui all'articolo 6 e provvede nelle materie e per gli atti delegati dal comitato stesso, ovvero nei casi d'urgente necessita', salva ratifica da parte dello stesso organo nella prima riunione successiva;
+
+                            
+                        
+                        
+                            e)
+                            
+                                esercita ogni competenza non attribuita espressamente ad altri organi dalla legge, dai regolamenti e dallo statuto.
+
 ## Art. 6. — Il comitato amministrativo
 
 Il comitato amministrativo e' composto, oltre che dal presidente dell'Istituto, da otto membri, nominati con decreto del Presidente del Consiglio dei Ministri, su proposta del Ministro del tesoro, del bilancio e della programmazione economica. Alle riunioni dell'organo partecipa il direttore generale.
+
+2.
+                    
+                        
+                            Il comitato svolge funzioni di indirizzo e di programmazione delle attivita' dell'Istituto e di monitoraggio e verifica sulla loro esecuzione, assicurando prioritariamente l'attuazione degli indirizzi delle direttive generali del Ministro vigilante. In particolare:
+ 
+                        
+                        
+                            a)
+                            
+                                delibera lo statuto e le relative modifiche con la maggioranza assoluta dei suoi componenti;
+
+                            
+                        
+                        
+                            b)
+                            
+                                verifica la compatibilita' finanziaria dei programmi di attivita';
+
+                            
+                        
+                        
+                            c)
+                            
+                                delibera i bilanci preventivi e i conti consuntivi;
+
+                            
+                        
+                        
+                            d)
+                            
+                                delibera la pianta organica, il regolamento di amministrazione e contabilita' e gli atti organizzativi e regolamentari generali;
+
+                            
+                        
+                        
+                            e)
+                            
+                                nomina il direttore generale, su proposta del presidente.
 
 ## Art. 7. — Controllo e vigilanza
 

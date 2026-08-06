@@ -8,8 +8,8 @@ codice_redazionale: 000G0376
 vigente: true
 source: normattiva-opendata
 collection: DPR
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:47:50Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -24,6 +24,32 @@ Udito il parere del Consiglio di Stato, espresso dalla sezione consultiva per gl
 Sulla proposta del Ministro dei trasporti e della navigazione e del Ministro dei lavori pubblici;
 
 ## Art. 1.
+
+1.
+                    
+                        
+                            L'Appendice X al titolo III del rego1amento di esecuzione e di attuazione del nuovo codice della strada, approvato con decreto del Presidente della Repubblica 16 dicembre 1992, n. 495, e' modificata come segue:
+ 
+                        
+                        
+                            a)
+                            
+                                dopo il comma 1 e' inserito il seguente:
+ "1-bis. Qualora intendano effettuare la revisione dei veicoli a due ruote, le imprese e i consorzi di cui al comma 1 devono possedere, in aggiunta alle attrezzature e strumentazioni indicate al comma 1 anche la seguente apparecchiatura:
+ banco prova freni: apparecchiatura che consente di eseguire la verifica delle condizioni di efficienza dei dispositivi di frenatura dei ciclomotori e motoveicoli a due ruote misurando su ogni ruota la forza di frenatura. I banchi prova freni devono avere:
+ a) carico ammissibile per ruota non inferiore a 5.000 N;
+ b) sistema di misurazione elettronico;
+ c) stampante dei dati misurati;
+ d) fondo scala di misura non inferiore a 3.000 N;
+ e) sistema di pesatura che permetta di individuare la massa su ogni singola ruota con portata di almeno 5.000 N.";
+
+                            
+                        
+                        
+                            b)
+                            
+                                il comma 2 e' sostituito dal seguente:
+ "2. Le apparecchiature indicare alle lettere a), b), c), e), f) e g) del comma 1, nonche', quella di cui al comma 1-bis, devono rispondere altresi' alle caratteristiche tecnico-funzionali dettate dalle tabelle di unificazione a carattere definitivo, approvate dal Ministero dei trasporti e della navigazione. Dette tabelle indicano anche le modalita' di utilizzazione delle apparecchiature medesime.".
 
 ## Art. 2.
 

@@ -10,7 +10,7 @@ source: normattiva-opendata
 collection: Atti di recepimento direttive UE
 vigenza_date: 2025-12-18
 zip_date: 2026-07-30
-fetched_at: 2026-08-02T09:40:51Z
+fetched_at: 2026-07-30
 ---
 
 DECRETO LEGISLATIVO
@@ -32,6 +32,309 @@ Sulla proposta del Ministro per le politiche comunitarie e del Ministro della sa
 
 ## Art. 1. — Definizioni
 
+1.
+                        
+                            
+                                Ai fini del presente decreto, valgono le seguenti definizioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    prodotto medicinale o medicinale, di seguito indicato con il termine "medicinale": 
+ 1) ogni sostanza o associazione di sostanze presentata come avente proprieta' curative o profilattiche delle malattie umane; 
+ 2) ogni sostanza o associazione di sostanze che puo' essere utilizzata sull'uomo o somministrata all'uomo allo scopo di ripristinare, correggere o modificare funzioni fisiologiche, esercitando un'azione farmacologica, immunologica o metabolica, ovvero di stabilire una diagnosi medica; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    sostanza: ogni materia, indipendentemente dall'origine; tale origine puo' essere: 
+ 1) umana, come: il sangue umano e suoi derivati; 
+ 2) animale, come: microrganismi, animali interi, parti di organi, secrezioni animali, tossine, sostanze ottenute per estrazione, prodotti derivati dal sangue; 
+ 3) vegetale, come: microrganismi, piante, parti di piante, secrezioni vegetali, sostanze ottenute per estrazione; 
+ 4) chimica, come: elementi, materie chimiche naturali e prodotti chimici di trasformazione e di sintesi; 
+
+                                
+                            
+                            
+                                b-bis)
+                                
+                                    sostanza attiva: qualsiasi sostanza o miscela di sostanze destinata a essere utilizzata nella produzione di un medicinale e che, se impiegata nella produzione di quest'ultimo, diventa un principio attivo di detto medicinale inteso a esercitare un'azione farmacologica, immunologica o metabolica al fine di ripristinare, correggere o modificare funzioni fisiologiche, ovvero a stabilire una diagnosi medica; 
+
+                                
+                            
+                            
+                                b-ter)
+                                
+                                    eccipiente: qualsiasi componente di un medicinale diverso dalla sostanza attiva e dal materiale di imballaggio; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    medicinale immunologico: ogni medicinale costituito da vaccini, tossine, sieri o allergeni. I vaccini, tossine o sieri comprendono in particolare: gli agenti impiegati allo scopo di indurre una immunita' attiva o un'immunita' passiva e gli agenti impiegati allo scopo di diagnosticare lo stato d'immunita'. Gli allergeni sono medicinali che hanno lo scopo di individuare o indurre una modificazione acquisita specifica della risposta immunitaria verso un agente allergizzante; 
+
+                                
+                            
+                            
+                                c-bis)
+                                
+                                    medicinale per terapia avanzata: un prodotto quale definito all'articolo 2 del regolamento (CE) n. 1394/2007 del Parlamento europeo e del Consiglio, del 13 novembre 2007, sui medicinali per terapie avanzate. 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    medicinale omeopatico: ogni medicinale ottenuto a partire da sostanze denominate materiali di partenza per preparazioni omeopatiche o ceppi omeopatici, secondo un processo di produzione omeopatico descritto dalla farmacopea europea o, in assenza di tale descrizione, dalle farmacopee utilizzate ufficialmente negli Stati membri della Comunita' europea; un medicinale omeopatico puo' contenere piu' sostanze; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    radiofarmaco: qualsiasi medicinale che, quando e' pronto per l'uso, include uno o piu' radionuclidi (isotopi radioattivi) incorporati a scopo sanitario; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    generatore di radionuclidi: qualsiasi sistema che include un radionuclide progenitore determinato da cui viene prodotto un radionuclide discendente che viene quindi rimosso per eluizione o con qualsiasi altro metodo ed usato in un radiofarmaco; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    kit: qualsiasi preparazione da ricostituire o combinare con radionuclidi nel radiofarmaco finale, di solito prima della somministrazione; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    precursore di radionuclidi: qualsiasi altro radionuclide prodotto per essere utilizzato quale tracciante di un'altra sostanza prima della somministrazione; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    medicinali derivati dal sangue o dal plasma umani: medicinali a base di componenti del sangue preparati industrialmente in stabilimenti pubblici o privati; tali medicinali comprendono in particolare l'albumina, i fattori della coagulazione e le immunoglobuline di origine umana; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    reazione avversa: la reazione, nociva e non intenzionale, ad un medicinale impiegato alle dosi normalmente somministrate all'uomo a scopi profilattici, diagnostici o terapeutici o per ripristinarne, correggerne o modificarne le funzioni fisiologiche; 
+
+                                
+                            
+                            
+                                m)
+                                
+                                    reazione avversa grave: la reazione avversa che provoca il decesso di un individuo, o ne mette in pericolo la vita, ne richiede o prolunga il ricovero ospedaliero, provoca disabilita' o incapacita' persistente o significativa o comporta un'anomalia congenita o un difetto alla nascita; 
+
+                                
+                            
+                            
+                                n)
+                                
+                                    reazione avversa inattesa: la reazione avversa di cui non sono previsti nel riassunto delle caratteristiche del prodotto la natura, la gravita' o l'esito; 
+
+                                
+                            
+                            
+                                o)
+                                
+                                    rapporti periodici di aggiornamento sulla sicurezza: i rapporti periodici che contengono le informazioni specificate nell'articolo 130; 
+
+                                
+                            
+                            
+                                p)
+                                
+                                    studio sulla sicurezza dei medicinali dopo l'autorizzazione: lo studio farmacoepidemiologico o la sperimentazione clinica effettuati conformemente alle condizioni stabilite all'atto dell'autorizzazione all'immissione in commercio allo scopo di identificare o quantificare un rischio per la sicurezza, correlato ad un medicinale per il quale e' gia' stata rilasciata un'autorizzazione; 
+
+                                
+                            
+                            
+                                q)
+                                
+                                    abuso di medicinali: l'uso volutamente eccessivo, prolungato o sporadico, di medicinali correlato ad effetti dannosi sul piano fisico o psichico; 
+
+                                
+                            
+                            
+                                r)
+                                
+                                    distribuzione all'ingrosso di medicinali: qualsiasi attivita' consistente nel procurarsi, detenere, fornire o esportare medicinali, salvo la fornitura di medicinali al pubblico; queste attivita' sono svolte con i produttori o i loro depositari, con gli importatori, con gli altri distributori all'ingrosso e nei confronti dei farmacisti o degli altri soggetti autorizzati a fornire medicinali al pubblico; 
+
+                                
+                            
+                            
+                                r-bis)
+                                
+                                    brokeraggio di medicinali: qualsiasi attivita' in relazione alla vendita o all'acquisto di medicinali, ad eccezione della distribuzione all'ingrosso, che non include la detenzione e che consiste nella negoziazione da posizione indipendente e per conto di un'altra persona fisica o giuridica; 
+
+                                
+                            
+                            
+                                s)
+                                
+                                    obbligo di servizio pubblico: l'obbligo per i grossisti di garantire in permanenza un assortimento di medicinali sufficiente a rispondere alle esigenze di un territorio geograficamente determinato , nei limiti di cui i predetti medicinali siano forniti dai titolari di AIC, e di provvedere alla consegna delle forniture richieste in tempi brevissimi su tutto il territorio in questione ; a tal fine, non possono essere sottratti, alla distribuzione e alla vendita per il territorio nazionale, i medicinali per i quali sono stati adottati specifici provvedimenti al fine di prevenire o limitare stati di carenza o indisponibilita', anche temporanee, sul mercato o in assenza di valide alternative terapeutiche ((; al medesimo fine, l'Agenzia italiana del farmaco, dandone previa notizia al Ministero della salute, pubblica un provvedimento di blocco temporaneo delle esportazioni di farmaci nel caso in cui si renda necessario per prevenire o limitare stati di carenza o indisponibilita')); 
+
+                                
+                            
+                            
+                                t)
+                                
+                                    rappresentante del titolare dell'autorizzazione all'immissione in commercio: la persona designata dal titolare dell'autorizzazione all'immissione in commercio per rappresentarlo nello Stato membro interessato come rappresentante locale; 
+
+                                
+                            
+                            
+                                u)
+                                
+                                    prescrizione medica: ogni ricetta medica rilasciata da un professionista autorizzato a prescrivere medicinali; 
+
+                                
+                            
+                            
+                                v)
+                                
+                                    denominazione del medicinale: la denominazione che puo' essere un nome di fantasia non confondibile con la denominazione comune oppure una denominazione comune o scientifica accompagnata da un marchio o dal nome del titolare dell'autorizzazione all'immissione in commercio; 
+
+                                
+                            
+                            
+                                z)
+                                
+                                    denominazione comune: la denominazione comune internazionale raccomandata dall'Organizzazione mondiale della sanita' (OMS), di norma nella versione ufficiale italiana o, se questa non e' ancora disponibile, nella versione inglese; soltanto, in mancanza di questa, e' utilizzata la denominazione comune consuetudinaria; 
+
+                                
+                            
+                            
+                                aa)
+                                
+                                    dosaggio del medicinale: il contenuto in sostanza attiva espresso, a seconda della forma farmaceutica, in quantita' per unita' posologica, per unita' di volume o di peso; 
+
+                                
+                            
+                            
+                                bb)
+                                
+                                    confezionamento primario: il contenitore o qualunque altra forma di confezionamento che si trova a diretto contatto con il medicinale; 
+
+                                
+                            
+                            
+                                cc)
+                                
+                                    imballaggio esterno o confezionamento secondario: l'imballaggio in cui e' collocato il confezionamento primario; 
+
+                                
+                            
+                            
+                                dd)
+                                
+                                    etichettatura: le informazioni riportate sull'imballaggio esterno o sul confezionamento primario; 
+
+                                
+                            
+                            
+                                ee)
+                                
+                                    foglio illustrativo: il foglio che reca informazioni destinate all'utente e che accompagna il medicinale; 
+
+                                
+                            
+                            
+                                ff)
+                                
+                                    EMEA (European Medicines Agency): l'Agenzia europea per i medicinali istituita dal regolamento (CE) n. 726/2004 del Parlamento europeo e del Consiglio, del 31 marzo 2004, che istituisce procedure comunitarie per l'autorizzazione e la sorveglianza dei medicinali per uso umano e veterinario, e che istituisce l'agenzia europea per i medicinali, di seguito denominato: "regolamento (CE) n. 726/2004"; 
+
+                                
+                            
+                            
+                                gg)
+                                
+                                    rischi connessi all'utilizzazione del medicinale: 
+ 1) ogni rischio connesso alla qualita', alla sicurezza o all'efficacia del medicinale per la salute del paziente o la salute pubblica; 
+ 2) ogni rischio di effetti indesiderabili sull'ambiente; 
+
+                                
+                            
+                            
+                                hh)
+                                
+                                    rapporto rischio/beneficio: una valutazione degli effetti terapeutici positivi del medicinale rispetto ai rischi definiti alla lettera gg), numero 1); 
+
+                                
+                            
+                            
+                                ii)
+                                
+                                    medicinale tradizionale di origine vegetale o fitoterapico tradizionale: medicinale che risponde ai requisiti di cui all'articolo 21, comma 1; 
+
+                                
+                            
+                            
+                                ll)
+                                
+                                    medicinale di origine vegetale o fitoterapico: ogni medicinale che contiene esclusivamente come sostanze attive una o piu' sostanze vegetali o una o piu' preparazioni vegetali, oppure una o piu' sostanze vegetali in associazione ad una o piu' preparazioni vegetali; 
+
+                                
+                            
+                            
+                                mm)
+                                
+                                    sostanze vegetali: tutte le piante, le parti di piante, le alghe, i funghi e i licheni, interi, a pezzi o tagliati, in forma non trattata, di solito essiccata, ma talvolta anche allo stato fresco.
+Sono altresi' considerati sostanze vegetali taluni essudati non sottoposti ad un trattamento specifico. Le sostanze vegetali sono definite in modo preciso in base alla parte di pianta utilizzata e alla denominazione botanica secondo la denominazione binomiale (genere, specie, varieta' e autore); 
+
+                                
+                            
+                            
+                                nn)
+                                
+                                    preparazioni vegetali: preparazioni ottenute sottoponendo le sostanze vegetali a trattamenti quali estrazione, distillazione, spremitura, frazionamento, purificazione, concentrazione o fermentazione. In tale definizione rientrano anche sostanze vegetali triturate o polverizzate, tinture, estratti, olii essenziali, succhi ottenuti per spremitura ed essudati lavorati; 
+
+                                
+                            
+                            
+                                nn-bis)
+                                
+                                    medicinale falsificato: fatta eccezione per i prodotti con difetti di qualita' non intenzionali e delle violazioni dei diritti di proprieta' intellettuale, qualsiasi medicinale che comporta una falsa rappresentazione rispetto a: 
+ 1) la sua identita', compresi l'imballaggio e l'etichettatura, la denominazione o la composizione, in relazione a uno qualsiasi dei componenti, compresi gli eccipienti, e il relativo dosaggio; 
+ 2) la sua origine, compresi il produttore, il paese di produzione, il paese di origine e il titolare dell'autorizzazione all'immissione in commercio; 
+ 3) la sua tracciabilita', compresi i registri e i documenti relativi ai canali di distribuzione utilizzati; 
+
+                                
+                            
+                            
+                                oo)
+                                
+                                    gas medicinale: ogni medicinale costituito da una o piu' sostanze attive gassose miscelate o meno ad eccipienti gassosi; 
+
+                                
+                            
+                            
+                                pp)
+                                
+                                    AIFA: Agenzia italiana del farmaco istituita dall'articolo 48, comma 2, del decreto-legge 30 settembre 2003, n. 269, convertito, con modificazioni, dalla legge 24 novembre 2003, n. 326; 
+
+                                
+                            
+                            
+                                qq)
+                                
+                                    AIC: autorizzazione all'immissione in commercio.
+
 ## - Titolo II CAMPO DI APPLICAZIONE
 
 ## Art. 2. — Campo di applicazione; prevalenza della disciplina dei medicinali su altre discipline
@@ -49,6 +352,59 @@ I medicinali destinati unicamente all'esportazione, le sostanze attive, gli ecci
 Le disposizioni sulla produzione dei medicinali contenute nel titolo IV, quelle del titolo VII e quelle del titolo XI si estendono, per quanto applicabili, alle ((sostanze attive)).
 
 ## Art. 3. — Fattispecie escluse dalla disciplina
+
+1.
+                        
+                            
+                                Le disposizioni del presente decreto non si applicano: 
+ 
+                            
+                            
+                                a)
+                                
+                                    ai medicinali preparati in farmacia in base ad una prescrizione medica destinata ad un determinato paziente, detti "formule magistrali", che restano disciplinati dall'articolo 5 del decreto-legge 17 febbraio 1998, n. 23, convertito, con modificazioni, dalla legge 8 aprile 1998, n. 94; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    ai medicinali preparati in farmacia in base alle indicazioni della Farmacopea europea o delle Farmacopee nazionali in vigore negli Stati membri dell'Unione europea, detti "formule officinali", e destinati ad essere forniti direttamente ai pazienti serviti da tale farmacia; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    ai medicinali destinati alle prove di ricerca e sviluppo, fatte salve le disposizioni di cui all'articolo 53, commi 13 e 14, e quelle del capo II del titolo IV del presente decreto e fermo restando quanto previsto dal decreto legislativo del 24 giugno 2003, n. 211, relativo all'applicazione della buona pratica clinica nell'esecuzione della sperimentazione clinica di medicinali per uso umano; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    ai prodotti intermedi destinati ad ulteriore trasformazione da parte di un produttore autorizzato, fatto salvo il disposto dell'articolo 2, comma 3; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    ai radionuclidi utilizzati in forma preconfezionata; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    al sangue intero, al plasma, alle cellule ematiche di origine umana, eccettuato il plasma nella cui produzione interviene un processo industriale; 
+
+                                
+                            
+                            
+                                f-bis)
+                                
+                                    a qualsiasi medicinale per terapia avanzata, quale definito nel regolamento (CE)n. 1394/2007 del Parlamento europeo e del Consiglio, del 13 novembre 2007, preparato su base non ripetitiva, conformemente a specifici requisiti di qualita` e utilizzato in un ospedale, sotto l'esclusiva responsabilita` professionale di un medico, in esecuzione di una prescrizione medica individuale per un prodotto specifico destinato ad un determinato paziente. La produzione di questi prodotti e` autorizzata dall'AIFA ((secondo specifiche tecniche stabilite con decreto del Ministro della salute, sentita l'AIFA)). La stessa Agenzia provvede affinche´ la tracciabilita` nazionale e i requisiti di farmacovigilanza, nonche´ gli specifici requisiti di qualita` di cui alla presente lettera, siano equivalenti a quelli previsti a livello comunitario per quanto riguarda i medicinali per terapie avanzate per i quali e` richiesta l'autorizzazione a norma del regolamento (CE) n. 726/2004.
 
 ## Art. 4. — Salvaguardia delle norme sulla protezione radiologica; materie escluse dal campo di applicazione
 
@@ -94,6 +450,138 @@ Per ottenere una AIC il richiedente presenta una domanda all'AIFA, ad eccezione 
 
 Una AIC puo' essere rilasciata esclusivamente a richiedenti stabiliti sul territorio comunitario.
 
+3.
+                        
+                            
+                                La domanda contiene le informazioni e documentazioni sotto elencate le quali sono presentate conformemente all'allegato 1 al presente decreto, di seguito indicato come «allegato tecnico sulla domanda di AIC»: 
+ 
+                            
+                            
+                                a)
+                                
+                                    nome o ragione sociale e domicilio o sede legale del richiedente e del produttore, se diverso dal primo; in caso di coproduzione, dovranno essere specificate, oltre alle sedi degli stabilimenti, italiani o esteri, le fasi di produzione e di controllo di pertinenza di ciascuno di essi; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    denominazione del medicinale; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    composizione qualitativa e quantitativa del medicinale riferita a tutti i componenti riportati utilizzando la denominazione comune; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    valutazione dei rischi che il medicinale puo' comportare per l'ambiente. Tale impatto deve essere studiato e devono essere previste, caso per caso, misure specifiche per limitarlo; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    descrizione del metodo di fabbricazione; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    indicazioni terapeutiche, controindicazioni e reazioni avverse; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    posologia, forma farmaceutica, modo e via di somministrazione e durata presunta di stabilita'; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    motivi delle misure di precauzione e di sicurezza da adottare per la conservazione del medicinale, per la sua somministrazione ai pazienti e per l'eliminazione dei residui, unitamente all'indicazione dei rischi potenziali che il medicinale presenta per l'ambiente; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    descrizione dei metodi di controllo utilizzati dal produttore; 
+
+                                
+                            
+                            
+                                i-bis)
+                                
+                                    una dichiarazione sottoscritta del produttore del medicinale di aver verificato il rispetto, da parte del produttore della sostanza attiva, dei principi e degli orientamenti sulle norme di buona fabbricazione eseguendo delle verifiche, conformemente all'articolo 51, comma 1, lettera e). La dichiarazione sottoscritta contiene il riferimento alla data della verifica e l'esito della verifica a conferma che la produzione e' conforme ai principi e agli orientamenti sulle norme di buona fabbricazione;
+                                
+                            
+                            
+                                l)
+                                
+                                    risultati: 
+ l) delle prove farmaceutiche (chimico-fisiche, biologiche o microbiologiche); 
+ 2) delle prove precliniche (tossicologiche e farmacologiche); 
+ 3) delle sperimentazioni cliniche; 
+
+                                
+                            
+                            
+                                m)
+                                
+                                    descrizione dettagliata del sistema di farmacovigilanza e, se del caso, del sistema di gestione dei rischi che sara' realizzato dal richiedente; 
+
+                                
+                            
+                            
+                                n)
+                                
+                                    una dichiarazione che certifica che tutte le sperimentazioni cliniche eseguite al di fuori dell'Unione europea sono conformi ai requisiti etici contenuti nel decreto legislativo 24 giugno 2003, n. 211; 
+
+                                
+                            
+                            
+                                o)
+                                
+                                    un riassunto delle caratteristiche del prodotto redatto a norma dell'articolo 14, un modello dell'imballaggio esterno, con le indicazioni di cui all'articolo 73, e del confezionamento primario del medicinale, con le indicazioni di cui all'articolo 74, nonche' il foglio illustrativo conforme all'articolo 77; 
+
+                                
+                            
+                            
+                                p)
+                                
+                                    un idoneo documento dal quale risulta che il produttore ha ottenuto nel proprio Paese l'autorizzazione a produrre medicinali; 
+
+                                
+                            
+                            
+                                q)
+                                
+                                    copia di ogni AIC relativa al medicinale in domanda, ottenuta in un altro Stato membro della Comunita' europea o in un Paese terzo unitamente all'elenco degli Stati membri della Comunita' europea, ove e' in corso l'esame di una corrispondente domanda, ed alla copia del riassunto delle caratteristiche del prodotto e del foglio illustrativo, gia' approvati dallo Stato membro o solo proposti dal richiedente, nonche' copia della documentazione dettagliata recante i motivi di eventuali dinieghi dell'autorizzazione, sia nella Comunita' europea che in un Paese terzo; 
+
+                                
+                            
+                            
+                                r)
+                                
+                                    copia dell'assegnazione al medicinale della qualifica di medicinale orfano a norma del regolamento (CE) n. 141/2000 del Parlamento europeo e del Consiglio, del 16 dicembre 1999, concernente i medicinali orfani, unitamente a copia del relativo parere dell'EMEA; 
+
+                                
+                            
+                            
+                                s)
+                                
+                                    certificazione che il richiedente dispone di un responsabile qualificato per la farmacovigilanza e dei mezzi necessari a segnalare eventuali reazioni avverse, che si sospetta si siano verificate nella Comunita' europea o in un Paese terzo.
+
 Le informazioni di cui alla lettera q) del comma 3 sono aggiornate ogniqualvolta intervengono modifiche nella documentazione o nelle situazioni di diritto e di fatto richiamate nella lettera medesima.
 
 I documenti e le informazioni relativi ai risultati delle prove farmaceutiche e precliniche e delle sperimentazioni cliniche, di cui al comma 3, lettera l), sono accompagnati da riassunti dettagliati ai sensi dell'articolo 15.
@@ -101,6 +589,24 @@ I documenti e le informazioni relativi ai risultati delle prove farmaceutiche e 
 Le disposizioni del presente articolo e quelle dell'allegato tecnico sulla domanda di AIC possono essere modificate e integrate con decreto del Ministro della salute, in conformita' alle direttive e alle raccomandazioni della Comunita' europea.
 
 ## Art. 9. — Informazioni e documenti aggiuntivi a corredo della domanda di AIC di generatori di radionuclidi
+
+1.
+                        
+                            
+                                La domanda di AIC di un generatore di radionuclidi e' corredata anche delle informazioni e dei documenti seguenti:
+ 
+                            
+                            
+                                a)
+                                
+                                    una descrizione generale del sistema con una dettagliata descrizione dei componenti dello stesso suscettibili di influire sulla composizione o sulla qualita' della preparazione del radionuclide derivato;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le caratteristiche qualitative e quantitative dell'eluato o del sublimato.
 
 ## Art. 10. — Domande semplificate di AIC per i medicinali generici
 
@@ -112,6 +618,24 @@ Se il medicinale di riferimento non e' stato autorizzato in Italia ma in un altr
 L'AIFA chiede all'autorita' competente dell'altro Stato membro di trasmettere, entro un mese, la conferma che il medicinale di riferimento e' autorizzato o e' stato autorizzato, insieme alla composizione completa del medicinale di riferimento e, se necessario, ad altra documentazione pertinente, con riferimento, in particolare, alla data dell'AIC rilasciata nello Stato estero.
 
 Il periodo di dieci anni di cui al comma 2 e' esteso ad un massimo di undici anni se durante i primi otto anni di tale decennio il titolare dell'AIC ottiene un'autorizzazione per una o piu' indicazioni terapeutiche nuove che, dalla valutazione scientifica preliminare all'autorizzazione, sono state ritenute tali da apportare un beneficio clinico rilevante rispetto alle terapie esistenti.
+
+5.
+                        
+                            
+                                Ai fini del presente articolo si intende per:
+ 
+                            
+                            
+                                a)
+                                
+                                    medicinale di riferimento: un medicinale autorizzato a norma dell'articolo 6 nel rispetto delle prescrizioni dell'articolo 8;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    medicinale generico: un medicinale che ha la stessa composizione qualitativa e quantitativa di sostanze attive e la stessa forma farmaceutica del medicinale di riferimento nonche' una bioequivalenza con il medicinale di riferimento dimostrata da studi appropriati di biodisponibilita'. I vari sali, esteri, eteri, isomeri, miscele di isomeri, complessi o derivati di una sostanza attiva sono considerati la stessa sostanza attiva se non presentano, in base alle informazioni supplementari fornite dal richiedente, differenze significative, ne' delle proprieta' relative alla sicurezza, ne' di quelle relative all'efficacia. Agli effetti della presente lettera, le varie forme farmaceutiche orali a rilascio immediato sono considerate una stessa forma farmaceutica. Il richiedente puo' non presentare studi di biodisponibilita' se puo' provare che il medicinale generico soddisfa i criteri pertinenti definiti nelle appropriate linee guida. Il medicinale generico e' definito equivalente ai sensi dell'articolo 1-bis del decreto-legge 27 maggio 2005, n. 87, convertito, con modificazioni, dalla legge 26 luglio 2005, n. 149.
 
 Se il medicinale non rientra nella definizione di medicinale generico di cui al comma 5, lettera b), o se non e' possibile dimostrare la bioequivalenza con studi di biodisponibilita', oppure in caso di cambiamenti della o delle sostanze attive, delle indicazioni terapeutiche, del dosaggio, della forma farmaceutica o della via di somministrazione rispetto a quelli del medicinale di riferimento, il richiedente e' tenuto a fornire i risultati delle prove precliniche o delle sperimentazioni cliniche appropriate.
 
@@ -155,6 +679,31 @@ I riassunti dettagliati sono parte del dossier che il richiedente presenta all'A
 
 ## Art. 16. — Procedura semplificata di registrazione
 
+1.
+                        
+                            
+                                Un medicinale omeopatico e' soggetto, ai fini dell'immissione in commercio, ad una procedura semplificata di registrazione, soltanto se il medicinale:
+ 
+                            
+                            
+                                a)
+                                
+                                    e' destinato ad essere somministrato per via orale od esterna;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    non reca specifiche indicazioni terapeutiche sull'etichetta o tra le informazioni di qualunque tipo che si riferiscono al prodotto;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    ha un grado di diluizione tale da garantirne la sicurezza; in ogni caso il medicinale non puo' contenere piu' di una parte per diecimila di tintura madre, ne' piu' di 1/100 della piu' piccola dose eventualmente utilizzata nell'allopatia per le sostanze attive la cui presenza in un medicinale allopatico comporta l'obbligo di presentare una ricetta medica.
+
 Con decreto del Ministro della salute sono adottati eventuali nuovi parametri concernenti la sicurezza del medicinale omeopatico in sostituzione o a integrazione di quelli previsti dalla lettera c) del comma 1, conformemente a quanto stabilito dalla Comunita' europea.
 
 Al momento della registrazione, l'AIFA stabilisce il regime di fornitura del medicinale.
@@ -164,6 +713,66 @@ Le disposizione degli articoli 8, comma 3, 29, comma 1, da 33 a 40, 52, comma 8,
 ## Art. 17. — Contenuto della domanda di registrazione semplificata
 
 La domanda di registrazione semplificata puo' riguardare una serie di medicinali ottenuti dagli stessi materiali di partenza per preparazioni omeopatiche o ceppi omeopatici.
+
+2.
+                        
+                            
+                                In ogni caso la domanda di registrazione semplificata, da presentare conformemente ad uno specifico modello stabilito dall'AIFA entro tre mesi dalla data di entrata in vigore del presente decreto e pubblicato nella Gazzetta Ufficiale della Repubblica italiana, deve contenere ed essere corredata dei seguenti dati e documenti diretti, in particolare, a dimostrare la qualita' farmaceutica e l'omogeneita' dei lotti di produzione:
+ 
+                            
+                            
+                                a)
+                                
+                                    denominazione scientifica del materiale o dei materiali di partenza per preparazioni omeopatiche o ceppi omeopatici o altra denominazione figurante in una farmacopea, con l'indicazione delle diverse vie di somministrazione, forme farmaceutiche e gradi di diluizione da registrare;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    denominazione propria della tradizione omeopatica;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    dossier che descrive le modalita' con cui si ottiene e si controlla ciascun materiale di partenza per preparazioni omeopatiche o ceppo omeopatico e ne dimostra l'uso omeopatico mediante un'adeguata bibliografia;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    documentazione concernente i metodi di produzione e di controllo per ogni forma farmaceutica e una descrizione dei metodi di diluizione e dinamizzazione;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    autorizzazione alla produzione dei medicinali oggetto della domanda;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    copia di ogni registrazione o autorizzazione eventualmente ottenuta per lo stesso medicinale in altri Stati membri della Comunita' europea;
+
+                                
+                            
+                            
+                                g)
+                                
+                                    un modello dell'imballaggio esterno e del confezionamento primario dei medicinali da registrare;
+
+                                
+                            
+                            
+                                h)
+                                
+                                    dati concernenti la stabilita' del medicinale.
 
 ## Art. 18. — Medicinali omeopatici a cui non si applica la procedura semplificata di registrazione
 
@@ -179,6 +788,28 @@ L'AIFA comunica agli altri Stati membri della Comunita' europea ogni informazion
 
 ((
 
+1.
+                        
+                            
+                                Per i medicinali omeopatici presenti sul mercato italiano alla data del 6 giugno 1995, resta fermo quanto previsto dalla normativa vigente alla data di entrata in vigore del presente decreto. Tali prodotti sono soggetti alla procedura semplificata di registrazione prevista agli articoli 16 e 17, anche quando non abbiano le caratteristiche di cui alle lettere a) e c) del comma 1 dell'articolo 16. In alternativa alla documentazione richiesta dal modulo 4 di cui all'allegato 1 al presente decreto, per i medicinali omeopatici di cui al presente comma, le aziende titolari possono presentare una dichiarazione autocertificativa sottoscritta dal legale rappresentante dell'azienda medesima, recante: 
+                            
+                            
+                                a)
+                                
+                                    elementi comprovanti la sicurezza del prodotto, avendo riguardo alla sua composizione, forma farmaceutica e via di somministrazione;
+                                
+                            
+                            
+                                b)
+                                
+                                    i dati di vendita al consumo degli ultimi cinque anni;
+                                
+                            
+                            
+                                c)
+                                
+                                    le eventuali segnalazioni di farmacovigilanza rese ai sensi delle disposizioni di cui al titolo IX del presente decreto. La disposizione del terzo periodo non si applica ai medicinali omeopatici di origine biologica o preparati per uso parenterale o preparati con concentrazione ponderale di ceppo omeopatico, per i quali resta confermato l'obbligo di ottemperare alle prescrizioni del modulo 4 di cui all'allegato 1 al presente decreto.
+
 Anche a seguito dell'avvenuta registrazione in forma semplificata, per i medicinali omeopatici non in possesso di tutti i requisiti previsti dal comma 1 dell'articolo 16 si applicano le disposizioni previste dal titolo IX del presente decreto.
 
 I medicinali antroposofici descritti in una farmacopea ufficiale e preparati secondo un metodo omeopatico sono assimilabili, agli effetti del presente decreto, ai medicinali omeopatici.
@@ -188,6 +819,45 @@ I medicinali antroposofici descritti in una farmacopea ufficiale e preparati sec
 ## - Capo III Disposizioni speciali relative ai medicinali di origine vegetale tradizionali
 
 ## Art. 21. — Registrazione basata sull'impiego tradizionale
+
+1.
+                        
+                            
+                                Una procedura di registrazione semplificata, di seguito denominata: «registrazione basata sull'impiego tradizionale», si applica, ai fini dell'immissione in commercio, ai medicinali di origine vegetale che soddisfano tutti i seguenti criteri:
+ 
+                            
+                            
+                                a)
+                                
+                                    hanno esclusivamente indicazioni appropriate per i medicinali di origine vegetale tradizionali i quali, per la loro composizione ed il loro obiettivo terapeutico, sono concepiti e realizzati per essere utilizzati senza intervento del medico per la diagnosi o per la prescrizione o per la sorveglianza nel corso del trattamento;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    ne e' prevista la somministrazione esclusivamente ad un determinato dosaggio e schema posologico;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    sono preparazioni per uso orale, esterno o inalatorio;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    sono stati oggetto di impiego tradizionale per un periodo conforme a quanto previsto dall'articolo 23, comma 1, lettera c);
+
+                                
+                            
+                            
+                                e)
+                                
+                                    dispongono di sufficienti dati di impiego tradizionale; in particolare, hanno dimostrato di non essere nocivi nelle condizioni d'uso indicate e i loro effetti farmacologici o la loro efficacia risultano verosimili in base all'esperienza e all'impiego di lunga data.
 
 In deroga al disposto dell'articolo 1, comma 1, lettera ll), la presenza nel medicinale di origine vegetale di vitamine o minerali, per la sicurezza dei quali esistono prove ben documentate, non impedisce al prodotto di essere ammissibile alla registrazione ai sensi del comma 1, a condizione che l'azione delle vitamine o dei minerali sia secondaria rispetto a quella delle sostanze attive vegetali per quanto riguarda le indicazioni specifiche richieste.
 
@@ -201,6 +871,42 @@ La domanda diretta a ottenere una registrazione basata sull'impiego tradizionale
 
 ## Art. 23. — Contenuto della domanda
 
+1.
+                        
+                            
+                                La domanda e' corredata degli elementi di seguito specificati:
+ 
+                            
+                            
+                                a)
+                                
+                                    le informazioni e i documenti:
+ 1) di cui all'articolo 8, comma 3, lettere da a) ad i), o) e p);
+ 2) i risultati delle prove farmaceutiche di cui all'articolo 8, comma 3, lettera l), numero 1);
+ 3) il riassunto delle caratteristiche del prodotto di cui all'allegato 2 privo dei dati di cui alla sezione 5;
+ 4) nel caso di associazioni di sostanze o preparazioni vegetali come quelle descritte nell'articolo 1, lettera ll), o all'articolo 21, comma 2, le informazioni di cui all'articolo 21, comma 1, lettera e), si riferiscono all'associazione di sostanze o preparazioni vegetali in quanto tale; se le singole sostanze attive non sono sufficientemente note, i dati devono riferirsi anche a ciascuna sostanza attiva;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    ogni autorizzazione o registrazione ottenuta dal richiedente in un altro Stato membro della Comunita' europea o in un Paese terzo per l'immissione in commercio del medicinale e informazioni particolareggiate concernenti eventuali decisioni di rifiuto di un'autorizzazione o registrazione nella Comunita' europea o in un Paese terzo, con indicazione delle motivazioni alla base di ciascun rifiuto;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    la documentazione bibliografica o le certificazioni di esperti comprovanti che il medicinale in questione o un prodotto corrispondente ha avuto un impiego tradizionale per un periodo di almeno trent'anni anteriormente alla data di presentazione della domanda, di cui almeno quindici anni nella Comunita' europea; ove necessario l'AIFA puo' chiedere al Comitato dei medicinali di origine vegetale istituito dalla direttiva 2004/24/CE del Parlamento europeo e del Consiglio, del 31 marzo 2004, di seguito direttiva 2004/24/CE, di esprimere un parere sull'adeguatezza della dimostrazione dell'uso di lunga data del medicinale in questione o del prodotto corrispondente. In tal caso, l'AIFA presenta la documentazione ritenuta pertinente a sostegno della richiesta;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    una rassegna bibliografica dei dati inerenti alla sicurezza unitamente alla relazione dell'esperto. L'AIFA puo' richiedere ulteriori dati per la valutazione della sicurezza del medicinale in questione.
+
 L'allegato tecnico sulla domanda di AIC si applica, per analogia, anche alle informazioni e ai documenti di cui alla lettera a) del comma 1.
 
 Agli effetti del comma 1, lettera c), e' considerato corrispondente un prodotto che contiene le stesse sostanze attive a prescindere dagli eccipienti utilizzati, ha le stesse indicazioni o indicazioni analoghe, ha un dosaggio e una posologia equivalenti ed e' somministrato per la stessa via di somministrazione o per una via simile a quella del medicinale oggetto della richiesta.
@@ -211,9 +917,66 @@ Se il prodotto e' stato impiegato nella Comunita' europea da meno di quindici an
 
 ## Art. 24. — Applicazione ai medicinali di origine vegetale tradizionali della procedura di mutuo riconoscimento e della procedura decentrata.
 
+1.
+                        
+                            
+                                Fermo restando quanto previsto dall'articolo 16-nonies, paragrafo 1, della direttiva 2001/83/CE del Parlamento europeo e del Consiglio, del 6 novembre 2001, recante un codice comunitario relativo ai medicinali per uso umano, e successive modificazioni, di seguito direttiva 2001/83/CE, il capo V del presente titolo si applica, per analogia, alle registrazioni concesse ai sensi dell'articolo 21, purche':
+ 
+                            
+                            
+                                a)
+                                
+                                    sia stata redatta una monografia comunitaria sulle erbe, ai sensi dell'articolo 16-nonies, paragrafo 3, della direttiva 2001/83/CE; oppure;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il medicinale di origine vegetale sia costituito da sostanze vegetali, preparazioni vegetali o loro associazioni figuranti nell'elenco di cui all'articolo 26.
+
 Per gli altri medicinali di origine vegetale di cui all'articolo 21, l'AIFA, nel valutare una domanda di registrazione basata sull'impiego tradizionale, tiene in debita considerazione le registrazioni rilasciate da un altro Stato membro della Comunita' europea ai sensi del capo 2-bis del titolo III della direttiva 2001/83/CE.
 
 ## Art. 25. — Diniego della registrazione
+
+1.
+                        
+                            
+                                La registrazione del prodotto basata sull'impiego tradizionale e' negata se la domanda non e' conforme agli articoli 21, 22 o 23 oppure se sussiste almeno una delle seguenti condizioni:
+ 
+                            
+                            
+                                a)
+                                
+                                    la composizione qualitativa e/o quantitativa non corrisponde a quella dichiarata;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le indicazioni non sono conformi alle condizioni di cui all'articolo 21;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il prodotto potrebbe essere nocivo nelle normali condizioni d'impiego;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    i dati sull'impiego tradizionale sono insufficienti, in particolare se gli effetti farmacologici o l'efficacia non sono verosimili in base all'esperienza e all'impiego di lunga data;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    la qualita' farmaceutica non e' sufficientemente dimostrata.
 
 L'AIFA comunica al richiedente, alla Commissione europea e a qualsiasi autorita' competente che ne faccia richiesta le decisioni di diniego della registrazione basata sull'impiego tradizionale e le relative motivazioni.
 
@@ -226,6 +989,24 @@ Se una sostanza vegetale, una preparazione vegetale o una loro associazione sono
 ## Art. 27. — Altre disposizioni applicabili ai medicinali di origine vegetale tradizionali
 
 Alla registrazione basata sull'impiego tradizionale concessa in forza del presente capo si applicano, per analogia, l'articolo 3, comma 1, lettera a) e b), l'articolo 6, comma 1, l'articolo 15, l'articolo 29, comma 1, gli articoli 30, 34, 38, 39, gli articoli da 50 a 56, da 87 a 98, da 129 a 134, da 140 a 148, l'articolo 152, comma 2, e l'articolo 155, nonche' le norme di buona fabbricazione relative ai medicinali per uso umano stabilite dalla Comunita' europea.
+
+2.
+                        
+                            
+                                In aggiunta a quanto previsto agli articoli da 73 a 82, l'etichettatura e il foglio illustrativo dei medicinali di origine vegetale tradizionali recano inoltre una dicitura che precisa che:
+ 
+                            
+                            
+                                a)
+                                
+                                    il prodotto e' un medicinale di origine vegetale d'uso tradizionale da utilizzare per indicazioni specifiche basate esclusivamente sull'impiego di lunga data; e;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'utilizzatore deve consultare un medico o un operatore sanitario qualificato nel caso di persistenza dei sintomi durante l'impiego del medicinale in questione o se insorgono reazioni avverse non riportate nel foglio illustrativo.
 
 L'etichettatura e il foglio illustrativo indicano, altresi', il tipo di impiego tradizionale cui si fa riferimento.
 
@@ -250,6 +1031,32 @@ L'AIFA, se nel corso dell'istruttoria rileva che un'altra domanda di AIC per lo 
 L'AIFA, quando nel corso dell'istruttoria e' informata, a norma dell'articolo 8, comma 3, lettera q), che un altro Stato membro della Comunita' europea ha autorizzato il medicinale oggetto di domanda di AIC, respinge la domanda se non e' stata presentata a norma degli articoli da 41 a 49.
 
 ## Art. 30. — Istruttoria della domanda
+
+1.
+                        
+                            
+                                Ai fini della istruttoria della domanda presentata a norma degli articoli 8, 10, 11, 12 e 13, l'AIFA:
+ 
+                            
+                            
+                                a)
+                                
+                                    verifica la conformita' del fascicolo presentato a norma degli articoli 8, 10, 11, 12 e 13 e accerta la sussistenza delle condizioni per il rilascio dell'AIC;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    puo' sottoporre il medicinale, le relative materie prime e, eventualmente, i prodotti intermedi o altri componenti al controllo dell'Istituto superiore di sanita', quale laboratorio ufficiale di controllo dei medicinali, per accertare che i metodi di controllo impiegati dal produttore e descritti nella documentazione, conformemente all'articolo 8, comma 3, lettera i), sono soddisfacenti; l'AIFA puo' altresi' disporre, riguardo al medicinale oggetto della richiesta di autorizzazione, verifiche ispettive volte ad accertare la veridicita' dei dati sperimentali, la conformita' alle norme di buona fabbricazione del processo di produzione, l'eticita' delle sperimentazioni cliniche effettuate e la conformita' delle sperimentazioni alle norme vigenti;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    puo', se del caso, esigere che il richiedente completi la documentazione a corredo della domanda con riferimento agli elementi di cui all'articolo 8, comma 3, e agli articoli 10, 11, 12 e 13.
+Quando l'AIFA si avvale di questa facolta', i termini di cui al comma 1 dell'articolo 29 sono sospesi finche' non sono stati forniti i dati complementari richiesti. Parimenti detti termini sono sospesi per il tempo eventualmente concesso al richiedente per fornire i chiarimenti richiesti.
 
 L'AIFA accerta che i produttori e gli importatori di medicinali provenienti da paesi terzi sono in grado di realizzare la produzione nell'osservanza delle indicazioni fornite ai sensi dell'articolo 8, comma 3, lettera e), e di effettuare i controlli secondo i metodi descritti nella documentazione, conformemente all'articolo 8, comma 3, lettera i). Quando vi e' un giustificato motivo, puo' consentire che i produttori e gli importatori di medicinali provenienti da paesi terzi, facciano effettuare da terzi talune fasi della produzione e dei controlli di cui sopra; in tale caso, le verifiche dell'AIFA sono effettuate anche nello stabilimento indicato dal produttore o dall'importatore.
 
@@ -363,6 +1170,31 @@ Il rilascio dell'autorizzazione non esclude la responsabilita' anche penale del 
 
 ## Art. 40. — Diniego dell'autorizzazione
 
+1.
+                        
+                            
+                                L'AIC e' negata quando, dalla verifica dei documenti e delle informazioni di cui agli articoli 8, 9, 10, 11, 12 e 13, risulta che:
+ 
+                            
+                            
+                                a)
+                                
+                                    il rapporto rischio/beneficio non e' considerato favorevole;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'efficacia terapeutica del medicinale non e' sufficientemente documentata dal richiedente;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il medicinale non presenta la composizione qualitativa e quantitativa dichiarata.
+
 L'autorizzazione e' altresi' negata se la documentazione o le informazioni presentate a sostegno della domanda non sono conformi agli articoli 8, 9, 10, 11, 12 e 13.
 
 Il richiedente o il titolare dell'AIC e' responsabile dell'esattezza dei documenti e dei dati che ha fornito.
@@ -448,6 +1280,31 @@ Agli altri medicinali omeopatici il presente titolo si applica con le limitazion
 
 Nessuno puo' produrre sul territorio nazionale, anche a solo scopo di esportazione, un medicinale senza l'autorizzazione dell'AIFA, la quale e' rilasciata previa verifica ispettiva diretta ad accertare che il richiedente dispone di personale qualificato e di mezzi tecnico-industriali conformi a quanto previsto dalle lettere b) e c) del comma 2.
 
+2.
+                        
+                            
+                                Per ottenere l'autorizzazione alla produzione, il richiedente e' tenuto a: 
+ 
+                            
+                            
+                                a)
+                                
+                                    specificare i medicinali e le forme farmaceutiche che intende produrre o importare, nonche' il luogo della produzione e dei controlli; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    disporre, per la produzione o l'importazione degli stessi medicinali, di locali, attrezzatura tecnica e strutture e possibilita' di controllo adeguati e sufficienti, sia per la produzione e il controllo, sia per la conservazione dei medicinali; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    disporre di almeno una persona qualificata ai sensi dell'articolo 52 del presente decreto.
+
 Entro novanta giorni dalla data di ricevimento della domanda, corredata di informazioni dirette a comprovare il possesso dei requisiti previsti dal comma 1 e il rispetto delle condizioni indicate al comma 2, l'AIFA adotta le proprie determinazioni.
 L'autorizzazione rilasciata puo' essere integrata dall'imposizione di obblighi per garantire l'osservanza dei requisiti previsti dal comma 1. Il diniego dell'autorizzazione deve essere notificato all'interessato, completo di motivazione.
 
@@ -469,11 +1326,92 @@ L'AIFA inserisce le informazioni relative alle autorizzazioni rilasciate, ai sen
 
 ## Art. 51. — Obblighi del produttore Adeguamento alle norme di buona fabbricazione
 
+1.
+                        
+                            
+                                Il titolare dell'autorizzazione alla produzione e' tenuto a: 
+ 
+                            
+                            
+                                a)
+                                
+                                    disporre di personale adeguato alla produzione e ai controlli che effettua; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    vendere i medicinali autorizzati, in conformita' del presente decreto e delle altre disposizioni legislative e regolamentari in vigore; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    consentire in qualsiasi momento l'accesso ai suoi locali agli ispettori designati dall'AIFA; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    mettere a disposizione della persona qualificata di cui all'articolo 52 tutti i mezzi necessari per permetterle di espletare le sue funzioni; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    conformarsi ai principi e alle linee guida sulle norme di buona fabbricazione dei medicinali, di cui al capo II del presente titolo e alle ulteriori direttive al riguardo emanate dall'Unione europea e utilizzare solo sostanze attive prodotte secondo le norme di buona fabbricazione per le sostanze attive e distribuite secondo le linee guida in materia di buona pratica di distribuzione delle sostanze attive, in conformita' alle direttive e alle raccomandazioni dell'Unione europea. A tale fine, il titolare dell'autorizzazione alla produzione del medicinale verifica che il produttore e i distributori di sostanze attive si attengono alle norme di buona fabbricazione e alle linee guida in materia di buona pratica di distribuzione effettuando verifiche presso i siti di produzione e di distribuzione del produttore e dei distributori di sostanze attive.
+Il titolare dell'autorizzazione alla produzione del medicinale verifica tale conformita' direttamente oppure, fatta salva la sua responsabilita' quale prevista dal capo I, titolo IV, tramite un soggetto che agisce per suo conto in base a un contratto. Il titolare dell'autorizzazione alla produzione del medicinale, inoltre, garantisce che gli eccipienti siano idonei all'impiego nei medicinali accertando quali siano le norme di buona fabbricazione appropriate, sulla base di una valutazione formale del rischio, in conformita' alle linee direttrici di cui al comma 2 dell'articolo 60. Tale valutazione del rischio tiene conto dei requisiti previsti da altri sistemi di qualita' pertinenti, nonche' della provenienza e dell'impiego previsto degli eccipienti e di pregressi casi di difetti di qualita'. Il titolare dell'autorizzazione alla produzione del medicinale garantisce che le appropriate norme di buona fabbricazione, cosi' accertate, siano applicate e documenta le misure applicate per gli eccipienti; 
+
+                                
+                            
+                            
+                                e-bis)
+                                
+                                    informare immediatamente l'AIFA e il titolare dell'autorizzazione all'immissione in commercio qualora ottenga informazioni secondo cui i medicinali, che rientrano nella sua autorizzazione alla produzione, sono falsificati o si sospetta che siano falsificati, a prescindere dal fatto che i medicinali in questione sono stati distribuiti nell'ambito della catena di fornitura legale o attraverso canali illegali, inclusa la vendita illegale mediante i servizi della societa' dell'informazione; 
+
+                                
+                            
+                            
+                                e-ter)
+                                
+                                    verificare che i produttori, gli importatori e i distributori da cui riceve le sostanze attive sono registrati presso l'autorita' competente se stabiliti sul territorio nazionale ovvero sono registrati presso l'autorita' competente se stabiliti sul territorio di altro Stato membro; 
+
+                                
+                            
+                            
+                                e-quater)
+                                
+                                    verificare l'autenticita' e la qualita' delle sostanze attive e degli eccipienti.
+
 ## Art. 51-bis. — (( (Controlli sulle sostanze attive). ))
 
 ((
 
 L'AIFA, il Ministero della salute, di intesa con l'Agenzia delle dogane e dei monopoli, le regioni e le province autonome secondo le rispettive competenze, in conformita' alle direttive e alle raccomandazioni dell'Unione europea, adottano le opportune misure e vigilano affinche' la produzione, l'importazione e la distribuzione sul territorio nazionale delle sostanze attive, ivi comprese quelle destinate all'esportazione, sono conformi alle norme di buona fabbricazione e alle linee guida in materia di buona pratica di distribuzione delle sostanze attive.
+
+2.
+                        
+                            
+                                Le sostanze attive sono importate solo se sono soddisfatte tutte le seguenti condizioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    sono state prodotte secondo le norme di buona fabbricazione, ai sensi dell'articolo 60, comma 1; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    sono accompagnate da una dichiarazione dell'autorita' competente del paese terzo esportatore che fa salvi gli obblighi di cui agli articoli 8 e 51, comma 1, lettera e), attestante che: 
+ 1) gli standard, previsti da norme di buona fabbricazione, applicabili agli impianti che producono la sostanza attiva esportata, sono almeno equivalenti a quelli stabiliti dal comma 1 dell'articolo 60; 
+ 2) gli impianti di produzione interessati sono soggetti a controlli periodici, rigorosi e trasparenti e a un'applicazione efficace delle norme di buona fabbricazione, comprese ispezioni ripetute e senza preavviso, tali da assicurare una tutela della salute pubblica almeno equivalente a quella prevista nell'Unione europea.
 
 In caso di constatazione di non conformita' alle condizioni di cui al comma 2, le relative informazioni sono trasmesse tempestivamente dal paese terzo esportatore all'Unione europea.
 
@@ -509,6 +1447,31 @@ Il titolare dell'autorizzazione alla produzione di medicinali deve avvalersi di 
 
 La persona qualificata svolge la sua attivita' con rapporto a carattere continuativo alle dipendenze dell'impresa. Il titolare dell'autorizzazione alla produzione puo' svolgere anche le funzioni di persona qualificata se ha i requisiti richiesti dal presente articolo.
 
+3.
+                        
+                            
+                                L'AIFA riconosce l'idoneita' della persona qualificata che possiede i seguenti requisiti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    e' in possesso del diploma di laurea di cui alla legge 19 novembre 1990, n. 341, o di laurea specialistica di cui al decreto del Ministro dell'universita' e della ricerca scientifica e tecnologica 3 novembre 1999, n. 509, o di laurea magistrale di cui al decreto del Ministro dell'istruzione, dell'universita' e della ricerca 22 ottobre 2004, n. 270, in una delle seguenti discipline o in uno dei settori scientifico-disciplinari alle cui declaratorie le discipline medesime fanno riferimento: chimica e tecnologia farmaceutiche, farmacia, chimica, chimica industriale, scienze biologiche, medicina e chirurgia, medicina veterinaria; la formazione a livello universitario deve comprendere gli insegnamenti teorici e pratici delle seguenti discipline di base e il superamento dei relativi esami: fisica sperimentale, chimica generale ed inorganica, chimica organica, chimica analitica, chimica farmaceutica, compresa l'analisi dei medicinali, biochimica generale e applicata, fisiologia, microbiologia, farmacologia, tecnologia farmaceutica, tossicologia, farmacognosia; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    ha svolto attivita' pratica concernente analisi qualitativa di medicinali, analisi quantitativa di sostanze attive, prove e verifiche necessarie per garantire la qualita' dei medicinali, per un periodo di almeno due anni in aziende autorizzate alla produzione di medicinali; nei casi di preparazione o produzione di medicinali per terapie avanzate, l'attivita' pratica di due anni deve essere compiuta nella stessa tipologia di produzione per la quale la persona qualificata deve svolgere le sue funzioni; in quest'ultimo caso non si applica la riduzione di cui al comma 4; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    e' provvista di abilitazione all'esercizio della professione ed e' iscritta all'albo professionale.
+
 Il periodo di cui alla lettera b) del comma 3 e' ridotto di un anno quando l'interessato ha svolto un ciclo di formazione universitaria della durata di almeno cinque anni; e ridotto di diciotto mesi ove il ciclo stesso ha avuto una durata di almeno sei anni.
 
 Ai fini del presente articolo, i diplomi di laurea di cui alla lettera a) del comma 3, conseguiti in base ad insegnamenti diversi da quelli ivi indicati, sono dichiarati validi, in relazione ai requisiti richiesti, dall'AIFA, previo parere favorevole espresso dal Ministero dell'istruzione, dell'universita' e della ricerca, sentito il Consiglio universitario nazionale, quando l'interessato dimostra l'acquisizione, dopo il conseguimento del diploma di laurea, di sufficienti cognizioni nelle materie non incluse nel corso di studi.
@@ -516,6 +1479,66 @@ Ai fini del presente articolo, i diplomi di laurea di cui alla lettera a) del co
 I direttori tecnici di officine di produzione, gia' riconosciuti dall'AIFA o dal Ministero della salute al momento dell'entrata in vigore del presente decreto, possono continuare ad esercitare la medesima attivita' con la funzione di persona qualificata.
 
 Coloro che alla data di entrata in vigore del presente decreto esercitano, sulla base della previgente normativa, l'attivita' di cui al presente articolo, possono continuare l'attivita' medesima presso officine della stessa tipologia di produzione, anche in mancanza dei requisiti previsti dal comma 3.
+
+8.
+                        
+                            
+                                La persona qualificata: 
+ 
+                            
+                            
+                                a)
+                                
+                                    vigila che ogni lotto di medicinali sia prodotto e controllato con l'osservanza delle norme di legge e delle condizioni imposte in sede di autorizzazione alla immissione in commercio del medicinale; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    controlla che, nel caso di medicinali di provenienza da paesi non appartenenti alla Comunita' economica europea, ogni lotto di produzione importato e' oggetto di un'analisi qualitativa completa, di un'analisi quantitativa di almeno tutte le sostanze attive e di qualsiasi altra prova e verifica necessaria a garantire la qualita' dei medicinali nell'osservanza delle condizioni previste per l'AIC, fatto salvo quanto stabilito da eventuali accordi di mutuo riconoscimento; 
+
+                                
+                            
+                            
+                                b-bis)
+                                
+                                    nel caso di medicinali destinati a essere immessi in commercio nell'Unione europea, assicura che sull'imballaggio siano stati apposti i bollini ((ovvero gli identificativi univoci)) di cui all'articolo 73, comma 1, lettera p-bis);(15) ((30))
+                                    
+                                
+                            
+                            
+                                c)
+                                
+                                    attesta su apposita documentazione le operazioni di cui alle lettere a), b) e b-bis);(15) 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    e' responsabile secondo quanto previsto dal capo II del presente titolo della tenuta della documentazione di cui alla lettera c), ed e' obbligato ad esibirla a richiesta dell'autorita' sanitaria; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    comunica immediatamente all'AIFA e al responsabile dell'azienda dalla quale dipende ogni sostanziale irregolarita' rilevata nel medicinale che e' gia' stato immesso in commercio; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    collabora attivamente alle ispezioni effettuate dall'autorita' sanitaria ai sensi del presente decreto ed effettua le operazioni richieste dalla stessa; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    vigila sulle condizioni generali di igiene dei locali di cui e' responsabile.
 
 La persona qualificata non puo' svolgere la stessa funzione in piu' officine, a meno che si tratti di officina costituente reparto distaccato dell'officina principale.
 
@@ -532,7 +1555,64 @@ La persona qualificata e' coadiuvata almeno dal personale qualificato previsto d
 
 ## Art. 52-bis. — (Produzione e importazione di sostanze attive)
 
+1.
+                        
+                            
+                                La produzione di sostanze attive utilizzate come materie prime farmacologicamente attive, ad eccezione di quelle sterili ((, di quelle biologiche e di quelle derivanti da tessuti, organi, liquidi umani e animali,)) che sono autorizzate con la stessa modalita' di autorizzazione previste per la produzione di medicinali, comprende: 
+ 
+                            
+                            
+                                a)
+                                
+                                    le fasi di produzione totale e parziale; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'importazione di una sostanza attiva, anche utilizzata essa stessa come materia prima per la produzione o estrazione di altre sostanze attive, come definito nell'allegato I, parte I, punto 3.2.1.1.b); 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    le varie operazioni di divisione, confezionamento o presentazione che precedono l'incorporazione della materia prima nel medicinale, compresi il riconfezionamento e la rietichettatura effettuati da un distributore all'ingrosso di materie prime.
+
 I produttori e gli importatori di sostanze attive stabiliti in Italia registrano la loro attivita' presso l'AIFA.
+
+3.
+                        
+                            
+                                Il modulo di registrazione deve comprendere almeno le seguenti informazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il nome o la ragione sociale, la sede legale e l'indirizzo dell'officina di produzione; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le sostanze attive da produrre o importare; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    la documentazione inerente ai particolari relativi ai locali e alle attrezzature tecniche per la loro attivita'; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    il nominativo e il curriculum vitae della persona qualificata.
 
 I soggetti di cui al comma 2 trasmettono il modulo di registrazione all'AIFA almeno sessanta giorni prima dell'inizio di attivita'. L'AIFA, in base alla valutazione del rischio, puo' decidere di effettuare un'ispezione entro sessanta giorni dal ricevimento del modulo di registrazione dandone comunicazione al richiedente entro il medesimo termine. In tale caso l'ispezione e' effettuata nei successivi sessanta giorni e l'attivita' non puo' essere avviata prima di trenta giorni dall'ispezione stessa. Resta comunque fermo il potere dell'AIFA di effettuare ispezioni anche dopo l'avvio dell'attivita'.
 
@@ -562,7 +1642,50 @@ In via transitoria, fino alla data di validita' del certificato GMP (Good Manufa
 
 ## Art. 53. — Accertamenti sulla produzione di medicinali, sostanze attive ed eccipienti
 
+1.
+                        
+                            
+                                L'AIFA, in cooperazione con l'EMA, assicura, mediante ispezioni, anche senza preavviso, che tutte le disposizioni normative sui medicinali siano rispettate. A tale scopo, ove opportuno, l'AIFA puo' chiedere ad un laboratorio ufficiale di controllo dei medicinali o a un laboratorio designato a tal fine, di effettuare controlli su campioni. Tale cooperazione consiste in scambi di informazioni con l'EMA sia sulle ispezioni programmate sia sulle ispezioni che sono gia' state condotte. L'AIFA coopera con gli Stati membri e l'EMA nel coordinamento delle ispezioni nei paesi terzi. Le ispezioni includono quelle di cui ai commi da 1-bis a 1-sexies, senza tuttavia essere limitate a esse. L'AIFA puo': 
+ 
+                            
+                            
+                                a)
+                                
+                                    procedere ad ispezioni negli stabilimenti e nei locali dove si effettuano la produzione, l'importazione, il controllo e l'immagazzinamento dei medicinali, delle sostanze attive e, ove necessario, degli eccipienti, nonche' dei laboratori incaricati dal titolare dell'autorizzazione alla produzione dell'esecuzione dei controlli a norma dell'articolo 30, comma 2; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    prelevare campioni di medicinali e, se del caso, di altre sostanze necessarie alle analisi anche ai fini di un'analisi indipendente da parte dell'Istituto superiore di sanita' o da parte di un laboratorio designato a tal fine da uno Stato membro; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    esaminare e, se necessario, acquisire copia di tutti i documenti relativi all'oggetto delle ispezioni.
+
 L'AIFA effettua ispezioni ripetute periodicamente presso i produttori di medicinali stabiliti in Italia o in paesi terzi anche senza preavviso.
+
+1-ter.
+                        
+                            
+                                L'AIFA dispone di un sistema di supervisione che include le ispezioni, effettuate con una frequenza appropriata in funzione dei rischi, anche senza preavviso, presso i locali dei produttori, degli importatori o, se del caso, dei distributori di sostanze attive, stabiliti sul territorio nazionale e un follow-up efficace di tali ispezioni. L'AIFA, se ritiene che sussistono motivi per sospettare che non sono rispettate le disposizioni previste dal presente decreto, inclusi i principi e gli orientamenti sulle norme di buona fabbricazione, di cui agli articoli 51, comma 1, lettera e), e 60, nonche' le linee guida in materia di buona pratica di distribuzione delle sostanze attive di cui all'articolo 51, comma 1, e all'articolo 110, comma 1, puo' procedere a ispezioni presso i locali di: 
+ 
+                            
+                            
+                                a)
+                                
+                                    produttori e, se del caso, di distributori di sostanze attive stabiliti in paesi terzi; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    produttori o importatori di eccipienti.
 
 Le ispezioni di cui ai commi 1-bis e 1-ter possono anche essere effettuate nell'Unione europea e nei paesi terzi su richiesta di uno Stato membro, della Commissione europea o dell'EMA.
 
@@ -785,6 +1908,144 @@ L'etichettatura di un medicinale sperimentale deve garantire la tutela del sogge
 
 ## Art. 73. — Etichettatura
 
+1.
+                        
+                            
+                                L'imballaggio esterno o, in mancanza dello stesso, il confezionamento primario dei medicinali reca le indicazioni e gli strumenti seguenti: (15) 
+ 
+                            
+                            
+                                a)
+                                
+                                    la denominazione del medicinale, seguita dal dosaggio e dalla forma farmaceutica, aggiungendo se appropriato il termine "prima infanzia", "bambini" o "adulti"; quando il medicinale contiene fino a tre sostanze attive, e solo quando la denominazione e' un nome di fantasia, esso e' seguito dalla denominazione comune; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la composizione qualitativa e quantitativa in termini di sostanze attive per unita' posologica o, in relazione alla forma farmaceutica, per un dato volume o peso, riportata utilizzando le denominazioni comuni; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    la forma farmaceutica e il contenuto della confezione espresso in peso, volume o unita' posologiche; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    un elenco degli eccipienti, con azione o effetto noti, inclusi nelle linee guida pubblicate a norma dell'articolo 65 della direttiva 2001/83/CE; tuttavia, se si tratta di un prodotto iniettabile o di una preparazione topica o per uso oculare, tutti gli eccipienti devono essere riportati; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    la modalita' di somministrazione e, se necessario, la via di somministrazione; in corrispondenza di tale indicazione deve essere riservato uno spazio su cui riportare la posologia prescritta dal medico; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    l'avvertenza: "Tenere il medicinale fuori dalla portata e dalla vista dei bambini"; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    le avvertenze speciali eventualmente necessarie per il medicinale in questione con particolare riferimento alle controindicazioni provocate dalla interazione del medicinale con bevande alcoliche e superalcoliche, nonche' l'eventuale pericolosita' per la guida derivante dall'assunzione dello stesso medicinale; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    il mese e l'anno di scadenza, indicati con parole o numeri; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    le speciali precauzioni di conservazione, se previste; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    se necessarie, le precauzioni particolari da prendere per lo smaltimento del medicinale non utilizzato o dei rifiuti derivati dallo stesso, nonche' un riferimento agli appositi sistemi di raccolta esistenti; 
+
+                                
+                            
+                            
+                                m)
+                                
+                                    il nome e l'indirizzo del titolare dell'AIC, preceduti dall'espressione "Titolare AIC"; 
+
+                                
+                            
+                            
+                                n)
+                                
+                                    il numero dell'AIC; 
+
+                                
+                            
+                            
+                                o)
+                                
+                                    il numero del lotto di produzione; 
+
+                                
+                            
+                            
+                                p)
+                                
+                                    per i medicinali non soggetti a prescrizione, le indicazioni terapeutiche e le principali istruzioni per l'uso del medicinale; 
+
+                                
+                            
+                            
+                                p-bis)
+                                
+                                    per i medicinali, diversi dai radiofarmaci, di cui all'articolo 73-bis, commi 1 e 2, identificativi univoci di cui al regolamento delegato (UE) 2016/161 della Commissione del 2 ottobre 2015, che consentono ai distributori all'ingrosso e ai soggetti autorizzati o legittimati a fornire medicinali al pubblico, di verificare l'autenticita' del medicinale e di identificare le singole confezioni, nonche' un sistema di prevenzione delle manomissioni che permette di controllare se l'imballaggio esterno e' stato manomesso, in conformita' alle direttive e alle raccomandazioni dell'Unione europea; (15) (30) 
+
+                                
+                            
+                            
+                                q)
+                                
+                                    il regime di fornitura secondo le disposizioni del titolo VI del presente decreto; 
+
+                                
+                            
+                            
+                                r)
+                                
+                                    il prezzo al pubblico del medicinale, che, limitatamente ai medicinali di cui all'articolo 96, deve essere indicato in conformita' a quanto stabilito dall'articolo 1, comma 5, del decreto-legge 27 maggio 2005, n. 87, convertito, con modificazioni, dalla legge 26 luglio 2005, n. 149; 
+
+                                
+                            
+                            
+                                s)
+                                
+                                    l'indicazione delle condizioni di rimborso da parte del Servizio sanitario nazionale. 
+
+                                
+                            
+                            
+                                s-bis)
+                                
+                                    
+                                        ((LETTERA ABROGATA DAL D.LGS. 6 FEBBRAIO 2025, N. 10)).
+
 In aggiunta alle indicazioni previste dal comma 1, sono riportati, previa notifica all'AIFA, il nome e l'indirizzo di chi, in base a uno specifico accordo con il titolare dell'AIC, provvede all'effettiva commercializzazione del medicinale su tutto il territorio nazionale. Tali indicazioni, nonche' eventuali simboli ed emblemi relativi allo stesso distributore, non devono impedire la chiara lettura delle indicazioni, dei simboli e degli emblemi concernenti il titolare AIC.
 
 Fino a sei anni dopo la data di applicazione degli atti delegati di cui all'articolo 54-bis, paragrafo 2, della direttiva 2001/83/CE, le disposizioni del presente articolo lasciano impregiudicate le disposizioni vigenti concernenti l'adozione di sistemi atti a garantire l'autenticita' e la tracciabilita' dei medicinali di cui al decreto del Ministro della sanita' in data ministeriali 2 agosto 2001, pubblicato nella Gazzetta Ufficiale della Repubblica italiana del 20 novembre 2001, n. 270 e al decreto del Ministro della salute in data 15 luglio 2004, pubblicato nella Gazzetta Ufficiale della Repubblica italiana del 4 gennaio 2005, n. 2, nonche' quelle riguardanti l'etichettatura dei medicinali dispensati a carico del Servizio sanitario nazionale. Il Ministro della salute adotta opportune iniziative dirette ad evitare che l'applicazione delle norme concernenti la bollinatura, l'apposizione dell'identificativo univoco di cui al regolamento delegato (UE) 2016/161 e la tracciabilita' dei medicinali comporti oneri eccessivi per i medicinali a basso costo. In considerazione delle loro caratteristiche tecniche, i radiofarmaci sono esentati dall'obbligo di apposizione del bollino farmaceutico, disciplinato dal decreto del Ministro della sanita' in data 2 agosto 2001, pubblicato nella Gazzetta Ufficiale della Repubblica italiana n. 270 del 20 novembre 2001, ovvero dell'identificativo univoco di cui al regolamento delegato (UE) 2016/161. (15)(30)
@@ -828,6 +2089,77 @@ Ai fini della sicurezza dei pazienti, l'ambito di applicazione del sistema di pr
 
 I confezionamenti primari diversi da quelli previsti ai commi 2 e 3 recano le indicazioni di cui all'articolo 73.
 
+2.
+                        
+                            
+                                Purche' contenuti in un imballaggio esterno conforme a quanto prescritto dagli articoli 73 e 79, i confezionamenti primari che si presentano sotto forma di blister, possono limitarsi a recare le indicazioni seguenti:
+ 
+                            
+                            
+                                a)
+                                
+                                    la denominazione del medicinale a norma dell'articolo 73, lettera a);
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il nome del titolare dell'AIC;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il mese e l'anno di scadenza indicati con parole o numeri;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    il numero del lotto di produzione.
+
+3.
+                        
+                            
+                                I confezionamenti primari di piccole dimensioni, sui quali e' impossibile menzionare le informazioni di cui agli articoli 73 e 79, recano almeno le indicazioni seguenti:
+ 
+                            
+                            
+                                a)
+                                
+                                    la denominazione del medicinale, a norma dell'articolo 73, lettera a), e, se necessario, la via di somministrazione;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la modalita' di somministrazione;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il mese e l'anno di scadenza indicati con parole o numeri;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    il numero del lotto di produzione;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    il contenuto in peso, in volume o in unita' posologiche.
+
 ## Art. 75. — Disposizioni particolari a favore di non vedenti e ipovedenti
 
 Ad esclusione dei medicinali di cui agli articoli 92 e 94, nonche' di altre ipotesi eventualmente individuate a livello comunitario, la denominazione del medicinale seguita dal dosaggio e dalla forma farmaceutica ed eventuali altre informazioni essenziali figurano anche in caratteri Braille sull'imballaggio esterno. Il titolare dell'AIC garantisce che il foglio illustrativo e' messo a disposizione, su richiesta delle associazioni dei pazienti, in formati adeguati per i non vedenti e per gli ipovedenti.
@@ -842,7 +2174,113 @@ E' obbligatorio includere, nell'imballaggio esterno dei medicinali, un foglio il
 
 ## Art. 77. — Contenuto del foglio illustrativo
 
+1.
+                        
+                            
+                                Il foglio illustrativo e' redatto in conformita' al riassunto delle caratteristiche del prodotto; esso contiene, nell'ordine seguente:
+ 
+                            
+                            
+                                a)
+                                
+                                    per l'identificazione del medicinale:
+ 1) la denominazione del medicinale, seguita dal dosaggio e dalla forma farmaceutica, ed eventualmente se esso e' indicato per prima infanzia, bambini o adulti; quando il medicinale contiene un'unica sostanza attiva e porta un nome di fantasia, deve figurare la denominazione comune;
+ 2) la categoria farmacoterapeutica o il tipo di attivita', redatte in termini facilmente comprensibili per il paziente;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le indicazioni terapeutiche;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    una lista delle informazioni da conoscere prima di assumere il medicinale:
+ 1) controindicazioni;
+ 2) appropriate precauzioni d'uso;
+ 3) interazioni con altri medicinali e altre forme di interazione (ad esempio con alcool, tabacco, alimenti), che possono influire sull'azione del medicinale;
+ 4) avvertenze speciali;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    le istruzioni necessarie e consuete per un uso corretto e, in particolare:
+ 1) posologia;
+ 2) modo e, se necessario, via di somministrazione;
+ 3) frequenza della somministrazione, precisando, se necessario, il momento appropriato in cui il medicinale puo' o deve essere somministrato, e all'occorrenza, in relazione alla natura del prodotto;
+ 4) durata del trattamento, se deve essere limitata;
+ 5) azioni da compiere in caso di dose eccessiva (ad esempio: descrizione dei sintomi di riconoscimento e dell'intervento di primo soccorso);
+ 6) condotta da seguire nel caso in cui sia stata omessa l'assunzione di una o piu' dosi;
+ 7) indicazione, se necessario, del rischio di effetti conseguenti alla sospensione del medicinale;
+ 8) specifica raccomandazione a rivolgersi al medico o al farmacista per ottenere opportuni chiarimenti sull'uso del medicinale;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    una descrizione degli effetti indesiderati che si possono verificare con il normale uso del medicinale e, se necessario, delle misure da adottare; il paziente dovrebbe essere espressamente invitato a comunicare al proprio medico o farmacista qualsiasi effetto indesiderato non descritto nel foglio illustrativo;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    un riferimento alla data di scadenza che figura sull'etichetta, seguito dagli elementi sottospecificati:
+ 1) un'avvertenza contro l'uso del medicinale successivamente a tale data;
+ 2) all'occorrenza, le precauzioni speciali da prendere per la conservazione del medicinale;
+ 3) all'occorrenza, un'avvertenza relativa a particolari segni visibili di deterioramento;
+ 4) la composizione qualitativa completa, in termini di sostanze attive ed eccipienti, nonche' la composizione quantitativa in termini di sostanze attive, fornite impiegando le denominazioni comuni, per ogni presentazione del medicinale;
+ 5) la forma farmaceutica e il contenuto in peso, in volume o in unita' posologiche, per ogni presentazione del medicinale;
+ 6) il nome e l'indirizzo del titolare dell'AIC;
+ 7) il nome e l'indirizzo del produttore ((responsabile del rilascio dei lotti));
+
+                                
+                            
+                            
+                                g)
+                                
+                                    quando il medicinale e' autorizzato ai sensi del capo V del titolo III con nomi diversi negli Stati membri della Comunita' europea interessati, un elenco con il nome autorizzato in ciascuno degli Stati membri;
+
+                                
+                            
+                            
+                                h)
+                                
+                                    la data in cui il foglio illustrativo e' stato revisionato l'ultima volta.
+
 In aggiunta alle indicazioni previste dal comma 1, e' lecito riportare, ((previa notifica all'AIFA)) , il nome e l'indirizzo di chi, in base a uno specifico accordo con il titolare dell'AIC, provvede all'effettiva commercializzazione del medicinale su tutto il territorio nazionale. Tali indicazioni, nonche' eventuali simboli ed emblemi relativi allo stesso distributore, devono avere dimensioni inferiori alle indicazioni, simboli ed emblemi concernenti il titolare AIC.
+
+3.
+                        
+                            
+                                La lista prevista al comma 1, lettera c):
+ 
+                            
+                            
+                                a)
+                                
+                                    tiene conto della situazione particolare di determinate categorie di utilizzatori (bambini, donne in stato di gravidanza o che allattano, anziani, pazienti con determinate condizioni patologiche);
+
+                                
+                            
+                            
+                                b)
+                                
+                                    menziona all'occorrenza i possibili effetti sulla capacita' di guidare un veicolo o di azionare macchinari;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    contiene l'elenco di almeno tutti gli eccipienti che e' importante conoscere per un uso efficace e sicuro del medicinale e che sono previsti nelle linee guida pubblicate a norma dell'articolo 65 della direttiva 2001/83/CE.
 
 Il foglio illustrativo riflette il risultato di indagini compiute su gruppi mirati di pazienti, al fine di assicurare che esso e' leggibile, chiaro e di facile impiego.
 
@@ -890,6 +2328,45 @@ L'imballaggio esterno ed il contenitore dei medicinali contenenti radionuclidi s
 
 L'etichettatura del contenitore blindato di protezione deve riportare le indicazioni richieste all'articolo 73. Inoltre l'etichettatura del contenitore di protezione deve spiegare chiaramente tutti i codici usati sul flaconcino, indicando, se occorre, per una determinata ora e data, la quantita' totale o unitaria di radioattivita' ed il numero di capsule o, per i liquidi, il numero di millilitri contenuti nel contenitore.
 
+3.
+                        
+                            
+                                L'etichettatura del contenitore deve riportare le informazioni seguenti:
+ 
+                            
+                            
+                                a)
+                                
+                                    il nome o il codice del medicinale, compreso il nome o il simbolo chimico del radionuclide;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'identificazione del lotto e la data di scadenza;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il simbolo internazionale della radioattivita';
+
+                                
+                            
+                            
+                                d)
+                                
+                                    il nome e l'indirizzo del produttore;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    la quantita' di radioattivita' come specificato al comma 2.
+
 ## Art. 84. — Foglio illustrativo di radiofarmaci, generatori di radionuclidi, kit di radionuclidi, precursori di radionuclidi.
 
 L'autorita' competente verifica che nell'imballaggio dei radiofarmaci e dei generatori, dei kit e dei precursori di radionuclidi sia allegato un foglio illustrativo contenente istruzioni dettagliate. Il testo di questo foglio illustrativo e' redatto in conformita' dell'articolo 77. Esso riporta inoltre le precauzioni che l'operatore e il paziente devono prendere durante la preparazione e la somministrazione del medicinale, nonche' le particolari precauzioni da prendere per lo smaltimento della confezione e del contenuto non utilizzato.
@@ -897,6 +2374,108 @@ L'autorita' competente verifica che nell'imballaggio dei radiofarmaci e dei gene
 ## Art. 85. — Disposizioni particolari per l'etichettatura e il foglio illustrativo di medicinali omeopatici
 
 Senza pregiudizio delle disposizioni del comma 2, i medicinali omeopatici sono etichettati in conformita' al presente titolo e contraddistinti dall'indicazione della loro natura omeopatica apposta in caratteri chiari e leggibili.
+
+2.
+                        
+                            
+                                L'etichettatura ed eventualmente il foglio illustrativo dei medicinali omeopatici di cui agli articoli 16 e 20 recano obbligatoriamente ed esclusivamente le indicazioni seguenti:
+ 
+                            
+                            
+                                a)
+                                
+                                    Dicitura: «medicinale omeopatico» in grande evidenza, seguita dalla frase: «senza indicazioni terapeutiche approvate»;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    denominazione scientifica del ceppo o dei ceppi omeopatici o, in mancanza di questa, la denominazione scientifica del materiale o dei materiali di partenza per preparazioni omeopatiche o altra denominazione figurante in una farmacopea, accompagnata dalla denominazione propria della tradizione omeopatica seguita dal grado di diluizione, espressa con i simboli della farmacopea utilizzata a norma dell'articolo 1, comma 1, lettera d); se il medicinale omeopatico e' composto da due o piu' ceppi omeopatici, nell'etichettatura la loro denominazione scientifica puo' essere completata da un nome di fantasia;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    nome e indirizzo del titolare della registrazione e, se diverso, del produttore;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    modalita' di somministrazione e, se necessario, via di somministrazione;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    mese e anno di scadenza indicati con parole o numeri;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    forma farmaceutica;
+
+                                
+                            
+                            
+                                g)
+                                
+                                    contenuto della confezione, in peso, volume o in unita' di somministrazione;
+
+                                
+                            
+                            
+                                h)
+                                
+                                    eventuali precauzioni particolari da prendere per la conservazione del medicinale;
+
+                                
+                            
+                            
+                                i)
+                                
+                                    avvertenza speciale, se il medicinale lo richiede;
+
+                                
+                            
+                            
+                                l)
+                                
+                                    numero del lotto di produzione;
+
+                                
+                            
+                            
+                                m)
+                                
+                                    numero di registrazione;
+
+                                
+                            
+                            
+                                n)
+                                
+                                    un'avvertenza all'utilizzatore di consultare un medico se i sintomi persistono;
+
+                                
+                            
+                            
+                                o)
+                                
+                                    prezzo del medicinale;
+
+                                
+                            
+                            
+                                p)
+                                
+                                    dicitura: «medicinale non a carico del Servizio sanitario nazionale».
 
 ## Art. 86. — Aggiornamento delle disposizioni sull'etichettatura e sul foglio illustrativo
 
@@ -906,7 +2485,83 @@ Le disposizioni del presente titolo riguardanti i contenuti dell'etichettatura e
 
 ## Art. 87. — Classi dei medicinali ai fini della fornitura
 
+1.
+                        
+                            
+                                All'atto del rilascio dell'AIC o successivamente, previa nuova valutazione dell'AIFA, anche su istanza del richiedente, i medicinali sono classificati in una o piu' delle seguenti categorie:
+ 
+                            
+                            
+                                a)
+                                
+                                    medicinali soggetti a prescrizione medica;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    medicinali soggetti a prescrizione medica da rinnovare volta per volta;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    medicinali soggetti a prescrizione medica speciale;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    medicinali soggetti a prescrizione medica limitativa, comprendenti:
+ 1) medicinali vendibili al pubblico su prescrizione di centri ospedalieri o di specialisti;
+ 2) medicinali utilizzabili esclusivamente in ambiente ospedaliero o in ambiente ad esso assimilabile;
+ 3) medicinali utilizzabili esclusivamente dallo specialista;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    medicinali non soggetti a prescrizione medica comprendenti:
+ 1) medicinali da banco o di automedicazione;
+ 2) restanti medicinali non soggetti a prescrizione medica.
+
 ## Art. 88. — Medicinali soggetti a prescrizione medica
+
+1.
+                        
+                            
+                                I medicinali sono soggetti a prescrizione medica quando:
+ 
+                            
+                            
+                                a)
+                                
+                                    possono presentare un pericolo, direttamente o indirettamente, anche in condizioni normali di utilizzazione, se sono usati senza controllo medico;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    sono utilizzati spesso, e in larghissima misura, in modo non corretto e, di conseguenza, con rischio di un pericolo diretto o indiretto per la salute;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    contengono sostanze o preparazioni di sostanze la cui attivita' o le cui reazioni avverse richiedono ulteriori indagini;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    sono destinati ad essere somministrati per via parenterale, fatte salve le eccezioni stabilite dal Ministero della salute, su proposta o previa consultazione dell'AIFA.
 
 I medicinali di cui al comma 1, quando non hanno le caratteristiche dei medicinali previsti dagli articoli 89, 92 e 94, devono recare sull'imballaggio esterno o, in mancanza dello stesso, sul confezionamento primario la frase: "Da vendersi dietro presentazione di ricetta medica".
 
@@ -1051,9 +2706,66 @@ Le bombole e gli altri contenitori di ossigeno, ed eventualmente di altri gas me
 
 ## Art. 101. — Requisiti richiesti per l'ottenimento dell'autorizzazione
 
+1.
+                        
+                            
+                                Per ottenere l'autorizzazione, il richiedente deve soddisfare le condizioni seguenti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    disporre di locali, di installazioni e di attrezzature idonei, sufficienti a garantire una buona conservazione e una buona distribuzione dei medicinali; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    disporre di adeguato personale nonche' di una persona responsabile, in possesso del diploma di laurea in farmacia o in chimica o in chimica e tecnologia farmaceutiche o in chimica industriale, che non abbia riportato condanne penali per reati contro il patrimonio o comunque connessi al commercio di medicinali non conforme alle disposizioni del presente decreto, ne' condanne penali definitive di almeno due anni per delitti non colposi; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    impegnarsi a rispettare gli obblighi cui e' soggetto a norma dell'articolo 104.
+
 La persona responsabile di cui alla lettera b) del comma 1 ((e di cui al comma 2-bis)) deve svolgere la propria attivita' a carattere continuativo nella sede indicata nell'autorizzazione con un orario compatibile con le necessita' derivanti dalle dimensioni dell'attivita' di distribuzione espletata. ((Con decreto del Presidente del Consiglio dei Ministri, su proposta del Ministero della salute, sentita l'AIFA, possono essere stabilite, per i depositi che trattano esclusivamente gas medicinali, deroghe al disposto di cui al primo periodo.))
 
 ((
+
+2-bis.
+                        
+                            
+                                In deroga a quanto disposto dai commi 1 e 2, le funzioni di persona responsabile di depositi che trattano esclusivamente gas medicinali possono essere svolte dal soggetto che possieda almeno uno dei seguenti requisiti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    abbia conseguito una laurea specialistica, di cui al decreto del Ministro dell'universita' e della ricerca scientifica e tecnologica 3 novembre 1999, n. 509, o una laurea magistrale, di cui al decreto del Ministro dell'istruzione, dell'universita' e della ricerca 22 ottobre 2004, n. 270, appartenente a una delle classi di seguito specificate: 
+ I. classe LM-8 Classe dei corsi di laurea magistrale in biotecnologie industriali; 
+ II. classe LM-9 Classe dei corsi di laurea magistrale in biotecnologie mediche, veterinarie e farmaceutiche; 
+ III. classe LM-21 Classe dei corsi di laurea magistrale in ingegneria chimica; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    abbia conseguito una laurea di cui al decreto del Ministro dell'universita' e della ricerca scientifica e tecnologica 3 novembre 1999, n. 509, e al decreto del Ministro dell'istruzione, dell'universita' e della ricerca 22 ottobre 2004, n. 270, appartenente a una delle classi di seguito specificate, a condizione che siano stati superati gli esami di chimica farmaceutica e di legislazione farmaceutica: 
+ I. classe L-2 Classe dei corsi di laurea in biotecnologie; 
+ II. classe L-9 Classe dei corsi di laurea in ingegneria industriale; 
+ III. classe L-27 Classe dei corsi di laurea in scienze e tecnologie chimiche; 
+ IV. classe L-29 Classe dei corsi di laurea in scienze e tecnologie farmaceutiche; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    abbia svolto, per almeno cinque anni, anche non continuativi, successivamente all'entrata in vigore del decreto legislativo 30 dicembre 1992, n. 538, funzioni di direttore tecnico di magazzino di distribuzione all'ingrosso o di deposito di gas medicinali;
 
 Sono comunque fatte salve le situazioni regolarmente in atto alla data di entrata in vigore della presente disposizione, anche in mancanza dei requisiti previsti dal comma 1, lettera b), e dal comma 2-bis).
 
@@ -1069,6 +2781,38 @@ Per esercitare la distribuzione all'ingrosso mediante piu' magazzini, dislocati 
 
 Entro novanta giorni dalla presentazione della domanda di autorizzazione, l'autorita' competente comunica all'interessato l'esito della stessa. Se i dati forniti dall'interessato non sono sufficienti a dimostrare il rispetto delle condizioni previste dall'articolo 101, la stessa autorita' puo' richiedere le necessarie integrazioni; in tale caso il termine di novanta giorni e' sospeso fino alla presentazione dei dati complementari richiesti.
 
+2.
+                        
+                            
+                                L'autorizzazione, da rilasciarsi previa ispezione del magazzino, deve specificare: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la sede del magazzino; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le generalita' della persona responsabile, ai sensi dell'articolo 101; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    i medicinali o il tipo di medicinali che possono essere oggetto dell'attivita' di distribuzione all'ingrosso, in relazione alle attrezzature di cui dispone il magazzino; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    il territorio geografico entro il quale il grossista ha dichiarato di essere in grado di operare nel rispetto del disposto del comma 2 dell'articolo 105.
+
 Contemporaneamente alla notifica all'interessato, l'autorita' competente provvede ad inviare copia dell'autorizzazione al Ministero della salute.
 
 In caso di diniego dell'autorizzazione, che deve essere in ogni caso motivato, sono comunicati agli interessati i mezzi di ricorso previsti dalla legislazione in vigore e il termine entro cui il ricorso puo' essere proposto.
@@ -1083,12 +2827,149 @@ Copia della certificazione di cui al comma 4-bis e' trasmessa al Ministero della
 
 ## Art. 104. — Obblighi e facolta' del titolare dell'autorizzazione
 
+1.
+                        
+                            
+                                Il titolare dell'autorizzazione alla distribuzione all'ingrosso dei medicinali e' tenuto a: 
+ 
+                            
+                            
+                                a)
+                                
+                                    rendere i locali, le installazioni e le attrezzature di cui all'articolo 101, comma 1, lettera a), accessibili in ogni momento agli agenti incaricati di ispezionarli; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    approvvigionarsi di medicinali unicamente da persone o societa' che possiedono esse stesse l'autorizzazione ovvero sono esonerate dall'obbligo di possederla ai sensi dell'articolo 100, comma 3; tale obbligo riguarda anche le forniture provenienti da altri Paesi della Comunita' europea, compatibilmente con le legislazioni ivi vigenti; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    fornire medicinali unicamente a persone, societa' o enti che possiedono essi stessi l'autorizzazione alla distribuzione all'ingrosso di medicinali, ovvero sono autorizzati o abilitati ad altro titolo ad approvvigionarsi di medicinali; 
+
+                                
+                            
+                            
+                                c-bis)
+                                
+                                    accertare che i medicinali ricevuti non sono falsificati, verificando i bollini ((ovvero gli identificativi univoci di cui al regolamento delegato (UE) 2016/161 della Commissione del 2 ottobre 2015,)) riportati sull'imballaggio esterno, conformemente alle disposizioni degli atti delegati di cui all'articolo 54-bis, paragrafo 2, della direttiva 2001/83/CE; ((30))
+                                    
+                                
+                            
+                            
+                                d)
+                                
+                                    possedere un piano d'emergenza che assicura l'effettiva applicazione di qualsiasi azione di ritiro dal mercato disposta dall'AIFA o avviata in cooperazione con il produttore o il titolare dell'AIC del medicinale in questione; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    conservare una documentazione sotto forma di fatture degli acquisti e delle vendite, oppure sotto forma computerizzata o sotto qualsiasi altra forma idonea, che riporta, per ogni operazione relativa a medicinali ricevuti, spediti od oggetto di brokeraggio, almeno le informazioni seguenti: 
+ 1) la data; 
+ 2) la denominazione del medicinale; 
+ 3) il quantitativo ricevuto, fornito od oggetto di brokeraggio; 
+ 4) il nome e l'indirizzo del fornitore o del destinatario, a seconda dei casi; 
+ 5) numero di lotto per ogni operazione di entrata; detto numero deve essere indicato nella bolla di consegna della merce fornita al grossista; 
+ 6) il numero di lotto dei medicinali in uscita od oggetto di brokeraggio, almeno per i prodotti che presentano i bollini ((ovvero gli identificativi univoci)) di cui all'articolo 73, comma 1, lettera p-bis); ((30))
+                                    
+                                
+                            
+                            
+                                f)
+                                
+                                    tenere la documentazione di cui alla lettera e) a disposizione delle autorita' competenti, ai fini di ispezione, per un periodo di cinque anni; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    avvalersi, sia in fase di approvvigionamento, sia in fase di distribuzione dei medicinali, di mezzi idonei a garantire la corretta conservazione degli stessi durante il trasporto, nell'osservanza delle norme tecniche eventualmente adottate dal Ministero della salute, assicurandone l'osservanza anche da parte di terzi; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    rispondere ai principi e alle linee guida in materia di buona pratica di distribuzione dei medicinali di cui al decreto del Ministro della sanita' in data 6 luglio 1999, pubblicato nella Gazzetta Ufficiale della Repubblica italiana n. 190 del 14 agosto 1999; 
+
+                                
+                            
+                            
+                                h-bis)
+                                
+                                    istituire un sistema di qualita' che precisa le responsabilita', i processi e le misure di gestione del rischio in relazione alle sue attivita'; 
+
+                                
+                            
+                            
+                                h-ter)
+                                
+                                    informare immediatamente la regione o la provincia autonoma territorialmente competente, che ne da' tempestiva comunicazione all'AIFA e al Ministero della salute in ordine ai medicinali ricevuti o proposti che identifica come falsificati o sospetta che sono stati falsificati e, se del caso, informarne anche il titolare dell'AIC; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    assolvere agli obblighi previsti dall'articolo 105.
+
+1-bis.
+                        
+                            
+                                Ai fini del comma 1, lettera b), se l'approvvigionamento del medicinale avviene: 
+ 
+                            
+                            
+                                a)
+                                
+                                    presso un altro distributore all'ingrosso, i titolari dell'autorizzazione di distribuzione all'ingrosso devono verificare che il distributore all'ingrosso da cui si sono riforniti rispetta i principi e gli orientamenti sulle norme di buona distribuzione. Cio' comprende la verifica del possesso di un'autorizzazione di distribuzione all'ingrosso; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    presso il produttore o l'importatore, i titolari dell'autorizzazione di distribuzione all'ingrosso devono verificare che il produttore o l'importatore e' titolare di un'autorizzazione alla produzione; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    tramite brokeraggio, i titolari dell'autorizzazione di distribuzione all'ingrosso dei medicinali devono verificare che il broker interessato soddisfa i requisiti stabiliti dal presente decreto.
+
 ---------------
                             AGGIORNAMENTO (30)
                             
  Il D.Lgs. 6 febbraio 2025, n. 10, ha disposto (con l'art. 1, comma 1, alinea) che le presenti modifiche decorrono dal 9 febbraio 2025.
 
 ## Art. 105. — Dotazioni minime e fornitura dei medicinali
+
+1.
+                        
+                            
+                                Fatta eccezione per chi importa medicinali e per chi distribuisce esclusivamente sostanze attive o gas medicinali o medicinali disciplinati dagli articoli 92 e 94 ovvero dall'articolo 96 , o medicinali di cui detiene l'AIC o la concessione di vendita, il titolare dell'autorizzazione alla distribuzione all'ingrosso e' tenuto a detenere almeno: 
+ 
+                            
+                            
+                                a)
+                                
+                                    i medicinali di cui alla tabella 2 allegata alla farmacopea ufficiale della Repubblica italiana; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    un assortimento dei medicinali in possesso di un'AIC, inclusi i medicinali omeopatici autorizzati ai sensi dell'articolo 18 e i medicinali generici, che sia tale da rispondere alle esigenze del territorio geograficamente determinato cui e' riferita l'autorizzazione alla distribuzione all'ingrosso, valutate dall'autorita' competente al rilascio dell'autorizzazione sulla base degli indirizzi vincolanti forniti dall'AIFA. Tale obbligo non si applica ai medicinali non ammessi a rimborso da parte del Servizio sanitario nazionale, fatta salva la possibilita' del rivenditore al dettaglio di rifornirsi presso altro grossista.
 
 Il titolare di un'AIC di un medicinale e i distributori di tale medicinale immesso effettivamente sul mercato assicurano, nei limiti delle loro responsabilita', forniture appropriate e continue di tale medicinale alle farmacie e alle persone autorizzate a consegnare medicinali in modo da soddisfare le esigenze dei pazienti.
 
@@ -1101,6 +2982,45 @@ La regione, o la provincia autonoma ovvero le altre autorita' competenti individ
 L'autorita' che effettua le verifiche di cui al comma 3-ter , applica al grossista che viola l'obbligo di cui all'articolo 1, comma 1, lettera s), la sanzione di cui all'articolo 148, comma 13, nonche' la sospensione, non inferiore a 30 giorni dell'autorizzazione rilasciata ai sensi dell'articolo 100, comma 1; nell'ipotesi di reiterazione della violazione, l'autorizzazione puo' essere revocata.
 
 Il titolare dell'AIC e' obbligato a fornire entro le quarantotto ore, su richiesta delle farmacie, anche ospedaliere, o dei punti vendita di medicinali previsti dall'articolo 5 del decreto-legge 4 luglio 2006, n. 223, convertito, con modificazioni, dalla legge 4 agosto 2006, n. 248, un medicinale che non e' reperibile nella rete di distribuzione regionale.
+
+5.
+                        
+                            
+                                Per ogni operazione, il distributore all'ingrosso deve consegnare al destinatario un documento da cui risultano, oltre al proprio nome e indirizzo e al codice identificativo univoco assegnato dal Ministero della salute ai sensi dell'articolo 3, comma 1, del decreto del Ministro della salute in data 15 luglio 2004, pubblicato nella Gazzetta Ufficiale della Repubblica italiana n. 2 del 4 gennaio 2005, : 
+ 
+                            
+                            
+                                a)
+                                
+                                    la data; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la denominazione, la forma farmaceutica e il numero dell'AIC del medicinale; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il quantitativo fornito al destinatario; 
+
+                                
+                            
+                            
+                                c-bis)
+                                
+                                    il numero di lotto dei medicinali almeno per i prodotti che presentano i bollini ((ovvero gli identificativi univoci)) di cui all'articolo 73, comma 1, lettera p-bis); ((30))
+                                    
+                                
+                            
+                            
+                                d)
+                                
+                                    il nome e l'indirizzo del destinatario e del fornitore.
 
 ---------------
                             AGGIORNAMENTO (30)
@@ -1136,6 +3056,31 @@ Nell'ipotesi prevista dal comma 1-bis, quando al reparto per la vendita di medic
 ((
 
 I distributori di sostanze attive stabiliti in Italia registrano la loro attivita' all'autorita' territoriale competente di cui all'articolo 100, comma 1.
+
+2.
+                        
+                            
+                                Il modulo di registrazione, comprende almeno le seguenti informazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il nome o la ragione sociale e l'indirizzo permanente; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le sostanze attive da distribuire; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    i particolari relativi ai locali e alle attrezzature tecniche utilizzati per le loro attivita'.
 
 I distributori di cui al comma 1 trasmettono il modulo di registrazione all'autorita' territoriale competente almeno sessanta giorni prima dell'inizio dell'attivita'.
 
@@ -1224,9 +3169,80 @@ E' vietata la fornitura a distanza al pubblico dei medicinali con obbligo di pre
 
 La fornitura a distanza al pubblico dei medicinali senza obbligo di prescrizione mediante i servizi della societa' dell'informazione, quali definiti dalla legge 21 giugno 1986, n 317, e successive modificazioni, e' consentita alle condizioni specificate nel presente titolo.
 
+3.
+                        
+                            
+                                Le farmacie e gli esercizi commerciali di cui all'articolo 5, comma 1, del decreto-legge 4 luglio 2006, n. 223, convertito, con modificazioni, dalla legge 4 agosto 2006, n. 248, sono autorizzati dalla regione o dalla provincia autonoma ovvero dalle altre autorita' competenti, individuate dalla legislazione delle regioni o delle province autonome a fornire medicinali a distanza al pubblico alle seguenti condizioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    comunicazione all'autorita' competente per il territorio in cui sono stabiliti, almeno delle seguenti informazioni, che devono essere tempestivamente aggiornate in caso di modifiche: 
+ 1) denominazione, partita IVA e indirizzo completo del sito logistico; 
+ 2) data d'inizio dell'attivita' di vendita a distanza al pubblico di medicinali mediante i servizi della societa' dell'informazione; 
+ 3) indirizzo del sito web utilizzato a tale fine e tutte le informazioni pertinenti necessarie per identificare il sito.
+
 I soggetti di cui al comma 3 sono tenuti a comunicare, entro trenta giorni, qualsiasi modifica intervenuta delle condizioni di cui al medesimo comma 3, pena la decadenza dell'autorizzazione.
 
+5.
+                        
+                            
+                                Fatti salvi gli obblighi di informazione previsti dal decreto legislativo 9 aprile 2003, n. 70, recante attuazione della direttiva 2000/31/CE relativa a taluni aspetti giuridici dei servizi della societa' dell'informazione nel mercato interno, con particolare riferimento al commercio elettronico, il sito web per la vendita di medicinali contiene almeno: 
+ 
+                            
+                            
+                                a)
+                                
+                                    i recapiti dell'autorita' competente di cui al comma 3; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    un collegamento ipertestuale verso il sito web al comma 7; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il logo comune di cui al comma 6, chiaramente visibile su ciascuna pagina del sito web della farmacia o dell'esercizio commerciale di cui al comma 3. Il logo comune medesimo contiene un collegamento ipertestuale alla voce corrispondente alla farmacia o esercizio commerciale presenti nell'elenco di cui al comma 7, lettera c).
+
 In conformita' alle direttive e alle raccomandazioni dell'Unione europea il Ministero della salute predispone un logo identificativo nazionale conforme alle indicazioni definite per il logo comune che sia riconoscibile in tutta l'Unione, che identifichi ogni farmacia o esercizio commerciale di cui al comma 3 che mette in vendita medicinali al pubblico a distanza. Tale logo e' chiaramente visibile nei siti web per la vendita a distanza al pubblico di medicinali in conformita' al comma 3.
+
+7.
+                        
+                            
+                                Sul sito web del Ministero della salute sono pubblicate: 
+ 
+                            
+                            
+                                a)
+                                
+                                    le informazioni sulla legislazione nazionale applicabile alla vendita a distanza al pubblico di medicinali mediante i servizi della societa' dell'informazione, ivi incluse le informazioni sulle possibili differenze con gli altri Stati membri per quanto concerne le condizioni che disciplinano la fornitura dei medicinali e la relativa classificazione; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le informazioni sulla finalita' del logo comune; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    l'elenco delle farmacie e degli esercizi commerciali di cui al comma 3, autorizzati alla vendita a distanza al pubblico dei medicinali mediante i servizi della societa' dell'informazione e l'indirizzo dei loro siti web; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    le informazioni generali sui rischi connessi ai medicinali forniti illegalmente al pubblico mediante i servizi della societa' dell'informazione.
 
 Il sito web di cui al comma 7 contiene un collegamento ipertestuale verso il sito web di cui all'articolo 85-quater, paragrafo 5, della direttiva 2001/83/CE.
 
@@ -1245,11 +3261,84 @@ Il Ministero della salute, nell'ambito delle risorse disponibili a legislazione 
 
 ## Art. 113. — Definizione di pubblicita' dei medicinali e ambito di applicazione
 
+1.
+                        
+                            
+                                Ai fini del presente titolo si intende per «pubblicita' dei medicinali» qualsiasi azione d'informazione, di ricerca della clientela o di esortazione, intesa a promuovere la prescrizione, la fornitura, la vendita o il consumo di medicinali; essa comprende in particolare quanto segue:
+ 
+                            
+                            
+                                a)
+                                
+                                    la pubblicita' dei medicinali presso il pubblico;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la pubblicita' dei medicinali presso persone autorizzate a prescriverli o a dispensarli, compresi gli aspetti seguenti:
+ 1) la visita di informatori scientifici presso persone autorizzate a prescrivere o a fornire medicinali;
+ 2) la fornitura di campioni di medicinali;
+ 3) l'incitamento a prescrivere o a fornire medicinali mediante la concessione, l'offerta o la promessa di vantaggi pecuniari o in natura, ad eccezione di oggetti di valore intrinseco trascurabile;
+ 4) il patrocinio di riunioni promozionali cui assistono persone autorizzate a prescrivere o a fornire medicinali;
+ 5) il patrocinio dei congressi scientifici cui partecipano persone autorizzate a prescrivere o a fornire medicinali, in particolare il pagamento delle spese di viaggio e di soggiorno di queste ultime in tale occasione.
+
+2.
+                        
+                            
+                                Non forma oggetto del presente titolo quanto segue:
+ 
+                            
+                            
+                                a)
+                                
+                                    l'etichettatura e il foglio illustrativo, soggetti alle disposizioni del titolo V;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la corrispondenza necessaria per rispondere a una richiesta precisa e non sollecitata di informazioni su un determinato medicinale;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    le informazioni concrete e i documenti di riferimento riguardanti, ad esempio, i cambiamenti degli imballaggi, le avvertenze sugli effetti indesiderati nell'ambito della farmacovigilanza, i cataloghi di vendita e gli elenchi dei prezzi, purche' non vi figurino informazioni sul medicinale;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    le informazioni relative alla salute umana o alle malattie umane, purche' non contengano alcun riferimento, neppure indiretto, a un medicinale.
+
 ## Art. 114. — Principi fondamentali della disciplina
 
 E' vietata qualsiasi pubblicita' di un medicinale per cui non e' stata rilasciata un'AIC, conforme al presente decreto, al regolamento (CE) n. 726/2004 o ad altre disposizioni comunitarie vincolanti.
 
 Tutti gli elementi della pubblicita' di un medicinale devono essere conformi alle informazioni che figurano nel riassunto delle caratteristiche del prodotto.
+
+3.
+                        
+                            
+                                La pubblicita' di un medicinale:
+ 
+                            
+                            
+                                a)
+                                
+                                    deve favorire l'uso razionale del medicinale, presentandolo in modo obiettivo e senza esagerarne le proprieta';
+
+                                
+                            
+                            
+                                b)
+                                
+                                    non puo' essere ingannevole.
 
 ## Art. 115. — Limiti della pubblicita' presso il pubblico
 
@@ -1265,13 +3354,133 @@ In pubblicazioni a stampa, trasmissioni radio-televisive e in messaggi non a car
 
 ## Art. 116. — Caratteristiche e contenuto minimo della pubblicita' presso il pubblico
 
+1.
+                        
+                            
+                                Fatte salve le disposizioni dell'articolo 115, la pubblicita' di un medicinale presso il pubblico:
+ 
+                            
+                            
+                                a)
+                                
+                                    e' realizzata in modo che la natura pubblicitaria del messaggio e' evidente e il prodotto e' chiaramente identificato come medicinale;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    comprende almeno:
+ 1) la denominazione del medicinale e la denominazione comune della sostanza attiva; l'indicazione di quest'ultima non e' obbligatoria se il medicinale e' costituito da piu' sostanze attive;
+ 2) le informazioni indispensabili per un uso corretto del medicinale;
+ 3) un invito esplicito e chiaro a leggere attentamente le avvertenze figuranti, a seconda dei casi, nel foglio illustrativo o sull'imballaggio esterno; nella pubblicita' scritta l'invito deve risultare facilmente leggibile dal normale punto d'osservazione; nella pubblicita' sulla stampa quotidiana e periodica deve essere, comunque, scritto con caratteri di dimensioni non inferiori al corpo nove.
+
 ## Art. 117. — Contenuti pubblicitari non consentiti
+
+1.
+                        
+                            
+                                La pubblicita' presso il pubblico di un medicinale non puo' contenere alcun elemento che:
+ 
+                            
+                            
+                                a)
+                                
+                                    fa apparire superflui la consultazione di un medico o l'intervento chirurgico, in particolare offrendo una diagnosi o proponendo una cura per corrispondenza;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    induce a ritenere l'efficacia del medicinale priva di effetti indesiderati o superiore o pari ad un altro trattamento o ad un altro medicinale;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    induce a ritenere che il medicinale possa migliorare il normale stato di buona salute del soggetto;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    induce a ritenere che il mancato uso del medicinale possa avere effetti pregiudizievoli sul normale stato di buona salute del soggetto; tale divieto non si applica alle campagne di vaccinazione di cui all'articolo 115, comma 2;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    si rivolge esclusivamente o prevalentemente ai bambini;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    comprende una raccomandazione di scienziati, di operatori sanitari o di persone largamente note al pubblico;
+
+                                
+                            
+                            
+                                g)
+                                
+                                    assimila il medicinale ad un prodotto alimentare, ad un prodotto cosmetico o ad un altro prodotto di consumo;
+
+                                
+                            
+                            
+                                h)
+                                
+                                    induce a ritenere che la sicurezza o l'efficacia del medicinale sia dovuta al fatto che si tratta di una sostanza «naturale»;
+
+                                
+                            
+                            
+                                i)
+                                
+                                    puo' indurre ad una errata autodiagnosi;
+
+                                
+                            
+                            
+                                l)
+                                
+                                    fa riferimento in modo improprio, impressionante o ingannevole a attestazioni di guarigione;
+
+                                
+                            
+                            
+                                m)
+                                
+                                    utilizza in modo improprio, impressionante o ingannevole rappresentazioni visive delle alterazioni del corpo umano dovute a malattie o a lesioni, oppure dell'azione di un medicinale sul corpo umano o su una sua parte.
 
 Parimenti, in coerenza con quanto previsto dall'articolo 116, comma 1, lettera a), non e' consentita la divulgazione di messaggi e di testi il cui intento pubblicitario e' occultato dalla ridondanza di altre informazioni.
 
 Con decreto del Ministro della salute puo' essere stabilito che i messaggi pubblicitari autorizzati ai sensi dell'articolo 118 contengono il numero di AIC del medicinale.
 
 ## Art. 118. — Autorizzazione della pubblicita' presso il pubblico
+
+1.
+                        
+                            
+                                Nessuna pubblicita' di medicinali presso il pubblico puo' essere effettuata senza autorizzazione del Ministero della salute, ad eccezione: 
+ 
+                            
+                            
+                                a)
+                                
+                                    delle inserzioni pubblicitarie sulla stampa quotidiana o periodica ((e sulle pagine web)) che, ferme restando le disposizioni dell'articolo 116, comma 1, si limitano a riprodurre integralmente e senza modifiche le indicazioni, le controindicazioni, le opportune precauzioni d'impiego, le interazioni, le avvertenze speciali, gli effetti indesiderati descritti nel foglio illustrativo, con l'eventuale aggiunta di una fotografia o di una rappresentazione grafica dell'imballaggio esterno o del confezionamento primario del medicinale; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    delle fotografie o rappresentazioni grafiche dell'imballaggio esterno o del confezionamento primario dei medicinali apposte ((sui siti internet autorizzati ai sensi dell'articolo 112-quater e)) sui cartelli dei prezzi di vendita al pubblico e degli eventuali sconti praticati esposti da coloro che svolgono attivita' di fornitura al pubblico, limitatamente ai farmaci di cui all'articolo 5 del decreto-legge 4 luglio 2006, n. 223, convertito, con modificazioni, dalla legge 4 agosto 2006, n. 248.
 
 L'autorizzazione e' rilasciata dal Ministero della salute, sentita la Commissione di esperti prevista dall'articolo 201 del testo unico delle leggi sanitarie di cui al regio decreto 27 luglio 1934, n. 1265, e successive modificazioni. (13)
 
@@ -1280,6 +3489,31 @@ COMMA ABROGATO DAL D.P.R. 14 MAGGIO 2007, N. 86.
 COMMA ABROGATO DAL D.P.R. 14 MAGGIO 2007, N. 86.
 
 COMMA ABROGATO DAL D.P.R. 14 MAGGIO 2007, N. 86.
+
+6.
+                        
+                            
+                                Il parere della Commissione non e' obbligatorio nei seguenti casi: 
+ 
+                            
+                            
+                                a)
+                                
+                                    se il messaggio pubblicitario non puo' essere autorizzato, risultando in evidente contrasto con le disposizioni degli articoli 114, 115 e 116, comma 1, lettera b), e dell'articolo 117, comma 1, lettere c) ed f); 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    se il messaggio e' destinato ad essere pubblicato sulla stampa quotidiana o periodica, o ad essere diffuso a mezzo radiofonico, ed e' stato approvato da un istituto di autodisciplina formato dalle associazioni maggiormente rappresentative interessate alla diffusione della pubblicita' dei medicinali di automedicazione riconosciuto dal Ministero della salute; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    se il messaggio costituisce parte di altro gia' autorizzato su parere della Commissione.
 
 Il Ministro della salute, verificata la correttezza delle valutazioni dell'Istituto di cui al comma 6, lettera b), con decreto da pubblicare nella Gazzetta Ufficiale della Repubblica italiana estende la procedura di cui al predetto comma 6, lettera b), ai messaggi pubblicitari televisivi e cinematografici.
 
@@ -1292,6 +3526,24 @@ Eventuali provvedimenti del Ministero della salute volti a richiedere la modific
 I messaggi diffusi per via radiofonica sono esentati dall'obbligo di riferire gli estremi dell'autorizzazione secondo quanto previsto dai commi 8 e 9.
 
 Le autorizzazioni alla pubblicita' sanitaria dei medicinali hanno validita' di ventiquattro mesi, fatta salva la possibilita' del Ministero della salute di stabilire, motivatamente, un periodo di validita' piu' breve, in relazione alle caratteristiche del messaggio divulgato. Il periodo di validita' decorre dalla data, comunque di non oltre sei mesi posteriore a quella della domanda, indicata dal richiedente per l'inizio della campagna pubblicitaria; in mancanza di tale indicazione, il periodo di validita' decorre dalla data dell'autorizzazione. Le autorizzazioni in corso di validita' alla data di entrata in vigore del presente decreto, per le quali non sia stato stabilito un termine di validita', decadono decorsi 24 mesi da tale data.
+
+13.
+                        
+                            
+                                Se la pubblicita' presso il pubblico e' effettuata in violazione delle disposizioni del presente decreto, il Ministero della salute: 
+ 
+                            
+                            
+                                a)
+                                
+                                    ordina l'immediata cessazione della pubblicita'; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    ordina la diffusione, a spese del trasgressore, di un comunicato di rettifica e di precisazione, secondo modalita' stabilite dallo stesso Ministero, fatto comunque salvo il disposto dell'articolo 7 della legge 5 febbraio 1992, n. 175.
 
 Le disposizioni dei commi 8, 9, 10, 11, 12 e 13, si applicano, altresi', ai dispositivi medici, ivi compresi i diagnostici in vitro utilizzabili senza prescrizione o assistenza del medico o di altro professionista sanitario, nonche' agli altri prodotti diversi dai medicinali per uso umano, soggetti alla disciplina prevista dall'articolo 201, terzo comma, del testo unico delle leggi sanitarie di cui al regio decreto 27 luglio 1934, n. 1265, e successive modificazioni.
 
@@ -1311,6 +3563,24 @@ La pubblicita' di un medicinale presso gli operatori sanitari deve sempre includ
 In deroga al disposto del comma 3, la pubblicita' di un medicinale presso gli operatori sanitari puo' limitarsi alla sola denominazione del medicinale, con la specificazione della denominazione comune della sostanza o delle sostanze attive che lo compongono. A tali indicazioni puo' aggiungersi il nome del titolare dell'AIC seguito, nell'ipotesi prevista dal comma 5, dal nome di chi provvede all'effettiva commercializzazione del prodotto.
 
 L'attuazione della pubblicita' presso gli operatori sanitari puo' essere realizzata, anche in forma congiunta con il titolare dell'AIC del medicinale, ma comunque in base ad uno specifico accordo con questo, da altra impresa ((. . .)). In tali ipotesi restano fermi, peraltro, sia gli obblighi e le responsabilita' dell'impresa titolare AIC del medicinale, in ordine all'attivita' di informazione svolta dall'altra impresa, sia l'obbligo di cui all'articolo 122, comma 3.
+
+6.
+                        
+                            
+                                Se l'informazione promozionale presso gli operatori sanitari e' effettuata in violazione delle disposizioni e dei criteri e delle direttive adottate dall'AIFA ai sensi del comma 2, l'Agenzia stessa:
+ 
+                            
+                            
+                                a)
+                                
+                                    ordina l'immediata cessazione o sospensione dell'informazione promozionale;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    ordina la diffusione, a spese del trasgressore, di un comunicato di rettifica e di precisazione, la cui redazione sara' curata secondo le modalita' stabilite dall'AIFA. Tale comunicato potra' essere inserito a cura dell'AIFA sul Bollettino di informazione sui farmaci e sul sito internet istituzionale della medesima e, a cura e a spese dell'Azienda, sul sito internet di quest'ultima o anche su quotidiani a tiratura nazionale.
 
 Le disposizioni dei commi 1, 3, 4 e 5 e le disposizioni degli articoli 121 e 125 si applicano senza pregiudizio di quanto disciplinato dalle regioni ai sensi del comma 21 dell'articolo 48 del decreto-legge 30 settembre 2003, n. 269, convertito, con modificazioni, dalla legge 24 novembre 2003, n. 326.
 
@@ -1370,6 +3640,52 @@ I medici e i farmacisti non possono sollecitare o accettare alcun incentivo viet
 
 ## Art. 124. — Convegni o congressi e altri incontri riguardanti i medicinali
 
+1.
+                        
+                            
+                                Ogni impresa farmaceutica in possesso delle autorizzazioni previste dal titolo III o dal titolo IV, ovvero che, in base ad uno specifico accordo con il titolare dell'AIC, provvede all'effettiva commercializzazione di medicinali, che organizza o contribuisce a realizzare, mediante finanziamenti o erogazione di altre utilita' anche indiretti, in Italia o all'estero, un congresso, un convegno o una riunione su tematiche comunque attinenti all'impiego di medicinali dalla stessa impresa prodotti o commercializzati, deve trasmettere al competente ufficio dell'AIFA, almeno sessanta giorni prima della data dell'inizio del congresso o incontro, una comunicazione, con firma autenticata, contenente i seguenti elementi:
+ 
+                            
+                            
+                                a)
+                                
+                                    propria denominazione o ragione sociale, codice fiscale e sede;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    sede e data della manifestazione;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    destinatari dell'iniziativa;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    oggetto della tematica trattata, correlazione esistente fra questa e i medicinali di cui l'impresa e' titolare, programma e razionale scientifico della manifestazione;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    qualificazione professionale e scientifica dei relatori;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    preventivo analitico delle spese; quando l'impresa si limita a fornire un contributo agli organizzatori, devono essere indicati l'entita' e le modalita' dello stesso, nonche' eventuali diritti o facolta' concessi dagli organizzatori come corrispettivo.
+
 Quando alla realizzazione di uno stesso congresso, convegno o riunione contribuiscono piu' imprese farmaceutiche, le comunicazioni di cui al comma 1 devono pervenire congiuntamente, per il tramite degli organizzatori, con un prospetto riepilogativo delle imprese partecipanti. Le comunicazioni inviate in difformita' da quanto stabilito dal presente comma sono prive di efficacia.
 
 Le manifestazioni di cui ai commi 1 e 2 devono attenersi a criteri di stretta natura tecnica ed essere orientate allo sviluppo delle conoscenze nei settori della chimica, tecnica farmaceutica, biochimica, fisiologia, patologia e clinica e devono realizzarsi nel rispetto di quanto previsto dal presente decreto e dei criteri e delle linee guida stabilite dall'AIFA ai sensi del comma 2 dell'articolo 119. E' vietata la partecipazione di imprese farmaceutiche a convegni o riunioni di carattere sindacale.
@@ -1423,6 +3739,38 @@ Ogni impresa titolare dell'AIC di medicinali deve essere dotata di un servizio s
 
 Per i medicinali il cui titolare di AIC ha sede all'estero, l'adempimento previsto dal comma 1 deve essere soddisfatto dall'impresa che rappresenta in Italia il titolare dell'autorizzazione o che, comunque, provvede alla importazione e distribuzione dei medicinali.
 
+3.
+                        
+                            
+                                Il titolare dell'AIC e i soggetti previsti dal comma 2:
+ 
+                            
+                            
+                                a)
+                                
+                                    si assicurano che la pubblicita' farmaceutica della propria impresa e' conforme alle prescrizioni del presente decreto;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    verificano che gli informatori scientifici alle proprie dipendenze sono in possesso di una formazione adeguata e rispettino gli obblighi imposti dal presente decreto;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    forniscono all'AIFA l'informazione e l'assistenza eventualmente richiesta per l'esercizio delle competenze della stessa;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    curano che i provvedimenti adottati dal Ministero della salute e dall'AIFA ai sensi del presente decreto sono rispettati immediatamente e integralmente.
+
 Gli adempimenti indicati nei commi 1 e 3 devono essere soddisfatti sia dal titolare dell'AIC, sia da chi provvede all'effettiva commercializzazione del medicinale, nel rispetto delle condizioni previste dal comma 5 dell'articolo 119.
 
 ## Art. 127. — Pubblicita' presso gli operatori sanitari svolta irregolarmente
@@ -1440,6 +3788,52 @@ E' vietata qualsiasi forma di pubblicita' al pubblico dei medicinali omeopatici 
 ## Art. 129. — Sistema nazionale di farmacovigilanza
 
 Il sistema nazionale di farmacovigilanza fa capo all'AIFA.
+
+2.
+                        
+                            
+                                L'AIFA conformemente alle modalita' concordate a livello comunitario e definite dall'EMEA, nonche' alle linee direttrici elaborate dalla Commissione europea ai sensi dell'articolo 106, paragrafo 1, della direttiva n. 2001/83/CE: 
+ 
+                            
+                            
+                                a)
+                                
+                                    raccoglie e valuta informazioni utili per la sorveglianza dei medicinali con particolare riguardo allereazioni avverse, all'uso improprio, nonche' all'abuso degli stessi tenendo conto anche dei dati relativi ai consumi dei medesimi; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    promuove il processo di informatizzazione di tutti i flussi di dati necessari alla farmacovigilanza gestendo e coordinando, in particolare, la rete telematica nazionale di farmacovigilanza, che collega le strutture sanitarie, le regioni e le aziende farmaceutiche; collabora altresi' con l'EMEA, con i competenti organismi degli Stati membri della Comunita' europea e con la Commissione europea alla costituzione ed alla gestione di una rete informatizzata europea per agevolare lo scambio delle informazioni inerenti alla farmacovigilanza dei medicinali commercializzati nella Comunita' europea per consentire a tutte le autorita' competenti di condividere le informazioni simultaneamente; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    promuove e coordina, anche in collaborazione con l'Istituto superiore di sanita', studi e ricerche di farmacoutilizzazione, farmacovigilanza attiva e farmacoepidemiologia; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    adotta, coadiuvata dalle regioni, iniziative atte a promuovere le segnalazioni spontanee da parte degli operatori sanitari; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    promuove iniziative idonee per la corretta comunicazione delle informazioni relative alla farmacovigilanza ai cittadini ed agli operatori sanitari; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    provvede, avvalendosi della Commissione tecnico scientifica e in collaborazione con il Consiglio superiore di sanita', a predisporre la relazione annuale al Parlamento sulla farmacovigilanza.
 
 Le regioni, singolarmente o di intesa fra loro, collaborano con l'AIFA nell'attivita' di farmacovigilanza, fornendo elementi di conoscenza e valutazione ad integrazione dei dati che pervengono all'AIFA ai sensi dell'articolo 131. Le regioni provvedono, nell'ambito delle proprie competenze, alla diffusione delle informazioni al personale sanitario ed alla formazione degli operatori nel campo della farmacovigilanza. Le regioni collaborano inoltre a fornire i dati sui consumi dei medicinali mediante programmi di monitoraggio sulle prescrizioni dei medicinali a livello regionale. Le regioni si possono avvalere per la loro attivita' anche di appositi Centri di farmacovigilanza.
 
@@ -1486,6 +3880,53 @@ COMMA ABROGATO DAL D.L. 13 SETTEMBRE 2012, N. 158, CONVERTITO CON MODIFICAZIONI 
  La L. 24 dicembre 2012, n. 228 ha disposto (con l'art. 1, comma 345) che "Dalla data di entrata in vigore del decreto di cui al comma 344, sono abrogate le disposizioni di cui al Titolo IX del decreto legislativo 24 aprile 2006, n. 219 e successive modificazioni."
 
 ## Art. 131. — Responsabile del servizio di farmacovigilanza
+
+1.
+                        
+                            
+                                Il responsabile del servizio di farmacovigilanza di cui al comma 4 dell'articolo 130, risiede in un Paese membro della Comunita' europea; egli assicura: 
+ 
+                            
+                            
+                                a)
+                                
+                                    l'istituzione ed il funzionamento di un sistema atto a garantire che le informazioni su tutte le presunte reazioni avverse comunicate al personale dell'azienda ed agli informatori medico-scientifici, sono raccolte, ordinate e accessibili in un unico luogo; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    che tutte le informazioni relative alla sicurezza dei medicinali, successive all'atto dell'autorizzazione, siano portate rapidamente a conoscenza del personale sanitario anche tramite i contatti del servizio di informazione scientifica della propria azienda; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    l'elaborazione dei rapporti di cui al comma 5 dell'articolo 130, da sottoporre alle autorita' competenti secondo le modalita' stabilite dall'AIFA, che tiene conto delle indicazioni dei competenti organismi internazionali e comunitari; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    la trasmissione alla struttura sanitaria di pertinenza delle segnalazioni di sospette reazioni avverse gravi o inattese avvenute sul territorio nazionale ricevute direttamente dal segnalatore e non tramite la rete nazionale di farmacovigilanza; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    la trasmissione, in maniera rapida ed esauriente, ad ogni richiesta dell'AIFA, di informazioni supplementari ai fini della valutazione dei benefici e dei rischi di un medicinale, comprese le informazioni riguardanti i volumi di vendita o di prescrizione dello stesso; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    la presentazione all'AIFA di qualunque altra informazione rilevante ai fini della valutazione dei benefici e dei rischi relativi ad un medicinale, incluse le appropriate informazioni su studi di sicurezza post-autorizzativi. 
+ ((12))
 
 -----------------
                             AGGIORNAMENTO (12)
@@ -1566,7 +4007,64 @@ L'AIFA puo' esigere dai produttori di medicinali immunologici o di medicinali de
 
 ## Art. 138. — Controllo di stato dei medicinali immunologici
 
+1.
+                        
+                            
+                                Prima della loro distribuzione, sono sottoposti a controllo di stato, lotto per lotto:
+ 
+                            
+                            
+                                a)
+                                
+                                    i vaccini vivi;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    i medicinali immunologici utilizzati per l'immunizzazione attiva dei bambini o di altri gruppi a rischio;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    i medicinali immunologici utilizzati in programmi di immunizzazione attiva collettiva;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    limitatamente ad un periodo transitorio, di norma stabilito nell'AIC, i medicinali immunologici nuovi o preparati con l'ausilio di tecniche nuove o modificate, ovvero che presentano carattere innovativo per il produttore.
+
 Con decreto del Ministro della salute, sentiti l'Istituto superiore di sanita' ed il Consiglio superiore di sanita', entro sei mesi dalla data di entrata in vigore del presente decreto, sono dettate prescrizioni e procedure tecniche per l'esecuzione dei controlli previsti dal comma 1, che, effettuati dall'Istituto superiore di sanita', devono essere completati entro sessanta giorni dalla ricezione dei campioni.
+
+3.
+                        
+                            
+                                Con le modalita' indicate nel comma 2:
+ 
+                            
+                            
+                                a)
+                                
+                                    possono essere sottoposti a controllo di stato, tenuto conto delle direttive della Comunita' europea, medicinali immunologici diversi da quelli indicati nel comma 1 quando lo richiedano particolari esigenze di tutela della salute pubblica;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    puo' essere stabilito che, per determinati prodotti, il controllo di stato e' effettuato, anziche' su campioni dei medicinali, sulla documentazione relativa ai controlli eseguiti dal produttore;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    possono essere esentati dal controllo di stato medicinali immunologici che offrono sufficienti garanzie di sicurezza e uniformita'.
 
 Il controllo di stato non e' richiesto quando il lotto e' stato gia' sottoposto ad analogo controllo da parte dell'autorita' sanitaria di altro Stato membro della Comunita' europea o di uno Stato con il quale esistono accordi bilaterali.
 
@@ -1583,6 +4081,38 @@ Ai fini del rilascio dell'AIC di medicinali derivati dal sangue o dal plasma uma
 ## Art. 141. — Sospensione, revoca e modifica d'ufficio di una AIC
 
 L'AIC di un medicinale, rilasciata dall'AIFA, puo' essere revocata.
+
+2.
+                        
+                            
+                                La revoca, che comporta il definitivo ritiro dal commercio del medicinale, e' disposta quando, a motivato giudizio dell'AIFA: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il medicinale e' nocivo nelle normali condizioni di impiego; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il medicinale non permette di ottenere l'effetto terapeutico o l'effetto per il quale e' stato autorizzato; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il rapporto rischio/beneficio non e' favorevole nelle normali condizioni d'impiego; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    il medicinale non ha la composizione qualitativa e quantitativa dichiarata.
 
 L'autorizzazione puo' essere revocata anche nel caso in cui si riscontra che le informazioni presenti nel fascicolo a norma dell'articolo 8 o degli articoli 10, 11, 12, 13 e 14 sono errate o non sono state modificate a norma dell'articolo 33, o quando non sono stati eseguiti i controlli sul prodotto finito, o sui componenti e sui prodotti intermedi della produzione, in base ai metodi adottati per l'AIC, nonche' nei casi in cui le sperimentazioni presentate a supporto della richiesta di AIC siano state condotte senza rispettare i principi e le linee guida delle norme di buona pratica clinica fissati dalla normativa comunitaria.
 
@@ -1614,6 +4144,31 @@ Le disposizioni di cui ai commi 1 e 2 si estendono, per quanto applicabili, anch
 ((
 
 Il sistema nazionale antifalsificazione, inteso a impedire sia la circolazione sul territorio nazionale di medicinali di cui si ha notizia che siano falsificati e potenzialmente pericolosi per la salute sia che essi possano raggiungere i pazienti, e' gestito dall'AIFA con il supporto della task-force nazionale anti-falsificazione di cui all'articolo 142-ter.
+
+2.
+                        
+                            
+                                Il sistema di cui al comma 1 comprende: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la ricezione e la gestione delle segnalazioni di medicinali dei quali si hanno notizie che inducono a ritenere si tratti di medicinali falsificati e di medicinali che si ritiene presentino difetti di qualita'; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    i richiami di medicinali a opera dei titolari delle autorizzazioni all'immissione in commercio o i ritiri di medicinali dal mercato disposti dall'AIFA presso tutti i soggetti della catena di fornitura, anche al di fuori del normale orario di lavoro; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il ritiro dei suddetti medicinali anche presso i pazienti che li hanno ricevuti se necessario con l'assistenza di operatori sanitari.
 
 Qualora si hanno notizie che inducono a ritenere che un medicinale sia stato falsificato e rappresenti un rischio per la salute pubblica e non si sia gia' provveduto al riguardo, l'AIFA trasmette immediatamente una notifica di allerta rapida alle autorita' competenti degli altri Stati membri e a tutti i soggetti della catena di distribuzione sul territorio nazionale.
 
@@ -1854,6 +4409,24 @@ Un rappresentante della competente Direzione generale del Ministero della salute
 
 ## Art. 156. — Certificazioni concernenti la produzione di medicinali
 
+1.
+                        
+                            
+                                L'AIFA certifica, a richiesta del produttore, dell'esportatore o delle autorita' di un paese terzo importatore, il possesso da parte del produttore dell'autorizzazione alla produzione di medicinali e ((sostanze attive)). Nel rilasciare il certificato, l'AIFA: 
+ 
+                            
+                            
+                                a)
+                                
+                                    tiene conto delle disposizioni dell'Organizzazione mondiale della sanita'; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    fornisce, per i medicinali gia' autorizzati e destinati all'esportazione, il riassunto delle caratteristiche del prodotto.
+
 Il produttore che non sia in possesso di un'AIC e' tenuto a fornire all'AIFA, ai fini del rilascio del certificato di cui al comma 1, i motivi della mancanza di tale autorizzazione, nonche' copia dell'AIC nel Paese di destinazione, o la domanda di autorizzazione presentata alle autorita' di tale Paese.
 
 ## Art. 157. — Sistemi di raccolta di medicinali inutilizzati o scaduti
@@ -1901,6 +4474,31 @@ Le disposizioni di cui ai decreti ministeriali richiamati ai commi 6 e 7, posson
 Resta in ogni caso ferma la necessita' dell'autorizzazione ministeriale per l'introduzione nel territorio nazionale, nelle ipotesi previste dai commi 6 e 7, di medicinali sottoposti alla disciplina del testo unico di cui al decreto del Presidente della Repubblica 9 ottobre 1990, n. 309, e successive modificazioni.
 
 Con decreto del Ministro della salute, da adottarsi entro centoventi giorni dalla data di entrata in vigore del presente decreto, tenuto conto anche delle linee guida EMEA per l'uso compassionevole dei medicinali, sono stabiliti i criteri e le modalita' per l'uso di medicinali privi di AIC in Italia, incluso l'utilizzo al di fuori del riassunto delle caratteristiche del prodotto autorizzato nel paese di provenienza e l'uso compassionevole di medicinali non ancora registrati. Fino alla data di entrata in vigore del predetto decreto ministeriale, resta in vigore il decreto ministeriale 8 maggio 2003, pubblicato sulla Gazzetta Ufficiale della Repubblica italiana n. 173 del 28 luglio 2003.
+
+11.
+                        
+                            
+                                Sono confermate: 
+ 
+                            
+                            
+                                a)
+                                
+                                    le tariffe vigenti alla data di entrata in vigore del presente decreto, concernenti le prestazioni rese dal Ministero della salute a richiesta ed utilita' dei soggetti interessati, sulla base di quanto previsto dall'articolo 5, comma 12, della legge 29 dicembre 1990, n. 407; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le tariffe gia' previste dall'articolo 12, comma 7, del decreto legislativo 30 dicembre 1992, n. 541. 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    le tariffe stabilite per l'esame di domande di AIC di medicinali e per le domande di modifica e di rinnovo delle autorizzazioni stesse, in applicazione dell'articolo 5, comma 1, del decreto legislativo 18 febbraio 1997, n. 44.
 
 ((Le tariffe vigenti alla data del 1º gennaio 2015 sono aggiornate con decreto del Ministro della salute, sentita l'AIFA. Con lo stesso decreto sono individuate, in misura che tiene conto delle affinita' tra le prestazioni rese, le tariffe relative a prestazioni non ancora tariffate, nonche' tariffe ridotte per le piccole e medie imprese, in analogia a quanto gia' previsto dall'articolo 17 del decreto-legge 6 luglio 2011, n. 98, convertito, con modificazioni, dalla legge 15 luglio 2011, n. 111, in materia di diritto annuale, applicabili alle variazioni delle AIC di carattere amministrativo ed a quelle connesse alla modifica del sito di produzione)). A decorrere dal 2014, entro il mese di marzo di ogni anno, le tariffe e il diritto annuale sono aggiornati, con le stesse modalita', sulla base delle variazioni annuali dell'indice ISTAT del costo della vita riferite al mese di dicembre. Il Ministro della salute, su proposta dell'AIFA, identifica le variazioni di AIC tra loro collegate da un rapporto di consequenzialita' o correlazione, alle quali non si applica la tariffa in quanto non comportano una prestazione aggiuntiva da parte dell'AIFA. ((17))
 

@@ -7,8 +7,8 @@ urn: urn:nir:ministero.interno:decreto:2020-02-17;20
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:39Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -27,6 +27,80 @@ Il presente regolamento, in attuazione dell'articolo 2, terzo comma, ultimo peri
 Il presente regolamento disciplina, altresi', le modalita' di verifica della conformita' dei prototipi degli strumenti marcatori di cui al comma 1 a cura del Banco Nazionale di prova.
 
 ## Art. 2. — Definizioni
+
+1.
+                    
+                        
+                            Ai fini del presente regolamento, si intende per: 
+ 
+                        
+                        
+                            a)
+                            
+                                «attivita' agonistica»: l'attivita' svolta con gli strumenti marcatori di cui all'articolo 1, comma 1, in campi attrezzati, nell'ambito di attivita' sportive, praticate con allenamenti costanti e partecipando a gare o incontri, organizzati da associazioni, enti, societa' o soggetti privati, aventi come finalita' quella di promuovere la pratica sportiva; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                «attivita' amatoriale»: l'attivita' svolta con gli strumenti marcatori di cui all'articolo 1, comma 1, per divertimento o passione, in campi attrezzati, per motivi di intrattenimento o svago; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                «Banco Nazionale di prova»: il Banco Nazionale di prova di Gardone Valtrompia, di cui all'art. 11 della legge 18 aprile 1975, n.110; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                «campi attrezzati»: aree autorizzate ed attrezzate per lo svolgimento delle attivita' amatoriali ed agonistiche nelle quali sono impiegati strumenti ad aria compressa o gas compresso a canna liscia e a funzionamento non automatico, destinati al lancio di capsule sferiche marcatrici, prive di sostanze o miscele pericolose; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                «capsule marcatrici»: le capsule sferiche marcatrici, prive di sostanze o miscele classificate come pericolose dall'articolo 3 del regolamento n. 1272/2008/CE del Parlamento europeo e del Consiglio del 16 dicembre 2008 e conformi a quanto previsto dall'articolo 7 del presente decreto; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                «Testo unico delle leggi di pubblica sicurezza»: il regio decreto 18 giugno 1931, n. 773, recante «Approvazione del testo unico delle leggi di pubblica sicurezza e successive modifiche e integrazioni»; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                «Regolamento per l'esecuzione del testo unico delle leggi di pubblica sicurezza»: il regio decreto 6 maggio 1940, n. 635, recante «Approvazione del regolamento per l'esecuzione del testo unico 18 giugno 1931, n. 773, delle leggi di pubblica sicurezza»; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                «strumento marcatore da impiegare nell'attivita' amatoriale»: gli strumenti ad aria compressa o gas compresso a canna liscia e a funzionamento non automatico, destinati al lancio di capsule sferiche marcatrici, prive di sostanze o miscele pericolose, che erogano una energia cinetica non superiore a 7,5 joule, purche' di calibro non inferiore a 12,7 millimetri e non superiore a 17,27 millimetri, che, ai sensi dell'articolo 2, terzo comma, della legge n. 110 del 1975, non sono armi; 
+
+                            
+                        
+                        
+                            i)
+                            
+                                «strumento marcatore da impiegare nell'attivita' agonistica»: gli strumenti ad aria compressa o gas compresso a canna liscia e a funzionamento non automatico, destinati al lancio di capsule sferiche marcatrici, prive di sostanze o miscele pericolose, che erogano una energia cinetica non superiore a 12,7 joule, purche' di calibro non inferiore a 12,7 millimetri e non superiore a 17,27 millimetri, che, ai sensi dell'articolo 2, terzo comma, della legge n. 110 del 1975, non sono armi; 
+
+                            
+                        
+                        
+                            l)
+                            
+                                «verifica di conformita'»: la verifica di conformita' da parte del Banco Nazionale di prova dei prototipi degli strumenti da impiegare nell'attivita' amatoriale ed in quella agonistica, aventi le caratteristiche di cui all'articolo 2,terzo comma, della legge n. 110 del 1975.
 
 ## Art. 3.
 
@@ -58,6 +132,38 @@ Utilizzo degli strumenti da impiegare
  nell'attivita' amatoriale e in quella agonistica
 
 L'utilizzo degli strumenti marcatori da impiegare nell'attivita' amatoriale e in quella agonistica e' consentito esclusivamente nei campi attrezzati. Ove i campi attrezzati siano realizzati in luoghi pubblici o aperti al pubblico, il loro utilizzo deve essere autorizzato ai sensi dell'articolo 68 del Testo unico delle leggi di pubblica sicurezza. Di ogni evento i promotori devono darne avviso all'Autorita' locale di pubblica sicurezza ai sensi dell'articolo 123 del Regolamento per l'esecuzione del Testo unico delle leggi di pubblica sicurezza.
+
+2.
+                    
+                        
+                            Nei campi attrezzati deve essere garantita la sussistenza delle condizioni minime di sicurezza prescritte dall'Allegato A), che costituisce parte integrante del presente regolamento, con riguardo: 
+ 
+                        
+                        
+                            a)
+                            
+                                all'area di svolgimento delle attivita' amatoriali e agonistiche; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                alla presenza degli assistenti di campo; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                all'uso dei dispositivi di protezione individuale; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                alle capsule marcatrici.
 
 Gli strumenti marcatori da impiegare nell'attivita' amatoriale e in quella agonistica possono essere utilizzati unicamente da soggetti maggiorenni e possono essere affidati ai minori che abbiano compiuto il quattordicesimo anno di eta', sotto la sorveglianza e previo consenso dell'esercente la potesta' genitoriale, ovvero di un soggetto maggiorenne da questi delegato con atto che indichi le generalita' della persona delegata, l'attivita' cui si riferisce, il periodo ed il luogo in cui verra' svolta, eventuali limiti e condizioni al suo esercizio nonche', in caso di attivita' agonistica, l'esplicito assenso al suo svolgimento.
 

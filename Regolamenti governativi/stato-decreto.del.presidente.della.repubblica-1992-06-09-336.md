@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Regolamenti governativi
 vigenza_date: 1996-10-11
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:10Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -63,6 +63,66 @@ Al rettore spetta, per la durata dell'incarico, un'indennita', cumulabile con le
 
 Il comitato ha funzioni consultive e coadiuva il rettore nella predisposizione e nello svolgimento dei programmi didattici, nonche' nel conferimento degli incarichi di insegnamento, di assistenza e di ricerca.
 
+2.
+                        
+                            
+                                Il comitato e' composto da: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il rettore della Scuola, che lo presiede; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il direttore generale della Direzione generale degli affari generali e del personale; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il direttore generale del Dipartimento delle entrate; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    il direttore generale del Dipartimento del territorio; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    il direttore generale del Dipartimento delle dogane; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    il direttore generale dell'Amministrazione autonoma dei monopoli di Stato; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    quattro docenti stabili della Scuola centrale tributaria, coordinatori dei dipartimenti previsti dall'articolo 7; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    il direttore amministrativo della Scuola, con funzioni di segretario.
+
 In caso di assenza o impedimento del rettore il comitato e' presieduto dal piu' anziano di eta' dei docenti stabili componenti il comitato.
 
 I membri di cui alla lettera g) sono nominati, su proposta del rettore, con decreto del Ministro delle finanze, durano in carica tre anni e possono essere riconfermati solo per un altro triennio.
@@ -79,11 +139,128 @@ Il direttore ha la direzione dei servizi amministrativi della Scuola e delle sed
 
 ## Art. 6. — Organizzazione dei servizi amministrativi della Scuola e delle sedi decentrate
 
+1.
+                        
+                            
+                                Dipendono dal direttore amministrativo le divisioni e i servizi di seguito indicati, le cui competenze saranno stabilite con decreti del Ministro delle finanze: 
+ 
+                            
+                            
+                                a)
+                                
+                                    divisione I: programmazione didattica, gestione dei corsi, valutazione dei risultati; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    servizio affari amministrativi di supporto ai dipartimenti, ai gruppi di lavoro ed alle commissioni; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    servizio percorsi formativi e periodi di applicazione per la dirigenza; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    divisione II: biblioteca, documentazione, centro fotoriproduzione e stampa; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    divisione III: affari generali, personale e procedure selettive; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    divisione IV: sedi decentrate; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    servizio amministrativo-contabile.
+
 La Scuola dispone delle seguenti sedi decentrate: Bari, Palermo e Scafati. Con decreto del Ministro delle finanze, di concerto con il Ministro del tesoro, saranno istituite altre sedi decentrate della Scuola, di cui almeno tre nelle regioni del nord, al fine di razionalizzarne la distribuzione territoriale.
 
 Presso ogni sede decentrata e' istituita una segreteria, cui e' preposto un direttore di segreteria, scelto tra i dipendenti del Ministero delle finanze di qualifica non inferiore all'ottava qualifica funzionale, nominato, su proposta del rettore, con decreto del Ministro delle finanze.
 
+4.
+                        
+                            
+                                Il direttore della segreteria di ciascuna delle sedi decentrate: 
+ 
+                            
+                            
+                                a)
+                                
+                                    cura la gestione del personale amministrativo e del personale di assistenza assegnato alla sede; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    cura gli affari amministrativi e contabili, previa autorizzazione da parte del direttore amministrativo delle relative spese, ed e' funzionario delegato; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    assicura il necessario supporto allo svolgimento delle varie attivita' didattiche che si svolgono nella sede decentrata; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    mantiene i rapporti con gli uffici finanziari periferici interessati allo svolgimento di dette attivita'.
+
 ## Art. 7. — Dipartimenti
+
+1.
+                        
+                            
+                                Nell'ambito della Scuola sono costituiti i seguenti quattro dipartimenti con funzioni di ausilio del rettore nella ricerca e nella predisposizione di programmi didattici: 
+ 
+                            
+                            
+                                a)
+                                
+                                    dipartimento delle discipline organizzative ed informatiche; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    dipartimento delle discipline pubblicistiche e tributarie; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    dipartimento delle discipline economiche e finanziarie; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    dipartimento delle discipline aziendalistiche e contabili.
 
 I coordinatori dei singoli dipartimenti sono nominati dal Ministro delle finanze, su proposta del rettore, tra i docenti stabili della Scuola.
 
@@ -129,7 +306,78 @@ Ai corsi puo' essere ammesso un numero di allievi pari a quello dei posti messi 
 
 I bandi relativi ai concorsi di cui all'art. 10 sono emessi, su proposta del rettore, dalla Direzione generale degli affari generali e del personale del Ministero delle finanze, d'intesa con la Scuola superiore della pubblica amministrazione e sentite le organizzazioni sindacali rappresentate nel consiglio di amministrazione, e sono pubblicati nella Gazzetta Ufficiale.
 
+2.
+                        
+                            
+                                Nei bandi sono stabiliti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il numero dei posti messi a concorso nella qualifica cui si riferisce il concorso stesso; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il numero complessivo degli allievi, utilmente collocati nella graduatoria di idoneita', che possono essere ammessi al corso; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    i requisiti giuridici e di studio per l'ammissibilita' al concorso; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    i criteri per lo svolgimento della prova di preselezione e delle due prove scritte, nonche' per lo svolgimento del colloquio, che dovranno essere conformi a quelli stabiliti nell'art. 12; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    ogni altro elemento ritenuto utile ai fini della pubblicita' del bando.
+
 ## Art. 12. — Procedure selettive
+
+1.
+                        
+                            
+                                Gli esami di cui agli articoli 10 e 11 sono effettuati a cura della Scuola centrale tributaria, d'intesa con la Direzione generale degli affari generali e del personale, e consistono: 
+ 
+                            
+                            
+                                a)
+                                
+                                    in una prova di preselezione, della durata minima di un'ora e massima di due ore, nel corso della quale i candidati dovranno rispondere ad una serie di quesiti, con risposta a scelta multipla su supporto cartaceo o elettronico; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    in una prima prova scritta, della durata minima di due ore e massima di tre ore, nella quale verranno proposti ai candidati non meno di tre e non piu' di cinque quesiti, a ciascuno dei quali dovranno rispondere in modo sintetico, nei limiti degli spazi predisposti sugli appositi supporti cartacei; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    in una seconda prova scritta, della durata minima di due ore e massima di quattro, nella quale i candidati dovranno dare risposta, senza limiti di spazio, ad un tema sorteggiato tra quelli proposti dalla commissione esaminatrice, con un minimo di tre temi ed un massimo di nove; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    in un colloquio orale della durata minima di quarantacinque minuti, finalizzato anche a saggiare il grado di conoscenza di almeno una lingua straniera, indicata dal candidato nella domanda di ammissione.
 
 Possono essere ammessi alle prove scritte soltanto coloro che abbiano superato con un minimo di ventuno punti su trenta la prova di preselezione; dei candidati risultati idonei alla preselezione e' compilata una graduatoria in base alla quale e' ammesso alle prove scritte un numero di essi pari al triplo dei posti messi a concorso.
 In caso di parita' si applicano le norme vigenti in materia di preferenza nei concorsi pubblici.
@@ -214,6 +462,31 @@ Gli impiegati delle qualifiche funzionali settima ed ottava, provenienti dai con
 La durata dei corsi, utile anche ai fini del computo del periodo di prova, e' diretta, oltre che ad impartire le nozioni indispensabili per facilitare l'inserimento dei partecipanti nell'Amministrazione finanziaria sotto il profilo organizzativo e professionale, anche a verificare le loro attitudini all'esercizio delle funzioni.
 
 Il comportamento tenuto dai partecipanti durante il corso costituisce elemento di valutazione ai fini del superamento del periodo di prova.
+
+4.
+                        
+                            
+                                I corsi, eventualmente svolti al termine del periodo di prova, hanno lo scopo di consentire ai partecipanti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    di analizzare e valutare, con l'aiuto dei docenti, i risultati dell'esperienza operativa compiuta; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    di verificare, alla luce delle diverse realta' operative, e sempre con l'aiuto dei docenti della Scuola, la validita' degli insegnamenti ricevuti; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    di tracciare, per ciascuno dei partecipanti, un percorso formativo adatto alle loro necessita', da attuare con la necessaria gradualita' e flessibilita' nel corso degli anni successivi.
 
 I corsi di formazione possono essere svolti presso la sede centrale della Scuola, oppure presso le sue sedi decentrate.
 

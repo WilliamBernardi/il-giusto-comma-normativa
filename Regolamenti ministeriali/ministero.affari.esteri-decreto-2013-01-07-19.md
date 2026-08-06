@@ -7,8 +7,8 @@ urn: urn:nir:ministero.affari.esteri:decreto:2013-01-07;19
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:41Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -33,6 +33,66 @@ Udito il parere del Consiglio di Stato n. 11702/2012 espresso dalla Sezione cons
 Ai sensi dell'articolo 7 del decreto legislativo 22 giugno 2012, n. 105, il presente regolamento detta la disciplina di attuazione delle norme in materia di controllo dell'esportazione, importazione e transito dei materiali d'armamento, di cui alla legge 9 luglio 1990, n. 185, e successive modificazioni.
 
 ## Art. 2. — Definizioni
+
+1.
+                        
+                            
+                                Ai fini del presente regolamento si intende per: 
+ 
+                            
+                            
+                                a)
+                                
+                                    «legge»: la legge 9 luglio 1990, n. 185, e successive modificazioni; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    «materiali»: i materiali di armamento di cui all'articolo 2 della legge; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    «elenco»: l'elenco dei materiali di armamento di cui all'articolo 2, comma 3, della legge; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    «registro»: il registro nazionale delle imprese di cui all'articolo 3 della legge; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    «operatore» e «operatori»: i soggetti interessati a ottenere o che hanno ottenuto il rilascio delle autorizzazioni e nulla osta di cui alla legge, nonche' i soggetti che effettuano le transazioni bancarie di cui all'articolo 27 della legge; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    «operazione» ed «operazioni»: esportazione e importazione, definitiva o temporanea; transito; cessione di licenze di produzione, trasferimento intracomunitario, intermediazione, delocalizzazione produttiva, trasferimento intangibile, concessione di licenze di fabbricazione e trasformazione o adattamento di materiali e mezzi, di cui all'articolo 1 e all'articolo 2, commi 5 e 7, della legge; prestazione o cessione di servizi di cui all'articolo 2, comma 6, all'articolo 9, comma 5, lettera a), e all'articolo 11, comma 2, lettera b), della legge; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    «comitato»: il comitato consultivo di cui all'articolo 7 della legge; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    «Autorita' nazionale - UAMA»: l'Unita' per le autorizzazioni dei materiali di armamento di cui all'articolo 7-bis della legge.
 
 ## - Capo I Norme generali sui procedimenti
 
@@ -74,6 +134,31 @@ Salve le condizioni o limitazioni disposte per il rilascio di singole autorizzaz
 
 Sono considerate «apposite intese intergovernative», ai fini dell'applicazione dell'articolo 9, comma 4, della legge, quelle in cui e' esplicitamente contemplata la possibilita' che fra i due Paesi possano avvenire operazioni di interscambio di materiali di armamento.
 
+3.
+                        
+                            
+                                Le «apposite intese intergovernative», il cui contenuto deve essere preventivamente sottoposto alla valutazione del Ministero degli affari esteri per quanto riguarda i riflessi di sua competenza, devono: 
+ 
+                            
+                            
+                                a)
+                                
+                                    prevedere che le suddette operazioni di interscambio avvengano tra Stato e Stato oppure societa' private autorizzate dai rispettivi Governi; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    prevedere che i rispettivi Governi si impegnino a non riesportare il materiale acquisito a Paesi terzi senza il preventivo benestare del Paese cedente; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    fare esplicito riferimento alle categorie di cui all'articolo 2, comma 2, della legge, eventualmente integrate o modificate secondo il disposto del medesimo articolo 2, comma 3, considerando incluse, anche se non indicate, quelle che concorrono all'allestimento finale del sistema.
+
 Tra le apposite intese intergovernative rientrano i «Memoranda of Understanding» (MoU) stipulati dal Ministero della difesa che contengono le suddette clausole.
 
 ## Art. 7. — Autorizzazioni alle trattative contrattuali
@@ -90,6 +175,80 @@ Decorso il termine di cui all'articolo 9, comma 4, della legge, senza che il Min
 
 Il Ministero della difesa rilascia il nulla osta di cui all'articolo 9, comma 5, della legge, entro trenta giorni dal ricevimento della comunicazione di cui all'articolo 9, comma 1, della legge. Decorso inutilmente tale termine, le trattative possono essere proseguite, fatto salvo quanto previsto dall'articolo 1, comma 11-quater, della legge.
 
+7.
+                        
+                            
+                                Nella comunicazione di cui al comma 1 sono indicati i seguenti dati: 
+ 
+                            
+                            
+                                a)
+                                
+                                    estremi di iscrizione nel registro; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    denominazione e indirizzo dei partecipanti, a qualunque titolo, alle trattative; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    oggetto del contratto che si intende stipulare, con descrizione sintetica del tipo dei materiali oggetto delle trattative e delle loro caratteristiche, in riferimento alla lista di cui all'articolo 18 della legge o eventualmente all'elenco di cui all'articolo 2, comma 3, della legge stessa, e alla voce doganale; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    valore stimato o preventivato dell'oggetto della trattativa; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    quantita' stimata o preventivata dei materiali, con relativa unita' di misura, e dei servizi, nonche' loro classifica di segretezza; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    Paesi di destinazione e di utilizzazione finale se diversi dal destinatario in caso di esportazione, di provenienza in caso di importazione, di provenienza e di destinazione in caso di transito; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    imprese di destinazione intermedia e finale in caso di esportazione, di provenienza in caso di importazione, di provenienza e di destinazione in caso di transito; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    estremi della abilitazione societaria rilasciata dall'Autorita' nazionale per la sicurezza e il relativo livello; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    per operazioni di cui all'articolo 9, comma 5, della legge, a esclusione della lettera e) del medesimo comma, estremi della precedente autorizzazione o documento doganale o altro equivalente; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    estremi del bando della gara cui l'operatore intende eventualmente partecipare.
+
 Tra le operazioni di cui all'articolo 9, comma 5, lettera a), della legge, si intendono incluse quelle operazioni che prevedono l'esportazione di attrezzature per la riparazione e la manutenzione da effettuarsi in loco.
 
 Quando i Ministri degli affari esteri e della difesa intendono avvalersi del comitato ai sensi dell'articolo 9, comma 6, della legge, il relativo parere e' reso entro quindici giorni dalla data della richiesta.
@@ -104,6 +263,67 @@ Le disposizioni di cui al presente articolo non si applicano ai programmi interg
 
 ## Art. 8. — Domande di autorizzazione
 
+1.
+                        
+                            
+                                La domanda per l'autorizzazione di cui all'articolo 11 della legge e' presentata dall'operatore al Ministero degli affari esteri - UAMA, che provvede entro il termine di sessanta giorni a rilasciare l'autorizzazione richiesta ovvero a comunicarne, con provvedimento motivato, il diniego. Il decorso del termine resta sospeso in caso di richiesta di documentazione o notizie integrative da parte dell'amministrazione ricevente sino all'acquisizione della stessa.
+Nella domanda sono indicati i seguenti dati, oltre a quelli di cui all'articolo 11, comma 2, della legge: 
+ 
+                            
+                            
+                                a)
+                                
+                                    estremi di iscrizione nel registro; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    tipo di materiali oggetto dell'operazione, con estremi di riferimento alla lista di cui all'articolo 18 della legge ed eventualmente all'elenco di cui all'articolo 2, comma 3, della legge ed alla voce doganale corrispondente; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    classifica di segretezza del materiale o dell'oggetto dell'operazione; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    Paesi di provenienza per operazioni di importazione e di transito; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    soggetti intermediari commerciali citati nel contratto; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    modalita' di regolamento finanziario delle prestazioni comprese nell'operazione; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    dogane interessate dall'esecuzione, anche frazionata, dell'operazione; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    nei casi dubbi, a richiesta dell'operatore, il Ministero degli affari esteri comunica se accludere il «certificato di importazione» o il «certificato di uso finale» di cui all'articolo 11, comma 3, lettera c), della legge.
+
 L'obbligo di accludere alla domanda di cui al comma 1 copia dell'autorizzazione a trattare o del nulla-osta e' adempiuto dall'operatore presentando copia della comunicazione di inizio di trattative e, ove emanato, del provvedimento che ha posto condizioni e limitazioni.
 
 Quando le autorizzazioni di cui ai commi 1 e 4 sono rilasciate previo parere del comitato, esso e' reso entro quindici giorni dalla data della richiesta. Ove il comitato abbia rappresentato proprie esigenze istruttorie dovute alla natura dell'affare, il termine e' prorogato per la stessa durata, a decorrere dalla scadenza, e per una sola volta.
@@ -112,10 +332,176 @@ Per l'autorizzazione o il diniego della proroga dei termini di effettuazione del
 
 La domanda per il rilascio della licenza globale di progetto di cui all'articolo 11, comma 5-bis, della legge, e' presentata al Ministero degli affari esteri - UAMA e inviata per conoscenza, a cura dell'operatore, al Ministero della difesa - Segretariato generale della difesa, II Reparto. Il Ministero degli affari esteri provvede, entro il termine di sessanta giorni, a rilasciare l'autorizzazione richiesta o a comunicare, con provvedimento motivato, il diniego. Il decorso del termine resta sospeso in caso di richiesta di documentazione o notizie integrative da parte del Ministero degli affari esteri sino all'acquisizione della stessa.
 
+6.
+                        
+                            
+                                Nella domanda, redatta secondo le direttive emanate dal Ministero degli affari esteri, dovranno essere indicati anche i seguenti dati: 
+ 
+                            
+                            
+                                a)
+                                
+                                    estremi di iscrizione nel registro; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    societa' estere che partecipano al programma; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    descrizione del programma; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    Paesi partecipanti al programma.
+
 In caso di rilascio di licenza globale di progetto l'autorizzazione alle trattative contrattuali di cui all'articolo 7 e' considerata decaduta dalla data di notifica all'operatore del provvedimento di rilascio della licenza globale di progetto.
 
 ## Art. 9. — Domande di autorizzazione 
  al trasferimento intracomunitario
+
+1.
+                        
+                            
+                                La domanda per il rilascio di una autorizzazione globale di trasferimento deve indicare: 
+ 
+                            
+                            
+                                a)
+                                
+                                    Paese di destinazione comunitario; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    identificazione del destinatario (autorita' governativa, ente pubblico o impresa autorizzata); 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    eventuali obblighi economici verso lo Stato per diritti di proprieta', di brevetto e simili; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    eventuali impegni per compensazioni industriali; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    eventuali condizioni e limitazioni al trasferimento dei prodotti relativamente alla successiva esportazione o all'impiego finale; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    eventuali affidamenti da parte di amministrazioni dello Stato per l'esecuzione dell'operazione pattuita; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    estremi di iscrizione nel registro; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    tipo di materiali oggetto dell'operazione con estremi di riferimento alla lista di cui all'articolo 18 della legge ed eventualmente all'elenco di cui all'articolo 2, comma 3, della legge e alla voce doganale corrispondente; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    classifica di segretezza del materiale; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    soggetti intermediari citati nel contratto; 
+
+                                
+                            
+                            
+                                m)
+                                
+                                    modalita' di regolamento finanziario; 
+
+                                
+                            
+                            
+                                n)
+                                
+                                    dogane interessate dall'esecuzione, anche frazionata, dell'operazione; 
+
+                                
+                            
+                            
+                                o)
+                                
+                                    su richiesta del Ministero degli affari esteri, il certificato di importazione o il certificato di uso finale di cui all'articolo 11, comma 3, lettera c), della legge; 
+
+                                
+                            
+                            
+                                p)
+                                
+                                    estremi e tipologia dell'impegno contrattuale; 
+
+                                
+                            
+                            
+                                q)
+                                
+                                    ammontare degli eventuali compensi di intermediazione; 
+
+                                
+                            
+                            
+                                r)
+                                
+                                    Paese di destinazione finale del materiale ovvero eventuali Paesi, enti, imprese o soggetti di destinazione intermedia o finale.
+
+2.
+                        
+                            
+                                La domanda per il rilascio di una autorizzazione individuale di trasferimento deve indicare, oltre ai dati di cui al comma 1, anche i seguenti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    valore del contratto; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    quantita' dei materiali con relativa unita' di misura.
 
 La domanda per il rilascio della autorizzazione globale e individuale di trasferimento e' presentata all'Autorita' nazionale - UAMA, e inviata per conoscenza, a cura dell'operatore, al Ministero della difesa - Segretariato generale della difesa - II Reparto.
 L'Autorita' nazionale - UAMA provvede entro il termine di sessanta giorni a rilasciare l'autorizzazione richiesta o a comunicare, con provvedimento motivato, il diniego. Il decorso del termine resta sospeso in caso di richiesta di documentazione o notizie integrative da parte dell'Autorita' nazionale - UAMA sino all'acquisizione della stessa.
@@ -132,15 +518,148 @@ Sono fatte salve le condizioni o limitazioni disposte per il rilascio di singole
 Requisiti e condizioni 
  di utilizzabilita' delle autorizzazioni
 
+1.
+                        
+                            
+                                Le autorizzazioni ai trasferimenti intracomunitari sono rilasciate alle imprese utilizzatrici in possesso dei seguenti requisiti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    iscrizione nel registro; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    certificazione, laddove prevista dalla legge; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    assenza di provvedimenti di sospensione o revoca delle autorizzazioni di cui all'articolo 15 della legge.
+
+2.
+                        
+                            
+                                E' fatto obbligo alle imprese utilizzatrici di autorizzazioni ai trasferimenti intracomunitari di rispettare le seguenti condizioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    informare la controparte estera delle eventuali condizioni e limitazioni apposte dall'Autorita' nazionale - UAMA, ivi comprese quelle relative all'impiego finale o all'esportazione verso Stati terzi; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    rispettare le eventuali condizioni e limitazioni, ivi compresi i vincoli relativi al materiale e alle informazioni classificate; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    informare l'Autorita' nazionale - UAMA delle eventuali variazioni dei destinatari intermedi e finali, intervenute successivamente al rilascio dell'autorizzazione; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    fornire, ove previsto, la documentazione di cui all'articolo 20, comma 1, della legge all'Autorita' nazionale - UAMA e informarla dell'eventuale mancato utilizzo dell'autorizzazione rilasciata, nei termini di validita' ivi indicati; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    attenersi, all'atto dell'operazione, al rispetto della tipologia dei materiali, dei destinatari, dei termini e di tutte le altre prescrizioni indicate nell'autorizzazione; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    depositare l'autorizzazione presso l'ufficio doganale competente.
+
 ## Art. 12. — Certificazione delle imprese
 
 Le imprese che intendono richiedere la certificazione ai sensi dell'articolo 10-sexies della legge devono disporre al momento della richiesta di un collegamento informatico con l'Autorita' nazionale - UAMA secondo le modalita' stabilite con direttive del Ministero degli affari esteri.
 
 Le imprese che intendono richiedere la certificazione devono altresi' avere alle proprie dipendenze, al momento della richiesta, un dirigente responsabile dell'unita' competente per i trasferimenti intracomunitari, le importazioni e le esportazioni dei materiali d'armamento, della cui attivita' e' personalmente responsabile.
 
+3.
+                        
+                            
+                                In attuazione dell'articolo 10-sexies della legge, l'istanza di certificazione di cui al comma 1 e' presentata all'Autorita' nazionale - UAMA e deve indicare: 
+ 
+                            
+                            
+                                a)
+                                
+                                    gli estremi di iscrizione nel registro; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'indicazione dell'ufficio informatico responsabile del collegamento di cui al comma 1; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    l'indicazione del nominativo del dirigente responsabile dell'unita' per i trasferimenti intracomunitari, le importazioni e le esportazioni dei materiali d'armamento di cui al comma 2; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    la descrizione dell'attivita' industriale svolta dall'azienda richiedente, con particolare riferimento alle attivita' di integrazione di sistemi o sottosistemi. 
+ All'istanza devono essere allegati: 
+ a) l'atto di nomina del dirigente di cui al comma 2; 
+ b) l'impegno scritto dell'impresa, sottoscritto dal dirigente di cui al comma 2, ad adottare tutte le misure necessarie per rispettare e far rispettare tutte le condizioni relative all'uso finale e all'esportazione dei componenti o dei prodotti ricevuti; 
+ c) l'impegno scritto dell'impresa, sottoscritto dal dirigente di cui al comma 2, a fornire, su richiesta dell'Autorita' nazionale - UAMA, le informazioni relative agli utilizzatori finali o all'impiego finale di tutti i prodotti esportati, trasferiti o ricevuti; 
+ d) la relazione sul programma interno di conformita' o sul sistema di gestione dei trasferimenti e delle esportazioni messo in atto nell'impresa, firmata dal rappresentante legale e controfirmata dal dirigente di cui al comma 2. Nella relazione sono descritte le risorse umane, tecniche e organizzative impiegate, l'organigramma della struttura preposta alla gestione delle esportazioni e dei trasferimenti intracomunitari, le procedure di controllo interno, le relative procedure di formazione del personale e tutte le altre disposizioni inerenti le esportazioni e i trasferimenti intracomunitari di materiali d'armamento.
+
 L'Autorita' nazionale - UAMA effettua le verifiche necessarie ad accertare la rispondenza degli assetti organizzativi e di responsabilita' dell'azienda ai criteri della normativa comunitaria e ne comunica gli esiti alla Commissione europea, al Parlamento europeo e agli altri Stati membri dell'Unione europea.
 
 L'Autorita' nazionale - UAMA richiede al Segretariato generale della difesa - Servizio del registro nazionale delle imprese l'assenso di cui all'articolo 10-sexies, comma 3, della legge. Il Segretariato generale della difesa comunica l'assenso nel termine di quindici giorni dal ricevimento della richiesta. In assenza di comunicazioni entro tale termine, l'assenso s'intende acquisito.
+
+6.
+                        
+                            
+                                L'Autorita' nazionale - UAMA, sentito il Segretariato generale della difesa - Servizio del registro nazionale delle imprese con le modalita' di cui al comma 5, entro trenta giorni dal ricevimento dell'istanza: 
+ 
+                            
+                            
+                                a)
+                                
+                                    rilascia l'attestato di certificazione, che deve contenere tutte le indicazioni di cui all'articolo 10-sexies, comma 4, della legge; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    rigetta l'istanza con provvedimento motivato; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    richiede l'integrazione dell'istanza se ritiene la documentazione incompleta. La richiesta di integrazione sospende il decorso del termine.
 
 Il Ministro degli affari esteri trasmette al Presidente del Consiglio dei Ministri l'elenco delle imprese nazionali certificate, ai fini della presentazione al Parlamento della relazione di cui all'articolo 5 della legge.
 
@@ -150,11 +669,167 @@ E' fatto comunque obbligo di comunicare attraverso il collegamento informatico d
 
 ## Art. 13. — Autorizzazione all'intermediazione
 
+1.
+                        
+                            
+                                La domanda per il rilascio di un'autorizzazione all'intermediazione deve indicare: 
+ 
+                            
+                            
+                                a)
+                                
+                                    Paese di destinazione; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    Paese di spedizione; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    identificazione del destinatario e del mittente (autorita' governativa, ente pubblico o impresa autorizzata); 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    estremi di iscrizione nel registro; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    tipo dei materiali di cui all'articolo 2 della legge e voce doganale corrispondente; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    classifica di segretezza del materiale; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    modalita' di regolamento finanziario; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    certificato di importazione o certificato di uso finale di cui all'articolo 11, comma 3, lettera c), della legge; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    estremi e tipologia dell'impegno contrattuale; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    ammontare dei compensi di intermediazione; 
+
+                                
+                            
+                            
+                                m)
+                                
+                                    valore del contratto; 
+
+                                
+                            
+                            
+                                n)
+                                
+                                    quantita' dei materiali con relativa unita' di misura; 
+
+                                
+                            
+                            
+                                o)
+                                
+                                    licenza di esportazione dal Paese di spedizione ovvero documentazione equipollente; 
+
+                                
+                            
+                            
+                                p)
+                                
+                                    estremi dell'autorizzazione a trattare di cui all'articolo 9 della legge. 
+ 3. La domanda per il rilascio dell'autorizzazione all'intermediazione e' presentata all'Autorita' nazionale - UAMA e inviata per conoscenza al Ministero della difesa - Segretariato generale della difesa, II Reparto. L'Autorita' nazionale - UAMA provvede entro il termine di sessanta giorni a rilasciare l'autorizzazione richiesta o a comunicare, con provvedimento motivato, il diniego. Il decorso del termine resta sospeso in caso di richiesta di documentazione o notizie integrative da parte dell'Autorita' nazionale - UAMA sino all'acquisizione della stessa.
+
 ## Art. 14. — Procedimenti autorizzatori per particolari operazioni
 
 I procedimenti disciplinati agli articoli 7 e 8 si applicano alle operazioni di trasformazione o adattamento di mezzi e materiali di cui all'articolo 2, comma 7, della legge.
 
 ## Art. 15. — Nulla-osta per prestazione di servizi
+
+1.
+                        
+                            
+                                Per le operazioni di cui all'articolo 2, comma 6, della legge, l'operatore presenta, secondo modalita' indicate con direttive del Ministero della difesa, apposita domanda, della quale invia contemporaneamente copia ai Ministeri degli affari esteri e dell'interno, contenente i seguenti dati: 
+ 
+                            
+                            
+                                a)
+                                
+                                    estremi di iscrizione nel registro; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    denominazione e indirizzo dei partecipanti, a qualunque titolo, all'operazione; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    tipo di servizi oggetto dell'operazione e modalita' di esecuzione, nonche' relativa classifica di segretezza; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    valore stimato o preventivo del contratto; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    Paese di destinazione dei servizi e di utilizzazione finale se diverso dal destinatario; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    estremi dell'abilitazione societaria rilasciata dall'Autorita' nazionale per la sicurezza e relativo livello; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    estremi della precedente autorizzazione o documento doganale o altro equivalente.
 
 Il nulla-osta del Ministero della difesa, sentiti i Ministeri degli affari esteri e dell'interno, e' rilasciato entro trenta giorni dalla data di ricevimento della domanda di cui al comma 1. Il Ministero degli affari esteri e il Ministero dell'interno trasmettono al Ministero della difesa il proprio parere nel termine di dieci giorni dal ricevimento della copia della domanda di cui al comma 1.
 Decorso inutilmente tale termine, il parere si intende favorevolmente acquisito.
@@ -165,12 +840,76 @@ Quando vengono a cessare le condizioni per il rilascio, il nulla-osta e' soggett
 
 Per le importazioni, definitive o temporanee, effettuate direttamente dall'amministrazione dello Stato o per conto di questa, ai sensi dell'articolo 1, comma 8, lettera a), della legge, alla dogana sara' presentata idonea documentazione direttamente dall'amministrazione che effettua o per conto della quale l'impresa effettua l'operazione. L'Agenzia delle dogane e dei monopoli, al fine di definire le informazioni essenziali all'immediata identificazione dell'operazione, provvede a emanare, d'intesa con i Ministeri interessati, apposite direttive.
 
+2.
+                        
+                            
+                                L'autorizzazione per le importazioni temporanee effettuate da imprese straniere di cui all'articolo 1, comma 8, lettera e), della legge, e' rilasciata dal Ministero dell'interno, su domanda delle imprese straniere presentata, tramite le amministrazioni o i soggetti pubblici e privati italiani interessati, allo stesso Ministero, inviata contemporaneamente in copia al Ministero della difesa e contenente i seguenti dati: 
+ 
+                            
+                            
+                                a)
+                                
+                                    informazioni, requisiti e qualita' soggettive dell'impresa importatrice e, in particolare, Paese di residenza; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    tipo dei materiali con riferimento all'elenco e quantita' dei materiali stessi; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    Paese di provenienza dei materiali oggetto dell'operazione; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    destinatario e luogo di destinazione della temporanea importazione; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    termini di inizio e di conclusione dell'operazione; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    dogana di entrata e di uscita, con eventuali indicazioni relative all'itinerario e al vettore.
+
 L'autorizzazione di cui al comma 2 e' rilasciata entro quarantacinque giorni dal ricevimento della relativa domanda.
 
 Ulteriori specifiche direttive inerenti la presentazione delle domande di cui al comma 2 sono emanate dal Ministero dell'interno, d'intesa con il Ministero della difesa.
 
 ## Art. 17. — Autorizzazione per le operazioni previste 
  dai programmi intergovernativi o industriali
+
+1.
+                        
+                            
+                                La Presidenza del Consiglio dei Ministri, su proposta dell'amministrazione dello Stato interessata e di concerto con i Ministeri degli affari esteri, della difesa, dell'economia e delle finanze, e dell'interno, provvede a individuare: 
+ 
+                            
+                            
+                                a)
+                                
+                                    i programmi intergovernativi ai quali applicare le procedure previste dall'articolo 1, comma 8, lettera a), e comma 9, lettera a), della legge; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    i programmi intergovernativi o industriali di cui all'articolo 13, comma 1, della legge.
 
 L'amministrazione interessata per i programmi indicati dalla Presidenza del Consiglio dei Ministri ai sensi del comma 1 individua con proprio provvedimento, sentito il Ministero della difesa se si tratta di altra amministrazione, gli operatori iscritti al registro, specificando i prodotti che gli stessi realizzano nell'ambito di detti programmi.
 
@@ -189,6 +928,77 @@ L'istanza di autorizzazione e' presentata all'Autorita' nazionale - UAMA, second
 ## Art. 19. — Comunicazione al Ministero 
  dell'economia e delle finanze
 
+1.
+                        
+                            
+                                Relativamente alle transazioni bancarie di cui all'articolo 27 della legge, gli operatori devono presentare agli istituti e alle aziende di credito ai quali richiedono la transazione, per ogni singolo contratto concernente le operazioni assoggettate alla disciplina della legge, una dichiarazione contenente i seguenti dati: 
+ 
+                            
+                            
+                                a)
+                                
+                                    estremi di iscrizione nel registro; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    beni e servizi oggetto dell'operazione e importo corrispondente; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    modalita' di regolamento finanziario; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    Paese di destinazione e di provenienza di tali beni e servizi; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    identita' dell'acquirente o fornitore, debitore o creditore; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    estremi della corrispondente autorizzazione o nulla-osta di cui all'articolo 1, comma 8, e agli articoli 9, 10-ter, 10-quater, 10-quinquies e 13 della legge; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    natura e importo delle relative transazioni bancarie, anche accessorie.
+
+2.
+                        
+                            
+                                Gli istituti e le aziende di credito riceventi la dichiarazione di cui al comma 1 trasmettono al Ministero dell'economia e delle finanze e ai Ministeri dai quali e' stata rilasciata l'autorizzazione o il nulla-osta di cui al comma 1, lettera f), secondo modalita' stabilite dai Ministeri stessi, la dichiarazione di cui al comma 1, integrata dei seguenti dati: 
+ 
+                            
+                            
+                                a)
+                                
+                                    modalita' di esecuzione della transazione richiesta; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    fase di esecuzione, parziale o conclusiva, dell'operazione cui e' riferita la transazione.
+
 ## Art. 20. — Comitato consultivo
 
 Il comitato consultivo definisce le modalita' del proprio funzionamento interno secondo le direttive del Ministro degli affari esteri, che ne stabilisce altresi' le modalita' di collegamento con l'Autorita' nazionale - UAMA, cui e' demandata l'istruttoria dei procedimenti per i quali e' richiesto il parere del comitato.
@@ -200,6 +1010,66 @@ I rappresentanti delle amministrazioni di cui all'articolo 7, comma 2, della leg
 ## Art. 21.
 
 Autorita' nazionale - UAMA
+
+1.
+                        
+                            
+                                L'Autorita' nazionale - UAMA: 
+ 
+                            
+                            
+                                a)
+                                
+                                    esercita le competenze previste dalla legge, rilascia le autorizzazioni e le certificazioni ed effettua i controlli; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    provvede agli adempimenti di competenza, di cui agli articoli 10-sexies, comma 7, e 15, della legge; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    adotta atti di indirizzo sentite le amministrazioni interessate e, nelle materie d'interesse del Ministero della difesa, d'intesa con quest'ultimo; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    e' responsabile per l'attuazione dei piani gestionali di competenza della stessa; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    conclude accordi, per le attivita' di istituto, anche ai sensi dell'articolo 15 della legge 7 agosto 1990, n. 241, e successive modificazioni e integrazioni; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    esercita attivita' di monitoraggio e controllo, dispone l'acquisizione di documentazione, programma l'audizione dei responsabili ed esercita i poteri di vigilanza di cui all'articolo 20-ter della legge, anche mediante l'invio di propri funzionari; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    se nell'ambito delle attivita' di monitoraggio e controllo riscontra irregolarita' relative agli obblighi previsti dalla legge, procede ai sensi dell'articolo 25-bis della legge; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    irroga le sanzioni pecuniarie previste dall'articolo 25-bis, commi 1, 2 e 4 della legge, nonche', nei casi previsti dalla legge 24 novembre 1981, n. 689, le sanzioni amministrative accessorie; la sanzione di cui al comma 3 del medesimo articolo 25-bis e' irrogata dal Ministro della difesa con le modalita' di cui all'articolo 44, comma 8, del decreto legislativo 15 marzo 2010, n. 66.
 
 Le sezioni responsabili della certificazione e dei controlli operanti presso l'Autorita' nazionale - UAMA sono competenti anche per i compiti connessi alle attivita' di istruttoria e irrogazione delle sanzioni di cui ai commi 1, 2 e 4 dell'articolo 25-bis della legge.
 
@@ -232,6 +1102,31 @@ Le informazioni e documentazioni di cui al presente articolo sono trasmesse con 
 ## Art. 25. — Conferenze di servizi e accordi
 
 Quando si ravvisa l'opportunita' di una contestuale valutazione degli interessi pubblici di cui alla legge, viene convocata, dall'autorita' competente all'adozione del provvedimento, la conferenza di servizi di cui all'articolo 6, comma 1, lettera c), e all'articolo 14 della legge 7 agosto 1990, n. 241.
+
+2.
+                        
+                            
+                                Ai fini della completezza e tempestivita' dell'istruttoria da parte delle unita' organizzative responsabili degli adempimenti procedimentali, nonche' della tempestiva acquisizione di informazioni riguardanti le operazioni disciplinate dalla legge e dal presente regolamento, la Presidenza del Consiglio dei Ministri, i Ministeri degli affari esteri, della giustizia, dell'interno, dell'economia e delle finanze, della difesa, dello sviluppo economico e l'Agenzia delle dogane e dei monopoli nonche' altri Ministeri interessati, stipulano accordi di collaborazione riguardanti, in particolare: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la costituzione di un sistema informativo; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'acquisizione di intese, concerti, nulla-osta, assensi, designazioni; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il distacco di nuclei di personale presso il Ministero degli affari esteri.
 
 Ogni amministrazione partecipante all'accordo individua nell'ambito della propria struttura l'unita' organizzativa responsabile delle attivita' disciplinate nell'accordo stesso.
 

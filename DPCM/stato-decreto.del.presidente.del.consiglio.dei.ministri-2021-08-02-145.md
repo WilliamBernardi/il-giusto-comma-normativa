@@ -7,8 +7,8 @@ urn: urn:nir:stato:decreto.del.presidente.del.consiglio.dei.ministri:2021-08-02;
 vigente: true
 source: normattiva-opendata
 collection: DPCM
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:40:12Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DEL CONSIGLIO DEI MINISTRI
@@ -59,6 +59,66 @@ L'integrazione del giudizio comporta la verifica della corrispondenza fra i dati
 Se riscontra elementi suscettibili di modificare significativamente la valutazione di primo grado, il valutatore di secondo grado lo attesta nell'apposita sezione della scheda di valutazione.
 
 ## Art. 5. — Giudizio complessivo
+
+1.
+                    
+                        
+                            Successivamente all'integrazione del giudizio, Il Consiglio di amministrazione del Ministero attribuisce al valutato uno dei seguenti giudizi complessivi: 
+ 
+                        
+                        
+                            a)
+                            
+                                insufficiente, corrispondente a un punteggio inferiore a 70 punti su 100; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                sufficiente, corrispondente a un punteggio di 70 punti su 100; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                discreto, corrispondente a un punteggio di 75 punti su 100; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                buono, corrispondente a punteggio di 80 punti su 100; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                distinto, corrispondente a un punteggio di 85 punti su 100; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                ottimo, corrispondente a punteggio di 90 punti su 100; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                eccellente, corrispondente a un punteggio di 95 punti su 100; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                eccezionale, corrispondente a un punteggio di 100 punti su 100.
 
 Nella motivazione del giudizio complessivo, il Consiglio di amministrazione indica i settori di attivita' per i quali si riconosce maggiore attitudine e gli aspetti del profilo professionale e del servizio reso suscettibili di specifico apprezzamento. In caso di attribuzione di un giudizio complessivo pari o inferiore a «buono», il Consiglio di amministrazione indica le attivita' e gli aspetti del profilo professionale suscettibili di miglioramento.
 

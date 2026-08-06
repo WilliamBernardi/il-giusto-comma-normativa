@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Leggi delega e relativi provvedimenti delegati
 vigenza_date: 2025-03-14
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:41:19Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -77,6 +77,45 @@ I comuni provvedono alla gestione ed alla manutenzione del patrimonio immobiliar
 
 ## Art. 8. — Definizione del contenzioso
 
+1.
+                    
+                        
+                            Al fine della definizione transattiva delle controversie in corso fra concedente e concessionario derivanti dalla realizzazione degli interventi di cui al titolo VIII della legge 14 maggio 1981, n. 219, e successive modificazioni, il commissario straordinario procede alla ricognizione del contenzioso avente titolo immediato e diretto in atti o fatti verificatisi anteriormente al trasferimento delle opere e degli alloggi agli enti destinatari, sia se questo si sia perfezionato ai sensi dell'articolo 22 del decreto-legge 23 giugno 1995, n. 244, convertito, con modificazioni, dalla legge 8 agosto 1995, n. 341, sia se abbia avuto luogo nei termini e con le modalita' di cui all'articolo 1, prendendo in esame:
+ 
+                        
+                        
+                            a)
+                            
+                                le sentenze e i lodi arbitrali passati in giudicato e non ancora eseguiti e i relativi giudizi di esecuzione;
+
+                            
+                        
+                        
+                            b)
+                            
+                                le sentenze e i lodi arbitrali eseguiti non ancora passati in giudicato e i relativi eventuali giudizi di impugnazione;
+
+                            
+                        
+                        
+                            c)
+                            
+                                le sentenze e i lodi arbitrali non ancora passati in giudicato e non ancora eseguiti e i relativi giudizi di impugnazione e di esecuzione;
+
+                            
+                        
+                        
+                            d)
+                            
+                                i giudizi ordinari o arbitrali in corso o le istanze di accesso ad arbitrato notificate prima della data di entrata in vigore del decreto-legge 11 giugno 1998, n. 180, convertito, con modificazioni, dalla legge 3 agosto 1998, n. 267;
+
+                            
+                        
+                        
+                            e)
+                            
+                                le richieste dei concessionari che, seppure non ancora oggetto di atti introduttivi di giudizi alla data di entrata in vigore del presente decreto, siano state formalmente avanzate alla stessa data.
+
 Sulla base della ricognizione prevista dal comma 1, il commissario straordinario comunica, d'ufficio o su istanza del concessionario, l'inizio della procedura di definizione transattiva delle controversie relative ad un intero comparto, ovvero a singole opere, e formula successivamente un'ipotesi di definizione, previa acquisizione del parere del gruppo di supporto tecnicogiuridico di cui all'articolo 42, comma 4, della legge 17 maggio 1999, n. 144, e per quanto riguarda le controversie di cui alle lettere d) ed e) del comma 1, previa acquisizione delle relazioni previste dall'articolo 31-bis, comma 1, della legge 11 febbraio 1994, n. 109, e successive modificazioni. Il commissario straordinario determina, altresi', l'ammontare dell'acconto da corrispondersi al concessionario ai sensi dell'articolo 42, comma 6, lettera e), ultima parte, della legge 17 maggio 1999, n. 144, e provvede al relativo pagamento.
 
 Ove la definizione comprenda anche l'ultimazione delle opere, la proposta del commissario straordinario e' preceduta da una conferenza di servizi convocata dal commissario medesimo alla quale partecipano il rappresentante dell'ente destinatario e gli altri soggetti competenti ad adottare atti procedimentali necessari al completamento dell'opera. Ai fini dell'accordo transattivo, alla conferenza di servizi partecipa anche il concessionario dell'opera.
@@ -94,6 +133,31 @@ Il pagamento dell'importo scaturente dalla definizione in via transattiva delle 
 Per l'attuazione dei procedimenti di espropriazione emanati per la realizzazione degli interventi di cui al titolo VIII della legge 14 maggio 1981, n. 219, l'ente destinatario provvede alla fissazione dei termini stabiliti dall'articolo 13 della legge 25 giugno 1865, n. 2359, e, conseguentemente, ove necessario, alla proroga degli stessi.
 
 In deroga all'articolo 20 della legge 22 ottobre 1971, n. 865, sono protratti di due anni dalla data di entrata in vigore del presente decreto legislativo, i termini di efficacia dei decreti di occupazione d'urgenza emanati per la realizzazione degli interventi di cui al titolo VIII della legge 14 maggio 1981, n. 219, e sono prolungati a sei mesi, a decorrere dall'emanazione dei relativi decreti, i termini per l'occupazione delle aree. ((1))
+
+3.
+                    
+                        
+                            La competenza all'emanazione dei decreti di espropriazione e' attribuita al prefetto ed ai rappresentanti legali degli enti destinatari. A tal fine essi verificano:
+ 
+                        
+                        
+                            a)
+                            
+                                l'esistenza del provvedimento di occupazione dell'area, dei provvedimenti indicanti il termine finale dei lavori, delle procedure espropriative nonche' delle eventuali proroghe;
+
+                            
+                        
+                        
+                            b)
+                            
+                                l'avvenuto pagamento o deposito dell'indennita' di esproprio;
+
+                            
+                        
+                        
+                            c)
+                            
+                                l'avvenuto frazionamento approvato dall'ufficio tecnico erariale (UTE).
 
 In ogni caso di utilizzazione del bene occupato, il sindaco, con proprio decreto, dichiara l'acquisizione del bene al patrimonio comunale; ove il bene sia trasferito a diverso ente destinatario, il rappresentante legale dell'ente chiede al prefetto l'emanazione del relativo decreto di acquisizione.
 

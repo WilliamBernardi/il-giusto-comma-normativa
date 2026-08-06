@@ -7,8 +7,8 @@ urn: urn:nir:stato:decreto.del.presidente.del.consiglio.dei.ministri:2016-07-23;
 vigente: true
 source: normattiva-opendata
 collection: DPCM
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:40:12Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DEL CONSIGLIO DEI MINISTRI
@@ -25,6 +25,24 @@ Su proposta del Ministro dell'interno;
 ## Art. 1. — Richiesta di costituzione dell'unione civile
 
 Al fine di costituire un'unione civile, ai sensi della legge 20 maggio 2016, n. 76, di seguito denominata legge, due persone maggiorenni dello stesso sesso fanno congiuntamente richiesta all'ufficiale dello stato civile del comune di loro scelta.
+
+2.
+                    
+                        
+                            Nella richiesta ciascuna parte deve dichiarare: 
+ 
+                        
+                        
+                            a)
+                            
+                                il nome e il cognome, la data e il luogo di nascita; la cittadinanza; il luogo di residenza; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                l'insussistenza delle cause impeditive alla costituzione dell'unione di cui all'articolo 1, comma 4, della legge.
 
 L'ufficiale dello stato civile, verificati i presupposti di cui al comma 1, redige immediatamente processo verbale della richiesta e lo sottoscrive unitamente alle parti, che invita, dandone conto nel verbale, a comparire di fronte a se' in una data, indicata dalle parti, immediatamente successiva al termine di cui all'articolo 2, comma 1, per rendere congiuntamente la dichiarazione costitutiva dell'unione.
 

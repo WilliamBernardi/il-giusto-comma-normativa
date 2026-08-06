@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: DL proroghe
 vigenza_date: 2018-09-22
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:39:27Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO-LEGGE
@@ -198,6 +198,31 @@ Il termine di cui all'articolo 20, comma 5, del decreto legislativo 25 luglio 20
 Il comma 1 dell'articolo 52 del decreto legislativo 3 aprile 2006, n. 152, e' sostituito dal seguente: 
  "1. Fatto salvo quanto disposto dagli articoli 49 e 50, la parte seconda del presente decreto entra in vigore il 31 luglio 2007.".
 
+2-bis.
+                    
+                        
+                            Al decreto legislativo 3 aprile 2006, n. 152, e successive modificazioni, sono apportate le seguenti modifiche: 
+ 
+                        
+                        
+                            a)
+                            
+                                all'articolo 224, comma 2, le parole: "Entro dodici mesi" sono sostituite dalle seguenti: "Entro ventiquattro mesi"; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                all'articolo 235, comma 17, primo periodo, le parole: "Entro centottanta giorni" sono sostituite dalle seguenti: "Entro ventiquattro mesi"; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                all'articolo 236, comma 2, primo periodo, le parole: "Entro centottanta giorni" sono sostituite dalle seguenti: "Entro ventiquattro mesi".
+
 ## Art. 6. — Ulteriori disposizioni in materia di proroga di termini
 
 All'articolo 181, comma 1, lettera a), del codice in materia di protezione dei dati personali, di cui al decreto legislativo 30 giugno 2003, n. 196, e successive modificazioni, le parole: "31 dicembre 2006" sono sostituite dalle seguenti: "28 febbraio 2007".
@@ -236,6 +261,31 @@ Per l'anno 2007 agli enti che non abbiano rispettato per l'anno 2006 le regole d
 Ai fini del rispetto del patto di stabilita' interno relativo all'anno 2006, tra le esclusioni di cui all'articolo 1, commi 142, lettera c), e 143, lettera a), della legge 23 dicembre 2005, n. 266, sono comprese le spese per trasferimenti destinati alle istituzioni previste dall'articolo 114, comma 2, del testo unico di cui al decreto legislativo 18 agosto 2000, n. 267.
 
 All'articolo 1, comma 687, della legge 27 dicembre 2006, n. 296, il secondo periodo e' sostituito dal seguente: "Il termine per l'applicazione delle regole del patto di stabilita' interno agli enti istituiti nell'anno 2006 ed alle province della regione autonoma della Sardegna istituite ai sensi della legge regionale 2 gennaio 1997, n. 4, e i cui organi sono stati eletti a seguito delle consultazioni amministrative dell'8 e 9 maggio 2005, e' prorogato al 1° gennaio 2009, assumendo, quale base di calcolo su cui applicare le regole, le risultanze dell'esercizio 2007".
+
+8-novies.
+                    
+                        
+                            L'articolo 39-bis del decreto-legge 30 dicembre 2005, n. 273, convertito, con modificazioni, dalla legge 23 febbraio 2006, n. 51, e' abrogato. All'articolo 12-bis del decreto-legge 9 novembre 2004, n. 266, convertito, con modificazioni, dalla legge 27 dicembre 2004, n. 306, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                il comma 2 e' abrogato; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 3, lettera a), le parole: "31 dicembre 2010" sono sostituite dalle seguenti: "31 luglio 2008"; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                al comma 3, la lettera b) e' abrogata.
 
 A decorrere dalla data di entrata in vigore della legge di conversione del presente decreto, le disposizioni di cui ai numeri 19 e 22 dell'allegato previsto dall'articolo 2, comma 1, lettera b), del decreto legislativo 26 marzo 2001, n. 146, acquistano efficacia nel testo risultante dalle abrogazioni e dalla modificazione disposte dal comma 8-novies.
 

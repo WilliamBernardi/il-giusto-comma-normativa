@@ -8,8 +8,8 @@ vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
 vigenza_date: 2023-02-28
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:30Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -26,6 +26,120 @@ Sulla proposta del Ministro dell'economia e delle finanze;
 ## Art. 1. — Revisione delle missioni, dei programmi 
  e della struttura del bilancio dello Stato
 
+1.
+                    
+                        
+                            All'articolo 21 della legge 31 dicembre 2009, n. 196, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 2, secondo periodo, le parole da: «quali aggregati» fino alla fine del medesimo periodo sono sostituite dalle seguenti: «I programmi rappresentano aggregati di spesa con finalita' omogenea diretti al perseguimento di risultati, definiti in termini di prodotti e di servizi finali, allo scopo di conseguire gli obiettivi stabiliti nell'ambito delle missioni»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 2, ultimo periodo, le parole: «dei capitoli» sono sostituite dalle seguenti: «delle unita' elementari di bilancio, ai fini della gestione e della rendicontazione,»; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                dopo il comma 2, sono inseriti i seguenti: 
+ «2-bis. La significativita' dei programmi del bilancio e l'affidamento di ciascun programma di spesa a un unico centro di responsabilita' amministrativa costituiscono criteri di riferimento per i processi di riorganizzazione delle amministrazioni. 
+ 2-ter. Con il disegno di legge di bilancio viene annualmente effettuata la revisione degli stanziamenti iscritti in ciascun programma e delle relative autorizzazioni legislative, anche ai fini dell'attribuzione dei programmi medesimi a ciascuna amministrazione sulla base delle rispettive competenze.»; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                al comma 4, il secondo periodo e' sostituito dal seguente: "In appositi allegati agli stati di previsione della spesa e' indicata, per ciascun programma la distinzione tra spese di parte corrente e in conto capitale nonche' la quota delle spese di oneri inderogabili, di fattore legislativo e di adeguamento al fabbisogno di cui, rispettivamente, alle lettere a), b) e c) del comma 5.»; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                al comma 5, le lettere a) e b) sono sostituite dalle seguenti: 
+ «a) oneri inderogabili, in quanto spese vincolate a particolari meccanismi o parametri che ne regolano l'evoluzione, determinati sia da leggi sia da altri atti normativi. Rientrano tra gli oneri inderogabili le cosiddette spese obbligatorie, ossia quelle relative al pagamento di stipendi, assegni, pensioni e altre spese fisse, le spese per interessi passivi, quelle derivanti da obblighi comunitari e internazionali, le spese per ammortamento di mutui, nonche' quelle cosi' identificate per espressa disposizione normativa; 
+ b) fattori legislativi, ossia le spese autorizzate da espressa disposizione legislativa che ne determina l'importo, considerato quale limite massimo di spesa, e il periodo di iscrizione in bilancio; 
+ c) spese di adeguamento al fabbisogno, ossia spese diverse da quelle di cui alle lettere a) e b), quantificate tenendo conto delle esigenze delle amministrazioni.»; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                i commi 6 e 7 sono soppressi; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                al comma 8, le parole: «comma 7, lettera a)» sono sostituite dalle seguenti: «comma 5, lettera b)»; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                al comma 11, lettera b), primo periodo, le parole: «4, 5, 6 e 7» sono sostituite dalle seguenti: «4 e 5» e il terzo, il quarto e il quinto periodo della medesima lettera b) sono soppressi; 
+
+                            
+                        
+                        
+                            i)
+                            
+                                al comma 11, la lettera c) e' sostituita dalla seguente: «c) per ogni programma l'elenco delle unita' elementari di bilancio, ai fini della gestione e della rendicontazione, e dei relativi stanziamenti, distinti con riferimento alle voci del piano dei conti integrato di cui all'articolo 38-ter;»; 
+
+                            
+                        
+                        
+                            l)
+                            
+                                al comma 11, la lettera e) e' soppressa; 
+
+                            
+                        
+                        
+                            m)
+                            
+                                il comma 13 e' soppresso; 
+
+                            
+                        
+                        
+                            n)
+                            
+                                al comma 17, primo periodo, le parole: «sono ripartite in capitoli» sono sostituite dalle seguenti: «sono ripartite in unita' elementari di bilancio»; 
+
+                            
+                        
+                        
+                            o)
+                            
+                                al comma 17, secondo periodo, dopo le parole: «Entro dieci giorni dalla pubblicazione della legge di bilancio i Ministri assegnano le risorse ai responsabili della gestione.» sono inserite le seguenti: «Nelle more dell'assegnazione delle risorse ai responsabili della gestione da parte dei Ministri, e comunque non oltre sessanta giorni successivi all'entrata in vigore della legge di bilancio, e' autorizzata la gestione sulla base delle medesime assegnazioni disposte nell'esercizio precedente.»; 
+
+                            
+                        
+                        
+                            p)
+                            
+                                al comma 17, l'ultimo periodo e' soppresso; 
+
+                            
+                        
+                        
+                            q)
+                            
+                                il comma 18 e' sostituito dal seguente: «18. Agli stati di previsione della spesa dei singoli Ministeri sono allegati, secondo le rispettive competenze, gli elenchi degli enti cui lo Stato contribuisce in via ordinaria, con indicazione di quelli per i quali alla data di predisposizione del disegno di legge di bilancio non risulta trasmesso il conto consuntivo.».
+
 All'articolo 22, comma 1, primo periodo, della legge 31 dicembre 2009, n. 196, le parole: «e copre» sono sostituite dalle seguenti: «ed e' presentato al Parlamento con riferimento a».
 
 All'articolo 24, comma 5, della legge 31 dicembre 2009, n. 196, le parole: «ai capitoli di spesa di particolari entrate» sono sostituite dalle seguenti: « di particolari entrate alle unita' elementari di bilancio, ai fini della gestione e della rendicontazione».
@@ -33,6 +147,24 @@ All'articolo 24, comma 5, della legge 31 dicembre 2009, n. 196, le parole: «ai 
 All'articolo 25, comma 6, della legge 31 dicembre 2009, n. 196, le parole: «dei capitoli» sono sostituite dalle seguenti: «delle unita' elementari di bilancio, ai fini della gestione e della rendicontazione,».
 
 All'articolo 27, comma 2, della legge 31 dicembre 2009, n. 196, le parole: «ai capitoli di bilancio» sono sostituite dalle seguenti: «alle unita' elementari di bilancio, ai fini della gestione e della rendicontazione,» e le parole: «dei capitoli interessati» sono sostituite dalle seguenti: «delle unita' elementari di bilancio interessate».
+
+6.
+                    
+                        
+                            All'articolo 26 della legge 31 dicembre 2009, n. 196, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 2, le parole: «dei competenti capitoli» sono sostituite dalle seguenti: «delle competenti unita' elementari di bilancio, ai fini della gestione e della rendicontazione,»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 3, le parole: «dei capitoli» sono sostituite dalle seguenti: «delle unita' elementari di bilancio».
 
 All'articolo 28, comma 2, della legge 31 dicembre 2009, n. 196, le parole «ai capitoli» sono sostituite dalle seguenti: «alle unita' elementari di bilancio, ai fini della gestione e della rendicontazione,» e le parole: «dei capitoli interessati» sono sostituite dalle seguenti: «delle unita' elementari di bilancio interessate».
 
@@ -46,6 +178,47 @@ All'articolo 36, comma 2, lettera d), della legge 31 dicembre 2009, n. 196, le p
 
 ## Art. 2. — Introduzione delle azioni 
  e aggiornamento note integrative
+
+1.
+                    
+                        
+                            All'articolo 25, della legge 31 dicembre 2009, n. 196, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 1, lettera e), le parole: «capitoli, eventualmente suddivisi» sono sostituite dalle seguenti: «unita' elementari di bilancio, ai fini della gestione e della rendicontazione, eventualmente suddivise»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 2, la lettera b), e' sostituita dalla seguente: «b) programmi, ai fini dell'approvazione parlamentare, come definiti all'articolo 21, comma 2, secondo periodo;»; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                al comma 2, la lettera c) e' sostituita dalla seguente: «c) unita' elementari di bilancio, ai fini della gestione e della rendicontazione, ai sensi del comma 2-bis del presente articolo. Tali unita' possono essere ripartite in articoli.»; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                dopo il comma 2, sono inseriti i seguenti: 
+ «2-bis. Fino alla conclusione dell'esercizio precedente a quello individuato ai sensi dell'articolo 25-bis, comma 8, le unita' elementari di bilancio di cui alla lettera c) del comma 2 del presente articolo sono costituite dai capitoli, nei quali le spese dello Stato sono ripartite secondo l'oggetto della spesa. I capitoli sono classificati secondo il contenuto economico e funzionale delle spese in essi iscritte. 
+ 2-ter. Durante il medesimo periodo di cui al comma 2-bis, i programmi di spesa di cui alla lettera b) del comma 2 sono suddivisi in macroaggregati per spese di funzionamento, per interventi, per trattamenti di quiescenza e altri trattamenti integrativi o sostitutivi di questi ultimi, per oneri del debito pubblico, per oneri comuni di parte corrente, per investimenti e per oneri comuni in conto capitale. In autonome previsioni e' esposto il rimborso di passivita' finanziarie.»; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                al comma 5, le parole: «tutti i capitoli» sono sostituite dalle seguenti: «tutte le unita' elementari di bilancio, ai fini della gestione e della rendicontazione,».
 
 Dopo l'articolo 25, della legge 31 dicembre 2009, n. 196, e' inserito il seguente: 
  «Art. 25-bis. (Introduzione delle azioni). - 1. I programmi di spesa, come definiti all'articolo 21, comma 2, secondo periodo, sono suddivisi in azioni. 
@@ -82,6 +255,39 @@ All'articolo 35 della legge 31 dicembre 2009, n. 196, il comma 3 e' soppresso.
  del Bilancio dello Stato
 
 All'articolo 21, comma 10, della legge 31 dicembre 2009, n. 196, le parole: «con le allegate appendici dei bilanci delle amministrazioni autonome,» sono soppresse.
+
+2.
+                    
+                        
+                            In relazione a quanto previsto dal comma 1, le seguenti norme sono modificate come segue: 
+ 
+                        
+                        
+                            a)
+                            
+                                all'articolo 59 della legge 20 maggio 1985, n. 222, le parole: «sono sottoposti all'approvazione del Parlamento in allegato, rispettivamente, allo stato di previsione e al consuntivo del Ministero dell'interno» sono soppresse e sono aggiunte, in fine, le seguenti parole: «sono redatti secondo i principi contenuti nella legge 31 dicembre 2009, n. 196, ed approvati dal Ministro dell'interno di concerto con il Ministro dell'economia e delle finanze. Gli stessi sono trasmessi dal Ministro dell'interno alle commissioni parlamentari competenti per materia, rispettivamente entro il termine di presentazione del disegno di legge di bilancio e del disegno di legge del rendiconto. Il conto consuntivo e' trasmesso anche alla Corte dei conti.»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                all'articolo 4, comma 6, della legge 9 maggio 1932, n. 547, cosi' come modificato dall'articolo 44-bis, comma 7 , del decreto-legge 30 dicembre 2008, n. 207, convertito, con modificazioni, dalla legge 27 febbraio 2009, n. 14, le parole: «legge 3 aprile 1997, n. 94» sono sostituite dalle seguenti: «legge 31 dicembre 2009, n. 196» e sono aggiunte, in fine, le seguenti parole: «Il bilancio di previsione ed il conto consuntivo sono trasmessi dal Ministro della giustizia alle Commissioni parlamentari competenti per materia, rispettivamente entro il termine di presentazione del disegno di legge di bilancio e del disegno di legge del rendiconto.
+Il conto consuntivo e' trasmesso anche alla Corte dei conti.»; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                all'articolo 14, secondo comma, del regio decreto 6 maggio 1929, n. 970, le parole: «e lo trasmette al Ministero delle finanze, per il tramite della Ragioneria generale dello Stato, in allegato a quello del Ministero, per la presentazione al Parlamento.» sono soppresse; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                all'articolo 1, della legge 17 maggio 1952, n. 629, dopo il primo comma e' inserito il seguente: «Il bilancio di previsione ed il conto consuntivo degli Archivi notarili, sono redatti secondo i principi contenuti nella legge 31 dicembre 2009, n. 196, ed approvati dal Ministro della giustizia di concerto con il Ministro dell'economia e delle finanze. Gli stessi sono trasmessi dal Ministro della giustizia alle Commissioni parlamentari competenti per materia, rispettivamente entro il termine di presentazione del disegno di legge di bilancio e del disegno di legge del rendiconto. Il conto consuntivo e' trasmesso anche alla Corte dei conti.».
 
 All'articolo 1, terzo comma, della legge 7 novembre 1977, n. 882, le parole: «in sede di nota preliminare allo stato di previsione della spesa del Ministero del tesoro» sono soppresse e sostituite dalle seguenti: « mediante l'invio di apposita relazione entro il termine di presentazione del disegno di legge di bilancio.».
 
@@ -134,6 +340,38 @@ All'articolo 23, comma 1, secondo periodo, della legge 27 dicembre 2002, n. 289,
 All'articolo 23 della legge 31 dicembre 2009, n. 196, dopo il comma 1, e' inserito il seguente: 
  «1-bis. Al fine di garantire tempestivita' nell'erogazione delle risorse a decorrere dall'anno 2017, con il disegno di legge di bilancio di previsione, possono essere iscritte negli stati di previsione della spesa di ciascuna amministrazione e in quello dell'entrata importi corrispondenti a quote di proventi che si prevede di incassare nel medesimo esercizio per le entrate finalizzate per legge al finanziamento di specifici interventi o attivita'. L'ammontare degli stanziamenti da iscrivere in bilancio e' commisurato all'andamento dei versamenti registrati nei singoli esercizi del triennio precedente a quello di iscrizione ovvero nei singoli esercizi successivi alla data di entrata in vigore della legge che dispone la destinazione delle entrate al finanziamento di specifici interventi o attivita', nel caso in cui il numero di tali esercizi sia inferiore a tre. Per adeguare gli stanziamenti iscritti in bilancio alle effettive somme riscosse nell'esercizio di riferimento, possono essere previste le necessarie variazioni con il disegno di legge ai fini all'assestamento delle previsioni di bilancio di cui all'articolo 33, comma 1.».
 
+2.
+                    
+                        
+                            All'articolo 2 della legge 24 dicembre 2007, n. 244, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 615, dopo le parole: «A decorrere dall'anno 2008» sono inserite le seguenti: «e fino all'anno 2016» ed e' aggiunto, in fine, il seguente periodo: «A decorrere dall'anno 2017 si applicano le disposizioni di cui al comma 617-bis.»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 616, dopo le parole: «sono istituiti» sono inserite le seguenti: «, a decorrere dall'anno 2008 e fino all'anno 2016»; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                al comma 617, dopo le parole: «A decorrere dall'anno 2008» sono inserite le seguenti: «e fino all'anno 2016»; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                dopo il comma 617 e' inserito il seguente: «617-bis. Fermo restando il conseguimento degli obiettivi di risparmio a regime, di cui al comma 617, a decorrere dall'anno 2017 ai versamenti di somme all'entrata del bilancio dello Stato autorizzati dai provvedimenti legislativi di cui all'elenco n. 1 allegato alla presente legge si applicano le disposizioni di cui all'articolo 23, comma 1-bis, della legge 31 dicembre 2009, n. 196.».
+
 ## Art. 7.
 
 Revisione del Conto riassuntivo del Tesoro e progressiva eliminazione delle gestioni contabili operanti a valere su contabilita' speciali o conti correnti di tesoreria
@@ -154,6 +392,24 @@ Dopo l'articolo 44 della legge 31 dicembre 2009, n. 196, sono inseriti i seguent
 Il decreto del Presidente del Consiglio dei ministri di cui al comma 1 dell'articolo 44-ter della legge 31 dicembre 2009, n. 196, introdotto dal comma 1 del presente articolo, e' adottato entro centoventi giorni dalla data di entrata in vigore del presente decreto. La riconduzione al regime di contabilita' ordinaria, di cui al medesimo comma 1, ovvero la soppressione in via definitiva di cui al comma 2 del suddetto articolo 44-ter, ((sono effettuate entro ventiquattro mesi dalla data di entrata in vigore del medesimo decreto del Presidente del Consiglio dei ministri)).
 
 Il divieto di cui al comma 8 dell'articolo 44-ter della legge 31 dicembre 2009, n. 196, come introdotto dal presente articolo decorre a partire dalla data di entrata in vigore del presente decreto.
+
+4.
+                    
+                        
+                            All'articolo 5, comma 4-quater, della legge 24 febbraio 1992, n. 225, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                alla fine del primo periodo sono inserite le seguenti parole «, e comunque non superiore a 36 mesi»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                e' aggiunto, in fine, il seguente periodo: «Le risorse di cui al periodo precedente, e le relative spese, non rilevano ai fini dei vincoli finanziari a cui sono soggetti le regioni e gli enti locali.».
 
 Sono fatti salvi gli effetti di provvedimenti di proroga delle contabilita' speciali aperte per le emergenze ai sensi dell'articolo 5 della legge 24 febbraio 1992, n. 225, gia' adottati e vigenti alla data di entrata in vigore del presente decreto.
 

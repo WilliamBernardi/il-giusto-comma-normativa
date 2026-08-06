@@ -7,8 +7,8 @@ urn: urn:nir:ministero.istruzione.universita.e.ricerca:decreto:2018-08-28;129
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:42Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -40,6 +40,45 @@ La gestione amministrativo-contabile delle istituzioni scolastiche si uniforma, 
 L'armonizzazione dei sistemi contabili, di cui all'articolo 1, comma 143, della legge n. 107 del 13 luglio 2015, e' demandata ad apposito successivo provvedimento.
 
 Le risorse assegnate dallo Stato, costituenti la dotazione finanziaria di istituto sono utilizzate, a norma dell'articolo 21, comma 5, della legge n. 59 del 1997 e successive modifiche ed integrazioni e dell'articolo 6, comma 3, del decreto del Presidente della Repubblica n. 233 del 1998, senza altro vincolo di destinazione che quello prioritario per lo svolgimento delle attivita' di istruzione, di formazione e di orientamento proprie dell'istituzione interessata, come previste ed organizzate nel piano triennale dell'offerta formativa, di seguito denominato P.T.O.F.
+
+4.
+                        
+                            
+                                Le istituzioni scolastiche, sempre che non si tratti di finanziamenti vincolati a specifiche destinazioni, provvedono altresi' all'autonoma allocazione delle risorse finanziarie derivanti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    da finanziamenti dell'Unione europea; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    da altri finanziamenti dello Stato; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    da finanziamenti delle regioni, di Enti locali o di altri Enti pubblici; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    da finanziamenti di Enti o altri soggetti privati; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    da entrate proprie.
 
 ## Art. 3.
 
@@ -115,6 +154,24 @@ I prelievi dal fondo di riserva sono disposti con provvedimento del dirigente sc
 
 ## Art. 9. — Partite di giro
 
+1.
+                        
+                            
+                                Le partite di giro comprendono: 
+ 
+                            
+                            
+                                a)
+                                
+                                    le entrate e le spese che si effettuano per conto di terzi che, costituendo al tempo stesso un debito e un credito per l'istituzione scolastica, non incidono sulle risultanze economiche del bilancio; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la dotazione del fondo economale di cui all'articolo 21.
+
 ## Art. 10. — Verifiche, modifiche e assestamento al programma annuale
 
 Il Consiglio d'istituto verifica, almeno una volta durante l'esercizio finanziario, con apposita delibera di assestamento al programma annuale da adottarsi entro il 30 giugno, le disponibilita' finanziarie dell'istituto, nonche' lo stato di attuazione del programma e le modifiche che si rendono eventualmente necessarie.
@@ -164,11 +221,75 @@ Le istituzioni scolastiche sono tenute ad accettare i pagamenti ad esse spettant
 
 ## Art. 14. — Reversali di incasso
 
+1.
+                        
+                            
+                                Le reversali di incasso sono firmate dal dirigente scolastico e dal D.S.G.A. Il contenuto delle reversali di incasso e' il seguente: 
+ 
+                            
+                            
+                                a)
+                                
+                                    l'ordine rivolto all'istituto cassiere di incassare una certa somma di denaro; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il numero progressivo, l'esercizio finanziario e la data di emissione; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    l'importo in cifre e lettere della somma da riscuotere e la sua provenienza contraddistinta da apposito codice; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    la causale della riscossione; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    il nome ed il cognome o la denominazione del debitore.
+
 ## Art. 15. — Impegni
 
 Formano impegni sugli stanziamenti di competenza le sole somme dovute dall'istituzione scolastica a seguito di obbligazioni giuridicamente perfezionate.
 
 Gli impegni non possono eccedere in nessun caso lo stanziamento dello specifico aggregato, come individuato nel programma annuale e nelle eventuali variazioni apportate al medesimo.
+
+3.
+                        
+                            
+                                Gli impegni possono riferirsi soltanto all'esercizio in corso, ad eccezione di quelli relativi a: 
+ 
+                            
+                            
+                                a)
+                                
+                                    spese in conto capitale ripartite in piu' esercizi, per le quali l'impegno puo' estendersi a piu' anni. I pagamenti devono comunque essere contenuti nei limiti delle disponibilita' finanziarie di ogni esercizio; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    spese per l'estinzione di mutui; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    spese correnti o connesse ai progetti pluriennali di cui all'articolo 5, comma 6, ove cio' sia indispensabile per assicurare la continuita' dei servizi e dell'esecuzione dei progetti.
 
 Dopo la chiusura dell'esercizio, non possono essere assunti impegni a carico dell'esercizio scaduto.
 
@@ -184,6 +305,59 @@ I pagamenti sono ordinati, tramite ordinativo informatico, secondo le disposizio
 
 ## Art. 17. — Mandati di pagamento
 
+1.
+                        
+                            
+                                I mandati di pagamento sono firmati dal dirigente scolastico e dal D.S.G.A., fermo restando l'obbligo di fatturazione in forma elettronica previsto dalla normativa vigente. Il contenuto dei mandati di pagamento e' il seguente: 
+ 
+                            
+                            
+                                a)
+                                
+                                    l'ordine rivolto all'istituto cassiere di pagare una determinata somma di denaro ad una persona o ente; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il numero progressivo e la data di emissione; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    l'importo in cifre e in lettere della somma da pagare e la causale del pagamento; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    i dati anagrafici o identificativi e i dati fiscali del creditore o della persona abilitata a rilasciare quietanza; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    il progetto al quale la spesa si riferisce; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    la codifica della spesa come prevista nella modulistica di cui all'articolo 41; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    nel caso in cui riguardi il pagamento delle retribuzioni fondamentali e accessorie, l'indicazione delle ritenute che su di esse gravano.
+
 Ogni mandato di pagamento e' sempre corredato dei documenti giustificativi relativi alla causale. In caso di lavori, forniture e servizi, il mandato e' corredato, altresi', dei documenti comprovanti la regolare esecuzione degli stessi e delle relative fatture.
 
 Sulle fatture riguardanti l'acquisto di beni soggetti ad inventario e' annotata l'avvenuta presa in carico con il numero d'ordine sotto il quale i beni sono registrati. Ad esse, e', inoltre, allegato il verbale di collaudo.
@@ -191,6 +365,31 @@ Sulle fatture riguardanti l'acquisto di beni soggetti ad inventario e' annotata 
 ## Art. 18.
 
 Modalita' di estinzione dei mandati
+
+1.
+                        
+                            
+                                I mandati sono estinti mediante: 
+ 
+                            
+                            
+                                a)
+                                
+                                    accreditamento in conto corrente bancario, intestato al creditore; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    accreditamento o versamento su conto corrente postale, intestato al creditore; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    su richiesta del creditore, mediante pagamento in contanti da parte dell'istituto cassiere, ovvero con assegno circolare, nei limiti stabiliti dalle disposizioni in materia di tracciabilita' dei pagamenti, antiriciclaggio e utilizzo del denaro contante.
 
 Le dichiarazioni di accreditamento, che sostituiscono la quietanza del creditore, devono risultare sul mandato di pagamento da annotazione recante gli estremi relativi alle operazioni a cura dell'istituto cassiere.
 
@@ -207,6 +406,24 @@ I rapporti con gli istituti di credito o con altri enti emittenti le carte di cr
 ## - Capo IV Servizi di cassa e fondo economale per le minute spese
 
 ## Art. 20. — Affidamento del servizio di cassa
+
+1.
+                        
+                            
+                                Il servizio di cassa risponde alle disposizioni vigenti in materia di tesoreria unica e ha per oggetto: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la riscossione delle entrate e il pagamento delle spese facenti capo all'istituzione scolastica e dalla stessa ordinate; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la custodia e l'amministrazione di titoli e valori.
 
 Il servizio di cassa e' affidato ad un unico operatore economico in possesso delle necessarie autorizzazioni previste dalla legge utilizzando gli strumenti di acquisto e di negoziazione eventualmente predisposti da Consip S.p.A., d'intesa con il Ministero dell'istruzione, dell'universita' e della ricerca, anche sulla base degli schemi di cui al comma 5.
 
@@ -239,6 +456,59 @@ La costituzione e la gestione del fondo cassa devono avvenire nel rispetto della
 ## - Capo V Conto consuntivo
 
 ## Art. 22. — Conto consuntivo
+
+1.
+                        
+                            
+                                Il conto consuntivo si compone del conto finanziario e del conto del patrimonio. Ad esso sono allegati: 
+ 
+                            
+                            
+                                a)
+                                
+                                    l'elenco dei residui attivi e passivi, con l'indicazione del nome del debitore o del creditore, della causale del credito o del debito e del loro ammontare; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la situazione amministrativa che dimostra il fondo di cassa all'inizio dell'esercizio, le somme riscosse e quelle pagate, tanto in conto competenza quanto in conto residui, e il fondo di cassa alla chiusura dell'esercizio, il totale complessivo delle somme rimaste da riscuotere (residui attivi) e di quelle rimaste da pagare (residui passivi) nonche' l'avanzo o il disavanzo di amministrazione; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il prospetto delle spese per il personale e per i contratti d'opera; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    il rendiconto delle singole attivita' e dei singoli progetti; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    il rendiconto dell'eventuale azienda agraria o speciale; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    il rendiconto delle eventuali attivita' di vendita di beni e di servizi a favore di terzi; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    il rendiconto dell'eventuale convitto annesso.
 
 Il conto finanziario, in relazione all'aggregazione delle entrate e delle spese contenute nel programma annuale comprende le entrate di competenza dell'anno accertate, riscosse o rimaste da riscuotere e le spese di competenza dell'anno, impegnate, pagate o rimaste da pagare.
 
@@ -276,6 +546,38 @@ La gestione dell'azienda deve essere condotta secondo criteri di rendimento econ
 
 La gestione dell'azienda annessa all'istituzione scolastica costituisce una specifica attivita' del programma annuale, della quale il programma stesso indica, in apposita scheda illustrativa finanziaria, le entrate e le spese.
 
+5.
+                        
+                            
+                                La relazione illustrativa di cui all'articolo 5, comma 7, deve indicare in particolare: 
+ 
+                            
+                            
+                                a)
+                                
+                                    l'indirizzo economico produttivo; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    gli obiettivi che si intendono perseguire; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    le risorse umane e strumentali e le superfici dell'azienda con i relativi costi e le attivita' didattiche che possono svolgersi con l'utilizzazione delle medesime; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    le entrate e le spese complessive che l'azienda prevede rispettivamente di riscuotere e sostenere e, qualora non sia possibile prevedere il pareggio, le risorse finanziarie tratte dagli appositi accantonamenti dell'azienda o dall'eventuale avanzo di amministrazione dell'istituzione scolastica, necessarie per conseguirlo secondo quanto previsto dal comma 9.
+
 I risultati della gestione dell'azienda in termini di utili e perdite sono riportati nel conto consuntivo dell'istituzione scolastica, cui e' allegata una specifica relazione illustrativa del direttore dell'azienda.
 
 Le scritture contabili dell'azienda sono distinte da quelle dell'istituzione scolastica e sono tenute con le regole e i meccanismi contabili stabiliti dal codice civile e con i registri e libri ausiliari che si rendono necessari.
@@ -305,6 +607,45 @@ La gestione delle attivita' per conto terzi deve essere condotta secondo criteri
 
 La gestione delle attivita' per conto terzi costituisce una specifica attivita' del programma annuale, della quale lo stesso programma indica, in apposita scheda illustrativa finanziaria, le entrate e le spese, nonche' una quota di spese generali, di ammortamento e deperimento delle attrezzature a favore dell'istituzione scolastica.
 
+4.
+                        
+                            
+                                La relazione illustrativa di cui all'articolo 5, comma 7, deve indicare: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il tipo di attivita' che si intende realizzare; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    i criteri di amministrazione e le modalita' della gestione; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    gli obiettivi che si intendono perseguire; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    le risorse umane e strumentali che si intendono utilizzare con i relativi costi e le attivita' didattiche che possono svolgersi con l'utilizzazione delle medesime; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    le entrate e le spese complessive che si prevede rispettivamente di riscuotere e sostenere.
+
 Le attivita' per conto terzi sono oggetto di contabilita' separata da quella dell'istituzione scolastica. I relativi movimenti finanziari sono rilevati nella contabilita' della medesima istituzione scolastica, in specifiche voci di entrata e di spesa classificate «attivita' per conto terzi».
 
 I risultati conseguiti, in termini di entrate e spese, sono riportati nel rendiconto e nel conto consuntivo dell'istituzione scolastica e specificamente illustrati nella relazione di cui all'articolo 23. L'eventuale eccedenza di entrate rispetto alle spese costituisce incremento dell'avanzo di amministrazione dell'istituzione scolastica. Qualora i proventi non coprano tutte le spese previste, il Consiglio d'istituto dispone l'immediata cessazione delle attivita' a favore di terzi.
@@ -322,6 +663,45 @@ La direzione e l'amministrazione dei convitti di cui al comma 1 e' affidata agli
 La gestione dei convitti annessi alle istituzioni scolastiche deve essere condotta secondo criteri di rendimento economico, di efficacia, efficienza e di economicita', nel rispetto delle finalita' di cui al comma 1, e deve garantire l'utilizzo ottimale delle strutture, al fine di ridurre i costi a carico dei convittori.
 
 La gestione dei convitti annessi alle istituzioni scolastiche costituisce una specifica attivita' del programma annuale, della quale lo stesso programma indica, in apposita scheda illustrativa finanziaria, le entrate e le spese, nonche' una quota di spese generali, di ammortamento e deperimento delle attrezzature a favore dell'istituzione scolastica.
+
+5.
+                        
+                            
+                                La relazione illustrativa di cui all'articolo 5, comma 7, deve indicare: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il tipo di attivita' che si intende realizzare; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    i criteri di amministrazione e le modalita' della gestione; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    gli obiettivi che si intendono perseguire; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    le risorse umane e strumentali che si intendono utilizzare con i relativi costi; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    le entrate e le spese complessive che si prevede rispettivamente di riscuotere e sostenere.
 
 Le attivita' convittuali sono oggetto di contabilita' separata da quella dell'istituzione scolastica. I relativi movimenti finanziari sono rilevati nella contabilita' della medesima istituzione scolastica, in specifiche voci di entrata e di spesa classificate «attivita' convittuali».
 
@@ -360,6 +740,52 @@ Il predetto regolamento contiene, altresi', disposizioni per la gestione dei ben
 ## Art. 30. — Consegnatario, sostituto consegnatario, 
  sub-consegnatario
 
+1.
+                        
+                            
+                                Le funzioni di consegnatario sono svolte dal D.S.G.A. che, ferme restando le responsabilita' del dirigente scolastico in materia, provvede a: 
+ 
+                            
+                            
+                                a)
+                                
+                                    conservare e gestire i beni dell'istituzione scolastica; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    distribuire gli oggetti di cancelleria, gli stampati e altro materiale di facile consumo; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    curare la manutenzione dei beni mobili e degli arredi di ufficio; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    curare il livello delle scorte operative necessarie ad assicurare il regolare funzionamento degli uffici; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    vigilare sul regolare e corretto uso dei beni affidati agli utilizzatori finali, che fruiscono del bene o consumano il materiale; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    vigilare, verificare e riscontrare il regolare adempimento delle prestazioni e delle prescrizioni contenute nei patti negoziali sottoscritti con gli affidatari delle forniture di beni e servizi.
+
 Il dirigente scolastico nomina, con proprio provvedimento, uno o piu' impiegati incaricati della sostituzione del consegnatario in caso di assenza o di impedimento temporaneo.
 
 Nel caso di particolare complessita' e di dislocazione dell'istituzione scolastica su piu' plessi, il dirigente scolastico puo' nominare, con proprio provvedimento, uno o piu' sub-consegnatari, i quali rispondono della consistenza e della conservazione dei beni ad essi affidati e comunicano al consegnatario le variazioni intervenute durante l'esercizio finanziario mediante apposito prospetto.
@@ -370,6 +796,62 @@ Quando il D.S.G.A. cessa dal suo ufficio, il passaggio di consegne avviene media
 L'operazione deve risultare da apposito verbale ed e' effettuata entro sessanta giorni dalla cessazione dall'ufficio.
 
 ## Art. 31. — Inventari
+
+1.
+                        
+                            
+                                I beni che costituiscono il patrimonio delle istituzioni scolastiche si iscrivono in distinti inventari per ciascuna delle seguenti categorie: 
+ 
+                            
+                            
+                                a)
+                                
+                                    beni mobili; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    beni di valore storico-artistico; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    libri e materiale bibliografico; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    valori mobiliari; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    veicoli e natanti; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    beni immobili.
+
+2.
+                        
+                            
+                                I beni mobili di cui alle lettere da 
+                            
+                            
+                                a)
+                                
+                                    a d) si iscrivono nel relativo inventario in ordine cronologico, con numerazione progressiva e ininterrotta e con l'indicazione di tutti gli elementi che valgano a stabilirne la provenienza, il luogo in cui si trovano, la quantita' o il numero, lo stato di conservazione, il valore e la eventuale rendita. L'inventario dei beni immobili deve riportare il titolo di provenienza, i dati catastali, il valore e l'eventuale rendita annua, l'eventuale esistenza di diritti a favore di terzi, la destinazione d'uso e l'utilizzo attuale.
 
 Ogni oggetto e' contrassegnato col numero progressivo col quale e' stato iscritto in inventario.
 
@@ -386,6 +868,31 @@ L'inventario e' tenuto e curato dal D.S.G.A., che assume le responsabilita' del 
 Con cadenza almeno quinquennale si provvede alla ricognizione dei beni e con cadenza almeno decennale al rinnovo degli inventari e alla rivalutazione dei beni.
 
 ## Art. 32. — Valore di beni inventariati
+
+1.
+                        
+                            
+                                Ad ogni bene iscritto in inventario e' attribuito un valore che corrisponde: 
+ 
+                            
+                            
+                                a)
+                                
+                                    al prezzo di fattura, per i beni acquistati, ivi compresi quelli acquisiti dall'istituzione scolastica al termine di eventuali operazioni di locazione finanziaria o di noleggio con riscatto; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    al prezzo di costo, per quelli prodotti nell'istituto; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    al prezzo di stima, per quelli ricevuti in dono.
 
 I titoli del debito pubblico, quelli garantiti dallo Stato e gli altri valori mobiliari pubblici e privati si iscrivono, se il prezzo e' inferiore al valore nominale, al prezzo di borsa del giorno precedente a quello della compilazione o revisione dell'inventario o, se il prezzo e' superiore, al loro valore nominale, con l'indicazione, in ogni caso, della rendita e della relativa scadenza.
 
@@ -468,6 +975,59 @@ Le istituzioni scolastiche possono effettuare, con eventuali fondi propri e d'in
 
 ## Art. 40. — Scritture contabili
 
+1.
+                        
+                            
+                                I documenti contabili obbligatori sono: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il programma annuale; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il giornale di cassa; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    i registri dei partitari delle entrate e delle spese; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    gli inventari; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    il registro delle minute spese; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    il conto consuntivo; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    il registro del conto corrente postale.
+
 Nel giornale di cassa si trascrivono tutte le operazioni di pagamento e di riscossione, nel giorno in cui sono emessi i relativi mandati e reversali.
 
 Nei registri partitari si aprono tanti conti quante sono le aggregazioni individuate sulla base di quanto previsto dall'articolo 5, commi 2 e 3, e si annotano le operazioni di accertamento o di impegno e quelle di incasso o di pagamento.
@@ -537,6 +1097,154 @@ Nel caso in cui non siano reperibili tra il personale dell'istituto specifiche c
 Competenze del Consiglio d'istituto 
  nell'attivita' negoziale
 
+1.
+                        
+                            
+                                Il Consiglio d'istituto delibera in ordine: 
+ 
+                            
+                            
+                                a)
+                                
+                                    all'accettazione e alla rinuncia di legati, eredita' e donazioni; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    alla costituzione o compartecipazione ad associazioni o fondazioni; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    all'istituzione o compartecipazione a borse di studio; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    all'accensione di mutui e in genere ai contratti di durata pluriennale, tenendo conto che l'impegno complessivo annuale per il rimborso dei mutui non puo' eccedere, sommato all'impegno per canoni di contratti di locazione finanziaria, il quinto della media dei trasferimenti ordinari dello Stato nell'ultimo triennio e che la durata massima dei mutui e' quinquennale; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    all'alienazione, trasferimento, costituzione, modificazione di diritti reali su beni immobili appartenenti alla istituzione scolastica, previa verifica, in caso di alienazione di beni pervenuti per effetto di successioni a causa di morte e di donazioni, della mancanza di condizioni ostative o disposizioni modali che impediscano la dismissione del bene; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    all'adesione a reti di scuole e consorzi; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    all'utilizzazione economica delle opere dell'ingegno e dei diritti di proprieta' industriale; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    alla partecipazione dell'istituzione scolastica ad iniziative che comportino il coinvolgimento di agenzie, enti, universita', soggetti pubblici o privati; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    alla coerenza, rispetto alle previsioni del P.T.O.F. e del programma annuale, delle determinazioni a contrarre adottate dal dirigente per acquisizioni di importo superiore alla soglia comunitaria. Tale delibera del Consiglio d'istituto deve essere antecedente alla pubblicazione del bando di gara o trasmissione della lettera di invito; 
+
+                                
+                            
+                            
+                                j)
+                                
+                                    all'acquisto di immobili, che puo' essere effettuato esclusivamente con fondi derivanti da attivita' proprie dell'istituzione scolastica, ovvero a seguito di legati, eredita' e donazioni.
+
+2.
+                        
+                            
+                                Al Consiglio d'istituto spettano le deliberazioni relative alla determinazione, nei limiti stabiliti dalla normativa vigente in materia, dei criteri e dei limiti per lo svolgimento, da parte del dirigente scolastico, delle seguenti attivita' negoziali: 
+ 
+                            
+                            
+                                a)
+                                
+                                    affidamenti di lavori, servizi e forniture, secondo quanto disposto dal decreto legislativo 18 aprile 2016, n. 50 e dalle relative previsioni di attuazione, di importo superiore a 10.000,00 euro; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    contratti di sponsorizzazione, per i quali e' accordata la preferenza a soggetti che, per finalita' statutarie e/o attivita' svolte abbiano in concreto dimostrato particolare attenzione e sensibilita' nei confronti dei problemi dell'infanzia e della adolescenza. E' fatto divieto di concludere accordi di sponsorizzazione con soggetti le cui finalita' ed attivita' siano in contrasto, anche di fatto, con la funzione educativa e culturale della scuola; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    contratti di locazione di immobili; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    utilizzazione da parte di soggetti terzi di locali, beni o siti informatici, appartenenti alla istituzione scolastica o in uso alla medesima; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    convenzioni relative a prestazioni del personale della scuola e degli alunni per conto terzi; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    alienazione di beni e servizi prodotti nell'esercizio di attivita' didattiche o programmate a favore di terzi; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    acquisto ed alienazione di titoli di Stato; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    contratti di prestazione d'opera con esperti per particolari attivita' ed insegnamenti; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    partecipazione a progetti internazionali; 
+
+                                
+                            
+                            
+                                j)
+                                
+                                    determinazione della consistenza massima e dei limiti di importo del fondo economale di cui all'articolo 21.
+
 Nei casi specificamente individuati dai commi 1 e 2, l'attivita' negoziale e' subordinata alla previa deliberazione del Consiglio d'istituto. In tali casi, il dirigente scolastico non puo', inoltre, recedere, rinunciare o transigere se non previamente autorizzato dal Consiglio d'istituto.
 
 ## Art. 46. — Strumenti di acquisto e di negoziazione
@@ -588,9 +1296,133 @@ Agli stessi e', inoltre, corrisposto, se dovuto, il rimborso delle spese di miss
 
 Ciascun Ufficio scolastico regionale, per le finalita' connesse al controllo di regolarita' amministrativa e contabile ed alla nomina dei revisori dei conti di cui all'articolo 49, aggrega le istituzioni scolastiche del territorio di propria competenza in ambiti territoriali di revisione, tenendo conto dei piani di organizzazione della rete scolastica approvati nella Regione.
 
+2.
+                        
+                            
+                                L'aggregazione e' operata in considerazione: 
+ 
+                            
+                            
+                                a)
+                                
+                                    delle disposizioni vigenti in materia di limiti al numero degli ambiti e al numero delle istituzioni scolastiche per ciascun ambito; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    della dimensione complessiva dei flussi finanziari amministrati; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    della vicinanza e/o del facile collegamento tra le diverse sedi; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    della situazione geografica e ambientale in cui gli istituti operano.
+
 ## Art. 51. — Compiti dei revisori dei conti
 
 I revisori dei conti, nell'espletamento delle attivita' di controllo di legittimita' e regolarita' amministrativa e contabile di cui all'articolo 49, esprimono il parere obbligatorio a supporto delle determinazioni del Consiglio d'istituto in ordine all'approvazione del programma annuale e del conto consuntivo, secondo le procedure e i tempi stabiliti nel presente regolamento.
+
+2.
+                        
+                            
+                                I revisori dei conti, con visite periodiche, anche individuali, da compiersi almeno due volte nell'anno presso ciascuna istituzione scolastica compresa nell'ambito territoriale di competenza, nonche', ove possibile, attraverso l'uso di strumenti informatici che consentono di effettuare controlli a distanza, procedono: 
+ 
+                            
+                            
+                                a)
+                                
+                                    alla verifica della regolarita' e della corretta tenuta dei libri obbligatori e delle scritture contabili; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    alla verifica della coerenza nell'impiego delle risorse in funzione degli obiettivi individuati nel P.T.O.F., nel programma annuale e nelle relative variazioni; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    al riscontro dei dati presenti nelle scritture contabili con quelli riportati nei documenti contabili di programmazione e rendicontazione, verificando la correttezza dei risultati finanziari, economici e patrimoniali della gestione e l'esattezza e la chiarezza dei dati contabili presentati nei prospetti di bilancio e nei relativi allegati; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    alla verifica della attendibilita' delle valutazioni di stima del programma annuale e della corretta esposizione dei dati contabili nel programma medesimo e nel conto consuntivo; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    al riscontro, almeno semestrale, sulla consistenza di cassa, dei depositi e dei titoli di proprieta'; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    all'analisi finanziaria, patrimoniale ed economica della gestione, per individuare informazioni circa stabilita', sostenibilita' o criticita' dell'equilibrio di bilancio; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    al controllo sulla compatibilita' dei costi della contrattazione collettiva integrativa di sede con le risorse all'uopo assegnate all'istituzione scolastica, con i vincoli di bilancio e quelli derivanti dall'applicazione delle norme di legge, con particolare riferimento alle disposizioni inderogabili che incidono sulla misura e sulla corresponsione dei trattamenti accessori.
+
+3.
+                        
+                            
+                                Nell'esame del conto consuntivo della gestione annuale, i revisori dei conti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    riferiscono sulla regolarita' della gestione finanziaria e patrimoniale, secondo gli elementi tratti dagli atti esaminati e dalle verifiche periodiche effettuate nel corso dell'esercizio; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    rilevano ed analizzano il livello percentuale di utilizzo della dotazione finanziaria e delle dotazioni annuali di ciascun progetto d'istituto; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    evidenziano i risultati della gestione finanziaria e patrimoniale; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    esprimono parere sul conto, con particolare riguardo alla concordanza dei risultati esposti con le scritture contabili; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    corredano la relazione con tabelle di rilevazione dei costi inerenti alle attivita' e ai progetti realizzati dall'istituzione scolastica, finalizzate all'analisi costi/benefici da parte dell'amministrazione scolastica, nonche' con altre notizie e dati richiesti dall'amministrazione vigilante.
 
 I revisori dei conti svolgono, altresi', su specifico incarico delle rispettive amministrazioni di appartenenza gli altri controlli e verifiche richiesti, anche per esigenze di monitoraggio della spesa pubblica. Essi, inoltre, procedono alla verifica del corretto utilizzo delle risorse finalizzate alla realizzazione di attivita' gestite su progetti o affidamenti da parte di soggetti pubblici e privati, nonche' su progetti nazionali ed europei e della connessa rendicontazione di spesa, svolgendo, ove richiesto, anche attivita' di rendicontazione.
 

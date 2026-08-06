@@ -9,7 +9,7 @@ vigente: true
 source: normattiva-opendata
 collection: Atti di recepimento direttive UE
 zip_date: 2026-07-30
-fetched_at: 2026-08-02T09:40:48Z
+fetched_at: 2026-07-30
 ---
 
 DECRETO LEGISLATIVO
@@ -69,6 +69,88 @@ Tali informazioni sono fornite entro il termine fissato dalla Consob, comunque n
  7. Ai fini dell'esercizio delle proprie funzioni di vigilanza sul rispetto delle disposizioni del presente capo, la Consob esercita i poteri previsti dall'articolo 115, comma 1, lettere a) e b), nei confronti di chiunque appaia informato dei fatti. In caso di fondato sospetto di violazione delle disposizioni del presente capo o delle norme regolamentari si applica l'articolo 187-octies.
  8. In presenza di indiscrezioni comunque diffuse tra il pubblico in merito ad una possibile offerta pubblica di acquisto o scambio e di irregolarita' nell'andamento del mercato dei titoli interessati, ai potenziali offerenti si applica l'articolo 114, commi 5 e 6.».
 
+3.
+                    
+                        
+                            All'articolo 103 del decreto legislativo n. 58 del 1998 sono apportate le seguenti modificazioni:
+ 
+                        
+                        
+                            a)
+                            
+                                il comma 2 e' sostituito dal seguente:
+ «2. Fermo quanto previsto dal titolo III, capo I, agli emittenti, agli offerenti, alle persone che agiscono di concerto con essi, nonche' agli intermediari incaricati di raccogliere le adesioni si applicano gli articoli 114, commi 5 e 6, e 115 dalla data della comunicazione prevista dall'articolo 102, comma 1, e fino ad un anno dalla chiusura dell'offerta.»;
+
+                            
+                        
+                        
+                            b)
+                            
+                                il comma 3 e' sostituito dal seguente:
+ «Il consiglio di amministrazione dell'emittente diffonde un comunicato contenente ogni dato utile per l'apprezzamento dell'offerta e la propria valutazione sulla medesima. Per le societa' organizzate secondo il modello dualistico il comunicato, eventualmente congiunto, e' approvato dal consiglio di gestione e dal consiglio di sorveglianza.»;
+
+                            
+                        
+                        
+                            c)
+                            
+                                dopo il comma 3 e' aggiunto il seguente:
+ «3-bis. Il comunicato contiene altresi' una valutazione degli effetti che l'eventuale successo dell'offerta avra' sugli interessi dell'impresa, nonche' sull'occupazione e la localizzazione dei siti produttivi. Contestualmente alla sua diffusione, il comunicato e' trasmesso ai rappresentanti dei lavoratori della societa' o, in loro mancanza, ai lavoratori direttamente. Se ricevuto in tempo utile, al comunicato e' allegato il parere dei rappresentanti dei lavoratori quanto alle ripercussioni sull'occupazione.»;
+
+                            
+                        
+                        
+                            d)
+                            
+                                il comma 4 e' sostituito dal seguente:
+ «4. La Consob detta con regolamento disposizioni di attuazione della presente sezione e, in particolare, disciplina:
+ a) il contenuto del documento d'offerta, nonche' le modalita' per la pubblicazione del documento e per lo svolgimento dell'offerta;
+ b) la correttezza e la trasparenza delle operazioni sui prodotti finanziari oggetto dell'offerta;
+ c) gli effetti sul corrispettivo dell'offerta degli acquisti di prodotti finanziari che ne sono oggetto, effettuati dagli offerenti o dalle persone che agiscono di concerto con essi dopo la comunicazione di cui all'articolo 102, comma 1, in pendenza dell'offerta o nei sei mesi successivi alla chiusura di questa;
+ d) le modifiche all'offerta, le offerte di aumento e quelle concorrenti, senza limitare il numero dei rilanci, effettuabili fino alla scadenza di un termine massimo;
+ e) il riconoscimento dei documenti d'offerta approvati da autorita' di vigilanza di altri Stati comunitari o da autorita' di vigilanza di Stati extracomunitari con le quali vi siano accordi di cooperazione;
+ f) le modalita' di pubblicazione dei provvedimenti da essa adottati ai sensi della presente sezione.»;
+
+                            
+                        
+                        
+                            e)
+                            
+                                il comma 5 e' abrogato.
+
+4.
+                    
+                        
+                            All'articolo 104 del decreto legislativo n. 58 del 1998 sono apportate le seguenti modificazioni:
+ 
+                        
+                        
+                            a)
+                            
+                                la rubrica e' sostituita dalla seguente: «Difese»;
+
+                            
+                        
+                        
+                            b)
+                            
+                                il comma 1 e' sostituito dal seguente: «1. Salvo autorizzazione dell'assemblea ordinaria o di quella straordinaria per le delibere di competenza, le societa' italiane quotate i cui titoli sono oggetto dell'offerta si astengono dal compiere atti od operazioni che possono contrastare il conseguimento degli obiettivi dell'offerta. L'obbligo di astensione si applica dalla comunicazione di cui all'articolo 102, comma 1, e fino alla chiusura dell'offerta ovvero fino a quando l'offerta stessa non decada. La mera ricerca di altre offerte non costituisce atto od operazione in contrasto con gli obiettivi dell'offerta. Le assemblee deliberano, in ogni convocazione, con il voto favorevole di tanti soci che rappresentano almeno il trenta per cento del capitale. Resta ferma la responsabilita' degli amministratori, dei componenti del consiglio di gestione e di sorveglianza e dei direttori generali per gli atti e le operazioni compiuti.»;
+
+                            
+                        
+                        
+                            c)
+                            
+                                dopo il comma 1-bis e' inserito il seguente:
+«1-ter. L'autorizzazione assembleare prevista dal comma 1 e' richiesta anche per l'attuazione di ogni decisione presa prima dell'inizio del periodo indicato nel comma 1, che non sia ancora stata attuata in tutto o in parte, che non rientri nel corso normale delle attivita' della societa' e la cui attuazione possa contrastare il conseguimento degli obiettivi dell'offerta.»;
+
+                            
+                        
+                        
+                            d)
+                            
+                                al comma 2 le parole: «di grazia e» sono sostituite dalla seguente «della».
+
 Dopo l'articolo 104 del decreto legislativo n. 58 del 1998 sono inseriti i seguenti:
  «Art. 104-bis (Regola di neutralizzazione) - 1. Fermo quanto previsto dall'articolo 123, comma 3, le disposizioni del presente articolo si applicano quando e' promossa un'offerta pubblica di acquisto o di scambio avente ad oggetto i titoli emessi da societa' italiane quotate, ad esclusione delle societa' cooperative.
  2. Nel periodo di adesione all'offerta non hanno effetto nei confronti dell'offerente le limitazioni al trasferimento di titoli previste nello statuto ne' hanno effetto, nelle assemblee chiamate a decidere sugli atti e le operazioni previsti dall'articolo 104, le limitazioni al diritto di voto previste nello statuto o da patti parasociali.
@@ -85,6 +167,31 @@ Dopo l'articolo 104 del decreto legislativo n. 58 del 1998 sono inseriti i segue
  4. Qualsiasi misura idonea a contrastare il conseguimento degli obiettivi dell'offerta adottata dalla societa' emittente in virtu' di quanto disposto al comma 1 deve essere espressamente autorizzata dall'assemblea straordinaria, in vista di una eventuale offerta pubblica, nei diciotto mesi anteriori alla comunicazione della decisione di promuovere l'offerta ai sensi dell'articolo 102, comma 1. Fermo quanto disposto dall'articolo 114, tale autorizzazione e' tempestivamente comunicata al mercato secondo le modalita' previste ai sensi del medesimo articolo.».
 
 ## Art. 3. — Modifiche alla parte IV, titolo II, capo II, sezione II del decreto legislativo 24 febbraio 1998, n. 58
+
+1.
+                    
+                        
+                            L'articolo 105 del decreto legislativo n. 58 del 1998 sono apportate le seguenti modificazioni:
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 1 le parole: «Le disposizioni» sono sostituite dalle seguenti: «Salvo quanto previsto dall'articolo 101-ter, commi 4 e 5, le disposizioni» e le parole: «con azioni ordinarie quotate» sono sostituite dalle seguenti: «con titoli ammessi alla negoziazione»;
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 2 le parole: «del capitale rappresentato da azioni» sono sostituite dalle seguenti: «dei titoli emessi da una societa' di cui al comma 1» e le parole: «o responsabilita» sono soppresse;
+
+                            
+                        
+                        
+                            c)
+                            
+                                al comma 3 le parole: «nel capitale rilevante categorie di azioni» sono sostituite dalle seguenti: «nella partecipazione categorie di titoli» ed e' aggiunto in fine il seguente periodo: «La Consob determina, altresi', con regolamento i criteri di calcolo della partecipazione di cui al comma 2 nelle ipotesi in cui i titoli di cui al medesimo comma, risultino privati, per effetto di disposizioni legislative o regolamentari, del diritto di voto.».
 
 L'articolo 106 del decreto legislativo n. 58 del 1998 e' sostituito dal seguente:
  «Art. 106 (Offerta pubblica di acquisto totalitaria). - 1.
@@ -114,6 +221,31 @@ Chiunque, a seguito di acquisti, venga a detenere una partecipazione superiore a
  f) acquisti a titolo gratuito.
  6. La Consob puo' con provvedimento motivato, disporre che il superamento della partecipazione indicata nel comma 1 o nel comma 3, lettera b), non comporta obbligo di offerta con riguardo a casi riconducibili alle ipotesi di cui al comma 5, ma non espressamente previsti nel regolamento approvato ai sensi del medesimo comma.».
 
+3.
+                    
+                        
+                            Al comma 1 dell'articolo 107 del decreto legislativo n. 58 del 1998 sono apportate le seguenti modificazioni:
+ 
+                        
+                        
+                            a)
+                            
+                                al primo periodo le parole: «delle azioni quotate in mercati regolamentati italiani che attribuiscono diritti di voto sugli argomenti indicati nell'articolo 105» sono sostituite dalle seguenti: «dei titoli di ciascuna categoria»;
+
+                            
+                        
+                        
+                            b)
+                            
+                                alla lettera a) le parole: «nell'articolo 109, comma 1» sono sostituite dalle seguenti: «nell'articolo 101-bis, comma 4»;
+
+                            
+                        
+                        
+                            c)
+                            
+                                alla lettera b) la parola: «soci» e' sostituita dalle seguenti: «possessori di titoli»; le parole: «delle azioni previste dall'articolo 106, comma 1», sono sostituite dalle seguenti: «dei titoli stessi»; le parole: «le partecipazioni detenute» sono sostituite dalle seguenti: «i titoli detenuti» e le parole: «nell'articolo 109, comma 1» sono sostituite dalle seguenti: «101-bis, comma 4».
+
 L'articolo 108 del decreto legislativo n. 58 del 1998 e' sostituito dal seguente:
  «Art. 108 (Obbligo di acquisto). - 1. L'offerente che venga a detenere, a seguito di un'offerta pubblica totalitaria, una partecipazione almeno pari al novantacinque per cento del capitale rappresentato da titoli ha l'obbligo di acquistare i restanti titoli da chi ne faccia richiesta. Qualora siano emesse piu' categorie di titoli, l'obbligo sussiste solo per le categorie di titoli per le quali sia stata raggiunta la soglia del novantacinque per cento.
  2. Salvo quanto previsto al comma 1, chiunque venga a detenere una partecipazione superiore al novanta per cento del capitale rappresentato da titoli ammessi alla negoziazione in un mercato regolamentato, ha l'obbligo di acquistare i restanti titoli ammessi alla negoziazione in un mercato regolamentato da chi ne faccia richiesta se non ripristina entro novanta giorni un flottante sufficiente ad assicurare il regolare andamento delle negoziazioni.
@@ -131,6 +263,33 @@ L'articolo 109 del decreto legislativo n. 58 del 1998 e' sostituito dal seguente
  «Art. 109 (Acquisto di concerto). - 1. Sono solidalmente tenuti agli obblighi previsti dagli articoli 106 e 108 le persone che agiscono di concerto quando vengano a detenere, a seguito di acquisti effettuati anche da uno solo di essi, una partecipazione complessiva superiore alle percentuali indicate nei predetti articoli.
  2. Il comma 1 non si applica quando la detenzione di una partecipazione complessiva superiore alle percentuali indicate agli articoli 106 e 108 costituisce effetto della stipula di un patto, anche nullo, di cui all'articolo 122, salvo che gli aderenti siano venuti a detenere una partecipazione complessiva superiore alle predette percentuali nei dodici mesi precedenti la stipulazione del patto.
  3. Ai fini dell'applicazione del comma 1, le fattispecie di cui all'articolo 101-bis, comma 4, assumono rilievo anche congiuntamente, limitatamente ai soggetti che detengono partecipazioni.».
+
+6.
+                    
+                        
+                            All'articolo 110 del decreto legislativo n. 58 del 1998 sono apportate le seguenti modificazioni:
+ 
+                        
+                        
+                            a)
+                            
+                                la rubrica e' sostituita dalla seguente: «Inadempimento degli obblighi»;
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 1 le parole: «le azioni» sono sostituite dalle seguenti «i titoli» e la parola: «alienate» e' sostituita dalla seguente «alienati»;
+
+                            
+                        
+                        
+                            c)
+                            
+                                dopo il comma 1 sono inseriti i seguenti:
+ «1-bis. Fermo restando quanto stabilito dall'articolo 192, comma 1, la Consob, in alternativa all'alienazione di cui al comma 1, con provvedimento motivato, avuto riguardo tra l'altro alle ragioni del mancato adempimento, agli effetti che conseguirebbero all'alienazione e alle modifiche intervenute nella compagine azionaria, puo' imporre la promozione dell'offerta totalitaria al prezzo da essa stabilito, anche tenendo conto del prezzo di mercato dei titoli.
+ 1-ter. L'alienazione prevista dal comma 1 o la promozione dell'offerta prevista dal comma 1-bis fanno venire meno la sospensione del diritto di voto di cui al comma 1.».
 
 I commi 1 e 2 dell'articolo 111 del decreto legislativo n. 58 del 1998 sono sostituiti dai seguenti:
  «1. L'offerente che venga a detenere a seguito di offerta pubblica totalitaria una partecipazione almeno pari al novantacinque per cento del capitale rappresentato da titoli ha diritto di acquistare i titoli residui entro tre mesi dalla scadenza del termine per l'accettazione dell'offerta, se ha dichiarato nel documento d'offerta l'intenzione di avvalersi di tale diritto. Qualora siano emesse piu' categorie di titoli, il diritto di acquisto puo' essere esercitato soltanto per le categorie di titoli per le quali sia stata raggiunta la soglia del novantacinque per cento.
@@ -158,6 +317,32 @@ Dopo l'articolo 123 e' inserito il seguente articolo:
 ## Art. 5. — Modifiche alla parte V del decreto legislativo 24 febbraio 1998, n. 58
 
 All'articolo 173 del decreto legislativo n. 58 del 1998 le parole: «da lire duecentomila a lire due milioni» sono sostituite dalle seguenti: «da euro venticinquemila a euro duemilionicinquecentomila.».
+
+2.
+                    
+                        
+                            All'articolo 192 del decreto legislativo n. 58 del 1998 sono apportate le seguenti modificazioni:
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 1 le parole: «dell'articolo 102, comma 1 e 3» sono sostituite dalle seguenti: «dell'articolo 102, commi 1, 3 e 6» e le parole: «da lire dieci milioni a lire duecento milioni» sono sostituite dalle seguenti: «di importo non inferiore ad euro venticinquemila e non superiore al corrispettivo complessivamente dovuto dall'offerente ovvero che sarebbe stato complessivamente dovuto dall'offerente se l'offerta fosse stata promossa.»;
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 2, lettera a), le parole: «dell'articolo 102, comma 2» sono sostituite dalle seguenti: «dell'articolo 102, comma 4» e le parole: «a norma dell'articolo 103, commi 4 e 5» sono sostituite dalle seguenti: «a norma dell'articolo 102, comma 1 e dell'articolo 103, comma 4»; dopo la lettera b) e' aggiunta in fine la seguente: «b-bis) viola l'obbligo di cui all'articolo 110, comma 1-bis.»;
+
+                            
+                        
+                        
+                            c)
+                            
+                                il comma 3 e' sostituito dal seguente:
+ «3. Gli amministratori, i componenti del consiglio di gestione e di sorveglianza di societa' con azioni quotate in mercati regolamentati italiani che eseguono operazioni in violazione dell'obbligo di astensione previsto dall'articolo 104, comma 1, sono puniti con la sanzione amministrativa pecuniaria da euro venticinquemila a euro cinquecentoquindicimila.».
 
 ## Art. 6. — Modifica all'articolo 3 del decreto-legge 31 maggio 1994, n. 332, convertito, con modificazioni, dalla legge 30 luglio 1994, n. 474, e successive modificazioni
 

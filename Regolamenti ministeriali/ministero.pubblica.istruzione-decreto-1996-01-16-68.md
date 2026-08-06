@@ -8,8 +8,8 @@ codice_redazionale: 096G0072
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:41Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -32,6 +32,59 @@ Alla direzione del servizio di cui all'art. 1 e' preposto un collegio, denominat
 Al servizio sono assegnati, con compiti di segreteria, contingenti di funzionari con qualifica dirigenziale e impiegati ordinari, tutti del Ministero, assegnati con decreto del Ministro.
 
 ## Art. 3.
+
+1.
+                    
+                        
+                            Nell'esercizio delle funzioni di controllo che ineriscono a tutta l'attivita' amministrativa, tecnica e finanziaria del Ministero, il servizio procede, previe valutazioni comparative dei costi e dei rendimenti, a:
+ 
+                        
+                        
+                            a)
+                            
+                                accertare la rispondenza dei risultati dell'attivita' amministrativa alle prescrizioni e agli obiettivi stabiliti in disposizioni normative e nelle direttive emanate dal Ministro;
+
+                            
+                        
+                        
+                            b)
+                            
+                                verificare la corretta ed economica gestione delle risorse pubbliche, nonche' l'imparzialita' e il buon andamento dell'attivita' amministrativa;
+
+                            
+                        
+                        
+                            c)
+                            
+                                stabilire, almeno annualmente, su indicazione del Ministro, sentiti i responsabili delle direzioni generali e delle altre unita' organizzative centrali, i parametri e gli indici di riferimento del controllo sull'attivita' amministrativa;
+
+                            
+                        
+                        
+                            d)
+                            
+                                svolgere il controllo di gestione sull'attivita' amministrativa degli uffici centrali e decentrati, evidenziando le cause dell'eventuale mancato raggiungimento dei risultati e proponendo i possibili rimedi, segnalando altresi' le irregolarita' eventualmente riscontrate;
+
+                            
+                        
+                        
+                            e)
+                            
+                                coordinare le informazioni di carattere generale per la Corte dei conti in sede di controllo di gestione;
+
+                            
+                        
+                        
+                            f)
+                            
+                                compiere annualmente rilevazioni sul numero complessivo dei procedimenti non conclusi entro il termine determinato ai sensi dell'art. 2 della legge 7 agosto 1990, n. 241;
+
+                            
+                        
+                        
+                            g)
+                            
+                                curare ogni altro adempimento previsto da norme di legge o regolamento.
 
 Il servizio ha accesso ai documenti amministrativi e puo' chiedere, oralmente o per iscritto, informazioni agli uffici dell'Amministrazione della pubblica istruzione. Ove necessario, puo' altresi' disporre accertamenti diretti.
 

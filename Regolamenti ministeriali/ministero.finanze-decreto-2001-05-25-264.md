@@ -8,8 +8,8 @@ codice_redazionale: 001G0323
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:38Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -22,6 +22,45 @@ Udito il parere del Consiglio di Stato espresso dalla Sezione consultiva per gli
 ## Art. 1. — Ambito soggettivo
 
 I soggetti titolari di reddito d'impresa, nonche' i soggetti titolati di reddito di lavoro autonomo di cui all'articolo 49, comma 1, del decreto del Presidente della Repubblica 22 dicembre 1986, n. 917, possono effettuare le cessioni gratuite previste dall'articolo 54, comma 1, della legge 23 novembre 2000, n. 342.
+
+2.
+                    
+                        
+                            I destinatari delle cessioni di cui al comma precedente sono:
+ 
+                        
+                        
+                            a)
+                            
+                                gli enti locali;
+
+                            
+                        
+                        
+                            b)
+                            
+                                gli istituti di prevenzione e pena;
+
+                            
+                        
+                        
+                            c)
+                            
+                                le istituzioni scolastiche;
+
+                            
+                        
+                        
+                            d)
+                            
+                                gli orfanotrofi;
+
+                            
+                        
+                        
+                            e)
+                            
+                                gli enti religiosi.
 
 ## Art. 2. — Ambito oggettivo
 
@@ -38,4 +77,29 @@ I prodotti di cui ai commi precedenti si considerano non piu' commercializzati o
 Le cessioni di prodotti editoriali e le dotazioni informatiche, di cui ai precedenti articoli del presente decreto, non costituiscono ricavi ne' plusvalenze patrimoniali ai sensi, rispettivamente, dell'articolo 53, comma 2, e dell'articolo 54, comma 1, lettera d), del decreto del Presidente della Repubblica 22 dicembre 1986, n. 917.
 
 Le cessioni di prodotti editoriali e di dotazioni informatiche, di cui agli articoli precedenti, sono equiparate, ai fini dell'applicazione dell'imposta sul valore aggiunto, alla distruzione di beni.
+
+3.
+                    
+                        
+                            La distruzione dei beni di cui al comma precedente, risulta, in via alternativa:
+ 
+                        
+                        
+                            a)
+                            
+                                dal libro giornale o da altro libro tenuto a norma del codice civile ovvero da apposito registro tenuto a norma dell'articolo 39 del decreto del Presidente della Repubblica 26 ottobre 1972, n. 633, dal quale risultino la natura, qualita', quantita' dei beni medesimi nonche' i soggetti riceventi;
+
+                            
+                        
+                        
+                            b)
+                            
+                                dal documento di trasporto previsto dall'articolo 1, comma 3, del decreto del Presidente della Repubblica 14 agosto 1996, n. 472, o con altro valido documento di trasferimento;
+
+                            
+                        
+                        
+                            c)
+                            
+                                da apposita annotazione, al momento della consegna dei beni, in uno dei registri previsti dagli articoli 23, 24, 25 del decreto del Presidente della Repubblica 26 ottobre 1972, n. 633, contenente, oltre alla natura, quantita' e qualita' dei beni, i dati necessari per identificare il soggetto destinatario dei beni medesimi.
 

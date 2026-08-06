@@ -8,8 +8,8 @@ codice_redazionale: 098G0138
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:39Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -44,6 +44,24 @@ L'importo del contributo sostitutivo spettante e' determinato, con le modalita' 
 Per le operazioni che hanno, per qualsiasi motivo, estinto anticipatamente il mutuo agevolato o risolto anticipatamente il contratto di locazione finanziaria agevolata, in epoca successiva all'entrata in vigore della legge 7 agosto 1997, n. 266, il contributo spettante e' calcolato in proporzione al numero di rate pagate. Il contributo non viene riconosciuto se l'estinzione o la risoluzione anticipata sono intervenute prima dell'entrata in vigore della legge 7 agosto 1997, n. 266.
 
 ## Art. 4. — Modalita' di erogazione
+
+1.
+                    
+                        
+                            I contributi sono erogati agli istituti di credito ed alle societa' di locazione finanziaria, per l'accredito alle imprese beneficiarie, in un unica soluzione in base ad elenchi definitivi, anche parziali, da trasmettere non oltre il 30 giugno 1999, sottoscritti dagli stessi istituti e societa' e contenenti gli elementi di cui agli allegati n. 1 e 2. Per ogni operazione dovra' essere allegato al decreto di liquidazione:
+ 
+                        
+                        
+                            a)
+                            
+                                la dichiarazione dell'istituto dell'avvenuta realizzazione degli investimenti e l'avvenuta erogazione a saldo del mutuo agevolato ovvero, per le societa' dilocazione finanziaria, dell'avvenuta consegna dei beni. Nel caso in cui siano intervenute variazioni di denominazione, di ragione sociale o di altro genere la dichiarazione dovra' essere integrata con riferimento all'oggettiva identita' e continuita' dell'impresa beneficiaria, e all'insussistenza delle cause preclusive di cui all'articolo 10 della legge 10 ottobre 1975, n. 517;
+
+                            
+                        
+                        
+                            b)
+                            
+                                il certificato di iscrizione al registro delle imprese.
 
 Ai fini istruttori i predetti istituti e societa' possono avvalersi delle dichiarazioni sostitutive sottoscritte dagli interessati ai sensi dell'articolo 1, comma 3, della legge 15 maggio 1997, n. 127.
 

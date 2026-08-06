@@ -8,8 +8,8 @@ codice_redazionale: 097G0013
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti governativi
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:09Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -31,6 +31,31 @@ L'Istituto nazionale di archeologia e storia dell'arte, regolato dalla legge 15 
 
 ## Art. 2.
 
+1.
+                    
+                        
+                            Sono organi dell'Istituto:
+ 
+                        
+                        
+                            a)
+                            
+                                il presidente;
+
+                            
+                        
+                        
+                            b)
+                            
+                                il consiglio direttivo;
+
+                            
+                        
+                        
+                            c)
+                            
+                                il collegio dei revisori dei conti.
+
 ## Art. 3.
 
 Il presidente dell'Istituto e' nominato con decreto del Ministro per i beni culturali e ambientali, che lo sceglie tra una rosa di nominativi designati dal consiglio direttivo, dura in carica dieci anni e puo' essere confermato.
@@ -41,15 +66,111 @@ In caso di impedimento, il presidente e' sostituito, nelle sue funzioni, dal con
 
 ## Art. 4.
 
+1.
+                    
+                        
+                            Il consiglio direttivo e' composto dal presidente dell'Istituto e da dieci membri nominati con decreto del Ministro per i beni culturali e ambientali, scelti:
+ 
+                        
+                        
+                            a)
+                            
+                                sei, tra una rosa di nominativi composta da almeno il doppio dei membri da nominare, proposti dal Ministro dell'universita' e della ricerca scientifica e tecnologica su designazione del Consiglio universitario nazionale;
+
+                            
+                        
+                        
+                            b)
+                            
+                                due, tra i dirigenti del ruolo degli archeologi del Ministero per i beni culturali e ambientali;
+
+                            
+                        
+                        
+                            c)
+                            
+                                due, tra i dirigenti del ruolo degli storici dell'arte del Ministero per i beni culturali e ambientali.
+
 I membri del consiglio direttivo si rinnovano per la meta' ogni quinquennio. Alla scadenza del primo qinquennio la meta' dei membri da rinnovarsi e' determinata mediante sorteggio.
 
 Alla scadenza degli altri quinquenni successivi la rinnovazione e' determinata dalla maggiore anzianita'.
+
+4.
+                    
+                        
+                            Al consiglio direttivo spetta:
+ 
+                        
+                        
+                            a)
+                            
+                                l'amministrazione dell'Istituto;
+
+                            
+                        
+                        
+                            b)
+                            
+                                deliberare i bilanci preventivi, le relative variazioni ed i conti consuntivi;
+
+                            
+                        
+                        
+                            c)
+                            
+                                deliberare modifiche statutarie;
+
+                            
+                        
+                        
+                            d)
+                            
+                                deliberare sul funzionamento dei servizi con apposito regolamento.
 
 Il consiglio direttivo e' convocato dal presidente ogni qualvolta lo ritenga utile in relazione alle esigenze di funzionamento dell'Istituto e, comunque, almeno due volte l'anno.
 
 Le deliberazioni sono adottate a maggioranza di voti. In caso di parita' di voti prevale quello del presidente.
 
 ## Art. 5.
+
+1.
+                    
+                        
+                            L'Istituto dispone:
+ 
+                        
+                        
+                            a)
+                            
+                                del contributo statale annuo a carico del Ministero per i beni culturali e ambientali;
+
+                            
+                        
+                        
+                            b)
+                            
+                                di eventuali contributi di Ministeri, di enti e di privati;
+
+                            
+                        
+                        
+                            c)
+                            
+                                dei proventi dell'attivita' editoriale;
+
+                            
+                        
+                        
+                            d)
+                            
+                                di ogni altra sopravvenienza attiva;
+
+                            
+                        
+                        
+                            e)
+                            
+                                di eventuali lasciti o donazioni.
 
 ## Art. 6.
 
@@ -60,6 +181,31 @@ Il consiglio direttivo delibera, entro il mese di ottobre, il bilancio preventiv
 Il bilancio preventivo, le relative variazioni ed il conto consuntivo, corredati delle relazioni del presidente e del collegio dei revisori, sono trasmessi, per l'approvazione, al Ministero per i beni culturali e ambientali e, per conoscenza, al Ministero del tesoro - Ragioneria generale dello Stato.
 
 ## Art. 7.
+
+1.
+                    
+                        
+                            Il controllo della gestione dell'Istituto e' affidata ad un collegio dei revisori dei conti, nominato con decreto del Ministro per i beni culturali e ambientali, composto di tre revisori effettivi e tre supplenti, cosi' designati:
+ 
+                        
+                        
+                            a)
+                            
+                                un revisore effettivo con funzioni di presidente e uno supplente dal Ministero del tesoro - Ragioneria generale dello Stato;
+
+                            
+                        
+                        
+                            b)
+                            
+                                un revisore effettivo ed uno supplente dal Ministero per i beni cultuali e ambientali;
+
+                            
+                        
+                        
+                            c)
+                            
+                                un revisore effettivo e uno supplente dal Ministero dell'universita' e della ricerca scientifica;
 
 Il collegio dei revisori dei conti, provvede al riscontro degli atti della gestione, accerta la regolare tenuta dei libri e delle scritture contabili, esamina il bilancio di previsione le eventuali variazioni ed il conto consuntivo, redigendo apposite relazioni, ed effettua verifiche di cassa.
 
@@ -74,6 +220,31 @@ Le cariche di presidente e di membro del consiglio direttivo sono gratuite.
 Pubblicazioni periodiche e monografiche sono curate dall'Istituto.
 
 ## Art. 10.
+
+1.
+                    
+                        
+                            Il consiglio direttivo dell'Istituto, delibera, entro sei mesi dalla nomina, lo statuto dell'ente, da sottoporre all'approvazione dei Ministeri per i beni culturali e ambientali e del tesoro, nel quale sono stabiliti:
+ 
+                        
+                        
+                            a)
+                            
+                                l'ordinamento amministrativo contabile e le norme per la gestione del bilancio;
+
+                            
+                        
+                        
+                            b)
+                            
+                                le norme concernenti il funzionamento interno delle attivita' scientifiche e didattiche dell'Istituto medesimo;
+
+                            
+                        
+                        
+                            c)
+                            
+                                le norme di assunzione, nonche' la consistenza numerica del personale dell'Istituto.
 
 ## Art. 11.
 

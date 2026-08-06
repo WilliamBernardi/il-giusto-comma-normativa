@@ -7,8 +7,8 @@ urn: urn:nir:stato:decreto.legislativo:2026-04-02;51
 vigente: true
 source: normattiva-opendata
 collection: Leggi delega e relativi provvedimenti delegati
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:41:20Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -31,6 +31,80 @@ Sulla proposta del Ministro per gli affari europei, il PNRR e le politiche di co
 Il presente decreto reca l'adeguamento della normativa nazionale alle disposizioni del regolamento (UE) 2023/2411 del Parlamento europeo e del Consiglio, del 18 ottobre 2023, relativo alla protezione delle indicazioni geografiche per i prodotti artigianali e industriali.
 
 ## Art. 2. — Definizioni e abbreviazioni
+
+1.
+                        
+                            
+                                Ai fini dell'attuazione del presente decreto si applicano le definizioni di cui all'articolo 4 del regolamento (UE) 2023/2411 e, inoltre, si intende per: 
+ 
+                            
+                            
+                                a)
+                                
+                                    «regolamento (UE) 2023/2411»: il regolamento (UE) 2023/2411 del Parlamento europeo e del Consiglio, del 18 ottobre 2023, relativo alla protezione delle indicazioni geografiche per i prodotti artigianali e industriali e che modifica i regolamenti (UE) 2017/1001 e (UE) 2019/1753; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    «IGP»: le indicazioni geografiche protette dei prodotti artigianali e industriali ai sensi del regolamento (UE) 2023/2411; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    «codice della proprieta' industriale»: il decreto legislativo 10 febbraio 2005, n. 30, recante «Codice della proprieta' industriale, a norma dell'articolo 15 della legge 12 dicembre 2002, n. 273»; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    «DGPI-UIBM»: la Direzione generale per la proprieta' industriale - Ufficio italiano brevetti e marchi del Ministero delle imprese e del made in Italy; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    «divisione competente»: l'ufficio di livello dirigenziale non generale della Direzione generale per la proprieta' industriale - Ufficio italiano brevetti e marchi del Ministero delle imprese e del made in Italy, competente per la gestione della fase nazionale della procedura di registrazione delle indicazioni geografiche protette; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    «regioni»: le regioni a statuto ordinario, le regioni a statuto speciale e le province autonome di Trento e di Bolzano; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    «EUIPO»: l'Ufficio dell'Unione europea per la proprieta' intellettuale; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    «richiedente»: l'associazione dei produttori di cui all'articolo 8, paragrafo 1, del regolamento (UE) 2023/2411 o il singolo produttore che soddisfa entrambe le condizioni previste dall'articolo 8, paragrafo 2, lettere a) e b), del regolamento (UE) 2023/2411, nonche' i soggetti di cui all'articolo 8, paragrafo 4, del medesimo regolamento, quali soggetti legittimati alla presentazione della domanda di registrazione delle indicazioni geografiche disciplinate dal presente decreto; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    «disciplinare»: il disciplinare di produzione di cui all'articolo 9 del regolamento (UE) 2023/2411; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    «documento unico»: il documento di cui all'articolo 10 del regolamento (UE) 2023/2411.
 
 ## - Titolo II INDIVIDUAZIONE DELL'AUTORITÀ NAZIONALE   Capo I
 
@@ -57,9 +131,62 @@ La DGPI-UIBM all'atto del deposito rilascia una apposita ricevuta, attribuendo a
 La domanda di registrazione dell'indicazione geografica e' presentata dal richiedente, come definito dall'articolo 2, comma 1, lettera h), di cui deve essere indicato il domicilio per ricevere tutte le comunicazioni e notificazioni ai sensi del presente decreto.
 In materia di domicilio elettivo si applicano le disposizioni previste dall'articolo 147, commi 3-bis e 3-quinquies, del codice della proprieta' industriale.
 
+2.
+                        
+                            
+                                La domanda di registrazione, ai sensi dell'articolo 13 del regolamento (UE) 2023/2411, comprende: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il disciplinare di produzione, i cui contenuti sono disciplinati dall'articolo 9 del regolamento (UE) 2023/2411; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il documento unico, i cui contenuti sono disciplinati dall'articolo 10 del regolamento (UE) 2023/2411, da redigere sulla base del modello standard di cui all'allegato II al medesimo regolamento; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    la documentazione di accompagnamento di cui all'articolo 11 del regolamento (UE) 2023/2411.
+
 ## Art. 6. — Esame delle domande
 
 La divisione competente, dopo aver verificato la ricevibilita' e la completezza della domanda di registrazione, trasmette la documentazione completa alla regione o alle regioni nel cui territorio ricade la produzione oggetto di registrazione, richiedendo di esprimere un proprio parere. Tale parere e' rilasciato avendo riguardo ai requisiti oggettivi di cui all'articolo 6 e ai requisiti soggettivi di cui all'articolo 8 del regolamento (UE) 2023/2411.
+
+2.
+                        
+                            
+                                Decorsi quarantacinque giorni dalla trasmissione della documentazione alla regione o alle regioni interessate, la divisione competente procede, anche in assenza del predetto parere, alla valutazione della richiesta di registrazione dell'indicazione geografica verificando, ai sensi dell'articolo 14 del regolamento (UE) 2023/2411: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la conformita' ai requisiti oggettivi, previsti dall'articolo 6 del regolamento (UE) 2023/2411, affinche' il nome di un prodotto artigianale o industriale possa considerarsi idoneo ad essere protetto come indicazione geografica; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la conformita' ai requisiti soggettivi, previsti dall'articolo 8 del regolamento (UE) 2023/2411, che i richiedenti devono possedere; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    la completezza delle informazioni previste: 
+ 1) all'articolo 9 del regolamento (UE) 2023/2411, con riferimento ai contenuti del disciplinare di produzione; 
+ 2) all'articolo 10 e all'allegato II al regolamento (UE) 2023/2411, con riferimento al documento unico contenuto nella domanda; 
+ 3) all'articolo 11 del medesimo regolamento (UE) 2023/2411, con riferimento alla documentazione di accompagnamento della domanda.
 
 In caso di domanda incompleta o inesatta, la divisione competente da' al richiedente la possibilita' di completarla o rettificarla nel termine perentorio di sessanta giorni dalla notifica della comunicazione.
 
@@ -77,11 +204,61 @@ Entro due mesi dalla data di pubblicazione nel Bollettino di cui all'articolo 6,
 
 L'opposizione puo' essere basata su uno o piu' motivi previsti dall'articolo 15, paragrafo 3, del regolamento (UE) 2023/2411, nonche' sulle fattispecie riconducibili agli articoli 42, 43 e 44 del medesimo regolamento.
 
+3.
+                        
+                            
+                                L'opposizione e' ricevibile solo se redatta in lingua italiana e deve contenere a pena di inammissibilita': 
+ 
+                            
+                            
+                                a)
+                                
+                                    in relazione alla indicazione geografica oggetto dell'opposizione, l'identificazione del richiedente, il numero e la data della domanda di registrazione contro cui e' proposta l'opposizione; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    i motivi su cui si fonda l'opposizione; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    la documentazione necessaria a comprovare l'interesse legittimo a presentare opposizione; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    l'identificazione del marchio o dei marchi anteriori di cui all'articolo 12, comma 1, lettere c), d) ed e), del codice della proprieta' industriale, nonche' l'elenco dei prodotti su cui e' basata l'opposizione, se quest'ultima e' proposta ai sensi dell'articolo 15, paragrafo 3, lettera c), del regolamento (UE) 2023/2411, oppure per i motivi riconducibili a quanto disciplinato dagli articoli 43, paragrafo 3, lettera c), e 44, paragrafo 2, del medesimo regolamento.
+
 Il presente articolo si applica anche ai procedimenti di opposizione in fase nazionale che la DGPI-UIBM ha la facolta' di avviare in caso di modifiche sostanziali al disciplinare o al documento unico durante i procedimenti a livello di Unione europea.
 
 ## Art. 8. — Esame dell'opposizione e decisione
 
 Entro un mese dalla ricezione dell'opposizione, verificate la ricevibilita' e l'ammissibilita' della stessa ai sensi dell'articolo 7, comma 3, la DGPI-UIBM, salvo che ricorra uno dei casi di sospensione previsti dall'articolo 9, notifica l'opposizione alla controparte. Con la medesima notifica, altresi', si da' avviso ad entrambe le parti della facolta' di raggiungere una composizione amichevole entro il termine di tre mesi dalla data di ricezione della notifica, prorogabili su istanza comune delle parti fino al termine massimo di ulteriori tre mesi.
+
+2.
+                        
+                            
+                                Entro il termine perentorio di due mesi dalla data di scadenza del termine per il raggiungimento della composizione amichevole di cui al comma 1, la parte che presenta l'opposizione deve depositare: 
+ 
+                            
+                            
+                                a)
+                                
+                                    ogni altra documentazione integrativa a prova dei fatti addotti; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    se l'opposizione e' proposta ai sensi dell'articolo 15, paragrafo 3, lettera c), del regolamento (UE) 2023/2411 oppure per i motivi riconducibili a quanto disciplinato dagli articoli 43, paragrafo 3, lettera c), e 44, paragrafo 2, del medesimo regolamento, copia della domanda o del certificato di registrazione del marchio o dell'indicazione geografica su cui e' basata l'opposizione, ove non si tratti di domande o di certificati nazionali e, se del caso, la documentazione relativa al diritto di priorita' o di preesistenza di cui esso beneficia, nonche' la loro traduzione in lingua italiana; nel caso della preesistenza, questa deve essere gia' stata rivendicata in relazione a domanda o a registrazione di marchio dell'Unione europea.
 
 In assenza di accordo ai sensi del comma 1, la controparte che abbia ricevuto la notifica della documentazione di cui al comma 2 del presente articolo e all'articolo 7, comma 3, puo' presentare per iscritto le proprie deduzioni entro il termine fissato dalla DGPI-UIBM e contestualmente presentare istanza di cui al comma 5.
 
@@ -97,11 +274,128 @@ Al termine del procedimento di opposizione, la DGPI-UIBM accoglie l'opposizione 
 
 ## Art. 9. — Sospensione della procedura di opposizione
 
+1.
+                        
+                            
+                                Il procedimento di opposizione e' sospeso d'ufficio: 
+ 
+                            
+                            
+                                a)
+                                
+                                    durante il periodo concesso alle parti, al fine di pervenire ad una composizione amichevole, ai sensi dell'articolo 8, comma 1; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    se l'opposizione e' basata su una domanda di registrazione di una indicazione geografica, fino alla protezione dell'indicazione geografica; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    se l'opposizione e' basata su una domanda di marchio, fino alla registrazione di tale marchio; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    se l'opposizione e' basata su un marchio internazionale, fino a quando non siano scaduti i termini per il rifiuto o la presentazione di un'opposizione avverso la registrazione di tale marchio, ovvero si siano conclusi i relativi procedimenti di esame o di opposizione.
+
+2.
+                        
+                            
+                                Il procedimento di opposizione e' sospeso su istanza di parte: 
+ 
+                            
+                            
+                                a)
+                                
+                                    se e' pendente un procedimento di cancellazione della indicazione geografica protetta, fino al termine in cui la decisione dell'EUIPO diviene definitiva; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    se e' pendente un procedimento di nullita' o decadenza di un marchio dinanzi alla DGPI-UIBM ovvero dinanzi all'EUIPO, fino al provvedimento definitivo; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    se e' pendente un giudizio di nullita' o di decadenza del marchio sul quale si fonda l'opposizione, o relativo alla spettanza del diritto alla registrazione a norma dell'articolo 118 del codice della proprieta' industriale, fino al passaggio in giudicato della sentenza.
+
 Su istanza del richiedente la registrazione, la sospensione di cui al comma 2 puo' essere successivamente revocata.
 
 Se l'opposizione e' sospesa ai sensi del comma 1, lettere c) e d), la DGPI-UIBM esamina con priorita' la domanda di marchio o la registrazione del marchio internazionale.
 
 ## Art. 10. — Estinzione della procedura di opposizione
+
+1.
+                        
+                            
+                                La procedura di opposizione si estingue se: 
+ 
+                            
+                            
+                                a)
+                                
+                                    le parti hanno raggiunto la composizione amichevole di cui all'articolo 8, comma 1; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'opposizione e' ritirata; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    la domanda di registrazione dell'indicazione geografica sulla quale si fonda l'opposizione e' ritirata o rigettata; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    l'indicazione geografica protetta sulla quale si fonda l'opposizione e' cancellata; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    chi ha presentato opposizione cessa di essere legittimato a norma dell'articolo 15 del regolamento (UE) 2023/2411; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    e' venuto meno l'interesse ad agire; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    il marchio sul quale si fonda l'opposizione e' stato dichiarato nullo o decaduto con sentenza passata in giudicato o con provvedimento definitivo; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    la domanda o la registrazione dell'indicazione geografica, oggetto di opposizione, e' ritirata o rigettata con decisione definitiva.
 
 ## Art. 11. — Ricorso
 
@@ -221,6 +515,31 @@ Per lo svolgimento dei compiti di monitoraggio dell'uso di nomi registrati per d
 ## - Titolo VI ADEGUAMENTO DEL SISTEMA SANZIONATORIO PENALE E AMMINISTRATIVO   Capo I
 
 ## Art. 21. — Sanzioni penali
+
+1.
+                        
+                            
+                                All'articolo 517-quater del codice penale sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    al primo comma, dopo la parola: «agroalimentari» sono aggiunte le seguenti: «, artigianali e industriali»; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    al quarto comma, dopo la parola: «agroalimentari» sono aggiunte le seguenti: «, artigianali e industriali»; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    alla rubrica, dopo la parola: «agroalimentari» sono aggiunte le seguenti: «, artigianali e industriali».
 
 ## Art. 22. — Sanzioni amministrative
 

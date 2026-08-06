@@ -8,8 +8,8 @@ codice_redazionale: 007G0190
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:41Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -24,6 +24,73 @@ E DELLE FINANZE
 Udito il parere del Consiglio di Stato, espresso nell'adunanza della sezione consultiva per gli atti normativi del 21 maggio 2007;
 
 ## Art. 1. — Definizioni
+
+1.
+                    
+                        
+                            Ai fini dell'applicazione della disciplina contenuta nell'articolo 1, commi da 119 a 141, della legge 27 dicembre 2006, n. 296 e nel presente regolamento, si intende per:
+ 
+                        
+                        
+                            a)
+                            
+                                «SIIQ»: una societa' per azioni residente, le cui azioni siano ammesse alle negoziazioni su mercati regolamentati, svolgente, secondo i criteri di prevalenza previsti dall'articolo 1, comma 121, della legge 27 dicembre 2006, n. 296 e dall'articolo 6 del presente regolamento, le attivita' indicate alla successiva lettera c) e che opti per il regime speciale ai sensi dell'articolo 1, comma 119 della citata legge 27 dicembre 2006, n. 296;
+
+                            
+                        
+                        
+                            b)
+                            
+                                «SIINQ»: una societa' per azioni residente non quotata, svolgente, secondo i criteri di prevalenza previsti dall'articolo 1, comma 121, della citata legge n. 296 del 2006 e dall'articolo 6 del presente regolamento, le attivita' indicate alla successiva lettera c), controllata da una SIIQ che abbia i requisiti per il consolidamento di cui agli articoli 117, comma 1, e 120 del testo unico delle imposte sui redditi, di cui al decreto del Presidente della Repubblica 22 dicembre 1986, n. 917, i cui diritti di voto e di partecipazione agli utili siano posseduti per almeno il 95 per cento dalla stessa controllante o da altre SIIQ e che eserciti l'opzione congiunta per il regime speciale ai sensi dell'articolo 1, comma 125 della legge n. 296 del 2006;
+
+                            
+                        
+                        
+                            c)
+                            
+                                «gestione esente»: l'attivita' di locazione di immobili posseduti a titolo di proprieta', di usufrutto o di altro diritto reale, nonche' in base a contratti di locazione finanziaria; l'attivita' di locazione derivante dallo sviluppo del compendio immobiliare; il possesso di partecipazioni, costituenti immobilizzazioni finanziarie ai sensi dei principi contabili internazionali, in altre SIIQ o in SIINQ;
+
+                            
+                        
+                        
+                            d)
+                            
+                                «gestione imponibile»: le attivita' diverse da quelle indicate alla lettera c) o aventi ad oggetto beni diversi da quelli ivi considerati;
+
+                            
+                        
+                        
+                            e)
+                            
+                                «regime speciale»: il regime di esonero dall'imposta sul reddito delle societa' e dall'imposta regionale sulle attivita' produttive, del reddito d'impresa e del valore della produzione derivanti dalla gestione esente, determinati in base alle disposizioni del testo unico delle imposte sui redditi, di cui al decreto del Presidente della repubblica 22 dicembre 1986, n. 917 e del decreto legislativo 15 dicembre 1997, n. 446, fatte salve le deroghe previste dall'articolo 1, commi da 119 a 141 della citata legge n. 296 del 2006 e dal presente regolamento;
+
+                            
+                        
+                        
+                            f)
+                            
+                                «imposta d'ingresso»: il prelievo del 20 per cento a titolo sostitutivo di imposta sul reddito delle societa' e imposta regionale sulle attivita' produttive, da applicarsi secondo le regole previste nell'articolo 1, commi da 126 a 129 della citata legge n. 296 del 2006 e nell'articolo 4 del presente regolamento, per il passaggio al regime speciale;
+
+                            
+                        
+                        
+                            g)
+                            
+                                «valore normale»: il fair value (valore equo) di un immobile posseduto a titolo di proprieta' o di usufrutto o di altro diritto reale, determinato in base ai principi contabili internazionali (IAS 40);
+
+                            
+                        
+                        
+                            h)
+                            
+                                «riserve esenti»: le riserve accantonate durante la vigenza del regime speciale formate con utili non distribuiti derivanti dalla gestione esente;
+
+                            
+                        
+                        
+                            i)
+                            
+                                «principi contabili internazionali»: i principi contabili internazionali e le relative interpretazioni adottati secondo la procedura di cui all'articolo 6 del regolamento (CE) 1606/2002 del Parlamento europeo e del Consiglio, del 19 luglio 2002.
 
 ## Art. 2. — Opzione per il regime speciale
 
@@ -40,6 +107,31 @@ Per il periodo d'imposta successivo a quello in corso al 30 giugno 2007, in fase
 Con il provvedimento del direttore dell'Agenzia delle entrate di cui al comma 1 sono stabilite le modalita' per l'esercizio dell'opzione per il regime speciale di cui all'articolo 1, comma 125 della citata legge n. 296 del 2006 da parte di societa' non ammesse alle negoziazioni su mercati regolamentati.
 
 ## Art. 3. — Vigilanza, modifiche statutarie
+
+1.
+                    
+                        
+                            Lo statuto della SIIQ e della SIINQ deve prevedere:
+ 
+                        
+                        
+                            a)
+                            
+                                le regole in materia di investimenti;
+
+                            
+                        
+                        
+                            b)
+                            
+                                i limiti alla concentrazione dei rischi all'investimento e di controparte;
+
+                            
+                        
+                        
+                            c)
+                            
+                                il limite massimo di leva finanziaria consentito, a livello individuale e di gruppo.
 
 Le SIIQ danno conto nell'informativa finanziaria infra annuale e nella relazione sulla gestione della situazione della societa' in relazione alle previsioni statutarie di cui al comma 1. La vigilanza di cui al comma 141 lettera a) dell'articolo 1 della legge 27 dicembre 2006, n. 296, e' esercitata dalla Banca d'Italia e dalla Consob nell'ambito dei poteri stabiliti dalle norme vigenti.
 

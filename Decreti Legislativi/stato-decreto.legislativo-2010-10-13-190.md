@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
 vigenza_date: 2026-02-11
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:32Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -30,6 +30,52 @@ Sulla proposta del Ministro per le politiche europee e del Ministro dell'ambient
 
 Il presente decreto, in attuazione della direttiva 2008/56/CE, istituisce un quadro diretto all'elaborazione di strategie per l'ambiente marino e all'adozione delle misure necessarie a conseguire e a mantenere un buono stato ambientale entro il 2020.
 
+2.
+                    
+                        
+                            Nell'ambiente marino, nel rispetto di quanto disposto al comma 1, deve essere garantito un uso sostenibile delle risorse, in considerazione dell'interesse generale. A tal fine le strategie per l'ambiente marino: 
+ 
+                        
+                        
+                            a)
+                            
+                                applicano un approccio ecosistemico alla gestione delle attivita' umane per assicurare che la pressione complessiva di tali attivita' sia mantenuta entro livelli compatibili con il conseguimento di un buon stato ambientale; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                salvaguardano la capacita' degli ecosistemi marini di reagire ai cambiamenti indotti dall'uomo; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                considerano gli effetti transfrontalieri sulla qualita' dell'ambiente marino degli Stati terzi situati nella stessa regione o sottoregione marina; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                rafforzano la conservazione della biodiversita' dell'ambiente marino, attraverso l'ampliamento e l'integrazione della rete delle aree marine protette previste dalla vigente normativa e di tutte le altre misure di protezione; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                perseguono la progressiva eliminazione dell'inquinamento dell'ambiente marino; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                assicurano che le azioni di monitoraggio e la ricerca scientifica sul mare siano orientate all'acquisizione delle conoscenze necessarie per la razionale utilizzazione delle sue risorse e potenzialita'.
+
 Il presente decreto, per i fini previsti dal comma 1, contribuisce alla coerenza tra le diverse politiche settoriali, gli accordi, le misure legislative, gli strumenti di conoscenza e monitoraggio, gli strumenti di pianificazione e programmazione che hanno un impatto sull'ambiente marino e mira a garantire l'integrazione delle implicazioni ambientali nelle stesse politiche settoriali.
 
 ## Art. 2. — Ambito di applicazione
@@ -40,6 +86,103 @@ Il presente decreto non si applica alle attivita' il cui unico fine sia la difes
 
 ## Art. 3. — Definizioni
 
+1.
+                    
+                        
+                            Ai fini del presente decreto si applicano le seguenti definizioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                acque marine: 
+ 1) acque, fondali e sottosuolo situati oltre la linea di base che serve a misurare l'estensione delle acque territoriali, fino ai confini della zona su cui lo Stato ha o esercita diritti giurisdizionali, in conformita' al diritto internazionale del mare, quali il mare territoriale, la zona economica esclusiva, zone di pesca protette, la piattaforma continentale e, laddove istituite, le zone di protezione ecologica; 
+ 2) acque costiere gia' definite nella parte terza del decreto legislativo 3 aprile 2006, n. 152 e successive modificazioni, i loro fondali e sottosuolo, per gli aspetti specifici dello stato ambientale dell'ambiente marino non trattati nel decreto legislativo n. 152/2006 o in altra normativa nazionale di settore; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                regione marina: le seguenti regioni, individuate a livello comunitario, tenuto conto dei fattori idrologici, oceanografici e bio/geografici: 
+ 1) Mar Baltico; 
+ 2) Oceano Atlantico nordorientale; 
+ 3) Mare Mediterraneo; 
+ 4) Mar Nero; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                regione del Mare Mediterraneo: le acque marine del Mare Mediterraneo propriamente intese, inclusi i suoi golfi e mari, come delimitate a ovest dal meridiano passante attraverso il faro di Capo Spartel, all'entrata dello Stretto di Gibilterra ed a est dal limite meridionale dello Stretto dei Dardanelli tra Mehmetcik e Kumkale, secondo quanto previsto dall'articolo 1, comma 1, della Convenzione per la protezione dell'ambiente marino e la regione costiera del Mediterraneo (Convenzione di Barcellona); 
+
+                            
+                        
+                        
+                            d)
+                            
+                                sottoregioni marine del Mare Mediterraneo: 
+ 1) il Mare Mediterraneo occidentale; 
+ 2) il Mare Adriatico; 
+ 3) il Mar Ionio e il Mare Mediterraneo centrale; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                strategia per l'ambiente marino: strategia da sviluppare ed attuare per ciascuna regione o sottoregione marina interessata conformemente all'articolo 7; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                stato ambientale: stato generale dell'ambiente nelle acque marine, tenuto conto della struttura, della funzione e dei processi degli ecosistemi marini che lo compongono, nonche' dei fattori fisiografici, geografici, biologici, geologici e climatici naturali e delle condizioni fisiche, acustiche e chimiche, comprese quelle risultanti dalle attivita' umane all'interno o all'esterno della zona considerata; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                buono stato ambientale: stato ambientale delle acque marine tale per cui le stesse preservano la diversita' ecologica e la vitalita' di mari ed oceani puliti, sani e produttivi nelle proprie condizioni intrinseche e tale per cui l'utilizzo dell'ambiente marino si svolge in modo sostenibile, salvaguardandone le potenzialita' per gli usi e le attivita' delle generazioni presenti e future. Il buono stato ambientale e' definito in relazione a ciascuna regione o sottoregione marina, sulla base dei descrittori qualitativi dell'allegato I; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                traguardo ambientale: determinazione qualitativa o quantitativa delle condizioni da conseguire per le diverse componenti delle acque marine, agendo sulle pressioni e al fine di ridurre gli impatti, in relazione a ciascuna regione o sottoregione marina; 
+
+                            
+                        
+                        
+                            i)
+                            
+                                criteri: caratteristiche tecniche distintive, anche individuate dalla Commissione europea, strettamente collegate ai descrittori qualitativi; 
+
+                            
+                        
+                        
+                            l)
+                            
+                                inquinamento: introduzione diretta o indiretta, conseguente alle attivita' umane, di sostanze o energia nell'ambiente marino, compreso il rumore sottomarino prodotto dall'uomo, che provoca o che puo' provocare effetti negativi come danni alle risorse biologiche e agli ecosistemi marini, inclusa la perdita di biodiversita', pericoli per la salute umana, limitazioni alle attivita' marittime, compresi la pesca, il turismo, l'uso ricreativo e altri utilizzi legittimi del mare, alterazioni della qualita' delle acque marine che ne pregiudichino l'utilizzo e ne riducano la funzione ricreativa e o, in generale, la compromissione dell'uso sostenibile dei beni e dei servizi marini; 
+
+                            
+                        
+                        
+                            m)
+                            
+                                cooperazione regionale: cooperazione e coordinamento delle attivita' tra gli Stati membri e, ove possibile, tra i Paesi terzi che hanno in comune la stessa regione o sottoregione marina, ai fini dello sviluppo e dell'attuazione di strategie per l'ambiente marino; 
+
+                            
+                        
+                        
+                            n)
+                            
+                                convenzioni marittime regionali: convenzioni o accordi internazionali e rispettivi organi direttivi, finalizzati alla protezione dell'ambiente marino della regione o delle sottoregioni marine e, in particolare, la Convenzione per la protezione dell'ambiente marino e la regione costiera del Mediterraneo del 1995.
+
 ## Art. 4. — Autorita' competente
 
 Il Ministero dell'ambiente esercita la funzione di Autorita' competente per il coordinamento delle attivita' previste dal presente decreto.
@@ -47,6 +190,53 @@ Il Ministero dell'ambiente esercita la funzione di Autorita' competente per il c
 Per l'esercizio dell'attivita' di coordinamento di cui al comma 1, l'Autorita' competente si avvale di un apposito Comitato tecnico, di seguito denominato Comitato, di cui all'articolo 5, istituito presso il Ministero dell'ambiente con apposito decreto, che opera senza nuovi o maggiori oneri a carico della finanza pubblica.
 
 ## Art. 5. — Comitato tecnico
+
+1.
+                    
+                        
+                            Il Comitato e' composto da: 
+ 
+                        
+                        
+                            a)
+                            
+                                tre rappresentanti del Ministero dell'ambiente, di cui uno con funzioni di presidente; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                due rappresentanti del Ministero delle politiche agricole alimentari e forestali; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                un rappresentante per ciascuno dei seguenti Ministeri:
+Ministero delle infrastrutture e dei trasporti, Ministero della salute, Ministero della difesa, Ministero degli affari esteri, Ministero dell'istruzione, dell'universita' e della ricerca, Ministero per i beni e le attivita' culturali, Ministero dello sviluppo economico ((, Dipartimento per gli affari regionali e le autonomie e Dipartimento per le politiche del mare della Presidenza del Consiglio dei ministri)); 
+
+                            
+                        
+                        
+                            d)
+                            
+                                un rappresentante per ciascuna Regione e Provincia autonoma; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                un rappresentante dell'Unione Province d'Italia; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                un rappresentante dell'Associazione Nazionale Comuni Italiani.
 
 Alla nomina dei componenti del Comitato provvede il Ministero dell'ambiente previa designazione da parte di ciascuna delle amministrazioni e associazioni di cui al comma 1; tali designazioni devono pervenire entro 30 giorni dalla richiesta da parte dell'autorita' competente. Decorso tale termine il Ministero dell'ambiente provvede comunque all'istituzione del Comitato.
 
@@ -77,6 +267,45 @@ Ai fini previsti dal comma 1, le procedure di cooperazione sono estese, per quan
 ## Art. 7. — Azioni e fasi della strategia 
  per l'ambiente marino
 
+1.
+                    
+                        
+                            All'attuazione del presente decreto si procede sulla base delle seguenti fasi: 
+ 
+                        
+                        
+                            a)
+                            
+                                la valutazione iniziale dello stato ambientale delle acque marine ai sensi dell'articolo 8; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                la determinazione dei requisiti del buono stato ambientale ai sensi dell'articolo 9; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                la definizione dei traguardi ambientali ai sensi dell'articolo 10; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                l'elaborazione dei programmi di monitoraggio, ai sensi dell'articolo 11; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                l'elaborazione dei programmi di misure per il conseguimento e il mantenimento del buono stato ambientale ai sensi dell'articolo 12.
+
 La valutazione iniziale di cui all'articolo 8, la determinazione del buono stato ambientale di cui all'articolo 9, la definizione dei traguardi ambientali di cui all'articolo 10, l'elaborazione dei programmi di monitoraggio di cui all'articolo 11 e l'elaborazione dei programmi di misure di cui all'articolo 12 sono aggiornate, successivamente all'elaborazione iniziale, ogni sei anni per ciascuna regione o sottoregione marina, sulla base delle procedure previste da tali articoli.
 
 Il Ministero dell'ambiente comunica, in forma completa e dettagliata, gli aggiornamenti di cui al comma 2 alla Commissione europea, agli organi direttivi delle convenzioni marittime regionali ed agli altri Stati membri che condividono con l'Italia una regione o sottoregione marina, entro tre mesi dalla pubblicazione di cui all'articolo 16, comma 2.
@@ -87,6 +316,31 @@ Il Ministero dell'ambiente promuove e coordina, avvalendosi del Comitato, la val
 
 Le amministrazioni dello Stato, i soggetti pubblici e privati che, nell'esercizio delle proprie attivita', producono o detengono dati e informazioni utili ai fini della valutazione di cui al comma 1 sono tenuti, su richiesta del Ministero dell'ambiente, a metterli a disposizione. Restano ferme le vigenti disposizioni che prevedono l'invio o la messa a disposizione di tali dati e informazioni.
 
+3.
+                    
+                        
+                            La valutazione iniziale deve includere: 
+ 
+                        
+                        
+                            a)
+                            
+                                un'analisi degli elementi, delle caratteristiche essenziali e dello stato ambientale attuale della regione marina, sulla base dell'elenco indicativo degli elementi riportati nella tabella 1 dell'allegato III; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                un'analisi dei principali impatti e delle pressioni che influiscono sullo stato ambientale della regione o sottoregione marina, sulla base dell'elenco indicativo degli elementi di cui alla tabella 2 dell'allegato III, ((che comprenda gli aspetti qualitativi e quantitativi delle diverse pressioni e che tenga conto)) delle tendenze rilevabili e consideri i principali effetti cumulativi e sinergici, nonche' delle valutazioni pertinenti, effettuate in base alla vigente legislazione comunitaria; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                un'analisi degli aspetti socio-economici dell'utilizzo dell'ambiente marino e dei costi del suo degrado.
+
 Il Ministero dell'ambiente assicura, ove necessario d'intesa con il Ministero degli affari esteri, le opportune azioni nel contesto delle vigenti convenzioni marittime regionali, affinche' ulteriori dati e informazioni utili ai fini della valutazione di cui al comma 1 possano essere ottenuti in sede di attuazione di tali convenzioni.
 
 La valutazione e' effettuata in tempo utile per la determinazione del buono stato ambientale di cui all'articolo 9 e per la definizione dei traguardi ambientali di cui all'articolo 10.
@@ -94,6 +348,38 @@ La valutazione e' effettuata in tempo utile per la determinazione del buono stat
 A seguito della valutazione di cui al comma 1, il Ministero dell'ambiente, sentita la Conferenza unificata, stabilisce con apposito decreto, se, al fine di tenere conto delle specificita' di zone particolari, le strategie previste dal presente decreto devono essere definite e adottate con riferimento ad una o piu' sottodivisioni territoriali, da individuare in coerenza con l'elenco delle sottoregioni marine del Mare Mediterraneo. Il Ministero dell'ambiente comunica tempestivamente tale decreto alla Commissione europea.
 
 ## Art. 9. — Determinazione del buon stato ambientale
+
+1.
+                    
+                        
+                            Il buono stato ambientale e' determinato sulla base dei descrittori qualitativi di cui all'allegato 1, ed e' identificato quando: 
+ 
+                        
+                        
+                            a)
+                            
+                                la struttura, la funzione ed i processi degli ecosistemi che compongono l'ambiente marino, unitamente ai fattori fisiografici, geografici, geologici e climatici, consentano a tali ecosistemi di funzionare pienamente e di mantenere la loro resilienza ad un cambiamento ambientale dovuto all'attivita' umana; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                le specie e gli habitat marini siano protetti in modo tale da evitare la perdita di biodiversita' dovuta all'attivita' umana e da consentire che le diverse componenti biologiche funzionino in modo equilibrato; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                le caratteristiche idromorfologiche e fisico-chimiche degli ecosistemi, incluse le modifiche alle stesse causate dalle attivita' umane nella zona interessata, siano compatibili con le condizioni indicate nelle lettere a) e b); 
+
+                            
+                        
+                        
+                            d)
+                            
+                                gli apporti di sostanze ed energia, compreso il rumore, nell'ambiente marino, dovuti ad attivita' umane, non causino effetti inquinanti.
 
 Per conseguire un buono stato ambientale delle acque marine si applica la gestione adattativa basata sull'approccio ecosistemico.
 
@@ -119,6 +405,24 @@ Il Ministero dell'ambiente comunica alla Commissione europea gli esiti della def
 
 Sulla base della valutazione iniziale di cui all'articolo 8, il Ministero dell'ambiente, avvalendosi del Comitato, ((elabora ed attua)), con apposito decreto, sentita la Conferenza unificata, programmi di monitoraggio coordinati per la valutazione continua dello stato ambientale delle acque marine, in funzione dei traguardi ambientali previsti dall'articolo 10, nonche' per l'aggiornamento di tali traguardi.
 
+2.
+                    
+                        
+                            I programmi previsti dal comma 1 sono definiti tenendo conto: 
+ 
+                        
+                        
+                            a)
+                            
+                                degli elementi riportati negli elenchi degli allegati III e V; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                delle attivita' di monitoraggio effettuate dal Ministero per le politiche agricole alimentari e forestali, della salute, delle infrastrutture e trasporti, dell'istruzione, dell'universita' e della ricerca, nonche' dalle altre amministrazioni competenti.
+
 Il Ministero dell'ambiente, per la definizione dei programmi di cui al comma 1, procede inoltre ad una ricognizione degli attuali programmi di monitoraggio ambientale esistenti a livello regionale, nazionale, comunitario o internazionale in relazione alle acque marine, al fine di elaborare i programmi di monitoraggio anche attraverso l'integrazione ed il coordinamento dei risultati degli altri programmi di monitoraggio esistenti e, comunque, in modo compatibile e integrato con gli stessi.
 
 ((3-bis. L'Autorita' competente, per l'attuazione dei programmi di monitoraggio, puo' stipulare appositi accordi con le Agenzie regionali per l'ambiente, anche in forma associata o consorziata, nonche' con soggetti pubblici tecnici specializzati, anche in forma associata o consorziata. Dall'attuazione della presente disposizione non devono derivare nuovi o maggiori oneri a carico della finanza pubblica))
@@ -130,6 +434,24 @@ Il Ministero dell'ambiente comunica alla Commissione europea i programmi di moni
 ## Art. 12. — Programmi di misure
 
 A seguito della definizione dei traguardi ambientali di cui all'articolo 10, il Ministero dell'ambiente, avvalendosi del Comitato, elabora uno o piu' programmi di misure finalizzati a conseguire o mantenere un buon stato ambientale. A tal fine, tiene conto delle tipologie di misure riportate all'allegato VI.
+
+2.
+                    
+                        
+                            Ai fini dell'elaborazione dei programmi di cui al comma 1, il Ministero dell'ambiente: 
+ 
+                        
+                        
+                            a)
+                            
+                                procede ad una ricognizione dei programmi di misure, ((tenendo conto delle pertinenti misure prescritte dalla legislazione dell'Unione europea, dalla normativa relativa a standard di qualita' ambientale nel settore della politica delle acque adottata a livello comunitario o da accordi internazionali,)) anche ((con)) finalita' diverse da quelle ambientali, esistenti a livello regionale, nazionale, comunitario o internazionale in relazione alle acque marine, nonche' delle autorita' competenti alla relativa elaborazione ed attuazione, tenendo conto, in particolare, degli strumenti di pianificazione e di programmazione ((con)) rilievo per le acque marine previsti dalla parte terza del decreto legislativo 3 aprile 2006, n. 152 ((nonche' relativa alla gestione della qualita' delle acque di balneazione, prevista dal decreto legislativo 30 maggio 2008, n. 116, e dalla normativa relativa a standard di qualita' ambientale nel settore della politica delle acque o da accordi internazionali.)); 
+
+                            
+                        
+                        
+                            b)
+                            
+                                comunica al Comitato l'esito della ricognizione di cui alla lettera a) e promuove la partecipazione dei soggetti cui alla stessa lettera a) alle riunioni del Comitato, affinche' i programmi di misure di cui al comma 1 possano essere elaborati anche attraverso il coordinamento con gli altri programmi di misure esistenti e, comunque, in modo compatibile e integrato con gli stessi.
 
 I programmi di misure di cui al comma 1, elaborati nel rispetto delle competenze istituzionali previste dalla legge, sono approvati con decreto del Presidente del Consiglio dei Ministri, sentita la Conferenza unificata.
 
@@ -145,6 +467,52 @@ All'elaborazione dei programmi di misure di cui al comma 1 si procede entro il 3
 
 Il Ministero dell'ambiente comunica alla Commissione europea ed agli Stati membri che condividono con l'Italia la stessa regione o sottoregione marina, i programmi di misure di cui al comma 1 entro il 31 marzo 2016. Si procede, ove necessario, d'intesa con il Ministero degli affari esteri.
 
+10.
+                    
+                        
+                            I programmi di cui al comma 1, ove necessario, includono anche le seguenti misure: 
+ 
+                        
+                        
+                            a)
+                            
+                                salvaguardia, risanamento, restauro ambientale, ripopolamento e monitoraggio in relazione alle acque marine; tutela degli habitat e della biodiversita'; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                condizioni, limiti e divieti per l'esercizio di attivita' aventi incidenza sull'ambiente marino, da inserire negli strumenti di pianificazione, gestione e sviluppo territoriale di competenza di autorita' nazionali, regionali o locali. Le autorita' che elaborano tali strumenti devono in tutti i casi prendere in considerazione le misure previste dai programmi di cui al comma 1; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                condizioni, limiti e divieti da inserire negli atti di autorizzazione, di concessione, di assenso o di nulla osta previsti dalla vigente normativa per l'esercizio di attivita' aventi incidenza sull'ambiente marino, di competenza di autorita' nazionali, regionali o locali. Le autorita' che rilasciano tali atti devono in tutti i casi prendere in considerazione le misure previste dai programmi di cui al comma 1; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                condizioni, limiti e divieti da inserire nelle ordinanze, anche urgenti, previste dalla vigente normativa per l'esercizio di attivita' aventi incidenza sull'ambiente marino, di competenza di autorita' nazionali, regionali o locali; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                indicazione di misure atte a prevenire, eliminare e porre rimedio ai danni causati all'ambiente marino dall'inquinamento tellurico, prioritariamente causato dallo sversamento in mare di reflui urbani non adeguatamente trattati a causa, in particolare, dell'assenza, del malfunzionamento o del fermo degli impianti di depurazione; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                indicazione di misure di gestione volte a rendere economicamente conveniente per gli utilizzatori degli ecosistemi marini l'adozione di comportamenti finalizzati al conseguimento dell'obiettivo del buon stato ambientale.
+
 I programmi di cui al comma 1 prevedono anche misure di protezione spaziale che contribuiscano ad organizzare reti coerenti e rappresentative di aree marine protette, previste dalla legislazione comunitaria o nazionale o dagli accordi internazionali, anche situate oltre il confine delle acque territoriali. Le reti devono essere tali da riflettere in modo idoneo la diversita' degli ecosistemi.
 
 Nel caso in cui, alla luce della valutazione iniziale di cui all'articolo 8 e dei programmi di monitoraggio di cui all'articolo 11, risulti che la gestione delle attivita' umane a livello comunitario o internazionale possa avere un impatto significativo sull'ambiente marino ed in particolare sulle zone previste dal comma 11, il Ministero dell'ambiente, ove necessario d'intesa con il Ministero degli affari esteri, promuove le opportune iniziative presso i competenti organismi internazionali al fine di valutare e, se opportuno, adottare le misure necessarie al rispetto delle finalita' del presente decreto. Tali misure devono consentire, in funzione dei casi, il mantenimento od il ripristino dell'integrita', della struttura e del funzionamento degli ecosistemi.
@@ -156,6 +524,45 @@ Tutte le informazioni utili in merito alle zone di cui ai commi 11 e 12, in rela
 Nel caso in cui risulti che, in una regione o sottoregione condivisa dall'Italia con altri Stati membri, lo stato del mare sia interessato da una criticita' che richiede un intervento urgente, deve essere elaborato, nei modi previsti dall'articolo 6, in accordo con tali Stati, un piano d'azione in cui si preveda l'attuazione anticipata degli adempimenti disciplinati dagli articoli da 8 a 11 e l'avvio anticipato dei programmi di misure, nonche' l'introduzione di misure piu' restrittive di quelle individuabili ai sensi dell'articolo 12. Tale piano non deve impedire il conseguimento o il mantenimento di un buono stato ambientale in un'altra regione o sottoregione marina. Il Ministero dell'ambiente provvede ad informare la Commissione europea in merito al piano d'azione adottato.
 
 ## Art. 14. — Eccezioni
+
+1.
+                    
+                        
+                            Costituiscono cause di eccezione, per il non raggiungimento di un traguardo ambientale o di un buono stato ambientale: 
+ 
+                        
+                        
+                            a)
+                            
+                                un'azione o un'omissione non imputabile all'Italia; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                le cause naturali; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                la forza maggiore; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                le modifiche o le alterazioni delle caratteristiche fisiche delle acque marine causate da provvedimenti adottati per motivi imperativi di interesse generale aventi rilevanza superiore rispetto alla tutela contro gli effetti negativi sull'ambiente, incluso qualsiasi impatto transfrontaliero; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                le condizioni naturali che non consentano miglioramenti dello stato delle acque marine nei tempi previsti dal presente decreto.
 
 Alla luce della valutazione iniziale di cui all'articolo 8 e dei programmi di monitoraggio di cui all'articolo 11, i programmi di misure di cui all'articolo 12 possono individuare, presso la regione o le sottoregioni marine, situazioni nelle quali, ricorrendo una causa di eccezione del comma 1, i traguardi ambientali dell'articolo 10 ed il buono stato ambientale delle acque marine non possono essere conseguiti in tutto o in parte oppure, ricorrendo la causa del comma 1, lettera e), non possono essere conseguiti entro le scadenze previste. Nell'individuare tali situazioni devono essere prese in considerazione anche le conseguenze per gli Stati membri della regione o sottoregione marina interessata.
 
@@ -172,6 +579,45 @@ Nei casi previsti dal comma 1, possono essere altresi' sottoposte alla Commissio
 ## Art. 16. — Consultazione e informazione del pubblico
 
 Il Ministero dell'ambiente assicura idonei strumenti e procedure affinche' tutti i soggetti interessati possano partecipare in modo effettivo e tempestivo all'esame degli aspetti rilevanti per l'attuazione del presente decreto. A tal fine possono essere previste forme di diffusione delle informazioni, sedi di confronto o inchieste pubbliche e possono essere promosse, ove possibile, forme di raccordo tra autorita', enti e strutture interessati, inclusi i comitati consultivi scientifici e gli organi direttivi delle convenzioni marittime regionali.
+
+2.
+                    
+                        
+                            Il Ministero dell'ambiente assicura, con adeguate modalita' operative, incluso l'uso del proprio sito internet, che siano tempestivamente redatte, pubblicate e sottoposte alle osservazioni del pubblico, anche in forma sintetica, informazioni relative a: 
+ 
+                        
+                        
+                            a)
+                            
+                                valutazione iniziale e determinazione del buon stato ambientale; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                traguardi ambientali; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                programmi di monitoraggio; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                programmi di misure; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                aggiornamenti di cui all'articolo 7, comma 2.
 
 Ai fini dell'accesso del pubblico alle informazioni ambientali previste dal presente decreto si applica il decreto legislativo 19 agosto 2005, n. 195.
 

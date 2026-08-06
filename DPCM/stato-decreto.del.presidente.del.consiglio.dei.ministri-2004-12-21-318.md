@@ -8,8 +8,8 @@ codice_redazionale: 005G0002
 vigente: true
 source: normattiva-opendata
 collection: DPCM
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:40:12Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DEL CONSIGLIO DEI MINISTRI
@@ -24,6 +24,84 @@ Udito il parere del Consiglio di Stato espresso dalla sezione consultiva per gli
 Di concerto con il Ministro dell'economia e delle finanze;
 
 ## Art. 1. — Presentazione delle domande
+
+1.
+                    
+                        
+                            Ai fini del riconoscimento del credito d'imposta per l'acquisto della carta di cui all'articolo 4, comma 181, della legge 24 dicembre 2003, n. 350, le imprese editrici di quotidiani e periodici iscritte al registro degli operatori di comunicazione e le imprese editrici di libri presentano, entro trenta giorni dalla data di entrata in vigore del presente regolamento, apposita domanda, sottoscritta dal legale rappresentante, contenente:
+ 
+                        
+                        
+                            a)
+                            
+                                gli elementi identificativi dell'impresa, ivi compreso il codice fiscale;
+
+                            
+                        
+                        
+                            b)
+                            
+                                gli estremi di iscrizione al registro degli operatori di comunicazione;
+
+                            
+                        
+                        
+                            c)
+                            
+                                l'importo del credito d'imposta spettante ai sensi della lettera d);
+
+                            
+                        
+                        
+                            d)
+                            
+                                l'impegno a presentare il bilancio certificato entro trenta giorni dall'approvazione, dal quale deve risultare in modo evidenziato, la spesa sostenuta per l'acquisto della carta detraibile ai sensi dell'articolo 4, commi da 181 a 183 della citata legge n. 350 del 2003.
+
+2.
+                    
+                        
+                            Alla domanda deve essere allegata una dichiarazione sostitutiva di atto di notorieta' resa ai sensi dell'articolo 47 del decreto del Presidente della Repubblica 28 dicembre 2000, n. 445, attestante:
+ 
+                        
+                        
+                            a)
+                            
+                                l'inerenza delle spese sostenute per l'acquisto della carta nell'anno 2004, alle tipologie di prodotti editoriali non espressamente escluse dal beneficio, ai sensi del comma 183 del predetto articolo 4 della legge n. 350 del 2003;
+
+                            
+                        
+                        
+                            b)
+                            
+                                l'importo complessivo della spesa agevolabile risultante dalle fatture indicate in apposito elenco allegato alla domanda;
+
+                            
+                        
+                        
+                            c)
+                            
+                                limitatamente alle imprese editrici di libri, di non essere soggetti tenuti all'iscrizione al registro degli operatori di comunicazione;
+
+                            
+                        
+                        
+                            d)
+                            
+                                che la spesa per la carta si riferisce a pubblicazioni in lingua italiana di minoranze linguistiche a questa equiparate dalla normativa vigente;
+
+                            
+                        
+                        
+                            e)
+                            
+                                che la spesa sostenuta per l'acquisto della carta e' riferita a quella utilizzata nell'anno 2004 per la stampa delle testate e dei libri editi;
+
+                            
+                        
+                        
+                            f)
+                            
+                                che l'impresa non ha ricevuto alcun aiuto attraverso altri regimi locali, regionali, nazionali o comunitari per coprire gli stessi costi ammissibili.
 
 Le domande sono inoltrate esclusivamente mediante lettera raccomandata con avviso di ricevimento indirizzata alla Presidenza del Consiglio dei Ministri - Dipartimento per l'informazione e l'editoria, Ufficio studi e per lo sviluppo e l'innovazione dell'editoria e dei prodotti editoriali, via Boncompagni n. 15 - 00187 Roma.
 

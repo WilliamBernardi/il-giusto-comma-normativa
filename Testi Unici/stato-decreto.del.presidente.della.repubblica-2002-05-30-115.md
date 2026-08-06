@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Testi Unici
 vigenza_date: 2026-07-16
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:40:01Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -70,6 +70,157 @@ Le spese del processo amministrativo, contabile e tributario sono, inoltre, rego
 
 
 
+1.
+                        
+                            
+                                Ai fini del presente testo unico, se non diversamente ed espressamente indicato:
+ 
+                            
+                            
+                                a)
+                                
+                                    "magistrato" e' il giudice o il pubblico ministero, anche onorario, preposto alla funzione giurisdizionale sulla base di norme di legge e delle disposizioni dei codici di procedura penale e civile;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    "magistrato professionale" e' il magistrato che ha uno stabile rapporto di servizio con l'amministrazione;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    "magistrato onorario" e' il giudice di pace, il giudice onorario di tribunale, il vice procuratore onorario, il giudice onorario aggregato;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    "giudice popolare" e' il componente non togato nei collegi di assise;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    "esperto" e' il componente privato dell'ufficio giudiziario minorile, dell'ufficio giudiziario di sorveglianza, dell'ufficio giudiziario agrario;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    "ufficio giudiziario" e' l'ufficio del magistrato competente secondo le norme di legge e le disposizioni dei codici di procedura penale e civile;
+
+                                
+                            
+                            
+                                g)
+                                
+                                    "ufficio" e' l'apparato della pubblica amministrazione strumentale all'ufficio giudiziario, con esclusione in ogni caso dell'ufficio finanziario;
+
+                                
+                            
+                            
+                                h)
+                                
+                                    "ufficio finanziario" e' l'ufficio dell'amministrazione finanziaria competente secondo l'organizzazione interna;
+
+                                
+                            
+                            
+                                i)
+                                
+                                    "funzionario addetto all'ufficio" e' la persona che svolge la funzione amministrativa secondo l'organizzazione interna;
+
+                                
+                            
+                            
+                                l)
+                                
+                                    "ufficiale giudiziario" e' la persona che svolge la funzione secondo l'organizzazione interna degli uffici notificazioni e protesti (UNEP);
+
+                                
+                            
+                            
+                                m)
+                                
+                                    "notificazione da parte dell'ufficiale giudiziario", ai fini delle spettanze degli ufficiali giudiziari, e' la trasmissione della notizia di un atto o la trasmissione di copia di un atto;
+
+                                
+                            
+                            
+                                n)
+                                
+                                    "ausiliario del magistrato" e' il perito, il consulente tecnico, l'interprete, il traduttore e qualunque altro soggetto competente, in una determinata arte o professione o comunque idoneo al compimento di atti, che il magistrato o il funzionario addetto all'ufficio puo' nominare a norma di legge;
+
+                                
+                            
+                            
+                                o)
+                                
+                                    "processo" e' qualunque procedimento contenzioso o non contenzioso di natura giurisdizionale;
+
+                                
+                            
+                            
+                                p)
+                                
+                                    "processo penale" e' il procedimento o processo penale e penale militare;
+
+                                
+                            
+                            
+                                q)
+                                
+                                    "amministrazione pubblica ammessa alla prenotazione a debito" e' l'amministrazione dello Stato, o altra amministrazione pubblica, ammessa da norme di legge alla prenotazione a debito di imposte o di spese a suo carico;
+
+                                
+                            
+                            
+                                r)
+                                
+                                    "annotazione" e' l'attivita' su supporto cartaceo o informatico per riportare il dato nei registri;
+
+                                
+                            
+                            
+                                s)
+                                
+                                    "prenotazione a debito" e' l'annotazione a futura memoria di una voce di spesa, per la quale non vi e' pagamento, ai fini dell'eventuale successivo recupero;
+
+                                
+                            
+                            
+                                t)
+                                
+                                    "anticipazione" e' il pagamento di una voce di spesa che, ricorrendo i presupposti previsti dalla legge, e' recuperabile;
+
+                                
+                            
+                            
+                                u)
+                                
+                                    "sanzione pecuniaria processuale" e' la somma dovuta sulla base delle norme del codice di procedura civile e del codice di procedura penale, recuperabile nelle forme previste per le spese;
+
+                                
+                            
+                            
+                                v)
+                                
+                                    "sanzione amministrativa pecuniaria" e' la sanzione pecuniaria, anche derivante da conversione della sanzione interdittiva, dovuta dalle persone giuridiche, dalle societa' e dalle associazioni anche prive di personalita' giuridica, ai sensi del decreto legislativo 8 giugno 2001, n. 231;
+
+                                
+                            
+                            
+                                z)
+                                
+                                    "concessionario" e' il soggetto incaricato ai sensi dell'articolo 4, del decreto legislativo 9 luglio 1997, n. 237.
+
 ## - Titolo II Disposizioni generali relative al processo penale
 
 ## Art. 4. — Anticipazione delle spese
@@ -83,6 +234,98 @@ Se la parte e' ammessa al patrocinio a spese dello Stato, l'erario anticipa anch
 ## Art. 5. — Spese ripetibili e non ripetibili
 
 
+
+1.
+                        
+                            
+                                Sono spese ripetibili: 
+ 
+                            
+                            
+                                a)
+                                
+                                    le spese di spedizione, i diritti e le indennita' di trasferta degli ufficiali giudiziari per le notificazioni; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le spese relative alle trasferte per il compimento di atti fuori dalla sede in cui si svolge il processo; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    le spese e le indennita' per i testimoni; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    gli onorari, le spese e le indennita' di trasferta e le spese per l'adempimento dell'incarico degli ausiliari del magistrato; ((ad esclusione degli interpreti e dei traduttori nominati nei casi previsti dall'articolo 143 codice di procedura penale;))
+                                    
+                                
+                            
+                            
+                                e)
+                                
+                                    le indennita' di custodia; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    le spese per la pubblicazione dei provvedimenti del magistrato; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    le spese per la demolizione di opere abusive e la riduzione in pristino dei luoghi; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    le spese straordinarie; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    le spese di mantenimento dei detenuti; 
+
+                                
+                            
+                            
+                                i-bis)
+                                
+                                    le spese relative alle prestazioni previste dall'articolo 96 del decreto legislativo 10 agosto 2003, n. 259, e quelle funzionali all'utilizzo delle prestazioni medesime.
+
+2.
+                        
+                            
+                                Sono spese non ripetibili: 
+ 
+                            
+                            
+                                a)
+                                
+                                    le indennita' dei magistrati onorari, dei giudici popolari nei collegi di assise e degli esperti; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le spese relative alle trasferte dei magistrati professionali di corte di assise per il dibattimento tenuto in luogo diverso da quello di normale convocazione.
 
 Fermo quanto disposto dall'articolo 696, del codice di procedura penale, non sono ripetibili le spese per le rogatorie dall'estero e per le estradizioni da e per l'estero.
 
@@ -190,6 +433,59 @@ Se e' chiesta, anche in via provvisionale, la condanna al pagamento di una somma
 ## Art. 13. — (L) 
  Importi
 
+1.
+                        
+                            
+                                Il contributo unificato e' dovuto nei seguenti importi: 
+ 
+                            
+                            
+                                a)
+                                
+                                    euro 43 per i processi di valore fino a 1.100 euro, nonche' per i processi per controversie di previdenza e assistenza obbligatorie, salvo quanto previsto dall'articolo 9, comma-1 bis, per i procedimenti su domanda congiunta di cui all'articolo 473-bis.51 del codice di procedura civile; (27) (95) 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    euro 98 per i processi di valore superiore a euro 1.100 e fino a euro 5.200 e per i processi di volontaria giurisdizione, nonche' per i procedimenti contenziosi di cui all'articolo 473-bis.47 del codice di procedura civile e per i processi speciali di cui al libro IV, titolo II, capo VI, del medesimo codice, (27) (95) 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    euro 237 per i processi di valore superiore a euro 5.200 e fino a euro 26.000 e per i processi contenziosi di valore indeterminabile di competenza esclusiva del giudice di pace; (27) 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    euro 518 per i processi di valore superiore a euro 26.000 e fino a euro 52.000 e per i processi civili di valore indeterminabile; (27) 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    euro 759 per i processi di valore superiore a euro 52.000 e fino a euro 260.000;(27) 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    euro 1.214 per i processi di valore superiore a euro 260.000 e fino a euro 520.000; (27) 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    euro 1.686 per i processi di valore superiore a euro 520.000. (27)
+
 Il contributo di cui al comma 1 e' aumentato della meta' per i giudizi di impugnazione ed e' raddoppiato per i processi dinanzi alla Corte di cassazione. (30)
 
 Per i processi di competenza delle sezioni specializzate di cui al decreto legislativo 27 giugno 2003, n. 168, e successive modificazioni, il contributo unificato di cui al comma 1 e' raddoppiato. Si applica il comma 1-bis. (31)
@@ -215,7 +511,125 @@ Per la procedura fallimentare, che e' la procedura dalla sentenza dichiarativa d
 
 Se manca la dichiarazione di cui all'articolo 14, il processo si presume del valore indicato al comma 1, lettera g). Se manca la dichiarazione di cui al comma 3-bis dell'articolo 14, il processo si presume del valore indicato al comma 6-quater, lettera f).
 
+6-bis.
+                        
+                            
+                                Il contributo unificato per i ricorsi proposti davanti ai Tribunali amministrativi regionali e al Consiglio di Stato e' dovuto nei seguenti importi: 
+ 
+                            
+                            
+                                a)
+                                
+                                    per i ricorsi previsti dagli articoli 116 e 117 del decreto legislativo 2 luglio 2010, n. 104, per quelli aventi ad oggetto il diritto di cittadinanza, di residenza, di soggiorno e di ingresso nel territorio dello Stato e per i ricorsi di esecuzione nella sentenza o di ottemperanza del giudicato il contributo dovuto e' di euro 300.
+Non e' dovuto alcun contributo per i ricorsi previsti dall'articolo 25 della citata legge n. 241 del 1990 avverso il diniego di accesso alle informazioni di cui al decreto legislativo 19 agosto 2005, n. 195, di attuazione della direttiva 2003/4/CE sull'accesso del pubblico all'informazione ambientale; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    per le controversie concernenti rapporti di pubblico impiego, si applica il comma 3; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    per i ricorsi cui si applica il rito abbreviato comune a determinate materie previsto dal libro IV, titolo V, del decreto legislativo 2 luglio 2010, n. 104, nonche' da altre disposizioni che richiamino il citato rito, il contributo dovuto e' di euro 1.800; (34) 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    per i ricorsi di cui all'articolo 119, comma 1, lettere a) e b), del codice di cui all'allegato 1 al decreto legislativo 2 luglio 2010, n. 104, il contributo dovuto e' di euro 2.000 quando il valore della controversia e' pari o inferiore ad euro 200.000; per quelle di importo compreso tra euro 200.000 e 1.000.000 il contributo dovuto e' di euro 4.000 mentre per quelle di valore superiore a 1.000.000 di euro e' pari ad euro 6.000. Se manca la dichiarazione di cui al comma 3-bis dell'articolo 14, il contributo dovuto e' di euro 6.000; (34) 
+                                
+                            
+                            
+                                e)
+                                
+                                    in tutti gli altri casi non previsti dalle lettere precedenti e per il ricorso straordinario al Presidente della Repubblica nei casi ammessi dalla normativa vigente, il contributo dovuto e' di euro 650. PERIODO SOPPRESSO DAL D.L. 13 AGOSTO 2011, N. 138, CONVERTITO CON MODIFICAZIONI DALLA L. 14 SETTEMBRE 2011, N. 148. PERIODO SOPPRESSO DAL D.L. 13 AGOSTO 2011, N. 138, CONVERTITO CON MODIFICAZIONI DALLA L. 14 SETTEMBRE 2011, N. 148. (27) (34) 
+ 6-bis.1. Gli importi di cui alle lettere a), b ), c), d) ed e) del comma 6-bis sono aumentati della meta' ove il difensore non indichi il proprio indirizzo di posta elettronica certificata e il proprio recapito fax, ai sensi dell'articolo 136 del codice del processo amministrativo di cui al decreto legislativo 2 luglio 2010, n. 104, ovvero qualora la parte ometta di indicare il codice fiscale nel ricorso. L'onere relativo al pagamento dei suddetti contributi e' dovuto in ogni caso dalla parte soccombente, anche nel caso di compensazione giudiziale delle spese e anche se essa non si e' costituita in giudizio. Ai fini predetti, la soccombenza si determina con il passaggio in giudicato della sentenza. Ai fini del presente comma, per ricorsi si intendono quello principale, quello incidentale e i motivi aggiunti che introducono domande nuove.
+
 COMMA ABROGATO DAL D.L. 6 LUGLIO 2011, N. 98, CONVERTITO CON MODIFICAZIONI DALLA L. 15 LUGLIO 2011, N. 111.
+
+6-quater.
+                        
+                            
+                                Per i ricorsi principale ed incidentale proposti avanti le Commissioni tributarie provinciali e regionali e' dovuto il contributo unificato nei seguenti importi: 
+ 
+                            
+                            
+                                a)
+                                
+                                    euro 30 per controversie di valore fino a euro 2.582,28; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    euro 60 per controversie di valore superiore a euro 2.582,28 e fino a euro 5.000; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    euro 120 per controversie di valore superiore a euro 5.000 e fino a euro 25.000 e per le controversie tributarie di valore indeterminabile; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    euro 250 per controversie di valore superiore a euro 25.000 e fino a euro 75.000; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    euro 500 per controversie di valore superiore a euro 75.000 e fino a euro 200.000; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    euro 1.500 per controversie di valore superiore a euro 200.000. (27)
+
+6-quinquies.
+                        
+                            
+                                Per le controversie di cui al regolamento (UE) n. 655/2014 del Parlamento europeo e del Consiglio, del 15 maggio 2014, che istituisce una procedura per l'ordinanza europea di sequestro conservativo su conti bancari al fine di facilitare il recupero transfrontaliero dei crediti in materia civile e commerciale, si applicano: 
+ 
+                            
+                            
+                                a)
+                                
+                                    gli importi stabiliti dall'articolo 13, commi 1, lettera b), e 1-bis, per i procedimenti previsti dagli articoli 21 e 37 del regolamento (UE) n. 655/2014; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    gli importi stabiliti dall'articolo 13, comma 3, per i procedimenti previsti dagli articoli 8, 33 e 35 del regolamento (UE) n. 655/2014; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    gli importi stabiliti dall'articolo 13, comma 1, per i procedimenti previsti dall'articolo 34 del regolamento (UE) n. 655/2014; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    gli importi stabiliti dall'articolo 13, comma 1-quinquies, per i procedimenti previsti dall'articolo 14 del regolamento (UE) n. 655/2014.
 
 -------------
                             AGGIORNAMENTO (27)
@@ -507,9 +921,67 @@ Se agli ufficiali giudiziari competono piu' indennita' di trasferta per atti in 
 
 
 
+1.
+                        
+                            
+                                Il diritto unico e' dovuto nella seguente misura:
+
+ 
+                            
+                            
+                                a)
+                                
+                                    per gli atti aventi sino a due destinatari: euro 2,58;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    per gli atti aventi da tre a sei destinatari: euro 7,75;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    per gli atti aventi oltre i sei destinatari: euro 12,39.
+
 ## Art. 35. — Importo dell'indennita' di trasferta
 
 
+
+1.
+                        
+                            
+                                L'indennita' di trasferta e' stabilita' nella seguente misura:
+ 
+                            
+                            
+                                a)
+                                
+                                    fino a sei chilometri: euro 1,22;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    fino a dodici chilometri: euro 2,25;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    fino a diciotto chilometri: euro 3,06;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    oltre i diciotto chilometri, per ogni percorso di sei chilometri o di frazione superiore a tre chilometri di percorso successivo, nella misura di cui alla lettera c), aumentata di euro 0,65.
 
 ## Art. 36. — Maggiorazioni per l'urgenza
 
@@ -529,6 +1001,31 @@ La richiesta, con l'indicazione della data, puo' farsi solo per atti in scadenza
 
 
 
+1.
+                        
+                            
+                                Per le esecuzioni mobiliari ed immobiliari e per ogni atto che comporta la redazione di un verbale, escluso l'atto di protesto, e' dovuto agli ufficiali giudiziari il diritto unico nella seguente misura:
+ 
+                            
+                            
+                                a)
+                                
+                                    per gli atti relativi ad affari di valore fino a euro 516,46: euro 2,58;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    per gli atti relativi ad affari di valore superiore a euro 516,46 fino a euro 2.582,28: euro 3,62;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    per gli atti relativi ad affari di valore superiore a euro 2.582,28 o di valore indeterminabile: euro 6,71.
+
 ## Art. 38. — Indennita' di trasferta per atti di esecuzione
 
 
@@ -542,6 +1039,30 @@ Per gli atti di esecuzione, l'indennita' di trasferta e' dovuta, per il viaggio 
 
 
 Al fine di conseguire la riduzione delle spese per la comunicazione e notificazione di atti e per la trasmissione di documenti, possono essere stipulate apposite convenzioni con le imprese private o i soggetti pubblici operanti nel settore, scelti secondo la vigente normativa sull'evidenza pubblica. Le convenzioni sono approvate con decreto del Ministero della giustizia, di concerto con il Ministero dell'economia e delle finanze.
+
+2.
+                        
+                            
+                                Nella convenzione, che puo' prevedere differenziazioni a livello territoriale, sono stabiliti, in particolare :
+ 
+                            
+                            
+                                a)
+                                
+                                    i compensi, anche forfettizzati;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le modalita' e le cadenze temporali del pagamento dei compensi;
+                                
+                            
+                            
+                                c)
+                                
+                                    le penalita' per l'inosservanza degli obblighi.
 
 ## - Titolo IV Diritto di copia e diritto di certificato
 
@@ -729,6 +1250,30 @@ Le tabelle prevedono, altresi', le riduzioni percentuali dell'indennita' in rela
 
 Al fine di conseguire la riduzione delle spese di pubblicazione dei provvedimenti del magistrato nel processo penale e civile, possono essere stipulate apposite convenzioni con le imprese private o i soggetti pubblici operanti nel settore, scelti secondo la vigente normativa sull'evidenza pubblica. Le convenzioni sono approvate con decreto del Ministero della giustizia, di concerto con il Ministero dell'economia e delle finanze.
 
+2.
+                        
+                            
+                                Nella convenzione, che puo' prevedere differenziazioni al livello territoriale, sono stabiliti, in particolare:
+ 
+                            
+                            
+                                a)
+                                
+                                    i compensi, anche forfettizzati;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le modalita' e le cadenze temporali del pagamento dei compensi;
+                                
+                            
+                            
+                                c)
+                                
+                                    le penalita' per l'inosservanza degli obblighi.
+
 ## - Titolo X Demolizione di opere abusive e riduzione in pristino dei luoghi nel processo penale e amministrativo
 
 ## Art. 61. — Esecuzione di sentenze recanti ordine di, o aventi ad oggetto la, demolizione di opere abusive e di riduzione in pristino dei luoghi
@@ -797,6 +1342,38 @@ Nel caso in cui l'udienza si svolge in luogo diverso da quello in cui l'esperto 
 ## Art. 69. — Spese escluse
 
 
+
+1.
+                        
+                            
+                                Sono escluse dalle spese di giustizia:
+ 
+                            
+                            
+                                a)
+                                
+                                    la sepoltura dei detenuti;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la traduzione dei detenuti;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il trasporto, la custodia e la sepoltura delle persone decedute nella pubblica via o in luogo pubblico;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    il trasporto degli atti processuali e degli oggetti che servono al processo.
 
 ## Art. 70. — Spese straordinarie
 
@@ -989,6 +1566,40 @@ L'istanza e' sottoscritta dall'interessato a pena di inammissibilita'. La sottos
 
 
 
+1.
+                        
+                            
+                                L'istanza e' redatta in carta semplice e, a pena di inammissibilita', contiene: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la richiesta di ammissione al patrocinio e l'indicazione del 
+ processo cui si riferisce, se gia' pendente; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le generalita' dell'interessato e dei componenti la famiglia 
+ anagrafica, unitamente ai rispettivi codici fiscali; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    una dichiarazione sostitutiva di certificazione da parte dell'interessato, ai sensi dell'articolo 46, comma 1, lettera o), del decreto del Presidente della Repubblica 28 dicembre 2000, n. 445, attestante la sussistenza delle condizioni di reddito previste per l'ammissione, con specifica determinazione del reddito complessivo valutabile a tali fini, determinato secondo le modalita' indicate nell'articolo 76; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    l'impegno a comunicare, fino a che il processo non sia definito, le variazioni rilevanti dei limiti di reddito, verificatesi nell'anno precedente, entro trenta giorni dalla scadenza del termine di un anno, dalla data di presentazione dell'istanza o della eventuale precedente comunicazione di variazione.
+
 Per i redditi prodotti all'estero, il cittadino di Stati non appartenenti all'Unione europea correda l'istanza con una certificazione dell'autorita' consolare competente, che attesta la veridicita' di quanto in essa indicato. ((74))
 
 Gli interessati, se il giudice procedente o il consiglio dell'ordine degli avvocati competente a provvedere in via anticipata lo richiedono, sono tenuti, a pena di inammissibilita' dell'istanza, a produrre la documentazione necessaria ad accertare la veridicita' di quanto in essa indicato.
@@ -1015,6 +1626,31 @@ Colui che e' ammesso al patrocinio puo' nominare un difensore iscritto negli ele
 ((
 
 L'elenco degli avvocati per il patrocinio a spese dello Stato e' formato dagli avvocati che ne fanno domanda e che siano in possesso dei requisiti previsti dal comma 2.
+
+2.
+                        
+                            
+                                L'inserimento nell'elenco e' deliberato dal consiglio dell'ordine, il quale valuta la sussistenza dei seguenti requisiti e condizioni:
+ 
+                            
+                            
+                                a)
+                                
+                                    attitudini ed esperienza professionale specifica, distinguendo tra processi civili, penali, amministrativi, contabili, tributari ed affari di volontaria giurisdizione;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    assenza di sanzioni disciplinari superiori all'avvertimento irrogate nei cinque anni precedenti la domanda;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    iscrizione all'Albo degli avvocati da almeno due anni.
 
 E' cancellato di diritto dall'elenco l'avvocato per il quale e' stata disposta una sanzione disciplinare superiore all'avvertimento.
 
@@ -1104,6 +1740,24 @@ Il trattamento previsto per il cittadino italiano e' assicurato altresi' allo st
 ## Art. 91. — Esclusione dal patrocinio
 
 
+
+1.
+                        
+                            
+                                L'ammissione al patrocinio e' esclusa: 
+ 
+                            
+                            
+                                a)
+                                
+                                    per ((...)) il condannato ((con sentenza definitiva)) di reati commessi in violazione delle norme per la repressione dell'evasione in materia di imposte sui redditi e sul valore aggiunto; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    se il richiedente e' assistito da piu' di un difensore; in ogni caso gli effetti dell'ammissione cessano a partire dal momento in cui la persona alla quale il beneficio e' stato concesso nomina un secondo difensore di fiducia, eccettuati i casi di cui all'articolo 100.
 
 ## Art. 92. — Elevazione dei limiti di reddito per l'ammissione
 
@@ -1262,9 +1916,94 @@ Per effetto dell'ammissione al patrocinio alcune spese sono gratuite, altre sono
 
 Sono spese gratuite le copie degli atti processuali, quando sono necessarie per l'esercizio della difesa.
 
+3.
+                        
+                            
+                                Sono spese anticipate dall'erario:
+ 
+                            
+                            
+                                a)
+                                
+                                    le indennita' e le spese di viaggio spettanti ai magistrati, agli appartenenti agli uffici e agli ufficiali giudiziari per le trasferte relative al compimento di atti del processo fuori dalla sede nella quale si svolge;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le indennita' e le spese di viaggio spettanti ai testimoni;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    le indennita' di trasferta, i diritti, le spese di spedizione per le notifiche degli ufficiali giudiziari a richiesta d'ufficio o di parte;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    le indennita' e le spese di viaggio per trasferte, nonche' le spese sostenute per l'adempimento dell'incarico, e l'onorario ad ausiliari del magistrato, a consulenti tecnici di parte e a investigatori privati autorizzati;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    l'indennita' di custodia;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    l'onorario e le spese agli avvocati;
+
+                                
+                            
+                            
+                                g)
+                                
+                                    le spese per gli strumenti di pubblicita' legale dei provvedimenti dell'autorita' giudiziaria.
+
 ## Art. 108. — Effetti dell'ammissione relativi all'azione di risarcimento del danno nel processo penale
 
 
+
+1.
+                        
+                            
+                                Per effetto dell'ammissione al patrocinio relativa all'azione di risarcimento del danno nel processo penale, si producono gli effetti di cui all'articolo 107 ed inoltre, quando la spesa e' a carico della parte ammessa, sono prenotati a debito:
+ 
+                            
+                            
+                                a)
+                                
+                                    il contributo unificato;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le spese forfettizzate per le notificazioni a richiesta d'ufficio;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    l'imposta di registro ai sensi dell'articolo 59, comma 1, lettere a) e b), del decreto del Presidente della Repubblica 26 aprile 1986, n. 131;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    l'imposta ipotecaria e catastale ai sensi dell'articolo 16, comma 1, lettera e), del decreto legislativo 31 ottobre 1990, n. 347.
 
 ## Art. 109. — Decorrenza degli effetti
 
@@ -1292,6 +2031,38 @@ Le spese di cui all'articolo 107 sono recuperate nei confronti dell'imputato in 
 
 ## Art. 112. — (L)
  Revoca del decreto di ammissione
+
+1.
+                        
+                            
+                                Il magistrato, con decreto motivato, revoca l'ammissione:
+ 
+                            
+                            
+                                a)
+                                
+                                    se, nei termini previsti dall'articolo 79, comma 1, lettera d), l'interessato non provvede a comunicare le eventuali variazioni dei limiti di reddito;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    se, a seguito della comunicazione prevista dall'articolo 79, comma 1, lettera d), le condizioni di reddito risultano variate in misura tale da escludere l'ammissione;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    se, nei termini previsti dall'articolo 94, comma 3, non sia stata prodotta la certificazione dell'autorita' consolare;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    d'ufficio o su richiesta dell'ufficio finanziario competente presentata in ogni momento e, comunque, non oltre cinque anni dalla definizione del processo, se risulta provata la mancanza, originaria o sopravvenuta, delle condizioni di reddito di cui agli articoli 76 e 92.
 
 Il magistrato puo' disporre la revoca dell'ammissione anche all'esito delle integrazioni richieste ai sensi dell'articolo 96, commi 2 e 3.
 
@@ -1481,7 +2252,99 @@ Non possono essere altresi' liquidate le spese sostenute per le consulenze tecni
 
 Per effetto dell'ammissione al patrocinio e relativamente alle spese a carico della parte ammessa, alcune sono prenotate a debito, altre sono anticipate dall'erario.
 
+2.
+                        
+                            
+                                Sono spese prenotate a debito: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il contributo unificato nel processo civile, nel processo amministrativo e nel processo tributario; (27) 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'imposta di bollo, ai sensi dell'articolo 17, del decreto del Presidente della Repubblica 26 ottobre 1972, n. 642, nel processo contabile; (27) 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    le spese forfettizzate per le notificazioni a richiesta d'ufficio nel processo civile; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    l'imposta di registro ai sensi dell'articolo 59, comma 1, lettere a) e b), del decreto del Presidente della Repubblica 26 aprile 1986, n. 131, nel processo civile e amministrativo; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    l'imposta ipotecaria e catastale ai sensi dell'articolo 16, comma 1, lettera e), del decreto legislativo 31 ottobre 1990, n. 347; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    i diritti di copia.
+
 ((COMMA ABROGATO DAL D.LGS. 31 OTTOBRE 2024, N. 164)). (65) ((95))
+
+4.
+                        
+                            
+                                Sono spese anticipate dall'erario: 
+ 
+                            
+                            
+                                a)
+                                
+                                    gli onorari e le spese dovuti al difensore; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le indennita' e le spese di viaggio spettanti ai magistrati, agli appartenenti agli uffici e agli ufficiali giudiziari per le trasferte relative al compimento di atti del processo fuori dalla sede in cui si svolge, nel processo civile; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    le indennita' e le spese di viaggio spettanti a testimoni, a notai, a consulenti tecnici di parte e ausiliari del magistrato, nonche' le spese sostenute per l'adempimento dell'incarico da parte di questi ultimi; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    le spese per gli strumenti di pubblicita' legale dei provvedimenti del magistrato nel processo civile; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    le spese per il compimento dell'opera non eseguita o per la distruzione di quella compiuta nel processo civile; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    le spese per le notificazioni a richiesta d'ufficio.
 
 Sono prenotati a debito o anticipati ai sensi dell'articolo 33, i diritti e le indennita' di trasferta o le spese di spedizione degli ufficiali giudiziari per le notificazioni e gli atti di esecuzione a
 
@@ -1590,6 +2453,38 @@ L'onorario e le spese spettanti al difensore sono liquidati ai sensi dell'artico
 
 
 
+1.
+                        
+                            
+                                Sino a quando non e' emanata una specifica disciplina sulla difesa d'ufficio, nei processi previsti dalla legge 4 maggio 1983, n. 184, come modificata dalla legge 28 marzo 2001, n. 149, per effetto dell'ammissione al patrocinio, sono pagate dall'erario, se a carico della parte ammessa, le seguenti spese: 
+ 
+                            
+                            
+                                a)
+                                
+                                    gli onorari e le spese spettanti all'avvocato, al consulente tecnico di parte e all'ausiliario del magistrato, e sono liquidati dal magistrato nella misura e con le modalita' rispettivamente previste dagli articoli 82 e 83 ed e' ammessa opposizione ai sensi dell'articolo 84; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le indennita' e le spese di viaggio spettanti ai magistrati, ad appartenenti agli uffici, agli ufficiali giudiziari per le trasferte relative al compimento di atti del processo fuori dalla sede in cui si svolge; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    le indennita' e le spese di viaggio spettanti a testimoni e a notai; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    i diritti e le indennita' di trasferta degli ufficiali giudiziari per le notificazioni a richiesta dell'ufficio e per le notificazioni e gli atti di esecuzione a richiesta di parte. (64) ((97))
+
 La disciplina prevista dalla presente parte del testo unico si applica, inoltre, per i limiti di reddito, per la documentazione e per ogni altra regola procedimentale relativa alla richiesta del beneficio.
 
 ---------------
@@ -1638,6 +2533,70 @@ Lo Stato ha diritto di ripetere le spese nei confronti dei tutori e curatori, ne
 
 Nella procedura fallimentare, che e' la procedura dalla sentenza dichiarativa di fallimento alla chiusura, se tra i beni compresi nel fallimento non vi e' denaro per gli atti richiesti dalla legge, alcune spese sono prenotate a debito, altre sono anticipate dall'erario.
 
+2.
+                        
+                            
+                                Sono spese prenotate a debito: 
+ 
+                            
+                            
+                                a)
+                                
+                                    l'imposta di registro ai sensi dell'articolo 59, comma 1, lettera c), del decreto del Presidente della Repubblica 26 aprile 1986, n. 131; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'imposta ipotecaria e l'imposta catastale ai sensi dell'articolo 16, comma 1, lettera e), del decreto legislativo 31 ottobre 1990, n. 347; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il contributo unificato; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    i diritti di copia.
+
+3.
+                        
+                            
+                                Sono spese anticipate dall'erario: 
+ 
+                            
+                            
+                                a)
+                                
+                                    le spese di spedizione o l'indennita' di trasferta degli ufficiali giudiziari per le notificazioni a richiesta d'ufficio; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le indennita' e le spese di viaggio spettanti a magistrati e ad appartenenti agli uffici per il compimento di atti del processo fuori dalla sede in cui si svolge; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    le spese ed onorari ad ausiliari del magistrato; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    le spese per gli strumenti di pubblicita' dei provvedimenti dell'autorita' giudiziaria. (7)
+
 Le spese prenotate a debito o anticipate sono recuperate, appena vi sono disponibilita' liquide, sulle somme ricavate dalla liquidazione dell'attivo.
 
 Il giudice delegato assicura il tempestivo recupero. 
@@ -1671,6 +2630,49 @@ In caso di revoca della dichiarazione di apertura della liquidazione giudiziale,
 
 
 Nella procedura dell'eredita' giacente attivata d'ufficio alcune spese sono prenotate a debito, altre sono anticipate dall'erario.
+
+2.
+                        
+                            
+                                Sono spese prenotate a debito: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il contributo unificato; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    i diritti di copia.
+
+3.
+                        
+                            
+                                Sono spese anticipate dall'erario: 
+ 
+                            
+                            
+                                a)
+                                
+                                    le spese di spedizione o l'indennita' di trasferta degli ufficiali giudiziari per le notificazioni a richiesta d'ufficio; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le indennita' e le spese di viaggio spettanti a magistrati e ad appartenenti agli uffici per il compimento di atti del processo fuori della sede in cui si svolge; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    le spese per gli strumenti di pubblicita' dei provvedimenti dell'autorita' giudiziaria. ((73))
 
 Il magistrato pone le spese della procedura a carico dell'erede, in caso di accettazione successiva; a carico del curatore, nella qualita', se la procedura si conclude senza che intervenga accettazione.
 
@@ -1756,9 +2758,91 @@ Se l'avente diritto alla restituzione di somme o di valori sequestrati e' ignoto
 
 Nella procedura di vendita di beni sottoposti a sequestro penale, alcune spese sono prenotate a debito, altre sono anticipate dall'erario.
 
+2.
+                        
+                            
+                                Sono spese prenotate a debito:
+ 
+                            
+                            
+                                a)
+                                
+                                    il contributo unificato;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    i diritti di copia.
+
+3.
+                        
+                            
+                                Sono spese anticipate dall'erario:
+ 
+                            
+                            
+                                a)
+                                
+                                    le spese di spedizione o l'indennita' di trasferta degli ufficiali giudiziari per le notificazioni civili a richiesta d'ufficio;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le spese ed onorari agli ausiliari del magistrato;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    l'indennita' di custodia;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    le spese per gli strumenti di pubblicita' dei provvedimenti dell'autorita' giudiziaria.
+
 ## Art. 156. — Spese nella procedura di vendita di beni confiscati
 
 
+
+1.
+                        
+                            
+                                Le spese anticipate dall'erario nella procedura di vendita di beni confiscati sono:
+ 
+                            
+                            
+                                a)
+                                
+                                    le spese di spedizione o l'indennita' di trasferta degli ufficiali giudiziari per le notificazioni civili a richiesta d'ufficio;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le spese ed onorari agli ausiliari del magistrato;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    l'indennita' di custodia;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    le spese per gli strumenti di pubblicita' legale dei provvedimenti del magistrato.
 
 ## - Titolo IV Spese processuali della procedura esecutiva attivata dal concessionario per la riscossione delle entrate iscritte a ruolo
 
@@ -1775,6 +2859,45 @@ L'ufficio presso cui pende il processo attesta, all'esito del processo e su rich
 ## Art. 158. — Spese nel processo in cui e' parte l'amministrazione pubblica ammessa alla prenotazione a debito e recupero delle stesse
 
 
+
+1.
+                        
+                            
+                                Nel processo in cui e' parte l'amministrazione pubblica, sono prenotati a debito, se a carico dell'amministrazione: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il contributo unificato nel processo civile, nel processo amministrativo e nel processo tributario; (27) 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'imposta di bollo nel processo contabile; (27) 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    l'imposta di registro ai sensi dell'articolo 59, comma 1, lettere a) e b), del decreto del Presidente della Repubblica 26 aprile 1986, n. 131, nel processo civile e amministrativo; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    l'imposta ipotecaria e catastale ai sensi dell'articolo 16, comma 1, lettera e), del decreto legislativo 31 ottobre 1990, n. 347; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    le spese forfettizzate per le notificazioni a richiesta d'ufficio nel processo civile.
 
 Sono anticipate dall'erario le indennita' di trasferta o le spese di spedizione degli ufficiali giudiziari per le notificazioni e gli atti di esecuzione a richiesta dell'amministrazione.
 
@@ -1819,6 +2942,31 @@ I pagamenti dell'erario, le prenotazioni a debito, i crediti da recuperare e le 
 ## Art. 161. — Elenco registri
 
 
+
+1.
+                        
+                            
+                                Presso gli uffici che svolgono le relative funzioni sono tenuti i seguenti registri:
+ 
+                            
+                            
+                                a)
+                                
+                                    registro delle spese pagate dall'erario;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    registro delle spese prenotate a debito;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    registro dei crediti da recuperare e delle successive vicende del credito.
 
 ## Art. 162. — Attivita' dell'ufficio
 
@@ -1883,6 +3031,44 @@ La liquidazione delle spese relative alle prestazioni ((di cui al comma 01)) e' 
 ((Ricevuta la richiesta di liquidazione delle spese di cui al comma 1 e verificata la rendicontazione delle prestazioni svolte, il pubblico ministero provvede entro trenta giorni.))
 
 ((Nel corso delle indagini preliminari il decreto di pagamento e' titolo provvisoriamente esecutivo ed e' comunicato al beneficiario. Dopo la conclusione delle indagini e' comunicato alle parti e nuovamente al beneficiario ai fini dell'opposizione.))
+
+3.
+                        
+                            
+                                Avverso il decreto di pagamento e' ammessa opposizione ai sensi dell'articolo 170. 
+ 3.01. ((Il beneficiario emette fattura soltanto a seguito dell'esecutivita' del decreto del pubblico ministero. Il pagamento e' eseguito entro trenta giorni dalla ricezione della fattura.)) 
+ 3.02. ((Se il pagamento e' eseguito successivamente al termine di cui al comma 3.01, al creditore spetta, oltre agli interessi nella misura degli interessi legali di mora, un indennizzo a percentuale sulla somma dovuta calcolato per scaglioni commisurati al ritardo:))
+                                
+                            
+                            
+                                a)
+                                
+                                    
+                                        ((nel caso di ritardo fino a sei mesi: 1 per cento;))
+                                    
+                                
+                            
+                            
+                                b)
+                                
+                                    
+                                        ((nel caso di ritardo superiore a sei mesi e inferiore a un anno: 1,5 per cento;))
+                                    
+                                
+                            
+                            
+                                c)
+                                
+                                    
+                                        ((nel caso di ritardo superiore a un anno e inferiore a due anni: 2 per cento;))
+                                    
+                                
+                            
+                            
+                                d)
+                                
+                                    
+                                        ((nel caso di ritardo superiore a due anni: 2,5 per cento.))
 
 L'importo delle spese relative alle operazioni di intercettazione e' specificamente annotato nel foglio delle notizie di cui all'articolo 280.
 
@@ -1966,6 +3152,67 @@ E' ammesso l'accreditamento sul conto corrente bancario o postale intestato a so
 
 
 
+1.
+                        
+                            
+                                Per ciascun ordine o decreto di pagamento emesso, l'ufficio che dispone il pagamento compila l'apposito modello, con i seguenti dati:
+
+                            
+                            
+                                a)
+                                
+                                    il numero d'iscrizione nel registro delle spese pagate
+dall'erario;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    i dati anagrafici e il codice fiscale del beneficiario se persona fisica, ovvero la denominazione, la sede, il codice fiscale e i dati identificativi del legale rappresentante se persona giuridica o ente;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    gli estremi della fattura qualora il beneficiario sia soggetto all'imposta sul valore aggiunto;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    l'indicazione dell'importo lordo, delle ritenute da operare, dell'ammontare delle imposte dovute e dell'importo netto;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    le coordinate bancarie del conto corrente ovvero il numero di conto corrente postale sul quale effettuare l'accreditamento;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    gli estremi dell'eventuale delega per l'accreditamento, se il conto corrente e' intestato a soggetto diverso dal beneficiario;
+
+                                
+                            
+                            
+                                g)
+                                
+                                    gli estremi dell'eventuale delega per il pagamento a soggetto diverso dal beneficiario;
+
+                                
+                            
+                            
+                                h)
+                                
+                                    il timbro con la data dell'ufficio che dispone il pagamento e la sottoscrizione del funzionario addetto.
+
 Il modello di pagamento e' conforme agli allegati n. 2 e n. 3 del presente testo unico e ha appositi spazi per la quietanza del beneficiario e per l'indicazione degli estremi dell'accreditamento.
 
 Entro un mese dall'emissione dell'ordine o decreto di pagamento, il modello e' trasmesso al competente concessionario in duplice copia, ovvero al competente ufficio postale in unico esemplare, nonche' al beneficiario, per il quale, solo in caso di pagamento in contanti, assume valore di avviso di pagamento. Entro lo stesso termine l'ufficio trasmette copia della documentazione relativa ai singoli modelli di pagamento al funzionario delegato.
@@ -2017,6 +3264,39 @@ Il concessionario allega copia del modello di pagamento al proprio conto giudizi
 
 
 Il concessionario e la filiale di Poste Italiane S.p.a. compilano un prospetto riepilogativo dei pagamenti su apposito modello, conforme agli allegati numeri 4 e 5 del presente testo unico.
+
+2.
+                        
+                            
+                                Il modello, riferito a ciascun ufficio che ha disposto i pagamenti, contiene i seguenti dati:
+ 
+                            
+                            
+                                a)
+                                
+                                    i pagamenti eseguiti nel mese precedente in ordine cronologico;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    i mancati accreditamenti, specificando se gia' risultano come
+pagamenti nei prospetti precedenti;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    i mancati pagamenti in contanti per decorso del termine di decadenza;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    la sottoscrizione del funzionario addetto.
 
 Il modello compilato dal concessionario contiene, inoltre, in corrispondenza di ogni singolo pagamento, l'importo dei compensi trattenuti, la descrizione dei capitoli ed articoli d'entrata ai quali erano destinate le somme utilizzate per effettuare i pagamenti e per l'attribuzione del compenso, il totale di ciascun capitolo e articolo.
 
@@ -2084,6 +3364,31 @@ La misura del compenso e' fissata con decreto del Ministro dell'economia e delle
 
 I rapporti con le Poste Italiane S.p.a. per i pagamenti effettuati sono regolati da convenzione approvata con decreto del Ministero dell'economia e delle finanze di concerto con il Ministero della giustizia.
 
+2.
+                        
+                            
+                                Nella convenzione sono stabiliti, in particolare:
+ 
+                            
+                            
+                                a)
+                                
+                                    i compensi, anche forfettizzati, compresi quelli relativi ai pagamenti effettuati dal 1999;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le modalita' e la cadenza temporale del pagamento dei compensi;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    le penalita' per l'inosservanza degli obblighi.
+
 ## - Capo VI Pagamenti con modalita' telematica
 
 ## Art. 190. — Determinazione delle regole tecniche telematiche
@@ -2146,9 +3451,66 @@ Ai procedimenti pendenti alla data del 30 giugno 2023 si applicano le disposizio
 
 I rapporti tra le rivendite di generi di monopolio e di valori bollati e il Ministero dell'economia e delle finanze sono regolati da apposita convenzione, da approvarsi con decreto del Ministero dell'economia e delle finanze, di concerto con il Ministero della giustizia.
 
+2.
+                        
+                            
+                                Con la convenzione sono stabiliti:
+ 
+                            
+                            
+                                a)
+                                
+                                    i compensi spettanti agli intermediari;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le modalita' operative del versamento e del riversamento delle somme;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    le caratteristiche del contrassegno di cui all'articolo 194, comma 3;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    le penalita' a carico dell'intermediario per l'inosservanza degli obblighi convenzionali.
+
 ## Art. 194. — Ricevuta di versamento
 
 
+
+1.
+                        
+                            
+                                La ricevuta del versamento contiene, a titolo di causale:
+ 
+                            
+                            
+                                a)
+                                
+                                    l'ufficio giudiziario adito;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le generalita' e il codice fiscale dell'attore o ricorrente;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    le generalita' delle altre parti.
 
 In caso di pluralita' di convenuti o resistenti e' indicato per esteso il nominativo del primo dei medesimi recato dall'atto introduttivo del processo ed il numero in cifra dei restanti.
 
@@ -2300,6 +3662,24 @@ Le spese processuali nei casi di ammissione al patrocinio a spese dello Stato so
 ## Art. 208. — Ufficio competente
 
 
+
+1.
+                        
+                            
+                                Se non diversamente stabilito in modo espresso, ai fini delle norme che seguono e di quelle cui si rinvia, l'ufficio incaricato della gestione delle attivita' connesse alla riscossione e' cosi' individuato: 
+ 
+                            
+                            
+                                a)
+                                
+                                    per il processo civile, amministrativo ((...)) e tributario e' quello presso il magistrato, diverso dalla Corte di cassazione, il cui provvedimento e' passato in giudicato o presso il magistrato il cui provvedimento e' divenuto definitivo; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    per il processo penale e' quello presso il giudice dell'esecuzione. (L)
 
 Negli articoli 6, 15, 16, 18, 22, 38, 39, 47, 57 e 59 del decreto legislativo 13 aprile 1999, n. 112, i termini "ente creditore" e "soggetti creditori" non si riferiscono all'ufficio di cui al comma 1.
 
@@ -2858,6 +4238,24 @@ Se il diritto di copia non e' pagato spontaneamente dall'impugnante, il funziona
 ## Art. 273. — Diritto di certificato
 
 
+
+1.
+                        
+                            
+                                Sino all'emanazione del regolamento previsto all'articolo 40, il diritto di certificato e' cosi' regolato: 
+ 
+                            
+                            
+                                a)
+                                
+                                    per ogni certificato richiesto dalle parti, compreso il certificato del casellario giudiziale, quello dei carichi pendenti e quello delle sanzioni amministrative dipendenti da reato, e' dovuto un diritto pari a euro 3,10; (15) (40a) (45) (58) ((75))
+                                    
+                                
+                            
+                            
+                                b)
+                                
+                                    per il certificato del casellario giudiziale, per quello dei carichi pendenti e per quello delle sanzioni amministrative dipendenti da reato, se si richiede il rilascio immediato e si ottiene il certificato nel medesimo giorno della richiesta, e' dovuto un ulteriore diritto di euro 3,10.(15) (40a) (45) (58) ((75))
 
 ---------------
                             AGGIORNAMENTO (15)

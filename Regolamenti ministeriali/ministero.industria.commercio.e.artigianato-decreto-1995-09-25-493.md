@@ -8,8 +8,8 @@ codice_redazionale: 095G0524
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:40Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -33,7 +33,75 @@ Sentito il Ministro dei trasporti;
 
 ## Art. 1. — Mezzi di trasporto
 
+1.
+                    
+                        
+                            I mezzi di trasporto, adibiti alla distribuzione locale degli alimenti surgelati, devono essere muniti di:
+ 
+                        
+                        
+                            a)
+                            
+                                protezione coibente che consenta di mantenere, per tutta la durata del trasporto, la temperatura dei prodotti ai valori stabiliti dall'art. 4 del decreto legislativo 27 febbraio 1992, n. 110, sugli alimenti surgelati;
+
+                            
+                        
+                        
+                            b)
+                            
+                                apparecchiature atte ad uniformare e mantenere le condizioni di temperature prescritte per tutta la durata del trasporto, nonche' a ristabilirle nel piu' breve tempo possibile dopo ogni operazione di carico e scarico;
+
+                            
+                        
+                        
+                            c)
+                            
+                                un termometro facilmente visibile che misuri la temperatura dell'aria interna.
+
+2.
+                    
+                        
+                            I mezzi di trasporto, non adibiti alla distribuzione locale degli alimenti surgelati devono essere muniti di:
+ 
+                        
+                        
+                            a)
+                            
+                                protezione coibente di cui al comma 1, lettera a);
+
+                            
+                        
+                        
+                            b)
+                            
+                                generatore di freddo e strumenti di registrazione automatica della temperatura che misurino ad intervalli regolari non superiori a 20 minuti, la temperatura dell'aria in cui si trovano gli alimenti surgelati;
+
+                            
+                        
+                        
+                            c)
+                            
+                                dispositivi di circolazione dell'aria o comunque sistemi idonei ad uniformare la temperatura interna.
+
 Gli strumenti di misurazione di cui al comma 2, lettera b), sono approvati dalla competente autorita' del Paese dove i mezzi di trasporto sono stati immatricolati; per i mezzi di trasporto immatricolati in Italia l'autorita' competente e' l'amministrazione metrica del Ministero dell'industria, del commercio e dell'artigianato che puo' avvalersi della documentazione prodotta dalle ditte interessate rilasciata da ente od organismo riconosciuto e rintracciabile.
+
+4.
+                    
+                        
+                            I mezzi adibiti al trasporto di alimenti surgelati di cui ai commi 1 e 2 devono rispondere alle norme contenute nell'accordo relativo ai trasporti internazionali delle derrate deperibili ed ai mezzi speciali da usare per tali trasporti (ATP), ratificato con la legge 2 maggio 1977, n. 264, nonche' alle disposizioni del decreto ministeriale 28 febbraio 1984 relativo ai mezzi di trasporto in regime di temperatura controllata. La sigla di riconoscimento dei predetti mezzi o di un loro scomparto, da riscontrare sull'attestato internazionale o nazionale deve essere una delle seguenti:
+ 
+                        
+                        
+                            a)
+                            
+                                FRC, FRF, RRC, per l'attestato internazionale;
+
+                            
+                        
+                        
+                            b)
+                            
+                                FRC, FRF, RRC, CORRC, COFRC, COFRF per l'attestato nazionale.
 
 Prodotti diversi da quelli surgelati possono essere trasportati insieme agli alimenti surgelati a condizione che siano contenuti in involucri protettivi e che, al momento del carico, abbiano una temperatura non superiore a - 18 C.
 
@@ -86,6 +154,53 @@ Le modalita' di campionamento per il controllo della temperatura degli alimenti 
 Gli allegati possono essere modificati o integrati con decreto del Ministro dell'industria, del commercio e dell'artigianato per adeguarli a nuove tecnologie, a prescrizioni comunitarie e raccomandazioni dell'organizzazione internazionale di metrologia legale o a norme europee in materia di strumenti di misura.
 
 ## Art. 5. — Abrogazioni
+
+1.
+                    
+                        
+                            Sono abrogati:
+ 
+                        
+                        
+                            a)
+                            
+                                il decreto ministeriale 15 giugno 1971 concernente l'elenco degli alimenti surgelati;
+
+                            
+                        
+                        
+                            b)
+                            
+                                il decreto ministeriale 15 giugno 1971 concernente i requisiti igienico-sanitari dei locali nei quali si
+effettua la vendita degli alimenti surgelati;
+
+                            
+                        
+                        
+                            c)
+                            
+                                il decreto ministeriale 15 giugno 1971 concernente i controlli alla produzione ed alla vendita per il consumo degli alimenti surgelati e le modalita' da osservare per il loro confezionamento e per l'etichettatura;
+
+                            
+                        
+                        
+                            d)
+                            
+                                il decreto ministeriale 15 giugno 1971 concernente la determinazione dei tempi massimi da impiegare per la surgelazione degli alimenti;
+
+                            
+                        
+                        
+                            e)
+                            
+                                il decreto ministeriale 15 giugno 1971 concernente le norme sul trasporto degli alimenti surgelati;
+
+                            
+                        
+                        
+                            f)
+                            
+                                il decreto ministeriale 29 gennaio 1981 concernente modifiche alla vigente disciplina degli alimenti surgelati.
 
 ## Art. 6. — Entrata in vigore
 

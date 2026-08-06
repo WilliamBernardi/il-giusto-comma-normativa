@@ -8,8 +8,8 @@ codice_redazionale: 004G0007
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:39Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -34,6 +34,31 @@ La revoca dell'autorizzazione alla circolazione di prova e' disposta dall'uffici
 ## Art. 2.
 
 Le imprese di consulenza automobilistica, che intendono svolgere le attivita' relative al rilascio e al rinnovo delle autorizzazioni alla circolazione di prova e quelle relative alla produzione e alla distribuzione delle targhe di prova, presentano apposita domanda all'ufficio provinciale della motorizzazione nel cui ambito territoriale hanno la propria sede.
+
+2.
+                    
+                        
+                            L'ufficio provinciale della motorizzazione accoglie la domanda e consente il collegamento con il centro elaborazione dati della motorizzazione per l'utilizzazione delle procedure informatiche allo scopo predisposte e assegna un quantitativo di moduli in bianco sufficiente a coprire il fabbisogno mensile dell'impresa richiedente, dopo aver verificato che quest'ultima:
+ 
+                        
+                        
+                            a)
+                            
+                                e' abilitata alla procedura di prenotazione telematica denominata «prenotamotorizzazione» alla data della domanda di cui al comma 1;
+
+                            
+                        
+                        
+                            b)
+                            
+                                usufruisce di un collegamento telematico con il centro elaborazione dati della motorizzazione privo di concentratori intermedi;
+
+                            
+                        
+                        
+                            c)
+                            
+                                e' dotata di idonea stampante e di apparecchiatura omologata, ai sensi dell'articolo 2, comma 2, del regolamento, per la stampa delle targhe di prova.
 
 L'impresa di consulenza automobilistica abilitata ai sensi del comma 2 espone, all'esterno dei locali dove ha la sede, l'insegna allegata al presente decreto.
 

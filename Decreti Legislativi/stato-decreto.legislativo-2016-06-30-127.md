@@ -7,8 +7,8 @@ urn: urn:nir:stato:decreto.legislativo:2016-06-30;127
 vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:22Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -77,6 +77,33 @@ Ferma restando l'attribuzione del potere di rappresentanza al suddetto soggetto,
 
 ## Art. 2. — Modifiche al Testo unico delle disposizioni legislative e regolamentari in materia edilizia
 
+1.
+                        
+                            
+                                Al decreto del Presidente della Repubblica 6 giugno 2001, n. 380, sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    all'articolo 5: 
+ 1) al comma 3 nell'alinea le parole «direttamente o tramite conferenza di servizi» sono soppresse; 
+ 2) al comma 3, lettera g), le parole «, fermo restando che, in caso di dissenso manifestato dall'amministrazione preposta alla tutela dei beni culturali, si procede ai sensi del medesimo codice» sono soppresse; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    all'articolo 20: 
+ 1) al comma 3: 
+ a) le parole da «, acquisisce» a «normativa vigente» sono sostituite dalla seguente: «e»; 
+ b) e' aggiunto in fine il seguente periodo «Qualora sia necessario acquisire ulteriori atti di assenso, comunque denominati, resi da amministrazioni diverse, si procede ai sensi degli articoli 14 e seguenti della legge 7 agosto 1990, n. 241»; 
+ 2) il comma 5-bis e' abrogato; 
+ 3) al comma 6 le parole «comma 5-bis» sono sostituite dalle seguenti: «medesimo comma» e le parole «da 14 a 14-ter» sono sostituite dalle seguenti: «14 e seguenti»; 
+ 4) al comma 8 le parole «al comma 9» sono sostituite dalle seguenti: «agli articoli 14 e seguenti della legge 7 agosto 1990, n. 241»; 
+ 5) il comma 9 e' abrogato.
+
 ## Art. 3.
 
 Modifiche alla disciplina dello Sportello unico 
@@ -84,10 +111,92 @@ Modifiche alla disciplina dello Sportello unico
 
 All'articolo 38, comma 3, lettera f), del decreto-legge 25 giugno 2008, n. 112, convertito con modificazioni dalla legge 6 agosto 2008, n. 133, il secondo periodo e' soppresso.
 
+2.
+                        
+                            
+                                All'articolo 7 del decreto del Presidente della Repubblica 7 settembre 2010, n. 160, sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    al comma 2 sono soppresse le parole «ovvero indice una conferenza di servizi ai sensi del comma 3»; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    al comma 3, le parole «puo' indire» sono sostituite dalla seguente «indice» e le parole da «anche su istanza» fino a «discipline regionali» sono soppresse; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il comma 4 e' abrogato; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    al comma 6, le parole «a 14-ter» sono sostituite dalle seguenti «a 14-quinquies».
+
 ## Art. 4. — Modifiche alla disciplina dell'Autorizzazione 
  unica ambientale
 
+1.
+                        
+                            
+                                All'articolo 4 del decreto del Presidente della Repubblica 13 marzo 2013, n. 59: 
+ 
+                            
+                            
+                                a)
+                                
+                                    al comma 4, il secondo periodo e' soppresso; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    al comma 5, l'ultimo periodo e' soppresso.
+
 ## Art. 5. — Modifiche al decreto legislativo 3 aprile 2006, n. 152, recante norme in materia ambientale
+
+1.
+                        
+                            
+                                Al decreto legislativo 3 aprile 2006, n. 152 sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    all'articolo 9, comma 2, le parole «degli articoli 14 e seguenti» sono sostituite dalle seguenti: «dell'articolo 14»; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    all'articolo 29-quater, comma 5, le parole «14, 14-ter, commi da 1 a 3 e da 6 a 9, e 14-quater» sono sostituite dalle seguenti: «14 e 14-ter»; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    all'articolo 25, comma 3, secondo periodo, le parole «istruttoria eventualmente» sono soppresse; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    all'articolo 269, comma 3, primo periodo, le parole «comma 3» sono soppresse.
 
 ## Art. 6. — Disposizioni di coordinamento con la disciplina in materia di autorizzazione paesaggistica
 

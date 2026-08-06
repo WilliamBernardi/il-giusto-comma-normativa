@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Regolamenti di delegificazione
 vigenza_date: 2006-01-01
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:40:24Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -41,6 +41,66 @@ Gli uffici dell'Amministrazione finanziaria, sulla base di criteri selettivi det
 
 ## Art. 2. — Concessioni per l'esercizio delle scommesse
 
+1.
+                        
+                            
+                                Il Ministero delle finanze attribuisce, d'intesa con il Ministero per le politiche agricole, con gara da espletare secondo la normativa comunitaria, le concessioni per l'esercizio delle scommesse sulle corse dei cavalli, a totalizzatore e a quota fissa, a persone fisiche e societa' con idonei e comprovati requisiti anche in ordine alla solidita' finanziaria, sulla base dei seguenti criteri:
+ 
+                            
+                            
+                                a)
+                                
+                                    trasparenza dell'assetto proprietario ed efficienza della gestione dei singoli punti di accettazione delle scommesse;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    potenziamento della rete di raccolta ed accettazione delle scommesse; razionale e bilanciata distribuzione sul territorio secondo parametri programmati e controllabili;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    omogeneita' ed equilibrio della remunerazione stabilita per le varie categorie di concessionari;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    eventuale previsione di scaglioni retributivi decrescenti che consentano maggiori ricavi iniziali per il concessionario in funzione dei costi di avviamento;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    garanzia della liberta' di concorrenza e di mercato mediante la previsione di parametri volti ad impedire l'abuso di posizioni dominanti, determinati tenendo anche conto del numero delle concessioni attribuite a ciascuna persona fisica o societa' e del volume di scommesse raccoglibili da ciascun concessionario;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    previsione di modalita' di controllo centralizzato ed in tempo reale delle scommesse e dei relativi flussi finanziari, anche mediante l'imposizione ai concessionari di obblighi di segnalazione all'Amministrazione finanziaria di scommesse anomale per entita' economica e ripetizione del medesimo pronostico. I concessionari adottano per la gestione delle scommesse strumenti informatici conformi alle specifiche tecniche stabilite con decreto del Ministro delle finanze al fine di assicurarne la compatibilita' con il sistema informativo dell'anagrafe tributaria;
+
+                                
+                            
+                            
+                                g)
+                                
+                                    riserva, nel primo piano di potenziamento della rete di accettazione, di una quota pari al 5 per cento delle concessioni da attribuire con gara in favore di soggetti iscritti all'albo degli allibratori, che abbiano esercitato tale attivita' per un periodo non inferiore a dieci anni;
+
+                                
+                            
+                            
+                                h)
+                                
+                                    durata di sei anni.
+
 Il Ministero delle finanze, di concerto con il Ministero per le politiche agricole, entro il 31 dicembre di ogni anno, pubblica il piano delle concessioni che saranno messe a gara nell'anno successivo.
 
 Le concessioni per l'esercizio delle scommesse sono rinnovabili per una sola volta, fermo restando il rispetto delle prescrizioni di cui al comma 1. La concessione per l'esercizio della scommessa TRIS non e' rinnovabile.
@@ -58,6 +118,38 @@ Il trasferimento della concessione e' consentito previo assenso del Ministero de
 (( COMMA ABROGATO DAL D.L. 14 MARZO 2005, N. 35, CONVERTITO CON MODIFICAZIONI DALLA L. 14 MAGGIO 2005, N. 80 )).
 
 ## Art. 3. — Decadenza e revoca delle concessioni
+
+1.
+                        
+                            
+                                Il Ministero delle finanze, d'intesa con il Ministero per le politiche agricole, con decreto da pubblicare nella Gazzetta Ufficiale, dichiara la decadenza dalla concessione:
+ 
+                            
+                            
+                                a)
+                                
+                                    quando vengono meno i requisiti per l'attribuzione della concessione di cui al presente regolamento e al relativo bando di gara;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    in caso di interruzione dell'attivita' per cause non dipendenti da forza maggiore;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    in particolare, quando il concessionario non rispetta le disposizioni di cui all'articolo 2, comma 8, ovvero accetta scommesse in violazione dei divieti di cui all'articolo 4, comma 4, ed all'articolo 6, comma 3;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    quando nello svolgimento dell'attivita' sono commesse violazioni delle disposizioni del presente regolamento e di quelle di cui ai decreti previsti dall'articolo 4, comma 5, nonche' della normativa tributaria.
 
 Il concessionario nei cui confronti e' stato adottato un provvedimento di decadenza o di revoca non puo' concorrere, ne' direttamente ne' per interposta persona, nei tre anni successivi alla data di pubblicazione del detto provvedimento, alla attribuzione di nuove concessioni di cui all'articolo 2.
 
@@ -86,6 +178,38 @@ Il programma ufficiale delle corse costituisce il documento che fa testo agli ef
 Tutta l'attivita' ippica e' riferita all'orario ufficiale in vigore su tutto il territorio nazionale, al quale sono sincronizzati i sistemi automatizzati impiegati per la gestione delle scommesse e per le edizioni di informazioni ad esse connesse. La data e l'ora di emissione delle ricevute delle scommesse e dei documenti risultano sugli stessi con riferimento all'orario ufficiale.
 
 ## Art. 6. — Accettazione delle scommesse
+
+1.
+                        
+                            
+                                Le scommesse sono effettuate esclusivamente:
+ 
+                            
+                            
+                                a)
+                                
+                                    presso gli sportelli all'interno degli ippodromi limitatamente alle scommesse relative alle corse che ivi si svolgono;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    presso i picchetti degli allibratori situati all'interno degli ippodromi;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    presso le agenzie ippiche;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    presso le ricevitorie, limitatamente alla scommessa TRIS.
 
 I gestori degli ippodromi mettono gratuitamente a disposizione degli allibratori i collegamenti necessari per il funzionamento degli strumenti informatici per la gestione delle scommesse.
 
@@ -123,6 +247,31 @@ Nel caso di mancato ritiro della ricevuta da parte dello scommettitore, la stess
 
 ## Art. 9. — R i m b o r s i
 
+1.
+                        
+                            
+                                Lo scommettitore ha diritto al rimborso:
+ 
+                            
+                            
+                                a)
+                                
+                                    quando la scommessa, per qualsiasi motivo, non perviene al totalizzatore nazionale entro il termine di accettazione, compreso il caso di avaria ai sistemi informatici che non consenta la totalizzazione o il riscontro delle scommesse;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    se la scommessa non e' considerata valida ai sensi dell'articolo 7, o nel caso previsto dall'articolo 10, comma 1;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    negli ulteriori casi stabiliti con il decreto di cui all'articolo 4, comma 5.
+
 Gli scommettitori sono informati del diritto al rimborso con apposito comunicato affisso nei luoghi dove le scommesse sono accettate.
 
 L'importo rimborsato, la data e l'orario di effettuazione del rimborso risultano da annotazioni apposte sulla ricevuta della scommessa.
@@ -151,6 +300,80 @@ La commissione e' composta da un magistrato amministrativo con qualifica non inf
 
 Con decreto del Ministro delle finanze, di concerto con il Ministro per le politiche agricole, sono stabilite le quote di prelievo sull'introito lordo delle scommesse sulle corse dei cavalli da destinare all'UNIRE, al fine di garantire l'espletamento dei suoi compiti istituzionali, il montepremi ed il finanziamento delle provvidenze per l'allevamento, secondo programmi da sottoporre all'approvazione del Ministro per le politiche agricole, sentito il Ministro delle finanze.
 
+2.
+                        
+                            
+                                L'UNIRE destina annualmente quote adeguate dei proventi derivanti dalle scommesse, al netto delle imposte e delle spese per l'accettazione e la raccolta delle scommesse medesime per l'impianto e l'esercizio del totalizzatore nazionale, nonche' per l'attivita' delle commissioni di cui all'articolo 1, comma 2, compresi i compensi da riconoscere ai componenti delle stesse, al perseguimento delle proprie finalita' con particolare riferimento a:
+ 
+                            
+                            
+                                a)
+                                
+                                    sostegno dell'allevamento e dell'impiego del cavallo italiano da sella e da corsa e della selezione degli stessi;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    incentivazione di piani occupazionali, volti a favorire l'avviamento al lavoro e la formazione professionale, con particolare riguardo alla verifica dell'applicazione dei contratti collettivi nazionali del settore ed all'introduzione di meccanismi di disincentivazione del ricorso al lavoro irregolare ed all'evasione contributiva;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    iniziative previdenziali e assistenziali in favore dei fantini, dei guidatori, degli allenatori e degli artieri;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    finanziamento degli ippodromi per la gestione ed il miglioramento degli impianti, per i servizi relativi alla organizzazione delle corse e remunerazione per l'utilizzo delle immagini delle corse ai fini della raccolta esterna delle scommesse; ((4))
+                                    
+                                
+                            
+                            
+                                e)
+                                
+                                    costituzione e miglioramento di centri di allenamento ippico polifunzionale e di allevamento;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    realizzazione di strutture veterinarie interne ed esterne agli ippodromi;
+
+                                
+                            
+                            
+                                g)
+                                
+                                    ricerca scientifica nel settore dell'allevamento, dell'allenamento e dell'antidoping;
+
+                                
+                            
+                            
+                                h)
+                                
+                                    controllo della regolarita' di tutte le attivita' relative alle corse;
+
+                                
+                            
+                            
+                                i)
+                                
+                                    promozione dell'attivita' ippica;
+
+                                
+                            
+                            
+                                l)
+                                
+                                    formazione e qualificazione professionale degli addetti al settore.
+
 ---------------
                             AGGIORNAMENTO (4)
                              La L. 23 dicembre 2005, n. 266, ha disposto (con l'art. 1, comma 425) che il comma 2, lettera d) di cui al presente articolo, "si interpreta nel senso che la remunerazione per l'utilizzo delle immagini delle corse ai fini della raccolta delle scommesse ha ad oggetto i servizi di ripresa televisiva, con esclusione di ogni diritto relativo all'utilizzo delle immagini, che resta di titolarita' dell'UNIRE. Ciascun affidatario delle concessioni previste dal regolamento di cui al decreto del Presidente della Repubblica 8 aprile 1998, n. 169, o dal regolamento di cui al decreto del Ministro delle finanze 2 giugno 1998, n. 174, non puo' esercitare la propria attivita' mediante l'apertura di sportelli distaccati presso sedi diverse dai locali nei quali si effettua gia' la raccolta delle scommesse".
@@ -166,6 +389,38 @@ Il Ministro delle comunicazioni attribuisce la concessione per l'utilizzo del se
 L'accettazione di scommesse relative alle corse dei cavalli costituisce presupposto per l'applicazione dell'imposta unica di cui alla legge 22 dicembre 1951, n. 1379, e successive modificazioni.
 
 ## Art. 15. — Soggetti passivi
+
+1.
+                        
+                            
+                                Sono soggetti all'imposta unica di cui all'articolo 14:
+ 
+                            
+                            
+                                a)
+                                
+                                    i gestori degli ippodromi, relativamente alle scommesse accettate all'interno degli ippodromi medesimi;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    i titolari delle agenzie ippiche, per le scommesse dalle stesse accettate;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il concessionario, per le scommesse TRIS raccolte presso le ricevitorie;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    gli allibratori, per le scommesse a quota fissa dagli stessi accettate.
 
 ## Art. 16. — Base imponibile
 

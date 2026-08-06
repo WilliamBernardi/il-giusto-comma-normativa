@@ -7,8 +7,8 @@ urn: urn:nir:stato:decreto.legislativo:2016-06-15;124
 vigente: true
 source: normattiva-opendata
 collection: Leggi delega e relativi provvedimenti delegati
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:41:14Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -25,6 +25,39 @@ Acquisiti i pareri delle competenti Commissioni della Camera dei deputati e del 
 Sulla proposta del Presidente del Consiglio dei ministri e del Ministro dell'ambiente e della tutela del territorio e del mare, di concerto con i Ministri degli affari esteri e della cooperazione internazionale, della giustizia, dell'economia e delle finanze, dello sviluppo economico, della salute e per gli affari regionali e le autonomie;
 
 ## Art. 1. — Modifiche all'articolo 19 del decreto legislativo 4 marzo 2014, n. 27
+
+1.
+                    
+                        
+                            All'articolo 19 del decreto legislativo 4 marzo 2014, n. 27, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 1, le parole: «e dal Ministero dell'ambiente e della tutela del territorio e del mare», sono sostituite dalle seguenti: «, dal Ministero dell'ambiente e della tutela del territorio e del mare e dal Ministero della salute»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 1, dopo le parole: «e successive modificazioni» sono inserite le seguenti: «nelle more del riordino delle stesse ai sensi dell'articolo 10 della legge 7 agosto 2015, n. 124,»; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                al comma 1, dopo le parole: «nonche' dell'ISPRA» sono inserite le seguenti: «e dell'Istituto Superiore di Sanita' (ISS).»; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                dopo il comma 1 e' aggiunto il seguente: 
+ «1-bis. I Ministeri dello sviluppo economico, dell'ambiente e della tutela del territorio e del mare e della salute svolgono le funzioni di cui al comma 1 sulla base di uno specifico protocollo d'intesa, in coordinamento con il "Comitato tecnico di Coordinamento" di cui all'articolo 7 del decreto del Ministro della salute del 22 novembre 2007, pubblicato nella Gazzetta Ufficiale n. 12 del 15 gennaio 2008, nonche' in raccordo con le regioni e province autonome, ai fini del coordinamento tra le rispettive articolazioni organizzative, sulla base dei vigenti accordi in materia per gli ambiti di competenza.».
 
 Il protocollo d'intesa di cui all'articolo 19, comma 1-bis, del decreto legislativo 4 marzo 2014, n. 27, introdotto dal comma 1, lettera d), del presente articolo, e' sottoscritto entro sei mesi dalla data di entrata in vigore del presente decreto.
 

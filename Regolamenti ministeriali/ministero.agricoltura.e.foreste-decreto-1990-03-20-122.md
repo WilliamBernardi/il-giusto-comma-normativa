@@ -8,8 +8,8 @@ codice_redazionale: 090G0163
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:39Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -63,6 +63,31 @@ Il produttore, dal momento della presentazione della domanda per l'ottenimento d
 
 ## Art. 5.
 
+1.
+                    
+                        
+                            Sono esclusi dal beneficio dei premi i produttori che non adempiano agli obblighi previsti dalla regolamentazione comunitaria e nazionale e che in particolare:
+ 
+                        
+                        
+                            a)
+                            
+                                non rispettino gli impegni sottoscritti in applicazione delle disposizioni di cui all'art. 2 del regolamento CEE n. 1357/80 e all'art. 1, paragrafo 2, del regolamento CEE n. 1244/82;
+
+                            
+                        
+                        
+                            b)
+                            
+                                detengano nell'azienda, cosi' come definita dall'art. 5, paragrafo 3, del regolamento CEE n. 1357/80, anche vacche delle razze di cui all'allegato del medesimo regolamento n. 1357/80 e che non rientrino nella definizione di cui al precedente art. 3;
+
+                            
+                        
+                        
+                            c)
+                            
+                                siano titolari dei quantitativi di riferimento di cui all'art. 5-quater del regolamento CEE n. 804/68;
+
 Tuttavia, i soggetti di cui alla lettera c) del precedente comma possono beneficiare dei premi solo se la domanda e' accompagnata da una dichiarazione sostitutiva di atto notorio, redatta ai sensi dell'art. 4 della legge 4 gennaio 1968, n. 15, nella quale il produttore rinuncia per il perido di dodici mesi successivi a quello della presentazione della domanda ad usufruire del diritto ad effettuare consegne di latte. In tal caso copia della dichiarazione sostitutiva di atto notorio deve essere inviata al Ministero dell'agricoltura e delle foreste - Direzione generale della tutela economica dei prodotti agricoli - Via XX Settembre n. 20 - c.a.p. 00187 Roma.
 
 ## Art. 6.
@@ -70,6 +95,24 @@ Tuttavia, i soggetti di cui alla lettera c) del precedente comma possono benefic
 Il bestiame per il quale vengono richiesti i premi deve essere identificato.
 
 L'identificazione deve essere effettuata dagli organismi di controllo, entro settantacinque giorni a decorrere dalla data di presentazione della domanda, mediante marca fissata con tre perni passanti ad una piastra di bloccaggio munita di appendice, da applicarsi al padiglione auricolare dell'animale.
+
+3.
+                    
+                        
+                            La marca di cui al precedente comma dovra' riportare le seguenti indicazioni:
+ 
+                        
+                        
+                            a)
+                            
+                                sigla della provincia interessata;
+
+                            
+                        
+                        
+                            b)
+                            
+                                numero progressivo con l'utilizzazione di una serie di cinque cifre al completamento della quale si ripartira' dal numero 1 seguito da una lettera dall'alfabeto.
 
 Per il bestiame iscritto al libro genealogico o per quello gia' identificato ai sensi del precedente comma 2, e' sufficiente che in domanda vengano indicati, rispettivamente, il numero di iscrizione attribuito ad ogni singolo capo con relativa razza di appartenenza e/o il numero di identificazione delle marche utilizzate.
 
@@ -82,6 +125,24 @@ L'organismo di controllo, deve annotare su apposito registro i dati anagrafici n
 Entro il termine del 15 marzo di ogni anno, gli organismi di controllo comunicano all'A.I.M.A. ed al Ministero dell'agricoltura e delle foreste il numero delle vacche per le quali sono state accettate le domande per l'ottenimento dei premi.
 
 ## Art. 9.
+
+1.
+                    
+                        
+                            Entro il termine improrogabile di cento giorni dalla scadenza della data di presentazione della domanda, gli organismi di controllo inviano all'A.I.M.A. in triplice copia:
+ 
+                        
+                        
+                            a)
+                            
+                                l'elenco delle domande definite con atto di liquidazione, compilato secondo lo schema allegato 2;
+
+                            
+                        
+                        
+                            b)
+                            
+                                l'elenco delle domande respinte, compilato secondo lo schema allegato 3.
 
 Sulla base degli elenchi di cui al paragrafo precedente, lettera a), l'A.I.M.A. provvedera' ad effettuare i pagamenti nel piu' breve tempo possibile e comunque non oltre i termini previsti all'art. 3, paragrafo 1, del regolamento CEE n. 1244/82.
 

@@ -8,8 +8,8 @@ codice_redazionale: 097G0175
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:39Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -144,6 +144,52 @@ Il Servizio opera in posizione di autonomia e risponde esclusivamente al Ministr
 
 ## Art. 2. — Competenze
 
+1.
+                    
+                        
+                            Ai fini dell'esercizio delle funzioni e dell'assolvimento dei compiti di cui all'art. 20, comma 2, del decreto legislativo 3 febbraio 1993, n. 29, e successive modificazioni e integrazioni, il Servizio svolge le seguenti attivita':
+ 
+                        
+                        
+                            a)
+                            
+                                verifica lo stato di attuazione dei programmi ed accerta la rispondenza dei risultati dell'attivita' amministrativa alle prescrizioni e agli obiettivi stabiliti dalle disposizioni normative e dalle direttive generali emanate dal Ministro dei trasporti e della navigazione;
+
+                            
+                        
+                        
+                            b)
+                            
+                                verifica l'imparzialita', il buon andamento ed il rispetto degli standards di efficienza, efficacia ed economicita' dell'azione amministrativa, nonche' la congruita' dei termini previsti per la conclusione dei procedimenti o delle fasi dei procedimenti amministrativi di competenza del Ministero dei trasporti e della navigazione, ai fini della loro periodica revisione e del migliore coordinamento con l'attivita' delle altre amministrazioni pubbliche;
+
+                            
+                        
+                        
+                            c)
+                            
+                                verifica, mediante valutazioni comparative dei costi e dei rendimenti, la correttezza ed economicita' della gestione delle risorse, anche in ordine alla erogazione dei trattamenti economici accessori, attribuiti sulla base della normativa di settore e delle direttive del Ministro dei trasporti e della navigazione, ed a tale fine fissa preventivamente, a norma del successivo articolo 3, i parametri e gli indici di valutazione della produttivita' dell'azione amministrativa ed i programmi del controllo;
+
+                            
+                        
+                        
+                            d)
+                            
+                                riferisce almeno trimestralmente al Ministro dei trasporti e della navigazione ed ai competenti direttori generali sui risultati della propria attivita' e sugli eventuali ostacoli incontrati nell'esercizio delle proprie competenze, segnalando gli scostamenti e le irregolarita' eventualmente riscontrati e proponendo, previa individuazione delle cause del mancato raggiungimento dei risultati e degli obiettivi prefissati, i possibili correttivi, anche con riferimento a modifiche procedurali e organizzativostrutturali ritenute necessarie;
+
+                            
+                        
+                        
+                            e)
+                            
+                                effettua la rilevazione annuale del numero complessivo dei procedimenti che nell'anno in considerazione non si sono conclusi entro i termini stabiliti dal regolamento del Ministro dei trasporti e della navigazione a norma dell'articolo 2 della legge 7 agosto 1990, n. 241, e ne riferisce al Ministro dei trasporti e della navigazione, anche ai fini della eventuale applicazione delle misure di cui agli articoli 20, commi 9 e 10, e 59 del decreto legislativo 3 febbraio 1993, n. 29, e successive modificazioni e integrazioni;
+
+                            
+                        
+                        
+                            f)
+                            
+                                fornisce alla Corte dei conti gli elementi da questa richiesti a norma dell'articolo 3, comma 8, della legge 14 gennaio 1994, n. 20.
+
 ## Art. 3. — Parametri e indici di riferimento
 
 Il Servizio, tenendo conto delle direttive e delle indicazioni del Ministro dei trasporti e della navigazione e sentiti i responsabili degli uffici dirigenziali generali dell'Amininistrazione, predispone, almeno annualmente, i parametri e gli indici di riferimento del controllo e delle valutazioni di cui al precedente articolo 2.
@@ -160,6 +206,38 @@ Il Servizio ha accesso ai documenti amministrativi; puo' chiedere, sulle questio
 
 ## Art. 5. — Provvedimenti del Ministro dei trasporti
  e della navigazione
+
+1.
+                    
+                        
+                            Il Ministro dei trasporti e della navigazione, periodicamente e comunque ogni anno, sulla base degli elementi e delle valutazioni fornite dal Servizio:
+ 
+                        
+                        
+                            a)
+                            
+                                verifica, ai sensi dell'articolo 14, comma 1, del decreto legislativo 3 febbraio 1993, n. 29, e successive modificazioni e integrazioni, l'osservanza degli indirizzi impartiti, delle priorita' indicate e dei provvedimenti adottati;
+
+                            
+                        
+                        
+                            b)
+                            
+                                modifica o integra gli indirizzi, le priorita' o i provvedimenti stessi;
+
+                            
+                        
+                        
+                            c)
+                            
+                                emana le direttive per l'attivita' del Servizio e per assicurare la collaborazione dell'Amministrazione all'attivita' di quest'ultimo;
+
+                            
+                        
+                        
+                            d)
+                            
+                                accerta la sussistenza di eventuali responsabilita' dei dirigenti ai sensi dell'articolo 20, comma 1, del decreto legislativo 3 febbraio 1993, n. 29, e successive modificazioni ed integrazioni.
 
 ## Art. 6. — Organizzazione del Servizio
 

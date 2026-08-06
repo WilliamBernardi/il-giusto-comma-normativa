@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: DL proroghe
 vigenza_date: 2005-08-23
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:39:27Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO-LEGGE
@@ -48,6 +48,31 @@ Le disposizioni previste dall'articolo 15 del decreto-legge 24 giugno 2003, n. 1
                          Il D.L. 30 giugno 2005, n. 115, convertito con modificazioni dalla L. 17 agosto 2005, n. 168, ha disposto (con l'art. 8, comma 2) che "Le disposizioni previste dall'articolo 2 del decreto-legge 24 giugno 2004, n. 158, convertito, con modificazioni, dalla legge 27 luglio 2004, n. 188, sono prorogate al 30 giugno 2006."
 
 ## Art. 3.
+
+1.
+                    
+                        
+                            Al decreto legislativo 30 giugno 2003, n. 196, concernente il codice in materia di protezione dei dati personali, sono apportate le seguenti modifiche:
+ 
+                        
+                        
+                            a)
+                            
+                                all'articolo 180, comma 1, le parole: «30 giugno 2004» sono sostituite dalle seguenti: «31 dicembre 2004»;
+
+                            
+                        
+                        
+                            b)
+                            
+                                all'articolo 180, comma 3, le parole: «entro un anno dall'entrata in vigore del codice» sono sostituite dalle seguenti: «entro il 31 marzo 2005»;
+
+                            
+                        
+                        
+                            c)
+                            
+                                all'articolo 181, comma 1, lettera a), le parole: «30 settembre 2004» sono sostituite dalle seguenti: «31 dicembre 2005».
 
 ## Art. 4.
 

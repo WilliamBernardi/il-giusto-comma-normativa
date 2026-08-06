@@ -8,8 +8,8 @@ codice_redazionale: 001G0091
 vigente: true
 source: normattiva-opendata
 collection: DPR
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:48:00Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -87,6 +87,38 @@ Le eventuali somme ricavate dalla cessione di cui al comma 1 dovranno essere ver
 Le proposte di scarto di documenti sottratti alla libera consultabilita' ai sensi dell'articolo 8 del decreto legislativo 30 luglio 1999, n. 281, sono inoltrate, per i provvedimenti di competenza al Ministero dell'interno, il quale si pronuncia entro novanta giorni. Trascorso tale termine senza che il Ministero dell'interno si sia pronunciato, l'amministrazione puo' disporre la cessione degli atti sottratti alla libera consultabilita'.
 
 ## Art. 10. — Abrogazioni
+
+1.
+                        
+                            
+                                Ai sensi dell'articolo 20, comma 4, della legge 15 marzo 1997, n. 59, dalla data di entrata in vigore del presente regolamento, sono abrogati:
+ 
+                            
+                            
+                                a)
+                                
+                                    il decreto del Presidente della Repubblica 18 aprile 1994, n. 344;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'articolo 69, commi 2o, 3o e 4o del regio decreto 2 ottobre 1911, n. 1163;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    l'articolo 16 del regio decreto-legge 10 agosto 1928, n. 2034, come modificato dal regio decreto-legge 12 febbraio 1930, n. 84, e convertito dalla legge 17 aprile 1930, n. 578;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    l'articolo 3, comma 4, del decreto del Presidente della Repubblica 30 dicembre 1975, n. 854.
 
 Restano abrogati gli articoli 25 e 27 del decreto del Presidente della Repubblica 30 settembre 1963, n. 1409.
 

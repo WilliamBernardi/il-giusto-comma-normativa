@@ -7,8 +7,8 @@ urn: urn:nir:ministero.salute:decreto:2024-10-23;172
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:40Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -27,6 +27,38 @@ Udito il parere del Consiglio di Stato, espresso dalla sezione consultiva per gl
 Le disposizioni di cui al presente regolamento si applicano all'Ordine degli psicologi e alle sue articolazioni territoriali e nazionale.
 
 ## Art. 2. — Composizione ed elezione dei consigli regionali e provinciali dell'ordine degli psicologi
+
+1.
+                    
+                        
+                            I consigli regionali e provinciali dell'Ordine sono formati da un numero di componenti iscritti alle sezioni A e B dei rispettivi albi pari a: 
+ 
+                        
+                        
+                            a)
+                            
+                                sette, se il numero complessivo degli iscritti non supera cento; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                nove, se il numero complessivo degli iscritti supera cento ma non cinquecento; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                undici, se il numero complessivo degli iscritti supera cinquecento ma non millecinquecento; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                quindici, se il numero complessivo degli iscritti supera millecinquecento.
 
 I consigli sono composti secondo quanto previsto nella tabella di cui all'allegato 1, che fa parte integrante del presente regolamento e durano in carica quattro anni dalla data della proclamazione. I consiglieri non possono essere eletti per piu' di due volte consecutive, tenendo conto nel computo, in fase di prima applicazione del presente regolamento, anche degli ultimi due mandati.
 
@@ -163,6 +195,38 @@ Il consigliere di diritto che e' venuto a mancare per qualsiasi causa e' sostitu
 I consiglieri elettivi che vengono a mancare per qualsiasi causa sono sostituiti dai candidati, compresi nella graduatoria, che, per minor numero di voti ricevuti, seguono immediatamente nell'ordine.
 
 ## Art. 12. — Elezioni delle cariche istituzionali del Consiglio nazionale dell'ordine degli psicologi
+
+1.
+                    
+                        
+                            Sono cariche istituzionali del Consiglio nazionale dell'Ordine: 
+ 
+                        
+                        
+                            a)
+                            
+                                il Presidente; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                il Vice Presidente; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                il Segretario; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                il Tesoriere.
 
 Le elezioni delle cariche, di cui al comma 1, si tengono ogni quattro anni durante la seduta di insediamento del Consiglio. Le votazioni si svolgono contemporaneamente per ciascuno dei predetti organi e risulta eletto il candidato che abbia raggiunto la maggioranza assoluta dei voti del Consiglio. Dal terzo scrutinio in poi e' sufficiente la maggioranza relativa.
 

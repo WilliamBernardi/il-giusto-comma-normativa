@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
 vigenza_date: 2026-04-25
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:33Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -68,6 +68,44 @@ E' denominata "strada di servizio" la strada affiancata ad una strada principale
 
 Per le esigenze di carattere amministrativo e con riferimento all'uso e alle tipologie dei collegamenti svolti, , le strade, come classificate ai sensi del comma 2, si distinguono in strade "statali", "regionali", "provinciali", "comunali", secondo le indicazioni che seguono. Enti proprietari delle dette strade sono rispettivamente lo Stato, la regione, la provincia, il comune.
 PERIODO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66.
+
+6.
+                        
+                            
+                                Le strade extraurbane di cui al comma 2, lettere B, C ed F, si distinguono in: 
+ A - Statali, quando: 
+                            
+                            
+                                a)
+                                
+                                    costituiscono le grandi direttrici del traffico nazionale;
+                                
+                            
+                            
+                                b)
+                                
+                                    congiungono la rete viabile principale dello Stato con quelle degli Stati limitrofi;
+                                
+                            
+                            
+                                c)
+                                
+                                    congiungono tra loro i capoluoghi di regione ovvero i capoluoghi di provincia situati in regioni diverse, ovvero costituiscono diretti ed importanti collegamenti tra strade statali;
+                                
+                            
+                            
+                                d)
+                                
+                                    allacciano alla rete delle strade statali i porti marittimi, gli aeroporti, i centri di particolare importanza industriale, turistica e climatica;
+                                
+                            
+                            
+                                e)
+                                
+                                    servono traffici interregionali o presentano particolare interesse per l'economia di vaste zone del territorio nazionale. 
+ B - Regionali, quando allacciano i capoluoghi di provincia della stessa regione tra loro o con il capoluogo di regione ovvero allacciano i capoluoghi di provincia o i comuni con la rete statale se cio' sia particolarmente rilevante per ragioni di carattere industriale, commerciale, agricolo, turistico e climatico. 
+ C - Provinciali, quando allacciano al capoluogo di provincia capoluoghi dei singoli comuni della rispettiva provincia o piu' capoluoghi di comuni tra loro ovvero quando allacciano alla rete statale o regionale i capoluoghi di comune, se cio' sia particolarmente rilevante per ragioni di carattere industriale, commerciale, agricolo, turistico e climatico. 
+ D - Comunali, quando congiungono il capoluogo del comune con le sue frazioni o le frazioni fra loro, ovvero congiungono il capoluogo con la stazione ferroviaria, tranviaria o automobilistica, con un aeroporto o porto marittimo, lacuale o fluviale, con interporti o nodi di scambio intermodale o con le localita' che sono sede di essenziali servizi interessanti la collettivita' comunale. Ai fini del presente codice, le strade "vicinali" sono assimilate alle strade comunali.
 
 Le strade urbane di cui al comma 2, lettere D , E e F, sono sempre comunali quando siano situate nell'interno dei centri abitati, eccettuati i tratti interni di strade statali, regionali o provinciali che attraversano centri abitati con popolazione non superiore a diecimila abitanti. PERIODO SOPPRESSO DAL D.LGS. 10 SETTEMBRE 1993, N. 360. PERIODO SOPPRESSO DAL D.LGS. 10 SETTEMBRE 1993, N. 360.
 
@@ -185,6 +223,98 @@ Il prefetto stabilisce, anno per anno, le opportune prescrizioni per il transito
 
 COMMA ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66.
 
+4.
+                        
+                            
+                                L'ente proprietario della strada puo', con l'ordinanza di cui all'art. 5, comma 3: 
+ 
+                            
+                            
+                                a)
+                                
+                                    disporre, per il tempo strettamente necessario, la sospensione della circolazione di tutte o di alcune categorie di utenti per motivi di incolumita' pubblica ovvero per urgenti e improrogabili motivi attinenti alla tutela del patrimonio stradale o ad esigenze di carattere tecnico; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    stabilire obblighi, divieti e limitazioni di carattere temporaneo o permanente per ciascuna strada o tratto di essa, o per determinate categorie di utenti, in relazione alle esigenze della circolazione o alle caratteristiche strutturali delle strade, con particolare riguardo a quelle che attraversano siti inseriti nella lista del patrimonio mondiale dell'Organizzazione delle Nazioni Unite per l'educazione, la scienza e la cultura (UNESCO); 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    riservare corsie, anche protette, a determinate categorie di veicoli, anche con guida di rotaie, o a veicoli destinati a determinati usi; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    vietare o limitare o subordinare al pagamento di una somma il parcheggio o la sosta dei veicoli; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    prescrivere che i veicoli siano muniti ovvero abbiano a bordo mezzi antisdrucciolevoli o pneumatici invernali idonei alla marcia su neve o su ghiaccio; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    vietare temporaneamente la sosta su strade o tratti di strade per esigenze di carattere tecnico o di pulizia, rendendo noto tale divieto con i prescritti segnali non meno di quarantotto ore prima ed eventualmente con altri mezzi appropriati. 
+
+                                
+                            
+                            
+                                f-bis)
+                                
+                                    prescrivere al di fuori dei centri abitati, in previsione di manifestazioni atmosferiche nevose di rilevante intensita', l'utilizzo esclusivo di pneumatici invernali, qualora non sia possibile garantire adeguate condizioni di sicurezza per la circolazione stradale e per l'incolumita' delle persone mediante il ricorso a soluzioni alternative.
+
+5.
+                        
+                            
+                                Le ordinanze di cui al comma 4 sono emanate: 
+ 
+                            
+                            
+                                a)
+                                
+                                    per le strade e le autostrade statali, dal capo dell'ufficio periferico dell'A.N.A.S. competente per territorio; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    per le strade regionali, dal presidente della giunta; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    per le strade provinciali, dal presidente della provincia; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    per le strade comunali e le strade vicinali, dal sindaco; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    LETTERA ABROGATA DAL D.LGS. 15 MARZO 2010, N. 66.
+
 Per le strade e le autostrade in concessione, i poteri dell'ente proprietario della strada sono esercitati dal concessionario, previa comunicazione all'ente concedente. In caso di urgenza, i relativi provvedimenti possono essere adottati anche senza la preventiva comunicazione al concedente, che puo' revocare gli stessi.
 
 Nell'ambito degli aereoporti aperti al traffico aereo civile e nelle aree portuali, la competenza a disciplinare la circolazione delle strade interne aperte all'uso pubblico e' riservata rispettivamente al direttore della circoscrizione aereoportuale competente per territorio e al comandante di porto capo di circondario ((o al Presidente dell'Autorita' di sistema portuale, ove istituita)), i quali vi provvedono a mezzo di ordinanze, in conformita' alle norme del presente codice. Nell'ambito degli aereoporti ove le aerostazioni siano affidate in gestione a enti o societa', il potere di ordinanza viene esercitato dal direttore della circoscrizione aeroportuale competente per territorio, sentiti gli enti e le societa' interessati.
@@ -263,6 +393,102 @@ Nelle ipotesi di violazione del comma 12 l'agente accertatore intima al conducen
 
 ## Art. 7. — Regolamentazione della circolazione nei centri abitati
 
+1.
+                        
+                            
+                                Nei centri abitati i comuni possono, con ordinanza del sindaco: 
+ 
+                            
+                            
+                                a)
+                                
+                                    adottare i provvedimenti indicati nell'art. 6, commi 1, 2 e 4; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    limitare la circolazione di tutte o di alcune categorie di veicoli nei casi in cui risulti necessario, congiuntamente, nel rispetto dei criteri di proporzionalita' e adeguatezza, ridurre le emissioni derivanti dal traffico veicolare in relazione ai livelli delle sostanze inquinanti nell'aria nonche' tutelare il patrimonio culturale, tenuto conto, comunque, delle esigenze di mobilita' e di tutela della produzione. Con decreto del Ministro delle infrastrutture e dei trasporti, di concerto con il Ministro dell'ambiente e della sicurezza energetica e con il Ministro della cultura, previa intesa in sede di Conferenza unificata di cui all'articolo 8 del decreto legislativo 28 agosto 1997, n. 281, sono individuati le tipologie dei comuni che possono avvalersi della facolta' di cui alla presente lettera, le categorie dei veicoli non soggetti alle predette limitazioni, i parametri di qualita' dell'aria ai quali e' subordinata l'attivazione delle limitazioni consentite dalla presente disposizione nonche' i livelli minimi di servizio pubblico da assicurare comunque nelle aree oggetto delle citate limitazioni; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    stabilire la precedenza su determinate strade o tratti di strade, ovvero in una determinata intersezione, in relazione alla classificazione di cui all'art. 2, e, quando la intensita' o la sicurezza del traffico lo richiedano, prescrivere ai conducenti, prima di immettersi su una determinata strada, l'obbligo di arrestarsi all'intersezione e di dare la precedenza a chi circola su quest'ultima; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    riservare limitati spazi alla sosta, a carattere permanente o temporaneo, ovvero anche solo per determinati periodi, giorni e orari: 
+ 1) dei veicoli degli organi di polizia stradale di cui all'articolo 12, dei vigili del fuoco e dei servizi di soccorso; 
+ 2) dei veicoli adibiti al servizio di persone con disabilita', munite del contrassegno di cui all'articolo 381, comma 2, del regolamento; 
+ 3) dei veicoli al servizio delle donne in stato di gravidanza o di genitori con un bambino di eta' non superiore a due anni, munite di contrassegno speciale, denominato «permesso rosa»; 
+ 4) dei veicoli elettrici o alla ricarica di tali veicoli; 
+ 5) dei veicoli, per la salita e la discesa dei passeggeri o per il carico e lo scarico delle cose, in prossimita' di stazioni ferroviarie, aeroporti, porti, capilinea del trasporto pubblico e altri luoghi di interscambio o di attrazione di flussi rilevanti; 
+ 6) dei veicoli adibiti a servizi di linea per lo stazionamento ai capilinea; 
+ 7) dei veicoli adibiti al trasporto scolastico nelle ore stabilite; 
+ 7-bis) ((dei veicoli adibiti al trasporto valori, in prossimita' di banche, uffici postali o altri obiettivi sensibili)). 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    stabilire aree nelle quali e' autorizzato il parcheggio dei veicoli; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    stabilire, previa deliberazione della giunta, fasce di sosta laterale e parcheggi nei quali la sosta dei veicoli e' subordinata al pagamento di una somma di denaro; con decreto del Ministro delle infrastrutture e dei trasporti sono individuati le modalita' di riscossione del pagamento e, in particolare, le caratteristiche, le modalita' costruttive e i criteri di installazione e di manutenzione dei dispositivi di controllo della durata della sosta, le categorie dei veicoli esentati nonche', previa intesa in sede di Conferenza unificata di cui all'articolo 8 del decreto legislativo 28 agosto 1997, n. 281, i limiti massimi delle tariffe; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    prescrivere orari e riservare spazi per i veicoli di categoria N, ai sensi della lettera c) del comma 2 dell'articolo 47, utilizzati per il carico e lo scarico di merci; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    istituire le aree attrezzate riservate alla sosta e al parcheggio delle autocaravan di cui all'art. 185; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    riservare strade o singole corsie alla circolazione dei veicoli adibiti a servizi pubblici di trasporto, al fine di favorire la mobilita' urbana. 
+
+                                
+                            
+                            
+                                i-bis)
+                                
+                                    consentire su determinate strade a senso unico di marcia, ove il limite massimo di velocita' sia inferiore o uguale a 30 km/h, la circolazione dei velocipedi in senso opposto, attraverso la realizzazione di corsie ciclabili per doppio senso ciclabile, nei soli casi in cui non sia possibile l'inserimento di piste ciclabili; 
+
+                                
+                            
+                            
+                                i-ter)
+                                
+                                    LETTERA ABROGATA DALLA L. 25 NOVEMBRE 2024, N. 177. 
+
+                                
+                            
+                            
+                                i-quater)
+                                
+                                    istituire la zona di attestamento ciclabile, in determinate intersezioni semaforizzate su strade con una corsia per senso di marcia e con velocita' consentita inferiore o uguale a 50 km/h e nelle quali e' presente una pista ciclabile laterale, di norma a destra, o una corsia ciclabile.
+
 I divieti di sosta si intendono imposti dalle ore 8 alle ore 20, salvo che sia diversamente indicato nel relativo segnale.
 
 Per i tratti di strade non comunali che attraversano centri abitati, i provvedimenti indicati nell'art. 6, commi 1 e 2, sono di competenza del prefetto e quelli indicati nello stesso articolo, comma 4, lettera a), sono di competenza dell'ente proprietario della strada. I provvedimenti indicati nello stesso comma 4, lettere b), c), d), e) ed f) sono di competenza del comune, che li adotta sentito il parere dell'ente proprietario della strada.
@@ -305,7 +531,58 @@ Chiunque viola gli altri obblighi, divieti o limitazioni previsti nel presente a
 
 La sanzione di cui al comma 14, secondo periodo, si applica anche in caso di violazione della limitazione della circolazione nella zona tariffata di cui al comma 9, consistente nel mancato pagamento dell'intera somma prevista. Al fine di consentire il recupero della tariffa non corrisposta, in tali casi, la sanzione di cui al comma 14, secondo periodo, e' maggiorata di una somma corrispondente alla tariffa dell'intero periodo tariffato per il giorno di calendario in cui avviene l'accertamento. La sanzione e la relativa maggiorazione per il recupero della tariffa si applicano per ogni periodo di ventiquattro ore in cui si protrae la violazione.
 
+14-ter.
+                        
+                            
+                                Nel caso di violazione della limitazione della circolazione nella zona tariffata di cui al comma 9 per insufficiente pagamento della somma prevista, alla sanzione di cui al comma 14, primo periodo, si applica la seguente disciplina: 
+ 
+                            
+                            
+                                a)
+                                
+                                    nel caso in cui l'accertamento della violazione avvenga entro il 10 per cento del tempo per cui e' stata corrisposta la tariffa, non si applica alcuna sanzione; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    nel caso in cui l'accertamento della violazione avvenga oltre il 10 per cento ed entro il 50 per cento del tempo per cui e' stata corrisposta la tariffa, si applica la sanzione di cui al comma 14, secondo periodo, ridotta nella misura del 50 per cento; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    nel caso in cui l'accertamento della violazione avvenga oltre il 50 per cento del tempo per cui e' stata corrisposta la tariffa, si applica la sanzione di cui al comma 14, secondo periodo.
+
 Allo scopo di consentire il recupero della tariffa non corrisposta, nei casi indicati al comma 14-ter, lettere b) e c), le sanzioni previste sono maggiorate di un importo corrispondente alla tariffa non corrisposta. Le sanzioni e le relative maggiorazioni si applicano per ogni periodo di ventiquattro ore in cui si protrae la violazione.
+
+15.
+                        
+                            
+                                Le sanzioni di cui al comma 14, primo periodo, si applicano anche in caso di violazione della sosta tariffata di cui al comma 1, lettera f). In tali casi, al fine di consentire il recupero della tariffa non corrisposta, quando la violazione consiste nel mancato pagamento dell'intera somma prevista, la sanzione di cui al comma 14, primo periodo, e' maggiorata di un importo pari alla tariffa corrispondente all'intero periodo tariffato nel giorno di calendario in cui avviene l'accertamento. Fuori dei casi di cui al primo e al secondo periodo, quando la violazione della sosta tariffata consiste nel pagamento insufficiente, si applica la seguente disciplina: 
+ 
+                            
+                            
+                                a)
+                                
+                                    nel caso in cui l'accertamento della violazione avvenga entro il 10 per cento del tempo per cui e' stata corrisposta la tariffa, non si applica alcuna sanzione; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    nel caso in cui l'accertamento della violazione avvenga oltre il 10 per cento ed entro il 50 per cento del tempo per cui e' stata corrisposta la tariffa, si applica la sanzione di cui al comma 14, primo periodo, ridotta nella misura del 50 per cento; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    nel caso in cui l'accertamento della violazione avvenga oltre il 50 per cento del tempo per cui e' stata corrisposta la tariffa, si applica la sanzione di cui al comma 14, primo periodo. 
+ 15.1. Allo scopo di consentire il recupero della tariffa non corrisposta, nei casi indicati dal comma 15, lettere b) e c), le sanzioni previste sono maggiorate di un importo corrispondente all'intero periodo tariffato nel giorno di calendario in cui avviene l'accertamento. Quando la sosta senza pagamento o con pagamento insufficiente si protragga oltre le ore 24 del giorno dell'accertamento, le sanzioni e le relative maggiorazioni si applicano per ogni periodo di ventiquattro ore in cui si protrae la violazione. Nei casi in cui la sosta tariffata sia anche limitata nella durata massima, si applicano le sanzioni di cui al comma 14, quarto periodo, secondo le disposizioni e nei modi indicati nel quinto periodo del medesimo comma.
 
 ((Salvo che il fatto costituisca reato, coloro che esercitano senza autorizzazione, anche avvalendosi di altre persone, ovvero determinano altri ad esercitare senza autorizzazione l'attivita' di parcheggiatore o guardiamacchine sono puniti con la sanzione amministrativa del pagamento di una somma da euro 769 ad euro 3.095. Se il soggetto e' gia' stato sanzionato per la medesima violazione con provvedimento definitivo, la sanzione amministrativa pecuniaria e' raddoppiata. Salvo che il fatto costituisca piu' grave reato, se nell'attivita' sono impiegati minori ovvero se il soggetto gia' sanzionato con provvedimento definitivo ai sensi del secondo periodo pone ulteriormente in essere le medesime condotte, si applica la pena dell'arresto da otto mesi a un anno e sei mesi e dell'ammenda da 3.000 a 8.000 euro. E' sempre disposta la confisca delle somme percepite, secondo le modalita' indicate al titolo VI, capo I, sezione II)).
 
@@ -550,18 +827,281 @@ All'accertamento del reato consegue la sanzione amministrativa accessoria della 
 
 E' eccezionale il veicolo che nella propria configurazione di marcia superi, per specifiche esigenze funzionali, i limiti di sagoma o massa stabiliti negli articoli 61 e 62.
 
+2.
+                        
+                            
+                                E' considerato trasporto in condizioni di eccezionalita': 
+ 
+                            
+                            
+                                a)
+                                
+                                    il trasporto di una o piu' cose indivisibili che, per le loro dimensioni, determinano eccedenza rispetto ai limiti di sagoma stabiliti dall'art. 61, ma sempre nel rispetto dei limiti di massa stabiliti nell'art. 62; insieme con le cose indivisibili possono essere trasportate anche altre cose non eccedenti per dimensioni i limiti dell'art. 61, sempreche' non vengano superati i limiti di massa stabiliti dall'art. 62; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il trasporto, che ecceda congiuntamente i limiti fissati dagli articoli 61 e 62, di blocchi di pietra naturale, di elementi prefabbricati compositi ed apparecchiature industriali complesse per l'edilizia, di prodotti siderurgici coils e laminati grezzi, eseguito con veicoli eccezionali, che puo' essere effettuato integrando il carico con gli stessi generi merceologici autorizzati, e comunque in numero non superiore a sei unita', fino al completamento della massa eccezionale complessiva posseduta dall'autoveicolo o dal complesso di veicoli; qualora siano superati i limiti di cui all'articolo 62, ma nel rispetto dell'articolo 61, il carico puo' essere completato, con generi della stessa natura merceologica, per occupare l'intera superficie utile del piano di carico del veicolo o del complesso di veicoli, nell'osservanza dell'articolo 164 e della massa eccezionale a disposizione, fatta eccezione per gli elementi prefabbricati compositi e le apparecchiature industriali complesse per l'edilizia per i quali si applica sempre il limite delle sei unita'. In entrambi i casi la predetta massa complessiva non puo' essere superiore a 38 tonnellate se si tratta di autoveicoli isolati a tre assi, a 48 tonnellate se si tratta di autoveicoli isolati a quattro assi, a 86 tonnellate se si tratta di complessi di veicoli a sei assi, a 108 tonnellate se si tratta di complessi di veicoli a otto assi. Entro i suddetti limiti di massa complessiva, il trasporto puo' essere effettuato con autoveicoli o complessi di autoveicoli isolati aventi un numero di assi superiore a quello indicato. Nel caso di trasporto eccezionale per massa complessiva fino a 108 tonnellate effettuato mediante complessi di veicoli a otto o piu' assi, con il decreto di cui al comma 10-bis sono stabilite le specifiche tecniche e le modalita' indispensabili per il rilascio della relativa autorizzazione. Fermo quanto previsto dal comma 10-bis, i richiamati limiti di massa possono essere superati nel solo caso in cui sia trasportato un unico pezzo indivisibile;
+
 Ove i veicoli di cui al comma 2, lettera b), per l'effettuazione delle attivita' ivi previste, compiano percorsi ripetitivi con sagome di carico sempre simili, l'autorizzazione alla circolazione e' concessa dall'ente proprietario previo pagamento di un indennizzo forfettario pari a 1, 5, 2 e 3 volte gli importi rispettivamente dovuti per i medesimi veicoli isolati a tre e quattro assi e le combinazioni a sei o piu' assi, da corrispondere contestualmente alla tassa di possesso e per la stessa durata.
 L'autorizzazione per la percorrenza di strade di tipo "A" e' comunque subordinata al pagamento delle tariffe prescritte dalle societa' autostradali. I proventi dei citati indennizzi affluiscono in un apposito capitolo dello stato di previsione dell'entrata del bilancio dello Stato e sono assegnati agli enti proprietari delle strade in analogia a quanto previsto dall'articolo 34 per i veicoli classificati mezzi d'opera. Ai veicoli ed ai trasporti di cui sopra sono altresi' applicabili le sanzioni di cui al comma 5 dell'articolo 34, aumentate di due volte, e ai commi 21 e 22 del presente articolo.
+
+3.
+                        
+                            
+                                E' considerato trasporto in condizioni di eccezionalita' anche quello effettuato con veicoli: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il cui carico indivisibile sporge posteriormente oltre la sagoma del veicolo di piu' di 3/10 della lunghezza del veicolo stesso; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    che, pur avendo un carico indivisibile sporgente posteriormente meno di 3/10, hanno lunghezza, compreso il carico, superiore alla sagoma limite in lunghezza propria di ciascuna categoria di veicoli; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il cui carico indivisibile sporge anteriormente oltre la sagoma del veicolo; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    isolati o costituenti autotreno ovvero autoarticolati, purche' il carico non sporga anteriormente dal semirimorchio, caratterizzati in modo permanente da particolari attrezzature risultanti dalle rispettive carte di circolazione, destinati esclusivamente al trasporto di veicoli che eccedono i limiti previsti dall'art. 61; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    isolati o costituenti autotreni ovvero autoarticolati dotati di blocchi d'angolo di tipo normalizzato allorche' trasportino esclusivamente contenitori o casse mobili di tipo unificato o trainino rimorchi o semirimorchi utilizzati in operazioni di trasporto intermodale, per cui vengono superate le dimensioni o le masse stabilite rispettivamente dall'articolo 61 e dall'art. 62; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    mezzi d'opera definiti all'art. 54, comma 1, lettera n), quando eccedono i limiti di massa stabiliti dall'art. 62. 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    con carrozzeria ad altezza variabile che effettuano trasporti di animali vivi. 
+
+                                
+                            
+                            
+                                g-bis)
+                                
+                                    che trasportano balle o rotoli di paglia e fieno; 
+
+                                
+                            
+                            
+                                g-ter)
+                                
+                                    isolati o complessi di veicoli, adibiti al trasporto di macchine operatrici e di macchine agricole;
 
 Si intendono per cose indivisibili, ai fini delle presenti norme, quelle per le quali la riduzione delle dimensioni o delle masse, entro i limiti degli articoli 61 o 62, puo' recare danni o compromettere la funzionalita' delle cose ovvero pregiudicare la sicurezza del trasporto.
 
 I veicoli eccezionali possono essere utilizzati solo dalle aziende che esercitano ai sensi di legge l'attivita' del trasporto eccezionale ovvero in uso proprio per necessita' inerenti l'attivita' aziendale; l'immatricolazione degli stessi veicoli potra' avvenire solo a nome e nella disponibilita' delle predette aziende.
 
+6.
+                        
+                            
+                                I trasporti ed i veicoli eccezionali sono soggetti a specifica autorizzazione alla circolazione, rilasciata dall'ente proprietario o concessionario per le autostrade, strade statali e militari e dalle regioni per la rimanente rete viaria, salvo quanto stabilito al comma 2, lettera b). Non sono soggetti ad autorizzazione i veicoli: 
+ 
+                            
+                            
+                                a)
+                                
+                                    di cui al comma 3, lettera d), quando ancorche' per effetto del carico non eccedano in altezza 4,20 m e non eccedano in lunghezza di oltre il 12 %, con i limiti stabiliti dall'articolo 61; tale eccedenza puo' essere anteriore e posteriore, oppure soltanto posteriore, per i veicoli isolati o costituenti autotreno, e soltanto posteriore per gli autoarticolati, a condizione che chi esegue il trasporto verifichi che nel percorso siano comprese esclusivamente strade o tratti di strada aventi le caratteristiche indicate nell'articolo 167, comma 4; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    di cui al comma 3, lettera g), lettera g-bis) e lettera g-ter, quando non eccedano l'altezza di 4,30 m con il carico e le altre dimensioni stabilite dall'articolo 61 o le masse stabilite dall'articolo 62, a condizione che chi esegue il trasporto verifichi che nel percorso siano comprese esclusivamente strade o tratti di strada aventi le caratteristiche indicate nell'articolo 167, comma 4; 
+
+                                
+                            
+                            
+                                b-bis)
+                                
+                                    di cui al comma 3, lettera e), quando, ancorche' per effetto del carico, non eccedano l'altezza di 4,30 m. e non eccedano in lunghezza di oltre il 12 per cento i limiti stabiliti dall'articolo 61, a condizione che siano rispettati gli altri limiti stabiliti dagli articoli 61 e 62 e che chi esegue il trasporto verifichi che nel percorso siano compresi esclusivamente strade o tratti di strada aventi le caratteristiche indicate nell'articolo 167, comma 4.
+
+7.
+                        
+                            
+                                I veicoli di cui all'art. 54, comma 1, lettera n), classificati mezzi d'opera e che eccedono i limiti di massa stabiliti nell'articolo 62, non sono soggetti ad autorizzazione alla circolazione a condizione che: 
+ 
+                            
+                            
+                                a)
+                                
+                                    non superino i limiti di massa indicati nel comma 8 e comunque i limiti dimensionali dell'art. 61; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    circolino nelle strade o in tratti di strade che nell'archivio di cui all'art. 226 risultino transitabili per detti mezzi, fermo restando quanto stabilito dal comma 4 dello stesso art. 226; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    da parte di chi esegue il trasporto sia verificato che lungo il percorso non esistano limitazioni di massa totale a pieno carico o per asse segnalate dai prescritti cartelli; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    per essi sia stato corrisposto l'indennizzo di usura di cui all'art. 34. 
+ Qualora non siano rispettate le condizioni di cui alle lettere a) , b) e c) i suddetti mezzi devono richiedere l'apposita autorizzazione prevista per tutti gli altri trasporti eccezionali.
+
+8.
+                        
+                            
+                                La massa massima complessiva a pieno carico dei mezzi d'opera, purche' l'asse piu' caricato non superi le 13 t, non puo' eccedere: 
+ 
+                            
+                            
+                                a)
+                                
+                                    veicoli a motore isolati: 
+ - due assi: 20 t; 
+ - tre assi: 33 t; 
+ - quattro o piu' assi, con due assi anteriori direzionali: 40 t; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    complessi di veicoli: 
+ - quattro assi: 44 t; 
+ - cinque o piu' assi: 56 t; 
+ - cinque o piu' assi, per il trasporto di calcestruzzo in betoniera: 54 t.
+
 L'autorizzazione e' rilasciata o volta per volta o per piu' transiti o per determinati periodi di tempo nei limiti della massa massima tecnicamente ammissibile. Nel provvedimento di autorizzazione possono essere imposti percorsi prestabiliti ed un servizio di scorta tecnica, secondo le modalita' e nei casi stabiliti dal regolamento.
 Qualora il transito del veicolo eccezionale o del trasporto in condizioni di eccezionalita' imponga la chiusura totale della strada con l'approntamento di itinerari alternativi, la scorta tecnica deve richiedere l'intervento degli organi di polizia stradale competenti per territorio che, se le circostanze lo consentono, possono autorizzare il personale della scorta tecnica stessa a coadiuvare il personale di polizia o ad eseguire direttamente, in luogo di esso, le necessarie operazioni, secondo le modalita' stabilite nel regolamento.
 
+9-bis.
+                        
+                            
+                                Entro sessanta giorni dalla data di entrata in vigore della presente disposizione, il Governo, con regolamento adottato ai sensi dell'articolo 17, comma 1, della legge 23 agosto 1988, n. 400, e successive modificazioni, modifica il regolamento di esecuzione e di attuazione del nuovo codice della strada, di cui al decreto del Presidente della Repubblica 16 dicembre 1992, n. 495, prevedendo che: 
+ 
+                            
+                            
+                                a)
+                                
+                                    per i trasporti eccezionali su gomma sia sufficiente prevedere la trasmissione, per via telematica, della prescritta richiesta di autorizzazione, corredata della necessaria documentazione, all'ente proprietario o concessionario per le autostrade, strade statali e militari, e alle regioni per la rimanente rete viaria, almeno quindici giorni prima della data fissata per il viaggio e le autorizzazioni devono essere rilasciate entro quindici giorni dalla loro presentazione; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le autorizzazioni periodiche di cui all'articolo 13 del citato regolamento siano valide per un numero indefinito di viaggi con validita' annuale per la circolazione a carico e a vuoto dei convogli indicati sull'autorizzazione; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    le autorizzazioni multiple di cui al medesimo articolo 13 siano valide per un numero definito di viaggi da effettuarsi entro sei mesi dalla data del rilascio; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    le autorizzazioni singole di cui al medesimo articolo 13 siano valide per un unico viaggio da effettuarsi entro tre mesi dalla data di rilascio; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    per le autorizzazioni di tipo periodico non e' prevista l'indicazione della tipologia e della natura della merce trasportata; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    le disposizioni contenute all'articolo 13, comma 5, non siano vincolate alla invariabilita' della natura del materiale e della tipologia degli elementi trasportati; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    i trasporti di beni della medesima tipologia ripetuti nel tempo siano soggetti all'autorizzazione periodica prevista dall'articolo 13, come modificato ai sensi del presente comma, e che questa sia rilasciata con le modalita' semplificate di cui alla lettera a) del presente comma; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    tutti i tipi di autorizzazioni, anche con validita' scaduta, siano rinnovabili su domanda che deve essere presentata, in carta semplice, per non piu' di tre volte, per un periodo di validita' non superiore a tre anni, quando tutti i dati, riferiti sia al veicolo che al suo carico, ed i percorsi stradali siano rimasti invariati; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    nelle domande relative alle autorizzazioni di tipo singolo o multiplo, possano essere indicati, con annotazione a parte, fino ad un massimo di cinque veicoli costituenti riserva di quelli scelti per il trasporto, pari a cinque sia per il veicolo trattore che per il veicolo rimorchio o semirimorchio e siano ammesse tutte le combinazioni possibili tra i trattori ed i rimorchi o semirimorchi anche incrociate.
+
 L'autorizzazione puo' essere data solo quando sia compatibile con la conservazione delle sovrastrutture stradali, con la stabilita' dei manufatti e con la sicurezza della circolazione.
 All'autorizzazione non si applicano le disposizioni dell'articolo 20 della legge 7 agosto 1990, n. 241. In essa sono indicate le prescrizioni nei riguardi della sicurezza stradale. Se il trasporto eccezionale e' causa di maggiore usura della strada in relazione al tipo di veicolo, alla distribuzione del carico sugli assi e al periodo di tempo o al numero dei transiti per i quali e' richiesta l'autorizzazione, deve altresi' essere determinato l'ammontare dell'indennizzo, dovuto all'ente proprietario della strada, con le modalita' previste dal comma 17. L'autorizzazione e' comunque subordinata al pagamento delle spese relative agli eventuali accertamenti tecnici preventivi e alla organizzazione del traffico eventualmente necessaria per l'effettuazione del trasporto nonche' alle opere di rafforzamento necessarie. Ai limiti dimensionali stabiliti dall'autorizzazione non concorrono le eventuali eccedenze derivanti dagli organi di fissaggio ed ancoraggio del carico.
+
+10-bis.
+                        
+                            
+                                Fermo quanto previsto dal comma 9-bis, con decreto del Ministro delle infrastrutture e della mobilita' sostenibili, da adottare entro il 30 aprile 2022, previo parere del Consiglio superiore dei lavori pubblici, sentita l'Agenzia nazionale per la sicurezza delle ferrovie e delle infrastrutture stradali e autostradali e previa intesa in sede di Conferenza unificata di cui all'articolo 8 del decreto legislativo 28 agosto 1997, n. 281, sono adottate apposite linee guida finalizzate ad assicurare l'omogeneita' della classificazione e gestione del rischio, nonche' della valutazione della compatibilita' dei trasporti in condizioni di eccezionalita' con la conservazione delle sovrastrutture stradali, con la stabilita' dei manufatti e con la sicurezza della circolazione. In particolare, le linee guida di cui al primo periodo definiscono: 
+ 
+                            
+                            
+                                a)
+                                
+                                    le modalita' di verifica della compatibilita' del trasporto in condizioni di eccezionalita' con la conservazione delle sovrastrutture stradali, con la stabilita' dei manufatti e con la sicurezza della circolazione, in coerenza con quanto previsto dalle linee guida di cui all'articolo 14 del decreto-legge 28 settembre 2018, n. 109, convertito, con modificazioni, dalla legge 16 novembre 2018, n. 130; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le modalita' di rilascio dell'autorizzazione per il trasporto in condizioni di eccezionalita' per massa complessiva fino a 108 tonnellate effettuato mediante complessi di veicoli a otto o piu' assi di cui al comma 2, lettera b), nonche' per i trasporti in condizioni di eccezionalita' di un unico pezzo indivisibile eccedente i limiti di massa previsti dalla predetta lettera b), ivi comprese: 
+ 1) le specifiche attivita' di verifica preventiva delle condizioni delle sovrastrutture stradali e della stabilita' dei manufatti, interessati dal trasporto in condizioni di eccezionalita', che l'ente e le regioni di cui al comma 6 sono tenuti ad effettuare, anche in considerazione del numero e della frequenza dei trasporti in condizioni di eccezionalita', prima del rilascio dell'autorizzazione; 
+ 2) le specifiche modalita' di verifica della compatibilita' del trasporto in condizioni di eccezionalita' con la conservazione delle sovrastrutture stradali e con la stabilita' dei manufatti; 
+ 3) le specifiche modalita' di monitoraggio e controllo delle sovrastrutture stradali e dei manufatti, interessati dal trasporto in condizioni di eccezionalita', differenziate in considerazione del numero e della frequenza dei trasporti in condizioni di eccezionalita'; 
+ 4) le specifiche modalita' di transito del trasporto eccezionale. 
+
+                                
+                            
+                            
+                                b-bis)
+                                
+                                    la disciplina transitoria da applicare, nelle more dell'effettuazione delle verifiche di cui alle lettere a) o b), ivi comprese le eventuali misure, anche di natura organizzativa o gestionale, di mitigazione del rischio applicabili, comunque, non oltre il 30 settembre 2023. (177) (181)(185) ((191))
 
 L'autorizzazione alla circolazione non e' prescritta per i veicoli eccezionali di cui al comma 1 quando circolano senza superare nessuno dei limiti stabiliti dagli articoli 61 e 62 e quando garantiscono il rispetto della iscrizione nella fascia di ingombro prevista dal regolamento.
 
@@ -699,6 +1239,45 @@ Le disposizioni del presente articolo non si applicano alle macchine agricole ec
 
 ## Art. 11. — Servizi di polizia stradale
 
+1.
+                        
+                            
+                                Costituiscono servizi di polizia stradale: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la prevenzione e l'accertamento delle violazioni in materia di circolazione stradale; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la rilevazione degli incidenti stradali; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    la predisposizione e l'esecuzione dei servizi diretti a regolare il traffico; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    la scorta per la sicurezza della circolazione; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    la tutela e il controllo sull'uso della strada.
+
 Gli organi di polizia stradale concorrono, altresi', alle operazioni di soccorso automobilistico e stradale in genere. Possono, inoltre, collaborare all'effettuazione di rilevazioni per studi sul traffico.
 
 Ai servizi di polizia stradale provvede il Ministero dell'interno, salve le attribuzioni dei comuni per quanto concerne i centri abitati. Al Ministero dell'interno compete, altresi', il coordinamento dei servizi di polizia stradale da chiunque espletati.
@@ -707,7 +1286,113 @@ Gli interessati possono chiedere agli organi di polizia di cui all'art. 12 le in
 
 ## Art. 12. — Espletamento dei servizi di polizia stradale
 
+1.
+                        
+                            
+                                L'espletamento dei servizi di polizia stradale previsti dal presente codice spetta: 
+ 
+                            
+                            
+                                a)
+                                
+                                    in via principale alla specialita' Polizia Stradale della Polizia di Stato; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    alla Polizia di Stato; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    all'Arma dei carabinieri; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    al Corpo della guardia di finanza; 
+
+                                
+                            
+                            
+                                d-bis)
+                                
+                                    ai Corpi e ai servizi di polizia provinciale, nell'ambito del territorio di competenza; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    ai Corpi e ai servizi di polizia municipale, nell'ambito del territorio di competenza; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    ai funzionari del Ministero dell'interno addetti al servizio di polizia stradale. 
+
+                                
+                            
+                            
+                                f-bis)
+                                
+                                    al Corpo di polizia penitenziaria e al Corpo forestale dello Stato, in relazione ai compiti di istituto.
+
 L'espletamento dei servizi di cui all'art. 11, comma 1, lettere a) e b), spetta anche ai rimanenti ufficiali e agenti di polizia giudiziaria indicati nell'art. 57, commi 1 e 2, del codice di procedura penale.
+
+3.
+                        
+                            
+                                La prevenzione e l'accertamento delle violazioni in materia di circolazione stradale e la tutela e il controllo sull'uso delle strade possono, inoltre, essere effettuati, previo superamento di un esame di qualificazione secondo quanto stabilito dal regolamento di esecuzione: 
+ 
+                            
+                            
+                                a)
+                                
+                                    dal personale dell'Ispettorato generale per la circolazione e la sicurezza stradale, dell'Amministrazione centrale e periferica del Ministero delle infrastrutture e dei trasporti, del Dipartimento per i trasporti terrestri appartenente al Ministero dei trasporti e dal personale dell'A.N.A.S. ((, nonche' dal personale, con compiti ispettivi o di vigilanza sulle infrastrutture stradali o autostradali, dell'Agenzia nazionale per la sicurezza delle ferrovie e delle infrastrutture stradali e autostradali)); 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    dal personale degli uffici competenti in materia di viabilita' delle regioni, delle province e dei comuni, limitatamente alle violazioni commesse sulle strade di proprieta' degli enti da cui dipendono; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    dai dipendenti dello Stato, delle province e dei comuni aventi la qualifica o le funzioni di cantoniere, limitatamente alle violazioni commesse sulle strade o sui tratti di strade affidate alla loro sorveglianza; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    dal personale dell'ente ferrovie dello Stato e delle ferrovie e tramvie in concessione, che espletano mansioni ispettive o di vigilanza, nell'esercizio delle proprie funzioni e limitatamente alle violazioni commesse nell'ambito dei passaggi a livello dell'amministrazione di appartenenza; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    dal personale delle circoscrizioni aeroportuali dipendenti dal Ministero dei trasporti, nell'ambito delle aree di cui all'art. 6, comma 7. 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    dai militari del Corpo delle capitanerie di porto, dipendenti dal Ministero della marina mercantile, nell'ambito delle aree di cui all'articolo 6, comma 7.
 
 I servizi di scorta per la sicurezza della circolazione, nonche' i conseguenti servizi diretti a regolare il traffico, di cui all'articolo 11, comma 1, lettere c) e d), possono inoltre essere effettuati da personale abilitato a svolgere scorte tecniche ai veicoli eccezionali e ai trasporti in condizione di eccezionalita', limitatamente ai percorsi autorizzati con il rispetto delle prescrizioni imposte dagli enti proprietari delle strade nei provvedimenti di autorizzazione o di quelle richieste dagli altri organi di polizia stradale di cui al comma 1.
 
@@ -758,13 +1443,132 @@ Ai fini dell'attuazione delle incombenze di cui al presente articolo, l'Ispettor
 
 ## Art. 14. — Poteri e compiti degli enti proprietari delle strade
 
+1.
+                        
+                            
+                                Gli enti proprietari delle strade, allo scopo di garantire la sicurezza e la fluidita' della circolazione, provvedono: 
+ 
+                            
+                            
+                                a)
+                                
+                                    alla manutenzione, gestione e pulizia delle strade, delle loro pertinenze e arredo, nonche' delle attrezzature, impianti e servizi; 
 
+                                
+                            
+                            
+                                b)
+                                
+                                    al controllo tecnico dell'efficienza delle strade e relative pertinenze; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    alla apposizione e manutenzione della segnaletica prescritta.
+
+2.
+                        
+                            
+                                Gli enti proprietari provvedono, inoltre: 
+ 
+                            
+                            
+                                a)
+                                
+                                    al rilascio delle autorizzazioni e delle concessioni di cui al presente titolo; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    alla segnalazione agli organi di polizia delle violazioni alle disposizioni di cui al presente titolo e alle altre norme ad esso attinenti, nonche' alle prescrizioni contenute nelle autorizzazioni e nelle concessioni.
+
+((2-bis. Gli enti proprietari delle strade provvedono altresi', in caso di manutenzione straordinaria della sede stradale, a realizzare percorsi ciclabili adiacenti purche' realizzati in conformita' ai programmi pluriennali degli enti locali, salvo comprovati problemi di sicurezza))
 
 Per le strade in concessione i poteri e i compiti dell'ente proprietario della strada previsti dal presente codice sono esercitati dal concessionario, salvo che sia diversamente stabilito.
 
 Per le strade vicinali di cui all'art. 2, comma 7, i poteri dell'ente proprietario previsti dal presente codice sono esercitati dal comune.
 
 ## Art. 15. — Atti vietati
+
+1.
+                        
+                            
+                                Su tutte le strade e loro pertinenze e' vietato: 
+ 
+                            
+                            
+                                a)
+                                
+                                    danneggiare in qualsiasi modo le opere, le piantagioni e gli impianti che ad esse appartengono, alterarne la forma ed invadere od occupare la piattaforma e le pertinenze o creare comunque stati di pericolo per la circolazione; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    danneggiare, spostare, rimuovere o imbrattare la segnaletica stradale ed ogni altro manufatto ad essa attinente; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    impedire il libero deflusso delle acque nei fossi laterali e nelle relative opere di raccolta e di scarico; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    impedire il libero deflusso delle acque che si scaricano sui terreni sottostanti; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    far circolare bestiame, fatta eccezione per quelle locali con l'osservanza delle norme previste sulla conduzione degli animali; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    
+                                        ((fuori dai casi di cui all'articolo 20, insudiciare e imbrattare la strada o le sue pertinenze con oggetti o materiali di qualsiasi specie diversi dai rifiuti;))
+                                    
+                                
+                            
+                            
+                                f-bis)
+                                
+                                    
+                                        ((fuori dai casi di cui agli articoli 255, 255-bis e 256 del decreto legislativo 3 aprile 2006, n. 152, depositare o gettare rifiuti non pericolosi di cui agli articoli 232-bis e 232-ter del decreto legislativo 3 aprile 2006, n. 152, dai veicoli in sosta o in movimento;))
+                                    
+                                
+                            
+                            
+                                g)
+                                
+                                    apportare o spargere fango o detriti anche a mezzo delle ruote dei veicoli provenienti da accessi e diramazioni; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    scaricare, senza regolare concessione, nei fossi e nelle cunette materiali o cose di qualsiasi genere o incanalare in essi acque di qualunque natura; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    gettare dai veicoli in movimento qualsiasi cosa.
 
 Chiunque viola uno dei divieti di cui al comma 1, lettere a), b) e g), e' soggetto alla sanzione amministrativa del pagamento di una somma da € 42 a € 173. (19) (29) (43) (52) (64) (80) (89) (101) (114) (124) (145)
 
@@ -827,7 +1631,33 @@ Dalle violazioni di cui ai commi 2, 3 e 3-bis consegue la sanzione amministrativ
 
 ## Art. 16. — Fasce di rispetto in rettilineo ed aree di visibilita' nelle intersezioni fuori dei centri abitati
 
+1.
+                        
+                            
+                                Ai proprietari o aventi diritto dei fondi confinanti con le proprieta' stradali fuori dei centri abitati e' vietato: 
+ 
+                            
+                            
+                                a)
+                                
+                                    aprire canali, fossi ed eseguire qualunque escavazione nei terreni laterali alle strade; 
 
+                                
+                            
+                            
+                                b)
+                                
+                                    costruire, ricostruire o ampliare, lateralmente alle strade, edificazioni di qualsiasi tipo e materiale; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    impiantare alberi lateralmente alle strade, siepi vive o piantagioni ovvero recinzioni. 
+ Il regolamento, in relazione alla tipologia dei divieti indicati, alla classificazione di cui all'articolo 2, comma 2, nonche' alle strade vicinali, determina le distanze dal confine stradale entro le quali vigono i divieti di cui sopra, prevedendo , altresi' una particolare disciplina per le aree fuori dai centri abitati ma entro le zone previste come edificabili o trasformabili dagli strumenti urbanistici. Restano comunque ferme le disposizioni di cui agli articoli 892 e 893 del codice civile.
+
+((1-bis. Le disposizioni di cui al comma 1 possono essere derogate per le sedi stradali ubicate su ponti, su viadotti o in gallerie, ovvero in presenza di particolari circostanze o di condizioni orografiche. Tali deroghe, anche con riguardo alle diverse tipologie di divieto, sono disciplinate con apposito decreto del Ministro delle infrastrutture e dei trasporti))
 
 In corrispondenza di intersezioni stradali a raso, alle fasce di rispetto indicate nel comma 1, lettere b) e c), devesi aggiungere la area di visibilita' determinata dal triangolo avente due lati sugli allineamenti delimitanti le fasce di rispetto, la cui lunghezza misurata a partire dal punto di intersezione degli allineamenti stessi sia pari al doppio delle distanze stabilite nel regolamento, e il terzo lato costituito dal segmento congiungente i punti estremi.
 
@@ -1486,6 +2316,45 @@ Non possono essere effettuati, senza preventiva concessione dell'ente proprietar
 
 In caso di attraversamento a livelli sfalsati tra due strade appartenenti a enti diversi, ferma restando l'obbligatorieta' della concessione di cui al comma 1, le strutture che realizzano l'opera d'arte principale del sottopasso o sovrappasso, comprese le barriere di sicurezza nei sovrappassi, sono di titolarita', ai fini della loro realizzazione e manutenzione anche straordinaria, dell'ente che rilascia la concessione qualora la strada interferita sia di tipo superiore, con riferimento ai tipi definiti dall'articolo 2, comma 2, a quello della strada interferente.
 
+1-ter.
+                        
+                            
+                                Per ragioni di sicurezza e di importanza dei flussi di traffico: 
+ 
+                            
+                            
+                                a)
+                                
+                                    le strutture dei sottopassi e sovrappassi di strade di tipo A e B con strade di tipo inferiore, comprese le barriere di sicurezza nei sovrappassi, sono di titolarita' degli enti proprietari delle strade di tipo A e B, anche quando tali enti rilasciano la concessione all'attraversamento; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    nel caso di attraversamento tra strada di tipo A e strada di tipo B, le strutture dei sottopassi e sovrappassi, comprese le barriere di sicurezza nei sovrappassi, sono di titolarita' dell'ente proprietario della strada di tipo A; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    nel caso di attraversamento tra strade di tipo A appartenenti a enti diversi, la titolarita' delle strutture dei sottopassi e sovrappassi, comprese le barriere di sicurezza nei sovrappassi, e' indicata nell'atto di concessione di cui al comma 1, che va rinnovato o rilasciato se privo di tale indicazione; 
+
+                                
+                            
+                            
+                                c-bis)
+                                
+                                    nel caso di attraversamento tra strade di tipo B appartenenti a enti diversi, la titolarita' delle strutture dei sottopassi e sovrappassi, comprese le barriere di sicurezza nei sovrappassi, e' indicata, con preferenza per l'ente cui appartiene la strada di interesse nazionale, nell'atto di concessione di cui al comma 1, che va rinnovato o rilasciato se privo di tale indicazione; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    nel caso di attraversamento tra strade di tipo C appartenenti a enti diversi, la titolarita' delle strutture dei sottopassi e sovrappassi, comprese le barriere di sicurezza nei sovrappassi, e' indicata, con preferenza per l'ente cui appartiene la strada di interesse nazionale, nell'atto di concessione di cui al comma 1, che va rinnovato o rilasciato se privo di tale indicazione.
+
 Fermo restando quanto previsto dai commi 1-bis e 1-ter in relazione agli enti titolari delle strutture delle opere d'arte dei sottopassi e sovrappassi, comprese le barriere di sicurezza nei sovrappassi, gli enti proprietari e i gestori delle strade interessate dall'attraversamento a livello sfalsato provvedono a disciplinare mediante appositi atti convenzionali le modalita' e gli oneri di realizzazione e manutenzione delle predette strutture.
 
 In relazione ai sottopassi e sovrappassi stradali esistenti, gli enti proprietari della strada interferita e di quella interferente provvedono, ove necessario anche mediante trasferimento della titolarita' delle opere d'arte da realizzarsi senza nuovi o maggiori oneri a carico della finanza pubblica, a dare attuazione alle previsioni di cui ai commi 1-bis, 1-ter e 1-quater entro sei mesi dalla data di entrata in vigore della presente disposizione. Gli enti proprietari, nonche' i gestori dei medesimi procedono, senza nuovi o maggiori oneri a carico della finanza pubblica, alla formazione e all'aggiornamento degli elenchi dei sottopassi e sovrappassi, di cui risultano o divengano titolari in attuazione dei commi 1-bis, 1-ter e 1-quater.
@@ -1922,6 +2791,24 @@ Gli oneri di manutenzione e rifacimento di manufatti stradali esistenti sopra ca
 
 I manufatti a struttura portante in legname esistenti sui canali artificiali che attraversano la strada devono, nel caso di ricostruzione, essere eseguiti con strutture murarie o in cemento armato, in ferro o miste secondo le indicazioni e le prescrizioni tecniche dell'ente proprietario della strada in relazione ai carichi ammissibili per la strada interessata. Non sono comprese in questa disposizione le opere ricadenti in localita' soggette a servitu' militari per le quali si ravvisa l'opportunita' di provvedere diversamente.
 
+4.
+                        
+                            
+                                La ricostruzione dei manufatti in legname con le strutture e con le prescrizioni sopra indicate e' obbligatoria da parte dei proprietari o utenti delle acque ed e' a loro spese: 
+ 
+                            
+                            
+                                a)
+                                
+                                    quando occorre spostare o allargare le strade attraversate da canali artificiali; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    quando, a giudizio dell'ente proprietario, i manufatti presentano condizioni di insufficiente sicurezza.
+
 E', altresi', a carico di detti proprietari la manutenzione dei manufatti ricostruiti.
 
 In caso di ampliamento dei manufatti di ogni altro tipo, per dar luogo all'allargamento della sede stradale, il relativo costo e' a carico dell'ente proprietario della strada, fermo restando a carico dei proprietari, possessori o utenti delle acque l'onere di manutenzione dell'intero manufatto.
@@ -2089,6 +2976,38 @@ I comuni e gli enti inadempienti sono invitati, su segnalazione del prefetto, da
 
 ## Art. 37. — Apposizione e manutenzione della segnaletica stradale
 
+1.
+                        
+                            
+                                L'apposizione e la manutenzione della segnaletica, ad eccezione dei casi previsti nel regolamento per singoli segnali, fanno carico: 
+ 
+                            
+                            
+                                a)
+                                
+                                    agli enti proprietari delle strade, fuori dei centri abitati; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    ai comuni, nei centri abitati, compresi i segnali di inizio e fine del centro abitato, anche se collocati su strade non comunali; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    al comune, sulle strade private aperte all'uso pubblico e sulle strade locali; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    nei tratti di strade non di proprieta' del comune all'interno dei centri abitati con popolazione inferiore ai diecimila abitanti, agli enti proprietari delle singole strade limitatamente ai segnali concernenti le caratteristiche strutturali o geometriche della strada. La rimanente segnaletica e' di competenza del comune.
+
 Gli enti di cui al comma 1 autorizzano la collocazione di segnali che indicano posti di servizio stradali, esclusi i segnali di avvio ai posti di pronto soccorso che fanno carico agli enti stessi.
 L'apposizione e la manutenzione di detti segnali fanno carico agli esercenti.
 
@@ -2097,6 +3016,38 @@ Gli enti di cui al comma 1 possono utilizzare, nei segnali di localizzazione ter
 ((COMMA ABROGATO DAL D.L. 16 LUGLIO 2020, N. 76, CONVERTITO CON MODIFICAZIONI DALLA L. 11 SETTEMBRE 2020, N. 120)).
 
 ## Art. 38. — Segnaletica stradale
+
+1.
+                        
+                            
+                                La segnaletica stradale comprende i seguenti gruppi: 
+ 
+                            
+                            
+                                a)
+                                
+                                    segnali verticali; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    segnali orizzontali; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    segnali luminosi; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    segnali ed attrezzature complementari.
 
 Gli utenti della strada devono rispettare le prescrizioni rese note a mezzo della segnaletica stradale ancorche' in difformita' con le altre regole di circolazione. Le prescrizioni dei segnali semaforici, esclusa quella lampeggiante gialla di pericolo di cui all'art. 41, prevalgono su quelle date a mezzo dei segnali verticali e orizzontali che regolano la precedenza. Le prescrizioni dei segnali verticali prevalgono su quelle dei segnali orizzontali. In ogni caso prevalgono le segnalazioni degli agenti di cui all'art. 43.
 
@@ -2178,6 +3129,86 @@ Le violazioni da parte degli utenti della strada delle disposizioni del presente
 
 ## Art. 39. — Segnali verticali
 
+1.
+                        
+                            
+                                I segnali verticali si dividono nelle seguenti categorie: 
+ A) segnali di pericolo: preavvisano l'esistenza di pericoli, ne indicano la natura e impongono ai conducenti di tenere un comportamento prudente; 
+ B) segnali di prescrizione: rendono noti obblighi, divieti e limitazioni cui gli utenti della strada devono uniformarsi; si suddividono in: 
+ 
+                            
+                            
+                                a)
+                                
+                                    segnali di precedenza; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    segnali di divieto; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    segnali di obbligo; 
+ C) segnali di indicazione: hanno la funzione di fornire agli utenti della strada informazioni necessarie o utili per la guida e per la individuazione di localita', itinerari, servizi ed impianti;  si suddividono in: 
+ a) segnali di preavviso; 
+ b) segnali di direzione; 
+ c) segnali di conferma; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    segnali di identificazione strade; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    segnali di itinerario; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    segnali di localita' e centro abitato; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    segnali di nome strada; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    segnali turistici e di territorio; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    altri segnali che danno informazioni necessarie per la guida dei veicoli; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    altri segnali che indicano installazioni o servizi.
+
 Il regolamento stabilisce forme, dimensioni, colori e simboli dei segnali stradali verticali e le loro modalita' di impiego e di apposizione.
 
 Ai soggetti diversi dagli enti proprietari delle strade che non rispettano le disposizioni del presente articolo e del regolamento si applica il comma 13 dell'art. 38.
@@ -2214,9 +3245,122 @@ Le strisce longitudinali continue non devono essere oltrepassate; le discontinue
 
 Le strisce di margine continue possono essere oltrepassate solo dai veicoli in attivita' di servizio di pubblico interesse e dai veicoli che debbono effettuare una sosta di emergenza.
 
+10.
+                        
+                            
+                                E' vietata: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la sosta sulle carreggiate i cui margini sono evidenziati da una striscia continua; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la circolazione sopra le strisce longitudinali, salvo che per il cambio di corsia; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    la circolazione dei veicoli non autorizzati sulle corsie riservate.
+
 In corrispondenza degli attraversamenti pedonali i conducenti dei veicoli devono dare la precedenza ai pedoni che si accingono ad attraversare la strada o che hanno iniziato l'attraversamento; analogo comportamento devono tenere i conducenti dei veicoli nei confronti dei ciclisti in corrispondenza degli attraversamenti ciclabili. Gli attraversamenti pedonali devono essere sempre accessibili anche alle persone non deambulanti su sedie a ruote; a tutela dei non vedenti possono essere collocati segnali a pavimento o altri segnali di pericolo in prossimita' degli attraversamenti stessi.
 
 ## Art. 41. — Segnali luminosi
+
+1.
+                        
+                            
+                                I segnali luminosi si suddividono nelle seguenti categorie: 
+ 
+                            
+                            
+                                a)
+                                
+                                    segnali luminosi di pericolo e di prescrizione; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    segnali luminosi di indicazione; 
+
+                                
+                            
+                            
+                                b-bis)
+                                
+                                    tabelloni luminosi rilevatori della velocita' in tempo reale dei veicoli in transito; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    lanterne semaforiche veicolari normali; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    lanterne semaforiche veicolari di corsia; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    lanterne semaforiche per i veicoli di trasporto pubblico; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    lanterne semaforiche pedonali; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    lanterne semaforiche per velocipedi; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    lanterne semaforiche veicolari per corsie reversibili; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    lanterna semaforica gialla lampeggiante; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    lanterne semaforiche speciali; 
+
+                                
+                            
+                            
+                                m)
+                                
+                                    segnali luminosi particolari.
 
 Le luci delle lanterne semaforiche veicolari normali sono di forma circolare e di colore: 
  - rosso, con significato di arresto; 
@@ -2226,6 +3370,32 @@ Le luci delle lanterne semaforiche veicolari normali sono di forma circolare e d
 Le luci delle lanterne semaforiche di corsia sono a forma di freccia colorata su fondo nero; i colori sono rosso, giallo e verde; il significato e' identico a quello delle luci di cui al comma 2, ma limitatamente ai veicoli che devono proseguire nella direzione indicata dalla freccia.
 
 Le luci delle lanterne semaforiche per i veicoli di trasporto pubblico sono a forma di barra bianca su fondo nero, orizzontale con significato di arresto, verticale o inclinata a destra o sinistra con significato di via libera, rispettivamente diritto, a destra o sinistra, e di un triangolo giallo su fondo nero, con significato di preavviso di arresto.
+
+5.
+                        
+                            
+                                
+                                    ((Al fine di agevolare la mobilita' delle persone con disabilita' visiva, gli attraversamenti pedonali semaforizzati possono essere dotati di segnalazioni acustiche di indicazione dello stato di accensione delle luci nonche' di guide tattili a pavimento idonee all'individuazione dei pali di sostegno delle lanterne semaforiche)). Le luci delle lanterne semaforiche pedonali sono a forma di pedone colorato su fondo nero. I colori sono: 
+ 
+                            
+                            
+                                a)
+                                
+                                    rosso, con significato di arresto e non consente ai pedoni di effettuare l'attraversamento, ne' di impegnare la carreggiata; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    giallo, con significato di sgombero dell'attraversamento pedonale e consente ai pedoni che si trovano all'interno dello attraversamento di sgombrarlo il piu' rapidamente possibile e vieta a quelli che si trovano sul marciapiede di impegnare la carreggiata; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    verde, con significato di via libera e consente ai pedoni l'attraversamento della carreggiata nella sola direzione consentita dalla luce verde.
 
 Le luci delle lanterne semaforiche per velocipedi sono a forma di bicicletta colorata su fondo nero; i colori sono rosso, giallo e verde; il significato e' identico a quello delle luci di cui al comma 2, ma limitatamente ai velocipedi provenienti da una pista ciclabile.
 
@@ -2268,7 +3438,32 @@ I segnali a messaggio variabile devono essere utilizzati esclusivamente per forn
 
 ## Art. 42. — Segnali complementari
 
+1.
+                        
+                            
+                                I segnali complementari sono destinati ad evidenziare o rendere noto: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il tracciato stradale; 
 
+                                
+                            
+                            
+                                b)
+                                
+                                    particolari curve e punti critici; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    ostacoli posti sulla carreggiata o ad essa adiacenti.
+
+((2. Sono altresi' segnali complementari i dispositivi e gli interventi sull'infrastruttura stradale che comunque contengono un elemento di segnalamento, destinati a impedire la sosta, a moderare il traffico o a rallentare la velocita' dei veicoli))
 
 Il regolamento stabilisce forme, dimensioni, colori e simboli dei segnali complementari, le loro caratteristiche costruttive e le modalita' di impiego e di apposizione.
 
@@ -2277,6 +3472,24 @@ Il regolamento stabilisce forme, dimensioni, colori e simboli dei segnali comple
 Gli utenti della strada sono tenuti ad ottemperare senza indugio alle segnalazioni degli agenti preposti alla regolazione del traffico.
 
 Le prescrizioni date mediante segnalazioni eseguite dagli agenti annullano ogni altra prescrizione data a mezzo della segnaletica stradale ovvero delle norme di circolazione.
+
+3.
+                        
+                            
+                                Le segnalazioni degli agenti sono, in particolare, le seguenti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    braccio alzato verticalmente significa: "attenzione, arresto" per tutti gli utenti, ad eccezione dei conducenti che non siano piu' in grado di fermarsi in sufficienti condizioni di sicurezza; se il segnale e' fatto in una intersezione, esso non impone l'arresto ai conducenti che abbiano gia' impegnato l'intersezione stessa; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    braccia o braccio tesi orizzontalmente significano: "arresto" per tutti gli utenti, qualunque sia il loro senso di marcia, provenienti da direzioni intersecanti quella indicata dal braccio o dalle braccia e per contro "via libera" per coloro che percorrono la direzione indicata dal braccio o dalle braccia.
 
 Dopo le segnalazioni di cui al comma 3, l'agente potra' abbassare il braccio o le braccia; la nuova posizione significa ugualmente "arresto" per tutti gli utenti che si trovano di fronte all'agente o dietro di lui e "via libera" per coloro che si trovano di fianco.
 
@@ -2410,6 +3623,147 @@ AGGIORNAMENTO (4)
 
 ## Art. 47. — Classificazione dei veicoli
 
+1.
+                        
+                            
+                                I veicoli si classificano, ai fini del presente codice, come segue: 
+ 
+                            
+                            
+                                a)
+                                
+                                    veicoli a braccia; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    veicoli a trazione animale; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    velocipedi; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    slitte; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    ciclomotori; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    motoveicoli; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    autoveicoli; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    filoveicoli; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    rimorchi; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    macchine agricole; 
+
+                                
+                            
+                            
+                                m)
+                                
+                                    macchine operatrici; 
+
+                                
+                            
+                            
+                                n)
+                                
+                                    veicoli con caratteristiche atipiche.
+
+2.
+                        
+                            
+                                I veicoli a motore e i loro rimorchi, di cui al comma 1, lettere e), f), g), h), i) e n) sono altresi' classificati come segue in base alle categorie internazionali: 
+ 
+                            
+                            
+                                a)
+                                
+                                    
+ - categoria L1e: veicoli a due ruote la cilindrata del cui motore non supera i 50 cc per i motori a combustione interna ad accensione comandata, la cui potenza del motore elettrico non supera i 4 kW e la cui velocita' massima di costruzione non supera i 45 km/h; 
+ - categoria L2e: veicoli a tre ruote la cilindrata del cui motore non supera i 50 cc per i motori a combustione interna ad accensione comandata o non supera i 500 cc per i motori a combustione interna ad accensione spontanea, la cui potenza del motore elettrico non supera i 4 kW, la cui massa in ordine di marcia non supera i 270 kg e la cui velocita' massima di costruzione non supera i 45 km/h; 
+ - categoria L3e: veicoli a due ruote che non possono essere classificati come appartenenti alla categoria ((L1e)); 
+ - categoria L4e: veicoli a tre ruote asimmetriche rispetto all'asse longitudinale mediano, costituiti da veicoli di categoria L3e dotati di sidecar, con un numero massimo di quattro posti a sedere incluso il conducente e con un numero massimo di due posti per passeggeri nel sidecar; 
+ - categoria L5e: veicoli a tre ruote simmetriche rispetto all'asse longitudinale mediano, la cilindrata del cui motore (se si tratta di motore termico) supera i 50 cc o la cui velocita' massima di costruzione (qualunque sia il sistema di propulsione) supera i 45 km/h; 
+ - categoria L6e: quadricicli leggeri, la cui massa a vuoto e' inferiore o pari a 350 kg, esclusa la massa delle batterie per i veicoli elettrici, la cui velocita' massima per costruzione e' inferiore o uguale a 45 km/h e la cui cilindrata del motore e' inferiore o pari a 50 cm³ per i motori ad accensione comandata; o la cui potenza massima netta e' inferiore o uguale a 4 kW per gli altri motori, a combustione interna; o la cui potenza nominale continua massima e' inferiore o uguale a 4 kW per i motori elettrici. Tali veicoli sono conformi alle prescrizioni tecniche applicabili ai ciclomotori a tre ruote della categoria L2e, salvo altrimenti disposto da specifiche disposizioni comunitarie; 
+ - categoria L7e: i quadricicli, diversi da quelli di cui alla categoria L6e, la cui massa a vuoto e' inferiore o pari a 400 kg (550 kg per i veicoli destinati al trasporto di merci), esclusa la massa delle batterie per i veicoli elettrici, e la cui potenza massima netta del motore e' inferiore o uguale a 15 kW. Tali veicoli sono considerati come tricicli e sono conformi alle prescrizioni tecniche applicabili ai tricicli della categoria L5e salvo altrimenti disposto da specifiche disposizioni comunitarie; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    
+ - categoria M: veicoli a motore destinati al trasporto di persone ed aventi almeno quattro ruote; 
+ - categoria M1: veicoli destinati al trasporto di persone, aventi al massimo otto posti a sedere oltre al sedile del conducente; 
+ - categoria M2: veicoli destinati al trasporto di persone, aventi piu' di otto posti a sedere oltre al sedile del conducente e massa massima non superiore a 5 t; 
+ - categoria M3: veicoli destinati al trasporto di persone, aventi piu' di otto posti a sedere oltre al sedile del conducente e massa massima superiore a 5 t; (35) 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    
+ - categoria N: veicoli a motore destinati al trasporto di merci, aventi almeno quattro ruote; 
+ - categoria N1: veicoli destinati al trasporto di merci, aventi massa massima non superiore a 3,5 t; 
+ - categoria N2: veicoli destinati al trasporto di merci, aventi massa massima superiore a 3,5 t ma non superiore a 12 t; 
+ - categoria N3: veicoli destinati al trasporto di merci, aventi massa massima superiore a 12 t; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    
+ - categoria O : rimorchi (compresi i semirimorchi); 
+ - categoria O 1 : rimorchi con massa massima non superiore a 0,75t; 
+ - categoria O 2: rimorchi con massa massima superiore a 0,75 t ma non superiore a 3,5 t; 
+ - categoria O 3: rimorchi con massa massima superiore a 3,5 t ma non superiore a 10 t; 
+ - categoria O 4: rimorchi con massa massima superiore a 10 t. 
+(4) (102)
+
 ---------------
                             AGGIORNAMENTO (4)
                             
@@ -2427,12 +3781,56 @@ AGGIORNAMENTO (4)
 
 ## Art. 48. — Veicoli a braccia
 
+1.
+                        
+                            
+                                I veicoli a braccia sono quelli: 
+ 
+                            
+                            
+                                a)
+                                
+                                    spinti o trainati dall'uomo a piedi; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    azionati dalla forza muscolare dello stesso conducente. 
+((4))
+
 ----------------
                             AGGIORNAMENTO (4)
                             
  Il D.Lgs. 28 giugno 1993, n. 214 ha disposto (con l'art. 1, comma 1) che le disposizioni del titolo III del presente D.Lgs. si applicano dal 1° ottobre 1993.
 
 ## Art. 49. — Veicoli a trazione animale
+
+1.
+                        
+                            
+                                I veicoli a trazione animale sono i veicoli trainati da uno o piu' animali e si distinguono in: 
+ 
+                            
+                            
+                                a)
+                                
+                                    veicoli destinati principalmente al trasporto di persone; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    veicoli destinati principalmente al trasporto di cose; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    carri agricoli destinati a trasporti per uso esclusivo delle aziende agricole.
 
 I veicoli a trazione animale muniti di pattini sono denominati slitte. 
 ((4))
@@ -2525,6 +3923,31 @@ Chiunque circola con slitte in assenza delle condizioni di cui al comma 1 e' sog
 
 ## Art. 52. — Ciclomotori
 
+1.
+                        
+                            
+                                I ciclomotori sono veicoli a motore a due o tre ruote aventi le seguenti caratteristiche: 
+ 
+                            
+                            
+                                a)
+                                
+                                    motore di cilindrata non superiore a 50 cm, se termico ((, o avente potenza non superiore a 4.000 watt, se ad alimentazione elettrica)); 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    capacita' di sviluppare su strada orizzontale una velocita' fino a 45 Km/h; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    LETTERA SOPPRESSA DAL D.LGS. 10 SETTEMBRE 1993, N. 360.
+
 I ciclomotori a tre ruote possono, per costruzione, essere destinati al trasporto di merci. La massa e le dimensioni sono stabilite in adempimento delle direttive comunitarie a riguardo, con decreto del Ministro dei trasporti, o, in alternativa, in applicazione delle corrispondenti prescrizioni tecniche contenute nelle raccomandazioni o nei regolamenti emanati dall'ufficio europeo per le Nazioni Unite - Commissione economica per l'Europa, recepiti dal Ministero dei trasporti, ove a cio' non osti il diritto comunitario.
 
 Le caratteristiche dei veicoli di cui ai commi 1 e 2 devono risultare per costruzione. Nel regolamento sono stabiliti i criteri per la determinazione delle caratteristiche suindicate e le modalita' per il controllo delle medesime, nonche' le prescrizioni tecniche atte ad evitare l'agevole manomissione degli organi di propulsione.
@@ -2538,6 +3961,66 @@ Detti veicoli, qualora superino il limite stabilito per una delle caratteristich
  Il D.Lgs. 28 giugno 1993, n. 214 ha disposto (con l'art. 1, comma 1) che le disposizioni del titolo III del presente D.Lgs. si applicano dal 1° ottobre 1993.
 
 ## Art. 53. — Motoveicoli
+
+1.
+                        
+                            
+                                I motoveicoli sono veicoli a motore, a due, tre o quattro ruote, e si distinguono in: 
+ 
+                            
+                            
+                                a)
+                                
+                                    motocicli: veicoli a due ruote destinati al trasporto di persone, in numero non superiore a due compreso il conducente; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    motocarrozzette: veicoli a tre ruote destinati al trasporto di persone, capaci di contenere al massimo quattro posti compreso quello del conducente ed equipaggiati di idonea carrozzeria; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    motoveicoli per trasporto promiscuo: veicoli a tre ruote destinati al trasporto di persone e cose, capaci di contenere al massimo quattro posti compreso quello del conducente; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    motocarri: veicoli a tre ruote destinati al trasporto di cose; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    mototrattori: motoveicoli a tre ruote destinati al traino di semirimorchi ((. Tale classificazione deve essere abbinata a quella di motoarticolato, con la definizione del tipo o dei tipi dei semirimorchi di cui al comma 2, che possono essere abbinati a ciascun mototrattore;)); 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    motoveicoli per trasporti specifici: veicoli a tre ruote destinati al trasporto di determinate cose o di persone in particolari condizioni e caratterizzati dall'essere muniti permanentemente di speciali attrezzature relative a tale scopo; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    motoveicoli per uso speciale: veicoli a tre ruote caratterizzati da particolari attrezzature installate permanentemente sugli stessi; su tali veicoli e' consentito il trasporto del personale e dei materiali connessi con il ciclo operativo delle attrezzature; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    quadricicli a motore: veicoli a quattro ruote destinati al trasporto di cose con al massimo una persona oltre al conducente nella cabina di guida, ai trasporti specifici e per uso speciale, la cui massa a vuoto non superi le 0,55 t, con esclusione della massa delle batterie se a trazione elettrica, capaci di sviluppare su strada orizzontale una velocita' massima fino a 80 km/h. Le caratteristiche costruttive sono stabilite dal regolamento. Detti veicoli, qualora superino anche uno solo dei limiti stabiliti sono considerati autoveicoli.
 
 Sono, altresi', considerati motoveicoli i motoarticolati: complessi di veicoli, costituiti da un mototrattore e da un semirimorchio, destinati al trasporto di cui alle lettere d), f) e g).
 
@@ -2556,6 +4039,94 @@ I motoveicoli di cui alle lettere d), e), f) e g) possono essere attrezzati con 
  Il D.Lgs. 28 giugno 1993, n. 214 ha disposto (con l'art. 1, comma 1) che le disposizioni del titolo III del presente D.Lgs. si applicano dal 1° ottobre 1993.
 
 ## Art. 54. — Autoveicoli
+
+1.
+                        
+                            
+                                Gli autoveicoli sono veicoli a motore con almeno quattro ruote, esclusi i motoveicoli, e si distinguono in: 
+ 
+                            
+                            
+                                a)
+                                
+                                    autovetture: veicoli destinati al trasporto di persone, aventi al massimo nove posti, compreso quello del conducente; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    autobus: veicoli destinati al trasporto di persone equipaggiati con piu' di nove posti compreso quello del conducente; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    autoveicoli per trasporto promiscuo: veicoli aventi una massa complessiva a pieno carico non superiore a 3,5 t o 4,5 t se a trazione elettrica o a batteria, destinati al trasporto di persone e di cose e capaci di contenere al massimo nove posti compreso quello del conducente; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    autocarri: veicoli destinati al trasporto di cose e delle persone addette all'uso o al trasporto delle cose stesse; ((167))
+                                    
+                                
+                            
+                            
+                                e)
+                                
+                                    trattori stradali: veicoli destinati esclusivamente al traino di rimorchi o semirimorchi; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    autoveicoli per trasporti specifici: veicoli destinati al trasporto di determinate cose o di persone in particolari condizioni, caratterizzati dall'essere muniti permanentemente di speciali attrezzature relative a tale scopo; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    autoveicoli per uso speciale: veicoli caratterizzati dall'essere muniti permanentemente di speciali attrezzature e destinati prevalentemente al trasporto proprio. Su tali veicoli e' consentito il trasporto del personale e dei materiali connessi col ciclo operativo delle attrezzature e di persone e cose connesse alla destinazione d'uso delle attrezzature stesse; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    autotreni: complessi di veicoli costituiti da due unita' distinte, agganciate, delle quali una motrice. Ai soli fini della applicazione dell'art. 61, commi 1 e 2, costituiscono un'unica unita' gli autotreni caratterizzati in modo permanente da particolari attrezzature per il trasporto di cose determinate nel regolamento. In ogni caso se vengono superate le dimensioni massime di cui all'art. 61, il veicolo o il trasporto e' considerato eccezionale; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    autoarticolati: complessi di veicoli costituiti da un trattore e da un semirimorchio; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    autosnodati: autobus composti da due tronconi rigidi collegati tra loro da una sezione snodata. Su questi tipi di veicoli i compartimenti viaggiatori situati in ciascuno dei due tronconi rigidi sono comunicanti. La sezione snodata permette la libera circolazione dei viaggiatori tra i tronconi rigidi. La connessione e la disgiunzione delle due parti possono essere effettuate soltanto in officina; 
+
+                                
+                            
+                            
+                                m)
+                                
+                                    autocaravan: veicoli aventi una speciale carrozzeria ed attrezzati permanentemente per essere adibiti al trasporto e all'alloggio di sette persone al massimo, compreso il conducente. 
+
+                                
+                            
+                            
+                                n)
+                                
+                                    mezzi d'opera: veicoli o complessi di veicoli dotati di particolare attrezzatura per il carico e il trasporto di materiali di impiego o di risulta dell'attivita' edilizia, stradale, di escavazione mineraria e materiali assimilati ovvero che completano, durante la marcia, il ciclo produttivo di specifici materiali per la costruzione edilizia; tali veicoli o complessi di veicoli possono essere adibiti a trasporti in eccedenza ai limiti di massa stabiliti nell'art. 62 e non superiori a quelli di cui all'art. 10, comma 8, e comunque nel rispetto dei limiti dimensionali fissati nell'art. 61. I mezzi d'opera devono essere, altresi', idonei allo specifico impiego nei cantieri o utilizzabili a uso misto su strada e fuori strada.
 
 Nel regolamento sono elencati, in relazione alle speciali attrezzature di cui sono muniti, i tipi di autoveicoli da immatricolare come autoveicoli per trasporti specifici ed autoveicoli per usi speciali. 
 (4)
@@ -2588,6 +4159,52 @@ Ad eccezione di quanto stabilito dal comma 1, lettera e) e dal comma 2 dell'arti
 essere trainati dagli autoveicoli di cui al comma 1 dell'art. 54 e 
  dai filoveicoli di cui all'art. 55, con esclusione degli autosnodati.
 
+2.
+                        
+                            
+                                I rimorchi si distinguono in: 
+ 
+                            
+                            
+                                a)
+                                
+                                    rimorchi per trasporto di persone, limitatamente ai rimorchi con almeno due assi ed ai semirimorchi; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    rimorchi per trasporto di cose; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    rimorchi per trasporti specifici, caratterizzati ai sensi della lettera f) dell'art. 54; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    rimorchi ad uso speciale, caratterizzati ai sensi delle lettere g) e h) dell'art. 54; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    caravan: rimorchi ad un asse o a due assi posti a distanza non superiore ad un metro, aventi speciale carrozzeria ed attrezzati per essere adibiti ad alloggio esclusivamente a veicolo fermo; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    rimorchi per trasporto di attrezzature turistiche e sportive: rimorchi ad un asse o a due assi posti a distanza non superiore ad un metro, muniti di specifica attrezzatura atta al trasporto di attrezzature turistiche e sportive, quali imbarcazioni, alianti od altre.
+
 I semirimorchi sono veicoli costruiti in modo tale che una parte di essi si sovrapponga all'unita' motrice e che una parte notevole della sua massa o del suo carico sia sopportata da detta motrice.
 
 I carrelli appendice a non piu' di due ruote destinati al trasporto di bagagli, attrezzi e simili, e trainabili da motoveicoli di cui all'articolo 53 e da autoveicoli di cui all'art. 54, comma 1, esclusi quelli indicati nelle lettere h), i) ed l), si considerano parti integranti di questi purche' rientranti nei limiti di sagoma e di massa previsti dagli articoli 61 e 62 e dal regolamento.
@@ -2607,6 +4224,29 @@ AGGIORNAMENTO (4)
  ((b) per il trasporto, per conto delle aziende agricole e forestali, di prodotti, sostanze di uso agrario e attrezzature destinate all'esecuzione delle attivita' di cui all'articolo 2135 del codice civile e delle attivita' di gestione forestale)); 
  ((c) per il trasporto di addetti alle lavorazioni nonche', nell'ambito delle attivita' dirette alla fornitura di beni o servizi ai sensi dell'articolo 2135, terzo comma, del codice civile, per il trasporto di soggetti in visita presso le aziende agricole, interessati a conoscere il contesto ambientale e territoriale in cui si svolgono le attivita' dell'impresa agricola)). E' consentito l'uso delle macchine agricole nelle operazioni di manutenzione e tutela del territorio.
 
+2.
+                        
+                            
+                                Ai fini della circolazione su strada le macchine agricole si distinguono in: 
+ 
+                            
+                            
+                                a)
+                                
+                                    SEMOVENTI: 
+ 1) trattrici agricole: macchine a motore con o senza piano di carico munite di almeno due assi, prevalentemente atte alla trazione, concepite per tirare, spingere, portare prodotti agricoli e sostanze di uso agrario nonche' azionare determinati strumenti, eventualmente equipaggiate con attrezzature portate o semiportate da considerare parte integrante della trattrice agricola; 
+ 2) macchine agricole operatrici a due o piu' assi: macchine munite o predisposte per l'applicazione di speciali apparecchiature per l'esecuzione di operazioni agricole; 
+ 3) macchine agricole operatrici ad un asse: macchine guidabili da conducente a terra, che possono essere equipaggiate con carrello separabile destinato esclusivamente al trasporto del conducente. La massa complessiva non puo' superare 0,7 t compreso il conducente; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    TRAINATE: 
+ 1) macchine agricole operatrici: macchine per l'esecuzione di operazioni agricole e per il trasporto di attrezzature e di accessori funzionali per le lavorazioni meccanico-agrarie, trainabili dalle macchine agricole semoventi ad eccezione di quelle di cui alla lettera a), numero 3); 
+ 2) rimorchi agricoli: veicoli destinati al carico e trainabili dalle trattrici agricole; possono eventualmente essere muniti di apparecchiature per lavorazioni agricole; qualora la massa complessiva a pieno carico non sia superiore a 1,5 t, sono considerati parte integrante della trattrice traente.
+
 Ai fini della circolazione su strada, le macchine agricole semoventi a ruote pneumatiche o a sistema equivalente non devono essere atte a superare, su strada orizzontale, la velocita' di 40 km/h; le macchine agricole a ruote metalliche, semi pneumatiche o a cingoli metallici, purche' muniti di sovrapattini, nonche' le macchine agricole operatrici ad un asse con carrello per il conducente non devono essere atte a superare, su strada orizzontale, la velocita' di 15 km/h.
 
 Le macchine agricole di cui alla lettera a), numeri 1 e 2, e di cui alla lettera b), numero 1, possono essere attrezzate con un numero di posti per gli addetti non superiore a tre, compreso quello del conducente; i rimorchi agricoli possono essere adibiti per il trasporto esclusivo degli addetti, purche' muniti di idonea attrezzatura non permanente. 
@@ -2620,6 +4260,31 @@ AGGIORNAMENTO (4)
 ## Art. 58. — Macchine operatrici
 
 Le macchine operatrici sono macchine semoventi o trainate, a ruote o a cingoli, destinate ad operare su strada o nei cantieri, equipaggiate, eventualmente, con speciali attrezzature. In quanto veicoli possono circolare su strada per il proprio trasferimento e per lo spostamento di cose connesse con il ciclo operativo della macchina stessa o del cantiere, nei limiti e con le modalita' stabilite dal regolamento di esecuzione.
+
+2.
+                        
+                            
+                                Ai fini della circolazione su strada le macchine operatrici si distinguono in: 
+ 
+                            
+                            
+                                a)
+                                
+                                    macchine impiegate per la costruzione e la manutenzione di opere civili o delle infrastrutture stradali o per il ripristino del traffico; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    macchine sgombraneve, spartineve o ausiliarie quali spanditrici di sabbia e simili; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    carrelli: veicoli destinati alla movimentazione di cose.
 
 Le macchine operatrici semoventi, in relazione alle loro caratteristiche, possono essere attrezzate con un numero di posti, per gli addetti, non superiore a tre, compreso quello del conducente.
 
@@ -2635,6 +4300,24 @@ Ai fini della circolazione su strada le macchine operatrici non devono essere at
 
 Sono considerati atipici i veicoli che per le loro specifiche caratteristiche non rientrano fra quelli definiti nel presente capo.
 
+2.
+                        
+                            
+                                Il Ministro dei trasporti, sentiti i Ministri interessati, stabilisce, con proprio decreto: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la categoria, fra quelle individuate nel presente capo, alla quale i veicoli atipici devono essere assimilati ai fini della circolazione e della guida; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    i requisiti tecnici di idoneita' alla circolazione dei medesimi veicoli individuandoli, con criteri di equivalenza, fra quelli previsti per una o piu' delle categorie succitate.
+
 ((2-bis. Chiunque circola con un veicolo atipico per il quale non sono state ancora definite le caratteristiche tecniche e funzionali indicate dal comma 2 e' soggetto alla sanzione amministrativa del pagamento di una somma da euro 200 a euro 800. Alla violazione consegue la sanzione amministrativa accessoria della confisca del veicolo, secondo le norme del titolo VI, capo I, sezione II. Si procede in ogni caso alla sua distruzione))
 
 ----------------
@@ -2647,6 +4330,24 @@ Sono considerati atipici i veicoli che per le loro specifiche caratteristiche no
 
 
 ((Rientrano nella categoria dei veicoli d'epoca i motoveicoli, i ciclomotori, gli autoveicoli e le macchine agricole)) cancellati dal P.R.A. perche' destinati alla loro conservazione in musei o locali pubblici e privati, ai fini della salvaguardia delle originarie caratteristiche tecniche specifiche della casa costruttrice, e che non siano adeguati nei requisiti, nei dispositivi e negli equipaggiamenti alle vigenti prescrizioni stabilite per l'ammissione alla circolazione. Tali veicoli sono iscritti in apposito elenco presso il Centro storico del Dipartimento per i trasporti terrestri.
+
+3.
+                        
+                            
+                                I veicoli d'epoca sono soggetti alle seguenti disposizioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la loro circolazione puo' essere consentita soltanto in occasione di apposite manifestazioni o raduni autorizzati, limitatamente all'ambito della localita' e degli itinerari di svolgimento delle manifestazioni o raduni. All'uopo i veicoli, per poter circolare, devono essere provvisti di una particolare autorizzazione rilasciata dal competente ufficio del Dipartimento per i trasporti terrestri nella cui circoscrizione e' compresa la localita' sede della manifestazione o del raduno ed al quale sia stato preventivamente presentato, da parte dell'ente organizzatore, l'elenco particolareggiato dei veicoli partecipanti. Nella autorizzazione sono indicati la validita' della stessa, i percorsi stabiliti e la velocita' massima consentita in relazione alla garanzia di sicurezza offerta dal tipo di veicolo; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il trasferimento di proprieta' degli stessi deve essere comunicato alla Dipartimento per i trasporti terrestri, per l'aggiornamento dell'elenco di cui al comma 2.
 
 Rientrano nella categoria dei motoveicoli e autoveicoli di interesse storico e collezionistico tutti quelli di cui risulti l'iscrizione in uno dei seguenti registri: ASI, Storico Lancia, Italiano FIAT, Italiano Alfa Romeo, Storico FMI.
 
@@ -2709,6 +4410,31 @@ Chiunque circola con veicoli d'epoca senza l'autorizzazione prevista dal comma 3
  Il Decreto 31 dicembre 2020 (in G.U. 31/12/2020, n. 323) ha disposto (con l'art. 3, comma 1) che la presente modifica avra' effetto a decorrere dal 1° gennaio 2021.
 
 ## Art. 61. — Sagoma limite
+
+1.
+                        
+                            
+                                Fatto salvo quanto disposto nell'art. 10 e nei commi successivi del presente articolo, ogni veicolo compreso il suo carico deve avere: 
+ 
+                            
+                            
+                                a)
+                                
+                                    larghezza massima non eccedente 2,55 m ; nel computo di tale larghezza non sono comprese le sporgenze dovute ai retrovisori, purche' mobili; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    altezza massima non eccedente 4 m; per gli autobus e i filobus destinati a servizi pubblici di linea urbani e suburbani circolanti su itinerari prestabiliti e' consentito che tale altezza sia di 4,30 m; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    lunghezza totale, compresi gli organi di traino, non eccedente 12 m, con l'esclusione dei semirimorchi, per i veicoli isolati. Nel computo della suddetta lunghezza non sono considerati i retrovisori purche' mobili. Gli autobus da noleggio, da gran turismo e di linea possono essere dotati di strutture portasci, portabiciclette o portabagagli applicate a sbalzo posteriormente o, per le sole strutture portabiciclette, anche anteriormente secondo direttive stabilite con decreto del Ministero delle infrastrutture e dei trasporti - Dipartimento per i trasporti terrestri. ((I veicoli o complessi di veicoli che sono equipaggiati con cabine allungate o con dispositivi aerodinamici rispondenti ai requisiti di omologazione previsti dalla normativa europea possono superare le lunghezze totali previste dal presente articolo nel rispetto, comunque, di quanto prescritto al comma 5. Tali dispositivi devono essere piegati, ritratti o rimossi, a cura del conducente, ove sia a rischio la sicurezza di altri utenti della strada o del conducente o, su strade urbane ed extraurbane con limite di velocita' inferiore o uguale a 50 km/h, in presenza di altri utenti della strada vulnerabili. L'uso dei dispositivi aerodinamici deve essere comunque compatibile con le operazioni di trasporto intermodali e, in ogni caso, allorche' ritratti o piegati, i dispositivi non devono superare di oltre 20 cm la lunghezza totale del veicolo o del complesso di veicoli privo di tali dispositivi)).
 
 Gli autoarticolati e gli autosnodati non devono eccedere la lunghezza totale, compresi gli organi di traino, di 18,75 m, ferma restando l'idoneita' certificata dei rimorchi, o delle unita' di carico ivi caricate, al trasporto intermodale strada-rotaia e strada-mare e, sempre che siano rispettati gli altri limiti stabiliti nel regolamento; gli autosnodati e filosnodati adibiti a servizio di linea per il trasporto di persone destinati a percorrere itinerari prestabiliti possono raggiungere la lunghezza massima di 18 m; gli autotreni e filotreni non devono eccedere la lunghezza massima di 18,75 m in conformita' alle prescrizioni tecniche stabilite dal Ministro delle infrastrutture e dei trasporti.
 
@@ -3121,7 +4847,32 @@ Alle violazioni di cui ai commi 5 e 6 consegue la sanzione amministrativa access
 
 ## Art. 68. — Caratteristiche costruttive e funzionali e dispositivi di equipaggiamento dei velocipedi
 
+1.
+                        
+                            
+                                I velocipedi devono essere muniti di pneumatici, nonche': 
+ 
+                            
+                            
+                                a)
+                                
+                                    per la frenatura: di un dispositivo indipendente per ciascun asse che agisca in maniera pronta ed efficace sulle rispettive ruote; 
 
+                                
+                            
+                            
+                                b)
+                                
+                                    per le segnalazioni acustiche: di un campanello; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    per le segnalazioni visive: anteriormente di luci bianche o gialle, posteriormente di luci rosse e di catadiottri rossi; inoltre, sui pedali devono essere applicati catadiottri gialli ed analoghi dispositivi devono essere applicati sui lati.
+
+((2. I dispositivi di segnalazione di cui al comma 1, lettera c), devono essere presenti e funzionanti secondo quanto previsto dall'articolo 152, comma 1))
 
 Le disposizioni previste nelle lettere b) e c) del comma 1 non si applicano ai velocipedi quando sono usati durante competizioni sportive.
 
@@ -3206,6 +4957,38 @@ Nel regolamento sono stabiliti, per i veicoli di cui agli articoli 49, 50 e 51, 
 ## Art. 70. — Servizio di piazza con veicoli a trazione animale o con slitte
 
 I comuni sono autorizzati a rilasciare licenze per il servizio di piazza con veicoli a trazione animale. Tale servizio si svolge nell'area comunale ed i comuni possono determinare i tratti e le zone in cui tali servizi sono consentiti per interessi turistici e culturali. I veicoli a trazione animale destinati a servizi di piazza, oltre alla targa indicata nell'art. 67, devono essere muniti di altra targa con l'indicazione "servizio di piazza". I comuni possono destinare speciali aree, delimitate e segnalate, per lo stazionamento delle vetture a trazione animale per i servizi di piazza.
+
+2.
+                        
+                            
+                                Il regolamento di esecuzione determina: 
+ 
+                            
+                            
+                                a)
+                                
+                                    i tipi di vettura a trazione animale con le quali puo' essere esercitato il servizio di piazza; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le condizioni ed i requisiti per ottenere la licenza per i servizi di piazza con vetture a trazione animale; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    le modalita' per la revisione, che deve essere eseguita di regola ogni cinque anni; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    le modalita' per il rilascio delle licenze di cui al comma 1.
 
 Nelle localita' e nei periodi di tempo in cui e' consentito l'uso delle slitte possono essere destinate slitte al servizio di piazza. Si applicano, in quanto compatibili le norme sul servizio di piazza a trazione animale.
 
@@ -3342,6 +5125,70 @@ Chiunque circola con un veicolo a motore o con un rimorchio non conformi alle pr
  Il Decreto 31 dicembre 2020 (in G.U. 31/12/2020, n. 323) ha disposto (con l'art. 3, comma 1) che le presenti modifiche avranno effetto a decorrere dal 1° gennaio 2021.
 
 ## Art. 72. — Dispositivi di equipaggiamento dei veicoli a motore e loro rimorchi
+
+1.
+                        
+                            
+                                I ciclomotori, i motoveicoli e gli autoveicoli devono essere equipaggiati con: 
+ 
+                            
+                            
+                                a)
+                                
+                                    dispositivi di segnalazione visiva e di illuminazione; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    dispositivi silenziatori e di scarico se hanno il motore termico; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    dispositivi di segnalazione acustica; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    dispositivi retrovisori; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    pneumatici o sistemi equivalenti.
+
+2.
+                        
+                            
+                                Gli autoveicoli e i motoveicoli di massa a vuoto superiore a 0,35 t devono essere muniti del dispositivo per la retromarcia. Gli autoveicoli devono altresi' essere equipaggiati con: 
+ 
+                            
+                            
+                                a)
+                                
+                                    dispositivi di ritenuta e dispositivi di protezione, se trattasi di veicoli predisposti fin dall'origine con gli specifici punti di attacco, aventi le caratteristiche indicate, per ciascuna categoria di veicoli, con decreto del Ministro dei trasporti; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    segnale mobile di pericolo di cui all'art. 162; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    contachilometri aventi le caratteristiche stabilite dal regolamento.
 
 Durante la circolazione, gli autoveicoli, i rimorchi ed i semirimorchi adibiti al trasporto di cose, nonche' classificati per uso speciale o per trasporti speciali o per trasporti specifici, immatricolati in Italia con massa complessiva a pieno carico superiore a 3,5 t., devono altresi' essere equipaggiati con strisce posteriori e laterali retroriflettenti. Le caratteristiche tecniche delle strisce retroriflettenti sono definite con decreto del Ministro delle infrastrutture e dei trasporti, in ottemperanza a quanto previsto dal regolamento internazionale ONU/ECE 104. I veicoli di nuova immatricolazione devono essere equipaggiati con i dispositivi del presente comma dal 1° aprile 2005 ed i veicoli in circolazione entro il 31 dicembre 2006.
 
@@ -3496,6 +5343,24 @@ Chiunque circola in sede promiscua con un veicolo su rotaia mancante di alcuno d
  Il Decreto 31 dicembre 2020 (in G.U. 31/12/2020, n. 323) ha disposto (con l'art. 3, comma 1) che la presente modifica avra' effetto a decorrere dal 1° gennaio 2021.
 
 ## Art. 74. — Dati di identificazione
+
+1.
+                        
+                            
+                                I ciclomotori, i motoveicoli, gli autoveicoli, i filoveicoli e i rimorchi devono avere per costruzione: 
+ 
+                            
+                            
+                                a)
+                                
+                                    una targhetta di identificazione, solidamente fissata al veicolo stesso; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    un numero di identificazione impresso sul telaio, anche se realizzato con una struttura portante o equivalente, riprodotto in modo tale da non poter essere cancellato o alterato.
 
 La targhetta e il numero di identificazione devono essere collocati in punti visibili, su una parte del veicolo che normalmente non sia suscettibile di sostituzione durante l'utilizzazione del veicolo stesso.
 
@@ -4021,6 +5886,52 @@ I veicoli possono essere adibiti a uso proprio o a uso di terzi.
 Si ha l'uso di terzi quando un veicolo e' utilizzato, dietro 
  corrispettivo, nell'interesse di persone diverse dall'intestatario  della carta di circolazione. Negli altri casi il veicolo si intende adibito a uso proprio.
 
+5.
+                        
+                            
+                                L'uso di terzi comprende: 
+ 
+                            
+                            
+                                a)
+                                
+                                    locazione senza conducente; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    servizio di noleggio con conducente e servizio di piazza (taxi) per trasporto di persone; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    servizio di linea per trasporto di persone; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    servizio di trasporto di cose per conto terzi; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    servizio di linea per trasporto di cose; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    servizio di piazza per trasporto di cose per conto terzi.
+
 Previa autorizzazione dell'ufficio competente del Dipartimento per i trasporti terrestri, gli autocarri possono essere utilizzati, in via eccezionale e temporanea, per il trasporto di persone.
 L'autorizzazione e' rilasciata in base al nulla osta del prefetto.
 Analoga autorizzazione viene rilasciata dall'ufficio competente del Dipartimento per i trasporti terrestri agli autobus destinati a servizio di noleggio con conducente, i quali possono essere impiegati, in via eccezionale secondo direttive emanate dal Ministero dei trasporti con decreti ministeriali, in servizio di linea e viceversa.
@@ -4173,7 +6084,75 @@ L'impresa italiana iscritta all'albo degli autotrasportatori di cose per conto t
 
 ((3-bis. L'impresa autorizzata all'esercizio dell'attivita' di trasporto di persone su strada puo' utilizzare autobus locati senza conducente sulla base di un contratto di locazione stipulato con un'impresa locatrice stabilita in uno Stato membro dell'Unione europea, a condizione che i suddetti veicoli risultino immatricolati o messi in circolazione conformemente alla legislazione di qualsiasi Stato membro))
 
+4.
+                        
+                            
+                                Possono essere destinati alla locazione senza conducente: 
+ 
+                            
+                            
+                                a)
+                                
+                                    i veicoli ad uso speciale, la cui massa complessiva a pieno carico non sia superiore a 6 t; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    i veicoli destinati al trasporto di cose. 
+
+                                
+                            
+                            
+                                b-bis)
+                                
+                                    i veicoli, aventi al massimo nove posti compreso quello del conducente, destinati al trasporto di persone, ((...)) i veicoli per il trasporto promiscuo, le autocaravan, le caravan e i rimorchi destinati al trasporto di attrezzature turistiche e sportive.
+
 L'utilizzo in conto proprio dei veicoli destinati al trasporto di cose di cui al comma 4, lettera b), e' ammesso qualora gli stessi abbiano massa complessiva a pieno carico non superiore a 6 t.
+
+4-ter
+                        
+                            
+                                L'utilizzazione di veicoli in locazione senza conducente di cui ai commi 2 e 3 e' consentita a condizione che: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il contratto di locazione preveda unicamente la messa a disposizione del veicolo senza conducente e non sia abbinato a un contratto di servizio concluso con la stessa impresa e riguardante il personale di guida o di accompagnamento; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il veicolo locato sia esclusivamente a disposizione dell'impresa che lo utilizza, per la durata del contratto di locazione; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il veicolo locato sia guidato dal personale proprio dell'impresa che lo utilizza.
+
+4-quater.
+                        
+                            
+                                Al fine del rispetto delle condizioni di cui al comma 4-ter e' necessario il possesso, a bordo del veicolo oggetto del contratto di locazione, della seguente documentazione in formato cartaceo o elettronico: 
+ 
+                            
+                            
+                                a)
+                                
+                                    contratto di locazione o estratto autenticato del medesimo contratto; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    qualora non sia il conducente a locare il veicolo, contratto di lavoro del conducente o estratto autenticato del medesimo contratto.
 
 I documenti di cui al comma 4-quater, lettere a) e b), possono eventualmente essere sostituiti da un documento equivalente secondo le disposizioni vigenti.
 
@@ -4251,6 +6230,66 @@ Alle violazioni di cui ai commi 7 e 7-bis consegue la sanzione amministrativa ac
 ## Art. 85. — Servizio di noleggio con conducente per trasporto di persone
 
 Il servizio di noleggio con conducente per trasporto di persone e' disciplinato dalle leggi specifiche che regolano la materia.
+
+2.
+                        
+                            
+                                Possono essere destinati ad effettuare servizio di noleggio con conducente per trasporto di persone: 
+ 
+                            
+                            
+                                a)
+                                
+                                    i motocicli con o senza sidecar; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    i tricicli; 
+
+                                
+                            
+                            
+                                b-bis)
+                                
+                                    i velocipedi; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    i quadricicli; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    le autovetture; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    gli autobus; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    gli autoveicoli per trasporto promiscuo o per trasporti specifici di persone; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    i veicoli a trazione animale.
 
 La carta di circolazione di tali veicoli e' rilasciata sulla base della licenza comunale d'esercizio.
 
@@ -4747,6 +6786,45 @@ Le disposizioni di cui al comma 2 si applicano altresi' ai lavoratori subordinat
 
 Le targhe dei veicoli di cui ai commi 1, 2 e 3 devono essere chiaramente leggibili e contenere il contrassegno di immatricolazione composto da cifre arabe e da caratteri latini maiuscoli, secondo le modalita' da stabilire nel regolamento. Chiunque viola le disposizioni del presente comma e' soggetto alle sanzioni di cui all'articolo 100, commi 11 e 15.
 
+5.
+                        
+                            
+                                Le disposizioni di cui ai commi 1 e 2 non si applicano: 
+ 
+                            
+                            
+                                a)
+                                
+                                    ai cittadini residenti nel comune di Campione d'Italia; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    al personale civile e militare dipendente da pubbliche amministrazioni in servizio all'estero, di cui all'articolo 1, comma 9, lettere a) e b), della legge 27 ottobre 1988, n. 470; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    al personale delle Forze armate e di polizia in servizio all'estero presso organismi internazionali o basi militari; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    ai familiari conviventi all'estero con il personale di cui alle lettere b) e c); 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    qualora il proprietario del veicolo, residente all'estero, sia presente a bordo.
+
 Le disposizioni di cui al comma 2 non si applicano ai conducenti residenti in Italia da oltre sessanta giorni che si trovano alla guida di veicoli immatricolati nella Repubblica di San Marino e nella disponibilita' di imprese aventi sede nel territorio sammarinese, con le quali sono legati da un rapporto di lavoro subordinato o di collaborazione continuativa.
 
 Il proprietario del veicolo che ne consente la circolazione in violazione delle disposizioni di cui ai commi 1 e 3 e' soggetto alla sanzione amministrativa del pagamento di una somma da euro 400 a euro 1.600. L'organo accertatore ritira il documento di circolazione e intima al proprietario di immatricolare il veicolo secondo le disposizioni degli articoli 93 e 94, ovvero, nei casi di cui al comma 3, di provvedere alla registrazione ai sensi del comma 2. Ordina altresi' l'immediata cessazione della circolazione del veicolo e il suo trasporto e deposito in luogo non soggetto a pubblico passaggio.
@@ -4985,6 +7063,24 @@ In caso di circolazione dopo la cancellazione si applicano le sanzioni amministr
  Il D.Lgs. 29 maggio 2017, n. 98, come modificato dalla L. 30 dicembre 2018, n. 145, ha disposto (con l'art. 7, comma 1) la proroga dell'entrata in vigore della modifica di cui al comma 1 e della soppressione di cui al comma 2 del presente articolo dal 1° gennaio 2019 al 1° gennaio 2020.
 
 ## Art. 97. — Circolazione dei ciclomotori
+
+1.
+                        
+                            
+                                I ciclomotori, per circolare, devono essere muniti di: 
+ 
+                            
+                            
+                                a)
+                                
+                                    un certificato di circolazione, contenente i dati di identificazione e costruttivi del veicolo, nonche' quelli della targa e dell'intestatario, rilasciato dal Dipartimento per i trasporti terrestri, ovvero da uno dei soggetti di cui alla legge 8 agosto 1991, n. 264, con le modalita' stabilite con decreto dirigenziale del Ministero delle infrastrutture e dei trasporti, a seguito di aggiornamento dell'Archivio nazionale dei veicoli di cui agli articoli 225 e 226; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    una targa, che identifica l'intestatario del certificato di circolazione.
 
 La targa e' personale e abbinata a un solo veicolo. Il titolare la trattiene in caso di vendita. La fabbricazione e la vendita delle targhe sono riservate allo Stato, che puo' affidarle con le modalita' previste dal regolamento ai soggetti di cui alla legge 8 agosto 1991, n. 264.
 
@@ -5561,6 +7657,52 @@ Qualunque sia la condizione di carico della macchina agricola semovente, la mass
 
 La massa complessiva delle macchine agricole cingolate non puo' eccedere 16 t.
 
+7.
+                        
+                            
+                                Le trattrici agricole per circolare su strada con attrezzature di tipo portato o semiportato devono rispondere alle seguenti prescrizioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    lo sbalzo anteriore del complesso non deve risultare superiore al 60% della lunghezza della trattrice non zavorrata; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    lo sbalzo posteriore del complesso non deve risultare superiore al 90% della lunghezza della trattrice non zavorrata; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    la lunghezza complessiva dell'insieme, data dalla somma dei due sbalzi e del passo della trattrice agricola, non deve superare il doppio di quella della trattrice non zavorrata; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    la sporgenza laterale non deve eccedere di 1,60 m dal piano mediano verticale longitudinale della trattrice; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    la massa del complesso trattrice e attrezzi comunque portati non deve superare la massa ammissibile accertata nel rispetto delle norme stabilite dal regolamento, nei limiti delle masse fissati nei commi precedenti; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    il bloccaggio tridimensionale degli attacchi di supporto degli attrezzi deve impedire, durante il trasporto, qualsiasi oscillazione degli stessi rispetto alla trattrice, a meno che l'attrezzatura sia equipaggiata con una o piu' ruote liberamente orientabili intorno ad un asse verticale rispetto al piano di appoggio.
+
 Le macchine agricole che per necessita' funzionali hanno sagome e masse eccedenti quelle previste nei commi dall'1 al 6 e le trattrici equipaggiate con attrezzature di tipo portato o semiportato, che non rientrano nei limiti stabiliti nel comma 7, sono considerate macchine agricole eccezionali e devono essere munite, per circolare su strada, dell'autorizzazione valida per due anni e rinnovabile, rilasciata dal compartimento A.N.A.S. di partenza per le strade statali e dalla regione di partenza per la rimanente rete stradale. (99)
 
 Nel regolamento sono stabilite posizioni, caratteristiche fotometriche, colorimetriche e modalita' di applicazione di pannelli e dispositivi di segnalazione visiva, atti a segnalare gli ingombri dati dalle macchine agricole indicate nei commi 7 e 8; nel regolamento saranno indicate le condizioni e le cautele da osservare durante la marcia su strada.
@@ -5708,6 +7850,80 @@ Chiunque viola le disposizioni del presente articolo e' soggetto alla sanzione a
 ## Art. 106. — Norme costruttive e dispositivi di equipaggiamento delle macchine agricole
 
 Le macchine agricole indicate nell'art. 57, comma 2, devono essere costruite in modo che, ai fini della circolazione stradale, garantiscano sufficiente stabilita' sia quando circolano isolatamente, sia quando effettuano il traino, se previsto, sia, in- fine, quando sono equipaggiate con attrezzi portati o semiportati dei quali deve essere garantito il bloccaggio tridimensionale. Le macchine agricole semoventi devono essere inoltre costruite in modo da consentire un idoneo campo di visibilita', anche quando sono equipaggiate con cabina di guida chiusa, con dispositivi di protezione del conducente e con attrezzi portati o semiportati. Il sedile del conducente deve essere facilmente accessibile e confortevole ed i comandi adeguatamente agibili.
+
+2.
+                        
+                            
+                                Le macchine agricole semoventi indicate nell'art. 57, comma 2, lettera a), escluse quelle di cui al punto 3), devono essere munite di: 
+ 
+                            
+                            
+                                a)
+                                
+                                    dispositivi per la segnalazione visiva e per l'illuminazione; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    dispositivi per la frenatura; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    dispositivo di sterzo; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    dispositivo silenziatore del rumore emesso dal motore; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    dispositivo per la segnalazione acustica; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    dispositivo retrovisore; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    ruote o cingoli idonei per la marcia su strada; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    dispositivi amovibili per la protezione dalle parti pericolose; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    dispositivi di agganciamento, anche amovibili, se predisposte per il traino; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    superfici trasparenti di sicurezza e dispositivo tergivetro del parabrezza.
 
 Le macchine agricole semoventi indicate nell'art. 57, comma 2, lettera a), punto 3), devono essere munite, con riferimento all'elencazione del comma 2, dei dispositivi di cui alle lettere b), c), d), g) ed h); devono inoltre essere munite dei dispositivi di cui alla lettera a), anche se amovibili; nel limite di massa di 0,3 t possono essere sprovviste dei dispositivi di cui alla lettera b).
 
@@ -6153,6 +8369,68 @@ Chiunque viola le disposizioni del presente articolo e' soggetto alle medesime s
 
 ## Art. 115. — Requisiti per la guida dei veicoli e la conduzione di animali
 
+1.
+                        
+                            
+                                Fatte salve le disposizioni specifiche in materia di carta di qualificazione del conducente, chi guida veicoli o conduce animali deve essere idoneo per requisiti fisici e psichici e aver compiuto: 
+ 
+                            
+                            
+                                a)
+                                
+                                    anni quattordici per guidare: 
+ 1) veicoli a trazione animale o condurre animali da tiro, da soma o da sella, ovvero armenti, greggi o altri raggruppamenti di animali; 
+ 2) sul territorio nazionale, veicoli cui abilita la patente di guida della categoria AM, purche' non trasportino altre persone oltre al conducente; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    anni sedici per guidare: 
+ 1) veicoli cui abilita la patente di guida della categoria AM; 
+ 2) veicoli cui abilita la patente di guida della categoria A1; 
+ 3) veicoli cui abilita la patente di guida della categoria B1; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    anni diciotto per guidare: 
+ 1) NUMERO ABROGATO DALLA L. 29 LUGLIO 2015, N. 115; 
+ 2) veicoli cui abilita la patente di guida della categoria A2; 
+ 3) veicoli cui abilita la patente di guida delle categorie B e BE; 
+ 4) veicoli cui abilita la patente di guida delle categorie C1 e C1E; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    anni venti per guidare: 
+ 1) veicoli cui abilita la patente di guida della categoria A, a condizione che il conducente sia titolare della patente di guida della categoria A2 da almeno due anni; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    anni ventuno per guidare: 
+ 1) tricicli cui abilita la patente di guida della categoria A; 
+ 2) veicoli cui abilita la patente di guida delle categorie C e CE; 
+ 3) veicoli cui abilita la patente di guida delle categorie D1 e D1E; 
+ 4) veicoli per i quali e' richiesto un certificato di abilitazione professionale di tipo KA o KB nonche' i veicoli che circolano in servizio di emergenza, di cui all'articolo 177; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    anni ventiquattro per guidare: 
+ 1) veicoli cui abilita la patente di guida della categoria A; 
+ 2) veicoli cui abilita la patente di guida delle categorie D e DE. (102)
+
 Ai minori che hanno compiuto diciassette anni e che sono titolari di patente di guida di categoria A1 o B1, e' consentita, a fini di esercitazione, la guida di autoveicoli di massa complessiva a pieno carico non superiore a 3,5 t, con esclusione del traino di qualunque tipo di rimorchio, e comunque nel rispetto dei limiti di potenza specifica riferita alla tara di cui all'articolo 117, comma 2-bis, purche' accompagnati da un conducente titolare di patente di guida di categoria B o superiore da almeno dieci anni, previo rilascio di un'apposita autorizzazione da parte del competente ufficio del Dipartimento per i trasporti, la navigazione ed i sistemi informativi e statistici, su istanza presentata al medesimo ufficio dal genitore o dal legale rappresentante del minore.
 
 Il minore autorizzato ai sensi del comma 1-bis puo' procedere alla guida accompagnato da uno dei soggetti indicati al medesimo comma solo dopo aver effettuato almeno dieci ore di corso pratico di guida, delle quali almeno quattro in autostrada o su strade extraurbane e due in condizione di visione notturna, presso un'autoscuola con istruttore abilitato e autorizzato.
@@ -6164,6 +8442,24 @@ Nelle ipotesi di guida di cui al comma 1-bis si applicano le disposizioni di cui
 Nelle ipotesi di guida di cui al comma 1-bis, se il minore autorizzato commette violazioni per le quali, ai sensi delle disposizioni del presente codice, sono previste le sanzioni amministrative accessorie di cui agli articoli 218 e 219, e' sempre disposta la revoca dell'autorizzazione alla guida accompagnata. Per la revoca dell'autorizzazione si applicano le disposizioni dell'articolo 219, in quanto compatibili. Nell'ipotesi di cui al presente comma il minore non puo' conseguire di nuovo l'autorizzazione di cui al comma 1-bis.
 
 Nelle ipotesi di guida di cui al comma 1-bis, se il minore non ha a fianco l'accompagnatore indicato nell'autorizzazione, si applicano le sanzioni amministrative previste dall'articolo 122, comma 8, primo e secondo periodo. Si applicano altresi' le disposizioni del comma 1-sexies del presente articolo.
+
+2.
+                        
+                            
+                                Chi guida veicoli a motore non puo' aver superato: 
+ 
+                            
+                            
+                                a)
+                                
+                                    anni sessantacinque per guidare autotreni ed autoarticolati la cui massa complessiva a pieno carico sia superiore a 20 t. Tale limite puo' essere elevato, anno per anno, fino a sessantotto anni qualora il conducente consegua uno specifico attestato sui requisiti fisici e psichici a seguito di visita medica specialistica annuale, con oneri a carico del richiedente, secondo le modalita' stabilite nel regolamento; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    anni sessanta per guidare autobus, autocarri, autotreni, autoarticolati, autosnodati, adibiti al trasporto di persone. Tale limite puo' essere elevato, anno per anno, fino a sessantotto anni qualora il conducente consegua uno specifico attestato sui requisiti fisici e psichici a seguito di visita medica specialistica annuale, con oneri a carico del richiedente, secondo le modalita' stabilite nel regolamento. (122)
 
 COMMA ABROGATO DAL D.L. 9 FEBBRAIO 2012, N. 5, CONVERTITO CON MODIFICAZIONI DALLA L. 4 APRILE 2012, N. 35. (109)
 
@@ -6255,6 +8551,118 @@ Le violazioni alle disposizioni che precedono, quando commesse con veicoli a mot
 Non si possono guidare ciclomotori, motocicli, tricicli, quadricicli e autoveicoli senza aver conseguito la patente di guida ed, ove richieste, le abilitazioni professionali. Tali documenti sono rilasciati dal competente ufficio del Dipartimento per i trasporti, la navigazione e i sistemi informativi e statistici a soggetti che hanno la residenza in Italia ai sensi dell'articolo 118-bis.
 
 Per sostenere gli esami di idoneita' per la patente di guida occorre presentare apposita domanda al competente ufficio del Dipartimento per i trasporti, la navigazione ed i sistemi informativi e statistici ed essere in possesso dei requisiti fisici e psichici prescritti. Il Ministero delle infrastrutture e dei trasporti, con decreti dirigenziali, stabilisce il procedimento per il rilascio, l'aggiornamento e il duplicato, attraverso il proprio sistema informatico, delle patenti di guida e delle abilitazioni professionali, con l'obiettivo della massima semplificazione amministrativa, anche con il coinvolgimento dei medici di cui all'articolo 119, dei comuni, delle autoscuole di cui all'articolo 123 e dei soggetti di cui alla legge 8 agosto 1991, n. 264.
+
+3.
+                        
+                            
+                                La patente di guida, conforme al modello UE, si distingue nelle seguenti categorie ed abilita alla guida dei veicoli per ciascuna di esse indicati: 
+ 
+                            
+                            
+                                a)
+                                
+                                    AM: 
+ 1) ciclomotori a due ruote (categoria L1e) con velocita' massima di costruzione non superiore a 45 km/h, la cui cilindrata e' inferiore o uguale a 50 cm³ se a combustione interna, oppure la cui potenza nominale continua massima e' inferiore o uguale a 4 kW per i motori elettrici; 
+ 2) veicoli a tre ruote (categoria L2e) aventi una velocita' massima per costruzione non superiore a 45 km/h e caratterizzati da un motore, la cui cilindrata e' inferiore o uguale a 50 cm³ se ad accensione comandata, oppure la cui potenza massima netta e' inferiore o uguale a 4 kW per gli altri motori a combustione interna, oppure la cui potenza nominale continua massima e' inferiore o uguale a 4kW per i motori elettrici; 
+ 3) quadricicli leggeri la cui massa a vuoto e' inferiore o pari a 350 kg (categoria L6e), esclusa la massa delle batterie per i veicoli elettrici, la cui velocita' massima per costruzione e' inferiore o uguale a 45 km/h e la cui cilindrata del motore e' inferiore o pari a 50 cm³ per i motori ad accensione comandata; o la cui potenza massima netta e' inferiore o uguale a 4 kW per gli altri motori, a combustione interna; o la cui potenza nominale continua massima e' inferiore o uguale a 4 kW per i motori elettrici; (113) (121) (125) 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    A1: 
+ 1) motocicli di cilindrata massima di 125 cm³, di potenza massima di 11 kW e con un rapporto potenza/peso non superiore a 0,1 kW/kg; 
+ 2) tricicli di potenza non superiore a 15 kW; (113) (121) (125) 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    A2: motocicli di potenza non superiore a 35 kW con un rapporto potenza/peso non superiore a 0,2 kW/kg e che non siano derivati da una versione che sviluppa oltre il doppio della potenza massima; (113) (121) (125) 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    A: 
+ 1) motocicli, ossia veicoli a due ruote, senza carrozzetta (categoria L3e) o con carrozzetta (categoria L4e), muniti di un motore con cilindrata superiore a 50 cm³ se a combustione interna e/o aventi una velocita' massima per costruzione superiore a 45 km/h; 
+ 2) tricicli di potenza superiore a 15 kW, fermo restando quanto previsto dall'articolo 115, comma 1, lettera e), numero 1); (113) (121) (125) 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    B1: quadricicli diversi da quelli di cui alla lettera a), numero 3), la cui massa a vuoto e' inferiore o pari a 400 kg (categoria L7e) (550 kg per i veicoli destinati al trasporto di merci), esclusa la massa delle batterie per i veicoli elettrici, e la cui potenza massima netta del motore e' inferiore o uguale a 15 kW.
+Tali veicoli sono considerati come tricicli e sono conformi alle prescrizioni tecniche applicabili ai tricicli della categoria L5e salvo altrimenti disposto da specifiche disposizioni comunitarie; (113) (121) (125) 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    BE: complessi di veicoli composti di una motrice della categoria B e di un rimorchio o semirimorchio: questi ultimi devono avere massa massima autorizzata non superiore a 3500 kg; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    C1: autoveicoli diversi da quelli delle categorie D1 o D la cui massa massima autorizzata e' superiore a 3500 kg, ma non superiore a 7500 kg, progettati e costruiti per il trasporto di non piu' di otto passeggeri, oltre al conducente; agli autoveicoli di questa categoria puo' essere agganciato un rimorchio la cui massa massima autorizzata non sia superiore a 750 kg; (113) (121) (125) 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    C1E: 
+ 1) complessi di veicoli composti di una motrice rientrante nella categoria C1 e di un rimorchio o di un semirimorchio la cui massa massima autorizzata e' superiore a 750 kg, sempre che la massa autorizzata del complesso non superi 12000 kg; 
+ 2) complessi di veicoli composti di una motrice rientrante nella categoria B e di un rimorchio o di un semirimorchio la cui massa autorizzata e' superiore a 3500 kg, sempre che la massa autorizzata del complesso non superi 12000 kg. (113) (121) (125) 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    C: autoveicoli diversi da quelli delle categorie D1 o D la cui massa massima autorizzata e' superiore a 3500 kg e progettati e costruiti per il trasporto di non piu' di otto passeggeri, oltre al conducente; agli autoveicoli di questa categoria puo' essere agganciato un rimorchio la cui massa massima autorizzata non superi 750 kg; 
+
+                                
+                            
+                            
+                                m)
+                                
+                                    CE: complessi di veicoli composti di una motrice rientrante nella categoria C e di un rimorchio o di un semirimorchio la cui massa massima autorizzata superi 750 kg; 
+
+                                
+                            
+                            
+                                n)
+                                
+                                    D1: autoveicoli progettati e costruiti per il trasporto di non piu' di 16 persone, oltre al conducente, e aventi una lunghezza massima di 8 metri; agli autoveicoli di questa categoria puo' essere agganciato un rimorchio la cui massa massima autorizzata non superi 750 kg; (113) (121) (125) 
+
+                                
+                            
+                            
+                                o)
+                                
+                                    D1E: complessi di veicoli composti da una motrice rientrante nella categoria D1 e da un rimorchio la cui massa massima autorizzata e' superiore a 750 kg; (113) (121) (125) 
+
+                                
+                            
+                            
+                                p)
+                                
+                                    D: autoveicoli progettati e costruiti per il trasporto di piu' di otto persone oltre al conducente; a tali autoveicoli puo' essere agganciato un rimorchio la cui massa massima autorizzata non superi 750 kg; 
+
+                                
+                            
+                            
+                                q)
+                                
+                                    DE: complessi di veicoli composti da una motrice rientrante nella categoria D e da un rimorchio la cui massa massima autorizzata supera 750 kg. (115)
 
 I mutilati ed i minorati fisici, anche se affetti da piu' minorazioni, possono conseguire la patente speciale delle categorie AM, A1, A2, A, B1, B, ((BE, C1, C1E, C, CE, D1, D1E, D, DE)). Le suddette patenti possono essere limitate alla guida di veicoli di particolari tipi e caratteristiche, e possono indicare determinate prescrizioni in relazione all'esito degli accertamenti di cui all'articolo 119, comma 4. Le limitazioni devono essere riportate sulla patente utilizzando i codici comunitari armonizzati, ovvero i codici nazionali stabiliti dal Dipartimento per i trasporti, la navigazione e i sistemi informativi e statistici. Ai titolari di patente B speciale e' vietata la guida di autoambulanze. ((173))
 
@@ -6626,11 +9034,91 @@ Le relative spese sono a carico del richiedente. (99)
 
 L'accertamento di cui ai commi 2 e 2-ter deve risultare da certificazione di data non anteriore a tre mesi dalla presentazione della domanda per sostenere l'esame di guida. PERIODO ABROGATO DAL D.P.R. 19 APRILE 1994, N. 575. La certificazione deve tener conto dei precedenti morbosi del richiedente dichiarati da un certificato medico rilasciato da un medico di fiducia. (15)
 
+4.
+                        
+                            
+                                L'accertamento dei requisiti psichici e fisici e' effettuato da commissioni mediche locali, costituite dai competenti organi regionali ovvero dalle province autonome di Trento e di Bolzano che provvedono altresi' alla nomina dei rispettivi presidenti, nei riguardi: 
+ 
+                            
+                            
+                                a)
+                                
+                                    dei mutilati e minorati fisici. Nel caso in cui il giudizio di idoneita' non possa essere formulato in base ai soli accertamenti clinici si dovra' procedere ad una prova pratica di guida su veicolo adattato in relazione a particolari esigenze. ((Qualora, all'esito della visita di cui al precedente periodo, la commissione medica locale certifichi che il conducente presenti situazioni di mutilazione o minorazione fisica stabilizzate e non suscettibili di aggravamento ne' di modifica delle prescrizioni o delle limitazioni in atto, i successivi rinnovi di validita' della patente di guida posseduta potranno essere esperiti secondo le procedure di cui al comma 2 e secondo la durata di cui all'articolo 126, commi 2, 3 e 4.)); 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    di coloro che abbiano superato i sessantacinque anni di eta' ed abbiano titolo a guidare autocarri di massa complessiva, a pieno carico, superiore a 3,5 t, autotreni ed autoarticolati adibiti al trasporto di cose, la cui massa complessiva, a pieno carico, non sia superiore a 20 t, macchine operatrici; 
+
+                                
+                            
+                            
+                                b-bis)
+                                
+                                    LETTERA SOPPRESSA DAL D.L. 9 FEBBRAIO 2012, N. 5, CONVERTITO CON MODIFICAZIONI DALLA L. 4 APRILE 2012, N. 35; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    di coloro per i quali e' fatta richiesta dal prefetto o dall'ufficio competente del Dipartimento per i trasporti terrestri; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    di coloro nei confronti dei quali l'esito degli accertamenti clinici, strumentali e di laboratorio faccia sorgere al medico di cui al comma 2 dubbi circa l'idoneita' e la sicurezza della guida. 
+
+                                
+                            
+                            
+                                d-bis)
+                                
+                                    dei soggetti affetti da diabete per il conseguimento, la revisione o la conferma delle patenti C, D, CE, DE e sottocategorie.
+In tal caso la commissione medica e' integrata da un medico specialista diabetologo, sia ai fini degli accertamenti relativi alla specifica patologia sia ai fini dell'espressione del giudizio finale.
+
 Le commissioni di cui al comma 4 comunicano il giudizio di temporanea o permanente inidoneita' alla guida al competente ufficio della motorizzazione civile che adotta il provvedimento di sospensione o revoca della patente di guida ai sensi degli articoli 129 e 130 del presente codice. Le commissioni comunicano altresi' all'ufficio della motorizzazione civile eventuali riduzioni della validita' della patente, anche con riferimento ai veicoli che la stessa abilita a guidare ovvero ad eventuali adattamenti, ai fini del rilascio del duplicato che tenga conto del nuovo termine di validita' ovvero delle diverse prescrizioni delle commissioni mediche locali. I provvedimenti di sospensione o di revoca ovvero la riduzione del termine di validita' della patente o i diversi provvedimenti, che incidono sulla categoria di veicolo alla cui guida la patente abilita o che prescrivono eventuali adattamenti, possono essere modificati dai suddetti uffici della motorizzazione civile in autotutela, qualora l'interessato produca, a sua richiesta e a sue spese, una nuova certificazione medica rilasciata dagli organi sanitari periferici della societa' Rete Ferroviaria Italiana Spa dalla quale emerga una diversa valutazione. E' onere dell'interessato produrre la nuova certificazione medica entro i termini utili alla eventuale proposizione del ricorso giurisdizionale al tribunale amministrativo regionale competente ovvero del ricorso straordinario al Presidente della Repubblica. La produzione del certificato oltre tali termini comporta decadenza dalla possibilita' di esperire tali ricorsi.
 
 I provvedimenti di sospensione e revoca della patente di guida emanati dagli uffici del Dipartimento per i trasporti terrestri a norma dell'articolo 129, comma 2, e dell'articolo 130, comma 1, nei casi in cui sia accertato il difetto con carattere temporaneo o permanente dei requisiti fisici e psichici prescritti, sono atti definitivi. (56)
 
 Per esprimersi sui ricorsi inoltrati dai richiedenti di cui al comma 4, lettera a), il Ministro dei trasporti si avvale della collaborazione di medici appartenenti ai servizi territoriali della riabilitazione.
+
+8.
+                        
+                            
+                                Nel regolamento di esecuzione sono stabiliti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    i requisiti fisici e psichici per conseguire e confermare le patenti di guida; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le modalita' di rilascio ed i modelli dei certificati medici; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    la composizione e le modalita' di funzionamento delle commissioni mediche di cui al comma 4, delle quali dovra' far parte un medico appartenente ai servizi territoriali della riabilitazione, qualora vengano sottoposti a visita aspiranti conducenti di cui alla lettera a) del citato comma 4. In questa ipotesi, dovra' farne parte un ingegnere del ruolo del Dipartimento per i trasporti terrestri.
+Qualora siano sottoposti a visita aspiranti conducenti che manifestano comportamenti o sintomi associabili a patologie alcoolcorrelate, le commissioni mediche sono integrate con la presenza di un medico dei servizi per lo svolgimento delle attivita' di prevenzione, cura, riabilitazione e reinserimento sociale dei soggetti con problemi e patologie alcoolcorrelati. Puo' intervenire, ove richiesto dall'interessato, un medico di sua fiducia. 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    i tipi e le caratteristiche dei veicoli che possono essere guidati con le patenti speciali di categorie A, B. C e D.
 
 I medici di cui al comma 2 o, nei casi previsti, le commissioni mediche di cui al comma 4, possono richiedere, qualora lo ritengano opportuno, che l'accertamento dei requisiti fisici e psichici sia integrato da specifica valutazione psicodiagnostica effettuata da psicologi abilitati all'esercizio della professione ed iscritti all'albo professionale.
 
@@ -6880,14 +9368,107 @@ Secondo criteri uniformi fissati con decreto del Ministro dei trasporti, le mede
 
 ((7-bis. L'avvio di attivita' di un'autoscuola avviene tramite segnalazione certificata di inizio di attivita' ai sensi dell'articolo 19-bis, comma 3, della legge 7 agosto 1990, n. 241, trasmessa per via telematica allo Sportello unico delle attivita' produttive istituito presso il comune territorialmente competente in ragione della sede dell'autoscuola stessa. Ai fini delle verifiche preventive relative alla disponibilita' del parco veicolare ai sensi del comma 7, per ciascuno Sportello unico delle attivita' produttive e' assicurata una specifica funzionalita' di accesso e consultazione dell'archivio nazionale dei veicoli di cui all'articolo 226, commi 5, 6 e 7))
 
+8.
+                        
+                            
+                                L'attivita' dell'autoscuola e' sospesa per un periodo da uno a tre mesi quando: 
+ 
+                            
+                            
+                                a)
+                                
+                                    l'attivita' dell'autoscuola non si svolga regolarmente; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il titolare non provveda alla sostituzione degli insegnanti o degli istruttori che non siano piu' ritenuti idonei dal competente ufficio del Dipartimento per i trasporti terrestri; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il titolare non ottemperi alle disposizioni date dall'ufficio competente del Dipartimento per i trasporti terrestri ai fini del regolare funzionamento dell'autoscuola.
+
+9.
+                        
+                            
+                                L'esercizio dell'autoscuola e' revocato quando: 
+ 
+                            
+                            
+                                a)
+                                
+                                    siano venuti meno la capacita' finanziaria e i requisiti morali del titolare; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    venga meno l'attrezzatura tecnica e didattica dell'autoscuola; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    siano stati adottati piu' di due provvedimenti di sospensione in un quinquennio.
+
 In caso di revoca per sopravvenuta carenza dei requisiti morali del titolare, a quest'ultimo e' parimenti revocata l'idoneita' tecnica. L'interessato potra' conseguire una nuova idoneita' trascorsi cinque anni dalla revoca o a seguito di intervenuta riabilitazione.
 
 Il Ministro dei trasporti stabilisce, con propri decreti: i requisiti minimi di capacita' finanziaria; i requisiti di idoneita', i corsi di formazione iniziale e periodica, con i relativi programmi, degli insegnanti e degli istruttori delle autoscuole per conducenti; le modalita' di svolgimento delle verifiche di cui al comma 7-bis; i criteri per l'accreditamento da parte delle regioni e delle province autonome dei soggetti di cui al comma 10-bis, lettera b); le prescrizioni sui locali e sull'arredamento didattico, anche al fine di consentire l'eventuale svolgimento degli esami, nonche' la durata dei corsi; i programmi di esame per l'accertamento della idoneita' tecnica degli insegnanti e degli istruttori, cui si accede dopo la citata formazione iniziale; i programmi di esame per il conseguimento della patente di guida. (99)
+
+10-bis.
+                        
+                            
+                                I corsi di formazione degli insegnanti e degli istruttori delle autoscuole, di cui al comma 10, sono organizzati: 
+ 
+                            
+                            
+                                a)
+                                
+                                    dalle autoscuole che svolgono l'attivita' di formazione dei conducenti per il conseguimento di qualsiasi categoria di patente ovvero dai centri di istruzione automobilistica riconosciuti per la formazione integrale; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    da soggetti accreditati dalle regioni o dalle province autonome di Trento e di Bolzano, sulla base della disciplina quadro di settore definita con l'intesa stipulata in sede di Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome di Trento e di Bolzano il 20 marzo 2008, pubblicata nella Gazzetta Ufficiale n. 18 del 23 gennaio 2009, nonche' dei criteri specifici dettati con il decreto del Ministro delle infrastrutture e dei trasporti di cui al comma 10. (99)
 
 Chiunque gestisce un'autoscuola senza la dichiarazione di inizio attivita' o i requisiti prescritti e' soggetto alla sanzione amministrativa del pagamento di una somma da € 11.108 a € 16.661.
 Dalla violazione consegue la sanzione amministrativa accessoria dell'immediata chiusura dell'autoscuola e di cessazione della relativa attivita', ordinata dal competente ufficio secondo le norme di cui al capo I, sezione II, del titolo VI. (19) (29) (43) (52) (64) (80) (101) (114) (124) (133) (145) (163)
 
 L'istruzione o la formazione dei conducenti impartita in forma professionale o, comunque, a fine di lucro al di fuori di quanto disciplinato dal presente articolo costituisce esercizio abusivo dell'attivita' di autoscuola. Chiunque esercita o concorre ad esercitare abusivamente l'attivita' di autoscuola e' soggetto alla sanzione amministrativa del pagamento di una somma da € 11.108 a € 16.661. Si applica inoltre il disposto del comma 9-bis del presente articolo. (101) (114) (124) (133) (145) (163)
+
+11-ter.
+                        
+                            
+                                Lo svolgimento dei corsi di formazione di insegnanti e di istruttori di cui al comma 10 e' sospeso dalla regione territorialmente competente o dalle province autonome di Trento e di Bolzano, in relazione alla sede del soggetto che svolge i corsi: 
+ 
+                            
+                            
+                                a)
+                                
+                                    per un periodo da uno a tre mesi, quando il corso non si tiene regolarmente; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    per un periodo da tre a sei mesi, quando il corso si tiene in carenza dei requisiti relativi all'idoneita' dei docenti, alle attrezzature tecniche e al materiale didattico; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    per un ulteriore periodo da sei a dodici mesi nel caso di reiterazione, nel triennio, delle ipotesi di cui alle lettere a) e b).
 
 La regione territorialmente competente o le province autonome di Trento e di Bolzano dispongono l'inibizione alla prosecuzione dell'attivita' per i soggetti a carico dei quali, nei due anni successivi all'adozione di un provvedimento di sospensione ai sensi della lettera c) del comma 11-ter, e' adottato un ulteriore provvedimento di sospensione ai sensi delle lettere a) e b) del medesimo comma.
 
@@ -6982,6 +9563,31 @@ Nel regolamento saranno stabilite le modalita' per la dichiarazione di inizio at
 
 ((
 
+1.
+                        
+                            
+                                Per guidare macchine agricole, escluse quelle con conducente a terra, nonche' macchine operatrici, escluse quelle a vapore, che circolano su strada, occorre avere ottenuto una delle patenti di cui all'articolo 116, comma 3, e precisamente: 
+ 
+                            
+                            
+                                a)
+                                
+                                    della categoria A1, per la guida delle macchine agricole o dei loro complessi che non superino i limiti di sagoma e di peso stabiliti dall'articolo 53, comma 4, e che non superino la velocita' di 40 km/h; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    della categoria B, per la guida delle macchine agricole, diverse da quelle di cui alla lettera a), nonche' delle macchine operatrici; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    della categoria C1, per le macchine operatrici eccezionali.
+
 Con decreto del Ministro delle infrastrutture e dei trasporti sono stabiliti i tipi e le caratteristiche dei veicoli di cui al comma 1, lettere a) e b) che, eventualmente adattati, possono essere guidati da mutilati e minorati fisici con patenti speciali delle categorie A1 e B, previste dall'articolo 116, comma 3, lettere b) ed f).
 
 Qualora non sia necessario prescrivere adattamenti, lo stesso decreto di cui al comma 2 stabilisce i tipi e le caratteristiche dei veicoli di cui al comma 1 che possono essere guidati da mutilati e minorati fisici.
@@ -7018,6 +9624,84 @@ Qualora non sia necessario prescrivere adattamenti, lo stesso decreto di cui al 
  Il Decreto 19 dicembre 2012 (in G.U. 31/12/2012 n. 303) ha disposto (con l'art. 1, comma 2) che la presente modifica avra' effetto a decorrere dal 1 gennaio 2013.
 
 ## Art. 125. — (Gradualita' ed equivalenze delle patenti di guida).
+
+1.
+                        
+                            
+                                Il rilascio della patente di guida e' subordinato alle seguenti condizioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la patente per le categorie C1, C, D1 o D puo' essere rilasciata unicamente ai conducenti gia' in possesso di patente di categoria B; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la patente per le categorie BE, C1E, CE, D1E e DE puo' essere rilasciata unicamente ai conducenti gia' in possesso di patente rispettivamente delle categorie B, C1, C, D1 o D.
+
+2.
+                        
+                            
+                                La validita' della patente di guida e' fissata come segue: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la patente rilasciata per le categorie C1E, CE, D1E, o DE e' valida per i complessi di veicoli della categoria BE; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la patente rilasciata per la categoria CE e' valida per la categoria DE, purche' il relativo titolare sia gia' in possesso di patente per la categoria D; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    la patente rilasciata per le categorie CE e DE e' valida per i complessi di veicoli, rispettivamente, delle categoria C1E e D1E; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    la patente rilasciata per una qualsiasi categoria e' valida per i veicoli della categoria AM; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    la patente rilasciata per la categoria A2 e' valida anche per la categoria A1; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    la patente rilasciata per le categorie A, B, C o D e' valida, rispettivamente, per le categorie A1 e A2, B1, C1 o D1; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    la patente speciale di guida delle categorie AM, A1, A2, A, B1, B, C1, C, D1 e D rilasciata a mutilati o minorati fisici e' valida soltanto per la guida dei veicoli aventi le caratteristiche indicate nella patente stessa; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    la patente di guida della categoria B e' valida, sul territorio nazionale, per condurre i tricicli di potenza superiore a 15 kW, purche' il titolare abbia almeno 21 anni, nonche' i veicoli della categoria A1.
 
 Fermo restando quanto previsto dal comma 4, chiunque, munito di patente di guida recante un codice unionale o nazionale relativo a "MODIFICHE DEL VEICOLO", conduce un veicolo o circola in condizioni diverse da quelle indicate dai predetti codici, e' soggetto alla sanzione amministrativa del pagamento di una somma da € 158 a € 638. (133) (145) (163)
 
@@ -7351,6 +10035,31 @@ Il provvedimento di sospensione della patente di cui al comma 2 e' atto definiti
  Il D.Lgs. 18 aprile 2011, n. 59 ha disposto (con l'art. 28, comma 1) che "Le disposizioni del presente decreto legislativo si applicano a decorrere dal 19 gennaio 2013, ad eccezione di quelle contenute negli articoli 9, comma 2, 22, comma 1, e 23, nonche' nell'allegato III, con riferimento alle patenti per le categorie A, A1, B, BE, C, CE, D, DE, KA e KB".
 
 ## Art. 130. — Revoca della patente di guida
+
+1.
+                        
+                            
+                                La patente di guida e' revocata dai competenti uffici competenti del Dipartimento per i trasporti terrestri: 
+ 
+                            
+                            
+                                a)
+                                
+                                    quando il titolare non sia in possesso, con carattere permanente, dei requisiti fisici e psichici prescritti; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    quando il titolare, sottoposto alla revisione ai sensi dell'art. 128, risulti non piu' idoneo; (28) (40) (47) (57) 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    quando il titolare abbia ottenuto la sostituzione della propria patente con altra rilasciata da uno Stato estero.(15)
 
 Allorche' siano cessati i motivi che hanno determinato il provvedimento di revoca della patente di guida, l'interessato puo' direttamente conseguire, per esame e con i requisiti psichici e fisici previsti per la conferma di validita', una patente di guida di categoria non superiore a quella della patente revocata, senza che siano operanti i criteri di propedeuticita' previsti dall'art. 116 per il conseguimento delle patenti delle categorie C, D ed E. Le limitazioni di cui all'art. 117 si applicano con riferimento alla data di rilascio della patente revocata.
 
@@ -7748,6 +10457,23 @@ Le Forze armate provvedono direttamente nei riguardi dei veicoli di loro dotazio
 
 I veicoli delle Forze armate, qualora eccedono i limiti di cui agli articoli 61 e 62, devono essere muniti, per circolare sulle strade non militari, di una autorizzazione speciale che viene rilasciata dal comando militare sentiti gli enti competenti, conformemente a quanto previsto dall'art. 10, comma 6. All'eventuale scorta provvede il predetto comando competente.
 
+3.
+                        
+                            
+                                Le Forze armate provvedono direttamente nei riguardi del personale in servizio: 
+
+                            
+                            
+                                a)
+                                
+                                    all'addestramento, all'individuazione e all'accertamento dei requisiti necessariper la guida, all'esame di idoneita' e al rilascio della patente militare di guida, che abilita soltanto alla guida dei veicoli comunque in dotazione delle Forze armate; 
+                                
+                            
+                            
+                                b)
+                                
+                                    al rilascio dei certificati di abilitazione alle mansioni di insegnante di teoria e di istruttore di scuola guida, relativi all'addestramento di cui alla lettera a).
+
 Gli insegnanti, gli istruttori e i conducenti di cui al comma 3 non sono soggetti alle disposizioni del presente titolo.
 
 Coloro che sono muniti di patente militare possono ottenere, senza sostenere l'esame di idoneita', la patente di guida per veicoli delle corrispondenti categorie, secondo la tabella di equipollenza stabilita dal Ministero dei trasporti, di concerto con il Ministero della difesa, sempreche' la richiesta venga presentata per il tramite dell'autorita' dalla quale dipendono durante il servizio o non oltre un anno dalla data del congedo o dalla cessazione dal servizio.
@@ -7876,6 +10602,80 @@ Chiunque viola le altre disposizioni del presente articolo e' soggetto alla sanz
 Ai fini della sicurezza della circolazione e della tutela della vita umana la velocita' massima non puo' superare i 130 km/h per le autostrade, i 110 km/h per le strade extraurbane principali, i 90 km/h per le strade extraurbane secondarie e per le strade extraurbane locali, ed i 50 km/h per le strade nei centri abitati, con la possibilita' di elevare tale limite fino ad un massimo di 70 km/h per le strade urbane le cui caratteristiche costruttive e funzionali lo consentano, previa installazione degli appositi segnali. Sulle autostrade a tre corsie piu' corsia di emergenza per ogni senso di marcia, dotate di apparecchiature debitamente omologate per il calcolo della velocita' media di percorrenza su tratti determinati, gli enti proprietari o concessionari possono elevare il limite massimo di velocita' fino a 150 km/h sulla base delle caratteristiche progettuali ed effettive del tracciato, previa installazione degli appositi segnali, sempreche' lo consentano l'intensita' del traffico, le condizioni atmosferiche prevalenti ed i dati di incidentalita' dell'ultimo quinquennio. In caso di precipitazioni atmosferiche di qualsiasi natura, la velocita' massima non puo' superare i 110 km/h per le autostrade ed i 90 km/h per le strade extraurbane principali.
 
 Entro i limiti massimi suddetti, gli enti proprietari della strada possono fissare, provvedendo anche alla relativa segnalazione, limiti di velocita' minimi e limiti di velocita' massimi, diversi da quelli fissati al comma 1, in determinate strade e tratti di strada quando l'applicazione al caso concreto dei criteri indicati nel comma 1 renda opportuna la determinazione di limiti diversi, seguendo le direttive che saranno impartite dal Ministro delle infrastrutture e dei trasporti. Gli enti proprietari della strada hanno l'obbligo di adeguare tempestivamente i limiti di velocita' al venir meno delle cause che hanno indotto a disporre limiti particolari. Il Ministro delle infrastrutture e dei trasporti puo' modificare i provvedimenti presi dagli enti proprietari della strada, quando siano contrari alle proprie direttive e comunque contrastanti con i criteri di cui al comma 1. Lo stesso Ministro puo' anche disporre l'imposizione di limiti, ove non vi abbia provveduto l'ente proprietario; in caso di mancato adempimento, il Ministro delle infrastrutture e dei trasporti puo' procedere direttamente alla esecuzione delle opere necessarie, con diritto di rivalsa nei confronti dell'ente proprietario.
+
+3.
+                        
+                            
+                                Le seguenti categorie di veicoli non possono superare le velocita' sottoindicate: 
+ 
+                            
+                            
+                                a)
+                                
+                                    ciclomotori: 45 km/h; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    autoveicoli o motoveicoli utilizzati per il trasporto delle merci pericolose rientranti nella classe 1 figurante in allegato all'accordo di cui all'articolo 168, comma 1, quando viaggiano carichi: 50 km/h fuori dei centri abitati; 30 km/h nei centri abitati; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    macchine agricole e macchine operatrici: 40 km/h se montati su pneumatici o su altri sistemi equipollenti; 15 km/h in tutti gli altri casi; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    quadricicli: 80 km/h fuori dei centri abitati; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    treni costituiti da un autoveicolo e da un rimorchio di cui alle lettere h), i) e l) dell'art. 54, comma 1: 70 km/h fuori dei centri abitati; 80 km/h sulle autostrade; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    autobus e filobus di massa complessiva a pieno carico superiore a 8 t: 80 km/h fuori dei centri abitati; 100 km/h sulle autostrade; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    autoveicoli destinati al trasporto di cose o ad altri usi, di massa complessiva a pieno carico superiore a 3,5 t e fino a 12 t: 80 km/h fuori dei centri abitati; 100 km/h sulle autostrade; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    autoveicoli destinati al trasporto di cose o ad altri usi, di massa complessiva a pieno carico superiore a 12 t: 70 km/h fuori dei centri abitati; 80 km/h sulle autostrade; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    autocarri di massa complessiva a pieno carico superiore a 5 t se adoperati per il trasporto di persone ai sensi dell'art. 82, comma 6: 70 km/h fuori dei centri abitati; 80 km/h sulle autostrade; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    mezzi d'opera quando viaggiano a pieno carico: 40 km/h nei centri abitati; 60 km/h fuori dei centri abitati.
 
 Nella parte posteriore dei veicoli di cui al comma 3, ad eccezione di quelli di cui alle lettere a) e b), devono essere indicate le velocita' massime consentite. Qualora si tratti di complessi di veicoli, l'indicazione del limite va riportata sui rimorchi ovvero sui semirimorchi. Sono comunque esclusi da tale obbligo gli autoveicoli militari ricompresi nelle lettere c), g), h) ed i) del comma 3, quando siano in dotazione alle Forze armate, ovvero ai Corpi ed organismi indicati nell'articolo 138, comma 11.
 
@@ -8340,6 +11140,38 @@ Quando lo stesso soggetto sia incorso, in un periodo di due anni, in una violazi
 
 Il sorpasso e' la manovra mediante la quale un veicolo supera un altro veicolo un animale o un pedone in movimento o fermi sulla corsia o sulla parte della carreggiata destinata normalmente alla circolazione.
 
+2.
+                        
+                            
+                                Il conducente che intende sorpassare deve preventivamente accertarsi: 
+ 
+                            
+                            
+                                a)
+                                
+                                    che la visibilita' sia tale da consentire la manovra e che la stessa possa compiersi senza costituire pericolo o intralcio; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    che il conducente che lo precede nella stessa corsia non abbia segnalato di voler compiere analoga manovra; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    che nessun conducente che segue sulla stessa carreggiata o semicarreggiata, ovvero sulla corsia immediatamente alla propria sinistra, qualora la carreggiata o semicarreggiata siano suddivise in corsie, abbia iniziato il sorpasso; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    che la strada sia libera per uno spazio tale da consentire la completa esecuzione del sorpasso, tenuto anche conto della differenza tra la propria velocita' e quella dell'utente da sorpassare, nonche' della presenza di utenti che sopraggiungono dalla direzione contraria o che precedono l'utente da sorpassare.
+
 Il conducente che sorpassa un veicolo o altro utente della strada che lo precede sulla stessa corsia, dopo aver fatto l'apposita segnalazione, deve portarsi sulla sinistra dello stesso, superarlo rapidamente tenendosi da questo ad una adeguata distanza laterale e riportarsi a destra appena possibile, senza creare pericolo o intralcio. Se la carreggiata o semicarreggiata sono suddivise in piu' corsie, il sorpasso deve essere effettuato sulla corsia immediatamente alla sinistra del veicolo che si intende superare.
 
 L'utente che viene sorpassato deve agevolare la manovra e non accelerare. Nelle strade ad una corsia per senso di marcia, lo stesso utente deve tenersi il piu' vicino possibile al margine destro della carreggiata.
@@ -8360,6 +11192,38 @@ Qualora il tram o il filobus siano fermi in mezzo alla carreggiata per la salita
 E' vietato il sorpasso in prossimita' o in corrispondenza delle curve o dei dossi e in ogni altro caso di scarsa visibilita'; in tali casi il sorpasso e' consentito solo quando la strada e' a due carreggiate separate o a carreggiata a senso unico o con almeno due corsie con lo stesso senso di marcia e vi sia tracciata apposita segnaletica orizzontale.
 
 E' vietato il sorpasso di un veicolo che ne stia sorpassando un altro, nonche' il superamento di veicoli fermi o in lento movimento ai passaggi a livello, ai semafori o per altre cause di congestione della circolazione, quando a tal fine sia necessario spostarsi nella parte della carreggiata destinata al senso opposto di marcia.
+
+12.
+                        
+                            
+                                E' vietato il sorpasso in prossimita' o in corrispondenza delle intersezioni. Esso e', pero', consentito: 
+ 
+                            
+                            
+                                a)
+                                
+                                    quando il conducente del veicolo che si vuole sorpassare abbia segnalato che intende svoltare a sinistra e abbia iniziato detta manovra; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    quando avvenga su strada a precedenza, purche' a due carreggiate separate o a senso unico o ad almeno due corsie con lo stesso senso di marcia e le corsie siano delimitate dall'apposita segnaletica orizzontale; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    quando il veicolo che si sorpassa e' a due ruote non a motore, sempre che non sia necessario spostarsi sulla parte della carreggiata destinata al senso opposto di marcia; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    quando la circolazione sia regolata da semafori o da agenti del traffico.
 
 E' vietato il sorpasso in prossimita' o in corrispondenza dei passaggi a livello senza barriere, salvo che la circolazione stradale sia regolata da semafori, nonche' il sorpasso di un veicolo che si sia arrestato o abbia rallentato in corrispondenza di un attraversamento pedonale per consentire ai pedoni di attraversare la carreggiata.
 
@@ -8550,6 +11414,149 @@ Alla violazione delle disposizioni del presente articolo si applica l'art. 149, 
 
 ## Art. 151. — Definizioni relative alle segnalazioni visive e all'illuminazione dei veicoli a motore e dei rimorchi
 
+1.
+                        
+                            
+                                Ai fini del presente titolo si intende per: 
+ 
+                            
+                            
+                                a)
+                                
+                                    proiettore di profondita': il dispositivo che serve ad illuminare in profondita' la strada antistante il veicolo; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    proiettore anabbagliante: il dispositivo che serve ad illuminare la strada antistante il veicolo senza abbagliare; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    proiettore fendinebbia anteriore: il dispositivo che serve a migliorare l'illuminazione della strada in caso di nebbia, caduta di neve, pioggia o nubi di polvere; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    proiettore di retromarcia: il dispositivo che serve ad illuminare la strada retrostante al veicolo e ad avvertire gli altri utenti della strada che il veicolo effettua o sta per effettuare la retromarcia; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    indicatore luminoso di direzione a luci intermittenti: il dispositivo che serve a segnalare agli altri utenti della strada che il conducente intende cambiare direzione verso destra o verso sinistra; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    segnalazione luminosa di pericolo: il funzionamento simultaneo di tutti gli indicatori luminosi di direzione; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    dispositivo d'illuminazione della targa posteriore: il dispositivo che serve ad illuminare la targa posteriore; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    luci di posizione anteriore, posteriore e laterale: i dispositivi che servono a segnalare contemporaneamente la presenza e la larghezza del veicolo viste dalla parte anteriore, posteriore e laterale;
+                                
+                            
+                            
+                                i)
+                                
+                                    luce posteriore per nebbia: il dispositivo singolo o doppio che serve a rendere piu' visibile il veicolo dalla parte posteriore in caso di forte nebbia, di pioggia intensa o di fitta nevicata in atto; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    luce di sosta: il dispositivo che serve a segnalare la presenza di un veicolo in sosta in un centro abitato. In tal caso sostituisce le luci di posizione; 
+
+                                
+                            
+                            
+                                m)
+                                
+                                    luce d'ingombro: il dispositivo destinato a completare le luci di posizione del veicolo, per segnalare le particolari dimensioni del suo ingombro; 
+
+                                
+                            
+                            
+                                n)
+                                
+                                    luce di arresto: il dispositivo che serve ad indicare agli altri utenti che il conducente aziona il freno di servizio; 
+
+                                
+                            
+                            
+                                o)
+                                
+                                    catadiottro: il dispositivo a luce riflessa destinato a segnalare la presenza del veicolo; 
+
+                                
+                            
+                            
+                                p)
+                                
+                                    pannello retroriflettente e fluorescente: il dispositivo a luce retro-riflessa e fluorescente destinato a segnalare particolari categorie di veicoli; 
+
+                                
+                            
+                            
+                                p-bis)
+                                
+                                    strisce retroriflettenti: il dispositivo a luce riflessa destinato a segnalare particolari categorie di veicoli; 
+
+                                
+                            
+                            
+                                p-ter)
+                                
+                                    luci di marcia diurna: il dispositivo rivolto verso l'avanti destinato a rendere piu' facilmente visibile un veicolo durante la circolazione diurna; 
+
+                                
+                            
+                            
+                                p-quater)
+                                
+                                    luci d'angolo: le luci usate per fornire illuminazione supplementare a quella parte della strada situata in prossimita' dell'angolo anteriore del veicolo dal lato presso il quale esso e' in procinto di curvare; 
+
+                                
+                            
+                            
+                                p-quinquies)
+                                
+                                    proiettore di svolta: una funzione di illuminazione destinata a fornire una migliore illuminazione in curva, che puo' essere espletata per mezzo di dispositivi aggiuntivi o mediante modificazione della distribuzione luminosa del proiettore anabbagliante; 
+
+                                
+                            
+                            
+                                p-sexies)
+                                
+                                    segnalazione visiva a luce lampeggiante blu: il dispositivo supplementare installato sui motoveicoli e sugli autoveicoli di cui all'articolo 177; 
+
+                                
+                            
+                            
+                                p-septies)
+                                
+                                    segnalazione visiva a luce lampeggiante gialla o arancione: il dispositivo supplementare installato sui veicoli eccezionali o per trasporti in condizioni di eccezionalita', sui mezzi d'opera, sui veicoli adibiti alla rimozione o al soccorso, sui veicoli utilizzati per la raccolta di rifiuti solidi urbani, per la pulizia della strada e la manutenzione della strada, sulle macchine agricole ovvero operatrici, sui veicoli impiegati in servizio di scorta tecnica.
+
 ## Art. 152. — (Segnalazione visiva e illuminazione dei veicoli).
 
 I veicoli a motore durante la marcia fuori dei centri abitati ed i ciclomotori, motocicli, tricicli e quadricicli, quali definiti rispettivamente dall'articolo 1, paragrafo 2, lettere a), b) e c), e paragrafo 3, lettera b), della direttiva 2002/24/CE del Parlamento europeo e del Consiglio, del 18 marzo 2002, anche durante la marcia nei centri abitati, hanno l'obbligo di usare le luci di posizione, i proiettori anabbaglianti e, se prescritte, le luci della targa e le luci d'ingombro. Fuori dei casi indicati dall'articolo 153, comma 1, in luogo dei dispositivi di cui al periodo precedente possono essere utilizzate, se il veicolo ne e' dotato, le luci di marcia diurna.
@@ -8608,11 +11615,75 @@ Da mezz'ora dopo il tramonto del sole a mezz'ora prima del suo sorgere ed anche 
 
 I proiettori di profondita ' non devono essere usati fuori dei casi rispettivamente previsti nel comma 1. Di giorno, in caso di nebbia, fumo, foschia, nevicata in atto, pioggia intensa, i proiettori anabbaglianti e quelli di profondita' possono essere sostituiti da proiettori fendinebbia anteriori. Inoltre sui veicoli che trasportano feriti o ammalati gravi si devono tenere accesi i proiettori anabbaglianti di giorno in ogni caso e nelle ore e nei casi indicati dal comma 1 nei centri abitati anche se l'illuminazione pubblica sia sufficiente.
 
+3.
+                        
+                            
+                                I conducenti devono spegnere i proiettori di profondita' passando a quelli anabbaglianti nei seguenti casi: 
+ 
+                            
+                            
+                                a)
+                                
+                                    quando stanno per incrociare altri veicoli, effettuando la commutazione delle luci alla distanza necessaria affinche' i conducenti dei veicoli incrociati possano continuare la loro marcia agevolmente e senza pericolo; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    quando seguono altro veicolo a breve distanza, salvo che l'uso dei proiettori di profondita' avvenga brevemente in modo intermittente per segnalare al veicolo che precede l'intenzione di sorpassare; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    in qualsiasi altra circostanza se vi sia pericolo di abbagliare gli altri utenti della strada ovvero i conducenti dei veicoli circolanti su binari, su corsi d'acqua o su altre strade contigue.
+
 E' consentito l'uso intermittente dei proiettori di profondita' per dare avvertimenti utili al fine di evitare incidenti e per segnalare al veicolo che precede l'intenzione di sorpassare. Tale uso e' consentito durante la circolazione notturna e diurna e, in deroga al comma 1, anche all'interno dei centri abitati.
 
 Nei casi indicati dal comma 1, ad eccezione dei velocipedi e dei ciclomotori a due ruote e dei motocicli, l'uso dei dispositivi di segnalazione visiva e' obbligatorio anche durante la fermata o la sosta, a meno che il veicolo sia reso pienamente visibile dall'illuminazione pubblica o venga collocato fuori dalla carreggiata. Tale obbligo sussiste anche se il veicolo si trova sulle corsie di emergenza.
 
 Nei centri abitati e nelle ore e nei casi indicati nel comma 1, durante la sosta al margine della carreggiata, i veicoli a motore, e loro rimorchi se agganciati, aventi lunghezza non superiore a 6 metri e larghezza non superiore a 2 metri possono essere segnalati, utilizzando in luogo delle luci di posizione, le luci di sosta poste dalla parte del traffico.
+
+7.
+                        
+                            
+                                I conducenti dei veicoli a motore devono azionare la segnalazione luminosa di pericolo: 
+ 
+                            
+                            
+                                a)
+                                
+                                    nei casi di ingombro della carreggiata; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    durante il tempo necessario a collocare e riprendere il segnale mobile di pericolo ove questo sia necessario; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    quando per avaria il veicolo e' costretto a procedere a velocita' particolarmente ridotta; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    quando si verifichino improvvisi rallentamenti o incolonnamenti; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    in tutti i casi in cui la fermata di emergenza costituisce pericolo anche momentaneo per gli altri utenti della strada.
 
 In caso di nebbia con visibilita' inferiore a 50 metri, di pioggia intensa o di fitta nevicata in atto deve essere usata la luce posteriore per nebbia, qualora il veicolo ne sia dotato.
 
@@ -8673,7 +11744,50 @@ Chiunque viola le altre disposizioni del presente articolo ovvero usa impropriam
 
 ## Art. 154. — Cambiamento di direzione o di corsia o altre manovre
 
+1.
+                        
+                            
+                                I conducenti che intendono eseguire una manovra per immettersi nel flusso della circolazione, per cambiare direzione o corsia, per invertire il senso di marcia, per fare retromarcia, per voltare a destra o a sinistra, per impegnare un'altra strada, o per immettersi in un luogo non soggetto a pubblico passaggio, ovvero per fermarsi, devono: 
+ 
+                            
+                            
+                                a)
+                                
+                                    assicurarsi di poter effettuare la manovra senza creare pericolo o intralcio agli altri utenti della strada, tenendo conto della posizione, distanza, direzione di essi; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    segnalare con sufficiente anticipo la loro intenzione.
+
 Le segnalazioni delle manovre devono essere effettuate servendosi degli appositi indicatori luminosi di direzione. Tali segnalazioni devono continuare per tutta la durata della manovra e devono cessare allorche' essa e' stata completata. Con gli stessi dispositivi deve essere segnalata anche l'intenzione di rallentare per fermarsi. Quando i detti dispositivi manchino, il conducente deve effettuare le segnalazioni a mano, alzando verticalmente il braccio qualora intenda fermarsi e sporgendo, lateralmente, il braccio destro o quello sinistro, qualora intenda voltare ((; dette segnalazioni non devono essere effettuate nella zona di attestamento ciclabile)).
+
+3.
+                        
+                            
+                                I conducenti devono, altresi': 
+ 
+                            
+                            
+                                a)
+                                
+                                    per voltare a destra, tenersi il piu' vicino possibile sul margine destro della carreggiata; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    per voltare a sinistra, anche per immettersi in luogo non soggetto a pubblico passaggio, accostarsi il piu' possibile all'asse della carreggiata e, qualora si tratti di intersezione, eseguire la svolta in prossimita' del centro della intersezione e a sinistra di questo, salvo diversa segnalazione, ovvero quando si trovino su una carreggiata a senso unico di circolazione, tenersi il piu' possibile sul margine sinistro della carreggiata. In entrambi i casi i conducenti non devono imboccare l'altra strada contromano e devono usare la massima prudenza; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    nelle manovre di retromarcia e di immissione nel flusso della circolazione, dare la precedenza ai veicoli in marcia normale.
 
 ((3-bis. Ai conducenti di velocipedi e' consentito cambiare direzione all'interno della zona di attestamento ciclabile per compiere le manovre consentite, nella sola fase di rosso semaforico))
 
@@ -8852,6 +11966,38 @@ Chiunque viola le disposizioni del presente articolo e' soggetto alla sanzione a
 
 ## Art. 157. — Arresto, fermata e sosta dei veicoli
 
+1.
+                        
+                            
+                                Agli effetti delle presenti norme: 
+ 
+                            
+                            
+                                a)
+                                
+                                    per arresto si intende l'interruzione della marcia del veicolo dovuta ad esigenze della circolazione; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    per fermata si intende la temporanea sospensione della marcia anche se in area ove non sia ammessa la sosta, per consentire la salita o la discesa delle persone, ovvero per altre esigenze di brevissima durata. Durante la fermata, che non deve comunque arrecare intralcio alla circolazione, il conducente deve essere presente e pronto a riprendere la marcia; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    per sosta si intende la sospensione della marcia del veicolo protratta nel tempo, con possibilita' di allontanamento da parte del conducente; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    per sosta di emergenza si intende l'interruzione della marcia nel caso in cui il veicolo e' inutilizzabile per avaria ovvero deve arrestarsi per malessere fisico del conducente o di un passeggero.
+
 Salvo diversa segnalazione, ovvero nel caso previsto dal comma 4, in caso di fermata o di sosta il veicolo deve essere collocato il piu' vicino possibile al margine destro della carreggiata, parallelamente ad esso e secondo il senso di marcia. Qualora non esista marciapiede rialzato, deve essere lasciato uno spazio sufficiente per il transito dei pedoni, comunque non inferiore ad un metro. Durante la sosta, il veicolo deve avere il motore spento.
 
 Fuori dei centri abitati, i veicoli in sosta o in fermata devono essere collocati fuori della carreggiata, ma non sulle piste per velocipedi ne', salvo che sia appositamente segnalato, sulle banchine. In caso di impossibilita', la fermata e la sosta devono essere effettuate il piu' vicino possibile al margine destro della carreggiata, parallelamente ad esso e secondo il senso di marcia.
@@ -8920,6 +12066,206 @@ Fatto salvo quanto disposto dal comma 7-bis, chiunque viola le disposizioni di c
 
 ## Art. 158. — Divieto di fermata e di sosta dei veicoli
 
+1.
+                        
+                            
+                                La fermata e la sosta sono vietate: 
+ 
+                            
+                            
+                                a)
+                                
+                                    in corrispondenza o in prossimita' dei passaggi a livello e sui binari di linee ferroviarie o tramviarie o cosi' vicino ad essi da intralciarne la marcia; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    nelle gallerie, nei sottovia, sotto i sovrapassaggi, sotto i fornici e i portici, salvo diversa segnalazione; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    sui dossi e nelle curve e, fuori dei centri abitati e sulle strade urbane di scorrimento, anche in loro prossimita'; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    in prossimita' e in corrispondenza di segnali stradali verticali e semaforici in modo da occultarne la vista, nonche' in corrispondenza dei segnali orizzontali di preselezione e lungo le corsie di canalizzazione; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    fuori dei centri abitati, sulla corrispondenza e in prossimita' delle aree di intersezione; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    nei centri abitati, sulla corrispondenza delle aree di intersezione e in prossimita' delle stesse a meno di 5 metri dal prolungamento del bordo piu' vicino della carreggiata trasversale, salvo diversa segnalazione; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    sui passaggi e attraversamenti pedonali e sui passaggi per ciclisti, nonche' sulle piste ciclabili e agli sbocchi delle medesime; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    sui marciapiedi, salvo diversa segnalazione; 
+
+                                
+                            
+                            
+                                h-bis)
+                                
+                                    negli spazi riservati alla fermata e alla sosta dei veicoli elettrici; 
+
+                                
+                            
+                            
+                                h-ter)
+                                
+                                    negli spazi riservati alla ricarica dei veicoli elettrici.
+Tale divieto e' previsto anche per i veicoli elettrici che non effettuano l'operazione di ricarica o che permangono nello spazio di ricarica oltre un'ora dopo il completamento della fase di ricarica.
+Tale limite temporale non trova applicazione dalle ore 23,00 alle ore 7,00, a eccezione dei punti di ricarica di potenza elevata di cui all'articolo 2, comma 1, lettera e), del decreto legislativo 16 dicembre 2016, n. 257.
+
+2.
+                        
+                            
+                                La sosta di un veicolo e' inoltre vietata: 
+ 
+                            
+                            
+                                a)
+                                
+                                    allo sbocco dei passi carrabili; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    dovunque venga impedito di accedere ad un altro veicolo regolarmente in sosta, oppure lo spostamento di veicoli in sosta; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    in seconda fila, salvo che si tratti di veicoli a due ruote; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    negli spazi riservati allo stazionamento e alla fermata degli autobus, dei filobus e dei veicoli circolanti su rotaia e, ove questi non siano delimitati, a una distanza dal segnale di fermata inferiore a 15 m, nonche' negli spazi riservati allo stazionamento dei veicoli in servizio di piazza; 
+
+                                
+                            
+                            
+                                d-bis)
+                                
+                                    negli spazi riservati allo stazionamento e alla fermata dei veicoli adibiti al trasporto scolastico; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    sulle aree destinate al mercato e ai veicoli per il carico e lo scarico di cose, nelle ore stabilite; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    sulle banchine, salvo diversa segnalazione; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    negli spazi riservati alla fermata o alla sosta dei veicoli per persone invalide di cui all'art. 188 e in corrispondenza degli scivoli o dei raccordi tra i marciapiedi, rampe o corridoi di transito e la carreggiata utilizzati dagli stessi veicoli; 
+
+                                
+                            
+                            
+                                g-bis)
+                                
+                                    negli spazi riservati alla sosta dei veicoli a servizio delle donne in stato di gravidanza o di genitori con un bambino di eta' non superiore a due anni muniti di permesso rosa; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    nelle corsie o carreggiate riservate ai mezzi pubblici; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    nelle aree pedonali urbane; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    nelle zone a traffico limitato per i veicoli non autorizzati; 
+
+                                
+                            
+                            
+                                m)
+                                
+                                    negli spazi asserviti ad impianti o attrezzature destinate a servizi di emergenza o di igiene pubblica indicati dalla apposita segnaletica; 
+
+                                
+                            
+                            
+                                n)
+                                
+                                    davanti ai cassonetti dei rifiuti urbani o contenitori analoghi; 
+
+                                
+                            
+                            
+                                o)
+                                
+                                    limitatamente alle ore di esercizio, in corrispondenza dei distributori di carburante ubicati sulla sede stradale ed in loro prossimita' sino a 5 m prima e dopo le installazioni destinate all'erogazione; 
+
+                                
+                            
+                            
+                                o-bis)
+                                
+                                    nelle aree riservate ai veicoli per il carico e lo scarico di merci, nelle ore stabilite. 
+
+                                
+                            
+                            
+                                o-ter)
+                                
+                                    
+                                        ((nelle aree riservate per il carico e lo scarico dei veicoli adibiti al trasporto valori)).
+
 Nei centri abitati e' vietata la sosta dei rimorchi quando siano staccati dal veicolo trainante, salvo diversa segnalazione.
 
 Durante la sosta e la fermata il conducente deve adottare le opportune cautele atte a evitare incidenti ed impedire l'uso del veicolo senza il suo consenso.
@@ -8980,6 +12326,38 @@ Le sanzioni di cui al presente articolo si applicano per ciascun giorno di calen
  Il Decreto 27 dicembre 2018 (in G.U. 29/12/2018, n. 301) ha disposto (con l'art. 1, comma 3) che le presenti modifiche avranno effetto a decorrere dal 1° gennaio 2019.
 
 ## Art. 159. — Rimozione e blocco dei veicoli
+
+1.
+                        
+                            
+                                Gli organi di polizia, di cui all'art. 12, dispongono la rimozione dei veicoli: 
+ 
+                            
+                            
+                                a)
+                                
+                                    nelle strade e nei tratti di esse in cui con ordinanza dell'ente proprietario della strada sia stabilito che la sosta dei veicoli costituisce grave intralcio o pericolo per la circolazione stradale e il segnale di divieto di sosta sia integrato dall'apposito pannello aggiuntivo; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    nei casi di cui agli articoli 157, comma 4 , e 158, commi 1, 2 e 3; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    in tutti gli altri casi in cui la sosta sia vietata e costituisca pericolo o grave intralcio alla circolazione; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    quando il veicolo sia lasciato in sosta in violazione alle disposizioni emanate dall'ente proprietario della strada per motivi di manutenzione o pulizia delle strade e del relativo arredo. (35)
 
 Gli enti proprietari della strada sono autorizzati a concedere il servizio della rimozione dei veicoli stabilendone le modalita' nel rispetto alle norme regolamentari. I veicoli adibiti alla rimozione devono avere le caratteristiche prescritte nel regolamento. Con decreto del Ministro dei trasporti puo' provvedersi all'aggiornamento delle caratteristiche costruttive e funzionali dei veicoli adibiti alla rimozione, in relazione ad esigenze determinate dall'evoluzione della tecnica di realizzazione dei veicoli o di sicurezza della circolazione.
 
@@ -9509,6 +12887,24 @@ A condizione che non sia pregiudicata la sicurezza, il Ministero delle infrastru
 
 Per il trasporto delle materie fissili o radioattive si applicano le norme dell'art. 5 della legge 31 dicembre 1962, n. 1860, modificato dall'art. 2 del decreto del Presidente della Repubblica 30 dicembre 1965, n. 1704, e successive modifiche.
 
+6.
+                        
+                            
+                                A condizione che non sia pregiudicata la sicurezza e previa notifica alla Commissione europea, ai fini dell'autorizzazione, il Ministero delle infrastrutture e dei trasporti, di concerto con i Ministeri dell'interno, della salute, dell'ambiente e della tutela del territorio e del mare e dello sviluppo economico, puo' derogare le condizioni poste dalle norme di cui al comma 2 per: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il trasporto nazionale di piccole quantita' di merce, purche' non relative a materie a media o alta radioattivita'; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    merci pericolose destinate al trasporto locale su brevi distanze.
+
 Chiunque circola con un veicolo o con un complesso di veicoli adibiti al trasporto di merci pericolose, la cui massa complessiva a pieno carico risulta superiore a quella indicata sulla carta di circolazione, e' soggetto alle sanzioni amministrative previste nell'art. 167, comma 2, in misura doppia.
 
 Chiunque trasporta merci pericolose senza regolare autorizzazione, quando sia prescritta, ovvero non rispetta le condizioni imposte, a tutela della sicurezza, negli stessi provvedimenti di autorizzazione e' punito con la sanzione amministrativa del pagamento di una somma ((da € 2.046 a € 8.186)). (52) (64) (80) (89) (101) (114) (124) (133) (145) ((163))
@@ -9735,6 +13131,24 @@ Alle violazioni previste dal comma 1 e, se commesse da conducente minore di sedi
 
 Durante la marcia, ai conducenti e agli eventuali passeggeri di ciclomotori e motoveicoli e' fatto obbligo di indossare e di tenere regolarmente allacciato un casco protettivo conforme ai tipi omologati, in conformita' con i regolamenti emanati dall'Ufficio europeo per le Nazioni Unite - Commissione economica per l'Europa e con la normativa comunitaria. (99)
 
+1-bis.
+                        
+                            
+                                Sono esenti dall'obbligo di cui al comma 1 i conducenti e i passeggeri: 
+ 
+                            
+                            
+                                a)
+                                
+                                    di ciclomotori e motoveicoli a tre o a quattro ruote dotati di carrozzeria chiusa; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    di ciclomotori e motocicli a due o a tre ruote dotati di cellula di sicurezza a prova di crash, nonche' di sistemi di ritenuta e di dispositivi atti a garantire l'utilizzo del veicolo in condizioni di sicurezza, secondo le disposizioni del regolamento.
+
 Chiunque viola le presenti norme e' soggetto alla sanzione amministrativa del pagamento di una somma da € 83 a € 332. Quando il mancato uso del casco riguarda un ((...)) trasportato, della violazione risponde ((anche)) il conducente. (19) (29) (43) (52) (80) (89) (101) (114) (124) (145) (163)
 
 Alla sanzione pecuniaria amministrativa prevista dal comma 2 consegue il fermo amministrativo del veicolo per sessanta giorni ai sensi del capo I, sezione II, del titolo VI. Quando, nel corso di un biennio, con un ciclomotore o un motociclo sia stata commessa, per almeno due volte, una delle violazioni previste dal comma 1, il fermo del veicolo e' disposto per novanta giorni. La custodia del veicolo e' affidata al proprietario dello stesso.
@@ -9812,6 +13226,24 @@ Il conducente dei veicoli delle categorie M1, N1, N2 e N3 immatricolati in Itali
 
 Il conducente del veicolo e' tenuto ad assicurarsi della persistente efficienza dei dispositivi di cui al comma 1.
 
+3.
+                        
+                            
+                                Sui veicoli delle categorie M1, N1, N2 ed N3 sprovvisti di sistemi di ritenuta: 
+ 
+                            
+                            
+                                a)
+                                
+                                    i bambini di eta' fino a tre anni non possono viaggiare; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    i bambini di eta' superiore ai tre anni possono occupare un sedile anteriore solo se la loro statura supera 1,50 m.
+
 I bambini di statura non superiore a 1,50 m, quando viaggiano negli autoveicoli per il trasporto di persone in servizio pubblico di piazza o negli autoveicoli adibiti al noleggio con conducente, possono non essere assicurati al sedile con un sistema di ritenuta per bambini, a condizione che non occupino un sedile anteriore e siano accompagnati da almeno un passeggero di eta' non inferiore ad anni sedici.
 
 I bambini non possono essere trasportati utilizzando un seggiolino di sicurezza rivolto all'indietro su un sedile passeggeri protetto da airbag frontale, a meno che l'airbag medesimo non sia stato disattivato anche in maniera automatica adeguata.
@@ -9820,6 +13252,73 @@ Tutti gli occupanti, di eta' superiore a tre anni, dei veicoli in circolazione d
 
 I passeggeri dei veicoli delle categorie M2 ed M3 devono essere informati dell'obbligo di utilizzare le cinture di sicurezza, quando sono seduti ed il veicolo e' in movimento, mediante cartelli o pittogrammi, conformi al modello figurante nell'allegato alla direttiva 2003/20/CE, apposti in modo ben visibile su ogni sedile.
 Inoltre, la suddetta informazione puo' essere fornita dal conducente, dal bigliettaio, dalla persona designata come capogruppo o mediante sistemi audiovisivi quale il video.
+
+8.
+                        
+                            
+                                Sono esentati dall'obbligo di uso delle cinture di sicurezza e dei sistemi di ritenuta per bambini: 
+ 
+                            
+                            
+                                a)
+                                
+                                    gli appartenenti alle forze di polizia e ai corpi di polizia municipale e provinciale nell'espletamento di un servizio di emergenza; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    i conducenti e gli addetti dei veicoli del servizio antincendio e sanitario in caso di intervento di emergenza; 
+
+                                
+                            
+                            
+                                b-bis)
+                                
+                                    i conducenti dei veicoli con allestimenti specifici per la raccolta e per il trasporto di rifiuti e dei veicoli ad uso speciale, quando sono impiegati in attivita' di igiene ambientale nell'ambito dei centri abitati, comprese le zone industriali e artigianali; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    gli appartenenti ai servizi di vigilanza privati regolarmente riconosciuti che effettuano scorte; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    gli istruttori di guida quando esplicano le funzioni previste dall'articolo 122, comma 2; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    le persone che risultino, sulla base di certificazione rilasciata dalla unita' sanitaria locale o dalle competenti autorita' di altro Stato membro delle Comunita' europee, affette da patologie particolari o che presentino condizioni fisiche che costituiscono controindicazione specifica all'uso dei dispositivi di ritenuta. Tale certificazione deve indicare la durata di validita', deve recare il simbolo previsto nell'articolo 5 della direttiva 91/671/CEE e deve essere esibita su richiesta degli organi di polizia di cui all'articolo 12; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    le donne in stato di gravidanza sulla base della certificazione rilasciata dal ginecologo curante che comprovi condizioni di rischio particolari conseguenti all'uso delle cinture di sicurezza; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    i passeggeri dei veicoli M2 ed M3 autorizzati al trasporto di passeggeri in piedi ed adibiti al trasporto locale e che circolano in zona urbana; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    gli appartenenti alle forze armate nell'espletamento di attivita' istituzionali nelle situazioni di emergenza.
 
 Fino all'8 maggio 2009, sono esentati dall'obbligo di cui al comma 1 i bambini di eta' inferiore ad anni dieci trasportati in soprannumero sui posti posteriori delle autovetture e degli autoveicoli adibiti al trasporto promiscuo di persone e cose, di cui dell'articolo 169, comma 5, a condizione che siano accompagnati da almeno un passeggero di eta' non inferiore ad anni sedici.
 
@@ -10046,6 +13545,73 @@ Quando le ripetute inadempienze di cui ai commi 15 e 16 del presente articolo so
 
 Le norme del presente articolo e dell'art. 176 si applicano ai veicoli ammessi a circolare sulle autostrade, sulle strade extraurbane principali e su altre strade , individuate con decreto del Ministro delle infrastrutture e dei trasporti, su proposta dell'ente proprietario, e da indicare con apposita segnaletica d'inizio e fine.
 
+2.
+                        
+                            
+                                E' vietata la circolazione dei seguenti veicoli sulle autostrade e sulle strade di cui al comma 1: 
+ 
+                            
+                            
+                                a)
+                                
+                                    velocipedi, ciclomotori, motocicli di cilindrata inferiore a 150 centimetri cubici se a motore termico, ovvero di potenza inferiore a 11 kW se a motore elettrico, e motocarrozzette di cilindrata inferiore a 250 centimetri cubici se a motore termico; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    altri motoveicoli di massa a vuoto fino a 400 kg o di massa complessiva fino a 1300 kg , ad eccezione dei tricicli, di cilindrata non inferiore a 250 cm³ se a motore termico e comunque di potenza non inferiore a 15 kW, destinati al trasporto di persone e con al massimo un passeggero oltre al conducente; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    veicoli non muniti di pneumatici; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    macchine agricole e macchine operatrici; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    veicoli con carico disordinato e non solidamente assicurato o sporgente oltre i limiti consentiti; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    veicoli a tenuta non stagna e con carico scoperto, se trasportano materie suscettibili di dispersione; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    veicoli il cui carico o dimensioni superino i limiti previsti dagli articoli 61 e 62, ad eccezione dei casi previsti dall'art. 10; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    veicoli le cui condizioni di uso, equipaggiamento e gommatura possono costituire pericolo per la circolazione; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    veicoli con carico non opportunamente sistemato e fissato.
+
 ((2-bis. In deroga a quanto previsto dal comma 2, lettera a), sulle autostrade e sulle strade di cui al comma 1 e' consentita la circolazione dei motocicli di cilindrata non inferiore a 120 centimetri cubici se a motore termico ovvero di potenza non inferiore a 6 kW se a motore elettrico solo se condotti da un soggetto maggiorenne))
 
 Le esclusioni di cui al comma 2 non si applicano ai veicoli appartenenti agli enti proprietari o concessionari dell'autostrada o da essi autorizzati. L'esclusione di cui al comma 2, lettera d), relativamente alle macchine operatrici-gru come individuate dalla carta di circolazione, non si applica sulle strade extraurbane principali.
@@ -10055,6 +13621,38 @@ Nel regolamento sono fissati i limiti minimi di velocita' per l'ammissione alla 
 Con decreto del Ministro delle infrastrutture e dei trasporti, da pubblicare nella Gazzetta Ufficiale della Repubblica italiana, fermi restando i poteri di ordinanza degli enti proprietari di cui all'art. 6, possono essere escluse dal transito su talune autostrade, o tratti di esse, anche altre determinate categorie di veicoli o trasporti, qualora le esigenze della circolazione lo richiedano. Ove si tratti di autoveicoli destinati a servizi pubblici di linea, il provvedimento e' adottato di concerto con il Ministro dei trasporti mentre per quelli appartenenti alle Forze armate il concerto e' realizzato con il Ministro della difesa.
 
 E' vietata la circolazione di pedoni e animali, eccezion fatta per le aree di servizio e le aree di sosta. In tali aree gli animali possono circolare solo se debitamente custoditi. Lungo le corsie di emergenza e' consentito il transito dei pedoni solo per raggiungere i punti per le richieste di soccorso.
+
+7.
+                        
+                            
+                                Sulle carreggiate, sulle rampe, sugli svincoli, sulle aree di servizio o di parcheggio e in ogni altra pertinenza autostradale e' vietato: 
+ 
+                            
+                            
+                                a)
+                                
+                                    trainare veicoli che non siano rimorchi; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    richiedere o concedere passaggi; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    svolgere attivita' commerciali o di propaganda sotto qualsiasi forma; esse sono consentite nelle aree di servizio o di parcheggio se autorizzate dall'ente proprietario; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    campeggiare, salvo che nelle aree all'uopo destinate e per il periodo stabilito dall'ente proprietario o concessionario.
 
 Nelle zone attigue alle autostrade o con esse confinanti e' vietato, anche a chi sia munito di licenza o di autorizzazione, svolgere attivita' di propaganda sotto qualsiasi forma ovvero attivita' commerciali con offerta di vendita agli utenti delle autostrade stesse.
 
@@ -10133,6 +13731,63 @@ Nelle ipotesi di cui al comma 2, lettere e) ed f), la norma si applica solo nel 
 
 ## Art. 176. — Comportamenti durante la circolazione sulle autostrade e sulle strade extraurbane principali
 
+1.
+                        
+                            
+                                Sulle carreggiate, sulle rampe e sugli svincoli delle strade di cui all'art. 175, comma 1, e' vietato: 
+ 
+                            
+                            
+                                a)
+                                
+                                    invertire il senso di marcia e attraversare lo spartitraffico, anche all'altezza dei varchi, nonche' percorrere la carreggiata o parte di essa nel senso di marcia opposto a quello consentito; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    effettuare la retromarcia, anche sulle corsie per la sosta di emergenza, fatta eccezione per le manovre necessarie nelle aree di servizio o di parcheggio; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    circolare sulle corsie per la sosta di emergenza se non per arrestarsi o riprendere la marcia; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    circolare sulle corsie di variazione di velocita' se non per entrare o uscire dalla carreggiata.
+
+2.
+                        
+                            
+                                E' fatto obbligo: 
+ 
+                            
+                            
+                                a)
+                                
+                                    di impegnare la corsia di accelerazione per immettersi sulla corsia di marcia, nonche' di dare la precedenza ai veicoli in circolazione su quest'ultima corsia; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    di impegnare tempestivamente, per uscire dalla carreggiata, la corsia di destra, immettendosi quindi nell'apposita corsia di decelerazione sin dal suo inizio; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    di segnalare tempestivamente nei modi indicati nell'art. 154 il cambiamento di corsia.
+
 In occasione di arresto della circolazione per ingorghi o comunque per formazione di code, qualora la corsia per la sosta di emergenza manchi o sia occupata da veicoli in sosta di emergenza o non sia sufficiente alla circolazione dei veicoli di polizia e di soccorso, i veicoli che occupano la prima corsia di destra devono essere disposti il piu' vicino possibile alla striscia di sinistra.
 
 In caso di ingorgo e' consentito transitare sulla corsia per la sosta di emergenza al solo fine di uscire dall'autostrada a partire dal cartello di preavviso di uscita posto a cinquecento metri dallo svincolo.
@@ -10152,6 +13807,28 @@ Fermo restando quando disposto dall'art. 144 per la marcia per file parallele e'
 Sulle autostrade e strade per il cui uso sia dovuto il pagamento di un pedaggio, l'esazione puo' essere effettuata mediante modalita' manuale o automatizzata, anche con sistemi di telepedaggio con o senza barriere. I conducenti devono corrispondere il pedaggio secondo le modalita' e le tariffe vigenti. Ove previsto e segnalato, i conducenti devono arrestarsi in corrispondenza delle apposite barriere ed incolonnarsi secondo le indicazioni date dalle segnalazioni esistenti o dal personale addetto. I servizi di polizia stradale di cui all'articolo 11, comma 1, lettera a), relativi alla prevenzione e accertamento delle violazioni dell'obbligo di pagamento del pedaggio possono essere effettuati, previo superamento dell'esame di qualificazione di cui all'articolo 12, comma 3, anche dal personale dei concessionari autostradali e stradali e dei loro affidatari del servizio di riscossione, limitatamente alle violazioni commesse sulle autostrade oggetto della concessione nonche', previo accordo con i concessionari competenti, alle violazioni commesse sulle altre autostrade.
 
 Al pagamento del pedaggio di cui al comma 11, quando esso e' dovuto, e degli oneri di accertamento dello stesso, sono obbligati solidamente sia il conducente sia il proprietario del veicolo, come stabilito dall'articolo 196.
+
+12.
+                        
+                            
+                                I conducenti dei veicoli adibiti ai servizi dell'autostrada, purche' muniti di specifica autorizzazione dell'ente proprietario, sono esentati, quando sussistano effettive esigenze di servizio, dall'osservanza delle norme del presente articolo relative al divieto di effettuare: 
+                            
+                            
+                                a)
+                                
+                                    la manovra di inversione del senso di marcia;
+                                
+                            
+                            
+                                b)
+                                
+                                    la marcia, la retromarcia e la sosta in banchina di emergenza;
+                                
+                            
+                            
+                                c)
+                                
+                                    il traino dei veicoli in avaria. Sono esonerati dall'osservanza del divieto di attraversare i varchi in contromano in prossimita' delle stazioni di uscita o di entrata in autostrada i veicoli e/o trasporti eccezionali purche' muniti di autorizzazione dell'ente proprietario della strada.
 
 I conducenti di cui al comma 12, nell'effettuare le manovre, che devono essere eseguite con la massima prudenza e cautela, devono tenere in funzione sui veicoli il dispositivo supplementare di segnalazione visiva a luce gialla lampeggiante.
 
@@ -10459,6 +14136,38 @@ Gli articoli 15, 16 e 20 della legge 13 novembre 1978, n. 727, sono abrogati. Pe
  Il Decreto 31 dicembre 2020 (in G.U. 31/12/2020, n. 323) ha disposto (con l'art. 3, comma 1) che le presenti modifiche avranno effetto a decorrere dal 1° gennaio 2021.
 
 ## Art. 180. — Possesso dei documenti di circolazione e di guida
+
+1.
+                        
+                            
+                                Per poter circolare con veicoli a motore il conducente deve avere con se' i seguenti documenti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la carta di circolazione, il certificato di idoneita' tecnica alla circolazione o il certificato di circolazione, a seconda del tipo di veicolo condotto; (102) 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la patente di guida valida per la corrispondente categoria del veicolo, nonche' lo specifico attestato sui requisiti fisici e psichici, qualora ricorrano le ipotesi di cui all'articolo 115, comma 2; (102) 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    l'autorizzazione per l'esercitazione alla guida per la corrispondente categoria del veicolo in luogo della patente di guida di cui alla lettera b), nonche' un documento personale di riconoscimento; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    il certificato di assicurazione obbligatoria.
 
 La persona che funge da istruttore durante le esercitazioni di guida deve avere con se' la patente di guida prescritta; se trattasi di istruttore di scuola guida deve aver con se' anche l'attestato di qualifica professionale di cui all'art. 123, comma 7.
 
@@ -10864,6 +14573,32 @@ Con decreto del Ministro della salute, di concerto con il Ministro dell'ambiente
 
 E' vietato guidare in stato di ebbrezza in conseguenza dell'uso di bevande alcoliche.
 
+2.
+                        
+                            
+                                Chiunque guida in stato di ebbrezza e' punito, ove il fatto non costituisca piu' grave reato: 
+ 
+                            
+                            
+                                a)
+                                
+                                    con la sanzione amministrativa del pagamento di una somma da € 543 a € 2.170, qualora sia stato accertato un valore corrispondente ad un tasso alcolemico superiore a 0,5 e non superiore a 0,8 grammi per litro (g/l). All'accertamento della violazione consegue la sanzione amministrativa accessoria della sospensione della patente di guida da tre a sei mesi; (114) (124) (133) (145) (163) 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    con l'ammenda da euro 800 a euro 3.200 e l'arresto fino a sei mesi, qualora sia stato accertato un valore corrispondente ad un tasso alcolemico superiore a 0,8 e non superiore a 1,5 grammi per litro (g/l). All'accertamento del reato consegue in ogni caso la sanzione amministrativa accessoria della sospensione della patente di guida da sei mesi ad un anno; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    con l'ammenda da euro 1.500 a euro 6.000, l'arresto da sei mesi ad un anno, qualora sia stato accertato un valore corrispondente ad un tasso alcolemico superiore a 1,5 grammi per litro (g/l).
+All'accertamento del reato consegue in ogni caso la sanzione amministrativa accessoria della sospensione della patente di guida da uno a due anni. Se il veicolo appartiene a persona estranea al reato, la durata della sospensione della patente di guida e' raddoppiata. La patente di guida e' sempre revocata, ai sensi del capo II, sezione II, del titolo VI, in caso di recidiva nel biennio. Con la sentenza di condanna ovvero di applicazione della pena su richiesta delle parti, anche se e' stata applicata la sospensione condizionale della pena, e' sempre disposta la confisca del veicolo con il quale e' stato commesso il reato, salvo che il veicolo stesso appartenga a persona estranea al reato. Ai fini del sequestro si applicano le disposizioni di cui all'articolo 224-ter. (97)
+
 Se il conducente in stato di ebbrezza provoca un incidente stradale, le sanzioni di cui al comma 2 del presente articolo e al comma 3 dell'articolo 186-bis sono raddoppiate ed e' disposto il fermo amministrativo del veicolo per centottanta giorni, salvo che il veicolo appartenga a persona estranea all'illecito. Qualora per il conducente che provochi un incidente stradale sia stato accertato un valore corrispondente ad un tasso alcolemico superiore a 1,5 grammi per litro (g/1), fatto salvo quanto previsto dal quinto e sesto periodo della lettera c) del comma 2 del presente articolo, la patente di guida e' sempre revocata ai sensi del capo II, sezione II, del titolo VI. E' fatta salva in ogni caso l'applicazione dell'articolo 222.
 
 Competente a giudicare dei reati di cui al presente articolo e' il tribunale in composizione monocratica.
@@ -10931,6 +14666,38 @@ Nei confronti del conducente condannato per i reati di cui al comma 2, lettere b
  Il Decreto 31 dicembre 2020 (in G.U. 31/12/2020, n. 323) ha disposto (con l'art. 3, comma 1) che la presente modifica avra' effetto a decorrere dal 1° gennaio 2021.
 
 ## Art. 186-bis. — Guida sotto l'influenza dell'alcool per conducenti di eta' inferiore a ventuno anni, per i neo-patentati e per chi esercita professionalmente l'attivita' di trasporto di persone o di cose).
+
+1.
+                        
+                            
+                                E' vietato guidare dopo aver assunto bevande alcoliche e sotto l'influenza di queste per: 
+ 
+                            
+                            
+                                a)
+                                
+                                    i conducenti di eta' inferiore a ventuno anni e i conducenti nei primi tre anni dal conseguimento della patente di guida di categoria B; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    i conducenti che esercitano l'attivita' di trasporto di persone, di cui agli articoli 85, 86 e 87; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    i conducenti che esercitano l'attivita' di trasporto di cose, di cui agli articoli 88, 89 e 90; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    i conducenti di autoveicoli di massa complessiva a pieno carico superiore a 3,5 t, di autoveicoli trainanti un rimorchio che comporti una massa complessiva totale a pieno carico dei due veicoli superiore a 3,5 t, di autobus e di altri autoveicoli destinati al trasporto di persone il cui numero di postia sedere, escluso quello del conducente, e' superiore a otto, nonche' di autoarticolati e di autosnodati.
 
 I conducenti di cui al comma 1 che guidino dopo aver assunto bevande alcoliche e sotto l'influenza di queste sono puniti con la sanzione amministrativa del pagamento di una somma ((da € 168 a € 672)), qualora sia stato accertato un valore corrispondente ad un tasso alcolemico superiore a O (zero) e non superiore a 0,5 grammi per litro (gli). Nel caso in cui il conducente, nelle condizioni di cui al periodo precedente, provochi un incidente, le sanzioni di cui al medesimo periodo sono raddoppiate. (114) (124) (133) (145) ((163))
 
@@ -11497,6 +15264,73 @@ Copia del verbale e' consegnata immediatamente all'ufficio o comando da cui dipe
 
 Qualora la violazione non possa essere immediatamente contestata, il verbale, con gli estremi precisi e dettagliati della violazione e con la indicazione dei motivi che hanno reso impossibile la contestazione immediata, deve, entro novanta giorni dall'accertamento, essere notificato all'effettivo trasgressore o, quando questi non sia stato identificato e si tratti di violazione commessa dal conducente di un veicolo a motore, munito di targa, ad uno dei soggetti indicati nell'art. 196, quale risulta dall'archivio nazionale dei veicoli e dal P.R.A. alla data dell'accertamento. Se si tratta di ciclomotore la notificazione deve essere fatta all'intestatario del contrassegno di identificazione. Nel caso di accertamento della violazione nei confronti dell'intestatario del veicolo che abbia dichiarato il domicilio legale ai sensi dell'articolo 134, comma 1-bis, la notificazione del verbale e' validamente eseguita quando sia stata effettuata presso il medesimo domicilio legale dichiarato dall'interessato. Qualora l'effettivo trasgressore od altro dei soggetti obbligati sia identificato successivamente alla commissione della violazione la notificazione puo' essere effettuata agli stessi entro novanta giorni dalla data in cui risultino dal P.R.A. o nell'archivio nazionale dei veicoli l'intestazione del veicolo e le altre indicazioni identificative degli interessati o comunque dalla data in cui la pubblica amministrazione e' posta in grado di provvedere alla loro identificazione. Quando la violazione sia stata contestata immediatamente al trasgressore, il verbale deve essere notificato ad uno dei soggetti individuati ai sensi dell'articolo 196 entro cento giorni dall'accertamento della violazione. Per i residenti all'estero la notifica deve essere effettuata entro trecentosessanta giorni dall'accertamento. (17) (99) (138a) (148)
 
+1-bis.
+                        
+                            
+                                Fermo restando quanto indicato dal comma 1, nei seguenti casi la contestazione immediata non e' necessaria e agli interessati sono notificati gli estremi della violazione nei termini di cui al comma 1: 
+ 
+                            
+                            
+                                a)
+                                
+                                    impossibilita' di raggiungere un veicolo lanciato ad eccessiva velocita'; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    attraversamento di un incrocio con il semaforo indicante la luce rossa; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    sorpasso vietato; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    accertamento della violazione in assenza del trasgressore e del proprietario del veicolo; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    accertamento della violazione per mezzo di appositi apparecchi di rilevamento direttamente gestiti dagli organi di Polizia stradale e nella loro disponibilita' che consentono la determinazione dell'illecito in tempo successivo poiche' il veicolo oggetto del rilievo e' a distanza dal posto di accertamento o comunque nell'impossibilita' di essere fermato in tempo utile o nei modi regolamentari; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    accertamento effettuato con i dispositivi di cui all'articolo 4 del decreto-legge 20 giugno 2002, n. 121, convertito, con modificazioni, dalla legge 1 agosto 2002, n. 168, e successive modificazioni; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    rilevazione degli accessi di veicoli non autorizzati ai centri storici, alle zone a traffico limitato, alle aree pedonali, alle piazzole di carico e scarico di merci, o della circolazione sulle corsie e sulle strade riservate o con accesso o transito vietato, attraverso dispositivi omologati ai sensi di apposito regolamento emanato con decreto del Ministro delle infrastrutture e dei trasporti. Con il medesimo regolamento sono definite le condizioni per l'installazione e l'esercizio dei dispositivi di controllo, al fine di consentire la rilevazione delle violazioni dei divieti di circolazione, in ingresso, all'interno ed in uscita nelle corsie, strade, aree e zone di cui al periodo precedente, nonche' il controllo della durata di permanenza all'interno delle medesime zone; 
+
+                                
+                            
+                            
+                                g-bis)
+                                
+                                    accertamento delle violazioni di cui agli articoli 10, 40, comma 11, 61, 62, 72, 78, 79, 80, 141, 143, commi 11 e 12, 146, comma 3, 147, commi 2-bis e 3, 158, limitatamente al divieto di fermata e alla violazione della sosta riservata nei soli casi previsti dall'articolo 7, comma 1, lettera d), 167, 170, 171, 193, 213, 214, 216 e 217, per mezzo di dispositivi o apparecchiature di rilevamento approvate od omologate ai sensi di appositi regolamenti adottati con decreto del Ministro delle infrastrutture e dei trasporti, di concerto con il Ministro dell'interno. Con i medesimi regolamenti sono definite le condizioni per l'installazione e l'esercizio dei dispositivi di controllo nonche' per l'accesso alle banche di dati necessarie per il loro funzionamento. Per l'accertamento delle violazioni, la documentazione fotografica prodotta costituisce atto di accertamento, ai sensi e per gli effetti dell'articolo 13 della legge 24 novembre 1981, n. 689, in ordine alla circostanza che al momento del rilevamento un determinato veicolo, munito di targa di immatricolazione, stava circolando sulla strada; 
+
+                                
+                            
+                            
+                                g-ter)
+                                
+                                    accertamento, per mezzo di appositi dispositivi o apparecchiature di rilevamento, della violazione dell'obbligo dell'assicurazione per la responsabilita' civile verso terzi, effettuato mediante il confronto dei dati rilevati riguardanti il luogo, il tempo e l'identificazione dei veicoli con quelli risultanti dall'elenco dei veicoli a motore che non risultano coperti dall'assicurazione per la responsabilita' civile verso terzi, di cui all'articolo 31, comma 2, del decreto-legge 24 gennaio 2012, n. 1, convertito, con modificazioni, dalla legge 24 marzo 2012, n. 27.
+
 Nei casi diversi da quelli di cui al comma 1-bis nei quali non e' avvenuta la contestazione immediata, il verbale notificato agli interessati deve contenere anche l'indicazione dei motivi che hanno reso impossibile la contestazione immediata. Nei casi previsti alle lettere b), f) e g) del comma 1-bis non e' necessaria la presenza degli organi di polizia stradale qualora l'accertamento avvenga mediante rilievo con dispositivi o apparecchiature che sono stati omologati ovvero approvati per il funzionamento in modo completamente automatico. Tali strumenti devono essere gestiti direttamente dagli organi di polizia stradale di cui all'articolo 12, comma 1.
 
 In occasione della rilevazione delle violazioni di cui al comma 1-bis, lettera g-bis), non e' necessaria la presenza degli organi di polizia stradale qualora l'accertamento avvenga mediante dispositivi o apparecchiature che sono stati omologati ovvero approvati per il funzionamento in modo completamente automatico. Tali strumenti devono essere gestiti direttamente dagli organi di polizia stradale di cui all'articolo 12, comma 1, e fuori dei centri abitati possono essere installati ed utilizzati solo sui tratti di strada individuati dai prefetti, secondo le direttive fornite dal Ministero dell'interno, sentito il Ministero delle infrastrutture e dei trasporti. I tratti di strada di cui al periodo precedente sono individuati tenendo conto del tasso di incidentalita' e delle condizioni strutturali, plano-altimetriche e di traffico.
@@ -11687,11 +15521,58 @@ Le disposizioni del presente articolo non si applicano ai veicoli di proprieta' 
 
 I proventi delle sanzioni amministrative pecuniarie per violazioni previste dal presente codice sono devoluti allo Stato, quando le violazioni siano accertate da funzionari, ufficiali ed agenti dello Stato, nonche' da funzionari ed agenti dell'ente Ferrovie dello Stato o delle ferrovie e tramvie in concessione. I proventi stessi sono devoluti alle regioni, province e comuni, quando le violazioni siano accertate da funzionari, ufficiali ed agenti, rispettivamente, delle regioni, delle province e dei comuni.
 
+2.
+                        
+                            
+                                I proventi di cui al comma 1, spettanti allo Stato, sono destinati: 
+                            
+                            
+                                a)
+                                
+                                    fermo restando quanto previsto dall'articolo 32, comma 4, della legge 17 maggio 1999, n. 144, per il finanziamento delle attivita' connesse all'attuazione del Piano nazionale della sicurezza stradale, al Ministero delle infrastrutture e dei trasporti - Ispettorato generale per la circolazione e la sicurezza stradale, nella misura dell'80 per cento del totale annuo, definito a norma dell'articolo 2, lettera x), della legge 13 giugno 1991, n. 190, per studi, ricerche e propaganda ai fini della sicurezza stradale, attuata anche attraverso il Centro di coordinamento delle informazioni sul traffico, sulla viabilita' e sulla sicurezza stradale (CCISS), istituito con legge 30 dicembre 1988, n. 556, per finalita' di educazione stradale, sentito, occorrendo, il Ministero dell'istruzione, dell'universita' e della ricerca e per l'assistenza e previdenza del personale della Polizia di Stato, dell'Arma dei carabinieri, della Guardia di finanza, della Polizia penitenziaria e del Corpo forestale dello Stato e per iniziative ed attivita' di promozione della sicurezza della circolazione;
+                                
+                            
+                            
+                                b)
+                                
+                                    al Ministero delle infrastrutture e dei trasporti - Dipartimento per i trasporti terrestri, nella misura del 20 per cento del totale annuo sopra richiamato, per studi, ricerche e propaganda sulla sicurezza del veicolo;
+                                
+                            
+                            
+                                c)
+                                
+                                    al Ministero dell'istruzione, dell'universita' e della ricerca - Dipartimento per i servizi per il territorio, nella misura del 7,5 per cento del totale annuo, al fine di favorire l'impegno della scuola pubblica e privata nell'insegnamento dell'educazione stradale e per l'organizzazione dei corsi per conseguire il certificato di idoneita' alla conduzione dei ciclomotori.
+
 Gli incrementi delle sanzioni amministrative pecuniarie di cui all'articolo 195, comma 2-bis, sono versati in un apposito capitolo di entrata del bilancio dello Stato, di nuova istituzione, per essere riassegnati al Fondo contro l'incidentalita' notturna di cui all'articolo 6-bis del decreto-legge 3 agosto 2007, n. 117, convertito, con modificazioni, dalla legge 2 ottobre 2007, n. 160, con provvedimento del Ministero dell'economia e delle finanze adottato sulla base delle rilevazioni trimestrali del Ministero dell'interno. Tali rilevazioni sono effettuate con le modalita' fissate con decreto del Ministero dell'interno, di concerto con i Ministeri dell'economia e delle finanze, della giustizia e delle infrastrutture e dei trasporti. Con lo stesso decreto sono stabilite le modalita' di trasferimento della percentuale di ammenda di cui agli articoli 186, comma 2-octies, e 187, comma 1-quater, destinata al Fondo.
 
 Il Ministro delle infrastrutture e dei trasporti, di concerto con i Ministri dell'economia e delle finanze, dell'interno e dell'istruzione, dell'universita' e della ricerca, determina annualmente le quote dei proventi da destinarsi alle suindicate finalita'. Il Ministro dell'economia e delle finanze e' autorizzato ad adottare, con propri decreti, le necessarie variazioni di bilancio, nel rispetto delle quote come annualmente determinate.
 
 Il Ministro delle infrastrutture e dei trasporti, il Ministro dell'interno e il Ministro dell'istruzione, dell'universita' e della ricerca trasmettono annualmente al Parlamento, entro il 31 marzo, una relazione sull'utilizzo delle quote dei proventi di cui al comma 2 effettuato nell'anno precedente.
+
+4.
+                        
+                            
+                                Una quota pari al 50 per cento dei proventi spettanti agli enti di cui al secondo periodo del comma 1 e' destinata: 
+ 
+                            
+                            
+                                a)
+                                
+                                    in misura non inferiore a un quarto della quota, a interventi di sostituzione, di ammodernamento, di potenziamento, dimessa a norma e di manutenzione della segnaletica delle strade di proprieta' dell'ente; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    in misura non inferiore a un quarto della quota, al potenziamento delle attivita' di controllo e di accertamento delle violazioni in materia di circolazione stradale, anche attraverso l'acquisto di automezzi, mezzi e attrezzature dei Corpi e dei servizi di polizia provinciale e di polizia municipale di cui alle lettere d-bis) ed e) del comma 1 dell'articolo 12; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    ad altre finalita' connesse al miglioramento della sicurezza stradale, relative alla manutenzione delle strade di proprieta' dell'ente, all'installazione, all' ammodernamento, al potenziamento, alla messa a norma e alla manutenzione delle barriere e alla sistemazione del manto stradale delle medesime strade, alla redazione dei piani di cui all'articolo 36, a interventi per la sicurezza stradale a tutela degli utenti vulnerabili, quali bambini, anziani, disabili, pedoni ((,ciclisti e conducenti di ciclomotori e di motocicli)), allo svolgimento, da parte degli organi di polizia locale, nelle scuole di ogni ordine e grado, di corsi didattici finalizzati all'educazione stradale, a misure di assistenza e di previdenza per il personale di cui alle lettere d-bis) ed e) del comma 1 dell'articolo 12, alle misure di cui al comma 5-bis del presente articolo e a interventi a favore della mobilita' ciclistica.
 
 Gli enti di cui al secondo periodo del comma 1 determinano annualmente, con delibera della giunta, le quote da destinare alle finalita' di cui al comma 4. Resta facolta' dell'ente destinare in tutto o in parte la restante quota del 50 per cento dei proventi alle finalita' di cui al citato comma 4.
 
@@ -11711,6 +15592,31 @@ La prescrizione del diritto a riscuotere le somme dovute a titolo di sanzioni am
 ## Art. 210. — Sanzioni amministrative accessorie a sanzioni amministrative pecuniarie in generale
 
 Quando le norme del presente codice dispongono che ad una sanzione amministrativa pecuniaria consegua una sanzione accessoria non pecuniaria, quest'ultima si applica di diritto, secondo le norme che seguono.
+
+2.
+                        
+                            
+                                Le sanzioni amministrative accessorie non pecuniarie comminate nel presente codice si distinguono in: 
+ 
+                            
+                            
+                                a)
+                                
+                                    sanzioni relative ad obblighi di compiere una determinata attivita' o di sospendere o cessare una determinata attivita'; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    sanzioni concernenti il veicolo; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    sanzioni concernenti i documenti di circolazione e la patente di guida.
 
 Nei casi in cui e' prevista l'applicazione della sanzione accessoria della confisca del veicolo, non e' ammesso il pagamento in misura ridotta della sanzione amministrativa pecuniaria cui accede.
 In tal caso il verbale di contestazione della violazione deve essere trasmesso al prefetto ((del luogo della commessa violazione)) entro dieci giorni.
@@ -12123,6 +16029,133 @@ Le disposizioni di cui ai commi 1 e 2 si applicano anche al conducente titolare 
 
 ((
 
+1.
+                        
+                            
+                                Nei confronti dei conducenti di veicoli a motore per i quali e' richiesta la patente di guida, oltre all'applicazione della sanzione amministrativa pecuniaria, si applica altresi' la sanzione accessoria della sospensione della patente di guida, nella misura determinata dai commi 2 e 3, quando, al momento dell'accertamento delle seguenti violazioni, dall'anagrafe nazionale degli abilitati alla guida di cui agli articoli 225 e 226 risulta che il punteggio attribuito alla patente posseduta e' inferiore a venti punti per effetto delle decurtazioni subite: 
+ 
+                            
+                            
+                                a)
+                                
+                                    articolo 6, comma 4, lettera b), per le violazioni concernenti il mancato rispetto dei segnali di senso vietato e di divieto di sorpasso; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    articolo 143, comma 11; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    articolo 145, comma 10; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    articolo 146, comma 3; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    articolo 147, comma 5; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    articolo 148, comma 9-bis e comma 15, per la violazione dei commi 2, 3 e 8; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    articolo 149, comma 5; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    articolo 154, comma 7 e comma 8, per la violazione dei commi 1 e 3; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    articolo 171, comma 2; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    articolo 172, commi 10 e 11; 
+
+                                
+                            
+                            
+                                m)
+                                
+                                    articolo 173, comma 3-bis; 
+
+                                
+                            
+                            
+                                n)
+                                
+                                    articolo 174, commi 6, 7, terzo periodo, e 11, ultimo periodo; 
+
+                                
+                            
+                            
+                                o)
+                                
+                                    articolo 176, commi 1, lettera b), 2, lettera a), 5, 7 e 8; 
+
+                                
+                            
+                            
+                                p)
+                                
+                                    articolo 186-bis, comma 2; 
+
+                                
+                            
+                            
+                                q)
+                                
+                                    articolo 191, comma 4.
+
+2.
+                        
+                            
+                                La sospensione breve di cui al comma 1 e' disposta: 
+ 
+                            
+                            
+                                a)
+                                
+                                    per un periodo di sette giorni, nei casi in cui al momento dell'accertamento il conducente risulti in possesso di un punteggio inferiore a venti punti ma pari almeno a dieci punti; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    per un periodo di quindici giorni, nei casi in cui al momento dell'accertamento il conducente risulti in possesso di un punteggio inferiore a dieci punti.
+
 Ferma restando l'applicazione delle disposizioni degli articoli 222 e 223, la durata della sospensione prevista dalle lettere a) e b) del comma 2 del presente articolo e' raddoppiata quando il conducente abbia provocato un incidente stradale, compreso il caso in cui tale evento consista nella fuoriuscita dalla sede stradale senza coinvolgimento di altre persone o cose diverse dal conducente e dal suo veicolo.
 
 Le disposizioni del presente articolo si applicano anche ai conducenti titolari di patenti rilasciate all'estero che commettono alcuna delle violazioni di cui al comma 1 nel territorio dello Stato, considerando, come presupposto ai fini dell'applicazione delle medesime disposizioni, un punteggio di almeno un punto di penalizzazione nella banca dati prevista dall'articolo 6-ter del decreto-legge 27 giugno 2003, n. 151, convertito, con modificazioni, dalla legge 1° agosto 2003, n. 214. Ai medesimi conducenti si applica la sospensione breve di cui al comma 2, lettera a), se al momento dell'accertamento risulta nei confronti del medesimo conducente un punteggio compreso tra uno e dieci punti, ovvero quella di cui al comma 2, lettera b), se risulta un punteggio superiore a dieci punti.
@@ -12277,6 +16310,31 @@ Nel caso di sentenza irrevocabile di proscioglimento, il prefetto, ovvero, nei c
 
 ## Art. 225. — Istituzione di archivi ed anagrafe nazionali
 
+1.
+                        
+                            
+                                Ai fini della sicurezza stradale e per rendere possibile l'acquisizione dei dati inerenti allo stato delle strade, dei veicoli e degli utenti e dei relativi mutamenti, sono istituiti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    presso il ((Ministero delle infrastrutture e dei trasporti)) un archivio nazionale delle strade; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    presso ((il Dipartimento per i trasporti terrestri)) un archivio nazionale dei veicoli; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    presso ((il Dipartimento per i trasporti terrestri)) una anagrafe nazionale degli abilitati alla guida, che include anche incidenti e violazioni.
+
 ## Art. 226. — Organizzazione degli archivi e dell'anagrafe nazionale
 
 Presso il Ministero delle infrastrutture e dei trasporti e' istituito l'archivio nazionale delle strade, che comprende tutte le strade distinte per categorie, come indicato nell'art.
@@ -12331,9 +16389,67 @@ Con il regolamento sono adeguati e aggiornati gli importi previsti nella tabella
 La destinazione degli importi prevista dall'art. 16 della legge 1 dicembre 1986, n. 870, e' integrata dalla seguente lettera: d) fino al 10 per cento, per le spese relative al procedimento centralizzato di conferma di validita' della patente di guida di cui all'art. 126.
 Rimane identica la destinazione degli importi prevista dall'art. 19 della medesima legge. Con il regolamento di cui al comma 1 potranno essere, altresi', aggiornati i limiti di destinazione degli importi medesimi alle singole voci contemplate nei richiamati articoli 16 e 19. (15)
 
+3.
+                        
+                            
+                                Gli importi relativi ai diritti per le operazioni tecniche e tecnico-amministrative di competenza del ((Ministero delle infrastrutture e dei trasporti)) sono destinati alle seguenti spese: 
+ 
+                            
+                            
+                                a)
+                                
+                                    per l'acquisto delle attrezzature tecniche necessarie per i servizi del ((Ministero delle infrastrutture e dei trasporti)), nonche' per il funzionamento e la manutenzione delle attrezzature stesse; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    per la effettuazione di corsi di qualificazione e aggiornamento o di specializzazione post-laurea del personale del suindicato Dicastero, in merito all'applicazione del presente codice, nonche' per la partecipazione del personale stesso ai corsi anzidetti; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    per le diverse operazioni riguardanti gare, collaudi, omologazioni, sopralluoghi, fornitura e provvista di materiali e stampati vari, necessari per l'espletamento di tutti i servizi di competenza del ((Ministero delle infrastrutture e dei trasporti)), magazzinaggio, distribuzione e spedizione dei materiali e stampati suddetti; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    per la formazione e l'aggiornamento periodico dell'archivio nazionale delle strade e dei censimenti di traffico di cui all'art.
+226.
+
 Il ((Ministro dell'economia e delle finanze)) e' autorizzato ad adottare, con propri decreti, le necessarie variazioni di bilancio, accreditando gli importi versati nei capitoli del ((Ministero delle infrastrutture e dei trasporti)).
 
 Con il regolamento sono stabilite le tabelle degli importi relativi ai diritti per le operazioni tecniche e tecnico- amministrative, nonche' per gli oneri di concessione, autorizzazione, licenze e permessi, dovuti agli enti proprietari delle strade, salvo quanto stabilito per i concessionari di strade nelle convenzioni di concessione.
+
+6.
+                        
+                            
+                                Gli importi di cui al comma 5 sono destinati alle seguenti spese: 
+ 
+                            
+                            
+                                a)
+                                
+                                    per l'acquisto delle attrezzature tecniche necessarie per i servizi, nonche' per il funzionamento e la manutenzione delle attrezzature stesse; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    per la effettuazione di corsi di qualificazione e aggiornamento del personale o di specializzazione post-laurea, in merito all'applicazione del presente codice, nonche' per la partecipazione del personale stesso ai corsi anzidetti; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    per la formazione e l'aggiornamento periodico dell'archivio nazionale delle strade di propria competenza e dei censimenti della circolazione.
 
 --------------
                             AGGIORNAMENTO (15)

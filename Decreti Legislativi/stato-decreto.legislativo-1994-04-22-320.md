@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
 vigenza_date: 2015-05-06
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:29Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -55,6 +55,31 @@ Si applica l'art. 45 della legge 16 maggio 1978, n. 196.
 ## Art. 5. — (( (Requisiti per l'esercizio del diritto elettorale attivo per l'elezione del Consiglio regionale della Valle d'Aosta). ))
 
 ((
+
+1.
+                    
+                        
+                            Sono elettori del Consiglio regionale della Valle d'Aosta, i cittadini in possesso dei requisiti stabiliti dal testo unico delle leggi per la disciplina dell'elettorato attivo e per la tenuta e la revisione delle liste elettorali, approvato con decreto del Presidente della Repubblica 20 marzo 1967, n. 223, e successive modificazioni, che, alla data di pubblicazione del manifesto di convocazione dei comizi elettorali, risiedono in Valle d'Aosta ininterrottamente da un anno ovvero si trovano in una delle seguenti condizioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                risiedono nella provincia di Trento o in quella di Bolzano senza avervi maturato il diritto di voto avendovi trasferito la residenza da un comune della regione Valle d'Aosta dove hanno maturato il diritto di voto; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                risiedono in Valle d'Aosta, avendovi nuovamente trasferito la residenza dalla provincia di Trento o da quella di Bolzano, senza aver ivi acquisito il diritto elettorale attivo per i consigli provinciali e prima del trasferimento avevano maturato l'anno ininterrotto di residenza nel territorio della Regione; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                sono elettori residenti all'estero, secondo quanto previsto dall'articolo 6-ter.
 
 I cittadini cancellati dall'anagrafe della popolazione residente per irreperibilita' accertata ai sensi dell'articolo 11, comma 1, lettera c), del decreto del Presidente della Repubblica 30 maggio 1989, n. 223, sono elettori del Consiglio regionale della Valle d'Aosta purche' si rendano nuovamente reperibili e siano stati in possesso dei requisiti per l'esercizio del diritto elettorale attivo alla data della cancellazione.
 

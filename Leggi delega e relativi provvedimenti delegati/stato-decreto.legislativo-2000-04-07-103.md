@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Leggi delega e relativi provvedimenti delegati
 vigenza_date: 2018-01-01
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:41:15Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -138,4 +138,45 @@ Fatta eccezione per i contratti stipulati ai sensi del comma 4, sono altresi' fa
  La L. 27 dicembre 2017, n. 205, ha disposto (con l'art. 1, comma 271) che la presente modifica decorre dal 1 aprile 2018.
 
 ## Art. 3.
+
+1.
+                    
+                        
+                            Sono abrogate le seguenti disposizioni:
+
+                        
+                        
+                            a)
+                            
+                                gli articoli 162, 163 e 165 del decreto del Presidente della Repubblica 5 gennaio 1967, n. 18;
+                            
+                        
+                        
+                            b)
+                            
+                                l'articolo 2, comma secondo, e l'articolo 14, comma terzo, del decreto del Presidente della Repubblica 31 luglio 1980, n. 618;
+                            
+                        
+                        
+                            c)
+                            
+                                l'articolo 1 e l'articolo 3, comma secondo, della legge 13 agosto 1980, n. 462;
+                            
+                        
+                        
+                            d)
+                            
+                                l'articolo 17, comma 3, della legge 27 ottobre 1988, n. 470;
+                            
+                        
+                        
+                            e)
+                            
+                                l'articolo 17, comma 1, della legge 22 dicembre 1990, n. 401;
+                            
+                        
+                        
+                            f)
+                            
+                                l'articolo 1, comma 132, della legge 23 dicembre 1996, n. 662, limitatamente alle parole: "fatti salvi i rapporti contrattuali in atto", e comma 133.
 

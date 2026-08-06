@@ -8,8 +8,8 @@ codice_redazionale: 011G0252
 vigente: true
 source: normattiva-opendata
 collection: DPR
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:48:03Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -115,6 +115,31 @@ Ai sensi del comma 3, dell'articolo 1, della legge 8 febbraio 2006, n. 61, in at
 
 ## Art. 3. — Misure di protezione dell'ambiente, degli ecosistemi 
  marini e del patrimonio culturale subacqueo
+
+1.
+                    
+                        
+                            Nella zona di protezione ecologica delimitata ai sensi dell'articolo 2, si applicano le norme dell'ordinamento italiano, del diritto dell'Unione europea e delle Convenzioni internazionali in vigore, di cui l'Italia e' parte contraente, in particolare, in materia di: 
+ 
+                        
+                        
+                            a)
+                            
+                                prevenzione e repressione di tutti i tipi di inquinamento marino da navi, comprese le piattaforme off-shore, l'inquinamento biologico conseguente a discarica di acque di zavorra, ove non consentito, l'inquinamento da incenerimento dei rifiuti, da attivita' di esplorazione, sfruttamento dei fondali marini e l'inquinamento di tipo atmosferico, anche nei confronti delle navi battenti bandiera straniera e delle persone di nazionalita' straniera; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                protezione della biodiversita' e degli ecosistemi marini, in particolare con riferimento alla protezione dei mammiferi marini; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                protezione del patrimonio culturale rinvenuto nei suoi fondali.
 
 Le disposizioni di cui al presente articolo non si applicano alle navi indicate all'articolo 3, comma 3, della Convenzione internazionale per la prevenzione dell'inquinamento causato da navi (Convenzione MARPOL 73/78) ratificata dalla legge 29 settembre 1980, n. 662, e successive modificazioni, emendata con il protocollo adottato a Londra il 17 febbraio 1978, reso esecutivo dalla legge 4 giugno 1982, n. 438.
 

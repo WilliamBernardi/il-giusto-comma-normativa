@@ -8,8 +8,8 @@ vigente: true
 source: normattiva-opendata
 collection: DL proroghe
 vigenza_date: 2023-12-31
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:39:27Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO-LEGGE
@@ -31,6 +31,31 @@ All'articolo 1, comma 6-septies, del decreto-legge 28 dicembre 2006, n. 300, con
 
 Nelle more della definizione delle procedure di mobilita', le assegnazioni temporanee del personale non dirigenziale presso il Ministero dei beni e delle attivita' culturali e del turismo, nonche', in attesa del completamento del piano di rientro dalla situazione di esubero, del personale non dirigenziale impiegato presso l'INPS, fatta eccezione per il personale appartenente al comparto scuola, possono essere prorogate di un anno, in deroga al limite temporale di cui all'articolo 30, comma 2-sexies, del decreto legislativo 30 marzo 2001, n. 165, e successive modificazioni, ai fini della predisposizione di un piano di revisione dell'utilizzo del personale comandato.
 
+4.
+                    
+                        
+                            All'articolo 1 del decreto-legge 29 dicembre 2011, n. 216, convertito, con modificazioni, dalla legge 24 febbraio 2012, n. 14, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 1, le parole " 31 dicembre 2012" sono sostituite dalle seguenti: "31 dicembre 2014"; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                il comma 2 e' sostituito dal seguente: "2. Il termine per procedere alle assunzioni di personale a tempo indeterminato relative alle cessazioni verificatesi negli anni 2009, 2010, 2011 e 2012 di cui all'articolo 3, comma 102, della legge 24 dicembre 2007, n. 244, e successive modificazioni, e all'articolo 66, commi 9-bis, 13, 13-bis e 14, del decreto-legge 25 giugno 2008, n. 112, convertito, con modificazioni, dalla legge 6 agosto 2008, n. 133, e successive modificazioni, e' prorogato al 31 dicembre 2014 e le relative autorizzazioni ad assumere, ove previste, possono essere concesse entro il 31 dicembre 2014." 
+
+                            
+                        
+                        
+                            b-bis)
+                            
+                                al comma 4-bis, le parole: "31 dicembre 2013" sono sostituite dalle seguenti: "30 giugno 2015".
+
 Le autorizzazioni alle assunzioni per l'anno 2013, adottate ai sensi dell'articolo 1, comma 91, della legge 24 dicembre 2012, n. 228, sono prorogate al ((31 dicembre 2024)).
 
 All'articolo 2, comma 7, ultimo periodo, del decreto-legge 31 agosto 2013, n. 101, convertito, con modificazioni, dalla legge 30 ottobre 2013, n. 125, le parole: «31 dicembre 2013» sono sostituite dalle seguenti: "28 febbraio 2014". PERIODO SOPPRESSO DALLA L. 27 FEBBRAIO 2014, N. 15. PERIODO SOPPRESSO DALLA L. 27 FEBBRAIO 2014, N.
@@ -43,6 +68,31 @@ COMMA SOPPRESSO DALLA L. 27 FEBBRAIO 2014, N. 15.
 Per la ridefinizione del sistema di cui all'articolo 7 del decreto legislativo 29 marzo 2012, n. 49, il termine per l'emanazione del decreto del Presidente del Consiglio dei Ministri di cui al comma 6 dell'articolo medesimo, per il triennio 2014-2016, e' prorogato al 30 giugno 2014.
 
 All'articolo 6, comma 3, del decreto-legge 31 maggio 2010, n. 78, convertito, con modificazioni, dalla legge 30 luglio 2010, n. 122, le parole: "Sino al 31 dicembre 2013" sono sostituite dalle seguenti: "Sino al 31 dicembre 2014".
+
+11.
+                    
+                        
+                            Al decreto legislativo 19 marzo 2001, n. 69, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                all'articolo 51, comma 2, lettera a), la parola «2015» e' sostituita dalla parola «2018»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                all'articolo 52, comma 5, lettera a), la parola «2015» e' sostituita dalla parola «2018»; 
+
+                            
+                        
+                        
+                            b-bis)
+                            
+                                alla nota [5] della tabella 1, la parola: "2015" e' sostituita dalla seguente: "2016".
 
 Le disposizioni di cui al comma 11 non devono comportare nuovi o maggiori oneri a carico della finanza pubblica.
 
@@ -64,6 +114,24 @@ COMMA SOPPRESSO DALLA L. 27 FEBBRAIO 2014, N. 15.
 
 L'incarico del Commissario liquidatore della Gestione denominata "Particolari e straordinarie esigenze, anche di ordine pubblico, della citta' di Palermo", in liquidazione coatta amministrativa, prorogato di sei mesi ai sensi dell'articolo 12, comma 40, del decreto-legge 6 luglio 2012, n. 95, convertito dalla legge 7 agosto 2012, n. 135, e successive modificazioni, in scadenza al 31 dicembre 2013, e' prorogato per un ulteriore periodo di quattro mesi, non rinnovabile.
 
+4.
+                    
+                        
+                            Al decreto-legge 6 giugno 2012, n. 74, convertito, con modificazioni, dalla legge 1° agosto 2012, n. 122, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                all'articolo 8, comma 7, primo e terzo periodo, le parole "31 dicembre 2013" sono sostituite dalle seguenti: "31 dicembre 2014"; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                all'articolo 19-bis, comma 1, le parole "31 dicembre 2013" sono sostituite dalle seguenti: "31 dicembre 2014".
+
 Per la conclusione delle attivita' di rendicontazione delle contabilita' speciali n. 5430 e n. 5281 gia' intestate al soppresso ufficio del Commissario Delegato per la Ricostruzione - Presidente della Regione Abruzzo, in considerazione dell'elevato numero dei soggetti coinvolti, nonche' di mandati di pagamento effettuati, il termine di cui all'articolo 5, comma 5-bis, della legge 24 febbraio 1992, n. 225, e' prorogato al 31 marzo 2014.
 
 Il Ministero della difesa e' autorizzato a impiegare nell'ambito nel centro storico del Comune de L'Aquila colpito dal sisma del 6 aprile 2009, con decorrenza dal 1° gennaio 2014 e fino al 31 marzo 2014 e nei limiti delle risorse complessivamente individuate nel comma 7, un contingente non superiore a 135 unita' di personale delle Forze armate per la prosecuzione dei servizi di vigilanza e protezione di cui all'articolo 16 dell'ordinanza del Presidente del Consiglio dei ministri 9 aprile 2009, n. 3754. Il Ministero della difesa e' altresi' autorizzato a impiegare il predetto contingente con decorrenza dal 1° gennaio 2014 e fino al 31 dicembre 2014, nei limiti delle risorse complessivamente individuate nel comma 7, ai fini della vigilanza degli Uffici Giudiziari del Comune de L'Aquila.
@@ -81,6 +149,31 @@ Per i finanziamenti contratti ai sensi dell'articolo 11, commi 7 e 7-bis, del de
 ## Art. 2-bis. — (( (Proroga di termini in materia di magistratura onoraria). ))
 
 ((
+
+1.
+                    
+                        
+                            All'articolo 1, comma 290, della legge 27 dicembre 2013, n. 147, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                dopo le parole: "il cui mandato scade il 31 dicembre 2013" sono inserite le seguenti: "o il 31 dicembre 2014"; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                le parole: "nonche' i giudici di pace il cui mandato scade entro il 31 dicembre 2014" sono sostituite dalle seguenti: "nonche' i giudici di pace il cui mandato scade entro il 31 dicembre 2015"; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                le parole: "e, comunque, non oltre il 31 dicembre 2014" sono sostituite dalle seguenti: "e, comunque, non oltre il 31 dicembre 2015".
 
 2. All'articolo 245, comma 1, del decreto legislativo 19 febbraio 1998, n. 51, e successive modificazioni, le parole: "non oltre il 31 dicembre 2014" sono sostituite dalle seguenti: "non oltre il 31 dicembre 2015"))
 
@@ -148,6 +241,23 @@ La validita' delle idoneita' conseguite ai sensi della legge 3 luglio 1998, n. 2
 ## Art. 7. — Proroga di termini in materia di salute
 
 ## Art. 8. — Proroga di termini in materia di lavoro e politiche sociali
+
+1.
+                    
+                        
+                            All'articolo 21 del decreto legislativo 26 marzo 2001, n. 151, e successive modificazioni, sono apportate le seguenti modificazioni:
+
+                        
+                        
+                            a)
+                            
+                                al comma 1-bis, le parole: "entro sei mesi" sono sostituite dalle seguenti: "entro nove mesi";
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 2-ter, le parole: "novantesimo giorno" sono sostituite dalle seguenti: "duecento settantesimo giorno".
 
 L'intervento di cui al comma 16 dell'articolo 19 del decreto-legge 29 novembre 2008, n. 185, convertito, con modificazioni, dalla legge 28 gennaio 2009, n. 2, il quale prevede che il Ministro del lavoro, della salute e delle politiche sociali assegna alla societa' Italia Lavoro S.p.A. 13 milioni di euro quale contribuito agli oneri di funzionamento e ai costi generali di struttura e' prorogato nella medesima misura per l'anno 2014. Al relativo onere si provvede mediante riduzione del Fondo sociale per l'occupazione e la formazione, di cui all'articolo 18, comma 1, lettera a), del decreto-legge 29 novembre 2008, n. 185, convertito, con modificazioni, dalla legge 28 gennaio 2009, n. 2.
 

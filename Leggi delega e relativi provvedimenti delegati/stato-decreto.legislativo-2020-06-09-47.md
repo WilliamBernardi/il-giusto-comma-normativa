@@ -8,8 +8,8 @@ vigente: true
 source: normattiva-opendata
 collection: Leggi delega e relativi provvedimenti delegati
 vigenza_date: 2026-05-23
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:41:20Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -38,6 +38,390 @@ Il presente decreto legislativo reca le disposizioni per l'attuazione della dire
 Le disposizioni contenute nel presente decreto si applicano alle ((attivita' indicate agli allegati I e I-bis)) ed ai gas ad effetto serra elencati all'allegato II.
 
 ## Art. 3. — Definizioni
+
+1.
+                        
+                            
+                                Ai fini del presente decreto si applicanole seguenti definizioni che si intendono integrate da quelle contenute nei regolamenti delegati e nei regolamenti di esecuzione previsti dalla direttiva 2003/87/CE: 
+ 
+                            
+                            
+                                a)
+                                
+                                    «analisi del profilo di rischio»: attivita' svolta ai fini della determinazione del livello di rischio di non conformita' di un impianto fisso; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    «anno di controllo»: e' l'anno civile che si conclude ventiquattro mesi prima dell'inizio del periodo di riferimento; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    «anno di riferimento»: riferito agli operatori aerei che hanno iniziato ad operare nell'Unione dopo il 1° gennaio 2006, il primo anno civile di esercizio, in tutti gli altri casi l'anno civile che decorre dal 1° gennaio 2006; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    «attivita' di attuazione congiunta»: un'attivita' di progetto approvata da una o piu' parti incluse all'allegato I della Convenzione quadro delle Nazioni Unite sui cambiamenti climatici, ai sensi dell'articolo 6 del Protocollo di Kyoto e delle decisioni successive adottate a norma della UNFCCC o del Protocollo di Kyoto; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    «attivita' di meccanismo di sviluppo pulito»: di seguito CDM e' un'attivita' di progetto approvata da una o piu' parti incluse all'allegato I della Convenzione quadro delle Nazioni Unite sui cambiamenti climatici, ai sensi dell'articolo 12 del Protocollo di Kyoto e delle decisioni successive adottate a norma della Convenzione quadro delle Nazioni Unite sui cambiamenti climatici o del Protocollo di Kyoto; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    «attivita' di progetto»: attivita' finalizzata alla riduzione delle emissioni di gas ad effetto serra di cui alle lettere d) ed e) o realizzata a norma di accordi sottoscritti tra l'Unione e i Paesi terzi o di decisioni adottate dalla Conferenza delle Parti della Convenzione quadro delle Nazioni Unite sui cambiamenti climatici o del protocollo di Kyoto e ammissibili per essere utilizzati nell'ambito del sistema comunitario; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    «Autorita' nazionale competente»: e' il Comitato ETS designato per l'attuazione delle disposizioni della direttiva 2003/87/CE a norma dell'articolo 4, di seguito Comitato; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    «autorizzazione ad emettere gas a effetto serra»: l'autorizzazione definita a norma dell'articolo 15 ((e dell'articolo 42-quater)); 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    «avvio del funzionamento normale»: il primo giorno di funzionamento; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    «combustione»: l'ossidazione di combustibili, indipendentemente dall'impiego che viene fatto dell'energia termica, elettrica o meccanica prodotte in tale processo, e altre attivita' direttamente connesse, compreso il lavaggio dei gas di scarico; 
+
+                                
+                            
+                            
+                                m)
+                                
+                                    «CORSIA» - Carbon Offsetting and Reduction Scheme for International Aviation: misura mondiale basata sul mercato per la riduzione delle emissioni di CO2 derivanti dalle attivita' di trasporto aereo internazionale; 
+
+                                
+                            
+                            
+                                n)
+                                
+                                    «credito»: unita' rilasciata a seguito della realizzazione di attivita' di riduzione delle emissioni realizzate a norma di accordi sottoscritti tra l'Unione e i Paesi terzi o di decisioni adottate dalla Conferenza delle Parti della Convenzione quadro delle Nazioni Unite sui cambiamenti climatici o del Protocollo di Kyoto e ammissibili per essere utilizzati nell'ambito del sistema comunitario; 
+
+                                
+                            
+                            
+                                o)
+                                
+                                    «elenco degli operatori aerei»: elenco degli operatori aerei approvato ai sensi dei pertinenti regolamenti adottati ai sensi dell'articolo 18-bis della direttiva; 
+
+                                
+                            
+                            
+                                p)
+                                
+                                    "emissioni": il rilascio di gas a effetto serra a partire da fonti situate in un impianto o il rilascio, da parte di un aeromobile che esercita una delle attivita' di trasporto aereo elencate nell'allegato I o di navi che esercitano un'attivita' di trasporto marittimo di cui all'allegato I, dei gas specificati in riferimento all'attivita' interessata, o il rilascio di gas a effetto serra corrispondenti all'attivita' di cui all'allegato I-bis;
+                                
+                            
+                            
+                                q)
+                                
+                                    «emissioni attribuite al trasporto aereo»: le emissioni imputabili a tutti i voli che rientrano nelle attivita' elencate nell'allegato I, in partenza da un aerodromo situato nel territorio nazionale e quelli che arrivano in siffatto aerodromo da un Paese terzo; 
+
+                                
+                            
+                            
+                                r)
+                                
+                                    «emissioni storiche del trasporto aereo»: la media delle emissioni annue prodotte negli anni civili 2004, 2005 e 2006 dagli aeromobili che svolgono una delle attivita' di trasporto aereo elencate nell'allegato I; 
+
+                                
+                            
+                            
+                                s)
+                                
+                                    «EU ETS»: sistema europeo per lo scambio di quote di emissione dei gas a effetto serra; 
+
+                                
+                            
+                            
+                                t)
+                                
+                                    «gas a effetto serra»: i gas di cui all'allegato II e altri costituenti gassosi dell'atmosfera, sia naturali che di origine antropica, che assorbono e riemettono radiazioni infrarosse; 
+
+                                
+                            
+                            
+                                u)
+                                
+                                    «gestore»: la persona che gestisce o controlla un impianto o alla quale e' stato delegato un potere economico determinante per quanto riguarda l'esercizio tecnico del medesimo; 
+
+                                
+                            
+                            
+                                v)
+                                
+                                    
+                                        ((LETTERA ABROGATA DAL D.LGS. 10 SETTEMBRE 2024, N. 147)); 
+
+                                
+                            
+                            
+                                z)
+                                
+                                    «ICAO»: Organizzazione internazionale dell'aviazione civile; 
+
+                                
+                            
+                            
+                                aa)
+                                
+                                    «impianto»: un'unita' tecnica permanente in cui sono svolte una o piu' attivita' elencate all'allegato I e altre attivita' direttamente associate che hanno un collegamento tecnico con le attivita' svolte nel medesimo sito e che potrebbero incidere sulle emissioni e sull'inquinamento; 
+
+                                
+                            
+                            
+                                bb)
+                                
+                                    «impianto di produzione di elettricita'»: un impianto che, al 1° gennaio 2005 o successivamente, ha prodotto elettricita' ai fini della vendita a terzi e nel quale non si effettua alcuna attivita' elencata all'allegato I diversa dalla attivita' ivi indicata come «Combustione di carburanti in impianti di potenza termica nominale totale superiore a 20 MW»; 
+
+                                
+                            
+                            
+                                cc)
+                                
+                                    «ispezioni»: attivita' di monitoraggio e controllo della conformita' relativa agli impianti fissi basata su una preliminare analisi del profilo di rischio; 
+
+                                
+                            
+                            
+                                dd)
+                                
+                                    «nuovo entrante»: 
+ 1) l'impianto che esercita una o piu' attivita' indicate all'allegato I, che ha ottenuto un'autorizzazione ad emettere gas a effetto serra per la prima volta nel periodo che inizia da tre mesi prima della data di trasmissione dell'elenco di cui all'articolo 25, comma 2, e termina tre mesi prima della data di trasmissione del successivo elenco; 
+ 2) l'impianto che esercita per la prima volta un'attivita' inclusa nel sistema comunitario o rientri nel sistema EU ETS a norma dell'articolo 31 e 32; 
+ 3) ((NUMERO SOPPRESSO DAL D.LGS. 10 SETTEMBRE 2024, N. 147)); 
+
+                                
+                            
+                            
+                                ee)
+                                
+                                    «operatore aereo»: l'operatore che opera un aeromobile nel momento in cui e' esercitata una delle attivita' di trasporto aereo elencate all'allegato I o, nel caso in cui tale operatore non sia conosciuto o non identificato dal proprietario dell'aeromobile, il proprietario stesso dell'aeromobile; 
+
+                                
+                            
+                            
+                                ff)
+                                
+                                    «operatore aereo amministrato dall'Italia»: 
+ 1) l'operatore aereo in possesso di una licenza d'esercizio valida rilasciata dall'Ente nazionale per l'aviazione civile (ENAC); 
+ 2) l'operatore aereo, diverso da quello di cui al numero 1) e non in possesso di una licenza d'esercizio valida rilasciata da un altro Stato membro, le cui emissioni provenienti dalle attivita' di trasporto aereo, stimate per l'anno di riferimento, siano per la maggior parte attribuibili all'Italia. Viene fatto salvo il caso in cui ((nei primi due anni di ciascun periodo di cui all'articolo 13 della direttiva 2003/87/CE)) detto operatore non abbia prodotto emissioni attribuibili all'Italia, per cui non e' piu' considerato 'operatore aereo amministrato dall'Italia per il periodo di riferimento successivo e deve essere trasferito ad altro Stato membro ETS o cessato; 
+ 3) l'operatore aereo, diverso da quello di cui ai numeri 1) e 2) non in possesso di una licenza d'esercizio valida rilasciata da uno Stato membro, le cui emissioni provenienti dalle attivita' di trasporto aereo, stimate per i primi due anni ((di ciascun periodo di cui all'articolo 13 della direttiva 2003/87/CE)) precedente, siano per la maggior parte attribuibili all'Italia; 
+
+                                
+                            
+                            
+                                gg)
+                                
+                                    «operatore di trasporto aereo commerciale»: un operatore il quale, dietro compenso, fornisce al pubblico servizi aerei di linea o non di linea per il trasporto di passeggeri, merci o posta; 
+
+                                
+                            
+                            
+                                hh)
+                                
+                                    «organismo di accreditamento nazionale»: l'organismo nazionale di accreditamento designato ai sensi del regolamento (CE) n.765/2008; 
+
+                                
+                            
+                            
+                                ii)
+                                
+                                    «parte inclusa all'allegato I della Convenzione quadro delle Nazioni Unite sui cambiamenti climatici»: una parte elencata all'allegato I alla Convenzione quadro delle Nazioni Unite sui cambiamenti climatici che ha ratificato il protocollo di Kyoto, come indicato all'articolo 1, paragrafo 7, del protocollo medesimo; 
+
+                                
+                            
+                            
+                                ll)
+                                
+                                    
+                                        ((LETTERA ABROGATA DAL D.LGS. 10 SETTEMBRE 2024, N. 147)); 
+
+                                
+                            
+                            
+                                mm)
+                                
+                                    «persona»: qualsiasi persona fisica o giuridica; 
+
+                                
+                            
+                            
+                                nn)
+                                
+                                    «piccolo emettitore»: impianto che ha comunicato al Comitato emissioni per un valore inferiore a 25.000 tonnellate di CO2 equivalente e che, nei casi in cui effettua attivita' di combustione, ha potenza termica nominale inferiore a 35 MW, escluse le emissioni di biomassa, in ciascuno dei tre anni precedenti alla notifica di cui all'articolo 25. A tali impianti si applicano misure finalizzate ad ottenere un contributo equivalente alla riduzione delle emissioni con riferimento alle condizioni di cui all'articolo 31; 
+
+                                
+                            
+                            
+                                oo)
+                                
+                                    «((molto piccolo)) emettitore»: impianto che ha comunicato al Comitato emissioni per un valore inferiore a 2500 tonnellate di CO2 equivalente, escluse le emissioni di biomassa, in ciascuno dei tre anni precedenti alla notifica di cui all'articolo 25 ovvero un impianto di riserva di emergenza che non ha funzionato per piu' di 300 ore l'anno in ciascuno dei tre anni precedenti la notifica di cui all'articolo 25 con riferimento alle condizioni di cui all'articolo 32; 
+
+                                
+                            
+                            
+                                pp)
+                                
+                                    «portale ETS»: piattaforma informatica che costituisce l'interfaccia telematica tra utente ((...)) e il Comitato; 
+
+                                
+                            
+                            
+                                qq)
+                                
+                                    «pubblico»: una o piu' persone nonche', le associazioni, le organizzazioni o gruppi di persone; 
+
+                                
+                            
+                            
+                                rr)
+                                
+                                    «quantita' di emissioni»: quantita' di emissioni misurate in tonnellata di biossido di carbonio equivalente; 
+
+                                
+                            
+                            
+                                ss)
+                                
+                                    «quota di emissioni»: il diritto di emettere una tonnellata di biossido di carbonio equivalente per un periodo determinato, valido unicamente per rispettare le disposizioni del presente decreto e cedibile conformemente al medesimo; 
+
+                                
+                            
+                            
+                                tt)
+                                
+                                    «registro dell'Unione»: banca dati in formato elettronico istituita ai sensi dell'articolo 19 della direttiva 2003/87/CE; 
+
+                                
+                            
+                            
+                                uu)
+                                
+                                    «registro nazionale»: banca dati in formato elettronico istituita ai sensi dell'articolo 10 del regolamento del Parlamento europeo e del Consiglio europeo n. 525/2013 del 21 maggio 2013; 
+
+                                
+                            
+                            
+                                vv)
+                                
+                                    «regolamenti sui registri»: regolamento (UE) 389/2013 e regolamento delegato (UE) 1122/2019; 
+
+                                
+                            
+                            
+                                zz)
+                                
+                                    «riduzione delle emissioni certificate» (CER): un'unita' rilasciata ai sensi dell'articolo 12 del protocollo di Kyoto e delle decisioni adottate a norma della Convenzione quadro delle Nazioni Unite sui cambiamenti climatici o del protocollo di Kyoto; 
+
+                                
+                            
+                            
+                                aaa)
+                                
+                                    
+                                        ((LETTERA ABROGATA DAL D.LGS. 10 SETTEMBRE 2024, N. 147)); 
+
+                                
+                            
+                            
+                                bbb)
+                                
+                                    «Stato membro di riferimento», lo Stato membro incaricato di gestire l'EU ETS di scambio con riferimento all'operatore aereo; 
+
+                                
+                            
+                            
+                                ccc)
+                                
+                                    «tonnellata di biossido di carbonio equivalente», una tonnellata metrica di biossido di carbonio (CO2) o una quantita' di qualsiasi altro gas a effetto serra elencato all'allegato II che abbia un equivalente potenziale di riscaldamento planetario; 
+
+                                
+                            
+                            
+                                ddd)
+                                
+                                    «unita di riduzione delle emissioni» (ERU): un'unita' rilasciata ai sensi dell'articolo 6 del protocollo di Kyoto e delle decisioni adottate a norma della Convenzione quadro delle Nazioni Unite sui cambiamenti climatici o del protocollo di Kyoto; 
+
+                                
+                            
+                            
+                                eee)
+                                
+                                    «verificatore»: soggetto indipendente accreditato ai sensi dell'articolo 41 ((e dell'articolo 42-quaterdecies)). 
+
+                                
+                            
+                            
+                                eee-bis)
+                                
+                                    "Autorita' nazionale competente ai fini di cui al capo V bis": il Comitato ETS 2 designato per l'attuazione delle disposizioni della direttiva 2003/87/CE a norma dell'articolo 4-bis (di seguito Comitato ETS 2); 
+
+                                
+                            
+                            
+                                eee-ter)
+                                
+                                    "classe ghiaccio": la classe ghiaccio quale definita all'articolo 3, lettera o) del regolamento (UE) 2015/757; 
+
+                                
+                            
+                            
+                                eee-quater)
+                                
+                                    "combustibile": ai fini del capo V bis, qualsiasi prodotto energetico di cui all'articolo 2, paragrafo 1, della direttiva 2003/96/CE, compresi i carburanti o combustibili elencati nelle tabelle A e C dell'allegato I di detta direttiva, nonche' qualsiasi altro prodotto destinato all'uso, offerto in vendita o utilizzato come carburante per motori o combustibile per riscaldamento, come specificato all'articolo 2, paragrafo 3, di detta direttiva, anche per la produzione di energia elettrica; 
+ eee-quinques) "Focal Point CORSIA": ente, organo ovvero organismo dedicato all'implementazione delle attivita' correlate a CORSIA, comprese le attivita' di monitoraggio, comunicazione e verifica delle emissioni di CO2 nell'ambito dell'organizzazione internazionale per l'aviazione civile (ICAO); 
+ eee-sexies) "dati aggregati sulle emissioni a livello di societa'": i dati aggregati come definiti all'articolo 3, paragrafo 1, lettera q) del regolamento (UE) 2015/757; 
+ eee-septies) "depositario autorizzato": il soggetto come definito all'articolo 1, comma 2, lettera f), del decreto legislativo 26 ottobre 1995, n. 504; 
+ eee-octies) "deposito fiscale": l'impianto come definito all'articolo 1, comma 2, lettera e), del decreto legislativo 26 ottobre 1995, n. 504; 
+ eee-novies) "destinatario registrato": la persona fisica o giuridica come definita all'articolo 1, comma 2, lettera l), del decreto legislativo 26 ottobre 1995, n. 504; 
+ eee-decies) "effetti del trasporto aereo non legati alle emissioni di CO2": gli effetti sul clima del rilascio, durante la combustione di carburanti, di ossidi di azoto (NOx), particolato carbonioso, specie di zolfo ossidato, nonche' gli effetti del vapore acqueo, comprese le scie di condensazione, da parte di un aeromobile che esercita una delle attivita' di trasporto aereo elencate nell'allegato I; 
+ eee-undecies) "esercizio della nave": la determinazione del carico trasportato o della rotta e della velocita' della nave; 
+ eee-duodecies) "immissione in consumo": ai fini del capo V bis, l'immissione in consumo come definita all'articolo 6, paragrafo 3, della direttiva (UE) 2020/262; 
+ eee-terdecies) «impianti per l'incenerimento di rifiuti urbani»: gli impianti di cui all'articolo 3, punto 40) della direttiva 2010/75/UE che bruciano rifiuti urbani, come definiti all'articolo 3.2 ter della direttiva 2008/98/CE; 
+ eee-quaterdecies) "nave da crociera": la nave passeggeri che non dispone di un ponte di carico e che e' progettata esclusivamente per il trasporto commerciale di passeggeri con pernottamento su una tratta marittima; 
+ eee-quindecies) "paesi e territori non europei": i paesi e i territori non europei di cui all'articolo 198 del Trattato sul funzionamento dell'Unione europea; 
+ eee-sedecies) "periodo di conformita' CORSIA": il ciclo di compliance triennale durante il quale gli operatori devono adempiere ai loro obblighi di compensazione ai sensi del paragrafo 15 della Risoluzione dell'Assemblea ICAO A41-22; 
+ eee-septiesdecies) "portale ETS 2": la piattaforma informatica che costituisce l'interfaccia telematica tra utente, soggetto regolamentato e Comitato ETS 2; 
+ eee-octiesdecies) "porto di scalo": il porto dove la nave si ferma per caricare o scaricare merci o imbarcare o sbarcare i passeggeri, o il porto in cui una nave offshore si ferma per dare il cambio all'equipaggio. Sono esclusi: le soste per il solo scopo di rifornirsi di carburante o viveri, il cambio di equipaggio di una nave che non sia una nave offshore, le soste in bacino di carenaggio, le riparazioni alla nave, alle sue attrezzature o ad entrambe, le soste in porto perche' la nave necessita assistenza o e' in situazione di pericolo, i trasferimenti da nave a nave effettuati al di fuori dei porti, le soste per il solo scopo di trovare un riparo da condizioni meteorologiche avverse o rese necessarie da attivita' di ricerca e salvataggio e le soste delle navi portacontainer in un porto di trasbordo di container limitrofo elencato nell'atto di esecuzione adottato ai sensi dell'articolo 3 octies bis, paragrafo 2, della direttiva 2003/87/CE; 
+ eee-noviesdecies) "societa' di navigazione": l'armatore o qualsiasi altra organizzazione o persona, come il gestore o il noleggiatore a scafo nudo, che ha assunto la responsabilita' dell'esercizio della nave dall'armatore e che, cosi' facendo, ha accettato di assumere tutti i compiti e le responsabilita' imposti dal Codice internazionale di gestione della sicurezza delle navi e della prevenzione dell'inquinamento di cui all'allegato I del regolamento (CE) n. 336/2006 del Parlamento europeo e del Consiglio; 
+ eee-vicies) «soggetto regolamentato»: ai fini del capo V bis, qualsiasi persona fisica o giuridica, ad eccezione dei consumatori finali di prodotti energetici, che svolge l'attivita' di cui all'allegato I-bis e che rientra in una delle seguenti categorie: 
+ 1) se il combustibile passa attraverso un deposito fiscale, i soggetti che ne effettuano l'immissione in consumo, debitori dell'accisa divenuta esigibile a norma dell'articolo 2, comma 2, del decreto legislativo 26 ottobre 1995, n. 504; 
+ 2) se il numero 1) non e' applicabile, la persona di cui all'articolo 26, comma 7 del decreto legislativo 26 ottobre 1995, n. 504, debitrice dell'accisa divenuta esigibile a norma dell'articolo 26, comma 1, del medesimo decreto legislativo; 
+ 3) se i numeri 1) e 2) non sono applicabili, la persona registrata presso il competente Ufficio dell'Agenzia delle dogane, debitrice dell'accisa a norma dell'articolo 21, comma 6, del decreto legislativo 26 ottobre 1995, n. 504, anche nel caso in cui vi siano altri soggetti autorizzati a sostituirle; 
+ 4) se i precedenti numeri 1), 2) e 3) non sono applicabili, la persona all'uopo identificata e designata dal Comitato ETS 2 ai fini delle attivita' di cui all'allegato I-bis; 
+ eee-viciessemel) "speditore registrato": la persona fisica o giuridica come definita all'articolo 1, comma 2, lettera m), del decreto legislativo 26 ottobre 1995, n. 504; 
+ eee-viciesbis) "tratta": la tratta come definita all'articolo 3, lettera c), del regolamento (UE) 2015/757 del Parlamento europeo e del Consiglio, del 29 aprile 2015.
 
 ## - Capo II AUTORITÀ NAZIONALE COMPETENTE
 
@@ -84,6 +468,59 @@ Il Presidente, tenuto conto dell'ordine del giorno e delle materie ivi contempla
 
 ((
 
+6.
+                        
+                            
+                                La preliminare attivita' istruttoria, ai fini della stesura degli atti deliberativi del Comitato, e' di competenza del Ministero dell'ambiente e della sicurezza energetica; a tal fine e' istituita, presso la Direzione generale competente, un'apposita Segreteria tecnica. La segreteria tecnica, che integra competenze tecniche e giuridiche, si compone di quindici membri e di un coordinatore, nominati con decreto del Ministro dell'ambiente e della sicurezza energetica. Il coordinatore, scelto tra persone dotate di comprovata esperienza nel settore ETS, e' designato dal Ministero dell'ambiente e della sicurezza energetica. I quindici membri sono designati: 
+ 
+                            
+                            
+                                a)
+                                
+                                    uno dall'ISPRA; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    uno dall'ENAC; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    uno dalla societa' in house del Ministero delle infrastrutture e dei trasporti; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    quattro dal Gestore dei servizi energetici - GSE S.p.A. (GSE), di cui uno avente competenze in materia di Meccanismo di adeguamento del carbonio alle frontiere (CBAM); 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    quattro dalla societa' in house del Ministero dell'ambiente e della sicurezza energetica, di cui uno avente competenze in materia di CBAM; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    due da Unioncamere, di cui uno avente competenze in materia di CBAM; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    due dal Ministero dell'economia e delle finanze nell'ambito dell'Agenzia delle dogane e dei monopoli, aventi competenze in materia di CBAM.
+
 ))
 
 ((
@@ -107,6 +544,52 @@ Entro il 1° gennaio 2025, il Ministero dell'ambiente e della sicurezza energeti
 Il Portale ETS e' lo strumento utilizzato dal Ministero dell'ambiente e della sicurezza energetica e dal Comitato per lo svolgimento delle rispettive attivita', ai fini dell'interlocuzione con i destinatari della disciplina di cui al presente decreto. Con apposita convenzione sono definite le modalita' di interconnessione con le tecnologie telematiche delle camere di commercio. I servizi telematici erogati alle imprese e alle pubbliche amministrazioni coinvolte sono erogati in conformita' alle disposizioni dal decreto legislativo 7 marzo 2005, n. 82. I costi delle convenzioni sono coperti dalle tariffe di cui all'articolo 46 comma 2.
 
 Con riferimento al settore aereo, il Comitato svolge sia le attivita' relative al sistema EU ETS che quelle derivanti dal sistema CORSIA ((, fatta eccezione per le attribuzioni del Focal Point CORSIA. Per le attivita' inerenti al sistema CORSIA, il Comitato si avvale del supporto fornito dal Ministero delle infrastrutture e dei trasporti e dall'ENAC)).
+
+10.
+                        
+                            
+                                Il Comitato puo' proporre al Ministero dell'ambiente e della sicurezza energetica le azioni volte a: 
+ 
+                            
+                            
+                                a)
+                                
+                                    promuovere le attivita' progettuali legate ai meccanismi flessibili del protocollo di Kyoto; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    favorire la conoscenza e promuovere le attivita' svolte ai fini della riduzione delle emissioni di CO2 in atmosfera; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    valorizzare e rafforzare, anche attraverso la rete diplomatica italiana, i canali divulgativi ed operativi per fornire adeguati punti di riferimento e reti di scambio di informazioni al sistema industriale ed imprenditoriale italiano; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    valorizzare e rafforzare, nel quadro di un'azione concertata a beneficio del sistema-Paese, le attivita' pianificate e le risorse allocate per lo sviluppo di programmi di cooperazione bilaterale in attuazione di accordi intergovernativi legati ai meccanismi di progetto del protocollo di Kyoto; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    supportare le aziende italiane con suggerimenti e linee di indirizzo nella preparazione di progetti specifici corrispondenti alle priorita' di sviluppo sostenibile del Paese destinatario; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    valorizzare il potenziale dei vari settori tecnologico industriali italiani nello sviluppo di progetti internazionali per la riduzione delle emissioni.
 
 Con decreto del Ministro dell'ambiente e della sicurezza energetica ((...)) sono definite le modalita' di funzionamento del Comitato e della Segreteria tecnica di cui al presente articolo.
 
@@ -157,6 +640,32 @@ Le disposizioni ((della presente sezione)) si applicano, inoltre, all'operatore 
 
 ((COMMA ABROGATO DAL D.LGS. 10 SETTEMBRE 2024, N. 147)).
 
+4.
+                        
+                            
+                                
+                                    ((In deroga alle norme relative al monitoraggio e comunicazione delle emissioni e restituzione delle quote di cui agli articoli 35, 36 e 42)), gli obblighi precisati in tali disposizioni si considerano ottemperati e non si adotta nessun provvedimento nei confronti degli operatori aerei per quanto riguarda: 
+ 
+                            
+                            
+                                a)
+                                
+                                    le emissioni prodotte dai voli da o per gli aerodromi situati in paesi non appartenenti allo Spazio Economico europeo ((ad eccezione dei voli verso aerodromi situati nel Regno Unito o in Svizzera)) in ogni anno civile ((dal 1° gennaio 2021 al 31 dicembre 2026,)), fatto salvo il riesame di cui all'articolo 28-ter della direttiva 2003/87/CE; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le emissioni prodotte dai voli tra un aerodromo situato in una delle regioni ultraperiferiche ai sensi dell'articolo 349 del Trattato sul funzionamento dell'Unione europea e un aerodromo situato in un'altra regione dello Spazio Economico Europeo in ogni anno civile dal 1° gennaio 2013 al 31 dicembre 2023, fatto salvo il riesame di cui all'articolo 28-ter della direttiva 2003/87/CE;
+                                
+                            
+                            
+                                b-bis)
+                                
+                                    
+                                        ((le emissioni rilasciate fino al 31 dicembre 2030 dai voli tra un aerodromo situato in una regione ultraperiferica di uno Stato membro e un aerodromo situato nello stesso Stato membro, compreso un altro aerodromo situato nella stessa regione ultraperiferica o in un'altra regione ultraperiferica dello stesso Stato membro)).
+
 ((
 
 In deroga alle norme relative alla restituzione delle quote di cui all'articolo 36, gli operatori aerei non sono tenuti a restituire le quote relative alle emissioni dei voli da e verso i paesi meno sviluppati e i piccoli Stati insulari in via di sviluppo quali definiti dalle Nazioni Unite, diversi da quelli elencati nell'atto di esecuzione adottato a norma dell'articolo 25-bis, paragrafo 3, della direttiva 2003/87/CE e dagli Stati il cui Prodotto interno lordo (PIL) pro capite e' pari o superiore alla media dell'Unione.
@@ -182,6 +691,87 @@ La messa all'asta della quantita' di quote ((di cui all'articolo 3-quinquies del
 Il quantitativo di quote che l'Italia deve mettere all'asta per il periodo dal 1° gennaio 2013 al 31 dicembre 2026 e' ridotto in modo da corrispondere alla quantita' di quote di emissioni attribuita all'Italia per il trasporto aereo dai voli ai quali non si applicano le deroghe di cui all'articolo 5, comma 4, lettere a) e b).
 
 ))
+
+2.
+                        
+                            
+                                Con decreto del Ministro dell'economia e delle finanze, di concerto con il Ministro dell'ambiente e della tutela del territorio e del mare e del Ministro delle infrastrutture e dei trasporti, sono stabilite le procedure di versamento all'entrata del bilancio dello Stato dei proventi derivanti dalla vendita all'asta, di cui al comma 1, e la successiva riassegnazione, per la parte eccedente l'importo di un milione di euro limitatamente alla quota da assegnare al Ministero delle infrastrutture e dei trasporti, ai pertinenti capitoli di spesa per le attivita' destinate a finanziare le ((seguenti)) iniziative: 
+ 
+                            
+                            
+                                a)
+                                
+                                    contro i cambiamenti climatici nella Unione europea e nei Paesi terzi, anche per ridurre le emissioni di gas ad effetto serra; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    per dare attuazione all'articolo 21-bis della direttiva 2003/87/CE; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    per favorire l'adattamento agli effetti dei cambiamenti climatici nella Unione europea e nei Paesi terzi, segnatamente nei Paesi in via di sviluppo; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    per la ricerca e lo sviluppo, ai fini della mitigazione e dell'adattamento, anche, in particolare, nel settore dell'aeronautica e del trasporto aereo; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    per ridurre le emissioni attraverso modi di trasporto scarsamente inquinanti; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    per coprire i costi di gestione del sistema EU ETS; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    per combattere la deforestazione; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    atte a consentire l'ampia diffusione del sistema per la navigazione satellitare; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    per garantire i contributi al Fondo globale per l'efficienza energetica e le energie rinnovabili; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    per la ricerca e l'innovazione, con particolare riferimento ai programmi o alle iniziative nell'ambito del ((dei programmi quadro di ricerca dell'Unione europea)); 
+
+                                
+                            
+                            
+                                m)
+                                
+                                    per coprire costi di funzionamento del Comitato e del relativo supporto in relazione alle attivita' di trasporto aereo.
 
 Il Comitato informa la Commissione sulle iniziative intraprese ai sensi del comma 2. I proventi derivanti dalla vendita all'asta di cui al comma 1 sono utilizzati con trasparenza e rendicontati alla Commissione europea.
 
@@ -250,7 +840,50 @@ A decorrere dal 1° gennaio 2025, gli operatori aerei devono integrare i piani d
 
 Il Comitato, entro il termine di 45 giorni dall'invio del suindicato Piano, ne verifica la conformita' alle disposizioni vigenti. Il termine e' sospeso nel caso di richiesta da parte del Comitato di ulteriori informazioni e fino al ricevimento delle stesse, da presentarsi entro e non oltre il termine di 30 giorni.
 
+5.
+                        
+                            
+                                Gli operatori aerei soggetti alla disciplina del presente decreto eleggono domicilio nel territorio della Repubblica italiana: 
+ 
+                            
+                            
+                                a)
+                                
+                                    in occasione dell'aggiornamento del piano di monitoraggio, se gia' inclusi nell'elenco di cui al comma 1; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    all'atto dell'invio del primo piano di monitoraggio di cui al comma 2, se non inclusi nell'elenco di cui al comma 1.
+
 ## Art. 11. — Divieto operativo
+
+1.
+                        
+                            
+                                Il Comitato, ai fini della trasmissione della richiesta alla Commissione europea di applicazione del divieto operativo a carico dell'operatore aereo amministrato dall'Italia, predispone una relazione contenente: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la prova che l'operatore aereo amministrato dall'Italia non ha rispettato, per almeno tre anni consecutivi nell'arco di cinque anni, le prescrizioni stabilite dal presente decreto; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    i dettagli sulle sanzioni applicate; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    la valutazione della eventuale imposizione del divieto operativo.
 
 Il Comitato trasmette la relazione di cui al comma 1 alla Commissione europea, al Dipartimento per le politiche europee della Presidenza del Consiglio dei Ministri e ai Ministeri delle infrastrutture e dei trasporti e dell'economia e delle finanze.
 
@@ -258,6 +891,31 @@ Il Comitato trasmette la relazione di cui al comma 1 alla Commissione europea, a
  aereo amministrato dall'Italia
 
 La domanda di chiusura di un conto e' presentata al Comitato dal titolare del conto contestualmente ad una dichiarazione di conformita' agli obblighi del registro dell'Unione.
+
+2.
+                        
+                            
+                                In allegato alla richiesta l'operatore aereo deve inviare: 
+ 
+                            
+                            
+                                a)
+                                
+                                    una comunicazione della chiusura delle attivita' aeree di cui all'allegato I ovvero l'eventuale trasferimento della societa' o del ramo d'azienda relativa all'aviazione ad un altro operatore aereo, comunicando da quale Stato membro e' amministrato quest'ultimo; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    una comunicazione della cessazione o revoca del certificato di operatore aereo; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    la richiesta inviata ad Eurocontrol di chiusura del Central Route Charges Office (CRCO).
 
 La domanda e gli allegati sono sottoscritti dall'operatore aereo amministrato dall'Italia.
 
@@ -273,11 +931,68 @@ Il Comitato, ai sensi dell'articolo 26 del regolamento (UE) 1122/2019, all'esito
 
 Le disposizioni della presente sezione si applicano alle attivita' di trasporto marittimo indicate nell'allegato I della direttiva 2003/87/CE ed ai relativi gas serra, svolte da una societa' di navigazione attribuita all'Italia ai sensi dell'articolo 12-sexies, comma 1.
 
+2.
+                        
+                            
+                                L'assegnazione di quote, a norma dell'articolo 12-octies, e l'applicazione degli obblighi di restituzione per le attivita' di trasporto marittimo si applicano: 
+ 
+                            
+                            
+                                a)
+                                
+                                    al 100 per cento delle emissioni delle navi che effettuano tratte in partenza da un porto di scalo sotto la giurisdizione di uno Stato membro e in arrivo in un porto di scalo sotto la giurisdizione di uno Stato membro; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    al 100 per cento delle emissioni delle navi all'interno di un porto di scalo sotto la giurisdizione di uno Stato membro; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    al 50 per cento delle emissioni delle navi che effettuano tratte in partenza da un porto di scalo al di fuori della giurisdizione di uno Stato membro e in arrivo in un porto di scalo sotto la giurisdizione di uno Stato membro; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    al 50 per cento delle emissioni delle navi che effettuano tratte in partenza da un porto di scalo sotto la giurisdizione di uno Stato membro e in arrivo in un porto di scalo al di fuori della giurisdizione di uno Stato membro.
+
 ))
 
 ## Art. 12-ter. — (( (Introduzione graduale delle disposizioni per il trasporto marittimo).))
 
 ((
+
+1.
+                        
+                            
+                                Le societa' di navigazione sono tenute a restituire quote secondo il seguente calendario: 
+ 
+                            
+                            
+                                a)
+                                
+                                    a decorrere dal 1° gennaio 2025: il 40 per cento delle emissioni verificate comunicate per il 2024 che sarebbero soggette agli obblighi di restituzione a norma degli articoli 12-bis e 36; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    a decorrere dal 1° gennaio 2026: il 70 per cento delle emissioni verificate comunicate per il 2025 che sarebbero soggette agli obblighi di restituzione a norma degli articoli 12-bis e 36; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    a decorrere dal 1° gennaio 2027: il 100 per cento delle emissioni verificate comunicate per il 2026 e per ogni anno successivo a norma degli articoli 12-bis e 36.
 
 ))
 
@@ -320,6 +1035,24 @@ Nel caso in cui, in base ad un accordo contrattuale, un soggetto diverso dalla s
 
 Sono attribuite all'Italia e poste sotto l'autorita' del Comitato le societa' di navigazione individuate nell'elenco di cui al paragrafo 2 dell'articolo 3-octies septies della direttiva 2003/87/CE del Parlamento europeo e del Consiglio, del 13 ottobre 2003, nonche' quelle individuate ai sensi del comma 2.
 
+2.
+                        
+                            
+                                Le societa' di navigazione le cui navi entrano per la prima volta nell'ambito di applicazione del sistema EU ETS dopo il 1° gennaio 2024, e che non sono ricomprese nell'elenco di cui all'articolo 3-octies septies, paragrafo 2, della direttiva 2003/87/CE del Parlamento europeo e del Consiglio, del 13 ottobre 2003, sono attribuite all'Italia e poste sotto l'autorita' del Comitato: 
+ 
+                            
+                            
+                                a)
+                                
+                                    quando la societa' di navigazione e' registrata in Italia; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    quando una nave, di una societa' di navigazione che non e' registrata in uno Stato membro, ha iniziato o terminato in Italia la sua prima tratta che rientra nell'ambito di applicazione di cui all'articolo 3-octies bis della direttiva 2003/87/CE. Nel caso di tratta tra l'Italia e un altro Stato membro, e' attribuita all'Italia la societa' di navigazione che ha iniziato in Italia la sua prima tratta che rientra nell'ambito di applicazione di cui all'articolo 3-octies bis della direttiva (UE) 2003/87/CE, conformemente a quanto previsto dalle pertinenti norme unionali.
+
 L'attribuzione all'Italia di una societa' di navigazione inclusa nell'elenco di cui all'articolo 3-octies septies, paragrafo 2, della direttiva 2003/87/CE del Parlamento europeo e del Consiglio, del 13 ottobre 2003, resta ferma fino all'aggiornamento dell'elenco, ai sensi del paragrafo 2, lettere b) e c) dell'articolo 3-octies septies della direttiva 2003/87/CE del Parlamento europeo e del Consiglio, del 13 ottobre 2003, indipendentemente dalle eventuali modifiche nell'attivita' della societa' di navigazione o nella sua registrazione.
 
 ## Art. 12-septies. — (( (Comunicazione della cessazione di attivita' o fusione di una societa' di navigazione attribuita all'Italia).))
@@ -327,6 +1060,45 @@ L'attribuzione all'Italia di una societa' di navigazione inclusa nell'elenco di 
 ((
 
 La societa' di navigazione attribuita all'Italia comunica al Comitato la cessazione delle attivita' contemplate nell'allegato I entro trenta giorni dall'avvenuta cessazione e, comunque, non oltre il 31 dicembre dell'anno in cui e' avvenuta la cessazione dell'attivita'.
+
+2.
+                        
+                            
+                                La societa' di navigazione attribuita all'Italia comunica al Comitato la fusione con un'altra societa' di navigazione entro trenta giorni dall'avvenuta fusione e, comunque, non oltre il 31 dicembre dell'anno in cui e' avvenuta la fusione. Tale comunicazione dovra' riportare almeno i seguenti estremi identificativi della nuova societa' di navigazione: 
+ 
+                            
+                            
+                                a)
+                                
+                                    ragione sociale; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    indirizzo; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    numero identificativo unico IMO; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    paese di registrazione; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    autorita' di riferimento.
 
 ## Art. 12-octies. — (( (Assegnazione delle quote di emissioni alle societa' di navigazione mediante vendita all'asta).))
 
@@ -360,11 +1132,131 @@ La disposizione di cui al comma 1 si applica, altresi', agli impianti inclusi ai
 
 I gestori degli impianti che esercitano le attivita' elencate nell'allegato I che comportano emissioni di gas ad effetto serra specificati nell'allegato II hanno l'obbligo di presentare al Comitato domanda di autorizzazione ad emettere gas serra almeno 90 giorni prima della data dell'avvio del funzionamento normale dell'impianto.
 
+2.
+                        
+                            
+                                Il gestore invia al Comitato la domanda di cui al comma 1 che dovra' contenere almeno: 
+ 
+                            
+                            
+                                a)
+                                
+                                    i dati anagrafici del gestore e dell'impianto; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la descrizione dell'impianto e delle sue attivita' compresa la tecnologia utilizzata; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    la data prevista per l'avvio del funzionamento normale dell'impianto; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    le materie prime e secondarie il cui impiego e' suscettibile di produrre emissioni elencate nell'allegato II; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    le fonti di emissioni di gas elencati nell'allegato II dell'impianto; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    il piano di monitoraggio di cui all'articolo 20; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    il piano della metodologia di monitoraggio di cui all'articolo 21; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    la documentazione attestante l'avvenuto pagamento dell'apposita tariffa; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    la geolocalizzazione dell'impianto; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    una sintesi non tecnica dei dati riportati nelle precedenti lettere.
+
 Le disposizioni di cui al comma 1 non si applicano nel caso in cui il gestore degli impianti e' gia' in possesso di una valida autorizzazione ad emettere gas ad effetto serra per le attivita' elencate all'allegato I, che comportano emissioni di gas ad effetto serra specificati nell'allegato II.
 
 ## Art. 17. — Domanda di modifica dell'autorizzazione
 
 I gestori degli impianti che sono in possesso dell'autorizzazione ad emettere gas serra hanno l'obbligo di presentare al Comitato domanda di modifica della medesima autorizzazione nei casi elencati al comma 2, almeno sessanta giorni prima della data nella quale la modifica ha effetto.
+
+2.
+                        
+                            
+                                I gestori degli impianti inviano al Comitato la domanda di modifica della autorizzazione gia' esistente nei seguenti casi: 
+ 
+                            
+                            
+                                a)
+                                
+                                    modifica dell'identita' del gestore comunicata contestualmente dal nuovo e dal vecchio gestore. Il vecchio gestore mantiene gli obblighi previsti dal sistema EU-ETS fino alla data di pubblicazione della deliberazione del Comitato; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    modifica alla natura o al funzionamento dell'impianto che determini un cambiamento nell'assegnazione ovvero del piano di monitoraggio ovvero della struttura dell'impianto stesso; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    ampliamenti e riduzioni della capacita' dell'impianto; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    fusioni e scissioni; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    modifica del piano di monitoraggio a seguito di modifiche significative; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    modifica del Piano della metodologia di monitoraggio a seguito di modifiche significative.
 
 ## Art. 18.
 
@@ -374,9 +1266,80 @@ Il Comitato rilascia l'autorizzazione ad emettere gas effetto serra ad un impian
 
 Il rilascio di una nuova autorizzazione o del relativo aggiornamento e' effettuato entro 45 giorni dal ricevimento della istanza. Il suddetto termine e' sospeso nel caso di richiesta da parte del Comitato di ulteriori integrazioni e fino al ricevimento delle stesse, da presentarsi entro e non oltre il termine di 30 giorni.
 
+3.
+                        
+                            
+                                L'autorizzazione ad emettere gas ad effetto serra di cui al comma 1 contiene almeno i seguenti elementi: 
+ 
+                            
+                            
+                                a)
+                                
+                                    nome e indirizzo del gestore; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    descrizione delle attivita' e delle emissioni dell'impianto; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il piano di monitoraggio di cui all'articolo 20; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    il piano della metodologia di monitoraggio di cui all'articolo 21; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    l'obbligo di restituzione delle quote di emissioni entro la scadenza di cui all'articolo 36, comma 3; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    informazioni utili all'identificazione del soggetto giuridico o della persona fisica individuata come gestore. 
+
+                                
+                            
+                            
+                                f-bis)
+                                
+                                    l'obbligo di rendere le quote a titolo gratuito ricevute in eccesso.
+
 L'autorizzazione rilasciata agli impianti di incenerimento di rifiuti urbani non contiene gli elementi di cui alle lettere d), e) ((e f-bis) del comma 3.))
 
 ## Art. 19. — Revoca dell'autorizzazione
+
+1.
+                        
+                            
+                                L'autorizzazione ad emettere gas ad effetto serra e' revocata: 
+ 
+                            
+                            
+                                a)
+                                
+                                    nel caso in cui il gestore comunichi la cessazione delle attivita' ai sensi dell'articolo 26; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    nel caso di revoca dell'autorizzazione ambientale integrata, di cui alla Parte Seconda del decreto legislativo 3 aprile 2006, n.152.
 
 ((
 
@@ -430,6 +1393,143 @@ Con il decreto di cui al comma 4 si procede anche alla riassegnazione del 50 per
 
 Un'apposita convenzione fra il Ministero dell'economia e delle finanze - Dipartimento del tesoro e il GSE definisce le attivita' che lo stesso GSE sostiene in qualita' di «responsabile del collocamento», ivi compresa la gestione del conto di cui al presente articolo. Ai relativi oneri si provvede a valere sui proventi delle aste ai sensi del comma 7, lettera n).
 
+7.
+                        
+                            
+                                Le risorse di cui al comma 4, assegnate al Ministero dell'ambiente e della sicurezza energetica, al Ministero delle imprese e del made in Italy e al Ministero delle infrastrutture e dei trasporti, sono destinate alle seguenti attivita' per misure aggiuntive rispetto agli oneri complessivamente derivanti a carico della finanza pubblica dalla normativa vigente alla data di entrata in vigore del presente decreto fatto salvo quanto previsto al comma 8: 
+ 
+                            
+                            
+                                a)
+                                
+                                    ridurre le emissioni dei gas a effetto serra, anche contribuendo al Fondo globale per l'efficienza energetica e le energie rinnovabili e al Fondo di adattamento, cosi' come reso operativo dalla conferenza di Poznan sui cambiamenti climatici (COP 14 e COP/MOP 4); 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    finanziare attivita' di ricerca e di sviluppo e progetti dimostrativi volti all'abbattimento delle emissioni e all'adattamento ai cambiamenti climatici, compresa la partecipazione alle iniziative realizzate nell'ambito del Piano strategico europeo per le tecnologie energetiche e delle piattaforme tecnologiche europee; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    sviluppare energie rinnovabili e reti per la trasmissione dell'energia elettrica al fine di rispettare l'impegno dell'Unione europea in materia di energia rinnovabile e gli obiettivi dell'Unione sull'interconnettivita', nonche' sviluppare altre tecnologie che contribuiscano alla transizione verso un'economia a basse emissioni di carbonio sicura e sostenibile e aiutare a rispettare l'impegno dell'Unione europea a incrementare l'efficienza energetica, ai livelli convenuti nei pertinenti atti legislativi, compresa la produzione di energia elettrica da autoconsumatori di energia da fonti rinnovabili e comunita' di energia rinnovabile; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    adottare misure atte a evitare la deforestazione e a sostenere la protezione e il ripristino di torbiere, foreste e altri ecosistemi terrestri o marini, fra cui misure volte a contribuire alla protezione, al ripristino e a una migliore gestione dei suddetti ecosistemi, in particolare delle zone marine protette e habitat marini protetti, cosi' come ad accrescere l'afforestazione e la riforestazione rispettose della biodiversita', anche nei paesi in via di sviluppo che hanno ratificato l'accordo di Parigi collegato alla Convenzione quadro sui cambiamenti climatici, adottato a Parigi il 12 dicembre 2015, ratificato e reso esecutivo ai sensi della legge 4 novembre 2016, n. 204; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    trasferire tecnologie e favorire l'adattamento agli effetti avversi del cambiamento climatico negli Stati e territori parte dell'Accordo di Parigi di cui alla lettera d); 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    favorire il sequestro del carbonio nel suolo mediante silvicoltura nell'Unione; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    rafforzare la tutela degli ecosistemi terrestri e marini, a partire dalle aree e dai siti protetti nazionali, internazionali e dell'Unione europea, anche mediante l'impiego di idonei mezzi e strutture per il monitoraggio, il controllo e il contrasto dell'inquinamento; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    attuare la cattura e lo stoccaggio geologico sicuri sotto il profilo ambientale di CO2, in particolare quella emessa dalle centrali a combustibili fossili solidi e da una serie di settori e sottosettori industriali, anche nei paesi terzi, e metodi tecnologici innovativi di rimozione del carbonio, come la cattura direttamente dall'atmosfera e il suo stoccaggio; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    incentivare il passaggio a modalita' di trasporto pubblico a basse emissioni, nonche' a forme e modalita' di trasporto, che contribuiscano in modo significativo alla decarbonizzazione del settore, compresi lo sviluppo del trasporto ferroviario di passeggeri e merci e i servizi e le tecnologie per autobus ambientalmente sostenibili; 
+
+                                
+                            
+                            
+                                i-bis)
+                                
+                                    incentivare il riequilibrio modale dal trasporto stradale di merci a quello marittimo e ferroviario, ivi comprese le misure previste dall'articolo 1, commi 647 e 648, della legge 28 dicembre 2015, n. 208, e nel rispetto della disciplina europea in materia di aiuti di Stato; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    finanziare la ricerca e lo sviluppo dell'efficienza energetica e delle tecnologie pulite nei settori disciplinati dal presente decreto; 
+
+                                
+                            
+                            
+                                m)
+                                
+                                    favorire misure intese ad aumentare l'efficienza energetica e efficienza idrica, i sistemi di teleriscaldamento, la cogenerazione ad alto rendimento e l'isolamento delle abitazioni o a fornire un sostegno finanziario per affrontare le problematiche sociali dei nuclei a reddito medio-basso, «anche alimentando il fondo nazionale efficienza energetica di cui all'articolo 15 del decreto legislativo 4 luglio 2014, n. 102»; 
+
+                                
+                            
+                            
+                                n)
+                                
+                                    coprire le spese di cui all'articolo 4, commi 6, 7 e 12, all'articolo 4-bis, commi 6, 7 e 10, all'articolo 24, comma 3-bis e all'articolo 43, comma 2-quinquies nonche' e le spese amministrative connesse alla gestione del sistema diverse dai costi di cui all'articolo 46, comma 5, nonche' le spese, nel limite massimo annuo di 3 milioni di euro, per il supporto tecnico-operativo assicurato da societa' a prevalente partecipazione pubblica ai fini dell'efficace attuazione delle attivita' di cui al presente comma; 
+
+                                
+                            
+                            
+                                o)
+                                
+                                    compensare i costi come definiti dal paragrafo 26 delle linee guida di cui alla comunicazione della Commissione europea C 2012 3230 final con priorita' di assegnazione alle imprese accreditate della certificazione ISO 50001; 
+
+                                
+                            
+                            
+                                p)
+                                
+                                    finanziare attivita' a favore del clima in paesi terzi vulnerabili, tra cui l'adattamento agli impatti dei cambiamenti climatici; 
+
+                                
+                            
+                            
+                                q)
+                                
+                                    promuovere la creazione di competenze e il ricollocamento dei lavoratori al fine di contribuire a una transizione giusta verso un'economia climaticamente neutra, in particolare nelle regioni maggiormente interessate dalla transizione occupazionale, in stretto coordinamento con le parti sociali, e investire nel miglioramento del livello delle competenze e nella riqualificazione professionale dei lavoratori potenzialmente interessati dalla transizione, compresi i lavoratori del trasporto marittimo; 
+
+                                
+                            
+                            
+                                r)
+                                
+                                    sostenere le azioni e le infrastrutture funzionali all'abbandono del carbone nella generazione termoelettrica. 
+
+                                
+                            
+                            
+                                r-bis)
+                                
+                                    affrontare eventuali rischi residui di rilocalizzazione delle emissioni di carbonio nei settori coperti dall'allegato I del regolamento (UE) 2023/956 del Parlamento europeo e del Consiglio, del 10 maggio 2023, sostenendo la transizione e promuovendone la decarbonizzazione in conformita' delle norme in materia di aiuti di Stato; 
+
+                                
+                            
+                            
+                                r-ter)
+                                
+                                    investire in misure volte a decarbonizzare il settore marittimo, compreso il miglioramento dell'efficienza energetica delle navi, anche mediante riqualificazione energetica di quelle esistenti, dei porti, tecnologie e infrastrutture innovative e combustibili alternativi sostenibili, come l'idrogeno, il metanolo e l'ammoniaca prodotti a partire da fonti rinnovabili; l'applicazione sui mezzi navali di tecnologie innovative, tecnologie di propulsione a zero emissioni e di generazione delle navi; misure a sostegno della decarbonizzazione degli aeroporti conformemente alle norme unionali sulla realizzazione di un'infrastruttura per i combustibili alternativi e che assicurino la parita' di condizioni per un trasporto aereo sostenibile. ((17))
+
 La quota annua dei proventi derivanti dalle aste, eccedente il valore di 1.000 milioni di euro, e' destinata, nell'ambito delle attribuzioni di cui al secondo periodo del comma 4, nella misura massima complessiva di 600 milioni di euro annui, nel rispetto della normativa europea in materia di aiuti di Stato e della normativa relativa al sistema per lo scambio di quote di emissioni dei gas a effetto serra di cui alla direttiva 2003/87/CE del Parlamento europeo e del Consiglio, del 13 ottobre 2003, al Fondo per la transizione energetica nel settore industriale, con l'assegnazione di una quota fino a 10 milioni di euro al finanziamento di interventi di decarbonizzazione e di efficientamento energetico del settore industriale e della restante quota alle finalita' di cui al comma 2 dell'articolo 29, nonche', nella misura massima di 150 milioni di euro annui, al Fondo per il sostegno alla transizione industriale di cui all'articolo 1, commi 478 e 479, della legge 30 dicembre 2021, n. 234.
 
 COMMA ABROGATO DAL D.LGS. 10 SETTEMBRE 2024, N. 147.
@@ -451,6 +1551,91 @@ Fino al 2030, il 50 per cento dei proventi di cui all'articolo 3 octies bis, par
 
 Il Comitato determina il quantitativo annuo di quote da assegnare a titolo gratuito ai gestori eleggibili conformemente alle norme unionali, con particolare riferimento alle regole per l'assegnazione gratuita delle quote, l'aggiornamento dei parametri di riferimento e l'identificazione dei settori caratterizzati da elevato rischio di rilocalizzazione.
 
+2.
+                        
+                            
+                                Il Comitato: 
+ 
+                            
+                            
+                                a)
+                                
+                                    non assegna quote a titolo gratuito per la produzione di elettricita', fatta eccezione per l'elettricita' prodotta a partire dai gas di scarico; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    non assegna quote a titolo gratuito agli impianti deputati alla cattura di CO2, alle condutture per il trasporto di CO2 o ai siti di stoccaggio di CO2; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    assegna quote a titolo gratuito al teleriscaldamento e alla cogenerazione ad alto rendimento definita dalla direttiva 2012/27/UE, in caso di domanda economicamente giustificabile, rispetto alla generazione di energia termica e frigorifera. Per ogni anno successivo al 2013 le quote totali assegnate a tali impianti per la produzione di calore sono adeguate, applicando il fattore lineare di riduzione, tranne che per gli anni in cui dette assegnazioni sono adeguate in modo uniforme in conformita' con le norme unionali sull'assegnazione; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    non assegna quote a titolo gratuito agli impianti ((che abbiano cessato l'attivita' e in caso di revoca dell'autorizzazione ad emettere gas ad effetto serra ai sensi dell'articolo 19)); 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    non assegna quote a titolo gratuito agli impianti per i quali la Commissione respinge l'iscrizione nell'elenco di cui all'articolo 25; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    non assegna quote a titolo gratuito agli impianti che hanno adottato il regime di cui agli articoli 31 e 32. 
+
+                                
+                            
+                            
+                                f-bis)
+                                
+                                    non assegna quote a titolo gratuito per la produzione delle merci elencate nell'allegato I del regolamento (UE) 2023/956 del Parlamento europeo e del Consiglio, del 10 maggio 2023;
+
+3.
+                        
+                            
+                                Il Comitato, con le modalita' e le forme previste dalle relative norme unionali, determina e propone alla Commissione l'assegnazione di quote gratuite: 
+ 
+                            
+                            
+                                a)
+                                
+                                    agli impianti esistenti; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    agli impianti nuovi entranti; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    in caso di modifiche del funzionamento di un impianto; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    in caso di fusione e scissione di impianti.
+
 ((
 
 Nel caso di impianti soggetti all'obbligo di effettuare un audit energetico o di attuare un sistema di gestione dell'energia certificato a norma dell'articolo 8 della direttiva (UE) 2012/27 del Parlamento europeo e del Consiglio, del 25 ottobre 2012, il Comitato, con le modalita' e le forme previste dai regolamenti unionali, riduce del 20 per cento il quantitativo di quote da assegnare a titolo gratuito se le raccomandazioni della relazione di audit o del sistema di gestione dell'energia certificato non sono state attuate. Il quantitativo di quote assegnate a titolo gratuito non e' tuttavia ridotto se il gestore dimostra che il tempo di ammortamento degli investimenti previsti dalle raccomandazioni di cui al periodo precedente supera i tre anni o se i loro costi sono sproporzionati.
@@ -460,11 +1645,54 @@ Nel caso di impianti i cui livelli di emissione di gas a effetto serra sono supe
 
 La riduzione del quantitativo di quote da assegnare a titolo gratuito si applica in ogni caso nella misura del 20 per cento anche se l'impianto non rispetta le prescrizioni di entrambi i commi 3-bis e 3-ter.
 
+3-quinquies.
+                        
+                            
+                                Il piano di neutralita' climatica di cui al comma 3-ter deve essere coerente con l'obiettivo di neutralita' climatica di cui all'articolo 2, paragrafo 1, del regolamento (UE) 2021/1119 del Parlamento europeo e del Consiglio, del 30 giugno 2021, e' redatto in conformita' agli atti di esecuzione di cui all'articolo 10-ter, paragrafo 4, della direttiva 2003/87/CE e contiene gli elementi specificati di seguito: 
+ 
+                            
+                            
+                                a)
+                                
+                                    misure e investimenti per raggiungere la neutralita' climatica entro il 2050 a livello di impianto, escludendo l'uso di crediti di compensazione; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    traguardi e tappe intermedi per misurare, entro il 31 dicembre 2025 e, successivamente, ogni cinque anni entro il 31 dicembre, i progressi compiuti verso il raggiungimento della neutralita' climatica ai sensi della lettera a) del presente comma; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    una stima dell'impatto di ciascuna delle misure e degli investimenti di cui alla lettera a) del presente comma per quanto riguarda la riduzione delle emissioni di gas a effetto serra.
+
 Il conseguimento dei traguardi e delle tappe intermedi di cui al comma 3-quinquies, lettera b), e' verificato per il periodo fino al 31 dicembre 2025 e per il periodo fino al 31 dicembre di ogni quinto anno successivo, conformemente ai regolamenti unionali in materia di verifica e accreditamento.
 
 Nel caso di impianti i cui livelli di emissione di gas a effetto serra sono inferiori alla media del 10 per cento degli impianti piu' efficienti di un settore o sottosettore per i pertinenti parametri di riferimento, in un anno in cui si applica il fattore di correzione transettoriale detti impianti sono esentati dall'adeguamento di cui all'articolo 10-bis, paragrafo 5, della direttiva 2003/87/CE del Parlamento europeo e del Consiglio, del 13 ottobre 2003, conformemente ai regolamenti unionali in materia di assegnazione di quote a titolo gratuito.
 
 ))
+
+4.
+                        
+                            
+                                Il Comitato, con le modalita' e le forme previste dalle relative norme unionali, determina e propone alla Commissione europea l'adeguamento dell'assegnazione di quote gratuite: 
+ 
+                            
+                            
+                                a)
+                                
+                                    agli impianti o sottoimpianti il cui gestore abbia presentato rinuncia all'assegnazione che riguarda gli anni successivi all'anno della domanda; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    agli impianti che abbiano cessato le proprie attivita'.
 
 Il Comitato modifica la quantita' di quote di emissione assegnate a titolo gratuito agli impianti il cui livello di attivita', valutato sulla base della media mobile dei due anni precedenti, e' aumentato o diminuito di oltre il 15% rispetto al valore del livello di attivita' storico utilizzato per determinare l'assegnazione gratuita per i quinquenni di riferimento. A tal fine il Comitato utilizza la comunicazione sui livelli di attivita' che i gestori inviano ai sensi dei relativi regolamenti unionali entro il 31 marzo di ciascun anno, salvo diversa disposizione del Comitato. Le modalita' di modifica della quantita' di quote di emissione assegnate a titolo gratuito agli impianti sono stabilite nelle relative norme unionali.
 
@@ -496,6 +1724,31 @@ Fatto salvo il caso in cui la Commissione europea respinge il quantitativo di cu
 
 Cessazione di attivita' di un impianto interruzione e ripresa
 
+1.
+                        
+                            
+                                Il gestore di un impianto comunica al Comitato la cessazione delle attivita' entro trenta giorni dall'avvenuta cessazione e, comunque, non oltre il 31 dicembre dell'anno in cui e' avvenuta la cessazione di attivita' stessa, nei seguenti casi: 
+ 
+                            
+                            
+                                a)
+                                
+                                    nei casi previsti dall'articolo 26, comma 1, lettera b) del regolamento 331/2019; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    nel caso in cui l'impianto non esercita piu' le attivita' previste dall'allegato 1 o non rispetta le soglie di attivita' in esso previste; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    nel caso in cui l'impianto interrompe le attivita' di cui all'allegato I per un periodo superiore a 6 mesi.
+
 ((
 
 In deroga alla lettera b) del comma 1, laddove un impianto incluso nel campo di applicazione per la conduzione di unita' di combustione con potenza termica nominale superiore a 20 MW, a seguito di modifiche dei processi produttivi volte a ridurre le emissioni di gas a effetto serra, non raggiunga piu' la predetta soglia, il gestore puo' scegliere che l'impianto rimanga incluso nel campo di applicazione del presente decreto fino alla fine del periodo quinquennale in corso di cui all'articolo 25, comma 1, ovvero anche nel periodo quinquennale successivo. A tal fine, il gestore richiede al Comitato, con le modalita' e le forme da questo stabilite, entro 30 giorni dalle intervenute condizioni di cui alla lettera b) del comma 1 e comunque entro il 31 dicembre dell'anno in cui si sono verificate dette condizioni, di far permanere l'impianto nel sistema ETS, indicando altresi' l'estensione temporale al quinquennio in corso ovvero anche a quello successivo.
@@ -503,6 +1756,31 @@ In deroga alla lettera b) del comma 1, laddove un impianto incluso nel campo di 
 Il Comitato valuta la richiesta di cui al comma 1-bis e informa la Commissione europea nell'ambito della trasmissione dell'elenco di cui all'articolo 25, comma 1, per il successivo periodo quinquennale.
 
 ))
+
+2.
+                        
+                            
+                                Il comma 1, lettera c), non si applica agli impianti di riserva o di emergenza e agli impianti che funzionano in base ad un calendario stagionale, quando le condizioni elencate di seguito sono soddisfatte: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il gestore e' titolare di un'autorizzazione ad emettere gas a effetto serra e di tutte le altre autorizzazioni necessarie; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    e' tecnicamente possibile riprendere le attivita' senza apportare modifiche fisiche all'impianto; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    l'impianto e' oggetto di una manutenzione periodica.
 
 Il Comitato puo' estendere il periodo di cui al comma 1, lettera c), di sei mesi e fino ad un massimo di 24 mesi, su richiesta del gestore e purche' lo stesso sia in grado di dimostrare che non puo' riprendere l'attivita' entro i sei mesi a causa di circostanze eccezionali e imprevedibili. A tal fine il gestore trasmette la documentazione a supporto della domanda di estensione citata.
 
@@ -517,6 +1795,45 @@ Il gestore dell'impianto che funziona secondo un calendario stagionale ai sensi 
 ## Art. 27. — Rilascio delle quote assegnate a titolo gratuito e resa delle quote rilasciate in eccesso
 
 Entro il 30 giugno di ogni anno, il Comitato rilascia, per l'anno in corso, le quote assegnate a norma dei relativi regolamenti unionali agli impianti aventi diritto.
+
+2.
+                        
+                            
+                                In deroga al comma 1, il Comitato sospende il rilascio delle quote di emissione agli impianti che: 
+ 
+                            
+                            
+                                a)
+                                
+                                    hanno comunicato l'interruzione delle attivita'; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    sono in stato di cessazione e la cui autorizzazione non e' stata ancora revocata; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    non hanno comunicato il livello annuale di attivita'; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    hanno aperta una delle procedure concorsuali attualmente regolate dall'ordinamento giuridico nazionale. 
+
+                                
+                            
+                            
+                                d-bis)
+                                
+                                    non hanno completato le procedure di resa delle quote rilasciate ((in eccesso di cui ai commi 3-bis e 3-ter.))
 
 In caso di superamento dei motivi di sospensione di cui al precedente comma 2, il Comitato rilascia le quote di emissione gratuita spettanti, ricalcolate, laddove pertinente, secondo quanto previsto dalla norma unionale.
 
@@ -551,6 +1868,38 @@ Le funzioni relative al Fondo per l'Innovazione sono svolte dal Ministero dell'A
 
 ## Art. 31. — Esclusione di impianti di dimensioni ridotte subordinata all'adozione di misure equivalenti
 
+1.
+                        
+                            
+                                A richiesta del gestore interessato il Comitato puo' escludere dall'EU ETS gli impianti che hanno comunicato allo stesso Comitato emissioni inferiori a 25.000 tonnellate di CO2 equivalente e che, nei casi in cui effettuano attivita' di combustione, hanno una potenza termica nominale inferiore a 35 MW, escluse le emissioni da biomassa, in ciascuno dei tre anni precedenti la notifica di cui alla lettera a), e ai quali si applicano misure finalizzate ad ottenere un contributo equivalente alle riduzioni delle emissioni ovvero una proposta di misure nazionali equivalenti a condizione che il Comitato stesso: 
+ 
+                            
+                            
+                                a)
+                                
+                                    notifichi alla Commissione tutti gli impianti in questione specificando per ciascuno di essi le misure equivalenti finalizzate ad ottenere un contributo equivalente alle riduzioni delle emissioni che sono state poste in atto prima del termine della presentazione dell'elenco di cui all'articolo 25, e, al piu' tardi, all'atto della presentazione dell'elenco stesso alla Commissione; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    confermi l'applicazione di modalita' di monitoraggio finalizzate a valutare se gli impianti interessati emettono 25.000 o piu' tonnellate di CO2 equivalente, escluse le emissioni da biomassa, in ogni anno civile. ((PERIODO SOPPRESSO DAL D.LGS. 10 SETTEMBRE 2024, N. 147)); 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    confermi che, qualora un impianto emetta 25.000 o piu' tonnellate di CO2 equivalente, escluse le emissioni da biomassa, in un determinato anno civile o qualora all'impianto non siano piu' applicate le misure finalizzate ad ottenere un contributo equivalente alle riduzioni delle emissioni, l'impianto rientra nuovamente nell'EU ETS; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    pubblichi le informazioni di cui alle lettere a), b) e c) per consentire al pubblico di presentare osservazioni.
+
 L'esclusione dall'EU ETS di cui al comma 1 e' valida per il relativo periodo di cinque anni di cui all'articolo 25.
 
 ((
@@ -574,6 +1923,38 @@ Agli impianti di cui al comma 1 che rispettano le misure equivalenti di cui al c
 ))
 
 ## Art. 32. — Esclusione facoltativa degli impianti con un livello di emissioni inferiore a 2500 tonnellate di CO2 equivalente o con funzionamento inferiore a 300 ore/anno
+
+1.
+                        
+                            
+                                A richiesta del gestore interessato il Comitato puo' escludere dall'EU-ETS ed iscriverli in una apposita sezione speciale del Portale ETS, gli impianti che hanno comunicato emissioni per un valore inferiore a 2.500 tonnellate di CO2 equivalente, escluse le emissioni da biomassa, in ciascuno dei tre anni precedenti la notifica di cui alla lettera a), a condizione che il Comitato medesimo: 
+ 
+                            
+                            
+                                a)
+                                
+                                    notifichi alla Commissione europea tutti gli impianti rientranti nei limiti di cui alla linea prima del termine di presentazione dell'elenco degli impianti alla Commissione europea, previsto all'articolo 25 o, al piu' tardi, all'atto della presentazione dell'elenco alla Commissione; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    confermi l'applicazione di modalita' di monitoraggio semplificate finalizzate a valutare se gli impianti interessati emettono 2.500 o piu' tonnellate di CO2 equivalente, escluse le emissioni da biomassa, in ogni anno civile; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    confermi che, qualora un impianto emetta 2.500 o piu' tonnellate di CO2 equivalente, escluse le emissioni da biomassa, in un determinato anno civile, rientra negli impianti di cui all'articolo 31, se dispone delle caratteristiche richieste nel medesimo articolo, ovvero nel sistema EU-ETS; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    metta le informazioni di cui alle lettere a), b) e c) a disposizione del pubblico.
 
 Allorche' l'impianto rientra nell'EU-ETS, a norma del comma 1, lettera c), del presente articolo, le quote ad esso assegnate sono concesse a decorrere dall'anno del rientro. Le quote assegnate a tale impianto sono detratte dal quantitativo messo all'asta ((dall'Italia)).
 
@@ -665,6 +2046,24 @@ Il gestore o l'operatore aereo amministrato dall'Italia ((o la societa' di navig
 
 ## Art. 36. — Trasferimento, restituzione e cancellazione di quote di emissioni
 
+1.
+                        
+                            
+                                Le quote di emissioni possono essere trasferite: 
+ 
+                            
+                            
+                                a)
+                                
+                                    tra persone all'interno della Unione europea; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    tra persone all'interno della Unione europea e persone nei Paesi terzi, quando tali quote di emissioni sono riconosciute conformemente alla procedura dell'articolo 25 della direttiva 2003/87/CE, nell'osservanza delle sole restrizioni previste dal presente decreto o adottate ai sensi della direttiva 2003/87/CE.
+
 Le quote di emissioni rilasciate ((dall'Autorita' nazionale competente)) di un altro Stato membro sono riconosciute ai fini dell'adempimento degli obblighi ((da parte di un gestore, un operatore aereo o una societa' di navigazione, previsti dal comma 3.)).
 
 A decorrere dal 1° gennaio ((2024)), entro il 30 ((settembre)) di ogni anno, il gestore o l'operatore aereo restituisce un numero di quote di emissioni pari alle emissioni totali prodotte da tale impianto ovvero dalle attivita' di trasporto aereo elencate all'allegato I nel corso dell'anno civile precedente verificate conformemente alle disposizioni previste dalle norme unionali e fatto salvo il riesame previsto dall'articolo 28-ter della direttiva 2003/87/CE. Il Comitato garantisce che tali quote siano successivamente cancellate.
@@ -674,6 +2073,24 @@ A decorrere dal 1° gennaio ((2024)), entro il 30 ((settembre)) di ogni anno, il
 Fatto salvo quanto previsto ai commi da 3-ter a 3-quinquies, a decorrere dal 1° gennaio 2025 e secondo il calendario previsto dall'articolo 12-ter, entro il 30 settembre di ogni anno, ciascuna societa' di navigazione restituisce un numero di quote pari alle emissioni totali rilasciate nel corso dell'anno civile precedente, verificate conformemente alle disposizioni previste dalle pertinenti norme unionali.
 
 In deroga al comma 3-bis, le societa' di navigazione possono restituire il 5 per cento in meno di quote rispetto alle loro emissioni verificate rilasciate fino al 31 dicembre 2030 da navi di classe ghiaccio, a condizione che tali navi presentino la classe IA o IA Super o una classe ghiaccio equivalente, stabilite sulla base della raccomandazione HELCOM 25/7. La presente deroga non si applica alle navi di bandiera italiana che presentino la classe IA o IA Super o una classe ghiaccio equivalente, stabilite sulla base della raccomandazione HELCOM 25/7 non certificate secondo il Capitolo XIV della Convenzione SOLAS '74, come emendata, e del relativo Codice Polare.
+
+3-quater.
+                        
+                            
+                                In deroga al comma 3-bis e all'articolo 42, comma 14 e comma 14-bis, gli obblighi precisati in tali disposizioni si considerano ottemperati e non si adotta nessun provvedimento nei confronti delle societa' di navigazione per quanto riguarda: 
+ 
+                            
+                            
+                                a)
+                                
+                                    le emissioni rilasciate fino al 31 dicembre 2030 generate dalle tratte effettuate da navi passeggeri diverse dalle navi da crociera e da navi ro-pax tra un porto di un'isola sotto la giurisdizione dello Stato membro richiedente, sprovvisto di un collegamento stradale o ferroviario con la terraferma e con una popolazione inferiore a 200 000 residenti permanenti, secondo i migliori dati piu' recenti disponibili nel 2022, e un porto sotto la giurisdizione dello stesso Stato membro, nonche' dalle attivita' portuali di tali navi in relazione alle suddette tratte. La Commissione pubblica un elenco delle isole e dei porti interessati e lo tiene aggiornato; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le emissioni rilasciate fino al 31 dicembre 2030 da navi passeggeri o da navi ro-pax nell'ambito di un contratto di servizio pubblico transnazionale o di un obbligo di servizio pubblico transnazionale, generate dalle tratte effettuate individuate ai sensi dell'articolo 12, paragrafo 3-quater, della direttiva 2003/87/CE, del Parlamento europeo e del Consiglio, del 13 ottobre 2003, indicate nella richiesta congiunta di due Stati membri, uno dei quali non ha frontiere terrestri con un altro Stato membro e l'altro e' quello geograficamente piu' vicino allo Stato membro senza frontiere terrestri, che collegano i due Stati membri, nonche' dalle attivita' portuali di tali navi in relazione alle suddette tratte.
 
 Non sussiste l'obbligo di restituzione delle quote per le emissioni rilasciate fino al 31 dicembre 2030 generate dalle tratte tra un porto situato in una regione ultraperiferica di uno Stato membro e un porto situato nello stesso Stato membro, comprese le tratte tra i porti all'interno di una regione ultraperiferica e le tratte tra i porti in regioni ultraperiferiche dello stesso Stato membro, nonche' dalle attivita' portuali di tali navi in relazione alle suddette tratte.
 
@@ -742,13 +2159,85 @@ Il registro dei verificatori accreditati, istituito dal decreto legislativo 4 ap
 
 ## Art. 42. — Sanzioni
 
+1.
+                        
+                            
+                                Il gestore che esercita una delle attivita' di cui all'allegato I, ad eccezione delle attivita' di trasporto aereo, senza l'autorizzazione di cui all'articolo 15, e' soggetto ad una sanzione amministrativa pecuniaria del seguente importo: 
+ 
+                            
+                            
+                                a)
+                                
+                                    da 10.000 euro a 100.000 euro, aumentata di 100 euro per ciascuna tonnellata di biossido di carbonio equivalente emessa in mancanza di autorizzazione; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    da 5.000 euro a 50.000 euro, aumentata di 100 euro per ciascuna tonnellata di biossido di carbonio equivalente emessa in mancanza di autorizzazione in caso di dichiarazione spontanea al Comitato da parte del trasgressore, recante espressa indicazione della data a decorrere dalla quale l'autorizzazione avrebbe dovuto essere richiesta.
+
 Ai fini dell'applicazione della sanzione di cui al comma 1, il Comitato effettua una stima conservativa delle emissioni rilasciate in atmosfera in mancanza di autorizzazione, tenendo conto di tutti gli elementi informativi di cui dispone e chiedendo eventuali integrazioni al trasgressore.
+
+3.
+                        
+                            
+                                Resta fermo che il gestore che abbia esercitato una delle attivita' di cui all'allegato I, ad eccezione delle attivita' di trasporto aereo, in mancanza dell'autorizzazione di cui all'articolo 15, e' tenuto a restituire un numero di quote di emissioni pari a: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la differenza tra le emissioni rilasciate in atmosfera in assenza di autorizzazione e la quantita' di quote che sarebbe stata rilasciata a titolo gratuito, nei casi di impianti beneficiari di assegnazione di quote a titolo gratuito. Il numero di quote che sarebbero state rilasciate all'impianto beneficiario di assegnazione gratuita e' quantificato dal Comitato che a tal fine acquisisce ogni necessario elemento informativo anche dal trasgressore. 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le emissioni rilasciate in atmosfera in assenza di autorizzazione, nei casi di impianti non beneficiari di assegnazione di quote a titolo gratuito.
 
 Nei casi di cui al comma 1, il trasgressore e' tenuto a presentare domanda di autorizzazione ai sensi dell'articolo 16 entro 60 giorni dall'accertamento della violazione ovvero dalla dichiarazione spontanea fatta dal trasgressore al Comitato.
 
 Nelle ipotesi di cui al comma 1, lettera b), il trasgressore che presenta tempestivamente la domanda di autorizzazione ai sensi del comma 4 e' soggetto alla sola sanzione amministrativa pecuniaria da 5.000 euro a 50.000 euro di cui al comma 1, lettera b) nel caso in cui entro 120 giorni dalla dichiarazione spontanea proceda alla restituzione delle quote calcolate ai sensi del comma 3.
 
+6.
+                        
+                            
+                                L'operatore aereo amministrato dall'Italia che non presenta il Piano di monitoraggio entro i termini ((e nelle modalita' di cui all'articolo 10 o presenta un piano di monitoraggio incompleto, ovvero la societa' di navigazione attribuita all'Italia che non presenta entro i termini e nelle modalita' di cui all'articolo 12-quater, il Piano di monitoraggio verificato per ciascuna sua nave soggetta al campo di applicazione della direttiva 2003/87/CE, ovvero presenta un piano di monitoraggio incompleto, sono soggetti)) alla sanzione amministrativa pecuniaria del seguente importo: 
+ 
+                            
+                            
+                                a)
+                                
+                                    da 10.000 euro a 100.000 euro, aumentata di 100 euro per ciascuna tonnellata di biossido di carbonio equivalente emessa e non monitorata; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    da 5.000 euro a 50.000 euro, aumentata di 100 euro per ciascuna tonnellata di biossido di carbonio equivalente emessa e non monitorata in caso di Piano di monitoraggio trasmesso tardivamente ma comunque non oltre il 31 dicembre dell'anno civile durante il quale e' scaduto il termine.
+
 Ai fini dell'applicazione della sanzione di cui al comma 6, il Comitato effettua una stima conservativa delle emissioni rilasciate in atmosfera in assenza di Piano di monitoraggio, tenendo conto di tutti gli elementi informativi di cui dispone e chiedendo eventuali integrazioni al trasgressore.
+
+8.
+                        
+                            
+                                Resta fermo che l'operatore aereo amministrato dall'Italia che non presenta il Piano di monitoraggio entro i termini di cui all'articolo 10 e' tenuto a restituire un numero di quote di emissioni pari a: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la differenza tra le emissioni rilasciate in atmosfera e non monitorate e la quantita' di quote che sarebbe stata rilasciata a titolo gratuito, per gli operatori aerei che avrebbero beneficiato di assegnazione di quote a titolo gratuito. Il numero di quote che sarebbero state rilasciate all'operatore aereo e' quantificato dal Comitato che a tal fine acquisisce ogni necessario elemento informativo anche dal trasgressore. 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le emissioni rilasciate in atmosfera e non monitorate, nel caso di operatori aerei che non avrebbero beneficiato di assegnazione di quote a titolo gratuito.
 
 ((
 
@@ -804,6 +2293,32 @@ Nel caso in cui la condotta di cui al ((comma 9-bis)) abbia determinato indebito
 
 Salvo che il fatto costituisca reato, il gestore dell'impianto di ridotte dimensioni che non compensa, ai sensi dell'articolo 31, ((comma 6-bis,)) le emissioni in eccesso rispetto a quelle determinate con la metodologia approvata dalla Commissione europea e' punito con la sanzione amministrativa pecuniaria da 1.000 euro a 5.000 euro, aumentata di 20 euro per ciascuna tonnellata di biossido di carbonio emessa in eccesso per ciascun anno.All'accertamento della violazione consegue, in ogni caso, l'obbligo di ((compensare le emissioni in eccesso ai sensi dell'articolo 31, comma 6-bis.)).
 
+22.
+                        
+                            
+                                Il gestore dell'impianto di ridotte dimensioni e' punito con la sanzione pecuniaria da 1.000 euro a 5.000 euro, se non provvede a: 
+ 
+                            
+                            
+                                a)
+                                
+                                    inviare il piano di monitoraggio entro 30 giorni dalla formale richiesta del Comitato; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    comunicare al Comitato il piano di monitoraggio aggiornato, entro 30 giorni dal verificarsi di modifiche dell'identita' del gestore, ampliamenti o riduzioni ((della capacita' produttiva o dei livelli di attivita' dei sotto impianti come previsto dalla metodologia per la determinazione delle emissioni consentite applicata)), modifiche alla natura e al funzionamento dell'impianto nonche' modifiche significative al sistema di monitoraggio; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    inviare la comunicazione delle emissioni di gas a effetto serra entro il 30 aprile di ciascun anno. 
+((Qualora i ritardi siano di lieve entita' e comunque non superiori a 15 giorni, al gestore di cui al primo periodo si applica una sanzione pecuniaria pari a 1.000 euro.))
+
 ((
 
 Il gestore che, entro il termine di cui all'articolo 27, comma 3-ter, prima parte, non rende le quote ricevute in eccesso ai sensi dell'articolo 27, comma 3-bis, e' soggetto alla sanzione amministrativa pecuniaria da 10.000 euro a 50.000 euro. Al gestore che, ricevuta la diffida di cui all'articolo 27, comma 3-ter, seconda parte, non effettua la resa delle quote ricevute in eccesso nel termine assegnato, si applica l'ulteriore sanzione, per ciascuna quota, pari al valore medio della quota di biossido di carbonio nel quadrimestre da gennaio ad aprile dell'anno in corso fino ad un massimo di 100 euro. All'accertamento della violazione consegue, in ogni caso, l'obbligo per il gestore di rendere le quote ricevute in eccesso, indipendentemente dal valore che le quote avevano al momento in cui e' sorto l'obbligo di resa.
@@ -824,9 +2339,63 @@ I proventi derivanti dalle sanzioni amministrative di cui ai commi 6, 14 e 19, o
 
 ((
 
+1.
+                        
+                            
+                                Nel caso in cui una nave sotto la responsabilita' di una societa' di navigazione attribuita all'Italia che non ha rispettato gli obblighi di restituzione di cui all'articolo 36, comma 3-bis per due o piu' periodi di riferimento consecutivi, nemmeno a seguito delle misure coercitive adottate ai sensi dell'articolo 42, si trova o arriva in un porto situato in Italia, l'autorita' marittima territorialmente competente: 
+ 
+                            
+                            
+                                a)
+                                
+                                    se la nave batte bandiera italiana, nega il rilascio delle spedizioni alla nave a norma dell'articolo 181 del Codice della navigazione e lo comunica al Comitato, alla Commissione europea, all'Agenzia europea per la sicurezza marittima (EMSA) e agli altri Stati membri. Tale diniego ha effetto fino a quando la societa' di navigazione non avra' adempiuto ai suoi obblighi di restituzione; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    se la nave non batte bandiera italiana, adotta un provvedimento di espulsione e lo comunica al Comitato, alla Commissione europea, all'EMSA, agli altri Stati membri e allo Stato di bandiera interessato.
+
+2.
+                        
+                            
+                                Nel caso in cui una nave sotto la responsabilita' di una societa' di navigazione attribuita ad un altro Stato membro che non ha rispettato gli obblighi di restituzione di cui all'articolo 12 della direttiva 2003/87/CE, del Parlamento europeo e del Consiglio, del 13 ottobre 2003, per due o piu' periodi di riferimento consecutivi, nemmeno a seguito delle misure coercitive adottate da tale Stato membro ai sensi dell'articolo 16, paragrafi 1 e 3 della stessa direttiva, si trova o arriva in un porto situato in Italia, l'autorita' marittima territorialmente competente: 
+ 
+                            
+                            
+                                a)
+                                
+                                    se la nave batte bandiera italiana, nega le spedizioni alla nave a norma dell'articolo 181 del Codice della navigazione, e ne da' comunicazione al Comitato, alla Commissione europea, all'EMSA e agli altri Stati membri. Tale diniego ha effetto fino a quando la societa' di navigazione non avra' adempiuto ai suoi obblighi di restituzione; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    se la nave non batte bandiera italiana, adotta un provvedimento di espulsione e lo comunica al Comitato, alla Commissione europea, all'EMSA, agli altri Stati membri e allo Stato di bandiera interessato.
+
 Ai fini dell'applicazione dei commi 1 e 2, l'autorita' marittima territorialmente competente utilizza le informazioni messe a disposizione dal Comitato o direttamente dalla Commissione europea, anche attraverso il portale Thetis EU.
 
 L'autorita' marittima territorialmente competente, prima di dare applicazione ai commi 1 e 2, consente alla societa' di navigazione interessata di presentare le proprie osservazioni in merito all'osservanza degli obblighi di cui ai suddetti commi.
+
+5.
+                        
+                            
+                                Nel caso in cui una nave sotto la responsabilita' di una societa' di navigazione, che e' responsabile di una o piu' navi destinatarie di un ordine di espulsione emesso ai sensi dell'articolo 16, paragrafo 11-bis della direttiva 2003/87/CE, del Parlamento europeo e del Consiglio, del 13 ottobre 2003, da parte dell'autorita' competente di un altro Stato membro, o di un diniego delle spedizioni o di un provvedimento di espulsione emessi ai sensi dei commi 1 e 2, si trova o arriva in un porto situato in Italia: 
+ 
+                            
+                            
+                                a)
+                                
+                                    se la nave batte bandiera italiana, l'autorita' marittima territorialmente competente nega il rilascio delle spedizioni a norma dell'articolo 181 del Codice della navigazione fino a quando la societa' di navigazione interessata non adempie ai suoi obblighi di restituzione a norma dell'articolo 36, comma 3-bis, o dell'articolo 12 della direttiva 2003/87/CE, del Parlamento europeo e del Consiglio, del 13 ottobre 2003; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    se la nave non batte bandiera italiana, l'autorita' marittima territorialmente competente adotta un provvedimento di rifiuto di accesso al porto fino a quando la suddetta societa' di navigazione non adempie ai suoi obblighi di restituzione a norma dell'articolo 36, comma 3-bis, o dell'articolo 12 della direttiva 2003/87/CE, del Parlamento europeo e del Consiglio, del 13 ottobre 2003.
 
 L'autorita' marittima territorialmente competente, prima di dare applicazione al comma 5, lettera a), consente alla societa' di navigazione interessata di dimostrare l'adempimento degli obblighi di cui alla medesima lettera.
 
@@ -861,6 +2430,45 @@ A decorrere dal 1° gennaio 2025, nessun soggetto regolamentato puo' svolgere l'
 
 ((
 
+1.
+                        
+                            
+                                La domanda di autorizzazione che il soggetto regolamentato presenta al Comitato ETS 2 contiene almeno una descrizione degli elementi seguenti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il soggetto regolamentato, specificando i dati di cui all'allegato III, Parte C, Sezione A; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il tipo di combustibili che immette in consumo e che sono utilizzati per la combustione nei settori di cui all'allegato I-bis, e le modalita' con le quali il soggetto li immette in consumo; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    l'uso finale o gli usi finali dei combustibili immessi in consumo per l'attivita' di cui all'allegato I-bis; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    il piano di monitoraggio di cui all'articolo 42-novies; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    una sintesi non tecnica delle informazioni di cui alle lettere da a) a d) del presente comma.
+
 I soggetti regolamentati che iniziano le attivita' di cui all'allegato I-bis a decorrere dal 1° gennaio 2025 hanno l'obbligo di presentare al Comitato ETS 2 la domanda di autorizzazione ad emettere gas serra di cui all'articolo 42-quater almeno centoventi giorni prima dell'inizio dell'attivita'.
 
 I soggetti che svolgono le attivita' di cui all'allegato I-bis prima del 1° gennaio 2025 e che rientrano nella definizione di soggetto regolamentato, hanno l'obbligo di presentare al Comitato ETS 2 la domanda di autorizzazione ad emettere gas serra di cui all'articolo 42-quater entro il 30 settembre 2024.
@@ -873,6 +2481,30 @@ I soggetti che svolgono le attivita' di cui all'allegato I-bis prima del 1° gen
 
 I soggetti regolamentati che sono in possesso dell'autorizzazione ad emettere gas serra a effetto serra hanno l'obbligo di presentare al Comitato ETS 2 domanda di modifica della medesima autorizzazione nei casi elencati al comma 2, almeno sessanta giorni prima della data nella quale la modifica ha effetto.
 
+2.
+                        
+                            
+                                I soggetti regolamentati di cui al comma 1 inviano al Comitato ETS 2 la domanda di modifica dell'autorizzazione gia' esistente nei seguenti casi: 
+ 
+                            
+                            
+                                a)
+                                
+                                    modifica dell'identita' del soggetto regolamentato comunicata contestualmente dal nuovo e dal precedente soggetto regolamentato. Il precedente soggetto regolamentato mantiene gli obblighi previsti dal sistema EU-ETS 2 fino alla data di pubblicazione della deliberazione del Comitato ETS 2; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    modifica degli elementi di cui alle lettere b) e
+                                
+                            
+                            
+                                c)
+                                
+                                    del comma 4 dell'articolo 42-septies e della lettera d) del medesimo comma solo nel caso di modifica significativa ai sensi delle pertinenti norme unionali.
+
 ))
 
 ## Art. 42-septies. — (( (Modalita' di rilascio e contenuto dell'autorizzazione ad emettere gas ad effetto serra).))
@@ -884,6 +2516,52 @@ Il Comitato ETS 2 rilascia l'autorizzazione ad emettere gas ad effetto serra di 
 Il rilascio dell'autorizzazione o del relativo aggiornamento e' effettuato entro il termine di novanta giorni dal ricevimento dell'istanza. Il suddetto termine e' sospeso nel caso di richiesta da parte del Comitato ETS 2 di ulteriori integrazioni e fino al ricevimento delle stesse, da presentarsi entro e non oltre il termine di trenta giorni.
 
 Al fine di consentire la prosecuzione dell'attivita' dei soggetti istanti, il Comitato ETS 2 si riserva di accogliere, in via preliminare, le istanze di autorizzazione di cui all'articolo 42-quinquies, comma 3, entro novanta giorni a decorrere dalla data del 30 settembre 2024, a fronte di un controllo formale sulla presenza degli elementi di cui al comma 1 del medesimo articolo. Nei successivi centoventi giorni il Comitato ETS 2, accertato che il soggetto regolamentato e' in grado di monitorare e comunicare le emissioni corrispondenti alle quantita' di combustibili immessi in consumo ai sensi dell'allegato I-bis, provvedera' a rilasciare, in seguito all'esito positivo dell'istruttoria, l'autorizzazione definitiva.
+
+4.
+                        
+                            
+                                L'autorizzazione ad emettere gas ad effetto serra contiene almeno i seguenti elementi: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il nome e l'indirizzo del soggetto regolamentato; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    una descrizione delle modalita' con le quali il soggetto regolamentato immette in consumo i combustibili nei settori contemplati dal presente capo; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    un elenco dei combustibili che il soggetto regolamentato immette in consumo nei settori contemplati dal presente capo; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    un piano di monitoraggio di cui all'articolo 42-novies; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    le prescrizioni in materia di comunicazione stabilite dalle pertinenti norme unionali ai sensi dell'articolo 14 della direttiva 2003/87/CE, del Parlamento europeo e del Consiglio, del 13 ottobre 2003; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    l'obbligo di restituire un numero di quote di emissioni, emesse a norma del presente capo, pari alle emissioni totali di ciascun anno civile, come verificato secondo le pertinenti norme unionali, entro il termine di cui all'articolo 42-duodecies, comma 3, fatto salvo quanto stabilito all'articolo 42-septiesdecies.
 
 ## Art. 42-octies. — (( (Revoca dell'autorizzazione).))
 
@@ -929,11 +2607,61 @@ Alla ripartizione delle risorse di cui al comma 4 si provvede, previa verifica d
 
 Un'apposita convenzione fra il Ministero dell'economia e delle finanze - Dipartimento del tesoro e il GSE definisce le attivita' che lo stesso GSE sostiene in qualita' di responsabile del collocamento, ivi compresa la gestione del conto di cui al presente articolo.
 
+7.
+                        
+                            
+                                Le risorse di cui al comma 5, assegnate al Ministero dell'ambiente e della sicurezza energetica e al Ministero delle infrastrutture e dei trasporti, sono destinate alle finalita' di cui all'articolo 23, comma 7, per misure aggiuntive rispetto agli oneri derivanti a carico della finanza pubblica dalla normativa vigente alla entrata in vigore del presente decreto, o ad una o piu' delle seguenti finalita': 
+ 
+                            
+                            
+                                a)
+                                
+                                    misure intese a contribuire alla decarbonizzazione del riscaldamento e del raffrescamento degli edifici o alla riduzione del fabbisogno energetico degli edifici, ivi comprese l'integrazione di energie rinnovabili e le misure correlate a norma dell'articolo 7, paragrafo 11, e degli articoli 12 e 20 della direttiva 2012/27/CE del Parlamento europeo e del Consiglio, del 25 ottobre 2012, nonche' misure volte a fornire sostegno finanziario alle famiglie a basso reddito negli edifici con le prestazioni peggiori; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    misure volte ad accelerare la diffusione di veicoli a zero e basse emissioni o a fornire un sostegno finanziario per la realizzazione di infrastrutture di rifornimento e ricarica anche veloce per veicoli leggeri e pesanti, nonche' pienamente interoperabili per i veicoli a zero emissioni, e la diffusione nella rete distributiva di carburanti alternativi di cui al regolamento (UE) 2023/1084 o a misure volte a incoraggiare il passaggio al trasporto pubblico, e a potenziare la multimodalita', o a fornire sostegno finanziario per far fronte alle questioni sociali relative agli utenti dei trasporti a basso e medio reddito; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    misure intese a finanziare il loro piano sociale per il clima conformemente all'articolo 15 del regolamento (UE) 2023/955 del Parlamento europeo e del Consiglio, del 10 maggio 2023; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    misure volte a concedere una compensazione finanziaria ai consumatori finali di combustibili nei casi in cui non sia stato possibile evitare il doppio conteggio delle emissioni o in cui siano state restituite quote di emissioni non contemplate dal presente capo, come previsto dall'articolo 42-noviesdecies.
+
 Al fine di consentire alla Commissione europea la predisposizione della relazione sul funzionamento del mercato del carbonio di cui al presente capo, il Comitato ETS 2 garantisce che ogni informazione pertinente sia trasmessa alla Commissione almeno due mesi prima che quest'ultima approvi la relazione. A tale fine, fermo restando gli obblighi di riservatezza, il Comitato ETS 2 pu richiedere le informazioni necessarie al GSE relativamente alla sua funzione di responsabile per il collocamento.
 
 ## Art. 42-duodecies. — (( (Trasferimento, restituzione e cancellazione di quote di emissioni).))
 
 ((
+
+1.
+                        
+                            
+                                Le quote di emissioni possono essere trasferite: 
+ 
+                            
+                            
+                                a)
+                                
+                                    tra persone all'interno della Unione europea; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    tra persone all'interno della Unione europea e persone nei Paesi terzi, quando tali quote di emissioni sono riconosciute conformemente alla procedura dell'articolo 25 della direttiva 2003/87/CE del Parlamento europeo e del Consiglio, del 13 ottobre 2003, nell'osservanza delle sole restrizioni previste dal presente decreto o adottate ai sensi della direttiva 2003/87/CE del Parlamento europeo e del Consiglio, del 13 ottobre 2003.
 
 A decorrere dal 1° gennaio 2028, fatto salvo quanto stabilito all'articolo 42-septiesdecies, entro il 31 maggio di ogni anno, il soggetto regolamentato restituisce un numero di quote di emissione disciplinate dal presente capo pari alle proprie emissioni, corrispondente alla quantita' di combustibili immessi in consumo ai sensi dell'allegato I-bis nel corso dell'anno civile precedente, verificate conformemente alle disposizioni previste dalle norme unionali. Il Comitato ETS 2 garantisce che tali quote siano successivamente cancellate.
 
@@ -985,6 +2713,38 @@ Ai fini del presente capo, si applica l'articolo 41, comma 5.
 
 ((
 
+1.
+                        
+                            
+                                Gli articoli 34, 40, 43 e 44 si applicano alle emissioni, ai soggetti regolamentati e alle quote disciplinate dal presente capo. A tal fine: 
+ 
+                            
+                            
+                                a)
+                                
+                                    ogni riferimento alle emissioni va inteso come riferimento alle emissioni disciplinate dal presente capo; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    ogni riferimento ai gestori va inteso come riferimento ai soggetti regolamentati disciplinati dal presente capo; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    ogni riferimento alle quote va inteso come riferimento alle quote disciplinate dal presente capo; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    ogni riferimento al Comitato va inteso come riferimento al Comitato ETS 2.
+
 ))
 
 ## Art. 42-sexdecies. — (( (Estensione unilaterale dell'attivita' di cui all'allegato I-bis ad altri settori non soggetti ai capi III e IV).))
@@ -1003,11 +2763,47 @@ Le quote supplementari rilasciate in virtu' di un'autorizzazione a norma del pre
 
 ((
 
+1.
+                        
+                            
+                                Qualora, in base all'avviso pubblicato dalla Commissione a norma dell'articolo 30-duodecies, paragrafo 1, della direttiva 2003/87/CE del Parlamento europeo e del Consiglio, del 13 ottobre 2003, siano soddisfatte una o entrambe le condizioni di cui alle lettere a) e b) del medesimo paragrafo, si applicano le seguenti disposizioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    in deroga all'articolo 42-undecies, comma 1, l'inizio della vendita all'asta delle quote di cui al presente capo e' da intendersi a decorrere dal 2028; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    in deroga all'articolo 42-duodecies, comma 2, il termine del 31 maggio di ogni anno per la restituzione delle quote e' da intendersi a decorrere dal 2029.
+
 ))
 
 ## Art. 42-octiesdecies. — (( (Sanzioni).))
 
 ((
+
+1.
+                        
+                            
+                                Il soggetto regolamentato di cui al presente capo che esercita una delle attivita' di cui all'allegato I-bis senza l'autorizzazione di cui all'articolo 42-quater, e' soggetto ad una sanzione amministrativa pecuniaria del seguente importo: 
+ 
+                            
+                            
+                                a)
+                                
+                                    da 10.000 euro a 100.000 euro, aumentata di 100 euro per ciascuna tonnellata di biossido di carbonio equivalente emessa in mancanza di autorizzazione; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    da 5.000 euro a 50.000 euro, aumentata di 100 euro per ciascuna tonnellata di biossido di carbonio equivalente emessa in mancanza di autorizzazione in caso di dichiarazione spontanea al Comitato ETS 2 da parte del trasgressore, recante espressa indicazione della data a decorrere dalla quale l'autorizzazione avrebbe dovuto essere richiesta.
 
 Ai fini dell'applicazione della sanzione di cui al comma 1, il Comitato ETS 2 effettua una stima conservativa delle emissioni rilasciate in atmosfera in mancanza di autorizzazione, tenendo conto di tutti gli elementi informativi di cui dispone e chiedendo eventuali integrazioni al trasgressore.
 
@@ -1056,6 +2852,24 @@ Gli ospedali che non rientrano nel capo IV possono ricevere una compensazione fi
 ## Art. 42-vicies. — (( (Sanzioni relative alla violazione degli obblighi di comunicazione di cui all'articolo 35 del regolamento (UE) 2023/956 del Parlamento europeo e del Consiglio, del 10 maggio 2023).))
 
 ((
+
+1.
+                        
+                            
+                                Il dichiarante, come definito dall'articolo 2, paragrafo 1, numero 1 del regolamento di esecuzione (UE) 2023/1773 della Commissione, del 17 agosto 2023, e' soggetto al pagamento di una sanzione amministrativa pecuniaria da euro 10 a euro 50 per ogni tonnellata di emissioni non comunicate calcolate sulla base dei valori predefiniti resi disponibili e pubblicati dalla Commissione per il periodo transitorio, quando: 
+ 
+                            
+                            
+                                a)
+                                
+                                    non ha adottato le misure necessarie per adempiere l'obbligo di presentare la relazione CBAM di cui all'articolo 35, paragrafi 1 e 2, del regolamento (UE) 2023/956 del Parlamento europeo e del Consiglio, del 10 maggio 2023, nei termini e nei modi disciplinati da entrambi i regolamenti citati; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    ha presentato una relazione CBAM incompleta o inesatta ai sensi dell'articolo 13 del regolamento di esecuzione (UE) 2023/1773 della Commissione, del 17 agosto 2023, e non ha adottato le misure necessarie per correggere la relazione CBAM.
 
 Le sanzioni previste al comma 1 sono adeguate in base all'indice europeo dei prezzi al consumo.
 

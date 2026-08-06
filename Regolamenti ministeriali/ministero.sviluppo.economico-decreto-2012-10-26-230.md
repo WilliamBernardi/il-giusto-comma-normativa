@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
 vigenza_date: 2026-07-31
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:42Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -25,6 +25,66 @@ DELLO SVILUPPO ECONOMICO
 Udito il parere del Consiglio di Stato, espresso dalla Sezione consultiva per gli atti normativi nell'adunanza del 24 maggio 2012;
 
 ## Art. 1. — Definizioni
+
+1.
+                    
+                        
+                            Ai fini del presente regolamento: 
+ 
+                        
+                        
+                            a)
+                            
+                                «legge» indica la legge 29 dicembre 1993, n. 580, come modificata dal decreto legislativo 15 febbraio 2010, n. 23; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                «elenco» indica l'elenco previsto dal comma 3 dell'articolo 20 della legge; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                «Ministro» e «Ministero» indicano rispettivamente il Ministro e il Ministero dello Sviluppo economico; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                «Direttore generale» e «Direzione generale» indicano rispettivamente il Direttore generale e la Direzione generale per il mercato, la concorrenza, il consumatore, la vigilanza e la normativa tecnica del Ministero dello sviluppo economico; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                «camera di commercio», indica la camera di commercio, industria, artigianato e agricoltura; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                «commissione» indica la commissione di cui all'articolo 20, comma 5, della legge; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                «divisione» indica l'ufficio dirigenziale di livello non generale della Direzione generale, competente alla tenuta dell'elenco; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                «Unioncamere» indica l'Unione italiana delle camere di commercio, industria, artigianato e agricoltura».
 
 ## Art. 2. — Istituzione dell'elenco
 
@@ -76,13 +136,99 @@ La domanda di cui al comma 1 e il curriculum di cui al comma 2 possono essere pr
 
 ## Art. 6. — Requisiti generali per l'iscrizione
 
+1.
+                    
+                        
+                            I requisiti generali per l'iscrizione nell'elenco sono: 
+ 
+                        
+                        
+                            a)
+                            
+                                per i soggetti di cui alla lettera a) del comma 4, dell'articolo 20 della legge, ivi compresi i dirigenti degli altri organismi costituenti il sistema camerale italiano ai sensi dell'art. 1, comma 2, della legge, essere in servizio con qualifica dirigenziale alla data della presentazione della domanda e, anche se il datore di lavoro non e' una pubblica amministrazione, essere comunque in possesso dei requisiti generali prescritti dalla legislazione vigente per l'accesso alla dirigenza presso la pubblica amministrazione; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                per i soggetti, di cui alla lettera b) del comma 4, dell'articolo 20 della legge, oltre ai requisiti ivi previsti, essere in possesso dei requisiti generali prescritti dalla legislazione vigente per l'accesso alla dirigenza presso la pubblica amministrazione.
+
 I titoli di studio idonei per soddisfare i requisiti di cui alla lettera b) del comma 4, dell'articolo 20 della legge, sono individuati nell'allegato C al presente decreto.
 
 ## Art. 7. — Requisiti professionali
 
+1.
+                    
+                        
+                            I richiedenti l'iscrizione nell'elenco devono essere in possesso dei seguenti requisiti professionali: 
+ 
+                        
+                        
+                            a)
+                            
+                                per i soggetti di cui alla lettera a) del comma 4, dell'articolo 20 della legge, attitudine all'esercizio delle funzioni di vertice dell'amministrazione delle camere di commercio acquisita con l'esperienza maturata per almeno un triennio complessivo nell'ultimo quinquennio in qualifica dirigenziale in aree dirigenziali comportanti assunzione di autonomia gestionale e responsabilita' di risultato nella direzione di unita' operative poste alle dirette dipendenze; tale esperienza per i dirigenti di enti ed organismi del sistema camerale diversi dalle pubbliche amministrazioni e' valutabile positivamente solo se acquisita presso enti ed organismi dotati di almeno 10 dipendenti; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                per i soggetti di cui alla lettera b) del comma 4, dell'articolo 20 della legge, attitudine all'esercizio delle funzioni di vertice dell'amministrazione delle camere di commercio acquisita con l'esperienza maturata in qualifica dirigenziale per almeno un quinquennio, in aree dirigenziali comportanti assunzione di autonomia gestionale e responsabilita' di risultato nella direzione di unita' operative poste alle dirette dipendenze, in imprese, enti o organismi, con almeno 15 dipendenti.
+
 Il possesso dei requisiti professionali e' attestato con il curriculum di cui all'articolo 5, comma 2, nonche' da dichiarazione rilasciata dall'ente o dall'impresa di appartenenza, da allegare alla domanda di iscrizione nell'elenco.
 
 ## Art. 8. — Titoli
+
+1.
+                    
+                        
+                            La commissione valuta, ai fini del superamento della selezione nazionale di cui all'articolo 20, comma 4, della legge, il possesso dei seguenti titoli con l'attribuzione di un punteggio nel limite massimo di punti 80 totali, cosi' suddivisi: 
+ 
+                        
+                        
+                            a)
+                            
+                                titoli culturali, con un massimo di punti 25 complessivi: sono valutabili fino ad un massimo di 10 diversi titoli culturali, indicati dal richiedente, nel seguente ambito: punteggio conseguito e grado di attinenza del titolo di laurea prescritto per l'iscrizione; altri titoli di laurea; specializzazioni post-laurea; dottorati di ricerca; masters rilasciati da organismi o enti certificati ai sensi della normativa vigente per l'erogazione di corsi di insegnamento o formazione o aggiornamento o tirocini, con risultato finale certificato; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                pubblicazioni, con un massimo di punti 5 complessivi: sono valutabili fino ad un massimo di 10 diverse pubblicazioni, indicate dal richiedente, nel seguente ambito: monografie a stampa; articoli apparsi su riviste nazionali ed internazionali anche on-line purche' regolarmente registrate; libri; relazioni ed interventi pubblicati negli atti di convegni e congressi; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                conoscenza di lingue straniere attestate da certificato finale, con un massimo di punti 5 complessivi; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                titoli professionali, con un massimo di punti 10 complessivi: sono valutabili fino ad un massimo di 10 diversi titoli professionali, indicati dal richiedente, nel seguente ambito: abilitazione o iscrizione in albi professionali per le quali e' necessario un diploma di laurea in materie giuridico-economiche; partecipazione con contributi personali a commissioni e gruppi di lavoro e altri incarichi nel proprio ambito professionale; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                titoli di servizio, con un massimo di punti 25 complessivi: nell'ambito dell'esperienza dichiarata e documentata ai fini della verifica del possesso dei requisiti professionali minimi di cui all'articolo 7, esperienza professionale, valutata anche sulla base della sua attualita', del suo rilievo e dei risultati conseguiti, maturata con lo svolgimento di attivita' di direzione, anche congiunta, per periodi non inferiori a dodici mesi, in almeno due dei seguenti ambiti di attivita': 
+ 1) «ambito giuridico-amministrativo», con particolare riferimento all'assunzione di decisioni di natura giuridica e/o economica anche con valenza esterna; 
+ 2) «ambito amministrativo-contabile», con particolare riferimento alle funzioni organizzative e di gestione del personale, di gestione patrimoniale e finanziaria, di supporto dell'attivita' degli organi decisionali, di programmazione, di controllo interno e di verifica dei risultati; 
+ 3) «ambito economico-statistico», con particolare riferimento alle funzioni di analisi economiche e di ricerca di mercato, di studi e rilevazioni statistiche in campo economico e sociale; 
+ 4) «ambito di promozione e sviluppo delle imprese» e con particolare riferimento, in Italia e all'estero, alla creazione o gestione di servizi alle imprese, alla realizzazione di piani di sviluppo territoriale o di progetti di formazione. 
+
+                            
+                        
+                        
+                            f)
+                            
+                                partecipazione all'attivita' di formazione organizzata da Unioncamere di cui all'articolo 12 con un massimo di punti 10 complessivi.
 
 La selezione nazionale per titoli si intende superata a seguito di una valutazione da parte della commissione pari almeno ad un punteggio di 56/80.
 
@@ -97,6 +243,38 @@ La Direzione generale provvede alla revisione dinamica dell'elenco con cadenza t
 L'iscritto nell'elenco, nominato segretario generale di camera di commercio, e' esonerato per tutta la durata dell'incarico dall'adempimento di cui al comma 1.
 
 ## Art. 11. — Cancellazione dall'elenco
+
+1.
+                    
+                        
+                            La cancellazione dall'elenco e' disposta: 
+ 
+                        
+                        
+                            a)
+                            
+                                su richiesta dell'interessato; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al raggiungimento dei limiti di eta' corrispondenti a quelli vigenti per il collocamento in quiescenza dei dirigenti delle camere di commercio, salvo proroga, per i segretari generali in servizio, nei limiti consentiti dalle vigenti normative in materia di lavoro alle dipendenze della pubblica amministrazione; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                per l'accertata carenza o per il venir meno dei requisiti richiesti per l'iscrizione, fatta salva la cessazione del rapporto di lavoro dirigenziale con imprese pubbliche o private intervenuta senza demerito da meno di due anni; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                nel caso di mancato invio, entro trenta giorni, delle dichiarazioni e della documentazione richiesta dalla divisione, attestante la sussistenza o la permanenza dei requisiti dichiarati.
 
 La divisione puo' effettuare in qualsiasi momento accertamenti e verifiche in ordine al possesso, da parte degli iscritti nell'elenco, dei requisiti previsti.
 

@@ -8,8 +8,8 @@ vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
 vigenza_date: 2026-06-12
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:42Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -29,11 +29,75 @@ Acquisiti i pareri delle competenti Commissioni parlamentari;
 
 Il presente regolamento disciplina le modalita' di istituzione e di frequenza dei corsi di formazione previsti dall'articolo 43 della legge 31 dicembre 2012, n. 247.
 
+2.
+                    
+                        
+                            Ai fini del presente regolamento: 
+ 
+                        
+                        
+                            a)
+                            
+                                per «legge professionale» si intende la legge 31 dicembre 2012, n. 247; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                per «corsi di formazione» i corsi di cui all'articolo 43 della legge professionale.
+
 ## Art. 2. — Organizzazione dei corsi di formazione
 
 I corsi di formazione possono essere organizzati dai consigli dell'ordine e dalle associazioni forensi giudicate idonee, nonche' dagli altri soggetti previsti dalla legge, incluse le scuole di specializzazione per le professioni legali di cui all'articolo 16 del decreto legislativo 17 novembre 1997, n. 398.
 
 Nel caso di organizzazione da parte degli altri soggetti previsti dalla legge e delle associazioni forensi, i corsi devono essere accreditati dai consigli dell'ordine, sentito il Consiglio nazionale forense, che si esprime entro trenta giorni dalla presentazione dell'istanza di accreditamento, o dallo stesso Consiglio qualora i corsi abbiano rilevanza nazionale. In tale ultima ipotesi il Consiglio nazionale forense adotta il relativo provvedimento entro il termine di trenta giorni trascorso il quale la richiesta di accreditamento si intende accolta in assenza di un provvedimento di rigetto espresso e motivato.
+
+3.
+                    
+                        
+                            L'interessato presenta istanza di accreditamento contenente: 
+ 
+                        
+                        
+                            a)
+                            
+                                denominazione e dati identificativi del soggetto formatore; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                esaustive indicazioni su organizzazione e durata del corso, date di inizio e fine delle attivita' formative, sede e spazi disponibili, capacita' ricettiva, sistema di controllo delle presenze; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                individuazione del comitato tecnico scientifico con indicazione dei nominativi e del curriculum vitae dei componenti; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                indicazione della quota di iscrizione richiesta e dei finanziamenti eventualmente ricevuti; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                programma del corso e indicazione della metodologia didattica; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                curriculum vitae dei docenti, che non devono aver subito sanzioni disciplinari definitive superiori all'avvertimento.
 
 Per le istanze presentate al consiglio circondariale la richiesta, in assenza di un provvedimento di rigetto espresso e motivato, si intende accolta trascorsi sessanta giorni dalla presentazione dell'istanza di accreditamento, previa acquisizione del parere di cui al comma 2.
 
@@ -46,6 +110,80 @@ Il Consiglio nazionale forense, anche tramite la Scuola superiore dell'avvocatur
 ## Art. 3. — Contenuti del corso di formazione
 
 I corsi di formazione, a contenuto sia teorico che pratico, sono articolati in modo tale da sostenere e integrare la preparazione del tirocinante necessaria allo svolgimento dell'attivita' professionale e all'espletamento delle prove previste dall'esame di Stato per l'abilitazione alla professione forense. I corsi devono altresi' assicurare nei tirocinanti la consapevolezza dei principi deontologici ai quali il concreto esercizio della professione deve essere improntato.
+
+2.
+                    
+                        
+                            I corsi prevedono, in conformita' all'articolo 41, comma 1, all'articolo 43, comma 2, lettera b), e all'articolo 46, commi 2 e 3, della legge professionale, approfondimenti nell'ambito delle seguenti materie: 
+ 
+                        
+                        
+                            a)
+                            
+                                diritto civile, diritto penale, diritto amministrativo; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                diritto processuale civile, penale e amministrativo, anche con riferimento al processo telematico, alle tecniche impugnatorie e alle procedure alternative per la risoluzione delle controversie; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                ordinamento e deontologia forense; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                tecnica di redazione degli atti giudiziari in conformita' al principio di sinteticita' e dei pareri stragiudiziali nelle varie materie del diritto sostanziale e processuale; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                tecniche della ricerca anche telematica delle fonti e del precedente giurisprudenziale; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                teoria e pratica del linguaggio giuridico; argomentazione forense; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                diritto costituzionale, diritto del lavoro, diritto commerciale, diritto dell'Unione europea, diritto internazionale privato, diritto tributario, diritto ecclesiastico; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                organizzazione e amministrazione dello studio professionale; 
+
+                            
+                        
+                        
+                            i)
+                            
+                                profili contributivi e tributari della professione di avvocato; previdenza forense; 
+
+                            
+                        
+                        
+                            l)
+                            
+                                elementi di ordinamento giudiziario e penitenziario.
 
 Al fine di garantire l'omogeneita' di preparazione e di giudizio sul territorio nazionale di cui all'articolo 43, comma 2, lettera d), della legge professionale, il corso dovra' essere strutturato tenendo conto delle linee guida fornite dal Consiglio nazionale forense.
 
@@ -103,6 +241,24 @@ Presso il Ministero della giustizia e' istituita la Commissione nazionale per la
 Quando un membro della Commissione cessa, per qualunque causa, dalle proprie funzioni, si procede alla sua sostituzione con le stesse modalita' previste per la nomina. L'incarico di membro della commissione e' incompatibile con la carica di Presidente o consigliere del Consiglio nazionale forense, nonche' con l'eventuale attivita' di docente di cui all'articolo 4 del presente regolamento.
 
 La Commissione dura in carica quattro anni. Ai componenti della commissione non sono riconosciuti compensi, indennita' o gettoni di presenza, in qualsiasi forma. Entro novanta giorni dalla entrata in vigore del presente regolamento, la Commissione nazionale viene nominata secondo le modalita' indicate nel presente articolo.
+
+3.
+                    
+                        
+                            La commissione elabora, in conformita' a quanto previsto dal presente regolamento e tenendo conto delle linee guida di cui all'articolo 3, comma 3, le domande a risposta multipla da sottoporre in sede di verifica locale e predispone la banca dati in modo da: 
+ 
+                        
+                        
+                            a)
+                            
+                                fornire le domande per le verifiche da espletare nelle materie di cui all'articolo 3; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                curarne l'aggiornamento ogni 6 mesi.
 
 Le linee guida di cui all'articolo 3, comma 3, indicano anche le date, l'ora e la durata in cui devono essere espletate le verifiche intermedie e finale, per ciascun semestre del corso. Le domande della Commissione nazionale sono trasmesse telematicamente al Segretario del Consiglio dell'ordine territoriale entro le ore 12 del giorno fissato per la verifica, che le mette a disposizione dei soggetti formatori di cui all'articolo 2 in una piattaforma telematica accessibile esclusivamente dai medesimi.
 

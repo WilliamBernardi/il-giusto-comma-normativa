@@ -8,8 +8,8 @@ codice_redazionale: 098G0364
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:38Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -29,7 +29,43 @@ Il presente regolamento disciplina il trattamento con alcool etilico del pane sp
 
 ## Art. 2.
 
+1.
+                    
+                        
+                            Il trattamento con alcool etilico e' consentito per il:
+ 
+                        
+                        
+                            a)
+                            
+                                pane speciale costituito almeno da farina, acqua, lievito e oli o grassi di cui alla legge 4 luglio 1967, n. 580, e cotto in stampi che li avvolgono parzialmente o totalmente;
+
+                            
+                        
+                        
+                            b)
+                            
+                                pane speciale messo in commercio in confezione impermeabile, a fette oppure in forma intera.
+
 L'alcool etilico presente nel prodotto messo in commercio non deve essere superiore al 2% in peso espresso in sostanza secca.
+
+3.
+                    
+                        
+                            L'alcool etilico puo' essere impiegato:
+ 
+                        
+                        
+                            a)
+                            
+                                in sostituzione dell'acido propionico e suoi sali di sodio, calcio e potassio nel pane speciale intero preconfezionato;
+
+                            
+                        
+                        
+                            b)
+                            
+                                in sostituzione dell'acido sorbico e suoi sali di potassio e calcio, nonche' di acido propionico e suoi sali di sodio, calcio e potassio nel pane speciale a fette preconfezionato.
 
 ## Art. 3.
 

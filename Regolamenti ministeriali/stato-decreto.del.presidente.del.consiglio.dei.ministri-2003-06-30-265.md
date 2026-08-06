@@ -8,8 +8,8 @@ codice_redazionale: 003G0290
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:42Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DEL CONSIGLIO DEI MINISTRI
@@ -22,4 +22,23 @@ Considerata la necessita' di apportare talune modifiche a detto regolamento, ond
 Uditi i pareri del Consiglio di Stato, espressi dalla Sezione consultiva per gli atti normativi nelle adunanze del 7 aprile 2003 e del 9 giugno 2003;
 
 ## Art. 1. — Modifiche all'articolo 1 del decreto del Presidente del Consiglio dei Ministri 27 novembre 2002, n. 294
+
+1.
+                    
+                        
+                            All'articolo 1 del decreto del Presidente del Consiglio dei Ministri 27 novembre 2002, n. 294, sono apportate le seguenti modifiche:
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 1, dopo le parole "legge 26 febbraio 1987, n. 49", sono aggiunte le seguenti: "le associazioni di promozione sociale di cui alla legge 7 dicembre 2000, n. 383";
+
+                            
+                        
+                        
+                            b)
+                            
+                                il comma 2 e' sostituito dal seguente:
+ "2. Sono ammessi alle agevolazioni i sindacati e le associazioni professionali di categoria per i bollettini dei propri organi direttivi, nonche' le pubblicazioni informative a carattere politico edite da associazioni ed organizzazioni aventi natura privata e senza fini di lucro.".
 

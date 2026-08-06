@@ -8,8 +8,8 @@ codice_redazionale: 008G0012
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:40Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -42,6 +42,24 @@ I giudizi di avanzamento concernenti lo stesso ufficiale sono autonomi tra loro 
 
 Le operazioni di valutazione sono precedute da una discussione collegiale volta a determinare i criteri da seguire per l'espressione del giudizio di idoneita' e per l'attribuzione del punteggio di merito, di cui viene dato atto in apposito documento redatto in conformita' all'annesso 1 al modello di verbale in allegato 1.
 
+2.
+                    
+                        
+                            Il giudizio di avanzamento si svolge attraverso due fasi di valutazione, entrambe a carattere collegiale, di cui:
+ 
+                        
+                        
+                            a)
+                            
+                                la prima, prevista dall'articolo 21, comma 1, del decreto legislativo n. 69 del 2001, e' diretta ad accertare l'idoneita' o la non idoneita' complessiva di ciascun ufficiale ad assolvere le funzioni del grado superiore;
+
+                            
+                        
+                        
+                            b)
+                            
+                                la seconda, prevista dall'articolo 21, comma 2, del decreto legislativo n. 69 del 2001, e' diretta ad attribuire a ciascun ufficiale giudicato idoneo un punteggio di merito con riferimento alle qualita', alle capacita' e alle attitudini possedute.
+
 Il presidente della competente commissione di avanzamento puo' nominare tra i suoi componenti uno o piu' relatori con il compito di riferire sugli elementi risultanti ai fini della valutazione.
 
 ## Art. 5. — Valutazione dell'idoneita' all'avanzamento
@@ -60,13 +78,118 @@ L'attribuzione del punteggio di merito agli ufficiali giudicati idonei, di cui a
 
 I punteggi di merito sono attribuiti in relazione alle quattro categorie di requisiti previsti dall'articolo 21, comma 4, del decreto legislativo n. 69 del 2001 e costituiscono, per ognuna di esse, l'espressione di una valutazione di sintesi da parte di ciascun componente della commissione e non la somma di punteggi parziali assegnati per ogni elemento nell'ambito di ciascuna delle suddette categorie.
 
+2.
+                    
+                        
+                            Nell'attribuzione del punteggio di cui al comma 1:
+ 
+                        
+                        
+                            a)
+                            
+                                si tiene conto della particolare fisionomia del ruolo cui l'ufficiale valutando appartiene e del grado superiore da conseguire;
+
+                            
+                        
+                        
+                            b)
+                            
+                                sono maggiormente indicativi delle qualita' e delle attitudini previste dall'articolo 21 del decreto legislativo n. 69 del 2001 gli elementi risultanti dalla documentazione di cui all'articolo 2 conseguiti nello svolgimento di compiti d'istituto, anche all'esterno dell'Amministrazione, rispondenti ad interessi o finalita' propri del Corpo della Guardia di finanza ovvero comunque riferibili ad attivita' di servizio;
+
+                            
+                        
+                        
+                            c)
+                            
+                                particolare rilievo riveste la qualifica finale attribuita dall'ultima autorita' intervenuta nella redazione dei documenti caratteristici. Le diverse qualifiche finali sono considerate secondo la rilevanza e il periodo di attribuzione di ciascuna, tenendo anche conto delle aggettivazioni laudative espresse nei relativi giudizi.
+Sono altresi' valutate le flessioni dei giudizi nell'ambito dei documenti caratteristici, specialmente se riferite al passaggio da una qualifica finale superiore ad una inferiore.
+
 Ai fini della valutazione del complesso delle caratteristiche e degli elementi della personalita' di ogni valutando, e' particolarmente considerata la figura dell'ufficiale che presenta un quadro armonico di tutte le qualita' oggetto di valutazione.
 
 ## Art. 8. — Qualita' morali, di carattere e fisiche
 
+1.
+                    
+                        
+                            Le qualita' morali e di carattere, dimostrate, in particolare, nel grado rivestito, sono valutate in relazione a un modello ideale della figura dell'ufficiale, da delinearsi in base ai valori indicati dal decreto del Presidente della Repubblica 18 luglio 1986, n. 545, tenendo conto della realta' sociale dello specifico periodo storico.
+Sono altresi' considerate:
+ 
+                        
+                        
+                            a)
+                            
+                                le sanzioni disciplinari;
+
+                            
+                        
+                        
+                            b)
+                            
+                                le ricompense di ordine morale, anche avuto riguardo alla loro distribuzione nel corso dell'intera carriera e alle relative motivazioni.
+
 Nella valutazione delle qualita' fisiche si tiene conto della fascia di eta' in cui rientra il valutando, correlata ai vari gradi e alla fisionomia del ruolo di appartenenza. Non muta nel tempo la rilevanza da attribuire al decoro della persona.
 
 ## Art. 9. — Qualita' professionali
+
+1.
+                    
+                        
+                            La valutazione delle qualita' professionali, dimostrate durante la carriera e specialmente nel grado rivestito, e' effettuata considerando tutti gli elementi desumibili dalla documentazione di cui all'articolo 2 e, in particolare:
+ 
+                        
+                        
+                            a)
+                            
+                                le benemerenze di guerra e di pace;
+
+                            
+                        
+                        
+                            b)
+                            
+                                gli incarichi di comando, le attribuzioni specifiche e i servizi prestati presso i reparti e in imbarco;
+
+                            
+                        
+                        
+                            c)
+                            
+                                gli incarichi di particolare responsabilita', ivi compresi quelli a carattere interforze e internazionali;
+
+                            
+                        
+                        
+                            d)
+                            
+                                l'incarico rivestito all'atto della formazione dell'aliquota di valutazione;
+
+                            
+                        
+                        
+                            e)
+                            
+                                le specifiche attitudini e la versatilita' dimostrate in relazione al ruolo di appartenenza e alle differenti situazioni d'impiego;
+
+                            
+                        
+                        
+                            f)
+                            
+                                le sanzioni disciplinari;
+
+                            
+                        
+                        
+                            g)
+                            
+                                le ricompense di ordine morale, anche avendo riguardo alla loro distribuzione nel corso dell'intera carriera e alle relative motivazioni;
+
+                            
+                        
+                        
+                            h)
+                            
+                                la motivazione al lavoro, quale espressione dell'interesse diretto agli obiettivi istituzionali e della conseguente partecipazione al loro perseguimento con senso del dovere, della responsabilita', della disciplina nonche' con spirito di abnegazione e di sacrificio.
 
 ## Art. 10. — Rilevanza degli incarichi
 
@@ -84,13 +207,95 @@ La rilevanza degli incarichi non e' comunque di per se' attributiva di capacita'
 
 La personalita' intellettuale e culturale dell'ufficiale e' valutata prevalentemente in relazione alla fisionomia istituzionale del ruolo di appartenenza e all'affidamento che puo' derivarne in termini di efficienza per l'Amministrazione. Conseguentemente, il possesso di titoli non attinenti ai predetti fini non costituisce necessariamente elemento di particolare considerazione.
 
+2.
+                    
+                        
+                            Con riguardo a quanto stabilito al comma 1, costituiscono, in particolare, elementi da valutare:
+ 
+                        
+                        
+                            a)
+                            
+                                l'iter formativo;
+
+                            
+                        
+                        
+                            b)
+                            
+                                i risultati dei corsi e degli esami previsti ai fini dell'avanzamento e per l'aggiornamento e il perfezionamento della formazione professionale;
+
+                            
+                        
+                        
+                            c)
+                            
+                                gli altri corsi in Italia e all'estero;
+
+                            
+                        
+                        
+                            d)
+                            
+                                i titoli culturali;
+
+                            
+                        
+                        
+                            e)
+                            
+                                la conoscenza di lingue straniere debitamente accertata;
+
+                            
+                        
+                        
+                            f)
+                            
+                                le pubblicazioni.
+
 Ai sensi dell'articolo 19, comma 2, del decreto legislativo n. 69 del 2001, il superamento del Corso Superiore di Polizia Tributaria costituisce titolo per l'avanzamento in carriera con preferenza rispetto ad altri corsi o titoli acquisiti.
 
 ## Art. 12. — Attitudine ad assumere incarichi nel grado superiore
 
+1.
+                    
+                        
+                            La valutazione dell'attitudine ad assumere incarichi nel grado superiore, con specifico riferimento ai settori di impiego di particolare interesse per l'Amministrazione, e' condotta considerando le peculiari prestazioni richieste per il concreto esercizio delle funzioni connesse al nuovo grado, attraverso l'analisi di tutti gli elementi desumibili dalla documentazione matricolare e caratteristica, tra cui in particolare:
+ 
+                        
+                        
+                            a)
+                            
+                                gli incarichi espletati durante la carriera e specialmente nel grado rivestito, ponendo in rilievo l'esperienza acquisita e i risultati conseguiti;
+
+                            
+                        
+                        
+                            b)
+                            
+                                specifiche attitudini e versatilita' evidenziate in relazione alle differenti situazioni d'impiego.
+
 ## Art. 13. — Tendenza di carriera
 
 Fermo restando il principio dell'autonomia dei giudizi di avanzamento di cui all'articolo 3, costituisce elemento di valutazione la tendenza di carriera, da intendersi come andamento complessivo della progressione di carriera.
+
+2.
+                    
+                        
+                            La tendenza di carriera e' valutata con riferimento agli esiti:
+ 
+                        
+                        
+                            a)
+                            
+                                del corso di formazione presso l'Accademia e degli altri corsi che costituiscono titolo per l'avanzamento, con particolare attenzione alla posizione conseguita nella relativa graduatoria di merito di fine corso;
+
+                            
+                        
+                        
+                            b)
+                            
+                                delle valutazioni per la promozione ai gradi per i quali l'avanzamento ha luogo a scelta e della posizione conseguita dall'ufficiale nella relativa graduatoria di merito.
 
 Ai fini della valutazione di cui al comma 1, le capacita' e le attitudini risultanti dagli elementi di cui al comma 2 sono confrontate con quelle effettivamente dimostrate dall'ufficiale durante il successivo impiego.
 
@@ -99,7 +304,50 @@ Ai fini della valutazione di cui al comma 1, le capacita' e le attitudini risult
 
 Ciascuna delle fasi di cui all'articolo 4, comma 2, si conclude con la votazione da parte dei membri della commissione, previo approfondito esame collegiale, per ciascun ufficiale, delle relative qualita' e capacita', da effettuare osservando i criteri previsti dagli articoli precedenti. I nominativi degli ufficiali nei cui confronti la commissione ritiene di dover sospendere il giudizio ai sensi dell'articolo 18, comma 5, del decreto legislativo n. 69 del 2001, sono riportati nel documento redatto in conformita' all'annesso 2 al modello di verbale in allegato 1.
 
+2.
+                    
+                        
+                            Nel caso in cui uno o piu' membri della commissione si esprimano per la non idoneita' all'avanzamento dell'ufficiale:
+ 
+                        
+                        
+                            a)
+                            
+                                ciascun membro della commissione redige una scheda di motivazione della idoneita' o non idoneita' dell'ufficiale conforme all'annesso 3 al modello di verbale in allegato 1, la quale, in caso di uniformita' di giudizi, e' predisposta in un unico esemplare, sottoscritto dai membri che hanno espresso concorde parere;
+
+                            
+                        
+                        
+                            b)
+                            
+                                il giudizio di non idoneita' e' motivato con riferimento all'attitudine del valutando a svolgere le funzioni del grado superiore.
+
 Gli ufficiali che hanno riportato giudizio di idoneita' e gli ufficiali che hanno riportato giudizio di non idoneita' sono iscritti dalla commissione in due distinti elenchi, in ordine di ruolo, redatti in conformita', rispettivamente, agli annessi 4 e 5 al modello di verbale in allegato 1.
+
+4.
+                    
+                        
+                            Nei confronti degli ufficiali idonei, osservando le modalita' stabilite dall'articolo 21 del decreto legislativo n. 69 del 2001, la commissione, previa discussione collegiale:
+ 
+                        
+                        
+                            a)
+                            
+                                esprime, per ogni ufficiale, le ragioni poste a base delle proprie valutazioni. A tal fine, ciascun membro della commissione redige una scheda di motivazione conforme all'annesso 6 al modello di verbale in allegato 1, la quale, in caso di uniformita' di giudizi, e' predisposta in un unico esemplare, sottoscritto dai membri che hanno espresso concorde parere;
+
+                            
+                        
+                        
+                            b)
+                            
+                                assegna, conseguentemente, a ciascun ufficiale il punto di merito previsto dall'articolo 21 del decreto legislativo n. 69 del 2001, il quale viene riportato nell'apposito elenco recante i nominativi dei valutandi in ordine di ruolo, redatto in conformita' agli annessi 7 e 8 del modello di verbale in allegato 1, rispettivamente, per gli ufficiali generali e per gli altri ufficiali;
+
+                            
+                        
+                        
+                            c)
+                            
+                                successivamente, sulla base del punteggio attribuito, procede alla formazione della graduatoria di merito, redatta in conformita' all'annesso 9 al modello di verbale in allegato 1, nella quale i nominativi degli ufficiali valutati sono riportati in ordine decrescente di punteggio. A parita' di punteggio, e' data precedenza in graduatoria all'ufficiale piu' anziano in ruolo.
 
 Gli atti di cui al comma 4 sono sottoscritti da tutti i componenti delle commissioni che hanno partecipato ai lavori e costituiscono parte integrante del verbale in cui sono riportate le attivita' svolte dalle medesime commissioni. Il verbale e' redatto dal membro designato dal presidente a svolgere le funzioni di segretario in conformita' al modello in allegato 1.
 

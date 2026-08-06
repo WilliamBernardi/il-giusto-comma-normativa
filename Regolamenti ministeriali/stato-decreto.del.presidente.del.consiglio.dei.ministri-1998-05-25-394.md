@@ -8,8 +8,8 @@ codice_redazionale: 098G0446
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:42Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DEL CONSIGLIO DEI MINISTRI
@@ -22,6 +22,31 @@ Entrata in vigore del decreto: 2-12-1998
 Udito il parere del Consiglio di Stato espresso dalla sezione consultiva per gli atti normativi nell'adunanza del 9 giugno 1997 e nell'adunanza del 20 ottobre 1997;
 
 ## Art. 1. — Ambito di applicazione
+
+1.
+                    
+                        
+                            Le disposizioni contenute nel presente decreto si applicano al funzionamento del fondo per le agevolazioni previste, a decorrere dal 1 aprile 1997, dall'articolo 2, comma 20, della legge 23 dicembre 1996, n. 662, per gli invii, tramite il canale postale di:
+ 
+                        
+                        
+                            a)
+                            
+                                libri;
+
+                            
+                        
+                        
+                            b)
+                            
+                                giornali quotidiani e riviste con qualsiasi periodicita' editi da soggetti iscritti al registro nazionale della stampa;
+
+                            
+                        
+                        
+                            c)
+                            
+                                pubblicazioni informative di enti, enti locali, associazioni ed altre organizzazioni senza fine di lucro, anche in lingua estera da spedire all'estero.
 
 L'efficacia delle disposizioni del presente decreto e' subordinata all'entrata in vigore delle nuove tariffe dei servizi postali da determinarsi con decreto del Ministro delle comunicazioni, ai sensi del comma 20 dell'articolo 2 della legge 23 dicembre 1996, n. 662.
 

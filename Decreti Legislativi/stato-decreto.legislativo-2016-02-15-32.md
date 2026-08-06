@@ -7,8 +7,8 @@ urn: urn:nir:stato:decreto.legislativo:2016-02-15;32
 vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:21Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -32,6 +32,87 @@ Il presente decreto istituisce un idoneo ed efficace sistema di attuazione e di 
 
 ## Art. 2. — Definizioni
 
+1.
+                    
+                        
+                            Ai fini del presente decreto, in aggiunta alle pertinenti definizioni di cui al decreto legislativo 27 maggio 2005, n. 108, e successive modificazioni, si intende per: 
+ 
+                        
+                        
+                            a)
+                            
+                                «autorita' competente centrale»: il Ministero delle infrastrutture e dei trasporti; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                «autorita' competente locale»: gli uffici marittimi periferici retti da ufficiali del Corpo delle capitanerie di porto, anche per le navi che scalano porti esteri; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                «convenzione»: la convenzione sul lavoro marittimo del 2006 (MLC 2006) di cui alla legge 23 settembre 2013, n. 113, e le parti pertinenti della MLC 2006; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                «parti pertinenti della MLC 2006»: le parti della convenzione il cui contenuto e' considerato corrispondente alle disposizioni di cui all'allegato della direttiva 2009/13/CE; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                «ispettore»: un dipendente delle autorita' competenti di cui alle lettere a) e b) autorizzato a svolgere le ispezioni dello Stato di bandiera; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                «ispezione»: la visita a bordo di una nave svolta da un ispettore, per verificare la conformita' alla convenzione; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                «reclamo»: qualsiasi informazione o rapporto originato dai lavoratori marittimi, ogni soggetto, associazione o organizzazione, portatrice di una qualificata posizione soggettiva, di un interesse diffuso o legittimo, secondo le procedure di cui alla regola 5.1.5 della convenzione; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                «fermo»: il formale divieto posto ad una nave di prendere il mare a causa delle deficienze individuate che, da sole o nel complesso, rendono la nave insicura; 
+
+                            
+                        
+                        
+                            i)
+                            
+                                «certificato del lavoro marittimo»: il certificato di cui all'articolo 8 del presente decreto e di cui alla regola 5.1.3 della convenzione; 
+
+                            
+                        
+                        
+                            l)
+                            
+                                «dichiarazione di conformita' del lavoro marittimo»: la dichiarazione di cui all'articolo 8 del presente decreto e di cui alla regola 5.1.3 della convenzione; 
+
+                            
+                        
+                        
+                            m)
+                            
+                                «data anniversaria»: il giorno ed il mese di ciascun anno che corrisponde alla data di scadenza del certificato del lavoro marittimo.
+
 ## Art. 3. — Campo di applicazione
 
 Il presente decreto si applica a tutte le navi mercantili battenti bandiera italiana adibite alla navigazione marittima ed ai relativi lavoratori marittimi, di cui all'articolo II, paragrafo 4, della Convenzione.
@@ -41,6 +122,31 @@ Con decreto del Ministero delle infrastrutture e dei trasporti, da adottarsi ent
 ## Art. 4.
 
 Funzioni delle autorita' competenti
+
+1.
+                    
+                        
+                            L'autorita' competente centrale svolge le seguenti funzioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                attua la normativa in materia di ispezione e certificazione relativa al lavoro marittimo, d'intesa con il Comando generale del Corpo delle capitanerie di porto per i profili attinenti la sicurezza della navigazione; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                esercita l'attivita' di coordinamento e indirizzo in materia di lavoro marittimo; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                programma, d'intesa con il Comando generale del Corpo delle capitanerie di porto e con l'Ispettorato nazionale del lavoro, specifiche campagne ispettive finalizzate alla verifica delle condizioni di vita e di lavoro a bordo delle navi, sulla base dei rapporti ispettivi, nonche' sulla base di risultati statistici e di apposite ricerche relativamente agli infortuni dei lavoratori marittimi.
 
 Il Comando generale del Corpo delle capitanerie di porto assicura il controllo ed il coordinamento dell'attivita' ispettiva.
 
@@ -60,6 +166,38 @@ Il percorso formativo degli ispettori e' verificato dall'autorita' competente ce
 
 ## Art. 6. — Ispezioni
 
+1.
+                    
+                        
+                            L'autorita' competente locale sottopone le navi ad ispezione secondo i seguenti criteri: 
+ 
+                        
+                        
+                            a)
+                            
+                                ispezione iniziale per le navi nuove; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                ispezione intermedia per le navi esistenti di stazza lorda pari o superiore a 200 GT e per le navi che effettuano viaggi internazionali la cui stazza lorda e' inferiore alle 200 GT; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                ispezione di rinnovo per le navi nuove o esistenti; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                ispezione addizionale per le navi nuove o esistenti.
+
 L'ispezione iniziale e' effettuata alla prima visita o preventivamente alla messa in servizio della nave ed e' propedeutica al rilascio da parte dell'autorita' competente locale del certificato del lavoro marittimo e della dichiarazione di conformita' del lavoro marittimo. Durante l'espletamento dell'ispezione iniziale, gli ispettori osservano le condizioni di lavoro a bordo specificate nell'allegato A5-I della convenzione.
 
 L'ispezione intermedia e' effettuata tra il secondo e il terzo anno della data anniversaria del certificato di lavoro marittimo ed ha lo scopo di accertare che la nave mantiene i requisiti previsti dalla normativa nazionale e i requisiti minimi previsti dalla convenzione. Essa deve essere eseguita con le stesse modalita' delle ispezioni effettuate per il rinnovo del certificato di lavoro marittimo.
@@ -67,6 +205,46 @@ L'ispezione intermedia e' effettuata tra il secondo e il terzo anno della data a
 L'ispezione di rinnovo e' effettuata alla scadenza del certificato e ha lo scopo di verificare che sono soddisfatti i requisiti previsti dalla normativa nazionale, nonche' i requisiti minimi previsti dalla convenzione.
 
 L'ispezione addizionale e' effettuata a seguito di un reclamo presentato all'autorita' competente locale per presunte infrazioni della normativa sulla base della quale sono stati rilasciati il certificato di lavoro marittimo e la dichiarazione di conformita' del lavoro marittimo.
+
+6.
+                    
+                        
+                            Durante l'ispezione, l'ispettore: 
+ 
+                        
+                        
+                            a)
+                            
+                                sale a bordo delle navi liberamente e senza preavviso.
+Soltanto all'inizio dell'ispezione informa il comandante o la persona responsabile e, secondo i casi, i lavoratori marittimi o i loro rappresentanti; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                acquisisce informazioni dal comandante, dai lavoratori marittimi, dall'armatore o un suo rappresentante, su qualsiasi questione relativa all'applicazione delle prescrizioni della convenzione e della normativa in materia di condizioni di vita e di lavoro marittimo, in presenza di eventuali testimoni; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                esige l'esibizione di tutti i libri, giornali di bordo, registri, certificati o altri documenti o informazioni direttamente connesse con l'oggetto dell'ispezione allo scopo di verificarne la conformita' con la convenzione e con la normativa nazionale in materia di condizioni di vita e di lavoro a bordo; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                controlla l'avvenuta affissione degli avvisi richiesti dalla normativa nazionale in applicazione della convenzione; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                verifica la possibilita' di consultazione da parte dei lavoratori marittimi della convenzione, che deve essere presente in copia a bordo delle navi.
 
 ## Art. 7. — Informazioni sulle ispezioni
 

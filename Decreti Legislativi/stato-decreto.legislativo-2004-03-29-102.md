@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
 vigenza_date: 2024-07-14
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:28Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -41,6 +41,31 @@ Il Fondo di solidarieta' nazionale (FSN) ha l'obiettivo di promuovere principalm
 
 Ai fini del presente decreto legislativo sono considerate calamita' naturali, avversita' atmosferiche assimilabili a calamita' naturali, eventi eccezionali, eventi di portata catastrofica, ((eventi di diffusione eccezionale di specie aliene invasive,)) epizoozie, organismi nocivi ai vegetali, animali protetti quelli previsti dagli orientamenti e dai regolamenti comunitari in materia di aiuti di Stato nel settore agricolo, nonche' le avverse condizioni atmosferiche previste dagli orientamenti comunitari.
 
+3.
+                        
+                            
+                                Per le finalita' di cui al comma 1, il FSN prevede le seguenti tipologie di intervento: 
+ 
+                            
+                            
+                                a)
+                                
+                                    misure volte a incentivare la stipula di contratti assicurativi prioritariamente finalizzate all'individuazione e diffusione di nuove forme di copertura mediante polizze sperimentali e altre misure di gestione del rischio; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    interventi compensativi, esclusivamente nel caso di danni a produzioni, strutture e impianti produttivi non inseriti nel Piano di gestione dei rischi in agricoltura, finalizzati alla ripresa economica e produttiva delle imprese agricole che hanno subito danni dagli eventi di cui al comma 2 nei limiti previsti dalla normativa comunitaria; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    interventi di ripristino delle infrastrutture connesse all'attivita' agricola, tra cui quelle irrigue e di bonifica, compatibilmente con le esigenze primarie delle imprese agricole.
+
 Gli interventi compensativi di cui al comma 3, lettera b), ove attivati a fronte di eventi i cui effetti non sono limitati ad una sola annualita', possono essere compensati per un periodo non superiore a tre anni.
 
 ## - Capo I Aiuti per il pagamento di premi assicurativi
@@ -69,11 +94,47 @@ I prezzi unitari di mercato delle produzioni agricole, di cui all'articolo 127, 
 
 ((
 
+1.
+                        
+                            
+                                Ai sensi del presente decreto si intendono per polizze assicurative sperimentali: 
+ 
+                            
+                            
+                                a)
+                                
+                                    le polizze ricavo a copertura della perdita di ricavo della produzione assicurata, intesa come combinazione tra la variazione della resa a causa degli eventi di cui all'articolo 1 e la variazione del prezzo di mercato; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le polizze parametriche a copertura della perdita di produzione assicurata per danni di quantita' e qualita' a seguito di un andamento climatico avverso, di eventi di portata catastrofica, determinati anche in base a indici biologici o meteorologici.
+
 Le polizze sperimentali di cui al comma 1 possono avvalersi della riassicurazione del Fondo di cui all'articolo 127, comma 3, della legge 23 dicembre 2000, n. 388.
 
 ))
 
 ## Art. 3. — Consorzi di coassicurazione e coriassicurazione
+
+1.
+                        
+                            
+                                In base a quanto disposto dal regolamento (CE) n. 358/2003 della Commissione europea, del 27 febbraio 2003, le imprese di assicurazione e di riassicurazione possono costituire consorzi di coassicurazione e coriassicurazione a condizione che i prodotti assicurativi sottoscritti nell'ambito dell'accordo di consorzio delle imprese partecipanti o per loro conto non rappresentino, in nessuno dei mercati interessati:
+ 
+                            
+                            
+                                a)
+                                
+                                    nel caso di consorzi di coassicurazione, piu' del 20 per cento del mercato rilevante;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    nel caso dei consorzi di coriassicurazione, piu' del 25 per cento del mercato rilevante.
 
 I limiti di cui al comma 1, lettere a) e b), non si applicano nel caso di rischi coperti attraverso tipologie di polizze assicurative innovative non ancora diffuse sul mercato. Tale esenzione e' valida per un periodo di tre anni a decorrere dalla data di costituzione del consorzio.
 
@@ -85,6 +146,73 @@ L'entita' del contributo pubblico sui premi assicurativi e sulle quote di partec
 
 ))
 
+2.
+                        
+                            
+                                Il ((Piano)) e' elaborato ((anche)) sulla base delle informazioni e dei dati di carattere statistico-assicurativo rilevati dalla Banca dati sui rischi agricoli, ed e' approvato, entro il 30 novembre di ogni anno, con decreto del Ministero delle politiche agricole alimentari e forestali, d'intesa con la Conferenza per i rapporti tra lo Stato, le regioni e le province autonome di Trento e di Bolzano, sentite le proposte di una Commissione tecnica costituita, da: 
+ 
+                            
+                            
+                                a)
+                                
+                                    un rappresentante del Ministero delle politiche agricole alimentari e forestali, che la presiede; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    tre rappresentanti delle regioni e delle province autonome di Trento e di Bolzano; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    un rappresentate dell'Istituto di servizi per il mercato agricolo alimentare (ISMEA); 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    un rappresentante per ciascuna Organizzazione professionale agricola rappresentata nel Consiglio nazionale dell'economia e del lavoro (CNEL); 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    un rappresentante della Cooperazione agricola; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    un rappresentante dell'Associazione nazionale ((degli organismi collettivi)) di difesa (ASNACODI); 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    due rappresentanti dell'Associazione nazionale delle imprese assicuratrici (ANIA). 
+
+                                
+                            
+                            
+                                g-bis)
+                                
+                                    un rappresentante dell'Agenzia per le erogazioni in agricoltura (AGEA); 
+
+                                
+                            
+                            
+                                g-ter)
+                                
+                                    un rappresentante dell'Istituto di vigilanza sulle imprese assicuratrici (IVASS).
+
 ((
 
 Con decreto del Ministro delle politiche agricole alimentari e forestali e' approvato il regolamento di funzionamento della Commissione tecnica. Ai componenti della Commissione tecnica non spetta alcun emolumento, indennita', gettone di presenza, rimborso spese o altri emolumenti comunque denominati. Alle spese di funzionamento della Commissione tecnica si provvede nell'ambito delle risorse umane, strumentali e finanziarie disponibili a legislazione vigente, senza nuovi o maggiori oneri per il bilancio dello Stato.
@@ -93,7 +221,57 @@ Con decreto del Ministro delle politiche agricole alimentari e forestali e' appr
 
 ((
 
+4.
+                        
+                            
+                                Nel Piano sono stabiliti, nel rispetto della normativa europea, i termini, le modalita', l'entita' del contributo dello Stato, le soglie minime di danno, le procedure di erogazione del contributo ed i criteri di cumulo delle misure di gestione del rischio ai sensi dell'articolo 2-bis, nonche' i parametri per il calcolo del contributo pubblico sui premi assicurativi e sulle quote di partecipazione ed adesione ai fondi di mutualizzazione distinti per: 
+ 
+                            
+                            
+                                a)
+                                
+                                    tipologia di polizza assicurativa o mutualistica e schema contrattuale contenente gli standard minimi; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    area territoriale identificata sulla base delle proposte delle regioni e delle province autonome di Trento e di Bolzano; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    eventi coperti, garanzia; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    tipo di coltura impianti produttivi, produzioni zootecniche, strutture.
+
 ))
+
+5.
+                        
+                            
+                                Nel ((Piano)) possono essere disposti anche: 
+ 
+                            
+                            
+                                a)
+                                
+                                    i termini massimi di sottoscrizione delle polizze per le diverse produzioni e aree; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    qualsiasi altro elemento ritenuto necessario per garantire un impiego efficace ed efficiente delle risorse pubbliche.
 
 Al fine di garantire continuita' alla copertura dei rischi, qualora entro la data stabilita al comma 2 non sia approvato un nuovo ((Piano)), continuano ad applicarsi le disposizioni del piano precedente.
 
@@ -105,9 +283,87 @@ Possono beneficiare degli interventi del presente articolo, le imprese agricole 
 
 ((1-bis. Possono altresi' beneficiare degli interventi del presente articolo le imprese e i consorzi di acquacoltura e della pesca))
 
+2.
+                        
+                            
+                                Al fine di favorire la ripresa economica e produttiva delle ((imprese e dei consorzi di cui ai commi 1 e 1-bis)), nei limiti dell'entita' del danno, accertato nei termini previsti dagli orientamenti e regolamenti comunitari per gli aiuti di Stato ((nei settori agricolo e della pesca)), possono essere concessi i seguenti aiuti, in forma singola o combinata, a scelta delle regioni, tenuto conto delle esigenze e dell'efficacia dell'intervento, nonche' delle risorse finanziarie disponibili: 
+ 
+                            
+                            
+                                a)
+                                
+                                    contributi in conto capitale fino all'80 per cento del danno accertato sulla base della produzione lorda vendibile media ordinaria, da calcolare secondo le modalita' e le procedure previste dagli orientamenti e dai regolamenti comunitari in materia di aiuti di Stato. Nelle zone svantaggiate di cui all'articolo 32 del regolamento (UE) n. 1305/2013 del Parlamento europeo e del Consiglio, del 17 dicembre 2013, il contributo puo' essere elevato fino al 90 per cento; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    prestiti ad ammortamento quinquennale per le esigenze di esercizio dell'anno in cui si e' verificato l'evento dannoso e per l'anno successivo, da erogare al seguente tasso agevolato: 
+ 1) 20 per cento del tasso di riferimento per le operazioni di credito agrario ((e peschereccio)) oltre i 18 mesi per le aziende ricadenti nelle zone svantaggiate di cui all'articolo 32 del regolamento (UE) n. 1305/2013 del Parlamento europeo e del Consiglio, del 17 dicembre 2013; 
+ 2) 35 per cento del tasso di riferimento per le operazioni di credito agrario ((e peschereccio)) oltre i 18 mesi per le aziende ricadenti in altre zone; nell'ammontare del prestito sono comprese le rate delle operazioni di credito in scadenza nei 12 mesi successivi all'evento inerenti all'impresa agricola; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    proroga delle operazioni di credito agrario ((e peschereccio)), di cui all'articolo 7; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    agevolazioni previdenziali, di cui all'articolo 8.
+
 In caso di danni causati alle strutture aziendali ed alle scorte possono essere concessi a titolo di indennizzo contributi in conto capitale fino all'80 per cento dei costi effettivi elevabile al 90 per cento nelle zone svantaggiate di cui all'articolo 32 del regolamento (UE) n. 1305/2013 del Parlamento europeo e del Consiglio, del 17 dicembre 2013;
 
 Sono esclusi dalle agevolazioni previste al presente articolo i danni alle produzioni ed alle strutture ammissibili all'assicurazione agevolata o per i quali e' possibile aderire ai fondi di mutualizzazione. Nel calcolo della percentuale dei danni sono comprese le perdite derivanti da eventi calamitosi, subiti dalla stessa azienda, nel corso dell'annata agraria, che non siano stati oggetto di precedenti benefici. La produzione lorda vendibile per il calcolo dell'incidenza di danno non e' comprensiva dei contributi o delle altre integrazioni concessi dall'Unione europea. (1)
+
+4-bis.
+                        
+                            
+                                Ai sensi della normativa europea sono altresi' esclusi dagli aiuti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    le grandi imprese; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le imprese in difficolta', ad eccezione degli aiuti destinati a indennizzare le perdite causate da avversita' atmosferiche assimilabili a calamita' naturali, a condizione che l'impresa sia diventata un'impresa in difficolta' a causa delle perdite o dei danni causati dagli eventi in questione; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    i soggetti destinatari di un ordine di recupero pendente a seguito di una precedente decisione della Commissione europea che dichiara gli aiuti illegittimi e incompatibili con il mercato interno.
+
+4-ter.
+                        
+                            
+                                Il regime di aiuto deve essere attivato entro tre anni dal verificarsi dell'avversita' atmosferica assimilabile a una calamita' naturale e gli aiuti sono versati ai beneficiari entro quattro anni a decorrere da tale data. Gli aiuti sono concessi nel limite dell'importo dei danni subiti come conseguenza diretta dell'avversita' atmosferica assimilabile a una calamita' naturale e calcolati, a livello di singolo beneficiario, dall'autorita' regionale competente. I danni includono le perdite di reddito dovute alla distruzione completa o parziale della produzione agricola e i danni materiali subiti dalle strutture aziendali quali: immobili, attrezzature e macchinari, scorte, mezzi di produzione. I danni materiali alle strutture aziendali sono calcolati sulla base dei costi di riparazione o del valore economico degli stessi prima del verificarsi dell'avversita' atmosferica assimilabile a una calamita' naturale. Tale calcolo non supera i costi di riparazione o la diminuzione del valore equo di mercato a seguito della calamita', ossia la differenza tra il valore delle strutture immediatamente prima e immediatamente dopo il verificarsi dell'evento eccezionale.
+Ai danni devono essere detratti i costi non sostenuti e possono essere aggiunti eventuali maggiori costi sostenuti dal beneficiario a causa dell'avversita' atmosferica assimilabile alla calamita' naturale. La perdita di reddito a livello di singoli beneficiari e' calcolata sottraendo: il risultato ottenuto moltiplicando i quantitativi di prodotti agricoli ottenuti nell'anno in cui si e' verificata l'avversita' atmosferica assimilabile a una calamita' naturale per il prezzo medio di vendita ricavato nello stesso anno, dal risultato ottenuto moltiplicando i quantitativi di prodotti agricoli ottenuti nei tre anni precedenti l'avversita' atmosferica assimilabile a una calamita' naturale o da una media triennale basata sui cinque anni precedenti l'avversita' atmosferica assimilabile a una calamita' naturale, escludendo il valore piu' basso e quello piu' elevato, per il prezzo medio di vendita ottenuto. La riduzione annua puo' essere calcolata: 
+ 
+                            
+                            
+                                a)
+                                
+                                    tenendo conto della somma delle componenti colture e allevamenti qualora risultino danneggiate entrambe o i danni abbiano interessato le strutture aziendali; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    limitatamente alle singole componenti qualora risultino danneggiate solo le colture o solo gli allevamenti.
 
 Gli aiuti e gli eventuali altri pagamenti ricevuti a titolo di indennizzo delle perdite, compresi quelli percepiti nell'ambito di altre misure nazionali o unionali sono limitati all'80 per cento dei costi ammissibili. L'intensita' di aiuto puo' essere aumentata al 90 per cento nelle zone soggette a vincoli naturali.
 
@@ -185,6 +441,32 @@ Gli elenchi nominativi dei danneggiati, nonche' gli atti contenenti la valutazio
 
 ## Art. 11. — Costituzione e finalita'
 
+1.
+                        
+                            
+                                
+                                    ((Gli Organismi collettivi)) di difesa sono costituiti da imprenditori agricoli per l'attuazione di iniziative di difesa attiva e passiva delle produzioni e devono costituirsi con atto pubblico, adottando una delle seguenti forme giuridiche: 
+ 
+                            
+                            
+                                a)
+                                
+                                    associazioni persone giuridiche di diritto privato; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    societa' cooperative agricole e loro consorzi; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    consorzi di cui all'articolo 2612 e seguenti del codice civile o societa' consortili di cui all'articolo 2615-ter del medesimo codice.
+
 Il riconoscimento di idoneita' allo svolgimento dell'attivita' ((degli organismi collettivi)) e' concesso dalla rispettiva regione o provincia autonoma ed e' limitato al territorio regionale o della provincia autonoma ove l'ente ha la sede legale.
 
 Il riconoscimento di idoneita' puo' essere attribuito altresi' alle cooperative agricole di raccolta, trasformazione e commercializzazione di prodotti agricoli e loro consorzi nonche' altri soggetti giuridici, previa modifica del proprio statuto, al fine di uniformarlo alle regole stabilite per i consorzi di cui al comma 1. Qualora le cooperative predette associno produttori situati in regioni o province autonome diverse, il riconoscimento di idoneita' deve essere attribuito da ciascuna regione o provincia autonoma.
@@ -198,6 +480,39 @@ Il riconoscimento di idoneita' puo' essere attribuito altresi' alle cooperative 
 
 
 Lo statuto, oltre le indicazioni concernenti la denominazione, la sede ed il patrimonio dell'ente, la durata dell'associazione, che non puo' essere inferiore a 10 anni, e gli scopi sociali, deve contenere le norme sull'ordinamento e sull'amministrazione ((dell'Organismo collettivo di difesa)).
+
+3.
+                        
+                            
+                                Lo statuto deve altresi' prevedere: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il diritto alla ammissione per tutti gli imprenditori agricoli, ((...)) aventi i requisiti prescritti ((...)); 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la nomina del collegio sindacale ((...)); 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    
+                                        ((LETTERA ABROGATA DAL D.LGS. 26 MARZO 2018, N. 32)); 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    la riscossione dei contributi consortili che puo' essere eseguita anche mediante ruolo in base alle disposizioni vigenti in materia di esazione dei contributi non erariali.
 
 Le disposizioni di cui alle lettere a),b) ((...)) e d) del ((comma 3)) si applicano anche alle cooperative agricole di raccolta trasformazione e commercializzazione di prodotti agricoli e loro consorzi, riconosciute idonee dalla regione o dalla provincia autonoma per lo svolgimento delle attivita' di difesa attiva e passiva delle colture.
 
@@ -231,6 +546,81 @@ Per gli interventi di cui all'articolo 1, comma 3, lettere b) e c), e' iscritto 
 Per la dotazione finanziaria del Fondo di solidarieta' nazionale-incentivi assicurativi destinato agli interventi di cui all'articolo 1, comma 3, lettera a), si provvede ai sensi dell'articolo 11, comma 3, lettera f), della legge 5 agosto 1978, n. 468, e successive modificazioni. Per la dotazione finanziaria del Fondo di solidarieta' nazionale - interventi indennizzatori, destinato agli interventi di cui all'articolo 1, comma 3, lettere b) e c), si provvede a valere sulle risorse del Fondo di protezione civile, come determinato ai sensi dell'articolo il, comma 3, lettera d), della legge 5 agosto 1978, n. 468, e successive modificazioni, nel limite stabilito annualmente dalla legge finanziaria.
 
 ## Art. 16. — Abrogazione norme
+
+1.
+                        
+                            
+                                A decorrere dalla data di entrata in vigore del presente decreto legislativo sono abrogate le seguenti norme:
+ 
+                            
+                            
+                                a)
+                                
+                                    
+                                        legge 25 maggio 1970, n. 364, salvo quanto previsto dall'articolo 21, comma 6;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    
+                                        legge 15 ottobre 1981, n. 590;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    
+                                        legge 14 febbraio 1992, n. 185;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    
+                                        articolo 7, comma 1-bis, del decreto-legge 25 maggio 1993, n. 158, convertito, con modificazioni, dalla legge 24 luglio 1993, n. 250;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    
+                                        decreto del Presidente della Repubblica 17 maggio 1996, n. 324;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    
+                                        articolo 2, comma 1, del decreto-legge 17 maggio 1996, n. 273, convertito, con modificazioni, dalla legge 18 luglio 1996, n. 380;
+
+                                
+                            
+                            
+                                g)
+                                
+                                    
+                                        articolo 127, commi 1, 4, 5, 6, 7 e 8, della legge 23 dicembre 2000, n. 388;
+
+                                
+                            
+                            
+                                h)
+                                
+                                    
+                                        articolo 69, commi 10 e 11, della legge 27 dicembre 2002, n. 289;
+
+                                
+                            
+                            
+                                i)
+                                
+                                    articoli 1, 1-bis, 2, comma 1, e 4 del decreto-legge 13 settembre 2002, n. 200, convertito, con modificazioni, dalla legge 13 novembre 2002, n. 256.
 
 ## - Capo V Strumenti finanziari
 

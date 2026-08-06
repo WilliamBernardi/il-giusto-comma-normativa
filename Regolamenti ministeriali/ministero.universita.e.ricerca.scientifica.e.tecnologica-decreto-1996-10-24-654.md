@@ -8,8 +8,8 @@ codice_redazionale: 096G0662
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:41Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -30,6 +30,53 @@ Udito il parere del Consiglio universitario nazionale dell'ordine dei dottori co
 Udito il parere del Consiglio di Stato espresso nell'adunanza generale del 21 marzo 1996;
 
 ## Art. 1.
+
+1.
+                    
+                        
+                            L'articolo 8, lettera A), del regolamento sugli esami di Stato di abilitazione all'esercizio delle professioni approvato con decreto ministeriale 9 settembre 1957, pubblicato nella Gazzetta Ufficiale n. 271 del 2 novembre 1957, e' cosi' ulteriormente modificato:
+ A) Per gli esami di abilitazione all'esercizio della professione di dottore commercialista ciascuna commissione e' composta dal presidente e da quattro membri da scegliere tra quattro terne formate da persone appartenenti alle seguenti categorie:
+ 
+                        
+                        
+                            a)
+                            
+                                professori universitari ordinari, straordinari, associati, fuori ruolo ed a riposo;
+
+                            
+                        
+                        
+                            b)
+                            
+                                magistrati ordinari con qualifica e funzioni non inferiori a quelle di consigliere di corte d'appello;
+
+                            
+                        
+                        
+                            c)
+                            
+                                direttori regionali delle entrate del Ministero delle finanze;
+
+                            
+                        
+                        
+                            d)
+                            
+                                direttori di ragioneria provinciale del Ministero del tesoro;
+
+                            
+                        
+                        
+                            e)
+                            
+                                dirigenti amministrativi di complessi industriali, bancari e commerciali che abbiano almeno duecento dipendenti;
+
+                            
+                        
+                        
+                            f)
+                            
+                                professionisti iscritti nell'albo dei dottori commercialisti con non meno di dieci anni di esercizio professionale.
 
 Almeno una di dette terne dovra' essere composta da professori universitari di ruolo, fuori ruolo od a riposo ed un'altra da persone appartenenti alle categorie b), c) e d).
  AVVERTENZA:

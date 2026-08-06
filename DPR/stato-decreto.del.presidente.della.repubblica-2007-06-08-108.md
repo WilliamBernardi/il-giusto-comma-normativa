@@ -8,8 +8,8 @@ codice_redazionale: 007G0122
 vigente: true
 source: normattiva-opendata
 collection: DPR
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:47:54Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -33,6 +33,59 @@ Sulla proposta del Ministro delle politiche per la famiglia, di concerto con i M
 
 Il presente regolamento disciplina la composizione, i compiti, l'organizzazione e il funzionamento della Commissione per le adozioni internazionali di cui all'articolo 38 della legge 4 maggio 1983, n. 184, e successive modificazioni, nonche' i criteri e le procedure per la concessione, la modifica e la revoca dell'autorizzazione agli enti di cui all'articolo 39-ter della medesima legge 4 maggio 1983, n. 184, la tenuta dell'albo e ogni altra modalita' operativa relativa agli stessi.
 
+2.
+                        
+                            
+                                Ai fini del presente regolamento si intende:
+ 
+                            
+                            
+                                a)
+                                
+                                    per «legge sull'adozione», la legge 4 maggio 1983, n. 184, e successive modificazioni;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    per «Convenzione», la Convenzione per la tutela dei minori e la cooperazione in materia di adozione internazionale, fatta a l'Aja il 29 maggio 1993, ratificata con legge 31 dicembre 1998, n. 476;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    per «adozione internazionale», l'adozione di minori stranieri conformemente ai principi e secondo le direttive della Convenzione e della legge sull'adozione;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    per «Commissione», la Commissione per le adozioni internazionali costituita dall'articolo 38 della legge sull'adozione, quale autorita' centrale per l'Italia;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    per «autorita' centrali», le autorita' che negli Stati aderenti alla Convenzione dell'Aja del 29 maggio 1993 svolgono i compiti imposti dalla Convenzione medesima in materia di adozione internazionale;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    per «enti autorizzati», gli enti di cui all'articolo 39-ter della legge sull'adozione e i servizi per l'adozione internazionale istituiti ai sensi dell'articolo 39-bis, comma 2, della stessa legge dalle regioni e dalle province autonome di Trento e di Bolzano;
+
+                                
+                            
+                            
+                                g)
+                                
+                                    per «servizi», i servizi sociali degli enti locali, singoli e associati, i servizi socio-sanitari e i servizi sanitari competenti in materia di adozione.
+
 ## Art. 2. — Finalita' e sede della Commissione per le adozioni internazionali
 
 La Commissione costituita ai sensi dell'articolo 38 della legge sull'adozione e' l'autorita' centrale italiana per le finalita' dell'articolo 6 della Convenzione.
@@ -51,6 +104,94 @@ Il presidente trasmette al Parlamento una relazione biennale sullo stato delle a
 
 ## Art. 4. — Composizione
 
+1.
+                        
+                            
+                                La Commissione e' composta da:
+ 
+                            
+                            
+                                a)
+                                
+                                    un vicepresidente, nominato con decreto del Presidente del Consiglio dei Ministri, su proposta del presidente nella persona di un magistrato avente esperienza nel settore minorile ovvero di un dirigente di prima fascia dell'amministrazione dello Stato o delle amministrazioni regionali avente analoga specifica esperienza, con i compiti di cui al comma 2;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    tre rappresentanti della Presidenza del Consiglio dei Ministri, di cui uno designato dal Ministro per le riforme e l'innovazione nella pubblica amministrazione e uno dal Ministro per i diritti e le pari opportunita';
+
+                                
+                            
+                            
+                                c)
+                                
+                                    un rappresentante del Ministero della solidarieta' sociale;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    un rappresentante del Ministero degli affari esteri;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    un rappresentante del Ministero dell'interno;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    due rappresentanti del Ministero della giustizia;
+
+                                
+                            
+                            
+                                g)
+                                
+                                    un rappresentante del Ministero della salute;
+
+                                
+                            
+                            
+                                h)
+                                
+                                    un rappresentante del Ministero dell'economia e delle finanze;
+
+                                
+                            
+                            
+                                i)
+                                
+                                    un rappresentante del Ministero della pubblica istruzione;
+
+                                
+                            
+                            
+                                l)
+                                
+                                    quattro rappresentanti della Conferenza unificata di cui all'articolo 8 del decreto legislativo 28 agosto 1997, n. 281, e successive modificazioni;
+
+                                
+                            
+                            
+                                m)
+                                
+                                    tre rappresentanti designati, sulla base di criteri indicati con apposito decreto del Presidente del Consiglio dei Ministri o del Ministro delle politiche per la famiglia, da associazioni familiari a carattere nazionale, almeno uno dei quali designato dal Forum delle associazioni familiari, con eccezione degli enti di cui all'articolo 39-ter della legge sull'adozione;
+
+                                
+                            
+                            
+                                n)
+                                
+                                    tre esperti nominati dal Presidente del Consiglio dei Ministri o dal Ministro delle politiche per la famiglia, scelti tra persone di comprovata esperienza nella materia oggetto della legge sull'adozione.
+
 Il vicepresidente sostituisce il presidente in caso di assenza o impedimento ed esercita le funzioni che il presidente gli delega; autorizza l'ingresso e il soggiorno permanente del minore straniero adottato o affidato a scopo di adozione. Puo' adottare, nei casi di urgenza che non permettono la convocazione in tempo utile della Commissione, i provvedimenti di competenza della stessa; tali provvedimenti cessano di avere efficacia sin dal momento della loro adozione se non sono ratificati dalla Commissione nella prima riunione utile successiva.
 
 L'indennita' gia' attribuita al presidente dall'articolo 3-quinquies del decreto-legge 28 maggio 2004, n. 136, convertito, con modificazioni, dalla legge 27 luglio 2004, n. 186, e' attribuita al vicepresidente in relazione ai compiti a lui spettanti in base al presente regolamento. Agli altri componenti della Commissione spetta il rimborso delle spese di viaggio e di soggiorno.
@@ -66,7 +207,134 @@ Il vicepresidente e i componenti durano in carica tre anni e l'incarico puo' ess
 
 In deroga al comma 3, l'incarico degli esperti di cui al comma 1, lettera n), dell'articolo 4 e' confermato annualmente.
 
+5.
+                        
+                            
+                                I componenti cessano dalla carica:
+ 
+                            
+                            
+                                a)
+                                
+                                    per dimissioni, che hanno effetto dalla data di comunicazione al presidente;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    per impossibilita' a svolgere la propria attivita' a causa di un impedimento di natura permanente o comunque superiore a sei mesi; l'impossibilita' e' accertata e dichiarata dal presidente.
+
 ## Art. 6. — Compiti
+
+1.
+                        
+                            
+                                La Commissione svolge le funzioni e i compiti ad essa assegnati dalla legge sull'adozione e dal presente regolamento, ed in particolare:
+ 
+                            
+                            
+                                a)
+                                
+                                    collabora con le autorita' centrali per le adozioni internazionali degli altri Stati, anche raccogliendo le informazioni necessarie, ai fini dell'attuazione delle convenzioni internazionali in materia di adozione;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    propone alla Presidenza del Consiglio dei Ministri la stipulazione di accordi bilaterali in materia di adozione internazionale;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    redige i criteri per l'autorizzazione all'attivita' degli enti previsti dall'articolo 39-ter della legge sull'adozione; autorizza, sulla base dei criteri di cui sopra, l'attivita' degli enti medesimi; cura la tenuta del relativo albo e lo verifica almeno ogni tre anni; vigila sul loro operato; verifica che gli enti siano accreditati nel paese straniero per il quale e' stata concessa l'autorizzazione; puo' limitare l'attivita' degli enti in relazione a particolari situazioni di carattere internazionale; revoca l'autorizzazione concessa nei casi di gravi inadempienze, insufficienze o violazione delle norme vigenti; in particolare revoca l'autorizzazione nei casi in cui i risultati conseguiti attestino la scarsa efficacia dell'azione dell'ente. Le medesime funzioni sono svolte dalla Commissione con riferimento all'attivita' svolta dai servizi per l'adozione internazionale, di cui all'articolo 39-bis della legge sull'adozione, secondo modalita' concordate in sede di Conferenza unificata di cui all'articolo 8 del decreto legislativo 28 agosto 1997, n. 281, e successive modificazioni;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    agisce al fine di assicurare l'omogenea diffusione degli enti autorizzati sul territorio nazionale e delle relative rappresentanze nei Paesi stranieri, favorendone il coordinamento, nonche' la fusione al fine di ridurne complessivamente il numero e migliorarne l'efficacia e la qualita';
+
+                                
+                            
+                            
+                                e)
+                                
+                                    conserva tutti gli atti e le informazioni relativi alle procedure di adozione internazionale;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    promuove la cooperazione fra i soggetti che operano nel campo dell'adozione internazionale e della protezione dei minori;
+
+                                
+                            
+                            
+                                g)
+                                
+                                    promuove iniziative di formazione per quanti operino o intendano operare nel campo dell'adozione;
+
+                                
+                            
+                            
+                                h)
+                                
+                                    prende atto dell'autorizzazione all'ingresso e al soggiorno permanente del minore straniero adottato o affidato a scopo di adozione, disposta dal vicepresidente;
+
+                                
+                            
+                            
+                                i)
+                                
+                                    certifica la conformita' dell'adozione alle disposizioni della Convenzione, come previsto dall'articolo 23, comma 1, della Convenzione stessa;
+
+                                
+                            
+                            
+                                l)
+                                
+                                    per le attivita' di informazione e formazione, collabora anche con enti diversi da quelli di cui all'articolo 39-ter della legge sull'adozione;
+
+                                
+                            
+                            
+                                m)
+                                
+                                    esamina segnalazioni, istanze ed esposti relativi ai procedimenti adottivi in corso;
+
+                                
+                            
+                            
+                                n)
+                                
+                                    provvede ad informare la collettivita' in merito all'istituto dell'adozione internazionale, alle relative procedure, agli enti che curano la procedura di adozione, ai Paesi presso i quali gli stessi possono operare, con indicazione dei costi e dei tempi medi di completamento delle procedure, aggiornati periodicamente e distinti in base ai Paesi di provenienza del minore; predispone strumenti idonei a consentire l'accesso dei soggetti privati e pubblici alle informazioni.
+
+                                
+                            
+                            
+                                o)
+                                
+                                    promuove ogni sei mesi una consultazione con le associazioni familiari a carattere nazionale, individuate sulla base dei criteri adottati dal Presidente del Consiglio dei Ministri o dal Ministro delle politiche per la famiglia, a norma dell'articolo 4, comma 1, lettera m);
+
+                                
+                            
+                            
+                                p)
+                                
+                                    dispone, ove necessario, che gli enti svolgano le attivita' e predispongano i documenti indispensabili per le verifiche post-adozione; a tale fine e' prevista anche la collaborazione dei servizi, secondo modalita' definite in sede di Conferenza unificata di cui all'articolo 8 del decreto legislativo 28 agosto 1997, n. 281, e successive modificazioni;
+
+                                
+                            
+                            
+                                q)
+                                
+                                    stabilisce, anche sulla base dell'attivita' istruttoria svolta da un tavolo tecnico di confronto con i rappresentanti delle regioni e degli enti locali costituito presso la Conferenza unificata di cui all'articolo 8 del decreto legislativo 28 agosto 1997, n. 281, e successive modificazioni, le modalita' per coordinare le attivita' di cooperazione nei Paesi stranieri per la protezione e la promozione dei diritti dei minori, nonche' le attivita' di formazione degli operatori e di informazione.
 
 La decisione dell'ente autorizzato di non concordare con l'autorita' straniera l'opportunita' di procedere all'adozione e' sottoposta ad esame della Commissione, su istanza dei coniugi interessati; ove non confermi il precedente diniego, la Commissione puo' procedere direttamente, o delegando altro ente o ufficio, agli incombenti di cui all'articolo 31 della legge sull'adozione.
 
@@ -114,7 +382,106 @@ Il presidente, il vicepresidente e la Commissione, per lo svolgimento delle atti
 
 La segreteria tecnica si articola in un servizio per le adozioni, e in un servizio per gli affari amministrativi e contabili, cui sono preposti due dirigenti di seconda fascia.
 
+3.
+                        
+                            
+                                Il servizio per le adozioni cura, in particolare:
+ 
+                            
+                            
+                                a)
+                                
+                                    la predisposizione della documentazione per le riunioni della Commissione;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    gli adempimenti necessari per l'istruttoria degli atti della Commissione;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    la predisposizione del servizio di traduzione dei documenti provenienti dall'estero;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    la conservazione degli atti e delle informazioni relative alle procedure di adozione;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    l'assistenza alla Commissione per le attivita' di promozione, cooperazione, informazione e formazione di cui all'articolo 6, comma 1, lettere f), g) e l);
+
+                                
+                            
+                            
+                                f)
+                                
+                                    i rapporti con gli uffici delle amministrazioni interessate e con gli enti autorizzati;
+
+                                
+                            
+                            
+                                g)
+                                
+                                    gli adempimenti relativi alla tenuta dell'albo e alla vigilanza sugli enti autorizzati;
+
+                                
+                            
+                            
+                                h)
+                                
+                                    i rapporti con gli uffici delle altre autorita' centrali per le adozioni internazionali, nonche' con le rappresentanze diplomatiche e consolari per le missioni della Commissione presso tali rappresentanze;
+
+                                
+                            
+                            
+                                i)
+                                
+                                    l'elaborazione di studi e analisi per le proposte relative agli accordi bilaterali.
+
 Il servizio per gli affari amministrativi e contabili provvede agli adempimenti riguardanti l'amministrazione del personale, la gestione delle spese e l'acquisizione di beni e servizi per il funzionamento della Commissione, nonche' agli adempimenti amministrativi e contabili relativi alle attivita' di cooperazione e di sostegno alle adozioni internazionali.
+
+5.
+                        
+                            
+                                La dotazione organica della segreteria tecnica, composta da personale appartenente ai ruoli della Presidenza del Consiglio dei Ministri e di altre amministrazioni pubbliche, collocati in posizione di comando o di fuori ruolo nelle forme previste dai rispettivi ordinamenti, e' quantificata come segue:
+ 
+                            
+                            
+                                a)
+                                
+                                    un dirigente di prima fascia;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    due dirigenti di seconda fascia;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    quattordici unita' di area C (nove unita' con posizione economica C1; tre unita' con posizione economica C2; due unita' con posizione economica C3);
+
+                                
+                            
+                            
+                                d)
+                                
+                                    cinque unita' di area B (tre unita' con posizione economica B2; due unita' con posizione economica B3).
 
 La Commissione, nei limiti delle proprie disponibilita' di bilancio, puo' concludere accordi con enti e organismi, anche al fine di acquisire ulteriori professionalita' necessarie ad adempiere ai propri compiti istituzionali.
 
@@ -128,19 +495,214 @@ Al vicepresidente e agli altri componenti della Commissione spetta l'indennita' 
 
 ## Art. 11. — Istanza di autorizzazione
 
+1.
+                        
+                            
+                                Gli enti che intendono richiedere l'autorizzazione di cui all'articolo 39-ter della legge sull'adozione presentano istanza alla Commissione, sottoscritta dal legale rappresentante, secondo uno schema predisposto dalla Commissione medesima, contenente, tra l'altro, le seguenti indicazioni:
+ 
+                            
+                            
+                                a)
+                                
+                                    il possesso dei requisiti previsti dall'articolo 39-ter della legge sull'adozione;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'elenco e le generalita' delle persone che dirigono l'ente e che operano al suo interno o vi prestano collaborazione, nonche' le relative qualifiche professionali, la formazione ricevuta, le specifiche competenze, le esperienze acquisite nel settore, le qualita' morali possedute. Le qualita' morali possedute sono dichiarate dall'interessato, ai sensi delle vigenti disposizioni, con riferimento alla insussistenza a proprio carico di: sottoposizione a misure di sicurezza personali o a misure di prevenzione; condanne, ancorche' con sentenza non definitiva, per uno dei delitti indicati agli articoli 380 e 381 del codice di procedura penale ovvero dagli articoli 600-bis, 600-ter, 600-quater, 600-quinquies, 609-quater e 609-quinquies del codice penale; condanne con sentenza irrevocabile a pena detentiva non inferiore ad un anno per delitti non colposi. Sono fatti salvi in ogni caso gli effetti della riabilitazione. Agli effetti della dichiarazione prevista dalla presente disposizione, si considera condanna anche l'applicazione delle pena su richiesta delle parti ai sensi dell'articolo 444 del codice di procedura penale;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    l'elenco e le generalita' dei professionisti in ambito sociale, giuridico e psicologico di cui l'ente si avvale, con l'indicazione per ciascuno dell'iscrizione all'albo professionale e delle specifiche competenze nel campo dell'assistenza agli adottanti;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    l'articolazione dell'ente sul territorio nazionale, la sede principale e le eventuali sedi periferiche, nonche' i giorni e gli orari di apertura;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    l'ambito, nazionale, interregionale o regionale, nel quale l'ente intende operare;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    i Paesi stranieri nei quali l'ente intende agire e l'indicazione delle strutture personali e organizzative di cui intende avvalersi in ciascuno di essi;
+
+                                
+                            
+                            
+                                g)
+                                
+                                    le modalita' operative e le attivita' di sostegno e di accompagnamento in favore degli aspiranti all'adozione, comprese quelle concordate con i servizi tramite appositi accordi o protocolli;
+
+                                
+                            
+                            
+                                h)
+                                
+                                    il costo, per ciascun Paese di operativita' dell'ente, dei servizi resi per l'espletamento delle procedure adottive.
+
+2.
+                        
+                            
+                                All'istanza di autorizzazione gli enti devono altresi' allegare:
+ 
+                            
+                            
+                                a)
+                                
+                                    la dichiarazione che l'ente non ha, e si impegna a non avere, pregiudiziali di tipo ideologico, religioso, razziale o di qualsiasi altro genere nei confronti degli aspiranti alla adozione;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la dichiarazione contenente l'impegno a presentare annualmente alla Commissione una relazione sull'attivita' svolta, il bilancio consuntivo, nonche' ulteriori dati forniti secondo uno schema predisposto dalla Commissione;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    una copia dell'atto costitutivo, dal quale risulti la sede legale nel territorio nazionale e l'assenza di finalita' di lucro.
+
 Le regioni e le province autonome di Trento e di Bolzano, in luogo dei documenti di cui ai commi 1 e 2, indicano gli atti legislativi e allegano i provvedimenti amministrativi relativi alla istituzione e disciplina dei servizi per le adozioni internazionali di cui all'articolo 39-bis della legge sull'adozione.
 
 ## Art. 12. — Accertamento dei requisiti
 
 Entro centoventi giorni dalla data di ricevimento dell'istanza di cui all'articolo 11, la Commissione delibera in ordine alla corrispondenza dei requisiti dell'ente a quelli previsti dall'articolo 39-ter della legge sull'adozione. Se ricorrono particolari necessita' istruttorie, i termini per la deliberazione dell'autorizzazione sono prorogati per ulteriori trenta giorni con apposito provvedimento comunicato all'ente istante per l'acquisizione di ulteriori elementi o per sanare eventuali irregolarita'.
 
+2.
+                        
+                            
+                                Con il provvedimento di autorizzazione la Commissione, tenuto conto delle risorse umane ed organizzative dell'ente:
+ 
+                            
+                            
+                                a)
+                                
+                                    indica i Paesi o le aree geografiche in cui l'ente e' autorizzato ad operare, anche in considerazione del numero di enti gia' accreditati e degli accordi bilaterali esistenti;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    puo' limitare l'autorizzazione ad operare in ambito nazionale in una o piu' regioni.
+
 ## Art. 13. — Albo degli enti autorizzati
+
+1.
+                        
+                            
+                                Gli enti autorizzati sono iscritti all'albo di cui all'articolo 6, comma 1, lettera c). L'albo contiene:
+ 
+                            
+                            
+                                a)
+                                
+                                    la denominazione, la sede legale e le sedi operative dell'ente;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    gli estremi dell'atto costitutivo;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il nominativo del legale rappresentante dell'ente;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    la data e gli estremi del provvedimento di autorizzazione.
 
 La Commissione dispone, altresi', la registrazione nell'albo delle modifiche, della sospensione e della cancellazione per revoca dell'autorizzazione.
 
 L'albo, le relative modifiche e i provvedimenti di sospensione e revoca dell'autorizzazione sono pubblicati nella Gazzetta Ufficiale della Repubblica.
 
 ## Art. 14. — Modalita' operative dell'ente autorizzato
+
+1.
+                        
+                            
+                                L'ente autorizzato, oltre a svolgere gli adempimenti disposti dalla legge sull'adozione:
+ 
+                            
+                            
+                                a)
+                                
+                                    tiene un registro cronologico degli incarichi conferitigli e li comunica mensilmente alla Commissione;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    conserva la documentazione relativa agli aspiranti alla adozione;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    trasmette al tribunale per i minorenni competente e alla Commissione la documentazione inerente la situazione degli aspiranti genitori adottivi e del minore proposto per l'adozione, con particolare riguardo alla sua condizione di abbandono, segnalando successivamente anche ai servizi ogni variazione significativa della situazione personale o familiare degli aspiranti genitori adottivi, ai fini delle valutazioni di competenza;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    comunica tempestivamente alla Commissione ogni variazione o modifica riguardante i propri dati, l'attivita' ed i rappresentanti all'estero;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    trasmette entro il 31 gennaio di ogni anno alla Commissione una relazione sulla propria attivita' e ulteriori dati forniti secondo uno schema predisposto dalla Commissione, nonche', entro il 30 giugno, il bilancio consuntivo;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    segnala alla Commissione eventuali difficolta' incontrate nello svolgimento dei procedimenti amministrativi e giudiziari relativi alle adozioni all'estero;
+
+                                
+                            
+                            
+                                g)
+                                
+                                    partecipa alle audizioni richieste dalla Commissione;
+
+                                
+                            
+                            
+                                h)
+                                
+                                    segnala alla Procura della Repubblica presso il tribunale per i minorenni e alla Commissione eventuali situazioni familiari, successive all'adozione, che potrebbero comportare pregiudizio per il minore, informandone i servizi territorialmente competenti.
 
 L'ente autorizzato e' tenuto al rispetto delle disposizioni in materia di trattamento dei dati personali.
 
@@ -154,6 +716,38 @@ La Commissione, anche attraverso incontri con i rappresentanti degli enti, favor
 
 ## Art. 16. — Sanzioni
 
+1.
+                        
+                            
+                                A seguito delle verifiche di cui all'articolo 15, ovvero di accertamenti posti in essere in relazione a segnalazioni o eventi particolari, la Commissione puo':
+ 
+                            
+                            
+                                a)
+                                
+                                    censurare l'ente responsabile di irregolarita';
+
+                                
+                            
+                            
+                                b)
+                                
+                                    prescrivere l'adeguamento delle modalita' operative dell'ente alle previsioni della legge e del presente regolamento;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    disporre la limitazione dell'assunzione di incarichi in relazione, tra l'altro, al numero di procedure adottive pendenti o a segnalazioni degli aspiranti genitori adottivi sulla qualita' del servizio ricevuto;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    disporre la modifica della estensione territoriale della operativita' dell'ente autorizzato in ambito nazionale.
+
 Nei casi piu' gravi, la Commissione puo' sospendere l'autorizzazione per un periodo determinato, assegnando all'ente un termine entro il quale eliminare le irregolarita'; trascorso detto termine senza che l'ente abbia provveduto, la Commissione procede alla revoca dell'autorizzazione.
 
 Qualora venga accertato il venire meno di requisiti che hanno determinato il rilascio dell'autorizzazione, o qualora l'attivita' svolta dall'ente non sia rispondente ai principi e alle disposizioni della Convenzione, della legge sull'adozione e del presente regolamento, la Commissione dispone la revoca dell'autorizzazione.
@@ -163,6 +757,24 @@ I provvedimenti di cui ai commi 1, 2 e 3 sono adottati nel rispetto delle norme 
 In caso di revoca o sospensione dell'attivita', le procedure di adozione in carico all'ente sono proseguite a cura della Commissione, che puo' avvalersi di esperti e consulenti, stipulare apposite convenzioni e concludere accordi con altri enti, nei limiti delle proprie disponibilita' di bilancio.
 
 ## Art. 17. — Richieste di riesame
+
+1.
+                        
+                            
+                                Gli enti interessati possono presentare, a firma del legale rappresentante, entro trenta giorni dalla comunicazione del provvedimento, richiesta di riesame alla Commissione contro:
+ 
+                            
+                            
+                                a)
+                                
+                                    i provvedimenti di diniego di rilascio dell'autorizzazione a svolgere pratiche inerenti all'adozione di minori stranieri;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    i provvedimenti di cui ai commi 1, 2 e 3 dell'articolo 16.
 
 I soggetti interessati possono presentare richiesta di riesame contro le deliberazioni della Commissione relative alla autorizzazione al visto di ingresso e alle certificazioni di conformita'.
 

@@ -8,8 +8,8 @@ codice_redazionale: 000G0305
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti governativi
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:10Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -31,6 +31,31 @@ Sulla proposta del Ministro della pubblica istruzione, del Ministro del lavoro e
 
 Il presente regolamento disciplina l'attuazione dell'articolo 68 della legge 17 maggio 1999, n. 144, istitutivo dell'obbligo di frequenza di attivita' formative fino al diciottesimo anno di eta', con riferimento alle attivita' di competenza dello Stato.
 
+2.
+                    
+                        
+                            L'obbligo di cui al comma 1, di seguito denominato obbligo formativo, puo' essere assolto in percorsi, anche integrati, di istruzione e formazione:
+ 
+                        
+                        
+                            a)
+                            
+                                nel sistema di istruzione scolastica;
+
+                            
+                        
+                        
+                            b)
+                            
+                                nel sistema della formazione professionale di competenza regionale;
+
+                            
+                        
+                        
+                            c)
+                            
+                                nell'esercizio dell'apprendistato.
+
 Nelle attivita' formative di cui al comma 2, lettera a), per quanto riguarda i percorsi integrati di cui all'articolo 7, analogamente a quanto previsto per le attivita' formative di cui alla lettera c) dell'articolo 17, comma 1, della legge 24 giugno 1997, n. 196, ed ai relativi decreti attuativi, si deve tener conto delle esigenze di formazione in materia di prevenzione e tutela della salute e della sicurezza sul lavoro, anche in relazione all'organizzazione del lavoro, con particolare riferimento agli specifici rischi correlati allo svolgimento delle attivita' oggetto di formazione.
 
 I contratti di lavoro, diversi da quelli di apprendistato, in cui siano parte giovani, devono comunque assicurare la possibilita' di frequenza delle attivita' formative di cui alle lettere a) e b) del comma 2.
@@ -41,6 +66,31 @@ Ai fini del presente regolamento per "istituzioni scolastiche" si intendono le s
 Essi sono sede dell'assolvimento dell'obbligo formativo nel sistema dell'istruzione.
 
 ## Art. 2. — Attuazione progressiva
+
+1.
+                    
+                        
+                            Il presente decreto si applica progressivamente nei confronti dei giovani presenti nel territorio dello Stato che:
+ 
+                        
+                        
+                            a)
+                            
+                                nell'anno 2000 compiono 15 anni e hanno assolto l'obbligo di istruzione;
+
+                            
+                        
+                        
+                            b)
+                            
+                                nell'anno 2001 compiono 15 anni e 16 anni;
+
+                            
+                        
+                        
+                            c)
+                            
+                                a partire dall'anno 2002 compiono 15 anni, 16 anni e 17 anni.
 
 I giovani che nell'anno 2000 compiono 15, 16 e 17 anni possono volontariamente accedere ai servizi per l'impiego competenti per territorio per usufruire dei servizi di orientamento, di supporto e di tutoraggio.
 
@@ -87,6 +137,24 @@ E' fatto salvo il disposto dell'articolo 4, comma 6, del decreto del Presidente 
 ## Art. 7. — Percorsi integrati
 
 Le istituzioni scolastiche, anche sulla base delle intese di cui all'articolo 6, comma 1, del regolamento emanato con decreto del Ministro della pubblica istruzione 9 agosto 1999, n. 323, e nel quadro della programmazione dell'offerta formativa integrata di cui all'articolo 138, comma 1, lettera a), del decreto legislativo 31 marzo 1998, n. 112, possono progettare e realizzare percorsi formativi integrati. Tali percorsi, che sono realizzati in convenzione con agenzie di formazione professionale o con altri soggetti idonei, pubblici e privati, devono essere progettati in modo da potenziare le capacita' di scelta degli alunni e di consentire i passaggi tra il sistema di istruzione e quello della formazione professionale.
+
+2.
+                    
+                        
+                            Le tipologie fondamentali dei percorsi formativi integrati promossi dalle istituzioni scolastiche sono le seguenti:
+ 
+                        
+                        
+                            a)
+                            
+                                percorsi con integrazione curricolare, a norma dell'articolo 8, comma 5, del decreto del Presidente della Repubblica 8 marzo 1999, n. 275, in esito ai quali si consegue il diploma di istruzione secondaria superiore e una qualifica professionale;
+
+                            
+                        
+                        
+                            b)
+                            
+                                percorsi con arricchimento curricolare, a norma dell'articolo 9, comma 2, del decreto del Presidente della Repubblica 8 marzo 1999, n. 275, in esito ai quali si consegue il diploma di istruzione secondaria superiore e la certificazione di crediti spendibili nella formazione professionale.
 
 ## Art. 8. — Certificazioni finali e intermedie e raccordo tra sistemi informativi
 

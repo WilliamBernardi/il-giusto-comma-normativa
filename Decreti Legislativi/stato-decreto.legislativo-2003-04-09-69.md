@@ -8,8 +8,8 @@ codice_redazionale: 003G0094
 vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:22Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -25,7 +25,109 @@ Sulla proposta del Ministro per le politiche comunitarie e del Ministro dell'eco
 
 Il presente decreto fissa le norme di mutua assistenza per il recupero dei Crediti sorti in un altro Stato membro, nelle materie di cui al successivo comma 2.
 
+2.
+                    
+                        
+                            Le disposizioni del presente decreto si applicano ai crediti relativi:
+
+
+                        
+                        
+                            a)
+                            
+                                alle restituzioni, agli interventi ed alle altre misure che fanno parte del sistema di finanziamento integrale o parziale del Fondo europeo agricolo di orientamento e di garanzia, ivi compresi gli importi da riscuotere nel quadro di queste azioni;
+                            
+                        
+                        
+                            b)
+                            
+                                ai contributi ed agli altri dazi previsti nell'ambito dell'organizzazione comune dei mercati nel settore dello zucchero;
+                            
+                        
+                        
+                            c)
+                            
+                                ai dazi all'importazione;
+                            
+                        
+                        
+                            d)
+                            
+                                ai dazi all'esportazione;
+                            
+                        
+                        
+                            e)
+                            
+                                all'imposta sul valore aggiunto;
+                            
+                        
+                        
+                            f)
+                            
+                                alle accise sui tabacchi lavorati, sull'alcole e bevande alcoliche e sugli oli minerali;
+                            
+                        
+                        
+                            g)
+                            
+                                alle imposte sul reddito e sul capitale;
+                            
+                        
+                        
+                            h)
+                            
+                                alle imposte sui premi assicurativi;
+                            
+                        
+                        
+                            i)
+                            
+                                agli interessi, alle penali e sanzioni amministrative, e alle spese relativi ai crediti di cui alle lettere da a) a h), con l'esclusione di qualsiasi sanzione pecuniaria di natura penale determinata dalla normativa vigente nello Stato membro in cui ha sede l'autorita' adita.
+
 ## Art. 2. — Definizioni
+
+1.
+                    
+                        
+                            Ai fini del presente decreto si intende per:
+
+
+                        
+                        
+                            a)
+                            
+                                "autorita' richiedente", l'autorita' competente di uno Stato membro che presenta una domanda di assistenza per uno dei crediti di coi all'articolo 1;
+                            
+                        
+                        
+                            b)
+                            
+                                "autorita' adita", l'autorita' competente di uno Stato membro a ricevere una domanda di assistenza per uno dei crediti di cui all'articolo 1;
+                            
+                        
+                        
+                            c)
+                            
+                                "dazi all'importazione", i dazi doganali e gli oneri che hanno effetto equivalente sulle importazioni, nonche' gli oneri previsti all'importazione nell'ambito della politica agricola comune o le disposizioni specifiche relative a determinati prodotti derivanti dalla trasformazione di prodotti agricoli;
+                            
+                        
+                        
+                            d)
+                            
+                                "dazi all'esportazione", i dazi doganali e gli oneri che hanno effetto equivalente sulle esportazioni, nonche' gli oneri previsti all'esportazione nell'ambito della politica agricola comune o le disposizioni specifiche relative a determinati prodotti derivanti dalla trasformazione di prodotti agricoli;
+                            
+                        
+                        
+                            e)
+                            
+                                "imposte sul reddito e sul capitale", le imposte di cui al combinato disposto dell'articolo 1, paragrafi 3 e 4 della direttiva 77/799/CEE, recepita con decreto del Presidente della Repubblica 5 giugno 1982, n. 506;
+                            
+                        
+                        
+                            f)
+                            
+                                "imposte sui premi assicurativi", le imposte di cui all'allegato A, nonche' i crediti relativi a quelle di natura identica o analoga che saranno aggiunte a dette imposte o ad esse sostituite.
 
 Il Ministero dell'economia e delle finanze comunica agli altri Stati membri ed alla Commissione Europea, le date di entrata in vigore delle imposte di natura identica o analoga che saranno aggiunte o sostituite alle imposte di cui al comma 1, lettera f).
 
@@ -53,6 +155,78 @@ Il Ministero dell'economia e delle finanze informa immediatamente l'autorita' ri
 
 Su domanda dell'autorita' richiedente, il Ministero dell'economia e delle finanze da' corso, sulla base dei titoli esecutivi ricevuti, al recupero dei crediti di cui all'articolo 1 sorti nello Stato membro in cui essa ha sede, secondo la normativa vigente per il recupero dei crediti analoghi sorti nel territorio nazionale; detti titoli, che hanno diretta ed immediata efficacia esecutiva, sono equiparati ai ruoli di cui al decreto del Presidente della Repubblica 29 settembre 1973, n. 602.
 
+2.
+                    
+                        
+                            L'autorita' richiedente puo' formulare una domanda di recupero soltanto:
+
+
+                        
+                        
+                            a)
+                            
+                                se il credito o il titolo che ne permette l'esecuzione non sono contestati nello Stato membro in cui essa ha sede, salva l'espressa volonta' di procedere comunque al recupero in caso di contestazione;
+                            
+                        
+                        
+                            b)
+                            
+                                quando essa ha avviato, nello Stato membro in cui ha sede, le procedure di recupero e nel caso in cui le misure adottate non porteranno al pagamento integrale del credito.
+
+3.
+                    
+                        
+                            La domanda contiene:
+
+
+                        
+                        
+                            a)
+                            
+                                il nome, la denominazione o ragione sociale, l'indirizzo o la sede e qualsiasi altro dato utile ai fini dell'identificazione delle persone fisiche, delle persone giuridiche o di terzi debitori che detengono beni patrimoniali;
+                            
+                        
+                        
+                            b)
+                            
+                                il nome, l'indirizzo e qualsiasi altro dato utile ai fini dell'identificazione dell'autorita' richiedente;
+                            
+                        
+                        
+                            c)
+                            
+                                il titolo esecutivo in base al quale si richiede il recupero, emesso nello Stato membro in cui ha sede l'autorita' richiedente;
+                            
+                        
+                        
+                            d)
+                            
+                                la natura e l'importo del credito, specificando la somma dovuta a titolo di capitale, interessi, eventuali penali, ammende e spese, nelle monete degli Stati membri in cui hanno sede l'autorita' richiedente e quella adita;
+                            
+                        
+                        
+                            e)
+                            
+                                la data di notificazione del titolo esecutivo all'interessato da parte dell'autorita' richiedente o dell'autorita' adita;
+                            
+                        
+                        
+                            f)
+                            
+                                l'indicazione della data a decorrere dalla quale e il periodo durante il quale e' possibile, secondo le disposizioni vigenti nello Stato membro richiedente, procedere al recupero;
+                            
+                        
+                        
+                            g)
+                            
+                                la dichiarazione che il credito ed il titolo esecutivo non sono contestati nello Stato richiedente ovvero l'espressa volonta', in presenza di contestazione, di recuperare comunque il credito. In ogni caso la richiesta deve contenere la dichiarazione che la procedura di recupero e' stata avviata nello Stato membro richiedente e che non portera' al pagamento integrale del credito;
+                            
+                        
+                        
+                            h)
+                            
+                                ogni altra informazione utile.
+
 L'autorita' richiedente invia all'autorita' adita, non appena ne sia a conoscenza, ogni informazione utile relativa al caso che ha motivato la domanda di recupero.
 
 La domanda di recupero di un credito deve essere accompagnata dall'originale o da una copia conforme del titolo esecutivo emesso nell'altro Stato membro e dagli altri documenti ritenuti necessari ai fini del recupero del credito. La domanda, il titolo esecutivo e gli altri eventuali documenti devono essere corredati da una traduzione in lingua italiana.
@@ -77,6 +251,24 @@ Lo Stato membro in cui ha sede l'autorita' richiedente resta responsabile, nei c
 
 ## Art. 7. — Misure cautelari
 
+1.
+                    
+                        
+                            Il Ministero dell'economia e delle finanze procede all'adozione delle misure cautelari per garantire il recupero di un credito secondo le disposizioni legislative o regolamentari vigenti:
+
+
+                        
+                        
+                            a)
+                            
+                                su domanda motivata dell'autorita' richiedente;
+                            
+                        
+                        
+                            b)
+                            
+                                ove lo ritenga necessario, nel caso di cui all'articolo 6, comma 1.
+
 Ai fini dell'adozione delle misure cautelari di cui al comma 1 si applicano, in quanto compatibili, l'articolo 5, commi 1, 3, lettere a), b), c), d), e) f) e h), 4 e 9, l'articolo 6, commi 1 e 2, e l'articolo 8.
 
 ## Art. 8. — Esclusione dell'assistenza
@@ -90,6 +282,30 @@ Il Ministero dell'economia e delle finanze informa l'autorita' richiedente e la 
 I crediti di cui all'articolo 1 non godono del grado di prelazione dei crediti analoghi sorti nel territorio nazionale.
 
 La prescrizione dei crediti e' regolata dalle disposizioni vigenti nello Stato in cui sono sorti. Agli effetti della sospensione e dell'interruzione della prescrizione, gli atti di recupero eseguiti nello Stato al quale e' stata rivolta la domanda di assistenza si considerano posti in essere nello Stato in cui il credito e' sorto.
+
+3.
+                    
+                        
+                            I documenti e le informazioni ricevuti dall'autorita' richiedente sono comunicati soltanto:
+
+
+                        
+                        
+                            a)
+                            
+                                alla persona cui si fa riferimento nella domanda di assistenza;
+                            
+                        
+                        
+                            b)
+                            
+                                agli organi e agli uffici incaricati del recupero dei crediti e solo ai fini del recupero stesso;
+                            
+                        
+                        
+                            c)
+                            
+                                alle autorita' giudiziarie competenti per le azioni di recupero dei crediti.
 
 Nell'applicazione delle disposizioni del presente decreto, sono fatti salvi gli Accordi o le Convenzioni con gli Stati membri, resi esecutivi nel territorio nazionale, che prevedono un'assistenza reciproca piu' ampia.
 

@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
 vigenza_date: 2002-03-16
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:42Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -91,4 +91,33 @@ Restano, comunque, salvi i provvedimenti di concessione disposti fino alla data 
 Qualora le domande di assegno per il nucleo familiare, presentate prima dell'entrata in vigore del presente regolamento, siano state rigettate per mancanza del requisito relativo alla presenza nella famiglia anagrafica del genitore richiedente di tre propri figli minori e il diniego del comune sia stato comunicato oltre la scadenza del termine stabilito per la presentazione della domanda, ovvero nei trenta giorni precedenti la scadenza di detto termine, e dagli atti del procedimento risulti che l'altro genitore dei tre figli minori faceva parte dello stesso nucleo familiare ai fini ISE ed aveva i requisiti personali per la concessione del beneficio, il comune puo' provvedere a detta concessione, a condizione che il genitore avente diritto ne faccia richiesta entro il termine perentorio di sessanta giorni dall'entrata in vigore del presente regolamento. La misura dell'assegno e' comunque stabilita sulla base della situazione economica dichiarata dal soggetto che ha presentato la prima domanda. Alle medesime condizioni, l'eventuale irregolare erogazione dell'assegno che sia avvenuta in favore del genitore non avente diritto non comporta revoca del provvedimento, se il genitore avente diritto lo consente entro il termine perentorio di sessanta giorni dall'entrata in vigore del presente regolamento.
 
 In via di prima applicazione, per l'assegno per il nucleo familiare relativo all'anno 2001, i soggetti che siano cessati dal diritto a proporre domanda prima dell'entrata in vigore del presente regolamento per il venir meno del requisito della presenza dei tre figli minori nella famiglia anagrafica, possono ugualmente proporre domanda, per il periodo in cui il suddetto requisito si e' verificato, entro il termine perentorio di sessanta giorni dall'entrata in vigore del presente regolamento.
+
+6.
+                    
+                        
+                            Al decreto del Ministro per la solidarieta' sociale 21 dicembre 2000, n. 452, sono apportate le seguenti modifiche di riferimenti normativi:
+
+                        
+                        
+                            a)
+                            
+                                all'articolo 7, comma 4, le parole: "ai sensi della legge 4 gennaio 1968, n. 15, e successive modificazioni, nonche' del decreto del Presidente della Repubblica 20 ottobre 1998, n. 403" sono sostituite dalle seguenti: "ai sensi del decreto del Presidente della Repubblica 28 dicembre 2000, n. 445";
+                            
+                        
+                        
+                            b)
+                            
+                                all'articolo 13, comma 4, le parole: "a norma della legge n. 15 del 1968 e del decreto del Presidente della Repubblica n. 403 del 1998" sono sostituite dalle seguenti: "a norma del decreto del Presidente della Repubblica n. 445 del 2000";
+                            
+                        
+                        
+                            c)
+                            
+                                all'articolo 13, comma 6, le parole: "a norma della legge n. 15 del 1968 e del decreto del Presidente della Repubblica n. 403 del 1998" sono sostituite dalle seguenti: "a norma del decreto del Presidente della Repubblica n. 445 del 2000";
+                            
+                        
+                        
+                            d)
+                            
+                                all'articolo 14, comma 3, le parole: "a norma della legge n. 15 del 1968" sono sostituite dalle seguenti: "a norma del decreto del Presidente della Repubblica n. 445 del 2000".
 

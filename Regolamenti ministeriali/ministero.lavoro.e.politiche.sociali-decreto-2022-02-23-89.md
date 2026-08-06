@@ -7,8 +7,8 @@ urn: urn:nir:ministero.lavoro.e.politiche.sociali:decreto:2022-02-23;89
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:38Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -44,6 +44,24 @@ Possono fruire del credito d'imposta di cui all'articolo 1 le persone fisiche, g
 
 ## Art. 3. — Ambito oggettivo di applicazione
 
+1.
+                    
+                        
+                            Sono ammesse al credito d'imposta le erogazioni liberali destinate ed utilizzate per sostenere il recupero delle seguenti categorie di beni assegnati agli enti del Terzo settore, indicati all'articolo 4, comma 1, del Codice, in forma singola o in partenariato tra loro: 
+ 
+                        
+                        
+                            a)
+                            
+                                immobili pubblici inutilizzati; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                beni mobili e immobili confiscati alla criminalita' organizzata, ai sensi del decreto legislativo 6 settembre 2011, n. 159.
+
 I beni oggetto degli interventi di recupero di cui al comma 1 sono quelli utilizzati da parte degli enti del Terzo settore in via esclusiva per lo svolgimento di una o piu' attivita' di interesse generale indicate nell'articolo 5 del Codice, con modalita' non commerciali, ai sensi dell'articolo 79, commi 2, 2-bis, 3 e 6 del medesimo Codice.
 
 Per il recupero di beni immobili, le erogazioni liberali sono ammesse al credito d'imposta in ragione degli interventi edilizi di cui all'articolo 3, comma 1, lettere a), b), c) e d) del decreto del Presidente della Repubblica 6 giugno 2001, n. 380, finalizzati ad assicurarne il riutilizzo e funzionali allo svolgimento di una o piu' attivita' di interesse generale, di cui al comma 2 del presente articolo. Le erogazioni liberali possono altresi' sostenere le spese di gestione dei beni, anche al fine di assicurarne l'efficienza funzionale.
@@ -75,9 +93,122 @@ L'individuazione dei progetti di recupero sostenibili mediante le erogazioni lib
 
 ## Art. 7. — Requisiti di partecipazione
 
+1.
+                    
+                        
+                            Costituiscono requisiti di partecipazione al procedimento di individuazione dei progetti di recupero: 
+ 
+                        
+                        
+                            a)
+                            
+                                il possesso del requisito soggettivo di cui all'articolo 4, comma 1, del Codice; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                l'idoneita' dei poteri del legale rappresentante dell'ente proponente il progetto alla sottoscrizione degli atti relativi al procedimento di individuazione; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                l'insussistenza, nei confronti del rappresentante legale e dei componenti degli organi di amministrazione dell'ente, delle cause di divieto, di sospensione o di decadenza di cui all'articolo 67 del decreto legislativo 6 settembre 2011, n. 159; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                la regolarita' dell'ente riguardo agli obblighi relativi al pagamento dei contributi previdenziali ed assistenziali in favore dei lavoratori; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                la regolarita' dell'ente riguardo agli obblighi relativi al pagamento delle imposte, dirette ed indirette, e delle tasse; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                la regolarita' dell'ente riguardo all'obbligo di assicurazione dei volontari di cui all'articolo 18, comma 1 del Codice; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                l'avvenuta assegnazione del bene all'ente.
+
 In caso di partenariato, l'ente del Terzo settore individuato dai componenti del partenariato quale ente capofila e' considerato l'ente proponente. I requisiti di cui al comma 1 devono essere posseduti da tutti gli enti del Terzo settore componenti il partenariato, salvo quello di cui alla lettera g), che deve essere posseduto dal soggetto proponente.
 
 ## Art. 8. — Avvio del procedimento
+
+1.
+                    
+                        
+                            Ciascun ente proponente presenta al Ministero del lavoro e delle politiche sociali - Direzione generale del Terzo settore e della responsabilita' sociale delle imprese - l'istanza di partecipazione al procedimento di cui all'articolo 6, accompagnata dai seguenti documenti: 
+ 
+                        
+                        
+                            a)
+                            
+                                dichiarazioni sostitutive rese ai sensi degli articoli 46 e 47 del decreto del Presidente della Repubblica 28 dicembre 2000, n. 445, concernenti il possesso dei requisiti di partecipazione di cui all'articolo 7, in capo all'ente proponente e agli eventuali partner; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                scheda anagrafica dell'ente proponente e degli eventuali partner; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                almeno due fotografie del bene oggetto dell'intervento; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                scheda descrittiva del progetto, con l'indicazione specifica della tipologia di interventi che si intendono realizzare, secondo la classificazione indicata all'articolo 3, comma 3, delle attivita' di interesse generale che si intendono svolgere in via esclusiva e con modalita' non commerciali, dei beneficiari diretti delle attivita' e del loro numero, nonche' dell'eventuale previsione della valutazione dell'impatto sociale degli effetti conseguiti dalle attivita' d'interesse generale da svolgere, ai sensi del decreto del Ministro del lavoro e delle politiche sociali del 23 luglio 2019; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                computo metrico - estimativo dei costi con prezzi unitari ricavati dai vigenti prezzari o, in mancanza, dai listini ufficiali vigenti nell'area interessata; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                cronoprogramma degli interventi; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                copia del provvedimento amministrativo di assegnazione del bene; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                copia del documento di identita' del legale rappresentante dell'ente proponente e degli eventuali partner.
 
 Le istanze sono presentate entro il 15 gennaio, il 15 maggio e il 15 settembre di ciascun anno.
 
@@ -85,9 +216,88 @@ Con provvedimento del direttore generale del terzo settore e della responsabilit
 
 ## Art. 9. — Esame dei progetti
 
+1.
+                    
+                        
+                            Le istanze pervenute entro ciascuna delle scadenze di cui all'articolo 8, comma 2 sono esaminate da una commissione nominata con decreto del direttore generale del terzo settore e della responsabilita' sociale delle imprese, composta da: 
+ 
+                        
+                        
+                            a)
+                            
+                                un rappresentante del Ministero del lavoro e delle politiche sociali, con funzioni di presidente; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                un rappresentante del Ministero dell'economia e delle finanze; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                un rappresentante del Ministero della cultura; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                un rappresentante dell'Agenzia nazionale per l'amministrazione e la destinazione dei beni sequestrati e confiscati alla criminalita' organizzata; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                un rappresentante dell'Agenzia del Demanio; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                un rappresentante dell'Associazione nazionale dei comuni italiani (ANCI); 
+
+                            
+                        
+                        
+                            g)
+                            
+                                un rappresentante designato dall'associazione di enti del Terzo settore piu' rappresentativa sul territorio nazionale, in ragione del numero di enti del Terzo settore che vi aderiscono. 
+ Per ogni componente effettivo della commissione e' nominato un supplente.
+
 Ai componenti della commissione si applica l'articolo 35-bis del decreto legislativo 30 marzo 2001, n. 165. La partecipazione alla commissione e' gratuita e ai suoi componenti non e' corrisposto alcun compenso, indennita', rimborso spese o emolumento comunque denominato.
 
 La commissione di cui al comma 1 e' regolarmente costituita con la presenza di almeno due terzi dei componenti e delibera a maggioranza dei presenti. In caso di parita' dei voti, prevale il voto del presidente.
+
+4.
+                    
+                        
+                            La commissione verifica: 
+ 
+                        
+                        
+                            a)
+                            
+                                la sussistenza dei requisiti di partecipazione previsti dall'articolo 7; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                la sussistenza dei presupposti previsti dall'articolo 81 del Codice, relativamente alla natura dei beni oggetto di intervento, all'assegnazione del bene all'ente proponente, alla destinazione in via esclusiva allo svolgimento di attivita' di interesse generale, alla non commercialita' dell'esercizio delle stesse, nonche' alla tipologia di interventi indicati all'articolo 3, comma 3, del presente regolamento; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                la completezza della documentazione indicata nell'articolo 8, comma 1.
 
 In caso di riscontrata carenza di elementi documentali, il Ministero puo' assegnare all'ente proponente un termine non superiore a 15 giorni per l'integrazione della documentazione.
 
@@ -102,9 +312,129 @@ Gli enti del Terzo settore titolari dei progetti di recupero ammessi ai sensi de
 
 Con il provvedimento di cui all'articolo 8, comma 3, e' adottata la modulistica relativa alla rendicontazione di cui al comma 1 del presente articolo.
 
+3.
+                    
+                        
+                            Gli enti di cui al comma 1 inseriscono nel portale «socialbonus.gov.it», gestito dal Ministero del lavoro e delle politiche sociali, le seguenti informazioni relative al progetto di recupero ammesso: 
+ 
+                        
+                        
+                            a)
+                            
+                                descrizione del bene e sua localizzazione; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                ente proprietario; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                descrizione degli interventi previsti e realizzati; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                estremi dei titoli abilitativi richiesti dalla vigente normativa in materia edilizia, culturale e paesaggistica, ai fini della realizzazione degli interventi; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                il costo previsto per la realizzazione degli interventi; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                gli importi ricevuti mediante le erogazioni liberali; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                l'ammontare delle spese effettuate con le risorse finanziarie provenienti dalle erogazioni liberali; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                l'ammontare dei fondi pubblici erogati, per le medesime finalita' di sostegno di cui all'articolo 3, comma 1, dalle pubbliche amministrazioni di cui all'articolo 1, comma 2, del decreto legislativo 30 marzo 2001, n. 165 e dai soggetti di cui all'articolo 2-bis del decreto legislativo 14 marzo 2013, n. 33, con l'indicazione dei soggetti eroganti; 
+
+                            
+                        
+                        
+                            i)
+                            
+                                le attivita' di interesse generale da svolgere o svolte mediante l'utilizzo del bene e i soggetti fruitori; 
+
+                            
+                        
+                        
+                            l)
+                            
+                                la pagina del sito web dell'ente titolare del progetto dove sono pubblicate le informazioni di cui al comma 4.
+
 Gli enti di cui al comma 1 pubblicano annualmente e tengono aggiornati nel proprio sito internet o, in mancanza, nel sito internet della rete associativa di cui all'articolo 41 del Codice cui aderiscono, le informazioni relative al totale degli importi ricevuti nell'anno precedente mediante le erogazioni liberali e delle spese con queste sostenute.
 
 ## Art. 11. — Spese eleggibili
+
+1.
+                    
+                        
+                            I proventi delle erogazioni liberali possono essere utilizzati per le seguenti spese: 
+ 
+                        
+                        
+                            a)
+                            
+                                progettazione, studi, direzione lavori, coordinamento della sicurezza in fase di progettazione e di esecuzione; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                rilievi, accertamenti, indagini; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                manutenzione ordinaria e straordinaria, ristrutturazione, consolidamento statico, restauro; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                opere di sistemazione degli spazi esterni alla struttura oggetto di recupero; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                impianti tecnologici, allacciamenti a pubblici servizi, attrezzature, allestimenti ed altre forniture di beni connessi e funzionali alla realizzazione degli interventi; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                funzionamento del bene (utenze, spese condominiali, pulizie, tributi).
 
 Sono rendicontabili le spese effettivamente sostenute dall'ente del Terzo settore e per le quali e' stata rilasciata regolare quietanza a decorrere dalla data di pubblicazione del provvedimento di cui all'articolo 9, comma 6.
 
@@ -121,6 +451,45 @@ Le Amministrazioni competenti comunicano tra loro gli esiti delle rispettive att
 Il Ministero del lavoro e delle politiche sociali e l'Agenzia delle Entrate rendono reciprocamente disponibili, secondo modalita' e specifiche concordate, i dati e le informazioni concernenti l'accesso al social bonus, con l'indicazione degli interventi ammessi al sostegno, dei soggetti beneficiari delle erogazioni liberali e dei soggetti fruitori del credito d'imposta. Il Ministero del lavoro e delle politiche sociali cura il monitoraggio dell'applicazione del social bonus, anche al fine di verificare la congruita' e sostenibilita' della misura e valutarne l'impatto.
 
 ## Art. 13. — Revoca del provvedimento di approvazione
+
+1.
+                    
+                        
+                            Il Ministero del lavoro e delle politiche sociali, sentito l'ufficio dell'Agenzia delle Entrate territorialmente competente, dispone la revoca, totale o parziale, del provvedimento di approvazione dell'elenco dei progetti di recupero ammessi, qualora l'ente titolare del progetto o uno dei suoi eventuali partners: 
+ 
+                        
+                        
+                            a)
+                            
+                                perda il requisito soggettivo di legittimazione previsto dall'articolo 4, comma 1, del Codice; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                non sia in regola con gli obblighi assicurativi dei volontari, impiegati nelle attivita' di interesse generale svolte attraverso l'utilizzo dei beni di cui all'articolo 3; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                compia gravi irregolarita' contabili; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                utilizzi il bene per lo svolgimento di attivita' diverse da quelle di interesse generale previste nel progetto di recupero; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                eserciti le attivita' di interesse generale previste nel progetto di recupero con modalita' commerciali.
 
 Il provvedimento di revoca e' pubblicato, ai sensi dell'articolo 32 della legge 18 giugno 2009, n. 69, nel sito istituzionale del Ministero del lavoro e delle politiche sociali www.lavoro.gov.it - sezione «Pubblicita' legale».
 

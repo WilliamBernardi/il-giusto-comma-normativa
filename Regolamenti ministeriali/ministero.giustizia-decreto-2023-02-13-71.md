@@ -7,8 +7,8 @@ urn: urn:nir:ministero.giustizia:decreto:2023-02-13;71
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:39Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -37,6 +37,27 @@ All'articolo 4 del decreto del Ministro della giustizia 19 gennaio 2016, n. 63, 
 
 ## Art. 2. — Modifiche alla disciplina 
  delle prove di esame
+
+1.
+                    
+                        
+                            All'articolo 5 del decreto del Ministro della giustizia 19 gennaio 2016, n. 63, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 1: 
+ 1) alle lettere a) e b), le parole «consiste nello svolgimento di un tema» sono sostituite dalle seguenti: «verte»; 
+ 2) alla lettera d), le parole «su tutte le» sono sostituite dalle seguenti: «sulle».
+                                
+                            
+                        
+                        
+                            b)
+                            
+                                
+                                    dopo comma 1 e' aggiunto il seguente: «1-bis. Il bando per l'ammissione all'esame di idoneita' professionale per l'esercizio della revisione legale contiene indicazioni sulla modalita' con la quale e' svolta ciascuna delle prove di cui al comma 1, lettere a) e b), consistente nella risoluzione per iscritto di tre quesiti a risposta aperta di lunghezza massima predeterminata, nonche' l'indicazione delle materie su cui si svolgera' la prova orale di cui al comma 1, lettera d).».
 
 L'articolo 7 del decreto del Ministro della giustizia 19 gennaio 2016, n. 63, e' sostituito dal seguente: 
  «Art. 7 (Svolgimento delle prove scritte). - 1. I candidati sono identificati al momento dell'ingresso nei locali ove si svolgono le prove d'esame, attraverso idoneo documento di identita' personale in corso di validita'. 
@@ -71,4 +92,25 @@ L'articolo 9 del decreto del Ministro della giustizia 19 gennaio 2016, n. 63, e'
 All'articolo 10 del decreto del Ministro della giustizia 19 gennaio 2016, n. 63, il comma 3 e' sostituito dal seguente: «3. Le prove orali si svolgono in un'aula aperta al pubblico, ovvero in videoconferenza attraverso l'utilizzo di strumenti informatici e digitali, garantendo comunque l'adozione di soluzioni tecniche che assicurino la pubblicita' della stessa, l'identificazione dei partecipanti e la sicurezza delle comunicazioni e la loro tracciabilita' e ferma restando la presenza, presso la sede della prova di esame, del segretario della commissione e del candidato da esaminare. La prova orale completa non puo' avere durata superiore a sessanta minuti.».
 
 ## Art. 3. — Modifiche alla disciplina dell'equipollenza con esami di Stato per l'abilitazione all'esercizio di professioni regolamentate e integrazioni necessarie
+
+1.
+                    
+                        
+                            All'articolo 11 del decreto del Ministro della giustizia 19 gennaio 2016, n. 63, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                
+                                    al comma 1, le parole «di aver completato il tirocinio previsto per l'accesso all'esercizio dell'attivita' di revisore legale» sono sostituite dalle seguenti: «del possesso dei requisiti di cui all'articolo 2 del presente regolamento»;
+                                
+                            
+                        
+                        
+                            b)
+                            
+                                
+                                    dopo il comma 4 e' inserito, in fine, il seguente: «4-bis.
+Sono infine esonerati dal controllo delle conoscenze teoriche per le materie di cui all'articolo 1, comma 1, che hanno gia' formato oggetto di esame universitario, secondo le modalita' contenute nella convenzione quadro di cui all'articolo 3, comma 1-bis, del decreto legislativo 27 gennaio 2010, n. 39, i soggetti che hanno conseguito il titolo di studio indicato nella convenzione medesima.».
 

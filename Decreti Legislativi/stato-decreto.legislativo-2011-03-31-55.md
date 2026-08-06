@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
 vigenza_date: 2012-08-12
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:29Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -34,6 +34,44 @@ L'articolo 1 del decreto legislativo 21 marzo 2005, n. 66, e' sostituito dal seg
  b) un obiettivo di riduzione delle emissioni di gas a effetto serra prodotte durante il ciclo di vita dei combustibili di cui alla lettera a). 
  2. I combustibili utilizzati dalle imbarcazioni da diporto e dalle altre navi della navigazione interna, quando le stesse sono in mare, sono soggetti alle disposizioni del titolo III alla parte quinta del decreto legislativo 3 aprile 2006, n. 152, e successive modificazioni, relative ai combustibili marittimi delle navi.».
 
+2.
+                    
+                        
+                            All'articolo 2, comma 1, del decreto legislativo 21 marzo 2005, n. 66, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                la lettera b) e' sostituita dalla seguente: 
+ «b) Combustibile diesel: i gasoli specificati nel codice NC 2710 19 41 e utilizzati per i veicoli a propulsione autonoma di cui alle direttive 70/220/CEE e 88/77/CEE; ricadono in tale definizione anche i liquidi derivati dal petrolio compresi nei codici NC2710 19 41 e 2710 19 45, destinati all'uso nei motori ad accensione per compressione di macchine mobili non stradali di cui alla direttiva 97/68/CE, trattori agricoli e forestali di cui alla direttiva 2000/25/CE, imbarcazioni da diporto di cui alla direttiva 94/25/CE e altre navi della navigazione interna;»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                alla lettera g) e' aggiunto, in fine, il seguente periodo: «in caso di distribuzione di combustibile diesel tale definizione include anche gli impianti che riforniscono le imbarcazioni da diporto e le altre navi della navigazione interna;»; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                dopo la lettera i) sono aggiunte, in fine, le seguenti: 
+ «i-bis) nave della navigazione interna: nave destinata alla navigazione su fiumi, canali, laghi e lagune; 
+ i-ter) emissioni di gas a effetto serra prodotte durante il ciclo di vita: le emissioni nette di CO2 , CH4 e N2 O che possono essere attribuite al combustibile,compresi tutti i suoi componenti miscelati, o all'energia fornita. Sono incluse tutte le pertinenti fasi: estrazione o coltura, comprese le modifiche della destinazione dei suoli, trasporto e distribuzione, trasformazione e combustione, a prescindere dal luogo in cui le emissioni sono rilasciate; 
+ i-quater) emissioni di gas a effetto serra per unita' di energia: la massa totale di emissioni di gas a effetto serra equivalente CO2 associate al combustibile o all'energia fornita, divisa per il tenore totale di energia del combustibile o dell'energia fornita (per il combustibile, espresso al suo potere calorifico inferiore); 
+ i-quinquies) combustibile: un combustibile destinato all'utilizzo nei motori ad accensione comandata e nei motori ad accensione per compressione di veicoli stradali, macchine mobili non stradali, trattori agricoli e forestali, imbarcazioni da diporto ed altre navi della navigazione interna; 
+ i-sexies) fornitore: il soggetto responsabile del passaggio di combustile attraverso un punto di riscossione delle accise nonche' i fornitori di energia elettrica utilizzata nei veicoli stradali alle condizioni previste all'articolo 7-bis, comma 6; 
+ i-septies) operatore economico: ogni persona fisica o giuridica stabilita nella Comunita' o in uno Paese terzo che offre o mette a disposizione di terzi contro pagamento o gratuitamente biocarburanti destinati al mercato comunitario ovvero che offre o mette a disposizione di terzi contro pagamento o gratuitamente materie prime, prodotti intermedi, miscele o rifiuti per la produzione di biocarburanti destinati al mercato comunitario; 
+ i-octies) biocarburanti: i combustibili liquidi o gassosi ricavati dalla biomassa; 
+ i-nonies) biomassa: la frazione biodegradabile dei prodotti, dei rifiuti e dei residui di origine biologica provenienti dall'agricoltura (comprendente sostanze vegetali e animali), dalla silvicoltura e dalle industrie connesse, comprese la pesca e l'acquacoltura, nonche' la parte biodegradabile dei rifiuti industriali e urbani; 
+ i-decies) valore reale: la riduzione delle emissioni di gas a effetto serra per alcune o per tutte le fasi di uno specifico processo di produzione di biocarburanti calcolata secondo la metodologia definita nell'allegato V-bis, parte C; 
+ i-undecies) valore tipico: una stima della riduzione rappresentativa delle emissioni di gas a effetto serra per una particolare filiera di produzione del biocarburante; 
+ i-duodecies) valore standard: un valore stabilito a partire da un valore tipico applicando fattori predeterminati e che, in circostanze definite dalla presente direttiva, puo' essere utilizzato al posto di un valore reale; 
+ i-terdecies) risparmio di emissioni di gas ad effetto serra grazie all'uso di biocarburanti: emissioni di gas risparmiate rispetto a quelle del combustibile fossile che il biocarburante sostituisce, calcolate come indicato nell'allegato V- bis, parte C, punto 4.».
+
 L'articolo 3 del decreto legislativo 21 marzo 2005, n. 66, e' sostituito dal seguente: 
  «Art. 3 (Benzina). - 1. E' vietata la commercializzazione di benzina non conforme alle specifiche di cui all'Allegato I. 
  2. Fino al 31 dicembre 2015, fatte salve proroghe stabilite con decreto del Ministro dell'ambiente e della tutela del territorio e del mare, di concerto con il Ministro dello sviluppo economico ed il Ministro delle infrastrutture e dei trasporti, le imprese di produzione o importazione di combustibili che, direttamente o indirettamente, riforniscono di combustibili gli impianti di distribuzione assicurano la commercializzazione di benzina con un tenore massimo di ossigeno del 2,7 per cento ed un tenore massimo di etanolo del 5 per cento e conforme alle altre specifiche di cui all'Allegato I, senza l'etichetta prevista dal comma 3, presso almeno il 30 per cento degli impianti di distribuzione di cui sono titolari e degli impianti di titolarita' di terzi che espongono il proprio marchio e con i quali hanno un rapporto di fornitura in via esclusiva, presenti in ciascuna provincia. A fini di controllo, tali imprese forniscono agli organi di cui all'articolo 8, comma 5, entro cinque giorni dalla relativa richiesta, l'elenco degli indirizzi di tutti i predetti impianti di distribuzione, evidenziando quelli che commercializzano la benzina prevista dal presente comma, presenti nelle province a cui la richiesta si riferisce. Le eventuali proroghe previste dal presente articolo, da adottare almeno sei mesi prima del termine da prorogare, sono concesse sulla base di un'istruttoria che considera la compatibilita' dei veicoli del parco circolante con la benzina di cui al comma 3 ed il processo di perseguimento degli obiettivi previsti dalla direttiva 2009/28/CE. Tale istruttoria e' condotta dai Ministeri dell'ambiente e della tutela del territorio e del mare, dello sviluppo economico e delle infrastrutture e dei trasporti sulla base delle stime sulla consistenza del parco circolante dei veicoli incompatibili con la benzina di cui al comma 3, risultanti dalle informazioni fornite dai costruttori ai sensi del comma 4. 
@@ -48,6 +86,146 @@ Nei depositi commerciali e negli impianti di distribuzione in cui si commerciali
 
 Sono tenuti agli obblighi di informazione agli utenti e di etichettatura previsti dal presente articolo i soggetti a cui compete, secondo il vigente ordinamento di settore, la scelta e la sistemazione di segnalazioni, etichette ed altri strumenti di informazione presso i depositi commerciali e gli impianti di distribuzione.
 
+8.
+                    
+                        
+                            E' consentita la commercializzazione di benzina con un contenuto di piombo non superiore a 0,15 g/l e conforme alle altre specifiche di cui all'Allegato I per un quantitativo massimo annuale pari allo 0,03 per cento delle vendite totali di benzina dell'anno precedente, destinato ad essere utilizzato dalle auto storiche e ad essere distribuito dalle associazioni riconosciute di possessori di auto storiche. I gestori dei depositi fiscali che producono o importano combustibili, i quali intendano commercializzare tale benzina, comunicano al Ministero dell'ambiente e della tutela del territorio e del mare, entro il 31 marzo dell'anno in cui si effettua la commercializzazione, il quantitativo da produrre o da importare. In tale comunicazione i gestori dimostrano di osservare la prescritta quota percentuale, calcolata rispetto alla quantita' dagli stessi commercializzata nell'anno precedente e rispetto alla quantita' commercializzata nell'anno precedente da altri gestori che, con apposito atto da allegare, abbiano devoluto la quota percentuale loro spettante.». 
+ 4. L'articolo 4 del decreto legislativo 21 marzo 2005, n. 66, e' sostituito dal seguente: 
+ «Art. 4 (Combustibile diesel). - 1. E' vietata la commercializzazione di combustibile diesel non conforme alle specifiche di cui all'Allegato II. E' fatto salvo quanto previsto dall'articolo 8, comma 1, del decreto legislativo 30 maggio 2005, n. 128. 
+ 2. A seguito dell'adozione di una specifica norma tecnica del Comitato europeo di normazione (CEN) relativa al combustibile diesel avente un tenore massimo di estere metilico di acidi grassi (FAME) pari al 10 per cento, puo' essere prevista, alle condizioni stabilite con decreto adottato dal Ministero dell'ambiente e della tutela del territorio e del mare, di concerto con il Ministero dello sviluppo economico e il Ministero delle infrastrutture e dei trasporti, la commercializzazione del combustibile diesel avente tale tenore massimo di FAME e conforme alle altre specifiche di cui all'Allegato II. 
+ 3. Nel caso in cui, alla luce delle specifiche tecniche della norma CEN prevista dal comma 2 e della compatibilita' dei veicoli del parco circolante, risulti necessario mantenere una adeguata e diffusa commercializzazione del combustibile diesel avente il tenore massimo di FAME indicato nell'Allegato II, il decreto ministeriale previsto dal comma 2 disciplina le modalita' necessarie ad assicurare la continuita' di tale commercializzazione, nonche' appositi obblighi di etichettatura e di informazione per il combustibile diesel avente un tenore massimo di FAME pari al 10 per cento, in analogia a quanto previsto dall'articolo 3, commi 3 e 4. 
+ 4. Nei depositi commerciali e negli impianti di distribuzione in cui si commercializza combustibile diesel contenente additivi metallici si applica quanto previsto dall'articolo 3, commi 5, 6 e 7. 
+ 5. E' vietato, sulle imbarcazioni da diporto e sulle altre navi della navigazione interna, l'utilizzo di combustibili liquidi diversi dal combustibile diesel, aventi un tenore di zolfo superiore a 1.000 mg/kg e, dal 1° gennaio 2011, superiore a 10 mg/kg.». 
+ 5. L'articolo 7 del decreto legislativo 21 marzo 2005, n. 66, e' sostituito dal seguente: 
+ «Art. 7 (Obblighi di comunicazione e di trasmissione di dati). - 1.
+L'Istituto superiore per la protezione e la ricerca ambientale, di seguito denominato:«ISPRA», pubblica annualmente sul proprio sito internet i dati relativi alla qualita' di benzina e combustibile diesel commercializzati nell'anno precedente, sulla base di quanto previsto dalle norme di cui all'articolo 10, comma 2. 
+ 2. Entro il 30 giugno di ogni anno, a decorrere dal 2005, il Ministero dell'ambiente e della tutela del territorio e del mare trasmette alla Commissione europea, nel formato previsto dalle pertinenti norme tecniche comunitarie, i dati relativi alla qualita' ed alla quantita' di benzina e di combustibile diesel in distribuzione nell'anno civile precedente, sulla base di una relazione elaborata dall'ISPRA ai sensi delle norme di cui all'articolo 10, comma 2.». 
+ 6. Dopo l'articolo 7 del decreto legislativo 21 marzo 2005, n. 66, sono inseriti i seguenti: 
+ «Art. 7-bis(Obblighi di riduzione delle emissioni di gas serra). - 1. I fornitori devono assicurare che le emissioni di gas ad effetto serra prodotte durante il ciclo di vita per unita' di energia dei combustibili per i quali hanno assolto l'accisa nell'anno 2020 e, nel caso di cui al comma 9, dell'energia fornita nel 2020, siano inferiori almeno del 6 per cento rispetto al valore di riferimento stabilito ai sensi dell'articolo 7-bis, paragrafo 5, lettera b), della direttiva 98/70/CE, introdotto dall'articolo 1 della direttiva 2009/30/CE. 
+ 2. A decorrere dal 1° gennaio 2012, entro il 31 gennaio di ciascun anno, i fornitori trasmettono annualmente al Ministero dell'ambiente e della tutela del territorio e del mare, per il tramite dell'ISPRA, una relazione, con valore di autocertificazione ai sensi del decreto del Presidente della Repubblica 28 dicembre 2000, n. 445, e successive modificazioni, sulle emissioni dei gas a effetto serra dei combustibili per i quali hanno assolto l'accisa e dell'energia fornita, in cui sono specificate almeno le seguenti informazioni: 
+ a) il quantitativo totale di ciascun tipo di combustibile o di energia forniti con l'indicazione , ove appropriato, del luogo di acquisto e dell'origine; 
+ b) le relative emissioni di gas ad effetto serra prodotte durante il ciclo di vita per unita' di energia. 
+ 3. La relazione di cui al comma 2 e' accompagnata dai documenti comprovanti l'avvenuto accertamento del rispetto dei criteri di sostenibilita' e degli obblighi di informazione di cui all'articolo 7-ter, forniti dagli operatori economici ai sensi del comma 5. 
+ 4. Il formato e le modalita' di trasmissione della relazione di cui al comma 2 sono pubblicate sul sito web del Ministero dell'ambiente e della tutela del territorio e del mare, previo avviso nella Gazzetta Ufficiale della Repubblica italiana. 
+ 5. Nel caso in cui i combustibili per i quali il fornitore ha assolto l'accisa contengano biocarburanti, le loro emissioni di gas serra prodotte durante il ciclo di vita per unita' di energia possono essere conteggiate ai fini di cui ai commi 1 e 2, solo ove per gli stessi sia stato accertato, ai sensi dell'articolo 7-quater, il rispetto dei criteri di sostenibilita' di cui all'articolo 7-ter, commi da 2 a 5, e degli obblighi di informazione di cui all'articolo 7-quater, comma 5. A tal fine gli operatori economici rilasciano al fornitore, al momento della cessione di ogni partita di biocarburante, copia di un certificato di sostenibilita' rilasciato nell'ambito del Sistema nazionale di certificazione della sostenibilita' dei biocarburanti di cui all'articolo 7-quater, comma 1, ovvero di un accordo o di un sistema oggetto di una decisione ai sensi dell'articolo 7-quater, paragrafo 4, della direttiva 98/70/CE, introdotto dall'articolo 1 della direttiva 2009/30/CE, nonche' una dichiarazione, con valore di autocertificazione ai sensi del decreto del Presidente della Repubblica 28 dicembre 2000, n. 445, e successive modificazioni, relativa all'origine, al luogo di acquisto e alle emissioni di gas ad effetto serra prodotte durante il ciclo di vita, per unita' di energia, della stessa partita. 
+ 6. Ai fini di cui al comma 2, lettera b), le emissioni di gas a effetto serra prodotte durante il ciclo di vita dei biocarburanti sono calcolate conformemente alla metodologia indicata all'articolo 7-quinquies. Le emissioni di gas ad effetto serra prodotte durante il ciclo vita degli altri tipi di combustibili e dell'energia sono calcolate conformemente alla metodologia stabilita ai sensi dell'articolo 7-bis, paragrafo 5, lettere a) e d), della direttiva 98/70/CE, introdotto dall'articolo1 della direttiva 2009/30/CE. 
+ 7. Il fornitore mantiene a disposizione dell'autorita' preposta agli accertamenti di cui all'articolo 8, comma 5-bis, per i cinque anni successivi al pagamento dell'accisa, la documentazione contenente i dati dai quali sono state ricavate le informazioni comunicate ai sensi del comma 2. 
+ 8. L'operatore economico mantiene a disposizione dell'autorita' preposta agli accertamenti di cui all'articolo 8, comma 5-bis , per i cinque anni successivi alla cessione al fornitore della partita di biocarburante, la documentazione contenente i dati sulla base dei quali ha prodotto l'autocertificazione di cui al comma 5. 
+ 9. I fornitori di energia elettrica per veicoli possono essere designati quali fornitori ai fini di cui ai commi 1 e 2 qualora siano in grado di dimostrare che possono misurare e monitorare adeguatamente la elettricita' fornita per essere utilizzata nei veicoli. A tal fine presentano una domanda al Ministero dell'ambiente e della tutela del territorio e del mare corredata dalla documentazione attestante il possesso dei requisiti richiesti. Detto Ministero provvede entro 60 giorni dal ricevimento della domanda. 
+ 10. Un gruppo di fornitori puo' scegliere di ottemperare congiuntamente agli obblighi di cui ai commi 1, 2 e 11. In tal caso il gruppo viene considerato un fornitore unico. Le modalita' di applicazione delle disposizioni del presente comma sono stabilite ai sensi dell'articolo 7-bis, paragrafo 5, lettera c), della direttiva 98/70/CE, introdotto dall'articolo 1 della direttiva 2009/30/CE. 
+ 11. I fornitori trasmettono al Ministero dell'ambiente e della tutela del territorio e del mare, entro il 1° gennaio 2013, una relazione che illustri la possibilita' di raggiungere riduzioni aggiuntive rispetto a quelle indicate al comma 1 entro il 2020 attraverso uno dei seguenti metodi: 
+ a) la fornitura di energia elettrica per qualsiasi tipo di veicolo stradale, macchina mobile non stradale, comprese le navi adibite alla navigazione interna, trattore agricolo o forestale o imbarcazione da diporto; 
+ b) l'uso di qualsiasi tecnologia, compresi la cattura e lo stoccaggio del carbonio,secondo quanto stabilito nel decreto legislativo 4 aprile 2006, n. 216, e successive modificazioni; 
+ c) l'utilizzo dei crediti acquistati nel quadro del meccanismo di sviluppo pulito del protocollo di Kyoto, secondo quanto stabilito nel decreto legislativo 4 aprile 2006, n. 216, e successive modificazioni. 
+ 12. L'ISPRA trasmette annualmente, entro il trenta maggio, al Ministero dell'ambiente e della tutela del territorio e del mare, un rapporto sulla esattezza, sulla completezza e sulla conformita' alle disposizioni di cui al comma 6 della relazione prevista al comma 2, nonche' sull'accertamento delle infrazioni agli obblighi previsti ai commi 7 e 8. 
+ Art. 7-ter (Criteri di sostenibilita' per i biocarburanti). - 1. I criteri di sostenibilita' che i biocarburanti devono rispettare al fine di cui all'articolo 7-bis, comma 5, sono indicati ai commi da 2 a 6. I criteri si applicano indipendentemente dal fatto che le materie prime siano state coltivate all'interno o all'esterno del territorio della Comunita'. I biocarburanti prodotti a partire da rifiuti, sottoprodotti e residui diversi dai residui dell'agricoltura, dell'acquacoltura, della pesca e della silvicoltura devono soddisfare soltanto i criteri di sostenibilita' definiti al comma 2. 
+ 2. I biocarburanti devono assicurare grazie al loro uso un risparmio di emissioni di gas a effetto serra pari almeno al 35 per cento. Nel caso di biocarburanti prodotti in impianti gia' in servizio al 23 gennaio 2008, tale valore si applica a decorrere dal 1° aprile 2013. A decorrere dal 1° gennaio 2017 il risparmio delle emissioni di gas a effetto serra deve essere pari almeno al 50 per cento. A decorrere dal 1° gennaio 2018 detto risparmio delle emissioni di gas a effetto serra deve essere pari almeno al 60 per cento per i biocarburanti prodotti negli impianti entrati in produzione il 1° gennaio 2017 o successivamente. Il risparmio delle emissioni di gas a effetto serra derivanti dall'uso di biocarburanti e' calcolata in conformita' all'articolo 7-quinquies. 
+ 3. I biocarburanti non devono essere prodotti a partire da materie prime ottenute su terreni che presentano un elevato valore in termini di biodiversita', ossia terreni che nel gennaio 2008 o successivamente possedevano uno degli status seguenti, indipendentemente dal fatto che abbiano o meno conservato detto status: 
+ a) foreste primarie e altri terreni boschivi, vale a dire foreste e altri terreni boschivi di specie native, ove non vi sia alcun segno chiaramente visibile di attivita' umana e i processi ecologici non siano perturbati in modo significativo; 
+ b) aree designate per scopi di protezione della natura a norma delle leggi o dall'autorita' competente del paese in cui le materie prime sono coltivate a meno che non venga dimostrato che la produzione delle predette materie prime e le normali attivita' di gestione non hanno interferito con gli scopi di protezione della natura delle aree richiamate; 
+ c) nel caso di materie prime coltivate in Italia, le aree protette individuate ai sensi della legge del 6 dicembre 1991, n. 394, e successive modificazioni, le aree marine protette di cui alla legge del 31 dicembre 1982, n. 979, e successive modificazioni, e i siti della rete Natura 2000 di cui al decreto del Presidente della Repubblica dell'8 settembre 1997, n. 357, e successive modificazioni, a meno che non venga dimostrato che la produzione delle predette materie prime e le normali attivita' di gestione non hanno interferito con gli scopi di protezione della natura delle aree e dei siti richiamati; 
+ d) aree designate per la protezione di ecosistemi o specie rari, minacciati o in pericolo di estinzione, riconosciute da accordi internazionali ratificati dall'Italia o incluse in elenchi compilati da organizzazioni intergovernative o dall'Unione internazionale per la conservazione della natura, previo loro riconoscimento ai sensi dell'articolo 7-quater, paragrafo 4, secondo comma, della direttiva 98/70/CE, introdotto dall'articolo 1 della direttiva 2009/30/CE, a meno che non venga dimostrato che la produzione delle predette materie prime e le normali attivita' di gestione non hanno interferito con gli scopi di protezione della natura delle aree in questione; 
+ e) terreni erbosi ad elevata biodiversita', per i quali i criteri e i limiti geografici sono fissati ai sensi dell'articolo 7-ter, paragrafo 3, secondo comma, della direttiva 98/70/CE, introdotto dall'articolo 1 della direttiva 2009/30/CE, che siano: 
+ 1) terreni erbosi naturali, ossia terreni erbosi che rimarrebbero tali in assenza di interventi umani e che mantengono la composizione naturale delle specie nonche' le caratteristiche e i processi ecologici; 
+ 2) terreni erbosi non naturali, ossia terreni erbosi che cesserebbero di essere tali in assenza di interventi umani e che sono ricchi di specie e non degradati, a meno che non venga dimostrato che il raccolto delle materie prime e' necessario per preservarne lo status di terreno erboso. 
+ 4. I biocarburanti non devono essere prodotti a partire da materie prime ottenute su terreni che presentano un elevato stock di carbonio, vale a dire terreni che nel gennaio 2008 possedevano uno degli status seguenti, che nel frattempo hanno perso: 
+ a) zone umide, (suoli con regime acquico) ossia terreni coperti o saturi di acqua in modo permanente o per una parte significativa dell'anno; 
+ b) zone boschive continue, ossia terreni aventi un'estensione superiore ad un ettaro caratterizzati dalla presenza di alberi di altezza superiore a cinque metri e da una copertura della volta superiore al 30 per cento o di alberi che possono raggiungere tali soglie in situ; 
+ c) terreni aventi un'estensione superiore ad un ettaro caratterizzati dalla presenza di alberi di altezza superiore a cinque metri e da una copertura della volta compresa tra il 10 per cento e il 30 per cento o di alberi che possono raggiungere tali soglie in situ, a meno che non vengano fornite prove del fatto che lo stock di carbonio della superficie in questione, prima e dopo la conversione, e' tale che, quando viene applicata la metodologia di cui all'allegato V-bis, parte C, sono soddisfatte le condizioni di cui al comma 2. Le disposizioni del presente comma non si applicano se, al momento dell'ottenimento delle materie prime, i terreni avevano lo stesso status che nel gennaio 2008. 
+ 5. I biocarburanti non devono essere prodotti a partire da materie prime ottenute su terreni che erano torbiere nel gennaio 2008, a meno che non vengano fornite prove del fatto che la coltivazione e la raccolta di tali materie prime non comportano drenaggio di terreno precedentemente non drenato. 
+ 6. Nel caso i biocarburanti siano prodotti da materie prime agricole coltivate nella Comunita', queste ultime devono essere ottenute nel rispetto delle prescrizioni e delle norme previste dalle disposizioni menzionate nella parte A, rubrica 'Ambiente', e al punto 9 dell'allegato II del regolamento (CE) n. 73/2009 del Consiglio, del 19 gennaio 2009, che stabilisce norme comuni relative ai regimi di sostegno diretto agli agricoltori nell'ambito della politica agricola comune e istituisce taluni regimi di sostegno a favore degli agricoltori, e conformemente ai requisiti minimi per il mantenimento di buone condizioni agronomiche e ambientali definite ai sensi dell'articolo 6, comma 1, dello stesso regolamento. 
+ 7. Non e' consentito rifiutare per motivi di sostenibilita' che un biocarburante venga considerato ai fini di cui all'articolo 7-bis, commi 1 e 2, ove lo stesso rispetti i criteri di sostenibilita' di cui ai commi da 2 a 5. 
+ Art. 7-quater (Verifica del rispetto dei criteri di sostenibilita' per i biocarburanti). - 1. Al fine della verifica del rispetto dei criteri di sostenibilita' di cui all'articolo 7-ter, commi da 2 a 5, e degli obblighi di informazione di cui al comma 5, relativamente ad ogni partita di biocarburante ceduta al fornitore, tutti gli operatori economici appartenenti alla filiera di produzione della stessa devono aderire al Sistema Nazionale di certificazione della sostenibilita' dei biocarburanti ovvero ad un accordo o ad un sistema oggetto di una decisione ai sensi dell'articolo 7-quater, paragrafo 4, della direttiva 98/70/CE, introdotto dall'articolo 1 della direttiva 2009/30/CE. 
+ 2. Ai fini del riconoscimento delle maggiorazioni del contributo energetico dei biocarburanti previste nell'ambito dei regimi di sostegno per l'utilizzo delle fonti rinnovabili nei trasporti, gli operatori economici forniscono le informazioni che concorrono alla dimostrazione del rispetto dei criteri di sostenibilita' e le informazioni di cui al comma 5, in conformita' a quanto stabilito dal sistema nazionale di certificazione ai sensi dell'articolo 2, comma 6, lettera a), del decreto legislativo 31 marzo 2011, n. 55, di recepimento della direttiva 2009/30. 
+ 3. Il Sistema nazionale di cui al comma 1 deve garantire che tutti gli operatori economici appartenenti alla filiera di produzione del biocarburante forniscano le informazioni che concorrono alla dimostrazione del rispetto dei criteri di sostenibilita' e le informazioni di cui al comma 5, nonche' un livello adeguato di verifica indipendente delle informazioni presentate dagli operatori.
+Tale verifica deve accertare che i sistemi utilizzati dagli operatori economici siano precisi, affidabili e a prova di frode e valutare la frequenza e il metodo di campionamento usati nonche' la solidita' dei dati. 
+ 4. Al fine di dimostrare che i criteri di sostenibilita' sono mantenuti lungo tutta la catena di consegna, dalla materia prima al biocarburante, gli operatori economici e i fornitori, per quanto attiene i rispettivi obblighi, devono utilizzare un sistema di equilibrio di massa che: 
+ a) consenta che partite di materie prime, di prodotti intermedi, di rifiuti o di biocarburanti con caratteristiche di sostenibilita' diverse siano mescolate; 
+ b) imponga che le informazioni sulle caratteristiche di sostenibilita' e sul volume delle partite di cui alla lettera a) restino associate alla miscela; 
+ c) preveda che la somma di tutte le partite prelevate dalla miscela sia descritta come avente le stesse caratteristiche di sostenibilita', nelle stesse quantita', della somma di tutte le partite aggiunte alla miscela. 
+ 5. Conformemente a quanto stabilito ai sensi dell'articolo 7-quater, paragrafo 3, della direttiva 98/70/CE, introdotto dall'articolo 1 della direttiva 2009/30/CE, gli operatori economici devono fornire, le seguenti informazioni relative alla materia prima ceduta o messa a disposizione per la produzione di biocarburanti: 
+ a) misure adottate per la tutela del suolo, delle risorse idriche e dell'aria, per il ripristino dei terreni degradati e per evitare il consumo eccessivo di acqua in zone afflitte da carenza idrica; 
+ b) se il Paese terzo o lo Stato membro dell'Unione europea da cui proviene la materia prima ha ratificato e attuato le seguenti convenzioni dell'Organizzazione internazionale del lavoro: 
+ 1) Convenzione concernente il lavoro forzato ed obbligatorio (n. 29); 
+ 2) Convenzione concernente la liberta' sindacale e la protezione del diritto sindacale (n. 87); 
+ 3) Convenzione concernente l'applicazione dei principi del diritto di organizzazione e di negoziazione collettiva (n. 98); 
+ 4) Convenzione concernente l'uguaglianza di remunerazione tra la mano d'opera maschile e la mano d'opera femminile per un lavoro di valore uguale (n. 100); 
+ 5) Convenzione concernente l'abolizione del lavoro forzato (n. 105); 
+ 6) Convenzione concernente la discriminazione in materia di impiego e di professione (n. 111); 
+ 7) Convenzione sull'eta' minima per l'assunzione all'impiego (n. 138); 
+ 8) Convenzione sul divieto delle peggiori forme di lavoro minorile e le azioni immediate in vista della loro eliminazione (n. 182). 
+ 6. Alle attivita' di controllo relative all'applicazione delle disposizioni del presente articolo provvedono i Ministeri dell'ambiente e della tutela del territorio e del mare, delle politiche agricole alimentari e forestali e dello sviluppo economico. 
+ Art. 7-quinquies (Calcolo delle emissioni di gas a effetto serra prodotte durante il ciclo di vita dei biocarburanti). - 1. Ai fini di quanto previsto all'articolo 7-bis, commi 1 e 2, le emissioni di gas a effetto serra prodotte durante il ciclo di vita dei biocarburanti sono cosi' calcolate: 
+ a) se l'allegato V-bis, parte A o B, fissa un valore standard per il risparmio delle emissioni di gas a effetto serra associate alla filiera di produzione del biocarburante e se il valore el per questi biocarburanti, calcolato secondo l'allegato V-bis, parte C, punto 7, e' uguale o inferiore a zero, utilizzando detto valore standard; 
+ b) utilizzando il valore reale calcolato secondo la metodologia definita all'allegato V-bis, parte C; 
+ c) utilizzando un valore risultante dalla somma dei fattori della formula di cui all'allegato V-bis, parte C, punto 1, ove i valori standard disaggregati, di cui all'allegato V-bis, parte D o E, possono essere utilizzati per alcuni fattori e i valori reali calcolati secondo la metodologia definita all'allegato V-bis, parte C, per tutti gli altri fattori; 
+ d) ai biocarburanti non individuati nell'allegato V-bis si applicano le disposizioni di cui alla lettera b). 
+ 2. I valori standard di cui all'allegato V-bis, parte A, e i valori standard disaggregati per la coltivazione di cui all'allegato V-bis, parte D, possono essere usati soltanto se le materie prime sono: 
+ a) coltivate fuori della Comunita'; 
+ b) coltivate nella Comunita' in aree incluse negli elenchi trasmessi alla Commissione ai sensi dell'articolo 7-quinquies, comma 2, della direttiva 98/70/CE, introdotto dall'articolo 1 della direttiva 2009/30/CE, e consultabili sul sito: htpp://ec.europa.eu/enrgy/renewables/transparency_platform/emission_e n.htm; 
+ c) rifiuti, sottoprodotti e residui diversi dai residui dell'agricoltura, dell'acquacoltura e della pesca. 
+ 3. Per i biocarburanti non rientranti nell'ambito di applicazione delle lettere a), b) o c), sono utilizzati i valori reali per la coltivazione.». 
+ 7. All'articolo 8 del decreto legislativo 21 marzo 2005, n. 66: 
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 4 le parole: «Non si applica quanto previsto dall'articolo 15 della legge 24 novembre 1981, n. 689.» sono soppresse; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                il comma 5 e' sostituito dal seguente: 
+ 5. L'accertamento delle infrazioni di cui all'articolo 9, commi 3, 4, 5 e 6, e' effettuato dagli uffici dell'Agenzia delle dogane competenti per territorio e dal Corpo della Guardia di finanza, utilizzando, in caso di analisi, i metodi di prova stabiliti dall'allegato V. L'accertamento delle infrazioni di cui all'articolo 9, comma 7, e' effettuato da tali organi, dagli Ispettorati della navigazione interna e dai soggetti a tal fine individuati dalla normativa regionale; si applica quanto previsto dall'articolo 296, comma 10, del decreto legislativo n. 152 del 2006.» 
+
+                            
+                        
+                        
+                            c)
+                            
+                                dopo il comma 5 e' aggiunto il seguente: 
+ «5-bis. L'accertamento delle infrazioni agli obblighi previsti ai commi 7 e 8 dell'articolo 7-bis, e' effettuato dall'ISPRA.». 
+ 8. L'articolo 9 del decreto legislativo 21 marzo 2005, n. 66, e' sostituito dal seguente: 
+ «Art. 9 (Sanzioni). - 1. Salvo che il fatto costituisca reato, ai gestori dei depositi fiscali che commercializzano benzine o combustibili diesel in violazione dei divieti di cui all'articolo 3, comma 1, o di cui all'articolo 4, comma 1, si applica una sanzione amministrativa da 15.000 a 154.000 euro. Salvo che il fatto costituisca reato, la medesima sanzione amministrativa si applica ai gestori dei depositi fiscali che commercializzano benzine o combustibili diesel non conformi alle specifiche determinate ai sensi degli articoli 5 o 6. In caso di recidiva le sanzioni amministrative di cui al presente comma sono triplicate. 
+ 2. Salvo che il fatto costituisca reato, ai gestori degli impianti di distribuzione e ai gestori di depositi commerciali che commercializzano benzine o combustibili diesel in violazione dei divieti di cui all'articolo 3, comma 1, o di cui all'articolo 4, comma 1, o non conformi alle specifiche determinate ai sensi degli articoli 5 o 6 si applicano le sanzioni previste dal comma 1, ridotte a un terzo nel caso dei depositi commerciali e ridotte a un quinto nel caso degli impianti di distribuzione. 
+ 3. Salvo che il fatto costituisca reato, si applica una sanzione amministrativa da 10.000 a 30.000 euro ai soggetti tenuti ad assicurare le percentuali di distribuzione provinciale previste dall'articolo 3, comma 2, se le stesse non sono rispettate. Se gli elenchi previsti dall'articolo 3, comma 2, non sono trasmessi nei termini prescritti si applica l'articolo 650 del codice penale. 
+ 4. Salvo che il fatto costituisca reato, le sanzioni di cui ai commi 1 e 2 si applicano anche ai gestori dei depositi fiscali, dei depositi commerciali o degli impianti di distribuzione che, a seguito dell'adozione del decreto previsto dall'articolo 4, comma 2, commercializzano combustibile diesel avente un tenore massimo di FAME superiore a quello previsto da tale decreto. 
+ 5. Salvo che il fatto costituisca reato, le sanzioni di cui ai commi 1 e 2 si applicano anche ai gestori dei depositi fiscali, dei depositi commerciali o degli impianti di distribuzione che, a seguito dell'adozione del decreto previsto dall'articolo 4, comma 2, non rispettano le modalita' introdotte da tale decreto per assicurare la commercializzazione del combustibile diesel avente il tenore massimo di FAME indicato nell'allegato II. 
+ 6. Salvo che il fatto costituisca reato, si applica una sanzione amministrativa da 10.000 a 30.000 euro ai soggetti tenuti agli obblighi di informazione degli utenti o di etichettatura previsti dall'articolo 3, commi 3, 4, 5 o 6, e dall'articolo 4, comma 4, che violano tali obblighi. La stessa sanzione si applica ai soggetti tenuti agli obblighi di trasmissione previsti dall'articolo 3, commi 4 o 6, e dall'articolo 4, comma 4, che violano tali obblighi. A seguito dell'adozione del decreto previsto dall'articolo 4, comma 2, la stessa sanzione si applica anche in caso di violazione degli obblighi di trasmissione, informazione o di etichettatura introdotti da tale decreto. 
+ 7. In caso di violazione del divieto previsto dall'articolo 4, comma 5, si applica la sanzione prevista dall'articolo 296, comma 5, del decreto legislativo 3 aprile 2006, n. 152, e successive modificazioni, alla cui irrogazione provvedono le regioni o la diversa autorita' indicata dalla legge regionale ai sensi degli articoli 17 e seguenti della legge 24 novembre 1981, n. 689. 
+ 8. Nel caso in cui i gestori dei depositi fiscali non trasmettano nei termini i dati da inviare ai sensi dell'articolo 10, comma 2, il Ministro dell'ambiente e della tutela del territorio e del mare, anche ai fini di quanto previsto dall'articolo 650 del codice penale, ordina al gestore di provvedere. 
+ 9. Salvo che il fatto costituisca reato, i fornitori che non rispettano l'obiettivo di riduzione di cui all'articolo 7-bis, comma 1, sono puniti con la sanzione amministrativa da 300.000 a 1.000.000 euro. 
+ 10. Nel caso la riduzione percentuale di cui all'articolo 7-bis, comma 1, risulti pari o inferiore al 5 per cento rispetto al valore di riferimento, la sanzione di cui al comma 11 e' triplicata. 
+ 11. Il fornitore che omette di presentare nel termine stabilito la relazione di cui all'articolo 7-bis, comma 2, corredata dalla documentazione di cui al comma 3, e' punito con la sanzione amministrativa da 50.000 a 100.000 euro. Qualora il contenuto della relazione risulti incompleto, inesatto o non conforme a quanto previsto dal comma 5 dello stesso articolo, la sanzione e' duplicata. 
+ 12. Il fornitore che non mantiene a disposizione la documentazione di cui all'articolo 7 bis, comma 7, e' punito con la sanzione amministrativa da 10.000 a 30.000 euro. 
+ 13. Il fornitore che omette di presentare la relazione di cui all'articolo 7-bis, comma 11, e' punito con la sanzione amministrativa da 50.000 a 100.000 euro. 
+ 14. L'operatore economico che produce la autocertificazione, di cui all'articolo 7-bis, comma 5, in forma incompleta, inesatta o difforme dalla metodologia di cui all'articolo 7-quinquies e' punito con la sanzione amministrativa da 50.000 a 100.000 euro. 
+ 15. L'operatore economico che non mantiene a disposizione la documentazione di cui all'articolo 7-bis, comma 8, e' punito con la sanzione amministrativa da 10.000 a 30.000 euro . 
+ 16. L'operatore economico che non rispetta le disposizioni di cui all'articolo 7-quater e' punito con la sanzione amministrativa da 50.000 a 100.000 euro. 
+ 17. Fatto salvo quanto previsto al comma 7, ai fini dell'irrogazione delle sanzioni previste ai commi, 1, 2, 3, 4, 5, 6, 9, 10, 11, 12, 13, 14, 15 e 16 provvede il Prefetto ai sensi degli articoli 17 e seguenti della legge 24 novembre 1981, n. 689. 
+ 18. Alle sanzioni amministrative di cui al presente articolo non si applica il pagamento in misura ridotta previsto dall'articolo 16 della legge n. 689 del 1981.».
+
+9.
+                    
+                        
+                            All'articolo 10 del decreto legislativo 21 marzo 2005, n. 66: 
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 2, le parole: «dei combustibili» sono sostituite dalle seguenti: «della benzina e del combustibile diesel» e l'ultimo periodo e' sostituito dai seguenti: «Con lo stesso decreto sono altresi' stabilite le procedure per la raccolta dei dati di cui all'articolo 7, comma 1. Fino alla data di entrata in vigore di tale decreto si applica il decreto del Ministro dell'ambiente 3 febbraio 2005, pubblicato nella Gazzetta Ufficiale n. 70 del 25 marzo 2005.». 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 4 le parole: «ai sensi dell'articolo 20 della legge 16 aprile 1987, n. 183» sono sostituite dalle seguenti: «ai sensi dell'articolo 13 della legge 4 febbraio 2005, n. 11» e le parole: «al fine di dare attuazione a successive direttive comunitarie» sono sostituite dalle seguenti: «al fine di dare attuazione a successive norme comunitarie non autonomamente applicabili».
+
 Gli allegati I, II e V del decreto legislativo 21 marzo 2005, n. 66, sono sostituiti dai corrispondenti allegati contenuti nell'allegato A al presente decreto.
 
 L'allegato III del decreto legislativo 21 marzo 2005, n. 66, e' abrogato.
@@ -58,7 +236,90 @@ Al decreto legislativo 21 marzo 2005, n. 66, e' aggiunto l'allegato V-bis conten
 
 Ai fini della prima applicazione dell'articolo 3, commi 4 e 6, e dell'articolo 4, comma 4, del decreto legislativo 21 marzo 2005, n. 66, il Ministero dell'ambiente e della tutela del territorio e del mare pubblica una versione indicativa degli elenchi previsti da tali articoli sul proprio sito internet e i gestori dei depositi commerciali e degli impianti di distribuzione tenuti provvedono a renderli accessibili al pubblico entro dieci giorni dalla pubblicazione. Entro sessanta giorni dalla data di entrata in vigore del presente decreto, le societa' di produzione di veicoli stradali trasmettono in via informatica al Ministero dell'ambiente e della tutela del territorio e del mare, con riferimento ai veicoli che hanno messo in commercio sul territorio nazionale prima di tale data, gli elenchi previsti dall'articolo 3, commi 4 e 6, e dall'articolo 4, comma 4, del decreto legislativo n. 66 del 2005. Detto Ministero provvede a pubblicare tali elenchi sul proprio sito internet e i gestori dei depositi commerciali e degli impianti di distribuzione tenuti provvedono a renderli accessibili al pubblico entro trenta giorni dalla pubblicazione. In caso di violazione degli obblighi previsti dal presente comma si applicano le sanzioni previste dall'articolo 9, comma 6, del decreto legislativo n. 66 del 2005.
 
+2.
+                    
+                        
+                            All'articolo 292, comma 2, del decreto legislativo 3 aprile 2006, n. 152, e successive modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                le lettere d), e) ed f) sono sostituite dalle seguenti: 
+ «d) combustibile per uso marittimo: qualsiasi combustibile liquido derivato dal petrolio utilizzato su una nave in mare o destinato ad essere utilizzato su una nave in mare, inclusi i combustibili definiti nella norma ISO 8217; 
+ e) olio diesel marino: qualsiasi combustibile per uso marittimo la cui viscosita' o densita' rientra nei limiti di viscosita' o di densita' stabiliti per le qualita' 'DMB' e 'DMC' dalla tabella I della norma ISO 8217; 
+ f) gasolio marino: qualsiasi combustibile per uso marittimo la cui viscosita' o densita' rientra nei limiti di viscosita' o di densita' stabiliti per le qualita' 'DMX' e 'DMA' dalla tabella I della norma ISO 8217;» 
+
+                            
+                        
+                        
+                            b)
+                            
+                                la lettera p) e' abrogata.
+
+3.
+                    
+                        
+                            All'articolo 295 del decreto legislativo 3 aprile 2006, n. 152, e successive modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                il comma 7 e' abrogato; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 9 la lettera a) e' abrogata.
+
 All'articolo 296, comma 9, del decreto legislativo 3 aprile 2006, n. 152, e successive modificazioni, le parole: «o alla navigazione interna» sono soppresse.
+
+5.
+                    
+                        
+                            All'articolo 8 del decreto legislativo 30 maggio 2005, n. 128: 
+ 
+                        
+                        
+                            a)
+                            
+                                il comma 1 e' sostituito dal seguente: 
+ «1. I combustibili diesel con contenuto di biodiesel superiore a quanto previsto dalla normativa vigente possono essere avviati al consumo presso utenti extra-rete e impiegati esclusivamente in veicoli omologati per il relativo utilizzo.»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                i commi 2 e 3 sono abrogati.
+
+6.
+                    
+                        
+                            Con decreto del Ministro dell'ambiente e della tutela del territorio e del mare, del Ministro dello sviluppo economico e del Ministro delle politiche agricole alimentari e forestali, da adottare entro tre mesi dalla data di entrata in vigore del presente decreto, sono stabilite: 
+ 
+                        
+                        
+                            a)
+                            
+                                le modalita' di funzionamento del Sistema nazionale di certificazione della sostenibilita' dei biocarburanti previsto all'articolo 7-quater, comma 1, del decreto legislativo 21 marzo 2005, n. 66, introdotto dal comma 6 dell'articolo 1 del presente decreto, ivi comprese le informazioni di cui al comma 3 del medesimo articolo 7-quater, nonche' le procedure di adesione allo stesso Sistema; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                le procedure per la verifica degli obblighi di informazione di cui al comma 5, dell'articolo 7-quater del decreto legislativo n. 66 del 2005, introdotto dal comma 6 dell'articolo 1 del presente decreto; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                le disposizioni che gli operatori ed i fornitori devono rispettare per l'utilizzo del sistema di equilibrio di massa di cui al comma 4 del citato articolo 7-quater.
 
 ## Art. 3. — Disposizioni finanziarie
 

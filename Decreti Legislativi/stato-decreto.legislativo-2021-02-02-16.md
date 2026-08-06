@@ -7,8 +7,8 @@ urn: urn:nir:stato:decreto.legislativo:2021-02-02;16
 vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:31Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -36,7 +36,202 @@ Il presente decreto non si applica alle varieta' di vite geneticamente modificat
 
 ## Art. 2. — Definizioni
 
+1.
+                        
+                            
+                                Ai fini del presente decreto si intende per: 
+ 
+                            
+                            
+                                a)
+                                
+                                    «avente causa»: persona fisica o giuridica alla quale il costitutore della varieta', o del clone, trasferisce i propri diritti e doveri relativamente all'utilizzo; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    «barbatellaio»: appezzamento di un vivaio dove si mettono a radicare le barbatelle; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    «campo catalogo delle varieta' di viti iscritte al Registro nazionale»: impianto dove viene mantenuto in coltivazione un campione di piante di tutte le varieta' iscritte al Registro nazionale delle varieta' di viti (RNVV); 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    «campo di produzione»: appezzamento di terreno, dipendente da un centro aziendale, anche privo di strutture stabili, in cui avviene la produzione, anche temporanea; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    «centro aziendale»: luogo operativo stabilmente costituito, provvisto di strutture attraverso le quali l'operatore professionale svolge le attivita' di cui all'articolo 65, paragrafo, 1 del regolamento (UE) 2016/2031, al quale afferiscono i campi di produzione; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    «certificato del costitutore»: documento di carattere amministrativo o fiscale rilasciato dal costitutore della varieta' o del clone o dal suo avente causa, che attesta la categoria Iniziale o Base del materiale di moltiplicazione ai fini della costituzione di vigneti di viti-madri; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    «clone»: una discendenza vegetativa di una varieta' conforme a un ceppo di vite scelto per la sua identita' varietale, i suoi caratteri fenotipici e il suo stato sanitario; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    «Comitato fitosanitario nazionale»: organismo di cui al decreto legislativo recante norme per la protezione delle piante dagli organismi nocivi in attuazione dell'articolo 11 della legge 4 ottobre 2019, n. 117; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    «costitutore»: la persona fisica o giuridica che ha creato oppure scoperto e sviluppato la varieta' ovvero il suo avente causa, responsabile della conservazione in purezza della varieta', che effettua direttamente o affida ad un responsabile della conservazione, nonche' dello stato sanitario dei materiali di moltiplicazione delle categorie «Iniziale» e «Base» di detta varieta'; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    «marza»: porzione di pianta con almeno una gemma vitale; 
+
+                                
+                            
+                            
+                                m)
+                                
+                                    «materiali di moltiplicazione»: 
+ 1) piante di vite: 
+ 1.1) barbatelle franche: frazioni di sarmenti o di tralci erbacei di vite, radicati e non innestati, destinati ad essere piantati franchi o ad essere impiegati come portinnesto; 
+ 1.2) barbatelle innestate: frazioni di sarmenti o di tralci erbacei di vite, uniti mediante innesto la cui parte sotterranea e' radicata; 
+ 1.3) barbatelle in vasetto: barbatelle franche o innestate prodotte in contenitori alveolati o vasetti; 
+ 1.4) barbatelle reinnestate: barbatelle innestate o barbatelle franche, precedentemente autorizzate alla commercializzazione, sulle quali e' stato rispettivamente sostituito o posto un nesto mediante innesto, messe a dimora in vivaio o in vasetto; 
+ 1.5) barbatelle rimesse: barbatelle franche o innestate precedentemente autorizzate alla commercializzazione messe a dimora in vivaio o in vasetto; 
+ 1.6) barbatelle frigoconservate: barbatelle franche o innestate conservate in frigo per la campagna successiva; 
+ 1.7) barbatelle micropropagate: barbatelle franche di varieta' portinnesto ottenute dalla moltiplicazione in vitro di gemme ascellari, secondo quanto riportato all'allegato I al presente decreto, di cui costituisce parte integrante; 
+ 2) parti di piante di vite: 
+ 2.1) sarmenti: tralci di un anno; 
+ 2.2) tralci erbacei: tralci non lignificati; 
+ 2.3) talee di portinnesto: frazioni di sarmenti o di tralci erbacei di vite, destinate a formare la parte sotterranea nella preparazione delle barbatelle innestate; 
+ 2.4) nesti: frazioni di sarmenti o di tralci erbacei di vite, destinati a formare la parte aerea nella preparazione delle barbatelle innestate o per gli innesti sul posto; 
+ 2.5) talee da vivaio: frazioni di sarmenti o di tralci erbacei di vite, destinati alla produzione di barbatelle franche; 
+
+                                
+                            
+                            
+                                n)
+                                
+                                    «micropropagazione»: moltiplicazione in vitro di varieta' di vite; 
+
+                                
+                            
+                            
+                                o)
+                                
+                                    «operatore professionale»: come definito dall'articolo 2, paragrafo 1, punto 9), del regolamento (UE) 2016/2031; 
+
+                                
+                            
+                            
+                                p)
+                                
+                                    «richiedente»: 
+ 1) per l'iscrizione di varieta': persona fisica o giuridica che, qualora non sia noto il costitutore, propone l'iscrizione di una varieta' ai fini della sua utilizzazione commerciale e ne garantisce il mantenimento in conservazione. 
+ 2) per l'iscrizione di cloni: la persona fisica o giuridica che presenta la domanda di iscrizione di un clone al Registro nazionale, responsabile della conservazione in purezza del clone, che effettua direttamente o affida ad un responsabile della conservazione, nonche' dello stato sanitario dei materiali di moltiplicazione delle categorie «Iniziale» e «Base» di detto clone; 
+
+                                
+                            
+                            
+                                q)
+                                
+                                    «Servizio fitosanitario nazionale»: l'organismo di cui al decreto legislativo recante norme per la protezione delle piante dagli organismi nocivi in attuazione dell'articolo 11 della legge 4 ottobre 2019, n. 117, articolato nel Servizio fitosanitario centrale e nei Servizi fitosanitari regionali e delle province autonome; 
+
+                                
+                            
+                            
+                                r)
+                                
+                                    «varieta'»: un insieme di vegetali nell'ambito di un unico taxon botanico del piu' basso grado conosciuto, il quale possa essere: 
+ 1) definito mediante l'espressione delle caratteristiche risultanti da un dato genotipo o da una data combinazione di genotipi; 
+ 2) distinto da qualsiasi altro insieme vegetale mediante l'espressione di almeno una delle suddette caratteristiche; e 
+ 3) considerato come un'unita' in relazione alla sua idoneita' a moltiplicarsi invariato; 
+
+                                
+                            
+                            
+                                s)
+                                
+                                    «varieta' pubblica»: varieta' in libera moltiplicazione; 
+
+                                
+                            
+                            
+                                t)
+                                
+                                    «vigneti di viti-madri»: colture di viti destinate alla produzione di talee di portinnesto, di talee da vivaio o di nesti, identificati in modo univoco nella denuncia di produzione; 
+
+                                
+                            
+                            
+                                u)
+                                
+                                    «vite»: le piante del genere Vitis (L.) destinate alla produzione di uve o all'utilizzazione quali materiali di moltiplicazione di queste stesse piante; 
+
+                                
+                            
+                            
+                                v)
+                                
+                                    «vivai di viti»: colture di viti destinate alla produzione di barbatelle franche o di barbatelle innestate.
+
 ## Art. 3. — Categorie dei materiali di moltiplicazione della vite
+
+1.
+                        
+                            
+                                Ai fini dell'applicazione del presente decreto i materiali di moltiplicazione della vite si suddividono nelle seguenti categorie: 
+ 
+                            
+                            
+                                a)
+                                
+                                    «materiali di moltiplicazione Iniziali»; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    «materiali di moltiplicazione di Base»; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    «materiali di moltiplicazione Certificati»; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    «materiali di moltiplicazione Standard».
 
 I requisiti delle categorie di cui al presente articolo sono stabiliti all'articolo 22.
 
@@ -48,6 +243,59 @@ Il Ministero delle politiche agricole alimentari e forestali, di seguito denomin
 
 ## Art. 5. — Competenze del Servizio fitosanitario centrale
 
+1.
+                        
+                            
+                                Al Servizio fitosanitario centrale, quale autorita' unica di coordinamento, compete: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il coordinamento nazionale nella materia oggetto del presente decreto, ai fini della tutela della qualita' dei materiali di moltiplicazione; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'organizzazione dell'attivita' d'informazione, formazione e coordinamento a livello nazionale, del personale tecnico incaricato dei controlli di cui al Capo III; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il coordinamento e l'effettuazione delle prove ufficiali di distinguibilita', omogeneita' e stabilita' (DUS), di cui all'articolo 15, ai fini dell'iscrizione al Registro varietale; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    la predisposizione delle modalita' di attuazione dei controlli degli impianti di viti madri e vivai e le procedure documentate di controllo, sentito il parere del Gruppo di lavoro permanente per la protezione delle piante - Sezione materiali di moltiplicazione della vite di cui all'articolo 7; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    il controllo, la certificazione, il rilascio dell'autorizzazione alla commercializzazione e alla stampa delle etichette ufficiali dei materiali di moltiplicazione di categoria iniziale e di base; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    la tenuta e l'aggiornamento del Registro nazionale delle varieta'; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    la raccolta, la tenuta e l'elaborazione dei dati delle denunce di cui all'articolo 23 e dei relativi controlli di cui agli articoli 24 e 25.
+
 Il Ministro delle politiche agricole alimentari e forestali, con proprio decreto, puo' delegare l'esercizio di determinate attivita' di cui al comma 1, lettere c) ed e), ad enti scientifici o di ricerca nazionali in possesso di adeguata esperienza nella effettuazione di prove ufficiali DUS in applicazione del Capo II.
 
 ## Art. 6. — Competenze dei Servizi fitosanitari regionali
@@ -57,6 +305,31 @@ Ai Servizi fitosanitari regionali e delle province autonome compete il controllo
 ## Art. 7. — Funzioni del Gruppo di lavoro permanente per la protezione delle piante - Sezione materiali di moltiplicazione della vite.
 
 Il Servizio fitosanitario centrale si avvale del Gruppo di lavoro permanente per la protezione delle piante - Sezione materiali di moltiplicazione della vite, di cui al decreto del Ministro delle politiche agricole alimentari e forestali ministeriale 30 giugno 2016, n. 17713, di seguito denominato «Gruppo di lavoro permanente», che ha compiti tecnici, consultivi e propositivi.
+
+2.
+                        
+                            
+                                La Sezione materiali di moltiplicazione della vite esprime parere in merito: 
+ 
+                            
+                            
+                                a)
+                                
+                                    alle problematiche nazionali e dell'Unione di carattere tecnico e normativo relative alle iscrizioni nel Registro nazionale, alla produzione, commercializzazione e certificazione dei materiali di moltiplicazione della vite; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    alle modalita' di applicazione delle direttive e delle decisioni adottate a livello dell'Unione in merito alla materia disciplinata dal presente decreto; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    alle richieste di iscrizione di varieta' e cloni al Registro nazionale delle varieta' di viti.
 
 ## Art. 8. — Obblighi degli operatori professionali
 
@@ -81,6 +354,39 @@ Con decreto del Ministro delle politiche agricole alimentari e forestali, da ado
 
 ## Art. 10. — Informazioni contenute nel Registro
 
+1.
+                        
+                            
+                                Il Registro comprende le seguenti informazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    per le varieta': 
+ 1) la specie di appartenenza della varieta' o dell'incrocio; 
+ 2) la denominazione della varieta'; 
+ 3) eventuali sinonimi della varieta'; 
+ 4) il costitutore o il richiedente l'iscrizione; 
+ 5) il responsabile della conservazione della varieta'; 
+ 6) la descrizione ufficiale; 
+ 7) l'utilizzo; 
+ 8) eventuali annotazioni ed altre informazioni utili; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    per i cloni: 
+ 1) la denominazione della varieta' di appartenenza; 
+ 2) la denominazione del clone e indicazioni dell'eventuale biotipo; 
+ 3) il richiedente l'iscrizione del clone o l'eventuale rappresentante; 
+ 4) la descrizione ufficiale; 
+ 5) la data di iscrizione della varieta' di appartenenza; 
+ 6) il responsabile della conservazione del clone; 
+ 7) eventuali annotazioni ed altre informazioni utili.
+
 Il Servizio fitosanitario centrale provvede ad istituire un fascicolo, di tipo elettronico, per ogni varieta' e clone iscritto, contenente la descrizione ufficiale della varieta' e del clone e una sintesi di tutti i fatti pertinenti alla registrazione della varieta' e del clone.
 
 ## Art. 11. — Campo catalogo
@@ -92,6 +398,38 @@ Il CREA-VE inoltra annualmente una relazione al Ministero avente ad oggetto il m
 ## Art. 12.
 
 Procedimento di iscrizione di una varieta' di vite
+
+1.
+                        
+                            
+                                Il procedimento di iscrizione di una varieta' di vite nel Registro di cui all'articolo 9, regolato dagli articoli che seguono, si articola in: 
+ 
+                            
+                            
+                                a)
+                                
+                                    esame della domanda di iscrizione; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    esecuzione delle prove ufficiali per la valutazione della sussistenza dei requisiti per l'iscrizione delle varieta' di vite al registro nazionale; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    parere del Gruppo di lavoro permanente; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    provvedimento di iscrizione della varieta' di vite.
 
 ## Art. 13.
 
@@ -118,6 +456,31 @@ Le prove ufficiali di cui all'articolo 14 vertono sui caratteri e criteri minimi
 Il costitutore o il richiedente l'iscrizione deve inviare al Ministero, o all'organismo da questo delegato allo scopo, i materiali di moltiplicazione necessari all'effettuazione degli esami di cui al comma 1, nei tempi e con le modalita' definiti dal Ministero con il decreto di cui all'articolo 14, comma 2.
 
 Gli esami ufficiali accertano che le varieta' di vite siano distinguibili, stabili e omogenee.
+
+4.
+                        
+                            
+                                Una varieta' e' considerata: 
+ 
+                            
+                            
+                                a)
+                                
+                                    distinguibile, quando e' chiaramente identificabile, mediante l'espressione dei caratteri risultanti da un particolare genotipo o combinazione di genotipi, da qualsiasi altra varieta' la cui esistenza e' notoriamente conosciuta nell'Unione europea. Una varieta' si considera conosciuta nell'Unione europea se, al momento in cui la domanda di ammissione e' debitamente presentata, e' contenuta nel catalogo dello Stato membro in causa o di un altro Stato membro, o e' oggetto di una domanda di ammissione nello Stato membro in causa o in un altro Stato membro, a meno che le condizioni precedentemente indicate non siano piu' soddisfatte in tutti gli Stati membri interessati prima della decisione in merito alla domanda di ammissione della varieta' da valutare; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    stabile, se l'espressione dei caratteri compresi nell'esame della distinzione, nonche' di qualsiasi altro carattere utilizzato per la descrizione della varieta' rimane invariata dopo ripetute moltiplicazioni; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    omogenea, se, fatte salve le variazioni che possono derivare dalle particolarita' della sua moltiplicazione, e' omogenea nell'espressione dei caratteri compresi nell'esame della distinzione, nonche' di qualsiasi altro carattere utilizzato per la descrizione della varieta'.
 
 Al termine degli esami di cui al comma 1, il Ministero predispone il rapporto di esame, e lo trasmette al Gruppo di lavoro permanente che si esprime con parere vincolante. Qualora venga designato un organismo delegato, questo provvede all'invio del rapporto di esame al Servizio fitosanitario centrale, che lo trasmette al Gruppo di lavoro permanente.
 
@@ -149,6 +512,24 @@ La varieta' che riveste particolare interesse per la viticoltura nazionale, su p
  nel Registro nazionale
 
 Con decreto del Ministro delle politiche agricole alimentari e forestali, da adottare entro centottanta giorni dalla data di entrata in vigore del presente decreto, sono definite le modalita' di presentazione e i contenuti della domanda di iscrizione di un clone nel Registro nazionale di cui all'articolo 9, nonche' i requisiti delle selezioni clonali.
+
+2.
+                        
+                            
+                                L'iscrizione di un clone di vite nel Registro nazionale di cui all'articolo 9, e' richiesta al Ministero, con apposita istanza corredata delle informazioni necessarie allo svolgimento delle verifiche di riconoscimento delle caratteristiche agronomiche, enologiche e fitosanitarie. L'istanza deve comunque indicare: 
+ 
+                            
+                            
+                                a)
+                                
+                                    i vitigni interessati alla selezione clonale, origine e identificazione dei presunti cloni; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'ubicazione dei campi di confronto o di verifica del mantenimento delle caratteristiche agronomiche, enologiche e fitosanitarie (comune, foglio e particella catastale, indirizzo dell'azienda e relativo piano di impianto).
 
 Il Ministero o l'organismo da questo delegato, ai fini dell'esame della domanda, puo' svolgere ispezioni per verificare le caratteristiche delle selezioni clonali.
 
@@ -199,8 +580,87 @@ Il Registro, inserito nel Sistema informativo agricolo nazionale, si articola in
 
 Con il decreto di delega del Ministro delle politiche agricole alimentari e forestali di cui al comma 1, sono definiti anche i requisiti e le modalita' di formazione del personale tecnico coinvolto, autorizzato ai controlli dei materiali di moltiplicazione della vite.
 
+6.
+                        
+                            
+                                Con decreto del Ministro delle politiche agricole alimentari e forestali e' revocata l'autorizzazione concessa al personale tecnico, e il nominativo cancellato dal Registro di cui al comma 3 qualora sussista anche una sola delle seguenti condizioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    non possegga piu' i requisiti richiesti dal presente articolo; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    non soddisfi gli obblighi previsti dal presente decreto; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    non dimostri la necessaria diligenza; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    non si attenga scrupolosamente alle istruzioni ricevute.
+
 ## Art. 22. — Categorie di certificazione dei materiali 
  di moltiplicazione della vite e loro requisiti
+
+1.
+                        
+                            
+                                Per i materiali di moltiplicazione della vite, le condizioni richieste ai fini della classificazione di cui all'articolo 3 sono le seguenti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    «materiali di moltiplicazione Iniziali»: i materiali di moltiplicazione, comprese le barbatelle franche portinnesto ottenute da micropropagazione: 
+ 1) prodotti sotto la responsabilita' del costitutore secondo metodi ammessi per il mantenimento dell'identita' della varieta' o del clone, nonche' a fini di prevenzione di malattie; 
+ 2) destinati alla produzione di materiali di moltiplicazione di Base o di materiali di moltiplicazione Certificati; 
+ 3) conformi alle condizioni degli allegati II, III e, se del caso, allegato I per i materiali di moltiplicazione Iniziali e per i quali, all'atto di un esame ufficiale, sia stata constatata la rispondenza alle condizioni di cui ai punti 1) e 2); 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    «materiali di moltiplicazione di Base»: i materiali di moltiplicazione, comprese le barbatelle franche portinnesto ottenute da micropropagazione: 
+ 1) prodotti sotto la responsabilita' del costitutore secondo metodi ammessi per il mantenimento dell'identita' della varieta' e, se del caso, del clone, nonche' a fini di prevenzione di malattie, e provenienti direttamente da materiali di moltiplicazione Iniziali per via vegetativa; 
+ 2) destinati alla produzione di materiali di moltiplicazione Certificati; 
+ 3) conformi alle condizioni degli allegati II, III e, se del caso, allegato I per i materiali di moltiplicazione di base; 
+ 4) per i quali, all'atto di un esame ufficiale, sia stata constatata la rispondenza alle condizioni di cui ai punti 1), 2) e 3); 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    «materiali di moltiplicazione Certificati»: i materiali di moltiplicazione: 
+ 1) provenienti direttamente da materiali di moltiplicazione di base o da materiali di moltiplicazione iniziali; 
+ 2) destinati alla produzione di piante o di parti di piante che servono alla produzione di uve, ovvero alla produzione di uve; 
+ 3) conformi alle condizioni degli allegati II e III per materiali di moltiplicazione certificati; 
+ 4) per i quali, all'atto di un esame ufficiale, sia stata constatata la rispondenza alle condizioni summenzionate; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    «materiali di moltiplicazione Standard»: i materiali di moltiplicazione: 
+ 1) che presentano l'identita' e la purezza della varieta'; 
+ 2) destinati alla produzione di piante o di parti di piante che servono alla produzione di uve, ovvero alla produzione di uve; 
+ 3) conformi alle condizioni degli allegati II e III per i materiali di moltiplicazione Standard; 
+ 4) per i quali, all'atto di un esame ufficiale, sia stata constatata la rispondenza alle condizioni summenzionate.
 
 Le varieta' e i cloni iscritti nei cataloghi degli altri Stati membri sono ammessi anche alla certificazione o al controllo quale materiali di moltiplicazione standard sul territorio nazionale.
 
@@ -259,7 +719,82 @@ Nel caso di utilizzo delle marze in regione diversa da quella di prelievo, lo sp
 ## Art. 28. — Commercializzazione dei materiali di moltiplicazione 
  della vite
 
+1.
+                        
+                            
+                                I materiali di moltiplicazione della vite possono essere commercializzati in presenza delle seguenti condizioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    se sono ufficialmente certificati nelle categorie «materiali di moltiplicazione iniziali», «materiali di moltiplicazione di base» o «materiali di moltiplicazione certificati» oppure ufficialmente controllati come materiali di moltiplicazione standard nel caso di materiali di moltiplicazione diversi da quelli destinati ad essere impiegati come portinnesto; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    se soddisfano le condizioni dell'allegato III.
+
 Le barbatelle reinnestate sono commercializzate nella categoria Standard.
+
+3.
+                        
+                            
+                                Per commercializzazione, ai fini del presente decreto, si intende la vendita, la conservazione a fini di vendita, l'offerta in vendita e qualsiasi cessione, fornitura o trasferimento di materiali di moltiplicazione a terzi, con o senza compenso, a scopo di sfruttamento commerciale. Non rientrano nella commercializzazione gli scambi di materiali di moltiplicazione che non mirano a uno sfruttamento commerciale della varieta', e comunque: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la fornitura di materiali di moltiplicazione a organismi di sperimentazione o di controllo; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la fornitura di materiali di moltiplicazione a prestatori di servizi, in vista della trasformazione o del condizionamento, purche' il prestatore non acquisisca un titolo sul materiale di moltiplicazione fornito; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    lo spostamento di materiali di moltiplicazione tra centri aziendali dello stesso operatore professionale situati nella stessa provincia a fini di condizionamento o lavorazione.
+
+4.
+                        
+                            
+                                Fatte salve le norme fitosanitarie vigenti, il Ministro delle politiche agricole alimentari e forestali con proprio provvedimento puo' definire criteri e modalita' per la commercializzazione di quantitativi adeguati di materiali di moltiplicazione della vite destinati a: 
+ 
+                            
+                            
+                                a)
+                                
+                                    prove per scopi scientifici; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    lavori di selezione; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    misure volte alla conservazione della diversita' genetica; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    consumatore finale non professionista.
 
 ## Art. 29. — Autorizzazione alla commercializzazione
 
@@ -406,4 +941,133 @@ Fino all'adozione del provvedimento attuativo previsto all'articolo 34, comma 3,
 Il personale tecnico per i controlli ai materiali di moltiplicazione della vite gia' autorizzato alla data di pubblicazione del presente decreto e' iscritto d'ufficio in apposita sezione ad esaurimento del Registro del personale di cui all'articolo 21.
 
 ## Art. 39. — Abrogazioni
+
+1.
+                        
+                            
+                                A decorrere dalla data di entrata in vigore del presente decreto sono abrogati i seguenti atti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    
+                                        decreto del Presidente della Repubblica 24 dicembre 1969, n. 1164; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    
+                                        decreto del Presidente della Repubblica 29 luglio 1974, n. 543; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    
+                                        decreto del Presidente della Repubblica 18 maggio 1982, n. 518; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    
+                                        legge 19 dicembre 1984, n. 865; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    decreto del Ministro dell'agricoltura e delle foreste 18 aprile 1989, pubblicato nella Gazzetta Ufficiale della Repubblica italiana n. 136 del 13 giugno 1989; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    
+                                        decreto del Ministro dell'agricoltura e delle foreste 2 luglio 1991, n. 290, pubblicato nella Gazzetta Ufficiale della Repubblica italiana n. 209 del 6 settembre 1991; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    decreto del Ministro delle risorse agricole alimentari e forestali 30 agosto 1996, pubblicato nella Gazzetta Ufficiale della Repubblica italiana n. 217 del 16 settembre 1996; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    
+                                        decreto del Presidente della Repubblica 29 ottobre 1997, n. 432; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    decreto del Ministro per le politiche agricole 24 giugno 1997, pubblicato nella Gazzetta Ufficiale della Repubblica italiana n. 230 del 2 ottobre 1997; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    decreto del Ministro per le politiche agricole 22 dicembre 1997, pubblicato nella Gazzetta Ufficiale della Repubblica italiana n. 35 del 12 febbraio 1998; 
+
+                                
+                            
+                            
+                                m)
+                                
+                                    decreto del Ministro per le politiche agricole 22 dicembre 1997, pubblicato nella Gazzetta Ufficiale della Repubblica italiana n. 50 del 2 marzo 1998; 
+
+                                
+                            
+                            
+                                n)
+                                
+                                    decreto del Ministro delle politiche agricole e forestali 30 maggio 2001, pubblicato nella Gazzetta Ufficiale della Repubblica italiana n. 225 del 27 settembre 2001; 
+
+                                
+                            
+                            
+                                o)
+                                
+                                    decreto del Ministro delle politiche agricole e forestali 6 ottobre 2004, pubblicato nella Gazzetta Ufficiale della Repubblica italiana n. 16 del 21 gennaio 2005; 
+
+                                
+                            
+                            
+                                p)
+                                
+                                    decreto del Ministro delle politiche agricole e forestali 8 febbraio 2005, pubblicato nella Gazzetta Ufficiale della Repubblica italiana n. 82 del 9 aprile 2005; 
+
+                                
+                            
+                            
+                                q)
+                                
+                                    decreto del Ministro delle politiche agricole alimentari e forestali 7 luglio 2006, pubblicato nella Gazzetta Ufficiale della Repubblica italiana n. 211 dell'11 settembre 2006; 
+
+                                
+                            
+                            
+                                r)
+                                
+                                    decreto del Ministero delle politiche agricole alimentari e forestali 24 giugno 2008, pubblicato nella Gazzetta Ufficiale della Repubblica italiana n. 195 del 21 agosto 2008; 
+
+                                
+                            
+                            
+                                s)
+                                
+                                    decreto del Ministero delle politiche agricole alimentari e forestali 13 dicembre 2011, pubblicato nella Gazzetta Ufficiale della Repubblica italiana n. 50 del 29 febbraio 2012.
 

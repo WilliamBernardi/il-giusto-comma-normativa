@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
 vigenza_date: 2016-12-10
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:41Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -51,6 +51,38 @@ Il Comitato e' altresi' l'organismo competente previsto dall'art. 18 del regolam
 Il Comitato svolge le funzioni previste dai regolamenti CEE n. 880/92 e n. 1836/93 del Consiglio, dalle leggi nazionali di relativa attuazione e dal presente regolamento.
 
 ## Art. 2. — Composizione e funzionamento del Comitato
+
+1.
+                        
+                            
+                                Il Comitato e' composto dal presidente e da un vice presidente, nominati con decreto del Ministro dell'ambiente, di concerto con il Ministro dell'industria, del commercio e dell'artigianato, nonche' da dodici componenti, nominati con decreto del Ministro dell'ambiente, di cui:
+ 
+                            
+                            
+                                a)
+                                
+                                    quattro membri designati dal Ministero dell'ambiente;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    due membri designati dal Ministero della sanita';
+
+                                
+                            
+                            
+                                c)
+                                
+                                    quattro membri designati dal Ministero dell'industria, del commercio e dell'artigianato;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    due membri designati dal Ministero del tesoro.
 
 ((
 
@@ -103,11 +135,96 @@ Il Comitato, avvalendosi del supporto tecnico dell'ANPA, svolge tutti i compiti 
 
 ## Art. 5. — Compiti dell'ANPA
 
+1.
+                        
+                            
+                                L'attivita' di supporto tecnico dell'ANPA, si svolge in particolare, nelle seguenti materie, secondo le direttive del Comitato: 
+ 
+                            
+                            
+                                a)
+                                
+                                    istruttoria tecnico amministrativa delle domande di assegnazione del marchio comunitario di qualita' ecologica; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    predisposizione dei formulari per la compilazione delle domande di assegnazione del marchio comunitario di qualita' ecologica; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    istituzione e gestione di appositi e distinti registri delle domande di assegnazione di tale marchio ricevute, accolte e respinte; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    predisposizione di nuovi gruppi di prodotti da sottoporre alla delibera del Comitato, ex art. 5 del regolamento comunitario Ecolabel; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    informazione del pubblico e delle imprese sul regolamento attraverso appositi strumenti, ((...)) senza l'aggravio di ulteriori oneri; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    promozione di studi e ricerche necessari per l'attuazione del regolamento 880/92 del Consiglio.
+
 ## Art. 6. — Compiti dell'ispettorato tecnico del Ministero dell'industria
 
 L'ispettorato tecnico del Ministero dell'industria, del commercio e dell'artigianato accerta i requisiti di idoneita' dei laboratori abilitati ad eseguire l'accertamento tecnico preliminare indipendente ai sensi dell'art. 10, comma 2, del regolamento 880/92/CEE e redige un elenco che viene pubblicato a cura del Comitato nella Gazzetta Ufficiale della Repubblica italiana.
 
 ## Art. 7. — Forum consultivo
+
+1.
+                        
+                            
+                                Per assicurare la piu' ampia partecipazione dei gruppi di interesse, e' istituito con decreto del Ministro dell'ambiente, con funzioni consultive per il Comitato, un forum di dodici esperti, presieduto dal presidente della sezione Ecolabel, cosi' composto:
+ 
+                            
+                            
+                                a)
+                                
+                                    tre membri designati dalle associazioni di categoria piu' rappresentative della produzione industriale (di cui uno per le piccole e medie imprese);
+
+                                
+                            
+                            
+                                b)
+                                
+                                    due membri designati dalle associazioni di categoria piu' rappresentative del settore del commercio;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    due membri designati dalle associazioni di categoria piu' rappresentative del settore dell'artigianato;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    tre rappresentanti designati dalle associazioni ambientali riconosciute ai sensi della legge 8 luglio 1986, n. 349, art. 13;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    due rappresentanti designati dalla consulta dei consumatori.
 
 Le spese per la partecipazione al forum consultivo restano a totale carico delle categorie rappresentate.
 
@@ -124,6 +241,24 @@ Per le domande, che riguardano nuovi gruppi di prodotti, il Comitato, previa con
 
 ## Art. 9. — Procedimento per l'assegnazione
  del marchio comunitario di qualita' ecologica
+
+1.
+                        
+                            
+                                Il procedimento di assegnazione del marchio comunitario di qualita' ecologica si articola nelle seguenti fasi:
+ 
+                            
+                            
+                                a)
+                                
+                                    le aziende presentano al Comitato le domande di assegnazione del marchio di qualita' ecologica, tramite l'ANPA, utilizzando il formulario di cui all'art. 5, comma 1, lettera b), corredate dal certificato di cui all'art. 6, di accertamento preliminare indipendente, rilasciato da un laboratorio iscritto nell'elenco, di cui al predetto art. 6. L'istruttoria tecnico-amministrativa e' curata dall'ANPA e deve essere espletata entro il termine di sessanta giorni dal ricevimento della domanda;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il Comitato, entro il termine di trenta giorni dal ricevimento della pratica, decide tenendo conto del parere formulato dall'ANPA e notifica la propria decisione ai sensi dell'art. 10, commi 3 e 7, del regolamento comunitario.
 
 Ai fini dell'esercizio del diritto di accesso ai documenti amministrativi relativi al procedimento si applicano le disposizioni dell'art. 13 del regolamento CEE 880/92 del Consiglio, dell'art. 24 della legge 7 agosto 1990, n. 241, e del decreto del Presidente della Repubblica 27 giugno 1992, n. 352.
 
@@ -155,6 +290,24 @@ Le somme derivanti dai diritti di cui al comma 2, cosi' come
 Il Comitato, avvalendosi dell'ANPA, svolge tutti i compiti attribuiti all'organismo competente dal regolamento comunitario 1836/93 del Consiglio.
 
 ## Art. 12. — Compiti dell'ANPA
+
+1.
+                        
+                            
+                                Il Comitato, per l'espletamento dei compiti i cui al precedente art. 11, si avvale dell'Agenzia nazionale per L'ambiente, la quale in particolare: 
+ 
+                            
+                            
+                                a)
+                                
+                                    provvede, secondo le direttive del Comitato, alla tenuta del registro contenente l'elenco dei siti aderenti al sistema di ecogestione e audit, di cui all'art. 8, comma 1, del regolamento comunitario Ecoaudit; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    cura su direttiva del Comitato la corretta informazione del pubblico e delle imprese, con appositi strumenti, eventualmente anche avvalendosi della collaborazione delle camere di commercio, industria ed artigianato, senza l'aggravio di ulteriori oneri. ((3))
 
 ---------------
                             AGGIORNAMENTO (3)

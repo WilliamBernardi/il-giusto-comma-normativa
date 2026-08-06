@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Regolamenti di delegificazione
 vigenza_date: 2007-01-01
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:40:24Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -41,6 +41,45 @@ Il presente regolamento disciplina i procedimenti di concessione di contributi e
 ## - CAPO II PROCEDIMENTI DI CONCESSIONE
 
 ## Art. 3. — Domande di concessione
+
+1.
+                        
+                            
+                                Devono essere presentate all'Amministrazione le domande di concessione relative ai seguenti procedimenti:
+ 
+                            
+                            
+                                a)
+                                
+                                    concessione dei contributi all'attivita' teatrale di prosa di cui all'art. 1 del decreto legislativo 20 febbraio 1948, n. 62 e della legge 30 aprile 1985, n. 163;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    concessione dei contributi e dei premi di cui alla legge 4 novembre 1965, n. 1213;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    concessione delle sovvenzioni di cui alla legge 14 agosto 1967, n. 800;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    concessione dei contributi di cui all'art. 19 della legge 18 marzo 1968, n. 337 e all'art. 1 della legge 29 luglio 1980, n. 390;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    concessione di ogni altro contributo a carico del Fondo unico per lo spettacolo.
 
 ## Art. 4. — Fase istruttoria
 
@@ -93,6 +132,24 @@ Il servizio di controllo interno, istituito dall'art. 20 del decreto legislativo
 L'inosservanza dei termini prescritti puo' essere valutata ai fini dell'applicazione delle sanzioni previste a carico dei dirigenti generali, dei dirigenti e degli altri dipendenti dall'art. 20, commi 9 e 10, e dall'art. 59 del decreto legislativo 3 febbraio 1993, n. 29, cosi' come modificati rispettivamente dall'art. 6 del decreto legislativo 10 novembre 1993, n. 470 e dall'art. 27 del decreto legislativo 23 dicembre 1993, n. 546.
 
 ## Art. 12. — Norme abrogate
+
+1.
+                        
+                            
+                                Ai sensi dell'art. 2, comma 8, della legge 24 dicembre 1993, n. 537, dalla data di entrata in vigore del presente regolamento sono abrogati:
+ 
+                            
+                            
+                                a)
+                                
+                                    l'art. 24, commi 1, 2, 3, 4 e 5 della legge 4 novembre 1965, n. 1213;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    gli articoli 6, 7 e 8 della legge 18 marzo 1968, n. 337.
 
 ## Art. 13. — Entrata in vigore
 

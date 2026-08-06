@@ -9,7 +9,7 @@ vigente: true
 source: normattiva-opendata
 collection: Atti di recepimento direttive UE
 zip_date: 2026-07-30
-fetched_at: 2026-08-02T09:40:49Z
+fetched_at: 2026-07-30
 ---
 
 DECRETO LEGISLATIVO
@@ -68,6 +68,24 @@ L'articolo 2358 e' sostituito dal seguente:
  La societa' non puo', neppure per tramite di societa' fiduciaria, o per interposta persona, accettare azioni proprie in garanzia.
  Salvo quanto previsto dal comma sesto, le disposizioni del presente articolo non si applicano alle operazioni effettuate per favorire l'acquisto di azioni da parte di dipendenti della societa' o di quelli di societa' controllanti o controllate.
  Resta salvo quanto previsto dagli articoli 2391-bis e 2501-bis.».
+
+5.
+                    
+                        
+                            All'articolo 2440 sono apportate le seguenti modificazioni:
+ 
+                        
+                        
+                            a)
+                            
+                                al primo comma le parole: «e 2343» sono sostituite dalle seguenti: «2343, 2343-ter, e 2343-quater»;
+
+                            
+                        
+                        
+                            b)
+                            
+                                dopo il primo comma e' inserito il seguente secondo: «La dichiarazione di cui all'articolo 2343-quater e' allegata all'attestazione di cui all'articolo 2444.».
 
 Dopo l'articolo 2440, e' inserito il seguente:
  «Articolo 2440-bis

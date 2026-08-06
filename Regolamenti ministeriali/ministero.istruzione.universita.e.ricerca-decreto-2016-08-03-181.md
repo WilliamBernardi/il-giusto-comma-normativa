@@ -7,8 +7,8 @@ urn: urn:nir:ministero.istruzione.universita.e.ricerca:decreto:2016-08-03;181
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:40Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO

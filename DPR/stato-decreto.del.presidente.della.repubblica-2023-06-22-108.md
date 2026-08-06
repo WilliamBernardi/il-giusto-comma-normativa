@@ -7,8 +7,8 @@ urn: urn:nir:stato:decreto.del.presidente.della.repubblica:2023-06-22;108
 vigente: true
 source: normattiva-opendata
 collection: DPR
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:48:11Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -29,8 +29,59 @@ Sulla proposta del Ministro della cultura, di concerto con i Ministri dell'econo
 ## Art. 1. — Modifiche all'articolo 2 del decreto del Presidente 
  della Repubblica 11 novembre 2005, n. 255
 
+1.
+                    
+                        
+                            All'articolo 2 del decreto del Presidente della Repubblica 11 novembre 2005, n. 255, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                
+                                    al comma 3, il primo periodo e' sostituito dai seguenti: «Il presidente e' nominato dal Ministro della cultura, tra esperti di riconosciuta fama nelle discipline storiche rientranti nell'ambito di studio degli istituti della rete ovvero tra professori universitari di prima fascia nelle discipline storiche rientranti nell'ambito di studio degli istituti della rete ovvero tra studiosi che ricoprono presso istituti universitari o di ricerca stranieri una posizione accademica equipollente sulla base di tabelle di corrispondenza definite e aggiornate ogni tre anni dal Ministro dell'universita' e della ricerca, sentito il Consiglio universitario nazionale, nelle discipline storiche rientranti nell'ambito di studio degli istituti della rete, in ragione delle riconosciute competenze e della esperienza nell'organizzazione della ricerca. Dura in carica cinque anni e puo' essere confermato una sola volta.»;
+                                
+                            
+                        
+                        
+                            b)
+                            
+                                
+                                    il comma 4 e' sostituito dal seguente: 
+ «4. Il consiglio di amministrazione e' composto dal presidente, dai direttori degli Istituti di cui all'articolo 1, comma 2, e da quattro esperti di riconosciuta fama italiani o stranieri. Gli esperti sono nominati dal Ministro della cultura, nell'ambito di terne di candidati per ciascuna posizione, indicate congiuntamente dal presidente e dai direttori degli istituti della rete. I candidati di cui al secondo periodo sono scelti tra esperti di riconosciuta fama nelle discipline storiche rientranti nell'ambito di studio degli istituti della rete ovvero tra professori universitari di prima fascia nelle discipline storiche rientranti nell'ambito di studio degli istituti della rete ovvero tra studiosi che ricoprono presso istituti universitari o di ricerca stranieri una posizione accademica equipollente sulla base di tabelle di corrispondenza definite e aggiornate ogni tre anni dal Ministro dell'universita' e della ricerca, sentito il Consiglio universitario nazionale, nelle discipline storiche rientranti nell'ambito di studio degli istituti della rete, in ragione delle riconosciute competenze e della esperienza nell'organizzazione della ricerca. Gli esperti durano in carica cinque anni, possono essere confermati una sola volta e possono essere nominati nei consigli direttivi degli istituti della rete decorsi cinque anni dalla cessazione dell'incarico di esperto.».
+
 ## Art. 2. — Modifiche all'articolo 3 del decreto del Presidente 
  della Repubblica 11 novembre 2005, n. 255
+
+1.
+                    
+                        
+                            All'articolo 3 del decreto del Presidente della Repubblica 11 novembre 2005, n. 255, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                
+                                    il comma 4 e' sostituito dal seguente: 
+ «4. Il direttore e' nominato dal Ministro della cultura nell'ambito di una terna di candidati, indicata congiuntamente dal presidente e dagli esperti componenti il consiglio di amministrazione della Giunta storica nazionale. I candidati di cui al primo periodo sono scelti tra esperti di riconosciuta fama nelle discipline storiche rientranti nell'ambito di studio degli istituti della rete ovvero tra professori universitari di prima fascia nelle discipline storiche rientranti nell'ambito di studio degli istituti della rete ovvero tra studiosi che ricoprono presso istituti universitari o di ricerca stranieri una posizione accademica equipollente sulla base di tabelle di corrispondenza definite e aggiornate ogni tre anni dal Ministro dell'universita' e della ricerca, sentito il Consiglio universitario nazionale, nelle discipline storiche rientranti nell'ambito di studio degli istituti della rete, in ragione delle riconosciute competenze e della esperienza nell'organizzazione della ricerca. Il direttore svolge le funzioni di direttore della Scuola e del Museo annessi all'Istituto, ove esistenti; coordina e sovrintende a tutte le attivita' dell'Istituto; presiede il consiglio direttivo e di consulenza scientifica; nomina un membro del consiglio direttivo, che lo sostituisce in caso di assenza e di impedimento temporaneo.»;
+                                
+                            
+                        
+                        
+                            b)
+                            
+                                
+                                    il comma 6 e' sostituito dal seguente: 
+ «6. Il consiglio direttivo e di consulenza scientifica e' nominato dal Ministro della cultura ed e' costituito da quattro componenti, oltre al direttore. I componenti, diversi dal direttore, sono scelti tra terne di candidati per ciascuna posizione indicate dal consiglio di amministrazione della Giunta storica nazionale. I candidati di cui al secondo periodo sono scelti tra esperti di riconosciuta fama nelle discipline storiche rientranti nell'ambito di studio degli istituti della rete ovvero tra professori universitari di prima fascia nelle discipline storiche rientranti nell'ambito di studio degli istituti della rete ovvero tra studiosi che ricoprono presso istituti universitari o di ricerca stranieri una posizione accademica equipollente sulla base di tabelle di corrispondenza definite e aggiornate ogni tre anni dal Ministro dell'universita' e della ricerca, sentito il Consiglio universitario nazionale, nelle discipline storiche rientranti nell'ambito di studio degli istituti della rete, in ragione delle riconosciute competenze e della esperienza nell'organizzazione della ricerca. I componenti, diversi dal direttore, durano in carica cinque anni e possono essere confermati una sola volta.»;
+                                
+                            
+                        
+                        
+                            c)
+                            
+                                
+                                    al comma 9, le parole: «nell'articolo 4, comma 1» sono sostituite dalle seguenti: «dai commi 4 e 6, fermo restando il rispetto di procedure di nomina e la previsione di requisiti professionali idonei a garantire l'autonomia scientifica degli Istituti stessi.».
 
 ## Art. 3. — Formazione delle terne di candidati
 
@@ -42,6 +93,43 @@ Dopo l'articolo 3 del decreto del Presidente della Repubblica 11 novembre 2005, 
 
 ## Art. 4. — Modifiche all'articolo 6 del decreto del Presidente 
  della Repubblica 11 novembre 2005, n. 255
+
+1.
+                    
+                        
+                            All'articolo 6 del decreto del Presidente della Repubblica 11 novembre 2005, n. 255, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                
+                                    la rubrica e' sostituita dalla seguente: «Attivita' di coordinamento amministrativo della Giunta storica nazionale»;
+                                
+                            
+                        
+                        
+                            b)
+                            
+                                
+                                    al comma 1, la parola: «evenutali» e' sostituita dalla seguente: «eventuali»;
+                                
+                            
+                        
+                        
+                            c)
+                            
+                                
+                                    al comma 2, e' aggiunto, in fine, il seguente periodo: «Il coordinatore amministrativo e' coadiuvato da tre funzionari amministrativi individuati con le modalita' e nei limiti di cui al primo periodo.»;
+                                
+                            
+                        
+                        
+                            d)
+                            
+                                
+                                    dopo il comma 2, e' aggiunto, in fine, il seguente: 
+ «2-bis. Quando non e' possibile far fronte con personale in servizio presso gli istituti della rete alle esigenze funzionali di cui ai commi 1 e 2, il personale di cui al comma 2 e' individuato con procedure di comando o distacco, in misura non superiore a un coordinatore amministrativo e a tre funzionari amministrativi ed entro un limite massimo di spesa di 200.000 euro annui a decorrere dall'anno 2023.».
 
 ## Art. 5.
 
@@ -69,4 +157,32 @@ Sino al 31 dicembre 2023, qualora non sia possibile provvedere all'individuazion
 Gli articoli 4 e 9 del decreto del Presidente della Repubblica 11 novembre 2005, n. 255, sono abrogati.
 
 ## Art. 9. — Disposizioni finali
+
+1.
+                    
+                        
+                            Al decreto del Presidente della Repubblica 11 novembre 2005, n. 255, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                
+                                    le denominazioni: «Ministro della cultura» e «Ministero della cultura» sostituiscono, rispettivamente, le seguenti: «Ministro per i beni e le attivita' culturali» e «Ministero per i beni e le attivita' culturali» ovunque ricorrano;
+                                
+                            
+                        
+                        
+                            b)
+                            
+                                
+                                    le denominazioni: «Ministro dell'universita' e della ricerca» e «Ministero dell'universita' e della ricerca» sostituiscono, rispettivamente, le seguenti: «Ministro dell'istruzione, dell'universita' e della ricerca» e «Ministero dell'istruzione, dell'universita' e della ricerca» ovunque ricorrano;
+                                
+                            
+                        
+                        
+                            c)
+                            
+                                
+                                    la denominazione: «Ministro per la pubblica amministrazione» sostituisce la seguente: «Ministro per la funzione pubblica» ovunque ricorra.
 

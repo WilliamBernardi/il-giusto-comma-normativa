@@ -8,8 +8,8 @@ codice_redazionale: 009G0197
 vigente: true
 source: normattiva-opendata
 collection: DPR
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:47:57Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -23,6 +23,31 @@ Sulla proposta del Ministro dell'istruzione, dell'universita' e della ricerca, d
 
 ## Art. 1. — Definizioni e ambito di applicazione
 
+1.
+                    
+                        
+                            Ai sensi del presente decreto si intendono: 
+ 
+                        
+                        
+                            a)
+                            
+                                per «Ministero»: il Ministero dell'istruzione, dell'universita' e della ricerca; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                per «istituti di istruzione superiore»: gli istituti di istruzione superiore dei Paesi aderenti alla Unione europea e allo Spazio economico europeo, nonche' della Confederazione svizzera, statali o riconosciuti dallo Stato o accreditati nello Stato di origine, abilitati al rilascio di titoli di studio; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                per «istituti di istruzione superiore stranieri»: gli istituti di istruzione superiore dei Paesi diversi da quelli di cui alla lettera b), statali o riconosciuti dallo Stato o accreditati nello Stato di origine, abilitati al rilascio di titoli di studio e di documentata rilevanza scientifica sul piano internazionale.
+
 Il presente decreto si applica ai titoli di studio accademici rilasciati dagli istituti di istruzione superiore e dagli istituti di istruzione superiore stranieri dei Paesi aderenti alla «Convenzione per il riconoscimento dei titoli di studio relativi all'insegnamento superiore fatta in Lisbona l'11 aprile 1997», di seguito denominati: «titoli di studio».
 
 Le procedure disciplinate dal presente decreto sono finalizzate al riconoscimento dei titoli di studio per finalita' diverse da quelle accademiche di cui all'articolo 2 della legge 11 luglio 2002, n. 148, e da quelle, relative al riconoscimento professionale, previste dalla normativa comunitaria, nonche' dagli articoli 49 e 50 del decreto Presidente della Repubblica 19 agosto 1999, n. 394.
@@ -32,8 +57,97 @@ Le procedure disciplinate dal presente decreto sono finalizzate al riconosciment
 
 Per il riconoscimento dei titoli di studio conseguiti negli istituti di istruzione superiore stranieri, ai fini dell'accesso ai pubblici concorsi, si applicano le procedure previste dall'articolo 38, comma 3, del decreto legislativo 30 marzo 2001, n. 165, fermi restando i requisiti soggettivi previsti dalle norme vigenti in materia di accesso al pubblico impiego.
 
+2.
+                    
+                        
+                            Per i fini di cui al comma 1, gli interessati inviano la domanda al Ministero e alla Presidenza del Consiglio dei Ministri - Dipartimento della funzione pubblica corredata dei seguenti documenti: 
+ 
+                        
+                        
+                            a)
+                            
+                                titolo di studio estero, tradotto e legalizzato; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                certificato analitico degli esami sostenuti, rilasciato dall'istituto ove e' stato conseguito il titolo di studio e tradotto; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                dichiarazione di valore in loco della Rappresentanza diplomatico-consolare italiana competente per territorio nello Stato al cui ordinamento si riferisce il titolo di studio, che specifichi durata del corso, valore del titolo di studio e natura giuridica dell'istituto che lo ha rilasciato nell'ambito del predetto ordinamento; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                bando del concorso cui si intende partecipare con evidenziati i requisiti previsti per l'accesso.
+
 ## Art. 3. — Riconoscimento dei titoli di studio 
  da parte del Ministero
+
+1.
+                    
+                        
+                            Sono di competenza del Ministero le valutazioni concernenti il riconoscimento: 
+ 
+                        
+                        
+                            a)
+                            
+                                dei titoli di studio, ai fini dell'attribuzione di punteggio per la definizione della graduatoria definitiva in caso di pubblici concorsi, nonche' ai fini della progressione in carriera, su richiesta dell'amministrazione interessata; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                dei titoli di studio e dei relativi curricula studiorum ai fini previdenziali; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                dei titoli di studio, ai fini dell'iscrizione ai Centri per l'impiego, ferma restando la procedura di cui all'articolo 38 del decreto legislativo 30 marzo 2001, n. 165, per l'accesso agli impieghi presso le pubbliche amministrazioni; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                dei titoli di studio, conseguiti negli istituti di istruzione superiore, ai fini dell'accesso al praticantato o al tirocinio successivi al conseguimento della laurea e della laurea specialistica o magistrale, sentiti il Consiglio universitario nazionale e il Consiglio o Collegio nazionale della relativa categoria professionale, se esistente.
+
+2.
+                    
+                        
+                            Le amministrazioni interessate per il riconoscimento di titoli di studio per le finalita' di cui al comma 1 inviano al Ministero l'istanza degli interessati corredata dei seguenti documenti: 
+ 
+                        
+                        
+                            a)
+                            
+                                ove il titolo di studio sia stato rilasciato da un istituto di istruzione superiore straniero: 
+ 1) titolo di studio, tradotto e legalizzato; 
+ 2) certificato analitico degli esami sostenuti, rilasciato dall'istituto ove e' stato conseguito il titolo di studio e tradotto; 
+ 3) dichiarazione di valore in loco della Rappresentanza diplomatico-consolare italiana competente per territorio nello Stato al cui ordinamento si riferisce il titolo di studio, che specifichi durata del corso, valore del titolo di studio e natura giuridica dell'istituto che lo ha rilasciato nell'ambito del predetto ordinamento; 
+ 4) documentazione comprovante la finalita' per la quale e' richiesto il riconoscimento del titolo di studio; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                ove il titolo di studio sia stato rilasciato da un istituto di istruzione superiore: 
+ 1) titolo di studio tradotto; 
+ 2) certificato analitico degli esami sostenuti, rilasciato dall'Istituto ove e' stato conseguito il titolo di studio e tradotto; 
+ 3) documentazione comprovante la finalita' per la quale e' richiesto il riconoscimento del titolo di studio.
 
 Il provvedimento conclusivo e' adottato dal Ministero entro novanta giorni dal ricevimento dell'istanza. Il provvedimento di riconoscimento e quello di diniego sono comunicati all'interessato e all'amministrazione interessata.
 

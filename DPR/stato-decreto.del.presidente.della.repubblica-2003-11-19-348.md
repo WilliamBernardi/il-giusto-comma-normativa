@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: DPR
 vigenza_date: 2009-06-09
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:47:43Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -327,6 +327,31 @@ AGGIORNAMENTO (3)
 
 ## Art. 3. — Fondo per l'efficienza dei servizi istituzionali
 
+1.
+                        
+                            
+                                Per ogni Forza di polizia ad ordinamento civile il Fondo unico per l'efficienza dei servizi istituzionali, di cui all'articolo 14 del decreto del Presidente della Repubblica 18 giugno 2002, n. 164, e' incrementato, a decorrere dall'anno 2003, dalle seguenti risorse economiche annue:
+ 
+                            
+                            
+                                a)
+                                
+                                    Polizia di Stato: Euro 3.475.100,00;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    Polizia penitenziaria: Euro 1.406.100,00;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    Corpo forestale dello Stato: Euro 218.300,00.
+
 Gli importi di cui alle lettere a), b) e c), del comma 1, non comprendono gli oneri contributivi e l'IRAP a carico dello Stato.
 
 Le risorse assegnate e non utilizzate nell'esercizio di competenza sono riassegnate, per le medesime esigenze, nell'anno successivo. ((1))
@@ -347,7 +372,56 @@ Quelli afferenti all'anno 2004 non hanno effetto di trascinamento nell'anno succ
 
 ## Art. 4. — Tutela assicurativa
 
+1.
+                        
+                            
+                                A decorrere dal 1° gennaio 2003, per le finalita' di cui all'articolo 39 del decreto del Presidente della Repubblica 18 giugno 2002, n. 164, le somme indicate nel medesimo articolo sono incrementate dalle seguenti risorse economiche annue:
+ 
+                            
+                            
+                                a)
+                                
+                                    Polizia di Stato: Euro 660.000,00;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    Polizia penitenziaria: Euro 260.000,00;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    Corpo forestale dello Stato: Euro 40.000,00.
+
 ## Art. 5. — Buoni pasto
+
+1.
+                        
+                            
+                                Tenuto conto dei particolari disagi derivanti da specifiche situazioni di impiego del personale, sono assegnate, a ciascuna Forza di polizia ad ordinamento civile, a decorrere dal 1° gennaio 2003, le seguenti risorse per la concessione dei buoni pasto, cosi' ripartite: 
+                            
+                            
+                                a)
+                                
+                                    Polizia di Stato: Euro 715.000,00;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    Polizia penitenziaria: Euro 289.000,00;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    Corpo forestale dello Stato: Euro 45.000,00.
 
 I criteri per l'utilizzo delle somme sopra indicate e per l'individuazione delle fattispecie che danno titolo alla concessione del beneficio sono definiti dalle Amministrazioni nel rispetto della normativa vigente in materia di buoni pasto.
 
@@ -597,6 +671,24 @@ AGGIORNAMENTO (3)
 
 ## Art. 8. — Efficienza dei servizi istituzionali
 
+1.
+                        
+                            
+                                Per ogni Forza di polizia ad ordinamento militare, le risorse economiche per l'efficienza dei servizi istituzionali di cui all'articolo 53 del decreto del Presidente della Repubblica 18 giugno 2002, n. 164, sono incrementate, a decorrere dall'anno 2003, dalle seguenti somme annue:
+ 
+                            
+                            
+                                a)
+                                
+                                    Arma dei carabinieri: Euro 3.344.600,00;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    Guardia di finanza: Euro 2.160.600,00.
+
 Gli importi di cui alle lettere a), e b), del comma 1, non comprendono gli oneri contributivi e l'IRAP a carico dello Stato.
 
 Le risorse assegnate e non utilizzate nell'esercizio di competenza sono riassegnate, per le medesime esigenze, nell'anno successivo. ((1))
@@ -615,7 +707,43 @@ Quelli afferenti all'anno 2004 non hanno effetto di trascinamento nell'anno succ
 
 ## Art. 9. — Tutela assicurativa
 
+1.
+                        
+                            
+                                A decorrere dal 1° gennaio 2003, per le finalita' di cui all'articolo 62 del decreto del Presidente della Repubblica 18 giugno 2002, n. 164, le somme indicate nel medesimo articolo sono incrementate dalle seguenti risorse economiche annue:
+ 
+                            
+                            
+                                a)
+                                
+                                    Arma dei carabinieri: Euro 640.000,00;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    Corpo della guardia di finanza: Euro 400.000,00.
+
 ## Art. 10. — Buoni pasto
+
+1.
+                        
+                            
+                                Tenuto conto dei particolari disagi derivanti da specifiche situazioni di impiego del personale, sono assegnate, a ciascuna Forza di polizia ad ordinamento militare, a decorrere dal 1° gennaio 2003, le seguenti risorse per la concessione dei buoni pasto, cosi' ripartite:
+ 
+                            
+                            
+                                a)
+                                
+                                    Arma dei carabinieri: Euro 688.000,00;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    Corpo della guardia di finanza: Euro 444.000,00.
 
 I criteri per l'utilizzo delle somme sopra indicate e per l'individuazione delle fattispecie che danno titolo alla concessione del beneficio sono definiti dalle Amministrazioni nel rispetto della normativa vigente in materia di buoni pasto.
 

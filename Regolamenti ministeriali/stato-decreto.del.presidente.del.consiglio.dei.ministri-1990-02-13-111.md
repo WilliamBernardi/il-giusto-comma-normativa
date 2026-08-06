@@ -8,8 +8,8 @@ codice_redazionale: 090G0139
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:38Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DEL CONSIGLIO DEI MINISTRI
@@ -32,6 +32,94 @@ D'intesa con il Ministro per i rapporti con il Parlamento;
 E' istituito il Dipartimento per i rapporti con il Parlamento, di seguito indicato Dipartimento, alle dipendenze del Ministro per i rapporti con il Parlamento.
 
 ## Art. 2. — Competenze
+
+1.
+                    
+                        
+                            Il Dipartimento provvede agli adempimenti riguardanti:
+ 
+                        
+                        
+                            a)
+                            
+                                una costante e tempestiva informazione sui lavori parlamentari, anche al fine del coordinamento della presenza dei rappresentanti del Governo ai lavori delle assemblee e, in relazione a particolari provvedimenti, a quelli delle commissioni parlamentari;
+
+                            
+                        
+                        
+                            b)
+                            
+                                l'intervento del Governo nella programmazione dei lavori parlamentari e la proposizione delle priorita' governative agli uffici di Presidenza delle Camere, ai fini della formazione del programma e del calendario dei lavori delle rispettive Assemblee;
+
+                            
+                        
+                        
+                            c)
+                            
+                                l'assegnazione dei disegni di legge alle Camere, vigilando affinche' il loro esame si armonizzi con la graduale attuazione del programma governativo e degli ulteriori accordi e fornendo i relativi dati conoscitivi;
+
+                            
+                        
+                        
+                            d)
+                            
+                                la presentazione di emendamenti a disegni e proposte di legge all'esame delle Camere e l'espressione unitaria del parere del Governo su emendamenti di iniziativa parlamentare;
+
+                            
+                        
+                        
+                            e)
+                            
+                                i rapporti con i gruppi parlamentari, assicurando il supporto tecnico alle riunioni di coordinamento tra Governo e gruppi;
+
+                            
+                        
+                        
+                            f)
+                            
+                                la segnalazione alle Presidenze delle commissioni delle priorita' del Governo ai fini della programmazione dei relativi lavori;
+
+                            
+                        
+                        
+                            g)
+                            
+                                l'espressione unitaria della posizione del Governo circa i disegni e le proposte di legge all'esame delle commissioni;
+
+                            
+                        
+                        
+                            h)
+                            
+                                la predisposizione della relazione tecnica relativamente a proposte di legge ed emendamenti all'esame delle commissioni parlamentari, ai sensi dell'art. 11- ter della legge 5 agosto 1978, n. 468;
+
+                            
+                        
+                        
+                            i)
+                            
+                                l'espressione della posizione del Governo circa l'assegnazione o il trasferimento alla sede legislativa o deliberante dei disegni e delle proposte di legge;
+
+                            
+                        
+                        
+                            l)
+                            
+                                gli atti del sindacato ispettivo parlamentare, istruendo quelli rivolti al Presidente del Consiglio dei Ministri e al Governo;
+
+                            
+                        
+                        
+                            m)
+                            
+                                la risoluzione di eventuali conflitti di competenza tra amministrazioni relativamente agli atti di sindacato ispettivo rivolti ai Ministri;
+
+                            
+                        
+                        
+                            n)
+                            
+                                gli affari generali, l'organizzazione e le attivita' strumentali al funzionamento del Dipartimento e, con il coordinamento dei competenti uffici e dipartimenti del Segretariato generale, gli affari relativi al personale, beni e servizi per il funzionamento del Dipartimento, gli adempimenti in materia contabile e finanziaria attribuiti al Ministro per i rapporti con il Parlamento, nonche' l'introduzione e l'utilizzazione di tecnologie informatiche per le attivita' del Dipartimento.
 
 ## Art. 3. — Organizzazione
 

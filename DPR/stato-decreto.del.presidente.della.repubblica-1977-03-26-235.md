@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: DPR
 vigenza_date: 2026-03-07
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:48:14Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -29,11 +29,103 @@ Sono trasferite, ai sensi e nei limiti di cui agli
 
 Le funzioni relative alla materia ''energia'' di cui al comma 1 concernono le attivita' di ricerca, produzione, stoccaggio, conservazione, trasporto e distribuzione di qualunque forma di energia, fermo restando quanto previsto dal presente decreto.
 
+3.
+                    
+                        
+                            Restano riservate allo Stato le seguenti funzioni e compiti: 
+ 
+                        
+                        
+                            a)
+                            
+                                la definizione degli obiettivi della politica energetica nazionale, dei relativi programmi nazionali e di atti di indirizzo e coordinamento nei limiti di cui all'articolo 3 del decreto legislativo 16 marzo 1992, n. 266; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                la ricerca scientifica in campo energetico; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                la costruzione e l'esercizio degli impianti di produzione di energia elettrica da fonti convenzionali di potenza superiore a 300 MW termici nonche' ((le reti per il trasporto dell'energia elettrica costituenti la rete di trasmissione nazionale con tensione superiore a 150 KV,)) l'emanazione delle relative norme tecniche e le reti di livello nazionale di gasdotti con pressione di esercizio superiore a 40 bar e oleodotti; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                la regolamentazione inerente l'esportazione e l'importazione di energia; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                la determinazione dei criteri generali tecnicocostruttivi e l'emanazione delle norme tecniche essenziali degli impianti di produzione, conservazione, stoccaggio e distribuzione dell'energia; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                la determinazione delle caratteristiche tecniche e merceologiche dell'energia prodotta, distribuita e consumata; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                l'impiego di materiali radioattivi o macchine radiogene; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                salvo quanto spettante alle province autonome ai sensi degli articoli 8 e 9 dello statuto anche in materia di localizzazione degli impianti produttivi e di razionalizzazione dei procedimenti amministrativi, gli impianti nucleari, le sorgenti di radiazioni ionizzanti, i rifiuti radioattivi, le materie fissili o radioattive, compreso il relativo trasporto, nonche' gli adempimenti di protezione in materia, ai sensi della normativa vigente; 
+
+                            
+                        
+                        
+                            i)
+                            
+                                l'imposizione delle scorte petrolifere obbligatorie ai sensi delle norme vigenti; 
+
+                            
+                        
+                        
+                            l)
+                            
+                                fermo restando quanto disposto dall'articolo 10 del decreto del Presidente della Repubblica 31 luglio 1978, n. 1017, come modificato da ultimo dall'articolo 1 del decreto legislativo 6 luglio 1993, n. 290, l'elaborazione, l'analisi e la diffusione dei dati statistici, anche ai fini del rispetto degli obblighi comunitari, finalizzati alle funzioni inerenti la programmazione energetica e al coordinamento con le regioni e gli enti locali.
+
 Gli interventi relativi alle funzioni di cui alla lettera c) del comma 3 sono effettuati previo parere obbligatorio della provincia territorialmente interessata, secondo quanto previsto dall'articolo 14, primo comma, del decreto del Presidente della Repubblica 31 agosto 1972, n. 670, anche con riferimento alla rete di trasmissione nazionale dell'energia elettrica.
 
 ## Art. 1.
 
 ((
+
+1.
+                    
+                        
+                            Fermo restando quanto disposto dagli articoli 01, comma 3, lettera c), 1-bis e 1-ter del presente decreto nonche' dall'articolo 14 del decreto legislativo 16 marzo 1999, n. 79, nel territorio delle province di Trento e di Bolzano gli enti locali, mediante le forme di gestione dei servizi pubblici locali a carattere economicoimprenditoriale, ivi comprese le societa' di capitali, hanno facolta', nei limiti di quanto previsto nel decreto legislativo 16 marzo 1999, n. 79: 
+ 
+                        
+                        
+                            a)
+                            
+                                di esercitare le attivita' elettriche come individuate dall'articolo 1, primo comma, della legge 6 dicembre 1962, n. 1643, nonche' le ulteriori attivita' elettriche, ivi comprese l'esportazione e l'importazione dell'energia elettrica; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                di effettuare cessioni, scambi, vettoriamenti e diversioni di energia elettrica, da qualsiasi fonte prodotta, tra di loro, le loro societa', gli enti e le societa' di cui all'articolo 10, l'Enel S.p.a, i soggetti indicati nei numeri 6 e 8 dell'articolo 4 della predetta legge n. 1643 del 1962 limitatamente, per questi ultimi soggetti, a quelli aventi impianti di produzione ubicati nel territorio provinciale, nonche' le societa', i consorzi e le altre forme associative gia' costituiti dai predetti enti o dalle loro societa', anteriormente alla data di entrata in vigore del decreto legislativo 16 marzo 1999, n. 79, con enti locali, loro imprese o societa', aventi sede fuori del territorio provinciale.
 
 Fermo restando quanto disposto dagli articoli 01, comma 3, lettera c), 1-bis e 1-ter del presente decreto nonche' dall'articolo 14, comma 1, lettera d), del decreto legislativo 16 marzo 1999, n. 79, gli enti e le societa' di cui all'articolo 10 hanno facolta', nei limiti di quanto previsto dal decreto legislativo 16 marzo 1999, n. 79, di esercitare le attivita' di produzione, importazione, esportazione, trasmissione, trasformazione, distribuzione, nonche' acquisto e vendita dell'energia elettrica da qualsiasi fonte prodotta.
 

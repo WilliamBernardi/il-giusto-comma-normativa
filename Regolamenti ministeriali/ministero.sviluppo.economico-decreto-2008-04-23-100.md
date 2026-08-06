@@ -8,8 +8,8 @@ codice_redazionale: 008G0120
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:39Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -36,6 +36,38 @@ Udito il parere del Consiglio di Stato, espresso dalla sezione consultiva per gl
 ## Art. 1. — Sanzioni amministrative pecuniarie
 
 Il Ministero delle politiche agricole alimentari e forestali, in caso di violazione degli obblighi di immissione in consumo nel territorio nazionale della quantita' di biocarburanti e o degli altri carburanti rinnovabili, di cui all'articolo 2-quater, della legge 11 marzo 2006, n. 81, di conversione in legge, con modificazioni, del decreto-legge 10 gennaio 2006, n. 2, cosi' come sostituito dall'articolo 1, comma 368, della legge 27 dicembre 2006, n. 296, trasmette un documentato rapporto all'autorita' competente ai sensi dell'articolo 17 della legge 24 novembre 1981, n. 689, ai fini dell'irrogazione delle sanzioni amministrative pecuniarie di cui al comma 2.
+
+2.
+                    
+                        
+                            Salvo che il fatto costituisca reato, nel caso di violazione dell'obbligo di immettere in consumo nel territorio nazionale la quota minima di biocarburanti e degli altri carburanti rinnovabili stabilita dal regolamento del Ministro delle politiche agricole alimentari e forestali, di cui all'articolo 2-quater, comma 3, della legge 11 marzo 2006, n. 81, di conversione in legge, con modificazioni, del decreto-legge 10 gennaio 2006, n. 2, si applica la sanzione amministrativa pecuniaria di 600,00 euro. Per tener conto della diversa gravita' della violazione si applica una maggiorazione della sanzione stessa, calcolata in ragione del diverso peso percentuale dei certificati di immissione in consumo mancanti, secondo il seguente schema:
+ 
+                        
+                        
+                            a)
+                            
+                                per ogni certificato mancante rientrante nel primo 25% del quantitativo di obbligo riconducibile a ciascun soggetto obbligato si applica la sanzione di 600,00 euro;
+
+                            
+                        
+                        
+                            b)
+                            
+                                per ogni certificato mancante rientrante nel secondo 25% del quantitativo di obbligo riconducibile a ciascun soggetto obbligato si applica la prevista sanzione maggiorata di 100,00 euro;
+
+                            
+                        
+                        
+                            c)
+                            
+                                per ogni certificato mancante rientrante nel terzo 25% del quantitativo di obbligo riconducibile a ciascun soggetto obbligato si applica la prevista sanzione maggiorata di 200,00 euro;
+
+                            
+                        
+                        
+                            d)
+                            
+                                per ogni certificato mancante rientrante nel quarto 25% del quantitativo di obbligo riconducibile a ciascun soggetto obbligato si applica la prevista sanzione maggiorata di 300,00 euro.
 
 Gli importi derivanti dalla comminazione delle sanzioni di cui al comma 1, sono versati ad apposito capitolo dell'entrata del bilancio statale, per essere riassegnati al Fondo di cui all'articolo 1, comma 422, della legge 23 dicembre 2005, n. 266.
 

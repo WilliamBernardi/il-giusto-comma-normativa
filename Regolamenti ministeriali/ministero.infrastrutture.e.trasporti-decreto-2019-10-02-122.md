@@ -7,8 +7,8 @@ urn: urn:nir:ministero.infrastrutture.e.trasporti:decreto:2019-10-02;122
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:38Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -30,6 +30,73 @@ Udito il parere del Consiglio di Stato espresso dalla sezione consultiva per gli
 
 ## Art. 1. — Definizioni
 
+1.
+                    
+                        
+                            Ai fini del presente regolamento si intende per: 
+ 
+                        
+                        
+                            a)
+                            
+                                veicolo: un veicolo appartenente ad una delle categorie internazionali M1, N1, N2 ed N3, cosi' come definite dalla direttiva 2007/46/CE; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                dispositivo antiabbandono: un dispositivo di allarme, costituito da uno o piu' elementi interconnessi, la cui funzione e' quella di prevenire l'abbandono dei bambini di eta' inferiore ai quattro anni, a bordo dei veicoli delle categorie M1, N1, N2 e N3 e che si attiva nel caso di allontanamento del conducente dal veicolo; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                sistemi di ritenuta per bambini: quelli indicati all'articolo 172, comma 1, del decreto legislativo 30 aprile 1992, n. 285; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                normativa di armonizzazione dell'Unione: normativa dell'Unione europea che armonizza le condizioni di commercializzazione del dispositivo antiabbandono quale prodotto; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                fabbricante: persona fisica o giuridica che fabbrica un dispositivo antiabbandono ovvero lo fa progettare o fabbricare e che lo commercializza apponendovi il suo nome o marchio; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                operatore economico: il fabbricante, l'importatore, il rappresentante autorizzato o il distributore di un sistema antiabbandono; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                vigilanza del mercato: le attivita' svolte e i provvedimenti adottati dalle autorita' pubbliche per garantire che i dispositivi antiabbandono siano conformi ai requisiti stabiliti dal presente regolamento; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                autorita' di vigilanza del mercato: il Ministero delle infrastrutture e dei trasporti; 
+
+                            
+                        
+                        
+                            i)
+                            
+                                messa a disposizione sul mercato: la fornitura di merci per la distribuzione, il consumo o l'uso sul mercato nell'ambito di un'attivita' commerciale, a titolo oneroso o gratuito.
+
 ## Art. 2. — Ambito di applicazione
 
 Il presente regolamento si applica ai dispositivi antiabbandono, di cui all'articolo 172 del codice della strada.
@@ -37,6 +104,31 @@ Il presente regolamento si applica ai dispositivi antiabbandono, di cui all'arti
 Il presente regolamento non pregiudica la normativa di armonizzazione dell'Unione. Quando i dispositivi contemplati dal presente regolamento rientrano nel campo di applicazione della normativa di armonizzazione dell'Unione, essi devono rispettare tale legislazione.
 
 ## Art. 3. — Caratteristiche generali
+
+1.
+                    
+                        
+                            Il dispositivo antiabbandono puo' essere: 
+ 
+                        
+                        
+                            a)
+                            
+                                integrato all'origine nel sistema di ritenuta per bambini; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                una dotazione di base o un accessorio del veicolo, compresi nel fascicolo di omologazione del veicolo stesso; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                indipendente sia dal sistema di ritenuta per bambini sia dal veicolo.
 
 ## Art. 4. — Caratteristiche tecnico-costruttive e funzionali essenziali
 

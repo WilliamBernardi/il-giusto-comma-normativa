@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
 vigenza_date: 2010-02-16
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:30Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -31,6 +31,59 @@ Sulla proposta del Ministro dell'istruzione, dell'universita' e della ricerca, d
 Il presente decreto legislativo disciplina lo scorporo dell'istituto di metrologia «Gustavo Colonnetti» dal CNR, e la sua fusione con l'istituto elettrotecnico nazionale «Galileo Ferraris».
 La struttura derivante dalla fusione dei due predetti istituti assume la denominazione di «Istituto nazionale di ricerca metrologica» (I.N.RI.M.).
 
+2.
+                    
+                        
+                            Il presente decreto legislativo definisce inoltre le finalita', le attivita', gli organi, i principi di organizzazione e le modalita' di funzionamento dell'I.N.RI.M. al fine di promuovere e di collegare realta' operative di eccellenza, di evitare duplicazioni per i medesimi obiettivi, di assicurare il massimo livello di flessibilita', di autonomia e di efficienza, nonche' una piu' agevole stipula di intese, accordi di programma e consorzi, determinando le condizioni organizzative per:
+ 
+                        
+                        
+                            a)
+                            
+                                ottimizzare l'allocazione delle risorse e determinare economie di risultato e di scopo;
+
+                            
+                        
+                        
+                            b)
+                            
+                                semplificare i meccanismi di programmazione delle attivita' di ricerca ed amministrative;
+
+                            
+                        
+                        
+                            c)
+                            
+                                promuovere le attivita' e le collaborazioni di ricerca internazionali;
+
+                            
+                        
+                        
+                            d)
+                            
+                                promuovere la valorizzazione dell'attivita' di ricerca;
+
+                            
+                        
+                        
+                            e)
+                            
+                                potenziare l'integrazione con le reti della ricerca universitaria ed imprenditoriale;
+
+                            
+                        
+                        
+                            f)
+                            
+                                delineare un equilibrato rapporto tra funzioni di indirizzo programmatico e di valutazione e funzioni di pianificazione e di conduzione operativa delle attivita' di ricerca;
+
+                            
+                        
+                        
+                            g)
+                            
+                                valutare i risultati della ricerca.
+
 ## Art. 2. — Finalita' dell'Ente
 
 L'I.N.RI.M. e' ente pubblico nazionale con il compito di svolgere e promuovere attivita' di ricerca scientifica, nei campi della metrologia. L'I.N.RI.M. svolge le funzioni di istituto metrologico primario, gia' di competenza dell'istituto «Gustavo Colonnetti» e dell'Istituto elettrotecnico nazionale «Galileo Ferraris» ai sensi della legge 11 agosto 1991, n. 273. L'I.N.RI.M., valorizza, diffonde e trasferisce le conoscenze acquisite nella scienza delle misure e nella ricerca sui materiali, allo scopo di favorire lo sviluppo del sistema Italia nelle sue varie componenti.
@@ -43,7 +96,99 @@ Il Ministero dell'istruzione, dell'universita' e della ricerca, il Ministero del
 
 ## Art. 3. — Attivita' dell'I.N.RI.M.
 
+1.
+                    
+                        
+                            L'I.N.RI.M. oltre a svolgere le attivita' indicate dalla legge 11 agosto 1991, n. 273:
+ 
+                        
+                        
+                            a)
+                            
+                                realizza, promuove e coordina, anche nell'ambito di programmi dell'Unione europea e di organismi internazionali, attivita' di ricerca scientifica e tecnologica, sia tramite le strutture proprie sia in collaborazione con le universita' e con altri soggetti pubblici e privati, nazionali e internazionali;
+
+                            
+                        
+                        
+                            b)
+                            
+                                promuove, sostiene e coordina la partecipazione italiana ad organismi, progetti ed iniziative internazionali nelle materie di competenza, fornendo, su richiesta di autorita' governative, competenze scientifiche;
+
+                            
+                        
+                        
+                            c)
+                            
+                                svolge attivita' di comunicazione e promozione della ricerca, curando la diffusione dei relativi risultati economici e sociali all'interno del paese;
+
+                            
+                        
+                        
+                            d)
+                            
+                                promuove la valorizzazione a fini produttivi e sociali e il trasferimento tecnologico dei risultati della ricerca svolta o coordinata dalla propria rete scientifica;
+
+                            
+                        
+                        
+                            e)
+                            
+                                effettua la valutazione dei risultati dei propri programmi di ricerca, del funzionamento delle proprie strutture e dell'attivita' del personale, sulla base di criteri di valutazione definiti dal Ministero dell'istruzione, dell'universita' e della ricerca;
+
+                            
+                        
+                        
+                            f)
+                            
+                                promuove la formazione e la crescita tecnico-professionale dei ricercatori nei campi scientifici di propria competenza, attraverso l'assegnazione di borse di studio e assegni di ricerca, nonche' promuovendo e realizzando, sulla base di apposite convenzioni con le universita', corsi di dottorato di ricerca, anche sulla base delle convenzioni di cui all'articolo 2, comma 4, e anche con il coinvolgimento del mondo imprenditoriale;
+
+                            
+                        
+                        
+                            g)
+                            
+                                svolge, su richiesta, attivita' di consulenza tecnico-scientifica sulle materie di competenza, a favore del Ministero dell'istruzione, dell'universita' e della ricerca, delle pubbliche amministrazioni, delle imprese o di altri soggetti privati;
+
+                            
+                        
+                        
+                            h)
+                            
+                                nell'ambito del perseguimento delle proprie attivita' istituzionali puo' fornire servizi a terzi in regime di diritto privato.
+
 ## Art. 4. — Organi
+
+1.
+                    
+                        
+                            Sono organi dell'I.N.RI.M.:
+ 
+                        
+                        
+                            a)
+                            
+                                il presidente;
+
+                            
+                        
+                        
+                            b)
+                            
+                                il consiglio di amministrazione;
+
+                            
+                        
+                        
+                            c)
+                            
+                                il consiglio scientifico;
+
+                            
+                        
+                        
+                            d)
+                            
+                                il collegio dei revisori dei conti.
 
 ## Art. 5. — Principi di organizzazione
 
@@ -51,17 +196,148 @@ L'I.N.RI.M. definisce la propria organizzazione nel regolamento di organizzazion
 
 ## Art. 6. — Presidente
 
+1.
+                    
+                        
+                            Il presidente ha la rappresentanza legale dell'ente ed e' responsabile delle relazioni istituzionali. Il presidente:
+ 
+                        
+                        
+                            a)
+                            
+                                convoca e presiede il consiglio di amministrazione e il consiglio scientifico stabilendone l'ordine del giorno;
+
+                            
+                        
+                        
+                            b)
+                            
+                                vigila, sovrintende e controlla il corretto svolgimento delle attivita' dell'ente;
+
+                            
+                        
+                        
+                            c)
+                            
+                                attribuisce gli incarichi al direttore generale e al direttore di dipartimento previamente deliberati dal consiglio di amministrazione;
+
+                            
+                        
+                        
+                            d)
+                            
+                                adotta provvedimenti di urgenza, di competenza del consiglio di amministrazione da sottoporre a ratifica nella prima riunione successiva del consiglio stesso.
+
 Il presidente e' scelto tra persone di alta qualificazione scientifica e con pluriennale esperienza nella gestione di enti ed istituti complessi sia pubblici sia privati, nazionali e internazionali nel settore della ricerca. E' nominato con la procedura di cui all'articolo 6, comma 2 del decreto legislativo del 5 giugno 1998, n. 204, dura in carica quattro anni e puo' essere confermato una sola volta.
 
 In caso di assenza o impedimento il presidente e' sostituito da un vice presidente nominato dal consiglio di amministrazione tra i suoi componenti. Il vice presidente puo' operare anche in virtu' di specifiche deleghe secondo quanto previsto dal regolamento di organizzazione e funzionamento dell'ente.
 
 ## Art. 7. — Consiglio di amministrazione
 
+1.
+                    
+                        
+                            Il consiglio di amministrazione ha compiti di indirizzo e programmazione generale dell'attivita' dell'ente. Il consiglio di amministrazione, su proposta del presidente:
+ 
+                        
+                        
+                            a)
+                            
+                                delibera il piano triennale dell'ente e i relativi aggiornamenti, sentito il consiglio scientifico;
+
+                            
+                        
+                        
+                            b)
+                            
+                                approva il bilancio preventivo e il bilancio consuntivo e le relative relazioni di accompagnamento;
+
+                            
+                        
+                        
+                            c)
+                            
+                                delibera le linee guida per la elaborazione del piano triennale;
+
+                            
+                        
+                        
+                            d)
+                            
+                                delibera i regolamenti dell'ente, sentito il Consiglio scientifico;
+
+                            
+                        
+                        
+                            e)
+                            
+                                nomina il vice presidente eleggendolo tra i propri componenti;
+
+                            
+                        
+                        
+                            f)
+                            
+                                nomina il consiglio scientifico, il direttore di dipartimento, il comitato di valutazione e il direttore generale;
+
+                            
+                        
+                        
+                            g)
+                            
+                                delibera l'affidamento degli incarichi al direttore generale, ai dirigenti e al direttore di dipartimento;
+
+                            
+                        
+                        
+                            h)
+                            
+                                verifica i risultati dell'attivita' dell'ente, avvalendosi anche delle relazioni del comitato di valutazione;
+
+                            
+                        
+                        
+                            i)
+                            
+                                delibera sui grandi investimenti in infrastrutture e su commesse rilevanti, secondo criteri definiti nel regolamento di organizzazione e funzionamento;
+
+                            
+                        
+                        
+                            l)
+                            
+                                delibera in ordine ad ogni altra materia attribuitagli dal presente decreto e dai regolamenti dell'ente.
+
 Il consiglio e' composto dal presidente e da cinque componenti scelti tra personalita' di alta qualificazione tecnico-scientifica nei campi di attivita' dell'I.N.RI.M., di cui due designati dal Ministro dell'istruzione, dell'universita' e della ricerca, due designati dal Ministro delle attivita' produttive ed uno designato dal Presidente della Conferenza permanente per i rapporti fra lo Stato, le regioni e le province autonome.
 
 I componenti del consiglio di amministrazione sono nominati con decreto del Ministro dell'istruzione, dell'universita' e della ricerca, durano in carica quattro anni, e possono essere confermati una sola volta.
 
 ## Art. 8. — Consiglio scientifico
+
+1.
+                    
+                        
+                            Il consiglio scientifico ha compiti consultivi relativi all'attivita' complessiva di ricerca dell'ente. Il consiglio scientifico:
+ 
+                        
+                        
+                            a)
+                            
+                                esprime al consiglio di amministrazione il parere tecnico-scientifico sulle proposte di piano triennale e sui relativi aggiornamenti annuali, nonche' sugli schemi dei regolamenti dell'Istituto;
+
+                            
+                        
+                        
+                            b)
+                            
+                                realizza, su richiesta del presidente, analisi, studi e confronti sullo stato della ricerca di competenza a livello nazionale ed internazionale;
+
+                            
+                        
+                        
+                            c)
+                            
+                                individua, su richiesta del presidente, le possibili linee evolutive della ricerca di competenza.
 
 Il consiglio scientifico e' composto, oltre che dal presidente dell'I.N.RI.M. che lo presiede, da nove componenti, con qualificata professionalita' ed esperienza scientifica nei settori di competenza dell'Istituto, di cui due designati dal presidente, uno designato dal Ministro dell'istruzione, dell'universita' e della ricerca, uno designato dal Ministro delle attivita' produttive, uno designato dal direttore del dipartimento, uno designato dal Consiglio di amministrazione in rappresentanza della comunita' metrologica internazionale e tre eletti dai ricercatori e tecnologi dell'ente, secondo modalita' definite dal regolamento di organizzazione e funzionamento.
 
@@ -84,11 +360,110 @@ Il comitato di valutazione svolge i propri compiti in piena autonomia. Il comita
 
 ## Art. 11. — Direttore generale
 
+1.
+                    
+                        
+                            Il direttore generale ha la responsabilita' della gestione dell'ente, cura l'attuazione delle delibere del consiglio di amministrazione e dei provvedimenti del presidente. Esso dirige, coordina e controlla la struttura amministrativa ed i servizi generali dell'ente. Partecipa alle riunioni del consiglio di amministrazione senza diritto di voto. Il direttore generale:
+ 
+                        
+                        
+                            a)
+                            
+                                predispone il bilancio preventivo e il bilancio consuntivo dell'ente;
+
+                            
+                        
+                        
+                            b)
+                            
+                                elabora, sulla base delle indicazioni del dipartimento, la relazione annuale di verifica dei risultati gestionali ed economici dell'ente da sottoporre al presidente che la presenta al consiglio di amministrazione;
+
+                            
+                        
+                        
+                            c)
+                            
+                                predispone gli schemi dei regolamenti da sottoporre al presidente che li presenta al consiglio di amministrazione;
+
+                            
+                        
+                        
+                            d)
+                            
+                                conferisce gli incarichi ai dirigenti previa delibera del consiglio di amministrazione.
+
 Il direttore generale, il cui rapporto di lavoro e' regolato con contratto di diritto privato, con durata coincidente con la scadenza del mandato del presidente, e' scelto tra persone di alta qualificazione tecnico-professionale e di comprovata esperienza gestionale, con profonda conoscenza delle normative e degli assetti organizzativi degli enti pubblici. Il relativo incarico e' attribuito dal presidente previa delibera del consiglio di amministrazione.
 
 ## Art. 12. — Dipartimento
 
 Il regolamento di organizzazione e funzionamento prevede l'istituzione di un dipartimento ai fini della programmazione e della realizzazione delle attivita' di ricerca dell'ente.
+
+2.
+                    
+                        
+                            Al dipartimento sono attribuite le seguenti competenze:
+ 
+                        
+                        
+                            a)
+                            
+                                proporre al consiglio di amministrazione il piano triennale e i relativi aggiornamenti annuali per le attivita' di competenza indicando le risorse necessarie per l'attuazione, ivi incluse l'acquisizione delle risorse umane;
+
+                            
+                        
+                        
+                            b)
+                            
+                                gestire i programmi e progetti di ricerca definiti dal piano triennale e dai relativi aggiornamenti annuali affidatigli dal Consiglio di amministrazione;
+
+                            
+                        
+                        
+                            c)
+                            
+                                istituire, previa autorizzazione del Consiglio di amministrazione, unita' di ricerca per singoli progetti a tempo definito presso le universita' o le imprese, sulla base di specifiche convenzioni;
+
+                            
+                        
+                        
+                            d)
+                            
+                                proporre al consiglio di amministrazione iniziative di sviluppo e formazione dei ricercatori e tecnologi;
+
+                            
+                        
+                        
+                            e)
+                            
+                                curare le relazioni esterne, nazionali ed internazionali, sulle materie di competenza ed in particolare la partecipazione a programmi di ricerca ed a organismi scientifici e tecnici nazionali, comunitari ed internazionali;
+
+                            
+                        
+                        
+                            f)
+                            
+                                favorire l'integrazione con il territorio e lo sviluppo di grandi progetti e programmi sulle materie di competenza, anche a livello comunitario ed internazionale;
+
+                            
+                        
+                        
+                            g)
+                            
+                                svolgere, su indicazione del consiglio di amministrazione, attivita' di valorizzazione dei risultati della ricerca, e supportare i ricercatori nelle attivita' di tutela brevettuale e nel collocamento sul mercato dei brevetti;
+
+                            
+                        
+                        
+                            h)
+                            
+                                presentare al consiglio di amministrazione una relazione annuale sull'attivita' scientifica svolta;
+
+                            
+                        
+                        
+                            i)
+                            
+                                gestire gli acquisti correnti nelle modalita' definite dai regolamenti dell'ente.
 
 Al dipartimento e' preposto un direttore con incarico a tempo pieno attribuitogli dal presidente, previa delibera del consiglio di amministrazione. L'incarico dura cinque anni e puo' essere confermato una sola volta. Il direttore e' scelto fra professori universitari di ruolo, ricercatori o tecnologi di enti di ricerca o dirigenti pubblici o privati, dotati di alta qualificazione ed esperienza scientifica e professionale nel settore di competenza dell'I.N.RI.M., sulla base di apposite procedure selettive, definite dal regolamento di organizzazione e funzionamento. Il direttore di dipartimento partecipa alle riunioni del consiglio di amministrazione e del consiglio scientifico senza diritto di voto e puo' formulare al consiglio di amministrazione proposte riguardanti l'articolazione del dipartimento.
 
@@ -119,7 +494,99 @@ L'I.N.RI.M., previo confronto con le organizzazioni sindacali maggiormente rappr
 
 ## Art. 15. — Entrate dell'I.N.RI.M.
 
+1.
+                    
+                        
+                            Le entrate dell'I.N.RI.M. sono costituite:
+ 
+                        
+                        
+                            a)
+                            
+                                dal contributo a carico del fondo ordinario per il finanziamento degli enti pubblici di ricerca, di cui all'articolo 7, commi 1 e 2, del decreto legislativo 5 giugno 1998, n. 204, determinato sulla base delle attivita' previste dal piano triennale e dai relativi aggiornamenti annuali dell'ente, ove approvati;
+
+                            
+                        
+                        
+                            b)
+                            
+                                dai contributi per singoli progetti o interventi a carico dei fondi previsti dal programma nazionale della ricerca, ai sensi del decreto legislativo 5 giugno 1998, n. 204;
+
+                            
+                        
+                        
+                            c)
+                            
+                                dai proventi e contributi derivanti dalle convenzioni di cui all'articolo 2, comma 4, ove previsti, nonche' dalle assegnazioni e dai contributi da parte di pubbliche amministrazioni centrali e locali per l'esecuzione di particolari progetti o accordi di programma;
+
+                            
+                        
+                        
+                            d)
+                            
+                                dai contributi dell'Unione europea o di altri organismi internazionali per la partecipazione a programmi e progetti;
+
+                            
+                        
+                        
+                            e)
+                            
+                                dai proventi derivanti dai contratti stipulati con terzi pubblici e privati per la fornitura di servizi;
+
+                            
+                        
+                        
+                            f)
+                            
+                                dai proventi provenienti dalla cessione di brevetti o conoscenze;
+
+                            
+                        
+                        
+                            g)
+                            
+                                da ogni altra eventuale entrata.
+
 ## Art. 16. — Strumenti
+
+1.
+                    
+                        
+                            L'I.N.RI.M. per lo svolgimento delle attivita' di cui all'articolo 3 e di ogni altra attivita' connessa, ivi compreso l'utilizzo economico dei risultati della ricerca propria e di quella commissionata, secondo criteri e modalita' determinati con regolamento di organizzazione e funzionamento, puo':
+ 
+                        
+                        
+                            a)
+                            
+                                stipulare accordi e convenzioni;
+
+                            
+                        
+                        
+                            b)
+                            
+                                partecipare o costituire consorzi, fondazioni o societa' con soggetti pubblici e privati, italiani e stranieri, previa autorizzazione del Ministro dell'universita', dell'istruzione e della ricerca. Decorsi sessanta giorni dalla richiesta di autorizzazione, in assenza di osservazioni da parte del Ministro dell'istruzione, dell'universita' e della ricerca, l'autorizzazione si intende concessa. Per la costituzione o la partecipazione in societa' con apporto al capitale sociale superiore a 500.000,00 euro o con quota pari o superiore al 50 per cento del predetto capitale sociale e' inoltre richiesto il parere del Ministro dell'economia e delle finanze, che deve esprimersi entro trenta giorni, decorsi i quali si prescinde dal parere;
+
+                            
+                        
+                        
+                            c)
+                            
+                                promuovere la costituzione di nuove imprese conferendo personale proprio, anche in costanza di rapporto, nel rispetto della normativa vigente;
+
+                            
+                        
+                        
+                            d)
+                            
+                                partecipare alla costituzione ed alla conduzione di centri di ricerca internazionali, o altre iniziative scientifiche in collaborazione con analoghe istituzioni di altri Paesi;
+
+                            
+                        
+                        
+                            e)
+                            
+                                commissionare attivita' di ricerca e studio a soggetti pubblici e privati, nazionali e internazionali, secondo le disposizioni del suo regolamento amministrativo.
 
 L'I.N.RI.M. riferisce sui programmi, sugli obiettivi, sulle attivita' e sui risultati dei soggetti di cui al comma 1 in apposita sezione del piano triennale dell'ente e dei relativi aggiornamenti.
 
@@ -127,6 +594,88 @@ L'I.N.RI.M. riferisce sui programmi, sugli obiettivi, sulle attivita' e sui risu
 
 L'I.N.RI.M. si dota del regolamento di organizzazione e funzionamento, del regolamento di amministrazione contabilita' e finanza e del regolamento del personale, nonche' di altri regolamenti interni disciplinanti specifiche materie, in coerenza con le procedure e modalita' di cui all'articolo 8 della legge 9 maggio 1989, n. 168. Il regolamento sul personale e' inoltre sottoposto al parere del Ministro della funzione pubblica che si esprime nel termine di trenta giorni, decorsi i quali si prescinde dal parere.
 Sui regolamenti, prima dell'adozione, sono sentite le organizzazioni sindacali maggiormente rappresentative.
+
+2.
+                    
+                        
+                            Il regolamento di organizzazione e funzionamento:
+ 
+                        
+                        
+                            a)
+                            
+                                definisce l'articolazione organizzativa e gli ambiti di attivita' del dipartimento, della struttura amministrativa e dei servizi generali;
+
+                            
+                        
+                        
+                            b)
+                            
+                                stabilisce le procedure per la nomina del direttore di dipartimento;
+
+                            
+                        
+                        
+                            c)
+                            
+                                definisce le regole per la partecipazione dell'ente in altri soggetti pubblici e privati.
+
+3.
+                    
+                        
+                            Il regolamento di amministrazione, contabilita' e finanza:
+ 
+                        
+                        
+                            a)
+                            
+                                definisce uno schema tipo per la redazione del bilancio preventivo e del bilancio consuntivo;
+
+                            
+                        
+                        
+                            b)
+                            
+                                definisce modalita' che assicurino la trasparenza nell'assegnazione e nell'utilizzo delle risorse finanziarie per i diversi obiettivi di ricerca e per la realizzazione delle funzioni istituzionali;
+
+                            
+                        
+                        
+                            c)
+                            
+                                definisce modalita' per l'acquisto di beni, servizi o forniture, anche in conformita' alla normativa comunitaria;
+
+                            
+                        
+                        
+                            d)
+                            
+                                definisce modalita' per la gestione patrimoniale, economica, finanziaria e contabile interna, anche in deroga alle disposizioni sulla contabilita' generale dello Stato;
+
+                            
+                        
+                        
+                            e)
+                            
+                                prevede la facolta' di erogare anticipazioni nel limite del 20 per cento contrattuale, per le forniture di strumentazione scientifica e tecnologica di particolare complessita' in deroga alle disposizioni normative vigenti in materia.
+
+4.
+                    
+                        
+                            Il regolamento del personale:
+ 
+                        
+                        
+                            a)
+                            
+                                definisce modalita' per la gestione e l'amministrazione del personale;
+
+                            
+                        
+                        
+                            b)
+                            
+                                stabilisce le procedure per il reclutamento del personale a tempo determinato ed indeterminato.
 
 ## Art. 18. — Bilanci, relazioni e controlli
 
@@ -141,6 +690,24 @@ Il rapporto di lavoro dei dipendenti dell'I.N.RI.M. e' regolato ai sensi delle d
 (( COMMA ABROGATO DAL D.LGS. 31 DICEMBRE 2009, N. 213 ))
 
 Ferme restando le disposizioni vigenti e contrattuali per le assunzioni a tempo determinato negli enti di ricerca l'I.N.RI.M. sentito il consiglio scientifico, nell'ambito del 10 per cento dell'organico dei ricercatori e tecnologi, nei limiti delle disponibilita' di bilancio e della consistenza dell'apposito fondo dell'ente, puo' inoltre assumere con chiamata diretta, con contratto a tempo determinato per specifici progetti di ricerca, per la durata del progetto e, comunque, non superiore a cinque anni, ricercatori o tecnologi italiani o stranieri, con documentata produzione scientifica di eccellenza, o documentata attivita' di ricerca in enti di ricerca o imprese private o in atenei stranieri o in istituzioni di ricerca internazionali; nelle predette ipotesi di chiamata diretta il trattamento economico e' rapportato a quello previsto dal contratto collettivo nazionale di comparto per le medesime qualifiche, con una eventuale integrazione in considerazione della natura temporanea del rapporto.
+
+4.
+                    
+                        
+                            L'I.N.RI.M., con proprio regolamento sul personale ai sensi dell'articolo 17, disciplina le procedure di assunzione ai diversi livelli e profili del personale ricercatore e tecnologo, valorizzando prioritariamente le esperienze di ricerca effettuate all'estero ovvero presso universita' o imprese nel rispetto dei seguenti principi:
+ 
+                        
+                        
+                            a)
+                            
+                                il rapporto di lavoro a tempo indeterminato come ricercatore o tecnologo dell'ente si instaura, per i livelli di ricercatore, primo ricercatore, dirigente di ricerca, tecnologo, primo tecnologo e dirigente tecnologo previo l'espletamento di concorsi pubblici per aree scientifiche o settori tecnologici, idonei a valutare competenze e attitudini finalizzate all'attivita' richiesta, mediante il ricorso a specifiche commissioni giudicatrici costituite in maggioranza da componenti esterni all'ente e presiedute da dirigenti di ricerca o tecnologi dell'ente o dipendenti da un ente del comparto ricerca ovvero ancora da professori universitari ordinari, con comprovata esperienza internazionale. Per accedere alla selezione per il livello iniziale occorre essere in possesso del titolo di dottore di ricerca attinente all'attivita' richiesta dal bando ovvero aver svolto per un triennio attivita' di ricerca presso universita' o qualificati enti, organismi o centri di ricerca pubblici o privati ovvero nell'ambito dei contratti di cui al comma 3, ovvero di assegni di ricerca banditi dall'ente ai sensi dell'articolo 51, comma 6, della legge 27 dicembre 1997, n. 449, con valutazione finale delle attivita';
+
+                            
+                        
+                        
+                            b)
+                            
+                                la periodicita' dei concorsi e' determinata secondo le cadenze indicate nel piano triennale.
 
 ## Art. 20. — Mobilita' con le universita'
 

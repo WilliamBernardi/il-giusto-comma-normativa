@@ -7,8 +7,8 @@ urn: urn:nir:stato:decreto.legislativo:2025-02-06;10
 vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:27Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -38,6 +38,24 @@ Ai fini del presente decreto, per i medicinali per uso umano sottoposti alla dis
 
 ## Art. 3. — Specifiche tecniche dell'identificativo univoco 
  e del sistema di prevenzione delle manomissioni
+
+1.
+                    
+                        
+                            A decorrere dal 9 febbraio 2025, ai sensi di quanto previsto dall'articolo 50, terzo comma, del regolamento: 
+ 
+                        
+                        
+                            a)
+                            
+                                i medicinali per uso umano di cui all'articolo 2, paragrafo 1, lettere a) e b), del regolamento, recano sull'imballaggio un identificativo univoco codificato in un codice a barre bidimensionale. Con decreto del Ministro della salute, sentita l'Agenzia italiana del farmaco, di seguito denominata «AIFA», sono individuati i medicinali ai quali e' esteso l'ambito di applicazione dell'identificativo univoco ai sensi dell'articolo 2, paragrafo 1, lettera c), del regolamento; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                i medicinali per uso umano non sottoposti alla disciplina dell'identificativo univoco di cui all'articolo 2, paragrafo 1, del regolamento, recano il bollino farmaceutico di cui all'articolo 5-bis del decreto legislativo 30 dicembre 1992, n. 540.
 
 A decorrere dal 9 febbraio 2025, qualsiasi medicinale per uso umano autorizzato in Italia, ad eccezione di quelli indicati nell'allegato I al regolamento, reca sull'imballaggio il sistema di prevenzione delle manomissioni di cui all'articolo 3, paragrafo 2, lettera b), del regolamento, consistente in un elemento di sicurezza, nel rispetto degli standard stabiliti in materia a livello europeo.
 Per i medicinali per uso umano sottoposti alla disciplina dell'identificativo univoco ai sensi dell'articolo 2, paragrafo 1, del regolamento, si applica il sistema di prevenzione delle manomissioni di cui all'articolo 2, comma 2.
@@ -116,6 +134,80 @@ Sono fatte salve le competenze dell'Autorita' Garante per la protezione dei dati
 
 E' istituito l'Archivio nazionale di cui all'articolo 31, paragrafo 1, del regolamento, che contiene le informazioni sulle caratteristiche di sicurezza dei medicinali per uso umano di cui all'articolo 54-bis, paragrafo 2, lettera e), della direttiva 2001/83/CE.
 
+2.
+                    
+                        
+                            Il soggetto responsabile dell'Archivio nazionale di cui al comma 1 e' il soggetto giuridico senza scopo di lucro di cui all'articolo 31, paragrafo 1, del regolamento, che, ai fini della sua realizzazione e gestione, si avvale della societa' di cui all'articolo 1 della legge 13 luglio 1966, n. 559, mediante la stipula di una apposita convenzione per la progettazione, lo sviluppo, la gestione e la conduzione delle infrastrutture, dei sistemi, delle soluzioni informatiche e della connettivita' propedeutiche al sistema di archivi nonche' per l'erogazione dei connessi servizi. In particolare, la convenzione disciplina: 
+ 
+                        
+                        
+                            a)
+                            
+                                le modalita' di realizzazione della struttura del sistema di archivi ai sensi dell'articolo 32 del regolamento; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                le modalita' di caricamento delle informazioni nel sistema di archivi ai sensi dell'articolo 33 del regolamento; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                le modalita' di funzionamento del sistema di archivi ai sensi dell'articolo 34 del regolamento; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                le caratteristiche e la tipologia di operazioni eseguibili dal sistema di archivi di cui agli articoli 35 e 36 del regolamento; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                gli obblighi e le responsabilita' dei soggetti giuridici che, a qualunque titolo, operano nel contesto del sistema di archivi e le modalita' di accesso al sistema di archivi ai sensi degli articoli 37 e 39 del regolamento; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                le modalita' di trattamento dei dati personali e commerciali a qualunque titolo acquisiti, elaborati, comunicati o altrimenti diffusi nel contesto del sistema di archivi, nel rispetto della normativa dell'Unione europea e nazionale vigenti in materia di protezione dei dati personali, nonche' di quanto previsto dall'articolo 38 del regolamento; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                le modalita' di accesso, condivisione e trasmissione delle informazioni con altri soggetti istituzionali per il perseguimento delle attivita' di propria competenza; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                le modalita' di affidamento a soggetti terzi di servizi connessi alla realizzazione e gestione del sistema di archivi; 
+
+                            
+                        
+                        
+                            i)
+                            
+                                le modalita' di controllo sul funzionamento e l'operativita' del sistema di archivi nonche' le attivita' di supervisione, ai sensi dell'articolo 44 del regolamento, ad esso connesse da parte del Ministero della salute e dell'AIFA nell'ambito delle rispettive competenze; 
+
+                            
+                        
+                        
+                            l)
+                            
+                                l'ammontare dei costi della convenzione a carico del soggetto giuridico senza scopo di lucro di cui all'articolo 31, paragrafo 1, del regolamento, i tempi e le modalita' di realizzazione del sistema in ottemperanza all'articolo 50 del regolamento.
+
 Per l'esecuzione delle attivita' previste dal capo VII del regolamento, la societa' di cui all'articolo 1 della legge 13 luglio 1966, n. 559, puo' avvalersi, per far fronte a specifiche esigenze organizzative, rimanendone pienamente responsabile per tutti gli aspetti di legge, di imprese terze nonche' di esperti e professionisti in possesso di adeguata qualificazione e in grado di garantire la qualita' delle prestazioni, nel rispetto della normativa nazionale e dell'Unione europea in materia di contratti per forniture pubbliche e di tracciabilita' dei flussi finanziari. Dall'attuazione del primo periodo non devono derivare nuovi o maggiori oneri a carico della finanza pubblica.
 
 ## Art. 10. — Sanzioni amministrative
@@ -170,7 +262,110 @@ Per la graduazione delle sanzioni amministrative pecuniarie, l'autorita' compete
 
 ## Art. 11. — Modifiche al decreto legislativo 24 aprile 2006, n. 219
 
+1.
+                    
+                        
+                            A decorrere dalla data del 9 febbraio 2025, al decreto legislativo 24 aprile 2006, n. 219, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                
+                                    l'articolo 51-ter e' sostituito dal seguente: 
+ «Art. 51-ter (Bollini farmaceutici o identificativi univoci). - 1. I bollini farmaceutici, di seguito denominati "bollini", di cui all'articolo 5-bis del decreto legislativo 30 dicembre 1992, n. 540, e gli identificativi univoci di cui all'articolo 73, comma 1, lettera p-bis), sono rispettivamente rimossi od occultati, completamente o parzialmente, solo se sono soddisfatte le seguenti condizioni: 
+ a) il titolare dell'autorizzazione alla produzione verifica, prima di rimuovere od occultare completamente o parzialmente tali bollini o gli identificativi univoci, che il medicinale in questione e' autentico e non e' stato manomesso; 
+ b) il titolare dell'autorizzazione alla produzione si conforma all'articolo 73, comma 1, lettera p-bis), sostituendo tali bollini ovvero gli identificativi univoci con bollini equivalenti ovvero con identificativi univoci equivalenti per la verifica dell'autenticita', dell'identificazione e per fornire la prova della manomissione del medicinale. Tale sostituzione e' effettuata senza aprire il confezionamento primario quale definito all'articolo 1, comma 1, lettera bb). Gli identificativi univoci si considerano equivalenti se sono conformi ai requisiti stabiliti negli atti delegati adottati ai sensi dell'articolo 54-bis, paragrafo 2, della direttiva 2001/83/CE e sono parimenti efficaci per consentire la verifica di autenticita' e l'identificazione del medicinale, nonche' per fornire la prova della manomissione del medicinale; 
+ c) la sostituzione dei bollini ovvero degli identificativi univoci e' effettuata in conformita' alle norme di buona fabbricazione dei medicinali applicabili ed e' soggetta alla supervisione dell'AIFA. 
+ 2. Il titolare dell'autorizzazione alla produzione e' responsabile per eventuali danni nei casi e alle condizioni stabilite nella direttiva 85/374/CEE.»;
+                                
+                            
+                        
+                        
+                            b)
+                            
+                                
+                                    all'articolo 52, comma 8, lettera b-bis), dopo le parole: «i bollini» sono inserite le seguenti: «ovvero gli identificativi univoci»;
+                                
+                            
+                        
+                        
+                            c)
+                            
+                                all'articolo 73: 
+ 1) al comma 1: 
+ 1.1) alla lettera p-bis), la parola: «bollini» e' sostituita dalle seguenti: «identificativi univoci di cui al regolamento delegato (UE) 2016/161 della Commissione del 2 ottobre 2015» e la parola: «dispositivo» e' sostituita dalle seguenti: «sistema di prevenzione delle manomissioni»; 
+ 1.2) la lettera s-bis) e' abrogata; 
+ 2) al comma 3: 
+ 2.1) al secondo periodo, dopo le parole: «la bollinatura» sono inserite le seguenti: «, l'apposizione dell'identificativo univoco di cui al regolamento delegato (UE) 2016/161»; 
+ 2.2) al terzo periodo, dopo le parole: «20 novembre 2001» sono inserite le seguenti: «, ovvero dell'identificativo univoco di cui al regolamento delegato (UE) 2016/161»; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                all'articolo 73-bis: 
+ 1) alla rubrica, la parola: «bollinatura» e' sostituita dalle seguenti: «all'apposizione dell'identificativo univoco di cui al regolamento delegato (UE) 2016/161»; 
+ 2) ai commi 1 e 2, le parole: «i bollini» sono sostituite dalle seguenti: «gli identificativi univoci»; 
+ 3) al comma 4, dopo la parola: «farmacovigilanza» sono aggiunte le seguenti: «, identificato con decreto del Ministro della salute, sentita l'AIFA»; 
+ 4) al comma 5, dopo la parola: «medicinale» sono aggiunte le seguenti: «ad eccezione di quelli indicati nell'allegato I al regolamento delegato (UE) 2016/161»;
+                                
+                            
+                        
+                        
+                            e)
+                            
+                                
+                                    all'articolo 96, dopo il comma 4, e' aggiunto il seguente: 
+ «4-bis. L'imballaggio esterno dei medicinali previsti dal presente articolo, oltre al bollino di riconoscimento di cui al comma 4, reca l'identificativo univoco di cui al regolamento delegato (UE) 2016/161 della Commissione del 2 ottobre 2015, ove ricompresi tra i medicinali di cui all'articolo 2, paragrafo 1, lettere b) e c), del medesimo regolamento delegato.»;
+                                
+                            
+                        
+                        
+                            f)
+                            
+                                all'articolo 104, comma 1: 
+ 1) alla lettera c-bis), dopo le parole: «i bollini» sono inserite le seguenti: «ovvero gli identificativi univoci di cui al regolamento delegato (UE) 2016/161 della Commissione del 2 ottobre 2015,»; 
+ 2) alla lettera e), numero 6), dopo le parole: «i bollini» sono inserite le seguenti: «ovvero gli identificativi univoci»;
+                                
+                            
+                        
+                        
+                            g)
+                            
+                                
+                                    all'articolo 105, comma 5, lettera c-bis), dopo le parole: «i bollini» sono inserite le seguenti: «ovvero gli identificativi univoci»;
+                                
+                            
+                        
+                        
+                            h)
+                            
+                                
+                                    all'articolo 148, comma 5, dopo le parole: «decreto legislativo 30 dicembre 1992, n. 540,» sono inserite le seguenti: «o dell'identificativo univoco di cui al regolamento delegato (UE) 2016/161,».
+
 ## Art. 12. — Modifiche al decreto legislativo 30 dicembre 1992, n. 540
+
+1.
+                    
+                        
+                            All'articolo 5-bis del decreto legislativo 30 dicembre 1992, n. 540, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                la rubrica e' sostituita dalla seguente: «Banca dati centrale»;
+                                
+                            
+                        
+                        
+                            b)
+                            
+                                
+                                    dopo il comma 1, e' aggiunto il seguente: 
+ «1-bis. Il Ministro della salute con proprio decreto fissa le modalita' e i tempi di impianto e funzionamento della banca dati centrale di cui al comma 1, adeguandola alle disposizioni relative all'identificativo univoco di cui al regolamento delegato (UE) 2016/161 della Commissione del 2 ottobre 2015, e le modalita' di accesso alla stessa. I produttori, i depositari e i grossisti devono trasmettere a tale banca dati il codice prodotto, il corrispondente numero di confezioni, la relativa destinazione e, ove previsto, il lotto di produzione nonche' il valore economico delle forniture a carico del Servizio sanitario nazionale.».
 
 ## Art. 13. — Disposizioni transitorie e finali
 
@@ -183,11 +378,48 @@ Ai medicinali di cui al comma 1, ai fini del monitoraggio della distribuzione in
 Dal 9 febbraio 2025 all'8 febbraio 2027 e' previsto un periodo di stabilizzazione per le operazioni di apposizione e attivazione, verifica, disattivazione e riattivazione dell'identificativo univoco, secondo le istruzioni operative definite dal Ministero della salute.
 Con decreto del Ministro della salute, da adottare entro trenta giorni dalla data di entrata in vigore del presente decreto, e' istituito un tavolo tecnico per il monitoraggio dello stato di avanzamento delle fasi del periodo di stabilizzazione e sono definiti la composizione e le funzioni del medesimo tavolo tecnico. Ai componenti del tavolo tecnico di cui al secondo periodo non spettano compensi, gettoni di presenza, rimborsi di spese o altri emolumenti comunque denominati.
 
+5.
+                    
+                        
+                            Nel periodo di stabilizzazione di cui al comma 4, la tracciabilita' e la rimborsabilita' dei medicinali per uso umano sottoposti alla disciplina dell'identificativo univoco di cui all'articolo 2, paragrafo 1, del regolamento, sono assicurate anche attraverso la lettura delle informazioni contenute nel dispositivo di cui all'articolo 2, comma 2. A tal fine: 
+ 
+                        
+                        
+                            a)
+                            
+                                le disposizioni di cui agli articoli 51-ter, 52, 104, comma 1, lettere c-bis) ed e), numero 6), 105, comma 5, lettera c-bis), del decreto legislativo 24 aprile 2006, n. 219, si applicano anche al dispositivo di cui all'articolo 2, comma 2; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al momento della dispensazione del medicinale, nelle more dell'adozione delle istruzioni del Ministero della salute di cui al comma 4 in materia di registrazione dell'identificativo univoco, il farmacista procede alla registrazione del dispositivo di cui all'articolo 2, comma 2;
+
 Nel periodo di stabilizzazione di cui al comma 4, l'identificativo univoco e il dispositivo di cui all'articolo 2, comma 2, previsto per i medicinali per uso umano sottoposti alla disciplina dell'identificativo univoco di cui all'articolo 2, paragrafo 1, del regolamento delegato (UE) 2016/161, possono essere sostituiti dal bollino farmaceutico di cui all'articolo 5-bis del decreto legislativo 30 dicembre 1992, n. 540, anche ai fini del rilascio dei lotti di medicinali. Nel caso di immissione o mantenimento in commercio di medicinali che recano il bollino farmaceutico di cui all'articolo 5-bis del decreto legislativo 30 dicembre 1992, n. 540, non si applica la sanzione di cui all'articolo 10, comma 4, e al momento della dispensazione del medicinale, il farmacista procede alla registrazione delle informazioni contenute nel bollino farmaceutico di cui all'articolo 5-bis del decreto legislativo 30 dicembre 1992, n. 540.
 
 Nel periodo di stabilizzazione di cui al comma 4, la persona qualificata ai sensi dell' articolo 52, comma 8, lettera b-bis), del decreto legislativo 24 aprile 2006, n. 219, assicura l'apposizione sull'imballaggio dei medicinali sottoposti alla disciplina dell'identificativo univoco di cui all'articolo 2, paragrafo 1, del regolamento, dell'identificativo univoco e del dispositivo di cui all'articolo 2, comma 2, o in alternativa del bollino farmaceutico di cui all'articolo 5-bis del decreto legislativo 30 dicembre 1992, n. 540.
 
 Nel periodo di stabilizzazione di cui al comma 4, l'apposizione del bollino farmaceutico di cui all'articolo 5-bis del decreto legislativo 30 dicembre 1992, n. 540, puo' assolvere per qualsiasi medicinale per uso umano anche la funzione di sistema di prevenzione delle manomissioni di cui all'articolo 3, comma 2.
+
+9.
+                    
+                        
+                            Le disposizioni di cui all'articolo 10 si applicano a decorrere dal 9 febbraio 2025. Al fine di adeguare il sistema sanzionatorio allo stato di avanzamento del periodo di stabilizzazione di cui al comma 4, a decorrere dal 9 febbraio 2025 e sino all'8 febbraio 2027: 
+ 
+                        
+                        
+                            a)
+                            
+                                non si applicano le sanzioni di cui all' articolo 10, commi 1, 3, 5, 6, 7 e 8; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                salvo che il fatto costituisca reato, il farmacista che non registra le informazioni contenute nel dispositivo di cui all'articolo 2, comma 2, ai sensi del comma 5, lettera b), e' soggetto alla sanzione amministrativa pecuniaria di cui all'articolo 50, comma 8-bis, del decreto-legge 30 settembre 2003, n. 269, convertito, con modificazioni, dalla legge 24 novembre 2003, n. 326.
+La medesima sanzione si applica nel caso di mancata registrazione del bollino farmaceutico di cui all'articolo 5-bis del decreto legislativo 30 dicembre 1992, n. 540.
 
 ## Art. 14. — Clausola di invarianza finanziaria
 

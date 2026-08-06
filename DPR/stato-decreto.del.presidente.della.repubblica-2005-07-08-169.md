@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: DPR
 vigenza_date: 2018-02-15
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:47:46Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -31,6 +31,38 @@ Sulla proposta del Ministro dell'istruzione, dell'universita' e della ricerca, d
 Le disposizioni di cui al presente regolamento si applicano agli ordini dei dottori agronomi e dottori forestali, degli architetti, pianificatori, paesaggisti e conservatori, degli assistenti sociali, degli attuari, dei biologi, ((...)) dei geologi e degli ingegneri.
 
 ## Art. 2. — Composizione dei consigli territoriali
+
+1.
+                    
+                        
+                            Fatto salvo quanto previsto dagli articoli 6 e 8 del presente regolamento, i consigli territoriali degli ordini di cui all'articolo 1 sono formati da un numero di componenti iscritti alle sezioni A e B dei rispettivi albi pari a:
+ 
+                        
+                        
+                            a)
+                            
+                                sette, se il numero complessivo degli iscritti non supera cento;
+
+                            
+                        
+                        
+                            b)
+                            
+                                nove, se il numero complessivo degli iscritti supera cento ma non cinquecento;
+
+                            
+                        
+                        
+                            c)
+                            
+                                undici, se il numero complessivo degli iscritti supera cinquecento ma non millecinquecento;
+
+                            
+                        
+                        
+                            d)
+                            
+                                quindici, se il numero complessivo degli iscritti supera millecinquecento.
 
 I predetti consigli sono composti secondo quanto previsto nella tabella di cui all'Allegato 1, che e' parte integrante del presente regolamento.
 
@@ -114,6 +146,38 @@ Al presidente del consiglio nazionale si applicano le disposizioni di cui all'ar
 
 ## Art. 6. — Consiglio dell'ordine e consiglio nazionale degli attuari
 
+1.
+                    
+                        
+                            Il consiglio dell'ordine degli attuari e' formato da un numero di componenti iscritti alle sezioni A e B dell'albo pari a:
+ 
+                        
+                        
+                            a)
+                            
+                                sette, se il numero complessivo degli iscritti non supera cento;
+
+                            
+                        
+                        
+                            b)
+                            
+                                nove, se il numero complessivo degli iscritti supera i cento ma non cinquecento;
+
+                            
+                        
+                        
+                            c)
+                            
+                                undici, se il numero complessivo degli iscritti supera i cinquecento ma non millecinquecento;
+
+                            
+                        
+                        
+                            d)
+                            
+                                quindici, se il numero complessivo degli iscritti supera millecinquecento.
+
 Il consiglio dell'ordine e' composto secondo quanto previsto nella tabella di cui all'Allegato 3, che e' parte integrante del presente regolamento. Le elezioni sono regolate dalle disposizioni dell'articolo 3 del presente regolamento.
 
 Il consiglio nazionale e' composto secondo quanto previsto nella tabella di cui all'Allegato 4, che e' parte integrante del presente regolamento. Le elezioni sono regolate dalle disposizioni dell'articolo 3 del presente regolamento.
@@ -145,6 +209,66 @@ In mancanza di consiglieri iscritti alla sezione B dell'albo, giudica il consigl
 ## Art. 10. — Abrogazioni
 
 A decorrere dalla data di entrata in vigore del presente regolamento, non si applicano agli ordini di cui all'articolo 1 le seguenti disposizioni del decreto legislativo luogotenenziale 23 novembre 1944, n. 382: articolo 1, comma primo, secondo periodo; articolo 2, commi primo, secondo, limitatamente ai periodi secondo e terzo, e comma terzo; articolo 3; articolo 4; articolo 5; articolo 10, commi primo, dalle parole «e sono» fino alla parola «professione», e secondo; articolo 11; articolo 12; articolo 13; articolo 15, comma primo, secondo periodo, e commi secondo e terzo.
+
+2.
+                    
+                        
+                            A decorrere dalla data di entrata in vigore del presente regolamento sono abrogate le seguenti disposizioni:
+ 
+                        
+                        
+                            a)
+                            
+                                articolo 10, commi primo e secondo; articolo 14, comma terzo; articolo 19, commi 1, 2, 3, 4, 5, 6, 7 e 8; articolo 23, comma primo, dalle parole «ed e» alla parola «anni», commi secondo e terzo; articolo 27, commi primo, secondo, terzo e quarto; articolo 28; articolo 48, comma secondo, dalle parole «; in caso» alla parola «incolpato», della legge 7 gennaio 1976, n. 3;
+
+                            
+                        
+                        
+                            b)
+                            
+                                articolo 5; l'articolo 6, comma primo, dalla parola «effettivi» alla parola «due», commi secondo e terzo; articolo 7, commi primo e terzo; articolo 8; articolo 9, commi primo, secondo e terzo; articolo 15, del decreto del Presidente della Repubblica 30 aprile 1981, n. 350;
+
+                            
+                        
+                        
+                            c)
+                            
+                                articolo 14; articolo 27, comma primo, dalle parole «alla elezione» alle parole «centrale ed», del regio decreto 23 ottobre 1925, n. 2537;
+
+                            
+                        
+                        
+                            d)
+                            
+                                articolo 2, commi 1 e 2; articolo 4, commi 1, 2, 3, 4, 5 e 6; l'articolo 5; articolo 12, comma 1, dalla parola «, dura» alla parola «consecutive»; articolo 13, comma 1, secondo periodo, limitatamente alle parole «, a maggioranza assoluta,» e «quindici», e comma 2, del decreto del Ministro di grazia e giustizia 11 ottobre 1994, n. 615;
+
+                            
+                        
+                        
+                            e)
+                            
+                                articolo 19, comma primo, dalle parole «, il quale e' composto» fino alla parola «categoria», commi secondo e terzo, della legge 9 febbraio 1942, n. 194;
+
+                            
+                        
+                        
+                            f)
+                            
+                                articolo 16, comma primo, dalle parole «ed e' composto» alla parola «insediamento»; articolo 21, comma primo, dalle parole «ed e' costituito» alla parola «seguenti»; articolo 30, comma terzo; articolo 31; articolo 33; articolo 34; articolo 35, commi primo e secondo; articolo 39, comma sesto, della legge 24 maggio 1967, n. 396;
+
+                            
+                        
+                        
+                            g)
+                            
+                                articolo 1, commi primo, dalle parole «ed e' composto» alla parola «membri», e quarto; articolo 2, commi primo, secondo, terzo, quarto e quinto; articolo quarto, commi primo e secondo; articolo 5, commi quinto e sesto; articolo 6, commi primo, secondo e terzo; articolo 10, commi settimo e ottavo, della legge 25 luglio 1966, n. 616;
+
+                            
+                        
+                        
+                            h)
+                            
+                                articolo 2, commi 1, dalle parole «, che e' composto» alla parola «superiore», e 2; articolo 4, comma 2, dalla parola «Ove» alla parola «incolpato.», della legge 12 novembre 1990, n. 339.
 
 ## Art. 11. — Entrata in vigore
 

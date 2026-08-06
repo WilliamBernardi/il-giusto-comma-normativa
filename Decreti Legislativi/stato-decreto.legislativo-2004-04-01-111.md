@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
 vigenza_date: 2025-02-18
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:29Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -30,7 +30,154 @@ Sono trasferite alla Regione, in base all'articolo 4, primo comma, n. 9), e all'
 
 ## Art. 2. — Funzioni statali in materia di viabilita'
 
+1.
+                    
+                        
+                            Rimane in capo allo Stato la determinazione dei principi fondamentali in materia di grandi reti viarie di trasporto. Spetta, in particolare allo Stato: 
+ 
+                        
+                        
+                            a)
+                            
+                                la fissazione di indirizzi normativi generali per la pianificazione pluriennale, la programmazione, la progettazione e la realizzazione della rete stradale nazionale; 
 
+                            
+                        
+                        
+                            b)
+                            
+                                la determinazione di criteri normativi omogenei per la fissazione dei canoni per le licenze e le concessioni, nonche' per l'esposizioni di pubblicita' lungo o in vista delle strade statali costituenti la rete nazionale; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                la fissazione dei principi fondamentali in materia di informazione stradale.
+
+2.
+                    
+                        
+                            Resta ferma la competenza normativa esclusiva dello Stato nelle materie concernenti: 
+ 
+                        
+                        
+                            a)
+                            
+                                la disciplina della circolazione veicolare ai fini di salvaguardia dell'ordine e della sicurezza pubblici e della difesa; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                la definizione di standard e prescrizioni tecniche in materia di sicurezza stradale e norme tecniche relative alle strade e alle loro pertinenze ed alla segnaletica stradale; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                la disciplina della prevenzione degli incidenti e della sicurezza della circolazione stradale.
+
+3.
+                    
+                        
+                            Rimangono altresi' in capo allo Stato, in relazione ad esigenze di unitarieta', le funzioni amministrative relative: 
+ 
+                        
+                        
+                            a)
+                            
+                                alla relazione annuale al Parlamento sull'esito delle indagini periodiche riguardanti i profili sociali, ambientali ed economici della circolazione stradale ai sensi dell'articolo 1 del decreto legislativo del 30 aprile 1992, n. 285; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                alla informazione dell'opinione pubblica con finalita' prevenzionali ed educative ai sensi dell'articolo 1 del decreto legislativo del 30 aprile 1992, n. 285; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                alla tenuta dell'archivio nazionale delle strade; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                alla pianificazione e programmazione, nonche' progettazione, esecuzione, manutenzione e gestione della rete autostradale e dei trafori, sia direttamente che in concessione; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                alla pianificazione e programmazione, nonche' progettazione, esecuzione, manutenzione e gestione della rete stradale nazionale di collegamento confinario di cui all'elenco allegato sub C); 
+
+                            
+                        
+                        
+                            f)
+                            
+                                
+                                    ((alla)) pianificazione e programmazione della rete stradale nazionale di cui all'elenco allegato sub B); 
+
+                            
+                        
+                        
+                            f-bis)
+                            
+                                
+                                    ((all'esecuzione, manutenzione e gestione di nuove opere di interesse statale, definendo termini, modalita', forme di attuazione, finanziamenti e oneri)); 
+
+                            
+                        
+                        
+                            g)
+                            
+                                alla determinazione delle tariffe autostradali ed ai criteri di determinazione dei piani finanziari delle societa' concessionarie; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                all'adeguamento delle tariffe di pedaggio autostradale; 
+
+                            
+                        
+                        
+                            i)
+                            
+                                all'approvazione delle concessioni di costruzione ed esercizio di autostrade; 
+
+                            
+                        
+                        
+                            l)
+                            
+                                al controllo delle concessionarie autostradali, relativamente all'esecuzione dei lavori di costruzione, al rispetto dei piani finanziari e dell'applicazione delle tariffe ed alla stipula delle relative convenzioni; 
+
+                            
+                        
+                        
+                            m)
+                            
+                                alla determinazione annuale delle tariffe relative alle licenze e concessioni ed alla esposizione della pubblicita'; 
+
+                            
+                        
+                        
+                            n)
+                            
+                                alla regolamentazione della circolazione veicolare, anche ai sensi degli articoli 5 e 6 del decreto legislativo 30 aprile 1992, n. 285, per esigenze di sicurezza pubblica e della circolazione, di tutela della salute e di carattere militare.
+
+((Ai sensi dell'articolo 47, primo comma, dello Statuto, le funzioni di cui al comma 3, lettere e), f) e f-bis), sono esercitate previa intesa con la Regione.))
 
 Le funzioni concernenti la pianificazione e programmazione delle grandi opere relative alla rete autostradale e ai trafori sono esercitate sulla base di intese generali quadro con la Regione.
 
@@ -108,6 +255,38 @@ Sono trasferite alla Regione, in base agli articoli 4, 5 e 8 dello Statuto, tutt
 
 Sono trasferite alla Regione, in base agli articoli 4, 5 e 8 dello Statuto, tutte le funzioni amministrative, salvo quelle espressamente mantenute allo Stato dall'articolo 11, in materia di trasporto merci, motorizzazione e circolazione su strada, navigazione interna e porti regionali, comprese le funzioni relative alle concessioni dei beni del demanio della navigazione interna, del demanio marittimo, di zone del mare territoriale per finalita' diverse da quelle di approvvigionamento energetico. Tale conferimento non opera nei porti finalizzati alla difesa militare ed alla sicurezza dello Stato, nei porti di rilevanza economica internazionale e nazionale, nonche' nelle aree di preminente interesse nazionale individuate con il decreto del Presidente del Consiglio del Ministri in data 21 dicembre 1995, pubblicato nella Gazzetta Ufficiale n. 136 del 12 giugno 1996, e successive modificazioni. L'individuazione delle aree dei porti, diverse da quelle per le quali e' operato il conferimento alla Regione dal presente decreto, e' effettuata ai sensi dell'articolo 11, comma 2.
 
+3.
+                    
+                        
+                            Tra le funzioni trasferite di cui al comma 2 sono ricomprese in particolare quelle relative:
+ 
+                        
+                        
+                            a)
+                            
+                                alla tenuta degli albi provinciali, quali articolazioni dell'albo nazionale degli autotrasportatori, inclusa la nomina dei comitati provinciali;
+
+                            
+                        
+                        
+                            b)
+                            
+                                agli esami per il conseguimento dei titoli professionali di autotrasportatore di cose per conto di terzi e di persone, ivi compresa la nomina delle commissioni esaminatrici;
+
+                            
+                        
+                        
+                            c)
+                            
+                                al rilascio di patenti nautiche e di loro duplicati e aggiornamenti, nonche' dei certificati di abilitazione professionale in materia;
+
+                            
+                        
+                        
+                            d)
+                            
+                                all'autorizzazione e vigilanza tecnica sull'attivita' svolta dalle scuole nautiche.
+
 Per l'esercizio delle funzioni di cui al comma 3, lettere c) e d), la Regione puo' avvalersi delle Capitanerie di porto, secondo i criteri e le modalita' definiti convenzionalmente tra la Regione e queste ultime.
 
 I proventi e le spese derivanti dalla gestione del demanio marittimo e della navigazione interna, per la parte non gia' trasferita con il decreto legislativo 25 maggio 2001, n. 265, nonche' dall'esercizio delle funzioni in materia di motorizzazione e circolazione su strada, spettano alla Regione dalla data di decorrenza dell'efficacia del presente decreto.
@@ -139,6 +318,255 @@ Dalla data di decorrenza dell'efficacia del presente decreto la Regione subentra
 Restano in capo al Ministero delle infrastrutture e dei trasporti gli oneri relativi alle liti pendenti alla data di consegna dei beni ed a quelli originanti da fatti accaduti antecedentemente alla data di consegna.
 
 ## Art. 11. — Funzioni statali in materia di trasporti
+
+1.
+                    
+                        
+                            Restano in capo allo Stato, in relazione alle esigenze di unitarieta', le funzioni relative:
+ 
+                        
+                        
+                            a)
+                            
+                                alla predisposizione del piano generale dei trasporti inerenti le grandi reti di trasporto e di navigazione, i porti e gli aeroporti civili;
+
+                            
+                        
+                        
+                            b)
+                            
+                                alla definizione di standard e prescrizioni tecniche ((in materia di sicurezza dei trasporti aerei,)) marittimi, di cabotaggio, automobilistici, ferroviari e dei trasporti ad impianti fissi, del trasporto di merci pericolose, nocive e inquinanti;
+
+                            
+                        
+                        
+                            c)
+                            
+                                ai servizi di trasporto aereo, ad eccezione dei collegamenti che si svolgono esclusivamente nell'ambito della Regione e dei servizi elicotteristici;
+
+                            
+                        
+                        
+                            d)
+                            
+                                ai servizi di trasporto marittimo, ad eccezione dei servizi di cabotaggio che si svolgono prevalentemente nell'ambito della Regione e di quelli a carattere transfrontaliero;
+
+                            
+                        
+                        
+                            e)
+                            
+                                ai servizi di trasporto automobilistico a carattere internazionale, con esclusione di quelli transfrontalieri, e alle linee interregionali;
+
+                            
+                        
+                        
+                            f)
+                            
+                                alla concessione di autolinee ordinarie e di gran turismo non comprese fra quelle di interesse regionale;
+
+                            
+                        
+                        
+                            g)
+                            
+                                ai servizi di trasporto ferroviario internazionali e quelli nazionali di percorrenza medio-lunga, caratterizzati da elevati standards qualitativi, ad eccezione di quelli a carattere transfrontaliero;
+
+                            
+                        
+                        
+                            h)
+                            
+                                ai servizi di trasporto di merci pericolose, nocive ed inquinanti;
+
+                            
+                        
+                        
+                            i)
+                            
+                                alla sicurezza, di cui ai decreti del Presidente della Repubblica 11 luglio 1980, n. 753, 8 luglio 1998, n. 277, e 16 marzo 1999, n. 146, tranne quelle relative al rilascio del nulla osta allo svolgimento dei servizi di trasporto su gomma e quelle relative all'accertamento di cui all'ultimo comma dell'articolo 5 del citato decreto 11 luglio 1980, n. 753;
+
+                            
+                        
+                        
+                            l)
+                            
+                                all'adozione delle linee guida e dei principi quadro per la riduzione dell'inquinamento derivante dal sistema di trasporto pubblico;
+
+                            
+                        
+                        
+                            m)
+                            
+                                alla vigilanza ai fini della sicurezza dei trasporti ad impianto fisso, fatto salvo quanto stabilito dalla lettera i) e con l'esclusione degli impianti a fune;
+
+                            
+                        
+                        
+                            n)
+                            
+                                alla vigilanza sulle imprese di trasporto pubblico di interesse nazionale e sulla sicurezza e regolarita' di esercizio della rete ferroviaria di interesse nazionale;
+
+                            
+                        
+                        
+                            o)
+                            
+                                al rilascio di concessioni per la gestione delle infrastrutture ferroviarie di interesse nazionale;
+
+                            
+                        
+                        
+                            p)
+                            
+                                alla programmazione, realizzata previa intesa con la Regione, degli interporti e delle intermodalita' di rilievo nazionale e internazionale;
+
+                            
+                        
+                        
+                            q)
+                            
+                                agli interventi statali a favore delle imprese di autotrasporto di cui alla legge 23 dicembre 1997, n. 454;
+
+                            
+                        
+                        
+                            r)
+                            
+                                all'albo nazionale degli autotrasportatori con funzioni di indirizzo, coordinamento e vigilanza di cui all'articolo 1, comma 4, e all'articolo 7, comma 7, della legge 23 dicembre 1997, n. 454;
+
+                            
+                        
+                        
+                            s)
+                            
+                                alla registrazione della proprieta' dei veicoli e delle successive variazioni nell'archivio nazionale dei veicoli;
+
+                            
+                        
+                        
+                            t)
+                            
+                                alla omologazione e approvazione dei veicoli a motore e loro rimorchi, loro componenti e unita' tecniche indipendenti;
+
+                            
+                        
+                        
+                            u)
+                            
+                                al riconoscimento delle omologazioni del Registro italiano navale (RINA), nonche' alla vigilanza sul RINA, su l'Istituto nazionale per studi ed esperienze di architettura navale (INSEAN) e su la Lega navale italiana;
+
+                            
+                        
+                        
+                            v)
+                            
+                                all'estimo navale;
+
+                            
+                        
+                        
+                            z)
+                            
+                                ai compiti di polizia stradale di cui agli articoli 11 e 12 del decreto legislativo 30 aprile 1992, n. 285;
+
+                            
+                        
+                        
+                            aa)
+                            
+                                alla fissazione dei principi fondamentali per la classificazione dei porti e nei porti di rilievo nazionale e internazionale, previa intesa con la Regione, per la pianificazione, programmazione e progettazione degli interventi aventi ad oggetto la costruzione, la gestione, la bonifica e la manutenzione dei porti e delle vie di navigazione, delle opere edilizie a servizio dell'attivita' portuale, dei bacini di carenaggio, di fari e fanali;
+
+                            
+                        
+                        
+                            bb)
+                            
+                                alla disciplina e alla sicurezza della navigazione da diporto e alla sicurezza della navigazione interna;
+
+                            
+                        
+                        
+                            cc)
+                            
+                                alle caratteristiche tecniche e al regime giuridico delle navi e delle unita' da diporto;
+
+                            
+                        
+                        
+                            dd)
+                            
+                                alla disciplina e alla sicurezza della navigazione marittima;
+
+                            
+                        
+                        
+                            ee)
+                            
+                                alla bonifica delle vie di navigazione e dei canali marittimi;
+
+                            
+                        
+                        
+                            ff)
+                            
+                                alla costituzione e gestione del sistema del traffico marittimo denominato VTS;
+
+                            
+                        
+                        
+                            gg)
+                            
+                                alla programmazione e costruzione, d'intesa con la Regione, degli aeroporti classificati di interesse nazionale e regionale, nonche' alla fissazione dei principi fondamentali per il loro ampliamento e gestione;
+
+                            
+                        
+                        
+                            hh)
+                            
+                                alla disciplina delle scuole di volo e del rilascio dei titoli aeronautici quali licenze, attestati e abilitazioni, nonche' alla disciplina delle scuole di formazione marittima e del rilascio dei titoli professionali marittimi; alla individuazione dei requisiti psico-fisici della gente di mare;
+
+                            
+                        
+                        
+                            ii)
+                            
+                                alla disciplina della sicurezza del volo;
+
+                            
+                        
+                        
+                            ll)
+                            
+                                all'Ente nazionale per l'aviazione civile e alla Direzione generale della navigazione aerea previste dall'articolo 2 del decreto legislativo 25 luglio 1997, n. 250;
+
+                            
+                        
+                        
+                            mm)
+                            
+                                alla pianificazione degli interventi per sostenere la trasformazione delle compagnie portuali, anche in relazione agli organici e all'assegnazione della cassa integrazione guadagni;
+
+                            
+                        
+                        
+                            nn)
+                            
+                                alla tenuta dell'archivio nazionale dei veicoli e dei veicoli d'epoca e dell'anagrafe nazionale degli abilitati alla guida;
+
+                            
+                        
+                        
+                            oo)
+                            
+                                all'utilizzazione del pubblico demanio marittimo e delle zone del mare territoriale di competenza statale per finalita' di approvvigionamento energetico;
+
+                            
+                        
+                        
+                            pp)
+                            
+                                al sistema informativo del demanio marittimo, la cui gestione e' regolata mediante protocolli d'intesa ai sensi dell'articolo 6 del decreto legislativo 28 agosto 1997, n. 281.
 
 Entro sei mesi dalla data di entrata in vigore del presente decreto, si provvede, con decreto del Presidente del Consiglio del Ministri, previa intesa con la Regione, all'identificazione delle aree dei porti internazionali e nazionali nelle quali opera il trasferimento alla Regione delle funzioni relative alle concessioni sulle aree demaniali marittime.
 

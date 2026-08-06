@@ -7,8 +7,8 @@ urn: urn:nir:ministero.economia.e.finanze:decreto:2022-06-22;128
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:41Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -36,6 +36,24 @@ Il presente regolamento stabilisce i criteri per l'acquisizione dei dati e delle
 
 ## Art. 2. — Beni ereditari vacanti
 
+1.
+                    
+                        
+                            Ai fini del presente regolamento, per «beni ereditari vacanti» si intendono: i beni immobili, le cose mobili, i titoli di credito, le obbligazioni, le partecipazioni societarie, le quote di fondi comuni di investimento e gli altri valori mobiliari, i crediti nonche' i diritti e i beni immateriali, situati nel territorio dello Stato italiano, facenti parte di: 
+ 
+                        
+                        
+                            a)
+                            
+                                eredita' devolute allo Stato all'esito delle procedure di cui agli articoli 528 e seguenti del codice civile; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                eredita' devolute allo Stato ai sensi dell'articolo 586 del codice civile per le quali non sono state attivate le procedure di cui agli articoli 528 e seguenti del codice civile.
+
 ## Art. 3.
 
 Beni derivanti da eredita' giacente
@@ -45,6 +63,59 @@ Nei casi di procedimento instaurato ai sensi dell'articolo 528, primo comma, del
 Il curatore dell'eredita' giacente, attraverso il sistema di rilevazione dei dati di cui all'articolo 6, trasmette, entro sei mesi dalla nomina, un elenco provvisorio dei beni ereditari contenente i dati di cui al comma 4.
 
 Nel caso di devoluzione dell'eredita' allo Stato ai sensi dell'articolo 586 del codice civile, entro trenta giorni dalla chiusura della procedura di eredita' giacente, il curatore trasmette all'Agenzia del demanio, con le modalita' indicate nel comma 2, l'elenco dei beni ereditari.
+
+4.
+                    
+                        
+                            L'elenco dei beni ereditari contiene tutti i dati e le informazioni occorrenti per individuare i beni, e in particolare: 
+ 
+                        
+                        
+                            a)
+                            
+                                i dati identificativi del curatore e il relativo codice fiscale; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                i dati identificativi del defunto e il relativo codice fiscale; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                il tribunale del circondario in cui si e' aperta la successione; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                i dati identificativi dei chiamati all'eredita' e i relativi codici fiscali; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                i dati identificativi dei beni immobili, delle cose mobili, dei titoli di credito, dei titoli di Stato, delle obbligazioni, delle partecipazioni societarie, delle quote di fondi comuni di investimento o di altri valori mobiliari, dei diritti e beni immateriali e di ogni altra attivita' ricompresa nella eredita' giacente; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                gli estremi delle trascrizioni o iscrizioni risultanti dai pubblici registri; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                i crediti, l'ammontare delle somme di danaro ed ogni altra attivita'.
 
 L'elenco dei beni ereditari e' validamente presentato quando il curatore lo sottoscrive o e' identificato o lo trasmette a norma dell'articolo 65, comma 1, del decreto legislativo 7 marzo 2005, n. 82.
 

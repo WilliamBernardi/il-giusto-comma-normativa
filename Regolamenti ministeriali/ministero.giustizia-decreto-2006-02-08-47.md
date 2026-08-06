@@ -8,8 +8,8 @@ codice_redazionale: 006G0064
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:40Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -29,11 +29,93 @@ Udito il parere del Consiglio di Stato espresso nell'adunanza della sezione cons
 
 ## Art. 1. — Nomina a vice sovrintendente
 
+1.
+                        
+                            
+                                La nomina alla qualifica iniziale del ruolo dei sovrintendenti del Corpo della polizia penitenziaria, ai sensi dell'articolo 16 del decreto legislativo 30 ottobre 1992, n. 443, si consegue:
+ 
+                            
+                            
+                                a)
+                                
+                                    nel limite del 40% dei posti disponibili al 31 dicembre di ciascun anno, mediante concorso interno per esame scritto, consistente in risposte a questionario articolato su domande tendenti ad accertare il grado di preparazione culturale e professionale e successivo corso di formazione professionale della durata non inferiore a tre mesi;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    nel limite del restante 60% dei posti disponibili al 31 dicembre di ciascun anno, mediante concorso interno per titoli, e superamento di un successivo corso di formazione tecnico-professionale, di durata non inferiore a tre mesi, riservato agli assistenti capo che ricoprono, alla predetta data, una posizione in ruolo non inferiore a quella compresa entro il doppio dei posti riservati per tale concorso.
+
 ## Art. 2. — Bandi di concorso
+
+1.
+                        
+                            
+                                I concorsi previsti dall'articolo 16, comma 1, lettere a) e b), del decreto legislativo 30 ottobre 1992, n. 443 sono indetti con provvedimento del direttore generale del personale e della formazione. Il bando deve indicare:
+ 
+                            
+                            
+                                a)
+                                
+                                    il numero dei posti messi a concorso e le sedi disponibili;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    i requisiti richiesti per la partecipazione al concorso;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    le modalita' di presentazione delle domande di partecipazione;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    le materie oggetto della prova d'esame ovvero le categorie di titoli ammessi a valutazione ed i punteggi massimi attribuibili a ciascuna di esse;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    ogni altra prescrizione o notizia ritenuta utile.
 
 ## - Capo II Concorso previsto dall'articolo 16, comma 1, lettera a) del decreto legislativo 30 ottobre 1992, n. 443.
 
 ## Art. 3. — Requisiti di ammissione
+
+1.
+                        
+                            
+                                Il concorso interno previsto dall'articolo 16, comma 1, lettera a) del decreto legislativo 30 ottobre 1992, n. 443, e' riservato al personale del Corpo di polizia penitenziaria appartenente al ruolo degli agenti ed assistenti:
+ 
+                            
+                            
+                                a)
+                                
+                                    che sia in possesso alla data del 31 dicembre di ciascun anno di una anzianita' di effettivo servizio di almeno quattro anni;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    che non abbia riportato nell'ultimo biennio un giudizio complessivo inferiore a «buono»;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    che non abbia riportato nell'ultimo biennio una sanzione disciplinare piu' grave della deplorazione.
 
 ## Art. 4. — Esclusione dal concorso
 
@@ -46,6 +128,24 @@ L'esclusione dal concorso e' disposta, in qualunque momento, con decreto motivat
 Il personale in possesso dei requisiti previsti e' chiamato a sostenere una prova scritta consistente in risposte ad un questionario articolato su 120 domande tendenti ad accertare il grado di preparazione culturale e professionale dei candidati. La durata della prova non puo' superare i 100 minuti.
 
 Il questionario e' articolato in domande a risposta a scelta multipla, vertenti, per il 30 per cento su argomenti di cultura generale e per la restante parte su materie professionali.
+
+3.
+                        
+                            
+                                Le materie oggetto del questionario sono:
+ 
+                            
+                            
+                                a)
+                                
+                                    cultura generale: italiano, storia, educazione civica, geografia fisica, politica ed economica d'Italia;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    preparazione professionale: diritto penale, procedura penale, diritto penitenziario ed ordinamento dell'Amministrazione Penitenziaria.
 
 Ai fini della predisposizione delle domande a risposta a scelta multipla, l'Amministrazione puo' avvalersi della consulenza di enti pubblici o di privati specializzati nel settore.
 
@@ -84,6 +184,31 @@ La graduatoria dei vincitori e degli idonei del concorso sara' pubblicata nel Bo
 ## - Capo III Concorso previsto dall'articolo 16, comma 1, lettera b) del decreto legislativo 30 ottobre 1992, n. 443.
 
 ## Art. 8. — Requisiti di ammissione
+
+1.
+                        
+                            
+                                Il concorso interno previsto dall'articolo 16, comma 1, lettera b) del decreto legislativo 30 ottobre 1992, n. 443, e' riservato agli assistenti capo del Corpo di polizia penitenziaria:
+ 
+                            
+                            
+                                a)
+                                
+                                    che ricoprono, alla data del 31 dicembre di ciascun anno, una posizione in ruolo non inferiore a quella compresa entro il doppio dei posti riservati per tale concorso;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    che non abbia riportato nell'ultimo biennio un giudizio complessivo inferiore a «buono»;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    che non abbia riportato nell'ultimo biennio una sanzione disciplinare piu' grave della deplorazione.
 
 ## Art. 9. — Esclusione dal concorso
 

@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Regolamenti governativi
 vigenza_date: 2019-08-24
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:10Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -30,7 +30,100 @@ Sulla proposta del Ministro dell'interno, di concerto con il Ministro per la fun
 
 ## Art. 1. — Definizioni
 
+1.
+                    
+                        
+                            Nel presente regolamento si intendono per:
+ 
+                        
+                        
+                            a)
+                            
+                                uffici di diretta collaborazione: gli uffici di diretta collaborazione con il Ministro dell'interno e con i Sottosegretari di Stato presso il Ministero dell'interno, di cui all'articolo 14, comma 2, del decreto legislativo 30 marzo 2001, n. 165, ed all'articolo 7 del decreto legislativo 30 luglio 1999, n. 300;
+
+                            
+                        
+                        
+                            b)
+                            
+                                Ministro: il Ministro dell'interno;
+
+                            
+                        
+                        
+                            c)
+                            
+                                Ministero: il Ministero dell'interno;
+
+                            
+                        
+                        
+                            d)
+                            
+                                Sottosegretari di Stato: i Sottosegretari di Stato presso il Ministero dell'interno.
+
 ## Art. 2. — Uffici di diretta collaborazione
+
+1.
+                    
+                        
+                            Sono uffici di diretta collaborazione con il Ministro: 
+ 
+                        
+                        
+                            a)
+                            
+                                l'Ufficio di Gabinetto; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                l'Ufficio affari legislativi e relazioni parlamentari; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                
+                                    ((LETTERA ABROGATA DAL D.P.C.M. 11 GIUGNO 2019, N. 78)); 
+
+                            
+                        
+                        
+                            d)
+                            
+                                l'Ufficio Stampa e Comunicazione; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                la Segreteria del Ministro; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                la Segreteria particolare del Ministro; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                la Segreteria tecnica del Ministro; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                le Segreterie dei Sottosegretari di Stato.
 
 Gli uffici di diretta collaborazione con il Ministro agiscono secondo criteri che consentono l'efficace e funzionale svolgimento dei compiti di definizione degli obiettivi, la elaborazione delle politiche pubbliche, la valutazione della loro attuazione e le connesse attivita' di comunicazione, nel rispetto del principio di distinzione tra funzioni di indirizzo e compiti di gestione.
 L'Ufficio di Gabinetto assicura l'unitarieta' dell'azione di supporto al Ministro da parte degli uffici di diretta collaborazione, che costituiscono, ai fini del decreto legislativo 7 agosto 1997, n. 279, e successive modificazioni, un centro di responsabilita' amministrativa.
@@ -125,6 +218,22 @@ Il Consigliere per la programmazione strategica e il Consigliere per le politich
 Ai Consiglieri del Ministro si applicano, per quanto attiene l'assegnazione, la costituzione del rapporto di lavoro, ove esterni alle pubbliche amministrazioni, nonche' la durata dell'incarico, le disposizioni dell'articolo 11 relative al personale esterno.
 
 ## Art. 13. — Trattamento economico
+
+1.
+                    
+                        
+                            Ai responsabili degli Uffici di diretta collaborazione spetta una retribuzione di posizione, di seguito indicata: 
+                        
+                        
+                            a)
+                            
+                                per il Capo di Gabinetto e per il Direttore dell'Ufficio affari legislativi e relazioni parlamentari, pari ai Capi dei Dipartimenti del Ministero;
+                            
+                        
+                        
+                            b)
+                            
+                                per i Vice Capi di Gabinetto, per il Vice Direttore dell'Ufficio affari legislativi e relazioni parlamentari pari ai Vice Capi dei Dipartimenti del Ministero. Al Capo della Segreteria del Ministro, al Capo della Segreteria particolare del Ministro e al Capo della Segreteria tecnica del Ministro, se nominati fra soggetti esterni alla pubblica amministrazione, spetta una voce retributiva di importo pari al trattamento economico fondamentale dei dirigenti di seconda fascia in servizio presso il Ministero dell'interno, esclusa la retribuzione di posizione e di risultato, ed un emolumento accessorio di importo pari alla misura massima del trattamento accessorio spettante ai dirigenti di seconda fascia in servizio presso il Ministero dell'interno, maggiorato del 30 per cento; ai Segretari particolari dei Sottosegretari di Stato, se nominati tra soggetti esterni alla pubblica amministrazione, spetta una voce retributiva di importo pari al trattamento economico fondamentale dei dirigenti di seconda fascia in servizio presso il Ministero dell'interno, esclusa la retribuzione di posizione e di risultato, e un emolumento accessorio di importo pari alla misura massima del trattamento accessorio spettante ai dirigenti di seconda fascia in servizio presso il Ministero dell'interno; al Capo dell'Ufficio Stampa e Comunicazione, qualora nominato tra soggetti esterni alla pubblica amministrazione, e' corrisposto un trattamento economico conforme a quello previsto dal contratto collettivo nazionale per i giornalisti con la qualifica di redattore capo. Al Portavoce del Ministro, se nominato, spetta l'indennita' prevista dall'articolo 7, comma 2, della legge 7 giugno 2000, n. 150. Per i dipendenti pubblici incaricati delle funzioni di Capo della Segreteria del Ministro, Capo della Segreteria particolare del Ministro, Capo della Segreteria tecnica del Ministro, e Segretario particolare del Sottosegretario di Stato, nonche' Capo dell'Ufficio Stampa e Comunicazione e Portavoce del Ministro, tale trattamento, se piu' favorevole, integra, per la differenza, il trattamento economico in godimento. Ai titolari delle predette funzioni, dipendenti da pubbliche amministrazioni, che optino per il mantenimento del proprio trattamento economico, e' corrisposto il solo emolumento accessorio.
 
 Al Consigliere diplomatico spetta il trattamento economico determinato dall'ordinamento della carriera diplomatica; al Consigliere per la programmazione strategica e al Consigliere per le politiche della formazione, se nominati fra soggetti esterni alla pubblica amministrazione spetta una retribuzione di importo non superiore a quello massimo del trattamento economico fondamentale dei dirigenti di prima fascia del ruolo unico in servizio presso il Ministero dell'interno e un emolumento accessorio da fissare in un importo non superiore alla misura massima del trattamento accessorio spettante ai dirigenti di prima fascia del ruolo unico in servizio presso il Ministero dell'interno. Agli altri Consiglieri spetta una retribuzione di importo non superiore a quello massimo del trattamento economico fondamentale dei dirigenti di seconda fascia del ruolo unico in servizio presso il Ministero dell'interno e un emolumento accessorio da fissare in un importo non superiore alla misura massima del trattamento accessorio spettante ai dirigenti di seconda fascia del ruolo unico in servizio presso il Ministero dell'interno.
 

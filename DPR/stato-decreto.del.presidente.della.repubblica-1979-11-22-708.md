@@ -8,8 +8,8 @@ codice_redazionale: 079U0708
 vigente: true
 source: normattiva-opendata
 collection: DPR
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:47:50Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -20,4 +20,25 @@ DECRETO DEL PRESIDENTE DELLA REPUBBLICA
 ## Art. 1.
 
 N.
+
+708.
+                    
+                        
+                            Decreto del Presidente della Repubblica 22 novembre 1979, col quale, sulla proposta del Ministro dell'interno, vengono riconosciuti, agli effetti civili, due decreti della Sacra Congregazione per i vescovi, datati 14 maggio 1978, relativi: 
+                        
+                        
+                            a)
+                            
+                                al mutamento della denominazione della diocesi di Massa-Populonia in Massa Marittima-Piombino;
+                            
+                        
+                        
+                            b)
+                            
+                                all'elevazione alla dignita' di concattedrale della chiesa arcipresbiteriale ed abbaziale di S.
+ Antimo, in Piombino (Livorno).
+
+Visto, il Guardasigilli: MORLINO
+ Registrato alla Corte dei conti, addi' 16 gennaio 1980
+ Registro n. 2 Interno, foglio n. 190
 

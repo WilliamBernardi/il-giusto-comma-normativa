@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
 vigenza_date: 2021-11-21
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:42Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -36,6 +36,52 @@ Ai fini del presente regolamento si intendono per voli didattici quelli effettua
  Il Decreto 9 settembre 2021, n. 154, ha disposto (con l'art. 12, comma 1) che "Il presente regolamento ha efficacia a partire dal primo gennaio dell'anno successivo a quello della pubblicazione dell'avviso di cui all'articolo 11, comma 1. A partire da tale data cessa di avere efficacia il decreto 16 dicembre 1996, n. 692".
 
 ## Art. 2. — Adempimenti per l'ammissione ai benefici fiscali
+
+1.
+                    
+                        
+                            Le scuole civili di pilotaggio aereo, per essere ammesse alle agevolazioni previste dall'articolo 1, comma 1, devono presentare apposita istanza in duplice esemplare alla circoscrizione doganale nel cui ambito territoriale la scuola svolge la sua attivita' contenente i seguenti dati: 
+ 
+                        
+                        
+                            a)
+                            
+                                denominazione, codice fiscale, sede legale e base operativa della scuola; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                tipo e marche degli aeromobili utilizzati per i voli didattici, nonche' numero dei motori installati negli stessi e la relativa potenza totale disponibile. Per ciascun aeromobile deve essere indicato altresi' il consumo orario di carburante e di lubrificante espresso in chilogrammi; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                deposito fiscale o deposito di oli minerali liberi da tributo, da indicare in numero non superiore a tre impianti, della societa' petrolifera presso la quale la scuola intende prelevare i prodotti ad imposta assolta; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                attivita' scolastica prevista per l'anno cui si riferisce l'istanza; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                indicazione dell'ufficio in cui s'intendono custodire il "registro dei voli" e il "libretto delle attestazioni di volo" di cui all'articolo 4; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                dichiarazione del responsabile della scuola attestante l'uso per attivita' esclusivamente aeroscolastica dei carburanti e dei lubrificanti per i quali e' rivolta l'istanza di ammissione ai benefici fiscali. La dichiarazione deve espressamente contenere la personale assunzione di responsabilita', a tutti gli effetti, verso l'amministrazione finanziaria di tale regolare uso.
 
 All'originale dell'istanza deve altresi' essere allegata copia conforme del disciplinare, in corso di validita', rilasciato dai Ministero dei trasporti e della navigazione - Direzione generale dell'aviazione civile, da cui risulti l'attivita' aeroscolastica autorizzata.
 
@@ -67,6 +113,24 @@ Qualora successivamente alla data di presentazione delle istanze di cui all'arti
 
 ## Art. 4. — Registri fiscali
 
+1.
+                    
+                        
+                            Le scuole civili di pilotaggio aereo devono munirsi dei seguenti documenti conformi ai modelli allegati al presente regolamento: 
+ 
+                        
+                        
+                            a)
+                            
+                                "registro dei voli" (allegato 1); 
+
+                            
+                        
+                        
+                            b)
+                            
+                                "libretto delle attestazioni di volo" (allegato 2).
+
 I predetti documenti, prima dell'uso, devono essere numerati progressivamente e vidimati dalla competente circoscrizione doganale.
 
 Sono ammessi sistemi computerizzati di registrazione e conservazione dei dati. In tal caso, prima della vidimazione, sui singoli fogli numerati progressivamente del "registro dei voli" e del "libretto delle attestazioni di volo" devono essere riportate, anche mediante timbratura, le indicazioni delle rispettive copertine, identificative del registro o del libretto. 
@@ -94,6 +158,38 @@ Periodicamente ed in ogni caso alla fine di ciascun mese la scuola civile di pil
  Il Decreto 9 settembre 2021, n. 154, ha disposto (con l'art. 12, comma 1) che "Il presente regolamento ha efficacia a partire dal primo gennaio dell'anno successivo a quello della pubblicazione dell'avviso di cui all'articolo 11, comma 1. A partire da tale data cessa di avere efficacia il decreto 16 dicembre 1996, n. 692".
 
 ## Art. 6. — Istanza di rimborso delle imposte
+
+1.
+                    
+                        
+                            La restituzione dell'accisa e dell'imposta di consumo pagate sui carburanti e sugli oli lubrificanti consumati per l'attivita' aerodidattica si ottiene mediante autorizzazione all'estrazione, in esenzione d'imposta, di quantitativi di oli minerali fino alla concorrenza delle imposte pagate. A tal fine ciascuna scuola deve presentare, per ogni semestre dell'anno solare, ed entro il mese successivo alla scadenza del semestre stesso, alla circoscrizione doganale nel cui ambito territoriale svolge la sua attivita', apposita istanza in triplice esemplare, da contrassegnare a cura del richiedente con la dicitura "originale", "esemplare n. 1" ed "esemplare n. 2", contenente i seguenti dati: 
+ 
+                        
+                        
+                            a)
+                            
+                                denominazione, codice fiscale, sede legale e base operativa della scuola; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                indicazione del quantitativo complessivo di ciascuna qualita' di prodotto consumato nell'uso agevolato durante il semestre di riferimento, con separata indicazione delle relative imposte assolte; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                deposito fiscale dal quale devono essere estratti i quantitativi di prodotti petroliferi in esenzione d'imposta a reintegro dei carburanti e dei lubrificanti consumati nell'uso agevolato, nonche' la societa' petrolifera designata dalla scuola ad effettuare la cennata operazione di estrazione; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                assenso alla predetta operazione di estrazione da parte dell'esercente il deposito fiscale. Se questo viene rilasciato con validita' a tempo indeterminato sulle successive istanze e' sufficiente farne riferimento.
 
 L'istanza di cui al comma 1 deve essere corredata da un prospetto riassuntivo, anche in forma meccanizzata, delle ore di volo compiute da ogni singolo aeromobile e del relativo consumo, espresso in chilogrammi, di carburante e di lubrificante nel semestre considerato, al quale vanno allegate le sezioni B del "libretto delle attestazioni di volo" e, in copia, le fatture di acquisto dei prodotti, con separata indicazione, nelle medesime fatture, dell'accisa e dell'imposta di consumo pagate.
 

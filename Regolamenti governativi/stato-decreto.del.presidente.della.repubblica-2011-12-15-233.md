@@ -8,8 +8,8 @@ codice_redazionale: 012G0023
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti governativi
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:09Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -28,6 +28,123 @@ Sulla proposta del Ministro dell'interno, di concerto con il Ministro della gius
 L'Agenzia nazionale per l'amministrazione e la destinazione dei beni sequestrati e confiscati alla criminalita' organizzata, di seguito denominata: «Agenzia», gestisce i flussi informativi necessari per l'esercizio dei propri compiti istituzionali ed effettua le comunicazioni telematiche con l'Autorita' giudiziaria attraverso il proprio sistema informativo connesso, in modalita' bidirezionale, con il sistema informativo del Ministero della giustizia e con le banche dati e i sistemi informativi delle Prefetture-Uffici territoriali del Governo, degli enti territoriali, di Equitalia ed Equitalia giustizia, delle Agenzie fiscali e con gli amministratori dei beni sequestrati e confiscati. Ai fini della completezza delle informazioni e dei dati a disposizione, il sistema informativo puo' cooperare con i sistemi informativi delle altre pubbliche amministrazioni sulla base di protocolli tecnici concordati con le stesse, nonche' con enti e soggetti privati individuati con provvedimento del Direttore dell'Agenzia.
 
 ## Art. 2. — Flussi informativi
+
+1.
+                    
+                        
+                            I flussi di scambio di dati, documenti e informazioni con il Ministero della giustizia e l'Autorita' giudiziaria avvengono attraverso: 
+ 
+                        
+                        
+                            a)
+                            
+                                il sistema informativo delle misure di prevenzione; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                l'Albo nazionale degli amministratori giudiziari di cui al decreto legislativo 4 febbraio 2010, n. 14; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                il sistema informativo del processo penale, limitatamente alla fase successiva all'esercizio dell'azione penale, nonche', anteriormente a tale fase, quando sono comunque stati eseguiti provvedimenti cautelari reali; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                il sistema informativo del processo civile; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                la banca dati centrale dei beni sequestrati e confiscati di cui all'articolo 49 del decreto legislativo 6 settembre 2011, n. 159, regolata con decreto del Ministro di grazia e giustizia 24 febbraio 1997, n. 73.
+
+2.
+                    
+                        
+                            I dati, documenti e informazioni oggetto di flusso di scambio ai sensi del comma 1, disponibili nel sistema informativo del Ministero della giustizia, sono relativi a: 
+ 
+                        
+                        
+                            a)
+                            
+                                identificazione, consistenza, stima, gravami e criticita' dei beni oggetto di amministrazione giudiziaria; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                provvedimenti di sequestro, dissequestro e confisca, nonche' tutte le informazioni sullo stato dei relativi procedimenti; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                Autorita' giudiziaria procedente, generalita' dei soggetti coinvolti; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                procedimenti di esecuzione o altri procedimenti giudiziali connessi; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                provvedimenti di amministrazione adottati dal giudice delegato; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                nomina, conferma e revoca degli amministratori giudiziari e dei coadiutori.
+
+3.
+                    
+                        
+                            I dati, documenti ed informazioni oggetto di flusso di scambio ai sensi del comma 1, disponibili nel sistema informativo dell'Agenzia, sono relativi a: 
+ 
+                        
+                        
+                            a)
+                            
+                                aggiornamento della consistenza, della stima, dei gravami e delle criticita' dei beni amministrati dall'Agenzia; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                nomina, conferma e revoca dei coadiutori e dei tecnici; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                atti di amministrazione dei beni; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                atti di destinazione dei beni e vicende successive ad essi.
 
 I dati, documenti ed informazioni oggetto di flusso di scambio ai sensi dell'articolo 1 con le Prefetture-Uffici territoriali del Governo, gli enti territoriali, Equitalia ed Equitalia giustizia, le Agenzie fiscali e con gli altri enti o soggetti pubblici o privati di cui al comma 1, secondo periodo, del medesimo articolo 1, ognuno per i dati di propria competenza, sono disciplinati con le convenzioni di cui all'articolo 3, comma 3.
 

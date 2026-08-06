@@ -8,8 +8,8 @@ codice_redazionale: 010G0234
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti governativi
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:15Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -28,6 +28,38 @@ Acquisiti i pareri delle competenti Commissioni del Senato della Repubblica e de
 Sulla proposta del Ministro per la pubblica amministrazione e l'innovazione e del Ministro per la semplificazione normativa, di concerto con i Ministri dello sviluppo economico, dell'economia e delle finanze e della giustizia;
 
 ## Art. 1. — Definizioni
+
+1.
+                    
+                        
+                            Ai fini del presente regolamento si intende per: 
+ 
+                        
+                        
+                            a)
+                            
+                                camera di commercio: la camera di commercio, industria, artigianato e agricoltura; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                diritti di segreteria: i diritti di segreteria per atti o servizi connessi alla gestione del registro delle imprese e degli altri ruoli, registri e albi e in genere per i servizi adottati o resi dalle camere di commercio, come determinati ai sensi dell'articolo 18, comma 2, della legge 29 dicembre 1993, n. 580, e successive modificazioni; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                registro delle imprese: il registro delle imprese di cui all'articolo 8 della legge 29 dicembre 1993, n. 580, e successive modificazioni; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                ufficio del registro delle imprese: l'ufficio della camera di commercio per la tenuta del registro delle imprese e del repertorio delle notizie economiche e amministrative (REA).
 
 ## Art. 2. — Oggetto
 

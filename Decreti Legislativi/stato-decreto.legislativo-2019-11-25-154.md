@@ -8,8 +8,8 @@ vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
 vigenza_date: 2026-05-27
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:33Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -39,6 +39,24 @@ Le disposizioni contenute negli accordi conclusi ai sensi del comma 1 sono recep
 
 ## Art. 3. — Principi generali in materia di concorso 
  alla finanza pubblica
+
+1.
+                    
+                        
+                            Il sistema integrato contribuisce all'osservanza dei vincoli economici e finanziari derivanti dall'ordinamento dell'Unione europea e partecipa alla solidarieta' nazionale: 
+ 
+                        
+                        
+                            a)
+                            
+                                mantenendo i bilanci dei soggetti che lo compongono in equilibrio ai sensi degli articoli 97 e 119 della Costituzione e nel rispetto dei principi indicati nella sentenza della Corte costituzionale n. 247 dell'11 ottobre 2017; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                corrispondendo un contributo in termini di saldo netto da finanziare, di durata transitoria, previamente concordato tra lo Stato e la Regione con le modalita' di cui all'articolo 2 e pagato dalla Regione per conto del sistema integrato, oppure realizzando sul territorio regionale opere pubbliche aventi rilevanza nazionale, concordate con lo Stato e le cui risorse siano iscritte sui pertinenti stati di previsione del bilancio statale, con oneri a proprio carico.
 
 Lo Stato e la Regione verificano che le misure di concorso alla finanza pubblica siano compatibili con la necessita' del sistema integrato di finanziare adeguatamente le funzioni ad esso attribuite o delegate. Le misure si presumono compatibili qualora concordate nel rispetto dell'articolo 2.
 

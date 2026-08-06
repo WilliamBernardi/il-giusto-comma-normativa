@@ -7,8 +7,8 @@ urn: urn:nir:stato:decreto.legislativo:2020-09-03;116
 vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:21Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -82,6 +82,24 @@ Dopo l'articolo 178-bis del decreto legislativo 3 aprile 2006, n. 152, e' inseri
  8. Al fine dello svolgimento della funzione di vigilanza e controllo di cui al comma 6, presso il Ministero dell'ambiente e della tutela del territorio e del mare e' istituito il Registro nazionale dei produttori al quale i soggetti sottoposti ad un regime di responsabilita' estesa del produttore sono tenuti ad iscriversi secondo le modalita' definite con il decreto di cui al comma 7; in caso di produttori con sede legale in altro Stato Membro dell'Unione che immettono prodotti sul territorio nazionale, ai fini di adempiere agli obblighi derivanti dall'istituzione di un regime di responsabilita' estesa, questi designano una persona giuridica o fisica stabilita sul territorio nazionale quale rappresentante autorizzato per l'adempimento degli obblighi e l'iscrizione al Registro. 
  9. I soggetti di cui al comma 8 trasmettono al Registro, secondo le modalita' stabilite con il decreto di cui al comma 7: i dati relativi all'immesso sul mercato nazionale dei propri prodotti e le modalita' con cui intendono adempiere ai propri obblighi; i sistemi attraverso i quali i produttori adempiono ai propri obblighi, in forma individuale e associata, con statuto e annessa documentazione relativa al proprio progetto; entro il 31 ottobre di ogni anno il bilancio in caso di sistemi collettivi, il rendiconto dell'attivita' di gestione in caso di sistemi individuali; entro il 31 ottobre di ogni anno una relazione sulla gestione relativa all'anno precedente contenente gli obiettivi raggiunti ovvero le ragioni che, eventualmente, impediscono il raggiungimento degli obiettivi di recupero e riciclo previsti e le relative soluzioni, le modalita' di raccolta e di trattamento implementate, le voci di costo relative alle diverse operazioni di gestione, inclusa la prevenzione, i ricavi dalla commercializzazione dei materiali e dal riutilizzo e le entrate da contributo ambientale; entro il 31 ottobre di ogni anno un piano specifico di prevenzione e gestione relativo all'anno successivo; entro il 31 ottobre di ogni anno l'entita' del contributo ambientale per l'anno successivo dettagliando le voci di costo che lo compongono.».
 
+5.
+                    
+                        
+                            L'articolo 179 del decreto legislativo 3 aprile 2006, n. 152, e' cosi' modificato: 
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 3, primo periodo, le parole «a singoli flussi di rifiuti» sono sostituite dalle seguenti: «a flussi di rifiuti specifici» e le parole «qualora cio' sia giustificato» sono sostituite dalle seguenti: «qualora cio' sia previsto nella pianificazione nazionale e regionale e consentito dall'autorita' che rilascia l'autorizzazione ai sensi del Titolo III-bis della Parte II o del Titolo I, Capo IV, della Parte IV del decreto legislativo 3 aprile 2006, n. 152»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 4, primo periodo, le parole «a singoli flussi di rifiuti» sono sostituite dalle seguenti: «a flussi di rifiuti».
+
 L'articolo 180 del decreto legislativo 3 aprile 2006 e' sostituito dal seguente: 
  «Art. 180 (Prevenzione della produzione di rifiuti). - 1. Al fine di promuovere in via prioritaria la prevenzione della produzione dei rifiuti, il Ministero dell'ambiente e della tutela del territorio e del mare, di concerto con il Ministero dello sviluppo economico, il Ministero delle politiche agricole alimentari e forestali, adotta il Programma nazionale di prevenzione dei rifiuti. Il Programma nazionale di prevenzione dei rifiuti fissa idonei indicatori e obiettivi qualitativi e quantitativi per la valutazione dell'attuazione delle misure di prevenzione dei rifiuti in esso stabilite. 
  2. Fatte salve le misure gia' in essere, il Programma nazionale di prevenzione dei rifiuti comprende misure che: 
@@ -129,7 +147,175 @@ L'utilizzo in agricoltura e' consentito per i soli prodotti in uscita conformi a
  c) entro il 31 dicembre 2023 siano tracciati in maniera tale da poter essere distinti e separati dalle plastiche convenzionali nei comuni impianti di selezione dei rifiuti e negli impianti di riciclo organico. 
  7. Entro un anno dall'entrata in vigore della presente disposizione, il Ministero dell'ambiente e della tutela del territorio e del mare stabilisce livelli di qualita' per la raccolta differenziata dei rifiuti organici e individua precisi criteri da applicare ai controlli di qualita' delle raccolte nonche' degli impianti di riciclaggio di predetti rifiuti.».
 
+9.
+                    
+                        
+                            L'articolo 183 del decreto legislativo 3 aprile 2006, n. 152, e' cosi' modificato: 
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 1, dopo la lettera b) sono inserite le seguenti: 
+ «b-bis) "rifiuto non pericoloso": rifiuto non contemplato dalla lettera b); 
+ b-ter) "rifiuti urbani": 
+ 1. i rifiuti domestici indifferenziati e da raccolta differenziata, ivi compresi: carta e cartone, vetro, metalli, plastica, rifiuti organici, legno, tessili, imballaggi, rifiuti di apparecchiature elettriche ed elettroniche, rifiuti di pile e accumulatori e rifiuti ingombranti, ivi compresi materassi e mobili; 
+ 2. i rifiuti indifferenziati e da raccolta differenziata provenienti da altre fonti che sono simili per natura e composizione ai rifiuti domestici indicati nell'allegato L-quater prodotti dalle attivita' riportate nell'allegato L-quinquies; 
+ 3. i rifiuti provenienti dallo spazzamento delle strade e dallo svuotamento dei cestini portarifiuti; 
+ 4. i rifiuti di qualunque natura o provenienza, giacenti sulle strade ed aree pubbliche o sulle strade ed aree private comunque soggette ad uso pubblico o sulle spiagge marittime e lacuali e sulle rive dei corsi d'acqua; 
+ 5. i rifiuti della manutenzione del verde pubblico, come foglie, sfalci d'erba e potature di alberi, nonche' i rifiuti risultanti dalla pulizia dei mercati; 
+ 6. i rifiuti provenienti da aree cimiteriali, esumazioni ed estumulazioni, nonche' gli altri rifiuti provenienti da attivita' cimiteriale diversi da quelli di cui ai punti 3, 4 e 5. 
+ b-quater) "rifiuti da costruzione e demolizione" i rifiuti prodotti dalle attivita' di costruzione e demolizione; 
+ b-quinquies) la definizione di rifiuti urbani di cui alla lettera b-ter) rileva ai fini degli obiettivi di preparazione per il riutilizzo e il riciclaggio nonche' delle relative norme di calcolo e non pregiudica la ripartizione delle responsabilita' in materia di gestione dei rifiuti tra gli attori pubblici e privati; 
+ b-sexies) i rifiuti urbani non includono i rifiuti della produzione, dell'agricoltura, della silvicoltura, della pesca, delle fosse settiche, delle reti fognarie e degli impianti di trattamento delle acque reflue, ivi compresi i fanghi di depurazione, i veicoli fuori uso o i rifiuti da costruzione e demolizione;»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 1, la lettera d) e' sostituita dalla seguente: «d) "rifiuti organici": rifiuti biodegradabili di giardini e parchi, rifiuti alimentari e di cucina prodotti da nuclei domestici, ristoranti, uffici, attivita' all'ingrosso, mense, servizi di ristorazione e punti vendita al dettaglio e rifiuti equiparabili prodotti dagli impianti dell'industria alimentare;»; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                al comma 1, dopo la lettera d) e' inserita la seguente:
+«d-bis) "rifiuti alimentari": tutti gli alimenti di cui all'articolo 2 del regolamento (CE) n. 178/2002 del Parlamento europeo e del Consiglio che sono diventati rifiuti;»; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                al comma 1, dopo la lettera g) e' inserita la seguente:
+«g-bis) "regime di responsabilita' estesa del produttore": le misure volte ad assicurare che ai produttori di prodotti spetti la responsabilita' finanziaria o la responsabilita' finanziaria e organizzativa della gestione della fase del ciclo di vita in cui il prodotto diventa un rifiuto;»; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                al comma 1, la lettera n) e' sostituita dalla seguente: «n) "gestione dei rifiuti": la raccolta, il trasporto, il recupero, compresa la cernita, e lo smaltimento dei rifiuti, compresi la supervisione di tali operazioni e gli interventi successivi alla chiusura dei siti di smaltimento, nonche' le operazioni effettuate in qualita' di commerciante o intermediari. Non costituiscono attivita' di gestione dei rifiuti le operazioni di prelievo, raggruppamento, selezione e deposito preliminari alla raccolta di materiali o sostanze naturali derivanti da eventi atmosferici o meteorici, ivi incluse mareggiate e piene, anche ove frammisti ad altri materiali di origine antropica effettuate, nel tempo tecnico strettamente necessario, presso il medesimo sito nel quale detti eventi li hanno depositati;»; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                al comma 1, dopo la lettera t) e' introdotta la seguente:
+«t-bis) "recupero di materia": qualsiasi operazione di recupero diversa dal recupero di energia e dal ritrattamento per ottenere materiali da utilizzare quali combustibili o altri mezzi per produrre energia. Esso comprende, tra l'altro la preparazione per il riutilizzo, il riciclaggio e il riempimento;»; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                al comma 1, dopo la lettera u) e' introdotta la seguente:
+«u-bis) "riempimento": qualsiasi operazione di recupero in cui rifiuti non pericolosi idonei ai sensi della normativa UNI sono utilizzati a fini di ripristino in aree escavate o per scopi ingegneristici nei rimodellamenti morfologici. I rifiuti usati per il riempimento devono sostituire i materiali che non sono rifiuti, essere idonei ai fini summenzionati ed essere limitati alla quantita' strettamente necessaria a perseguire tali fini;»; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                al comma 1, la lettera bb) e' sostituita dalla seguente: «bb) "deposito temporaneo prima della raccolta": il raggruppamento dei rifiuti ai fini del trasporto degli stessi in un impianto di recupero e/o smaltimento, effettuato, prima della raccolta ai sensi dell'articolo 185-bis;»; 
+
+                            
+                        
+                        
+                            i)
+                            
+                                al comma 1, lettera ff), le parole «di qualita'» sono sostituite dalle seguenti: «da rifiuti»; 
+
+                            
+                        
+                        
+                            l)
+                            
+                                al comma 1, dopo la lettera qq-bis) e' introdotta la seguente:
+«qq-ter) "compostaggio": trattamento biologico aerobico di degradazione e stabilizzazione, finalizzato alla produzione di compost dai rifiuti organici differenziati alla fonte, da altri materiali organici non qualificati come rifiuti, da sottoprodotti e da altri rifiuti a matrice organica previsti dalla disciplina nazionale in tema di fertilizzanti nonche' dalle disposizioni della parte quarta del presente decreto relative alla disciplina delle attivita' di compostaggio sul luogo di produzione.»; 
+
+                            
+                        
+                        
+                            m)
+                            
+                                al comma 1, la lettera ee) e' sostituita dalla seguente: «ee) "compost": prodotto ottenuto dal compostaggio, o da processi integrati di digestione anaerobica e compostaggio, dei rifiuti organici raccolti separatamente, di altri materiali organici non qualificati come rifiuti, di sottoprodotti e altri rifiuti a matrice organica che rispetti i requisiti e le caratteristiche stabilite dalla vigente normativa in tema di fertilizzanti e di compostaggio sul luogo di produzione;».
+
+10.
+                    
+                        
+                            L'articolo 184 del decreto legislativo 3 aprile 2006, n. 152, e' cosi' modificato: 
+ 
+                        
+                        
+                            a)
+                            
+                                il comma 2 e' sostituito dal seguente:«2. Sono rifiuti urbani i rifiuti di cui all'articolo 183, comma 1, lettera b-ter).»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                il comma 3 e' sostituito dal seguente: 
+ «3. Sono rifiuti speciali: 
+ a) i rifiuti prodotti nell'ambito delle attivita' agricole, agro-industriali e della silvicoltura, ai sensi e per gli effetti dell'articolo 2135 del codice civile, e della pesca; 
+ b) i rifiuti prodotti dalle attivita' di costruzione e demolizione, nonche' i rifiuti che derivano dalle attivita' di scavo, fermo restando quanto disposto dall'articolo 184-bis; 
+ c) i rifiuti prodotti nell'ambito delle lavorazioni industriali se diversi da quelli di cui al comma 2; 
+ d) i rifiuti prodotti nell'ambito delle lavorazioni artigianali se diversi da quelli di cui al comma 2; 
+ e) i rifiuti prodotti nell'ambito delle attivita' commerciali se diversi da quelli di cui al comma 2; 
+ f) i rifiuti prodotti nell'ambito delle attivita' di servizio se diversi da quelli di cui al comma 2; 
+ g) i rifiuti derivanti dall'attivita' di recupero e smaltimento di rifiuti, i fanghi prodotti dalla potabilizzazione e da altri trattamenti delle acque e dalla depurazione delle acque reflue, nonche' i rifiuti da abbattimento di fumi, dalle fosse settiche e dalle reti fognarie; 
+ h) i rifiuti derivanti da attivita' sanitarie se diversi da quelli all'articolo 183, comma 1, lettera b-ter); 
+ i) i veicoli fuori uso.»; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                al comma 5, l'ultimo periodo e' sostituito dal seguente: «La corretta attribuzione dei Codici dei rifiuti e delle caratteristiche di pericolo dei rifiuti e' effettuata dal produttore sulla base delle Linee guida redatte, entro il 31 dicembre 2020, dal Sistema nazionale per la protezione e la ricerca ambientale ed approvate con decreto del Ministero dell'ambiente e della tutela del territorio e del mare, sentita la Conferenza permanente per i rapporti tra lo Stato, le Regioni e le Province autonome di Trento e Bolzano. Il Ministero dell'ambiente e della tutela del territorio e del mare notifica immediatamente alla Commissione europea i casi di cui all'articolo 7 della direttiva 2008/98/CE e fornisce alla stessa tutte le informazioni pertinenti.».
+
 Al comma 2, primo periodo, dell'articolo 184-bis del decreto legislativo 3 aprile 2006, n. 152, dopo le parole «sottoprodotti e non rifiuti» sono aggiunte le seguenti: «garantendo un elevato livello di protezione dell'ambiente e della salute umana favorendo, altresi', l'utilizzazione attenta e razionale delle risorse naturale dando priorita' alle pratiche replicabili di simbiosi industriale».
+
+12.
+                    
+                        
+                            L'articolo 184-ter del decreto legislativo 3 aprile 2006, n. 152, e' cosi' modificato: 
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 1, le parole «e la preparazione per il riutilizzo» sono soppresse; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                dopo il comma 5 e' aggiunto il seguente: «5-bis. La persona fisica o giuridica che utilizza, per la prima volta, un materiale che ha cessato di essere considerato rifiuto e che non e' stato immesso sul mercato o che immette un materiale sul mercato per la prima volta dopo che cessa di essere considerato rifiuto, provvede affinche' il materiale soddisfi i pertinenti requisiti ai sensi della normativa applicabile in materia di sostanze chimiche e prodotti collegati. Le condizioni di cui al comma 1 devono essere soddisfatte prima che la normativa sulle sostanze chimiche e sui prodotti si applichi al materiale che ha cessato di essere considerato un rifiuto.».
+
+13.
+                    
+                        
+                            L'articolo 185 del decreto legislativo 3 aprile 2006, n. 152, e' cosi' modificato: 
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 1, lettera f), le parole «nonche' gli sfalci e le potature derivanti dalla manutenzione del verde pubblico dei comuni,» sono soppresse; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 2, lettera d), il segno di interpunzione «.» e' sostituito dal seguente: «;» e dopo la lettera d) e' inserita la seguente:«d-bis) sostanze destinate a essere utilizzate come materie prime per mangimi di cui all'articolo 3, paragrafo 2, lettera g), del regolamento (CE) n. 767/2009 del Parlamento europeo e del Consiglio e che non sono costituite ne' contengono sottoprodotti di origine animale.».
 
 Dopo l'articolo 185 del decreto legislativo 3 aprile 2006, n. 152, e' inserito il seguente: 
  «Art. 185-bis (Deposito temporaneo prima della raccolta). - 1. Il raggruppamento dei rifiuti ai fini del trasporto degli stessi in un impianto di recupero o smaltimento e' effettuato come deposito temporaneo, prima della raccolta, nel rispetto delle seguenti condizioni: 
@@ -253,6 +439,49 @@ L'articolo 194-bis del decreto legislativo 3 aprile 2006, n. 152, e' cosi' sosti
  2. L'esperimento delle procedure di cui al presente articolo determina, all'esito della regolarizzazione della posizione contributiva, l'estinzione delle sanzioni per il mancato pagamento e non comporta l'obbligo di corrispondere interessi. 
  3. Al contributo previsto dall'articolo 7 del decreto del Ministro dell'ambiente e della tutela del territorio e del mare 30 marzo 2016, n. 78, si applicano i termini di prescrizione ordinaria previsti dall'articolo 2946 del codice civile.».
 
+23.
+                    
+                        
+                            L'articolo 195 del decreto legislativo 3 aprile 2006, n. 152, e' cosi' modificato: 
+ 
+                        
+                        
+                            a)
+                            
+                                la lettera e) del comma 2 e' abrogata; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                dopo il comma 5 e' aggiunto il seguente: «5-bis. Nelle more dell'esercizio da parte dello Stato delle competenze di cui al comma 2, lettere a) e g), le Regioni e le Province autonome di Trento e Bolzano possono disciplinare comunque tali aspetti, con l'obbligo di adeguamento alle sopravvenute norme nazionali entro 6 mesi.».
+
+24.
+                    
+                        
+                            L'articolo 198 del decreto legislativo 3 aprile 2006, n. 152, e' cosi' modificato: 
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 1, primo periodo, le parole «ed assimilati» sono soppresse e, al secondo periodo, le parole «e dei rifiuti assimilati» sono soppresse; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 2, lettera c) le parole «ed assimilati» sono soppresse e la lettera g) e' soppressa; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                dopo il comma 2 e' inserito il seguente: «2-bis) Le utenze non domestiche possono conferire al di fuori del servizio pubblico i propri rifiuti urbani previa dimostrazione di averli avviati al recupero mediante attestazione rilasciata dal soggetto che effettua l'attivita' di recupero dei rifiuti stessi. Tali rifiuti sono computati ai fini del raggiungimento degli obiettivi di riciclaggio dei rifiuti urbani.».
+
 ## Art. 2. — Modifiche al decreto legislativo 3 aprile 2006, n. 152 Parte IV Norme in materia di gestione dei rifiuti e di bonifica dei siti inquinati - Titolo I Gestione dei rifiuti - Capo III Servizio di gestione integrata dei rifiuti.
 
 Dopo l'articolo 198 del decreto legislativo 3 aprile 2006, n. 152, e' inserito il seguente: 
@@ -273,6 +502,95 @@ Dopo l'articolo 198 del decreto legislativo 3 aprile 2006, n. 152, e' inserito i
  b) la definizione di meccanismi vincolanti di solidarieta' tra Regioni finalizzata alla gestione di eventuali emergenze. 
  5. In sede di prima applicazione, il Programma nazionale per la gestione dei rifiuti e' approvato entro 18 mesi dalla entrata in vigore della presente disposizione. Il Ministero dell'ambiente della tutela del territorio e del mare aggiorna il Programma almeno ogni 6 anni, tenendo conto, tra l'altro, delle modifiche normative, organizzative e tecnologiche intervenute nello scenario nazionale e sovranazionale.».
 
+2.
+                    
+                        
+                            L'articolo 199 del decreto legislativo 3 aprile 2006, n. 152, e' cosi' modificato: 
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 1, le parole «Per l'approvazione dei piani regionali» sono sostituite dalle seguenti: «L'approvazione dei piani regionali avviene tramite atto amministrativo e»; le parole «i medesimi uffici» sono sostituite dalle seguenti: «gli uffici competenti»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 3: 
+ 1. alla lettera a), prima della parola «tipo» sono inserite le seguenti: «l'indicazione del»; 
+ 2. la lettera b) e' sostituita dalla seguente: «b) la ricognizione degli impianti di trattamento, smaltimento e recupero esistenti, inclusi eventuali sistemi speciali per oli usati, rifiuti pericolosi, rifiuti contenenti quantita' importanti di materie prime critiche o flussi di rifiuti disciplinati da una normativa unionale specifica;»; 
+ 3. alla lettera e) prima della parola «politiche» sono inserite le seguenti: «l'indicazione delle»; 
+ 4. la lettera h) e' sostituita dalla seguente: «h) prevedono, per gli ambiti territoriali ottimali piu' meritevoli, un sistema di premialita' tenuto conto delle risorse disponibili a legislazione vigente;»; 
+ 5. la lettera l) e' sostituita dalla seguente: «l) i criteri per l'individuazione delle aree non idonee alla localizzazione degli impianti di recupero e smaltimento dei rifiuti, nonche' per l'individuazione dei luoghi o impianti adatti allo smaltimento dei rifiuti;»; 
+ 6. alla lettera r), alla fine del primo periodo dopo le parole «ulteriori misure adeguate» sono inserite le seguenti: «anche per la riduzione dei rifiuti alimentari nella produzione primaria, nella trasformazione e nella fabbricazione e nel consumo»; 
+ 7. alla lettera r), il segno di interpunzione «.» e' sostituito dal seguente: «;» e dopo la lettera r) sono aggiunte le seguenti:
+«r-bis) informazioni sulle misure volte a conseguire gli obiettivi di cui all'articolo 5, paragrafo 3 bis), della direttiva 1999/31/CE o in altri documenti strategici che coprano l'intero territorio dello Stato membro interessato; 
+ r-ter) misure per contrastare e prevenire tutte le forme di dispersione di rifiuti e per rimuovere tutti i tipi di rifiuti dispersi.»; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                al comma 8, le parole «il 12 dicembre 2013.» sono sostituite dalle seguenti: «18 mesi dalla pubblicazione del Programma Nazionale di cui all'articolo 198-bis, a meno che non siano gia' conformi nei contenuti o in grado di garantire comunque il raggiungimento degli obiettivi previsti dalla normativa europea. In tale caso i piani sono adeguati in occasione della prima approvazione o aggiornamento ai sensi del comma 10.»; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                al comma 10, le parole «, sentite le province interessate, d'intesa tra loro o singolarmente,» e le parole «, nonche' alla programmazione degli interventi attuativi occorrenti in conformita' alle procedure e nei limiti delle risorse previste dalla normativa vigente» sono soppresse; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                al comma 11: 
+ 1. dopo la parola «mare» sono aggiunte le seguenti: «esclusivamente tramite la piattaforma telematica MonitorPiani,»; 
+ 2. le parole «dei programmi di prevenzione dei rifiuti di cui al presente articolo» sono sostituite dalle seguenti: «di altri piani regionali di gestione di specifiche tipologie di rifiuti»; 
+ 3. dopo le parole «Commissione europea» sono aggiunte le seguenti: «e comunicano periodicamente idonei indicatori e obiettivi qualitativi o quantitativi che diano evidenza dell'attuazione delle misure previste dai piani»; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                al comma 12, dopo le parole «e dei» sono aggiunte le seguenti «piani e»; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                al comma 12-bis: 
+ 1. dopo la parola «informazioni» sono aggiunte le seguenti: «da comunicare esclusivamente tramite la piattaforma telematica di cui al comma 11, alla quale ISPRA avra' accesso per i dati di competenza.»; 
+ 2. dopo la lettera f) e' aggiunta la seguente: «f-bis) per ogni impianto di recupero di materia autorizzato con i criteri di cui all'articolo 184-ter, ubicazione, proprieta', capacita' nominale autorizzata, quantita' di rifiuti in ingresso e quantitativi di materia recuperata.».
+
+3.
+                    
+                        
+                            L'articolo 205 del decreto legislativo 3 aprile 2006, n. 152, e' cosi' modificato: 
+ 
+                        
+                        
+                            a)
+                            
+                                dopo il comma 6 sono aggiunti i seguenti: 
+ «6-bis. I rifiuti raccolti in modo differenziato non sono miscelati con altri rifiuti o altri materiali che ne possano compromettere le operazioni di preparazione per il riutilizzo, di riciclaggio e di altre operazioni di recupero. 
+ 6-ter. Alla disposizione di cui al comma 6-bis si puo' derogare nel caso di raccolta congiunta di piu' materiali purche' cio' sia economicamente sostenibile e non pregiudichi la possibilita' che siano preparati per il riutilizzo, il riciclaggio e altre operazioni di recupero e offra, al termine di tali operazioni, un risultato di qualita' comparabile a quello ottenuto mediante la raccolta differenziata delle singole frazioni. 
+ 6-quater. La raccolta differenziata e' effettuata almeno per la carta, i metalli, la plastica, il vetro, ove possibile per il legno, nonche' per i tessili entro il 1° gennaio 2022; per i rifiuti organici; per imballaggi, rifiuti da apparecchiature elettriche ed elettroniche, rifiuti di pile e accumulatori, rifiuti ingombranti ivi compresi materassi e mobili. 
+ 6-quinquies. Il Ministero dell'ambiente e della tutela del territorio e del mare promuove, previa consultazione con le associazioni di categoria, la demolizione selettiva, onde consentire la rimozione e il trattamento sicuro delle sostanze pericolose e facilitare il riutilizzo e il riciclaggio di alta qualita', di quanto residua dalle attivita' di costruzione e demolizione tramite la rimozione selettiva dei materiali, nonche' garantire l'istituzione di sistemi di selezione dei rifiuti da costruzione e demolizione almeno per legno, frazioni minerali (cemento, mattoni, piastrelle e ceramica, pietre), metalli, vetro, plastica e gesso.»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 3-quater le parole «ed assimilati» sono soppresse.
+
 Dopo l'articolo 205 del decreto legislativo 3 aprile 2006, n. 152, e' inserito il seguente: 
  «Art. 205-bis (Regole per il calcolo degli obiettivi). - 1. Gli obiettivi di cui all'articolo 181 sono calcolati tramite: 
  a) il peso dei rifiuti urbani prodotti e preparati per il riutilizzo o riciclati in un determinato anno civile; 
@@ -291,11 +609,132 @@ Dopo l'articolo 205 del decreto legislativo 3 aprile 2006, n. 152, e' inserito i
 
 Al comma 6 dell'articolo 206-bis del decreto legislativo 3 aprile 2006, n. 152, le parole: «al presente articolo» sono sostituite dalle seguenti: «al comma 4 dell'articolo 178-ter e al presente articolo».
 
+5.
+                    
+                        
+                            L'articolo 212 del decreto legislativo 3 aprile 2006, n. 152, e' cosi' modificato: 
+ 
+                        
+                        
+                            a)
+                            
+                                il comma 9 e' sostituito dal seguente: «9. Le imprese tenute ad aderire al sistema di tracciabilita' dei rifiuti di cui all'articolo 188-bis, procedono all'iscrizione al Registro elettronico nazionale per la tracciabilita' dei rifiuti istituito ai sensi dell'articolo 6 del decreto-legge 14 dicembre 2018, n. 135, attraverso la piattaforma telematica dell'Albo nazionale gestori ambientali, che fornisce mediante le Sezioni regionali e provinciali il necessario supporto tecnico operativo, ed assicura la gestione dei rapporti con l'utenza e la riscossione dei contributi.»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 12, le parole «sistema di controllo della tracciabilita' dei rifiuti (SISTRI) di cui all'articolo 188-bis, comma 2, lettera a)» sono sostituite dalle seguenti: «sistema di tracciabilita' dei rifiuti di cui all'articolo 188-bis»; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                al comma 17, ultimo periodo, le parole «Capitolo 7082» sono sostituite dalle seguenti: «Capitolo 7083 (spesa corrente funzionamento registro)».
+
 Dopo l'articolo 214-bis del decreto legislativo 3 aprile 2006, n. 152, e' inserito il seguente: 
  «Art. 214-ter (Determinazione delle condizioni per l'esercizio delle operazioni di preparazione per il riutilizzo in forma semplificata). - 1. L'esercizio delle operazioni di preparazione per il riutilizzo di prodotti o componenti di prodotti diventati rifiuti, di cui all'articolo 183, comma 1, lettera q), sono avviate, a partire dall'entrata in vigore del decreto di cui al comma 2, mediante segnalazione certificata di inizio di attivita' ai sensi dell'articolo 19 della legge 7 agosto 1990, n. 241. 
  2. Entro sessanta giorni dalla data di entrata in vigore della presente disposizione, con decreto del Ministro dell'ambiente e della tutela del territorio e del mare adottato ai sensi dell'articolo 17, comma 3, della legge 23 agosto 1988, n. 400, sono definite le modalita' operative, le dotazioni tecniche e strutturali, i requisiti minimi di qualificazione degli operatori necessari per l'esercizio delle operazioni di preparazione per il riutilizzo, le quantita' massime impiegabili, la provenienza, i tipi e le caratteristiche dei rifiuti, nonche' le condizioni specifiche di utilizzo degli stessi in base alle quali prodotti o componenti di prodotti diventati rifiuti sono sottoposti a operazioni di preparazione per il riutilizzo.».
 
 ## Art. 3. — Modifiche al decreto legislativo 3 aprile 2006, n. 152 Parte IV Norme in materia di gestione dei rifiuti e di bonifica dei siti inquinati - Titolo II - Gestione degli imballaggi.
+
+1.
+                    
+                        
+                            Il testo dell'articolo 217 del decreto legislativo 3 aprile 2006, n. 152 e' cosi' modificato: 
+ 
+                        
+                        
+                            a)
+                            
+                                alla rubrica, dopo le parole: «Ambito di applicazione» sono aggiunte le seguenti: «e finalita'»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 1, dopo le parole: «borse di plastica,» sono aggiunte le seguenti: «nonche' misure intese a prevenire la produzione di rifiuti di imballaggio, ad incentivare il riutilizzo degli imballaggi, il riciclaggio e altre forme di recupero dei rifiuti di imballaggio e, conseguentemente, la riduzione dello smaltimento finale di tali rifiuti,» e dopo le parole: «dalla direttiva (UE) 2015/720 del Parlamento europeo e del Consiglio,» sono aggiunte le seguenti: «, nonche' dalla direttiva (UE) 2018/852 del Parlamento europeo e del Consiglio».
+
+2.
+                    
+                        
+                            Il comma 1 dell'articolo 218, del decreto legislativo 3 aprile 2006, n. 152, e' cosi' modificato: 
+ 
+                        
+                        
+                            a)
+                            
+                                alla lettera e) le parole: «concepito e progettato» sono sostituite dalle seguenti: «concepito, progettato e immesso sul mercato»; le parole «un numero minimo di viaggi o rotazioni» sono sostituite dalle seguenti: «molteplici spostamenti o rotazioni», e alla fine del periodo sono aggiunte le seguenti parole:«,con le stesse finalita' per le quali e' stato concepito»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                dopo la lettera e) e' inserita la seguente: «e-bis) imballaggio composito: un imballaggio costituito da due o piu' strati di materiali diversi che non possono essere separati manualmente e formano una singola unita', composto da un recipiente interno e da un involucro esterno, e che e' riempito, immagazzinato, trasportato e svuotato in quanto tale;»; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                le lettere da g) a p) sono abrogate; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                dopo il comma 1 e' inserito il seguente «1-bis. Ai fini del presente titolo si applicano le definizioni di "rifiuto", "gestione dei rifiuti", "raccolta", "raccolta differenziata", "prevenzione", "riutilizzo", "trattamento", "recupero", "riciclaggio" e "smaltimento" di cui all'articolo 183, comma 1, lettere a), g-bis), m), n), o), p), r), s), t), u) e z).».
+
+3.
+                    
+                        
+                            L'articolo 219 del decreto legislativo 3 aprile 2006, n. 152, e' cosi' modificato: 
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 1, dopo la lettera d) e' inserita la seguente:
+«d-bis) utilizzo di strumenti economici o altre misure volte ad incentivare l'applicazione della gerarchia dei rifiuti, come quelle elencate nell'allegato L ter o altri strumenti e misure appropriate.»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                i commi 2 e 3 sono sostituiti dai seguenti: 
+ «2. Al fine di favorire la transizione verso un'economia circolare conformemente al principio "chi inquina paga", gli operatori economici cooperano secondo il principio di responsabilita' condivisa, promuovendo misure atte a garantire la prevenzione, il riutilizzo, il riciclaggio e il recupero dei rifiuti di imballaggio. 
+ 3. L'attivita' di gestione integrata dei rifiuti di imballaggio rispetta i seguenti principi: 
+ a) individuazione degli obblighi di ciascun operatore economico, garantendo che i costi di cui all'articolo 221, comma 10, del presente decreto siano sostenuti dai produttori e dagli utilizzatori in proporzione alle quantita' di imballaggi immessi sul mercato nazionale, a tal fine promuovendo per tali soggetti e i relativi sistemi di responsabilita' estesa del produttore, nel rispetto del principio di concorrenza, l'accesso alle infrastrutture di raccolta e selezione, in condizioni di parita' tra loro, e che i Comuni ovvero gli Enti di governo d'ambito territoriale ottimale, ove costituiti ed operanti, organizzino la raccolta differenziata; 
+ b) promozione di strumenti di cooperazione tra i soggetti pubblici e privati; 
+ c) informazione agli utenti finali degli imballaggi ed in particolare ai consumatori. Dette informazioni riguardano: 
+ 1) i sistemi di restituzione, di raccolta e di recupero disponibili; 
+ 2) il ruolo degli utenti finali di imballaggi e dei consumatori nel processo di riutilizzazione, di recupero e di riciclaggio degli imballaggi e dei rifiuti di imballaggio; 
+ 3) il significato dei marchi apposti sugli imballaggi quali si presentano sul mercato; 
+ d) gli elementi significativi dei programmi di gestione per gli imballaggi ed i rifiuti di imballaggio, di cui all'articolo 225, comma 1, e gli elementi significativi delle specifiche previsioni contenute nei piani regionali ai sensi dell'articolo 225, comma 6. 
+ e) gli impatti delle borse di plastica sull'ambiente e le misure necessarie al raggiungimento dell'obiettivo di riduzione dell'utilizzo di borse di plastica; 
+ f) la sostenibilita' dell'utilizzo di borse di plastica biodegradabili e compostabili; 
+ g) l'impatto delle borse oxo-degradabili, come definito dalla Commissione europea ai sensi dell'articolo 20-bis, paragrafo 2, della direttiva 94/62/CE. 
+ 3.1. Le informazioni di cui alla lettera c) del comma 3 sono rese secondo le disposizioni del decreto legislativo 19 agosto 2005, n. 195, di attuazione della direttiva 2003/4/CE sull'accesso del pubblico all'informazione ambientale.»; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                al comma 5 le parole: «con decreto del Ministro dell'ambiente e della tutela del territorio e del mare di concerto con il ministro delle attivita' produttive» sono sostituite dalle seguenti: «dalle norme tecniche UNI applicabili e» e l'ultimo periodo e' sostituito dal seguente: «I produttori hanno, altresi', l'obbligo di indicare, ai fini della identificazione e classificazione dell'imballaggio, la natura dei materiali di imballaggio utilizzati, sulla base della decisione 97/129/CE della Commissione.»; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                dopo il comma 5 e' aggiunto il seguente: «5-bis. Il Ministro dell'ambiente e della tutela del territorio e del mare di concerto con il Ministro dello sviluppo economico puo' stabilire un livello rettificato degli obiettivi di cui all'Allegato E, per un determinato anno, tenendo conto della quota media, nei tre anni precedenti, di imballaggi per la vendita riutilizzabili immessi per la prima volta sul mercato e riutilizzati nell'ambito di un sistema di riutilizzo degli imballaggi, nel rispetto dei criteri ivi definiti.».
 
 L'articolo 219-bis del decreto legislativo 3 aprile 2006, n. 152, e' sostituito con il seguente: 
  «Art. 219-bis. (Sistema di riutilizzo di specifiche tipologie di imballaggi). - 1. Conformemente alla gerarchia dei rifiuti di cui all'articolo 179, gli operatori economici adottano misure volte ad assicurare l'aumento della percentuale di imballaggi riutilizzabili immessi sul mercato anche attraverso l'utilizzo di sistemi di restituzione con cauzione, nonche' dei sistemi per il riutilizzo degli imballaggi senza causare pregiudizio alla salute umana e nel rispetto della normativa europea, senza compromettere l'igiene degli alimenti ne' la sicurezza dei consumatori, nel rispetto della normativa nazionale in materia. Al fine di perseguire le predette finalita', gli operatori economici possono stipulare appositi accordi e contratti di programma ai sensi dell'articolo 206 del presente decreto. 
@@ -304,6 +743,75 @@ L'articolo 219-bis del decreto legislativo 3 aprile 2006, n. 152, e' sostituito 
  2) l'impiego di premialita' e di incentivi economici; 
  3) la fissazione di una percentuale minima di imballaggi riutilizzabili immessi sul mercato ogni anno per ciascun flusso di imballaggi; 
  4) la promozione di campagne di sensibilizzazione rivolte ai consumatori.».
+
+5.
+                    
+                        
+                            L'articolo 220, del decreto legislativo 3 aprile 2006, n. 152, e' cosi' modificato: 
+ 
+                        
+                        
+                            a)
+                            
+                                il comma 6 e' sostituito dal seguente: 
+ «6. Il calcolo degli obiettivi di cui al comma 1 e' effettuato su base nazionale con le seguenti modalita': 
+ a) e' calcolato il peso dei rifiuti di imballaggio prodotti e riciclati in un determinato anno civile. La quantita' di rifiuti di imballaggio prodotti puo' essere considerata equivalente alla quantita' di imballaggi immessi sul mercato nel corso dello stesso anno; 
+ b) il peso dei rifiuti di imballaggio riciclati e' calcolato come il peso degli imballaggi diventati rifiuti che, dopo essere stati sottoposti a tutte le necessarie operazioni di controllo, cernita e altre operazioni preliminari, per eliminare i materiali di scarto che non sono interessati dal successivo ritrattamento e per garantire un riciclaggio di elevata qualita', sono immessi nell'operazione di riciclaggio sono effettivamente ritrattati per ottenere prodotti, materiali o sostanze; 
+ c) ai fini della lettera a), il peso dei rifiuti di imballaggio riciclati e' misurato all'atto dell'immissione dei rifiuti nell'operazione di riciclaggio. In deroga il peso dei rifiuti di imballaggio riciclati puo' essere misurato in uscita dopo qualsiasi operazione di cernita, a condizione che: 
+ 1) tali rifiuti in uscita siano successivamente riciclati; 
+ 2) il peso dei materiali o delle sostanze che sono rimossi con ulteriori operazioni precedenti l'operazione di riciclaggio e che non sono successivamente riciclati non sia incluso nel peso dei rifiuti comunicati come riciclati. Il controllo della qualita' e di tracciabilita' dei rifiuti di imballaggio e' assicurato dal sistema previsto dall'articolo 188-bis.»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                dopo il comma 6 sono aggiunti i seguenti: 
+ «6-bis. Per il raggiungimento degli obiettivi di cui al presente articolo la quantita' di rifiuti di imballaggio biodegradabili in ingresso al trattamento aerobico o anaerobico puo' essere considerata come riciclata se il trattamento produce compost, digestato o altro prodotto in uscita con analoga quantita' di contenuto riciclato rispetto ai rifiuti immessi, destinato a essere utilizzato come prodotto, materiale o sostanza riciclati. Quando il prodotto in uscita e' utilizzato sul terreno, puo' essere considerato come riciclato solo se il suo utilizzo comporta benefici per l'agricoltura o un miglioramento sul piano ecologico. 
+ 6-ter. La quantita' di materiali dei rifiuti di imballaggio che hanno cessato di essere rifiuti a seguito di un'operazione preparatoria prima di essere ritrattati puo' essere considerata riciclata, purche' tali materiali siano destinati al successivo ritrattamento al fine di ottenere prodotti, materiali o sostanze da utilizzare per la loro funzione originaria o per altri fini.
+Tuttavia, i materiali che hanno cessato di essere rifiuti e che devono essere utilizzati come combustibili o altri mezzi per produrre energia o devono essere inceneriti, usati per operazioni di riempimento o smaltiti in discarica non possono essere considerati ai fini del conseguimento degli obiettivi di riciclaggio. 
+ 6-quater. Per il calcolo degli obiettivi di cui al comma 1, il riciclaggio dei metalli separati dopo l'incenerimento dei rifiuti, proporzionalmente alla quota di rifiuti di imballaggio inceneriti, puo' essere computato ai fini del raggiungimento a condizione che i metalli riciclati soddisfino determinati criteri di qualita' stabiliti dalla decisione di esecuzione (UE) 2019/665 della Commissione del 17 aprile 2019. 
+ 6-quinquies. I rifiuti di imballaggio inviati in un altro Stato membro per essere riciclati in quello stesso Stato possono essere considerati ai fini del conseguimento degli obiettivi di cui al comma 1 esclusivamente dallo Stato membro in cui sono stati raccolti tali rifiuti di imballaggio. 
+ 6-sexies. I rifiuti di imballaggio esportati fuori dell'Unione europea sono considerati ai fini del conseguimento degli obiettivi di cui al comma 1 da parte dello Stato membro nel quale sono stati raccolti soltanto se i requisiti di cui all'articolo 188-bis sono soddisfatti e se, in conformita' del regolamento (CE) n. 1013/2006 del Parlamento europeo e del Consiglio, l'esportatore puo' provare che la spedizione di rifiuti e' conforme agli obblighi di tale regolamento e il trattamento dei rifiuti di imballaggio al di fuori dell'Unione europea ha avuto luogo in condizioni sostanzialmente equivalenti agli obblighi previsti dal pertinente diritto ambientale dell'Unione.»; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                Al comma 7 le parole «12, 16 e 17» sono sostituite dalle seguenti: «12 e 16».
+
+6.
+                    
+                        
+                            L'articolo 221 del decreto legislativo 3 aprile 2006, n. 152, e' cosi' modificato: 
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 1, e' aggiunto, in fine, il seguente periodo: «I produttori e gli utilizzatori degli imballaggi sono responsabili della corretta ed efficace gestione ambientale dei rifiuti riferibili ai propri prodotti definiti in proporzione alla quantita' di imballaggi immessi sul mercato nazionale.»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 5, le parole «Il recesso sara', in ogni caso, efficace solo dal momento in cui, intervenuto il riconoscimento, l'Osservatorio accerti il funzionamento del sistema e ne dia comunicazione al Consorzio.» sono sostituite dalle seguenti: «Il recesso e' efficace dal momento del riconoscimento del progetto e perde tale efficacia solo in caso di accertamento del mancato funzionamento del sistema.»; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                il comma 10 e' sostituito dal seguente: «10. Sono a carico dei produttori e degli utilizzatori, in linea con i criteri di priorita' nella gestione rifiuti: 
+ a) i costi per il riutilizzo o la ripresa degli imballaggi secondari e terziari usati; 
+ b) i costi per la gestione degli imballaggi secondari e terziari; 
+ c) almeno l'80 per cento dei costi relativi ai servizi di cui all'articolo 222, comma 1, lettera b); 
+ d) i costi del successivo trasporto, nonche' delle operazioni di cernita o di altre operazioni preliminari di cui all'Allegato C del presente decreto legislativo; 
+ e) i costi per il trattamento dei rifiuti di imballaggio; 
+ f) i costi per un'adeguata attivita' di informazione ai detentori di rifiuti sulle misure di prevenzione e di riutilizzo, sui sistemi di ritiro e di raccolta dei rifiuti anche al fine di prevenire la dispersione degli stessi; 
+ g) i costi relativi alla raccolta e alla comunicazione dei dati sui prodotti immessi sul mercato nazionale, sui rifiuti raccolti e trattati, e sui quantitativi recuperati e riciclati.».
 
 Dopo l'articolo 221 del decreto legislativo 3 aprile 2006, n. 152, e' inserito il seguente: 
  «Art. 221-bis (Sistemi autonomi). - 1. I produttori che non intendono aderire ad uno dei consorzi di cui all'articolo 223, presentano al Ministero dell'ambiente e della tutela del territorio e del mare un'istanza di riconoscimento per la costituzione di un sistema autonomo in forma individuale ovvero collettiva, avente personalita' giuridica di diritto privato senza scopo di lucro, retto da uno statuto, conforme ai principi del presente decreto, nonche' allo "statuto tipo" di cui al comma 2. 
@@ -322,6 +830,56 @@ Dopo l'articolo 221 del decreto legislativo 3 aprile 2006, n. 152, e' inserito i
  10. A seguito della comunicazione di non idoneita' del progetto di cui al comma 5, di mancato riconoscimento del sistema ai sensi del comma 7, ovvero di revoca del riconoscimento di cui al comma 9, i produttori hanno l'obbligo di partecipare ad uno dei sistemi collettivi gia' esistenti. Ove, entro novanta giorni dal ricevimento della comunicazione, i produttori non provvedono ad aderire ai sistemi collettivi gia' esistenti e a versare le somme a essi dovute a decorrere dalla data della stessa comunicazione, si applicano le sanzioni previste al Titolo VI. 
  11. I proponenti, al fine di garantire la continuita' della raccolta, nelle more del provvedimento definitivo di cui al comma 7, sono tenuti alla presentazione di una fideiussione bancaria a prima richiesta in favore del Ministero dell'ambiente e della tutela del territorio e del mare, pari all'importo delle entrate previste dall'applicazione del contributo ambientale di cui al comma 3. Detta garanzia sara' aggiornata sino al provvedimento definitivo di cui al comma 7. 
  12. Sono fatti salvi i riconoscimenti gia' operati ai sensi della previgente normativa. Tali sistemi si adeguano alle disposizioni di cui al presente Titolo entro il 31 dicembre 2024.».
+
+8.
+                    
+                        
+                            L'articolo 222 del decreto legislativo 3 aprile 2006, n. 152, e' cosi' modificato: 
+ 
+                        
+                        
+                            a)
+                            
+                                i commi 1, 2, 3 e 4 sono sostituiti dai seguenti: 
+ «1. Gli Enti di governo d'ambito territoriale ottimale, ove costituiti ed operanti, ovvero i Comuni, organizzano sistemi adeguati di raccolta differenziata in modo da permettere il raggiungimento degli obiettivi di recupero e di riciclaggio riportati nell'allegato E, e da consentire al consumatore di conferire al servizio pubblico i rifiuti di imballaggio e le altre particolari categorie di rifiuti selezionati dai rifiuti domestici e da altri tipi di rifiuti di imballaggio. In particolare: 
+ a) garantiscono la copertura della raccolta differenziata in maniera omogenea in ciascun ambito territoriale ottimale, ove costituito ed operante, ovvero in ciascun Comune, su tutto il suo territorio promuovendo per i produttori e i relativi sistemi di responsabilita' estesa del produttore, nel rispetto del principio di concorrenza, l'accesso alle infrastrutture di raccolta, in condizioni di parita' tra loro; 
+ b) garantiscono la gestione della raccolta differenziata, del trasporto, nonche' delle operazioni di cernita o di altre operazioni preliminari di cui all'Allegato C del presente decreto legislativo, nonche' il coordinamento con la gestione di altri rifiuti prodotti nel territorio dell'ambito territoriale ottimale, ove costituito ed operante, ovvero i Comuni. 
+ 2. I servizi di cui alla lettera b) sono prestati secondo i criteri di efficacia, efficienza ed economicita', nonche' dell'effettiva riciclabilita', sulla base delle determinazioni in merito ai costi efficienti dell'Autorita' di regolazione per energia, reti e ambiente (ARERA). I costi necessari per fornire tali servizi di gestione di rifiuti sono posti a carico dei produttori e degli utilizzatori nella misura almeno dell'80 per cento. Tali somme sono versate nei bilanci dei Comuni ovvero degli Enti di Gestione Territoriale Ottimale, ove costituiti e operanti nella gestione del ciclo integrato dei rifiuti, al fine di essere impiegate nel piano economico finanziario relativo alla determinazione della tassa sui rifiuti (TARI). 
+ 3. Gli Enti di governo d'ambito territoriale ottimale, ove costituiti e operanti, ovvero i Comuni, trasmettono annualmente entro il 31 ottobre alla Regione competente e al Ministero dell'ambiente e della tutela del territorio e del mare un resoconto delle voci di costo sostenute per ciascun materiale, di cui all'allegato E, nonche' per ciascuna tipologia di rifiuto, dimostrando l'effettivo riciclo, nonche' l'efficacia, l'efficienza e l'economicita' dei servizi resi. 
+ 4. Gli Enti di governo d'ambito territoriale ottimale, ove costituiti ed operanti, ovvero i Comuni, garantiscono la gestione completa della raccolta differenziata relativa a tutte le categorie di rifiuti indicate nella direttiva 2018/851/UE all'articolo 1, paragrafo 1, numero 3, lettera a), punto 2-ter, tramite specifici accordi di programma, da sottoscrivere con i sistemi collettivi.». 
+
+                            
+                        
+                        
+                            b)
+                            
+                                dopo il comma 5 sono introdotti i seguenti commi: 
+ «5-bis. Nel caso in cui il Ministero dell'ambiente e della tutela e del territorio e del mare accerti che le pubbliche amministrazioni non abbiano attivato sistemi adeguati di raccolta differenziata dei rifiuti, anche per il raggiungimento degli obiettivi di cui all'articolo 205, ed in particolare di quelli di recupero e riciclaggio di cui all'articolo 220, puo' attivare azioni sostitutive ai gestori dei servizi di raccolta differenziata, anche avvalendosi di soggetti pubblici, ovvero sistemi collettivi o Consorzi, o privati individuati mediante procedure trasparenti e selettive, in via temporanea e d'urgenza, comunque per un periodo non superiore a ventiquattro mesi, sempre che cio' avvenga all'interno di ambiti ottimali opportunamente identificati, per l'organizzazione e/o integrazione del servizio ritenuto insufficiente. Ai Consorzi aderenti alla richiesta, per raggiungere gli obiettivi di recupero e riciclaggio previsti dall'articolo 220, e' riconosciuto il valore della tariffa applicata per la raccolta dei rifiuti urbani corrispondente, al netto dei ricavi conseguiti dalla vendita dei materiali e del corrispettivo dovuto sul ritiro dei rifiuti di imballaggio e delle frazioni merceologiche omogenee. Ai soggetti privati, selezionati per comprovata e documentata affidabilita' e capacita', a cui e' affidata la raccolta differenziata e conferiti i rifiuti di imballaggio in via temporanea e d'urgenza, fino all'espletamento delle procedure ordinarie di aggiudicazione del servizio e comunque per un periodo non superiore a dodici mesi, prorogabili di ulteriori dodici mesi in caso di impossibilita' oggettiva e documentata di aggiudicazione, e' riconosciuto il costo del servizio spettante ai gestori, oggetto dell'azione sostitutiva. 
+ 5-ter. Le pubbliche amministrazioni incoraggiano, ove opportuno, l'utilizzazione di materiali provenienti da rifiuti di imballaggio riciclati per la fabbricazione di imballaggi e altri prodotti. 
+ 5-quater. Il Ministro dell'ambiente e della tutela del territorio e del mare e il Ministro dello sviluppo economico curano la pubblicazione delle misure e degli obiettivi oggetto delle campagne di informazione di cui all'articolo 224, comma 3, lettera g).».
+
+9.
+                    
+                        
+                            L'articolo 224, del decreto legislativo 3 aprile 2006, n. 152, e' cosi' modificato: 
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 3, lettera h), le parole «ripartisce tra i produttori e gli utilizzatori il corrispettivo per i maggiori oneri della raccolta differenziata di cui all'articolo 221, comma 10, lettera b)» sono sostituite dalle seguenti: «ripartisce tra i produttori e gli utilizzatori il corrispettivo per gli oneri di cui all'articolo 221, comma 10, lettera b)»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                il comma 5 dell'articolo 224 e' sostituito dai seguenti: 
+ «5. Al fine di garantire l'attuazione del principio di corresponsabilita' gestionale tra produttori, utilizzatori e pubbliche amministrazioni, CONAI ed i sistemi autonomi di cui all'articolo 221, comma, 3 lettere a) e c) promuovono e stipulano un accordo di programma quadro, di cui alla legge 241/90 e successive modificazioni, su base nazionale tra tutti gli operatori del comparto di riferimento, intendendosi i sistemi collettivi operanti e i gestori delle piattaforme di selezione (CSS), con l'Associazione nazionale Comuni italiani (ANCI), con l'Unione delle province italiane (UPI) o con gli Enti di gestione di Ambito territoriale ottimale. In particolare, tale accordo stabilisce: 
+ 1. la copertura dei costi di cui all'articolo 222, commi 1 e 2 del presente decreto legislativo; 
+ 2. le modalita' di raccolta dei rifiuti da imballaggio ai fini delle attivita' di riciclaggio e di recupero; 
+ 3. gli obblighi e le sanzioni posti a carico delle parti contraenti. 
+ 5-bis. L'accordo di programma di cui al comma 5 e' costituito da una parte generale e dai relativi allegati tecnici per ciascun materiale di cui all'Allegato E. Gli allegati tecnici prevedono i corrispettivi calcolati secondo le fasce di qualita', tenendo conto delle operazioni di cernita o di altre operazioni preliminari, che sono stabilite tramite analisi merceologiche effettuate da un soggetto terzo, individuato congiuntamente dai soggetti sottoscrittori, nominato dagli Enti di governo d'ambito territoriali ottimali, ove costituiti ed operanti, ovvero dai Comuni con oneri posti a carico dei sistemi collettivi.».
 
 L'articolo 227 del decreto legislativo 3 aprile 2006, n. 152, e' sostituito dal seguente: 
  «Art. 227 (Rifiuti elettrici ed elettronici, rifiuti di pile e accumulatori, rifiuti sanitari, veicoli fuori uso e prodotti contenenti amianto). - 1. Fatte salve le disposizioni degli articoli 178-bis e 178-ter, ove applicabili, restano in vigore le disposizioni nazionali relative alle altre tipologie di rifiuti, ed in particolare quelle riguardanti: 
@@ -390,6 +948,38 @@ Gli statuti si intendono approvati in caso di mancata comunicazione da parte del
 Al fine di consentire ai soggetti affidatari del servizio di gestione dei rifiuti il graduale adeguamento operativo delle attivita' alla definizione di rifiuto urbano, le disposizioni di cui agli articoli 183, comma 1, lettera b-ter) e 184, comma 2 e agli allegati L-quater e L-quinquies, introdotti dall'articolo 8 presente decreto, si applicano a partire dal 1° gennaio 2021.
 
 ## Art. 7. — Abrogazioni e modifiche
+
+1.
+                    
+                        
+                            Sono abrogati: 
+ 
+                        
+                        
+                            a)
+                            
+                                gli articoli 179, commi 5, 6, 7 e 8, 180-bis, 188-ter, 230, comma 4, 264-ter, 264-quater, 266, comma 4, del decreto legislativo 3 aprile 2006, n. 152; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                l'articolo 9 del decreto-legge 20 giugno 2017, n. 91, convertito, con modificazioni, dalla legge 3 agosto 2017, n. 123; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                i commi 3-bis, 3-ter e 3-quinquies dell'articolo 6 del decreto-legge 14 dicembre 2018, n. 135, convertito, con modificazioni, dalla legge 11 febbraio 2019, n. 12; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                il comma 8 dell'articolo 19 del decreto legislativo 14 marzo 2014, n. 49.
 
 All'articolo 230, comma 5, del decreto legislativo 3 aprile 2006, n.152, e' soppresso il seguente periodo: «I soggetti che svolgono attivita' di pulizia manutentiva delle reti fognarie aderiscono al sistema SISTRI ai sensi dell'articolo 188-ter, comma 1, lettera f).».
 

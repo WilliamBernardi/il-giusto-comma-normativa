@@ -8,8 +8,8 @@ codice_redazionale: 093G0269
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:38Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -31,6 +31,31 @@ Sono ammessi a contributo i programmi presentati da enti, istituti ed associazio
 
 Saranno finanziati i programmi che maggiormente corrispondono agli obiettivi ed alle finalita' della politica agricola ed agro- alimentare nazionale e, prioritariamente, quelli presentati dagli istituti di ricerca e sperimentazione agraria, da altri enti pubblici, nonche' da enti, istituti ed associazioni senza fini di lucro.
 
+4.
+                    
+                        
+                            Le percentuali di contributo e le relative anticipazioni saranno corrisposte, sulla spesa ritenuta ammissibile, nei limiti massimi di seguito specificati:
+ 
+                        
+                        
+                            a)
+                            
+                                enti pubblici fino al 95%, con anticipazioni non superiori al 50% del contributo previsto senza presentazione di garanzia;
+
+                            
+                        
+                        
+                            b)
+                            
+                                enti, istituti ed associazioni senza fini di lucro fino all'80%, con anticipazioni non superiori al 40% del contributo previsto previa presentazione di idonea garanzia;
+
+                            
+                        
+                        
+                            c)
+                            
+                                altri enti, istituti ed associazioni fino al 75%, con anticipazioni non superiori al 30% del contributo previa presentazione di idonea garanzia.
+
 ## Art. 2. — Modalita' procedimentali
 
 Il termine di presentazione delle domande per la concessione dei contributi e' fissato alla data del 30 luglio di ogni esercizio finanziario.
@@ -46,6 +71,52 @@ Nella domanda devono essere, altresi', indicate:
  le eventuali altre attivita' svolte o in corso di svolgimento in collaborazione con la pubblica amministrazione ed in particolare con il Ministero dell'agricoltura e delle foreste.
 
 Alla domanda deve essere allegato il programma dell'attivita' che si intende realizzare, completo di tempistica, con l'indicazione delle collaborazioni esterne di cui il beneficiario intende avvalersi e del preventivo finanziario recante indicazione dettagliata di ogni singola voce di spesa.
+
+6.
+                    
+                        
+                            Alla domanda va allegata la seguente documentazione:
+ 
+                        
+                        
+                            a)
+                            
+                                atto costitutivo (per le societa' l'atto costitutivo deve essere corredato del verbale di omologazione del tribunale);
+
+                            
+                        
+                        
+                            b)
+                            
+                                statuto;
+
+                            
+                        
+                        
+                            c)
+                            
+                                delibera dell'organo sociale che autorizza la presentazione della domanda;
+
+                            
+                        
+                        
+                            d)
+                            
+                                struttura organizzativa;
+
+                            
+                        
+                        
+                            e)
+                            
+                                situazione finanziaria (ultimo bilancio disponibile);
+
+                            
+                        
+                        
+                            f)
+                            
+                                dichiarazione del legale rappresentante attestante che per la realizzazione del progetto non sono stati utilizzati ne' si intendono utilizzare altri finanziamenti pubblici (diversamente indicare l'ente erogatore e la misura di contribuzione).
 
 Le istruzioni per l'esecuzione del programma e per la presentazione della documentazione contabile saranno contenute nel decreto di concessione o allegate al medesimo.
 

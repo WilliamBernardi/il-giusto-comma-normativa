@@ -8,8 +8,8 @@ vigente: true
 source: normattiva-opendata
 collection: Leggi delega e relativi provvedimenti delegati
 vigenza_date: 2025-01-17
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:41:15Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -27,6 +27,115 @@ Sulla proposta del Presidente del Consiglio dei ministri e del Ministro dell'eco
 
 ## Art. 1. — Definizioni
 
+1.
+                    
+                        
+                            Nel presente decreto legislativo s'intendono per: 
+ 
+                        
+                        
+                            a)
+                            
+                                amministrazioni interessate: le amministrazioni e le istituzioni competenti al rilascio di autorizzazioni, licenze o altri titoli abilitativi comunque denominati e titolari di poteri di controllo nei confronti degli operatori compro oro; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                attivita' di compro oro: l'attivita' commerciale consistente nel compimento di operazioni di compro oro, esercitata in via esclusiva ovvero in via secondaria rispetto all'attivita' prevalente; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                autorita' competenti: il Ministero dell'economia e delle finanze, l'Unita' di informazione finanziaria per l'Italia (UIF) e la Guardia di finanza che opera nei casi previsti dal presente decreto attraverso il Nucleo speciale polizia valutaria; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                cliente: il privato che, anche sotto forma di permuta, acquista o cede oggetti preziosi usati ovvero l'operatore professionale in oro, di cui alla legge 17 gennaio 2000, n. 7, cui i medesimi oggetti sono ceduti; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                dati identificativi del cliente: il nome e il cognome, il luogo e la data di nascita, la residenza anagrafica e il domicilio, ove diverso dalla residenza, gli estremi del documento di identificazione e, ove assegnato, il codice fiscale o, nel caso di soggetti diversi da persona fisica, la denominazione, la sede legale e, ove assegnato, il codice fiscale; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                decreto antiriciclaggio: il decreto legislativo 21 novembre 2007, n. 231, e successive modificazioni; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                denaro contante: le banconote e le monete metalliche, in euro o in valute estere, aventi corso legale; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                metalli preziosi: i metalli definiti dall'articolo 1, comma 1, del decreto legislativo 22 maggio 1999, n. 251; 
+
+                            
+                        
+                        
+                            i)
+                            
+                                mezzi di pagamento: il denaro contante, gli assegni bancari e postali, gli assegni circolari e gli altri assegni a essi assimilabili o equiparabili, i vaglia postali, gli ordini di accreditamento o di pagamento, le carte di credito e le altre carte di pagamento, le polizze assicurative trasferibili, le polizze di pegno e ogni altro strumento a disposizione che permetta di trasferire, movimentare o acquisire, anche per via telematica, fondi, valori o disponibilita' finanziarie; 
+
+                            
+                        
+                        
+                            l)
+                            
+                                OAM: indica l'Organismo per la gestione degli elenchi degli agenti in attivita' finanziaria e dei mediatori creditizi, ai sensi dell'articolo 128-undecies del decreto legislativo 1° settembre 1993, n. 385; 
+
+                            
+                        
+                        
+                            m)
+                            
+                                oggetto prezioso usato: un oggetto in oro o in altri metalli preziosi nella forma del prodotto finito o di gioielleria, ovvero nella forma di rottame, cascame o avanzi di oro e materiale gemmologico; 
+
+                            
+                        
+                        
+                            n)
+                            
+                                operatore compro oro: il soggetto, anche diverso dall'operatore professionale in oro di cui alla legge 17 gennaio 2000, n. 7, che esercita l'attivita' di compro oro, previa iscrizione nel registro degli operatori compro oro; 
+
+                            
+                        
+                        
+                            o)
+                            
+                                operazione di compro oro: la compravendita, all'ingrosso o al dettaglio ovvero la permuta di oggetti preziosi usati; 
+
+                            
+                        
+                        
+                            p)
+                            
+                                operazione frazionata: un'operazione unitaria sotto il profilo del valore economico, di importo pari o superiore ai limiti stabiliti dal presente decreto, posta in essere attraverso piu' operazioni, singolarmente inferiori ai predetti limiti, effettuate in momenti diversi ed in un circoscritto periodo di tempo fissato in sette giorni, ferma restando la sussistenza dell'operazione frazionata quando ricorrano elementi per ritenerla tale; 
+
+                            
+                        
+                        
+                            q)
+                            
+                                registro degli operatori compro oro: il registro pubblico informatizzato, istituito presso l'OAM, in cui gli operatori compro oro sono tenuti ad iscriversi, al fine del lecito esercizio dell'attivita' di compro oro.
+
 ## Art. 2.
 
 Finalita' e ambito di applicazione
@@ -42,6 +151,52 @@ L'esercizio dell'attivita' di compro oro e' riservato agli operatori iscritti ne
 Ai fini dell'iscrizione di cui al comma 1, gli operatori inviano all'OAM, in formato esclusivamente elettronico e attraverso canali telematici, apposita istanza contenente l'indicazione del nome, del cognome e della denominazione sociale, completa dell'indicazione del nominativo del responsabile legale e del preposto, del codice fiscale, dell'indirizzo ovvero della sede legale e, ove diversa, della sede operativa dell'operatore compro oro, con indicazione della citta' e del relativo codice di avviamento postale, degli estremi della licenza di cui al comma 1 e del conto corrente dedicato di cui all'articolo 5, comma 1. All'istanza e' allegata copia dei documenti di identificazione dell'operatore che richiede l'iscrizione nonche' l'attestazione, rilasciata dalla questura territorialmente competente, che comprovi il possesso e la perdurante validita' della licenza di cui al comma 1. L'OAM, verificata la completezza della documentazione inviata, dispone l'iscrizione dell'operatore nel registro, e assegna a ciascun iscritto un codice identificativo unico, a margine del quale sono riportati i dati comunicati dall'operatore con l'istanza di iscrizione.
 
 Gli operatori compro oro, comunicano tempestivamente all'OAM, per la relativa annotazione nel registro, ogni variazione dei dati comunicati, intervenuta successivamente all'iscrizione. E' considerata tempestiva la comunicazione effettuata entro dieci giorni dall'intervenuta variazione.
+
+4.
+                    
+                        
+                            Le modalita' tecniche di invio dei dati e di alimentazione del registro sono stabilite con decreto del Ministro dell'economia e delle finanze, da adottarsi entro tre mesi dalla data di entrata in vigore del presente decreto, in modo che sia garantita: 
+ 
+                        
+                        
+                            a)
+                            
+                                la tempestiva annotazione dei dati comunicati dagli interessati e dei relativi aggiornamenti; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                la standardizzazione ed efficacia dei processi di iscrizione e relativo rinnovo; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                la chiarezza, la completezza e l'accessibilita' dei dati riportati nella sezione ad accesso pubblico del registro; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                il rispetto delle norme dettate dal codice in materia di protezione dei dati personali nonche' il trattamento dei medesimi esclusivamente per le finalita' di cui al presente decreto; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                le modalita' d'interfaccia tra la sottosezione ad accesso riservato del registro di cui al presente articolo e gli altri elenchi o registri tenuti dall'OAM, anche al fine di rendere tempestivamente disponibile alle autorita' competenti e alle altre amministrazioni interessate, ivi compreso il Dipartimento della pubblica sicurezza del Ministero dell'interno, l'informazione circa la sussistenza di eventuali provvedimenti di cancellazione o sospensione dai predetti elenchi o registri, adottati, ai sensi della normativa vigente, a carico di un medesimo soggetto; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                l'entita' e i criteri di determinazione del contributo, dovuto dagli iscritti, a copertura integrale dei costi di istituzione, sviluppo e gestione del registro nonche' le modalita' e i termini entro cui provvedere al relativo versamento.
 
 Il mancato versamento dei contributi dovuti all'OAM costituisce causa ostativa all'iscrizione ovvero alla permanenza dell'operatore compro oro nel registro.
 
@@ -61,11 +216,99 @@ Tracciabilita' delle operazioni di compro oro
 
 Al fine di assicurare la tracciabilita' delle transazioni effettuate nell'esercizio della propria attivita', gli operatori compro oro sono obbligati all'utilizzo di un conto corrente, bancario o postale, dedicato in via esclusiva alle transazioni finanziarie eseguite in occasione del compimento di operazioni di compro oro.
 
+2.
+                    
+                        
+                            Gli operatori compro oro, per ogni operazione di compro oro effettuata, predispongono una scheda, numerata progressivamente e recante: 
+ 
+                        
+                        
+                            a)
+                            
+                                l'indicazione dei dati identificativi del cliente, acquisiti ai sensi dell'articolo 4, comma 1, nonche', nelle ipotesi di cui all'articolo 4, comma 2, degli estremi della transazione effettuata con mezzi di pagamento diversi dal denaro contante; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                la sintetica descrizione delle caratteristiche dell'oggetto prezioso usato, della sua natura e delle sue precipue qualita'; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                l'indicazione della quotazione dell'oro e dei metalli preziosi contenuti nell'oggetto prezioso usato, rilevata da una fonte affidabile e indipendente, al momento dell'operazione e la valutazione del medesimo in riferimento alle caratteristiche di cui alla lettera b), alla sua qualita' e al suo stato; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                due fotografie in formato digitale dell'oggetto prezioso acquisite da prospettive diverse; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                la data e l'ora dell'operazione; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                l'importo corrisposto e il mezzo di pagamento utilizzato; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                l'integrazione con le informazioni relative alla destinazione data all'oggetto prezioso usato, completa dei dati identificativi: 
+ 1) di altro operatore compro oro o cliente a cui l'oggetto e' stato ceduto; 
+ 2) dell'operatore professionale di cui alla legge 17 gennaio 2000, n. 7, cui l'oggetto e' venduto o ceduto, per la successiva trasformazione; 
+ 3) delle fonderie o di altre aziende specializzate nel recupero di materiali preziosi, cui l'oggetto e' stato ceduto.
+
 A conclusione dell'operazione, gli operatori compro oro rilasciano al cliente una ricevuta riepilogativa delle informazioni acquisite ai sensi del comma 2.
 
 ## Art. 6. — Obblighi di conservazione
 
 Gli operatori compro oro conservano i dati acquisiti ai sensi dell'articolo 4, le schede di cui all'articolo 5, comma 2, e copia della ricevuta di cui all'articolo 5, comma 3, per un periodo di 10 anni.
+
+2.
+                    
+                        
+                            Gli operatori compro oro adottano sistemi di conservazione idonei a garantire: 
+ 
+                        
+                        
+                            a)
+                            
+                                l'accessibilita' completa e tempestiva ai dati da parte delle autorita' competenti; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                l'integrita' e la non alterabilita' dei medesimi dati, successivamente alla loro acquisizione; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                la completezza e la chiarezza dei dati e delle informazioni acquisiti; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                il mantenimento della storicita' dei medesimi, in modo che, rispetto a ciascuna operazione, sia assicurato il collegamento tra i dati e le informazioni acquisite ai sensi del presente decreto.
 
 I sistemi di conservazione adottati garantiscono il rispetto delle norme e delle procedure dettate dal codice in materia di protezione dei dati personali, nonche' il trattamento dei medesimi esclusivamente per le finalita' di cui al presente decreto.
 
@@ -116,6 +359,59 @@ L'esecuzione del provvedimento di sospensione, attraverso l'apposizione del sigi
 Con il decreto che irroga la sanzione per violazioni degli obblighi di cui al presente decreto, commesse successivamente all'esecuzione del provvedimento di sospensione di cui al comma 5, il Ministero dell'economia e delle finanze, tenuto conto della rilevanza della violazione, richiede all'OAM la cancellazione dell'operatore compro oro dal registro di cui all'articolo 3. L'OAM, disposta la cancellazione, provvede altresi' ad annotarne gli estremi nella sottosezione ad accesso riservato del registro degli operatori compro oro. Per i tre anni successivi al provvedimento con cui e' stata disposta la cancellazione, l'iscrizione nel registro degli operatori compro oro di cui all'articolo 3 e' interdetta all'operatore compro oro nonche' ai suoi familiari, per tali intendendosi il coniuge, la persona legata in unione civile o convivenza di fatto, i figli e i genitori. La violazione del divieto e' sanzionata ai sensi dell'articolo 8.
 
 ## Art. 12. — Criteri per la quantificazione delle sanzioni
+
+1.
+                    
+                        
+                            Nell'applicazione delle sanzioni amministrative pecuniarie o delle sanzioni accessorie previste nel presente decreto il Ministero dell'economia e delle finanze considera ogni circostanza rilevante e, in particolare, tenuto conto del fatto che il destinatario della sanzione sia una persona fisica o giuridica: 
+ 
+                        
+                        
+                            a)
+                            
+                                la gravita' e durata della violazione; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                il grado di responsabilita' della persona fisica o giuridica; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                la capacita' finanziaria della persona fisica o giuridica responsabile; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                l'entita' del vantaggio ottenuto o delle perdite evitate per effetto della violazione, nella misura in cui siano determinabili; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                l'entita' del pregiudizio cagionato a terzi per effetto della violazione, nella misura in cui sia determinabile; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                il livello di cooperazione con le autorita' competenti prestato dalla persona fisica o giuridica responsabile; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                le precedenti violazioni delle disposizioni di cui al presente decreto.
 
 Si applicano le disposizioni di cui agli articoli 8 e 8-bis della legge 21 novembre 1981, n. 689.
 

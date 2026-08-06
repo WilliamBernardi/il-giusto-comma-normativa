@@ -9,7 +9,7 @@ source: normattiva-opendata
 collection: Atti di recepimento direttive UE
 vigenza_date: 2021-07-31
 zip_date: 2026-07-30
-fetched_at: 2026-08-02T09:40:50Z
+fetched_at: 2026-07-30
 ---
 
 DECRETO LEGISLATIVO
@@ -28,6 +28,115 @@ Sulla proposta del Ministro per gli affari europei e del Ministro dello sviluppo
 Il presente decreto stabilisce norme intese ad assicurare un livello elevato di sicurezza dell'approvvigionamento di petrolio e di prodotti petroliferi del Paese mediante meccanismi affidabili e trasparenti, a mantenere un livello minimo di scorte di petrolio greggio e di prodotti petroliferi e a prevedere le procedure necessarie per far fronte ad un'eventuale situazione di grave difficolta' o crisi degli approvvigionamenti.
 
 ## Art. 2. — Definizioni
+
+1.
+                    
+                        
+                            Ai fini del presente decreto si intende per: 
+ 
+                        
+                        
+                            a)
+                            
+                                anno di riferimento: l'anno cui si riferiscono i dati del consumo o delle importazioni nette utilizzati per calcolare il livello delle scorte da detenere e il livello delle scorte effettivamente detenuto in un dato momento; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                additivi: sostanze diverse dagli idrocarburi che sono aggiunte o miscelate a un prodotto allo scopo di modificarne le proprieta'; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                biocarburanti: carburanti liquidi o gassosi utilizzati per il trasporto, prodotti dalla 'biomassa', ovvero la frazione biodegradabile dei prodotti, rifiuti e residui provenienti dall'agricoltura, comprendente sostanze vegetali e animali, dalla silvicoltura e dalle industrie connesse, nonche' la frazione biodegradabile dei rifiuti industriali e urbani; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                consumo interno: il dato aggregato corrispondente al totale, calcolato secondo l'allegato II, dei quantitativi immessi in consumo nel Paese per l'insieme degli usi energetici e non energetici; tale aggregato comprende i consumi del settore della trasformazione e i consumi delle industrie, dei trasporti, delle famiglie e degli altri settori di consumo finale; esso comprende altresi' l'autoconsumo del settore dell'energia, fatta eccezione per il combustibile utilizzato in raffineria per la produzione di prodotti petroliferi. L'immissione in consumo e' desunta dal verificarsi dei presupposti per il pagamento dell'accisa o dell'imposta di consumo, anche per i prodotti destinati ad usi esenti. 
+
+                            
+                        
+                        
+                            e)
+                            
+                                decisione internazionale efficace di rilascio delle scorte: qualsiasi decisione in vigore adottata dal consiglio di amministrazione dell'Agenzia internazionale per l'energia, intesa a rendere disponibili sul mercato petrolio greggio o prodotti petroliferi attraverso il rilascio delle scorte dei suoi membri e misure addizionali; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                organismo centrale di stoccaggio (OCS): il soggetto di un Paese membro dell'Unione europea diverso dall'Italia che opera ai fini dell'acquisizione, del mantenimento o della vendita di scorte di petrolio e prodotti petroliferi, comprese le scorte di sicurezza e le scorte specifiche; l'OCSIT e' l'Organismo centrale di stoccaggio italiano; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                interruzione grave dell'approvvigionamento: una riduzione grave e improvvisa dell'approvvigionamento di petrolio greggio o di prodotti petroliferi dell'Unione europea o di uno Stato membro, che abbia comportato o meno una decisione internazionale efficace di rilascio delle scorte; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                bunkeraggi marittimi internazionali: quanto previsto dall'allegato A, punto 2.1, del regolamento (CE) n. 1099/2008; 
+
+                            
+                        
+                        
+                            i)
+                            
+                                scorte petrolifere: scorte di prodotti energetici ((di cui all'allegato A, capitolo 3.4, del regolamento (CE) n. 1099/2008)); 
+
+                            
+                        
+                        
+                            l)
+                            
+                                scorte di sicurezza: scorte petrolifere che ciascuno Stato membro e' tenuto a mantenere ai sensi dell'articolo 3; 
+
+                            
+                        
+                        
+                            m)
+                            
+                                scorte commerciali: scorte petrolifere detenute dagli operatori economici che il presente decreto non impone di detenere; 
+
+                            
+                        
+                        
+                            n)
+                            
+                                scorte specifiche: scorte petrolifere conformi alle condizioni di cui all'articolo 9; 
+
+                            
+                        
+                        
+                            o)
+                            
+                                accessibilita' fisica: le modalita' di localizzazione e trasporto di scorte ai fini del rilascio o dell'effettiva consegna agli utilizzatori finali e ai mercati in tempi e condizioni tali da far fronte ad eventuali problemi di approvvigionamento; 
+
+                            
+                        
+                        
+                            p)
+                            
+                                stabilimento ovvero impianto di stoccaggio ovvero deposito: impianto destinato allo stoccaggio del petrolio, dei prodotti petroliferi, dei biocarburanti e degli additivi costituito da serbatoi ed attrezzature per l'immagazzinamento e la movimentazione dei prodotti energetici ((di cui all'allegato A, capitolo 3.4, del regolamento (CE) n. 1099/2008)); 
+
+                            
+                        
+                        
+                            q)
+                            
+                                operatori economici persone fisiche o giuridiche che producono, importano, esportano commercializzano o detengono prodotti energetici ((di cui all'allegato A, capitolo 3.4, del regolamento (CE) n. 1099/2008)); non sono considerati operatori economici, ai fini del presente decreto, i soggetti che risultano esclusivamente utilizzatori finali di prodotti energetici ((di cui all'allegato A, capitolo 3.4, del regolamento (CE) n. 1099/2008)).
 
 ## Art. 3. — Calcolo degli obblighi di stoccaggio e soggetti tenuti al mantenimento delle scorte petrolifere di sicurezza
 
@@ -67,6 +176,31 @@ I livelli delle scorte detenuti in un determinato momento sono calcolati utilizz
 
 3. Le scorte petrolifere possono essere comprese simultaneamente sia nel calcolo delle scorte di sicurezza, sia nel calcolo delle scorte specifiche, purche' tali scorte soddisfino tutte le condizioni stabilite dal presente decreto per entrambi i tipi di scorte.
 
+4.
+                    
+                        
+                            Nel decreto di cui all'articolo 3, comma 1, sono anche riportati i seguenti valori necessari a determinare la ripartizione dell'obbligo di mantenimento delle scorte di sicurezza tra i soggetti obbligati di cui all'articolo 3, comma 7, secondo il metodo dell'allegato III.2.: 
+ 
+                        
+                        
+                            a)
+                            
+                                l'ammontare complessivo di scorte di sicurezza da costituire e mantenere stoccato per il Paese per l'anno di riferimento, in tonnellate equivalenti di petrolio utilizzando le metodologie riportate nell'allegato I e nell'allegato II; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                l'aggregato totale Italia immesso in consumo dei prodotti soggetti all'obbligo di cui all'articolo 3, comma 7, in tonnellate equivalenti di petrolio, utilizzando i coefficienti riportati nell'allegato III.1, cioe' il valore da utilizzare per suddividere l'ammontare complessivo di scorte da detenere; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                l'obbligo in scorta da costituire e detenere per ogni tonnellata equivalente di petrolio di immesso in consumo dei prodotti soggetti all'obbligo di cui all'articolo 3, comma 7, che ogni soggetto obbligato ha l'onere di detenere per l'anno di riferimento, ottenuto dividendo l'ammontare complessivo di scorte di sicurezza da costituire e mantenere stoccato per il Paese per il totale Italia immesso in consumo.
+
 ## Art. 5.
 
 Disponibilita' delle scorte petrolifere di sicurezza
@@ -78,6 +212,24 @@ Ai fini della identificazione, contabilita' e controllo delle scorte di sicurezz
 Nel caso di scorte di sicurezza e di scorte specifiche che sono mescolate insieme alle scorte commerciali deve essere garantita l'identificabilita' contabile delle scorte di sicurezza e delle scorte specifiche.
 
 E' vietato apporre ostacoli e gravami di qualsiasi natura che possano compromettere la disponibilita' delle scorte di sicurezza e delle scorte specifiche. Le scorte di sicurezza e le scorte specifiche non possono essere pignorate.
+
+5.
+                    
+                        
+                            Le scorte specifiche devono essere detenute esclusivamente sul territorio nazionale, fatto salvo quanto previsto dal comma 3 dell'articolo 8. Le scorte di sicurezza possono essere detenute anche in altri Stati membri della Unione europea entro i seguenti limiti per ciascun soggetto obbligato: 
+ 
+                        
+                        
+                            a)
+                            
+                                100 per cento fino a 30 mila tonnellate equivalenti di petrolio; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                oltre le 30 mila tonnellate equivalenti di petrolio, entro un limite massimo percentuale del 50 per cento fino al 31 dicembre 2014, ridotto di un ulteriore 10 per cento all'anno fino a raggiungere il limite del 20 per cento nel 2017.
 
 In relazione a situazioni particolari di indisponibilita' di logistica da dedicare a scorte di sicurezza sul territorio nazionale o in presenza di condizioni di mercato nazionale della logistica petrolifera particolarmente onerose o al fine di evitare la presenza di elementi distorsivi della concorrenza, nel decreto di cui all'articolo 3, comma 1, puo' essere indicato un limite massimo percentuale di scorte di sicurezza detenibili all'estero differente rispetto a quanto indicato nel comma 5.
 
@@ -118,6 +270,42 @@ L'OCSIT elabora le proposte strategiche di monitoraggio della sicurezza, le anal
 
 Per le attivita' di cui al comma 2, l'OCSIT elabora proposte di strategie operative e gestionali, anche finanziarie, ivi compresa una valutazione della economicita' di quanto previsto al comma 13 tenendo in considerazione le infrastrutture di logistica gia' disponibili per lo stoccaggio sul territorio nazionale anche in considerazione delle disponibilita' attuali e prevedibili di logistica per aree territoriali di consumo a livello regionale.
 
+11.
+                    
+                        
+                            Fatto salvi i limiti di cui all'articolo 5, comma 5, l'OCSIT puo', per un periodo specifico, delegare compiti relativi alla gestione delle scorte di sicurezza e, tranne la vendita o l'acquisizione, delle scorte specifiche, unicamente a: 
+ 
+                        
+                        
+                            a)
+                            
+                                un altro Stato membro dell'Unione europea sul territorio del quale si trovano tali scorte o all'OCS istituito da tale Stato membro. I compiti delegati non possono essere sottodelegati ad altri Stati membri dell'Unione europea o agli OCS da essi istituiti. Tale delega e' subordinata alla autorizzazione preventiva del Ministero dello sviluppo economico; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                operatori economici, senza possibilita' di sottodelegare tali compiti. Qualora tale delega, o ogni modifica o estensione di tale delega, interessi compiti relativi alla gestione di scorte di sicurezza detenute in un altro Stato membro dell'Unione europea, questa deve essere autorizzata preventivamente sia dal Ministero dello sviluppo economico in rappresentanza dello Stato italiano per conto del quale le scorte sono detenute, sia da tutti gli Stati membri dell'Unione europea in cui tali scorte saranno detenute.
+
+12.
+                    
+                        
+                            L'OCSIT accetta le deleghe di cui alle lettere a) e b) di seguito indicato a condizioni oggettive, trasparenti e non discriminatorie. Fermo restando la necessita' di rispettare l'equilibrio economico, patrimoniale e finanziario dell'OCSIT, le remunerazioni dovute dai soggetti obbligati di cui all'articolo 3, comma 7, per i servizi delegati all'OCSIT non superano i costi totali dei servizi forniti e non possono essere richieste fino a che le scorte non siano costituite. L'OCSIT puo' subordinare l'accettazione della delega a una garanzia o altra forma di assicurazione fornita dai soggetti obbligati di cui all'articolo 3, comma 7. L'OCSIT ha l'obbligo, a decorrere dal 1° gennaio 2015, ai fini dell'articolo 8, commi 1, 2 e 3, di pubblicare: 
+ 
+                        
+                        
+                            a)
+                            
+                                in maniera continua informazioni complete, per tipologie di prodotti, sui volumi delle scorte di sicurezza e specifiche di cui esso intenda assicurare il mantenimento per i soggetti obbligati di cui all'articolo 3, comma 7, o, se opportuno, per gli OCS ed operatori economici interessati di altri Stati membri; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                con almeno sette mesi di anticipo, le condizioni alle quali e' disposto a offrire ai soggetti obbligati di cui all'articolo 3, comma 7, i servizi relativi al mantenimento delle scorte di sicurezza e specifiche. Le condizioni alle quali possono essere forniti tali servizi, ivi comprese le condizioni relative alla programmazione, saranno determinate dall'OCSIT.
+
 Gli impianti di stoccaggio dell'OCSIT di cui al comma 14 e tutte le opere ad essi connesse, indipendentemente dalla loro dimensione, rientrano tra le infrastrutture energetiche strategiche di cui agli articoli 57 e 57-bis del decreto-legge 9 febbraio 2012, n. 5, convertito, con modificazioni, dalla legge 4 aprile 2012, n. 35, e successive modificazioni.
 
 La realizzazione e l'esercizio di nuovi impianti di stoccaggio da parte dell'OCSIT o il rifacimento di quelli esistenti, comportante una variazione di oltre il 30 per cento della capacita' complessiva di stoccaggio, di quelli acquisiti dall'OCSIT o di quelli che gli sono affidati in comodato gratuito o in locazione, e tutte le opere ad essi connesse, sono soggetti alla autorizzazione unica di cui agli articoli 57 e 57-bis di cui al comma 13, alla quale si applicano le disposizioni del comma 8-bis dell'articolo 1 della legge 23 agosto 2004, n. 239, introdotto dall'articolo 38 del decreto legge 22 giugno 2012, n. 83, convertito con legge 7 agosto 2012, n. 134.
@@ -130,6 +318,38 @@ Al fine di garantire la migliore operativita' del nuovo sistema di tenuta delle 
 
 ## Art. 8. — Operatori economici
 
+1.
+                    
+                        
+                            Fatto salvi i limiti di cui all'articolo 5, comma 5, ai soggetti obbligati di cui all'articolo 3, comma 7, e' concesso il diritto di delegare tali obblighi di scorte unicamente: 
+ 
+                        
+                        
+                            a)
+                            
+                                all'OCSIT; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                a uno o piu' altri OCS che hanno gia' dato la loro disponibilita' a detenere tali scorte, purche' la delega sia stata autorizzata preventivamente sia dallo Stato italiano per conto del quale tali scorte sono detenute, sia da tutti gli Stati membri della Unione europea nel cui territorio le scorte saranno detenute; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                ad altri operatori economici che dispongono di scorte in eccesso o di capacita' di stoccaggio disponibili nel territorio comunitario al di fuori del territorio dello Stato italiano, purche' tale delega sia stata autorizzata preventivamente sia dal Ministero dello sviluppo economico che dagli organi competenti degli Stati membri della Unione europea nel cui territorio le scorte sono detenute e previa assicurazione di questi ultimi sulla effettuazione dei controlli in ottemperanza alle disposizioni della direttiva 2009/119/CE; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                ad altri operatori economici che dispongono di scorte in eccesso o di capacita' di stoccaggio disponibili nel territorio dello Stato italiano, purche' tale delega sia stata comunicata preventivamente al Ministero dello sviluppo economico. Con decreto del Ministro dello sviluppo economico potranno essere definiti limiti o condizioni e modalita' operative a tali deleghe.
+
 Gli obblighi delegati in conformita' alle lettere c) e d) non possono essere sottodelegati. Ogni modifica o estensione di una delega di cui alle lettere b) e c) puo' avere effetto solo se autorizzata preventivamente dagli organi competenti degli Stati membri della Unione europea interessati. Ogni modifica o estensione di una delega di cui alla lettera d) e' considerata una nuova delega.
 
 Nel limitare i diritti di delega ai soggetti obbligati di cui all'articolo 3, comma 7, con il decreto di cui al comma 1 e' assicurato che i diritti di delega di un operatore economico siano superiori al 30 per cento degli obblighi di stoccaggio a esso imposti.
@@ -141,6 +361,39 @@ Il Ministero dello sviluppo economico, in considerazione dell'eventuale impegno 
 L'OCSIT mantiene un livello minimo di scorte petrolifere, calcolato sulla base dei giorni di consumo, in conformita' delle condizioni enunciate nel presente articolo. Le scorte specifiche sono di proprieta' dell'OCSIT e sono mantenute sul territorio dello Stato Italiano.
 
 ((2. Le scorte specifiche possono essere costituite soltanto dalle tipologie di prodotti di seguito elencate, definite nell'allegato A, capitolo 3.4, del regolamento (CE) n. 1099/2008.))
+
+3.
+                    
+                        
+                            Con il decreto di cui all'articolo 3, comma 1, sono identificati i prodotti petroliferi che compongono le scorte specifiche italiane sulla base delle tipologie elencate al comma 2, assicurando che, per l'anno di riferimento, determinato in conformita' delle norme previste all'articolo 3 e relativamente ai prodotti inclusi nelle tipologie utilizzate, l'equivalente in petrolio greggio di quantita' consumate nello Stato membro rappresenti almeno il 75 % del consumo interno, calcolato secondo il metodo di cui all'allegato II. Per ciascuna delle tipologie identificate con il decreto di cui all'articolo 3, comma 1, le scorte specifiche che lo Stato italiano si impegna a mantenere corrispondono a un numero determinato di giorni di consumo giornaliero medio misurato sulla base del loro equivalente in petrolio greggio e nel corso dell'anno di riferimento, determinato in conformita' delle norme previste all'articolo 3.
+L'elenco delle tipologie usate resta in vigore per almeno un anno e puo' essere modificato soltanto con effetto dal primo giorno del mese ed entra in vigore nell'anno civile successivo a quello in cui viene adottato per i prodotti diversi da quelli del capoverso seguente. Le scorte specifiche sono costituite almeno dai seguenti prodotti: 
+ 
+                        
+                        
+                            a)
+                            
+                                benzina per motori; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                jet fuel del tipo cherosene; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                gasolio; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                olio combustibile.
 
 ((Gli equivalenti in petrolio greggio di cui al comma 3 sono calcolati moltiplicando per il fattore 1,2 la somma delle consegne interne lorde osservate, definite nell'allegato C, punto 3.2.2.11, del regolamento (CE) n. 1099/2008 per i prodotti compresi nelle categorie utilizzate o interessate. Nel calcolo non si tiene conto dei bunkeraggi marittimi internazionali.))
 
@@ -207,6 +460,31 @@ L'archivio cartaceo storico dei dati della gestione delle scorte d'emergenza pet
 
 Si tiene conto dei biocarburanti e degli additivi ai fini del calcolo degli obblighi di stoccaggio in applicazione degli articoli 3 e 9, unicamente qualora siano miscelati ai prodotti petroliferi interessati.
 
+2.
+                    
+                        
+                            Nel calcolo dei livelli delle scorte effettivamente mantenuti si tiene conto dei biocarburanti e degli additivi qualora: 
+ 
+                        
+                        
+                            a)
+                            
+                                siano miscelati ai prodotti petroliferi interessati; oppure 
+
+                            
+                        
+                        
+                            b)
+                            
+                                siano stoccati nel territorio dello Stato italiano, purche' sia garantito, con autocertificazione ai sensi dell'articolo 46 del decreto del Presidente della Repubblica 28 dicembre 2000, n. 445, dai soggetti obbligati di cui all'articolo 3, comma 7, che tali biocarburanti siano destinati ad essere miscelati a prodotti petroliferi detenuti conformemente agli obblighi di stoccaggio stabiliti nel presente decreto e che siano destinati ad essere utilizzati nei trasporti; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                siano stoccati nel territorio di uno Stato membro dell'Unione europea diverso dallo Stato italiano, purche' tale Stato membro abbia adottato norme atte a garantire che tali biocarburanti siano destinati ad essere miscelati a prodotti petroliferi detenuti conformemente agli obblighi di stoccaggio stabiliti nel presente decreto e che siano destinati ad essere utilizzati nei trasporti.
+
 Nell'articolo 1, comma 8, lettera c) della legge 23 agosto 2004, n. 239, sono sostituite le parole "il biodiesel" con le parole "i biocarburanti ed i bioliquidi".
 
 L'articolo 57 del decreto legge 9 febbraio 2012, n. 5, convertito con modificazione dalla legge 4 aprile 2012, n. 35, al comma 1 lettera d) sono sostituite le parole "di prodotti petroliferi" con le parole "di oli minerali" e il comma 8-bis e' abrogato.
@@ -248,6 +526,24 @@ Il presente decreto non pregiudica e non lede in alcun modo il livello di tutela
 Con decreto del Ministro dello sviluppo economico, da adottare entro 90 giorni dalla data di entrata in vigore del presente decreto, sono stabilite le procedure e adottate le misure necessarie affinche' i soggetti obbligati e l'OCSIT possano rilasciare velocemente, con efficacia e trasparenza tutte o parte delle loro scorte di sicurezza e delle loro scorte specifiche, in caso di interruzione grave dell'approvvigionamento, nonche' per limitare a livello generale o specifico i consumi in funzione dei deficit di approvvigionamento previsti, anche assicurando in via prioritaria la fornitura di prodotti petroliferi a determinate categorie di utilizzatori.
 
 Entro 180 giorni dalla data di entrata in vigore del presente decreto, il Ministero dello sviluppo economico predispone, anche su proposta dell'OCSIT, un piano di interventi da attuare in caso di interruzione grave dell'approvvigionamento dove sono definite le misure organizzative atte a garantire l'attuazione dei piani in questione. Su richiesta, il Ministero dello sviluppo economico informa la Commissione europea in merito al piano di interventi e alle relative disposizioni di natura organizzativa.
+
+3.
+                    
+                        
+                            In caso di una decisione internazionale efficace di rilascio delle scorte: 
+ 
+                        
+                        
+                            a)
+                            
+                                il Ministro dello sviluppo economico, sentito il Comitato per l'emergenza petrolifera operante presso il Dipartimento per l'energia, puo' disporre il rilascio delle scorte di sicurezza e delle scorte specifiche per far fronte agli obblighi internazionali che incombono sull'Italia in virtu' di tale decisione. In questo caso, il Ministero dello sviluppo economico informa immediatamente la Commissione europea in modo che possa convocare il Gruppo di coordinamento o consultare i membri di tale gruppo per via elettronica, allo scopo in particolare di valutare gli effetti di tale rilascio; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                il Ministro dello sviluppo economico, nell'autorizzare il rilascio di cui alla lettera a), tiene conto delle eventuali raccomandazioni della Commissione europea adottate nel caso specifico.
 
 Il Ministero dello sviluppo economico, in mancanza di una decisione internazionale efficace di rilascio delle scorte, ma qualora nello Stato italiano si incontrino difficolta' di approvvigionamento di petrolio e di prodotti petroliferi, sentito il Comitato per l'emergenza petrolifera, chiede la consultazione del Gruppo di coordinamento ai fini della verifica e successiva dichiarazione della Commissione europea di interruzione grave dell'approvvigionamento con eventuale autorizzazione al rilascio di tutte o parte delle scorte di sicurezza e delle scorte specifiche.
 
@@ -323,6 +619,52 @@ In deroga a quanto previsto all'articolo 5, comma 5, e all'articolo 9, comma 7, 
 A decorrere dal 1° gennaio 2013 il Ministero dello sviluppo economico adegua tramite decreto direttoriale le procedure per la detenzione delle scorte in altri Paesi dell'Unione Europea e delle scorte tenute sul territorio nazionale per conto di altri Paesi dell'Unione Europea, anche sulla base della disciplina adottata in materia dagli Stati Membri in sede di recepimento della direttiva 2009/119/CE ed atti conseguenti.
 
 ## Art. 26. — Abrogazioni
+
+1.
+                    
+                        
+                            Dalla data di entrata in vigore del presente decreto sono abrogati: 
+ 
+                        
+                        
+                            a)
+                            
+                                il decreto legislativo 31 gennaio 2001, n. 22, recante attuazione della direttiva 98/93/CE che modifica la direttiva 68/414/CEE, concernente l'obbligo per gli Stati membri di mantenere un livello minimo di scorte di petrolio greggio e di prodotti petroliferi; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                l'articolo 5 del decreto legislativo 11 febbraio 1998, n. 32, recante razionalizzazione del sistema di distribuzione dei carburanti, a norma dell'articolo 4, comma 4, lettera c), della legge 15 marzo 1997, n. 59, e gli articoli 8 e 9 dello stesso decreto legislativo 11 febbraio 1998, n. 32, che istituivano l'Agenzia nazionale delle scorte di riserva; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                il decreto del Ministro delle attivita' produttive 19 settembre 2002; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                il decreto del Ministro dello sviluppo economico 31 luglio 2006; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                il decreto del Ministro delle attivita' produttive del 7 gennaio 2003; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                il decreto del Ministro dello sviluppo economico 14 febbraio 2007, recante modifiche alla disciplina delle sostituzioni tra prodotti petroliferi soggetti ad obbligo di scorta.
 
 ## Art. 27. — Disposizioni finali
 

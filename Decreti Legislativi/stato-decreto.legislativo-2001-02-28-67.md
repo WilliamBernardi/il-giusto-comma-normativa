@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
 vigenza_date: 2017-01-01
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:30Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -94,6 +94,24 @@ d) in aspettativa per qualsivoglia motivo concessa per un periodo non inferiore 
  i ruoli ispettori e sovrintendenti. Generalita)
 
 Il titolo III del decreto di inquadramento e' ridenominato "RUOLO SOVRINTENDENTI E RUOLO ISPETTORI".
+
+2.
+                    
+                        
+                            L'articolo 15 del decreto di inquadramento ("Ruoli dei sottufficiali") e' modificato come segue:
+ 
+                        
+                        
+                            a)
+                            
+                                il titolo dell'articolo e' ridenominato in "Ruolo sovrintendenti e ruolo ispettori";
+
+                            
+                        
+                        
+                            b)
+                            
+                                il comma 1 e' soppresso.
 
 ## Art. 4. — (Disposizioni integrative e correttive riguardanti
  il ruolo dei sovrintendenti)
@@ -528,9 +546,76 @@ All'articolo 80 del decreto di inquadramento ("Norma di equivalenza"), dopo il c
 
 ## Art. 11. — (Disposizioni transitorie per i brigadieri capo e gli appuntati scelti)
 
+1.
+                    
+                        
+                            Ai brigadieri capo in servizio alla data di entrata in vigore del presente decreto, in possesso dei requisiti di cui all'articolo 73-ter, commi 1 e 3, del decreto di inquadramento, lo scatto aggiuntivo di cui al medesimo articolo, e' attribuito con le seguenti modalita':
+
+
+                        
+                        
+                            a)
+                            
+                                con decorrenza dalla medesima data di entrata in vigore del presente decreto, al personale che, alla stessa data, abbia gia' maturato quattro anni di effettivo servizio nel grado;
+                            
+                        
+                        
+                            b)
+                            
+                                al restante personale, con decorrenza dalla data in cui maturera' quattro anni di effettivo servizio nel grado.
+
+2.
+                    
+                        
+                            Agli appuntati scelti in servizio alla data di entrata in vigore del presente decreto, in possesso dei requisiti di cui all'articolo 73-bis del decreto di inquadramento, lo scatto aggiuntivo di cui al medesimo articolo, e' attribuito con le seguenti modalita':
+
+
+                        
+                        
+                            a)
+                            
+                                con decorrenza dalla medesima data di entrata in vigore del presente decreto, al personale che, alla stessa data, abbia gia' maturato quattro anni di effettivo servizio nel grado;
+                            
+                        
+                        
+                            b)
+                            
+                                al restante personale, con decorrenza dalla data in cui maturera' quattro anni di effettivo servizio nel grado.
+
 Gli scatti aggiuntivi di cui ai commi 1 e 2 sono riassorbibili in caso di passaggio ad un livello retributivo superiore.
 
 ## Art. 12. — Disposizioni transitorie per i marescialli aiutanti
+
+1.
+                    
+                        
+                            A decorrere dall'entrata in vigore del presente decreto, in deroga ai requisiti di anzianita' previsti dai commi 1, lettere a), degli articoli 58-ter e 58-quater del decreto di inquadramento, ai marescialli aiutanti, comunque in servizio alla medesima data nel Corpo della Guardia di finanza, che: 
+
+                        
+                        
+                            a)
+                            
+                                hanno conseguito il grado di maresciallo maggiore del preesistente ruolo sottufficiali, compresi coloro a cui e' stata attribuita la qualifica di "aiutante" e la nomina a "carica speciale", con decorrenza anteriore al 1 settembre 1995: 
+ (1) e' attribuito il trattamento economico aggiuntivo di cui all'articolo 58-ter del decreto di inquadramento, fermo restando il possesso, alla medesima data di entrata in vigore del presente decreto, dei requisiti di cui alle lettere b), c) e d) previsti dal medesimo articolo; 
+ (2) e' conferita, nell'ordine di iscrizione nel ruolo di appartenenza, la qualifica di luogotenente di cui all'articolo 58-quater del decreto di inquadramento, con l'attribuzione del relativo trattamento economico, fermo restando il possesso, alla medesima data di entrata in vigore del presente decreto, dei requisiti di cui alle lettere b), c) e d) previsti dal medesimo articolo; 
+                            
+                        
+                        
+                            b)
+                            
+                                hanno conseguito ovvero conseguano tale grado con decorrenza anteriore alla data di entrata in vigore dello stesso decreto, e' attribuito lo scatto aggiuntivo previsto dall'articolo 58-ter del decreto di inquadramento, fermo restando il possesso dei requisiti di cui alle lettere b),
+                            
+                        
+                        
+                            c)
+                            
+                                e
+                            
+                        
+                        
+                            d)
+                            
+                                previsti dal medesimo articolo.
 
 Ai marescialli aiutanti, comunque in servizio al 1 gennaio 2005, che hanno conseguito il grado di maresciallo maggiore del preesistente ruolo sottufficiali, compresi coloro a cui e' stata attribuita la qualifica di "aiutante" e la nomina a "carica speciale", con decorrenza anteriore al 1 settembre 1995, i quali, alla medesima data del 1 gennaio 2005, non risultino in possesso dei requisiti di cui all'articolo 58-quater, comma 1, lettere b) e c), del decreto di inquadramento, la qualifica di luogotenente e' conferita con decorrenza dal giorno successivo a quello di maturazione dei requisiti di cui alle lettere b) e c) dell'articolo 58-quater del decreto di inquadramento, ferme restando le condizioni indicate alla lettera d) dello stesso articolo. (2)
 

@@ -8,8 +8,8 @@ codice_redazionale: 091G0114
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:39Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -28,4 +28,39 @@ Valutate, in relazione alle condizioni di vincolo, le esigenze di contenere comu
 Sentita la Commissione consultiva permanente per la prevenzione degli infortuni e l'igiene del lavoro;
 
 ## Art. 1.
+
+1.
+                    
+                        
+                            Per gli idroestrattori a funzionamento continuo del tipo a spinta a carcassa chiusa con carico e scarico a flusso continuo, impiegati nell'industria degli esplosivi, il dispositivo di frenatura di cui all'art. 130 del decreto del Presidente della Repubblica 27 aprile 1955, n. 547, puo' essere sostituito con un sistema automatico di rilevamento di squilibrio rispondente ai seguenti requisiti:
+ 
+                        
+                        
+                            a)
+                            
+                                che sia posizionato, tarato e collaudato con certificazione delle prove, da un tecnico della ditta costruttrice della macchina o da un tecnico abilitato;
+
+                            
+                        
+                        
+                            b)
+                            
+                                che sia costruito a regola d'arte, con protezione contro il semplice guasto;
+
+                            
+                        
+                        
+                            c)
+                            
+                                che sia in grado di intervenire sulle funzioni della macchina:
+ 1) interrompendo istantaneamente l'alimentazione del prodotto;
+ 2) disattivando istantaneamente il circuito di alimentazione del motore della girante;
+ 3) provvedendo affinche' l'azione di spinta per lo scarico del prodotto sia mantenuta almeno sino all'arresto della girante;
+
+                            
+                        
+                        
+                            d)
+                            
+                                che non sia autoreinseribile.
 

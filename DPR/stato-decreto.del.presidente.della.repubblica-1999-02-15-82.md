@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: DPR
 vigenza_date: 2006-11-22
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:47:47Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -162,6 +162,42 @@ Il personale del Corpo di polizia penitenziaria ha l'obbligo di porre particolar
 
 Il personale ha altresi', l'obbligo di porre particolare cura affinche' l'acconciatura dei capelli, della barba e dei baffi, nonche' i cosmetici da trucco, eventualmente usati dal personale femminile, siano compatibili con il decoro della divisa e la dignita' della funzione, evitando ogni forma di appariscenza.
 
+3.
+                        
+                            
+                                Il suddetto personale cura in particolare:
+ 
+                            
+                            
+                                a)
+                                
+                                    se di sesso femminile, che i capelli siano tenuti in modo tale da lasciare scoperta la fronte, per consentire di portare il copricapo calzato;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    se di sesso maschile, che la barba, i baffi e i capelli siano di moderata lunghezza e che questi ultimi siano tenuti in modo tale da lasciare scoperta la fronte, per consentire di portare il copricapo calzato.
+
+4.
+                        
+                            
+                                Al personale del Corpo di polizia penitenziaria, quando indossa l'uniforme, e' fatto divieto:
+ 
+                            
+                            
+                                a)
+                                
+                                    di indossare o portare effetti di vestiario, accessori e materiali di equipaggiamento non previsti espressamente dalle disposizioni in vigore;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    di variare la foggia dell'uniforme o di indossare elementi ornamentali che ne alterino l'assetto formale.
+
 Al personale del Corpo di polizia penitenziaria, quando indossa l'abito civile ed e' fuori servizio, e' fatto divieto di usare capi di vestiario e di equipaggiamento costituenti parte dell'uniforme o delle sue dotazioni.
 
 ## Art. 15. — Doveri di comportamento
@@ -304,6 +340,91 @@ Il comandante del reparto del Corpo di polizia penitenziaria in servizio negli i
 
 Il comandante del reparto assicura il mantenimento dell'ordine e della sicurezza dell'istituto e garantisce la scrupolosa osservanza, da parte del personale dipendente, dei detenuti ed internati, nonche' di tutti coloro che, a qualsiasi titolo, entrano nell'istituto penitenziario, delle norme legislative e regolamentari vigenti, delle direttive del Dipartimento dell'Amministrazione penitenziaria e del provveditore regionale, e delle disposizioni impartite dal direttore, vigilando affinche' il trattamento dei detenuti e degli internati sia improntato ad assoluta imparzialita', sia conforme ad umanita' ed assicuri il rispetto della dignita' della persona.
 
+5.
+                        
+                            
+                                In particolare, il comandante del reparto:
+ 
+                            
+                            
+                                a)
+                                
+                                    informa il direttore, immediatamente, su ogni fatto dal quale possa derivare pericolo per l'ordine e la sicurezza dell'istituto e, quotidianamente, sull'andamento dei servizi e sulle eventuali infrazioni commesse dal personale del Corpo e dai detenuti ed internati;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    dirige e coordina le unita' operative, fermo restando quanto disposto dall'articolo 51;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    indice riunioni periodiche per illustrare al personale del Corpo le disposizioni che regolano il servizio;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    partecipa alle riunioni di gruppo di cui agli articoli 28 e 29 del decreto dei Presidente della Repubblica 29 aprile 1976, n. 431, anche utilizzando gli elementi di osservazione raccolti dal personale ai fini di cui ai numeri 8) e 9) del comma 2 dell'articolo 24;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    esercita la sua autonomia affinche' il reparto operi per assicurare il raggiungimento dei fini istituzionali.
+
+6.
+                        
+                            
+                                Il comandante del reparto, inoltre, in conformita' delle direttive emanate dal direttore, impartisce le opportune disposizioni, verificandone l'osservanza, affinche':
+ 
+                            
+                            
+                                a)
+                                
+                                    l'armamento di cui al decreto del Presidente della Repubblica 12 dicembre 1992, n. 551, sia custodito secondo quanto disposto dall'articolo 19;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le chiavi dell'istituto siano adeguatamente custodite;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    i detenuti e gli internati, nonche' le loro camere, siano perquisiti in tutti i casi previsti dalle vigenti disposizioni in materia;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    tutti i locali dell'istituto siano quotidianamente, piu' volte, ispezionati e sia accertato il numero dei detenuti e internati presenti al mattino dopo la sveglia, alla sera prima del riposo, ad ogni cambio di turno ed in ogni altra occasione in cui si renda necessario, prendendo nota di tali operazioni in apposito registro;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    i prescritti controlli sulle cose e sulle persone che entrano o escono dall'istituto vengano regolarmente effettuati;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    i colloqui, la corrispondenza telefonica, epistolare e telegrafica dei detenuti e internati avvengano secondo le disposizioni vigenti in materia.
+
 Quando ricorrono le situazioni di cui all'articolo 88 del decreto del Presidente della Repubblica 29 aprile 1976, n. 431 e successive modifiche, il comandante del reparto del Corpo di polizia penitenziaria dell'istituto, in assenza del direttore o di chi ne fa le veci, in caso di urgenza, chiede l'intervento della Polizia di Stato e delle Forze armate in servizio di pubblica sicurezza, riferendone al piu' presto al direttore.
 
 ## Art. 32. — Supplenza temporanea nella funzione di comandante del reparto
@@ -315,6 +436,52 @@ Il provveditore regionale dell'Amministrazione penitenziaria puo' in ogni caso d
 ## Art. 33. — Unita' operative
 
 Nell'ambito del reparto sono organizzate unita' operative, che comprendono piu' posti di servizio, in ragione della natura delle funzioni e dei compiti da svolgere. In relazione al numero dei componenti o alla specifica rilevanza dei compiti svolti, ad esse e' preposto personale dei ruoli dei sovrintendenti e degli ispettori, secondo quanto stabilito dall'articolo 14 della legge 15 dicembre 1990, n. 395 e dagli articoli 15, commi 3 e 4, e 23, comma 2, del decreto legislativo 30 ottobre 1992, n. 443. Il coordinamento di piu' unita' operative puo' essere affidato ad appartenenti al ruolo degli ispettori o dei sovrintendenti, secondo le rispettive competenze in base alle norme sopraindicate.
+
+2.
+                        
+                            
+                                Le unita' operative comprendono uno o piu' complessi funzionali concernenti, principalmente:
+ 
+                            
+                            
+                                a)
+                                
+                                    la predisposizione dei turni di servizio;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'ordine e la sicurezza, ivi compresa la vigilanza armata;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    la ricezione e la dimissione dei detenuti e degli internati ed altri adempimenti connessi, nonche' comunicazioni informatiche e successivi aggiornamenti;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    le traduzioni dei detenuti e degli internati ed il piantonamento dei medesimi quando sono ricoverati in luoghi esterni di cura;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    l'armamento, l'equipaggiamento, il vestiario uniforme del personale del Corpo di polizia penitenziaria;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    i mezzi di trasporto del Corpo di polizia penitenziaria.
 
 Le unita' operative sono definite con provvedimento motivato del direttore dell'istituto o servizio penitenziario, scuola o istituto di istruzione, acquisito il parere del comandante del reparto ovvero su proposta dello stesso. Tale proposta puo' essere respinta dal direttore con provvedimento motivato.
 
@@ -399,6 +566,73 @@ I preposti ai singoli servizi sono di regola scelti tra gli appartenenti ai ruol
 
 Il personale del Corpo di polizia penitenziaria effettua il servizio di vigilanza sui detenuti ed internati addetti ad attivita' lavorative organizzate dall'Amministrazione penitenziaria fuori dall'istituto, all'aperto o in appositi locali.
 
+2.
+                        
+                            
+                                Il responsabile della vigilanza deve, in particolare:
+ 1) fare l'appello dei lavoranti e farli perquisire prima di uscire dall'istituto, al momento del rientro e, ove occorra, durante il lavoro;
+ 2) accertare di frequente che tutti i lavoranti siano presenti;
+ 3) distribuire, durante l'andata ed il ritorno e sul luogo del lavoro, il personale addetto alla vigilanza in modo che i lavoranti rimangano sempre sotto controllo;
+ 4) far perlustrare attentamente i luoghi nei quali si svolge il lavoro, anche per evitare che i lavoranti possano nascondersi, allontanarsi o essere avvicinati da persone estranee;
+ 5) osservare scrupolosamente le disposizioni contenute nell'ordine di servizio di cui all'articolo 29 e chiamare il preposto al servizio, ove occorra.
+ 6) rilevare e riferire sull'impegno dei detenuti e degli internati nello svolgimento del lavoro e sulle modalita' dei loro rapporti interpersonali, anche ai fini di cui ai numeri 8) e 9) del comma 2 dell'articolo 24.
+ 3. il personale addetto alla vigilanza, in particolare, deve:
+ 
+                            
+                            
+                                a)
+                                
+                                    perquisire i lavoranti nei casi di cui al comma 2, numero 1);
+
+                                
+                            
+                            
+                                b)
+                                
+                                    sorvegliare costantemente i lavoranti per impedirne ogni tentativo di fuga;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    controllare che i lavoranti svolgano regolarmente la loro attivita';
+
+                                
+                            
+                            
+                                d)
+                                
+                                    informare il responsabile della vigilanza sugli elementi di cui al n. 6) del comma 2, nonche' di ogni fatto rilevante per l'ordine, la disciplina e la sicurezza;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    impedire che ai lavoranti si avvicinino persone estranee;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    evitare di intrattenersi a parlare con alcuno;
+
+                                
+                            
+                            
+                                g)
+                                
+                                    non abbandonare, in caso di sostituzione, la vigilanza prima dell'arrivo del sostituto;
+
+                                
+                            
+                            
+                                h)
+                                
+                                    osservare scrupolosamente le disposizioni contenute nell'ordine di servizio di cui all'articolo 29 e chiamare il responsabile della vigilanza, ove occorra.
+
 ## Art. 41. — Servizio di portineria
 
 Il personale del Corpo di polizia penitenziaria addetto al servizio di portineria e' responsabile degli ingressi dell'istituto e delle relative chiavi o degli altri sistemi di chiusura, nonche' del controllo di chiunque, a qualsiasi titolo, entri od esca dall'istituto.
@@ -459,6 +693,38 @@ Fermo restando quanto previsto dagli accordi sindacali, il personale di cui al c
 
 ## Art. 46. — Gestione operativa degli elaboratori periferici
  dell'Amministrazione penitenziaria
+
+1.
+                        
+                            
+                                Il personale del Corpo di polizia penitenziaria che, a seguito di apposito corso di formazione curato dall'Amministrazione penitenziaria, viene addetto agli elaboratori periferici del sistema informativo automatizzato, svolge tutte le attivita' connesse alla gestione operativa dei sistemi di elaborazione e, in particolare, effettua le seguenti operazioni:
+ 
+                            
+                            
+                                a)
+                                
+                                    avviamento del sistema;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    controllo operativo continuo del funzionamento del sistema e dei supporti di telecomunicazione;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    salvataggio dei dati e ripristino degli archivi;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    chiusura ordinata del sistema.
 
 Il personale di cui al comma 1 deve, inoltre, osservare scrupolosamente le disposizioni contenute nell'ordine di servizio di cui all'articolo 29 e chiamare il preposto al servizio, ove occorra.
 
@@ -552,6 +818,66 @@ Il preposto alla base navale e' alle dirette dipendenze del direttore dell'istit
 
 Il preposto alla base navale puo' essere coadiuvato da personale di coperta e di macchina appartenente al Corpo di polizia penitenziaria.
 
+4.
+                        
+                            
+                                Il preposto alla base navale, in particolare, e' responsabile, nei confronti del direttore dell'istituto penitenziario:
+ 
+                            
+                            
+                                a)
+                                
+                                    dell'impiego del naviglio per lo svolgimento dell'attivita' operativa e logistica ordinaria e di quella che si rendesse necessaria per compiti di soccorso, salvataggio ed assistenza;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    del grado di prontezza operativa di ciascuna unita' navale, intendendosi per essa il tempo massimo, dal momento della ricezione dell'ordine, entro il quale deve poter partire avendo recuperato il personale assente e ripristinato eventuali apparecchiature e macchinari smontati;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    delle modalita' di esecuzione di appropriati turni di sorveglianza del naviglio all'ormeggio che, per quanto concerne le unita' ed i mezzi navali, devono in ogni caso prevedere la presenza a bordo di almeno una persona;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    delle attivita' connesse all'efficienza del naviglio, provvedendo a tal fine:
+ 1) alla programmazione dei lavori principali da eseguirsi a cura degli stabilimenti o dei cantieri, oltreche' delle manutenzioni, delle verifiche e delle visite periodiche da eseguirsi a cura del personale di bordo;
+ 2) ad individuare le dotazioni di pezzi di rispetto e di attrezzature, da conservarsi sia a bordo sia a terra, occorrenti per mantenere l'approntamento operativo del naviglio, e a controllarne periodicamente l'adeguatezza e l'approvvigionamento;
+ 3) a richiedere che siano effettuate le riparazioni, le verifiche, le messe a punto, disponendole direttamente in caso di urgenza con i mezzi assegnati a tale scopo e riferendone al direttore dell'istituto;
+ 4) a mantenere i necessari contatti con gli stabilimenti o i cantieri per la definizione ed esecuzione sia dei lavori programmati sia di eventuali riparazioni o interventi non eseguibili a cura del personale di bordo;
+ 5) a procurare che siano assicurati i rifornimenti di viveri, vestiario, combustibile ed altri materiali di consumo;
+ 6) a verificare la corretta applicazione delle norme per la condotta, la manutenzione e la conservazione dei materiali ed esigendo, qualora queste non siano state specificatamente emanate, che siano comunque adottati i criteri della razionalita', dell'economia, della sicurezza e della previdenza;
+ 7) a promuovere indagini per l'accertamento delle cause all'origine di avarie o inconvenienti di natura anomala, anche, se del caso, con l'intervento di organi tecnici competenti;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    dell'appropriato assetto esterno ed interno del naviglio, in porto ed in navigazione, della regolare tenuta dei documenti di bordo, della disciplina e della cura delle uniformi, anche a mezzo di ispezioni;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    delle sostituzioni temporanee di personale che si rendono necessarie per assicurare l'operativita' del naviglio;
+
+                                
+                            
+                            
+                                g)
+                                
+                                    dell'organizzazione ed il funzionamento del magazzino e dell'officina, nonche' della custodia e conservazione dei relativi materiali e delle altre infrastrutture in uso al servizio navale.
+
 ## Art. 56. — Personale navigante
 
 La condotta del naviglio e' affidata a personale del Corpo di polizia penitenziaria qualificato al servizio navale mediante apposita abilitazione agli incarichi di coperta o di macchina conseguita al termine di corsi svolti presso le scuole sottufficiali della Marina Militare, presso le scuole nautiche della Guardia di finanza o di altre Forze di polizia, o presso altri istituti o scuole di formazione navale.
@@ -573,19 +899,390 @@ Il comandante impersona l'unita' o il mezzo navale affidatogli ed ha, su tutto i
 
 Il comandante riferisce al preposto alla base navale cui e' assegnata, anche temporaneamente, l'unita' sulle missioni compiute o da compiere, sui rifornimenti e sulle riparazioni occorrenti, attenendosi, per la compilazione e l'invio delle relazioni e dei rapporti, a quanto previsto dalle norme in vigore.
 
+3.
+                        
+                            
+                                Il comandante ha i seguenti doveri e attribuzioni:
+ 1) e' responsabile dell'efficienza dell'unita' nel suo complesso di personale, mezzi ed organizzazione;
+ 2) dispone la sostituzione in via provvisoria del personale mancante o inabilitato con altro personale in possesso di abilitazioni affini e presente a bordo;
+ 3) provvede a richiedere tempestivamente i rifornimenti, i reintegri delle dotazioni e le riparazioni occorrenti;
+ 4) attua le predisposizioni idonee ad assicurare il grado di prontezza operativa assegnato all'unita' ed informa immediatamente il superiore da cui dipende allorche' insorgono fatti che impediscono il mantenimento di tale grado di prontezza;
+ 5) prima di ogni uscita in mare si assicura che:
+ 
+                            
+                            
+                                a)
+                                
+                                    le condizioni e le previsioni meteorologiche consentano la navigazione;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    siano state definite sulla carta nautica le rotte da seguire e le zone di operazione, verificando l'esistenza di notizie utili o di impedimenti alla navigazione;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    i materiali mobili siano stati adeguatamente rizzati;
+ 6) consente l'imbarco alle persone soltanto su autorizzazione scritta o, in casi di urgenza, su autorizzazione verbale, che deve comunque essere confermata per iscritto appena possibile;
+ 7) e' responsabile del corretto ed efficace impiego operativo dell'unita' e dei servizi di bordo in relazione alla missione assegnata;
+ 8) coordina l'attivita' di polizia giudiziaria a bordo dell'unita';
+ 9) e' responsabile della esecuzione degli ordini ricevuti e, quando considerazioni di urgenza lo consiglino, assume di iniziativa le necessarie determinazioni;
+ 10) e' responsabile della condotta della navigazione ed adotta ogni precauzione per evitare i pericoli che possono insorgere a causa di secche, di impedimenti subacquei o del traffico;
+ 11) vigila sul consumo del combustibile e dei lubrificanti, realizzando la massima economia e la migliore conservazione dei materiali; in navigazione prescrive la velocita' piu' economica compatibilmente con la missione da compiere;
+ 12) dirige personalmente le operazioni per l'ormeggio, il disormeggio, l'entrata e l'uscita dai porti, per prendere o lasciare la fonda o per l'affiancamento di altri natanti ed ogni volta che si presentano difficili condizioni di navigazione e meteorologiche;
+ 13) e' responsabile della osservanza a bordo delle leggi, dei regolamenti e delle altre disposizioni in vigore;
+ 14) cura l'istruzione professionale e marinaresca del personale e ne stimola il senso di responsabilita', affinche' esso mantenga un grado di efficienza e di addestramento atto ad assicurarne l'impiego in condizioni di sicurezza;
+ 15) non deve, senza autorizzazione superiore, ordinare ne' permettere cambiamenti nelle sistemazioni e nel materiale di dotazione dell'unita' navale, salvo casi di assoluta ed urgente necessita'; quando ritenga opportuna l'attuazione di qualcuno dei predetti cambiamenti, avanza la relativa proposta, tenendo presente severi principi di economia;
+ 16) vigila sulla corretta applicazione delle norme relative all'amministrazione e alla contabilita';
+ 17) dispone che sia ispezionato qualsiasi oggetto che si sbarchi o si imbarchi, sia per misura di sicurezza sia per accertarsi che non si introducano a bordo o non si sbarchino materiali senza autorizzazione;
+ 18) vigila sulla corretta, completa e tempestiva esecuzione dei lavori e delle riparazioni affidati agli stabilimenti o ai cantieri, concorrendo, per quanto possibile, con i mezzi ed il personale di bordo. A tale scopo, l'equipaggio rimane, di massima, a bordo, salvo superiori disposizioni. I lavori e le riparazioni di cui sopra devono essere limitati a quelli autorizzati;
+ 19) vigila sull'assetto dell'unita' e sul suo aspetto esterno ed interno, cioe' sulla corretta configurazione e disposizione degli impianti ed apparati di bordo, dei pesi e delle dotazioni mobili, in aderenza alla consuetudine marinara ed alle prescrizioni tecniche;
+ 20) verifica la corretta attuazione dei turni di sorveglianza del naviglio all'ormeggio;
+ 21) cura il mantenimento, in via esclusiva, della corrispondenza ufficiale con i superiori, con l'obbligo di tenere, peraltro, costantemente informato il vice comandante, affinche' questi possa essere in condizione di surrogarlo nel comando in qualunque circostanza; dispone che la predetta corrispondenza, unitamente ad altri registri e documenti di interesse, sia accuratamente ordinata e conservata in apposito locale adibito a segreteria;
+ 22) provvede a che siano aggiornati e conservati il giornale di chiesuola, il giornale di macchina e gli altri registri e documenti previsti dalle disposizioni vigenti, apponendovi le firme o i visti prescritti con la periodicita' stabilita;
+ 23) in caso di gravi avarie, incendi, incaglio, collisione e altro sinistro marittimo, impartisce gli ordini per l'attuazione dei provvedimenti atti alla salvezza dell'unita', successivamente, redige particolareggiato rapporto contenente tutte le indicazioni necessarie per accertarne le cause, le responsabilita' e riconoscere l'entita' del danno nei suoi particolari;
+ 24) nell'imminenza della perdita dell'unita', quando siano risultati vani tutti i tentativi per evitarla, provvede dapprima alla salvezza delle vite umane nell'ordine seguente: invalidi, ammalati o feriti, passeggeri, con precedenza alle donne e ai bambini, equipaggio; successivamente e soltanto se la situazione lo consente, procede al recupero dei documenti e dei materiali piu' importanti; scende per ultimo da bordo;
+ 25) prima di assumere il comando, se le circostanze lo consentono, assiste ad una uscita in mare, al fine di accertare le qualita' evolutive e di manovra dell'unita' ed il funzionamento dei materiali e dei servizi in navigazione, prende conoscenza del personale e si accerta delle condizioni dell'unita' sotto tutti gli aspetti, riassumendo le eventuali osservazioni nel "Verbale di passaggio di consegne fra comandanti";
+ 26) viene presentato formalmente all'equipaggio, quale nuovo comandante, dal comandante cedente.
+
 ## Art. 59. — Doveri del vice comandante
 
 Il vice comandante coadiuva il comandante.
 
+2.
+                        
+                            
+                                In particolare, il vice comandante e' responsabile nei confronti del comandante:
+ 
+                            
+                            
+                                a)
+                                
+                                    dell'organizzazione, del funzionamento e della efficienza dei servizi generali e di coperta;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    della tenuta e conservazione del materiale, delle attrezzature marinaresche e dei mezzi di salvataggio, della pulizia del fuori bordo e dei locali interni, dell'ordine e dell'assetto dell'unita';
+
+                                
+                            
+                            
+                                c)
+                                
+                                    della corretta esecuzione delle manutenzioni e dei lavori di coperta affidati all'equipaggio;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    della prontezza operativa della unita' nei tempi prescritti;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    della disciplina, del contegno e delle uniformi del personale;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    dell'igiene, del benessere e dell'istruzione dell'equipaggio;
+
+                                
+                            
+                            
+                                g)
+                                
+                                    della conservazione e dell'aggiornamento del materiale nautico e della tenuta degli apparati per le comunicazioni;
+
+                                
+                            
+                            
+                                h)
+                                
+                                    della direzione di tutte le operazioni a carattere marinaresco; in relazione a cio' egli:
+ - dirige i preparativi per gli arrivi e le partenze, curando che l'unita' sia pronta a muoversi all'ora prescritta;
+ - al posto di manovra, concorre alla direzione dell'unita', sovrintendendo al maneggio delle ancore e degli ormeggi;
+ - si alterna al comando della guardia in navigazione;
+ - conduce la manovra, se' ne e' espressamente incaricato;
+ - si assicura del corretto rizzaggio dei materiali mobili in navigazione e della sicurezza del sistema di ormeggio quando in porto o alla fonda;
+
+                                
+                            
+                            
+                                i)
+                                
+                                    della corretta applicazione delle norme relative all'amministrazione ed alla contabilita' e, in particolare, della regolare tenuta del vestiario da parte dell'equipaggio.
+
+3.
+                        
+                            
+                                Il vice comandante inoltre:
+ 
+                            
+                            
+                                a)
+                                
+                                    prende conoscenza della corrispondenza ufficiale, attenendosi in proposito alle disposizioni ricevute;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    non si assenta contemporaneamente al comandante quando le condizioni del servizio o la sicurezza dell'unita' richiedono la sua presenza;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    sostituisce il comandante in caso di assenza o impedimento temporaneo, salvo diverse disposizioni superiori.
+
 ## Art. 60. — Doveri del nostromo
+
+1.
+                        
+                            
+                                Il nostromo, ove assegnato, coadiuva il vice comandante nell'esercizio delle sue funzioni ed in particolare:
+ 
+                            
+                            
+                                a)
+                                
+                                    cura la pulizia e l'assetto esterno ed interno dell'unita';
+
+                                
+                            
+                            
+                                b)
+                                
+                                    cura la buona conservazione del materiale marinaresco e dei mezzi di salvataggio;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    e' incaricato della manovra delle ancore e degli ormeggi;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    cura che l'argano o verricello a salpare sia sempre pronto a funzionare e verifica lo stato di efficienza delle manovre fisse, correnti e del timone;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    vigila sulla buona tenuta delle ancore e sulla corretta disposizione dei cavi di ormeggio, adottando paglietti, fasciature, parabordi ed ogni altro provvedimento atto a ridurre gli effetti di attriti, sfregamenti o urti;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    si alterna al comando della guardia e conduce la manovra, se incaricato dal comandante.
 
 ## Art. 61. — Doveri del nocchiere radarista
 
+1.
+                        
+                            
+                                Il nocchiere radarista, ove assegnato, coadiuva il nostromo nell'esercizio delle sue funzioni ed in particolare:
+ 
+                            
+                            
+                                a)
+                                
+                                    cura la pulizia e l'assetto esterno ed interro dell'unita';
+
+                                
+                            
+                            
+                                b)
+                                
+                                    cura la buona conservazione del materiale marinaresco e dei mezzi di salvataggio, delle apparecchiature e strumenti per la condotta e il controllo della navigazione e la tenuta e l'aggiornamento del materiale nautico;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    effettua la manovra delle ancore e dei cavi di ormeggio;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    cura che l'argano o verricello a salpare sia sempre pronto a funzionare e verifica lo stato di efficienza delle manovre fisse, correnti e del timone;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    controlla la buona tenuta delle ancore e la corretta disposizione dei cavi di ormeggio adottando paglietti, fasciature, parabordi ed ogni altro provvedimento atto a ridurre gli effetti di attriti, sfregamenti o urti;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    segue la condotta della navigazione, utilizzando le dotazioni nautiche ed impiegando le apparecchiature elettroniche secondo gli ordini del comandante.
+
 ## Art. 62. — Doveri del padrone
+
+1.
+                        
+                            
+                                Il padrone ha i doveri e le attribuzioni seguenti:
+ 
+                            
+                            
+                                a)
+                                
+                                    risponde della custodia, della buona tenuta, della pulizia e della conservazione del naviglio affidatogli e del relativo materiale di dotazione;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    consente l'imbarco soltanto alle persone munite di autorizzazione;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    dirige la manovra, di cui ha la completa ed esclusiva responsabilita';
+
+                                
+                            
+                            
+                                d)
+                                
+                                    ha la vigilanza sulla disciplina ed e' responsabile dell'esecuzione delle consegne ricevute, quando non si trovi a bordo un suo superiore a cio' espressamente comandato.
 
 ## Art. 63. — Doveri del conduttore di macchina.
 
 Al conduttore di macchina sono affidati l'organizzazione, il funzionamento e l'efficienza dei servizi di macchina dell'unita' o del mezzo navale.
+
+2.
+                        
+                            
+                                In particolare, il conduttore di macchina e' responsabile, nei confronti del comandante:
+ 
+                            
+                            
+                                a)
+                                
+                                    dell'efficienza e della manutenzione:
+ - dell'apparato di propulsione e dei relativi impianti e macchinari ausiliari;
+ - degli elettrogeneratori, dell'impianto elettrico e del sistema di condizionamento;
+ - delle strutture dello scafo;
+ - degli organi e delle strutture relativi alla galleggiabilita', alla stabilita', alla manovra e alla sicurezza;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    del concorso dell'efficienza di impianti, mezzi ed apparecchiature relativi ai servizi generali e di coperta;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    dell'addestramento professionale del personale motorista;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    della custodia dei materiali di dotazione e di quelli di consumo e della relativa contabilita';
+
+                                
+                            
+                            
+                                e)
+                                
+                                    delle operazioni di imbarco e conservazione e dell'uso dei combustibili e lubrificanti;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    dell'approvvigionamento e dell'impiego degli attrezzi e dei pezzi di rispetto;
+
+                                
+                            
+                            
+                                g)
+                                
+                                    della predisposizione delle consegne relative ai provvedimenti di sicurezza, da adottarsi in caso di incendio, allagamento, sinistro marittimo o altro pericolo ed, altresi', dell'addestramento di tutti i membri dell'equipaggio all'impiego dei relativi materiali ed apparecchiature;
+
+                                
+                            
+                            
+                                h)
+                                
+                                    dell'approntamento al moto delle macchine nei tempi prescritti dal grado di prontezza operativa dell'unita';
+
+                                
+                            
+                            
+                                i)
+                                
+                                    della condotta degli apparati dei servizi di macchina, anche dal punto di vista economico, e della buona conservazione degli organi che li compongono;
+
+                                
+                            
+                            
+                                l)
+                                
+                                    della direzione e del controllo dell'apparato di propulsione nelle entrate e nelle uscite dai porti e della corretta e tempestiva rispondenza agli ordini di manovra;
+
+                                
+                            
+                            
+                                m)
+                                
+                                    dell'aggiornamento e della conservazione dei disegni dell'unita' e dei documenti relativi ai servizi di propria pertinenza, con particolare riferimento al giornale di macchina, di cui cura la scrupolosa compilazione giornaliera;
+
+                                
+                            
+                            
+                                n)
+                                
+                                    della esecuzione della manutenzione e dei lavori di macchina affidati all'equipaggio e della sorveglianza sulla corretta, completa e puntuale esecuzione dei lavori e delle riparazioni affidati agli stabilimenti o cantieri;
+
+                                
+                            
+                            
+                                o)
+                                
+                                    della pronta esecuzione dei provvedimenti di sicurezza, in caso di gravi avarie, incendi, incaglio, collisione o altro sinistro marittimo, coadiuvando poi il comandante nella redazione del relativo rapporto.
 
 Il conduttore di macchina, inoltre, prima di assumere l'incarico, se le circostanze lo consentono, assiste ad una uscita in mare per accertare le prestazioni e le condizioni di funzionamento delle apparecchiature, impianti e strutture di pertinenza dei servizi di macchina, prende conoscenza del personale e si accerta delle condizioni dell'unita' sotto tutti gli aspetti, riassumendo le eventuali osservazioni nel "Verbale di passaggio di consegne fra conduttori di macchina".
 
@@ -595,7 +1292,53 @@ Il vice conduttore di macchina coadiuva il conduttore di macchina nell'espletame
 
 Egli si alterna alla guardia in macchina in navigazione e conduce o controlla la manovra, se espressamente incaricato.
 
+3.
+                        
+                            
+                                Il vice conduttore di macchina inoltre:
+ 
+                            
+                            
+                                a)
+                                
+                                    non si assenta contemporaneamente al conduttore di macchina quando le condizioni del servizio o la sicurezza dell'unita' richiedono la sua presenza;
+                                
+                            
+                            
+                                b)
+                                
+                                    non puo' fruire di congedo contemporaneamente al conduttore di macchina;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    sostituisce il conduttore di macchina in caso di assenza o impedimento temporaneo, salvo diverse disposizioni superiori.
+
 ## Art. 65. — Doveri del motorista navale
+
+1.
+                        
+                            
+                                Il motorista navale:
+ 
+                            
+                            
+                                a)
+                                
+                                    se assegnato a bordo di naviglio d'altura o costiero:
+ - coadiuva il conduttore di macchina ed il vice conduttore di macchina nell'espletamento delle loro funzioni;
+ - esegue i lavori, le manutenzioni, le operazioni e le verifiche disposte dal responsabile dei servizi di macchina;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    se assegnato a bordo di naviglio d'uso locale, risponde al padrone:
+ - della condotta e del controllo dell'apparato motore, con particolare riferimento alla manovra;
+ - della buona tenuta, della pulizia e della conservazione del materiale di pertinenza.
 
 ## - TITOLO IV SERVIZI CAPO IV SERVIZIO DI TRASPORTO TERRESTRE
 
@@ -694,6 +1437,73 @@ Il conducente del mezzo di trasporto del Corpo di polizia penitenziaria e' respo
 ## - TITOLO V RICOMPENSE
 
 ## Art. 75. — Ricompense e riconoscimenti
+
+1.
+                        
+                            
+                                Al personale del Corpo di polizia penitenziaria possono essere concesse le seguenti ricompense;
+ 
+                            
+                            
+                                a)
+                                
+                                    ononficenze;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    ricompense al valor militare;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    ricompense al valor civile;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    ricompense al merito civile;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    ricompense per meriti straordinari e speciali;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    ricompense per lodevole comportamento;
+
+                                
+                            
+                            
+                                g)
+                                
+                                    riconoscimento per anzianita' di servizio;
+
+                                
+                            
+                            
+                                h)
+                                
+                                    riconoscimento al merito di servizio;
+
+                                
+                            
+                            
+                                i)
+                                
+                                    premi in denaro.
 
 ## Art. 76. — Onorificenze.
  Ricompense al valor militare, civile, al merito civile.

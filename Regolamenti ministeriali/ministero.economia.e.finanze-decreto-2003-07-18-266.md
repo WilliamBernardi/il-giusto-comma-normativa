@@ -8,8 +8,8 @@ codice_redazionale: 003G0291
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:38Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -36,6 +36,31 @@ Entro tre mesi dalla data di entrata in vigore del presente regolamento, con pro
 Nelle more della predisposizione del modello per la presentazione della dichiarazione sostitutiva di cui al comma 3 da parte dell'Agenzia delle entrate, la dichiarazione sostitutiva e' redatta su carta libera.
 
 ## Art. 3. — Controllo formale
+
+1.
+                    
+                        
+                            Senza pregiudizio per l'ulteriore azione accertatrice, la competente direzione regionale dell'Agenzia delle entrate, ricevuta la comunicazione di cui all'articolo 2, procede all'iscrizione, previa verifica della:
+ 
+                        
+                        
+                            a)
+                            
+                                regolarita' della compilazione del modello di comunicazione;
+
+                            
+                        
+                        
+                            b)
+                            
+                                sussistenza dei requisiti formali previsti dall'articolo 10 del decreto legislativo n. 460 del 1997;
+
+                            
+                        
+                        
+                            c)
+                            
+                                allegazione della dichiarazione sostitutiva ovvero degli altri documenti di cui all'articolo 2, comma 1.
 
 All'esito del controllo, la direzione regionale iscrive il soggetto interessato all'anagrafe unica delle ONLUS e gliene da' notizia, ovvero comunica allo stesso la mancata iscrizione, evidenziando i motivi in base ai quali e' formulato il diniego. Le comunicazioni sono notificate all'ente interessato ai sensi dell'articolo 60 del decreto del Presidente della Repubblica 29 settembre 1973, n. 600, entro il termine di quaranta giorni dal ricevimento della comunicazione.
 

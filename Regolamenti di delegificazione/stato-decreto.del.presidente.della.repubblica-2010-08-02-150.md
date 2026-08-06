@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Regolamenti di delegificazione
 vigenza_date: 2012-12-28
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:40:24Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -88,6 +88,60 @@ Qualora si tratti di impresa avente sede in altra provincia, il prefetto che ha 
 ## Art. 4. — Effetti delle informazioni rilasciate a seguito degli accessi e degli accertamenti nei cantieri
 
 Il rilascio dell'informazione prevista all'articolo 10 del decreto del Presidente della Repubblica 3 giugno 1998, n. 252, produce gli effetti di cui all'articolo 11, comma 3, del medesimo decreto.
+
+2.
+                    
+                        
+                            Ai fini dell'adozione degli ulteriori provvedimenti di competenza delle altre amministrazioni, dell'informazione di cui al comma 1 e' data tempestiva comunicazione, a cura del prefetto, ai seguenti soggetti: 
+ 
+                        
+                        
+                            a)
+                            
+                                stazione appaltante; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                Camera di commercio del luogo ove ha sede l'impresa oggetto di accertamento; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                prefetto che ha disposto l'accesso; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                Osservatorio centrale appalti pubblici, presso la direzione investigativa antimafia; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                Osservatorio dei contratti pubblici relativi a lavori, servizi e forniture istituito presso l'Autorita' di vigilanza sui contratti pubblici, ai fini dell'inserimento nel casellario informatico di cui all'articolo 7, comma 10, del decreto legislativo 12 aprile 2006, n. 163; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                Ministero delle infrastrutture e dei trasporti; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                Ministero dello sviluppo economico. 
+ (1) ((2))
 
 -------------
                         AGGIORNAMENTO (1)

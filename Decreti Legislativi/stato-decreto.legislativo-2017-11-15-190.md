@@ -7,8 +7,8 @@ urn: urn:nir:stato:decreto.legislativo:2017-11-15;190
 vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:28Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -111,4 +111,31 @@ Per quanto non previsto dal presente decreto si applicano le disposizioni di cui
 Dall'attuazione del presente decreto non devono derivare nuovi o maggiori oneri a carico della finanza pubblica. Le Amministrazioni interessate provvedono agli adempimenti previsti con le risorse umane, strumentali e finanziarie disponibili a legislazione vigente.
 
 ## Art. 10. — Abrogazioni
+
+1.
+                    
+                        
+                            Dalla data di entrata in vigore del presente decreto sono abrogate le seguenti disposizioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                
+                                    articolo 15 del decreto legislativo 22 maggio 1999, n. 194; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                
+                                    articoli 14, 17, 23, 25 e 26 della legge 26 novembre 1973, n. 883; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                articolo 6, comma 2, del decreto del Ministro dell'industria, del commercio e dell'artigianato 11 aprile 1996.
 

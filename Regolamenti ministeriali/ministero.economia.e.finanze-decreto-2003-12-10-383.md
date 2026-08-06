@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
 vigenza_date: 2006-03-01
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:42Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -69,6 +69,38 @@ La banca, entro sessanta giorni dal ricevimento della domanda, trasmette a MCC S
                          Il D.L. 30 dicembre 2005, n. 273, convertito con modificazioni dalla L. 23 febbraio 2006, n. 51, ha disposto (con l'art. 23-quinquies, comma 1) che "I termini previsti dagli articoli 1 e 2 del regolamento di cui al decreto del Ministro dell'economia e delle finanze 10 dicembre 2003, n. 383, gia' differiti dal decreto-legge 30 dicembre 2004, n. 314, convertito, con modificazioni, dalla legge 1° marzo 2005, n. 26,[. . .] sono ulteriormente differiti al 30 giugno 2006".
 
 ## Art. 3. — Annullamento della revoca e riammissione al contributo
+
+1.
+                    
+                        
+                            MCC S.p.a. ovvero Artigiancassa S.p.a., sulla base della documentazione pervenuta ai sensi dell'articolo 2, comma 3, provvedono entro sessanta giorni dal ricevimento della stessa:
+ 
+                        
+                        
+                            a)
+                            
+                                all'annullamento della revoca totale o parziale deliberata per inosservanza delle disposizioni di cui agli articoli 1 e 2 del Decreto interministeriale del 23 marzo 1995;
+
+                            
+                        
+                        
+                            b)
+                            
+                                alla riammissione al contributo rideterminato ai sensi dell'articolo 1 e del Decreto interministeriale del 23 marzo 1995;
+
+                            
+                        
+                        
+                            c)
+                            
+                                all'invio della deliberazione alla banca che ne da' comunicazione all'impresa;
+
+                            
+                        
+                        
+                            d)
+                            
+                                alla restituzione dei contributi gia' rimborsati dall'impresa a seguito dei provvedimenti di revoca annullati.
 
 ## Art. 4. — Rinnovo del finanziamento estinto
 

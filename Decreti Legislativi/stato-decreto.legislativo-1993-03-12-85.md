@@ -8,8 +8,8 @@ codice_redazionale: 093G0131
 vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:29Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -39,6 +39,31 @@ Il presidente della commissione centrale del personale fa parte del consiglio di
 
 ## Art. 3. — Commissione centrale del personale
 
+1.
+                    
+                        
+                            La commissione centrale del personale e' composta:
+ 
+                        
+                        
+                            a)
+                            
+                                da un magistrato ordinario avente qualifica di presidente di sezione della Corte di cassazione o da un magistrato amministrativo di qualifica equiparata con funzioni di presidente, nonche' da un presidente supplente in possesso della stessa qualifica;
+
+                            
+                        
+                        
+                            b)
+                            
+                                dal direttore generale delle poste e delle telecomunicazioni e dal direttore centrale del personale nonche' da due membri supplenti aventi qualifica dirigenziale;
+
+                            
+                        
+                        
+                            c)
+                            
+                                da quattro funzionari dell'Amministrazione delle poste e delle telecomunicazioni con qualifica dirigenziale, nonche' da quattro membri supplenti aventi la stessa qualifica.
+
 Spettano alla commissione centrale del personale le competenze in materia di ordinamento degli uffici e di stato giuridico e di trattamento economico del personale, escluso quello con qualifica di dirigente generale, gia' attribuite alla commissione centrale per gli uffici locali di cui all'art. 25 del decreto del Presidente della Repubblica 9 agosto 1967, n. 1417, alla commissione centrale del personale, di cui all'art. 9 della legge 12 marzo 1968, n. 325, alla commissione paritetica amministrazione-sindacati di cui all'art. 1, comma sesto, della legge 3 aprile 1979, n. 101, ed al consiglio centrale di disciplina, di cui all'art. 5 del regio decreto-legge 10 luglio 1925, n. 1424, convertito nella legge 18 marzo 1926, n. 582; non competono, comunque, le funzioni di commissione di concorsi interni per la progressione del personale.
 
 Nei casi in cui la commissione deve pronunciarsi su questioni di carattere disciplinare, il direttore centrale del personale e' sostituito da un membro supplente. Si applica altresi' il disposto dell'art. 112, comma settimo, del testo unico approvato con decreto del Presidente della Repubblica 10 gennaio 1957, n. 3.
@@ -50,6 +75,24 @@ Le funzioni di segretario sono esercitate da un impiegato dell'amministrazione c
 Il funzionamento della commissione e' disciplinato, per quanto non espressamente previsto dal presente decreto, da regolamento interno adottato dalla stessa commissione.
 
 ## Art. 4. — Commissione provinciale del personale
+
+1.
+                    
+                        
+                            La commissione provinciale del personale e' composta:
+ 
+                        
+                        
+                            a)
+                            
+                                da un magistrato ordinario o amministrativo con funzioni di presidente e da un presidente supplente sempre appartenente alla magistratura ordinaria o amministrativa;
+
+                            
+                        
+                        
+                            b)
+                            
+                                dal direttore provinciale e da tre funzionari con qualifica dirigenziale e direttiva o, in mancanza, appartenenti al personale dell'esercizio di categoria VIII; nonche' da quattro membri supplenti scelti tra il personale direttivo o appartenente a categoria non inferiore alla VII.
 
 Le funzioni di segretario sono esercitate da un impiegato appartenente a categoria non inferiore alla VII e, in caso di assenza o impedimento, dal segretario supplente ugualmente appartenente a categoria non inferiore alla VII.
 
@@ -165,6 +208,45 @@ L'orario di servzio al pubblico degli uffici postali e delle ricevitorie e' dete
 Nei casi di assenza o impedimento del direttore dell'ufficio postale, o dell'impiegato responsabile della sezione autonoma di cassa, il passaggio di cassa o quello di gestione al contabile subentrante avviene secondo la disciplina stabilita con decreto del Ministro delle poste e delle telecomunicazioni, sentita la commissione centrale del personale.
 
 ## Art. 20. — Trattamento normativo ed economico di istituti vari
+
+1.
+                    
+                        
+                            Con uno o piu' decreti del Ministro delle poste e delle telecomunicazioni, da adottare di concerto con i Ministri del tesoro e per la funzione pubblica entro sei mesi dalla data di entrata in vigore del presente decreto, sentito il consiglio di amministrazione, si provvede alla omogeneizzazione della disciplina concernente:
+ 
+                        
+                        
+                            a)
+                            
+                                il compenso di cui all'art. 43 dell'allegato alla legge 11 febbraio 1970, n. 29, per l'incremento del servizio dei libretti a risparmio e dei buoni postali fruttiferi;
+
+                            
+                        
+                        
+                            b)
+                            
+                                le maggiorazioni del premio industriale, di cui all'art. 66 del decreto del Presidente della Repubblica 18 maggio 1987, n. 269, come modificato in attuazione dell'art. 29, comma 6, del decreto del Presidente della Repubblica 4 agosto 1990, n. 335;
+
+                            
+                        
+                        
+                            c)
+                            
+                                il compenso di intensificazione, di cui all'art. 15 dell'allegato alla legge 11 febbraio 1970, n. 29, all'art. 5 della legge 9 febbraio 1979, n. 49, agli articoli 12 e 13 del decreto del Presidente della Repubblica 15 marzo 1984, n. 53, nonche' all'art. 39 del decreto del Presidente della Repubblica 4 agosto 1990, n. 335;
+
+                            
+                        
+                        
+                            d)
+                            
+                                il trattamento normativo ed economico di missione, di cui al decreto del Presidente della Repubblica 6 gennaio 1978, n. 919, e successive modificazioni ed integrazioni;
+
+                            
+                        
+                        
+                            e)
+                            
+                                l'esercizio temporaneo di funzioni superiori, ai sensi degli articoli 56 e 57 del decreto legislativo 3 febbraio 1993, n. 29.
 
 I provvedimenti di cui al comma 1 non possono comportare oneri aggiuntivi per il bilancio dell'Amministrazione delle poste e delle telecomunicazioni.
 

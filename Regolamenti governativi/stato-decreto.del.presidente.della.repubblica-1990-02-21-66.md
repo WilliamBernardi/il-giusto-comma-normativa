@@ -8,8 +8,8 @@ codice_redazionale: 090G0094
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti governativi
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:11Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -38,6 +38,59 @@ Sono iscritte nei registri speciali le navi iscritte in un registro straniero, d
 Le navi iscritte nei registri speciali sono abilitate alla navigazione dall'atto di nazionalita' di cui all'art. 4.
 
 ## Art. 3.
+
+1.
+                        
+                            
+                                Per ottenere l'iscrizione di una nave nei registri speciali il conduttore deve presentare all'ufficio presso il quale chiede l'iscrizione:
+ 
+                            
+                            
+                                a)
+                                
+                                    copia autentica del contratto di locazione a scafo nudo;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    certificato di stazza rilasciato dal Registro italiano navale;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    copia autentica dell'attestazione, rilasciata dall'ufficio competente dello Stato d'iscrizione della nave, che il diritto di battere la bandiera di tale Stato e' sospeso o che verra' sospeso non appena avvenuta l'iscrizione nel registro speciale;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    copia autentica del documento da cui risulta il consenso del proprietario della nave, nonche' del documento da cui risulta il consenso dei titolari dei diritti di garanzia trascritti, se quest'ultimo e' richiesto dallo Stato d'iscrizione della nave;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    documentazione comprovante che il conduttore possiede i requisiti di cui agli articoli 143 e 144 del codice della navigazione;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    copia del contratto collettivo di lavoro per la gente di mare stipulato in sede nazionale;
+
+                                
+                            
+                            
+                                g)
+                                
+                                    copia autentica dell'atto di approvazione del nome a norma dell'art. 150 del codice della navigazione.
 
 La richiesta di iscrizione della nave nei registri speciali tiene luogo della dichiarazione di armatore di cui all'art. 265 del codice della navigazione.
 
@@ -69,6 +122,31 @@ L'autorita' che procede alla cancellazione della nave dal registro speciale riti
 
 ## Art. 8.
 
+1.
+                        
+                            
+                                Durante il periodo di temporanea abilitazione alla navigazione ed all'uso della bandiera italiana:
+ 
+                            
+                            
+                                a)
+                                
+                                    ai fini di cui all'art. 4 del codice della navigazione la nave e' considerata italiana;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    ai fini di cui agli articoli 5, 7, 8, 9, 10, 11, 12 e 13 del codice della navigazione si intende per "legge nazionale della nave" quella italiana;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    ai fini dell'art. 6 del codice della navigazione si intende per "legge nazionale della nave" quella dello Stato responsabile del registro sottostante.
+
 ## Art. 9.
 
 Il proprietario, che intende ottenere la sospensione temporanea dell'abilitazione alla navigazione ed all'uso della bandiera italiana di nave locata a scafo nudo a straniero per consentire al conduttore di iscriverla in un registro di altro Stato, avente funzioni analoghe al registro speciale di cui all'art. 1, deve farne dichiarazione all'ufficio di iscrizione della nave o all'ufficio consolare se la nave si trova all'estero.
@@ -80,6 +158,61 @@ L'ufficio, che ha proceduto alla pubblicazione della dichiarazione, ne da' immed
 ## Art. 10.
 
 Il proprietario della nave, al fine di ottenere la sospensione temporanea dell'abilitazione alla navigazione ed all'uso della bandiera italiana di cui agli articoli 149 e 155 del codice della navigazione, deve rivolgere istanza al Ministero della marina mercantile.
+
+2.
+                        
+                            
+                                L'istanza di cui al comma 1 deve contenere:
+ 
+                            
+                            
+                                a)
+                                
+                                    l'indicazione degli estremi della dichiarazione di cui all'art. 9 e delle informazioni in essa contenute;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'indicazione delle principali clausole del contratto di locazione e l'impegno a non stipulare in esso clausole difformi dalle disposizioni dell'art. 29 della legge 14 giugno 1989, n. 234, o che impediscono od ostacolano provvedimenti di requisizione della nave da parte dello Stato italiano;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    l'impegno del proprietario ad assicurare col contratto di locazione che la nave, durante il periodo di iscrizione nell'apposito registro speciale straniero, mantenga l'iscrizione nella piu' alta classe del Registro italiano navale;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    l'impegno del conduttore ad osservare immediatamente, alla scadenza dell'autorizzazione a norma dell'art. 11 o, nel caso di revoca della stessa a norma dell'art. 13, tutte le prescrizioni a cui lo Stato estero interessato condiziona la dismissione della propria bandiera;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    l'indicazione che i contratti di lavoro dei marittimi sono conformi agli appositi contratti collettivi nazionali di cui all'art. 29, commi 2 e 3, della legge 14 giugno 1989, n. 234.
+
+3.
+                        
+                            
+                                All'istanza vanno allegati: 
+                            
+                            
+                                a)
+                                
+                                    il testo, con traduzione debitamente legalizzata, della legge che disciplina la temporanea abilitazione alla navigazione delle navi locate nello Stato estero, nei cui appositi registri si prevede che venga temporaneamente iscritta la nave;
+                                
+                            
+                            
+                                b)
+                                
+                                    il contratto di locazione.
 
 ## Art. 11.
 
@@ -112,6 +245,31 @@ La sospensione dell'abilitazione alla navigazione ed all'uso della bandiera e' r
 Il Ministero della marina mercantile da' comunicazione della revoca della sospensione all'autorita' competente dello Stato estero, nei cui appositi registri la nave e' stata temporaneamente iscritta, invitandola a cancellare la stessa da tali registri.
 
 ## Art. 14.
+
+1.
+                        
+                            
+                                Durante il periodo di sospensione temporanea dell'abilitazione alla navigazione ed all'uso della bandiera:
+ 
+                            
+                            
+                                a)
+                                
+                                    ai fini di cui all'art. 4 del codice della navigazione la nave non e' considerata italiana;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    fatte salve le disposizioni di cui all'art. 29, commi 2 e 3, della legge 14 giugno 1989, n. 234, in materia di lavoro marittimo, ai fini di cui agli articoli 5, 7, 8, 9, 10, 11, 12 e 13 del codice della navigazione si intende per "legge nazionale della nave" quella dello Stato straniero nei cui appositi registri la nave e' iscritta;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    ai fini di cui all'art. 6 del codice della navigazione si intende per "legge nazionale della nave" quella italiana.
 
 ## Art. 15.
 

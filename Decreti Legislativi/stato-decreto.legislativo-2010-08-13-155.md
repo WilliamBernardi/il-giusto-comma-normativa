@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
 vigenza_date: 2018-07-17
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:22Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -28,13 +28,431 @@ Sulla proposta del Ministro per le politiche europee e del Ministro dell'ambient
 
 ## Art. 1. — Principi e finalita'
 
+1.
+                    
+                        
+                            Il presente decreto recepisce la direttiva 2008/50/CE e sostituisce le disposizioni di attuazione della direttiva 2004/107/CE, istituendo un quadro normativo unitario in materia di valutazione e di gestione della qualita' dell'aria ambiente finalizzato a: 
+ 
+                        
+                        
+                            a)
+                            
+                                individuare obiettivi di qualita' dell'aria ambiente volti a evitare, prevenire o ridurre effetti nocivi per la salute umana e per l'ambiente nel suo complesso; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                valutare la qualita' dell'aria ambiente sulla base di metodi e criteri comuni su tutto il territorio nazionale; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                ottenere informazioni sulla qualita' dell'aria ambiente come base per individuare le misure da adottare per contrastare l'inquinamento e gli effetti nocivi dell'inquinamento sulla salute umana e sull'ambiente e per monitorare le tendenze a lungo termine, nonche' i miglioramenti dovuti alle misure adottate; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                mantenere la qualita' dell'aria ambiente, laddove buona, e migliorarla negli altri casi; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                garantire al pubblico le informazioni sulla qualita' dell'aria ambiente; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                realizzare una migliore cooperazione tra gli Stati dell'Unione europea in materia di inquinamento atmosferico.
+
+2.
+                    
+                        
+                            Ai fini previsti dal comma 1 il presente decreto stabilisce: 
+ 
+                        
+                        
+                            a)
+                            
+                                i valori limite per le concentrazioni nell'aria ambiente di biossido di zolfo, biossido di azoto, benzene, monossido di carbonio, piombo e PM10; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                i livelli critici per le concentrazioni nell'aria ambiente di biossido di zolfo e ossidi di azoto; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                le soglie di allarme per le concentrazioni nell'aria ambiente di biossido di zolfo e biossido di azoto; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                il valore limite, il valore obiettivo, l'obbligo di concentrazione dell'esposizione e l'obiettivo nazionale di riduzione dell'esposizione per le concentrazioni nell'aria ambiente di PM2,5; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                i valori obiettivo per le concentrazioni nell'aria ambiente di arsenico, cadmio, nichel e benzo(a)pirene.
+
 Ai fini previsti dal comma 1 il presente decreto stabilisce altresi' i valori obiettivo, gli obiettivi a lungo termine, le soglie di allarme e le soglie di informazione per l'ozono.
+
+4.
+                    
+                        
+                            Il presente decreto si fonda sui seguenti principi: 
+ 
+                        
+                        
+                            a)
+                            
+                                il sistema di valutazione e gestione della qualita' dell'aria rispetta ovunque standard qualitativi elevati ed omogenei al fine di assicurare un approccio uniforme su tutto il territorio nazionale e di assicurare che le stesse situazioni di inquinamento siano valutate e gestite in modo analogo; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                il sistema di acquisizione, di trasmissione e di messa a disposizione dei dati e delle informazioni relativi alla valutazione della qualita' dell'aria ambiente e' organizzato in modo da rispondere alle esigenze di tempestivita' della conoscenza da parte di tutte le amministrazioni interessate e del pubblico e si basa su misurazioni e su altre tecniche di valutazione e su procedure funzionali a tali finalita' secondo i canoni di efficienza, efficacia ed economicita'; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                la zonizzazione dell'intero territorio nazionale e' il presupposto su cui si organizza l'attivita' di valutazione della qualita' dell'aria ambiente. A seguito della zonizzazione del territorio, ciascuna zona o agglomerato e' classificata allo scopo di individuare le modalita' di valutazione mediante misurazioni e mediante altre tecniche in conformita' alle disposizioni del presente decreto; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                la zonizzazione del territorio richiede la previa individuazione degli agglomerati e la successiva individuazione delle altre zone. Gli agglomerati sono individuati sulla base dell'assetto urbanistico, della popolazione residente e della densita' abitativa.
+Le altre zone sono individuate, principalmente, sulla base di aspetti come il carico emissivo, le caratteristiche orografiche, le caratteristiche meteo-climatiche e il grado di urbanizzazione del territorio, al fine di individuare le aree in cui uno o piu' di tali aspetti sono predominanti nel determinare i livelli degli inquinanti e di accorpare tali aree in zone contraddistinte dall'omogeneita' degli aspetti predominanti; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                la valutazione della qualita' dell'aria ambiente e' fondata su una rete di misura e su un programma di valutazione. Le misurazioni in siti fissi, le misurazioni indicative e le altre tecniche di valutazione permettono che la qualita' dell'aria ambiente sia valutata in conformita' alle disposizioni del presente decreto; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                la valutazione della qualita' dell'aria ambiente condotta utilizzando determinati siti fissi di campionamento e determinate tecniche di valutazione si considera idonea a rappresentare la qualita' dell'aria all'interno dell'intera zona o dell'intero agglomerato di riferimento qualora la scelta dei siti e delle altre tecniche sia operata in conformita' alle disposizioni del presente decreto; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                ai fini della valutazione della qualita' dell'aria ambiente e' evitato l'uso di stazioni di misurazione non conformi e, nel rispetto dei canoni di efficienza, di efficacia e di economicita', l'inutile eccesso di stazioni di misurazione. Le stazioni di misurazione che non sono inserite nella rete di misura e nel programma di valutazione non sono utilizzate per le finalita' del presente decreto; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                la rete di misura e' soggetta alla gestione o al controllo pubblico. Il controllo pubblico e' assicurato dalle regioni o dalle province autonome o, su delega, dalle agenzie regionali per la protezione dell'ambiente. Le stazioni di misurazione non soggette a tale gestione o controllo non sono utilizzate per le finalita' del presente decreto; 
+
+                            
+                        
+                        
+                            i)
+                            
+                                la valutazione della qualita' dell'aria ambiente e' il presupposto per l'individuazione delle aree di superamento dei valori, dei livelli, delle soglie e degli obiettivi previsti dal presente decreto; 
+
+                            
+                        
+                        
+                            l)
+                            
+                                i piani e le misure da adottare ed attuare in caso di individuazione di una o piu' aree di superamento all'interno di una zona o di un agglomerato devono agire, secondo criteri di efficienza ed efficacia, sull'insieme delle principali sorgenti di emissione, ovunque localizzate, che influenzano tali aree, senza l'obbligo di estendersi all'intero territorio della zona o dell'agglomerato, ne' di limitarsi a tale territorio.
 
 Le funzioni amministrative relative alla valutazione ed alla gestione della qualita' dell'aria ambiente competono allo Stato, alle regioni e alle province autonome e agli enti locali, nei modi e nei limiti previsti dal presente decreto. Il Ministero dell'ambiente e della tutela del territorio e del mare, di seguito Ministero dell'ambiente, si puo' avvalere, nei modi e per le finalita' previsti dal presente decreto, del supporto tecnico dell'Istituto Superiore per la protezione e la ricerca ambientale, di seguito ISPRA, e dell'Agenzia nazionale per le nuove tecnologie, l'energia e lo sviluppo economico sostenibile, di seguito ENEA.
 
 I compiti tecnici finalizzati ad assicurare la qualita' della valutazione in materia di aria ambiente sono assicurati dalle autorita' e dagli organismi di cui all'articolo 17, in conformita' al disposto dell'allegato I, paragrafo 3.
 
 ## Art. 2. — Definizioni
+
+1.
+                    
+                        
+                            Ai fini del presente decreto si applicano le seguenti definizioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                aria ambiente: l'aria esterna presente nella troposfera, ad esclusione di quella presente nei luoghi di lavoro definiti dal decreto legislativo 9 aprile 2008, n. 81; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                inquinante: qualsiasi sostanza presente nell'aria ambiente che puo' avere effetti dannosi sulla salute umana o sull'ambiente nel suo complesso; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                livello: concentrazione nell'aria ambiente di un inquinante o deposizione di questo su una superficie in un dato periodo di tempo; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                valutazione: utilizzo dei metodi stabiliti dal presente decreto per misurare, calcolare, stimare o prevedere i livelli degli inquinanti; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                zona: parte del territorio nazionale delimitata, ai sensi del presente decreto, ai fini della valutazione e della gestione della qualita' dell'aria ambiente; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                agglomerato: zona costituita da un'area urbana o da un insieme di aree urbane che distano tra loro non piu' di qualche chilometro oppure da un'area urbana principale e dall'insieme delle aree urbane minori che dipendono da quella principale sul piano demografico, dei servizi e dei flussi di persone e merci, avente: 
+ 1) una popolazione superiore a 250.000 abitanti oppure; 
+ 2) una popolazione inferiore a 250.000 abitanti e una densita' di popolazione per km2 superiore a 3.000 abitanti; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                area di superamento: area, ricadente all'interno di una zona o di un agglomerato, nella quale e' stato valutato il superamento di un valore limite o di un valore obiettivo; tale area e' individuata sulla base della rappresentativita' delle misurazioni in siti fissi o indicative o sulla base delle tecniche di modellizzazione; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                valore limite: livello fissato in base alle conoscenze scientifiche al fine di evitare, prevenire o ridurre gli effetti nocivi per la salute umana e per l'ambiente nel suo complesso, che deve essere raggiunto entro un termine prestabilito e in seguito non deve essere superato;
+                            
+                        
+                        
+                            i)
+                            
+                                livello critico: livello fissato in base alle conoscenze scientifiche, oltre il quale possono sussistere effetti negativi diretti su recettori quali gli alberi, le altre piante o gli ecosistemi naturali, esclusi gli esseri umani; 
+
+                            
+                        
+                        
+                            l)
+                            
+                                margine di tolleranza: percentuale del valore limite entro la quale e' ammesso il superamento del valore limite alle condizioni stabilite dal presente decreto; 
+
+                            
+                        
+                        
+                            m)
+                            
+                                valore obiettivo: livello fissato al fine di evitare, prevenire o ridurre effetti nocivi per la salute umana o per l'ambiente nel suo complesso, da conseguire, ove possibile, entro una data prestabilita; 
+
+                            
+                        
+                        
+                            n)
+                            
+                                soglia di allarme: livello oltre il quale sussiste un rischio per la salute umana in caso di esposizione di breve durata per la popolazione nel suo complesso ed il cui raggiungimento impone di adottare provvedimenti immediati; 
+
+                            
+                        
+                        
+                            o)
+                            
+                                soglia di informazione: livello oltre il quale sussiste un rischio per la salute umana in caso di esposizione di breve durata per alcuni gruppi particolarmente sensibili della popolazione nel suo complesso ed il cui raggiungimento impone di assicurare informazioni adeguate e tempestive; 
+
+                            
+                        
+                        
+                            p)
+                            
+                                obiettivo a lungo termine: livello da raggiungere nel lungo periodo mediante misure proporzionate, al fine di assicurare un'efficace protezione della salute umana e dell'ambiente; 
+
+                            
+                        
+                        
+                            q)
+                            
+                                indicatore di esposizione media: livello medio da determinare sulla base di misurazioni effettuate da stazioni di fondo ubicate in siti fissi di campionamento urbani presso l'intero territorio nazionale e che riflette l'esposizione della popolazione. Permette di calcolare se sono stati rispettati l'obiettivo nazionale di riduzione dell'esposizione e l'obbligo di concentrazione dell'esposizione; 
+
+                            
+                        
+                        
+                            r)
+                            
+                                obbligo di concentrazione dell'esposizione: livello fissato sulla base dell'indicatore di esposizione media al fine di ridurre gli effetti nocivi sulla salute umana, da raggiungere entro una data prestabilita; 
+
+                            
+                        
+                        
+                            s)
+                            
+                                obiettivo nazionale di riduzione dell'esposizione: riduzione, espressa in percentuale, dell'esposizione media della popolazione, fissata, in relazione ad un determinato anno di riferimento, al fine di ridurre gli effetti nocivi per la salute umana, da raggiungere, ove possibile, entro una data prestabilita; 
+
+                            
+                        
+                        
+                            t)
+                            
+                                misurazioni in siti fissi: misurazioni dei livelli degli inquinanti effettuate in stazioni ubicate presso siti fissi, con campionamento continuo o discontinuo, eccettuate le misurazioni indicative; 
+
+                            
+                        
+                        
+                            u)
+                            
+                                misurazioni indicative: misurazioni dei livelli degli inquinanti, basate su obiettivi di qualita' meno severi di quelli previsti per le misurazioni in siti fissi ((...)); 
+
+                            
+                        
+                        
+                            v)
+                            
+                                tecniche di stima obiettiva: metodi ((...)) per calcolare le concentrazioni a partire da valori misurati in luoghi o tempi diversi da quelli a cui si riferisce il calcolo, basati su conoscenze scientifiche circa la distribuzione delle concentrazioni; 
+
+                            
+                        
+                        
+                            z)
+                            
+                                soglia di valutazione superiore: livello al di sotto del quale le misurazioni in siti fissi possono essere combinate con misurazioni indicative o tecniche di modellizzazione e, per l'arsenico, il cadmio, il nichel ed il benzo(a)pirene, livello al di sotto del quale le misurazioni in siti fissi o indicative possono essere combinate con tecniche di modellizzazione; 
+
+                            
+                        
+                        
+                            aa)
+                            
+                                soglia di valutazione inferiore: livello al di sotto del quale e' previsto, anche in via esclusiva, l'utilizzo di tecniche di modellizzazione o di stima obiettiva; 
+
+                            
+                        
+                        
+                            bb)
+                            
+                                contributo di fonti naturali: emissione di sostanze inquinanti non causata in modo diretto o indiretto da attivita' umane, come nel caso di eruzioni vulcaniche, attivita' sismiche, attivita' geotermiche, incendi spontanei, tempeste di vento ed altri eventi naturali, aerosol marini, emissioni biogeniche, trasporto o risospensione in atmosfera di particelle naturali dalle regioni secche; 
+
+                            
+                        
+                        
+                            cc)
+                            
+                                rete di misura: sistema di stazioni di misurazione degli inquinanti atmosferici da utilizzare ai fini del presente decreto; il numero delle stazioni della rete di misura non eccede quello sufficiente ad assicurare le funzioni previste dal presente decreto.
+L'insieme di tali stazioni di misurazione presenti sul territorio nazionale costituisce la rete di misura nazionale; 
+
+                            
+                        
+                        
+                            dd)
+                            
+                                programma di valutazione: il programma che indica le stazioni di misurazione della rete di misura utilizzate per le misurazioni in siti fissi e per le misurazioni indicative, le tecniche di modellizzazione e le tecniche di stima obiettiva da applicare ai sensi del presente decreto e che prevede le stazioni di misurazione, utilizzate insieme a quelle della rete di misura, alle quali fare riferimento nei casi in cui i dati rilevati dalle stazioni della rete di misura, anche a causa di fattori esterni, non risultino conformi alle disposizioni del presente decreto, con particolare riferimento agli obiettivi di qualita' dei dati di cui all'allegato I ed ai criteri di ubicazione di cui agli allegati III e VIII; 
+
+                            
+                        
+                        
+                            ee)
+                            
+                                garanzia di qualita': realizzazione di programmi la cui applicazione pratica consente l'ottenimento di dati di concentrazione degli inquinanti atmosferici con precisione e accuratezza conosciute ((le attivita' di controllo sulla corretta applicazione di tali programmi sono comprese nella realizzazione dei programmi stessi;)); 
+
+                            
+                        
+                        
+                            ff)
+                            
+                                campioni primari: campione designato come avente le piu' alte qualita' metrologiche ed il cui valore e' accettato senza riferimento ad altri campioni della stessa grandezza; 
+
+                            
+                        
+                        
+                            gg)
+                            
+                                campioni di riferimento: campioni riconosciuti da una decisione nazionale come base per fissare il valore degli altri campioni della grandezza in questione; 
+
+                            
+                        
+                        
+                            hh)
+                            
+                                deposizione totale: massa totale di sostanze inquinanti che, in una data area e in un dato periodo, e' trasferita dall'atmosfera al suolo, alla vegetazione, all'acqua, agli edifici e a qualsiasi altro tipo di superficie; 
+
+                            
+                        
+                        
+                            ii)
+                            
+                                PM10: il materiale particolato che penetra attraverso un ingresso dimensionale selettivo conforme al metodo di riferimento per il campionamento e la misurazione del PM10 (norma UNI EN 12341), con un'efficienza di penetrazione del 50 per cento per materiale particolato di un diametro aerodinamico di 10 μm; 
+
+                            
+                        
+                        
+                            ll)
+                            
+                                PM2,5: il materiale particolato che penetra attraverso un ingresso dimensionale selettivo conforme al metodo di riferimento per il campionamento e la misurazione del PM2,5 (norma UNI EN 14907), con un'efficienza di penetrazione del 50 per cento per materiale particolato di un diametro aerodinamico di 2,5 μm; 
+
+                            
+                        
+                        
+                            mm)
+                            
+                                ossidi di azoto: la somma dei «rapporti di mescolamento in volume (ppbv)» di monossido di azoto (ossido nitrico) e di biossido di azoto espressa in unita' di concentrazione di massa di biossido di azoto (μg/m³); 
+
+                            
+                        
+                        
+                            nn)
+                            
+                                idrocarburi policiclici aromatici: composti organici con due o piu' anelli aromatici fusi, formati interamente da carbonio e idrogeno; 
+
+                            
+                        
+                        
+                            oo)
+                            
+                                mercurio gassoso totale: vapore di mercurio elementare (Hg0 ) e mercurio gassoso reattivo, intesi come specie di mercurio idrosolubili con una pressione di vapore sufficientemente elevata per esistere nella fase gassosa; 
+
+                            
+                        
+                        
+                            pp)
+                            
+                                composti organici volatili: tutti i composti organici diversi dal metano provenienti da fonti antropogeniche e biogeniche, i quali possono produrre ossidanti fotochimici reagendo con gli ossidi di azoto in presenza di luce solare; 
+
+                            
+                        
+                        
+                            qq)
+                            
+                                precursori dell'ozono: sostanze che contribuiscono alla formazione di ozono a livello del suolo.
 
 ## Art. 3. — Zonizzazione del territorio
 
@@ -89,6 +507,39 @@ Le misurazioni e le altre tecniche utilizzate per la valutazione della qualita' 
 
 ## Art. 6. — Casi speciali di valutazione della qualita' dell'aria ambiente
 
+1.
+                    
+                        
+                            
+                                ((Con uno o piu' decreti)) del Ministro dell'ambiente, di concerto con il Ministro della salute e sentita la Conferenza unificata di cui al decreto legislativo n. 281 del 1997, sono scelte, in modo da individuare le variazioni geografiche e l'andamento a lungo termine delle concentrazioni nell'aria ambiente e, ove previsto, delle deposizioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                almeno tre stazioni di misurazione di fondo in siti fissi di campionamento rurali ((...)) in cui si effettuano misurazioni finalizzate ad acquisire informazioni circa la concentrazione di massa totale e le concentrazioni per speciazione chimica del PM2,5 su base annuale. Il decreto di individuazione puo' altresi' stabilire forme di coordinamento con le attivita' svolte in attuazione del programma denominato «monitoring and evaluation of pollutants (EMEP)». Sulla base di appositi accordi con altri Stati tali stazioni di misurazione possono essere comuni a piu' Stati in riferimento a zone confinanti. A tali stazioni di misurazione si applicano gli allegati I, ((III)), IV e VI. I paragrafi 1 e 3 dell'allegato I devono essere tuttavia riferiti alle sole concentrazioni di massa totale; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                almeno sette stazioni di misurazione del benzo(a)pirene ((...)) in cui si effettua la misurazione delle concentrazioni nell'aria ambiente di benzo(a)antracene, benzo(b)fluorantene, benzo(j)fluorantene, benzo(k)fluorantene, indeno(1,2,3-cd)pirene e dibenzo(a,h)antracene, al fine di verificare la costanza dei rapporti nel tempo e nello spazio tra il benzo(a)pirene e gli altri idrocarburi policiclici aromatici di rilevanza tossicologica. A tali stazioni di misurazione si applicano l'allegato I, l'allegato III e l'allegato VI; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                almeno tre stazioni di misurazione di fondo, scelte ((anche)) nell'ambito ((...)) di quelle appartenenti alla rete realizzata in sede di attuazione del programma denominato «European monitoring and evaluation of pollutants (EMEP)», in cui si effettua la misurazione indicativa delle concentrazioni nell'aria ambiente dell'arsenico, del cadmio, del nichel, del benzo(a)pirene e degli altri idrocarburi policiclici aromatici di cui alla lettera b) e la misurazione indicativa della deposizione totale di tali inquinanti. Tale misurazione indicativa ha altresi' ad oggetto le concentrazioni nell'aria ambiente del mercurio gassoso totale e la deposizione totale del mercurio. Con il decreto di individuazione si selezionano, tra le stazioni scelte, ove tecnicamente fattibile alla luce degli indirizzi espressi dal Coordinamento di cui all'articolo 20, quelle in cui si effettua anche la misurazione indicativa del mercurio bivalente particolato e gassoso. Sulla base di appositi accordi con altri Stati, nel rispetto degli indirizzi forniti dalla Commissione europea, tali stazioni di misurazione possono essere comuni a piu' Stati in riferimento a zone confinanti. A tali stazioni di misurazione si applicano l'allegato I, l'allegato III e l'allegato VI; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                sette stazioni di misurazione in sito fisso urbano, scelte preferibilmente tra quelle di cui alla lettera b), in cui si effettuano misurazioni finalizzate ad acquisire informazioni circa la concentrazione di massa totale e le concentrazioni per speciazione chimica del PM10 e del PM2,5 su base annuale. A tali stazioni di misurazione si applicano gli allegati I, III, IV e VI. I paragrafi 1 e 3 dell'allegato I devono essere tuttavia riferiti alle sole concentrazioni di massa totale.
+
 Nella scelta delle stazioni di misurazione si deve valutare la possibilita' di utilizzare le medesime stazioni per entrambe le finalita' di cui alle lettere a) e c) del comma 1. Possono essere individuate stazioni diverse soltanto se, da una valutazione tecnica, emerge che tali finalita' non sarebbero conseguite per tutti gli inquinanti.
 
 Nel caso in cui le stazioni di misurazione prescelte siano gestite da enti di ricerca, i decreti previsti al comma 1 disciplinano le modalita' ed i tempi con i quali tali enti devono trasmettere i dati e le informazioni rilevati al Ministero dell'ambiente e all'ISPRA. I decreti disciplinano altresi' le modalita' ed i tempi con i quali i dati e le informazioni rilevati da tutte le stazioni di misurazione ai sensi del comma 1, lettere a), b), c) e d), sono messi a disposizione di tutte le regioni e province autonome. Disciplinano inoltre, per le stazioni di misurazione di cui al comma 1, lettera a), i metodi da utilizzare e le modalita' di comunicazione di tali metodi alla Commissione europea, per le stazioni di misurazione di cui al comma 1, lettera d), i metodi da utilizzare e, per le stazioni di misurazione di cui al comma 1, lettere b) e c), i metodi da utilizzare ai fini del campionamento e dell'analisi degli idrocarburi policiclici aromatici diversi dal benzo(a)pirene.
@@ -96,6 +547,24 @@ Nel caso in cui le stazioni di misurazione prescelte siano gestite da enti di ri
 ## Art. 7. — Stazioni di misurazione in siti fissi di campionamento
 
 Nelle zone e negli agglomerati in cui le misurazioni in siti fissi costituiscono l'unica fonte di informazioni sulla qualita' dell'aria ambiente e' assicurato un numero minimo di stazioni di misurazione di ciascun inquinante di cui all'articolo 1, comma 2, pari a quello previsto all'allegato V, paragrafi 1, 2 e 3.
+
+2.
+                    
+                        
+                            Nelle zone e negli agglomerati in cui le misurazioni in siti fissi sono integrate da tecniche di modellizzazione o da misurazioni indicative, il numero complessivo delle stazioni di misurazione di cui all'allegato V puo' essere ridotto fino ad un massimo del 50 per cento, purche': 
+ 
+                        
+                        
+                            a)
+                            
+                                le tecniche di valutazione utilizzate ad integrazione delle misurazioni in siti fissi permettano di ottenere un adeguato livello d'informazione ai fini della valutazione della qualita' dell'aria in relazione ai valori limite, ai valori obiettivo ed alle soglie di allarme previsti dal presente decreto, nonche' un adeguato livello d'informazione del pubblico; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                il numero delle stazioni di misurazione e la risoluzione spaziale delle tecniche di modellizzazione permettano di valutare i livelli in conformita' agli obiettivi di qualita' dei dati di cui all'allegato I, paragrafo 1, e di soddisfare i requisiti di cui all'allegato I, paragrafo 2.
 
 Nelle zone e negli agglomerati in cui le misurazioni in siti fissi sono combinate con tecniche di modellizzazione o misurazioni indicative, il numero complessivo delle stazioni di misurazione di cui all'allegato V puo' essere ridotto oltre il 50 per cento, purche' si rispettino le condizioni previste al comma 2.
 
@@ -170,6 +639,94 @@ Ai fini dell'elaborazione e dell'attuazione dei piani previsti dal presente arti
 
 ## Art. 11. — Modalita' e procedure di attuazione dei piani
 
+1.
+                    
+                        
+                            I piani di cui agli articoli 9, 10 e 13 possono anche individuare, con le modalita' e per le finalita' dagli stessi previste: 
+ 
+                        
+                        
+                            a)
+                            
+                                criteri per limitare la circolazione dei veicoli a motore; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                valori limite di emissione, prescrizioni per l'esercizio, criteri di localizzazione ed altre condizioni di autorizzazione per gli impianti di cui alla parte quinta, titolo I, del decreto legislativo 3 aprile 2006, n. 152, secondo le relative disposizioni; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                valori limite di emissione, prescrizioni per l'esercizio e criteri di localizzazione per gli impianti di trattamento dei rifiuti che producono emissioni in atmosfera; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                valori limite di emissione, prescrizioni per l'esercizio e criteri di localizzazione per gli impianti soggetti ad autorizzazione integrata ambientale che producono emissioni in atmosfera; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                valori limite di emissione, prescrizioni per l'esercizio, caratteristiche tecniche e costruttive per gli impianti di cui alla parte quinta, titolo II, del decreto legislativo 3 aprile 2006, n. 152, secondo le relative disposizioni; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                limiti e condizioni per l'utilizzo dei combustibili ammessi dalla parte quinta, titolo III, del decreto legislativo 3 aprile 2006, n. 152, secondo le relative disposizioni e nel rispetto delle competenze autorizzative attribuite allo Stato ed alle regioni; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                limiti e condizioni per l'utilizzo di combustibili nei generatori di calore sotto il valore di soglia di 0,035 MW nei casi in cui l'allegato X alla parte quinta del decreto legislativo 3 aprile 2006, n. 152, prevede il potere dei piani regionali di limitare l'utilizzo dei combustibili negli impianti termici civili; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                prescrizioni per prevenire o limitare le emissioni in atmosfera che si producono nel corso delle attivita' svolte presso qualsiasi tipo di cantiere, incluso l'obbligo che le macchine mobili non stradali ed i veicoli di cui all'articolo 47, comma 2, lett. c) - categoria N2 e N3 del decreto legislativo 30 aprile 1992, n. 285, utilizzati nei cantieri e per il trasporto di materiali da e verso il cantiere rispondano alle piu' recenti direttive comunitarie in materia di controllo delle emissioni inquinanti o siano dotati di sistemi di abbattimento delle emissioni di materiale particolato; 
+
+                            
+                        
+                        
+                            i)
+                            
+                                prescrizioni per prevenire o limitare le emissioni in atmosfera prodotte dalle navi all'ormeggio; 
+
+                            
+                        
+                        
+                            l)
+                            
+                                misure specifiche per tutelare la popolazione infantile e gli altri gruppi sensibili della popolazione; 
+
+                            
+                        
+                        
+                            m)
+                            
+                                prescrizioni per prevenire o limitare le emissioni in atmosfera che si producono nel corso delle attivita' e delle pratiche agricole relative a coltivazioni, allevamenti, spandimento dei fertilizzanti e degli effluenti di allevamento, ferma restando l'applicazione della normativa vigente in materia di rifiuti, combustibili, fertilizzanti, emissioni in atmosfera e tutela sanitaria e fito-sanitaria; 
+
+                            
+                        
+                        
+                            n)
+                            
+                                prescrizioni di limitazione delle combustioni all'aperto, in particolare in ambito agricolo, forestale e di cantiere, ferma restando l'applicazione della normativa vigente in materia di rifiuti, combustibili, emissioni in atmosfera e tutela sanitaria e fito-sanitaria.
+
 Con decreto del Ministero dell'ambiente, di concerto con i Ministeri competenti per materia, sentita la Conferenza Unificata, possono essere emanate linee guida per l'individuazione delle misure di cui al comma 1 relativamente ai settori non disciplinati da norme statali.
 
 All'attuazione delle previsioni contenute nei piani in merito alla limitazione della circolazione dei veicoli a motore, ai sensi del comma 1, lettera a), provvedono i sindaci o la diversa autorita' individuata dalle regioni o dalle province autonome. In caso di inerzia, provvedono in via sostitutiva le regioni o le province autonome o la diversa autorita' individuata dalle regioni o dalle province autonome ai sensi della vigente normativa regionale. La normativa regionale stabilisce idonee forme di raccordo e coordinamento tra regioni o province autonome ed autorita' competente ad adottare i provvedimenti di limitazione della circolazione. Le modalita' e la durata delle limitazioni devono essere funzionali alle finalita' dei diversi piani di cui agli articoli 9, 10 e 13. Le ordinanze di cui all'articolo 7, comma 1, lettere a) e b), del decreto legislativo 30 aprile 1992, n. 285, possono essere adottate dai sindaci per motivi connessi all'inquinamento atmosferico nei casi e con i criteri previsti dal presente comma. Resta fermo, in assenza dei piani di cui agli articoli 9, 10 e 13 o qualora i piani non individuino i casi ed i criteri di limitazione della circolazione dei veicoli a motore, il potere del sindaco di imporre tali limitazioni per motivi connessi all'inquinamento atmosferico attraverso le ordinanze previste dal decreto legislativo 18 agosto 2000, n. 267. ((PERIODO SOPPRESSO DAL D.LGS. 24 DICEMBRE 2012, N. 250)).
@@ -228,6 +785,24 @@ Nell'esecuzione degli adempimenti previsti dai commi precedenti devono essere al
 
 ((
 
+1.
+                    
+                        
+                            Con uno o piu' decreti del Ministro dell'ambiente, di concerto con il Ministro della salute e sentita la Conferenza Unificata, sono stabilite: 
+ 
+                        
+                        
+                            a)
+                            
+                                le procedure di garanzia di qualita' previste per verificare il rispetto della qualita' delle misure dell'aria ambiente; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                le procedure per l'approvazione degli strumenti di campionamento e misura della qualita' dell'aria.
+
 ))
 
 ((
@@ -264,6 +839,59 @@ Fino alla data di entrata in vigore del decreto o dei decreti previsti al comma 
 
 ## Art. 18. — Informazione del pubblico
 
+1.
+                    
+                        
+                            Le amministrazioni e gli altri enti che esercitano le funzioni previste dal presente decreto assicurano, per quanto di competenza, l'accesso del pubblico e la diffusione al pubblico delle seguenti informazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                le informazioni relative alla qualita' dell'aria ambiente previste all'allegato XVI; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                le decisioni con le quali sono concesse o negate le deroghe previste all'articolo 9, comma 10; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                i piani di qualita' dell'aria previsti all'articolo 9 e all'articolo 13 e le misure di cui all'articolo 9, comma 2, e di cui all'articolo 13, comma 2; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                i piani di azione previsti all'articolo 10; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                le autorita' e gli organismi titolari dei compiti tecnici di cui all'articolo 17. 
+
+                            
+                        
+                        
+                            e-bis)
+                            
+                                i progetti approvati previsti dall'articolo 3, comma 3, e dall'articolo 5, comma 6; 
+
+                            
+                        
+                        
+                            e-ter)
+                            
+                                la documentazione di cui all'allegato III, paragrafo 5.
+
 Per l'accesso alle informazioni si applica il decreto legislativo n. 195 del 2005. Per la diffusione al pubblico si utilizzano la radiotelevisione, la stampa, le pubblicazioni, i pannelli informativi, le reti informatiche o altri strumenti di adeguata potenzialita' e di facile accesso, senza oneri aggiuntivi per il pubblico. Le informazioni diffuse al pubblico devono essere aggiornate e precise e devono essere rese in forma chiara e comprensibile. I piani e un documento riepilogativo delle misure di cui al comma 1, lettera c), devono essere, in tutti i casi, pubblicati su pagina web. E' assicurato, nei modi previsti dall'articolo 9 del decreto legislativo 27 gennaio 2010, n. 32, l'accesso del pubblico ai servizi di rete per le informazioni di cui al presente articolo che ricadano tra i dati territoriali disciplinati dal predetto decreto e che siano prodotti e gestiti in conformita' allo stesso.
 
 Le regioni e le province autonome elaborano e mettono a disposizione del pubblico relazioni annuali aventi ad oggetto tutti gli inquinanti disciplinati dal presente decreto e contenenti una sintetica illustrazione circa i superamenti dei valori limite, dei valori obiettivo, degli obiettivi a lungo termine, delle soglie di informazione e delle soglie di allarme con riferimento ai periodi di mediazione previsti, con una sintetica valutazione degli effetti di tali superamenti. Le relazioni possono includere ulteriori informazioni e valutazioni in merito alla tutela delle foreste e informazioni su altri inquinanti per cui il presente decreto prevede la misurazione, tra cui i precursori dell'ozono di cui all'allegato X, parte 2.
@@ -274,17 +902,279 @@ I soggetti pubblici e privati che procedono, anche al di fuori dei casi previsti
 
 ## Art. 19. — Relazioni e comunicazioni
 
+1.
+                    
+                        
+                            Fatto salvo quanto previsto per le sostanze inquinanti oggetto delle comunicazioni disciplinate ((ai commi 3, 5, 7 e 8)), le regioni e le province autonome trasmettono i seguenti dati ed informazioni al Ministero dell'ambiente ed all'ISPRA: 
+ 
+                        
+                        
+                            a)
+                            
+                                per le zone di cui all'articolo 9, comma 1: 
+ 1) entro sei mesi dalla fine di ciascun anno, i livelli che superano i valori limite ((o i livelli critici)) oltre il margine di tolleranza o che superano i valore limite ((o i livelli critici)) degli inquinanti per i quali non e' stabilito un margine di tolleranza, le date o i periodi in cui il superamento si e' verificato, nonche' i valori misurati, utilizzando a tal fine il formato dell'appendice VI; 
+ 2) entro sei mesi dalla fine di ciascun anno, i motivi di ciascun superamento, utilizzando a tal fine il formato dell'appendice VI; 
+ 3) entro diciotto mesi dalla fine dell'anno durante il quale sono stati misurati o valutati i livelli di cui al numero 1), i piani di cui all'articolo 9, comma 1, ((sempre che quelli gia' presentati dalle regioni e province autonome non siano considerati idonei a contrastare i superamenti predetti)) nonche' le informazioni di cui all'appendice VII nel formato ivi previsto ((eventualmente accompagnati dalla comunicazione relativa alla idoneita' soprarichiamata)); 
+ 4)((entro due mesi dalla relativa adozione, le eventuali modifiche, integrazioni ed aggiornamenti dei piani trasmessi ai sensi del punto 3);))
+                                
+                            
+                        
+                        
+                            b)
+                            
+                                entro sei mesi dalla fine di ciascun anno, gli aggiornamenti intervenuti nell'elenco delle zone e degli agglomerati di cui all'articolo 9, commi 1 e 3, utilizzando a tal fine il formato dell'appendice VI; 
 
+                            
+                        
+                        
+                            c)
+                            
+                                ricorrendone i presupposti, la relazione prevista dall'allegato I, paragrafo 2, da inviare unitamente alle informazioni trasmesse ai sensi della lettera a), punti 1) e 2), e delle lettere b) ed f); 
+
+                            
+                        
+                        
+                            d)
+                            
+                                entro sei mesi dalla fine di ciascun anno, i dati sui livelli di concentrazione di cui all'articolo 6, comma 1, lettera a), utilizzando il formato stabilito nel decreto previsto da tale articolo; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                entro sei mesi dalla fine di ciascun anno, i dati sui livelli di concentrazione di cui all'articolo 6, comma 1, lettera d), utilizzando il formato stabilito nel decreto previsto da tale articolo; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                per tutte le zone e gli agglomerati, entro sei mesi dalla fine di ciascun anno, la determinazione del superamento delle soglie di valutazione superiore o inferiore utilizzando a tal fine il formato dell'appendice VI ((, nonche' le altre informazioni previste da tale appendice)).
+
+2.
+                    
+                        
+                            Il Ministero dell'ambiente, sulla base dei dati e delle informazioni di cui al comma 1 verificati ai sensi del comma 12, comunica alla Commissione europea: 
+ 
+                        
+                        
+                            a)
+                            
+                                entro nove mesi dalla fine di ciascun anno, i dati e le informazioni di cui al comma 1, lettera a), numeri 1) e 2), e lettere b), c) ed f); 
+
+                            
+                        
+                        
+                            b)
+                            
+                                entro due anni dalla fine dell'anno in cui sono stati misurati o valutati i livelli di cui al comma 1, lettera a), numero 1), le informazioni di cui all'appendice VII nel formato ivi previsto; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                entro due anni dalla fine dell'anno in cui sono stati per la prima volta misurati o valutati i livelli di cui al comma 1, lettera a), numero 1), i piani di cui al comma 1, lettera a), numero 3); 
+
+                            
+                        
+                        
+                            d)
+                            
+                                entro tre mesi dalla relativa ricezione, le modifiche, le integrazioni e gli aggiornamenti di cui al comma 1, lettera a), numero 4); 
+
+                            
+                        
+                        
+                            e)
+                            
+                                entro tre mesi dalla relativa ricezione, i dati e le informazioni di cui al comma 1, lettera d).
+
+((2-bis. Nella comunicazione prevista dal comma 2, lettera b), il Ministero dell'ambiente inserisce anche, nel formato previsto dall'appendice VII, le informazioni relative alle misure di cui all'articolo 9, comma 9))
+
+3.
+                    
+                        
+                            Le regioni e le province autonome, utilizzando il formato dell'appendice VI, trasmettono al Ministero dell'ambiente e all'ISPRA i dati sui livelli di concentrazione e sulle deposizioni di cui all'articolo 6, comma 1, lettere b) e c), e, per tutte le zone e gli agglomerati la determinazione del superamento delle soglie di valutazione superiore o inferiore di cui all'allegato II, paragrafo 1, tabella 7, nonche', in relazione alle zone ed agli agglomerati di cui all'articolo 9, comma 2, i seguenti dati e informazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                l'elenco di tali zone e agglomerati, con individuazione delle aree di superamento; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                i livelli di concentrazione degli inquinanti oggetto di valutazione; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                le informazioni sui motivi dei superamenti, con particolare riferimento alle fonti; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                le informazioni sulla popolazione esposta ai superamenti.
 
 I dati e le informazioni di cui al comma 3 ((, le altre informazioni previste dall'appendice VI)) e, ricorrendone i presupposti, la relazione prevista all'allegato I, paragrafo 2, sono trasmessi con cadenza annuale entro il 30 giugno dell'anno successivo a quello a cui si riferiscono.
 
+5.
+                    
+                        
+                            Le regioni e le province autonome trasmettono tempestivamente al Ministero dell'ambiente e all'ISPRA: 
+ 
+                        
+                        
+                            a)
+                            
+                                la documentazione relativa all'istruttoria effettuata al fine di individuare le misure necessarie a perseguire il raggiungimento dei valori obiettivo di cui all'allegato XIII e di individuare, tra le stesse, quelle che non comportano costi sproporzionati; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                nei casi in cui l'istruttoria svolta dalla regione o provincia autonoma ha esito positivo, le misure adottate ai sensi dell'articolo 9, comma 2.
+
 Il Ministero dell'ambiente, entro i tre mesi successivi alla data prevista nel comma 4, comunica alla Commissione europea i dati e le informazioni previsti da tale comma verificati ai sensi del comma 12, nonche', limitatamente agli idrocarburi policiclici aromatici ed ai metalli, i dati e le informazioni di cui all'articolo 6, comma 3, verificati ai sensi del comma 12. Il Ministero dell'ambiente comunica inoltre alla Commissione europea la documentazione e le misure di cui al comma 5 verificate ai sensi del comma 12, entro tre mesi dalla relativa ricezione.
+
+7.
+                    
+                        
+                            Le regioni e le province autonome trasmettono i seguenti dati ed informazioni al Ministero dell'ambiente ed all'ISPRA: 
+ 
+                        
+                        
+                            a)
+                            
+                                entro sei mesi dalla fine di ciascun anno, gli aggiornamenti intervenuti nell'elenco delle zone e degli agglomerati di cui all'articolo 13, commi 1, 2 e 3, utilizzando a tal fine il formato di cui all'appendice VI; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                entro diciotto mesi dalla fine dell'anno in cui sono stati misurati o valutati superamenti del valore obiettivo di cui all'allegato VII, le informazioni previste all'appendice VIII, sezione I, inclusa la documentazione relativa all'istruttoria effettuata al fine di individuare le misure necessarie a perseguire il raggiungimento del valore obiettivo e di individuare, tra le stesse, quelle che non comportano costi sproporzionati; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                per le zone di cui all'articolo 13, commi 1 e 2, entro sei mesi dalla fine di ciascun anno, i livelli di ozono che superano il valore obiettivo e l'obiettivo a lungo termine, le date in cui il superamento si e' verificato, nonche' le relative cause ed i valori misurati, utilizzando a tal fine il formato di cui all'appendice VI; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                per tutte le zone e gli agglomerati, entro sei mesi dalla fine di ciascun anno, i livelli di ozono che superano le soglie di informazione e di allarme, le date in cui il superamento si e' verificato, nonche' le relative cause ed i valori misurati, utilizzando il formato di cui all'appendice VI; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                per tutte le zone e gli agglomerati, entro 6 mesi dalla fine di ciascun anno, le altre informazioni previste per l'ozono e per i relativi precursori di cui all'appendice VI; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                ogni tre anni, entro il 30 marzo successivo alla fine di ciascun triennio, le informazioni previste all'appendice VIII, sezioni II e III, con la documentazione relativa all'istruttoria effettuata al fine di individuare le misure necessarie a perseguire il raggiungimento dell'obiettivo a lungo termine e di individuare, tra le stesse, quelle che non comportano costi sproporzionati; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                ricorrendone i presupposti, la relazione prevista all'allegato I, paragrafo 2, da inviare unitamente alle informazioni trasmesse ai sensi delle lettere a), c), d) ed e).
+
+8.
+                    
+                        
+                            Le regioni e le province autonome trasmettono i seguenti dati ed informazioni all'ISPRA: 
+ 
+                        
+                        
+                            a)
+                            
+                                per ciascuno dei mesi compresi tra aprile e settembre di ogni anno: 
+ 1) entro i primi dieci giorni del mese successivo, per ogni giorno in cui sono stati misurati superamenti delle soglie di informazione o di allarme per l'ozono, le informazioni, formulate in via provvisoria, previste all'appendice IX, sezione I; 
+ 2) entro il 5 ottobre di ciascun anno, le altre informazioni provvisorie previste all'appendice IX, sezione II.
+
+9.
+                    
+                        
+                            Il Ministero dell'ambiente, sulla base dei dati e delle informazioni di cui al comma 7 verificati ai sensi del comma 12, comunica alla Commissione europea: 
+ 
+                        
+                        
+                            a)
+                            
+                                entro nove mesi dalla fine di ciascun anno, le informazioni di cui al comma 7, lettera a); 
+
+                            
+                        
+                        
+                            b)
+                            
+                                entro due anni dalla fine dell'anno in cui sono stati misurati o valutati i superamenti del valore obiettivo, le informazioni di cui al comma 7, lettera b); 
+
+                            
+                        
+                        
+                            c)
+                            
+                                entro nove mesi dalla fine di ciascun anno, le informazioni di cui al comma 7, lettere c),
+                            
+                        
+                        
+                            d)
+                            
+                                e) e g); 
+ d) ogni tre anni, entro il 30 settembre successivo alla fine di ciascun triennio, le informazioni di cui al comma 7, lettera f); 
+
+                            
+                        
+                        
+                            e)
+                            
+                                entro i cinque giorni successivi alla scadenza del termine previsto al comma 13, lettera a), le informazioni ivi previste e, entro il 31 ottobre di ciascun anno, le informazioni previste al comma 13, lettera b).
 
 Per la trasmissione dei dati e delle informazioni di cui al presente articolo si osservano, ove gia' definite, le modalita' stabilite dalla Commissione europea.
 
 La trasmissione dei dati e delle informazioni di cui ai commi 1, 4, 5 e 7 e' effettuata mediante supporto informatico non riscrivibile.
 
 L'ISPRA, d'intesa con il Ministero dell'ambiente, verifica la completezza e la correttezza dei dati e delle informazioni ricevuti ai sensi dei commi 1, 4, 5 e 7, e dell'articolo 6, comma 3, nonche' la conformita' del formato ((...)). ((PERIODO SOPPRESSO DAL D.LGS. 24 DICEMBRE 2012, N. 250)). Sono esclusi da tale verifica i piani e le relative modifiche ed integrazioni di cui al comma 1, lettera a), punti 3 e 4. In caso di dati ed informazioni incompleti o difformi rispetto ai requisiti previsti, il Ministero dell'ambiente informa le regioni e le province autonome interessate che provvedono tempestivamente ad un nuovo invio all'ISPRA ed al Ministero stesso.
+
+13.
+                    
+                        
+                            L'ISPRA verifica la completezza e la correttezza dei dati e delle informazioni ricevuti ai sensi del comma 8 e li invia al Ministero dell'ambiente nel formato di cui all'appendice IX, sezioni I e II, entro: 
+ 
+                        
+                        
+                            a)
+                            
+                                quindici giorni nel caso di cui al comma 8, lettera a), punto 1); 
+
+                            
+                        
+                        
+                            b)
+                            
+                                venti giorni nel caso di cui al comma 8, lettera a), punto 2).
 
 L'ISPRA carica tempestivamente, sulla banca dati appositamente individuata dall'Agenzia europea per l'ambiente, i dati e le informazioni trasmessi dal Ministero dell'ambiente ai sensi dei commi 2, 6 e 9.
 
@@ -303,6 +1193,129 @@ Il Coordinamento previsto dal comma 1 assicura, anche mediante gruppi di lavoro,
 Ai soggetti che partecipano, a qualsiasi titolo, al Coordinamento previsto al comma 1 non e' dovuto alcun compenso o rimborso spese o altro tipo di emolumento per tale partecipazione.
 
 ## Art. 21. — Abrogazioni
+
+1.
+                    
+                        
+                            A decorrere dalla data di entrata in vigore del presente decreto sono abrogati: 
+ 
+                        
+                        
+                            a)
+                            
+                                il decreto legislativo 4 agosto 1999, n. 351; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                il decreto legislativo 21 maggio 2004, n. 183; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                il decreto legislativo 3 agosto 2007, n. 152; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                il decreto del Presidente della Repubblica 24 maggio 1988, n. 203, fatte salve le disposizioni di cui il decreto legislativo 3 aprile 2006, n. 152, preveda l'ulteriore vigenza; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                l'articolo 3 della legge 4 novembre 1997, n. 413; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                il decreto del Presidente del Consiglio dei Ministri in data 28 marzo 1983, pubblicato nel supplemento ordinario alla Gazzetta Ufficiale n. 145 del 28 maggio 1983; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                il decreto del Ministro dell'ambiente 20 maggio 1991, recante criteri per la raccolta dei dati inerenti la qualita' dell'aria, pubblicato nella Gazzetta Ufficiale n. 126 del 31 maggio 1991; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                il decreto del Ministro dell'ambiente 20 maggio 1991, pubblicato nella Gazzetta Ufficiale n. 126 del 31 maggio 1991, recante i criteri per l'elaborazione dei piani regionali per il risanamento e la tutela della qualita' dell'aria; 
+
+                            
+                        
+                        
+                            i)
+                            
+                                il decreto del Presidente della Repubblica 10 gennaio 1992, recante atto di indirizzo e coordinamento in materia di sistema di rilevazione dell'inquinamento urbano, pubblicato nella Gazzetta Ufficiale n. 7 del 10 gennaio 1992; 
+
+                            
+                        
+                        
+                            l)
+                            
+                                il decreto del Ministro dell'ambiente 6 maggio 1992, pubblicato nella Gazzetta Ufficiale n. 111 del 14 maggio 1992, recante la definizione del sistema nazionale finalizzato a controllo ed assicurazione di qualita' dei dati di inquinamento atmosferico ottenuti dalle reti di monitoraggio; 
+
+                            
+                        
+                        
+                            m)
+                            
+                                il decreto del Ministro dell'ambiente 15 aprile 1994, concernente le norme tecniche in materia di livelli e di stati di attenzione e di allarme per gli inquinanti atmosferici nelle aree urbane, pubblicato nella Gazzetta Ufficiale n. 107 del 10 maggio 1994; 
+
+                            
+                        
+                        
+                            n)
+                            
+                                il decreto del Ministro dell'ambiente 25 novembre 1994, recante l'aggiornamento delle norme tecniche in materia di limite di concentrazione e di livelli di attenzione e di allarme per gli inquinanti atmosferici nelle aree urbane e disposizioni per la misura di alcuni inquinanti di cui al decreto del Ministro dell'ambiente 15 aprile 1994, pubblicato nel supplemento ordinario alla Gazzetta Ufficiale n. 290 del 13 dicembre 1994; 
+
+                            
+                        
+                        
+                            o)
+                            
+                                il decreto del Ministro dell'ambiente 16 maggio 1996, recante attivazione di un sistema di sorveglianza di inquinamento da ozono, pubblicato nella Gazzetta Ufficiale n. 163 del 13 luglio 1996; 
+
+                            
+                        
+                        
+                            p)
+                            
+                                il decreto del Ministro dell'ambiente 21 aprile 1999, n. 163, recante norme per l'individuazione dei criteri ambientali e sanitari in base ai quali i sindaci adottano le misure di limitazione della circolazione, pubblicato nella Gazzetta Ufficiale n. 135 dell'11 giugno 1999; 
+
+                            
+                        
+                        
+                            q)
+                            
+                                il decreto del Ministro dell'ambiente 2 aprile 2002, n. 60, recante recepimento della direttiva 1999/30/CE del 22 aprile 1999 del Consiglio concernente i valori limite di qualita' dell'aria ambiente per il biossido di zolfo, il biossido di azoto, gli ossidi di azoto, le particelle e il piombo e della direttiva 2000/69/CE relativa ai valori limite di qualita' dell'aria ambiente per il benzene ed il monossido di carbonio, pubblicato nel supplemento ordinario alla Gazzetta Ufficiale n. 87 del 13 aprile 2002; 
+
+                            
+                        
+                        
+                            r)
+                            
+                                il decreto del Ministro dell'ambiente 20 settembre 2002, recante le modalita' per la garanzia della qualita' del sistema delle misure di inquinamento atmosferico, pubblicato nella Gazzetta Ufficiale n. 231 del 2 ottobre 2002; 
+
+                            
+                        
+                        
+                            s)
+                            
+                                il decreto del Ministro dell'ambiente 1° ottobre 2002, n. 261, recante le direttive tecniche per la valutazione preliminare della qualita' dell'aria ambiente, i criteri per l'elaborazione del piano o dei programmi di cui agli articoli 8 e 9 del decreto legislativo 4 agosto 1999, n. 351, pubblicato nella Gazzetta Ufficiale n. 272 del 20 novembre 2002.
 
 ## Art. 22. — Disposizioni transitorie e finali
 

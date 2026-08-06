@@ -8,8 +8,8 @@ codice_redazionale: 007G0090
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:39Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -48,7 +48,64 @@ Nella produzione delle vaschette di alluminio e delle loro coperture e' consenti
 
 ## Art. 5. — Condizioni d'uso
 
+1.
+                    
+                        
+                            I materiali e gli oggetti disciplinati dal presente regolamento possono essere impiegati alle seguenti condizioni:
+ 
+                        
+                        
+                            a)
+                            
+                                contatto breve: tempi inferiori alle 24 ore in qualunque condizione di temperatura;
+
+                            
+                        
+                        
+                            b)
+                            
+                                contatto prolungato: tempi superiori alle 24 ore a temperatura refrigerata;
+
+                            
+                        
+                        
+                            c)
+                            
+                                contatto prolungato: tempi superiori alle 24 ore a temperatura ambiente limitatamente agli alimenti riportati nell'allegato IV del regolamento.
+
 ## Art. 6. — Etichettatura
+
+1.
+                    
+                        
+                            Fatte salve le disposizioni del regolamento (CE) n. 1935/2004 in materia di etichettatura, i materiali e gli oggetti disciplinati dal presente regolamento devono riportare in etichetta una o piu' istruzioni indicanti:
+ 
+                        
+                        
+                            a)
+                            
+                                non idoneo al contatto con alimenti fortemente acidi o fortemente salati;
+
+                            
+                        
+                        
+                            b)
+                            
+                                destinato al contatto con alimenti a temperature refrigerate;
+
+                            
+                        
+                        
+                            c)
+                            
+                                destinato al contatto con alimenti a temperature non refrigerate per tempi non superiori alle 24 ore;
+
+                            
+                        
+                        
+                            d)
+                            
+                                destinato al contatto con gli alimenti di cui all'allegato IV a temperature ambiente anche per tempi superiori alle 24 ore.
 
 I materiali ed oggetti di leghe di alluminio possono riportare in etichetta la seguente dicitura «alluminio».
 

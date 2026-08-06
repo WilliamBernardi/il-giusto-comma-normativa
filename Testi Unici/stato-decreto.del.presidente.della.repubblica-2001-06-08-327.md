@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Testi Unici
 vigenza_date: 2023-12-10
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:39:58Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -52,6 +52,38 @@ I procedimenti di cui al presente testo unico si ispirano ai principi di economi
 
 ((
 
+1.
+                        
+                            
+                                Ai fini del presente testo unico: 
+ 
+                            
+                            
+                                a)
+                                
+                                    per "espropriato", si intende il soggetto, pubblico o privato, titolare del diritto espropriato; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    per "autorita' espropriante", si intende, l'autorita' amministrativa titolare del potere di espropriare e che cura il relativo procedimento, ovvero il soggetto privato, al quale sia stato attribuito tale potere, in base ad una norma; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    per "beneficiario dell'espropriazione", si intende il soggetto, pubblico o privato, in cui favore e' emesso il decreto di esproprio; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    per "promotore dell'espropriazione", si intende il soggetto, pubblico o privato, che chiede l'espropriazione. (L)
+
 Tutti gli atti della procedura espropriativa, ivi incluse le comunicazioni ed il decreto di esproprio, sono disposti nei confronti del soggetto che risulti proprietario secondo i registri catastali, salvo che l'autorita' espropriante non abbia tempestiva notizia dell'eventuale diverso proprietario effettivo. Nel caso in cui abbia avuto notizia della pendenza della procedura espropriativa dopo la comunicazione dell'indennita' provvisoria al soggetto che risulti proprietario secondo i registri catastali, il proprietario effettivo puo', nei trenta giorni successivi, concordare l'indennita' ai sensi dell'articolo 45, comma 2. (L)
 
 Colui che risulta proprietario secondo i registri catastali e riceva la notificazione o comunicazione di atti del procedimento espropriativo, ove non sia piu' proprietario e' tenuto di comunicarlo all'amministrazione procedente entro trenta giorni dalla prima notificazione, indicando altresi', ove ne sia a conoscenza, il nuovo proprietario, o comunque fornendo copia degli atti in suo possesso utili a ricostruire le vicende dell'immobile. (L)
@@ -72,6 +104,59 @@ Fermo restando il rispetto della normativa paesaggistica, si intendono di norma 
 I beni appartenenti al patrimonio indisponibile dello Stato e degli altri enti pubblici possono essere espropriati per perseguire un interesse pubblico di rilievo superiore a quello soddisfatto con la precedente destinazione. (L)
 
 I beni descritti dagli articoli 13, 14, 15 e 16 della legge 27 maggio 1929, n. 810, non possono essere espropriati se non vi e' il previo accordo con la Santa Sede. (L)
+
+4.
+                        
+                            
+                                Gli edifici aperti al culto non possono essere espropriati se non per gravi ragioni previo accordo: 
+ 
+                            
+                            
+                                a)
+                                
+                                    con la competente autorita' ecclesiastica, se aperti al culto cattolico; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    con l'Unione delle Chiese cristiane, se aperti al culto pubblico avventista; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    con il presidente delle Assemblee di Dio in Italia, se aperti al culto pubblico delle chiese ad esse associate; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    con l'Unione delle Comunita' ebraiche italiane, se destinati all'esercizio pubblico del culto ebraico: 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    con l'Unione cristiana evangelica battista d'Italia, se aperti al culto pubblico delle chiese che ne facciano parte; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    con il Decano della Chiesa evangelica luterana in Italia con l'organo responsabile della comunita' interessata, se aperti al culto della medesima Chiesa; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    col rappresentante di ogni altra confessione religiosa, nei casi previsti dalla legge. (L)
 
 Si applicano le regole sull'espropriazione dettate dal diritto internazionale generalmente riconosciuto e da trattati internazionali cui l'Italia aderisce. (L)
 
@@ -120,10 +205,68 @@ L'autorita' espropriante, nel caso di opere di minore entita' ((e nei casi di cu
 
 Competenze particolari dei Comuni
 
+1.
+                        
+                            
+                                Il Comune puo' espropriare: 
+ 
+                            
+                            
+                                a)
+                                
+                                    le aree inedificate e quelle su cui vi siano costruzioni in contrasto con la destinazione di zona o abbiano carattere provvisorio, a seguito dell'approvazione del piano regolatore generale, per consentirne l'ordinata attuazione nelle zone di espansione; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'immobile al quale va incorporata un'area inserita in un piano particolareggiato e non utilizzata, quando il suo proprietario non intenda acquistarla o non comunichi le proprie determinazioni, entro il termine di sessanta giorni, decorrente dalla ricezione di un avviso del dirigente dell'ufficio per le espropriazioni; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    gli immobili necessari per delimitare le aree fabbricabili e per attuare il piano regolatore, nel caso di mancato accordo tra i proprietari del comprensorio; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    le aree inedificate e le costruzioni da trasformare secondo speciali prescrizioni, quando decorre inutilmente il termine, non inferiore a novanta giorni, fissato nell'atto determinativo della formazione del consorzio, notificato ai proprietari interessati. 
+ (L)
+
 ## - Titolo II DISPOSIZIONI GENERALI Capo I Identificazione delle fasi che precedono il decreto d'esproprio
 
 ## Art. 8. — (L) 
  Le fasi del procedimento espropriativi
+
+1.
+                        
+                            
+                                Il decreto di esproprio puo' essere emanato qualora: 
+ 
+                            
+                            
+                                a)
+                                
+                                    l'opera da realizzare sia prevista nello strumento urbanistico generale, o in un atto di natura ed efficacia equivalente, e sul bene da espropriare sia stato apposto il vincolo preordinato all'esproprio; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    vi sia stata la dichiarazione di pubblica utilita': 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    sia stata determinata, anche se in via provvisoria, l'indennita' di esproprio. (L)
 
 ## - Capo II La fase della sottoposizione del bene al vincolo preordinato all'esproprio
 
@@ -164,6 +307,24 @@ Per le opere per le quali sia gia' intervenuto, in conformita' alla normativa vi
 
 
 
+1.
+                        
+                            
+                                Al proprietario, del bene sul quale si intende apporre il vincolo preordinato all'esproprio, va inviato l'avviso dell'avvio del procedimento: 
+ 
+                            
+                            
+                                a)
+                                
+                                    nel caso di adozione di una variante al piano regolatore per la realizzazione di una singola opera pubblica, almeno venti giorni prima della delibera del consiglio comunale; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    nei casi previsti dall'articolo 10, comma 1, almeno venti giorni prima dell'emanazione dell'atto se cio' risulti compatibile con le esigenze di celerita' del procedimento.
+
 L'avviso di avvio del procedimento e' comunicato personalmente agli interessati alle singole opere previste dal piano o dal progetto. Allorche' il numero dei destinatari sia superiore a 50, la comunicazione e' effettuata mediante pubblico avviso, da affiggere all'albo pretorio dei Comuni nel cui territorio ricadono gli immobili da assoggettare al vincolo, nonche' su uno o piu' quotidiani a diffusione nazionale e locale e, ove istituito, sul sito informatico della Regione o Provincia autonoma nel cui territorio ricadono gli immobili da assoggettare al vincolo. L'avviso deve precisare dove e con quali modalita' puo' essere consultato il piano o il progetto.
 Gli interessati possono formulare entro i successivi trenta giorni osservazioni che vengono valutate dall'autorita' espropriante ai fini delle definitive determinazioni. (L)
 
@@ -187,6 +348,24 @@ Salvo quanto previsto dal comma 2, restano in vigore le disposizioni vigenti che
 ## Art. 12. — (( (Gli atti che comportano la dichiarazione di pubblica utilita') ))
 
 ((
+
+1.
+                        
+                            
+                                La dichiarazione di pubblica utilita' si intende disposta: 
+ 
+                            
+                            
+                                a)
+                                
+                                    quando l'autorita' espropriante approva a tale fine il progetto definitivo dell'opera pubblica o di pubblica utilita', ovvero quando sono approvati il piano particolareggiato, il piano di lottizzazione, il piano di recupero, il piano di ricostruzione, il piano delle aree da destinare a insediamenti produttivi, ovvero quando e' approvato il piano di zona; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    in ogni caso, quando in base alla normativa vigente equivale a dichiarazione di pubblica utilita' l'approvazione di uno strumento urbanistico, anche di settore o attuativo, la definizione di una conferenza di servizi o il perfezionamento di un accordo di programma, ovvero il rilascio di una concessione, di una autorizzazione o di un atto avente effetti equivalenti. (L)
 
 Le varianti derivanti dalle prescrizioni della conferenza di servizi, dell'accordo di programma o di altro atto di cui all'articolo 10, nonche' le successive varianti in corso d'opera, qualora queste ultime non comportino variazioni di tracciato al di fuori delle zone di rispetto previste ai sensi del decreto del Presidente della Repubblica 11 luglio 1980, n. 753, nonche' ai sensi del decreto ministeriale 1 aprile 1968, sono approvate dall'autorita' espropriante ai fini della dichiarazione di pubblica utilita' e non richiedono nuova apposizione del vincolo preordinato all'esproprio.(L)
 
@@ -223,6 +402,30 @@ Qualora il vincolo preordinato all'esproprio riguardi immobili da non sottoporre
 L'autorita' che emana uno degli atti previsti dall'articolo 12, comma 1, ovvero esegue un decreto di espropriazione, ne trasmette una copia al Ministero delle infrastrutture e dei trasporti, per le opere di competenza statale, e al presidente della Regione, per le opere di competenza regionale. (L)
 
 Con decreto del Ministro delle infrastrutture e dei trasporti ovvero del presidente della Regione, rispettivamente per le opere di competenza statale o regionale, sono indicati gli uffici competenti all'aggiornamento degli elenchi degli atti da cui deriva la dichiarazione di pubblica utilita' ovvero con cui e' disposta l'espropriazione, distinti in relazione alle diverse amministrazioni che li hanno adottati; nello stesso decreto puo' prevedersi che i medesimi o altri uffici possano dare indicazioni operative alle autorita' esproprianti per la corretta applicazione del presente testo unico. (L)
+
+3.
+                        
+                            
+                                L'autorita' espropriante comunica all'ufficio di cui al comma 2:
+
+                            
+                            
+                                a)
+                                
+                                    quale sia lo stato del procedimento d'esproprio, almeno sei mesi e non oltre tre mesi prima della data di scadenza degli effetti della dichiarazione di pubblica utilita'; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    se sia stato eseguito entro il prescritto termine il decreto d'esproprio ovvero se il medesimo termine sia inutilmente scaduto;
+                                
+                            
+                            
+                                c)
+                                
+                                    se siano stati impugnati gli atti di adozione e di approvazione del piano urbanistico generale, l'atto che dichiara la pubblica utilita' dell'opera o il decreto di esproprio. (L)
 
 ## - Sezione II Disposizioni particolari sulla approvazione del progetto definitivo dell'opera
 
@@ -349,6 +552,22 @@ Il presidente del tribunale civile, nella cui circoscrizione si trova il bene da
 
 Il presidente del tribunale civile sceglie il terzo tecnico tra i professori universitari, anche associati, di estimo, ovvero tra coloro che risultano inseriti nell'albo dei periti o dei consulenti tecnici del tribunale civile nella cui circoscrizione si trova il bene. (L)
 
+6.
+                        
+                            
+                                Le spese per la nomina dei tecnici: 
+                            
+                            
+                                a)
+                                
+                                    sono liquidate dall'autorita' espropriante, in base alle tariffe professionali;
+                                
+                            
+                            
+                                b)
+                                
+                                    sono poste a carico del proprietario se la stima e' inferiore alla somma determinata in via provvisoria, sono divise per meta' tra il beneficiario dell'esproprio e l'espropriato se la differenza con la somma determinata in via provvisoria non supera in aumento il decimo e, negli altri casi, sono poste a carico del beneficiario dell'esproprio. (L)
+
 I tecnici comunicano agli interessati il luogo, la data e l'ora delle operazioni, mediante lettera raccomandata con avviso di ricevimento o strumento telematico, almeno sette giorni prima della data stabilita. (L)
 
 Gli interessati possono assistere alle operazioni anche tramite persone di loro fiducia, formulare osservazioni orali e presentare memorie scritte e documenti, di cui i tecnici tengono conto. (L)
@@ -374,6 +593,24 @@ La relazione della commissione e' depositata e comunicata secondo le previsioni 
 
 Qualora l'avvio dei lavori rivesta carattere di urgenza, tale da non consentire l'applicazione delle disposizioni dell'articolo 20, il decreto di esproprio puo' essere emanato ed eseguito in base alla determinazione urgente della indennita' di espropriazione, senza particolari indagini o formalita'. Nel decreto si da' atto della determinazione urgente dell'indennita' e si invita il proprietario, nei trenta giorni successivi alla immissione in possesso, a comunicare se la condivide. (L)
 
+2.
+                        
+                            
+                                Il decreto di esproprio puo' altresi' essere emanato ed eseguito in base alla determinazione urgente della indennita' di espropriazione senza particolari indagini o formalita', nei seguenti casi: 
+ 
+                            
+                            
+                                a)
+                                
+                                    per gli interventi di cui alla legge 21 dicembre 2001, n. 443; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    allorche' il numero dei destinatari della procedura espropriativa sia superiore a 50. (L)
+
 Ricevuta dall'espropriato la comunicazione di cui al comma 1 e la documentazione comprovante la piena e libera disponibilita' del bene, l'autorita' espropriante dispone il pagamento dell'indennita' di espropriazione nel termine di sessanta giorni ((...)) Decorso tale termine al proprietario sono dovuti gli interessi nella misura del tasso legale. (L)
 
 Se non condivide la determinazione della misura della indennita' di espropriazione, entro il termine previsto dal comma 1 l'espropriato puo' chiedere la nomina dei tecnici, ai sensi dell'articolo 21 e, se non condivide la relazione finale, puo' proporre l'opposizione alla stima. (L)
@@ -385,6 +622,24 @@ In assenza della istanza dei proprietario, l'autorita' espropriante chiede la de
 
 
 Qualora l'avvio dei lavori rivesta carattere di particolare urgenza, tale da non consentire, in relazione alla particolare natura delle opere, l'applicazione delle disposizioni di cui ai commi 1 e 2 dell'articolo 20, puo' essere emanato, senza particolari indagini e formalita', decreto motivato che determina in via provvisoria l'indennita' di espropriazione, e che dispone anche l'occupazione anticipata dei beni immobili necessari. Il decreto contiene l'elenco dei beni da espropriare e dei relativi proprietari, indica i beni da occupare e determina l'indennita' da offrire in via provvisoria. Il decreto e' notificato con le modalita' di cui al comma 4 e seguenti dell'articolo 20 con l'avvertenza che il proprietario, nei trenta giorni successivi alla immissione in possesso, puo', nel caso non condivida l'indennita' offerta, presentare osservazioni scritte e depositare documenti. (L)
+
+2.
+                        
+                            
+                                Il decreto di cui al comma 1, puo' altresi' essere emanato ed eseguito in base alla determinazione urgente della indennita' di espropriazione senza particolari indagini o formalita', nei seguenti casi: 
+ 
+                            
+                            
+                                a)
+                                
+                                    per gli interventi di cui alla legge 21 dicembre 2001, n. 443; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    allorche' il numero dei destinatari della procedura espropriativa sia superiore a 50. (L)
 
 Al proprietario che abbia condiviso la determinazione dell'indennita' e' riconosciuto l'acconto dell'80% con le modalita' di cui al comma 6, dell'articolo 20. (L)
 
@@ -398,6 +653,66 @@ Il decreto che dispone l'occupazione ai sensi del comma 1 perde efficacia qualor
 
 ## Art. 23. — (L-R) 
  Contenuto ed effetti del decreto di esproprio
+
+1.
+                        
+                            
+                                Il decreto di esproprio: 
+ 
+                            
+                            
+                                a)
+                                
+                                    e' emanato entro il termine di scadenza dell'efficacia della dichiarazione di pubblica utilita'; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    indica gli estremi degli atti da cui e' sorto il vincolo preordinato all'esproprio e del provvedimento che ha approvato il progetto dell'opera; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    indica quale sia l'indennita' determinata in via provvisoria o urgente e precisa se essa sia stata accettata dal proprietario o successivamente corrisposta, ovvero se essa sia stata depositata presso la Cassa depositi e prestiti; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    da' atto della eventuale nomina dei tecnici incaricati di determinare in via definitiva l'indennita' di espropriazione, precisando se essa sia stata accettata dal proprietario o successivamente corrisposta, ovvero se essa sia stata depositata presso la Cassa depositi e prestiti; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    da' atto della eventuale sussistenza dei presupposti previsti dall'articolo 22, comma 1, e della determinazione urgente della indennita' provvisoria; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    dispone il passaggio del diritto di proprieta', o del diritto oggetto dell'espropriazione, sotto la condizione sospensiva che il medesimo decreto sia successivamente notificato ed eseguito; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    e' notificato al proprietario nelle forme degli atti processuali civili, con un avviso contenente l'indicazione del luogo, del giorno e dell'ora in cui e' prevista l'esecuzione del decreto di espropriazione, almeno sette giorni prima di essa; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    e' eseguito mediante l'immissione in possesso del beneficiario dell'esproprio, con la redazione del verbale di cui all'articolo 24. (L)
 
 Il decreto di esproprio e' trascritto senza indugio presso l'ufficio dei registri immobiliari. (L)
 
@@ -497,6 +812,24 @@ Pagamento definitivo della indennita'
 L'autorita' espropriante autorizza il pagamento della somma depositata al proprietario od agli aventi diritto, qualora sia divenuta definitiva rispetto a tutti la determinazione dell'indennita' di espropriazione, ovvero non sia stata tempestivamente notificata l'opposizione al pagamento o sia stato concluso tra tutte le parti interessate l'accordo per la distribuzione dell'indennita'. (R)
 
 L'autorizzazione e' disposta su istanza delle parti interessate, su proposta del responsabile del procedimento successiva alla audizione delle parti, da cui risulti anche la mancata notifica di opposizioni di terzi. (R)
+
+3.
+                        
+                            
+                                Unitamente all'istanza, vanno depositati: 
+ 
+                            
+                            
+                                a)
+                                
+                                    un certificato dei registri immobiliari, da cui risulta che non vi sono trascrizioni o iscrizioni di diritti o di azioni di terzi; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    un attestato del promotore dell'espropriazione, da cui risulti che non gli sono state notificate opposizioni di terzi. (R)
 
 ## Art. 29. — (L) 
  Pagamento dell'indennita' a seguito di procedimento giurisdizionale
@@ -668,6 +1001,52 @@ Nei casi previsti dai commi precedenti, l'indennita' e' aumentata delle somme pa
 Commissione competente alla determinazione 
  ((dell'indennita' definitiva))
 
+1.
+                        
+                            
+                                In ogni provincia, la Regione istituisce una commissione composta: 
+ 
+                            
+                            
+                                a)
+                                
+                                    dal presidente della Provincia, o da un suo delegato, che la presiede; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    dall'ingegnere capo dell'ufficio tecnico erariale, o da un suo delegato; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    dall'ingegnere capo del genio civile, o da un suo delegato; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    dal presidente dell'Istituto autonomo delle case popolari della Provincia, o da un suo delegato; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    da due esperti in materia urbanistica ed edilizia, nominati dalla Regione; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    da tre esperti in materia di agricoltura e di foreste, nominati dalla Regione su terne proposte dalle associazioni sindacali maggiormente rappresentative. (L)
+
 La Regione puo' nominare altri componenti e disporre la formazione di sottocommissioni, aventi la medesima composizione della commissione prevista dal comma 1. (L)
 
 La commissione ha sede presso l'ufficio tecnico erariale. Il dirigente dell'Ufficio distrettuale delle imposte cura la costituzione della segreteria della commissione e l'assegnazione del personale necessario. (R)
@@ -705,11 +1084,82 @@ Utilizzazione senza titolo di un bene per scopi di interesse pubblico
 
 Valutati gli interessi in conflitto, l'autorita' che utilizza un bene immobile per scopi di interesse pubblico, modificato in assenza del valido ed efficace provvedimento di esproprio o dichiarativo della pubblica utilita', puo' disporre che esso vada acquisito al suo patrimonio indisponibile e che al proprietario vadano risarciti i danni. (L)
 
+2.
+                        
+                            
+                                L'atto di acquisizione: 
+ 
+                            
+                            
+                                a)
+                                
+                                    puo' essere emanato anche quando sia stato annullato l'atto da cui sia sorto il vincolo preordinato all'esproprio, l'atto che abbia dichiarato la pubblica utilita' di un'opera o il decreto di esproprio; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    da' atto delle circostanze che hanno condotto alla indebita utilizzazione dell'area, indicando, ove risulti, la data dalla quale essa si e' verificata; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    determina la misura del risarcimento del danno e ne dispone il pagamento, entro il termine di trenta giorni, senza pregiudizio per l'eventuale azione gia' proposta; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    e' notificato al proprietario nelle forme degli atti processuali civili; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    comporta il passaggio del diritto di proprieta'; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    e' trascritto senza indugio presso l'ufficio dei registri immobiliari; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    e' trasmesso all'ufficio istituito ai sensi dell'articolo 14, comma 2. (L)
+
 Qualora sia impugnato uno dei provvedimenti indicati nei commi 1 e 2 ovvero sia esercitata una azione volta alla restituzione di un bene utilizzato per scopi di interesse pubblico, l'amministrazione che ne ha interesse o chi utilizza il bene puo' chiedere che il giudice amministrativo, nel caso di fondatezza del ricorso o della domanda, disponga la condanna al risarcimento del danno, con esclusione della restituzione del bene senza limiti di tempo. (L)
 
 Qualora il giudice amministrativo abbia escluso la restituzione del bene senza limiti di tempo ed abbia disposto la condanna al risarcimento del danno, l'autorita' che ha disposto l'occupazione dell'area emana l'atto di acquisizione, dando atto dell'avvenuto risarcimento del danno. Il decreto e' trascritto nei registri immobiliari, a cura e spese della medesima autorita'. (L)
 
 Le disposizioni di cui ai precedenti commi si applicano, in quanto compatibili, anche quando un terreno sia stato utilizzato per finalita' di edilizia residenziale pubblica, agevolata e convenzionata nonche' quando sia imposta una servitu' di diritto privato o di diritto pubblico ed il bene continui ad essere utilizzato dal proprietario o dal titolare di un altro diritto reale. (L)
+
+6.
+                        
+                            
+                                Salvi i casi in cui la legge disponga altrimenti, nei casi previsti nei precedenti commi il risarcimento del danno e' determinato: 
+ 
+                            
+                            
+                                a)
+                                
+                                    nella misura corrispondente al valore del bene utilizzato per scopi di pubblica utilita' e, se l'occupazione riguarda un terreno edificabile, sulla base delle disposizioni dell'articolo 37, commi 3, 4, 5, 6 e 7; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    col computo degli interessi moratori, a decorrere dal giorno in cui il terreno sia stato occupato senza titolo. (L)
 
 Ai sensi dell'articolo 3 della legge 1 agosto 2002, n. 166, l'autorita' espropriante puo' procedere, ai sensi dei commi precedenti, disponendo, con oneri di esproprio a carico dei soggetti beneficiari, l'eventuale acquisizione del diritto di servitu' al patrimonio di soggetti, privati o pubblici, titolari di concessioni, autorizzazioni o licenze o che svolgono, anche in base alla legge, servizi di interesse pubblico nei settori dei trasporti, telecomunicazioni, acqua, energia. (L) ((12))
 
@@ -741,6 +1191,38 @@ L'indennita' puo' anche essere concordata fra gli interessati prima o durante la
  Disposizioni generali
 
 Fin da quando e' dichiarata la pubblica utilita' dell'opera e fino alla data in cui e' eseguito il decreto di esproprio, il proprietario ha il diritto di stipulare col soggetto beneficiario dell'espropriazione l'atto di cessione del bene o della sua quota di proprieta'. (L)
+
+2.
+                        
+                            
+                                Il corrispettivo dell' atto di cessione: 
+ 
+                            
+                            
+                                a)
+                                
+                                    se riguarda un'area edificabile, e' calcolato ai sensi dell'articolo 37, ((con l'aumento del dieci per cento di cui al comma 2 dell'articolo 37)); 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    se riguarda una costruzione legittimamente edificata, e' calcolato nella misura venale del bene ai sensi dell'articolo 38 ; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    se riguarda un'area non edificabile, e' calcolato aumentando del cinquanta per cento l'importo dovuto ai sensi dell'articolo 40, comma 3 ; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    se riguarda un'area non edificabile, coltivata direttamente dal proprietario, e' calcolato moltiplicando per tre l'importo dovuto ai sensi dell'articolo 40, comma 3. In tale caso non compete l'indennita' aggiuntiva di cui all'articolo 40, comma 4. (L)
 
 L'accordo di cessione produce gli effetti del decreto di esproprio e non li perde se l'acquirente non corrisponde la somma entro il termine concordato. (L)
 

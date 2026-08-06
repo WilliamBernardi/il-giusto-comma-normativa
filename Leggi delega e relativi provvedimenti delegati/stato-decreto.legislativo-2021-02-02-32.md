@@ -8,8 +8,8 @@ vigente: true
 source: normattiva-opendata
 collection: Leggi delega e relativi provvedimenti delegati
 vigenza_date: 2023-02-28
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:41:18Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -37,7 +37,92 @@ Il Ministero della salute, le regioni e le province autonome di Trento e Bolzano
 
 In attuazione dell'articolo 78 del regolamento, per assicurare risorse finanziarie adeguate alle Autorita' competenti per i controlli ufficiali e le altre attivita' ufficiali, il presente decreto prevede l'applicazione delle tariffe obbligatorie di cui all'articolo 79 del regolamento e determina tariffe diverse ai sensi dell'articolo 80 del regolamento.
 
+6.
+                    
+                        
+                            Le tariffe di cui al presente decreto non si applicano: 
+ 
+                        
+                        
+                            a)
+                            
+                                agli enti del Terzo settore di cui al decreto legislativo 3 luglio 2017, n. 117; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                alle associazioni di volontariato iscritte nel registro regionale della Protezione civile di cui al decreto legislativo 2 gennaio 2018, n. 1.
+
+7.
+                    
+                        
+                            Gli operatori che effettuano produzione primaria e operazioni associate, come definite all'articolo 2, comma 1, lettere b), c) e d), sono soggetti esclusivamente alle tariffe per: 
+ 
+                        
+                        
+                            a)
+                            
+                                la registrazione di cui all'articolo 6, comma 13; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                il riconoscimento di cui all'articolo 4 e all'articolo 6, comma 13; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                i controlli ufficiali originariamente non programmati e i controlli ufficiali e le altre attivita' ufficiali su richiesta di cui all'articolo 9; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                le autorizzazioni di cui all'articolo 6, comma 15 del presente decreto, ove previste.
+
 ## Art. 2. — Definizioni
+
+1.
+                    
+                        
+                            Ai fini del presente decreto si applicano le definizioni del regolamento e le seguenti: 
+ 
+                        
+                        
+                            a)
+                            
+                                «prodotti primari»: i prodotti della produzione primaria compresi i prodotti della terra, dell'allevamento, della caccia e della pesca, ai sensi del regolamento (CE) n. 852/2004, articolo 2, paragrafo 1, lettera b); 
+
+                            
+                        
+                        
+                            b)
+                            
+                                «produzione primaria»: tutte le fasi della produzione, dell'allevamento o della coltivazione dei prodotti primari, compresi il raccolto, la mungitura e la produzione zootecnica precedente la macellazione e comprese la caccia e la pesca e la raccolta di prodotti selvatici, ai sensi del regolamento (CE) n. 178/2002, articolo 3, punto 17. Per il settore della pesca la produzione primaria comprende le operazioni di allevamento, pesca, raccolta di prodotti vivi della pesca in vista dell'immissione sul mercato, nonche' le operazioni connesse di macellazione, dissanguamento, decapitazione, eviscerazione, taglio delle pinne, refrigerazione e confezionamento, qualora svolte a bordo di navi da pesca o in una azienda di acquacoltura; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                «operazioni associate alla produzione primaria»: ai sensi del regolamento (CE) n. 852/2004, allegato I, parte A, capitolo I, paragrafo 1: 
+ 1) il trasporto, il magazzinaggio e la manipolazione di prodotti primari sul luogo di produzione, a condizione che cio' non alteri sostanzialmente la loro natura; 
+ 2) il trasporto di animali vivi, ove necessario per il raggiungimento degli obiettivi del regolamento (CE) n. 852/2004; 
+ 3) in caso di prodotti di origine vegetale, prodotti della pesca e della caccia, le operazioni di trasporto per la consegna di prodotti primari, la cui natura non sia ancora stata sostanzialmente modificata, dal luogo di produzione ad uno stabilimento; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                e' considerata operazione associata alla produzione primaria anche quella di deposito dei prodotti primari eseguita da cooperative e consorzi di imprenditori agricoli di cui all'articolo 2135 del Codice civile, quando effettuata esclusivamente per i propri imprenditori agricoli associati. Qualora i prodotti primari depositati siano commercializzati dalle stesse cooperative e consorzi ad altre imprese, non a nome e per conto dei produttori primari, i depositi sono soggetti alle tariffe di cui al presente decreto.
 
 ## Art. 3.
 
@@ -102,6 +187,24 @@ Ai sensi dell'articolo 79, paragrafo 1, del regolamento, l'Azienda sanitaria loc
 
 Ai sensi dell'articolo 79, paragrafo 1, del regolamento l'Azienda sanitaria locale, per i controlli ufficiali effettuati nei laboratori di sezionamento e negli stabilimenti della produzione di latte e della produzione e immissione in commercio dei prodotti della pesca e dell'acquacoltura, fatto salvo quanto previsto all'articolo 8, comma 1 e all'articolo 9, comma 1, del presente decreto, applica su base mensile la tariffa piu' favorevole all'operatore tra quelle individuate dall'allegato 2 del presente decreto, rispettivamente nelle sezioni 2, 4 e 5 e quella calcolata su base oraria ai sensi dell'articolo 10, comma 2 del presente decreto. La tariffa su base oraria, fatto salvo quanto previsto all'articolo 8, comma 1 e all'articolo 9 comma 1, del presente decreto, e' riferita al numero di ore del controllo ufficiale programmato effettuato nell'arco delle 24 ore.
 
+3.
+                    
+                        
+                            Per i laboratori di sezionamento annessi ai macelli o ai centri di lavorazione della selvaggina, l'Azienda sanitaria locale, fatto salvo quanto previsto all'articolo 8, comma 1 e all'articolo 9, comma 1, applica la tariffa piu' favorevole all'operatore tra: 
+ 
+                        
+                        
+                            a)
+                            
+                                la tariffa calcolata sommando gli importi ottenuti dalle tariffe di cui all'allegato 2, sezione 2, sommate alle tariffe delle sezioni 1 e 3 oppure delle sezioni 1 o 3, e 
+
+                            
+                        
+                        
+                            b)
+                            
+                                la tariffa su base oraria calcolata ai sensi dei commi 1 e 2 del presente articolo per il controllo ufficiale rispettivamente nel macello, nel centro di lavorazione della selvaggina e nel laboratorio di sezionamento.
+
 Ai fini del calcolo della tariffa di cui al comma 3, lettera a), del presente articolo l'Azienda sanitaria locale calcola la tariffa di cui all'allegato 2, sezione 2, sulla base dei quantitativi di carni introdotti da altri stabilimenti ed effettivamente sezionati.
 
 Qualora in uno stabilimento si effettuino diverse attivita' di cui all'allegato 2, sezioni da 1 a 5, l'Azienda sanitaria locale applica come tariffa la somma delle tariffe determinate ai sensi dei commi 1, 2 e 3 per ciascuna sezione.
@@ -121,6 +224,70 @@ E' assoggettato alle tariffe di cui al comma 6 lo stabilimento che ha iniziato u
 Qualora in uno stabilimento si effettuino sia attivita' di cui all'allegato 2, sezioni da 1 a 5, sia attivita' di cui all'allegato 2, sezione 6, tabella A, l'Azienda sanitaria locale applica rispettivamente quanto previsto al comma 5, e la pertinente tariffa prevista all'allegato 2, sezione 6, tabella A, fatte salve le indicazioni nella medesima tabella A. Per gli stabilimenti riconosciuti per l'attivita' sia dell'allegato 2, sezione 2 sia dell'allegato 2, sezione 6, tabella A, «VI Prodotti a base di carne:
 Impianto di lavorazione - PP», la tariffa dell'allegato 2, sezione 2, fatto salvo quanto previsto all'articolo 8, comma 1, e all'articolo 9, comma 1, viene calcolata sulla base delle tonnellate di carne commercializzate come carne fresca anziche' sulle tonnellate di carni introdotte; non si applica, pertanto, la previsione di cui al comma 2, in relazione all'applicazione della tariffa piu' favorevole all'operatore rispetto alla tariffa su base oraria.
 
+13.
+                    
+                        
+                            Sono calcolate su base forfettaria ai sensi dell'articolo 82, paragrafo 1, lettera a) del regolamento, inclusive degli eventuali sopralluoghi, le tariffe di cui all'allegato 2, sezione 8 del presente decreto, per il riconoscimento condizionato e definitivo, per la registrazione e per i relativi aggiornamenti degli stabilimenti dei settori: 
+ 
+                        
+                        
+                            a)
+                            
+                                degli alimenti di cui all'articolo 6, del regolamento (CE) n. 852/2004 e di cui all'articolo 148, del regolamento in relazione al riconoscimento degli stabilimenti conformemente ai regolamenti (CE) n. 852/2004 e (CE) n. 853/2004; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                dei mangimi di cui agli articoli 9 e 10, del regolamento (CE) n. 183/2005 e di cui all'articolo 79, paragrafo 2, lettera b) del regolamento; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                dei sottoprodotti di cui agli articoli 23 e 24 del regolamento (CE) n. 1069/2009; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                della sanita' animale, limitatamente al riconoscimento condizionato e definitivo degli stabilimenti di cui agli articoli da 94 a 100 e da 176 a 184 del regolamento (UE) 2016/429.
+
+14.
+                    
+                        
+                            Ove previsto nella tabella di cui all'allegato 2, sezione 8, ai sensi dell'articolo 82, paragrafo 1, lettera b), del regolamento, alla tariffa forfettaria viene aggiunta la tariffa calcolata su base oraria di cui all'articolo 10, comma 2 del presente decreto, qualora il tempo necessario per il controllo ufficiale ecceda le ore incluse nella tariffa forfettaria, in relazione alla tipologia, all'organizzazione e alla capacita' gestionale dello stabilimento. Le tariffe per gli aggiornamenti della registrazione e del riconoscimento non sono dovute nei seguenti casi: 
+ 
+                        
+                        
+                            a)
+                            
+                                sospensione o revoca del riconoscimento; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                sospensione o cessazione dell'attivita' di un operatore o stabilimento registrato; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                variazione della toponomastica; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                variazione di rappresentate legale di societa' di capitali.
+
 La tariffa di cui all'allegato 2, sezione 8, per le autorizzazioni, diverse dai riconoscimenti di cui al comma 13, previste dalle normative dei settori di cui all'articolo 1, comma 1, e' determinata su base oraria, ai sensi dell'articolo 10, comma 2.
 
 Gli importi relativi alle analisi di laboratorio per la ricerca della Trichinella e gli importi delle analisi di laboratorio effettuate nell'ambito dell'ispezione post mortem degli animali sottoposti a macellazione d'urgenza fuori dal macello sono a carico dell'operatore dello stabilimento di macellazione o di lavorazione della selvaggina che li corrisponde all'Azienda sanitaria locale.
@@ -137,9 +304,80 @@ Tariffe per l'ispezione effettuata dal veterinario dell'Azienda sanitaria locale
 
 ## Art. 8. — Maggiorazioni
 
+1.
+                    
+                        
+                            Ai controlli ufficiali e alle altre attivita' ufficiali, su richiesta dell'operatore, effettuati dall'Azienda sanitaria locale, si applica la tariffa su base oraria di cui all'articolo 10, comma 2, maggiorata del 30 per cento, quando sono effettuati: 
+ 
+                        
+                        
+                            a)
+                            
+                                in orario compreso tra le ore 18.00 e le ore 6.00; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                nei giorni festivi; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                nei giorni feriali con richiesta inferiore alle 24 ore rispetto all'orario previsto per l'effettuazione del controllo ufficiale o dell'altra attivita' ufficiale.
+
 La maggiorazione di cui al comma 1 e' calcolata separatamente dalle altre tariffe, con le modalita' di cui all'allegato 5, modulo 12.
 
 Quando i controlli ufficiali di cui all'articolo 3, sono effettuati su richiesta dell'operatore fuori dalla fascia oraria ordinaria di apertura degli uffici, come determinata nell'articolo 1, commi 1 e 4 del decreto legislativo 8 novembre 1990, n. 374, per gli uffici dell'Agenzia delle dogane e dei monopoli, le tariffe di cui all'allegato 1, sezioni 1 e 2 sono integrate dalla tariffa su base oraria di cui all'articolo 10, comma 3, maggiorata del 30 per cento.
+
+4.
+                    
+                        
+                            La tariffa applicata all'operatore e' maggiorata dello 0,5 per cento per l'attuazione del Piano di controllo nazionale pluriennale previsto dall'articolo 109, paragrafo 1, del regolamento. La maggiorazione di cui al presente comma e' calcolata con le modalita' di cui all'allegato 5, modulo 12, del presente decreto per le tariffe di competenza dell'Azienda sanitaria locale e con le modalita' di cui allegato 5, modulo 14 del presente decreto per le tariffe di competenza dei PCF e non rientra nella ripartizione di cui agli articoli 14 e 15 del presente decreto. Sono escluse dalla maggiorazione dello 0,5 per cento: 
+ 
+                        
+                        
+                            a)
+                            
+                                le tariffe forfettarie e la tariffa su base oraria per il riconoscimento condizionato e definitivo, per la registrazione e per i relativi aggiornamenti e per le autorizzazioni, di cui all'allegato 2, sezione 8, del presente decreto; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                le tariffe forfettarie per l'ispezione effettuata dal veterinario dell'Azienda sanitaria locale in caso di macellazione di animali fuori dal macello per autoconsumo e in caso di animali selvatici oggetto di attivita' venatoria per autoconsumo o per cessione diretta, di cui all'allegato 2, sezione 9 del presente decreto; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                le tariffe per la controversia, di cui all'allegato 3, sezione 3 del presente decreto; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                le tariffe per i controlli ufficiali svolti dal Ministero della salute per il riconoscimento dei depositi di cui all'articolo 23 del regolamento (UE) 2019/2124, stabilite nell'allegato 1, sezione 3 del presente decreto; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                le tariffe per i controlli ufficiali svolti dal Ministero della salute sulle navi officina - FV, sulle navi deposito frigorifero - ZV e sulle navi reefer vessel, di cui all'allegato 1, sezione 4 del presente decreto; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                le tariffe per i controlli ufficiali e le altre attivita' ufficiali ai fini export, di cui all'allegato 1, sezione 5 del presente decreto.
 
 Per i controlli ufficiali richiamati all'articolo 3, comma 5, le tariffe di cui allegato 1, sezione 1 del presente decreto sono integrate dalla tariffa calcolata su base oraria ai sensi dell'articolo 10, comma 3 prima di ogni altra maggiorazione.
 
@@ -150,6 +388,31 @@ Controlli ufficiali originariamente non programmati, controlli ufficiali e altre
 Per i controlli ufficiali originariamente non programmati di cui all'articolo 79, paragrafo 2, lettera c) del regolamento e per i controlli ufficiali e le altre attivita' ufficiali effettuati su richiesta degli operatori si applica, ai sensi dell'articolo 80 del regolamento, la tariffa calcolata su base oraria, di cui all'articolo 10, comma 2, del presente decreto, inclusiva degli eventuali certificati e attestati ufficiali.
 
 Ai fini del comma 1 per controlli ufficiali originariamente non programmati, si intendono quelli che si sono resi necessari in caso di accertata non conformita', o sospetta non conformita' successivamente confermata, da parte dell'Autorita' competente ufficiale o da parte dell'operatore. Qualora il controllo ufficiale relativo alla verifica della risoluzione della non conformita', di cui al comma 1, sia contestuale ad un controllo ufficiale gia' programmato, non si applica la tariffa prevista per i controlli ufficiali originariamente non programmati.
+
+3.
+                    
+                        
+                            Ai fini del comma 1 per controlli ufficiali e altre attivita' ufficiali su richiesta, si intendono quelli richiesti dall'operatore interessato, compresi quelli: 
+ 
+                        
+                        
+                            a)
+                            
+                                per il rilascio di certificati e attestati ufficiali; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                di cui all'articolo 5, commi 5, 6 e 7; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                per l'ispezione ante mortem presso l'azienda di provenienza.
 
 Nessuna riduzione delle tariffe determinate ai sensi dell'articolo 6, commi 1 e 3 e' prevista nel caso in cui l'ispezione ante mortem sia effettuata presso l'azienda di provenienza.
 
@@ -245,6 +508,31 @@ Le somme relative alle richieste di pagamento emesse dall'Azienda sanitaria loca
 
 ## Art. 14. — Ripartizione delle tariffe riscosse dal Ministero della salute
 
+1.
+                    
+                        
+                            Gli introiti derivanti dalla riscossione delle tariffe di cui all'allegato 1, sezioni 1 e 2, sono destinati e vincolati: 
+ 
+                        
+                        
+                            a)
+                            
+                                la quota dell'80 per cento all'entrata del bilancio dello Stato con versamento alla sezione della Tesoreria provinciale dello Stato competente per territorio sul capitolo n. 2582/articolo 14 del capo XX per essere riassegnata, con decreto del Ministro dell'economia e delle finanze, ad appositi capitoli del programma «Sanita' pubblica veterinaria» nell'ambito della missione «Tutela della salute»- categoria «Funzionamento» di pertinenza del centro di responsabilita' Direzione generale della sanita' animale e dei farmaci veterinari, per la copertura delle spese connesse ai controlli ufficiali eseguiti dai PCF e dai punti di controllo, anche fuori dall'orario ordinario di apertura degli uffici, di cui all'allegato 3, sezione 2, nonche' per ogni altro onere correlato; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                la quota del 5 per cento agli Istituti zooprofilattici sperimentali competenti per territorio per l'attivita' di supporto sulle importazioni; qualora l'analisi richiesta non possa essere eseguita, l'Istituto zooprofilattico sperimentale si avvale di un altro Istituto zooprofilattico sperimentale, rimborsandone al medesimo il costo; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                la rimanente quota del 15 per cento all'entrata del bilancio dello Stato con versamento alla sezione della Tesoreria provinciale dello Stato competente per territorio sul capitolo di entrata del bilancio dello Stato n. 2226/articolo 01, capo XX.
+
 Gli introiti derivanti dalla maggiorazione di cui all'articolo 8, comma 4 sono versati alla sezione della Tesoreria provinciale dello Stato competente per territorio sul capitolo di entrata del bilancio dello Stato n. 2582/ articolo 17 del capo XX.
 
 I PCF provvedono mensilmente alla ripartizione delle quote di cui al presente articolo. La ripartizione in quote percentuali, a favore degli aventi diritto, deve avvenire su base mensile e anche il relativo versamento deve avere cadenza mensile, da effettuare entro il giorno 5 del mese successivo a quello in cui le suddette quote sono state riscosse.
@@ -254,6 +542,45 @@ Le tariffe di cui all'allegato 1 sezioni 3, 4 e 5, non rientrano nella ripartizi
 ## Art. 15. — Ripartizione delle tariffe riscosse dall'Azienda sanitaria locale
 
 Le tariffe riscosse dall'Azienda sanitaria locale sulla base del presente decreto, sono ripartite in relazione al livello di compartecipazione ai controlli ufficiali e alle altre attivita' ufficiali come indicato nel comma 2.
+
+2.
+                    
+                        
+                            Gli introiti derivanti dalla riscossione delle tariffe dell'allegato 2, sezioni da 1 a 7, e della tariffa su base oraria di cui all'articolo 10, comma 2, ad esclusione delle tariffe delle sezioni 8 e 9, sono destinati e vincolati, ai sensi dell'articolo 1, comma 3, secondo la seguente ripartizione: 
+ 
+                        
+                        
+                            a)
+                            
+                                la quota del 90 per cento alle Aziende sanitarie locali che la attribuiscono in proporzione all'attivita' svolta dalle singole strutture organizzative afferenti alle aree dipartimentali di sanita' pubblica, sanita' pubblica veterinaria e della sicurezza alimentare di cui all'articolo 7-quater, comma 4 del decreto legislativo 30 dicembre 1992, n. 502, per la copertura delle spese correnti e di investimento relative all'ottimizzazione e al miglioramento dell'efficacia della programmazione e dell'attuazione dei controlli ufficiali e delle altre attivita' ufficiali di cui al regolamento, nell'ambito dei piani di controllo aziendali pluriennali, inclusa la copertura dei costi relativi al fabbisogno del personale che esegue i controlli ufficiali e le altre attivita' ufficiali, anche su richiesta dell'operatore, in orario compreso tra le ore 18,00 e le ore 6,00 e nei giorni festivi; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                la quota del 3,5 per cento alle regioni e alle province autonome di Trento e Bolzano per potenziare e migliorare l'efficacia della programmazione e dell'attuazione dei piani di controllo regionali pluriennali; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                la quota del 3,5 per cento agli Istituti zooprofilattici sperimentali o altri laboratori ufficiali designati dalle regioni e dalle province autonome di Trento e Bolzano, sulla base di quanto stabilito nei piani di controllo regionali pluriennali; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                la quota dell'1 per cento ai laboratori nazionali di riferimento per attivita' correlate ai controlli ufficiali e alle altre attivita' ufficiali; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                la quota del 2 per cento e' versata ad apposito capitolo dello stato di previsione dell'entrata del bilancio dello Stato e riassegnata al Ministero della salute per la copertura delle spese relative al potenziamento e al miglioramento dell'efficacia della programmazione e dell'attuazione delle attivita' di controllo ufficiale e delle altre attivita' ufficiali di competenza degli Uffici del Ministero.
 
 Entro la fine del mese successivo al semestre di riferimento, l'Azienda sanitaria locale versa agli enti aventi diritto di cui al comma 2, gli importi spettanti a seguito della ripartizione di cui al presente articolo.
 
@@ -300,6 +627,24 @@ Contestualmente all'avvio della procedura prevista al comma 4, per gli stabilime
 ## Art. 18.
 
 Modalita' di aggiornamento e modifica degli allegati
+
+1.
+                    
+                        
+                            Con decreto del Ministro della salute, di concerto con il Ministro dell'economia e delle finanze, sulla base di quanto previsto al titolo II, capo VI del regolamento (UE) 2017/625, previa intesa della Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome di Trento e di Bolzano, si puo' provvedere a: 
+ 
+                        
+                        
+                            a)
+                            
+                                aggiornare gli importi delle tariffe di cui agli allegati 1 e 2, gli importi della tariffa oraria di cui all'allegato 3 nonche' gli allegati 4, 5 e 6 del presente decreto relativi alle modalita' di comunicazione, calcolo e rendicontazione delle tariffe; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                introdurre uno specifico contributo per la lotta alle malattie animali emergenti di cui all'articolo 6 del regolamento (UE) 2016/429.
 
 Con decreto del Ministro della salute previa intesa della Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome di Trento e di Bolzano, si puo' provvedere ad aggiornare l'elenco delle attivita' di cui all'allegato 2, sezione 6, tabella A.
 

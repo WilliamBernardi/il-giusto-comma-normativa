@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: DPR
 vigenza_date: 2010-02-05
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:47:46Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -29,6 +29,51 @@ Sulla proposta del Ministro degli affari esteri, di concerto con il Ministro del
 
 ## Art. 1. — Definizioni
 
+1.
+                    
+                        
+                            Nel presente regolamento si intendono per:
+ 
+                        
+                        
+                            a)
+                            
+                                uffici di diretta collaborazione: gli uffici di diretta collaborazione con il Ministro degli affari esteri e con i Sottosegretari di Stato presso il Ministero degli affari esteri, di cui all'articolo 14, comma 2, del decreto legislativo 3 febbraio 1993, n. 29, ed all'articolo 7 del decreto legislativo 30 luglio 1999, n. 300;
+
+                            
+                        
+                        
+                            b)
+                            
+                                Ministro: il Ministro degli affari esteri;
+
+                            
+                        
+                        
+                            c)
+                            
+                                Ministero: il Ministero degli affari esteri;
+
+                            
+                        
+                        
+                            d)
+                            
+                                
+                                    decreto legislativo n. 165 del 2001: il decreto legislativo 30 marzo 2001, n. 165, e successive modificazioni;
+                            
+                        
+                        
+                            d-bis)
+                            
+                                vice Ministro: i Sottosegretari di Stato ai quali e' stato attribuito il titolo di vice Ministro.
+                            
+                        
+                        
+                            e)
+                            
+                                Sottosegretari di Stato: i Sottosegretari di Stato presso il Ministero degli affari esteri;
+
 -----------------
                         AGGIORNAMENTO (1)
                          Il D.P.R. 14 novembre 2007, n.218 ha disposto (con l'art. 1, comma 1) che "Nel decreto del Presidente della Repubblica 24 maggio 2001, n. 233, di seguito denominato: "decreto", ovunque ricorra il riferimento: "articoli 3, 14 e 19 del decreto legislativo 3 febbraio 1993, n. 29", lo stesso deve leggersi: "articoli 4, 14 e 19 del decreto legislativo 30 marzo 2001, n. 165"".
@@ -36,6 +81,58 @@ Sulla proposta del Ministro degli affari esteri, di concerto con il Ministro del
 ## Art. 2. — Uffici di diretta collaborazione
 
 Gli uffici di diretta collaborazione esercitano le competenze di supporto dell'organo di direzione politica e di raccordo tra questo e l'amministrazione, ai sensi degli articoli 3 e 14, comma 2, del decreto legislativo n. 29 del 1993. Essi collaborano alla definizione degli obiettivi ed all'elaborazione delle politiche pubbliche, nonche' alla relativa valutazione, con particolare riguardo all'analisi di impatto normativo, all'analisi costi-benefici ed alla congruenza fra obiettivi e risultati.
+
+2.
+                    
+                        
+                            Sono uffici di diretta collaborazione:
+ 
+                        
+                        
+                            a)
+                            
+                                il Gabinetto;
+
+                            
+                        
+                        
+                            b)
+                            
+                                la Segreteria del Ministro;
+
+                            
+                        
+                        
+                            c)
+                            
+                                l'Ufficio legislativo;
+
+                            
+                        
+                        
+                            d)
+                            
+                                l'Ufficio per i rapporti con il Parlamento;
+
+                            
+                        
+                        
+                            e)
+                            
+                                il Servizio di controllo interno ((...));
+
+                            
+                        
+                        
+                            e-bis)
+                            
+                                le segreterie dei vice Ministro;
+                            
+                        
+                        
+                            f)
+                            
+                                le segreterie dei Sottosegretari di Stato.
 
 La Segreteria del Ministro opera alle dirette dipendenze del Ministro; l'Ufficio legislativo e l'Ufficio per i rapporti con il Parlamento costituiscono il settore giuridico-legislativo ed operano in costante raccordo e coordinamento; il Servizio di controllo interno opera in posizione di autonomia operativa secondo quanto previsto dall'articolo 4; ((le segreterie dei vice Ministro e dei Sottosegretari di Stato operano alle dirette dipendenze dei vice Ministro e dei Sottosegretari.))
 
@@ -124,6 +221,25 @@ I capi degli uffici di cui al presente articolo, nonche' gli esperti a cui sono 
 Le disposizioni sul trattamento economico di cui al presente regolamento non si applicano al personale della carriera diplomatica che presta servizio negli uffici di diretta collaborazione, per il quale restano applicabili le disposizioni dell'articolo 112 del decreto del Presidente della Repubblica 5 gennaio 1967, n. 18, come modificato dall'articolo 14 del decreto legislativo 24 marzo 2000, n. 85.
 
 ((
+
+2.
+                    
+                        
+                            Ai responsabili degli uffici di diretta collaborazione spetta un trattamento economico onnicomprensivo, determinato con la modalita' di cui all'articolo 14, comma 2, del decreto legislativo 30 marzo 2001, n. 165, e successive modificazioni, ed articolato:
+ 
+                        
+                        
+                            a)
+                            
+                                per il Capo dell'Ufficio legislativo, per il Capo della segreteria del Ministro e per il responsabile del servizio del controllo interno, in una voce retributiva di importo non superiore a quello massimo del trattamento economico fondamentale dei dirigenti preposti ad ufficio di livello dirigenziale generale del Ministero, incaricati ai sensi dell'articolo 19, comma 4, del decreto legislativo 30 marzo 2001, n. 165, e successive modificazioni, ed in un emolumento accessorio da fissare in un importo non superiore alla misura massima del trattamento accessorio spettante ai dirigenti di uffici dirigenziali generali dello stesso Ministero;
+
+                            
+                        
+                        
+                            b)
+                            
+                                per il segretario particolare del Ministro, e per i componenti del Servizio del Controllo interno in una voce retributiva di importo non superiore alla misura massima del trattamento economico fondamentale dei dirigenti preposti ad ufficio dirigenziale di livello non generale ed in emolumento accessorio di importo non superiore alla misura massima del trattamento accessorio spettante ai dirigenti titolari di uffici dirigenziali non generali del Ministero.
+Per i dipendenti pubblici tale trattamento, se piu' favorevole, integra, per la differenza, il trattamento economico in godimento. Ai capi dei predetti uffici, dipendenti da pubbliche amministrazioni, che optino per il mantenimento del proprio trattamento economico e' corrisposto un emolumento accessorio determinato con le modalita' di cui all'articolo 14, comma 2, del decreto legislativo 30 marzo 2001, n. 165, di importo non superiore alla misura massima del trattamento economico accessorio spettante, rispettivamente, ai dirigenti degli uffici dirigenziali di livello generale ed ai dirigenti degli uffici di livello dirigenziale non generale dello stesso Ministero.
 
 ))
 

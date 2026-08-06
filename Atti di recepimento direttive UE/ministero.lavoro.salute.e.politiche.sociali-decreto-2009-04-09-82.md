@@ -10,7 +10,7 @@ source: normattiva-opendata
 collection: Atti di recepimento direttive UE
 vigenza_date: 2015-01-11
 zip_date: 2026-07-30
-fetched_at: 2026-08-02T09:40:50Z
+fetched_at: 2026-07-30
 ---
 
 DECRETO
@@ -39,6 +39,45 @@ Il presente regolamento stabilisce le prescrizioni relative alla produzione, all
 ## Art. 2. — Definizioni
 
 Nel presente regolamento si applicano le definizioni di «indicazione», «indicazione nutrizionale», «indicazione sulla salute» e «indicazione relativa alla riduzione di un rischio di malattia» di cui all'articolo 2, paragrafo 2, punti 1, 4, 5 e 6 del regolamento (CE) n. 1924/2006.
+
+2.
+                    
+                        
+                            Si intende, inoltre, per:
+ 
+                        
+                        
+                            a)
+                            
+                                «lattanti»: i soggetti di eta' inferiore a dodici mesi;
+
+                            
+                        
+                        
+                            b)
+                            
+                                «bambini»: i soggetti di eta' compresa fra uno e tre anni;
+
+                            
+                        
+                        
+                            c)
+                            
+                                «alimenti per lattanti», ovvero «formule per lattanti» ovvero «preparati per lattanti»: i prodotti alimentari destinati alla particolare alimentazione dei lattanti nei primi sei mesi di vita, in grado di soddisfare da soli il fabbisogno nutritivo di questa fascia di eta' fino all'introduzione di un'adeguata alimentazione complementare;
+
+                            
+                        
+                        
+                            d)
+                            
+                                «alimenti di proseguimento», ovvero «formule di proseguimento»: i prodotti alimentari destinati alla particolare alimentazione dei lattanti dopo il sesto mese di vita, successivamente all'introduzione di una adeguata alimentazione complementare, costituenti il principale elemento liquido nell'ambito dell'alimentazione progressivamente diversificata per questa fascia di eta';
+
+                            
+                        
+                        
+                            e)
+                            
+                                «residuo di prodotti fitosanitari»: il residuo di un prodotto fitosanitario rilevato negli alimenti per lattanti o negli alimenti di proseguimento, ai sensi del decreto legislativo 17 marzo 1995, n. 194, compresi i suoi metaboliti e i prodotti della sua degradazione o reazione.
 
 ## Art. 3. — Sicurezza e idoneita' degli alimenti per lattanti e degli alimenti di proseguimento
 
@@ -94,6 +133,24 @@ Per determinare i livelli per i residui di prodotti fitosanitari devono essere u
 
 I residui di prodotti fitosanitari indicati in allegato VIII non devono essere utilizzati nei prodotti agricoli destinati alla produzione di alimenti per lattanti e di alimenti di proseguimento.
 
+4.
+                    
+                        
+                            Tuttavia, ai fini del controllo ufficiale degli alimenti disciplinati dal presente regolamento, si ritiene che:
+ 
+                        
+                        
+                            a)
+                            
+                                i prodotti fitosanitari elencati nella tabella 1 dell'allegato VIII non siano stati utilizzati se i loro residui non superano una soglia di 0,003 mg/kg;
+
+                            
+                        
+                        
+                            b)
+                            
+                                i prodotti fitosanitari elencati nella tabella 2 dell'allegato VIII non siano stati utilizzati se i loro residui non superano una soglia di 0,003 mg/kg.
+
 In deroga al comma 1, ai prodotti fitosanitari indicati nell'allegato IX si applicano i limiti massimi di residui specificati nello stesso allegato.
 
 Le quantita' di cui ai commi 4 e 5 si applicano ai prodotti proposti come pronti al consumo o ricostituiti in base alle istruzioni del produttore.
@@ -109,6 +166,47 @@ La denominazione di vendita degli alimenti per lattanti e degli alimenti di pros
 
 ))
 
+3.
+                    
+                        
+                            Oltre alle indicazioni previste dal decreto legislativo 27 gennaio 1992, n. 109 e successive modifiche e dal decreto legislativo 27 gennaio 1992, n. 111, l'etichettatura degli alimenti per lattanti e degli alimenti di proseguimento deve recare le seguenti indicazioni obbligatorie: 
+ 
+                        
+                        
+                            a)
+                            
+                                per gli alimenti per lattanti la dicitura che il prodotto e' idoneo alla particolare alimentazione dei lattanti sin dalla nascita, nel caso in cui essi non sono allattati al seno; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                per gli alimenti di proseguimento la dicitura: 
+ 1) che il prodotto e' idoneo soltanto alla particolare alimentazione dei lattanti di eta' superiore ai sei mesi, che deve essere incluso in un'alimentazione diversificata e che non deve essere utilizzato in alcun modo come sostituto del latte materno nei primi sei mesi di vita; 
+ 2) che evidenzi che la decisione di avviare l'alimentazione complementare sia presa unicamente su parere di professionisti indipendenti del settore della medicina, dell'alimentazione, della farmacia, della maternita' o dell'infanzia, in base agli specifici bisogni di crescita e sviluppo del lattante; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                per gli alimenti per lattanti e gli alimenti di proseguimento l'indicazione del valore energetico disponibile espresso in kJ e kcal, nonche' del tenore di proteine, carboidrati e grassi (ivi inclusi fosfolipidi, acidi grassi essenziali e, se presenti, acidi grassi a lunga catena) espresso in forma numerica per 100 ml di prodotto pronto per il consumo; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                per gli alimenti per lattanti e gli alimenti di proseguimento l'indicazione del contenuto medio di ciascuno dei minerali e delle vitamine elencati rispettivamente negli allegati I e II e, se del caso, del contenuto medio di colina, inositolo, carnitina, espresso in forma numerica per 100 ml di prodotto pronto per il consumo; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                per gli alimenti per lattanti e gli alimenti di proseguimento, istruzioni riguardanti la corretta preparazione, conservazione e smaltimento del prodotto e un'avvertenza sui pericoli per la salute derivanti dalla preparazione e conservazione inadeguate.
+
 Nel caso degli alimenti per lattanti e degli alimenti di proseguimento in polvere vanno riportate in etichetta le norme e le precauzioni da seguire ai fini di una corretta pratica igienica per la ricostituzione nella forma pronta per l'uso, in linea con le raccomandazioni dell'Organizzazione Mondiale della Sanita'. Il Ministro del lavoro, della salute e delle politiche sociali, con proprio decreto, puo' fornire ulteriori specifiche indicazioni sulle norme e le precauzioni da seguire e da indicare in etichetta per detti prodotti.
 
 Per gli alimenti per lattanti e gli alimenti di proseguimento puo' essere indicata la quantita' media di sostanze nutritive elencate nell'allegato III, qualora detta dichiarazione non sia gia' prevista dal comma 3, lettera d), espressa in forma numerica per 100 ml di prodotto pronto per il consumo.
@@ -119,11 +217,47 @@ Le etichette degli alimenti per lattanti e degli alimenti di proseguimento devon
 
 E' vietato l'utilizzo di termini come «umanizzato», «maternizzato» o «adattato» o espressioni analoghe.
 
+9.
+                    
+                        
+                            L'etichettatura degli alimenti per lattanti deve riportare, sotto il titolo «avvertenza importante» o espressioni equivalenti, le seguenti indicazioni obbligatorie: 
+ 
+                        
+                        
+                            a)
+                            
+                                una dicitura relativa alla superiorita' dell'allattamento al seno; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                la raccomandazione di utilizzare il prodotto esclusivamente previo parere di professionisti indipendenti del settore della medicina, dell'alimentazione, della farmacia, della maternita' o dell'infanzia;
+
 L'etichettatura degli alimenti per lattanti non deve riportare immagini di lattanti ne' altre illustrazioni o diciture che inducano ad idealizzare l'uso del prodotto. Puo' pero' recare illustrazioni grafiche che facilitino l'identificazione del prodotto e ne spieghino i metodi di preparazione.
 
 L'etichettatura degli alimenti per lattanti puo' recare indicazioni nutrizionali e sulla salute solo nei casi citati nell'allegato IV e conformemente alle condizioni ivi stabilite.
 
 Gli alimenti per lattanti e gli alimenti di proseguimento devono essere etichettati in modo da consentire al consumatore di distinguere chiaramente un prodotto dall'altro, cosi' da evitare qualsiasi rischio di confusione tra gli alimenti per lattanti e gli alimenti di proseguimento.
+
+13.
+                    
+                        
+                            Le disposizioni di cui al comma 3 e ai commi da 7 a 11 si applicano anche: 
+ 
+                        
+                        
+                            a)
+                            
+                                alla presentazione dei prodotti, in particolare alla forma, all'aspetto e all'imballaggio, al materiale utilizzato per l'imballaggio, alla disposizione e all'ambiente nel quale sono esposti; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                alla pubblicita'.
 
 ## Art. 10. — Pubblicita'
 
@@ -134,6 +268,40 @@ In deroga al comma 1, la pubblicita' degli alimenti per lattanti e' consentita s
 La pubblicita' di cui al comma 2 e' sottoposta alle condizioni ed ai divieti previsti dall'articolo 9, commi 3, 6, 7, 8 , 9, 10, 11 e 12 lettera b).
 
 Resta ferma la possibilita' di diffondere il materiale informativo di cui all'articolo 16 presso i professionisti di cui all'articolo medesimo.
+
+5.
+                    
+                        
+                            La pubblicita' degli alimenti di proseguimento, al fine di evitare qualunque possibile interferenza negativa con l'allattamento al seno:
+ 
+                        
+                        
+                            a)
+                            
+                                evidenzia che l'uso del prodotto e' indicato su consiglio del medico per lattanti di almeno sei mesi, ove non disponibile il latte materno;
+
+                            
+                        
+                        
+                            b)
+                            
+                                non induce a ritenere il prodotto equivalente al latte materno, ne' scoraggia in qualunque modo l'allattamento al seno;
+
+                            
+                        
+                        
+                            c)
+                            
+                                riporta l'indicazione che il latte materno va offerto fino a quando e' possibile, anche durante lo svezzamento e l'alimentazione diversificata;
+
+                            
+                        
+                        
+                            d)
+                            
+                                non contiene testi o immagini che abbiano relazione con la gravidanza o l'alimentazione o la cura del lattante sotto i
+ sei mesi
+, ne' immagini di lattanti che possono essere percepiti come soggetti di eta' inferiore ai sei mesi.
 
 ## Art. 11. — Modalita' di commercializzazione
 
@@ -175,13 +343,165 @@ La documentazione indicata al comma 6 deve essere trasmessa al Ministero del lav
 
 ## Art. 14. — Campagna sulla corretta alimentazione e tutela dell'allattamento al seno
 
+1.
+                    
+                        
+                            Il Ministero del lavoro, della salute e delle politiche sociali, le Regioni e le Province autonome promuovono iniziative e campagne sulla corretta alimentazione del lattante, sostenendo e proteggendo la pratica dell'allattamento al seno mediante azioni volte:
+ 
+                        
+                        
+                            a)
+                            
+                                a diffondere e a valorizzare i corsi di preparazione alla nascita e altre iniziative educative nelle maternita' e sul territorio, con adeguate informazioni sull'allattamento al seno, ivi incluse quelle previste dal presente decreto;
+
+                            
+                        
+                        
+                            b)
+                            
+                                favorire nei reparti di maternita' l'adozione e la prosecuzione dell'allattamento al seno, diffondendo il rooming-in ed attuando i piu' efficaci modelli organizzativi proposti al riguardo;
+
+                            
+                        
+                        
+                            c)
+                            
+                                fornire raccomandazioni utili sulla base delle indicazioni convalidate a livello internazionale, promuovendo interventi formativi, sostenendo e coordinando le iniziative di promozione e di educazione sanitaria;
+
+                            
+                        
+                        
+                            d)
+                            
+                                realizzare sistemi di osservazione e di monitoraggio sulla diffusione della pratica dell'allattamento al seno, sia in termini di prevalenza che di durata;
+
+                            
+                        
+                        
+                            e)
+                            
+                                vigilare affinche' al momento della dimissione dal reparto maternita' non vengano forniti in omaggio prodotti o materiali in grado di interferire in qualunque modo con l'allattamento al seno. Le lettere di dimissione per i neonati non devono prevedere uno spazio predefinito per le prescrizioni dei sostituti del latte materno. Nei casi in cui tali prescrizioni si rendano necessarie per cause materne o neonatali, esse devono riportare l'indicazione all'uso del sostituto del latte materno nonche' le informazioni congrue al suo piu' corretto utilizzo;
+
+                            
+                        
+                        
+                            f)
+                            
+                                disciplinare le visite degli informatori scientifici dell'industria che produce e/o commercializza prodotti sostitutivi del latte materno presso gli ospedali e gli studi medici;
+
+                            
+                        
+                        
+                            g)
+                            
+                                contrastare ogni forma di pubblicita', anche occulta, e di comportamenti ostativi alla pratica dell'allattamento materno.
+
 ## Art. 15. — Materiale informativo e didattico
 
 Il materiale informativo e didattico da chiunque predisposto e in qualunque modo diffuso, destinato alle gestanti, alle madri di lattanti e bambini, alle famiglie ed a tutti gli interessati nel settore dell'alimentazione dei lattanti e della prima infanzia, non deve avvalorare la tesi, attraverso dati, affermazioni, illustrazioni o altro, che l'allattamento artificiale sia uguale o equivalente all'allattamento al seno e deve, in ogni caso, conformarsi alle prescrizioni di cui agli articoli 9 e 10.
 
+2.
+                    
+                        
+                            Il materiale di cui al comma 1, inoltre, deve risultare in linea con i criteri e i principi sottoelencati:
+ 
+                        
+                        
+                            a)
+                            
+                                l'allattamento al seno, per la superiorita' e i benefici che offre rispetto all'allattamento artificiale, va promosso come pratica di alimentazione esclusiva nei primi sei mesi di vita;
+
+                            
+                        
+                        
+                            b)
+                            
+                                la decisione di avviare l'alimentazione complementare deve essere presa unicamente su parere di professionisti indipendenti del settore della medicina, dell'alimentazione, della farmacia, della maternita' o dell'infanzia;
+
+                            
+                        
+                        
+                            c)
+                            
+                                le varie tappe da seguire nella scelta dei prodotti ai fini di una adeguata diversificazione dell'alimentazione del lattante e del bambino non possono essere generalizzate, perche' occorre tener conto delle specifiche condizioni individuali e anche familiari;
+
+                            
+                        
+                        
+                            d)
+                            
+                                l'allattamento al seno e' superiore e offre benefici anche nel regime alimentare diversificato del lattante;
+
+                            
+                        
+                        
+                            e)
+                            
+                                l'introduzione, prima del sesto mese di vita, di sostituti del latte materno o di altri alimenti puo' avere effetti negativi sull'allattamento al seno;
+
+                            
+                        
+                        
+                            f)
+                            
+                                la decisione di non allattare al seno e' difficilmente reversibile;
+
+                            
+                        
+                        
+                            g)
+                            
+                                l'utilizzazione non appropriata degli alimenti per lattanti e di quelli di proseguimento comporta dei rischi per la salute del lattante.
+
 Il materiale di cui al comma 1 deve recare gli estremi identificativi del soggetto che lo predispone e che lo diffonde e, qualora contenga informazioni sull'impiego degli alimenti per lattanti, non deve riportare alcuna immagine che possa idealizzare l'impiego di tali alimenti e deve altresi' fornire informazioni circa le conseguenze sociali e finanziarie sulle loro utilizzazione.
 
 ## Art. 16. — Materiale informativo e didattico destinato agli operatori sanitari
+
+1.
+                    
+                        
+                            Il materiale informativo e didattico riguardante gli alimenti per lattanti e gli alimenti di proseguimento predisposto dalle imprese interessate agli alimenti per la prima infanzia, destinato a professionisti indipendenti del settore della medicina, dell'alimentazione, della farmacia, della maternita' o dell'infanzia, come il materiale informativo e didattico per la classe medica sugli alimenti a fini medici speciali destinati alla prima infanzia, deve:
+ 
+                        
+                        
+                            a)
+                            
+                                distinguere chiaramente gli alimenti per lattanti dagli alimenti di proseguimento senza creare confusione tra le due tipologie di prodotti;
+
+                            
+                        
+                        
+                            b)
+                            
+                                essere limitato agli aspetti scientifici del prodotto, alle indicazioni e alle modalita' d'uso;
+
+                            
+                        
+                        
+                            c)
+                            
+                                essere predisposto sulla base di evidenze scientifiche documentate e documentabili;
+
+                            
+                        
+                        
+                            d)
+                            
+                                contenere riferimenti a eventuali studi pubblicati per sostenere ogni affermazione circa eventuali effetti nutrizionali o sulla crescita, sullo sviluppo e sulla salute del bambino;
+
+                            
+                        
+                        
+                            e)
+                            
+                                contenere, nel caso di alimenti a fini medici speciali destinati ai lattanti, un richiamo alla superiorita' della pratica dell'allattamento al seno ove il prodotto svolga comunque funzioni sostitutive e l'adozione di tale pratica non sia controindicata;
+
+                            
+                        
+                        
+                            f)
+                            
+                                recare l'indicazione della denominazione sociale e sede legale dell'impresa, ente od organismo che lo diffonde.
 
 Il contenuto del materiale informativo di cui al comma 1 deve essere conforme anche a quanto previsto dall'articolo 15, comma 1.
 
@@ -192,6 +512,24 @@ Il Ministero del lavoro, della salute e delle politiche sociali, in accordo con 
 Con decreto del Ministro del lavoro, della salute e delle politiche sociali di concerto con il Ministro dello sviluppo economico vengono fissate le modalita' di acquisizione dei dati relativi ai prezzi di cui al comma 1.
 
 ## Art. 18. — Esportazione
+
+1.
+                    
+                        
+                            I prodotti di cui all'articolo 2, comma 1, lettere c) e d), destinati all'esportazione verso Paesi terzi devono essere conformi, fatta salva ogni diversa disciplina o disposizione particolare stabilita dal paese importatore, a quanto previsto:
+ 
+                        
+                        
+                            a)
+                            
+                                dall'articolo 9 del presente regolamento, oppure dalle norme del Codex Alimentarius «Codex STAN 72/1981» e «Codex STAN 156/1987», nella revisione 2007;
+
+                            
+                        
+                        
+                            b)
+                            
+                                dagli articoli 3, comma 1, lettera b), e 13 del decreto legislativo 27 gennaio 1992, n. 109.
 
 Le prescrizioni e i divieti di cui all'articolo 9, commi 3, 4, 5, 6, 7, 8, 9 e 10, si applicano anche alla presentazione dei prodotti destinati all'esportazione verso Paesi terzi, in particolare per quanto riguarda la forma, l'aspetto, l'imballaggio ed i materiali di confezionamento utilizzati.
 

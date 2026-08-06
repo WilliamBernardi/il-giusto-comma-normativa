@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Regolamenti di delegificazione
 vigenza_date: 2002-02-09
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:40:24Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -32,7 +32,64 @@ Sulla proposta del Presidente del Consiglio dei Ministri e del Ministro per la f
 
 ## Art. 1. — Oggetto del regolamento
 
+1.
+                    
+                        
+                            Il presente regolamento, fatta salva la disciplina conseguente all'emanazione dei decreti legislativi predisposti ai sensi dell'articolo 1, comma 4, lettera c), della legge 1 marzo 1997, n. 59, disciplina i seguenti procedimenti:
+ 
+                        
+                        
+                            a)
+                            
+                                autorizzazione alla produzione di energia elettrica da parte di imprese attraverso impianti esistenti, potenziamento di impianti esistenti o nuovi impianti per uso proprio o per la cessione al concessionario delle attivita' riservate allo Stato nel settore elettrico, di cui all'articolo 14 del decreto-legge 11 luglio 1992, n. 333, convertito, con modificazioni, dalla legge 8 agosto 1992, n. 359, nonche', nel caso di imprese costituite in forma societaria, anche per uso delle societa' controllate, della societa' controllante e delle societa' controllate dalla medesima societa' controllante, con ammissione di scambi e cessioni tra queste ultime;
+
+                            
+                        
+                        
+                            b)
+                            
+                                autorizzazione alla produzione di energia elettrica per usi diversi da quelli di cui alla lettera a), mediante costruzione di nuovi impianti o modifica di quelli esistenti, da parte delle imprese elettriche minori di cui all'articolo 4, n. 8, della legge 6 dicembre 1962, n. 1643, e delle imprese elettriche degli enti locali di cui all'articolo 21, comma 1, della legge 9 gennaio 1991, n. 9;
+
+                            
+                        
+                        
+                            c)
+                            
+                                autorizzazione all'istallazione ed all'esercizio di gruppi elettrogeni, ad eccezione di quelli indicati al comma 3;
+
+                            
+                        
+                        
+                            d)
+                            
+                                autorizzazione alle emissioni in atmosfera ai sensi dell'articolo 17 del decreto del Presidente della Repubblica 24 maggio 1988, n. 203, per gli impianti di cui al presente comma.
+
 Le procedure previste dal presente regolamento per il rilascio dell'autorizzazione alle emissioni in atmosfera ai sensi dell'articolo 17 del decreto del Presidente della Repubblica 24 maggio 1988, n. 203, si applicano anche agli impianti che utilizzano fonti rinnovabili o assimilate, nonche' a tutti gli altri impianti di energia elettrica nei limiti in cui detti impianti presentano emissioni soggette a tale autorizzazione.
+
+3.
+                    
+                        
+                            Fatto comunque salvo quanto disposto dall'articolo 22, comma 11, del decreto legislativo 5 febbraio 1997, n. 22, resta fermo che:
+ 
+                        
+                        
+                            a)
+                            
+                                non sono soggetti all'autorizzazione di cui al comma 1, lettera c), l'installazione e l'esercizio di gruppi elettrogeni funzionanti di continuo con potenza nominale non superiore a 3 MW se alimentati a metano o GPL e potenza termica non superiore a 1 MW se alimentati a benzina o gasolio, nonche' di gruppi elettrogeni per la produzione di energia elettrica che utilizzano fonti rinnovabili e che non comportano emissioni in atmosfera;
+
+                            
+                        
+                        
+                            b)
+                            
+                                l'installazione e l'esercizio di gruppi elettrogeni funzionanti di continuo, se determinanti inquinamento atmosferico poco significativo ai sensi dell'articolo 2 del decreto del Presidente della Repubblica 25 luglio 1991, nonche' di gruppi elettrogeni per la produzione di energia elettrica di soccorso, non sono soggetti all'autorizzazione di cui al comma 2;
+
+                            
+                        
+                        
+                            c)
+                            
+                                all'installazione ed all'esercizio dei gruppi elettrogeni di cui alle lettere a) e b) del presente comma, purche' siano effettuati nel rispetto delle norme di sicurezza ed ambientali, puo' procedersi previa comunicazione al Ministero dell'industria, del commercio e dell'artigianato, all'ufficio tecnico di finanza competente per territorio ed al concessionario delle attivita' riservate allo Stato nel settore elettrico, di cui all'articolo 14 del decreto-legge 11 luglio 1992, n. 333, convertito, con modificazioni, dalla legge 8 agosto 1992, n. 359.
 
 Per il concessionario delle attivita' riservate allo Stato nel settore elettrico, di cui all'articolo 14 del decreto-legge 11 luglio 1992, n. 333, convertito, con modificazioni, dalla legge 8 agosto 1992, n. 359, anche ai fini dell'articolo 17 del decreto del Presidente della Repubblica 24 maggio 1988, n. 203, si applica la procedura di cui all'allegato IV al decreto del Presidente del Consiglio dei Ministri del 27 dicembre 1988.
 
@@ -65,6 +122,38 @@ Il Ministero dell'industria, del commercio e dell'artigianato, entro trenta gior
 Ai fini delle modifiche dell'autorizzazione di cui all'articolo 4, che riguardano solo la titolarita' dell'impianto stesso o l'uso dell'energia elettrica prodotta, non si applicano le procedure di cui agli articoli 2, comma 4, e 3, commi 2 e 3.
 
 ## Art. 6. — Abrogazione di norme
+
+1.
+                    
+                        
+                            Dalla data di entrata in vigore del presente regolamento cessano di avere efficacia, limitatamente alla materia procedimentale dallo stesso disciplinata:
+ 
+                        
+                        
+                            a)
+                            
+                                l'articolo 211, comma 2, del regio decreto 11 dicembre 1933, n. 1775;
+
+                            
+                        
+                        
+                            b)
+                            
+                                gli articoli 17 e 18 del decreto del Presidente della Repubblica 18 marzo 1965, n. 342;
+
+                            
+                        
+                        
+                            c)
+                            
+                                l'articolo 10 del decreto-legge 17 marzo 1980, n. 68, convertito, con modificazioni, dalla legge 16 maggio 1980, n. 178, cosi' come sostituito dall'articolo 20, comma 5, secondo capoverso, della legge 9 gennaio 1991, n. 9;
+
+                            
+                        
+                        
+                            d)
+                            
+                                il terzo capoverso del numero 6) dell'articolo 4 della legge 6 dicembre 1962, n. 1643, cosi' come sostituito dall'articolo 20, comma 1, della legge 9 gennaio 1991, n 9.
 
 ## Art. 7. — Entrata in vigore
 

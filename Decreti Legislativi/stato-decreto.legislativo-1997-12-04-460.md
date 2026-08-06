@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
 vigenza_date: 2025-06-18
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:22Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -46,6 +46,28 @@ Con decreto del Ministro delle finanze, da emanarsi ai sensi dell'articolo 17, c
 
 ## Art. 3. — Determinazione dei redditi e contabilita' separata
 
+1.
+                        
+                            
+                                All'articolo 109 del testo unico delle imposte sui redditi, approvato con decreto del Presidente della Repubblica 22 dicembre 1986, n. 917, concernente la determinazione dei redditi degli enti non commerciali, sono apportate le seguenti modificazioni:
+ 
+                            
+                            
+                                a)
+                                
+                                    i commi 2 e 3 sono sostituiti dai seguenti:
+ "2. Per l'attivita' commerciale esercitata gli enti non commerciali hanno l'obbligo di tenere la contabilita' separata.
+ 3. Per l'individuazione dei beni relativi all'impresa si applicano le disposizioni di cui all'articolo 77, commi 1 e 3-bis.
+ 3-bis. Le spese e gli altri componenti negativi relativi a beni e servizi adibiti promiscuamente all'esercizio di attivita' commerciali e di altre attivita', sono deducibili per la parte del loro importo che corrisponde al rapporto tra l'ammontare dei ricavi e altri proventi che concorrono a formare il reddito d'impresa e l'ammontare complessivo di tutti i ricavi e proventi; per gli immobili utilizzati promiscuamente e' deducibile la rendita catastale o il canone di locazione anche finanziaria per la parte del loro ammontare che corrisponde al predetto rapporto.";
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il comma 4-bis e' sostituito dal seguente:
+ "4-bis. Gli enti soggetti alle disposizioni in materia di contabilita' pubblica sono esonerati dall'obbligo di tenere la contabilita' separata qualora siano osservate le modalita' previste per la contabilita' pubblica obbligatoria tenuta a norma di legge dagli stessi enti.".
+
 ## Art. 4. — Regime forfetario di determinazione del reddito
 
 Nel testo unico delle imposte sui redditi approvato con decreto del Presidente della Repubblica 22 dicembre 1986, n. 917, dopo l'articolo 109 e' inserito il seguente:
@@ -63,7 +85,71 @@ Nel testo unico delle imposte sui redditi approvato con decreto del Presidente d
 
 ## Art. 5. — Enti di tipo associativo
 
+1.
+                        
+                            
+                                All'articolo 111 del testo unico delle imposte sui redditi, approvato con decreto del Presidente della Repubblica 22 dicembre 1986, n. 917, concernente l'attivita' svolta dagli enti di tipo associativo, sono apportate le seguenti modificazioni:
+ 
+                            
+                            
+                                a)
+                                
+                                    il comma 3 e' sostituito dal seguente:
+ "3. Per le associazioni politiche, sindacali e di categoria, religiose, assistenziali, culturali, sportive dilettantistiche, di promozione sociale e di formazione extra-scolastica della persona non si considerano commerciali le attivita' svolte in diretta attuazione degli scopi istituzionali, effettuate verso pagamento di corrispettivi specifici nei confronti degli iscritti, associati o partecipanti, di altre associazioni che svolgono la medesima attivita' e che per legge, regolamento, atto costitutivo o statuto fanno parte di un'unica organizzazione locale o nazionale, dei rispettivi associati o partecipanti e dei tesserati dalle rispettive organizzazioni nazionali, nonche' le cessioni anche a terzi di proprie pubblicazioni cedute prevalentemente agli associati.";
 
+                                
+                            
+                            
+                                b)
+                                
+                                    dopo il comma 4, sono aggiunti, in fine, i seguenti:
+ "4-bis. Per le associazioni di promozione sociale ricomprese tra gli enti di cui all'articolo 3, comma 6, lettera e), della legge 25 agosto 1991, n. 287, le cui finalita' assistenziali siano riconosciute dal Ministero dell'interno, non si considerano commerciali, anche se effettuate verso pagamento di corrispettivi specifici, la somministrazione di alimenti e bevande effettuata, presso le sedi in cui viene svolta l'attivita' istituzionale, da bar ed esercizi similari e l'organizzazione di viaggi e soggiorni turistici, sempreche' le predette attivita' siano strettamente complementari a quelle svolte in diretta attuazione degli scopi istituzionali e siano effettuate nei confronti degli stessi soggetti indicati nel comma 3.
+ 4-ter. L'organizzazione di viaggi e soggiorni turistici di cui al comma 4-bis non e' considerata commerciale anche se effettuata da associazioni politiche, sindacali e di categoria, nonche' da associazioni riconosciute dalle confessioni religiose con le quali lo Stato ha stipulato patti, accordi o intese, sempreche' sia effettuata nei confronti degli stessi soggetti indicati nel comma 3.
+ 4-quater. Per le organizzazioni sindacali e di categoria non si considerano effettuate nell'esercizio di attivita' commerciali le cessioni delle pubblicazioni, anche in deroga al limite di cui al comma 3, riguardanti i contratti collettivi di lavoro, nonche' l'assistenza prestata prevalentemente agli iscritti, associati o partecipanti in materia di applicazione degli stessi contratti e di legislazione sul lavoro, effettuate verso pagamento di corrispettivi che in entrambi i casi non eccedano i costi di diretta imputazione.
+ 4-quinquies. Le disposizioni di cui ai commi 3, 4-bis, 4-ter e 4-quater si applicano a condizione che le associazioni interessate si conformino alle seguenti clausole, da inserire nei relativi atti costitutivi o statuti redatti nella forma dell'atto pubblico o della scrittura privata autenticata o registrata:
+ a) divieto di distribuire anche in modo indiretto, utili o avanzi di gestione nonche' fondi, riserve o capitale durante la vita dell'associazione, salvo che la destinazione o la distribuzione non siano imposte dalla legge;
+ b) obbligo di devolvere il patrimonio dell'ente, in caso di suo scioglimento per qualunque causa, ad altra associazione con finalita' analoghe o ai fini di pubblica utilita', sentito l'organismo di controllo di cui all'articolo 3, comma 190, della legge 23 dicembre 1996, n. 662, e salvo diversa destinazione imposta dalla legge;
+ c) disciplina uniforme del rapporto associativo e delle modalita' associative volte a garantire l'effettivita' del rapporto medesimo, escludendo espressamente la temporaneita' della partecipazione alla vita associativa e prevedendo per gli associati o partecipanti maggiori d'eta' il diritto di voto per l'approvazione e le modificazioni dello statuto e dei regolamenti e per la nomina degli organi direttivi dell'associazione;
+ d) obbligo di redigere e di approvare annualmente un rendiconto economico e finanziario secondo le disposizioni statutarie;
+ e) eleggibilita' libera degli organi amministrativi, principio del voto singolo di cui all'articolo 2532, secondo comma, del codice civile, sovranita' dell'assemblea dei soci, associati o partecipanti e i criteri di loro ammissione ed esclusione, criteri e idonee forme di pubblicita' delle convocazioni assembleari, delle relative deliberazioni, dei bilanci o rendiconti;
+ f) intrasmissibilita' della quota o contributo associativo ad eccezione dei trasferimenti a causa di morte e non rivalutabilita' della stessa.
+ 4-sexies. Le disposizioni di cui alle lettere c) ed e) del comma 4-quinquies non si applicano alle associazioni religiose riconosciute dalle confessioni con le quali lo Stato ha stipulato patti, accordi o intese, nonche' alle associazioni politiche, sindacali e di categoria.".
+
+2.
+                        
+                            
+                                Nell'articolo 4 del decreto del Presidente della Repubblica 26 ottobre 1972, n. 633, relativo all'esercizio di imprese ai fini dell'imposta sul valore aggiunto, sono apportate le seguenti modificazioni:
+ 
+                            
+                            
+                                a)
+                                
+                                    nel quarto comma, secondo periodo, relativo al trattamento di talune cessioni di beni e prestazioni di servizi effettuate da enti di tipo associativo, le parole: "e sportive" sono sostituite dalle seguenti: "sportive dilettantistiche, di promozione sociale e di formazione extra-scolastica della persona"; nello stesso comma, il terzo periodo e' soppresso;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    nel quinto comma, lettera a), relativo al trattamento delle pubblicazioni curate da enti di tipo associativo, le parole: "e sportive" sono sostituite dalle seguenti: "sportive dilettantistiche, di promozione sociale e di formazione extra-scolastica della persona";
+
+                                
+                            
+                            
+                                c)
+                                
+                                    dopo il quinto comma, sono aggiunti, in fine, i seguenti:
+ "Per le associazioni di promozione sociale ricomprese tra gli enti di cui all'articolo 3, comma 6, lettera e), della legge 25 agosto 1991, n. 287, le cui finalita' assistenziali siano riconosciute dal Ministero dell'interno, non si considera commerciale, anche se effettuata verso pagamento di corrispettivi specifici, la somministrazione di alimenti e bevande effettuata, presso le sedi in cui viene svolta l'attivita' istituzionale, da bar ed esercizi similari, sempreche' tale attivita' sia strettamente complementare a quelle svolte in diretta attuazione degli scopi istituzionali e sia effettuata nei confronti degli stessi soggetti indicati nel secondo periodo del quarto comma.
+ Le disposizioni di cui ai commi quarto, secondo periodo, e sesto si applicano a condizione che le associazioni interessate si conformino alle seguenti clausole, da inserire nei relativi atti costitutivi o statuti redatti nella forma dell'atto pubblico o della scrittura privata autenticata o registrata:
+ a) divieto di distribuire anche in modo indiretto, utili o avanzi di gestione nonche' fondi, riserve o capitale durante la vita dell'associazione, salvo che la destinazione o la distribuzione non siano imposte dalla legge;
+ b) obbligo di devolvere il patrimonio dell'ente, in caso di suo scioglimento per qualunque causa, ad altra associazione con finalita' analoghe o ai fini di pubblica utilita', sentito l'organismo di controllo di cui all'articolo 3, comma 190, della legge 23 dicembre 1996, n. 662, e salvo diversa destinazione imposta dalla legge;
+ c) disciplina uniforme del rapporto associativo e delle modalita' associative volte a garantire l'effettivita' del rapporto medesimo, escludendo espressamente ogni limitazione in funzione della temporaneita' della partecipazione alla vita associativa e prevedendo per gli associati o partecipanti maggiori d'eta' il diritto di voto per l'approvazione e le modificazioni dello statuto e dei regolamenti e per la nomina degli organi direttivi dell'associazione;
+ d) obbligo di redigere e di approvare annualmente un rendiconto economico e finanziario secondo le disposizioni statutarie;
+ e) eleggibilita' libera degli organi amministrativi, principio del voto singolo di cui all'articolo 2532, secondo comma, del codice civile, sovranita' dell'assemblea dei soci, associati o partecipanti e i criteri di loro ammissione ed esclusione, criteri e idonee forme di pubblicita' delle convocazioni assembleari, delle relative deliberazioni, dei bilanci o rendiconti;
+ f) intrasmissibilita' della quota o contributo associativo ad eccezione dei trasferimenti a causa di morte e non rivalutabilita' della stessa.
+ Le disposizioni di cui alle lettere c) ed e) del settimo comma non si applicano alle associazioni religiose riconosciute dalle confessioni con le quali lo Stato ha stipulato patti, accordi o intese, nonche' alle associazioni politiche, sindacali e di categoria.".
+
+((Entro il 18 dicembre 1998, le associazioni gia' costituite prima del 1 gennaio 1998)) predispongono o adeguano il proprio statuto, ai sensi dell'articolo 111, comma 4-quinquies, del testo unico delle imposte sui redditi, approvato con decreto del Presidente della Repubblica 22 dicembre 1986, n. 917, come modificato dal comma 1, lettera b), ed ai sensi dell'articolo 4, settimo comma, del decreto del Presidente della Repubblica 26 ottobre 1972, n. 633, come modificato dal comma 2, lettera b).
 
 Per le associazioni politiche, sindacali e di categoria, il termine di cui al comma 3 e' di dodici mesi dalla data di entrata in vigore del presente decreto.
 
@@ -106,6 +192,103 @@ Con decreto del Ministro delle finanze, da pubblicare nella Gazzetta Ufficiale e
 
 ## Art. 10. — Organizzazioni non lucrative di utilita' sociale
 
+1.
+                        
+                            
+                                Sono organizzazioni non lucrative di utilita' sociale (ONLUS) le associazioni, i comitati, le fondazioni, le societa' cooperative e gli altri enti di carattere privato, con o senza personalita' giuridica, i cui statuti o atti costitutivi, redatti nella forma dell'atto pubblico o della scrittura privata autenticata o registrata, prevedono espressamente: 
+ 
+                            
+                            
+                                a)
+                                
+                                    lo svolgimento di attivita' in uno o piu' dei seguenti settori: 
+ 1) assistenza sociale e socio-sanitaria; 
+ 2) assistenza sanitaria; 
+ 3) beneficenza; 
+ 4) istruzione; 
+ 5) formazione; 
+ 6) sport dilettantistico; 
+ 7) tutela, promozione e valorizzazione delle cose d'interesse artistico e storico di cui alla legge 1 giugno 1939, n. 1089, ivi comprese le biblioteche e i beni di cui al decreto del Presidente della Repubblica 30 settembre 1963, n. 1409; 
+ 8) tutela e valorizzazione della natura e dell'ambiente, con esclusione dell'attivita', esercitata abitualmente, di raccolta e riciclaggio dei rifiuti urbani, speciali e pericolosi di cui all'articolo 7 del decreto legislativo 5 febbraio 1997, n. 22; 
+ 9) promozione della cultura e dell'arte; 
+ 10) tutela dei diritti civili; 
+ 11) ricerca scientifica di particolare interesse sociale svolta direttamente da fondazioni ovvero da esse affidata ad universita', enti di ricerca ed altre fondazioni che la svolgono direttamente, in ambiti e secondo modalita' da definire con apposito regolamento governativo emanato ai sensi dell'articolo 17 della legge 23 agosto 1988, n. 400; 
+ 11-bis) cooperazione allo sviluppo e solidarieta' internazionale. 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'esclusivo perseguimento di finalita' di solidarieta' sociale; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il divieto di svolgere attivita' diverse da quelle menzionate alla lettera a) ad eccezione di quelle ad esse direttamente connesse; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    il divieto di distribuire, anche in modo indiretto, utili e avanzi di gestione nonche' fondi, riserve o capitale durante la vita dell'organizzazione, a meno che la destinazione o la distribuzione non siano imposte per legge o siano effettuate a favore di altre ONLUS che per legge, statuto o regolamento fanno parte della medesima ed unitaria struttura; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    l'obbligo di impiegare gli utili o gli avanzi di gestione per la realizzazione delle attivita' istituzionali e di quelle ad esse direttamente connesse; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    l'obbligo di devolvere il patrimonio dell'organizzazione, in caso di suo scioglimento per qualunque causa, ad altre organizzazioni non lucrative di utilita' sociale o a fini di pubblica utilita', sentito l'organismo di controllo di cui all'articolo 3, comma 190, della legge 23 dicembre 1996, n. 662, salvo diversa destinazione imposta dalla legge; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    l'obbligo di redigere il bilancio o rendiconto annuale; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    disciplina uniforme del rapporto associativo e delle modalita' associative volte a garantire l'effettivita' del rapporto medesimo, escludendo espressamente la temporaneita' della partecipazione alla vita associativa e prevedendo per gli associati o partecipanti maggiori d'eta' il diritto di voto per l'approvazione e le modificazioni dello statuto e dei regolamenti e per la nomina degli organi direttivi dell'associazione; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    l'uso, nella denominazione ed in qualsivoglia segno distintivo o comunicazione rivolta al pubblico, della locuzione "organizzazione non lucrativa di utilita' sociale" o dell'acronimo "ONLUS".
+
+2.
+                        
+                            
+                                Si intende che vengono perseguite finalita' di solidarieta' sociale quando le cessioni di beni e le prestazioni di servizi rela- tive alle attivita' statutarie nei settori dell'assistenza sanitaria, dell'istruzione, della formazione, dello sport dilettantistico, della promozione della cultura e dell'arte e della tutela dei diritti civili non sono rese nei confronti di soci, associati o partecipanti, nonche' degli altri soggetti indicati alla lettera a) del comma 6, ma dirette ad arrecare benefici a: 
+ 
+                            
+                            
+                                a)
+                                
+                                    persone svantaggiate in ragione di condizioni fisiche, psichiche, economiche, sociali o familiari; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    componenti collettivita' estere, limitatamente agli aiuti umanitari.
+
 Si considera attivita' di beneficenza, ai sensi del comma 1, lettera a), numero 3), anche la concessione di erogazioni gratuite in denaro con utilizzo di somme provenienti dalla gestione patrimoniale o da donazioni appositamente raccolte, a favore di enti senza scopo di lucro che operano prevalentemente nei settori di cui al medesimo comma 1, lettera a), per la realizzazione diretta di progetti di utilita' sociale.
 
 Le finalita' di solidarieta' sociale s'intendono realizzate anche quando tra i beneficiari delle attivita' statutarie dell'organizzazione vi siano i propri soci, associati o partecipanti o gli altri soggetti indicati alla lettera a) del comma 6, se costoro si trovano nelle condizioni di svantaggio di cui alla lettera a) del comma 2.
@@ -114,6 +297,45 @@ A prescindere dalle condizioni previste ai commi 2 e 3, si considerano comunque 
 
 Si considerano direttamente connesse a quelle istituzionali le attivita' statutarie di assistenza sanitaria, istruzione, formazione, sport dilettantistico, promozione della cultura e dell'arte e tutela dei diritti civili, di cui ai numeri 2), 4), 5), 6), 9) e 10) del comma 1, lettera a), svolte in assenza delle condizioni previste ai commi 2 e 3, nonche' le attivita' accessorie per natura a quelle statutarie istituzionali, in quanto integrative delle stesse.
 L'esercizio delle attivita' connesse e' consentito a condizione che, in ciascun esercizio e nell'ambito di ciascuno dei settori elencati alla lettera a) del comma 1, le stesse non siano prevalenti rispetto a quelle istituzionali e che i relativi proventi non superino il 66 per cento delle spese complessive dell'organizzazione.
+
+6.
+                        
+                            
+                                Si considerano in ogni caso distribuzione indiretta di utili o di avanzi di gestione: 
+ 
+                            
+                            
+                                a)
+                                
+                                    le cessioni di beni e le prestazioni di servizi a soci, associati o partecipanti, ai fondatori, ai componenti gli organi amministrativi e di controllo, a coloro che a qualsiasi titolo operino per l'organizzazione o ne facciano parte, ai soggetti che effettuano erogazioni liberali a favore dell'organizzazione, ai loro parenti entro il terzo grado ed ai loro affini entro il secondo grado, nonche' alle societa' da questi direttamente o indirettamente controllate o collegate, effettuate a condizioni piu' favorevoli in ragione della loro qualita'. Sono fatti salvi, nel caso delle attivita' svolte nei settori di cui ai numeri 7) e 8) della lettera a) del comma 1, i vantaggi accordati a soci, associati o partecipanti ed ai soggetti che effettuano erogazioni liberali, ed ai loro familiari, aventi significato puramente onorifico e valore economico modico; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'acquisto di beni o servizi per corrispettivi che, senza valide ragioni economiche, siano superiori al loro valore normale; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    la corresponsione ai componenti gli organi amministrativi e di controllo di emolumenti individuali annui superiori al compenso massimo previsto dal decreto del Presidente della Repubblica 10 ottobre 1994, n. 645, e dal decreto-legge 21 giugno 1995, n. 239, convertito dalla legge 3 agosto 1995, n. 336, e successive modificazioni e integrazioni, per il presidente del collegio sindacale delle societa' per azioni; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    la corresponsione a soggetti diversi dalle banche e dagli intermediari finanziari autorizzati, di interessi passivi, in dipendenza di prestiti di ogni specie, superiori di 4 punti al tasso ufficiale di sconto; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    la corresponsione ai lavoratori dipendenti di salari o stipendi superiori del 20 per cento rispetto a quelli previsti dai contratti collettivi di lavoro per le medesime qualifiche.
 
 Le disposizioni di cui alla lettera h) del comma 1 non si applicano alle fondazioni, e quelle di cui alle lettere h) ed i) del medesimo comma 1 non si applicano agli enti riconosciuti dalle confessioni religiose con le quali lo Stato ha stipulato patti, accordi o intese.
 
@@ -168,7 +390,51 @@ Nel testo unico delle imposte sui redditi, approvato con decreto del Presidente 
 
 ## Art. 13. — Erogazioni liberali
 
+1.
+                        
+                            
+                                Al testo unico delle imposte sui redditi, approvato con decreto del Presidente della Repubblica 22 dicembre 1986, n. 917, sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    all'articolo 13-bis sono apportate le seguenti modificazioni: 
+ 1) nel comma 1, relativo alle detrazioni d'imposta per oneri sostenuti, dopo la lettera i), e' aggiunta, in fine, la seguente: 
+ "i-bis) le erogazioni liberali in denaro, per importo non superiore a 4 milioni di lire, a favore delle organizzazioni non lucrative di utilita' sociale (ONLUS), nonche' i contributi associativi, per importo non superiore a 2 milioni e 500 mila lire, versati dai soci alle societa' di mutuo soccorso che operano esclusivamente nei settori di cui all'articolo 1 della legge 15 aprile 1886, n. 3818, al fine di assicurare ai soci un sussidio nei casi di malattia, di impotenza al lavoro o di vecchiaia, ovvero, in caso di decesso, un aiuto alle loro famiglie. La detrazione e' consentita a condizione che il versamento di tali erogazioni e contributi sia eseguito tramite banca o ufficio postale ovvero mediante gli altri sistemi di pagamento previsti dall'articolo 23 del decreto legislativo 9 luglio 1997, n. 241, e secondo ulteriori modalita' idonee a consentire all'Amministrazione finanziaria lo svolgimento di efficaci controlli, che possono essere stabilite con decreto del Ministro delle finanze da emanarsi ai sensi dell'articolo 17, comma 3, della legge 23 agosto 1988, n. 400."; 
+ 2) nel comma 3, relativo alla detrazione proporzionale, in capo ai singoli soci di societa' semplice, afferente gli oneri sostenuti dalla societa' medesima, le parole: "Per gli oneri di cui alle lettere a), g), h) e i)" sono sostituite con le seguenti: "Per gli oneri di cui alle lettere a), g), h), i) ed i-bis)"; 
 
+                                
+                            
+                            
+                                b)
+                                
+                                    nell'articolo 65, comma 2, relativo agli oneri di utilita' sociale deducibili ai fini della determinazione del reddito d'impresa, dopo la lettera c-quinquies), sono aggiunte, in fine, le seguenti: 
+ "c-sexies) le erogazioni liberali in denaro, per importo non superiore a 4 milioni o al 2 per cento del reddito d'impresa dichiarato, a favore delle ONLUS; 
+ c-septies) le spese relative all'impiego di lavoratori dipendenti, assunti a tempo indeterminato, utilizzati per prestazioni di servizi erogate a favore di ONLUS, nel limite del cinque per mille dell'ammontare complessivo delle spese per prestazioni di lavoro dipendente, cosi' come risultano dalla dichiarazione dei redditi."; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    nell'articolo 110-bis, comma 1, relativo alle detrazioni d'imposta per oneri sostenuti da enti non commerciali, le parole: "oneri indicati alle lettere a), g), h) e i) del comma 1 dell'articolo 13-bis" sono sostituite dalle seguenti: "oneri indicati alle lettere a), g), h), i) ed i-bis) del comma 1 dell'articolo 13-bis"; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    nell'articolo 113, comma 2-bis, relativo alle detrazioni d'imposta per oneri sostenuti da societa' ed enti commerciali non residenti, le parole: "oneri indicati alle lettere a), g), h) e i) del comma 1 dell'articolo 13-bis" sono sostituite dalle seguenti: "oneri indicati alle lettere a), g), h), i) ed i-bis) del comma 1 dell'articolo 13-bis"; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    nell'articolo 114, comma 1-bis, relativo alle detrazioni d'imposta per oneri sostenuti dagli enti non commerciali non residenti, le parole: "oneri indicati alle lettere a), g), h) e i) del comma 1 dell'articolo 13-bis" sono sostituite dalle seguenti: "oneri indicati alle lettere a), g), h), i) ed i-bis) del comma 1 dell'articolo 13-bis". (7)
+
+((COMMA ABROGATO DALLA L. 19 AGOSTO 2016, N. 166, COME MODIFICATA DALLA L. 27 DICEMBRE 2017, N. 205)).
 
 ((COMMA ABROGATO DALLA L. 19 AGOSTO 2016, N. 166, COME MODIFICATA DALLA L. 27 DICEMBRE 2017, N. 205)).
 
@@ -179,6 +445,50 @@ La deducibilita' dal reddito imponibile delle erogazioni liberali a favore di or
 La deducibilita' dal reddito imponibile delle erogazioni liberali previste all'articolo 65, comma 2, lettere a) e b), del testo unico delle imposte sui redditi, approvato con decreto del Presidente della Repubblica 22 dicembre 1986, n. 917, e' consentita a condizione che per le medesime erogazioni liberali il soggetto erogante non usufruisca delle deduzioni previste dalla lettera c-sexies) del medesimo articolo 65, comma 2. (7)
 
 La deducibilita' dal reddito imponibile delle erogazioni liberali previste all'articolo 114, comma 2-bis, lettere a) e b), del testo unico delle imposte sui redditi, approvato con decreto del Presidente della Repubblica 22 dicembre 1986, n. 917, e' consentita a condizione che per le medesime erogazioni liberali il soggetto erogante non usufruisca delle detrazioni d'imposta previste dal comma 1-bis, del medesimo articolo 114. (7)
+
+1.
+                        
+                            
+                                Al testo unico delle imposte sui redditi, approvato con decreto del Presidente della Repubblica 22 dicembre 1986, n. 917, sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    all'articolo 13-bis sono apportate le seguenti modificazioni: 
+ 1) nel comma 1, relativo alle detrazioni d'imposta per oneri sostenuti, dopo la lettera i), e' aggiunta, in fine, la seguente: 
+ "i-bis) le erogazioni liberali in denaro, per importo non superiore a 4 milioni di lire, a favore delle organizzazioni non lucrative di utilita' sociale (ONLUS), nonche' i contributi associativi, per importo non superiore a 2 milioni e 500 mila lire, versati dai soci alle societa' di mutuo soccorso che operano esclusivamente nei settori di cui all'articolo 1 della legge 15 aprile 1886, n. 3818, al fine di assicurare ai soci un sussidio nei casi di malattia, di impotenza al lavoro o di vecchiaia, ovvero, in caso di decesso, un aiuto alle loro famiglie. La detrazione e' consentita a condizione che il versamento di tali erogazioni e contributi sia eseguito tramite banca o ufficio postale ovvero mediante gli altri sistemi di pagamento previsti dall'articolo 23 del decreto legislativo 9 luglio 1997, n. 241, e secondo ulteriori modalita' idonee a consentire all'Amministrazione finanziaria lo svolgimento di efficaci controlli, che possono essere stabilite con decreto del Ministro delle finanze da emanarsi ai sensi dell'articolo 17, comma 3, della legge 23 agosto 1988, n. 400."; 
+ 2) nel comma 3, relativo alla detrazione proporzionale, in capo ai singoli soci di societa' semplice, afferente gli oneri sostenuti dalla societa' medesima, le parole: "Per gli oneri di cui alle lettere a), g), h) e i)" sono sostituite con le seguenti: "Per gli oneri di cui alle lettere a), g), h), i) ed i-bis)"; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    nell'articolo 65, comma 2, relativo agli oneri di utilita' sociale deducibili ai fini della determinazione del reddito d'impresa, dopo la lettera c-quinquies), sono aggiunte, in fine, le seguenti: 
+ "c-sexies) le erogazioni liberali in denaro, per importo non superiore a 4 milioni o al 2 per cento del reddito d'impresa dichiarato, a favore delle ONLUS; 
+ c-septies) le spese relative all'impiego di lavoratori dipendenti, assunti a tempo indeterminato, utilizzati per prestazioni di servizi erogate a favore di ONLUS, nel limite del cinque per mille dell'ammontare complessivo delle spese per prestazioni di lavoro dipendente, cosi' come risultano dalla dichiarazione dei redditi."; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    nell'articolo 110-bis, comma 1, relativo alle detrazioni d'imposta per oneri sostenuti da enti non commerciali, le parole: "oneri indicati alle lettere a), g), h) e i) del comma 1 dell'articolo 13-bis" sono sostituite dalle seguenti: "oneri indicati alle lettere a), g), h), i) ed i-bis) del comma 1 dell'articolo 13-bis"; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    nell'articolo 113, comma 2-bis, relativo alle detrazioni d'imposta per oneri sostenuti da societa' ed enti commerciali non residenti, le parole: "oneri indicati alle lettere a), g), h) e i) del comma 1 dell'articolo 13-bis" sono sostituite dalle seguenti: "oneri indicati alle lettere a), g), h), i) ed i-bis) del comma 1 dell'articolo 13-bis"; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    nell'articolo 114, comma 1-bis, relativo alle detrazioni d'imposta per oneri sostenuti dagli enti non commerciali non residenti, le parole: "oneri indicati alle lettere a), g), h) e i) del comma 1 dell'articolo 13-bis" sono sostituite dalle seguenti: "oneri indicati alle lettere a), g), h), i) ed i-bis) del comma 1 dell'articolo 13-bis". (7)
 
 COMMA ABROGATO DALLA L. 19 AGOSTO 2016, N. 166, COME MODIFICATA DALLA L. 27 DICEMBRE 2017, N. 205. ((11))
 
@@ -212,6 +522,38 @@ La deducibilita' dal reddito imponibile delle erogazioni liberali previste all'a
  Il D.Lgs. 3 luglio 2017, n. 104, come modificato dal D.L. 17 giugno 2025, n. 84, ha disposto con l'art. 104, comma 2) che "Le disposizioni del titolo X, salvo quanto previsto dal comma 1, si applicano agli enti iscritti nel Registro unico nazionale del Terzo settore a decorrere dal periodo di imposta successivo a quello in corso al 31 dicembre 2025".
 
 ## Art. 14. — Disposizioni relative all'imposta sul valore aggiunto
+
+1.
+                        
+                            
+                                Al decreto del Presidente della Repubblica 26 ottobre 1972, n. 633, recante la disciplina dell'imposta sul valore aggiunto, sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    nell'articolo 3, terzo comma, primo periodo, relativo alla individuazione dei soggetti beneficiari di operazioni di divulgazione pubblicitaria che non sono considerate prestazioni di servizi, dopo le parole: "solidarieta' sociale," sono inserite le seguenti: "nonche' delle organizzazioni non lucrative di utilita' sociale (ONLUS),"; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    all'articolo 10, primo comma, relativo alle operazioni esenti dall'imposta, sono apportate le seguenti modificazioni: 
+ 1) nel numero 12), dopo le parole: "studio o ricerca scientifica" sono aggiunte, in fine, le seguenti: "e alle ONLUS"; 
+ 2) nel numero 15), dopo le parole: "effettuate da imprese autorizzate" sono aggiunte, in fine, le seguenti: "e da ONLUS"; 
+ 3) nel numero 19), dopo le parole: "societa' di mutuo soccorso con personalita' giuridica" sono inserite le seguenti: "e da ONLUS"; 
+ 4) nel numero 20), dopo le parole: "rese da istituti o scuole riconosciute da pubbliche amministrazioni" sono inserite le seguenti: 
+"e da ONLUS"; 
+ 5) nel numero 27-ter), dopo le parole: "o da enti aventi finalita' di assistenza sociale" sono inserite le seguenti: "e da ONLUS"; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    nell'articolo 19-ter, relativo alla detrazione per gli enti non commerciali, nel secondo comma, le parole: "di cui all'articolo 20" sono sostituite dalle seguenti: "di cui agli articoli 20 e 20-bis". 
+ ((7))
 
 -------------
                             AGGIORNAMENTO (7)
@@ -312,6 +654,25 @@ I comuni, le province, le regioni e le province autonome di Trento e di Bolzano 
 
 ## Art. 22. — Agevolazioni in materia di imposta di registro
 
+1.
+                        
+                            
+                                Alla tariffa, parte prima, allegata al testo unico delle disposizioni concernenti l'imposta di registro, approvato con decreto del Presidente della Repubblica 26 aprile 1986, n. 131, sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    nell'articolo 1, concernente il trattamento degli atti traslativi a titolo oneroso della proprieta' di beni immobili e degli atti traslativi o costitutivi di diritti reali immobiliari di godimento, dopo il settimo periodo, e' aggiunto, in fine, il seguente: "Se il trasferimento avviene a favore di organizzazione non lucrativa di utilita' sociale (ONLUS) ove ricorrano le condizioni di cui alla nota II-quater): lire 250.000."; nel medesimo articolo, dopo la nota II-ter), e' aggiunta, in fine, la seguente: "II-quater). A condizione che la ONLUS dichiari nell'atto che intende utilizzare direttamente i beni per lo svolgimento della propria attivita' e che realizzi l'effettivo utilizzo diretto entro 2 anni dall'acquisto. In caso di dichiarazione mendace o di mancata effettiva utilizzazione per lo svolgimento della propria attivita' e' dovuta l'imposta nella misura ordinaria nonche' una sanzione amministrativa pari al 30 per cento della stessa imposta."; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    dopo l'articolo 11 e' aggiunto, in fine, il seguente: "Art. 11-bis - 1. Atti costitutivi e modifiche statutarie concernenti le organizzazioni non lucrative di utilita' sociale: lire 250.000.". 
+ ((7))
+
 -------------
                             AGGIORNAMENTO (7)
                             
@@ -335,6 +696,32 @@ Con decreto del Ministro delle finanze, da emanarsi ai sensi dell'articolo 17, c
  a) gli articoli da 10 a 29 del decreto legislativo 4 dicembre 1997, n. 460, fatto salvo l'articolo 13, commi 2, 3 e 4".
 
 ## Art. 24. — Agevolazioni per le lotterie, tombole, pesche e banchi di beneficenza
+
+1.
+                        
+                            
+                                Nell'articolo 40, primo comma del regio decreto-legge 19 ottobre 1938, n. 1933, convertito, con modificazioni, dalla legge 5 giugno 1939, n. 973, recante riforma delle leggi sul lotto pubblico, sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    al numero 1), relativo alla autorizzazione a promuovere lotterie, dopo le parole: "enti morali," sono inserite le seguenti: "organizzazioni non lucrative di utilita' sociale (ONLUS),"; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    al numero 2), relativo alla autorizzazione a promuovere tombole, dopo le parole: "enti morali," e' inserita la seguente: "ONLUS,"; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    al numero 3), relativo alla autorizzazione a promuovere pesche o banchi di beneficenza, dopo le parole: "enti morali," e' inserita la seguente: "ONLUS,". 
+ ((7))
 
 -------------
                             AGGIORNAMENTO (7)
@@ -389,6 +776,31 @@ L'uso nella denominazione e in qualsivoglia segno distintivo o comunicazione riv
  a) gli articoli da 10 a 29 del decreto legislativo 4 dicembre 1997, n. 460, fatto salvo l'articolo 13, commi 2, 3 e 4".
 
 ## Art. 28. — Sanzioni e responsabilita' dei rappresentanti legali e degli amministratori
+
+1.
+                        
+                            
+                                Indipendentemente da ogni altra sanzione prevista dalle leggi tributarie: 
+ 
+                            
+                            
+                                a)
+                                
+                                    i rappresentanti legali e i membri degli organi amministrativi delle ONLUS, che si avvalgono dei benefici di cui al presente decreto in assenza dei requisiti di cui all'articolo 10, ovvero violano le disposizioni statutarie di cui alle lettere c) e d) del comma 1 del medesimo articolo sono puniti con la sanzione amministrativa da lire 2 milioni a lire 12 milioni; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    i soggetti di cui alla lettera a) sono puniti con la sanzione amministrativa da lire 200 mila a lire 2 milioni qualora omettono di inviare le comunicazioni previste all'articolo 11, comma 1; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    chiunque contravviene al disposto dell'articolo 27, e' punito con la sanzione amministrativa da lire 600 mila a lire 6 milioni.
 
 Le sanzioni previste dal comma 1 sono irrogate, ai sensi dell'articolo 54, primo e secondo comma, del decreto del Presidente della Repubblica 29 settembre 1973, n. 600, dall'ufficio delle entrate nel cui ambito territoriale si trova il domicilio fiscale della ONLUS.
 

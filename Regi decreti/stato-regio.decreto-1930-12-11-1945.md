@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Regi decreti
 vigenza_date: 2009-12-14
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T10:00:42Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 REGIO DECRETO
@@ -75,6 +75,28 @@ Scuola di flauto.
 Scuola di corno.
 
 Scuola di tromba e trombone.
+
+16.
+                    
+                        
+                            Scuola di chitarra. ((3)) 
+ 
+ Saranno istituite, man mano che sara' possibile, anche le seguenti scuole: 
+ 
+ 
+                        
+                        
+                            a)
+                            
+                                Scuola di direzione d'orchestra; 
+ 
+
+                            
+                        
+                        
+                            b)
+                            
+                                Scuola di canto (ramo didattico).
 
 --------------
                         AGGIORNAMENTO (3)

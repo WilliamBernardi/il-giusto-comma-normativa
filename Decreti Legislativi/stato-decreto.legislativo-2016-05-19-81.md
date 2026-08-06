@@ -7,8 +7,8 @@ urn: urn:nir:stato:decreto.legislativo:2016-05-19;81
 vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:21Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -28,11 +28,215 @@ Sulla proposta del Presidente del Consiglio dei ministri, del Ministro dell'inte
 
 Il presente decreto si applica agli esplosivi per uso civile.
 
+2.
+                        
+                            
+                                Sono esclusi dall'ambito di applicazione del presente decreto: 
+ 
+                            
+                            
+                                a)
+                                
+                                    gli esplosivi, ivi comprese le munizioni, destinati a essere usati, conformemente alla vigente normativa, dalle Forze armate e di polizia; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    gli articoli pirotecnici che rientrano nell'ambito di applicazione del decreto legislativo 29 luglio 2015, n. 123; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    le munizioni, fatto salvo quanto previsto agli articoli 12, 13, 14 e 15; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    le campionature di esplosivi nuovi destinate ad essere movimentate o trasferite in ambito UE per la sottoposizione a prova degli organismi notificati, a condizione che sugli stessi sia indicata la non conformita' e la non disponibilita' alla vendita e previa autorizzazione del prefetto competente per territorio prima della loro fabbricazione, ferme restando le disposizioni di cui all'articolo 16.
+
 All'Allegato I figura un elenco non esaustivo degli articoli pirotecnici e delle munizioni di cui, rispettivamente, al comma 2, lettera b), e all'articolo 2, comma 1, lettera b), identificati in base alle raccomandazioni delle Nazioni Unite sul trasporto di merci pericolose.
 
 Le disposizioni del presente decreto non ostano all'applicazione delle convenzioni internazionali in materia, ratificate e rese esecutive in Italia, e all'adozione di misure idonee a rafforzare la prevenzione e la repressione del traffico illecito e dell'impiego di esplosivi per la commissione di reati, nonche' alla classificazione di talune sostanze non contemplate dal presente decreto come esplosivi in virtu' di leggi o regolamenti nazionali.
 
 ## Art. 2. — Definizioni
+
+1.
+                        
+                            
+                                Ai fini del presente decreto si intende per: 
+ 
+                            
+                            
+                                a)
+                                
+                                    esplosivi: le materie e gli articoli considerati esplosivi nelle raccomandazioni delle Nazioni Unite relative al trasporto delle merci pericolose e figuranti nella classe 1 di tali raccomandazioni; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    munizioni: i proiettili e le cariche propulsive nonche' le munizioni a salve utilizzati in armi portatili, altre armi da fuoco e pezzi d'artiglieria; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    sicurezza: la prevenzione degli incidenti, o, ove non sia possibile, la limitazione dei loro effetti; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    sicurezza pubblica: la prevenzione di qualsiasi utilizzazione a fini contrari all'ordine pubblico; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    licenza di trasferimento: la decisione presa nei confronti dei trasferimenti previsti di esplosivi all'interno dell'Unione europea; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    trasferimento: qualsiasi spostamento fisico di esplosivi all'interno dell'Unione europea, eccettuati gli spostamenti realizzati in un medesimo sito; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    messa a disposizione sul mercato: la fornitura di un esplosivo per la distribuzione o l'uso nel mercato dell'Unione europea nel corso di un'attivita' commerciale, a titolo oneroso o gratuito; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    immissione sul mercato: la prima messa a disposizione sul mercato dell'Unione europea di un esplosivo; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    fabbricante: la persona fisica o giuridica che fabbrica un esplosivo o che lo fa progettare o fabbricare, e commercializza tale esplosivo con il proprio nome o marchio commerciale o lo utilizza per i propri scopi; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    rappresentante autorizzato: una persona fisica o giuridica stabilita nell'Unione europea che ha ricevuto da un fabbricante un mandato scritto che la autorizza ad agire a suo nome in relazione a determinati compiti; 
+
+                                
+                            
+                            
+                                m)
+                                
+                                    importatore: la persona fisica o giuridica stabilita nell'Unione europea che immette sul mercato dell'Unione un esplosivo originario di un paese terzo; 
+
+                                
+                            
+                            
+                                n)
+                                
+                                    distributore: la persona fisica o giuridica presente nella catena di fornitura, diversa dal fabbricante e dall'importatore, che mette a disposizione un esplosivo sul mercato; 
+
+                                
+                            
+                            
+                                o)
+                                
+                                    operatori economici: il fabbricante, il suo rappresentante autorizzato, l'importatore, il distributore e qualsiasi persona giuridica o fisica impegnata nell'immagazzinamento, nell'utilizzazione, nei trasferimenti, nell'importazione, nell'esportazione o nel commercio degli esplosivi; 
+
+                                
+                            
+                            
+                                p)
+                                
+                                    armaiolo: la persona fisica o giuridica la cui attivita' professionale consiste in tutto o in parte nella fabbricazione, commercio, scambio, assemblaggio, riparazione, trasformazione, disattivazione o locazione di armi da fuoco e di munizioni; 
+
+                                
+                            
+                            
+                                q)
+                                
+                                    specifica tecnica: un documento che prescrive i requisiti tecnici che un esplosivo deve soddisfare; 
+
+                                
+                            
+                            
+                                r)
+                                
+                                    norma armonizzata: la norma armonizzata di cui all'articolo 2, punto 1, lettera c), del regolamento (UE) n. 1025/2012; 
+
+                                
+                            
+                            
+                                s)
+                                
+                                    accreditamento: l'attestazione dell'organismo nazionale di accreditamento che certifica che un determinato organismo di valutazione della conformita' soddisfa i criteri stabiliti dal presente decreto per svolgere una specifica attivita' di valutazione della conformita'; 
+
+                                
+                            
+                            
+                                t)
+                                
+                                    organismo nazionale di accreditamento: l'organismo nazionale autorizzato a svolgere attivita' di accreditamento in conformita' al regolamento (CE) n. 765/2008, nonche' di vigilanza del mercato, individuato in base alla normativa vigente; 
+
+                                
+                            
+                            
+                                u)
+                                
+                                    valutazione della conformita': il processo atto a dimostrare il rispetto dei requisiti essenziali di sicurezza del presente decreto relativi agli esplosivi; 
+
+                                
+                            
+                            
+                                v)
+                                
+                                    organismo di valutazione della conformita': l'organismo che svolge attivita' di valutazione della conformita', fra cui tarature, prove, certificazioni e ispezioni; 
+
+                                
+                            
+                            
+                                z)
+                                
+                                    richiamo: qualsiasi misura volta a ottenere la restituzione di un esplosivo gia' messo a disposizione dell'utilizzatore finale; 
+
+                                
+                            
+                            
+                                aa)
+                                
+                                    ritiro: qualsiasi misura volta a impedire la messa a disposizione sul mercato di un esplosivo presente nella catena di fornitura; 
+
+                                
+                            
+                            
+                                bb)
+                                
+                                    normativa di armonizzazione dell'Unione: la normativa dell'Unione europea che armonizza le condizioni di commercializzazione dei prodotti; 
+
+                                
+                            
+                            
+                                cc)
+                                
+                                    marcatura CE: la marcatura mediante la quale il fabbricante indica che l'esplosivo e' conforme ai requisiti applicabili stabiliti nella normativa di armonizzazione dell'Unione che ne prevede l'apposizione, secondo le modalita' stabilite nell'Allegato V.
 
 ## Art. 3. — Libera circolazione - Messa a disposizione sul mercato
 
@@ -52,6 +256,24 @@ I fabbricanti garantiscono che siano predisposte le procedure necessarie affinch
 
 I fabbricanti garantiscono che gli esplosivi che hanno immesso sul mercato rechino l'identificazione univoca a norma del sistema di identificazione e di tracciabilita' degli esplosivi di cui all'articolo 16.
 
+6.
+                        
+                            
+                                Per gli esplosivi che non rientrano nel sistema di cui al comma 5, i fabbricanti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    garantiscono che gli esplosivi che hanno immesso sul mercato rechino un numero di tipo, di lotto o di serie o un altro elemento che ne consenta l'identificazione oppure, quando la dimensione ridotta, la forma o la progettazione dell'esplosivo non lo consentono, che le informazioni richieste siano apposte sull'imballaggio o su un documento di accompagnamento dell'esplosivo; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    indicano sull'esplosivo il loro nome, la loro denominazione commerciale registrata o il loro marchio registrato e l'indirizzo postale al quale possono essere contattati oppure, ove cio' non sia possibile, sull'imballaggio o in un documento di accompagnamento dell'esplosivo. L'indirizzo indica un unico punto in cui il fabbricante puo' essere contattato. Le informazioni relative al contatto sono in lingua italiana.
+
 I fabbricanti garantiscono che l'esplosivo che hanno immesso sul mercato sia accompagnato da istruzioni e informazioni sulla sicurezza in lingua italiana. Tali istruzioni e informazioni sulla sicurezza, al pari di qualunque etichettatura, devono essere chiare, comprensibili e intelligibili.
 
 I fabbricanti che ritengono o hanno motivo di ritenere che un esplosivo da essi immesso sul mercato non sia conforme al presente decreto prendono immediatamente le misure correttive necessarie per rendere conforme tale esplosivo, per ritirarlo o richiamarlo, a seconda dei casi. Inoltre, qualora l'esplosivo presenti un rischio, i fabbricanti ne informano immediatamente i Ministeri dell'interno e dello sviluppo economico, nonche' le autorita' nazionali competenti degli Stati membri in cui hanno messo a disposizione sul mercato l'esplosivo, indicando in particolare i dettagli relativi alla non conformita' e qualsiasi misura correttiva presa.
@@ -61,6 +283,31 @@ I fabbricanti, a seguito di ordine di esibizione degli organi di polizia incaric
 ## Art. 5. — Rappresentanti autorizzati
 
 Il fabbricante puo' nominare, mediante mandato scritto, un rappresentante autorizzato. Gli obblighi di cui all'articolo 4, comma 1, e l'obbligo di stesura della documentazione tecnica di cui all'articolo 4, comma 2, non rientrano nel mandato del rappresentante autorizzato.
+
+2.
+                        
+                            
+                                Il rappresentante autorizzato esegue i compiti specificati nel mandato ricevuto dal fabbricante. Il mandato consente al rappresentante autorizzato di eseguire almeno i seguenti compiti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    mantenere a disposizione delle autorita' nazionali di vigilanza del mercato la dichiarazione di conformita' UE e la documentazione tecnica per un periodo di dieci anni dalla data in cui l'esplosivo e' stato immesso sul mercato; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    a seguito di richiesta motivata degli organi di polizia o delle autorita' di sorveglianza del mercato, fornire tutte le informazioni e la documentazione necessarie per dimostrare la conformita' di un esplosivo; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    cooperare con tali organi o autorita', su loro richiesta, a qualsiasi azione intrapresa per eliminare i rischi presentati dagli esplosivi che rientrano nel mandato del rappresentante autorizzato.
 
 ## Art. 6. — Obblighi degli importatori
 
@@ -99,6 +346,24 @@ Un importatore o distributore e' ritenuto un fabbricante ai fini del presente de
 
 ## Art. 9. — Identificazione degli operatori economici
 
+1.
+                        
+                            
+                                Per gli esplosivi non inclusi nel sistema di cui all'articolo 16, gli operatori economici indicano alle autorita' di sorveglianza che ne facciano richiesta: 
+ 
+                            
+                            
+                                a)
+                                
+                                    qualsiasi operatore economico che abbia fornito loro esplosivi; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    qualsiasi operatore economico cui abbiano fornito esplosivi.
+
 Gli operatori economici devono essere in grado di presentare le informazioni di cui al comma 1 per dieci anni dal momento in cui siano stati loro forniti esplosivi e per un periodo di dieci anni dal momento in cui essi abbiano fornito esplosivi.
 
 ## - Capo III Disposizioni di sicurezza
@@ -110,6 +375,66 @@ In conformita' alla decisione n. 2004/388/CE della Commissione europea, del 15 a
 Ai fini del rilascio dell'autorizzazione di cui al comma 1, il prefetto verifica che il destinatario sia provvisto delle autorizzazioni per l'acquisto ed il deposito degli esplosivi previste dalla normativa vigente.
 
 Qualora sussistano motivi ostativi al rilascio dell'autorizzazione medesima, il prefetto trasmette le relative informazioni al Ministero dell'interno, anche ai fini della comunicazione alla Commissione dell'Unione europea.
+
+4.
+                        
+                            
+                                La domanda per il rilascio dell'autorizzazione di cui al comma 1 contiene: 
+ 
+                            
+                            
+                                a)
+                                
+                                    le generalita' e la residenza o sede del destinatario e della persona o ente che fornisce gli esplosivi; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'indirizzo del luogo di destinazione degli esplosivi; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    una descrizione completa degli esplosivi che formano oggetto del trasferimento, compresi la quantita' e il numero di identificazione delle Nazioni unite; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    le indicazioni relative all'attestato di esame «UE del tipo» e alle valutazioni di conformita' riguardanti gli esplosivi oggetto del trasferimento; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    le modalita' del trasferimento e l'itinerario; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    le date previste di partenza e di arrivo degli esplosivi; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    il punto di entrata nello Stato e, ove si tratti di mero transito, quello di uscita; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    gli estremi dei titoli abilitanti l'acquisto e il deposito degli esplosivi.
 
 Entro i due giorni lavorativi successivi alla data dell'arrivo degli esplosivi, il titolare dell'autorizzazione o un suo rappresentante ne da' comunicazione all'ufficio di pubblica sicurezza del luogo di destinazione e, su richiesta di quest'ultimo, esibisce l'autorizzazione medesima.
 
@@ -126,6 +451,52 @@ Il titolare dell'autorizzazione di cui al comma 1 o un suo rappresentante comuni
 ## Art. 12. — Trasferimenti di munizioni da uno Stato membro
 
 Chi intende introdurre nel territorio nazionale munizioni per uso civile provenienti da uno Stato membro dell'Unione europea deve munirsi dell'autorizzazione rilasciata dalle competenti autorita' dello Stato di origine, previo apposito nulla-osta rilasciato dal prefetto territorialmente competente per il luogo di destinazione.
+
+2.
+                        
+                            
+                                La domanda per il rilascio del nulla osta di cui al comma 1 deve contenere: 
+ 
+                            
+                            
+                                a)
+                                
+                                    le generalita' e la residenza o sede del venditore o cedente e dell'acquirente o cessionario oppure, eventualmente, del proprietario; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'indirizzo del luogo di partenza e di quello in cui verranno spedite o trasportate le munizioni; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    la specie e la quantita' di munizioni che fanno parte della spedizione o del trasporto; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    i dati che consentono l'identificazione delle munizioni nonche' l'indicazione che esse hanno formato oggetto di controllo in base alle disposizioni della convenzione 1° luglio 1969 relativa al reciproco riconoscimento delle punzonature di prova delle armi da fuoco portatili; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    l'indicazione del mezzo di trasferimento; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    la data di partenza e la data prevista per l'arrivo delle munizioni.
 
 Al piu' tardi al momento del trasferimento, l'interessato e' tenuto a comunicare, altresi', eventuali Stati membri di transito.
 
@@ -193,6 +564,31 @@ Procedure di valutazione della conformita'
 
 Gli esplosivi per uso civile devono soddisfare i requisiti essenziali di sicurezza di cui all'Allegato II.
 
+2.
+                        
+                            
+                                Ai fini della verifica di conformita' degli esplosivi per uso civile il fabbricante applica una delle seguenti procedure di cui all'Allegato III: 
+ 
+ 
+                            
+                            
+                                a)
+                                
+                                    per gli esplosivi prodotti in serie: 
+ 1) esame UE del tipo (modulo B) e, a scelta del fabbricante, una delle seguenti procedure: 
+ 1.1) conformita' al tipo basata sul controllo interno della produzione unito a prove ufficiali del prodotto sotto controllo effettuate a intervalli casuali (modulo C2); 
+ 1.2) conformita' al tipo basata sulla garanzia della qualita' del processo di produzione (modulo D); 
+ 1.3) conformita' al tipo basata sulla garanzia di qualita' del prodotto (modulo E); 
+ 1.4) conformita' al tipo basata sulla verifica del prodotto (modulo F); 
+ 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    per gli esplosivi da realizzare in produzione unica, conformita' basata sulla verifica dell'esemplare unico (modulo G).
+
 L'attestato di esame "UE del tipo" e la valutazione della conformita' di cui all'Allegato III sostituiscono per gli esplosivi per uso civile il riconoscimento di cui all'articolo 53 del testo unico delle leggi di pubblica sicurezza approvato con regio decreto 18 giugno 1931, n. 773.
 
 ## Art. 20.
@@ -259,7 +655,64 @@ Non intraprendono alcuna attivita' che possa essere in conflitto con la loro ind
 
 Gli organismi di valutazione della conformita' e il loro personale eseguono le operazioni di valutazione della conformita' con il massimo dell'integrita' professionale e della competenza tecnica e sono liberi da qualsivoglia pressione e incentivo, soprattutto di ordine finanziario, che possa influenzare il loro giudizio o i risultati delle loro attivita' di valutazione, in particolare da persone o gruppi di persone interessati ai risultati di tali attivita'.
 
+5.
+                        
+                            
+                                L'organismo di valutazione della conformita' e' in grado di eseguire tutti i compiti di valutazione della conformita' assegnatigli in base all'allegato III e per cui e' stato notificato, indipendentemente dal fatto che siano eseguiti dall'organismo stesso o per suo conto e sotto la sua responsabilita'. In ogni momento, per ogni procedura di valutazione della conformita' e per ogni tipo o categoria di esplosivi per i quali e' stato notificato, l'organismo di valutazione della conformita' ha a sua disposizione: 
+ 
+                            
+                            
+                                a)
+                                
+                                    personale con conoscenze tecniche ed esperienza sufficiente e appropriata per eseguire i compiti di valutazione della conformita'; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le necessarie descrizioni delle procedure in conformita' delle quali avviene la valutazione della conformita', garantendo la trasparenza e la capacita' di riproduzione di tali procedure; una politica e procedure appropriate che distinguano i compiti che svolge in qualita' di organismo notificato dalle altre attivita'; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    le procedure per svolgere le attivita' che tengono debitamente conto delle dimensioni di un'impresa, del settore in cui opera, della sua struttura, del grado di complessita' della tecnologia del prodotto in questione e della natura di massa o seriale del processo produttivo.
+
 L'organismo di valutazione della conformita' dispone dei mezzi necessari per eseguire in modo appropriato i compiti tecnici e amministrativi connessi alle attivita' di valutazione della conformita' e ha accesso a tutti gli strumenti o impianti occorrenti.
+
+7.
+                        
+                            
+                                Il personale responsabile dell'esecuzione dei compiti di valutazione della conformita' dispone dei seguenti requisiti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    una formazione tecnica e professionale solida che includa tutte le attivita' di valutazione della conformita' in relazione a cui l'organismo di valutazione della conformita' e' stato notificato; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    soddisfacenti conoscenze delle prescrizioni relative alle valutazioni che esegue e un'adeguata autorita' per eseguire tali valutazioni; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    una conoscenza e una comprensione adeguate dei requisiti essenziali di sicurezza di cui all'allegato II, delle norme armonizzate applicabili e delle disposizioni pertinenti della normativa armonizzata dell'Unione europea e delle normative nazionali; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    la capacita' di elaborare certificati, registri e rapporti atti a dimostrare che le valutazioni sono state eseguite.
 
 E' garantita l'imparzialita' degli organismi di valutazione della conformita', dei loro alti dirigenti e del personale addetto alla valutazione della conformita'. La remunerazione degli alti dirigenti e del personale addetto alla valutazione della conformita' di un organismo di valutazione della conformita' non dipende dal numero di valutazioni eseguite o dai risultati di tali valutazioni.
 
@@ -307,6 +760,38 @@ Qualora non siano prese misure correttive o non producano il risultato richiesto
 ## Art. 30. — Obbligo di informazione a carico 
  degli organismi notificati
 
+1.
+                        
+                            
+                                Gli organismi notificati informano il Ministero dello sviluppo economico: 
+ 
+                            
+                            
+                                a)
+                                
+                                    di qualunque rifiuto, limitazione, sospensione o ritiro di un certificato; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    di qualunque circostanza che possa influire sull'ambito e sulle condizioni della notifica; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    di eventuali richieste di informazioni che abbiano ricevuto dalle autorita' di sorveglianza del mercato in relazione alle attivita' di valutazione della conformita'; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    su richiesta, delle attivita' di valutazione della conformita' eseguite nell'ambito della loro notifica e di qualsiasi altra attivita', incluse quelle transfrontaliere e di subappalto.
+
 Gli organismi notificati forniscono agli altri organismi notificati a norma del presente decreto, le cui attivita' di valutazione della conformita' sono simili e coprono gli stessi esplosivi, informazioni pertinenti sulle questioni relative ai risultati negativi e, su richiesta, positivi delle valutazioni della conformita'.
 
 ## Art. 31. — Coordinamento degli organismi notificati
@@ -320,6 +805,38 @@ Il Ministero dello sviluppo economico garantisce che gli organismi notificati, d
 Agli esplosivi si applicano gli articoli da 16 a 29 del regolamento (CE) n. 765/2008.
 
 Il prefetto, quale autorita' di sorveglianza del mercato territorialmente competente, di seguito cosi' denominata, controlla che gli esplosivi per uso civile siano immessi sul mercato soltanto se adeguatamente immagazzinati e usati ai fini cui sono destinati, non presentino un rischio per la salute o la sicurezza delle persone, dei beni o dell'ambiente.
+
+3.
+                        
+                            
+                                L'autorita' di sorveglianza del mercato, avvalendosi della collaborazione della Commissione tecnica territoriale in materia di sostanze esplodenti, dei competenti uffici doganali e dei comandi della Guardia di Finanza, nonche' della collaborazione, che non puo' essere rifiutata, di altre istituzioni, enti e strutture pubbliche, attua la sorveglianza del mercato mediante la predisposizione di un piano contenente le misure tese a: 
+ 
+                            
+                            
+                                a)
+                                
+                                    effettuare periodiche ispezioni all'ingresso del territorio nazionale, nonche' nei luoghi di fabbricazione, di deposito e di vendita; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    prelevare, se del caso, campioni di esplosivi per sottoporli a prove ed analisi volte ad accertare la sicurezza, redigendone processo verbale di cui deve essere rilasciata copia agli interessati; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    conseguentemente, ritirare dal mercato, in esito agli accertamenti disposti, gli esplosivi che, pur recando la marcatura CE, corredati della dichiarazione di conformita' CE, e usati conformemente allo scopo cui sono destinati, presentino un rischio per la salute o la sicurezza delle persone, dei beni o dell'ambiente; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    ordinare e coordinare o, se del caso, organizzare con i fabbricanti, gli importatori o i distributori, il richiamo dal mercato degli esplosivi che presentino un rischio per la salute o la sicurezza delle persone, dei beni o dell'ambiente e la loro distruzione in condizioni di sicurezza.
 
 I costi relativi alle operazioni di cui al comma 3, lettera b), sono posti a carico dei fabbricanti, degli importatori o dei distributori solo in caso di accertata non conformita' del prodotto.
 
@@ -337,6 +854,24 @@ Alle misure di cui al comma 1 si applica l'articolo 21 del regolamento (CE) n.76
 Il Ministero dell'interno, informato dall'autorita' di sorveglianza del mercato, ai sensi del comma 1, qualora ritenga che l'inadempienza non sia ristretta al territorio nazionale, informa la Commissione dell'Unione europea e gli altri Stati membri dei risultati della valutazione e dei provvedimenti che ha chiesto all'operatore economico di assumere.
 
 L'operatore economico adotta tutte le opportune misure correttive nei confronti di tutti gli esplosivi interessati che ha messo a disposizione sull'intero mercato dell'Unione europea.
+
+5.
+                        
+                            
+                                Qualora l'operatore economico interessato non adotti le misure correttive adeguate entro il termine di cui al comma 1 fissato dall'autorita' di sorveglianza del mercato, l'autorita' medesima adotta tutte le opportune misure provvisorie per proibire o limitare la messa a disposizione dell'esplosivo sul mercato nazionale, per ritirarlo dal mercato medesimo o per richiamarlo. Delle misure adottate e' data immediata informazione nei termini di cui ai commi 1, ultimo periodo, e 3, che include tutti i particolari disponibili, soprattutto i dati necessari all'identificazione dell'esplosivo non conforme, la sua origine, la natura della presunta non conformita' e dei rischi connessi, la natura e la durata delle misure nazionali adottate, nonche' gli argomenti espressi dall'operatore economico interessato. In particolare, l'autorita' di sorveglianza del mercato indica se l'inadempienza sia dovuta: 
+ 
+                            
+                            
+                                a)
+                                
+                                    alla non conformita' dell'esplosivo alle prescrizioni relative alla salute o all'incolumita' delle persone o alla protezione dei beni materiali o dell'ambiente; oppure 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    alle carenze nelle norme armonizzate di cui all'articolo 18, che conferiscono la presunzione di conformita'.
 
 Il Ministero dell'interno, qualora un altro Stato membro abbia avviato la procedura a norma del presente articolo, informa senza indugio la Commissione e gli altri Stati membri di tutti i provvedimenti adottati, di tutte le altre informazioni a disposizione sulla non conformita' dell'esplosivo interessato e, in caso di disaccordo con la misura adottata, delle proprie obiezioni.
 
@@ -364,6 +899,66 @@ Qualora, all'esito delle consultazioni avviate dalla Commissione dell'Unione eur
 
 Non conformita' formale
 
+1.
+                        
+                            
+                                Fatte salve le disposizioni di cui all'articolo 33, se l'autorita' di sorveglianza del mercato giunge a una delle seguenti conclusioni, ordina all'operatore economico interessato di porre fine allo stato di non conformita' in questione: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la marcatura CE e' stata apposta in violazione dell'articolo 30 del regolamento (CE) n. 765/2008, dell'articolo 22 o dell'Allegato V del presente decreto; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la marcatura CE non e' stata apposta; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il numero di identificazione dell'organismo notificato, qualora tale organismo intervenga nella fase di controllo della produzione, e' stato apposto in violazione dell'articolo 22 o non e' stato apposto; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    non e' stata compilata la dichiarazione di conformita' UE; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    non e' stata compilata correttamente la dichiarazione di conformita' UE; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    la documentazione tecnica non e' disponibile o e' incompleta; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    le informazioni di cui all'articolo 4, commi 5 e 6, o all'articolo 6, comma 3, sono assenti, false o incomplete; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    qualsiasi altra prescrizione amministrativa di cui all'articolo 4 o all'articolo 6 non e' rispettata.
+
 Se la non conformita' di cui al comma 1 permane, l'autorita' di sorveglianza del mercato interessata limita o proibisce la messa a disposizione sul mercato dell'esplosivo o dispone che sia richiamato o ritirato dal mercato, a spese dell'operatore economico interessato.
 
 ## - Capo VII Disposizioni transitorie e finali
@@ -379,6 +974,38 @@ All'articolo 4, comma 3, lettera c), del decreto legislativo 25 gennaio 2010, n.
 Le licenze di polizia per la produzione, commercio, importazione ed esportazione degli esplosivi di cui al presente decreto, nonche' l'autorizzazione per lo svolgimento delle procedure di valutazione della conformita' degli esplosivi di cui all'articolo 23, comma 1, non possono essere concesse, o se concesse, non possono essere rinnovate, al soggetto privo dei requisiti di cui all'articolo 43 del testo unico delle leggi di pubblica sicurezza, approvato con regio decreto 18 giugno 1931, n. 773.
 
 Per le violazioni di cui al presente articolo, nei confronti dei titolari delle licenze di polizia di cui al comma 4, nonche' dei titolari delle licenze di polizia per il trasporto, deposito, detenzione, impiego e smaltimento degli esplosivi di cui al presente decreto, puo' essere disposta la sospensione dell'autorizzazione di polizia, ai sensi dell'articolo 10 del Testo unico delle leggi di pubblica sicurezza approvato con regio decreto 18 giugno 1931, n. 773. Nelle ipotesi piu' gravi o in caso di recidiva, puo' essere, altresi', disposto il provvedimento di revoca.
+
+6.
+                        
+                            
+                                Salvo che il fatto costituisca reato, i provvedimenti di cui al comma 5 si applicano anche nei confronti di chiunque detiene, per la sua immissione sul mercato, un esplosivo, ovvero, se previsto, la sua confezione minima di vendita, che non recano comunque : 
+ 
+                            
+                            
+                                a)
+                                
+                                    la marcatura «CE del tipo» ovvero gli estremi del riconoscimento ai sensi dell'articolo 53 del testo unico delle leggi di pubblica sicurezza, approvato con regio decreto 18 giugno 1931, n. 773; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    gli estremi del provvedimento di classificazione del Ministero dell'interno, ove previsto; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    le complete istruzioni per l'uso, le avvertenze e le indicazioni per il trasporto in sicurezza, nonche' la data di scadenza, se prevista, e l'anno di produzione, scritte in italiano, con caratteri chiari e facilmente leggibili; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    le precise ed univoche indicazioni su elementi essenziali per l'individuazione del fabbricante, dell'importatore, del distributore e per tracciare l'esplosivo.
 
 Salvo che il fatto costituisca piu' grave reato, La violazione dei divieti di cui al comma 6 dell'articolo 22 equivale alla mancata apposizione dei marchi o delle iscrizioni ed e' punita con l'arresto da venti giorni a tre mesi e con l'ammenda da 20.000 euro a 200.000 euro.
 

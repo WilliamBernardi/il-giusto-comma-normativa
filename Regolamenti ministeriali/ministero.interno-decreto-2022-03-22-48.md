@@ -7,8 +7,8 @@ urn: urn:nir:ministero.interno:decreto:2022-03-22;48
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:39Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -66,11 +66,54 @@ Le prove scritte consistono nella stesura di un elaborato, ovvero nella risposta
 
 Sono ammessi alla prova orale i candidati che abbiano riportato in ciascuna prova scritta una votazione non inferiore a 21/30 (ventuno/trentesimi).
 
+4.
+                    
+                        
+                            La prova orale verte: 
+ 
+                        
+                        
+                            a)
+                            
+                                per ciascun ambito professionale tecnico-scientifico: sulle specifiche materie delle prove scritte e della prova orale indicate nell'allegato 1; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                per tutti gli ambiti professionali tecnico-scientifici: sulla normativa inerente alla sicurezza nei luoghi di lavoro; sull'ordinamento del Ministero dell'interno, con particolare riferimento al Dipartimento; sull'ordinamento del personale del Corpo nazionale.
+
 Nell'ambito della prova orale e' accertata la conoscenza della lingua straniera, scelta dal candidato all'atto della presentazione della domanda, tra quelle indicate nel bando di concorso, e la conoscenza dell'uso delle apparecchiature e delle applicazioni informatiche piu' diffuse.
 
 La prova orale si intende superata se il candidato ottiene una votazione non inferiore a 21/30 (ventuno/trentesimi).
 
 ## Art. 5. — Titoli
+
+1.
+                    
+                        
+                            La commissione esaminatrice di ciascun ambito professionale tecnico-scientifico valuta, a parita' di punteggio, i seguenti titoli, tenendo conto, ai fini della formazione della graduatoria di merito di cui all'articolo 6, del seguente ordine di preferenza: 
+ 
+                        
+                        
+                            a)
+                            
+                                abilitazioni professionali correlate alle lauree magistrali di cui all'allegato 1; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                dottorato di ricerca afferente alle lauree magistrali di cui all'allegato 1; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                lauree magistrali diverse da quella considerata quale requisito di partecipazione al concorso.
 
 ## Art. 6. — Approvazione della graduatoria finale e dichiarazione dei vincitori dei concorsi
 

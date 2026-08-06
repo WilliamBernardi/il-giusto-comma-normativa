@@ -7,8 +7,8 @@ urn: urn:nir:stato:legge.costituzionale:2020-10-19;1
 vigente: true
 source: normattiva-opendata
 collection: Leggi costituzionali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:39:08Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 LEGGE COSTITUZIONALE
@@ -24,7 +24,51 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 ## Art. 1. — Numero dei deputati
 
+1.
+                    
+                        
+                            All'articolo 56 della Costituzione sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                al secondo comma, la parola: «seicentotrenta» e' sostituita dalla seguente: «quattrocento» e la parola: «dodici» e' sostituita dalla seguente: «otto»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al quarto comma, la parola: «seicentodiciotto» e' sostituita dalla seguente: «trecentonovantadue».
+
 ## Art. 2. — Numero dei senatori
+
+1.
+                    
+                        
+                            All'articolo 57 della Costituzione sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                al secondo comma, la parola: «trecentoquindici» e' sostituita dalla seguente: «duecento» e la parola: «sei» e' sostituita dalla seguente: «quattro»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al terzo comma, dopo la parola: «Regione» sono inserite le seguenti: «o Provincia autonoma» e la parola: «sette» e' sostituita dalla seguente: «tre»; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                il quarto comma e' sostituito dal seguente: 
+ «La ripartizione dei seggi tra le Regioni o le Province autonome, previa applicazione delle disposizioni del precedente comma, si effettua in proporzione alla loro popolazione, quale risulta dall'ultimo censimento generale, sulla base dei quozienti interi e dei piu' alti resti».
 
 ## Art. 3. — Senatori a vita
 

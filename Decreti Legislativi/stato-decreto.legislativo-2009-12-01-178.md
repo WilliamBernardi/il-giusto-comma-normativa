@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
 vigenza_date: 2026-02-20
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:32Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -34,9 +34,157 @@ Il presente decreto provvede al riordino della disciplina della Scuola superiore
 
 La Scuola, posta nell'ambito e sotto la vigilanza della Presidenza del Consiglio dei Ministri, e' un'istituzione di alta formazione e ricerca che ha lo scopo di sostenere e promuovere il processo di innovazione e riforma della pubblica amministrazione con l'obiettivo generale di fare della pubblica amministrazione un fattore di competitivita' del sistema economico e produttivo italiano.
 
+2.
+                        
+                            
+                                La missione della Scuola e' quella di svolgere attivita' di formazione post-laurea di eccellenza per i dipendenti pubblici, con il supporto di attivita' di analisi e di ricerca, al fine di: 
+ 
+                            
+                            
+                                a)
+                                
+                                    promuovere e diffondere la cultura dell'efficacia e dell'efficienza nella pubblica amministrazione anche mediante la diffusione delle metodologie del controllo di gestione e della contabilita' economica; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    promuovere e diffondere l'innovazione tecnologica e di processo nei servizi erogati dalla pubblica amministrazione centrale; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    promuovere e diffondere le metodologie ed i processi di valutazione dei risultati nella pubblica amministrazione; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    promuovere e sostenere l'internazionalizzazione della pubblica amministrazione nella sua capacita' di interagire con le amministrazioni di altri Paesi, con le organizzazioni internazionali e sovranazionali e di governare, nei rispettivi ambiti, la partecipazione ai processi di globalizzazione; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    promuovere, coordinare e sostenere l'adozione di criteri di eccellenza in tutto il sistema della formazione diretto alla pubblica amministrazione, anche mediante un raccordo organico con le altre strutture pubbliche e private di alta formazione, italiane e straniere, secondo criteri di ricerca della qualita', dell'efficacia e dell'economicita' del sistema complessivo; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    promuovere e sostenere l'adozione di metodologie avanzate di insegnamento a distanza in base a criteri di efficienza, efficacia ed economicita'; 
+
+                                
+                            
+                            
+                                f-bis)
+                                
+                                    promuovere e sostenere, durante l'intero percorso di carriera, la qualificazione, ((la riqualificazione, la crescita e l'aggiornamento professionale)) del personale che opera negli uffici di cui all'articolo 14, comma 2, del decreto legislativo 30 marzo 2001, n. 165.
+
 La Scuola e' dotata di autonomia organizzativa e contabile nei limiti delle proprie risorse economico-finanziarie. La Scuola e' iscritta nell'apposito schedario dell'anagrafe delle ricerche, istituito ai sensi del terzo comma dell'articolo 63 del decreto del Presidente della Repubblica 11 luglio 1980, n. 382.
 
 ## Art. 3. — Compiti
+
+1.
+                        
+                            
+                                Per adempiere alla missione di cui all'articolo 2 la Scuola articola le proprie attivita' nell'ambito delle seguenti competenze principali: 
+ 
+                            
+                            
+                                a)
+                                
+                                    attivita' di formazione, selezione e reclutamento dei dirigenti e funzionari dello Stato in base alla legislazione vigente; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    organizzazione della formazione dei dirigenti delle amministrazioni pubbliche all'estero ai sensi dell'articolo 6, comma 2, lettera g), della legge 4 marzo 2009, n. 15; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    attivita' di formazione e aggiornamento legata ai processi di riforma ed innovazione diretta ai dipendenti delle amministrazioni centrali; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    attivita' di formazione ed aggiornamento, in base a convenzioni e con tutti gli oneri a carico dei committenti, di dipendenti di amministrazioni pubbliche diverse da quelle statali, di soggetti gestori di servizi pubblici e di istituzioni ed imprese private, al fine di migliorare l'interazione e l'efficienza dei rapporti di collaborazione e scambio tra la pubblica amministrazione statale e le altre amministrazioni pubbliche, nonche' con il settore privato; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    attivita' di formazione, su richiesta, diretta a funzionari di altri paesi in un quadro di cooperazione internazionale; 
+
+                                
+                            
+                            
+                                e-bis)
+                                
+                                    attivita' di ricerca e di studio per l'individuazione di specifiche tipologie di formazione per il personale delle pubbliche amministrazioni preposto allo sviluppo e all'attuazione delle azioni contenute nel Piano Nazionale di Ripresa e Resilienza; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    attivita' di ricerca, analisi e documentazione finalizzata al perseguimento dell'eccellenza nell'attivita' di formazione legata ai processi di riforma ed innovazione della pubblica amministrazione che coinvolga la dirigenza e su altri temi funzionali, in relazione ai suoi effetti sull'economia e la societa', anche in collaborazione con universita' e istituti di ricerca pubblici e privati, italiani e stranieri, amministrazioni pubbliche e istituzioni e societa' private; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    attivita' di ricerca, analisi e consulenza sulla metodologia e sui criteri di valutazione della formazione offerta alla pubblica amministrazione da istituzioni pubbliche e private; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    attivita' di pubblicazione e diffusione di materiali didattici e di ricerca attraverso strumenti editoriali sia interni che esterni, con preferenza dell'uso dell'e-editing; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    attivita' di valutazione, validazione e monitoraggio, su richiesta delle amministrazioni statali e sulla base di apposite indicazioni del Presidente del Consiglio dei Ministri o del Ministro per la pubblica amministrazione a tale fine delegato, della qualita' delle offerte formative presentate da soggetti terzi e la loro rispondenza ai requisiti richiesti e attivita' di monitoraggio; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    cura dei rapporti con gli organismi e le strutture di formazione similari di altri Paesi e la definizione con essi di accordi, di convenzioni e di ogni altra forma di collaborazione e di scambio di esperienze nell'ambito di tutte le attivita' di competenza della Scuola; 
+
+                                
+                            
+                            
+                                m)
+                                
+                                    sostegno, anche finanziario, ad iniziative di collaborazione e di scambio di funzionari, anche ai sensi dell'articolo 32 del decreto legislativo 30 marzo 2001, n. 165; 
+
+                                
+                            
+                            
+                                n)
+                                
+                                    ogni altra competenza attribuita dal Presidente del Consiglio dei Ministri o dal Ministro per la pubblica amministrazione in funzione del perseguimento delle finalita' di cui all'articolo
 
 2. La Scuola puo' promuovere o partecipare ad associazioni e consorzi, nonche' stipulare accordi di programma, convenzioni e contratti con soggetti pubblici e privati.
 
@@ -49,6 +197,31 @@ Al fine di sviluppare ulteriori percorsi di formazione che favoriscano l'integra
 3-ter. La Scuola, previo accreditamento ai sensi del regolamento di cui al decreto del Ministro dell'universita' e della ricerca 14 dicembre 2021, n. 226, anche in deroga al requisito di cui all'articolo 4, comma 1, lettera a), del predetto regolamento relativamente al numero minimo di docenti per la formazione del collegio del dottorato, comunque non inferiore a sei, individuati anche tra professori universitari sulla base di una convenzione con l'ateneo di appartenenza secondo le modalita' di cui all'articolo 6, comma 11, della legge 30 dicembre 2010, n. 240, in quanto compatibili, puo' altresi' emanare bandi per corsi di dottorato in Scienze della pubblica amministrazione, in favore di un massimo di otto candidati, fino al raggiungimento, a regime, di un numero di frequentatori non superiore a trentadue unita', nei limiti delle risorse umane, strumentali e finanziarie disponibili a legislazione vigente))
 
 ## Art. 4. — Organi
+
+1.
+                        
+                            
+                                Sono organi della Scuola: 
+ 
+                            
+                            
+                                a)
+                                
+                                    LETTERA ABROGATA DAL D.P.R. 16 APRILE 2013, N. 70; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il Comitato di gestione; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il Presidente.
 
 ## Art. 5. — ((ARTICOLO ABROGATO DAL D.P.R. 16 APRILE 2013, N. 70))
 
@@ -81,6 +254,66 @@ Il Presidente nomina un Vicepresidente che lo sostituisce in caso di assenza o i
 ## Art. 8. — (Segretario Generale)
 
 
+
+2.
+                        
+                            
+                                Il Segretario Generale coadiuva il Presidente e attua le delibere del Comitato di Gestione, e' responsabile del funzionamento della struttura interna e ne dirige le attivita', assicurandone il coordinamento, sovrintende allo svolgimento delle attivita' di supporto alla funzione didattica e scientifica. Nello svolgimento delle sue funzioni il Segretario Generale: 
+ 
+                            
+                            
+                                a)
+                                
+                                    concorre alla definizione del programma triennale e annuale della Scuola; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    predispone progetti di sviluppo della Scuola attraverso accordi per la formazione manageriale, con Enti e imprese italiani e stranieri; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    sovraintende alla gestione amministrativa, contabile e finanziaria e propone il regolamento contabile e finanziario al Comitato di gestione, che lo approva; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    e' titolare del centro di responsabilita' amministrativa; predispone il bilancio di previsione e le eventuali variazioni nonche' il rendiconto consuntivo annuale e li propone al Comitato di gestione, che li approva, ed esercita le altre attribuzioni previste dal presente decreto legislativo e dalle delibere di cui all'articolo 15 e in particolare attua i provvedimenti disposti dal regolamento di cui all'articolo 15, comma 1, comma 5; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    effettua la ricognizione dei fabbisogni e la relativa programmazione in attuazione dell'articolo 6, comma 1, del decreto legislativo 30 marzo 2001, n. 165; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    individua le risorse finanziarie da assegnare agli uffici secondo quanto previsto dal documento di programmazione; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    approva l'indizione delle procedure concorsuali in materia di servizi, lavori e forniture che superino le soglie di cui all'articolo 35 del codice dei contratti pubblici, di cui al decreto legislativo 18 aprile 2016, n. 50; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    nomina i dirigenti della Scuola.
 
 ## Art. 9. — Responsabili di settore
 
@@ -181,6 +414,66 @@ Con decreto del Presidente del Consiglio dei Ministri, o del Ministro per la pub
  E' stato ripristinato il testo gia' in vigore dal 9-7-2013 a seguito della soppressione della lettera m) dell'art. 5, comma 1 del D.L. 9 giugno 2021, n. 80, che disponeva la modifica del comma 2 del presente articolo, ad opera della L. 6 agosto 2021, n. 113, di conversione del D.L. medesimo.
 
 ## Art. 16. — Entrate, programmazione e dotazione finanziaria della Scuola
+
+1.
+                        
+                            
+                                Le entrate della Scuola, iscritte in un'unica sezione del bilancio di previsione, sono costituite: 
+ 
+                            
+                            
+                                a)
+                                
+                                    dal contributo finanziario ordinario dello Stato; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    dalle assegnazioni e dai contributi da parte di pubbliche amministrazioni centrali e locali per l'esecuzione di specifiche iniziative; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    dai contributi dell'Unione europea o di altri organismi internazionali per la partecipazione a programmi e progetti; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    dai contratti stipulati con terzi pubblici e privati per la fornitura di servizi; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    dai ricavi ottenuti attraverso la cessione di prodotti dell'ingegno; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    da attivita' di assistenza tecnica e di formazione commissionate da Istituzioni pubbliche e private, nazionali ed estere, nonche' da organismi internazionali; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    da ogni altra eventuale entrata connessa alla sua attivita' o prevista dall'ordinamento; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    dalle entrate per partite di giro.
 
 La dotazione finanziaria minima della Scuola e' fissata annualmente, in sede di bilancio dello Stato, in misura adeguata ad attuare i compiti istituzionali. Entro il mese di aprile di ogni anno il Presidente, anche al fine di consentire la determinazione di detta dotazione minima finanziaria, sottopone per l'approvazione al Comitato di gestione un programma di massima delle attivita' della Scuola per il successivo anno di esercizio. Dopo l'approvazione, il programma e' trasmesso al Ministro per la pubblica amministrazione ((...)).
 

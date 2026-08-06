@@ -8,8 +8,8 @@ codice_redazionale: 095G0071
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti governativi
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:15Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -30,6 +30,46 @@ L'esposizione delle insegne e delle iscrizioni all'interno degli ascensori deve 
 Le insegne e le iscrizioni non possono limitare o ostacolare la manutenzione, la visibilita' e l'uso dei comandi e dei dispositivi tecnologici, ne' possono comportare la riduzione delle prescritte dimensioni minime interne della cabina. Nel caso gli ascensori abbiano la dimensione minima prescritta, l'esposizione puo' avvenire su una sola parete dell'ascensore e ad una altezza superiore ad un metro.
 
 Per la realizzazione delle insegne o iscrizioni devono essere utilizzati materiali ignifughi e resistenti agli urti, aventi contorni che non devono presentare spigoli vivi. Lo spessore complessivo della bacheca e della pubblicita' non deve superare i due centimetri.
+
+4.
+                    
+                        
+                            L'installazione delle bacheche deve avvenire senza manomettere stabilmente i pannelli costituenti le pareti dell'ascensore.
+ AVVERTENZA:
+ Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, comma 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con D.P.R. 28 dicembre 1985, n. 1092, al solo fine di facilitare le lettura delle disposizioni di legge alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
+ Note alle premesse:
+ - L'art. 87, comma quinto, della Costituzione conferisce al Presidente della Repubblica il potere di promulgare le leggi e di emanare i decreti aventi valore di legge ed i regolamenti.
+ - Il testo dell'art. 4 della legge n. 235/1993 e' il seguente:
+ "Art. 4 (Regolamento di attuazione). - 1. Entro sessanta giorni dalla data di entrata in vigore della presente legge, con decreto del Presidente della Repubblica, previa deliberazione del Consiglio dei Ministri, su proposta del Ministro dei lavori pubblici, di concerto con il Ministro del tesoro, sentito il parere del Consiglio di Stato, e' emanato il regolamento di attuazione della presente legge ai sensi dell'art. 17, comma 1, della legge 23 agosto 1988, n. 400".
+ - Il comma 1 dell'art. 17 della legge n. 400/1988 (Disciplina dell'attivita' di Governo e ordinamento della Presidenza del Consiglio dei Ministri), come modificato dall'art. 74 del D.Lgs. 3 febbraio 1993, n. 29, prevede che con decreto del Presidente della Repubblica, previa deliberazione del Consiglio dei Ministri, sentito il parere del Consiglio di Stato che deve pronunziarsi entro novanta giorni dalla richiesta, possono essere emanati regolamenti per:
+ 
+                        
+                        
+                            a)
+                            
+                                l'esecuzione delle leggi e dei decreti legislativi;
+
+                            
+                        
+                        
+                            b)
+                            
+                                l'attuazione e l'integrazione delle leggi e dei decreti legislativi recanti norme di principio, esclusi quelli relativi a materie riservate alla competenza regionale;
+
+                            
+                        
+                        
+                            c)
+                            
+                                le materie in cui manchi la disciplina da parte di leggi o di atti aventi forza di legge, sempre che non si tratti di materie comunque riservate alla legge;
+
+                            
+                        
+                        
+                            d)
+                            
+                                l'organizzazione ed il funzionamento delle amministrazioni pubbliche secondo le disposizioni dettate dalla legge.
+ - Il comma 4 dello stesso articolo stabilisce che gli anzidetti regolamenti debbano recare la denominazione di "regolamento", siano adottati previo parere del Consiglio di Stato, sottoposti al visto ed alla registrazione della Corte dei conti e pubblicati nella Gazzetta Ufficiale.
 
 ## Art. 2. — Procedure
 

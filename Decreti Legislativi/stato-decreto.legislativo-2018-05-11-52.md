@@ -8,8 +8,8 @@ vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
 vigenza_date: 2026-05-29
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:33Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -28,6 +28,38 @@ Sulla proposta del Presidente del Consiglio dei ministri e ad interim Ministro d
 ## Art. 1. — Oggetto
 
 Il presente decreto individua i principi fondamentali della disciplina relativa alle condizioni zootecniche e genealogiche applicabili alla riproduzione animale per il raggiungimento degli obiettivi stabiliti dalla politica agricola comune, in modo da perseguire, omogeneamente sul territorio nazionale, la corretta gestione del patrimonio genetico delle razze di interesse zootecnico nei settori della riproduzione, selezione, ricostituzione, creazione di nuove razze e conservazione della biodiversita' zootecnica, ferme restando le competenze attribuite dall'ordinamento vigente alle regioni e province autonome di Trento e di Bolzano e nel rispetto del principio di separazione tra le attivita' di miglioramento genetico, di competenza nazionale, e quelle di consulenza, di competenza regionale.
+
+2.
+                        
+                            
+                                Il presente decreto, ai fini di cui al comma 1 e nel rispetto del regolamento (UE) n. 2016/1012 del Parlamento europeo e del Consiglio dell'8 giugno 2016, disciplina: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il riconoscimento degli Enti selezionatori per le specie bovina, bufalina, suina, ovina, caprina, equina ed asinina; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'approvazione dei programmi genetici e dei loro obiettivi; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    la raccolta dei dati in allevamento del bestiame delle specie di cui alla lettera a); 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    lo svolgimento dei programmi genetici per le specie di cui alla lettera a).
 
 ## Art. 2. — Definizioni
 
@@ -54,6 +86,59 @@ Il Ministero controlla l'attuazione dei programmi genetici approvati, al fine di
 
 Le attivita' inerenti la raccolta dei dati in allevamento, finalizzate alla realizzazione del programma genetico, sono svolte dagli Enti selezionatori o, su delega degli stessi, possono essere svolte da soggetti terzi al fine di favorire la specializzazione delle attivita' e la terzieta' rispetto ai dati e alla loro validazione.
 
+2.
+                        
+                            
+                                I soggetti terzi di cui al comma 1 devono possedere i seguenti requisiti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    certificazione ICAR - Comitato internazionale per la registrazione degli animali, con esclusione delle specie equine e suine; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    sede in Italia con articolazione territoriale che garantisca la raccolta dei dati in allevamento sull'intero territorio nazionale; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    dotazione delle necessarie strutture e attrezzature nonche' di personale di adeguata qualificazione; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    dotazione di un sistema informativo in grado di organizzare e gestire i dati rilevati negli allevamenti con l'obbligo di alimentare la Banca dati unica zootecnica, di cui al comma 4; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    personalita' giuridica senza fini di lucro; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    non essere un Ente selezionatore riconosciuto; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    riconoscimento, da parte del Ministero, quale Autorita' nazionale competente, ai sensi dell'articolo 27, paragrafo 3, del regolamento (UE) n. 2016/1012.
+
 La raccolta dei dati in allevamento finalizzata ad alimentare la Banca dati unica zootecnica, al fine di arricchire le informazioni da mettere a disposizione per l'erogazione della consulenza aziendale, puo' essere svolta senza maggiori oneri per la finanza pubblica anche su iniziativa di soggetti diversi da quelli indicati al comma 2, a condizione che gli stessi abbiano sede in Italia, siano in possesso dei requisiti di cui alle lettere a), c), d), e) ed f) del comma 2 e siano validati con parere favorevole dal Comitato di cui al comma 4.
 
 Il Ministero, entro tre mesi dalla data di entrata in vigore del presente decreto, istituisce con proprio decreto, senza nuovi o maggiori oneri e con le risorse umane, finanziarie e strumentali a disposizione a legislazione vigente, il Comitato nazionale zootecnico, di seguito Comitato, che puo' essere articolato per attitudine produttiva, composto da rappresentanti dello stesso Ministero, da un rappresentante del Ministero della salute e da rappresentanti delle regioni e province autonome di Trento e di Bolzano, con compiti di regolazione, standardizzazione e indirizzo dell'attivita' di raccolta dati negli allevamenti. Per la partecipazione al Comitato non spettano ai componenti compensi, gettoni di presenza, indennita', rimborsi spese ne' emolumenti comunque denominati.
@@ -68,6 +153,38 @@ Entro 6 mesi dalla data di entrata in vigore del presente decreto, nel rispetto 
 
 ## Art. 6. — Requisiti e condizioni per il finanziamento 
  dei programmi genetici
+
+1.
+                        
+                            
+                                Gli Enti selezionatori, per poter accedere a contributi pubblici previsti dalla normativa vigente, finalizzati allo svolgimento di programmi genetici, devono essere in possesso dei seguenti requisiti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    essere Associazioni di primo grado senza fine di lucro; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    essere aggregati nei comparti di cui all'articolo 3, comma 2, ad eccezione del comparto dei bovini a duplice attitudine, per il quale possono coesistere diversi ed autonomi Enti selezionatori, purche' questi presentino un concordato programma genetico articolato per singola razza; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    non avere rappresentanti legali e membri nei Consigli direttivi che siano contemporaneamente amministratori delle organizzazioni cui venga delegata l'attivita' di raccolta dati in allevamento di cui alla lettera d); 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    nel caso in cui il programma genetico approvato preveda la raccolta dei dati in allevamento, attuare la specializzazione delle attivita' e la terzieta' sui dati delegando la raccolta dei dati in allevamento a soggetti in possesso dei requisiti di cui all'articolo 4.
 
 Ai fini del comma 1 gli statuti degli Enti selezionatori sono sottoposti al parere preventivo del Ministero.
 
@@ -94,6 +211,24 @@ Sono vietati l'esercizio della fecondazione in forma girovaga per le specie suin
 
 ## Art. 8. — Pratica della inseminazione artificiale
 
+1.
+                        
+                            
+                                Gli interventi per la pratica della inseminazione artificiale degli animali devono essere eseguiti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    da veterinari iscritti all'albo professionale; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    da operatori pratici di inseminazione artificiale animale, che abbiano ottenuto l'idoneita' ai sensi dell'articolo 2 della legge 11 marzo 1974, n. 74.
+
 ## Art. 9. — Ammissione alla riproduzione 
  di soggetti originari di altri Paesi
 
@@ -117,6 +252,38 @@ Entro 18 mesi dalla data di entrata in vigore del presente decreto, con decreto 
 
 ## Art. 12. — Applicazione delle sanzioni
 
+1.
+                        
+                            
+                                Salvo che il fatto costituisca reato, a chiunque adibisce alla riproduzione animale o utilizza per trapianti, embrioni o altro materiale riproduttivo in modo difforme da quanto previsto nell'articolo 7, si applicano, le seguenti sanzioni amministrative: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il pagamento della somma di 1.032,91 euro per ciascun capo adibito o della somma di 51,65 euro per ogni dose di materiale riproduttivo utilizzata nell'ambito della specie bovina o bufalina; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il pagamento della somma di 206,58 euro per ciascun capo adibito o della somma di 20,66 euro per ogni dose di materiale riproduttivo utilizzata nell'ambito della specie suina; nei casi di utilizzazione del verro in forma girovaga o in monta pubblica di cui all'articolo 7, comma 6, la sanzione suddetta e' aumentata di un terzo per ciascun capo; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il pagamento della somma di 103,29 euro per ciascun capo adibito o della somma di 10,33 euro per ogni dose di materiale riproduttivo utilizzata nell'ambito della specie ovina e caprina; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    il pagamento della somma di 2.065,83 euro per ciascun capo adibito o della somma di 103,29 euro, per ogni dose di materiale riproduttivo utilizzata nell'ambito della specie equina; in caso di utilizzazione dello stallone in forma girovaga, di cui all'articolo 7, comma 6, la sanzione anzidetta e' aumentata di un terzo per ciascun capo.
+
 Nelle ipotesi di cui al comma 1, il materiale riproduttivo utilizzato e' confiscato e ne viene ordinata la distruzione a spese del contravventore; il capo o i capi utilizzati sono sequestrati cautelarmente.
 
 Le sanzioni amministrative di cui ai commi 1 e 2, aumentate di un terzo, si applicano, salvo che il fatto costituisca reato, anche a chiunque impiega, per la riproduzione, animali privi dei requisiti sanitari stabiliti dalla normativa vigente nonche' a chiunque produce, distribuisce e utilizza materiale seminale o embrioni privi dei requisiti sanitari stabiliti dalla normativa vigente.
@@ -124,6 +291,42 @@ Le sanzioni amministrative di cui ai commi 1 e 2, aumentate di un terzo, si appl
 Salvo che il fatto costituisca reato, il responsabile di ciascuno degli Enti selezionatori, di cui all'articolo 3, comma 2, a cio' preposto che gestisce un programma genetico, di cui all'articolo 3, comma 3, in difformita' dalle prescrizioni in esso contenute e' punito con la sanzione amministrativa del pagamento di una somma da 2.582,28 euro a 15.493,71 euro.
 
 Le sanzioni di cui ai commi 1 e 2 si applicano alle violazioni delle disposizioni vigenti in materia di requisiti del bestiame e del materiale seminale e controlli ammessi all'importazione e all'esportazione.
+
+6.
+                        
+                            
+                                Salvo che il fatto costituisca reato, per le violazioni ((previste dalle disposizioni vigenti)) si applicano: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la sanzione amministrativa del pagamento di una somma da 774,86 euro a 4.648,11 euro, nell'ipotesi di violazione delle disposizioni in materia di autorizzazioni, di obblighi connessi alla gestione di stazioni di monta, di requisiti e obblighi delle stazioni di inseminazione artificiale di equidi, di requisiti e obblighi di centri di produzione dello sperma e di stoccaggio di materiale germinale, di recapiti, di gruppi di raccolta di embrioni e di centri di produzione di embrioni, di flusso di informazioni relative ai dati degli interventi fecondativi o di impianto embrionale nonche' di autocontrollo di qualita' del materiale germinale e di qualita' del seme bovino e bufalino; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la sanzione amministrativa del pagamento di una somma da 258,23 euro a 1.549,37 euro nell'ipotesi di violazione delle disposizioni in materia di pratica di inseminazione artificiale nonche' del relativo flusso di informazioni da parte di medici veterinari ed operatori pratici.
+
+7.
+                        
+                            
+                                Agli illeciti amministrativi previsti dal presente decreto si applicano le disposizioni del capo I della legge 24 novembre 1981, n. 689, e successive modificazioni, con le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    e' escluso il pagamento in misura ridotta, salvo che per le infrazioni di cui al comma 4; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il Presidente della Giunta regionale competente ad applicare le sanzioni ne da' comunicazione al Ministero.
 
 Alle violazioni commesse prima della data di entrata in vigore del presente decreto, continuano ad applicarsi le norme della legge 15 gennaio 1991, n. 30, come modificata dalla legge 3 agosto 1999, n. 280, in vigore il giorno precedente alla data di entrata in vigore del presente decreto.
 

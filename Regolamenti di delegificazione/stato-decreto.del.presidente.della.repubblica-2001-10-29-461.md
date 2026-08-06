@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Regolamenti di delegificazione
 vigenza_date: 2012-04-28
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:40:24Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -33,6 +33,45 @@ Acquisito il parere delle competenti commissioni parlamentari;
 Sulla proposta del Presidente del Consiglio dei Ministri e del Ministro per la funzione pubblica, di concerto con il Ministro dell'economia e delle finanze ed il Ministro della difesa;
 
 ## Art. 1. — Definizioni
+
+1.
+                    
+                        
+                            Ai fini del presente regolamento si intende:
+ 
+                        
+                        
+                            a)
+                            
+                                per "impiegato" o "dipendente" l'appartenente ad amministrazioni pubbliche, anche di qualifica dirigenziale, di cui all'articolo 1, comma 2, del decreto legislativo 30 marzo 2001, n. 165, nonche' l'appartenente alle Forze di polizia, anche ad ordinamento militare, o alle Forze armate od alle altre categorie indicate dall'articolo 1 del decreto del Presidente della Repubblica 29 dicembre 1973, n. 1092;
+
+                            
+                        
+                        
+                            b)
+                            
+                                per "militare" l'appartenente a forze armate o a corpi ad ordinamento militare;
+
+                            
+                        
+                        
+                            c)
+                            
+                                per "Amministrazione" la pubblica amministrazione o il Corpo militare, equiparato o di Polizia, di appartenenza del dipendente;
+
+                            
+                        
+                        
+                            d)
+                            
+                                per "Commissione" la Commissione medico-ospedaliera di cui all'articolo 165, comma primo, del decreto del Presidente della Repubblica 29 dicembre 1973, n. 1092;
+
+                            
+                        
+                        
+                            e)
+                            
+                                per "Comitato" il Comitato di verifica per le cause di servizio di cui all'articolo 10.
 
 ## Art. 2. — Iniziativa a domanda
 
@@ -226,4 +265,64 @@ L'articolo 5, commi primo e secondo, della legge 11 marzo 1926, n. 416, come mod
 Le regioni e le province autonome provvedono alle finalita' e alla regolamentazione dei procedimenti di riconoscimento della causa di servizio e di concessione dell'equo indennizzo nell'ambito della propria autonomia legislativa e organizzativa.
 
 ## Art. 20. — Abrogazioni
+
+1.
+                    
+                        
+                            Sono abrogati:
+ 
+                        
+                        
+                            a)
+                            
+                                la legge 11 marzo 1926, n. 416, salvo gli articoli 11, 11-bis, 12, 13 e 14, nonche' l'articolo 5 per la parte non richiamata dall'articolo 19 del presente regolamento;
+
+                            
+                        
+                        
+                            b)
+                            
+                                il regolamento approvato con regio decreto 15 aprile 1928, n. 1024, salvo gli articoli 19, 20 e 21;
+
+                            
+                        
+                        
+                            c)
+                            
+                                gli articoli 129, commi quarto e quinto, e 130 del decreto del Presidente della Repubblica 10 gennaio 1957, n. 3;
+
+                            
+                        
+                        
+                            d)
+                            
+                                gli articoli 39, 40 e 56 del decreto del Presidente della Repubblica 3 maggio 1957, n. 686;
+
+                            
+                        
+                        
+                            e)
+                            
+                                l'articolo 165, commi secondo, terzo e quarto, l'articolo 172, commi primo, secondo, terzo e quarto, nonche' gli articoli 166, 170, 171, 174, 175, 176, 177, 178, 179 e 187 del decreto del Presidente della Repubblica 29 dicembre 1973, n. 1092;
+
+                            
+                        
+                        
+                            f)
+                            
+                                l'articolo 5-bis del decreto-legge 21 settembre 1987, n. 387, convertito, con modificazioni, dalla legge 20 novembre 1987, n. 472;
+
+                            
+                        
+                        
+                            g)
+                            
+                                il decreto del Presidente della Repubblica 20 aprile 1994, n. 349;
+
+                            
+                        
+                        
+                            h)
+                            
+                                l'articolo 1, comma 121, della legge 23 dicembre 1996, n. 662.
 

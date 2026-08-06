@@ -8,8 +8,8 @@ codice_redazionale: 095G0054
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:38Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -26,6 +26,32 @@ Udito il parere del Consiglio di Stato, reso nell'adunanza generale del 4 luglio
 E' istituito il servizio di controllo interno, posto alle dirette dipendenze del Ministro, in posizione di autonomia.
 
 ## Art. 2.
+
+1.
+                    
+                        
+                            Il servizio di controllo ha il compito di verificare, mediante valutazioni comparative dei costi e dei rendimenti, la realizzazione degli obiettivi, la corretta ed economica gestione delle risorse attribuite ed introitate, nonche' l'imparzialita' ed il buon andamento dell'azione amministrativa. In particolare:
+ 
+                        
+                        
+                            a)
+                            
+                                accerta la rispondenza di risultati dell'attivita' amministrativa alle prescrizioni ed agli obiettivi stabiliti in disposizioni normative e nelle direttive emanate dal MInistro e ne verifica l'efficienza, l'efficacia e l'economicita', nonche' la trasparenza, l'imparzialita' ed il buon andamento anche per quanto concerne la rispondenza
+dell'erogazione dei trattamenti economici accessori alla normativa di settore ed alle direttive del Ministro;
+
+                            
+                        
+                        
+                            b)
+                            
+                                svolge il controllo di gestione sull'attivita' amministrativa dei dipartimenti, dei servizi e delle altre unita' organizzative e riferisce al Ministro sull'andamento della gestione evidenziando le cause dell'eventuale mancato raggiungimento dei risultati con la proposizione dei possibili rimedi e la segnalazione delle irregolarita' eventualmente riscontrate;
+
+                            
+                        
+                        
+                            c)
+                            
+                                stabilisce annualmente, anche su indicazione del Ministro e d'intesa, ove possibile, con i responsabili dei dipartimenti, dei servizi e delle altre unita' organizzative i parametri e gli indici di riferimento del controllo sull'attivita' amministrativa.
 
 Il servizio di controllo ha accesso ai documenti amministrativi e puo' richiedere ai dipartimenti, ai servizi ed alle altre unita' organizzative, oralmente o per iscritto, qualsiasi atto o notizia e puo' effettuare e disporre ispezioni ed accertamenti diretti.
 

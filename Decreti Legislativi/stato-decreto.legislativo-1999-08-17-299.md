@@ -8,8 +8,8 @@ codice_redazionale: 099G0376
 vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:30Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -24,6 +24,101 @@ Acquisito il parere delle competenti commissioni della Camera dei deputati e del
 Sulla proposta del Ministro del tesoro, del bilancio e della programmazione economica di concerto con i Ministri delle finanze e del lavoro e della previdenza sociale;
 
 ## Art. 1. — Definizioni
+
+1.
+                    
+                        
+                            Nel presente decreto si intendono per: 
+ 
+                        
+                        
+                            a)
+                            
+                                "TFR": il trattamento di fine rapporto di cui all'articolo 2120 del codice civile; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                "Fondo pensione": le forme pensionistiche integrative di cui al decreto legislativo 21 aprile 1993, n. 124, e successive modifiche ed integrazioni, e alla legge 8 agosto 1995, n. 335, e successive modifiche ed integrazioni; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                "Gestori": i soggetti indicati nelle lettere a) , b) e c) dell'articolo 6, comma 1, e dell'articolo 9 del decreto legislativo n. 124 del 1993; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                "Fonti istitutive": le fonti istitutive di forme pensionistiche complementari di cui agli articoli 3, commi 1 e 2, e 9 del decreto legislativo 21 aprile 1993, n. 124; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                "Testo unico della finanza": il decreto legislativo 24 febbraio 1998, n. 58, e successive modifiche ed integrazioni; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                "Consob": la Commissione nazionale per le societa' e la borsa; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                "Societa' del gruppo": le societa' controllate o controllanti dell'impresa debitrice del TFR o controllate dallo stesso soggetto che controlla l'impresa debitrice del TFR; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                "Fondo comune di investimento": il fondo comune di investimento individuato dall'articolo 37 del testo unico della Finanza; 
+
+                            
+                        
+                        
+                            i)
+                            
+                                "Qualificati operatori finanziari": le societa' di gestione del risparmio, le Sicav, le compagnie di assicurazione, le banche, i soggetti domiciliati in un Paese dell'Unione europea operanti come societa' di gestione come compagnie di assicurazione, come banche o come Sicav, i Fondi comuni di investimento; 
+
+                            
+                        
+                        
+                            l)
+                            
+                                "Emittenti quotati": i soggetti, italiani o esteri, che emettono titoli di partecipazione al capitale di rischio e di debito e diritti connessi, quotati nei mercati regolamentati italiani od esteri di cui all'articolo 67, commi 1 e 2, del testo unico della Finanza; 
+
+                            
+                        
+                        
+                            m)
+                            
+                                "Strumenti finanziari": gli strumenti finanziari di cui all'articolo 1, comma 2, del testo unico della Finanza; 
+
+                            
+                        
+                        
+                            n)
+                            
+                                "Attribuzione del TFR": le operazioni contemplate nell'articolo 2, comma 1, del presente decreto, di versamento di quote del TFR a Fondi pensione ovvero di trasformazione di quote del TFR in strumenti finanziari attribuiti a Fondi pensione; 
+
+                            
+                        
+                        
+                            o)
+                            
+                                "decreto n. 124 del 1993": il decreto legislativo 21 aprile 1993, n. 124.
 
 ## Art. 2. — Attribuzione del TFR a Fondi pensione
 
@@ -53,6 +148,34 @@ Le societa' od enti residenti che intendono presentare domanda di ammissione all
 
 Ai fini dell'esercizio delle facolta' previste al comma 1, i soggetti emittenti devono avere sottoposto il bilancio relativo all'ultimo esercizio precedente a quello in cui le operazioni previste nel presente articolo sono deliberate, a revisione, anche volontaria, da parte di societa' di revisione iscritta all'apposito albo tenuto presso la Consob.
 
+3.
+                    
+                        
+                            Il regolamento del prestito deve prevedere:
+ 
+                        
+                        
+                            a)
+                            
+                                l'impegno dell'emittente a richiedere l'ammissione alla quotazione di cui al comma 1 entro il termine di due anni dal momento di sottoscrizione delle obbligazioni convertibili da parte di Fondi pensione;
+
+                            
+                        
+                        
+                            b)
+                            
+                                la facolta' di convertire le obbligazioni contestualmente all'ammissione a quotazione dell'emittente;
+
+                            
+                        
+                        
+                            c)
+                            
+                                nel caso di mancata quotazione entro il termine previsto dalla lettera a), prorogabile una sola volta, con l'assenso dei gestori di cui all'articolo 3, comma 2, per un periodo non superiore a diciotto mesi:
+ 1) la trasformazione delle obbligazioni da convertibili in ordinarie;
+ 2) il rimborso ai Fondi pensione delle medesime obbligazioni entro l'anno successivo alla trasformazione in ordinarie, con una maggiorazione preconcordata tra le parti e comunque non inferiore al 10 per cento del relativo valore nominale, quale liquidazione del danno;
+ 3) nel caso di proroga del prestito concordata con i gestori, l'elevazione del tasso di interesse applicabile alle obbligazioni ordinarie in misura non inferiore a 3 punti percentuali oltre il tasso ufficiale di sconto.
+
 Le obbligazioni convertibili di cui al comma 1 e quelle ordinarie eventualmente emesse ai sensi del comma 3, sono assistite, fino alla data di conversione o rimborso, dalle medesime garanzie previste per gli eventi di cui all'articolo 2 della legge 29 maggio 1982, n. 297, con le modalita' previste dall'articolo 6 del presente decreto.
 
 ## Art. 5. — Trasformazione del TFR in strumenti finanziari
@@ -65,6 +188,38 @@ Ai fini dell'esercizio delle facolta' previste al comma 1, i soggetti ivi contem
 I soggetti di cui al comma 1 possono deliberare l'emissione di obbligazioni, anche convertibili, od altro titolo cum warrant convertibile in partecipazioni al capitale sociale dell'emittente o di societa' del gruppo con le modalita' previste all'articolo 4, comma 1.
 
 I Fondi pensione possono sottoscrivere il prestito obbligazionario o l'emissione di altri titoli cum warrant con le modalita' e limiti previsti all'articolo 3, commi 2 e 4.
+
+5.
+                    
+                        
+                            Il regolamento del prestito obbligazionario ovvero quello relativo all'emissione di titoli cum warrant deve prevedere:
+ 
+                        
+                        
+                            a)
+                            
+                                l'impegno a far assumere a uno o piu' qualificati operatori finanziari, nei due anni successivi a quello in cui si perfezionano le operazioni di cui al comma 3, una partecipazione non inferiore a quella garantita dai diritti di conversione attribuiti ai Fondi pensione e comunque non inferiore a quella contemplata nel comma 1;
+
+                            
+                        
+                        
+                            b)
+                            
+                                l'impegno a che i qualificati operatori finanziari medesimi acquisiscano la partecipazione indicata alla lettera a) prioritariamente mediante acquisto delle obbligazioni o dei titoli cum warrant posseduti dai Fondi pensione ad un corrispettivo non inferiore a quello di emissione. A detta acquisizione puo' farsi luogo, altresi', mediante permuta dei titoli di cui al comma 3, assegnati ai Fondi pensione con titoli posseduti dal qualificato operatore finanziario, ivi inclusi i propri se il relativo regolamento lo prevede;
+
+                            
+                        
+                        
+                            c)
+                            
+                                l'impegno a che i Fondi pensione cedano ai qualificati operatori finanziari le obbligazioni o gli altri titoli di cui al comma 3, con le modalita' indicate alla lettera b);
+
+                            
+                        
+                        
+                            d)
+                            
+                                nell'ipotesi di mancato ingresso nel capitale di un qualificato operatore finanziario, nella misura prevista alla lettera a), l'impegno a rimborsare il prestito ovvero i titoli cum warrant entro un anno dal verificarsi dell'evento con una maggiorazione preconcordata dalle parti e comunque non inferiore al 10 per cento del relativo valore nominale quale liquidazione del danno.
 
 Le obbligazioni convertibili e gli altri titoli cum warrant di cui al comma 3 sono assistite, fino alla data di trasferimento al qualificato operatore finanziario o rimborso integrale, dalle medesime garanzie previste per gli eventi di cui all'articolo 2 della legge 29 maggio 1982, n. 297, con le modalita' indicate dall'articolo 6 del presente decreto.
 

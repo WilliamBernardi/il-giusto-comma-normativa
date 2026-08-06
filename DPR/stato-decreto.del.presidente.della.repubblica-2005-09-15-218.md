@@ -8,8 +8,8 @@ codice_redazionale: 005G0243
 vigente: true
 source: normattiva-opendata
 collection: DPR
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:48:11Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -47,6 +47,38 @@ La rappresentazione grafica della bandiera d'istituto del Corpo e' contenuta nel
 ## Art. 3. — Custodia della bandiera
 
 La bandiera d'istituto del Corpo e' custodita nell'ufficio del Capo del Corpo forestale dello Stato, in apposita teca, libera dal fodero. Fuori della sede ordinaria, la bandiera e' custodita in idoneo locale.
+
+2.
+                    
+                        
+                            La bandiera d'istituto del Corpo viene spiegata in occasione:
+ 
+                        
+                        
+                            a)
+                            
+                                di cerimonie di consegna di bandiere;
+
+                            
+                        
+                        
+                            b)
+                            
+                                della festa del Corpo;
+
+                            
+                        
+                        
+                            c)
+                            
+                                di cerimonie di consegna di ricompense al valore;
+
+                            
+                        
+                        
+                            d)
+                            
+                                di altre circostanze previste da disposizioni o stabilite dall'Ispettorato generale.
 
 Nelle giornate di lutto nazionale, la bandiera d'istituto del Corpo, se esposta, viene abbrunata con un velo nero, annodato a fiocco alla base della punta.
 

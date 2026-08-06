@@ -7,8 +7,8 @@ urn: urn:nir:ministero.interno:decreto:2013-11-16;162
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:39Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -34,17 +34,149 @@ Il presente regolamento disciplina l'attuazione del Fondo di solidarieta' civile
 
 ## Art. 2. — Definizioni
 
+1.
+                        
+                            
+                                Ai fini del presente Regolamento si intendono: 
+ 
+                            
+                            
+                                a)
+                                
+                                    per «decreto-legge», il decreto-legge 12 novembre 2010, n. 187, convertito, con modificazioni, dalla legge 17 dicembre 2010, n. 217, recante «Misure urgenti in materia di sicurezza»; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    per «Fondo», il Fondo di solidarieta' civile istituito dall'articolo 2-bis del decreto-legge; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    per «Collegio», il Collegio previsto dall'articolo 2-bis, comma 3, del decreto-legge, competente ad esprimere il parere per le elargizioni e gli interventi a carico del Fondo; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    per «Ufficio di supporto», l'Ufficio competente all'attivita' di funzionamento del Fondo, di cui all'articolo 4 del presente regolamento; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    per «elargizioni», le somme di denaro corrisposte, a titolo di contributo per il ristoro del danno subito, alle vittime, di cui all'articolo 2-bis, comma 2, lettera a), del decreto-legge; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    per «interventi di solidarieta' civile», le provvidenze a favore delle vittime di azioni delittuose, di cui all'articolo 2-bis, comma 2, lettera b), del decreto-legge, compresi il concorso economico ad iniziative di riduzione del danno, finalizzato anche alla definizione transattiva di liti concernenti il risarcimento dei danni alla persona e l'eventuale pagamento di somme disposte dal giudice.
+
 ## Art. 3. — Alimentazione del Fondo
+
+1.
+                        
+                            
+                                Ai sensi dell'articolo 2-bis, comma 1, del decreto-legge, il Fondo e' alimentato: 
+ 
+                            
+                            
+                                a)
+                                
+                                    da una quota del Fondo Unico Giustizia, determinata complessivamente ogni anno con il decreto o i decreti del Ministro dell'interno, adottati ai sensi del decreto ministeriale 30 luglio 2009, n. 127, pubblicato nella Gazzetta Ufficiale della Repubblica italiana n. 197 del 26 agosto 2009, nel limite massimo del venti per cento delle risorse riassegnate al medesimo Ministero come previsto dall'articolo 2-bis, comma 1, lettera a) del decreto-legge; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    dalle somme riscosse, a decorrere dal 1° gennaio 2013, in applicazione della sanzione amministrativa, di cui all'articolo 1, comma 3-sexies, del decreto-legge 8 febbraio 2007, n. 8, convertito, con modificazioni, dalla legge 4 aprile 2007, n. 41, ai sensi dell'articolo 2-bis, comma 1, lettera b), del decreto-legge; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    dalle contribuzioni volontarie, dalle donazioni e dai lasciti da chiunque effettuati, di cui al predetto articolo 2-bis, comma 1, lettera c), del decreto-legge.
 
 Le somme di cui al comma 1, lettere b) e c), del presente articolo, alimentano il Fondo attraverso le procedure di cui all'articolo 9, comma 1.
 
 ## Art. 4. — Funzionamento del Fondo
 
+1.
+                        
+                            
+                                Per il suo funzionamento il Fondo si avvale, senza ulteriori e maggiori oneri a carico del bilancio dello Stato, dell'Ufficio per l'Amministrazione Generale del Dipartimento della Pubblica Sicurezza, che assicura, attraverso le risorse disponibili: 
+ 
+                            
+                            
+                                a)
+                                
+                                    l'assistenza tecnica e il supporto al Collegio; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la trattazione delle istanze trasmesse ai sensi dell'articolo 10, nonche' gli adempimenti connessi agli atti istruttori ed ai pareri espressi dal Collegio ed ai provvedimenti adottati ai sensi degli articoli 13 e 14; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    la gestione finanziaria, anche, ove del caso, attraverso lo strumento della convenzione di cui all'articolo 9, comma 2.
+
 ## Art. 5. — Condizioni e limiti per l'accesso al Fondo
 
 L'accesso al Fondo e' subordinato alla pronuncia, anche in primo grado, di una sentenza di condanna al risarcimento del danno o al pagamento di una provvisionale, fermi restando i presupposti previsti dall'articolo 2-bis, comma 2, del decreto-legge. Sono esclusi dall'accesso al Fondo le richieste di elargizione o gli interventi relativi alle sentenze passate in giudicato prima della data di entrata in vigore della legge di conversione del decreto-legge.
 
+2.
+                        
+                            
+                                Le risorse del Fondo annualmente disponibili sono destinate: 
+ 
+                            
+                            
+                                a)
+                                
+                                    a corrispondere elargizioni alle vittime di reati commessi in occasione o a causa di manifestazioni sportive, nei limiti di cui all'articolo 2-bis, comma 2, lettera a), del decreto-legge; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    a disporre interventi di solidarieta' civile alle vittime di azioni delittuose commesse in occasione di manifestazioni di diversa natura, comunque connesse a fatti che hanno determinato danni alle persone, anche attraverso il concorso economico alla definizione transattiva di liti ed all'eventuale pagamento delle somme disposte dal giudice, nei limiti di cui all'articolo 2-bis, comma 2, lettera b), del decreto-legge.
+
 ## Art. 6. — Individuazione degli aventi diritto all'accesso al Fondo
+
+1.
+                        
+                            
+                                Fermo restando quanto previsto dall'articolo 5, l'accesso al Fondo e' consentito alle persone fisiche che rientrano tra le vittime di cui al comma 2 del medesimo articolo 5, che non abbiano percepito a titolo di risarcimento somme provenienti da altri Fondi previsti dalla normativa vigente o direttamente dal soggetto condannato e che, alla data di presentazione della domanda: 
+ 
+                            
+                            
+                                a)
+                                
+                                    non siano sottoposti ad una misura di prevenzione, ovvero ad un procedimento per l'applicazione di una misura di prevenzione o, limitatamente al risarcimento di cui all'articolo 2-bis, comma 2, lettera a), del decreto-legge, non siano destinatari di un provvedimento di cui all'articolo 6, comma 1, della legge 13 dicembre 1989, n. 401; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    non risultino condannate, anche con sentenza non definitiva, compresa quella adottata a seguito di applicazione della pena su richiesta ai sensi dell'articolo 444 del codice di procedura penale, per reati previsti dall'articolo 380, commi 1 e 2, del codice di procedura penale.
 
 L'accesso al Fondo e' consentito altresi' alle Amministrazioni statali ed agli enti pubblici che abbiano corrisposto, ai sensi dell'articolo 28 della Costituzione, anche a titolo di definizione transattiva ovvero di provvisionale, somme alle vittime legittimate alla presentazione della domanda ai sensi del presente regolamento.
 
@@ -96,11 +228,54 @@ La domanda dei soggetti di cui all'articolo 6, comma 2, e' presentata direttamen
 
 ## Art. 11. — Contenuto e documentazione della domanda
 
+1.
+                        
+                            
+                                La domanda sottoscritta dai soggetti di cui all'articolo 6, comma 1, deve contenere: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la dichiarazione di essere vittima di reati di cui all'articolo 2-bis, comma 1, lettere a) e b), del decreto-legge e di essere legittimato ai sensi degli articoli 5 e 6; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la dichiarazione che, alla data di presentazione della domanda, non sono state liquidate, a titolo di risarcimento, somme provenienti da altri Fondi previsti dalla normativa vigente o direttamente dal soggetto condannato, di cui all'articolo 6.
+
 In caso di domanda presentata dai successori a titolo universale, le dichiarazioni di cui al comma 1 sono riferite anche al soggetto deceduto.
 
 Alla domanda e' allegata copia autentica dell'estratto della sentenza di condanna, ovvero dell'estratto della sentenza di condanna al pagamento della provvisionale e, nel caso di presentazione da parte dei soggetti di cui all'articolo 6, comma 2, della documentazione comprovante l'avvenuta erogazione.
 
 ## Art. 12. — Sospensione del procedimento
+
+1.
+                        
+                            
+                                Il procedimento per l'accesso al Fondo e' sospeso, per un periodo massimo di sessanta giorni, nei seguenti casi: 
+ 
+                            
+                            
+                                a)
+                                
+                                    quando, sulla base delle dichiarazioni rese nella domanda o degli accertamenti istruttori disposti, venga riscontrata l'esistenza di un procedimento penale pendente per uno dei reati di cui all'articolo 380, commi 1 e 2, del codice di procedura penale o di un procedimento per l'applicazione di una misura di prevenzione, ovvero del provvedimento di cui all'articolo 6, comma 1, della legge 13 dicembre 1989, n. 401, ai sensi dell'articolo 6 del presente regolamento; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    qualora la domanda prodotta dall'interessato risulti incompleta della documentazione di cui all'articolo 11; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    qualora il Collegio, ai fini della completezza della documentazione posta a base della richiesta di accesso al Fondo, ritenga necessario acquisire ulteriori elementi.
 
 Nelle ipotesi di cui al comma 1, il responsabile del procedimento comunica immediatamente all'interessato le cause di sospensione.
 
@@ -119,6 +294,24 @@ L'ufficio di supporto provvede, entro trenta giorni dalla data del decreto di cu
 
 ## Art. 15. — Procedimento per la revoca 
  e la riforma dei provvedimenti
+
+1.
+                        
+                            
+                                La deliberazione di accoglimento della domanda e' revocata con decreto del Capo della Polizia - Direttore Generale della pubblica sicurezza, previo parere del Collegio: 
+ 
+                            
+                            
+                                a)
+                                
+                                    qualora, a seguito di specifico giudizio di revisione la sentenza di condanna sia stata revocata con decisione passata in giudicato; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    qualora sia venuto meno il titolo al risarcimento concesso, pronunciata la sentenza definitiva nel caso di condanna al pagamento di una provvisionale.
 
 La deliberazione di accoglimento della domanda e' riformata con decreto del Capo della Polizia - Direttore Generale della pubblica sicurezza, previo parere del Collegio, qualora, ai sensi del comma 1, sia stato modificato l'ammontare del risarcimento dovuto.
 

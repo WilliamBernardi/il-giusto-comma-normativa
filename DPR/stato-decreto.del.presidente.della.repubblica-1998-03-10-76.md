@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: DPR
 vigenza_date: 2025-01-22
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:47:46Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -84,6 +84,37 @@ Ai fini dell'elaborazione del piano di riparto, il Consiglio dei Ministri, su pr
 Ove sia stata disposta, con un provvedimento legislativo di iniziativa governativa, la riduzione o la diversa destinazione delle risorse di cui al comma 1, il Governo riferisce alle competenti Commissioni parlamentari in merito alle modalita' di reintegrazione delle risorse medesime e alle conseguenti iniziative.
 
 ((Entro il 31 gennaio di ogni anno, con decreto del Segretario generale della Presidenza del Consiglio dei ministri, sono individuati e pubblicati, nel sito istituzionale della Presidenza del Consiglio dei ministri, i parametri specifici di valutazione delle istanze, distinti per tipologie d'intervento, con esclusione di quelli di cui all'articolo 2, comma 5.1. Per gli interventi di cui all'art. 2, comma 5.1, il Ministero dell'istruzione e del merito procede attraverso l'adozione di un apposito bando, pubblicato sul proprio sito istituzionale, contenente altresi' i criteri di selezione dei progetti, le modalita' di erogazione, monitoraggio e revoca delle risorse in conformita' ai principi stabiliti dal presente regolamento. Nell'apposita sezione dedicata all'otto per mille dei siti istituzionali rispettivamente della Presidenza del Consiglio dei ministri e del Ministero dell'istruzione e del merito sono pubblicati gli elenchi degli interventi ammessi a finanziamento con i relativi importi)).
+
+8.
+                        
+                            
+                                
+                                    ((La concessione a soggetti che siano stati gia' destinatari del contributo in uno dei due anni precedenti richiede specifica motivazione delle ragioni della nuova concessione del beneficio. Non e' ammessa la concessione del contributo per interventi complementari o integrativi di interventi gia' finanziati, qualora questi ultimi non siano stati completati. 
+Non e' ammessa la concessione del contributo a soggetti che, alla scadenza del termine del 30 settembre per la presentazione delle domande di cui all'articolo 6, comma 2, si trovino in una delle seguenti condizioni:))
+                                
+                            
+                            
+                                a)
+                                
+                                    
+                                        ((abbiano ancora in corso di realizzazione un numero di interventi superiore a due;))
+                                    
+                                
+                            
+                            
+                                b)
+                                
+                                    
+                                        ((non abbiano restituito i fondi ricevuti, ivi compresi quelli relativi ai risparmi di spesa autorizzati, pur essendo a cio' obbligati a seguito di conclusione dei lavori, revoca, rinuncia o decadenza;))
+                                    
+                                
+                            
+                            
+                                c)
+                                
+                                    
+                                        ((negli ultimi cinque anni siano incorsi nella revoca, anche parziale, del contributo.)) 
+ (2)
 
 -------------
                             AGGIORNAMENTO (2)

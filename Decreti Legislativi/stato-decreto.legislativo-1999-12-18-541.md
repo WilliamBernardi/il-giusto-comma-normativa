@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
 vigenza_date: 2003-02-07
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:31Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -21,6 +21,87 @@ DECRETO LEGISLATIVO
 Sulla proposta del Ministro per le politiche comunitarie e del Ministro dei trasporti e della navigazione, di concerto con i Ministri degli affari esteri, della giustizia, del tesoro, del bilancio e della programmazione economica, delle politiche agricole e forestali, delle comunicazioni e del lavoro e della previdenza sociale;
 
 ## Art. 1. — Definizioni
+
+1.
+                    
+                        
+                            Ai fini del presente decreto si intende per:
+ 
+                        
+                        
+                            a)
+                            
+                                "amministrazione", Ministero dei trasporti e della navigazione Comando generale del Corpo delle capitanerie di porto;
+
+                            
+                        
+                        
+                            b)
+                            
+                                "autorita' marittima" gli uffici circondariali marittimi di cui all'art. 16 del codice della navigazione;
+
+                            
+                        
+                        
+                            c)
+                            
+                                "certificato", il certificato di conformita' alle disposizioni del presente decreto;
+
+                            
+                        
+                        
+                            d)
+                            
+                                "che opera", che pesca o pesca e tratta il pesce o altre risorse viventi, fatto salvo il diritto di passaggio inoffensivo nel mare territoriale;
+
+                            
+                        
+                        
+                            e)
+                            
+                                "convenzione", la convenzione internazionale di Torremolinos del 1977 sulla sicurezza delle navi da pesca, a cui l'Italia ha aderito con legge 2 maggio 1983, n. 293;
+
+                            
+                        
+                        
+                            f)
+                            
+                                "lunghezza" il 96% della lunghezza totale al galleggiamento, posto all'85% della piu' piccola altezza misurata dalla linea di chiglia, oppure la lunghezza misurata dalla faccia prodiera del dritto di prora all'asse di rotazione del timone al predetto galleggiamento, se questo valore e' superiore. Nelle navi progettate con un'inclinazione di chiglia, il galleggiamento al quale e' misurata la lunghezza deve essere parallelo al galleggiamento di progetto;
+
+                            
+                        
+                        
+                            g)
+                            
+                                "nave da pesca" qualsiasi nave equipaggiata o utilizzata a fini commerciali per la cattura del pesce o di altre risorse marine viventi;
+
+                            
+                        
+                        
+                            h)
+                            
+                                "nave da pesca nuova", una nave da pesca per la quale a decorrere dal 1o gennaio 1999 incluso sia stato stipulato il contratto di costruzione o il contratto per una rilevante trasformazione, oppure il contratto di costruzione o di rilevante trasformazione sia stato stipulato anteriormente al 1o gennaio 1999 e la nave sia stata consegnata tre anni o piu' dopo tale data, oppure, in mancanza di un contratto di costruzione, a decorrere dal 1o gennaio 1999 incluso sia stata impostata la chiglia, o sia iniziata la costruzione identificabile con una nave particolare, o sia iniziato il montaggio con l'impiego di almeno 50 tonnellate o dell'uno per cento della massa stimata di tutti i materiali di struttura, se quest'ultimo valore e' inferiore;
+
+                            
+                        
+                        
+                            i)
+                            
+                                "nave da pesca esistente", una nave da pesca che non sia una nave nuova;
+
+                            
+                        
+                        
+                            l)
+                            
+                                "organismo riconosciuto", un organismo riconosciuto a norma del decreto legislativo 3 agosto 1998, n. 314;
+
+                            
+                        
+                        
+                            m)
+                            
+                                "protocollo" il protocollo di Torremolinos del 1993 relativo alla Convenzione internazionale di Torremolinos sulla sicurezza delle navi da pesca del 1977, ratificato con la legge 17 dicembre 1999.
 
 ## Art. 2. — Ambito di applicazione
 
@@ -47,6 +128,31 @@ Fatte salve le vigenti disposizioni in materia di pesca nelle acque nazionali, l
 L'equipaggiamento marittimo di cui all'allegato A.1 del decreto del Presidente della Repubblica 6 ottobre 1999, n. 407, conforme ai requisiti ivi contenuti ed installato a bordo di una nave da pesca a norma del presente decreto, e' ritenuto automaticamente conforme alle disposizioni di quest'ultimo, a prescindere dal fatto che queste prevedano che esso debba essere approvato o sottoposto a prove che soddisfino l'amministrazione.
 
 ## Art. 4. — Requisiti specifici, esenzioni ed equivalenze
+
+1.
+                    
+                        
+                            Con decreto del Ministro dei trasporti e della navigazione, di concerto con il Ministro delle politiche agricole e forestali, preventivamente notificato alla Commissione europea, possono essere adottate:
+ 
+                        
+                        
+                            a)
+                            
+                                misure di sicurezza specifiche per le navi da pesca che operano in determinate aree per tener conto di situazioni locali, quali la natura e le condizioni climatiche delle acque, la lunghezza dei viaggi e le caratteristiche ed i materiali di costruzione delle navi stesse. Le predette misure di sicurezza specifiche sono aggiunte all'allegato III del presente decreto;
+
+                            
+                        
+                        
+                            b)
+                            
+                                misure contenenti esenzioni conformemente alle disposizioni del capitolo I, regola 3, paragrafo 3 dell'allegato alla convenzione di Torremolinos;
+
+                            
+                        
+                        
+                            c)
+                            
+                                misure che consentano l'impiego di impianti equivalenti conformemente alle disposizioni del capitolo I regola 4 paragrafo 1 dell'allegato al protocollo della convenzione di Torremolinos.
 
 ## Art. 5. — Norme di progettazione, costruzione e manutenzione
 

@@ -8,8 +8,8 @@ codice_redazionale: 003G0078
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:39Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -39,6 +39,38 @@ Restano ferme le disposizioni speciali vigenti in materia di cumulo dei periodi 
 
 Le quote di pensione relative alle posizioni assicurative costituite nelle singole gestioni previdenziali, calcolate ciascuna con le norme vigenti in materia presso le gestioni medesime e in proporzione alle singole anzianita' contributive, sono poste a carico delle gestioni interessate e sono reversibili ai superstiti con le modalita' e nei limiti previsti da ogni singola gestione.
 
+2.
+                    
+                        
+                            I periodi di iscrizione nelle varie gestioni si convertono, ai fini della totalizzazione, nell'unita' temporale prevista da ciascuna gestione, sulla base dei seguenti parametri:
+ 
+                        
+                        
+                            a)
+                            
+                                sei giorni equivalgono ad una settimana e viceversa;
+
+                            
+                        
+                        
+                            b)
+                            
+                                ventisei giorni equivalgono ad un mese e viceversa;
+
+                            
+                        
+                        
+                            c)
+                            
+                                settantotto giorni equivalgono ad un trimestre e viceversa;
+
+                            
+                        
+                        
+                            d)
+                            
+                                trecentododici giorni equivalgono ad un anno e viceversa.
+
 ## Art. 3. — Esercizio del diritto
 
 l. La totalizzazione dei periodi assicurativi e' conseguibile a domanda del lavoratore o del suo avente causa, da presentarsi all'ente gestore della forma assicurativa a cui da ultimo il medesimo e', ovvero e' stato, iscritto.
@@ -46,6 +78,31 @@ l. La totalizzazione dei periodi assicurativi e' conseguibile a domanda del lavo
  3. Per i casi di esercizio della facolta' di ricongiunzione da parte del lavoratore, titolare di piu' periodi assicurativi che consentono l'accesso alla totalizzazione, la cui domanda sia stata presentata anteriormente alla data di pubblicazione del presente decreto, ed il cui procedimento non sia stato ancora concluso, a seguito del pagamento integrale delle rate, e' consentito, su richiesta dell'interessato, il recesso e la restituzione degli importi eventualmente versati, a titolo di ricongiunzione, maggiorati degli interessi legali.
 
 ## Art. 4. — Pensione di vecchiaia
+
+1.
+                    
+                        
+                            Il diritto alla pensione di vecchiaia e' riconosciuto dall'ente presso il quale e' inoltrata la domanda e al termine del relativo procedimento, quando:
+ 
+                        
+                        
+                            a)
+                            
+                                e' perfezionato il relativo requisito dell'eta' anagrafica secondo gli ordinamenti di tutte le forme pensionistiche nelle quali il lavoratore e' stato iscritto, attestato, a pena di inammissibilita', con dichiarazione prodotta dall'interessato contestualmente alla domanda, ai sensi dell'articolo 38 del decreto del Presidente della Repubblica 28 dicembre 2000, n. 445;
+
+                            
+                        
+                        
+                            b)
+                            
+                                sussistono, per effetto della sommatoria delle anzianita' di iscrizione e di contribuzione possedute nelle predette forme pensionistiche, i requisiti di anzianita' di iscrizione e di contribuzione minima prevista dagli ordinamenti di tutte le gestioni interessate;
+
+                            
+                        
+                        
+                            c)
+                            
+                                sussistono gli ulteriori requisiti eventualmente previsti dai singoli ordinamenti previdenziali.
 
 La sussistenza dei requisiti di cui al comma 1, nonche' di quelli di cui al successivo articolo 5, dovra' comunque essere confermata, come condizione di procedibilita' della domanda, da ogni singola gestione presso cui risultino periodi di iscrizione.
 
@@ -58,6 +115,24 @@ Il diritto alla pensione di inabilita' assoluta e permanente e' conseguito in ba
 ## Art. 6. — Modalita' di liquidazione
 
 Le gestioni interessate, ciascuna per la parte di propria competenza, determinano il trattamento pro-quota secondo le regole del proprio ordinamento, vigente al momento della presentazione della domanda.
+
+2.
+                    
+                        
+                            Per le pensioni o quote di esse da liquidare con il sistema retributivo, ciascuna gestione, per determinare la quota di pensione di propria pertinenza:
+ 
+                        
+                        
+                            a)
+                            
+                                stabilisce l'importo teorico della pensione cui l'iscritto avrebbe diritto se i periodi di assicurazione e di contribuzione, totalizzati per effetto del cumulo di cui all'articolo 1, comma 1, fossero stati compiuti in base al proprio ordinamento e applica ad esso il coefficiente di parametrazione dato dal rapporto tra l'anzianita' di propria competenza, posseduta dall'iscritto, e quella risultante in base al predetto cumulo;
+
+                            
+                        
+                        
+                            b)
+                            
+                                qualora i periodi assicurativi e contributivi complessivamente considerati superino il limite massimo di anzianita' attribuibile secondo l'ordinamento della gestione cui afferisce l'ultimo periodo di assicurazione, prende in considerazione tale limite massimo e decurta le anzianita' eccedenti.
 
 Gli aumenti a titolo di rivalutazione automatica delle pensioni sono liquidati con riferimento al trattamento unico complessivamente considerato, sulla base delle disposizioni di legge o dei singoli ordinamenti e sono rapportati alle singole quote secondo il meccanismo di cui al comma 2, lettera a), con onere a carico delle gestioni interessate.
 

@@ -8,8 +8,8 @@ vigente: true
 source: normattiva-opendata
 collection: DL proroghe
 vigenza_date: 2023-12-31
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:39:27Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO-LEGGE
@@ -24,6 +24,24 @@ Ritenuta la straordinaria necessita' ed urgenza di provvedere alla proroga di te
 Sulla proposta del Presidente del Consiglio dei ministri, di concerto con il Ministro dell'economia e delle finanze;
 
 ## Art. 1. — Proroga di termini in materia di pubbliche amministrazioni
+
+1.
+                    
+                        
+                            All'articolo 1 del decreto-legge 29 dicembre 2011, n. 216, convertito, con modificazioni, dalla legge 24 febbraio 2012, n. 14, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 1, le parole: "31 dicembre 2014" sono sostituite dalle seguenti: "31 dicembre 2015"; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 2 le parole: "31 dicembre 2014", ovunque ricorrono, sono sostituite dalle seguenti: "31 dicembre 2015".
 
 Il termine per procedere alle assunzioni di personale a tempo indeterminato, relative alle cessazioni verificatesi negli anni 2013, 2014, 2015, 2016, 2017, 2018, 2019 , 2020 ((, 2021 e 2022)), previste dall'articolo 3, commi 1 e 2, del decreto-legge 24 giugno 2014, n. 90, convertito, con modificazioni, dalla legge 11 agosto 2014, n. 114, dall'articolo 66, commi 9-bis e 13-bis del decreto-legge 25 giugno 2008, n. 112, convertito, con modificazioni, dalla legge 6 agosto 2008, n. 133, e successive modificazioni, e' prorogato al ((31 dicembre 2024)) e le relative autorizzazioni ad assumere, ove previste, possono essere concesse entro il ((31 dicembre 2024)).
 
@@ -69,6 +87,24 @@ In considerazione dei tempi necessari per assicurare la piena funzionalita' dell
  La Corte Costituzionale, con sentenza 25 febbraio - 17 marzo 2015, n. 37 (in G.U. 1a s.s. 25/3/2015, n. 12), ha dichiarato "ai sensi dell'art. 27 della legge 11 marzo 1953, n. 87, l'illegittimita' costituzionale dell'art 1, comma 8, del decreto-legge 31 dicembre 2014, n. 192 (Proroga di termini previsti da disposizioni legislative)".
 
 ## Art. 2. — Proroga di termini in materia di giustizia amministrativa
+
+1.
+                    
+                        
+                            Al decreto-legge 24 giugno 2014, n. 90, convertito, con modificazioni, dalla legge 11 agosto 2014, n. 114, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                all'articolo 18, comma 1-bis, le parole: "Entro il 31 dicembre 2014" sono sostituite dalle seguenti: "Entro il 28 febbraio 2015"; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                all'articolo 38, comma 1-bis , le parole: "1° gennaio 2015" sono sostituite dalle seguenti: "1° luglio 2015".
 
 Il termine di cui all'articolo 3, comma 2, del decreto legislativo 7 settembre 2012, n. 156, e' differito al 30 luglio 2015.
 Entro tale termine, gli enti locali interessati, anche consorziati tra loro, le unioni di comuni nonche' le comunita' montane possono richiedere il ripristino degli uffici del giudice di pace soppressi, indicati nella vigente tabella A allegata al citato decreto legislativo n. 156 del 2012, con competenza sui rispettivi territori, anche tramite eventuale accorpamento, facendosi integralmente carico delle spese di funzionamento e di erogazione del servizio della giustizia nelle relative sedi, ivi compreso il fabbisogno di personale amministrativo che sara' messo a disposizione dagli enti medesimi. Al ripristino puo' procedersi anche previo accorpamento di territori limitrofi compresi nel circondario di un unico tribunale. ((Entro il 31 maggio 2016)) il Ministro della giustizia, valutata la rispondenza delle richieste e degli impegni pervenuti ai criteri di cui al presente comma, apporta con proprio decreto le conseguenti modifiche alle tabelle di cui agli articoli 1 e 2 del citato decreto legislativo n. 156 del 2012. Con uno o piu' decreti del Ministro della giustizia, sentito il Consiglio superiore della magistratura, da emanare entro sessanta giorni dalla data di pubblicazione del decreto di cui al quarto periodo nella Gazzetta Ufficiale, sono determinate le piante organiche del personale di magistratura onoraria degli uffici del giudice di pace ripristinati e sono altresi' apportate le necessarie variazioni alle piante organiche degli altri uffici del giudice di pace. Il Consiglio superiore della magistratura definisce, entro tre mesi dalla data di entrata in vigore del decreto di cui al periodo precedente, la procedura di trasferimento dei magistrati onorari destinati agli uffici del giudice di pace ripristinati. Si applicano i commi 4 e 5 dell'articolo 3 del citato decreto legislativo n. 156 del 2012, e successive modificazioni. All'attuazione del presente comma si provvede nell'ambito delle risorse umane, strumentali e finanziarie disponibili a legislazione vigente e, comunque, senza nuovi o maggiori oneri a carico della finanza pubblica.
@@ -160,9 +196,70 @@ Con decreto del Ministro dei beni e delle attivita' culturali e del turismo, di 
 
 ## Art. 6. — Proroga di termini in materia di istruzione
 
+1.
+                    
+                        
+                            All'articolo 23-quinquies del decreto-legge 24 giugno 2014, n. 90, convertito, con modificazioni, dalla legge 11 agosto 2014, n. 114, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 1, le parole: "30 marzo 2015" sono sostituite dalle seguenti: "31 dicembre 2015"; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 2, le parole: "31 dicembre 2014" sono sostituite dalle seguenti: "30 settembre 2015".
+
 All'articolo 14, comma 4, del decreto-legge 24 giugno 2014, n. 90, convertito, con modificazioni, dalla legge 11 agosto 2014, n. 114, le parole: "30 giugno 2015" sono sostituite dalle parole: "31 ottobre 2015".
 
 La durata complessiva dei rapporti instaurati ai sensi dell'articolo 22, comma 3, della legge 30 dicembre 2010, n. 240, e' prorogata di due anni.
+
+3.
+                    
+                        
+                            Al decreto-legge 12 settembre 2013, n. 104, convertito, con modificazioni, dalla legge 8 novembre 2013, n. 128, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                all'articolo 3, comma 1, dopo le parole: "2013-2014" sono inserite le seguenti: "e nell'anno accademico 2014-2015"; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                all'articolo 19, comma 1, dopo le parole: "2013-2014" sono inserite le seguenti: "e per gli anni accademici 2014-2015 e 2015-2016".
+
+4.
+                    
+                        
+                            All'articolo 18, comma 8-quinquies, del decreto-legge 21 giugno 2013, n. 69, convertito, con modificazioni, dalla legge 9 agosto 2013, n. 98, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                le parole: "30 aprile 2014" ovunque ricorrano sono sostituite dalle seguenti: "31 dicembre 2014"; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                le parole: "30 giugno 2014" sono sostituite dalle seguenti: "28 febbraio 2015"; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                le parole: "31 dicembre 2014" sono sostituite dalle seguenti: "31 dicembre 2015".
 
 Per gli interventi di edilizia scolastica di cui all'articolo 48, comma 2, del decreto-legge 24 aprile 2014, n. 66, convertito, con modificazioni, dalla legge 23 giugno 2014, n. 89, il termine per l'affidamento dei lavori e' prorogato al 28 febbraio 2015.
 
@@ -186,6 +283,81 @@ Al fine di individuare, entro il 31 dicembre 2015, soluzioni normative o amminis
 ## Art. 7. — Proroga di termini in materia sanitaria
 
 All'articolo 2, comma 1-sexies, lettera c), del decreto-legge 29 dicembre 2010, n. 225, convertito, con modificazioni, dalla legge 26 febbraio 2011, n. 10, le parole "entro il 31 dicembre 2014" sono sostituite dalle seguenti: "entro il 30 giugno 2015".
+
+2.
+                    
+                        
+                            Al decreto legislativo 28 settembre 2012, n. 178, e successive modificazioni, ad eccezione dell'articolo 1-bis, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                le parole: "1º gennaio 2015", ovunque ricorrono, sono sostituite dalle seguenti: "1º gennaio 2016"; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                le parole: "31 dicembre 2016", ovunque ricorrono, sono sostituite dalle seguenti: "31 dicembre 2017"; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                le parole: "31 dicembre 2014", ovunque ricorrono, sono sostituite dalle seguenti: "31 dicembre 2015"; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                le parole: "1° gennaio 2017", ovunque ricorrono, sono sostituite dalle seguenti: "1º gennaio 2018"; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                all'articolo 2, comma 5, le parole: "per l'anno 2015" sono sostituite dalle seguenti: "per l'anno 2016"; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                all'articolo 3, comma 3, le parole: "e il 2014" sono sostituite dalle seguenti: ",il 2014 e il 2015" e le parole: "e 2014" sono sostituite dalle seguenti: ",2014 e 2015"; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                all'articolo 4, comma 5, le parole: "entro il 31 ottobre 2015" sono sostituite dalle seguenti: "entro il 31 ottobre 2016"; 
+
+                            
+                        
+                        
+                            g-bis)
+                            
+                                all'articolo 5, dopo il comma 6 e' aggiunto il seguente: 
+ "6-bis. Nelle procedure di selezione per la formazione del contingente di personale militare di cui al comma 6 del presente articolo, centocinquanta posti sono riservati al personale appartenente al Corpo militare di cui all'articolo 6, comma 9, terzo periodo, in servizio alla data del 31 dicembre 2014, ferma restando l'invarianza del numero complessivo di unita' stabilito in trecento"; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                all'articolo 6, comma 4, le parole: "entro il 30 giugno 2015" sono sostituite dalle seguenti: "entro il 30 giugno 2016"; 
+
+                            
+                        
+                        
+                            i)
+                            
+                                all'articolo 8, comma 1, le parole: "e 2014" sono sostituite dalle seguenti: ", 2014 e 2015".
 
 ((Le disposizioni dei commi 424, 425, 426, 427 e 428)) dell'articolo 1 della legge 23 dicembre 2014, n. 190, si applicano anche nei confronti del personale di cui all'articolo 6 del decreto legislativo 28 settembre 2012, n. 178, come da ultimo modificato dal presente articolo.
 
@@ -230,6 +402,32 @@ Il termine di cui all'articolo 6, comma 1, lettera p), del decreto legislativo 1
 
 All'articolo 1, comma 111, quarto periodo, della legge 27 dicembre 2013, n. 147, le parole: "entro il 31 dicembre 2014" sono sostituite dalle seguenti: "entro il ((30 giugno 2015))".
 
+3.
+                    
+                        
+                            All'articolo 11, comma 3-bis, del decreto-legge 31 agosto 2013, n. 101, convertito, con modificazioni, dalla legge 30 ottobre 2013, n. 125, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                le parole: «31 dicembre 2014» sono sostituite dalle seguenti: «31 dicembre 2015 al fine di consentire la tenuta in modalita' elettronica dei registri di carico e scarico e dei formulari di accompagnamento dei rifiuti trasportati nonche' l'applicazione delle altre semplificazioni e le opportune modifiche normative»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                la parola: «260-bis» e' sostituita dalle seguenti: «260-bis, commi da 3 a 9,»; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                dopo il secondo periodo e' aggiunto il seguente: «Le sanzioni relative al SISTRI di cui all'articolo 260-bis, commi 1 e 2, del decreto legislativo 3 aprile 2006, n. 152, e successive modificazioni, si applicano a decorrere dal ((1º aprile 2015))». 
+ Dall'attuazione del presente comma non devono derivare nuovi o maggiori oneri per la finanza pubblica.
+
 All'articolo 7, comma 7, del decreto-legge 12 settembre 2014, n. 133, convertito, con modificazioni, dalla legge 11 novembre 2014, n. 164, le parole: «31 dicembre 2014» sono sostituite dalle seguenti: « ((30 settembre 2015))».
 
 ((
@@ -271,6 +469,24 @@ All'articolo 1, comma 641, alinea, della legge 23 dicembre 2014, n. 190, le paro
 Ai fini di quanto previsto dall'articolo 15, comma 4, secondo periodo, del decreto-legge 31 agosto 2013, n. 102, convertito, con modificazioni, dalla legge 28 ottobre 2013, n. 124, per il periodo d'imposta successivo a quello in corso al 31 dicembre 2014, si provvede mediante quota parte delle maggiori entrate di cui all'articolo 1, comma 7, della legge 15 dicembre 2014, n. 186.
 Qualora dal monitoraggio delle entrate di cui al periodo precedente emerga un andamento che non consenta la copertura degli oneri derivanti dal citato articolo 15 del decreto-legge n. 102 del 2013, il Ministro dell'economia e delle finanze, con proprio decreto, da emanare entro il 30 settembre 2015, stabilisce l'aumento della misura degli acconti ai fini dell'IRES e dell'IRAP, dovuti per il periodo d'imposta 2015, e l'aumento, a decorrere dal 1° gennaio 2016, delle accise di cui alla Direttiva del Consiglio 2008/118/CE del 16 dicembre 2008, in misura tale da assicurare il conseguimento dei predetti obiettivi anche ai fini della eventuale compensazione delle minori entrate che si dovessero generare per effetto dell'aumento degli acconti. E' abrogato il comma 2 dell'articolo 1 del decreto del Ministro dell'economia e delle finanze 30 novembre 2013, pubblicato nella Gazzetta Ufficiale n. 282 del 2 dicembre 2013.
 
+10.
+                    
+                        
+                            All'articolo 6, del decreto-legge 6 luglio 2012, n. 95, convertito, con modificazioni, dalla legge 7 agosto 2012, n. 135, e successive modificazioni, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 14, le parole: «e 2014» sono sostituite dalle seguenti: «, 2014, 2015 e 2016»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 16, le parole: «2014 e 2015» sono sostituite dalle seguenti: «2014, 2015 e 2016 e relativo bilancio pluriennale».
+
 All'articolo 2, comma 1, del decreto-legge 31 maggio 2010, n. 78, convertito, con modificazioni, dalla legge 30 luglio 2010, n. 122, e successive modificazioni, le parole: «limitatamente al periodo 2011-2015» sono sostituite dalle seguenti: «limitatamente al periodo 2011-2016 e relativo bilancio pluriennale».
 
 All'articolo 11, comma 1, del decreto legislativo 14 marzo 2011, n. 23, e successive modificazioni, le parole: "a decorrere dall'anno 2015" sono sostituite dalle seguenti: "a decorrere dall'anno 2016".
@@ -287,6 +503,26 @@ All'articolo 9, comma 10, del decreto-legge 24 aprile 2014, n. 66, convertito, c
 All'articolo 35, comma 2, del decreto legislativo 21 novembre 2014, n. 175, le parole: "31 gennaio 2015" sono sostituite dalle seguenti: "30 settembre 2015".
 
 All'articolo 35, comma 3, del decreto legislativo 21 novembre 2014, n. 175, le parole: "2015, 2016 e 2017" sono sostituite dalle seguenti: "2016, 2017 e 2018".
+
+12-quinquies.
+                    
+                        
+                            All'articolo 11-bis del decreto-legge 24 aprile 2014, n. 66, convertito, con modificazioni, dalla legge 23 giugno 2014, n. 89, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 1: 
+ 1) alla lettera a), le parole: "22 giugno 2013" sono sostituite dalle seguenti: "31 dicembre 2014"; 
+ 2) alla lettera b), le parole: "31 luglio 2014" sono sostituite dalle seguenti: "31 luglio 2015"; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 2 sono aggiunti, in fine, i seguenti periodi: "A seguito della presentazione della richiesta del piano di rateazione, non possono essere avviate nuove azioni esecutive. Se la rateazione e' richiesta dopo una segnalazione effettuata ai sensi dell'articolo 48-bis del decreto del Presidente della Repubblica 29 settembre 1973, n. 602, e successive modificazioni, la stessa non puo' essere concessa limitatamente agli importi che ne costituiscono oggetto".
 
 All'articolo 1, comma 1, della legge 3 dicembre 2009, n. 184, e successive modificazioni, le parole: "2013 e 2014", ovunque ricorrono, sono sostituite dalle seguenti: "2015 e 2016".
 
@@ -344,6 +580,24 @@ Restano ferme le disposizioni di cui all'ordinanza del Capo del Dipartimento del
 ## Art. 12.
 
 Proroga del regime fiscale relativo alle energie da fonti rinnovabili agro forestali e fotovoltaiche, nonche' di carburanti ottenuti da produzioni vegetali
+
+1.
+                    
+                        
+                            All'articolo 22, del decreto-legge 24 aprile 2014, n. 66, convertito, con modificazioni, dalla legge 23 giugno 2014, n. 89, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 1, terzo periodo, le parole: «31 dicembre 2014» sono sostituite dalle seguenti: «31 dicembre 2015»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 1-bis, primo periodo, le parole: «Limitatamente all'anno 2014» sono sostituite dalle seguenti: «Limitatamente agli anni 2014 e 2015».
 
 Alle minori entrate derivanti dall'applicazione delle disposizioni di cui al presente articolo, pari a 10.500.000 euro per l'anno 2015 e a 3.500.000 euro nell'anno 2016, si provvede mediante corrispondente riduzione del Fondo per interventi strutturali di politica economica, di cui all'articolo 10, comma 5, del decreto-legge 29 novembre 2004, n. 282, convertito, con modificazioni, dalla legge 27 dicembre 2004, n. 307.
 

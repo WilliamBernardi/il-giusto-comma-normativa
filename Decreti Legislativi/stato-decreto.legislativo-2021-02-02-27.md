@@ -8,8 +8,8 @@ vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
 vigenza_date: 2022-03-01
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:28Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -36,7 +36,92 @@ Il presente decreto legislativo e' finalizzato a adeguare e raccordare le dispos
 Autorita' competenti e altro personale 
  afferente alle autorita' competenti
 
+1.
+                    
+                        
+                            Il Ministero della salute, le regioni, le Provincie autonome di Trento e Bolzano, le Aziende sanitarie locali, nell'ambito delle rispettive competenze, sono le Autorita' competenti designate, ai sensi dell'articolo 4 del Regolamento, a pianificare, programmare, eseguire, monitorare e rendicontare i controlli ufficiali e le altre attivita' ufficiali nonche' procedere all'adozione delle azioni esecutive previste dagli articoli 137 e 138 del Regolamento, e ad accertare e contestare le relative sanzioni amministrative nei seguenti settori: 
+ 
+                        
+                        
+                            a)
+                            
+                                alimenti, inclusi i nuovi alimenti, e la sicurezza alimentare, in tutte le fasi della produzione, della trasformazione e della distribuzione di alimenti comprese le norme relative alle indicazioni nutrizionali e il loro coinvolgimento nel mantenimento dello stato di salute fornite sui prodotti alimentari, anche con riferimento ad alimenti contenenti allergeni e alimenti costituiti, contenenti o derivati da OGM, nonche' la fabbricazione e l'uso di materiali e oggetti destinati a venire a contatto con gli alimenti; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                mangimi e sicurezza dei mangimi in qualsiasi fase della produzione, della trasformazione, della distribuzione e dell'uso, anche con riferimento a mangimi costituiti, contenenti o derivati da OGM; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                salute animale; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                sottoprodotti di origine animale e prodotti derivati ai fini della prevenzione e della riduzione al minimo dei rischi sanitari per l'uomo e per gli animali; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                benessere degli animali; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                prescrizioni per l'immissione in commercio e l'uso di prodotti fitosanitari, dell'utilizzo sostenibile dei pesticidi, ad eccezione dell'attrezzatura per l'applicazione dei pesticidi.
+
 Le autorita' competenti garantiscono il rispetto di quanto previsto dall'articolo 5 del Regolamento. In particolare, il Ministero della salute, le regioni, le Province autonome di Trento e Bolzano e le Aziende sanitarie locali procedono ad uniformare le competenze ed i profili professionali del personale, anche in modo da favorirne l'interscambio.
+
+3.
+                    
+                        
+                            Il Ministero delle politiche agricole alimentari e forestali e' Autorita' competente ai sensi dell'articolo 4 del Regolamento nei seguenti settori: 
+ 
+                        
+                        
+                            a)
+                            
+                                alimenti, relativamente alle norme volte a garantire pratiche commerciali leali e a tutelare gli interessi e l'informazione dei consumatori, comprese le norme di etichettatura, per i profili privi di impatto sulla sicurezza degli alimenti, e per i controlli effettuati a norma dell'articolo 89 del regolamento (UE) n. 1306/2013 del Parlamento europeo e del Consiglio, del 17 dicembre 2013; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                mangimi, relativamente alle norme volte a tutelare gli aspetti qualitativi e merceologici, compresa l'etichettatura, per i profili privi di impatto sulla sicurezza dei mangimi, ma che possono incidere sulla correttezza e trasparenza delle transazioni commerciali; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                misure di protezione contro gli organismi nocivi per le piante; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                produzione biologica ed etichettatura dei prodotti biologici; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                uso ed etichettatura delle denominazioni di origine protette, delle indicazioni geografiche protette e delle specialita' tradizionali garantite.
 
 Il Ministero delle politiche agricole alimentari e forestali e' organo di collegamento per lo scambio di comunicazioni tra le autorita' competenti degli Stati membri, ai sensi degli articoli da 102 a 107 del Regolamento, nei settori di competenza come individuati nel comma 2.
 
@@ -88,7 +173,107 @@ Il Ministero della salute esercita le attribuzioni relative ai settori di cui al
 
 Non conformita'
 
+1.
+                    
+                        
+                            Al fine di adottare provvedimenti proporzionati al rischio effettivo, le Autorita' competenti di cui all'articolo 2, comma 1, valutano le non conformita' rilevate nel corso dei controlli ufficiali e delle altre attivita' ufficiali. Si definiscono come: 
+ 
+                        
+                        
+                            a)
+                            
+                                non conformita' minori (nc) quelle che non comportano un rischio immediato per la salute umana o per la salute e il benessere degli animali; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                non conformita' maggiori (NC) quelle che comportano un rischio immediato per la salute umana o per la salute e il benessere degli animali.
+
+2.
+                    
+                        
+                            Al fine di tutelare la salute pubblica, le Autorita' competenti di cui all'articolo 2, comma 1, tra le altre misure previste dagli articoli 137 e 138 del Regolamento, possono procedere ad una delle seguenti tipologie di sequestro o blocco ufficiale di attrezzature, locali, merci o animali: 
+ 
+                        
+                        
+                            a)
+                            
+                                sequestro amministrativo nei casi previsti dall'articolo 13 della legge n. 689 del 1981; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                sequestro penale nei casi di rilevazione di illeciti penali; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                blocco ufficiale ai sensi degli articoli 137 e 138 del Regolamento nei casi residuali.
+
 ## Art. 6. — Obblighi degli operatori
+
+1.
+                    
+                        
+                            Nei limiti di quanto necessario allo svolgimento dell'attivita' di controllo ufficiale e delle altre attivita' ufficiali, compresa l'attivita' di certificazione ufficiale, gli operatori dei settori di cui all'articolo 2, comma 1, assicurano alle autorita' competenti o, qualora individuati, agli organismi delegati o designati, l'accesso: 
+ 
+                        
+                        
+                            a)
+                            
+                                alle attrezzature, ai mezzi di trasporto, ai locali e agli altri luoghi sotto il loro controllo e relative adiacenze; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                ai propri sistemi informatici di trattamento delle informazioni; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                agli animali e alle merci sotto il loro controllo; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                ai propri documenti, anche informatizzati, e a tutte le altre informazioni pertinenti.
+
+2.
+                    
+                        
+                            Ove non sia necessario il riconoscimento ai sensi della normativa di settore, gli operatori dei settori di cui all'articolo 2, comma 1, prima dell'avvio delle attivita' procedono ad effettuare la notifica all'Autorita' competente comunicando almeno: 
+ 
+                        
+                        
+                            a)
+                            
+                                nome, denominazione sociale e forma giuridica; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                descrizione delle specifiche attivita' svolte, comprese quelle effettuate mediante tecniche di comunicazione a distanza; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                l'indirizzo del luogo di svolgimento dell'attivita', ove effettuata in sede fissa.
 
 L'Autorita' competente stabilisce inoltre i casi in cui per l'avvio delle attivita' e' necessaria la presentazione di ulteriore documentazione e i casi di esclusione dall'obbligo della notifica allorquando l'operatore e' gia' registrato in altri elenchi.
 
@@ -128,7 +313,65 @@ L'ISS procede alla ripetizione dell'analisi, anche avvalendosi, laddove lo riten
 
 L'Istituto superiore di sanita', entro sessanta giorni dal ricevimento dell'istanza, notifica all'operatore gli esiti della ripetizione dell'analisi prova o diagnosi effettuata in sede di controversia con le modalita' stabilite agli articoli 137 e seguenti del c.p.c.. Gli esiti vengono comunicati anche all'Autorita' competente che ha disposto il campionamento per l'adozione di eventuali ulteriori provvedimenti e al laboratorio ufficiale che ha eseguito la prima analisi, prova o diagnosi.
 
+5.
+                    
+                        
+                            Nei settori di cui all'articolo 2, comma 1, le procedure di controversia contenute nel presente articolo sostituiscono: 
+ 
+                        
+                        
+                            a)
+                            
+                                quelle stabilite dall'articolo 15 della legge 24 novembre 1981, n. 689, ivi compresa la revisione d'analisi; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                
+                                    ((LETTERA ABROGATA DAL D.L. 22 MARZO 2021, N. 42, CONVERTITO CON MODIFICAZIONI DALLA L. 21 MAGGIO 2021, N. 71)).
+
 ## Art. 9. — Laboratori ufficiali
+
+1.
+                    
+                        
+                            Ai sensi dell'articolo 37 del Regolamento sono individuati, nei settori di competenza del Ministero della salute di cui all'articolo 2, comma 1, i seguenti laboratori ufficiali: 
+ 
+                        
+                        
+                            a)
+                            
+                                l'Istituto superiore di sanita' (ISS); 
+
+                            
+                        
+                        
+                            b)
+                            
+                                gli Istituti zooprofilattici sperimentali (IIZZSS); 
+
+                            
+                        
+                        
+                            c)
+                            
+                                i Laboratori di sanita' pubblica delle unita' sanitarie locali; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                i Laboratori delle agenzie per la protezione dell'ambiente (ARPA); 
+
+                            
+                        
+                        
+                            e)
+                            
+                                i Laboratori designati quali laboratori nazionali di riferimento (LNR).
 
 I Laboratori di cui al comma 1 operano in rete.
 
@@ -193,8 +436,187 @@ Con decreto del Ministro della salute, previa intesa della Conferenza permanente
 
 ## Art. 15. — Modifiche al decreto legislativo 16 marzo 2006, n. 158
 
+1.
+                    
+                        
+                            Al decreto legislativo 16 marzo 2006, n. 158, sono apportate le seguenti modifiche: 
+ 
+                        
+                        
+                            a)
+                            
+                                il comma 2 dell'articolo 1 e' sostituito dal seguente: «2. Ai fini del presente decreto si applicano le definizioni previste dal regolamento (CE) n. 178/2002, dal regolamento (CE) n. 852/2004, dal regolamento (CE) n. 853/2004, dal decreto legislativo 6 aprile 2006, n. 193, dal regolamento (UE) 2016/429, dal regolamento (UE) 2017/625, dal regolamento (UE) 2019/6, dal regolamento (UE) 2019/2090. Nel presente decreto, qualsiasi riferimento al termine «azienda», deve intendersi riferito al termine: «stabilimento» di cui al regolamento (UE) 2016/429 e «tempo di sospensione» deve intendersi riferito al termine: «tempo di attesa» di cui al decreto legislativo 6 aprile 2006, n. 193.»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                all'articolo 1, comma 3, le lettere a), c), d), g), h), i), l), m), n), o), q) sono abrogate; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                all'articolo 4, i commi 3 e 4 sono sostituiti dai seguenti: 
+ «3. I trattamenti di cui al comma 1, devono essere registrati entro 48 ore elettronicamente dal veterinario che ha in cura gli animali nella banca dati centrale, finalizzata a monitorare le confezioni dei medicinali all'interno del sistema distributivo, istituita ai sensi del decreto del Ministro della salute 15 luglio 2004, pubblicato nella Gazzetta Ufficiale n. 2 del 4 gennaio 2005, o annotati su un registro cartaceo tenuto nell'azienda vidimato dal servizio veterinario della azienda unita' sanitaria locale competente per territorio. In esso sono annotate le seguenti informazioni: 
+ a) numero e PIN della ricetta di riferimento; 
+ b) data di inizio e fine trattamento. 
+ 4. Il registro di cui al comma 3 deve essere conservato nell'azienda a cura del titolare, per almeno cinque anni e messo a disposizione dell'autorita' competente.»; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                all'articolo 5, il comma 4 e' sostituito dal seguente: «4.
+Fino al 28 gennaio 2022, in caso di allevamenti che non abbiano optato per il registro informatizzato, i trattamenti di cui al comma 1 e all'articolo 4, comma 1, devono essere comunicati entro tre giorni, dal veterinario che li effettua direttamente al servizio veterinario dell'azienda unita' sanitaria locale competente per territorio, con l'indicazione dell'ubicazione dell'azienda, del detentore degli animali, del numero identificativo degli animali sottoposti a trattamento, del medicinale veterinario impiegato e del relativo tempo di attesa, della data e del tipo di intervento eseguito.»; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                all'articolo 11, al comma 1, le parole «e degli articoli 12 e 13» sono sostituite dalle seguenti: «, dell'articolo 12 e degli allegati al presente decreto.»; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                all'articolo 12, comma 2, la lettera d) e' sostituita dalla seguente: «d) trasmette annualmente alla Commissione europea e ad EFSA, secondo le procedure condivise in ambito europeo e indicate dalla Commissione europea, il Piano per l'anno in corso e i risultati del Piano dell'anno precedente.»; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                gli articoli 13, 16, 17, 18, 19, 21, 22, 23, 24, 25, 26, 27, 28, 30, 31, 33, 34 e 35 sono abrogati; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                l'articolo 14 e' sostituito dal seguente: 
+ «Art. 14 (Obblighi per gli operatori). - 1. Il titolare dell'azienda di cui all'articolo 1, comma 2, se non gia' registrato presso il servizio veterinario dell'azienda unita' sanitaria locale competente per territorio ai sensi delle normative vigenti, deve chiedere la registrazione presso il predetto servizio. 
+ 2. Il responsabile delle aziende e degli stabilimenti puo' commercializzare soltanto: 
+ a) animali ai quali non siano stati somministrati sostanze o prodotti non autorizzati, ovvero che non siano stati oggetto di un trattamento illecito; 
+ b) animali per i quali, in caso di somministrazione di sostanze o prodotti autorizzati, sia stato rispettato il periodo di attesa prescritto. Nell'ipotesi di mancato rispetto del periodo di attesa prescritto e' consentito l'esclusivo invio degli animali verso altri allevamenti; 
+ c) prodotti provenienti dagli animali di cui alle lettere a) e b).»; 
+
+                            
+                        
+                        
+                            i)
+                            
+                                l'articolo 15 e' sostituito dal seguente: 
+ «Art. 15 (Registrazioni da effettuare a cura dei veterinari e degli allevatori). - 1. La data, la natura dei trattamenti terapeutici prescritti o eseguiti, l'identificazione degli animali trattati, comprensiva della categoria, definita dai sistemi informativi ministeriali e i tempi di attesa corrispondenti devono essere registrati entro 48 ore elettronicamente dal veterinario che ha in cura gli animali nella banca dati centrale finalizzata a monitorare le confezioni dei medicinali all'interno del sistema distributivo, istituita ai sensi del decreto del Ministro della salute 15 luglio 2004 o, fino al 28 gennaio 2022, annotati, al momento dell'emissione della prescrizione o dell'autorizzazione all'utilizzo, su un registro cartaceo, diverso da quello dall'articolo 4, comma 3, tenuto nell'azienda, vidimato dal servizio veterinario della azienda unita' sanitaria locale competente per territorio, in cui riportare numero e PIN della ricetta di riferimento e, in aggiunta, la natura dei trattamenti e l'identificazione degli animali sottoposti a trattamento, comprensiva della categoria, qualora le stesse informazioni non siano desumibili dalla prescrizione. 
+ 2. L'allevatore registra elettronicamente nella banca dati centrale, finalizzata a monitorare le confezioni dei medicinali all'interno del sistema distributivo, istituita ai sensi del citato decreto del Ministro della salute 15 luglio 2004 o, fino al 28 gennaio 2022, annota su registro cartaceo di cui al comma 1, la data di inizio e di fine trattamento entro le 48 ore dall'inizio e dalla fine del trattamento e l'identificazione degli animali, comprensiva della categoria, effettivamente sottoposti a trattamento. 
+ 3. Il registro di cui ai commi 1 e 2 puo' coincidere con il registro previsto dall'articolo 79 del decreto legislativo 6 aprile 2006, n. 193. In caso di annotazione cartacea il registro deve essere vidimato dall'autorita' competente e detenuto in azienda e conservato, a cura del titolare della stessa, almeno per cinque anni. 
+ 4. Il veterinario della azienda sanitaria locale competente, nel corso del controllo ufficiale sugli allevamenti, controlla la corretta effettuazione dei trattamenti previsti dal presente decreto inserendo nei registri la data e ora del controllo delle verifiche effettuate. 
+ 5. Gli allevatori ed i veterinari che hanno in cura gli animali sono tenuti a fornire all'autorita' competente, su sua richiesta, ogni informazione relativa al rispetto delle norme di cui al presente decreto. 
+ 6. Per gli animali introdotti negli stabilimenti di macellazione, pubblici e privati, a scopo di macellazione, devono essere assicurati gli obblighi inerenti l'identificazione e la registrazione, con la compilazione della dichiarazione di provenienza e destinazione degli animali (modello 4) di cui al decreto del Presidente della Repubblica 30 aprile 1996, n. 317, secondo le modalita' previste dal decreto del Ministro della salute 28 giugno 2016, pubblicato nella Gazzetta Ufficiale n. 205 del 2 settembre 2016, contenente le seguenti indicazioni: 
+ a) numero, specie e categoria degli animali; 
+ b) ubicazione dell'allevamento di provenienza; 
+ c) che gli animali non sono stati trattati o alimentati con sostanze di cui e' vietato l'impiego; 
+ d) eventuali trattamenti effettuati sugli animali, nei novanta giorni precedenti l'avvio alla macellazione, con le sostanze di cui agli articoli 4 e 5, nonche' con alimenti medicamentosi e specialita' medicinali; 
+ e) che sono stati osservati i previsti periodi di attesa per i trattamenti con i prodotti di cui alla lettera d)»; 
+
+                            
+                        
+                        
+                            l)
+                            
+                                all'articolo 20: 
+ 1. il comma 1, e' sostituito dal seguente: «1. Tutti i campioni sono prelevati e analizzati conformemente al regolamento (UE) 2017/625, alle decisioni 1998/179/CE, 97/747/CE, 2002/657/CE della Commissione e agli allegati del presente decreto. I campioni devono essere analizzati dagli Istituti zooprofilattici sperimentali, o, in casi particolari, da altri laboratori eventualmente individuati dal Ministero.»; 
+ 2. i commi 2, 3, 4 sono abrogati; 
+
+                            
+                        
+                        
+                            m)
+                            
+                                all'articolo 29 sono abrogati: le lettere b) e c) del comma 1 e il comma 2; 
+
+                            
+                        
+                        
+                            n)
+                            
+                                all'articolo 32: 
+ 1) il comma 1 e' sostituito dal seguente: «1. Chiunque viola le disposizioni di cui agli articoli 2, 3, comma 1, 4, commi 5 e 6, 5, commi 3 e 5, 7, comma 3, 10, 14, comma 2, e' punito con la sanzione amministrativa pecuniaria da 10.329 euro a 61.974 euro.»; 
+ 2) il comma 3 e' sostituito dal seguente: «3. Salvo che il fatto costituisca reato, chiunque viola le disposizioni di cui agli articoli 3, comma 2, 7, comma 2 e 14, comma 1, e' punito con la sanzione amministrativa pecuniaria da 5.164 euro a 30.987 euro.»; 
+ 3) il comma 4 e' sostituito dal seguente; «4. Salvo che il fatto costituisca reato, chiunque viola le disposizioni di cui agli articoli 4, commi 3 e 4, 5, comma 4, 8, comma 1, 15, commi 1, 3 e 6, e' punito con la sanzione amministrativa pecuniaria da 2.037 euro a 12.394 euro.»; 
+ 4) dopo il comma 4 e' inserito il seguente: «4-bis. Salvo che il fatto costituisca reato, chiunque viola le disposizioni di cui all'articolo 15, comma 2 e' punito con la sanzione amministrativa pecuniaria da 150 euro a 600 euro.».
+
 ## Art. 16. — Disposizioni in materia di macellazione 
  per il consumo domestico privato
+
+1.
+                    
+                        
+                            Al fine di consentire il mantenimento a livello nazionale di metodi e consumi tradizionali, e' consentita la macellazione per autoconsumo al di fuori di stabilimenti registrati o riconosciuti. Le regioni disciplinano la pratica della macellazione per autoconsumo, nel rispetto dei seguenti principi: 
+ 
+                        
+                        
+                            a)
+                            
+                                divieto di commercializzazione delle carni e dei prodotti ottenuti dalla macellazione degli animali; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                rispetto del benessere animale e divieto di macellazione rituale che non preveda lo stordimento degli animali; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                predisposizione di procedure regionali per la prevenzione delle zoonosi; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                possibilita', da parte dei Servizi veterinari dell'ASL, di effettuare controlli a campione per verificare il rispetto delle condizioni di salute degli animali, di benessere animale, di igiene della macellazione e di corretto smaltimento dei sottoprodotti.
+
+2.
+                    
+                        
+                            Le specie animali oggetto di macellazione per autoconsumo sono esclusivamente le seguenti: 
+ 
+                        
+                        
+                            a)
+                            
+                                pollame, lagomorfi e piccola selvaggina allevata; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                ovini e caprini; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                suidi; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                bovidi.
 
 I privati che intendono macellare o far macellare ai sensi del presente articolo devono comunicare all'autorita' competente locale il luogo e la data della macellazione. L'attuazione delle disposizioni di cui al presente articolo non determinano nuovi ne' maggiori oneri a carico della finanza pubblica trattandosi di spese che sono a carico degli operatori privati.
 
@@ -203,6 +625,167 @@ I privati che intendono macellare o far macellare ai sensi del presente articolo
 Gli operatori del settore alimentare notificano al momento dell'immissione in commercio al Ministero della salute gli alimenti addizionati di vitamine e minerali, come definiti dal regolamento (CE) 1925/2006, secondo le procedure di notifica previste dal Ministero della salute.
 
 ## Art. 18. — Abrogazioni
+
+1.
+                    
+                        
+                            Sono abrogati i seguenti provvedimenti: 
+ 
+                        
+                        
+                            a)
+                            
+                                
+                                    regio decreto 20 dicembre 1928, n. 3298, recante approvazione del regolamento per la vigilanza sanitaria delle carni; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                
+                                    legge 30 aprile 1962, n. 283, recante modifica degli articoli 242, 243, 247, 250 e 262 del testo unico delle leggi sanitarie, approvato con regio decreto 27 luglio 1934, n. 1265: disciplina igienica della produzione e della vendita delle sostanze alimentari e delle bevande, fatte salve le disposizioni ((di cui agli articoli 5, 6, 7, 8, 9, 10, 11, 12, 12-bis, 13, 17, 18, 19 e 22)); 
+
+                            
+                        
+                        
+                            c)
+                            
+                                
+                                    legge 26 febbraio 1963, n. 441, recante modifiche ed integrazioni alla legge n. 283 del 1962, ((fatte salve le disposizioni di cui agli articoli 3, 4, 5, 6, 7, 8, 9, 10 e 12)); 
+
+                            
+                        
+                        
+                            d)
+                            
+                                
+                                    decreto del Presidente della Repubblica 26 marzo 1980, n. 327, recante regolamento di esecuzione della legge 30 aprile 1962, n. 283, e successive modificazioni, in materia di disciplina igienica della produzione e della vendita delle sostanze alimentari e delle bevande ((, fatta salva l'applicazione delle disposizioni di esecuzione degli articoli 5, 6, 7, 8, 9, 10, 11, 12, 12-bis, 13, 17, 18, 19 e 22 della legge 30 aprile 1962, n. 283, e successive modificazioni)); 
+
+                            
+                        
+                        
+                            e)
+                            
+                                
+                                    decreto legislativo 27 gennaio 1992, n. 110, recante attuazione della direttiva 89/108/CEE in materia di alimenti surgelati destinati all'alimentazione umana, limitatamente all'articolo 10 recante importazione alimenti surgelati provenienti da Paesi non appartenenti alla CEE; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                decreto Presidente della Repubblica 14 luglio 1995, recante atto di indirizzo e coordinamento alle regioni e province autonome sui criteri uniformi per l'elaborazione dei programmi di controllo ufficiale degli alimenti e bevande; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                
+                                    decreto del Ministro della sanita' 12 gennaio 1996, n. 119, recante regolamento concernente l'impiego di sale alimentare nelle paste alimentari fresche e secche e nelle paste alimentari speciali con o senza ripieno; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                
+                                    articolo 8 del decreto-legge 18 giugno 1986, n. 282, convertito, con modificazioni, dalla legge 7 agosto 1986, n. 462, recante misure urgenti in materia di prevenzione e repressione delle sofisticazioni alimentari; 
+
+                            
+                        
+                        
+                            i)
+                            
+                                
+                                    decreto legislativo 3 marzo 1993, n. 123, recante attuazione della direttiva 89/397/CEE relativa al controllo ufficiale dei prodotti alimentari; 
+
+                            
+                        
+                        
+                            l)
+                            
+                                
+                                    articolo 8, comma 16-quater del decreto-legge 13 settembre 2012, n. 158, convertito, con modificazioni, dalla legge 8 novembre 2012, n. 189, recante disposizioni urgenti per promuovere lo sviluppo del Paese mediante un piu' alto livello di tutela della salute; 
+
+                            
+                        
+                        
+                            m)
+                            
+                                
+                                    decreto legislativo 26 maggio 1997, n. 156, recante attuazione della direttiva 93/99/CEE, concernente misure supplementari in merito al controllo ufficiale dei prodotti alimentari; 
+
+                            
+                        
+                        
+                            n)
+                            
+                                
+                                    decreto legislativo 13 aprile 1999, n. 123, recante attuazione della direttiva 95/69/CE che fissa le condizioni e le modalita' per il riconoscimento e la registrazione di taluni stabilimenti e intermediari operanti nel settore dell'alimentazione degli animali; 
+
+                            
+                        
+                        
+                            o)
+                            
+                                
+                                    decreto del Presidente della Repubblica 2 novembre 2001, n. 433, recante regolamento di attuazione delle direttive 96/51/CE, 98/51/CE, 1999/20/CE in materia di additivi nell'alimentazione degli animali; 
+
+                            
+                        
+                        
+                            p)
+                            
+                                
+                                    decreto legislativo 24 febbraio 1997, n. 45, recante attuazione delle direttive 93/74/CEE, 94/39/CE, 95/9/CE e 95/10/CE in materia di alimenti dietetici per animali, limitatamente agli articoli 1, 2, 3, comma 1, lettere a) e b), comma 2 e commi 3, 4, 5, 6 e all'allegato II; 
+
+                            
+                        
+                        
+                            q)
+                            
+                                
+                                    decreto del Presidente della Repubblica 10 febbraio 1998, n. 214, recante regolamento recante norme di attuazione della direttiva 93/113/CE relativa alla utilizzazione ed alla commercializzazione degli enzimi, dei microrganismi e di loro preparati nell'alimentazione degli animali; 
+
+                            
+                        
+                        
+                            r)
+                            
+                                decreto del Capo del Governo del 20 maggio 1928, recante norme obbligatorie per l'attuazione della legge 23 marzo 1928, n. 858, contenente disposizioni per la lotta contro le mosche; 
+
+                            
+                        
+                        
+                            s)
+                            
+                                
+                                    decreto del Ministro della sanita' del 19 giugno 2000, n. 303, recante regolamento di attuazione della direttiva 96/93/CE relativa alla certificazione di animali e di prodotti di origine animale; 
+
+                            
+                        
+                        
+                            t)
+                            
+                                
+                                    articoli 5, 6, 7, 9 e 10, comma 5, decreto legislativo del 17 giugno 2003, n. 223, recante attuazione delle direttive 2000/77/CE e 2001/46/CE relative all'organizzazione dei controlli ufficiali nel settore dell'alimentazione animale; 
+
+                            
+                        
+                        
+                            u)
+                            
+                                decreto del Ministro per l'industria, il commercio e l'artigianato 3 febbraio 1977, recante regolamento di esecuzione relativo alle varie fasi di conservazione e di commercializzazione delle carni congelate, emanato ai sensi dell'art. 2 del decreto-legge 17 gennaio 1977, n. 3; 
+
+                            
+                        
+                        
+                            v)
+                            
+                                
+                                    regio decreto 9 maggio 1929, n. 994, recante approvazione del regolamento sulla vigilanza igienica del latte destinato al consumo diretto.
 
 ## Art. 19. — Clausola di invarianza finanziaria
 

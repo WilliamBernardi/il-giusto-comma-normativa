@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Regolamenti governativi
 vigenza_date: 2024-07-05
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:15Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -30,6 +30,124 @@ Sulla proposta del Ministro dell'istruzione, dell'universita' e della ricerca;
 
 ## Art. 1. — Definizioni
 
+1.
+                        
+                            
+                                Ai sensi del presente regolamento si intende: 
+ 
+                            
+                            
+                                a)
+                                
+                                    per Ministro o Ministero: il Ministro o il Ministero ((...)) dell'universita' e della ricerca; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    per istituzioni: le Accademie di belle arti, ((...)) l'Accademia nazionale di arte drammatica, gli Istituti superiori per le industrie artistiche ((e gli Istituti superiori di studi musicali e coreutici)); 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    per CNAM: il Consiglio nazionale per l'Alta formazione artistica e musicale; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    per ANVUR: l'Agenzia Nazionale di Valutazione del Sistema Universitario e della Ricerca;
+                                
+                            
+                            
+                                e)
+                                
+                                    per sistema: il sistema dell'Alta formazione e specializzazione artistica e musicale; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    per legge: la legge 21 dicembre 1999, n. 508, modificata dal decreto-legge 25 settembre 2002, n. 212, convertito, con modificazioni, dalla legge 22 novembre 2002, n. 268; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    per regolamento didattico generale: il regolamento adottato da ciascuna istituzione concernente la disciplina degli aspetti generali di organizzazione dell'attivita' didattica comuni ai corsi di studio;
+                                
+                            
+                            
+                                g-bis)
+                                
+                                    per regolamenti dei corsi: i regolamenti adottati da ciascuna istituzione concernenti l'ordinamento dei singoli corsi di studio;
+                                
+                            
+                            
+                                h)
+                                
+                                    per corsi: i corsi di diploma accademico di primo livello, di diploma accademico di secondo livello, di diploma accademico di secondo livello a ciclo unico, i corsi di specializzazione, i corsi di dottorato di ricerca, i corsi di perfezionamento e i master;
+                                
+                            
+                            
+                                i)
+                                
+                                    per titoli: il diploma accademico di primo livello, il diploma accademico di secondo livello, il diploma accademico di specializzazione, i diplomi accademici di ((dottorato di ricerca)) in campo artistico, musicale, coreutico, drammatico e del design ed il diploma di perfezionamento o master; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    per scuola: l'insieme dei corsi di studio comunque denominati, raggruppati per materie omogenee; 
+
+                                
+                            
+                            
+                                m)
+                                
+                                    per dipartimento: la struttura di coordinamento delle attivita' didattiche e di ricerca dei corsi e delle eventuali scuole ad esso afferenti;
+                                
+                            
+                            
+                                n)
+                                
+                                    per credito formativo accademico: la misura del volume di lavoro di apprendimento, compreso lo studio individuale, richiesto ad uno studente in possesso di adeguata preparazione iniziale per l'acquisizione di conoscenze ed abilita' nelle attivita' formative previste dagli ordinamenti didattici dei corsi di studio; 
+
+                                
+                            
+                            
+                                o)
+                                
+                                    per obiettivi formativi: l'insieme di conoscenze e abilita' che caratterizzano il profilo culturale e professionale, al conseguimento delle quali il corso di studio e' finalizzato; 
+
+                                
+                            
+                            
+                                p)
+                                
+                                    per attivita' formativa: ogni attivita' organizzata o prevista dalle istituzioni, al fine di assicurare la formazione culturale e professionale degli studenti, con riferimento, tra l'altro, ai corsi di insegnamento, ai seminari, alle esercitazioni pratiche o di laboratorio, alle attivita' didattiche di gruppo, al tutorato, all'orientamento, ai tirocini, ai progetti, alle tesi, alle attivita' di studio individuale e di autoapprendimento; 
+
+                                
+                            
+                            
+                                q)
+                                
+                                    per curriculum: l'insieme delle attivita' formative specificate nel regolamento didattico del corso di studio di riferimento, finalizzato al conseguimento del relativo titolo; 
+
+                                
+                            
+                            
+                                r)
+                                
+                                    per ordinamento didattico di un corso di studio: l'insieme delle norme che regolano i curricula del corso di studio.
+
 ## - Capo II ORDINAMENTI DIDATTICI
 
 ## Art. 2. — Finalita'
@@ -39,6 +157,46 @@ Le disposizioni del presente capo determinano i criteri generali per 1'ordinamen
 Ai fini della realizzazione dell'autonomia didattica, le istituzioni disciplinano con i regolamenti di cui all'articolo 10, gli ordinamenti dei corsi di studio in conformita' alle disposizioni della legge, del presente regolamento, dei conseguenti decreti ministeriali e degli statuti.
 
 ## Art. 3. — Titoli e corsi
+
+1.
+                        
+                            
+                                Le istituzioni rilasciano i seguenti titoli: 
+ 
+                            
+                            
+                                a)
+                                
+                                    diploma accademico di primo livello, conseguito al termine del corso di diploma accademico di primo livello; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    diploma accademico di secondo livello, conseguito al termine del corso di diploma accademico di secondo livello ((o del corso di diploma accademico di secondo livello a ciclo unico)); 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    diploma accademico di specializzazione, conseguito al termine del corso di specializzazione; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    
+                                        ((diploma accademico di dottorato di ricerca,)) conseguito al termine del ((corso di dottorato di ricerca)) nel campo corrispondente; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    diploma di perfezionamento o master, conseguito al termine del corso di perfezionamento ((o del corso di master)).
 
 ((
 
@@ -164,6 +322,49 @@ Per ogni corso e' definita una durata in anni, proporzionale al numero totale di
 
 ## Art. 9. — Obiettivi e attivita' formative qualificanti dei corsi
 
+1.
+                        
+                            
+                                Con decreto del Ministro, sentito il CNAM, e' individuato il 60 per cento dei crediti formativi necessari per ciascun corso, conseguiti nelle attivita' formative raggruppate nelle seguenti tipologie:
+ 
+                            
+                            
+                                a)
+                                
+                                    attivita' formative relative alla formazione di base;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    attivita' formative caratterizzanti la scuola e il livello del corso.
+
+2.
+                        
+                            
+                                Oltre alle attivita' di cui al comma 1, i corsi prevedono:
+ 
+                            
+                            
+                                a)
+                                
+                                    attivita' formative relative alla preparazione della prova finale per il conseguimento del titolo e, con riferimento al diploma accademico, alla verifica della conoscenza della lingua straniera;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    attivita' formative ulteriori, volte ad acquisire conoscenze linguistiche, nonche' abilita' informatiche e telematiche, relazionali o comunque utili per l'inserimento nel mondo del lavoro, nonche' attivita' formative volte ad agevolare le scelte professionali, mediante la conoscenza diretta del settore lavorativo cui il titolo di studio puo' dare accesso, tra cui, in particolare, i tirocini formativi e di orientamento;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    attivita' formative in uno o piu' ambiti disciplinari affini o integrativi a quelli di base e caratterizzanti, anche con riguardo alle culture di contesto e alla formazione interdisciplinare.
+
 Le attivita' formative comprendono, ove ad esse correlate, attivita' di laboratorio e di produzione artistica.
 
 Con il medesimo decreto e', altresi', determinato il numero dei crediti riservati ad attivita' autonomamente scelte dallo studente, comunque non inferiore al 5 per cento e non superiore al 15 per cento.
@@ -173,6 +374,182 @@ Con il medesimo decreto e', altresi', determinato il numero dei crediti riservat
 ((
 
 Con regolamenti delle istituzioni, redatti nel rispetto delle disposizioni del presente regolamento e dei relativi decreti attuativi, sono disciplinati gli ordinamenti didattici.
+
+2.
+                        
+                            
+                                Il regolamento didattico generale e' redatto in conformita' allo statuto dell'istituzione ed e' approvato dal Ministero. Il regolamento di cui al presente comma disciplina gli aspetti generali di organizzazione dell'attivita' didattica dei corsi, con particolare riferimento: 
+ 
+                            
+                            
+                                a)
+                                
+                                    agli obiettivi, ai tempi e ai modi con cui i competenti organi provvedono collegialmente alla programmazione, al coordinamento e alla verifica dei risultati delle attivita' formative; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    alle procedure di attribuzione dei compiti didattici annuali, ivi comprese le attivita' didattiche integrative, di orientamento e di tutorato nel rispetto delle norme contrattuali vigenti; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    alle procedure per lo svolgimento degli esami e delle altre verifiche di profitto, nonche' della prova finale per il conseguimento del titolo di studio; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    alle modalita' con cui si perviene alla valutazione del profitto individuale dello studente, che deve comunque essere espressa mediante una votazione in trentesimi per gli esami e in centodecimi per la prova finale, con eventuale lode; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    alla valutazione della preparazione iniziale degli studenti che accedono ai corsi di diploma accademico; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    ai criteri di ammissione e di frequenza ai corsi degli studenti di cui all'articolo 7, comma 2; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    all'organizzazione di attivita' formative propedeutiche alla valutazione della preparazione iniziale degli studenti che accedono ai corsi di diploma, nonche' di quelle relative agli obblighi formativi aggiuntivi di cui all'articolo 7, comma 2; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    ad un apposito servizio istituito per il coordinamento delle attivita' di orientamento, da svolgere in collaborazione con gli istituti d'istruzione secondaria superiore, nonche', in ogni corso di studio, di un servizio di tutorato per gli studenti; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    all'eventuale introduzione di apposite modalita' organizzative delle attivita' formative per studenti a tempo parziale; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    alle modalita' di individuazione, per ciascuna attivita', della struttura o del soggetto responsabili; 
+
+                                
+                            
+                            
+                                m)
+                                
+                                    alla valutazione della qualita' della didattica; 
+
+                                
+                            
+                            
+                                n)
+                                
+                                    alle forme di pubblicita' dei procedimenti e delle decisioni assunte; 
+
+                                
+                            
+                            
+                                o)
+                                
+                                    alle modalita' per il rilascio dei titoli conseguiti ai sensi dell'articolo 3, comma 8; 
+
+                                
+                            
+                            
+                                p)
+                                
+                                    al numero dei rappresentanti degli studenti nei dipartimenti, e nelle scuole se costituite, e alle relative modalita' di elezione, anche sulla base del regolamento della Consulta degli studenti; 
+
+                                
+                            
+                            
+                                q)
+                                
+                                    al numero di crediti formativi richiesto per l'iscrizione a tempo parziale degli studenti, in numero non inferiore a venti e non superiore a quaranta.
+
+3.
+                        
+                            
+                                I regolamenti dei corsi, proposti dalle competenti strutture didattiche sulla base di uno schema-tipo di regolamento definito dal consiglio accademico e nel rispetto delle disposizioni del regolamento didattico generale, sono approvati dal consiglio accademico, acquisito il parere vincolante del consiglio di amministrazione per i profili di sostenibilita' finanziaria. I regolamenti dei corsi disciplinano la funzionalita' dei singoli corsi di studio, con riferimento ai seguenti aspetti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    le denominazioni e gli obiettivi formativi dei singoli corsi, con indicazione dei dipartimenti e, se costituite, delle scuole di afferenza; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il quadro generale delle attivita' formative da inserire nei curricula; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    i crediti assegnati a ciascuna attivita' formativa; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    le modalita' della prova finale per il conseguimento del titolo; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    l'elenco degli insegnamenti dei corsi e dell'eventuale articolazione in moduli, nonche' delle altre attivita' formative; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    gli obiettivi formativi specifici, i crediti e le eventuali propedeuticita' di ogni insegnamento e di ogni altra attivita' formativa; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    i curricula offerti agli studenti e le regole di presentazione, ove necessario, dei piani di studio individuali; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    la tipologia delle forme didattiche, degli esami e delle altre verifiche del profitto degli studenti; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    le disposizioni sugli obblighi di frequenza in misura, comunque, non inferiore al 50 per cento per ciascuna attivita' formativa, con esclusione dello studio individuale, con facolta' di incrementare tale percentuale.
 
 I regolamenti di cui ai commi 2 e 3 sono adottati con decreto del direttore dell'istituzione e resi pubblici mediante pubblicazione sul sito istituzionale dell'istituzione medesima.
 

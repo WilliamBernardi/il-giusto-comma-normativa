@@ -8,8 +8,8 @@ vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
 vigenza_date: 2026-04-21
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:33Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -32,11 +32,68 @@ per concorso))
 
 Al fine di elevare la qualificazione professionale dei docenti delle scuole secondarie basandola su un modello formativo strutturato e raccordato tra le universita', le istituzioni dell'alta formazione artistica, musicale e coreutica (AFAM) e le scuole, idoneo a sviluppare coerentemente le competenze necessarie per l'esercizio della professione di insegnante, nonche' per dare attuazione alla riforma della formazione dei docenti prevista nel Piano nazionale di ripresa e resilienza, e' introdotto un percorso universitario e accademico di formazione iniziale e abilitazione dei docenti di posto comune, compresi gli insegnanti tecnico-pratici, delle scuole secondarie di primo e secondo grado.
 
+2.
+                        
+                            
+                                Il percorso di formazione iniziale, selezione e prova, in particolare, ha l'obiettivo di sviluppare e di accertare nei futuri docenti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    le competenze culturali, disciplinari, pedagogiche, psicopedagogiche, didattiche e metodologiche, specie quelle dell'inclusione e della partecipazione degli studenti, rispetto ai nuclei basilari dei saperi e ai traguardi di competenza fissati per gli studenti; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le competenze proprie della professione di docente, in particolare pedagogiche, psicopedagogiche, relazionali, orientative, valutative, organizzative, didattiche e tecnologiche, integrate in modo equilibrato con i saperi disciplinari nonche' con le competenze giuridiche, in specie relative alla legislazione scolastica; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    la capacita' di progettare, anche tramite attivita' di programmazione di gruppo e tutoraggio tra pari, percorsi didattici flessibili e adeguati alle capacita' e ai talenti degli studenti da promuovere nel contesto scolastico, in sinergia con il territorio e la comunita' educante, al fine di favorire l'apprendimento critico e consapevole, l'orientamento, nonche' l'acquisizione delle competenze trasversali da parte degli studenti, tenendo conto delle soggettivita' e dei bisogni educativi specifici di ciascuno di essi; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    la capacita' di svolgere con consapevolezza i compiti connessi con la funzione di docente e con l'organizzazione scolastica e la deontologia professionale.
+
 La formazione continua obbligatoria, al pari di quella continua incentivata di cui all'articolo 16-ter, dei docenti di ruolo prosegue e completa la loro formazione iniziale secondo un sistema integrato, coerente con le finalita' di innovazione del lavoro pubblico e coesione sociale, volto a metodologie didattiche innovative e a competenze linguistiche, digitali, pedagogiche e psicopedagogiche, nonche' a competenze volte a favorire la partecipazione degli studenti. Per la realizzazione di questo obiettivo la Scuola di alta formazione dell'istruzione di cui all'articolo 16-bis, in stretto raccordo con le istituzioni scolastiche, oltre a indirizzare lo sviluppo delle attivita' formative del personale scolastico, indica e aggiorna le esigenze della formazione iniziale degli insegnanti. ((Sono previste specifiche iniziative formative dedicate alle discipline scientifiche, tecnologiche, ingegneristiche e matematiche (STEM), nonche' alle competenze digitali e alle metodologie didattiche innovative)). Le iniziative formative di cui al presente comma si svolgono fuori dell'orario di insegnamento e sono definite, per i profili di competenza, dalla contrattazione collettiva, ferme restando l'autonomia organizzativa delle istituzioni scolastiche e le disposizioni del contratto collettivo nazionale.
 
 ## Art. 2. — (( (Sistema di formazione iniziale e accesso in ruolo).))
 
 ((
+
+1.
+                        
+                            
+                                Il sistema di formazione iniziale e di accesso in ruolo a tempo indeterminato si articola in: 
+ 
+                            
+                            
+                                a)
+                                
+                                    un percorso universitario e accademico abilitante di formazione iniziale corrispondente a non meno di 60 crediti formativi universitari o accademici, di seguito denominati CFU/CFA, nel quale sono acquisite dagli aspiranti docenti competenze di cui al Profilo conclusivo delle competenze professionali del docente abilitato, di cui al comma 6 dell'articolo 2-bis; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    un concorso pubblico nazionale, indetto su base regionale o interregionale; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    un periodo di prova in servizio di durata annuale con test finale e valutazione conclusiva.
 
 La formazione iniziale dei docenti e' progettata e realizzata in coordinamento con il Piano nazionale di formazione di cui all'articolo 1, comma 124, della legge 13 luglio 2015, n. 107, nonche' con la formazione continua incentivata di cui all'articolo 16-ter e consta di un percorso universitario e accademico specifico finalizzato all'acquisizione di elevate competenze linguistiche e digitali, nonche' di conoscenze e competenze teoriche e pratiche inerenti allo sviluppo e alla valorizzazione della professione del docente negli ambiti pedagogico, psicopedagogico, didattico, delle metodologie e tecnologie didattiche applicate alle discipline di riferimento e delle discipline volte a costruire una scuola di qualita' e improntata ai principi dell'inclusione e dell'eguaglianza, con particolare attenzione al benessere psicofisico ed educativo degli alunni con disabilita' e degli alunni con bisogni educativi speciali. I percorsi di formazione iniziale si concludono con una prova finale comprendente una prova scritta e una lezione simulata.
 La prova scritta di cui al secondo periodo e' costituita da un'analisi critica relativa al tirocinio scolastico effettuato durante il percorso di formazione iniziale. La selezione dei docenti di ruolo avviene sulla base di un concorso pubblico nazionale per la copertura dei posti vacanti e disponibili dell'organico dell'autonomia.
@@ -85,6 +142,31 @@ Con decreto del Ministero dell'istruzione, dell'universita' e della ricerca e' i
 Il concorso e' bandito, fermo restando il regime autorizzatorio previsto dall'articolo 39, comma 3, della legge 27 dicembre 1997, n. 449, con cadenza biennale, per la copertura dei posti della scuola secondaria che si prevede si rendano vacanti e disponibili nel primo e nel secondo anno scolastico successivi a quello in cui e' previsto l'espletamento delle prove concorsuali.
 
 Sulla base della graduatoria di merito i vincitori del concorso sono immessi in ruolo in due successivi scaglioni annuali, nel limite corrispondente ai posti che si prevede si rendano vacanti e disponibili rispettivamente nel primo e nel secondo anno scolastico successivi a quello in cui e' previsto l'espletamento delle prove concorsuali. Rimane fermo il diritto dei vincitori all'immissione in ruolo, ove occorra anche negli anni successivi.
+
+4.
+                        
+                            
+                                Nel bando di concorso sono previsti contingenti separati, in ciascuna sede concorsuale regionale o interregionale, per ognuna delle seguenti tipologie di posto e classi di concorso: 
+ 
+                            
+                            
+                                a)
+                                
+                                    posti relativi alle classi di concorso per la scuola secondaria di primo e secondo grado; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    posti relativi alle classi di concorso di insegnante tecnico-pratico per la scuola secondaria; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    posti di sostegno.
 
 I candidati indicano nella domanda di partecipazione in quale regione e per quali contingenti di posti intendono concorrere.
 Ciascun candidato puo' concorrere in una sola regione, per una sola classe di concorso, distintamente per la scuola secondaria di primo e di secondo grado, nonche' per il sostegno, qualora in possesso dei requisiti di accesso di cui all'articolo 5.
@@ -218,6 +300,39 @@ In caso di superamento del test finale e di valutazione finale positiva, il doce
 
 ## Art. 16-bis. — (Scuola di alta formazione dell'istruzione)
 
+1.
+                        
+                            
+                                
+                                    ((E')) istituita, presso il Ministero dell'istruzione e del merito, la Scuola di alta formazione dell'istruzione, di seguito denominata Scuola. La Scuola, che opera alle dirette dipendenze del Ministro dell'istruzione e del merito: 
+ 
+                            
+                            
+                                a)
+                                
+                                    promuove e coordina la formazione in servizio dei docenti di ruolo, in coerenza e continuita' con la formazione iniziale di cui all'articolo 2-bis, nel rispetto dei principi del pluralismo e dell'autonomia didattica del docente, garantendo elevati standard di qualita' uniformi su tutto il territorio nazionale; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    coordina e indirizza le attivita' formative dei dirigenti scolastici, dei direttori dei servizi amministrativi generali, del personale amministrativo, tecnico e ausiliario, garantendo elevati standard di qualita' uniformi su tutto il territorio nazionale; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    assolve alle funzioni correlate alla formazione continua degli insegnanti di cui all'articolo 16-ter; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    sostiene un'azione di costante relazione cooperativa e di coprogettazione con le istituzioni scolastiche per la promozione della partecipazione dei docenti alla formazione e alla ricerca educativa nelle medesime istituzioni.
+
 La Scuola si avvale, per lo svolgimento delle sue attivita' istituzionali, dell'Istituto nazionale di documentazione, innovazione e ricerca educativa (INDIRE) e dell'Istituto nazionale per la valutazione del sistema educativo di istruzione e di formazione (INVALSI) e si raccorda con gli uffici del Ministero dell'istruzione competenti in materia anche per la stipula, da parte del citato Ministero, delle convenzioni con le universita', con le istituzioni AFAM e con soggetti pubblici e privati, fornitori di servizi certificati di formazione.
 
 La Scuola e' composta dal Presidente, dal Comitato d'indirizzo e dal Comitato scientifico internazionale.
@@ -239,6 +354,31 @@ Per l'attuazione del presente articolo e' autorizzata la spesa di 2 milioni di e
 
 Nell'ambito dell'attuazione del Piano nazionale di ripresa e resilienza, con riferimento alle metodologie didattiche innovative e alle competenze linguistiche e digitali, e con l'obiettivo di consolidare e rafforzare l'autonomia delle istituzioni scolastiche, a decorrere dall'anno scolastico 2023/2024, fermo restando quanto previsto dall'articolo 1, comma 124, della legge 13 luglio 2015, n. 107, e dall'articolo 40 del decreto legislativo 30 marzo 2001, n. 165, in ordine alla formazione obbligatoria che ricomprende le competenze digitali e l'uso critico e responsabile degli strumenti digitali, anche con riferimento al benessere psicofisico degli allievi con disabilita' e ai bisogni educativi speciali, nonche' le pratiche di laboratorio e l'inclusione, e' introdotto un sistema di formazione e aggiornamento permanente delle figure di sistema di cui al comma 3 e dei docenti di ruolo, articolato in percorsi di durata almeno triennale. Per rafforzare tanto le conoscenze quanto le competenze applicative, sono parte integrante di detti percorsi di formazione anche attivita' di progettazione, tutoraggio, accompagnamento e guida allo sviluppo delle potenzialita' degli studenti, volte a favorire il raggiungimento di obiettivi scolastici specifici e attivita' di sperimentazione di nuove modalita' didattiche. Le modalita' di partecipazione alle attivita' formative dei percorsi, la loro durata e le eventuali ore aggiuntive sono definite dalla contrattazione collettiva. La partecipazione alle attivita' formative dei percorsi si svolge al di fuori dell'orario di insegnamento ed e' retribuita anche a valere sul fondo per il miglioramento dell'offerta formativa, fermo restando quanto disposto dall'articolo 1, comma 3, del presente decreto.
 
+2.
+                        
+                            
+                                Gli obiettivi formativi dei percorsi di cui al comma 1 sono definiti dalla Scuola, che ne coordina in raccordo con il Ministero dell'istruzione e del merito, la struttura con il supporto dell'INVALSI e dell'INDIRE nello svolgimento in particolare delle seguenti funzioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    definizione di orientamenti per l'accreditamento delle istituzioni deputate ad erogare la formazione di cui al presente articolo, ai fini dell'adozione della direttiva del Ministro dell'istruzione e del merito di cui al comma 8 ((,)) e verifica dei requisiti indicati dalla direttiva; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    adozione delle linee di indirizzo sui contenuti della formazione del personale scolastico in linea con gli standard europei; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    raccordo della formazione iniziale abilitante degli insegnanti con la formazione in servizio.
+
 Al fine di promuovere e sostenere processi di innovazione didattica e organizzativa della scuola, rafforzare l'autonomia scolastica e promuovere lo sviluppo delle figure professionali di supporto all'autonomia scolastica e al lavoro didattico e collegiale, la Scuola definisce altresi' specifici obiettivi dei programmi per percorsi di formazione in servizio strutturati secondo parametri volti a garantire lo sviluppo di professionalita' e competenze per attivita' di progettazione, tutoraggio, accompagnamento e guida allo sviluppo delle potenzialita' degli studenti, rivolti a docenti con incarichi di collaborazione a supporto del sistema organizzativo dell'istituzione scolastica e della dirigenza scolastica. La partecipazione ai percorsi di formazione avviene su base volontaria e puo' essere retribuita con emolumenti nell'ambito del fondo per il miglioramento dell'offerta formativa, prevedendo compensi in misura forfettaria secondo criteri definiti dalla contrattazione collettiva.
 Nell'ambito delle prerogative dei propri organi collegiali, ogni autonomia scolastica individua le figure necessarie ai bisogni di innovazione previsti nel Piano triennale dell'offerta formativa, nel Rapporto di autovalutazione e nel Piano di miglioramento della offerta formativa.
 
@@ -256,6 +396,33 @@ Il riconoscimento dell'elemento retributivo una tantum di carattere accessorio, 
 L'indennita' una tantum e' corrisposta nel limite di spesa di cui al presente comma, con riferimento all'anno di conseguimento della valutazione individuale positiva. Agli oneri derivanti dall'attuazione del presente comma si provvede, quanto a 10 milioni di euro nell'anno 2026, 52 milioni di euro nell'anno 2027, 118 milioni di euro nell'anno 2028, 184 milioni di euro nell'anno 2029, 250 milioni di euro nell'anno 2030 e 316 milioni di euro a decorrere dall'anno 2031, mediante adeguamento dell'organico dell'autonomia del personale docente conseguente all'andamento demografico, tenuto conto dei flussi migratori, effettuato a partire dall'anno scolastico 2026/2027 e fino all'anno scolastico 2031/2032, nell'ambito delle cessazioni annuali, con corrispondente riduzione degli stanziamenti di bilancio dei pertinenti capitoli relativi al personale cessato, e, quanto a 30 milioni di euro nell'anno 2026, 33 milioni di euro nell'anno 2027, 42 milioni di euro nell'anno 2028, 52 milioni di euro nell'anno 2029, 61 milioni di euro nell'anno 2030 e 71 milioni di euro a decorrere dall'anno 2031, mediante corrispondente riduzione del Fondo di cui all'articolo 1, comma 200, della legge 23 dicembre 2014, n. 190. In attuazione di quanto previsto dal periodo precedente le consistenze dell'organico dell'autonomia del personale docente, con esclusione dei docenti di sostegno, e' pari a 669.075 posti nell'anno scolastico 2026/2027, a 667.325 posti nell'anno scolastico 2027/2028, a 665.575 posti nell'anno scolastico 2028/2029, a 663.825 posti nell'anno scolastico 2029/2030, a 662.075 posti nell'anno scolastico 2030/2031 e a 660.325 posti dall'anno scolastico 2031/2032. In relazione all'adeguamento di cui al periodo precedente gli Uffici scolastici regionali comunicano a ciascuna istituzione scolastica la consistenza dell'organico dell'autonomia. La definizione del contingente annuale di posti non facenti parte dell'organico dell'autonomia rimane finalizzata esclusivamente all'adeguamento alle situazioni di fatto, secondo i parametri della normativa vigente; non possono essere previsti incrementi per compensare l'adeguamento dei posti in applicazione della disposizione di cui al presente comma. Il Ministero dell'istruzione, per il tramite degli Uffici scolastici regionali, effettua, per ciascuna istituzione scolastica, un monitoraggio annuale dei posti non facenti parte dell'organico dell'autonomia anche al fine di valutare il rispetto del divieto di incremento di tali posti a compensazione della riduzione dei posti in applicazione della disposizione di cui al presente comma e ne trasmette gli esiti al Ministero dell'economia - Dipartimento della Ragioneria generale dello Stato ai fini dell'adozione del decreto di accertamento di cui al decimo periodo.
 Per eventuali straordinarie esigenze di compensazione della riduzione dei posti dell'organico dell'autonomia il dirigente scolastico presenta richiesta motivata all'Ufficio scolastico regionale che ne da' comunicazione al Ministero dell'istruzione ai fini del predetto monitoraggio. Le risorse del Fondo di cui al primo periodo sono rese disponibili e ripartite annualmente previa adozione del decreto di cui all'articolo 1, comma 335, della legge 30 dicembre 2021, n. 234, con il quale, tra l'altro, si accertano i risparmi realizzati in relazione all'adeguamento di organico effettuato in misura corrispondente alle cessazioni previste annualmente. Qualora, sulla base degli esiti del monitoraggio del Ministero dell'istruzione, emergano incrementi dei posti non facenti parte dell'organico dell'autonomia compensativi dell'adeguamento di cui al quarto periodo, l'adeguamento dell'organico dell'autonomia e' riferito, nella misura massima di cui al quarto periodo, al solo contingente del potenziamento e l'accertamento di cui al periodo precedente e' riferito ai soli risparmi realizzati a seguito dell'adeguamento dell'organico del potenziamento in misura corrispondente alle cessazioni annuali. La quota di posti non ridotta in ciascun anno scolastico incrementa l'adeguamento dell'organico del potenziamento dell'anno scolastico successivo e a tal fine il Fondo di cui al primo periodo e' incrementato in misura corrispondente. Il Ministro dell'economia e delle finanze e' autorizzato ad apportare le necessarie variazioni compensative tra il Fondo di cui al presente comma e i pertinenti capitoli stipendiali dello stato di previsione del Ministero dell'istruzione anche nel caso in cui non siano accertati i risparmi ai sensi del presente comma.
 
+6.
+                        
+                            
+                                All'articolo 1 della legge 30 dicembre 2021, n. 234, sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    al comma 335, lettera a), dopo la parola: 'titolo,' sono inserite le seguenti: 'distinto per posti comuni, posti del potenziamento e posti di sostegno,'; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    al comma 335, dopo la lettera b) e' aggiunta la seguente: 
+ 'b-bis) e' rilevato il numero di classi in deroga attivate ai sensi del comma 344, distinte per ordine di scuola e grado di istruzione'; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    dopo il comma 335 e' inserito il seguente: 
+ '335-bis. A decorrere dall'anno 2026, con il medesimo decreto di cui al comma 335 sono rilevati il numero di classi e il numero di posti dell'organico dell'autonomia, distinti per posti comuni, posti del potenziamento e posti di sostegno, che sono ridotti in applicazione delle disposizioni di cui all'articolo 16-ter, comma 5, quarto periodo, del decreto legislativo 17 aprile 2017, n. 59'.
+
 Non necessitano di accreditamento per l'erogazione della formazione continua di cui al comma 2, lettera a), la Scuola nazionale dell'amministrazione, tutte le universita', le istituzioni AFAM, le istituzioni scolastiche, gli enti pubblici di ricerca, le istituzioni museali pubbliche e gli enti culturali rappresentanti i Paesi le cui lingue sono incluse nei curricoli scolastici italiani.
 
 Possono chiedere l'accreditamento di cui al comma 2, lettera a), i soggetti in possesso dei requisiti di moralita', idoneita' professionale, capacita' economico-finanziaria e tecnico-professionale determinati con apposita direttiva del Ministro dell'istruzione. Sono requisiti minimi di accreditamento, ai quali deve attenersi la direttiva di cui al primo periodo, la previsione espressa della formazione dei docenti tra gli scopi statutari dell'ente ((...)), la stabile disponibilita' di risorse professionali con esperienza universitaria pregressa nel settore della formazione dei docenti e di risorse strumentali idonee allo svolgimento dei corsi di formazione. I costi della formazione sono allineati agli standard utilizzati per analoghi interventi formativi finanziati con risorse del Programma operativo nazionale.
@@ -264,11 +431,82 @@ L'accreditamento degli enti di formazione e la qualificazione delle associazioni
 
 Con decreto del Ministro dell'istruzione e del merito, da adottare di concerto con il Ministro dell'economia e delle finanze e sentite le organizzazioni sindacali di categoria maggiormente rappresentative, sono delineati i contenuti della formazione continua di cui al comma 1, prevedendo per le verifiche intermedie e finale di cui al comma 4 criteri specifici di valutazione degli obiettivi conseguiti e della capacita' didattica. La definizione del numero di ore aggiuntivo e dei criteri del sistema di incentivazione e' rimessa alla contrattazione collettiva. In sede di prima applicazione, nelle more dell'adozione del decreto e dell'aggiornamento contrattuale di cui, rispettivamente, al primo e al secondo periodo, la formazione continua e il sistema di incentivazione volto a promuovere l'accesso ai detti percorsi di formazione presentano i contenuti minimi e seguono i vincoli di cui all'allegato B, annesso al presente decreto.
 
+10.
+                        
+                            
+                                Agli oneri derivanti dall'attuazione del comma 1 relativi all'erogazione della formazione, pari a complessivi euro 17.256.575 per la formazione dei docenti delle scuole dell'infanzia e primaria, per gli anni 2023 e 2024, a complessivi euro 41.218.788 per la formazione dei docenti delle scuole secondarie di primo e secondo grado, per gli anni 2023 e 2024, a complessivi euro 87.713.044 per la formazione dei docenti delle scuole del primo e del secondo ciclo di istruzione, per gli anni 2025 e 2026, nonche' a euro 43.856.522 per l'anno 2027 e a euro 43.856.522 annui a decorrere dall'anno 2028, si provvede: 
+ 
+                            
+                            
+                                a)
+                                
+                                    quanto a complessivi euro 17.256.575 per gli anni 2023 e 2024, a valere sulle risorse di cui alla Missione 4 - Componente 1 - Riforma 2.2 del PNRR; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    quanto a complessivi euro 41.218.788 per gli anni 2023 e 2024 e a complessivi euro 87.713.044 per gli anni 2025 e 2026, a valere sulle risorse di cui al Programma nazionale PN "Scuola e competenze" 2021-2027, nel rispetto delle procedure e dei criteri di ammissibilita' dei programmi delle politiche di coesione europee; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    quanto a euro 40.000.000 per l'anno 2027, a valere sulle risorse di cui all'articolo 1, comma 125, della legge 13 luglio 2015, n. 107; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    quanto a euro 3.856.522 per l'anno 2027, mediante corrispondente riduzione dell'autorizzazione di spesa di cui all'articolo 4, comma 1, della legge 18 dicembre 1997, n. 440; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    quanto a euro 43.856.522 annui a decorrere dall'anno 2028, mediante corrispondente riduzione dell'autorizzazione di spesa di cui all'articolo 1, comma 123, della legge 13 luglio 2015, n. 107.
+
 ## - Capo V Fase transitoria
 
 ## Art. 17. — Disciplina transitoria per il reclutamento del personale docente
 
 Sino al loro esaurimento ai sensi dell'articolo 1, comma 105, della legge 13 luglio 2015, n. 107, il 50 per cento dei posti di docente vacanti e disponibili nelle scuole secondarie e' coperto annualmente ai sensi dell'articolo 399 del decreto legislativo 16 aprile 1994, n. 297, attingendo alle graduatorie ad esaurimento di cui all'articolo 1, comma 605, lettera c), della legge 29 dicembre 2006, n. 296, ferma restando la procedura autorizzatoria di cui all'articolo 39 della legge 27 dicembre 1997, n. 449, e successive modificazioni. All'avvenuto esaurimento delle predette graduatorie per ciascuna provincia, i posti destinati alle medesime si aggiungono a quelli disponibili per le procedure di cui al comma 2.
+
+2.
+                        
+                            
+                                Il 50 per cento dei posti di docente vacanti e disponibili nelle scuole secondarie e' coperto annualmente, ferma restando la procedura autorizzatoria di cui all'articolo 39 della legge 27 dicembre 1997, n. 449, e successive modificazioni, mediante scorrimento delle graduatorie di merito delle seguenti procedure concorsuali: 
+ 
+                            
+                            
+                                a)
+                                
+                                    concorso bandito ai sensi dell'articolo 1, comma 114, della legge 13 luglio 2015, n. 107, anche in deroga al limite percentuale di cui all'articolo 400, comma 15, del decreto legislativo 16 aprile 1994, n. 297, limitatamente a coloro che hanno raggiunto il punteggio minimo previsto dal bando, sino al termine di validita' delle graduatorie medesime, fermo restando il diritto all'immissione in ruolo per i vincitori del concorso; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    concorso bandito, in ciascuna regione, ai sensi del comma 3, al quale, al netto dei posti utilizzati per la procedura di cui alla lettera a), e' destinato il 100% dei posti di cui all'alinea per gli anni scolastici 2018/2019 e 2019/2020, nonche' l'80% per gli anni scolastici 2020/2021 e 2021/2022, il 60% per gli anni 2022/2023 e 2023/2024, il 40% per gli anni 2024/2025 e 2025/2026, il 30% per gli anni 2026/2027 e 2027/2028 e il 20% per i bienni successivi, sino a integrale scorrimento di ciascuna graduatoria di merito regionale. Le frazioni di posto sono arrotondate ((per eccesso se maggiori o uguali a 0,5)); (9) 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    LETTERA ABROGATA DALLA L. 30 DICEMBRE 2018, N. 145; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    concorsi banditi ai sensi delle ordinarie procedure di cui al Capo II, ai quali sono destinati i posti non utilizzati per quelle di cui alle lettere a) e b). PERIODO SOPPRESSO DAL D.L. 29 OTTOBRE 2019, N. 126. PERIODO SOPPRESSO DAL D.L. 29 OTTOBRE 2019, N. 126. (8)
 
 La procedura di cui al comma 2, lettera b), bandita in ciascuna regione e per ciascuna classe di concorso e tipologia di posto entro febbraio 2018, e' riservata ai docenti in possesso, alla data di entrata in vigore del presente decreto, di titolo abilitante all'insegnamento nella scuola secondaria o di specializzazione di sostegno per i medesimi gradi di istruzione, in deroga al requisito di cui all'articolo 5, comma 1, lettera b) e articolo 5, comma 2, lettera b). Ciascun soggetto puo' partecipare alla predetta procedura in un'unica regione per tutte le classi di concorso o tipologie di posto per le quali sia abilitato o specializzato. Sono altresi' ammessi con riserva al concorso per i posti di sostegno i docenti che conseguono il relativo titolo di specializzazione entro il 30 giugno 2018, nell'ambito di procedure avviate entro la data di entrata in vigore del presente decreto. Gli insegnanti tecnico-pratici possono partecipare al concorso purche' siano iscritti nelle graduatorie ad esaurimento oppure nella seconda fascia di quelle di istituto, alla data di entrata in vigore del presente decreto. Al fine di superare il precariato e ridurre il ricorso ai contratti a termine, per la partecipazione alla presente procedura straordinaria e' richiesto l'ulteriore requisito di non essere titolari di un contratto di lavoro a tempo indeterminato da docente presso le scuole statali.(1)
 
@@ -348,6 +586,24 @@ Contestualmente ai concorsi di cui al Capo II e all'articolo 17, comma 2 lettera
 I concorsi di cui al comma 1 sono banditi dall'Ufficio scolastico regionale per il Friuli Venezia-Giulia, prevedono lo svolgimento degli scritti e dell'orale in lingua slovena e sono integrati con contenuti specifici afferenti alle istituzioni scolastiche in lingua slovena e bilingue. Nella relativa commissione giudicatrice e' presente almeno un membro con piena conoscenza della lingua slovena.
 
 ## Art. 21. — Disapplicazioni
+
+1.
+                        
+                            
+                                Non si applicano ai concorsi per il reclutamento del personale docente, inclusi gli insegnanti tecnico-pratici, della scuola secondaria di primo e di secondo grado regolati dal presente decreto e banditi successivamente alla sua entrata in vigore ((...)) le seguenti disposizioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    articolo 1, commi ((109 e 110)), della legge 13 luglio 2015, n. 107; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    articoli 400, 402, 403, 404, 425, 426 ((e 436, comma 1,)) del decreto legislativo 16 aprile 1994, n. 297.
 
 ## Art. 22. — Entrata in vigore
 

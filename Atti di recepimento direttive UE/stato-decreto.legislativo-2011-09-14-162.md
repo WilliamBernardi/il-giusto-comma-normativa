@@ -10,7 +10,7 @@ source: normattiva-opendata
 collection: Atti di recepimento direttive UE
 vigenza_date: 2024-08-21
 zip_date: 2026-07-30
-fetched_at: 2026-08-02T09:40:48Z
+fetched_at: 2026-07-30
 ---
 
 DECRETO LEGISLATIVO
@@ -46,17 +46,332 @@ E' vietato lo stoccaggio di CO2 nella colonna d'acqua.
 
 ## Art. 3. — Definizioni
 
+1.
+                        
+                            
+                                Ai fini del presente decreto si intende per: 
+ 
+                            
+                            
+                                a)
+                                
+                                    stoccaggio geologico di CO2 : l'iniezione, accompagnata dal confinamento, di flussi di CO2 in formazioni geologiche sotterranee prive di scambio di fluidi con altre formazioni; 
+
+                                
+                            
+                            
+                                a-bis)
+                                
+                                    programmi sperimentali di stoccaggio geologico di CO2 : stoccaggio geologico di CO2 che avviene, per un periodo di tempo limitato e a fini di sperimentazione, all'interno di giacimenti di idrocarburi esauriti situati nel mare territoriale e nell'ambito della zona economica esclusiva e della piattaforma continentale;
+                                
+                            
+                            
+                                b)
+                                
+                                    colonna d'acqua: la massa d'acqua continua che si estende verticalmente tra la superficie e i sedimenti del fondo di un corpo idrico; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    sito di stoccaggio: l'insieme del volume della formazione geologica utilizzata ai fini dello stoccaggio geologico di CO2 , 
+della sua proiezione in superficie, nonche' degli impianti di superficie e di iniezione connessi; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    formazione geologica: una suddivisione litostratigrafica all'interno della quale e' possibile individuare e rappresentare graficamente una successione di strati rocciosi distinti inclusi i giacimenti esauriti e semi esauriti; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    complesso di stoccaggio: il sito di stoccaggio e il dominio geologico circostante in grado di incidere sull'integrita' e sulla sicurezza complessive dello stoccaggio, cioe' le formazioni di confinamento secondario; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    fuoriuscita: qualsiasi rilascio o perdita di CO2 dal complesso di stoccaggio; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    unita' idraulica: uno spazio poroso collegato idraulicamente in cui la trasmissione della pressione puo' essere misurata e che e' delimitato da barriere di flusso, quali faglie, duomi salini, limiti litologici, ovvero dalla chiusura stratigrafica o dall'affioramento della formazione; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    esplorazione: la valutazione del complesso di stoccaggio potenziale eseguita ai fini dello stoccaggio geologico di CO2 per 
+mezzo di attivita' di indagine del sottosuolo, che puo' includere le perforazioni, al fine di ricavare informazioni geologiche sulla stratigrafia del complesso di stoccaggio potenziale, anche attraverso l'effettuazione di prove di iniezione; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    licenza di esplorazione: un atto emanato a norma del presente decreto che autorizza le attivita' di esplorazione e specifica le condizioni alle quali queste possono essere esercitate ed il relativo ambito territoriale; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    gestore: soggetto che detiene o gestisce il sito di stoccaggio o al quale, ai sensi della legislazione nazionale, e' stato delegato un potere economico determinante per quanto riguarda l'esercizio tecnico del sito di stoccaggio; 
+
+                                
+                            
+                            
+                                m)
+                                
+                                    autorizzazione allo stoccaggio: un atto emanato a norma del presente decreto, che attribuisce in concessione lo stoccaggio geologico di CO2 in un sito di stoccaggio e che specifica le 
+condizioni alle quali lo stoccaggio puo' aver luogo; 
+
+                                
+                            
+                            
+                                n)
+                                
+                                    modifica sostanziale: una modifica a quanto previsto nell'autorizzazione allo stoccaggio che puo' avere effetti o conseguenze significativi sull'ambiente o sulla salute umana, ovvero una modifica rilevante al programma lavori autorizzato; 
+
+                                
+                            
+                            
+                                o)
+                                
+                                    flusso di CO2 : un flusso di sostanze derivanti dai processi di cattura di CO2 ; 
+
+                                
+                            
+                            
+                                p)
+                                
+                                    rifiuto: le sostanze definite come rifiuto all'articolo 183, comma 1, lettera a), del decreto legislativo 3 aprile 2006, n. 152, e successive modificazioni; 
+
+                                
+                            
+                            
+                                q)
+                                
+                                    pennacchio di CO2 : il volume di CO2 diffuso nella formazione geologica; 
+
+                                
+                            
+                            
+                                r)
+                                
+                                    migrazione: lo spostamento di CO2 all'interno del complesso di stoccaggio; 
+
+                                
+                            
+                            
+                                s)
+                                
+                                    irregolarita' significativa: un'irregolarita' nelle operazioni di iniezione o stoccaggio di CO2 o nelle condizioni del complesso di stoccaggio in quanto tale, che comporta un rischio di fuoriuscita o un rischio per l'ambiente o la salute umana; 
+
+                                
+                            
+                            
+                                t)
+                                
+                                    rischio significativo: la combinazione della probabilita' del verificarsi di un danno e della sua entita' che non puo' essere ignorata senza mettere in discussione la finalita' del presente decreto; 
+
+                                
+                            
+                            
+                                u)
+                                
+                                    provvedimenti correttivi: qualsiasi misura adottata per correggere un'irregolarita' significativa o per bloccare la fuoriuscita di CO2 al fine di impedire o arrestare il rilascio di 
+CO2 dal complesso di stoccaggio; 
+
+                                
+                            
+                            
+                                v)
+                                
+                                    chiusura: la cessazione definitiva delle operazioni di iniezione di CO2 nel sito di stoccaggio interessato; 
+
+                                
+                            
+                            
+                                z)
+                                
+                                    fase di post-chiusura: il periodo di tempo successivo alla chiusura di un sito di stoccaggio, compreso quello successivo al trasferimento della responsabilita'; 
+
+                                
+                            
+                            
+                                aa)
+                                
+                                    rete di trasporto: la rete di condutture, comprese le stazioni intermedie di pompaggio, per il trasporto di CO2 al sito di stoccaggio.
+
 Ai fini del presente decreto si applicano inoltre le definizioni di cui all'articolo 3 del decreto legislativo 4 aprile 2006, n. 216, e successive modificazioni, che istituisce un sistema per lo scambio di quote di emissioni dei gas ad effetto serra nella Comunita' e che modifica la direttiva 96/61/CE del Consiglio.
 
 ## Art. 4. — ((Comitato per lo sviluppo della cattura e dello stoccaggio geologico di CO2 - "Comitato CCS"))
 
 
 
+1.
+                        
+                            
+                                Per l'adempimento dei compiti previsti dal presente decreto, e' istituito, presso il Ministero dell'ambiente e della sicurezza energetica in qualita' di autorita' competente ai sensi della direttiva 2009/31/CE, ((il Comitato per lo sviluppo della cattura e dello stoccaggio geologico di CO2 - "Comitato CCS", di seguito denominato "Comitato")), avente i compiti seguenti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    gestione e aggiornamento del Registro di cui all'articolo 5, comma 1; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    individuazione dei formati da utilizzare per la comunicazione dei dati di cui all'articolo 6, comma 1;
+                                
+                            
+                            
+                                c)
+                                
+                                    elaborazione dei dati ai fini dell'individuazione delle aree di cui all'articolo 7, comma 1; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    valutazione della capacita' di stoccaggio disponibile di cui all'articolo 7, comma 5; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    esame delle istanze ai fini dell'assegnazione delle licenze di esplorazione di cui all'articolo 8, comma 2, nonche' delle modifiche e integrazioni di cui al comma 9 dello stesso articolo; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    esame delle istanze ai fini del rilascio delle autorizzazioni di cui agli articoli 11-bis e 12, nonche' ogni attivita' utile ai fini dell'espressione dei pareri o dell'effettuazione delle segnalazioni per modifiche, riesami, aggiornamenti, revoche o decadenze delle autorizzazioni medesime, nonche' ai fini delle relative verifiche di ottemperanza; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    approvazione del piano di monitoraggio di cui all'articolo 19, comma 2; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    prescrizioni relative alla tutela della salute pubblica di cui all'articolo 22, comma 2; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    esame del piano relativo alla fase di post-chiusura del sito di stoccaggio di cui all'articolo 23, comma 4; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    esame della relazione di cui all'articolo 24, comma 2; 
+
+                                
+                            
+                            
+                                m)
+                                
+                                    promozione del tentativo di conciliazione di cui all'articolo 29 per la risoluzione delle controversie relative all'accesso alla rete di trasporto ed ai siti di stoccaggio; 
+
+                                
+                            
+                            
+                                n)
+                                
+                                    emissione di ingiunzione di pagamento delle sanzioni di cui all'articolo 33; 
+
+                                
+                            
+                            
+                                o)
+                                
+                                    ogni altro compito previsto dalla normativa vigente.
+
 Il Comitato e' un organo collegiale composto da cinque membri con diritto di voto, nominati con decreto del Ministro dell'ambiente e della sicurezza energetica, di cui tre, ((compresi)) il presidente e il vicepresidente, designati dal Ministro dell'ambiente e della sicurezza energetica, uno dall'Istituto superiore per la protezione e la ricerca ambientale (ISPRA) e uno dalla Conferenza unificata di cui all'articolo 8 del decreto legislativo 28 agosto 1997, n. 281.
 
 I membri del Comitato sono scelti tra persone di elevata qualifica professionale e comprovata esperienza nei settori interessati dal presente decreto e non devono trovarsi in situazione di conflitto di interessi rispetto alle funzioni loro attribuite. I membri dichiarano la insussistenza di tale conflitto all'atto dell'accettazione della nomina e sono tenuti a comunicare tempestivamente al Ministero dell'ambiente e della sicurezza energetica ogni sopravvenuta situazione di conflitto di interessi. La comunicazione di cui al secondo periodo comporta la decadenza automatica dalla carica di membro del Comitato e il soggetto ((che ha designato il membro decaduto)) provvede alla individuazione del sostituto, che viene nominato con decreto del Ministro dell'ambiente e della sicurezza energetica. Resta ferma la disciplina di inconferibilita' e incompatibilita' di cui al decreto legislativo 8 aprile 2013, n. 39.
 
 Il Comitato inizia a operare ((con la nomina di tutti i suoi)) membri, che durano in carica cinque anni e il cui mandato puo' essere rinnovato una sola volta.
+
+5.
+                        
+                            
+                                Ai fini del supporto istruttorio, tecnico e operativo al Comitato, e' istituita, nell'ambito del Comitato medesimo, una apposita Segreteria tecnica CCS, di seguito ((denominata)) «Segreteria tecnica». La Segreteria tecnica, che integra competenze tecniche e giuridiche, si compone di undici membri, compreso il coordinatore, nominati con decreto del Ministro dell'ambiente e della sicurezza energetica. Degli undici membri: 
+ 
+                            
+                            
+                                a)
+                                
+                                    quattro, incluso il coordinatore, sono designati dal Ministero dell'ambiente e della sicurezza energetica, di cui due ((tra il personale)) in servizio presso l'Ufficio nazionale minerario per gli idrocarburi e le georisorse (UNMIG); 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    due sono designati dall'ISPRA; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    uno e' designato dal Ministero dell'universita' e della ricerca tra professori universitari esperti in materia ((sismica)); 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    uno e' designato dall'Istituto superiore di sanita' (ISS); 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    uno e' designato dal Ministero dell'interno tra appartenenti al Corpo nazionale dei vigili del fuoco; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    uno e' designato dal Comitato centrale per la sicurezza tecnica della transizione energetica e per la gestione dei rischi connessi ai cambiamenti climatici, di cui all'articolo 9 del decreto-legge 24 febbraio 2023, n. 13, convertito, con modificazioni, dalla legge 21 aprile 2023, n. 41; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    uno e' designato dalla Conferenza unificata di cui all'articolo 8 del decreto legislativo 28 agosto 1997, n. 281.
 
 La Segreteria tecnica, in casi eccezionali, si avvale di enti, istituti ed organismi di ricerca per lo svolgimento delle sue attivita'.
 
@@ -70,6 +385,31 @@ Registro per il confinamento e lo stoccaggio di CO 2
 
 E' istituito presso il Comitato, senza nuovi e maggiori oneri a carico del bilancio dello Stato, il Registro per il confinamento e lo stoccaggio di CO 2 , di seguito Registro.
 
+2.
+                        
+                            
+                                Il Registro contiene le indicazioni riguardanti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    infrastrutture di trasporto esistenti e progettate; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le licenze, le autorizzazioni e le delibere del Comitato; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    l'elenco dei siti di stoccaggio di CO 2 chiusi, dei siti di stoccaggio di CO2 per i quali sia avvenuto un trasferimento di responsabilita' ai sensi dell'articolo 24 e dei complessi di stoccaggio circostanti, comprendente anche mappe e sezioni relative alla loro estensione territoriale e le informazioni disponibili utili per valutare se il CO2 stoccato sara' confinato completamente e in via permanente.
+
 Il Comitato provvede alla gestione e all'aggiornamento del Registro ed assicura l'accesso del pubblico ai dati nel rispetto del decreto legislativo 19 agosto 2005, n. 195, anche consentendo la consultazione per via telematica.
 
 Le informazioni contenute nel Registro di cui al comma 1 devono essere tenute in debito conto nell'ambito delle procedure di pianificazione territoriale e per l'autorizzazione di opere o attivita' che potrebbero avere o subire ripercussioni dallo stoccaggio geologico di CO 2 .
@@ -81,6 +421,45 @@ E' istituita presso il Ministero dello sviluppo economico, senza nuovi e maggior
 Ai fini dell'individuazione delle aree di cui al comma 1 dell'articolo 7, gli operatori minerari, petroliferi, geotermici e gli istituti di ricerca mettono a disposizione del Ministero dello sviluppo economico e del Ministero dell'ambiente i dati geofisici, geologici e geominerari acquisiti ed elaborati durante le attivita' minerarie e di ricerca scientifica pregresse. Gli operatori segnaleranno le potenziali criticita' derivanti dalla eventuale coesistenza con un sito di stoccaggio di CO 2 che saranno valutate nell'ambito delle istruttorie tecniche di cui agli articoli 11 e 16.
 
 E' garantita la riservatezza del complesso dei dati messi a disposizione nell'ambito dell'utilizzo ai fini dell'applicazione del presente decreto.
+
+4.
+                        
+                            
+                                Nel caso di siti di stoccaggio di CO 2 per i quali e' stata presentata richiesta di autorizzazione o chiusura, i gestori forniscono per l'inserimento nella banca dati, nei formati stabiliti, almeno le seguenti informazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    caratterizzazione degli strati rocciosi utilizzati nel sito di stoccaggio di CO 2 per mezzo dei dati geologici disponibili, comprensiva di mappe e sezioni che ne riproducano l'estensione spaziale; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    caratterizzazione delle acque di formazione presenti negli strati rocciosi e delle condizioni di pressione predominanti; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    valutazione o rilevazione delle differenze di pressione negli strati rocciosi derivanti dallo stoccaggio; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    ulteriori informazioni disponibili, in base alle quali possa essere valutato se il CO 2 stoccato potra' essere completamente confinato per un periodo di tempo indeterminato; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    rilevazione o valutazione degli effetti ambientali associati allo stoccaggio.
 
 Il Ministero dello sviluppo economico promuove la stipula di accordi tra gli operatori minerari, petroliferi e geotermici ed i titolari di licenza di esplorazione per lo scambio di dati geologici, geofisici e geominerari acquisiti durante le attivita' minerarie pregresse.
 
@@ -124,6 +503,54 @@ La durata di una licenza e' di 3 anni. Entro la data di scadenza il soggetto aut
 Il titolare di una licenza di esplorazione ha il diritto esclusivo di esplorazione del potenziale complesso di stoccaggio di CO2 . Durante il periodo di validita' della licenza, non sono 
 consentiti utilizzi del complesso incompatibili con quanto previsto dalla licenza.
 
+7.
+                        
+                            
+                                La licenza di esplorazione e' soggetta alle norme in materia di valutazione di impatto ambientale e viene rilasciata a condizione che: 
+ 
+                            
+                            
+                                a)
+                                
+                                    sia stato presentato un programma di indagine idoneo, coerente con i criteri fissati nell'allegato I; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    siano esclusi effetti negativi a danno di concessioni minerarie esistenti o di giacimenti minerari; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    siano previste le misure necessarie a garantire la prevenzione di pericoli per la vita, la salute e la proprieta' delle persone addette al servizio e dei terzi; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    siano garantite e intraprese le precauzioni adeguate per la protezione dei beni ambientali e, qualora cio' non sia possibile, venga garantito il loro ripristino; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    nell'area delle acque territoriali della propria zona economica esclusiva e della piattaforma continentale: 
+ 1) non siano compromesse la sicurezza, l'ambiente e l'efficienza del traffico marittimo; 
+ 2) la posa in opera, la manutenzione e la gestione di cavi sottomarini e condotte, nonche' l'effettuazione di ricerche oceanografiche o altre ricerche scientifiche, non danneggino la pesca, piu' di quanto non sia imposto dalle circostanze e in maniera impropria; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    la prova dell'avvenuta prestazione della garanzia finanziaria o altro mezzo equivalente richiesto a norma dell'articolo 25, prima che abbiano inizio le operazioni di esplorazione.
+
 Per il periodo di validita' della licenza di esplorazione non sono consentiti usi diversi del territorio che possano pregiudicare l'idoneita' del sito quale potenziale complesso di stoccaggio di CO2 .
 
 La modifica o integrazione delle attivita' di esplorazione autorizzate e' consentita previa approvazione del Ministero dello sviluppo economico di concerto con il Ministero dell'ambiente, su parere del Comitato.
@@ -141,6 +568,31 @@ Il titolare della licenza e' tenuto, una volta terminata l'indagine, a ripristin
 Qualora, a seguito delle attivita' autorizzate, insorgano pregiudizi patrimoniali, il titolare della licenza e' tenuto a corrispondere al proprietario o altro legittimo utilizzatore adeguato indennizzo in denaro.
 
 ## Art. 10. — Revoca della licenza di esplorazione
+
+1.
+                        
+                            
+                                La licenza di esplorazione viene revocata, previa diffida e sentita la regione territorialmente interessata, dal Ministero dello sviluppo economico di concerto con il Ministero dell'ambiente: 
+ 
+                            
+                            
+                                a)
+                                
+                                    qualora venga meno uno dei requisiti essenziali per il rilascio; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    qualora il soggetto autorizzato si sia reso inadempiente alle prescrizioni previste dalla licenza; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    qualora il soggetto autorizzato all'esplorazione non abbia iniziato i lavori entro un anno dal rilascio della licenza, a causa di inerzia ingiustificata, o abbia interrotto i lavori per oltre un anno senza giustificato motivo.
 
 In caso di revoca della licenza di esplorazione o rinuncia da parte del titolare, lo stesso e' tenuto ad effettuare i lavori di messa in sicurezza e di ripristino ambientale, ai sensi della normativa vigente.
 
@@ -171,12 +623,97 @@ I soggetti richiedenti dimostrano di essere in possesso delle capacita' tecniche
 L'autorizzazione di cui al comma 1 ha una durata massima di tre anni. Entro la data di scadenza, il soggetto autorizzato puo' richiedere proroghe, fino a un massimo di tre e per una durata non superiore a due anni ciascuna, documentando le operazioni svolte, le motivazioni che non hanno permesso di ultimare la sperimentazione nei tempi previsti e gli elementi che consentono di prevedere un risultato positivo della sperimentazione, nonche' il tempo ulteriormente necessario per completare la sperimentazione stessa.
 Durante il periodo di validita' dell'autorizzazione non sono consentiti utilizzi del sito oggetto di sperimentazione incompatibili con quanto previsto dall'autorizzazione medesima.
 
+4.
+                        
+                            
+                                I progetti relativi ai programmi sperimentali di stoccaggio geologico di CO2 sono sottoposti, fermo restando quanto previsto dall'articolo 7, comma 3, terzo periodo, alle valutazioni ambientali di cui al titolo III della parte seconda del decreto legislativo n. 152 del 2006 e l'autorizzazione di cui al comma 1 del presente articolo e' rilasciata a condizione che: 
+ 
+                            
+                            
+                                a)
+                                
+                                    sia stato presentato un programma di indagine idoneo, coerente con i criteri fissati nell'allegato I; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    siano esclusi effetti negativi a danno di concessioni minerarie esistenti o di giacimenti minerari; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    siano previste le misure necessarie a garantire la prevenzione di pericoli per la vita, la salute e la proprieta' delle persone addette al servizio e dei terzi; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    siano garantite e intraprese le precauzioni adeguate per la protezione dei beni ambientali e, qualora cio' non sia possibile, sia garantito il ripristino dei beni stessi; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    non siano compromesse la sicurezza, l'ambiente e l'efficienza del traffico marittimo; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    la posa in opera, la manutenzione e la gestione di cavi sottomarini e condotte, nonche' l'effettuazione di ricerche oceanografiche o altre ricerche scientifiche, non danneggino la pesca, piu' di quanto non sia imposto dalle circostanze e in maniera impropria; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    sia data prova dell'avvenuta prestazione della garanzia finanziaria o di altro mezzo equivalente ai sensi dell'articolo 25, prima che abbiano inizio le attivita' di sperimentazione, fatta eccezione per i progetti relativi a programmi sperimentali che interessino un volume complessivo di stoccaggio geologico di CO2 inferiore a 100.000 tonnellate.
+
 In caso di autorizzazione allo svolgimento di programmi sperimentali di cui al presente articolo, si applicano gli articoli 14, comma 3, 18, 19, 20, 21, 22, 23, 24, 25, 26, comma 3, 27 e 33.
 L'articolo 25 non si applica nel caso di autorizzazione allo svolgimento di programmi sperimentali che interessino un volume complessivo di stoccaggio geologico di CO2 inferiore a 100.000 tonnellate.
 
 Eventuali modifiche del programma sperimentale di stoccaggio geologico di CO2 oggetto di autorizzazione sono consentite previa approvazione del Ministero dell'ambiente e della sicurezza energetica, su parere del Comitato.
 
 In caso di inosservanza delle prescrizioni autorizzatorie, il Ministero dell'ambiente e della sicurezza energetica, anche su segnalazione del Comitato, procede, secondo la gravita' delle infrazioni, alla diffida, con eventuale sospensione temporanea dell'attivita' di sperimentazione, del soggetto interessato, assegnando un termine entro il quale devono essere sanate le irregolarita'.
+
+8.
+                        
+                            
+                                Il Ministero dell'ambiente e della sicurezza energetica, anche su segnalazione del Comitato, dispone la revoca ((dell'autorizzazione)) di cui al presente articolo: 
+ 
+                            
+                            
+                                a)
+                                
+                                    in caso di mancato adeguamento alle prescrizioni oggetto della diffida di cui al comma 7 ovvero in caso di reiterate violazioni che determinino situazioni di pericolo o di danno per l'ambiente; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    in caso di mancata presentazione della relazione di cui all'articolo 20; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    se dalla relazione di cui all'articolo 20 o dalle ispezioni effettuate ai sensi dell'articolo 21 emerge il mancato rispetto delle condizioni fissate nell'autorizzazione o rischi di fuoriuscite o di irregolarita' significative; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    in caso di violazione dell'articolo 14, comma 3.
 
 Nel caso in cui sia disposta la revoca ai sensi del comma 8, si applica l'articolo 17, comma 4, primo, secondo e terzo periodo.
 Qualora sussistano le condizioni di sicurezza per il proseguimento delle operazioni di stoccaggio sperimentale da parte di un soggetto terzo, il sito di stoccaggio e' messo a disposizione di altri concorrenti, autorizzati ai sensi del presente articolo.
@@ -186,6 +723,66 @@ Le opere necessarie allo stoccaggio geologico di CO2 nell'ambito del programma s
 Le domande di autorizzazione allo svolgimento di programmi sperimentali di cui al presente articolo contengono le informazioni di cui alle lettere a), b), c), d), e), f), g), i), m), n), o), p), q), r) e s) del comma 1 dell'articolo 13 ((e l'indicazione delle finalita')) delle attivita' oggetto dei programmi stessi. Il primo periodo si applica anche nel caso di programmi sperimentali che interessino un volume complessivo di stoccaggio geologico di CO2 inferiore a 100.000 tonnellate, fatta eccezione per l'articolo 13, comma 1, lettera r).
 
 Per ciascuna unita' idraulica e' rilasciata un'unica autorizzazione. Ai fini del rilascio dell'autorizzazione di cui al presente articolo, nel caso di piu' siti di stoccaggio insistenti nella stessa unita' idraulica, le potenziali interazioni di pressione debbono essere tali che tutti i siti rispettino simultaneamente le prescrizioni del presente decreto.
+
+13.
+                        
+                            
+                                L'autorizzazione di cui al presente articolo reca i seguenti elementi: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il nome, i dati fiscali e l'indirizzo del gestore; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'ubicazione e la delimitazione precise del sito di stoccaggio e del complesso di stoccaggio, nonche' i dati sulle unita' idrauliche interessate; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    le prescrizioni in materia di gestione dello stoccaggio, il quantitativo totale di CO2 consentito ai fini dello stoccaggio geologico, i limiti di pressione per le rocce serbatoio, le portate e le pressioni di iniezione massimi; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    la composizione del flusso di CO2 per la procedura di valutazione dell'accettabilita' dello stesso ai sensi dell'articolo 18; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    il piano di monitoraggio approvato, l'obbligo di mettere in atto il piano medesimo e di aggiornarlo ai sensi dell'articolo 19, nonche' le istruzioni in materia di comunicazione ai sensi dell'articolo 20; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    l'obbligo di informare il Ministero dell'ambiente e della sicurezza energetica e, per conoscenza, il Comitato, in caso di qualunque irregolarita' o rilascio di CO2 e di mettere in atto gli opportuni provvedimenti correttivi a norma dell'articolo 22; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    le condizioni per la chiusura e la fase di post-chiusura di cui all'articolo 23; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    fatta eccezione per i progetti relativi a programmi sperimentali che interessino un volume complessivo di stoccaggio geologico di CO2 inferiore a 100.000 tonnellate, l'obbligo di presentare la prova dell'avvenuta prestazione della garanzia finanziaria o di altro mezzo equivalente prima che abbiano inizio le attivita' di stoccaggio ai sensi dell'articolo 25.
 
 ## Art. 11-ter. — (Norme procedurali per il rilascio dell'autorizzazione allo svolgimento di programmi sperimentali di stoccaggio di CO2 )
 
@@ -223,6 +820,24 @@ Fatte salve le valutazioni tecniche relative al programma di stoccaggio, ai fini
 
 Nel corso della procedura di autorizzazione allo stoccaggio non sono consentiti usi diversi del complesso di stoccaggio che possano pregiudicare l'idoneita' del sito a essere adibito a sito di stoccaggio di CO2 .
 
+6.
+                        
+                            
+                                In caso di inosservanza delle prescrizioni autorizzatorie, il Ministero dello sviluppo economico d'intesa con il Ministero dell'ambiente sentita la regione territorialmente interessata, su indicazione del Comitato, procede nei confronti del gestore secondo la gravita' delle infrazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    alla diffida, assegnando un termine entro il quale devono essere eliminate le irregolarita'; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    alla sospensione dell'attivita' autorizzata per un tempo determinato.
+
 In caso di inadempienze gravi, il Ministero dello sviluppo economico di concerto con il Ministero dell'ambiente procede alla revoca dell'autorizzazione allo stoccaggio e all'eventuale chiusura del sito, in caso di mancato adeguamento alle prescrizioni imposte con la diffida o in caso di reiterate violazioni che determinino situazioni di pericolo e di danno per l'ambiente.
 
 ((COMMA ABROGATO DAL D.L. 9 DICEMBRE 2023, N. 181)).
@@ -231,17 +846,262 @@ Le opere necessarie allo stoccaggio di CO2 e quelle necessarie per il trasporto 
 
 ## Art. 13. — Domande di autorizzazione allo stoccaggio
 
+1.
+                        
+                            
+                                Le domande di autorizzazione allo stoccaggio comprendono le informazioni e la documentazione seguenti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    dati anagrafici del richiedente; 
 
+                                
+                            
+                            
+                                b)
+                                
+                                    elementi idonei a comprovare la competenza tecnica del richiedente e delle persone responsabili della costruzione, direzione e supervisione dell'impianto; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    denominazione del sito di stoccaggio di CO2 e del complesso di stoccaggio con localizzazione su una mappa nella scala adeguata; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    una mappa dell'area richiesta disegnata su foglio (originale o copia) dell'Istituto geografico militare, alla scala 1:100.000 per le istanze ricadenti integralmente o in modo preponderante in terraferma o dell'Istituto idrografico della marina alla scala di 1:250.000 per le istanze ricadenti totalmente o in modo preponderante in mare.
+L'area oggetto di istanza deve essere continua e definita con le coordinate geografiche dei vertici. Le aree richieste devono essere delimitate da archi di meridiano e di parallelo di lunghezza pari a un minuto primo o a un multiplo di esso; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    caratterizzazione del sito e del complesso di stoccaggio e valutazione della sicurezza di stoccaggio a norma dell'articolo 7, comma 6; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    descrizione dell'impianto e delle tecnologie impiegate; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    il programma dei lavori con la descrizione delle attivita'; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    disponibilita' e caratteristiche della rete e distanze di trasporto previste tra i possibili siti di cattura di CO2 e quello di stoccaggio; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    quantitativo totale di CO2 da iniettare e stoccare, composizione dei flussi di CO2 , portate e pressioni di iniezione, nonche' ubicazione degli impianti di iniezione; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    garanzia di approvvigionamento e trasporto a lungo termine di CO2 da stoccare; 
+
+                                
+                            
+                            
+                                m)
+                                
+                                    data prevista per la messa in esercizio dell'impianto; 
+
+                                
+                            
+                            
+                                n)
+                                
+                                    descrizione delle misure di sicurezza adottate intese ad evitare incidenti o malfunzionamenti significativi, nonche' a limitarne le conseguenze; 
+
+                                
+                            
+                            
+                                o)
+                                
+                                    piano di monitoraggio a norma dell'articolo 19, comma 2; 
+
+                                
+                            
+                            
+                                p)
+                                
+                                    il piano sui provvedimenti correttivi contenenti le misure atte alla prevenzione di rilasci e di irregolarita' tecnico-impiantistiche significative, le procedure e le misure atte ad eliminare completamente la fuoriuscita di CO2 , nonche' le misure atte a contenere gli effetti dannosi conseguenti ai rilasci; 
+
+                                
+                            
+                            
+                                q)
+                                
+                                    piano provvisorio per la fase di post-chiusura a norma dell'articolo 23, comma 4; 
+
+                                
+                            
+                            
+                                r)
+                                
+                                    prova che la garanzia finanziaria di cui all'articolo 25 avra' validita' ed efficacia prima che abbiano inizio le operazioni di iniezione; 
+
+                                
+                            
+                            
+                                s)
+                                
+                                    quietanza dell'avvenuto pagamento delle tariffe di cui all'articolo 27.
+
+((COMMA ABROGATO DAL D.L. 9 DICEMBRE 2023, N. 181)).
 
 ## Art. 14. — Condizioni per il rilascio e il trasferimento delle autorizzazioni allo stoccaggio
 
+1.
+                        
+                            
+                                L'autorizzazione allo stoccaggio e' rilasciata ove sussistano le seguenti condizioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    siano stati espletati gli adempimenti previsti nel procedimento unico di cui all'articolo 12 per il rilascio dell'autorizzazione ed acquisito il parere del Comitato; 
 
+                                
+                            
+                            
+                                b)
+                                
+                                    siano rispettate tutte le disposizioni del presente decreto e degli altri atti normativi pertinenti in materia autorizzativa; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il gestore sia finanziariamente solido, affidabile, disponga delle competenze tecniche necessarie ai fini della gestione e del controllo del sito e siano previsti programmi di formazione e sviluppo tecnici e professionali del gestore e di tutto il personale; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    sia garantito, in considerazione del vincolo di ubicazione, che la costruzione e la gestione del sito di stoccaggio di CO2 non 
+rechino danno al benessere della collettivita' e agli interessi privati prevalenti; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    siano esclusi effetti negativi a danno di concessioni minerarie esistenti o di giacimenti minerari; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    sia garantita la sicurezza a lungo termine del sito di stoccaggio di CO2 ; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    siano previste misure che evitino danni ai beni della collettivita';
+
+((1-bis. Per ciascuna unita' idraulica puo' essere rilasciata un'unica autorizzazione))
 
 L'autorizzazione allo stoccaggio puo' essere soggetta a condizioni e a limitazioni temporali.
 
 Il trasferimento dell'autorizzazione allo stoccaggio, anche mediante operazioni di scissione, fusione o cessione di ramo di azienda delle societa' autorizzate, deve essere preventivamente autorizzato dal Ministero dello sviluppo economico di concerto con il Ministero dell'ambiente sentita la regione territorialmente interessata, previa verifica dei requisiti di cui al comma 1, lettere b) e c).
 
 ## Art. 15. — Contenuto delle autorizzazioni allo stoccaggio
+
+1.
+                        
+                            
+                                L'autorizzazione contiene i seguenti elementi: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il nome, i dati fiscali e l'indirizzo del gestore; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'ubicazione e la delimitazione precise del sito di stoccaggio e del complesso di stoccaggio, ed i dati sulle unita' idrauliche interessate; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    le prescrizioni in materia di gestione dello stoccaggio, il quantitativo totale di CO 2 consentito ai fini dello stoccaggio geologico, i limiti di pressione per le rocce serbatoio, le portate e le pressioni di iniezione massimi; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    la composizione del flusso di CO 2 per la procedura di valutazione dell'accettabilita' dello stesso ai sensi dell'articolo 18; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    il piano di monitoraggio approvato, l'obbligo di mettere in atto il piano, le disposizioni per il suo aggiornamento a norma dell'articolo 19 e le istruzioni in materia di comunicazione ai sensi dell'articolo 20; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    l'obbligo di informare il Ministero dello sviluppo economico, il Ministero dell'ambiente, la regione territorialmente interessata e per conoscenza il Comitato in caso di qualunque irregolarita' o rilascio di CO 2 e di mettere in atto gli opportuni provvedimenti correttivi a norma dell'articolo 22; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    le condizioni per la chiusura e la fase di post-chiusura di cui all'articolo 23; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    le disposizioni per la modifica, il riesame, l'aggiornamento, la revoca e la decadenza dell'autorizzazione allo stoccaggio a norma dell'articolo 17; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    l'obbligo di presentare la prova dell'avvenuta prestazione della garanzia finanziaria o di altro mezzo equivalente, a norma dell'articolo 25, prima che abbiano inizio le attivita' di stoccaggio.
 
 ## Art. 16. — Norme procedurali per il rilascio dell'autorizzazione allo stoccaggio ed esame dei progetti di stoccaggio da parte della Commissione europea
 
@@ -279,6 +1139,38 @@ Il gestore non puo' mettere in atto modifiche sostanziali in assenza di una nuov
 
 b) fatte salve le disposizioni di cui alla lettera a) del presente comma e alle lettere da a) a d) del comma 3, cinque anni dopo il rilascio dell'autorizzazione e, in seguito, ogni dieci anni))
 
+3.
+                        
+                            
+                                Il Ministero dello sviluppo economico sentita la regione territorialmente interessata, anche su proposta del Comitato, dichiara la decadenza, previa diffida, del soggetto titolare dell'autorizzazione allo stoccaggio nei seguenti casi: 
+ 
+                            
+                            
+                                a)
+                                
+                                    qualora il soggetto autorizzato si sia reso inadempiente alle prescrizioni previste dall'autorizzazione; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    se le comunicazioni di cui all'articolo 20 o le ispezioni effettuate a norma dell'articolo 21 mettono in evidenza il mancato rispetto delle condizioni fissate nelle autorizzazioni o rischi di fuoriuscite o di irregolarita' significative; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    in caso di violazione dell'articolo 14, comma 3, del presente decreto; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    in caso di mancata presentazione della relazione di cui all'articolo 20.
+
 Nei casi di cui al comma 3, il soggetto autorizzato provvede a tutti i lavori di messa in sicurezza e di ripristino ambientale. In caso di revoca, il Ministero dello sviluppo economico di concerto con il Ministero dell'ambiente sentita la regione territorialmente interessata, su parere del Comitato, dispone l'immediata chiusura del sito di stoccaggio di CO2 ai sensi dell'articolo 23 oppure mette a 
 disposizione il sito di stoccaggio ad eventuali operatori interessati a proseguire le attivita' di stoccaggio. In caso di chiusura del sito, il Ministero dello sviluppo economico e il Ministero dell'ambiente dispongono le procedure di chiusura e di post-chiusura ai sensi dell'articolo 23, comma 6, a spese del gestore, affidandone l'esecuzione al gestore stesso o, qualora il gestore non fornisca garanzie sufficienti per una regolare chiusura e post-chiusura, ad altro soggetto in possesso delle necessarie competenze tecniche.
 Qualora sussistano le condizioni di sicurezza per il proseguimento delle operazioni di stoccaggio da parte di un soggetto terzo, il sito di stoccaggio e' messo a disposizione degli altri operatori, in concorrenza, tramite pubblicazione sui siti web del Ministero dell'ambiente e del Ministero dello sviluppo economico, secondo le procedure di cui all'articolo 12, comma 2, e degli articoli 13, 14 e 16.
@@ -291,6 +1183,56 @@ Fino al rilascio della nuova autorizzazione, il sito di stoccaggio di CO2 e' ges
 
 Criteri e procedura di iniezione del flusso di CO 2
 
+1.
+                        
+                            
+                                Il flusso di CO 2 puo' essere ammesso e quindi iniettato nel sito di stoccaggio a condizione che: 
+ 
+                            
+                            
+                                a)
+                                
+                                    sia composto prevalentemente da CO 2 nella percentuale non inferiore a quella indicata nell'autorizzazione allo stoccaggio; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le concentrazioni di tutte le sostanze presenti, necessarie per aumentare la sicurezza e migliorare il monitoraggio, o accidentalmente prodotte dall'impianto e dai procedimenti attuati per la cattura, il trasporto e lo stoccaggio, siano inferiori ai livelli che comporterebbero un rischio significativo per l'ambiente e la salute; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    siano esclusi danni ai beni da proteggere di cui all'articolo 14 o che compromettano la sicurezza a lungo termine del sito di stoccaggio di CO 2 e la sicurezza degli impianti di iniezione profonda e trasporto derivanti dalle sostanze di cui alla lettera b); 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    non contenga rifiuti o altro materiale di smaltimento.
+
+2.
+                        
+                            
+                                Il gestore e' tenuto a: 
+ 
+                            
+                            
+                                a)
+                                
+                                    iniettare flussi di CO 2 solo se sono state effettuate le analisi della composizione, comprese le sostanze corrosive, ed una valutazione dei rischi dalla quale risulti che i livelli di contaminazione sono in linea con i criteri di cui al comma 1; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    conservare e aggiornare un registro dei quantitativi e delle caratteristiche dei flussi di CO 2 conferiti e iniettati, con indicazione dell'origine, della composizione e delle informazioni sul trasporto di tali flussi.
+
 I criteri e le condizioni di cui al comma 1 sono periodicamente aggiornati con decreto del Ministero dello sviluppo economico, del Ministero dell'ambiente e del Ministero della salute, sentita la Conferenza Stato-regioni, in funzione dello stato delle conoscenze tecniche nonche' sulla base di linee guida comunitarie.
 
 ## Art. 19. — Monitoraggio
@@ -300,9 +1242,94 @@ Il gestore ha l'obbligo di monitorare la composizione del flusso di CO 2 prima d
 L'attivita' di monitoraggio e' definita nel piano di monitoraggio predisposto dal gestore secondo i criteri stabiliti nell'allegato II ed approvato all'atto dell'autorizzazione, che comprende indicazioni precise sul monitoraggio conformemente agli orientamenti stabiliti a norma dell'articolo 13 del decreto legislativo 4 aprile 2006, n. 216, e successive modificazioni, ed e' trasmesso al Comitato ai sensi dell'articolo 13, comma 1, lettera o), e da questo approvato a norma dell'articolo 15, comma 1, lettera e).
 Il piano e' aggiornato secondo i criteri stabiliti all'allegato II e comunque ogni cinque anni al fine di tener conto delle modifiche nella valutazione del rischio di fuoriuscita, delle modifiche nella valutazione dei rischi per l'ambiente e la salute umana, delle nuove conoscenze scientifiche e delle migliori tecnologie disponibili. I piani aggiornati sono trasmessi al Comitato per l'approvazione.
 
+3.
+                        
+                            
+                                Il Comitato, tramite gli organi di vigilanza e controllo di cui all'articolo 21, si accerta che il gestore proceda al monitoraggio degli impianti di iniezione, del complesso di stoccaggio e dell'ambiente circostante al fine di: 
+ 
+                            
+                            
+                                a)
+                                
+                                    verificare la rispondenza tra il comportamento effettivo di CO 2 e dell'acqua di formazione nel sito di stoccaggio con quello ricavato dai modelli previsionali di cui all'allegato I; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    rilevare irregolarita' significative; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    rilevare migrazioni di CO 2 ; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    rilevare fuoriuscite di CO 2 ; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    rilevare effetti negativi significativi sull'ambiente circostante, in particolare sull'acqua destinabile agli usi potabile ed irriguo, sulla popolazione umana o sugli utilizzatori della biosfera circostante, nonche' sulle eventuali attivita' minerarie preesistenti; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    valutare l'efficacia degli eventuali provvedimenti correttivi adottati a norma dell'articolo 22; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    aggiornare la valutazione della sicurezza e dell'integrita' del complesso di stoccaggio nel breve e nel lungo termine, compresa la valutazione intesa a determinare se il CO 2 stoccato sara' completamente confinato in via permanente.
+
 Gli studi, le analisi e le attivita' di monitoraggio effettuati dal gestore, con oneri a proprio carico, sono certificati da istituti indipendenti.
 
 ## Art. 20. — Relazione da parte del gestore
+
+1.
+                        
+                            
+                                Entro il 31 marzo di ogni anno, il gestore presenta al Comitato ed alla regione territorialmente interessata una relazione relativa all'esercizio dell'anno precedente contenente almeno: 
+ 
+                            
+                            
+                                a)
+                                
+                                    i risultati del monitoraggio effettuato a norma dell'articolo 19 secondo le modalita' e frequenze stabilite nell'autorizzazione, comprese informazioni sulla tecnologia di monitoraggio utilizzata; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    i quantitativi e le proprieta' dei flussi di CO 2 , con indicazione della relativa composizione, conferiti e iniettati nel corso dell'anno, registrati a norma dell'articolo 18, comma 2, lettera b); 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    la documentazione attestante l'eventuale avvenuto adeguamento della prestazione della garanzia finanziaria di cui all'articolo 25, comma 4; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    ogni altra informazione ritenuta utile a valutare il rispetto delle condizioni dell'autorizzazione allo stoccaggio e ad ampliare le conoscenze sul comportamento di CO 2 nel sito di stoccaggio.
 
 In caso di revoca o di decadenza dell'autorizzazione allo stoccaggio di cui all'articolo 17, il gestore fornisce al Ministero dello sviluppo economico e per conoscenza al Comitato tutti i dati relativi al sito di stoccaggio entro 30 giorni dalla revoca o dalla dichiarazione di decadenza. Tali informazioni saranno incluse nella banca dati di cui all'articolo 6.
 
@@ -312,6 +1339,31 @@ Tutte le attivita' di esplorazione, realizzazione degli impianti, iniezione di C
 del presente decreto, sono soggette a vigilanza e controllo. Per le attivita' di esplorazione e stoccaggio geologico di CO2 , trovano 
 applicazione le norme di polizia mineraria di cui al decreto del Presidente della Repubblica 9 aprile 1959, n. 128, e successive modificazioni, nonche' le norme relative alla sicurezza e salute dei lavoratori nelle industrie estrattive per trivellazione di cui al decreto legislativo 25 novembre 1996, n. 624, e successive modificazioni.
 
+2.
+                        
+                            
+                                Gli organi di vigilanza e controllo sono: 
+ 
+                            
+                            
+                                a)
+                                
+                                    l'UNMIG ed i suoi Uffici territoriali, per l'applicazione delle norme di polizia mineraria e per il supporto tecnico al Comitato nell'ambito della Segreteria tecnica ((di cui al comma 5 dell'articolo 4)); 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'ISPRA per i controlli ambientali e di monitoraggio del complesso di stoccaggio e per il supporto tecnico al Comitato nell'ambito della Segreteria tecnica ((di cui al comma 5 dell'articolo 4)); 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il Corpo nazionale dei vigili del fuoco (VVFF), per gli aspetti di competenza in merito alla verifica dell'adozione di tutte le misure tecniche e gestionali finalizzate al controllo dei rischi e alla gestione delle situazioni di emergenza.
+
 Ai fini delle attivita' di vigilanza e controllo ISPRA si avvale anche delle Agenzie regionali per la protezione dell'ambiente (ARPA) ed e' a tal fine autorizzata a stipulare apposite convenzioni con oneri ricompresi nelle tariffe di cui all'articolo 27.
 
 L'attivita' di vigilanza e controllo ha lo scopo di verificare che non siano violate le disposizioni del presente decreto, i provvedimenti e le prescrizioni contenute nella licenza di esplorazione e nell'autorizzazione allo stoccaggio.
@@ -320,13 +1372,63 @@ L'attivita' di vigilanza e controllo comprende le ispezioni presso il complesso 
 
 Ispezioni periodiche sono effettuate di norma almeno una volta all'anno, in base a quanto previsto dal piano annuale comunicato al gestore entro il 31 gennaio dal Comitato, fino a tre anni dopo la chiusura e almeno ogni cinque anni fino a quando non avvenga il trasferimento di responsabilita' di cui all'articolo 24. Dette ispezioni riguardano le strutture di iniezione e monitoraggio e tutta la serie di effetti significativi del complesso di stoccaggio sull'ambiente e sulla salute umana.
 
+7.
+                        
+                            
+                                Ispezioni occasionali hanno luogo nei casi in cui il Comitato, su indicazione degli organi di vigilanza e controllo, lo ritenga opportuno e comunque: 
+ 
+                            
+                            
+                                a)
+                                
+                                    nel caso di irregolarita' significative o di fuoriuscite ai sensi dell'articolo 22, comma 1; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    nel caso in cui le relazioni di cui all'articolo 20 mettano in luce un inadempimento delle condizioni fissate nelle autorizzazioni; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    a seguito di segnalazioni riguardanti pericoli per l'ambiente o la salute e l'incolumita' pubblica.
+
 Gli oneri relativi alle ispezioni occasionali sono fronteggiati nell'ambito delle risorse di bilancio delle amministrazioni interessate destinate a tali finalita' dalla legislazione vigente.
 
 Dopo ogni ispezione e' predisposta una relazione sull'esito dell'attivita' ispettiva. La relazione riporta la valutazione sulla conformita' alle disposizioni del presente decreto e indica eventuali ulteriori provvedimenti o adempimenti che il gestore deve porre in essere. La relazione e' trasmessa al Ministero dello sviluppo economico, al Ministero dell'ambiente, al Comitato, alla regione territorialmente interessata, al gestore interessato e resa disponibile entro due mesi dall'ispezione per l'accesso agli atti ai sensi degli articoli 22, 23 e 24 della legge n. 241 del 1990, e successive modificazioni.
 
 ## Art. 22. — Interventi in caso di fuoriuscite o irregolarita' significative
 
+1.
+                        
+                            
+                                In caso di fuoriuscite o irregolarita' significative il gestore e' tenuto immediatamente a: 
+ 
+                            
+                            
+                                a)
+                                
+                                    mettere in atto le procedure e le misure adeguate, atte ad eliminare completamente la fuoriuscita o le irregolarita' significative previste nel piano sui provvedimenti correttivi di cui all'articolo 13, comma 1, lettera p); 
 
+                                
+                            
+                            
+                                b)
+                                
+                                    darne comunicazione al Ministero dello sviluppo economico, al Ministero dell'ambiente, al Comitato, alla regione territorialmente interessata e agli organi di vigilanza in termini di tipologia ed entita'; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    comunicare al Ministero dello sviluppo economico, al Ministero dell'ambiente, al Comitato, alla regione territorialmente interessata e agli organi di vigilanza le misure intraprese e gli effetti ad esse connessi.
+
+((2. Il Comitato, su indicazione degli organi di vigilanza e controllo, puo' prescrivere in qualsiasi momento provvedimenti correttivi necessari nonche' provvedimenti relativi alla tutela della salute pubblica che il gestore e' tenuto ad adottare. Tali provvedimenti possono essere supplementari o diversi rispetto a quelli descritti nel piano sui provvedimenti correttivi di cui all'articolo 13, comma 1, lettera p) ))
 
 Nel caso in cui il gestore non sia in grado di porre in essere tempestivamente ogni provvedimento correttivo necessario a salvaguardare la salute pubblica e l'ambiente da eventuali gravi rischi, il Ministero dello sviluppo economico di concerto con il Ministero dell'ambiente sentita la regione territorialmente interessata adotta direttamente tali provvedimenti.
 
@@ -338,13 +1440,120 @@ In caso di fuoriuscite e' previsto l'obbligo per il gestore di restituire un num
 
 Le attivita' di chiusura di un sito di stoccaggio di CO 2 sono soggette ad autorizzazione da parte del Ministero dello sviluppo economico di concerto con il Ministero dell'ambiente e d'intesa con la regione territorialmente interessata.
 
+2.
+                        
+                            
+                                Un sito di stoccaggio e' chiuso: 
+ 
+                            
+                            
+                                a)
+                                
+                                    se le condizioni indicate nell'autorizzazione relativamente alla chiusura sono soddisfatte; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    su richiesta motivata del gestore; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    in seguito alla revoca dell'autorizzazione allo stoccaggio a norma dell'articolo 17, commi 3 e 4.
+
 Dopo la chiusura di un sito di stoccaggio a norma del comma 2, lettera a) o b), e fino al trasferimento della responsabilita' del sito ai sensi dell'articolo 24, il gestore continua ad essere responsabile del monitoraggio, delle relazioni informative e dei provvedimenti correttivi secondo quanto disposto nel presente decreto, nonche' di tutti gli obblighi relativi alla restituzione di quote di emissione in caso di fuoriuscite a norma del decreto legislativo 4 aprile 2006, n. 216, e successive modificazioni, e delle azioni di prevenzione e di riparazione a norma degli articoli da 304 a 308 del decreto legislativo n. 152 del 2006. Il gestore ha l'obbligo di sigillare il sito di stoccaggio e di smantellare gli impianti di iniezione.
+
+4.
+                        
+                            
+                                Gli obblighi di cui al comma 3 sono ottemperati sulla base di un piano relativo alla fase di post-chiusura che il gestore predispone facendo riferimento alle migliori prassi e secondo i criteri fissati nell'allegato II. Un piano provvisorio per la fase di post-chiusura deve essere trasmesso al Ministero dello sviluppo economico, al Ministero dell'ambiente, alla regione territorialmente interessata e per conoscenza al Comitato ai sensi dell'articolo 13, comma 1, lettera q), e da questi approvato a norma dell'articolo 15, comma 1, lettera g). Prima della chiusura di un sito di stoccaggio a norma del comma 2, lettera a) o b), del presente articolo, il piano provvisorio relativo alla fase di post-chiusura e': 
+ 
+                            
+                            
+                                a)
+                                
+                                    trasmesso per approvazione al Ministero dello sviluppo economico, al Ministero dell'ambiente, alla regione territorialmente interessata ed al Comitato dopo l'eventuale aggiornamento, tenendo conto dell'analisi dei rischi, delle migliori prassi e dei miglioramenti tecnologici; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    approvato dal Ministero dello sviluppo economico e dal Ministero dell'ambiente d'intesa con la regione territorialmente interessata come piano definitivo per la fase di post-chiusura.
 
 Dopo la chiusura di un sito di stoccaggio a norma del comma 2, lettera c), il Ministero dello sviluppo economico e' responsabile del monitoraggio e dei provvedimenti correttivi secondo quanto disposto dal presente decreto, nonche' di tutti gli obblighi relativi alla restituzione di quote di emissione in caso di fuoriuscite a norma del decreto legislativo n. 216 del 2006, e successive modificazioni, e delle azioni di prevenzione e di riparazione a norma dell'articolo 304, comma 1, e dell'articolo 305, comma 1, del decreto legislativo n. 152 del 2006. Gli obblighi relativi alla fase di post-chiusura fissati nel presente decreto sono soddisfatti sulla base del piano provvisorio, eventualmente aggiornato, relativo alla fase di post-chiusura di cui al comma 4 del presente articolo.
 
 I costi relativi ai provvedimenti di cui al comma 5 sono a carico del gestore che vi fa fronte con le risorse di cui alla garanzia finanziaria prestata a norma dell'articolo 25 e per la parte eventualmente eccedente ricorrendo alle risorse economiche del gestore medesimo.
 
 ## Art. 24. — Trasferimento di responsabilita'
+
+1.
+                        
+                            
+                                Dopo la chiusura di un sito di stoccaggio a norma dell'articolo 23, comma 2, lettera a) o b), tutti gli obblighi relativi al monitoraggio e ai provvedimenti correttivi in conformita' delle prescrizioni del presente decreto, alla restituzione di quote di emissione in caso di fuoriuscite a norma del decreto legislativo n. 216 del 2006, e successive modificazioni, e alle azioni di prevenzione e di riparazione a norma dell'articolo 304, comma 1, e dell'articolo 305, comma 1, del decreto legislativo n. 152 del 2006, sono trasferiti al Ministero dello sviluppo economico che interviene di sua iniziativa o su richiesta del gestore, se sono soddisfatte le condizioni seguenti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    tutti gli elementi disponibili indicano che il CO 2 stoccato sara' completamente confinato in via permanente; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    e' trascorso un periodo non inferiore a venti anni, a meno che il criterio di cui alla lettera a) sia soddisfatto prima del termine di detto periodo; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    sono stati soddisfatti gli obblighi finanziari di cui all'articolo 26; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    il sito e' stato sigillato e gli impianti di iniezione smantellati.
+
+2.
+                        
+                            
+                                Prima del trasferimento, in considerazione delle conoscenze acquisite in fase di monitoraggio post-chiusura sul comportamento di CO 2 all'interno del sito di stoccaggio, il gestore presenta al Ministero dello sviluppo economico, al Ministero dell'ambiente, alla regione territorialmente interessata e per conoscenza al Comitato, una dettagliata relazione conclusiva da cui si evinca in particolare: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la conformita' tra il comportamento effettivo del CO 2 iniettato ed il comportamento ricavato dai modelli; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'integrita' costruttiva del sistema di chiusura; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    assenza di irregolarita' significative o fuoriuscite individuabili; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    la sussistenza di tutte le condizioni che possano garantire la stabilita' futura a lungo termine del sito di stoccaggio di CO 2 .
 
 Se il Ministero dello sviluppo economico ed il Ministero dell'ambiente ritengono che le condizioni di cui ai commi 1 e 2, non siano soddisfatte, il Comitato richiede informazioni aggiuntive, indicando al gestore le relative motivazioni.
 
@@ -372,11 +1581,56 @@ La garanzia finanziaria, deve operare a semplice richiesta scritta del Ministero
 
 Il gestore adegua periodicamente la garanzia finanziaria, su richiesta del Ministero dello sviluppo economico e del Ministero dell'ambiente, per tener conto delle modifiche del rischio di fuoriuscita valutato e dei costi stimati di tutti gli obblighi derivanti dall'autorizzazione rilasciata a norma del presente decreto nonche' degli obblighi derivanti dall'inclusione del sito di stoccaggio nel decreto legislativo n. 216 del 2006, e successive modificazioni.
 
+5.
+                        
+                            
+                                La garanzia finanziaria o gli altri strumenti equivalenti di cui al comma 1 restano validi e effettivi, oltre la durata dell'autorizzazione, in caso di: 
+ 
+                            
+                            
+                                a)
+                                
+                                    chiusura di un sito di stoccaggio a norma dell'articolo 23, comma 2, lettera a) o b), fino al trasferimento delle responsabilita' secondo quanto stabilito all'articolo 24 fermo restando l'adempimento degli obblighi finanziari di cui all'articolo 26; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    revoca di un'autorizzazione allo stoccaggio a norma dell'articolo 17, comma 3: 
+ 1) fino al rilascio di una nuova autorizzazione allo stoccaggio; 
+ 2) se la chiusura e' avvenuta a norma dell'articolo 23, comma 2, lettera c), fino al trasferimento di responsabilita' ai sensi dell'articolo 24, a condizione che gli obblighi finanziari di cui all'articolo 26 siano stati adempiuti.
+
 ## Art. 26. — Meccanismo finanziario
 
 Con decreto del Ministro dello sviluppo economico e del Ministro dell'ambiente, di concerto con il Ministro dell'economia e delle finanze, sentita la Conferenza Stato-regioni, da adottare entro 180 giorni dalla data di entrata in vigore del presente decreto, e' determinata l'entita' del contributo finanziario che va versato dal gestore prima del trasferimento di responsabilita' di cui all'articolo 24 e le relative modalita' di versamento.
 
 Il contributo di cui al comma 1, viene determinato sulla base dei criteri di cui all'allegato I e degli elementi legati ai dati storici di stoccaggio di CO 2 utili alla determinazione degli obblighi successivi al trasferimento di responsabilita' e copre i costi previsti del monitoraggio per un periodo di trenta anni, le spese atte a garantire che il CO2 sia completamente confinato in via permanente nei siti di stoccaggio geologico dopo il trasferimento di responsabilita' e, in caso di danno ambientale, i costi di ripristino del sito e quelli di altri danni collegati, nonche' i costi relativi ai danni arrecati alla salute umana.
+
+3.
+                        
+                            
+                                Nel decreto di trasferimento di responsabilita' di cui all'articolo 24 deve essere stabilito, in particolare: 
+ 
+                            
+                            
+                                a)
+                                
+                                    quali sono le spese che possono insorgere dopo il trasferimento di responsabilita'; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le modalita' di quantificazione delle spese; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    la spesa da assumere come riferimento per il calcolo del contributo per la fase di post-chiusura.
 
 ## Art. 27. — Disposizioni finanziarie
 
@@ -397,6 +1651,38 @@ Dall'attuazione del presente decreto non devono derivare nuovi o maggiori oneri 
 ## Art. 28. — Accesso alla rete di trasporto e ai siti di stoccaggio
 
 I gestori delle reti di trasporto e dei siti di stoccaggio di CO 2 sono tenuti a garantire il collegamento e l'accesso alla propria rete di trasporto e ai siti di stoccaggio ad altri operatori, secondo modalita' trasparenti e non discriminatorie.
+
+2.
+                        
+                            
+                                L'accesso di cui al comma 1 e' garantito secondo modalita' stabilite con decreto dal Ministero dello sviluppo economico ed dal Ministero dell'ambiente, tenuto conto della: 
+ 
+                            
+                            
+                                a)
+                                
+                                    capacita' di stoccaggio disponibile o che puo' essere ragionevolmente resa disponibile all'interno delle aree designate a norma dell'articolo 7 e della capacita' di trasporto disponibile o che puo' essere ragionevolmente resa disponibile; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    parte degli obblighi di riduzione di CO 2 assunti nell'ambito di strumenti giuridici internazionali e della legislazione comunitaria alla quale essi intendono ottemperare attraverso la cattura e lo stoccaggio geologico di CO2 ; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    necessita' di negare l'accesso in caso di incompatibilita' delle specifiche tecniche cui non si possa ragionevolmente ovviare; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    necessita' di conciliare le esigenze debitamente motivate del proprietario o del gestore del sito di stoccaggio o della rete di trasporto e gli interessi di tutti gli altri utilizzatori del sito o della rete o dei relativi impianti di trattamento o di movimentazione eventualmente interessati.
 
 Gli operatori della rete di trasporto e i gestori dei siti di stoccaggio possono negare l'accesso per mancanza di capacita' o di collegamento. Il diniego deve essere debitamente motivato in forma scritta e deve essere immediatamente comunicato al Ministero dello sviluppo economico, al Ministero dell'ambiente e per conoscenza al Comitato.
 

@@ -8,8 +8,8 @@ codice_redazionale: 036U2181
 vigente: true
 source: normattiva-opendata
 collection: Regi decreti
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T10:28:06Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 REGIO DECRETO
@@ -40,6 +40,74 @@ La freccia e' la parte moralmente piu' importante della bandiera: ha nel centro 
 ## Art. 4.
 
 Il drappo e' costituito da stoffa di seta di forma quadrata con lato di cm. 60; e scompartito in tre bande uguali portanti i colori nazionali ed e' bordato da una frangia in filato oro di cm
+
+3.
+                    
+                        
+                            Nel centro del campo bianco e' ricamato in seta le scudo di Savoia con croce bianca in campo rosso con contorno azzurro sormontato dalla corona Reale, nelle seguenti misure: 
+ 
+ 
+                        
+                        
+                            a)
+                            
+                                altezza dello scudo compreso il contorno azzurro centimetri 20; 
+ 
+
+                            
+                        
+                        
+                            b)
+                            
+                                larghezza dello scudo comprese il contorno azzurro cm. 18; 
+ 
+
+                            
+                        
+                        
+                            c)
+                            
+                                larghezza del contorno azzurro cm. 2; 
+ 
+
+                            
+                        
+                        
+                            d)
+                            
+                                larghezza dei rami della croce cm. 2; 
+ 
+
+                            
+                        
+                        
+                            e)
+                            
+                                altezza della corona compresa la crocetta cm. 10; 
+ 
+
+                            
+                        
+                        
+                            f)
+                            
+                                larghezza massima della corona cm. 14; 
+ 
+
+                            
+                        
+                        
+                            g)
+                            
+                                larghezza del frontale della corona cm. 8; 
+ 
+
+                            
+                        
+                        
+                            h)
+                            
+                                distanza fra lo scudo e la corona cm. 0,5.
 
 ## Art. 5.
 

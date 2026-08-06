@@ -7,8 +7,8 @@ urn: urn:nir:ministero.lavoro.e.politiche.sociali:decreto:2001-12-13;470
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:40Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -50,6 +50,31 @@ Possono presentare la domanda per la concessione dei contributi i rappresentanti
 L'esperienza nel settore dell'assistenza ai soggetti con handicap grave, comprovata secondo modalita' individuate dalle regioni e dalle province autonome di Trento e di Bolzano, deve essersi svolta per un adeguato periodo di tempo e deve essere riferita all'attivita' diretta della singola organizzazione nel distretto sanitario o nella regione o nella provincia autonoma in cui si intende realizzare la nuova struttura di accoglienza.
 
 ## Art. 4. — Progetti finanziabili
+
+1.
+                    
+                        
+                            Da parte delle regioni e delle province autonome di Trento e di Bolzano, nel quadro della programmazione degli interventi sociali di cui all'articolo 8, comma 2, della legge 8 novembre 2000, n. 328, anche in collaborazione con gli enti locali, sono finanziabili i progetti che prevedono l'apertura di nuove strutture di accoglienza dei soggetti di cui all'articolo 1, comma 2, e piu' in particolare:
+ 
+                        
+                        
+                            a)
+                            
+                                l'acquisto, la ristrutturazione, la locazione di immobili necessari per l'apertura delle suddette strutture, che vanno localizzate in contesti territoriali tali da consentirne l'integrazione con la rete dei servizi sociali del territorio;
+
+                            
+                        
+                        
+                            b)
+                            
+                                l'acquisto e la messa in opera degli impianti e delle attrezzature, compreso l'arredamento, necessari per il funzionamento delle strutture di accoglienza; tali beni devono essere di primo acquisto e conformi ai requisiti di sicurezza previsti per le attrezzature delle residenze per l'assistenza dei soggetti con handicap grave;
+
+                            
+                        
+                        
+                            c)
+                            
+                                l'avvio e la prosecuzione, per un anno dall'apertura del servizio, delle attivita' assistenziali, di tutela e di sostegno da realizzare nelle strutture di accoglienza.
 
 Il progetto contiene una descrizione completa delle caratteristiche degli interventi e delle professionalita' allo scopo impiegate ed e' corredato di adeguata documentazione attestante i costi degli stessi e la relativa copertura.
 

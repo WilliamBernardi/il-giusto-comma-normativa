@@ -8,8 +8,8 @@ codice_redazionale: 099G0165
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:41Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -43,6 +43,33 @@ Le votazioni si svolgono in due giorni consecutivi non festivi se riguardano le 
 ## Art. 3. — Elettorato attivo e passivo
 
 Hanno diritto a votare per le elezioni dei rappresentanti dei lavoratori delle imprese portuali nella commissione consultiva locale tutti i lavoratori delle imprese che operano in porto ai sensi degli articoli 16, 17, 18 ad esclusione dei lavoratori delle imprese di cui al comma 9-bis, e 21 della legge n. 84 del 1994, che risultano iscritti nel libro paga e negli appositi registri tenuti dall'autorita' portuale o, laddove non istituita, dall'autorita' marittima, alla data di cui all'articolo 2, comma 2, nonche' i dipendenti dell'autorita' portuale in organico alla data sopraindicata, per l'elezione del loro rappresentante in seno alla commissione consultiva locale.
+
+2.
+                    
+                        
+                            Sono eleggibili coloro che risultano in possesso dei seguenti requisiti:
+ 
+                        
+                        
+                            a)
+                            
+                                eta' non inferiore a diciotto anni;
+
+                            
+                        
+                        
+                            b)
+                            
+                                cittadinanza italiana o comunitaria;
+
+                            
+                        
+                        
+                            c)
+                            
+                                aver assolto l'obbligo scolastico.
+ 3 Non possono essere eletti coloro che sono stati dichiarati delinquenti abituali, professionali o per tendenza, coloro che sono o sono stati sotto posti a misure di sicurezza personali o sottoposti alle misure di prevenzione di cui alla legge 27 dicembre 1956, n. 1423, come sostituito dalla legge 3 agosto 1988, n. 327, e alla legge 31 maggio 1965, n. 575, nonche' coloro che sono stati condannati con sentenza divenuta irrevocabile ad una o piu' pene detentive non e inferiori a tre anni salvo che non siano intervenuti provvedimenti riabilitativi.
+ 4. Le autorita' che vigilano sullo svolgimento delle elezioni accertano la sussistenza dei requisiti indicati dal presente articolo.
 
 ## Art. 4. — Presentazione delle liste
 

@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Leggi delega e relativi provvedimenti delegati
 vigenza_date: 2025-12-31
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:41:19Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -43,15 +43,206 @@ Sono fatte salve le competenze riconosciute alle regioni a statuto speciale ed a
 
 ## Art. 2. — Definizioni
 
+1.
+                        
+                            
+                                Ai fini e agli effetti delle disposizioni di cui al presente decreto legislativo si intende per: 
+ 
+                            
+                            
+                                a)
+                                
+                                    "contratto di somministrazione di lavoro": il contratto avente ad oggetto la fornitura professionale di manodopera, a tempo indeterminato o a termine, ai sensi dell'articolo 20; 
+
+                                
+                            
+                            
+                                a-bis)
+                                
+                                    "missione": il periodo durante il quale, nell'ambito di un contratto di somministrazione di lavoro, il lavoratore dipendente da un'agenzia di somministrazione di cui all'articolo 4, comma 1, lettere a) e b), e' messo a disposizione di un utilizzatore di cui all'articolo 20, comma 1, e opera sotto il controllo e la direzione dello stesso; 
+
+                                
+                            
+                            
+                                a-ter)
+                                
+                                    "condizioni di base di lavoro e d'occupazione": il trattamento economico, normativo e occupazionale previsto da disposizioni legislative, regolamentari e amministrative, da contratti collettivi o da altre disposizioni vincolanti di portata generale in vigore presso un utilizzatore di cui all'articolo 20, comma 1, ivi comprese quelle relative: 
+ 1) all'orario di lavoro, le ore di lavoro straordinario, le pause, i periodi di riposo, il lavoro notturno, le ferie e i giorni festivi; 
+ 2) alla retribuzione; 
+ 3) alla protezione delle donne in stato di gravidanza e in periodo di allattamento, nonche' la protezione di bambini e giovani; la parita' di trattamento fra uomo e donna, nonche' altre disposizioni in materia di non discriminazione; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    "intermediazione": l'attivita' di mediazione tra domanda e offerta di lavoro, anche in relazione all'inserimento lavorativo dei disabili e dei gruppi di lavoratori svantaggiati, comprensiva tra l'altro: della raccolta dei curricula dei potenziali lavoratori; della preselezione e costituzione di relativa banca dati; della promozione e gestione dell'incontro tra domanda e offerta di lavoro; della effettuazione, su richiesta del committente, di tutte le comunicazioni conseguenti alle assunzioni avvenute a seguito della attivita' di intermediazione; dell'orientamento professionale; della progettazione ed erogazione di attivita' formative finalizzate all'inserimento lavorativo; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    "ricerca e selezione del personale": l'attivita' di consulenza di direzione finalizzata alla risoluzione di una specifica esigenza dell'organizzazione committente, attraverso l'individuazione di candidature idonee a ricoprire una o piu' posizioni lavorative in seno all'organizzazione medesima, su specifico incarico della stessa, e comprensiva di: analisi del contesto organizzativo dell'organizzazione committente; individuazione e definizione delle esigenze della stessa; definizione del profilo di competenze e di capacita' della candidatura ideale; pianificazione e realizzazione del programma di ricerca delle candidature attraverso una pluralita' di canali di reclutamento; valutazione delle candidature individuate attraverso appropriati strumenti selettivi; formazione della rosa di candidature maggiormente idonee; progettazione ed erogazione di attivita' formative finalizzate all'inserimento lavorativo; assistenza nella fase di inserimento dei candidati; verifica e valutazione dell'inserimento e del potenziale dei candidati; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    "supporto alla ricollocazione professionale": l'attivita' effettuata su specifico ed esclusivo incarico dell'organizzazione committente, anche in base ad accordi sindacali, finalizzata alla ricollocazione nel mercato del lavoro di prestatori di lavoro, singolarmente o collettivamente considerati, attraverso la preparazione, la formazione finalizzata all'inserimento lavorativo, l'accompagnamento della persona e l'affiancamento della stessa nell'inserimento nella nuova attivita'; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    "autorizzazione": provvedimento mediante il quale lo Stato abilita operatori, pubblici e privati, di seguito denominati "agenzie per il lavoro", allo svolgimento delle attivita' di cui alle lettere da a) a d); 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    "accreditamento": provvedimento mediante il quale le regioni riconoscono a un operatore, pubblico o privato, l'idoneita' a erogare i servizi al lavoro negli ambiti regionali di riferimento, anche mediante l'utilizzo di risorse pubbliche, nonche' la partecipazione attiva alla rete dei servizi per il mercato del lavoro con particolare riferimento ai servizi di incontro fra domanda e offerta; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    "borsa continua del lavoro": sistema aperto di incontro domanda-offerta di lavoro finalizzato, in coerenza con gli indirizzi comunitari, a favorire la maggior efficienza e trasparenza del mercato del lavoro, all'interno del quale cittadini, lavoratori, disoccupati, persone in cerca di un lavoro, soggetti autorizzati o accreditati e datori di lavoro possono decidere di incontrarsi in maniera libera e dove i servizi sono liberamente scelti dall'utente; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    "enti bilaterali": organismi costituiti a iniziativa di una o piu' associazioni dei datori e dei prestatori di lavoro comparativamente piu' rappresentative, quali sedi privilegiate per la regolazione del mercato del lavoro attraverso: la promozione di una occupazione regolare e di qualita'; l'intermediazione nell'incontro tra domanda e offerta di lavoro; la programmazione di attivita' formative e la determinazione di modalita' di attuazione della formazione professionale in azienda; la promozione di buone pratiche contro la discriminazione e per la inclusione dei soggetti piu' svantaggiati; la gestione mutualistica di fondi per la formazione e l'integrazione del reddito; la certificazione dei contratti di lavoro e di regolarita' o congruita' contributiva; lo sviluppo di azioni inerenti la salute e la sicurezza sul lavoro; ogni altra attivita' o funzione assegnata loro dalla legge o dai contratti collettivi di riferimento; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    
+                                        ((LETTERA ABROGATA DAL D.LGS. 14 SETTEMBRE 2015, N. 150)); 
+
+                                
+                            
+                            
+                                j)
+                                
+                                    "lavoratore": qualsiasi persona che lavora o che e' in cerca di un lavoro; 
+
+                                
+                            
+                            
+                                k)
+                                
+                                    "lavoratore svantaggiato": qualsiasi persona appartenente a una categoria che abbia difficolta' a entrare, senza assistenza, nel mercato del lavoro ai sensi dell'articolo 2, lettera f), del regolamento (CE) n. 2204/2002 della Commissione del 12 dicembre 2002 relativo alla applicazione degli articoli 87 e 88 del trattato CE agli aiuti di Stato a favore della occupazione, nonche' ai sensi dell'articolo 4, comma 1, della legge 8 novembre 1991, n. 381; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    "divisioni operative": soggetti polifunzionali gestiti con strumenti di contabilita' analitica, tali da consentire di conoscere tutti i dati economico-gestionali specifici in relazione a ogni attivita'; 
+
+                                
+                            
+                            
+                                m)
+                                
+                                    "associazioni di datori e prestatori di lavoro": organizzazioni datoriali e sindacali comparativamente piu' rappresentative.
+
 ## - Titolo II ORGANIZZAZIONE E DISCIPLINA DEL MERCATO DEL LAVORO
 
 ## Art. 3. — F i n a l i t a'
 
 Le disposizioni contenute nel presente titolo hanno lo scopo di realizzare un sistema efficace e coerente di strumenti intesi a garantire trasparenza ed efficienza del mercato del lavoro e migliorare le capacita' di inserimento professionale dei disoccupati e di quanti sono in cerca di una prima occupazione, con particolare riferimento alle fasce deboli del mercato del lavoro.
 
+2.
+                        
+                            
+                                Ferme restando le competenze delle regioni in materia di regolazione e organizzazione del mercato del lavoro regionale e fermo restando il mantenimento da parte delle province delle funzioni amministrative attribuite dal decreto legislativo 23 dicembre 1997, n. 469, e successive modificazioni ed integrazioni, per realizzare l'obiettivo di cui al comma 1:
+ 
+                            
+                            
+                                a)
+                                
+                                    viene identificato un unico regime di autorizzazione per i soggetti che svolgono attivita' di somministrazione di lavoro, intermediazione, ricerca e selezione del personale, supporto alla ricollocazione professionale;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    vengono stabiliti i principi generali per la definizione dei regimi di accreditamento regionali degli operatori pubblici o privati che forniscono servizi al lavoro nell'ambito dei sistemi territoriali di riferimento anche a supporto delle attivita' di cui alla lettera a);
+
+                                
+                            
+                            
+                                c)
+                                
+                                    vengono identificate le forme di coordinamento e raccordo tra gli operatori, pubblici o privati, al fine di un migliore funzionamento del mercato del lavoro;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    vengono stabiliti i principi e criteri direttivi per la realizzazione di una borsa continua del lavoro;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    vengono abrogate tutte le disposizioni incompatibili con la nuova regolamentazione del mercato del lavoro e viene introdotto un nuovo regime sanzionatorio.
+
 ## - Capo I Regime autorizzatorio e accreditamenti
 
 ## Art. 4. — Agenzie per il lavoro
+
+1.
+                        
+                            
+                                Presso il Ministero del lavoro e delle politiche sociali e' istituito un apposito albo delle agenzie per il lavoro ai fini dello svolgimento delle attivita' di somministrazione, intermediazione, ricerca e selezione del personale, supporto alla ricollocazione professionale. Il predetto albo e' articolato in cinque sezioni:
+ 
+                            
+                            
+                                a)
+                                
+                                    agenzie di somministrazione di lavoro abilitate allo svolgimento di tutte le attivita' di cui all'articolo 20;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    agenzie di somministrazione di lavoro a tempo indeterminato abilitate a svolgere esclusivamente una delle attivita' specifiche di cui all'articolo 20, comma 3, lettere da a) a h);
+
+                                
+                            
+                            
+                                c)
+                                
+                                    agenzie di intermediazione;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    agenzie di ricerca e selezione del personale;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    agenzie di supporto alla ricollocazione professionale.
 
 Il Ministero del lavoro e delle politiche sociali rilascia entro sessanta giorni dalla richiesta e previo accertamento della sussistenza dei requisiti giuridici e finanziari di cui all'articolo 5, l'autorizzazione provvisoria all'esercizio delle attivita' per le quali viene fatta richiesta di autorizzazione, provvedendo contestualmente alla iscrizione delle agenzie nel predetto albo. ((Decorsi due anni, entro i novanta giorni successivi, i soggetti autorizzati possono richiedere l'autorizzazione a tempo indeterminato. Il Ministero del lavoro e delle politiche sociali rilascia l'autorizzazione a tempo indeterminato entro novanta giorni dalla richiesta, previa verifica del rispetto degli obblighi di legge e del contratto collettivo e, in ogni caso, subordinatamente al corretto andamento della attivita' svolta)).
 
@@ -68,7 +259,234 @@ L'autorizzazione di cui al presente articolo non puo' essere oggetto di transazi
 
 ## Art. 5. — Requisiti giuridici e finanziari
 
+1.
+                        
+                            
+                                I requisiti richiesti per l'iscrizione all'albo di cui all'articolo 4 sono:
+
+                            
+                            
+                                a)
+                                
+                                    la costituzione della agenzia nella forma di societa' di capitali ovvero cooperativa o consorzio di cooperative, italiana o di altro Stato membro della Unione europea. Per le agenzie di cui alle lettere d) ed e) e' ammessa anche la forma della societa' di persone;
+                                
+                            
+                            
+                                b)
+                                
+                                    la sede legale o una sua dipendenza nel territorio dello Stato o di altro Stato membro della Unione europea;
+                                
+                            
+                            
+                                c)
+                                
+                                    la disponibilita' di uffici in locali idonei allo specifico uso e di adeguate competenze professionali, dimostrabili per titoli o per specifiche esperienze nel settore delle risorse umane o nelle relazioni industriali, secondo quanto precisato dal Ministero del lavoro e delle politiche sociali con decreto da adottarsi, d'intesa con la Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome di Trento e di Bolzano e sentite le associazioni dei datori e dei prestatori di lavoro comparativamente piu' rappresentative, entro trenta giorni dalla data di entrata in vigore del presente decreto legislativo;
+                                
+                            
+                            
+                                d)
+                                
+                                    in capo agli amministratori, ai direttori generali, ai dirigenti muniti di rappresentanza e ai soci accomandatari: assenza di condanne penali, anche non definitive, ivi comprese le sanzioni sostitutive di cui alla legge 24 novembre 1981, n. 689, e successive modificazioni ed integrazioni, per delitti contro il patrimonio, per delitti contro la fede pubblica o contro l'economia pubblica, per il delitto previsto dall'articolo 416-bis del codice penale, o per delitti non colposi per i quali la legge commini la pena della reclusione non inferiore nel massimo a tre anni, per delitti o contravvenzioni previsti da leggi dirette alla prevenzione degli infortuni sul lavoro o, in ogni caso, previsti da leggi in materia di lavoro o di previdenza sociale; assenza, altresi', di sottoposizione alle misure di prevenzione disposte ai sensi della legge 27 dicembre 1956, n. 1423, o della legge 31 maggio 1965, n. 575, o della legge 13 settembre 1982, n. 646, e successive modificazioni;
+                                
+                            
+                            
+                                e)
+                                
+                                    nel caso di soggetti polifunzionali, non caratterizzati da un oggetto sociale esclusivo, presenza di distinte divisioni operative, gestite con strumenti di contabilita' analitica, tali da consentire di conoscere tutti i dati economico-gestionali specifici;
+                                
+                            
+                            
+                                f)
+                                
+                                    l'interconnessione con la borsa continua nazionale del lavoro di cui all'articolo 15, attraverso il raccordo con uno o piu' nodi regionali, nonche' l'invio all'autorita' concedente, pena la revoca dell'autorizzazione, di ogni informazione strategica per un efficace funzionamento del mercato del lavoro, tra cui i casi in cui un percettore di sussidio o indennita' pubblica rifiuti senza giustificato motivo una offerta formativa, un progetto individuale di reinserimento nel mercato del lavoro ovvero una occupazione congrua ai sensi della legislazione vigente;
+                                
+                            
+                            
+                                g)
+                                
+                                    il rispetto delle disposizioni di cui all'articolo 8 a tutela del diritto del lavoratore alla diffusione dei propri dati nell'ambito da essi stessi indicato.
+
+2.
+                        
+                            
+                                Per l'esercizio delle attivita' di cui all'articolo 20, oltre ai requisiti di cui al comma l, e' richiesta:
+
+                            
+                            
+                                a)
+                                
+                                    l'acquisizione di un capitale versato non inferiore a 600.000 euro ovvero la disponibilita' di 600.000 euro tra capitale sociale versato e riserve indivisibili nel caso in cui l'agenzia sia costituita in forma coo- perativa;
+                                
+                            
+                            
+                                b)
+                                
+                                    la garanzia che l'attivita' interessi un ambito distribuito sull'intero territorio nazionale e comunque non inferiore a quattro regioni;
+                                
+                            
+                            
+                                c)
+                                
+                                    a garanzia dei crediti dei lavoratori impiegati e dei corrispondenti crediti contributivi degli enti previdenziali, la disposizione, per i primi due anni, di un deposito cauzionale di 350.000 euro presso un istituto di credito avente sede o dipendenza nei territorio nazionale o di altro Stato membro della Unione europea; a decorrere dal terzo anno solare, la disposizione, in luogo della cauzione, di una fideiussione bancaria o assicurativa o rilasciata da intermediari iscritti nell'elenco speciale di cui all'articolo 107 del decreto legislativo 1° settembre 1993, n. 385, che svolgono in via prevalente o esclusiva attivita' di rilascio di garanzie, a cio' autorizzati dal Ministero dell'economia e delle finanze, non inferiore al 5 per cento del fatturato, al netto dell'imposta sul valore aggiunto, realizzato nell'anno precedente e comunque non inferiore a 350.000 euro. Sono esonerate dalla prestazione delle garanzie di cui alla presente lettera le societa' che abbiano assolto ad obblighi analoghi previsti per le stesse finalita' dalla legislazione di altro Stato membro della Unione europea;
+                                
+                            
+                            
+                                d)
+                                
+                                    la regolare contribuzione ai fondi per la formazione e l'integrazione del reddito di cui all'articolo 12, il regolare versamento dei contributi previdenziali e assistenziali, il rispetto degli obblighi previsti dal contratto collettivo nazionale delle imprese di somministrazione di lavoro applicabile;
+                                
+                            
+                            
+                                e)
+                                
+                                    nel caso di cooperative di produzione e lavoro, oltre ai requisiti indicati al comma 1 e nel presente comma 2, la presenza di almeno sessanta soci e tra di essi, come socio sovventore, almeno un fondo mutualistico per la promozione e lo sviluppo della cooperazione, di cui agli articoli 11 e 12 della legge 31 gennaio 1992, n. 59, e successive modificazioni;
+                                
+                            
+                            
+                                f)
+                                
+                                    l'indicazione della somministrazione di lavoro di cui all'articolo 4, comma 1, lettera a), come oggetto sociale prevalente, anche se non esclusivo.
+
+3.
+                        
+                            
+                                Per l'esercizio di una delle attivita' specifiche di cui alle lettere da 
+                            
+                            
+                                a)
+                                
+                                    ad h) del comma 3, dell'articolo 20, oltre ai requisiti di cui al comma 1, e' richiesta:
+a) l'acquisizione di un capitale versato non inferiore a 350.000 euro ovvero la disponibilita' di 350.000 euro tra capitale sociale versato e riserve indivisibili nel caso in cui l'agenzia sia costituita in forma cooperativa;
+                                
+                            
+                            
+                                b)
+                                
+                                    a garanzia dei crediti dei lavoratori impiegati e dei corrispondenti crediti contributivi degli enti previdenziali, la disposizione, per i primi due anni, di un deposito cauzionale di 200.000 euro presso un istituto di credito avente sede o dipendenza nel territorio nazionale o di altro Stato membro della Unione europea; a decorrere dal terzo anno solare, la disposizione, in luogo della cauzione, di una fideiussione bancaria o assicurativa o rilasciata da intermediari iscritti nell'elenco speciale di cui all'articolo 107 del decreto legislativo l° settembre 1993, n. 385, che svolgono in via prevalente o esclusiva attivita' di rilascio di garanzie, a cio' autorizzati dal Ministero dell'economia e delle finanze, non inferiore al 5 per cento del fatturato, al netto dell'imposta sul valore aggiunto, realizzato nell'anno precedente e comunque non inferiore a 200.000 euro. Sono esonerate dalla prestazione delle garanzie di cui alla presente lettera le societa' che abbiano assolto ad obblighi analoghi previsti per le stesse finalita' dalla legislazione di altro Stato membro della Unione europea;
+                                
+                            
+                            
+                                c)
+                                
+                                    la regolare contribuzione ai fondi per la formazione e l'integrazione del reddito di cui all'articolo 12, il regolare versamento dei contributi previdenziali e assistenziali, il rispetto degli obblighi previsti dal contratto collettivo nazionale delle imprese di somministrazione di lavoro applicabile;
+                                
+                            
+                            
+                                d)
+                                
+                                    nel caso di cooperative di produzione e lavoro, oltre ai requisiti indicati al comma 1 e nel presente comma 3, la presenza di almeno venti soci e tra di essi, come socio sovventore, almeno un fondo mutualistico per la promozione e lo sviluppo della cooperazione, di cui agli articoli 11 e 12 della legge 31 gennaio 1992, n. 59.
+
+4.
+                        
+                            
+                                Per l'esercizio della attivita' di intermediazione, oltre ai requisiti di cui al comma 1, e' richiesta:
+
+                            
+                            
+                                a)
+                                
+                                    l'acquisizione di un capitale versato non inferiore a 50.000 euro;
+                                
+                            
+                            
+                                b)
+                                
+                                    la garanzia che l'attivita' interessi un ambito distribuito sull'intero territorio nazionale e comunque non inferiore a quattro regioni;
+                                
+                            
+                            
+                                c)
+                                
+                                    l'indicazione della attivita' di intermediazione di cui all'articolo 4, comma 1, lettera c), come oggetto sociale prevalente, anche se non esclusivo.
+
+5.
+                        
+                            
+                                Per l'esercizio della attivita' di ricerca e selezione del personale, oltre ai requisiti di cui al comma 1, e' richiesta:
+
+                            
+                            
+                                a)
+                                
+                                    l'acquisizione di un capitale versato non inferiore a 25.000 euro;
+                                
+                            
+                            
+                                b)
+                                
+                                    l'indicazione della ricerca e selezione del personale come oggetto sociale, anche se non esclusivo.
+
+6.
+                        
+                            
+                                Per l'esercizio della attivita' di supporto alla ricollocazione professionale, oltre ai requisiti di cui al comma 1, e' richiesta:
+
+                            
+                            
+                                a)
+                                
+                                    l'acquisizione di un capitale versato non inferiore a 25.000 euro;
+                                
+                            
+                            
+                                b)
+                                
+                                    l'indicazione della attivita' di supporto alla ricollocazione professionale come oggetto sociale, anche se non esclusivo.
+
 ## Art. 6. — (Regimi particolari di autorizzazione)
+
+1.
+                        
+                            
+                                Sono autorizzati allo svolgimento delle attivita' di intermediazione: 
+ 
+                            
+                            
+                                a)
+                                
+                                    gli istituti di scuola secondaria di secondo grado, statali e paritari,a condizione che rendano pubblici e gratuitamente accessibili sui relativi siti istituzionali i curricula dei propri studenti all'ultimo anno di corso e fino ad almeno dodici mesi successivi alla data del conseguimento del titolo di studio; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le universita', pubbliche e private, e i consorzi universitari, a condizione che rendano pubblici e gratuitamente accessibili sui relativi siti istituzionali i curricula dei propri studenti dalla data di immatricolazione e fino ad almeno dodici mesi successivi alla data del conseguimento del titolo di studio; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    i comuni, singoli o associati nelle forme delle unioni di comuni e delle comunita' montane, e le camere di commercio; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    le associazioni dei datori di lavoro e dei lavoratori comparativamente piu' rappresentative sul piano nazionale anche per il tramite delle associazioni territoriali e delle societa' di servizi controllate; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    i patronati, gli enti bilaterali e le associazioni senza fini di lucro che hanno per oggetto la tutela del lavoro, l'assistenza e la promozione delle attivita' imprenditoriali, la progettazione e l'erogazione di percorsi formativi e di alternanza, la tutela della disabilita'; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    i gestori di siti internet a condizione che svolgano la predetta attivita' senza finalita' di lucro e che rendano pubblici sul sito medesimo i dati identificativi del legale rappresentante; 
+
+                                
+                            
+                            
+                                f-bis)
+                                
+                                    l'Ente nazionale di previdenza e di assistenza per i lavoratori dello spettacolo e dello sport professionistico, con esclusivo riferimento ai lavoratori dello spettacolo come definiti ai sensi della normativa vigente.
 
 L'ordine nazionale dei consulenti del lavoro puo' chiedere l'iscrizione all'albo di cui all'articolo 4 di una apposita fondazione o di altro soggetto giuridico dotato di personalita' giuridica costituito nell'ambito del consiglio nazionale dei consulenti del lavoro per lo svolgimento a livello nazionale di attivita' di intermediazione. L'iscrizione e' subordinata al rispetto dei requisiti di cui alle lettere c), d), e), f), g) di cui all'articolo 5, comma 1.
 
@@ -81,6 +499,84 @@ Le amministrazioni di cui al comma 1 inserite nell'elenco di cui all'articolo 1,
 ((5-bis. L'iscrizione alla sezione dell'albo di cui all'articolo 4, comma 1, lettera c), dei soggetti autorizzati secondo il regime particolare di cui al comma 1, lettere c), d), e), f), e f-bis), nonche' al comma 2 del presente articolo, comporta automaticamente l'iscrizione degli stessi alle sezioni dell'Albo di cui alle lettere d) ed e) dell'articolo 4, comma 1))
 
 ## Art. 7. — Accreditamenti
+
+1.
+                        
+                            
+                                Le regioni, sentite le associazioni dei datori e dei prestatori di lavoro comparativamente piu' rappresentative, istituiscono appositi elenchi per l'accreditamento degli operatori pubblici e privati che operano nel proprio territorio nel rispetto degli indirizzi da esse definiti ai sensi dell'articolo 3 del decreto legislativo 21 aprile 2000, n. 181, e successive modificazioni, e dei seguenti principi e criteri:
+ 
+                            
+                            
+                                a)
+                                
+                                    garanzia della libera scelta dei cittadini, nell'ambito di una rete di operatori qualificati, adeguata per dimensione e distribuzione alla domanda espressa dal territorio;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    salvaguardia di standard omogenei a livello nazionale nell'affidamento di funzioni relative all'accertamento dello stato di disoccupazione e al monitoraggio dei flussi del mercato del lavoro;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    costituzione negoziale di reti di servizio ai fini dell'ottimizzazione delle risorse;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    obbligo della interconnessione con la borsa continua nazionale del lavoro di cui all'articolo 15, nonche' l'invio alla autorita' concedente di ogni informazione strategica per un efficace funzionamento del mercato del lavoro;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    raccordo con il sistema regionale di accreditamento degli organismi di formazione.
+
+2.
+                        
+                            
+                                I provvedimenti regionali istitutivi dell'elenco di cui al comma 1 disciplinano altresi':
+ 
+                            
+                            
+                                a)
+                                
+                                    le forme della cooperazione tra i servizi pubblici e operatori privati, autorizzati ai sensi delle disposizioni di cui agli articoli 4, 5 e 6 o accreditati ai sensi del presente articolo, per le funzioni di incontro tra domanda e offerta di lavoro, prevenzione della disoccupazione di lunga durata, promozione dell'inserimento lavorativo dei lavoratori svantaggiati, sostegno alla mobilita' geografica del lavoro;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    requisiti minimi richiesti per l'iscrizione nell'elenco regionale in termini di capacita' gestionali e logistiche, competenze professionali, situazione economica, esperienze maturate nel contesto territoriale di riferimento;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    le procedure per l'accreditamento;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    le modalita' di misurazione dell'efficienza e della efficacia dei servizi erogati;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    le modalita' di tenuta dell'elenco e di verifica del mantenimento dei requisiti.
 
 ## - Capo II Tutele sul mercato e disposizioni speciali con riferimento ai lavoratori svantaggiati
 
@@ -118,9 +614,55 @@ I contratti collettivi stipulati da associazioni dei datori di lavoro e dei pres
 
 I soggetti autorizzati alla somministrazione di lavoro sono tenuti a versare ai fondi di cui al comma 4 un contributo pari al 4 per cento della retribuzione corrisposta ai lavoratori assunti con contratto a tempo determinato per l'esercizio di attivita' di somministrazione. Le risorse sono destinate a interventi di formazione e riqualificazione professionale, nonche' a misure di carattere previdenziale e di sostegno al reddito a favore dei lavoratori assunti con contratto a tempo determinato, dei lavoratori che abbiano svolto in precedenza missioni di lavoro in somministrazione in forza di contratti a tempo determinato e, limitatamente agli interventi formativi, dei potenziali candidati a una missione. (22)
 
+2.
+                        
+                            
+                                I soggetti autorizzati alla somministrazione di lavoro sono altresi' tenuti e versare ai fondi di cui al comma 4 un contributo pari al 4 per cento della retribuzione corrisposta ai lavoratori assunti con contratto a tempo indeterminato. Le risorse sono destinate a: 
+
+                            
+                            
+                                a)
+                                
+                                    iniziative comuni finalizzate a garantire l'integrazione del reddito dei lavoratori assunti con contratto a tempo indeterminato in caso di fine lavori; 
+                                
+                            
+                            
+                                b)
+                                
+                                    iniziative comuni finalizzate a verificare l'utilizzo della somministrazione di lavoro e la sua efficacia anche in termini di promozione della emersione del lavoro non regolare e di contrasto agli appalti illeciti; 
+                                
+                            
+                            
+                                c)
+                                
+                                    iniziative per l'inserimento o il reinserimento nel mercato del lavoro di lavoratori svantaggiati anche in regime di accreditamento con le regioni; 
+                                
+                            
+                            
+                                d)
+                                
+                                    per la promozione di percorsi di qualificazione e riqualificazione professionale.
+
 Gli interventi di cui ai commi 1 e 2 sono attuati nel quadro delle politiche e delle misure stabilite dal contratto collettivo nazionale di lavoro delle imprese di somministrazione di lavoro, sottoscritto dalle organizzazioni dei datori di lavoro e dei lavoratori comparativamente piu' rappresentative a livello nazionale ovvero, in mancanza, dai fondi di cui al comma 4. (40)
 
 ((3-bis. In considerazione dei rapidi cambiamenti del mercato del lavoro che richiedono il tempestivo adeguamento delle competenze dei candidati a una missione e dei lavoratori assunti a tempo determinato o indeterminato e della necessita' di reperire e formare le professionalita' necessarie per soddisfare i fabbisogni delle imprese e per favorire l'attuazione del Piano nazionale di ripresa e resilienza, e' consentito l'utilizzo congiunto, sostitutivo o integrativo delle risorse di cui ai commi 1 e 2 in deroga alle disposizioni del comma 3))
+
+4.
+                        
+                            
+                                I contributi di cui ai commi 1 e 2 sono rimessi a un fondo bilaterale appositamente costituito, anche nell'ente bilaterale, dalle parti stipulanti il contratto collettivo nazionale delle imprese di somministrazione di lavoro: 
+
+                            
+                            
+                                a)
+                                
+                                    come soggetto giuridico di natura associativa ai sensi dell'articolo 36 del codice civile; 
+                                
+                            
+                            
+                                b)
+                                
+                                    come soggetto dotato di personalita' giuridica ai sensi dell'articolo 12 del codice civile con procedimento per il riconoscimento rientrante nelle competenze del Ministro del lavoro e delle politiche sociali ai sensi dell'articolo 2, comma 1, della legge 12 gennaio 1991, n. 13.
 
 I fondi di cui al comma 4 sono attivati a seguito di autorizzazione del Ministero del lavoro e delle politiche sociali, previa verifica della congruita', rispetto alle finalita' istituzionali previste ai commi 1 e 2, dei criteri di gestione e delle strutture di funzionamento del fondo stesso, con particolare riferimento alla sostenibilita' finanziaria complessiva del sistema.
 Il Ministero del lavoro e delle politiche sociali esercita la vigilanza sulla gestione dei fondi e approva, entro il termine di sessanta giorni dalla presentazione, il documento contenente le regole stabilite dal fondo per il versamento dei contributi e per la gestione, il controllo, la rendicontazione e il finanziamento degli interventi di cui ai commi 1 e 2. Decorso inutilmente tale termine, il documento si intende approvato.
@@ -148,6 +690,46 @@ Gli interventi di cui al presente articolo trovano applicazione con esclusivo ri
 
 ## Art. 13. — Misure di incentivazione del raccordo pubblico e privato
 
+1.
+                        
+                            
+                                Al fine di garantire l'inserimento o il reinserimento nel mercato del lavoro dei lavoratori svantaggiati, attraverso politiche attive e di workfare, alle agenzie autorizzate alla somministrazione di lavoro e' consentito: 
+
+                            
+                            
+                                a)
+                                
+                                    operare ((. . .)) solo in presenza di un piano individuale di inserimento o reinserimento nel mercato del lavoro, con interventi formativi idonei e il coinvolgimento di un tutore con adeguate competenze e professionalita', e a fronte della assunzione del lavoratore, da parte delle agenzie autorizzate alla somministrazione, con contratto di durata non inferiore a sei mesi; 
+                                
+                            
+                            
+                                b)
+                                
+                                    determinare altresi', per un periodo massimo di dodici mesi e solo in caso di contratti di durata non inferiore a nove mesi, il trattamento retributivo del lavoratore, detraendo dal compenso dovuto quanto eventualmente percepito dal lavoratore medesimo a titolo di indennita' di mobilita', indennita' di disoccupazione ordinaria o speciale, o altra indennita' o sussidio la cui corresponsione e' collegata allo stato di disoccupazione o inoccupazione, e detraendo dai contributi dovuti per l'attivita' lavorativa l'ammontare dei contributi figurativi nel caso di trattamenti di mobilita' e di indennita' di disoccupazione ordinaria o speciale.
+
+2.
+                        
+                            
+                                Il lavoratore destinatario delle attivita' di cui al comma 1 decade dai trattamenti di mobilita', qualora l'iscrizione nelle relative liste sia finalizzata esclusivamente al reimpiego, di disoccupazione ordinaria o speciale, o da altra indennita' o sussidio la cui corresponsione e' collegata allo stato di disoccupazione o in occupazione, quando: 
+
+                            
+                            
+                                a)
+                                
+                                    rifiuti di essere avviato a un progetto individuale di reinserimento nel mercato del lavoro ovvero rifiuti di essere avviato a un corso di formazione professionale autorizzato dalla regione o non lo frequenti regolarmente, fatti salvi i casi di impossibilita' derivante da forza maggiore; 
+                                
+                            
+                            
+                                b)
+                                
+                                    non accetti l'offerta di un lavoro inquadrato in un livello retributivo non inferiore del 20 per cento rispetto a quello delle mansioni di provenienza; 
+                                
+                            
+                            
+                                c)
+                                
+                                    non abbia provveduto a dare preventiva comunicazione alla competente sede I.N.P.S. del lavoro prestato ai sensi dell'articolo 8, commi 4 e 5 del decreto-legge 21 marzo 1988, n. 86, convertito, con modificazioni, dalla legge 20 maggio 1988, n. 160.
+
 Le disposizioni di cui al comma 2 si applicano quando le attivita' lavorative o di formazione offerte al lavoratore siano congrue rispetto alle competenze e alle qualifiche del lavoratore stesso e si svolgano in un luogo raggiungibile in 80 minuti con mezzi pubblici da quello della sua residenza. Le disposizioni di cui al comma 2, lettere b) e c) non si applicano ai lavoratori inoccupati.
 
 Nei casi di cui al comma 2, i responsabili della attivita' formativa ovvero le agenzie di somministrazione di lavoro comunicano direttamente all'I.N.P.S., e al servizio per l'impiego territorialmente competente ai fini della cancellazione dalle liste di mobilita', i nominativi dei soggetti che possono essere ritenuti decaduti dai trattamenti previdenziali. A seguito di detta comunicazione, l'I.N.P.S. sospende cautelativamente l'erogazione del trattamento medesimo, dandone comunicazione agli interessati.
@@ -165,6 +747,59 @@ Nella ipotesi di cui al comma 7, le agenzie autorizzate alla somministrazione di
 ## Art. 14. — (Cooperative sociali, imprese sociali e inserimento lavorativo dei lavoratori svantaggiati)
 
 Al fine di favorire l'inserimento lavorativo dei lavoratori svantaggiati e dei lavoratori disabili, i servizi di cui all'articolo 6, comma 1, della legge 12 marzo 1999, n. 68, ((...)) stipulano con le associazioni sindacali dei datori di lavoro e dei prestatori di lavoro comparativamente piu' rappresentative a livello nazionale e con le associazioni di rappresentanza, assistenza e tutela delle cooperative di cui all'articolo 1, comma 1, lettera b), della legge 8 novembre 1991, n. 381, con i consorzi di cui all'articolo 8 della stessa legge e con le imprese sociali di cui al decreto legislativo 3 luglio 2017, n. 112 ((, nonche' con gli enti del Terzo settore non commerciali di cui all'articolo 79, comma 5, del codice del Terzo settore, di cui al decreto legislativo 3 luglio 2017, n. 117, e con le societa' benefit di cui all'articolo 1, comma 376, della legge 28 dicembre 2015, n. 208)), convenzioni quadro su base territoriale, che devono essere validate da parte delle regioni, sentiti gli organismi di concertazione di cui al decreto legislativo 23 dicembre 1997, n. 469, aventi ad oggetto il conferimento di commesse di lavoro ((alle cooperative sociali, alle imprese sociali, alle societa' benefit e agli enti del Terzo settore non commerciali medesimi da parte delle imprese associate o aderenti)).
+
+2.
+                        
+                            
+                                La convenzione quadro disciplina i seguenti aspetti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    le modalita' di adesione da parte delle imprese interessate; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    i criteri di individuazione dei lavoratori svantaggiati da inserire al lavoro ((nella cooperativa, nell'impresa sociale, nella societa' benefit e nell'ente del Terzo settore non commerciale)); l'individuazione dei disabili e' curata dai servizi di cui all'articolo 6, comma 1, della legge 12 marzo 1999, n. 68; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    le modalita' di attestazione del valore complessivo del lavoro annualmente conferito da ciascuna impresa e la correlazione con il numero dei lavoratori svantaggiati inseriti al lavoro ((nella cooperativa, nell'impresa sociale, nella societa' benefit e nell'ente del Terzo settore non commerciale)); 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    la determinazione del coefficiente di calcolo del valore unitario delle commesse, ai fini del computo di cui al comma 3, secondo criteri di congruita' con i costi del lavoro derivati dai contratti collettivi di categoria applicati dalle cooperative sociali e dalle imprese sociali; ((53))
+                                    
+                                
+                            
+                            
+                                e)
+                                
+                                    la promozione e lo sviluppo delle commesse di lavoro a favore delle cooperative sociali e delle imprese sociali; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    l'eventuale costituzione, anche nell'ambito dell'agenzia sociale di cui all'articolo 13, di una struttura tecnico-operativa senza scopo di lucro a supporto delle attivita' previste dalla convenzione; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    i limiti di percentuali massime di copertura della quota d'obbligo da realizzare con lo strumento della convenzione.
 
 Qualora l'inserimento lavorativo ((nella cooperativa, nell'impresa sociale, nella societa' benefit e nell'ente del Terzo settore non commerciale)), realizzato ai sensi dei commi 1 e 2, riguardi i lavoratori disabili, che presentino particolari caratteristiche e difficolta' di inserimento nel ciclo lavorativo ordinario, in base all'esclusiva valutazione dei servizi di cui all'articolo 6, comma 1, della legge 12 marzo 1999, n. 68, lo stesso si considera utile ai fini della copertura della quota di riserva, di cui all'articolo 3 della stessa legge, cui sono tenute le imprese conferenti. Il numero delle coperture per ciascuna impresa e' dato dall'ammontare annuo delle commesse dalla stessa conferite diviso per il coefficiente di cui al comma 2, lettera d), e nei limiti di percentuali massime stabilite con le convenzioni quadro di cui al comma 1. Tali limiti percentuali non hanno effetto nei confronti delle imprese che occupano da 15 a 35 dipendenti. La congruita' della computabilita' dei lavoratori inseriti ((nella cooperativa, nell'impresa sociale, nella societa' benefit e nell'ente del Terzo settore non commerciale)) e' verificata dalla Commissione provinciale del lavoro.
 
@@ -191,6 +826,30 @@ Tale sistema e' alimentato da tutte le informazioni utili a tale scopo immesse l
 La borsa continua nazionale del lavoro e' liberamente accessibile da parte dei lavoratori e delle imprese e deve essere consultabile da un qualunque punto della rete. I lavoratori e le imprese hanno facolta' di inserire nuove candidature o richieste di personale direttamente e senza rivolgersi ad alcun intermediario da qualunque punto di rete attraverso gli accessi appositamente dedicati da tutti i soggetti pubblici e privati, autorizzati o accreditati.
 
 Gli operatori pubblici e privati, accreditati o autorizzati, hanno l'obbligo di conferire alla borsa continua nazionale del lavoro i dati acquisiti, in base alle indicazioni rese dai lavoratori ai sensi dell'articolo 8 e a quelle rese dalle imprese riguardo l'ambito temporale e territoriale prescelto.
+
+4.
+                        
+                            
+                                Gli ambiti in cui si articolano i servizi della borsa continua nazionale del lavoro sono:
+ 
+                            
+                            
+                                a)
+                                
+                                    un livello nazionale finalizzato:
+ 1) alla definizione degli standard tecnici nazionali e dei flussi informativi di scambio;
+ 2) alla interoperabilita' dei sistemi regionali;
+ 3) alla definizione, alla raccolta, alla comunicazione e alla diffusione dei dati che permettono la massima efficienza e trasparenza del processo di incontro tra domanda e offerta di lavoro, assicurando anche gli strumenti tecnologici necessari per la raccolta e la diffusione delle informazioni presenti nei siti internet ai fini dell'incontro tra domanda e offerta di lavoro;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    un livello regionale che, nel quadro delle competenze proprie delle regioni di programmazione e gestione delle politiche regionali del lavoro:
+ 1) realizza l'integrazione dei sistemi pubblici e privati presenti sul territorio;
+ 2) definisce e realizza il modello di servizi al lavoro;
+ 3) coopera alla definizione degli standard nazionali di intercomunicazione.
 
 Il coordinamento tra il livello nazionale e il livello regionale deve in ogni caso garantire, nel rispetto degli articoli 4 e 120 della Costituzione, la piena operativita' della borsa continua nazionale del lavoro in ambito nazionale e comunitario. A tal fine il Ministero del lavoro e delle politiche sociali rende disponibile l'offerta degli strumenti tecnici alle regioni e alle province autonome che ne facciano richiesta nell'ambito dell'esercizio delle loro competenze.
 
@@ -441,6 +1100,172 @@ All'articolo 2112 del codice civile e' aggiunto, in fine, il seguente comma: "Ne
 
 ## Art. 46. — Norme di modifica al decreto legislativo 25 febbraio 2000, n. 61, e successive modifiche e integrazioni
 
+1.
+                        
+                            
+                                Al decreto legislativo 25 febbraio 2000, n. 61, cosi' come modificato dal decreto legislativo 26 febbraio 2001, n. 100, sono apportate le seguenti modificazioni:
+ 
+                            
+                            
+                                a)
+                                
+                                    all'articolo 1, comma 2, la lettera a) e' sostituita dalla seguente:
+ "a) per "tempo pieno" l'orario normale di lavoro di cui all'articolo 3, comma 1, del decreto legislativo 8 aprile 2003, n. 66, o l'eventuale minor orario normale fissato dai contratti collettivi applicati;";
+
+                                
+                            
+                            
+                                b)
+                                
+                                    all'articolo 1, il comma 3 e' sostituito dal seguente:
+ "3. I contratti collettivi nazionali o territoriali stipulati da associazioni dei datori e prestatori di lavoro comparativamente piu' rappresentative sul piano nazionale e i contratti collettivi aziendali stipulati dalle rappresentanze sindacali aziendali di cui all'articolo 19 della legge 20 maggio 1970, n. 300, e successive modificazioni, ovvero dalle rappresentanze sindacali unitarie possono determinare condizioni e modalita' della prestazione lavorativa del rapporto di lavoro di cui al comma 2. I contratti collettivi nazionali possono, altresi', prevedere per specifiche figure o livelli professionali modalita' particolari di attuazione delle discipline rimesse alla contrattazione collettiva ai sensi del presente decreto.";
+
+                                
+                            
+                            
+                                c)
+                                
+                                    all'articolo 1, il comma 4 e' sostituito dal seguente:
+ "Le assunzioni a termine, di cui al decreto legislativo 9 ottobre 2001, n. 368, e successive modificazioni, di cui all'articolo 8 della legge 23 luglio 1991, n. 223, e di cui all'articolo 4 del decreto legislativo 26 marzo 2001, n. 151, possono essere effettuate anche con rapporto a tempo parziale, ai sensi dei commi 2 e 3.";
+
+                                
+                            
+                            
+                                d)
+                                
+                                    all'articolo 3, il comma 1 e' sostituito dal seguente:
+ "1. Nelle ipotesi di lavoro a tempo parziale di tipo orizzontale, anche a tempo determinato ai sensi dell'articolo 1 del decreto legislativo 9 ottobre 2001, n. 368, il datore di lavoro ha facolta' di richiedere lo svolgimento di prestazioni supplementari rispetto a quelle concordate con il lavoratore ai sensi dell'articolo 2, comma 2, nel rispetto di quanto previsto dai commi 2, 3 e 4.";
+
+                                
+                            
+                            
+                                e)
+                                
+                                    all'articolo 3, il comma 2 e' sostituito dal seguente:
+ "2. I contratti collettivi stipulati dai soggetti indicati nell'articolo 1, comma 3, stabiliscono il numero massimo delle ore di lavoro supplementare effettuabili e le relative causali in relazione alle quali si consente di richiedere ad un lavoratore a tempo parziale lo svolgimento di lavoro supplementare, nonche' le conseguenze del superamento delle ore di lavoro supplementare consentite dai contratti collettivi stessi.";
+
+                                
+                            
+                            
+                                f)
+                                
+                                    all'articolo 3, il comma 3 e' sostituito dal seguente:
+ "3. L'effettuazione di prestazioni di lavoro supplementare richiede il consenso del lavoratore interessato ove non prevista e regolamentata dal contratto collettivo. Il rifiuto da parte del lavoratore non puo' integrare in nessun caso gli estremi del giustificato motivo di licenziamento.";
+
+                                
+                            
+                            
+                                g)
+                                
+                                    all'articolo 3, il comma 4, ultimo periodo, e' soppresso;
+
+                                
+                            
+                            
+                                h)
+                                
+                                    all'articolo 3, il comma 5 e' sostituito dal seguente:
+ "5. Nel rapporto di lavoro a tempo parziale verticale o misto, anche a tempo determinato, e' consentito lo svolgimento di prestazioni lavorative straordinarie. A tali prestazioni si applica la disciplina legale e contrattuale vigente ed eventuali successive modifiche ed integrazioni in materia di lavoro straordinario nei rapporti a tempo pieno.";
+
+                                
+                            
+                            
+                                i)
+                                
+                                    all'articolo 3, il comma 6 e' abrogato;
+
+                                
+                            
+                            
+                                j)
+                                
+                                    all'articolo 3, il comma 7 e' sostituito dal seguente:
+ "7. Fermo restando quanto disposto dall'articolo 2, comma 2, le parti del contratto di lavoro a tempo parziale possono, nel rispetto di quanto previsto dal presente comma e dai commi 8 e 9, concordare clausole flessibili relative alla variazione della collocazione temporale della prestazione stessa. Nei rapporti di lavoro a tempo parziale di tipo verticale o misto possono essere stabilite anche clausole elastiche relative alla variazione in aumento della durata della prestazione lavorativa. I contratti collettivi, stipulati dai soggetti indicati nell'articolo 1, comma 3, stabiliscono:
+ 1) condizioni e modalita' in relazione alle quali il datore di lavoro puo' modificare la collocazione temporale della prestazione lavorativa;
+ 2) condizioni e modalita' in relazioni alle quali il datore di lavoro puo' variare in aumento la durata della prestazione lavorativa;
+ 3) i limiti massimi di variabilita' in aumento della durata della prestazione lavorativa.";
+
+                                
+                            
+                            
+                                k)
+                                
+                                    all'articolo 3, il comma 8 e' sostituito dal seguente:
+ "8. L'esercizio da parte del datore di lavoro del potere di variare in aumento la durata della prestazione lavorativa, nonche' di modificare la collocazione temporale della stessa comporta in favore del prestatore di lavoro un preavviso, fatte salve le intese tra le parti, di almeno due giorni lavorativi, nonche' il diritto a specifiche compensazioni, nella misura ovvero nelle forme fissate dai contratti collettivi di cui all'articolo 1, comma 3.";
+
+                                
+                            
+                            
+                                l)
+                                
+                                    all'articolo 3, il comma 9 e' sostituito dal seguente:
+ "9. La disponibilita' allo svolgimento del rapporto di lavoro a tempo parziale ai sensi del comma 7 richiede il consenso del lavoratore formalizzato attraverso uno specifico patto scritto, anche contestuale al contratto di lavoro, reso, su richiesta del lavoratore, con l'assistenza di un componente della rappresentanza sindacale aziendale indicato dal lavoratore medesimo. L'eventuale rifiuto del lavoratore non integra gli estremi del giustificato motivo di licenziamento.";
+
+                                
+                            
+                            
+                                m)
+                                
+                                    all'articolo 3, il comma 10 e' sostituito dal seguente:
+ "10. L'inserzione nel contratto di lavoro a tempo parziale di clausole flessibili o elastiche ai sensi del comma 7 e' possibile anche nelle ipotesi di contratto di lavoro a termine.";
+
+                                
+                            
+                            
+                                n)
+                                
+                                    i commi 11, 12, 13 e 15 dell'articolo 3 sono soppressi;
+
+                                
+                            
+                            
+                                o)
+                                
+                                    l'articolo 5 e' sostituito dal seguente:
+ "Art. 5 (Tutela ed incentivazione del lavoro a tempo parziale). - 1. Il rifiuto di un lavoratore di trasformare il proprio rapporto di lavoro a tempo pieno in rapporto a tempo parziale, o il proprio rapporto di lavoro a tempo parziale in rapporto a tempo pieno, non costituisce giustificato motivo di licenziamento. Su accordo delle parti risultante da atto scritto, convalidato dalla direzione provinciale del lavoro competente per territorio, e' ammessa la trasformazione del rapporto di lavoro a tempo pieno in rapporto a tempo parziale. Al rapporto di lavoro a tempo parziale risultante dalla trasformazione si applica la disciplina di cui al presente decreto legislativo.
+ 2. Il contratto individuale puo' prevedere, in caso di assunzione di personale a tempo pieno, un diritto di precedenza in favore dei lavoratori assunti a tempo parziale in attivita' presso unita' produttive site nello stesso ambito comunale, adibiti alle stesse mansioni od a mansioni equivalenti rispetto a quelle con riguardo alle quali e' prevista l'assunzione.
+ 3. In caso di assunzione di personale a tempo parziale il datore di lavoro e' tenuto a darne tempestiva informazione al personale gia' dipendente con rapporto a tempo pieno occupato in unita' produttive site nello stesso ambito comunale, anche mediante comunicazione scritta in luogo accessibile a tutti nei locali dell'impresa, ed a prendere in considerazione le eventuali domande di trasformazione a tempo parziale del rapporto dei dipendenti a tempo pieno. I contratti collettivi di cui all'articolo 1, comma 3, possono provvedere ad individuare criteri applicativi con riguardo a tale disposizione.
+ 4. Gli incentivi economici all'utilizzo del lavoro a tempo parziale, anche a tempo determinato, saranno definiti, compatibilmente con la disciplina comunitaria in materia di aiuti di Stato, nell'ambito della riforma del sistema degli incentivi all'occupazione.";
+
+                                
+                            
+                            
+                                p)
+                                
+                                    il comma 2 dell'articolo 6 e' soppresso;
+
+                                
+                            
+                            
+                                q)
+                                
+                                    l'articolo 7 e' soppresso;
+
+                                
+                            
+                            
+                                r)
+                                
+                                    all'articolo 8, il comma 2 e' sostituito dal seguente:
+ "L'eventuale mancanza o indeterminatezza nel contratto scritto delle indicazioni di cui all'articolo 2, comma 2, non comporta la nullita' del contratto di lavoro a tempo parziale. Qualora l'omissione riguardi la durata della prestazione lavorativa, su richiesta del lavoratore puo' essere dichiarata la sussistenza fra le parti di un rapporto di lavoro a tempo pieno a partire dalla data del relativo accertamento giudiziale. Qualora invece l'omissione riguardi la sola collocazione temporale dell'orario, il giudice provvede a determinare le modalita' temporali di svolgimento della prestazione lavorativa a tempo parziale con riferimento alle previsioni dei contratti collettivi di cui all'articolo 3, comma 7, o, in mancanza, con valutazione equitativa, tenendo conto in particolare delle responsabilita' familiari del lavoratore interessato, della sua necessita' di integrazione del reddito derivante dal rapporto a tempo parziale mediante lo svolgimento di altra attivita' lavorativa, nonche' delle esigenze del datore di lavoro. Per il periodo antecedente la data della pronuncia della sentenza, il lavoratore ha in entrambi i casi diritto, in aggiunta alla retribuzione dovuta, alla corresponsione di un ulteriore emolumento a titolo di risarcimento del danno, da liquidarsi con valutazione equitativa. Nel corso del successivo svolgimento del rapporto, e' fatta salva la possibilita' di concordare per iscritto clausole elastiche o flessibili ai sensi dell'articolo 3, comma 3. In luogo del ricorso all'autorita' giudiziaria, le controversie di cui al presente comma ed al comma 1 possono essere, risolte mediante le procedure di conciliazione ed eventualmente di arbitrato previste dai contratti collettivi nazionali di lavoro di cui all'articolo 1, comma 3.";
+
+                                
+                            
+                            
+                                s)
+                                
+                                    all'articolo 8, dopo il comma 2 sono inseriti i seguenti:
+ "2-bis. Lo svolgimento di prestazioni elastiche o flessibili di cui all'articolo 3, comma 7, senza il rispetto di quanto stabilito dall'articolo 3, commi 7, 8, 9 comporta a favore del prestatore di lavoro il diritto, in aggiunta alla retribuzione dovuta, alla corresponsione di un ulteriore emolumento a titolo di risarcimento del danno.
+ 2-ter. In assenza di contratti collettivi datore di lavoro e prestatore di lavoro possono concordare direttamente l'adozione di clausole elastiche o flessibili ai sensi delle disposizioni che precedono.";
+
+                                
+                            
+                            
+                                t)
+                                
+                                    dopo l'articolo 12 e' aggiunto, in fine, il seguente:
+ "Art. 12-bis (Ipotesi di trasformazione del rapporto di lavoro a tempo pieno in rapporto di lavoro a tempo parziale). - 1. I lavoratori affetti da patologie oncologiche, per i quali residui una ridotta capacita' lavorativa, anche a causa degli effetti invalidanti di terapie salvavita, accertata da una commissione medica istituita presso l'azienda unita' sanitaria locale territorialmente competente, hanno diritto alla trasformazione del rapporto di lavoro a tempo pieno in lavoro a tempo parziale verticale od orizzontale. Il rapporto di lavoro a tempo parziale deve essere trasformato nuovamente in rapporto di lavoro a tempo pieno a richiesta del lavoratore. Restano in ogni caso salve disposizioni piu' favorevoli per il prestatore di lavoro.".
+
 ## - Titolo VI APPRENDISTATO E CONTRATTO DI INSERIMENTO  Capo I Apprendistato
 
 ## Art. 47. — ((ARTICOLO ABROGATO DAL D.LGS. 14 SETTEMBRE 2011, N. 167))
@@ -682,6 +1507,45 @@ Al fine di ridurre il contenzioso in materia di lavoro, le parti possono ottener
 
 ## Art. 76. — Organi di certificazione
 
+1.
+                        
+                            
+                                Sono organi abilitati alla certificazione dei contratti di lavoro le commissioni di certificazione istituite presso:
+ 
+                            
+                            
+                                a)
+                                
+                                    gli enti bilaterali costituiti nell'ambito territoriale di riferimento ovvero a livello nazionale quando la commissione di certificazione sia costituita nell'ambito di organismi bilaterali a competenza nazionale;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le Direzioni provinciali del lavoro e le province, secondo quanto stabilito da apposito decreto del Ministro del lavoro e delle politiche sociali entro sessanta giorni dalla entrata in vigore del presente decreto;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    le universita' pubbliche e private, comprese le Fondazioni universitarie, registrate nell'albo di cui al comma 2, esclusivamente nell'ambito di rapporti di collaborazione e consulenza attivati con docenti di diritto del lavoro di ruolo ai sensi dell'articolo 66 del decreto del Presidente della Repubblica 11 luglio 1980, n. 382.
+
+                                
+                            
+                            
+                                c-bis)
+                                
+                                    il Ministero del lavoro e delle politiche sociali - Direzione generale della tutela delle condizioni di lavoro, esclusivamente nei casi in cui il datore di lavoro abbia le proprie sedi di lavoro in almeno due province anche di regioni diverse ovvero per quei datori di lavoro con unica sede di lavoro associati ad organizzazioni imprenditoriali che abbiano predisposto a livello nazionale schemi di convenzioni certificati dalla commissione di certificazione istituita presso il Ministero del lavoro e delle politiche sociali, nell'ambito delle risorse umane e strumentali gia' operanti presso la Direzione generale della tutela delle condizioni di lavoro;
+
+                                
+                            
+                            
+                                c-ter)
+                                
+                                    i consigli provinciali dei consulenti del lavoro di cui alla legge 11 gennaio 1979, n. 12, esclusivamente per i contratti di lavoro instaurati nell'ambito territoriale di riferimento senza nuovi o maggiori oneri per la finanza pubblica ((e comunque unicamente nell'ambito di intese definite tra il Ministero del lavoro e delle politiche sociali e il Consiglio nazionale dei consulenti del lavoro, con l'attribuzione a quest'ultimo delle funzioni di coordinamento e vigilanza per gli aspetti organizzativi)).
+
 Nel solo caso di cui al comma 1, lettera c-bis), le commissioni di certificazione istituite presso le direzioni provinciali del lavoro e le province limitano la loro funzione alla ratifica di quanto certificato dalla commissione di certificazione istituita presso il Ministero del lavoro e delle politiche sociali
 
 Per essere abilitate alla certificazione ai sensi del comma 1, le universita' sono tenute a registrarsi presso un apposito albo istituito presso il Ministero del lavoro e delle politiche sociali con apposito decreto del Ministro del lavoro e delle politiche sociali di concerto con il Ministro dell'istruzione, della universita' e della ricerca. Per ottenere la registrazione le universita' sono tenute a inviare, all'atto della registrazione e ogni sei mesi, studi ed elaborati contenenti indici e criteri giurisprudenziali di qualificazione dei contratti di lavoro con riferimento a tipologie di lavoro indicate dal Ministero del lavoro e delle politiche sociali.
@@ -695,6 +1559,38 @@ Nel caso in cui le parti intendano presentare l'istanza di avvio della procedura
 ## Art. 78. — Procedimento di certificazione e codici di buone pratiche
 
 La procedura di certificazione e' volontaria e consegue obbligatoriamente a una istanza scritta comune delle parti del contratto di lavoro.
+
+2.
+                        
+                            
+                                Le procedure di certificazione sono determinate all'atto di costituzione delle commissioni di certificazione e si svolgono nel rispetto dei codici di buone pratiche di cui al comma 4, nonche' dei seguenti principi:
+ 
+                            
+                            
+                                a)
+                                
+                                    l'inizio del procedimento deve essere comunicato alla Direzione provinciale del lavoro che provvede a inoltrare la comunicazione alle autorita' pubbliche nei confronti delle quali l'atto di certificazione e' destinato a produrre effetti. Le autorita' pubbliche possono presentare osservazioni alle commissioni di certificazione;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il procedimento di certificazione deve concludersi entro il termine di trenta giorni dal ricevimento della istanza;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    l'atto di certificazione deve essere motivato e contenere il termine e l'autorita' cui e' possibile ricorrere;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    l'atto di certificazione deve contenere esplicita menzione degli effetti, civili, amministrativi, previdenziali o fiscali, in relazione ai quali le parti richiedono la certificazione.
 
 I contratti di lavoro certificati, e la relativa pratica di documentazione, devono essere conservati presso le sedi di certificazione, per un periodo di almeno cinque anni a far data dalla loro scadenza. Copia del contratto certificato puo' essere richiesta dal servizio competente di cui all'articolo 4-bis, comma 5, del decreto legislativo 21 aprile 2000, n. 181, oppure dalle altre autorita' pubbliche nei confronti delle quali l'atto di certificazione e' destinato a produrre effetti.
 
@@ -755,6 +1651,65 @@ Entro sei mesi dalla entrata in vigore del presente decreto, il Ministro del lav
 
 ## Art. 85. — Abrogazioni
 
+1.
+                        
+                            
+                                Dalla data di entrata in vigore del presente decreto legislativo sono abrogati:
+
+                            
+                            
+                                a)
+                                
+                                    l'articolo 27 della legge 29 aprile 1949, n. 264;
+                                
+                            
+                            
+                                b)
+                                
+                                    l'articolo 2, comma 2, l'articolo 3 e l'articolo 11, lettera l), della legge 19 gennaio 1955, n. 25; 
+                                
+                            
+                            
+                                c)
+                                
+                                    la legge 23 ottobre 1960, n. 1369;
+                                
+                            
+                            
+                                d)
+                                
+                                    l'articolo 21, comma 3 della legge 28 febbraio 1987, n. 56;
+                                
+                            
+                            
+                                e)
+                                
+                                    gli articoli 9-bis, comma 3 e 9-quater, commi 4 e 18, quest'ultimo limitatamente alla violazione degli obblighi di comunicazione, del decreto-legge 1 ottobre 1996, n. 510, convertito, con modificazioni, dalla legge 28 novembre 1996, n. 608;
+                                
+                            
+                            
+                                f)
+                                
+                                    gli articoli da 1 a 11 della legge 24 giugno 1997, n. 196;
+                                
+                            
+                            
+                                g)
+                                
+                                    l'articolo 4, comma 3, del decreto legislativo 25 febbraio 2000, n. 72;
+                                
+                            
+                            
+                                h)
+                                
+                                    l'articolo 3 del decreto del Presidente della Repubblica 7 luglio 2000, n. 442;
+                                
+                            
+                            
+                                i)
+                                
+                                    tutte le disposizioni legislative e regolamentari incompatibili con il presente decreto.
+
 All'articolo 2, comma 1, del decreto legislativo 25 febbraio 2000, n. 61, le parole da: "Il datore di lavoro" fino a: "dello stesso" sono soppresse.
 
 ## Art. 86. — Norme transitorie e finali
@@ -776,6 +1731,28 @@ L'obbligo di comunicazione di cui al comma 4 dell'articolo 4-bis del decreto leg
 Il Ministro per la funzione pubblica convoca le organizzazioni sindacali maggiormente rappresentative dei dipendenti delle amministrazioni pubbliche per esaminare i profili di armonizzazione conseguenti alla entrata in vigore del presente decreto legislativo entro sei mesi anche ai fini della eventuale predisposizione di provvedimenti legislativi in materia.
 
 La previsione della trasformazione del rapporto di lavoro di cui all'articolo 27, comma 1, non trova applicazione nei confronti delle pubbliche amministrazioni cui la disciplina della somministrazione trova applicazione solo per quanto attiene alla somministrazione di lavoro a tempo determinato. La vigente disciplina in materia di contratti di formazione e lavoro, fatto salvo quanto previsto dall'articolo 59, comma 3, trova applicazione esclusivamente nei confronti della pubblica amministrazione. Le sanzioni amministrative di cui all'articolo 19 si applicano anche nei confronti della pubblica amministrazione.
+
+10.
+                        
+                            
+                                All'articolo 3, comma 8, del decreto legislativo 14 agosto 1996, n. 494, sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la lettera b) e' sostituita dalla seguente: 
+ "b) chiede alle imprese esecutrici una dichiarazione dell'organico medio annuo, distinto per qualifica, nonche' una dichiarazione relativa al contratto collettivo stipulato dalle organizzazioni sindacali comparativamente piu' rappresentative, applicato ai lavoratori dipendenti;"; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    dopo la lettera b) sono aggiunte, in fine, le seguenti: 
+ "b-bis) chiede un certificato di regolarita' contributiva. Tale certificato puo' essere rilasciato, oltre che dall'INPS e dall'INAIL, per quanto di rispettiva competenza, anche dalle casse edili le quali stipulano una apposita convenzione con i predetti istituti al fine del rilascio di un documento unico di regolarita' contributiva; 
+ b-ter) trasmette all'amministrazione concedente prima dell'inizio dei lavori, oggetto del permesso di costruire o della denuncia di inizio di attivita', il nominativo delle imprese esecutrici dei lavori unitamente alla documentazione di cui alle lettere b) e 
+ b-bis). In assenza della certificazione della regolarita' contributiva, anche in caso di variazione dell'impresa esecutrice dei lavori, e' sospesa l'efficacia del titolo abilitativo.".
 
 Nei casi di instaurazione di rapporti di lavoro nel settore edile, i datori di lavoro sono tenuti a dare la comunicazione di cui all'articolo 9-bis, comma 2, del decreto-legge 1° ottobre 1996, n. 510, convertito, con modificazioni, dalla legge 28 novembre 1996, n. 608, e successive modificazioni, il giorno antecedente a quello di instaurazione dei relativi rapporti, mediante documentazione avente data certa.
 

@@ -8,8 +8,8 @@ codice_redazionale: 001G0120
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti governativi
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:16Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -26,4 +26,29 @@ Acquisito il parere delle competenti Commissioni della Camera dei deputati e del
 E' soppresso il procedimento per la concessione di contributi per la promozione degli investimenti esteri in Italia di cui all'articolo 1, comma 1, lettera a), del decreto-legge 25 marzo 1993, n. 78, convertito dalla legge 20 maggio 1993, n. 156.
 
 ## Art. 2. — Abrogazioni
+
+1.
+                    
+                        
+                            Sono abrogati:
+ 
+                        
+                        
+                            a)
+                            
+                                l'articolo 1, comma 1, lettera a), del decreto-legge 25 marzo 1993, n. 78, convertito dalla legge 20 maggio 1993, n. 156;
+
+                            
+                        
+                        
+                            b)
+                            
+                                il decreto del Ministro del commercio con l'estero 16 marzo 1994;
+
+                            
+                        
+                        
+                            c)
+                            
+                                il decreto del Ministro del commercio con l'estero 21 settembre 1994.
 

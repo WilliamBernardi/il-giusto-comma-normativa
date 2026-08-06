@@ -8,8 +8,8 @@ vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
 vigenza_date: 2026-07-16
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:35Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -42,6 +42,76 @@ Le misure di accoglienza di cui al presente decreto si applicano anche ai richie
 Il presente decreto non si applica nell'ipotesi in cui sono operative le misure di protezione temporanea, disposte ai sensi del decreto legislativo 7 aprile 2003, n. 85, recante attuazione della direttiva 2001/55/CE relativa alla concessione della protezione temporanea in caso di afflusso massiccio di sfollati ed alla cooperazione in ambito comunitario.
 
 ## Art. 2. — Definizioni
+
+1.
+                        
+                            
+                                Ai fini del presente decreto s'intende per: 
+ 
+                            
+                            
+                                a)
+                                
+                                    richiedente protezione internazionale o richiedente: lo straniero che ha presentato domanda di protezione internazionale su cui non e' stata ancora adottata una decisione definitiva ovvero ha manifestato la volonta' di chiedere tale protezione; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    straniero: il cittadino di Stati non appartenenti all'Unione europea e l'apolide; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    domanda di protezione internazionale o domanda: la domanda presentata ai sensi del decreto legislativo 28 gennaio 2008, n. 25, e successive modificazioni, diretta ad ottenere il riconoscimento dello status di rifugiato o lo status di protezione sussidiaria; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    Commissione territoriale: la Commissione territoriale per il riconoscimento della protezione internazionale; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    minore non accompagnato: lo straniero di eta' inferiore agli anni diciotto, che si trova, per qualsiasi causa, nel territorio nazionale, privo di assistenza e rappresentanza legale; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    familiari: i seguenti soggetti appartenenti al nucleo familiare del richiedente gia' costituito prima dell'arrivo nel territorio nazionale, che si trovano nel territorio nazionale in connessione alla domanda di protezione internazionale: 
+ 1) il coniuge del richiedente; 
+ 2) i figli minori del richiedente, anche adottati o nati fuori dal matrimonio, a condizione che non siano sposati. I minori affidati o sottoposti a tutela sono equiparati ai figli; 
+ 3) il genitore o altro adulto legalmente responsabile ai sensi degli articoli 343 e seguenti del codice civile del richiedente minore non coniugato; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    centro o struttura di accoglienza: struttura destinata all'alloggiamento collettivo di richiedenti ai sensi del presente decreto; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    richiedente con esigenze di accoglienza particolari: il richiedente che rientra nelle categorie vulnerabili indicate nell'articolo 17 e che necessita di forme di assistenza particolari nella prestazione delle misure di accoglienza; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    UNHCR: Alto Commissariato delle Nazioni Unite per i rifugiati.
 
 ## Art. 3. — Informazione
 
@@ -101,7 +171,28 @@ Ai richiedenti protezione internazionale che hanno ottenuto l'iscrizione anagraf
 
 ## Art. 5-ter. — (( (Autorizzazione a risiedere in un luogo specifico). ))
 
+1.
+                        
+                            
+                                
+                                    ((Il richiedente puo' essere autorizzato a risiedere soltanto in un luogo specifico, con esclusione delle strutture destinate all'applicazione delle misure di trattenimento, per motivi di ordine pubblico oppure per prevenire efficacemente che si renda irreperibile ove vi sia un rischio di fuga, in particolare quando:))
+                                
+                            
+                            
+                                a)
+                                
+                                    
+                                        ((e' tenuto ad essere presente in un altro Stato membro a norma dell'articolo 17, paragrafo 4, del regolamento (UE) 2024/1351;))
+                                    
+                                
+                            
+                            
+                                b)
+                                
+                                    
+                                        ((e' stato trasferito in Italia a norma dell'articolo 17, paragrafo 4, del regolamento (UE) 2024/1351 dopo essere fuggito in un altro Stato membro.))
 
+((Quando la domanda di protezione presentata dal richiedente e' esaminata a norma dell'articolo 43 del regolamento (UE) 2024/1348, l'autorizzazione di cui al comma 1 e' sempre adottata, ai sensi dell'articolo 54, paragrafo 1, del medesimo regolamento, salvo che ricorrano le condizioni per disporre il trattenimento o una misura alternativa al trattenimento.))
 
 ((Quando, tenuto conto della situazione individuale del richiedente, e' necessario garantire l'osservanza dell'autorizzazione di cui al comma 1, al richiedente puo' essere imposto, con provvedimento adottato anche successivamente, di segnalare la propria presenza al prefetto in una data specifica o a intervalli ragionevoli. La segnalazione di cui al primo periodo e' effettuata dal richiedente in maniera attiva e volontaria con strumenti di comunicazione a distanza o con altre modalita' che consentano l'invio della propria posizione, secondo quanto disposto dal provvedimento adottato ai sensi dell'articolo 5-quater.))
 
@@ -139,11 +230,145 @@ Ai richiedenti protezione internazionale che hanno ottenuto l'iscrizione anagraf
 
 ## Art. 5-sexies. — (( (Rischio di fuga). ))
 
+1.
+                        
+                            
+                                
+                                    ((Il rischio di fuga e' valutato caso per caso sulla base di una o piu' delle seguenti circostanze:))
+                                
+                            
+                            
+                                a)
+                                
+                                    
+                                        ((il mancato possesso del passaporto o di altro documento equipollente, in corso di validita';))
+                                    
+                                
+                            
+                            
+                                b)
+                                
+                                    
+                                        ((la mancanza di idonea documentazione atta a dimostrare la disponibilita' di un alloggio ove possa essere agevolmente rintracciato ovvero di un indirizzo affidabile;))
+                                    
+                                
+                            
+                            
+                                c)
+                                
+                                    
+                                        ((l'avere in precedenza dichiarato o attestato falsamente le proprie generalita', anche al solo fine di evitare l'adozione o l'esecuzione di un provvedimento di espulsione o di respingimento;))
+                                    
+                                
+                            
+                            
+                                d)
+                                
+                                    
+                                        ((l'aver fornito, nel corso degli accertamenti o in occasione della richiesta di protezione internazionale, informazioni manifestamente tali da rallentare i controlli o le procedure in capo alle autorita' competenti;))
+                                    
+                                
+                            
+                            
+                                e)
+                                
+                                    
+                                        ((il non avere ottemperato ad uno dei provvedimenti emessi dalla competente autorita', in applicazione degli articoli 10, 10-ter, 13 commi 2-ter, 5, 13, 13-bis e 14 del decreto legislativo 25 luglio 1998, n. 286, nonche' di quelli previsti dall'articolo 32, commi 4 e 4-bis, del decreto legislativo 28 gennaio 2008, n. 25;))
+                                    
+                                
+                            
+                            
+                                f)
+                                
+                                    
+                                        ((l'aver violato anche una delle misure di cui agli articoli 13, comma 5.2, e 14 del decreto legislativo 25 luglio 1998, n. 286, nonche' di quelle previste dall'articolo 6-quater;))
+                                    
+                                
+                            
+                            
+                                g)
+                                
+                                    
+                                        ((l'aver rifiutato di sottoporsi al rilevamento fotodattiloscopico e segnaletico di cui all'articolo 10-ter, comma 3, del decreto legislativo 25 luglio 1998, n. 286;))
+                                    
+                                
+                            
+                            
+                                h)
+                                
+                                    
+                                        ((l'essere inottemperante all'obbligo di collaborazione ai fini dell'identificazione di cui all'articolo 10-ter, commi 2-bis e 2-quater, del decreto legislativo 25 luglio 1998, n. 286;))
+                                    
+                                
+                            
+                            
+                                i)
+                                
+                                    
+                                        ((l'avere in precedenza tentato di eludere i controlli di frontiera;))
+                                    
+                                
+                            
+                            
+                                l)
+                                
+                                    
+                                        ((l'aver violato un divieto di ingresso o di reingresso;))
+                                    
+                                
+                            
+                            
+                                m)
+                                
+                                    
+                                        ((la volonta' di non restare a disposizione delle autorita' e di raggiungere i territori di altri Stati membri desumibile da comportamenti concretamente assunti.))
 
+((Ai fini della valutazione del rischio di fuga, si tiene altresi' conto di quanto previsto dall'articolo 5-quater, comma 3.))
 
 ## Art. 6. — Trattenimento
 
 Il richiedente non puo' essere trattenuto al solo fine di esaminare la sua domanda ((o sulla base della sua nazionalita' ovvero per il solo motivo che sia sottoposto alla procedura stabilita dal regolamento (UE) 2024/1351. Al richiedente a seguito della formalizzazione della domanda e' rilasciato l'attestato nominativo di cui all'articolo 4, comma 2)).
+
+2.
+                        
+                            
+                                Il richiedente e' trattenuto, ove possibile in appositi spazi, nei centri di cui all'articolo 14 del decreto legislativo 25 luglio 1998, n. 286, nei limiti dei posti disponibili ((ovvero nelle strutture presenti nei luoghi individuati ai sensi dell'articolo 54, paragrafo 3, del regolamento (UE) 2024/1348,)), sulla base di una valutazione caso per caso, quando: 
+ 
+                            
+                            
+                                a)
+                                
+                                    si trova nelle condizioni previste dall'articolo 1, paragrafo F della Convenzione relativa allo status di rifugiato, firmata a Ginevra il 28 luglio 1951, ratificata con la legge 24 luglio 1954, n. 722, e modificata dal protocollo di New York del 31 gennaio 1967, ratificato con la legge 14 febbraio 1970, n. 95, o nelle condizioni di cui agli articoli 12, comma 1, lettere b) e c), e 16 del decreto legislativo 19 novembre 2007, n. 251; (7) 
+
+                                
+                            
+                            
+                                a-bis)
+                                
+                                    
+                                        ((ha presentato una domanda reiterata in fase di esecuzione di un provvedimento di allontanamento;))
+                                    
+                                
+                            
+                            
+                                b)
+                                
+                                    si trova nelle condizioni di cui all'articolo 13, commi 1 e 2, lettera c), del decreto legislativo 25 luglio 1998, n. 286, e nei casi di cui all'articolo 3, comma 1, del decreto-legge 27 luglio 2005, n. 144, convertito, con modificazioni, dalla legge 31 luglio 2005, n. 155; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    costituisce un pericolo per l'ordine e la sicurezza pubblica.
+Nella valutazione della pericolosita' si tiene conto di eventuali condanne, anche con sentenza non definitiva, compresa quella adottata a seguito di applicazione della pena su richiesta ai sensi dell'articolo 444 del codice di procedura penale, per uno dei delitti indicati dall'articolo 380, commi 1 e 2, del codice di procedura penale ovvero per reati inerenti agli stupefacenti, alla liberta' sessuale, al favoreggiamento dell'immigrazione clandestina o per reati diretti al reclutamento di persone da destinare alla prostituzione o allo sfruttamento della prostituzione o di minori da impiegare in attivita' illecite ovvero per i reati previsti dagli articoli 12, comma 1, lettera c), e 16, comma 1, lettera d-bis) del decreto legislativo 19 novembre 2007, n. 251; (7) 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    e' necessario determinare gli elementi su cui si basa la domanda di protezione internazionale che non potrebbero essere acquisiti senza il trattenimento e sussiste rischio di fuga, ai sensi dell'((articolo 5-sexies.)). La valutazione sulla sussistenza del rischio di fuga e' effettuata caso per caso.
 
 La mancata convalida del provvedimento di trattenimento adottato ai sensi del comma 3 nei confronti del richiedente che ha presentato la domanda in un centro di cui all'articolo 14 del decreto legislativo 25 luglio 1998, n. 286, non preclude l'eventuale successiva adozione di un provvedimento di trattenimento ai sensi del comma 2, qualora ne ricorrano i presupposti. Quando il provvedimento ai sensi del comma 2 e' adottato immediatamente o, comunque, non oltre quarantotto ore dalla comunicazione della mancata convalida di cui al primo periodo, il richiedente permane nel centro fino alla decisione sulla convalida del predetto provvedimento.
 
@@ -211,11 +436,87 @@ In caso di inosservanza dell'obbligo di cooperazione di cui all'articolo 11, com
 
 In attesa del trasferimento previsto dal regolamento (UE) n. 604/2013 del Parlamento europeo e del Consiglio, del 26 giugno 2013, lo straniero puo' essere trattenuto nei centri di cui all'articolo 14 del decreto legislativo 25 luglio 1998, n. 286, ove sussista un notevole rischio di fuga e sempre che non possano disporsi le misure di cui al medesimo articolo 14, comma 1-bis. La valutazione sul notevole rischio di fuga e' effettuata caso per caso.
 
+2.
+                        
+                            
+                                Il notevole rischio di fuga sussiste quando il richiedente si sia sottratto a un primo tentativo di trasferimento, ovvero qualora ricorrano almeno due delle seguenti circostanze: 
+ 
+                            
+                            
+                                a)
+                                
+                                    mancanza di un documento di viaggio; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    mancanza di un indirizzo affidabile; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    inadempimento all'obbligo di presentarsi alle autorita' competenti; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    mancanza di risorse finanziarie; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    il richiedente ha fatto ricorso sistematicamente a dichiarazioni o attestazioni false sulle proprie generalita' anche al solo fine di evitare l'adozione o l'esecuzione di un provvedimento di espulsione.
+
 3. Il trattenimento non puo' protrarsi oltre il tempo strettamente necessario per l'esecuzione del trasferimento. La convalida comporta il trattenimento nel centro per un periodo complessivo di sei settimane. In presenza di gravi difficolta' relative all'esecuzione del trasferimento il giudice, su richiesta del questore, puo' prorogare il trattenimento per ulteriori trenta giorni, fino a un termine massimo di ulteriori sei settimane. Anche prima della scadenza di tale termine, il questore esegue il trasferimento dandone comunicazione senza ritardo al giudice. Si applica in quanto compatibile l'articolo 6, comma 5))
 
 ## Art. 6-quater. — (( (Misure alternative al trattenimento del richiedente). ))
 
+1.
+                        
+                            
+                                
+                                    ((Nei casi di cui agli articoli 6, 6-bis e 6-ter, il questore, ove ritenga che possano essere applicate efficacemente, dispone, in luogo del trattenimento, una o piu' delle seguenti misure alternative:))
+                                
+                            
+                            
+                                a)
+                                
+                                    
+                                        ((consegna del passaporto o altro documento equipollente in corso di validita';))
+                                    
+                                
+                            
+                            
+                                b)
+                                
+                                    
+                                        ((prestazione della idonea garanzia finanziaria stabilita ai sensi dell'articolo 6-bis, comma 2;))
+                                    
+                                
+                            
+                            
+                                c)
+                                
+                                    
+                                        ((obbligo di dimora in un luogo preventivamente individuato, dove possa essere agevolmente rintracciato o monitorato anche con l'ausilio di strumentazioni elettroniche nel caso il richiedente abbia attivamente collaborato per la sua identificazione;))
+                                    
+                                
+                            
+                            
+                                d)
+                                
+                                    
+                                        ((obbligo di presentazione, in giorni ed orari stabiliti, presso un ufficio della forza pubblica territorialmente competente nel caso il richiedente abbia attivamente collaborato per la sua identificazione.))
 
+((Nel valutare i motivi per i quali non siano applicabili efficacemente le misure alternative di cui al comma 1, il questore tiene conto del rischio di fuga, ovvero se il richiedente rientri in una delle categorie indicate al comma 2 dello stesso articolo 6.))
 
 ((Si applica l'articolo 14, comma 1-bis, secondo, terzo, quarto, quinto, sesto e settimo periodo, del decreto legislativo 25 luglio 1998, n. 286.))
 
@@ -489,6 +790,46 @@ I progetti presentati dai Comuni, dalle regioni e dalle province autonome che pr
 
 ## Art. 23. — ((Riduzione o revoca delle condizioni di accoglienza))
 
+1.
+                        
+                            
+                                Il prefetto della provincia in cui hanno sede le strutture di cui agli articoli 9 e 11, dispone, con proprio motivato decreto, la revoca delle misure d'accoglienza in caso di: 
+ 
+                            
+                            
+                                a)
+                                
+                                    mancata presentazione presso la struttura individuata ovvero abbandono del centro di accoglienza da parte del richiedente, senza preventiva motivata comunicazione alla prefettura - ufficio territoriale del Governo competente; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    mancata presentazione del richiedente all'audizione davanti all'organo di esame della domanda; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    presentazione di una domanda reiterata ai sensi dell'articolo 29 del decreto legislativo 28 gennaio 2008, n. 25, e successive modificazioni; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    accertamento della disponibilita' da parte del richiedente di mezzi economici sufficienti; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    
+                                        ((LETTERA ABROGATA DAL D.L. 10 MARZO 2023, N. 20, CONVERTITO CON MODIFICAZIONI DALLA L. 5 MAGGIO 2023, N. 50)).
+
 ((2. Nei casi di violazione grave o ripetuta, da parte del richiedente protezione internazionale, delle regole della struttura in cui e' accolto, ivi compreso il danneggiamento doloso di beni mobili o immobili, ovvero in caso di comportamenti gravemente violenti, anche tenuti al di fuori della struttura di accoglienza, il prefetto, fatta salva la facolta' di disporre il trasferimento del richiedente in altra struttura, adotta una o piu' delle seguenti misure:
 
 a) esclusione temporanea dalla partecipazione ad attivita' organizzate dal gestore del centro;
@@ -517,6 +858,263 @@ Sono o restano abrogati gli articoli 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 14 e
 
 ## Art. 25. — Modifiche al decreto legislativo 28 gennaio 2008, n. 25
 
+1.
+                        
+                            
+                                Al decreto legislativo 28 gennaio 2008, n. 25, sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    all'articolo 1, dopo le parole: "territorio nazionale" sono inserite le seguenti: "comprese le frontiere, e le relative zone di transito, nonche' le acque territoriali"; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    all'articolo 2: 
+ 1) dopo la lettera h) e' inserita la seguente: 
+ "h-bis) «persone vulnerabili»: minori; minori non accompagnati; disabili, anziani, donne in stato di gravidanza, genitori singoli con figli minori, vittime della tratta di esseri umani, persone affette da gravi malattie o da disturbi mentali; persone per le quali e' accertato che hanno subito torture, stupri o altre forme gravi di violenza psicologica, fisica o sessuale, vittime di mutilazioni genitali;"; 
+ 2) dopo la lettera i) e' inserita la seguente: 
+ "i-bis) «EASO»: european asylum support office/ufficio europeo di sostegno per l'asilo, istituito dal regolamento (UE) n. 439/2010 del Parlamento europeo e del Consiglio, del 19 maggio 2010."; 
+ 3) la lettera m) e' soppressa; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    all'articolo 4: 
+ 1) al comma 3, il secondo e il terzo periodo sono sostituiti dai seguenti: "In situazioni di urgenza, il Ministro dell'interno nomina il rappresentante dell'ente locale su indicazione dell'Associazione nazionale dei comuni italiani (ANCI) e ne da' tempestiva comunicazione alla Conferenza Stato-citta' ed autonomie locali. Il decreto di nomina dei componenti della Commissione e' adottato previa valutazione dell'insussistenza di motivi di incompatibilita' derivanti da situazioni di conflitto di interessi, diretto o indiretto, anche potenziale. Per ciascun componente sono nominati uno o piu' componenti supplenti. I componenti effettivi e i componenti supplenti sono designati in base alle esperienze o formazione acquisite nel settore dell'immigrazione e dell'asilo o in quello della tutela dei diritti umani."; 
+ 2) dopo il comma 3-bis, e' inserito il seguente: 
+ "3-ter. La Commissione nazionale per il diritto di asilo cura la predisposizione di corsi di formazione per componente delle Commissioni territoriali, anche mediante convenzioni stipulate dal Ministero dell'interno con le Universita' degli studi. I componenti che hanno partecipato ai corsi di cui al presente comma non partecipano ai corsi di formazione iniziale di cui all'articolo 15, comma 1."; 
+ 3) al comma 5, il primo, il secondo e il terzo periodo sono sostituiti dai seguenti: "La competenza delle Commissioni territoriali e' determinata sulla base della circoscrizione territoriale in cui e' presentata la domanda ai sensi dell'articolo 26, comma 1. Nel caso di richiedenti presenti in una struttura di accoglienza governativa o in una struttura del sistema di protezione di cui all'articolo 1-sexies del decreto-legge 30 dicembre 1989, n. 416, convertito, con modificazioni, dalla legge 28 febbraio 1990, n. 39, ovvero trattenuti in un centro di cui all'articolo 14 del decreto legislativo 25 luglio 1998, n. 286, la competenza e' determinata in base alla circoscrizione territoriale in cui sono collocati la struttura di accoglienza o il centro. Nel caso in cui nel corso della procedura si rende necessario il trasferimento del richiedente, la competenza all'esame della domanda e' assunta dalla Commissione nella cui circoscrizione territoriale sono collocati la struttura ovvero il centro di nuova destinazione."; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    all'articolo 5: 
+ 1) al comma 1, e' aggiunto, in fine, il seguente periodo: "La Commissione costituisce punto nazionale di contatto per lo scambio di informazioni con la Commissione europea e con le competenti autorita' degli altri Stati membri."; 
+ 2) dopo il comma 1, sono inseriti i seguenti: 
+ "1-bis. Nell'esercizio dei compiti di indirizzo e coordinamento di cui al comma 1, la Commissione nazionale puo' individuare periodicamente i Paesi di provenienza dei richiedenti o parte di tali Paesi ai fini dell'articolo 12, commi 2 e 2-bis. 
+ 1-ter. La Commissione nazionale adotta un codice di condotta per i componenti delle Commissioni territoriali, per gli interpreti e per il personale di supporto delle medesime Commissioni e pubblica annualmente un rapporto sulle attivita' svolte dalla medesima Commissione e dalle Commissioni territoriali."; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    all'articolo 6: 
+ 1) al comma 2, e' aggiunto, in fine, il seguente periodo: "La domanda puo' essere presentata direttamente dal minore, tramite il genitore."; 
+ 2) al comma 3, e' aggiunto, in fine, il seguente periodo: "La domanda del minore non accompagnato puo' essere altresi' presentata direttamente dal tutore sulla base di una valutazione individuale della situazione personale del minore."; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    all'articolo 7: 
+ 1) il comma 1 e' sostituito dal seguente: 
+ "1. Il richiedente e' autorizzato a rimanere nel territorio dello Stato fino alla decisione della Commissione territoriale ai sensi dell'articolo 32."; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    all'articolo 8: 
+ 1) al comma 2, dopo il primo periodo e' aggiunto il seguente: "La Commissione territoriale accerta in primo luogo se sussistono le condizioni per il riconoscimento dello status di rifugiato ai sensi dell'articolo 11 del decreto legislativo 19 novembre 2007, n. 251, e successivamente se sussistono le condizioni per il riconoscimento dello status di protezione sussidiaria ai sensi dell'articolo 17 del medesimo decreto legislativo."; 
+ 2) al comma 3, dopo le parole: "dall'ACNUR" sono inserite le seguenti: "dall'EASO,"; 
+ 3) dopo il comma 3, e' aggiunto il seguente: 
+ "3-bis. Ove necessario ai fini dell'esame della domanda, la Commissione territoriale puo' consultare esperti su aspetti particolari come quelli di ordine sanitario, culturale, religioso, di genere o inerenti ai minori. La Commissione, sulla base degli elementi forniti dal richiedente, puo' altresi' disporre, previo consenso del richiedente, visite mediche dirette ad accertare gli esiti di persecuzioni o danni gravi subiti effettuate secondo le linee guida di cui all'articolo 27, comma 1-bis, del decreto legislativo 19 novembre 2007, n. 251, e successive modificazioni. Se la Commissione non dispone una visita medica, il richiedente puo' effettuare la visita medica a proprie spese e sottoporne i risultati alla Commissione medesima ai fini dell'esame della domanda."; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    all'articolo 10: 
+ 1) dopo il comma 1, e' inserito il seguente: 
+ "1-bis. Il personale dell'ufficio di polizia di cui al comma 1 riceve una formazione adeguata ai propri compiti e responsabilita'."; 
+ 2) al comma 2, lettera a), le parole: "protezione internazionale;" sono sostituite dalle seguenti: "protezione internazionale, comprese le conseguenze dell'allontanamento ingiustificato dai centri;"; 
+ 3) al comma 2, lettera d), le parole: "protezione internazionale." sono sostituite dalle seguenti: "protezione internazionale, nonche' informazioni sul servizio di cui al comma 2-bis."; 
+ 4) dopo il comma 2, e' inserito il seguente: 
+ "2-bis. Al fine di garantire al richiedente un servizio gratuito di informazione sulla procedura di esame della domanda da parte delle Commissioni territoriali, nonche' sulle procedure di revoca e sulle modalita' di impugnazione delle decisioni in sede giurisdizionale, il Ministero dell'interno stipula apposite convenzioni con l'UNHCR o con enti di tutela dei titolari di protezione internazionale con esperienza consolidata nel settore, anche ad integrazione dei servizi di informazione assicurati dal gestore nelle strutture di accoglienza previste dal presente decreto."; 
+ 5) al comma 4, e' aggiunto, in fine, il seguente periodo: "Ove necessario, si provvede alla traduzione della documentazione prodotta dal richiedente in ogni fase della procedura."; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    dopo l'articolo 10, e' inserito il seguente: 
+ «Art. 10-bis (Informazione e servizi di accoglienza ai valichi di frontiera). - 1. Le informazioni di cui all'articolo 10, comma 1, sono fornite allo straniero che manifesta la volonta' di chiedere protezione internazionale ai valichi di frontiera e nelle relative zone di transito nell'ambito dei servizi di accoglienza previsti dall'articolo 11, comma 6, del decreto legislativo 25 luglio 1998, n. 286. 
+ 2. E' assicurato l'accesso ai valichi di frontiera dei rappresentanti dell'UNHCR e degli enti di tutela dei titolari di protezione internazionale con esperienza consolidata nel settore. Per motivi di sicurezza, ordine pubblico o comunque per ragioni connesse alla gestione amministrativa, l'accesso puo' essere limitato, purche' non impedito completamente.» 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    all'articolo 12, dopo il comma 2, e' inserito il seguente: 
+ "2-bis. Fuori dei casi previsti dal comma 2, la Commissione territoriale puo' omettere l'audizione del richiedente proveniente da uno dei Paesi individuati ai sensi dell'articolo 5, comma 1-bis, quando ritiene di avere sufficienti motivi per riconoscere lo status di protezione sussidiaria sulla base degli elementi in suo possesso.
+In tal caso, la Commissione prima di adottare la decisione formale comunica all'interessato che ha facolta' di chiedere, entro tre giorni dalla comunicazione, di essere ammesso al colloquio e che in mancanza di tale richiesta la Commissione adotta la decisione."; 
+
+                                
+                            
+                            
+                                m)
+                                
+                                    all'articolo 13: 
+ 1) dopo il comma 1, e' inserito il seguente: 
+ "1-bis. Nel corso del colloquio, al richiedente e' assicurata la possibilita' di esporre in maniera esauriente gli elementi addotti a fondamento della domanda ai sensi dell'articolo 3 del decreto legislativo 19 novembre 2007, n. 251."; 
+ 2) il comma 3 e' sostituito dal seguente: 
+ "3. Il colloquio del minore si svolge innanzi ad un componente della Commissione con specifica formazione, alla presenza del genitore che esercita la responsabilita' genitoriale o del tutore, nonche' del personale di cui al comma 2. In presenza di giustificati motivi, la Commissione territoriale puo' procedere nuovamente all'ascolto del minore anche senza la presenza del genitore o del tutore, fermo restando la presenza del personale di cui al comma 2, se lo ritiene necessario in relazione alla situazione personale del minore e al suo grado di maturita' e di sviluppo, nell'esclusivo interesse del minore."; 
+ 3) al comma 4, le parole: "al colloquio." sono sostituite dalle seguenti: "al colloquio e puo' chiedere di prendere visione del verbale e di acquisirne copia."; 
+
+                                
+                            
+                            
+                                n)
+                                
+                                    all'articolo 14: 
+ 1) il comma 1 e' sostituito dal seguente: 
+ "1. Dell'audizione e' redatto verbale di cui viene data lettura al richiedente in una lingua a lui comprensibile e, in ogni caso, tramite interprete. Il verbale e' confermato e sottoscritto dall'interessato e contiene le informazioni di cui all'articolo 3, comma 2, del decreto legislativo 19 novembre 2007, n. 251. Il richiedente riceve copia del verbale e ha facolta' di formulare osservazioni che sono riportate in calce al verbale, anche per rilevare eventuali errori di traduzione o di trascrizione. La Commissione territoriale adotta idonee misure per garantire la riservatezza dei dati che riguardano l'identita' e le dichiarazioni dei richiedenti."; 
+ 2) dopo il comma 2, e' aggiunto il seguente: 
+ "2-bis. Il colloquio puo' essere registrato con mezzi meccanici. La registrazione puo' essere acquisita in sede di ricorso giurisdizionale avverso la decisione della Commissione territoriale.
+Ove la registrazione sia trascritta, non e' richiesta la sottoscrizione del verbale di cui al comma 1 da parte del richiedente."; 
+
+                                
+                            
+                            
+                                o)
+                                
+                                    l'articolo 20 e' abrogato; 
+
+                                
+                            
+                            
+                                p)
+                                
+                                    l'articolo 21 e' abrogato; 
+
+                                
+                            
+                            
+                                q)
+                                
+                                    l'articolo 22 e' abrogato; 
+
+                                
+                            
+                            
+                                r)
+                                
+                                    dopo l'articolo 23, e' inserito il seguente: 
+ «Art. 23-bis (Allontanamento ingiustificato). - 1. Nel caso in cui il richiedente si allontana senza giustificato motivo dalle strutture di accoglienza ovvero si sottrae alla misura del trattenimento nei centri di cui all'articolo 14 del decreto legislativo 25 luglio 1998, n. 286, senza aver sostenuto il colloquio di cui all'articolo 12, la Commissione territoriale sospende l'esame della domanda. 
+ 2. Il richiedente puo' chiedere per una sola volta la riapertura del procedimento sospeso ai sensi del comma 1, entro dodici mesi dalla sospensione. Trascorso tale termine, la Commissione territoriale dichiara l'estinzione del procedimento. La domanda presentata dal richiedente successivamente alla dichiarazione di estinzione del procedimento e' sottoposta ad esame preliminare ai sensi dell'articolo 29, comma 1-bis. In sede di esame preliminare sono valutati i motivi addotti a sostegno dell'ammissibilita' della domanda comprese le ragioni dell'allontanamento.»; 
+
+                                
+                            
+                            
+                                s)
+                                
+                                    all'articolo 26: 
+ 1) dopo il comma 2, e' inserito il seguente: 
+ "2-bis. Il verbale di cui al comma 2 e' redatto entro tre giorni lavorativi dalla manifestazione della volonta' di chiedere la protezione ovvero entro sei giorni lavorativi nel caso in cui la volonta' e' manifestata all'Ufficio di polizia di frontiera. I termini sono prorogati di dieci giorni lavorativi in presenza di un elevato numero di domande in conseguenza di arrivi consistenti e ravvicinati di richiedenti."; 
+ 2) il comma 4 e' abrogato; 
+ 3) al comma 5, le parole: "del codice civile, ed informa il Comitato per i minori stranieri" fino alla fine del comma, sono sostituite dalle seguenti: "del codice civile. Il giudice tutelare nelle quarantottore successive alla comunicazione della questura provvede alla nomina del tutore. Il tutore prende immediato contatto con il minore per informarlo della propria nomina e con la questura per la conferma della domanda ai fini dell'ulteriore corso del procedimento di esame della domanda."; 
+ 4) al comma 6, l'ultimo periodo e' soppresso; 
+
+                                
+                            
+                            
+                                t)
+                                
+                                    all'articolo 27: 
+ 1) al comma 3, e' aggiunto, in fine, il seguente periodo: "In tal caso, la procedura di esame della domanda e' conclusa entro sei mesi. Il termine e' prorogato di ulteriori nove mesi quando: 
+ a) l'esame della domanda richiede la valutazione di questioni complesse in fatto o in diritto; 
+ b) in presenza di un numero elevato di domande presentate simultaneamente; 
+ c) il ritardo e' da attribuire all'inosservanza da parte del richiedente degli obblighi di cooperazione di cui all'articolo 11."; 
+ 2) dopo il comma 3, e' aggiunto il seguente: 
+ "3-bis. In casi eccezionali, debitamente motivati, il termine di nove mesi di cui al comma 3 puo' essere ulteriormente prorogato di tre mesi ove necessario per assicurare un esame adeguato e completo della domanda."; 
+
+                                
+                            
+                            
+                                u)
+                                
+                                    all'articolo 28: 
+ 1) al comma 1, le lettere b) e c) sono sostituite dalle seguenti: 
+ "b) la domanda e' presentata da un richiedente appartenente a categorie di persone vulnerabili, in particolare da un minore non accompagnato, ovvero che necessita di garanzie procedurali particolari; 
+ c) la domanda e' presentata da un richiedente per il quale e' stato disposto il trattenimento nei centri di cui all'articolo 14 del decreto legislativo 25 luglio 1998, n. 286;"; 
+ 2) dopo la lettera c) e' aggiunta la seguente: 
+ "c-bis) la domanda e' esaminata ai sensi dell'articolo 12, comma 2-bis."; 
+ 3) dopo il comma 1, e' inserito il seguente: 
+ "1-bis. Ai fini dell'attuazione delle disposizioni di cui al comma 1 e all'articolo 28-bis, il Presidente della Commissione territoriale, sulla base della documentazione in atti, individua i casi di procedura prioritaria o accelerata."; 
+ 4) il comma 2 e' abrogato; 
+
+                                
+                            
+                            
+                                v)
+                                
+                                    dopo l'articolo 28, e' inserito il seguente: 
+ «Art. 28-bis (Procedure accelerate). - 1. Nel caso previsto dall'articolo 28, comma 1, lettera c), appena ricevuta la domanda, la questura provvede immediatamente alla trasmissione della documentazione necessaria alla Commissione territoriale che, entro sette giorni dalla data di ricezione della documentazione, provvede all'audizione. La decisione e' adottata entro i successivi due giorni. 
+ 2. I termini di cui al comma 1, sono raddoppiati quando: 
+ a) la domanda e' manifestamente infondata in quanto il richiedente ha sollevato esclusivamente questioni che non hanno alcuna attinenza con i presupposti per il riconoscimento della protezione internazionale ai sensi del decreto legislativo 19 novembre 2007, n. 251; 
+ b) la domanda e' reiterata ai sensi dell'articolo 29, comma 1, lettera b); 
+ c) quando il richiedente presenta la domanda, dopo essere stato fermato per avere eluso o tentato di eludere i controlli di frontiera ovvero dopo essere stato fermato in condizioni di soggiorno irregolare, al solo scopo di ritardare o impedire l'adozione o l'esecuzione di un provvedimento di espulsione o respingimento. 
+ 3. I termini di cui ai commi 1 e 2 possono essere superati ove necessario per assicurare un esame adeguato e completo della domanda, fatti salvi i termini massimi previsti dall'articolo 27, commi 3 e 3-bis. Nei casi di cui al comma 1, i termini di cui all'articolo 27, commi 3 e 3-bis, sono ridotti ad un terzo.» 
+
+                                
+                            
+                            
+                                z)
+                                
+                                    all'articolo 29, dopo il comma 1, e' aggiunto il seguente: 
+ "1-bis. Nei casi di cui al comma 1, la domanda e' sottoposta ad esame preliminare da parte del Presidente della Commisione, diretto ad accertare se emergono o sono stati addotti, da parte del richiedente, nuovi elementi, rilevanti ai fini del riconoscimento della protezione internazionale. Nell'ipotesi di cui al comma 1, lettera a), il Presidente della Commissione procede anche all'audizione del richiedente sui motivi addotti a sostegno dell'ammissibilita' della domanda nel suo caso specifico.
+Nell'ipotesi di cui al comma 1, lettera b), la Commissione, prima di adottare la decisione di inammissibilita' comunica al richiedente che ha facolta' di presentare, entro tre giorni dalla comunicazione, osservazioni a sostegno dell'ammissibilita' della domanda e che, in mancanza di tali osservazioni, la Commissione adotta la decisione."; 
+
+                                
+                            
+                            
+                                aa)
+                                
+                                    all'articolo 30, dopo il comma 1, e' aggiunto il seguente: 
+ "1-bis. Quando e' accertata la competenza dell'Italia all'esame della domanda di cui al comma 1, i termini di cui all'articolo 27 decorrono dal momento in cui e' accertata la competenza e il richiedente e' preso in carico ai sensi del regolamento UE n. 604/2013."; 
+
+                                
+                            
+                            
+                                bb)
+                                
+                                    all'articolo 32: 
+ 1) al comma 1, lettera b), le parole: ", ovvero il richiedente provenga da un Paese di origine sicuro e non abbia addotto i gravi motivi di cui al comma 2" sono soppresse; 
+ 2) al comma 1, la lettera b-bis) e' sostituita dalla seguente: 
+ "b-bis) rigetta la domanda per manifesta infondatezza nei casi di cui all'articolo 28-bis, comma 2, lettera a)."; 
+ 3) il comma 2 e' abrogato; 
+ 4) al comma 4, il secondo periodo e' sostituito dal seguente: "A tale fine, alla scadenza del termine per l'impugnazione, si provvede ai sensi dell'articolo 13, commi 4 e 5 del decreto legislativo 25 luglio 1998, n. 286, salvo gli effetti dell'articolo 19, commi 4 e 5, del decreto legislativo 1° settembre 2011, n. 150."; 
+
+                                
+                            
+                            
+                                cc)
+                                
+                                    all'articolo 35, dopo il comma 2, e' aggiunto il seguente: 
+ "2-bis. I provvedimenti comunicati alla Commissione nazionale ovvero alle Commissioni territoriali ai sensi dell'articolo 19, comma 9-bis, del decreto legislativo 1° settembre 2011, n. 150, sono tempestivamente trasmessi dalle medesime Commissioni territoriali o nazionali al questore del luogo di domicilio del ricorrente, risultante agli atti della Commissione, per gli adempimenti conseguenti."; 
+
+                                
+                            
+                            
+                                dd)
+                                
+                                    l'articolo 36 e' abrogato.
+
 ## Art. 26. — Disposizioni di aggiornamento
 
 Nel decreto legislativo 28 gennaio 2008, n. 25, le parole: "regolamento (CE) n. 343/2003, del Consiglio, del 18 febbraio 2003," ovunque presenti, sono sostituite dalle seguenti: "regolamento (UE) n. 604//2013 del Parlamento europeo e del Consiglio, del 26 giugno 2013".
@@ -525,6 +1123,70 @@ Nel decreto legislativo 28 gennaio 2008, n. 25, la parola: "ACNUR" ovunque prese
 
 ## Art. 27. — Modifiche al decreto legislativo 
  1° settembre 2011, n. 150
+
+1.
+                        
+                            
+                                All'articolo 19 del decreto legislativo 1° settembre 2011, n. 150, sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    al comma 2: 
+ 1) al primo periodo, dopo le parole: "protezione internazionale" sono aggiunte le seguenti: "o la sezione"; 
+ 2) al secondo periodo, dopo le parole: "la Commissione territoriale" sono inserite le seguenti: "o la sezione"; 
+ 3) l'ultimo periodo e' sostituito dal seguente: "Nel caso di ricorrenti presenti in una struttura di accoglienza governativa o in una struttura del sistema di protezione di cui all'articolo 1-sexies del decreto-legge 30 dicembre 1989, n. 416, convertito, con modificazioni, dalla legge 28 febbraio 1990, n. 39, ovvero trattenuti in un centro di cui all'articolo 14 del decreto legislativo 25 luglio 1998, n. 286, e' competente il tribunale in composizione monocratica, che ha sede nel capoluogo di distretto di corte di appello in cui ha sede la struttura ovvero il centro."; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    al comma 3, il quarto periodo e' sostituito dal seguente: "Nei casi di cui all'articolo 28-bis, comma 2, del decreto legislativo 28 gennaio 2008, n. 25, e nei casi in cui nei confronti del ricorrente e' stato adottato un provvedimento di trattenimento nei centri di cui all'articolo 14 del decreto legislativo 25 luglio 1998, n. 286, i termini previsti dal presente comma sono ridotti della meta'."; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il comma 4 e' sostituito dal seguente: 
+ "4. La proposizione del ricorso sospende l'efficacia esecutiva del provvedimento impugnato, tranne che nelle ipotesi in cui il ricorso viene proposto: 
+ a) da parte di un soggetto nei cui confronti e' stato adottato un provvedimento di trattenimento in un centro di cui all'articolo 14 del decreto legislativo 25 luglio 1998, n. 286; 
+ b) avverso il provvedimento che dichiara inammissibile la domanda di riconoscimento della protezione internazionale; 
+ c) avverso il provvedimento di rigetto per manifesta infondatezza ai sensi dell'articolo 32, comma 1, lettera b-bis), del decreto legislativo 28 gennaio 2008, n. 25, e successive modificazioni; 
+ d) avverso il provvedimento adottato nei confronti dei soggetti di cui all'articolo 28-bis, comma 2, lettera c), del decreto legislativo 28 gennaio 2008, n. 25, e successive modificazioni."; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    al comma 5, il secondo periodo e' sostituito dai seguenti: "L'ordinanza di cui all'articolo 5, comma 1, e' adottata entro 5 giorni dalla presentazione dell'istanza di sospensione. Nei casi di cui alle lettere b), c) e d), del comma 4, quando l'istanza di sospensione e' accolta, al ricorrente e' rilasciato un permesso di soggiorno per richiesta asilo."; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    dopo il comma 5, e' inserito il seguente: 
+ "5-bis. La proposizione del ricorso o dell'istanza cautelare ai sensi del comma 5 non sospende l'efficacia esecutiva del provvedimento che dichiara, per la seconda volta, inammissibile la domanda di riconoscimento della protezione internazionale ai sensi dell'articolo 29, comma 1, lettera b), del decreto legislativo 28 gennaio 2008, n. 25, e successive modificazioni."; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    il comma 9 e' sostituito dal seguente: 
+ "9. Entro sei mesi dalla presentazione del ricorso, il Tribunale decide, sulla base degli elementi esistenti al momento della decisione, con ordinanza che rigetta il ricorso ovvero riconosce al ricorrente lo status di rifugiato o di persona cui e' accordata la protezione sussidiaria. In caso di rigetto, la Corte d'Appello decide sulla impugnazione entro sei mesi dal deposito del ricorso. Entro lo stesso termine, la Corte di Cassazione decide sulla impugnazione del provvedimento di rigetto pronunciato dalla Corte d'Appello."; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    dopo il comma 9 e' inserito il seguente: 
+ "9-bis. L'ordinanza di cui al comma 9, nonche' i provvedimenti di cui all'articolo 5 sono comunicati alle parti a cura della cancelleria.".
 
 ## - Capo III Disposizioni finali
 

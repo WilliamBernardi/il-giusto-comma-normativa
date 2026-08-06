@@ -8,8 +8,8 @@ vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
 vigenza_date: 2026-07-24
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:35Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -87,6 +87,130 @@ Il rendiconto della gestione finanziaria del Garante e' soggetto al controllo de
 
 ## Art. 4. — Funzioni e prerogative del Garante
 
+1.
+                    
+                        
+                            Il Garante esercita le seguenti funzioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                vigila sul rispetto dei diritti e sulla conformita' ai principi stabiliti dalla Convenzione delle Nazioni Unite sui diritti delle persone con disabilita', fatta a New York il 13 dicembre 2006 e ratificata e resa esecutiva con legge 3 marzo 2009, n. 18, e dagli altri trattati internazionali dei quali l'Italia e' parte in materia di protezione dei diritti delle persone con disabilita', dalla Costituzione, dalle leggi dello Stato e dai regolamenti nella medesima materia; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                contrasta i fenomeni di discriminazione diretta, indiretta o di molestie in ragione della condizione di disabilita' e del rifiuto dell'accomodamento ragionevole di cui all'articolo 5, comma 2; 
+
+                            
+                        
+                        
+                            b-bis)
+                            
+                                
+                                    ((formula, su richiesta delle Amministrazioni pubbliche e dei concessionari di pubblici servizi proponenti, pareri non vincolanti con riferimento ai regolamenti e atti di natura generale che abbiano incidenza diretta e immediata sui diritti delle persone con disabilita'. Il parere deve essere reso entro trenta giorni dalla richiesta;))
+                                
+                            
+                        
+                        
+                            c)
+                            
+                                promuove l'effettivo godimento dei diritti e delle liberta' fondamentali delle persone con disabilita', in condizione di eguaglianza con gli altri cittadini, anche impedendo che esse siano vittime di segregazione; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                riceve le segnalazioni presentate da persone con disabilita', dai loro familiari, da chi le rappresenta, dalle associazioni e dagli enti legittimati ad agire in difesa delle persone con disabilita', individuati ai sensi dell'articolo 4 della legge 1° marzo 2006, n. 67, da singoli cittadini, da pubbliche amministrazioni, nonche' dall'Autorita' politica delegata in materia di disabilita' anche a seguito di rilevazione del Dipartimento per le politiche in favore delle persone con disabilita' presso la Presidenza del Consiglio dei ministri. Il Garante stabilisce, nei limiti della propria autonomia organizzativa, le procedure e le modalita' di presentazione delle segnalazioni, anche tramite l'attivazione di un centro di contatto dedicato, assicurandone l'accessibilita'. Il Garante all'esito della valutazione e verifica delle segnalazioni pervenute, previa audizione delle persone con disabilita' legittimate, esprime con delibera collegiale pareri motivati; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                svolge verifiche, d'ufficio o a seguito di segnalazione, sull'esistenza di fenomeni discriminatori; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                richiede alle amministrazioni e ai concessionari di pubblici servizi di fornire le informazioni e i documenti necessari allo svolgimento delle funzioni di sua competenza. I soggetti interpellati sono tenuti a rispondere entro trenta giorni dalla data della richiesta e, in caso di silenzio, inerzia o rifiuto, il Garante puo' proporre ricorso ai sensi dell'articolo 116 del codice del processo amministrativo di cui al decreto legislativo 2 luglio 2010, n. 104; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                formula raccomandazioni e pareri inerenti alle segnalazioni raccolte alle amministrazioni e ai concessionari pubblici interessati, anche in relazione a specifiche situazioni e nei confronti di singoli enti, proponendo o sollecitando, anche attraverso l'autorita' di settore o di vigilanza, interventi, misure o accomodamenti ragionevoli idonei a superare le criticita' riscontrate; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                promuove la cultura del rispetto dei diritti delle persone con disabilita' attraverso campagne di sensibilizzazione, comunicazione e progetti, iniziative ed azioni positive, in particolare nelle istituzioni scolastiche, in collaborazione con le amministrazioni competenti per materia; 
+
+                            
+                        
+                        
+                            i)
+                            
+                                promuove, nell'ambito delle rispettive competenze, rapporti di collaborazione con i garanti e gli altri organismi pubblici comunque denominati a cui sono attribuite, a livello regionale o locale, specifiche competenze in relazione alla tutela dei diritti delle persone con disabilita', in modo da favorire, fatte salve le disposizioni vigenti in materia di trattamento dei dati anche sanitari, lo scambio di dati e di informazioni e un coordinamento sistematico per assicurare la corretta, omogenea e concreta applicazione delle norme, tenendo conto della differenziazione dei modelli e delle pratiche di assistenza e protezione su base territoriale; 
+
+                            
+                        
+                        
+                            l)
+                            
+                                assicura, in coerenza con l'articolo 4, paragrafo 3, della Convenzione delle Nazioni Unite sui diritti delle persone con disabilita', fatta a New York il 13 dicembre 2006 e ratificata e resa esecutiva con legge 3 marzo 2009, n. 18, la consultazione con le organizzazioni e con le associazioni rappresentative delle persone con disabilita' sui temi affrontati e sulle campagne ed azioni di comunicazione e di sensibilizzazione; 
+
+                            
+                        
+                        
+                            m)
+                            
+                                trasmette entro il 30 settembre di ogni anno, una relazione sull'attivita' svolta alle Camere nonche' al Presidente del Consiglio dei ministri o all'Autorita' politica delegata in materia di disabilita' sull'attivita' svolta; 
+
+                            
+                        
+                        
+                            n)
+                            
+                                visita, con accesso illimitato ai luoghi, ferma l'esclusiva applicazione della disciplina di cui alla lettera o) per gli istituti di cui alla legge 26 luglio 1975, n. 354, avvalendosi, ove necessario, della collaborazione di altri organi dello Stato, le strutture che erogano servizi pubblici essenziali di cui alla legge 12 giugno 1990, n. 146, e all'articolo 89, comma 2-bis, del decreto-legge 19 maggio 2020, n. 34, convertito, con modificazioni, dalla legge 17 luglio 2020, n. 77. Nel corso delle visite, il Garante puo' avere colloqui riservati, senza testimoni, con le persone con disabilita' e con qualunque altra persona possa fornire informazioni rilevanti per l'esercizio delle funzioni di cui al presente articolo; l'autorizzazione non occorre neanche per coloro che accompagnano il Garante per ragioni del loro ufficio, in quanto esperti ai sensi dell'articolo 3, comma 5, oppure in qualita' di consulenti a titolo gratuito; 
+
+                            
+                        
+                        
+                            o)
+                            
+                                effettua le visite ai sensi degli articoli 67 e 67-bis della legge n. 354 del 1975; 
+
+                            
+                        
+                        
+                            p)
+                            
+                                agisce e resiste in giudizio a difesa delle proprie prerogative; 
+
+                            
+                        
+                        
+                            q)
+                            
+                                definisce e diffonde codici e raccolte delle buone pratiche in materia di tutela dei diritti delle persone con disabilita' nonche' di modelli di accomodamento ragionevole; 
+
+                            
+                        
+                        
+                            r)
+                            
+                                collabora con gli organismi indipendenti nazionali ((e internazionali)) nello svolgimento dei rispettivi compiti.
+
 Nei casi di cui al comma 1, lettere a), b), c), d), e), f), g) ed n), restano ferme le disposizioni vigenti in materia di autorizzazione, accreditamento e vigilanza sul possesso dei requisiti di sicurezza e qualita' delle strutture sanitarie di cui al decreto legislativo 30 dicembre 1992, n. 502.
 
 Nell'esercizio delle funzioni di cui al comma 1, il Garante assicura la consultazione, con cadenza almeno semestrale, con le federazioni maggiormente rappresentative delle persone con disabilita' e assicura, altresi', forme di concertazione in relazione alle specifiche attivita' di cui al comma 1, lettere c) ed h).
@@ -109,7 +233,52 @@ Le proposte di accomodamento ragionevole, nel rispetto della normativa in materi
 
 ## Art. 6. — (( (Azione processuale del Garante).))
 
+1.
+                    
+                        
+                            
+                                ((Il Garante e' legittimato ad agire in giudizio:))
+                            
+                        
+                        
+                            a)
+                            
+                                
+                                    ((per l'annullamento degli atti o provvedimenti che non si siano conformati, o l'abbiano fatto in maniera inadeguata, alle indicazioni del parere emesso ai sensi dell'articolo 5, comma 2;))
+                                
+                            
+                        
+                        
+                            b)
+                            
+                                
+                                    ((contro l'inerzia serbata sulle indicazioni cronoprogrammatiche di cui all'articolo 5, comma 3;))
+                                
+                            
+                        
+                        
+                            c)
+                            
+                                
+                                    ((nel caso di mancato recepimento della proposta di adozione di misure provvisorie ai sensi dell'articolo 5, comma 4;))
+                                
+                            
+                        
+                        
+                            d)
+                            
+                                
+                                    ((per l'annullamento dei regolamenti e degli atti di natura generale adottati in difformita' al parere di cui all'articolo 4, comma 1, lettera b-bis);))
+                                
+                            
+                        
+                        
+                            e)
+                            
+                                
+                                    ((nelle ipotesi di cui all'articolo 1, comma 4, del decreto legislativo 20 dicembre 2009, n. 198.))
 
+((Nei casi in cui la persona che ha interesse abbia agito in giudizio ai sensi dell'articolo 29 o dell'articolo 31 del codice del processo amministrativo, di cui all'Allegato 1 al decreto legislativo 2 luglio 2010, n. 104, o ai sensi dell'articolo 28 del decreto legislativo 1° settembre 2011, n. 150, il Garante puo' intervenire nel relativo giudizio.))
 
 ((Ai giudizi instaurati ai sensi del comma 1, lettere a), b), c), e d), si applica la disciplina prevista per i riti abbreviati relativi a speciali controversie dal libro IV, titolo V, del codice del processo amministrativo di cui all'Allegato 1 al decreto legislativo 2 luglio 2010, n. 104.))
 

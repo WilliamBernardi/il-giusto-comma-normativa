@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
 vigenza_date: 2014-11-28
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:42Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -29,6 +29,34 @@ generali cui devono essere uniformati i fondi comuni di investimento; Sentita la
 Udito il parere del Consiglio di Stato espresso nell'adunanza generale del 7 maggio 2007;
 
 ## Art. 1. — Definizioni
+
+1.
+                    
+                        
+                            Ai fini del presente regolamento si intendono per:
+ 
+                        
+                        
+                            a)
+                            
+                                "fondi pensione preesistenti": le forme pensionistiche complementari di cui all'articolo 20, comma 1, del decreto legislativo 5 dicembre 2005, n. 252, ad eccezione di quelle istituite all'interno di enti pubblici, anche economici, che esercitano i controlli in materia di tutela del risparmio, in materia valutaria o in materia assicurativa;
+
+                            
+                        
+                        
+                            b)
+                            
+                                "fondi pensione interni bancari o assicurativi": i fondi pensione preesistenti istituiti all'interno di enti o societa' che sono sottoposti, direttamente o in quanto facenti parte di un gruppo, a vigilanza in base alle disposizioni di cui al decreto legislativo 1° settembre 1993, n. 385, e al decreto legislativo 7 settembre 2005, n. 209;
+
+                            
+                        
+                        
+                            c)
+                            
+                                "investimenti immobiliari": gli investimenti in:
+ 1) beni immobili e diritti reali immobiliari;
+ 2) quote di fondi immobiliari di cui all'articolo 1, comma 1, lettera d-bis) del decreto del Ministro dell'economia e delle finanze 24 maggio 1999, n. 228;
+ 3) azioni o quote di societa' immobiliari di cui all'articolo 1, comma 1, lettera g-bis) del decreto del Ministro dell'economia e delle finanze 24 maggio 1999, n. 228.
 
 ## Art. 2. — Adeguamento dei fondi pensione preesistenti
 
@@ -61,6 +89,31 @@ I fondi pensione preesistenti avviano le procedure di adeguamento dei propri sta
 ## Art. 5. — Modelli gestionali e investimenti dei fondi pensione preesistenti
 
 Ai fondi pensione preesistenti, nella gestione delle attivita' svolta in forma diretta ovvero tramite convenzioni con i soggetti di cui all'articolo 6, comma 1, del decreto legislativo 5 dicembre 2005, n. 252, si applicano le norme di cui all'articolo 6, comma 13, del medesimo decreto legislativo, nonche' quelle ((di cui al decreto del Ministro dell'economia e delle finanze, adottato ai sensi dell'articolo 6, comma 5-bis, del decreto legislativo 5 dicembre 2005, n. 252)), secondo le specificazioni e deroghe indicate nei commi 2, 3, 4 e 5. I fondi pensione preesistenti possono, altresi', continuare a gestire le attivita' mediante la stipula di contratti assicurativi di cui ai rami vita I, III e V previsti dal decreto legislativo 7 settembre 2005, n. 209.
+
+2.
+                    
+                        
+                            I fondi pensione preesistenti possono: 
+ 
+                        
+                        
+                            a)
+                            
+                                effettuare investimenti immobiliari sia in forma diretta, sia attraverso partecipazioni anche di controllo in societa' immobiliari, sia tramite quote di fondi immobiliari anche in deroga a quanto previsto ((dall'articolo 5, commi 2 e 4, lettera f) del decreto del Ministro dell'economia e finanze adottato ai sensi dell'articolo 6, comma 5-bis, del decreto legislativo 5 dicembre 2005, n. 252)). Fermo restando il rispetto dei criteri generali di gestione di cui al predetto decreto ministeriale, gli investimenti immobiliari di cui all'articolo 1, comma 1, lettera c), n. 1), devono essere contenuti entro il limite totale del venti per cento del patrimonio del fondo pensione; i fondi che alla data di entrata in vigore del presente regolamento detengono investimenti superiori al predetto limite riconducono gli investimenti medesimi nell'ambito della predetta percentuale nel termine di cinque anni dall'entrata in vigore del presente decreto; la COVIP puo' stabilire i casi in cui i predetti limiti e termini possono essere superati o derogati per specifiche esigenze del fondo coerenti con la politica di gestione e la situazione del fondo stesso; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                continuare a concedere prestiti strettamente connessi alle attivita' del fondo, per un ammontare limitato sulla base di parametri fissati dalla COVIP; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                assumere prestiti solo a fini di liquidita' e su base temporanea.
 
 La COVIP puo' limitare le categorie di attivita' nelle quali i fondi pensione preesistenti possono investire direttamente le proprie risorse in funzione dell'adeguatezza della struttura organizzativa preposta alla valutazione e alla gestione del rischio degli investimenti.
 

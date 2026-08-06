@@ -8,8 +8,8 @@ vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
 vigenza_date: 2023-09-05
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:30Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -36,6 +36,128 @@ Le Regioni a statuto ordinario esercitano nelle materie disciplinate dal present
 Le disposizioni del presente decreto sono applicabili nelle Regioni a statuto speciale e nelle Province autonome di Trento e di Bolzano compatibilmente con i rispettivi statuti e le relative norme di attuazione, anche con riferimento alla legge costituzionale 18 ottobre 2001, n. 3.
 
 ## Art. 2. — Definizioni
+
+1.
+                    
+                        
+                            Ai fini del presente decreto, si intende per: 
+ 
+                        
+                        
+                            a)
+                            
+                                agente sportivo: il soggetto che, in esecuzione del contratto di mandato sportivo, mette in contatto due o piu' soggetti operanti nell'ambito di una disciplina sportiva riconosciuta dal Comitato Olimpico Nazionale Italiano e dal Comitato Internazionale Olimpico, siano essi lavoratori sportivi o Societa' o Associazioni Sportive, ai fini della conclusione, della risoluzione o del rinnovo di un contratto di lavoro sportivo, del trasferimento della prestazione sportiva mediante cessione del relativo contratto di lavoro, del tesseramento di uno sportivo presso una Federazione Sportiva Nazionale, fornendo servizi professionali di assistenza e consulenza, mediazione; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                Comitato Italiano Paralimpico (CIP): l'ente pubblico, riconosciuto dal Comitato Paralimpico Internazionale che, in conformita' ai principi dell'ordinamento sportivo paralimpico internazionale, e' autorita' di disciplina, regolazione e gestione delle attivita' sportive paralimpiche afferenti tutte le tipologie di disabilita';
+                            
+                        
+                        
+                            c)
+                            
+                                Comitato Olimpico Internazionale: l'organizzazione internazionale non governativa senza fini di lucro alla guida del movimento olimpico, preposta alla gestione e all'organizzazione dei Giochi Olimpici; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                Comitato Olimpico Nazionale Italiano: l'ente pubblico, riconosciuto dal Comitato Olimpico Internazionale che, in conformita' alla Carta olimpica, svolge il ruolo di Comitato olimpico sul territorio nazionale; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                Comitato Paralimpico Internazionale: l'organizzazione internazionale non governativa senza fini di lucro alla guida del movimento paralimpico, preposta alla gestione e all'organizzazione dei Giochi Paralimpici; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                Disciplina Sportiva Associata: l'organizzazione sportiva nazionale, priva dei requisiti per il riconoscimento quale Federazione Sportiva Nazionale, che svolge attivita' sportiva sul territorio nazionale; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                Enti di Promozione Sportiva: gli organismi sportivi che operano nel campo della promozione e nell'organizzazione di attivita' motorie e sportive con finalita' ricreative e formative, anche a tutela delle minoranze linguistiche; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                Federazione Sportiva Internazionale: l'organizzazione internazionale non governativa senza scopi di lucro che governa uno o piu' sport a livello mondiale e che riconosce a fini sportivi le organizzazioni che governano i medesimi sport a livello nazionale; 
+
+                            
+                        
+                        
+                            i)
+                            
+                                Federazione Sportiva Nazionale: l'organizzazione sportiva nazionale, affiliata alla Federazione sportiva internazionale di appartenenza, posta al vertice di una disciplina sportiva o a un gruppo di discipline affini; 
+
+                            
+                        
+                        
+                            l)
+                            
+                                Federazioni Sportive Paralimpiche: l'organizzazione sportiva nazionale riconosciuta dal Comitato Italiano Paralimpico posta al vertice di una disciplina sportiva paralimpica o a un gruppo di discipline paralimpiche affini; 
+
+                            
+                        
+                        
+                            m)
+                            
+                                lavoratore sportivo: l'atleta, l'allenatore, l'istruttore, il direttore tecnico, il direttore sportivo, il preparatore atletico e il direttore di gara che, senza alcuna distinzione di genere e indipendentemente dal settore professionistico o dilettantistico, esercitano l'attivita' sportiva verso un corrispettivo; 
+
+                            
+                        
+                        
+                            n)
+                            
+                                Registro nazionale degli agenti sportivi: il registro al quale deve essere iscritto l'agente sportivo, ai fini dello svolgimento della professione; 
+
+                            
+                        
+                        
+                            o)
+                            
+                                Scuola dello Sport: la struttura della societa' Sport e salute S.p.a. che svolge attivita' di formazione, aggiornamento e specializzazione di tecnici, dirigenti, atleti ed altri operatori che operano nel mondo dello sport; 
+
+                            
+                        
+                        
+                            p)
+                            
+                                settore dilettantistico: il settore di una Federazione Sportiva Nazionale o Disciplina Sportiva Associata non qualificato come professionistico; 
+
+                            
+                        
+                        
+                            q)
+                            
+                                settore professionistico: il settore qualificato come professionistico dalla rispettiva Federazione Sportiva Nazionale o Disciplina Sportiva Associata; 
+
+                            
+                        
+                        
+                            r)
+                            
+                                sport: qualsiasi forma di attivita' fisica fondata sul rispetto di regole che, attraverso una partecipazione organizzata o non organizzata, ha per obiettivo l'espressione o il miglioramento della condizione fisica e psichica, lo sviluppo delle relazioni sociali o l'ottenimento di risultati in competizioni di tutti i livelli; 
+
+                            
+                        
+                        
+                            s)
+                            
+                                Sport e salute S.p.a.: la societa' per azioni a controllo pubblico che svolge attivita' di produzione e fornitura servizi di interesse generale a favore dello sport, secondo le direttive e gli indirizzi del Presidente del Consiglio dei ministri o dell'Autorita' politica da esso delegata in materia di sport.
 
 ## Art. 3. — Agente sportivo
 
@@ -68,6 +190,45 @@ L'iscrizione a un albo circondariale degli avvocati e' compatibile con l'iscrizi
 
 ## Art. 5. — Contratto di mandato sportivo
 
+1.
+                    
+                        
+                            Il contratto di mandato sportivo deve, a pena di nullita', essere redatto in forma scritta e contenere i seguenti elementi: 
+ 
+                        
+                        
+                            a)
+                            
+                                le generalita' complete delle parti contraenti; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                l'oggetto del contratto; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                la data di stipulazione del contratto; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                il compenso dovuto all'agente sportivo, nonche' le modalita' e le condizioni di pagamento, conformemente a quanto previsto dall'articolo 8; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                la sottoscrizione delle parti del contratto.
+
 Al contratto di mandato sportivo di cui al comma 1 deve essere apposto un termine di durata non superiore a due anni. Nel caso di apposizione di un termine superiore o di mancata indicazione del termine, la durata del contratto e' da intendersi automaticamente pari a due anni. Sono nulle le clausole di tacito rinnovo del contratto.
 
 Il contratto di mandato sportivo puo' essere stipulato dall'agente sportivo con non piu' di due soggetti da lui assistiti. ((In tal caso, una delle due parti assistite dall'agente sportivo e' il lavoratore sportivo. L'agente sportivo assiste unicamente il lavoratore sportivo e una tra la societa' sportiva cessionaria e la societa' sportiva cedente, ovvero il lavoratore sportivo e la societa' sportiva in vista del rinnovo del contratto di lavoro professionistico o per apportare integrazioni o modificazioni allo stesso.))
@@ -85,6 +246,59 @@ Presso ciascuna Federazione Sportiva Nazionale e' istituito un Registro dei cont
 ## Art. 6.
 
 Incompatibilita' e conflitto d'interessi
+
+1.
+                    
+                        
+                            E' fatto divieto di esercitare l'attivita' di agente sportivo per: 
+ 
+                        
+                        
+                            a)
+                            
+                                i dipendenti delle amministrazioni pubbliche di cui all'articolo 1, comma 2, del decreto legislativo 30 marzo 2001, n. 165, dei relativi enti strumentali o loro consorzi e Associazioni per qualsiasi fine istituiti, degli enti pubblici economici e delle societa' a partecipazione pubblica ai sensi del decreto legislativo 19 agosto 2016, n. 175; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                i soggetti che ricoprono cariche, anche elettive, o incarichi nelle amministrazioni, enti, Societa', Consorzi o Associazioni di cui alla lettera a); 
+
+                            
+                        
+                        
+                            c)
+                            
+                                i titolari di incarichi elettivi o di rappresentanza in partiti politici o in organizzazioni sindacali; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                i lavoratori sportivi; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                gli atleti tesserati alla Federazione Sportiva Nazionale presso la quale abbiano conseguito il titolo abilitativo; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                i soggetti che ricoprono cariche sociali o associative, incarichi dirigenziali o tecnico-sportivi o che sono titolari di rapporti di lavoro subordinato o autonomo, anche di tipo professionale e di consulenza, presso il Comitato Olimpico Internazionale, il Comitato Paralimpico Internazionale, il CONI, il CIP, le Federazioni Sportive Internazionali, le Federazioni Sportive Nazionali, le Discipline Sportive Associate e gli Enti di Promozione Sportiva, e comunque presso Societa' o Associazioni Sportive, italiane o estere, operanti nel settore sportivo per il quale abbiano conseguito l'abilitazione a svolgere l'attivita' di agente sportivo; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                i soggetti che instaurano o mantengono rapporti di qualsiasi altro genere, anche di fatto, che comportino un'influenza sulle Associazioni o Societa' Sportive, italiane o estere, operanti nel settore sportivo per il quale abbiano conseguito l'abilitazione a svolgere l'attivita' di agente sportivo.
 
 La situazione di incompatibilita', di cui al comma 1, lettere d) ed e), cessa al termine della stagione sportiva nella quale il soggetto abbia concluso l'attivita' sportiva. La situazione di incompatibilita', di cui al comma 1, lettere f) e g), viene meno decorsi sei mesi dalla data della cessazione di ciascuna delle situazioni e dei rapporti ivi indicati.
 
@@ -121,6 +335,38 @@ Con uno o piu' decreti del Presidente del Consiglio dei ministri o dell'Autorita
 ## Art. 9.
 
 Societa' di agenti sportivi
+
+1.
+                    
+                        
+                            L'organizzazione, da parte dell'agente sportivo, dell'attivita' in forma societaria, attraverso la costituzione di una societa' di persone o di capitali, secondo la disciplina legislativa vigente, e' ammessa al ricorrere delle seguenti condizioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                l'oggetto sociale deve essere costituito dalle attivita' di cui all'articolo 3 e da eventuali attivita' connesse o strumentali; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                la maggioranza assoluta delle quote della societa' deve essere detenuta da soggetti iscritti nel Registro di cui all'articolo 4; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                la rappresentanza e i poteri di gestione della societa' devono essere conferiti a soggetti iscritti nel Registro di cui all'articolo 4; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                i soci non devono possedere, in via diretta o mediata, quote di partecipazione in altre societa' di agenti sportivi.
 
 La possibilita' di sottoscrizione di contratti di mandato sportivo, in nome della societa' di agenti sportivi, e' subordinata all'iscrizione della societa' medesima nell'apposita sezione «Societa' di agenti sportivi» del Registro nazionale degli agenti sportivi.
 

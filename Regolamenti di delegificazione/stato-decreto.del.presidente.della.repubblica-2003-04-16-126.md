@@ -8,8 +8,8 @@ codice_redazionale: 003G0150
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti di delegificazione
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:40:25Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -49,9 +49,54 @@ All'articolo 3 del regolamento di cui al decreto del Presidente della Repubblica
 
 ## Art. 5. — Termini per adempimenti fiscali
 
+1.
+                        
+                            
+                                All'articolo 4, del regolamento di cui al decreto del Presidente della Repubblica 22 luglio 1998, n. 322, come modificato dall'articolo 4 del regolamento di cui al decreto del Presidente della Repubblica 7 dicembre 2001, n. 435, sono apportate le seguenti modificazioni:
+ 
+                            
+                            
+                                a)
+                                
+                                    nella rubrica, dopo la parola: «Dichiarazione» sono inserite le seguenti: «e certificazioni»;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    nel comma 3-bis, le parole: «30 giugno» sono sostituite dalle seguenti: «30 settembre»;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    dopo il comma 6-bis sono aggiunti i seguenti:
+ «6-ter. I soggetti indicati nel comma 1 rilasciano un'apposita certificazione unica anche ai fini dei contributi dovuti all'Istituto nazionale per la previdenza sociale (I.N.P.S.) attestante l'ammontare complessivo delle dette somme e valori, l'ammontare delle ritenute operate, delle detrazioni di imposta effettuate e dei contributi previdenziali e assistenziali, nonche' gli altri dati stabiliti con il provvedimento amministrativo di approvazione dello schema di certificazione unica. La certificazione e' unica anche ai fini dei contributi dovuti agli altri enti e casse previdenziali. Con decreto del Ministro dell'economia e delle finanze, emanato di concerto con il Ministro del lavoro e delle politiche sociali, sono stabilite le relative modalita' di attuazione. La certificazione unica sostituisce quelle previste ai fini contributivi.
+ 6-quater. Le certificazioni di cui al comma 6-ter, sottoscritte anche mediante sistemi di elaborazione automatica, sono consegnate agli interessati entro il 15 marzo dell'anno successivo a quello in cui le somme e i valori sono stati corrisposti ovvero entro dodici giorni dalla richiesta degli stessi in caso di interruzione del rapporto di lavoro. Nelle ipotesi di cui all'articolo 27 del decreto del Presidente della Repubblica 29 settembre 1973, n. 600, la certificazione puo' essere sostituita dalla copia della comunicazione prevista dagli articoli 7, 8, 9 e 11 della legge 29 dicembre 1962, n. 1745.».
+
 ## Art. 6. — Disposizioni finali e transitorie
 
 La disposizione di cui all'articolo 5, comma 1, lettera b), si applica a decorrere dal 1° gennaio 2003.
+
+2.
+                        
+                            
+                                Dalla data di entrata in vigore del presente regolamento, ai sensi dell'articolo 17, comma 2, della legge 23 agosto 1988, n. 400, si intendono abrogati:
+ 
+                            
+                            
+                                a)
+                                
+                                    l'articolo 10, comma 5, del decreto-legge 2 marzo 1989, n. 69, convertito, con modificazioni, dalla legge 27 aprile 1989, n. 154;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'articolo 7-bis del decreto del Presidente della Repubblica 29 settembre 1973, n. 600.
 
 I riferimenti alle disposizioni indicate nell'articolo 7-bis del decreto del Presidente della Repubblica 29 settembre 1973, n. 600, contenuti in ogni altro atto normativo si intendono fatti alle disposizioni dei commi 6-ter e 6-quater dell'articolo 4 del regolamento di cui al decreto del Presidente della Repubblica 22 luglio 1998, n. 322, come modificato dall'articolo 5 del presente regolamento.
 

@@ -7,8 +7,8 @@ urn: urn:nir:ministero.interno:decreto:2019-08-21;127
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:42Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -50,6 +50,24 @@ Acquisito il parere delle competenti Commissioni parlamentari;
 
 Il presente capo detta le disposizioni comuni che si applicano nell'ambito delle strutture di cui al comma 2.
 
+2.
+                        
+                            
+                                Le disposizioni contenute nel decreto legislativo 9 aprile 2008, n. 81, di seguito denominato «decreto legislativo n. 81 del 2008», tenuto conto delle effettive particolari esigenze connesse al servizio espletato o alle peculiarita' organizzative, si applicano: 
+ 
+                            
+                            
+                                a)
+                                
+                                    nelle articolazioni centrali e periferiche della Polizia di Stato e nelle strutture centrali e periferiche del Ministero dell'interno destinate per finalita' istituzionali alle attivita' degli organi con compiti in materia di ordine e sicurezza pubblica individuate dai decreti interministeriali di cui all'articolo 13, comma 3, del decreto legislativo n. 81 del 2008, secondo quanto indicato nel capo II del presente decreto; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    nelle aree e nelle strutture di pertinenza del Dipartimento dei vigili del fuoco, del soccorso pubblico e della difesa civile, di seguito denominato «Dipartimento dei vigili del fuoco», nelle articolazioni centrali e periferiche del Corpo nazionale dei vigili del fuoco, di seguito denominato «Corpo nazionale», e nelle aree operative, nonche' nei riguardi del personale permanente e volontario del Corpo nazionale di cui all'articolo 6 del decreto legislativo 8 marzo 2006, n. 139 e del personale in servizio nel medesimo Dipartimento, compreso quello che opera in situazioni di emergenza, secondo quanto indicato nel capo III del presente decreto.
+
 ## Art. 2. — Individuazione del datore di lavoro
 
 Fermo restando quanto previsto dall'articolo 2, comma 1, lettera b), del decreto legislativo n. 81 del 2008, nel rispetto delle effettive particolari esigenze connesse al servizio espletato e dei peculiari assetti organizzativi e ordinamentali vigenti, le funzioni di datore di lavoro sono assolte anche dal dirigente al quale spettano i poteri di gestione dell'ufficio, ivi inclusi quelli di organizzazione del lavoro e di autonoma valutazione del rischio, ovvero dal funzionario non avente qualifica dirigenziale preposto ad un ufficio avente autonomia gestionale, anche ai fini dell'organizzazione del lavoro e della valutazione del rischio, ancorche' non siano dotati di autonomi poteri di spesa. La responsabilita' del predetto datore di lavoro e' limitata agli effettivi poteri di gestione posseduti. Restano ferme le responsabilita' dei dirigenti o funzionari che, per effetto delle disposizioni previste dagli ordinamenti di appartenenza, hanno l'obbligo di provvedere all'adozione di misure di prevenzione e di interventi strutturali e di manutenzione, per i quali sono necessari autonomi poteri decisionali e di spesa. Le funzioni, che possono essere delegate dal medesimo datore di lavoro, di cui all'articolo 18 del decreto legislativo n. 81 del 2008, sono demandate a dirigenti ovvero a funzionari non aventi qualifica dirigenziale, questi ultimi nei soli casi in cui siano preposti a uffici aventi autonomia gestionale, ancorche' non siano dotati di autonomi poteri di spesa, ferme restando le responsabilita' agli stessi attribuite nell'ambito delle rispettive competenze.
@@ -59,6 +77,24 @@ La responsabilita' della salute e sicurezza del personale compete anche ai dirig
 I datori di lavoro sono individuati con uno o piu' decreti del Ministro dell'interno da adottarsi entro sessanta giorni dalla data di entrata in vigore del presente decreto.
 
 ## Art. 3. — Individuazione dei dirigenti e preposti
+
+1.
+                        
+                            
+                                Per le finalita' previste dalle disposizioni di cui all'articolo 2, comma l, lettere d) ed e), del decreto legislativo n. 81 del 2008, negli ambienti di lavoro del Ministero dell'interno, si intende per: 
+ 
+                            
+                            
+                                a)
+                                
+                                    «dirigente»: il soggetto responsabile di unita' organizzativa che, in ragione delle competenze professionali e dei poteri gerarchici e funzionali adeguati alla natura dell'incarico conferitogli, attua le direttive del datore di lavoro organizzando l'attivita' lavorativa e vigilando su di essa; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    «preposto»: il soggetto che, in ragione delle competenze professionali e nei limiti di poteri gerarchici e funzionali adeguati alla natura dell'incarico conferitogli, sovrintende all'attivita' lavorativa del personale dipendente, anche temporanea, e garantisce l'attuazione delle direttive ricevute, controllandone la corretta esecuzione ed esercitando un funzionale potere di iniziativa, individuato sulla base dell'organizzazione dell'ufficio.
 
 ## Art. 4. — Comunicazioni e segnalazioni
 
@@ -78,7 +114,64 @@ Gli addetti e il responsabile del servizio di cui al comma l, devono disporre di
 
 Attivita' di vigilanza
 
+1.
+                        
+                            
+                                La vigilanza sull'applicazione della legislazione in materia di salute e sicurezza nei luoghi di lavoro e' demandata, ai sensi dell'articolo 13 del decreto legislativo n. 81 del 2008: 
+ 
+                            
+                            
+                                a)
+                                
+                                    all'ufficio di vigilanza presso l'Ufficio centrale ispettivo del Dipartimento della pubblica sicurezza, per gli uffici centrali e periferici della Polizia di Stato e per le strutture centrali e periferiche del Ministero dell'interno individuate nei decreti interministeriali di cui all'articolo 13, comma 3, del decreto legislativo n. 81 del 2008, con esclusione dei luoghi di lavoro su cui ha competenza l'ufficio di vigilanza di cui alla lettera b) del presente comma; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    all'ufficio di vigilanza presso l'Ufficio centrale ispettivo del Dipartimento dei vigili del fuoco, per le aree individuate con decreto interministeriale adottato ai sensi dell'articolo 13, comma 3, del decreto legislativo n. 81 del 2008, direttamente o avvalendosi di personale del Corpo nazionale appositamente incaricato. Tale personale non puo' svolgere attivita' di vigilanza nelle strutture ove presta servizio o dove svolge il ruolo di medico competente.
+
 ## Art. 7. — Attribuzioni degli uffici di vigilanza
+
+1.
+                        
+                            
+                                Agli uffici di cui all'articolo 6 sono attribuite, in via esclusiva, le funzioni di vigilanza previste dall'articolo 13, commi 1-bis e 3, del decreto legislativo n. 81 del 2008. In particolare gli uffici di vigilanza, oltre a quanto previsto dall'articolo 4 del presente decreto: 
+ 
+                            
+                            
+                                a)
+                                
+                                    svolgono attivita' di vigilanza presso le rispettive strutture del Ministero dell'interno e presso quelle di cui all'articolo 13, comma 3, del decreto legislativo n. 81 del 2008 finalizzate al controllo dell'osservanza della normativa in materia di salute e sicurezza nei luoghi di lavoro; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    effettuano rilievi tecnici e ambientali per attivita' istruttorie delle autorizzazioni in deroga per i locali destinati a luoghi di lavoro; sui cantieri temporanei e mobili ubicati nelle aree riservate; per la sicurezza di impianti, per i rischi fisici, chimici e biologici; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    ricevono, dai rappresentanti dei lavoratori per la sicurezza, le segnalazioni relative alle inosservanze in materia di prevenzione degli infortuni e tutela della salute dei lavoratori nei luoghi di lavoro; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    svolgono attivita' statistico epidemiologica per i profili di specifica competenza; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    sentono, ove possibile, in occasione di visite o verifiche, le osservazioni formulate dai rappresentanti dei lavoratori per la sicurezza.
 
 I ricorsi avverso i giudizi del medico competente sono esaminati e decisi da due commissioni mediche composte di tre membri, in possesso dei requisiti o titoli professionali di cui all'articolo 38 del decreto legislativo n. 81 del 2008, individuate con provvedimento, rispettivamente, del Capo del Dipartimento della pubblica sicurezza per il personale in servizio nelle strutture di cui all'articolo 1, comma 2, lettera a), e del Capo del Dipartimento dei vigili del fuoco, del soccorso pubblico e della difesa civile per il personale in servizio nelle strutture di cui alla lettera b) dello stesso articolo 1, comma 2. Ai componenti di tali commissioni non e' corrisposto alcun gettone di presenza, indennita' o emolumento comunque denominato.
 
@@ -139,6 +232,31 @@ Fermi restando gli obblighi di cui agli articoli 22, 23 e 24 del decreto legisla
 
 ## Art. 13. — Valutazione dei rischi
 
+1.
+                        
+                            
+                                Fermi restando gli obblighi del datore di lavoro ai sensi dell'articolo 17, comma l, lettera a), del decreto legislativo n. 81 del 2008, ai fini della valutazione dei rischi nelle attivita' e nei luoghi di lavoro, i dirigenti che provvedono all'individuazione delle disposizioni tecniche e dei capitolati tecnici d'opera dei materiali, delle armi, delle installazioni e dei mezzi di cui all'articolo 12, ovvero al loro approvvigionamento e fornitura, hanno l'obbligo di individuare e comunicare ai datori di lavoro destinatari finali le seguenti informazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la natura, la tipologia e le caratteristiche costruttive dei materiali e dei loro componenti; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    i rischi per la salute e la sicurezza del personale, in conseguenza del loro utilizzo; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    le principali misure tecnico-organizzative e sanitarie da adottare nel loro utilizzo, al fine di eliminare, ridurre o contenere i rischi per la salute.
+
 I datori di lavoro, ricevute le informazioni di cui al comma 1, ne tengono conto nella valutazione dei rischi e nell'elaborazione del documento previsto dall'articolo 28 del decreto legislativo n. 81 del 2008.
 
 Ai fini degli adempimenti previsti dall'articolo 28 del decreto legislativo n. 81 del 2008, la valutazione dello stress lavoro-correlato e' definita in base alle indicazioni della Commissione consultiva permanente per la salute e la sicurezza sul lavoro, di cui all'articolo 6 del decreto legislativo n. 81 del 2008, tenendo conto delle particolari caratteristiche e modalita' delle prestazioni lavorative.
@@ -159,6 +277,45 @@ l. Ai fini della riservatezza delle informazioni di cui e' vietata la divulgazio
 ## Art. 15. — Campo di applicazione
 
 Il presente capo disciplina le peculiari e specifiche modalita' di applicazione delle disposizioni del decreto legislativo n. 81 del 2008, nelle aree e nelle strutture individuate dal decreto del Ministro dell'interno di concerto con il Ministro del lavoro, della previdenza sociale e della salute del 30 dicembre 2008 recante «Vigilanza sull'applicazione della legislazione in materia di salute e sicurezza nelle aree riservate, operative e per quelle che presentano analoghe esigenze, del Dipartimento dei vigili del fuoco, del soccorso pubblico e della difesa civile e del Corpo nazionale dei vigili del fuoco» ovvero nelle aree a disposizione del Dipartimento dei vigili del fuoco e nelle articolazioni centrali e periferiche del Corpo nazionale nonche' nei riguardi del personale permanente e volontario del Corpo nazionale e del personale in servizio presso il medesimo Dipartimento, compreso quello che opera in situazioni di emergenza, tenuto conto delle particolari esigenze connesse al servizio espletato e delle peculiarita' organizzative.
+
+2.
+                        
+                            
+                                Le particolari esigenze connesse al servizio prestato, ovvero alle peculiarita' organizzative di cui all'articolo 3, comma 2, del decreto legislativo n. 81 del 2008, sono di seguito definite in relazione ai principi e alle finalita' istituzionali del soccorso pubblico, della difesa civile, della protezione civile e della tutela della pubblica incolumita': 
+ 
+                            
+                            
+                                a)
+                                
+                                    direzione, coordinamento, gestione e conduzione, funzionali all'espletamento dei compiti istituzionali; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    capacita' e prontezza di impiego del personale, in particolare quello operativo, e relativo addestramento; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    particolarita' costruttive e di impiego di equipaggiamenti speciali, strumenti di lavoro, dispositivi, dotazioni specifiche e mezzi operativi quali unita' navali, aeromobili, mezzi di trasporto e relativo supporto logistico, mezzi di movimento terra, nonche' di specifici impianti, installazioni operative o addestrative, quali castelli di manovra, camere a fumo, simulatori di incendio, laboratori di analisi e verifica strumentale, nonche' le attrezzature e apparecchi individuati all'articolo 74, comma 2, lettere b),
+                                
+                            
+                            
+                                d)
+                                
+                                    e g), del decreto legislativo n. 81 del 2008; 
+ d) continuita' e tempestivita' dei servizi finalizzati al soccorso pubblico, alla difesa civile e alla protezione civile; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    riservatezza e sicurezza delle telecomunicazioni e del trattamento dei dati.
 
 Fatto salvo il dovere di intervento, il personale del Corpo nazionale adotta le misure di tutela della salute e della sicurezza anche individuali predisposte per lo specifico impiego.
 

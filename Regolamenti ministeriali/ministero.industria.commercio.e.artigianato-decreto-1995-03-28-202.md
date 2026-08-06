@@ -8,8 +8,8 @@ codice_redazionale: 095G0245
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:42Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -22,6 +22,24 @@ Entrata in vigore del decreto: 13/06/1995
 DEL COMMERCIO E DELL'ARTIGIANATO
 
 ## Art. 1. — Ambito di applicazione
+
+1.
+                    
+                        
+                            Possono accedere al "Fondo speciale per la riconversione delle produzioni di amianto" di cui all'art. 14, comma 3, della legge 27 marzo 1992, n. 257, le imprese industriali che, impiegando fibre di amianto come materia prima, sono impegnate in programmi di riconversione della loro attivita' produttiva:
+ 
+                        
+                        
+                            a)
+                            
+                                nello stesso settore merceologico utilizzando materiali sostitutivi ovvero alternativi dell'amianto;
+
+                            
+                        
+                        
+                            b)
+                            
+                                in altri settori merceologici, previa cessazione della precedente attivita' lavorativa e reimpiego della manodopera.
 
 Possono concorrere alla concessione dei contributi del Fondo le imprese che alla data del 31 dicembre 1992 risultano in attivita' e non sono sottoposte alla stessa data a procedure concorsuali.
 
@@ -39,13 +57,95 @@ Le domande devono essere presentate in duplice copia, di cui una in carta legale
 
 Le domande devono essere firmate dal legale rappresentante del soggetto richiedente il contributo.
 
+5.
+                    
+                        
+                            Ogni domanda deve essere, inoltre, corredata dalle seguenti informazioni che si considerano vincolanti:
+ 
+                        
+                        
+                            a)
+                            
+                                dall'indicazione della data di inizio e fine lavori;
+
+                            
+                        
+                        
+                            b)
+                            
+                                dal progetto dell'iniziativa proposta;
+
+                            
+                        
+                        
+                            c)
+                            
+                                da una relazione tecnico-economica che deve contenere tutti gli elementi che illustrano le finalita' dell'iniziativa e ne consentono la valutazione.
+
 Se si rileva l'incompletezza della documentazione allegata, il Ministero dell'industria, del commercio e dell'artigianato si riserva di richiedere integrazioni alla documentazione presentata.
 
 I costi imputabili all'iniziativa devono essere relativi a spese strettamente connesse al raggiungimento degli obiettivi di cui all'art. 14, comma 5, della legge n. 257/1992.
 
+8.
+                    
+                        
+                            Sono imputabili i costi, al netto di IVA, relativi ad:
+ 
+                        
+                        
+                            a)
+                            
+                                acquisto di nuovi macchinari degli impianti e delle nuove attrezzature relative alla realizzazione dell'iniziativa comprese delle relative spese di trasporto, montaggio e assemblaggio;
+
+                            
+                        
+                        
+                            b)
+                            
+                                opere edili strettamente connesse e dimensionate, anche dal punto di vista funzionale, ai macchinari, agli impianti e alle attrezzature di cui al punto precedente ed esclusivamente dedicate a questi ultimi;
+
+                            
+                        
+                        
+                            c)
+                            
+                                ampliamenti ovvero ristrutturazione dei servizi di stabilimento funzionalmente legati alla riconversione del processo produttivo;
+
+                            
+                        
+                        
+                            d)
+                            
+                                progettazione e direzione lavori, nel limite massimo del 10%;
+
+                            
+                        
+                        
+                            e)
+                            
+                                scorte, forfettarie, ammissibili nel limite del 40% del costo dell'investimento effettuato.
+
 Non sono imputabili i costi relativi a revisione prezzi, ad imprevisti, ed a spese generali.
 
 Nell'ipotesi di riconversione in altro settore merceologico, cosi' come descritto alla lettera b) dell'art. 1, l'impresa si deve impegnare ad operare nel nuovo settore merceologico senza soluzione di continuita' rispetto al precedente.
+
+11.
+                    
+                        
+                            In tale ipotesi, il Ministero dell'industria, del commercio e dell'artigianato riconosce il minore costo, tra i due presi a confronto, relativamente a:
+ 
+                        
+                        
+                            a)
+                            
+                                il costo medio di riconversione proprio del settore di provenienza;
+
+                            
+                        
+                        
+                            b)
+                            
+                                il costo di riconversione nel nuovo settore.
 
 ## Art. 3. — Valutazione delle domande
 

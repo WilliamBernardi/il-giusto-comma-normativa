@@ -8,8 +8,8 @@ codice_redazionale: 004G0082
 vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:21Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -30,6 +30,61 @@ Il presente decreto non si applica allo zucchero impalpabile, allo zucchero cand
 ## Art. 2. — Denominazioni di vendita e altre indicazioni
 
 Ai prodotti di cui all'articolo 1, comma 1, si applica il decreto legislativo 27 gennaio 1992, n. 109, e successive modificazioni, e le disposizioni di cui ai commi 2 e 3.
+
+2.
+                    
+                        
+                            Si applicano le seguenti particolari disposizioni:
+ 
+                        
+                        
+                            a)
+                            
+                                i prodotti di cui all'articolo 1, comma 1, possono recare, in aggiunta alla denominazione obbligatoria, altre specificazioni usuali a condizione che siano tali da non indurre in errore il consumatore sulla natura e sulla identita' del prodotto, quale la specificazione «semolato» per i prodotti di cui all'allegato I, punti 2 e 3;
+
+                            
+                        
+                        
+                            b)
+                            
+                                il termine «bianco» puo' essere utilizzato per:
+ 1) lo zucchero liquido il cui colore della soluzione non superi le venticinque unita' ICUMSA, determinate secondo il metodo di cui all'allegato II, lettera c);
+ 2) lo zucchero liquido invertito e lo sciroppo di zucchero invertito il cui contenuto di ceneri conduttimetriche non sia superiore allo 0,1 per cento e la cui colorazione della soluzione non superi le venticinque unita' ICUMSA, determinate secondo il metodo di cui all'allegato II, lettera c);
+
+                            
+                        
+                        
+                            c)
+                            
+                                l'etichettatura deve indicare il contenuto di sostanza secca e di zucchero invertito per lo zucchero liquido, lo zucchero liquido invertito e lo sciroppo di zucchero invertito;
+
+                            
+                        
+                        
+                            d)
+                            
+                                l'etichettatura deve recare il termine «cristallizzato» per lo sciroppo di zucchero invertito che contiene cristalli nella soluzione;
+
+                            
+                        
+                        
+                            e)
+                            
+                                sui prodotti preconfezionati di peso inferiore a 20 grammi, non occorre indicare la quantita' netta;
+
+                            
+                        
+                        
+                            f)
+                            
+                                lo zucchero di fabbrica, lo zucchero bianco, lo zucchero raffinato e lo zucchero bianco raffinato possono essere posti in vendita o somministrati solo se preconfezionati. Sulle bustine, salvo quanto previsto alla lettera e), puo' essere riportata la sola denominazione di vendita;
+
+                            
+                        
+                        
+                            g)
+                            
+                                i prodotti di cui ai punti 7 e 8 dell'allegato I, se contengono fruttosio in quantita' superiore al 5 per cento in rapporto alla sostanza secca, nel rispetto della loro denominazione e in quanto ingredienti, sono etichettati rispettivamente come «sciroppo di glucosio-fruttosio» o «sciroppo di fruttosio-glucosio», e «sciroppo disidratato di glucosio-fruttosio» o «sciroppo disidratato di fruttosio-glucosio» a seconda che prevalga la componente glucosio o fruttosio.
 
 Le denominazioni di vendita indicate all'allegato I sono riservate ai prodotti definiti nel medesimo allegato e sono utilizzate nel commercio per designare i prodotti stessi. La denominazione di cui al punto 2 dell'allegato I puo' essere anche utilizzata per designare il prodotto di cui al punto 3 del medesimo allegato.
 

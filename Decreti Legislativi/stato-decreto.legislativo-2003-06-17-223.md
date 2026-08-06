@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
 vigenza_date: 2021-03-26
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:31Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -32,9 +32,87 @@ Il presente decreto legislativo fissa i principi relativi all'organizzazione dei
 
 ## Art. 2. — Definizioni
 
+1.
+                        
+                            
+                                Ai fini del presente decreto s'intende per:
+ 
+                            
+                            
+                                a)
+                                
+                                    «controllo ufficiale nel settore dell'alimentazione animale», di seguito denominato «controllo», le attivita' svolte dalle autorita' competenti per verificare il rispetto delle disposizioni normative di cui alla legge 15 febbraio 1963, n. 281, e successive modificazioni; al decreto del Ministro della sanita' in data 13 novembre 1985 e successive modificazioni; all'ordinanza del Ministro della sanita' 28 luglio 1994, e successive modificazioni, alla decisione della Commissione europea 2000/766/CE, e successive modificazioni; al decreto legislativo 24 febbraio 1997, n. 45, e successive modificazioni; al decreto del Ministro della sanita' 11 maggio 1998, n. 241, e successive modificazioni, agli obblighi derivati dalle direttive 1999/29/CE e 2002/32/CE, al decreto del Presidente della Repubblica 2 novembre 2001, n. 433, alla decisione della Commissione europea 91/516/CE, e successive modifiche, nonche' le attivita' svolte dalle autorita' competenti per verificare il rispetto delle norme che saranno emanate in recepimento della normativa comunitaria in materia di alimentazione animale;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    «controllo documentale», la verifica dei documenti che devono scortare il prodotto e di qualsiasi altra informazione fornita in merito al prodotto;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    «controllo d'identita», la verifica, mediante ispezione visiva, della corrispondenza tra il prodotto e la documentazione relativa;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    «controllo fisico», il controllo del prodotto con l'eventuale prelievo di campioni ed analisi di laboratorio;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    «prodotto destinato all'alimentazione animale o prodotto»: l'alimento per animali o qualsiasi sostanza utilizzata nell'alimentazione degli animali;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    «stabilimento», qualsiasi impresa di produzione o di fabbricazione di un prodotto o che e' detentrice dello stesso in una fase intermedia prima della commercializzazione o che immette in commercio tale prodotto;
+
+                                
+                            
+                            
+                                g)
+                                
+                                    «immissione in circolazione»: la detenzione di prodotti destinati all'alimentazione animale per la vendita, ivi compresa l'offerta, o altre forme di trasferimenti a terzi, a titolo oneroso o gratuito, nonche' la vendita e le altre forme di trasferimento.
+
 Per le altre definizioni inerenti al settore dell'alimentazione animale valgono quelle previste dalla normativa specifica.
 
 ## Art. 3. — Finalita' e fasi dei controlli
+
+1.
+                        
+                            
+                                I controlli, cosi' come definiti dall'articolo 2, sono di norma effettuati senza preavviso:
+ 
+                            
+                            
+                                a)
+                                
+                                    con regolarita';
+
+                                
+                            
+                            
+                                b)
+                                
+                                    in caso di sospetto di non conformita' del prodotto, per campione ed in maniera non discriminatoria;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    commisuratamente agli obiettivi individuati nel programma di cui all'articolo 17.
 
 I controlli riguardano tutte le fasi della produzione, della fabbricazione, le fasi intermedie precedenti l'immissione in commercio, la commercializzazione inclusa l'importazione, l'utilizzazione dei prodotti ivi compresa quella delle sostanze vietate in alimentazione animale.
 
@@ -74,9 +152,75 @@ Le autorita' dei servizi fitosanitari regionali di cui all'articolo 5, comma 1, 
 
 ## Art. 10. — Articolazione dei controlli
 
+1.
+                        
+                            
+                                L'ispettorato centrale repressione frodi e le aziende sanitarie locali, per quanto di competenza, assicurano sul territorio nazionale: 
+ 
+                            
+                            
+                                a)
+                                
+                                    controlli all'origine, cioe' presso gli stabilimenti, al fine di verificare, che gli stessi operino in conformita' alla normativa vigente e che i prodotti ivi fabbricati o detenuti in una fase intermedia, o messi in commercio, rispondano ai requisiti di legge; in caso di sospetto di inosservanza ai suddetti obblighi di legge, dispongono i controlli suppletivi e, qualora il sospetto sia fondato, mettono in atto le misure restrittive ritenute piu' idonee; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    controlli a destinazione, da espletarsi per campione e in modo non discriminatorio: 
+ 1) nei luoghi di destinazione finale, siano essi magazzini di stoccaggio, esercizi di vendita all'ingrosso o al minuto, stabilimenti produttivi che utilizzano materie prime o altre sostanze da impiegarsi in alimentazione animale, al fine di verificare, mediante controlli a campione ed eventualmente con prelevamento ed analisi di laboratorio, la conformita' dei prodotti alle specifiche disposizioni normative in materia; 
+ 2) durante il trasporto dei prodotti sul territorio nazionale, sia che lo stesso sia considerato territorio di transito che di destinazione finale; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    controlli sui luoghi di produzione agricola, in cui sono fabbricati o utilizzati i prodotti, per procedere a controlli mirati volti ad acquisire ogni utile informazione circa la natura e l'origine dei prodotti stessi.
+
 Gli assessorati alla sanita' delle regioni e delle province autonome assicurano il necessario coordinamento delle attivita' di competenza regionale.
 
 Nel caso dei controlli disposti nel luogo di cui al comma 1, lettera b), qualora sia constatata la non conformita' dei prodotti alle disposizioni normative disciplinanti le specifiche materie, le aziende sanitarie locali segnalano all'ufficio veterinario per gli adempimenti comunitari territorialmente competenti tali difformita'.
+
+4.
+                        
+                            
+                                L'ispettorato centrale repressione frodi e le aziende sanitarie locali adottano le misure piu' adeguate al caso, imponendo al destinatario o ad altra figura commerciale autorizzata, sulla base degli accertamenti svolti dagli organismi competenti, una delle seguenti operazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    adeguamento dei prodotti alle specifiche disposizioni di legge entro un termine stabilito; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    eventuale neutralizzazione della nocivita'; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    utilizzazione per altri fini; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    rinvio nel Paese d'origine, previa informazione alla autorita' competente dello Stato membro dove ha sede lo stabilimento d'origine; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    distruzione dei prodotti.
 
 ((COMMA ABROGATO DAL D.LGS. 2 FEBBRAIO 2021, N. 27)).
 
@@ -104,6 +248,32 @@ Agli stessi obblighi di informazione di cui al comma 1 e' tenuto il personale de
 
 ## Art. 13. — Valutazione del rischio e conseguenti misure
 
+1.
+                        
+                            
+                                Nel caso in cui le autorita' sanitarie territorialmente competenti dispongono di informazioni che indicano, sulla scorta degli elementi disponibili di valutazione dei rischi, che una partita di prodotti destinati all'alimentazione animale presenta un rischio grave per la salute umana, la salute degli animali o l'ambiente, verificano le informazioni ricevute e, se del caso, prendono le misure necessarie a garantire che la partita non venga utilizzata.
+Esse, in particolare, assoggettano la partita a vincolo sanitario e provvedono:
+ 
+                            
+                            
+                                a)
+                                
+                                    ad accertare la natura del pericolo e, se necessario, il livello delle sostanze indesiderabili;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    a verificare la probabile origine delle sostanze indesiderabili o del pericolo, per precisare la valutazione dei rischi;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    nel caso di rischio per l'ambiente, ad informare le autorita' ambientali competenti per territorio.
+
 La valutazione di cui al comma 1 puo' essere estesa ad altre partite dello stesso prodotto o ad altri prodotti della catena alimentare, che possono contenere sostanze indesiderabili, prendendo in considerazione l'eventuale aggiunta di sostanze indesiderabili in altri prodotti destinati all'alimentazione animale e l'eventuale riciclaggio di prodotti pericolosi nella catena dell'alimentazione animale.
 
 Se l'esistenza di un rischio grave e' confermata sulla base di quanto stabilito ai commi 1 e 2, le autorita' competenti pongono in essere tutte le misure idonee a garantire che la destinazione finale della partita contenente sostanze indesiderabili, ivi inclusi l'eventuale decontaminazione o altre operazioni di neutralizzazione della nocivita', ritrattamento o distruzione, non possa avere effetti nocivi per la salute umana o la salute degli animali o per l'ambiente; in tale caso, si applica il comma 5 dell'articolo 10.
@@ -128,6 +298,31 @@ Fatte salve le disposizioni dell'articolo 11, le autorita' nazionali competenti,
 
 ## Art. 16. — Disposizioni in caso di controllo analitico
 
+1.
+                        
+                            
+                                Nel caso in cui si proceda al campionamento dei prodotti per la successiva analisi, e' necessario attenersi a quanto disposto dalla normativa vigente in materia di campionamento e metodiche analitiche ufficiali. In particolare:
+ 
+                            
+                            
+                                a)
+                                
+                                    il campionamento dei prodotti di cui al comma 1 per la successiva analisi e' effettuato con le modalita' previste dal decreto del Ministro dell'agricoltura e delle foreste in data 20 aprile 1978, pubblicato nella Gazzetta Ufficiale n. 165 del 15 giugno 1978;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    gli accertamenti analitici sono effettuati in conformita' a quanto previsto dalle metodiche comunitarie di riferimento;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    in assenza di metodi di analisi di riferimento comunitari, gli accertamenti analitici possono essere espletati adottando norme internazionali e nazionali scientificamente riconosciute.
+
 Gli accertamenti analitici sono espletati dai laboratori dell'ispettorato centrale repressione frodi, dai laboratori degli istituti zooprofilattici sperimentali, da altri laboratori pubblici operanti per il servizio sanitario nazionale, dai laboratori chimici dell'Agenzia delle dogane, ciascuno per quanto di propria competenza.
 
 Al controllo analitico si applicano le disposizioni di cui alla legge 24 novembre 1981, n. 689.
@@ -141,6 +336,38 @@ Le modalita' ed i criteri uniformi da adottare per il programma coordinato di co
 Ferme restando le specifiche competenze delle amministrazioni preposte ai controlli e l'obbligo d'informazione reciproca, il Ministero della salute costituisce l'organo di collegamento fra le amministrazioni interessate e la Commissione europea.
 
 Anteriormente al 1° aprile di ogni anno, il Ministro della salute trasmette alla Commissione europea una relazione dettagliata sui risultati conseguiti dal programma di cui all'articolo 17 predisposta dalle amministrazioni addette al controllo. Di tale relazione sono informate le amministrazioni partecipanti al programma di controllo.
+
+3.
+                        
+                            
+                                Nella relazione dovranno essere specificati:
+ 
+                            
+                            
+                                a)
+                                
+                                    criteri di elaborazione del programma;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    numero e natura dei controlli effettuati;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    risultati dei controlli, con particolare riferimento al numero e alla natura delle infrazioni accertate;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    azioni intraprese in caso di accertamento di infrazioni.
 
 ## Art. 19. — Disposizioni finali
 

@@ -7,8 +7,8 @@ urn: urn:nir:istruzione.merito.ministero:decreto:2024-06-12;109
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:40Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -30,11 +30,149 @@ Udito il parere del Consiglio di Stato, espresso dalla sezione consultiva per gl
 
 ## Art. 1. — Definizioni e oggetto
 
+1.
+                    
+                        
+                            Ai sensi del presente regolamento si intendono: 
+ 
+                        
+                        
+                            a)
+                            
+                                per bandi o bando: ciascun bando di concorso adottato in attuazione del presente regolamento; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                per Comitato tecnico-scientifico: il comitato tecnico scientifico di cui all'articolo 11; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                per dirigenti tecnici o dirigente tecnico: i dirigenti tecnici con funzioni ispettive di cui all'articolo 419 del decreto legislativo 16 aprile 1994, n. 297; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                per dirigente generale dell'amministrazione centrale del Ministero: il dirigente generale del Ministero dell'istruzione e del merito preposto alla direzione generale competente per il reclutamento dei dirigenti tecnici con funzioni ispettive; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                per direzione generale dell'amministrazione centrale del Ministero: la direzione generale del Ministero dell'istruzione e del merito nelle cui competenze e' previsto il reclutamento dei dirigenti tecnici con funzioni ispettive; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                per docente: il personale docente ivi inclusi gli insegnanti tecnico-pratici e gli insegnanti di religione cattolica; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                per d.P.R.: il decreto del Presidente della Repubblica 9 maggio 1994, n. 487; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                per Ministero: il Ministero dell'istruzione e del merito; 
+
+                            
+                        
+                        
+                            i)
+                            
+                                per Testo unico: il testo unico delle disposizioni legislative vigenti in materia di istruzione, relative alle scuole di ogni ordine e grado, adottato con decreto legislativo 16 aprile 1994, n. 297; 
+
+                            
+                        
+                        
+                            l)
+                            
+                                per Testo unico del pubblico impiego: il decreto legislativo 30 marzo 2001, n. 165; 
+
+                            
+                        
+                        
+                            m)
+                            
+                                per USR: l'ufficio scolastico regionale o gli uffici scolastici regionali.
+
 Il presente regolamento e' adottato in attuazione dell'articolo 420, comma 7, del Testo unico e detta disposizioni concernenti i concorsi per titoli ed esami per l'assunzione a tempo indeterminato di dirigenti tecnici nel ruolo di cui all'articolo 419 del Testo unico.
 
 L'assunzione a tempo indeterminato dei dirigenti tecnici si realizza mediante concorsi per titoli ed esami indetti con bando nazionale con cadenza biennale, nei limiti dei posti vacanti e disponibili.
 
 ## Art. 2. — Requisiti di ammissione
+
+1.
+                    
+                        
+                            Ai sensi dell'articolo 420, comma 2, del Testo unico, sono ammessi a partecipare alle procedure di cui al presente regolamento i seguenti soggetti assunti con contratto a tempo indeterminato: 
+ 
+                        
+                        
+                            a)
+                            
+                                i dirigenti scolastici delle istituzioni scolastiche ed educative statali; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                il personale docente ed educativo delle istituzioni scolastiche ed educative statali che abbia superato il periodo di prova e che abbia maturato un'anzianita' complessiva nel profilo di appartenenza o anche nei diversi profili indicati nel presente comma, di almeno dieci anni.
+
+2.
+                    
+                        
+                            Ai sensi dell'articolo 420, comma 2-bis, del Testo unico, per l'ammissione ai concorsi, i soggetti di cui al comma 1 devono essere in possesso di uno tra i seguenti titoli di studio: 
+ 
+                        
+                        
+                            a)
+                            
+                                laurea magistrale; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                laurea specialistica; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                diploma di laurea conseguito secondo gli ordinamenti didattici previgenti al decreto del Ministro dell'universita' e della ricerca scientifica e tecnologica 3 novembre 1999, n. 509, pubblicato nella Gazzetta Ufficiale della Repubblica italiana n. 2 del 4 gennaio 2000; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                diploma accademico di secondo livello rilasciato dalle istituzioni dell'alta formazione artistica, musicale e coreutica; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                diploma accademico di vecchio ordinamento congiunto con diploma di istituto secondario superiore.
 
 I titoli di studio di cui al comma 2 conseguiti all'estero sono considerati validi per l'ammissione al concorso se dichiarati equipollenti o equivalenti a titoli universitari italiani secondo la normativa vigente.
 
@@ -63,6 +201,94 @@ Fermi restando gli articoli 421 e 423 del Testo unico, il competente dirigente g
 Ai sensi dell'articolo 420, comma 6, del Testo unico, sono messi a concorso con cadenza biennale i posti da dirigente tecnico presso l'Amministrazione centrale e periferica del Ministero, nei limiti dei posti vacanti e disponibili.
 
 ## Art. 4. — Bando di concorso
+
+1.
+                    
+                        
+                            Il bando nazionale, adottato dal competente dirigente generale dell'amministrazione centrale del Ministero secondo le disposizioni di cui agli articoli 420 e seguenti del Testo unico, definisce le modalita' attuative e integrative delle disposizioni di cui al presente regolamento e indica, tra l'altro: 
+ 
+                        
+                        
+                            a)
+                            
+                                i requisiti generali di ammissione al concorso, in conformita' all'articolo 2; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                il contingente di posti messi a bando, tenuto conto di quanto previsto dall'articolo 17; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                il termine, il contenuto e le modalita' di presentazione delle istanze di partecipazione al concorso; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                la definizione della eventuale quota di riserva nei limiti di cui all'articolo 420, comma 7-bis, del Testo unico tenuto conto di quanto previsto dall'articolo 14 del presente regolamento; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                l'indicazione e la priorita' degli eventuali ulteriori titoli di cui all'articolo 3, comma 2, lettera d), del d.P.R.; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                le modalita' di versamento del diritto di segreteria posto a carico dei candidati in misura pari a 100,00 euro a parziale copertura delle spese della procedura concorsuale; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                le modalita' di svolgimento dell'eventuale prova preselettiva, ai sensi dell'articolo 6; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                le modalita' di svolgimento delle prove concorsuali di cui agli articoli 7, 8 e 9, assicurando la pubblicita' della prova orale; 
+
+                            
+                        
+                        
+                            i)
+                            
+                                la modalita' di dichiarazione dei titoli di cui all'allegato D) al presente regolamento; 
+
+                            
+                        
+                        
+                            l)
+                            
+                                le modalita' di informazione ai candidati ammessi alla procedura concorsuale e al prosieguo della medesima, fermo restando quanto previsto all'articolo 19 del presente regolamento; 
+
+                            
+                        
+                        
+                            m)
+                            
+                                i documenti richiesti per l'assunzione; 
+
+                            
+                        
+                        
+                            n)
+                            
+                                l'informativa sul trattamento dei dati personali.
 
 Ai sensi dell'articolo 3, comma 1, del d.P.R., il bando e' pubblicato nel Portale Unico del Reclutamento di cui all'articolo 35-ter del Testo unico del pubblico impiego.
 
@@ -105,6 +331,54 @@ L'elenco dei candidati ammessi a sostenere la prova scritta e' pubblicato sul si
 
 Le prove d'esame consistono nelle prove scritte di cui all'articolo 8 e nella prova orale di cui all'articolo 9.
 
+2.
+                    
+                        
+                            Le prove di esame sono volte ad accertare le conoscenze del candidato negli ambiti e nelle materie di cui agli Allegati B) e C) al presente regolamento e le capacita' e le attitudini con riferimento alle seguenti competenze: 
+ 
+                        
+                        
+                            a)
+                            
+                                competenze in ambito educativo, pedagogico e didattico: 1) attivare strategie di confronto e coordinamento con le istituzioni scolastiche ed educative e con soggetti pubblici e privati presenti sul territorio; 2) prendere in carico le fragilita' sia per realizzare una scuola inclusiva sia per ridurre i divari sociali, culturali ed economici; 3) indicare strategie di intervento e attivare processi mirati di monitoraggio, innovazione, sperimentazione; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                competenze finalizzate al sostegno, alla progettazione e al supporto dei processi formativi: 1) partecipare alle attivita' valutative e formative nel corso dell'anno di formazione e prova dei dirigenti scolastici e del personale docente ed educativo neoassunti;
+2) concorrere allo sviluppo delle professionalita' della scuola a livello amministrativo, giuridico e culturale, anche fornendo assistenza tecnica; 3) concorrere alla definizione e alla realizzazione di attivita' formative per il personale scolastico; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                competenze finalizzate a supportare il processo di valutazione e di autovalutazione delle istituzioni scolastiche: 1) realizzare attivita' di valutazione delle istituzioni scolastiche ed educative e del sistema scolastico nel suo complesso e dei dirigenti scolastici, anche in prospettiva internazionale; 2) riconoscere eventuali problemi di gestione delle attivita' educative e didattiche ed acquisire consapevolezza circa le possibili strategie di intervento; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                competenze - sotto il profilo tecnico-scientifico - nelle attivita' di analisi, studio, ricerca sui processi educativi e didattici nazionali e internazionali a supporto dell'Amministrazione:
+1) formulare proposte per la realizzazione di percorsi di ricerca e formazione, finalizzati anche all'innovazione ordinamentale e didattico-metodologica; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                competenze nell'ambito degli accertamenti ispettivi, con particolare riferimento agli aspetti educativi, didattici, organizzativi, contabili e amministrativi, anche nell'ambito del monitoraggio, del controllo e della verifica della permanenza dei requisiti previsti per il funzionamento delle istituzioni scolastiche paritarie e delle scuole non statali non paritarie: 1) individuare i problemi, anche complessi, analizzando, in modo critico e ampio, i dati e le informazioni per focalizzare le questioni piu' rilevanti e identificare e proporre soluzioni efficaci; 2) valutare e riconoscere gli elementi controversi di una questione e gli aspetti potenzialmente critici, combinando il rispetto dei vincoli con la finalizzazione della decisione; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                competenze nell'ambito relazionale: gestire reti di relazioni complesse, comunicando efficacemente con i diversi interlocutori, anche al fine di valorizzare in maniera proattiva i processi di cambiamento.
+
 ## Art. 8. — Disciplina delle prove scritte
 
 La prima prova scritta, la cui durata e' stabilita dal bando, consiste in sette quesiti a risposta aperta, ed e' volta ad accertare la preparazione culturale dei candidati sulle materie e nelle modalita' indicate nell'allegato B) al presente regolamento.
@@ -132,17 +406,127 @@ Le modalita' di svolgimento e le materie oggetto della prova orale di cui ai com
 
 Nel corso della prova orale e' altresi' somministrato un quesito di tipo situazionale volto a valutare le competenze di cui all'articolo 7, comma 2, come indicato nell'allegato C) al presente regolamento.
 
+5.
+                    
+                        
+                            Nel corso della prova orale sono accertati inoltre, come indicato nell'allegato C): 
+ 
+                        
+                        
+                            a)
+                            
+                                il livello di conoscenza della lingua inglese al livello B2 del Quadro comune europeo di riferimento; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                il livello di conoscenza delle tecnologie informatiche e delle competenze digitali nonche' le capacita' di utilizzo degli strumenti informatici di piu' comune impiego.
+
+6.
+                    
+                        
+                            La commissione esaminatrice e le sottocommissioni, ove nominate, predispongono autonomamente, ai fini dello svolgimento della prova orale da parte di ciascun candidato, una batteria di quesiti, anche contenuti in un unico documento, secondo quanto previsto nell'allegato C) al presente regolamento, ossia: 
+ 
+                        
+                        
+                            a)
+                            
+                                i sette quesiti da definire all'interno degli ambiti descritti nell'allegato C); 
+
+                            
+                        
+                        
+                            b)
+                            
+                                il quesito di cui al comma 4; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                l'accertamento di cui al comma 5, lettera a); 
+
+                            
+                        
+                        
+                            d)
+                            
+                                l'accertamento di cui al comma 5, lettera b).
+
 Nella definizione dei quesiti di cui ai commi 3 e 4 e degli accertamenti di cui al comma 5, la commissione esaminatrice e le sottocommissioni, ove nominate, assicurano il medesimo grado di selettivita' della prova, secondo le modalita' indicate nell'allegato C). I quesiti sono predisposti in conformita' a quanto stabilito dall'articolo 12 del d.P.R.
 
 La prova orale e' superata dai candidati che conseguono il punteggio minimo previsto dall'articolo 10, comma 6. Fermo restando quanto previsto dalla normativa vigente e, in particolare, dall'articolo 7, comma 7, del d.P.R., la mancata presentazione alla prova orale comporta l'esclusione dal concorso.
 
 ## Art. 10. — Valutazione delle prove e dei titoli
 
+1.
+                    
+                        
+                            Ai sensi dell'articolo 422, comma 1, del Testo unico, la commissione esaminatrice e le sottocommissioni, ove nominate, fermo restando quanto previsto al periodo successivo, dispongono di 210 punti, di cui: 
+                        
+                        
+                            a)
+                            
+                                70 punti per la prima prova scritta;
+                            
+                        
+                        
+                            b)
+                            
+                                70 punti per la seconda prova scritta;
+                            
+                        
+                        
+                            c)
+                            
+                                60 punti per la prova orale;
+                            
+                        
+                        
+                            d)
+                            
+                                10 punti per i titoli. I titoli sono valutati, di norma, dalla commissione esaminatrice originaria, ferma restando la possibilita' di attribuire tale valutazione anche alle sottocommissioni, ove nominate.
+
 La commissione esaminatrice, nonche', ove nominate, le sottocommissioni attribuiscono a ciascuna risposta ai sette quesiti della prima prova scritta un punteggio compreso tra 0 e 10 punti. Il punteggio complessivo della prima prova scritta e' dato dalla somma dei punteggi ottenuti in relazione alle risposte a ciascuno dei sette quesiti. I candidati che ottengono un punteggio complessivo pari o superiore a 49 punti superano la prima prova scritta.
 
 Alla seconda prova scritta la commissione esaminatrice nonche', ove nominate, le sottocommissioni attribuiscono un punteggio compreso tra 0 punti e 70 punti. I candidati che ottengono un punteggio pari o superiore a 49 punti superano la seconda prova scritta.
 
 I candidati che superano le prove scritte ai sensi dei commi 2 e 3 sono ammessi alla prova orale.
+
+5.
+                    
+                        
+                            Nell'ambito della prova orale la commissione esaminatrice nonche' le sottocommissioni, ove nominate, attribuiscono il punteggio nel limite massimo di 60 punti, nel seguente modo: 
+ 
+                        
+                        
+                            a)
+                            
+                                da un minimo di 0 punti a un massimo di 7 punti per ciascuno dei quesiti di cui all'articolo 9, comma 6, lettera a); 
+
+                            
+                        
+                        
+                            b)
+                            
+                                da un minimo di 0 punti a un massimo di 5 punti per il quesito di cui all'articolo 9, comma 6, lettera b); 
+
+                            
+                        
+                        
+                            c)
+                            
+                                da un minimo di 0 punti a un massimo di 4 punti per l'accertamento di cui all'articolo 9, comma 6, lettera c); 
+
+                            
+                        
+                        
+                            d)
+                            
+                                da un minimo di 0 punti a un massimo di 2 punti per l'accertamento di cui all'articolo 9, comma 6, lettera d).
 
 Il punteggio complessivo della prova orale e' dato dalla somma dei singoli punteggi ottenuti ai sensi del comma 5. I candidati che ottengono un punteggio complessivo pari o superiore a 42 punti superano la prova orale.
 
@@ -155,6 +539,24 @@ Ai sensi dell'articolo 423, comma 2, del Testo unico, il punteggio finale ai fin
 ## Art. 11. — Predisposizione della prova preselettiva 
  e delle prove scritte e orali
 
+1.
+                    
+                        
+                            La predisposizione dei quesiti della prova preselettiva avviene in uno dei seguenti modi: 
+ 
+                        
+                        
+                            a)
+                            
+                                il Ministero puo' demandare a soggetti esterni, sulla base delle risorse disponibili, la predisposizione dei quesiti da cui si estraggono a sorte quelli da somministrare il giorno o i giorni di svolgimento della prova preselettiva; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                predisposizione dei quesiti da parte di un Comitato tecnico-scientifico, nominato per ogni tornata concorsuale dal competente dirigente generale dell'amministrazione centrale del Ministero con proprio decreto. I componenti del Comitato tecnico-scientifico sono scelti tra i dirigenti di ruolo del Ministero nonche' tra altre professionalita' individuate nel predetto decreto anche nell'ambito delle categorie di cui all'articolo 12, comma 1, lettere a) e b). Al Comitato tecnico-scientifico sono eventualmente aggregati componenti esperti per la definizione dei quesiti di cui all'allegato A) del presente regolamento. Al tal fine, il Comitato tecnico-scientifico predispone i quesiti, nel numero definito dal predetto decreto del dirigente generale o anche con atti successivi, da cui si estraggono a sorte i quesiti da somministrare il giorno o i giorni dello svolgimento della prova preselettiva.
+
 Il bando definisce l'eventuale modalita' di validazione dei quesiti della prova preselettiva nel caso in cui questi siano stati predisposti ai sensi del comma 1, lettera a), e puo' attribuire tale funzione di validazione alla commissione esaminatrice unitamente alle sottocommissioni, ove nominate, ovvero al Comitato tecnico-scientifico.
 
 Ai componenti del Comitato tecnico-scientifico e ai relativi membri aggregati non spettano compensi, indennita', emolumenti o gettoni di presenza, comunque denominati, ad eccezione dei rimborsi spese, ove spettanti in base alla normativa vigente in materia di trattamento di missione.
@@ -166,6 +568,24 @@ Ai sensi dell'articolo 12, comma 1, secondo periodo, del d.P.R., i quesiti e gli
 ## Art. 12.
 
 Disciplina per l'individuazione, la nomina e la composizione della commissione esaminatrice nonche' dei Comitati di vigilanza
+
+1.
+                    
+                        
+                            Ai sensi dell'articolo 421, comma 1, del Testo unico, la commissione esaminatrice e' nominata con decreto del competente dirigente generale dell'amministrazione centrale del Ministero e si compone nel seguente modo: 
+ 
+                        
+                        
+                            a)
+                            
+                                tre membri scelti tra i dirigenti appartenenti ai ruoli del Ministero che ricoprano o abbiano ricoperto un incarico di funzioni dirigenziali generali ovvero tra i professori di prima e di seconda fascia di universita' statali e non statali, i magistrati amministrativi, i magistrati ordinari, i magistrati contabili, gli avvocati dello Stato, i prefetti; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                due membri scelti fra i dirigenti non generali dell'area della contrattazione delle funzioni centrali appartenenti ai ruoli del Ministero.
 
 Salvo i casi di motivata impossibilita', e' garantito l'equilibrio di genere, evitando che i membri delle commissioni e delle sottocommissioni siano per piu' di due terzi dello stesso genere.
 
@@ -199,6 +619,73 @@ Ai membri della commissione esaminatrice e delle sottocommissioni ivi inclusi i 
 Gli eventuali referenti d'aula nel caso di svolgimento delle prove mediante procedure informatizzate, sono nominati dalla competente direzione generale dell'amministrazione centrale del Ministero ovvero dagli USR fra il personale scolastico ovvero fra il personale dell'area di contrattazione e del comparto funzioni centrali; i relativi oneri sono definiti nell'ambito di quelli previsti per le procedure concorsuali del personale della scuola.
 
 ## Art. 13. — Condizioni personali ostative all'incarico di presidente, membro della commissione esaminatrice e delle sottocommissioni, membro aggregato e di componente del Comitato tecnico-scientifico
+
+1.
+                    
+                        
+                            Sono condizioni ostative all'incarico di presidente, membro, membro aggregato e segretario della commissione esaminatrice e delle sottocommissioni del concorso nonche' all'incarico di componente del Comitato tecnico-scientifico: 
+ 
+                        
+                        
+                            a)
+                            
+                                avere riportato condanne penali o avere in corso procedimenti penali per i quali sia stata formalmente iniziata l'azione penale; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                avere in corso procedimenti disciplinari ai sensi delle norme disciplinari dei rispettivi ordinamenti; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                essere incorsi nelle sanzioni disciplinari previste nei rispettivi ordinamenti; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                essere stati collocati in quiescenza da piu' di quattro anni dalla data di pubblicazione del bando ai sensi dell'articolo 12; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                a partire dall'anno antecedente alla data del bando, essere componenti dell'organo di direzione politica dell'amministrazione, ricoprire cariche politiche o elettive parlamentari, regionali o negli Enti locali o l'incarico di sindaco o di assessore, essere rappresentanti sindacali, anche presso le Rappresentanze sindacali unitarie, essere designati dalle confederazioni ed organizzazioni sindacali o dalle associazioni professionali; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                avere relazioni di parentela, affinita' entro il quarto grado o abituale convivenza con uno o piu' concorrenti; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                aver organizzato, gestito o diretto, a partire dai tre anni antecedenti alla data del bando, corsi aventi l'esclusiva finalita' di preparazione ai concorsi per l'assunzione a tempo indeterminato di dirigenti tecnici; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                aver partecipato a partire dai tre anni antecedenti alla data del bando ai corsi di cui alla lettera g) in qualita' di docente o formatore; 
+
+                            
+                        
+                        
+                            i)
+                            
+                                essere stati destituiti o licenziati dall'impiego per motivi disciplinari, per ragioni di salute o per decadenza dall'impiego comunque determinata.
 
 ## Art. 14. — Riserva di posti
 
@@ -242,7 +729,73 @@ Il concorso di cui al comma 1 e' indetto e organizzato a livello regionale e il 
 
 Il dirigente generale di cui al comma 3, per lo svolgimento dei concorsi di cui al comma 1, espleta le funzioni rimesse dal presente regolamento al dirigente generale dell'amministrazione centrale del Ministero, fatta eccezione per quelle relative allo svolgimento delle funzioni propedeutiche e correlate alla sottoscrizione del contratto individuale di lavoro a tempo indeterminato da parte dei soggetti da assumere, che permangono nella titolarita' della competente direzione generale dell'amministrazione centrale del Ministero nonche' per quelle di cui all'articolo 2, comma 11.
 
+5.
+                    
+                        
+                            Al fine di salvaguardare la specificita' delle istituzioni scolastiche ed educative di cui al comma 1, il concorso prevede la formulazione e lo svolgimento in lingua slovena di parte dell'eventuale prova preselettiva nonche' di parte delle prove scritte e di parte della prova orale, fermo restando quanto previsto al comma 6 con riferimento alla determinazione degli eventuali adeguamenti delle materie e dei gruppi di materie, nel seguente modo: 
+ 
+                        
+                        
+                            a)
+                            
+                                nell'eventuale prova preselettiva, quindici quesiti, scelti fra le materie e le tipologie di quesito individuate dalla lettera a) alla lettera i) dell'allegato A) al presente regolamento, sono formulati e svolti in lingua slovena; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                sono formulati e svolti esclusivamente in lingua slovena, altresi': 1) uno dei quesiti della prima prova scritta di cui all'allegato B) del presente regolamento, individuato dal bando o dalla commissione esaminatrice unitamente alle sottocommissioni, ove nominate; 2) la seconda prova scritta di cui all'articolo 8, comma 2;
+3) due dei quesiti della prova orale scelti fra quelli indicati nei numeri 1) e 2) dell'allegato C) al presente regolamento, individuati dal bando ovvero dalla commissione esaminatrice o dalle sottocommissioni, ove nominate; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                durante lo svolgimento delle prove scritte di cui alla lettera b) del presente comma, e' consentito l'uso dei dizionari sloveno-italiano e italiano-sloveno, fatto salvo quanto previsto dall'articolo 8, comma 6.
+
 Il bando di cui al presente articolo stabilisce le modalita' di svolgimento del concorso, definisce quanto previsto al comma 5, lettere a) e b), puo' adeguare le materie della prova preselettiva e delle prove scritte nonche' delle prove orali agli eventuali argomenti afferenti alle Istituzioni scolastiche ed educative di cui al comma 1 e determina altresi', ove possibile, le sedi di svolgimento delle prove nonche' ogni altra questione rimessa dal presente regolamento al bando nazionale.
+
+7.
+                    
+                        
+                            In considerazione della peculiarita' della lingua di svolgimento delle prove nonche' della tipologia di selezione necessaria per l'assunzione dei dirigenti tecnici di cui al comma 1: 
+ 
+                        
+                        
+                            a)
+                            
+                                le modalita' di formulazione dei quesiti della eventuale prova preselettiva possono essere disciplinate dal competente dirigente generale di cui al comma 3 anche in deroga alla procedura definita ai sensi dell'articolo 11, commi 1, 2 e 3, assegnando la formulazione dei quesiti della prova preselettiva anche alla commissione esaminatrice, unitamente alle sottocommissioni, ove nominate.
+L'assegnazione della formulazione dei quesiti alla commissione esaminatrice comporta l'assenza della fase della convalida dei quesiti medesimi; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                la prova preselettiva e le singole prove scritte possono essere svolte anche senza l'ausilio di dispositivi informatici; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                la soglia dei candidati disciplinata ai sensi dell'articolo 6, commi 1 e 10, e' individuata dal bando di cui al comma 3, anche in deroga alle disposizioni di cui al presente regolamento; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                fermo restando quanto previsto all'articolo 12, la commissione esaminatrice e le sottocommissioni, ove nominate, possono essere integrate ciascuna, in tutte le fasi concorsuali ivi compresa la fase della prova preselettiva, da membri aggregati esperti in lingua slovena anche ai fini del solo supporto linguistico alla predetta commissione. I membri aggregati partecipano ai lavori della Commissione esaminatrice e delle sottocommissioni, ove nominate, nelle fasi della definizione, dello svolgimento e della valutazione delle prove relative alla loro competenza nonche' alle eventuali sedute plenarie preparatorie di cui al presente regolamento, per la parte di competenza; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                il concorso di cui al presente articolo puo' essere indetto anche in periodi diversi rispetto al concorso nazionale e puo' svolgersi, in tutte le sue fasi, in momenti e periodi non coincidenti rispetto al predetto concorso nazionale.
 
 ## Art. 18. — Disposizioni particolari per la Regione Autonoma della Valle d'Aosta e per le Province Autonome di Trento e Bolzano
 
@@ -251,6 +804,35 @@ Sono fatte salve le potesta' attribuite in materia alla Regione Autonoma della V
 ## Art. 19. — Disposizioni finali e transitorie
 
 Fermo restando quanto previsto all'articolo 13, comma 1, lettera d), i membri di cui all'articolo 12, commi 5, 6, 7, 8 e 9 delle commissioni esaminatrici e delle sottocommissioni nonche' i componenti di cui all'articolo 11, comma 1, lettera b), ivi inclusi quelli nominati nell'ambito della procedura disciplinata ai sensi dell'articolo 17, possono essere nominati anche fra i soggetti che siano appartenuti ai ruoli dell'ex Ministero dell'istruzione, dell'universita' e della ricerca ovvero dell'ex Ministero dell'istruzione.
+
+2.
+                    
+                        
+                            Le disposizioni di cui all'articolo 2, comma 4, fermo restando il possesso dei requisiti di partecipazione al concorso di cui al presente regolamento, si applicano anche: 
+                        
+                        
+                            a)
+                            
+                                al personale educativo nonche' agli insegnanti tecnico-pratici e agli insegnanti di religione cattolica, assunti nei ruoli della scuola statale con contratto di lavoro a tempo indeterminato e confermati in ruolo;
+                            
+                        
+                        
+                            b)
+                            
+                                al personale docente ed educativo delle scuole dipendenti dalla Regione Autonoma della Valle D'Aosta assunto con contratto di lavoro a tempo indeterminato, confermato in ruolo secondo le specifiche disposizioni applicabili;
+                            
+                        
+                        
+                            c)
+                            
+                                al personale docente ed educativo delle scuole a carattere statale della Provincia Autonoma di Trento assunto con contratto di lavoro a tempo indeterminato, confermato in ruolo secondo le specifiche disposizioni applicabili;
+                            
+                        
+                        
+                            d)
+                            
+                                al personale docente delle scuole a carattere statale della Provincia Autonoma di Bolzano assunto con contratto di lavoro a tempo indeterminato, confermato in ruolo secondo le specifiche disposizioni applicabili. I dirigenti scolastici delle scuole di cui alle lettere b), c) e d), del periodo precedente, devono possedere i requisiti di partecipazione al concorso ivi inclusa l'assunzione con contratto di lavoro a tempo indeterminato. Tenuto conto, ove applicabile, di quanto previsto al primo periodo, lettera a) del presente comma, ai fini di cui all'articolo 2, comma 1, lettera b), e fermo restando quanto previsto al predetto articolo 2, commi 4 e 5, e' altresi' valido il servizio di insegnamento prestato in ciascun anno scolastico presso le scuole dipendenti dalla Regione Autonoma della Valle D'Aosta e presso le scuole a carattere statale della Provincia Autonoma di Trento e della Provincia Autonoma di Bolzano. Le disposizioni di cui all'articolo 2, comma 6, si applicano anche al personale docente ed educativo di cui al primo periodo del presente comma, lettere b), c) e d), purche' la conferma nei ruoli secondo le specifiche disposizioni applicabili sia avvenuta esclusivamente con riferimento ai profili professionali citati nel predetto periodo a seguito di assunzione con contratto di lavoro a tempo indeterminato.
+Le disposizioni di cui all'articolo 2, comma 6, si applicano, altresi', al personale docente ed educativo, in possesso dei requisiti di partecipazione al concorso previsti dal presente regolamento, assunto nei ruoli della scuola statale che sia stato precedentemente confermato in ruolo in uno dei profili professionali citati nel primo periodo del presente comma, lettere b), c) e d), nelle scuole dipendenti dalla Regione e a carattere statale di cui al presente comma, secondo le specifiche disposizioni applicabili.
 
 Ai fini della definizione della graduatoria di merito di cui all'articolo 15, la valutazione del titolo relativo al lodevole servizio prestato per almeno un anno presso l'Amministrazione che ha indetto il concorso ai sensi dell'articolo 5, comma 4, lettera d), del d.P.R. avviene nell'ambito del servizio effettivamente reso sia presso gli Uffici dell'amministrazione centrale e periferica del Ministero dell'istruzione e del merito ovvero dell'ex Ministero dell'istruzione ovvero dell'ex Ministero dell'istruzione, dell'universita' e della ricerca ovvero dell'ex Ministero della pubblica istruzione sia presso le Istituzioni scolastiche ed educative statali, purche' sia stato svolto nell'ambito dei profili indicati all'articolo 2, comma 1, lettere a) e b), e, a tal fine, sono considerati utili anche i servizi prestati presso i predetti Uffici dell'amministrazione centrale e periferica a seguito di collocamento fuori ruolo, di comando o di altra posizione di stato giuridico ai sensi della normativa vigente. La valutazione del titolo di cui al periodo precedente avviene solo per i servizi che abbiano avuto, per almeno un anno scolastico, la durata di cui all'articolo 2, comma 4, ove prestati presso le Istituzioni scolastiche ed educative statali ovvero per almeno 180 giorni in ciascun anno scolastico ove prestati presso gli Uffici dell'amministrazione centrale e periferica come definiti al primo periodo del presente comma. I servizi prestati presso le scuole dipendenti dalla Regione e presso le scuole a carattere statale di cui al comma 2, sono considerati utili ai fini della valutazione del lodevole servizio, purche' rispondenti ai requisiti previsti dai periodi precedenti e purche' svolti esclusivamente nei profili professionali di cui al comma 2, primo periodo, lettere b), c) e d), secondo periodo.
 

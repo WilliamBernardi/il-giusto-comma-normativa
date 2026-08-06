@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
 vigenza_date: 2025-01-01
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:22Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -87,6 +87,39 @@ In caso di tardiva od omessa trasmissione delle dichiarazioni da parte dei sogge
 ## Art. 8. — (Disposizioni in materia di dichiarazioni e
  di determinazione del reddito in base alle scritture contabili)
 
+1.
+                        
+                            
+                                Al decreto del Presidente della Repubblica 29 settembre 1973, n. 600, sono apportate le seguenti modificazioni;
+ 
+                            
+                            
+                                a)
+                                
+                                    
+                                        ((LETTERA ABROGATA DAL D.P.R. 22 LUGLIO 1998, N. 322)).
+
+                                
+                            
+                            
+                                b)
+                                
+                                    nell'articolo 38, terzo comma, le parole: "e dai relativi allegati" sono soppresse;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    nell'articolo 39, secondo comma, la lettera b) e' abrogata;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    nell'articolo 65, terzo comma, concernente la proroga dei termini pendenti alla data della morte del contribuente, e' aggiunto, in fine, il seguente periodo: "I soggetti incaricati dagli eredi, ai sensi del comma 2 dell'articolo 12, devono trasmettere in via telematica la dichiarazione entro il mese di gennaio dell'anno successivo a quello in cui e' scaduto il termine prorogato.".
+
 ## Art. 9. — (Disposizioni relative a taluni adempimenti dei sostituti d'imposta)
 
 
@@ -103,9 +136,70 @@ Nel decreto del Presidente della Repubblica 29 settembre 1973, n. 605, all'artic
 
 ## Art. 11. — (Dichiarazione dell'imposta sul valore aggiunto)
 
+1.
+                        
+                            
+                                Al decreto del Presidente della Repubblica 26 ottobre 1972, n. 633, riguardante la disciplina dell'imposta sul valore aggiunto sono apportate le seguenti modificazioni:
+ 
+                            
+                            
+                                a)
+                                
+                                    l'articolo 28 e' sostituito dal seguente: "Art. 28 (Dichiarazione annuale) - 1. Tra il 1 febbraio ed il 15 marzo di ciascun anno il contribuente deve presentare la dichiarazione relativa all'imposta dovuta per l'anno solare precedente, redatta in conformita' al modello approvato con decreto del Ministro delle finanze, da pubblicare nella Gazzetta Ufficiale entro il 20 dicembre dell'anno precedente a quello in cui deve essere utilizzato. Sono esonerati dalla presentazione della dichiarazione i contribuenti che nell'anno solare precedente hanno registrato esclusivamente operazioni esenti dall'imposta di cui all'articolo 10, salvo quelli tenuti alla effettuazione della rettifica della detrazione di cui all'articolo 19-bis. I contribuenti con periodo d'imposta coincidente, agli effetti delle imposte sui redditi, con l'anno solare obbligati alla presentazione anche della dichiarazione dei redditi e di quella del sostituto d'imposta, qualora abbiano effettuato ritenute alla fonte nei riguardi di non piu' di dieci soggetti, devono presentare, entro il termine di cui all'articolo 9 del decreto del Presidente della Repubblica 29 settembre 1973, n. 600, la dichiarazione unificata annuale, redatta in conformita' all'articolo 8 dello stesso decreto.
+ 2. La dichiarazione deve indicare i dati e gli elementi necessari per l'individuazione del contribuente, per la determinazione dell'ammontare delle operazioni e dell'imposta nonche' per l'effettuazione dei controlli e gli altri elementi richiesti nel modello di dichiarazione, esclusi quelli che l'Amministrazione finanziaria e' in grado di acquisire direttamente.
+ 3. Il contribuente perde il diritto alle detrazioni non computate per i mesi di competenza ne' in sede di dichiarazione annuale.
+ 4. La dichiarazione annuale deve essere presentata anche dai contribuenti che non hanno effettuato operazioni imponibili.";
+
+                                
+                            
+                            
+                                b)
+                                
+                                    nell'articolo 30, primo comma, relativo al termine per il versamento della differenza tra l'ammontare dell'imposta e l'ammontare delle somme gia' versate mensilmente, le parole: "entro il 5 marzo di ciascun anno" sono sostituite dalle seguenti: "entro il 15 marzo di ciascun anno ovvero entro il termine previsto per il pagamento delle somme dovute in base alla dichiarazione unificata annuale, maggiorando le somme da versare degli interessi nella misura dello (( 0,40 )) per cento per ogni mese o frazione di mese successivo alla predetta data";
+
+                                
+                            
+                            
+                                c)
+                                
+                                    nell'articolo 33, primo comma, lettera b), riguardante il termine di versamento dell'imposta da parte dei contribuenti minori, le parole: "entro il 5 marzo di ciascun anno" sono sostituite dalle seguenti: "entro il 15 marzo di ciascun anno";
+
+                                
+                            
+                            
+                                d)
+                                
+                                    nell'articolo 35-bis, concernente gli obblighi degli eredi del contribuente, il primo comma e' sostituito dal seguente: "Gli obblighi derivanti, a norma del presente decreto, dalle operazioni effettuate dal contribuente deceduto possono essere adempiuti dagli eredi, ancorche' i relativi termini siano scaduti non oltre quattro mesi prima della data della morte del contribuente, entro i sei mesi da tale data.";
+
+                                
+                            
+                            
+                                e)
+                                
+                                    LETTERA ABROGATA DAL D.P.R. 22 LUGLIO 1998, N. 322.
+
 ## Art. 12. — (Decorrenza)
 
 Le disposizioni del presente capo si applicano alle dichiarazioni presentate a decorrere dal 1 gennaio 1999, salvo quanto previsto nei commi seguenti.
+
+2.
+                        
+                            
+                                La dichiarazione unificata annuale, di cui all'articolo 12 del decreto del Presidente della Repubblica 29 settembre 1973, n. 600, sostituito dall'articolo 7 del presente decreto, deve essere presentata:
+ 
+                            
+                            
+                                a)
+                                
+                                    dalle persone fisiche, ai soli fini fiscali, a decorrere dall'anno 1998;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    
+                                        ((LETTERA SOPPRESSA DAL D.P.R. 14 OTTOBRE 1999, N. 542 )).
 
 I centri autorizzati di assistenza fiscale per le imprese e per i lavoratori dipendenti e pensionati devono trasmettere le dichiarazioni in via telematica a partire dall'anno 1998, ivi comprese le dichiarazioni previste dall'articolo 78, comma 10, della legge 30 dicembre 1991, n. 413 e le scelte effettuate in occasione della presentazione delle stesse. Per gli altri soggetti di cui all'articolo 12, comma 1, terzo periodo, del decreto del Presidente della Repubblica 29 settembre 1973, n. 600, e del comma 2 del medesimo articolo 12, come sostituito dall'articolo 7 del presente decreto, l'obbligo di trasmettere le dichiarazioni in via telematica decorre dall'anno 1999.
 
@@ -148,8 +242,51 @@ Nel decreto del Presidente della Repubblica 29 settembre 1973, n. 600, riguardan
 
 ## Art. 14. — (Liquidazione dell'imposta sul valore aggiunto)
 
+1.
+                        
+                            
+                                Al decreto del Presidente della Repubblica 26 ottobre 1972, n. 633, riguardante la disciplina dell'imposta sul valore aggiunto sono apportate le seguenti modificazioni:
+ 
+                            
+                            
+                                a)
+                                
+                                    dopo l'articolo 54 e' inserito il seguente: "Art. 54-bis (Liquidazione dell'imposta dovuta in base alle dichiarazioni) - 1.
+Avvalendosi di procedure automatizzate l'amministrazione finanziaria procede, entro l'inizio del periodo di presentazione delle dichiarazioni relative all'anno successivo, alla liquidazione dell'imposta dovuta in base alle dichiarazioni presentate dai contribuenti.
+ 2. Sulla base dei dati e degli elementi direttamente desumibili dalle dichiarazioni presentate e di quelli in possesso dell'anagrafe tributaria, l'amministrazione finanziaria provvede a:
+ a) correggere gli errori materiali e di calcolo commessi dai contribuenti nella determinazione del volume d'affari e delle imposte;
+ b) correggere gli errori materiali commessi dai contribuenti nel riporto delle eccedenze di imposta risultanti dalle precedenti dichiarazioni;
+ c) controllare la rispondenza con la dichiarazione e la tempestivita' dei versamenti dell'imposta risultante dalla dichiarazione annuale a titolo di acconto e di conguaglio nonche' dalle liquidazioni periodiche di cui agli articoli 27, 33, comma 1, lettera a), e 74, quarto comma.
+ 3. Quando dai controlli automatici eseguiti emerge un risultato diverso rispetto a quello indicato nella dichiarazione, l'esito della liquidazione e' comunicato ai sensi e per gli effetti di cui al comma 6 dell'articolo 60 al contribuente, nonche' per evitare la reiterazione di errori e per consentire la regolarizzazione degli aspetti formali e la segnalazione all'amministrazione di eventuali dati ed elementi non considerati nella liquidazione.
+ 4. I dati contabili risultanti dalla liquidazione prevista dal presente articolo si considerano, a tutti gli effetti, come dichiarati dal contribuente.";
+
+                                
+                            
+                            
+                                b)
+                                
+                                    nell'articolo 55, secondo comma, riguardante il potere di procedere ad accertamento induttivo in talune ipotesi, sono soppresse le parole: "presentata e' priva di sottoscrizione e il contribuente non ha provveduto, entro trenta giorni dal ricevimento dell'invito da parte dell'ufficio dell'imposta sul valore aggiunto, alla sottoscrizione o".
+
 ## Art. 15. — (Modifica dei termini per l'accertamento
  delle imposte sui redditi)
+
+1.
+                        
+                            
+                                All'articolo 43 del decreto del Presidente della Repubblica 29 settembre 1973, n. 600, sono apportate le seguenti modificazioni:
+ 
+                            
+                            
+                                a)
+                                
+                                    al primo comma, riguardante il termine per l'accertamento delle dichiarazioni, le parole: "entro il 31 dicembre del quinto anno successivo" sono sostituite dalle seguenti: "entro il 31 dicembre del quarto anno successivo";
+
+                                
+                            
+                            
+                                b)
+                                
+                                    al secondo comma, riguardante il termine per l'accertamento in caso di omessa presentazione della dichiarazione, le parole " fino al 31 dicembre del sesto anno successivo" sono sostituite dalle seguenti: "fino al 31 dicembre del quinto anno successivo".
 
 ## Art. 16. — (Decorrenza)
 
@@ -163,7 +300,137 @@ I contribuenti eseguono versamenti unitari delle imposte, dei contributi dovuti 
 
 ((
 
+1-bis.
+                        
+                            
+                                La compensazione dei crediti di qualsiasi importo maturati a titolo di contributi nei confronti dell'INPS puo' essere effettuata: 
+                            
+                            
+                                a)
+                                
+                                    dai datori di lavoro non agricoli a partire dal quindicesimo giorno successivo a quello di scadenza del termine mensile per la trasmissione in via telematica dei dati retributivi e delle informazioni necessarie per il calcolo dei contributi da cui il credito emerge o dal quindicesimo giorno successivo alla sua presentazione, se tardiva, ovvero dalla data di notifica delle note di rettifica passive;
+                                
+                            
+                            
+                                b)
+                                
+                                    dai datori di lavoro che versano la contribuzione agricola unificata per la manodopera agricola a decorrere dalla data di scadenza del versamento relativo alla dichiarazione di manodopera agricola da cui il credito emerge;
+                                
+                            
+                            
+                                c)
+                                
+                                    dai lavoratori autonomi iscritti alle gestioni speciali degli artigiani ed esercenti attivita' commerciali e dai liberi professionisti iscritti alla Gestione separata presso l'INPS di cui all'articolo 2, comma 26, della legge 8 agosto 1995, n. 335, a decorrere dal decimo giorno successivo a quello di presentazione della dichiarazione dei redditi da cui il credito emerge. Resta impregiudicata la verifica sulla correttezza sostanziale del credito compensato. Sono escluse dalle compensazioni le aziende committenti per i compensi assoggettati a contribuzione alla suddetta Gestione separata presso l'INPS.
+
 1-ter. La compensazione dei crediti di qualsiasi importo per premi e accessori maturati nei confronti dell'INAIL puo' essere effettuata a condizione che il credito certo, liquido ed esigibile sia registrato negli archivi del predetto Istituto))
+
+2.
+                        
+                            
+                                Il versamento unitario e la compensazione riguardano i crediti e i debiti relativi: 
+ 
+                            
+                            
+                                a)
+                                
+                                    alle imposte sui redditi, alle relative adizionali e alle ritenute alla fonte riscosse mediante versamento diretto ai sensi dell'articolo 3 del decreto del Presidente della Repubblica 29 settembre 1973, n. 602; per le ritenute di cui al secondo comma del citato articolo 3 resta ferma la facolta' di eseguire il versamento presso la competente sezione di tesoreria provinciale dello Stato; in tal caso non e' ammessa la compensazione; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    all'imposta sul valore aggiunto dovuta ai sensi degli articoli 27 e 33 del decreto del Presidente della Repubblica 26 ottobre 1972, n. 633, e quella dovuta dai soggetti di cui all'articolo 74; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    alle imposte sostitutive delle imposte sui redditi e dell'imposta sul valore aggiunto; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    all'imposta prevista dall'articolo 3, comma 143, lettera a), della legge 23 dicembre 1996, n. 662; 
+
+                                
+                            
+                            
+                                d-bis)
+                                
+                                    all'imposta prevista dall'articolo 1, commi da 491 a 500, della legge 24 dicembre 2012, n. 228; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    ai contributi previdenziali dovuti da titolari di posizione assicurativa in una delle gestioni amministrate da enti previdenziali, comprese le quote associative; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    ai contributi previdenziali ed assistenziali dovuti dai datori di lavoro e dai committenti di prestazioni di collaborazione coordinata e continuativa di cui all'articolo 49, comma 2, lettera a), del testo unico delle imposte sui redditi, approvato con decreto del Presidente della Repubblica 22 dicembre 1986, n. 917; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    ai premi per l'assicurazione contro gli infortuni sul lavoro e le malattie professionali dovuti ai sensi del testo unico approvato con decreto del Presidente della Repubblica 30 giugno 1965, n. 1124; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    agli interessi previsti in caso di pagamento rateale ai sensi dell'articolo 20; 
+
+                                
+                            
+                            
+                                h-bis)
+                                
+                                    al saldo per il 1997 dell'imposta sul patrimonio netto delle imprese, istituita con decreto-legge 30 settembre 1992, n. 394, convertito, con modificazioni, dalla legge 26 novembre 1992, n. 461, e del contributo al Servizio sanitario nazionale di cui all'articolo 31 della legge 28 febbraio 1986, n. 41, come da ultimo modificato dall'articolo 4 del decreto-legge 23 febbraio 1995, n. 41, convertito, con modificazioni, dalla legge 22 marzo 1995, n. 85;(2) 
+                                
+                            
+                            
+                                h-ter)
+                                
+                                    alle altre entrate individuate con decreto del Ministro delle finanze, di concerto con il Ministro del tesoro, del bilancio e della programmazione economica, e con i Ministri competenti per settore; 
+
+                                
+                            
+                            
+                                h-quater)
+                                
+                                    al credito d'imposta spettante agli esercenti sale cinematografiche. 
+
+                                
+                            
+                            
+                                h-quinquies)
+                                
+                                    alle somme che i soggetti tenuti alla riscossione dell'incremento all'addizionale comunale debbono riversare all'INPS, ai sensi dell'articolo 6-quater del decreto-legge 31 gennaio 2005, n. 7, convertito, con modificazioni, dalla legge 31 marzo 2005, n. 43, e successive modificazioni. 
+
+                                
+                            
+                            
+                                h-sexies)
+                                
+                                    alle tasse sulle concessioni governative; (44) 
+
+                                
+                            
+                            
+                                h-septies)
+                                
+                                    alle tasse scolastiche. (44)
 
 COMMA SOPPRESSO DAL D.P.R. 14 OTTOBRE 1999, N.542.
 
@@ -237,6 +504,24 @@ Al fine di consentire al committente il riscontro dell'ammontare complessivo deg
 Nel caso in cui alla data di cui al comma 2 sia maturato il diritto a ricevere corrispettivi dall'impresa appaltatrice o affidataria e questa o le imprese subappaltatrici non abbiano ottemperato all'obbligo di trasmettere al committente le deleghe di pagamento e le informazioni relative ai lavoratori impiegati di cui al medesimo comma 2 ovvero risulti l'omesso o insufficiente versamento delle ritenute fiscali rispetto ai dati risultanti dalla documentazione trasmessa, il committente deve sospendere, finche' perdura l'inadempimento, il pagamento dei corrispettivi maturati dall'impresa appaltatrice o affidataria sino a concorrenza del 20 per cento del valore complessivo dell'opera o del servizio ovvero per un importo pari all'ammontare delle ritenute non versate rispetto ai dati risultanti dalla documentazione trasmessa, dandone comunicazione entro novanta giorni all'ufficio dell'Agenzia delle entrate territorialmente competente nei suoi confronti. In tali casi, e' preclusa all'impresa appaltatrice o affidataria ogni azione esecutiva finalizzata al soddisfacimento del credito il cui pagamento e' stato sospeso, fino a quando non sia stato eseguito il versamento delle ritenute.
 
 In caso di inottemperanza agli obblighi previsti dai commi 1 e 3, il committente e' obbligato al pagamento di una somma pari alla sanzione irrogata all'impresa appaltatrice o affidataria o subappaltatrice per la violazione degli obblighi di corretta determinazione delle ritenute e di corretta esecuzione delle stesse, nonche' di tempestivo versamento, senza possibilita' di compensazione.
+
+5.
+                        
+                            
+                                Gli obblighi previsti dal presente articolo non trovano applicazione qualora le imprese appaltatrici o affidatarie o subappaltatrici di cui al comma 1 comunichino al committente, allegando la relativa certificazione, la sussistenza, nell'ultimo giorno del mese precedente a quello della scadenza prevista dal comma 2, dei seguenti requisiti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    risultino in attivita' da almeno tre anni, siano in regola con gli obblighi dichiarativi e abbiano eseguito nel corso dei periodi d'imposta cui si riferiscono le dichiarazioni dei redditi presentate nell'ultimo triennio complessivi versamenti registrati nel conto fiscale per un importo non inferiore al 10 per cento dell'ammontare dei ricavi o compensi risultanti dalle dichiarazioni medesime; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    non abbiano iscrizioni a ruolo o accertamenti esecutivi o avvisi di addebito affidati agli agenti della riscossione relativi alle imposte sui redditi, all'imposta regionale sulle attivita' produttive, alle ritenute e ai contributi previdenziali per importi superiori ad euro 50.000, per i quali i termini di pagamento siano scaduti e siano ancora dovuti pagamenti o non siano in essere provvedimenti di sospensione. Le disposizioni di cui al periodo precedente non si applicano per le somme oggetto di piani di rateazione per i quali non sia intervenuta decadenza.
 
 A decorrere dalla data di applicazione della presente disposizione, la certificazione di cui al comma 5 e' messa a disposizione delle singole imprese dall'Agenzia delle entrate e ha validita' di quattro mesi dalla data del rilascio.
 
@@ -336,6 +621,24 @@ Entro il termine di cui al comma 1 la banca predispone ed invia telematicamente 
 
 ((
 
+2-bis.
+                        
+                            
+                                Con convenzione, fermi restando i termini fissati dai commi 1 e 2, puo' essere stabilito che: 
+ 
+                            
+                            
+                                a)
+                                
+                                    entro il secondo giorno lavorativo successivo a quello di ricevimento della delega, la banca comunica alla struttura di gestione l'importo presuntivo delle somme che versera' ai sensi del comma 1; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    entro il terzo giorno lavorativo successivo a quello di ricevimento della delega, la banca versa almeno l'80 per cento delle predette somme.
+
 ))
 
 Con decreto del Ministro delle finanze, di concerto con i Ministri del tesoro e del lavoro e della previdenza sociale, sono stabilite le modalita' applicative nonche' i criteri per i controlli relativi all'esecuzione del servizio da parte delle banche e le modalita' di scambio dei dati fra gli interessati. 
@@ -386,6 +689,31 @@ All'attivazione della riscossione mediante conferimento all'Ente poste italiane 
 Con regolamento, da emanare ai sensi dell'articolo 17, comma 2, della legge 23 agosto 1988, n. 400, entro 120 giorni dalla data di entrata in vigore del presente: decreto, sono disciplinati, sulla base delle previsioni contenute nella sezione I del presente Capo e dell'articolo 11 del decreto ministeriale 28 dicembre 1993, n. 567, le modalita' di versamento in Tesoreria delle somme riscosse dai soggetti indicati nel presente articolo durante il periodo transitorio di cui al comma 1 e l'invio telematico dei relativi dati alla struttura di gestione di cui all'articolo 22.
 
 ## Art. 25. — (Decorrenza e garanzie)
+
+1.
+                        
+                            
+                                Il regime dei versamenti unitari entra in funzione per tutti i contribuenti a partire dal mese di maggio 1998. Sono ammessi alla compensazione: 
+ 
+                            
+                            
+                                a)
+                                
+                                    dall'anno 1998 le persone fisiche titolari di partita IVA; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    dall'anno 1999 le societa' di persone ed equiparate ai fini fiscali ((, nonche' i soggetti non titolari di partita IVA)); 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    dall'anno 2000 i soggetti all'imposta sul reddito delle persone giuridiche.(2)
 
 Il limite massimo dei crediti d'imposta e dei contributi che possono essere compensati, e', fino all'anno 2000, fissato in lire 500 milioni per ciascun periodo d'imposta.
 
@@ -454,6 +782,52 @@ All'articolo 38-bis, primo comma, del decreto del Presidente della Repubblica 26
 
 ((
 
+1.
+                        
+                            
+                                I centri di assistenza fiscale, di seguito denominati ''Centri'', possono essere costituiti dai seguenti soggetti:
+ 
+                            
+                            
+                                a)
+                                
+                                    associazioni sindacali di categoria fra imprenditori, presenti nel Consiglio nazionale dell'economia e del lavoro, istituite da almeno dieci anni;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    associazioni sindacali di categoria fra imprenditori, istituite da almeno dieci anni, diverse da quelle indicate nella lettera a) se, con decreto del Ministero delle finanze, ne e' riconosciuta la rilevanza nazionale con riferimento al numero degli associati, almeno pari al 5 per cento degli appartenenti alla stessa categoria, iscritti negli appositi registri tenuti dalla camera di commercio, nonche' all'esistenza di strutture organizzate in almeno 30 province;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    organizzazioni aderenti alle associazioni di cui alle lettere a) e b), previa delega della propria associazione nazionale;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    organizzazioni sindacali dei lavoratori dipendenti e pensionati od organizzazioni territoriali da esse delegate, aventi complessivamente almeno cinquantamila aderenti;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    sostituti di cui all'articolo 23 del decreto del Presidente della Repubblica 29 settembre 1973, n. 600, e successive modificazioni, aventi complessivamente almeno cinquantamila dipendenti;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    associazioni di lavoratori promotrici di istituti di patronato riconosciuti ai sensi del decreto legislativo del Capo provvisorio dello Stato 29 luglio 1947, n. 804, aventi complessivamente almeno cinquantamila aderenti.
+
 ))
 
 ## Art. 33. — (( (Requisiti soggettivi). ))
@@ -475,12 +849,94 @@ I centri costituiti dai soggetti di cui alle lettere a), b) e c) del comma l del
 
 I centri costituiti dai soggetti di cui alle lettere d), e) e f) del comma l dell'articolo 32 prestano l'assistenza fiscale nei confronti dei contribuenti non titolari di redditi di lavoro autonomo e d'impresa di cui agli articoli 49, comma 1, e 51 del testo unico delle imposte sui redditi, approvato con decreto del Presidente della Repubblica 22 dicembre 1986, n. 917.
 
+3.
+                        
+                            
+                                I centri prestano assistenza fiscale ai contribuenti che la richiedono e, in particolare: 
+ 
+                            
+                            
+                                a)
+                                
+                                    elaborano e predispongono le dichiarazioni tributarie, nonche' curano gli ulteriori adempimenti tributari; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    redigono le scritture contabili; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    verificano la conformita' dei dati esposti nelle dichiarazioni alla relativa documentazione; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    consegnano al contribuente copia della dichiarazione elaborata e del prospetto di liquidazione delle imposte; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    comunicano ai sostituti d'imposta il risultato finale delle dichiarazioni stesse, ai fini del conguaglio a credito o a debito in sede di ritenuta d'acconto; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    inviano all'amministrazione finanziaria le dichiarazioni dei redditi e le scelte ai fini della destinazione dell'otto e del quattro per mille dell'imposta sul reddito delle persone fisiche.
+
 In relazione alla dichiarazione annuale dei redditi dei titolari dei redditi di lavoro dipendente e assimilati indicati agli articoli 46 e 47, comma 1, lettere a), d), g), con esclusione delle indennita' percepite dai membri del Parlamento europeo, e l) del testo unico delle imposte sui redditi approvato con decreto del Presidente della Repubblica 22 dicembre 1986, n. 917, nonche' dei redditi indicati all'articolo 49, comma 2, lettera a), del medesimo testo unico, i centri costituiti dai soggetti di cui alle lettere d), e) e f) del comma 1 dell'articolo 32, svolgono le attivita' di cui alle lettere da c) a f) del comma 3 ((assicurando adeguati livelli di servizio.
 Con provvedimento del direttore dell'Agenzia delle entrate sono definiti i livelli di servizio anche in relazione agli esiti dell'assistenza fiscale e le relative modalita' di misurazione.))
 
 ## Art. 35. — (( (Responsabili dei centri). ))
 
 ((
+
+1.
+                        
+                            
+                                Il responsabile dell'assistenza fiscale dei centri costituiti dai soggetti di cui all'articolo 32, comma 1, lettere a), b) e c), su richiesta del contribuente:
+ 
+                            
+                            
+                                a)
+                                
+                                    rilascia un visto di conformita' dei dati delle dichiarazioni predisposte dal centro, alla relativa documentazione e alle risultanze delle scritture contabili, nonche' di queste ultime alla relativa documentazione contabile;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    assevera che gli elementi contabili ed extracontabili comunicati all'amministrazione finanziaria e rilevanti ai fini dell'applicazione degli studi di settore corrispondono a quelli risultanti dalle scritture contabili e da altra documentazione idonea.
+
+2.
+                        
+                            
+                                Il responsabile dell'assistenza fiscale dei centri costituiti dai soggetti di cui all'articolo 32, comma 1, lettere d), e) e f):
+ 
+                            
+                            
+                                a)
+                                
+                                    rilascia, su richiesta del contribuente, un visto di conformita' dei dati delle dichiarazioni unificate alla relativa documentazione;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    rilascia, a seguito della attivita' di cui alla lettera c) del comma 3 dell'articolo 34, un visto di conformita' dei dati esposti nelle dichiarazioni alla relativa documentazione.
 
 I soggetti indicati alle lettere a) e b), del comma 3 dell'articolo 3 del decreto del Presidente della Repubblica 22 luglio 1998, n. 322, abilitati alla trasmissione telematica delle dichiarazioni, rilasciano, su richiesta dei contribuenti, il visto di conformita' e l'asseverazione di cui ai commi 1 e 2, lettera a), del presente articolo relativamente alle dichiarazioni da loro predisposte.
 
@@ -494,11 +950,127 @@ I revisori contabili iscritti negli albi dei dottori commercialisti, dei ragioni
 
 La certificazione tributaria puo' essere rilasciata a condizione che nei confronti del medesimo contribuente siano stati altresi' rilasciati il visto di conformita' di cui all'articolo 35, comma 1, lettera a), e, qualora siano applicabili le disposizioni concernenti gli studi di settore, l'asseverazione di cui alla lettera b) dello stesso comma 1 dell'articolo 35 e il soggetto incaricato abbia accertato l'esatta applicazione delle norme tributarie sostanziali ed eseguito gli adempimenti, i controlli e le attivita' indicati annualmente con decreto del Ministro delle finanze.
 
+3.
+                        
+                            
+                                Per le dichiarazioni relative a periodi di imposta per i quali e' stata rilasciata una certificazione tributaria regolare:
+ 
+                            
+                            
+                                a)
+                                
+                                    non sono applicabili le disposizioni di cui agli articoli 39, secondo comma, del decreto del Presidente della Repubblica 29 settembre 1973, n. 600, e 55 del decreto del Presidente della Repubblica 26 ottobre 1972, n. 633, in materia di accertamenti induttivi;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    gli accertamenti basati sugli studi di settore di cui all'articolo 10 della legge 8 maggio 1998, n. 146, sono notificati, a pena di decadenza, entro il 31 dicembre del terzo anno successivo a quello in cui le dichiarazioni sono state presentate;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    in caso di ricorso contro l'atto di accertamento, le imposte o le maggiori imposte, unitamente ai relativi interessi e alle sanzioni, sono iscritte a ruolo secondo i criteri di cui all'articolo 68, del decreto legislativo 31 dicembre 1992, n. 546, ed all'articolo 19 del decreto legislativo 18 dicembre 1997, n. 472, concernenti, rispettivamente il pagamento dei tributi e delle sanzioni amministrative tributarie in pendenza di giudizio, dopo la sentenza della commissione tributaria provinciale. Restano, comunque, fermi i criteri indicati nell'articolo 15 del decreto del Presidente della Repubblica 29 settembre 1973, n. 602, se la rettifica riguarda esclusivamente redditi non oggetto della certificazione tributaria.
+
 ))
 
 ## Art. 37. — (Assistenza fiscale prestata dai sostituti d'imposta).
 
 I sostituti d'imposta che erogano i redditi di cui agli articoli 46 e 47, comma 1, lettere a), d), g), con esclusione delle indennita' percepite dai membri del parlamento europeo, e l), del testo unico delle imposte sui redditi, approvato con il decreto del Presidente della Repubblica 22 dicembre 1986, n. 917, possono prestare assistenza fiscale nei confronti dei propri sostituiti.
+
+2.
+                        
+                            
+                                I sostituti di cui al comma 1 che prestano assistenza fiscale: 
+ 
+                            
+                            
+                                a)
+                                
+                                    ricevono le dichiarazioni e le schede per la scelta della destinazione del quattro e dell'otto per mille dell'imposta sul reddito delle persone fisiche; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    elaborano le dichiarazioni; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    consegnano al contribuente copia della dichiarazione elaborata e del prospetto di liquidazione delle imposte; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    effettuano le operazioni di conguaglio da eseguire con le modalita' di cui al comma 7; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    inviano le dichiarazioni dei redditi e le suddette scelte.
+
+2-bis.
+                        
+                            
+                                I sostituti d'imposta che comunicano ai propri sostituiti, entro il 15 gennaio di ogni anno, di voler prestare assistenza fiscale provvedono a: 
+ 
+                            
+                            
+                                a)
+                                
+                                    controllare, sulla base dei dati ed elementi direttamente desumibili dalla dichiarazione presentata dal sostituito, la regolarita' formale della stessa anche in relazione alle disposizioni che stabiliscono limiti alla deducibilita' degli oneri, alle detrazioni ed ai crediti di imposta; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    consegnare al sostituito, prima della trasmissione della dichiarazione, copia della dichiarazione elaborata ed il relativo prospetto di liquidazione; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    trasmettere in via telematica all'Agenzia delle entrate le dichiarazioni elaborate e i relativi prospetti di liquidazione((e consegnare le buste contenenti le schede relative alle scelte per la destinazione dell'otto, del cinque e del due per mille dell'imposta sul reddito delle persone fisiche, secondo le modalita' stabilite con uno o piu' provvedimenti del direttore dell'Agenzia delle entrate)), entro: 
+ 1) il 15 giugno di ciascun anno, per le dichiarazioni presentate dal contribuente entro il 31 maggio; 
+ 2) il 29 giugno di ciascun anno, per le dichiarazioni presentate dal contribuente dal 1° al 20 giugno; 
+ 3) il 23 luglio di ciascun anno, per le dichiarazioni presentate dal contribuente dal 21 giugno al 15 luglio; 
+ 4) il 15 settembre di ciascun anno, per le dichiarazioni presentate dal contribuente dal 16 luglio al 31 agosto; 
+ 5) il 30 settembre di ciascun anno, per le dichiarazioni presentate dal contribuente dal 1° al 30 settembre; (51) 
+
+                                
+                            
+                            
+                                c-bis)
+                                
+                                    
+                                        ((LETTERA ABROGATA DAL D.L. 18 OTTOBRE 2023, N. 145, CONVERTITO CON MODIFICAZIONI DALLA L. 15 DICEMBRE 2023, N. 191)); 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    comunicare all'Agenzia delle entrate in via telematica, entro i termini previsti alla lettera c), il risultato finale delle dichiarazioni. Si applicano, ove compatibili, le disposizioni di cui all'articolo 16, comma 4-bis, del decreto del Ministro delle finanze 31 maggio 1999, n. 164; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    conservare copia delle dichiarazioni e dei relativi prospetti di liquidazione fino al 31 dicembre del secondo anno successivo a quello di presentazione ((...)).(51)
 
 I sostituti che non prestano assistenza fiscale consentono in ogni caso ai centri l'attivita' di raccolta degli atti e documenti necessari per l'attivita' di cui alle lettere da c) a f) del comma 3 dell'articolo 34.
 
@@ -605,6 +1177,38 @@ Il mancato rispetto di adeguati livelli di servizio comporta l'applicazione dell
 ## Art. 40. — (( (Disposizioni di attuazione). ))
 
 ((
+
+1.
+                        
+                            
+                                Il Ministro delle finanze, con regolamenti adottati ai sensi dell'articolo 17, comma 3, della legge 23 agosto 1988, n. 400, stabilisce:
+ 
+                            
+                            
+                                a)
+                                
+                                    i criteri e le condizioni per il rilascio ai centri dell'autorizzazione all'esercizio delle attivita' di cui all'articolo 34, per la loro iscrizione in apposito albo e per il trasferimento delle quote o delle azioni, che deve in ogni caso essere posto in essere tra i soggetti autorizzati alla costituzione dei centri stessi, i poteri divigilanza, anche ispettiva, dell'amministrazione finanziaria;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le modalita' per l'esecuzione dei controlli e l'erogazione dei rimborsi per i contribuenti nei cui confronti e' stato rilasciato il visto e l'asseverazione di cui ai commi 1 e 2 dell'articolo 35, ovvero e' stata effettuata la certificazione ai sensi dell'articolo 36, tenendo conto, in particolare, del tipo di assistenza fiscale prestata ai predetti contribuenti anche in ordine alla tenuta delle scritture contabili;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    la prestazione di congrue garanzie per i danni ai contribuenti in relazione al rilascio del visto di conformita', dell'asseverazione e della certificazione tributaria secondo le disposizioni del presente capo commisurate anche al numero dei contribuenti assistiti;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    ulteriori disposizioni attuative di quanto previsto nel presente capo.
 
 ))
 

@@ -7,8 +7,8 @@ urn: urn:nir:stato:decreto.del.presidente.del.consiglio.dei.ministri:2017-09-15;
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:40Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DEL CONSIGLIO DEI MINISTRI
@@ -65,6 +65,56 @@ In sede di Conferenza unificata, di cui all'articolo 8 del decreto legislativo 2
 
 Programmazione dell'attivita' normativa
 
+1.
+                        
+                            
+                                Ciascuna Amministrazione, entro il 30 giugno e il 31 dicembre, comunica al Sottosegretario di Stato con funzioni di Segretario del Consiglio dei ministri, per il tramite del DAGL, il Programma normativo semestrale, che contiene l'elenco delle iniziative normative previste nel semestre successivo, fatti salvi i casi di necessita' ed urgenza, indicando per ciascuna di esse: 
+ 
+                            
+                            
+                                a)
+                                
+                                    una sintetica descrizione dell'oggetto e degli obiettivi; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la sussistenza di eventuali cause di esclusione dall'AIR, esplicitandone le motivazioni; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    le procedure di consultazione programmate.
+
+2.
+                        
+                            
+                                Ai fini dell'istruttoria normativa il Programma indica altresi': 
+ 
+                            
+                            
+                                a)
+                                
+                                    le Amministrazioni coinvolte nel procedimento; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    i pareri da acquisire, inclusi quelle delle autorita' indipendenti; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    gli eventuali termini legislativamente previsti per l'adozione dell'atto.
+
 Il DAGL verifica la sussistenza delle cause di esclusione indicate nel Programma normativo e, qualora ritenga che le stesse non sussistano, ne da' comunicazione all'Amministrazione.
 
 Le iniziative normative previste, il cui procedimento di formazione e presentazione non si sia concluso nel semestre, vengono, a cura dell'Amministrazione proponente, riportate al semestre successivo aggiornandone i termini.
@@ -84,6 +134,66 @@ In tal caso, l'Amministrazione proponente redige la relazione AIR generale che s
 
 ## Art. 6. — Casi di esclusione dell'AIR
 
+1.
+                        
+                            
+                                L'AIR e' esclusa con riguardo a: 
+ 
+                            
+                            
+                                a)
+                                
+                                    disegni di legge costituzionale; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    norme di attuazione degli statuti delle Regioni a statuto speciale; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    disposizioni direttamente incidenti su interessi fondamentali in materia di sicurezza interna ed esterna dello Stato; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    disegni di legge di autorizzazione alla ratifica di trattati internazionali; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    norme di mero recepimento di disposizioni recate da accordi internazionali ratificati; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    leggi di approvazione di bilanci e rendiconti generali; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    testi unici meramente compilativi; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    provvedimenti adottati ai sensi dell'articolo 17, commi 4-bis e 4-ter, della legge 23 agosto 1988, n. 400 e successive modificazioni.
+
 L'Amministrazione proponente, laddove non abbia indicato la sussistenza di una causa di esclusione dall'AIR nel Programma normativo, la comunica al DAGL almeno trenta giorni prima della richiesta di iscrizione del provvedimento all'ordine del giorno della riunione preparatoria del Consiglio dei ministri. Tale termine puo' essere ridotto su richiesta dell'Amministrazione per motivate ragioni di urgenza.
 
 Il DAGL verifica la sussistenza della causa di esclusione e, qualora ritenga che la stessa non sussista per la valutata non riconducibilita' del provvedimento in tutto o in parte alle materie di cui al comma 1, chiede l'effettuazione dell'AIR, subordinando all'acquisizione della relazione AIR l'iscrizione del provvedimento all'ordine del giorno della riunione preparatoria del Consiglio dei ministri.
@@ -91,6 +201,38 @@ Il DAGL verifica la sussistenza della causa di esclusione e, qualora ritenga che
 In caso di esclusione dell'AIR, ove sia richiesto dalle Commissioni parlamentari o dal Consiglio dei ministri, la relazione illustrativa che accompagna il provvedimento viene integrata con l'indicazione degli impatti attesi su cittadini, imprese e pubbliche amministrazioni, nonche' della comparazione delle eventuali opzioni regolatorie considerate.
 
 ## Art. 7. — Richiesta di esenzione dall'AIR
+
+1.
+                        
+                            
+                                L'Amministrazione proponente, in attuazione della disposizione di cui all'articolo 2, comma 3, richiede al DAGL l'esenzione dall'AIR in relazione al ridotto impatto dell'intervento, in presenza delle seguenti condizioni, congiuntamente considerate: 
+ 
+                            
+                            
+                                a)
+                                
+                                    costi di adeguamento attesi di scarsa entita' in relazione ai singoli destinatari, tenuto anche conto della loro estensione temporale; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    numero esiguo dei destinatari dell'intervento; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    risorse pubbliche impiegate di importo ridotto; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    limitata incidenza sugli assetti concorrenziali del mercato.
 
 I regolamenti da adottare ai sensi dell'articolo 17, comma 3, della legge 23 agosto 1988, n. 400, possono essere esentati dall'AIR, in ragione del ridotto impatto dell'intervento, con dichiarazione a firma del Ministro, da allegare alla richiesta di parere al Consiglio di Stato ed alla comunicazione al Presidente del Consiglio dei ministri di cui all'articolo 17, comma 3, della legge n. 400 del 1988.
 
@@ -107,6 +249,59 @@ In caso di esenzione dall'AIR, ove sia richiesto dalle Commissioni parlamentari 
 ## Art. 8. — Fasi dell'AIR
 
 L'Amministrazione avvia l'AIR contestualmente all'individuazione dell'esigenza di un intervento normativo.
+
+2.
+                        
+                            
+                                L'AIR, fatte salve le indicazioni contenute nella direttiva di cui all'articolo 3, comma 1, si articola nelle seguenti fasi: 
+ 
+                            
+                            
+                                a)
+                                
+                                    analisi del contesto e individuazione dei problemi da affrontare, con riferimento all'area o settore di regolazione in cui si inserisce l'iniziativa normativa, tenendo conto delle esigenze e dei profili critici di tipo normativo, amministrativo, economico e sociale constatati nella situazione attuale, anche avendo riguardo al mancato conseguimento degli effetti attesi da altri provvedimenti vigenti, che motivano il nuovo intervento; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    individuazione dei potenziali destinatari, pubblici e privati, dell'intervento e definizione della loro consistenza numerica; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    definizione degli obiettivi dell'intervento normativo, coerenti con l'analisi dei problemi di cui alla lettera a); 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    elaborazione delle opzioni, anche di natura non normativa, inclusa quella di non intervento (c.d. opzione zero); 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    valutazione preliminare delle opzioni, con riguardo all'efficacia, alla proporzionalita' e alla fattibilita', e conseguente individuazione delle opzioni attuabili; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    comparazione delle opzioni attuabili, valutandone e, ove possibile, quantificandone i principali impatti di natura sociale, economica, ambientale e territoriale per le diverse categorie di destinatari; la valutazione tiene anche conto degli effetti sulle PMI, degli oneri amministrativi, degli effetti sulla concorrenza e del rispetto dei livelli minimi di regolazione europea; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    individuazione dell'opzione preferita, delle condizioni specifiche per la sua attuazione e delle modalita' di effettuazione del monitoraggio e della successiva valutazione.
 
 Nello svolgimento dell'AIR l'Amministrazione ricorre alla consultazione, secondo quanto stabilito dagli articoli 16 e 17, nonche' ad evidenze di tipo quantitativo, ivi comprese quelle desumibili da relazioni degli organi di controllo o di vigilanza.
 
@@ -129,6 +324,45 @@ Per l'iscrizione all'ordine del giorno del Consiglio dei ministri le proposte di
 La relazione AIR che accompagna il provvedimento, verificata dal DAGL, e' trasmessa al Parlamento ed e' pubblicata sul sito istituzionale dell'Amministrazione proponente, nonche' sul sito istituzionale del Governo.
 
 ## Art. 10. — AIR sui decreti-legge
+
+1.
+                        
+                            
+                                L'AIR svolta a supporto della predisposizione dei decreti-legge, fatte salve le indicazioni contenute nella direttiva di cui all'articolo 3, comma 1, si articola almeno nelle seguenti fasi: 
+ 
+                            
+                            
+                                a)
+                                
+                                    individuazione dei problemi da affrontare, con riferimento all'area o settore di regolamentazione in cui si inserisce l'iniziativa normativa, con illustrazione delle esigenze e delle criticita' di tipo normativo, amministrativo, economico e sociale constatate nella situazione attuale, che motivano l'intervento; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    definizione degli obiettivi dell'intervento normativo, coerenti con l'analisi dei problemi di cui alla lettera a); 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    individuazione dei potenziali destinatari, pubblici e privati, dell'intervento e definizione della loro consistenza numerica; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    valutazione dell'intervento, con descrizione e, ove possibile, quantificazione dei principali impatti (benefici e costi attesi) per categoria di destinatari e per la collettivita' nel suo complesso; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    individuazione delle condizioni specifiche per l'attuazione dell'intervento e delle relative modalita' di effettuazione del monitoraggio e della successiva valutazione.
 
 L'Amministrazione proponente elabora la relazione AIR che documenta l'analisi di cui al comma 1 e i risultati delle valutazioni svolte.
 
@@ -171,6 +405,77 @@ La VIR puo' essere svolta anche con riguardo ad un insieme di atti normativi, tr
 
 L'Amministrazione assicura il monitoraggio dell'attuazione degli atti normativi, attraverso la costante raccolta ed elaborazione delle informazioni e dei dati necessari all'effettuazione della VIR, con particolare riguardo a quelli relativi agli indicatori individuati nelle corrispondenti AIR, secondo le indicazioni contenute nella direttiva di cui all'articolo 3, comma 1.
 
+7.
+                        
+                            
+                                L'individuazione degli atti o insiemi di atti normativi da includere nel piano di cui al comma 1 e' effettuata, anche tenuto conto degli esiti della consultazione di cui all'articolo 18, sulla base dei seguenti criteri: 
+ 
+                            
+                            
+                                a)
+                                
+                                    rilevanza rispetto agli obiettivi perseguiti dalle politiche a cui gli atti si riferiscono; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    significativita' degli effetti, anche con riferimento alle previsioni delle relazioni AIR, ove disponibili; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    problemi e profili critici rilevati nell'attuazione; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    modifiche nel contesto socio-economico di riferimento, incluse quelle derivanti dal progresso tecnologico e scientifico.
+
+8.
+                        
+                            
+                                Il piano di cui al comma 1 contiene le seguenti informazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    l'elenco degli atti o insiemi di atti che l'Amministrazione intende sottoporre a VIR nel biennio di riferimento, articolato per anno; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'indicazione, per ogni atto o insieme di atti, dei motivi prioritari per i quali l'Amministrazione ritiene di svolgere la verifica di impatto, con riferimento ai criteri di cui al comma 7; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    l'indicazione, per ogni atto o insieme di atti, di eventuali altre amministrazioni coinvolte nel processo di valutazione; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    i tempi previsti per l'avvio e la conclusione di ogni VIR; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    una sintesi degli esiti delle consultazioni di cui all'articolo 18.
+
 Successivamente alla consultazione di cui all'articolo 18 e prima dell'adozione, il piano di cui al comma 1 e' inviato al DAGL, che ne verifica la rispondenza alle previsioni del presente articolo ed alla direttiva di cui all'articolo 3, comma 1.
 
 Una volta adottato, il piano biennale e' pubblicato sui siti del Governo e dell'Amministrazione che ne ha curato la redazione.
@@ -179,6 +484,38 @@ Analogamente si procede per la pubblicazione degli eventuali aggiornamenti.
 Ove non prevista nel piano biennale, la VIR e' comunque effettuata ove sia richiesto dalle Commissioni parlamentari o dal Consiglio dei ministri.
 
 ## Art. 13. — Fasi della VIR
+
+1.
+                        
+                            
+                                La VIR, fatte salve le indicazioni contenute nella direttiva di cui all'articolo 3, comma 1, si articola nelle seguenti fasi: 
+ 
+                            
+                            
+                                a)
+                                
+                                    analisi della situazione attuale e dei problemi, ricorrendo a evidenze quantitative e verificando anche il grado di attuazione della normativa in esame, con riferimento, se del caso, ai diversi livelli istituzionali coinvolti; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    ricostruzione della logica dell'intervento, in relazione ai problemi che si intendevano affrontare e agli obiettivi che si intendevano conseguire, alle azioni poste in essere, ai soggetti direttamente e indirettamente coinvolti, all'evoluzione registrata nel contesto di riferimento; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    valutazione dell'intervento, applicando i seguenti criteri: 1) efficacia, verificando il grado di raggiungimento degli obiettivi e la misura in cui gli effetti osservati derivano dalla regolazione in esame o da ulteriori fattori che sono intervenuti nel tempo; 2) efficienza, in relazione alle risorse impiegate; 3) perdurante utilita' della regolazione rispetto alle esigenze e agli obiettivi delle politiche attuali; 4) coerenza dell'insieme delle norme che disciplinano l'area di regolazione in esame, anche con riferimento ad eventuali lacune, inefficienze, sovrapposizioni, eccesso di costi di regolazione; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    definizione di ipotesi di revisione, abrogazione, miglioramento dell'attuazione delle norme in esame, alla luce dei risultati del processo valutativo.
 
 Nello svolgimento della VIR l'Amministrazione ricorre alla consultazione, secondo quanto stabilito dagli articoli 16 e 18, nonche' ad evidenze di tipo quantitativo, ivi comprese quelle desumibili da relazioni degli organi di controllo o di vigilanza.
 
@@ -258,6 +595,73 @@ L'Amministrazione garantisce adeguata e tempestiva pubblicita', anche attraverso
 ## - Capo V Relazione al Parlamento
 
 ## Art. 19. — Relazione annuale al Parlamento sullo stato di applicazione dell'AIR e della VIR
+
+1.
+                        
+                            
+                                La relazione annuale sullo stato di applicazione dell'AIR e della VIR, da presentare al Parlamento ai sensi dell'articolo 14, comma 10, della legge 28 novembre 2005, n. 246, riporta i seguenti elementi informativi: 
+ 
+                            
+                            
+                                a)
+                                
+                                    numero di AIR e di VIR concluse nell'anno; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    numero e casi di esclusione e di esenzione dall'AIR; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    numero di relazioni AIR integrate su richiesta del DAGL, del Parlamento, o su sollecitazione del Consiglio di Stato in sede consultiva; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    metodologie applicate, scelte organizzative adottate dalle amministrazioni; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    numero di consultazioni realizzate nel corso dell'AIR e della VIR e relative metodologie; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    piani biennali per la valutazione e la revisione della regolazione redatti ai sensi dell'articolo 12 e loro aggiornamenti; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    riferimenti alle esperienze di AIR e di VIR presso le istituzioni dell'Unione europea, le autorita' indipendenti, le regioni, gli enti locali, evidenziando le migliori pratiche anche a livello internazionale; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    eventuali criticita' riscontrate a livello di Amministrazioni nello svolgimento delle AIR e delle VIR; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    iniziative per la formazione e il miglioramento delle capacita' istituzionali nello svolgimento dell'AIR, della VIR e delle consultazioni.
 
 Entro il mese di febbraio ciascuna Amministrazione trasmette al DAGL una relazione con gli elementi informativi di cui al comma 1 relativi all'anno precedente. In particolare, il Dipartimento degli affari regionali, sentita, ove occorra, la Conferenza Unificata, fornisce le informazioni riguardanti le attivita' delle regioni e degli enti locali.
 

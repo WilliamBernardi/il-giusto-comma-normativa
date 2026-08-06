@@ -8,8 +8,8 @@ codice_redazionale: 090G0235
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti governativi
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:15Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -39,6 +39,24 @@ Il nastro puo' portarsi senza croce.
 
 ## Art. 3.
 
+1.
+                    
+                        
+                            Hanno titolo a conseguirla ed a fregiarsene, anche dopo la cessazione dal servizio, gli ufficiali, i sottufficiali e gli appartenenti al ruolo dei finanzieri ed appuntati che abbiano compiuto i seguenti periodi minimi di servizio:
+ 
+                        
+                        
+                            a)
+                            
+                                croce d'oro: 25 anni;
+
+                            
+                        
+                        
+                            b)
+                            
+                                croce d'argento: 16 anni.
+
 E' computato, ai fini della concessione, il servizio prestato nelle altre Forze armate dello Stato e nelle altre Forze di polizia di cui all'art. 16 della legge 1 aprile 1981, n. 121, anteriormente all'arruolamento nella Guardia di finanza.
 
 Il nastro della croce d'oro e' sormontato da una stelletta d'oro al compimento del 40 anno di servizio.
@@ -56,6 +74,24 @@ Non possono conseguire l'onorificenza e, avendola conseguita, la perdono di diri
 Coloro che siano incorsi nella interdizione temporanea dai pubblici uffici non possono, durante il tempo dell'interdizione, conseguire la decorazione, ne', avendola conseguita, possono fregiarsene.
 
 ## Art. 6.
+
+1.
+                    
+                        
+                            Con decreto del Ministro delle finanze verranno emesse apposite disposizioni circa:
+ 
+                        
+                        
+                            a)
+                            
+                                i casi in cui, per la pendenza a carico dell'interessato di procedimento penale che possa concludersi con l'interdizione dai pubblici uffici, debba essere sospesa la concessione dell'onorificenza;
+
+                            
+                        
+                        
+                            b)
+                            
+                                le modalita' di computo del periodo di servizio utile ai fine dell'attribuzione della ricompensa.
 
 ## Art. 7.
 

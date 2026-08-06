@@ -8,8 +8,8 @@ codice_redazionale: 094G0552
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:39Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -48,6 +48,59 @@ La dose massima di impiego deve essere tale da non lasciare residui nel prodotto
  "Art. 12. - Sono vietate fra le Parti contraenti le restrizioni quantitative all'esportazione, nonche' qualsiasi misura di effetto equivalente".
 
 ## Art. 2.
+
+1.
+                    
+                        
+                            Il prodotto deve essere posto in commercio in confezioni chiuse all'origine e con le seguenti indicazioni:
+ 
+                        
+                        
+                            a)
+                            
+                                la denominazione commerciale del prodotto;
+
+                            
+                        
+                        
+                            b)
+                            
+                                la denominazione chimica del prodotto;
+
+                            
+                        
+                        
+                            c)
+                            
+                                il riferimento specifico della destinazione d'uso;
+
+                            
+                        
+                        
+                            d)
+                            
+                                le istruzioni per l'uso, ivi compresa la dose d'impiego;
+
+                            
+                        
+                        
+                            e)
+                            
+                                una menzione per identificare il lotto di produzione;
+
+                            
+                        
+                        
+                            f)
+                            
+                                il nome o la ragione sociale e l'indirizzo del fabbricante o dell'importatore o di un venditore stabilito nella Comunita';
+
+                            
+                        
+                        
+                            g)
+                            
+                                la quantita' netta.
 
 ## Art. 3.
 

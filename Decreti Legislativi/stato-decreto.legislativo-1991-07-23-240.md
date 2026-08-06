@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
 vigenza_date: 1993-06-19
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:31Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -39,6 +39,24 @@ Copia integrale o parziale di ogni atto per il quale e' prescritta l'iscrizione 
 Fino all'attuazione del registro delle imprese, l'iscrizione e il deposito degli atti e delle indicazioni di cui al comma 1 si effettuano secondo le disposizioni degli articoli 100 e 101 delle disposizioni di attuazione del codice civile.
 
 ## Art. 4. — Pubblicita'
+
+1.
+                    
+                        
+                            Devono essere pubblicati nella Gazzetta Ufficiale della Repubblica italiana, nel termine di trenta giorni dalla iscrizione o dal deposito nel registro delle imprese, a cura degli amministratori:
+ 
+                        
+                        
+                            a)
+                            
+                                gli atti e le indicazioni di cui agli articoli 8, lettere a) e b), e 11 del regolamento CEE n. 2137/85;
+
+                            
+                        
+                        
+                            b)
+                            
+                                gli atti e le indicazioni di cui all'art. 8, lettera c), del regolamento CEE n. 2137/85, in forma di estratto recante la menzione del deposito o dell'iscrizione nel registro delle imprese.
 
 Gli effetti della pubblicazione sono regolati dall'articolo 2457- ter del codice civile.
 

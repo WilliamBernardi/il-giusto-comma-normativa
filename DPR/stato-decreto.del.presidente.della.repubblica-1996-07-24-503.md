@@ -8,8 +8,8 @@ codice_redazionale: 096G0512
 vigente: true
 source: normattiva-opendata
 collection: DPR
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:48:02Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -28,6 +28,31 @@ Sulla proposta del Ministro dei lavori pubblici, di concerto con i Ministri dell
 ## Art. 1. — Definizioni ed oggetto
 
 Le norme del presente regolamento sono volte ad eliminare gli impedimenti comunemente definiti "barriere architettoniche".
+
+2.
+                        
+                            
+                                Per barriere architettoniche si intendono:
+ 
+                            
+                            
+                                a)
+                                
+                                    gli ostacoli fisici che sono fonte di disagio per la mobilita' di chiunque ed in particolare di coloro che, per qualsiasi causa, hanno una capacita' motoria ridotta o impedita in forma permanente o temporanea;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    gli ostacoli che limitano o impediscono a chiunque la comoda e sicura utilizzazione di spazi, attrezzature o componenti;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    la mancanza di accorgimenti e segnalazioni che permettono l'orientamento e la riconoscibilita' dei luoghi e delle fonti di pericolo per chiunque e in particolare per i non vedenti, per gli ipovedenti e per i sordi.
 
 Le presenti norme si applicano agli edifici e spazi pubblici di nuova costruzione, ancorche' di carattere temporaneo, o a quelli esistenti qualora sottoposti a ristrutturazione. Si applicano altresi' agli edifici e spazi pubblici sottoposti a qualunque altro tipo di intervento edilizio suscettibile di limitare l'accessibilita' e la visitabilita', almeno per la parte oggetto dell'intervento stesso. Si applicano inoltre agli edifici e spazi pubblici in tutto o in parte soggetti a cambiamento di destinazione se finalizzata all'uso pubblico, nonche' ai servizi speciali di pubblica utilita' di cui al successivo titolo VI.
 
@@ -285,6 +310,32 @@ I servizi per i viaggiatori nelle stazioni devono essere accessibili.
 Il Ministero dei trasporti stabilisce con propri decreti le modalita' e i criteri di attuazione delle norme del presente regolamento relative al trasporto pubblico di persona.
 
 ## Art. 31. — Impianti telefonici pubblici
+
+1.
+                        
+                            
+                                Al fine di consentire l'uso di impianti telefonici pubblici da parte anche di persone con ridotte o impedite capacita' motorie o sensoriali sono adottati i seguenti criteri:
+ 
+                            
+                            
+                                a)
+                                
+                                    nei posti telefonici pubblici ubicati nei capoluoghi di provincia, deve essere installato in posizione accessibile almeno un apparecchio posto ad una altezza massima di 0,90 m dal pavimento e convenientemente isolato sotto il profilo acustico. Negli uffici anzidetti, con un numero di cabine non inferiori a 10, una delle cabine deve essere strutturata e attrezzata come segue:
+ 1) il dislivello massimo tra il pavimento interno della speciale cabina telefonica e il pavimento esterno non deve essere superiorea cm 2,5; la porta di accesso deve avere una luce netta minima di 0,85 m; l'apparecchio telefonico deve essere situato ad un'altezza minima di 0,90 m dal pavimento; sulla parete ove e' applicato l'apparecchio deve prevedersi un sedile ribaltabile a scomparsa avente piano di appoggio ad una altezza di 0,45 m; la mensola porta elenchi deve essere posta ad una altezza di 0,80 m; eventuali altre caratteristiche sono stabilite con decreto del Ministro delle poste e delle telecomunicazioni;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    in ogni comune, secondo un programma da realizzarsi gradualmente in un quinquennio, deve essere posto a disposizione dell'utenza, preferibilmente nella sede del locale posto telefonico pubblico, almeno un apparecchio telefonico con i requisiti di cui alla lettera a);
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il 5 per cento delle cabine di nuova installazione poste a disposizione del pubblico deve essere rispondente ai requisiti di cui alla lettera a); il 5 per cento degli apparecchi posti a disposizione del pubblico deve essere installato ad un'altezza non superiore a 0,90 m. I predetti impianti sono dislocati secondo le esigenze prioritarie segnalate da parte dei singoli comuni inte-ressati.
 
 ## Art. 32.
 

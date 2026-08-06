@@ -8,8 +8,8 @@ codice_redazionale: 001G0420
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:39Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -40,6 +40,24 @@ La produzione e l'importazione delle armi di cui all'articolo 1 e' subordinata a
 La verifica di conformita' e' effettuata sulla base dei disegni e delle caratteristiche indicate nella domanda ovvero sulla base dei prototipi ove ritenuto necessario.
 
 La domanda succitata, conforme all'imposta di bollo, deve essere indirizzata al Ministero dell'interno, ufficio per l'amministrazione generale del Dipartimento della pubblica sicurezza - Ufficio per gli affari della polizia amministrativa e sociale, e deve contenere le indicazioni relative alle generalita', se persona fisica e la ditta, la ragione o la denominazione sociale se impresa, del produttore e dell'importatore, il relativo domicilio o sede nonche' le caratteristiche dell'arma, quali: tipo, denominazione, Stato o Stati in cui essa e' prodotta o da cui e' importata, calibro, numero delle canne e relativa lunghezza, lunghezza minima, sistema di funzionamento e ogni altra particolarita' strutturale dell'arma. Il richiedente dovra' precisare se intende produrre o importare l'arma, indicandone in quest'ultimo caso la fabbrica e lo Stato di provenienza.
+
+4.
+                        
+                            
+                                Alla domanda devono essere allegate:
+ 
+                            
+                            
+                                a)
+                                
+                                    una relazione tecnica, corredata di disegni costruttivi e fotografie relativi all'arma ed alle parti di essa, con sottoscrizione autenticata del richiedente a norma dell'articolo 21 del decreto del Presidente della Repubblica 28 dicembre 2000, n. 445;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    una certificazione dell'energia cinetica erogata, misurata all'origine, rilasciata dal Banco nazionale di prova di Gardone Val Trompia, direttamente o a mezzo delle sue sezioni.
 
 L'esibizione del prototipo o esemplare, ove ritenuto necessario, e' effettuata a richiesta della Commissione. Nella domanda devono essere indicate le generalita' della persona incaricata dell'esibizione e del ritiro del prototipo o esemplare eventualmente richiesto.
 

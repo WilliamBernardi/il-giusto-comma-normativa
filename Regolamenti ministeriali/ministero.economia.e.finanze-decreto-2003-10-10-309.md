@@ -8,8 +8,8 @@ codice_redazionale: 003G0334
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:40Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -23,4 +23,23 @@ Udito il parere del Consiglio di Stato espresso dalla Sezione consultiva per gli
 
 ## Art. 1. — Modifica delle modalita' per la richiesta
  e l'erogazione dei rimborsi
+
+1.
+                    
+                        
+                            All'articolo 20 del regolamento adottato con decreto del Ministro delle finanze 28 dicembre 1993, n. 567, sono apportate le seguenti modificazioni:
+ 
+                        
+                        
+                            a)
+                            
+                                nel comma 4, le parole: "o dal giorno in cui e' pervenuta la comunicazione dell'ufficio tributario" sono soppresse;
+
+                            
+                        
+                        
+                            b)
+                            
+                                dopo il comma 4 e' inserito il seguente:
+ "4-bis. I rimborsi dei tributi disposti dall'ufficio finanziario sono erogati dal concessionario entro venti giorni dalla ricezione della disposizione di pagamento, con le modalita' di cui al comma 4.".
 

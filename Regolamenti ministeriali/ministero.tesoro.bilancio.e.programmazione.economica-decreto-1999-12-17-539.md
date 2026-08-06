@@ -8,8 +8,8 @@ codice_redazionale: 000G0044
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:42Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -30,6 +30,52 @@ al comma 4, che le modalita' e le condizioni dell'intervento della garanzia del 
 Udito il parere del Consiglio di Stato espresso dalla sezione consultiva per gli atti normativi nell'adunanza dell'11 ottobre 1999 (parere n. 210/99);
 
 ## Art. 1. — Definizioni
+
+1.
+                    
+                        
+                            Nel presente regolamento l'espressione:
+ 
+                        
+                        
+                            a)
+                            
+                                "Fondo" indica il Fondo centrale di garanzia per il credito navale istituito ai sensi dell'articolo 5 della legge 31 luglio 1997, n. 261;
+
+                            
+                        
+                        
+                            b)
+                            
+                                "gestore" indica la banca cui e' affidata la gestione del Fondo;
+
+                            
+                        
+                        
+                            c)
+                            
+                                "banca" indica la banca, iscritta all'albo di cui all'articolo 13 del decreto legislativo lo settembre 1993, n. 385, avente sede legale in uno dei Paesi membri dell'Unione europea;
+
+                            
+                        
+                        
+                            d)
+                            
+                                "armatore" indica l'impresa italiana od estera committente dei lavori, effettuati nei cantieri nazionali, di costruzione e trasformazione delle unita' navali previste dall'articolo 2 del decreto-legge 24 dicembre 1993, n. 564, convertito dalla legge 22 febbraio 1994, n. 132;
+
+                            
+                        
+                        
+                            e)
+                            
+                                "finanziamenti" indica i finanziamenti - garantiti da ipoteca di primo grado sulla nave che ne e' oggetto, concessi da banche ad armatori italiani ed esteri per i lavori, effettuati nei cantieri nazionali, di costruzione e trasformazione delle unita' navali previste dall'articolo 2 del decreto-legge 24 dicembre 1993, n. 564, convertito dalla legge 22 febbraio 1994, n. 132 - di durata complessiva non superiore a dodici anni dall'ultimazione della nave, di importo non superiore all'80 per cento del prezzo contrattuale e ad un tasso di interesse non inferiore a quello di cui alla risoluzione del consiglio dell'OCSE del 3 agosto 1981 e successive modificazioni od a tasso di mercato, nei casi in cui il credito non sia assistito da altre agevolazioni pubbliche finalizzate a ridurre l'onere degli interessi;
+
+                            
+                        
+                        
+                            f)
+                            
+                                "tasso di riferimento" indica i1 tasso di riferimento del credito navale di cui agli articoli 1 e 4 del decreto del Ministro del tesoro del 21 dicembre 1994.
 
 ## Art. 2. — Soggetti beneficiari e misura della garanzia
 
@@ -76,6 +122,31 @@ Le banche comunicano al gestore eventuali variazioni della situazione economica,
 
 Alla banca che abbia proposto istanza giudiziale per il recupero del credito nei confronti dell'impresa inadempiente e' liquidato, su richiesta, un acconto in misura non superiore al 30 per cento dell'ammontare delle rate scadute e non pagate e del capitale residuo alla data di presentazione dell'istanza medesima.
 
+2.
+                    
+                        
+                            Alla richiesta di intervento del Fondo va allegata una dichiarazione della banca che attesti:
+ 
+                        
+                        
+                            a)
+                            
+                                la data del primo inadempimento;
+
+                            
+                        
+                        
+                            b)
+                            
+                                la data di risoluzione del contratto o della dichiarazione di decadenza dal beneficio del termine e l'importo delle rate scadute e non pagate, nonche' del capitale residuo a tale data;
+
+                            
+                        
+                        
+                            c)
+                            
+                                la data di avvio delle procedure di recupero, con informazioni sugli atti intrapresi e sullo stato delle procedure stesse e con l'indicazione delle eventuali somme gia' recuperate.
+
 ## Art. 7. — Liquidazione della perdita definitiva
 
 Ai fini della liquidazione della perdita definitiva la banca fa pervenire al gestore, entro tre mesi dall'esito delle procedure di recupero del credito, apposita richiesta, corredata di una relazione sull'attivita' di recupero svolta, con l'indicazione delle somme recuperate e delle relative date di incasso.
@@ -85,6 +156,52 @@ Il gestore ha facolta' di accordare l'anticipata liquidazione della perdita, a c
 Nel caso di conguaglio a favore del Fondo le banche restituiscono, entro un mese dalla data della richiesta del gestore, la somma dovuta, maggiorata degli interessi al tasso di riferimento vigente alla data di erogazione dell'acconto. In caso di ritardo, sulla somma da rimborsare sono dovuti interessi di mora nella misura del tasso di riferimento vigente alla data di accredito dell'acconto, aumentato del 30 per cento.
 
 ## Art. 8. — Cause di non operativita' della garanzia
+
+1.
+                    
+                        
+                            La garanzia del Fondo non e' operante nei casi in cui:
+ 
+                        
+                        
+                            a)
+                            
+                                l'inadempimento del debitore si sia verificato nei dodici mesi successivi alla data d'inizio del periodo di ammortamento del finanziamento;
+
+                            
+                        
+                        
+                            b)
+                            
+                                le banche non abbiano avviato le procedure di recupero entro dodici mesi dalla data del primo inadempimento del mutuatario;
+
+                            
+                        
+                        
+                            c)
+                            
+                                la comunicazione dell'avvio delle procedure non sia pervenuta al gestore entro tre mesi dalla data di tale operazione;
+
+                            
+                        
+                        
+                            d)
+                            
+                                sia stata concessa sulla base di dati inesatti e dichiarazioni mendaci;
+
+                            
+                        
+                        
+                            e)
+                            
+                                non sia stata versata entro il termine stabilito la commissione di cui all'articolo 9;
+
+                            
+                        
+                        
+                            f)
+                            
+                                non sia stato rispettato il termine di cui all'articolo 7, comma 1, e qualora a causare la perdita abbia concorso inosservanza, negligenza o mancato adempimento, da parte della banca, delle azioni, cautele e garanzie per il recupero del credito. In tal caso, la banca restituisce l'acconto eventualmente percepito, maggiorato di interessi nella misura del tasso di riferimento pro-tempore vigente, a decorrere dalla data di accredito dell'acconto, aumentato del 30 per cento.
 
 ## Art. 9. — Versamenti al Fondo
 

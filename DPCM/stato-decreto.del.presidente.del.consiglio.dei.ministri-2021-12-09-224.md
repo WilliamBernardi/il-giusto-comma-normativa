@@ -7,8 +7,8 @@ urn: urn:nir:stato:decreto.del.presidente.del.consiglio.dei.ministri:2021-12-09;
 vigente: true
 source: normattiva-opendata
 collection: DPCM
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:40:13Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DEL CONSIGLIO DEI MINISTRI
@@ -41,17 +41,336 @@ Ai sensi dell'articolo 5, comma 3, lettera c), del regolamento di organizzazione
 Segmenti professionali dell'Area manageriale 
  e alte professionalita'
 
+1.
+                        
+                            
+                                Nell'Area manageriale e alte professionalita' sono previsti i seguenti segmenti professionali: 
+ 
+                            
+                            
+                                a)
+                                
+                                    Direttore centrale (Principal director); 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    Direttore (Director); 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    Consigliere (Advisor); 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    Esperto (Expert).
+
 A ogni segmento professionale corrisponde un ambito di attivita' e una fascia stipendiale, articolata in piu' livelli economici.
 
 I segmenti di Direttore centrale e Direttore corrispondono al livello dirigenziale, rispettivamente, generale e non generale.
 
 ## Art. 3. — Area operativa
 
+1.
+                        
+                            
+                                Nell'Area operativa sono previsti i seguenti segmenti professionali: 
+ 
+                            
+                            
+                                a)
+                                
+                                    Coordinatore (Supervisor); 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    Assistente (Assistant).
+
 A ogni segmento professionale corrisponde un ambito di attivita' e una fascia stipendiale, articolata in piu' livelli economici.
 
 ## Art. 4. — Funzioni del personale
 
 Il personale dell'Area manageriale e alte professionalita' svolge compiti di direzione, coordinamento e controllo di Servizi generali (di seguito Servizi) e Divisioni, di consulenza per il Direttore generale, di gestione e sviluppo delle risorse umane, di organizzazione e gestione delle risorse finanziarie, logistiche e tecnologiche dell'Agenzia. Nei casi previsti dalla normativa interna, esercita i poteri di delega attribuiti e ha la rappresentanza dell'Agenzia.
+
+2.
+                        
+                            
+                                Il personale inquadrato nel segmento professionale di Direttore centrale ricopre posizioni manageriali di vertice o incarichi professionali richiedenti elevata expertise. In particolare: 
+ 
+                            
+                            
+                                a)
+                                
+                                    ricopre ordinariamente la posizione manageriale di Capo Servizio; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    svolge, di norma in qualita' di responsabile, attivita' di carattere ispettivo e di alta consulenza; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    indirizza le attivita' di ricerca, studio, programmazione e progettazione e ne verifica i risultati; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    sovrintende a progetti o processi di rilievo strategico; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    partecipa, di norma con ruoli di coordinamento, a organi collegiali, commissioni e comitati interni; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    ricopre incarichi esterni in sedi di alto livello, in ambito nazionale e internazionale; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    tiene i rapporti con gli Organi dell'Agenzia, con i vertici dei Servizi e con esponenti di vertice di partner, autorita', organismi esterni.
+
+3.
+                        
+                            
+                                Il personale inquadrato nel segmento professionale di Direttore ricopre posizioni manageriali rilevanti o incarichi professionali richiedenti rilevante expertise. In particolare: 
+ 
+                            
+                            
+                                a)
+                                
+                                    puo' ricoprire le posizioni manageriali di Vice Capo Servizio o, altresi', quella di Capo Divisione di maggiore complessita'; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    svolge, anche in qualita' di responsabile, attivita' di carattere ispettivo e di consulenza; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    coordina attivita' di ricerca, studio, programmazione e progettazione; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    sovrintende a progetti o processi di particolare rilievo, anche trasversali a piu' Servizi; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    cura i rapporti con gli altri Servizi e con esponenti di partner, autorita', organismi esterni e, all'occorrenza, con gli Organi dell'Agenzia; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    partecipa a organi collegiali, commissioni e comitati interni; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    ricopre incarichi esterni di rilievo in ambito nazionale e internazionale.
+
+4.
+                        
+                            
+                                Il personale inquadrato nel segmento professionale di Consigliere svolge funzioni richiedenti elevata specializzazione e puo' ricoprire posizioni manageriali. In particolare: 
+ 
+                            
+                            
+                                a)
+                                
+                                    puo' coprire le posizioni manageriali di Capo Divisione e di Vice Capo Divisione; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    svolge, all'occorrenza in qualita' di responsabile, attivita' di carattere ispettivo; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    svolge e coordina attivita' di ricerca, studio, programmazione e progettazione; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    cura la supervisione di processi nell'ambito del Servizio e partecipa a progetti o processi di rilievo, anche trasversali a piu' Servizi dell'Agenzia; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    cura i rapporti operativi con gli altri Servizi dell'Agenzia e con partner, autorita', organismi esterni; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    partecipa a organi collegiali, commissioni e comitati interni; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    ricopre incarichi esterni in ambito nazionale e internazionale.
+
+5.
+                        
+                            
+                                Il personale inquadrato nel segmento professionale di Esperto: 
+ 
+                            
+                            
+                                a)
+                                
+                                    svolge, all'occorrenza in qualita' di responsabile, attivita' di carattere ispettivo, di analisi, ricerca, studio, programmazione e progettazione; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    cura il coordinamento di fasi di processi nell'ambito del Servizio e partecipa a progetti o processi anche trasversali a piu' Servizi dell'Agenzia; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    tiene i rapporti operativi con le altre Divisioni del Servizio cui e' assegnato e, all'occorrenza, con gli altri Servizi dell'Agenzia e con l'utenza interna ed esterna; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    partecipa a commissioni e comitati interni. Svolge, all'occorrenza, incarichi esterni in ambito nazionale e internazionale; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    svolge incarichi connotati da particolari livelli tecnici e di professionalita' connessi alle specifiche funzioni dell'Agenzia; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    all'occorrenza puo' coprire la posizione manageriale di Vice Capo Divisione.
+
+6.
+                        
+                            
+                                Il personale dell'Area operativa inquadrato nel segmento professionale di Coordinatore svolge i compiti di carattere operativo piu' complessi, anche di portata trasversale a piu' articolazioni dell'Agenzia. In particolare: 
+ 
+                            
+                            
+                                a)
+                                
+                                    collabora ad attivita' di analisi, studio e ricerca; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    svolge incarichi operativi, anche a rilevanza esterna - ad esempio, di natura ispettiva ovvero in gruppi di lavoro - che richiedano maggiore esperienza; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    in conformita' agli indirizzi e alle istruzioni ricevuti, collabora all'organizzazione del lavoro delle articolazioni dell'Agenzia sovrintendendo alle relative lavorazioni; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    svolge compiti di coordinamento all'interno delle articolazioni dell'Agenzia, eventualmente assumendo la responsabilita' di processi di lavoro o di sue fasi; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    puo' essere destinatario di specifiche deleghe al compimento di singoli atti ovvero al coordinamento di specifici settori lavorativi.
+
+7.
+                        
+                            
+                                Il personale dell'Area operativa inquadrato nel segmento professionale di Assistente svolge i compiti di carattere operativo relativi alle attivita' delle articolazioni dell'Agenzia cui e' addetto e le connesse attivita' strumentali e di supporto. In particolare: 
+ 
+                            
+                            
+                                a)
+                                
+                                    svolge - secondo le direttive del Capo Servizio o del Capo Divisione e in collaborazione subordinata con gli elementi dell'Area manageriale e alte professionalita' e il personale appartenente al segmento dei Coordinatori - le mansioni amministrative, contabili, informatiche e tecniche e i compiti esecutivi di supporto al funzionamento del Servizio e delle articolazioni dell'Agenzia; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    supporta attivita' di analisi, studio e ricerca; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    puo' essere destinatario di incarichi - anche ispettivi - di ambito limitato e di specifiche deleghe al compimento di singoli atti.
 
 Le posizioni associate a ciascun segmento possono essere coperte anche dal personale inquadrato nei segmenti superiori, in relazione alla loro complessita'.
 
@@ -136,6 +455,38 @@ Il dipendente e' tenuto ad osservare il segreto nei termini di cui all'articolo 
 
 Nell'assolvimento dei propri compiti, il dipendente e', inoltre, tenuto a osservare le misure disposte dall'Agenzia in materia di igiene e sicurezza sul lavoro di cui e' destinatario, nonche' a promuoverne la conoscenza e a vigilare sulla corretta applicazione delle misure anzidette da parte degli altri dipendenti.
 
+4.
+                        
+                            
+                                Il dipendente deve inoltre: 
+ 
+                            
+                            
+                                a)
+                                
+                                    coadiuvare e supplire altri dipendenti quando ne ricorra l'esigenza e svolgere temporaneamente, senza diritto a speciali compensi, mansioni diverse, anche di maggiore importanza rispetto a quelle normalmente svolte; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    comunicare ogni mutamento di residenza e domicilio, nonche' il recapito, ove possano essergli, ad ogni effetto, indirizzate comunicazioni d'ufficio; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    dare notizia all'Agenzia di giudizi ed azioni che intenda eventualmente promuovere nei confronti di terzi, o che siano promossi da parte di terzi nei suoi confronti, in correlazione a fatti attinenti al servizio; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    dare comunicazione all'Agenzia degli interessi economico-finanziari e non, propri, del coniuge, di conviventi, di parenti entro il 3° grado o affini entro il 2°, comunque coinvolti nell'attivita' o nelle decisioni inerenti all'ufficio, allorquando siano suscettibili di determinare situazioni di conflitto anche solo apparente. Inoltre, con riferimento alle medesime situazioni, nello svolgimento delle proprie funzioni il dipendente si astiene dall'assumere o dal concorrere ad assumere decisioni, nonche' dal compiere atti al riguardo.
+
 I compensi e rimborsi di spesa corrisposti dallo Stato o da altri enti o soggetti ai dipendenti dell'Agenzia per prestazioni rese in tale qualita', su incarico, su designazione o su autorizzazione dell'Agenzia, devono essere riversati alla stessa o incamerati direttamente da questa, salvo fattispecie particolari valutate dal Direttore generale.
 
 ## Art. 15. — Obblighi particolari
@@ -166,6 +517,66 @@ Per i prodotti dell'ingegno e le invenzioni del personale di cui all'articolo 12
 La mancata osservanza delle disposizioni di cui al presente articolo e ai disciplinari di cui ai commi 6 e 7 costituisce grave mancanza, che potra' essere valutata anche ai fini disciplinari ai sensi e per gli effetti di cui agli articoli 65 e seguenti, nonche' ai fini civili e penali.
 
 ## Art. 17. — Divieti
+
+1.
+                        
+                            
+                                Al personale e' vietato di: 
+ 
+                            
+                            
+                                a)
+                                
+                                    trarre vantaggio, in qualsiasi forma, dalla trattazione o dalla conoscenza di informazioni di competenza dell'Agenzia, acquisite in virtu' del ruolo ivi ricoperto; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    svolgere attivita' comunque contraria agli interessi dell'Agenzia o comunque incompatibile con i doveri d'ufficio; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    avvalersi comunque di mezzi o strumenti di lavoro al di fuori delle esigenze di servizio o comunque delle specifiche prescrizioni impartite; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    allontanarsi dal posto di lavoro senza autorizzazione; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    svolgere comunque attivita' lavorativa subordinata od autonoma, sia pure occasionalmente, ovvero in periodi nei quali non presti effettivo servizio. E' tuttavia consentita l'assunzione delle cariche ricoperte nell'interesse dell'Agenzia, previa approvazione del Direttore generale; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    accettare cariche o incarichi di carattere continuativo, di iniziare attivita', sia pure a titolo gratuito, senza darne preventiva segnalazione all'Agenzia, nei casi previsti; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    presentare istanze o reclami, se non per il tramite dei Capi dei Servizi ovvero nelle altre forme stabilite dall'Agenzia; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    intrattenere, laddove non espressamente autorizzati, rapporti con i media in relazione ad attivita', fatti ed eventi di competenza dell'Agenzia, ivi inclusi, in particolare, gli eventi e incidenti di cybersicurezza e le situazioni di crisi.
 
 Fermi restando gli obblighi di cui all'articolo 14, al personale dipendente, o che presta comunque la propria opera in favore dell'Agenzia, e' fatto divieto di esprimere posizioni in nome e/o per conto dell'Agenzia laddove non espressamente autorizzato per iscritto.
 
@@ -220,6 +631,24 @@ Compatibilmente con le esigenze di servizio, il dipendente puo' ridurre fino a 3
 
 ## Art. 22. — Presidio delle esigenze operative
 
+1.
+                        
+                            
+                                Al fine di assicurare il presidio di specifiche esigenze operative e con riferimento al personale strettamente necessario a tal fine, fatte salve diverse disposizioni adottate dal Direttore generale, il Capo Servizio, ferma restando la fruizione delle flessibilita' compatibili con le misure di presidio, puo' disporre: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la presenza in servizio del dipendente entro una certa ora in ingresso o fino a una certa ora in uscita, nei limiti della fascia di flessibilita' in ingresso e della durata della prestazione minima giornaliera; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la collocazione dell'intervallo nei limiti dell'arco orario 12.40-14.40 e la sua durata nella misura prevista per il Servizio di appartenenza.
+
 Nel disporre le misure di presidio, sono osservati criteri di rotazione tra il personale interessato.
 
 ## Art. 23.
@@ -248,11 +677,83 @@ Al personale chiamato a prestare la propria attivita' lavorativa in sfalsamento 
 
 La banca delle ore e' alimentata, su richiesta del dipendente, con le prime 75 ore di prestazioni eccedenti il normale orario di lavoro settimanale rese, nell'arco 6.00 - 22.00, dal lunedi' al venerdi'.
 
+2.
+                        
+                            
+                                Le ore versate nella banca delle ore sono utilizzate: 
+ 
+                            
+                            
+                                a)
+                                
+                                    sotto forma di giornate di congedo o di permessi di durata fino a cinque ore giornaliere (tre ore in occasione di semifestivita'), da fruire entro il mese di gennaio dell'anno successivo a quello di maturazione; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    su richiesta del dipendente, per compensare eventuali deficit di prestazione risultanti a fine mese che diano luogo a trattenuta retributiva.
+
 Alla scadenza del mese di gennaio dell'anno successivo a quello di maturazione le ore non fruite, salvo che il dipendente chieda di alimentare la banca del tempo, sono considerate, per l'Area manageriale alte professionalita', ai fini del calcolo del premio di presenza di cui all'articolo 101 e, per l'Area operativa, danno luogo al riconoscimento del compenso per lavoro straordinario di cui all'articolo 107.
 
 ## Art. 26. — Banca del tempo
 
 La banca del tempo e' una dotazione di ore utilizzabile a integrazione dei congedi spettanti, nonche', a partire dal 62° anno d'eta', in accompagnamento all'uscita.
+
+2.
+                        
+                            
+                                La banca del tempo e' alimentata, nel limite massimo di 3300 ore: 
+ 
+                            
+                            
+                                a)
+                                
+                                    con il congedo ordinario maturato annualmente in eccedenza ai 20 giorni di cui all'articolo 10 del decreto legislativo 8 aprile 2003, n. 66, ove non fruiti nei termini previsti; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    su richiesta del dipendente, entro il limite massimo di 200 ore annue, con le prestazioni eccedenti l'orario settimanale di lavoro rese, nell'arco 6.00 - 22.00 delle giornate feriali e feriali non lavorative, comprese quelle accantonate nella banca delle ore e non fruite allo scadere del termine previsto.
+
+3.
+                        
+                            
+                                La banca del tempo puo' essere utilizzata, a giornate intere, a integrazione dei congedi spettanti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    nei limiti di 10 giorni l'anno, previo esaurimento del congedo ordinario e della banca delle ore; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    nei limiti di 10 giorni, quale congedo di paternita', da fruire entro 5 mesi dalla nascita, adozione o affidamento di un figlio.
+
+4.
+                        
+                            
+                                A partire dal 62° anno d'eta', la banca del tempo puo' essere utilizzata in accompagnamento all'uscita: 
+ 
+                            
+                            
+                                a)
+                                
+                                    a giornate intere, previo esaurimento del congedo ordinario e della banca delle ore; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    in forma oraria o a giornate intere, per modulare diversamente la propria prestazione lavorativa giornaliera e settimanale, secondo modalita' da concordare con l'Agenzia.
 
 Le ore accantonate nella banca del tempo non vengono monetizzate, nemmeno al momento della cessazione dal servizio. Nei soli casi di morte e di cessazione per inidoneita' fisica permanente e assoluta, a fronte di eventuali ore residue, e' riconosciuta un'indennita' calcolata secondo i criteri di cui all'articolo 110 e sulla base dell'inquadramento dell'interessato all'atto della cessazione.
 
@@ -268,6 +769,24 @@ Per il trattamento normativo, economico e previdenziale dei rapporti di lavoro a
 
 Il lavoro delocalizzato prevede lo svolgimento della prestazione ordinaria al di fuori dei locali di lavoro, con la fornitura degli ordinari strumenti (PC portatile) da parte dell'Agenzia, al massimo per una giornata a settimana (eventualmente divisibile in 2 mezze giornate). La durata della prestazione lavorativa e' determinata secondo il criterio di cui all'articolo 19, comma 4.
 
+2.
+                        
+                            
+                                Il lavoro delocalizzato e' autorizzato, previa valutazione di compatibilita' con le esigenze di servizio, tenuto conto delle funzioni connesse alla tutela della sicurezza nazionale nello spazio cibernetico dell'Agenzia, per lo svolgimento di attivita', ordinariamente svolte dal dipendente, che presentino i seguenti requisiti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    assenza di interdipendenze con processi operativi che comportano la presenza sul posto di lavoro; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    contenuto valutabile sul piano dei risultati.
+
 Il lavoro a distanza non puo' determinare prestazioni supplementari o straordinarie.
 
 ## Art. 29.
@@ -276,11 +795,47 @@ Reperibilita'
 
 Il personale per il quale sia stabilito - con formale comunicazione, di norma del Capo Servizio di appartenenza - un obbligo di pronta reperibilita' e' tenuto a fornire in via preventiva ogni indicazione utile per essere immediatamente rintracciabile mediante comunicazione telefonica o altro mezzo, nonche', in caso di chiamata, a raggiungere tempestivamente il luogo dell'intervento, ovvero, ove ne ricorrano i presupposti, ad intervenire tempestivamente in remoto.
 
+2.
+                        
+                            
+                                Salvo diversa determinazione del Capo Servizio, il turno di reperibilita' e' compreso: 
+ 
+                            
+                            
+                                a)
+                                
+                                    in giorno lavorativo, tra il termine del normale orario di lavoro e le ore 8.00 del giorno successivo; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    in giorno festivo, feriale non lavorativo e di riposo settimanale, tra le ore 8.00 del giorno medesimo e le ore 8.00 del giorno successivo.
+
 Per ogni turno di reperibilita' spetta il compenso di cui all'articolo 108, lettera d).
 
 ## Art. 30. — Riposo giornaliero
 
 Il dipendente ha diritto a undici ore di riposo consecutivo ogni ventiquattro ore.
+
+2.
+                        
+                            
+                                In deroga a quanto previsto dal comma precedente il dipendente puo' fruire di un riposo giornaliero inferiore alle 11 ore consecutive ogni ventiquattro, nelle seguenti ipotesi: 
+ 
+                            
+                            
+                                a)
+                                
+                                    cambio turno; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    casi eccezionali in cui il personale, per esigenze non rinviabili, fornisca una prestazione, superiore alla minima giornaliera, tale da incidere sul riposo giornaliero (ad esempio, esigenze relative alla gestione di incidenti di sicurezza informatica e situazioni di crisi che coinvolgano aspetti di cybersicurezza, in occasione di lavorazioni urgenti, etc.).
 
 Nelle ipotesi sopra indicate al dipendente e' accordato un riposo compensativo di durata pari alla parte di riposo giornaliero non goduta, da fruire nel piu' breve tempo possibile.
 
@@ -314,6 +869,27 @@ Sono considerate giornate feriali non lavorative le giornate in cui il personale
 
 ## Art. 33. — Congedo ordinario
 
+1.
+                        
+                            
+                                Nel corso di ogni anno solare i dipendenti hanno titolo a un periodo di congedo nelle misure seguenti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    durante l'anno solare in cui e' avvenuta l'assunzione 2 giorni lavorativi per ogni mese intercorrente tra la data di ammissione in servizio ed il 31 dicembre fino ad un massimale annuo di 23 giorni; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    per gli anni successivi: 
+ 1) 23 giorni lavorativi, per anzianita' di servizio fino a 4 anni; 
+ 2) 26 giorni lavorativi, per anzianita' di servizio oltre i 4 anni e fino a 12 anni; 
+ 3) 30 giorni lavorativi, per anzianita' di servizio oltre i 12 anni.
+
 Ai fini del computo dell'anzianita' di servizio si fa riferimento alla data di assunzione presso l'Agenzia. Sono esclusi dal computo stesso i periodi di aspettativa per motivi particolari e di sospensione dal servizio e dalla retribuzione nonche' ogni anzianita' convenzionale anche se utile per il trattamento di quiescenza.
 
 I dipendenti acquisiscono titolo al congedo di 26 o di 30 giorni a partire dall'anno nel corso del quale maturano la relativa anzianita' di servizio.
@@ -335,6 +911,38 @@ Ai fini del calcolo di cui ai commi 1 e 8 del presente articolo le frazioni di m
 In caso di semifestivita', l'utilizzo del congedo ordinario e' correlato alla ridotta durata della prestazione giornaliera.
 
 ## Art. 34. — Congedo straordinario retribuito - Permessi
+
+1.
+                        
+                            
+                                Indipendentemente dal godimento del congedo ordinario annuale, al personale sono riconosciuti i seguenti periodi di congedo straordinario retribuito: 
+ 
+                            
+                            
+                                a)
+                                
+                                    fino a 10 giorni di calendario complessivi nell'arco di un anno solare per giustificati motivi personali o familiari; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    15 giorni continuativi di calendario in occasione di matrimonio; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    i giorni di calendario per cure secondo quanto stabilito dalle disposizioni di legge e di servizio; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    i giorni strettamente occorrenti per comparire in giudizio come testimone, per rispondere a chiamate delle pubbliche autorita' e per l'esercizio del diritto di voto nelle elezioni politiche, amministrative, per il Parlamento europeo e nei referendum popolari di cui alla legge 25 maggio 1970, n. 352, per osservare periodi di allontanamento in relazione a malattie infettive di familiari, per partecipare a concorsi banditi dall'Agenzia, per donazione di sangue, per donazione di midollo osseo e di cellule staminali, nonche' per tutti quegli altri casi per i quali siano emanate dall'Agenzia speciali disposizioni.
 
 Ove il soddisfacimento delle esigenze rappresentate non richieda un'assenza dal servizio per l'intera giornata, il dipendente puo' fruire di permessi orari retribuiti - di durata compresa tra una e cinque ore giornaliere (tre ore in occasione di semifestivita') - entro il limite annuo di tre giornate (22 ore e 30 minuti) a valere sul congedo straordinario di cui alla lettera a) del presente articolo. Nel caso di documentate malattie di lunga durata o con decorso cronico che richiedano trattamenti terapeutici continuativi o periodici presso strutture sanitarie, il dipendente puo' fruire, sempre a valere sul congedo straordinario di cui alla lettera a) del presente articolo, fino ad un massimo di cinque giornate (37 ore e 30 minuti) all'anno di congedo straordinario retribuito frazionabili in permessi orari di durata compresa tra una e cinque ore giornaliere (tre ore in occasione di semifestivita'). In ogni caso, i permessi orari a valere sul congedo straordinario di cui al comma 1, lettera a), non potranno eccedere, quale che sia la causale di concessione, le cinque giornate all'anno.
 
@@ -397,6 +1005,24 @@ Ai fini del computo dei 90 giorni si sommano tutti i periodi di assenza per mala
 
 L'aspettativa - che ha inizio dal giorno successivo a quello di maturazione dei predetti 90 giorni di assenza - ha termine col cessare della causa per la quale fu disposta e, comunque, non puo' protrarsi per un periodo superiore a due anni.
 
+4.
+                        
+                            
+                                Durante l'aspettativa per motivi di salute il dipendente ha titolo alla retribuzione nella misura integrale: 
+ 
+                            
+                            
+                                a)
+                                
+                                    per i primi 12 mesi se ha anzianita' fino a 15 anni; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    per i primi 18 mesi se ha anzianita' superiore a 15 anni.
+
 Ai fini del computo di cui sopra sono da comprendere le anzianita' convenzionali riconosciute e i periodi di servizio riscattati per il trattamento di quiescenza, ad eccezione dell'anzianita' di laurea.
 
 Il prolungamento del periodo di conservazione della retribuzione nella misura integrale compete anche al dipendente che maturi l'anzianita' occorrente mentre si trova nello stato di aspettativa.
@@ -442,6 +1068,49 @@ Durante i congedi di maternita' e di paternita', la retribuzione e' corrisposta 
 
 Il congedo parentale di legge puo' essere fruito frazionatamente a ore fino a un massimo di due mesi.
 
+3.
+                        
+                            
+                                Durante il congedo parentale la retribuzione e' corrisposta nelle seguenti misure: 
+ 
+                            
+                            
+                                a)
+                                
+                                    70% per i primi trenta giorni di assenza; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    50% per i successivi quaranta giorni; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    30% per il restante periodo.
+
+4.
+                        
+                            
+                                In caso di malattia dei figli, ciascun genitore ha titolo annualmente: 
+ 
+                            
+                            
+                                a)
+                                
+                                    alla retribuzione nella misura del 50% per i primi 10 giorni di congedo, per figli di eta' non superiore a tre anni; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    a 10 giorni di congedo non retribuito, per figli di eta' compresa tra i tre e gli otto anni.
+
 ## Art. 45. — Aspettativa per assunzione di impieghi
 
 Quando cio' sia riconosciuto d'interesse dell'Agenzia, con provvedimento del Direttore generale i dipendenti possono essere autorizzati ad assumere un impiego presso amministrazioni, autorita' ed enti pubblici in Italia ovvero all'estero.
@@ -486,6 +1155,38 @@ Non sono computabili ai fini indicati al comma 1 i periodi di aspettativa per mo
 
 L'Agenzia programma annualmente un'offerta di iniziative per l'inserimento, la formazione e lo sviluppo professionale del personale. L'offerta formativa assicura il potenziamento qualitativo del personale sia in termini di conoscenze specialistiche che di capacita' comportamentali e manageriali per consentire a ciascuno di assolvere al meglio alle responsabilita' e ai compiti affidati o attribuibili ai sensi della presente normativa. Ciascun dipendente, utilizzando le opportunita' offerte dalla formazione, e' parte attiva del proprio sviluppo professionale per assicurare un impiego proficuo all'interno dell'organizzazione lungo tutta la vita lavorativa.
 
+2.
+                        
+                            
+                                I Capi dei Servizi e delle Divisioni dell'Agenzia hanno la responsabilita' dello sviluppo e dell'aggiornamento professionale del personale e intraprendono le iniziative necessarie nei confronti dei singoli addetti. A tal fine: 
+ 
+                            
+                            
+                                a)
+                                
+                                    contribuiscono alla definizione dell'offerta formativa annuale dell'Agenzia, individuando le priorita' di intervento correlate alle innovazioni e ai cambiamenti organizzativi, e svolgono un'azione di impulso e monitoraggio sulla crescita professionale del personale addetto agli stessi; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    con cadenza annuale, definiscono d'intesa con ciascun addetto le iniziative di sviluppo nel quadro di percorsi di crescita professionale delle persone, tenendo anche conto delle indicazioni rinvenienti dal sistema di feedback; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    curano l'ampliamento delle competenze delle persone per favorire lo sviluppo di professionalita' integrate, anche promuovendo la rotazione del personale tra le unita', laddove funzionale alle esigenze istituzionali dell'Agenzia; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    favoriscono nei propri collaboratori l'acquisizione di una visione d'insieme sull'evoluzione delle funzioni dell'Agenzia, anche attraverso riunioni periodiche del personale addetto per l'analisi dei principali sviluppi delle attivita' svolte, e promuovono l'utilizzo del lavoro di gruppo per lo studio dei problemi evolutivi, operativi e applicativi delle funzioni disimpegnate dai medesimi Servizi e Divisioni.
+
 ## - Titolo VII Sistema di valutazione
 
 ## Art. 50. — Sistema di valutazione
@@ -526,6 +1227,24 @@ Annualmente i Capi dei Servizi e delle Divisioni, nei limiti e secondo le modali
 
 Il sistema di avanzamento si articola in passaggi di segmento professionale e di livello economico.
 
+2.
+                        
+                            
+                                Il passaggio al segmento professionale superiore a quello di inquadramento nell'Area manageriale e alte professionalita' richiede il possesso dei requisiti individuati al presente articolo: 
+ 
+                            
+                            
+                                a)
+                                
+                                    da Esperto a Consigliere: almeno il livello 3, ovvero la permanenza di 5 anni nel segmento di Esperto; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    da Consigliere a Direttore: almeno il livello 7, con almeno 3 livelli maturati nel segmento di Consigliere.
+
 Nell'Area operativa il passaggio al segmento professionale di Coordinatore richiede almeno il livello 5 nel segmento di Assistente.
 La progressione all'interno del segmento professionale di inquadramento avviene mediante l'attribuzione del livello economico immediatamente superiore a quello posseduto.
 
@@ -535,7 +1254,49 @@ Il dipendente non e' esaminabile per alcun avanzamento nell'anno successivo a qu
 
 ## Art. 55. — Passaggi di livello economico
 
+1.
+                        
+                            
+                                L'attribuzione del livello economico superiore riconosce l'incremento stabile di qualificazione professionale raggiunto dal dipendente sulla base della complessiva performance, apprezzata in chiave comparativa all'interno del Servizio d'appartenenza, come risulta: 
+ 
+                            
+                            
+                                a)
+                                
+                                    per il personale dell'Area manageriale e alte professionalita': 
+ 1) dal grado di raggiungimento degli obiettivi assegnati, tenuto anche conto della loro complessita'; 
+ 2) dal livello di competenze dimostrato nello svolgimento degli incarichi affidati; 
+ 3) dai feedback resi da altri soggetti; 
+ 4) dal contributo complessivo fornito al Servizio d'appartenenza; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    per il personale dell'Area operativa: 
+ 1) dal contributo complessivo fornito al Servizio d'appartenenza; 
+ 2) dal livello di competenze dimostrato nello svolgimento delle attivita' assegnate.
+
 I dipendenti inquadrati nei segmenti professionali di Direttore centrale e Direttore, dopo un anno di permanenza nel livello, possono conseguire il passaggio al livello economico successivo in presenza di una performance particolarmente positiva.
+
+3.
+                        
+                            
+                                I dipendenti inquadrati nei segmenti professionali di Consigliere, di Esperto, Coordinatore e Assistente possono conseguire il passaggio di livello economico in tempi compresi tra 1 e 3 anni di permanenza nel livello. In particolare, il livello economico puo' essere attribuito: 
+ 
+                            
+                            
+                                a)
+                                
+                                    al primo anno, in presenza di performance di particolare rilievo; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    al secondo anno, in presenza di una performance positiva nel biennio.
 
 Al terzo anno di permanenza, il livello economico viene attribuito ai dipendenti inquadrati nei segmenti professionali di Consigliere e di Esperto che non hanno conseguito progressioni nel biennio precedente, purche' nell'anno abbiano raggiunto almeno una parte degli obiettivi assegnati; e' altresi' attribuito ai dipendenti dei segmenti di Coordinatore e Assistente ove abbiano reso un contributo almeno sufficiente al Servizio di appartenenza.
 
@@ -562,6 +1323,24 @@ Il passaggio al segmento professionale superiore riconosce il possesso della qua
 
 I passaggi al segmento professionale di Direttore centrale sono disposti a scelta per merito dal Direttore generale sulla base della valutazione dell'attivita' lavorativa del dipendente, effettuata secondo modalita' e criteri predeterminati dal Direttore generale.
 
+3.
+                        
+                            
+                                Per il passaggio al segmento di Consigliere e di Direttore la verifica e' effettuata, nei confronti di coloro i quali avanzino la propria candidatura, dal Comitato di cui all'articolo 58, comma 2, secondo criteri omogenei per l'intera Agenzia, predeterminati dal Direttore generale e comunicati agli interessati, valutando i singoli in comparazione con gli altri elementi inquadrati nel segmento. La verifica e' effettuata sulla base: 
+ 
+                            
+                            
+                                a)
+                                
+                                    della storia professionale maturata nel segmento di provenienza; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    del possesso delle caratteristiche necessarie per l'esercizio dei ruoli manageriali/professionali propri del segmento professionale superiore.
+
 La copertura di una posizione organizzativa riferibile al personale del segmento superiore e' considerata, insieme al complessivo profilo professionale del dipendente, nell'ambito della prima verifica per il passaggio di segmento successiva all'assunzione dell'incarico.
 
 Per il passaggio al segmento di Coordinatore la verifica e' effettuata dalla Commissione di cui all'articolo 58, comma 3, mediante una prova orale, sostenibile a domanda, intesa ad accertare il possesso delle cognizioni e dei requisiti tecnico-professionali propri del segmento di Coordinatore con riferimento alle funzioni e all'organizzazione dell'Agenzia.
@@ -575,6 +1354,24 @@ I passaggi ai segmenti professionali di Direttore e di Consigliere sono disposti
 I passaggi al segmento professionale di Coordinatore sono disposti dal Direttore generale sulla base della graduatoria di merito redatta da una Commissione nominata dal Direttore generale e composta da dipendenti appartenenti all'Area manageriale e alte professionalita'. Ai componenti della Commissione non spettano compensi, gettoni di presenza, rimborsi spese, indennita' o altri emolumenti comunque denominati.
 
 ## Art. 59. — Rientro da periodi di aspettativa
+
+1.
+                        
+                            
+                                All'atto del rientro in servizio del personale in aspettativa per assunzione di impieghi, l'Agenzia: 
+ 
+                            
+                            
+                                a)
+                                
+                                    opera la ricostruzione di carriera, riconoscendo un passaggio di livello economico per ogni due anni, di cui almeno uno trascorso in aspettativa. A fronte di performance particolarmente significative, l'Agenzia puo' attribuire un livello aggiuntivo per ogni 3 anni, di cui almeno due trascorsi in aspettativa; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    valuta l'esperienza acquisita nella posizione ricoperta, anche ai fini dell'eventuale passaggio al segmento professionale superiore.
 
 Gli anni di aspettativa per assunzione di impieghi per i quali sia stata disposta la ricostruzione di carriera non sono considerati ai fini della permanenza nel livello per gli effetti di cui all'articolo 55.
 
@@ -635,6 +1432,63 @@ Tale periodo e' computato per intero ai fini degli avanzamenti.
 
 ## Art. 65. — Sanzioni disciplinari
 
+1.
+                        
+                            
+                                Per violazione dei suoi doveri, il dipendente e' soggetto alle seguenti sanzioni disciplinari: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la censura (rimprovero scritto); 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la riduzione della retribuzione; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    la sospensione dal servizio e dalla retribuzione fino a sei mesi; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    la sospensione dal servizio e dalla retribuzione da sei mesi ad un anno; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    la destituzione.
+
+2.
+                        
+                            
+                                Al dipendente che, per la prima volta nel corso di un biennio, si astenga dal lavoro in violazione delle previsioni della legge 12 giugno 1990, n. 146, e della disciplina di attuazione definita congiuntamente alle rappresentanze del personale, anche tenuto conto delle funzioni volte alla tutela della sicurezza nazionale nello spazio cibernetico attribuite all'Agenzia, e' inflitta la sanzione disciplinare della multa. Tale sanzione e' pari: 
+ 
+                            
+                            
+                                a)
+                                
+                                    a quattro ore di retribuzione, per adesione a uno sciopero proclamato senza regolare preavviso o senza indicazione della durata o delle modalita' di attuazione o delle motivazioni; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    all'intero trattamento economico giornaliero, in tutti gli altri casi.
+
 Per le successive violazioni delle previsioni di cui al precedente comma commesse nel corso del biennio trova applicazione il sistema di sanzioni di cui al comma 1, ad eccezione della destituzione.
 
 L'irrogazione della multa di cui al comma 2 non produce gli effetti normativi collegati alle altre sanzioni disciplinari e non assume rilievo ai fini dell'istituto della recidiva di cui all'articolo 72.
@@ -647,15 +1501,110 @@ La censura (rimprovero scritto), consistente in una dichiarazione di biasimo scr
 
 ## Art. 67. — Riduzione della retribuzione
 
+1.
+                        
+                            
+                                La riduzione della retribuzione e' inflitta per: 
+ 
+                            
+                            
+                                a)
+                                
+                                    violazione dei doveri di cui al comma 1 dell'articolo 14; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    tolleranza di irregolarita' in servizio, atti di indisciplina, contegno scorretto o abusi da parte del personale dipendente; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    violazione del segreto d'ufficio anche se non ne sia derivato danno all'Agenzia o a terzi; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    non aver adempiuto con regolarita' alle obbligazioni assunte; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    inosservanza di divieti o per violazioni di obblighi sanciti dalla presente disciplina per i quali non siano previste specifiche sanzioni disciplinari o che, in relazione al grado di gravita', non siano passibili di diversa sanzione a norma dei successivi articoli del presente Titolo.
+
 La riduzione della retribuzione e' inflitta, in misura non superiore a un quinto del trattamento economico, per un periodo massimo di sei mesi.
 
 ## Art. 68. — Sospensione dal servizio 
  e dalla retribuzione fino a sei mesi
 
+1.
+                        
+                            
+                                La sospensione dal servizio e dalla retribuzione fino a sei mesi e' inflitta: 
+ 
+                            
+                            
+                                a)
+                                
+                                    per maggiore gravita' dei fatti punibili con la sanzione della riduzione della retribuzione; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    per abuso di autorita' o di fiducia; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    per atti di insubordinazione; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    per denigrazione dell'Agenzia o dei dipendenti; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    per omessa segnalazione all'Agenzia di fatti illeciti concernenti l'Agenzia e di cui il dipendente venga a conoscenza in relazione alle mansioni espletate; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    per inosservanza di divieti o per violazione dei doveri che abbiano arrecato danno all'Agenzia o ne abbiano compromesso gli interessi, anche non patrimoniali.
+
 Il periodo di sospensione e' dedotto dal computo dell'anzianita' di servizio. L'anno nel quale e' irrogata la sanzione non e' considerato ai fini della permanenza nel livello e nel segmento, con gli effetti di cui all'articolo 54.
 
 ## Art. 69. — Sospensione dal servizio e dalla retribuzione 
  oltre sei mesi e fino a un anno
+
+1.
+                        
+                            
+                                La sospensione dal servizio e dalla retribuzione oltre sei mesi e fino a un anno e' inflitta per maggiore gravita' dei fatti, punibili con la sospensione dal servizio e dalla retribuzione fino a sei mesi, indicati dall'articolo 68, comma 1, lettere da 
+                            
+                            
+                                a)
+                                
+                                    a f).
 
 La sospensione dal servizio e dalla retribuzione oltre sei mesi e fino a un anno, oltre alle conseguenze previste dall'articolo 68, comma 2, puo' comportare l'assegnazione ad altre unita' operative.
 
@@ -666,6 +1615,73 @@ Per il dipendente al quale sia stata inflitta detta sanzione, la non esaminabili
 Al dipendente sospeso dal servizio e dalla retribuzione e' concesso un assegno alimentare in misura non inferiore a un quarto e non superiore alla meta' del trattamento economico, esclusi i compensi e le indennita' che presuppongono l'effettiva prestazione del servizio o il disimpegno di particolari funzioni o mansioni. Per il personale deceduto, l'assegno alimentare viene attribuito per l'intero mese in cui e' avvenuto il decesso.
 
 ## Art. 71. — Destituzione
+
+1.
+                        
+                            
+                                La destituzione e' inflitta per: 
+ 
+                            
+                            
+                                a)
+                                
+                                    particolare gravita' dei fatti punibili con la riduzione della retribuzione o la sospensione dal servizio e dalla retribuzione; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    atti che rivelino mancanza dell'onore e del senso morale; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    violazione del segreto d'ufficio o dei segreti delle lavorazioni che abbia portato grave pregiudizio all'Agenzia; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    gravi casi di distrazione o di arbitrario uso, a fini di lucro o di vantaggio proprio o altrui, di somme, valori o cose di proprieta' dell'Agenzia o da questa detenuti o ad essa destinati, ovvero per connivente tolleranza di tali abusi commessi da dipendenti; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    richiesta o accettazione di compensi o benefici in relazione a lavori eseguiti o da eseguire o ad affari trattati per ragioni di ufficio, o nei quali il dipendente abbia potuto intromettersi valendosi della propria condizione, ovvero per procacciamento o promessa di indebiti benefici a terzi in relazione ad affari dell'Agenzia; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    grave abuso di autorita' o fiducia; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    gravi atti di insubordinazione accompagnati da violenza o commessi pubblicamente ovvero per incitamento all'insubordinazione; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    condanna penale passata in giudicato e subita per reati commessi anche precedentemente all'assunzione che rendano incompatibile la permanenza del dipendente in servizio; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    mancata ottemperanza, entro il termine di 15 giorni, alla diffida dell'Agenzia a far cessare la situazione di incompatibilita' di cui all'articolo 17, lettera f).
 
 ## Art. 72. — Recidiva
 
@@ -735,6 +1751,38 @@ Alle riunioni della Commissione interviene il responsabile della funzione affari
 
 Non possono essere nominati membri della Commissione dipendenti che siano o siano stati tra loro coniugi ovvero siano tra loro parenti o affini di primo e secondo grado.
 
+7.
+                        
+                            
+                                Non possono partecipare alle sedute della Commissione i componenti che: 
+ 
+                            
+                            
+                                a)
+                                
+                                    si trovino, con il dipendente sottoposto a procedimento, nei rapporti di cui al comma precedente; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    siano creditori o debitori del dipendente sottoposto a procedimento ovvero del coniuge o dei suoi figli; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    siano essi o i loro congiunti di cui al comma precedente gli offesi dall'infrazione disciplinare; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    siano addetti al medesimo Servizio di appartenenza del dipendente sottoposto a procedimento disciplinare.
+
 L'essere sottoposto a procedimento disciplinare costituisce causa di decadenza dalla carica di membro effettivo o supplente della Commissione.
 
 La Commissione e' validamente costituita con la presenza di tutti i componenti; essa delibera a maggioranza assoluta, con il voto di tutti i componenti, e secondo le modalita' procedurali stabilite dal Presidente.
@@ -794,6 +1842,52 @@ La medesima disposizione si applica al dipendente sospeso cautelarmente perche' 
 
 ## Art. 84. — Cause estintive del rapporto d'impiego
 
+1.
+                        
+                            
+                                Il rapporto d'impiego dei dipendenti dell'Agenzia, oltre che per le cause indicate nei Titoli precedenti, si estingue per: 
+ 
+                            
+                            
+                                a)
+                                
+                                    collocamento a riposo d'ufficio; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    dimissioni volontarie; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    inabilita' riconosciuta a domanda; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    dispensa dal servizio; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    dimissioni d'ufficio; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    interdizione perpetua dai pubblici uffici.
+
 ## Art. 85. — Collocamento a riposo d'ufficio
 
 Salvo diverse disposizioni di legge, il dipendente e' collocato a riposo d'ufficio al raggiungimento del requisito anagrafico previsto dalla legge per la pensione di vecchiaia.
@@ -816,9 +1910,66 @@ L'accertamento delle condizioni di salute e' effettuato nei modi previsti dall'a
 
 ## Art. 88. — Dispensa dal servizio
 
+1.
+                        
+                            
+                                E' dispensato dal servizio il dipendente che: 
+ 
+                            
+                            
+                                a)
+                                
+                                    trascorso il termine massimo di cui all'articolo 40, comma 3, riguardante l'aspettativa per motivi di salute, non sia riconosciuto idoneo a riprendere servizio sulla base degli accertamenti sanitari disposti ai sensi dell'articolo 41. Ove l'inidoneita' a riprendere servizio dipenda da una patologia diversa da quella precedentemente certificata, il provvedimento di dispensa dal servizio e' sospeso fino ad un massimo di 20 giorni, termine entro il quale il dipendente deve avanzare formale istanza di riammissione in servizio. La riammissione avviene nel rispetto delle modalita' previste dalla normativa vigente in materia; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    abbia ricevuto il giudizio di insufficienza negli ultimi tre anni.
+
 La dispensa dal servizio e' disposta dal Direttore generale.
 
 ## Art. 89. — Dimissioni d'ufficio
+
+1.
+                        
+                            
+                                E' dichiarato dimissionario d'ufficio il dipendente che: 
+ 
+                            
+                            
+                                a)
+                                
+                                    perda il requisito della cittadinanza previsto per l'assunzione; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    senza giustificati motivi non riassuma servizio entro il termine stabilito malgrado diffida ovvero rimanga arbitrariamente assente dal servizio per un periodo non inferiore a sette giorni; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    abbia contravvenuto al divieto posto dall'articolo 17, comma 1, lettera e), della presente disciplina e, benche' invitato dall'Agenzia a far cessare la situazione di incompatibilita', non abbia ottemperato a cio' entro il termine di 15 giorni; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    abbia conseguito l'impiego mediante la produzione di documenti falsi o viziati da invalidita' non sanabile; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    lasci il servizio prima che la domanda di collocamento a riposo o le dimissioni siano state accettate nei termini dell'articolo 86.
 
 I provvedimenti di cui al presente articolo sono adottati dal Direttore generale.
 
@@ -864,6 +2015,154 @@ Ai sensi di quanto disposto dall'articolo 12, comma 2, lettera e), del decreto-l
 
 ## Art. 95. — Trattamento economico
 
+1.
+                        
+                            
+                                Il trattamento economico del personale dell'Area manageriale e alte professionalita' e' pari a quello previsto per il personale della Banca d'Italia inquadrato nei corrispondenti segmenti ed e' costituito dalle seguenti voci: 
+ 
+                            
+                            
+                                a)
+                                
+                                    stipendio (articolo 96); 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    indennita' di residenza (articolo 97); 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    indennita' di funzione (articolo 98); 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    assegno di reggenza (articolo 99); 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    assegno di sede estera (articolo 100); 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    premio di presenza (articolo 101); 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    gratifica (articolo 102); 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    assegno per il nucleo familiare (articolo 103); 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    maggiorazioni (articolo 104); 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    compenso per lavoro straordinario (articolo 107); 
+
+                                
+                            
+                            
+                                m)
+                                
+                                    compensi (articolo 108).
+
+2.
+                        
+                            
+                                Il trattamento economico del personale dell'Area operativa e' pari a quello previsto per il personale della Banca d'Italia inquadrato nella corrispondente Area ed e' costituito dalle seguenti voci: 
+ 
+                            
+                            
+                                a)
+                                
+                                    stipendio (articolo 96); 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    indennita' di residenza (articolo 97); 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    assegno di sede estera (articolo 100); 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    premio di presenza (articolo 101); 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    assegno per il nucleo familiare (articolo 103); 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    premio individuale di produttivita' (articolo 104); 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    maggiorazioni (articolo 106); 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    compenso per lavoro straordinario (articolo 107); 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    compensi (articolo 108).
+
 Ove non diversamente specificato, gli emolumenti sopra indicati sono stabiliti in misura annua.
 
 In caso di assenza o aspettativa non retribuite o parzialmente retribuite ovvero ove sia irrogata una sanzione disciplinare di riduzione della retribuzione, le voci del trattamento economico indicate ai commi 1 e 2, salvo quanto diversamente previsto da specifiche disposizioni regolamentari, sono corrisposte in misura proporzionale.
@@ -871,6 +2170,24 @@ In caso di assenza o aspettativa non retribuite o parzialmente retribuite ovvero
 ## Art. 96. — Stipendio - Inquadramento
 
 Lo stipendio del personale dell'Area manageriale e alte professionalita' e' articolato in fasce stipendiali, corrispondenti ai segmenti professionali, articolate in livelli economici pari a quelli previsti per il personale della Banca d'Italia.
+
+2.
+                        
+                            
+                                Lo stipendio del personale dell'Area operativa e' articolato in 2 fasce stipendiali, corrispondenti ai segmenti professionali di Assistente e Coordinatore, riportati nella tabella in allegato n. 1 al presente regolamento. Ciascuna fascia e' articolata in livelli economici commisurati al trattamento economico del personale della Banca d'Italia inquadrato nei gradi di: 
+ 
+                            
+                            
+                                a)
+                                
+                                    Vice Assistente, Assistente e Assistente superiore, per il personale dell'Agenzia inquadrato nel segmento di Assistente; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    Coadiutore, Coadiutore principale, per il personale dell'Agenzia inquadrato nel segmento di Coordinatore.
 
 Con provvedimento del Direttore generale la tabella di cui al comma 2 viene aggiornata periodicamente al fine di garantirne la conformita' al trattamento economico del personale della Banca d'Italia.
 
@@ -882,9 +2199,45 @@ In occasione di avanzamenti di segmento professionale nell'Area manageriale e al
 
 In caso di passaggio dall'Area operativa all'Area manageriale e alte professionalita', ai dipendenti e' riconosciuto il livello economico di importo pari o quello di importo immediatamente superiore allo stipendio percepito.
 
+8.
+                        
+                            
+                                Ove, per effetto del superamento di concorso esterno, sia previsto l'inquadramento con uno stipendio inferiore a quello goduto, il dipendente: 
+ 
+                            
+                            
+                                a)
+                                
+                                    ove gia' inquadrato nella fascia, mantiene il piu' elevato livello economico; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    ove inquadrato in altra fascia, viene collocato nel livello economico di importo pari o quello di importo immediatamente superiore allo stipendio percepito.
+
 ## Art. 97.
 
 Indennita' di residenza
+
+1.
+                        
+                            
+                                L'indennita' di residenza e' pari a quella prevista per il personale della Banca d'Italia e si compone di: 
+ 
+                            
+                            
+                                a)
+                                
+                                    parte percentuale, calcolata sullo stipendio; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    «parte fissa - conviventi», spettante in base al numero di figli conviventi di eta' non superiore ai 21 anni o assolutamente e permanentemente inabili. Tale parte fissa e' maggiorata nell'ipotesi in cui il dipendente abbia il coniuge convivente e a carico.
 
 Il passaggio da una misura all'altra della parte fissa, cosi' come la maggiorazione per il coniuge convivente e a carico, decorrono dal mese successivo a quello in cui si verificano mutamenti nei relativi presupposti di fatto.
 
@@ -893,6 +2246,26 @@ Nel caso in cui entrambi i genitori siano dipendenti dell'Agenzia, i figli convi
 ## Art. 98.
 
 Indennita' di funzione
+
+1.
+                        
+                            
+                                L'indennita' di funzione spettante al personale dell'Area manageriale e alte professionalita' e' pari a quella prevista per il personale dell'Area manageriale alte professionale della Banca d'Italia e si compone di: 
+ 
+                            
+                            
+                                a)
+                                
+                                    parte base, riconosciuta a tutto il personale dell'Area, pari a una percentuale dello stipendio; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    maggiorazione, erogata - nel mese di marzo dell'anno successivo a quello di riferimento - nelle misure stabilite dall'Agenzia, ai dipendenti: 
+ 1) che ricoprono le posizioni di Capo e Vice Capo Servizio e Capo e Vice Capo Divisione; 
+ 2) che rivestano incarichi professionali rilevanti, aventi carattere di stabilita'.
 
 L'anzidetta indennita' non compete durante i periodi di aspettativa retribuita.
 
@@ -909,6 +2282,38 @@ Ai dipendenti assegnati all'estero presso organismi internazionali ovvero presso
 Nell'aprile di ogni anno viene corrisposto al personale un premio di presenza in relazione alle presenze in servizio registrate nel corso dell'anno precedente.
 
 Per il personale dell'Area manageriale e alte professionalita' a tali giornate si somma, fatto salvo quanto previsto dall'articolo 26, il numero di giornate intere ottenuto dividendo per 7,5 il totale delle ore lavorate al di fuori del normale orario nelle giornate feriali e feriali non lavorative, con l'esclusione delle prestazioni eccedenti eventualmente rese nelle ore notturne, nelle festivita' e nelle semifestivita'. Le ore lavorate nelle giornate di sabato sono conteggiate in misura doppia.
+
+3.
+                        
+                            
+                                Il premio e' determinato secondo le seguenti misure percentuali dello stipendio e dell'eventuale assegno di reggenza spettanti nel mese di pagamento: 
+ 
+                            
+                            
+                                a)
+                                
+                                    0,028% da 1 a 226 giorni; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    0,045% da 227 a 241 giorni; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    0,100% da 242 a 315 giorni; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    0,180% da 316 giorni in poi.
 
 Ai fini della liquidazione del premio di presenza, non si tiene conto delle assenze per: congedo ordinario; collocamento a disposizione; donazione di sangue; donazione di midollo osseo e di cellule staminali; infortunio o malattia riconosciuti dipendenti da causa di servizio; congedo di maternita' e di paternita' previsto dalle vigenti disposizioni di legge; congedo straordinario per festivita' soppresse e riduzione dell'orario di lavoro; adempimenti amministrativi ai sensi dell'articolo 43; riposi compensativi; svolgimento di funzioni presso gli uffici elettorali in occasione di referendum popolari di cui alla legge 25 maggio 1970, n. 352, elezioni politiche o amministrative o per il Parlamento europeo; espletamento delle funzioni di giudice popolare; attivita' di volontariato effettuata nel rispetto delle condizioni e dei limiti previsti dalla legge 18 febbraio 1992, n. 162, e dal decreto del Presidente della Repubblica 21 settembre 1994, n. 613; permessi, ai sensi dell'articolo 33, commi 3 e 6, della legge n. 104 del 1992; svolgimento delle funzioni di rappresentante per la sicurezza di cui al decreto legislativo 9 aprile 2008, n. 81; terapie salvavita e primo giorno di malattia conseguente all'effettuazione delle terapie.
 
@@ -949,7 +2354,60 @@ L'importo totale cosi' determinato viene maggiorato del 25% e diviso per 1928.
 
 Per le prestazioni fornite dal personale dell'Area operativa nelle giornate feriali non lavorative di cui all'articolo 32, il compenso di cui al comma 1 viene maggiorato del 4%.
 
+3.
+                        
+                            
+                                Ai dipendenti chiamati a prestare attivita' lavorativa: nelle giornate di festivita' infrasettimanale; nei giorni semifestivi oltre la durata prevista dall'articolo 32, comma 2; nell'arco di tempo compreso tra le ore 22.00 e le ore 6.00, eccetto che per i turni ai sensi dell'articolo 24, ovvero oltre la durata dell'orario teorico medio giornaliero di lavoro nella giornata di riposo settimanale di cui all'articolo 35, viene corrisposto un compenso orario calcolato: 
+ 
+                            
+                            
+                                a)
+                                
+                                    dividendo per 1928 l'importo complessivo annuo, maggiorato del 25%, delle seguenti voci: stipendio, assegno di reggenza, indennita' di funzione parte base, indennita' di residenza parte percentuale; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    maggiorando l'importo cosi' determinato secondo le seguenti percentuali: 
+ 1) 50% per le ore nell'arco 22.00-6.00; 
+ 2) 60% per le festivita' infrasettimanali, per le prestazioni rese oltre la durata prevista dall'articolo 32, comma 2; nei giorni semifestivi e nella giornata di riposo settimanale.
+
 ## Art. 108. — Compensi
+
+1.
+                        
+                            
+                                Per l'espletamento di specifici compiti o in relazione a particolari situazioni di lavoro sono riconosciuti, per ogni giornata di effettiva presenza in servizio, salvo quanto diversamente previsto, i seguenti speciali compensi, pari a quelli previsti per il personale della Banca d'Italia: 
+ 
+                            
+                            
+                                a)
+                                
+                                    compenso per i dipendenti addetti alle articolazioni di pronta reazione. Spetta al personale addetto alle articolazioni di pronta reazione individuate dal Direttore generale, in considerazione delle particolari modalita' di svolgimento della prestazione lavorativa (necessita' di presidio continuativo delle strutture, ecc.); 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    compenso per sfalsamento dell'orario di lavoro. Spetta al personale che anticipi o posticipi l'inizio e il termine dell'orario di lavoro giornaliero ai sensi dell'articolo 24, comma 3; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    compenso per turno. Spetta, per ciascun turno interamente ed effettivamente svolto, al personale che, ai sensi dell'articolo 24, comma 1, presti la propria attivita' lavorativa sulla base di turni.
+Ai fini dell'attribuzione di tale compenso, il turno si intende interamente ed effettivamente svolto anche in caso di fruizione di permesso, purche' di durata non superiore a un'ora e non collocato in testa o in coda al turno stesso; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    compenso per reperibilita'. Spetta, per ciascun turno, al personale per il quale sia stato stabilito, ai sensi dell'articolo 29, un obbligo di pronta reperibilita'.
 
 ## Art. 109.
 
@@ -974,6 +2432,31 @@ Ferme restando le modalita' di liquidazione delle competenze di cui all'articolo
 Nei casi in cui ha rilievo la determinazione del trattamento economico orario, quest'ultimo viene quantificato nella misura indicata al precedente comma, divisa per 7,5. Per eventuali frazioni di ora sono calcolate quote proporzionali del trattamento economico orario.
 
 ## Art. 111. — Trattamento di missione
+
+1.
+                        
+                            
+                                Al personale inviato in missione, in localita' distanti non meno di 25 chilometri e al di fuori della propria residenza di servizio, intendendosi per tale il Comune sede di lavoro, competono: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la fruizione dei servizi di viaggio messi a disposizione dall'Agenzia e/o il rimborso di eventuali ulteriori spese di viaggio sostenute dal dipendente; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la fruizione dei servizi di alloggio messi a disposizione dall'Agenzia; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    la diaria per i giorni di espletamento dell'incarico, limitatamente alle missioni all'estero, nonche' a quelle in territorio nazionale di durata superiore a cinque giorni lavorativi.
 
 La limitazione di 25 chilometri di cui al comma precedente non trova applicazione in ipotesi di missione disposte per accertamenti ispettivi espletati fuori dalla propria residenza di servizio.
 
@@ -1067,6 +2550,31 @@ L'applicazione della disciplina di cui al presente regolamento deve essere orien
 
 ## Art. 124. — Disposizioni oggetto di negoziazione
 
+1.
+                        
+                            
+                                Ai sensi dell'articolo 12, comma 2, lettera m), del decreto-legge, e tenuto conto che per il personale di ruolo e' previsto un trattamento economico pari a quello in godimento da parte dei dipendenti della Banca d'Italia sulla scorta della equiparabilita' delle funzioni svolte e del livello di responsabilita' rivestito, possono essere oggetto di revisione per effetto della negoziazione con le rappresentanze del personale, compatibilmente alle esigenze di funzionamento dell'Agenzia e alle funzioni di tutela della sicurezza nazionale e dell'interesse nazionale nello spazio cibernetico, le disposizioni contenute nel presente regolamento in materia di: 
+ 
+                            
+                            
+                                a)
+                                
+                                    articolazione dell'orario di lavoro, di cui agli articoli da 19 a 32; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    tipologie e criteri per la concessione di congedi e aspettative, di cui agli articoli da 33 a 48; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    modalita' per la formazione professionale, di cui all'articolo 49.
+
 Potra' altresi' essere oggetto di negoziazione il sistema di welfare aziendale.
 
 ## Art. 125. — Trattamento previdenziale
@@ -1074,6 +2582,24 @@ Potra' altresi' essere oggetto di negoziazione il sistema di welfare aziendale.
 Il personale dell'Agenzia accede a forme di trattamento previdenziale complementare in linea con quello previsto in Banca d'Italia.
 
 Il personale dell'Agenzia di cui all'articolo 17 del decreto-legge, proveniente dall'organismo di cui all'articolo 4 della legge 3 agosto 2007, n. 124, dalle forze armate, dalle forze di polizia di cui all'articolo 16 della legge 1° aprile 1981, n. 121, ovvero da pubbliche amministrazioni di cui all'articolo 1, comma 2, del decreto legislativo 30 marzo 2001, n. 165, e inquadrato nel ruolo del personale dell'Agenzia entro il 30 giugno 2022, puo' presentare opzione per il mantenimento del regime pensionistico gia' costituito nelle forme sostitutive ed esclusive dell'assicurazione generale obbligatoria esistenti e del trattamento previdenziale dei fondi per i trattamenti di fine servizio della Gestione speciale di previdenza dei dipendenti dell'amministrazione pubblica esistenti nelle amministrazioni di provenienza.
+
+3.
+                        
+                            
+                                Per il personale optante, la retribuzione pensionabile utile ai fini dell'articolo 13, comma 1, lettera a), del decreto legislativo 30 dicembre 1992, n. 503, e' costituita dalle seguenti voci retributive di cui all'articolo 95: 
+ 
+                            
+                            
+                                a)
+                                
+                                    comma 1, lettere da a) a g) e da i) a m), per il personale dell'Area manageriale e alte professionalita'; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    comma 2, lettere da a) a d) e da f) a i), per il personale dell'Area operativa.
 
 Le voci di cui al comma 3 concorrono anche ai fini della determinazione della base retributiva del trattamento di fine servizio ai sensi degli articoli 3 e 38 del decreto del Presidente della Repubblica 29 dicembre 1973, n. 1032.
 

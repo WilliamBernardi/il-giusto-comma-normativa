@@ -7,8 +7,8 @@ urn: urn:nir:stato:decreto.legislativo:2021-02-02;24
 vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:31Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -31,6 +31,52 @@ Sono istituiti i posti di controllo frontalieri del Ministero della salute deput
 Dalla data di entrata in vigore del presente decreto, ai posti d'ispezione frontalieri del Ministero della salute sono trasferite le competenze degli uffici di sanita' marittima aerea e di frontiera del Ministero della salute nei settori di cui al comma 1. I posti d'ispezione frontalieri acquisiscono la denominazione di posti di controllo frontalieri e le competenze loro attribuite dal regolamento (UE) n. 2017/625 e dal presente decreto. La loro direzione e' affidata a medici veterinari del Ministero della salute con qualifica dirigenziale.
 
 Dalla data di entrata in vigore del presente decreto i riferimenti ai posti d'ispezione frontalieri e agli uffici di sanita' marittima aerea e di frontiera, limitatamente alle competenze di cui al comma 2, contenuti nella normativa vigente, si intendono riferiti ai posti di controllo frontalieri del Ministero della salute.
+
+4.
+                    
+                        
+                            Al fine di accertare la conformita' alla normativa di cui al comma 1, i controlli ufficiali sono effettuati presso il posto di controllo frontaliero di primo ingresso in Italia, su ciascuna partita delle seguenti categorie di animali e merci che entrano nell'Unione: 
+ 
+                        
+                        
+                            a)
+                            
+                                animali; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                prodotti di origine animale, materiale germinale, sottoprodotti di origine animale, fieno e paglia e prodotti alimentari contenenti sia prodotti di origine vegetale sia prodotti trasformati di origine animale («prodotti compositi»); 
+
+                            
+                        
+                        
+                            c)
+                            
+                                merci provenienti da alcuni Paesi terzi per i quali la Commissione europea ha deciso, mediante atti di esecuzione, che e' necessario un provvedimento che impone un incremento temporaneo dei controlli ufficiali alla loro entrata a causa di un rischio noto o emergente o in quanto si ha motivo di temere che possano avere luogo casi gravi e diffusi di non conformita' alla normativa di cui al comma 1; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                animali e merci che sono oggetto di una misura di emergenza prevista da un atto adottato conformemente all'articolo 53 del regolamento (CE) n. 178/2002 e all'articolo 249 del regolamento (UE) n. 2016/429 che impone di sottoporre a controlli ufficiali, al loro ingresso nell'Unione, le partite di tali animali o merci, identificati mediante i loro codici della nomenclatura combinata; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                animali e merci in relazione alla cui entrata nell'Unione sono state stabilite, con atti adottati conformemente agli articoli 126 o 128 del regolamento (UE) n. 2017/625, o in base alla normativa di cui all'articolo 1, paragrafo 2, del medesimo regolamento, condizioni o misure che impongono di accertare, all'entrata degli animali o delle merci nell'Unione, la conformita' alla normativa emanata dall'Unione nei settori di cui al comma 1; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                alimenti e mangimi che sono oggetto di una misura cautelare urgente adottata dal Ministero della salute in conformita' all'articolo 54 del regolamento (CE) n. 178/2002.
 
 Sulle partite di merci, ricadenti nei settori di cui all'articolo 1, paragrafo 2, lettere a) e c), del regolamento (UE) n. 2017/625 non sottoposte ai controlli di cui al comma 4, sono organizzati controlli ufficiali periodici in base al rischio e con frequenza adeguata presso il posto di controllo frontaliero di primo ingresso in Italia o presso il punto di controllo come definito dall'articolo 53, paragrafo 1, lettera a), e paragrafo 2 del regolamento (UE) n. 2017/625 e dai relativi atti delegati e di esecuzione emanati dalla Commissione europea.
 

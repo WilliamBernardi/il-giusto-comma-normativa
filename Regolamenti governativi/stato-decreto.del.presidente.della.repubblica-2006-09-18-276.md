@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Regolamenti governativi
 vigenza_date: 2020-02-20
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:16Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -28,6 +28,31 @@ Sulla proposta del Ministro della giustizia, di concerto con i Ministri per le r
 
 ## Art. 1. — Organico
 
+1.
+                        
+                            
+                                La dotazione organica della banda musicale del Corpo di polizia penitenziaria e' cosi' determinata:
+ 
+                            
+                            
+                                a)
+                                
+                                    un maestro direttore;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    un maestro vice direttore;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    centotre orchestrali, come da tabella A allegata.
+
 L'organico della banda musicale e' compreso in quello del Corpo di polizia penitenziaria e non determina incrementi della dotazione complessiva.
 
 Restano ferme le procedure autorizzatorie di cui all'articolo 39, comma 3-ter, della legge 27 dicembre 1997, n. 449, e successive modificazioni.
@@ -35,6 +60,31 @@ Restano ferme le procedure autorizzatorie di cui all'articolo 39, comma 3-ter, d
 ## Art. 2. — ((Carriera, funzioni ed attribuzioni del maestro direttore))
 
 ((
+
+1.
+                        
+                            
+                                Fermo restando quanto previsto dall'articolo 1, comma 2, la carriera del maestro direttore della banda musicale del Corpo di polizia penitenziaria e' articolata in tre qualifiche che assumono le seguenti denominazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    maestro direttore - commissario coordinatore; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    maestro direttore - commissario coordinatore superiore; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    maestro direttore - primo dirigente.
 
 ))
 
@@ -66,6 +116,31 @@ Il maestro vice direttore cura, altresi', su incarico del maestro direttore, l'o
 
 ## Art. 4. — Articolazione e funzioni degli orchestrali
 
+1.
+                        
+                            
+                                Gli orchestrali della banda musicale del Corpo di polizia penitenziaria sono inquadrati in tre parti e sei qualifiche, come da allegata tabella B, che assumono le seguenti denominazioni:
+ 
+                            
+                            
+                                a)
+                                
+                                    prima parte, distinta in prima parte A e prima parte B;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    seconda parte, distinta in seconda parte A e seconda parte B;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    terza parte, distinta in terza parte A e terza parte B.
+
 Gli orchestrali della banda musicale del Corpo di polizia penitenziaria sono inquadrati nei ruoli di ispettore superiore, ispettore capo ed ispettore del Corpo di polizia penitenziaria, a seconda che siano inseriti nella organizzazione strumentale delle prime, delle seconde e delle terze parti della banda, come da allegate tabelle C e D.
 
 Agli orchestrali sono attribuiti compiti di esecuzione musicale.
@@ -74,17 +149,173 @@ Gli orchestrali della banda musicale in quanto congiuntamente partecipi, ognuno 
 
 In particolare, gli orchestrali hanno l'obbligo di esercitarsi individualmente per mantenere inalterate le proprie capacita' tecnico professionali in relazione allo strumento suonato; a tale fine il capo del Dipartimento puo' autorizzare i componenti della banda musicale ad esercitarsi individualmente in locali esterni ritenuti idonei, nel limite di quattro ore settimanali.
 
+6.
+                        
+                            
+                                Quando sussistono situazioni di necessita', gli orchestrali:
+ 
+                            
+                            
+                                a)
+                                
+                                    possono essere, per esigenze artistiche, incaricati dal maestro direttore di funzioni musicali proprie di altra parte o qualifica;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    possono essere impiegati, in particolari cerimonie o servizi su designazione del maestro direttore, come trombettieri, mazzieri ed in formazione di drappello di tamburi.
+
 ## - Capo II Reclutamento
 
 ## Art. 5. — Nomina a maestro direttore
+
+1.
+                        
+                            
+                                La nomina a maestro direttore avviene mediante concorso pubblico, per titoli ed esami, al quale sono ammessi a partecipare i cittadini italiani in possesso dei seguenti requisiti:
+ 
+                            
+                            
+                                a)
+                                
+                                    godimento dei diritti civili e politici;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    idoneita' fisica, psichica e attitudinale al servizio nel corpo di polizia penitenziaria;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    requisiti morali e di condotta;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    diploma d'istruzione secondaria superiore che consente l'iscrizione ai corsi per il conseguimento del diploma universitario;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    diploma in composizione e diploma in strumentazione per banda conseguiti presso gli istituti superiori di studi musicali e coreutici;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    eta' non superiore agli anni quaranta.
 
 Al concorso non sono ammessi coloro che sono stati espulsi dalle forze armate, dai corpi militarmente organizzati o destituiti dai pubblici uffici, che abbiano riportato condanna a pena detentiva per reati non colposi o siano stati sottoposti a misura di prevenzione.
 
 ## Art. 6. — Nomina a maestro vice direttore
 
+1.
+                        
+                            
+                                La nomina a maestro vice direttore avviene mediante concorso pubblico, per titoli ed esami, al quale sono ammessi a partecipare i cittadini italiani in possesso dei seguenti requisiti:
+ 
+                            
+                            
+                                a)
+                                
+                                    godimento dei diritti civili e politici;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    idoneita' fisica, psichica e attitudinale al servizio nel corpo di polizia penitenziaria;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    requisiti morali e di condotta;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    diploma d'istruzione secondaria superiore che consente l'iscrizione ai corsi per il conseguimento del diploma universitario;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    diploma in strumentazione per banda conseguito presso gli istituti superiori di studi musicali e coreutici;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    eta' non superiore agli anni quaranta.
+
 Al concorso non sono ammessi coloro che sono stati espulsi dalle forze armate, dai corpi militarmente organizzati o destituiti dai pubblici uffici, che abbiano riportato condanna a pena detentiva per reati non colposi o siano stati sottoposti a misura di prevenzione.
 
 ## Art. 7. — Nomina ad orchestrale
+
+1.
+                        
+                            
+                                La nomina ad orchestrale avviene mediante concorso pubblico al quale sono ammessi a partecipare i cittadini italiani in possesso dei seguenti requisiti:
+ 
+                            
+                            
+                                a)
+                                
+                                    godimento dei diritti civili e politici;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    idoneita' fisica, psichica e attitudinale al servizio nel corpo di polizia penitenziaria;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    requisiti morali e di condotta;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    diploma d'istruzione secondaria superiore che consente l'iscrizione ai corsi per il conseguimento del diploma universitario;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    diploma nello strumento musicale per il quale concorrono o per strumento affine come da allegata tabella E, conseguito presso gli istituti superiori di studi musicali e coreutici;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    eta' stabilita dall'articolo 2, comma 1, del decreto del Ministro della giustizia 1° febbraio 2000, n. 50.
 
 Al concorso non sono ammessi coloro che sono stati espulsi dalle forze armate, dai corpi militarmente organizzati o destituiti dai pubblici uffici, che abbiano riportato condanna a pena detentiva per reati non colposi o siano stati sottoposti a misura di prevenzione.
 
@@ -96,6 +327,38 @@ Le modalita' di svolgimento dei corsi ed i relativi programmi di insegnamento so
 
 ## Art. 9. — Commissione esaminatrice del concorso a maestro direttore e a maestro vice direttore
 
+1.
+                        
+                            
+                                La commissione esaminatrice dei concorsi previsti dagli articoli 5 e 6 e' nominata con decreto del ((direttore generale del personale e delle risorse)) dell'amministrazione penitenziaria ed e' composta da: 
+ 
+                            
+                            
+                                a)
+                                
+                                    un dirigente generale in servizio presso il Dipartimento dell'amministrazione penitenziaria, che la presiede; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    un dirigente in servizio presso il Dipartimento dell'amministrazione penitenziaria; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    un insegnante di composizione presso un istituto superiore di studi musicali e coreutici; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    due insegnanti di strumentazione per banda presso un istituto superiore di studi musicali e coreutici o due esperti della materia.
+
 Nella commissione esaminatrice del concorso a maestro vice direttore uno dei membri di cui alla lettera d) del comma 1 puo' essere il maestro direttore della banda.
 
 ((3. Le funzioni di segretario sono svolte da un appartenente alla carriera dei funzionari del Corpo di polizia penitenziaria con qualifica non superiore a commissario coordinatore penitenziario, ovvero un appartenente all'area terza, in servizio presso il Dipartimento dell'amministrazione penitenziaria))
@@ -103,6 +366,37 @@ Nella commissione esaminatrice del concorso a maestro vice direttore uno dei mem
 Per supplire ad eventuali temporanee assenze o impedimenti di uno dei componenti o del segretario della commissione, puo' essere prevista la nomina di uno o piu' componenti supplenti e di uno o piu' segretari supplenti da effettuarsi con lo stesso decreto di costituzione della commissione esaminatrice o con successivo provvedimento.
 
 ## Art. 10. — Commissione esaminatrice del concorso ad orchestrale
+
+1.
+                        
+                            
+                                La commissione esaminatrice del concorso previsto dall'articolo 7 e' nominata con decreto del ((direttore generale del personale e delle risorse)) dell'Amministrazione penitenziaria ed e' composta da: 
+ 
+                            
+                            
+                                a)
+                                
+                                    un dirigente in servizio presso il Dipartimento dell'Amministrazione penitenziaria, che la presiede; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    un appartenente alla carriera dei funzionari del Corpo di polizia penitenziaria con qualifica non inferiore a commissario coordinatore penitenziario, ovvero un appartenente all'area terza, in servizio presso lo stesso dipartimento;
+                                
+                            
+                            
+                                c)
+                                
+                                    il maestro direttore della banda musicale del Corpo di polizia penitenziaria ovvero un insegnante di composizione presso un istituto superiore di studi musicali e coreutici; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    due insegnanti presso un istituto superiore di studi musicali e coreutici o due esperti, di cui uno docente o esperto dello strumento per il quale e' bandito il concorso.
 
 ((
 
@@ -114,11 +408,74 @@ Per supplire ad eventuali temporanee assenze o impedimenti di uno dei componenti
 
 ## Art. 11. — Concorso per la nomina a maestro direttore
 
+1.
+                        
+                            
+                                I candidati al concorso di cui all'articolo 5 sostengono le seguenti prove:
+ 
+                            
+                            
+                                a)
+                                
+                                    tre prove scritte su temi individuati dalla commissione, cosi' distinte:
+ 1) composizione di una fuga a quattro parti, da svolgere in un tempo massimo di diciotto ore;
+ 2) composizione di una marcia eroica o funebre o trionfale o militare per pianoforte con qualche accenno strumentale, da svolgere in un tempo massimo di diciotto ore;
+ 3) strumentazione per banda di un brano di musica per pianoforte, organo o per orchestra, da svolgere in un tempo massimo di diciotto ore;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    una prova orale vertente sulle seguenti materie:
+ 1) organizzazione delle bande musicali e loro sviluppo storico;
+ 2) tecnica di tutti gli strumenti compresi nell'organico strumentale;
+ 3) vari tipi di partitura;
+ 4) impiego degli strumenti suddetti;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    una prova pratica consistente nella concertazione e direzione di uno o piu' brani, a scelta della commissione, che saranno lasciati al candidato per un tempo conveniente, stabilito dalla stessa commissione esaminatrice.
+
 Il punteggio di merito delle prove scritte e' dato dalla media dei punti riportati in ciascuna prova.
 
 E' ammesso alla prova orale ed alla prova pratica il candidato che abbia riportato un punteggio di merito di almeno 35/50 in ciascuna delle prove scritte ed un punteggio complessivo di merito non inferiore a 40/50. La prova orale e la prova pratica si intendono superate se il candidato ha riportato un punteggio di merito non inferiore a 35/50 in ciascuna di esse. Il punteggio di merito finale per la formazione della graduatoria e' dato dalla somma della media dei punteggi riportati nelle prove d'esame e del punteggio attribuito nella valutazione dei titoli.
 
 ## Art. 12. — Concorso per la nomina a maestro vice direttore
+
+1.
+                        
+                            
+                                I candidati al concorso di cui all'articolo 6 sostengono le seguenti prove:
+ 
+                            
+                            
+                                a)
+                                
+                                    tre prove scritte su temi individuati dalla commissione, cosi' distinte:
+ 1) armonizzazione a quattro parti di un brano, da svolgere nel tempo massimo di otto ore;
+ 2) composizione di una marcia militare per pianoforte con qualche accenno strumentale, da svolgere in un tempo massimo di diciotto ore;
+ 3) strumentazione per banda di un brano di musica per pianoforte, da svolgere in un tempo massimo di diciotto ore;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    prova orale vertente sulle seguenti materie:
+ 1) tecnica di tutti gli strumenti compresi nell'organico strumentale;
+ 2) vari tipi di partitura;
+ 3) impiego degli strumenti suddetti;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    una prova pratica consistente nella concertazione e direzione di uno o piu' brani scelti dalla commissione, che saranno lasciati al candidato per un tempo conveniente stabilito dalla stessa commissione esaminatrice.
 
 Il punteggio complessivo di merito delle prove scritte e' dato dalla media dei punti riportati in ciascuna prova.
 
@@ -129,6 +486,31 @@ La prova orale e la prova pratica si intendono superate se il candidato ha ripor
 Il punteggio di merito finale per la formazione della graduatoria e' dato dalla somma della media dei punteggi riportati nelle prove d'esame e del punteggio attribuito nella valutazione dei titoli.
 
 ## Art. 13. — Concorso per la nomina ad orchestrale
+
+1.
+                        
+                            
+                                I candidati al concorso di cui all'articolo 7 sostengono le seguenti prove:
+ 
+                            
+                            
+                                a)
+                                
+                                    esecuzione con lo strumento per il quale e' stato bandito il concorso di un brano da concerto, scelto dal candidato, e di uno studio di adeguate difficolta' tecniche, scelto dalla commissione giudicatrice fra tre proposti dal candidato;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    lettura ed esecuzione a prima vista di uno o piu' brani scelti dalla commissione;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    colloquio vertente su nozioni relative alla struttura fisico-acustica ed alla storia dello strumento suonato.
 
 Per i concorrenti a posti di prima e seconda parte, le suddette prove sono integrate dall'esecuzione, nell'insieme della banda, di uno o piu' brani a scelta della commissione e tratti dal repertorio lirico o sinfonico riguardante lo strumento suonato.
 
@@ -141,6 +523,35 @@ L'esame si intende superato se il candidato ha riportato un punteggio non inferi
 Il punteggio di merito finale per la formazione della graduatoria e' dato dalla somma della media dei punteggi riportati nelle prove d'esame e del punteggio attribuito nella valutazione dei titoli.
 
 ## Art. 14. — Valutazione dei titoli
+
+1.
+                        
+                            
+                                Le categorie di titoli ammessi a valutazione ed il punteggio massimo da attribuire a ciascuna categoria sono stabiliti come segue:
+ 
+                            
+                            
+                                a)
+                                
+                                    categoria I - titoli accademici:
+ 1) diplomi conseguiti presso gli istituti superiori di studi musicali e coreutici: fino a punti 8;
+ 2) diploma in discipline delle arti, della musica e dello spettacolo ed equiparati: fino a punti 4;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    categoria II - titoli didattici:
+ 1) incarichi di insegnamento musicale presso gli istituti superiori di studi musicali e coreutici o altri tipi di scuola: fino a punti 4;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    categoria III - titoli professionali:
+ 1) attivita' ed incarichi svolti connessi alla specifica professionalita': fino a punti 8.
 
 Nell'ambito delle suddette categorie la commissione esaminatrice determina i titoli valutabili ed i criteri di massima per la valutazione degli stessi e per l'attribuzione dei relativi punteggi; annota i titoli valutati ed i relativi punteggi su apposite schede individuali, sottoscritte da tutti i componenti, che saranno allegate al fascicolo concorsuale di ciascun candidato.
 
@@ -225,6 +636,31 @@ Il personale che intende sostenere la suddetta prova musicale deve presentare sp
 Nei confronti del personale che non abbia superato le prove previste dall'articolo 24 continuano a trovare applicazione le disposizioni di cui al comma 1.
 
 ## Art. 23. — Commissione esaminatrice
+
+1.
+                        
+                            
+                                Per le ipotesi indicate all'articolo 22, comma 2, l'accertamento della corrispondenza delle attivita' svolte con i compiti propri della banda, la valutazione della prova pratica con attribuzione del relativo punteggio e la formazione della graduatoria sono effettuate da una commissione esaminatrice composta da:
+ 
+                            
+                            
+                                a)
+                                
+                                    un dirigente in servizio presso il Dipartimento dell'Amministrazione penitenziaria, con funzioni di presidente;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    un appartenente ai ruoli direttivi del Corpo di polizia penitenziaria con qualifica di commissario coordinatore penitenziario, ovvero un ufficiale del disciolto Corpo degli agenti di custodia con il grado di tenente colonnello, ovvero un funzionario appartenente all'area funzionale C, posizione economica C3, in servizio presso lo stesso Dipartimento;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    tre esperti musicali estranei all'Amministrazione penitenziaria, di cui uno esperto dello strumento per il quale si effettua la prova.
 
 Svolge le funzioni di segretario un appartenente ai ruoli direttivi del Corpo di polizia penitenziaria, ovvero un ufficiale del disciolto Corpo degli agenti di custodia di grado non superiore a tenente colonnello, ovvero un funzionario appartenente all'area funzionale C, in servizio presso il Dipartimento dell'Amministrazione penitenziaria.
 

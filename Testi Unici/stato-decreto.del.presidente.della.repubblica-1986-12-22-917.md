@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Testi Unici
 vigenza_date: 2026-07-04
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:40:01Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -102,6 +102,59 @@ L'imposta si applica sul reddito complessivo del soggetto, formato per i residen
 
 In deroga al comma 1 l'imposta si applica separatamente sui redditi elencati nell'articolo 16, salvo quanto stabilito nei commi 2 e 3 dello stesso articolo.
 
+3.
+                        
+                            
+                                Sono in ogni caso esclusi dalla base imponibile: 
+ 
+                            
+                            
+                                a)
+                                
+                                    i redditi esenti dall'imposta e quelli soggetti a ritenuta alla fonte a titolo di imposta o ad imposta sostitutiva; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    gli assegni periodici destinati al mantenimento dei figli spettanti al coniuge in conseguenza di separazione legale ed effettiva o di annullamento, scioglimento o cessazione degli effetti civili del matrimonio, nella misura in cui risultano da provvedimenti dell'autorita' giudiziaria; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    LETTERA ABROGATA DAL D.LGS. 2 SETTEMBRE 1997, N.314;
+                                
+                            
+                            
+                                d)
+                                
+                                    gli assegni familiari e l'assegno per il nucleo familiare, nonche', con gli stessi limiti e alle medesime condizioni, gli emolumenti per carichi di famiglia comunque denominati, erogati nei casi consentiti dalla legge. 
+
+                                
+                            
+                            
+                                d-bis)
+                                
+                                    la maggiorazione sociale dei trattamenti pensionistici prevista dall'articolo 1 della legge 29 dicembre 1988, n. 544. 
+
+                                
+                            
+                            
+                                d-ter)
+                                
+                                    le somme corrisposte a titolo di borsa di studio dal Governo italiano a cittadini stranieri in forza di accordi e intese internazionali; (146) 
+
+                                
+                            
+                            
+                                d-quater)
+                                
+                                    
+                                        ((i redditi derivanti da lavoro dipendente prestato dai lavoratori marittimi residenti in Italia, imbarcati per un periodo superiore a 183 giorni nell'arco di dodici mesi su navi battenti bandiera estera diverse da quelle di cui all'articolo 6-ter, comma 1, del decreto-legge 30 dicembre 1997, n. 457, convertito, con modificazioni, dalla legge 27 febbraio 1998, n. 30, annotate nell'elenco di cui al comma 2 del medesimo articolo 6-ter)).
+
 ---------------
                             AGGIORNAMENTO (58)
                             
@@ -154,6 +207,56 @@ I redditi delle societa' semplici, in nome collettivo e in accomandita semplice 
 
 Le quote di partecipazione agli utili si presumono proporzionate al valore dei conferimenti dei soci se non risultano determinate diversamente dall'atto pubblico o dalla scrittura privata autenticata di costituzione o da altro atto pubblico o scrittura autenticata di data anteriore all'inizio del periodo d'imposta; se il valore dei conferimenti non risulta determinato, le quote si presumono uguali.
 
+3.
+                        
+                            
+                                Ai fini delle imposte sui redditi: 
+ 
+                            
+                            
+                                a)
+                                
+                                    le societa' di armamento sono equiparate alle societa' in nome collettivo o alle societa' in accomandita semplice secondo che siano state costituite all'unanimita' o a maggioranza; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le societa' di fatto sono equiparate alle societa' in nome collettivo o alle societa' semplici secondo che abbiano o non abbiano per oggetto l'esercizio di attivita' commerciali; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    le associazioni senza personalita' giuridica costituite fra persone fisiche per l'esercizio in forma associata di arti e professioni sono equiparate alle societa' semplici, ma l'atto o la scrittura di cui al comma 2 puo' essere redatto fino alla presentazione della dichiarazione dei redditi dell'associazione;
+
+4.
+                        
+                            
+                                I redditi delle imprese familiari di cui all'articolo 230-bis del codice civile, limitatamente al 49 per cento dell'ammontare risultante dalla dichiarazione dei redditi dell'imprenditore, sono imputati a ciascun familiare, che abbia prestato in modo continuativo e prevalente la sua attivita' di lavoro nell'impresa, proporzionalmente alla sua quota di partecipazione agli utili. La presente disposizione si applica a condizione: 
+ 
+                            
+                            
+                                a)
+                                
+                                    che i familiari partecipanti all'impresa risultino nominativamente, con l'indicazione del rapporto di parentela o di affinita' con l'imprenditore, da atto pubblico o da scrittura privata autenticata anteriore all'inizio del periodo di imposta, recante la sottoscrizione dell'imprenditore e dei familiari partecipanti; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    che la dichiarazione dei redditi dell'imprenditore rechi l'indicazione delle quote di partecipazione agli utili spettanti ai familiari e l'attestazione che le quote stesse sono proporzionate alla qualita' e quantita' del lavoro effettivamente prestato nell'impresa, in modo continuativo e prevalente, nel periodo di imposta; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    che ciascun familiare attesti, nella propria dichiarazione dei redditi, di aver prestato la sua attivita' di lavoro nell'impresa in modo continuativo e prevalente.
+
 Si intendono per familiari, ai fini delle imposte sui redditi, il coniuge, i parenti entro il terzo grado e gli affini entro il secondo grado.
 
 ---------------
@@ -166,6 +269,47 @@ Si intendono per familiari, ai fini delle imposte sui redditi, il coniuge, i par
  Il D.Lgs. 27 dicembre 2023, n. 209 ha disposto (con l'art. 7, comma 2) che la presente modifica si applica "a decorrere dal periodo di imposta successivo a quello in corso alla data di entrata in vigore del presente decreto".
 
 ## Art. 6. — Classificazione dei redditi
+
+1.
+                        
+                            
+                                I singoli redditi sono classificati nelle seguenti categorie: 
+ 
+                            
+                            
+                                a)
+                                
+                                    redditi fondiari;
+                                
+                            
+                            
+                                b)
+                                
+                                    redditi di capitale;
+                                
+                            
+                            
+                                c)
+                                
+                                    redditi di lavoro dipendente;
+                                
+                            
+                            
+                                d)
+                                
+                                    redditi di lavoro autonomo;
+                                
+                            
+                            
+                                e)
+                                
+                                    redditi di impresa;
+                                
+                            
+                            
+                                f)
+                                
+                                    redditi diversi. ((126))
 
 I proventi conseguiti in sostituzione di redditi, anche per effetto di cessione dei relativi crediti, e le indennita' conseguite, anche in forma assicurativa, a titolo di risarcimento di danni consistenti nella perdita di redditi, esclusi quelli dipendenti da invalidita' permanente o da morte, costituiscono redditi della stessa categoria di quelli sostituiti o perduti. Gli interessi moratori e gli interessi per dilazione di pagamento costituiscono redditi della stessa categoria di quelli da cui derivano i crediti su cui tali interessi sono maturati.
 
@@ -244,6 +388,31 @@ Per la determinazione dei redditi e delle perdite i corrispettivi, i proventi, l
 
 Per valore normale, salvo quanto stabilito nel comma 4 per i beni ivi considerati, si intende il prezzo o corrispettivo mediamente praticato per i beni e i servizi della stessa specie o similari, in condizioni di libera concorrenza e al medesimo stadio di commercializzazione, nel tempo e nel luogo in cui i beni o servizi sono stati acquisiti o prestati, e, in mancanza, nel tempo e nel luogo piu' prossimi. Per la determinazione del valore normale si fa riferimento, in quanto possibile, ai listini o alle tariffe del soggetto che ha fornito i beni o i servizi e, in mancanza, alle mercuriali e ai listini delle camere di commercio e alle tariffe professionali, tenendo conto degli sconti d'uso. Per i beni e i servizi soggetti a disciplina dei prezzi si fa riferimento ai provvedimenti in vigore.
 
+4.
+                        
+                            
+                                Il valore normale e' determinato: 
+ 
+                            
+                            
+                                a)
+                                
+                                    per le azioni, obbligazioni e altri titoli negoziati in mercati regolamentati italiani o esteri, in base alla media aritmetica dei prezzi rilevati nell'ultimo mese; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    per le altre azioni, per le quote di societa' non azionarie e per i titoli o quote di partecipazione al capitale di enti diversi dalle societa', in proporzione al valore del patrimonio netto della societa' o ente, ovvero, per le societa' o enti di nuova costituzione, all'ammontare complessivo dei conferimenti; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    per le obbligazioni e gli altri titoli diversi da quelli indicati alle lettere a) e b), comparativamente al valore normale dei titoli aventi analoghe caratteristiche negoziati in mercati regolamentati italiani o esteri e, in mancanza, in base ad altri elementi determinabili in modo obiettivo.
+
 Ai fini delle imposte sui redditi ((, laddove non e' previsto diversamente,)) le disposizioni relative alle cessioni a titolo oneroso valgono anche per gli atti a titolo oneroso che importano costituzione o trasferimento di diritti reali di godimento e per i conferimenti in societa'.
 
 ---------------
@@ -256,6 +425,122 @@ Ai fini delle imposte sui redditi ((, laddove non e' previsto diversamente,)) le
  Il D.L. 29 giugno 1994, n. 416 convertito con modificazioni dalla L. 8 agosto 1994, n. 503 ha disposto (con l'art. 2, comma 1) che le presenti modifiche si applicano a decorrere dal periodo d'imposta in corso alla data del 30 dicembre 1993.
 
 ## Art. 10. — (Oneri deducibili)
+
+1.
+                        
+                            
+                                Dal reddito complessivo si deducono, se non sono deducibili nella determinazione dei singoli redditi che concorrono a formarlo, i seguenti oneri sostenuti dal contribuente: 
+ 
+                            
+                            
+                                a)
+                                
+                                    i canoni, livelli, censi ed altri oneri gravanti sui redditi degli immobili che concorrono a formare il reddito complessivo, compresi i contributi ai consorzi obbligatori per legge o in dipendenza di provvedimenti della pubblica amministrazione; sono in ogni caso esclusi i contributi agricoli unificati; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le spese mediche e quelle di assistenza specifica necessarie nei casi di grave e permanente invalidita' o menomazione, sostenute dai soggetti indicati nell'articolo 3 della legge 5 febbraio 1992, n. 104. Ai fini della deduzione la spesa sanitaria relativa all'acquisto di medicinali deve essere certificata da fattura o da scontrino fiscale contenente la specificazione della natura, qualita' e quantita' dei beni e l'indicazione del codice fiscale del destinatario. Si considerano rimaste a carico del contribuente anche le spese rimborsate per effetto di contributi o di premi di assicurazione da lui versati e per i quali non spetta la detrazione d'imposta o che non sono deducibili dal suo reddito complessivo ne' dai redditi che concorrono a formarlo; si considerano, altresi', rimaste a carico del contribuente le spese rimborsate per effetto di contributi o premi che, pur essendo versati da altri, concorrono a formare il suo reddito; (128) 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    gli assegni periodici corrisposti al coniuge, ad esclusione di quelli destinati al mantenimento dei figli, in conseguenza di separazione legale ed effettiva, di scioglimento o annullamento del matrimonio o di cessazione dei suoi effetti civili, nella misura in cui risultano da provvedimenti dell'autorita' giudiziaria; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    gli assegni periodici corrisposti in forza di testamento o di donazione modale e, nella misura in cui risultano da provvedimenti dell'autorita' giudiziaria, gli assegni alimentari corrisposti a persone indicate nell'articolo 433 del codice civile; 
+
+                                
+                            
+                            
+                                d-bis)
+                                
+                                    le somme restituite al soggetto erogatore, se assoggettate a tassazione in anni precedenti. L'ammontare, in tutto o in parte, non dedotto nel periodo d'imposta di restituzione puo' essere portato in deduzione dal reddito complessivo dei periodi d'imposta successivi; in alternativa, il contribuente puo' chiedere il rimborso dell'imposta corrispondente all'importo non dedotto secondo modalita' definite con decreto del Ministro dell'economia e delle finanze; (161) 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    i contributi previdenziali ed assistenziali versati in ottemperanza a disposizioni di legge , nonche' quelli versati facoltativamente alla gestione della forma pensionistica obbligatoria di appartenenza, ivi compresi quelli per la ricongiunzione di periodi assicurativi. Sono altresi' deducibili i contributi versati al fondo di cui all'articolo 1 del decreto legislativo 16 settembre 1996, n. 565. I contributi di cui all'articolo 30, comma 2, della legge 8 marzo 1989, n. 101, sono deducibili alle condizioni e nei limiti ivi stabiliti; (233) 
+
+                                
+                            
+                            
+                                e-bis)
+                                
+                                    i contributi versati alle forme pensionistiche complementari di cui al decreto legislativo 5 dicembre 2005, n. 252, alle condizioni e nei limiti previsti dall'articolo 8 del medesimo decreto, nonche' ai sottoconti italiani di prodotti pensionistici individuali paneuropei (PEPP) di cui al regolamento (UE) 2019/1238, alle condizioni e nei limiti previsti dalle disposizioni nazionali di attuazione del medesimo regolamento. Alle medesime condizioni ed entro gli stessi limiti di cui al primo periodo sono deducibili i contributi versati alle forme pensionistiche complementari istituite negli Stati membri dell'Unione europea e negli Stati aderenti all'Accordo sullo spazio economico europeo che consentono un adeguato scambio di informazioni e ai sottoconti esteri di prodotti pensionistici individuali paneuropei (PEPP) di cui al regolamento (UE) 2019/1238; 
+
+                                
+                            
+                            
+                                e-ter)
+                                
+                                    i contributi versati, fino ad un massimo di euro 3.615,20, ai fondi integrativi del Servizio sanitario nazionale istituiti o adeguati ai sensi dell'articolo 9 del decreto legislativo 30 dicembre 1992, n. 502, e successive modificazioni, ((iscritti all'Anagrafe dei fondi sanitari integrativi istituita con il decreto del Ministro della salute del 31 marzo 2008, pubblicato nella Gazzetta Ufficiale 18 giugno 2008, n. 141, che operino secondo il principio di mutualita' e solidarieta' tra gli iscritti)). Ai fini del calcolo del predetto limite si tiene conto anche dei contributi di assistenza sanitaria versati ai sensi dell'articolo 51, comma 2, lettera a). Per i contributi versati nell'interesse delle persone indicate nell'articolo 12, che si trovino nelle condizioni ivi previste, la deduzione spetta per l'ammontare non dedotto dalle persone stesse, fermo restando l'importo complessivamente stabilito. ((235))
+                                    
+                                
+                            
+                            
+                                f)
+                                
+                                    le somme corrisposte ai dipendenti, chiamati ad adempiere funzioni presso gli uffici elettorali, in ottemperanza alle disposizioni dell'articolo 119 del decreto del Presidente della Repubblica 30 marzo 1957, n. 361, e dell'articolo 1 della legge 30 aprile 1981, n. 178; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    i contributi, le donazioni e le oblazioni erogati in favore delle organizzazioni non governative idonee ai sensi dell'articolo 28 della legge 26 febbraio 1987, n. 49, per un importo non superiore al 2 per cento del reddito complessivo dichiarato; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    le indennita' per perdita dell'avviamento corrisposte per disposizioni di legge al conduttore in caso di cessazione della locazione di immobili urbani adibiti ad usi diversi da quello di abitazione; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    le erogazioni liberali in denaro, fino all'importo di 2 milioni di lire, a favore dell'Istituto centrale per il sostentamento del clero della Chiesa cattolica italiana; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    le erogazioni liberali in denaro di cui all'articolo 29, comma 2, della legge 22 novembre 1988, n. 516, all'articolo 21, comma 1, della legge 22 novembre 1988, n. 517, e all'articolo 3, comma 2, della legge 5 ottobre 1993, n. 409, nei limiti e alle condizioni ivi previsti. 
+
+                                
+                            
+                            
+                                l-bis)
+                                
+                                    il cinquanta per cento delle spese sostenute dai genitori adottivi per l'espletamento della procedura di adozione disciplinata dalle disposizioni contenute nel Capo I del Titolo III della legge 4 maggio 1983, n. 184. 
+
+                                
+                            
+                            
+                                l-ter)
+                                
+                                    le erogazioni liberali in denaro per il pagamento degli oneri difensivi dei soggetti ammessi al patrocinio a spese dello Stato, anche quando siano eseguite da persone fisiche. 
+
+                                
+                            
+                            
+                                l-quater)
+                                
+                                    le erogazioni liberali in denaro effettuate a favore di universita', fondazioni universitarie di cui all'articolo 59, comma 3, della legge 23 dicembre 2000, n. 388, del Fondo per il merito degli studenti universitari e di istituzioni universitarie pubbliche, degli enti di ricerca pubblici, ovvero degli enti di ricerca vigilati dal Ministero dell'istruzione, dell'universita' e della ricerca, ivi compresi l'Istituto superiore di sanita' e l'Istituto superiore per la prevenzione e la sicurezza del lavoro, nonche' degli enti parco regionali e nazionali.
 
 Le spese di cui alla lettera b) del comma 1 sono deducibili anche se sono state sostenute per le persone indicate nell'articolo 433 del codice civile. Tale disposizione si applica altresi' per gli oneri di cui alla lettera e) del comma 1 relativamente alle persone indicate nel medesimo articolo 433 del codice civile se fiscalmente a carico. Sono altresi' deducibili, fino all'importo di lire 3.000.000, i medesimi oneri versati per gli addetti ai servizi domestici e all'assistenza personale o familiare. PERIODO ABROGATO DAL D.LGS. 5 DICEMBRE 2005, N. 252.
 
@@ -380,6 +665,31 @@ Per abitazione principale si intende quella nella quale la persona fisica, che l
 
 ## Art. 11. — (Determinazione dell'imposta)
 
+1.
+                        
+                            
+                                L'imposta lorda e' determinata applicando al reddito complessivo, al netto degli oneri deducibili indicati nell'articolo 10, le seguenti aliquote per scaglioni di reddito: 
+ 
+                            
+                            
+                                a)
+                                
+                                    fino a 28.000 euro, 23 per cento; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    oltre 28.000 euro e fino a 50.000 euro, ((33 per cento)); 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    oltre 50.000 euro, 43 per cento.
+
 Se alla formazione del reddito complessivo concorrono soltanto redditi di pensione non superiori a 7.500 euro, goduti per l'intero anno, redditi di terreni per un importo non superiore a 185,92 euro e il reddito dell'unita' immobiliare adibita ad abitazione principale e delle relative pertinenze, l'imposta non e' dovuta.
 
 Se alla formazione del reddito complessivo concorrono soltanto redditi fondiari di cui all'articolo 25 di importo complessivo non superiore a 500 euro, l'imposta non e' dovuta. (133)
@@ -406,6 +716,47 @@ Dall'imposta netta si detrae l'ammontare dei crediti d'imposta spettanti al cont
  Ha inoltre disposto (con l'art. 6, comma 8) che la presente modifica si applica a decorrere dal periodo d'imposta 2024.
 
 ## Art. 12. — (Detrazioni per carichi di famiglia)
+
+1.
+                        
+                            
+                                Dall'imposta lorda si detraggono per carichi di famiglia i seguenti importi: 
+ 
+                            
+                            
+                                a)
+                                
+                                    per il coniuge non legalmente ed effettivamente separato: 
+ 1) 800 euro, diminuiti del prodotto tra 110 euro e l'importo corrispondente al rapporto fra reddito complessivo e 15.000 euro, se il reddito complessivo non supera 15.000 euro; 
+ 2) 690 euro, se il reddito complessivo e' superiore a 15.000 euro ma non a 40.000 euro; 
+ 3) 690 euro, se il reddito complessivo e' superiore a 40.000 euro ma non a 80.000 euro. La detrazione spetta per la parte corrispondente al rapporto tra l'importo di 80.000 euro, diminuito del reddito complessivo, e 40.000 euro; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la detrazione spettante ai sensi della lettera a) e' aumentata di un importo pari a: 
+ 1) 10 euro, se il reddito complessivo e' superiore a 29.000 euro ma non a 29.200 euro; 
+ 2) 20 euro, se il reddito complessivo e' superiore a 29.200 euro ma non a 34.700 euro; 
+ 3) 30 euro, se il reddito complessivo e' superiore a 34.700 euro ma non a 35.000 euro; 
+ 4) 20 euro, se il reddito complessivo e' superiore a 35.000 euro ma non a 35.100 euro; 
+ 5) 10 euro, se il reddito complessivo e' superiore a 35.100 euro ma non a 35.200 euro; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    950 euro per ciascun figlio, compresi i figli nati fuori del matrimonio riconosciuti, i figli adottivi, affiliati o affidati, e i figli conviventi del coniuge deceduto, di eta' pari o superiore a 21 anni ma inferiore a 30 anni, nonche' per ciascun figlio di eta' pari o superiore a 30 anni con disabilita' accertata ai sensi dell'articolo 3 della legge 5 febbraio 1992, n. 104. PERIODO SOPPRESSO DAL D.LGS. 21 DICEMBRE 2021, N. 230. PERIODO SOPPRESSO DAL D.LGS. 21 DICEMBRE 2021, N. 230. PERIODO SOPPRESSO DAL D.LGS. 21 DICEMBRE 2021, N. 230. La detrazione spetta per la parte corrispondente al rapporto tra l'importo di 95.000 euro, diminuito del reddito complessivo, e 95.000 euro. In presenza di piu' figli che danno diritto alla detrazione, l'importo di 95.000 euro e' aumentato per tutti di 15.000 euro per ogni figlio successivo al primo. La detrazione e' ripartita nella misura del 50 per cento tra i genitori non legalmente ed effettivamente separati ovvero, previo accordo tra gli stessi, spetta al genitore che possiede un reddito complessivo di ammontare piu' elevato. In caso di separazione legale ed effettiva o di annullamento, scioglimento o cessazione degli effetti civili del matrimonio, la detrazione spetta, in mancanza di accordo, al genitore affidatario. Nel caso di affidamento congiunto o condiviso la detrazione e' ripartita, in mancanza di accordo, nella misura del 50 per cento tra i genitori. Ove il genitore affidatario ovvero, in caso di affidamento congiunto, uno dei genitori affidatari non possa usufruire in tutto o in parte della detrazione, per limiti di reddito, la detrazione e' assegnata per intero al secondo genitore.
+Quest'ultimo, salvo diverso accordo tra le parti, e' tenuto a riversare all'altro genitore affidatario un importo pari all'intera detrazione ovvero, in caso di affidamento congiunto, pari al 50 per cento della detrazione stessa. In caso di coniuge fiscalmente a carico dell'altro, la detrazione compete a quest'ultimo per l'intero importo. Se l'altro genitore manca o non ha riconosciuto i figli naturali e il contribuente non e' coniugato o, se coniugato, si e' successivamente legalmente ed effettivamente separato, ovvero se vi sono figli adottivi, affidati o affiliati del solo contribuente e questi non e' coniugato o, se coniugato, si e' successivamente legalmente ed effettivamente separato, per il primo figlio si applicano, se piu' convenienti, le detrazioni previste alla lettera a); (213) 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    750 euro, da ripartire pro quota tra coloro che hanno diritto alla detrazione, per ciascun ascendente che conviva con il contribuente. La detrazione spetta per la parte corrispondente al rapporto tra l'importo di 80.000 euro, diminuito del reddito complessivo, e 80.000 euro.
 
 COMMA ABROGATO DAL D.LGS. 21 DICEMBRE 2021, N. 230.
 
@@ -441,13 +792,91 @@ Ai fini del comma 1 il reddito complessivo e' assunto al netto del reddito dell'
 
 ## Art. 13. — (Altre detrazioni)
 
+1.
+                        
+                            
+                                Se alla formazione del reddito complessivo concorrono uno o piu' redditi di cui agli articoli 49, con esclusione di quelli indicati nel comma 2, lettera a), e 50, comma 1, lettere a), b), c), c-bis), d), h-bis) e l), spetta una detrazione dall'imposta lorda, rapportata al periodo di lavoro nell'anno, pari a: 
+ 
+                            
+                            
+                                a)
+                                
+                                    
+                                        ((1.955 euro)), se il reddito complessivo non supera 15.000 euro. L'ammontare della detrazione effettivamente spettante non puo' essere inferiore a 690 euro. Per i rapporti di lavoro a tempo determinato, l'ammontare della detrazione effettivamente spettante non puo' essere inferiore a 1.380 euro; (229) 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    1.910 euro, aumentata del prodotto tra 1.190 euro e l'importo corrispondente al rapporto tra 28.000 euro, diminuito del reddito complessivo, e 13.000 euro, se l'ammontare del reddito complessivo e' superiore a 15.000 euro ma non a 28.000 euro; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    1.910 euro, se il reddito complessivo e' superiore a 28.000 euro ma non a 50.000 euro; la detrazione spetta per la parte corrispondente al rapporto tra l'importo di 50.000 euro, diminuito del reddito complessivo, e l'importo di 22.000 euro. 
+ 1.1. La detrazione spettante ai sensi del comma 1 e' aumentata di un importo pari a 65 euro, se il reddito complessivo e' superiore a 25.000 euro ma non a 35.000 euro.
+
 COMMA ABROGATO DAL D.L. 5 FEBBRAIO 2020, N. 3.
 
 COMMA ABROGATO DALLA L. 27 DICEMBRE 2013, N. 147.
 
+3.
+                        
+                            
+                                Se alla formazione del reddito complessivo concorrono uno o piu' redditi di pensione di cui all'articolo 49, comma 2, lettera a), spetta una detrazione dall'imposta lorda, non cumulabile con quella prevista al comma 1 del presente articolo, rapportata al periodo di pensione nell'anno, pari a: 
+ 
+                            
+                            
+                                a)
+                                
+                                    1.955 euro, se il reddito complessivo non supera 8.500 euro.
+L'ammontare della detrazione effettivamente spettante non puo' essere inferiore a 713 euro; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    700 euro, aumentata del prodotto fra 1.255 euro e l'importo corrispondente al rapporto fra 28.000 euro, diminuito del reddito complessivo, e 19.500 euro, se l'ammontare del reddito complessivo e' superiore a 8.500 euro ma non a 28.000 euro; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    700 euro, se il reddito complessivo e' superiore a 28.000 euro ma non a 50.000 euro. La detrazione spetta per la parte corrispondente al rapporto tra l'importo di 50.000 euro, diminuito del reddito complessivo, e l'importo di 22.000 euro.
+
 La detrazione spettante ai sensi del comma 3 e' aumentata di un importo pari a 50 euro, se il reddito complessivo e' superiore a 25.000 euro ma non a 29.000 euro.
 
 COMMA NON PIU' PREVISTO DALLA L. 11 DICEMBRE 2016, N. 232.
+
+5.
+                        
+                            
+                                Se alla formazione del reddito complessivo concorrono uno o piu' redditi di cui agli articoli 50, comma 1, lettere e), f), g), h) e i), ad esclusione di quelli derivanti dagli assegni periodici indicati nell'articolo 10, comma 1, lettera c), fra gli oneri deducibili, 53, 66 e 67, comma 1, lettere i) e l), spetta una detrazione dall'imposta lorda, non cumulabile con quelle previste ai commi 1, 2, 3 e 4 del presente articolo, pari a: 
+ 
+                            
+                            
+                                a)
+                                
+                                    1.265 euro, se il reddito complessivo non supera 5.500 euro; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    500 euro, aumentata del prodotto fra 765 euro e l'importo corrispondente al rapporto fra 28.000 euro, diminuito del reddito complessivo, e 22.500 euro, se l'ammontare del reddito complessivo e' superiore a 5.500 euro ma non a 28.000 euro; 
+
+                                
+                            
+                            
+                                b-bis)
+                                
+                                    500 euro, se il reddito complessivo e' superiore a 28.000 euro ma non a 50.000 euro. La detrazione spetta per la parte corrispondente al rapporto tra l'importo di 50.000 euro, diminuito del reddito complessivo, e l'importo di 22.000 euro.
 
 Se alla formazione del reddito complessivo concorrono redditi derivanti dagli assegni periodici indicati fra gli oneri deducibili nell'articolo 10, comma 1, lettera c), spetta una detrazione dall'imposta lorda, non cumulabile con quelle previste dai commi 1, 2, 3, 4 e 5, in misura pari a quelle di cui al comma 3, non rapportate ad alcun periodo nell'anno. (133)
 
@@ -496,6 +925,200 @@ Ai fini del presente articolo il reddito complessivo e' assunto al netto del red
 
 ## Art. 15. — (Detrazioni per oneri)
 
+1.
+                        
+                            
+                                Dall'imposta lorda si detrae un importo pari al 22 per cento dei seguenti oneri sostenuti dal contribuente, se non deducibili nella determinazione dei singoli redditi che concorrono a formare il reddito complessivo: 
+ 
+                            
+                            
+                                a)
+                                
+                                    gli interessi passivi e relativi oneri accessori, nonche' le quote di rivalutazione dipendenti da clausole di indicizzazione, pagati a soggetti residenti nel territorio dello Stato o di uno Stato membro della Comunita' europea ovvero a stabili organizzazioni nel territorio dello Stato di soggetti non residenti in dipendenza di prestiti o mutui agrari di ogni specie, nei limiti dei redditi dei terreni dichiarati; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    gli interessi passivi, e relativi oneri accessori, nonche' le quote di rivalutazione dipendenti da clausole di indicizzazione pagati a soggetti residenti nel territorio dello Stato o di uno Stato membro della Comunita' europea ovvero a stabili organizzazioni nel territorio dello Stato di soggetti non residenti in dipendenza di mutui garantiti da ipoteca su immobili contratti per l'acquisto dell'unita' immobiliare da adibire ad abitazione principale entro un anno dall'acquisto stesso, per un importo non superiore a 4.000 euro.
+L'acquisto della unita' immobiliare deve essere effettuato nell'anno precedente o successivo alla data della stipulazione del contratto di mutuo. Non si tiene conto del suddetto periodo nel caso in cui l'originario contratto e' estinto e ne viene stipulato uno nuovo di importo non superiore alla residua quota di capitale da rimborsare, maggiorata delle spese e degli oneri correlati. In caso di acquisto di unita' immobiliare locata, la detrazione spetta a condizione che entro tre mesi dall'acquisto sia stato notificato al locatario l'atto di intimazione di licenza o di sfratto per finita locazione e che entro un anno dal rilascio l'unita' immobiliare sia adibita ad abitazione principale. Per abitazione principale si intende quella nella quale il contribuente o i suoi familiari dimorano abitualmente.
+La detrazione spetta non oltre il periodo d'imposta nel corso del quale e' variata la dimora abituale; non si tiene conto delle variazioni dipendenti da trasferimenti per motivi di lavoro. Non si tiene conto, altresi', delle variazioni dipendenti da ricoveri permanenti in istituti di ricovero o sanitari, a condizione che l'unita' immobiliare non risulti locata. Nel caso l'immobile acquistato sia oggetto di lavori di ristrutturazione edilizia, comprovata dalla relativa concessione edilizia o atto equivalente, la detrazione spetta a decorrere dalla data in cui l'unita' immobiliare e' adibita a dimora abituale, e comunque entro due anni dall'acquisto. In caso di contitolarita' del contratto di mutuo o di piu' contratti di mutuo il limite di 4.000 euro. e' riferito all'ammontare complessivo degli interessi, oneri accessori e quote di rivalutazione sostenuti. La detrazione spetta, nello stesso limite complessivo e alle stesse condizioni, anche con riferimento alle somme corrisposte dagli assegnatari di alloggi di cooperative e dagli acquirenti di unita' immobiliari di nuova costruzione, alla cooperativa o all'impresa costruttrice a titolo di rimborso degli interessi passivi, oneri accessori e quote di rivalutazione relativi ai mutui ipotecari contratti dalla stessa e ancora indivisi. Se il mutuo e' intestato ad entrambi i coniugi, ciascuno di essi puo' fruire della detrazione unicamente per la propria quota di interessi; in caso di coniuge fiscalmente a carico dell'altro la detrazione spetta a quest'ultimo per entrambe le quote; (165) 
+
+                                
+                            
+                            
+                                b-bis)
+                                
+                                    dal 1° gennaio 2007 i compensi comunque denominati pagati a soggetti di intermediazione immobiliare in dipendenza dell'acquisto dell'unita' immobiliare da adibire ad abitazione principale per un importo non superiore ad euro 1.000 per ciascuna annualita' 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    Le spese sanitarie, per la parte che eccede lire 250 mila.
+Dette spese sono costituite esclusivamente dalle spese mediche e di assistenza specifica, diverse da quelle indicate nell'articolo 10, comma 1, lettera b), e dalle spese chirurgiche, per prestazioni specialistiche e per protesi dentarie e sanitarie in genere, nonche' dalle spese sostenute per l'acquisto di alimenti a fini medici speciali, inseriti nella sezione A1 del Registro nazionale di cui all'articolo 7 del decreto del Ministro della sanita' 8 giugno 2001, pubblicato nella Gazzetta Ufficiale n. 154 del 5 luglio 2001, con l'esclusione di quelli destinati ai lattanti. Ai fini della detrazione la spesa sanitaria relativa all'acquisto di medicinali deve essere certificata da fattura o da scontrino fiscale contenente la specificazione della natura, qualita' e quantita' dei beni e l'indicazione del codice fiscale del destinatario. Le spese riguardanti i mezzi necessari all'accompagnamento, alla deambulazione, alla locomozione e al sollevamento e per sussidi tecnici e informatici rivolti a facilitare l'autosufficienza e le possibilita' di integrazione dei soggetti di cui all'articolo 3 della legge 5 febbraio 1992, n. 104, si assumono integralmente. Tra i mezzi necessari per la locomozione dei soggetti indicati nel precedente periodo, con ridotte o impedite capacita' motorie permanenti, si comprendono i motoveicoli e gli autoveicoli di cui, rispettivamente, agli articoli 53, comma 1, lettere b), c) ed f), e 54, comma 1, lettere a), c), f) ed m), del decreto legislativo 30 aprile 1992, n. 285, anche se prodotti in serie e adattati in funzione delle suddette limitazioni permanenti delle capacita' motorie. Tra i veicoli adattati alla guida sono compresi anche quelli dotati di solo cambio automatico, purche' prescritto dalla commissione medica locale di cui all'articolo 119 del decreto legislativo 30 aprile 1992, n. 285. Tra i mezzi necessari per la locomozione dei non vedenti sono compresi i cani guida e gli autoveicoli rispondenti alle caratteristiche da stabilire con decreto del Ministro delle finanze. Tra i mezzi necessari per la locomozione dei sordomuti sono compresi gli autoveicoli rispondenti alle caratteristiche da stabilire con decreto del Ministro delle finanze. La detrazione spetta una sola volta in un periodo di quattro anni, salvo i casi in cui dal Pubblico registro automobilistico risulti che il suddetto veicolo sia stato cancellato da detto registro, e con riferimento a un solo veicolo, nei limiti della spesa di lire trentacinque milioni o, nei casi in cui risultasse che il suddetto veicolo sia stato rubato e non ritrovato, nei limiti della spesa massima di lire trentacinque milioni da cui va detratto l'eventuale rimborso assicurativo. E' consentito, alternativamente, di ripartire la predetta detrazione in quattro quote annuali costanti e di pari importo. . La medesima ripartizione della detrazione in quattro quote annuali di pari importo e' consentita, con riferimento alle altre spese di cui alla presente lettera, nel caso in cui queste ultime eccedano, complessivamente, il limite di lire 30 milioni annue. Si considerano rimaste a carico del contribuente anche le spese rimborsate per effetto di contributi o premi di assicurazione da lui versati e per i quali non spetta la detrazione d'imposta o che non sono deducibili dal suo reddito complessivo ne' dai redditi che concorrono a formarlo. Si considerano, altresi', rimaste a carico del contribuente le spese rimborsate per effetto di contributi o premi che, pur essendo versati da altri, concorrono a formare il suo reddito, salvo che il datore di lavoro ne abbia riconosciuto la detrazione in sede di ritenuta. (128)(187) 
+
+                                
+                            
+                            
+                                c-bis)
+                                
+                                    le spese veterinarie, fino all'importo di euro 550, limitatamente alla parte che eccede euro 129,11. Con decreto del Ministero delle finanze sono individuate le tipologie di animali per le quali spetta la detraibilita' delle predette spese; 
+
+                                
+                            
+                            
+                                c-ter)
+                                
+                                    le spese sostenute per i servizi di interpretariato dai soggetti riconosciuti sordomuti, ai sensi della legge 26 maggio 1970, n. 381; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    le spese funebri sostenute in dipendenza della morte di persone, per importo non superiore a euro 1.550 per ciascuna di esse; (174) 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    le spese per frequenza di corsi di istruzione universitaria presso universita' statali e non statali, in misura non superiore, per le universita' non statali, a quella stabilita annualmente per ciascuna facolta' universitaria con decreto del Ministero dell'istruzione, dell'universita' e della ricerca da emanare entro il 31 dicembre, tenendo conto degli importi medi delle tasse e contributi dovuti alle universita' statali; (174) 
+
+                                
+                            
+                            
+                                e-bis)
+                                
+                                    le spese per la frequenza di scuole dell'infanzia del primo ciclo di istruzione e della scuola secondaria di secondo grado del sistema nazionale di istruzione di cui all'articolo 1 della legge 10 marzo 2000, n. 62, e successive modificazioni, per un importo annuo non superiore ((a 1.000 euro)) per alunno o studente. Per le erogazioni liberali alle istituzioni scolastiche per l'ampliamento dell'offerta formativa rimane fermo il beneficio di cui alla lettera i-octies), che non e' cumulabile con quello di cui alla presente lettera; 
+
+                                
+                            
+                            
+                                e-ter)
+                                
+                                    le spese sostenute in favore dei minori o di maggiorenni, con diagnosi di disturbo specifico dell'apprendimento (DSA) fino al completamento della scuola secondaria di secondo grado, per l'acquisto di strumenti compensativi e di sussidi tecnici e informatici, di cui alla legge 8 ottobre 2010, n. 170, necessari all'apprendimento, nonche' per l'uso di strumenti compensativi che favoriscano la comunicazione verbale e che assicurino ritmi graduali di apprendimento delle lingue straniere, in presenza di un certificato medico che attesti il collegamento funzionale tra i sussidi e gli strumenti acquistati e il tipo di disturbo dell'apprendimento diagnosticato; (189) 
+
+                                
+                            
+                            
+                                e-quater)
+                                
+                                    le spese, per un importo non superiore a 1.000 euro, sostenute da contribuenti con reddito complessivo non superiore a 36.000 euro per l'iscrizione annuale e l'abbonamento di ragazzi di eta' compresa tra 5 e 18 anni a conservatori di musica, a istituzioni di alta formazione artistica, musicale e coreutica (AFAM) legalmente riconosciute ai sensi della legge 21 dicembre 1999, n. 508, a scuole di musica iscritte nei registri regionali nonche' a cori, bande e scuole di musica riconosciuti da una pubblica amministrazione, per lo studio e la pratica della musica.(200) 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    i premi per assicurazioni aventi per oggetto il rischio di morte o di invalidita' permanente non inferiore al 5 per cento da qualsiasi causa derivante, ovvero di non autosufficienza nel compimento degli atti della vita quotidiana, se l'impresa di assicurazione non ha facolta' di recesso dal contratto, per un importo complessivamente non superiore a euro 630 per il periodo d'imposta in corso alla data del 31 dicembre 2013, nonche' a euro 530 a decorrere dal periodo d'imposta in corso al 31 dicembre 2014 e, a decorrere dallo stesso periodo d'imposta, a euro 1.291,14, limitatamente ai premi per assicurazioni aventi per oggetto il rischio di non autosufficienza nel compimento degli atti della vita quotidiana, al netto dei predetti premi aventi per oggetto il rischio di morte o di invalidita' permanente. A decorrere dal periodo d'imposta in corso al 31 dicembre 2016, l'importo di euro 530 e' elevato a euro 750 relativamente ai premi per assicurazioni aventi per oggetto il rischio di morte finalizzate alla tutela delle persone con disabilita' grave come definita dall'articolo 3, comma 3, della legge 5 febbraio 1992, n. 104, accertata con le modalita' di cui all'articolo 4 della medesima legge. Con decreto del Ministero delle finanze, sentito l'Istituto per la vigilanza sulle assicurazioni private (ISVAP), sono stabilite le caratteristiche alle quali devono rispondere i contratti che assicurano il rischio di non autosufficienza. Per i percettori di redditi di lavoro dipendente e assimilato, si tiene conto, ai fini del predetto limite, anche dei premi di assicurazione in relazione ai quali il datore di lavoro ha effettuato la detrazione in sede di ritenuta; 
+
+                                
+                            
+                            
+                                f-bis)
+                                
+                                    i premi per assicurazioni aventi per oggetto il rischio di eventi calamitosi stipulate relativamente a unita' immobiliari ad uso abitativo; (189) (202) 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    le spese sostenute dai soggetti obbligati alla manutenzione, protezione o restauro delle cose vincolate ai sensi della legge 1 giugno 1939, n. 1089, e del decreto del Presidente della Repubblica 30 settembre 1963, n. 1409, nella misura effettivamente rimasta a carico. La necessita' delle spese, quando non siano obbligatorie per legge, deve risultare da apposita certificazione rilasciata dalla competente soprintendenza del Ministero per i beni culturali e ambientali, previo accertamento della loro congruita' effettuato d'intesa con il competente ufficio del territorio del Ministero delle finanze. La detrazione non spetta in caso di mutamento di destinazione dei beni senza la preventiva autorizzazione dell'Amministrazione per i beni culturali e ambientali, di mancato assolvimento degli obblighi di legge per consentire l'esercizio del diritto di prelazione dello Stato sui beni immobili e mobili vincolati e di tentata esportazione non autorizzata di questi ultimi.
+L'Amministrazione per i beni culturali ed ambientali da' immediata comunicazione al competente ufficio delle entrate del Ministero delle finanze delle violazioni che comportano la perdita del diritto alla detrazione; dalla data di ricevimento della comunicazione inizia a decorrere il termine per la rettifica della dichiarazione dei redditi; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    le erogazioni liberali in denaro a favore dello Stato, delle regioni, degli enti locali territoriali, di enti o istituzioni pubbliche, di comitati organizzatori appositamente istituiti con decreto del Ministro per i beni culturali e ambientali, di fondazioni e associazioni legalmente riconosciute senza scopo di lucro, che svolgono o promuovono attivita' di studio, di ricerca e di documentazione di rilevante valore culturale e artistico o che organizzano e realizzano attivita' culturali, effettuate in base ad apposita convenzione, per l'acquisto, la manutenzione, la protezione o il restauro delle cose indicate nell'articolo 1 della legge 1 giugno 1939, n. 1089, e nel decreto del Presidente della Repubblica 30 settembre 1963, n. 1409, ivi comprese le erogazioni effettuate per l'organizzazione in Italia e all'estero di mostre e di esposizioni di rilevante interesse scientifico-culturale delle cose anzidette, e per gli studi e le ricerche eventualmente a tal fine necessari, nonche' per ogni altra manifestazione di rilevante interesse scientifico- culturale anche ai fini didattico-promozionali, ivi compresi gli studi, le ricerche, la documentazione e la catalogazione, e le pubblicazioni relative ai beni culturali. Le iniziative culturali devono essere autorizzate, previo parere del competente comitato di settore del Consiglio nazionale per i beni culturali e ambientali, dal Ministero per i beni culturali e ambientali, che deve approvare la previsione di spesa ed il conto consuntivo. Il Ministero per i beni culturali e ambientali stabilisce i tempi necessari affinche' le erogazioni liberali fatte a favore delle associazioni legalmente riconosciute, delle istituzioni e delle fondazioni siano utilizzate per gli scopi indicati nella presente lettera e controlla l'impiego delle erogazioni stesse. Detti termini possono, per causa non imputabile al donatario, essere prorogati una sola volta. Le erogazioni liberali non integralmente utilizzate nei termini assegnati affluiscono all'entrata del bilancio dello Stato, o delle regioni e degli enti locali territoriali, nel caso di attivita' o manifestazioni in cui essi siano direttamente coinvolti, e sono destinate ad un fondo da utilizzare per le attivita' culturali previste per l'anno successivo. Il Ministero per i beni culturali e ambientali comunica, entro il 31 marzo di ciascun anno, al centro informativo del Dipartimento delle entrate del Ministero delle finanze l'elenco nominativo dei soggetti erogatori, nonche' l'ammontare delle erogazioni effettuate entro il 31 dicembre dell'anno precedente; 
+
+                                
+                            
+                            
+                                h-bis)
+                                
+                                    il costo specifico o, in mancanza, il valore normale dei beni ceduti gratuitamente, in base ad apposita convenzione, ai soggetti e per le attivita' di cui alla lettera h); 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    le erogazioni liberali in denaro, per importo non superiore al 2 per cento del reddito complessivo dichiarato, a favore di enti o istituzioni pubbliche, fondazioni e associazioni legalmente riconosciute che senza scopo di lucro svolgono esclusivamente attivita' nello spettacolo, effettuate per la realizzazione di nuove strutture, per il restauro ed il potenziamento delle strutture esistenti, nonche' per la produzione nei vari settori dello spettacolo. Le erogazioni non utilizzate per tali finalita' dal percipiente entro il termine di due anni dalla data del ricevimento affluiscono, nella loro totalita', all'entrata dello Stato. 
+
+                                
+                            
+                            
+                                i-bis)
+                                
+                                    LETTERA ABROGATA DAL D.LGS. 3 LUGLIO 2017, N. 117; (186) (187) 
+
+                                
+                            
+                            
+                                i-ter)
+                                
+                                    le erogazioni liberali in denaro per un importo complessivo in ciascun periodo d'imposta non superiore a 1.500 euro, in favore delle societa' e associazioni sportive dilettantistiche, a condizione che il versamento di tali erogazioni sia eseguito tramite banca o ufficio postale ovvero secondo altre modalita' stabilite con decreto del Ministro dell'economia e delle finanze, da adottare ai sensi dell'articolo 17, comma 3, della legge 23 agosto 1988, n. 400. 
+
+                                
+                            
+                            
+                                i-quater)
+                                
+                                    LETTERA ABROGATA DAL D.LGS. 3 LUGLIO 2017, N. 117; (186) (187) 
+
+                                
+                            
+                            
+                                i-quinquies)
+                                
+                                    le spese, per un importo non superiore a 210 euro, sostenute per l'iscrizione annuale e l'abbonamento, per i ragazzi di eta' compresa tra 5 e 18 anni, ad associazioni sportive, palestre, piscine ed altre strutture ed impianti sportivi destinati alla pratica sportiva dilettantistica rispondenti alle caratteristiche individuate con decreto del Presidente del Consiglio dei ministri, o Ministro delegato, di concerto con il Ministro dell'economia e delle finanze, e le attivita' sportive; 
+
+                                
+                            
+                            
+                                i-sexies)
+                                
+                                    i canoni di locazione derivanti dai contratti di locazione stipulati o rinnovati ai sensi della legge 9 dicembre 1998, n. 431, e successive modificazioni, i canoni relativi ai contratti di ospitalita', nonche' agli atti di assegnazione in godimento o locazione, stipulati con enti per il diritto allo studio, universita', collegi universitari legalmente riconosciuti, enti senza fine di lucro e cooperative, dagli studenti iscritti ad un corso di laurea presso una universita' ubicata in un comune diverso da quello di residenza, distante da quest'ultimo almeno 100 chilometri e comunque in una provincia diversa, per unita' immobiliari situate nello stesso comune in cui ha sede 1' universita' o in comuni limitrofi, per un importo non superiore a 2.633 euro. PERIODO SOPPRESSO DALLA L. 27 DICEMBRE 2017, N. 205. Alle medesime condizioni ed entro lo stesso limite, la detrazione spetta per i canoni derivanti da contratti di locazione e di ospitalita' ovvero da atti di assegnazione in godimento stipulati, ai sensi della normativa vigente nello Stato in cui l'immobile e' situato, dagli studenti iscritti a un corso di laurea presso un'universita' ubicata nel territorio di uno Stato membro dell'Unione europea o in uno degli Stati aderenti all'Accordo sullo spazio economico europeo che sono inclusi nella lista di cui al decreto del Ministro dell'economia e delle finanze emanato ai sensi dell'articolo 168-bis; (148) 
+ i-sexies.01) limitatamente ai periodi d'imposta in corso al 31 dicembre 2017 e al 31 dicembre 2018, il requisito della distanza di cui alla lettera i-sexies) si intende rispettato anche all'interno della stessa provincia ed e' ridotto a 50 chilometri per gli studenti residenti in zone montane o disagiate; 
+ i-sexies.1) i canoni, e i relativi oneri accessori, per un importo non superiore a 8.000 euro, e il costo di acquisto a fronte dell'esercizio dell'opzione finale, per un importo non superiore a 20.000 euro, derivanti da contratti di locazione finanziaria su unita' immobiliari, anche da costruire, da adibire ad abitazione principale entro un anno dalla consegna, sostenuti da giovani di eta' inferiore a 35 anni con un reddito complessivo non superiore a 55.000 euro all'atto della stipula del contratto di locazione finanziaria che non sono titolari di diritti di proprieta' su immobili a destinazione abitativa; la detrazione spetta alle condizioni di cui alla lettera b); (174) 
+ i-sexies.2) le spese di cui alla lettera i-sexies.1), alle condizioni ivi indicate e per importi non superiori alla meta' di quelli ivi indicati, sostenute da soggetti di eta' non inferiore a 35 anni con un reddito complessivo non superiore a 55.000 euro all'atto della stipula del contratto di locazione finanziaria che non sono titolari di diritti di proprieta' su immobili a destinazione abitativa. (174) 
+
+                                
+                            
+                            
+                                i-septies)
+                                
+                                    le spese, per un importo non superiore a 2.100 euro, sostenute per gli addetti all'assistenza personale nei casi di non autosufficienza nel compimento degli atti della vita quotidiana, se il reddito complessivo non supera 40.000 euro. 
+
+                                
+                            
+                            
+                                i-octies)
+                                
+                                    le erogazioni liberali a favore degli istituti scolastici di ogni ordine e grado, statali e paritari senza scopo di lucro appartenenti al sistema nazionale di istruzione di cui alla legge 10 marzo 2000, n. 62, e successive modificazioni, nonche' a favore degli istituti tecnici superiori di cui al decreto del Presidente del Consiglio dei ministri 25 gennaio 2008, pubblicato nella Gazzetta Ufficiale n. 86 dell'11 aprile 2008, delle istituzioni dell'alta formazione artistica, musicale e coreutica e delle universita', finalizzate all'innovazione tecnologica, all'edilizia scolastica e universitaria e all'ampliamento dell'offerta formativa; la detrazione spetta a condizione che il versamento di tali erogazioni sia eseguito tramite banca o ufficio postale ovvero mediante gli altri sistemi di pagamento previsti dall'articolo 23 del decreto legislativo 9 luglio 1997, n. 241. (129) (160) 
+
+                                
+                            
+                            
+                                i-novies)
+                                
+                                    le erogazioni liberali in denaro al Fondo per l'ammortamento dei titoli di Stato, di cui all'articolo 45, comma 1, lettera e), del testo unico di cui al decreto del Presidente della Repubblica 30 dicembre 2003, n. 398, effettuate mediante versamento bancario o postale ovvero secondo altre modalita' stabilite con apposito decreto del Ministro dell'economia e delle finanze. (161) 
+
+                                
+                            
+                            
+                                i-decies)
+                                
+                                    le spese sostenute per l'acquisto degli abbonamenti ai servizi di trasporto pubblico locale, regionale e interregionale per un importo non superiore a 250 euro. 
+ 1.1 Dall'imposta lorda si detrae un importo pari al 24 per cento, per l'anno 2013, e al 26 per cento, a decorrere dall'anno 2014, per le erogazioni liberali in denaro, per importo non superiore a 30.000 euro annui, a favore delle organizzazioni non lucrative di utilita' sociale (ONLUS), delle iniziative umanitarie, religiose o laiche, gestite da fondazioni, associazioni, comitati ed enti individuati con decreto del Presidente del Consiglio dei ministri, nei Paesi non appartenenti all'Organizzazione per la cooperazione e lo sviluppo economico (OCSE). La detrazione e' consentita a condizione che il versamento di tali erogazioni sia eseguito tramite banca o ufficio postale ovvero mediante gli altri sistemi di pagamento previsti dall'articolo 23 del decreto legislativo 9 luglio 1997, n. 241, e secondo ulteriori modalita' idonee a consentire all'Amministrazione finanziaria lo svolgimento di efficaci controlli, che possono essere stabilite con decreto del Ministro dell'economia e delle finanze da emanare ai sensi dell'articolo 17, comma 3, della legge 23 agosto 1988, n. 400. (169)
+
 COMMA ABROGATO DAL D.L. 28 DICEMBRE 2013, N. 149, CONVERTITO CON MODIFICAZIONI DALLA L. 21 FEBBRAIO 2014, N. 13.
 
 Ai fini dell'imposta sul reddito delle persone fisiche, si detrae dall'imposta lorda, e fino alla concorrenza del suo ammontare, un importo pari al 19 per cento dell'ammontare complessivo non superiore a 5 milioni di lire degli interessi passivi e relativi oneri accessori, nonche' delle quote di rivalutazione dipendenti da clausole di indicizzazione pagati a soggetti residenti nel territorio dello Stato o di uno Stato membro delle Comunita' europee, ovvero a stabili organizzazioni nel territorio dello Stato di soggetti non residenti, in dipendenza di mutui contratti, a partire dal 1 gennaio 1998 e garantiti da ipoteca, per la costruzione dell'unita' immobiliare da adibire ad abitazione principale. La detrazione e' ammessa a condizione che la stipula del contratto di mutuo da parte del soggetto possessore a titolo di proprieta' o altro diritto reale dell'unita' immobiliare avvenga nei sei mesi antecedenti, ovvero nei diciotto mesi successivi all'inizio dei lavori di costruzione. Con decreto del Ministro delle finanze sono stabilite le modalita' e le condizioni alle quali e' subordinata la detrazione di cui al presente comma.
@@ -505,6 +1128,24 @@ Ai fini dell'imposta sul reddito delle persone fisiche, si detrae dall'imposta l
 Per gli oneri indicati alle lettere c ), e), e-bis), e-ter), e-quater), f), i-quinquies), i-sexies) e i-decies) del comma 1 la detrazione spetta anche se sono stati sostenuti nell'interesse delle persone indicate nell'articolo 12 che si trovino nelle condizioni ivi previste, fermo restando, per gli oneri di cui alle lettere f) e i-decies), i limiti complessivi ivi stabiliti. Per gli oneri di cui alla lettera c) del medesimo comma 1 sostenuti nell'interesse delle persone indicate nell'articolo 12 che non si trovino nelle condizioni previste dal comma 2 del medesimo articolo, affette da patologie che danno diritto all'esenzione dalla partecipazione alla spesa sanitaria, la detrazione spetta per la parte che non trova capienza nell'imposta da esse dovuta, relativamente alle sole spese sanitarie riguardanti tali patologie, ed entro il limite annuo di lire 12.000.000. Per le spese di cui alla lettera i-septies) del citato comma 1, la detrazione spetta, alle condizioni ivi stabilite, anche se sono state sostenute per le persone indicate nell'articolo 12 ancorche' non si trovino nelle condizioni previste dal comma 2 del medesimo articolo. (189)
 
 Per gli oneri di cui alle lettere a), g), h), h-bis), i), i-bis) e i-quater) del comma 1 sostenuti dalle societa' semplici di cui all'articolo 5 la detrazione spetta ai singoli soci nella stessa proporzione prevista nel menzionato articolo 5 ai fini della imputazione del reddito.
+
+3-bis.
+                        
+                            
+                                La detrazione di cui al presente articolo spetta: 
+ 
+                            
+                            
+                                a)
+                                
+                                    per l'intero importo qualora il reddito complessivo non ecceda 120.000 euro; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    per la parte corrispondente al rapporto tra l'importo di 240.000 euro, diminuito del reddito complessivo, e 120.000 euro, qualora il reddito complessivo sia superiore a 120.000 euro. (229)
 
 Ai fini del comma 3-bis, il reddito complessivo e' assunto al netto del reddito dell'unita' immobiliare adibita ad abitazione principale e di quello delle relative pertinenze di cui all'articolo 10, comma 3-bis.
 
@@ -585,7 +1226,61 @@ La detrazione compete per l'intero importo, a prescindere dall'ammontare del red
 
 ## Art. 16. — Detrazioni per canoni di locazione
 
+01.
+                        
+                            
+                                Ai soggetti titolari di contratti di locazione di unita' immobiliari adibite ad abitazione principale, stipulati o rinnovati ai sensi della legge 9 dicembre 1998, n. 431, spetta una detrazione complessivamente pari a: 
+ 
+                            
+                            
+                                a)
+                                
+                                    euro 300, se il reddito complessivo non supera euro 15.493,71; 
 
+                                
+                            
+                            
+                                b)
+                                
+                                    euro 150, se il reddito complessivo supera euro 15.493,71 ma non euro 30.987,41.
+
+1.
+                        
+                            
+                                Ai soggetti titolari di contratti di locazione di unita' immobiliari adibite ad abitazione principale degli stessi, stipulati o rinnovati a norma degli articoli 2, comma 3, e 4, commi 2 e 3, della legge 9 dicembre 1998, n. 431, spetta una detrazione complessivamente pari a: 
+ 
+                            
+                            
+                                a)
+                                
+                                    lire 960.000, se il reddito complessivo non supera lire 30.000.000; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    lire 480.000, se il reddito complessivo supera lire 30.000.000 ma non lire 60.000.000.
+
+1-bis.
+                        
+                            
+                                Ai lavoratori dipendenti che hanno trasferito o trasferiscono la propria residenza nel comune di lavoro o in uno di quelli limitrofi nei tre anni antecedenti quello di richiesta della detrazione, e siano titolari di contratti di locazione di unita' immobiliari adibite ad abitazione principale degli stessi e situate nel nuovo comune di residenza, a non meno di 100 chilometri di distanza dal precedente e comunque al di fuori della propria regione, spetta una detrazione, per i primi tre anni complessivamente pari a: 
+ 
+                            
+                            
+                                a)
+                                
+                                    lire 1.920.000, se il reddito complessivo non supera lire 30 milioni; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    lire 960.000, se il reddito complessivo supera lire 30 milioni ma non lire 60 milioni.
+
+((1-ter. Ai giovani di eta' compresa fra i 20 e i 31 anni non compiuti, con un reddito complessivo non superiore a 15.493,71 euro, che stipulano un contratto di locazione ai sensi della legge 9 dicembre 1998, n. 431, per l'intera unita' immobiliare o porzione di essa, da destinare a propria residenza, sempre che la stessa sia diversa dall'abitazione principale dei genitori o di coloro cui sono affidati dagli organi competenti ai sensi di legge, spetta, per i primi quattro anni di durata contrattuale, una detrazione dall'imposta lorda pari a euro 991,60, ovvero, se superiore, pari al 20 per cento dell'ammontare del canone di locazione e comunque entro il limite massimo di euro 2.000))
 
 Le detrazioni di cui ai commi da 01 a 1-ter, da ripartire tra gli aventi diritto, non sono tra loro cumulabili e il contribuente ha diritto, a sua scelta, di fruire della detrazione piu' favorevole.
 
@@ -609,6 +1304,80 @@ Qualora la detrazione spettante ai sensi del presente articolo sia di ammontare 
  Il D.L. 24 giugno 2014, n. 91 convertito con modificazioni dalla L. 11 agosto 2014, n. 116 ha disposto (con l'art. 7, comma 2) che "La disposizione del comma 1 si applica a decorrere dal periodo d'imposta 2014, per il medesimo periodo d'imposta l'acconto relativo all'imposta sul reddito delle persone fisiche e' calcolato senza tenere conto delle disposizioni di cui allo stesso comma 1".
 
 ## Art. 16-bis. — (Detrazione delle spese per interventi di recupero del patrimonio edilizio e di riqualificazione energetica degli edifici)
+
+1.
+                        
+                            
+                                Dall'imposta lorda si detrae un importo pari al 36 per cento delle spese documentate, fino ad un ammontare complessivo delle stesse non superiore a 48.000 euro per unita' immobiliare, sostenute ed effettivamente rimaste a carico dei contribuenti che possiedono o detengono, sulla base di un titolo idoneo, l'immobile sul quale sono effettuati gli interventi: 
+ 
+                            
+                            
+                                a)
+                                
+                                    di cui alle lett. a) b), c) e d) dell'articolo 3 del decreto del Presidente della Repubblica 6 giugno 2001, n. 380, effettuati sulle parti comuni di edificio residenziale di cui all'articolo 1117 del codice civile; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    di cui alle lettere b),
+                                
+                            
+                            
+                                c)
+                                
+                                    e
+                                
+                            
+                            
+                                d)
+                                
+                                    dell'articolo 3 del decreto del Presidente della Repubblica 6 giugno 2001, n. 380, effettuati sulle singole unita' immobiliari residenziali di qualsiasi categoria catastale, anche rurali, e sulle loro pertinenze; 
+ c) necessari alla ricostruzione o al ripristino dell'immobile danneggiato a seguito di eventi calamitosi, ancorche' non rientranti nelle categorie di cui alle lettere a) e b) del presente comma, sempreche' sia stato dichiarato lo stato di emergenza, anche anteriormente alla data di entrata in vigore della presente disposizione; 
+ d) relativi alla realizzazione di autorimesse o posti auto pertinenziali anche a proprieta' comune; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    finalizzati alla eliminazione delle barriere architettoniche, aventi ad oggetto ascensori e montacarichi, alla realizzazione di ogni strumento che, attraverso la comunicazione, la robotica e ogni altro mezzo di tecnologia piu' avanzata, sia adatto a favorire la mobilita' interna ed esterna all'abitazione per le persone portatrici di handicap in situazione di gravita', ai sensi dell'articolo 3, comma 3, della legge 5 febbraio 1992, n. 104; (209) 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    relativi all'adozione di misure finalizzate a prevenire il rischio del compimento di atti illeciti da parte di terzi; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    relativi alla realizzazione di opere finalizzate alla cablatura degli edifici, al contenimento dell'inquinamento acustico; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    relativi alla realizzazione di opere finalizzate al conseguimento di risparmi energetici con particolare riguardo all'installazione di impianti basati sull'impiego delle fonti rinnovabili di energia. Le predette opere possono essere realizzate anche in assenza di opere edilizie propriamente dette, acquisendo idonea documentazione attestante il conseguimento di risparmi energetici in applicazione della normativa vigente in materia; (147) (152) (202) 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    relativi all'adozione di misure antisismiche con particolare riguardo all'esecuzione di opere per la messa in sicurezza statica, in particolare sulle parti strutturali, per la redazione della documentazione obbligatoria atta a comprovare la sicurezza statica del patrimonio edilizio, nonche' per la realizzazione degli interventi necessari al rilascio della suddetta documentazione. Gli interventi relativi all'adozione di misure antisismiche e all'esecuzione di opere per la messa in sicurezza statica devono essere realizzati sulle parti strutturali degli edifici o complessi di edifici collegati strutturalmente e comprendere interi edifici e, ove riguardino i centri storici, devono essere eseguiti sulla base di progetti unitari e non su singole unita' immobiliari; (174) (181) (204) 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    di bonifica dall'amianto e di esecuzione di opere volte ad evitare gli infortuni domestici. (152) (155) (158) (161) (169) (174) (181) (189) (193) (200) (202) (204)
 
 Tra le spese sostenute di cui al comma 1 sono comprese quelle di progettazione e per prestazioni professionali connesse all'esecuzione delle opere edilizie e alla messa a norma degli edifici ai sensi della legislazione vigente in materia. (200)
 
@@ -727,11 +1496,238 @@ L'aliquota di cui al medesimo comma 5 si applica alla quota di spesa corrisponde
 
 Fermi restando gli specifici limiti previsti da ciascuna norma agevolativa, per i soggetti con reddito complessivo superiore a 75.000 euro gli oneri e le spese per i quali il presente testo unico o altre disposizioni normative prevedono una detrazione dall'imposta lorda, considerati complessivamente, sono ammessi in detrazione fino all'ammontare calcolato moltiplicando l'importo base determinato ai sensi del comma 2 in corrispondenza del reddito complessivo del contribuente per il coefficiente indicato nel comma 3 in corrispondenza del numero di figli, compresi i figli nati fuori del matrimonio riconosciuti e i figli adottivi, affiliati o affidati, presenti nel nucleo familiare del contribuente, che si trovano nelle condizioni previste nell'articolo 12, comma 2, del presente testo unico.
 
+2.
+                        
+                            
+                                L'importo base di cui al comma 1 e' pari a: 
+ 
+                            
+                            
+                                a)
+                                
+                                    14.000 euro, se il reddito complessivo del contribuente e' superiore a 75.000 euro e non superiore a 100.000 euro; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    8.000 euro, se il reddito complessivo del contribuente e' superiore a 100.000 euro.
+
+3.
+                        
+                            
+                                Il coefficiente da utilizzare ai sensi del comma 1 e' pari a: 
+ 
+                            
+                            
+                                a)
+                                
+                                    0,50, se nel nucleo familiare non sono presenti figli che si trovano nelle condizioni previste dall'articolo 12, comma 2; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    0,70, se nel nucleo familiare e' presente un figlio che si trova nelle condizioni previste dall'articolo 12, comma 2; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    0,85, se nel nucleo familiare sono presenti due figli che si trovano nelle condizioni previste dall'articolo 12, comma 2; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    1, se nel nucleo familiare sono presenti piu' di due figli che si trovano nelle condizioni previste dall'articolo 12, comma 2, o almeno un figlio con disabilita' accertata ai sensi dell'articolo 3 della legge 5 febbraio 1992, n. 104, che si trovi nelle condizioni previste dall'articolo 12, comma 2.
+
+4.
+                        
+                            
+                                Sono esclusi dal computo dell'ammontare complessivo degli oneri e delle spese, effettuato ai fini dell'applicazione del limite di cui al comma 1, i seguenti oneri e le seguenti spese: 
+ 
+                            
+                            
+                                a)
+                                
+                                    le spese sanitarie detraibili ai sensi dell'articolo 15, comma 1, lettera c); 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le somme investite nelle start-up innovative, detraibili ai sensi degli articoli 29 e 29-bis del decreto-legge 18 ottobre 2012, n. 179, convertito, con modificazioni, dalla legge 17 dicembre 2012, n. 221; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    le somme investite nelle piccole e medie imprese innovative, detraibili ai sensi dell'articolo 4, commi 9, seconda parte, e 9-ter, del decreto-legge 24 gennaio 2015, n. 3, convertito, con modificazioni, dalla legge 24 marzo 2015, n. 33.
+
 Ai fini del computo dell'ammontare complessivo degli oneri e delle spese di cui al comma 1 del presente articolo, per le spese detraibili ai sensi dell'articolo 16-bis ovvero di altre disposizioni normative, la cui detrazione e' ripartita in piu' annualita', rilevano le rate di spesa riferite a ciascun anno. Sono comunque esclusi dal predetto computo gli oneri detraibili ai sensi dell'articolo 15, commi 1, lettere a) e b), e 1-ter, sostenuti in dipendenza di prestiti o mutui contratti fino al 31 dicembre 2024, i premi di assicurazione detraibili ai sensi dell'articolo 15, comma 1, lettere f) e f-bis), sostenuti in dipendenza di contratti stipulati fino al 31 dicembre 2024 nonche' le rate delle spese detraibili ai sensi dell'articolo 16-bis ovvero di altre disposizioni normative, sostenute fino al 31 dicembre 2024.
+
+5-bis.
+                        
+                            
+                                
+                                    ((Per i contribuenti titolari di un reddito complessivo superiore a 200.000 euro e' diminuito di un importo pari a 440 euro l'ammontare della detrazione dall'imposta lorda, determinato tenendo conto di quanto previsto dai commi da 1 a 5 del presente articolo e dall'articolo 15, comma 3-bis, spettante in relazione ai seguenti oneri:))
+                                
+                            
+                            
+                                a)
+                                
+                                    
+                                        ((gli oneri la cui detraibilita' e' fissata nella misura del 19 per cento dal presente testo unico o da qualsiasi altra disposizione fiscale, fatta eccezione per le spese sanitarie di cui all'articolo 15, comma 1, lettera c);))
+                                    
+                                
+                            
+                            
+                                b)
+                                
+                                    
+                                        ((le erogazioni liberali in favore dei partiti politici, di cui all'articolo 11 del decreto-legge 28 dicembre 2013, n. 149, convertito, con modificazioni, dalla legge 21 febbraio 2014, n. 13;))
+                                    
+                                
+                            
+                            
+                                c)
+                                
+                                    
+                                        ((i premi di assicurazione per rischio eventi calamitosi, di cui all'articolo 119, comma 4, quinto periodo, del decreto-legge 19 maggio 2020, n. 34, convertito, con modificazioni, dalla legge 17 luglio 2020, n. 77)).
 
 Ai fini del presente articolo il reddito complessivo e' assunto al netto del reddito dell'unita' immobiliare adibita ad abitazione principale e di quello delle relative pertinenze, di cui all'articolo 10, comma 3-bis, del presente testo unico.
 
 ## Art. 17. — Tassazione separata
+
+1.
+                        
+                            
+                                L'imposta si applica separatamente sui seguenti redditi: 
+ 
+                            
+                            
+                                a)
+                                
+                                    trattamento di fine rapporto di cui all'articolo 2120 del codice civile e indennita' equipollenti, comunque denominate, commisurate alla durata dei rapporti di lavoro dipendente, compresi quelli contemplati alle lettere a), d) e g) del comma 1 dell'articolo 47, anche nelle ipotesi di cui all'articolo 2122 del codice civile; altre indennita' e somme percepite una volta tanto in dipendenza della cessazione dei predetti rapporti, comprese l'indennita' di preavviso, le somme risultanti dalla capitalizzazione di pensioni e quelle attribuite a fronte dell'obbligo di non concorrenza ai sensi dell'articolo 2125 del codice civile nonche' le somme e i valori comunque percepiti, al netto delle spese legali sostenute, anche se a titolo risarcitorio o nel contesto di procedure esecutive, a seguito di provvedimenti dell'autorita' giudiziaria o di transazioni relativi alla risoluzione del rapporto di lavoro; 
+
+                                
+                            
+                            
+                                a-bis)
+                                
+                                    LETTERA ABROGATA DAL D.LGS. 5 DICEMBRE 2005, N. 252; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    emolumenti arretrati per prestazioni di lavoro dipendente riferibili ad anni precedenti, percepiti per effetto di leggi, di contratti collettivi, di sentenze o di atti amministrativi sopravvenuti o per altre cause non dipendenti dalla volonta' delle parti, compresi i compensi e le indennita' di cui al comma 1 dell'articolo 47 e al comma 2 dell'articolo 46; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    indennita' percepite per la cessazione dei rapporti di collaborazione coordinata e continuativa, di cui al comma 2 dell'articolo 49, se il diritto all'indennita' risulta da atto di data certa anteriore all'inizio del rapporto nonche', in ogni caso, le somme e i valori comunque percepiti, al netto delle spese legali sostenute, anche se a titolo risarcitorio o nel contesto di procedure esecutive, a seguito di provvedimenti dell'autorita' giudiziaria o di transazioni relativi alla risoluzione dei rapporti di collaborazione coordinata e continuativa; 
+
+                                
+                            
+                            
+                                c-bis)
+                                
+                                    l'indennita' di mobilita' di cui all'articolo 7, comma 5, della legge 23 luglio 1991, n. 223, e trattamento di integrazione salariale di cui all'articolo 1-bis del decreto-legge 10 giugno 1994, n. 357, convertito, con modificazioni dalla legge 8 agosto 1994, n. 489, corrisposti anticipatamente; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    indennita' per la cessazione di rapporti di agenzia delle persone fisiche e delle societa' di persone; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    indennita' percepite per la cessazione da funzioni notarili; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    indennita' percepite dai lavoratori subordinati sportivi al termine dell'attivita' sportiva ai sensi dell'articolo 26, comma 4, del decreto legislativo 28 febbraio 2021, n. 36, se non rientranti tra le indennita' indicate alla lettera a); (205) (208) (221) 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    plusvalenze, compreso il valore di avviamento, realizzate mediante cessione a titolo oneroso di aziende possedute da piu' di cinque anni e redditi conseguiti in dipendenza di liquidazione, anche concorsuale, di imprese commerciali esercitate da piu' di cinque anni; 
+
+                                
+                            
+                            
+                                g-bis)
+                                
+                                    plusvalenze di cui alla lettera b) del comma 1 dell'articolo 81 realizzate a seguito di cessioni a titolo oneroso di terreni suscettibili di utilizzazione edificatoria secondo gli strumenti urbanistici vigenti al momento della cessione; 
+
+                                
+                            
+                            
+                                g-ter)
+                                
+                                    corrispettivi percepiti a seguito di cessione della clientela o di elementi immateriali, ((...)) se percepiti, anche in piu' rate, nello stesso periodo di imposta;(235) ((238))
+                                    
+                                
+                            
+                            
+                                h)
+                                
+                                    indennita' per perdita dell'avviamento spettanti al conduttore in caso di cessazione della locazione di immobili urbani adibiti ad usi diversi da quello di abitazione e indennita' di avviamento delle farmacie spettanti al precedente titolare; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    indennita' spettanti a titolo di risarcimento, anche in forma assicurativa, dei danni consistenti nella perdita di redditi relativi a piu' anni; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    redditi compresi nelle somme attribuite o nel valore normale dei beni assegnati ai soci delle societa' indicate nell'articolo 5 nei casi di recesso, esclusione e riduzione del capitale o agli eredi in caso di morte del socio, e redditi imputati ai soci in dipendenza di liquidazione, anche concorsuale, delle societa' stesse, se il periodo di tempo intercorso tra la costituzione della societa' e la comunicazione del recesso o dell'esclusione, la deliberazione di riduzione del capitale, la morte del socio o l'inizio della liquidazione e' superiore a cinque anni; 
+
+                                
+                            
+                            
+                                m)
+                                
+                                    redditi compresi nelle somme attribuite o nel valore normale dei beni assegnati ai soci di societa' soggette all'imposta sul reddito delle persone giuridiche nei casi di recesso, riduzione del capitale e liquidazione, anche concorsuale, se il periodo di tempo intercorso tra la costituzione della societa' e la comunicazione del recesso, la deliberazione di riduzione del capitale o l'inizio della liquidazione e' superiore a cinque anni; 
+
+                                
+                            
+                            
+                                n)
+                                
+                                    redditi compresi nelle somme o nel valore normale dei beni attribuiti alla scadenza dei contratti e dei titoli di cui alle lettere a), b), f) e g) del comma 1 dell'articolo 41, quando non sono soggetti a ritenuta alla fonte a titolo di imposta o ad imposta sostitutiva, se il periodo di durata del contratto o del titolo e' superiore a cinque anni. 
+
+                                
+                            
+                            
+                                n-bis)
+                                
+                                    somme conseguite a titolo di rimborso di imposte o di oneri dedotti dal reddito complessivo o per i quali si e' fruito della detrazione in periodi di imposta precedenti. La presente disposizione non si applica alle spese rimborsate di cui all'articolo 13-bis, comma 1, lettera c), quinto e sesto periodo.
 
 I redditi indicati alle lettere da g) a n) del comma 1 sono esclusi dalla tassazione separata se conseguiti da societa' in nome collettivo o in accomandita semplice; se conseguiti da persone fisiche nell'esercizio di imprese commerciali, sono tassati separatamente a condizione che ne sia fatta richiesta nella dichiarazione dei redditi relativa al periodo di imposta al quale sarebbero imputabili come componenti del reddito di impresa.
 
@@ -860,6 +1856,22 @@ Per i redditi indicati alle lettere e), d), e) ed f) del comma 1 dell'articolo 1
 
 ## Art. 22. — Scomputo degli acconti
 
+1.
+                        
+                            
+                                Dall'imposta determinata a norma dei precedenti articoli si scomputano nell'ordine: 
+                            
+                            
+                                a)
+                                
+                                    l'ammontare dei crediti per le imposte pagate all'estero secondo le modalita' di cui all'articolo 165;
+                                
+                            
+                            
+                                b)
+                                
+                                    i versamenti eseguiti dal contribuente in acconto dell'imposta;
+
 Se l'ammontare complessivo dei crediti di imposta, dei versamenti e delle ritenute, e' superiore a quello dell'imposta netta sul reddito complessivo, il contribuente ha diritto, a sua scelta, di computare l'eccedenza in diminuzione dell'imposta del periodo d'imposta successiva o di chiederne il rimborso in sede di dichiarazione dei redditi. Per i redditi tassati separatamente, se l'ammontare delle ritenute, dei versamenti e dei crediti e' superiore a quello dell'imposta netta di cui agli articoli 19 e 21, il contribuente ha diritto al rimborso dell'eccedenza. 
  (115)
 
@@ -870,7 +1882,96 @@ Se l'ammontare complessivo dei crediti di imposta, dei versamenti e delle ritenu
 
 ## Art. 23. — Applicazione dell'imposta ai non residenti
 
+1.
+                        
+                            
+                                Ai fini dell'applicazione dell'imposta nei confronti dei non residenti si considerano prodotti nel territorio dello Stato: 
+ 
+                            
+                            
+                                a)
+                                
+                                    i redditi fondiari; 
 
+                                
+                            
+                            
+                                b)
+                                
+                                    i redditi di capitale corrisposti dallo Stato, da soggetti residenti nel territorio dello Stato o da stabili organizzazioni nel territorio stesso di soggetti non residenti, con esclusione degli interessi e altri proventi derivanti da depositi e conti correnti bancari e postali; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    i redditi di lavoro dipendente prestato nel territorio dello Stato, compresi i redditi assimilati a quelli di lavoro dipendente di cui alle lettere a) e b) del comma 1 dell'articolo 50; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    i redditi di lavoro autonomo derivanti da attivita' esercitate nel territorio dello Stato; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    i redditi d'impresa derivanti da attivita' esercitate nel territorio dello Stato mediante stabili organizzazioni; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    i redditi diversi derivanti da attivita' svolte nel territorio dello Stato e da beni che si trovano nel territorio stesso, nonche' le plusvalenze derivanti dalla cessione a titolo oneroso di partecipazioni in societa' residenti, con esclusione: 
+ 1) delle plusvalenze di cui alla lettera c-bis) del comma 1, dell'articolo 67, derivanti da cessione a titolo oneroso di partecipazioni in societa' residenti negoziate in mercati regolamentati, ovunque detenute; 
+ 2) delle plusvalenze di cui alla lettera c-ter) del medesimo articolo derivanti da cessione a titolo oneroso ovvero da rimborso di titoli non rappresentativi di merci e di certificati di massa negoziati in mercati regolamentati, nonche' da cessione o da prelievo di valute estere rivenienti da depositi e conti correnti; 
+ 3) dei redditi di cui alle lettere c-quater) e c-quinquies) del medesimo articolo derivanti da contratti conclusi, anche attraverso l'intervento d'intermediari, in mercati regolamentati; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    i redditi di cui agli articoli 5, 115 e 116 imputabili a soci, associati o partecipanti non residenti. (189) (193)
+
+((1-bis. I redditi diversi realizzati mediante la cessione a titolo oneroso di partecipazioni in societa' ed enti non residenti, il cui valore, per piu' della meta', deriva, in qualsiasi momento nel corso dei trecentosessantacinque giorni che precedono la loro cessione, direttamente o indirettamente, da beni immobili situati in Italia si considerano prodotti nel territorio dello Stato. La disposizione del primo periodo non si applica con riferimento alla cessione di titoli negoziati in mercati regolamentati))
+
+2.
+                        
+                            
+                                Indipendentemente dalle condizioni di cui alle lettere c), d), e) f) del comma 1 si considerano prodotti nel territorio dello Stato, se corrisposti dallo Stato, da soggetti residenti nel territorio dello Stato o da stabili organizzazioni nel territorio stesso di soggetti non residenti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    le pensioni, gli assegni ad esse assimilati e le indennita' di fine rapporto di cui alle lettere a), c), d), e) e]) del comma 1 dell'articolo 16; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    i redditi assimilati a quelli di lavoro dipendente di cui alle lettere c), c-bis), f), h), h-bis), i) e l) del comma 1 dell'articolo 47; 78 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    i compensi per l'utilizzazione di opere dell'ingegno, di brevetti industriali e di marchi d'impresa nonche' di processi, formule e informazioni relativi ad esperienze acquisite nel campo industriale, commerciale o scientifico; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    i compensi corrisposti ad imprese, societa' o enti non residenti per prestazioni artistiche o professionali effettuate per loro conto nel territorio dello Stato. 
+ (115)
 
 -----------
                             AGGIORNAMENTO (115)
@@ -1049,6 +2150,24 @@ Il reddito dominicale delle superfici adibite alle colture prodotte in serra o a
 
 Da' luogo a variazioni del reddito dominicale in aumento la sostituzione della qualita' di coltura allibrata in catasto con altra di maggiore reddito.
 
+2.
+                        
+                            
+                                Danno luogo a variazioni del reddito dominicale in diminuzione:
+
+                            
+                            
+                                a)
+                                
+                                    la sostituzione della qualita' di coltura allibrata in catasto con altra di minore reddito; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la diminuzione della capacita' produttiva del terreno per naturale esaurimento o per altra causa di forza maggiore, anche se non vi e' stato cambiamento di coltura, ovvero per eventi fitopatologici o entomologici interessanti le piantagioni.
+
 Non si tiene conto delle variazioni dipendenti da deterioramenti intenzionali o da circostanze transitorie.
 
 Le variazioni indicate nei commi 1 e 2 danno luogo a revisione del classamento dei terreni cui si riferiscono. Se a tali terreni non si possono attribuire qualita' o classi gia' esistenti nel comune o nella sezione censuaria, si applicano le tariffe piu' prossime per ammontare fra quelle attribuite a terreni della stessa qualita' di coltura ubicati in altri comuni o sezioni censuarie, purche' in condizioni agrologicamente equiparabili. Tuttavia se detti terreni risultano di rilevante estensione o se la loro redditivita' diverge sensibilmente dalle tariffe applicate nel comune o nella sezione censuaria, si istituiscono per essi apposite qualita' e classi, secondo le norme della legge catastale.
@@ -1101,6 +2220,31 @@ Ai fini del presente articolo il fondo rustico deve essere costituito da partice
 ## Art. 32. — Reddito agrario
 
 ((235))
+
+2.
+                        
+                            
+                                Sono considerate attivita' agricole ((produttive di reddito agrario)): ((235))
+                                
+                            
+                            
+                                a)
+                                
+                                    le attivita' dirette alla coltivazione del terreno e alla silvicoltura; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'allevamento di animali con mangimi ottenibili per almeno un quarto dal terreno e le attivita' dirette alla produzione di vegetali tramite l'utilizzo di strutture fisse o mobili, anche provvisorie, se la superficie adibita alla produzione non eccede il doppio di quella del terreno su cui la produzione stessa insiste; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    le attivita' di cui al terzo comma dell'articolo 2135 del codice civile, dirette alla manipolazione, conservazione, trasformazione, commercializzazione e valorizzazione, ancorche' non svolte sul terreno, di prodotti ottenuti prevalentemente dalla coltivazione del fondo o del bosco o dall'allevamento di animali, con riferimento ai beni individuati, ogni due anni e tenuto conto dei criteri di cui al comma 1, con decreto del Ministro dell'economia e delle finanze su proposta del Ministro delle politiche agricole e forestali.
 
 Con decreto del Ministro delle finanze, di concerto con il Ministro dell'agricoltura e delle foreste, e' stabilito per ciascuna specie animale il numero dei capi che rientra nei limiti di cui alla lettera b) del comma 2, tenuto conto della potenzialita' produttiva dei terreni e delle unita' foraggere occorrenti a seconda della specie allevata.
 
@@ -1302,6 +2446,136 @@ Non si considerano produttivi di reddito fondiario gli immobili relativi ad impr
 
 ## Art. 44. — Redditi di capitale
 
+1.
+                        
+                            
+                                Sono redditi di capitale: 
+ 
+                            
+                            
+                                a)
+                                
+                                    gli interessi e altri proventi derivanti da mutui, depositi e conti correnti; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    gli interessi e gli altri proventi delle obbligazioni e titoli similari, degli altri titoli diversi dalle azioni e titoli similari, nonche' dei certificati di massa; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    le rendite perpetue e le prestazioni annue perpetue di cui agli articoli 1861 e 1869 del codice civile; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    i compensi per prestazioni di fideiussione o di altra garanzia; 
+
+                                
+                            
+                            
+                                d-bis)
+                                
+                                    i proventi derivanti da prestiti erogati per il tramite di piattaforme di prestiti per soggetti finanziatori non professionali (piattaforme di Peer to Peer Lending)gestite da societa' iscritte all'albo degli intermediari finanziari di cui all'articolo 106 del testo unico delle leggi in materia bancaria e creditizia, di cui al decreto legislativo 1° settembre 1993, n. 385, o da istituti di pagamento rientranti nell'ambito di applicazione dell'articolo 114 del medesimo testo unico di cui al decreto legislativo n. 385 del 1993, autorizzati dalla Banca d'Italia; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    gli utili derivanti dalla partecipazione al capitale o al patrimonio di societa' ed enti soggetti all'imposta sul reddito delle societa', salvo il disposto della lettera d) del comma 2 dell'articolo 53; e' ricompresa tra gli utili la remunerazione dei finanziamenti eccedenti di cui all'articolo 98 direttamente erogati dal socio o dalle sue parti correlate, anche in sede di accertamento; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    gli utili derivanti da associazioni in partecipazione e dai contratti indicati nel primo comma dell'articolo 2554 del codice civile, salvo il disposto della lettera c) del comma 2 dell'articolo 53; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    i proventi derivanti dalla gestione, nell'interesse collettivo di pluralita' di soggetti, di masse patrimoniali costituite con somme di denaro e beni affidati da terzi o provenienti dai relativi investimenti; 
+
+                                
+                            
+                            
+                                g-bis)
+                                
+                                    i proventi derivanti da riporti e pronti contro termine su titoli e valute; 
+
+                                
+                            
+                            
+                                g-ter)
+                                
+                                    i proventi derivanti dal mutuo di titoli garantito; 
+
+                                
+                            
+                            
+                                g-quater)
+                                
+                                    i redditi compresi nei capitali corrisposti in dipendenza di contratti di assicurazione sulla vita e di capitalizzazione; 
+
+                                
+                            
+                            
+                                g-quinquies)
+                                
+                                    i redditi derivanti dai rendimenti delle prestazioni pensionistiche di cui alla lettera h-bis) del comma 1 dell'articolo 50 erogate in forma periodica e delle rendite vitalizie aventi funzione previdenziale; 
+
+                                
+                            
+                            
+                                g-sexies)
+                                
+                                    i redditi imputati al beneficiario di trust ai sensi dell'articolo 73, comma 2, anche se non residenti, nonche' i redditi corrisposti a residenti italiani da trust e istituti aventi analogo contenuto, stabiliti in Stati e territori che con riferimento al trattamento dei redditi prodotti dal trust si considerano a fiscalita' privilegiata ai sensi dell'articolo 47-bis, anche qualora i percipienti residenti ((non possano)) essere considerati beneficiari individuati ai sensi dell'articolo 73; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    gli interessi e gli altri proventi derivanti da altri rapporti aventi per oggetto l'impiego del capitale, esclusi i rapporti attraverso cui possono essere realizzati differenziali positivi e negativi in dipendenza di un evento incerto.
+
+2.
+                        
+                            
+                                Ai fini delle imposte sui redditi: 
+ 
+                            
+                            
+                                a)
+                                
+                                    si considerano similari alle azioni, i titoli e gli strumenti finanziari emessi da societa' ed enti di cui all'articolo 73, comma 1, lettere a),
+                                
+                            
+                            
+                                b)
+                                
+                                    e d), la cui remunerazione e' costituita totalmente dalla partecipazione ai risultati economici della societa' emittente o di altre societa' appartenenti allo stesso gruppo o dell'affare in relazione al quale i titoli e gli strumenti finanziari sono stati emessi. Le partecipazioni al capitale o al patrimonio, nonche' i titoli e gli strumenti finanziari di cui al periodo precedente emessi da societa' ed enti di cui all'articolo 73, comma 1, lettera d), si considerano similari alle azioni a condizione che la relativa remunerazione sia totalmente indeducibile nella determinazione del reddito nello Stato estero di residenza del soggetto emittente; a tale fine l'indeducibilita' deve risultare da una dichiarazione dell'emittente stesso o da altri elementi certi e precisi; (123) 
+ b) LETTERA SOPPRESSA DAL D.LGS. 18 NOVEMBRE 2005, N.247; (123) 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    si considerano similari alle obbligazioni: 
+ 1) i buoni fruttiferi emessi da societa' esercenti la vendita a rate di autoveicoli, autorizzate ai sensi dell'articolo 29 del regio decreto-legge 15 marzo 1927, n. 436, convertito nella legge 19 febbraio 1928, n. 510; 
+ 2) i titoli di massa che contengono l'obbligazione incondizionata di pagare alla scadenza una somma non inferiore a quella in essi indicata, con o senza la corresponsione di proventi periodici, e che non attribuiscono ai possessori alcun diritto di partecipazione diretta o indiretta alla gestione dell'impresa emittente o dell'affare in relazione al quale siano stati emessi, ne' di controllo sulla gestione stessa. (164) 
+ (115)
+
 -----------
                             AGGIORNAMENTO (115)
                             
@@ -1414,6 +2688,42 @@ Per tali utili e plusvalenze il credito d'imposta previsto dal presente articolo
 
 ## Art. 47-bis. — (Disposizioni in materia di regimi fiscali privilegiati)
 
+1.
+                        
+                            
+                                I regimi fiscali di Stati o territori, diversi da quelli appartenenti all'Unione europea ovvero da quelli aderenti allo Spazio economico europeo con i quali l'Italia abbia stipulato un accordo che assicuri un effettivo scambio di informazioni, si considerano privilegiati: 
+ 
+                            
+                            
+                                a)
+                                
+                                    nel caso in cui l'impresa o l'ente non residente o non localizzato in Italia sia sottoposto a controllo ai sensi dell'articolo 167, comma 2, da parte di un partecipante residente o localizzato in Italia, laddove si verifichi la condizione di cui al comma 4, lettera a), del medesimo articolo 167; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    in mancanza del requisito del controllo di cui alla lettera a), laddove il livello nominale di tassazione risulti inferiore al 50 per cento di quello applicabile in Italia. A tali fini, tuttavia, si tiene conto anche di regimi speciali che non siano applicabili strutturalmente alla generalita' dei soggetti svolgenti analoga attivita' dell'impresa o dell'ente partecipato, che risultino fruibili soltanto in funzione delle specifiche caratteristiche soggettive o temporali del beneficiario e che, pur non incidendo direttamente sull'aliquota, prevedano esenzioni o altre riduzioni della base imponibile idonee a ridurre il prelievo nominale al di sotto del predetto limite e sempreche', nel caso in cui il regime speciale riguardi solo particolari aspetti dell'attivita' economica complessivamente svolta dal soggetto estero, l'attivita' ricompresa nell'ambito di applicazione del regime speciale risulti prevalente, in termini di ricavi ordinari, rispetto alle altre attivita' svolte dal citato soggetto.
+
+2.
+                        
+                            
+                                Ai fini dell'applicazione delle disposizioni del presente testo unico che fanno riferimento ai regimi fiscali privilegiati di cui al comma 1, il soggetto residente o localizzato nel territorio dello Stato che detenga, direttamente o indirettamente, partecipazioni di un'impresa o altro ente, residente o localizzato in Stati o territori a regime fiscale privilegiato individuati in base ai criteri di cui al comma 1, puo' dimostrare che: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il soggetto non residente svolga un'attivita' economica effettiva, mediante l'impiego di personale, attrezzature, attivi e locali; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    dalle partecipazioni non consegua l'effetto di localizzare i redditi in Stati o territori a regime fiscale privilegiato di cui al comma 1.
+
 Ai fini del comma 2, il contribuente puo' interpellare l'amministrazione ai sensi ((dell'articolo 11, comma 1, lettera e) )), della legge 27 luglio 2000, n. 212. (192)
 
 ------------
@@ -1468,6 +2778,101 @@ b) le somme di cui all'art. 429, ultimo comma, del codice di procedura civile.))
 
 ## Art. 50. — Redditi assimilati a quelli di lavoro dipendente
 
+1.
+                        
+                            
+                                Sono assimilati ai redditi di lavoro dipendente: 
+ 
+                            
+                            
+                                a)
+                                
+                                    i compensi percepiti, entro i limiti dei salari correnti maggiorati del 20 per cento, dai lavoratori soci delle cooperative di produzione e lavoro, delle cooperative di servizi, delle cooperative agricole e di prima trasformazione dei prodotti agricoli e delle cooperative della piccola pesca; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le indennita' e i compensi percepiti a carico di terzi dai prestatori di lavoro dipendente per incarichi svolti in relazione a tale qualita', ad esclusione di quelli che per clausola contrattuale devono essere riversati al datore di lavoro e di quelli che per legge devono essere riversati allo Stato; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    le somme da chiunque corrisposte a titolo di borsa di studio o di assegno, premio o sussidio per fini di studio o di addestramento professionale, se il beneficiario non e' legato da rapporti di lavoro dipendente nei confronti del soggetto erogante; 
+
+                                
+                            
+                            
+                                c-bis)
+                                
+                                    le somme e i valori in genere, a qualunque titolo percepiti nel periodo d'imposta, anche sotto forma di erogazioni liberali, in relazione agli uffici di amministratore, sindaco o revisore di societa', associazioni e altri enti con o senza personalita' giuridica, alla collaborazione a giornali, riviste, enciclopedie e simili, alla partecipazione a collegi e commissioni, nonche' quelli percepiti in relazione ad altri rapporti di collaborazione aventi per oggetto la prestazione di attivita' svolte senza vincolo di subordinazione a favore di un determinato soggetto nel quadro di un rapporto unitario e continuativo senza impiego di mezzi organizzati e con retribuzione periodica prestabilita, sempreche' gli uffici o le collaborazioni non rientrino nei compiti istituzionali compresi nell'attivita' di lavoro dipendente di cui all'articolo 46, comma 1, concernente redditi di lavoro dipendente, o nell'oggetto dell'arte o professione di cui all'articolo 49, comma 1, concernente redditi di lavoro autonomo, esercitate dal contribuente. 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    le remunerazioni dei sacerdoti, di cui agli articoli 24, 33, lettera a), e 34 della legge 20 maggio 1985, n. 222, nonche' le congrue e i supplementi di congrua di cui all'articolo 33, primo comma, della legge 26 luglio 1974, n. 343; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    i compensi per l'attivita' libero professionale intramuraria del personale dipendente del Servizio sanitario nazionale, del personale di cui all'articolo 102 del decreto del Presidente della Repubblica 11 luglio 1980, n. 382 e del personale di cui all'articolo 6, comma 5,del decreto legislativo 30 dicembre 1992, n. 502 e successive modificazioni, nei limiti e alle condizioni di cui all'articolo 1, comma 7, della legge 23 dicembre 1996, n. 662; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    le indennita', i gettoni di presenza e gli altri compensi corrisposti dallo Stato, dalle regioni, dalle province e dai comuni per l'esercizio di pubbliche funzioni, sempreche' le prestazioni non siano rese da soggetti che esercitano un'arte o professione di cui all'articolo 49, comma 1, e non siano state effettuate nell'esercizio di impresa commerciale, nonche' i compensi corrisposti ai membri delle commissioni tributarie, agli esperti del tribunale di sorveglianza, ad esclusione di quelli che per legge devono essere riversati allo Stato, e ai magistrati onorari del ((ruolo ad esaurimento)) confermati ai sensi dell'articolo 29 del decreto legislativo 13 luglio 2017, n. 116; (185) 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    le indennita' di cui all'articolo 1 della legge 31 ottobre 1965, n. 1261, e all'articolo 1 della legge 13 agosto 1979, n. 384, percepite dai membri del Parlamento nazionale e del Parlamento europeo e le indennita', comunque denominate, percepite per le cariche elettive e per le funzioni di cui agli articoli 105, 114 e 135 della Costituzione e alla legge 27 dicembre 1985, n. 816 nonche' i conseguenti assegni vitalizi percepiti in dipendenza dalla cessazione delle suddette cariche elettive e funzioni e l'assegno del Presidente della Repubblica; (225) 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    le rendite vitalizie e le rendite a tempo determinato, costituite a titolo oneroso, diverse da quelle aventi funzione previdenziale. Le rendite aventi funzione previdenziale sono quelle derivanti da contratti di assicurazione sulla vita stipulati con imprese autorizzate dall'Istituto per la vigilanza sulle assicurazioni private (ISVAP) ad operare nel territorio dello Stato, o quivi operanti in regime di stabilimento o di prestazioni di servizi, che non consentano il riscatto della rendita successivamente all'inizio dell'erogazione; 
+
+                                
+                            
+                            
+                                h-bis)
+                                
+                                    le prestazioni pensionistiche di cui al decreto legislativo 21 aprile 1993, n. 124 e al decreto legislativo 5 dicembre 2005, n. 252, comunque erogate, nonche' quelle derivanti dai prodotti pensionistici individuali paneuropei (PEPP) di cui al regolamento (UE) 2019/1238; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    gli altri assegni periodici, comunque denominati, alla cui produzione non concorrono attualmente ne' capitale ne' lavoro, compresi quelli indicati alle lettere c) e d) del comma 1 dell'articolo 10 tra gli oneri deducibili ed esclusi quelli indicati alla lettera c) del comma 1 dell'articolo 41. 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    i compensi percepiti dai soggetti impegnati in lavori socialmente utili in conformita' a specifiche disposizioni normative. 
+
+                                
+                            
+                            
+                                l-bis)
+                                
+                                    i compensi corrisposti agli addetti al controllo e alla disciplina delle corse ippiche e delle manifestazioni del cavallo da sella autorizzate ai fini dell'esercizio di scommesse sportive, iscritti in apposito registro tenuto dall'autorita' vigilante.
+
 I redditi di cui alla lettera a) del comma 1 sono assimilati ai redditi di lavoro dipendente a condizione che la cooperativa sia iscritta nel registro prefettizio o nello schedario generale della cooperazione, che nel suo statuto siano inderogabilmente indicati i principi della mutualita' stabiliti dalla legge e che tali principi siano effettivamente osservati.
 
 ((COMMA ABROGATO DALLA L. 15 APRILE 2025, N. 51)). 
@@ -1490,9 +2895,176 @@ I redditi di cui alla lettera a) del comma 1 sono assimilati ai redditi di lavor
 
 Il reddito di lavoro dipendente e' costituito da tutte le somme e i valori in genere, a qualunque titolo percepiti nel periodo d'imposta, anche sotto forma di erogazioni liberali, in relazione al rapporto di lavoro. Si considerano percepiti nel periodo d'imposta anche le somme e i valori in genere, corrisposti dai datori di lavoro entro il giorno 12 del mese di gennaio del periodo d'imposta successivo a quello cui si riferiscono.
 
+2.
+                        
+                            
+                                Non concorrono a formare il reddito: 
+ 
+                            
+                            
+                                a)
+                                
+                                    i contributi previdenziali e assistenziali versati dal datore di lavoro o dal lavoratore in ottemperanza a disposizioni di legge; i contributi di assistenza sanitaria versati dal datore di lavoro o dal lavoratore ad enti o casse aventi esclusivamente fine assistenziale in conformita' a disposizioni dei contratti collettivi di cui all'articolo 51 del decreto legislativo 15 giugno 2015, n. 81, o di regolamento aziendale, iscritti all'Anagrafe dei fondi sanitari integrativi istituita con il decreto del Ministro della salute del 31 marzo 2008, pubblicato nella Gazzetta Ufficiale 18 giugno 2008, n. 141, che operino secondo il principio di mutualita' e solidarieta' tra gli iscritti, per un importo non superiore complessivamente ad euro 3.615,20. Ai fini del calcolo del predetto limite si tiene conto anche dei contributi di assistenza sanitaria versati ai sensi dell'articolo 10, comma 1, lettera e-ter); (235) 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    LETTERA SOPPRESSA DAL D.L. 27 MAGGIO 2008, N. 93, CONVERTITO CON MODIFICAZIONI DALLA L. 24 LUGLIO 2008, N. 126; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    le somministrazioni di vitto da parte del datore di lavoro nonche' quelle in mense organizzate direttamente dal datore di lavoro o gestite da terzi; le prestazioni sostitutive delle somministrazioni di vitto fino all'importo complessivo giornaliero di euro 4, aumentato a euro 10 nel caso in cui le stesse siano rese in forma elettronica; le indennita' sostitutive delle somministrazioni di vitto corrisposte agli addetti ai cantieri edili, ad altre strutture lavorative a carattere temporaneo o ad unita' produttive ubicate in zone dove manchino strutture o servizi di ristorazione fino all'importo complessivo giornaliero di euro 5,29; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    le prestazioni di servizi di trasporto collettivo alla generalita' o a categorie di dipendenti; anche se affidate a terzi ivi compresi gli esercenti servizi pubblici; 
+
+                                
+                            
+                            
+                                d-bis)
+                                
+                                    le somme erogate o rimborsate alla generalita' o a categorie di dipendenti dal datore di lavoro o le spese da quest'ultimo direttamente sostenute, volontariamente o in conformita' a disposizioni di contratto, di accordo o di regolamento aziendale, per l'acquisto degli abbonamenti per il trasporto pubblico locale, regionale e interregionale del dipendente e dei familiari indicati nell'articolo 12 che si trovano nelle condizioni previste nel comma 2 del medesimo articolo 12; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    i compensi reversibili di cui alle lettere b) ed
+                                
+                            
+                            
+                                f)
+                                
+                                    del comma 1 dell'articolo 47; 
+ f) l'utilizzazione delle opere e dei servizi riconosciuti dal datore di lavoro volontariamente o in conformita' a disposizioni di contratto o di accordo o di regolamento aziendale, offerti alla generalita' dei dipendenti o a categorie di dipendenti e ai familiari indicati nell'articolo 12 per le finalita' di cui al comma 1 dell'articolo 100;(181) 
+
+                                
+                            
+                            
+                                f-bis)
+                                
+                                    le somme, i servizi e le prestazioni erogati dal datore di lavoro alla generalita' dei dipendenti o a categorie di dipendenti per la fruizione, da parte dei familiari indicati nell'articolo 12, dei servizi di educazione e istruzione anche in eta' prescolare, compresi i servizi integrativi e di mensa ad essi connessi, nonche' per la frequenza di ludoteche e di centri estivi e invernali e per borse di studio a favore dei medesimi familiari; 
+
+                                
+                            
+                            
+                                f-ter)
+                                
+                                    le somme e le prestazioni erogate dal datore di lavoro alla generalita' dei dipendenti o a categorie di dipendenti per la fruizione dei servizi di assistenza ai familiari anziani o non autosufficienti indicati nell'articolo 12; 
+
+                                
+                            
+                            
+                                f-quater)
+                                
+                                    i contributi e i premi versati dal datore di lavoro a favore della generalita' dei dipendenti o di categorie di dipendenti e dei loro familiari indicati nell'articolo 12 che si trovano nelle condizioni previste nel medesimo articolo 12, comma 2, per prestazioni, anche in forma assicurativa, aventi per oggetto il rischio di non autosufficienza nel compimento degli atti della vita quotidiana, le cui caratteristiche sono definite dall'articolo 2, comma 2, lettera d), numeri 1) e 2), del decreto del Ministro del lavoro, della salute e delle politiche sociali 27 ottobre 2009, pubblicato nella Gazzetta Ufficiale n. 12 del 16 gennaio 2010, o aventi per oggetto il rischio di gravi patologie; (235) 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    il valore delle azioni offerte alla generalita' dei dipendenti per un importo non superiore complessivamente nel periodo d'imposta a lire 4 milioni, a condizione che non siano riacquistate dalla societa' emittente o dal datore di lavoro o comunque cedute prima che siano trascorsi almeno tre anni dalla percezione; qualora le azioni siano cedute prima del predetto termine, l'importo che non ha concorso a formare il reddito al momento dell'acquisto e' assoggettato a tassazione nel periodo d'imposta in cui avviene la cessione; 
+
+                                
+                            
+                            
+                                g-bis)
+                                
+                                    LETTERA ABROGATA DAL D.L. 25 GIUGNO 2008, N. 112, CONVERTITO CON MODIFICAZIONI DALLA L. 6 AGOSTO 2008, N. 133; (136) 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    le somme trattenute al dipendente per oneri di cui all'articolo 10 e alle condizioni ivi previste, nonche' le erogazioni effettuate dal datore di lavoro in conformita' a contratti collettivi o ad accordi e regolamenti aziendali a fronte delle spese sanitarie di cui allo stesso articolo 10, comma 1, lettera b). Gli importi delle predette somme ed erogazioni devono essere attestate dal datore di lavoro; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    le mance percepite dagli impiegati tecnici delle case da gioco (croupiers) direttamente o per effetto del riparto a cura di appositi organismi costituiti all'interno dell'impresa nella misura del 25 per cento dell'ammontare percepito nel periodo d'imposta. 
+
+                                
+                            
+                            
+                                i-bis)
+                                
+                                    le quote di retribuzione derivanti dall'esercizio, da parte del lavoratore, della facolta' di rinuncia all'accredito contributivo presso l'assicurazione generale obbligatoria per l'invalidita', la vecchiaia ed i superstiti dei lavoratori dipendenti e le forme sostitutive o esclusive della medesima, per il periodo successivo alla prima scadenza utile per il pensionamento di anzianita', dopo aver maturato i requisiti minimi secondo la vigente normativa. (241)
+
+2-bis.
+                        
+                            
+                                Le disposizioni di cui alle lettere g) e g-bis) del comma 2 si applicano esclusivamente alle azioni emesse dall'impresa con la quale il contribuente intrattiene il rapporto di lavoro, nonche' a quelle emesse da societa' che direttamente o indirettamente, controllano la medesima impresa, ne sono controllate o sono controllate dalla stessa societa' che controlla l'impresa. La disposizione di cui alla lettera g-bis) del comma 2 si rende applicabile esclusivamente quando ricorrano congiuntamente le seguenti condizioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    che l'opzione sia esercitabile non prima che siano scaduti tre anni dalla sua attribuzione; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    che, al momento in cui l'opzione e' esercitabile, la societa' risulti quotata in mercati regolamentati; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    che il beneficiario mantenga per almeno i cinque anni successivi all'esercizio dell'opzione un investimento nei titoli oggetto di opzione non inferiore alla differenza tra il valore delle azioni al momento dell'assegnazione e l'ammontare corrisposto dal dipendente. Qualora detti titoli oggetto di investimento siano ceduti o dati in garanzia prima che siano trascorsi cinque anni dalla loro assegnazione, l'importo che non ha concorso a formare il reddito di lavoro dipendente al momento dell'assegnazione e' assoggettato a tassazione nel periodo d'imposta in cui avviene la cessione ovvero la costituzione in garanzia. (126)
+
 Ai fini della determinazione in denaro dei valori di cui al comma 1, compresi quelli dei beni ceduti e dei servizi prestati al coniuge del dipendente o a familiari indicati nell'articolo 12, o il diritto di ottenerli da terzi, si applicano le disposizioni relative alla determinazione del valore normale dei beni e dei servizi contenute nell'articolo 9. In deroga al primo periodo, il valore dei beni e servizi alla cui produzione o al cui scambio e' diretta l'attivita' del datore di lavoro e ceduti ai dipendenti e' determinato in base al prezzo mediamente praticato nel medesimo stadio di commercializzazione in cui avviene la cessione di beni o la prestazione di servizi a favore del lavoratore o, in mancanza, in base al costo sostenuto dal datore di lavoro. Non concorre a formare il reddito il valore dei beni ceduti e dei servizi prestati se complessivamente di importo non superiore nel periodo d'imposta a euro 258,23; se il predetto valore e' superiore al citato limite, lo stesso concorre interamente a formare il reddito. (235)
 
 Ai fini dell'applicazione dei commi 2 e 3, l'erogazione di beni, prestazioni, opere e servizi da parte del datore di lavoro puo' avvenire mediante documenti di legittimazione, in formato cartaceo o elettronico, riportanti un valore nominale.
+
+4.
+                        
+                            
+                                Ai fini dell'applicazione del comma 3: 
+ 
+                            
+                            
+                                a)
+                                
+                                    per gli autoveicoli indicati nell'articolo 54, comma 1, lettere a), c) e m), del codice della strada, di cui al decreto legislativo 30 aprile 1992, n. 285, i motocicli e i ciclomotori di nuova immatricolazione, concessi in uso promiscuo con contratti stipulati a decorrere dal 1° gennaio 2025, si assume il 50 per cento dell'importo corrispondente ad una percorrenza convenzionale di 15.000 chilometri calcolato sulla base del costo chilometrico di esercizio desumibile dalle tabelle nazionali che l'Automobile club d'Italia elabora entro il 30 novembre di ciascun anno e comunica al Ministero dell'economia e delle finanze, il quale provvede alla pubblicazione entro il 31 dicembre, con effetto dal periodo d'imposta successivo, al netto delle somme eventualmente trattenute al dipendente. La predetta percentuale e' ridotta al 10 per cento per i veicoli a batteria a trazione esclusivamente elettrica e al 20 per cento per i veicoli elettrici ibridi plug-in. 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    in caso di concessione di prestiti si assume il 50 per cento della differenza tra l'importo degli interessi calcolato al tasso ufficiale di riferimento vigente alla data di scadenza di ciascuna rata o, per i prestiti a tasso fisso, alla data di concessione del prestito e l'importo degli interessi calcolato al tasso applicato sugli stessi. Tale disposizione non si applica per i prestiti stipulati anteriormente al 1 gennaio 1997, per quelli di durata inferiore ai dodici mesi concessi, a seguito di accordi aziendali, dal datore di lavoro ai dipendenti in contratto di solidarieta' o in cassa integrazione guadagni o a dipendenti vittime dell'usura ai sensi della legge 7 marzo 1996, n. 108, o ammessi a fruire delle erogazioni pecuniarie a ristoro dei danni conseguenti a rifiuto opposto a richieste estorsive ai sensi del decreto-legge 31 dicembre 1991, n. 419, convertito con modificazioni, dalla legge 18 febbraio 1992, n. 172; (225) 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    per i fabbricati concessi in locazione, in uso o in comodato, si assume la differenza tra la rendita catastale del fabbricato aumentata di tutte le spese inerenti il fabbricato stesso, comprese le utenze non a carico dell'utilizzatore e quanto corrisposto per il godimento del fabbricato stesso. Per i fabbricati concessi in connessione all'obbligo di dimorare nell'alloggio stesso, si assume il 30 per cento della predetta differenza. Per i fabbricati che non devono essere iscritti nel catasto si assume la differenza tra il valore del canone di locazione determinato in regime vincolistico o, in mancanza, quello determinato in regime di libero mercato, e quanto corrisposto per il godimento del fabbricato. 
+
+                                
+                            
+                            
+                                c-bis)
+                                
+                                    per i servizi di trasporto ferroviario di persone prestati gratuitamente, si assume, al netto degli ammontari eventualmente trattenuti, l'importo corrispondente all'introito medio per passeggero/chilometro, desunto dal Conto nazionale dei trasporti e stabilito con decreto del Ministro delle infrastrutture e dei trasporti, per una percorrenza media convenzionale, riferita complessivamente ai soggetti di cui al comma 3, di 2.600 chilometri.
+Il decreto dei Ministro delle infrastrutture e dei trasporti e' emanato entro il 31 dicembre di ogni anno ed ha effetto dal periodo di imposta successivo a quello in corso alla data della sua emanazione.
 
 COMMA ABROGATO DALLA L. 28 DICEMBRE 2015, N. 208.
 
@@ -1588,6 +3160,61 @@ Nella legge finanziaria relativa all'anno per il quale ha effetto il suddetto de
 
 ## Art. 52. — (Determinazione dei redditi assimilati a quelli di lavoro dipendente)
 
+1.
+                        
+                            
+                                Ai fini della determinazione dei redditi assimilati a quelli di lavoro dipendente si applicano le disposizioni dell'articolo 48 salvo quanto di seguito specificato: 
+ 
+                            
+                            
+                                a)
+                                
+                                    LETTERA SOPPRESSA DAL D.LGS. 18 FEBBRAIO 2000, N.47; 
+
+                                
+                            
+                            
+                                a-bis)
+                                
+                                    ai fini della determinazione del reddito di cui alla lettera e) del comma 1 dell'articolo 47, i compensi percepiti dal personale dipendente del Servizio sanitario nazionale per l'attivita' libero-professionale intramuraria, esercitata presso studi professionali privati a seguito di autorizzazione del direttore generale dell'azienda sanitaria, costituiscono reddito nella misura del 75 per cento; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    ai fini della determinazione delle indennita' di cui alla lettera g) del comma 1 dell'articolo 47, non concorrono, altresi', a formare il reddito le somme erogate ai titolari di cariche elettive pubbliche, nonche' a coloro che esercitano le funzioni di cui agli articoli 105, 114 e 135 della Costituzione, a titolo di rimborso di spese, purche' l'erogazione di tali somme e i relativi criteri siano disposti dagli organi competenti a determinare i trattamenti dei soggetti stessi. Gli assegni vitalizi di cui alla predetta lettera g) del comma 1 dell'articolo 47, sono assoggettati a tassazione per la quota parte che non deriva da fonti riferibili a trattenute effettuate al percettore gia' assoggettate a ritenute fiscali. Detta quota parte e' determinata, per ciascun periodo d'imposta, in misura corrispondente al rapporto complessivo delle trattenute effettuate, assoggettate a ritenute fiscali, e la spesa complessiva per assegni vitalizi. Il rapporto va effettuato separatamente dai distinti soggetti erogatori degli assegni stessi, prendendo a base ciascuno i propri elementi; (225) 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    per le rendite e gli assegni indicati alle lettere h) e i) del comma 1 dell'articolo 47 non si applicano le disposizioni del predetto articolo 48. Le predette rendite e assegni si presumono percepiti, salvo prova contraria, nella misura e alle scadenze risultanti dai relativi titoli. PERIODO SOPPRESSO DAL D.LGS 18 FEBBRAIO 2000, N.47; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    per le prestazioni pensionistiche di cui alla lettera h-bis) del comma 1 dell'articolo 50, comunque erogate, si applicano le disposizioni di cui all'articolo 11 e quelle di cui all'articolo 23, comma 6, del decreto legislativo 5 dicembre 2005, n. 252, e, per le prestazioni derivanti dai prodotti pensionistici individuali paneuropei (PEPP), quelle previste dalle disposizioni nazionali di attuazione del regolamento (UE) 2019/1238; 
+
+                                
+                            
+                            
+                                d-bis)
+                                
+                                    i compensi di cui alla lettera l) del comma 1 dell'articolo 47, percepiti dai soggetti che hanno raggiunto l'eta' prevista dalla vigente legislazione per la pensione di vecchiaia e che possiedono un reddito complessivo di importo non superiore a lire 18 milioni al netto della deduzione prevista dall'articolo 10, comma 3-bis per l'unita' immobiliare adibita ad abitazione principale e per le relative pertinenze, costituiscono reddito per la parte che eccede complessivamente nel periodo d'imposta lire sei milioni; 
+ d-bis.1) ((i compensi di cui alla lettera l-bis) del comma 1 dell'articolo 50 costituiscono reddito per la parte che eccede complessivamente nel periodo d'imposta euro 15.000)). 
+
+                                
+                            
+                            
+                                d-ter)
+                                
+                                    LETTERA ABROGATA DAL D.LGS. 5 DICEMBRE 2005, N. 252; 
+ (115)
+
 -----------
                             AGGIORNAMENTO (115)
                             
@@ -1602,6 +3229,60 @@ Nella legge finanziaria relativa all'anno per il quale ha effetto il suddetto de
 ## Art. 53. — Redditi di lavoro autonomo
 
 Sono redditi di lavoro autonomo quelli che derivano dall'esercizio di arti e professioni. Per esercizio di arti e professioni si intende l'esercizio per professione abituale, ancorche' non esclusiva, di attivita' di lavoro autonomo diverse da quelle considerate nel capo VI, compreso l'esercizio in forma associata di cui alla lettera c) del comma 3 dell'articolo 5.
+
+2.
+                        
+                            
+                                Sono inoltre redditi di lavoro autonomo: 
+ 
+                            
+                            
+                                a)
+                                
+                                    
+                                        ((LETTERA ABROGATA DAL D.L. 31 MAGGIO 2024, N. 71)); 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    i redditi derivanti dalla utilizzazione economica, da parte dell'autore o inventore, di opere dell'ingegno, di brevetti industriali e di processi, formule o informazioni relativi ad esperienze acquisite in campo industriale, commerciale o scientifico, se non sono conseguiti nell'esercizio di imprese commerciali; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    le partecipazioni agli utili di cui alla lettera del comma 1 dell'articolo 41 quando l'apporto e' costituito esclusivamente dalla prestazione di lavoro; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    le partecipazioni agli utili spettanti ai promotori e ai soci fondatori di societa' per azioni, in accomandita per azioni e a responsabilita' limitata; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    le indennita' per la cessazione di rapporti di agenzia. 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    i redditi derivanti dall'attivita' di levata dei protesti esercitata dai segretari comunali ai sensi della legge 12 giugno 1973, n. 349. 
+
+                                
+                            
+                            
+                                f-bis)
+                                
+                                    le indennita' corrisposte ai giudici onorari di pace e ai vice procuratori onorari. (185)
 
 COMMA SOPPRESSO DAL D.LGS. 28 FEBBRAIO 2021, N. 36. (205) (208) (221) 
  (115)
@@ -1630,6 +3311,31 @@ COMMA SOPPRESSO DAL D.LGS. 28 FEBBRAIO 2021, N. 36. (205) (208) (221)
 ## Art. 54. — (Determinazione del reddito di lavoro autonomo)
 
 Il reddito derivante dall'esercizio di arti e professioni e' costituito dalla differenza tra tutte le somme e i valori in genere a qualunque titolo percepiti nel periodo di imposta in relazione all'attivita' artistica o professionale e l'ammontare delle spese sostenute nel periodo stesso nell'esercizio dell'attivita', salvo quanto diversamente stabilito nel presente articolo e negli altri articoli del capo V. Le somme e i valori in genere percepiti nel periodo di imposta successivo a quello in cui gli stessi sono stati corrisposti dal sostituto d'imposta si imputano al periodo di imposta in cui sussiste l'obbligo per quest'ultimo di effettuazione della ritenuta.
+
+2.
+                        
+                            
+                                Non concorrono a formare il reddito le somme percepite a titolo di: 
+ 
+                            
+                            
+                                a)
+                                
+                                    contributi previdenziali e assistenziali stabiliti dalla legge a carico del soggetto che li corrisponde; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    rimborso delle spese sostenute dall'esercente arte o professione per l'esecuzione di un incarico e addebitate analiticamente in capo al committente; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    riaddebito ad altri soggetti delle spese sostenute per l'uso comune degli immobili utilizzati, anche promiscuamente, per l'esercizio dell'attivita' e per i servizi a essi connessi.
 
 ((In deroga a quanto previsto al comma 2, lettera b), le somme percepite a titolo di rimborso delle spese, sostenute nel territorio dello Stato, relative a vitto, alloggio, viaggio e trasporto mediante autoservizi pubblici non di linea di cui all'articolo 1 della legge 15 gennaio 1992, n. 21, concorrono alla formazione del reddito se i pagamenti non sono eseguiti con versamento bancario o postale ovvero mediante altri sistemi di pagamento previsti dall'articolo 23 del decreto legislativo 9 luglio 1997, n. 241.))
                                 ((238))
@@ -1663,6 +3369,31 @@ Le spese relative all'esecuzione di un incarico conferito e sostenute direttamen
 
 ((
 
+1.
+                        
+                            
+                                Le plusvalenze dei beni mobili strumentali, esclusi gli oggetti d'arte, di antiquariato o da collezione di cui all'articolo 54-septies, comma 2, concorrono a formare il reddito se: 
+ 
+                            
+                            
+                                a)
+                                
+                                    sono realizzate mediante cessione a titolo oneroso; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    sono realizzate mediante il risarcimento, anche in forma assicurativa, per la perdita o il danneggiamento dei beni; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    i beni vengono destinati al consumo personale o familiare dell'esercente l'arte o la professione o a finalita' estranee all'arte o professione.
+
 La plusvalenza e' costituita, nelle ipotesi di cui al comma 1, lettere a) e b), dalla differenza tra il corrispettivo o l'indennizzo percepito e il costo non ammortizzato del bene e, nell'ipotesi di cui al comma 1, lettera c), dalla differenza tra il valore normale e il costo non ammortizzato del bene. In ogni caso, la plusvalenza rileva nella stessa proporzione esistente tra l'ammontare dell'ammortamento fiscalmente dedotto e quello complessivamente effettuato.
 
 3. In caso di cessione del contratto di locazione finanziaria avente a oggetto beni immobili e mobili strumentali, esclusi gli oggetti d'arte, di antiquariato o da collezione di cui all'articolo 54-septies, comma 2, concorre a formare il reddito il valore normale del bene al netto del prezzo stabilito per il riscatto e dei canoni relativi alla residua durata del contratto, attualizzati alla data della cessione medesima, nonche', in caso di beni immobili, della quota capitale dei canoni, gia' maturati, indeducibile in quanto riferibile al terreno.))
@@ -1677,6 +3408,105 @@ La plusvalenza e' costituita, nelle ipotesi di cui al comma 1, lettere a) e b), 
 ## Art. 54-ter. — (Rimborsi e riaddebiti)
 
 Le spese di cui all'articolo 54, comma 2, lettere b) e c), non sono deducibili dal reddito di lavoro autonomo del soggetto che le sostiene, salvo quanto previsto nel presente articolo.
+
+2.
+                        
+                            
+                                Le spese di cui all'articolo 54, comma 2, lettera b), non rimborsate da parte del committente sono deducibili a partire dalla data in cui: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il committente ha fatto ricorso o e' stato assoggettato a uno degli istituti di regolazione disciplinati dal codice della crisi d'impresa e dell'insolvenza di cui al decreto legislativo 12 gennaio 2019, n. 14, o a procedure estere equivalenti, previste in Stati o territori con i quali esiste un adeguato scambio di informazioni; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la procedura esecutiva individuale nei confronti del committente sia rimasta infruttuosa; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il diritto alla riscossione del corrispondente credito si e' prescritto.
+
+3.
+                        
+                            
+                                Ai fini del comma 2, lettera a), il committente si considera che abbia fatto ricorso o sia stato assoggettato a uno degli istituti disciplinati dal citato codice della crisi d'impresa e dell'insolvenza di cui al decreto legislativo n. 14 del 2019: 
+ 
+                            
+                            
+                                a)
+                                
+                                    in caso di liquidazione giudiziale o di liquidazione controllata del sovraindebitato, dalla data della sentenza di apertura della liquidazione giudiziale o controllata; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    in caso di liquidazione coatta amministrativa, dalla data del provvedimento che la dispone; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    in caso di procedura di amministrazione straordinaria delle grandi imprese in crisi, dalla data di ammissione alla procedura; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    in caso di procedura di concordato preventivo, dalla data del decreto di apertura della procedura; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    in caso di accordo di ristrutturazione dei debiti e di piano di ristrutturazione soggetto a omologazione, dalla data di omologazione dell'accordo ovvero del piano; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    in caso di piano attestato di risanamento, dalla data certa degli atti e dei contratti di cui all'articolo 56, comma 5, del predetto codice della crisi d'impresa e dell'insolvenza di cui al decreto legislativo n. 14 del 2019; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    in caso di contratto o accordo di cui all'articolo 23, comma 1, lettere a), b) e c), del citato decreto legislativo n. 14 del 2019, dalla data certa di tali atti; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    in caso di concordato semplificato di cui all'articolo 25-sexies del medesimo decreto legislativo n. 14 del 2019, dalla data del decreto previsto dal citato articolo 25-sexies, comma 4; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    in caso di concordato minore, dalla data di apertura della procedura; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    in caso di ristrutturazione dei debiti del consumatore di cui all'articolo 67 e seguenti del citato codice della crisi d'impresa e dell'insolvenza di cui al decreto legislativo n. 14 del 2019, dalla data della pubblicazione della relativa proposta ai sensi dell'articolo 70 del medesimo decreto.
 
 Le disposizioni di cui al comma 3 valgono per gli istituti di diritto estero equivalenti previsti in Stati o territori con i quali esiste un adeguato scambio di informazioni.
 
@@ -1707,6 +3537,31 @@ Le spese di cui all'articolo 54, comma 2, lettera b), di importo, comprensivo de
 ## Art. 54-quinquies. — (( (Spese relative ai beni mobili e immobili).))
 
 ((
+
+1.
+                        
+                            
+                                Per i beni strumentali, esclusi i beni immobili e gli oggetti d'arte, di antiquariato o da collezione di cui all'articolo 54-septies, comma 2, sono ammesse in deduzione quote annuali di ammortamento non superiori a quelle risultanti dall'applicazione al costo dei beni dei coefficienti stabiliti, per categorie di beni omogenei, con decreto del Ministro dell'economia e delle finanze, ridotti alla meta' per il primo periodo d'imposta. E' tuttavia consentita la deduzione integrale, nel periodo d'imposta in cui sono state sostenute, delle spese di acquisizione di beni strumentali il cui costo unitario non sia superiore a euro 516,40. In caso di eliminazione dall'attivita' di beni non ancora completamente ammortizzati, esclusi i beni immobili e gli oggetti d'arte, di antiquariato o da collezione di cui all'articolo 54-septies, comma 2, il costo residuo e' ammesso in deduzione. La deduzione dei canoni di locazione finanziaria di beni strumentali, esclusi gli oggetti d'arte, di antiquariato o da collezione di cui all'articolo 54-septies, comma 2, e' ammessa: 
+ 
+                            
+                            
+                                a)
+                                
+                                    in caso di beni immobili, per un periodo non inferiore a dodici anni; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    in caso di beni di cui all'articolo 164, comma 1, lettera b), per un periodo non inferiore al periodo di ammortamento corrispondente al coefficiente stabilito a norma del primo periodo; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    in tutti gli altri casi, per un periodo non inferiore alla meta' del periodo di ammortamento corrispondente al coefficiente stabilito a norma del primo periodo.
 
 I canoni di locazione finanziaria dei beni strumentali sono deducibili nel periodo d'imposta in cui maturano. Ai fini del calcolo dei canoni di locazione finanziaria deducibili dei beni immobili strumentali, si applica l'articolo 36, commi 7 e 7-bis, del decreto-legge 4 luglio 2006, n. 223, convertito, con modificazioni, dalla legge 4 agosto 2006, n. 248. Le spese relative all'ammodernamento, ristrutturazione e manutenzione straordinaria di immobili sono deducibili in quote costanti nel periodo d'imposta in cui sono sostenute e nei cinque successivi.
 
@@ -1782,6 +3637,31 @@ La deducibilita' delle spese, sostenute nel territorio dello Stato, relative a v
 
 Sono redditi d'impresa quelli che derivano dall'esercizio di imprese commerciali. Per esercizio di imprese commerciali si intende l'esercizio per professione abituale, ancorche' non esclusiva, delle attivita' indicate nell'art. 2195 c.c., e delle attivita' indicate alle lettere b) e c) del comma 2 dell'art. 32 che eccedono i limiti ivi stabiliti, anche se non organizzate in forma d'impresa.
 
+2.
+                        
+                            
+                                Sono inoltre considerati redditi d'impresa: 
+ 
+                            
+                            
+                                a)
+                                
+                                    i redditi derivanti dall'esercizio di attivita' organizzate in forma d'impresa dirette alla prestazione di servizi che non rientrano nell'art. 2195 c.c.; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    i redditi derivanti dall'attivita' di sfruttamento di miniere, cave, torbiere, saline, laghi, stagni e altre acque interne; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    i redditi dei terreni, per la parte derivante dall'esercizio delle attivita' agricole di cui all'articolo 32, pur se nei limiti ivi stabiliti, ove spettino alle societa' in nome collettivo e in accomandita semplice nonche' alle stabili organizzazioni di persone fisiche non residenti esercenti attivita' di impresa.
+
 3. Le disposizioni in materia di imposte sui redditi che fanno riferimento alle attivita' commerciali si applicano, se non risulta diversamente, a tutte le attivita' indicate nel presente articolo.))
 
 ((115))
@@ -1805,6 +3685,24 @@ Sono redditi d'impresa quelli che derivano dall'esercizio di imprese commerciali
 Il reddito d'impresa e' determinato secondo le disposizioni della sezione I del capo II del titolo II, salvo quanto stabilito nel presente capo. Le disposizioni della predetta sezione I e del capo VI del titolo II, relative alle societa' e agli enti di cui all'articolo 73, comma 1, lettere a) e b), valgono anche per le societa' in nome collettivo e in accomandita semplice.
 
 Se dall'applicazione del comma 1 risulta una perdita, questa, al netto dei proventi esenti dall'imposta per la parte del loro ammontare che eccede i componenti negativi non dedotti ai sensi degli articoli 61 e 109, comma 5, e' computata in diminuzione del reddito ((...)) a norma dell'articolo 8. Per le perdite derivanti dalla partecipazione in societa' in nome collettivo e in accomandita semplice si applicano le disposizioni del comma 2 dell'articolo 8. (133) ((193))
+
+3.
+                        
+                            
+                                Oltre ai proventi di cui alle lettere a) e b) dell'articolo 91, non concorrono alla formazione del reddito: 
+ 
+                            
+                            
+                                a)
+                                
+                                    le indennita' per la cessazione di rapporti di agenzia delle persone fisiche e delle societa' di persone; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le plusvalenze, le indennita' e gli altri redditi indicati alle lettere da g) a n) del comma 1 dell'articolo 17, quando ne e' richiesta la tassazione separata a norma del comma 2 dello stesso articolo.
 
 Ai fini dell'applicazione del comma 2 non rileva la quota esente dei proventi di cui all'articolo 87, determinata secondo quanto previsto nel presente capo.
 
@@ -2047,6 +3945,154 @@ Per le imprese autorizzate all'autotrasporto di merci per conto di terzi il redd
 
 ## Art. 67. — Redditi diversi
 
+1.
+                        
+                            
+                                Sono redditi diversi se non costituiscono redditi di capitale ovvero se non sono conseguiti nell'esercizio di arti e professioni o di imprese commerciali o da societa' in nome collettivo e in accomandita semplice, ne' in relazione alla qualita' di lavoratore dipendente: 
+ 
+                            
+                            
+                                a)
+                                
+                                    le plusvalenze realizzate mediante la lottizzazione di terreni, o l'esecuzione di opere intese a renderli edificabili, e la successiva vendita, anche parziale, dei terreni e degli edifici; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    al di fuori delle ipotesi di cui alla lettera b-bis), le plusvalenze realizzate mediante cessione a titolo oneroso di beni immobili acquistati o costruiti da non piu' di cinque anni, esclusi quelli acquisiti per successione e le unita' immobiliari urbane che per la maggior parte del periodo intercorso tra l'acquisto o la costruzione e la cessione sono state adibite ad abitazione principale del cedente o dei suoi familiari, nonche', in ogni caso, le plusvalenze realizzate a seguito di cessioni a titolo oneroso di terreni suscettibili di utilizzazione edificatoria secondo gli strumenti urbanistici vigenti al momento della cessione In caso di cessione a titolo oneroso di immobili ricevuti per donazione, il predetto periodo di cinque anni decorre dalla data di acquisto da parte del donante; (125) (200) 
+
+                                
+                            
+                            
+                                b-bis)
+                                
+                                    le plusvalenze realizzate mediante cessione a titolo oneroso di beni immobili, in relazione ai quali il cedente o gli altri aventi diritto abbiano eseguito gli interventi agevolati di cui all'articolo 119 del decreto-legge 19 maggio 2020, n. 34, convertito, con modificazioni, dalla legge 17 luglio 2020, n. 77, che si siano conclusi da non piu' di dieci anni all'atto della cessione, esclusi gli immobili acquisiti per successione e quelli che siano stati adibiti ad abitazione principale del cedente o dei suoi familiari per la maggior parte dei dieci anni antecedenti alla cessione o, qualora tra la data di acquisto o di costruzione e la cessione sia decorso un periodo inferiore a dieci anni, per la maggior parte di tale periodo; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    le plusvalenze realizzate mediante cessione a titolo oneroso di partecipazioni qualificate. Costituisce cessione di partecipazioni qualificate la cessione di azioni, diverse dalle azioni di risparmio, e di ogni altra partecipazione al capitale od al patrimonio delle societa' e associazioni di cui all'articolo 5 e dei soggetti di cui all'articolo 73, comma 1, lettere a), b) e d), nonche' la cessione di diritti o titoli attraverso cui possono essere acquisite le predette partecipazioni, qualora le partecipazioni, i diritti o titoli ceduti rappresentino, complessivamente, una percentuale di diritti di voto esercitabili nell'assemblea ordinaria superiore al 2 o al 20 per cento ovvero una partecipazione al capitale od al patrimonio superiore al 5 o al 25 per cento, secondo che si tratti di titoli negoziati in mercati regolamentati o di altre partecipazioni. Per i diritti o titoli attraverso cui possono essere acquisite partecipazioni si tiene conto delle percentuali potenzialmente ricollegabili alle predette partecipazioni. La percentuale di diritti di voto e di partecipazione e' determinata tenendo conto di tutte le cessioni effettuate nel corso di dodici mesi, ancorche' nei confronti di soggetti diversi. Tale disposizione si applica dalla data in cui le partecipazioni, i titoli ed i diritti posseduti rappresentano una percentuale di diritti di voto o di partecipazione superiore alle percentuali suindicate. Sono assimilate alle plusvalenze di cui alla presente lettera quelle realizzate mediante: (235) (238) 
+ 1) cessione di strumenti finanziari di cui alla lettera a) del comma 2 dell'articolo 44 quando non rappresentano una partecipazione al patrimonio; 
+ 2) cessione dei contratti di cui all'articolo 109, comma 9, lettera b), qualora il valore dell'apporto sia superiore al 5 per cento o al 25 per cento del valore del patrimonio netto contabile risultante dall'ultimo bilancio approvato prima della data di stipula del contratto secondo che si tratti di societa' i cui titoli sono negoziati in mercati regolamentati o di altre partecipazioni. Per le plusvalenze realizzate mediante la cessione dei contratti stipulati con associanti non residenti che non soddisfano le condizioni di cui all'articolo 44, comma 2, lettera a), ultimo periodo, l'assimilazione opera a prescindere dal valore dell'apporto; (123) 
+ 3) cessione dei contratti di cui al numero precedente qualora il valore dell'apporto sia superiore al 25 per cento dell'ammontare dei beni dell'associante determinati in base alle disposizioni previste del comma 2 dell'articolo 47 del citato testo unico; 
+
+                                
+                            
+                            
+                                c-bis)
+                                
+                                    le plusvalenze, diverse da quelle imponibili ai sensi della lettera c), realizzate mediante cessione a titolo oneroso di azioni e di ogni altra partecipazione al capitale o al patrimonio di societa' e associazioni di cui all'articolo 5 e dei soggetti di cui all'articolo 73, nonche' di diritti o titoli attraverso cui possono essere acquisite le predette partecipazioni. Sono assimilate alle plusvalenze di cui alla presente lettera quelle realizzate mediante: (235) (238) 
+ 1) cessione dei contratti di cui all'articolo 109, comma 9, lettera b), qualora il valore dell'apporto sia non superiore al 5 per cento o al 25 per cento del valore del patrimonio netto contabile risultante dall'ultimo bilancio approvato prima della data di stipula del contratto secondo che si tratti di societa' i cui titoli sono negoziati in mercati regolamentati o di altre partecipazioni; (123)  2) cessione dei contratti di cui alla lettera precedente qualora il valore dell'apporto sia non superiore al 25 per cento dell'ammontare dei beni dell'associante determinati in base alle disposizioni previste dal comma 2 dell'articolo 47; (164) 
+
+                                
+                            
+                            
+                                c-ter)
+                                
+                                    le plusvalenze, diverse da quelle di cui alle lettere c) e c-bis), realizzate mediante cessione a titolo oneroso ovvero rimborso di titoli non rappresentativi di merci, di certificati di massa, di valute estere, oggetto di cessione a termine o rivenienti da depositi o conti correnti, di metalli preziosi, sempreche' siano allo stato grezzo o monetato, e di quote di partecipazione ad organismi d'investimento collettivo. Agli effetti dell'applicazione della presente lettera si considera cessione a titolo oneroso anche il prelievo delle valute estere dal deposito o conto corrente; (164) 
+
+                                
+                            
+                            
+                                c-quater)
+                                
+                                    i redditi, diversi da quelli precedentemente indicati, comunque realizzati mediante rapporti da cui deriva il diritto o l'obbligo di cedere od acquistare a termine strumenti finanziari, valute, metalli preziosi o merci ovvero di ricevere o effettuare a termine uno o piu' pagamenti collegati a tassi di interesse, a quotazioni o valori di strumenti finanziari, di valute estere, di metalli preziosi o di merci e ad ogni altro parametro di natura finanziaria. Agli effetti dell'applicazione della presente lettera sono considerati strumenti finanziari anche i predetti rapporti; (164) 
+
+                                
+                            
+                            
+                                c-quinquies)
+                                
+                                    le plusvalenze ed altri proventi, diversi da quelli precedentemente indicati, realizzati mediante cessione a titolo oneroso ovvero chiusura di rapporti produttivi di redditi di capitale e mediante cessione a titolo oneroso ovvero rimborso di crediti pecuniari o di strumenti finanziari, nonche' quelli realizzati mediante rapporti attraverso cui possono essere conseguiti differenziali positivi e negativi in dipendenza di un evento incerto; (164) 
+
+                                
+                            
+                            
+                                c-sexies)
+                                
+                                    le plusvalenze e gli altri proventi realizzati mediante rimborso o cessione a titolo oneroso, permuta o detenzione di cripto-attivita', comunque denominate. Ai fini della presente lettera, per "cripto-attivita'" si intende una rappresentazione digitale di valore o di diritti che possono essere trasferiti e memorizzati elettronicamente, utilizzando la tecnologia di registro distribuito o una tecnologia analoga. Non costituisce una fattispecie fiscalmente rilevante la permuta tra cripto-attivita' aventi eguali caratteristiche e funzioni. 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    le vincite delle lotterie, dei concorsi a premio, dei giochi e delle scommesse organizzati per il pubblico e i premi derivanti da prove di abilita' o dalla sorte nonche' quelli attribuiti in riconoscimento di particolari meriti artistici, scientifici o sociali; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    i redditi di natura fondiaria non determinabili catastalmente, compresi quelli dei terreni dati in affitto per usi non agricoli; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    i redditi di beni immobili situati all'estero; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    i redditi derivanti dall'utilizzazione economica di opere dell'ingegno, di brevetti industriali e di processi, formule e informazioni relativi ad esperienze acquisite in campo industriale, commerciale o scientifico, salvo il disposto della lettera b) del comma 2 dell'articolo 53; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    i redditi derivanti dalla concessione in usufrutto, dalla costituzione degli altri diritti reali di godimento e dalla sublocazione di beni immobili, dall'affitto, locazione, noleggio o concessione in uso di veicoli, macchine e altri beni mobili, dall'affitto e dalla concessione in usufrutto di aziende; l'affitto e la concessione in usufrutto dell'unica azienda da parte dell'imprenditore non si considerano fatti nell'esercizio dell'impresa, ma in caso di successiva vendita totale o parziale le plusvalenze realizzate concorrono a formare il reddito complessivo come redditi diversi; 
+
+                                
+                            
+                            
+                                h-bis)
+                                
+                                    le plusvalenze realizzate in caso di successiva cessione, anche parziale, delle aziende acquisite ai sensi dell'articolo 58; 
+
+                                
+                            
+                            
+                                h-ter)
+                                
+                                    la differenza tra il valore di mercato e il corrispettivo annuo per la concessione in godimento di beni dell'impresa a soci o familiari dell'imprenditore. 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    i redditi derivanti da attivita' commerciali non esercitate abitualmente; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    i redditi derivanti da attivita' di lavoro autonomo non esercitate abitualmente o dalla assunzione di obblighi di fare, non fare o permettere; 
+
+                                
+                            
+                            
+                                m)
+                                
+                                    le indennita' di trasferta, i rimborsi forfetari di spesa, i premi e i compensi erogati ai direttori artistici ed ai collaboratori tecnici per prestazioni di natura non professionale da parte di cori, bande musicali e filo-drammatiche che perseguono finalita' dilettantistiche; (138) (221) 
+
+                                
+                            
+                            
+                                n)
+                                
+                                    le plusvalenze realizzate a seguito di trasformazione eterogenea di cui all'articolo 171, comma 2, ove ricorrono i presupposti di tassazione di cui alle lettere precedenti. ((238))
+
 Agli effetti dell'applicazione delle lettere c), c-bis) e c-ter) del comma 1, si considerano cedute per prime le partecipazioni, i titoli, gli strumenti finanziari, i contratti, i certificati e diritti, nonche' le valute ed i metalli preziosi acquisiti in data piu' recente; in caso di chiusura o di cessione dei rapporti di cui alla lettera c-quater) si considerano chiusi o ceduti per primi i rapporti sottoscritti od acquisiti in data piu' recente. (123)
 
 Le plusvalenze derivanti dalla cessione a titolo oneroso di valute estere rivenienti da depositi e conti correnti concorrono a formare il reddito a condizione che nel periodo d'imposta la giacenza dei depositi e conti correnti complessivamente intrattenuti dal contribuente, calcolata secondo il cambio vigente all'inizio del periodo di riferimento sia superiore a cento milioni di lire per almeno sette giorni lavorativi continui.
@@ -2114,6 +4160,52 @@ Per le valute estere prelevate da depositi e conti correnti, in mancanza della d
 Le plusvalenze di cui alle lettere c) e c-bis) del comma 1, dell'articolo 67 derivanti dalla cessione di partecipazioni al capitale in societa' di cui all'articolo 5, escluse le societa' semplici e gli enti ad esse equiparati, e all'articolo 73, comma 1, lettera a), costituite da non piu' di sette anni, possedute da almeno tre anni, ovvero dalla cessione degli strumenti finanziari e dei contratti indicati nelle disposizioni di cui alle lettere c) e c-bis) relativi alle medesime societa', rispettivamente posseduti e stipulati da almeno tre anni, non concorrono alla formazione del reddito imponibile in quanto esenti qualora e nella misura in cui, entro due anni dal loro conseguimento, siano reinvestite in societa' di cui all'articolo 5 e all'articolo 73, comma 1, lettera a), che svolgono la medesima attivita', mediante la sottoscrizione del capitale sociale o l'acquisto di partecipazioni al capitale delle medesime, sempreche' si tratti di societa' costituite da non piu' di tre anni. (161)
 
 L'importo dell'esenzione prevista dal comma 6-bis non puo' in ogni caso eccedere il quintuplo del costo sostenuto dalla societa' le cui partecipazioni sono oggetto di cessione, nei cinque anni anteriori alla cessione, per l'acquisizione o la realizzazione di beni materiali ammortizzabili, diversi dagli immobili, e di beni immateriali ammortizzabili, nonche' per spese di ricerca e sviluppo.(161)
+
+7.
+                        
+                            
+                                Agli effetti della determinazione delle plusvalenze e minusvalenze: 
+ 
+                            
+                            
+                                a)
+                                
+                                    dal corrispettivo percepito o dalla somma rimborsata, nonche' dal costo o valore di acquisto si scomputano i redditi di capitale maturati ma non riscossi, diversi da quelli derivanti dalla partecipazione in societa' ed enti soggetti all'imposta sul reddito delle societa' e dagli utili relativi ai titoli ed agli strumenti finanziari di cui all'articolo 44, comma 2, lettera a), e ai contratti di cui all'articolo 109, comma 9, lettera b); (123) 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    LETTERA ABROGATA DALLA L. 27 DICEMBRE 2017, N. 205; (189) 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    per le valute estere prelevate da depositi e conti correnti si assume come corrispettivo il valore normale della valuta alla data di effettuazione del prelievo; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    per le cessioni di metalli preziosi, in mancanza della documentazione del costo di acquisto, le plusvalenze sono determinate in misura pari al corrispettivo della cessione; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    per le cessioni a titolo oneroso poste in essere in dipendenza dei rapporti indicati nella lettera c-quater), del comma 1 dell'articolo 67, il corrispettivo e' costituito dal prezzo di cessione, eventualmente aumentato o diminuito dei premi pagati o riscossi su opzioni; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    nei casi di dilazione o rateazione del pagamento del corrispettivo la plusvalenza e' determinata con riferimento alla parte del costo o valore di acquisto proporzionalmente corrispondente alle somme percepite nel periodo d'imposta.
 
 I redditi di cui alla lettera c-quater) del comma 1 dell'articolo 67, sono costituiti dalla somma algebrica dei differenziali positivi o negativi, nonche' degli altri proventi od oneri, percepiti o sostenuti, in relazione a ciascuno dei rapporti ivi indicati. Per la determinazione delle plusvalenze, minusvalenze e degli altri redditi derivanti da tali rapporti si applicano i commi 6 e 7. I premi pagati e riscossi su opzioni, salvo che l'opzione non sia stata chiusa anticipatamente o ceduta, concorrono a formare il reddito nel periodo d'imposta in cui l'opzione e' esercitata ovvero scade il termine stabilito per il suo esercizio. Qualora a seguito dell'esercizio dell'opzione siano cedute le attivita' di cui alle lettere c), c-bis) o c-ter), dell'articolo 67, i premi pagati o riscossi concorrono alla determinazione delle plusvalenze o minusvalenze, ai sensi della lettera e) del comma 7. Le plusvalenze e minusvalenze derivanti dalla cessione a titolo oneroso di merci non concorrono a formare il reddito, anche se la cessione e' posta in essere in dipendenza dei rapporti indicati nella lettera c-quater) del comma 1 dell'articolo 67.
 
@@ -2217,6 +4309,38 @@ Presupposto dell'imposta sul reddito delle societa' e' il
 
 ## Art. 73. — Soggetti passivi
 
+1.
+                        
+                            
+                                Sono soggetti all'imposta sul reddito delle societa': 
+ 
+                            
+                            
+                                a)
+                                
+                                    le societa' per azioni e in accomandita per azioni, le societa' a responsabilita' limitata, le societa' cooperative e le societa' di mutua assicurazione, nonche' le societa' europee di cui al regolamento (CE) n. 2157/2001 e le societa' cooperative europee di cui al regolamento (CE) n. 1435/2003 residenti nel territorio dello Stato; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    gli enti pubblici e privati diversi dalle societa', nonche' i trust, residenti nel territorio dello Stato, che hanno per oggetto esclusivo o principale l'esercizio di attivita' commerciali; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    gli enti pubblici e privati diversi dalle societa', i trust che non hanno per oggetto esclusivo o principale l'esercizio di attivita' commerciale nonche' gli organismi di investimento collettivo del risparmio, residenti nel territorio dello Stato; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    le societa' e gli enti di ogni tipo, compresi i trust, con o senza personalita' giuridica, non residenti nel territorio dello Stato.
+
 Tra gli enti diversi dalle societa', di cui alle lettere b) e c) del comma 1, si comprendono, oltre alle persone giuridiche, le associazioni non riconosciute, i consorzi e le altre organizzazioni non appartenenti ad altri soggetti passivi, nei confronti delle quali il presupposto dell'imposta si verifica in modo unitario e autonomo.
 Tra le societa' e gli enti di cui alla lettera d) del comma 1 sono comprese anche le societa' e le associazioni indicate nell'articolo 5. Nei casi in cui i beneficiari del trust siano individuati, i redditi conseguiti dal trust sono imputati in ogni caso ai beneficiari in proporzione alla quota di partecipazione individuata nell' atto di costituzione del trust o in altri documenti successivi ovvero, in mancanza, in parti uguali.
 
@@ -2227,6 +4351,25 @@ Tra le societa' e gli enti di cui alla lettera d) del comma 1 sono comprese anch
 L'oggetto esclusivo o principale dell'ente residente e' determinato in base alla legge, all'atto costitutivo o allo statuto, se esistenti in forma di atto pubblico o di scrittura privata autenticata o registrata. Per oggetto principale si intende l'attivita' essenziale per realizzare direttamente gli scopi primari indicati dalla legge, dall'atto costitutivo o dallo statuto.
 
 In mancanza dell'atto costitutivo o dello statuto nelle predette forme, l'oggetto principale dell'ente residente e' determinato in base all'attivita' effettivamente esercitata nel territorio dello Stato; tale disposizione si applica in ogni caso agli enti non residenti.
+
+5-bis.
+                        
+                            
+                                
+                                    ((Salvo prova contraria, si considerano altresi' residenti nel territorio dello Stato le societa' ed enti che detengono partecipazioni di controllo, ai sensi dell'articolo 2359, primo comma, del codice civile, nei soggetti di cui alle lettere a) e b) del comma 1, se, in alternativa)): ((227))
+                                
+                            
+                            
+                                a)
+                                
+                                    sono controllati, anche indirettamente, ai sensi dell'articolo 2359, primo comma , del codice civile, da soggetti residenti nel territorio dello Stato; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    sono amministrati da un consiglio di amministrazione, o altro organo equivalente di gestione, composto in prevalenza di consiglieri residenti nel territorio dello Stato. (126)
 
 Ai fini della verifica della sussistenza del controllo di cui al comma 5-bis, rileva la situazione esistente alla data di chiusura dell'esercizio o periodo di gestione del soggetto estero controllato. Ai medesimi fini, per le persone fisiche si tiene conto anche dei voti spettanti ai familiari di cui all'articolo 5, comma 5. (126)
 
@@ -2263,6 +4406,25 @@ I redditi degli organismi di investimento collettivo del risparmio istituiti in 
 ## Art. 74. — Stato ed enti pubblici
 
 Gli organi e le amministrazioni dello Stato, compresi quelli ad ordinamento autonomo, anche se dotati di personalita' giuridica, i comuni, le unioni di comuni, i consorzi tra enti locali, le associazioni e gli enti gestori di demanio collettivo, le comunita' montane, le province e le regioni non sono soggetti all'imposta.
+
+2.
+                        
+                            
+                                Non costituiscono esercizio dell'attivita' commerciale: 
+ 
+                            
+                            
+                                a)
+                                
+                                    l'esercizio di funzioni statali da parte di enti pubblici;((200))
+                                    
+                                
+                            
+                            
+                                b)
+                                
+                                    l'esercizio di attivita' previdenziali, assistenziali e sanitarie da parte di enti pubblici istituiti esclusivamente a tal fine, comprese le aziende sanitarie locali nonche' l'esercizio di attivita' previdenziali e assistenziali da parte di enti privati di previdenza obbligatoria. 
+ (115)
 
 -----------
                             AGGIORNAMENTO (115)
@@ -2514,6 +4676,66 @@ Le disposizioni dei commi precedenti si applicano anche al riporto delle ecceden
 
 ## Art. 85. — Ricavi
 
+1.
+                        
+                            
+                                Sono considerati ricavi: 
+ 
+                            
+                            
+                                a)
+                                
+                                    i corrispettivi delle cessioni di beni e delle prestazioni di servizi alla cui produzione o al cui scambio e' diretta l'attivita' dell'impresa; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    i corrispettivi delle cessioni di materie prime e sussidiarie, di semilavorati e di altri beni mobili, esclusi quelli strumentali, acquistati o prodotti per essere impiegati nella produzione; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    i corrispettivi delle cessioni di azioni o quote di partecipazioni, anche non rappresentate da titoli, al capitale di societa' ed enti di cui all'articolo 73, che non costituiscono immobilizzazioni finanziarie, diverse da quelle cui si applica l'esenzione di cui all'articolo 87, anche se non rientrano fra i beni al cui scambio e' diretta l'attivita' dell'impresa. Se le partecipazioni sono nelle societa' o enti di cui all'articolo 73, comma 1, lettera d), si applica il comma 2 dell'articolo 44; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    i corrispettivi delle cessioni di strumenti finanziari similari alle azioni ai sensi dell'articolo 44 emessi da societa' ed enti di cui all'articolo 73, che non costituiscono immobilizzazioni finanziarie, diversi da quelli cui si applica l'esenzione di cui all'articolo 87, anche se non rientrano fra i beni al cui scambio e' diretta l'attivita' dell'impresa; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    i corrispettivi delle cessioni di obbligazioni e di altri titoli in serie o di massa diversi da quelli di cui alla lettere c) e d) precedenti che non costituiscono immobilizzazioni finanziarie, anche se non rientrano fra i beni al cui scambio e' diretta l'attivita' dell'impresa; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    le indennita' conseguite a titolo di risarcimento, anche in forma assicurativa, per la perdita o il danneggiamento di beni di cui alle precedenti lettere; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    i contributi in denaro, o il valore normale di quelli, in natura, spettanti sotto qualsiasi denominazione in base a contratto; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    i contributi spettanti esclusivamente in conto esercizio a norma di legge.
+
 Si comprende inoltre tra i ricavi il valore normale dei beni di cui al comma 1 assegnati ai soci o destinati a finalita' estranee all'esercizio dell'impresa.
 
 I beni di cui alle lettere c), d) ed e) del comma 1 costituiscono immobilizzazioni finanziarie se sono iscritti come tali nel bilancio. (133)
@@ -2535,6 +4757,31 @@ In deroga al comma 3, per i soggetti che redigono il bilancio in base ai princip
  Il D.Lgs. 14 settembre 2015, n. 147 ha (con l'art. 5, comma 3) che il presente articolo si interpreta nel senso che per le cessioni di immobili e di aziende nonche' per la costituzione e il trasferimento di diritti reali sugli stessi, l'esistenza di un maggior corrispettivo non e' presumibile soltanto sulla base del valore anche se dichiarato, accertato o definito ai fini dell'imposta di registro di cui al decreto del Presidente della Repubblica 26 aprile 1986, n. 131, ovvero delle imposte ipotecaria e catastale di cui al decreto legislativo 31 ottobre 1990, n. 347.
 
 ## Art. 86. — Plusvalenze patrimoniali
+
+1.
+                        
+                            
+                                Le plusvalenze dei beni relativi all'impresa, diversi da quelli indicati nel comma 1 dell'articolo 85, concorrono a formare il reddito: 
+ 
+                            
+                            
+                                a)
+                                
+                                    se sono realizzate mediante cessione a titolo oneroso; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    se sono realizzate mediante il risarcimento, anche in forma assicurativa, per la perdita o il danneggiamento dei beni; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    se i beni vengono assegnati ai soci o destinati a finalita' estranee all'esercizio dell'impresa.
 
 Nelle ipotesi di cui alle lettere a) e b) del comma 1 la plusvalenza e' costituita dalla differenza fra il corrispettivo o l'indennizzo conseguito, al netto degli oneri accessori di diretta imputazione, e il costo non ammortizzato. Concorrono alla formazione del reddito anche le plusvalenze delle aziende, compreso il valore di avviamento, realizzate unitariamente mediante cessione a titolo oneroso. Se il corrispettivo della cessione e' costituito esclusivamente da beni ammortizzabili, anche se costituenti un complesso o ramo aziendale, e questi vengono complessivamente iscritti in bilancio allo stesso valore al quale vi erano iscritti i beni ceduti, si considera plusvalenza soltanto il conguaglio in denaro eventualmente pattuito.
 
@@ -2580,6 +4827,39 @@ Per tali utili e plusvalenze il credito d'imposta previsto dal presente articolo
  Il D.L. 27 marzo 2026, n. 38, ha disposto (con l'art. 3, comma 3) che "Le disposizioni di cui ai commi 1 e 2 si applicano a decorrere dal periodo d'imposta in corso al 31 dicembre 2024".
 
 ## Art. 87. — Plusvalenze esenti
+
+1.
+                        
+                            
+                                Non concorrono alla formazione del reddito imponibile in quanto esenti nella misura del 95 per cento le plusvalenze realizzate e determinate ai sensi dell'articolo 86, commi 1, 2 e 3, relativamente ad azioni o quote di partecipazioni in societa' ed enti indicati nell'articolo 5, escluse le societa' semplici e gli enti alle stesse equiparate, e nell'articolo 73, comprese quelle non rappresentate da titoli, con i seguenti requisiti: (122) (133) 
+ 
+                            
+                            
+                                a)
+                                
+                                    ininterrotto possesso dal primo giorno del dodicesimo mese precedente quello dell'avvenuta cessione considerando cedute per prime le azioni o quote acquisite in data piu' recente; (122) 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    classificazione nella categoria delle immobilizzazioni finanziarie nel primo bilancio chiuso durante il periodo di possesso; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    residenza fiscale o localizzazione dell'impresa o ente partecipato in Stati o territori diversi da quelli a regime fiscale privilegiato individuati in base ai criteri di cui all'articolo 47-bis, comma 1, o, alternativamente, la dimostrazione, anche a seguito dell'esercizio dell'interpello di cui allo stesso articolo 47-bis, comma 3, della sussistenza della condizione di cui al comma 2, lettera b), del medesimo articolo. Qualora il contribuente intenda far valere la sussistenza di tale ultima condizione ma non abbia presentato la predetta istanza di interpello ovvero, avendola presentata, non abbia ricevuto risposta favorevole, la percezione di plusvalenze derivanti dalla cessione di partecipazioni in imprese o enti residenti o localizzati in Stati o territori a regime fiscale privilegiato individuati in base ai criteri di cui all'articolo 47-bis, comma 1, deve essere segnalata nella dichiarazione dei redditi da parte del socio residente; nei casi di mancata o incompleta indicazione nella dichiarazione dei redditi si applica la sanzione amministrativa prevista dall'articolo 8, comma 3-ter, del decreto legislativo 18 dicembre 1997, n. 471. Ai fini della presente lettera, la condizione indicata nell'articolo 47-bis, comma 2, lettera b), deve sussistere, ininterrottamente, sin dal primo periodo di possesso; tuttavia, per i rapporti detenuti da piu' di cinque periodi di imposta e oggetto di realizzo con controparti non appartenenti allo stesso gruppo del dante causa, e' sufficiente che tale condizione sussista, ininterrottamente, per i cinque periodi d'imposta anteriori al realizzo stesso. Ai fini del precedente periodo si considerano appartenenti allo stesso gruppo i soggetti residenti o meno nel territorio dello Stato tra i quali sussiste un rapporto di controllo ai sensi del comma 2 dell'articolo 167 ovvero che, ai sensi del medesimo comma 2, sono sottoposti al comune controllo da parte di altro soggetto residente o meno nel territorio dello Stato,; (172) (192) 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    esercizio da parte della societa' partecipata di un'impresa commerciale secondo la definizione di cui all'articolo 55. Senza possibilita' di prova contraria si presume che questo requisito non sussista relativamente alle partecipazioni in societa' il cui valore del patrimonio e' prevalentemente costituito da beni immobili diversi dagli immobili alla cui produzione o al cui scambio e' effettivamente diretta l'attivita' dell'impresa, dagli impianti e dai fabbricati utilizzati direttamente nell'esercizio d'impresa. Si considerano direttamente utilizzati nell'esercizio d'impresa gli immobili concessi in locazione finanziaria e i terreni su cui la societa' partecipata svolge l'attivita' agricola. 
+ 1.1. COMMA ABROGATO DAL D.L. 27 MARZO 2026, N. 38.
 
 Le cessioni delle azioni o quote appartenenti alla categoria delle immobilizzazioni finanziarie e di quelle appartenenti alla categoria dell'attivo circolante vanno considerate separatamente con riferimento a ciascuna categoria. (123)
 
@@ -2639,6 +4919,25 @@ Si considerano sopravvenienze attive i ricavi o altri proventi conseguiti a fron
 
 Se le indennita' di cui alla lettera b) del comma 1 dell'articolo 86 vengono conseguite per ammontare superiore a quello che ha concorso a formare il reddito in precedenti esercizi, l'eccedenza concorre a formare il reddito a norma del comma 4 del detto articolo.
 
+3.
+                        
+                            
+                                Sono inoltre considerati sopravvenienze attive: 
+ 
+                            
+                            
+                                a)
+                                
+                                    le indennita' conseguite a titolo di risarcimento, anche in forma assicurativa, di danni diversi da quelli considerati alla lettera f) del comma 1 dell'articolo 85 e alla lettera b) del comma 1 dell'articolo 86;(200) 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    i proventi in denaro o in natura conseguiti a titolo di contributo o di liberalita', esclusi i contributi di cui alle lettere g) e h) del comma 1 dell'articolo 85 e quelli per l'acquisto di beni ammortizzabili indipendentemente dal tipo di finanziamento adottato.
+Tali proventi concorrono a formare il reddito nell'esercizio in cui sono stati incassati. Sono fatte salve le agevolazioni connesse alla realizzazione di investimenti produttivi concesse nei territori montani di cui alla legge 31 gennaio 1994, n. 97, nonche' quelle concesse ai sensi del testo unico delle leggi sugli interventi nel Mezzogiorno, approvato con decreto del Presidente della Repubblica 6 marzo 1978, n. 218, per la decorrenza prevista al momento della concessione delle stesse. Non si considerano contributi o liberalita' i finanziamenti erogati dallo Stato, dalle Regioni e dalle Province autonome per la costruzione, ristrutturazione e manutenzione straordinaria ed ordinaria di immobili di edilizia residenziale pubblica concessi agli Istituti autonomi per le case popolari, comunque denominati, e agli enti aventi le stesse finalita' sociali dei predetti Istituti, istituiti nella forma di societa' che rispondono ai requisiti della legislazione dell'Unione europea in materia di "in house providing" e che siano costituiti e operanti alla data del 31 dicembre 2013, nonche' quelli erogati alle cooperative edilizie a proprieta' indivisa e di abitazione per la costruzione, ristrutturazione e manutenzione ordinaria e straordinaria di immobili destinati all'assegnazione in godimento o locazione. (235)
+
 Non costituiscono sopravvenienze attive, in quanto esclusi, i contributi percepiti a titolo di liberalita' dai soggetti sottoposti alle procedure concorsuali previste dal Regio decreto 16 marzo 1942, n. 267, dal decreto legislativo 8 luglio 1999, n. 270, dal decreto-legge 23 dicembre 2003, n. 347, convertito, con modificazioni, dalla legge 18 febbraio 2004, n. 39, ovvero alle procedure di crisi di cui all'articolo 20 del decreto legislativo 16 novembre 2015, n. 180 nonche' alla procedura di amministrazione straordinaria di cui agli articoli 70 e seguenti del decreto legislativo 1° settembre 1993, n. 385, ad esclusione di quelli provenienti da societa' controllate dall'impresa o controllate dalla stessa societa' che controlla l'impresa. Le disposizioni del precedente periodo si applicano anche ai contributi percepiti nei ventiquattro mesi successivi alla chiusura delle predette procedure. (175)
 
 Non si considerano sopravvenienze attive i versamenti in denaro o in natura fatti a fondo perduto o in conto capitale alle societa' e agli enti di cui all'articolo 73, comma 1, lettere a) e b), dai propri soci, ne' gli apporti effettuati dai possessori di strumenti similari alle azioni. (172)
@@ -2695,6 +4994,42 @@ Verificandosi la condizione dell'articolo 44, comma 2, lettera a), ultimo period
 Gli utili provenienti dai soggetti di cui all'articolo 73, comma 1, lettera d) ((...)), residenti o localizzati in Stati o territori a regime fiscale privilegiato individuati in base ai criteri di cui all'articolo 47-bis, comma 1, e le remunerazioni derivanti dai contratti di cui all'articolo 109, comma 9, lettera b) ((...)), stipulati con tali soggetti, non concorrono a formare il reddito dell'esercizio in cui sono percepiti in quanto esclusi dalla formazione del reddito dell'impresa o dell'ente ricevente per il 50 per cento del loro ammontare, a condizione che sia dimostrata, anche a seguito dell'esercizio dell'interpello di cui all'articolo 47-bis, comma 3, la sussistenza della condizione di cui al comma 2, lettera a), del medesimo articolo; in tal caso, e' riconosciuto al soggetto controllante, ai sensi del comma 2 dell'articolo 167, residente nel territorio dello Stato, ovvero alle sue controllate residenti percipienti gli utili, un credito d'imposta ai sensi dell'articolo 165 in ragione delle imposte assolte dall'impresa o ente partecipato sugli utili maturati durante il periodo di possesso della partecipazione, in proporzione alla quota imponibile degli utili conseguiti e nei limiti dell'imposta italiana relativa a tali utili.
 Ai soli fini dell'applicazione dell'imposta, l'ammontare del credito d'imposta di cui al periodo precedente e' computato in aumento del reddito complessivo. Se nella dichiarazione e' stato omesso soltanto il computo del credito d'imposta in aumento del reddito complessivo, si puo' procedere di ufficio alla correzione anche in sede di liquidazione dell'imposta dovuta in base alla dichiarazione dei redditi. Ai fini del presente comma, si considerano provenienti da imprese o enti residenti o localizzati in Stati o territori a regime privilegiato gli utili relativi al possesso di partecipazioni dirette in tali soggetti o di partecipazioni di controllo, ai sensi del comma 2 dell'articolo 167, in societa' residenti all'estero che conseguono utili dalla partecipazione in imprese o enti residenti o localizzati in Stati o territori a regime privilegiato e nei limiti di tali utili. Qualora il contribuente intenda far valere la sussistenza, sin dal primo periodo di possesso della partecipazione, della condizione indicata nella lettera b) del comma 2 dell'articolo 47-bis ma non abbia presentato l'istanza di interpello prevista dal comma 3 del medesimo articolo ovvero, avendola presentata, non abbia ricevuto risposta favorevole, la percezione di utili provenienti da partecipazioni in imprese o enti residenti o localizzati in Stati o territori a regime fiscale privilegiato individuati in base ai criteri di cui all'articolo 47-bis, comma 1, deve essere segnalata nella dichiarazione dei redditi da parte del socio residente; nei casi di mancata o incompleta indicazione nella dichiarazione dei redditi si applica la sanzione amministrativa prevista dall'articolo 8, comma 3-ter, del decreto legislativo 18 dicembre 1997, n. 471.
 Concorrono in ogni caso alla formazione del reddito per il loro intero ammontare gli utili relativi ai contratti di cui all'articolo 109, comma 9, lettera b), che non soddisfano le condizioni di cui all'articolo 44, comma 2, lettera a), ultimo periodo. (123) (133) (172) (189) (192) (242) ((245))
+
+3-bis.
+                        
+                            
+                                L'esclusione di cui al comma 2 si applica anche: 
+ 
+                            
+                            
+                                a)
+                                
+                                    alle remunerazioni sui titoli, sugli strumenti finanziari e sui contratti indicati dall'articolo 109, comma 9, lettere a) e b), ((...)) limitatamente al 95 per cento della quota di esse non deducibile ai sensi dello stesso articolo 109. (242) ((245))
+                                    
+                                
+                            
+                            
+                                b)
+                                
+                                    alle remunerazioni delle partecipazioni al capitale o al patrimonio e a quelle dei titoli e degli strumenti finanziari di cui all'articolo 44, provenienti dai soggetti che hanno i requisiti individuati nel comma 3-ter del presente articolo, limitatamente al 95 per cento della quota di esse non deducibile nella determinazione del reddito del soggetto erogante. (177)
+
+3-ter.
+                        
+                            
+                                La disposizione di cui alla lettera b) del comma 3-bis si applica limitatamente alle remunerazioni provenienti da una societa' che riveste una delle forme previste dall'allegato I, parte A, della direttiva 2011/96/UE del Consiglio, del 30 novembre 2011, nella quale e' detenuta una partecipazione diretta nel capitale non inferiore al 10 per cento, ininterrottamente per almeno un anno, e che: 
+ 
+                            
+                            
+                                a)
+                                
+                                    risiede ai fini fiscali in uno Stato membro dell'Unione europea, senza essere considerata, ai sensi di una convenzione in materia di doppia imposizione sui redditi con uno Stato terzo, residente al di fuori dell'Unione europea; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    e' soggetta, nello Stato di residenza, senza possibilita' di fruire di regimi di opzione o di esonero che non siano territorialmente o temporalmente limitati, a una delle imposte elencate nell'allegato I, parte B, della citata direttiva o a qualsiasi altra imposta che sostituisca una delle imposte indicate. (177)
 
 Si applicano le disposizioni di cui agli articoli 46 e 47, ove compatibili.
 
@@ -2848,6 +5183,24 @@ Per gli esercenti attivita' di commercio al minuto che
 
 ((
 
+1.
+                        
+                            
+                                La valutazione delle rimanenze finali dei beni indicati all'articolo 85, comma 1, lettere a) e b) e' effettuata secondo il metodo della media ponderata o del "primo entrato primo uscito", anche se non adottati in bilancio, dalle imprese il cui volume di ricavi supera le soglie previste per l'applicazione degli studi di settore, esercenti le attivita' di: 
+ 
+                            
+                            
+                                a)
+                                
+                                    ricerca e coltivazione di idrocarburi liquidi e gassosi; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    raffinazione petrolio, produzione o commercializzazione di benzine, petroli, gasoli per usi vari, oli lubrificanti e residuati, di gas di petrolio liquefatto e di gas naturale.
+
 La disposizione di cui al comma 1 si applica anche ai soggetti che redigono il bilancio in base ai principi contabili internazionali di cui al regolamento (CE) n. 1606/2002 del Parlamento europeo e del Consiglio, del 19 luglio 2002, ed anche a quelli che abbiano esercitato, relativamente alla valutazione dei beni fungibili, l'opzione di cui all'articolo 13, comma 4, del decreto legislativo 28 febbraio 2005, n. 38.
 
 3. Per quanto non diversamente disposto dal presente articolo si applicano le disposizioni dei commi 1, 5 e 7, dell'articolo 92))
@@ -2908,6 +5261,27 @@ I titoli indicati nell'articolo 85, comma 1, lettere c), d), ed e), esistenti al
 Le cessioni di titoli, derivanti da contratti di riporto o di "pronti contro termine" che prevedono per il cessionario l'obbligo di rivendita a termine dei titoli, non determinano variazioni delle rimanenze dei titoli.
 
 Ai fini del raggruppamento in categorie omogenee non si tiene conto del valore e si considerano della stessa natura i titoli emessi dallo stesso soggetto ed aventi uguali caratteristiche.
+
+4.
+                        
+                            
+                                
+                                    ((Le disposizioni dell'articolo 92, comma 5, si applicano solo per la valutazione dei titoli di cui all'articolo 85, comma 1, lettera e); a tal fine il valore minimo e' determinato:))
+                                
+                            
+                            
+                                a)
+                                
+                                    
+                                        ((per i titoli negoziati in mercati regolamentati, in base alla media aritmetica dei prezzi rilevati nell'ultimo semestre;))
+                                    
+                                
+                            
+                            
+                                b)
+                                
+                                    
+                                        ((per gli altri titoli, applicando al valore fiscalmente riconosciuto l'eventuale decremento desunto dall'andamento complessivo del mercato telematico delle obbligazioni italiano nell'ultimo semestre)).
 
 In deroga al comma 4, per i soggetti che redigono il bilancio in base ai principi contabili internazionali di cui al regolamento (CE) n. 1606/2002 del Parlamento europeo e del Consiglio, del 19 luglio 2002, la valutazione dei beni indicati nell'articolo 85, comma 1, lettere c), d) ed e), operata in base alla corretta applicazione di tali principi assume rilievo anche ai fini fiscali. (133)
 
@@ -2972,15 +5346,76 @@ Per i soggetti che redigono il bilancio in base ai principi contabili internazio
 
 ## Art. 96. — (Interessi passivi)
 
+1.
+                        
+                            
+                                Gli interessi passivi e gli oneri finanziari assimilati, compresi quelli inclusi nel costo dei beni ai sensi dell'articolo 110, comma 1, lettera b), sono deducibili in ciascun periodo d'imposta fino a concorrenza dell'ammontare complessivo: 
+ 
+                            
+                            
+                                a)
+                                
+                                    degli interessi attivi e proventi finanziari assimilati di competenza del periodo d'imposta; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    degli interessi attivi e proventi finanziari assimilati riportati da periodi d'imposta precedenti ai sensi del comma 6.
+
 L'eccedenza degli interessi passivi e degli oneri finanziari assimilati rispetto all'ammontare complessivo degli interessi attivi e proventi finanziari assimilati di cui alle lettere a) e b) del comma 1 e' deducibile nel limite dell'ammontare risultante dalla somma tra il 30 per cento del risultato operativo lordo della gestione caratteristica del periodo d'imposta e il 30 per cento del risultato operativo lordo della gestione caratteristica riportato da periodi d'imposta precedenti ai sensi del comma 7. A tal fine si utilizza prioritariamente il 30 per cento del risultato operativo lordo della gestione caratteristica del periodo d'imposta e, successivamente, il 30 per cento del risultato operativo lordo della gestione caratteristica riportato da periodi d'imposta precedenti, a partire da quello relativo al periodo d'imposta meno recente.
 
 La disciplina del presente articolo si applica agli interessi passivi e agli interessi attivi, nonche' agli oneri finanziari e ai proventi finanziari ad essi assimilati, che sono qualificati come tali dai principi contabili adottati dall'impresa, e per i quali tale qualificazione e' confermata dalle disposizioni emanate in attuazione dell'articolo 1, comma 60, della legge 24 dicembre 2007, n. 244, dell'articolo 4, commi 7-quater e 7-quinquies, del decreto legislativo 28 febbraio 2005, n. 38, e dell'articolo 13-bis, comma 11, del decreto-legge 30 dicembre 2016, n. 244, convertito, con modificazioni, dalla legge 27 febbraio 2017, n. 19, e che derivano da un'operazione o da un rapporto contrattuale aventi causa finanziaria o da un rapporto contrattuale contenente una componente di finanziamento significativa. Ai fini del presente articolo gli interessi attivi, come individuati ai sensi del primo periodo, assumono rilevanza nella misura in cui sono imponibili; assumono rilevanza come interessi attivi o interessi passivi anche i proventi e gli oneri che, pur derivando da strumenti finanziari che, in base alla corretta applicazione dei principi contabili adottati, sono qualificati come strumenti rappresentativi di capitale, sono imponibili o deducibili in capo, rispettivamente, al percettore o all'erogante. Nei confronti dei soggetti operanti con la pubblica amministrazione, ai fini del presente articolo, si considerano interessi attivi rilevanti anche gli interessi legali di mora calcolati ai sensi dell'articolo 5 del decreto legislativo 9 ottobre 2002, n. 231.
 
 Per risultato operativo lordo della gestione caratteristica si intende la differenza tra il valore e i costi della produzione di cui all'articolo 2425 del codice civile, lettere A) e B), con esclusione delle voci di cui al numero 10), lettere a) e b), e dei canoni di locazione finanziaria di beni strumentali, assunti nella misura risultante dall'applicazione delle disposizioni volte alla determinazione del reddito di impresa. Per i soggetti che redigono il bilancio in base ai principi contabili internazionali si assumono le voci di conto economico corrispondenti.
 
+5.
+                        
+                            
+                                Gli interessi passivi e gli oneri finanziari assimilati, che per effetto delle disposizioni dei commi 1 e 2 risultano indeducibili in un determinato periodo d'imposta, sono dedotti dal reddito dei successivi periodi d'imposta, per un ammontare pari all'eventuale differenza positiva tra: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la somma degli interessi attivi e dei proventi finanziari assimilati di competenza del periodo d'imposta e del 30 per cento del risultato operativo lordo della gestione caratteristica; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    gli interessi passivi e gli oneri finanziari assimilati di competenza del periodo d'imposta. (192)
+
 Qualora in un periodo d'imposta l'importo degli interessi attivi e dei proventi finanziari assimilati di competenza sia superiore alla somma tra gli interessi passivi e gli oneri finanziari assimilati di competenza e gli interessi passivi e gli oneri finanziari assimilati riportati da periodi d'imposta precedenti ai sensi del comma 5, l'eccedenza puo' essere riportata nei periodi d'imposta successivi.
 
 Qualora in un periodo d'imposta il 30 per cento del risultato operativo lordo della gestione caratteristica sia superiore alla somma tra l'eccedenza di cui al comma 2 e l'importo degli interessi passivi e degli oneri finanziari assimilati riportati da periodi d'imposta precedenti ai sensi del comma 5, la quota eccedente puo' essere portata ad incremento del risultato operativo lordo dei successivi cinque periodi d'imposta.
+
+8.
+                        
+                            
+                                Le disposizioni dei commi da 1 a 7 non si applicano in relazione agli interessi passivi e agli oneri finanziari assimilati che presentano tutte le seguenti caratteristiche: 
+ 
+                            
+                            
+                                a)
+                                
+                                    sono relativi a prestiti, utilizzati per finanziare un progetto infrastrutturale pubblico a lungo termine, che non sono garantiti ne' da beni appartenenti al gestore del progetto infrastrutturale pubblico diversi da quelli afferenti al progetto infrastrutturale stesso ne' da soggetti diversi dal gestore del progetto infrastrutturale pubblico; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il soggetto gestore del progetto infrastrutturale pubblico a lungo termine e' residente, ai fini fiscali, in uno Stato dell'Unione europea; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    i beni utilizzati per la realizzazione del progetto infrastrutturale pubblico a lungo termine e quelli la cui realizzazione, miglioramento, mantenimento costituiscono oggetto del progetto si trovano in uno Stato dell'Unione europea.
 
 Se il progetto infrastrutturale pubblico a lungo termine e' caratterizzato da un regime di segregazione patrimoniale rispetto alle altre attivita' e passivita' del gestore o il prestito utilizzato per finanziare tale progetto e' rimborsato esclusivamente con i flussi finanziari attivi generati dal progetto stesso, gli interessi passivi e oneri finanziari assimilati di cui al comma 8 sono quelli che maturano sui prestiti oggetto di segregazione patrimoniale o su quelli destinati esclusivamente al finanziamento del progetto e rimborsati solo con i flussi generati da esso. Negli altri casi, gli interessi passivi e oneri finanziari assimilati di cui al comma 8 sono determinati moltiplicando l'ammontare complessivo degli interessi passivi e oneri finanziari assimilati per il rapporto tra l'ammontare di ricavi o l'ammontare di incremento delle rimanenze di lavori in corso su ordinazione derivante dalla realizzazione del progetto infrastrutturale pubblico a lungo termine e l'ammontare complessivo di ricavi o di incremento delle rimanenze.
 
@@ -2988,11 +5423,47 @@ Qualora si applichi il comma 8, il risultato operativo lordo della gestione cara
 
 ((
 
+11.
+                        
+                            
+                                Ai fini dei commi da 8 a 10: 
+ 
+                            
+                            
+                                a)
+                                
+                                    per progetto infrastrutturale pubblico a lungo termine si intende il progetto rientrante tra quelli cui si applicano le disposizioni della Parte V del decreto legislativo 18 aprile 2016, n. 50; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    nel caso di costituzione di una societa' di progetto strumentale alla segregazione patrimoniale rispetto ad attivita' e passivita' non afferenti al progetto infrastrutturale medesimo sono integralmente deducibili gli interessi passivi e oneri finanziari relativi ai prestiti stipulati dalla societa' di progetto anche qualora assistiti da garanzie diverse da quelle di cui al comma 8, lettera a) utilizzati per finanziare progetti infrastrutturali pubblici di cui alle Parti III, IV e V, del decreto legislativo 18 aprile 2016, n. 50.
+
 ))
 
 Le disposizioni dei commi da 1 a 7 non si applicano agli intermediari finanziari, alle imprese di assicurazione nonche' alle societa' capogruppo di gruppi assicurativi.
 
 Gli interessi passivi sostenuti dalle imprese di assicurazione e dalle societa' capogruppo di gruppi assicurativi, nonche' dalle societa' di gestione dei fondi comuni d'investimento e dalle societa' di intermediazione mobiliare di cui al decreto legislativo 24 febbraio 1998, n. 58, sono deducibili nei limiti del 96 per cento del loro ammontare. Nell'ambito del consolidato nazionale di cui agli articoli da 117 a 129, l'ammontare complessivo degli interessi passivi maturati in capo a soggetti partecipanti al consolidato a favore di altri soggetti partecipanti e' integralmente deducibile sino a concorrenza dell'ammontare complessivo degli interessi passivi maturati in capo ai soggetti di cui al primo periodo partecipanti a favore di soggetti estranei al consolidato. La societa' o ente controllante opera la deduzione integrale degli interessi passivi di cui al secondo periodo nella dichiarazione dei redditi del consolidato di cui all'articolo 122, apportando la relativa variazione in diminuzione della somma algebrica dei redditi complessivi netti dei soggetti partecipanti.
+
+14.
+                        
+                            
+                                In caso di partecipazione al consolidato nazionale di cui agli articoli da 117 a 129, l'eventuale eccedenza di interessi passivi ed oneri assimilati indeducibili generatasi in capo a un soggetto, ad esclusione di quella generatasi in periodi d'imposta anteriori all'ingresso nel consolidato nazionale, puo' essere portata in abbattimento del reddito complessivo di gruppo se e nei limiti in cui altri soggetti partecipanti al consolidato presentino, per lo stesso periodo d'imposta: 
+ 
+                            
+                            
+                                a)
+                                
+                                    una quota eccedente di cui al comma 7, anche riportata da periodi d'imposta precedenti, purche' non anteriori all'ingresso nel consolidato nazionale; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    una eccedenza di interessi attivi e proventi finanziari assimilati di cui al comma 1, lettere a) e b), purche' nel secondo caso si tratti di eccedenza di interessi attivi e proventi finanziari assimilati riportata da periodi d'imposta non anteriori all'ingresso nel consolidato nazionale.
 
 Resta ferma l'applicazione prioritaria delle regole di indeducibilita' assoluta previste dall'articolo 90, comma 2, e dall'articolo 110, comma 7, del presente testo unico e dall'articolo 1, comma 465, della legge 30 dicembre 2004, n. 311, in materia di interessi sui prestiti dei soci delle societa' cooperative. 
  (192)
@@ -3077,6 +5548,123 @@ Gli accantonamenti per imposte non ancora definitivamente accertate sono deducib
 ## Art. 100. — Oneri di utilita' sociale
 
 Le spese relative ad opere o servizi utilizzabili dalla generalita' dei dipendenti o categorie di dipendenti volontariamente sostenute per specifiche finalita' di educazione, istruzione, ricreazione, assistenza sociale e sanitaria o culto, sono deducibili per un ammontare complessivo non superiore al 5 per mille dell'ammontare delle spese per prestazioni di lavoro dipendente risultante dalla dichiarazione dei redditi.
+
+2.
+                        
+                            
+                                Sono inoltre deducibili: 
+ 
+                            
+                            
+                                a)
+                                
+                                    le erogazioni liberali fatte a favore di persone giuridiche che perseguono esclusivamente finalita' comprese fra quelle indicate nel comma 1 o finalita' di ricerca scientifica, nonche' i contributi, le donazioni e le oblazioni di cui all'articolo 10, comma 1, lettera g), per un ammontare complessivamente non superiore al 2 per cento del reddito d'impresa dichiarato; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le erogazioni liberali fatte a favore di persone giuridiche aventi sede nel Mezzogiorno che perseguono esclusivamente finalita' di ricerca scientifica, per un ammontare complessivamente non superiore al 2 per cento del reddito d'impresa dichiarato; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    LETTERA ABROGATA DALLA L. 23 DICEMBRE 2005, N. 266; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    le erogazioni liberali a favore dei concessionari privati per la radiodiffusione sonora a carattere comunitario per un ammontare complessivo non superiore all'1 per cento del reddito imponibile del soggetto che effettua l'erogazione stessa; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    le spese sostenute dai soggetti obbligati alla manutenzione, protezione o restauro delle cose vincolate ai sensi del decreto legislativo 29 ottobre 1999, n. 490 e del decreto del Presidente della Repubblica 30 settembre 1963, n. 1409, nella misura effettivamente rimasta a carico. La necessita' delle spese, quando non siano obbligatorie per legge, deve risultare da apposita certificazione rilasciata dalla competente soprintendenza del Ministero per i beni e le attivita' culturali, previo accertamento della loro congruita' effettuato d'intesa con il competente ufficio dell'Agenzia del territorio. La deduzione non spetta in caso di mutamento di destinazione dei beni senza la preventiva autorizzazione dell'Amministrazione per i beni e le attivita' culturali, di mancato assolvimento degli obblighi di legge per consentire l'esercizio del diritto di prelazione dello Stato sui beni immobili e mobili vincolati e di tentata esportazione non autorizzata di questi ultimi.
+L'Amministrazione per i beni e le attivita' culturali da' immediata comunicazione al competente ufficio dell'Agenzia delle entrate delle violazioni che comportano la indeducibilita' e dalla data di ricevimento della comunicazione inizia a decorrere il termine per la rettifica della dichiarazione dei redditi; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    le erogazioni liberali in denaro a favore dello Stato, di enti o istituzioni pubbliche, di fondazioni e di associazioni legalmente riconosciute che senza scopo di lucro svolgono o promuovono attivita' di studio, di ricerca e di documentazione di rilevante valore culturale e artistico, effettuate per l'acquisto, la manutenzione, la protezione o il restauro delle cose indicate nell'articolo 2 del decreto legislativo 29 ottobre 1999, n. 490, e nel decreto del Presidente della Repubblica 30 settembre 1963, n. 1409, ivi comprese le erogazioni effettuate per l'organizzazione di mostre e di esposizioni, che siano di rilevante interesse scientifico o culturale, delle cose anzidette, e per gli studi e le ricerche eventualmente a tal fine necessari. Le mostre, le esposizioni, gli studi e le ricerche devono essere autorizzati, previo parere del competente comitato di settore del Consiglio nazionale per i beni culturali e ambientali, dal Ministero per i beni e le attivita' culturali, che dovra' approvare la previsione di spesa ed il conto consuntivo. Il Ministero per i beni culturali e ambientali stabilisce i tempi necessari affinche' le erogazioni fatte a favore delle associazioni legalmente riconosciute, delle istituzioni e delle fondazioni siano utilizzate per gli scopi preindicati, e controlla l'impiego delle erogazioni stesse. Detti termini possono, per causa non imputabile al donatario, essere prorogati una sola volta. Le erogazioni liberali non integralmente utilizzate nei termini assegnati, ovvero utilizzate non in conformita' alla destinazione, affluiscono, nella loro totalita', all'entrata dello Stato; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    le erogazioni liberali in denaro, per importo non superiore al 2 per cento del reddito d'impresa dichiarato, a favore di enti o istituzioni pubbliche, fondazioni e associazioni legalmente riconosciute che senza scopo di lucro svolgono esclusivamente attivita' nello spettacolo, effettuate per la realizzazione di nuove strutture, per il restauro ed il potenziamento delle strutture esistenti, nonche' per la produzione nei vari settori dello spettacolo. Le erogazioni non utilizzate per tali finalita' dal percipiente entro il termine di due anni dalla data del ricevimento affluiscono, nella loro totalita', all'entrata dello Stato; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    le erogazioni liberali in denaro, per importo non superiore a 30.000 euro o al 2 per cento del reddito d'impresa dichiarato, a favore delle ONLUS, nonche' le iniziative umanitarie, religiose o laiche, gestite da fondazioni, associazioni, comitati ed enti individuati con decreto del Presidente del Consiglio dei Ministri ai sensi dell'articolo 15, comma 1, lettera i-bis), nei Paesi non appartenenti all'OCSE; (169) 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    le spese relative all'impiego di lavoratori dipendenti, assunti a tempo indeterminato, utilizzati per prestazioni di servizi erogate a favore di ONLUS, nel limite del cinque per mille dell'ammontare complessivo delle spese per prestazioni di lavoro dipendente, cosi' come risultano dalla dichiarazione dei redditi; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    LETTERA ABROGATA DAL D.LGS. 3 LUGLIO 2017, N. 117; (186) ((187))
+                                    
+                                
+                            
+                            
+                                m)
+                                
+                                    le erogazioni liberali in denaro a favore dello Stato, delle regioni, degli enti locali territoriali, di enti o istituzioni pubbliche, di fondazioni e di associazioni legalmente riconosciute, per lo svolgimento dei loro compiti istituzionali e per la realizzazione di programmi culturali nei settori dei beni culturali e dello spettacolo. Il Ministro per i beni e le attivita' culturali individua con proprio decreto periodicamente, sulla base di criteri che saranno definiti sentita la Conferenza unificata di cui all'articolo 8 del decreto legislativo 28 agosto 1997, n. 281, i soggetti e le categorie di soggetti che possono beneficiare delle predette erogazioni liberali; determina, a valere sulla somma allo scopo indicata, le quote assegnate a ciascun ente o soggetto beneficiario; definisce gli obblighi di informazione da parte dei soggetti erogatori e dei soggetti beneficiari; vigila sull'impiego delle erogazioni e comunica, entro il 31 marzo dell'anno successivo a quello di riferimento all'Agenzia delle entrate, l'elenco dei soggetti erogatori e l'ammontare delle erogazioni liberali da essi effettuate. Nel caso che, in un dato anno, le somme complessivamente erogate abbiano superato la somma allo scopo indicata o determinata, i singoli soggetti beneficiari che abbiano ricevuto somme di importo maggiore della quota assegnata dal Ministero per i beni e le attivita' culturali versano all'entrata dello Stato un importo pari al 37 per cento della differenza; 
+
+                                
+                            
+                            
+                                m-bis)
+                                
+                                    le erogazioni liberali in denaro a favore dello Stato e dei comuni, per contributi volontari versati in seguito ad eventi sismici o calamitosi che hanno colpito l'ente in favore del quale si effettua il versamento. Il Ministro dell'economia e delle finanze, con proprio decreto, in seguito ad eventi sismici o calamitosi, sulla base di criteri da definire sentita la Conferenza unificata di cui all'articolo 8 del decreto legislativo 28 agosto 1997, n. 281, individua gli enti che possono beneficiare delle predette erogazioni liberali; determina, a valere sulla somma allo scopo indicata, le quote assegnate a ciascun ente o soggetto beneficiario; definisce gli obblighi di informazione da parte dei soggetti erogatori e dei soggetti beneficiari; vigila sull'impiego delle erogazioni e comunica, entro il 31 marzo dell'anno successivo a quello di riferimento, all'Agenzia delle entrate l'elenco dei soggetti erogatori e l'ammontare delle erogazioni liberali da essi effettuate. 
+
+                                
+                            
+                            
+                                n)
+                                
+                                    le erogazioni liberali in denaro a favore di organismi di gestione di parchi e riserve naturali, terrestri e marittimi, statali e regionali, e di ogni altra zona di tutela speciale paesistico-ambientale come individuata dalla vigente disciplina, statale e regionale, nonche' gestita dalle associazioni e fondazioni private indicate nell'articolo 154, comma 4, lettera a), effettuate per sostenere attivita' di conservazione, valorizzazione, studio, ricerca e sviluppo dirette al conseguimento delle finalita' di interesse generale cui corrispondono tali ambiti protetti. Il Ministro dell'ambiente e della tutela del territorio individua con proprio decreto, periodicamente, i soggetti e le categorie di soggetti che possono beneficiare delle predette erogazioni liberali; determina, a valere sulla somma allo scopo indicata, le quote assegnate a ciascun ente o soggetto beneficiario. Nel caso che in un dato anno le somme complessivamente erogate abbiano superato la somma allo scopo indicata o determinata i singoli soggetti beneficiari che abbiano ricevuto somme di importo maggiore della quota assegnata dal Ministero dell'ambiente e della tutela del territorio, versano all'entrata dello Stato un importo pari al 37 per cento della differenza; 
+
+                                
+                            
+                            
+                                o)
+                                
+                                    le erogazioni liberali in denaro a favore dello Stato, delle regioni, degli enti territoriali, di enti o istituzioni pubbliche, di fondazioni e di associazioni legalmente riconosciute, per la realizzazione di programmi di ricerca scientifica nel settore della sanita' autorizzate dal Ministro della salute con apposito decreto che individua annualmente, sulla base di criteri che saranno definiti sentita la Conferenza unificata di cui all'articolo 8 del decreto legislativo 28 agosto 1997, n. 281, i soggetti che possono beneficiare delle predette erogazioni liberali. Il predetto decreto determina altresi', fino a concorrenza delle somme allo scopo indicate, l'ammontare delle erogazioni deducibili per ciascun soggetto erogatore, nonche' definisce gli obblighi di informazione da parte dei soggetti erogatori e dei soggetti beneficiari. Il Ministero della salute vigila sull'impiego delle erogazioni e comunica, entro il 31 marzo dell'anno successivo a quello di riferimento, all'Agenzia delle entrate, l'elenco dei soggetti erogatori e l'ammontare delle erogazioni liberali deducibili da essi effettuate. 
+
+                                
+                            
+                            
+                                o-bis)
+                                
+                                    le erogazioni liberali a favore degli istituti scolastici di ogni ordine e grado, statali e paritari senza scopo di lucro appartenenti al sistema nazionale di istruzione di cui alla legge 10 marzo 2000, n. 62, e successive modificazioni, nonche' a favore degli istituti tecnici superiori di cui al decreto del Presidente del Consiglio dei ministri 25 gennaio 2008, pubblicato nella Gazzetta Ufficiale n. 86 dell'11 aprile 2008, finalizzate all'innovazione tecnologica, all'edilizia scolastica e all'ampliamento dell'offerta formativa, nel limite del 2 per cento del reddito d'impresa dichiarato e comunque nella misura massima di 70.000 euro annui; la deduzione spetta a condizione che il versamento di tali erogazioni sia eseguito tramite banca o ufficio postale ovvero mediante gli altri sistemi di pagamento previsti dall'articolo 23 del decreto legislativo 9 luglio 1997, n. 241; (129) 
+
+                                
+                            
+                            
+                                o-ter)
+                                
+                                    le somme corrisposte, anche su base volontaria al fondo istituito, con mandato senza rappresentanza, presso uno dei consorzi cui le imprese aderiscono in ottemperanza a obblighi di legge, in conformita' alle disposizioni di legge o contrattuali, indipendentemente dal trattamento contabile ad esse applicato, a condizione che siano utilizzate in conformita' agli scopi di tali consorzi. (174)
 
 Alle erogazioni liberali in denaro di enti o di istituzioni pubbliche, di fondazioni o di associazioni legalmente riconosciute, effettuate per il pagamento delle spese di difesa dei soggetti ammessi al patrocinio a spese dello Stato, non si applica il limite di cui al comma 1, anche quando il soggetto erogatore non abbia le finalita' statutarie istituzionali di cui al medesimo comma 1.
 
@@ -3213,6 +5801,42 @@ Per detti apparecchi e' consentita la deduzione integrale delle spese di acquisi
  La L. 27 dicembre 2013, n. 147 ha disposto (con l'art. 1, comma 163) che "Le disposizioni di cui al comma 162 si applicano ai contratti di locazione finanziaria stipulati a decorrere dalla data di entrata in vigore della presente legge".
 
 ## Art. 102-bis. — (Ammortamento dei beni materiali strumentali per l'esercizio di alcune attivita' regolate)
+
+1.
+                        
+                            
+                                Le quote di ammortamento dei beni materiali strumentali per l'esercizio delle seguenti attivita' regolate sono deducibili nella misura determinata dalle disposizioni del presente articolo, ferma restando, per quanto non diversamente stabilito, la disciplina dell'articolo 102: 
+ 
+                            
+                            
+                                a)
+                                
+                                    distribuzione e trasporto di gas naturale di cui all'articolo 2, comma 1, lettere n) e ii), del decreto legislativo 23 maggio 2000, n. 164, di attuazione della direttiva 98/30/CE relativa a norme comuni per il mercato interno del gas; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    distribuzione di energia elettrica e gestione della rete di trasmissione nazionale dell'energia elettrica di cui all'articolo 2, commi 14 e 20, del decreto legislativo 16 marzo 1999, n. 79, di attuazione della direttiva 96/92/CE recante norme comuni per il mercato interno dell'energia elettrica.
+
+2.
+                        
+                            
+                                Le quote di ammortamento del costo dei beni materiali strumentali per l'esercizio delle attivita' regolate di cui al comma 1 sono deducibili in misura non superiore a quella che si ottiene dividendo il costo dei beni per la durata delle rispettive vite utili cosi' come determinate ai fini tariffari dall'Autorita' per l'energia elettrica e il gas, e riducendo il risultato del 20 per cento: 
+ 
+                            
+                            
+                                a)
+                                
+                                    nelle tabelle 1 e 2, rubricate "durata convenzionale tariffaria delle infrastrutture" ed allegate alle delibere 29 luglio 2005, n. 166, e 29 settembre 2004, n. 170, prorogata con delibera 30 settembre 2005, n. 206, rispettivamente per l'attivita' di trasporto e distribuzione di gas naturale. Per i fabbricati iscritti in bilancio entro l'esercizio in corso al 31 dicembre 2004 si assume una vita utile pari a 50 anni; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    nell'appendice 1 della relazione tecnica alla delibera 30 gennaio 2004, n. 5, per l'attivita' di trasmissione e distribuzione di energia elettrica, rubricata "capitale investito riconosciuto e vita utile dei cespiti".
 
 Per i beni di cui al comma 1, la vita utile cui fare riferimento ai fini di cui al comma 2 decorre dall'esercizio di entrata in funzione, anche se avvenuta presso precedenti soggetti utilizzatori, e non si modifica per effetto di eventuali successivi trasferimenti.
 Le quote di ammortamento del costo dei beni di cui al comma 1 sono deducibili a partire dall'esercizio di entrata in funzione del bene e, per i beni ceduti o devoluti all'ente concessionario, fino al periodo d'imposta in cui avviene il trasferimento e in proporzione alla durata del possesso.
@@ -3390,6 +6014,28 @@ Non sono ammesse deduzioni per accantonamenti diversi da quelli espressamente co
 
 Le spese relative a piu' esercizi sono deducibili nel limite della quota imputabile a ciascun esercizio. (182)
 
+2.
+                        
+                            
+                                PERIODO SOPPRESSO DAL D.L. 30 DICEMBRE 2016, N. 244, CONVERTITO CON MODIFICAZIONI DALLA L. 27 FEBBRAIO 2017, N. 19. Le spese di rappresentanza sono deducibili nel periodo di imposta di sostenimento se rispondenti ai requisiti di inerenza stabiliti con decreto del Ministro dell'economia e delle finanze, anche in funzione della natura e della destinazione delle stesse. Le spese del periodo precedente sono commisurate all'ammontare dei ricavi e proventi della gestione caratteristica dell'impresa risultanti dalla dichiarazione dei redditi relativa allo stesso periodo in misura pari: 
+                            
+                            
+                                a)
+                                
+                                    all'1,5 per cento dei ricavi e altri proventi fino a euro 10 milioni;
+                                
+                            
+                            
+                                b)
+                                
+                                    allo 0,6 per cento dei ricavi e altri proventi per la parte eccedente euro 10 milioni e fino a 50 milioni;
+                                
+                            
+                            
+                                c)
+                                
+                                    allo 0,4 per cento dei ricavi e altri proventi per la parte eccedente euro 50 milioni. Sono comunque deducibili le spese relative a beni distribuiti gratuitamente di valore unitario non superiore a euro 50. ((Le spese di cui al presente comma sono deducibili se i pagamenti sono eseguiti con versamento bancario o postale ovvero mediante altri sistemi di pagamento previsti dall'articolo 23 del decreto legislativo 9 luglio 1997, n. 241)). (133) (172) (182) ((236))
+
 Le quote di ammortamento dei beni acquisiti in esito agli studi e alle ricerche sono calcolate sul costo degli stessi diminuito dell'importo gia' dedotto. Per i contributi corrisposti a norma di legge dallo Stato o da altri enti pubblici a fronte dei costi relativi a studi e ricerche si applica l'articolo 88, comma 3. (182)
 
 Le spese di cui al presente articolo sostenute dalle imprese di nuova costituzione, comprese le spese di impianto, sono deducibili secondo le disposizioni dei commi 1 e 2 a partire dall'esercizio in cui sono conseguiti i primi ricavi. (182)
@@ -3429,6 +6075,31 @@ Ai fini dell'applicazione delle disposizioni di cui al comma 2, il contribuente 
 
 I ricavi, le spese e gli altri componenti positivi e negativi, per i quali le precedenti norme della presente Sezione non dispongono diversamente, concorrono a formare il reddito nell'esercizio di competenza; tuttavia i ricavi, le spese e gli altri componenti di cui nell'esercizio di competenza non sia ancora certa l'esistenza o determinabile in modo obiettivo l'ammontare concorrono a formarlo nell'esercizio in cui si verificano tali condizioni.
 
+2.
+                        
+                            
+                                Ai fini della determinazione dell'esercizio di competenza: 
+ 
+                            
+                            
+                                a)
+                                
+                                    i corrispettivi delle cessioni si considerano conseguiti, e le spese di acquisizione dei beni si considerano sostenute, alla data della consegna o spedizione per i beni mobili e della stipulazione dell'atto per gli immobili e per le aziende, ovvero, se diversa e successiva, alla data in cui si verifica l'effetto traslativo o costitutivo della proprieta' o di altro diritto reale. Non si tiene conto delle clausole di riserva della proprieta'. La locazione con clausola di trasferimento della proprieta' vincolante per ambedue le parti e' assimilata alla vendita con riserva di proprieta'; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    i corrispettivi delle prestazioni di servizi si considerano conseguiti, e le spese di acquisizione dei servizi si considerano sostenute, alla data in cui le prestazioni sono ultimate, ovvero, per quelle dipendenti da contratti di locazione, mutuo, assicurazione e altri contratti da cui derivano corrispettivi periodici, alla data di maturazione dei corrispettivi; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    per le societa' e gli enti che hanno emesso obbligazioni o titoli similari la differenza tra le somme dovute alla scadenza e quelle ricevute in dipendenza dell'emissione e' deducibile in ciascun periodo di imposta per una quota determinata in conformita' al piano di ammortamento del prestito.
+
 I ricavi, gli altri proventi di ogni genere e le rimanenze concorrono a formare il reddito anche se non risultano imputati al conto economico.
 
 Le minusvalenze realizzate ai sensi dell'articolo 101 sulle azioni, quote e strumenti finanziari similari alle azioni che non possiedono i requisiti di cui all'articolo 87 non rilevano fino a concorrenza dell'importo non imponibile dei dividendi, ovvero dei loro acconti, percepiti nei trentasei mesi precedenti il realizzo.
@@ -3441,6 +6112,25 @@ Resta ferma l'applicazione dell'articolo 37-bis del decreto del Presidente della
 I commi 3-bis, 3-ter e 3-quater non si applicano ai soggetti che redigono il bilancio in base ai principi contabili internazionali di cui al regolamento (CE) n. 1606/2002 del Parlamento europeo e del Consiglio, del 19 luglio 2002.
 
 Al fine di disapplicare le disposizioni di cui ai commi 3-bis e 3-ter il contribuente interpella l'amministrazione ai sensi dell'articolo 11, comma 2, della legge 27 luglio 2000, n. 212, recante lo Statuto dei diritti del contribuente.
+
+4.
+                        
+                            
+                                Le spese e gli altri componenti negativi non sono ammessi in deduzione se e nella misura in cui non risultano imputati al conto economico relativo all'esercizio di competenza. Si considerano imputati a conto economico i componenti imputati direttamente a patrimonio per effetto dei principi contabili adottati dall'impresa.
+Sono tuttavia deducibili: (182) 
+ 
+                            
+                            
+                                a)
+                                
+                                    quelli imputati al conto economico di un esercizio precedente, se la deduzione e' stata rinviata in conformita' alle precedenti norme della presente sezione che dispongono o consentono il rinvio; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    quelli che pur non essendo imputabili al conto economico, sono deducibili per disposizione di legge. PERIODO SOPPRESSO DALLA L. 24 DICEMBRE 2007, N. 244. PERIODO SOPPRESSO DALLA L. 24 DICEMBRE 2007, N. 244. PERIODO SOPPRESSO DALLA L. 24 DICEMBRE 2007, N. 244.PERIODO SOPPRESSO DALLA L. 24 DICEMBRE 2007, N. 244. Le spese e gli oneri specificamente afferenti i ricavi e gli altri proventi, che pur non risultando imputati al conto economico concorrono a formare il reddito, sono ammessi in deduzione se e nella misura in cui risultano da elementi certi e precisi. (121) (123) (126) (133)
 
 Le spese e gli altri componenti negativi diversi dagli interessi passivi, tranne gli oneri fiscali, contributivi e di utilita' sociale, sono deducibili se e nella misura in cui si riferiscono ad attivita' o beni da cui derivano ricavi o altri proventi che concorrono a formare il reddito o che non vi concorrono in quanto esclusi. Se si riferiscono indistintamente ad attivita' o beni produttivi di proventi computabili e ad attivita' o beni produttivi di proventi non computabili in quanto esenti nella determinazione del reddito sono deducibili per la parte corrispondente al rapporto tra l'ammontare dei ricavi e altri proventi che concorrono a formare il reddito d'impresa o che non vi concorrono in quanto esclusi e l'ammontare complessivo di tutti i ricavi e proventi. Le plusvalenze di cui all'articolo 87, non rilevano ai fini dell'applicazione del periodo precedente. Fermo restando quanto previsto dai periodi precedenti, le spese relative a prestazioni alberghiere e a somministrazioni di alimenti e bevande, diverse da quelle di cui al comma 3 dell'articolo 95, sono deducibili nella misura del 75 per cento. (133) (136)
 
@@ -3455,6 +6145,25 @@ COMMA ABROGATO DALLA L. 24 DICEMBRE 2007, N. 244. (133)
 In deroga al comma 1 gli interessi di mora concorrono alla formazione del reddito nell'esercizio in cui sono percepiti o corrisposti.
 
 In deroga al comma 5 non e' deducibile il costo sostenuto per l'acquisto del diritto d'usufrutto o altro diritto analogo relativamente ad una partecipazione societaria da cui derivino utili esclusi ai sensi dell'articolo 89.
+
+9.
+                        
+                            
+                                Non e' deducibile ogni tipo di remunerazione dovuta: 
+ 
+                            
+                            
+                                a)
+                                
+                                    su titoli, strumenti finanziari comunque denominati, di cui all'articolo 44, per la quota di essa che direttamente o indirettamente comporti la partecipazione ai risultati economici della societa' emittente o di altre societa' appartenenti allo stesso gruppo o dell'affare in relazione al quale gli strumenti finanziari sono stati emessi; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    relativamente ai contratti di associazione in partecipazione ed a quelli di cui all'articolo 2554 del codice civile allorche' sia previsto un apporto diverso da quello di opere e servizi. 
+ (115)
 
 -----------
                             AGGIORNAMENTO (115)
@@ -3507,6 +6216,72 @@ In deroga al comma 5 non e' deducibile il costo sostenuto per l'acquisto del dir
  Ai sensi di quanto disposto dall'art. 2, comma 4 del D.Lgs. 12 dicembre 2003, n. 344, il riferimento al presente articolo, da parte di norme vigenti alla data di entrata in vigore di cui al medesimo decreto, si intende alle corrispondenti disposizioni contenute nell'art. 145.
 
 ## Art. 110. — Norme generali sulle valutazioni
+
+1.
+                        
+                            
+                                Agli effetti delle norme del presente capo che fanno riferimento al costo dei beni senza disporre diversamente: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il costo e' assunto al lordo delle quote di ammortamento gia' dedotte; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    si comprendono nel costo anche gli oneri accessori di diretta imputazione, esclusi gli interessi passivi e le spese generali.
+Tuttavia per i beni materiali e immateriali strumentali per l'esercizio dell'impresa si comprendono nel costo gli interessi passivi iscritti in bilancio ad aumento del costo stesso per effetto di disposizioni di legge. Nel costo di fabbricazione si possono aggiungere con gli stessi criteri anche i costi diversi da quelli direttamente imputabili al prodotto; per gli immobili alla cui produzione e' diretta l'attivita' dell'impresa si comprendono nel costo gli interessi passivi sui prestiti contratti per la loro costruzione o ristrutturazione; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    Il costo dei beni rivalutati, diversi da quelli di cui all'articolo 85, comma 1, lettere a), b) ed e), non si intende comprensivo delle plusvalenze iscritte, ad esclusione di quelle che per disposizione di legge non concorrono a formare il reddito. Per i beni indicati nella citata lettera e) che costituiscono immobilizzazioni finanziarie le plusvalenze iscritte non concorrono a formare il reddito per la parte eccedente le minusvalenze dedotte; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    il costo delle azioni, delle quote e degli strumenti finanziari similari alle azioni si intende non comprensivo dei maggiori o minori valori iscritti i quali conseguentemente non concorrono alla formazione del reddito, ne' alla determinazione del valore fiscalmente riconosciuto delle rimanenze di tali azioni, quote o strumenti; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    per i titoli a reddito fisso, che costituiscono immobilizzazioni finanziarie e sono iscritti come tali in bilancio, la differenza positiva o negativa tra il costo d'acquisto e il valore di rimborso concorre a formare il reddito per la quota maturata nell'esercizio.
+
+1-bis.
+                        
+                            
+                                In deroga alle disposizioni delle lettere c), d) ed e) del comma 1, per i soggetti che redigono il bilancio in base ai principi contabili internazionali di cui al regolamento (CE) n. 1606/2002 del Parlamento europeo e del Consiglio, del 19 luglio 2002: 
+ 
+                            
+                            
+                                a)
+                                
+                                    
+                                        ((LETTERA ABROGATA DALLA L. 30 DICEMBRE 2025, N. 199)); 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la lettera d) del comma 1 si applica solo per le azioni, le quote e gli strumenti finanziari similari alle azioni che si considerano immobilizzazioni finanziarie ai sensi dell'articolo 85, comma 3-bis; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    per le azioni, le quote e gli strumenti finanziari similari alle azioni, posseduti per un periodo inferiore a quello indicato nell'articolo 87, comma 1, lettera a), aventi gli altri requisiti previsti al comma 1 del medesimo articolo 87, il costo e' ridotto dei relativi utili percepiti durante il periodo di possesso per la quota esclusa dalla formazione del reddito. (133)
 
 Per i soggetti che redigono il bilancio in base ai principi contabili internazionali di cui al citato regolamento (CE) n. 1606/2002, i componenti positivi e negativi che derivano dalla valutazione, operata in base alla corretta applicazione di tali principi, delle passivita' assumono rilievo anche ai fini fiscali. (133)
 
@@ -3664,6 +6439,38 @@ Le provvigioni stesse, se iscritte tra gli elementi dell'attivo a copertura dell
 
 Alla formazione del reddito concorrono i componenti positivi e negativi che risultano dalla valutazione ((degli strumenti finanziari derivati)) alla data di chiusura dell'esercizio. ((182))
 
+3.
+                        
+                            
+                                I componenti negativi di cui al comma 2 non possono essere superiori alla differenza tra il valore del contratto o della prestazione alla data della stipula o a quella di chiusura dell'esercizio precedente e il corrispondente valore alla data di chiusura dell'esercizio. Per la determinazione di quest'ultimo valore, si assume: 
+ 
+                            
+                            
+                                a)
+                                
+                                    per i contratti uniformi a termine negoziati in mercati regolamentari italiani o esteri, l'ultima quotazione rilevata entro la chiusura dell'esercizio; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    per i contratti di compravendita di titoli il valore determinato ai sensi delle lettere a) e b) del comma 4 dell'articolo 94; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    per i contratti di compravendita di valute, il tasso di cambio a pronti, corrente alla data di chiusura dell'esercizio, se si tratta di operazioni a pronti non ancora regolate, il tasso di cambio a termine corrente alla suddetta data per scadenze corrispondenti a quelle delle operazioni oggetto di valutazione, se si tratta di operazioni a termine; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    in tutti gli altri casi, il valore determinato secondo i criteri di cui alla lettera c) del comma 4 dell'articolo 9.
+
 In deroga al comma 3, per i soggetti che redigono il bilancio in base ai principi contabili internazionali di cui al regolamento (CE) n. 1606/2002 del Parlamento europeo e del Consiglio, del 19 luglio 2002, ((e per i soggetti, diversi dalle micro-imprese di cui all'articolo 2435-ter del codice civile, che redigono il bilancio in conformita' alle disposizioni del codice civile,)) i componenti negativi imputati al conto economico in base alla corretta applicazione di tali principi assumono rilievo anche ai fini fiscali. (133) ((182))
 
 Se ((gli strumenti finanziari derivati di cui al comma 2 sono iscritti in bilancio)) con finalita' di copertura di attivita' o passivita', ovvero sono coperte da attivita' o passivita', i relativi componenti positivi e negativi derivanti da valutazione o da realizzo concorrono a formare il reddito secondo le medesime disposizioni che disciplinano i componenti positivi e negativi, derivanti da valutazione o da realizzo, delle attivita' o passivita' rispettivamente coperte o di copertura. ((182))
@@ -3694,6 +6501,24 @@ In deroga al periodo precedente:
 ## Art. 113. — (Partecipazioni acquisite per il recupero di crediti bancari)
 
 Gli intermediari finanziari possono optare per la non applicazione del regime di cui all'articolo 87 alle partecipazioni acquisite nell'ambito degli interventi finalizzati al recupero di crediti o derivanti dalla conversione in azioni di nuova emissione dei crediti verso imprese in temporanea difficolta' finanziaria, nel rispetto delle diposizioni di vigilanza per le banche emanate da parte di Banca d'Italia ai sensi dell'articolo 23 della legge 28 dicembre 2005 n. 262. (192)
+
+2.
+                        
+                            
+                                L'opzione di cui al comma 1 puo' essere esercitata quando sussistono: 
+ 
+                            
+                            
+                                a)
+                                
+                                    nel caso di acquisizione di partecipazioni per il recupero dei crediti, i motivi di convenienza rispetto ad altre forme alternative di recupero dei crediti, le modalita' ed i tempi previsti per il recupero e, ove si tratti di partecipazioni dirette nella societa' debitrice, che l'operativita' di quest'ultima sara' limitata agli atti connessi con il realizzo e la valorizzazione del patrimonio; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    nel caso di conversione di crediti, gli elementi che inducono a ritenere temporanea la situazione di difficolta' finanziaria del debitore, ragionevoli le prospettive di riequilibrio economico e finanziario nel medio periodo ed economicamente conveniente la conversione rispetto ad altre forme alternative di recupero dei crediti; inoltre il piano di risanamento deve essere predisposto da piu' intermediari finanziari rappresentanti una quota elevata dell'esposizione debitoria dell'impresa in difficolta'. (192)
 
 L'opzione di cui al comma 1 comporta, nei confronti della societa' di cui si acquisisce la partecipazione, la rinuncia ad avvalersi delle opzioni di cui alle sezioni II e III del presente capo e della facolta' prevista dall'articolo 115 fino all'esercizio in cui mantenga il possesso delle partecipazioni di cui sopra.
 
@@ -3733,6 +6558,24 @@ Nella determinazione del reddito della Banca d'Italia e dell'Ufficio italiano de
  Il D.Lgs. 18 novembre 2005, n. 247 ha disposto (con l'art. 6, comma 13) che "Le disposizioni degli articoli 86, comma 5-bis, 87, commi 3, primo periodo, 6 e 7, 88, comma 4, 89, commi 2 e 3, primo periodo, 95, 98, 101 e 109, commi 4, lettera b), quarto periodo, del testo unico, come modificati dal presente articolo, hanno effetto per i periodi di imposta che iniziano a decorrere dal 1° gennaio 2004. Le disposizioni degli articoli 87, comma 1-bis, 93, comma 7, 109, comma 4, lettera b), terzo periodo, 111 e 114 del testo unico, come modificate dal presente articolo, hanno effetto per i periodi di imposta che iniziano a decorrere dal 1 gennaio 2005. Le disposizioni degli articoli 87, comma 3, ultimo periodo, e 89, comma 3, ultimo periodo, come modificati dal presente articolo, hanno effetto per i periodi di imposta che iniziano a decorrere dal 1 gennaio 2006".
 
 ## Art. 115. — Opzione per la trasparenza fiscale
+
+1.
+                        
+                            
+                                Esercitando l'opzione di cui al comma 4, il reddito imponibile dei soggetti di cui all'articolo 73, comma 1, lettera a), al cui capitale sociale partecipano esclusivamente soggetti di cui allo stesso articolo 73, comma 1, lettera a), ciascuno con una percentuale del diritto di voto esercitabile nell'assemblea generale, richiamata dall'articolo 2346 del codice civile, e di partecipazione agli utili non inferiore al 10 per cento e non superiore al 50 per cento, e' imputato a ciascun socio, indipendentemente dall'effettiva percezione, proporzionalmente alla sua quota di partecipazione agli utili. Ai soli fini dell'ammissione al regime di cui al presente articolo, nella percentuale di partecipazione agli utili di cui al periodo precedente non si considerano le azioni prive del predetto diritto di voto e la quota di utili delle azioni di cui all'articolo 2350, secondo comma, primo periodo, del codice civile, si assume pari alla quota di partecipazione al capitale delle azioni medesime. I requisiti di cui al primo periodo devono sussistere a partire dal primo giorno del periodo d'imposta della partecipata in cui si esercita l'opzione e permanere ininterrottamente sino al termine del periodo di opzione. L'esercizio dell'opzione non e' consentito nel caso in cui: 
+ 
+                            
+                            
+                                a)
+                                
+                                    i soci partecipanti fruiscano della riduzione dell'aliquota dell'imposta sul reddito delle societa'; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la societa' partecipata eserciti l'opzione di cui agli articoli 117 e 130. (123)
 
 Nel caso in cui i soci con i requisiti di cui al comma 1 non siano residenti nel territorio dello Stato l'esercizio dell'opzione e' consentito a condizione che non vi sia obbligo di ritenuta alla fonte sugli utili distribuiti.
 
@@ -3812,6 +6655,63 @@ Si applicano le disposizioni del terzo e del quarto periodo del comma 3 dell'art
 
 La societa' o l'ente controllante e ciascuna societa' controllata rientranti fra i soggetti di cui all'articolo 73, comma 1, lettere a) e b), fra i quali sussiste il rapporto di controllo di cui all'articolo 2359, comma 1, numero 1), del codice civile, con i requisiti di cui all'articolo 120, possono congiuntamente esercitare l'opzione per la tassazione di gruppo.
 
+2.
+                        
+                            
+                                I soggetti di cui all'articolo 73, comma 1, lettera d), possono esercitare l'opzione di cui al comma 1 in qualita' di controllanti ed a condizione: (172) 
+ 
+                            
+                            
+                                a)
+                                
+                                    di essere residenti in Paesi con i quali e' in vigore un accordo per evitare la doppia imposizione; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    di esercitare nel territorio dello Stato un'attivita' d'impresa, come definita dall'articolo 55, mediante una stabile organizzazione, come definita dall'articolo 162, che assume la qualifica di consolidante. (123) (172)
+
+2-bis.
+                        
+                            
+                                I soggetti di cui all'articolo 73, comma 1, lettera d), privi del requisito di cui alla lettera b) del comma 2, residenti in Stati appartenenti all'Unione europea ovvero in Stati aderenti all'Accordo sullo Spazio economico europeo con il quale l'Italia abbia stipulato un accordo che assicuri un effettivo scambio di informazioni, che rivestono una forma giuridica analoga a quelle previste dall'articolo 73, comma 1, lettere a) e b), possono designare una societa' residente nel territorio dello Stato o non residente di cui al comma 2-ter, controllata ai sensi dell'articolo 2359, comma 1, numero 1), del codice civile con i requisiti di cui all'articolo 120, ad esercitare l'opzione per la tassazione di gruppo congiuntamente con ciascuna societa' residente o non residente di cui al comma 2-ter, su cui parimenti essi esercitano il controllo ai sensi dell'articolo 2359, comma 1, numero 1), del codice civile con i requisiti di cui all'articolo 120. La controllata designata non puo' esercitare l'opzione con le societa' da cui e' partecipata. Agli effetti del presente comma: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la controllata designata, in qualita' di consolidante, acquisisce tutti i diritti, obblighi ed oneri previsti dagli articoli da 117 a 127 per le societa' o enti controllanti; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    i requisiti del controllo di cui al comma 1 devono essere verificati in capo al soggetto controllante non residente; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    l'efficacia dell'opzione e' subordinata alla condizione che il soggetto controllante non residente designi la controllata residente assumendo, in via sussidiaria, le responsabilita' previste dall'articolo 127 per le societa' o enti controllanti; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    in ipotesi di interruzione della tassazione di gruppo prima del compimento del triennio o di ((revoca)) dell'opzione, le perdite fiscali risultanti dalla dichiarazione di cui all'articolo 122 sono attribuite esclusivamente alle controllate che le hanno prodotte, al netto di quelle utilizzate, e nei cui confronti viene meno il requisito del controllo secondo i criteri stabiliti dai soggetti interessati; ((178))
+                                    
+                                
+                            
+                            
+                                e)
+                                
+                                    se il requisito del controllo nei confronti della controllata designata cessa per qualsiasi motivo prima del compimento del triennio, il soggetto controllante non residente puo' designare, tra le controllate appartenenti al medesimo consolidato, un'altra controllata residente avente le caratteristiche di cui al presente comma senza che si interrompa la tassazione di gruppo. La nuova controllata designata assume le responsabilita' previste dall'articolo 127 per le societa' o enti controllanti relativamente ai precedenti periodi d'imposta di validita' della tassazione di gruppo, in solido con la societa' designata nei cui confronti cessa il requisito del controllo.(172)
+
 I soggetti di cui all'articolo 73, comma 1, lettera d), controllati ai sensi dell'articolo 2359, comma 1, numero 1), del codice civile, possono esercitare l'opzione di cui al comma 1 in qualita' di controllata mediante una stabile organizzazione come definita dal comma 1-bis dell'articolo 120. (172)
 
 Permanendo il requisito del controllo di cui al comma 1, l'opzione ha durata per tre esercizi sociali ed e' irrevocabile. ((Al termine del triennio l'opzione si intende tacitamente rinnovata per un altro triennio a meno che non sia revocata, secondo le modalita' e i termini previsti per la comunicazione dell'opzione. La disposizione di cui al periodo precedente si applica al termine di ciascun triennio. In caso di rinnovo tacito dell'opzione la societa' o ente controllante puo' modificare il criterio utilizzato, ai sensi dell'articolo 124, comma 4, per l'eventuale attribuzione delle perdite residue, in caso di interruzione anticipata della tassazione di gruppo o di revoca dell'opzione, alle societa' che le hanno prodotte, nella dichiarazione dei redditi presentata nel periodo d'imposta a decorrere dal quale si intende rinnovare l'opzione. Nel caso venga meno il requisito del controllo di cui al comma 1 si determinano le conseguenze di cui all'articolo 124.)) (123) ((178))
@@ -3835,6 +6735,31 @@ medesimo.
 
 L'esercizio dell'opzione per la tassazione di gruppo di cui all'articolo 117 comporta la determinazione di un reddito complessivo globale corrispondente alla somma algebrica dei redditi complessivi netti da considerare, quanto alle societa' controllate, per l'intero importo indipendentemente dalla quota di partecipazione riferibile al soggetto controllante. Al soggetto controllante compete il riporto a nuovo della eventuale perdita risultante dalla somma algebrica degli imponibili, la liquidazione dell'unica imposta dovuta o dell'unica eccedenza rimborsabile o riportabile a nuovo.
 
+1-bis.
+                        
+                            
+                                Ai fini della determinazione del credito d'imposta per i redditi prodotti all'estero di cui all'articolo 165: 
+ 
+                            
+                            
+                                a)
+                                
+                                    per reddito complessivo deve intendersi il reddito complessivo globale; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la quota di imposta italiana fino a concorrenza della quale e' accreditabile l'imposta estera e' calcolata separatamente per ciascuno dei soggetti partecipanti al consolidato, e per ciascuno Stato; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    nelle ipotesi di interruzione della tassazione di gruppo prima del compimento del triennio o di ((revoca)) dell'opzione il diritto al riporto in avanti e all'indietro dell'eccedenza di cui all'articolo 165, comma 6, compete ai soggetti che hanno prodotto i redditi all'estero. (123) ((178))
+
 Le perdite fiscali relative agli esercizi anteriori all'inizio della tassazione di gruppo di cui alla presente sezione possono essere utilizzate solo dalle societa' cui si riferiscono. Le eccedenze d'imposta riportate a nuovo relative agli stessi esercizi possono essere utilizzate dalla societa' o ente controllante o alternativamente dalle societa' cui competono. Resta ferma l'applicabilita' delle disposizioni di cui all'articolo 43-ter del decreto del Presidente della Repubblica 29 settembre 1973, n. 602.
 
 Gli obblighi di versamento a saldo ed in acconto competono esclusivamente alla controllante. L'acconto dovuto e' determinato sulla base dell'imposta relativa al periodo precedente, al netto delle detrazioni e dei crediti d'imposta e delle ritenute d'acconto, come indicata nella dichiarazione dei redditi, presentata ai sensi dell'articolo 122. Per il primo esercizio la determinazione dell'acconto dovuto dalla controllante e' effettuata sulla base dell'imposta, al netto delle detrazioni, dei crediti d'imposta e delle ritenute d'acconto, corrispondente alla somma algebrica dei redditi relativi al periodo precedente come indicati nelle dichiarazioni dei redditi presentate per il periodo stesso dalle societa' singolarmente considerate. Si applicano, in ogni caso, le disposizioni di cui all'articolo 4 del decreto-legge 2 marzo 1989, n. 69, convertito, con modificazioni, dalla legge 27 aprile 1989, n. 154.
@@ -3852,6 +6777,38 @@ Non concorrono alla formazione del reddito imponibile in quanto escluse le somme
 
 ## Art. 119. — Condizioni per l'efficacia dell'opzione
 
+1.
+                        
+                            
+                                L'opzione puo' essere esercitata da ciascuna entita' legale solo in qualita' di controllante o solo in qualita' di controllata e la sua efficacia e' subordinata al verificarsi delle seguenti condizioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    identita' dell'esercizio sociale di ciascuna societa' controllata con quello della societa' o ente controllante; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    esercizio congiunto dell'opzione da parte di ciascuna controllata e dell'ente o societa' controllante; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    elezione di domicilio da parte di ciascuna controllata presso la societa' o ente controllante ai fini della notifica degli atti e provvedimenti relativi ai periodi d'imposta per i quali e' esercitata l'opzione prevista dall'articolo 117. L'elezione di domicilio e' irrevocabile fino al termine del periodo di decadenza dell'azione di accertamento o di irrogazione delle sanzioni relative all'ultimo esercizio il cui reddito e' stato incluso nella dichiarazione di cui all'articolo 122; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    l'avvenuto esercizio congiunto dell'opzione deve essere comunicato all'Agenzia delle entrate ((con la dichiarazione presentata nel periodo d'imposta a decorrere dal quale si intende esercitare l'opzione)). (123) ((168))
+
 Non viene meno l'efficacia dell'opzione nel caso in cui per effetto di operazioni di fusione, di scissione e di liquidazione volontaria si determinano all'interno dello stesso esercizio piu' periodi d'imposta. Il decreto di cui all'articolo 129 stabilisce le modalita' e gli adempimenti formali da porre in essere per pervenire alla determinazione del reddito complessivo globale.
 
 ---------------
@@ -3865,7 +6822,25 @@ Non viene meno l'efficacia dell'opzione nel caso in cui per effetto di operazion
 
 ## Art. 120. — Definizione del requisito di controllo
 
+1.
+                        
+                            
+                                Agli effetti della presente sezione si considerano controllate le societa' per azioni, in accomandita per azioni, a responsabilita' limitata: 
+ 
+                            
+                            
+                                a)
+                                
+                                    al cui capitale sociale la societa' o l'ente controllante partecipa direttamente o indirettamente per una percentuale superiore al 50 per cento, da determinarsi relativamente all'ente o societa' controllante tenendo conto della eventuale demoltiplicazione prodotta dalla catena societaria di controllo, senza considerare le azioni prive del diritto di voto esercitabile nell'assemblea generale richiamata dall'articolo 2346 del codice civile; 
 
+                                
+                            
+                            
+                                b)
+                                
+                                    al cui utile di bilancio la societa' o l'ente controllante partecipa direttamente o indirettamente per una percentuale superiore al 50 per cento da determinarsi relativamente all'ente o societa' controllante, tenendo conto della eventuale demoltiplicazione prodotta dalla catena societaria di controllo e senza considerare la quota di utile di competenza delle azioni prive del diritto di voto esercitabile nell'assemblea generale richiamata dall'articolo 2346 del codice civile.
+
+((1-bis. Si considerano altresi' controllate le stabili organizzazioni nel territorio dello Stato, come definite dall'articolo 162, dei soggetti di cui all'articolo 73, comma 1, lettera d), residenti in Stati appartenenti all'Unione europea ovvero in Stati aderenti all'Accordo sullo Spazio economico europeo con il quale l'Italia abbia stipulato un accordo che assicuri un effettivo scambio di informazioni, che rivestono una forma giuridica analoga a quelle di cui al comma 1, con i requisiti di cui al medesimo comma.))
 
 ((172))
 
@@ -3880,6 +6855,31 @@ medesimo.
 ## Art. 121. — ((Obblighi delle societa' controllate ))
 
 ((
+
+1.
+                        
+                            
+                                Per effetto dell'esercizio congiunto dell'opzione di cui all'articolo 117, ciascuna societa' controllata, secondo quanto previsto dal decreto di cui all'articolo 129, deve: 
+ 
+                            
+                            
+                                a)
+                                
+                                    compilare il modello della dichiarazione dei redditi al fine di comunicare alla societa' o ente controllante la determinazione del proprio reddito complessivo, delle ritenute subite, delle detrazioni e dei crediti d'imposta spettanti, compresi quelli compensabili ai sensi dell'articolo 17 del decreto legislativo 9 luglio 1997, n. 241, e degli acconti autonomamente versati. Al modello deve essere allegato il prospetto di cui all'articolo 109, comma 4, lettera b), con le indicazioni richieste relative ai componenti negativi di reddito dedotti; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    fornire alla societa' controllante i dati relativi ai beni ceduti ed acquistati secondo il regime di neutralita' fiscale di cui all'articolo 123, specificando la differenza residua tra valore di libro e valore fiscale riconosciuto; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    fornire ogni necessaria collaborazione alla societa' controllante per consentire a quest'ultima l'adempimento degli obblighi che le competono nei confronti dell'Amministrazione finanziaria anche successivamente al periodo di validita' dell'opzione.
 
 ))
 
@@ -3920,6 +6920,42 @@ medesimo.
  Ai sensi di quanto disposto dall'art. 2, comma 4 del D.Lgs. 12 dicembre 2003, n. 344, il riferimento al presente articolo, da parte di norme vigenti alla data di entrata in vigore di cui al medesimo decreto, si intende alle corrispondenti disposizioni contenute nell'art. 173.
 
 ## Art. 124. — Interruzione della tassazione di gruppo prima del compimento del triennio
+
+1.
+                        
+                            
+                                Se il requisito del controllo, cosi' come definito dall'articolo 117, cessa per qualsiasi motivo prima del compimento del triennio, il reddito della societa' o dell'ente controllante, per il periodo d'imposta in cui viene meno tale requisito, viene aumentato o diminuito per un importo corrispondente: 
+ 
+                            
+                            
+                                a)
+                                
+                                    agli interessi passivi dedotti o non dedotti nei precedenti esercizi del triennio per effetto di quanto previsto dall'articolo 97, comma 2; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    alla residua differenza tra il valore di libro e quello fiscale riconosciuto dei beni acquisiti dalla stessa societa' o ente controllante o da altra societa' controllata secondo il regime di neutralita' fiscale di cui all'articolo 123. Il periodo precedente si applica nel caso in cui il requisito del controllo venga meno anche nei confronti della sola societa' cedente o della sola societa' cessionaria. (123)
+
+2.
+                        
+                            
+                                Nel caso di cui al comma 1 entro trenta giorni dal venir meno del requisito del controllo: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la societa' o l'ente controllante deve integrare quanto versato a titolo d'acconto se il versamento complessivamente effettuato e' inferiore a quello dovuto relativamente alle societa' per le quali continua la validita' dell'opzione; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    ciascuna societa' controllata deve effettuare l'integrazione di cui alla lettera precedente riferita ai redditi propri, cosi' come risultanti dalla comunicazione di cui all'articolo 121.
 
 Ai fini del comma 2, entro lo stesso termine ivi previsto, con le modalita' stabilite dal decreto di cui all'articolo 129, la societa' o l'ente controllante puo' attribuire, in tutto o in parte, i versamenti gia' effettuati, per quanto eccedente il proprio obbligo, alle controllate nei cui confronti e' venuto meno il requisito del controllo.
 
@@ -4054,6 +7090,24 @@ L'eventuale rivalsa della societa' o ente controllante nei confronti delle socie
 Le societa' e gli enti di cui all'articolo 73, comma 1, lettere 
  a) e b), possono esercitare l'opzione per includere proporzionalmente nella propria base imponibile, indipendentemente dalla distribuzione, i redditi conseguiti da tutte le proprie societa' controllate ai sensi dell'articolo 2359, primo comma, numero 1), del codice civile non residenti e rientranti nella definizione di cui all'articolo 133.
 
+2.
+                        
+                            
+                                L'esercizio dell'opzione di cui al comma 1 e' consentito alle societa' ed agli enti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    i cui titoli sono negoziati nei mercati regolamentati; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    controllati ai sensi dell'articolo 2359, comma 1, n. 1) del codice civile esclusivamente dallo Stato o da altri enti pubblici, da persone fisiche residenti che non si qualifichino a loro volta, tenendo conto delle partecipazioni possedute da loro parti correlate, quali soggetti controllanti ai sensi dell'articolo 2359, comma 1, numeri 1) e 2), del codice civile di altra societa' o ente commerciale residente o non residente.
+
 Per la verifica della condizione di cui alla lettera b) del comma 2, le partecipazioni possedute dai familiari di cui all'articolo 5, comma 5, si cumulano fra loro.
 
 4. La societa' controllante che si qualifica per l'esercizio dell'opzione di cui al comma 1 non puo' quale controllata esercitare anche l'opzione di cui alla sezione precedente.))
@@ -4090,6 +7144,86 @@ Ai fini del comma 3 si considera la quota di partecipazione agli utili alla data
 
 Permanendo il requisito del controllo, come definito nell'articolo 133, l'opzione di cui all'articolo 131 ha durata per cinque esercizi del soggetto controllante ed e' irrevocabile. Al termine del quinquennio l'opzione si intende tacitamente rinnovata per il successivo triennio a meno che non sia revocata, secondo le modalita' e i termini previsti per la comunicazione dell'opzione. La disposizione di cui al periodo precedente si applica al termine di ciascun triennio. (178)
 
+2.
+                        
+                            
+                                L'efficacia dell'opzione e' altresi' subordinata al verificarsi delle seguenti condizioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il suo esercizio deve avvenire relativamente a tutte le controllate non residenti, cosi', come definite dall'articolo 133; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    identita' dell'esercizio sociale di ciascuna societa' controllata con quello della societa' o ente controllante, salvo nel caso in cui questa coincidenza non sia consentita dalle legislazioni locali; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    revisione dei bilanci del soggetto controllante residente e delle controllate residenti di cui all'articolo 131, comma 2, e di quelle non residenti di cui all'articolo 133, da parte dei soggetti iscritti all'albo Consob previsto dal decreto legislativo 24 febbraio 1998, n. 58, o, per quanto riguarda le controllate non residenti, anche da altri soggetti a condizione che il revisore del soggetto controllante utilizzi gli esiti della revisione contabile dagli stessi soggetti effettuata ai fini del giudizio sul bilancio annuale o consolidato. Nel caso in cui la controllata non abbia l'obbligo della redazione annuale del bilancio, redazione a cura dell'organo sociale cui compete l'amministrazione della societa' di un bilancio volontario riferito ad un periodo di tempo corrispondente al periodo d'imposta della controllante, comunque soggetto alla revisione di cui al primo periodo; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    attestazione rilasciata da ciascuna societa' controllata non residente secondo le modalita' previste dal decreto di cui all'articolo 142 dalla quale risulti: 
+ 1) il consenso alla revisione del proprio bilancio di cui alla lettera c); 
+ 2) l'impegno a fornire al soggetto controllante la collaborazione necessaria per la determinazione dell'imponibile e per adempiere entro un periodo non superiore a 60 giorni dalla loro notifica alle richieste dell'Amministrazione finanziaria. 
+
+                                
+                            
+                            
+                                d-bis)
+                                
+                                    LETTERA ABROGATA DAL D.LGS. 24 SETTEMBRE 2015, N. 156.
+
+3.
+                        
+                            
+                                Al ricorrere delle condizioni previste dagli articoli 130 e seguenti, la societa' controllante accede al regime previsto dalla presente sezione; la medesima societa' controllante puo' interpellare l'amministrazione ai sensi ((dell'articolo 11, comma 1, lettera e) )), della legge 27 luglio 2000, n. 212, recante lo Statuto dei diritti del contribuente, al fine di verificare la sussistenza dei requisiti per il valido esercizio dell'opzione. In particolare dall'istanza di interpello dovra' risultare: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la qualificazione soggettiva del soggetto controllante all'esercizio dell'opzione ai sensi dell'articolo 130, comma 2; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la puntuale descrizione della struttura societaria estera del gruppo con l'indicazione di tutte le societa' controllate; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    la denominazione, la sede sociale, l'attivita' svolta, l'ultimo bilancio disponibile di tutte le controllate non residenti nonche' la quota di partecipazione agli utili riferita alla controllante ed alle controllate di cui all'articolo 131, comma 2, l'eventuale diversa durata dell'esercizio sociale e le ragioni che richiedono tale diversita'; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    la denominazione dei soggetti cui e' stato attribuito l'incarico per la revisione dei bilanci e le conferme dell'avvenuta accettazione di tali incarichi; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    l'elenco delle imposte relativamente alle quali verra' presumibilmente richiesto il credito di cui all'articolo 165.
+
 La risposta positiva dell'Agenzia delle entrate puo' essere subordinata all'assunzione da parte del soggetto controllante dell'obbligo ad altri adempimenti finalizzati ad una maggiore tutela degli interessi erariali. Con lo stesso interpello di cui al comma 3 il soggetto controllante puo' a sua volta richiedere, oltre a quelle gia' previste, ulteriori semplificazioni per la determinazione del reddito imponibile fra le quali anche l'esclusione delle societa' controllate di dimensioni non rilevanti residenti negli Stati o territori di cui al decreto del Ministro dell'economia e delle finanze emanato ai sensi dell'articolo 168- bis. (133)
 
 Le variazioni dei dati di cui al comma 3 possono essere comunicate all'Agenzia delle entrate con le modalita' previste dallo stesso comma 3 entro il mese successivo alla fine del periodo d'imposta durante il quale si sono verificate. La societa' o ente controllante che intende accedere al regime previsto dalla presente sezione ma non ha presentato l'istanza di interpello prevista dal comma 3 ovvero, avendola presentata, non ha ricevuto risposta positiva deve segnalare detta circostanza nella dichiarazione dei redditi. 
@@ -4125,6 +7259,64 @@ Le partecipazioni di cui al comma 1 devono sussistere alla fine dell'esercizio d
  Il D.Lgs. 18 novembre 2005, n. 247 ha disposto (con l'art. 9, comma 6) che "Le disposizioni del testo unico modificate dal presente articolo hanno effetto per i periodi di imposta che iniziano a decorrere dal 1 gennaio 2004, salvo le disposizioni degli articoli 132, comma 2, e 136, comma 6, che hanno effetto per i periodi d'imposta che iniziano a decorrere dal 1 gennaio 2005".
 
 ## Art. 134. — Obblighi della societa' od ente controllante e rettifiche di consolidamento
+
+1.
+                        
+                            
+                                L'ente o la societa' controllante provvede a calcolare il reddito imponibile di ciascuna controllata estera. A tale scopo il reddito risultante dai bilanci revisionati viene rideterminato secondo le norme di cui alla sezione I del presente capo e del titolo III in quanto compatibili con quelle di cui alla presente sezione e con le rettifiche di seguito previste: 
+ 
+                            
+                            
+                                a)
+                                
+                                    
+                                        ((LETTERA ABROGATA DALLA L. 24 DICEMBRE 2007, N. 244)); 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    indipendentemente dai criteri adottati per la redazione dei singoli bilanci revisionati, adozione di un trattamento uniforme dei componenti positivi e negativi di reddito dagli stessi risultanti secondo i criteri di cui alla predetta sezione I, consentendo nell'esercizio di competenza la deducibilita' dei componenti negativi non solo se imputati al conto economico di un esercizio precedente, ma anche successivo; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    i valori risultanti dal bilancio relativo all'esercizio o periodo di gestione anteriore al primo cui si applicano le disposizioni della presente sezione sono riconosciuti ai fini dell'imposta sulle societa' a condizione che siano conformi a quelli derivanti dall'applicazione dei criteri contabili adottati nei precedenti esercizi e che siano adempiuti gli obblighi formali eventualmente previsti dal decreto di cui all'articolo 142 salvo quanto di seguito previsto: 
+ 1) i fondi per rischi ed oneri risultanti dal predetto bilancio istituiti con finalita' analoghe a quelli previsti nella sezione I di questo capo si considerano riconosciuti ai fini dell'imposta sul reddito fino a concorrenza dell'importo massimo per gli stessi previsto; 
+ 2) qualora le norme della sezione I di questo capo non prevedano un importo massimo, gli stessi si considerano fiscalmente riconosciuti per intero o nel minor ammontare corrispondente agli accantonamenti che sarebbero stati deducibili secondo le norme della predetta sezione I a condizione che tale minore ammontare sia rideterminato dal soggetto controllante; 
+ 3) i fondi per rischi ed oneri risultanti dal predetto bilancio istituiti con finalita' diverse (da) quelli previsti dalla stessa sezione I non si considerano fiscalmente riconosciuti; (123) 
+ 4) il valore delle rimanenze finali dei beni indicati alle lettere a) e b) del comma 1 dell'articolo 85 si considera fiscalmente riconosciuto in misura non superiore al valore normale di cui all'articolo 92, comma 5. 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    esclusione dal reddito imponibile degli utili e delle perdite di cambio relativi a finanziamenti attivi e passivi di durata superiore a diciotto mesi stipulati fra le societa' non residenti o fra queste e quelle residenti incluse nella determinazione dell'unica base imponibile di cui alla presente sezione se denominati nella valuta utilizzata dal debitore o in quella utilizzata dal creditore per la redazione del proprio bilancio di cui all'articolo 132, comma 2; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    i redditi rideterminati secondo i criteri di cui ai punti precedenti concorrono alla formazione dell'imponibile convertiti secondo il cambio del giorno di chiusura dell'esercizio o periodo di gestione della societa' non residente; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    inapplicabilita' delle norme di cui agli articoli 95, commi 2, 3 e 5, 98, 99, comma 1, secondo periodo, 100, 102, commi 6 e 9, 108, comma 2, secondo periodo e 164; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    relativamente al reddito imponibile delle controllate estere l'art. 109, comma 4, lettera b) si applica nei limiti in cui analoghe deduzioni dal reddito imponibile sono riconosciute dalle legislazioni locali. In tal caso, e' ammessa la deducibilita' dei componenti negativi ivi previsti fino a concorrenza del minor importo tra la misura prevista dalla legislazione nazionale e quanto effettivamente dedotto dalla controllata estera secondo le modalita' ed alle condizioni di cui al decreto previsto dall'articolo 142; in mancanza della predetta previsione nella legislazione locale e fermo restando quanto previsto dalla precedente lettera b), non sono deducibili dal reddito complessivo del gruppo i componenti negativi di reddito di cui al predetto articolo non imputati al conto economico della controllata estera cui si riferiscono.
 
 Non rilevano le perdite delle controllate non residenti relative agli esercizi precedenti l'esercizio dell'opzione di cui all'articolo 130. 
  (115)
@@ -4250,6 +7442,24 @@ Il reddito complessivo degli enti non commerciali di cui alla lettera c) del com
 
 Il reddito complessivo e' determinato secondo le disposizioni dell'articolo 8.
 
+3.
+                        
+                            
+                                Non concorrono in ogni caso alla formazione del reddito degli enti non commerciali di cui alla lettera c) del comma 1 dell'articolo 73: 
+ 
+                            
+                            
+                                a)
+                                
+                                    i fondi pervenuti ai predetti enti a seguito di raccolte pubbliche effettuate occasionalmente, anche mediante offerte di beni di modico valore o di servizi ai sovventori, in concomitanza di celebrazioni, ricorrenze o campagne di sensibilizzazione; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    i contributi corrisposti da Amministrazioni pubbliche ai predetti enti per lo svolgimento convenzionato o in regime di accreditamento di cui all'articolo 8, comma 7, del decreto legislativo 30 dicembre 1992, n. 502, come sostituito dall'articolo 9, comma 1, lettera g), del decreto legislativo 7 dicembre 1993, n. 517, di attivita' aventi finalita' sociali esercitate in conformita' ai fini istituzionali degli enti stessi.
+
 ))
 
 ## Art. 144. — Determinazione dei redditi
@@ -4278,6 +7488,28 @@ Gli enti soggetti alle disposizioni in materia di contabilita' pubblica sono eso
 ## Art. 145. — ((Regime forfetario degli enti non commerciali ))
 
 ((
+
+1.
+                        
+                            
+                                Fatto salvo quanto previsto, per le associazioni sportive dilettantistiche, dalla legge 16 dicembre 1991, n. 398, e, per le associazioni senza scopo di lucro e per le pro-loco, dall'articolo 9-bis del decreto-legge 30 dicembre 1991, n. 417, convertito, con modificazioni, dalla legge 6 febbraio 1962, n. 66, gli enti non commerciali ammessi alla contabilita' semplificata ai sensi dell'articolo 18 del decreto del Presidente della Repubblica 29 settembre 1973, n. 600, possono optare per la determinazione forfetaria del reddito d'impresa, applicando all'ammontare dei ricavi conseguiti nell'esercizio di attivita' commerciali il coefficientedi redditivita' corrispondente alla classe di appartenenza secondo la tabella seguente ed aggiungendo l'ammontare dei componenti positivi del reddito di cui agli articoli 54, 55, 56 e 57: 
+ 
+                            
+                            
+                                a)
+                                
+                                    attivita' di prestazioni di servizi: 
+ 1) fino a lire 30.000.000, coefficiente 15 per cento; 
+ 2) da lire 30.000.001 a lire 360.000.000, coefficiente 25 per cento; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    altre attivita': 
+ 1) fino a lire 50.000.000, coefficiente 10 per cento; 
+ 2) da lire 50.000.001 a lire 1.000.000.000, coefficiente 15 per cento.
 
 Per i contribuenti che esercitano contemporaneamente prestazioni di servizi ed altre attivita' il coefficiente si determina con riferimento all'ammontare dei ricavi relativi all'attivita' prevalente. In mancanza della distinta annotazione dei ricavi si considerano prevalenti le attivita' di prestazioni di servizi.
 
@@ -4314,11 +7546,96 @@ Si considerano tuttavia effettuate nell'esercizio di attivita' commerciali, salv
 
 Per le associazioni politiche, sindacali e di categoria, religiose, assistenziali, culturali, sportive dilettantistiche, di promozione sociale e di formazione extra-scolastica della persona, nonche' per le strutture periferiche di natura privatistica necessarie agli enti pubblici non economici per attuare la funzione di preposto a servizi di pubblico interesse, non si considerano commerciali le attivita' svolte in diretta attuazione degli scopi istituzionali, effettuate verso pagamento di corrispettivi specifici nei confronti degli iscritti, associati o partecipanti, di altre associazioni che svolgono la medesima attivita' e che per legge, regolamento, atto costitutivo o statuto fanno parte di un'unica organizzazione locale o nazionale, dei rispettivi associati o partecipanti e dei tesserati dalle rispettive organizzazioni nazionali, nonche' le cessioni anche a terzi di proprie pubblicazioni cedute prevalentemente agli associati. (186) (187) (194)((238))
 
+4.
+                        
+                            
+                                La disposizione del comma 3 non si applica per le cessioni di beni nuovi prodotti per la vendita, per le somministrazioni di pasti, per le erogazioni di acqua, gas, energia elettrica e vapore, per le prestazioni alberghiere, di alloggio, di trasporto e di deposito e per le prestazioni di servizi portuali e aeroportuali ne' per le prestazioni effettuate nell'esercizio delle seguenti attivita': 
+ 
+                            
+                            
+                                a)
+                                
+                                    gestione di spacci aziendali e di mense; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    organizzazione di viaggi e soggiorni turistici; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    gestione di fiere ed esposizioni a carattere commerciale; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    pubblicita' commerciale; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    telecomunicazioni e radiodiffusioni circolari.
+
 Per le associazioni di promozione sociale ricomprese tra gli enti di cui all'articolo 3, comma 6, lettera e), della legge 25 agosto 1991, n. 287, le cui finalita' assistenziali siano riconosciute dal Ministero dell'interno, non si considerano commerciali, anche se effettuate verso pagamento di corrispettivi specifici, la somministrazione di alimenti e bevande effettuata, presso le sedi in cui viene svolta l'attivita' istituzionale, da bar ed esercizi similari e l'organizzazione di viaggi e soggiorni turistici, sempreche' le predette attivita' siano strettamente complementari a quelle svolte in diretta attuazione degli scopi istituzionali e siano effettuate nei confronti degli stessi soggetti indicati nel comma 3.
 
 L'organizzazione di viaggi e soggiorni turistici di cui al comma 5 non e' considerata commerciale anche se effettuata da associazioni politiche, sindacali e di categoria, nonche' da associazioni riconosciute dalle confessioni religiose con le quali lo Stato ha stipulato patti, accordi o intese, sempreche' sia effettuata nei confronti degli stessi soggetti indicati nel comma 3.
 
 Per le organizzazioni sindacali e di categoria non si considerano effettuate nell'esercizio di attivita' commerciali le cessioni delle pubblicazioni, anche in deroga al limite di cui al comma 3, riguardanti i contratti collettivi di lavoro, nonche' l'assistenza prestata prevalentemente agli iscritti, associati o partecipanti in materia di applicazione degli stessi contratti e di legislazione sul lavoro, effettuate verso pagamento di corrispettivi che in entrambi i casi non eccedano i costi di diretta imputazione.
+
+8.
+                        
+                            
+                                Le disposizioni di cui ai commi 3, 5, 6 e 7 si applicano a condizione che le associazioni interessate si conformino alle seguenti clausole, da inserire nei relativi atti costitutivi o statuti redatti nella forma dell'atto pubblico o della scrittura privata autenticata o registrata: 
+ 
+                            
+                            
+                                a)
+                                
+                                    divieto di distribuire anche in modo indiretto, utili o avanzi di gestione nonche' fondi, riserve o capitale durante la vita dell'associazione, salvo che la destinazione o la distribuzione non siano imposte dalla legge; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    obbligo di devolvere il patrimonio dell'ente, in caso di suo scioglimento per qualunque causa, ad altra associazione con finalita' analoghe o ai fini di pubblica utilita', sentito l'organismo di controllo di cui all'articolo 3, comma 190, della legge 23 dicembre 1996, n. 662, e salvo diversa destinazione imposta dalla legge; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    disciplina uniforme del rapporto associativo e delle modalita' associative volte a garantire l'effettivita' del rapporto medesimo, escludendo espressamente la temporaneita' della partecipazione alla vita associativa e prevedendo per gli associati o partecipanti maggiori d'eta' il diritto di voto per l'approvazione e le modificazioni dello statuto e dei regolamenti e per la nomina degli organi direttivi dell'associazione; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    obbligo di redigere e di approvare annualmente un rendiconto economico e finanziario secondo le disposizioni statutarie; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    eleggibilita' libera degli organi amministrativi, principio del voto singolo di cui all'articolo 2532, comma 2, del codice civile, sovranita' dell'assemblea dei soci, associati o partecipanti e i criteri di loro ammissione ed esclusione, criteri e idonee forme di pubblicita' delle convocazioni assembleari, delle relative deliberazioni, dei bilanci o rendiconti; e' ammesso il voto per corrispondenza per le associazioni il cui atto costitutivo, anteriore al 1° gennaio 1997, preveda tale modalita' di voto ai sensi dell'articolo 2532, ultimo comma, del codice civile e sempreche' le stesse abbiano rilevanza a livello nazionale e siano prive di organizzazione a livello locale; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    intrasmissibilita' della quota o contributo associativo ad eccezione dei trasferimenti a causa di morte e non rivalutabilita' della stessa.
 
 Le disposizioni di cui alle lettere c) ed e) del comma 8 non si applicano alle associazioni religiose riconosciute dalle confessioni con le quali lo Stato ha stipulato patti, accordi o intese, nonche' alle associazioni politiche, sindacali e di categoria.
 
@@ -4344,6 +7661,38 @@ Le disposizioni di cui alle lettere c) ed e) del comma 8 non si applicano alle a
 ((
 
 Indipendentemente dalle previsioni statutarie, l'ente perde la qualifica di ente non commerciale qualora eserciti prevalentemente attivita' commerciale per un intero periodo d'imposta.
+
+2.
+                        
+                            
+                                Ai fini della qualificazione commerciale dell'ente si tiene conto anche dei seguenti parametri: 
+ 
+                            
+                            
+                                a)
+                                
+                                    prevalenza delle immobilizzazioni relative all'attivita' commerciale, al netto degli ammortamenti, rispetto alle restanti attivita'; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    prevalenza dei ricavi derivanti da attivita' commerciali rispetto al valore normale delle cessioni o prestazioni afferenti le attivita' istituzionali; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    prevalenza dei redditi derivanti da attivita' commerciali rispetto alle entrate istituzionali, intendendo per queste ultime i contributi, le sovvenzioni, le liberalita' e le quote associative; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    prevalenza delle componenti negative inerenti all'attivita' commerciale rispetto alle restanti spese.
 
 Il mutamento di qualifica opera a partire dal periodo d'imposta in cui vengono meno le condizioni che legittimano le agevolazioni e comporta l'obbligo di comprendere tutti i beni facenti parte del patrimonio dell'ente nell'inventario di cui all'articolo 15 del decreto del Presidente della Repubblica 29 settembre 1973, n. 600.
 L'iscrizione nell'inventario deve essere effettuata entro sessanta giorni dall'inizio del periodo di imposta in cui ha effetto il mutamento di qualifica secondo i criteri di cui al decreto del Presidente della Repubblica 23 dicembre 1974, n. 689.
@@ -4431,6 +7780,31 @@ Dall'imposta lorda si detrae, fino alla concorrenza del suo ammontare, un import
 
 Agli enti non commerciali che esercitano attivita' commerciali mediante stabili organizzazioni nel territorio dello Stato, si applicano l'articolo 144, comma 5, e l'articolo 152.
 
+6.
+                        
+                            
+                                Sono altresi' deducibili: 
+ 
+                            
+                            
+                                a)
+                                
+                                    le erogazioni liberali in denaro a favore dello Stato, di altri enti pubblici e di associazioni e di fondazioni private legalmente riconosciute, le quali, senza scopo di lucro, svolgono o promuovono attivita' dirette alla tutela del patrimonio ambientale, effettuate per l'acquisto, la tutela e la valorizzazione delle cose indicate all'articolo 139, comma 1, lettere a) e b), del decreto legislativo 29 ottobre 1999, n. 490, facenti parte degli elenchi di cui all'articolo 140, comma 1, del medesimo decreto legislativo o assoggettati al vincolo della inedificabilita' in base ai piani di cui all'articolo 149 dello stesso decreto legislativo e al decreto-legge 27 giugno 1985, n. 312, convertito, con modificazioni, dalla legge 8 agosto 1985, n. 431, ivi comprese le erogazioni destinate all'organizzazione di mostre e di esposizioni, nonche' allo svolgimento di studi e ricerche aventi ad oggetto le cose anzidette; il mutamento di destinazione degli immobili indicati alla lettera c) del presente comma, senza la preventiva autorizzazione del Ministro dell'ambiente, e della tutela del territorio, come pure il mancato assolvimento degli obblighi di legge per consentire l'esercizio del diritto di prelazione dello Stato sui beni immobili vincolati, determina la indeducibilita' delle spese dal reddito. Il Ministro dell'ambiente e della tutela del territorio da' immediata comunicazione ai competenti uffici tributari delle violazioni che comportano la decadenza dalle agevolazioni; dalla data di ricevimento della comunicazione iniziano a decorrere i termini per il pagamento dell'imposta e dei relativi accessori; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le erogazioni liberali in denaro a favore di organismi di gestione di parchi e riserve naturali, terrestri e marittimi, statali e regionali, e di ogni altra zona di tutela speciale paesistico-ambientale come individuata dalla vigente disciplina, statale e regionale, nonche' gestita dalle associazioni e fondazioni private indicate alla lettera a), effettuate per sostenere attivita' di conservazione, valorizzazione, studio, ricerca e sviluppo dirette al conseguimento delle finalita' di interesse generale cui corrispondono tali ambiti protetti; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    le spese sostenute dai soggetti obbligati alla manutenzione e alla protezione degli immobili vincolati ai sensi del decreto legislativo 29 ottobre 1999, n. 490, facenti parte degli elenchi di cui all'articolo 140, comma 1 del medesimo decreto legislativo o assoggettati al vincolo della inedificabilita' in base ai piani di cui all'articolo 149 dello stesso decreto legislativo, e al decreto-legge 27 giugno 1985, n. 312, convertito, con modificazioni, dalla legge 8 agosto 1985, n. 431.
+
 7. Il Ministro dell'ambiente e la tutela del territorio e la regione, secondo le rispettive attribuzioni e competenze, vigilano sull'impiego delle erogazioni di cui alle lettere a), b) e c) del comma 6 del presente articolo effettuate a favore di soggetti privati, affinche' siano perseguiti gli scopi per i quali le erogazioni stesse sono state accettate dai beneficiari e siano rispettati i termini per l'utilizzazione concordati con gli autori delle erogazioni. Detti termini possono essere prorogati una sola volta dall'autorita' di vigilanza, per motivi non imputabili ai beneficiari.))
 
 ((172))
@@ -4459,6 +7833,24 @@ L'opzione di cui al comma 1 deve essere esercitata relativamente a tutte le navi
 ((1-bis. L'opzione non puo' essere esercitata e se esercitata viene meno con effetto dal periodo d'imposta in corso per le imprese che si trovano in stato di liquidazione o di scioglimento e per le imprese in difficolta' come definite dall'articolo 2, punto 18, del regolamento (UE) n. 651/2014 della Commissione, del 17 giugno 2014.))
 
 ((235))
+
+2.
+                        
+                            
+                                L'opzione consente la determinazione dell'imponibile secondo i criteri di cui all'articolo 156 delle navi di cui al comma 1 con un tonnellaggio superiore alle 100 tonnellate di stazza netta destinate all'attivita' di: 
+ 
+                            
+                            
+                                a)
+                                
+                                    trasporto merci; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    trasporto passeggeri;
 
 Sono altresi' incluse nell'imponibile le attivita' direttamente connesse, strumentali e complementari a quelle indicate nelle lettere precedenti svolte dal medesimo soggetto e identificate dal decreto di cui all'articolo 161 ((, a condizione che le entrate totali derivanti dalle predette attivita' non superino il 50 per cento delle entrate totali di ciascuna nave ammissibile. I trasporti terrestri immediatamente antecedenti o successivi a quello marittimo sono inclusi, nel rispetto dei limiti di cui al primo periodo, nell'imponibile a condizione che siano venduti insieme alla prestazione di trasporto marittimo. Il trasporto terrestre di container e', in ogni caso, escluso dall'imponibile)). ((235))
 
@@ -4493,7 +7885,39 @@ Sono altresi' incluse nell'imponibile le attivita' direttamente connesse, strume
 
 ## Art. 156. — Determinazione del reddito imponibile
 
+1.
+                        
+                            
+                                Il reddito imponibile, determinato in via forfetaria ed unitaria sulla base del reddito giornaliero di ciascuna nave con i requisiti predetti, e' calcolato sulla base degli importi in cifra fissa previsti per i seguenti scaglioni di tonnellaggio netto: 
+ 
+                            
+                            
+                                a)
+                                
+                                    da 0 a 1.000 tonnellate di stazza netta: 0,0090 euro per tonnellata; 
 
+                                
+                            
+                            
+                                b)
+                                
+                                    da 1.001 a 10.000 tonnellate di stazza netta: 0,0070 euro per tonnellata; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    da 10.001 a 25.000 tonnellate di stazza netta: 0,0040 euro per tonnellata; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    da 25.001 tonnellate di stazza netta: 0,0020 euro per tonnellata. (123)
+
+((2. Agli effetti del comma 1, sono computati anche i giorni di mancata utilizzazione a causa di operazioni di manutenzione, riparazione ordinaria o straordinaria, ammodernamento e trasformazione della nave e i giorni nei quali la nave e' in disarmo temporaneo o e' locata a scafo nudo))
 
 ((235))
 
@@ -4603,7 +8027,116 @@ Per tutto quanto non disciplinato nella presente sezione si applicano le disposi
 
 Fermo restando quanto previsto dall'articolo 169, ai fini delle imposte sui redditi e dell'imposta regionale sulle attivita' produttive di cui al decreto legislativo 15 dicembre 1997, n. 446, l'espressione "stabile organizzazione" designa una sede fissa di affari per mezzo della quale l'impresa non residente esercita in tutto o in parte la sua attivita' sul territorio dello Stato.
 
+2.
+                        
+                            
+                                L'espressione "stabile organizzazione" comprende in particolare: 
+ 
+                            
+                            
+                                a)
+                                
+                                    una sede di direzione; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    una succursale; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    un ufficio; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    un'officina; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    un laboratorio; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    una miniera, un giacimento petrolifero o di gas naturale, una cava o altro luogo di estrazione di risorse naturali, anche in zone situate al di fuori delle acque territoriali in cui, in conformita' al diritto internazionale consuetudinario ed alla legislazione nazionale relativa all'esplorazione ed allo sfruttamento di risorse naturali, lo Stato puo' esercitare diritti relativi al fondo del mare, al suo sottosuolo ed alle risorse naturali. 
+
+                                
+                            
+                            
+                                f-bis)
+                                
+                                    una significativa e continuativa presenza economica nel territorio dello Stato costruita in modo tale da non fare risultare una sua consistenza fisica nel territorio stesso.
+
 Un cantiere di costruzione o di montaggio o di installazione, ovvero l'esercizio di attivita' di supervisione ad esso connesse, e' considerato "stabile organizzazione" soltanto se tale cantiere, progetto o attivita' abbia una durata superiore a tre mesi.
+
+4.
+                        
+                            
+                                Fermi restando i commi da 1 a 3, la dizione "stabile organizzazione" non comprende: 
+ 
+                            
+                            
+                                a)
+                                
+                                    l'uso di una installazione ai soli fini di deposito, di esposizione o di consegna di beni o merci appartenenti all'impresa; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la disponibilita' di beni o merci appartenenti all'impresa immagazzinati ai soli fini di deposito, di esposizione o di consegna; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    la disponibilita' di beni o merci appartenenti all'impresa immagazzinati ai soli fini della trasformazione da parte di un'altra impresa; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    la disponibilita' di una sede fissa di affari utilizzata ai soli fini di acquistare beni o merci o di raccogliere informazioni per l'impresa; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    la disponibilita' di una sede fissa di affari utilizzata ai soli fini dello svolgimento, per l'impresa, di ogni altra attivita'; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    la disponibilita' di una sede fissa di affari utilizzata ai soli fini dell'esercizio combinato delle attivita' menzionate nelle lettere da a) ad e).
+
+4-bis.
+                        
+                            
+                                Le disposizioni del comma 4 si applicano a condizione che le attivita' di cui alle lettere da 
+                            
+                            
+                                a)
+                                
+                                    a e) o, nei casi di cui alla lettera f), l'attivita' complessiva della sede fissa d'affari siano di carattere preparatorio o ausiliario.
 
 Il comma 4 non si applica ad una sede fissa d'affari che sia utilizzata o gestita da un'impresa se la stessa impresa o un'impresa strettamente correlata svolge la sua attivita' nello stesso luogo o in un altro luogo nel territorio dello Stato e lo stesso luogo o l'altro luogo costituisce una stabile organizzazione per l'impresa o per l'impresa strettamente correlata in base alle previsioni del presente articolo, ovvero l'attivita' complessiva risultante dalla combinazione delle attivita' svolte dalle due imprese nello stesso luogo, o dalla stessa impresa o da imprese strettamente correlate nei due luoghi, non sia di carattere preparatorio o ausiliario, purche' le attivita' svolte dalle due imprese nello stesso luogo, o dalla stessa impresa, o dalle imprese strettamente correlate nei due luoghi, costituiscano funzioni complementari che siano parte di un complesso unitario di operazioni d'impresa.
 
@@ -4618,6 +8151,38 @@ In ogni caso, un soggetto e' considerato strettamente correlato ad un'impresa se
 
 Ai fini del comma 7, al ricorrere delle condizioni di cui al comma 7-quater, si considera indipendente dal veicolo di investimento non residente il soggetto, residente o non residente anche operante tramite propria stabile organizzazione nel territorio dello Stato, che, in nome o per conto del veicolo di investimento non residente o di sue controllate, dirette o indirette, e anche se con poteri discrezionali, abitualmente concluda contratti di acquisto, di vendita o di negoziazione, o comunque contribuisca, anche tramite operazioni preliminari o accessorie, all'acquisto, alla vendita o alla negoziazione di strumenti finanziari, anche derivati e comprese le partecipazioni al capitale o al patrimonio, e di crediti.
 
+7-quater.
+                        
+                            
+                                Le disposizioni del comma 7-ter si applicano a condizione che: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il veicolo di investimento non residente e le relative controllate siano residenti o localizzati in uno Stato o territorio compreso nell'elenco di cui all'articolo 11, comma 4, lettera c), del decreto legislativo 1° aprile 1996, n. 239; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il veicolo di investimento non residente rispetti i requisiti di indipendenza stabiliti dal decreto previsto dal comma 7-quinquies; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il soggetto residente o non residente, che svolge l'attivita' nel territorio dello Stato in nome o per conto del veicolo di investimento non residente di cui alla lettera a), non ricopra cariche negli organi di amministrazione e di controllo del veicolo di investimento e di sue controllate, dirette o indirette, e non detenga una partecipazione ai risultati economici del veicolo d'investimento non residente superiore al 25 per cento. A tal fine si considerano anche le partecipazioni agli utili spettanti a soggetti appartenenti al medesimo gruppo di tale soggetto. Il decreto previsto dal comma 7-quinquies stabilisce le modalita' di computo della partecipazione agli utili; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    il soggetto residente, o la stabile organizzazione nel territorio dello Stato del soggetto non residente, che presta servizi nell'ambito di accordi con entita' appartenenti al medesimo gruppo riceva, per l'attivita' svolta nel territorio dello Stato, una remunerazione supportata dalla documentazione idonea di cui all'articolo 1, comma 6, del decreto legislativo 18 dicembre 1997, n. 471. Con provvedimento dell'Agenzia delle entrate sono definite le linee guida per l'applicazione a tale remunerazione dell'articolo 110, comma 7.
+
 7-quinquies. Con decreto del Ministro dell'economia e delle finanze sono stabilite le disposizioni di attuazione della disciplina dei commi 7-ter e 7-quater))
 
 Nonostante quanto previsto dal comma 7, non costituisce stabile organizzazione dell'impresa il solo fatto che la stessa eserciti nel territorio dello Stato la propria attivita' per mezzo di un raccomandatario marittimo di cui alla legge 4 aprile 1977, n. 135, o di un mediatore marittimo di cui alla legge 12 marzo 1968, n. 478, che abbia i poteri per la gestione commerciale o operativa delle navi dell'impresa, anche in via continuativa.
@@ -4631,6 +8196,37 @@ Il fatto che un'impresa non residente con o senza stabile organizzazione nel ter
 ((
 
 .
+
+1.
+                        
+                            
+                                Ai fini delle imposte sui redditi e dell'imposta regionale sulle attivita' produttive di cui al decreto legislativo 15 dicembre 1997, n. 446, si definiscono: 
+ 
+                            
+                            
+                                a)
+                                
+                                    intermediari finanziari: 
+ 1) i soggetti indicati nell'articolo 2, comma 1, lettera c), del decreto legislativo 28 febbraio 2005, n. 38, e i soggetti con stabile organizzazione nel territorio dello Stato aventi le medesime caratteristiche; 
+ 2) i confidi iscritti nell'elenco di cui all'articolo 112-bis del decreto legislativo 1° settembre 1993, n. 385; 
+ 3) gli operatori del microcredito iscritti nell'elenco di cui all'articolo 111 del decreto legislativo 1° settembre 1993, n. 385; 
+ 4) i soggetti che esercitano in via esclusiva o prevalente l'attivita' di assunzione di partecipazioni in intermediari finanziari, diversi da quelli di cui al numero 1); 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    societa' di partecipazione finanziaria: i soggetti che esercitano in via esclusiva o prevalente l'attivita' di assunzione di partecipazioni in intermediari finanziari; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    societa' di partecipazione non finanziaria e assimilati: 
+ 1) i soggetti che esercitano in via esclusiva o prevalente l'attivita' di assunzione di partecipazioni in soggetti diversi dagli intermediari finanziari; 
+ 2) i soggetti che svolgono attivita' non nei confronti del pubblico di cui al comma 2 dell'articolo 3 del regolamento emanato in materia di intermediari finanziari in attuazione degli articoli 106, comma 3, 112, comma 3 e 114 del decreto legislativo 1° settembre 1993, n. 385, nonche' dell'articolo 7-ter, comma 1-bis, della legge 30 aprile 1999, n. 130.
 
 Ai fini del comma 1, l'esercizio in via prevalente di attivita' di assunzione di partecipazioni in intermediari finanziari sussiste, quando, in base ai dati del bilancio approvato relativo all'ultimo esercizio chiuso, l'ammontare complessivo delle partecipazioni in detti intermediari finanziari e altri elementi patrimoniali intercorrenti con gli stessi, unitariamente considerati, inclusi gli impegni ad erogare fondi e le garanzie rilasciate, sia superiore al 50 per cento del totale dell'attivo patrimoniale, inclusi gli impegni ad erogare fondi e le garanzie rilasciate.
 
@@ -4652,6 +8248,33 @@ La stessa imposta non puo' essere applicata piu' volte in dipendenza dello stess
 ))
 
 ## Art. 164. — Limiti di deduzione delle spese e degli altri componenti negativi relativi a taluni mezzi di trasporto a motore, utilizzati nell'esercizio di imprese, arti e professioni
+
+1.
+                        
+                            
+                                Le spese e gli altri componenti negativi relativi ai mezzi di trasporto a motore indicati nel presente articolo, utilizzati nell'esercizio di imprese, arti e professioni, ai fini della determinazione dei relativi redditi sono deducibili solo se rientranti in una delle fattispecie previste nelle successive lettere a), b) e b-bis): 
+ 
+                            
+                            
+                                a)
+                                
+                                    per l'intero ammontare relativamente: 
+ 1) agli aeromobili da turismo, alle navi e imbarcazioni da diporto, alle autovetture ed autocaravan, di cui alle lettere a) e m) del comma 1 dell'articolo 54 del decreto legislativo 30 aprile 1992, n. 285, ai ciclomotori e motocicli destinati ad essere utilizzati esclusivamente come beni strumentali nell'attivita' propria dell'impresa; 
+ 2) ai veicoli adibiti ad uso pubblico; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    nella misura del 20 per cento relativamente alle autovetture e autocaravan, di cui alle citate lettere dell'articolo 54 del citato decreto legislativo n. 285 del 1992, ai ciclomotori e motocicli il cui utilizzo e' diverso da quello indicato alla lettera a), numero 1). Tale percentuale e' elevata all'80 per cento per i veicoli utilizzati dai soggetti esercenti attivita' di agenzia o di rappresentanza di commercio. Nel caso di esercizio di arti e professioni in forma individuale, la deducibilita' e' ammessa, nella misura del 20 per cento, limitatamente ad un solo veicolo; se l'attivita' e' svolta da societa' semplici e da associazioni di cui all'articolo 5, la deducibilita' e' consentita soltanto per un veicolo per ogni socio o associato. Non si tiene conto: della parte del costo di acquisizione che eccede lire 35 milioni per le autovetture e gli autocaravan, lire 8 milioni per i motocicli, lire 4 milioni per i ciclomotori; dell'ammontare dei canoni proporzionalmente corrispondente al costo di detti veicoli che eccede i limiti indicati, se i beni medesimi sono utilizzati in locazione finanziaria; dell'ammontare dei costi di locazione e di noleggio che eccede lire 7 milioni per le autovetture e gli autocaravan, lire 1,5 milioni per i motocicli, lire ottocentomila per i ciclomotori. Nel caso di esercizio delle predette attivita' svolte da societa' semplici e associazioni di cui al citato articolo 5, i suddetti limiti sono riferiti a ciascun socio o associato. I limiti predetti, che con riferimento al valore dei contratti di locazione anche finanziaria o di noleggio vanno ragguagliati ad anno, possono essere variati, tenendo anche conto delle variazioni dell'indice dei prezzi al consumo per le famiglie di operai e di impiegati verificatesi nell'anno precedente, con decreto del Ministro delle finanze, di concerto con il Ministro dell'industria, del commercio e dell'artigianato. I predetti limiti di 35 milioni di lire e di 7 milioni di lire sono elevati rispettivamente a euro 25.822,84 e a euro 5.164,57 per gli autoveicoli utilizzati da agenti o rappresentanti di commercio. (130) (153) 
+
+                                
+                            
+                            
+                                b-bis)
+                                
+                                    nella misura del 70 per cento per i veicoli dati in uso promiscuo ai dipendenti per la maggior parte del periodo d'imposta. (130) (153)
 
 Le spese per carburante per autotrazione sono deducibili nella misura di cui al comma 1 se effettuate esclusivamente mediante carte di credito, carte di debito o carte prepagate emesse da operatori finanziari soggetti all'obbligo di comunicazione previsto dall'articolo 7, sesto comma, del decreto del Presidente della Repubblica 29 settembre 1973, n. 605. (189) ((190))
 
@@ -4720,7 +8343,85 @@ medesimo.
 
 .
 
+1.
+                        
+                            
+                                Le disposizioni del presente articolo si applicano ai soggetti che esercitano imprese commerciali qualora si verifichi una delle seguenti ipotesi: 
+ 
+                            
+                            
+                                a)
+                                
+                                    sono fiscalmente residenti nel territorio dello Stato e trasferiscono all'estero la propria residenza fiscale; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    sono fiscalmente residenti nel territorio dello Stato e trasferiscono attivi ad una loro stabile organizzazione situata all'estero con riferimento alla quale si applica l'esenzione degli utili e delle perdite di cui all'articolo 168-ter; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    sono fiscalmente residenti all'estero, possiedono una stabile organizzazione situata nel territorio dello Stato e trasferiscono l'intera stabile organizzazione alla sede centrale o ad altra stabile organizzazione situata all'estero; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    sono fiscalmente residenti all'estero, possiedono una stabile organizzazione situata nel territorio dello Stato e trasferiscono attivi facenti parte del patrimonio di tale stabile organizzazione alla sede centrale o ad altra stabile organizzazione situata all'estero; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    sono fiscalmente residenti nel territorio dello Stato e sono stati oggetto di incorporazione da parte di una societa' fiscalmente non residente oppure hanno effettuato una scissione a favore di una o piu' beneficiarie non residenti oppure hanno effettuato il conferimento di una stabile organizzazione o di un ramo di essa situati all'estero a favore di un soggetto fiscalmente residente all'estero.
+
 Ai fini delle lettere b) e d) del comma 1, il trasferimento di attivi a una stabile organizzazione o da una stabile organizzazione si intende effettuato quando, in applicazione dei criteri definiti dall'OCSE, considerando la stabile organizzazione un'entita' separata e indipendente, che svolge le medesime o analoghe attivita', in condizioni identiche o similari, e tenendo conto delle funzioni svolte, dei rischi assunti e dei beni utilizzati, tali attivita' si considerano rispettivamente entrate nel patrimonio o uscite dal patrimonio di tale stabile organizzazione.
+
+3.
+                        
+                            
+                                Nelle ipotesi di cui al comma 1 sono imponibili i seguenti redditi: 
+ 
+                            
+                            
+                                a)
+                                
+                                    nel caso di cui alla lettera a) del comma 1 la plusvalenza, unitariamente determinata, pari alla differenza tra il valore di mercato complessivo e il corrispondente costo fiscalmente riconosciuto delle attivita' e passivita' del soggetto che trasferisce la residenza fiscale che non sono confluite nel patrimonio di una stabile organizzazione di tale soggetto situata nel territorio dello Stato; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    nel caso di cui alla lettera b) del comma 1 la differenza tra il valore di mercato e il corrispondente costo fiscalmente riconosciuto degli attivi trasferiti alla stabile organizzazione situata all'estero; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    nel caso di cui alla lettera c) del comma 1 la plusvalenza, unitariamente determinata, pari alla differenza tra il valore di mercato e il corrispondente costo fiscalmente riconosciuto delle attivita' e passivita' facenti parte del patrimonio della stabile organizzazione trasferita alla sede centrale o alla stabile organizzazione situata all'estero; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    nel caso di cui alla lettera d) del comma 1 la differenza tra il valore di mercato e il corrispondente costo fiscalmente riconosciuto degli attivi trasferiti alla sede centrale o alla stabile organizzazione situata all'estero; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    nel caso di cui alla lettera e) del comma 1 la plusvalenza, unitariamente determinata, pari alla differenza tra il valore di mercato complessivo e il corrispondente costo fiscalmente riconosciuto delle attivita' e passivita' che prima del perfezionamento dell'operazione facevano parte del patrimonio di un soggetto fiscalmente residente nel territorio dello Stato e che, successivamente a tale perfezionamento, non confluiscono nel patrimonio di una stabile organizzazione di un soggetto non residente situata nel territorio dello Stato.
 
 Il valore di mercato di cui al comma 3 e' determinato con riferimento alle condizioni e ai prezzi che sarebbero stati pattuiti tra soggetti indipendenti operanti in condizioni di libera concorrenza e in circostanze comparabili tenendo conto, qualora si tratti di valore riferibile a un complesso aziendale o a un ramo di azienda, del valore dell'avviamento, calcolato tenendo conto delle funzioni e dei rischi trasferiti. Ai fini della determinazione del valore di mercato si tiene conto delle indicazioni contenute nel decreto del Ministro dell'economia e delle finanze emanato ai sensi del comma 7 dell'articolo 110.
 
@@ -4729,11 +8430,163 @@ Nei casi di cui al comma 1, lettere a) ed e), sono altresi' assoggettate alle im
 Nel caso di cui al comma 1, lettera a), qualora, successivamente al trasferimento di residenza, non rimanga nel territorio dello Stato una stabile organizzazione, le perdite realizzate fino al termine dell'ultimo periodo d'imposta di residenza sono in primo luogo compensate, senza applicazione del limite di cui all'articolo 84, comma 1, con il reddito di tale periodo d'imposta e, per la parte eventualmente eccedente, sono computate in diminuzione della plusvalenza di cui al comma 3, lettera a), senza applicazione del limite di cui al comma 1 dell'articolo 84. Nel caso di cui al comma 1, lettera a), qualora, successivamente al trasferimento di residenza, rimanga nel territorio dello Stato una stabile organizzazione, le perdite realizzate fino al termine dell'ultimo periodo d'imposta di residenza sono in primo luogo compensate, con applicazione del limite di cui all'articolo 84, comma 1, con il reddito di tale periodo d'imposta e, per la parte eventualmente eccedente, al netto della quota, determinata ai sensi dell'articolo 181 senza applicazione delle condizioni e del limite di cui all'articolo 172, riferibile alla stabile organizzazione, sono computate in diminuzione della plusvalenza di cui al comma 3, lettera a), senza applicazione del limite di cui all'articolo 84, comma 1.
 Nel caso di cui al comma 1, lettera c), le perdite realizzate fino al termine dell'ultimo periodo d'imposta di esistenza in Italia della stabile organizzazione sono in primo luogo compensate, senza applicazione del limite di cui all'articolo 84, comma 1, con il reddito di tale periodo d'imposta e, per la parte eventualmente eccedente, sono computate in diminuzione della plusvalenza di cui al comma 3, lettera c), senza applicazione del limite di cui all'articolo 84, comma 1. Qualora sia trasferito un ramo della stabile organizzazione le perdite realizzate fino al termine del periodo d'imposta precedente quello in cui si verifica il trasferimento sono in primo luogo compensate, con applicazione del limite di cui all'articolo 84, comma 1, con il reddito realizzato dalla stabile organizzazione nel periodo d'imposta in cui si verifica il trasferimento e, per la parte eventualmente eccedente, al netto della quota, determinata ai sensi dell'articolo 181 senza applicazione delle condizioni e del limite di cui all'articolo 172, riferibile alla stabile organizzazione, sono computate in diminuzione della plusvalenza di cui alla lettera c) del comma 3, senza applicazione del limite di cui all'articolo 84, comma 1. Nel caso di cui al comma 1, lettera e), qualora sia realizzata una delle operazioni di cui al comma 1, lettere a), b) e b-bis), dell'articolo 178 e, successivamente al perfezionamento dell'operazione, non rimanga nel territorio dello Stato una stabile organizzazione, le perdite realizzate fino al termine dell'ultimo periodo d'imposta prima del perfezionamento dell'operazione sono in primo luogo compensate, senza applicazione del limite di cui all'articolo 84, comma 1, con il reddito di tale periodo d'imposta e, per la parte eventualmente eccedente, sono computate in diminuzione della plusvalenza di cui, al comma 3, lettera e), senza applicazione del limite di cui all'articolo 84, comma 1. Nel caso di cui al comma 1, lettera e), qualora sia realizzata una delle operazioni di cui al comma 1, lettere a), b) e b-bis) dell'articolo 178 e, successivamente al perfezionamento dell'operazione, rimanga nel territorio dello Stato una stabile organizzazione, le perdite realizzate fino al termine dell'ultimo periodo d'imposta prima del perfezionamento dell'operazione sono in primo luogo compensate, con applicazione del limite di cui all'articolo 84, comma 1, con il reddito di tale periodo d'imposta e, per la parte eventualmente eccedente, al netto della quota, determinata ai sensi dell'articolo 181, riferibile alla stabile organizzazione, sono computate in diminuzione della plusvalenza di cui al comma 3, lettera e), senza applicazione del limite di cui all'articolo 84, comma 1.
 
+7.
+                        
+                            
+                                I redditi di cui al comma 3 sono determinati in via definitiva: 
+ 
+                            
+                            
+                                a)
+                                
+                                    nel caso di cui alla lettera a), alla fine dell'ultimo periodo d'imposta di residenza fiscale in Italia; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    nel caso di cui alla lettera b), nel momento in cui si considera effettuato il trasferimento alla stabile organizzazione situata all'estero; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    nel caso di cui alla lettera c), nel momento in cui si considera effettuato il trasferimento dell'intera stabile organizzazione; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    nel caso di cui alla lettera d), nel momento in cui si considera effettuato il trasferimento alla sede centrale o alla stabile organizzazione situata all'estero; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    nel caso di cui alla lettera e), nel momento in cui ha effetto l'operazione.
+
 Ai fini del comma 7, non si tiene conto delle minusvalenze o delle plusvalenze realizzate successivamente al momento in cui sono determinati in via definitiva i redditi ivi indicati.
+
+9.
+                        
+                            
+                                L'imposta determinata sui redditi di cui al comma 3, diminuiti delle perdite di cui al comma 6, previa opzione e subordinatamente alla prestazione di eventuali garanzie, puo' essere versata in cinque rate annuali di pari importo se: 
+ 
+                            
+                            
+                                a)
+                                
+                                    nel caso di cui comma 1, lettera a), la residenza fiscale e' trasferita in uno Stato appartenente all'Unione europea oppure in uno Stato aderente all'Accordo sullo Spazio Economico Europeo incluso nella lista, prevista dall'articolo 11, comma 4, lettera c), del decreto legislativo 1° aprile 1996, n. 239, degli Stati che consentono un adeguato scambio di informazioni e con il quale l'Italia ha stipulato un accordo sulla reciproca assistenza in materia di riscossione dei crediti tributari comparabile a quella assicurata dalla direttiva 2010/24/UE; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    nel caso di cui al comma 1, lettera b), gli attivi sono trasferiti a una stabile organizzazione situata in uno Stato di cui alla lettera a); 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    nel caso di cui al comma 1, lettera c), la stabile organizzazione e' trasferita in uno Stato di cui alla lettera a); 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    nel caso di cui al comma 1, lettera d), gli attivi sono trasferiti alla sede centrale o a una stabile organizzazione situate in uno Stato di cui alla lettera a); 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    nel caso di cui al comma 1, lettera e), se la societa' incorporante, la societa' beneficiaria o la societa' conferitaria della stabile organizzazione sia fiscalmente residente in uno Stato di cui alla lettera a).
 
 L'opzione di cui al comma 9 riguarda necessariamente l'intera imposta sui redditi di cui al comma 3, unitariamente determinata.
 
 Nel caso si opti per la rateizzazione ai sensi del comma 9, sulle rate successive alla prima sono dovuti gli interessi nella misura prevista dall'articolo 20 del decreto legislativo 9 luglio 1997, n. 241.
+
+12.
+                        
+                            
+                                Costituiscono ipotesi di decadenza dalla rateizzazione, e pertanto, comportano il versamento dell'imposta residua entro il termine previsto per il successivo versamento: 
+ 
+                            
+                            
+                                a)
+                                
+                                    nel caso di cui al comma 9, lettera a), il successivo trasferimento della residenza fiscale in uno Stato diverso da quelli previsti da tale lettera; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    nel caso di cui al comma 9, lettera b), il successivo trasferimento degli attivi a una stabile organizzazione situata in uno Stato diverso da quelli previsti dalla lettera a) del citato comma 9; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    nel caso di cui al comma 9, lettera c), il successivo trasferimento della stabile organizzazione in uno Stato diverso da quelli previsti dalla lettera a) del citato comma 9; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    nel caso di cui al comma 9, lettera d), il successivo trasferimento della sede centrale in uno Stato diverso da quelli previsti dalla lettera a) del citato comma 9 o il successivo trasferimento degli attivi a una stabile organizzazione situata in uno Stato diverso da quelli previsti dalla medesima lettera a); 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    nel caso di cui al comma 9, lettera e), il successivo trasferimento della residenza fiscale della societa' incorporante, della societa' beneficiaria o della societa' conferitaria della stabile organizzazione in uno Stato diverso da quelli previsti dalla lettera a) di tale comma; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    la fusione, la scissione o il conferimento di azienda che comportano il trasferimento ad un soggetto residente in uno Stato diverso da quelli previsti dal comma 9, lettera a), delle attivita' e passivita' il cui valore di mercato ha concorso a formare la plusvalenza di cui al comma 3; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    la cessione a terzi degli attivi il cui valore di mercato ha concorso a formare la plusvalenza di cui al comma 3, incluse le operazioni assimilate alla cessione ai sensi dell'articolo 9, il realizzo di tali attivi ai sensi dell'articolo 86, comma 1, lettera b), o il loro assoggettamento a una delle operazioni di cui al comma 1, lettera c); 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    la dichiarazione di fallimento o l'estinzione del soggetto che ha optato per la rateizzazione; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    il mancato versamento di una rata che non sia regolarizzato entro 5 mesi dalla data di scadenza; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    la cessione delle quote da parte dei soci delle societa' di cui all'articolo 5.
 
 Per le imprese individuali e le societa' di persone si applica l'articolo 17, comma 1, lettere g) e l).
 
@@ -4773,7 +8626,85 @@ medesimo.
 
 .
 
+1.
+                        
+                            
+                                Le disposizioni del presente articolo si applicano alle seguenti ipotesi: 
+ 
+                            
+                            
+                                a)
+                                
+                                    un soggetto che esercita un'impresa commerciale trasferisce nel territorio dello Stato la propria residenza fiscale; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    un soggetto fiscalmente residente all'estero trasferisce attivi a una propria stabile organizzazione situata nel territorio dello Stato; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    un soggetto fiscalmente residente all'estero trasferisce nel territorio dello Stato un complesso aziendale; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    un soggetto fiscalmente residente nel territorio dello Stato che possiede una stabile organizzazione situata all'estero con riferimento alla quale si applica l'esenzione degli utili e delle perdite di cui all'articolo 168-ter trasferisce alla sede centrale attivi facenti parte del patrimonio di tale stabile organizzazione; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    un soggetto fiscalmente residente all'estero che esercita un'impresa commerciale e' oggetto di incorporazione da parte di un soggetto fiscalmente residente nel territorio dello Stato, effettua una scissione a favore di uno o piu' beneficiari residenti nel territorio dello Stato oppure effettua il conferimento di una stabile organizzazione situata al di fuori del territorio dello Stato a favore di un soggetto fiscalmente residente nel territorio dello Stato.
+
 Ai fini del comma 1, lettere b) e d), il trasferimento di attivi a una stabile organizzazione o da una stabile organizzazione si intende effettuato quando, in applicazione dei criteri definiti dall'OCSE, considerando la stabile organizzazione un'entita' separata e indipendente, che svolge le medesime o analoghe attivita', in condizioni identiche o similari, e tenendo conto delle funzioni svolte, dei rischi assunti e dei beni utilizzati, tali attivi si considerano rispettivamente entrati nel patrimonio o usciti dal patrimonio di tale stabile organizzazione.
+
+3.
+                        
+                            
+                                Nelle ipotesi di cui al comma 1, le attivita' e le passivita' facenti parte del patrimonio del soggetto che ha trasferito la propria residenza fiscale nel territorio dello Stato, quelle facenti parte del patrimonio del soggetto incorporato, di quello del soggetto scisso o della stabile organizzazione oggetto di conferimento, gli attivi trasferiti alla stabile organizzazione situata nel territorio dello Stato del soggetto non residente e quelli trasferiti dalla stabile organizzazione situata all'estero alla sede centrale situata in Italia, assumono quale valore fiscale il loro valore di mercato se: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il soggetto di cui al comma 1, lettera a), prima del trasferimento di residenza aveva la propria residenza fiscale in uno Stato appartenente all'Unione europea oppure in uno Stato incluso nella lista, prevista dall'articolo 11, comma 4, lettera c), del decreto legislativo 1° aprile 1996, n. 239, degli Stati che consentono un adeguato scambio di informazioni; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il soggetto di cui al comma 1, lettera b), ha la propria residenza fiscale in uno Stato di cui alla lettera a); 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il soggetto di cui al comma 1, lettera c), ha la propria residenza fiscale in uno Stato di cui alla lettera a); 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    lo Stato sul cui territorio si trova la stabile organizzazione di cui alla lettera d) del comma 1 e' uno di quelli previsti dalla lettera a); 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    il soggetto di cui al comma 1, lettera e), ha la propria residenza fiscale in uno Stato di cui alla lettera a).
 
 Il valore di mercato di cui al comma 3 e' determinato con riferimento alle condizioni e ai prezzi che sarebbero stati pattuiti tra soggetti indipendenti operanti in condizioni di libera concorrenza e in circostanze comparabili tenendo conto, qualora si tratti di valore riferibile a un complesso aziendale o a un ramo di azienda, del valore dell'avviamento, calcolato tenendo conto delle funzioni e dei rischi trasferiti. Ai fini della determinazione del valore di mercato si tiene conto delle indicazioni contenute nel decreto del Ministro dell'economia e delle finanze emanato ai sensi dell'articolo 110, comma 7.
 
@@ -4795,6 +8726,68 @@ Nelle ipotesi di cui al comma 1, se non sono rispettate le condizioni di cui al 
 ## Art. 167. — (Disposizioni in materia di imprese estere controllate)
 
 Le disposizioni del presente articolo si applicano alle persone fisiche e ai soggetti di cui agli articoli 5 e 73, comma 1, lettere a), b) e c), nonche', relativamente alle loro stabili organizzazioni italiane, ai soggetti di cui all'articolo 73, comma 1, lettera d), che controllano soggetti non residenti, come definiti ai commi 2 e 3.
+
+2.
+                        
+                            
+                                Ai fini del presente articolo si considerano soggetti controllati non residenti le imprese, le societa' e gli enti non residenti nel territorio dello Stato, per i quali si verifica almeno una delle seguenti condizioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    sono controllati direttamente o indirettamente, anche tramite societa' fiduciaria o interposta persona, ai sensi dell'articolo 2359 del codice civile, da parte di un soggetto di cui al comma 1; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    oltre il 50 per cento della partecipazione ai loro utili e' detenuto, direttamente o indirettamente, mediante una o piu' societa' controllate ai sensi dell'articolo 2359 del codice civile o tramite societa' fiduciaria o interposta persona, da un soggetto di cui al comma 1.
+
+3.
+                        
+                            
+                                Ai fini del presente articolo, si considerano altresi' soggetti controllati non residenti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    le stabili organizzazioni all'estero dei soggetti di cui al comma 2; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le stabili organizzazioni all'estero di soggetti residenti che abbiano optato per il regime di cui all'articolo 168-ter.
+
+4.
+                        
+                            
+                                La disciplina del presente articolo si applica se i soggetti controllati non residenti integrano congiuntamente le seguenti condizioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    sono assoggettati a tassazione effettiva inferiore al 15 per cento. La tassazione effettiva dei soggetti controllati non residenti e' pari al rapporto tra la somma delle imposte correnti dovute e delle imposte anticipate e differite iscritte nel proprio bilancio d'esercizio e l'utile ante imposte dell'esercizio risultante dal predetto bilancio. A tal fine, il bilancio d'esercizio dei soggetti controllati non residenti deve essere oggetto di revisione e certificazione da parte di operatori professionali a cio' autorizzati nello Stato estero di localizzazione dei soggetti controllati non residenti, i cui esiti sono utilizzati dal revisore del soggetto controllante ai fini del giudizio sul bilancio annuale o consolidato.
+Se la condizione di cui al periodo precedente non e' verificata o la tassazione effettiva e' inferiore al 15 per cento, i soggetti controllanti devono verificare che i soggetti controllati non residenti sono assoggettati ad una tassazione effettiva inferiore alla meta' di quella a cui sarebbero stati soggetti qualora residenti in Italia, determinata secondo le modalita' stabilite con provvedimento del direttore dell'Agenzia delle entrate; (227) 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    oltre un terzo dei proventi da essi realizzati rientra in una o piu' delle seguenti categorie: 
+ 1) interessi o qualsiasi altro reddito generato da attivi finanziari; 
+ 2) canoni o qualsiasi altro reddito generato da proprieta' intellettuale; 
+ 3) dividendi e redditi derivanti dalla cessione di partecipazioni; 
+ 4) redditi da leasing finanziario; 
+ 5) redditi da attivita' assicurativa, bancaria e altre attivita' finanziarie; 
+ 6) proventi derivanti da operazioni di compravendita di beni con valore economico aggiunto scarso o nullo, effettuate con soggetti che, direttamente o indirettamente, controllano il soggetto controllato non residente, ne sono controllati o sono controllati dallo stesso soggetto che controlla il soggetto non residente; 
+ 7) proventi derivanti da prestazioni di servizi, con valore economico aggiunto scarso o nullo, effettuate a favore di soggetti che, direttamente o indirettamente, controllano il soggetto controllato non residente, ne sono controllati o sono controllati dallo stesso soggetto che controlla il soggetto non residente; ai fini dell'individuazione dei servizi con valore economico aggiunto scarso o nullo si tiene conto delle indicazioni contenute nel decreto del Ministro dell'economia e delle finanze emanato ai sensi del comma 7 dell'articolo 110.
 
 Ai fini del calcolo di cui al comma 4, lettera a), rileva anche l'imposta minima nazionale equivalente, definita nell'allegato A del decreto di recepimento della direttiva (UE) 2022/2523 del Consiglio, del 15 dicembre 2022, dovuta dal soggetto controllato non residente. Ai fini del precedente periodo, l'imposta minima nazionale equivalente dovuta nel Paese di localizzazione del soggetto controllato non residente, individuato ai sensi dell'articolo 12 del decreto di recepimento della direttiva (UE) 2022/2523 del Consiglio, del 15 dicembre 2022, rileva in base al criterio di allocazione adottato dalla legislazione del Paese di localizzazione della controllata estera o, in assenza di tale criterio, in base al rapporto tra il reddito rilevante relativo al soggetto controllato non residente e la somma di ((tutti i redditi)) rilevanti relativi alle imprese ed entita' del gruppo soggette all'imposta minima nazionale equivalente calcolata in maniera unitaria con il soggetto controllato non residente. (227) ((238))
 
@@ -4927,6 +8920,24 @@ In caso di trasformazione di una societa' soggetta all'imposta di cui al Titolo 
 
 Nel caso di trasformazione di una societa' non soggetta all'imposta di cui al Titolo II in societa' soggetta a tale imposta le riserve costituite prima della trasformazione con utili imputati ai soci a norma dell'articolo 5, se dopo la trasformazione siano state iscritte in bilancio con indicazione della loro origine, non concorrono a formare il reddito dei soci in caso di distribuzione e l'imputazione di esse a capitale non comporta l'applicazione del comma 6 dell'articolo 47.
 
+4.
+                        
+                            
+                                Nel caso di trasformazione di una societa' soggetta all'imposta di cui al titolo II in societa' non soggetta a tale imposta le riserve costituite prima della trasformazione, escluse quelle di cui al comma 5 dell'articolo 47, sono imputate ai soci, a norma dell'articolo 5: 
+ 
+                            
+                            
+                                a)
+                                
+                                    nel periodo di imposta in cui vengono distribuite o utilizzate per scopi diversi dalla copertura di perdite d'esercizio, se dopo la trasformazione siano iscritte in bilancio con indicazione della loro origine; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    nel periodo di imposta successivo alla trasformazione, se non siano iscritte in bilancio o vi siano iscritte senza la detta indicazione.
+
 Le riserve di cui al comma 4 sono assoggettate ad imposta secondo il regime applicabile alla distribuzione delle riserve delle societa' di cui all'articolo 73.
 
 ))
@@ -4934,6 +8945,24 @@ Le riserve di cui al comma 4 sono assoggettate ad imposta secondo il regime appl
 ## Art. 171. — ((Trasformazione eterogenea ))
 
 ((
+
+1.
+                        
+                            
+                                In caso di trasformazione, effettuata ai sensi dell'articolo 2500-septies del codice civile, di una societa' soggetta all'imposta di cui al Titolo II in ente non commerciale, i beni della societa' si considerano realizzati in base al valore normale, salvo che non siano confluiti nell'azienda o complesso aziendale dell'ente stesso. Le riserve costituite prima della trasformazione, escluse quelle di cui al comma 5 dell'articolo 47, sono assoggettate a tassazione nei confronti dei soci o associati: 
+ 
+                            
+                            
+                                a)
+                                
+                                    nel periodo di imposta in cui vengono distribuite o utilizzate per scopi diversi dalla copertura di perdite d'esercizio, se dopo la trasformazione sono iscritte in bilancio con indicazione della loro origine; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    nel periodo d'imposta successivo alla trasformazione, se non iscritte in bilancio ovvero iscritte senza la detta indicazione. In caso di trasformazione in comunione di azienda si applicano le disposizioni dell'articolo 67, comma 1, lettera h). Si applicano le disposizioni del comma 5 dell'articolo 170.
 
 La trasformazione, effettuata ai sensi dell'articolo 2500-octies del codice civile, di un ente non commerciale in societa' soggetta all'imposta di cui al Titolo II si considera conferimento limitatamente ai beni diversi da quelli gia' compresi nell'azienda o complesso aziendale dell'ente stesso.
 
@@ -4952,6 +8981,24 @@ Dalla data in cui ha effetto la fusione la societa' risultante dalla fusione o i
 Le riserve in sospensione di imposta, iscritte nell'ultimo bilancio delle societa' fuse o incorporate concorrono a formare il reddito della societa' risultante dalla fusione o incorporante se e nella misura in cui non siano state ricostituite nel suo bilancio prioritariamente utilizzando l'eventuale avanzo da fusione. Questa disposizione non si applica per le riserve tassabili solo in caso di distribuzione le quali, se e nel limite in cui vi sia avanzo di fusione o aumento di capitale per un ammontare superiore al capitale complessivo delle societa' partecipanti alla fusione al netto delle quote del capitale di ciascuna di esse gia' possedute dalla stessa o da altre, concorrono a formare il reddito della societa' risultante dalla fusione o incorporante in caso di distribuzione dell'avanzo o di distribuzione del capitale ai soci; quelle che anteriormente alla fusione sono state imputate al capitale delle societa' fuse o incorporate si intendono trasferite nel capitale della societa' risultante dalla fusione o incorporante e concorrono a formarne il reddito in caso di riduzione del capitale per esuberanza.
 
 All'aumento di capitale, all'avanzo da annullamento o da concambio che eccedono la ricostituzione e l'attribuzione delle riserve di cui al comma 5 si applica il regime fiscale del capitale e delle riserve della societa' incorporata o fusa, diverse da quelle gia' attribuite o ricostituite ai sensi del comma 5 che hanno proporzionalmente concorso alla sua formazione. Si considerano non concorrenti alla formazione dell'avanzo da annullamento il capitale e le riserve di capitale fino a concorrenza del valore della partecipazione annullata. (123)
+
+7.
+                        
+                            
+                                Le perdite delle societa' che partecipano alla fusione, compresa la societa' incorporante, possono essere portate in diminuzione del reddito della societa' risultante dalla fusione o incorporante per la parte del loro ammontare che non eccede il valore economico del patrimonio netto della societa' che riporta le perdite; tale valore, determinato alla data di efficacia della fusione ai sensi dell'articolo 2504-bis del codice civile, deve risultare da una relazione giurata di stima redatta da un soggetto designato dalla societa', scelto tra quelli di cui all'articolo 2409-bis, primo comma, del codice civile e al quale si applicano le disposizioni di cui all'articolo 64 del codice di procedura civile. Ai fini del primo periodo, il valore economico del patrimonio netto ridotto di un importo pari al doppio della somma dei conferimenti e versamenti fatti negli ultimi ventiquattro mesi anteriori alla data di efficacia della fusione, ai sensi dell'articolo 2504-bis ((del codice civile)); tra i predetti versamenti non si comprendono i contributi erogati a norma di legge dallo Stato o da altri enti pubblici. In assenza della relazione giurata di stima, il riporto delle perdite e' consentito nei limiti del valore del rispettivo patrimonio netto contabile quale risulta dall'ultimo bilancio o, se inferiore, dalla situazione patrimoniale di cui all'articolo 2501-quater del codice civile, senza tener conto dei conferimenti e versamenti fatti negli ultimi ventiquattro mesi anteriori alla data cui si riferisce la situazione stessa; tra i predetti versamenti non si comprendono i contributi erogati a norma di legge dallo Stato o da altri enti pubblici. La possibilita' di riporto in diminuzione di cui ai periodi precedenti e' subordinata alle condizioni che dal conto economico della societa' che riporta le perdite relativo: ((238))
+                                
+                            
+                            
+                                a)
+                                
+                                    all'esercizio precedente a quello nel corso del quale la fusione ha efficacia ai sensi dell'articolo 2504-bis del codice civile risulti un ammontare di ricavi e proventi dell'attivita' caratteristica e un ammontare delle spese per prestazioni di lavoro subordinato e relativi contributi, di cui all'articolo 2425 del codice civile, superiore al 40 per cento di quello risultante dalla media degli ultimi due esercizi anteriori; per i soggetti che redigono il bilancio in base ai principi contabili internazionali si assumono le componenti di conto economico corrispondenti; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    all'intervallo di tempo che intercorre tra l'inizio dell'esercizio nel corso del quale la fusione ha efficacia ai sensi dell'articolo 2504-bis del codice civile e la data antecedente a quella di efficacia della fusione, redatto in osservanza dei principi contabili applicati ai fini della redazione del bilancio di esercizio, risulti un ammontare di ricavi e proventi dell'attivita' caratteristica e un ammontare delle spese per prestazioni di lavoro subordinato e relativi contributi, di cui all'articolo 2425 del codice civile, ragguagliato ad anno, superiore al 40 per cento di quello risultante dalla media degli ultimi due esercizi anteriori; per i soggetti che redigono il bilancio in base ai principi contabili internazionali si assumono le componenti di conto economico corrispondenti. (235)
 
 In caso di retrodatazione degli effetti fiscali della fusione ai sensi del comma 9, le limitazioni del comma 7 si applicano anche alla perdita, determinata secondo le regole ordinarie, che si sarebbe generata in modo autonomo in capo alla societa' incorporata in relazione al periodo che intercorre tra l'inizio del periodo d'imposta e la data antecedente a quella di efficacia della fusione ai sensi dell'articolo 2504-bis del codice civile. (235)
 
@@ -4999,6 +9046,24 @@ Il valore fiscalmente riconosciuto dei fondi di accantonamento della societa' sc
 
 Se gli effetti della scissione sono fatti retroagire a norma del comma 11, per i beni di cui agli articoli 92 e 94 le disposizioni del precedente comma 4 trovano applicazione sommando proporzionalmente le voci individuate per periodo di formazione in capo alla societa' scissa all'inizio del periodo d'imposta alle corrispondenti voci, ove esistano, all'inizio del periodo medesimo presso le societa' beneficiarie.
 
+8.
+                        
+                            
+                                In caso di scissione parziale e in caso di scissione non retroattiva in societa' preesistente i costi fiscalmente riconosciuti si assumono nella misura risultante alla data in cui ha effetto la scissione. In particolare: 
+ 
+                            
+                            
+                                a)
+                                
+                                    i beni di cui al comma 7 ricevuti da ciascuna beneficiaria si presumono, in proporzione alle quantita' rispettivamente ricevute, provenienti proporzionalmente dalle voci delle esistenze iniziali, distinte per esercizio di formazione, della societa' scissa e dalla eventuale eccedenza formatasi nel periodo d'imposta fino alla data in cui ha effetto la scissione; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le quote di ammortamento dei beni materiali e immateriali nonche' le spese di cui all'articolo 102, comma 6, relative ai beni trasferiti vanno ragguagliate alla durata del possesso dei beni medesimi da parte della societa' scissa e delle societa' beneficiarie; detto criterio e' altresi' applicabile alle spese relative a piu' esercizi e agli accantonamenti.
+
 Le riserve in sospensione d'imposta iscritte nell'ultimo bilancio della societa' scissa debbono essere ricostituite dalle beneficiarie secondo le quote proporzionali indicate al comma 4. In caso di scissione parziale, le riserve della societa' scissa si riducono in corrispondenza. Se la sospensione d'imposta dipende da eventi che riguardano specifici elementi patrimoniali della societa' scissa, le riserve debbono essere ricostituite dalle beneficiarie che acquisiscono tali elementi. Nei riguardi della beneficiaria ai fini della ricostituzione delle riserve in sospensione d'imposta e delle altre riserve si applicano, per le rispettive quote, le disposizioni dettate per le fusioni dai commi 5 e 6 dell'articolo 172 per la societa' incorporante o risultante dalla fusione.
 
 Alle perdite fiscali , agli interessi indeducibili oggetto di riporto in avanti di cui al comma 5 dell'articolo 96 del presente testo unico, nonche' all'eccedenza relativa all'aiuto alla crescita economica di cui all'articolo 1, comma 4, del decreto-legge 6 dicembre 2011, n. 201, convertito, con modificazioni, dalla legge 22 dicembre 2011, n. 214, delle societa' che partecipano alla scissione si applicano le disposizioni dei commi 7, 7-bis, e 7-ter dell'articolo 172, riferendosi alla societa' scissa le disposizioni riguardanti le societa' fuse o incorporate e alle beneficiarie quelle riguardanti la societa' risultante dalla fusione o incorporante ed avendo riguardo all'ammontare del patrimonio netto quale risulta dall'ultimo bilancio o, se inferiore, dal progetto di scissione di cui all'articolo 2506-bis del codice civile, ovvero dalla situazione patrimoniale di cui all'articolo 2506-ter del codice civile. (192) (235)
@@ -5014,6 +9079,73 @@ Ai fini dei suddetti procedimenti la societa' scissa o quella designata debbono 
 Nei confronti della societa' soggetta all'imposta sulle societa' beneficiaria della scissione di una societa' non soggetta a tale imposta e nei confronti della societa' del secondo tipo beneficiaria della scissione di una societa' del primo tipo si applicano anche, in quanto compatibili, i commi 3, 4 e 5 dell'articolo 170, considerando a tal fine la societa' scissa come trasformata per la quota di patrimonio netto trasferita alla beneficiaria. (123)
 
 Il regime dell'imposta sostitutiva di cui al comma 2-ter dell'articolo 176 puo' essere applicato, con le modalita', le condizioni e i termini ivi stabiliti, anche dalla societa' beneficiaria dell'operazione di scissione per ottenere il riconoscimento fiscale dei maggiori valori iscritti in bilancio a seguito di tali operazioni. (133)
+
+15-ter.
+                        
+                            
+                                Alla scissione di cui all'articolo 2506.1 del codice civile ((, qualora lo scorporo sia in favore di una societa' beneficiaria di nuova costituzione,)) si applicano le disposizioni del presente articolo, con esclusione dei commi 3, 7, 9 e 10, come di seguito integrate: ((241))
+                                
+                            
+                            
+                                a)
+                                
+                                    la societa' scissa assume, quale valore delle partecipazioni ricevute, un importo pari alla differenza tra il valore fiscalmente riconosciuto delle attivita' e quello delle passivita' oggetto di scorporo, anche se non configurano un'azienda, rilevato alla data di efficacia della scissione ai sensi dell'articolo 2506-quater del codice civile; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le attivita' e passivita' oggetto di scorporo, compreso l'avviamento se lo scorporo ha a oggetto un'azienda, assumono in capo alle societa' beneficiarie il valore fiscalmente riconosciuto che esse avevano in capo alla societa' scissa alla data di efficacia della scissione ai sensi dell'articolo 2506-quater del codice civile; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    le attivita' e passivita' oggetto di scorporo si considerano possedute dalle societa' beneficiarie anche per il periodo di possesso della societa' scissa; ai fini del computo del periodo di possesso delle partecipazioni ricevute dalla societa' scissa si tiene conto anche del periodo di possesso dell'azienda oggetto di scorporo; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    se lo scorporo ha ad oggetto: 
+ 1) un'azienda, le partecipazioni ricevute dalla societa' scissa si considerano iscritte come immobilizzazioni finanziarie nel bilancio in cui risultavano iscritte le attivita' e passivita' dell'azienda; 
+ 2) partecipazioni aventi i requisiti per l'esenzione di cui all'articolo 87, senza considerare quello di cui al comma 1, lettera a), del medesimo articolo 87, le partecipazioni ricevute in cambio dalla scissa si considerano iscritte tra le immobilizzazioni finanziarie e conservano il periodo di possesso delle partecipazioni oggetto di scorporo; 
+ 3) beni, attivita' o passivita' che non costituiscono aziende o partecipazioni prive dei requisiti di cui all'articolo 87, comma 1, lettere c) e d), le partecipazioni ricevute dalla societa' scissa sono ammesse al regime di esenzione di cui all'articolo 87 se e quando maturano i relativi requisiti; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    ai fini dell'applicazione del comma 4, il valore netto contabile delle attivita' e passivita' oggetto di scorporo deve essere rapportato al patrimonio netto contabile della societa' scissa quale risultante alla data di efficacia della scissione ai sensi dell'articolo 2506-quater del codice civile; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    a seguito della scissione: 
+ 1) le riserve iscritte nel bilancio dell'ultimo esercizio della societa' scissa chiuso prima della data di efficacia della scissione ai sensi dell'articolo 2506-quater del codice civile mantengono il loro regime fiscale; 
+ 2) al patrimonio netto delle societa' beneficiarie, rilevato al momento della loro costituzione, si applica il regime fiscale del capitale e delle riserve di cui all'articolo 47, comma 5; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    
+                                        ((LETTERA ABROGATA DAL D.LGS. 18 DICEMBRE 2025, N. 192)). ((241)) 
+ 
+ 15-ter.1. ((In caso di scissione mediante scorporo di una societa' in una societa' beneficiaria preesistente si applicano le disposizioni del presente articolo, con esclusione dei commi 3, 7 e 9. Tuttavia, se lo scorporo ha a oggetto beni, attivita' o passivita' che non costituiscono aziende o partecipazioni prive dei requisiti di cui all'articolo 87, comma 1, lettere c) e d), le partecipazioni ricevute dalla societa' scissa sono ammesse al regime di esenzione se e quando maturano i relativi requisiti sempre che il possesso delle stesse partecipazioni sussista almeno dall'inizio del terzo periodo d'imposta anteriore al successivo realizzo.))
+                                        ((241)) 
+ 
+ 15-ter.2. ((Nel caso in cui la societa' scissa sia residente in uno Stato appartenente all'Unione europea ovvero aderente allo Spazio economico europeo con il quale l'Italia abbia stipulato un accordo che assicuri un effettivo scambio di informazioni e lo scorporo abbia a oggetto la propria stabile organizzazione nel territorio dello Stato, o un ramo aziendale di essa, assegnata a una societa' residente, qualora le partecipazioni assegnate alla scissa: 
+ a) siano mantenute nel patrimonio della stabile organizzazione della medesima societa' scissa, si applicano le disposizioni di cui ai commi 15-ter o 15-ter.1, a seconda che la societa' residente sia, rispettivamente, di nuova costituzione oppure preesistente, riferendosi alla stabile organizzazione le disposizioni riguardanti la societa' scissa e al fondo di dotazione della stabile organizzazione quelle riguardanti il patrimonio netto della societa' scissa; 
+ b) non siano mantenute nel patrimonio della stabile organizzazione della medesima societa' scissa, si applicano le disposizioni di cui ai commi da 1 a 15-bis, a eccezione dei commi 3 e 7, e quelle di cui ai commi 15-ter, lettere b), c) e d), numero 1), o 15-ter.1, secondo periodo, a seconda che la societa' residente sia, rispettivamente, di nuova costituzione oppure preesistente, riferendosi alla stabile organizzazione le disposizioni riguardanti la societa' scissa e al fondo di dotazione della stabile organizzazione quelle riguardanti il patrimonio netto della societa' scissa; la societa' scissa non residente assume, quale valore delle partecipazioni ricevute, un importo pari alla differenza tra il valore fiscalmente riconosciuto delle attivita' e quello delle passivita' oggetto di scorporo rilevato alla data di efficacia della scissione ai sensi dell'articolo 2506-quater del codice civile; all'incremento del patrimonio netto della societa' beneficiaria derivante dalla scissione che non e' utilizzato per ricostituire, ai sensi di quanto disposto dal comma 9, le riserve in sospensione d'imposta presenti nel rendiconto patrimoniale della stabile organizzazione, si applica il regime fiscale del capitale e delle riserve di cui all'articolo 47, comma 5.))
+                                        ((241))
 
 Ai fini dell'articolo 10-bis della legge 27 luglio 2000, n. 212, non rileva la scissione avente a oggetto un'azienda e la successiva cessione della partecipazione ricevuta. (235)
 
@@ -5124,6 +9256,42 @@ Per le operazioni effettuate nel periodo d'imposta in corso al 31 dicembre 2023,
 
 La permuta, mediante la quale uno dei soggetti indicati nell'articolo 73, comma 1, lettere a) e b), acquista o integra una partecipazione di controllo ai sensi dell'articolo 2359, comma 1, n. 1), del codice civile, contenente disposizioni in materia di societa' controllate e collegate, ovvero incrementa la percentuale di controllo in altro soggetto indicato nelle medesime lettere a) e b), attribuendo ai soci di quest'ultimo proprie azioni, non da' luogo a componenti positivi o negativi del reddito imponibile a condizione che il costo delle azioni o quote date in permuta sia attribuito alle azioni o quote ricevute in cambio. L'eventuale conguaglio in denaro concorre a formare il reddito del percipiente ferma rimanendo, ricorrendone le condizioni, l'esenzione totale di cui all'articolo 87 e quella parziale di cui agli articoli 58 e articolo 68, comma 3. (123) (132) (235)
 
+2.
+                        
+                            
+                                In caso di conferimenti di azioni o quote in societa', mediante i quali la societa' conferitaria acquisisce, ai sensi dell'articolo 2359, primo comma, numero 1), del codice civile, il controllo di una societa' di cui all'articolo 73, comma 1, lettere a) o d), ovvero incrementa la percentuale di controllo, si considera valore di realizzo, ai fini della determinazione del reddito del conferente, quello corrispondente alla quota delle voci di patrimonio netto formato dalla societa' conferitaria per effetto del conferimento. Le disposizioni di cui al periodo precedente si applicano anche nel caso in cui il valore di realizzo, determinato ai sensi del medesimo periodo, risulta inferiore al costo fiscalmente riconosciuto delle partecipazioni conferite. In tal caso, fatti salvi i casi di esenzione di cui all'articolo 87, qualora il valore normale, determinato ai sensi dell'articolo 9, comma 4: 
+ 
+                            
+                            
+                                a)
+                                
+                                    e' inferiore al predetto valore di realizzo, la minusvalenza e' deducibile per un ammontare pari alla differenza tra il costo fiscalmente riconosciuto delle partecipazioni conferite e il valore di realizzo; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    e' superiore al predetto valore di realizzo, la minusvalenza e' deducibile per un ammontare pari alla differenza tra il costo fiscalmente riconosciuto delle partecipazioni conferite e il valore normale. (235)
+
+2-bis.
+                        
+                            
+                                Quando la societa' conferitaria non acquisisce il controllo di una societa', ai sensi dell'articolo 2359, primo comma, numero 1), del codice civile, ne' incrementa la percentuale di controllo, le disposizioni di cui al comma 2 trovano comunque applicazione se sussistono entrambe le seguenti condizioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    le partecipazioni conferite rappresentano una percentuale di diritti di voto esercitabili nell'assemblea ordinaria superiore al 2 o al 20 per cento oppure una partecipazione al capitale o al patrimonio superiore al 5 o al 25 per cento, a seconda che si tratti di partecipazioni rappresentate da titoli negoziati in mercati regolamentati o di altre partecipazioni; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le partecipazioni sono conferite in una societa', esistente o di nuova costituzione, partecipata unicamente dal conferente o, nel caso il conferente sia una persona fisica, dal conferente e dai suoi familiari di cui all'articolo 5, comma 5. (235)
+
 Se sono conferite partecipazioni detenute in una societa', le cui azioni non sono negoziate in mercati regolamentati, che, al momento del conferimento, rientra tra i soggetti indicati all'articolo 162-bis, comma 1, lettere b) o c), numero 1), ai fini dell'applicazione della disposizione di cui al comma 2-bis, le percentuali ivi indicate devono sussistere per le partecipazioni da essa detenute direttamente, o indirettamente tramite societa' controllate ai sensi dell'articolo 2359 del codice civile anch'esse rientranti tra i soggetti indicati all'articolo 162-bis, comma 1, lettere b) o c), numero 1), il cui valore contabile complessivo e' superiore alla meta' del valore contabile totale delle partecipazioni da essa detenute direttamente o indirettamente tramite le suddette societa' controllate. Ai fini della determinazione delle percentuali rappresentate dalle partecipazioni e della quantificazione del loro valore contabile si tiene conto della eventuale demoltiplicazione prodotta dalla catena partecipativa. (235) ((241))
 
 Nel caso di effettuazione di conferimenti ai sensi del precedente comma 2-bis, in capo alla conferitaria il termine di cui all'articolo 87, comma 1, lettera a), e' esteso fino al sessantesimo mese precedente quello dell'avvenuta cessione delle partecipazioni conferite. (235)
@@ -5155,6 +9323,38 @@ Si applicano le disposizioni dell'articolo 175, comma 2.
 
 I conferimenti di un complesso unitario di attivita' materiali e immateriali, inclusa la clientela e ogni altro elemento immateriale, nonche' di passivita', organizzato per l'esercizio dell'attivita' artistica o professionale, in una societa' per l'esercizio di attivita' professionali regolamentate nel sistema ordinistico, di cui all'articolo 10 della legge 12 novembre 2011, n. 183, non costituiscono realizzo di plusvalenze o minusvalenze; il soggetto conferente assume, quale valore delle partecipazioni ricevute, la somma algebrica dei valori fiscalmente riconosciuti di attivita' e passivita' conferite e il soggetto conferitario subentra nella posizione di quello conferente in ordine a quanto ricevuto, facendo risultare da apposito prospetto di riconciliazione della dichiarazione dei redditi i dati esposti nelle scritture contabili e i valori fiscalmente riconosciuti.
 
+2.
+                        
+                            
+                                Le disposizioni di cui al comma 1 si applicano anche: 
+ 
+                            
+                            
+                                a)
+                                
+                                    ai conferimenti in societa' per l'esercizio di attivita' professionali regolamentate nel sistema ordinistico diverse da quelle di cui al comma 1; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    agli apporti in associazioni o societa' semplici di cui all'articolo 5, costituite per l'esercizio in forma associata di arti e professioni; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    alle trasformazioni, fusioni e scissioni di societa' tra professionisti di cui al comma 1 e alla lettera a), nonche' alle medesime operazioni delle associazioni o societa' semplici di cui alla lettera b) e tra le societa' di cui al comma 1 e alla lettera a) e le associazioni o societa' semplici di cui alla lettera b); 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    al trasferimento per causa di morte o per atto gratuito di un complesso unitario di attivita' materiali e immateriali, inclusa la clientela e ogni altro elemento immateriale, nonche' di passivita', organizzato per l'esercizio dell'attivita' artistica o professionale svolta in forma individuale.
+
 I criteri di cui al comma 1 si applicano anche qualora, a seguito della cessazione, entro cinque anni dall'apertura della successione, dell'esercizio in forma associata di arti e professioni da parte degli eredi, la predetta attivita' resti svolta da uno solo di essi.
 
 Al fine di evitare salti o duplicazioni di imposizione, nel caso di passaggio, per effetto delle disposizioni di cui ai commi precedenti, da un periodo di imposta soggetto alla determinazione del reddito di lavoro autonomo ai sensi dell'articolo 54 a un periodo di imposta soggetto alla determinazione del reddito d'impresa ai sensi degli articoli 56 e 83, i componenti positivi e negativi che hanno gia' concorso alla formazione del reddito, in base alle regole del regime di determinazione del reddito di lavoro autonomo, non assumono rilevanza nella determinazione del reddito d'impresa dei periodi di imposta successivi; corrispondenti criteri si applicano per l'ipotesi inversa di passaggio da un periodo di imposta soggetto alla determinazione del reddito d'impresa a un periodo d'imposta soggetto alla determinazione del reddito di lavoro autonomo. Si applica, in quanto compatibile, l'articolo 170, commi 3 e 4, anche in caso di fusioni e scissioni.
@@ -5176,6 +9376,27 @@ Al fine di evitare salti o duplicazioni di imposizione, nel caso di passaggio, p
 
 I limiti e le condizioni al riporto delle perdite fiscali di cui agli articoli 84, comma 3, 172, commi 7 e 7-bis, ((173, comma 10, e 176, comma 5-bis)), non si applicano qualora le operazioni indicate nei medesimi articoli si verifichino all'interno dello stesso gruppo, intendendo per tale quello costituito da soggetti tra i quali sussiste il rapporto di controllo ai sensi dell'articolo 2359, primo comma, numero 1), e secondo comma, del codice civile e in cui una societa' controlla l'altra o le altre societa' partecipanti alle predette operazioni o tutte le societa' partecipanti alle predette operazioni sono controllate dallo stesso soggetto. La disapplicazione di cui al primo periodo opera esclusivamente per le perdite conseguite in periodi di imposta nei quali le societa' partecipanti alle operazioni di cui alle disposizioni del primo periodo erano gia' appartenenti allo stesso gruppo nonche' per le perdite conseguite antecedentemente per le quali abbiano trovato applicazione, all'atto dell'ingresso nel gruppo della societa' a cui si riferiscono, o successivamente, i limiti al riporto delle perdite e le condizioni di utilizzo previsti dai citati articoli. ((238))
 
+2.
+                        
+                            
+                                Con decreto del Ministro dell'economia e delle finanze sono stabilite le disposizioni di attuazione del presente articolo, al fine di definire: 
+ 
+                            
+                            
+                                a)
+                                
+                                    i criteri per la determinazione del periodo di appartenenza al gruppo di ciascuna societa', nonche' le regole con cui tale periodo e' attribuito al soggetto avente causa nell'ambito di operazioni straordinarie, ((...)) al fine di evitare effetti distorsivi; ((238))
+                                    
+                                
+                            
+                            
+                                b)
+                                
+                                    il coordinamento tra le disposizioni che limitano il riporto delle perdite fiscali di cui agli articoli 84, comma 3, 172, commi 7 e 7-bis, ((173, comma 10, 176, comma 5-bis,)) e le disposizioni del presente articolo, precisando, in ogni caso, che: ((238)) 
+ 1) le perdite sottoposte, con esito positivo, alle disposizioni che limitano il riporto delle perdite si considerano conseguite all'atto di ingresso nel gruppo ovvero al momento in cui sono effettuate le operazioni di fusione o scissione; 
+ 2) si considerano prioritariamente utilizzate le perdite conseguite nel periodo d'imposta meno recente; 
+ 3) le perdite eccedenti il valore del patrimonio netto della societa' si considerano formate prioritariamente dalle perdite diverse da quelle di cui al presente articolo.
+
 Le disposizioni del presente articolo si applicano anche agli interessi passivi indeducibili oggetto di riporto in avanti di cui all'articolo 96, comma 5, nonche' all'eccedenza, ai sensi dell'articolo 5 del decreto legislativo 30 dicembre 2023, n. 216, relativa all'aiuto alla crescita economica di cui all'articolo 1, comma 4, del decreto-legge 6 dicembre 2011, n. 201, convertito, con modificazioni, dalla legge 22 dicembre 2011, n. 214. 
  (235)
 
@@ -5191,6 +9412,52 @@ Le disposizioni del presente articolo si applicano anche agli interessi passivi 
 ## - ((Capo IV OPERAZIONI STRAORDINARIE FRA SOGGETTI RESIDENTI IN STATI MEMBRI DIVERSI DELL'UNIONE EUROPEA))
 
 ## Art. 178. — Fusioni, scissioni conferimenti di attivo scambi di azioni concernenti societa' di Stati membri diversi
+
+1.
+                        
+                            
+                                Le disposizioni del presente capo si applicano: 
+ 
+                            
+                            
+                                a)
+                                
+                                    alle fusioni tra societa' per azioni, in accomandita per azioni, a responsabilita' limitata, cooperative e di mutua assicurazione, enti pubblici e privati aventi per oggetto esclusivo o principale l'esercizio di attivita' commerciali, residenti nel territorio dello Stato, e soggetti residenti in altri Stati membri della Comunita' economica europea, purche' non si considerino, per convenzione in materia di doppia imposizione con Stati terzi, residenti fuori della Comunita', che appartengano alle categorie indicate nella tabella A allegata al presente testo unico, da considerare automaticamente aggiornata in conformita' con eventuali modifiche dell'allegato alla direttiva del Consiglio delle Comunita' europee n. 90/434 del 23 luglio 1990, e siano sottoposti a una delle imposte indicate nella tabella B allegata al presente testo unico o ad altra che in futuro la sostituisca, senza possibilita' di opzione, sempre che nel concambio l'eventuale conguaglio in danaro ai partecipanti dei soggetti fusi o incorporati non superi il 10% del valore nominale della partecipazione ricevuta; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    alle scissioni attuate mediante trasferimento dell'intero patrimonio di uno dei soggetti indicati nella lettera a) a due o piu' soggetti indicati nella stessa lettera, preesistenti o di nuova costituzione, alcuno dei quali sia residente in uno Stato della Comunita' diverso da quello del primo, e limitatamente alla parte corrispondente dell'operazione, con assegnazione ai partecipanti delle azioni o quote di ciascuno dei soggetti beneficiari in misura proporzionale alle rispettive partecipazioni nel soggetto scisso, sempre che quest'ultimo o almeno uno dei beneficiari siano residenti nel territoriodello Stato, che la quota di patrimonio trasferita a ciascun beneficiario sia costituita da aziende o complessi aziendali relativi a singoli rami dell'impresa del conferente e che nel concambio l'eventuale conguaglio in danaro ai partecipanti della societa' scissa non superi il 10 per cento del valore nominale della partecipazione ricevuta; 
+
+                                
+                            
+                            
+                                b-bis)
+                                
+                                    alle scissioni parziali mediante le quali uno dei soggetti indicati nella lettera a) trasferisce, senza essere sciolto, mantenendo almeno un'azienda o un complesso aziendale, una o piu' aziende o uno piu' complessi aziendali a uno o piu' soggetti indicati nella stessa lettera, preesistenti o di nuova costituzione, alcuno dei quali sia residente in uno Stato della Comunita' diverso da quello del primo, e limitatamente alla parte corrispondente dell'operazione, con assegnazione ai propri partecipanti, secondo un criterio proporzionale, delle azioni o quote del soggetto o dei soggetti beneficiari, sempre che il soggetto scisso o uno dei beneficiari sia residente nel territorio dello Stato e che l'eventuale conguaglio in danaro ai partecipanti del soggetto scisso non superi il dieci per cento del valore nominale della partecipazione ricevuta in concambio; (132) 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    ai conferimenti di aziende o di complessi aziendali relativi a singoli rami dell'impresa da uno ad altro dei soggetti indicati nella lettera a), residenti in Stati diversi della Comunita', sempre che uno dei due sia residente nel territorio dello Stato; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    alle operazioni indicate nelle lettere precedenti tra soggetti di cui alla lettera a) non residenti nel territorio dello Stato, con riguardo alle stabili organizzazioni nel territorio dello Stato oggetto delle operazioni stesse; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    alle permute e ai conferimenti di azioni o quote, mediante i quali uno dei soggetti indicati nella lettera a) acquisti o integri una partecipazione di controllo, ai sensi dell'articolo 2359, comma 1, n. 1), del codice civile ovvero incrementi ((...)) la percentuale di controllo, in uno dei soggetti indicati nella stessa lettera, residente in uno Stato della Comunita' ((anche se)) diverso da quello del primo, attribuendo ai partecipanti proprie azioni o quote in cambio di quelle ricevute in permuta o conferimento ed un eventuale conguaglio in danaro non superiore al 10% del valore nominale delle suddette azioni o quote, sempre che alcuno dei partecipanti che effettuano lo scambio sia residente nel territorio dello Stato ovvero la partecipazione scambiata sia relativa ad una stabile organizzazione nel territorio dello Stato di un soggetto indicato nella lettera a). (132) ((235))
 
 ---------------
                             AGGIORNAMENTO (132)
@@ -5256,6 +9523,33 @@ Nelle operazioni di cui alle lettere a) e b), del comma 1, dell'articolo 178, le
 ((
 
 In caso di liquidazione dell'impresa o della societa' il reddito di impresa relativo al periodo compreso tra l'inizio dell'esercizio e l'inizio della liquidazione e' determinato in base ad apposito conto economico, ovvero a norma dell'articolo 66 se ne ricorrono i presupposti; il conto economico deve essere redatto, per le societa', in conformita' alle risultanze del conto della gestione prescritto all'articolo 2277 del codice civile. Per le imprese individuali la data di inizio della liquidazione, ai fini delle imposte sui redditi, e' quella indicata nella dichiarazione di cui all'articolo 35 del decreto del Presidente della Repubblica 26 ottobre 1972, n. 633.
+
+2.
+                        
+                            
+                                Per le imprese individuali e per le societa' in nome collettivo e in accomandita semplice il reddito di impresa relativo al periodo compreso tra l'inizio e la chiusura della liquidazione e' determinato in base al bilancio finale, che deve essere redatto anche nei casi di cui all'articolo 66. Se la liquidazione: 
+ 
+                            
+                            
+                                a)
+                                
+                                    si protrae oltre l'esercizio in cui ha avuto inizio, il reddito relativo alla residua frazione di tale esercizio e a ciascun successivo esercizio intermedio, al netto delle perdite degli esercizi precedenti compresi nella liquidazione, concorre a formare il reddito complessivo dell'imprenditore, dei familiari partecipanti all'impresa o dei soci; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    si protrae per non piu' di tre esercizi, compreso quello in cui ha avuto inizio: 
+ 1) l'impresa o la societa' puo' rideterminare il reddito dell'ultimo di tali esercizi e progressivamente quello degli esercizi precedenti, computando a riduzione di ciascuno di essi le perdite residue fino a concorrenza del relativo importo; 
+ 2) l'imprenditore, i collaboratori familiari e i soci possono chiedere la tassazione separata del reddito a norma degli articoli 17 e 21; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    si chiude in perdita si applicano le disposizioni dell'articolo 8.
 
 3. Per le societa' soggette all'imposta di cui al titolo II, il reddito relativo al periodo compreso tra l'inizio e la chiusura della liquidazione e' determinato in base al bilancio finale. Se la liquidazione si protrae oltre l'esercizio in cui ha avuto inizio, il reddito relativo alla residua frazione di tale esercizio e a ciascun successivo esercizio intermedio e' determinato in base al rispettivo bilancio, al netto delle perdite dei precedenti esercizi, anche se anteriori all'inizio della liquidazione, liquidando la relativa imposta. Se la liquidazione si protrae per non piu' di cinque esercizi, compreso quello in cui ha avuto inizio, la societa' puo' rideterminare il reddito dell'ultimo di tali esercizi e progressivamente quello degli esercizi precedenti, computando a riduzione di ciascuno di essi le perdite residue fino a concorrenza del relativo importo.))
 

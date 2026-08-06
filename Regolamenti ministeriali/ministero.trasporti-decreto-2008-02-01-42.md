@@ -8,8 +8,8 @@ codice_redazionale: 008G0064
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:42Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -41,13 +41,94 @@ I sistemi, di cui al comma 1, sono omologati in conformita' alle prescrizioni de
 
 ## Art. 2. — Definizioni
 
+1.
+                    
+                        
+                            Ai fini del regolamento si definiscono quali:
+ 
+                        
+                        
+                            a)
+                            
+                                «sistema» idoneo alla riduzione della massa di particolato, uno o piu' elementi funzionalmente interconnessi con il motore, ovvero con i suoi dispositivi di aspirazione o di scarico, ovvero con il suo sistema di alimentazione e controllo;
+
+                            
+                        
+                        
+                            b)
+                            
+                                «fasce di appartenenza dei tipi di autoveicoli», convenzionalmente definite in funzione della rispondenza ai livelli di emissione allo scarico adottati a livello comunitario, i seguenti raggruppamenti:
+ Euro 0 - appartengono a tale fascia gli autoveicoli di categoria M1 omologati antecedentemente alla entrata in vigore della direttiva 91/441/CEE, e gli autoveicoli di categoria N1 omologati antecedentemente alla entrata in vigore della direttiva 93/59/CEE;
+ Euro 1 - appartengono a tale fascia gli autoveicoli di categoria M1 omologati ai sensi delle direttive da 91/441/CEE(*) a 93/59/CEE(*) e gli autoveicoli di categoria N1 omologati ai sensi della direttiva 93/59/CEE(*);
+ (*) per i tipi previsti dalla corrispondente tabella 1.5.2 Euro 2 - appartengono a tale fascia gli autoveicoli di categoria M1 omologati ai sensi delle direttive da 94/12/CEE(*) a 96/69/CE(*), ovvero 98/77/CE e gli autoveicoli di categoria N1 omologati ai sensi della direttiva 96/69/CE(*), ovvero 98/77/CE;
+ (*) per i tipi previsti dalla corrispondente tabella 1.5.2 Euro 3 - appartengono a tale fascia gli autoveicoli di categoria M1 ed N1 omologati ai sensi delle direttive da 98/69/CE a 2003/76/CE, riga A;
+ Euro 4 - appartengono a tale fascia gli autoveicoli di categoria M1 ed N1 omologati ai sensi delle direttive da 98/69/CE a 2003/76/CE, riga B.
+ All'allegato A, che e' parte integrante del regolamento, e' riportata la tabella con i valori limite delle emissioni da massa di particolato, adottati a livello comunitario, correlati con le fasce di appartenenza di cui sopra.
+
+                            
+                        
+                        
+                            c)
+                            
+                                «tipo di autoveicoli», l'insieme comprendente gli autoveicoli individuati in relazione alle caratteristiche riportate nell'allegato II punto B della direttiva 2001/116/CE;
+
+                            
+                        
+                        
+                            d)
+                            
+                                «autoveicolo rappresentativo», un autoveicolo considerato rappresentativo del tipo di autoveicoli in base ai parametri riportati all'allegato C, che e' parte integrante del regolamento;
+
+                            
+                        
+                        
+                            e)
+                            
+                                «costruttore», il produttore di un sistema idoneo alla riduzione della massa di particolato emesso da un autoveicolo.
+
 ## Art. 3. — Omologazione dei sistemi
 
 La domanda di omologazione di un sistema e' presentata dal costruttore, ovvero dal suo rappresentante, opportunamente accreditato, ad un Centro prove autoveicoli, secondo le modalita' previste dal decreto del Ministro dei trasporti e della navigazione 2 maggio 2001, n. 277. La domanda e' corredata da una scheda informativa compilata in conformita' al modello riportato nell'allegato B, che e' parte integrante del regolamento.
 
+2.
+                    
+                        
+                            Nella domanda sono indicati:
+ 
+                        
+                        
+                            a)
+                            
+                                i tipi di autoveicoli al quale e' destinato il sistema, nonche' la fascia di originaria appartenenza (Euro ...), in funzione della loro rispondenza ai livelli di emissione allo scarico;
+
+                            
+                        
+                        
+                            b)
+                            
+                                la fascia di appartenenza nella quale si chiede l'inquadramento dei tipi di autoveicoli, dotati di sistema, ai soli fini dell'inquinamento da massa di particolato.
+
 La verifica dell'idoneita' del sistema, ai fini della sua omologazione, e' effettuata in base ai criteri e con le procedure riportate nell'allegato D, che e' parte integrante del regolamento.
 
 Un sistema che abbia conseguito l'omologazione per un tipo di autoveicoli appartenente alla fascia Euro 3 e' ritenuto idoneo per uno o piu' tipi di autoveicoli appartenenti alla fascia Euro 4, prodotti dallo stesso costruttore di autoveicoli, dotati di motore ad accensione spontanea, privi per costruzione di dispositivi di riduzione della massa di particolato, subordinatamente al rilascio di una specifica autorizzazione del costruttore degli autoveicoli di cui trattasi. In tal caso lo stesso costruttore individua il tipo di autoveicoli idoneo per l'installazione del sistema e ne stabilisce le condizioni e le modalita', nonche' le eventuali specifiche prescrizioni necessarie per il corretto funzionamento del motore.
+
+5.
+                    
+                        
+                            Il costruttore dichiara inoltre in relazione a ciascun tipo di autoveicoli, che:
+ 
+                        
+                        
+                            a)
+                            
+                                effettuera' la prevista procedura di verifica di durabilita' del sistema, conformemente a quanto riportato nell'allegato E, che e' parte integrante del regolamento;
+
+                            
+                        
+                        
+                            b)
+                            
+                                l'installazione del sistema non comporta, comunque, il superamento dei valori massimi ammissibili di contropressione allo scarico.
 
 A ciascun tipo di sistema, omologato in ottemperanza alle prescrizioni del regolamento, e' assegnato un numero di omologazione, in conformita' a quanto previsto nell'allegato IV al decreto del Ministro dei trasporti e della navigazione 2 maggio 2001, n. 277.
 
@@ -55,9 +136,101 @@ La direzione generale per la motorizzazione rilascia il certificato di omologazi
 
 ## Art. 4. — Caratteristiche generali dei sistemi
 
+1.
+                    
+                        
+                            E' richiesta la preventiva autorizzazione del costruttore dell'autoveicolo per sistemi funzionalmente connessi con uno o piu' dei seguenti elementi o che comportano modifiche ai medesimi:
+ 
+                        
+                        
+                            a)
+                            
+                                dispositivi elettronici di gestione dell'alimentazione ed eventualmente di verifica della combustione e del controllo delle emissioni;
+
+                            
+                        
+                        
+                            b)
+                            
+                                linea dei componenti destinata all'alimentazione del motore (con l'esclusione del serbatoio e dei relativi condotti);
+
+                            
+                        
+                        
+                            c)
+                            
+                                motore di trazione;
+
+                            
+                        
+                        
+                            d)
+                            
+                                sistema EGR.
+
 Il sistema prevede un dispositivo di allarme per eccessiva contropressione allo scarico che segnali il livello critico di intasamento.
 
 Non sono ammesse soluzioni tecniche che prevedano, attraverso dispositivi di bypass, l'esclusione o la parzializzazione del sistema.
+
+4.
+                    
+                        
+                            Per i sistemi che si avvalgono di specifici additivi o reagenti chimici il costruttore:
+ 
+                        
+                        
+                            a)
+                            
+                                prevede sistemi automatici di additivazione;
+
+                            
+                        
+                        
+                            b)
+                            
+                                prevede l'installazione sul veicolo di un dispositivo di segnalazione dell'assenza di additivo;
+
+                            
+                        
+                        
+                            c)
+                            
+                                dichiara che l'uso di questi prodotti non danneggia l'autoveicolo, ovvero il motore;
+
+                            
+                        
+                        
+                            d)
+                            
+                                allega alla documentazione di omologazione la scheda di sicurezza degli additivi o dei reagenti utilizzati;
+
+                            
+                        
+                        
+                            e)
+                            
+                                fornisce informazioni circa eventuali emissioni di metalli prodotte dall'utilizzo degli additivi o dei reagenti;
+
+                            
+                        
+                        
+                            f)
+                            
+                                fornisce istruzioni sulle conseguenze che la mancanza o l'eccesso di additivo o reagente chimico puo' avere sul sistema o sul motore;
+
+                            
+                        
+                        
+                            g)
+                            
+                                prescrive le misure da adottare per l'uso corretto da parte dell'utilizzatore;
+
+                            
+                        
+                        
+                            h)
+                            
+                                dichiara che la qualita' del combustibile, dopo l'additivazione, resti conforme a quanto previsto dalla norma EN 590, nonche' dalle norme vigenti ai fini della tutela della salute e dell'ambiente.
 
 ## Art. 5. — Inquadramento degli autoveicoli ai soli fini dell'inquinamento da massa di particolato
 
@@ -90,6 +263,24 @@ Ogni singolo sistema prodotto e' corredato con le informazioni di uso e manutenz
 Gli impianti di produzione dei sistemi sono soggetti al controllo del sistema di verifica della conformita' della produzione, prevista dal decreto dirigenziale 25 novembre 1997.
 
 I sistemi omologati sono realizzati in modo da risultare conformi al tipo omologato.
+
+3.
+                    
+                        
+                            La Direzione generale della motorizzazione puo' procedere a qualsiasi prova prescritta nel regolamento, nell'ambito della verifica:
+ 
+                        
+                        
+                            a)
+                            
+                                della conformita' della produzione del sistema;
+
+                            
+                        
+                        
+                            b)
+                            
+                                delle procedure per la valutazione della durabilita' del sistema.
 
 L'omologazione accordata per un tipo di sistema e' revocata se non vengono rispettate le prescrizioni del presente articolo.
 

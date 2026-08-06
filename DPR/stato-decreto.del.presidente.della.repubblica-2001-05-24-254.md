@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: DPR
 vigenza_date: 2020-07-17
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:47:43Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -40,17 +40,205 @@ Le fondazioni perseguono i propri scopi con tutte le modalita' consentite dalla 
 
 ## Art. 2. — Tipologie di attivita' attribuibili alle fondazioni
 
+1.
+                        
+                            
+                                Le fondazioni possono svolgere, a favore e per conto degli enti di riferimento, una o piu' delle seguenti tipologie di attivita', secondo quanto previsto dai rispettivi statuti:
+ 
+                            
+                            
+                                a)
+                                
+                                    l'acquisizione di beni e servizi alle migliori condizioni di mercato;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    lo svolgimento di attivita' strumentali e di supporto della didattica e della ricerca scientifica e tecnologica, con specifico riguardo:
+ 1) alla promozione e sostegno finanziario alle attivita' didattiche, formative e di ricerca;
+ 2) alla promozione e allo svolgimento di attivita' integrative e sussidiarie alla didattica ed alla ricerca;
+ 3) alla realizzazione di servizi e di iniziative diretti a favorire le condizioni di studio;
+ 4) alla promozione e supporto delle attivita' di cooperazione scientifica e culturale degli enti di riferimento con istituzioni nazionali ed internazionali;
+ 5) alla realizzazione e gestione, nell'ambito della programmazione degli enti di riferimento, di strutture di edilizia universitaria e di altre strutture di servizio strumentali e di supporto all'attivita' istituzionale degli enti di riferimento;
+ 6) alla promozione e attuazione di iniziative a sostegno del trasferimento dei risultati della ricerca, della creazione di nuove imprenditorialita' originate dalla ricerca ai sensi dell'articolo 3, comma 1, lettera b), n. 1), del decreto legislativo 27 luglio 1999, n. 297, della valorizzazione economica dei risultati delle ricerche, anche attraverso la tutela brevettale;
+ 7) al supporto all'organizzazione di stages e di altre attivita' formative, nonche' ad iniziative di formazione a distanza.
+
+2.
+                        
+                            
+                                Per il perseguimento delle finalita' di cui al comma 1 le fondazioni possono, fra l'altro:
+ 
+                            
+                            
+                                a)
+                                
+                                    promuovere la raccolta di fondi privati e pubblici e la richiesta di contributi pubblici e privati locali, nazionali, europei e internazionali da destinare agli scopi della fondazione;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    stipulare contratti, convenzioni, accordi o intese con soggetti pubblici o privati;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    amministrare e gestire i beni di cui abbiano la proprieta' o il possesso, nonche' le strutture universitarie delle quali le sia stata affidata la gestione;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    sostenere lo svolgimento di attivita' di formazione, ricerca e trasferimento tecnologico, anche attraverso la gestione operativa di strutture scientifiche e/o tecnologiche degli enti di riferimento;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    promuovere la costituzione o partecipare a consorzi, associazioni o fondazioni che condividono le medesime finalita', nonche' a strutture di ricerca, alta formazione e trasferimento tecnologico in Italia e all'estero, ivi comprese societa' di capitali strumentali a dette strutture. Nel caso di partecipazione a tali societa' di capitali la partecipazione non puo' superare il cinquanta per cento dell'intero capitale sociale;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    promuovere e partecipare ad iniziative congiunte con altri istituti nazionali, stranieri, con amministrazioni ed organismi internazionali e, in genere, con operatori economico e sociali, pubblici o privati;
+
+                                
+                            
+                            
+                                g)
+                                
+                                    promuovere seminari, conferenze e convegni anche con altre istituzioni e organizzazioni nazionali ed internazionali o partecipare ad analoghe iniziative promosse da altri soggetti.
+
 Le fondazioni agevolano la partecipazione alla propria attivita' di enti e amministrazioni pubbliche e di soggetti privati, sviluppando ed incrementando la necessaria rete di relazioni nazionali ed internazionali funzionali al raggiungimento dei propri fini.
 
 ## Art. 3. — Statuto
 
 Le fondazioni sono disciplinate da uno statuto che ne specifica i compiti e le strutture operative.
 
+2.
+                        
+                            
+                                Lo statuto determina, nel rispetto delle disposizioni del presente regolamento:
+ 
+                            
+                            
+                                a)
+                                
+                                    le finalita' della fondazione;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la composizione, le competenze e la durata dei suoi organi;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    i criteri in base ai quali altri soggetti, pubblici o privati, possono partecipare e i diritti e doveri a questi spettanti;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    la destinazione degli avanzi di gestione agli scopi istituzionali;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    le modalita' di erogazione dei servizi a favore degli enti di riferimento;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    le cause di estinzione della fondazione e le disposizioni relative alla devoluzione del patrimonio secondo quanto previsto dall'articolo 15, comma 3.
+
 Lo statuto e' deliberato, unitamente all'atto costitutivo della fondazione, dagli enti di riferimento, previa acquisizione del parere del Ministero dell'universita' e della ricerca scientifica e tecnologica. Il parere ministeriale e' allegato alla domanda di riconoscimento della personalita' giuridica di cui all'articolo 1, comma 3. La stessa procedura si applica alle modifiche dello statuto.
 
 ## Art. 4. — Patrimonio
 
+1.
+                        
+                            
+                                Il patrimonio della fondazione e' costituito:
+ 
+                            
+                            
+                                a)
+                                
+                                    dalla dotazione iniziale in beni mobili e/o immobili conferita dai fondatori all'atto della costituzione;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    dai beni mobili ed immobili che perverranno alla fondazione a qualsiasi titolo, nonche' da contributi, donazioni e lasciti di persone fisiche e giuridiche pubbliche e private, la cui accettazione sia deliberata, previo gradimento degli enti di riferimento, dal consiglio di amministrazione della fondazione e che il consiglio stesso decida di imputare a patrimonio;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    dai proventi delle attivita' proprie che il consiglio di amministrazione deliberi di destinare ad incremento del patrimonio;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    dagli utili, derivanti dalle contribuzioni di cui all'articolo 6, che il consiglio di amministrazione decida di imputare a patrimonio;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    dai fondi di riserva costituiti con eventuali avanzi di gestione.
+
 ## Art. 5. — Fondi di gestione
+
+1.
+                        
+                            
+                                Per l'adempimento dei propri compiti le fondazioni dispongono:
+ 
+                            
+                            
+                                a)
+                                
+                                    di ogni eventuale provento, contributo, donazione o lascito destinato all'attuazione degli scopi statutari e non espressamente destinato all'incremento del patrimonio;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    dei redditi provenienti dalla gestione del patrimonio;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    dei corrispettivi per le prestazioni di cui all'articolo 12, comma 3.
 
 ## Art. 6. — Partecipazioni ed adesioni
 
@@ -64,6 +252,31 @@ Assumono la qualifica di "Partecipanti" enti ed amministrazioni pubbliche e sogg
 
 ## Art. 7. — Organi
 
+1.
+                        
+                            
+                                Sono organi delle fondazioni:
+ 
+                            
+                            
+                                a)
+                                
+                                    il presidente;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il consiglio di amministrazione;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il collegio dei revisori dei conti.
+
 La durata degli organi delle fondazioni, nonche' le relative incompatibilita', sono stabilite dai rispettivi statuti.
 
 Gli statuti possono prevedere un comitato scientifico, con i compiti di cui all'articolo 10.
@@ -75,9 +288,66 @@ Convoca e presiede il consiglio di amministrazione e il comitato scientifico ed 
 
 ## Art. 9. — Consiglio di amministrazione
 
+1.
+                        
+                            
+                                Le fondazioni sono amministrate da un consiglio di amministrazione la cui nomina, composizione, competenza e funzionamento sono disciplinati dai rispettivi statuti, fermo restando che:
+ 
+                            
+                            
+                                a)
+                                
+                                    il numero dei componenti e' commisurato ai compiti della fondazione ed alle dimensioni degli enti di riferimento e, comunque, non puo' essere superiore a undici, compreso il presidente;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    e' presieduto dal presidente della fondazione;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    la maggioranza assoluta dei componenti e' designata dagli enti di riferimento;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    almeno un componente e' designato dal Ministero dell'universita' e della ricerca scientifica e tecnologica.
+
 Il consiglio di amministrazione nomina un direttore generale, i cui compiti sono definiti dallo statuto.
 
 ## Art. 10. — Comitato scientifico
+
+1.
+                        
+                            
+                                Il comitato scientifico, qualora previsto dallo statuto, e' organo consultivo delle fondazioni la cui nomina, composizione, competenza e funzionamento sono stabiliti dai rispettivi statuti, fermo restando che:
+ 
+                            
+                            
+                                a)
+                                
+                                    e' presieduto dal presidente della fondazione;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    almeno un componente e' designato dagli enti di riferimento;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    almeno un componente e' designato dal Ministero dell'universita' e della ricerca scientifica e tecnologica.
 
 ## Art. 11. — ((ARTICOLO ABROGATO DAL D.L. 16 LUGLIO 2020, N. 76))
 

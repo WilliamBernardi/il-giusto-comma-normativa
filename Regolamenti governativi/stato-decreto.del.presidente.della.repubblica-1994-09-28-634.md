@@ -8,8 +8,8 @@ codice_redazionale: 094G0676
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti governativi
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:09Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -35,6 +35,24 @@ L'utenza del servizio e' concessa, su istanza della parte interessata, dal diret
 
 ## Art. 3.
 
+1.
+                    
+                        
+                            L'utenza del servizio e' concessa, valutati in ogni caso i motivi di interesse pubblico e tenuto conto delle disponibilita di collegamenti al momento della concessione, nel seguente ordine di preferenza per categoria:
+ 
+                        
+                        
+                            a)
+                            
+                                categoria A: aziende di Stato aventi autonomia di bilancio e di gestione; amministrazioni regionali, provinciali, comunali; universita' ed istituti pubblici di istruzione e di ricerca; societa' a prevalente partecipazione statale; societa' concessionarie di pubblici servizi;
+
+                            
+                        
+                        
+                            b)
+                            
+                                categoria B: persone fisiche e giuridiche, associazioni ed enti non compresi nella categoria A.
+
 ## Art. 4.
 
 Oltre alle cause di cessazione dell'utenza previste nella convenzione stipulata con l'utente, il direttore generale della M.C.T.C. puo' revocare, sospendere o limitare la concessione per motivate ragioni di interesse pubblico o in caso di gravi violazioni degli obblighi assunti dall'utente. La revoca o la limitazione e' comunicata attraverso lettera raccomandata con avviso di ricevimento, con tassa a carico del destinatario ed ha effetto dal decimo giorno successivo al suo ricevimento.
@@ -48,6 +66,24 @@ In mancanza di disdetta da parte del direttore generale della M.C.T.C. o da part
 Le spese della convenzione sono ad esclusivo carico del richiedente.
 
 ## Art. 6.
+
+1.
+                    
+                        
+                            L'utente puo' usufruire del servizio collegandosi all'elaboratore elettronico del centro elaborazione dati della Direzione generale della motorizzazione civile e dei trasporti in concessione con le seguenti modalita':
+ 
+                        
+                        
+                            a)
+                            
+                                a mezzo di un terminale, o personal computer munito di idoneo emulatore, ed una stampante giudicati tecnicamente compatibili con la rete dalla direzione del centro;
+
+                            
+                        
+                        
+                            b)
+                            
+                                a mezzo di un elaboratore in grado di svolgere la funzione di concentratore di piu' terminali e giudicato tecnicamente compatibile con la rete della direzione del centro.
 
 Le spese di acquisto o di locazione delle attrezzature, nonche' quelle di collegamento con il centro elaborazione dati e della utilizzazione delle linee di telecomunicazione sono integralmente a carico dell'utente.
 
@@ -86,10 +122,80 @@ La violazione dei divieti di cui ai commi precedenti comporta la revoca della co
 
 ## Art. 10.
 
+1.
+                    
+                        
+                            L'utenza del servizio e' concessa dietro pagamento degli oneri di seguito indicati:
+ 
+                        
+                        
+                            a)
+                            
+                                cauzione a garanzia degli obblighi derivanti dalla convenzione da prestarsi secondo le modalita' di cui alla legge 10 giugno 1982, n. 348;
+
+                            
+                        
+                        
+                            b)
+                            
+                                canone di abbonamento per ciascun anno della durata della convenzione. Per il primo anno di durata della convenzione il canone e' dovuto in ragione di tanti dodicesimi quanti sono i mesi intercorrenti fra quello di stipula e la fine dell'anno. Il mese in cui viene stipulata la convenzione e' computato nei dodicesimi;
+
+                            
+                        
+                        
+                            c)
+                            
+                                corrispettivi, da addebitarsi a consuntivo, per le informazioni ricevute nel trimestre precedente in base alle tariffe unitarie in vigore o in base al costo stabilito per la fornitura di informazioni con particolari stati di aggregazione.
+
+2.
+                    
+                        
+                            Gli importi dei suddetti oneri sono determinati:
+ 
+                        
+                        
+                            a)
+                            
+                                quanto alla cauzione in un importo pari a quello del canone annuo di abbonamento in vigore all'atto della stipula della convenzione;
+
+                            
+                        
+                        
+                            b)
+                            
+                                quanto al canone annuo di abbonamento:
+ b.1) in lire 1.500.000 per gli utenti di cui alla categoria A dell'art. 3;
+ b.2) in lire 2.500.000 per gli utenti di cui alla categoria B dell'art. 3;
+
+                            
+                        
+                        
+                            c)
+                            
+                                quanto al costo delle singole informazioni ricevute secondo gli schemi meccanografici in uso presso il centro elaborazione dati, in lire cinquecento per ogni informazione ricevuta utilizzando le apparecchiature ed i collegamenti di cui al comma 1 dell'art. 6, in lire mille per ogni informazione ricevuta utilizzando le apparecchiature ed i collegamenti di cui al comma 4 dell'art. 6. Il costo delle informazioni ricevute secondo stati di aggregazione diversi da quelli disponibili, fermo restando il contenuto dei commi 4 e 5 dell'art. 8, sara' valutato di volta in volta dal direttore generale della M.C.T.C.
+
 Gli importi di cui alle lettere b) e c) del comma 2 vengono revisionati in relazione alla variazione accertata dall'Istituto centrale di statistica dell'indice dei prezzi al consumo per le famiglie di operai e impiegati verificatesi nel biennio precedente.
 Gli aumenti derivanti dalle revisioni conservano la medesima destinazione, dei canoni e dei corrispettivi, prevista al comma 4 del presente articolo.
 
 L'importo dei canoni di cui al comma 2, lettera b), e' corrisposto mediante versamento sul conto corrente postale intestato alla sezione della tesoreria provinciale dello Stato competente per territorio, con imputazione all'apposito capitolo dello stato di previsione delle entrate del bilancio dello Stato. L'importo dei corrispettivi di cui al comma 2, lettera c), e' corrisposto con le medesime modalita' ed affluisce ad apposito capitolo dello stato di previsione delle entrate del bilancio dello Stato, per essere riassegnato, con decreto del Ministro del tesoro, ai pertinenti capitoli dello stato di previsione della spesa del Ministero dei trasporti e della navigazione. Gli attestati dei versamenti devono essere trasmessi al centro elaborazione dati della motorizzazione civile.
+
+5.
+                    
+                        
+                            Il versamento degli oneri di cui alle lettere a) e b) del comma 2 deve essere effettuato:
+ 
+                        
+                        
+                            a)
+                            
+                                la prima volta, dopo la stipula della convenzione e prima dell'attivazione del collegamento. Quest'ultima resta subordinata al ricevimento, da parte del centro elaborazione dati della M.C.T.C., dei relativi attestati di versamento;
+
+                            
+                        
+                        
+                            b)
+                            
+                                per ogni anno di rinnovo della convenzione, entro il 31 gennaio dell'anno in corso, limitatamente al corrispettivo di cui alla lettera b).
 
 Il versamento dei corrispettivi di cui alla lettera c) del comma 2 deve essere effettuato con cadenza trimestrale e per intero entro trenta giorni dalla data di emissione di apposita comunicazione che altrimenti e' considerata insoluta a tutti gli effetti. Ciascuna comunicazione riguarda l'ammontare relativo alle informazioni ricevute nel trimestre precedente.
 

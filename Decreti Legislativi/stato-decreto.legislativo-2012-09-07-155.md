@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
 vigenza_date: 2025-08-09
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:28Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -37,6 +37,31 @@ Sono soppressi i tribunali ordinari, le sezioni distaccate e le procure della Re
  La Corte Costituzionale, con sentenza 3 - 24 luglio 2013, n. 237 (in G.U. 1a s.s. 31/7/2013, n. 31), ha dichiarato "l'illegittimita' costituzionale dell'articolo 1, con l'allegata tabella A, del decreto legislativo 7 settembre 2012, n. 155 (Nuova organizzazione dei tribunali ordinari e degli uffici del pubblico ministero, a norma dell'articolo 1, comma 2, della legge 14 settembre 2011, n. 148), limitatamente alla disposta soppressione del Tribunale ordinario di Urbino".
 
 ## Art. 2. — Modifiche al regio decreto 30 gennaio 1941, n. 12, e disposizioni di coordinamento
+
+1.
+                    
+                        
+                            Al regio decreto 30 gennaio 1941, n. 12, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                la tabella A e' sostituita dalla tabella di cui all'allegato 1 del presente decreto; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                le tabelle B e C sono soppresse; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                gli articoli 48-bis, 48-ter, 48-quater, 48-quinquies e 48-sexies sono abrogati.
 
 Il tribunale di Giugliano in Campania e' rinominato in «tribunale di Napoli nord» ((, e, a norma della tabella A allegata al regio decreto 30 gennaio 1941, n. 12, ha sede nel comune di Aversa)).
 
@@ -77,6 +102,31 @@ Con decreto del Ministro della giustizia, da adottarsi entro il 31 dicembre 2012
 ## Art. 6. — Magistrati titolari di funzioni dirigenziali
 
 Entro centottanta giorni dalla data di entrata in vigore del presente decreto, i magistrati titolari dei posti di presidente di tribunale, presidente di sezione, procuratore della Repubblica e procuratore aggiunto negli uffici destinati alla soppressione possono chiedere, in deroga al disposto dell'articolo 194 del regio decreto 30 gennaio 1941, n. 12, l'assegnazione a posti vacanti pubblicati.
+
+2.
+                    
+                        
+                            Nel medesimo termine indicato al comma 1, i magistrati titolari dei posti ivi indicati possono chiedere, altresi', eventualmente subordinando gli effetti della domanda al mancato conferimento di un posto richiesto a norma del comma 1, di essere destinati all'esercizio di una delle seguenti funzioni, anche in soprannumero riassorbibile con le successive vacanze: 
+ 
+                        
+                        
+                            a)
+                            
+                                consigliere di corte di appello nel distretto da essi scelto; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                giudice di tribunale o sostituto procuratore della Repubblica in una sede da essi scelta; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                funzioni svolte prima del conferimento dell'incarico nell'ufficio in cui prestava precedentemente servizio.
 
 Successivamente alla data di efficacia di cui all'articolo 11, comma 2, i magistrati gia' titolari dei posti indicati al comma 1 che nel termine previsto non hanno richiesto l'assegnazione o la destinazione ai sensi dei commi 1 e 2, sono destinati di ufficio ad esercitare le funzioni di giudice di tribunale o di sostituto procuratore della Repubblica negli uffici cui sono state trasferite le funzioni degli uffici soppressi. La stessa disposizione si applica a coloro che non hanno ottenuto l'assegnazione e che non hanno richiesto la destinazione.
 

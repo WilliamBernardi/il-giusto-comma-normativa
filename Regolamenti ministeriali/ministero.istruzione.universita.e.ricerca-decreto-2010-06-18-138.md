@@ -8,8 +8,8 @@ codice_redazionale: 010G0156
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:38Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -67,6 +67,87 @@ La Scuola, fatte salve le competenze in materia di calendario scolastico riserva
 
 ## Art. 4. — Organi della Scuola
 
+1.
+                    
+                        
+                            Gli organi della Scuola, in conformita' al sistema delle Scuole Europee, sono: 
+ 
+                        
+                        
+                            a)
+                            
+                                il dirigente della Scuola; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                il consiglio di amministrazione; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                il comitato tecnico-scientifico; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                il consiglio generale dei docenti; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                i consigli di classe; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                i dipartimenti didattici; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                il consiglio educativo; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                il consiglio di disciplina degli alunni; 
+
+                            
+                        
+                        
+                            i)
+                            
+                                l'associazione dei genitori; 
+
+                            
+                        
+                        
+                            l)
+                            
+                                il comitato degli studenti; 
+
+                            
+                        
+                        
+                            m)
+                            
+                                il collegio dei revisori dei conti.
+
 Per la partecipazione alle sedute degli organi di cui alle lettere b), c), d), e), f), g) h), i) ed l) non sono previsti compensi, indennita' o gettoni di presenza.
 
 ## Art. 5. — Dirigente della Scuola
@@ -75,7 +156,141 @@ Il dirigente della Scuola assicura la gestione unitaria dell'istituzione scolast
 
 Nel rispetto delle competenze degli organi della Scuola e' preposto al corretto, efficace ed efficiente funzionamento della Scuola; e' titolare di autonomi poteri di direzione, coordinamento e valorizzazione delle risorse umane; promuove e sviluppa l'autonomia sul piano organizzativo, gestionale e didattico; pone in essere gli interventi volti ad assicurare l'esercizio dei diritti costituzionalmente tutelati, quali il diritto all'apprendimento degli alunni, la liberta' di insegnamento dei docenti, la liberta' di scelta educativa da parte delle famiglie; attiva autonomamente i necessari rapporti con gli Enti locali e con le diverse realta' istituzionali, culturali, sociali ed economiche con le quali la Scuola, per il suo specifico ruolo, e' chiamata a rapportarsi, sia in ambito nazionale che internazionale.
 
+3.
+                    
+                        
+                            Il dirigente della Scuola in ordine ai risultati della propria azione dirigenziale risponde direttamente al Ministro. Relaziona periodicamente al consiglio di amministrazione e al consiglio generale dei docenti al fine di garantire la piu' ampia informazione e un efficace raccordo per l'esercizio delle varie competenze assegnate agli organi della Scuola. In particolare, il dirigente: 
+ 
+                        
+                        
+                            a)
+                            
+                                presiede il consiglio generale dei docenti, i consigli di classe, i dipartimenti didattici, il consiglio educativo e il consiglio di disciplina degli alunni; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                organizza le elezioni delle componenti elettive, coordina il funzionamento degli organi collegiali della Scuola e cura l'esecuzione delle delibere prese dai predetti organi; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                procede, in base all'organico definito dal direttore generale per il personale scolastico del Ministero, alla formazione delle classi, all'assegnazione dei docenti alle stesse, alla predisposizione dell'orario delle lezioni e garantisce lo svolgimento delle attivita' didattiche; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                forma le sezioni e le classi conformandosi alle disposizioni nazionali regolanti la materia, con possibilita' di derogare al numero massimo e minimo degli alunni iscritti previsto dalle suddette disposizioni; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                promuove il miglioramento continuo della qualita' didattico-educativa della Scuola, secondo il modello pedagogico del Sistema delle Scuole Europee; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                predispone, coadiuvato dal comitato tecnico-scientifico e dal segretario capo (direttore dei servizi generali e amministrativi), il piano annuale e pluriennale delle attivita' didattiche e amministrative, il regolamento di gestione della Scuola, il calendario scolastico e la proposta di documento contabile annuale e di conto consuntivo della Scuola, nonche' le variazioni al medesimo documento contabile annuale; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                adotta le iniziative finalizzate al perseguimento dell'efficienza e dell'efficacia amministrativo-gestionale e funzionale della Scuola; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                vigila sull'attivita' di tutto il personale docente e non docente della Scuola, acquisendo gli elementi necessari alla valutazione del servizio - valutazione che rientra nelle proprie competenze sentito il comitato tecnico-scientifico - anche ai fini del rinnovo degli incarichi biennali; 
+
+                            
+                        
+                        
+                            i)
+                            
+                                adotta i provvedimenti di cessazione dall'incarico, prima della scadenza e i provvedimenti di sospensione cautelare in pendenza di procedimento penale nei casi di cui all'articolo 20 del presente decreto; 
+
+                            
+                        
+                        
+                            l)
+                            
+                                predispone per il Ministro la relazione annuale sull'andamento generale della Scuola.
+
 ## Art. 6. — Consiglio di amministrazione
+
+1.
+                    
+                        
+                            Il consiglio di amministrazione e' nominato dal Ministro ed e' composto da: 
+ 
+                        
+                        
+                            a)
+                            
+                                un direttore generale del Ministero, anche in quiescenza, designato dal Ministro; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                un rappresentante dell'EFSA; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                un rappresentante dell'Ufficio scolastico regionale per l'Emilia Romagna; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                un rappresentante del Comune di Parma; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                un rappresentante della Provincia di Parma; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                il presidente dell'associazione dei genitori eletto dagli stessi; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                un rappresentante del personale della Scuola eletto dallo stesso tra il personale docente e il personale amministrativo tecnico ausiliario; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                non piu' di tre rappresentanti dell'imprenditoria locale scelti tra coloro che contribuiscono al finanziamento della Scuola.
 
 Il consiglio di amministrazione e' presieduto dal direttore generale del Ministero, designato dal Ministro.
 
@@ -87,15 +302,167 @@ E' previsto, ove spettante, il rimborso delle spese di viaggio e soggiorno ai co
 
 Il consiglio di amministrazione si riunisce su iniziativa del presidente ed e' validamente costituito quando e' presente la meta' piu' uno dei componenti in carica.
 
+7.
+                    
+                        
+                            Il consiglio di amministrazione ha compiti di programmazione e indirizzo. In particolare: 
+ 
+                        
+                        
+                            a)
+                            
+                                approva, su proposta del dirigente sentito il comitato tecnico-scientifico, le linee programmatiche della gestione, il piano annuale e pluriennale delle attivita' didattiche e amministrative, il regolamento di gestione della Scuola, il calendario scolastico, il documento contabile annuale e il conto consuntivo; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                adotta, su proposta del comitato tecnico-scientifico, le variazioni al documento contabile annuale; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                autorizza gli accordi con gli enti che contribuiscono al finanziamento della Scuola; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                esprime parere al dirigente della Scuola, ai fini della successiva richiesta di autorizzazione al direttore generale del personale della scuola del Ministero in merito alle proposte delle consistenze e delle variazioni dell'organico relative al personale della Scuola; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                determina in concreto le retribuzioni del personale della Scuola mediante l'equiparazione delle stesse alle retribuzioni erogate dalle Scuole Europee sulla base dei parametri adottati dalle Scuole medesime, nel limite massimo previsto dalla Tabella A che si allega al presente regolamento, di cui costituisce parte integrante; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                vigila sul generale andamento della gestione della Scuola; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                esprime parere non vincolante al dirigente della Scuola in merito ai provvedimenti di cessazione dall'incarico per valutazione non positiva e/o per incompatibilita' ambientale, relativi al personale docente e amministrativo tecnico ausiliario di cui al successivo articolo 21 del presente decreto; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                decide in merito a questioni relative al mancato accoglimento delle richieste di iscrizione, ai ricorsi concernenti la non ammissione alla classe successiva, nonche' avverso i provvedimenti disciplinari gravi.
+
 Il consiglio di amministrazione dura in carica cinque anni ed i componenti possono essere confermati una sola volta e si riunisce, in via ordinaria, almeno quattro volte l'anno e, in via straordinaria, ogni volta che il dirigente della Scuola, che vi partecipa senza diritto di voto, oppure i due terzi dei componenti ne facciano richiesta.
 
 ## Art. 7. — Comitato tecnico-scientifico
+
+1.
+                    
+                        
+                            Il comitato tecnico-scientifico, nominato dal capo del dipartimento per l'istruzione del Ministero, e' composto: 
+ 
+                        
+                        
+                            a)
+                            
+                                dal dirigente della Scuola; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                da un dirigente del Ministero scelto dalla stessa Amministrazione centrale; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                dal rappresentante eletto dai genitori; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                dal rappresentante eletto dal personale docente della Scuola che lo presiede.
 
 Il segretario capo partecipa ai lavori del comitato tecnico-scientifico senza diritto di voto.
 
 Il comitato tecnico-scientifico e' validamente costituito quando e' presente la meta' piu' uno dei componenti in carica.
 
 Il presidente del comitato tecnico-scientifico, in base agli argomenti posti all'ordine del giorno e concordati con il dirigente della Scuola, ha facolta' di invitare ai lavori del comitato, a titolo consultivo e senza oneri aggiuntivi a carico della Scuola, persone interne o esterne alla Scuola, le cui competenze ed esperienze, siano utili per la trattazione e la soluzione di specifiche questioni.
+
+5.
+                    
+                        
+                            Il comitato tecnico-scientifico, ha funzioni consultive e tecniche di carattere generale per assicurare che le attivita' siano svolte in modo adeguato e rispondente alle esigenze della Scuola e coerenti con il sistema delle Scuole Europee. In particolare, il comitato tecnico-scientifico: 
+ 
+                        
+                        
+                            a)
+                            
+                                prepara il successivo svolgimento dei lavori del consiglio di amministrazione; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                elabora criteri generali organizzativo-gestionali della Scuola; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                elabora il piano annuale e pluriennale delle attivita' didattiche e amministrative da sottoporre, da parte del dirigente della Scuola, al consiglio di amministrazione, valutate le proposte in merito avanzate dal consiglio generale dei docenti; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                formula proposte al dirigente in merito al documento contabile annuale e al conto consuntivo della Scuola, nonche' di variazione al documento contabile annuale; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                esprime pareri su questioni di natura tecnico-scientifica poste dagli altri organi della Scuola; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                formula proposte per favorire l'innovazione metodologico-didattica, nonche' la programmazione dell'azione educativa; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                individua i criteri per la qualificazione, l'aggiornamento professionale e la valutazione del personale, nonche' per la collaborazione con enti esterni; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                si raccorda con i consigli di ispezione e i competenti organi delle Scuole Europee.
 
 Il comitato tecnico-scientifico si riunisce, in via ordinaria, una volta ogni due mesi e, in via straordinaria, secondo necessita' e su richiesta del presidente o di almeno la meta' piu' uno dei componenti. Il comitato dura in carica cinque anni e i componenti possono essere confermati una sola volta.
 
@@ -112,6 +479,73 @@ All'interno di ciascun ciclo e' costituito un gruppo di lavoro con compiti di co
 Il consiglio puo' decidere la formazione di ulteriori gruppi di lavoro per l'approfondimento di determinate tematiche e questioni.
 
 Le funzioni di segretario sono attribuite dal dirigente della Scuola ad uno dei membri del consiglio.
+
+6.
+                    
+                        
+                            Il consiglio generale dei docenti ha potere deliberante in materia di funzionamento didattico della Scuola e in particolare: 
+ 
+                        
+                        
+                            a)
+                            
+                                formula proposte al comitato tecnico-scientifico in ordine alla programmazione dell'azione educativa, anche al fine di favorire il coordinamento interdisciplinare; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                formula proposte al dirigente della Scuola relative alla formazione delle classi e all'assegnazione alle stesse dei docenti, alla predisposizione dell'orario delle lezioni e allo svolgimento delle attivita' didattiche; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                valuta periodicamente l'andamento complessivo dell'azione didattica per verificarne l'efficacia in rapporto agli obiettivi programmati; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                provvede all'adozione dei libri di testo; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                elegge i suoi rappresentanti in seno agli organi della Scuola; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                programma ed attua le iniziative per il sostegno agli alunni con bisogni specifici; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                provvede agli aspetti procedurali concernenti gli esami intermedi e finali; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                formula proposte al comitato tecnico-scientifico per la redazione di piani di sviluppo annuali e pluriennali della Scuola; 
+
+                            
+                        
+                        
+                            i)
+                            
+                                esprime pareri, su richiesta del dirigente della Scuola, al comitato tecnico-scientifico e al consiglio di amministrazione su questioni riguardanti aspetti didattici.
 
 Il Consiglio generale dei docenti si insedia all'inizio di ciascun anno scolastico e si riunisce una volta ogni trimestre, quando il dirigente della Scuola ne ravvisi la necessita', oppure su richiesta di un terzo dei suoi componenti.
 
@@ -150,6 +584,53 @@ Per la trattazione di specifici argomenti, il consiglio puo' decidere di articol
 
 Il consiglio di disciplina degli alunni, nominato dal dirigente della Scuola che lo presiede, e' composto da un docente del ciclo primario e tre docenti del ciclo secondario, uno per ciascuna sezione linguistica. Le funzioni di segretario sono attribuite dal dirigente a uno dei membri del consiglio stesso.
 
+2.
+                    
+                        
+                            Il consiglio tratta delle infrazioni disciplinari degli alunni che rivestono carattere di gravita' e decide, su proposta del consiglio di classe, i provvedimenti conseguenti, sulla base di quanto stabilito dal Regolamento generale delle Scuole Europee - Capitolo VI - Disciplina, articoli 40-44. 
+ Le misure disciplinari sono: 
+ 
+                        
+                        
+                            a)
+                            
+                                rimprovero; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                impegno lavorativo aggiuntivo; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                impegno lavorativo aggiuntivo con prolungamento della permanenza a Scuola oltre l'orario scolastico; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                avvertimento e/o sanzione da parte del dirigente, con o senza minaccia di sospensione; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                sospensione dalla Scuola, comminata direttamente dal dirigente fino ad un massimo di 3 giorni o comminata dal dirigente, su parere favorevole del consiglio di disciplina, fino ad un massimo di 15 giorni; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                espulsione dalla Scuola decisa dal dirigente, su parere favorevole del consiglio di disciplina.
+
 Le sospensioni ed espulsioni non sono ammesse nel ciclo primario.
 
 Contro la sospensione di durata superiore a 10 giorni o l'espulsione dalla Scuola e' ammesso ricorso al consiglio di amministrazione che decide ai sensi dell'articolo 6 del presente decreto.
@@ -179,6 +660,45 @@ La valutazione degli alunni segue, di norma, i criteri, le procedure, la scansio
  tecnico ed ausiliario della Scuola
 
 Il personale della Scuola si conforma a quanto previsto dall'ordinamento delle Scuole Europee di tipo I.
+
+2.
+                    
+                        
+                            Le categorie professionali del personale della Scuola sono le seguenti: 
+ 
+                        
+                        
+                            a)
+                            
+                                Personale docente; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                Segretario capo Per segretario capo si intende il profilo dell'amministratore contabile vigente nelle Scuole Europee, corrispondente al direttore dei servizi generali e amministrativi dei ruoli nazionali.; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                Assistente amministrativo; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                Assistente tecnico; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                Collaboratore scolastico.
 
 Alla copertura degli orari di cattedra non completi, nonche' dei posti del personale aggiuntivo di cui al successivo articolo 19 e alle supplenze per assenze superiori a 6 giorni, si provvede con contratti di prestazione d'opera nel limite massimo del 20% dei posti in organico e nel rispetto della copertura finanziaria fissata all'articolo 3 della citata legge 3 agosto 2009, n. 115. Il servizio prestato presso la Scuola e' equiparato a quello prestato presso le scuole nazionali statali.
 
@@ -211,6 +731,31 @@ Il personale amministrativo elegge i propri rappresentanti in seno agli organi d
 
 ## Art. 19. — Altre figure professionali del personale
 
+1.
+                    
+                        
+                            La Scuola puo' avvalersi delle figure professionali di seguito indicate, proprie dell'ordinamento delle Scuole Europee di tipo I: 
+ 
+                        
+                        
+                            a)
+                            
+                                Direttore aggiunto; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                Consigliere di educazione del ciclo secondario; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                Personale aggiuntivo di cui alla decisione del Consiglio Superiore delle Scuole Europee assunta in data 17-18 aprile 2007.
+
 Il direttore aggiunto assiste il dirigente della Scuola nell'esercizio delle sue funzioni. La nomina, che non si configura come atto dovuto, e' effettuata dal dirigente, sentito il consiglio di amministrazione, tra i docenti in servizio nella Scuola. Qualora le dimensioni della Scuola e le esigenze gestionali lo richiedano, puo' essere nominato un direttore aggiunto per il ciclo primario e uno per il ciclo secondario. Ad uno solo sono assegnate dal dirigente le funzioni vicarie, da esercitarsi in caso di assenza o impedimento del dirigente. Il direttore aggiunto puo' essere esonerato totalmente o parzialmente dall'insegnamento; in tal caso il carico dell'orario di servizio si raddoppia rispetto al normale orario di insegnamento da cui e' stato esonerato.
 
 Il consigliere di educazione per il ciclo secondario e' un docente incaricato dal dirigente di vigilare sugli alunni e di collaborare con il personale educativo. Puo' essere esonerato totalmente o parzialmente dall'insegnamento; in tal caso il carico dell'orario di servizio si raddoppia rispetto al normale orario di insegnamento da cui e' esonerato.
@@ -224,6 +769,59 @@ Il personale in servizio nella Scuola e' tenuto a dimorare ad una distanza dalla
 L'orario di servizio del personale assistente amministrativo, assistente tecnico, collaboratore scolastico e' pari a quello previsto dal contratto collettivo nazionale di lavoro del comparto scuola, con possibilita' di incremento, per esigenze della Scuola, fino ad un massimo del 10%.
 
 Per quanto concerne le assenze per malattia, le aspettative per motivi di famiglia, di lavoro, personali e di studio, le ferie, i permessi e le assenze, si applicano al personale della Scuola le disposizioni previste dai rispettivi contratti nazionali di lavoro valevoli in area metropolitana.
+
+4.
+                    
+                        
+                            La cessazione dell'incarico prima della scadenza puo' avvenire su disposizione del dirigente per: 
+ 
+                        
+                        
+                            a)
+                            
+                                riduzione dell'organico della Scuola; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                rinuncia all'incarico o dimissioni dal servizio; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                accertata incompatibilita' ambientale espressa dal dirigente della Scuola su conforme parere non vincolante del consiglio di amministrazione; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                valutazione negativa espressa dal dirigente; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                sanzioni disciplinari superiori alla censura o alla multa; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                assenza dal servizio per malattia superiore a 60 giorni; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                sospensione cautelare in caso di procedimento penale.
 
 Per le vertenze di lavoro del personale della Scuola, compresi l'arbitrato e la conciliazione, il Foro competente e' quello di Parma. La scuola puo' essere parte in giudizio.
 
@@ -308,6 +906,52 @@ L'Amministrazione centrale del Ministero vigilante fornisce alla Scuola, anche s
 Il documento contabile annuale, le eventuali variazioni ed il conto consuntivo sono trasmessi entro dieci giorni dalla deliberazione da parte del consiglio di amministrazione alla Direzione generale per la politica finanziaria e per il bilancio del Ministero vigilante ed a quello dell'economia e delle finanze, corredato della relativa documentazione.
 
 ## Art. 26. — Finanziamenti
+
+1.
+                    
+                        
+                            Per le spese di funzionamento amministrativo e didattico, incluse quelle relative al personale, la Scuola si avvale di: 
+ 
+                        
+                        
+                            a)
+                            
+                                contributo dello Stato di cui all'articolo 3, lettera B) della citata legge 3 agosto 2009, n. 115; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                contributo degli enti locali di cui all'articolo 2, commi 2 e 3, della citata legge 3 agosto 2009, n. 115; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                contributo delle Comunita' europee commisurato alla presenza di alunni della categoria I; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                proventi derivanti da tasse scolastiche; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                contributi degli enti pubblici e privati con i quali la Scuola ha concluso accordi; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                eventuali lasciti, donazioni ed elargizioni.
 
 ## Art. 27. — Collegio dei revisori dei conti
 

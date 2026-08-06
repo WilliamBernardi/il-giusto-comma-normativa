@@ -7,8 +7,8 @@ urn: urn:nir:ministero.giustizia:decreto:2014-11-10;170
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:41Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -32,9 +32,66 @@ Il presente regolamento disciplina le modalita' per l'elezione dei componenti de
 
 ## Art. 2. — Definizioni
 
+1.
+                        
+                            
+                                Ai fini del presente regolamento, si intende per: 
+ 
+                            
+                            
+                                a)
+                                
+                                    «legge», la legge 31 dicembre 2012, n. 247; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    «ordine», l'ordine circondariale forense costituito presso ciascun tribunale ai sensi dell'articolo 25 della legge; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    «consiglio», l'organo dell'ordine previsto dall'articolo 26, comma 1, lettera b), della legge e la cui composizione ed elezione e' disciplinata dall'articolo 28 della stessa legge e dal presente regolamento; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    «presidente», il presidente del consiglio di cui alla lettera c).
+
 ## - Capo II Modalita' di svolgimento delle elezioni
 
 ## Art. 3. — Tempo delle elezioni e determinazione dei seggi
+
+1.
+                        
+                            
+                                Il presidente, quando convoca l'assemblea per l'elezione del consiglio: 
+ 
+                            
+                            
+                                a)
+                                
+                                    determina il numero complessivo di componenti del consiglio ai sensi dell'articolo 28 della legge; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    determina il numero minimo dei seggi da assicurare al genere meno rappresentato che deve corrispondere almeno ad un terzo dei consiglieri da eleggere, arrotondato per difetto all'unita'; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    fissa, con provvedimento da adottarsi di regola entro il 10 dicembre dell'anno precedente le elezioni, le date di svolgimento delle elezioni da tenersi per non meno di due giorni e non piu' di sei giorni consecutivi tra loro, tra il lunedi' ed il sabato, per non meno di quattro ore consecutive nell'arco di ciascuna giornata. Al fine di garantire il corretto esercizio dei diritti di elettorato attivo e passivo e consentire la compilazione dell'albo comprensivo degli iscritti provenienti dagli ordini forensi soppressi al 31 dicembre 2014 a seguito del decreto legislativo 7 settembre 2012 n. 155 e a norma dell'articolo 65, comma 2, della legge, le elezioni del Consiglio dell'ordine accorpante, per il rinnovo dell'anno 2015, sono indette entro il 7 gennaio dello stesso anno. Gli iscritti nell'albo dell'ordine soppresso al 31 dicembre 2014 sono iscritti di diritto, a decorrere dal 1° gennaio 2015, nell'albo dell'ordine accorpante, salve le domande di iscrizione ad altri Ordini presentate prima di tale data.
 
 Effettuate le determinazioni di cui al comma 1, il presidente ne cura la pubblicazione nel sito internet istituzionale del proprio ordine e ne da' comunicazione al Consiglio nazionale forense. La pubblicazione nel sito internet istituzionale ha valore di pubblicita' notizia.
 
@@ -116,6 +173,24 @@ Le operazioni di voto si svolgono all'interno del seggio elettorale nei locali d
 
 Nel seggio elettorale devono essere allestite le cabine elettorali o, comunque, strutture tali da garantire agli elettori la segretezza del voto.
 
+3.
+                        
+                            
+                                All'interno del seggio elettorale devono essere esposti e depositati, in piu' copie conformi tra loro, a disposizione di tutti gli elettori: 
+ 
+                            
+                            
+                                a)
+                                
+                                    l'elenco in ordine alfabetico degli avvocati che abbiano presentato la propria candidatura; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'elenco, in ordine di presentazione, delle liste recanti ognuna l'indicazione dei nominativi di tutti i componenti.
+
 Non sono ammessi all'interno del seggio altri elenchi o scritti di qualsivoglia natura o materiale di propaganda elettorale.
 
 La permanenza nel seggio elettorale e' consentita ai soli componenti della commissione elettorale che devono sovraintendere alle operazioni di voto mentre l'accesso al seggio elettorale e' consentito agli elettori per il tempo strettamente necessario all'espressione di voto.
@@ -128,6 +203,38 @@ Le operazioni di voto si aprono con la costituzione del seggio elettorale format
 
 Le operazioni di voto durano non meno di quattro ore consecutive e non piu' di otto ore nelle giornate fissate e si concludono tassativamente all'ultima ora fissata dell'ultimo giorno stabilito.
 Immediatamente dopo si procede allo scrutinio delle schede.
+
+4.
+                        
+                            
+                                Il presidente del seggio, nell'ora indicata nell'avviso di convocazione: 
+ 
+                            
+                            
+                                a)
+                                
+                                    verifica la regolare costituzione del seggio elettorale, dandone atto nel verbale delle operazioni elettorali e di voto, predispone un'urna debitamente sigillata, nonche' una o piu' cabine elettorali; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    dichiara pubblicamente aperta la tornata elettorale e da' inizio alle operazioni di voto; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    verifica e decide in merito ad eventuali contestazioni; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    nomina tra i presenti, non componenti il consiglio dell'ordine e non candidati, scrutatori in numero non inferiore a quattro.
 
 Per la validita' delle operazioni elettorali e' necessaria la presenza di almeno tre componenti del seggio.
 
@@ -145,11 +252,142 @@ Scaduto l'orario dell'ultima giornata elettorale, il presidente del seggio dichi
 
 Con delibera del consiglio puo' essere disposto che le votazioni avvengano attraverso espressione di un voto telematico.
 
+2.
+                        
+                            
+                                Il sistema informatico per la registrazione dei voti dovra' avere almeno le seguenti caratteristiche: 
+ 
+                            
+                            
+                                a)
+                                
+                                    prevedere un archivio digitale contenente la lista di tutti gli iscritti aventi diritto di voto e la lista dei candidati; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    assicurare una procedura che preveda l'utilizzo di almeno tre password diverse che devono essere combinate tra loro per l'abilitazione del sistema di voto e di tutte le cabine elettroniche installate. Due password sono consegnate al presidente ed al segretario della commissione elettorale, mentre la terza e' rilasciata al referente informatico designato, contestualmente all'inizio delle operazioni, dalla societa' informatica che gestisce il sistema di voto telematico; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    prevedere che il sistema possa essere attivato solamente in presenza di tutte le persone in possesso della password; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    prevedere che il riconoscimento e l'abilitazione dell'elettore al voto avvenga tramite apposite funzioni che consentono di verificare: l'identita' del votante, utilizzando la funzione di ricerca tramite lettore di badge o con l'inserimento del codice fiscale; la registrazione dell'avente diritto al voto; che il votante non abbia gia' votato; l'avvenuto voto da parte dell'iscritto; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    prevedere che al termine della fase di voto, dopo la conferma, emetta una ''scheda di voto'' che dal votante e' inserita, previa personale verifica sulla conformita' alla scelta effettuata, nella apposita urna; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    prevedere il "blocco" al termine del voto di ogni iscritto della postazione, in attesa dell'attivazione dell'elettore successivo; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    prevedere che, nel caso in cui le fasi di voto avvengano in momenti o giorni diversi, consenta la procedura di "sospensione", disabilitando tutte le sue funzioni per impedire qualsiasi accesso al sistema ed ai dati che contiene, e la "riattivazione" delle procedure di voto recuperando le informazioni salvate nel momento della sospensione e riabilitando le funzioni della votazione. Entrambe le procedure di sospensione e riattivazione sono effettuate utilizzando le stesse password di cui alla lettera b); 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    prevedere che in nessun momento sia possibile avere risultati parziali o accedere ai risultati fino al momento in cui non viene effettuata la chiusura definitiva delle votazioni; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    prevedere che al termine delle fasi di voto, sempre mediante l'utilizzo delle tre password di cui alla lettera b), sia consentito di eseguire la chiusura definitiva del sistema impedendo qualsiasi ulteriore accesso e che solo dopo la chiusura definitiva del sistema siano forniti i risultati.
+
 Le urne, nelle quali sono poste le ricevute di voto dagli elettori, sono sigillate dalla commissione elettorale e conservate per un anno presso il consiglio. L'apertura delle urne e l'esame delle relative ricevute avviene solo in caso di contestazioni o necessita' di ulteriori controlli.
 
 L'accesso alle postazioni elettorali, che garantiscono la riservatezza del voto, avviene previa identificazione del votante e del suo diritto al voto da personale del consiglio e sotto il controllo della commissione elettorale. La stessa commissione controlla poi che ogni votante deponga nell'urna la ricevuta del suo voto.
 
 ## Art. 13. — Scrutinio delle schede
+
+1.
+                        
+                            
+                                Nello svolgimento delle operazioni di scrutinio sono adottati i seguenti criteri: 
+ 
+                            
+                            
+                                a)
+                                
+                                    quando un candidato sia indicato unicamente con il cognome e negli elenchi compaiano piu' candidati con il medesimo cognome, la sola preferenza e' nulla e non conteggiata; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    quando un candidato sia indicato con il cognome esatto ma con il nome errato, al candidato e' attribuito il voto se l'indicazione formulata non corrisponde a quello di altro candidato; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    quando un candidato con doppio cognome sia indicato con uno solo dei due cognomi, ove il nome sia esatto il voto sara' attribuito come valido al candidato; ove manchi il nome si applica il criterio di cui alla lettera a);
+
+2.
+                        
+                            
+                                Sono nulle le schede che: 
+ 
+                            
+                            
+                                a)
+                                
+                                    non hanno le caratteristiche di cui all'articolo 9, salvo quanto previsto al comma 1; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    sono compilate, anche in parte, con l'uso della dattilografia; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    contengono segni diversi dall'espressione di voto; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    contengono un numero di preferenze superiore a quello consentito; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    consentono comunque di riconoscere l'elettore.
 
 ## Art. 14. — Proclamazione degli eletti
 

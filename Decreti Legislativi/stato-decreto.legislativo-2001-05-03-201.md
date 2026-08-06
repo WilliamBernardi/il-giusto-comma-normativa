@@ -8,8 +8,8 @@ codice_redazionale: 001G0257
 vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:23Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -91,6 +91,238 @@ Al decreto legislativo 5 ottobre 2000, n. 334, dopo l'articolo 65 e' inserito il
  3. Le disposizioni di cui ai commi 1 e 2 si applicano, altresi', ai funzionari delle corrispondenti qualifiche delle Forze di Polizia ad ordinamento civile.".
 
 ## Art. 8.
+
+1.
+                    
+                        
+                            Al decreto legislativo 5 ottobre 2000, n. 334, sono apportate le seguenti ulteriori modifiche:
+ 
+                        
+                        
+                            a)
+                            
+                                all'articolo 2:
+ 1) prima del comma 1, e' anteposto il seguente:
+ "01. Il personale di cui al presente Capo esercita, secondo i livelli di responsabilita' e gli ambiti di competenza correlati alla qualifica ricoperta, i compiti e le funzioni di cui al presente articolo e quelli che le disposizioni vigenti attribuiscono al medesimo personale.";
+ 2) il comma 10 e' sostituito dal seguente:
+ "10. Nulla e' innovato per quanto attiene all'equiparazione, nell'ambito degli uffici e delle direzioni centrali del Dipartimento della pubblica sicurezza, tra i funzionari di cui al presente capo e il personale delle altre amministrazioni dello Stato, anche ad ordinamento autonomo, di corrispondente grado, qualifica o livello dirigenziale, o, quando non vi sia corrispondenza, preposto a uffici di pari livello, anche ai fini della sostituzione dei titolari degli uffici in caso di assenza o impedimento.";
+
+                            
+                        
+                        
+                            b)
+                            
+                                all'articolo 3, il comma 3 e' sostituito dal seguente:
+ "3. Con regolamento del Ministro dell'interno, da emanare ai sensi dell'articolo 17, comma 3, della legge 23 agosto 1988, n. 400, sono previste le eventuali forme di preselezione per la partecipazione al concorso, le prove di esame, scritte ed orali, le prime in numero non inferiore a due, le modalita' di svolgimento del concorso, di composizione della commissione esaminatrice e di formazione della graduatoria.";
+
+                            
+                        
+                        
+                            c)
+                            
+                                all'articolo 4, comma 6, sono soppresse le parole: "e i programmi";
+
+                            
+                        
+                        
+                            d)
+                            
+                                all'articolo 7:
+ 1) dopo il comma 1 e' inserito il seguente:
+ "1-bis. I posti non coperti del concorso di cui al comma 1, lettera b), sono portati in aumento a quelli riservati, nello stesso anno, per l'ammissione al corso di formazione per l'accesso alla qualifica di primo dirigente, di cui alla lettera a), del medesimo comma.";
+ 2) al comma 4 sono soppresse le parole: "e i programmi";
+
+                            
+                        
+                        
+                            e)
+                            
+                                all'articolo 17, comma 4, sono soppresse le parole: "e i programmi";
+
+                            
+                        
+                        
+                            f)
+                            
+                                all'articolo 22, dopo il comma 1 e' aggiunto il seguente:
+ "1-bis. Durante la frequenza del corso di cui al comma 1, i vincitori del concorso rivestono la qualifica di commissario.
+Superato l'esame finale del corso gli stessi sono confermati nel ruolo dei commissari con la qualifica di commissario capo.";
+
+                            
+                        
+                        
+                            g)
+                            
+                                all'articolo 23 il comma 1 e' sostituito dal seguente:
+ "1. Per le promozioni da conferire con riferimento alle vacanze disponibili fino al 31 dicembre 2000 continuano ad applicarsi le disposizioni vigenti alla data di entrata in vigore del presente decreto, comprese quelle relative alle dotazioni organiche del ruolo dei commissari e dei dirigenti, salvo quanto previsto dal comma 4. Le medesime disposizioni si applicano anche alle altre promozioni da conferire con decorrenza anteriore al 15 marzo 2001.";
+
+                            
+                        
+                        
+                            h)
+                            
+                                all'articolo 24:
+ 1) al comma 1 e' soppressa la parola: "annualmente" e le parole: "dell'anno precedente" sono sostituite dalle seguenti: "di ogni anno";
+ 2) al comma 3 le parole: "per i rispettivi concorsi dell'anno successivo.", sono sostituite dalle seguenti: "per i rispettivi concorsi successivi a quello in cui non sono stati coperti tutti i posti.";
+
+                            
+                        
+                        
+                            i)
+                            
+                                all'articolo 25:
+ 1) il comma 2 e' sostituito dal seguente:
+ "2. Ai concorsi puo' partecipare il suddetto personale in possesso del titolo di studio di scuola media superiore o equivalente, appartenente al ruolo degli ispettori al 31 agosto 1995, che al 1o gennaio di ciascuno degli anni indicati al comma 1 ha maturato almeno dieci anni di effettivo servizio nel ruolo, ovvero, tre anni nella qualifica di ispettore superiore - sostituto ufficiale di pubblica sicurezza e che, alla data dei relativi bandi, non si trovi, nelle condizioni ostative previste dall'articolo 16, comma 2. Al medesimo personale si applicano le disposizioni di cui all'articolo 24 della legge 1o febbraio 1989, n. 53.";
+ 2) al comma 3, l'ultimo periodo e' sostituito dal seguente: "Si applicano le disposizioni di cui all'articolo 18, ma i periodi massimi di assenza di cui al comma 1, lettera e), del medesimo articolo, e quelli di cui all'articolo 5, comma 2, sono ridotti della meta'.";
+
+                            
+                        
+                        
+                            j)
+                            
+                                all'articolo 31:
+ 1) il comma 3 e' sostituito dal seguente:
+ "3. Con il regolamento di cui all'articolo 3, comma 3, sono previste le eventuali forme di preselezione per la partecipazione al concorso, le prove di esame sulle materie attinenti ai profili professionali, scritte ed orali, le prime in numero non inferiore a due, le modalita' di svolgimento del concorso, di composizione della commissione esaminatrice e di formazione della graduatoria, le categorie dei titoli da ammettere a valutazione ed il punteggio da attribuire a ciascuna di esse.";
+ 2) al comma 4 le parole: "e gli appartenenti al ruolo dei periti tecnici.", sono sostituite dalle seguenti: "gli appartenenti al ruolo dei periti tecnici e gli appartenenti al ruolo speciale ad esaurimento dei direttori tecnici.";
+
+                            
+                        
+                        
+                            k)
+                            
+                                all'articolo 32 i commi 2 e 3 sono sostituiti dai seguenti:
+ "2. Le modalita' di svolgimento del corso di formazione iniziale, le modalita' di attribuzione del giudizio di idoneita', di svolgimento dell'esame finale, nonche' di formazione della graduatoria finale sono determinate con il regolamento di cui all'articolo 4, comma 6.
+ 3. Si applicano le disposizioni di cui all'articolo 5, ma i periodi massimi di assenza di cui al comma 1, lettera e), e al comma 2, sono ridotti della meta'.";
+
+                            
+                        
+                        
+                            l)
+                            
+                                all'articolo 34:
+ 1) al comma 1, alle lettere a) e b), dopo le parole: "posti disponibili", sono inserite le seguenti: "in ciascun ruolo";
+ 2) al comma 1, lettera a), dopo le parole: "Allo scrutinio per merito comparativo e' ammesso il personale del", e' inserita la seguente: "corrispondente";
+ 3) al comma 1, lettera b), dopo le parole: "mediante concorso per titoli ed esami riservato al personale" sono inserite le seguenti: "del corrispondente ruolo";
+ 4) dopo il comma 1, e' inserito il seguente:
+ "1-bis. I posti non coperti del concorso di cui al comma 1, lettera b), sono portati in aumento a quelli riservati, nello stesso anno, per l'ammissione al corso di formazione per l'accesso alla qualifica di primo dirigente tecnico, di cui alla precedente lettera a), del medesimo comma.";
+
+                            
+                        
+                        
+                            m)
+                            
+                                all'articolo 35, comma 6, la lettera a) e' sostituita dalla seguente: "a) due dirigenti dei ruoli tecnici con qualifica di dirigente superiore;";
+
+                            
+                        
+                        
+                            n)
+                            
+                                all'articolo 37:
+ 1) al comma 1 le parole: "si applicano gli articoli 13 e 27." sono sostituite dalle seguenti: "si applicano gli articoli 13, 27 e 28-bis.";
+ 2) dopo il comma 1 e' aggiunto il seguente:
+ "1-bis. L'articolo 27 si applica anche al personale appartenente ai ruoli dei dirigenti e dei direttori tecnici della Polizia di Stato, gia' in servizio presso altre Amministrazioni dello Stato alla data di entrata in vigore del decreto del Presidente della Repubblica 24 aprile 1982, n. 337, e successivamente immessi nei predetti ruoli.".
+
+                            
+                        
+                        
+                            o)
+                            
+                                all'articolo 38 il comma 1 e' sostituito dal seguente:
+ "1. Per le promozioni da conferire con riferimento alle vacanze disponibili fino al 31 dicembre 2000 continuano ad applicarsi le disposizioni vigenti alla data di entrata in vigore del presente decreto, comprese quelle relative alle dotazioni organiche dei ruoli dei direttori tecnici e dei dirigenti tecnici. Le medesime disposizioni si applicano anche alle altre promozioni da conferire con decorrenza anteriore al 15 marzo 2001.";
+
+                            
+                        
+                        
+                            p)
+                            
+                                all'articolo 39, dopo il comma 1 sono aggiunti i seguenti:
+ "1-bis. Durante la frequenza del corso di cui al comma 1, i vincitori del concorso rivestono la qualifica di direttore tecnico.
+Superato l'esame finale del corso gli stessi sono confermati nel ruolo dei direttori tecnici con la qualifica di direttore tecnico principale.
+ 1-ter. Nell'ambito del contingente complessivo di personale della Polizia di Stato da assumere in relazione alle autorizzazioni per l'anno 2001, ai sensi dell'articolo 39, comma 3, della legge 27 dicembre 1997, n. 449, e successive modificazioni, la graduatoria di merito degli idonei del primo concorso straordinario per l'accesso alle qualifiche iniziali dei ruoli dei direttori tecnici, indetto ai sensi dell'articolo 7 della legge 28 marzo 1997, n. 85, rimane efficace per la copertura dei posti disponibili in ciascun ruolo, riferiti alle dotazioni organiche indicate nella tabella 4 allegata al presente decreto, fino al raggiungimento del limite del cinquanta per cento delle vacanze complessive alla data di entrata in vigore del medesimo decreto.";
+
+                            
+                        
+                        
+                            q)
+                            
+                                all'articolo 41, il comma 6 e' sostituito dal seguente:
+ "6. Si applicano le disposizioni di cui all'articolo 18, salvo che per i periodi massimi di assenza di cui al comma 1, lettera e), del medesimo articolo e quelli di cui all'articolo 5, comma 2, che sono ridotti della meta'.";
+
+                            
+                        
+                        
+                            r)
+                            
+                                all'articolo 42:
+ 1) al comma 1, dopo le parole: "nel limite dei posti disponibili" sono inserite le seguenti: "al 31 dicembre di ogni anno":
+ 2) dopo il comma 2, e' inserito il seguente:
+ "2-bis. Per le promozioni di cui ai commi 1 e 2 si applicano le disposizioni di cui all'articolo 59.";
+
+                            
+                        
+                        
+                            s)
+                            
+                                all'articolo 46, il comma 2 e' sostituito dal seguente:
+ "2. Con il regolamento di cui all'articolo 3, comma 3, sono previste le eventuali forme di preselezione per la partecipazione al concorso, le prove di esame scritteed orali, le prime in numero non inferiore a due, le modalita' di svolgimento del concorso, di composizione della commissione esaminatrice e di formazione della graduatoria, le categorie dei titoli da ammettere a valutazione ed il punteggio da attribuire a ciascuna di esse.";
+
+                            
+                        
+                        
+                            t)
+                            
+                                all'articolo 47, i commi 2 e 3 sono sostituiti dai seguenti:
+ "2. Le modalita' di svolgimento del corso di formazione iniziale, le modalita' di attribuzione del giudizio di idoneita', di svolgimento dell'esame finale e di formazione della graduatoria finale sono determinate con il regolamento di cui all'articolo 4, comma 6.
+ 3. Si applicano le disposizioni di cui all'articolo 5, ma i periodi massimi di assenza di cui al comma 1, lettera e), e al comma 2, sono ridotti della meta'.";
+
+                            
+                        
+                        
+                            u)
+                            
+                                all'articolo 49, dopo il comma 1 e' inserito il seguente:
+ "1-bis. I posti non coperti del concorso di cui al comma 1, lettera b), sono portati in aumento a quelli riservati, nello stesso anno, per l'ammissione al corso di formazione per l'accesso alla qualifica di primo dirigente medico, di cui alla lettera a) dello stesso comma.";
+
+                            
+                        
+                        
+                            v)
+                            
+                                all'articolo 53, comma 1, le parole: "gli articoli 13 e 27." sono sostituite dalle seguenti: "gli articoli 13, 27, 28 e 28-bis.";
+
+                            
+                        
+                        
+                            w)
+                            
+                                all'articolo 54 il comma 1 e' sostituito dal seguente:
+ "1. Per le promozioni da conferire con riferimento alle vacanze disponibili fino al 31 dicembre 2000 continuano ad applicarsi le disposizioni vigenti alla data di entrata in vigore del presente decreto, comprese quelle relative alle dotazioni organiche del ruolo dei direttivi medici e dei dirigenti medici. Le medesime disposizioni si applicano anche alle altre promozioni da conferire con decorrenza anteriore al 15 marzo 2001.";
+
+                            
+                        
+                        
+                            x)
+                            
+                                all'articolo 68, comma 3, al terzo capoverso, le parole: "all'allegata tabella 6 di equiparazione e," sono sostituite dalle seguenti: "alla tabella 6 di equiparazione allegata al decreto legislativo 5 ottobre 2000, n. 334, e,";
+
+                            
+                        
+                        
+                            y)
+                            
+                                all'articolo 69 del decreto legislativo 5 ottobre 2000, n. 334, dopo il comma 1 e' aggiunto il seguente:
+ "1-bis. Con decorrenza 15 marzo 2001 sono, altresi', abrogate le seguenti disposizioni:
+ a) gli articoli 34, 35, 36 e 37 del decreto del Presidente della Repubblica 24 aprile 1982, n. 335;
+ b) gli articoli 34, 35, 36 e 37 del decreto del Presidente della Repubblica 24 aprile 1982, n. 337;
+ c) gli articoli 9, 10, 12 e 13 del decreto del Presidente della Repubblica 24 aprile 1982, n. 338.";
+
+                            
+                        
+                        
+                            z)
+                            
+                                alla tabella 5, nella individuazione delle funzioni del dirigente superiore medico, e' soppressa, in fine, la parola: "periferico".
 
 ## Art. 9.
 

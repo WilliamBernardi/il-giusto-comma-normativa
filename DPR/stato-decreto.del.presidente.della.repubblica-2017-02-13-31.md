@@ -8,8 +8,8 @@ vigente: true
 source: normattiva-opendata
 collection: DPR
 vigenza_date: 2026-05-24
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:48:14Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -31,6 +31,52 @@ Sulla proposta del Ministro dei beni e delle attivita' culturali e del turismo;
 
 ## Art. 1. — Definizioni
 
+1.
+                        
+                            
+                                Nel testo e negli Allegati «A», «B», «C» e «D» che costituiscono parte integrante del presente decreto: 
+ 
+                            
+                            
+                                a)
+                                
+                                    «Codice» e' il Codice dei beni culturali e del paesaggio di cui al decreto legislativo 22 gennaio 2004, n. 42, e successive modificazioni; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    «Ministero» e' il Ministero dei beni e delle attivita' culturali e del turismo; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    «amministrazione procedente» e' la regione, ovvero l'ente delegato al rilascio dell'autorizzazione paesaggistica; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    «Soprintendenza» e' l'ufficio periferico del Ministero competente al rilascio dei pareri in materia di autorizzazioni paesaggistiche; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    «accordi di collaborazione» sono gli accordi stipulati tra il Ministero, la regione e gli enti locali di cui all'articolo 25 del decreto-legge 12 settembre 2014, n. 133, convertito, con modificazioni, dalla legge 11 novembre 2014, n. 164; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    «vincolo paesaggistico» e' quello imposto ai sensi degli articoli 140, 141 e 143 del Codice o delle previgenti norme, ovvero quello previsto dall'articolo 142 del Codice.
+
 ## Art. 2. — Interventi ed opere non soggetti 
  ad autorizzazione paesaggistica
 
@@ -44,6 +90,24 @@ Interventi ed opere di lieve entita' soggetti
 Sono soggetti al procedimento autorizzatorio semplificato di cui al Capo II gli interventi ed opere di lieve entita' elencati nell'Allegato «B».
 
 ## Art. 4. — Esonero dall'obbligo di autorizzazione paesaggistica per particolari categorie di interventi
+
+1.
+                        
+                            
+                                Qualora nel provvedimento di vincolo, ovvero nel piano paesaggistico, siano contenute le specifiche prescrizioni d'uso intese ad assicurare la conservazione e la tutela del bene paesaggistico, le seguenti categorie di interventi ed opere sono esonerate dall'obbligo di autorizzazione paesaggistica semplificata: 
+ 
+                            
+                            
+                                a)
+                                
+                                    gli interventi e le opere di cui alle voci A.2, ultimo periodo, A.5, A.7, A.13 e A.14 dell'Allegato «A», sottoposti al procedimento autorizzatorio semplificato in base al combinato disposto delle corrispondenti voci degli Allegati «A» e «B» nel caso in cui riguardino aree o immobili vincolati ai sensi dell'articolo 136, comma 1, del Codice, lettere a),
+                                
+                            
+                            
+                                b)
+                                
+                                    e c), limitatamente, per quest'ultima, agli immobili di interesse storico-architettonico o storico-testimoniale, ivi compresa l'edilizia rurale tradizionale, isolati o ricompresi nei centri o nuclei storici; 
+ b) gli interventi e le opere di cui alle voci B.6, B.13, B.26 e B.36.
 
 La regione e il Ministero danno adeguata pubblicita' sui rispettivi siti istituzionali della riscontrata condizione di esonero dall'obbligo di cui al comma 1. L'esonero decorre dalla data di pubblicazione del relativo avviso sui siti istituzionali.
 

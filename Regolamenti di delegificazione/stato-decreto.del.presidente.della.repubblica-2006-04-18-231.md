@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Regolamenti di delegificazione
 vigenza_date: 2015-09-24
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:40:24Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -36,7 +36,127 @@ Il presente regolamento disciplina l'arruolamento dei lavoratori marittimi appar
 
 ## Art. 2. — Definizioni
 
+1.
+                        
+                            
+                                Ai fini del presente regolamento si intende per:
+ 
+                            
+                            
+                                a)
+                                
+                                    «gente di mare»: il personale marittimo di cui all'articolo 115 del codice della navigazione;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    «armatore»: la persona fisica o il soggetto giuridico che esercita l'impresa di navigazione ai sensi dell'articolo 265 del codice della navigazione;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    «servizi di collocamento della gente di mare»: gli uffici di collocamento di cui all'articolo 5, comma 1, nel prosieguo denominati «uffici di collocamento della gente di mare», ovvero gli organismi autorizzati all'esercizio dell'intermediazione nel lavoro marittimo, di cui alle lettere g) e h);
+
+                                
+                            
+                            
+                                d)
+                                
+                                    «anagrafe della gente di mare»: l'elenco dei lavoratori marittimi con cittadinanza italiana o comunitaria disponibili ad arruolarsi per prestare servizio a bordo di navi italiane, costituito quale sezione speciale dell'elenco anagrafico dei lavoratori, di cui agli articoli 4 e 7 del decreto del Presidente della Repubblica 7 luglio 2000, n. 442;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    «scheda professionale»: documento che contiene i dati anagrafici e professionali del personale marittimo di cui alla lettera a);
+
+                                
+                            
+                            
+                                f)
+                                
+                                    «borsa del lavoro marittimo»: sistema aperto di incontro tra domanda ed offerta di lavoro del settore marittimo, finalizzato a favorire la maggiore efficienza e trasparenza del mercato del lavoro marittimo;
+
+                                
+                            
+                            
+                                g)
+                                
+                                    «enti bilaterali del lavoro marittimo»: gli organismi costituiti a iniziativa di una o piu' associazioni nazionali degli armatori e dei lavoratori marittimi quali sedi privilegiate per la regolazione del mercato del lavoro marittimo attraverso: l'intermediazione nell'incontro tra domanda ed offerta di lavoro marittimo; la gestione delle procedure di collocamento; il monitoraggio delle attivita' e dei servizi di cui al presente regolamento;
+
+                                
+                            
+                            
+                                h)
+                                
+                                    «comitato centrale per il coordinamento in materia di collocamento della gente di mare»: Comitato istituito ai sensi dell'articolo 5;
+
+                                
+                            
+                            
+                                i)
+                                
+                                    «autorizzazione»: provvedimento mediante il quale il Ministero del lavoro e delle politiche sociali abilita gli enti bilaterali del lavoro marittimo e le agenzie per il lavoro di cui all'articolo 4 del decreto legislativo 10 settembre 2003, n. 276, allo svolgimento dell'attivita' di intermediazione.
+
 ## Art. 3. — Principi generali
+
+1.
+                        
+                            
+                                Il fine di realizzare un sistema efficace e coerente di strumenti per migliorare le opportunita' di reclutamento degli inoccupati e disoccupati, come definiti dall'articolo 1 del decreto legislativo 21 aprile 2001, n. 181, e' perseguito attraverso i principi e le iniziative di seguito elencati:
+ 
+                            
+                            
+                                a)
+                                
+                                    viene istituita l'anagrafe nazionale della gente di mare, nella quale sono registrati i lavoratori marittimi in possesso dei requisiti prescritti dalla legge per prestare servizio di navigazione;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    viene costituita la Borsa nazionale del lavoro marittimo, nell'ambito della Borsa continua del lavoro di cui all'articolo 15 del decreto legislativo 10 settembre 2003, n. 276;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    viene introdotto il principio dell'assunzione diretta con obbligo di comunicazione contestuale al servizio di collocamento marittimo, fatte salve le eccezioni espressamente previste;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    viene abolito il regime di collocamento obbligatorio e stabiliti i principi per l'individuazione degli operatori privati abilitati a fornire servizi di intermediazione nel settore marittimo;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    viene introdotto un sistema di monitoraggio per migliorare la conoscenza dei fenomeni specifici del settore ed a supporto di mirate politiche attive del lavoro;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    viene rivisto il regime sanzionatorio, in analogia con quanto previsto agli articoli 18 e 19 del decreto legislativo 10 settembre 2003, n. 276;
+
+                                
+                            
+                            
+                                g)
+                                
+                                    vengono abrogate le disposizioni incompatibili con la nuova regolamentazione del collocamento del lavoro marittimo.
 
 ## - Titolo II ORGANISMI E PROCEDURE DEL COLLOCAMENTO DELLA GENTE DI MARE  Capo I Organismi del collocamento della gente di mare
 
@@ -58,6 +178,52 @@ Con decreto del Presidente della Repubblica, da emanarsi ai sensi dell'articolo 
 
 ## Art. 6. — Funzioni e competenze dei servizi di collocamento
 
+1.
+                        
+                            
+                                Gli uffici di collocamento della gente di mare di cui all'articolo 5, comma 1, svolgono le seguenti funzioni:
+ 
+                            
+                            
+                                a)
+                                
+                                    gestione degli elenchi anagrafici dei lavoratori marittimi disponibili all'arruolamento;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    gestione della scheda professionale dei lavoratori inseriti nell'elenco anagrafico;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    accertamento e verifica dello stato di disoccupazione e della disponibilita' al lavoro marittimo;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    preselezione ed incontro tra domanda e offerta di lavoro;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    registrazione delle comunicazioni obbligatorie degli armatori in materia di arruolamento;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    monitoraggio statistico delle consistenze e dei flussi di lavoro marittimo.
+
 Entro 120 giorni dalla data di entrata in vigore del presente regolamento, e sempre che sia stata concessa l'autorizzazione di cui al comma 3 dell'articolo 5, il Comitato centrale per il coordinamento in materia di collocamento della gente di mare, puo' stipulare, senza nuovi o maggiori oneri a carico della finanza pubblica, con gli enti bilaterali del lavoro marittimo una convenzione avente per oggetto l'affidamento delle funzioni e dei compiti di cui al comma 1. La convenzione definisce, altresi', le modalita' di raccordo tra gli enti bilaterali e gli uffici di collocamento della gente di mare, al fine di assicurare le caratteristiche unitarie dell'anagrafe e della scheda professionale e lo sviluppo della borsa nazionale del lavoro marittimo.
 
 ## - Capo II Procedure del collocamento della gente di mare
@@ -72,6 +238,45 @@ Per l'iscrizione di minori degli anni diciotto e' necessario il consenso di chi 
 
 ((COMMA ABROGATO DAL D.LGS. 14 SETTEMBRE 2015, N. 151)).
 
+5.
+                        
+                            
+                                L'elenco anagrafico della gente di mare e' aggiornato su istanza dell'interessato ovvero d'ufficio nei seguenti casi: 
+ 
+                            
+                            
+                                a)
+                                
+                                    per superamento dei limiti massimi di eta', salvo i casi di deroga consentiti dalle disposizioni vigenti; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    per morte dell'interessato; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    nel caso di perdita dei requisiti e di cancellazione dalle matricole; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    per abbandono dell'attivita' marittima o per indisponibilita' all'imbarco prolungata per oltre due anni; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    sulla base delle comunicazioni obbligatorie da parte degli armatori, di cui all'articolo 11.
+
 ## Art. 8. — Scheda professionale e classificazione del personale
 
 
@@ -84,6 +289,24 @@ Il lavoratore marittimo, registrato nell'elenco anagrafico, allorche' sia privo 
 
 A seguito della dichiarazione di disponibilita' gli uffici di collocamento della gente di mare provvedono a darne diffusione in ambito nazionale, avvalendosi dei servizi della borsa continua del lavoro marittimo, di cui all'articolo 10.
 
+3.
+                        
+                            
+                                La permanenza nella condizione di cui al comma 1 deve essere verificata dagli uffici di collocamento della gente di mare con le seguenti modalita':
+ 
+                            
+                            
+                                a)
+                                
+                                    sulla base di colloqui periodici da attivarsi entro tre mesi dalla dichiarazione di disponibilita';
+
+                                
+                            
+                            
+                                b)
+                                
+                                    sulla base delle comunicazioni degli armatori di cui all'articolo 11.
+
 Entro trenta giorni dalla cessazione del rapporto di lavoro, il lavoratore marittimo rinnova la dichiarazione di disponibilita' di cui al comma 1 ai servizi di collocamento.
 
 ## Art. 10. — ((ARTICOLO ABROGATO DAL D.LGS. 14 SETTEMBRE 2015, N. 151))
@@ -94,6 +317,80 @@ Entro trenta giorni dalla cessazione del rapporto di lavoro, il lavoratore marit
 
 Gli armatori e le societa' di armamento procedono all'arruolamento della gente di mare mediante assunzione diretta.
 Dell'avvenuta assunzione sono tenuti a dare comunicazione contestuale agli uffici di collocamento della gente di mare nel cui ambito territoriale si verifica l'imbarco.
+
+2.
+                        
+                            
+                                La comunicazione di assunzione diretta deve contenere:
+ 
+                            
+                            
+                                a)
+                                
+                                    le generalita' dell'armatore e della societa' di armamento;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il nome e il numero della nave sulla quale l'arruolato presta servizio;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    le generalita' dell'arruolato e la sua posizione anagrafica;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    l'avvenuta registrazione nei documenti di bordo;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    la qualifica e le mansioni dell'arruolato;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    la tipologia di contratto stipulato, la decorrenza e la durata;
+
+                                
+                            
+                            
+                                g)
+                                
+                                    la forma e la misura della retribuzione;
+
+                                
+                            
+                            
+                                h)
+                                
+                                    il luogo e la data di conclusione del contratto;
+
+                                
+                            
+                            
+                                i)
+                                
+                                    l'indicazione del contratto collettivo di lavoro qualora applicato;
+
+                                
+                            
+                            
+                                l)
+                                
+                                    una dichiarazione del datore di lavoro che attesti il rispetto di tutte le clausole del CCNL di categoria in materia di assunzione dei lavoratori.
 
 L'armatore e la societa' di armamento, inoltre, sono tenuti a comunicare agli uffici di collocamento della gente di mare, nel cui ambito territoriale si e' verificato l'imbarco, entro cinque giorni la cessazione del rapporto di lavoro nel caso di rapporto a tempo indeterminato.
 
@@ -110,6 +407,45 @@ Restano ferme le disposizioni sanzionatorie di cui agli articoli 18, comma 1, e 
 ## - Titolo III DISPOSIZIONI TRANSITORIE E FINALI
 
 ## Art. 13. — Abrogazioni
+
+1.
+                        
+                            
+                                Dalla data di entrata in vigore del presente regolamento sono abrogati:
+ 
+                            
+                            
+                                a)
+                                
+                                    gli articoli 125 e 126 del codice della navigazione;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il regio decreto-legge 24 maggio 1925, n. 1031, convertito dalla legge 18 marzo 1926, n. 562;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    la legge 16 dicembre 1928, n. 3042;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    il decreto del Ministro della marina mercantile 22 novembre 1968;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    il decreto del Ministro della marina mercantile 13 ottobre 1992, n. 584.
 
 ## Art. 14. — Disposizioni transitorie
 

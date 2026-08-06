@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
 vigenza_date: 1999-11-27
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:40Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -26,16 +26,206 @@ Udito il parere del Consiglio di Stato, espresso nell'adunanza generale del 20 m
 
 ## Art. 1. — Definizioni
 
+1.
+                    
+                        
+                            Agli effetti della legge 25 gennaio 1994, n. 82, le attivita' di pulizia, di disinfezione, disinfestazione, di derattizzazione e di sanificazione sono cosi' definite:
+ 
+                        
+                        
+                            a)
+                            
+                                sono attivita' di pulizia quelle che riguardano il complesso di procedimenti e operazioni atti a rimuovere polveri, materiale non desiderato o sporcizia da superfici, oggetti, ambienti confinati ed aree di pertinenza;
+
+                            
+                        
+                        
+                            b)
+                            
+                                sono attivita' di disinfezione quelle che riguardano il complesso dei procedimenti e operazioni atti a rendere sani determinati ambienti confinati e aree di pertinenza mediante la distruzione o inattivazione di microrganismi patogeni;
+
+                            
+                        
+                        
+                            c)
+                            
+                                sono attivita' di disinfestazione quelle che riguardano il complesso di procedimenti e operazioni atti a distruggere piccoli animali, in particolare artropodi, sia perche' parassiti, vettori o riserve di agenti infettivi sia perche' molesti e specie vegetali non desiderate. La disinfestazione puo' essere integrale se rivolta a tutte le specie infestanti ovvero mirata se rivolta a singola specie;
+
+                            
+                        
+                        
+                            d)
+                            
+                                sono attivita' di derattizzazione quelle che riguardano il complesso di procedimenti e operazioni di disinfestazione atti a determinare o la distruzione completa oppure la riduzione del numero della popolazione dei ratti o dei topi al di sotto di una certa soglia;
+
+                            
+                        
+                        
+                            e)
+                            
+                                sono attivita' di sanificazione quelle che riguardano il complesso di procedimenti e operazioni atti a rendere sani determinati ambienti mediante l'attivita' di pulizia e/o di disinfezione e/o di disinfestazione ovvero mediante il controllo e il miglioramento delle condizioni del microclima per quanto riguarda la temperatura, l'umidita' e la ventilazione ovvero per quanto riguarda l'illuminazione e il rumore.
+ Avvertenza:
+ Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, comma 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con D.P.R. 28 dicembre 1985, n. 1092, al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
+
 ## Art. 2. — Requisiti per l'iscrizione delle imprese di pulizia
  al registro delle imprese o all'albo delle imprese artigiane
 
+1.
+                    
+                        
+                            I requisiti di capacita' economicofinanziaria per l'esercizio delle attivita' di pulizia di cui all'articolo 1 si intendono posseduti al riscontrarsi delle seguenti condizioni:
+ 
+                        
+                        
+                            a)
+                            
+                                iscrizione all'INPS e all'INAIL, ricorrendone i presupposti di legge, di tutti gli addetti, compreso il titolare e i familiari e i soci prestatori d'opera;
+
+                            
+                        
+                        
+                            b)
+                            
+                                assenza di protesti cambiari negli ultimi 5 anni a carico del titolare, per le imprese individuali, dei soci, per le societa' di persone, degli amministratori per le societa' di capitali e per le societa' cooperative, salvo riabilitazione ai sensi dell'articolo 17 della legge 7 marzo 1996, n. 108, ovvero dimostrazione di avere completamente soddisfatto i creditori;
+
+                            
+                        
+                        
+                            c)
+                            
+                                esistenza di rapporti con il sistema bancario da comprovare con apposite dichiarazioni bancarie riferite agli affidamenti effettivamente accordati.
+
 I requisiti di capacita' tecnica ed organizzativa si intendono posseduti con la preposizione alla gestione tecnica di persona dotata dei requisiti tecnicoprofessionali di cui al comma 3. Nel caso dell'impresa artigiana trova applicazione l'articolo 2, comma 4, della legge 8 agosto 1985, n. 443. Il preposto alla gestione tecnica non puo' essere un consulente o un professionista esterno.
+
+3.
+                    
+                        
+                            I requisiti tecnicoprofessionali di cui al comma 2, sono i seguenti:
+ 
+                        
+                        
+                            a)
+                            
+                                assolvimento dell'obbligo scolastico, in ragione dell'ordinamento temporalmente vigente, e svolgimento di un periodo di esperienza professionale qualificata nello specifico campo di attivita', di almeno due anni per le attivita' di pulizia e di disinfezione e di almeno tre anni per le attivita' di disinfestazione, derattizzazione e sanificazione, svolta all'interno di imprese del settore, o comunque all'interno di uffici tecnici di imprese od enti, preposti allo svolgimento di tali attivita', in qualita' di dipendente qualificato, familiare collaboratore, socio partecipante al lavoro o titolare di impresa;
+
+                            
+                        
+                        
+                            b)
+                            
+                                attestato di qualifica a carattere tecnico attinente l'attivita' conseguito ai sensi della legislazione vigente in materia di formazione professionale;
+
+                            
+                        
+                        
+                            c)
+                            
+                                diploma di istruzione secondaria superiore in materia tecnica attinente l'attivita';
+
+                            
+                        
+                        
+                            d)
+                            
+                                diploma universitario o di laurea in materia tecnica utile ai fini dello svolgimento dell'attivita'.
 
 Nelle more dell'emanazione della specifica normativa in materia, il possesso dei requisiti di cui ai commi 1 e 2 e' attestato dal titolare o dal legale rappresentante dell'impresa all'atto della presentazione della domanda di iscrizione al registro delle imprese o all'albo delle imprese artigiane con apposita dichiarazione, ((resa a norma dell'articolo 3, comma 11, della legge 15 maggio 1997, n. 127, e nella consapevolezza che le dichiarazioni false, la falsita' negli atti e l'uso di atti falsi comportano l'applicazione delle sanzioni penali previste dall'articolo 26 della legge 4 gennaio 1968, n. 15)), in conformita' al modello di cui all'allegato A) al presente decreto e completa dei relativi allegati.
 
 ## Art. 3. — Fasce di classificazione
 
+1.
+                    
+                        
+                            Le imprese di pulizia, ai fini della partecipazione secondo la normativa comunitaria alle procedure di affidamento dei servizi di cui all'articolo 1 della legge 25 gennaio 1994, n. 82, sono iscritte, a domanda, nel registro delle imprese o nell'albo delle imprese artigiane, secondo le seguenti fasce di classificazione di volume di affari al netto dell'IVA:
+ 
+                        
+                        
+                            a)
+                            
+                                fino a 100.000.000 di lire;
+
+                            
+                        
+                        
+                            b)
+                            
+                                fino a 400.000.000 di lire;
+
+                            
+                        
+                        
+                            c)
+                            
+                                fino a 700.000.000 di lire;
+
+                            
+                        
+                        
+                            d)
+                            
+                                fino a 1.000.000.000 di lire;
+
+                            
+                        
+                        
+                            e)
+                            
+                                fino a 2.000.000.000 di lire;
+
+                            
+                        
+                        
+                            f)
+                            
+                                fino a 4.000.000.000 di lire;
+
+                            
+                        
+                        
+                            g)
+                            
+                                fino a 8.000.000.000 di lire;
+
+                            
+                        
+                        
+                            h)
+                            
+                                fino a 12.000.000.000 di lire;
+
+                            
+                        
+                        
+                            i)
+                            
+                                fino a 16.000.000.000 di lire;
+
+                            
+                        
+                        
+                            l)
+                            
+                                oltre 16.000.000.000 di lire.
+
 L'impresa viene classificata in base al volume di affari, al netto dell'IVA, realizzato mediamente nell'ultimo triennio, o nel minor periodo di attivita', comunque non inferiore a due anni. La classe di attribuzione e' quella immediatamente superiore al predetto importo medio. Nel caso della prima fascia l'importo medio deve essere almeno di 60.000.000 di lire.
+
+3.
+                    
+                        
+                            Ai fini dell'inserimento nella relativa fascia di classificazione, l'impresa deve rispondere, a norma dell'articolo 1, comma 2, lettera b), della legge 25 gennaio 1994, n. 82, anche ai seguenti ulteriori requisiti economicofinanziari:
+ 
+                        
+                        
+                            a)
+                            
+                                avere fornito nel periodo di riferimento almeno un servizio di importo non inferiore al 40 per cento, ovvero almeno due servizi di importo complessivo non inferiore al 50 per cento, ovvero almeno tre servizi di importo complessivo non inferiore al 60 per cento, dell'importo corrispondente alla fascia inferiore a quella per la quale chiede l'iscrizione; per l'inserimento nella prima fascia le predette percentuali vanno applicate all'importo massimo della stessa fascia;
+
+                            
+                        
+                        
+                            b)
+                            
+                                avere sopportato, per ciascuno degli anni di riferimento, salvo quanto disposto al comma 5, un costo complessivo, per il personale dipendente, costituito da retribuzione e stipendi, contributi sociali e accantonamenti ai fondi di trattamento di fine rapporto, non inferiore al 40 per cento dei costi totali, ovvero al 60 per cento di detti costi se svolge esclusivamente attivita' di pulizia e di disinfezione.
 
 L'impresa deve altresi' compilare la seconda sezione del modello di dichiarazione di cui allegato A) al presento decreto e fornire, per gli ultimi tre anni o per l'eventuale minor periodo di attivita', copia dei libri paga e dei libri matricola, nonche', limitatamente alle prestazioni ricadenti tra quelle previste dall'articolo 1, l'elenco dei servizi eseguiti, allegando per ciascuno un'apposita attestazione del committente, pubblico o privato, redatta secondo lo schema di cui all'allegato B) al presente decreto. L'impresa deve inoltre fornire un elenco dei contratti in essere alla data di presentazione della domanda.
 
@@ -50,6 +240,31 @@ Le variazioni dei requisiti di cui all'articolo 3 che comportino una variazione 
 Gli uffici del registro delle imprese e le commissioni provinciali per l'artigianato possono procedere all'accertamento del permanere in capo delle imprese di pulizia dei requisiti di cui ai commi 1 e 2 e degli altri requisiti di capacita' economicofinanziaria in qualsiasi momento con le modalita' di cui all'articolo 6 della legge 7 agosto 1990, n. 241, anche su segnalazione delle amministrazioni competenti o degli organismi portatori di interessi diffusi di cui all'articolo 9 della stessa legge, ovvero su denuncia di singoli interessati.
 
 ## Art. 5. — Sospensione dell'efficacia dell'iscrizione per l'esercizio delle attivita' di pulizia
+
+1.
+                    
+                        
+                            Le imprese iscritte nel registro delle imprese o nell'albo delle imprese artigiane sono sospese dall'iscrizione, limitatamente all'esercizio delle attivita' di cui all'articolo 1, con motivato provvedimento della giunta della camera di commercio o della commissione provinciale per l'artigianato, qualora, esperite le procedure di cui ai commi 4 e 5 dell'articolo 4 della legge 25 gennaio 1994, n. 82, venga accertata:
+ 
+                        
+                        
+                            a)
+                            
+                                l'assunzione da parte dell'impresa di una condotta tale da turbare gravemente la normalita' dei rapporti con la stazione appaltante;
+
+                            
+                        
+                        
+                            b)
+                            
+                                una grave omissione o negligenza nell'esecuzione del servizio che determini una situazione di pericolo per l'incolumita' e la salute pubblica o costituisca una grave violazione alle disposizioni di cui al decreto legislativo 19 settembre 1994, n. 626;
+
+                            
+                        
+                        
+                            c)
+                            
+                                una infrazione di particolare rilevanza alle norme in materia previdenziale e assicurativa e a ogni altro obbligo inerente i rapporti di lavoro, derivante da norme di legge o regolamentari o dai contratti collettivi nazionali di lavoro riferibili alle imprese di pulizia, comprensivi degli eventuali integrativi territoriali, cui l'impresa non abbia posto rimedio.
 
 La sospensione puo' essere accordata anche al venire meno di alcuno dei requisiti di cui all'articolo 2, comma 1, della legge 25 gennaio 1994, n. 82, o di cui all'articolo 2 del presente decreto, qualora l'impresa interessata presenti entro 10 giorni dalla comunicazione dell'avvio delle procedure di cancellazione di cui all'articolo 6 apposita istanza e la stessa si impegni a porre rimedio alle cause di cancellazione entro il periodo di sospensione.
 

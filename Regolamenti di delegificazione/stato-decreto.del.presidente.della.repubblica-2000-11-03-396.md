@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Regolamenti di delegificazione
 vigenza_date: 2025-12-18
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:40:24Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -71,6 +71,35 @@ Per gravi motivi, ciascun dipendente a tempo indeterminato del comune puo' esser
 
 ## Art. 5. — (Compiti degli ufficiali dello stato civile)
 
+1.
+                        
+                            
+                                L'ufficiale dello stato civile, nel dare attuazione ai principi generali sul servizio dello stato civile di cui agli articoli da 449 a 453 del codice civile e nel rispetto della legge 31 dicembre 1996, n. 675, espleta i seguenti compiti:
+
+                            
+                            
+                                a)
+                                
+                                    forma, archivia, conserva e aggiorna tutti gli atti concernenti lo stato civile e cura, nelle forme previste, la trasmissione dei dati al centro nazionale di raccolta di cui all'articolo 10, comma 2, lettera d);
+                                
+                            
+                            
+                                b)
+                                
+                                    trasmette alle pubbliche amministrazioni che ne fanno richiesta in base alle norme vigenti gli estratti e i certificati che concernono lo stato civile, in esenzione da ogni spesa;
+                                
+                            
+                            
+                                c)
+                                
+                                    rilascia, nei casi previsti, gli estratti e i certificati che concernono lo stato civile, nonche' le copie conformi dei documenti depositati presso l'ufficio dello stato civile;
+                                
+                            
+                            
+                                d)
+                                
+                                    verifica, per le pubbliche amministrazioni che ne fanno richiesta, la veridicita' dei dati contenuti nelle autocertificazioni prodotte dai cittadini in tutti i casi consentiti dalla legge.
+
 ## Art. 6. — (Incompatibilita)
 
 L'ufficiale dello stato civile non puo' ricevere gli atti nei quali egli, il coniuge, ((la persona a lui unita civilmente,)) i suoi parenti o affini in linea retta in qualunque grado, o in linea collaterale fino ai secondo grado, intervengono come dichiaranti.
@@ -94,6 +123,66 @@ La vigilanza sugli uffici dello stato civile spetta al prefetto.
 ## Art. 10. — (Archivio informatico)
 
 In ciascun ufficio dello stato civile sono registrati e conservati in un unico archivio informatico tutti gli atti formati nel comune o comunque relativi a soggetti ivi residenti, riguardanti la cittadinanza, la nascita, i matrimoni ((, le unioni civili)) e la morte.
+
+2.
+                        
+                            
+                                Le modalita' tecniche per la iscrizione, la trascrizione, la annotazione, la trasmissione e la tenuta degli atti dello stato civile conservati negli archivi di cui al comma 1 sono stabilite con decreto del Presidente del Consiglio dei Ministri da emanarsi entro dodici mesi dalla pubblicazione del presente regolamento su proposta del Ministro dell'interno, di concerto con il Ministro degli affari esteri, sentiti l'Autorita' per l'informatica nella pubblica amministrazione, il Garante per la protezione dei dati personali e l'Associazione nazionale dei comuni italiani, sulla base dei seguenti principi e criteri direttivi: 
+ 
+                            
+                            
+                                a)
+                                
+                                    formazione degli atti su base informatica e conservazione dei dati sia nel luogo in cui sono formati gli atti che nel comune di attuale residenza della persona cui si riferiscono; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    garanzia della sicurezza e della inalterabilita' dei dati, una volta formati e sottoscritti i relativi atti, e possibilita' della loro rettificazione ed annotazione; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    trasmissione telematica dei dati, eventualmente utilizzando la rete unitaria della pubblica amministrazione, nel rispetto della legge 31 dicembre 1996, n. 675, e in modo da assicurare la verifica dell'effettivo trasferimento dei dati medesimi; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    istituzione, senza oneri aggiuntivi per il bilancio dello Stato, di un centro nazionale di raccolta dei supporti informatici contenente tutti i dati registrati negli archivi informatici comunali per assicurarne la conservazione in caso di eventi dannosi o calamitosi; tale centro e' tenuto a svolgere i compiti di cui alle lettere b), c) e d) dell'articolo 5, comma 1, in caso di prolungata impossibilita' di accesso ai dati conservati negli archivi comunali; i dati sono conservati separatamente per ciascun comune, secondo modalita' che ne rendano possibile la consultazione, per le sole finalita' indicate nella presente lettera, da parte dei rispettivi ufficiali dello stato civile; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    previsione della possibilita' di redigere provvisoriamente gli atti su base cartacea sotto forma di processo verbale, in caso di inutilizzabilita' temporanea dei sistemi informatici, con obbligo di inserirli appena possibile negli archivi di cui al comma 1; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    adozione, per gli atti formati all'estero dalle autorita' diplomatiche o consolari, di strumenti idonei ad assicurare quanto previsto nelle lettere a), b), c), e); 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    indicazione delle modalita' e fissazione del termine a partire dal quale potranno essere attivati e di quello entro il quale dovranno essere resi pienamente operanti gli archivi di cui al comma 1 prevedendo eventualmente una fase preliminare di sperimentazione; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    definizione delle modalita' e dei tempi per la graduale archiviazione mediante supporti informatici dei registri dello stato civile utilizzati prima della entrata in funzione degli archivi di cui al comma 1 e previsione delle modalita' per la successiva immissione nei suddetti archivi dei dati gia' contenuti nei registri.
 
 ## Art. 11. — (Contenuto degli atti)
 
@@ -198,6 +287,44 @@ vigenti, deve produrre gli atti in base ai quali ritiene di poterle rendere.
 
 ## Art. 24. — (Atti trascrivibili)
 
+1.
+                        
+                            
+                                Negli archivi di cui all'articolo 10 si trascrivono:
+
+                            
+                            
+                                a)
+                                
+                                    i decreti di concessione della cittadinanza italiana e quelli che ne dispongano la perdita;
+                                
+                            
+                            
+                                b)
+                                
+                                    le comunicazioni del sindaco, del Ministero dell'interno e dell'autorita' diplomatica o consolare sull'esito degli accertamenti e le attestazioni del sindaco e dell'autorita' diplomatica o
+consolare relative all'acquisto, alla perdita o al riacquisto della cittadinanza italiana;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    i decreti di inibizione al riacquisto della cittadinanza;
+                                
+                            
+                            
+                                d)
+                                
+                                    i provvedimenti di riconoscimento delle opzioni per la
+cittadinanza italiana di cui all'articolo 19 della legge 5 febbraio 1992, n. 91;
+                                
+                            
+                            
+                                e)
+                                
+                                    le sentenze che accertano l'acquisto, la perdita o il riacquisto della cittadinanza italiana.
+
 ## Art. 25. — Giuramento)
 
 L'ufficiale dello stato civile non puo' trascrivere il decreto di concessione della cittadinanza se prima non e' stato prestato il
@@ -220,6 +347,98 @@ L'acquisto della cittadinanza italiana ha effetto dal giorno successivo a quello
 ## - Titolo VII Delle registrazioni relative agli atti di nascita e agli atti di riconoscimento dei figli ((nati fuori del matrimonio))
 
 ## Art. 28. — (Iscrizioni e trascrizioni)
+
+1.
+                        
+                            
+                                Negli archivi di cui all'articolo 10 si iscrivono: 
+ 
+                            
+                            
+                                a)
+                                
+                                    le dichiarazioni di nascita rese direttamente all'ufficiale dello stato civile; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    gli atti di riconoscimento ((del figlio nato fuori del matrimonio)) ricevuti dall'ufficiale dello stato civile a norma dell'articolo 254, primo comma, del codice civile; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    gli atti di assenso prestati ai sensi dell'articolo 250, secondo comma, del codice civile, se successivi al riconoscimento, ricevuti dall'ufficiale dello stato civile; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    gli atti di consenso prestati ai sensi dell'articolo 250, terzo comma, del codice civile, se anteriori al riconoscimento dell'altro genitore, ricevuti dall'ufficiale dello stato civile; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    i processi verbali di cui all'articolo 38.
+
+2.
+                        
+                            
+                                Nei medesimi archivi si trascrivono: 
+ 
+                            
+                            
+                                a)
+                                
+                                    le dichiarazioni di nascita rese al direttore sanitario dell'ospedale o della casa di cura in cui e' avvenuta la nascita; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    gli atti di nascita ricevuti all'estero; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    gli atti e i processi verbali relativi a nascite avvenute durante un viaggio marittimo, aereo o ferroviario; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    gli atti di nascita ricevuti dagli ufficiali designati per le operazioni eseguite dalle forze di pace o di guerra; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    le sentenze straniere e i provvedimenti stranieri di volontaria giurisdizione in materia di nascita; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    i decreti di cambiamento o aggiunta di nome e cognome e i provvedimenti che revocano o annullano i decreti medesimi; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    i provvedimenti in materia di adozione.
 
 Negli archivi suddetti si iscrivono anche gli atti che si sarebbero dovuti iscrivere o trascrivere e che vengono formati per ordine del tribunale perche' in precedenza omessi.
 
@@ -400,6 +619,156 @@ La dichiarazione giudiziale di paternita' o maternita' ((...)), dopo il passaggi
 
 ## Art. 49. — (Annotazioni)
 
+1.
+                        
+                            
+                                Negli atti di nascita si annotano: 
+ 
+                            
+                            
+                                a)
+                                
+                                    I provvedimenti di adozione e di revoca; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    i provvedimenti di revoca o di estinzione dell'affiliazione; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    le comunicazioni di apertura e di chiusura della tutela, eccettuati i casi di interdizione legale; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    i decreti di nomina e di revoca del tutore o del curatore provvisorio in pendenza del giudizio di interdizione o di inabilitazione; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    le sentenze di interdizione o di inabilitazione e quelle di revoca; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    gli atti di matrimonio e le sentenze dalle quali risulta l'esistenza del matrimonio, gli atti di costituzione dell'unione civile, iscritta anche ai sensi dell'articolo 70-octies, comma 5, e le sentenze dalle quali risulta l'esistenza dell'unione civile;
+                                
+                            
+                            
+                                g)
+                                
+                                    le sentenze che pronunciano la nullita', lo scioglimento o la cessazione degli effetti civili del matrimonio ((e quelle che pronunciano la nullita' o lo scioglimento dell'unione civile)); 
+
+                                
+                            
+                            
+                                g-bis)
+                                
+                                    gli accordi raggiunti a seguito di convenzione di negoziazione assistita da uno o piu' avvocati ovvero autorizzati, conclusi tra coniugi al fine di raggiungere una soluzione consensuale di cessazione degli effetti civili del matrimonio e di scioglimento del matrimonio ((e quelli conclusi tra le parti dell'unione civile al fine di raggiungere una soluzione consensuale di scioglimento dell'unione civile)); 
+
+                                
+                            
+                            
+                                g-ter)
+                                
+                                    gli accordi di scioglimento o di cessazione degli effetti civili del matrimonio ((e quelli di scioglimento dell'unione civile)) ricevuti dall'ufficiale dello stato civile; (5) 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    i provvedimenti della corte di appello previsti nell'articolo 17 della legge 27 maggio 1929, n. 847, e le sentenze con le quali si pronuncia l'annullamento della trascrizione di un matrimonio celebrato dinanzi ad un ministro di culto; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    gli atti e i provvedimenti riguardanti l'acquisto, la perdita, la rinuncia o il riacquisto della cittadinanza italiana; 
+
+                                
+                            
+                            
+                                j)
+                                
+                                    le sentenze dichiarative di assenza o di morte presunta e quelle che, a termini dell'articolo 67 del codice civile, dichiarano la esistenza delle persone di cui era stata dichiarata la morte presunta o ne accertano la morte; 
+
+                                
+                            
+                            
+                                k)
+                                
+                                    gli atti di riconoscimento ((del figlio nato fuori del matrimonio)), in qualunque forma effettuati; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    le domande di impugnazione del riconoscimento, quando ne e' ordinata l'annotazione, e le relative sentenze di rigetto; 
+
+                                
+                            
+                            
+                                m)
+                                
+                                    le sentenze che pronunciano la nullita' o l'annullamento dell'atto di riconoscimento; 
+
+                                
+                            
+                            
+                                n)
+                                
+                                    LETTERA SOPPRESSA DAL D.P.R. 30 GENNAIO 2015, N. 26; 
+
+                                
+                            
+                            
+                                o)
+                                
+                                    le sentenze che dichiarano o disconoscono che il figlio e' nato nel matrimonio; 
+
+                                
+                            
+                            
+                                p)
+                                
+                                    i provvedimenti che determinano il cambiamento o la modifica del nome o del cognome relativi alla persona cui l'atto si riferisce; quelli che determinano il cambiamento o la modifica del cognome relativi alla persona da cui l'intestatario dell'atto ha derivato il cognome, salvi i casi in cui il predetto intestatario, se maggiorenne, si sia avvalso della facolta' di poter mantenere il cognome precedentemente posseduto; 
+
+                                
+                            
+                            
+                                q)
+                                
+                                    le sentenze relative al diritto di uso di uno pseudonimo; 
+
+                                
+                            
+                            
+                                r)
+                                
+                                    gli atti di morte; 
+
+                                
+                            
+                            
+                                s)
+                                
+                                    i provvedimenti di rettificazione che riguardano l'atto gia' iscritto o trascritto nei registri.
+
 COMMA ABROGATO DAL D.P.R. 30 GENNAIO 2015, N. 26.
 
 COMMA ABROGATO DAL D.P.R. 30 GENNAIO 2015, N. 26.
@@ -503,6 +872,156 @@ unione civile))
 
 ## Art. 63. — (Iscrizioni e trascrizioni)
 
+1.
+                        
+                            
+                                Negli archivi di cui all'articolo 10, l'ufficiale dello stato civile iscrive: 
+ 
+ 
+                            
+                            
+                                a)
+                                
+                                    gli atti dei matrimoni celebrati davanti a lui ((e le unioni civili costituite davanti a lui e quelle di cui all'articolo 70-octies, comma 5)); 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    gli atti dei matrimoni celebrati fuori dalla casa comunale a norma dell'articolo 11 del codice civile ((e le unioni civili costituite fuori dalla casa comunale a norma dell'articolo 70-novies)); 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    gli atti dei matrimoni celebrati in caso di imminente pericolo di vita di uno degli sposi, ai sensi dell'articolo 101 del codice civile ((, e le unioni civili costituite in imminente pericolo di vita di una delle parti a norma dell'articolo 70-decies)); 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    gli atti dei matrimoni celebrati per richiesta, ai sensi dell'articolo 109 del codice civile ((, e le unioni civili costituite per delega a norma dell'articolo 70-quater)); 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    gli atti dei matrimoni celebrati per procura; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    gli atti del matrimoni ((e di costituzione delle unioni civili)) ai quali, per la particolarita' del caso, non si adattano le formule stabilite; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    le dichiarazioni con le quali i coniugi separati manifestano la loro riconciliazione, ai sensi dell'articolo 157 del codice civile; 
+ g-ter) gli accordi di separazione personale, di scioglimento o di cessazione degli effetti civili del matrimonio ricevuti dall'ufficiale dello stato civile, nonche' di modifica delle condizioni di separazione o di divorzio;(5) 
+ ((g-quater) gli accordi di scioglimento dell'unione civile ricevuti dall'ufficiale dello stato civile, nonche' di modifica delle condizioni di scioglimento; 
+ g-quinquies) la manifestazione congiunta di volonta' di scioglimento dell'unione civile, a norma dell'articolo 1, comma 24, della legge 20 maggio 2016, n. 76, ovvero la manifestazione di volonta' di scioglimento dell'unione civile di una sola parte a norma della predetta disposizione, previamente comunicata all'altra parte mediante invio di lettera raccomandata con avviso di ricevimento alla residenza anagrafica o, in mancanza, all'ultimo indirizzo noto, ovvero con altra forma di comunicazione parimenti idonea; 
+ g-sexies) la dichiarazione con la quale le parti, dopo la costituzione dell'unione civile, dichiarano di voler assumere, per la durata dell'unione civile, un cognome comune scegliendolo tra i loro cognomi o di anteporre o posporre al cognome comune il proprio cognome, se diverso.))
+
+2.
+                        
+                            
+                                Nei medesimi archivi l'ufficiale dello stato civile trascrive: 
+ 
+                            
+                            
+                                a)
+                                
+                                    gli atti dei matrimoni celebrati nello stesso comune davanti ai ministri di culto; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    gli atti dei matrimoni, celebrati ai sensi dell'articolo 109 del codice civile, ((e delle unioni civili costituite per delega ai sensi dell'articolo 70-quater,)) trasmessi all'ufficiale dello stato civile dei comuni di residenza degli sposi ((o delle parti dell'unione civile)); 
+
+                                
+                            
+                            
+                                b-bis)
+                                
+                                    gli atti di costituzione di unione civile avvenuti in un comune scelto dalle parti, trasmessi all'ufficiale dello stato civile dei comuni di residenza delle parti;
+                                
+                            
+                            
+                                c)
+                                
+                                    gli atti dei matrimoni celebrati all'estero ((e le unioni civili costituite all'estero)); 
+
+                                
+                            
+                            
+                                c-bis)
+                                
+                                    gli atti dei matrimoni tra persone dello stesso sesso celebrati all'estero;
+                                
+                            
+                            
+                                d)
+                                
+                                    gli atti dei matrimoni celebrati ((o le unioni civili costituite)) dinanzi all'autorita' diplomatica o consolare straniera in Italia fra cittadini stranieri quando esistono convenzioni in materia; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    gli atti e i processi verbali dei matrimoni celebrati in caso di imminente pericolo di vita di uno degli sposi ((e gli atti e i processi verbali di costituzione delle unioni civili avvenute in caso di imminente pericolo di vita di una delle parti dell'unione civile)), a norma degli articoli 204, 208 e 834 del codice della navigazione; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    le sentenze dalle quali risulta la esistenza del matrimonio ((o dell'unione civile)); 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    le sentenze e gli altri atti con cui si pronuncia all'estero la nullita', lo scioglimento, la cessazione degli effetti civili di un matrimonio ovvero si rettifica in qualsiasi modo un atto di matrimonio gia' iscritto o trascritto negli archivi di cui all'articolo 10; 
+
+                                
+                            
+                            
+                                g-bis)
+                                
+                                    le sentenze e gli altri atti con cui si pronuncia all'estero la nullita', lo scioglimento di unioni civili ovvero si rettifica in qualsiasi modo un atto dell'unione civile gia' iscritto o trascritto negli archivi di cui all'articolo 10;
+                                
+                            
+                            
+                                h)
+                                
+                                    le sentenze della corte di appello previste dall'articolo 17 della legge 27 maggio 1929, n. 847, e dall'articolo 8, comma 2, dell'accordo del 18 febbraio 1984 tra la Repubblica italiana e la Santa Sede ratificato dalla legge 25 marzo 1985, n. 121; 
+
+                                
+                            
+                            
+                                h-bis)
+                                
+                                    gli accordi raggiunti a seguito di convenzione di negoziazione assistita da uno o piu' avvocati conclusi tra coniugi al fine di raggiungere una soluzione consensuale di separazione personale, di cessazione degli effetti civili del matrimonio, di scioglimento del matrimonio, nonche' di modifica delle condizioni di separazione o di divorzio; 
+
+                                
+                            
+                            
+                                h-ter)
+                                
+                                    gli accordi raggiunti a seguito di convenzione di negoziazione assistita da un avvocato, conclusi tra le parti dell'unione civile al fine di raggiungere una soluzione consensuale di scioglimento dell'unione civile, nonche' di modifica delle condizioni dello scioglimento.
+
 Gli atti indicati nelle lettere a) e b) del comma 2 devono essere trascritti per intero.
 
 ---------------
@@ -511,6 +1030,59 @@ Gli atti indicati nelle lettere a) e b) del comma 2 devono essere trascritti per
  Il D.L. 12 settembre 2014, n. 132, convertito con modificazioni dalla L. 10 novembre 2014, n. 162 ha disposto (con l'art. 12, comma 7) che la presente modifica si applica a decorrere dal trentesimo giorno successivo all'entrata in vigore della legge di conversione del decreto medesimo.
 
 ## Art. 64. — (Contenuto dell'atto di matrimonio)
+
+1.
+                        
+                            
+                                L'atto di matrimonio deve specificamente indicare: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il nome e il cognome, il luogo e la data di nascita, la cittadinanza e la residenza degli sposi; il nome, il cognome, il luogo e la data di nascita e la residenza dei testimoni; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la data della eseguita pubblicazione o il decreto di autorizzazione alla omissione, salvo il caso di cui all'articolo 101 del codice civile; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il decreto di autorizzazione quando ricorra alcuno degli impedimenti di legge, salvo il caso di cui all'articolo 101 del codice civile; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    la menzione dell'avvenuta lettura agli sposi degli articoli 143, 144 e 147 del codice civile; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    la dichiarazione degli sposi di volersi prendere rispettivamente in marito e in moglie; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    il luogo della celebrazione del matrimonio nei casi previsti dagli articoli 101 e 110 del codice civile, ed il motivo del trasferimento dell'ufficiale dello stato civile in detto luogo; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    la dichiarazione fatta dall'ufficiale dello stato civile che gli sposi sono uniti in matrimonio.
 
 Quando contemporaneamente alla celebrazione del matrimonio gli sposi dichiarano di riconoscere figli ((nati fuori del matrimonio)), la dichiarazione e' inserita nell'atto stesso di matrimonio.
 Ugualmente si provvede nel caso di scelta del regime di separazione dei beni o di scelta della legge applicabile ai loro rapporti patrimoniali ai sensi dell'articolo 30, comma 1, della legge 31 maggio 1995, n. 218.
@@ -547,9 +1119,115 @@ L'ufficiale dello stato civile che ha celebrato il matrimonio ((o costituito l'u
 
 Se il matrimonio e' stato celebrato ((o l'unione civile costituita)) per delegazione, l'avviso e' dato dall'ufficiale dello stato civile delegante, dopo aver ricevuto la copia dell'atto di matrimonio ((o di costituzione dell'unione civile)) da quello delegato.
 
+3.
+                        
+                            
+                                Uguale avviso deve essere dato: 
+ 
+                            
+                            
+                                a)
+                                
+                                    dall'ufficiale dello stato civile che ha trascritto l'atto originale del matrimonio celebrato davanti a un ministro di culto; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    dall'ufficiale dello stato civile che ha trascritto l'atto originale del matrimonio celebrato all'estero ((o della costituzione dell'unione civile avvenuta all'estero)) ovvero una sentenza dalla quale risulta la esistenza, la nullita', lo scioglimento ((di un matrimonio o di una unione civile)) o la cessazione degli effetti civili di un matrimonio.
+
 L'ufficiale dello stato civile del comune che ha ricevuto l'avviso provvede per le relative annotazioni.
 
 ## Art. 69. — (Annotazioni)
+
+1.
+                        
+                            
+                                Negli atti di matrimonio si fa annotazione: 
+ 
+                            
+                            
+                                a)
+                                
+                                    della trasmissione al ministro di culto della comunicazione dell'avvenuta trascrizione dell'atto di matrimonio da lui celebrato; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    delle convenzioni matrimoniali, delle relative modificazioni, delle sentenze di omologazione di cui all'articolo 163 del codice civile, delle sentenze di separazione giudiziale dei beni di cui all'articolo 193 del codice civile, e della scelta della legge applicabile ai loro rapporti patrimoniali ai sensi dell'articolo 30, comma 1, della legge 31 maggio 1995, n. 218; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    dei ricorsi per lo scioglimento o la cessazione degli effetti civili del matrimonio, e delle relative pronunce; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    delle sentenze, anche straniere, di scioglimento o di cessazione degli effetti civili del matrimonio; di quelle che dichiarano efficace nello Stato la pronuncia straniera di nullita' o di scioglimento del matrimonio; di quelle che dichiarano efficace nello Stato la pronuncia dell'autorita' ecclesiastica di nullita' del matrimonio; e di quelle che pronunciano la separazione personale dei coniugi o l'omologazione di quella consensuale; 
+
+                                
+                            
+                            
+                                d-bis)
+                                
+                                    degli accordi raggiunti a seguito di convenzione di negoziazione assistita da uno o piu' avvocati ovvero autorizzati, conclusi tra coniugi al fine di raggiungere una soluzione consensuale di separazione personale, di cessazione degli effetti civili del matrimonio, di scioglimento del matrimonio; 
+
+                                
+                            
+                            
+                                d-ter)
+                                
+                                    degli accordi di separazione personale, di scioglimento o di cessazione degli effetti civili del matrimonio ricevuti dall'ufficiale dello stato civile; (5) 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    delle sentenze con le quali si pronuncia l'annullamento della trascrizione dell'atto di matrimonio; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    delle dichiarazioni con le quali i coniugi separati manifestano la loro riconciliazione; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    delle sentenze dichiarative di assenza o di morte presunta di uno degli sposi e di quelle che dichiarano l'esistenza dello sposo di cui era stata dichiarata la morte presunta o ne accertano la morte; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    dei provvedimenti che determinano il cambiamento o la modificazione del cognome o del nome o di entrambi e dei provvedimenti di revoca relativi ad uno degli sposi; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    dei provvedimenti di rettificazione; 
+
+                                
+                            
+                            
+                                i-bis)
+                                
+                                    della costituzione dell'unione civile iscritta ai sensi dell'articolo 70-octies, comma 5.
 
 ((1-bis. Negli atti di costituzione dell'unione civile si fa annotazione:
 
@@ -714,6 +1392,52 @@ Nello stesso verbale si deve altresi' annotare il decreto che rigetta od accogli
 
 ((
 
+1.
+                        
+                            
+                                L'atto di costituzione dell'unione civile deve specificamente indicare: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il nome e il cognome, il luogo e la data di nascita, la cittadinanza e la residenza delle parti dell'unione civile; il nome, il cognome, il luogo e la data di nascita e la residenza dei testimoni; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la data della richiesta di costituzione dell'unione civile, salvo il caso di cui all'articolo 70-decies; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il decreto di autorizzazione quando ricorre alcuno degli impedimenti di legge, salvo il caso di cui all'articolo 70-decies; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    la menzione dell'avvenuta lettura del contenuto dei commi 11 e 12 dell'articolo 1 della legge 20 maggio 2016, n. 76; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    la dichiarazione delle parti di voler costituire l'unione civile; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    il luogo della costituzione dell'unione civile nel caso di imminente pericolo di vita e di costituzione fuori della casa comunale ed il motivo del trasferimento dell'ufficiale dello stato civile in detto luogo.
+
 Quando contemporaneamente alla costituzione dell'unione civile le parti dichiarano di scegliere il cognome comune, a norma dell'articolo 1, comma 10, della legge 20 maggio 2016, n. 76, la dichiarazione e' inserita nell'atto stesso di costituzione dell'unione civile. Ugualmente si provvede nel caso di scelta del regime di separazione dei beni o di scelta della legge applicabile ai loro rapporti patrimoniali operata in base alle vigenti norme di diritto internazionale privato.
 
 ))
@@ -726,6 +1450,60 @@ Quando contemporaneamente alla costituzione dell'unione civile le parti dichiara
 ## - Titolo IX Delle registrazioni degli atti di morte
 
 ## Art. 71. — (Iscrizioni e trascrizioni)
+
+1.
+                        
+                            
+                                Negli archivi di cui all'articolo 10, si iscrivono:
+
+
+                            
+                            
+                                a)
+                                
+                                    le dichiarazioni di morte che sono fatte direttamente all'ufficiale dello stato civile;
+                                
+                            
+                            
+                                b)
+                                
+                                    gli atti di morte che l'ufficiale dello stato civile forma in seguito ad avviso, notizia e denuncia avuti da ospedali, da case di cura o di riposo, da collegi, da istituti o da qualsiasi altro stabilimento, da magistrati o da ufficiali di polizia giudiziaria;
+                                
+                            
+                            
+                                c)
+                                
+                                    gli atti di morte ai quali, per la particolarita' del caso, non si adattano le formule predisposte;
+                                
+                            
+                            
+                                d)
+                                
+                                    gli atti formati ai sensi degli articoli 75 e 78.
+
+2.
+                        
+                            
+                                Nei medesimi archivi si trascrivono:
+
+
+                            
+                            
+                                a)
+                                
+                                    gli atti di morte ricevuti dall'estero;
+                                
+                            
+                            
+                                b)
+                                
+                                    gli atti e i processi verbali relativi a morti avvenute durante un viaggio marittimo, aereo o ferroviario;
+                                
+                            
+                            
+                                c)
+                                
+                                    gli atti di morte, compilati dagli ufficiali designati nelle zone di operazioni eseguite come forze di pace o di guerra.
 
 ## Art. 72. — (Dichiarazione di morte)
 
@@ -1006,7 +1784,55 @@ Gli estratti degli atti dello stato civile sono rilasciati per riassunto, riport
 
 Gli estratti degli atti dello stato civile possono essere rilasciati dall'ufficiale dello stato civile per copia integrale soltanto quando ne e' fatta espressa richiesta da chi vi ha interesse e il rilascio non e' vietato dalla legge.
 
+2.
+                        
+                            
+                                L'estratto per copia integrale deve contenere:
+
+
+                            
+                            
+                                a)
+                                
+                                    la trascrizione esatta dell'atto come trovasi negli archivi di cui all'articolo 10, compresi il numero e le firme appostevi;
+                                
+                            
+                            
+                                b)
+                                
+                                    le singole annotazioni che si trovano sull'atto originale;
+                                
+                            
+                            
+                                c)
+                                
+                                    l'attestazione, da parte di chi rilascia l'estratto, che la copia e' conforme all'originale.
+
 ## Art. 108. — (Contenuto)
+
+1.
+                        
+                            
+                                Ogni estratto degli atti dello stato civile deve contenere:
+
+
+                            
+                            
+                                a)
+                                
+                                    l'indicazione di estratto per riassunto o per copia integrale;
+                                
+                            
+                            
+                                b)
+                                
+                                    la sottoscrizione dell'ufficiale dello stato civile o del funzionario delegato;
+                                
+                            
+                            
+                                c)
+                                
+                                    il bollo dell'ufficio.
 
 I certificati di stato civile devono contenere le generalita' come per legge delle persone a cui i singoli eventi si riferiscono e gli estremi dei relativi atti. I dati suddetti possono essere desunti anche dagli atti anagrafici.
 
@@ -1033,6 +1859,31 @@ Sono abrogati: il secondo comma dell'articolo 93, il secondo e il terzo comma de
 All'articolo 1 della legge 14 aprile 1982, n. 164, sono soppresse le parole "di cui all'articolo 454 del codice civile" e "anche".
 
 Sono abrogati: il secondo periodo dell'articolo 8, comma 1, del decreto del Presidente della Repubblica 12 ottobre 1993, n. 572, e l'articolo 24 della legge 5 febbraio 1992, n. 91.
+
+6.
+                        
+                            
+                                All'articolo 16 del decreto del Presidente della Repubblica 12 ottobre 1993, n. 572, sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    nel comma 5, le parole "all'ufficiale dello stato civile individuato ai sensi dell'articolo 63, secondo comma, del regio decreto 9 luglio 1939, n. 1238," sono sostituite dalle seguenti: "all'ufficiale dello stato civile competente"; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il comma 6 e' abrogato; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    al comma 8 e' aggiunto il seguente periodo: "Le attestazioni per i minori residenti all'estero, di cui all'articolo 14 della legge 5 febbraio 1992, n. 91, vengono emesse dall'autorita' diplomatica o consolare sulla base delle risultanze dello stato civile ed anagrafiche anche straniere, e di quanto disposto dall'articolo 12 del presente regolamento; l'autorita' diplomatica o consolare le trasmette all'ufficiale dello stato civile competente per l'annotazione sull'atto di nascita.".
 
 E' abrogato il secondo comma dell'articolo 17 del decreto del Presidente della Repubblica 5 gennaio 1967, n. 200. I numeri da 1 a 5 dell'articolo 69, primo comma, del medesimo decreto sono abrogati a far data dalla entrata in funzione degli archivi informatici di cui all'articolo 10.
 

@@ -8,8 +8,8 @@ codice_redazionale: 091G0231
 vigente: true
 source: normattiva-opendata
 collection: DPCM
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:40:13Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DEL CONSIGLIO DEI MINISTRI
@@ -45,6 +45,52 @@ I dipendenti ultimi collocati nella graduatoria sono sottoposti dalle amministra
 Il Ministro per la funzione pubblica, sulla base delle comunicazioni degli enti locali dissestati, provvede, con proprio decreto, all'assegnazione della nuova amministrazione in base ai criteri di cui al successivo art. 4.
 
 ## Art. 4.
+
+1.
+                    
+                        
+                            Ai dipendenti posti in mobilita' di ufficio la nuova sede di servizio e' assegnata in relazione al punteggio loro attribuito ed alla disponibilita' delle sedi, facendo riferimento alle seguenti priorita':
+ 
+                        
+                        
+                            a)
+                            
+                                comuni limitrofi;
+
+                            
+                        
+                        
+                            b)
+                            
+                                stessa provincia;
+
+                            
+                        
+                        
+                            c)
+                            
+                                province limitrofe;
+
+                            
+                        
+                        
+                            d)
+                            
+                                stessa regione;
+
+                            
+                        
+                        
+                            e)
+                            
+                                regioni limitrofe (ad esclusione delle regioni Sicilia e Sardegna, che per la loro collocazione rientrano sub f);
+
+                            
+                        
+                        
+                            f)
+                            
+                                intero territorio nazionale.
 
 ## Art. 5.
 

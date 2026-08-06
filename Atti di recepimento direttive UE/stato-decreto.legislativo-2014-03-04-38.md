@@ -8,7 +8,7 @@ vigente: true
 source: normattiva-opendata
 collection: Atti di recepimento direttive UE
 zip_date: 2026-07-30
-fetched_at: 2026-08-02T09:40:50Z
+fetched_at: 2026-07-30
 ---
 
 DECRETO LEGISLATIVO
@@ -32,13 +32,341 @@ Il presente decreto disciplina l'accesso all'assistenza sanitaria transfrontalie
 
 Il presente decreto legislativo si applica alle prestazioni di assistenza sanitaria transfrontaliera di cui intendono fruire i pazienti di uno Stato membro dell'Unione europea.
 
+3.
+                        
+                            
+                                Il presente decreto non si applica: 
+ 
+                            
+                            
+                                a)
+                                
+                                    ai servizi assistenziali di lunga durata il cui scopo e' sostenere le persone che necessitano di assistenza nello svolgimento di compiti quotidiani e di routine; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    all'assegnazione e all'accesso agli organi ai fini dei trapianti d'organo; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    ad eccezione del capo IV del presente decreto, ai programmi pubblici di vaccinazione contro le malattie contagiose, volti esclusivamente a proteggere la salute della popolazione nel territorio nazionale, e subordinati ad una pianificazione e a misure di attuazione specifiche.
+
 Il presente decreto legislativo si applica senza pregiudizio all'applicazione delle disposizioni nazionali legislative e regolamentari in materia di organizzazione e finanziamento dell'assistenza sanitaria in situazioni non connesse all'assistenza sanitaria transfrontaliera e non obbliga in alcun modo lo Stato a rimborsare i costi dell'assistenza sanitaria prestata da prestatori di assistenza sanitaria stabiliti sul territorio nazionale se detti prestatori non fanno parte del sistema di sicurezza sociale o del Sistema Sanitario Nazionale.
 
 ## Art. 2. — Rapporto con altre disposizioni nazionali e dell'Unione europea
 
+1.
+                        
+                            
+                                Il presente decreto si applica senza recare pregiudizio all'applicazione delle seguenti disposizioni normative: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il decreto legislativo 27 gennaio 1992, n. 79, e successive modificazioni, recante attuazione della direttiva 89/105/CEE riguardante la trasparenza delle misure che regolano la fissazione dei prezzi delle specialita' medicinali per uso umano e la loro inclusione nei regimi nazionali di assicurazione malattia; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il decreto legislativo 14 dicembre 1992, n. 507, e successive modificazioni, recante attuazione della direttiva 90/385/CEE concernente il ravvicinamento delle legislazioni degli Stati membri relative ai dispositivi medici impiantabili attivi; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il decreto legislativo 24 febbraio 1997, n. 46, e successive modificazioni, recante attuazione della direttiva 93/42/CEE concernente i dispositivi medici; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    il decreto legislativo 8 settembre 2000, n. 332, e successive modificazioni, recante attuazione della direttiva 98/79/CE relativa ai dispositivi medico-diagnostici in vitro; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    il decreto legislativo 30 giugno 2003, n. 196, e successive modificazioni, recante codice in materia di protezione dei dati personali; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    il decreto legislativo 25 febbraio 2000, n. 72, e successive modificazioni, recante attuazione della direttiva 96/71/CE in materia di distacco dei lavoratori nell'ambito di una prestazione di servizi; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    il decreto legislativo 9 aprile 2003, n. 70, e successive modificazioni, recante attuazione della direttiva 2000/31/CE relativa a taluni aspetti giuridici dei servizi della societa' dell'informazione nel mercato interno, con particolare riferimento al commercio elettronico; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    il decreto legislativo 9 luglio 2003, n. 215, e successive modificazioni, recante attuazione della direttiva 2000/43/CE per la parita' di trattamento tra le persone indipendentemente dalla razza e dall'origine etnica; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    il decreto legislativo 24 giugno 2003, n. 211, e successive modificazioni, recante attuazione della direttiva 2001/20/CE relativa all'applicazione della buona pratica clinica nell'esecuzione delle sperimentazioni cliniche di medicinali per uso clinico; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    il decreto legislativo 24 aprile 2006, n. 219, e successive modificazioni, recante attuazione della direttiva 2001/83/CE (e successive direttive di modifica) relativa ad un codice comunitario concernente i medicinali per uso umano, nonche' della direttiva 2003/94/CE; 
+
+                                
+                            
+                            
+                                m)
+                                
+                                    il decreto legislativo 20 dicembre 2007, n. 261, e successive modificazioni, recante revisione del decreto legislativo 19 agosto 2005, n. 191, recante attuazione della direttiva 2002/98/CE, che stabilisce norme di qualita' e sicurezza per la raccolta, il controllo, la lavorazione, la conservazione e la distribuzione del sangue umano e dei suoi componenti; 
+
+                                
+                            
+                            
+                                n)
+                                
+                                    il regolamento (CE) n. 859/2003 del Consiglio, del 14 maggio 2003, che estende le disposizioni del regolamento (CEE) n. 1408/71 e del regolamento (CEE) n. 574/72 ai cittadini di paesi terzi cui tali disposizioni non siano gia' applicabili unicamente a causa della nazionalita'; 
+
+                                
+                            
+                            
+                                o)
+                                
+                                    il decreto legislativo 6 novembre 2007, n. 191, e successive modificazioni, recante attuazione della direttiva 2004/23/CE sulla definizione delle norme di qualita' e di sicurezza per la donazione, l'approvvigionamento, il controllo, la lavorazione, la conservazione, lo stoccaggio e la distribuzione di tessuti e cellule umani; 
+
+                                
+                            
+                            
+                                p)
+                                
+                                    il regolamento (CE) n. 726/2004 del Parlamento europeo e del Consiglio, del 31 marzo 2004, che istituisce procedure comunitarie per l'autorizzazione e la sorveglianza dei medicinali per uso umano e veterinario, e che istituisce l'agenzia europea per i medicinali; 
+
+                                
+                            
+                            
+                                q)
+                                
+                                    regolamento (CE) n. 1394/2007 del Parlamento europeo e del Consiglio, del 13 novembre 2007, sui medicinali per terapie avanzate recante modifica della direttiva 2001/83/CE e del regolamento (CE) n. 726/2004; 
+
+                                
+                            
+                            
+                                r)
+                                
+                                    il regolamento (CE) n. 883/2004 del Parlamento europeo e del Consiglio, del 29 aprile 2004, relativo al coordinamento dei sistemi di sicurezza sociale, e il regolamento (CE) n. 987/2009 del Parlamento europeo e del Consiglio, del 16 settembre 2009, che stabilisce le modalita' di applicazione del regolamento (CE) n. 883/2004 relativo al coordinamento dei sistemi di sicurezza sociale; 
+
+                                
+                            
+                            
+                                s)
+                                
+                                    il decreto legislativo 6 novembre 2007, n. 206, e successive modificazioni, recante attuazione della direttiva 2005/36/CE relativa al riconoscimento delle qualifiche professionali, nonche' della direttiva 2006/100/CE che adegua determinate direttive sulla libera circolazione delle persone a seguito dell'adesione di Bulgaria e Romania; 
+
+                                
+                            
+                            
+                                t)
+                                
+                                    il regolamento (CE) n. 1082/2006 del Parlamento europeo e del Consiglio, del 5 luglio 2006, relativo a un gruppo europeo di cooperazione territoriale (GECT); 
+
+                                
+                            
+                            
+                                u)
+                                
+                                    il regolamento (CE) n. 1338/2008 del Parlamento europeo e del Consiglio, del 16 dicembre 2008, relativo alle statistiche comunitarie in materia di sanita' pubblica e di salute e sicurezza sul luogo di lavoro; 
+
+                                
+                            
+                            
+                                v)
+                                
+                                    il regolamento (CE) n. 593/2008 del Parlamento europeo e del Consiglio, del 17 giugno 2008, sulla legge applicabile alle obbligazioni contrattuali (Roma I), il regolamento (CE) n. 864/2007 del Parlamento europeo e del Consiglio, dell'11 luglio 2007, sulla legge applicabile alle obbligazioni extracontrattuali (Roma II) e altre norme dell'Unione europea sul diritto privato internazionale, in particolare le norme relative alla giurisdizione degli organi giudiziari e alla legge applicabile; 
+
+                                
+                            
+                            
+                                z)
+                                
+                                    l' articolo 1, comma 340, della legge 24 dicembre 2012, n. 228, e successive modificazioni, recante disposizioni per la formazione del bilancio annuale e pluriennale dello Stato (Legge di stabilita' 2013), e la direttiva 2010/53/UE del Parlamento europeo e del Consiglio, del 7 luglio 2010, relativa alle norme di qualita' e sicurezza degli organi umani destinati ai trapianti; 
+
+                                
+                            
+                            
+                                aa)
+                                
+                                    il regolamento (UE) n. 1231/2010 del Parlamento europeo e del Consiglio, del 24 novembre 2010, che estende il regolamento (CE) n. 883/2004 e il regolamento (CE) n. 987/2009 ai cittadini di Paesi terzi cui tali regolamenti non siano gia' applicabili unicamente a causa della nazionalita'.
+
 ## Art. 3. — Definizioni
 
+1.
+                        
+                            
+                                Ai fini del presente decreto, si applicano le seguenti definizioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    «assistenza sanitaria»: i servizi prestati da professionisti sanitari a pazienti, al fine di valutare, mantenere o ristabilire il loro stato di salute, ivi compresa la prescrizione, la somministrazione e la fornitura di medicinali e dispositivi medici; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    «persona assicurata»: 
+ 1) le persone, ivi compresi i loro familiari e i loro superstiti, individuate dall'articolo 2 del regolamento (CE) n. 883/2004 del Parlamento europeo e del Consiglio, del 29 aprile 2004, e che sono definite «persone assicurate» ai sensi dell'articolo 1, paragrafo 1, lettera c), di tale regolamento; 
+ 2) i cittadini di Paesi terzi, cui si applica il regolamento (CE) n. 859/2003 del Consiglio, del 14 maggio 2003, o il regolamento (UE) n. 1231/2010 del Parlamento europeo e del Consiglio, del 24 novembre 2010, o che soddisfano le condizioni richieste dalla legislazione dello Stato membro di affiliazione per quanto concerne il diritto alle prestazioni; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    «Stato membro di affiliazione»: 
+ 1) per le persone di cui alla lettera b), numero 1), lo Stato membro dell'Unione europea competente a concedere alla persona assicurata un'autorizzazione preventiva a ricevere cure adeguate al di fuori dello Stato membro di residenza, ai sensi del regolamento (CE) n. 883/2004 del Parlamento europeo e del Consiglio, del 29 aprile 2004, e del regolamento (CE) n. 987/2009 del Parlamento europeo e del Consiglio, del 16 settembre 2009; 
+ 2) per le persone di cui alla lettera b), numero 2), lo Stato membro competente a concedere alla persona assicurata un'autorizzazione preventiva a ricevere cure adeguate in un altro Stato membro ai sensi del regolamento (CE) n. 859/2003 del Consiglio, del 14 maggio 2003, o del regolamento (UE) n. 1231/2010, del Parlamento europeo e del Consiglio, del 24 novembre 2010. Se nessuno Stato membro e' competente ai sensi di tali regolamenti, lo Stato membro di affiliazione e' lo Stato membro dell'Unione europea in cui la persona e' assicurata o ha diritto alle prestazioni di malattia conformemente alla legislazione di tale Stato membro; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    «Stato membro di cura»: lo Stato membro dell'Unione europea nel cui territorio viene effettivamente prestata al paziente l'assistenza sanitaria. Nel caso della telemedicina, l'assistenza sanitaria si considera prestata nello Stato membro in cui e' stabilito il prestatore di assistenza sanitaria; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    «assistenza sanitaria transfrontaliera»: l'assistenza sanitaria prestata in uno Stato membro diverso dallo Stato membro di affiliazione; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    «ASL»: Azienda Sanitaria Locale di cui all'articolo 3 del decreto legislativo 30 dicembre 1992, n. 502, e successive modificazioni; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    «professionista sanitario»: il medico, l'infermiere responsabile dell'assistenza generale, l'odontoiatra, l'ostetrica o il farmacista ai sensi della direttiva 2005/36/CE del Parlamento europeo e del Consiglio, del 7 settembre 2005, o altro professionista che eserciti delle attivita' nel settore dell'assistenza sanitaria, l'accesso alle quali sia riservato a una professione regolamentata secondo la definizione di cui all'articolo 3, paragrafo 1, lettera a), della direttiva 2005/36/CE o una persona considerata professionista sanitario conformemente alla legislazione dello Stato membro di cura; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    «prestatore di assistenza sanitaria»: una qualsiasi persona fisica o giuridica o qualsiasi altra entita' che presti legalmente assistenza sanitaria nel territorio di uno Stato membro dell'Unione europea; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    «paziente»: una qualsiasi persona fisica la quale chieda di fruire o fruisca di assistenza sanitaria in uno Stato membro; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    «medicinale»: un medicinale ai sensi della direttiva 2001/83/CE del Parlamento europeo e del Consiglio, del 6 novembre 2001, e del decreto legislativo 24 aprile 2006, n. 219; 
+
+                                
+                            
+                            
+                                m)
+                                
+                                    «dispositivo medico»: un dispositivo medico ai sensi della direttiva 90/385/CEE del Consiglio, del 20 giugno 1990, della direttiva 93/42/CEE del Consiglio, del 14 giugno 1993, o della direttiva 98/79/CE del Parlamento europeo e del Consiglio, del 27 ottobre 1998; 
+
+                                
+                            
+                            
+                                n)
+                                
+                                    «prescrizione»: la prescrizione di un medicinale o di un dispositivo medico rilasciata da un membro di una professione del settore sanitario regolamentata ai sensi all'articolo 3, paragrafo 1, lettera a), della direttiva 2005/36/CE del Parlamento europeo e del Consiglio, del 7 settembre 2005, che e' legalmente abilitato in tal senso nello Stato membro dell'Unione europea in cui e' rilasciata la prescrizione; 
+
+                                
+                            
+                            
+                                o)
+                                
+                                    «tecnologia sanitaria»: un medicinale, un dispositivo medico o delle procedure mediche o chirurgiche come pure delle misure per la prevenzione, la diagnosi o la cura delle malattie utilizzate nel settore dell'assistenza sanitaria; 
+
+                                
+                            
+                            
+                                p)
+                                
+                                    «cartella clinica»: l'insieme dei documenti in formato cartaceo e/o elettronico contenenti i dati, le valutazioni e le informazioni di qualsiasi tipo sullo stato e sull'evoluzione clinica di un paziente nell'intero processo di cura sanitaria; 
+
+                                
+                            
+                            
+                                q)
+                                
+                                    «NSIS»: Nuovo Sistema Informativo Sanitario del Ministero della salute; 
+
+                                
+                            
+                            
+                                r)
+                                
+                                    «Portale del Ministero della salute»: il principale strumento attraverso il quale il Ministero pubblicizza la disciplina d'accesso all'assistenza sanitaria transfrontaliera e promuove la cooperazione con gli altri Stati membri dell'Unione europea in materia di assistenza sanitaria. Attraverso il proprio Portale il Ministero valorizza i principi comuni condivisi dai sistemi sanitari di tutti i Paesi dell'Unione europea, nonche' le attivita' svolte dai Servizi Sanitari Regionali.
+
 ## Art. 4. — Principi generali dell'assistenza sanitaria transfrontaliera
+
+1.
+                        
+                            
+                                L'assistenza sanitaria transfrontaliera e' prestata, nel territorio nazionale, nel rispetto delle scelte etiche fondamentali dello Stato italiano ed in conformita' ai principi di universalita', di accesso alle cure di elevata qualita', di equita' e di solidarieta', nonche' ai sensi: 
+ 
+                            
+                            
+                                a)
+                                
+                                    della legislazione nazionale in vigore; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    degli standard e degli orientamenti di qualita' e sicurezza definiti dalla normativa vigente nel territorio nazionale; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    della normativa dell'Unione europea in materia di standard di sicurezza.
 
 ## - Capo II Garanzie e mezzi di tutela dei pazienti
 
@@ -95,6 +423,24 @@ Il Ministero della salute attiva le necessarie procedure volte ad assicurare che
 
 Fatta salva l'applicabilita' del regolamento (CE) n. 883/2004 del Parlamento europeo e del Consiglio, del 29 aprile 2004, e conformemente a quanto disposto dagli articoli 9 e 10 del presente decreto, i costi sostenuti da una persona assicurata in Italia che si e' avvalsa dell'assistenza sanitaria transfrontaliera, nel rispetto del presente decreto, sono rimborsati se e nella misura in cui la prestazione erogata sia compresa nei Livelli Essenziali di Assistenza di cui all'articolo 1 del decreto legislativo 30 dicembre 1992, n. 502, e successive modificazioni. E' fatta salva la possibilita' per le regioni di rimborsare, con proprie risorse, gli eventuali livelli di assistenza regionali ulteriori.
 
+2.
+                        
+                            
+                                In deroga al comma 1: 
+ 
+                            
+                            
+                                a)
+                                
+                                    se ai pensionati e ai loro familiari residenti in un altro Stato membro dell'Unione europea e' riconosciuto in conformita' al regolamento (CE) n. 883/2004 il diritto alle prestazioni di malattia, l'assistenza sanitaria prevista dal presente decreto e' prestata senza anticipazione di costi, durante il soggiorno sul territorio nazionale conformemente alla legislazione in vigore, come se gli interessati fossero residenti nel territorio nazionale; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    se l'assistenza sanitaria prestata a norma del presente decreto non e' soggetta ad autorizzazione preventiva, non e' prestata a norma del capitolo 1 del titolo III del regolamento (CE) n. 883/2004 ed e' prestata nel territorio dello Stato membro che a norma di tale regolamento e del regolamento (CE) n. 987/2009 e', in ultima analisi, responsabile del rimborso dei costi, i costi sono a carico di detto Stato membro. Detto Stato membro puo' prendersi carico dei costi relativi all'assistenza sanitaria applicando i termini, le condizioni, i criteri di ammissibilita' e le formalita' di natura normativa ed amministrativa da esso stabiliti, purche' questi siano compatibili con il Trattato sul Funzionamento dell'Unione europea.
+
 I costi relativi all'assistenza sanitaria transfrontaliera sono rimborsati in misura corrispondente alle tariffe regionali vigenti, al netto della compartecipazione alla spesa secondo la normativa vigente. In ogni caso, tale copertura non puo' superare il costo effettivo dell'assistenza sanitaria ricevuta. Le regioni comunicano le tariffe regionali al Punto di contatto nazionale.
 
 E' fatta salva la facolta' per le regioni e le province autonome di rimborsare eventuali altri costi afferenti all'assistenza sanitaria transfrontaliera usufruita da una persona assicurata in Italia, quali le spese di viaggio, alloggio e i costi supplementari eventualmente sostenuti a causa di una o piu' disabilita' da una persona disabile che riceve assistenza sanitaria in un altro Stato dell'Unione europea conformemente al presente decreto e a condizione che detti costi siano adeguatamente documentati.
@@ -115,11 +461,70 @@ La decisione di limitare l'applicazione del presente articolo a norma del comma 
 
 Il rimborso dei costi dell'assistenza sanitaria transfrontaliera e' sottoposto ad autorizzazione preventiva esclusivamente per i casi previsti dal presente articolo e conformemente a quanto previsto dall'articolo 10.
 
+2.
+                        
+                            
+                                L'assistenza sanitaria soggetta ad autorizzazione preventiva e' limitata all'assistenza sanitaria che: 
+ 
+                            
+                            
+                                a)
+                                
+                                    e' soggetta ad esigenze di pianificazione riguardanti l'obiettivo di assicurare, nel territorio nazionale, la possibilita' di un accesso sufficiente e permanente ad una gamma equilibrata di cure di elevata qualita' o la volonta' di garantire il controllo dei costi e di evitare, per quanto possibile ogni spreco di risorse finanziarie, tecniche e umane e: 
+ 1) comporta il ricovero del paziente in questione per almeno una notte, o 
+ 2) richiede l'utilizzo di un'infrastruttura sanitaria o di apparecchiature mediche altamente specializzate e costose, comprese quelle utilizzate nella diagnostica strumentale; o 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    richiede cure che comportano un rischio particolare per il paziente o la popolazione; o 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    e' prestata da un prestatore di assistenza sanitaria che potrebbe suscitare gravi e specifiche preoccupazioni quanto alla qualita' o alla sicurezza dell'assistenza.
+
 Se la richiesta di autorizzazione preventiva presentata da una persona assicurata in Italia al fine di ricevere assistenza sanitaria transfrontaliera soddisfa le condizioni di cui al regolamento (CE) n. 883/2004 del Parlamento europeo e del Consiglio, del 29 aprile 2004, l'autorizzazione preventiva e' concessa conformemente al medesimo regolamento, a meno che la persona assicurata non chieda diversamente.
 
 Quando un paziente colpito da una malattia rara, o per il quale un medico specialista abbia formulato un sospetto diagnostico di malattia rara, chiede l'autorizzazione preventiva, puo' essere sottoposto ad una valutazione clinica da esperti del settore operanti presso un Presidio della rete nazionale per le malattie rare individuato ai sensi del decreto del Ministro della sanita' 18 maggio 2001, n. 279. Se non possono essere reperiti esperti all'interno del territorio nazionale o se il parere dell'esperto non e' conclusivo, puo' essere richiesto un parere scientifico alla struttura estera presso cui il paziente intende recarsi per usufruire della prestazione.
 
 Fatte salve le disposizioni di cui al comma 6, lettere a), b) e c), l'autorizzazione preventiva non puo' essere rifiutata quando l'assistenza sanitaria in questione non puo' essere prestata sul territorio nazionale entro un termine giustificabile dal punto di vista clinico, sulla base di una valutazione medica oggettiva dello stato di salute del paziente, dell'anamnesi e del probabile decorso della sua malattia, dell'intensita' del dolore e della natura della sua disabilita' al momento in cui la richiesta di autorizzazione e' stata fatta o rinnovata.
+
+6.
+                        
+                            
+                                L'autorizzazione preventiva e' negata nei seguenti casi: 
+ 
+                            
+                            
+                                a)
+                                
+                                    in base ad una valutazione clinica, il paziente sarebbe esposto con ragionevole certezza a un rischio per la sua sicurezza che non puo' essere considerato accettabile, tenuto conto del potenziale beneficio per il paziente stesso dell'assistenza sanitaria transfrontaliera richiesta; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    a causa dell'assistenza sanitaria transfrontaliera in questione, il pubblico sarebbe esposto con ragionevole certezza a notevoli pericoli per la sicurezza; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    l'assistenza sanitaria in questione e' prestata da un prestatore di assistenza sanitaria che suscita gravi e specifiche preoccupazioni quanto al rispetto degli standard e orientamenti relativi alla qualita' dell'assistenza e alla sicurezza del paziente, comprese le disposizioni sulla vigilanza, indipendentemente dal fatto che tali standard e orientamenti siano stabiliti da disposizioni legislative e regolamentari o attraverso sistemi di accreditamento istituiti dallo Stato membro di cura; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    l'assistenza sanitaria in questione puo' essere prestata nel territorio nazionale entro un termine giustificabile dal punto di vista clinico, tenuto presente lo stato di salute e il probabile decorso della malattia.
 
 Il Punto di Contatto Nazionale mette a disposizione del pubblico le informazioni sull'assistenza sanitaria soggetta ad autorizzazione preventiva ai fini del presente decreto, nonche' tutte le informazioni relative al sistema di autorizzazione preventiva.
 
@@ -135,6 +540,24 @@ Le procedure amministrative relative alla richiesta di autorizzazione preventiva
 Ogni procedura amministrativa deve essere facilmente accessibile e deve garantire la trattazione obiettiva e imparziale delle domande relative all'autorizzazione preventiva e al rimborso dei costi. Le informazioni relative a tali procedure devono essere rese pubbliche.
 
 La domanda per la richiesta di autorizzazione preventiva e' presentata, con le modalita' disciplinate dal presente articolo, per le prestazioni di cui all' articolo 9, comma 8. In ogni caso, la persona assicurata che intende beneficiare dell'assistenza transfrontaliera e del conseguente rimborso ai sensi del presente decreto, presenta apposita domanda alla ASL territorialmente competente, affinche' sia verificato se la medesima prestazione debba essere sottoposta ad autorizzazione preventiva ai sensi dell' articolo 9, comma 2, lettere b) e c), ove ricorrano le condizioni ivi previste. L'esito di tale verifica e' comunicato al soggetto interessato entro 10 giorni e, ove sia positivo, la domanda di cui al secondo periodo si intende quale richiesta di autorizzazione preventiva ai sensi del comma 4, e i termini di cui al comma 7 decorrono dalla sua ricezione.
+
+4.
+                        
+                            
+                                La domanda per la richiesta di autorizzazione preventiva deve essere presentata dalla persona assicurata alla ASL di residenza su apposito modulo fornito dalla ASL medesima e deve essere corredata da certificazione medica. Nella domanda devono essere indicati almeno: 
+ 
+                            
+                            
+                                a)
+                                
+                                    l'indicazione diagnostica o terapeutica e la prestazione sanitaria di cui si intende usufruire; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il luogo prescelto per la prestazione e il prestatore di assistenza sanitaria presso cui la persona assicurata intende recarsi.
 
 La domanda puo' contenere eventuali altre ulteriori specifiche necessarie ai fini dell'esame della richiesta dell'autorizzazione preventiva.
 
@@ -188,9 +611,73 @@ Partecipazione dell'Italia allo sviluppo delle reti di riferimento europee «ERN
 
 L'Italia concorre allo sviluppo delle reti di riferimento europee «ERN» tra prestatori di assistenza sanitaria e centri di eccellenza situati negli Stati membri dell'Unione europea e si impegna a tal fine a promuovere ed agevolare il coordinamento dei centri d'eccellenza situati sul proprio territorio nazionale in vista della partecipazione a tali reti.
 
+2.
+                        
+                            
+                                Per le finalita' di cui al comma 1, il Ministero della salute, di concerto con le regioni e le province autonome di Trento e Bolzano, istituisce un organismo di coordinamento e monitoraggio, in armonia con quelli gia' esistenti in ambito comunitario per rendere pienamente confrontabili i risultati raggiunti, trasparente e che stabilisce le regole e suggerisce modelli orientati alla valorizzazione delle eccellenze nelle strutture sanitarie italiane, anche in vista della loro partecipazione alle ERN, con il compito di: 
+ 
+                            
+                            
+                                a)
+                                
+                                    individuare regole, modelli e indicatori di riferimento per la valorizzazione delle eccellenze presenti nelle strutture ospedaliere nazionali, per il monitoraggio degli standard di eccellenza delle performance ospedaliere, sulla base di quanto gia' in uso per la valutazione delle migliori pratiche, per il raggiungimento di elevati standard di qualita' nell'assistenza; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    elaborare il percorso orientato alla valorizzazione delle eccellenze nel rispetto della legislazione nazionale in vigore ed in aderenza ai requisiti ed alle procedure stabilite dalla Commissione europea ai sensi dell'articolo 12, paragrafo 4, della direttiva 2011/24/UE, tramite un sistema di identificazione e monitoraggio dei prestatori di assistenza sanitaria, per il riconoscimento dei livelli di qualita' e sicurezza, nell'ambito della programmazione sanitaria nazionale; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    supportare la Commissione europea nella procedura di valutazione e selezione dei centri di riferimento e delle reti; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    proporre modelli per il collegamento tra prestatori di assistenza sanitaria e le reti; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    coordinare la complessiva cooperazione in materia anche promuovendo lo sviluppo di reti nazionali e regionali; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    diffondere le informazioni relative alle opportunita' derivanti dalle ERN ai prestatori di assistenza sanitaria ed ai centri di eccellenza in tutto il territorio nazionale.
+
 La partecipazione all'organismo di cui al comma 2 e' a titolo gratuito e non comporta compensi, gettoni di presenza e rimborsi spese.
 
 ## Art. 14. — Malattie rare
+
+1.
+                        
+                            
+                                L'Italia coopera con gli altri Stati membri e con la Commissione europea allo sviluppo di capacita' di diagnosi e di cura, in particolare al fine di: 
+ 
+                            
+                            
+                                a)
+                                
+                                    rendere i professionisti sanitari consapevoli degli strumenti a loro disposizione a livello di Unione europea per aiutarli a compiere una corretta diagnosi delle malattie rare, in particolare la base dati Orphanet, e le reti di riferimento europee; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    rendere i pazienti, i professionisti sanitari e gli organismi responsabili del finanziamento dell'assistenza sanitaria consapevoli delle possibilita' offerte dal regolamento (CE) n. 883/2004 per il trasferimento di pazienti con malattie rare in altri Stati membri dell'Unione europea, anche per diagnosi e cure, incluse nei livelli essenziali di assistenza, che non sono disponibili in Italia.
 
 ## Art. 15. — Assistenza sanitaria online
 
@@ -205,6 +692,38 @@ L'Italia si impegna nella cooperazione e nello scambio di informazioni scientifi
 ## Art. 17. — Relazioni e comunicazioni
 
 Il Ministero della salute fornisce alla Commissione europea l'assistenza e tutte le informazioni disponibili per svolgere la valutazione e preparare le relazioni di cui all'articolo 20 della direttiva 2011/24/UE.
+
+2.
+                        
+                            
+                                Il Ministero della salute, ai sensi del presente decreto, comunica alla Commissione europea: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il nome e le coordinate del Punto di Contatto Nazionale, istituito ai sensi dell'articolo 7; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le decisioni di limitare i rimborsi per i motivi indicati all'articolo 8, comma 8; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    le categorie di assistenza sanitaria di cui all'articolo 9, comma 2, lettera a); 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    i nominativi e le coordinate delle autorita' o degli organismi nazionali responsabili della valutazione delle tecnologie sanitarie di cui all'articolo 16.
 
 Per la trasmissione dei dati e delle informazioni di cui al presente articolo si osservano, ove gia' definite, le modalita' stabilite dalla Commissione europea.
 

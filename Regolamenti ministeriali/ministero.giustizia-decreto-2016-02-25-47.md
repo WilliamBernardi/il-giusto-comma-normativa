@@ -8,8 +8,8 @@ vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
 vigenza_date: 2021-12-11
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:41Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -34,6 +34,53 @@ Ai fini del presente regolamento, per «legge» si intende la legge 31 dicembre 
 Modalita' di accertamento dell'esercizio della professione in modo effettivo, continuativo abituale e prevalente
 
 Il consiglio dell'Ordine circondariale, ogni tre anni a decorrere dall'entrata in vigore del presente regolamento, verifica, con riguardo a ciascuno degli avvocati iscritti all'Albo, anche a norma dell'articolo 6 del decreto legislativo 2 febbraio 2001, n. 96, la sussistenza dell'esercizio della professione in modo effettivo, continuativo, abituale e prevalente. La verifica di cui al periodo precedente non e' svolta per il periodo di cinque anni dalla prima iscrizione all'Albo. La disposizione di cui al secondo periodo si applica anche all'avvocato iscritto alla sezione speciale di cui all'articolo 6 del decreto legislativo 2 febbraio 2001, n. 96.
+
+2.
+                    
+                        
+                            La professione forense e' esercitata in modo effettivo, continuativo, abituale e prevalente quando l'avvocato: 
+ 
+                        
+                        
+                            a)
+                            
+                                e' titolare di una partita IVA attiva o fa parte di una societa' o associazione professionale che sia titolare di partita IVA attiva; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                ha l'uso di locali e di almeno un'utenza telefonica destinati allo svolgimento dell'attivita' professionale, anche in associazione professionale, societa' professionale o in associazione di studio con altri colleghi o anche presso altro avvocato ovvero in condivisione con altri avvocati; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                
+                                    ((LETTERA SOPPRESSA DAL DECRETO 15 OTTOBRE 2021, N. 174)); 
+
+                            
+                        
+                        
+                            d)
+                            
+                                e' titolare di un indirizzo di posta elettronica certificata, comunicato al consiglio dell'Ordine; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                ha assolto l'obbligo di aggiornamento professionale secondo le modalita' e le condizioni stabilite dal Consiglio nazionale forense; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                ha in corso una polizza assicurativa a copertura della responsabilita' civile derivante dall'esercizio della professione, ai sensi dell'articolo 12, comma 1, della legge.
 
 I requisiti previsti dal comma 2 devono ricorrere congiuntamente, ferme restando le esenzioni personali previste per legge.
 

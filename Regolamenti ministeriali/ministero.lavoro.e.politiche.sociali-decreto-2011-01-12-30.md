@@ -8,8 +8,8 @@ codice_redazionale: 011G0068
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:40Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -58,6 +58,39 @@ L'onere di finanziamento del Fondo, posto dall'articolo 1, comma 244, della legg
 
 Agli oneri di cui al comma l si provvede con un'addizionale sui premi versati dalle imprese assicurate all'INAIL ed al soppresso IPSEMA, individuate con riferimento allo svolgimento delle attivita' lavorative che hanno comportato il riconoscimento dei benefici previdenziali per esposizione all'amianto, di cui alla legge 27 marzo 1992, n. 257, e successive modificazioni.
 
+3.
+                    
+                        
+                            Le imprese tenute al versamento dell'addizionale sui premi assicurativi all'INAIL, sono, secondo un principio di mutualita', quelle che attualmente svolgono le stesse attivita' lavorative che hanno comportato il riconoscimento dei benefici previdenziali di cui al comma 2 per un numero di lavoratori uguale o superiore a 2.000 soggetti, classificate secondo le vigenti tariffe dei premi, approvate con decreto del Ministro del lavoro e della previdenza sociale 12 dicembre 2000, pubblicato nel supplemento ordinario alla Gazzetta Ufficiale 22 gennaio 2001, n. 17, alle seguenti voci: 
+ 
+ 
+                        
+                        
+                            a)
+                            
+                                gestione Artigianato - voci di lavorazione 3630, 4100, 6111, 6112, 6113, 6212, 6311, 6411, 6421, 6422, 6581, 7271, 7272, 9200; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                gestione Industria - voci di lavorazione 3620, 4110, 6111, 6112, 6114, 6212, 6311, 6413, 6421, 6422, 6581, 7271, 7272, 7273, 9220; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                gestione terziario - voci di lavorazione 3620, 4100, 6100, 6211, 6310, 6410, 6420, 6581, 7200, 9220; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                gestione altre attivita' - voci di lavorazione 3620, 4100, 6100, 7100.
+
 Le lavorazioni, oggetto di addizionale, di competenza del soppresso IPSEMA, si riferiscono alla gestione trasporto merci ed alla gestione trasporto passeggeri.
 
 Per gli anni 2008 e 2009, l'addizionale sui premi di cui al comma 2 e' fissata in misura pari a 1,44% per le voci di lavorazione di cui al comma 3 ed in misura pari allo 0,03% per le lavorazioni di cui al comma 4. A decorrere dal 2010, l'addizionale sui premi di cui al comma 2 e' fissata in misura pari a 1,07% per le voci di tariffa di cui al comma 3 ed in misura pari allo 0,02% per le lavorazioni di cui al comma 4.
@@ -92,6 +125,45 @@ Il Comitato si avvale delle competenti strutture dell'INAIL.
 Ai componenti del Comitato non spettano compensi ne' rimborsi spese a qualsiasi titolo dovuti. Al funzionamento dello stesso si provvede nell'ambito degli ordinari stanziamenti di bilancio.
 
 ## Art. 6. — Compiti del Comitato amministratore
+
+1.
+                    
+                        
+                            Il Comitato amministratore del Fondo svolge i seguenti compiti: 
+ 
+                        
+                        
+                            a)
+                            
+                                predispone, sulla base dei criteri stabiliti dal Consiglio di indirizzo e vigilanza dell'INAIL, i bilanci annuali della gestione, preventivo e consuntivo, corredati da una relazione sulla gestione stessa; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                delibera il regolamento di funzionamento del Fondo entro e non oltre due mesi dal suo insediamento; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                partecipa alla procedura di determinazione e variazione della prestazione aggiuntiva secondo le modalita' di cui al presente decreto; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                vigila sulla affluenza dell'addizionale, sull'erogazione delle prestazioni nonche' sull'andamento della gestione del Fondo, proponendo al Ministro del lavoro e delle politiche sociali e al Ministro dell'economia e delle finanze i provvedimenti necessari per migliorare l'efficacia e l'entita' della prestazione del Fondo; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                assolve ogni altro compito previsto dal regolamento di cui alla lettera b), senza oneri a carico del Fondo medesimo.
 
 ## Art. 7. — Ricorsi
 

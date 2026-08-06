@@ -8,8 +8,8 @@ codice_redazionale: 098G0515
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:42Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -24,6 +24,45 @@ Considerata l'opportunita' di determinare in base alla potenza effettiva, KW e C
 Udito il parere del Consiglio di Stato, emesso dalla sezione consultiva per gli atti normativi nell'adunanza del 31 agosto 1998;
 
 ## Art. 1. — Termini di pagamento
+
+1.
+                    
+                        
+                            Dal 1 gennaio 1998 le tasse automobilistiche sono corrisposte con le seguenti modalita' ed entro i seguenti termini di scadenza:
+ 
+                        
+                        
+                            a)
+                            
+                                per le autovetture e per gli autoveicoli per il trasporto promiscuo con motore alimentato a benzina, o a GPL o a metano, anche se in alternativa alla benzina, o a gasolio, se aventi le caratteristiche tecniche di cui all'articolo 65, comma 5, del decreto-legge 30 agosto 1993, n. 331, convertito dalla legge 19 ottobre 1993, n. 427, o elettrico, con potenza fiscale superiore a 9 cavalli, se immatricolati fino al 31 dicembre 1997, o con potenza effettiva superiore a 35 KW o a 47 CV, se immatricolati successivamente a tale data, e per gli autoscafi iscritti nei pubblici registri: in unica soluzione per periodi fissi annuali decorrenti dal 1 gennaio, 1 maggio e 1 settembre;
+
+                            
+                        
+                        
+                            b)
+                            
+                                per gli stessi autoveicoli di cui alla precedente lettera a), con potenza fiscale fino a 9 cavalli, se immatricolati fino al 31 dicembre 1997, o con potenza effettiva fino a 35 KW o a 47 CV, se immatricolati successivamente a tale data, e per tutti i motoveicoli: in unica soluzione per periodi fissi annuali decorrenti dal 1 febbraio e 1 agosto;
+
+                            
+                        
+                        
+                            c)
+                            
+                                per le autovetture e gli autoveicoli ad uso promiscuo da locare senza conducente o con alimentazione a gasolio privi delle caratteristiche tecniche indicate alla lettera a), con potenza fiscale superiore a 9 cavalli, se immatricolati fino al 31 dicembre 1997, o con potenza effettiva superiore a 35 KW o 47 CV, se immatricolati successivamente a tale data: per uno o due periodi fissi quadrimestrali decorrenti dal 1 gennaio, 1 maggio e 1 settembre o per l'intero anno (12/12) decorrente dall'inizio di uno dei suddetti periodi fissi;
+
+                            
+                        
+                        
+                            d)
+                            
+                                per le autovetture e gli autoveicoli ad uso promiscuo da locare senza conducente o con alimentazione a gasolio privi delle caratteristiche tecniche indicate nella lettera a), con potenza fiscale fino a 9 cavalli, se immatricolati fino al 31 dicembre 1997, o con potenza effettiva fino a 35 KW o 47 CV, se immatricolati successivamente a tale data: per un periodo fisso semestrale decorrente dal 1 febbraio e 1 agosto oppure per l'intero anno (12/12) decorrente dall'inizio di uno dei suddetti periodi fissi;
+
+                            
+                        
+                        
+                            e)
+                            
+                                per tutti gli altri autoveicoli diversi da quelli di cui alle precedenti lettere, per i rimorchi, per i motori fuori bordo da applicare ad imbarcazioni non iscritte nei pubblici registri: per uno o due periodi fissi quadrimestrali decorrenti dal 1 febbraio, 1 giugno e 1 ottobre, oppure per un intero anno (12/12) decorrente dall'inizio di uno dei suddetti periodi fissi.
 
 Il pagamento e' effettuato nel corso del mese iniziale dei periodi fissi sopra stabiliti. La decorrenza di detti periodi fissi per i veicoli immatricolati fino al 31 dicembre 1997 e' quella gia' fissata per l'anno 1997.
 

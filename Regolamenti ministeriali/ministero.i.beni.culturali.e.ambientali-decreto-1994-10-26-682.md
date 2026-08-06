@@ -8,8 +8,8 @@ codice_redazionale: 094G0718
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:40Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -29,8 +29,114 @@ Le categorie di documenti formati o comunque rientranti nella disponibilita' del
 
 ## Art. 2. — Categorie di documenti inaccessibili per motivi di ordine e sicurezza pubblica ovvero ai fini di prevenzione e repressione della criminalita'.
 
+1.
+                    
+                        
+                            Ai sensi dell'art. 8, comma 5, lettera c), del decreto del Presidente della Repubblica 27 giugno 1992, n. 352, ed in relazione all'esigenza di tutelare l'ordine pubblico e per la prevenzione e la repressione della criminalita', sono sottratte all'accesso le seguenti categorie di documenti:
+ 
+                        
+                        
+                            a)
+                            
+                                documentazione relativa a progetti di allestimento e ristrutturazione di edifici destinati alla conservazione di beni culturali con particolare riferimento alle planimetrie e ubicazione delle sale espositive e dei depositi, nonche' degli impianti in genere e di quelli di sicurezza in particolare;
+
+                            
+                        
+                        
+                            b)
+                            
+                                documentazione relativa a progetti di restauro e/o ristrutturazione di edifici pubblici e privati con particolare riferimento alle planimetrie, nei limiti in cui detti documenti contengono notizie rilevanti al fine di garantire l'ordine e la sicurezza pubblica nonche' la prevenzione e repressione della criminalita';
+
+                            
+                        
+                        
+                            c)
+                            
+                                documentazione relativa alle richieste di scorta armata per il trasporto di beni culturali;
+
+                            
+                        
+                        
+                            d)
+                            
+                                documentazione relativa ai beni del demanio militare;
+
+                            
+                        
+                        
+                            e)
+                            
+                                documentazione relativa alla vigilanza sul commercio dei beni culturali, nei limiti in cui detti documenti contengono notizie rilevanti al fine di garantire l'ordine e la sicurezza pubblica nonche' la prevenzione e repressione della criminalita';
+
+                            
+                        
+                        
+                            f)
+                            
+                                documentazione relativa all'applicazione dell'articolo 9 della legge 20 novembre 1971, n. 1062 (norme penali sulla contraffazione delle opere d'arte), nei limiti in cui detti documenti contengono notizie rilevanti al fine di garantire l'ordine e la sicurezza pubblica nonche' la prevenzione e repressione della criminalita';
+
+                            
+                        
+                        
+                            g)
+                            
+                                documentazione relativa a rapporti con autorita' e organismi nazionali e internazionali di polizia e con il comando carabinieri tutela patrimonio artistico.
+
 ## Art. 3. — Categorie di documenti inaccessibili per motivi di riservatezza di
  terzi, persone, gruppi, associazioni ed imprese.
+
+1.
+                    
+                        
+                            Ai sensi dell'art. 8, comma 5, lettera d), del decreto del Presidente della Repubblica 27 giugno 1992, n. 352, ed in relazione all'esigenza di salvaguardare la vita privata e la riservatezza di terzi, persone, gruppi, associazioni ed imprese, garantendo, peraltro, ai richiedenti la visione degli atti relativi ai procedimenti amministrativi, la cui conoscenza sia necessaria per curare o per difendere i loro interessi giuridici, sono sottratte all'accesso le seguenti categorie di documenti:
+ 
+                        
+                        
+                            a)
+                            
+                                documentazione riguardante il dipendente dell'amministrazione contenente notizie sulla sua situazione familiare, sanitaria, professionale, finanziaria o comunque collegate alla sua persona;
+
+                            
+                        
+                        
+                            b)
+                            
+                                documentazione attinente ad accertamenti ispettivi e amministrativo-contabili, nei limiti in cui detti documenti contengono notizie rilevanti al fine di garantire la vita privata e la riservatezza di terzi, persone, gruppi, associazioni ed imprese;
+
+                            
+                        
+                        
+                            c)
+                            
+                                documentazione concernente lavori di commissioni e organi collegiali fino alla conclusione del relativo procedimento, nei limiti in cui detti documenti contengono notizie rilevanti al fine di garantire la vita privata e la riservatezza di terzi, persone, gruppi, associazioni ed imprese;
+
+                            
+                        
+                        
+                            d)
+                            
+                                rapporti alla procura generale della Corte dei conti e richieste o relazioni di detta procura ove siano nominativamente individuati soggetti per i quali si appalesa la sussistenza di responsabilita' amministrative, patrimoniali, contabili o penali;
+
+                            
+                        
+                        
+                            e)
+                            
+                                atti di promovimento di azioni di responsabilita' di fronte alla procura generale della Corte dei conti, nonche' alle competenti autorita' giudiziarie;
+
+                            
+                        
+                        
+                            f)
+                            
+                                documentazione relativa alla situazione finanziaria, economica e patrimoniale di persone, gruppi, associazioni ed imprese comunque utilizzata ai fini dell'attivita' amministrativa;
+
+                            
+                        
+                        
+                            g)
+                            
+                                segnalazioni ed atti istruttori in materia di esposti informali di privati, di organizzazioni sindacali e di categoria o altre associazioni, per la durata dell'attivita' istruttoria, nei limiti in cui detti documenti contengono notizie rilevanti al fine di garantire la vita privata e la riservatezza di terzi, persone, gruppi, associazioni ed imprese.
 
 ## Art. 4. — Esclusioni dal diritto di accesso
  gia' previste dall'ordinamento

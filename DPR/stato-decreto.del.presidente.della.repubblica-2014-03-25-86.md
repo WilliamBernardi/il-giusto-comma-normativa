@@ -7,8 +7,8 @@ urn: urn:nir:stato:decreto.del.presidente.della.repubblica:2014-03-25;86
 vigente: true
 source: normattiva-opendata
 collection: DPR
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:47:59Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -36,6 +36,66 @@ Attivita' di coordinamento
 
 La Presidenza del Consiglio dei ministri coordina, ai sensi dell'articolo 5, comma 2, della legge 23 agosto 1988, n. 400, e dell'articolo 2 del decreto legislativo 30 luglio 1999, n. 303, lo svolgimento delle attivita' propedeutiche all'esercizio dei poteri speciali.
 
+2.
+                    
+                        
+                            Per le finalita' di cui al comma 1, il Presidente del Consiglio dei ministri, con proprio decreto, da adottare entro 15 giorni dalla pubblicazione del presente decreto nella Gazzetta Ufficiale: 
+ 
+                        
+                        
+                            a)
+                            
+                                individua l'ufficio della Presidenza del Consiglio dei ministri, di livello almeno dirigenziale generale o equiparato, responsabile dell'attivita' di coordinamento, assicurando allo stesso il supporto di tutte le altre strutture della Presidenza eventualmente interessate in relazione alla specificita' della materia o dell'operazione; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                individua, su indicazione rispettivamente dei Ministri dell'economia e delle finanze, dell'interno, dello sviluppo economico, delle infrastrutture e dei trasporti e degli affari esteri, l'ufficio di livello almeno dirigenziale generale o equiparato responsabile delle attivita' di competenza di ciascun Ministero. Per il Ministero degli affari esteri il responsabile dell'attivita' e' di livello dirigenziale generale; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                istituisce un gruppo di coordinamento presieduto dal responsabile dell'ufficio di cui alla lettera a), o da altro componente da lui indicato e composto dai responsabili degli uffici di cui alla lettera b), o da altri componenti indicati dai rispettivi Ministri interessati. Il gruppo puo' essere integrato, ove necessario e in ogni tempo, da rappresentanti di altre strutture o unita' al fine di potenziarne le capacita' di analisi. Ai soggetti che partecipano ai lavori del gruppo di coordinamento non sono corrisposti gettoni, compensi, rimborsi spese o altri emolumenti comunque denominati; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                stabilisce adeguate modalita' e procedure telematiche necessarie a garantire il tempestivo esercizio dei poteri speciali e la sicurezza dei dati trasmessi, nonche' la predisposizione di apposita modulistica per le notifiche previste dall'articolo 2 del decreto-legge; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                predispone adeguate procedure elettroniche per il ricevimento delle notifiche, degli allegati e delle informazioni inerenti agli atti e alle operazioni di rilevanza strategica; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                assicura modalita' di condivisione dei dati con i Ministeri interessati anche mediante accesso informatico immediato alle notifiche, ai documenti, agli allegati, ai pareri e a tutte le informazioni inerenti agli atti e alle operazioni di rilevanza strategica; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                stabilisce la tempistica e le modalita' di raccordo tra i Ministeri interessati, i termini per la presentazione da parte di questi del parere motivato per l'esercizio o meno dei poteri speciali, e prevede la possibilita' di convocare riunioni di coordinamento anche in video/multiconferenza, per assicurare adeguati elementi informativi ai fini della tempestiva proposta di esercizio o meno dei poteri speciali; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                puo' prevedere procedure semplificate per i casi di operazioni infragruppo o per alcuni tipi di atti e operazioni.
+
 Con decreto del Presidente del Consiglio dei ministri, su designazione per quanto di competenza dei Ministri interessati, sono nominati, in sede di prima attuazione, i componenti del gruppo di coordinamento di cui al comma 2, lettera c), nonche', per ciascuno di essi, due componenti supplenti. E' in facolta' del Presidente del Consiglio e dei Ministri interessati, previa formale comunicazione all'ufficio della Presidenza del Consiglio di cui al comma 2, lettera a), sostituire il componente effettivo o supplente.
 
 ## Art. 3. — Amministrazione responsabile dell'istruttoria e della proposta
@@ -56,6 +116,56 @@ Contenuto e validita' della notifica
 
 La notifica puo' essere trasmessa anche per via telematica, ai sensi dell'articolo 65 del decreto legislativo 7 marzo 2005, n. 82, con modalita' che garantiscano la sicurezza e riservatezza dei dati trasmessi. Essa e' sottoscritta dai legali rappresentanti delle imprese, o da persone munite di procura speciale, e contiene tutte le informazioni, gli allegati e gli elementi essenziali per una completa valutazione dell'operazione di acquisizione o della delibera o dell'atto da adottare.
 
+2.
+                    
+                        
+                            La notifica, presentata secondo la modulistica di cui all'articolo 2, comma 2, lettera d), e' corredata almeno della seguente documentazione: 
+ 
+                        
+                        
+                            a)
+                            
+                                nel caso di adozione di delibere dell'assemblea o degli organi di amministrazione di imprese che operano nei settori di rilevanza strategica per l'interesse nazionale, nei settori dell'energia, dei trasporti e delle comunicazioni, il testo della delibera completa di tutta la documentazione trasmessa agli organi societari per la sua adozione, nonche' di tutte le informazioni idonee a consentire le valutazioni di cui all'articolo 2, comma 7, del decreto-legge; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                nel caso di acquisto a qualsiasi titolo di partecipazioni in imprese che operano nei settori di rilevanza strategica per l'interesse nazionale, nei settori dell'energia, dei trasporti e delle comunicazioni, il progetto industriale perseguito con l'acquisizione oggetto di notifica con il relativo piano finanziario e una descrizione generale del progetto di acquisizione e dei suoi effetti, nonche' informazioni dettagliate sull'acquirente, sul suo ambito di operativita', oltre che tutte le informazioni idonee a consentire le valutazioni di cui all'articolo 2, comma 7, del decreto-legge.
+
+3.
+                    
+                        
+                            Oltre a quanto indicato all'articolo 2, commi 2 e 5, del decreto-legge, la notifica deve contenere: 
+ 
+                        
+                        
+                            a)
+                            
+                                la procura speciale, per i soggetti diversi dai legali rappresentanti delle imprese; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                l'indicazione e gli estremi della persona fisica o giuridica notificante cui comunicare l'eventuale richiesta di informazioni aggiuntive, l'avvio di altre sub fasi del procedimento o l'eventuale atto di esercizio dei poteri speciali; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                l'indicazione «la presente notifica e' effettuata ai sensi e per gli effetti dell'articolo 2 del decreto-legge 15 marzo 2012, n. 21, convertito, con modificazioni, dalla legge 11 maggio 2012, n. 56 - settori energia trasporti e comunicazioni»; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                in calce, la dichiarazione, ai sensi degli articoli 46 e 47 del D.P.R. 28 dicembre 2000, n. 445, per cui «I sottoscritti assumono la responsabilita' che le informazioni fornite sono complete e veritiere e che i documenti allegati sono completi e conformi agli originali».
+
 Il Ministero responsabile dell'istruttoria e della proposta, anche tenendo conto di eventuali indicazioni della Presidenza del Consiglio o di altri Ministeri interessati, dando comunque immediata comunicazione alla Presidenza del Consiglio e al gruppo di coordinamento, informa tempestivamente i soggetti notificanti nel caso di notifica incompleta o irregolare. In tal caso, il termine per l'esercizio dei poteri speciali di cui all'articolo 2, commi 4 e 6, del decreto-legge decorre dal ricevimento della nuova notifica completa. Il Ministero responsabile dell'istruttoria e della proposta, anche tenendo conto di eventuali indicazioni della Presidenza del Consiglio o di altri Ministeri interessati, dando comunque immediata comunicazione alla Presidenza del Consiglio e al gruppo di coordinamento, puo' chiedere ai sensi dell'articolo 2, commi 4 e 6, del decreto-legge ai soggetti notificanti ovvero all'eventuale controparte gli elementi integrativi necessari per la valutazione.
 
 ## Art. 6. — Procedure per l'esercizio dei poteri speciali
@@ -63,6 +173,38 @@ Il Ministero responsabile dell'istruttoria e della proposta, anche tenendo conto
 Il Ministero responsabile dell'istruttoria e della proposta ai sensi dell'articolo 3, tenuto conto delle risultanze emerse nell'ambito del gruppo di coordinamento di cui all'articolo 2, comma 2, lettera c), trasmette tempestivamente in via telematica alla Presidenza del Consiglio dei ministri, e al suddetto gruppo di coordinamento, la proposta di esercizio dei poteri speciali con il relativo schema di provvedimento, ovvero comunica le motivazioni per cui ritiene non necessario l'esercizio dei poteri speciali.
 
 La proposta di esercizio dei poteri speciali, previsti dall'articolo 2, commi 3 e 4, del decreto-legge, e' adottata nei confronti di soggetti interni ed esterni all'Unione europea, mentre la proposta di esercizio dei poteri speciali, previsti dall'articolo 2, comma 6, del decreto-legge, e' adottata solo nei confronti di soggetti esterni all'Unione europea. Lo schema di provvedimento di esercizio dei poteri speciali indica dettagliatamente le minacce di grave pregiudizio per gli interessi pubblici relativi alla sicurezza e al funzionamento delle reti e degli impianti e alla continuita' degli approvvigionamenti e puo' comportare rispettivamente il potere di veto alla delibera o il potere di opposizione all'acquisto nei casi in cui l'imposizione di specifiche prescrizioni, condizioni o impegni non siano sufficienti ad assicurare la tutela degli interessi pubblici.
+
+3.
+                    
+                        
+                            Nel caso in cui i poteri speciali siano esercitati nella forma di assunzione da parte dell'acquirente di impegni diretti a garantire la tutela degli interessi essenziali dello Stato, di cui all'articolo 2, comma 3, del decreto-legge, ai sensi dell'articolo 2, comma 6, del decreto-legge, lo schema di provvedimento indica: 
+ 
+                        
+                        
+                            a)
+                            
+                                le specifiche prescrizioni o condizioni richieste all'impresa; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                specifici criteri e modalita' di monitoraggio; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                l'amministrazione competente a svolgere il monitoraggio delle prescrizioni o condizioni richieste, nonche' l'organo da essa incaricato di curare le relative attivita'; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                le sanzioni previste dal decreto-legge in caso di inottemperanza, anche tenuto conto delle previsioni di cui all'articolo 8.
 
 L'Ufficio della Presidenza del Consiglio, di cui all'articolo 2, comma 2, lettera a), comunica al notificante il decreto del Presidente del Consiglio dei ministri di esercizio dei poteri speciali il giorno stesso e contestualmente da' comunicazione della sua adozione alle competenti Commissioni parlamentari.
 

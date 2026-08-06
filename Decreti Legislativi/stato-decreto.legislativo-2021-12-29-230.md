@@ -8,8 +8,8 @@ vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
 vigenza_date: 2026-04-21
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:33Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -41,6 +41,35 @@ Le disposizioni del presente decreto sono applicabili nelle regioni a statuto sp
 
 ## Art. 2. — Beneficiari
 
+1.
+                    
+                        
+                            L'assegno di cui all'articolo 1, il cui importo e' determinato ai sensi dell'articolo 4, e' riconosciuto ai nuclei familiari: 
+ 
+                        
+                        
+                            a)
+                            
+                                per ogni figlio minorenne a carico e, per i nuovi nati, decorre dal settimo mese di gravidanza; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                per ciascun figlio maggiorenne a carico, fino al compimento dei 21 anni di eta', per il quale ricorra una delle seguenti condizioni: 
+ 1) frequenti un corso di formazione scolastica o professionale, ovvero un corso di laurea; 
+ 2) svolga un tirocinio ovvero un'attivita' lavorativa e possieda un reddito complessivo inferiore a 8.000 euro annui; 
+ 3) sia registrato come disoccupato e in cerca di un lavoro presso i servizi pubblici per l'impiego; 
+ 4) svolga il servizio civile universale; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                per ciascun figlio con disabilita' a carico, senza limiti di eta';
+
 L'assegno di cui all'articolo 1 spetta, nell'interesse del figlio, in parti uguali a chi esercita la responsabilita' genitoriale, salvo quanto previsto dall'articolo 6, commi 4 e 5.
 
 Al fine di assicurare la piena conoscibilita' del beneficio, al momento della registrazione della nascita del figlio, l'ufficiale dello stato civile informa i genitori sull'assegno. Alle attivita' previste dal presente comma si provvede nell'ambito delle risorse umane, finanziarie e strumentali disponibili a legislazione vigente e, comunque, senza nuovi o maggiori oneri per la finanza pubblica.
@@ -51,6 +80,39 @@ Al fine di assicurare la piena conoscibilita' del beneficio, al momento della re
  Il D.L. 21 giugno 2022, n. 73, ha disposto (con l'art. 38, comma 2) che "Le disposizioni di cui al comma 1 hanno effetto con riferimento alle mensilita' spettanti da marzo 2022."
 
 ## Art. 3. — Requisiti soggettivi del richiedente
+
+1.
+                    
+                        
+                            L'assegno di cui all'articolo 1 e' riconosciuto a condizione che al momento della presentazione della domanda e per tutta la durata del beneficio il richiedente sia in possesso congiuntamente dei seguenti requisiti ((...)): 
+ 
+                        
+                        
+                            a)
+                            
+                                sia cittadino italiano o di uno Stato membro dell'Unione europea, o suo familiare, ((...)) ovvero sia cittadino di uno Stato non appartenente all'Unione europea in possesso del permesso di soggiorno UE per soggiornanti di lungo periodo o sia titolare di permesso unico di lavoro autorizzato a svolgere un'attivita' lavorativa per un periodo superiore a sei mesi o sia titolare di permesso di soggiorno per motivi di ricerca autorizzato a soggiornare in Italia per un periodo superiore a sei mesi; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                sia soggetto al pagamento dell'imposta sul reddito in Italia; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                sia residente e domiciliato in Italia ((ovvero sia titolare di un contratto di lavoro subordinato o eserciti un'attivita' di lavoro autonomo che comportino l'iscrizione a una gestione previdenziale obbligatoria secondo la legislazione italiana e sia in regola con il pagamento dei contributi previdenziali dovuti ai sensi della normativa italiana vigente)); 
+
+                            
+                        
+                        
+                            d)
+                            
+                                
+                                    ((LETTERA ABROGATA DAL D.L. 19 FEBBRAIO 2026, N. 19, CONVERTITO CON MODIFICAZIONI DALLA L. 20 APRILE 2026, N. 50)).
 
 ## Art. 4. — Criteri per la determinazione dell'assegno
 
@@ -92,7 +154,105 @@ Gli importi dell'assegno di cui all'articolo 1, come individuati della tabella 1
 
 Al fine di consentire la graduale transizione alle nuove misure a sostegno dei figli a carico e di garantire il rispetto del principio di progressivita', per le prime tre annualita', e' istituita una maggiorazione di natura transitoria, su base mensile, dell'importo dell'assegno di cui all'articolo 1, come determinato ai sensi dell'articolo 4.
 
+2.
+                    
+                        
+                            La maggiorazione di cui al comma 1 e' riconosciuta ai soggetti aventi diritto all'assegno come determinato all'articolo 4 e in presenza delle ulteriori entrambe seguenti condizioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                valore dell'ISEE del nucleo familiare di appartenenza del richiedente non superiore a 25.000 euro; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                effettiva percezione, nel corso del 2021, dell'assegno per il nucleo familiare di cui all'articolo 2 del decreto-legge 13 marzo 1988, n. 69, convertito, con modificazioni, dalla legge 13 maggio 1988, n. 153, in presenza di figli minori da parte del richiedente o da parte di altro componente del nucleo familiare del richiedente.
+
 La maggiorazione mensile di cui al comma 1 e' pari alla somma dell'ammontare mensile della componente familiare, come determinato al comma 4, e dell'ammontare mensile della componente fiscale, come determinato al comma 5, al netto dell'ammontare mensile dell'assegno come determinato all'articolo
+
+4.
+                    
+                        
+                            
+ 4. Per componente familiare si intende: 
+ 
+                        
+                        
+                            a)
+                            
+                                per i nuclei familiari che comprendono entrambi i genitori, inclusi quelli separati o divorziati o comunque non conviventi, il valore teorico dell'assegno per il nucleo familiare determinato sulla base della Tabella A allegata al presente decreto; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                per i nuclei familiari che comprendono uno solo dei due genitori, il valore teorico dell'assegno per il nucleo familiare determinato sulla base della Tabella B allegata al presente decreto.
+
+5.
+                    
+                        
+                            Per componente fiscale si intende: 
+ 
+                        
+                        
+                            a)
+                            
+                                nei casi in cui entrambi i genitori siano titolari di un reddito superiore a 2.840,51 euro annui, la somma degli importi dei valori teorici delle detrazioni per i figli determinati, sulla base della Tabella C allegata al presente decreto, per ciascun genitore; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                nei casi diversi da quelli di cui alla lettera a), l'importo del valore teorico della detrazione per i figli determinato per il solo richiedente sulla base della Tabella D allegata al presente decreto.
+
+6.
+                    
+                        
+                            Ai fini del riconoscimento degli importi indicate dalle Tabelle A, B, C e D: 
+ 
+                        
+                        
+                            a)
+                            
+                                vanno considerati i figli componenti del nucleo familiare del richiedente; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                va considerato l'indicatore della situazione reddituale, valido ai fini ISEE, come risultante dall'articolo 4 del decreto del Presidente del Consiglio dei ministri 5 dicembre 2013, n. 159, per le Tabelle A e B e il reddito del genitore risultante dalla dichiarazione sostitutiva unica ai sensi dell'articolo 10 del decreto del Presidente del Consiglio dei ministri 5 dicembre 2013, n. 159, valida ai fini del calcolo dell'ISEE di cui al comma 2, lettera a), per le Tabelle C e D.
+
+7.
+                    
+                        
+                            La maggiorazione mensile di cui al comma 1 spetta: 
+ 
+                        
+                        
+                            a)
+                            
+                                per l'intero, nell'anno 2022, a decorrere dal 1° marzo 2022; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                per un importo pari a 2/3, nell'anno 2023; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                per un importo pari a 1/3 nell'anno 2024 e per i mesi di gennaio e febbraio nell'anno 2025.
 
 La maggiorazione non spetta a decorrere dal 1° marzo 2025.
 
@@ -165,6 +325,24 @@ Presso la Presidenza del Consiglio dei ministri - Dipartimento per le politiche 
 
 L'Osservatorio e' presieduto dal Presidente dell'Osservatorio nazionale sulla famiglia di cui all'articolo 1, commi 1250 e 1253, della legge 27 dicembre 2006, n. 296, ed e', altresi', composto da un rappresentante del Ministero dell'economia e delle finanze, un rappresentante del Ministero del lavoro e delle politiche sociali, un rappresentante dell'INPS, un rappresentante dell'ISTAT, un membro designato dal Presidente dell'Osservatorio nazionale sulla condizione delle persone con disabilita', un membro designato della Conferenza unificata di cui all'articolo 8 del decreto legislativo 28 agosto 1997, n. 281 nonche' da due rappresentanti delle associazioni familiari maggiormente rappresentative.
 
+3.
+                    
+                        
+                            Nello svolgimento delle funzioni, l'Osservatorio: 
+ 
+                        
+                        
+                            a)
+                            
+                                coordina le proprie attivita' di ricerca con quelle dell'Osservatorio nazionale sulla famiglia e dell'Osservatorio nazionale per l'infanzia e l'adolescenza di cui alla legge 23 dicembre 1997, n. 451; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                predispone per l'Autorita' politica delegata per la famiglia una ((relazione annuale)) sullo stato di implementazione dell'assegno; a tal fine, l'INPS provvede, con le risorse umane, strumentali e finanziarie disponibili a legislazione vigente e senza nuovi o maggiori oneri per la finanza pubblica, alla realizzazione di un osservatorio statistico sui beneficiari dell'assegno aggiornato mensilmente e pubblicato sul sito istituzionale dell'Istituto nonche' alla trasmissione all'Osservatorio di una relazione trimestrale sugli aspetti amministrativi-gestionali; la ((relazione annuale)) dell'Osservatorio individua, altresi', le possibili azioni da realizzare per una maggiore efficacia dell'intervento.
+
 Dall'istituzione e dal funzionamento dell'Osservatorio non devono derivare nuovi o maggiori oneri per la finanza pubblica. Ai suoi componenti non spettano compensi, gettoni di presenza, rimborsi di spese o altri emolumenti comunque denominati.
 
 ## Art. 10. — Abrogazioni e modificazioni
@@ -175,11 +353,75 @@ Con effetto dal 1° marzo 2022, l'articolo 65 della legge 23 dicembre 1998, n. 4
 
 Limitatamente ai nuclei familiari con figli e orfanili, a decorrere dal 1° marzo 2022, cessano di essere riconosciute le prestazioni di cui all'articolo 2 del decreto-legge 13 marzo 1988, n. 69, convertito, con modificazioni, dalla legge 13 maggio 1988, n. 153 e di cui all'articolo 4 del testo unico delle norme concernenti gli assegni familiari, approvato con decreto del Presidente della Repubblica 30 maggio 1955, n. 797. Conseguentemente, sono ridotte le risorse da trasferire all'INPS per effetto del minor fabbisogno relativo alle effettive esigenze connesse alle prestazioni di cui al primo periodo.
 
+4.
+                    
+                        
+                            All'articolo 12 del testo unico delle imposte sui redditi, di cui al decreto del Presidente della Repubblica 22 dicembre 1986, n. 917, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 1, lettera c), primo periodo, dopo le parole «i figli adottivi o affidati» sono aggiunte le seguenti: «, di eta' pari o superiore a 21 anni »; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 1, lettera c), il secondo, il terzo e il quarto periodo sono soppressi; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                al comma 1, lettera c), sesto periodo, dopo le parole «In presenza di piu' figli» sono aggiunte le seguenti: «che danno diritto alla detrazione»; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                il comma 1-bis e' abrogato; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                al comma 2, primo periodo, le parole «Le detrazioni di cui ai commi 1 e 1-bis» sono sostituite dalle seguenti: «Le detrazioni di cui al comma 1»; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                al comma 3, il secondo e il terzo periodo sono soppressi.
+
 Le disposizioni di cui al comma 4 si applicano a decorrere dal 1° marzo 2022.
 
 A decorrere dal 1° gennaio 2022, sono abrogati i commi 348 e 349 dell'articolo 1, della legge 11 dicembre 2016, n. 232.
 
 ## Art. 11. — Disposizioni di proroga in materia di assegno temporaneo per figli minori e di maggiorazione dell'importo dell'assegno al nucleo familiare
+
+1.
+                    
+                        
+                            Al decreto-legge 8 giugno 2021, n. 79, convertito, con modificazioni, dalla legge 30 luglio 2021, n. 112, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                all'articolo 1, comma 1, le parole «31 dicembre 2021» sono sostituite dalle seguenti: «28 febbraio 2022». Il beneficio di cui alla presente lettera e' riconosciuto secondo le modalita' disciplinate dagli articoli da 1 a 4 del citato decreto-legge n. 79 del 2021 e nel limite di spesa di 440 milioni di euro per l'anno 2022; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                all'articolo 5, comma 1, le parole «31 dicembre 2021» sono sostituite dalle seguenti: «28 febbraio 2022».
 
 Agli oneri derivanti dal comma 1, pari a 440 milioni di euro per l'anno 2022 con riferimento alla lettera a) e valutati in 463 milioni di euro per l'anno 2022 con riferimento alla lettera b) si provvede ai sensi dell'articolo 13.
 
@@ -193,6 +435,24 @@ Agli oneri assunzionali derivanti dall'applicazione del comma 1, pari a euro 8.0
 L'INPS pone in essere tutte le iniziative di semplificazione e di informazione all'utenza utilizzando le banche dati presenti negli archivi dell'Istituto, anche al fine di introdurre gradualmente gli strumenti necessari ad un'eventuale erogazione d'ufficio dell'assegno.
 
 ## Art. 13. — Disposizioni finanziarie
+
+1.
+                    
+                        
+                            Agli oneri derivanti dagli articoli da 1 a 8 e 11, valutati in 15.122,50 milioni di euro per l'anno 2022, 18.222,20 milioni di euro per l'anno 2023, 18.694,60 milioni di euro per l'anno 2024, 18.914,80 milioni di euro per l'anno 2025, 19.201 milioni di euro per l'anno 2026, 19.316 milioni di euro per l'anno 2027, 19.431 milioni di euro per l'anno 2028 e 19.547 milioni di euro annui a decorrere dall'anno 2029 e agli oneri derivanti dall'articolo 12, pari a 8,02 milioni di euro per l'anno 2022 e 16,031 milioni di euro annui a decorrere dall'anno 2023, si provvede: 
+ 
+                        
+                        
+                            a)
+                            
+                                quanto a 6.615,92 milioni di euro per l'anno 2022, 6.018,631 milioni di euro per l'anno 2023, 6.674,031 milioni di euro per l'anno 2024, 6.884,031 milioni di euro per l'anno 2025, 6.977,431 milioni di euro per l'anno 2026, 6.918,231 milioni di euro per l'anno 2027, 6.888,131 milioni di euro per l'anno 2028 e 6.857,131 milioni di euro annui a decorrere dall'anno 2029, mediante corrispondente riduzione dell'autorizzazione di spesa di cui all'articolo 1, comma 339, della legge 27 dicembre 2019, n. 160; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                per la restante quota mediante le maggiori entrate derivanti dall'articolo 10, commi 4 e 5 e dalle risorse rivenienti dalle abrogazioni di cui articolo 10, commi da 1 a 3 e comma 6.
 
 Il Ministro dell'economia e delle finanze e' autorizzato ad apportare, con propri decreti, le occorrenti variazioni di bilancio.
 

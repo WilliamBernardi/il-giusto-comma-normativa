@@ -7,8 +7,8 @@ urn: urn:nir:stato:decreto.del.presidente.della.repubblica:2018-08-09;118
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti governativi
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:12Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -32,6 +32,45 @@ Il presente regolamento di organizzazione disciplina l'organizzazione e il funzi
 
 ## Art. 2. — Principi di organizzazione
 
+1.
+                        
+                            
+                                L'organizzazione e il funzionamento interno dell'Agenzia si ispirano ai seguenti principi: 
+ 
+                            
+                            
+                                a)
+                                
+                                    economicita', efficienza e razionale impiego delle risorse disponibili; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    imparzialita' e trasparenza dell'azione amministrativa; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    flessibilita' e innovazione dell'ordinamento interno delle strutture a supporto dei processi gestionali, al fine di garantire la massima efficacia ed efficienza gestionale necessarie per rispondere agli obiettivi strategici dell'Agenzia; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    ottimale valorizzazione del capitale umano attraverso la corretta valutazione dei risultati conseguiti, assicurando la formazione e lo sviluppo professionale dei dipendenti, garantendo pari opportunita' alle lavoratrici e ai lavoratori; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    sviluppo dei sistemi informativi a supporto delle decisioni e utilizzo delle nuove tecnologie, in funzione della facilita' di accesso alle informazioni nei rapporti con i soggetti pubblici e privati destinatari delle stesse.
+
 L'Agenzia si conforma ai principi ed alla disciplina di cui alla legge 7 agosto 1990, n. 241.
 
 All'Agenzia si applicano le disposizioni in materia di tetti retributivi di cui all'articolo 23-ter del decreto-legge 6 dicembre 2011, n. 201, convertito, con modificazioni, dalla legge 22 dicembre 2011, n. 214, quelle di cui all'articolo 13 del decreto-legge 24 aprile 2014, n. 66, convertito, con modificazioni, dalla legge 23 giugno 2014, n. 89, nonche' all'articolo 1, comma 489, della legge 27 dicembre 2013, n. 147. Si applicano, altresi', le disposizioni in merito alla trasparenza e diffusione di informazioni da parte delle pubbliche amministrazioni di cui al decreto legislativo 14 marzo 2013, n. 33, nonche' quelle in materia di inconferibilita' e incompatibilita' degli incarichi ai sensi del decreto legislativo 8 aprile 2013, n. 39, e le disposizioni contenute nei decreti legislativi del 30 marzo 2001, n. 165, e del 27 ottobre 2009, n. 150.
@@ -39,6 +78,31 @@ All'Agenzia si applicano le disposizioni in materia di tetti retributivi di cui 
 ## - Capo II Organizzazione
 
 ## Art. 3. — Struttura organizzativa
+
+1.
+                        
+                            
+                                La struttura organizzativa dell'Agenzia si articola in: 
+ 
+                            
+                            
+                                a)
+                                
+                                    direzioni generali, aventi natura di strutture di livello dirigenziale generale; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    uffici, aventi natura di strutture di livello dirigenziale non generale; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    servizi, aventi natura di unita' organizzative non dirigenziali.
 
 Gli uffici di cui al comma 1, lettera b), individuati nel limite della dotazione organica indicata nella Tabella A allegata, sono istituiti nell'ambito di una direzione generale, per la gestione di un insieme ampio e omogeneo di macro-processi.
 
@@ -48,11 +112,61 @@ Con atto del direttore dell'Agenzia, sentiti i titolari delle direzioni di livel
 
 ## Art. 4. — Dirigenti generali e dirigenti
 
+1.
+                        
+                            
+                                L'Agenzia e' articolata nelle Direzioni generali di seguito indicate, cui sono preposti dirigenti generali: 
+ 
+                            
+                            
+                                a)
+                                
+                                    Direzione degli affari generali e del personale, che svolge le funzioni e i compiti di: supporto agli organi dell'Agenzia per l'esercizio dei compiti e funzioni loro attribuiti dalla vigente normativa, con particolare riferimento a quelli di indirizzo, pianificazione strategica, programmazione e verifica della congruenza tra i risultati conseguiti dall'Agenzia e gli obiettivi della pianificazione strategica; adempimenti connessi alla normativa in tema di Amministrazione trasparente ed alla prevenzione della corruzione; ispezioni, inchieste e controlli interni; organizzazione del lavoro; contenziosi e rapporti con l'Avvocatura dello Stato con esclusione di quelli inerenti ai beni sequestrati e confiscati, affari legislativi; relazioni con il pubblico; sicurezza nei luoghi di lavoro, tutela della riservatezza dei dati personali; affari generali; rapporti con l'Unione europea, partecipazione dell'Agenzia a progetti europei e internazionali, utilizzazione dei fondi strutturali europei; convenzioni e protocolli con pubbliche amministrazioni, regioni, enti locali, ordini professionali, enti ed associazioni; definizione delle linee evolutive, dello sviluppo e della gestione operativa delle tecnologie informatiche e telematiche per il supporto operativo dell'Agenzia e delle relative procedure di sicurezza; cura dello sviluppo, della conduzione e del funzionamento dei siti intranet, internet e dei flussi documentali ed informativi; svolgimento delle funzioni di selezione, gestione, formazione e trattamento giuridico del personale; relazioni sindacali; ciclo di gestione della performance organizzativa e individuale; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    Direzione beni mobili e immobili sequestrati e confiscati, che svolge le funzioni e i compiti di: istruzione, coordinamento e monitoraggio dei processi amministrativi connessi alla trattazione dei procedimenti giudiziari di sequestro e confisca trasmessi dall'Autorita' giudiziaria; programmazione, indirizzo operativo, coordinamento e controllo in ordine alle attivita' di amministrazione, custodia e destinazione dei beni mobili e immobili sequestrati e confiscati alla criminalita' organizzata di cui all'articolo 110, comma 2, lettere a), b), c), d), e) ed f) del decreto legislativo n. 159 del 2011, e alle attivita' ad esse conseguenti o comunque connesse; predisposizione delle relazioni periodiche ai Ministri dell'interno e della giustizia, elaborazione della normativa la cui applicazione e' demandata all'Agenzia; rapporti con l'Autorita' giudiziaria e con ogni altro ente o amministrazione a vario titolo coinvolto nelle predette attivita', trattazione degli affari contenziosi e rapporti con l'Avvocatura dello Stato in materia; indirizzo, cooperazione, controllo e monitoraggio delle sedi dell'Agenzia nei seguenti settori: analisi, gestione e valorizzazione dei beni mobili e immobili; gestione dei rapporti con gli amministratori fiduciari, compreso il controllo sull'attivita' da essi espletata, con poteri di conferma e revoca dell'incarico; trattazione degli affari contenziosi in materia; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    Direzione aziende e beni aziendali sequestrati e confiscati, che svolge le funzioni e i compiti di: svolgimento delle funzioni di programmazione, indirizzo operativo, coordinamento e controllo in ordine alle attivita' di amministrazione, valorizzazione, custodia e destinazione delle aziende e dei beni aziendali sequestrati e confiscati alla criminalita' organizzata di cui all'articolo 110, comma 2, lettere a), b), c), d), e) ed f) del decreto legislativo n. 159 del 2011, e alle attivita' ad esse conseguenti o comunque connesse; cura dei rapporti con l'Agenzia delle entrate per gli aspetti fiscali e con le Camere di commercio, industria, artigianato e agricoltura; indirizzo, cooperazione, controllo e monitoraggio delle sedi dell'Agenzia nei seguenti settori: analisi, gestione e valorizzazione dei complessi aziendali, compreso il controllo delle gestioni societarie; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    Direzione delle gestioni economiche, finanziarie e patrimoniali, che svolge le funzioni e i compiti di: elaborazione delle previsioni del fabbisogno finanziario; predisposizione del bilancio e del conto consuntivo; cura dei rapporti con la Corte dei conti per i controlli sulla gestione finanziaria dell'Ente e dei beni confiscati; pianificazione e realizzazione delle procedure di approvvigionamento dell'Agenzia e delle attivita' negoziali relative all'acquisizione di beni, servizi e lavori; cura della conservazione dei beni mobili e immobili in uso e di proprieta' dell'Agenzia; cura del trattamento economico degli organi dell'Agenzia e dei consulenti e degli esperti esterni nell'ambito delle attivita' di pertinenza delle Direzioni di cui alle lettere b) e c), nonche' del trattamento economico e previdenziale del personale dirigente e non dirigente dell'Agenzia; gestione separata della contabilita' finanziaria ed economico-patrimoniale relativa alla gestione dell'Agenzia e quella relativa alle attivita' di amministrazione, custodia, destinazione dei beni sequestrati e confiscati, nonche' adempimenti fiscali e gestioni fuori bilancio relative, comprese le fasi di approvazione e di rendicontazione; controllo di gestione; realizzazione di tutte le procedure di alienazione dei beni destinati alla vendita, anche per il soddisfacimento dei crediti riconosciuti e cura dell'incasso e del versamento dei proventi; gestione di tutte le attivita' di riscossione delle somme dovute; cura di tutte le adempienze relative al Fondo unico giustizia ivi comprese le vicende giudiziarie dei beni finanziari confiscati.
+
 Con successivo atto organizzativo del direttore dell'Agenzia, previa comunicazione al Ministro dell'interno ai sensi dell'articolo 110, comma 1, del decreto legislativo n. 159 del 2011, sono definite le competenze degli uffici dirigenziali non generali e delle strutture di livello non dirigenziale di cui alla Tabella B allegata, che costituisce parte integrante del presente regolamento, nonche' la graduazione degli uffici.
 
 ## Art. 5. — Uffici di staff del direttore dell'Agenzia
 
 Alle dirette dipendenze del direttore dell'Agenzia operano due uffici di staff di livello dirigenziale non generale, cui sono preposti, nei limiti della dotazione organica di cui alla Tabella A allegata, due dirigenti di seconda fascia. Essi svolgono funzioni di supporto al direttore dell'Agenzia, favorendo l'individuazione e l'implementazione di strumenti atti a sviluppare le sinergie fra le Direzioni e gli Uffici dell'Agenzia, raccordando i relativi organi e curano la comunicazione istituzionale.
+
+2.
+                        
+                            
+                                Gli uffici di cui al comma 1 sono: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la segreteria tecnica, con funzioni di supporto e collaborazione al direttore, anche in relazione al rapporto con gli altri organi dell'Agenzia, nonche' per la trattazione delle questioni e degli approfondimenti che lo stesso intende gestire direttamente; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'Ufficio relazioni esterne e comunicazione, con funzioni di gestione dei rapporti con le redazioni giornalistiche e con la stampa nazionale ed estera, redazione e diffusione dei comunicati e organizzazione di conferenze stampa, curando la presenza, l'immagine e la visibilita' dell'Agenzia e promuovendone le attivita' allo scopo di garantire una comunicazione coerente e trasparente.
 
 ## Art. 6. — Funzioni vicarie
 
@@ -104,6 +218,31 @@ Al personale che transita nei ruoli dell'Agenzia a seguito delle procedure di mo
 Alla copertura delle restanti unita' di personale dirigenziale e non dirigenziale si provvede, nel limite delle risorse disponibili a legislazione vigente, attraverso le procedure di mobilita' e le forme di accesso al pubblico impiego di cui al decreto legislativo n. 165 del 2001.
 
 ## Art. 11. — Gestione e sviluppo del personale
+
+1.
+                        
+                            
+                                L'Agenzia, in applicazione di quanto disposto in materia dal decreto legislativo n. 165 del 2001, si ispira ai seguenti principi per la gestione e lo sviluppo del personale: 
+ 
+                            
+                            
+                                a)
+                                
+                                    riconoscimento dei risultati; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    mobilita' professionale e responsabilizzazione personale; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    pari opportunita' e benessere organizzativo.
 
 ## Art. 12. — Valutazione del personale
 

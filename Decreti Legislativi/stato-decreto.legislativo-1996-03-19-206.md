@@ -8,8 +8,8 @@ codice_redazionale: 096G0224
 vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:29Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -40,6 +40,25 @@ All'art. 29, comma 1, lettera b), n. 1), del decreto legislativo 17 marzo 1995, 
 
 ## Art. 2. — Modificazioni all'art. 133 del decreto legislativo
  17 marzo 1995, n. 175
+
+1.
+                    
+                        
+                            All'art. 133 del decreto legislativo 17 marzo 1995, n. 175, sono apportate le seguenti modificazioni:
+ 
+                        
+                        
+                            a)
+                            
+                                al termine del comma 3, il punto e' sostituito dalla virgola e sono aggiunte, in fine, le seguenti parole: "e fino al 31 dicembre 1999 per adeguarsi al limite del 5% previsto dal comma 1, lettera b), e per conformarsi alle disposizioni previste dal comma 1, lettera c), del medesimo articolo";
+
+                            
+                        
+                        
+                            b)
+                            
+                                dopo il comma 4, e' aggiunto il seguente:
+ "4-bis. Le imprese di cui al titolo II hanno termine fino al 31 dicembre 1999 per uniformare alle disposizioni di cui agli articoli 27 e seguenti gli attivi a copertura delle riserve tecniche costituite presso sedi secondarie situate in altri Stati membri anteriormente alla data di entrata in vigore del presente decreto".
 
 ## Art. 3. — Entrata in vigore
 

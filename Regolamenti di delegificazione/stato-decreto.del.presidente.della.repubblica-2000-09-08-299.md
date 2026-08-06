@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Regolamenti di delegificazione
 vigenza_date: 2023-04-05
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:40:24Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -37,6 +37,45 @@ La esibizione della tessera presso la sezione elettorale di votazione e' necessa
 ## Art. 2. — Caratteristiche della tessera elettorale
 
 La tessera elettorale ha le caratteristiche essenziali dei modelli descritti nelle tabelle A, B, C e D allegate al presente decreto e puo' essere adattata alle esigenze dei vari impianti meccanografici o elettronici in uso presso i comuni.
+
+2.
+                        
+                            
+                                In ogni caso, la tessera, che riporta l'indicazione del comune di rilascio, e' contrassegnata da una serie e da un numero progressivi e contiene i seguenti dati relativi al titolare: 
+ 
+                            
+                            
+                                a)
+                                
+                                    nome e cognome; per le donne coniugate il cognome puo' essere seguito da quello del marito; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    luogo e data di nascita; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    indirizzo; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    numero, sede ed indirizzo della sezione elettorale di assegnazione; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    il collegio e la circoscrizione o regione nei quali puo' esprimere il diritto di voto in ciascun tipo di elezione.
 
 Sulla tessera sono previsti appositi spazi, in numero non inferiore a diciotto, per la certificazione dell'avvenuta partecipazione alla votazione, che si effettua mediante apposizione, da parte di uno scrutatore, della data della elezione e del bollo della sezione.
 

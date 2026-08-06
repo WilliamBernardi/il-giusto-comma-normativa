@@ -8,8 +8,8 @@ codice_redazionale: 098G0325
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:39Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -59,6 +59,80 @@ La Commissione valuta in piena autonomia l'operato e le proposte degli esperti.
 ## Art. 5. — Compiti e poteri della Commissione
  per la valutazione dei dirigenti
 
+1.
+                    
+                        
+                            La Commissione per la valutazione dei dirigenti:
+ 
+                        
+                        
+                            a)
+                            
+                                riceve gli atti relativi alla programmazione annuale che i direttori generali, nell'ambito della rispettiva competenza, sono tenuti a trasmettere evidenziando gli obiettivi di rendimento e di risultato della gestione finanziaria, tecnica e amministrativa e quelli relativi alle decisioni organizzative e di gestione del personale; riceve altresi' le relazioni annuali dei direttori generali al Ministro sull'attivita' svolta nell'anno precedente e le relazioni della Corte dei conti in sede di controllo sull'attivita' del Ministero;
+
+                            
+                        
+                        
+                            b)
+                            
+                                predispone, anche ricercando intese con i responsabili delle direzioni generali, i parametri di riferimento del controllo e delle valutazioni, con opportune modificazioni e specificazioni ai fini della valutazione dei dirigenti amministrativi presso gli uffici giudiziari; i parametri di riferimento del controllo e delle valutazioni, al pari di ogni successiva modifica di essi, sono sottoposti all'approvazione del Ministro;
+
+                            
+                        
+                        
+                            c)
+                            
+                                compie annualmente rilevazioni sul numero complessivo dei procedimenti non conclusi entro i termini previsti dall'articolo 2 della legge 7 agosto 1990, n. 241;
+
+                            
+                        
+                        
+                            d)
+                            
+                                fornisce alla Corte dei conti gli elementi richiesti a norma dell'articolo 3, comma 8, della legge 14 gennaio 1994, n. 20;
+
+                            
+                        
+                        
+                            e)
+                            
+                                formula, a richiesta del Ministro, pareri in ordine all'esercizio dei poteri attribuiti dalla legge al Ministro stesso in materie appartenenti alla competenza dei dirigenti;
+
+                            
+                        
+                        
+                            f)
+                            
+                                ha facolta' di chiedere a tutti gli organi del Ministero di grazia e giustizia, nonche' gli uffici giudiziari, gli atti e le informazioni necessarie allo svolgimento della sua attivita'; puo' richiedere, oralmente o per iscritto, informazioni agli uffici pubblici, ai sensi dell'articolo 20, comma 5, del decreto legislativo 3 febbraio 1993, n. 29, e successive modificazioni e integrazioni;
+
+                            
+                        
+                        
+                            g)
+                            
+                                puo' avvalersi, ove necessario, dell'ausilio delle strutture esistenti nell'ambito dell'amministrazione, oltre che dei consulenti esterni, eventualmente nominati a norma dell'articolo 4, esclusa la possibilita' di richiedere all'Ispettorato generale l'effettuazione di ispezioni o inchieste;
+
+                            
+                        
+                        
+                            h)
+                            
+                                puo' raccogliere ogni altra informazione necessaria o utile allo svolgimento della propria attivita';
+
+                            
+                        
+                        
+                            i)
+                            
+                                riferisce al Ministro, su specifica richiesta e, in ogni caso, entro il 31 dicembre di ogni anno, dei risultati dell'attivita' svolta, analizzando sinteticamente le cause dell'eventuale mancato o parziale conseguimento degli obiettivi o di scostamento dai parametri ed indici di rendimento e segnalando ogni elemento utile ai fini del miglioramento del servizio, nonche' ogni specifica esigenza formativa;
+
+                            
+                        
+                        
+                            l)
+                            
+                                procede alle valutazioni dell'attivita' dei singoli dirigenti a norma dell'articolo 6.
+
 La Commissione nello svolgimento del proprio lavoro tiene conto delle esigenze di miglioramento del servizio fornito dai dirigenti, di valorizzazione delle attitudini e delle capacita' di ciascuno dei destinatari della valutazione, nonche' di individuazione dei bisogni formativi .
 
 ## Art. 6. — Pareri in tema di valutazione dei dirigenti
@@ -73,6 +147,59 @@ Il dirigente ha diritto di presentare proprie osservazioni alla Commissione anch
 
 ## Art. 7. — Principi generali per il controllo
  e la valutazione dei dirigenti
+
+1.
+                    
+                        
+                            I parametri di riferimento del controllo sull'attivita' amministrativa e i criteri di valutazione dei dirigenti devono essere conformi ai seguenti principi generali:
+ 
+                        
+                        
+                            a)
+                            
+                                utilizzazione delle relazioni dei responsabili delle direzioni generali e delle altre unita' organizzative, nonche' delle relazioni che, secondo modelli predefiniti, devono essere redatte a cura dei singoli dirigenti sottoposti a valutazione;
+
+                            
+                        
+                        
+                            b)
+                            
+                                verifica, mediante valutazione comparativa dei costi e dei rendimenti, della corretta gestione delle risorse, anche in ordine alla erogazione dei trattamenti economici accessori attribuiti ai dipendenti;
+
+                            
+                        
+                        
+                            c)
+                            
+                                valutazione dell'operato dei dirigenti tenendo conto in modo esplicito della correlazione tra le direttive impartite, gli obiettivi da perseguire e le risorse umane, finanziarie e strumentali effettivamente poste a disposizione dei dirigenti;
+
+                            
+                        
+                        
+                            d)
+                            
+                                adeguata ponderazione della conformita' ai principi di trasparenza e imparzialita' dell'attivita' amministrativa svolta;
+
+                            
+                        
+                        
+                            e)
+                            
+                                considerazione del grado di rispetto dei termini massimi previsti per la conclusione dei procedimenti amministrativi;
+
+                            
+                        
+                        
+                            f)
+                            
+                                considerazione dell'entita' e natura del contenzioso, con il personale dipendente o con terzi estranei all'amministrazione, anche stragiudiziale o inerente a conflitti sindacali, derivato dall'operato del dirigente;
+
+                            
+                        
+                        
+                            g)
+                            
+                                considerazione, per gli incarichi dirigenziali ispettivi, di consulenza, studio e ricerca, nonche' per quelli espletati presso gli uffici giudiziari, del grado di autonomia tecnica e funzionale, della rilevanza giuridica, economica e sociale dei provvedimenti predisposti, dei margini di discrezionalita' rispetto alle prescrizioni di norme giuridiche o alle istruzioni di organi sovraordinati, del livello di impegno e di disagio richiesto dalla specifica posizione, del livello di professionalita' e specializzazione richiesto, dell'eventuale coordinamento di altre professionalita', anche esterne all'amministrazione, ed anche nell'ambito di commissioni, gruppi di studio, organi collegiali.
 
 ## Art. 8. — Informazioni alle rappresentanze sindacali
 

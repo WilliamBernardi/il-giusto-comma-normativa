@@ -10,7 +10,7 @@ source: normattiva-opendata
 collection: Atti di recepimento direttive UE
 vigenza_date: 2016-01-01
 zip_date: 2026-07-30
-fetched_at: 2026-08-02T09:40:49Z
+fetched_at: 2026-07-30
 ---
 
 DECRETO LEGISLATIVO
@@ -64,6 +64,30 @@ Per partecipazione si intendono i diritti, rappresentati da azioni o quote, nel 
 Indipendentemente dal limite indicato al comma 2, nel caso in cui ricorrano i presupposti di cui all'articolo 2359, comma 3, del codice civile, l'impresa partecipata si considera collegata.
 
 ## Art. 5. — Imprese del gruppo
+
+1.
+                        
+                            
+                                Ai fini del presente decreto sono considerate imprese del gruppo: 
+                            
+                            
+                                a)
+                                
+                                    le imprese controllanti; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le imprese controllate; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    le imprese consociate, ossia quelle che non rientrano al punto b) e che sono sottoposte al controllo del medesimo soggetto controllante l'impresa o sono comunque soggette a direzione unitaria ai sensi dell'articolo ((96 del codice delle assicurazioni private)). ((7))
 
 Ai fini del comma 1 la nozione di controllo e' quella definita dall'articolo 2359, commi 1 e 2, del codice civile.
 
@@ -197,6 +221,24 @@ Nella nota integrativa sono indicati i criteri di valutazione seguiti.
 
 ## Art. 20. — Trasferimenti di attivi alla voce 
 "Investimenti a beneficio degli assicurati dei rami vita i quali ne sopportano il rischio e derivanti dalla gestione dei fondi pensione"
+
+1.
+                        
+                            
+                                Gli investimenti che l'impresa in via eccezionale trasferisce nel corso dell'esercizio dalla classe C alla classe D dell'attivo sono oggetto, nell'ipotesi in cui, alla data del loro trasferimento, il valore corrente e' superiore al valore contabile: 
+ 
+                            
+                            
+                                a)
+                                
+                                    di ripresa di valore fino a concorrenza delle riduzioni di valore eventualmente attuate anteriormente; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    di plusvalore per la parte residua.
 
 Il plusvalore di cui al comma 1, lettera b), deve essere inserito, senza interessare il conto economico, in un'apposita riserva di rivalutazione che non concorre alla determinazione del reddito imponibile dell'impresa ne' e' compresa nel patrimonio netto ai fini del margine di solvibilita'. Il predetto plusvalore dovra' essere registrato nel conto economico, con corrispondente riduzione della riserva di rivalutazione, nell'esercizio in cui gli investimenti che lo hanno originato verranno realizzati.
 
@@ -368,6 +410,52 @@ Le imprese che esercitano esclusivamente la riassicurazione utilizzano il conto 
 
 I premi lordi contabilizzati comprendono tutti gli importi maturati durante l'esercizio per i contratti di assicurazione, indipendentemente dal fatto che tali importi siano stati incassati o che si riferiscano interamente o parzialmente ad esercizi successivi; sono in ogni caso esclusi gli importi delle relative imposte e dei contributi riscossi per rivalsa.
 
+2.
+                        
+                            
+                                I premi devono, tra l'altro, comprendere:
+ 
+                            
+                            
+                                a)
+                                
+                                    i premi ancora da contabilizzare, allorche' il premio puo' essere calcolato soltanto alla fine dell'anno;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    i premi unici e i versamenti destinati all'acquisto di una rendita periodica;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    nell'assicurazione vita, i premi unici risultanti dalla riserva per partecipazioni agli utili e ristorni, nella misura in cui tali premi debbano essere considerati come premi sulla base dei contratti;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    i sovrappremi per frazionamento di premio e le prestazioni accessorie degli assicurati destinate a coprire le spese dell'impresa;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    le quote di premio di pertinenza dell'impresa acquisite in coassicurazione;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    i premi di riassicurazione provenienti da imprese di assicurazione cedenti e retrocedenti.
+
 I premi lordi contabilizzati devono essere determinati al netto degli annullamenti aderenti i premi dell'esercizio.
 
 Il trattamento contabile delle operazioni relative alle acquisizioni e alle cessioni del portafoglio nei confronti di imprese cedenti e retrocedenti e' disciplinato nel piano dei conti di cui ((di cui all'articolo 90, comma 1, del codice delle assicurazioni private)).
@@ -448,6 +536,24 @@ In nota integrativa sono indicate le ragioni del trasferimento e la base applica
 ## Art. 56. — Plusvalenze e minusvalenze non realizzate relative a investimenti
  a beneficio di assicurati i quali ne sopportano il rischio
  e a investimenti derivanti dalla gestione dei fondi pensione
+
+1.
+                        
+                            
+                                Nelle voci II.3 e II.10 del conto economico confluiscono, tra l'altro, in relazione alle condizioni contrattuali, la totalita' o una parte delle variazioni, positive o negative, della differenza tra:
+ 
+                            
+                            
+                                a)
+                                
+                                    la valutazione degli investimenti di cui alla classe D dell'attivo al valore corrente secondo uno dei metodi di cui agli articoli 17, 18 e 19 del presente decreto;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la valutazione dei medesimi al loro valore di acquisizione.
 
 ## - TITOLO II BILANCIO DI ESERCIZIO CAPO IV Disposizioni applicabili alla nota integrativa
 

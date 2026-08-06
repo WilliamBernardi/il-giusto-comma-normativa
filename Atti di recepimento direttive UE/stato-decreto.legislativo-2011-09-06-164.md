@@ -10,7 +10,7 @@ source: normattiva-opendata
 collection: Atti di recepimento direttive UE
 vigenza_date: 2022-08-06
 zip_date: 2026-07-30
-fetched_at: 2026-08-02T09:40:48Z
+fetched_at: 2026-07-30
 ---
 
 DECRETO LEGISLATIVO
@@ -30,20 +30,155 @@ Il presente decreto, avente ad oggetto il miglioramento della sicurezza e la pre
 
 ## Art. 2. — Definizioni
 
+1.
+                    
+                        
+                            Ai fini del presente decreto si intende per: 
+ 
+                        
+                        
+                            a)
+                            
+                                nave: una nave battente bandiera di uno stato membro che rientra nell'ambito di applicazione delle pertinenti convenzioni di cui l'Organizzazione marittima internazionale - IMO e' depositaria e per la quale e' richiesto un certificato; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                Amministrazione: il Ministero delle infrastrutture e dei trasporti - Comando Generale del Corpo delle Capitanerie di Porto; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                organismo riconosciuto: un organismo riconosciuto conformemente al decreto legislativo 14 giugno 2011, n. 104; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                certificati: i certificati previsti dalla legge e rilasciati in relazione alle pertinenti convenzioni IMO; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                audit IMO: attivita' di controllo, consulenza e verifica condotta in conformita' alle disposizioni della risoluzione A. 974 (24) adottata dall'Assemblea dell'IMO il 1° dicembre 2005.
+
 ## Art. 3. — Verifiche preliminari svolte all'atto del rilascio 
  dell'autorizzazione a battere la bandiera
 
 Prima di consentire l'esercizio di una nave cui e' stato concesso il diritto di battere la bandiera nazionale, l'Amministrazione verifica che l'armatore ovvero esercente abbia ottemperato alle norme ed alle regolamentazioni internazionali e nazionali applicabili.
+
+2.
+                    
+                        
+                            L'attivita' di verifica di cui al comma 1, comprende: 
+ 
+                        
+                        
+                            a)
+                            
+                                l'acquisizione di copia dei certificati di sicurezza e dei rapporti di visita ispettiva effettuati da quando la nave e' in esercizio; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                il controllo dei precedenti rapporti di visita condotti in conformita' alle vigenti disposizioni in materia di controllo da parte dello stato di approdo; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                se necessario, la consultazione della precedente Amministrazione per accertare se sussistano ancora anomalie o deficienze gia' individuate.
 
 L'Amministrazione, per le navi che abbiano in precedenza battuto la bandiera nazionale, fornisce tempestivamente, allo Stato di cui la nave batte bandiera che ne faccia richiesta, i dettagli riguardanti le deficienze gia' accertate e non risolte all'atto del cambio di nazionalita' ed ogni altra pertinente informazione connessa alla sicurezza.
 
 ## Art. 4. — Misure da adottarsi in caso di fermo 
  di una nave battente bandiera nazionale
 
+1.
+                    
+                        
+                            Quando l'Amministrazione e' informata che una nave di bandiera nazionale e' stata sottoposta a fermo da parte di uno Stato di approdo, fatte salve le attivita' di indagine finalizzate ad accertare eventuali responsabilita', adotta le procedure di seguito indicate, finalizzate a verificare che la nave sia tempestivamente resa conforme alle pertinenti convenzioni IMO: 
+ 
+                        
+                        
+                            a)
+                            
+                                per fermo dovuto a deficienze concernenti i certificati per i quali l'Amministrazione ha autorizzato gli organismi riconosciuti all'esecuzione dei compiti stabiliti dall'articolo 4 del decreto legislativo 14 giugno 2011, n. 104, l'Amministrazione provvedera' affinche' l'organismo riconosciuto effettui una visita addizionale a bordo per la rettifica delle deficienze rilevate; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                per fermo dovuto a deficienze concernenti i certificati per i quali l'Amministrazione ha affidato agli organismi riconosciuti l'esecuzione dei compiti stabiliti dall'articolo 5 del decreto legislativo 14 giugno 2011, n. 104, l'Amministrazione provvedera' affinche' l'organismo riconosciuto, effettui, per conto dell'Amministrazione, una visita addizionale a bordo per la rettifica delle deficienze rilevate.
+
 L'Amministrazione ha, in ogni caso, facolta' di partecipare con propri qualificati funzionari all'effettuazione delle visite di cui al comma 1.
 
 ## Art. 5. — Accesso alle informazioni sulle navi 
  di bandiera nazionale
+
+1.
+                    
+                        
+                            Ai fini del presente decreto l'Amministrazione rende disponibili alle amministrazioni omologhe degli Stati membri le seguenti informazioni concernenti le navi di bandiera nazionale: 
+ 
+                        
+                        
+                            a)
+                            
+                                elementi di identificazione e riconoscimento della nave; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                date delle visite di controllo, comprese eventualmente quelle addizionali e supplementari e date degli audit; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                identificazione degli organismi riconosciuti cui e' demandata l'attivita' di certificazione e classificazione della nave; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                identificazione dell'autorita' competente che ha ispezionato la nave conformemente alle disposizioni in materia di controllo da parte dello Stato di approdo e date delle ispezioni; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                esiti delle ispezioni svolte dagli Stati di approdo; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                informazioni sui sinistri marittimi; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                identificazione delle navi che hanno cessato di battere la bandiera nazionale negli ultimi dodici mesi.
 
 ## Art. 6. — Procedura di valutazione 
  e controllo da parte dell'IMO

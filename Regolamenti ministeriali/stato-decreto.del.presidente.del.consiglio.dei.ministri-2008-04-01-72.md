@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
 vigenza_date: 2026-02-18
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:42Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DEL CONSIGLIO DEI MINISTRI
@@ -38,12 +38,190 @@ Alla carriera diplomatica si accede al grado iniziale esclusivamente mediante co
 
 Il bando di concorso, per titoli ed esami, per l'ammissione alla carriera diplomatica viene emanato con decreto ((direttoriale del Ministero degli affari esteri e della cooperazione internazionale)), da pubblicarsi nella Gazzetta Ufficiale della Repubblica italiana. ((2))
 
+3.
+                    
+                        
+                            
+                                ((Il bando di concorso contiene:))
+                            
+                        
+                        
+                            a)
+                            
+                                
+                                    ((i requisiti per l'ammissione alla carriera diplomatica;))
+                                
+                            
+                        
+                        
+                            b)
+                            
+                                
+                                    ((il termine e le modalita' di presentazione delle domande;))
+                                
+                            
+                        
+                        
+                            c)
+                            
+                                
+                                    ((le cause di esclusione dalla procedura derivanti dalla non corretta o incompleta compilazione delle domande;))
+                                
+                            
+                        
+                        
+                            d)
+                            
+                                
+                                    ((l'avviso che il diario e la sede delle prove sono comunicati mediante pubblicazione nel sito istituzionale del Ministero degli affari esteri e della cooperazione internazionale conformemente all'articolo 14-bis;))
+                                
+                            
+                        
+                        
+                            e)
+                            
+                                
+                                    ((l'oggetto e le modalita' di svolgimento delle prove;))
+                                
+                            
+                        
+                        
+                            f)
+                            
+                                
+                                    ((il punteggio o la votazione minimi per il superamento delle prove;))
+                                
+                            
+                        
+                        
+                            g)
+                            
+                                
+                                    ((i titoli che danno luogo a punteggio aggiuntivo, precedenza o preferenza in caso di parita' di punteggio;))
+                                
+                            
+                        
+                        
+                            h)
+                            
+                                
+                                    ((i termini e le modalita' della dichiarazione dei titoli;))
+                                
+                            
+                        
+                        
+                            i)
+                            
+                                
+                                    ((la percentuale di posti riservati ai sensi dell'articolo 4;))
+                                
+                            
+                        
+                        
+                            l)
+                            
+                                
+                                    ((la citazione del decreto legislativo 11 aprile 2006, n. 198, recante codice delle pari opportunita' tra uomo e donna, a norma dell'articolo 6 della legge 28 novembre 2005, n. 246;))
+                                
+                            
+                        
+                        
+                            m)
+                            
+                                
+                                    ((l'avviso che, all'atto dell'assunzione in servizio, il personale appartenente alla carriera diplomatica presta giuramento ai sensi dell'articolo 54, comma secondo, della Costituzione.))
+
 ------------
                         AGGIORNAMENTO (2)
                         
  Il D.P.C.M. 25 novembre 2025, n. 222, ha disposto (con l'art. 2, comma 1) che "Le disposizioni di cui all'articolo 1 si applicano ai concorsi banditi dopo la data di entrata in vigore del presente regolamento".
 
 ## Art. 3. — Requisiti per l'ammissione
+
+1.
+                    
+                        
+                            Per l'ammissione al concorso di cui all'articolo 2 sono necessari i seguenti requisiti: 
+ 
+                        
+                        
+                            a)
+                            
+                                cittadinanza italiana, esclusa ogni equiparazione; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                eta' non superiore ai trentacinque anni. Il limite di eta' puo' essere innalzato per un massimo complessivo di tre anni ed e' elevato: 
+ di un anno per i candidati coniugati; 
+ di un anno per ogni figlio vivente; 
+ di tre anni per coloro che sono compresi fra le categorie di cui alla legge 12 marzo 1999, n. 68, e per coloro ai quali e' esteso lo stesso beneficio; 
+ di un periodo pari all'effettivo servizio prestato, comunque non superiore a tre anni, a favore di cittadini che hanno prestato servizio militare volontario, di leva e di leva prolungata, oppure in qualita' di volontari in ferma prefissata per un anno o quadriennale, o servizio civile nazionale; 
+ di tre anni a favore dei candidati che siano dipendenti civili di ruolo delle pubbliche amministrazioni, ufficiali e sottufficiali dell'Esercito, della Marina o dell'Aeronautica cessati d'autorita' o a domanda; ufficiali, ispettori, sovrintendenti, appuntati, carabinieri e finanzieri in servizio permanente dell'Arma dei carabinieri e del Corpo della Guardia di finanza, nonche' delle corrispondenti qualifiche degli altri Corpi di Polizia; 
+ di un periodo pari all'effettivo servizio prestato, comunque non superiore a tre anni, a favore dei candidati che prestano o che hanno prestato servizio anche non continuativo per almeno due anni presso le organizzazioni internazionali. Sono considerati funzionari internazionali i cittadini italiani che siano stati assunti presso un'organizzazione internazionale a titolo permanente o a contratto a tempo indeterminato o determinato per posti per i quali e' richiesto il possesso di titoli di studio di livello universitario; ((2))
+                                
+                            
+                        
+                        
+                            c)
+                            
+                                
+                                    ((laurea magistrale o titolo equiparato secondo la normativa vigente. Ai titoli accademici conseguiti all'estero si applica l'articolo 38, comma 3, del decreto legislativo 30 marzo 2001, n. 165;))
+                                    ((2))
+                                
+                            
+                        
+                        
+                            d)
+                            
+                                idoneita' psico-fisica tale da permettere di svolgere l'attivita' diplomatica sia presso l'Amministrazione centrale che in sedi estere, ed in particolare in quelle con caratteristiche di disagio. L'Amministrazione si riserva di accertare l'idoneita' psico-fisica in qualsiasi momento anche nei riguardi dei vincitori del concorso; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                
+                                    ((non essere stati esclusi dall'elettorato politico attivo;))
+                                    ((2))
+                                
+                            
+                        
+                        
+                            e-bis)
+                            
+                                
+                                    ((possedere i requisiti previsti dall'articolo 26 della legge 1° febbraio 1989, n. 53;))
+                                    ((2))
+                                
+                            
+                        
+                        
+                            e-ter)
+                            
+                                
+                                    ((non essere stati licenziati, destituiti o dispensati dall'impiego presso un'amministrazione pubblica per motivi disciplinari;))
+                                    ((2))
+                                
+                            
+                        
+                        
+                            e-quater)
+                            
+                                
+                                    ((non essere stati dichiarati decaduti per avere conseguito la nomina o l'assunzione presso un'amministrazione pubblica mediante la produzione di documenti falsi o viziati da nullita' insanabile;))
+                                    ((2))
+                                
+                            
+                        
+                        
+                            e-quinquies)
+                            
+                                
+                                    ((non avere riportato condanne con sentenza passata in giudicato per reati che costituiscono un impedimento all'assunzione presso un'amministrazione pubblica.))
+                                    ((2))
 
 I requisiti prescritti devono essere posseduti alla data di scadenza del termine stabilito per la presentazione delle domande di ammissione alle prove concorsuali.
 
@@ -71,6 +249,171 @@ I posti riservati ai sensi del presente articolo, se non utilizzati, sono confer
 ## Art. 5. — (( (Domanda di ammissione al concorso). ))
 
 
+
+2.
+                    
+                        
+                            
+                                ((Nella domanda il candidato dichiara, sotto la propria responsabilita' e ai sensi delle disposizioni vigenti in materia di autocertificazione, quanto segue:))
+                            
+                        
+                        
+                            a)
+                            
+                                
+                                    ((il nome, il cognome, il luogo e la data di nascita, il codice fiscale;))
+                                
+                            
+                        
+                        
+                            b)
+                            
+                                
+                                    ((se e' nato all'estero, il comune italiano nei cui registri di stato civile e' stato trascritto l'atto di nascita;))
+                                
+                            
+                        
+                        
+                            c)
+                            
+                                
+                                    ((se ha compiuto i trentacinque anni, il titolo per l'elevazione del limite massimo di eta' di cui al precedente articolo 3, comma 1, lettera b);))
+                                
+                            
+                        
+                        
+                            d)
+                            
+                                
+                                    ((il possesso della cittadinanza italiana;))
+                                
+                            
+                        
+                        
+                            e)
+                            
+                                
+                                    ((le cittadinanze possedute oltre a quella italiana;))
+                                
+                            
+                        
+                        
+                            f)
+                            
+                                
+                                    ((l'indirizzo di residenza;))
+                                
+                            
+                        
+                        
+                            g)
+                            
+                                
+                                    ((il recapito di posta elettronica certificata al quale sono trasmesse le comunicazioni relative alle prove concorsuali;))
+                                
+                            
+                        
+                        
+                            h)
+                            
+                                
+                                    ((il comune di iscrizione nelle liste elettorali o i motivi della non iscrizione o della cancellazione dalle liste medesime;))
+                                
+                            
+                        
+                        
+                            i)
+                            
+                                
+                                    ((il titolo di studio posseduto, l'universita' o l'istituto equiparato presso cui e' stato conseguito, la data del conseguimento e la votazione riportata;))
+                                
+                            
+                        
+                        
+                            l)
+                            
+                                
+                                    ((i servizi prestati come dipendente di amministrazioni pubbliche, le cause di risoluzione di precedenti rapporti di pubblico impiego, i procedimenti disciplinari subiti o in corso;))
+                                
+                            
+                        
+                        
+                            m)
+                            
+                                
+                                    ((di essere di condotta incensurabile;))
+                                
+                            
+                        
+                        
+                            n)
+                            
+                                
+                                    ((di non aver riportato condanne penali con sentenza passata in giudicato, di non essere stato sottoposto all'applicazione della pena su richiesta delle parti ai sensi dell'articolo 444 del codice di procedura penale con provvedimento divenuto definitivo e di non avere in corso procedimenti penali, ne' procedimenti amministrativi per l'applicazione di misure di sicurezza o di prevenzione, nonche' precedenti penali a proprio carico iscrivibili nel casellario giudiziale, ai sensi dell'articolo 3 del decreto del Presidente della Repubblica 14 novembre 2002, n. 313, di non essere a conoscenza di essere sottoposto ad indagini preliminari. In caso contrario, il candidato dichiara le condanne, i procedimenti a carico e ogni precedente penale a proprio carico, precisando la data del provvedimento e l'autorita' giudiziaria che lo ha emanato o quella presso la quale pende il procedimento penale o sono state avviate le indagini preliminari;))
+                                
+                            
+                        
+                        
+                            o)
+                            
+                                
+                                    ((se si trova nelle condizioni previste per l'applicazione della riserva di posti di cui all'articolo 4;))
+                                
+                            
+                        
+                        
+                            p)
+                            
+                                
+                                    ((di non ricadere nella condizione di esclusione dalla partecipazione al concorso prevista dall'articolo 3, comma 3;))
+                                
+                            
+                        
+                        
+                            q)
+                            
+                                
+                                    ((in quale lingua, da scegliersi tra francese, spagnolo e tedesco, intende sostenere la prova scritta di cui all'articolo 10, comma 2, lettera e); ))
+                                
+                            
+                        
+                        
+                            r)
+                            
+                                
+                                    ((in quale materia intende sostenere la prova orale di cui all'articolo 10, comma 4, lettera c-ter);))
+                                
+                            
+                        
+                        
+                            s)
+                            
+                                
+                                    ((se intende sostenere una o piu' prove integrative di cui all'articolo 11;))
+                                
+                            
+                        
+                        
+                            t)
+                            
+                                
+                                    ((se intende sostenere una o piu' prove linguistiche facoltative di cui all'articolo 12;))
+                                
+                            
+                        
+                        
+                            u)
+                            
+                                
+                                    ((se possiede titoli che possono dare punteggio aggiuntivo ai sensi dell'articolo 9;))
+                                
+                            
+                        
+                        
+                            v)
+                            
+                                
+                                    ((se possiede titoli, previsti dalle vigenti disposizioni, che danno luogo, a parita' di punteggio, a preferenza.))
 
 ((Non sono considerati i titoli non posseduti alla data di scadenza per la presentazione delle domande di ammissione al concorso o non espressamente dichiarati nella medesima domanda.
 L'amministrazione puo' accertare la sussistenza dei titoli dichiarati.))
@@ -114,6 +457,35 @@ Non si puo' far parte della commissione piu' di una volta nel corso dello stesso
 
 ## Art. 7. — Procedura di concorso
 
+1.
+                    
+                        
+                            Il concorso, per titoli ed esami, di ammissione alla carriera diplomatica si articola in: 
+ 
+                        
+                        
+                            a)
+                            
+                                prova attitudinale; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                
+                                    ((prove d'esame scritte e orali, nonche' prove facoltative e prove integrative per conseguire le specializzazioni previste dall'articolo 100 del decreto del Presidente della Repubblica 5 gennaio 1967, n. 18;))
+                                    ((2))
+                                
+                            
+                        
+                        
+                            c)
+                            
+                                
+                                    ((valutazione dei titoli.))
+                                    ((2))
+
 Il punteggio per ogni prova scritta ed orale, ivi incluse le eventuali prove integrative e facoltative, e' espresso in centesimi, ad eccezione di quanto previsto ((nell'articolo 8)), per la prova attitudinale. ((2))
 
 ------------
@@ -144,8 +516,72 @@ Per l'espletamento della prova attitudinale l'Amministrazione puo' avvalersi anc
 
 ((2))
 
+2.
+                    
+                        
+                            La commissione puo' assegnare complessivamente fino a 6 centesimi per i seguenti titoli: 
+ 
+                        
+                        
+                            a)
+                            
+                                conseguimento di ((abilitazioni professionali,)) titoli universitari anche stranieri post-laurea e di master universitari di primo e di secondo livello di cui al successivo comma 3: fino a 3 centesimi; ((2))
+                                
+                            
+                        
+                        
+                            b)
+                            
+                                attivita' lavorativa a livello di funzionario svolta presso le organizzazioni internazionali secondo le modalita' di cui al precedente articolo 3, comma 1, lettera b): fino a 3 centesimi.
+
 Ai fini dell'applicazione della lettera a) del precedente comma 2, si prendono in considerazione i seguenti titoli, di cui all'articolo 3 del decreto del Ministro dell'istruzione, dell'universita' e della ricerca 22 ottobre 2004, n. 270: diploma di specializzazione, dottorato di ricerca, master universitario di primo e di secondo livello, nonche' equivalenti titoli stranieri. ((Ai fini di cui al comma 2, lettera a), sono considerate le abilitazioni italiane e straniere riconosciute in Italia, per il cui conseguimento e' richiesto il possesso di un titolo di studio non inferiore alla laurea magistrale o di un titolo equiparato e il superamento di un esame di abilitazione.))
                             ((2))
+
+4.
+                    
+                        
+                            
+                                ((La commissione esaminatrice assegna il punteggio per i titoli di cui al comma 3 in relazione alla coerenza dei medesimi con la professionalita' specifica della carriera diplomatica ed entro i seguenti limiti massimi:))
+                            
+                        
+                        
+                            a)
+                            
+                                
+                                    ((1,2 centesimi per le abilitazioni professionali;))
+                                
+                            
+                        
+                        
+                            b)
+                            
+                                
+                                    ((2 centesimi per i dottorati di ricerca;))
+                                
+                            
+                        
+                        
+                            c)
+                            
+                                
+                                    ((1 centesimo per i master universitari di secondo livello;))
+                                
+                            
+                        
+                        
+                            d)
+                            
+                                
+                                    ((1,2 centesimi per i diplomi di specializzazione;))
+                                
+                            
+                        
+                        
+                            e)
+                            
+                                
+                                    ((0,5 centesimi per i master di primo livello.))
+                                    ((2))
 
 I centesimi attribuiti per i titoli si aggiungono al punteggio complessivo finale conseguito dai candidati che abbiano superato le prove d'esame.
 
@@ -158,7 +594,109 @@ I centesimi attribuiti per i titoli si aggiungono al punteggio complessivo final
 
 ((2))
 
+2.
+                    
+                        
+                            
+                                ((I candidati che hanno superato la prova attitudinale di cui all'articolo 8 sono ammessi a sostenere le prove d'esame scritte, che possono essere svolte mediante strumenti informatici e procedure digitali. Non e' ammesso l'uso del dizionario. Il bando puo' prevedere che una medesima prova accerti la conoscenza di piu' materie. Le prove scritte vertono sulle seguenti materie:))
+                            
+                        
+                        
+                            a)
+                            
+                                
+                                    ((storia delle relazioni internazionali a partire dal congresso di Vienna;))
+                                
+                            
+                        
+                        
+                            b)
+                            
+                                
+                                    ((diritto internazionale pubblico e dell'Unione europea;))
+                                
+                            
+                        
+                        
+                            c)
+                            
+                                
+                                    ((economia politica, politica economica, economia internazionale e finanziaria, commercio internazionale;))
+                                
+                            
+                        
+                        
+                            d)
+                            
+                                
+                                    ((lingua inglese;))
+                                
+                            
+                        
+                        
+                            e)
+                            
+                                
+                                    ((altra lingua straniera scelta dal candidato tra le seguenti: francese, spagnolo o tedesco.))
+                                    ((2))
+
 Sono ammessi alla prova d'esame orale di cui al successivo comma 4 i candidati che abbiano riportato una media di almeno 70 centesimi nelle cinque prove scritte di cui al precedente comma 2, non meno di 70 centesimi nella composizione in lingua inglese e non meno di 60 centesimi nelle restanti prove.
+
+4.
+                    
+                        
+                            La prova d'esame orale verte sulle materie che hanno formato oggetto delle prove scritte nonche' sulle seguenti materie: 
+ 
+                        
+                        
+                            a)
+                            
+                                diritto pubblico italiano (costituzionale ed amministrativo); 
+
+                            
+                        
+                        
+                            b)
+                            
+                                contabilita' di Stato; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                nozioni istituzionali di diritto civile e di diritto internazionale privato; 
+
+                            
+                        
+                        
+                            c-bis)
+                            
+                                
+                                    ((diritto consolare e ordinamento del Ministero degli affari esteri e della cooperazione internazionale;))
+                                    ((2))
+                                
+                            
+                        
+                        
+                            c-ter)
+                            
+                                
+                                    ((una materia a scelta del candidato tra:)) 
+ 1) ((elementi di informatica, con particolare riferimento alla sicurezza cibernetica nazionale e internazionale, all'utilizzo dell'intelligenza artificiale e delle nuove tecnologie;)) 
+ 2) ((elementi di storia della cultura italiana dal 1800 ad oggi e di promozione all'estero della cultura e della lingua italiana;))  
+ 3) ((elementi di cooperazione internazionale allo sviluppo;))  
+ 4) ((elementi di disciplina sportiva e di organizzazione e gestione di grandi eventi;)) 
+ 5) ((elementi di comunicazione istituzionale pubblica, di psicologia della comunicazione e di social media management;))
+                                    ((2))
+                                
+                            
+                        
+                        
+                            d)
+                            
+                                geografia politica ed economica. 
+Nell'ambito della prova d'esame orale, il candidato e' chiamato ad esprimere le proprie valutazioni su di un tema dell'attualita' internazionale, indicato dal presidente della commissione, al fine di accertare le sue attitudini ad esprimersi in maniera chiara e sintetica, ad argomentare in modo persuasivo il proprio punto di vista ed a parlare in pubblico. La suddetta prova e' valutata insieme con le altre materie su cui verte la prova orale. La prova orale, comprensiva altresi' di una prova pratica di informatica, e' oggetto di una valutazione unica.
 
 Per superare la prova d'esame orale, di cui al precedente comma 4, il candidato deve riportare un punteggio di almeno 60 centesimi.
 
@@ -174,6 +712,38 @@ Al fine di conseguire le specializzazioni previste dall'articolo 100 del decreto
 
 Le eventuali prove integrative sono sostenute dai candidati al termine della propria prova d'esame orale di cui all'articolo 10, comma 4, e prima delle eventuali prove facoltative di lingua straniera.
 
+3.
+                    
+                        
+                            Le prove integrative orali vertono sulle seguenti materie:
+ 
+                        
+                        
+                            a)
+                            
+                                scambi internazionali e rapporti finanziari con l'estero, per conseguire la specializzazione commerciale;
+
+                            
+                        
+                        
+                            b)
+                            
+                                circolazione internazionale dei lavoratori e loro tutela, per conseguire la specializzazione in materia sociale;
+
+                            
+                        
+                        
+                            c)
+                            
+                                lingua araba (conversazione su tematiche di attualita' e cultura del vicino Oriente), per conseguire la specializzazione per il vicino Oriente;
+
+                            
+                        
+                        
+                            d)
+                            
+                                lingua cinese, giapponese o persiana (conversazione su tematiche di attualita' e cultura del medio ed estremo Oriente), per conseguire la specializzazione per il medio ed estremo Oriente.
+
 Per le prove integrative di lingua araba, cinese, giapponese o persiana il candidato puo' conseguire fino a un massimo di 5 centesimi, purche' raggiunga la sufficienza di almeno 2 centesimi.
 
 Per le prove integrative di scambi internazionali e rapporti finanziari con l'estero e di circolazione internazionale dei lavoratori e loro tutela il candidato puo' conseguire fino a un massimo di 1,5 centesimi, purche' raggiunga la sufficienza di almeno 0,9 centesimi.
@@ -187,6 +757,52 @@ I candidati possono chiedere, nella domanda di ammissione al concorso, di sosten
 L'eventuale prova facoltativa di lingua straniera e' sostenuta dai candidati al termine della prova d'esame orale di cui al precedente articolo 10, comma 4, e successivamente alle eventuali prove integrative di cui all'articolo 11, comma 3.
 
 Le prove facoltative di lingua straniera consistono in una conversazione su tematiche di attualita' internazionale.
+
+4.
+                    
+                        
+                            
+                                ((Per le prove facoltative di lingua il candidato puo' conseguire un punteggio massimo complessivo determinato come segue:))
+                            
+                        
+                        
+                            a)
+                            
+                                
+                                    ((fino a 7 centesimi, se il candidato non ha conseguito la sufficienza in alcuna delle lingue di cui al comma 5, primo periodo;))
+                                
+                            
+                        
+                        
+                            b)
+                            
+                                
+                                    ((fino a 8 centesimi, se il candidato ha conseguito la sufficienza in una lingua di cui al comma 5, primo periodo;))
+                                
+                            
+                        
+                        
+                            c)
+                            
+                                
+                                    ((fino a 9 centesimi, se il candidato ha conseguito la sufficienza in due lingue di cui al comma 5, primo periodo;))
+                                
+                            
+                        
+                        
+                            d)
+                            
+                                
+                                    ((fino a 10 centesimi, se il candidato ha conseguito la sufficienza in tre lingue di cui al comma 5, primo periodo;))
+                                
+                            
+                        
+                        
+                            e)
+                            
+                                
+                                    ((fino a 11 centesimi, se il candidato ha conseguito la sufficienza in quattro o piu' lingue di cui al comma 5, primo periodo.))
+                                    ((2))
 
 ((Per la conoscenza di ciascuna delle lingue tedesco, russo, turco, arabo, hindi, cinese e giapponese, il candidato puo' conseguire un punteggio non superiore a 4 centesimi, purche' raggiunga la sufficienza di 2 centesimi. Per la conoscenza di ciascuna lingua diversa da quelle di cui al primo periodo, il candidato puo' conseguire un punteggio non superiore a 2 centesimi, purche' raggiunga la sufficienza di 1 centesimo.))
                             ((2))

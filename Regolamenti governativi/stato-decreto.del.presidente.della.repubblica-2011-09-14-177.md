@@ -8,8 +8,8 @@ codice_redazionale: 011G0219
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti governativi
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:16Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -36,6 +36,66 @@ Le disposizioni di cui agli articoli 2, comma 2, e 3, commi 1 e 2, operano unica
 Restano altresi' applicabili, limitatamente alle fattispecie di cui al comma 3, fino alla data di entrata in vigore della complessiva disciplina del sistema di qualificazione delle imprese di cui all'articolo 6, comma 8, lettera g), del decreto legislativo 9 aprile 2008, n. 81, e fermi restando i requisiti generali di qualificazione e le procedure di sicurezza di cui agli articoli 2 e 3, i criteri di verifica della idoneita' tecnico-professionale prescritti dall'articolo 26, comma 1, lettera a), del medesimo decreto legislativo.
 
 ## Art. 2. — Qualificazione nel settore degli ambienti sospetti di inquinamento o confinati
+
+1.
+                    
+                        
+                            Qualsiasi attivita' lavorativa nel settore degli ambienti sospetti di inquinamento o confinati puo' essere svolta unicamente da imprese o lavoratori autonomi qualificati in ragione del possesso dei seguenti requisiti: 
+ 
+                        
+                        
+                            a)
+                            
+                                integrale applicazione delle vigenti disposizioni in materia di valutazione dei rischi, sorveglianza sanitaria e misure di gestione delle emergenze; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                integrale e vincolante applicazione anche del comma 2 dell'articolo 21 del decreto legislativo 9 aprile 2008, n. 81, nel caso di imprese familiari e lavoratori autonomi; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                presenza di personale, in percentuale non inferiore al 30 per cento della forza lavoro, con esperienza almeno triennale relativa a lavori in ambienti sospetti di inquinamento o confinati, assunta con contratto di lavoro subordinato a tempo indeterminato ovvero anche con altre tipologie contrattuali o di appalto, a condizione, in questa seconda ipotesi, che i relativi contratti siano stati preventivamente certificati ai sensi del Titolo VIII, Capo I, del decreto legislativo 10 settembre 2003, n. 276. Tale esperienza deve essere necessariamente in possesso dei lavoratori che svolgono le funzioni di preposto; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                avvenuta effettuazione di attivita' di informazione e formazione di tutto il personale, ivi compreso il datore di lavoro ove impiegato per attivita' lavorative in ambienti sospetti di inquinamento o confinati, specificamente mirato alla conoscenza dei fattori di rischio propri di tali attivita', oggetto di verifica di apprendimento e aggiornamento. I contenuti e le modalita' della formazione di cui al periodo che precede sono individuati, compatibilmente con le previsioni di cui agli articoli 34 e 37 del decreto legislativo 9 aprile 2008, n. 81, entro e non oltre 90 giorni dall'entrata in vigore del presente decreto, con accordo in Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome di Trento e di Bolzano, sentite le parti sociali; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                possesso di dispositivi di protezione individuale, strumentazione e attrezzature di lavoro idonei alla prevenzione dei rischi propri delle attivita' lavorative in ambienti sospetti di inquinamento o confinati e avvenuta effettuazione di attivita' di addestramento all'uso corretto di tali dispositivi, strumentazione e attrezzature, coerentemente con le previsioni di cui agli articoli 66 e 121 e all'allegato IV, punto 3, del decreto legislativo 9 aprile 2008, n. 81; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                avvenuta effettuazione di attivita' di addestramento di tutto il personale impiegato per le attivita' lavorative in ambienti sospetti di inquinamento o confinati, ivi compreso il datore di lavoro, relativamente alla applicazione di procedure di sicurezza coerenti con le previsioni di cui agli articoli 66 e 121 e dell'allegato IV, punto 3, del decreto legislativo 9 aprile 2008, n. 81; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                rispetto delle vigenti previsioni, ove applicabili, in materia di Documento unico di regolarita' contributiva; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                integrale applicazione della parte economica e normativa della contrattazione collettiva di settore, compreso il versamento della contribuzione all'eventuale ente bilaterale di riferimento, ove la prestazione sia di tipo retributivo, con riferimento ai contratti e accordi collettivi di settore sottoscritti da organizzazioni dei datori di lavoro e dei lavoratori comparativamente piu' rappresentative sul piano nazionale.
 
 In relazione alle attivita' lavorative in ambienti sospetti di inquinamento o confinati non e' ammesso il ricorso a subappalti, se non autorizzati espressamente dal datore di lavoro committente e certificati ai sensi del Titolo VIII, Capo I, del decreto legislativo 10 settembre 2003, n. 276, e successive modificazioni e integrazioni.
 Le disposizioni del presente regolamento si applicano anche nei riguardi delle imprese o dei lavoratori autonomi ai quali le lavorazioni vengano subappaltate.

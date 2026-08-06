@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
 vigenza_date: 2020-07-17
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:31Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -30,9 +30,157 @@ Sulla proposta del Ministro per le politiche europee e del Ministro della difesa
 
 ## Art. 1. — Definizioni
 
+1.
+                        
+                            
+                                Ai fini del presente decreto si applicano le seguenti definizioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    codice: codice dei contratti pubblici relativi a lavori, servizi e forniture in attuazione delle direttive 2004/17/CE e 2004/18/CE, di cui al decreto legislativo 12 aprile 2006, n. 163; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    materiale militare: materiale specificatamente progettato o adattato per fini militari e destinato ad essere impiegato come arma, munizioni o materiale bellico; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    materiale sensibile, lavori sensibili e servizi sensibili: materiale, lavori e servizi destinati alla sicurezza che comportano, richiedono o contengono informazioni classificate ai sensi della legge 3 agosto 2007, n. 124, del decreto del Presidente del Consiglio dei Ministri in data 8 aprile 2008 e del decreto del Presidente del Consiglio dei Ministri 12 giugno 2009, n. 7; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    informazioni classificate: qualsiasi informazione o materiale, a prescindere da forma, natura o modalita' di trasmissione, alla quale e' stato attribuito un determinato livello di classificazione di sicurezza o un livello di protezione e che, nell'interesse della sicurezza nazionale e ai sensi della legge 3 agosto 2007, n. 124, concernente il sistema di informazione per la sicurezza della Repubblica e nuova disciplina del segreto, del decreto del Presidente del Consiglio dei Ministri in data 8 aprile 2008 e del decreto del Presidente del Consiglio dei Ministri 12 giugno 2009, n. 7, richieda protezione contro appropriazione indebita, distruzione, rimozione, divulgazione, perdita o accesso da parte di un soggetto non autorizzato o contro qualsiasi altro tipo di pregiudizio; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    governo: il governo statale, regionale o locale di uno Stato membro o di un Paese terzo; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    crisi: qualsiasi situazione in uno Stato membro o in un Paese terzo nella quale si e' verificato un evento dannoso che superi chiaramente la portata degli eventi dannosi della vita quotidiana e in tal modo metta seriamente in pericolo o comprometta la vita e la salute delle persone, o abbia un significativo impatto sui valori immobiliari ovvero richieda misure per approvvigionamenti vitali per la popolazione. Si considerano «crisi» anche le situazioni in cui il verificarsi di un siffatto evento dannoso e' considerato imminente. I conflitti armati e le guerre sono considerati «crisi»; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    ciclo di vita: tutte le possibili fasi relative ad un prodotto, vale a dire ricerca e sviluppo, sviluppo industriale, produzione, riparazione, modernizzazione, modifica, manutenzione, logistica, formazione, prove, ritiro e smaltimento. Tali fasi comprendono, ad esempio, studi, valutazione, deposito, trasporto, integrazione, assistenza, smantellamento, distruzione e tutti gli altri servizi connessi al progetto originario; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    ricerca e sviluppo: tutte le attivita' comprendenti la ricerca di base, la ricerca applicata e lo sviluppo sperimentale il quale comprende l'attivita' basata sulle conoscenze esistenti ottenute dalla ricerca e dall'esperienza pratica, in vista dell'inizio della produzione di nuovi materiali, prodotti o dispositivi, della messa in atto di nuovi processi, sistemi e servizi o di migliorare considerevolmente quelli che gia' esistono. Lo sviluppo sperimentale puo' comprendere la realizzazione di dimostratori tecnologici, vale a dire dispositivi che consentono di dimostrare le prestazioni di un nuovo concetto o tecnologia in un ambiente idoneo o rappresentativo. «Ricerca e sviluppo» non comprende la costruzione e la qualificazione di prototipi di preproduzione, attrezzature e ingegneria industriale, progettazione o produzione industriale; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    procedure ristrette: le procedure alle quali ogni operatore economico puo' chiedere di partecipare ed in cui possono presentare un'offerta soltanto gli operatori economici invitati dalle stazioni appaltanti, con le modalita' stabilite dal presente decreto; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    contratti sotto soglia: i contratti il cui valore stimato al netto dell'imposta sul valore aggiunto (i.v.a.) e' inferiore alle soglie di cui all'articolo 10 e che non rientrano nel novero dei contratti esclusi; 
+
+                                
+                            
+                            
+                                m)
+                                
+                                    sicurezza degli approvvigionamenti: la capacita' dello Stato di garantirsi l'acquisizione di forniture e servizi di cui all'articolo 2, in quantita' tali da permettere l'assolvimento dei propri impegni nel campo della difesa e della sicurezza; 
+
+                                
+                            
+                            
+                                n)
+                                
+                                    documentazione dell'appalto: include bandi di gara, capitolati d'oneri, documenti descrittivi e di supporto; 
+
+                                
+                            
+                            
+                                o)
+                                
+                                    contratti di servizi: i contratti diversi da quelli riguardanti lavori o forniture, aventi per oggetto la prestazione dei servizi di cui agli allegati I e II; 
+
+                                
+                            
+                            
+                                p)
+                                
+                                    lavori e servizi per fini specificatamente militari: i lavori e i servizi del Ministero della difesa, necessari per l'espletamento dell'attivita' operativa delle Forze armate, in Italia e all'estero, comprese l'attivita' logistica e l'attivita' addestrativa connesse a esigenze operative all'estero.
+
 Ove compatibili o non derogate, si applicano le definizioni di cui all'articolo 3 del codice.
 
 ## Art. 2. — Finalita' e ambito di applicazione
+
+1.
+                        
+                            
+                                Il presente decreto disciplina i contratti nei settori della difesa e della sicurezza, anche non militare, aventi per oggetto: 
+ 
+                            
+                            
+                                a)
+                                
+                                    forniture di materiale militare e loro parti, di componenti o di sottoassiemi; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    forniture di materiale sensibile e loro parti, di componenti o di sottoassiemi; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    lavori, forniture e servizi direttamente correlati al materiale di cui alla lettera a), per ognuno e per tutti gli elementi del suo ciclo di vita; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    lavori, forniture e servizi direttamente correlati al materiale di cui alla lettera b), per ognuno e per tutti gli elementi del suo ciclo di vita; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    lavori e servizi per fini specificatamente militari; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    lavori e servizi sensibili.
 
 ## Art. 3. — Principi e disciplina applicabile
 
@@ -64,6 +212,115 @@ La decisione di aggiudicare un contratto unico non puo', tuttavia, essere presa 
 
 ## Art. 6. — Contratti esclusi e esclusioni specifiche. Utilizzo delle esclusioni
 
+1.
+                        
+                            
+                                Il presente decreto non si applica ai contratti disciplinati da: 
+ 
+                            
+                            
+                                a)
+                                
+                                    norme procedurali specifiche in base a ((un accordo o intesa internazionale conclusi tra l'Italia e uno o piu' Paesi terzi o tra l'Italia e uno o piu' Stati membri e uno o piu' Paesi terzi)); 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    norme procedurali specifiche in base a un accordo o intesa internazionale conclusi in relazione alla presenza di truppe di stanza e concernenti imprese stabilite nello Stato italiano o in un Paese terzo; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    norme procedurali specifiche di un'organizzazione internazionale che si approvvigiona per le proprie finalita'; non si applica altresi' a contratti che devono essere aggiudicati da una stazione appaltante appartenente allo Stato italiano in conformita' a tali norme.
+
+2.
+                        
+                            
+                                Il presente decreto non si applica altresi' ai seguenti casi: 
+ 
+                            
+                            
+                                a)
+                                
+                                    ai contratti nel settore della difesa, relativi alla produzione o al commercio di armi, munizioni e materiale bellico di cui all'elenco adottato dal Consiglio della Comunita' europea con la decisione 255/58, che siano destinati a fini specificatamente militari e per i quali lo Stato ritiene di adottare misure necessarie alla tutela degli interessi essenziali della propria sicurezza; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    ai contratti per i quali l'applicazione delle disposizioni del presente decreto obbligherebbe lo Stato italiano a fornire informazioni la cui divulgazione e' considerata contraria agli interessi essenziali della sua sicurezza, previa adozione del provvedimento di segretazione; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    ai contratti per attivita' d'intelligence; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    ai contratti aggiudicati nel quadro di un programma di cooperazione basato su ricerca e sviluppo, condotto congiuntamente dall'Italia e almeno uno Stato membro per lo sviluppo di un nuovo prodotto e, ove possibile, nelle fasi successive di tutto o parte del ciclo di vita di tale prodotto. Dopo la conclusione di un siffatto programma di cooperazione unicamente tra l'Italia e uno o altri Stati membri, gli stessi comunicano alla Commissione europea l'incidenza della quota di ricerca e sviluppo in relazione al costo globale del programma, l'accordo di ripartizione dei costi nonche', se del caso, la quota ipotizzata di acquisti per ciascuno Stato membro; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    ai contratti aggiudicati in un paese terzo, anche per commesse civili, quando le forze operano al di fuori del territorio dell'Unione, se le esigenze operative richiedono che siano conclusi con operatori economici localizzati nell'area delle operazioni; a tal fine sono considerate commesse civili i contratti diversi da quelli di cui all'articolo 2; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    ai contratti di servizi aventi per oggetto l'acquisto o la locazione, quali che siano le relative modalita' finanziarie, di terreni, fabbricati esistenti o altri beni immobili o riguardanti diritti su tali beni; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    ai contratti aggiudicati dal governo italiano a un altro governo e concernenti: 
+ 1) la fornitura di materiale militare o di materiale sensibile; 
+ 2) lavori e servizi direttamente collegati a tale materiale; 
+ 3) lavori e servizi per fini specificatamente militari, o lavori e servizi sensibili; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    ai servizi di arbitrato e di conciliazione; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    ai servizi finanziari, ad eccezione dei servizi assicurativi; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    ai contratti d'impiego; 
+
+                                
+                            
+                            
+                                m)
+                                
+                                    ai servizi di ricerca e sviluppo diversi da quelli i cui benefici appartengono esclusivamente all'amministrazione aggiudicatrice o ente aggiudicatore perche' li usi nell'esercizio della sua attivita', a condizione che la prestazione del servizio sia interamente retribuita da tale amministrazione aggiudicatrice o ente aggiudicatore.
+
 Nessuna delle norme, procedure, programmi, accordi, intese o appalti menzionati ai commi 1 e 2 puo' essere utilizzata allo scopo di non applicare le disposizioni del presente decreto.
 
 ## Art. 7. — Norme applicabili ai contratti di servizi
@@ -92,6 +349,24 @@ I programmi triennali e gli elenchi annuali dei contratti di cui all'articolo 2,
 
 ## Art. 10. — Importi delle soglie dei contratti di rilevanza comunitaria
 
+1.
+                        
+                            
+                                Il presente decreto si applica ai contratti il cui valore stimato al netto dell'imposta sul valore aggiunto (i.v.a.) e' pari o superiore alle soglie seguenti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    387.000 euro, per i contratti di forniture e di servizi; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    4.845.000 euro per i contratti di lavori.
+
 Ai fini del calcolo del valore stimato di cui al comma 1 si applica l'articolo 29 del codice, con esclusione del comma 12, lettera a.2).
 
 ## - Capo II Requisiti per la partecipazione alle gare
@@ -111,15 +386,125 @@ L'assenza di tale affidabilita' viene preventivamente accertata con qualsiasi me
 
 ## Art. 12. — Capacita' tecnica e professionale dei fornitori e dei prestatori di servizi
 
+1.
+                        
+                            
+                                Negli appalti di servizi e forniture la dimostrazione delle capacita' tecniche dei concorrenti puo' essere fornita, oltre che nei modi indicati dall'articolo 42 del codice, nei seguenti modi: 
+ 
+                            
+                            
+                                a)
+                                
+                                    descrizione delle misure adottate dal fornitore o dal prestatore del servizio per garantire la qualita', nonche' degli strumenti di studio o di ricerca di cui dispone e della regolamentazione interna in materia di proprieta' intellettuale; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    indicazione del numero medio annuo di dipendenti del concorrente e il numero di dirigenti impiegati negli ultimi tre anni; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    descrizione delle attrezzature tecniche tale da consentire una loro precisa individuazione e rintracciabilita', del materiale, dell'equipaggiamento tecnico, del numero degli effettivi e delle loro competenze e delle fonti di approvvigionamento, con un'indicazione della collocazione geografica qualora si trovi al di fuori del territorio dell'Unione, di cui dispone l'operatore economico per eseguire l'appalto, per far fronte ad eventuali esigenze supplementari della stazione appaltante dovute a una crisi, o per garantire la manutenzione, la modernizzazione o gli adeguamenti delle forniture oggetto dell'appalto.
+
 Con riferimento all'articolo 42, comma 1, lettera a), del codice, l'elenco dei principali servizi o delle principali forniture prestati si riferisce agli ultimi cinque anni.
 
 ## Art. 13. — Sicurezza dell'informazione
 
 Nel caso di contratti che comportano la trattazione di informazioni classificate, gli operatori economici forniscono prova della capacita' loro e dei loro subappaltatori di trattare tali informazioni al livello di protezione richiesto nella documentazione dell'appalto da parte della stazione appaltante, in conformita' alle leggi e ai regolamenti in materia di nulla osta di sicurezza, e agli accordi internazionali di settore.
 
+2.
+                        
+                            
+                                A tale fine, la stazione appaltante precisa nella medesima documentazione le misure e i requisiti necessari per garantire la sicurezza dell'informazione, i quali possono riguardare: 
+ 
+                            
+                            
+                                a)
+                                
+                                    l'impegno dell'offerente e dei subappaltatori gia' individuati a salvaguardare opportunamente la riservatezza di tutte le informazioni classificate in loro possesso o di cui vengano a conoscenza per tutta la durata dell'appalto e dopo la risoluzione o conclusione dell'appalto, in conformita' alle pertinenti disposizioni legislative, regolamentari e amministrative; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'impegno dell'offerente ad ottenere l'impegno di cui alla lettera a) da altri subappaltatori ai quali subappaltera' durante l'esecuzione dell'appalto; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    le informazioni sufficienti sui subappaltatori gia' individuati, che consentano all'amministrazione aggiudicatrice/all'ente aggiudicatore di accertare che ciascuno di essi possieda le capacita' necessarie per salvaguardare adeguatamente la riservatezza delle informazioni classificate alle quali hanno accesso o che sono tenuti a produrre nel quadro della realizzazione delle loro attivita' di subappalto; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    l'impegno dell'offerente a fornire le informazioni richieste alla lettera c) ai nuovi subappaltatori prima di attribuire loro un subappalto; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    ulteriori misure e requisiti che, in ragione della natura, dell'impiego dei beni, servizi o lavori e della finalita' dell'appalto, siano ritenuti necessari dalla stazione appaltante.
+
 La stazione appaltante puo', se del caso, concedere, agli operatori economici che non detengono ancora il nulla osta di sicurezza, un periodo addizionale per ottenerlo. In tale ipotesi, la stazione appaltante specifica nel bando di gara il termine entro il quale il nulla osta va presentato, comunque non successivo alla data di apertura delle offerte presentate.
 
 ## Art. 14. — Sicurezza dell'approvvigionamento
+
+1.
+                        
+                            
+                                La stazione appaltante precisa nella documentazione dell'appalto i requisiti in materia di sicurezza dell'approvvigionamento ritenuti necessari in relazione all'oggetto dell'appalto. Tali requisiti possono riguardare: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la capacita' dell'offerente di onorare i suoi obblighi in materia di esportazione, trasferimento e transito dei prodotti e servizi oggetto del contratto; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'organizzazione e ubicazione della catena di approvvigionamento dell'offerente, ai fini del presente articolo; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    la predisposizione e mantenimento della capacita' necessaria a far fronte ad esigenze supplementari della stazione appaltante dovute a una crisi, secondo termini e condizioni da concordare; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    la manutenzione, la modernizzazione o gli adeguamenti delle forniture oggetto dell'appalto; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    le misure atte a consentire alla stazione appaltante la manutenzione dei prodotti e servizi oggetto del contratto qualora l'operatore economico non sia piu' in grado di provvedere in proprio; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    ulteriori misure e requisiti che, in ragione della natura, dell'impiego dei beni, servizi o lavori e della finalita' dell'appalto, siano ritenuti necessari dalla stazione appaltante.
 
 ## Art. 15. — Operatori economici stabiliti in Stati diversi dall'Italia
 
@@ -163,6 +548,108 @@ Le stazioni appaltanti possono prevedere che la procedura negoziata si svolga in
 
 Le stazioni appaltanti possono aggiudicare contratti mediante procedura negoziata senza previa pubblicazione di un bando di gara nelle ipotesi di cui al comma 2, dandone conto con adeguata motivazione nella deliberazione a contrarre. La medesima motivazione e' riportata nell'avviso sui risultati della procedura di affidamento di cui all'articolo 65 del codice.
 
+2.
+                        
+                            
+                                Nei contratti relativi a lavori, forniture, servizi, la procedura di cui al comma 1 e' consentita: 
+ 
+                            
+                            
+                                a)
+                                
+                                    qualora, in esito all'esperimento di una procedura ristretta, una procedura negoziata previa pubblicazione di un bando di gara o un dialogo competitivo, non sia stata presentata nessuna offerta, o nessuna offerta appropriata, o nessuna candidatura. Nella procedura negoziata non possono essere modificate in modo sostanziale le condizioni iniziali del contratto. Alla Commissione europea, su sua richiesta, va trasmessa una relazione sulle ragioni della mancata aggiudicazione a seguito di procedura ristretta e sulla opportunita' della procedura negoziata; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    in caso di offerte irregolari o di deposito di offerte inammissibili secondo le disposizioni nazionali vigenti in relazione ai requisiti degli offerenti e delle offerte, presentate in esito all'esperimento di una procedura ristretta, di una procedura negoziata con pubblicazione di un bando di gara o di un dialogo competitivo. Nella procedura negoziata non possono essere modificate in modo sostanziale le condizioni iniziali dell'appalto e devono essere inclusi tutti, e soltanto, gli offerenti in possesso dei requisiti indicati nel bando, che, nella procedura ristretta o nel dialogo competitivo precedenti, hanno presentato offerte conformi ai requisiti formali della procedura di aggiudicazione; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    quando l'urgenza risultante da situazioni di crisi non sia compatibile con i termini previsti dalla procedura ristretta e dalla procedura negoziata con pubblicazione di un bando di gara, compresi i termini ridotti di cui all'articolo 70, comma 11, del codice; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    qualora, per ragioni di natura tecnica ovvero attinenti alla tutela di diritti esclusivi, il contratto possa essere affidato unicamente ad un operatore economico determinato; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    nella misura strettamente necessaria, quando l'estrema urgenza, risultante da eventi imprevedibili per le stazioni appaltanti, non e' compatibile con i termini imposti dalle procedure ristrette, o negoziate previa pubblicazione di un bando di gara, compresi i termini ridotti di cui all'articolo 70, comma 11, del codice. Le circostanze invocate a giustificazione della estrema urgenza non devono essere imputabili alle stazioni appaltanti.
+
+3.
+                        
+                            
+                                Nei contratti relativi a servizi e a forniture, la procedura del presente articolo e', inoltre, consentita: 
+ 
+                            
+                            
+                                a)
+                                
+                                    per servizi di ricerca e sviluppo i cui benefici appartengono esclusivamente alla stazione appaltante perche' li usi nell'esercizio della sua attivita', a condizione che la prestazione del servizio sia interamente retribuita da tale stazione appaltante; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    qualora i prodotti oggetto del contratto siano fabbricati esclusivamente a fini di ricerca e sviluppo, a meno che non si tratti di produzione in quantita' sufficiente ad accertare la redditivita' del prodotto o a coprire i costi di ricerca e messa a punto.
+
+4.
+                        
+                            
+                                Nei contratti relativi a forniture, la procedura del presente articolo e', altresi', consentita: 
+ 
+                            
+                            
+                                a)
+                                
+                                    nel caso di consegne complementari effettuate dal fornitore originario e destinate al rinnovo parziale di forniture o di impianti di uso corrente o all'ampliamento di forniture o impianti esistenti, qualora il cambiamento di fornitore obbligherebbe la stazione appaltante ad acquistare materiali con caratteristiche tecniche differenti, il cui impiego o la cui manutenzione comporterebbero incompatibilita' o difficolta' tecniche sproporzionate; la durata di tali contratti e dei contratti rinnovabili non puo' superare i cinque anni, salvo in circostanze eccezionali, determinate tenendo conto della prevista durata di vita di qualsiasi prodotto, impianto o sistema fornito e delle difficolta' tecniche che possono essere causate dal cambiamento di fornitore; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    per forniture quotate e acquistate in una borsa di materie prime; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    per l'acquisto di forniture a condizioni particolarmente vantaggiose, da un fornitore che cessa definitivamente l'attivita' commerciale oppure dal curatore o liquidatore di un fallimento, di un concordato preventivo, di una liquidazione coatta amministrativa, di un'amministrazione straordinaria di grandi imprese.
+
+5.
+                        
+                            
+                                Nei contratti relativi a lavori e servizi, la procedura del presente articolo e', inoltre, consentita: 
+ 
+                            
+                            
+                                a)
+                                
+                                    per i lavori o i servizi complementari, non compresi nel progetto iniziale ne' nel contratto iniziale, che, a seguito di una circostanza imprevista, sono divenuti necessari all'esecuzione dei lavori o del servizio oggetto del progetto o del contratto iniziale, purche' aggiudicati all'operatore economico che presta tale servizio o esegue tali lavori, nel rispetto delle seguenti condizioni: 
+ 1) tali lavori o servizi complementari non possono essere separati, sotto il profilo tecnico o economico, dal contratto iniziale, senza recare gravi inconvenienti alla stazione appaltante, ovvero pur essendo separabili dall'esecuzione del contratto iniziale, sono strettamente necessari al suo perfezionamento; 
+ 2) il valore complessivo stimato dei contratti aggiudicati per lavori o servizi complementari non supera il cinquanta per cento dell'importo del contratto iniziale; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    per nuovi servizi consistenti nella ripetizione di servizi analoghi gia' affidati all'operatore economico aggiudicatario del contratto iniziale dalla medesima stazione appaltante, a condizione che tali servizi siano conformi a un progetto di base e che tale progetto sia stato oggetto di un primo contratto aggiudicato secondo la procedura ristretta, la procedura negoziata con pubblicazione del bando di gara o un dialogo competitivo; in questa ipotesi la possibilita' del ricorso alla procedura negoziata senza bando e' consentita solo nei cinque anni successivi alla conclusione del contratto iniziale, salvo in circostanze eccezionali, determinate tenendo conto della prevista durata di vita di qualsiasi prodotto, impianto o sistema fornito e delle difficolta' tecniche che possono essere causate dal cambiamento di fornitore. La possibilita' del ricorso alla procedura negoziata senza bando deve essere indicata nel bando del contratto originario; l'importo complessivo stimato dei servizi successivi e' computato per la determinazione del valore globale del contratto, ai fini delle soglie di cui all'articolo 10.
+
 Il ricorso alla procedura di cui al presente articolo e' consentito nel caso dei contratti aventi per oggetto servizi di trasporto aereo e marittimo per le forze armate o le forze di sicurezza di stanza o che devono essere stanziate all'estero, quando la stazione appaltante deve procurarsi tali servizi da operatori economici che garantiscono la validita' delle loro offerte solo per periodi cosi' brevi che non e' possibile rispettare il termine per la procedura ristretta o la procedura negoziata con pubblicazione di un bando di gara, compresi i termini ridotti di cui all'articolo 70, comma 11, del codice.
 
 Ove possibile, la stazione appaltante individua gli operatori economici da consultare sulla base di informazioni riguardanti le caratteristiche di qualificazione economico-finanziaria e tecnico-organizzativa desunte dal mercato, nel rispetto dei principi di trasparenza, concorrenza, rotazione, e seleziona almeno tre operatori economici, se sussistono in tale numero soggetti idonei.
@@ -190,9 +677,52 @@ Le stazioni appaltanti, quando ricorrono alla facolta' di ridurre il numero dell
 
 ## Art. 20. — Applicazione del criterio dell'offerta economicamente piu' vantaggiosa
 
+1.
+                        
+                            
+                                Fermo restando quanto previsto dall'articolo 83, del codice, possono essere presi in considerazione, a titolo esemplificativo, anche i seguenti criteri di valutazione: 
+ 
+                            
+                            
+                                a)
+                                
+                                    l'interoperabilita'; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le caratteristiche operative.
+
 ## - Capo IV Bandi, avvisi e inviti
 
 ## Art. 21. — Avviso di preinformazione
+
+1.
+                        
+                            
+                                Le stazioni appaltanti, possibilmente entro il 31 dicembre di ogni anno, rendono noto mediante un avviso di preinformazione, conforme all'allegato IX A, paragrafi 1 e 2, del codice, pubblicato dalla Commissione europea o da esse stesse sul loro «profilo di committente», quale indicato all'allegato X, punto 2, lettera b), del codice, ed all'articolo 3, comma 35, del codice: 
+ 
+                            
+                            
+                                a)
+                                
+                                    per le forniture, l'importo complessivo stimato degli appalti o degli accordi quadro, per gruppi di prodotti, che intendono aggiudicare nei dodici mesi successivi; i gruppi di prodotti sono definiti mediante riferimento alle voci della nomenclatura CPV, Common procurement vocabulary, di cui al regolamento (CE) n. 213/2008. Il Ministro dell'economia e delle finanze pubblica nella Gazzetta Ufficiale della Repubblica italiana le modalita' di riferimento da fare, nei bandi di gara, a particolari voci della nomenclatura in conformita' a quanto eventualmente stabilito dalla Commissione europea; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    per i servizi, l'importo complessivo stimato degli appalti o degli accordi quadro, per ciascuna delle categorie di servizi elencate nell'allegato I, che intendono aggiudicare nei dodici mesi successivi; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    per i lavori, le caratteristiche essenziali dei contratti o degli accordi quadro che intendono aggiudicare.
 
 Gli avvisi di cui al comma 1 sono inviati alla Commissione europea e pubblicati sul profilo di committente il piu' rapidamente possibile dopo l'adozione della decisione che autorizza il programma per il quale le stazioni appaltanti intendono aggiudicare appalti o accordi quadro.
 
@@ -227,6 +757,30 @@ Talune informazioni relative all'aggiudicazione del contratto o alla conclusione
 Le specifiche tecniche definite al punto 1 dell'allegato III figurano nei documenti del contratto, quali il bando di gara, il capitolato d'oneri o i documenti complementari.
 
 Le specifiche tecniche devono consentire pari accesso agli offerenti e non devono comportare la creazione di ostacoli ingiustificati all'apertura dei contratti alla concorrenza.
+
+3.
+                        
+                            
+                                Fatte salve le regole tecniche nazionali obbligatorie, comprese quelle relative alla sicurezza dei prodotti, o i requisiti tecnici che devono essere soddisfatti nel quadro di accordi internazionali di normalizzazione, al fine di garantire l'interoperabilita' prevista da tali accordi e purche' siano compatibili con il diritto comunitario, le specifiche tecniche sono formulate: 
+ 
+                            
+                            
+                                a)
+                                
+                                    mediante riferimento a specifiche tecniche definite nell'allegato III e, in ordine di preferenza, alle norme civili nazionali che recepiscono norme europee, alle omologazioni tecniche europee, alle specifiche tecniche civili comuni, alle norme civili nazionali che recepiscono norme internazionali, alle altre norme civili internazionali, ad altri sistemi tecnici di riferimento adottati dagli organismi europei di normalizzazione o, se questi mancano, ad altre norme civili nazionali, alle omologazioni tecniche nazionali o alle specifiche tecniche nazionali in materia di progettazione, di calcolo e di realizzazione delle opere e di messa in opera dei prodotti, alle specifiche tecniche civili originate dall'industria e da essa ampiamente riconosciute o agli standard di difesa nazionali definiti dall'allegato III, punto 3, del presente decreto e alle specifiche per il materiale di difesa assimilabili a tali standard. Ciascun riferimento contiene la menzione «o equivalente»; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    in termini di cui all'articolo 68, comma 3, lettere b),
+                                
+                            
+                            
+                                c)
+                                
+                                    e d), del codice.
 
 Per quanto non previsto e disciplinato nel presente articolo si applicano le disposizioni recate dall'articolo 68, commi da 4 a 13, del codice.
 
@@ -280,6 +834,25 @@ Non si puo' ricorrere agli accordi quadro in modo improprio o in modo da ostacol
 
 Ai fini dell'articolo 27, non si considerano terzi le imprese che si sono raggruppate per ottenere l'aggiudicazione dell'appalto, ne' le imprese ad esse collegate. L'offerente include nella sua candidatura l'elenco completo di tali imprese. L'elenco e' aggiornato a seguito di qualsiasi modifica intervenuta nelle relazioni tra le imprese.
 
+2.
+                        
+                            
+                                Ai medesimi fini, per impresa collegata si intende qualsiasi impresa su cui l'aggiudicatario puo' esercitare, direttamente o indirettamente, un'influenza dominante o qualsiasi impresa che puo' esercitare un'influenza dominante sull'aggiudicatario o che, come l'aggiudicatario, e' soggetta all'influenza dominante di un'altra impresa per motivi attinenti alla proprieta', alla partecipazione finanziaria o alle norme che disciplinano l'impresa stessa.
+L'influenza dominante e' presunta quando l'impresa si trova, direttamente o indirettamente, in una delle seguenti situazioni nei confronti di un'altra impresa: 
+ 
+                            
+                            
+                                a)
+                                
+                                    detiene la maggioranza del capitale sottoscritto dell'impresa; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    controlla una maggioranza dei voti connessi alle partecipazioni al capitale dell'impresa oppure puo' designare piu' della meta' dei membri dell'organo di amministrazione, di direzione o di vigilanza dell'impresa.
+
 ## Art. 29. — Disposizioni in materia di pubblicita'
 
 Quando un aggiudicatario assegna un subappalto ai sensi dell'articolo 27, comma 1, deve rendere nota la propria intenzione mediante un avviso.
@@ -328,7 +901,71 @@ Dell'attivita' di cui al presente comma e' dato conto entro il 30 giugno di cias
 
 Alla rubrica del capo I, del titolo IV della parte II del codice e alla rubrica degli articoli 195 e 196 del codice sono aggiunte, in fine, le seguenti parole: "diversi da quelli che rientrano nel campo di applicazione del decreto legislativo di recepimento della direttiva 2009/81/CE".
 
+5.
+                        
+                            
+                                All'articolo 196 del codice sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    al comma 1, le parole: "ai lavori, ai servizi e alle forniture connessi alle esigenze della difesa militare, e per la disciplina attuativa dell'articolo 17" sono sostituite dalle seguenti: "ai contratti di lavori, servizi e forniture diversi da quelli che rientrano nel campo di applicazione del decreto legislativo di recepimento della direttiva 2009/81/CE"; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    al comma 2, le parole: "di competenza" sono sostituite dalle seguenti: "di cui al comma 1"; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    al comma 3, dopo le parole: "di rilevanza comunitaria" sono inserite le seguenti: "di cui al comma 1"; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    al comma 4, dopo le parole: "appalti pubblici di lavori" sono inserite le seguenti: "di cui al comma 1"; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    al comma 5, dopo le parole: "della difesa" sono inserite le seguenti: ", di cui al comma 1" e le parole: "16, 17 e 18" sono sostituite dalle seguenti: "17 e 18"; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    al comma 7, dopo le parole: "del Ministero della difesa" sono inserite le seguenti: "diversi da quelli che rientrano nel campo di applicazione del decreto legislativo di recepimento della direttiva 2009/81/CE".
+
 ## Art. 34. — Norme transitorie
+
+1.
+                        
+                            
+                                Le disposizioni di cui al presente decreto si applicano: 
+ 
+                            
+                            
+                                a)
+                                
+                                    alle procedure e ai contratti i cui bandi o avvisi con i quali si indice una gara sono pubblicati successivamente alla data della sua entrata in vigore; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    alle procedure e ai contratti senza pubblicazione di bandi e avvisi per i quali, alla data di entrata in vigore del presente decreto, non sono ancora stati inviati gli inviti a presentare le offerte.
 
 ## Art. 35. — Norma finanziaria
 

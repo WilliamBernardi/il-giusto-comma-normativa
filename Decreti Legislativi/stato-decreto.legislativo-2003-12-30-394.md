@@ -8,8 +8,8 @@ codice_redazionale: 004G0067
 vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:29Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -25,6 +25,73 @@ Sulla proposta del Ministro per le politiche comunitarie e del Ministro dell'eco
 
 ## Art. 1. — Nota integrativa del bilancio di esercizio
 
+1.
+                    
+                        
+                            Nel codice civile, dopo l'articolo 2427, e' inserito il seguente:
+ <<2427-bis (Informazioni relative al valore equo "fair value" degli
+strumenti finanziari). - 1. Nella nota integrativa sono indicati:
+ 1) per ciascuna categoria di strumenti finanziari derivati:
+ 
+                        
+                        
+                            a)
+                            
+                                il loro fair value;
+
+                            
+                        
+                        
+                            b)
+                            
+                                informazioni sulla loro entita' e sulla loro natura;
+ 2) per le immobilizzazioni finanziarie iscritte a un valore superiore al loro fair value, con esclusione delle partecipazioni in societa' controllate e collegate ai sensi dell'articolo 2359 e delle partecipazioni in joint venture:
+ a) il valore contabile e il fair value delle singole attivita', o di appropriati raggruppamenti di tali attivita';
+ b) i motivi per i quali il valore contabile non e' stato ridotto, inclusa la natura degli elementi sostanziali sui quali si basa il convincimento che tale valore possa essere recuperato.
+
+2.
+                    
+                        
+                            Ai fini dell'applicazione delle disposizioni del comma 1, sono considerati strumenti finanziari derivati anche quelli collegati a merci che conferiscono all'una o all'altra parte contraente il diritto di procedere alla liquidazione del contratto per contanti o mediante altri strumenti finanziari, ad eccezione del caso in cui si verifichino contemporaneamente le seguenti condizioni:
+ 
+                        
+                        
+                            a)
+                            
+                                il contratto sia stato concluso e sia mantenuto per soddisfare le esigenze previste dalla societa' che redige il bilancio di acquisto, di vendita o di utilizzo delle merci;
+
+                            
+                        
+                        
+                            b)
+                            
+                                il contratto sia stato destinato a tale scopo fin dalla sua conclusione;
+
+                            
+                        
+                        
+                            c)
+                            
+                                si prevede che il contratto sia eseguito mediante consegna della merce.
+
+3.
+                    
+                        
+                            Il fair value e' determinato con riferimento:
+ 
+                        
+                        
+                            a)
+                            
+                                al valore di mercato, per gli strumenti finanziari per i quali e' possibile individuare facilmente un mercato attivo; qualora il valore di mercato non sia facilmente individuabile per uno strumento, ma possa essere individuato per i suoi componenti o per uno strumento analogo, il valore di mercato puo' essere derivato da quello dei componenti o dello strumento analogo;
+
+                            
+                        
+                        
+                            b)
+                            
+                                al valore che risulta da modelli e tecniche di valutazione generalmente accettati, per gli strumenti per i quali non sia possibile individuare facilmente un mercato attivo; tali modelli e tecniche di valutazione devono assicurare una ragionevole approssimazione al valore di mercato.
+
 Il fair value non e' determinato se l'applicazione dei criteri indicati al comma precedente non da' un risultato attendibile.
 
 Ai fini dell'applicazione del presente articolo e dell'articolo 2428, comma 2, numero 6-bis) per la definizione di strumento finanziario, di strumento finanziario derivato, di fair value e di modello e tecnica di valutazione generalmente accettato, si fa riferimento ai principi contabili riconosciuti in ambito internazionale e compatibili con la disciplina in materia dell'Unione europea.>>.
@@ -35,6 +102,26 @@ All'articolo 2435-bis, comma 5, del codice civile dopo le parole: <<e 17) dell'a
 dal numero 1) del comma 1 dell'articolo 2427-bis>>.
 
 ## Art. 3. — Relazione sulla gestione allegata al bilancio di esercizio
+
+1.
+                    
+                        
+                            All'articolo 2428, comma 2, del codice civile e' aggiunto, in fine, il seguente numero:
+ <<6-bis) in relazione all'uso da parte della societa' di strumenti
+finanziari e se rilevanti per la valutazione della situazione patrimoniale e finanziaria e del risultato economico dell'esercizio:
+ 
+                        
+                        
+                            a)
+                            
+                                gli obiettivi e le politiche della societa' in materia di gestione del rischio finanziario, compresa la politica di copertura per ciascuna principale categoria di operazioni previste;
+
+                            
+                        
+                        
+                            b)
+                            
+                                l'esposizione della societa' al rischio di prezzo, al rischio di credito, al rischio di liquidita' e al rischio di variazione dei flussi finanziari.>>.
 
 ## Art. 4. — Nota integrativa del bilancio consolidato
 

@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Regolamenti governativi
 vigenza_date: 2019-01-01
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:16Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -82,11 +82,145 @@ Fermo restando quanto disposto dall'articolo 7 del presente regolamento, ai fini
 
 Le domande presentate dalle imprese di cui alle disposizioni citate nel comma 1, sottoscritte dal legale rappresentante, sono presentate per via telematica e con firma digitale dal 1° al 31 gennaio dell'anno successivo a quello di riferimento dei contributi, secondo le modalita' pubblicate sul sito internet della Presidenza del Consiglio dei Ministri. Qualora per giustificati motivi l'impresa sia impossibilitata ad utilizzare lo strumento informatico, la domanda puo' essere presentata entro lo stesso termine anche mediante raccomandata postale. Le domande presentate al di fuori del periodo indicato sono irricevibili. La documentazione istruttoria e' trasmessa, unicamente mediante raccomandata postale con avviso di ricevimento o per via telematica, con firma digitale, secondo modalita' indicate sul sito internet della Presidenza del Consiglio dei Ministri. La medesima documentazione istruttoria deve comunque pervenire, a pena di decadenza dal diritto all'ammissione al contributo, entro il 30 settembre dell'anno in cui e' stata presentata la domanda per la concessione.
 
+3.
+                        
+                            
+                                In luogo della documentazione da inviare a corredo della domanda dei contributi, come specificata dall'articolo 2 del decreto del Presidente del Consiglio dei Ministri 15 settembre 1987, n. 410, e dall'articolo 2 del decreto del Presidente della Repubblica 16 settembre 1996, n. 680, le imprese possono presentare una dichiarazione sostitutiva di atto di notorieta' ai sensi degli articoli 47 e 76 del decreto del Presidente della Repubblica 28 dicembre 2000, n. 445, comprovante: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la sede legale e la sede operativa dell'impresa; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    gli estremi della registrazione della testata giornalistica presso il competente Tribunale ovvero presso il Registro degli operatori della comunicazione; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    gli estremi del decreto di concessione o altro titolo richiesto dal Ministero dello sviluppo economico, ovvero di conferma o voltura degli stessi; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    il numero di codice fiscale e di partita IVA dell'impresa; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    il palinsesto settimanale tipo, con l'ora dell'inizio e l'ora della fine di ciascun programma, nonche' la relativa durata, al netto di ogni interruzione pubblicitaria. Nell'ambito del palinsesto vanno puntualmente indicati i propri programmi informativi e quelli autoprodotti, nonche' la loro percentuale sulle ore complessive di trasmissione effettuate ogni giorno nel limite orario previsto dalle suddette disposizioni; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    il numero dei dipendenti iscritti presso i rispettivi competenti Enti previdenziali con l'indicazione delle sedi di iscrizione. La dichiarazione deve essere resa anche in assenza di dipendenti; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    le singole utenze telefoniche ed elettriche indicate in domanda, con l'attestazione dell'uso esclusivo delle stesse per finalita' aziendali; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    il tipo di satellite utilizzato per la fornitura dei servizi di comunicazione, nonche' la sua posizione orbitale, specificando la percentuale di utilizzo imputabile al segmento inerente la contribuzione.
+
 Fermo restando quanto disposto dall'articolo 7 del presente regolamento, le imprese che richiedono il rimborso per servizi forniti dalle agenzie di stampa e informazione e per canoni di noleggio ed abbonamento ai servizi di comunicazione di qualsiasi tipo, ivi compresi i sistemi via satellite, inviano altresi' copia conforme, ai sensi dell'articolo 19 del decreto del Presidente della Repubblica 28 dicembre 2000, n. 445, delle fatture emesse rispettivamente dalle agenzie di informazione o dai gestori dei servizi di comunicazione, con relativa quietanza. Le stesse imprese comunicano inoltre le modalita' di pagamento indicando, in caso di accredito su conto corrente bancario, istituto di credito e codice IBAN.
 
 Le imprese iscritte alla Camera di Commercio possono presentare il certificato di vigenza in luogo dello statuto, dell'atto costitutivo e dei verbali di assemblea di nomina degli amministratori e dei sindaci. Per tutti gli altri soggetti resta l'obbligo, se emittenti radiofoniche, di invio della documentazione di cui all'articolo 2, comma 1, lettera b), del decreto del Presidente del Consiglio dei Ministri 15 settembre 1987, n. 410, o, se emittenti televisive, di cui all'articolo 2, comma 1, lettera b), del decreto del Presidente della Repubblica 16 settembre 1996, n. 680.
 
 La comunicazioni di preavviso previste dall'articolo 1, comma 3, del decreto del Presidente del Consiglio dei Ministri 15 settembre 1987, n. 410, nonche' dall'articolo 1, comma 3, del decreto del Presidente della Repubblica 16 settembre 1996, n. 680, rispettivamente per le imprese di radiodiffusione sonora e televisiva, sono obbligatorie soltanto ai fini della presentazione della prima domanda annuale di contributi, a pena di inammissibilita' della medesima. Il preavviso di domanda e', altresi', presentato obbligatoriamente, al Dipartimento per l'informazione e l'editoria, dagli aventi causa di imprese di radiodiffusione sonora o televisiva entro sessanta giorni dal subentro. Nel caso in cui l'impresa di radiodiffusione non presenti la domanda di concessione del contributo per una o piu' annualita', la comunicazione di preavviso dovra' essere presentata nuovamente al Dipartimento per l'informazione e l'editoria.
+
+7.
+                        
+                            
+                                Le commissioni consultive previste dall'articolo 4 del decreto del Presidente del Consiglio dei Ministri 15 settembre 1987, n. 410, e dall'articolo 4 del decreto del Presidente della Repubblica 16 settembre 1996, n. 680, sono presiedute dal Sottosegretario di Stato alla Presidenza del Consiglio dei Ministri con delega per l'informazione e l'editoria e sono cosi' composte: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il Capo del Dipartimento per l'informazione e l'editoria della Presidenza del Consiglio dei Ministri; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il Coordinatore dell'Ufficio per il sostegno all'editoria del medesimo Dipartimento; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il Coordinatore del Servizio per il sostegno radiotelevisivo del medesimo Dipartimento; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    un dirigente di prima fascia del Dipartimento della Ragioneria generale dello Stato; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    un dirigente di prima fascia del Ministero dello sviluppo economico - Direzione generale delle comunicazioni; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    due esperti in materie giuridiche ed economiche aventi attinenza, rispettivamente, con l'informazione radiofonica e con l'informazione televisiva nominati con decreto del Presidente del Consiglio dei Ministri; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    un membro designato da ognuna delle associazioni nazionali di categoria maggiormente rappresentative, rispettivamente, delle imprese private di radiodiffusione sonora, nazionali e locali, e delle imprese private televisive locali, per un totale di non piu' di sei membri per ogni commissione; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    un rappresentante dell'Ordine nazionale dei giornalisti; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    un rappresentante delle organizzazioni sindacali dei giornalisti; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    un esperto o operatore delle imprese di radiodiffusione sonora di testate organi di partiti politici, nominato dal Presidente del Consiglio dei Ministri per la commissione prevista dall'articolo 4 del decreto del Presidente del Consiglio dei Ministri 15 settembre 1987, n. 410.
 
 ## Art. 9. — Agenzie di informazione radiofoniche e televisive
 
@@ -131,6 +265,31 @@ Fatto salvo quanto previsto dal comma 1 del presente articolo, in caso di insuff
 
 ## Art. 13. — Concessione delle agevolazioni di credito alle imprese editoriali
 
+1.
+                        
+                            
+                                Le agevolazioni di credito alle imprese editoriali di cui all'articolo 4 della legge 7 marzo 2001, n. 62, sono concesse nella forma di contributi in conto interessi su finanziamenti a valere sul Fondo per le agevolazioni di credito di cui all'articolo 5 della medesima legge n. 62 del 2001. Alla concessione delle predette agevolazioni di credito si provvede mediante la valutazione di progetti che presentano cumulativamente le seguenti caratteristiche: 
+ 
+                            
+                            
+                                a)
+                                
+                                    preventiva deliberazione dell'istituto finanziatore da allegare alla domanda, pena la non procedibilita' nella valutazione della domanda stessa; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    finanziamento bancario e/o operazione di locazione finanziaria, della durata massima di dieci anni, finalizzato al progetto. Il finanziamento e' ammesso a contributo in misura non superiore a euro 15 milioni; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    realizzazione del progetto entro un anno dal termine di scadenza di presentazione della domanda. Sono, altresi', ammesse le spese sostenute nei due anni antecedenti la data di presentazione della domanda.
+
 Con Avviso pubblicato nella Gazzetta Ufficiale, sono comunicati il termine finale, non inferiore a novanta giorni, di presentazione delle domande a pena di decadenza, l'ammontare delle risorse disponibili, i requisiti dell'impresa proponente e dell'iniziativa in base ai quali e' effettuata la valutazione ai fini della concessione del contributo, nonche' la documentazione da produrre a corredo della domanda. L'emanazione dell'Avviso costituisce impegno per le somme ivi indicate. Le somme impegnate per le finalita' di cui al comma 1 dell'articolo 5 della legge 7 marzo 2001, n. 62, ed a qualsiasi titolo disimpegnate, nonche' le somme erogate per le medesime finalita' ed a qualsiasi titolo restituite, sono contestualmente riassegnate al Fondo stesso.
 
 I requisiti dell'iniziativa di cui al comma 2 attengono alla tipologia del progetto, al fine perseguito dallo stesso, alla coerenza degli strumenti con il perseguimento degli obiettivi previsti. La validita' tecnica, economica e finanziaria dell'iniziativa e' valutata con particolare riferimento alla congruita' delle spese previste, alla redditivita', alle prospettive di mercato e agli obiettivi di sviluppo aziendale.
@@ -144,6 +303,88 @@ L'Avviso per la presentazione delle domande di cui all'articolo 13, comma 2, e' 
 Il richiedente e' tenuto a realizzare il progetto oggetto della domanda entro dodici mesi dal termine di scadenza previsto nell'Avviso per la presentazione delle domande. Le variazioni intervenute nel corso della realizzazione del progetto sono comunicate al Comitato entro i medesimi termini previsti per la realizzazione del progetto stesso.
 
 La mancata realizzazione del progetto, nonche' la mancata comunicazione delle variazioni entro i termini di cui al comma 2 comporta la non procedibilita' nella valutazione delle domande.
+
+4.
+                        
+                            
+                                Entro i successivi sessanta giorni dal termine previsto dal comma 2, i soggetti richiedenti producono, comunque, pena la non procedibilita' nella valutazione delle domande, la seguente documentazione: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il contratto di mutuo finalizzato al progetto corredato dal piano di ammortamento bancario laddove non ancora presentato. Il tasso di interesse e le altre condizioni economiche alle quali e' riferito il contratto di mutuo sono liberamente concordate tra le parti; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la documentazione delle spese sostenute per il progetto consistente in fatture e documenti fiscalmente regolari, in originale quietanzato o in copia dichiarata conforme; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    una perizia giurata di un esperto del settore, iscritto al relativo albo professionale, scelto tra i consulenti tecnici di ufficio presso il Tribunale del luogo dove ha sede legale l'istante, che attesti la realizzazione e la corrispondenza degli investimenti alla finalita' del progetto, nonche' la congruita' dei costi sostenuti.
+
+5.
+                        
+                            
+                                Nel caso di oneri da riqualificazione del personale o da costi organizzativi, occorre esibire: 
+ 
+                            
+                            
+                                a)
+                                
+                                    idonea documentazione di spesa nelle ipotesi di ricorso ad organismi esterni all'impresa; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    elementi di contabilita' interna aziendale, nelle altre ipotesi.
+
+6.
+                        
+                            
+                                Nel caso di progetti realizzati con il ricorso alla locazione finanziaria i soggetti richiedenti producono, comunque, pena la non procedibilita' della valutazione delle domande, la seguente documentazione entro i medesimi termini previsti dal comma 4: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il contratto di locazione finanziaria debitamente registrato; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    una relazione redatta dalla societa' di locazione finanziaria consistente nella descrizione dei beni oggetto della locazione finanziaria stessa con l'indicazione dei singoli costi d'acquisto e dell'importo dei canoni stabiliti e delle scadenze di pagamento; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    la documentazione delle spese sostenute per il progetto consistente in fatture e documenti fiscalmente regolari, in originale quietanzato o in copia dichiarata conforme; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    una dichiarazione sostitutiva dell'atto di notorieta' che attesti la consegna dei beni oggetto della locazione finanziaria. Il momento giuridico che attesta la data di realizzazione degli investimenti coincide con l'entrata in possesso del bene da parte del soggetto richiedente le agevolazioni di credito; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    una perizia giurata di un esperto del settore, iscritto al relativo albo professionale, scelto tra i consulenti tecnici di ufficio presso il Tribunale del luogo dove ha sede legale l'istante, che attesti la realizzazione e la corrispondenza degli investimenti alla finalita' del progetto, nonche' la congruita' dei costi sostenuti.
 
 Il Comitato di cui all'articolo 16, sulla base dell'istruttoria del Servizio competente che predispone una relazione, esaminata la domanda dell'impresa richiedente, nonche' la delibera dell'istituto finanziatore, approva o rigetta il progetto, previa specifica valutazione dello stesso con particolare riferimento al complesso delle iniziative di carattere finanziario ed industriale, attraverso le quali si prevede di raggiungere gli obiettivi assegnati e delibera in merito alla concessione delle agevolazioni di credito a carico dello Stato secondo criteri di redditivita', sviluppo aziendale e tenendo conto delle prospettive di mercato. La delibera del Comitato e' notificata al soggetto richiedente a cura del Servizio stesso entro diciotto mesi dal termine di scadenza previsto per la presentazione della domanda.
 
@@ -164,6 +405,52 @@ Il calcolo del contributo e' effettuato secondo un piano di ammortamento svilupp
 Il contributo in conto canoni, calcolato sulla base del tasso di riferimento vigente alla data della delibera del Comitato, senza alcun riferimento alle scadenze di pagamento del canone. Il calcolo di detto contributo e' effettuato secondo un piano di ammortamento sviluppato a rata costante semestrale - con scadenze fissate al 30 giugno ed al 31 dicembre di ogni anno - elaborato dal Servizio competente ed erogato direttamente al soggetto richiedente in un'unica soluzione, attualizzando l'importo complessivo del contributo stesso al tasso di riferimento fissato con decreto del Ministro dell'economia e delle finanze vigente alla data del provvedimento di liquidazione.
 
 ## Art. 16. — Comitato per le agevolazioni di credito
+
+1.
+                        
+                            
+                                Il Comitato di cui al comma 4 dell'articolo 7 della legge 7 marzo 2001, n. 62, e' nominato con decreto del Presidente del Consiglio dei Ministri, da emanarsi entro trenta giorni dall'entrata in vigore del presente regolamento, ed e' cosi' composto: 
+ 
+                            
+                            
+                                a)
+                                
+                                    dal Capo del Dipartimento per l'informazione e l'editoria della Presidenza del Consiglio dei Ministri con funzioni di Presidente; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    dal Capo dell'Ufficio per il sostegno all'editoria del Dipartimento per l'informazione e l'editoria della Presidenza del Consiglio dei Ministri; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    dal capo dell'Ufficio bilancio e ragioneria della Presidenza del Consiglio; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    da un rappresentante del Ministero dell'economia e finanze; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    da un rappresentante del Ministero dello sviluppo economico; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    da due esperti in materia di editoria, da un esperto in materia di editoria elettronica, nonche' un esperto nel campo dell'ingegneria designati dal Presidente del Consiglio dei Ministri.
 
 Il Comitato delibera l'ammissione al contributo di cui all'articolo 15. Per la validita' delle riunioni del Comitato e' richiesta la presenza di almeno i due terzi dei componenti e le delibere sono assunte con il voto della maggioranza dei presenti ad esclusione degli astenuti. In caso di parita' di voti prevale la deliberazione alla quale aderisce il Capo del Dipartimento per l'informazione e l'editoria.
 
@@ -200,6 +487,55 @@ Il Dipartimento per l'informazione e l'editoria provvede, per le imprese editori
 Le imprese editoriali, radiofoniche e televisive rimaste soccombenti, con sentenza passata in giudicato, a seguito di ricorsi giurisdizionali in materia di adempimenti previdenziali, non possono percepire contributi fino alla completa esecuzione della sentenza medesima, certificata dagli Enti previdenziali interessati.
 
 ## Art. 21. — Abrogazioni
+
+1.
+                        
+                            
+                                Sono abrogate le seguenti norme: 
+ 
+                            
+                            
+                                a)
+                                
+                                    in relazione al Capo I: 
+ 1) il comma 2 dell'articolo 3 della legge 7 agosto 1990, n. 250, limitatamente alle parole: «, il cui ammontare non puo' comunque superare il 50 per cento dei costi complessivi, compresi gli ammortamenti, risultanti dal bilancio dell'impresa stessa»; 
+ 2) la lettera e) del comma 2 dell'articolo 3 della legge 7 agosto 1990, n. 250; 
+ 3) il comma 2-bis dell'articolo 3 della legge 7 agosto 1990, n. 250, limitatamente alle parole: «e in misura, comunque, non superiore al 50 per cento dei costi complessivi, compresi gli ammortamenti, risultanti dal bilancio dell'impresa stessa,»; 
+ 4) il primo periodo del comma 2-ter dell'articolo 3 della legge 7 agosto 1990, n. 250, limitatamente alle parole: «con esclusione di quelli previsti dal comma 11, e in misura, comunque, non superiore al 50 per cento dei costi complessivi, compresi gli ammortamenti, risultanti dal bilancio dell'impresa stessa,»; 
+ 5) il secondo periodo del comma 2-ter dell'articolo 3 della legge 7 agosto 1990, n. 250, limitatamente alle parole: «e 11 e in misura, comunque, non superiore al 50 per cento dei costi complessivi, compresi gli ammortamenti, risultanti dal bilancio dell'impresa stessa,»; 
+ 6) il comma 2-quater dell'articolo 3 della legge 7 agosto 1990, n. 250, limitatamente alle parole da: «ivi comprese» fino alle seguenti: «dal comma 11»; 
+ 7) il comma 7 dell'articolo 3 della legge 7 agosto 1990, n. 250; 
+ 8) il comma 8 dell'articolo 3 della legge 7 agosto 1990, n. 250; 
+ 9) il comma 9 dell'articolo 3 della legge 7 agosto 1990, n. 250; 
+ 10) il comma 10 dell'articolo 3 della legge 7 agosto 1990, n. 250; 
+ 11) il comma 11 dell'articolo 3 della legge 7 agosto 1990, n. 250; 
+ 12) il comma 12 dell'articolo 3 della legge 7 agosto 1990, n. 250; 
+ 13) il comma 15-bis dell'articolo 3 della legge 7 agosto 1990, n. 250; 
+ 14) il comma 1 dell'articolo 2 della legge 14 agosto 1991, n. 278, limitatamente alle parole: «dall'articolo 3, comma 11, e»; 
+ 15) l'articolo 2 della legge 15 novembre 1993, n. 466; 
+ 16) il secondo periodo del comma 1246 dell'articolo 1 della legge 27 dicembre 2006, n. 296; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    in relazione al Capo II: 
+ 1) le parole da: «La quota spettante» a: «ai sensi della presente legge: » dell'articolo 10-bis, comma 1, lettera c), del decreto-legge 1° ottobre 2007, n. 159, convertito, con modificazioni, dalla legge 29 novembre 2007, n. 222, sono soppresse; 
+ 2) il comma 13 dell'articolo 7 della legge 3 maggio 2004, n. 112; 
+ 3) il comma 3 dell'articolo 4 del decreto del Presidente della Repubblica 16 settembre 1996, n. 680; 
+ 4) il comma 1 dell'articolo 4 del decreto del Presidente del Consiglio dei ministri 15 settembre 1987, n. 410; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    in relazione al Capo III: 
+ 1) i commi 3, 8, 10, 14 e 15 dell'articolo 5, l'articolo 6 e l'articolo 7 della legge 7 marzo 2001, n. 62; 
+ 2) gli articoli 1, 2, 4, 5, 6 e 9, i commi 1, 2, 3, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14 e 15 dell'articolo 3 e il comma 1 dell'articolo 10 del decreto del Presidente della Repubblica 30 maggio 2002, n. 142; 
+ 3) l'articolo 1, comma 3-bis, del decreto-legge 24 dicembre 2003, n. 353, convertito, con modificazioni, dalla legge 27 febbraio 2004, n. 46; 
+ 4) l'articolo 10, comma 8, del decreto-legge 1° ottobre 2007, n. 159, convertito, con modificazioni, dalla legge 29 novembre 2007, n. 222.
 
 ## Art. 22. — Norme finali
 

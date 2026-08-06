@@ -8,8 +8,8 @@ codice_redazionale: 098G0043
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti governativi
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:15Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -35,6 +35,24 @@ il seguente regolamento:
 
 ## Art. 1. — O b i e t t i v i
 
+1.
+                        
+                            
+                                Il censimento intermedio dell'industria e dei servizi, di seguito denominato "censimento", ha i seguenti obiettivi:
+ 
+                            
+                            
+                                a)
+                                
+                                    fornire informazioni aggiornate sul sistema economico dell'industria e dei servizi;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    aggiornare e completare il registro statistico delle imprese, istituito ai sensi del regolamento CEE n. 2186 del 22 luglio 1993.
+
 ## Art. 2. — Campo di osservazione del censimento
 
 Il censimento rileva per ciascun comune la consistenza numerica e le caratteristiche fondamentali delle unita' giuridicoeconomiche iscritte nel registro di cui all'articolo 8 della legge 29 dicembre 1993, n. 580, e dei liberi professionisti tenuti all'iscrizione agli albi professionali secondo le leggi in vigore. Restano escluse dal censimento le unita' esercenti, in prevalenza, attivita' economiche nei settori dell'agricoltura, della caccia, della silvicoltura, della pesca, della istruzione e della sanita', nonche' le istituzioni pubbliche e private.
@@ -42,6 +60,24 @@ Il censimento rileva per ciascun comune la consistenza numerica e le caratterist
 Per un campione di unita' giuridicoeconomiche e per le relative unita' locali da esse dipendenti il censimento rileva, inoltre, alcuni caratteri strutturali, quali l'organizzazione produttiva e la presenza sui mercati.
 
 ## Art. 3. — Organizzazione del censimento e date di rilevazione
+
+1.
+                        
+                            
+                                Il censimento si articola in due fasi:
+ 
+                            
+                            
+                                a)
+                                
+                                    la prima ha inizio nel corso del 1997 e deve rilevare le informazioni desunte dalla integrazione dei principali archivi (seguiva una parola non ammessa al "Visto" della Corte dei conti), verificandone la completezza, l'esaustivita' e la qualita' dei dati, avendo come data di riferimento il 31 dicembre 1996. Dette operazioni sono svolte dall'Istituto nazionale di statistica (ISTAT) in collaborazione con le camere di commercio, industria, artigianato e agricoltura (CCIAA);
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la seconda, che si svolge a conclusione delle operazioni di cui alla lettera a), e comunque non oltre il 31 dicembre 1998, e' finalizzata agli approfondimenti (seguiva una parola non ammessa al "Visto" della Corte dei conti) anche mediante l'utilizzazione di tecniche campionarie. Dette operazioni sono svolte dall'ISTAT in collaborazione con le CCIAA e con i comuni previsti nel piano di campionamento.
 
 ## - Capo II Unita' e modelli di rilevazione
 

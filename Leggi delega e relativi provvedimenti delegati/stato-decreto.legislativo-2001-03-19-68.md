@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Leggi delega e relativi provvedimenti delegati
 vigenza_date: 2025-01-01
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:41:18Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -38,6 +38,78 @@ All'atto della istituzione del Ministero dell'economia e delle finanze, ai sensi
 ## Art. 2. — (Tutela del bilancio)
 
 Fermi restando i compiti previsti dall'articolo 1 della legge 23 aprile 1959, n. 189, e dalle altre leggi e regolamenti vigenti, il Corpo della Guardia di finanza assolve le funzioni di polizia economica e finanziaria a tutela del bilancio pubblico, delle regioni, degli enti locali e dell'Unione europea.
+
+2.
+                        
+                            
+                                A tal fine, al Corpo della Guardia di finanza sono demandati compiti di prevenzione, ricerca e repressione delle violazioni in materia di:
+
+
+                            
+                            
+                                a)
+                                
+                                    imposte dirette e indirette, tasse, contributi, monopoli fiscali e ogni altro tributo, di tipo erariale o locale;
+                                
+                            
+                            
+                                b)
+                                
+                                    diritti doganali, di confine e altre risorse proprie nonche' uscite del bilancio dell'Unione europea;
+                                
+                            
+                            
+                                c)
+                                
+                                    ogni altra entrata tributaria, anche a carattere sanzionatorio o di diversa natura, di spettanza erariale o locale;
+                                
+                            
+                            
+                                d)
+                                
+                                    attivita' di gestione svolte da soggetti privati in regime concessorio, ad espletamento di funzioni pubbliche inerenti la potesta' amministrativa d'imposizione;
+                                
+                            
+                            
+                                e)
+                                
+                                    risorse e mezzi finanziari pubblici impiegati a fronte di uscite del bilancio pubblico nonche' di programmi pubblici di spesa;
+                                
+                            
+                            
+                                f)
+                                
+                                    entrate ed uscite relative alle gestioni separate nel comparto della previdenza, assistenza e altre forme obbligatorie di sicurezza sociale pubblica;
+                                
+                            
+                            
+                                g)
+                                
+                                    demanio e patrimonio dello Stato, ivi compreso il valore aziendale netto di unita' produttive in via di privatizzazione o di dismissione;
+                                
+                            
+                            
+                                h)
+                                
+                                    valute, titoli, valori e mezzi di pagamento nazionali, europei ed esteri, nonche' movimentazioni finanziarie e di capitali;
+                                
+                            
+                            
+                                i)
+                                
+                                    mercati finanziari e mobiliari, ivi compreso l'esercizio del credito e la sollecitazione del pubblico risparmio;
+                                
+                            
+                            
+                                l)
+                                
+                                    diritti d'autore, know-how, brevetti, marchi ed altri diritti di privativa industriale, relativamente al loro esercizio e sfruttamento economico;
+                                
+                            
+                            
+                                m)
+                                
+                                    ogni altro interesse economico-finanziario nazionale o dell'Unione europea.
 
 Il Corpo della Guardia di finanza, avvalendosi anche del proprio dispositivo aeronavale, esercita in mare, fatto salvo quanto previsto dall'articolo 2, primo comma, lettera c), della legge 31 dicembre 1982, n. 979 dagli articoli 200, 201 e 202 del codice della navigazione e dagli accordi internazionali, e i compiti istituzionali conferiti dalle leggi vigenti al Corpo delle Capitanerie di porto, funzioni di polizia economica e finanziaria in via esclusiva richiedendo la collaborazione di altri organismi per l'esercizio dei propri compiti, nonche', fermo restando quanto previsto dalla legge 1o aprile 1981, n. 121, per quanto concerne il coordinamento delle forze di polizia in materia di ordine e di sicurezza pubblica, attivita' di contrasto dei traffici illeciti.
 
@@ -93,6 +165,32 @@ Per l'attuazione di quanto stabilito al comma 1, potranno essere previste forme 
 
 ## Art. 8. — (Funzioni di polizia militare, di sicurezza e di polizia giudiziaria)
 
+1.
+                        
+                            
+                                Il Corpo della Guardia di finanza: 
+ 
+ 
+                            
+                            
+                                a)
+                                
+                                    fermo restando quanto previsto dall'articolo 6, comma 1, del decreto legislativo 5 ottobre 2000, n. 297, svolge nel proprio ambito funzioni di polizia militare in via esclusiva; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    fornisce, su richiesta, all'autorita' individuata dal Presidente del Consiglio dei Ministri nell'esercizio delle funzioni di cui all'articolo 1 della legge 24 ottobre 1977, n. 801, elementi informativi necessari per il rilascio delle abilitazioni di sicurezza ai fini della sicurezza economico-finanziaria; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    esercita le funzioni di polizia giudiziaria militare secondo le disposizioni sancite nei codici penali militari.
+
 ## Art. 8-bis. — (Qualifiche degli appartenenti al Corpo della guardia di finanza)
 
 ) del Corpo della guardia di finanza sono attribuite le qualifiche di ufficiale di polizia giudiziaria, esclusi gli ufficiali generali, ufficiale di polizia tributaria e agente di pubblica sicurezza.
@@ -116,6 +214,24 @@ In conseguenza delle disposizioni di cui agli articoli 2, comma 1, lettera c), n
 Restano ferme le qualifiche, i poteri e le facolta' attribuiti dalla legge o da altre fonti normative in relazione agli specifici compiti assegnati alla Guardia di finanza o ai suoi reparti.
 
 ((
+
+6-bis.
+                        
+                            
+                                Le qualifiche di cui al presente articolo sono sospese per gli appartenenti al Corpo della guardia di finanza: 
+ 
+                            
+                            
+                                a)
+                                
+                                    in servizio permanente o in ferma volontaria, sospesi dall'impiego a qualsiasi titolo ovvero destinatari di un provvedimento medico legale di temporanea non idoneita' al servizio per patologia o infermita' di carattere neuro-psichico; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    delle categorie del congedo, richiamati ovvero trattenuti in servizio, sospesi dalle funzioni del grado.
 
 Gli appartenenti al Corpo della guardia di finanza in congedo della categoria dell'ausiliaria, richiamati in servizio ai sensi dell'articolo 993 del decreto legislativo 15 marzo 2010, n. 66, per le esigenze delle pubbliche amministrazioni statali e territoriali ivi indicate, diverse dall'Amministrazione di appartenenza, non rivestono le qualifiche di cui al presente articolo. Per il medesimo personale sono escluse le qualifiche, i poteri e le facolta' attribuite dalla legge o da altre fonti normative in relazione agli specifici compiti assegnati alla Guardia di finanza o ai propri reparti.
 

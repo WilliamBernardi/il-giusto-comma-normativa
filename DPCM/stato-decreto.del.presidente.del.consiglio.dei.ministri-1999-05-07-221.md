@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: DPCM
 vigenza_date: 2014-02-08
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:40:12Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DEL CONSIGLIO DEI MINISTRI
@@ -46,7 +46,64 @@ Restano escluse dall'ambito applicativo, l'integrazione al minimo, la maggiorazi
 
 Ai fini del presente decreto, ciascun soggetto puo' appartenere ad un solo nucleo familiare. Fanno parte del nucleo familiare i soggetti componenti la famiglia anagrafica ai sensi dell'articolo 4 del decreto del Presidente della Repubblica 30 maggio 1989, n. 223, salvo quanto stabilito dai commi seguenti.
 
+2.
+                    
+                        
+                            I soggetti a carico ai fini IRPEF, anche se componenti altra famiglia anagrafica, fanno parte del nucleo familiare della persona di cui sono a carico. Quando un soggetto risulta a carico ai fini IRPEF di piu' persone, si considera, tra quelle di cui e' a carico, componente il nucleo familiare: 
+ 
+                        
+                        
+                            a)
+                            
+                                della persona della cui famiglia anagrafica fa parte; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                se non fa parte della famiglia anagrafica di alcuna di esse, della persona tenuta agli alimenti ai sensi degli articoli 433 e seguenti del codice civile, secondo l'ordine ivi previsto; in presenza di piu' persone obbligate agli alimenti nello stesso grado, si considera componente il nucleo familiare di quella tenuta in misura maggiore ai sensi dell'articolo 441 del codice civile.
+
 I coniugi che hanno la stessa residenza, anche se risultano a carico ai fini IRPEF di altre persone, fanno parte dello stesso nucleo familiare; nei loro confronti si applica il solo criterio anagrafico.
+
+4.
+                    
+                        
+                            I coniugi che hanno diversa residenza anagrafica, anche se risultano a carico ai fini IRPEF di altre persone, fanno parte dello stesso nucleo familiare, identificato sulla base della famiglia anagrafica di uno dei coniugi che e' considerata di comune accordo corrispondente alla residenza familiare. Detti criteri di attrazione non operano nei seguenti casi: 
+ 
+                        
+                        
+                            a)
+                            
+                                quando e' stata pronunciata separazione giudiziale o e' intervenuta l'omologazione della separazione consensuale ai sensi dell'articolo 711 del codice di procedura civile, ovvero quando e' stata ordinata la separazione ai sensi dell'articolo 126 del codice civile; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                quando la diversa residenza e' consentita a seguito dei provvedimenti temporanei ed urgenti di cui all'articolo 708 c.p.c.; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                quando uno dei coniugi e' stato escluso dalla potesta' sui figli o e' stato adottato, ai sensi dell'articolo 333 del codice civile, il provvedimento di allontanamento dalla residenza familiare; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                quando si e' verificato uno dei casi di cui all'articolo 3 della legge 1o dicembre 1970, n. 898, e successive modificazioni, ed e' stata proposta domanda di scioglimento o cessazione degli effetti civili del matrimonio; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                quando sussiste abbandono del coniuge, accertato in sede giurisdizionale o dalla pubblica autorita' competente in materia di servizi sociali.
 
 Il figlio minore di anni 18, anche se a carico ai fini IRPEF di altre persone, fa parte del nucleo familiare del genitore con il quale risulta residente. Il minore che si trova in affidamento preadottivo, ovvero in affidamento temporaneo presso terzi disposto o reso esecutivo con provvedimento del giudice, fa parte del nucleo familiare dell'affidatario, ancorche' risulti in altra famiglia anagrafica o risulti a carico ai fini IRPEF di altro soggetto. Il minore in affidamento e collocato presso comunita' o istituti di assistenza e' considerato nucleo familiare a se' stante.
 
@@ -90,6 +147,116 @@ La determinazione dei valori dell'ISE e dell'ISEE conseguente all'applicazione d
 
 ## Art. 3. — Indicatore della situazione reddituale
 
+1.
+                    
+                        
+                            L'indicatore della situazione reddituale e' determinato sommando, per ciascun componente del nucleo familiare: 
+ 
+                        
+                        
+                            a)
+                            
+                                il reddito complessivo risultante dall'ultima dichiarazione presentata ai fini delle imposte sui redditi delle persone fisiche, al netto dei redditi agrari relativi alle attivita' indicate dall'articolo 2135 del codice civile svolte, anche in forma associata, dai soggetti produttori agricoli titolari di partita IVA, obbligati alla presentazione della dichiarazione ai fini dell'IVA. In caso di esonero dall'obbligo di presentazione della dichiarazione dei redditi vanno assunti i redditi imponibili ai fini IRPEF risultanti dall'ultima certificazione consegnata dai soggetti erogatori. Per ultima dichiarazione o ultima certificazione si intendono la dichiarazione presentata o la certificazione consegnata nell'anno in cui si presenta la dichiarazione sostitutiva unica, relative ai redditi dell'anno precedente. Se, al momento in cui deve essere presentata la dichiarazione sostitutiva unica, non puo' essere presentata la dichiarazione dei redditi o non e' possibile acquisire la certificazione, relative ai redditi dell'anno precedente, deve farsi riferimento alla dichiarazione dei redditi presentata o alla certificazione consegnata nell'anno precedente. E' consentito dichiarare l'assenza di reddito di un soggetto appartenente al nucleo familiare, quando questi nell'anno solare precedente alla dichiarazione sostitutiva unica non ha percepito alcun reddito; in tal caso sono effettuati specifici controlli dall'I.N.P.S. e dagli enti erogatori, ai sensi del decreto legislativo n. 109 del 1998, e successive modificazioni, volti ad accertare l'eventuale successiva presentazione della dichiarazione dei redditi o il ricevimento della certificazione sostitutiva; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                i redditi di lavoro prestato nelle zone di frontiera e in altri Paesi limitrofi da soggetti residenti nel territorio dello Stato; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                i proventi derivanti da attivita' agricole, svolte anche in forma associata, per le quali sussiste l'obbligo alla presentazione della dichiarazione IVA; a tal fine va assunta la base imponibile determinata ai fini dell'IRAP, al netto dei costi del personale a qualunque titolo utilizzato; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                il reddito figurativo delle attivita' finanziarie, determinato applicando il tasso di rendimento medio annuo dei titoli decennali del Tesoro al complessivo patrimonio mobiliare del nucleo familiare individuato secondo quanto indicato nei successivi commi 2, 3 e 4.
+
+1-bis.
+                    
+                        
+                            Qualora il nucleo risieda in abitazione in locazione, dalla somma dei suddetti elementi reddituali si detrae il valore del canone di locazione annuo, fino a concorrenza e per un ammontare massimo di L. 10.000.000. In tal caso il richiedente e' tenuto a dichiarare gli estremi del contratto di locazione registrato e l'ammontare del canone. Ai fini dell'applicazione della detrazione del presente comma: 
+ 
+                        
+                        
+                            a)
+                            
+                                l'abitazione di residenza del nucleo e' quella nella quale risiedono i componenti del nucleo familiare e per la quale il contratto di locazione e' registrato in capo ad almeno uno dei componenti; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                se i componenti del nucleo, in virtu' dell'applicazione dei criteri di cui all'articolo 1-bis, risultano risiedere in piu' abitazioni per le quali il contratto di locazione e' registrato in capo ad alcuno dei componenti stessi, la detrazione si applica, tra le suddette, all'abitazione individuata dal richiedente nella dichiarazione sostitutiva unica; se il contratto di locazione risulta solo in quota parte in capo ai componenti del nucleo, la detrazione si applica per detta quota.
+
+2.
+                    
+                        
+                            Ai fini della determinazione del patrimonio mobiliare devono essere considerate le componenti di seguito specificate, possedute alla data del 31 dicembre dell'anno precedente alla presentazione della dichiarazione sostitutiva di cui all'articolo 6: 
+ 
+                        
+                        
+                            a)
+                            
+                                depositi e conti correnti bancari e postali, per i quali va assunto il valore del saldo contabile attivo, al netto degli interessi, alla data del 31 dicembre dell'anno precedente alla presentazione della dichiarazione sostitutiva di cui all'articolo 6; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                titoli di Stato, obbligazioni, certificati di deposito e credito, buoni fruttiferi ed assimilati, per i quali va assunto il valore nominale delle consistenze alla data di cui alla lettera a); 
+
+                            
+                        
+                        
+                            c)
+                            
+                                azioni o quote di organismi di investimento collettivo di risparmio (O.I.C.R.) italiani o esteri, per le quali va assunto il valore risultante dall'ultimo prospetto redatto dalla societa' di gestione alla data di cui alla lettera a); 
+
+                            
+                        
+                        
+                            d)
+                            
+                                partecipazioni azionarie in societa' italiane ed estere quotate in mercati regolamentati, per le quali va assunto il valore rilevato alla data di cui alla lettera a) ovvero, in mancanza, nel giorno antecedente piu' prossimo; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                partecipazioni azionarie in societa' non quotate in mercati regolamentati e partecipazioni in societa' non azionarie, per le quali va assunto il valore della frazione del patrimonio netto, determinato sulla base delle risultanze dell'ultimo bilancio approvato anteriormente alla data di presentazione della dichiarazione sostitutiva di cui all'articolo 6, ovvero, in caso di esonero dall'obbligo di redazione del bilancio, determinato dalla somma delle rimanenze finali e dal costo complessivo dei beni ammortizzabili, al netto dei relativi ammortamenti, nonche' degli altri cespiti o beni patrimoniali; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                masse patrimoniali, costituite da somme di denaro o beni non relativi all'impresa, affidate in gestione ad un soggetto abilitato ai sensi del decreto legislativo n. 415 del 1996, per le quali va assunto il valore delle consistenze risultanti dall'ultimo rendiconto predisposto, secondo i criteri stabiliti dai regolamenti emanati dalla Commissione nazionale per le societa' e la borsa, dal gestore del patrimonio anteriormente alla data di cui alla lettera a); 
+
+                            
+                        
+                        
+                            g)
+                            
+                                altri strumenti e rapporti finanziari per i quali va assunto il valore corrente alla data di cui alla lettera a), nonche' contratti di assicurazione mista sulla vita e di capitalizzazione per i quali va assunto l'importo dei premi complessivamente versati a tale ultima data, ivi comprese le polizze a premio unico anticipato per tutta la durata del contratto, per le quali va assunto l'importo del premio versato; sono esclusi i contratti di assicurazione mista sulla vita per i quali alla medesima data non e' esercitabile il diritto di riscatto; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                imprese individuali per le quali va assunto il valore del patrimonio netto, determinato con le stesse modalita' indicate alla precedente lettera e).
+
 Per i rapporti di custodia, amministrazione, deposito e gestione cointestati anche a soggetti appartenenti a nuclei familiari diversi, il valore delle consistenze e' assunto per la quota di spettanza.
 
 Il modello di dichiarazione sostitutiva di cui all'articolo 4, comma 6, del decreto legislativo n. 109 del 1998 individua classi di valore della consistenza del complessivo patrimonio mobiliare del nucleo familiare; ai fini del calcolo dell'indicatore della situazione economica equivalente il valore del complessivo patrimonio mobiliare del nucleo familiare di cui al comma 2 e' assunto per un importo pari alla classe di valore piu' vicina per difetto all'effettiva consistenza del patrimonio stesso.
@@ -107,6 +274,28 @@ COMMA SOPPRESSO DAL D.P.C.M. 4 APRILE 2001, N. 242.
  Il D.P.C.M. 5 dicembre 2013, n. 159 ha disposto (con l'art. 15, comma 1) che "Ai sensi dell'articolo 5 del decreto-legge 6 dicembre 2011, n. 201, convertito, con modificazioni, dalla legge 22 dicembre 2011, n. 214, a far data dai trenta giorni dall'entrata in vigore del provvedimento, di cui all'articolo 10, comma 3, di approvazione del nuovo modello di dichiarazione sostitutiva unica concernente le informazioni necessarie per la determinazione dell'ISEE, sono abrogati il decreto legislativo 31 marzo 1998, n. 109, e il decreto del Presidente del Consiglio dei ministri 7 maggio 1999, n. 221".
 
 ## Art. 4. — Indicatore della situazione patrimoniale
+
+1.
+                    
+                        
+                            L'indicatore della situazione patrimoniale e' determinato sommando, per ciascun componente del nucleo familiare i seguenti valori patrimoniali: 
+ 
+                        
+                        
+                            a)
+                            
+                                il valore dei fabbricati e terreni edificabili ed agricoli, intestati a persone fisiche diverse da imprese, quale definito ai fini ICI al 31 dicembre dell'anno precedente a quello di presentazione della dichiarazione sostitutiva di cui all'articolo 6, indipendentemente dal periodo di possesso nel periodo d'imposta considerato. Dal valore cosi' determinato di ciascun fabbricato o terreno, si detrae, fino a concorrenza, l'ammontare dell'eventuale debito residuo alla stessa data del 31 dicembre per mutui contratti per l'acquisto dell'immobile o per la costruzione del fabbricato.
+Qualora il nucleo risieda in abitazione di proprieta', dalla somma dei suddetti valori si detrae per tale immobile, in alternativa alla detrazione del debito residuo, se piu' favorevole e fino a concorrenza, il valore della casa di abitazione, come sopra definito, nel limite di L. 100.000.000. Ai fini dell'applicazione della detrazione del presente comma: 
+ 1. l'abitazione di residenza del nucleo e' quella nella quale risiedono i suoi componenti, di proprieta' di almeno uno di essi; 
+ 2. se i componenti del nucleo, in virtu' dell'applicazione dei criteri di cui all'articolo 1-bis, risultano risiedere in piu' abitazioni la cui proprieta' e' di alcuno dei componenti stessi, la detrazione si applica, tra le suddette, all'abitazione individuata dal richiedente nella dichiarazione sostitutiva unica; 
+ 3. se l'immobile risulta in quota parte di proprieta' di alcuno dei componenti del nucleo, la detrazione si applica solo per detta quota; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                il valore del patrimonio mobiliare calcolato secondo i criteri di cui all'articolo 3, commi 2, 3 e 4. Da tale valore si detrae, fino a concorrenza, una franchigia pari a L. 30.000.000. Tale franchigia non si applica ai fini della determinazione del reddito figurativo di cui all'articolo 3, comma 1, lettera d).
 
 I valori patrimoniali di cui alle lettere a) e b) del comma 1 rilevano in capo alle persone fisiche titolari di diritti di proprieta' o reali di godimento. 
  (2) ((3))

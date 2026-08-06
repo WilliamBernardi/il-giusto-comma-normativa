@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
 vigenza_date: 2015-01-01
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:30Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -59,6 +59,24 @@ L'ammontare delle entrate di cui al comma 1 versate fuori dal territorio provinc
 L'ammontare delle quote di gettito della tassa sul possesso degli autoveicoli e quello delle quote di gettito dell'imposta di fabbricazione sui prodotti petroliferi, di cui all'art. 75, comma 1, lettera f), dello statuto, sono determinati sulla base degli importi relativi ai veicoli immatricolati in ciascuna provincia e, rispettivamente, sulla base delle quantita' erogate dagli impianti di distribuzione situati in ciascuna provincia nell'anno cui la devoluzione si riferisce e dell'aliquota media ponderata della corrispondente imposta di fabbricazione nel medesimo anno.
 
 La determinazione dell'ammontare delle altre entrate afferenti all'ambito provinciale ed affluite fuori dal relativo territorio in attuazione di disposizioni di legge, fino a quando non saranno defi- nite con decreto del Ministro delle finanze, di concerto con il Ministro del tesoro, modalita' analitiche di determinazione dei gettiti di spettanza provinciale, e' effettuata d'intesa tra il Ministro del tesoro ed i presidenti delle rispettive giunte provinciali.
+
+5.
+                    
+                        
+                            Ai fini dell'applicazione del comma 4 si fa riferimento: 
+ 
+                        
+                        
+                            a)
+                            
+                                per l'imposta sui redditi delle persone fisiche e l'imposta locale sui redditi, alle relative dichiarazioni, nonche' certificazioni sostitutive, ovvero ad ogni altra documentazione, anche provvisoria, utile ad individuare le entrate di spettanza provinciale con riferimento ai contribuenti aventi domicilio fiscale nel territorio delle province; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                per le ritenute sugli interessi, premi ed altri frutti, ad ogni documentazione idonea a consentire una valutazione delle entrate di spettanza provinciale con riguardo ai depositi delle persone fisiche ed ai titoli esistenti presso gli uffici postali e gli sportelli di aziende e di istituti di credito operanti in ciascuna provincia, ovvero in relazione ai titoli comunque amministrati da aziende ed istituti di credito con sede in ciascuna provincia.
 
 Con l'intesa di cui al comma 4 e' determinata l'incidenza convenzionale di ciascuna delle entrate tributarie considerate al comma 5 rispetto alle corrispondenti entrate tributarie riscosse nel territorio delle due province per il medesimo esercizio finanziario.
 Detta incidenza convenzionale e' applicata per la determinazione delle entrate tributarie da devolvere alle province con riferimento all'anno nel quale e' intervenuta l'intesa di cui al comma 4 ed ai successivi anni, sino al perfezionamento di nuova intesa, che di regola ha cadenza non inferiore al triennio. All'atto della prima intesa e' altresi' determinata l'incidenza percentuale annua relativa al periodo dal 1988 all'anno cui la predetta intesa si riferisce.

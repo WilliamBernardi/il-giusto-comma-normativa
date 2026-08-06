@@ -8,8 +8,8 @@ vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
 vigenza_date: 2025-04-12
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:22Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -29,13 +29,278 @@ Sulla proposta del Presidente del Consiglio dei ministri e dei Ministri dell'int
 
 Il presente decreto definisce la disciplina volta ad attuare la libera circolazione degli articoli pirotecnici nel mercato interno, assicurando, nel contempo, le esigenze di tutela dell'ordine e della sicurezza pubblica e di tutela della pubblica incolumita', la tutela dei consumatori e la protezione ambientale. Il presente decreto individua, inoltre, i requisiti essenziali di sicurezza che gli articoli pirotecnici devono possedere per poter essere messi a disposizione sul mercato.
 
+2.
+                        
+                            
+                                Le disposizioni del presente decreto non si applicano: 
+ 
+                            
+                            
+                                a)
+                                
+                                    agli articoli pirotecnici destinati ad essere utilizzati a fini non commerciali, conformemente alla normativa vigente, dalle Forze armate, dalle Forze di polizia e dai vigili del fuoco; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    all'equipaggiamento che rientra nel campo d'applicazione del decreto del Presidente della Repubblica 6 ottobre 1999, n. 407; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    agli articoli pirotecnici da impiegarsi nell'industria aeronautica e spaziale; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    alle capsule a percussione da utilizzarsi specificamente nei giocattoli che rientrano nel campo di applicazione del decreto legislativo 11 aprile 2011, n. 54, recante attuazione della direttiva 2009/48/CE sulla sicurezza dei giocattoli; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    agli esplosivi che rientrano nel campo di applicazione del decreto legislativo 2 gennaio 1997, n. 7, e successive modificazioni; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    alle munizioni; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    ai fuochi artificiali riconosciuti e classificati ai sensi dell'articolo 53 del testo unico delle leggi di pubblica sicurezza, approvato con regio decreto 18 giugno 1931, n. 773, e successive modificazioni, e muniti di etichetta, prodotti dal fabbricante per uso proprio e che siano destinati ad essere utilizzati, sul territorio nazionale, direttamente dal fabbricante medesimo per spettacoli eseguiti da lui direttamente o da dipendenti della sua azienda; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    agli articoli pirotecnici esposti in fiere campionarie, mostre e dimostrazioni per la commercializzazione di articoli pirotecnici, oppure fabbricati ai fini di ricerca, sviluppo e prova a condizione che sugli stessi sia riportato chiaramente, mediante un'evidente indicazione grafica, la denominazione e la data della fiera campionaria, della mostra o della dimostrazione, nonche' la non conformita' e la non disponibilita' alla vendita o ai fini diversi della ricerca, sviluppo e prova. Gli articoli esposti in fiere campionarie, mostre e dimostrazioni devono, in ogni caso, essere riconosciuti e classificati ai sensi dell'articolo 53 del testo unico delle leggi di pubblica sicurezza, approvato con regio decreto 18 giugno 1931, n. 773, se destinati ad essere utilizzati in tali contesti a scopo dimostrativo; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    alle campionature di articoli pirotecnici nuovi destinati ad essere movimentate o trasferite in ambito UE per la sottoposizione a prova degli organismi notificati, a condizione che sugli stessi sia indicata la loro non conformita' e non disponibilita' alla vendita e che ne sia data formale comunicazione al prefetto competente per territorio prima della loro fabbricazione.
+
 Le disposizioni del presente decreto non ostano all'adozione di misure di pubblica sicurezza idonee a rafforzare la prevenzione e la repressione del traffico e dell'impiego illecito di articoli pirotecnici.
 
 ## Art. 2. — Definizioni
 
+1.
+                        
+                            
+                                Ai fini del presente decreto si intende per: 
+ 
+                            
+                            
+                                a)
+                                
+                                    «articolo pirotecnico»: qualsiasi articolo contenente sostanze esplosive o una miscela esplosiva di sostanze ((destinato)) a produrre un effetto calorifico, luminoso, sonoro, gassoso o fumogeno o una combinazione di tali effetti grazie a reazioni chimiche esotermiche automantenute; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    «fuoco d'artificio»: un articolo pirotecnico destinato a fini di svago; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    «articoli pirotecnici teatrali»: articoli pirotecnici per uso scenico, in interni o all'aperto, anche in film e produzioni televisive o per usi analoghi; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    «articoli pirotecnici per i veicoli»: componenti di dispositivi di sicurezza dei veicoli contenenti sostanze pirotecniche utilizzati per attivare questi o altri dispositivi; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    «munizioni»: i proiettili e le cariche propulsive, nonche' le munizioni a salve utilizzati in armi portatili, altre armi da fuoco e pezzi d'artiglieria; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    «persona con conoscenze specialistiche» una persona abilitata secondo l'ordinamento vigente a manipolare o utilizzare fuochi d'artificio di categoria F4, articoli pirotecnici teatrali di categoria T2 o altri articoli pirotecnici di categoria P2, quali definiti all'articolo 3; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    «messa a disposizione sul mercato»: la fornitura di un articolo pirotecnico per la distribuzione, il consumo o l'uso nel mercato dell'Unione nel corso di un'attivita' commerciale, a titolo oneroso o gratuito; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    «immissione sul mercato»: la prima messa a disposizione sul mercato dell'Unione europea di un articolo pirotecnico; i fuochi d'artificio prodotti da un fabbricante per uso proprio e che siano stati riconosciuti da uno Stato membro sul suo territorio non sono considerati immessi sul mercato; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    «fabbricante»: la persona fisica o giuridica che fabbrica un articolo pirotecnico, o che lo fa progettare o fabbricare, e commercializza tale articolo pirotecnico con il proprio nome o marchio commerciale; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    «importatore»: la persona fisica o giuridica stabilita nell'Unione europea che immette sul mercato dell'Unione europea un articolo pirotecnico originario di un Paese terzo; 
+
+                                
+                            
+                            
+                                m)
+                                
+                                    «distributore»: la persona fisica o giuridica presente nella catena di fornitura, diversa dal fabbricante e dall'importatore, che mette a disposizione un articolo pirotecnico sul mercato; 
+
+                                
+                            
+                            
+                                n)
+                                
+                                    «operatori economici»: il fabbricante, l'importatore e il distributore; 
+
+                                
+                            
+                            
+                                o)
+                                
+                                    «specifica tecnica»: un documento che prescrive i requisiti tecnici che un articolo pirotecnico deve soddisfare; 
+
+                                
+                            
+                            
+                                p)
+                                
+                                    «norma armonizzata»: una norma europea adottata sulla base di una richiesta della Commissione dell'Unione europea ai fini dell'applicazione della legislazione dell'Unione europea sull'armonizzazione, quale definita all'articolo 2, punto 1, lettera c), del regolamento (UE) n. 1025/2012; 
+
+                                
+                            
+                            
+                                q)
+                                
+                                    «organismo nazionale di accreditamento»: l'unico organismo nazionale italiano autorizzato a svolgere attivita' di accreditamento in conformita' al regolamento (CE) n. 765/2008, nonche' di vigilanza del mercato, di seguito denominato ACCREDIA; 
+
+                                
+                            
+                            
+                                r)
+                                
+                                    «accreditamento»: attestazione da parte di ACCREDIA che certifica che un determinato organismo di valutazione della conformita' soddisfa i criteri stabiliti dal presente decreto per svolgere una specifica attivita' di valutazione della conformita'; 
+
+                                
+                            
+                            
+                                s)
+                                
+                                    «valutazione della conformita'»: il processo atto a dimostrare il rispetto dei requisiti essenziali di sicurezza del presente decreto relativi agli articoli pirotecnici; 
+
+                                
+                            
+                            
+                                t)
+                                
+                                    «organismo di valutazione della conformita'»: un organismo che svolge attivita' di valutazione della conformita', fra cui tarature, prove, certificazioni e ispezioni; 
+
+                                
+                            
+                            
+                                u)
+                                
+                                    «richiamo»: qualsiasi misura volta a ottenere la restituzione di un articolo pirotecnico gia' messo a disposizione dell'utilizzatore finale; 
+
+                                
+                            
+                            
+                                v)
+                                
+                                    «ritiro»: qualsiasi misura volta a impedire la messa a disposizione sul mercato di un articolo pirotecnico presente nella catena di fornitura; 
+
+                                
+                            
+                            
+                                z)
+                                
+                                    «normativa di armonizzazione dell'Unione europea»: la normativa dell'Unione europea che armonizza le condizioni di commercializzazione dei prodotti; 
+
+                                
+                            
+                            
+                                aa)
+                                
+                                    «marcatura CE»: la marcatura mediante la quale il fabbricante indica che l'articolo pirotecnico e' conforme ai requisiti essenziali di sicurezza del presente decreto relativi agli articoli pirotecnici, secondo le modalita' stabilite all'Allegato IV; 
+
+                                
+                            
+                            
+                                bb)
+                                
+                                    «NEC (contenuto esplosivo netto)»: il quantitativo di materiale esplodente attivo presente in un articolo pirotecnico ed indicato nel certificato di conformita' rilasciato da un organismo notificato.
+
 ## Art. 3. — Categorie di articoli pirotecnici
 
 Gli articoli pirotecnici sono classificati in categorie dal fabbricante conformemente al loro tipo di utilizzazione, alla loro finalita' e al livello di rischio potenziale, compreso il livello della loro rumorosita'. Gli organismi notificati di cui all'articolo 20 confermano la classificazione in categorie secondo le procedure di valutazione di conformita' di cui all'articolo 17, comma 3.
+
+2.
+                        
+                            
+                                Gli articoli pirotecnici sono classificati nelle seguenti categorie: 
+ 
+                            
+                            
+                                a)
+                                
+                                    fuochi d'artificio: 
+ 1) categoria F1: fuochi d'artificio che presentano un rischio potenziale estremamente basso e un livello di rumorosita' trascurabile e che sono destinati ad essere utilizzati in spazi confinati, compresi i fuochi d'artificio destinati ad essere usati all'interno di edifici d'abitazione; 
+ 2) categoria F2: fuochi d'artificio che presentano un basso rischio potenziale e un basso livello di rumorosita' e che sono destinati a essere usati al di fuori di edifici in spazi confinati; 
+ 3) categoria F3: fuochi d'artificio che presentano un rischio potenziale medio e che sono destinati ad essere usati al di fuori di edifici in grandi spazi aperti e il cui livello di rumorosita' non e' nocivo per la salute umana; 
+ 4) categoria F4: fuochi d'artificio che presentano un rischio potenziale elevato e che sono destinati ad essere usati esclusivamente da persone con conoscenze specialistiche, comunemente noti quali «fuochi d'artificio professionali», e il cui livello di rumorosita' non e' nocivo per la salute umana; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    articoli pirotecnici teatrali: 
+ 1) categoria T1: articoli pirotecnici per uso scenico che presentano un rischio potenziale ridotto; 
+ 2) categoria T2: articoli pirotecnici per uso scenico che sono destinati esclusivamente all'uso da parte di persone con conoscenze specialistiche; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    altri articoli pirotecnici: 
+ 1) categoria P1: articoli pirotecnici, diversi dai fuochi d'artificio e dagli articoli pirotecnici teatrali, che presentano un rischio potenziale ridotto; 
+ 2) categoria P2: articoli pirotecnici, diversi dai fuochi d'artificio e dagli articoli pirotecnici teatrali, che sono destinati alla manipolazione o all'uso esclusivamente da parte di persone con conoscenze specialistiche.
 
 ## Art. 4. — Autorizzazione delle persone 
  con conoscenze specialistiche
@@ -53,6 +318,45 @@ Fino al termine di un anno dalla data di entrata in vigore del decreto di cui al
 Il Ministero dell'interno - Dipartimento della pubblica sicurezza comunica al Ministero dello sviluppo economico, per la successiva informazione alla Commissione dell'Unione europea, le procedure in base alle quali le persone con conoscenze specialistiche sono identificate e autorizzate.
 
 ## Art. 5. — Limitazioni alla vendita di articoli pirotecnici
+
+1.
+                        
+                            
+                                Gli articoli pirotecnici non sono messi a disposizione sul mercato per le persone al di sotto dei seguenti limiti di eta': 
+ 
+                            
+                            
+                                a)
+                                
+                                    fuochi d'artificio: 
+ 1) di categoria F1 a privati che non abbiano compiuto il quattordicesimo anno; 
+ 2) di categoria F2 a privati che non siano maggiorenni e che non esibiscano un documento di identita' in corso di validita'; 
+ 3) di categoria F3 a privati che non siano maggiorenni e che non siano muniti di nulla osta rilasciato dal questore ovvero di una licenza di porto d'armi; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    articoli pirotecnici teatrali di categoria T1 e altri articoli pirotecnici di categoria P1 a privati che non siano maggiorenni e che non esibiscano un documento di identita' in corso di validita'.
+
+2.
+                        
+                            
+                                I fabbricanti, gli importatori e i distributori mettono a disposizione sul mercato i seguenti articoli pirotecnici esclusivamente a persone con conoscenze specialistiche di cui all'articolo 4 ed in possesso della licenza di cui all'articolo 47 del regio decreto 18 giugno 1931, n. 773, o del nulla osta del questore di cui all'articolo 55, terzo comma, del medesimo testo unico: 
+ 
+                            
+                            
+                                a)
+                                
+                                    fuochi d'artificio di categoria F4; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    articoli pirotecnici teatrali di categoria T2 e altri articoli pirotecnici di categoria P2.
 
 Gli altri articoli pirotecnici di categoria P1 per i veicoli, compresi i sistemi per airbag e di pretensionamento delle cinture di sicurezza, non sono messi a disposizione del pubblico, salvo laddove siano incorporati in un veicolo o in una sua parte staccabile.
 
@@ -103,6 +407,56 @@ I fabbricanti e gli importatori conservano i numeri di registrazione degli artic
 I fabbricanti assicurano che gli articoli pirotecnici diversi dagli articoli pirotecnici per i veicoli siano etichettati, in modo visibile, leggibile e indelebile. Tale etichettatura deve essere chiara, comprensibile, intelligibile ed in lingua italiana.
 
 L'etichetta degli articoli pirotecnici comprende almeno le informazioni sul fabbricante di cui all'articolo 6, comma 6, e, qualora il fabbricante non sia stabilito nell'Unione europea, le informazioni sul fabbricante e sull'importatore di cui, rispettivamente, all'articolo 6, comma 6, e all'articolo 10, comma 3, il nome e il tipo dell'articolo pirotecnico, il suo numero di registrazione e il suo numero di prodotto, di lotto o di serie, i limiti minimi d'eta' e le altre condizioni per la vendita di cui all'articolo 5, la categoria pertinente e le istruzioni per l'uso, l'anno di produzione per i fuochi d'artificio delle categorie F3 e F4 nonche', se del caso, la distanza minima di sicurezza. L'etichetta comprende il contenuto esplosivo netto (NEC).
+
+3.
+                        
+                            
+                                I fuochi d'artificio sono inoltre corredati delle seguenti informazioni minime: 
+ 
+                            
+                            
+                                a)
+                                
+                                    categoria F1: se del caso, «da usarsi soltanto in spazi aperti» e indicazione della distanza minima di sicurezza; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    categoria F2: «da usarsi soltanto in spazi aperti» e, se del caso, indicazione della distanza minima o delle distanze minime di sicurezza; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    categoria F3: «da usarsi soltanto in spazi aperti» e indicazione della distanza minima o delle distanze minime di sicurezza; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    categoria F4: «puo' essere usato esclusivamente da persone con conoscenze specialistiche» e indicazione della distanza minima o delle distanze minime di sicurezza.
+
+4.
+                        
+                            
+                                Gli articoli pirotecnici teatrali indicano le seguenti informazioni minime: 
+ 
+                            
+                            
+                                a)
+                                
+                                    categoria T1: se del caso, «da usarsi soltanto in spazi aperti» e indicazione della distanza minima o delle distanze minime di sicurezza; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    categoria T2: «puo' essere usato esclusivamente da persone con conoscenze specialistiche» e indicazione della distanza minima o delle distanze minime di sicurezza.
 
 Se l'articolo pirotecnico non presenta uno spazio sufficiente per soddisfare i requisiti di etichettatura dei commi da 2 a 4 le informazioni sono riportate sulla confezione minima di vendita.
 
@@ -158,6 +512,24 @@ Un importatore o distributore e' ritenuto un fabbricante ai fini del presente de
 
 ## Art. 13. — Identificazione degli operatori economici
 
+1.
+                        
+                            
+                                Gli operatori economici indicano agli organi di polizia e alle autorita' di vigilanza che ne facciano richiesta: 
+ 
+                            
+                            
+                                a)
+                                
+                                    qualsiasi operatore economico che abbia fornito loro articoli pirotecnici; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    qualsiasi operatore economico cui abbiano fornito articoli pirotecnici.
+
 Gli operatori economici devono essere in grado di presentare le informazioni di cui al primo comma per un periodo di dieci anni dal momento in cui siano stati loro forniti articoli pirotecnici e per un periodo di dieci anni dal momento in cui essi abbiano fornito articoli pirotecnici.
 
 ## Art. 14. — Disposizioni concernenti le importazioni, le esportazioni ed i trasferimenti di articoli pirotecnici marcati CE
@@ -187,6 +559,29 @@ Procedure di valutazione della conformita'
 Gli articoli pirotecnici devono soddisfare i requisiti essenziali di sicurezza previsti dall'allegato I.
 
 Salvo quanto previsto dall'articolo 1, comma 2, lettere g), h) e i), e' vietato detenere, utilizzare, porre in vendita o cedere a qualsiasi titolo, trasportare, importare od esportare articoli che sono privi della marcatura CE e che non hanno superato la valutazione di conformita' di cui all'allegato II.
+
+3.
+                        
+                            
+                                Ai fini della verifica di conformita' degli articoli pirotecnici il fabbricante applica una delle seguenti procedure di cui all'allegato II: 
+ 
+                            
+                            
+                                a)
+                                
+                                    per gli articoli pirotecnici prodotti in serie: 
+ 1) esame UE del tipo (modulo B) e, a scelta del fabbricante, una delle seguenti procedure: 
+ 1.1) conformita' al tipo basata sul controllo interno della produzione unito a prove ufficiali del prodotto sotto controllo effettuate a intervalli casuali (modulo C2); 
+ 1.2) conformita' al tipo basata sulla garanzia della qualita' del processo di produzione (modulo D); 
+ 1.3) conformita' al tipo basata sulla garanzia di qualita' del prodotto (modulo E); 
+ 2) conformita' basata sulla garanzia totale di qualita' del prodotto (modulo H) nella misura in cui la procedura riguardi fuochi d'artificio di categoria F4; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    per gli articoli pirotecnici da realizzare in produzione unica, conformita' basata sulla verifica dell'esemplare unico (modulo G).
 
 ## Art. 18.
 
@@ -252,7 +647,64 @@ L'organismo di valutazione della conformita', i suoi alti dirigenti e il persona
 
 Gli organismi di valutazione della conformita' e il loro personale eseguono le operazioni di valutazione della conformita' con il massimo dell'integrita' professionale e della competenza tecnica e sono liberi da qualsivoglia pressione e incentivo, soprattutto di ordine finanziario, che possa influenzare il loro giudizio o i risultati delle loro attivita' di valutazione, in particolare da persone o gruppi di persone interessati ai risultati di tali attivita'.
 
+5.
+                        
+                            
+                                L'organismo di valutazione della conformita' e' in grado di eseguire tutti i compiti di valutazione della conformita' assegnatigli in base all'allegato II e per cui e' stato notificato, indipendentemente dal fatto che siano eseguiti dall'organismo stesso o per suo conto e sotto la sua responsabilita'. In ogni momento, per ogni procedura di valutazione della conformita' e per ogni tipo o categoria di articoli pirotecnici per i quali e' stato notificato, l'organismo di valutazione della conformita' ha a sua disposizione: 
+ 
+                            
+                            
+                                a)
+                                
+                                    personale con conoscenze tecniche ed esperienza sufficiente e appropriata per eseguire i compiti di valutazione della conformita'; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le necessarie descrizioni delle procedure in conformita' delle quali avviene la valutazione della conformita', garantendo la trasparenza e la capacita' di riproduzione di tali procedure; una politica e procedure appropriate che distinguano i compiti che svolge in qualita' di organismo notificato dalle altre attivita'; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    le procedure per svolgere le attivita' che tengono debitamente conto delle dimensioni di un'impresa, del settore in cui opera, della sua struttura, del grado di complessita' della tecnologia del prodotto in questione e della natura di massa o seriale del processo produttivo.
+
 L'organismo di valutazione della conformita' dispone dei mezzi necessari per eseguire in modo appropriato i compiti tecnici e amministrativi connessi alle attivita' di valutazione della conformita' e ha accesso a tutti gli strumenti o impianti occorrenti.
+
+7.
+                        
+                            
+                                Il personale responsabile dell'esecuzione dei compiti di valutazione della conformita' dispone dei seguenti requisiti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    una formazione tecnica e professionale solida che includa tutte le attivita' di valutazione della conformita' in relazione a cui l'organismo di valutazione della conformita' e' stato notificato; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    soddisfacenti conoscenze delle prescrizioni relative alle valutazioni che esegue e un'adeguata autorita' per eseguire tali valutazioni; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    una conoscenza e una comprensione adeguate dei requisiti essenziali di sicurezza di cui all'allegato I, delle norme armonizzate applicabili e delle disposizioni pertinenti della normativa armonizzata dell'Unione europea e delle normative nazionali; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    la capacita' di elaborare certificati, registri e rapporti atti a dimostrare che le valutazioni sono state eseguite.
 
 E' garantita l'imparzialita' degli organismi di valutazione della conformita', dei loro alti dirigenti e del personale addetto alla valutazione della conformita'. La remunerazione degli alti dirigenti e del personale addetto alla valutazione della conformita' di un organismo di valutazione della conformita' non dipende dal numero di valutazioni eseguite o dai risultati di tali valutazioni.
 
@@ -300,6 +752,38 @@ Qualora non siano prese misure correttive o non producano il risultato richiesto
 ## Art. 27. — Obbligo di informazione 
  a carico degli organismi notificati
 
+1.
+                        
+                            
+                                Gli organismi notificati informano il Ministero dello sviluppo economico: 
+ 
+                            
+                            
+                                a)
+                                
+                                    di qualunque rifiuto, limitazione, sospensione o ritiro di un certificato; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    di qualunque circostanza che possa influire sull'ambito e sulle condizioni della notifica; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    di eventuali richieste di informazioni che abbiano ricevuto dalle autorita' di vigilanza del mercato in relazione alle attivita' di valutazione della conformita'; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    su richiesta, delle attivita' di valutazione della conformita' eseguite nell'ambito della loro notifica e di qualsiasi altra attivita', incluse quelle transfrontaliere e di subappalto.
+
 Gli organismi notificati forniscono agli altri organismi notificati a norma del presente decreto, le cui attivita' di valutazione della conformita' sono simili e coprono gli stessi articoli pirotecnici, informazioni pertinenti sulle questioni relative ai risultati negativi e, su richiesta, positivi delle valutazioni della conformita'.
 
 ## Art. 28. — Coordinamento degli organismi notificati
@@ -311,6 +795,38 @@ Il Ministero dello sviluppo economico garantisce che gli organismi notificati, d
 ## Art. 29. — Sorveglianza del mercato
 
 Il Prefetto, quale autorita' di sorveglianza del mercato territorialmente competente, di seguito cosi' denominata, controlla che gli articoli pirotecnici siano immessi sul mercato soltanto se, adeguatamente immagazzinati e usati ai fini cui sono destinati, sono sicuri e non mettono in pericolo la salute e l'incolumita' delle persone.
+
+2.
+                        
+                            
+                                L'autorita' di sorveglianza del mercato, avvalendosi della collaborazione della Commissione tecnica territoriale in materia di sostanze esplodenti, dei competenti uffici doganali e dei comandi della Guardia di Finanza, nonche' della collaborazione, che non puo' essere rifiutata, di altre istituzioni, enti e strutture pubbliche, attua la sorveglianza del mercato mediante la predisposizione di un piano contenente le misure tese a: 
+ 
+                            
+                            
+                                a)
+                                
+                                    effettuare periodiche ispezioni all'ingresso del territorio nazionale, nonche' nei luoghi di fabbricazione, di deposito e di vendita; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    prelevare campioni di prodotti per sottoporli a prove ed analisi volte ad accertare la sicurezza, redigendone processo verbale di cui deve essere rilasciata copia agli interessati; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    conseguentemente, ritirare dal mercato, in esito agli accertamenti disposti, gli articoli che, pur recando la marcatura CE corredati della dichiarazione di conformita' CE, e usati conformemente allo scopo cui sono destinati, siano suscettibili di mettere in pericolo la salute e la sicurezza delle persone; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    ordinare e coordinare o, se del caso, organizzare con i fabbricanti, gli importatori o i distributori, il richiamo dal mercato degli articoli pirotecnici suscettibili di mettere in pericolo la salute e la sicurezza delle persone, e la loro distruzione in condizioni di sicurezza. I costi relativi sono posti a carico dei fabbricanti, degli importatori o dei distributori.
 
 Le misure di cui alle lettere a) e b) del comma 2 sono eseguite dagli organi della Polizia di Stato, dell'Arma dei Carabinieri e della Guardia di Finanza su disposizione del Prefetto. Le misure di cui alle lettere c) e d) del comma 2 sono adottate dal Prefetto sulla base dell'esito dei controlli esperiti dagli organi di cui al periodo precedente.
 
@@ -327,6 +843,25 @@ Alle misure di cui al comma 1 si applica l'articolo 21 del regolamento (CE) n. 7
 Salvo quanto previsto al comma 1, ultimo periodo, l'autorita' di sorveglianza del mercato, qualora ritenga che l'inadempienza non sia ristretta al territorio nazionale, ne informa il Ministero dell'interno - Dipartimento della pubblica sicurezza, il quale ne da' comunicazione al Ministero dello sviluppo economico per la successiva informazione alla Commissione dell'Unione europea e agli altri Stati membri dei risultati della valutazione e dei provvedimenti che ha chiesto all'operatore economico di assumere.
 
 L'operatore economico prende tutte le opportune misure correttive nei confronti di tutti gli articoli pirotecnici interessati che ha messo a disposizione sull'intero mercato dell'Unione europea.
+
+5.
+                        
+                            
+                                Qualora l'operatore economico interessato non prenda le misure correttive adeguate entro il periodo di cui al comma 1, l'autorita' di sorveglianza del mercato adotta tutte le opportune misure provvisorie per proibire o limitare la messa a disposizione degli articoli pirotecnici sul mercato nazionale, per ritirarli dal mercato medesimo o per richiamarli. Delle misure adottate e' data immediata informazione nei termini di cui al commi 1, ultimo periodo, e 3, che include tutti i particolari disponibili, soprattutto i dati necessari all'identificazione dell'articolo pirotecnico non conforme, la sua origine, la natura della presunta non conformita' e dei rischi connessi, la natura e la durata delle misure nazionali adottate, nonche' gli argomenti espressi dall'operatore economico interessato.
+In particolare, l'autorita' di sorveglianza del mercato indica se l'inadempienza sia dovuta: 
+ 
+                            
+                            
+                                a)
+                                
+                                    alla non conformita' dell'articolo pirotecnico alle prescrizioni relative alla salute o all'incolumita' delle persone o ad altri aspetti di protezione del pubblico interesse stabiliti nel presente decreto; oppure; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    alle carenze nelle norme armonizzate di cui all'articolo 16, che conferiscono la presunzione di conformita'.
 
 Qualora, entro tre mesi dal ricevimento delle informazioni di cui al comma 5, uno Stato membro o la Commissione dell'Unione europea non sollevino obiezioni contro la misura provvisoria adottata, tale misura e' ritenuta giustificata e l'articolo pirotecnico e' immediatamente ritirato dal mercato. Qualora la Commissione dell'Unione europea emetta un atto di esecuzione poiche' ritiene ingiustificata la misura provvisoria adottata, la misura medesima e' revocata.
 
@@ -346,6 +881,66 @@ Qualora, all'esito delle consultazioni avviate dalla Commissione dell'Unione eur
 ## Art. 32.
 
 Non conformita' formale
+
+1.
+                        
+                            
+                                Fatte salve le disposizioni di cui all'articolo 30, se l'autorita' di sorveglianza del mercato giunge a una delle seguenti conclusioni, chiede all'operatore economico interessato di porre fine allo stato di non conformita' in questione: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la marcatura CE e' stata apposta in violazione dell'articolo 19 o dell'allegato IV del presente decreto; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la marcatura CE non e' stata apposta; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il numero di identificazione dell'organismo notificato, qualora tale organismo intervenga nella fase di controllo della produzione, e' stato apposto in violazione dell'articolo 7 o non e' stato apposto; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    non e' stata compilata la dichiarazione di conformita' UE; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    non e' stata compilata correttamente la dichiarazione di conformita' UE; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    la documentazione tecnica non e' disponibile o e' incompleta; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    le informazioni di cui all'articolo 6, comma 6, o all'articolo 10, comma, 3, sono assenti, false o incomplete; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    qualsiasi altra prescrizione amministrativa di cui all'articolo 6 o all'articolo 10 non e' rispettata.
 
 Se la non conformita' di cui al comma 1 permane, l'autorita' di sorveglianza del mercato interessata provvede a limitare o proibire la messa a disposizione sul mercato dell'articolo pirotecnico o garantisce che sia richiamato o ritirato dal mercato.
 
@@ -368,6 +963,38 @@ Per le violazioni di cui al presente articolo, nei confronti dei titolari delle 
 Salvo che il fatto costituisca reato, la mancata comunicazione al prefetto di cui all'articolo 14 comporta l'applicazione della sanzione amministrativa da 500 euro a 3.000 euro.
 
 Salvo che il fatto costituisca reato, l'omissione totale dell'apposizione delle etichette regolamentari sui prodotti pirotecnici, comunque detenuti, di cui al presente decreto, comporta l'applicazione della sanzione amministrativa da 200 euro a 700 euro per ciascun pezzo non etichettato ovvero per ciascuna confezione ancora integra, qualora i singoli pezzi non etichettati siano contenuti nella stessa.
+
+9.
+                        
+                            
+                                Salvo che il fatto costituisca reato, la sanzione di cui al comma 6 si applica anche nei confronti di chiunque detiene, per la sua immissione sul mercato, un prodotto, ovvero, se previsto, la sua confezione minima di vendita, che non recano comunque: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la marcatura «CE del tipo» ovvero gli estremi del riconoscimento ai sensi dell'articolo 53 del testo unico delle leggi di pubblica sicurezza, approvato con regio decreto 18 giugno 1931, n. 773; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    gli estremi del provvedimento di riconoscimento e la classificazione del Ministero dell'interno, ove previsti; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    le complete istruzioni per l'uso, le avvertenze e le indicazioni per il trasporto in sicurezza, nonche' la data di scadenza, se prevista, e l'anno di produzione, scritte in italiano, con caratteri chiari e facilmente leggibili; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    le precise ed univoche indicazioni su elementi essenziali per l'individuazione del fabbricante, dell'importatore, del distributore e per tracciare il prodotto, compreso l'indicazione in grammi del NEC (contenuto esplosivo netto).
 
 Nei confronti del soggetto che detiene, per l'immissione nel mercato, un prodotto sul quale nell'etichetta sono state omesse, anche parzialmente, indicazioni previste dalla vigente normativa, diverse da quelle di cui al comma 8, si applica la sanzione amministrativa da 20 euro a 60 euro per ciascun pezzo parzialmente etichettato.
 

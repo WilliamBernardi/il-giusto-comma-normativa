@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
 vigenza_date: 2019-08-09
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:30Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -25,6 +25,52 @@ Acquisiti i pareri delle competenti Commissioni della Camera dei deputati e cons
 Sulla proposta del Ministro per le politiche europee e del Ministro della giustizia, di concerto con i Ministri degli affari esteri, dell'economia e delle finanze e dell'interno;
 
 ## Art. 1. — Autorita' di assistenza
+
+1.
+                    
+                        
+                            Allorche' nel territorio di uno Stato membro dell'Unione europea sia stato commesso un reato che da' titolo a forme di indennizzo previste in quel medesimo Stato e il richiedente l'indennizzo sia stabilmente residente in Italia, ((la procura della Repubblica presso il tribunale)) del luogo in cui risiede il richiedente, quale autorita' di assistenza: 
+ 
+                        
+                        
+                            a)
+                            
+                                da' al richiedente le informazioni essenziali relative al sistema di indennizzo previsto dallo Stato membro dell'Unione europea in cui e' stato commesso il reato; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                fornisce al richiedente i moduli per presentare la domanda; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                a richiesta del richiedente, gli fornisce orientamento e informazioni generali sulle modalita' di compilazione della domanda e sulla documentazione eventualmente richiesta; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                riceve le domande di indennizzo e provvede a trasmetterle senza ritardo, insieme alla relativa documentazione, alla competente autorita' di decisione dello Stato membro dell'Unione europea in cui e' stato commesso il reato; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                fornisce assistenza al richiedente sulle modalita' per soddisfare le richieste di informazioni supplementari da parte dell'autorita' di decisione dello Stato membro dell'Unione europea in cui e' stato commesso il reato; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                a richiesta del richiedente, provvede a trasmettere all'autorita' di decisione le informazioni supplementari e l'eventuale documentazione accessoria.
 
 Qualora l'autorita' di decisione dello Stato membro dell'Unione europea in cui e' stato commesso il reato decida di ascoltare il richiedente o qualsiasi altra persona, ((la procura della Repubblica presso il tribunale)), quale autorita' di assistenza, predispone quanto necessario affinche' l'autorita' di decisione proceda direttamente all'audizione secondo le leggi di quello Stato membro.
 Se si procede a videoconferenza, si applicano le disposizioni della legge 7 gennaio 1998, n. 11.
@@ -70,6 +116,24 @@ Con decreto del Ministro della giustizia, di concerto con i Ministri dell'intern
 Con lo stesso decreto sono approvati i modelli per la trasmissione delle domande e delle decisioni in conformita' alla decisione 2006/337/CE della Commissione, del 19 aprile 2006.
 
 ## Art. 8. — Copertura finanziaria
+
+1.
+                    
+                        
+                            Per le finalita' di cui al presente decreto e' autorizzata la spesa di euro 56.000 annui a decorrere dall'anno 2007. Al relativo onere si provvede:
+ 
+                        
+                        
+                            a)
+                            
+                                per l'anno 2007 mediante utilizzo delle risorse del Fondo di rotazione per l'attuazione delle politiche comunitarie, di cui all'art. 5 della legge 16 aprile 1987, n. 183, che a tale fine sono versate all'entrata del bilancio dello Stato e riassegnate alla pertinente unita' previsionale di base del Ministero della giustizia;
+
+                            
+                        
+                        
+                            b)
+                            
+                                a decorrere dal 2008, mediante corrispondente riduzione dell'autorizzazione di spesa di cui all'art. 5 della legge 16 aprile 1987, n. 183.
 
 Il Ministro dell'economia e delle finanze e' autorizzato ad apportare, con propri decreti, le occorrenti variazioni di bilancio.
 

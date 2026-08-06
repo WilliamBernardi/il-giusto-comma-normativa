@@ -8,8 +8,8 @@ codice_redazionale: 003G0289
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti governativi
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:09Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -44,6 +44,73 @@ Nei limiti degli ordinari stanziamenti di bilancio e degli organici previsti dal
 ## Art. 2. — Ambito delle funzioni dell'Ispettorato generale
 
 L'Ispettorato generale, quale unita' sovraordinata posta al vertice del Corpo forestale dello Stato, svolge, nell'ambito dei compiti istituzionali attribuiti al Corpo medesimo ed ai fini dell'assolvimento degli stessi, le funzioni di direzione, di coordinamento, di controllo e di supporto generale di tutte le strutture centrali e periferiche da esso dipendenti, nonche' di tutti i reparti ed i nuclei specializzati.
+
+2.
+                    
+                        
+                            L'Ispettorato generale svolge, altresi', le proprie funzioni nelle materie di competenza statale concernenti: 
+ 
+                        
+                        
+                            a)
+                            
+                                coordinamento interno, analisi, programmazione, controllo e supporto operativo delle attivita' derivanti dall'appartenenza del Corpo forestale dello Stato alle forze di polizia ad ordinamento civile, ai sensi dell'articolo 16 della legge 1° aprile 1981, n. 121, delle attivita' di protezione civile, ai sensi delle legge 24 febbraio 1992, n. 225, delle attivita' di prevenzione, repressione e lotta attiva degli incendi boschivi, ai sensi della legge 21 novembre 2000, n. 353, nonche' delle attivita' di polizia ambientale, polizia forestale e polizia agro-alimentare e delle attivita' di tutela dell'ambiente e dell'ecosistema di competenza del Corpo medesimo, ai sensi della normativa vigente; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                coordinamento interno, analisi, programmazione, controllo e supporto operativo delle attivita' di sorveglianza delle aree naturali protette di rilievo nazionale ed internazionale e delle attivita' di controllo e certificazione del commercio internazionale e della detenzione di esemplari di fauna e flora minacciati di estinzione, in attuazione dei regolamenti comunitari e delle normative nazionali in materia di protezione della flora e della fauna; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                gestione delle risorse umane, stato giuridico ed economico; formazione, addestramento, aggiornamento; collocamento a riposo del personale; gestione delle risorse strumentali; programmazione economico finanziaria, gestione amministrativa contabile; verifica dei costi e dei risultati, controllo interno di regolarita' amministrativa e contabile; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                attivita' di studio, statistica e analisi territoriale connesse ai compiti istituzionali, con particolare riguardo alla costituzione dell'inventario forestale nazionale, al monitoraggio degli ecosistemi forestali, al monitoraggio del territorio, finalizzato anche alle attivita' di polizia idraulica e di controllo; raccolta, elaborazione, archiviazione e diffusione dei dati anche mediante sistemi informativi automatizzati, nonche' adempimenti connessi alla gestione ed allo sviluppo dei collegamenti di cui all'articolo 24 della legge 31 gennaio 1994, n. 97, nell'ambito del sistema informativo agricolo nazionale (S.I.A.N.); 
+
+                            
+                        
+                        
+                            e)
+                            
+                                trattazione, cura e rappresentanza in sede comunitaria ed internazionale degli interessi forestali, nonche' di quelli rientranti nelle competenze del Corpo forestale dello Stato in raccordo con la politica forestale, al fine di renderla conforme al quadro internazionale; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                amministrazione delle riserve naturali statali, nonche' di territori e strutture destinati alla salvaguardia della biodiversita', ivi compresi i Centri nazionali per lo studio e la conservazione della biodiversita' forestale ai sensi del decreto legislativo 18 maggio 2001, n. 227, o funzionali allo svolgimento di compiti istituzionali del Corpo forestale dello Stato, anche ai fini della formazione del personale, sovrintendendo alla gestione dei beni e delle attivita' di ricerca, sperimentazione e di conservazione di competenza dell'ex azienda di Stato per le foreste demaniali, non trasferite alle regioni; tutela delle risorse genetiche forestali, produzione e commercializzazione dei prodotti forestali di propagazione e certificazione delle attivita' forestali eco-compatibili; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                gestione dei supporti tecnici operativi, anche per le esigenze di altre amministrazioni pubbliche; cura delle attivita' di informazione e comunicazione istituzionale nelle materie di spettanza; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                studio e redazione di testi normativi, nonche' gestione del contenzioso nelle materie di spettanza; 
+
+                            
+                        
+                        
+                            i)
+                            
+                                adempimenti in materia di sicurezza e salute dei lavoratori nel luogo di lavoro.
 
 L'Ispettorato generale promuove e cura, disciplinandola, l'attivita' sportiva del personale del Corpo forestale dello Stato mediante la costituzione di un gruppo sportivo rappresentativo del Corpo a livello nazionale in diverse discipline e cura, per il tramite della Scuola, l'organizzazione e le attivita' della banda musicale e del museo storico del Corpo. 
  

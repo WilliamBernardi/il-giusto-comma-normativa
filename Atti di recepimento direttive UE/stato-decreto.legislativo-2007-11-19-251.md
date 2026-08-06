@@ -10,7 +10,7 @@ source: normattiva-opendata
 collection: Atti di recepimento direttive UE
 vigenza_date: 2023-05-06
 zip_date: 2026-07-30
-fetched_at: 2026-08-02T09:40:49Z
+fetched_at: 2026-07-30
 ---
 
 DECRETO LEGISLATIVO
@@ -32,6 +32,108 @@ Il presente decreto stabilisce le norme sull'attribuzione a cittadini di Paesi n
 
 ## Art. 2. — Definizioni
 
+1.
+                        
+                            
+                                Ai fini del presente decreto s'intende per: 
+ 
+                            
+                            
+                                a)
+                                
+                                    «protezione internazionale»: lo status di rifugiato e di protezione sussidiaria di cui alle lettere f) e h); 
+
+                                
+                            
+                            
+                                a-bis)
+                                
+                                    'beneficiario di protezione internazionale': cittadino straniero cui e' stato riconosciuto lo status di rifugiato o lo status di protezione sussidiaria come definito alle lettere f) e h);
+                                
+                            
+                            
+                                b)
+                                
+                                    «Convenzione di Ginevra»: la Convenzione relativa allo status dei rifugiati, firmata a Ginevra il 28 luglio 1951, ratificata con legge 24 luglio 1954, n. 722, e modificata dal Protocollo di New York del 31 gennaio 1967, ratificato con legge 14 febbraio 1970, n. 95; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    «Carta delle Nazioni Unite»: Statuto delle Nazioni Unite, firmato a S. Francisco il 26 giugno 1945 e ratificato con legge 17 agosto 1957, n. 848; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    «Convenzione sui diritti dell'Uomo»: la Convenzione europea di salvaguardia dei diritti dell'uomo e delle liberta' fondamentali, ratificata con legge 4 agosto 1955, n. 848; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    «rifugiato»: cittadino straniero il quale, per il timore fondato di essere perseguitato per motivi di razza, religione, nazionalita', appartenenza ad un determinato gruppo sociale o opinione politica, si trova fuori dal territorio del Paese di cui ha la cittadinanza e non puo' o, a causa di tale timore, non vuole avvalersi della protezione di tale Paese, oppure apolide che si trova fuori dal territorio nel quale aveva precedentemente la dimora abituale per le stesse ragioni succitate e non puo' o, a causa di siffatto timore, non vuole farvi ritorno, ferme le cause di esclusione di cui all'articolo 10; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    «status di rifugiato»: il riconoscimento da parte dello Stato di un cittadino straniero quale rifugiato; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    «persona ammissibile alla protezione sussidiaria»: cittadino straniero che non possiede i requisiti per essere riconosciuto come rifugiato ma nei cui confronti sussistono fondati motivi di ritenere che, se ritornasse nel Paese di origine, o, nel caso di un apolide, se ritornasse nel Paese nel quale aveva precedentemente la dimora abituale, correrebbe un rischio effettivo di subire un grave danno come definito dal presente decreto e il quale non puo' o, a causa di tale rischio, non vuole avvalersi della protezione di detto Paese; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    «status di protezione sussidiaria»: il riconoscimento da parte dello Stato di uno straniero quale persona ammissibile alla protezione sussidiaria; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    'domanda di protezione internazionale': la domanda di protezione presentata secondo le procedure previste dal decreto legislativo 28 gennaio 2008, n. 25, diretta ad ottenere lo status di rifugiato o lo status di protezione sussidiaria;
+                                
+                            
+                            
+                                i-bis)
+                                
+                                    'richiedente': lo straniero che ha presentato una domanda di protezione internazionale sulla quale non e' ancora stata adottata una decisione definitiva;
+                                
+                            
+                            
+                                l)
+                                
+                                    «familiari»: i seguenti soggetti appartenenti al nucleo familiare, gia' costituito prima dell'arrivo nel territorio nazionale, del beneficiario dello status di rifugiato o dello status di protezione sussidiaria, i quali si trovano nel territorio nazionale, in connessione alla domanda di protezione internazionale: 
+ a) il coniuge del beneficiario dello status di rifugiato o dello status di protezione sussidiaria; 
+ ((b) i figli minori del beneficiario dello status di rifugiato o dello status di protezione sussidiaria, anche adottati o nati fuori dal matrimonio, a condizione che non siano sposati. I minori affidati o sottoposti a tutela sono equiparati ai figli;))
+                                        ((b-bis) il genitore o altro adulto legalmente responsabile, ai sensi degli articoli 343 e seguenti del codice civile, del minore beneficiario dello status di rifugiato o dello status di protezione sussidiaria;))
+                                    
+                                
+                            
+                            
+                                m)
+                                
+                                    «minore non accompagnato»: lo straniero di eta' inferiore agli anni diciotto che si trova, per qualsiasi causa, nel territorio nazionale, privo di assistenza e di rappresentanza legale; 
+
+                                
+                            
+                            
+                                n)
+                                
+                                    «Paese di origine»: il Paese o i Paesi di cui il richiedente e' cittadino o, per un apolide, il Paese in cui aveva precedentemente la dimora abituale.
+
 ## - Capo II Valutazione delle domande di protezione internazionale
 
 ## Art. 3. — Esame dei fatti e delle circostanze
@@ -40,7 +142,85 @@ Il richiedente e' tenuto a presentare, unitamente alla domanda di protezione int
 
 Gli elementi di cui al comma 1 che il richiedente e' tenuto a produrre comprendono le dichiarazioni e tutta la documentazione in possesso del richiedente in merito alla sua eta', condizione sociale, anche dei congiunti, se rilevante ai fini del riconoscimento, identita', cittadinanza, paesi e luoghi in cui ha soggiornato in precedenza, domande d'asilo pregresse, itinerari di viaggio, documenti di identita' e di viaggio, nonche' i motivi della sua domanda di protezione internazionale.
 
+3.
+                        
+                            
+                                L'esame della domanda di protezione internazionale e' effettuato su base individuale e prevede la valutazione: 
+ 
+                            
+                            
+                                a)
+                                
+                                    di tutti i fatti pertinenti che riguardano il Paese d'origine al momento dell'adozione della decisione in merito alla domanda, comprese, ove possibile, le disposizioni legislative e regolamentari del Paese d'origine e relative modalita' di applicazione; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    della dichiarazione e della documentazione pertinenti presentate dal richiedente, che deve anche rendere noto se ha gia' subito o rischia di subire persecuzioni o danni gravi; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    della situazione individuale e delle circostanze personali del richiedente, in particolare la condizione sociale, il sesso e l'eta', al fine di valutare se, in base alle circostanze personali del richiedente, gli atti a cui e' stato o potrebbe essere esposto si configurino come persecuzione o danno grave; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    dell'eventualita' che le attivita' svolte dal richiedente, dopo aver lasciato il Paese d'origine, abbiano mirato, esclusivamente o principalmente, a creare le condizioni necessarie alla presentazione di una domanda di protezione internazionale, al fine di stabilire se dette attivita' espongano il richiedente a persecuzione o danno grave in caso di rientro nel Paese; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    dell'eventualita' che, in considerazione della documentazione prodotta o raccolta o delle dichiarazioni rese o, comunque, sulla base di altre circostanze, si possa presumere che il richiedente potrebbe far ricorso alla protezione di un altro Paese, di cui potrebbe dichiararsi cittadino.
+
 Il fatto che il richiedente abbia gia' subito persecuzioni o danni gravi o minacce dirette di persecuzioni o danni costituisce un serio indizio della fondatezza del timore del richiedente di subire persecuzioni o del rischio effettivo di subire danni gravi, salvo che si individuino elementi o motivi per ritenere che le persecuzioni o i danni gravi non si ripeteranno e purche' non sussistono gravi motivi umanitari che impediscono il ritorno nel Paese di origine.
+
+5.
+                        
+                            
+                                Qualora taluni elementi o aspetti delle dichiarazioni del richiedente la protezione internazionale non siano suffragati da prove, essi sono considerati veritieri se l'autorita' competente a decidere sulla domanda ritiene che: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il richiedente ha compiuto ogni ragionevole sforzo per circostanziare la domanda; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    tutti gli elementi pertinenti in suo possesso sono stati prodotti ed e' stata fornita una idonea motivazione dell'eventuale mancanza di altri elementi significativi; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    le dichiarazioni del richiedente sono ritenute coerenti e plausibili e non sono in contraddizione con le informazioni generali e specifiche pertinenti al suo caso, di cui si dispone; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    il richiedente ha presentato la domanda di protezione internazionale il prima possibile, a meno che egli non dimostri di aver avuto un giustificato motivo per ritardarla; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    dai riscontri effettuati il richiedente e', in generale, attendibile.((Nel valutare l'attendibilita' del minore, si tiene conto anche del suo grado di maturita' e di sviluppo personale.))
 
 ## Art. 4. — Bisogno di protezione internazionale sorto
  dopo aver lasciato il Paese d'origine
@@ -49,7 +229,50 @@ La domanda di protezione internazionale puo' essere motivata da avvenimenti veri
 
 ## Art. 5. — Responsabili della persecuzione o del danno grave
 
+1.
+                        
+                            
+                                Ai fini della valutazione della domanda di protezione internazionale, i responsabili della persecuzione o del danno grave sono:
+ 
+                            
+                            
+                                a)
+                                
+                                    lo Stato;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    i partiti o le organizzazioni che controllano lo Stato o una parte consistente del suo territorio;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    soggetti non statuali, se i responsabili di cui alle lettere a) e b), comprese le organizzazioni internazionali, non possono o non vogliono fornire protezione, ai sensi dell'articolo 6, comma 2, contro persecuzioni o danni gravi.
+
 ## Art. 6. — Soggetti che offrono protezione
+
+1.
+                        
+                            
+                                Ai fini dell'esame della domanda di protezione internazionale, e' valutata la possibilita' di protezione da parte: 
+ 
+                            
+                            
+                                a)
+                                
+                                    dello Stato; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    dei partiti o organizzazioni, comprese le organizzazioni internazionali, che controllano lo Stato o una parte consistente del suo territorio ((, a condizione che abbiano la volonta' e la capacita' di offrire protezione conformemente al comma 2.))
 
 La protezione di cui al comma 1 ((e' effettiva e non temporanea e)) consiste nell'adozione di adeguate misure per impedire che possano essere inflitti atti persecutori o danni gravi, avvalendosi tra l'altro di un sistema giuridico effettivo che permetta di individuare, di perseguire penalmente e di punire gli atti che costituiscono persecuzione o danno grave, e nell'accesso da parte del richiedente a tali misure.
 
@@ -59,11 +282,166 @@ Per stabilire se un'organizzazione internazionale controlla uno Stato o una part
 
 ## Art. 7. — Atti di persecuzione
 
+1.
+                        
+                            
+                                Ai fini della valutazione del riconoscimento dello status di rifugiato, gli atti di persecuzione, ai sensi dell'articolo 1 A della Convenzione di Ginevra, devono alternativamente: 
+ 
+                            
+                            
+                                a)
+                                
+                                    essere sufficientemente gravi, per loro natura o frequenza, da rappresentare una violazione grave dei diritti umani fondamentali, in particolare dei diritti per cui qualsiasi deroga e' esclusa, ai sensi dell'articolo 15, paragrafo 2, della Convenzione sui diritti dell'Uomo; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    costituire la somma di diverse misure, tra cui violazioni dei diritti umani, il cui impatto sia sufficientemente grave da esercitare sulla persona un effetto analogo a quello di cui alla lettera a).
+
+2.
+                        
+                            
+                                Gli atti di persecuzione di cui al comma 1 possono, tra l'altro, assumere la forma di: 
+ 
+                            
+                            
+                                a)
+                                
+                                    atti di violenza fisica o psichica, compresa la violenza sessuale; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    provvedimenti legislativi, amministrativi, di polizia o giudiziari, discriminatori per loro stessa natura o attuati in modo discriminatorio; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    azioni giudiziarie o sanzioni penali sproporzionate o discriminatorie; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    rifiuto di accesso ai mezzi di tutela giuridici e conseguente sanzione sproporzionata o discriminatoria; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    azioni giudiziarie o sanzioni penali in conseguenza del rifiuto di prestare servizio militare in un conflitto, quando questo potrebbe comportare la commissione di crimini, reati o atti che rientrano nelle clausole di esclusione di cui all'articolo 10, comma 2; 
+
+                                
+                            
+                            
+                                e-bis)
+                                
+                                    azioni giudiziarie o sanzioni penali sproporzionate o discriminatorie che comportano gravi violazioni di diritti umani fondamentali in conseguenza del rifiuto di prestare servizio militare per motivi di natura morale, religiosa, politica o di appartenenza etnica o nazionale;
+                                
+                            
+                            
+                                f)
+                                
+                                    atti specificamente diretti contro un genere sessuale o contro l'infanzia.
+
 ## Art. 8. — Motivi di persecuzione
+
+1.
+                        
+                            
+                                Al fine del riconoscimento dello status di rifugiato, gli atti di persecuzione di cui all'articolo 7 ((o la mancanza di protezione contro tali atti)) devono essere riconducibili ai motivi, di seguito definiti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    «razza»: si riferisce, in particolare, a considerazioni inerenti al colore della pelle, alla discendenza o all'appartenenza ad un determinato gruppo etnico; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    «religione»: include, in particolare, le convinzioni teiste, non teiste e ateiste, la partecipazione a, o l'astensione da, riti di culto celebrati in privato o in pubblico, sia singolarmente sia in comunita', altri atti religiosi o professioni di fede, nonche' le forme di comportamento personale o sociale fondate su un credo religioso o da esso prescritte; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    «nazionalita»: non si riferisce esclusivamente alla cittadinanza, o all'assenza di cittadinanza, ma designa, in particolare, l'appartenenza ad un gruppo caratterizzato da un'identita' culturale, etnica o linguistica, comuni origini geografiche o politiche o la sua affinita' con la popolazione di un altro Stato; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    «particolare gruppo sociale»: e' quello costituito da membri che condividono una caratteristica innata o una storia comune, che non puo' essere mutata oppure condividono una caratteristica o una fede che e' cosi' fondamentale per l'identita' o la coscienza che una persona non dovrebbe essere costretta a rinunciarvi, ovvero quello che possiede un'identita' distinta nel Paese di origine, perche' vi e' percepito come diverso dalla societa' circostante. In funzione della situazione nel Paese d'origine, un particolare gruppo sociale puo' essere individuato in base alla caratteristica comune dell'orientamento sessuale, fermo restando che tale orientamento non includa atti penalmente rilevanti ai sensi della legislazione italiana ((ai fini della determinazione dell'appartenenza a un determinato gruppo sociale o dell'individuazione delle caratteristiche proprie di tale gruppo, si tiene debito conto delle considerazioni di genere, compresa l'identita' di genere;))
+                                    
+                                
+                            
+                            
+                                e)
+                                
+                                    «opinione politica»: si riferisce, in particolare, alla professione di un'opinione, un pensiero o una convinzione su una questione inerente ai potenziali persecutori di cui all'articolo 5 e alle loro politiche o ai loro metodi, indipendentemente dal fatto che il richiedente abbia tradotto tale opinione, pensiero o convinzione in atti concreti.
 
 Nell'esaminare se un richiedente abbia un timore fondato di essere perseguitato, e' irrilevante che il richiedente possegga effettivamente le caratteristiche razziali, religiose, nazionali, sociali o politiche che provocano gli atti di persecuzione, purche' una siffatta caratteristica gli venga attribuita dall'autore delle persecuzioni.
 
 ## Art. 9. — Cessazione
+
+1.
+                        
+                            
+                                Uno straniero cessa di essere rifugiato quando: 
+ 
+                            
+                            
+                                a)
+                                
+                                    si sia volontariamente avvalso di nuovo della protezione del Paese di cui ha la cittadinanza; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    avendo perso la cittadinanza, l'abbia volontariamente riacquistata; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    abbia acquistato la cittadinanza italiana ovvero altra cittadinanza e goda della protezione del Paese di cui ha acquistato la cittadinanza; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    si sia volontariamente ristabilito nel Paese che ha lasciato o in cui non ha fatto ritorno per timore di essere perseguitato; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    non possa piu' rinunciare alla protezione del Paese di cui ha la cittadinanza, perche' sono venute meno le circostanze che hanno determinato il riconoscimento dello status di rifugiato; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    se trattasi di un apolide, sia in grado di tornare nel Paese nel quale aveva la dimora abituale, perche' sono venute meno le circostanze che hanno determinato il riconoscimento dello status di rifugiato.
 
 Per l'applicazione delle lettere e) ed f) del comma 1, il cambiamento delle circostanze deve avere una natura non temporanea e tale da eliminare il fondato timore di persecuzioni e non devono sussistere gravi motivi umanitari che impediscono il ritorno nel Paese di origine.
 
@@ -77,6 +455,31 @@ La cessazione e' dichiarata sulla base di una valutazione individuale della situ
 
 Lo straniero e' escluso dallo status di rifugiato se rientra nel campo d'applicazione dell'articolo 1 D della Convenzione di Ginevra, relativo alla protezione o assistenza di un organo o di un'agenzia delle Nazioni Unite diversi dall'Alto Commissariato delle Nazioni Unite per i rifugiati. Quando tale protezione o assistenza cessa per qualsiasi motivo, senza che la posizione di tali stranieri sia stata definitivamente stabilita in conformita' delle pertinenti risoluzioni adottate dall'assemblea generale delle Nazioni Unite, essi hanno pieno accesso alle forme di protezione previste dal presente decreto.
 
+2.
+                        
+                            
+                                Lo straniero e' altresi' escluso dallo status di rifugiato ove sussistono fondati motivi per ritenere: 
+ 
+                            
+                            
+                                a)
+                                
+                                    che abbia commesso un crimine contro la pace, un crimine di guerra o un crimine contro l'umanita', quali definiti dagli strumenti internazionali relativi a tali crimini; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    che abbia commesso al di fuori del territorio italiano, ((prima di esservi ammesso in qualita' di richiedente,)) un reato grave ovvero che abbia commesso atti particolarmente crudeli, anche se perpetrati con un dichiarato obiettivo politico, che possano essere classificati quali reati gravi. La gravita' del reato e' valutata anche tenendo conto della pena prevista dalla legge italiana per il reato non inferiore nel minimo a quattro anni o nel massimo a dieci anni; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    che si sia reso colpevole di atti contrari alle finalita' e ai principi delle Nazioni Unite, quali stabiliti nel preambolo e negli articoli 1 e 2 della Carta delle Nazioni Unite.
+
 Il comma 2 si applica anche alle persone che istigano o altrimenti concorrono alla commissione dei crimini, reati o atti in esso previsti.
 
 ## Art. 11. — Riconoscimento dello status di rifugiato
@@ -85,11 +488,79 @@ La domanda di protezione internazionale ha come esito il riconoscimento dello st
 
 ## Art. 12. — Diniego dello status di rifugiato
 
+1.
+                        
+                            
+                                Sulla base di una valutazione individuale, lo status di rifugiato non e' riconosciuto quando: 
+ 
+                            
+                            
+                                a)
+                                
+                                    in conformita' a quanto stabilito dagli articoli 3, 4, 5 e 6 non sussistono i presupposti di cui agli articoli 7 e 8 ovvero sussistono le cause di esclusione di cui all'articolo 10; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    sussistono fondati motivi per ritenere che lo straniero costituisce un pericolo per la sicurezza dello Stato; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    lo straniero costituisce un pericolo per l'ordine e la sicurezza pubblica, essendo stato condannato con sentenza definitiva per i reati previsti dall'articolo 407, comma 2, lettera a), ((del codice di procedura penale ovvero dagli articoli 336, 583, 583-bis, 583-quater, 624 nell'ipotesi aggravata di cui all'articolo 625, primo comma, numero 3), e 624-bis, primo comma, del codice penale. I reati di cui all'articolo 407, comma 2, lettera a), numeri 2), 6) e 7-bis), del codice di procedura penale, sono rilevanti anche nelle fattispecie non aggravate)).
+
 ## Art. 13. — Revoca dello status di rifugiato
+
+1.
+                        
+                            
+                                Fatto salvo l'obbligo del rifugiato di rivelare tutti i fatti pertinenti e di produrre tutta la pertinente documentazione in suo possesso, la revoca dello status di rifugiato di uno straniero e' adottata su base individuale, qualora, successivamente al riconoscimento dello status di rifugiato, e' accertato che:
+ 
+                            
+                            
+                                a)
+                                
+                                    sussistono le condizioni di cui all'articolo 12;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il riconoscimento dello status di rifugiato e' stato determinato, in modo esclusivo, da fatti presentati in modo erroneo o dalla loro omissione, o dal ricorso ad una falsa documentazione dei medesimi fatti.
 
 ## - Capo IV Protezione sussidiaria
 
 ## Art. 14. — Danno grave
+
+1.
+                        
+                            
+                                Ai fini del riconoscimento della protezione sussidiaria, sono considerati danni gravi:
+ 
+                            
+                            
+                                a)
+                                
+                                    la condanna a morte o all'esecuzione della pena di morte;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la tortura o altra forma di pena o trattamento inumano o degradante ai danni del richiedente nel suo Paese di origine;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    la minaccia grave e individuale alla vita o alla persona di un civile derivante dalla violenza indiscriminata in situazioni di conflitto armato interno o internazionale.
 
 ## Art. 15. — Cessazione
 
@@ -103,6 +574,45 @@ La disposizione di cui al comma 1 non si applica quando il titolare di protezion
 
 ## Art. 16. — Esclusione
 
+1.
+                        
+                            
+                                Lo status di protezione sussidiaria e' escluso quando sussistono fondati motivi per ritenere che lo straniero: 
+ 
+                            
+                            
+                                a)
+                                
+                                    abbia commesso un crimine contro la pace, un crimine di guerra o un crimine contro l'umanita', quali definiti dagli strumenti internazionali relativi a tali crimini; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    abbia commesso, al di fuori del territorio nazionale, prima di esservi ammesso in qualita' di richiedente, un reato grave. La gravita' del reato e' valutata anche tenendo conto della pena, non inferiore nel minimo a quattro anni o nel massimo a dieci anni, prevista dalla legge italiana per il reato; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    si sia reso colpevole di atti contrari alle finalita' e ai principi delle Nazioni Unite, quali stabiliti nel preambolo e negli articoli 1 e 2 della Carta delle Nazioni Unite; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    costituisca un pericolo per la sicurezza dello Stato. 
+
+                                
+                            
+                            
+                                d-bis)
+                                
+                                    costituisca un pericolo per l'ordine e la sicurezza pubblica, essendo stato condannato con sentenza definitiva per i reati previsti dall'articolo 407, comma 2, lettera a), ((del codice di procedura penale ovvero dagli articoli 336, 583, 583-bis, 583-quater, 624 nell'ipotesi aggravata di cui all'articolo 625, primo comma, numero 3), e 624-bis, primo comma, del codice penale. I reati di cui all'articolo 407, comma 2, lettera a), numeri 2), 6) e 7-bis), del codice di procedura penale, sono rilevanti anche nelle fattispecie non aggravate.)).
+
 Il comma 1 si applica anche alle persone che istigano o altrimenti concorrono alla commissione dei crimini, reati o atti in esso menzionati.
 
 ## Art. 17. — Riconoscimento dello status di protezione sussidiaria
@@ -110,6 +620,24 @@ Il comma 1 si applica anche alle persone che istigano o altrimenti concorrono al
 La domanda di protezione internazionale ha come esito il riconoscimento dello status di protezione sussidiaria, in conformita' a quanto stabilito dagli articoli 3, 4, 5 e 6, se ricorrono i presupposti di cui all'articolo 14 e non sussistono le cause di cessazione e di esclusione di cui agli articoli 15 e 16.
 
 ## Art. 18. — Revoca dello status di protezione sussidiaria
+
+1.
+                        
+                            
+                                La revoca dello status di protezione sussidiaria di uno straniero e' adottata se, successivamente al riconoscimento dello status, e' accertato che:
+ 
+                            
+                            
+                                a)
+                                
+                                    sussistono le cause di esclusione di cui all'articolo 16;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il riconoscimento dello status di protezione sussidiaria e' stato determinato, in modo esclusivo, da fatti presentati in modo erroneo o dalla loro omissione, o dal ricorso ad una falsa documentazione dei medesimi fatti.
 
 ## - Capo V Contenuto della protezione internazionale
 
@@ -126,6 +654,24 @@ Nell'attuazione delle disposizioni del presente decreto e' preso in considerazio
 ))
 
 ## Art. 20. — Protezione dall'espulsione
+
+1.
+                        
+                            
+                                Fermo restando quanto previsto dall'articolo 19, comma 1, del testo unico delle disposizioni concernenti la disciplina dell'immigrazione e norme sulla condizione dello straniero, di cui al decreto legislativo 25 luglio 1998, n. 286, ((ed in conformita' degli obblighi internazionali ratificati dall'Italia,)) il rifugiato o lo straniero ammesso alla protezione sussidiaria e' espulso quando: 
+ 
+                            
+                            
+                                a)
+                                
+                                    sussistono motivi per ritenere che rappresenti un pericolo per la sicurezza dello Stato; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    rappresenta un pericolo per l'ordine e la sicurezza pubblica, essendo stato condannato con sentenza definitiva per un reato per il quale e' prevista la pena della reclusione non inferiore nel minimo a quattro anni o nel massimo a dieci anni.
 
 ## Art. 21. — Informazioni
 

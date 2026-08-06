@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
 vigenza_date: 2022-05-01
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:22Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -45,6 +45,38 @@ In allegato alla relazione previsionale e programmatica di cui all'articolo 15 d
 
 ## Art. 2. — Competenze del CIPE
 
+1.
+                    
+                        
+                            Il Comitato interministeriale per la programmazione economica (CIPE) esercita, ai sensi del presente decreto, le seguenti funzioni:
+ 
+                        
+                        
+                            a)
+                            
+                                valuta, preliminarmente all'approvazione del DPEF da parte del Consiglio dei Ministri, lo schema degli indirizzi di cui all'articolo 1, comma 1;
+
+                            
+                        
+                        
+                            b)
+                            
+                                approva il PNR e gli aggiornamenti annuali, delibera in ordine all'utilizzo del Fondo speciale e valuta periodicamente l'attuazione del PNR;
+
+                            
+                        
+                        
+                            c)
+                            
+                                approva apposite direttive per il coordinamento con il PNR dei piani e programmi delle pubbliche amministrazioni, anche nel corso della loro attuazione;
+
+                            
+                        
+                        
+                            d)
+                            
+                                esamina, ai sensi della legge 27 febbraio 1967, n. 48, gli stanziamenti per la ricerca delle amministrazioni pubbliche.
+
 L'esercizio delle funzioni di cui al comma 1 e' coordinato dal Ministro dell'universita' e della ricerca scientifica e tecnologica nell'ambito di un'apposita commissione per la ricerca, di seguito denominata commissione, da istituirsi presso il CIPE ai sensi dell'articolo 1, comma 3, del decreto legislativo 5 dicembre 1997, n. 430. La commissione, nel lavoro istruttorio per gli atti di cui al comma 1, opera sulla base di proposte preliminari del Ministro dell'universita' e della ricerca scientifica e tecnologica e con l'apporto delle amministrazioni partecipanti.
 
 Il Ministro dell'universita' e della ricerca scientifica e tecnologica si avvale come supporto di una segreteria tecnica istituita presso il MURST, nell'ambito della potesta' regolamentare di organizzazione di detto ministero. La segreteria opera anche come supporto della commissione e delle strutture ad essa collegate. Con decreto ministeriale sono altresi' determinate le modalita' per l'utilizzazione di personale comandato da altre amministrazioni, enti e istituzioni, nonche' i limiti numerici per il ricorso a personale qualificato con contratto a tempo determinato senza oneri aggiuntivi per il bilancio dello Stato. Il Ministro dell'universita' e della ricerca scientifica e tecnologica, ai fini delle attivita' di cui al comma 2, puo' acquisire osservazioni e proposte del comitato di esperti di cui all'articolo 3, dei consigli scientifici nazionali e della assemblea di cui al successivo articolo 4. Al Ministro possono inviare proposte anche universita', enti di ricerca, ricercatori pubblici e privati, nonche' organismi di consulenza tecnico scientifica afferenti alle amministrazioni pubbliche.
@@ -66,6 +98,45 @@ Il CEPR si avvale della segreteria di cui all'articolo 2, comma 3.
 
 
 ## Art. 5. — Comitato di indirizzo per la valutazione della ricerca
+
+1.
+                    
+                        
+                            E' istituito, presso il MURST, il comitato di indirizzo per la valutazione della ricerca (CIVR), composto da non piu' di 7 membri, anche stranieri, di comprovata qualificazione ed esperienza, scelti in una pluralita' di ambiti metodologici e disciplinari. Il comitato, sulla base di un programma annuale da esso approvato:
+ 
+                        
+                        
+                            a)
+                            
+                                svolge attivita' per il sostegno alla qualita' e alla migliore utilizzazione della ricerca scientifica e tecnologica nazionale. A tal fine promuove la sperimentazione, l'applicazione e la diffusione di metodologie, tecniche e pratiche di valutazione della ricerca;
+
+                            
+                        
+                        
+                            b)
+                            
+                                determina i criteri generali per le attivita' di valutazione svolte dagli enti di ricerca, dalle istituzioni scientifiche e di ricerca e dell'ASI, verificandone l'applicazione; (3) ((5))
+                                
+                            
+                        
+                        
+                            c)
+                            
+                                d'intesa con le pubbliche amministrazioni, progetta ed effettua attivita' di valutazione esterna di enti di ricerca da esse vigilati o finanziati, nonche' di progetti e programmi di ricerca da esse coordinati o finanziati;
+
+                            
+                        
+                        
+                            d)
+                            
+                                predispone rapporti periodici sulle attivita' svolte e una relazione annuale in materia di valutazione della ricerca, che trasmette al Ministero dell'universita' e della ricerca scientifica e tecnologica, ai Ministri interessati e al CIPE;
+
+                            
+                        
+                        
+                            e)
+                            
+                                determina criteri e modalita' per la costituzione, da parte di enti di ricerca e dell'ASI, ove cio' sia previsto dalla normativa vigente, di un apposito comitato incaricato della valutazione dei risultati scientifici e tecnologici dell'attivita' complessiva dell'ente e, ove ricorrano, degli istituti in cui si articola.
 
 Con decreto del Presidente del Consiglio dei Ministri, sentito il Consiglio dei Ministri, su proposta del Ministro dell'universita' e della ricerca scientifica e tecnologica, sono nominati i componenti del comitato e ne e' determinata la durata del mandato. I dipendenti pubblici possono essere collocati in aspettativa per la durata del mandato. Il comitato elegge nel suo seno il presidente.
 
@@ -104,6 +175,74 @@ A partire dal 1 gennaio 1999 gli stanziamenti da destinare al Consiglio nazional
 Il Fondo di cui al comma 1 e' ripartito annualmente tra gli enti e le istituzioni finanziati dal MURST con decreti del Ministro dell'universita' e della ricerca scientifica e tecnologica, comprensivi di indicazioni per i due anni successivi, emanati previo parere delle commissioni parlamentari competenti per materia, da esprimersi entro il termine perentorio di trenta giorni dalla richiesta. Nelle more del perfezionamento dei predetti decreti e al fine di assicurare l'ordinata prosecuzione delle attivita', il MURST e' autorizzato ad erogare acconti agli enti sulla base delle previsioni contenute negli schemi dei medesimi decreti, nonche' dei contributi assegnati come competenza nel precedente anno.
 
 A decorrere dalla data di entrata in vigore del presente decreto legislativo il Consiglio nazionale della scienza e tecnologia (CNST), di cui all'articolo 11 della legge 9 maggio 1989, n. 168, e' soppresso. Sono fatti salvi le deliberazioni e gli atti adottati dal predetto organo fino alla data di entrata in vigore del presente decreto.
+
+4.
+                    
+                        
+                            Alla legge 9 maggio 1989, n. 168, sono apportate le seguenti modificazioni ed integrazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                nel comma 1 dell'articolo 2, la lettera b), e' sostituita dalle seguenti " b) valorizza e sostiene, anche con adeguato supporto finanziario, la ricerca libera nelle universita' e negli enti di ricerca, nel rispetto delle autonomie previste dalla presente legge e definite nei rispettivi ordinamenti, promuovendo opportune integrazioni e sinergie tra la ricerca pubblica e quella del settore privato, favorendone lo sviluppo nei settori di rilevanza strategica; 
+bbis) sovrintende al monitoraggio del PNR, con riferimento anche alla verifica della coerenza tra esso e i piani e i programmi delle amministrazioni dello Stato e degli enti da esse vigilati; riferisce al CIPE sull'attuazione del PNR; redige ogni tre anni un rapporto sullo stato di attuazione del medesimo e sullo stato della ricerca nazionale; bter) approva i programmi pluriennali degli enti di ricerca, con annesso finanziamento a carico dell'apposito Fondo istituito nel proprio stato di previsione, verifica il rispetto della programmazione triennale del fabbisogno di personale, approva statuti e regolamenti di enti strumentali o agenzie da esso vigilate, esercita le funzioni di cui all'articolo 8 nei confronti degli enti non strumentali, con esclusione di ogni altro atto di controllo o di approvazione di determinazioni di enti o agenzie, i quali sono comunque tenuti a comunicare al Ministero i bilanci"; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                nella lettera c) del comma 1 dell'articolo 2, le parole "sentito il CNST" sono soppresse; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                nel comma 1 dell'articolo 2, la lettera d) e' sostituita dalla seguente " d) riferisce al Parlamento ogni anno in apposita audizione sull'attuazione del PNR e sullo stato della ricerca nazionale"; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                nelle lettere e) ed f) del comma 1 dell'articolo 2 le parole "sentito il CNST" sono soppresse; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                nel comma 1 dell'articolo 2, la lettera g) e' sostituita dalla seguente " g) coordina le funzioni relative all'Anagrafe nazionale delle ricerche, istituita ai sensi dell'articolo 63 del decreto del Presidente della Repubblica 11 luglio 1980, n. 382, ridefinendone con apposito decreto ministeriale finalita' ed organizzazione, ed esercita altresi', nell'ambito di attivita' di ricerca scientifica e tecnologica, funzioni di supporto al monitoraggio e alla valutazione della ricerca, nonche' di previsione tecnologica e di analisi di impatto delle tecnologie"; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                il comma 3 dell'articolo 2 e' soppresso; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                i commi 1 e 2 dell'articolo 3 sono soppressi e nel comma 3 dell'articolo 3 le parole "sentito il CNST" sono soppresse; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                nel comma 2 dell'articolo 8 le parole da "il quale" fino a "richiesta" sono soppresse; 
+
+                            
+                        
+                        
+                            i)
+                            
+                                l'articolo 11 e' soppresso.
 
 Nel comma 9, secondo periodo, dell'articolo 51 della legge 27 dicembre 1997, n. 449, le parole da "previo parere" fino a "n. 59" sono soppresse.
 

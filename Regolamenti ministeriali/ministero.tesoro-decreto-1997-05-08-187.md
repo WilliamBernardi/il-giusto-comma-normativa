@@ -8,8 +8,8 @@ codice_redazionale: 097G0229
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:41Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -49,6 +49,31 @@ La pensione di inabilita' e' riversibile ai superstiti.
 
 ## Art. 2. — Requisiti
 
+1.
+                    
+                        
+                            La pensione di inabilita' spetta ai dipendenti in possesso dei seguenti requisiti:
+ 
+                        
+                        
+                            a)
+                            
+                                anzianita' contributiva di almeno cinque anni, di cui almeno tre nel quinquennio precedente alla decorrenza della pensione di inabilita', computata ai sensi dell'articolo 2 della legge 4 aprile 1952, n. 218;
+
+                            
+                        
+                        
+                            b)
+                            
+                                risoluzione del rapporto di lavoro per infermita' non dipendenti da causa di servizio;
+
+                            
+                        
+                        
+                            c)
+                            
+                                riconoscimento dello stato di assoluta e permanente impossibilita' a svolgere qualsiasi attivita' lavorativa conseguente all'infermita' di cui alla precedente lettera b).
+
 ## Art. 3. — Presentazione e contenuto della domanda
 
 La pensione di inabilita' e' attribuita a domanda.
@@ -84,6 +109,73 @@ Nel caso in cui gli accertamenti riguardino particolari infermita', il president
 La commissione si pronuncia a maggioranza; l'eventuale membro dissenziente fa inserire a verbale i motivi del dissenso.
 
 ## Art. 6. — Accertamenti sanitari
+
+1.
+                    
+                        
+                            Il membro relatore della commissione, al termine degli accertamenti sanitari, redige un processo verbale dal quale devono risultare:
+ 
+                        
+                        
+                            a)
+                            
+                                la data di definizione del verbale e le generalita' dell'interessato;
+
+                            
+                        
+                        
+                            b)
+                            
+                                gli accertamenti eseguiti;
+
+                            
+                        
+                        
+                            c)
+                            
+                                il giudizio diagnostico sulle infermita' riscontrate con l'indicazione della menomazione complessiva che compromette l'efficienza psico - fisica;
+
+                            
+                        
+                        
+                            d)
+                            
+                                il giudizio sulle conseguenze che le infermita' riscontrate determinano sulla idoneita' al servizio, indicando se queste costituiscano o meno impedimento temporaneo o permanente alla prestazione lavorativa;
+
+                            
+                        
+                        
+                            e)
+                            
+                                la sussistenza o meno dell'assoluta e permanente impossibilita' a svolgere qualsiasi attivita' lavorativa, determinata da infermita' che cagionino o abbiano cagionato la risoluzione del rapporto di lavoro;
+
+                            
+                        
+                        
+                            f)
+                            
+                                se la eventuale inabilita' di cui ai precedenti punti d) ed e) e' determinata da infermita' dipendenti o non dipendenti da causa di servizio. Nei casi di coesistenza di infermita' dipendenti e non dipendenti da causa di servizio, occorre precisare se la inabilita' e' determinata in misura prevalente dalle une o dalle altre;
+
+                            
+                        
+                        
+                            g)
+                            
+                                le eventuali osservazioni del medico di fiducia;
+
+                            
+                        
+                        
+                            h)
+                            
+                                le eventuali osservazioni del membro dissenziente della commissione, in caso di giudizio non unanime;
+
+                            
+                        
+                        
+                            i)
+                            
+                                la qualifica e la firma di tutti i membri della commissione.
 
 La commissione restituisce all'amministrazione o ente richiedente il verbale, redatto secondo quanto indicato al precedente comma 1, entro sessanta giorni dalla data della sua definizione.
 

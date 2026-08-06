@@ -8,8 +8,8 @@ vigente: true
 source: normattiva-opendata
 collection: Leggi delega e relativi provvedimenti delegati
 vigenza_date: 2022-08-06
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:41:19Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -33,7 +33,66 @@ Sulla proposta del Ministro delle infrastrutture e dei trasporti, di concerto co
 
 ## Art. 1. — Modifiche all'articolo 1 del decreto legislativo 18 luglio 2005, n. 171
 
+1.
+                    
+                        
+                            All'articolo 1 del decreto legislativo 18 luglio 2005, n. 171, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                il comma 1 e' sostituito dal seguente: «1. Le disposizioni del presente codice si applicano alla navigazione da diporto esercitata, per fini esclusivamente lusori o anche commerciali, mediante le unita' di cui all'articolo 3 del presente codice, nonche' alle navi di cui all'articolo 3 della legge 8 luglio 2003, n. 172.»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                dopo il comma 1, e' inserito il seguente: «1-bis. Le disposizioni del presente codice si applicano alle unita' di cui all'articolo 3 che navigano in acque marittime e interne, fermo restando quanto previsto dall'articolo 3 della legge 8 luglio 2003, n. 172, e dal decreto-legge 30 dicembre 1997, n. 457, convertito, con modificazioni, dalla legge 27 febbraio 1998, n. 30.».
+
 ## Art. 2. — Modifiche all'articolo 2 del decreto legislativo 18 luglio 2005, n. 171
+
+1.
+                    
+                        
+                            All'articolo 2 del decreto legislativo 18 luglio 2005, n. 171, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                la rubrica e' sostituita dalla seguente: «Unita' da diporto utilizzata a fini commerciali»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 1, dopo la lettera c), sono aggiunte le seguenti: 
+ «c-bis) e' utilizzata per assistenza all'ormeggio delle unita' di cui all'articolo 3 nell'ambito delle strutture dedicate alla nautica da diporto; 
+ c-ter) e' utilizzata per l'attivita' di assistenza e di traino delle unita' di cui all'articolo 3.»; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                al comma 2, le parole: «nei relativi registri di iscrizione» sono sostituite dalle seguenti: «nell'Archivio telematico centrale delle unita' da diporto (ATCN)»; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                dopo il comma 2, e' inserito il seguente: «2-bis. Nel caso di natanti l'utilizzazione a fini commerciali e' annotata secondo le modalita' indicate nel regolamento di attuazione del presente codice.»; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                al comma 3, dopo le parole: «siano svolte», sono inserite le seguenti: «stabilmente in Italia» e le parole: «all'autorita' marittima o della navigazione interna con giurisdizione sul luogo in cui l'unita' abitualmente staziona» sono sostituite dalle seguenti: «allo Sportello telematico del diportista (STED)» e le parole: «timbrata e vistata dalla predetta autorita'» sono sostituite dalle seguenti: «validata dall'Ufficio di conservatoria centrale delle unita' da diporto (UCON) per il tramite dello Sportello telematico del diportista (STED)».
 
 ## Art. 3. — Modifiche all'articolo 3 del decreto legislativo 18 luglio 2005, n. 171
 
@@ -58,6 +117,45 @@ L'articolo 3 del decreto legislativo 18 luglio 2005, n. 171, e' sostituito dal s
 All'articolo 14 del decreto legislativo 18 luglio 2005, n. 171, dopo il comma 1, e' aggiunto il seguente: «1-bis. Alla progettazione, costruzione e immissione in commercio delle unita' da diporto di cui all'articolo 3, diverse dalle navi da diporto e dalle navi di cui all'articolo 3 della legge 8 luglio 2003, n. 172, si applicano le disposizioni di cui al decreto legislativo 11 gennaio 2016, n. 5.».
 
 ## Art. 5. — Modifiche all'articolo 15 del decreto legislativo 18 luglio 2005, n. 171
+
+1.
+                    
+                        
+                            All'articolo 15 del decreto legislativo 18 luglio 2005, n. 171, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                la rubrica e' sostituita dalla seguente: «Iscrizione»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                il comma 1 e' sostituito dal seguente: «1. Le navi e le imbarcazioni da diporto sono iscritte nell'Archivio telematico centrale delle unita' da diporto (ATCN).»; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                al comma 2, dopo le parole: «Il proprietario» sono inserite le seguenti: «o l'utilizzatore in locazione finanziaria di una nave da diporto o»; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                al comma 3, le parole: «nei registri delle imbarcazioni da diporto» sono sostituite dalle seguenti: «nell'Archivio telematico centrale delle unita' da diporto (ATCN)» e le parole: «dell'articolo 10 o autorizzato ai sensi del decreto legislativo 3 agosto 1998, n. 314» sono sostituite dalle seguenti: «del decreto legislativo 11 gennaio 2016, n. 5, o autorizzato ai sensi del decreto legislativo 14 giugno 2011, n. 104»; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                il comma 4 e' sostituito dal seguente: «4. Il proprietario o l'utilizzatore dell'unita' da diporto in locazione finanziaria puo' richiedere allo Sportello telematico del diportista (STED) l'annotazione della perdita di possesso dell'unita' medesima a seguito di reato contro il patrimonio di cui al titolo XIII del codice penale, presentando l'originale o la copia conforme della denuncia o della querela e restituendo, se in suo possesso, la licenza di navigazione. La stessa richiesta puo' essere presentata in caso di provvedimenti dell'autorita' giudiziaria o della pubblica amministrazione che comportano l'indisponibilita' dell'unita' da diporto, di sentenza di organi giurisdizionali che accertano la perdita del possesso per l'intestatario dell'unita' da diporto, requisizione o la cessazione degli effetti del contratto di locazione finanziaria. Nel caso in cui il proprietario o l'utilizzatore dell'unita' da diporto in locazione finanziaria rientra nel possesso dell'unita' puo' richiederne l'annotazione allo Sportello telematico del diportista (STED), anche ai fini del rilascio di una nuova licenza di navigazione. Con il regolamento di attuazione del presente codice sono stabilite le modalita' relative alla presentazione dell'istanza di perdita e di rientro in possesso dell'unita' da diporto.».
 
 ## Art. 6. — Iscrizioni di navi da diporto
 
@@ -90,21 +188,283 @@ Iscrizione delle navi destinate esclusivamente al noleggio per finalita' turisti
 
 ## Art. 7. — Modifiche all'articolo 16 del decreto legislativo 18 luglio 2005, n. 171
 
+1.
+                    
+                        
+                            All'articolo 16 del decreto legislativo 18 luglio 2005, n. 171, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 1, le parole: «sul registro di iscrizione» sono sostituite dalle seguenti: «nell'Archivio telematico centrale delle unita' da diporto (ATCN)»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                dopo il comma 1, sono aggiunti i seguenti: 
+ «1-bis. In caso di risoluzione del contratto di locazione finanziaria, il proprietario o l'utilizzatore dell'unita' da diporto in locazione finanziaria chiede la cancellazione dell'annotazione di cui al comma 1. Lo Sportello telematico del diportista (STED) notifica l'avvenuta cancellazione dell'annotazione al proprietario e all'utilizzatore dell'unita' da diporto in locazione finanziaria, richiedendo a quest'ultimo la restituzione della licenza di navigazione. 
+ 1-ter. Nel caso di perdita della disponibilita' dell'unita' da diporto, il proprietario o l'utilizzatore del bene in locazione finanziaria chiede la cancellazione dell'annotazione di cui al comma 1, a seguito dell'annotazione della perdita di possesso di cui all'articolo 15. Lo Sportello telematico del diportista (STED) notifica l'avvenuta cancellazione dell'annotazione al proprietario e all'utilizzatore dell'unita' da diporto in locazione finanziaria, richiedendo a quest'ultimo la restituzione della licenza di navigazione.».
+
 ## Art. 8. — Modifiche all'articolo 17 del decreto legislativo 18 luglio 2005, n. 171
+
+1.
+                    
+                        
+                            All'articolo 17 del decreto legislativo 18 luglio 2005, n. 171, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 1, dopo le parole: «sessanta giorni» sono inserite le seguenti: «o, se l'interessato e' residente all'estero, entro centoventi giorni» e le parole: «nei rispettivi registri di iscrizione» sono sostituite dalle seguenti: «nell'Archivio telematico centrale delle unita' da diporto (ATCN)»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 2, le parole: «dall'ufficio di iscrizione» sono sostituite dalle seguenti: «dallo Sportello telematico del diportista (STED)»; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                al comma 3, le parole: «all'ufficio di iscrizione dell'unita' che, previa presentazione» sono sostituite dalle seguenti: «all'Ufficio di conservatoria centrale delle unita' da diporto (UCON) che, previa presentazione allo Sportello telematico del diportista (STED)» e le parole: «l'ufficio di iscrizione» sono sostituite dalle seguenti: «l'Ufficio di conservatoria centrale delle unita' da diporto (UCON)»; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                dopo il comma 4, e' aggiunto il seguente: «4-bis. Non si applica il termine di cui al comma 1 per la dichiarazione e la revoca di armatore.».
 
 ## Art. 9. — Modifiche all'articolo 18 del decreto legislativo 18 luglio 2005, n. 171
 
+1.
+                    
+                        
+                            All'articolo 18 del decreto legislativo 18 luglio 2005, n. 171, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 1, le parole: «nei registri di cui all'articolo 15» sono sostituite dalle seguenti: «nell'Archivio telematico centrale delle unita' da diporto (ATCN)»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                il comma 4 e' sostituito dal seguente: «4. I cittadini italiani e di altri Stati membri dell'Unione europea residenti all'estero che intendono iscrivere o mantenere l'iscrizione delle unita' da diporto di loro proprieta' nell'Archivio telematico centrale delle unita' da diporto (ATCN) devono eleggere domicilio in Italia o nominare un proprio rappresentante che abbia domicilio in Italia, al quale le autorita' marittime o della navigazione interna possono rivolgersi in caso di comunicazioni relative all'unita' iscritta. Il rappresentante, qualora straniero, deve essere regolarmente domiciliato in Italia.».
+
 ## Art. 10. — Modifiche all'articolo 19 decreto legislativo 18 luglio 2005, n. 171
+
+1.
+                    
+                        
+                            All'articolo 19 del decreto legislativo 18 luglio 2005, n. 171, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                la rubrica e' sostituita dalla seguente: «Iscrizione di imbarcazioni da diporto»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                il comma 1 e' sostituito dal seguente: «1. Per ottenere l'iscrizione nell'Archivio telematico centrale delle unita' da diporto (ATCN), il proprietario o l'utilizzatore dell'imbarcazione da diporto in locazione finanziaria, in nome e per conto del proprietario, munito di procura con sottoscrizione autenticata, presenta allo Sportello telematico del diportista (STED) il titolo di proprieta' e la dichiarazione di conformita' UE, rilasciata ai sensi dell'allegato XIV del decreto legislativo 11 gennaio 2016, n. 5, da uno dei soggetti indicati nell'articolo 14, comma 3, del medesimo decreto, nonche' la dichiarazione di potenza del motore o dei motori installati a bordo. Per le unita' da diporto non munite di marcatura CE la predetta documentazione tecnica e' sostituita da un'attestazione di idoneita' rilasciata da un organismo tecnico notificato ai sensi del decreto legislativo 11 gennaio 2016, n. 5, ovvero autorizzato ai sensi del decreto legislativo 14 giugno 2011, n. 104.»; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                al comma 2, le parole: «dell'articolo 10 o autorizzato ai sensi del decreto legislativo 3 agosto 1998, n. 314, e successive modificazioni» sono sostituite dalle seguenti: «del decreto legislativo 11 gennaio 2016, n. 5, o autorizzato ai sensi del decreto legislativo 14 giugno 2011, n. 104»; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                il comma 3 e' sostituito dal seguente: «3. Qualora il proprietario o l'utilizzatore in locazione finanziaria in nome o per conto del proprietario, munito di procura con sottoscrizione autenticata, di una imbarcazione da diporto iscritta in uno dei registri pubblici di uno Stato membro dell'Unione europea o di un altro Stato individuato con modalita' stabilite dal regolamento di attuazione del presente codice chieda l'iscrizione nell'Archivio telematico centrale delle unita' da diporto (ATCN), in luogo del titolo di proprieta', e' sufficiente presentare il certificato di cancellazione dal registro dello Stato di provenienza ovvero un attestato dell'autorita' competente, con validita' massima di sei mesi, dal quale risulti avviata la procedura di cancellazione. Dal certificato di cancellazione o dall'attestato provvisorio devono sempre risultare le generalita' del proprietario e gli elementi di individuazione dell'unita'.»; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                al comma 4, le parole: «dell'articolo 10 o autorizzato ai sensi del decreto legislativo 3 agosto 1998, n. 314 e successive modificazioni» sono sostituite dalle seguenti: «del decreto legislativo 11 gennaio 2016, n. 5, o autorizzato ai sensi del decreto legislativo 14 giugno 2011, n. 104»; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                dopo il comma 4, e' aggiunto il seguente: «4-bis. Per l'annotazione dell'utilizzo a fini commerciali nell'Archivio telematico centrale delle unita' da diporto (ATCN), il proprietario o l'utilizzatore dell'imbarcazione da diporto in locazione finanziaria presenta all'ufficio di iscrizione, oltre quanto previsto dai commi da 1 a 4 del presente articolo, il certificato di iscrizione nel registro delle imprese o dichiarazione sostitutiva dalla quale risultano l'indicazione delle imprese individuali o societa' esercenti le attivita' di cui all'articolo 2 o, se si tratta di impresa o societa' estera, un documento rilasciato dal Paese di appartenenza che attesta la specifica attivita' di cui all'articolo 2, svolta dall'esercente. L'iscrizione nell'Archivio telematico centrale delle unita' da diporto (ATCN) riporta la denominazione di imbarcazione da diporto utilizzata a fini commerciali-commercial yacht. La stessa denominazione e' riportata anche nella licenza di navigazione. E' fatta salva la facolta' per il proprietario o dell'utilizzatore del bene in locazione finanziaria di mutare sempre la destinazione della imbarcazione da diporto in imbarcazione da diporto utilizzata a fini commerciali e da imbarcazione da diporto utilizzata a fini commerciali in imbarcazione da diporto.».
 
 ## Art. 11. — Modifiche all'articolo 20 del decreto legislativo 18 luglio 2005, n. 171
 
+1.
+                    
+                        
+                            All'articolo 20 del decreto legislativo 18 luglio 2005, n. 171, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                la rubrica e' sostituita dalla seguente: «Iscrizione provvisoria di navi e imbarcazioni da diporto»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                il comma 1 e' sostituito dal seguente: «1. Il proprietario di un'imbarcazione o di una nave da diporto o l'utilizzatore del bene in locazione finanziaria, in nome e per conto del proprietario, munito di procura con sottoscrizione autenticata, puo' chiedere, ove si tratti di prima immissione in servizio, l'assegnazione del numero di immatricolazione, presentando domanda allo Sportello telematico del diportista (STED). Alla domanda e' allegata: 
+ a) copia della fattura o della ricevuta fiscale attestante l'assolvimento dei pertinenti adempimenti fiscali e degli eventuali adempimenti doganali e contenente le generalita', l'indirizzo e il codice fiscale dell'interessato, nonche' la descrizione tecnica dell'unita' stessa; 
+ b) dichiarazione di conformita' UE per le unita' che ne sono provviste; 
+ c) dichiarazione di potenza del motore o dei motori di propulsione sistemati a bordo; 
+ d) dichiarazione di assunzione di responsabilita' da parte dell'intestatario della fattura o della ricevuta fiscale per tutti gli eventi derivanti dall'esercizio dell'imbarcazione o della nave fino alla data di presentazione del titolo di proprieta' di cui al comma 2.»; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                dopo il comma 1, e' inserito il seguente: «1-bis. In caso di domanda di iscrizione provvisoria di navi da diporto, il proprietario o l'utilizzatore del bene in locazione finanziaria, in nome e per conto del proprietario, munito di procura con sottoscrizione autenticata, allega, oltre la documentazione prevista dal comma 1, il certificato di stazza, anche provvisorio.»; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                al comma 3, le parole: «all'ufficio che li ha rilasciati» sono sostituite dalle seguenti: «a uno Sportello telematico del diportista (STED)».
+
 ## Art. 12. — Modifiche all'articolo 21 del decreto legislativo 18 luglio 2005, n. 171
+
+1.
+                    
+                        
+                            All'articolo 21 del decreto legislativo 18 luglio 2005, n. 171, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                la rubrica e' sostituita dalla seguente: «Cancellazione dall'Archivio telematico centrale delle unita' da diporto (ATCN)»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                il primo comma e' abrogato; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                al comma 2, le parole: «dai registri di iscrizione» sono sostituite dalle seguenti: «dall'Archivio telematico centrale delle unita' da diporto (ATCN)» e all'alinea dopo le parole: «puo' avvenire» sono aggiunte le seguenti: «, secondo le modalita' stabilite nel regolamento di attuazione del presente codice:»; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                dopo il comma 2, sono aggiunti i seguenti: 
+ «2-bis. Il proprietario che intende vendere all'estero la nave o l'imbarcazione o che, mantenendone la proprieta', intende cancellarla dall'Archivio telematico centrale delle unita' da diporto (ATCN) per l'iscrizione nei registri di un Paese estero deve presentare la richiesta, tramite lo Sportello telematico del diportista (STED), al conservatore unico (UCON) e deve ricevere il nulla osta alla dismissione di bandiera da parte dello stesso. 
+ 2-ter. Il conservatore unico (UCON) rilascia il nulla osta alla dismissione di bandiera o alla demolizione di una unita' da diporto entro e non oltre trenta giorni dal ricevimento della richiesta. Ai fini del nulla osta alla dismissione di bandiera o alla demolizione di una nave o imbarcazione da diporto, si applica l'articolo 15 della legge 26 luglio 1984, n. 413. 
+ 2-quater. Ai fini dell'accertamento di cui all'articolo 15 della legge 26 luglio 1984, n. 413, decorso il termine di trenta giorni di cui al comma 2-ter, il nulla osta alla dismissione di bandiera o alla demolizione si intende comunque rilasciato.».
 
 ## Art. 13. — Modifiche all'articolo 22 del decreto legislativo 18 luglio 2005, n. 171
 
+1.
+                    
+                        
+                            All'articolo 22 del decreto legislativo 18 luglio 2005, n. 171, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 1, lettera a), dopo le parole: «licenza di navigazione,» sono inserite le seguenti: «anche provvisoria,»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 2, lettera a), dopo le parole: «licenza di navigazione» sono inserite le seguenti: «, anche provvisoria,» e le parole: «rilasciata dal costruttore o da un suo mandatario stabilito nel territorio dell'Unione europea, ovvero da attestazione di idoneita' rilasciata da un organismo notificato ai sensi dell'articolo 10 o autorizzato ai sensi del decreto legislativo 3 agosto 1998, n. 314» sono sostituite dalle seguenti: «UE, rilasciata, ai sensi dell'allegato XIV del decreto legislativo 11 gennaio 2016, n. 5, da uno dei soggetti indicati nell'articolo 14, comma 3, del medesimo decreto ovvero da un'attestazione di idoneita' rilasciata da un organismo tecnico notificato ai sensi del decreto legislativo 11 gennaio 2016, n. 5, ovvero autorizzato ai sensi del decreto legislativo 14 giugno 2011, n. 104»; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                ai commi 1 e 2, le parole: «dall'ufficio che detiene il relativo registro» sono sostituite dalle seguenti: «dallo Sportello telematico del diportista (STED)».
+
 ## Art. 14. — Modifiche all'articolo 23 del decreto legislativo 18 luglio 2005, n. 171
 
+1.
+                    
+                        
+                            All'articolo 23 del decreto legislativo 18 luglio 2005, n. 171, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 1, le parole: «unita' da diporto» sono sostituite dalle seguenti: «navi e imbarcazioni da diporto, comprese le unita' da diporto utilizzate a fini commerciali,»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 2, dopo le parole: «e la sigla di iscrizione» sono inserite le seguenti: «ovvero il codice alfanumerico generato automaticamente dal Centro elaborazione dati su base nazionale per le unita' da diporto immatricolate alla data di entrata in vigore del regolamento di attuazione di cui all'articolo 1, comma 217 e seguenti, della legge 24 dicembre 2012, n. 228,» e le parole: «il nome del proprietario» sono sostituite dalle seguenti: «il nome o la denominazione sociale del soggetto proprietario» e le parole: «l'ufficio di iscrizione e» sono soppresse; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                al comma 5, le parole: «al competente ufficio» sono sostituite dalle seguenti: «allo Sportello telematico del diportista (STED)»; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                al comma 6, le parole: «dai rispettivi uffici di iscrizione» sono sostituite dalle seguenti: «dallo Sportello telematico del diportista (STED)».
+
 ## Art. 15. — Modifiche all'articolo 24 del decreto legislativo 18 luglio 2005, n. 171
+
+1.
+                    
+                        
+                            All'articolo 24 del decreto legislativo 18 luglio 2005, n. 171, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 1, le parole: «di cambio del numero e della sigla dell'ufficio di iscrizione ovvero» sono soppresse e dopo le parole: «dello scafo» sono inserite le seguenti: «, come definite nell'articolo 3, comma 1, lettera h), del decreto legislativo 11 gennaio 2016, n. 5» e dopo le parole: «dell'apparato motore», sono inserite le seguenti: «, come definite nell'articolo 3, comma 1, lettera g), del medesimo decreto»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                il comma 2 e' sostituito dal seguente: «2. La ricevuta dell'avvenuta presentazione dei documenti necessari per il rinnovo rilasciata dallo Sportello telematico del diportista (STED) sostituisce la licenza di navigazione per la durata massima di venti giorni. Lo sportello telematico del diportista (STED) rinnova la licenza di navigazione entro venti giorni dalla presentazione dei documenti.».
 
 ## Art. 16. — Dichiarazione di armatore
 
@@ -131,7 +491,78 @@ Dopo l'articolo 24 del decreto legislativo 18 luglio 2005, n. 171, e' inserito i
 
 ## Art. 17. — Modifiche all'articolo 25 del decreto legislativo 18 luglio 2005, n. 171
 
+1.
+                    
+                        
+                            All'articolo 25 del decreto legislativo 18 luglio 2005, n. 171, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                nella rubrica, la parola: «sigle» e' sostituita dalla seguente: «numeri» e dopo la parola: «individuazione» sono aggiunte le seguenti: «dell'unita'»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 1, le parole: «nei registri» sono sostituite dalle seguenti: «nell'Archivio telematico centrale delle unita' da diporto (ATCN)» e le parole: «dalla sigla dell'ufficio presso cui sono iscritte e dal numero di iscrizione» sono sostituite dalle seguenti: «da un numero di individuazione composto da un codice alfanumerico generato automaticamente dal Centro elaborazione dati su base nazionale costituito in sequenza da quattro caratteri alfabetici e da quattro caratteri numerici»; al secondo periodo la parola: «iscrizione» e' sostituita con la seguente: «individuazione»; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                dopo il comma 1, e' inserito il seguente: «1-bis. Le unita' gia' immatricolate alla data di entrata in vigore del regolamento di attuazione di cui all'articolo 1, comma 217 e seguenti, della legge 24 dicembre 2012, n. 228, possono conservare i numeri di iscrizione gia' assegnati. Nel caso previsto al precedente periodo si applica la lettera "X" di seguito ai predetti numeri di iscrizione.»; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                al comma 2, le parole: «delle sigle» sono sostituite dalle seguenti: «dei numeri»; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                al comma 3, la parola: «anche» e' soppressa e le parole: «nome che deve essere differente da ogni altro gia' registrato nel medesimo ufficio di iscrizione» sono sostituite dalle seguenti: «numero di iscrizione che puo' essere costituito, a richiesta, da una specifica combinazione alfanumerica a condizione che la stessa non sia gia' stata utilizzata per l'identificazione di altra unita' da diporto e che non risulti contraria all'ordine pubblico, alla moralita' pubblica e al buon costume.»; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                il comma 4 e' abrogato.
+
 ## Art. 18. — Modifiche all'articolo 26 del decreto legislativo 18 luglio 2005, n. 171
+
+1.
+                    
+                        
+                            All'articolo 26 del decreto legislativo 18 luglio 2005, n. 171, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                nella rubrica, dopo la parola: «sicurezza», sono inserite le seguenti: «e certificato di idoneita' al noleggio»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 1, le parole: «con decreto del Ministro delle infrastrutture e dei trasporti adottato ai sensi dell'articolo 17, comma 3, della legge 23 agosto 1988, n. 400» sono sostituite dalla seguenti: «dal regolamento di attuazione del presente codice»; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                dopo il comma 1, e' aggiunto il seguente: «1-bis. Il certificato di idoneita' al noleggio attesta lo stato di idoneita' dell'unita' al noleggio ed e' rilasciato dagli uffici circondariali marittimi e dagli uffici della motorizzazione civile. Il rilascio, il rinnovo e la convalida sono disciplinati dal regolamento di attuazione del presente codice.».
 
 ## Art. 19. — Controlli di sicurezza della navigazione da diporto
 
@@ -148,11 +579,103 @@ Dopo l'articolo 24 del decreto legislativo 18 luglio 2005, n. 171, e' inserito i
 
 ## Art. 20. — Modifiche all'articolo 27 del decreto legislativo 18 luglio 2005, n. 171
 
+1.
+                    
+                        
+                            All'articolo 27 del decreto legislativo 18 luglio 2005, n. 171, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 1, le parole: «lettera d)» sono sostituite dalle seguenti: «lettera f)» e le parole: «nei registri di cui all'articolo 15» sono sostituite dalle seguenti: «nell'Archivio telematico centrale delle unita' da diporto (ATCN)»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 2, le parole: «nei registri delle imbarcazioni da diporto» sono sostituite dalle seguenti: «nell'Archivio telematico centrale delle unita' da diporto (ATCN)»; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                al comma 3, lettera b), le parole: «dell'articolo 10 o autorizzato ai sensi del decreto legislativo 3 agosto 1998, n. 314» sono sostituite dalle seguenti: «del decreto legislativo 11 gennaio 2016, n. 5, o autorizzato ai sensi del decreto legislativo 14 giugno 2011, n. 104» e, alla lettera c), le parole: «tavole a vela» sono sostituite dalle seguenti: «tavole autopropulse o non autopropulse» e dopo le parole: «metri quadrati,» sono inserite le seguenti: «canoe, kajak»; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                al comma 4, le parole: «allegato II» sono sostituite dalle seguenti: «allegato I del decreto legislativo 11 gennaio 2016, n. 5, e, comunque, entro dodici miglia dalla costa»; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                al comma 6, e' aggiunto, in fine, il seguente periodo: «In caso di locazione di natanti da diporto a un soggetto privo della patente nautica, il locatore fornisce per iscritto al conduttore del natante le istruzioni essenziali per il comando dell'unita', redatte secondo lo schema-tipo stabilito dal regolamento di attuazione del presente codice.»; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                dopo il comma 6, sono aggiunti i seguenti: «6-bis.
+L'utilizzatore dei natanti da diporto utilizzati a fini commerciali di cui all'articolo 2, e' obbligato a: 
+ a) essere in possesso di patente nautica; 
+ b) imbarcare un numero di persone non superiore a quello che il natante e' abilitato a trasportare; 
+ c) imbarcare, in caso di noleggio, un numero di persone non superiore a dodici; 
+ d) dotare il natante dei mezzi di salvataggio e delle dotazioni di sicurezza richieste dal regolamento di attuazione del presente codice. 
+ 6-ter. Per l'utilizzatore di natanti da diporto oggetto di contratti di locazione, l'obbligo di cui al comma 6-bis, lettera a) ricorre nei soli casi previsti dall'articolo 39, commi 1, 3, 4 e 5.».
+
 ## Art. 21. — Modifiche all'articolo 28 del decreto legislativo 18 luglio 2005, n. 171
 
 All'articolo 28 del decreto legislativo 18 luglio 2005, n. 171, al comma 2, le parole: «il costruttore, ovvero il suo legale rappresentante o rivenditore autorizzato stabilito nell'Unione europea» sono sostituite dalle seguenti: «il fabbricante o il rappresentante autorizzato o l'importatore di cui all'articolo 3, comma 1, lettera v), del decreto legislativo 11 gennaio 2016, n. 5».
 
 ## Art. 22. — Modifiche all'articolo 29 del decreto legislativo 18 luglio 2005, n. 171
+
+1.
+                    
+                        
+                            All'articolo 29 del decreto legislativo 18 luglio 2005, n. 171, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                alla rubrica, dopo le parole: «apparati ricetrasmittenti di bordo» sono aggiunte le seguenti: «e dotazioni di sicurezza»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 4, le parole: «all'ufficio di iscrizione dell'unita'» sono sostituite dalle seguenti: «allo Sportello telematico del diportista (STED)»; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                ai commi 6 e 10, le parole: «Ministero delle comunicazioni» sono sostituite dalle seguenti: «Ministero dello sviluppo economico»; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                al comma 6, e' aggiunto, in fine, il seguente periodo: «Per i natanti da diporto, il rilascio della licenza di esercizio non e' subordinato ad alcun esame.»; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                dopo il comma 11, sono aggiunti i seguenti: «11-bis. Il conduttore dell'unita' da diporto e' responsabile degli obblighi di cui ai commi 1, 2 e 11 e di quelli previsti dal regolamento di attuazione del presente codice relativi al corretto utilizzo degli impianti e apparati ricetrasmittenti di bordo. 
+ 11-ter. Con il regolamento di attuazione del presente codice sono stabilite per le unita' da diporto, incluse le navi di cui all'articolo 3 della legge 8 luglio 2003, n. 172, che navigano nelle acque marittime e interne, le condizioni per il rilascio delle certificazioni di sicurezza e l'individuazione dei mezzi di salvataggio, nonche' le dotazioni di sicurezza minime che devono essere tenute a bordo, ivi compresi gli apparati ricetrasmittenti adeguati all'innovazione tecnologica.».
 
 ## Art. 23. — Modifiche all'articolo 30 del decreto legislativo 18 luglio 2005, n. 171
 
@@ -160,7 +683,72 @@ All'articolo 30 del decreto legislativo 18 luglio 2005, n. 171, comma 1, le paro
 
 ## Art. 24. — Modifiche all'articolo 31 del decreto legislativo 18 luglio 2005, n. 171
 
+1.
+                    
+                        
+                            All'articolo 31 del decreto legislativo 18 luglio 2005, n. 171, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 1, lettera b), le parole: «imbarcazioni o navi» sono sostituite dalla seguente: «unita'» e alla lettera c), le parole: «imbarcazioni o navi» sono sostituite dalla seguente: «unita'» e le parole: «saloni nautici internazionali» sono sostituite dalle seguenti: «fiere, saloni e altri eventi espositivi, anche all'estero.»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 2, le parole: «Il capo del circondario marittimo o il capo dell'ufficio provinciale del Dipartimento per i trasporti terrestri e per i sistemi informativi e statistici del Ministero delle infrastrutture e dei trasporti o, per le navi da diporto, il capo del compartimento marittimo, nella cui giurisdizione l'impresa ha sede principale o secondaria, rilasciano» sono sostituite dalle seguenti: «Lo Sportello telematico del diportista (STED) rilascia» e dopo le parole: «motori marini» sono inserite le seguenti: «, ai mediatori del diporto, alle aziende di assemblaggio e di allestimento di unita' da diporto»; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                al comma 4, e' aggiunto, in fine, il seguente periodo: «L'atto di autorizzazione abilita anche alla navigazione in acque territoriali straniere per il periodo di tempo necessario alla partecipazione a fiere, saloni e altri eventi espositivi.»; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                dopo il comma 4, e' inserito il seguente: «4-bis.
+L'autorizzazione di cui al comma 2 e' rinnovabile ogni due anni con annotazione sull'originale e riporta l'annotazione delle attivita' commerciali di cui al comma 1.»; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                al comma 6, e' aggiunto, in fine, il seguente periodo: «In tali casi, e' richiesto il solo requisito del possesso della patente nautica di cui all'articolo 39 del presente codice, in deroga alle disposizioni recanti l'istituzione e la disciplina dei titoli professionali del diporto.»; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                dopo il comma 6, e' aggiunto il seguente: «6-bis. In caso di esecuzione di prove a mare per verificare l'efficienza di scafi o motori e qualora si tratti di unita' da diporto di lunghezza superiore a ventiquattro metri, il titolare dell'autorizzazione provvede, con oneri a proprio carico, a garantire la presenza a bordo di una persona in possesso del certificato "First Aid" ovvero di quello "Medical care", a seconda che l'unita' sia rispettivamente in grado di raggiungere o meno una postazione medica entro tre ore di navigazione.».
+
 ## Art. 25. — Modifiche all'articolo 32 del decreto legislativo 18 luglio 2005, n. 171
+
+1.
+                    
+                        
+                            All'articolo 32 del decreto legislativo 18 luglio 2005, n. 171, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 1, alinea, dopo la parola «rilasciata» sono inserite le seguenti: «, anche in lingua inglese se richiesto,» e, alla lettera b), le parole: «, dal quale risulti la specifica attivita' di cantiere navale, di costruttore di motori marini oppure di azienda di vendita di imbarcazioni o navi da diporto o di motori marini per il diporto» sono sostituite dalle seguenti: «o dichiarazione sostitutiva di certificazione, da cui risulti la specifica attivita', di cui all'articolo 31, comma 2, del presente codice»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                il comma 2 e' abrogato.
 
 ## Art. 26. — Modifiche all'articolo 33 del decreto legislativo 18 luglio 2005, n. 171
 
@@ -179,9 +767,62 @@ Dopo l'articolo 36 del decreto legislativo 18 luglio 2005, n. 171, e' inserito i
 
 ## Art. 28. — Modifiche all'articolo 38 del decreto legislativo 18 luglio 2005, n. 171
 
+1.
+                    
+                        
+                            All'articolo 38 del decreto legislativo 18 luglio 2005, n. 171, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 1, dopo le parole: «da diporto» sono inserite le seguenti: «e da diporto utilizzate a fini commerciali» e dopo le parole: «richiesto dal proprietario» sono inserite le seguenti: «o dall'armatore»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                dopo il comma 1, e' aggiunto il seguente: «1-bis. Per i marittimi imbarcati sulle imbarcazioni da diporto oggetto di contratti di noleggio appartenenti al medesimo armatore e' consentita la rotazione sulle predette unita' senza la prevista annotazione di imbarco e sbarco. In tale caso e' fatto obbligo all'armatore di comunicare, nello stesso giorno in cui avviene la predetta rotazione, all'autorita' marittima competente la composizione effettiva dell'equipaggio di ciascuna unita'.».
+
 ## Art. 29. — Modifiche e integrazioni al capo IV del titolo II del decreto legislativo 18 luglio 2005, n. 171
 
 Alla rubrica del capo IV del titolo II del decreto legislativo 18 luglio 2005, n. 171, le parole: «Obbligo di patente» sono sostituite dalle seguenti: «Patenti nautiche».
+
+2.
+                    
+                        
+                            All'articolo 39 del decreto legislativo 18 luglio 2005, n. 171, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 1, la lettera b) e' sostituita dalla seguente: «b) per la navigazione nelle acque interne e per la navigazione nelle acque marittime entro sei miglia dalla costa, quando a bordo dell'unita' e' installato un motore di cilindrata superiore a 750 cc se a carburazione o iniezione a due tempi, o a 1.000 cc se a carburazione o a iniezione a quattro tempi fuori bordo, o a 1.300 cc se a carburazione o a iniezione a quattro tempi entro bordo, o a 2.000 cc se a ciclo diesel non sovralimentato, o a 1.300 cc se a ciclo diesel sovralimentato, comunque con potenza superiore a 30 kW o a 40,8 CV.»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                il comma 6 e' sostituito dal seguente: «6. La patente nautica si distingue nelle seguenti categorie: 
+ a) Categoria A: abilitazione al comando di natanti, imbarcazioni da diporto e moto d'acqua; 
+ b) Categoria B: abilitazione al comando di navi da diporto; 
+ c) Categoria C: abilitazione alla direzione nautica di natanti e imbarcazioni da diporto; 
+ d) Categoria D: abilitazione speciale al comando di natanti e imbarcazioni da diporto.»; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                dopo il comma 6, sono aggiunti i seguenti: «6-bis. Le patenti nautiche di categoria A, B e C possono presentare prescrizioni, anche relative alla durata della propria validita', conseguenti all'esito degli accertamenti medici di idoneita' psichica e fisica in sede di rilascio o di convalida delle stesse. Nelle patenti nautiche di Categoria D vi possono essere limitazioni relative alle caratteristiche dello scafo, alla potenza dei motori installati, ai limiti di navigazione, anche entro specifiche distanze dalla costa, e alle condizioni meteomarine. Nelle stesse vi possono essere prescrizioni relative alla durata della validita', anche conseguenti all'esito degli accertamenti medici di idoneita' psichica e fisica in sede di rilascio o di convalida delle stesse, nonche' all'utilizzo di specifici adattamenti. Le limitazioni e le prescrizioni sono riportate sulla patente nautica. Con il regolamento di attuazione del presente codice sono stabiliti i requisiti psico-fisici, per il conseguimento e il rinnovo delle patenti nautiche A, B, C e D. Con il medesimo regolamento sono stabiliti i requisiti psico-fisici per il rilascio e il rinnovo delle patenti nautiche A, B e C anche a persone con disabilita' motoria e sensoriale. 
+ 6-ter. Le patenti nautiche di Categoria A e B sono conseguite senza esami da: 
+ a) gli ufficiali della Marina militare del Corpo di stato maggiore e del Corpo delle capitanerie di porto in servizio permanente; 
+ b) gli ufficiali del Corpo della Guardia di finanza in possesso di specializzazione di comandante di unita' navale rilasciata dai comandi della Guardia di finanza; 
+ c) i sottufficiali delle Forze armate, incluso il Corpo delle capitanerie di porto, e delle Forze di polizia in possesso di abilitazione alla condotta di unita' navali d'altura o del brevetto per la condotta di mezzi navali della Marina militare senza alcun limite dalla costa o dalla unita' madre rilasciati dalla Marina militare che abbiano comandato tale tipo di unita' per almeno dodici mesi. 
+ 6-quater. La patente nautica di Categoria A e' conseguita senza esami dal personale delle Forze armate, delle Forze di polizia e del Corpo nazionale dei vigili del fuoco, in servizio permanente o ufficiale ausiliario o volontario di truppa in ferma breve o prefissata, abilitato al comando navale ed alla condotta dei mezzi nautici da parte della Marina militare, secondo i criteri stabiliti dal regolamento di attuazione del presente codice. La stessa patente puo' essere conseguita senza esami dal personale militare della Guardia di finanza in servizio permanente o in ferma volontaria, in possesso di abilitazione al comando di unita' navale rilasciata dai comandi della Guardia di finanza, secondo i criteri stabiliti dal regolamento di attuazione del presente codice. 
+ 6-quinquies. La facolta' di cui ai commi 6-ter e 6-quater e' esercitata entro un anno dalla cessazione dal servizio, fermo il possesso dei requisiti fisici, psichici e morali previsti dal regolamento di attuazione al presente codice.».
 
 ## Art. 30. — Anagrafe nazionale delle patenti nautiche
 
@@ -206,7 +847,57 @@ Dopo l'articolo 39 del decreto legislativo 18 luglio 2005, n. 171 e' inserito il
 
 ## Art. 31. — Modifiche all'articolo 41 del decreto legislativo 18 luglio 2005, n. 171
 
+1.
+                    
+                        
+                            All'articolo 41 del decreto legislativo 18 luglio 2005, n. 171, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                ai commi 1 e 2, le parole: «della legge 24 dicembre 1969, n. 990» sono sostituite dalle seguenti: «del decreto legislativo 7 settembre 2005, n. 209»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 3, le parole: «L'articolo 6 della legge 24 dicembre 1969, n. 990» sono sostituite dalle seguenti: «L'articolo 125 del decreto legislativo 7 settembre 2005, n. 209»; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                dopo il comma 3, e' aggiunto il seguente: «3-bis. Le disposizioni di cui ai commi 1, 2 e 3 si applicano alle unita' da diporto utilizzate a fini commerciali di cui all'articolo 2 del presente codice, con l'obbligo di assicurazione della responsabilita' per danni riportati dal conduttore e dalle persone trasportate.».
+
 ## Art. 32. — Modifiche all'articolo 49-bis del decreto legislativo 18 luglio 2005, n. 171
+
+1.
+                    
+                        
+                            All'articolo 49-bis del decreto legislativo 18 luglio 2005, n. 171, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 1, la parola: «titolare» e' sostituita dalla seguente: «proprietario» e dopo le parole: «articolo 3, comma 1,» sono inserite le seguenti: «iscritte nei registri nazionali,»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 3, dopo le parole: «mediante modalita' telematiche», sono inserite le seguenti: «e comunque finalizzate alla semplificazione degli adempimenti»; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                dopo il comma 3, e' inserito il seguente: «3-bis. Il contratto di noleggio deve essere tenuto a bordo in originale o copia conforme.».
 
 ## Art. 33.
 
@@ -362,6 +1053,63 @@ Dopo il Capo II-bis del Titolo III del decreto legislativo 18 luglio 2005, n. 17
 Alla vigilanza amministrativa e tecnica sulle associazioni nautiche e sugli enti di cui al comma 1 provvede il Ministero delle infrastrutture e dei trasporti.
 
 I centri di istruzione per la nautica devono svolgere l'attivita' di formazione dei candidati agli esami per il conseguimento delle patenti nautiche di qualsiasi categoria, possedere una adeguata attrezzatura tecnica e didattica, disporre degli insegnanti di cui all'articolo 49-septies, comma 7, nonche' di una adeguata unita' da diporto, secondo quanto stabilito dal regolamento di attuazione del presente codice.
+
+4.
+                    
+                        
+                            L'attivita' delle articolazioni dei centri di istruzione per la nautica e' sospesa per un periodo da uno a tre mesi quando: 
+ 
+                        
+                        
+                            a)
+                            
+                                non si svolge regolarmente; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                il rappresentante legale non provvede alla sostituzione degli insegnanti o degli istruttori che non sono piu' in possesso dei requisiti di cui all'articolo 49-septies, comma 7; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                il rappresentante legale non ottempera alle disposizioni date dal Direttore generale della Direzione Generale territoriale dei trasporti e dal Capo del compartimento marittimo territorialmente competenti ai fini del regolare funzionamento del centro di istruzione.
+
+5.
+                    
+                        
+                            L'esercizio delle articolazioni del centro di istruzione per la nautica e' revocato quando: 
+ 
+                        
+                        
+                            a)
+                            
+                                sono venuti meno i requisiti morali del rappresentante legale e la capacita' finanziaria; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                viene meno l'attrezzatura tecnica o l'attrezzatura didattica oppure la disponibilita' dell'adeguata unita' da diporto di cui al comma 3; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                sono stati adottati piu' di due provvedimenti di sospensione in un quinquennio; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                l'istruzione e la formazione dei canditati per il conseguimento delle patenti nautiche e' impartita a fine di lucro o al di fuori di quanto disciplinato dal presente articolo.
 
 In caso di revoca per sopravvenuta carenza dei requisiti morali del rappresentante legale, a quest'ultimo e' parimenti revocata l'idoneita' tecnica. L'interessato puo' conseguire una nuova idoneita' trascorsi cinque anni dalla revoca oppure a seguito di intervenuta riabilitazione.
 
@@ -656,7 +1404,85 @@ All'articolo 60 del decreto legislativo 18 luglio 2005, n. 171, al comma 2, dopo
 
 ## Art. 50. — Modifiche all'articolo 63 del decreto legislativo 18 luglio 2005, n. 171
 
+1.
+                    
+                        
+                            All'articolo 63 del decreto legislativo 18 luglio 2005, n. 171 sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                dopo il comma 1, e' inserito il seguente: «1-bis. Per le prestazioni e i servizi, diversi da quelli previsti dal comma 1, erogati attraverso il Sistema telematico centrale della nautica da diporto (SISTE), gli interessati sono tenuti al pagamento dei diritti previsti con decreto del Ministro delle infrastrutture e dei trasporti, adottato di concerto con il Ministro dell'economia e delle finanze.»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 2, dopo le parole: «previsti dal comma 1» sono inserite le seguenti: «e 1-bis»; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                al comma 3 le parole: «al comma 2» sono sostituite dalle seguenti: «ai commi 1-bis e 2»; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                dopo il comma 3, e' inserito il seguente: «3-bis. Gli introiti derivanti dai diritti previsti dal comma 1-bis affluiscono a un apposito capitolo dello stato di previsione dell'entrata del bilancio dello Stato, per essere interamente riassegnati, con decreto del Ministro dell'economia e delle finanze, su specifico capitolo di spesa del Ministero delle infrastrutture e dei trasporti per il funzionamento del Sistema telematico centrale della nautica da diporto (SISTE).».
+
 ## Art. 51. — Modifiche all'articolo 65 del decreto legislativo 18 luglio 2005, n. 171
+
+1.
+                    
+                        
+                            All'articolo 65, comma 1, del decreto legislativo 18 luglio 2005, n. 171, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                alla lettera a) le parole: «nei registri» sono sostituite dalle seguenti: «nell'Archivio telematico centrale delle unita' da diporto (ATCN)»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                la lettera b) e' sostituita dalla seguente: «b) procedure relative alla cancellazione delle unita' da diporto dall'Archivio telematico centrale delle unita' da diporto (ATCN)»; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                la lettera d) e' sostituita dalla seguente: «d) procedimento per il rilascio e il rinnovo dei documenti delle unita' da diporto attraverso il Sistema telematico centrale della nautica da diporto (SISTE);»; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                la lettera h) e' abrogata; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                alla lettera l) le parole: «procedura di rilascio dell'autorizzazione alla» sono soppresse; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                la lettera m) e' sostituita dalla seguente: «m) disciplina relativa ai procedimenti amministrativi gestiti attraverso lo Sportello telematico del diportista (STED) e del relativo regolamento di attuazione.».
 
 ## Art. 52. — Modifiche all'allegato VIII del decreto legislativo 18 luglio 2005, n. 171
 
@@ -676,13 +1502,315 @@ All'articolo 2, comma 1, lettera c), del decreto del Presidente della Repubblica
 
 ## Art. 56. — Modifiche al decreto legislativo 24 marzo 2011, n. 53
 
+1.
+                    
+                        
+                            Al decreto legislativo 24 marzo 2011, n. 53, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                all'articolo 2, comma 1, la lettera f) e' sostituita dalla seguente: «f) interfaccia nave/porto: le interazioni che hanno luogo quando una nave e' direttamente e immediatamente interessata da attivita' che comportano il movimento di persone o di merci o la fornitura di servizi portuali verso la nave o dalla nave, con esclusione delle operazioni e dei servizi portuali di cui alla legge 28 gennaio 1994, n. 84;»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                all'articolo 3, comma 1, primo periodo, dopo la parola: «navi» sono inserite le seguenti: «e alle unita' da diporto utilizzate a fini commerciali».
+
 ## Art. 57. — Modifiche alla legge 8 luglio 2003, n. 172
 
 All'articolo 3, comma 1, della legge 8 luglio 2003, n. 172, le parole: «e comunque di stazza lorda non superiore alle 1000 tonnellate» sono soppresse.
 
 ## Art. 58. — Modifiche al decreto legislativo 11 gennaio 2016, n. 5
 
+1.
+                    
+                        
+                            Al decreto legislativo 11 gennaio 2016, n. 5, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                dopo l'articolo 19, e' inserito il seguente: 
+ 
+ «Art. 19-bis. 
+ 
+ Compartimenti motori e motori alimentati 
+ con combustibili alternativi 
+ 
+ 1. La normativa tecnica regolante i sistemi di alimentazione e relativi motori di propulsione alimentati con gas di petrolio liquefatto, gas naturale liquefatto, metano ed elettrici su unita' da diporto, di nuova costruzione o gia' immessi sul mercato, e' conforme alla regola tecnica elaborata nel rispetto della normativa europea o, in mancanza di questa, della normativa internazionale di riferimento, individuata secondo i criteri stabiliti nel decreto di cui al comma 4. 
+ 2. Il fabbricante o l'importatore di cui agli articoli 6 e 8 del presente decreto sono responsabili della conformita' del sistema di alimentazione alternativo. Le imprese che costruiscono unita' da diporto con i sistemi di alimentazione e i motori di propulsione di cui al comma 1 o che provvedono alla loro installazione sono responsabili della loro sistemazione a bordo. 
+ 3. I certificati e le dichiarazioni previste per le operazioni periodiche di ispezione, sostituzione e controllo previsti dalla regola tecnica di cui al comma 1 sono documenti di bordo. 
+ 4. Con uno o piu' decreti da adottare in relazione alle specificita' dei diversi sistemi alternativi di propulsione di cui al comma 1, ai sensi dell'articolo 17, comma 3, della legge 23 agosto 1988, n. 400, il Ministro delle infrastrutture e dei trasporti, di concerto con il Ministro dello sviluppo economico e il Ministro dell'ambiente e della tutela del territorio e del mare, disciplina: 
+ a) l'individuazione dei criteri della regola tecnica elaborata nel rispetto della normativa internazionale; 
+ b) le procedure connesse all'applicazione delle regole tecniche di cui al comma 1 alle unita' da diporto; 
+ c) i requisiti che deve possedere l'impresa installatrice di cui al comma 2; 
+ d) l'adozione da parte dell'impresa installatrice di un sistema di qualita' approvato da un organismo notificato e autorizzato ai fini della valutazione della conformita' dei sistemi di qualita' aziendali; 
+ e) le modalita' con cui l'organismo notificato di cui alla lettera d) effettua i controlli sul sistema di gestione della qualita' dell'impresa installatrice; 
+ f) procedure per l'immissione in commercio dei motori di propulsione di cui al comma 1, comprensive delle norme di sicurezza in materia; 
+ g) procedure per la conversione alle alimentazioni con gas di petrolio liquefatto, gas naturale liquefatto, metano ed elettrici o a doppia alimentazione delle unita' da diporto e dei relativi motori di propulsione gia' immessi sul mercato; 
+ h) le operazioni di controllo periodico sugli impianti di cui al comma 1, nonche' l'istituzione di una apposita dichiarazione rilasciata dal personale preposto a tali controlli; 
+ i) le procedure per l'istituzione presso l'amministrazione competente di un elenco delle imprese installatrici; 
+ l) l'obbligo per le imprese installatrici di informare l'amministrazione competente del possesso dei requisiti di cui alla lettera c).»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                all'articolo 20, comma 1, le parole: «d) ed e)» sono sostituite dalle seguenti: «e) ed f)»; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                all'articolo 31, comma 5, il secondo periodo e' soppresso; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                all'articolo 39, comma 3, le parole: «, qualora abbiano sufficienti ragioni per ritenere che un prodotto oggetto del presente decreto rappresenti un rischio per la salute o la sicurezza delle persone, per le cose o per l'ambiente,» sono soppresse; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                all'allegato II, il punto 1) e' sostituito dal seguente: «1) Componentistica protetta dai rischi di accensione di miscele di gas infiammabili negli spazi destinati ai motori entrobordo ed entrofuoribordo a benzina e ai serbatoi della benzina;».
+
 ## Art. 59. — Disposizioni attuative e abrogative
+
+1.
+                    
+                        
+                            Con decreto, ai sensi dell'articolo 17, comma 3, della legge 23 agosto 1988, n. 400, da adottare entro sei mesi dalla data di entrata in vigore del presente decreto, il Ministro delle infrastrutture e dei trasporti, di concerto con i Ministri degli affari esteri e della cooperazione internazionale, della giustizia, della difesa, dell'economia e delle finanze, dello sviluppo economico, dell'ambiente e della tutela del territorio e del mare, del lavoro e delle politiche sociali, il Ministro dell'istruzione, dell'universita' e della ricerca, dei beni e delle attivita' culturali e del turismo, della salute, per la semplificazione e la pubblica amministrazione e con il Ministro per gli affari regionali e previa acquisizione del parere del Garante per la protezione dei dati personali, modifica la disciplina prevista dal regolamento di attuazione del decreto legislativo 18 luglio 2005, n. 171, al fine di disciplinare secondo criteri di semplificazione dei procedimenti amministrativi, le materie di seguito indicate: 
+ 
+                        
+                        
+                            a)
+                            
+                                definizione delle procedure e delle modalita' per l'iscrizione delle unita' da diporto e delle unita' da diporto utilizzate a fini commerciali, ivi compresa la disciplina relativa alla loro iscrizione provvisoria; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                definizione delle modalita' di presentazione dell'istanza di perdita e di rientro in possesso dell'unita' da diporto; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                individuazione delle procedure di trasferimento, di cancellazione dai registri, anche per passaggio alla categoria dei natanti, di dismissione di bandiera per trasferimento o vendita all'estero, nonche' di cessione a favore di terzi del contratto di leasing e individuazione delle procedure per l'iscrizione delle imbarcazioni e delle navi nel registro navi in costruzione, anche per l'Archivio telematico centrale delle unita' da diporto (ATCN); 
+
+                            
+                        
+                        
+                            d)
+                            
+                                definizione delle modalita' del processo verbale di dichiarazione e revoca di armatore; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                LETTERA ABROGATA DAL D.LGS. 12 NOVEMBRE 2020, N. 160; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                definizione delle procedure e delle modalita' relative al rilascio, rinnovo e convalida del certificato di idoneita' al noleggio; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                sicurezza delle navigazione delle unita' da diporto in mare e nelle acque interne e delle unita' utilizzate a fini commerciali-commercial yacht; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                per le unita' da diporto e le navi di cui all'articolo 3 della legge 8 luglio 2003, n. 172, che navigano nelle acque marittime e interne, le condizioni per il rilascio delle certificazioni di sicurezza e l'individuazione dei mezzi di salvataggio e l'individuazione delle equivalenze e delle esenzioni ai fini della sicurezza della navigazione, nonche' le dotazioni di sicurezza minime che devono essere tenute a bordo in relazione ai diversi tipi di navigazione, con particolare riguardo alla navigazione in solitario, anche nel caso di navigazione limitata all'area di ricerca e soccorso nazionale se in presenza di strumenti elettronici per la localizzazione, ivi compresi gli apparati ricetrasmittenti adeguati all'innovazione tecnologica, ferma restando la validita' delle licenze di esercizio degli apparati stessi, gia' rilasciate ai sensi dell'articolo 29, comma 4, del decreto legislativo 18 luglio 2005, n. 171, nonche' gli apparati di comunicazione; 
+
+                            
+                        
+                        
+                            i)
+                            
+                                disciplina dei requisiti soggettivi, fisici, psichici e morali per il conseguimento, la convalida e la revisione delle patenti nautiche, anche a favore di persone con disabilita' fisica, psichica o sensoriale, ovvero con disturbi specifici dell'apprendimento (DSA), nonche' delle modalita' di accertamento e di certificazione dei predetti requisiti; 
+
+                            
+                        
+                        
+                            l)
+                            
+                                LETTERA ABROGATA DAL D.L. 30 APRILE 2022, N. 36; 
+
+                            
+                        
+                        
+                            m)
+                            
+                                individuazione dei criteri per l'indicazione dei limiti di navigazione e di distanza dalla costa, anche diversificati per aree geografiche, stabiliti dai capi di compartimento marittimo con ordinanza di polizia marittima; 
+
+                            
+                        
+                        
+                            n)
+                            
+                                regime amministrativo dei documenti di navigazione, in particolare del libro unico di bordo di cui all'articolo 15-ter, del decreto legislativo 18 luglio 2005, n. 171, per le navi di cui all'articolo 3 della legge 8 luglio 2003, n. 172; 
+
+                            
+                        
+                        
+                            o)
+                            
+                                LETTERA ABROGATA DAL D.LGS. 12 NOVEMBRE 2020, N. 160; 
+
+                            
+                        
+                        
+                            p)
+                            
+                                disciplina del deposito della licenza di navigazione o dell'atto di nazionalita' presso la competente autorita' doganale, in relazione alle previsioni del regolamento (CE) 9 ottobre 2013, n. 952, del Parlamento europeo e del Consiglio, che istituisce il codice doganale dell'Unione, per quanto applicabile; 
+
+                            
+                        
+                        
+                            q)
+                            
+                                LETTERA ABROGATA DAL D.L. 30 APRILE 2022, N. 36; 
+
+                            
+                        
+                        
+                            r)
+                            
+                                LETTERA ABROGATA DAL D.L. 30 APRILE 2022, N. 36; 
+
+                            
+                        
+                        
+                            s)
+                            
+                                definizione di uno schema-tipo delle istruzioni essenziali per il comando dei natanti da diporto che il locatore e' tenuto a rilasciare per iscritto al locatario dell'unita' da diporto che non sia in possesso di patente nautica; 
+
+                            
+                        
+                        
+                            t)
+                            
+                                definizione dei criteri per l'individuazione della normativa tecnica europea e internazionale di riferimento per l'elaborazione della regola tecnica in materia di sistemi di alimentazione e relativi motori di propulsione alimentati con gas di petrolio liquefatto, gas naturale liquefatto, metano ed elettrici su unita' da diporto, di nuova costruzione o gia' immessi sul mercato; 
+
+                            
+                        
+                        
+                            u)
+                            
+                                modalita' e criteri di iscrizione delle navi che effettuano noleggio esclusivamente per finalita' turistiche di cui all'articolo 3, della legge 8 luglio 2003, n. 172, nel registro internazionale di cui all'articolo 1 del decreto-legge 30 dicembre 1997, n. 457, convertito, con modificazioni, dalla legge 27 febbraio 1998, n. 30; 
+
+                            
+                        
+                        
+                            v)
+                            
+                                modalita' e criteri di svolgimento del servizio di assistenza e traino e relativi requisiti tecnico-professionali degli operatori nonche' i requisiti dell'imbarcazione utilizzata; 
+
+                            
+                        
+                        
+                            z)
+                            
+                                individuazione delle modalita' di conseguimento della patente nautica senza esami; 
+
+                            
+                        
+                        
+                            aa)
+                            
+                                adozione ((dei principi)) del Passenger Yacht Code italiano, al fine di razionalizzare i requisiti e gli standard che devono essere soddisfatti dalle unita' da diporto che trasportano piu' di dodici ma non piu' di trentasei passeggeri in viaggi internazionali e che non trasportano cargo rispetto alle convenzioni internazionali.
+Il Passenger Yacht Code e' adottato, in particolare, nel rispetto dei seguenti criteri: 
+ 1) i requisiti e gli standard sono razionalizzati rispetto alle convenzioni Solas 74/78, LL 1966, Stcw 78/95/10, Tonnage 1969, Marpol 73/78, Colreg 1972, Mlc 2006, Ballast Water Management Convention 2004, International Convention on the Control of Harmful Anti-fouling Systems on Ships, International Convention on Civil Liability for Bunker Oil Pollution Damage 2001; 
+ 2) i principi generali delle convenzioni, di cui al precedente punto 1), assicurando equivalenze ed esenzioni, laddove l'applicazione delle previsioni delle convenzioni alle unita' da diporto non e' ragionevole o tecnicamente non praticabile; 
+
+                            
+                        
+                        
+                            bb)
+                            
+                                caratteristiche degli strumenti omologati da impiegare negli accertamenti relativi alla violazione dei limiti di velocita'. 
+
+                            
+                        
+                        
+                            bb-bis)
+                            
+                                disciplina della navigazione e dell'utilizzo delle unita' da diporto a controllo remoto, delle responsabilita' connesse e del regime assicurativo; 
+
+                            
+                        
+                        
+                            bb-ter)
+                            
+                                disciplina relativa all'annotazione sul ruolino di equipaggio, secondo criteri di semplificazione delle procedure e alla luce delle modalita' di comunicazione telematica, anche con riguardo alle unita' in acque estere.
+
+2.
+                    
+                        
+                            Entro sei mesi dalla data di entrata in vigore del presente decreto, sono adottati, ai sensi dell'articolo 17, comma 3, della legge 23 agosto 1988, n. 400: 
+ 
+                        
+                        
+                            a)
+                            
+                                il decreto di cui all'articolo 36-bis, comma 2, del decreto legislativo 18 luglio 2005, n. 171, come introdotto dall'articolo 27 del presente decreto; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                il decreto di cui all'articolo 49-quater, comma 13, del decreto legislativo 18 luglio 2005, n. 171, come introdotto dall'articolo 33 del presente decreto; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                il decreto di cui all'articolo 49-sexies, comma 10, del decreto legislativo 18 luglio 2005, n. 171, come introdotto dall'articolo 33 del presente decreto.
+
+3.
+                    
+                        
+                            Entro sei mesi dalla data di entrata in vigore del presente decreto, sono emanati: 
+ 
+                        
+                        
+                            a)
+                            
+                                il decreto di cui all'articolo 19-bis, comma 4, del decreto legislativo 11 gennaio 2016, n. 5, come introdotto dall'articolo 58 del presente decreto; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                il decreto di cui all'articolo 53-bis, comma 7, del decreto legislativo 18 luglio 2005, n. 171, come introdotto dall'articolo 38 del presente decreto.
 
 Fino alla data di entrata in vigore dei decreti di cui ai commi 1 e 2 del presente articolo continuano ad applicarsi le disposizioni vigenti.
 
@@ -690,11 +1818,121 @@ A decorrere dalla entrata in vigore del decreto di cui al comma 1 del presente a
 
 Entro sei mesi dalla data di entrata in vigore del presente decreto sono apportate le occorrenti modificazioni al regolamento previsto dall'articolo 11, comma 1, della legge 1 aprile 1981, n. 121.
 
+7.
+                    
+                        
+                            A decorrere dalla data di entrata in vigore del presente decreto sono abrogati i seguenti articoli del regolamento di cui all'articolo 65 del decreto legislativo 18 luglio 2005, n. 171: 
+ 
+                        
+                        
+                            a)
+                            
+                                articolo 32, commi 1, 2 e 3; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                articolo 42; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                articolo 43, commi 1 e 2; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                articolo 44.
+
 ## Art. 60. — Monitoraggio
+
+1.
+                    
+                        
+                            La Direzione generale per la vigilanza sulle Autorita' portuali, le infrastrutture portuali ed il trasporto marittimo e per vie d'acqua interne del Ministero delle infrastrutture e dei trasporti cura con cadenza biennale, a decorrere dal 1° gennaio 2018, il monitoraggio del presente decreto, tenendo conto dei seguenti indicatori: 
+ 
+                        
+                        
+                            a)
+                            
+                                occupati nell'indotto nautico globalmente considerato; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                piccole e medie imprese nel settore della nautica da diporto; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                contenzioso giurisdizionale e ricorsi amministrativi; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                immatricolazioni di nuove unita' da diporto; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                violazioni accertate relative al decreto legislativo 18 luglio 2005, n. 171; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                ordinanze-ingiunzione relative al decreto legislativo 18 luglio 2005, n. 171; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                dati e statistiche inerenti l'andamento generale del settore del diporto nautico.
 
 Ai fini del controllo e del monitoraggio di cui al comma 1, gli uffici marittimi di cui all'articolo 17 del codice della navigazione, tramite il Comando generale del Corpo delle capitanerie di porto, forniscono i dati in possesso relativi agli indicatori.
 
 ## Art. 61. — Disposizioni transitorie e finali
+
+1.
+                    
+                        
+                            Fino alla piena attuazione della disciplina applicativa del Sistema telematico centrale della nautica da diporto, istituito dall'articolo 1, commi da 217 a 222, della legge 24 dicembre 2012, n. 228, e all'adozione del decreto di cui all'articolo 63, comma 1-bis, del decreto legislativo 18 luglio 2005, n. 171: 
+ 
+                        
+                        
+                            a)
+                            
+                                le disposizioni del presente codice, riferite al Sistema telematico centrale della nautica da diporto (SISTE), allo Sportello telematico del diportista (STED), all'Archivio telematico centrale delle unita' da diporto (ATCN) e all'Ufficio di conservatoria centrale delle unita' da diporto (UCON) devono intendersi riferite agli organismi e procedure preesistenti all'entrata in funzione della predetta disciplina del Sistema telematico centrale della nautica da diporto; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                la ricevuta dell'avvenuta presentazione dei documenti necessari per la pubblicita' di cui all'articolo 17, comma 2, del decreto legislativo 18 luglio 2005, n. 171, e' rilasciata anche da uno studio di consulenza per la circolazione dei mezzi di trasporto; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                la ricevuta dell'avvenuta presentazione dei documenti necessari per il rinnovo della licenza di navigazione di cui all'articolo 24, comma 2, del decreto legislativo 18 luglio 2005, n. 171, e' rilasciata anche da uno studio di consulenza per la circolazione dei mezzi di trasporto.
 
 Fino alla data di entrata in vigore dei decreti di cui ai commi 1 e 2 dell'articolo 59 del presente decreto continuano ad applicarsi le disposizioni vigenti.
 

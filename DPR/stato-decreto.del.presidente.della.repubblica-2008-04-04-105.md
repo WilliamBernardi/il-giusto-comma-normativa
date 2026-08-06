@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: DPR
 vigenza_date: 2017-01-26
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:47:42Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -88,6 +88,31 @@ I periodi di assenza di cui al comma 1, limitatamente ai primi 18 mesi, non inte
 
 Sono fatte salve le vigenti norme di legge poste a tutela dei malati di TBC. In caso di donazione di organi, ivi compresa la donazione di midollo osseo, ovvero in caso di patologie gravi che richiedono terapie salvavita ed altre assimilabili, oppure terapie temporaneamente e/o parzialmente invalidanti, sono esclusi dal computo dei giorni di assenza per malattia i relativi giorni di ricovero ospedaliero o di day-hospital ed i giorni di assenza dovuti alle citate terapie, debitamente certificati dalla competente azienda sanitaria locale o struttura convenzionata. In tali giornate il funzionario della carriera prefettizia ha diritto, in ogni caso, alla retribuzione di cui al comma 6, lettera a).
 
+6.
+                    
+                        
+                            Il trattamento economico spettante al funzionario della carriera prefettizia nel periodo di conservazione del posto di cui al comma 1, e' il seguente:
+ 
+                        
+                        
+                            a)
+                            
+                                retribuzione costituita dalla componente stipendiale di base e dalla retribuzione di posizione, parte fissa e parte variabile, per i primi 9 mesi di assenza;
+
+                            
+                        
+                        
+                            b)
+                            
+                                90 per cento della retribuzione di cui alla lettera a) per i successivi 3 mesi di assenza;
+
+                            
+                        
+                        
+                            c)
+                            
+                                50 per cento della retribuzione di cui alla lettera a) per gli ulteriori 6 mesi di assenza.
+
 Nel caso in cui l'infermita' derivante da infortunio non dipendente da causa di servizio sia ascrivibile a responsabilita' di terzi, il funzionario della carriera prefettizia e' tenuto a dare comunicazione di tale circostanza all'Amministrazione, ai fini della rivalsa da parte di quest'ultima verso il terzo responsabile per la parte corrispondente alle retribuzioni erogate durante il periodo di assenza ai sensi del precedente comma 6 ed agli oneri riflessi relativi.
 
 In caso di assenza per invalidita' temporanea dovuta ad infortunio sul lavoro, il funzionario della carriera prefettizia ha diritto alla conservazione del posto fino alla completa guarigione clinica. Per l'intero periodo al funzionario della carriera prefettizia spetta la retribuzione costituita dalla componente stipendiale di base e dalla retribuzione di posizione, parte fissa e parte variabile.
@@ -135,6 +160,38 @@ Al funzionario della carriera prefettizia, dopo il rientro al lavoro a seguito d
 
 ## Art. 9. — Permessi per esigenze personali
 
+1.
+                    
+                        
+                            Il funzionario della carriera prefettizia ha diritto di assentarsi nei seguenti casi:
+ 
+                        
+                        
+                            a)
+                            
+                                partecipazione a concorsi od esami, limitatamente ai giorni di svolgimento delle prove ed al tempo strettamente necessario per il raggiungimento delle relative sedi di svolgimento delle stesse ovvero, previa intesa con il responsabile della struttura di appartenenza, a congressi, convegni, seminari e corsi di aggiornamento professionale facoltativo entro il limite complessivo di giorni otto per ciascun anno;
+
+                            
+                        
+                        
+                            b)
+                            
+                                decesso o documentata grave infermita' del coniuge anche legalmente separato o del convivente stabile o di un parente entro il secondo grado, anche non convivente, o di un affine di primo grado o di un soggetto componente la famiglia anagrafica del funzionario, in ragione di tre giorni lavorativi all'anno, anche frazionati, per evento. Tali giorni devono essere utilizzati entro sette giorni dal decesso o dall'accertamento della insorgenza della grave infermita' o della necessita' di provvedere a conseguenti specifici interventi terapeutici. Nel caso di grave infermita' dei soggetti di cui alla lettera b) del presente articolo il funzionario della carriera prefettizia, entro sette giorni dall'evento predetto, puo' concordare con il responsabile della struttura, in alternativa ai giorni di permesso, diverse modalita' di espletamento della attivita' lavorativa, anche per periodi superiori a tre giorni;
+
+                            
+                        
+                        
+                            c)
+                            
+                                in occasione del matrimonio per quindici giorni consecutivi;
+
+                            
+                        
+                        
+                            d)
+                            
+                                documentati motivi personali entro il limite complessivo di tre giorni per ciascun anno.
+
 Le assenze di cui al comma 1 possono cumularsi nell'anno solare, sono valutate agli effetti dell'anzianita' di servizio e non riducono il periodo di ferie disciplinato dall'articolo 5 del presente decreto.
 
 I predetti periodi di assenza non producono effetti sul trattamento economico del funzionario della carriera prefettizia.
@@ -152,6 +209,74 @@ Il periodo di assenza di cui al comma 1 e' cumulabile nell'anno solare con il co
 ## Art. 11. — Reperibilita'
 
 In relazione alla necessita' di garantire la salvaguardia delle esigenze connesse alla tutela dell'ordine e della sicurezza pubblica, del sistema della protezione civile e della difesa civile e degli altri diritti civili e politici costituzionalmente garantiti, il funzionario della carriera prefettizia assicura la reperibilita' durante le ore eccedenti l'orario di servizio nell'ambito dei principi e dei criteri indicati nel presente articolo.
+
+2.
+                    
+                        
+                            Gli uffici nei quali deve essere assicurata la reperibilita' sono individuati come segue:
+ 
+                        
+                        
+                            a)
+                            
+                                Prefetture - Uffici Territoriali del Governo, per le esigenze di cui al comma 1;
+
+                            
+                        
+                        
+                            b)
+                            
+                                Uffici di diretta collaborazione con il Ministro individuati nel decreto del Presidente della Repubblica 21 marzo 2002, n. 98, per le esigenze di:
+ 1) Ufficio di Gabinetto;
+ 2) Segreteria Speciale;
+ 3) Ufficio-Stampa e Comunicazione;
+ 4) Ufficio Affari legislativi e Relazioni parlamentari;
+
+                            
+                        
+                        
+                            c)
+                            
+                                Dipartimento per gli Affari Interni e Territoriali, per le esigenze di:
+ 1) Ufficio I: Gabinetto del Capo Dipartimento;
+
+                            
+                        
+                        
+                            d)
+                            
+                                Dipartimento della Pubblica Sicurezza, per le esigenze di:
+ 1) Segreteria del Dipartimento - Ufficio I: Ufficio Affari generali;
+ 2) Segreteria del Dipartimento - Ufficio II: Ufficio Analisi, Programmi e Documentazione;
+ 3) Direzione Centrale della Polizia Criminale - Ufficio II:
+Ufficio tecnico-giuridico e contenzioso;
+ 4) Direzione Centrale dell'Immigrazione e della Polizia di Frontiera;
+ 5) Direzione Centrale per la Polizia Stradale, Ferroviaria, delle Comunicazioni e per i Reparti Speciali della Polizia di Stato;
+
+                            
+                        
+                        
+                            e)
+                            
+                                Dipartimento per le Liberta' Civili e l'Immigrazione, per le esigenze di:
+ 1) Ufficio I: Gabinetto del Capo Dipartimento;
+ 2) Direzione Centrale per i Servizi Civili, per l'Immigrazione e Asilo;
+
+                            
+                        
+                        
+                            f)
+                            
+                                Dipartimento dei Vigili del Fuoco, del Soccorso Pubblico e della Difesa Civile, per le esigenze di:
+ 1) Ufficio I: Gabinetto del Capo Dipartimento;
+
+                            
+                        
+                        
+                            g)
+                            
+                                Dipartimento per le Politiche del Personale dell'Amministrazione Civile e per le Risorse Strumentali e Finanziarie, per le esigenze di:
+ 1) Ufficio I: Gabinetto del Capo Dipartimento.
 
 Salvo che nelle situazioni di emergenza, ciascun servizio di reperibilita' e' assicurato da un funzionario della carriera prefettizia attraverso la rotazione di tutti i funzionari in servizio presso i Dipartimenti e gli Uffici di cui al comma 2. I titolari degli uffici provvedono, avvalendosi di funzionari appositamente designati, all'addestramento di tutto il personale interessato.
 
@@ -264,11 +389,146 @@ I dirigenti sindacali, nell'esercizio delle loro funzioni, non sono soggetti ai 
 
 Gli accordi decentrati sono stipulati ai sensi dell'articolo 29, comma 6, del decreto legislativo 19 maggio 2000, n. 139, a livello centrale e periferico.
 
+2.
+                    
+                        
+                            L'accordo decentrato, da stipularsi a livello centrale, senza comportare alcun onere aggiuntivo, riguarda:
+ 
+                        
+                        
+                            a)
+                            
+                                individuazione di misure idonee a favorire la mobilita' di sede aggiuntive rispetto a quelle previste per i funzionari non assegnatari di alloggi da parte dell'amministrazione dell'interno;
+
+                            
+                        
+                        
+                            b)
+                            
+                                attuazione delle previsioni contenute nell'articolo 11, comma 5, in materia di reperibilita';
+
+                            
+                        
+                        
+                            c)
+                            
+                                criteri generali per l'utilizzo delle somme afferenti al fondo di cui all'articolo 20 del decreto del Presidente della Repubblica 23 maggio 2001, n. 316, ferme restando le modifiche ed integrazioni previste dall'articolo 15 del decreto del Presidente della Repubblica 1° agosto 2003, n. 252, dall'articolo 5 del decreto del Presidente della Repubblica 28 novembre 2005, n. 293 e dall'articolo 2 del decreto del Presidente della Repubblica 3 aprile 2006, n. 179, nonche' criteri generali per la verifica della sussistenza delle risorse finanziarie da destinare all'ulteriore potenziamento dello stesso;
+
+                            
+                        
+                        
+                            d)
+                            
+                                individuazione delle funzioni i cui titolari sono esonerati dallo sciopero, ai sensi della legge 12 giugno 1990, n. 146, e successive modifiche ed integrazioni;
+
+                            
+                        
+                        
+                            e)
+                            
+                                definizione della misura del trattamento accessorio, nell'ambito delle risorse finanziarie disponibili e senza oneri aggiuntivi, entro valori annui lordi per tredici mensilita' ricompresi negli importi minimi e massimi indicati rispettivamente all'articolo 22, comma 9, e all'articolo 23, comma 1, nei casi di variazione del decreto del Ministro dell'interno con il quale sono determinate le posizioni funzionali dei funzionari della carriera prefettizia;
+
+                            
+                        
+                        
+                            f)
+                            
+                                definizione della misura del trattamento accessorio, nell'ambito delle risorse finanziarie disponibili e senza oneri aggiuntivi, entro valori ricompresi negli importi minimi e massimi indicati rispettivamente all'articolo 22, comma 9, e all'articolo 23, comma 1, nelle fattispecie previste dall'articolo 22, comma 17.
+
+3.
+                    
+                        
+                            Accordi decentrati, da stipularsi a livello di uffici centrali e periferici, senza comportare alcun onere aggiuntivo, riguardano:
+ 
+                        
+                        
+                            a)
+                            
+                                verifica dell'applicazione dei criteri di valutazione ai fini dell'attribuzione della retribuzione di risultato;
+
+                            
+                        
+                        
+                            b)
+                            
+                                attuazione delle previsioni contenute nell'articolo 11, comma 6, in materia di reperibilita'.
+
 L'individuazione dei titolari degli uffici centrali e periferici componenti la delegazione di parte pubblica e' effettuata dall'Amministrazione dell'interno entro novanta giorni dalla data di entrata in vigore del presente decreto. L'Amministrazione dell'interno convoca le organizzazioni sindacali firmatarie dell'accordo di cui all'articolo 29, comma 1, del decreto legislativo 19 maggio 2000, n. 139, entro trenta giorni decorrenti dalla data di presentazione della richiesta.
 
 ## Art. 18. — Copertura assicurativa
 
+1.
+                    
+                        
+                            Ai fini della copertura assicurativa, di cui all'articolo 22, comma 3, del decreto legislativo 19 maggio 2000, n. 139, sono individuati i seguenti criteri:
+ 
+                        
+                        
+                            a)
+                            
+                                totale copertura a garanzia della responsabilita' civile, inerente le attivita' connesse a compiti istituzionali, derivante ai funzionari della carriera prefettizia per le perdite patrimoniali e/o danni involontariamente cagionati a terzi;
+
+                            
+                        
+                        
+                            b)
+                            
+                                estensione della copertura anche alle ulteriori attivita' che possono essere svolte dai predetti funzionari connesse ad incarichi direttamente o indirettamente riferibili a compiti e doveri d'ufficio;
+
+                            
+                        
+                        
+                            c)
+                            
+                                copertura degli oneri di patrocinio legale;
+
+                            
+                        
+                        
+                            d)
+                            
+                                retroattivita' e ultrattivita' della copertura assicurativa;
+
+                            
+                        
+                        
+                            e)
+                            
+                                previsione della possibilita' per il dirigente di aumentare i massimali e «area dei rischi» coperta con il versamento di una quota individuale aggiuntiva.
+
 ## Art. 19. — Struttura del trattamento economico
+
+1.
+                    
+                        
+                            La struttura del trattamento economico onnicomprensivo dei funzionari appartenenti alla carriera prefettizia e' articolata nelle seguenti componenti:
+ 
+                        
+                        
+                            a)
+                            
+                                stipendio tabellare;
+
+                            
+                        
+                        
+                            b)
+                            
+                                retribuzione individuale di anzianita' come risultante dall'articolo 19 del decreto del Presidente della Repubblica 23 maggio 2001, n. 316, nonche' quella gia' in godimento alla data del 16 giugno 2000 per i funzionari della carriera prefettizia di cui all'articolo 34, comma 1, lettera c), del decreto legislativo 19 maggio 2000, n. 139;
+
+                            
+                        
+                        
+                            c)
+                            
+                                retribuzione di posizione, parte fissa e parte variabile;
+
+                            
+                        
+                        
+                            d)
+                            
+                                retribuzione di risultato, in relazione ai risultati conseguiti.
 
 Al personale nominato o inquadrato alla qualifica di prefetto proveniente dai ruoli dirigenziali della Polizia di Stato, al fine di assicurare omogeneita' di indirizzo, e' riconosciuta la retribuzione individuale di anzianita' con le modalita' di cui all'articolo 19 del decreto del Presidente della Repubblica 23 maggio 2001, n. 316, riferita alla progressione economica per classi e scatti biennali e relativi ratei maturati alla data del 16 giugno 2000.
 
@@ -298,9 +558,446 @@ Lo stipendio tabellare di cui ai commi precedenti contiene ed assorbe l'indennit
 
 ## Art. 21. — Fondo per la retribuzione di posizione e la retribuzione di risultato
 
+1.
+                    
+                        
+                            Il fondo per la retribuzione di posizione e la retribuzione di risultato di cui all'articolo 20 del decreto del Presidente della Repubblica 23 maggio 2001, n. 316, ferme restando le modifiche ed integrazioni successivamente intervenute, continua ad essere definito con le modalita' ivi indicate ed e' alimentato dalle seguenti ulteriori risorse finanziarie:
+ 
+                        
+                        
+                            a)
+                            
+                                Euro 4,72 lordi mensili pro capite dal 1° gennaio 2006 al 31 dicembre 2006 per tredici mensilita';
+
+                            
+                        
+                        
+                            b)
+                            
+                                Euro 51,43 lordi mensili pro capite dal 1° gennaio 2007 al 30 dicembre 2007 per tredici mensilita';
+
+                            
+                        
+                        
+                            c)
+                            
+                                Euro 55,91 lordi mensili pro capite dal 31 dicembre 2007 per tredici mensilita'.
+
 Le risorse del fondo di cui al comma 1 eventualmente non utilizzate alla fine dell'esercizio finanziario sono riassegnate all'anno successivo.
 
 ## Art. 22. — Retribuzione di posizione
+
+1.
+                    
+                        
+                            La retribuzione di posizione - parte fissa e' stabilita nei seguenti importi annui lordi per tredici mensilita' a decorrere dal 1° gennaio 2006:
+ 
+                        
+                        
+                            a)
+                            
+                                posizioni funzionali della qualifica di prefetto:
+Euro 22.685,00;
+
+                            
+                        
+                        
+                            b)
+                            
+                                posizioni funzionali della qualifica di viceprefetto:
+Euro 12.855,00;
+
+                            
+                        
+                        
+                            c)
+                            
+                                posizioni funzionali della qualifica di viceprefetto aggiunto:
+Euro 6.729,00.
+
+2.
+                    
+                        
+                            La retribuzione di posizione - parte fissa e' stabilita nei seguenti importi annui lordi per tredici mensilita' a decorrere dal 1° gennaio 2007:
+ 
+                        
+                        
+                            a)
+                            
+                                posizioni funzionali della qualifica di prefetto:
+Euro 23.042,00;
+
+                            
+                        
+                        
+                            b)
+                            
+                                posizioni funzionali della qualifica di viceprefetto:
+Euro 13.085,00;
+
+                            
+                        
+                        
+                            c)
+                            
+                                posizioni funzionali della qualifica di viceprefetto aggiunto:
+Euro 6.852,00.
+
+3.
+                    
+                        
+                            La retribuzione di posizione - parte fissa e' stabilita nei seguenti importi annui lordi per tredici mensilita' a decorrere dal 1° febbraio 2007:
+ 
+                        
+                        
+                            a)
+                            
+                                posizioni funzionali della qualifica di prefetto:
+Euro 23.571,00;
+
+                            
+                        
+                        
+                            b)
+                            
+                                posizioni funzionali della qualifica di viceprefetto:
+Euro 13.425,00;
+
+                            
+                        
+                        
+                            c)
+                            
+                                posizioni funzionali della qualifica di viceprefetto aggiunto:
+Euro 7.032,00.
+
+4.
+                    
+                        
+                            La retribuzione di posizione - parte fissa e' stabilita nei seguenti importi annui lordi per tredici mensilita' a decorrere dal 31 dicembre 2007:
+ 
+                        
+                        
+                            a)
+                            
+                                posizioni funzionali della qualifica di prefetto:
+Euro 23.610,00;
+
+                            
+                        
+                        
+                            b)
+                            
+                                posizioni funzionali della qualifica di viceprefetto:
+Euro 13.449,00;
+
+                            
+                        
+                        
+                            c)
+                            
+                                posizioni funzionali della qualifica di viceprefetto aggiunto:
+Euro 7.046,00.
+
+5.
+                    
+                        
+                            A decorrere dal 1° gennaio 2006 la retribuzione di posizione, correlata alle posizioni funzionali individuate con il decreto del Ministro dell'interno in data 14 maggio 2003, e' rideterminata, nelle componenti parte fissa e parte variabile, nei seguenti importi annui lordi per tredici mensilita':
+ 
+                        
+                        
+                            a)
+                            
+                                posizione funzionale di cui all'articolo 3, lettera a):
+Euro 35.069,00;
+
+                            
+                        
+                        
+                            b)
+                            
+                                posizione funzionale di cui all'articolo 3, lettera b):
+Euro 30.351,00;
+
+                            
+                        
+                        
+                            c)
+                            
+                                posizione funzionale di cui all'articolo 3, lettera c):
+Euro 24.481,00;
+
+                            
+                        
+                        
+                            d)
+                            
+                                posizione funzionale di cui all'articolo 3, lettera d):
+Euro 23.095,00;
+
+                            
+                        
+                        
+                            e)
+                            
+                                posizione funzionale di cui all'articolo 3, lettera e):
+Euro 18.826,00;
+
+                            
+                        
+                        
+                            f)
+                            
+                                posizione funzionale di cui all'articolo 3, lettera f):
+Euro 15.134,00;
+
+                            
+                        
+                        
+                            g)
+                            
+                                posizione funzionale di cui all'articolo 3, lettera g):
+Euro 11.225,00.
+
+6.
+                    
+                        
+                            A decorrere dal 27 marzo 2006 la retribuzione di posizione, correlata alle posizioni funzionali individuate con il decreto del Ministro dell'interno in data 27 marzo 2006 e successive modifiche e integrazioni, e' rideterminata, nelle componenti parte fissa e parte variabile, nei seguenti importi annui lordi per tredici mensilita':
+ 
+                        
+                        
+                            a)
+                            
+                                posizione funzionale di cui all'articolo 3, lettera a):
+Euro 35.071,00;
+
+                            
+                        
+                        
+                            b)
+                            
+                                posizione funzionale di cui all'articolo 3, lettera b):
+Euro 30.352,00;
+
+                            
+                        
+                        
+                            c)
+                            
+                                posizione funzionale di cui all'articolo 3, lettera c):
+Euro 24.482,00;
+
+                            
+                        
+                        
+                            d)
+                            
+                                posizione funzionale di cui all'articolo 3, lettera d):
+Euro 23.096,00;
+
+                            
+                        
+                        
+                            e)
+                            
+                                posizione funzionale di cui all'articolo 3, lettera e):
+Euro 18.827,00;
+
+                            
+                        
+                        
+                            f)
+                            
+                                posizione funzionale di cui all'articolo 3, lettera f):
+Euro 15.134,00;
+
+                            
+                        
+                        
+                            g)
+                            
+                                posizione funzionale di cui all'articolo 3, lettera g):
+Euro 11.226,00.
+
+7.
+                    
+                        
+                            A decorrere dal 1° gennaio 2007 la retribuzione di posizione, correlata alle posizioni funzionali individuate con il decreto del Ministro dell'interno in data 27 marzo 2006 e successive modifiche e integrazioni, e' rideterminata, nelle componenti parte fissa e parte variabile, nei seguenti importi annui lordi per tredici mensilita':
+ 
+                        
+                        
+                            a)
+                            
+                                posizione funzionale di cui all'articolo 3, lettera a):
+Euro 35.493,00;
+
+                            
+                        
+                        
+                            b)
+                            
+                                posizione funzionale di cui all'articolo 3, lettera b):
+Euro 30.717,00;
+
+                            
+                        
+                        
+                            c)
+                            
+                                posizione funzionale di cui all'articolo 3, lettera c):
+Euro 24.777,00;
+
+                            
+                        
+                        
+                            d)
+                            
+                                posizione funzionale di cui all'articolo 3, lettera d):
+Euro 23.376,00;
+
+                            
+                        
+                        
+                            e)
+                            
+                                posizione funzionale di cui all'articolo 3, lettera e):
+Euro 19.056,00;
+
+                            
+                        
+                        
+                            f)
+                            
+                                posizione funzionale di cui all'articolo 3, lettera f):
+Euro 15.318,00;
+
+                            
+                        
+                        
+                            g)
+                            
+                                posizione funzionale di cui all'articolo 3, lettera g):
+Euro 11.361,00.
+
+8.
+                    
+                        
+                            A decorrere dal 1° febbraio 2007 la retribuzione di posizione, correlata alle posizioni funzionali individuate con il decreto del Ministro dell'interno in data 27 marzo 2006 e successive modifiche e integrazioni, e' rideterminata, nelle componenti parte fissa e parte variabile, nei seguenti importi annui lordi per tredici mensilita':
+ 
+                        
+                        
+                            a)
+                            
+                                posizione funzionale di cui all'articolo 3, lettera a):
+Euro 36.118,00;
+
+                            
+                        
+                        
+                            b)
+                            
+                                posizione funzionale di cui all'articolo 3, lettera b):
+Euro 31.258,00;
+
+                            
+                        
+                        
+                            c)
+                            
+                                posizione funzionale di cui all'articolo 3, lettera c):
+Euro 25.213,00;
+
+                            
+                        
+                        
+                            d)
+                            
+                                posizione funzionale di cui all'articolo 3, lettera d):
+Euro 23.791,00;
+
+                            
+                        
+                        
+                            e)
+                            
+                                posizione funzionale di cui all'articolo 3, lettera e):
+Euro 19.397,00;
+
+                            
+                        
+                        
+                            f)
+                            
+                                posizione funzionale di cui all'articolo 3, lettera f):
+Euro 15.590,00;
+
+                            
+                        
+                        
+                            g)
+                            
+                                posizione funzionale di cui all'articolo 3, lettera g):
+Euro 11.561,00.
+
+9.
+                    
+                        
+                            A decorrere dal 31 dicembre 2007 la retribuzione di posizione, correlata alle posizioni funzionali individuate con decreto del Ministro dell'interno in data 27 marzo 2006, e successive modifiche e integrazioni, e' rideterminata, nelle componenti parte fissa e parte variabile, nei seguenti importi annui lordi per tredici mensilita':
+ 
+                        
+                        
+                            a)
+                            
+                                posizione funzionale di cui all'articolo 3, lettera a):
+Euro 36.161,00;
+
+                            
+                        
+                        
+                            b)
+                            
+                                posizione funzionale di cui all'articolo 3, lettera b):
+Euro 31.296,00;
+
+                            
+                        
+                        
+                            c)
+                            
+                                posizione funzionale di cui all'articolo 3, lettera c):
+Euro 25.243,00;
+
+                            
+                        
+                        
+                            d)
+                            
+                                posizione funzionale di cui all'articolo 3, lettera d):
+Euro 23.819,00;
+
+                            
+                        
+                        
+                            e)
+                            
+                                posizione funzionale di cui all'articolo 3, lettera e) :
+Euro 19.421,00;
+
+                            
+                        
+                        
+                            f)
+                            
+                                posizione funzionale di cui all'articolo 3, lettera f):
+Euro 15.609,00;
+
+                            
+                        
+                        
+                            g)
+                            
+                                posizione funzionale di cui all'articolo 3, lettera g):
+Euro 11.575,00.
 
 Ai funzionari della carriera prefettizia, per il periodo intercorrente tra la data di conseguimento della qualifica superiore, e quella del conferimento dell'incarico connesso alla nuova qualifica, competono la retribuzione di posizione e la retribuzione di risultato nelle misure minime previste per la qualifica acquisita, salvo recupero delle maggiori somme corrisposte in caso di mancato superamento del corso.
 
@@ -370,6 +1067,31 @@ In caso di modifica del decreto del Ministro dell'interno in data 27 marzo 2006 
 Al funzionario prefettizio, per l'espletamento degli incarichi individuati dal decreto del Ministro dell'interno in data 27 marzo 2006 e successive modifiche e integrazioni, compete comunque un unico trattamento economico accessorio. Nei casi di temporaneo conferimento di un ulteriore o diverso incarico, nei casi di sostituzione a norma dell'articolo 10 del decreto legislativo 19 maggio 2000, n. 139, per periodi non inferiori a tre mesi, nonche' in quelli di conferimento temporaneo di incarico riconducibile a posizione funzionale superiore, limitatamente al periodo di espletamento degli stessi, la misura del trattamento accessorio e' definita in sede di accordi decentrati a livello centrale nell'ambito delle disponibilita' del fondo e senza oneri aggiuntivi.
 
 ## Art. 23. — Retribuzione di risultato
+
+1.
+                    
+                        
+                            Il Ministro dell'interno, con proprio decreto, all'inizio di ogni anno determina gli importi spettanti come retribuzione di risultato, da erogare mensilmente per tredici mensilita' ai funzionari prefettizi, ivi compresi quelli in servizio presso il Commissariato dello Stato della regione Siciliana, il Rappresentante dello Stato nella regione Sardegna, la Commissione di coordinamento della Valle d'Aosta ed il Commissariato del Governo per la regione Friuli-Venezia Giulia, tenendo conto delle risorse disponibili e degli obiettivi raggiunti nell'anno precedente, in relazione alle diverse qualifiche, per entrambi gli anni 2006 e 2007, nel rispetto dei seguenti parametri:
+ 
+                        
+                        
+                            a)
+                            
+                                per i prefetti: fino a un massimo di 100;
+
+                            
+                        
+                        
+                            b)
+                            
+                                per i viceprefetti: fino a un massimo di 75;
+
+                            
+                        
+                        
+                            c)
+                            
+                                per i viceprefetti aggiunti: fino a un massimo di 50.
 
 La misura della retribuzione di risultato verra' definita in sede di accordi decentrati a livello centrale, tenuto conto del sistema di valutazione di cui all'articolo 21 del decreto legislativo 19 maggio 2000, n. 139.
 

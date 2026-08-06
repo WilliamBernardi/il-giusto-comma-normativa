@@ -8,8 +8,8 @@ codice_redazionale: 000G0252
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:39Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -30,6 +30,29 @@ Effettuata la comunicazione al Presidente del Consiglio dei Ministri dello schem
 Il prefetto, sia d'ufficio che su richiesta della commissione straordinaria di cui all'articolo 15-bis, comma 4, della legge 19 marzo 1990, n. 55, svolge attivita' di assistenza e sostegno ai comuni commissariati ai sensi dello stesso articolo 15-bis, per la tempestiva attuazione dei progetti previsti dall'articolo 2, comma 2, della legge 28 agosto 1997, n. 285, avvalendosi anche del personale di cui agli articoli 1 e 4 del decreto legislativo 30 luglio 1990, n. 211.
 
 Per lo svolgimento dei compiti di cui al presente regolamento, il prefetto si avvale anche del comitato provinciale o comitato metropolitano della pubblica amministrazione, integrato secondo le modalita' previste dall'articolo 2-bis, comma 2, della legge 19 luglio 1991, n. 216, introdotto dall'articolo 3 della legge 27 luglio 1994, n. 465, fermo restando l'esercizio della facolta' prevista dall'articolo 17, comma 3, della legge 12 luglio 1991, n. 203.
+
+3.
+                    
+                        
+                            L'attivita' di assistenza e sostegno di cui al comma 1 si svolge, in particolare, con le seguenti modalita':
+
+                        
+                        
+                            a)
+                            
+                                consulenza tecnico-giuridica, nonche' attinente alle scelte di gestione, in relazione all'attuazione dei progetti di cui al precedente comma 1;
+                            
+                        
+                        
+                            b)
+                            
+                                indizione di riunioni periodiche e secondo le necessita' con i componenti della commissione straordinaria ed i soggetti pubblici e privati di cui all'articolo 2, comma 2, della legge n. 285 del 1997, coinvolti nell'attuazione dei progetti di cui al medesimo articolo, fermo restando l'eventuale esercizio del potere di vigilanza previsto dall'articolo 27, comma 6, della legge 8 giugno 1990, n. 142;
+                            
+                        
+                        
+                            c)
+                            
+                                verifiche presso le sedi operative in cui sono attuati i progetti, anche ai fini di cui all'articolo 2 del presente regolamento.
 
 ## Art. 2.
 

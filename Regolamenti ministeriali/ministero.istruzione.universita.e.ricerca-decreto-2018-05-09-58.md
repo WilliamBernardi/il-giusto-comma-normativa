@@ -8,8 +8,8 @@ vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
 vigenza_date: 2019-05-03
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:42Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -58,6 +58,31 @@ Il tirocinio pratico-valutativo e' superato solo in caso di conseguimento del gi
 
 La prova dell'esame di Stato per l'abilitazione di cui all'articolo 1 consiste nella soluzione di 200 quesiti a risposta multipla, di cui una sola corretta, articolati in 50 formulati su argomenti riguardanti le conoscenze di base nella prospettiva della loro successiva applicazione professionale, con particolare riguardo ai meccanismi fisiopatologici e alle conoscenze riguardanti la clinica, la prevenzione e la terapia; in 150 formulati su argomenti riguardanti le capacita' del candidato nell'applicare le conoscenze biomediche e cliniche alla pratica medica e nel risolvere questioni di deontologia professionale e di etica medica. La prova include anche una serie di domande riguardanti problemi clinici afferenti alle aree della medicina e della chirurgia, e delle relative specialita', della pediatria, dell'ostetricia e ginecologia, della diagnostica di laboratorio e strumentale, e della sanita' pubblica.
 Alle risposte positive e' attribuito un punteggio di + 1, alle risposte non date di 0, a quelle errate un punteggio negativo pari a -0,25. Per la predisposizione dei quesiti il Ministero dell'istruzione, dell'universita' e della ricerca si avvale di apposita Commissione nazionale di esperti.
+
+2.
+                    
+                        
+                            La Commissione nazionale di esperti di cui al comma 1 e' costituita con decreto del Ministro dell'istruzione, dell' universita' e della ricerca, resta in carica tre anni ed e' composta, tenuto conto di quanto previsto dall'articolo 57, comma 1, lettera a) del decreto legislativo 30 marzo 2001, n. 165, da otto membri iscritti da non meno di dieci anni all'albo dei medici chirurghi, di cui: 
+ 
+                        
+                        
+                            a)
+                            
+                                due professori ordinari, anche fuori ruolo, di cui uno scelto nell'ambito di un elenco di nominativi proposto dal Consiglio universitario nazionale e uno scelto nell'ambito di un elenco di nominativi proposto dalla conferenza dei rettori delle universita' italiane su indicazione della conferenza dei Presidenti dei corsi di studio in medicina e chirurgia; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                due professori associati confermati, anche fuori ruolo, di cui uno scelto nell'ambito di un elenco di nominativi proposto dal Consiglio universitario nazionale e uno scelto nell'ambito di un elenco di nominativi proposto dalla conferenza dei rettori delle universita' italiane su indicazione della conferenza dei presidenti dei corsi di studio in medicina e chirurgia; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                quattro medici chirurghi designati dalla Federazione nazionale dell'ordine dei medici chirurghi e degli odontoiatri.
 
 Il Presidente della Commissione e' nominato, con il decreto ministeriale di cui al comma 2, tra i componenti di cui al comma 2, lettera a). La Commissione delibera a maggioranza dei componenti e in caso di parita' di voto prevale il voto del Presidente.
 

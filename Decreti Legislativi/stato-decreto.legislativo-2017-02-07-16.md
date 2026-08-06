@@ -7,8 +7,8 @@ urn: urn:nir:stato:decreto.legislativo:2017-02-07;16
 vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:23Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -29,6 +29,31 @@ Delega di funzioni riguardanti l'attivita' amministrativa e organizzativa di sup
 A decorrere dal 1° gennaio 2017 sono delegate alla Regione Trentino-Alto Adige/Südtirol, per il suo ambito territoriale, le funzioni riguardanti l'attivita' amministrativa e organizzativa di supporto agli uffici giudiziari, con esclusione di quelle relative al personale di magistratura e al personale amministrativo dirigenziale.
 Ferme le competenze del Ministro della giustizia previste dall'articolo 110 della Costituzione e previa intesa con lo stesso, la Regione puo' subdelegare, per il rispettivo territorio, alle province autonome di Trento e di Bolzano le funzioni di cui al primo periodo come precisate nei commi successivi.
 
+2.
+                    
+                        
+                            Le funzioni di cui al comma 1 comprendono: 
+ 
+                        
+                        
+                            a)
+                            
+                                l'organizzazione amministrativa e la gestione giuridica ed economica del personale amministrativo, secondo i criteri e nei limiti indicati nei commi 5, 6 e 7; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                la messa a disposizione, la manutenzione e la gestione degli immobili destinati a sedi di uffici giudiziari nel distretto, tenuto conto di quanto previsto dal comma 13 con riferimento alle competenze riservate alle Province in materia di beni immobili; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                la fornitura delle attrezzature, degli arredi e dei servizi funzionali agli immobili necessari al funzionamento degli uffici giudiziari.
+
 Le funzioni di cui al comma 1 non comprendono i servizi inerenti ai sistemi informativi automatizzati, all'elaborazione e gestione delle statistiche e alla tenuta dei casellari giudiziari.
 
 La Regione, nell'esercizio delle funzioni di cui al comma 2, puo' avvalersi dei servizi e delle strutture delle province autonome di Trento e di Bolzano che vi provvedono, in relazione ai rispettivi territori, sulla base di apposita convenzione che assicura l'adeguatezza alle esigenze degli uffici giudiziari degli immobili adibiti a sedi degli stessi e, in particolare, gli standard e gli interventi individuati negli accordi con il Ministro della giustizia e con il Ministro dell'economia e delle finanze di cui al comma 7.
@@ -36,6 +61,31 @@ La Regione, nell'esercizio delle funzioni di cui al comma 2, puo' avvalersi dei 
 Spettano al personale amministrativo di cui al presente articolo le attribuzioni che le norme statali demandano al personale degli uffici giudiziari che riveste le corrispondenti qualifiche; resta ferma la dipendenza funzionale del medesimo dai magistrati dell'ufficio. La Regione provvede all'amministrazione e alla gestione del personale sulla base di un protocollo operativo approvato dal Ministero della giustizia, sentiti i dirigenti degli uffici giudiziari del distretto. Con il medesimo procedimento, al protocollo di cui al periodo precedente sono apportate, su iniziativa della Regione o del Ministro della giustizia, le eventuali modifiche che si rendono necessarie.
 
 Con separato accordo, la Regione e il Ministero della giustizia istituiscono una commissione mista, con prevalenza e presidenza della componente statale, alla quale affidare il potere disciplinare sul personale amministrativo in servizio presso gli uffici giudiziari. La partecipazione alla commissione avviene a titolo gratuito; le eventuali spese di missione restano a carico dell'amministrazione di appartenenza di ciascun componente. L'esercizio dell'azione disciplinare spetta alle direzioni generali del Ministero della giustizia interessate.
+
+7.
+                    
+                        
+                            La Regione e le Province, fermo quanto previsto dall'articolo 8, comma 4-bis, del decreto legislativo 7 settembre 2012, n. 155, stipulano appositi accordi a carattere pluriennale con il Ministro della giustizia e con il Ministro dell'economia e delle finanze, sentiti gli uffici giudiziari interessati e in coerenza con i programmi annuali di cui all'articolo 4 del decreto legislativo 25 luglio 2006, n. 240, volti a individuare gli standard e i parametri di servizio per l'esercizio delle funzioni delegate a condizione dell'invarianza degli oneri per il bilancio dello Stato, anche ai fini della quantificazione degli oneri finanziari, con particolare riguardo a: 
+ 
+                        
+                        
+                            a)
+                            
+                                le dotazioni organiche del personale amministrativo degli uffici giudiziari del distretto; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                gli standard di funzionalita', sotto il profilo quantitativo e qualitativo, da assicurare con riguardo ai servizi, alle attrezzature e agli arredi; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                gli interventi da realizzare con riferimento agli immobili destinati a sedi di uffici giudiziari del distretto secondo quanto previsto dal comma 13.
 
 Il personale a tempo indeterminato in servizio a qualsiasi titolo alla data di entrata in vigore del presente articolo presso gli uffici giudiziari del distretto e' inquadrato nel ruolo del personale della Regione, fatto salvo l'assenso dell'amministrazione di appartenenza se diversa dall'amministrazione della giustizia, con l'applicazione del contratto collettivo vigente dell'amministrazione di destinazione, salvo che non eserciti, entro centoventi giorni dall'entrata in vigore della presente disposizione, il diritto di opzione per rimanere alle dipendenze dell'amministrazione di appartenenza. Per i due anni successivi alla data di inquadramento nei ruoli regionali, ad una aliquota del personale trasferito non superiore al venti per cento del totale viene garantito il diritto di precedenza nei concorsi pubblici e nei processi di mobilita' attivati sul territorio nazionale dall'amministrazione della giustizia. La Regione subentra nei contratti relativi a rapporti di lavoro a tempo determinato. Entro novanta giorni dalla data di entrata in vigore della presente disposizione e' definita d'intesa tra la Regione e i Ministeri competenti, previa concertazione con le organizzazioni sindacali maggiormente rappresentative del personale amministrativo interessato, la tabella di equiparazione per l'inquadramento del personale. Dal 1° gennaio 2017 e fino alla decorrenza dei provvedimenti di inquadramento nel ruolo regionale, il personale e' messo a disposizione, per l'esercizio delle funzioni delegate, della Regione, che provvede al rimborso alle amministrazioni di appartenenza degli oneri sostenuti.
 

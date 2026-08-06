@@ -9,7 +9,7 @@ source: normattiva-opendata
 collection: Atti di recepimento direttive UE
 vigenza_date: 2024-04-23
 zip_date: 2026-07-30
-fetched_at: 2026-08-02T09:40:50Z
+fetched_at: 2026-07-30
 ---
 
 DECRETO LEGISLATIVO
@@ -33,9 +33,157 @@ Il presente decreto ha l'obiettivo di proteggere l'ambiente marino dagli effetti
 
 ## Art. 2. — Definizioni
 
+1.
+                        
+                            
+                                Ai fini del presente decreto, si intende per: 
+ 
+                            
+                            
+                                a)
+                                
+                                    «nave»: un'imbarcazione di qualsiasi tipo, che opera nell'ambiente marino, inclusi i pescherecci, le imbarcazioni da diporto, gli aliscafi, i veicoli a cuscino d'aria, i sommergibili e le imbarcazioni galleggianti; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    «convenzione MARPOL»: la convenzione internazionale per la prevenzione dell'inquinamento causato da navi, come modificata dal relativo protocollo del 1978, ratificata con legge 29 settembre 1980, n. 662 e, per quanto riguarda il Protocollo, con legge 4 giugno 1982, n. 438; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    «rifiuti delle navi»: tutti i rifiuti, compresi i residui del carico, le acque di sentina ((, le acque reflue e i sedimenti)) prodotti durante le operazioni di servizio o durante le operazioni di carico, scarico e pulizia, e che rientrano nell'ambito di applicazione degli allegati I, II, IV, V e VI della convenzione MARPOL nonche' i rifiuti accidentalmente pescati; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    «rifiuti accidentalmente pescati»: rifiuti raccolti dalle reti durante le operazioni di pesca; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    «residui del carico»: i resti di qualsiasi materiale che costituisce il carico contenuto a bordo che rimangono sul ponte, nella stiva o in cisterne, dopo le operazioni di carico e scarico, comprese le eccedenze di carico e scarico e le fuoriuscite, siano essi umidi, secchi o trascinati dalle acque di lavaggio, ivi comprese le acque di zavorra, qualora venute a contatto con il carico o suoi residui. Fanno eccezione le polveri del carico che rimangono sul ponte dopo che questo e' stato spazzato o la polvere presente sulle superfici esterne della nave; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    «impianto portuale di raccolta» o «impianti portuali di raccolta»: qualsiasi struttura fissa, galleggiante o mobile che sia in grado di fornire il servizio di raccolta dei rifiuti delle navi; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    «peschereccio»: qualsiasi nave equipaggiata o utilizzata a fini commerciali per la cattura del pesce o di altre risorse marine viventi; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    «imbarcazione da diporto»: i natanti con scafo di lunghezza compresa tra i 2,5 ed i 10 metri, le unita' navali, con scafo di lunghezza compresa tra i 10 ed i 24 metri e le navi da diporto con scafo di lunghezza superiore ai 24 metri, indipendentemente dal mezzo di propulsione, destinati all'utilizzo sportivo o ricreativo e non impegnati in attivita' commerciali; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    «porto»: un luogo o un'area geografica cui siano state apportate migliorie e aggiunte attrezzature progettate principalmente per consentire l'attracco di navi, compresa la zona di ancoraggio all'interno della giurisdizione del porto; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    «Autorita' competente» o «Autorita' competenti»: l'Autorita' di Sistema Portuale, ove istituita, o l'Autorita' marittima di cui all'articolo 2, commi 2 e 3 della legge 28 gennaio 1994, n.84; 
+
+                                
+                            
+                            
+                                m)
+                                
+                                    «sufficiente capacita' di stoccaggio»: lo spazio necessario a stoccare i rifiuti a bordo dal momento della partenza fino al successivo porto di scalo, compresi i rifiuti che saranno presumibilmente prodotti nel corso del viaggio ((, sulla base del metodo di calcolo previsto dal regolamento di esecuzione (UE) 2022/89 della Commissione del 21 gennaio 2022)); 
+
+                                
+                            
+                            
+                                n)
+                                
+                                    «traffico di linea»: traffico effettuato in base a una lista pubblicata o pianificata di orari di partenza e di arrivo tra porti specificati o in occasione di traversate ricorrenti, secondo un orario riconosciuto dalla Autorita' competente di cui alla lettera l); 
+
+                                
+                            
+                            
+                                o)
+                                
+                                    «scali regolari»: viaggi ripetuti dalla stessa nave secondo uno schema costante tra porti individuati o una serie di viaggi da e verso lo stesso porto senza scali intermedi; 
+
+                                
+                            
+                            
+                                p)
+                                
+                                    «scali frequenti»: scali effettuati da una nave nello stesso porto, che si verificano almeno una volta ogni due settimane; 
+
+                                
+                            
+                            
+                                q)
+                                
+                                    «GISIS»: sistema globale integrato di informazione sul traffico marittimo istituito dall'Organizzazione marittima internazionale (IMO); 
+
+                                
+                            
+                            
+                                r)
+                                
+                                    «trattamento»: operazioni di recupero o smaltimento, inclusa la preparazione prima del recupero o dello smaltimento; 
+
+                                
+                            
+                            
+                                s)
+                                
+                                    «tariffa indiretta»: una tariffa pagata per i servizi svolti dagli impianti portuali di raccolta, indipendentemente dall'effettivo conferimento dei rifiuti da parte delle navi; 
+
+                                
+                            
+                            
+                                t)
+                                
+                                    «zona di ancoraggio»: l'area individuata nello specchio acqueo interno o esterno alle aree del porto, ove una nave puo' sostare, non necessariamente all'ancora, senza compiere operazioni commerciali intese come quelle che comportano la movimentazione, del carico pagante o l'imbarco o lo sbarco di passeggeri.
+
 I rifiuti delle navi sono considerati rifiuti ai sensi dell'articolo 183, comma 1, lettera a), del decreto legislativo 3 aprile 2006, n. 152. In particolare, i rifiuti delle navi sono considerati rifiuti speciali ai sensi dell'articolo 184, comma 3, lettera f) del decreto legislativo n. 152 del 2006, ad eccezione dei rifiuti prodotti dai passeggeri e dall'equipaggio e dei rifiuti accidentalmente pescati che sono considerati rifiuti urbani ai sensi dell'articolo 183, comma 1 lettera b-ter), del medesimo decreto legislativo.
 
 ## Art. 3. — Ambito di applicazione
+
+1.
+                        
+                            
+                                Il presente decreto si applica a: 
+ 
+                            
+                            
+                                a)
+                                
+                                    tutte le navi, indipendentemente dalla loro bandiera, che fanno scalo o che operano in un porto dello Stato, ((ad esclusione di quelle)) adibite a servizi portuali ai sensi dell'articolo 1, paragrafo 2, del regolamento (UE) 2017/352 del Parlamento europeo e del Consiglio, del 15 febbraio 2017 e delle disposizioni di cui all'articolo 3, comma 1 del decreto del Ministero delle infrastrutture e dei trasporti 27 aprile 2017, pubblicato nella Gazzetta Ufficiale n. 107 del 10 maggio 2017 e con l'eccezione delle navi militari e da guerra, ((delle navi in uso alle Forze di Polizia ad ordinamento civile,)) delle navi ausiliarie o di altre navi possedute o gestite da uno Stato, se impiegate solo per servizi statali a fini non commerciali; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    tutti i porti dello Stato ove fanno abitualmente scalo le navi di cui alla lettera a).
 
 Al fine di evitare ingiustificati ritardi per le navi, le Autorita' competenti possono escludere la zona di ancoraggio dall'applicazione delle disposizioni di cui agli articoli 6, 7 e 8.
 
@@ -48,6 +196,38 @@ Con decreto del Ministro della difesa, di concerto con i Ministri dell'economia 
 ## Art. 4. — Impianti portuali di raccolta
 
 In attuazione del piano previsto all'articolo 5, il porto e' dotato, con oneri a carico del gestore del servizio, di impianti e di servizi portuali di raccolta dei rifiuti delle navi adeguati a rispondere alle esigenze delle navi che vi fanno abitualmente scalo, in relazione alla classificazione dello stesso porto, laddove adottata, ovvero al traffico registrato nei tre anni solari precedenti all'anno di adozione del Piano, al fine di assicurare il rapido conferimento di detti rifiuti, evitando ingiustificati ritardi e garantendo nel contempo standard di sicurezza per l'ambiente e per la salute dell'uomo raggiungibili con l'applicazione delle migliori tecnologie disponibili.
+
+2.
+                        
+                            
+                                Per le finalita' di cui al comma 1, la capacita' degli impianti portuali di raccolta realizzati, quali strutture fisse, mobili o galleggianti, e' commisurata alla tipologia ed al quantitativo di rifiuti delle navi che abitualmente utilizzano tale porto, tenuto conto: 
+ 
+                            
+                            
+                                a)
+                                
+                                    delle esigenze operative degli utenti del porto; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    dell'ubicazione geografica e delle dimensioni del porto; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    della tipologia delle navi che vi fanno scalo; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    delle esenzioni di cui all'articolo 9.
 
 Nel Piano di raccolta di cui all'articolo 5, le Autorita' competenti definiscono gli adempimenti e le modalita' operative relative all'utilizzo degli impianti portuali di raccolta che siano semplici e rapide e non determinino ingiustificati ritardi alle navi.
 Nel Piano sono altresi' definiti i criteri per la determinazione delle tariffe per il conferimento dei rifiuti agli impianti portuali di raccolta che non devono creare un disincentivo all'uso degli impianti stessi da parte delle navi.
@@ -88,6 +268,25 @@ I piccoli porti non commerciali, che sono caratterizzati soltanto da un traffico
 
 ## Art. 6. — Notifica anticipata dei rifiuti
 
+1.
+                        
+                            
+                                L'operatore delegato dall'armatore o dal comandante della nave, l'agente raccomandatario, o il comandante di una nave che rientra nell'ambito di applicazione decreto legislativo 19 agosto 2005, n. 196, diretto verso un porto dell'Unione, compila in modo veritiero e preciso il modulo di cui all'allegato 2 del presente decreto («notifica anticipata dei rifiuti») e trasmette tutte le informazioni in esso contenute ((all'Autorita' marittima))
+                                    ((...)): 
+ 
+                            
+                            
+                                a)
+                                
+                                    con almeno 24 ore di anticipo rispetto all'arrivo se il porto di scalo e' noto; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    non appena e' noto il porto di scalo, qualora questa informazione sia disponibile a meno di 24 ore dall'arrivo; o al piu' tardi al momento della partenza dal porto precedente se la durata del viaggio e' inferiore a 24 ore.
+
 Le informazioni della notifica anticipata dei rifiuti sono riportate per via elettronica nel sistema informativo, di monitoraggio e di applicazione di cui all'articolo 13, in conformita' al decreto legislativo n. 196 del 2005, e all'articolo 8, comma 10, del decreto-legge 18 ottobre 2012, n. 179, convertito, con modificazioni, dalla legge 17 dicembre 2012, n. 221.
 
 Le informazioni della notifica anticipata dei rifiuti sono disponibili a bordo, preferibilmente in formato elettronico, almeno fino al successivo porto di scalo e, su richiesta, sono messe a disposizione delle autorita' competenti degli Stati membri.
@@ -110,6 +309,50 @@ Al momento del conferimento il gestore dell'impianto portuale di raccolta o l'Au
 
 L'operatore delegato dall'armatore o dal comandante della nave, l'agente raccomandatario, o il comandante di una nave che rientra nell'ambito di applicazione del decreto legislativo n. 196 del 2005 comunica per via elettronica, prima della partenza, o non appena riceve la ricevuta di conferimento dei rifiuti, le informazioni in essa riportate, nella parte del sistema informativo, di monitoraggio e di applicazione di cui all'articolo 13, in conformita' al decreto legislativo n. 196 del 2005, e all'articolo 8, comma 10, del decreto-legge 18 ottobre 2012, n. 179, convertito con modificazioni dalla legge 17 dicembre 2012, n. 221. Le informazioni della ricevuta di conferimento dei rifiuti sono disponibili a bordo per almeno due anni, ove opportuno insieme al registro degli idrocarburi, al registro dei carichi, al registro dei rifiuti solidi o al piano di gestione dei rifiuti solidi e, su richiesta, sono messe a disposizione delle autorita' degli Stati membri.
 
+4.
+                        
+                            
+                                Fatto salvo il comma 1, una nave puo' procedere verso il successivo porto di scalo senza aver conferito i rifiuti, previa autorizzazione dell'Autorita' marittima che, avvalendosi dell'Autorita' sanitaria marittima e del chimico del porto ove lo ritenga necessario, ha accertato almeno una delle seguenti condizioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    che dalle informazioni fornite conformemente agli allegati 2 e 3 risulta la presenza di una sufficiente capacita' di stoccaggio dedicata a tutti i rifiuti che sono gia' stati accumulati e che saranno accumulati nel corso del viaggio previsto della nave fino al successivo porto di scalo; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    che dalle informazioni disponibili a bordo delle navi che non rientrano nell'ambito di applicazione del decreto legislativo n. 196 del 2005 risulta la presenza di una sufficiente capacita' di stoccaggio dedicata a tutti i rifiuti che sono gia' stati accumulati e che saranno accumulati nel corso del viaggio previsto della nave fino al successivo porto di scalo; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    che la nave fa scalo nella zona di ancoraggio solo per meno di 24 ore o in condizioni meteorologiche avverse, a meno che tale zona sia stata esclusa ai sensi dell'articolo 3, comma 2.
+
+5.
+                        
+                            
+                                
+                                    ((L'Autorita' marittima)) chiede alla nave di conferire, prima della partenza, tutti i propri rifiuti se: 
+ 
+                            
+                            
+                                a)
+                                
+                                    sulla base delle informazioni disponibili, comprese le informazioni disponibili per via elettronica nella parte del sistema informativo, di monitoraggio e di applicazione di cui all'articolo 13 o nel GISIS, non puo' essere accertato che nel successivo porto di scalo siano disponibili adeguati impianti portuali per la raccolta; o 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il successivo porto di scalo non e' noto.
+
 Il comma 4 si applica fatte salve prescrizioni piu' rigorose a carico delle navi, adottate in base al diritto internazionale.
 
 Ai rifiuti sanitari ed ai rifiuti alimentari prodotti a bordo di mezzi di trasporto che effettuano tragitti internazionali si applicano le disposizioni vigenti in materia. Con riferimento ai rifiuti alimentari, entro 90 giorni dalla data di entrata in vigore del presente decreto, con decreto del Ministro della salute di concerto con il Ministro della transizione ecologica si procede alla revisione del decreto del Ministro della sanita' 22 maggio 2001, pubblicato nella Gazzetta Ufficiale della Repubblica italiana n. 202 del 31 agosto 2001, recante misure relative alla gestione e alla distruzione dei rifiuti alimentari prodotti a bordo di mezzi di trasporto che effettuano tragitti internazionali. La revisione e' effettuata secondo criteri di sicurezza ambientale e sanitaria, semplificazione e riduzione dei costi e degli oneri al fine di adeguarne le disposizioni al decreto legislativo 3 aprile 2006, n. 152 e agli obiettivi di economia circolare. Nelle more dell'approvazione del decreto di revisione di cui al presente comma, le regioni possono definire speciali forme di gestione di tali rifiuti.
@@ -122,7 +365,98 @@ Le Autorita' competenti o i soggetti pubblici o privati deputati alla gestione d
 
 I costi degli impianti portuali per la raccolta e il trattamento dei rifiuti delle navi, diversi dai residui del carico, sono recuperati mediante la riscossione di tariffe a carico delle navi che approdano nel porto. Tali costi comprendono gli elementi di cui all'allegato 4.
 
+2.
+                        
+                            
+                                Le tariffe di cui al comma 1 sono determinate ((dall'Autorita' di sistema portuale o, laddove non istituita, dall'ente locale che ha curato le procedure relative all'affidamento del servizio di raccolta dei rifiuti, sentita l'Autorita' marittima)) e sono calcolate in conformita' alle disposizioni dell'allegato 4. Le tariffe sono proporzionate ed adeguate in modo che i sistemi di recupero dei costi istituiti non costituiscano un incentivo per le navi a scaricare i loro rifiuti in mare. Ai fini di cui al presente comma, sono applicati tutti i seguenti principi nell'elaborazione e nel funzionamento dei sistemi di recupero dei costi: 
+ 
+                            
+                            
+                                a)
+                                
+                                    le navi pagano una tariffa indiretta, indipendentemente dal conferimento dei rifiuti agli impianti portuali di raccolta; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la tariffa indiretta copre: 
+ 1) i costi amministrativi indiretti; 
+ 2) una parte significativa dei costi operativi diretti, come stabilito nell'allegato 4, che rappresenta almeno il 30 per cento del totale dei costi diretti dell'effettivo conferimento dei rifiuti nell'anno precedente, con la possibilita' di tenere conto anche dei costi relativi al volume di traffico previsto per l'anno successivo; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    al fine di prevedere l'incentivo massimo per il conferimento dei rifiuti di cui all'allegato V della convenzione MARPOL, diversi dai residui del carico, per tali rifiuti non si impone alcuna tariffa diretta, allo scopo di garantire un diritto di conferimento senza ulteriori oneri basati sul volume dei rifiuti conferiti, eccetto il caso in cui il volume superi la massima capacita' di stoccaggio dedicata menzionata nel modulo di cui all'allegato 2 del presente decreto; i rifiuti accidentalmente pescati rientrano in questo regime, incluso il diritto di conferimento; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    la raccolta e il trattamento dei rifiuti accidentalmente pescati non comporta l'obbligo della corresponsione della tariffa di cui al presente comma. I costi della raccolta e del trattamento di tali rifiuti possono essere coperti, con le entrate generate da sistemi di finanziamento alternativi, compresi sistemi di gestione dei rifiuti e finanziamenti unionali, nazionali o regionali disponibili, tenendo conto di quanto previsto dall'allegato 4. 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    per incoraggiare il conferimento dei residui delle acque di lavaggio delle cisterne contenenti sostanze galleggianti persistenti a viscosita' elevata, le Autorita' competenti possono accordare adeguati incentivi finanziari; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    la tariffa indiretta non include i costi dei rifiuti dei sistemi di depurazione dei gas di scarico, che sono recuperati in base ai tipi e ai quantitativi di rifiuti conferiti.
+
 L'eventuale parte dei costi non coperta dalla tariffa indiretta e' recuperata in base ai tipi e ai quantitativi di rifiuti effettivamente conferiti dalla nave.
+
+4.
+                        
+                            
+                                Le tariffe possono essere differenziate sulla base dei seguenti elementi: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la categoria, il tipo e le dimensioni della nave; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la prestazione di servizi alle navi al di fuori del normale orario di lavoro nel porto; o 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    la natura pericolosa dei rifiuti.
+
+5.
+                        
+                            
+                                Le tariffe sono ridotte sulla base dei seguenti elementi: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il tipo di attivita' cui e' adibita la nave, in particolare quando una nave e' adibita al trasporto marittimo a corto raggio; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la progettazione, le attrezzature e il funzionamento della nave dimostrano che la nave produce minori quantita' di rifiuti e li gestisce in modo sostenibile e compatibile con la tutela ambientale.
 
 Al fine di garantire che le tariffe siano eque, trasparenti, facilmente identificabili e non discriminatorie e che rispecchino i costi degli impianti e dei servizi resi disponibili o eventualmente utilizzati, l'importo delle tariffe e la base sulla quale sono state calcolate sono messi a disposizione degli utenti dei porti nei piani di raccolta e di gestione dei rifiuti in lingua italiana ed, eventualmente, in una lingua usata internazionalmente. A garanzia della riscossione delle tariffe di cui al comma 1, ((l'Autorita' di sistema portuale o, laddove non istituita, l'ente locale che ha curato le procedure relative all'affidamento del servizio di raccolta dei rifiuti, sentita l'Autorita' marittima,)) determina le modalita' per la prestazione di adeguata garanzia finanziaria e la relativa entita'.
 
@@ -134,6 +468,33 @@ Nel caso di navi in servizio di linea che effettuano scali frequenti e regolari,
 Nel caso di pescherecci ed imbarcazioni da diporto omologate per un massimo di dodici passeggeri ((l'Autorita' di Sistema Portuale o, laddove non istituita, l'ente locale che ha curato le procedure relative all'affidamento del servizio di raccolta dei rifiuti, sentita l'Autorita' marittima)), in considerazione della categoria, tipologia dimensioni della nave, nonche' della ridotta quantita' e della particolarita' dei rifiuti prodotti da dette imbarcazioni, definisce una tariffa piu' favorevole non correlata alla quantita' di rifiuti conferiti. La disposizione di cui al primo periodo si applica anche alle navi addette ai servizi portuali e a quelle impegnate, per periodi temporali prolungati di durata pari o superiore ad un mese, ad attivita' di lavori, quali a titolo esemplificativo e non esaustivo gli interventi infrastrutturali e la cantieristica.
 
 ## Art. 9. — Esenzioni
+
+1.
+                        
+                            
+                                L'Autorita' Marittima puo' esentare una nave che fa scalo dagli obblighi di cui agli articoli 6, 7 comma 1, e 8, qualora vi siano prove sufficienti del rispetto delle seguenti condizioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la nave svolge servizio di linea con scali frequenti e regolari; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    esiste un accordo che garantisce il conferimento dei rifiuti e il pagamento delle tariffe in un porto lungo il tragitto della nave che: 
+ 1) e' comprovato da un contratto firmato con un porto o con un'impresa di gestione dei rifiuti e da ricevute di conferimento dei rifiuti; 
+ 2) e' stato notificato a tutti i porti lungo la rotta della nave ed e' stato accettato dal porto in cui hanno luogo il conferimento e il pagamento, che puo' essere un porto dell'Unione o un altro porto, nel quale, come stabilito sulla base delle informazioni comunicate per via elettronica in tale parte del sistema informativo, di monitoraggio e di applicazione di cui all'articolo 13 e nel GISIS, sono disponibili impianti adeguati; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    l'esenzione non incide negativamente sulla sicurezza marittima, sulla salute, sulle condizioni di vita e di lavoro a bordo o sull'ambiente marino.
 
 Nei casi di cui al comma 1, ((l'Autorita' marittima)) in cui e' situato il porto ((di conferimento)) rilascia un certificato di esenzione, in base al formato di cui all'allegato 5, che conferma che la nave rispetta le condizioni e gli obblighi necessari all'applicazione dell'esenzione stessa e ne attesta la durata.
 
@@ -177,9 +538,68 @@ L'attuazione e l'applicazione del presente decreto sono agevolate dal sistema el
 
 La comunicazione e lo scambio di informazioni si basano sul sistema dell'Unione per lo scambio di dati marittimi, «SafeSeaNet», di cui all'articolo 22-bis, comma 2 e all'allegato III del decreto legislativo n. 196 del 2005.
 
+2.
+                        
+                            
+                                
+                                    ((Le Autorita' marittime)) assicurano che le seguenti informazioni siano comunicate per via elettronica entro 15 giorni in conformita' a quanto previsto dall'articolo 8, commi da 10 a 16, del decreto-legge 18 ottobre 2012, n. 179, convertito, con modificazioni, dalla legge 17 dicembre 2012, n. 221: 
+ 
+                            
+                            
+                                a)
+                                
+                                    le informazioni sull'ora effettiva di arrivo e di partenza di ogni nave che rientra nell'ambito di applicazione del decreto legislativo n. 196 del 2005 che fa scalo in un porto dello Stato, insieme a un identificativo del porto in questione; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le informazioni riportate nella notifica anticipata dei rifiuti di cui all'allegato 2; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    le informazioni riportate nella ricevuta di conferimento dei rifiuti di cui all'allegato 3; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    le informazioni riportate nel certificato di esenzione di cui all'allegato 5.
+
 Le informazioni di cui all'articolo 5, comma 5 e dell'Allegato A sono disponibili elettronicamente attraverso il sistema dell'Unione per lo scambio di dati marittimi, «SafeSeaNet». E' consentita la consultazione della banca dati ai gestori degli impianti portuali anche in forma aggregata, al fine di poter verificare le esenzioni e deroghe concesse.
 
 ## Art. 14. — Registrazione delle ispezioni
+
+1.
+                        
+                            
+                                
+                                    ((Le Autorita' marittime)) assicurano che le informazioni relative alle ispezioni a norma del presente decreto, comprese le informazioni relative ai casi di non conformita' e ai provvedimenti di fermo emessi, siano trasferite senza ritardi alla banca dati sulle ispezioni, istituita dalla Commissione ai sensi dell'articolo 14 della direttiva (UE) 2019/883, non appena: 
+ 
+                            
+                            
+                                a)
+                                
+                                    sia stato completato il rapporto di ispezione; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    sia stato revocato il provvedimento di fermo; oppure 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    sia stata concessa un'esenzione.
 
 ## Art. 15. — Formazione del personale
 

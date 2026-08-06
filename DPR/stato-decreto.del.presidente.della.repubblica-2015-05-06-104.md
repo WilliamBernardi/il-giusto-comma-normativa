@@ -8,8 +8,8 @@ vigente: true
 source: normattiva-opendata
 collection: DPR
 vigenza_date: 2015-09-26
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:47:43Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -26,6 +26,66 @@ Acquisiti i pareri delle competenti Commissioni parlamentari del Senato della Re
 Sulla proposta del Presidente del Consiglio dei ministri e del Ministro della difesa, di concerto con i Ministri degli affari esteri e della cooperazione internazionale e dell'economia e delle finanze;
 
 ## Art. 1. — Definizioni
+
+1.
+                    
+                        
+                            Ai fini del presente regolamento si intendono per: 
+ 
+                        
+                        
+                            a)
+                            
+                                «accordi internazionali»: gli accordi vigenti in materia di cooperazione o di reciproca assistenza tecnico - militare nel settore della difesa, conclusi dall'Italia con uno o piu' Stati esteri; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                «intese internazionali»: protocolli, memorandum, intese, o altri documenti comunque denominati, posti in essere dal Ministero della difesa con uno o piu' Stati esteri, discendenti dagli accordi di cui alla lettera a); 
+
+                            
+                        
+                        
+                            c)
+                            
+                                «attivita' di supporto tecnico-amministrativo»: qualsiasi attivita' di assistenza tecnica, ingegneristica, logistica, manutentiva, addestrativa, formativa, amministrativa, legale, nonche' di coordinamento della contrattualistica e degli aspetti connessi alla gestione finanziaria, anche nella fase di pianificazione e definizione dell'esigenza e del relativo impatto sui costi, discendente dagli accordi o dalle intese internazionali; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                «rimborso dei costi»: qualsiasi entrata compensativa dei costi sostenuti dal Ministero della difesa per lo svolgimento delle attivita' di supporto tecnico-amministrativo; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                «Segretariato generale»: il Segretariato generale della difesa e Direzione nazionale degli armamenti del Ministero della difesa; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                «Segretario generale»: il Segretario generale della difesa e Direttore nazionale degli armamenti; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                «industria nazionale»: le imprese iscritte nel Registro nazionale delle imprese e consorzi di imprese (R.N.I.) operanti nel settore dei materiali di armamento, istituito presso il Segretariato generale, di cui all'articolo 44 del codice dell'ordinamento militare; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                «materiali di armamento»: i materiali di cui all'articolo 2 della legge 9 luglio 1990, n. 185, che, per requisiti o caratteristiche tecnico-costruttive e di progettazione, sono tali da considerarsi costruiti per un prevalente uso militare o dei corpi armati o di polizia.
 
 ## Art. 2.
 

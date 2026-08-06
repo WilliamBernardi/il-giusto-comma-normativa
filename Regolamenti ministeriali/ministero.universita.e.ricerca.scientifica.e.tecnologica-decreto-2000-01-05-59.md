@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
 vigenza_date: 2008-08-03
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:38Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -40,6 +40,53 @@ All'attivita' dell'ente concorrono, tramite rapporto convenzionale, con apporto 
 
 ## Art. 2. — Finalita' del Museo e del Centro studi e ricerche
 
+1.
+                    
+                        
+                            Il Museo della fisica e il Centro studi e ricerche persegue le seguenti finalita':
+
+                        
+                        
+                            a)
+                            
+                                promuovere e diffondere la conoscenza della storia della fisica italiana, con particolare riguardo all'attivita' di Enrico Fermi e del suo gruppo di ricerca;
+                            
+                        
+                        
+                            b)
+                            
+                                promuovere, programmare e realizzare studi e ricerche nel settore della fisica facilitando la collaborazione scientifica fra ricercatori italiani e stranieri;
+                            
+                        
+                        
+                            c)
+                            
+                                consentire ai ricercatori che operano presso il Centro di utilizzare la piu' avanzata strumentazione messa a disposizione dai soggetti convenzionati, i quali concorrono, altresi', a fornire l'assistenza tecnica e il supporto scientifico per lo svolgimento delle ricerche;
+                            
+                        
+                        
+                            d)
+                            
+                                promuovere la diffusione dei risultati dell'attivita' scientifica svolta anche attraverso l'organizzazione di mostre temporanee e permanenti sui risultati delle ricerche;
+                            
+                        
+                        
+                            e)
+                            
+                                assicurare, dopo il ripristino, la conservazione degli ambienti originari, del materiale scientifico e delle attrezzature, dei laboratori e della biblioteca esistenti;
+                            
+                        
+                        
+                            f)
+                            
+                                acquisire ulteriore materiale scientifico di valore storico;
+                            
+                        
+                        
+                            g)
+                            
+                                consentire l'apertura al pubblico dei locali, dei laboratori della biblioteca nonche' la visione del materiale scientifico.
+
 ## Art. 3. — Organizzazione e funzionamento
 
 L'ente adotta propri regolamenti concernenti l'organizzazione e il funzionamento, l'amministrazione, la finanza e la contabilita', il personale. I regolamenti sono trasmessi al Ministro dell'universita' e della ricerca scientifica e tecnologica, che li approva, di concerto con il Ministro per i beni e le attivita' culturali e previa acquisizione, nel termine perentorio di sessanta giorni, del parere del Ministro del tesoro, del bilancio e della programmazione economica e del Ministro per la funzione pubblica. Decorsi novanta giorni dalla data di ricezione degli atti da parte del Ministero dell'universita' e della ricerca scientifica e tecnologica, i regolamenti sono emanati anche in assenza dell'approvazione ministeriale.
@@ -50,11 +97,78 @@ Il patrimonio del Museo e' costituito dagli apporti che saranno attribuiti all'e
 
 Sono altresi' assegnati all'ente in uso perpetuo e gratuito l'edificio sito in Roma, via Panisperna n. 89, nonche' le attrezzature esistenti.
 
+3.
+                    
+                        
+                            Le risorse finanziarie sono costituite:
+
+                        
+                        
+                            a)
+                            
+                                dai contributi previsti dall'articolo 1, commi 4 e 5 della legge 15 marzo 1999, n. 62;
+                            
+                        
+                        
+                            b)
+                            
+                                da altri contributi di amministrazioni pubbliche e private;
+                            
+                        
+                        
+                            c)
+                            
+                                dai contributi erogati dai soggetti che concorrono, in via ordinaria, previa convenzione, alle attivita' dell'ente;
+                            
+                        
+                        
+                            d)
+                            
+                                dai proventi di attivita' proprie ivi comprese le entrate derivanti dalla vendita dei biglietti di ingresso al Museo e da corrispettivi di contratti e convenzioni con terzi;
+                            
+                        
+                        
+                            e)
+                            
+                                da lasciti, donazioni e altri atti di liberalita'.
+
 ## Art. 5. — Programmi di attivita'
 
 Il Museo e Centro studi opera secondo un programma di attivita' triennale deliberato dal consiglio di amministrazione, che viene trasmesso al Ministero dell'universita' e della ricerca scientifica e tecnologica, il quale ne valuta la coerenza anche con il programma nazionale di ricerca di cui all'articolo 1 del decreto legislativo 5 giugno 1998, n. 204, e lo approva nel rispetto dei termini e con le modalita' previste all'articolo 3.
 
 ## Art. 6. — Organi dell'ente
+
+1.
+                    
+                        
+                            Organi dell'ente sono:
+ 
+                        
+                        
+                            a)
+                            
+                                il presidente;
+
+                            
+                        
+                        
+                            b)
+                            
+                                il consiglio di amministrazione;
+
+                            
+                        
+                        
+                            c)
+                            
+                                il direttore del Museo;
+
+                            
+                        
+                        
+                            d)
+                            
+                                il collegio dei revisori.
 
 ## Art. 7. — Presidente
 
@@ -79,7 +193,59 @@ Assiste alle riunioni del consiglio con voto consultivo, il direttore del Museo.
 
 Per la validita' delle sedute e' necessaria la presenza della meta' piu' uno dei componenti. Le deliberazioni sono adottate con i voti favorevoli della maggioranza dei presenti. In caso di parita' di voti prevale il voto del presidente.
 
+6.
+                    
+                        
+                            Il consiglio di amministrazione:
+
+                        
+                        
+                            a)
+                            
+                                approva il bilancio di previsione, le relative variazioni e il conto consuntivo;
+                            
+                        
+                        
+                            b)
+                            
+                                adotta i regolamenti di cui all'articolo 3;
+                            
+                        
+                        
+                            c)
+                            
+                                approva i programmi di ricerca di cui all'articolo 5;
+                            
+                        
+                        
+                            d)
+                            
+                                impartisce al direttore del museo le linee guida sulla gestione del Museo anche ai fini della fissazione degli orari di visita, della determinazione del prezzo di ingresso e delle relative modalita' di riscossione.
+
 ## Art. 9. — Collegio dei revisori
+
+1.
+                    
+                        
+                            Il collegio dei revisori e' composto nel modo seguente:
+
+                        
+                        
+                            a)
+                            
+                                un revisore effettivo ed uno supplente designati dal Ministro dell'universita' e della ricerca scientifica e tecnologica;
+                            
+                        
+                        
+                            b)
+                            
+                                un revisore effettivo, ed uno supplente designati dal Ministro peri beni e le attivita' culturali;
+                            
+                        
+                        
+                            c)
+                            
+                                un revisore effettivo, che assume le funzioni di presidente, ed uno supplente designati dal Ministro del tesoro, del bilancio e della programmazione economica.
 
 I componenti devono essere iscritti al registro dei revisori contabili di cui al decreto legislativo 27 gennaio 1992, n. 88, e sono nominati dal Ministro dell'universita' e della ricerca scientifica e tecnologica. Restano in carica quattro anni e possono essere confermati una sola volta.
 

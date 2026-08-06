@@ -8,8 +8,8 @@ codice_redazionale: 002G0295
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:39Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -28,6 +28,25 @@ Ritenuta la necessita' di apportare alcune modifiche al citato regolamento sosti
 Udito il parere del Consiglio di Stato, espresso dalla Sezione consultiva per gli atti normativi nell'adunanza del 17 giugno 2002;
 
 ## Art. 1.
+
+1.
+                    
+                        
+                            Al decreto ministeriale 29 gennaio 1999, n. 85, recante norme di attuazione dell'articolo 5 del decreto-legge 18 gennaio 1992, n. 9, convertito, con modificazioni, dalla legge 28 febbraio 1992, n. 217, in materia di affidamento in concessione dei servizi di controllo di sicurezza in ambito aeroportuale, sono apportate le seguenti modificazioni:
+ 
+                        
+                        
+                            a)
+                            
+                                all'articolo 7, comma 2, le parole: "sei" e "tre" sono sostituite rispettivamente da: "dodici" e "sei";
+
+                            
+                        
+                        
+                            b)
+                            
+                                dopo l'articolo 8 e' inserito il seguente:
+ "Art. 8-bis - 1. L'ENAC, d'intesa con il Ministero dell'interno, adotta le disposizioni tecniche necessarie, in conformita' alla normativa e alle procedure internazionali in materia di atti illeciti contro l'aviazione civile fissate dall'Organizzazione dell'Aviazione Civile Internazionale (OACI) e dalla Conferenza europea dell'Aviazione Civile (CEAC), al fine di indicare i requisiti delle apparecchiature di rilevazione e di controllo, nonche' le modalita' di verifica del possesso di detti requisiti, anche in relazione all'evoluzione tecnologica."
 
 ## Art. 2.
 

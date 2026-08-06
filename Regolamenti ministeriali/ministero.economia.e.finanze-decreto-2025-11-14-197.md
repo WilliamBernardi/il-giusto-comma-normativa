@@ -7,8 +7,8 @@ urn: urn:nir:ministero.economia.e.finanze:decreto:2025-11-14;197
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:42Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -33,6 +33,87 @@ Finalita'
 Il presente regolamento individua la disciplina generale delle lotterie a estrazione istantanea, anche con partecipazione a distanza, affidate in concessione, in virtu' della riserva statale di cui al decreto legislativo 14 aprile 1948, n. 496 e delle singole leggi di riferimento, a un soggetto privato a seguito di idonea procedura di gara.
 
 ## Art. 2. — Definizioni
+
+1.
+                    
+                        
+                            Ai fini del presente regolamento si intende per: 
+ 
+                        
+                        
+                            a)
+                            
+                                Agenzia delle dogane e dei monopoli: l'ente regolatore del gioco pubblico in Italia; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                concessionario: la persona giuridica di diritto privato che esercita attivita' di gestione, esercizio e raccolta di gioco pubblico, attraverso un titolo concessorio acquisito a seguito di gara pubblica per i giochi pubblici denominati lotterie a estrazione istantanea, anche con partecipazione a distanza; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                giocata: un biglietto delle lotterie fisiche o una giocata telematica; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                giocata telematica: ciascuna giocata delle lotterie telematiche, richiesta dal giocatore attraverso il proprio conto di gioco, e convalidata dal sistema del concessionario; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                pay-out: la percentuale di restituzione della raccolta in vincite per ogni lotteria indetta; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                punti di vendita: l'insieme dei punti di vendita fisici e dei punti di vendita a distanza; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                punto di vendita a distanza: il soggetto titolare di concessione per l'esercizio della raccolta del gioco a distanza di uno o piu' giochi pubblici, autorizzato dall'Agenzia delle dogane e dei monopoli alla commercializzazione delle lotterie a estrazione istantanea con partecipazione a distanza; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                punto di vendita fisico: i punti di vendita delle lotterie a estrazione istantanea, appartenenti alla rete distributiva del concessionario; 
+
+                            
+                        
+                        
+                            i)
+                            
+                                raccolta: l'ammontare complessivo degli importi corrispondenti alle giocate acquistate dai giocatori in un determinato arco temporale; 
+
+                            
+                        
+                        
+                            l)
+                            
+                                raccolta a distanza: indica la modalita' di raccolta di gioco con partecipazione a distanza effettuata attraverso gli strumenti messi a disposizione da un concessionario del gioco a distanza; 
+
+                            
+                        
+                        
+                            m)
+                            
+                                raccolta fisica: indica la modalita' di raccolta di gioco, effettuata attraverso punti di vendita fisici.
 
 ## Art. 3. — Caratteristiche delle lotterie
 
@@ -108,7 +189,50 @@ Il prezzo della giocata delle lotterie a estrazione istantanea, anche con partec
 
 Modalita' e termini di riscossione
 
+1.
+                    
+                        
+                            La riscossione delle vincite, derivate da biglietti mediante raccolta fisica, avviene, a seconda dell'importo corrispondente, al netto della ritenuta prevista dalla normativa vigente, secondo una delle seguenti modalita' di richiesta, presentando il biglietto integro e in originale: 
+ 
+                        
+                        
+                            a)
+                            
+                                presso un qualunque punto di vendita fisico; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                presso un punto di vendita fisico mediante prenotazione e previa identificazione del vincitore; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                presso l'Ufficio premi del concessionario o presso un soggetto dal medesimo designato, per la successiva validazione.
+
 I limiti degli importi, per i quali si applicano le modalita' di cui al comma 1, sono definiti con provvedimenti direttoriali dell'Agenzia delle dogane e dei monopoli, fermo restando il limite, previsto dalla normativa vigente al momento della richiesta, per il pagamento in contanti.
+
+3.
+                    
+                        
+                            La riscossione delle vincite, derivate da giocate telematiche, avviene: 
+ 
+                        
+                        
+                            a)
+                            
+                                qualora di importo non superiore a euro 50.000,00, con accredito diretto sul conto di gioco dal quale e' stata emessa la giocata telematica; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                qualora di importo superiore a euro 50.000,00, con richiesta, da far pervenire al concessionario, allegando il promemoria della giocata e un documento di identificazione per la successiva validazione.
 
 Il pagamento delle vincite deve essere richiesto entro quarantacinque giorni a decorrere dalla pubblicazione del provvedimento di chiusura della relativa lotteria.
 
@@ -130,7 +254,57 @@ I provvedimenti di cui al comma 1 possono prevedere modalita' di semplificazione
 
 Con i medesimi provvedimenti puo' essere disposta l'attribuzione di uno o piu' premi attraverso una estrazione differita fra tutte le giocate con esito perdente.
 
+4.
+                    
+                        
+                            La chiusura delle singole lotterie e' disposta con provvedimento direttoriale dell'Agenzia delle dogane e dei monopoli nel rispetto dei seguenti criteri: 
+ 
+                        
+                        
+                            a)
+                            
+                                valutazione del venir meno del gradimento dei giocatori, basata sull'andamento della vendita delle giocate; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                scostamento, nell'ordine massimo del 10 per cento in eccesso o in difetto rispetto al valore di restituzione della raccolta in vincite, definito per la lotteria stessa, salvo nei casi di eventi straordinari o imprevedibili ovvero di esigenza di tutela dell'entrata erariale.
+
 ## Art. 12. — Digitalizzazione
+
+1.
+                    
+                        
+                            Con provvedimento direttoriale dell'Agenzia delle dogane e dei monopoli si possono prevedere modalita' di digitalizzazione, valevoli per le lotterie ad estrazione istantanea, anche con partecipazione a distanza, ispirate a criteri volti, prevalentemente, al perseguimento dei seguenti obiettivi: 
+ 
+                        
+                        
+                            a)
+                            
+                                fruibilita' dell'offerta di gioco legale, in linea con l'evoluzione tecnologica, anche attraverso esperienze di intrattenimento che consentano modalita' di gioco maggiormente responsabile; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                accessibilita' al gioco, nel rispetto della protezione dei dati personali; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                sicurezza dei sistemi di gioco; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                contrasto a forme di gioco illegale.
 
 ## Art. 13. — Commissioni di vigilanza
 

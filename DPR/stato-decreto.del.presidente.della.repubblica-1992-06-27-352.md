@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: DPR
 vigenza_date: 2006-06-02
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:47:43Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -57,6 +57,44 @@ I documenti non possono essere sottratti all'accesso se non quando essi siano su
 In ogni caso i documenti non possono essere sottratti all'accesso ove sia sufficiente far ricorso al potere di differimento.
 
 Le categorie di cui all'art. 24, comma 4, della legge 7 agosto 1990, n. 241, riguardano tipologie di atti individuati con criteri di omogeneita' indipendentemente dalla loro denominazione specifica.
+
+5.
+                    
+                        
+                            Nell'ambito dei criteri di cui ai commi 2, 3 e 4, i documenti amministrativi possono essere sottratti all'accesso: 
+ 
+                        
+                        
+                            a)
+                            
+                                quando, al di fuori delle ipotesi disciplinate dall'art. 12 della legge 24 ottobre 1977, n. 801, dalla loro divulgazione possa derivare una lesione, specifica e individuata, alla sicurezza e alla difesa nazionale, nonche' all'esercizio della sovranita' nazionale e alla continuita' e alla correttezza delle relazioni internazionali, con particolare riferimento alle ipotesi previste nei trattati e nelle relative leggi di attuazione; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                quando possa arrecarsi pregiudizio ai processi di formazione, di determinazione e di attuazione della politica monetaria e valutaria; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                quando i documenti riguardino le strutture, i mezzi, le dotazioni, il personale e le azioni strettamente strumentali alla tutela dell'ordine pubblico, alla prevenzione e alla repressione della criminalita' con particolare riferimento alle tecniche investi- gative, alla identita' delle fonti di informazione e alla sicurezza dei beni e delle persone coinvolte, nonche' all'attivita' di polizia giudiziaria e di conduzione delle indagini; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                quando i documenti riguardino la vita privata o la riservatezza di persone fisiche, di persone giuridiche, gruppi, imprese e associazioni, con particolare riferimento agli interessi epistolare, sanitario, professionale, finanziario, industriale e commerciale di cui siano in concreto titolari, ancorche' i relativi dati siano forniti all'amministrazione dagli stessi soggetti cui si riferiscono. Deve comunque essere garantita ai richiedenti la visione degli atti dei procedimenti amministrativi la cui conoscenza sia necessaria per curare o per difendere i loro stessi interessi giuridici. ((3)) 
+ 
+---------------
+
+ 
+AGGIORNAMENTO (3) 
+ Il D.P.R. 12 aprile 2006, n. 184 ha disposto (con l'art. 15, comma 1) che "E' altresi' abrogato l'articolo 8 di detto decreto dalla data entrata in vigore del regolamento di cui all'articolo 24, comma 6, della legge."
 
 ## Art. 9. — ((ARTICOLO ABROGATO DAL D.P.R. 12 APRILE 2006, N. 184))
 

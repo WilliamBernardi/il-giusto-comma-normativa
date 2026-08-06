@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: DPR
 vigenza_date: 2012-04-29
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:47:46Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -27,6 +27,24 @@ Udito il parere del Consiglio di Stato, espresso dalla Sezione consultiva per gl
 Sulla proposta del Ministro dell'economia e delle finanze, di concerto con il Ministro per l'innovazione e le tecnologie;
 
 ## Art. 1. — Presentazione, trasmissione e ricezione di documenti mediante servizio telematico
+
+1.
+                    
+                        
+                            Nel testo del presente regolamento si intende:
+ 
+                        
+                        
+                            a)
+                            
+                                per decreto del Presidente della Repubblica n. 322 del 1998; il decreto del Presidente della Repubblica 22 luglio 1998, n. 322, e successive modificazioni, concernente modalita' per la presentazione delle dichiarazioni relative alle imposte sui redditi, all'imposta regionale sulle attivita' produttive e all'imposta sul valore aggiunto;
+
+                            
+                        
+                        
+                            b)
+                            
+                                per decreto del Presidente della Repubblica n. 633 del 1972: il decreto del Presidente della Repubblica 26 ottobre 1972, n. 633, e successive modificazioni ed integrazioni, concernente istituzione e disciplina dell'imposta sul valore aggiunto.
 
 I soggetti di cui all'articolo 3, commi 2 e 2-ter, del decreto del Presidente della Repubblica n. 322 del 1998, possono presentare direttamente o tramite gli incaricati di cui all'articolo 3, commi 2-bis e 3, dello stesso decreto n. 322 del 1998, le dichiarazioni ai fini dell'imposta sul valore aggiunto di inizio, variazione e cessazione attivita' previste dall'articolo 2, nonche' documenti, atti e istanze previsti dalle disposizioni che disciplinano i singoli tributi ovvero ottenere certificazioni ed altri servizi connessi ad adempimenti fiscali, avvalendosi del servizio di collegamento telematico con l'Agenzia delle entrate,compreso il servizio telematico Internet, secondo le modalita' previste per le dichiarazioni annuali e definite dal decreto del Ministero delle finanze 31 luglio 1998, e successive modificazioni.
 
@@ -91,4 +109,22 @@ Le modalita' di registrazione telematica dei contratti di locazione sono stabili
 ## Art. 6. — Disposizioni finali e transitorie
 
 I soggetti che alla data di entrata in vigore del presente regolamento gia' svolgevano attivita' di commercio elettronico comunicano i dati richiesti nel comma 2, lettera e), dell'articolo 2, nella dichiarazione dell'imposta sul valore aggiunto relativa all'anno 2000.
+
+2.
+                    
+                        
+                            Le disposizioni di cui all'articolo 3 hanno effetto a decorrere dal centottantesimo giorno successivo alla data di entrata in vigore del presente decreto. A decorrere dalla stessa data, ai sensi dell'articolo 17, comma 2, della legge 23 agosto 1988, n. 400:
+ 
+                        
+                        
+                            a)
+                            
+                                nell'articolo 10 del decreto del Ministro delle finanze 29 novembre 1978, i commi terzo, quarto, quinto e sesto si intendono soppressi;
+
+                            
+                        
+                        
+                            b)
+                            
+                                nell'articolo 6 del decreto del Presidente della Repubblica 9 dicembre 1996, n. 695, il comma 8, si intende soppresso.
 

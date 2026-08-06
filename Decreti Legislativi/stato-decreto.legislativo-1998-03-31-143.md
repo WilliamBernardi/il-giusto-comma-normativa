@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
 vigenza_date: 2025-07-01
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:31Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -191,6 +191,31 @@ Salvo quant'altro previsto dall'articolo 3 della legge 26 novembre 1993, n. 489,
 
 ## Art. 15. — Destinatari per la corresponsione dei contributi
 
+1.
+                        
+                            
+                                I destinatari dei contributi di cui all'articolo 14 sono: 
+ 
+                            
+                            
+                                a)
+                                
+                                    gli operatori nazionali ((e le loro societa' controllate e collegate estere nella loro attivita' con l'estero e di internazionalizzazione dell'economia italiana,)) che ottengano finanziamenti in Italia o all'estero da banche nazionali o estere ovvero ((da operatori finanziari italiani o esteri che rispettino adeguati principi di organizzazione, vigilanza, patrimonializzazione e operativita' o da sottoscrittori di prestiti obbligazionari, di cambiali finanziarie, di titoli di debito e di altri strumenti finanziari connessi al processo di internazionalizzazione di imprese italiane)); 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le banche, nazionali o estere, ((gli operatori finanziari italiani o esteri che rispettano adeguati principi di organizzazione, vigilanza, patrimonializzazione e operativita' e i sottoscrittori di prestiti obbligazionari, di cambiali finanziarie, di titoli di debito e di altri strumenti finanziari connessi al processo di internazionalizzazione di imprese italiane,)) che concedano finanziamenti agli operatori nazionali ((o alle loro societa' controllate e collegate estere nella loro attivita' con l'estero e di internazionalizzazione dell'economia italiana)) o alla controparte estera; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    gli acquirenti esteri di beni e servizi nazionali, nonche' i committenti esteri di studi, progettazioni e lavori da eseguirsi da imprese nazionali.
+
 ## Art. 16. — Disposizioni in materia di attivita' del soggetto gestore del 
  Fondo di cui all'articolo 3 della legge 28 maggio 1973, n. 295.
 
@@ -225,6 +250,60 @@ Salvo quanto previsto al comma 1, sono abrogati il titolo IV e gli articoli 28, 
 ## - Capo III Disposizioni per favorire l'internazionalizzazione delle imprese italiane
 
 ## Art. 20. — Modifiche alla legge 24 aprile 1990, n. 100, in materia di promozione della partecipazione a societa' ed imprese miste all'estero.
+
+1.
+                        
+                            
+                                Alla legge 24 aprile 1990, n. 100, sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    all'articolo 1, comma 1, nonche' al comma 2, lettere a), b), f), g) e h), ed all'articolo 4, commi 1, 2 e 3, dopo le parole: "imprese" e: "societa'" e' soppressa la parola "miste"; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    all'articolo 1, comma 1, dopo le parole: "partecipate da imprese italiane", sono inserite le seguenti: "ovvero da imprese aventi stabile organizzazione in uno Stato dell'Unione europea, controllate da imprese italiane,"; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    all'articolo 1, comma 2, sono aggiunte, in fine, le seguenti lettere: 
+ "h-bis) a concedere finanziamenti, di durata non superiore ad otto anni, alle imprese o societa' estere di cui alla lettera b), anche nell'ambito di operazioni di cofinanziamento con la Banca Europea per la ricostruzione e lo sviluppo (BERS), la Banca Europea per gli investimenti (BEI), la International financial corporation (I.F.C.) ovvero altri enti sovranazionali, in misura non eccedente il 25 per cento dell'impegno finanziario previsto dal programma economico dell'impresa o societa' estera; 
+ h-ter) a partecipare a societa' italiane o estere che abbiano finalita' strumentali correlate al perseguimento degli obiettivi di promozione e di sviluppo delle iniziative di imprese italiane di investimento e di collaborazione commerciale ed industriale all'estero, quali societa' finanziarie, assicurative, di leasing e di factoring."; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    all'articolo 3, i commi 1, 2 e 3 sono sostituiti dai seguenti:  " 1. Le partecipazioni acquisite dalla Simest S.p.a. ai sensi dell'articolo 1 non possono superare di norma la quota del 25 per cento del capitale o fondo sociale della societa' o impresa e devono essere cedute, a prezzo non inferiore a valori correnti, entro otto anni dalla prima acquisizione. Il CIPE, con propria delibera adottata su proposta del ((Ministro degli affari esteri e della cooperazione internazionale)), di concerto con il Ministro del tesoro, del bilancio e della programmazione economica, stabilisce: 
+ a) le ipotesi in cui il limite del 25 per cento della partecipazione puo' essere aumentato; 
+ b) le ipotesi in cui il termine per la cessione puo' essere prorogato; 
+ c) le ipotesi in cui, in ragione dell'uso di fondi specifici destinati allo scopo, non si applicano il limite massimo di partecipazione o l'obbligo di cessione; 
+ d) le ipotesi in cui la Simest S.p.a. puo' essere autorizzata a partecipare ad aumenti del capitale sociale di societa' di diritto italiano interamente destinati a realizzare l'acquisizione di partecipazioni di imprese o societa' all'estero. 
+ 2. L'acquisizione di partecipazioni da parte della Simest S.p.a. e' subordinata all'impegno degli altri azionisti o di terzi a riacquistare le partecipazioni stesse nei termini e al prezzo indicato al comma 1."; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    all'articolo 3, il comma 5 e' sostituito dal seguente: 
+ " 5. Gli utili conseguiti dalla Simest S.p.a., anche per la parte degli stessi determinati da plusvalenze sulle cessioni di partecipazioni effettuate, possono essere distribuiti gli azionisti diversi dallo Stato. La quota di utili di competenza del ((Ministro degli affari esteri e della cooperazione internazionale)) affluisce all'entrata del bilancio dello Stato per essere contestualmente riassegnata ad un apposito capitolo di spesa del ((Ministero degli affari esteri e della cooperazione internazionale)) per le finalita' di cui alla presente legge."; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    all'articolo 4, comma 1, il primo periodo e' sostituito dai seguenti: "Il soggetto gestore del Fondo di cui all'articolo 3 della legge 28 maggio 1973, n. 295, corrisponde contributi agli interessi agli operatori italiani a fronte di operazioni di finanziamento della loro quota, o di parte di essa, di capitale di rischio nelle societa' o imprese all'estero partecipate dalla Simest S.p.a., alle modalita', condizioni ed importo massimo stabiliti con decreto del Ministro del tesoro, del bilancio e della programmazione economica, di concerto con il ((Ministro degli affari esteri e della cooperazione internazionale)). Si applica l'articolo 3, commi 1, 2 e 5, della legge 26 novembre 1993, n. 489.".
 
 Gli operatori italiani che partecipano a societa' e imprese all'estero partecipate dalla Simest S.p.a. possono essere ammessi per le rispettive quote di partecipazione alla garanzia assicurativa dell'Istituto per i servizi assicurativi del commercio estero (SACE), secondo le modalita' e condizioni contenute nella delibera del CIPE prevista dall'articolo 2, comma 3.
 

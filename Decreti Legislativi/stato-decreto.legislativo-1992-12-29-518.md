@@ -8,8 +8,8 @@ codice_redazionale: 092G0565
 vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:23Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -68,6 +68,26 @@ Dopo la sezione V del capo IV del titolo I della legge 22 aprile 1941, n. 633, e
  4. Conformemente alla convenzione di Berna sulla tutela delle opere letterarie ed artistiche ratificata e resa esecutiva con legge 20 giugno 1978, n. 399, le disposizioni del presente articolo non possono essere interpretate in modo da consentire che la loro applicazione arrechi indebitamente pregiudizio agli interessi legittimi del titolare dei diritti o sia in conflitto con il normale sfruttamento del programma".
 
 ## Art. 6.
+
+1.
+                    
+                        
+                            All'art. 103 della legge 22 aprile 1941, n. 633, sono apportate le seguenti integrazioni:
+ 
+                        
+                        
+                            a)
+                            
+                                Dopo il terzo comma e' aggiunto il seguente:
+ "Alla Societa' italiana degli autori ed editori e' affidata, altresi', la tenuta di un registro pubblico speciale per i programmi per elaboratore. In tale registro viene registrato il nome del titolare dei diritti esclusivi di utilizzazione economica e la data di pubblicazione del programma, intendendosi per pubblicazione il primo atto di esercizio dei diritti esclusivi".
+
+                            
+                        
+                        
+                            b)
+                            
+                                Dopo il quinto comma e' aggiunto il seguente:
+ "I registri di cui al presente articolo possono essere tenuti utilizzando mezzi e strumenti informatici".
 
 ## Art. 7.
 

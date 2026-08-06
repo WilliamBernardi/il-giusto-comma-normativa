@@ -7,8 +7,8 @@ urn: urn:nir:stato:legge:2014-02-21;9
 vigente: true
 source: normattiva-opendata
 collection: DL e leggi di conversione
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:46:28Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 LEGGE

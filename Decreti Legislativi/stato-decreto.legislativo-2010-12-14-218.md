@@ -8,8 +8,8 @@ codice_redazionale: 010G0242
 vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:31Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -60,6 +60,24 @@ All'articolo 4, comma 2, capoverso articolo 120, il comma 1 e' rinumerato come c
 All'articolo 4, comma 3, capoverso articolo 127, il comma 1 e' rinumerato come comma 01, il comma 1-bis come comma 02, il comma 2 come comma 1, il comma 3 come comma 1-bis, il comma 4 come comma 2 e il comma 5 come comma 3.
 
 All'articolo 4, comma 4, capoverso articolo 144, comma 1, dopo le parole: «110 in relazione agli articoli 26 commi 2 e 3» la parola: «e» e' soppressa.
+
+6.
+                    
+                        
+                            All'articolo 4, comma 4, capoverso articolo 144, comma 3-bis, lettera a): 
+ 
+                        
+                        
+                            a)
+                            
+                                le parole: «117, commi 1, 4 e 7» sono sostituite dalle seguenti: «117, commi 1, 2 e 4»; alla lettera b), le parole «117, comma 7» sono sostituite dalle seguenti: «117, comma 8»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                le parole: «125-bis, commi 2 e 3» sono sostituite dalle seguenti: «125-bis, commi 1, 2, 3 e 4, 125-octies, commi 2 e 3».
 
 All'articolo 4, comma 4, capoverso articolo 144, comma 5-bis, la parola: «octies» e' sostituita dalla seguente: «novies»; dopo le parole: «comma 4» sono aggiunte, in fine, le seguenti: «primo periodo».
 
@@ -160,6 +178,26 @@ All'articolo 19, comma 2, dopo le parole: «sono scelti», sopprimere la virgola
 
 ## Art. 11. — Modifiche all'articolo 21 del decreto legislativo 13 agosto 2010, n. 141
 
+1.
+                    
+                        
+                            All'articolo 21, comma 1, sono apportate le seguenti modifiche: 
+ 
+                        
+                        
+                            a)
+                            
+                                la lettera g) e' sostituita dalla seguente: 
+ «g) accerta la sussistenza dei requisiti di professionalita' ai fini dell'iscrizione nell'elenco degli agenti in attivita' finanziaria e dei mediatori creditizi e cura l'aggiornamento professionale degli iscritti;»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                la lettera h) e' sostituita dalla seguente: 
+ «h) stabilisce gli standard dei corsi di formazione che le societa' di mediazione e gli agenti in attivita' finanziaria sono tenuti a svolgere nei confronti dei propri dipendenti, collaboratori o lavoratori autonomi;».
+
 ## Art. 12. — Modifiche all'articolo 23 del decreto legislativo 13 agosto 2010, n. 141
 
 All'articolo 23, comma 3, lettera b), numero 7), le parole: «il mediatore creditizio si avvale svolgimento della propria attivita'» sono sostituite dalle seguenti: «l'agente in attivita' finanziaria si avvale nello svolgimento della propria attivita'».
@@ -175,6 +213,24 @@ L'articolo 23, comma 6, e' sostituito dal seguente: «6. Gli iscritti negli elen
 
 All'articolo 26, comma 1, e' anteposto il seguente: 
  «01. Le Autorita' competenti provvedono all'emanazione delle disposizioni attuative del Titolo VI-bis del decreto legislativo 1° settembre 1993, n. 385, e del titolo IV del presente decreto, nonche' alla costituzione dell'Organismo al piu' tardi entro il 31 dicembre 2011.».
+
+2.
+                    
+                        
+                            All'articolo 26, comma 1: 
+ 
+                        
+                        
+                            a)
+                            
+                                le parole: «I soggetti gia' iscritti, alla data di entrata in vigore del presente decreto, nell'albo dei mediatori creditizi previsto dall'articolo 16 della legge 7 marzo 1996, n. 108» sono sostituite dalle seguenti: «I soggetti iscritti, alla data di entrata in vigore del presente decreto ovvero ai sensi del comma 3, nell'albo dei mediatori creditizi ai sensi dell'articolo 16 della legge 7 marzo 1996, n. 108, o ai sensi dell'articolo 17 della legge 28 dicembre 2005, n. 262»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                le parole: «128-quinquies e 128-septies.» sono sostituite dalle seguenti: «128-quinquies, 128-septies e 128-quaterdecies.».
 
 All'articolo 26, il comma 3, e' sostituito dal seguente: 
  «3. Fino al 30 giugno 2011 o, se precedente, fino alla data di costituzione dell'Organismo, gli agenti in attivita' finanziaria e i mediatori creditizi, ivi compresi quelli previsti dall'articolo 17 della legge 28 dicembre 2005, n. 262, possono continuare ad iscriversi nei rispettivi elenchi e albi, in base alle disposizioni vigenti alla data del 4 settembre 2010.».
@@ -203,6 +259,24 @@ All'articolo 28, il comma 5 e' sostituito dal seguente:
  «5. Fermo restando quanto previsto ai commi 1 e 1-bis e 1-ter, a decorrere dal sessantesimo giorno dalla data di entrata in vigore del presente decreto legislativo si applicano gli articoli 128-quater, comma 5, e 128-novies, comma 4, del decreto legislativo 1° settembre 1993, n. 385, come modificato dal presente decreto, nonche' l'articolo 12, comma 2, l'articolo 13 e l'articolo 28, commi 3 e 4, del presente decreto. Le banche e Poste Italiane spa possono conferire agli agenti iscritti mandato diretto per le attivita' indicate all'articolo 128-quater, comma 3.».
 
 ## Art. 16. — Ulteriori modifiche al decreto legislativo 13 agosto 2010, n. 141
+
+1.
+                    
+                        
+                            Al decreto legislativo 13 agosto 2010, n. 141, sono apportate, altresi', le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                nelle premesse al decreto, nel quinto capoverso, la parola: «11» e' sostituita dalla seguente: «10»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                all'articolo 7, capoverso articolo 111, comma 3, dopo le parole: «ausiliari di bilancio familiare», la parola: «e» e' soppressa ed e' sostituita dalla seguente: « , ».
 
 All'articolo 14, comma 1, lettera a), prima della parola: «corso», e' inserita la seguente: «un».
 

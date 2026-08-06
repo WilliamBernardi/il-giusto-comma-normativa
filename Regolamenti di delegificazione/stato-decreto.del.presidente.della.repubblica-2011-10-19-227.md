@@ -8,8 +8,8 @@ codice_redazionale: 012G0013
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti di delegificazione
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:40:25Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -39,9 +39,73 @@ Il presente regolamento si applica alle categorie di imprese di cui all'articolo
 
 ## Art. 2. — Criteri di assimilazione alle acque reflue domestiche
 
+1.
+                        
+                            
+                                Fermo restando quanto previsto dall'articolo 101 e dall'Allegato 5 alla Parte terza del decreto legislativo 3 aprile 2006, n. 152, sono assimilate alle acque reflue domestiche: 
+ 
+                            
+                            
+                                a)
+                                
+                                    le acque che prima di ogni trattamento depurativo presentano le caratteristiche qualitative e quantitative di cui alla tabella 1 dell'Allegato A; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le acque reflue provenienti da insediamenti in cui si svolgono attivita' di produzione di beni e prestazione di servizi i cui scarichi terminali provengono esclusivamente da servizi igienici, cucine e mense; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    le acque reflue provenienti dalle categorie di attivita' elencate nella tabella 2 dell'Allegato A, con le limitazioni indicate nella stessa tabella.
+
 Fermo restando quanto previsto dall'articolo 101, comma 7, lettera e), del decreto legislativo 3 aprile 2006, n. 152, in assenza di disciplina regionale si applicano i criteri di assimilazione di cui al comma 1.
 
 ## Art. 3. — Rinnovo dell'autorizzazione agli scarichi di acque reflue industriali
+
+1.
+                        
+                            
+                                Fermo restando quanto previsto dall'articolo 124 del decreto legislativo 3 aprile 2006, n. 152, ai fini del rinnovo dell'autorizzazione il titolare dello scarico, almeno sei mesi prima della scadenza, qualora non si siano verificate modificazioni rispetto ai presupposti della autorizzazione gia' concessa, presenta all'autorita' competente un'istanza corredata di dichiarazione sostitutiva ai sensi dell'articolo 47 del decreto del Presidente della Repubblica 28 dicembre 2000, n. 445, che attesti che sono rimaste immutate: 
+ 
+                            
+                            
+                                a)
+                                
+                                    le caratteristiche quali-quantitative dello scarico intese come volume annuo scaricato, massa e tipologia di sostanze scaricate, in relazione a quanto previsto nella precedente autorizzazione o se, non esplicitato in questa ultima, nella relativa istanza; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le caratteristiche del ciclo produttivo compresa la capacita' di produzione; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    le sostanze impiegate nel ciclo produttivo e le relative quantita'; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    gli impianti aziendali di trattamento delle acque reflue e le relative caratteristiche tecniche; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    la localizzazione dello scarico.
 
 La modalita' semplificata di rinnovo dell'autorizzazione di cui al comma 1 non si applica per gli scarichi contenenti sostanze pericolose di cui all'articolo 108 del decreto legislativo 3 aprile 2006, n. 152.
 

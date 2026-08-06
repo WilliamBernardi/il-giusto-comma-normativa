@@ -7,8 +7,8 @@ urn: urn:nir:stato:decreto.legislativo:2022-08-03;123
 vigente: true
 source: normattiva-opendata
 collection: Leggi delega e relativi provvedimenti delegati
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:41:16Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -30,6 +30,31 @@ Sulla proposta del Presidente del Consiglio dei ministri e del Ministro dello sv
 
 Il presente decreto stabilisce misure volte ad adeguare la normativa nazionale al nuovo quadro europeo di certificazione della cybersicurezza, introdotto mediante le disposizioni del Titolo III del regolamento (UE) 2019/881.
 
+2.
+                        
+                            
+                                Ai fini del comma 1, il presente decreto prevede: 
+ 
+                            
+                            
+                                a)
+                                
+                                    l'individuazione dell'organizzazione dell'autorita' nazionale di certificazione della cybersicurezza in Italia, di cui all'articolo 4, comma 1, in base ai compiti ed ai poteri ad essa attribuiti in materia di vigilanza in ambito nazionale e di rilascio dei certificati di cybersicurezza, con riferimento al quadro europeo di certificazione; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le modalita' di cooperazione dell'autorita' di cui alla lettera a) con le altre autorita' pubbliche nazionali ed europee e con l'Organismo di accreditamento; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    la definizione di un sistema sanzionatorio applicabile in caso di violazione delle norme del quadro europeo di certificazione con sanzioni effettive, proporzionate e dissuasive.
+
 Il presente decreto si applica fatte salve le disposizioni specifiche riguardanti le attivita' nel settore della pubblica sicurezza, della difesa, della sicurezza nazionale e le attivita' dello Stato nell'ambito del diritto penale.
 
 ## Art. 2. — Trattamento dei dati personali
@@ -37,6 +62,213 @@ Il presente decreto si applica fatte salve le disposizioni specifiche riguardant
 Il trattamento dei dati personali derivante dall'applicazione del presente decreto e' effettuato ai sensi del regolamento (UE) 2016/679 e del decreto legislativo 30 giugno 2003, n. 196.
 
 ## Art. 3. — Definizioni
+
+1.
+                        
+                            
+                                Ai fini del presente decreto, oltre alle definizioni contenute nel regolamento (UE) 2019/881 del Parlamento europeo e del Consiglio, del 17 aprile 2019, si applicano le seguenti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    «TIC»: Tecnologia dell'Informazione e della Comunicazione; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    «Regolamento»: Titolo III del regolamento (UE) 2019/881 del Parlamento europeo e del Consiglio, del 17 aprile 2019, relativo all'ENISA, l'Agenzia dell'Unione europea per la cibersicurezza, e alla certificazione della cibersicurezza per le tecnologie dell'informazione e della comunicazione, e che abroga il regolamento (UE) n. 526/2013; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    «quadro europeo di certificazione»: il Regolamento ed i successivi sistemi europei di certificazione adottati a norma dell'articolo 49 del Regolamento; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    «messa a disposizione sul mercato»: la fornitura di un prodotto TIC o di un servizio TIC per la distribuzione, il consumo o l'uso sul mercato dell'Unione Europea nel corso di un'attivita' commerciale, a titolo oneroso o gratuito; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    «richiamo»: qualsiasi provvedimento volto ad ottenere la restituzione di un prodotto TIC che e' gia' stato reso disponibile all'utilizzatore finale; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    «ritiro»: qualsiasi provvedimento volto ad impedire la messa a disposizione sul mercato di un prodotto TIC o servizio TIC nella catena della fornitura; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    «vigilanza del mercato»: le attivita' svolte ed i provvedimenti adottati dall' Agenzia e dalle altre autorita' pubbliche competenti per garantire che i prodotti TIC, i servizi TIC ed i processi TIC ad essi collegati siano conformi ai requisiti stabiliti dal quadro europeo di certificazione e non pregiudichino la salute, la sicurezza o qualsiasi altro aspetto della protezione del pubblico interesse; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    «Agenzia»: l'Agenzia per la cybersicurezza nazionale di cui all'articolo 5 del decreto-legge 14 giugno 2021, n. 82, convertito, con modificazioni, dalla legge 4 agosto 2021, n. 109, designata dall'articolo 7, comma 1, lettera e), del medesimo decreto-legge, per l'Italia, quale autorita' nazionale di certificazione della cybersicurezza, di cui all'articolo 58, paragrafo 1, del Regolamento; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    «standard» o «norma»: una specifica tecnica, adottata da un organismo di normazione riconosciuto ai sensi dell'articolo 2, paragrafo 1, numero 1), del regolamento (UE) n. 1025/2012; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    «norma armonizzata»: una norma europea adottata sulla base di una richiesta della Commissione Europea ai fini dell'applicazione della legislazione dell'Unione sull'armonizzazione ai sensi dell'articolo 2, paragrafo 1, numero 1, lettera c), del regolamento (UE) n. 1025/2012; 
+
+                                
+                            
+                            
+                                m)
+                                
+                                    «Organismo di accreditamento»: l'organismo autorizzato a svolgere l'attivita' di accreditamento nel territorio dello Stato, ai sensi dell'articolo 2, paragrafo 1, numero 11, del regolamento (CE) 765/2008, designato con decreto del Ministro dello sviluppo economico del 22 dicembre 2009 in attuazione dell'articolo 4, comma 2, della legge 23 luglio 2009, n. 99; 
+
+                                
+                            
+                            
+                                n)
+                                
+                                    «autorizzazione»: provvedimento con il quale l'Agenzia accerta il possesso, a norma dell'articolo 54, paragrafo 1, lettera f), del Regolamento, di requisiti specifici o supplementari a cui sono soggetti gli organismi di valutazione della conformita' per poter operare nell'ambito di uno specifico sistema europeo di certificazione, in aggiunta a quanto gia' previsto nell'allegato del Regolamento; 
+
+                                
+                            
+                            
+                                o)
+                                
+                                    «abilitazione»: provvedimento con il quale l'Agenzia accerta i requisiti necessari affinche' un esperto o un laboratorio di prova possa coadiuvare l'Agenzia nelle attivita' di vigilanza nazionale o di rilascio dei certificati di cybersicurezza; 
+
+                                
+                            
+                            
+                                p)
+                                
+                                    «laboratorio di prova»: organismo di valutazione della conformita' che svolge verifiche documentali e/o prove in base alle norme armonizzate europee ed agli standard e specifiche tecniche nell'ambito del sistema europeo di certificazione in cui e' accreditato; 
+
+                                
+                            
+                            
+                                q)
+                                
+                                    «organismo di certificazione»: organismo di valutazione della conformita' che emette certificati europei di cybersicurezza in base alle norme armonizzate europee ed agli standard di riferimento ai sensi dell'articolo 54, paragrafo 1, lettera c), del Regolamento per il sistema di certificazione in cui e' accreditato; 
+
+                                
+                            
+                            
+                                r)
+                                
+                                    «elenco dei laboratori di prova e degli esperti per le attivita' di vigilanza nazionale»: registro aggiornato dei laboratori di prova e degli esperti abilitati dall'Agenzia ad effettuare attivita' di valutazione di sicurezza informatica nell'ambito dei compiti di vigilanza nazionale dell'Agenzia; 
+
+                                
+                            
+                            
+                                s)
+                                
+                                    «elenco dei laboratori di prova e degli esperti per le attivita' di certificazione»: registro aggiornato dei laboratori di prova e degli esperti abilitati dall'Agenzia ad effettuare attivita' di valutazione di sicurezza informatica nell'ambito dei compiti di rilascio dei certificati di cybersicurezza dell'Agenzia; 
+
+                                
+                            
+                            
+                                t)
+                                
+                                    «Organismo di Certificazione della Sicurezza Informatica» o «OCSI»: organismo di certificazione dell'Agenzia, accreditato ai sensi dell'articolo 60, paragrafo 2, del Regolamento, istituito ai sensi dell'articolo 4 del decreto del Presidente del Consiglio dei ministri del 30 ottobre 2003, pubblicato nella Gazzetta Ufficiale n. 98 del 27 aprile 2004; 
+
+                                
+                            
+                            
+                                u)
+                                
+                                    «dichiarazione UE di conformita'»: attestazione di conformita' rilasciata da un fabbricante di prodotti TIC o fornitore di servizi TIC ai sensi dell'articolo 53, paragrafo 1, del regolamento UE 2019/881, a seguito del processo di autovalutazione di conformita' previsto dallo stesso articolo; 
+
+                                
+                            
+                            
+                                v)
+                                
+                                    «emittenti delle dichiarazioni di conformita' UE»: i soggetti di cui all'articolo 53, paragrafo 1, del regolamento UE 2019/881; 
+
+                                
+                            
+                            
+                                z)
+                                
+                                    «certificato europeo di cybersicurezza»: un documento rilasciato da un organismo di certificazione che attesta che un determinato prodotto TIC, servizio TIC o processo TIC e' stato oggetto di una valutazione di conformita' ai requisiti stabiliti da un sistema europeo di certificazione; 
+
+                                
+                            
+                            
+                                aa)
+                                
+                                    «certificato europeo di cybersicurezza (o dichiarazione UE di conformita') non conforme»: certificato europeo di cybersicurezza (o dichiarazione UE di conformita') che non soddisfa uno o piu' requisiti di un sistema europeo di certificazione ai sensi dell'articolo 54, paragrafo 1, del Regolamento; 
+
+                                
+                            
+                            
+                                bb)
+                                
+                                    «revoca di un certificato europeo di cybersicurezza»: annullamento di un certificato europeo di cybersicurezza prima della sua scadenza da parte dell'organismo di valutazione della conformita' emittente o da parte dell'Agenzia; 
+
+                                
+                            
+                            
+                                cc)
+                                
+                                    «revoca di una dichiarazione UE di conformita'»: annullamento di una dichiarazione UE di conformita' prima della sua scadenza da parte del fabbricante o fornitore emittente; 
+
+                                
+                            
+                            
+                                dd)
+                                
+                                    «livello di affidabilita' di base»: livello di affidabilita' che soddisfa i requisiti ed e' valutato con i criteri specificati al paragrafo 5 dell'articolo 52 del Regolamento; 
+
+                                
+                            
+                            
+                                ee)
+                                
+                                    «livello di affidabilita' sostanziale»: livello di affidabilita' che soddisfa i requisiti ed e' valutato con i criteri specificati al paragrafo 6 dell'articolo 52 del Regolamento; 
+
+                                
+                            
+                            
+                                ff)
+                                
+                                    «livello di affidabilita' elevato»: livello di affidabilita' che soddisfa i requisiti ed e' valutato con i criteri specificati al paragrafo 7 dell'articolo 52 del Regolamento; 
+
+                                
+                            
+                            
+                                gg)
+                                
+                                    «ECCG»: Gruppo europeo di certificazione della cibersicurezza, ai sensi dell'articolo 62 del Regolamento; 
+
+                                
+                            
+                            
+                                hh)
+                                
+                                    «ENISA»: l'Agenzia dell'Unione europea per la cibersicurezza di cui al Titolo II del regolamento (UE) 2019/881.
 
 ## - Capo II Autorita' nazionale, attivita' nazionale ed internazionale
 
@@ -52,9 +284,59 @@ Per lo svolgimento dei compiti attribuiti all'Agenzia, inerenti la realizzazione
 
 ## Art. 5. — Vigilanza nazionale
 
+1.
+                        
+                            
+                                L'Agenzia realizza l'attivita' di vigilanza del mercato in ambito nazionale ai fini della corretta applicazione delle regole previste dai sistemi europei di certificazione della cybersicurezza, con riferimento ai certificati di cybersicurezza ed alle dichiarazioni UE di conformita' emessi nel territorio dello Stato, ai sensi dell'articolo 58, paragrafo 7, lettere a) e b), del Regolamento, vigilando sui fornitori e fabbricanti emittenti le dichiarazioni UE di conformita', sui titolari di certificati europei di cybersicurezza e sugli organismi di valutazione della conformita', ai sensi dell'articolo 58, paragrafo 8, del Regolamento. L'Agenzia, inoltre, ai sensi dell'articolo 58, paragrafo 7, lettere c), d) ed e), del Regolamento: 
+ 
+                            
+                            
+                                a)
+                                
+                                    fatto salvo l'articolo 60, paragrafo 3, del Regolamento nonche' quanto stabilito alla lettera b) del presente comma, assiste e sostiene attivamente l'Organismo di accreditamento nel monitoraggio e nella vigilanza delle attivita' degli organismi di valutazione della conformita' ai fini del Regolamento. Le modalita' di sostegno ed assistenza dell'Agenzia all'Organismo di accreditamento per l'attivita' di vigilanza sono disciplinate da apposita convenzione o protocollo di intesa fra i medesimi soggetti; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    monitora e vigila sulle attivita' degli organismi di valutazione della conformita' pubblici di cui all'articolo 56, paragrafo 5, lettera b), del Regolamento; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    ove previsto dal sistema di certificazione ai sensi dell'articolo 54, paragrafo 1, lettera f), del Regolamento, autorizza gli organismi di valutazione della conformita' a norma dell'articolo 60, paragrafo 3, del Regolamento, e limita, sospende o revoca l'autorizzazione esistente qualora violino le prescrizioni del Regolamento medesimo, dandone notizia all'Organismo di accreditamento.
+
 L'Agenzia, nello svolgimento dell'attivita' di vigilanza di cui al comma 1, opera anche in collaborazione con altre autorita' di vigilanza del mercato competenti in Italia e con le autorita' di vigilanza degli altri Stati membri ai sensi dell'articolo 58, paragrafo 7, lettere a) ed h), del Regolamento. L'Agenzia esegue l'attivita' di vigilanza di cui al comma 1 anche in collaborazione con le Forze dell'ordine.
 
 L'Agenzia, nell'attivita' di vigilanza di cui al comma 1, puo' effettuare, nei confronti degli organismi di valutazione della conformita', dei titolari dei certificati europei di cybersicurezza e degli emittenti le dichiarazioni di conformita' UE, indagini ed audit, ottenendo informazioni anche tramite l'accesso ai locali degli organismi di valutazione della conformita' o dei titolari dei certificati europei di cybersicurezza, revocare certificati ai sensi del comma 4, irrogare sanzioni pecuniarie ed accessorie ai sensi dell'articolo 10. L'attivita' di vigilanza dell'Agenzia puo' prevedere prelievi di prodotti.
+
+4.
+                        
+                            
+                                Nel caso in cui l'Agenzia, in esito alle attivita' di vigilanza di cui al comma 1, accerti l'emissione di un certificato non conforme, rilasciato ai sensi dell'articolo 56, paragrafi 4, 5, lettera b), o 6, lettere a) e b), del Regolamento, il certificato e' sottoposto a revoca: 
+ 
+                            
+                            
+                                a)
+                                
+                                    per il livello di affidabilita' elevato; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    per il livello di affidabilita' di base o sostanziale nel caso in cui il certificato non conforme sia relativo ad un prodotto TIC, servizio TIC o processo TIC che ha comportato un concreto e dimostrato pregiudizio ad un servizio essenziale ai sensi dell'allegato II del decreto legislativo 18 maggio 2018, n. 65, o a un servizio di comunicazione elettronica ai sensi dell'articolo 2, comma 1, lettera fff), del decreto legislativo 1° agosto 2003, n. 259, o alla salute o all'incolumita' personale; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    se previsto espressamente dallo specifico sistema europeo di certificazione.
 
 Nella fattispecie di cui alla lettera a) del comma 4 l'Agenzia provvede direttamente alla revoca del certificato. Nella fattispecie di cui alla lettera b) del comma 4 l'Agenzia chiede all'organismo emittente il certificato di provvedere alla revoca del certificato entro e non oltre cinque giorni e, in caso di inottemperanza, provvede direttamente entro i successivi cinque giorni. Nella fattispecie di cui alla lettera c) del comma 4 si provvede in base alle regole stabilite dal sistema specifico di certificazione.
 
@@ -175,6 +457,24 @@ L'Agenzia, a seguito di un reclamo ai sensi del comma 3, informa il reclamante d
 ## Art. 12.
 
 Ricorso all'autorita' giudiziaria
+
+1.
+                        
+                            
+                                Fatti salvi eventuali ricorsi amministrativi o altri ricorsi extragiudiziali, le persone fisiche e giuridiche possono proporre impugnazione avverso: 
+ 
+                            
+                            
+                                a)
+                                
+                                    le decisioni assunte dall'Agenzia o dagli organismi di valutazione della conformita', anche, se del caso, in relazione al rilascio improprio, al mancato rilascio o al riconoscimento di un certificato europeo di cybersicurezza detenuto da tali persone fisiche e giuridiche; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il mancato o parziale accoglimento di un reclamo presentato all'Agenzia o agli organismi di valutazione della conformita'.
 
 A norma del presente articolo, i ricorsi contro le decisioni dell'Agenzia sono presentati dinanzi al tribunale amministrativo regionale del Lazio e quelli contro le decisioni degli altri organismi di valutazione della conformita' al tribunale amministrativo del luogo ove e' ubicata la sede di tali organismi.
 

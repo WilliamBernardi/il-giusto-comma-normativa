@@ -8,8 +8,8 @@ codice_redazionale: 006G0205
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:39Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DEL CONSIGLIO DEI MINISTRI
@@ -61,6 +61,45 @@ I dati trattati in via informatica sono conservati fino alla positiva conclusion
 Titolare del trattamento e' la Presidenza del Consiglio dei Minitri, Dipartimento per lo sviluppo delle economie territoriali.
 
 ## Art. 5. — Responsabile della banca di dati informatica
+
+1.
+                    
+                        
+                            Il titolare del trattamento designa uno o piu' responsabili della banca di dati cui saranno affidati i seguenti compiti:
+ 
+                        
+                        
+                            a)
+                            
+                                verificare l'acquisizione dei dati per la costituzione e la tenuta della banca di dati; assicurare la completezza e l'aggiornamento dei dati ivi contenuti;
+
+                            
+                        
+                        
+                            b)
+                            
+                                verificare che i dati trattati siano necessari, pertinenti e non eccedenti rispetto agli obblighi ed ai compiti attribuiti, valutando specificamente il rapporto tra i dati e gli adempimenti;
+
+                            
+                        
+                        
+                            c)
+                            
+                                curare il coordinamento di tutte le operazioni di trattamento dei dati;
+
+                            
+                        
+                        
+                            d)
+                            
+                                impartire disposizioni operative per la sicurezza della banca di dati e dei procedimenti di gestione e trattamento degli stessi, ai sensi del decreto legislativo n. 196 del 2003 e successive modifiche ed integrazioni;
+
+                            
+                        
+                        
+                            e)
+                            
+                                assicurare l'esercizio dei diritti degli interessati di cui agli articoli 7, 8, 9 e 10 del decreto legislativo n. 196 del 2003 e successive modifiche ed integrazioni, nonche' il diritto di accesso di cui agli articoli 22 e seguenti della legge 7 agosto 1990, n. 241 e successive modifiche ed integrazioni.
 
 Il responsabile per il trattamento dei dati procede, in accordo con il titolare, all'individuazione degli incaricati.
 

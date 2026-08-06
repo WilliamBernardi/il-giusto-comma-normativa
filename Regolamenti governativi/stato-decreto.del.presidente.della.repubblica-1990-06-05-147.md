@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Regolamenti governativi
 vigenza_date: 2001-05-06
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:11Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -583,6 +583,31 @@ Carabiniere e finanziere 1.725.000 2.145.000
 
 ## Art. 6. — Indennita' pensionabile
 
+1.
+                    
+                        
+                            L'indennita' prevista all'art. 5 del decreto del Presidente della Repubblica 27 marzo 1984, n. 69, modificato dall'art. 6 del decreto del Presidente della Repubblica 10 aprile 1987, n. 150, e' incrementata, rispetto alle misure vigenti al 30 giugno 1988:
+ 
+                        
+                        
+                            a)
+                            
+                                del cinque per cento a decorrere dal 1 luglio 1989;
+
+                            
+                        
+                        
+                            b)
+                            
+                                del nove per cento, ivi compreso il precedente incremento, a decorrere dal 1 gennaio 1990;
+
+                            
+                        
+                        
+                            c)
+                            
+                                del venti per cento, ivi compresi i precedenti incrementi, a decorrere dal 1 maggio 1990.
+
 A decorrere dal 1 maggio 1990, l'autonoma maggiorazione di stipendio prevista dall'art. 2, comma 3, del decreto del Presidente della Repubblica 10 aprile 1987, n. 150, e' soppressa.
 
 ## Art. 7. — Indennita' di rischio da radiazioni
@@ -597,6 +622,24 @@ L'individuazione del predetto personale va effettuata da apposita commissione, c
 L'indennita' di rischio da radiazioni di cui al presente articolo non e' cumulabile con l'indennita' di cui al decreto del Presidente della Repubblica 5 maggio 1975, n. 146, e con altre eventualmente previste a titolo di lavoro nocivo, rischioso o per profilassi.
 
 ## Art. 8. — Trattamento di missione
+
+1.
+                    
+                        
+                            Le misure intere lorde giornaliere dell'indennita' di missione sono le seguenti: 
+ 
+                        
+                        
+                            a)
+                            
+                                livello V, VI, VI-bis, VII, VIII ed VIII-bis: L. 39.600; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                livello IV: L. 28.800.
 
 A decorrere dal 1 gennaio 1990 per incarichi di missione di durata superiore a dodici ore, al personale compete il rimborso delle spese documentate, mediante fattura o ricevuta fiscale, per il pernottamento in albergo della categoria consentita e per uno o due pasti giornalieri, nel limite di L. 30.000 per il primo pasto e di complessive 60.000 per i due pasti. Per incarichi di durata non inferiore ad otto ore compete il rimborso di un solo pasto. (2)
 
@@ -635,6 +678,63 @@ A decorrere dall'anno 1990 l'indennita' integrativa speciale mensile corrisposta
 Il beneficio derivante dall'applicazione del comma 1 e' proporzionalmenteridotto nei casi in cui la tredicesima mensilita' non compete in misura intera.
 
 ## Art. 10. — Indennita' di ordine pubblico fuori sede
+
+1.
+                    
+                        
+                            Al personale della Polizia di Stato, comandato in servizio di ordine pubblico fuori sede in maniera isolata o collettiva, compete, in sostituzione dell'indennita' di cui all'art. 1 della legge 31 maggio 1975, n. 204, e successive modificazioni ed integrazioni, un'indennita' giornaliera di ordine pubblico fuori sede nelle seguenti misure:
+ 
+                        
+                        
+                            a)
+                            
+                                livello V, VI, VI-bis, VII, VIII ed VIII- bis: L. 40.000;
+
+                            
+                        
+                        
+                            b)
+                            
+                                livello IV: L. 30.000.
+
+2.
+                    
+                        
+                            Ai fini della corresponsione dell'indennita' di cui al comma 1:
+ 
+                        
+                        
+                            a)
+                            
+                                le frazioni del servizio di ordine pubblico di quattro o piu' ore comportano l'attribuzione della indennita' di ordine pubblico fuori sede in misura intera; per le frazioni, aventi durata inferiore a quattro ore, l'indennita' e' dovuta in ragione di un ventiquattresimo per ogni ora di servizio di ordine pubblico fuori sede;
+
+                            
+                        
+                        
+                            b)
+                            
+                                l'indennita' compete per il servizio di ordine pubblico in localita' poste in comune diverso dalla ordinaria sede di servizio;
+
+                            
+                        
+                        
+                            c)
+                            
+                                l'indennita' non e' cumulabile con l'indennita' di marcia e con il trattamento economico di missione;
+
+                            
+                        
+                        
+                            d)
+                            
+                                in caso di servizio che non comporta il pernottamento fuori sede, l'indennita' di cui al comma 1 e' ridotta del trenta per cento;
+
+                            
+                        
+                        
+                            e)
+                            
+                                il personale in servizio di ordine pubblico fuori sede e' obbligato a consumare il vitto fornito dall'amministrazione e ad alloggiare in locale messo a disposizione dalla stessa amministrazione.
 
 Le disposizioni di cui ai commi 1 e 2 hanno effetto dal 1 giugno 1990.
 

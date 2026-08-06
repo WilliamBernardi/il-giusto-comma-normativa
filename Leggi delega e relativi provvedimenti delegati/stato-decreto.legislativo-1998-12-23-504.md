@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Leggi delega e relativi provvedimenti delegati
 vigenza_date: 2025-01-01
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:41:17Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -52,6 +52,33 @@ Soggetti passivi dell'imposta unica sono coloro i quali gestiscono, anche in con
  La Corte Costituzionale, con sentenza 23 gennaio - 14 febbraio 2018, n. 27 (in G.U. 1ª s.s. 21/2/2018, n. 8), ha dichiarato l'illegittimita' costituzionale del presente articolo nella parte in cui prevede che "- nelle annualita' d'imposta precedenti al 2011 - siano assoggettate all'imposta unica sui concorsi pronostici e sulle scommesse le ricevitorie operanti per conto di soggetti privi di concessione".
 
 ## Art. 4. — Aliquota
+
+1.
+                    
+                        
+                            Le aliquote dell'imposta unica sono stabilite nelle misure seguenti: 
+ 
+                        
+                        
+                            a)
+                            
+                                per i concorsi pronostici: 26,80 per cento della base imponibile; resta salva la rideterminazione della predetta aliquota, in occasione dell'esercizio della delega di cui alla lettera o) del comma 1 dell'articolo 1 della legge 3 agosto 1998, n. 288, ove necessario per garantire l'assenza di oneri per il bilancio dello Stato; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                per le scommesse: 
+ 1) per la scommessa tris e per le scommesse ad essa assimilabili, ai sensi dell'articolo 4, comma 6, del regolamento di cui al decreto del Presidente della Repubblica 8 aprile 1998, n. 169: 22,50 per cento della quota di prelievo stabilita per ciascuna scommessa; 
+ 2) per ogni tipo di scommessa ippica a totalizzatore ed a quota fissa, salvo quanto previsto dall'articolo 1, comma 498, della legge 30 dicembre 2004, n. 311: 15,70 per cento della quota di prelievo stabilita per ciascuna scommessa; 
+ 3) per le scommesse a quota fissa su eventi diversi dalle corse dei cavalli e per le scommesse con modalita' di interazione diretta tra i singoli giocatori: 
+ 3.1) nel caso in cui il movimento netto dei dodici mesi precedenti derivante dalle scommesse a quota fissa su eventi diversi dalle corse dei cavalli sia superiore a 1.850 milioni di euro, nella misura del 3 per cento per ciascuna scommessa composta fino a sette eventi e per le scommesse con modalita' di interazione diretta tra i singoli giocatori; nella misura dell'8 per cento per ciascuna scommessa composta da piu' di sette eventi; 
+ 3.2) nel caso in cui il movimento netto dei dodici mesi precedenti derivante dalle scommesse a quota fissa su eventi diversi dalle corse dei cavalli sia superiore a 2.150 milioni di euro, nella misura del 3 per cento per ciascuna scommessa composta fino a sette eventi e per le scommesse con modalita' di interazione diretta tra i singoli giocatori; nella misura del 6,8 per cento per ciascuna scommessa composta da piu' di sette eventi; 
+ 3.3) nel caso in cui il movimento netto dei dodici mesi precedenti derivante dalle scommesse a quota fissa su eventi diversi dalle corse dei cavalli sia superiore a 2.500 milioni di euro, nella misura del 3 per cento per ciascuna scommessa composta fino a sette eventi e per le scommesse con modalita' di interazione diretta tra i singoli giocatori; nella misura del 6 per cento per ciascuna scommessa composta da piu' di sette eventi; 
+ 3.4) nel caso in cui il movimento netto dei dodici mesi precedenti derivante dalle scommesse a quota fissa su eventi diversi dalle corse dei cavalli sia superiore a 3.000 milioni di euro, nella misura del 2,5 per cento per ciascuna scommessa composta fino a sette eventi e per le scommesse con modalita' di interazione diretta tra i singoli giocatori; nella misura del 5,5 per cento per ciascuna scommessa composta da piu' di sette eventi; 
+ 3.5) nel caso in cui il movimento netto dei dodici mesi precedenti derivante dalle scommesse a quota fissa su eventi diversi dalle corse dei cavalli sia superiore a 3.500 milioni di euro, nella misura del 2 per cento per ciascuna scommessa composta fino a sette eventi e per quelle con modalita' di interazione diretta tra i singoli giocatori; nella misura del 5 per cento per ciascuna scommessa composta da piu' di sette eventi; (4) (5) 
+ 4) per le scommesse a totalizzatore su eventi diversi dalle corse dei cavalli: 20 per cento di ciascuna scommessa.
 
 Per l'anno 1999, l'aliquota applicabile alle scommesse di cui al numero 1) della lettera b) del comma 1 e' stabilita nella misura del 32 per cento. 
  (10) ((11))
@@ -104,6 +131,24 @@ Nell'esercizio delle attribuzioni e dei poteri riconosciuti all'Amministrazione 
 Salvo quanto previsto dal comma 7 del presente articolo, si applicano le disposizioni in materia di sanzioni amministrative tributarie recate dal decreto legislativo 18 dicembre 1997, n. 472, e dall'articolo 7 del decreto-legge 30 settembre 2003, n. 269, convertito, con modificazioni, dalla legge 24 novembre 2003, n. 326.
 Tuttavia, ai fini dell'applicazione dell'articolo 12 del citato decreto legislativo n. 472 del 1997, e successive modificazioni, le sanzioni previste dal presente articolo si applicano separatamente rispetto a tutti gli altri tributi indicati nel comma 4 dello stesso articolo 12.
 
+7.
+                    
+                        
+                            Le sanzioni in materia di concorsi pronostici e di scommesse, previste dal presente articolo, sono ridotte, sempreche´ la violazione non sia stata gia' oggetto di comunicazione di omesso versamento e che, comunque, non siano iniziati accessi, ispezioni, verifiche o altre attivita' amministrative di contestazione dei quali l'autore o i soggetti solidalmente obbligati abbiano avuto formale conoscenza: 
+ 
+                        
+                        
+                            a)
+                            
+                                a un dodicesimo del minimo, nei casi di mancato pagamento del tributo, se esso e' eseguito nel termine di trenta giorni dalla data dell'omissione o dell'errore; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                a un decimo del minimo, se la regolarizzazione delle violazioni, anche se incidenti sulla determinazione o sul pagamento del tributo, avviene entro un anno dalla violazione.
+
 Il pagamento della sanzione ridotta di cui al comma 7 deve essere eseguito contestualmente alla regolarizzazione del pagamento del tributo o della differenza, quando dovuti, nonche´ al pagamento degli interessi moratori calcolati al tasso legale con maturazione giorno per giorno.
 
 -------------
@@ -121,7 +166,107 @@ Con i regolamenti di cui al comma 1 sono individuate le disposizioni che cessano
 
 ## Art. 8. — Imputazione delle somme versate al bilancio dello Stato
 
+1.
+                    
+                        
+                            L'ammontare dell'imposta di cui all'articolo 1 e' iscritto nello stato di previsione dell'entrata del bilancio dello Stato:
+ 
+                        
+                        
+                            a)
+                            
+                                per il 40 per cento, nel capitolo 1805;
+
+                            
+                        
+                        
+                            b)
+                            
+                                per il 35 per cento, nel capitolo 1007;
+
+                            
+                        
+                        
+                            c)
+                            
+                                per il 25 per cento, nel capitolo 1213.
+
 ## Art. 9. — Disposizioni abrogate
+
+1.
+                    
+                        
+                            Al decreto del Presidente della Repubblica 26 ottobre 1972, n. 640, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                nell'articolo 1, sono soppresse le parole: "e l'accettazione di 
+scommesse in occasione di qualsiasi gara o competizione"; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                nell'articolo 2, primo comma, sono soppresse le parole: "o 
+accettano scommesse in occasione di qualsiasi gara o competizione"; nel medesimo articolo, secondo comma, le parole: "di scommesse e" e le parole: "delle scommesse e" sono soppresse; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                nell'articolo 3, e' abrogato il sesto comma; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                nell'articolo 14, primo comma, sono soppresse le parole: 
+"nonche' per particolari tipi di scommesse,"; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                nell'articolo 16, e' abrogato il secondo comma; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                nella tariffa, il numero 9 e' abrogato.
+
+2.
+                    
+                        
+                            Sono abrogati: 
+ 
+                        
+                        
+                            a)
+                            
+                                la legge 22 dicembre 1951, n. 1379; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                l'articolo 1, primo e terzo comma, della legge 29 settembre 
+1965, n. 1117; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                l'articolo unico, primo e secondo comma, della legge 15 novem- bre 1973, n. 764.
 
 E' inoltre abrogata ogni altra norma non compatibile con le 
 disposizioni del presente decreto.

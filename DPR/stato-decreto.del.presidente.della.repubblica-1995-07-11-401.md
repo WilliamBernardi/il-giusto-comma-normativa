@@ -8,8 +8,8 @@ codice_redazionale: 095G0443
 vigente: true
 source: normattiva-opendata
 collection: DPR
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:47:59Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -28,4 +28,50 @@ Uditi i pareri del Consiglio di Stato, espressi nelle adunanze dell'11 gennaio 1
 Sulla proposta del Ministro della difesa;
 
 ## Art. 1.
+
+1.
+                    
+                        
+                            Ai titoli di studio indicati nei decreti del Presidente della Repubblica 18 dicembre 1973 e 14 settembre 1983 validi per l'ammissione ai concorsi per la nomina ad ufficiale in servizio permanente nei ruoli dell'Aeronautica militare, sono aggiunti i seguenti:
+ 
+                        
+                        
+                            a)
+                            
+                                laurea in scienze dell'amministrazione;
+
+                            
+                        
+                        
+                            b)
+                            
+                                laurea in economia marittima e dei trasporti;
+
+                            
+                        
+                        
+                            c)
+                            
+                                laurea in economia del commercio internazionale e dei mercati valutari;
+
+                            
+                        
+                        
+                            d)
+                            
+                                laurea in sociologia;
+
+                            
+                        
+                        
+                            e)
+                            
+                                diploma di maturita' tecnico-commerciale ad indirizzo mercantile e ad indirizzo amministrativo;
+
+                            
+                        
+                        
+                            f)
+                            
+                                diploma di istituto di istruzione secondaria di secondo grado o altro titolo di studio conseguito in Italia o all'estero, riconosciuto equipollente dal Ministero della pubblica istruzione.
 

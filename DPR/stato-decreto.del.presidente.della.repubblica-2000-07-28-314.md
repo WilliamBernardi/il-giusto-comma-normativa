@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: DPR
 vigenza_date: 2006-02-07
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:47:47Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -36,7 +36,71 @@ Sulla proposta del Presidente del Consiglio dei Ministri e del Ministro per la f
 
 ## Art. 1. — Definizioni
 
+1.
+                        
+                            
+                                Ai sensi del presente regolamento si intende per:
+ 
+                            
+                            
+                                a)
+                                
+                                    legge, la legge 25 febbraio 1992, n. 215;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    progetti aziendali innovativi, i progetti aziendali connessi all'introduzione di qualificazione e di innovazione di prodotto, tecnologica od organizzativa di cui all'articolo 4, comma 1, lettera a), della legge, da realizzare tramite le iniziative di cui all'articolo 4, comma 1, lettera b);
+
+                                
+                            
+                            
+                                c)
+                                
+                                    servizi reali, i servizi di cui all'articolo 4, comma 1, lettera b), della legge destinati all'aumento della produttivita', all'innovazione organizzativa, al trasferimento delle tecnologie, alla ricerca di nuovi mercati per il collocamento dei prodotti, all'acquisizione di nuove tecniche di produzione, di gestione e di commercializzazione, nonche' allo sviluppo di sistemi di qualita';
+
+                                
+                            
+                            
+                                d)
+                                
+                                    corsi di formazione, i corsi di formazione imprenditoriale di cui all'articolo 2, comma 1, lettera b), della legge;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    servizi di consulenza e assistenza, i servizi di consulenza e di assistenza tecnica e manageriale di cui all'articolo 2, commna 1, lettera b), della legge;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    Ministero, il Ministero dell'industria, del commercio e dell'artigianato.
+
 ## Art. 2. — Ripartizione delle disponibilita' finanziarie
+
+1.
+                        
+                            
+                                Alla ripartizione delle risorse finanziarie destinate agli interventi di cui al presente regolamento si provvede annualmente con decreto del Ministro dell'industria, del commercio e dell'artigianato, sentito il Comitato di cui all'articolo 10 della legge, tra i seguenti interventi:
+ 
+                            
+                            
+                                a)
+                                
+                                    concessione delle agevolazioni previste per l'avvio di attivita', per l'acquisto di attivita' preesistenti, per i progetti aziendali innovativi e per l'acquisto di servizi reali;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    concessione delle agevolazioni per la promozione dei servizi di consulenza ed assistenza e delle iniziative regionali di cui all'articolo 12 della legge, anche per la promozione dei corsi di formazione, nell'ambito dei programmi indicati nell'articolo 21.
 
 Se una delle quote riservate agli interventi di cui al comma 1, risulta superiore alle richieste, l'eccedenza incrementa le risorse finanziarie dell'anno successivo.
 
@@ -49,6 +113,31 @@ Possono presentare domanda per accedere ai benefici previsti dall'articolo 4, co
 Sono fatti salvi i divieti e le limitazioni previsti dalla normativa comunitaria vigente in relazione a particolari tipologie di attivita' economiche, nei settori di cui al comma 1.
 
 ## Art. 4. — Iniziative ammissibili
+
+1.
+                        
+                            
+                                Le imprese possono proporre la domanda di cui all'articolo 9 relativamente alle seguenti iniziative:
+ 
+                            
+                            
+                                a)
+                                
+                                    avvio di attivita' imprenditoriali, nonche' acquisto di attivita' preesistenti mediante cessione dell'attivita' medesima o di un ramo aziendale ovvero mediante affitto per almeno cinque anni;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    realizzazione di progetti aziendali innovativi connessi all'introduzione di qualificazione e di innovazione di prodotto tecnologica o organizzativa anche se finalizzata all'ampliamento e all'ammodernamento dell'attivita';
+
+                                
+                            
+                            
+                                c)
+                                
+                                    acquisizione di servizi destinati all'aumento della produttivita', all'innovazione organizzativa, al trasferimento delle tecnologie, alla ricerca di nuovi mercati per il collocamento dei prodotti, all'acquisizione di nuove tecniche di produzione, di gestione e di commercializzazione, nonche' per lo sviluppo di sistemi di qualita'.
 
 ## Art. 5. — Misura delle agevolazioni
 
@@ -71,13 +160,125 @@ Le agevolazioni di cui all'articolo 5 non sono cumulabili con altre agevolazioni
 
 ## Art. 8. — Spese ammissibili
 
+1.
+                        
+                            
+                                La domanda di agevolazione per l'avvio di attivita', acquisto di attivita' preesistenti e progetti aziendali innovativi, di cui all'articolo 4, comma 1, lettere a) e b), indica a quali delle seguenti spese e' riferita:
+ 
+                            
+                            
+                                a)
+                                
+                                    impianti generali;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    macchinari e attrezzature;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    acquisto di brevetti;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    acquisto di software;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    opere murarie e relativi oneri di progettazione e direzione lavori, nel limite del venticinque per cento della spesa di cui ai punti a) e b). Le spese di progettazione e direzione lavori non possono superare il cinque per cento dell'importo per opere murarie;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    studi di fattibilita' e piani d'impresa, comprensivi dell'analisi di mercato, studi per la valutazione dell'impatto ambientale, nel limite del due per cento del costo dell'investimento complessivamente ammesso.
+
 Nel caso di acquisto di attivita' preesistenti, la domanda puo' riferirsi anche al costo per l'acquisto dell'attivita' stessa, limitatamente al valore relativo a macchinari, attrezzature, brevetti e software da utilizzare per lo svolgimento dell'attivita'. Qualora la titolare ovvero uno o piu' soci dell'impresa cessionaria siano anche i soci dell'impresa cedente, il costo di acquisto e' decurtato in proporzione alle quote detenute da ciascuno di tali soggetti nell'impresa cessionaria. Nel caso in cui l'acquisto dell'attivita' si sia perfezionato tra coniugi o tra parenti entro il secondo grado, la domanda di agevolazione non puo' riferirsi al costo dell'acquisto.
+
+3.
+                        
+                            
+                                Le domande per l'acquisizione di servizi reali possono riguardare le spese sostenute per l'acquisto di uno o piu' dei
+ servizi reali di cui all'articolo 4, comma 1, lettera c), forniti da:
+
+                            
+                            
+                                a)
+                                
+                                    imprese e societa', anche in forma cooperativa, iscritte al
+registro imprese della Camera di commercio, industria, artigianato e agricoltura;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    enti pubblici e privati aventi personalita' giuridica;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    professionisti iscritti ad un albo professionale legalmente riconosciuto, i quali possono avvalersi in misura parziale, ma non prevalente, dell'apporto di professionalita' esterna, senza alcuna forma di intermediazione.
 
 La domanda deve riferirsi alle spese capitalizzate, al netto dell'IVA e di altre imposte e tasse.
 
 La domanda puo' riferirsi anche alle spese sostenute per gli acquisti effettuati mediante locazione finanziaria, relativamente al costo del bene, al netto dell'IVA e di altre imposte e tasse, fatturato dal fornitore alla societa' di locazione finanziaria.
 
 La domanda puo' riferirsi esclusivamente alle spese sostenute successivamente alla data di presentazione della stessa, e a quelle sostenute a decorrere dal termine di chiusura del bando precedente, fissato ai sensi dell'articolo 9.
+
+7.
+                        
+                            
+                                La domanda per la realizzazione del programma di investimenti puo' riferirsi esclusivamente alle spese sostenute per l'acquisto di beni di nuova fabbricazione, esclusi:
+ 
+                            
+                            
+                                a)
+                                
+                                    i beni usati, ad eccezione di quelli rientranti nell'acquisto di attivita' preesistenti;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'acquisto di terreni e fabbricati;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    gli investimenti realizzati mediante commesse interne o oggetto di autofatturazione;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    l'avviamento;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    le spese di gestione.
 
 La domanda contiene gli elementi idonei a dimostrare che il valore economico dei mezzi apportati dall'impresa e' pari ad almeno il venticinque per cento dell'importo complessivo delle spese ammissibili.
 
@@ -115,6 +316,31 @@ La regione o la provincia autonoma competente trasmette al Ministero, anche per 
 
 Alle domande ritenute ammissibili e' attribuito un punteggio risultante dall'applicazione dei criteri di priorita' di cui all'articolo 10 e dei criteri di priorita' indicati dalla regione o dalla provincia autonoma ai sensi dell'articolo 12, comma 2.
 
+5.
+                        
+                            
+                                Le domande ammissibili sono inserite in graduatorie, articolate nei seguenti macrosettori:
+ 
+                            
+                            
+                                a)
+                                
+                                    macrosettore "agricoltura";
+
+                                
+                            
+                            
+                                b)
+                                
+                                    macrosettore "manifatturiero e assimilati";
+
+                                
+                            
+                            
+                                c)
+                                
+                                    macrosettore "commercio, turismo e servizi".
+
 Nel macrosettore "agricoltura" sono inserite le domande riguardanti i progetti da realizzare nell'ambito delle attivita' di cui alle sezioni A e B della classificazione delle attivita' economiche ISTAT '91. Nel macrosettore: "manifatturiero e assimilati" sono inserite le domande riguardanti i progetti da realizzare nell'ambito delle attivita' di cui alle sezioni C, D, E ed F della classificazione delle attivita' economiche ISTAT '91. Nel macrosettore: "commercio, turismo e servizi" sono inserite le domande riguardanti i progetti da realizzare nell'ambito delle attivita' di cui alle sezioni G, H, I, J, K, M, N ed O della suddetta classificazione delle attivita' economiche ISTAT '91. Nel caso di progetti relativi a piu' attivita' si fa riferimento all'investimento prevalente.
 
 All'interno delle graduatorie, le domande ammissibili sono ordinate in senso decrescente sulla base del punteggio attribuito ai sensi del comma 4, con indicazione dell'importo dell'agevolazione concedibile.
@@ -149,6 +375,31 @@ Le erogazioni del contributo in conto capitale sono effettuate dal soggetto che 
 Fermo restando il piano di disponibilita' delle quote di cui al comma 1, la prima quota, pari al trenta per cento dell'agevolazione concessa, e' erogata in corrispondenza della realizzazione di una pari percentuale degli investimenti ammessi; la seconda quota e' erogata successivamente alla completa realizzazione dell'iniziativa e alla presentazione della documentazione di spesa di cui al comma 4.
 La prima quota di agevolazioni puo' essere erogata anche a titolo di anticipazione previa presentazione di apposita fideiussione bancaria o polizza assicurativa irrevocabile ed escutibile a prima richiesta, di importo almeno pari alla somma da erogare. Ciascuna delle due quote e' erogata entro trenta giorni dalla presentazione della richiesta di erogazione. Dalla seconda quota e' trattenuto un importo pari al dieci per cento dell'agevolazione concessa, da erogare successivamente al controllo della documentazione finale di spesa.
 L'erogazione della quota a saldo del dieci per cento e' effettuata entro nove mesi dal ricevimento della documentazione finale di spesa dell'impresa beneficiaria. Per le iniziative con investimenti ammessi inferiori a duecento milioni di lire, il predetto termine e' ridotto alla meta'.
+
+3.
+                        
+                            
+                                Gli investimenti si intendono realizzati quando:
+ 
+                            
+                            
+                                a)
+                                
+                                    i beni sono stati tutti consegnati ovvero completamente realizzati e per i servizi sia stato stipulato apposito contratto di fornitura;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il relativo costo agevolabile e' stato interamente fatturato all'impresa acquirente, ovvero alla societa' di locazione finanziaria nel caso di acquisizione mediante locazione finanziaria;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    l'impresa richiedente abbia effettuato tutti i pagamenti per l'acquisto dei beni e dei servizi ovvero, nel caso di acquisizione mediante locazione finanziaria, abbia corrisposto canoni per un importo pari almeno all'agevolazione spettante e comunque non inferiore al trenta per cento del costo agevolabile dei predetti beni.
 
 La documentazione finale di spesa consiste in un elenco analitico delle fatture e degli altri titoli di spesa, accompagnato da una dichiarazione sostitutiva di notorieta' resa dal legale rappresentante dell'impresa, secondo le disposizioni della legge 4 gennaio 1968, n. 15, e successive modificazioni. Le modalita' specifiche per la determinazione della documentazione finale di spesa sono fissate con circolare del Ministero.
 
@@ -190,6 +441,45 @@ Il rappresentante legale dell'impresa beneficiaria e' tenuto a comunicare al sog
 
 ## Art. 20. — Revoca delle agevolazioni
 
+1.
+                        
+                            
+                                Le regioni o le province autonome, ovvero il Ministero nel caso in cui le regioni non abbiano provveduto all'integrazione delle risorse statali di cui all'articolo 12, comma 1, provvedono alla revoca totale o parziale delle agevolazioni concesse, quando:
+ 
+                            
+                            
+                                a)
+                                
+                                    per le stesse spese oggetto della domanda di agevolazione sono state ottenute le agevolazioni previste da altre norme statali, regionali, comunitarie o comunque concesse da enti o istituzioni pubbliche;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    i controlli effettuati evidenziano l'insussistenza delle condizioni previste dalla legge o dal presente regolamento, ovvero il venir meno delle condizioni stabilite dall'articolo 2, comma 1, lettera a), della legge, in ordine alla presenza femminile nell'impresa;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    i beni oggetto dell'agevolazione risultano essere stati ceduti, alienati o distratti, nei cinque anni successivi alla data di concessione dell'agevolazione;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    gli elementi che hanno determinato l'attribuzione del punteggio per l'inserimento in graduatoria subiscano variazioni superiori ai limiti di scostamento indicati con il decreto di cui all'articolo 10, comma 2;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    l'ammontare degli investimenti realizzati alla scadenza del termine perentorio di cui all'articolo 15, comma 5, risulti inferiore al sessanta per cento degli investimenti ammessi.
+
 In caso di revoca delle agevolazioni, il beneficio e' restituito, integralmente o parzialmente, maggiorato di un interesse pari al tasso ufficiale di sconto vigente alla data della restituzione del contributo. Nei casi di revoca per alienazione, cessione o distrazione dei beni agevolati prima che sia trascorso il periodo di cinque anni di cui all'articolo 19, comma 2, la misura del predetto tasso e' maggiorata di cinque punti percentuali. Le somme sono restituite all'erario con le stesse modalita' di cui all'articolo 16, comma 2.
 
 Se ricorrono le condizioni previste dall'articolo 9, comma 1, del decreto legislativo 31 marzo 1998, n. 123, si applicano le sanzioni amministrative pecuniarie previste dal comma 2 del medesimo articolo.
@@ -197,6 +487,31 @@ Se ricorrono le condizioni previste dall'articolo 9, comma 1, del decreto legisl
 ## - Capo III Agevolazioni per i programmi regionali per i corsi di formazione imprenditoriale e per servizi di consulenza ed assistenza e contributi alle regioni.
 
 ## Art. 21. — Programmi regionali
+
+1.
+                        
+                            
+                                Le regioni e le province autonome possono predisporre, in coerenza con i propri obiettivi e strumenti di programmazione regionale e con le proprie normative generali e di settore, un programma per la promozione ed il coordinamento delle iniziative previste dall'articolo 2, comma 1, lettera b), e dall'articolo 12, della legge, diretto a: 
+ 
+                            
+                            
+                                a)
+                                
+                                    promuovere la formazione imprenditoriale delle donne; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    sviluppare servizi di assistenza e consulenza tecnica e manageriale a favore dell'imprenditorialita' femminile; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    attuare iniziative di informazione e di supporto per la diffusione della cultura d'impresa tra le donne.
 
 Per la realizzazione dei programmi regionali e' concesso alle regioni un contributo pari al cinquanta per cento dell'importo delle spese complessivamente previsto.
 
@@ -209,6 +524,94 @@ Ai fini della concessione del contributo, entro il 31 gennaio di ogni anno, il M
  Il Decreto 13 gennaio 2006 (in G.U. 23/01/2006, n. 18) che "Il termine finale per la presentazione, da parte delle regioni e delle province autonome, dei programmi regionali di cui all'art. 21 del decreto del Presidente della Repubblica n. 314/2000, e' prorogato al 15 febbraio 2006".
 
 ## Art. 22. — Approvazione e attuazione dei programmi
+
+1.
+                        
+                            
+                                Una volta all'anno, entro i termini fissati con decreto del Ministro dell'industria, del commercio e dell'artigianato, le regioni presentano al Ministero i propri programmi, indicando:
+ 
+                            
+                            
+                                a)
+                                
+                                    gli obiettivi generali e specifici che si intendono raggiungere;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la descrizione degli interventi proposti, articolati per tipologia di iniziativa;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    l'indicazione dei soggetti beneficiari, qualora il programma preveda agevolazioni a favore di soggetti terzi. In tal caso per i soggetti beneficiari si fa riferimento a quelli indicati dall'articolo 2, comma 1, lettera b), della legge;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    le eventuali priorita' per l'accesso alle agevolazioni;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    l'indicazione, a favore dei soggetti beneficiari, della misura dell'agevolazione, che non puo' superare il cinquanta per cento delle spese sostenute;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    le modalita' di realizzazione degli interventi;
+
+                                
+                            
+                            
+                                g)
+                                
+                                    l'indicazione delle spese ammissibili;
+
+                                
+                            
+                            
+                                h)
+                                
+                                    gli eventuali limiti, massimo e minimo, dell'investimento ammissibile;
+
+                                
+                            
+                            
+                                i)
+                                
+                                    i tempi previsti per l'attuazione del programma, nei limiti di quanto previsto dal comma 6;
+
+                                
+                            
+                            
+                                j)
+                                
+                                    gli aspetti finanziari, con l'indicazione del piano di copertura del programma proposto, articolato per tipologia di iniziativa, e della quota di risorse regionali destinata al cofinanziamento del programma;
+
+                                
+                            
+                            
+                                k)
+                                
+                                    il regime delle revoche;
+
+                                
+                            
+                            
+                                l)
+                                
+                                    i risultati attesi, con l'indicazione degli strumenti e dei criteri utilizzati per la verifica.
 
 Le iniziative di cui al comma 1, devono avere come destinatari finali dei servizi proposti almeno il settanta per cento di donne.
 

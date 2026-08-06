@@ -8,8 +8,8 @@ codice_redazionale: 093G0074
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:38Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -44,6 +44,60 @@ La domanda di iscrizione deve indicare i seguenti dati:
 
 La sottoscrizione della domanda, completa dei predetti dati e dichiarazioni, deve essere autenticata con le modalita' di cui all'art. 20 della legge 4 gennaio 1968, n. 15.
 
+4.
+                        
+                            
+                                Alla domanda devono essere allegati i seguenti documenti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    certificato di godimento dei diritti civili; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    certificato generale del casellario giudiziale; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    certificato rilasciato dalla competente pretura circondariale relativo ai carichi pendenti; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    dichiarazione sottoscritta dall'interessato che attesti che, ottenuta l'iscrizione nel ruolo nazionale, non vi sia alcuna delle incompatibilita' previste dall'art. 5, comma 2, della legge n. 166/1992; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    fotocopia autenticata del titolo di studio. 
+ I certificati di cui alle lettere a), b) e c) devono essere stati rilasciati in data non anteriore a tre mesi dalla data della domanda di iscrizione; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    certificazione antimafia, ai sensi dell'art. 2 della legge 23 dicembre 1982, n. 936, modificato dall'art. 7 della legge 19 marzo 1990, n. 55, da richiedersi alla prefettura competente; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    ricevuta del versamento della tassa di concessione governativa di lire centocinquantamila, prevista al n. 177, lettera b), della tariffa annessa al decreto del Presidente della Repubblica 26 ottobre 1972, n. 641, e successive modificazioni. Detto versamento deve essere effettuato all'ufficio del registro di Roma direttamente o mediante accreditamento sul conto corrente postale n. 8003 con la causale "tassa per l'iscrizione al ruolo nazionale dei periti assicurativi, di cui all'art. 5, comma 4, della legge 17 febbraio 1992, n. 166".
+
 Nel caso in cui il richiedente dichiari nella domanda di iscrizione nel ruolo di essere esonerato dalla prova di idoneita' trovandosi in possesso di diploma di perito industriale in area meccanica o di laurea in ingegneria, iscritto nel relativo albo professionale da almeno tre anni ed avendo altresi' esercitato per tre anni l'attivita' nel settore specifico, alla domanda debbono essere allegati, oltre ai documenti di cui alle precedenti lettere, anche i seguenti altri documenti: 
  fotocopia autenticata del diploma di perito industriale in area meccanica o del diploma di laurea in ingegneria; 
  certificazione rilasciata dal consiglio nazionale dell'ordine professionale presso il quale risulta iscritto, dalla quale risulti l'avvenuta iscrizione da almeno tre anni; 
@@ -58,6 +112,38 @@ Nota redazionale
 ## - Capo II DISCIPLINA DELLA PROVA DI IDONEITA'
 
 ## Art. 2. — Composizione e nomina commissione esaminatrice
+
+1.
+                        
+                            
+                                La commissione esaminatrice, prevista dall'art. 5, comma 3, della legge 17 febbraio 1992, n. 166, e' composta da:
+ 
+                            
+                            
+                                a)
+                                
+                                    tre dirigenti della Direzione generale delle assicurazioni private e di interesse collettivo del Ministero dell'industria, del commercio e dell'artigianato;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    tre rappresentanti dei periti assicurativi iscritti nel ruolo nazionale;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    un rappresentante delle imprese di assicurazione;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    un docente di ruolo, laureato in materie tecniche, che insegni o abbia effettivamente insegnato tali discipline negli istituti secondari superiori di indirizzo tecnico.
 
 Le funzioni di segreteria sono svolte da due impiegati della Direzione generale delle assicurazioni private con la qualifica non inferiore al settimo livello funzionale.
 
@@ -82,6 +168,38 @@ Ogni anno, con decreto del Ministero dell'industria, del commercio e dell'artigi
 La domanda di ammissione alla prova di idoneita', redatta in carta legale, dovra' pervenire al Ministero dell'industria, del commercio e dell'artigianato - Direzione generale delle assicurazioni private e di interesse collettivo - Ruolo nazionale dei periti assicurativi, entro il termine perentorio di quarantacinque giorni, che decorre dal giorno successivo a quello della data di pubblicazione, nella Gazzetta Ufficiale della Repubblica, del decreto che indice la sessione d'esame.
 
 Si considera prodotta in tempo utile la domanda di ammissione anche se spedita a mezzo di raccomandata con avviso di ricevimento entro il termine indicato. A tal fine fa fede il timbro a data dell'ufficio postale accettante.
+
+3.
+                        
+                            
+                                Per l'ammissione all'esame e' richiesto il possesso dei seguenti requisiti:
+ 
+                            
+                            
+                                a)
+                                
+                                    essere cittadino italiano o cittadino di uno degli Stati membri della Comunita' economica europea, ovvero straniero residente nel territorio della Repubblica italiana, a condizione che analogo trattamento sia fatto nei Paesi di origine a favore dei cittadini italiani, salvo il caso degli apolidi;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    godere dei diritti civili;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    non avere riportato condanna per un delitto contro la pubblica amministrazione, contro l'amministrazione della giustizia, contro la fede pubblica, contro l'economia pubblica, l'industria e il commercio, contro il patrimonio, o per altro delitto non colposo per il quale sia comminata la pena della reclusione non inferiore nel minimo a due anni o nel massimo a cinque anni, o per il reato di omesso versamento dei contributi previdenziali e assistenziali obbligatori, ovvero condanna comportante l'applicazione della pena accessoria dell'interdizione dai pubblici uffici di durata superiore a tre anni;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    essere munito di diploma di scuola media secondaria superiore di indirizzo tecnico oppure di laurea ovvero, in mancanza, essere in possesso del requisito di cui all'art. 16, comma 2, della legge n. 166/1992, accertato dal relativo provvedimento ministeriale.
 
 Sono diplomi di scuola media secondaria superiore di indirizzo tecnico i seguenti:
 DIPLOMI DI MATURITA' TECNICA
@@ -204,6 +322,141 @@ Per i periti assicurativi il programma d'esame verte su nozioni giuridiche e mat
  3) veicoli a motore e natanti;
  4) elementi di estimo.
 
+2.
+                        
+                            
+                                I candidati all'esame devono fornire la prova di avere la conoscenza teorica e pratica delle materie di cui sopra, con particolare riguardo ai seguenti argomenti:
+ NOZIONI GIURIDICHE
+ 1) Elementi di diritto e di procedura civile e penale:
+ 
+                            
+                            
+                                a)
+                                
+                                    definizione di responsabilita';
+
+                                
+                            
+                            
+                                b)
+                                
+                                    nesso causale;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    regime della prova;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    consulenza tecnica e perizia.
+ 2) Cenni di diritto e tecnica delle assicurazioni:
+ a) ruolo nazionale dei periti assicurativi (legge n. 166/1992);
+ b) assicurazione obbligatoria r.c. auto e natanti: (legge n. 990/1969 e successive modifiche);
+ c) assicurazione contro i danni: r.c. auto, furto e incendio;
+ d) convenzione indennizzo diretto; accordo terzi estranei; accordo tamponamenti multipli.
+ 3) Elementi di diritto della circolazione (codice della strada e della navigazione).
+ MATERIE TECNICHE
+ 1) Elementi di fisica e di meccanica:
+ a) Elementi di meccanica dei corpi rigidi:
+ unita' di misura;
+ forza e massa;
+ lavoro e potenza;
+ energia cinetica;
+ composizione, scomposizione ed equilibrio delle forze;
+ baricentri;
+ momenti d'inerzia, centrifughi e centripeti;
+ cinematica;
+ moto di un corpo rigido, moto relativo;
+ dinamica del corpo rigido;
+ urti;
+ attriti;
+ aderenza;
+ durezza.
+ b) Elementi di termometria e calorimetria:
+ calore e temperatura;
+ dilatazione termica;
+ isolamento termico nei veicoli.
+ c) Materiali e loro proprieta':
+ resistenza dei materiali;
+ sollecitazioni semplici e composte;
+ carico di rottura, di sicurezza e di fatica;
+ nozioni di tecnologia: materiali metallici e non metallici, ferrosi e non ferrosi, leghe, materie plastiche, vernici, trattamenti termici, saldature, strumenti di misura e di controllo.
+ d) Elementi di fluidodinamica:
+ lubrificanti e sistemi di lubrificazione.
+
+                                
+                            
+                            
+                                e)
+                                
+                                    Elementi di elettrotecnica e di elettronica:
+ unita' di misura;
+ correnti elettriche (continue ed alternate);
+ legge di OHM;
+ forze elettromotrici in un circuito semplice;
+ condensatori, pile ed accumulatori;
+ classificazione delle macchine elettriche;
+ nozioni generali di elettronica.
+ 2) Elementi di topografia e di fotogrammetria:
+ a) nozioni di topografia e strumentazione necessaria per il rilevamento del sinistro stradale e nautico;
+ b) nozioni di fotografia e rilievi fotografici di un sinistro: metodologie e attrezzature.
+ 3) Veicoli a motore e natanti:
+ a) parti strutturali dei veicoli a motore: nomenclatura;
+ b) motori con alimentazione a benzina; a metano; a gas; motori Diesel; motori elettrici;
+ c) organi meccanici, elettrici ed elettronici;
+ d) componenti non funzionali al movimento;
+ e) deformazioni e rotture a seguito di incidenti;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    metodologie di intervento per la riparazione: tecniche di officina e di carrozzeria, cicli di riparazione, attrezzature per le riparazioni e i controlli;
+
+                                
+                            
+                            
+                                g)
+                                
+                                    generalita' sulle costruzioni nautiche: materiali in uso;
+
+                                
+                            
+                            
+                                h)
+                                
+                                    caratteristiche della struttura di una imbarcazione in relazione ai materiali utilizzati;
+
+                                
+                            
+                            
+                                i)
+                                
+                                    sistemi di propulsione e di trasmissione del moto;
+
+                                
+                            
+                            
+                                l)
+                                
+                                    attrezzature elettriche ed elettroniche di una imbarcazione.
+ 4) Elementi di estimo:
+ a) accertamento e valutazione dei danni derivanti dalla circolazione dei veicoli a motore e dei natanti: stima per differenza di valori; con il metodo sintetico a corpo; analitica; attraverso il calcolo del valore di realizzo del relitto;
+ b) prontuari dei tempi per le riparazioni;
+ c) metodi per la determinazione costo orario mano d'opera;
+ d) analisi di un incidente stradale e di un incidente nautico;
+ e) perizia estimativa: redazione e considerazioni;
+ f) stima dei danni da furto e da incendio;
+ g) fermo tecnico;
+ h) criteri di elaborazione delle stime dei danni ad imbarcazioni da diporto.
+
 ## Art. 8. — Parere della commissione nazionale
 
 La commissione nazionale per i periti assicurativi, di cui all'art. 7 della legge n. 166/1992, esprime parere in merito all'individuazione delle materie e degli argomenti, di cui al precedente art. 7, che di volta in volta formeranno oggetto del programma di esame per la prova di idoneita'.
@@ -282,6 +535,67 @@ La domanda di iscrizione deve indicare i seguenti dati:
 
 La sottoscrizione della domanda, completa dei predetti dati e dichiarazioni, deve essere autenticata con le modalita' di cui all'art. 20 della legge 4 gennaio 1968, n. 15.
 
+4.
+                        
+                            
+                                Alla domanda devono essere allegati i seguenti documenti:
+ 
+                            
+                            
+                                a)
+                                
+                                    certificato di godimento dei diritti civili;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    certificato generale del casellario giudiziale;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    certificato rilasciato dalla competente pretura circondariale relativo ai carichi pendenti;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    dichiarazione sottoscritta dall'interessato che attesti che, ottenuta l'iscrizione nel ruolo nazionale, non vi sia alcuna delle incompatibilita' previste dall'art. 5, comma 2, della legge n. 166/1992.
+ I certificati di cui alle lettere a), b) e c) devono essere stati rilasciati in data non anteriore a tre mesi dalla data della domanda di iscrizione;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    certificazione antimafia, ai sensi dell'art. 2 della legge 23 dicembre 1982, n. 936, modificato dall'art. 7 della legge 19 marzo 1990, n. 55, da richiedersi alla prefettura competente;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    dichiarazione sottoscritta, con firma autenticata, del legale rappresentante di almeno un'impresa di assicurazione o di altri enti operanti nel settore specifico, che attesti lo svolgimento continuativo dell'attivita' di perito assicurativo, di cui alla legge n. 166/1992, in qualita' di dipendente o di lavoratore autonomo, per i cinque anni anteriori la data del 13 marzo 1992 e che indichi altresi' l'ammontare dei compensi erogati all'interessato per ciascun anno di riferimento;
+
+                                
+                            
+                            
+                                g)
+                                
+                                    dichiarazione rilasciata dall'interessato, a mezzo atto notorio, ai sensi dell'art. 24 della legge 13 aprile 1977, n. 114, e con le responsabilita' di cui alla legge 4 gennaio 1968, n. 15, che attesti l'ammontare del reddito percepito e dichiarato ai fini fiscali per ciascun anno di riferimento quale compensi per l'esercizio dell'attivita' di perito assicurativo, ai sensi della legge n. 166/1992, degli ultimi cinque anni precedenti il 13 marzo 1992;
+
+                                
+                            
+                            
+                                h)
+                                
+                                    ricevuta del versamento della tassa di concessione governativa di lire centocinquantamila, prevista al n. 117, lettera b), della tariffa annessa al decreto del Presidente della Repubblica 26 ottobre 1972, n. 641, e successive modificazioni. Detto versamento deve essere effettuato all'uffico del registro di Roma direttamente o mediante accreditamento sul conto corrente postale n. 8003 con la causale "tassa per l'iscrizione al ruolo nazionale dei periti assicurativi, di cui all'art. 5, comma 4, della legge 17 febbraio 1992, n. 166".
+
 ## Art. 13. — Presentazione della domanda - Art. 16, comma 2
  Modalita' e requisiti
 
@@ -299,6 +613,24 @@ La domanda di ammissione alla prova, ai sensi dell'art. 16, comma 2, della legge
  tribunale presso il quale sono svolte eventualmente funzioni di consulente del giudice o di perito di ufficio.
 
 La sottoscrizione della domanda, completa dei predetti dati e dichiarazioni, deve essere autenticata con le modalita' di cui all'art. 20 della legge 4 gennaio 1968, n. 15.
+
+4.
+                        
+                            
+                                Alla domanda devono essere allegati i seguenti documenti:
+ 
+                            
+                            
+                                a)
+                                
+                                    dichiarazione sottoscritta, con firma autenticata, del legale rappresentante di almeno un'impresa di assicurazione o di altri enti operanti nel settore specifico, che attesti lo svolgimento continuativo dell'attivita' di perito assicurativo, di cui alla legge n. 166/1992, in qualita' di dipendente o di lavoratore autonomo, per i due anni anteriori la data del 13 marzo 1992 e che indichi altresi' l'ammontare dei compensi erogati all'interessato per ciascun anno di riferimento;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    dichiarazione rilasciata dall'interessato, a mezzo atto notorio, ai sensi dell'art. 24 della legge 13 aprile 1977, n. 114, e con le responsabilita' di cui alla legge 4 gennaio 1968, n. 15, che attesti l'ammontare del reddito percepito e dichiarato ai fini fiscali per ciascun anno di riferimento quali compensi per l'esercizio dall'attivita' di perito assicurativo, ai sensi della legge n. 166/1992, degli ultimi due anni precedenti il 13 marzo 1992.
 
 ## - Capo V DISPOSIZIONI FINALI
 

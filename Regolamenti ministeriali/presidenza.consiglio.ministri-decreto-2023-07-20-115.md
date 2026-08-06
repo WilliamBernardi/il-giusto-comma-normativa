@@ -7,8 +7,8 @@ urn: urn:nir:presidenza.consiglio.ministri:decreto:2023-07-20;115
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:41Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -52,6 +52,99 @@ L'Osservatorio ha sede in Roma presso la Presidenza del Consiglio dei ministri.
 
 ## Art. 2. — Composizione dell'Osservatorio
 
+1.
+                    
+                        
+                            L'Osservatorio e' presieduto dal Presidente del Consiglio dei ministri ovvero dall'Autorita' politica delegata in materia di disabilita', di seguito denominato «Presidente», ed e' composto dai seguenti membri effettivi: 
+ 
+                        
+                        
+                            a)
+                            
+                                un rappresentante per ciascuna delle seguenti amministrazioni: 
+ 1) Dipartimento della funzione pubblica della Presidenza del Consiglio dei ministri; 
+ 2) Dipartimento per le pari opportunita' della Presidenza del Consiglio dei ministri; 
+ 3) Dipartimento per le politiche della famiglia, la natalita' e le pari opportunita' della Presidenza del Consiglio dei ministri; 
+ 4) Dipartimento per le politiche giovanili e il servizio civile universale della Presidenza del Consiglio dei ministri; 
+ 5) Dipartimento per lo sport della Presidenza del Consiglio dei ministri; 
+ 6) Ministero degli affari esteri e della cooperazione internazionale; 
+ 7) Ministero dell'economia e delle finanze; 
+ 8) Ministero delle infrastrutture e dei trasporti; 
+ 9) Ministero del lavoro e delle politiche sociali; 
+ 10) Ministero della salute; 
+ 11) Ministero dell'istruzione e del merito; 
+ 12) Ministero dell'universita' e della ricerca; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                un rappresentante designato dalla Conferenza delle regioni e delle province autonome di Trento e di Bolzano; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                un rappresentante designato dall'Associazione Nazionale Comuni Italiani; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                un rappresentante designato dall'Unione delle province d'Italia; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                un rappresentante designato dall'Istituto nazionale della previdenza sociale; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                un rappresentante designato dall'Istituto Nazionale contro gli Infortuni sul Lavoro; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                un rappresentante designato dall'Istituto nazionale di statistica; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                un rappresentante designato da ciascuna delle seguenti confederazioni sindacali: Confederazione generale italiana del lavoro, Confederazione italiana sindacati lavoratori, Unione italiana del lavoro e Unione generale del lavoro; 
+
+                            
+                        
+                        
+                            i)
+                            
+                                un rappresentante designato dalla Confederazione generale dell'industria italiana; 
+
+                            
+                        
+                        
+                            l)
+                            
+                                undici rappresentanti designati dalle associazioni nazionali maggiormente rappresentative delle persone con disabilita', da individuarsi con successivo decreto del Presidente; 
+
+                            
+                        
+                        
+                            m)
+                            
+                                un rappresentante designato dal Forum Nazionale Terzo Settore.
+
 L'Osservatorio e' integrato nella sua composizione da cinque esperti di comprovata esperienza nel campo della disabilita' nominati dal Presidente.
 
 Le organizzazioni di cui al comma 1, lettera l), sono individuate con decreto del Presidente tra le organizzazioni maggiormente rappresentative, sulla base della diffusione e presenza sul territorio nazionale e al numero delle persone fisiche associate anche in via indiretta, debitamente documentati.
@@ -87,6 +180,126 @@ L'Adunanza generale svolge tutti i compiti attribuiti all'Osservatorio dalla leg
 Nell'ambito dei componenti di cui all'articolo 2, e' costituito un Comitato tecnico-scientifico con finalita' di analisi ed indirizzo scientifico in relazione alle attivita' ed ai compiti dell'Osservatorio.
 
 Il Comitato tecnico-scientifico e' presieduto da un Coordinatore nominato dal Presidente tra gli esperti di cui all'articolo 2, comma 2.
+
+3.
+                    
+                        
+                            Il Comitato tecnico-scientifico e' composto dai seguenti componenti: 
+ 
+                        
+                        
+                            a)
+                            
+                                il rappresentante del Ministero del lavoro e delle politiche sociali di cui all'articolo 2, comma 1, lettera a), numero 9); 
+
+                            
+                        
+                        
+                            b)
+                            
+                                il rappresentante del Ministero della salute di cui all'articolo 2, comma 1, lettera a), numero 10); 
+
+                            
+                        
+                        
+                            c)
+                            
+                                il rappresentante del Ministero dell'istruzione e del merito di cui all'articolo 2, comma 1, lettera a), numero 11); 
+
+                            
+                        
+                        
+                            d)
+                            
+                                il rappresentante della Conferenza dei presidenti delle regioni e delle province autonome di Trento e di Bolzano, di cui all'articolo 2, comma 1, lettera b); 
+
+                            
+                        
+                        
+                            e)
+                            
+                                il rappresentante dell'Associazione nazionale comuni d'Italia di cui all'articolo 2, comma 1, lettera c); 
+
+                            
+                        
+                        
+                            f)
+                            
+                                il Presidente della Federazione italiana per il superamento dell'handicap; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                il Presidente della Federazione tra le associazioni nazionali delle persone con disabilita'; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                gli esperti di cui all'articolo 2, comma 2.
+
+4.
+                    
+                        
+                            Il Comitato tecnico-scientifico, nell'ambito dei compiti di cui al comma 1, svolge i seguenti compiti: 
+ 
+                        
+                        
+                            a)
+                            
+                                formula al Presidente proposte in relazione agli argomenti e questioni da iscrivere all'ordine del giorno delle riunioni dell'Adunanza generale; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                svolge istruttoria, avvalendosi del contributo degli esperti di cui all'art. 2, comma 2, su specifici temi d'indagine segnalati dal Presidente e dall'Adunanza generale, anche all'esito dell'attivita' di analisi dei gruppi di lavoro di cui all'art. 2 comma 7; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                propone all'Adunanza generale le campagne informative, formative e di sensibilizzazione per la promozione e la tutela dei diritti delle persone con disabilita', formulando proposte alle eventuali altre amministrazioni competenti; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                elabora la proposta del piano d'azione, la proposta della relazione sullo stato di attuazione delle politiche sulle disabilita' di cui all'articolo 3, comma 5, lettera d), della citata legge n. 18 del 2009, e la proposta del rapporto dettagliato sulle misure adottate ai sensi dell'articolo 35 della Convenzione, da sottoporre all'approvazione dell'Adunanza generale; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                individua e segnala all'Adunanza generale la tipologia di dati statistici e amministrativi utili all'analisi della condizione delle persone con disabilita' e alla definizione delle azioni a tutela dei relativi diritti nonche' i relativi settori di riferimento dei predetti dati anche in relazione alle diverse situazioni territoriali; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                collabora allo svolgimento delle attivita' di studio e di ricerca individuate dal Presidente; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                coadiuva l'Osservatorio nelle attivita' di monitoraggio delle riforme che ineriscono alla condizione delle persone con disabilita' in attuazione del Piano Nazionale di Ripresa e Resilienza effettuate ai sensi dell'articolo 4-bis del decreto-legge 31 maggio 2021, n. 77, convertito, con modificazioni, dalla legge 29 luglio 2021, n. 108, con lo specifico supporto degli esperti della Segreteria tecnica per le politiche in materia di disabilita' di cui all'articolo 3, comma 3 e degli esperti di cui all'articolo 2, comma 2; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                procede all'audizione di rappresentanti di altri soggetti pubblici e privati, il cui apporto sia ritenuto utile all'adempimento dei propri compiti.
 
 ## Art. 6. — Funzionamento del Comitato tecnico-scientifico
 

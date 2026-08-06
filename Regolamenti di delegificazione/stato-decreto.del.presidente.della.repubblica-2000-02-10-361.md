@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Regolamenti di delegificazione
 vigenza_date: 2018-09-10
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:40:24Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -133,6 +133,56 @@ Fino al momento dell'effettivo trasferimento dei registri e dei relativi atti al
  Annulla l'articolo 10 del d.P.R. 10 febbraio 2000, n. 361 (Regolamento recante norme per la semplificazione dei procedimenti di riconoscimento di persone giuridiche private e di approvazione delle modifiche dell'atto costitutivo e dello statuto - n. 17 dell'allegato 1 della legge 15 marzo 1997, n. 59), nella parte in cui dispone che "i compiti spettanti in base alle disposizioni del presente regolamento al prefetto e alle prefetture si intendono riferiti" "per la Regione Valle d'Aosta al presidente della commissione di coordinamento e al suo ufficio"".
 
 ## Art. 11. — Abrogazioni
+
+1.
+                    
+                        
+                            Al sensi dell'articolo 20, comma 4, della legge 15 marzo 1997, n. 59, dalla data di entrata in vigore del presente regolamento, sono abrogate le seguenti disposizioni:
+ 
+                        
+                        
+                            a)
+                            
+                                
+                                    articolo 12 del codice civile;
+
+                            
+                        
+                        
+                            b)
+                            
+                                
+                                    articolo 16, terzo comma, del codice civile;
+
+                            
+                        
+                        
+                            c)
+                            
+                                
+                                    articolo 27, terzo comma, del codice civile;
+
+                            
+                        
+                        
+                            d)
+                            
+                                
+                                    articoli 33 e 34, del codice civile;
+
+                            
+                        
+                        
+                            e)
+                            
+                                articolo 35, limitatamente alle parole: "dagli articoli 33 e 34, nel termine e secondo le modalita' stabilite dalle norme di attuazione del codice";
+
+                            
+                        
+                        
+                            f)
+                            
+                                articoli 1, 2, 4, 10, 20, secondo comma, 22, 23, 24, 25, 26, 27, 28, 29 e 30 delle disposizioni di attuazione del codice civile e disposizioni transitorie, approvate con regio decreto 30 marzo 1942, n. 318.
 
 ## Art. 12. — Entrata in vigore
 

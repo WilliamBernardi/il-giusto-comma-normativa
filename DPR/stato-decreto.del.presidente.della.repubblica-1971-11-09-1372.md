@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: DPR
 vigenza_date: 1983-09-02
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:47:45Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -26,7 +26,58 @@ Sentito il Consiglio dei Ministri;
 
 ## Art. 1. — Lavoro ordinario
 
+1.
+                        
+                            
+                                - La durata settimanale del lavoro ordinario e' regolata come segue:
+
+ 
+                            
+                            
+                                a)
+                                
+                                    per il personale direttivo e degli uffici restano confermate le norme in vigore. In ogni caso la durata del lavoro ordinario non puo' essere superiore a quella stabilita per il personale dell'esercizio;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    per il personale dell'esercizio la durata settimanale del lavoro ordinario e' di 40 ore distribuite di regola su cinque giornate lavorative. La distribuzione su sei giornate lavorative puo' essere attuata sentiti i rappresentanti delle organizzazioni sindacali. Il limite delle 40 ore puo' essere superato per il personale utilizzato a turni rotativi ferma restando la media di 40 ore in un periodo di quattro settimane. Con disposizione del direttore generale, la durata settimanale del lavoro ordinario puo', in situazioni eccezionali, essere ridotta per comprovate particolari e gravose condizioni di lavoro o di ambiente.
+
 - Si computa come durata del lavoro il tempo durante il quale il dipendente viene tenuto a disposizione dell'Azienda senza facolta' di allontanarsi dal posto di lavoro.
+
+3.
+                        
+                            
+                                - Non si computano come lavoro:
+ 
+                            
+                            
+                                a)
+                                
+                                    le interruzioni, con facolta' di allontanarsi dal posto di lavoro, comprese fra le ore 5 e le ore 24 di durata pari o superiore ad un'ora; tali interruzioni, incluse quelle per refezione di cui al successivo punto d), non devono pero' eccedere in ciascun turno di servizio il numero di due, se di durata inferiore a due ore, ed il numero di una se di durata pari o superiore a due ore. Non sono ammesse due interruzioni quando interessano dipendenti che abitano alla distanza di oltre un chilometro dal posto di lavoro;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le interruzioni, con facolta' di allontanarsi dal posto di lavoro, comprese fra le ore 0 e le ore 5, di durata pari o superiore a tre ore, quando interessano dipendenti che abitano alla distanza di non oltre un chilometro dal posto di lavoro;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il tempo impiegato per recarsi dall'abitazione al posto di lavoro anche se fuori residenza, quando l'assenza dalla residenza dia titolo all'indennita' di missione, e ritornare;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    le interruzioni per le refezioni previste nei turni di lavoro del personale degli impianti fissi. Queste interruzioni debbono avere durata non inferiore ad un'ora, riducibile a non meno di mezz'ora per particolari situazioni di lavoro o ambientali.
 
 ---------------
                             AGGIORNAMENTO (1)
@@ -96,6 +147,25 @@ MACCHINA))
 ## Art. 7. — ((Lavoro ordinario ))
 
 ((
+
+1.
+                        
+                            
+                                - Nell'ambito di quanto previsto dall'art. 1, lettera b), e' considerato lavoro tutto il tempo durante il quale il dipendente e' a disposizione negli impianti dell'Azienda, fatta eccezione:
+ 
+                            
+                            
+                                a)
+                                
+                                    per il tempo relativo al riposo fuori residenza;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    per il tempo impiegato per la consumazione del pasto, se richiesto dal personale in servizio sui treni merci in forte ritardo, nelle soste consentite allo scopo in impianti compatibili con la circolazione dei treni.
+ Fermi restando i vincoli di cui ai successivi articoli, qualora il tempo complessivo del lavoro e dei riposi fuori residenza superi le 200 ore mensili in esercizio, il personale acquista titolo ad un'indennita' ragguagliata al compenso per lavoro straordinario.
 
 - La durata massima del lavoro fra due riposi giornalieri e' di 7 ore per i servizi con riposo fuori di residenza e di 8 ore per i servizi senza riposo fuori residenza. Per favorire il rientro in residenza, la consumazione dei pasti e la eliminazione delle vie ordinarie forfettizzate, quest'ultimo limite e' elevabile ad 8 ore e 45 minuti per non piu' di una volta per il personale di macchina e non piu' di due volte per il personale viaggiante fra due riposi settimanali. In sede di formazione dei turni puo' essere concordato con le organizzazioni sindacali maggiormente rappresentative su base nazionale che il limite di 8 ore e 45 minuti venga raggiunto anche piu' di una o due volte rispettivamente per il personale di macchina e per il personale viaggiante fra due riposi settimanali. Il prolungamento ad 8 ore e 45 minuti non e' applicabile ai servizi non programmati del personale di macchina che interessano i periodi dalle ore 22.00 alle ore 24.00 e dalle ore 5 alle ore 6.
  Per i servizi del personale di macchina che impegnano il periodo compreso fra le ore 0 e le ore 5 si applica in ogni caso il limite delle 7 ore.

@@ -8,8 +8,8 @@ codice_redazionale: 094G0275
 vigente: true
 source: normattiva-opendata
 collection: DPCM
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:40:12Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DEL CONSIGLIO DEI MINISTRI
@@ -29,6 +29,38 @@ Il registro pubblico speciale per i programmi per elaboratore tenuto della Socie
 
 ## Art. 2.
 
+1.
+                    
+                        
+                            La registrazione si effettua mediante presentazione alla Societa' italiana degli autori ed editori (S.I.A.E.) da parte dell'autore, o di altro titolare dei diritti esclusivi, di un esemplare del programma da registrare accompagnato da una descrizione del programma stesso comprendente ogni utile elemento per la sua identificazione e da una dichiarazione che, con riferimento al programma pubblicato, contenga le seguenti indicazioni:
+ 
+                        
+                        
+                            a)
+                            
+                                titolo del programma;
+
+                            
+                        
+                        
+                            b)
+                            
+                                nome dell'autore, o suo pseudonimo, e nazionalita';
+
+                            
+                        
+                        
+                            c)
+                            
+                                nome e domicilio di chi, quale titolare dei diritti esclusivi di utilizzazione economica, ha pubblicato il programma e ne richiede la registrazione;
+
+                            
+                        
+                        
+                            d)
+                            
+                                data e luogo di pubblicazione del programma, intendendosi per pubblicazione il primo atto di esercizio dei relativi diritti esclusivi.
+
 L'esemplare presentato alla Societa' italiana degli autori ed editori (S.I.A.E.) per la registrazione deve essere costituito da una riproduzione del programma su supporto ottico, ovvero su altro supporto, di analoghe caratteristiche di immodificabilita', stabilita' e compattezza, ritenuto idoneo dalla Societa' italiana degli autori ed editori (S.I.A.E.).
 
 Per i programmi importati da persone fisiche o giuridiche stabilmente domiciliate in Italia, ovvero acquisiti da Paesi della Comunita' economica europea, la dichiarazione del titolare dei diritti di utilizzazione economica per l'Italia deve contenere gli elementi di cui al comma 1. Qualora la data di pubblicazione di cui alla lettera d) del comma 1 non corrisponda alla data del primo atto di esercizio dei diritti esclusivi in Italia, deve altresi' essere indicata la data di pubblicazione nel Paese di origine.
@@ -46,6 +78,52 @@ La Societa' italiana degli autori ed editori (S.I.A.E.) inserisce nel registro i
 ## Art. 4.
 
 Chi ha interesse a registrare nel registro un atto fra quelli indicati all'art. 104 della citata legge n. 633 del 1941, deve presentare alla Societa' italiana degli autori ed editori (S.I.A.E.) copia autentica dell'atto, o l'originale della scrittura privata, con firme autenticate, accompagnato da una copia dell'atto.
+
+2.
+                    
+                        
+                            Insieme con l'atto deve essere presentata una dichiarazione contenente le seguenti indicazioni:
+ 
+                        
+                        
+                            a)
+                            
+                                nome e domicilio del richiedente;
+
+                            
+                        
+                        
+                            b)
+                            
+                                natura e data dell'atto di cui si domanda la registrazione;
+
+                            
+                        
+                        
+                            c)
+                            
+                                nome del pubblico ufficiale che ha ricevuto l'atto o autenticato le firme;
+
+                            
+                        
+                        
+                            d)
+                            
+                                programma oggetto dell'atto e numero della eseguita registrazione;
+
+                            
+                        
+                        
+                            e)
+                            
+                                diritti ceduti;
+
+                            
+                        
+                        
+                            f)
+                            
+                                generalita' dei contraenti e loro qualita' nel negozio.
 
 La Societa' italiana degli autori ed editori (S.I.A.E.) inserisce nel registro i dati contenuti nella dichiarazione e conserva nei suoi archivi, previa apposizione del numero progressivo e della data di registrazione, gli esemplari degli atti; fornisce quindi al richiedente un attestato di avvenuta registrazione contenente i dati inseriti nel registro.
 

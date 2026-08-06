@@ -7,8 +7,8 @@ urn: urn:nir:stato:decreto.del.presidente.del.consiglio.dei.ministri:2015-11-25;
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:42Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DEL CONSIGLIO DEI MINISTRI
@@ -25,6 +25,66 @@ Udito il parere del Consiglio di Stato n. 2157/2015 del 24 luglio 2015, espresso
 ## Art. 1. — Definizioni e oggetto
 
 Il presente decreto determina, ai sensi dell'articolo 21, comma 4, del decreto-legge 24 giugno 2014, n. 90, convertito con modificazioni dalla legge 11 agosto 2014, n. 114, il trattamento economico dei docenti della Scuola nazionale dell'amministrazione (SNA).
+
+2.
+                    
+                        
+                            Ai sensi del presente regolamento si intendono: 
+ 
+                        
+                        
+                            a)
+                            
+                                per «Scuola», la Scuola nazionale dell'amministrazione; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                per «docenti a tempo pieno», quelli di cui all'articolo 10, comma 1, del decreto legislativo 1° dicembre 2009, n. 178, nonche' quelli incaricati ai sensi dell'articolo 14, comma 1, lettera a), del decreto del Presidente della Repubblica 16 aprile 2013, n. 70; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                per «docenti incaricati», i docenti e le persone di comprovata professionalita', di cui all'articolo 10, comma 3, del decreto legislativo 1° dicembre 2009, n. 178, ai quali la Scuola puo' conferire incarichi per lo svolgimento, anche temporaneo, di attivita' di insegnamento, ricerche e studi; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                per «docenti a tempo indeterminato», i docenti ordinari dei ruoli a esaurimento della soppressa Scuola superiore dell'economia e delle finanze trasferiti alla Scuola; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                per «ricercatori a tempo indeterminato», i ricercatori dei ruoli a esaurimento della soppressa Scuola superiore dell'economia e delle finanze trasferiti alla Scuola; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                per «docenti», tutti i soggetti di cui alle lettere b), c), d) ed e); 
+
+                            
+                        
+                        
+                            g)
+                            
+                                per «Presidente» il Presidente della Scuola; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                per «Comitato di gestione» il Comitato di gestione della Scuola.
 
 ## Art. 2. — Trattamento economico dei docenti 
  a tempo pieno e a tempo indeterminato

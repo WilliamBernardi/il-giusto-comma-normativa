@@ -8,8 +8,8 @@ codice_redazionale: 002G0114
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:38Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -43,9 +43,45 @@ Per i lavoratori dipendenti di cui al comma 1, assunti con contratto di lavoro a
 
 ## Art. 2.
 
+1.
+                    
+                        
+                            Il credito d'imposta di cui all'articolo 1 e' concesso anche alle imprese che:
+ 
+                        
+                        
+                            a)
+                            
+                                svolgono attivita' di formazione nei confronti di detenuti o internati negli istituti penitenziari o ammessi al lavoro all'esterno ai sensi dell'articolo 21, della legge n. 354 del 1975, a condizione che detta attivita' comporti, al termine del periodo di formazione, l'assunzione dei detenuti o internati formati;
+
+                            
+                        
+                        
+                            b)
+                            
+                                svolgono attivita' di formazione mirata a fornire professionalita' ai detenuti o agli internati da impiegare in attivita' lavorative gestite in proprio dall'Amministrazione penitenziaria.
+
 Non si applicano le agevolazioni previste dal comma 1 alle imprese che hanno stipulato convenzioni con enti locali aventi per oggetto attivita' formativa.
 
 ## Art. 3.
+
+1.
+                    
+                        
+                            Le agevolazioni di cui all'articolo 1 spettano a condizione che le imprese:
+ 
+                        
+                        
+                            a)
+                            
+                                assumano i detenuti o gli internati presso gli istituti penitenziari o i detenuti ammessi al lavoro all'esterno ai sensi dell'articolo 21 della legge n. 354 del 1975, con contratto di lavoro subordinato per un periodo non inferiore a trenta giorni;
+
+                            
+                        
+                        
+                            b)
+                            
+                                corrispondano un trattamento economico non inferiore a quello previsto dai contratti collettivi di lavoro.
 
 ## Art. 4.
 

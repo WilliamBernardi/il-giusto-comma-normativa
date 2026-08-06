@@ -8,8 +8,8 @@ codice_redazionale: 002G0225
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:41Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -26,6 +26,24 @@ E DELLE FINANZE
 Sentita l'Associazione Nazionale dei Comuni Italiani (A.N.C.I.);
 
 ## Art. 1. — Oggetto del decreto
+
+1.
+                    
+                        
+                            Il presente decreto, ai sensi dell'articolo 64 della legge 23 dicembre 2000, n. 388, disciplina:
+ 
+                        
+                        
+                            a)
+                            
+                                i criteri e le modalita' per l'erogazione di trasferimenti erariali aggiuntivi a favore dei comuni che subiscono minori entrate relative all'imposta comunale sugli immobili (I.C.I.) per effetto dei minori imponibili derivanti dall'autodeterminazione provvisoria delle rendite catastali dei fabbricati classificabili nel gruppo catastale D secondo la procedura prevista dal decreto del Ministro delle finanze 19 aprile 1994, n. 701;
+
+                            
+                        
+                        
+                            b)
+                            
+                                i criteri e le modalita' per la riduzione dei trasferimenti erariali di parte corrente nei confronti dei comuni che beneficiano del contributo statale di cui alla lettera a) ove questi ultimi accertino, a seguito della determinazione definitiva della rendita catastale, introiti superiori almeno del trenta per cento rispetto a quelli conseguiti prima della autodeterminazione provvisoria delle rendite catastali dei fabbricati classificabili nel gruppo catastale D.
 
 ## Art. 2. — Contributo statale
 

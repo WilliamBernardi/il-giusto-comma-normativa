@@ -8,8 +8,8 @@ codice_redazionale: 005G0126
 vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:22Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -29,6 +29,50 @@ Sulla proposta del Ministro delle politiche agricole e forestali;
 
 ## Art. 1. — Imprenditore agricolo professionale
 
+1.
+                        
+                            
+                                All'articolo 1, comma 1, del decreto legislativo 29 marzo 2004, n. 99, sono apportate le seguenti modificazioni:
+ 
+                            
+                            
+                                a)
+                                
+                                    al secondo periodo, la parola: «societa» e' soppressa;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    dopo le parole: «computo del reddito globale da lavoro.», sono aggiunti i seguenti periodi: «Nel caso delle societa' di persone e cooperative, ivi incluse le cooperative di lavoro, l'attivita' svolta dai soci nella societa', in presenza dei requisiti di conoscenze e competenze professionali, tempo lavoro e reddito di cui al primo periodo, e' idonea a far acquisire ai medesimi la qualifica di imprenditore agricolo professionale e al riconoscimento dei requisiti per i soci lavoratori. Nel caso di societa' di capitali, l'attivita' svolta dagli amministratori nella societa', in presenza dei predetti requisiti di conoscenze e competenze professionali, tempo lavoro e reddito, e' idonea a far acquisire ai medesimi amministratori la qualifica di imprenditore agricolo professionale.».
+
+2.
+                        
+                            
+                                All'articolo 1, comma 3, del decreto legislativo 29 marzo 2004, n. 99, sono apportate le seguenti modificazioni:
+ 
+                            
+                            
+                                a)
+                                
+                                    la lettera b) e' soppressa;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    alla lettera c), dopo le parole: «di capitali», sono inserite le seguenti: «o cooperative», e dopo le parole: «un amministratore», sono aggiunte le seguenti: «che sia anche socio per le societa' cooperative,»;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    dopo il comma 3, e' inserito il seguente:
+ «3-bis. La qualifica di imprenditore agricolo professionale puo' essere apportata da parte dell'amministratore ad una sola societa'.».
+
 L'articolo 1, comma 4, del decreto legislativo 29 marzo 2004, n. 99, e' sostituito dal seguente:
  «4. All'imprenditore agricolo professionale persona fisica, se iscritto nella gestione previdenziale ed assistenziale, sono altresi' riconosciute le agevolazioni tributarie in materia di imposizione indiretta e creditizie stabilite dalla normativa vigente a favore delle persone fisiche in possesso della qualifica di coltivatore diretto. La perdita dei requisiti di cui al comma 1, nei cinque anni dalla data di applicazione delle agevolazioni ricevute in qualita' di imprenditore agricolo professionale determina la decadenza dalle agevolazioni medesime.».
 
@@ -40,6 +84,24 @@ All'articolo 1 del decreto legislativo 29 marzo 2004, n. 99, il comma 5 e' sosti
  5-quinquies. L'articolo 12 della legge 9 maggio 1975, n. 153, e successive modificazioni, e' abrogato.».
 
 ## Art. 2. — Societa' agricole
+
+1.
+                        
+                            
+                                All'articolo 2, comma 2, secondo periodo, del decreto legislativo 29 marzo 2004, n. 99, sono apportate le seguenti modificazioni:
+ 
+                            
+                            
+                                a)
+                                
+                                    la parola: «nuova» e' soppressa;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    sono aggiunte, in fine, le seguenti parole: «e per ogni altro adempimento a tal fine necessario».
 
 L'articolo 2, comma 4, del decreto legislativo 29 marzo 2004, n. 99, e' sostituito dal seguente: «4. Alle societa' agricole di cui all'articolo 1, comma 3, qualificate imprenditori agricoli professionali, sono riconosciute le agevolazioni tributarie in materia di imposizione indiretta e creditizie stabilite dalla normativa vigente a favore delle persone fisiche in possesso della qualifica di coltivatore diretto. La perdita dei requisiti di cui all'articolo 1, comma 3, nei cinque anni dalla data di applicazione delle agevolazioni ricevute in qualita' di imprenditore agricolo professionale determina la decadenza dalle agevolazioni medesime.».
 

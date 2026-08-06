@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
 vigenza_date: 2004-05-22
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:39Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -39,6 +39,38 @@ Udito il parere del Consiglio di Stato, espresso dalla sezione consultiva per gl
 ## - Capo I Istituzione delle scuole
 
 ## Art. 1. — Definizioni
+
+1.
+                        
+                            
+                                Ai sensi del presente regolamento si intendono:
+ 
+                            
+                            
+                                a)
+                                
+                                    per universita', gli atenei e gli istituti di istruzione universitaria, statali e non statali che rilasciano titoli di studio con valore legale;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    per scuola o scuole, la scuola o le scuole di specializzazione per le professioni legali di cui al capo II, articolo 16, del decreto legislativo 17 novembre 1997, n. 398;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    per decreto legislativo, il decreto 17 novembre 1997, n. 398;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    per MURST, il Ministero dell'universita' e della ricerca scientifica e tecnologica.
 
 ## Art. 2. — Istituzione delle scuole
 

@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: DPR
 vigenza_date: 2005-11-29
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:47:47Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -27,6 +27,38 @@ Acquisita l'intesa con l'Autorita' per l'informatica nella pubblica amministrazi
 Sulla proposta del Ministro di grazia e giustizia;
 
 ## Art. 1. — Definizioni e finalita'
+
+1.
+                    
+                        
+                            Agli effetti del presente regolamento, si intende per:
+ 
+                        
+                        
+                            a)
+                            
+                                "decreto legislativo", il decreto legislativo 12 febbraio 1993, n. 39;
+
+                            
+                        
+                        
+                            b)
+                            
+                                "Amministrazione della giustizia", il complesso degli uffici centrali e periferici del Ministero di grazia e giustizia e degli archivi notarili, nonche' l'insieme degli organi giudiziari facenti parte della giurisdizione ordinaria;
+
+                            
+                        
+                        
+                            c)
+                            
+                                "dirigente responsabile", (( il dirigente generale di cui all'articolo 10, comma 1, del decreto legislativo o il magistrato ad esso equiparato ));
+
+                            
+                        
+                        
+                            d)
+                            
+                                "Autorita'", l'Autorita' per l'informatica nella pubblica amministrazione.
 
 Il presente regolamento si applica ai sistemi informativi automatizzati dell'Amministrazione della giustizia rispondenti alle finalita' di dotare gli organi giudiziari ed ogni altra articolazione dell'Amministrazione di idonei supporti conoscitivi ed operativi intesi a potenziare i mezzi necessari per l'esercizio della giurisdizione, denominati "sistemi informativi automatizzati" negli articoli successivi.
 

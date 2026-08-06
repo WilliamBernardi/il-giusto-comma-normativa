@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
 vigenza_date: 1999-06-15
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:29Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -62,6 +62,24 @@ Le singole operazioni indicate nel progetto approvato, per le quali le norme vig
 Gli enti di cui all'art. 1, comma 1, aventi il fondo di dotazione a composizione associativa possono trasformarsi in societa' per azioni bancarie.
 
 La deliberazione di trasformazione deve essere assunta con le modalita' di cui all'art. 2, comma 3, nella forma di atto pubblico, e deve contenere le indicazioni prescritte per l'atto costitutivo delle societa' per azioni. Lo statuto della societa' e' parte integrante della deliberazione e deve essere a questa allegato.
+
+3.
+                        
+                            
+                                La deliberazione di trasformazione deve altresi contenere la determinazione del patrimonio netto iniziale della societa'. In particolare: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il capitale sociale deve essere indicato di norma in misura non inferiore al capitale o fondo di dotazione dell'ente originario, e comunque in misura non inferiore all'importo minimo richiesto per la costituzione di societa' per azioni bancarie; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il residuo del patrimonio netto e' imputato a riserve e fondi mantenendo, ove possibile, le denominazioni e le destinazioni previste nel bilancio dell'ente originario, ivi comprese quelle derivanti dall'applicazione di norme tributarie. Il complesso del capitale e delle riserve indisponibili per legge e per statuto non puo' essere diminuito salvo che per la quota eventualmente utilizzata a fronte di minusvalenze accertate in sede di trasformazione.
 
 La determinazione del patrimonio netto iniziale deve essere corredata da una relazione degli amministratori e dei sindaci e certificata da una societa' di revisione quando l'ente abbia emesso titoli quotati.
 

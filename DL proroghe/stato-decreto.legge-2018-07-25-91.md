@@ -8,8 +8,8 @@ vigente: true
 source: normattiva-opendata
 collection: DL proroghe
 vigenza_date: 2023-12-17
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:39:27Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO-LEGGE
@@ -99,6 +99,31 @@ All'articolo 4, comma 2, ultimo periodo, del decreto del Presidente della Repubb
 
 Proroga di termini ((in materia di lavoro e di politiche sociali))
 
+1.
+                    
+                        
+                            All'articolo 10 del decreto legislativo 15 settembre 2017, n. 147, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 1, le parole «A decorrere dal 2018» sono sostituite dalle seguenti: «A decorrere dal 2019»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 3, primo periodo, le parole «e' stabilita la data a partire dalla quale e' possibile, in via sperimentale per un periodo di almeno sei mesi, accedere alla modalita' di presentazione della DSU,» sono sostituite dalle seguenti: «e' stabilita la data a partire dalla quale e' possibile accedere alla modalita' precompilata di presentazione della DSU, nonche' la data a partire dalla quale e' avviata una sperimentazione in materia,»; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                il comma 4 e' sostituito dal seguente: «4. A decorrere dal 1° gennaio 2019, la DSU ha validita' dal momento della presentazione fino al successivo 31 agosto. In ciascun anno, a decorrere dal 2019, all'avvio del periodo di validita' fissato al 1° settembre, i dati sui redditi e i patrimoni presenti in DSU sono aggiornati prendendo a riferimento l'anno precedente.».
+
 ((1-bis. All'articolo 1, comma 155, quinto periodo, della legge 27 dicembre 2017, n. 205, le parole: "entro il 30 settembre 2018" sono sostituite dalle seguenti: "entro il 15 novembre 2018"))
 
 ## Art. 6.
@@ -139,6 +164,24 @@ All'articolo 8, comma 1-bis, secondo periodo, del decreto legislativo 3 marzo 19
 
 All'articolo 2, comma 67-bis, della legge 23 dicembre 2009, n. 191, al quinto periodo, le parole «e per l'anno 2017», sono sostituite dalle seguenti: «, per l'anno 2017 e per l'anno 2018».
 
+4.
+                    
+                        
+                            All'articolo 16 del decreto-legge 12 settembre 2014, n. 133, convertito, con modificazioni, dalla legge 11 novembre 2014, n. 164, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 2, primo periodo, le parole «nel periodo 2015-2017», sono sostituite dalle seguenti: «nel periodo 2018-2020»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 2-bis, le parole «Nel periodo 2015-2017» sono sostituite dalle seguenti: «Nel periodo 2018-2020».
+
 ((
 
 I termini per il pagamento delle somme dovute ai sensi dei commi 1 e 1-bis dell'articolo 62-quater del testo unico di cui al decreto legislativo 26 ottobre 1995, n. 504, sono sospesi fino al 18 dicembre 2018.
@@ -159,6 +202,80 @@ c) dopo la lettera d) e' aggiunta la seguente:
  "d-bis) a decorrere dall'anno 2021, in misura pari al 100 per cento dell'importo della riduzione non applicata"))
 
 ((
+
+2-bis.
+                    
+                        
+                            All'articolo 8, comma 4, del decreto-legge 17 ottobre 2016, n. 189, convertito, con modificazioni, dalla legge 15 dicembre 2016, n. 229, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                al primo periodo, le parole: "31 dicembre 2018" sono sostituite dalle seguenti: "30 giugno 2019"; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al secondo periodo, le parole: "31 luglio 2019" sono sostituite dalle seguenti: "31 dicembre 2019".
+
+2-ter.
+                    
+                        
+                            All'articolo 18-bis del decreto-legge 17 ottobre 2016, n. 189, convertito, con modificazioni, dalla legge 15 dicembre 2016, n. 229, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 1, alinea, le parole: "e 2017/2018" sono sostituite dalle seguenti: ", 2017/2018 e 2018/2019"; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 1, lettera a), le parole: "e 2017/2018" sono sostituite dalle seguenti: ", 2017/2018 e 2018/2019"; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                al comma 2, le parole: "ed euro 5 milioni nell'anno 2018" sono sostituite dalle seguenti: ", euro 8 milioni nell'anno 2018 ed euro 4,5 milioni nell'anno 2019"; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                al comma 5, alinea, le parole: "ed euro 5 milioni nell'anno 2018" sono sostituite dalle seguenti: ", euro 8 milioni nell'anno 2018 ed euro 4,5 milioni nell'anno 2019"; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                al comma 5, dopo la lettera b) sono aggiunte le seguenti: 
+ «b-bis) quanto a euro 3 milioni nel 2018 ed euro 3,6 milioni nel 2019, mediante corrispondente riduzione dell'autorizzazione di spesa di cui all'articolo 1, comma 123, della legge 13 luglio 2015, n.107; 
+ b-ter) quanto a euro 900.000 nell'anno 2019, mediante corrispondente riduzione del Fondo di funzionamento di cui all'articolo 1, comma 601, della legge 27 dicembre 2006, n. 296»; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                dopo il comma 5 e' inserito il seguente: 
+ «5-bis. Il Fondo di funzionamento di cui all'articolo 1, comma 601, della legge 27 dicembre 2006, n.296, e' incrementato di euro 600.000 nell'anno 2018. A tale incremento si da' copertura mediante corrispondente riduzione dell'autorizzazione di spesa di cui all'articolo 1, comma 123, della legge 13 luglio 2015, n.107»; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                la rubrica e' sostituita dalla seguente: «Misure urgenti per lo svolgimento degli anni scolastici 2016/2017, 2017/2018 e 2018/2019».
 
 Le disposizioni di cui all'articolo 18-bis del decreto-legge 17 ottobre 2016, n. 189, convertito, con modificazioni, dalla legge 15 dicembre 2016, n. 229, come modificate dal comma 2-ter, si applicano anche ai Comuni di Casamicciola Terme, Forio e Lacco Ameno, colpiti dall'evento sismico del 21 agosto 2017.
 
@@ -181,6 +298,35 @@ Limitatamente ai rifugi alpini, il termine di cui all'articolo 38, comma 2, del 
 ## Art. 9-ter. — (( (Modifiche all'articolo 8-bis del decreto-legge 17 ottobre 2016, n. 189, in materia di interventi edilizi eseguiti per immediate esigenze abitative a seguito di eventi sismici). ))
 
 ((
+
+1.
+                    
+                        
+                            All'articolo 8-bis del decreto-legge 17 ottobre 2016, n. 189, convertito, con modificazioni, dalla legge 15 dicembre 2016, n. 229, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 1, secondo periodo, le parole: "in sostituzione, temporanea o parziale" sono sostituite dalle seguenti: "in sostituzione temporanea, anche se parziale"; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 2: 
+ 1) dopo le parole: "dell'edificio distrutto o danneggiato" sono inserite le seguenti: "ovvero dall'assegnazione di altra soluzione abitativa da parte dell'autorita' competente"; 
+ 2) dopo le parole: "decreto legislativo 22 gennaio 2004, n. 42" sono aggiunte le seguenti: ", le sanzioni di cui all'articolo 44 del testo unico di cui al decreto del Presidente della Repubblica 6 giugno 2001, n. 380, nonche' le sanzioni previste per violazione di ogni altra disposizione in materia edilizia o paesaggistica"; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                al comma 3: 
+ 1) le parole: "e le misure di sequestro preventivo" sono soppresse; 
+ 2) e' aggiunto, in fine, il seguente periodo: "Per i lavori e le opere che rispettino le condizioni di cui al comma 1, sono revocati, a norma delle pertinenti disposizioni del codice di procedura penale, i provvedimenti di sequestro, probatorio o preventivo, adottati sino alla data del 25 luglio 2018 per violazione della disciplina edilizia o paesaggistica".
 
 ))
 
@@ -210,6 +356,61 @@ b) al comma 1107:
  1) le parole: "entro novanta giorni dalla data di entrata in vigore della presente legge" sono sostituite dalle seguenti: "entro il 31 gennaio 2019"; 
  2) sono aggiunti, in fine, i seguenti periodi: «Nelle more dell'adozione del decreto di cui al presente comma, i risparmiatori di cui al comma 1106 gia' destinatari di pronuncia favorevole adottata dall'ACF nonche' i risparmiatori di cui al medesimo comma 1106, i cui ricorsi, gia' presentati, saranno decisi con pronuncia favorevole entro il 30 novembre 2018 dall'ACF, possono avanzare istanza alla CONSOB, secondo modalita' dalla stessa stabilite entro quindici giorni dalla data di entrata in vigore della presente disposizione e pubblicate nel sito internet istituzionale della medesima Autorita', al fine di ottenere tempestivamente l'erogazione, nella misura del 30 per cento e con il limite massimo di 100.000 euro, dell'importo liquidato. A tale fine il fondo di cui all'articolo 32-ter.1 del testo unico di cui al decreto legislativo 24 febbraio 1998, n. 58, la cui finalita', nel limite di 25 milioni di euro, e' estesa anche alle esigenze di cui al presente comma, e' integrato dell'importo di 25 milioni di euro per l'anno 2018. Al relativo onere si provvede mediante corrispondente riduzione dell'autorizzazione di spesa di cui al comma 1106 del presente articolo"»))
 
+2.
+                    
+                        
+                            All'articolo 37-bis, del decreto legislativo 1° settembre 1993, n. 385, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 1, lettera a), la parola «maggioritaria» e' sostituita dalle seguenti: «pari ad almeno il sessanta per cento»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                dopo il comma 2, e' inserito il seguente: «2-bis. Lo statuto della capogruppo stabilisce che i componenti dell'organo di amministrazione espressione delle banche di credito cooperativo aderenti al gruppo siano pari alla meta' piu' due del numero complessivo dei consiglieri di amministrazione.»; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                al comma 3, lettera b), alinea, dopo le parole «finalita' mutualistiche» sono inserite le seguenti: «e del carattere localistico delle banche di credito cooperativo»; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                al comma 3, lettera b), n. 1, dopo le parole «obiettivi operativi del gruppo» sono inserite le seguenti: «, tenendo conto di quanto previsto dal comma 3-bis,»; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                dopo il comma 3, sono inseriti i seguenti: 
+ «3-bis. Con atto della capogruppo e' disciplinato il processo di consultazione delle banche di credito cooperativo aderenti al gruppo in materia di strategie, politiche commerciali, raccolta del risparmio ed erogazione del credito nonche' riguardo al perseguimento delle finalita' mutualistiche. Al fine di tener conto delle specificita' delle aree interessate, la consultazione avviene mediante assemblee territoriali delle banche di credito cooperativo, i cui pareri non sono vincolanti per la capogruppo. 
+ 3-ter. Le banche del gruppo che, sulla base del sistema di classificazione del rischio adottato dalla capogruppo, si collocano nelle classi di rischio migliori: a) definiscono in autonomia i propri piani strategici e operativi, nel quadro degli indirizzi impartiti dalla capogruppo e sulla base delle metodologie da quest'ultima definite; b) comunicano tali piani alla capogruppo che ne verifica la coerenza con i citati indirizzi; c) nominano i componenti dei propri organi di amministrazione e controllo e, in caso di mancato gradimento della capogruppo, sottopongono alla stessa, ai fini della sostituzione di ogni componente non gradito, una lista di tre candidati diversi da quelli gia' indicati nella medesima procedura di nomina, fermi restando i requisiti di cui al decreto del Ministro dell'economia e delle finanze adottato ai sensi dell'articolo 26. Ogni atto della capogruppo di specificazione del sistema di classificazione del rischio previsto nel contratto di coesione e' sottoposto all'approvazione preventiva della Banca d'Italia.»; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                al comma 7, alinea, prima delle parole «Il Ministro dell'economia e delle finanze» e' inserito il seguente periodo: «Con decreto del Presidente del Consiglio dei ministri, su proposta del Ministro dell'economia e delle finanze, sentita la Banca d'Italia, puo' essere stabilita una soglia di partecipazione delle banche di credito cooperativo al capitale della societa' capogruppo diversa da quella indicata al comma 1, lettera a), tenuto conto delle esigenze di stabilita' del gruppo.»; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                al comma 7, la lettera b) e' soppressa.».
+
 ## Art. 11-bis. — (( (Proroga di termini in materia di sospensione della quota capitale dei mutui e dei finanziamenti). ))
 
 ## Art. 11-ter. — (( (Proroga di termini in materia di iscrizione nel registro delle imprese e nel REA dei soggetti esercitanti le attivita' di agente e rappresentante di commercio). ))
@@ -226,6 +427,31 @@ I termini per l'iscrizione e l'aggiornamento della propria posizione nel registr
 
 Al fine di consentire il proseguimento per l'anno 2018 delle attivita' di sostegno alle esportazioni italiane gia' finanziate con l'articolo 1, comma 140, della legge 11 dicembre 2016, n. 232, al Fondo di cui all'articolo 37, secondo comma, del decreto-legge 26 ottobre 1970, n.745, convertito, con modificazioni, dalla legge 18 dicembre 1970, n. 1034, e' attribuito l'importo di 160 milioni di euro per l'anno 2018, di 125 milioni di euro per l'anno 2019, e di 15 milioni di euro per ciascuno degli anni dal 2020 al 2032.
 
+2.
+                    
+                        
+                            Agli oneri derivanti dal comma 1, pari a 160 milioni di euro per l'anno 2018, a 125 milioni di euro per l'anno 2019 e a 15 milioni di euro per ciascuno degli anni dal 2020 al 2032, che aumentano a 27,6 milioni di euro per l'anno 2020, 27,4 milioni di euro per l'anno 2021, a 6,4 milioni di euro per l'anno 2022, a 17,2 milioni di euro per l'anno 2023, a 33,4 milioni di euro per l'anno 2024, a 54,9 milioni di euro per l'anno 2025, a 55,5 milioni di euro per l'anno 2026, a 55,1 milioni di euro per l'anno 2027, a 53,3 milioni di euro per l'anno 2028, a 47,1 milioni di euro per l'anno 2029, a 39,7 milioni di euro per l'anno 2030, a 31,4 milioni di euro per l'anno 2031, a 25,8 milioni di euro per l'anno 2032, ai fini della compensazione degli effetti in termini di fabbisogno e indebitamento netto, si provvede: 
+ 
+                        
+                        
+                            a)
+                            
+                                quanto a 150 milioni di euro per l'anno 2018 e a 110 milioni di euro per l'anno 2019, mediante corrispondente riduzione della dotazione del Fondo di cui all'articolo 37, comma 6, del decreto-legge 24 aprile 2014, n. 66, convertito, con modificazioni, dalla legge 23 giugno 2014, n. 89; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                quanto a 10 milioni di euro per l'anno 2018 e a 15 milioni di euro per ciascuno degli anni dal 2019 al 2032, mediante corrispondente riduzione dello stanziamento del fondo speciale di conto capitale iscritto, ai fini del bilancio triennale 2018-2020, nell'ambito del programma «Fondi di riserva e speciali» della missione «Fondi da ripartire» dello stato di previsione del Ministero dell'economia e delle finanze per l'anno 2018, allo scopo parzialmente utilizzando l'accantonamento relativo al medesimo Ministero; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                quanto a 12,6 milioni di euro per l'anno 2020, 10,4 milioni di euro per l'anno 2021, a 2,2 milioni di euro per l'anno 2023, a 18,4 milioni di euro per l'anno 2024, a 39,9 milioni di euro per l'anno 2025, a 40,5 milioni di euro per l'anno 2026, a 40,1 milioni di euro per l'anno 2027, a 38,3 milioni di euro per l'anno 2028, a 32,1 milioni di euro per l'anno 2029, a 24,7 milioni di euro per l'anno 2030, a 16,4 milioni di euro per l'anno 2031, a 10,8 milioni di euro per l'anno 2032, mediante corrispondente utilizzo del Fondo per la compensazione degli effetti finanziari non previsti a legislazione vigente conseguenti all'attualizzazione di contributi pluriennali, di cui all'articolo 6, comma 2, del decreto-legge 7 ottobre 2008, n. 154, convertito, con modificazioni, dalla legge 4 dicembre 2008, n. 189.
+
 Il Ministro dell'economia e delle finanze e' autorizzato ad apportare, con propri decreti, le occorrenti variazioni di bilancio.
 
 ## Art. 13. — Proroga di termini in materia di finanziamento degli investimenti e di sviluppo infrastrutturale del Paese
@@ -238,6 +464,41 @@ L'efficacia delle convenzioni concluse sulla base di quanto disposto ai sensi de
 Gli effetti positivi sul fabbisogno e sull'indebitamento netto derivanti dal comma 02, quantificati in 140 milioni di euro per l'anno 2018, 320 milioni di euro per l'anno 2019, 350 milioni di euro per l'anno 2020 e 220 milioni di euro per l'anno 2021, sono destinati al fondo di cui al comma 04.
 
 Nello stato di previsione del Ministero dell'economia e delle finanze e' istituito, con una dotazione, in termini di sola cassa, pari a 140 milioni di euro per l'anno 2018, a 320 milioni di euro per l'anno 2019, a 350 milioni di euro per l'anno 2020 e a 220 milioni di euro per l'anno 2021, un apposito fondo da utilizzare per favorire gli investimenti delle citta' metropolitane, delle province e dei comuni da realizzare attraverso l'utilizzo dei risultati di amministrazione degli esercizi precedenti.
+
+1.
+                    
+                        
+                            All'articolo 1, comma 1072, della legge 27 dicembre 2017, n. 205, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                al penultimo periodo, le parole: "secondo, terzo e quarto periodo del" sono soppresse; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                all'ultimo periodo, le parole da: "sono da adottare" fino alla fine del periodo sono sostituite dalle seguenti: "sono adottati entro il 31 ottobre 2018".
+
+1-bis.
+                    
+                        
+                            All'articolo 1 della legge 11 dicembre 2016, n. 232, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                dopo il comma 495-bis e' inserito il seguente: 
+ "495-ter. Per gli anni 2018 e 2019, gli spazi finanziari di cui al comma 495 sono ripartiti tra le regioni a statuto ordinario sulla base, rispettivamente, delle tabelle 1 e 2 di seguito riportate. Gli spazi finanziari di cui alla tabella 1 sono utilizzati dalle regioni per effettuare nuovi investimenti in ciascuno degli anni dal 2018 al 2022, e gli spazi finanziari di cui alla tabella 2 sono utilizzati dalle regioni per effettuare nuovi investimenti per ciascuno degli anni dal 2019 al 2023. A tal fine, entro il 31 ottobre 2018 e il 31 luglio 2019, le medesime regioni adottano gli atti finalizzati all'impiego delle risorse, assicurando almeno l'esigibilita' degli impegni nel medesimo anno di riferimento per la quota di competenza di ciascuna regione, come indicata per ciascun anno nelle tabelle 1 e 2 di seguito riportate. L'utilizzo degli spazi finanziari di cui alla tabella 2 e' disposto dal bilancio di previsione 2019-2021 attraverso l'iscrizione di stanziamenti di spesa riguardanti gli investimenti finanziati dal risultato di amministrazione presunto o dal ricorso al debito, in misura almeno corrispondente agli importi indicati nella tabella 2. Gli stanziamenti riguardanti le spese di investimento iscritti nel bilancio di previsione 2019-2021 relativamente all'esercizio 2019 risultano incrementati rispetto alle previsioni definitive del bilancio di previsione 2018-2020 riguardanti il medesimo esercizio in misura almeno corrispondente agli importi indicati nella tabella 2. Fatto salvo quanto previsto al precedente periodo, gli investimenti che le singole regioni sono chiamate a realizzare, secondo quanto stabilito nei periodi precedenti, sono considerati nuovi se effettuati a seguito di una variazione del bilancio di previsione che incrementa gli stanziamenti riguardanti gli investimenti diretti e indiretti per la quota di rispettiva competenza, come indicata nelle tabelle di seguito riportate, e se verificati attraverso il sistema di monitoraggio opere pubbliche della Banca dati delle amministrazioni pubbliche (BDAP MOP) ai sensi del decreto legislativo 20 dicembre 2011, n. 229. A tal fine le regioni provvedono alla trasmissione delle informazioni riguardanti i propri investimenti diretti effettuati a valere sugli spazi assegnati e assumono le iniziative necessarie affinche' le pubbliche amministrazioni beneficiarie dei propri contributi erogati a valere sugli spazi finanziari effettuino la trasmissione delle informazioni riguardanti gli investimenti realizzati con tali risorse. Le regioni certificano l'avvenuta realizzazione degli investimenti di cui alle tabelle 1 e 2 di seguito riportate entro il 31 marzo dell'anno successivo a quello di riferimento, mediante apposita comunicazione al Ministero dell'economia e delle finanze - Dipartimento della Ragioneria generale dello Stato. In caso di mancata o parziale realizzazione degli investimenti, si applicano le sanzioni di cui al comma 475. 
+ 
+ Parte di provvedimento in formato grafico
+ 
+ (( b) i commi da 497 a 500 sono abrogati. )) 
+ 1-ter All'articolo 6-bis, comma 1, del decreto-legge 20 giugno 2017, n. 91, convertito, con modificazioni, dalla legge 3 agosto 2017, n. 123, le parole: "per gli anni 2017/2019" sono sostituite dalle seguenti: "per gli anni 2017/2020".
 
 ## Art. 13-bis. — (Proroga di termini in materia di controlli tecnici periodici dei veicoli a motore e dei loro rimorchi)
 

@@ -8,8 +8,8 @@ codice_redazionale: 005G0287
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:42Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -66,6 +66,24 @@ Entro il 31 gennaio di ciascun anno, il Comitato approva una relazione sull'atti
 Il Fondo e' alimentato con una quota pari al cinquanta per cento dei proventi delle sanzioni amministrative, applicate ai sensi degli articoli 174-bis e 174-ter della legge 22 aprile 1941, n. 633.
 
 ## Art. 4. — Destinatari e criteri di assegnazione delle risorse del Fondo
+
+1.
+                    
+                        
+                            Gli organi che svolgono attivita' di polizia giudiziaria nella prevenzione e nell'accertamento delle violazioni penali ed amministrative previste dalla legge 22 aprile 1941, n. 633, e successive modificazioni, ovvero che cooperano a tali finalita', sono destinatari delle risorse del Fondo secondo i criteri di seguito indicati:
+ 
+                        
+                        
+                            a)
+                            
+                                una quota pari al settanta per cento delle risorse annuali del Fondo e' ripartita, in misura proporzionale all'attivita' realizzata, tra gli uffici che hanno contribuito a realizzare un afflusso di risorse nel Fondo;
+
+                            
+                        
+                        
+                            b)
+                            
+                                una quota pari al trenta per cento delle risorse del Fondo e' attribuita, in misura eguale, agli uffici che, pur avendo compiuto attivita' di prevenzione e repressione delle violazioni suddette, o cooperato al loro svolgimento, non hanno contribuito a realizzare un incremento del Fondo.
 
 ## Art. 5. — Deliberazione sulla domanda
 

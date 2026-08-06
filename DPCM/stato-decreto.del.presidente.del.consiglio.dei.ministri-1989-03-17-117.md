@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: DPCM
 vigenza_date: 2001-05-09
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:40:12Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DEL CONSIGLIO DEI MINISTRI
@@ -56,6 +56,31 @@ La disposizione di cui al comma 1 si applica altresi' al rapporto di lavoro a te
 ## Art. 4. — Orario e tipologie del rapporto a tempo parziale
 
 La durata dell'orario mensile delle prestazioni di servizio nel rapporto a tempo parziale e' pari al cinquanta per cento di quello stabilito per il rapporto a tempo pieno per ciascuna categoria, qualifica o profilo professionale. Per eccezionali e motivate esigenze di servizio puo' derogarsi al limite predetto, in una misura percentuale non superiore al 20 per cento in piu' o in meno, mediante decreto del Ministro competente, di concerto con il Ministro per la funzione pubblica e il Ministro del tesoro.
+
+2.
+                    
+                        
+                            L'articolazione della prestazione di servizio, nell'ambito dell'orario mensile definito ai sensi del comma 1, puo' avvenire: 
+ 
+                        
+                        
+                            a)
+                            
+                                per ciascun giorno lavorativo del mese; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                per alcuni giorni lavorativi del mese, anche per alcuni mesi in relazione a determinati periodi dell'anno; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                per ciascun giorno lavorativo del mese con la previsione di maggiorazione temporale in alcuni giorni.
 
 La tipologia di rapporto a tempo parziale prescelta dall'amministrazione deve tendere al potenziamento dell'efficacia dell'azione amministrativa, al fine di una piu' puntuale erogazione dei servizi anche nelle ore pomeridiane.
 

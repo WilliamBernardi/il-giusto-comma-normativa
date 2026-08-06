@@ -7,8 +7,8 @@ urn: urn:nir:stato:decreto.legislativo:2022-06-17;83
 vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:23Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -27,6 +27,82 @@ Sulla proposta del Presidente del Consiglio dei ministri e del Ministro della gi
 ## - Capo I Modifiche al codice della crisi d'impresa e dell'insolvenza di cui al  decreto legislativo 12 gennaio 2019, n. 14
 
 ## Art. 1. — Modifiche alla Parte Prima, Titolo I, Capo I, del decreto legislativo 12 gennaio 2019, n. 14
+
+1.
+                        
+                            
+                                All'articolo 2, comma 1, del decreto legislativo 12 gennaio 2019, n. 14, sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la lettera a) e' sostituita dalla seguente: «a) "crisi": lo stato del debitore che rende probabile l'insolvenza e che si manifesta con l'inadeguatezza dei flussi di cassa prospettici a far fronte alle obbligazioni nei successivi dodici mesi»; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la lettera g) e' abrogata; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    la lettera h) e' sostituita dalla seguente: «h) "gruppo di imprese": l'insieme delle societa', delle imprese e degli enti, esclusi lo Stato e gli enti territoriali, che, ai sensi degli articoli 2497 e 2545-septies del codice civile, esercitano o sono sottoposti alla direzione e coordinamento di una societa', di un ente o di una persona fisica; a tal fine si presume, salvo prova contraria, che l'attivita' di direzione e coordinamento delle societa' del gruppo sia esercitata dalla societa' o ente tenuto al consolidamento dei loro bilanci oppure dalla societa' o ente che le controlla, direttamente o indirettamente, anche nei casi di controllo congiunto;»; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    dopo la lettera m) e' inserita la seguente: 
+ «m-bis) "strumenti di regolazione della crisi e dell'insolvenza": le misure, gli accordi e le procedure volti al risanamento dell'impresa attraverso la modifica della composizione, dello stato o della struttura delle sue attivita' e passivita' o del capitale, oppure volti alla liquidazione del patrimonio o delle attivita' che, a richiesta del debitore, possono essere preceduti dalla composizione negoziata della crisi»; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    alla lettera n), le parole «delle procedure di regolazione della crisi o dell'insolvenza previste» sono sostituite dalle seguenti: «degli strumenti di regolazione della crisi e dell'insolvenza e delle procedure di insolvenza previsti»; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    alla lettera o), le parole «una delle procedure di regolazione della crisi di impresa» sono sostituite dalle seguenti: «uno degli strumenti di regolazione della crisi e dell'insolvenza»; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    dopo la lettera o), e' inserita la seguente: 
+ «o-bis) « "esperto": il soggetto terzo e indipendente, iscritto nell'elenco di cui all'articolo 13, comma 3 e nominato dalla commissione di cui al comma 6 del medesimo articolo 13, che facilita le trattative nell'ambito della composizione negoziata»; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    alla lettera p) sono aggiunte, in fine, le seguenti parole: «, anche prima dell'accesso a uno degli strumenti di regolazione della crisi e dell'insolvenza»; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    alla lettera q), le parole «gli effetti delle procedure di regolazione della crisi o dell'insolvenza» sono sostituite dalle seguenti: «il buon esito delle trattative e gli effetti degli strumenti di regolazione della crisi e dell'insolvenza e delle procedure di insolvenza»; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    la lettera u) e' abrogata.
 
 ## Art. 2. — Modifiche alla Parte Prima, Titolo I, Capo II, Sezione I, del decreto legislativo 12 gennaio 2019, n. 14
 
@@ -290,7 +366,50 @@ Dopo l'articolo 25-undecies, al Titolo III, le parole «Procedure di regolazione
 
 ## Art. 8. — Modifiche alla Parte Prima, Titolo III, Capo I, del decreto legislativo 12 gennaio 2019, n. 14
 
+1.
+                        
+                            
+                                All'articolo 26 del decreto legislativo 12 gennaio 2019, n. 14, sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il comma 1 e' sostituito dal seguente «1. L'imprenditore che ha all'estero il centro degli interessi principali puo' essere ammesso a uno strumento di regolazione della crisi e dell'insolvenza o assoggettato a una procedura di insolvenza nella Repubblica italiana anche se e' stata aperta analoga procedura all'estero, quando ha una dipendenza in Italia.»; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il comma 2 e' sostituito dal seguente: «2. Il trasferimento del centro degli interessi principali all'estero non esclude la sussistenza della giurisdizione italiana se e' avvenuto nell'anno antecedente il deposito della domanda di accesso a uno strumento di regolazione della crisi e dell'insolvenza o a una procedura di insolvenza.».
+
 ## Art. 9. — Modifiche alla Parte Prima, Titolo III, Capo II, del decreto legislativo 12 gennaio 2019, n. 14
+
+1.
+                        
+                            
+                                All'articolo 27 del decreto legislativo 12 gennaio 2019, n. 14, sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    al comma 1, primo periodo, le parole «di regolazione della crisi o dell'insolvenza» sono sostituite dalle seguenti: «di accesso a uno strumento di regolazione della crisi e dell'insolvenza o a una procedura di insolvenza»; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    al comma 2, primo periodo, le parole «di regolazione della crisi o dell'insolvenza» sono sostituite dalle seguenti: «di accesso a uno strumento di regolazione della crisi e dell'insolvenza o a una procedura di insolvenza»; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    al comma 3, lettere a) e c), le parole «attivita' impresa» sono sostituite dalle seguenti: «attivita' d'impresa».
 
 L'articolo 28 del decreto legislativo 12 gennaio 2019, n. 14, e' sostituito dal seguente: 
  «Art. 28 (Trasferimento del centro degli interessi principali). - 1. Il trasferimento del centro degli interessi principali non rileva ai fini della competenza quando e' intervenuto nell'anno antecedente al deposito della domanda di accesso a uno strumento di regolazione della crisi e dell'insolvenza o di apertura della liquidazione giudiziale.».
@@ -305,7 +424,50 @@ Alla parte prima, titolo III del decreto legislativo 12 gennaio 2019, n. 14, la 
 
 Alla parte prima, titolo III, capo IV del decreto legislativo 12 gennaio 2019, n. 14, la rubrica della sezione I e' sostituita dalla seguente: «Iniziativa per l'accesso agli strumenti di regolazione della crisi e dell'insolvenza e alla liquidazione giudiziale».
 
+2.
+                        
+                            
+                                All'articolo 37 del decreto legislativo 12 gennaio 2019, n. 14, sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    al comma 1, le parole «a una procedura regolatrice della crisi o dell'insolvenza» sono sostituite dalle seguenti: «agli strumenti di regolazione della crisi e dell'insolvenza»; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la rubrica e' sostituita dalla seguente: «Iniziativa per l'accesso agli strumenti di regolazione della crisi e dell'insolvenza e alla liquidazione giudiziale».
+
 All'articolo 38 del decreto legislativo 12 gennaio 2019, n. 14, come sostituito dall'articolo 7, comma 1, del decreto legislativo 26 ottobre 2020, n. 147, al comma 3, le parole «diretti all'apertura di una procedura di regolazione della crisi e dell'insolvenza» sono sostituite dalle seguenti: «per l'accesso agli strumenti di regolazione della crisi e dell'insolvenza o a una procedura di insolvenza.».
+
+4.
+                        
+                            
+                                All'articolo 39 del decreto legislativo 12 gennaio 2019, n. 14, come sostituito dall'articolo 7, comma 2, del decreto legislativo 26 ottobre 2020, n. 147, sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    al comma 1, le parole «Il debitore che chiede l'accesso a una delle procedure di regolazione della crisi o dell'insolvenza» sono sostituite dalle seguenti: «Il debitore che chiede l'accesso a uno strumento di regolazione della crisi e dell'insolvenza o a una procedura di insolvenza»; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    al comma 3, le parole «Quando la domanda ha ad oggetto l'assegnazione dei termini di cui all'articolo 44, comma 1, lettera a)» sono sostituite dalle seguenti: «Quando la domanda e' presentata ai sensi dell'articolo 44, comma 1, lettera a)»; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    la rubrica e' sostituita dalla seguente: «Obblighi del debitore che chiede l'accesso a uno strumento di regolazione della crisi e dell'insolvenza o a una procedura di insolvenza».
 
 ## Art. 12. — Modifiche alla Parte Prima, Titolo III, Capo IV, Sezione II, del decreto legislativo 12 gennaio 2019, n. 14
 
@@ -326,6 +488,26 @@ L'esito della comunicazione e' trasmesso con modalita' telematica all'indirizzo 
  10. Nel caso di pendenza di un procedimento per la apertura della liquidazione giudiziale introdotto da un soggetto diverso dal debitore, la domanda di accesso a uno strumento di regolazione della crisi e dell'insolvenza e' proposta, con ricorso ai sensi dell'articolo 37, comma 1 e nel rispetto degli obblighi di cui all'articolo 39, nel medesimo procedimento, a pena di decadenza, entro la prima udienza e se entro il medesimo termine e' proposta separatamente e' riunita, anche d'ufficio, al procedimento pendente.
 Successivamente alla prima udienza, la domanda non puo' essere proposta autonomamente sino alla conclusione del procedimento per la apertura della liquidazione giudiziale. Il termine di cui al primo periodo non si applica se la domanda di accesso a uno strumento di regolazione della crisi e dell'insolvenza e' proposta all'esito della composizione negoziata, entro sessanta giorni dalla comunicazione di cui all'articolo 17, comma 8.».
 
+3.
+                        
+                            
+                                All'articolo 43 del decreto legislativo 12 gennaio 2019, n. 14, sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il comma 1 e' sostituito dal seguente: «1. In caso di rinuncia alla domanda di cui all'articolo 40 il procedimento si estingue, fatta salva la volonta' di proseguirlo manifestata dagli intervenuti o dal pubblico ministero per l'apertura della liquidazione giudiziale. Il pubblico ministero puo' rinunciare alla domanda di apertura della liquidazione giudiziale.»; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    al comma 2, come sostituito dall'articolo 7, comma 4, del decreto legislativo 26 ottobre 2020, n. 147, sono apportate le seguenti modificazioni: 
+ 1) al primo periodo, le parole: «su istanza di parte,» sono soppresse e la parola «quella» e' sostituita dalle parole «la parte»; 
+ 2) il secondo periodo e' soppresso.
+
 L'articolo 44 del decreto legislativo 12 gennaio 2019, n. 14, e' sostituito dal seguente: 
  «Art. 44 (Accesso a uno strumento di regolazione della crisi e dell'insolvenza con riserva di deposito di documentazione). - 1. Il debitore puo' presentare la domanda di cui all'articolo 40 con la documentazione prevista dall'articolo 39, comma 3, riservandosi di presentare la proposta, il piano e gli accordi. In tale caso il tribunale pronuncia decreto con il quale: 
  a) fissa un termine compreso tra trenta e sessanta giorni, prorogabile su istanza del debitore in presenza di giustificati motivi e in assenza di domande per l'apertura della liquidazione giudiziale, fino a ulteriori sessanta giorni, entro il quale il debitore deposita la proposta di concordato preventivo con il piano, l'attestazione di veridicita' dei dati e di fattibilita' e la documentazione di cui all'articolo 39, commi 1 e 2, oppure la domanda di omologazione degli accordi di ristrutturazione dei debiti, con la documentazione di cui all'articolo 39, comma 1, oppure la domanda di omologazione del piano di ristrutturazione di cui all'articolo 64-bis, con la documentazione di cui all'articolo 39, commi 1 e 2; 
@@ -334,6 +516,42 @@ L'articolo 44 del decreto legislativo 12 gennaio 2019, n. 14, e' sostituito dal 
  d) ordina al debitore il versamento, entro un termine perentorio non superiore a dieci giorni, di una somma per le spese della procedura, nella misura necessaria fino alla scadenza del termine fissato ai sensi del comma 1, lettera a). 
  2. Il tribunale, su segnalazione di un creditore, del commissario giudiziale o del pubblico ministero, con decreto non soggetto a reclamo, sentiti il debitore e i creditori che hanno proposto ricorso per l'apertura della liquidazione giudiziale e omessa ogni formalita' non essenziale al contraddittorio, revoca il provvedimento di concessione dei termini adottato ai sensi del comma 1, lettera a), quando accerta una delle situazioni di cui al comma 1, lettera b) o quando vi e' stata grave violazione degli obblighi informativi di cui al comma 1, lettera c). Nello stesso modo il tribunale provvede in caso di violazione dell'obbligo di cui al comma 1, lettera d). 
  3. I termini di cui al comma 1, lettere a), c) e d) non sono soggetti a sospensione feriale dei termini.».
+
+5.
+                        
+                            
+                                All'articolo 45 del decreto legislativo 12 gennaio 2019, n. 14, sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    al comma 1, le parole «o per il deposito degli accordi di ristrutturazione di cui all'articolo 44, comma 1, lettera a)» sono sostitute dalle seguenti: «oppure per il deposito della domanda di omologazione del piano di ristrutturazione di cui all'articolo 64-bis o degli accordi di ristrutturazione di cui all'articolo 44, comma 1, lettera a)»; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    al comma 2, secondo periodo, le parole «il nome dell'eventuale commissario» sono sostituite dalle seguenti: «il nome del commissario».
+
+6.
+                        
+                            
+                                All'articolo 46 del decreto legislativo 12 gennaio 2019, n. 14, sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    al comma 1, dopo le parole «Dopo il deposito della domanda di accesso» sono inserite le seguenti: «al concordato preventivo, anche ai sensi dell'articolo 44,»; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    al comma 2, le parole «anche da terzi» sono sostituite dalle seguenti: «anche da terzi,».
 
 L'articolo 47 del decreto legislativo 12 gennaio 2019, n. 14, e' sostituito dal seguente: 
  «Art. 47 (Apertura del concordato preventivo). - 1. A seguito del deposito del piano e della proposta di concordato, il tribunale, acquisito il parere del commissario giudiziale, se gia' nominato, verifica: 
@@ -359,7 +577,43 @@ Il tribunale, assunti i mezzi istruttori richiesti dalle parti o disposti d'uffi
  5. La sentenza che omologa il concordato, il piano di ristrutturazione soggetto a omologazione o gli accordi di ristrutturazione e' notificata e iscritta nel registro delle imprese a norma dell'articolo 45 e produce i propri effetti dalla data della pubblicazione ai sensi dell'articolo 133, primo comma, del codice di procedura civile. Gli effetti nei riguardi dei terzi si producono dalla data di iscrizione nel registro delle imprese. 
  6. Se il tribunale non omologa il concordato preventivo, gli accordi di ristrutturazione o il piano di ristrutturazione soggetto ad omologazione, provvede con sentenza eventualmente dichiarando, su ricorso di uno dei soggetti legittimati, l'apertura della liquidazione giudiziale secondo quanto previsto dall'articolo 49, commi 1 e 2.».
 
+9.
+                        
+                            
+                                All'articolo 49 del decreto legislativo 12 gennaio 2019, n. 14, sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    al comma 1, le parole «ad una procedura di regolazione concordata della crisi o dell'insolvenza» sono sostituite dalle seguenti: «a uno strumento di regolazione della crisi e dell'insolvenza»; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    al comma 2, dopo le parole «ovvero nei casi previsti dall'articolo» sono inserite le seguenti: «47, comma 4 e dall'articolo».
+
 All'articolo 50, comma 4, del decreto legislativo 12 gennaio 2019, n. 14, le parole «articolo 40, commi 5, 6 e 7» sono sostituite dalle seguenti: «articolo 40, commi 6, 7 e 8».
+
+11.
+                        
+                            
+                                All'articolo 51 del decreto legislativo 12 gennaio 2019, n. 14, sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    al comma 1, dopo le parole «Contro la sentenza del tribunale che pronuncia sull'omologazione del concordato preventivo» sono inserite le seguenti: «, del piano di ristrutturazione soggetto a omologazione»; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il comma 14 e' sostituito dal seguente: «14. Il ricorso per cassazione non sospende l'efficacia della sentenza. Si applica, in quanto compatibile, l'articolo 52 se il ricorso e' promosso contro la sentenza con la quale la corte di appello ha rigettato il reclamo.».
 
 All'articolo 52, comma 1, secondo periodo, del decreto legislativo 12 gennaio 2019, n. 14, dopo le parole: «Allo stesso modo puo' provvedere, in caso di reclamo avverso la omologazione del concordato preventivo» sono inserite le seguenti: «o del piano di ristrutturazione soggetto ad omologazione».
 
@@ -394,6 +648,68 @@ Alla parte prima, titolo IV, capo I, del decreto legislativo 12 gennaio 2019, n.
 
 Alla parte prima, titolo IV, capo I del decreto legislativo 12 gennaio 2019, n. 14, la rubrica della sezione II e' sostituita dalla seguente: «Accordi di ristrutturazione, convenzione di moratoria e accordi su crediti tributari e contributivi».
 
+2.
+                        
+                            
+                                All'articolo 57 del decreto legislativo 12 gennaio 2019, n. 14, sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    al comma 1, le parole «dell'articolo 44» sono sostituite dalle seguenti: «dell'articolo 48»; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    al comma 4, come modificato dall'articolo 9, comma 1, lettera b), del decreto legislativo 26 ottobre 2020, n. 147, la parola «economica» e' soppressa.
+
+3.
+                        
+                            
+                                All'articolo 63 del decreto legislativo 12 gennaio 2019, n. 14, sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    al comma 2, come modificato dall'articolo 9, comma 3, lettera c), del decreto legislativo 26 ottobre 2020, n. 147, al settimo periodo, le parole «Ai fini dell'articolo 48, comma 5» sono sostituite dalle seguenti: «Ai fini del comma 2-bis» e la parola «fiscale» e' soppressa; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    dopo il comma 2, e' inserito il seguente: «2-bis. Il tribunale omologa gli accordi di ristrutturazione anche in mancanza di adesione da parte dell'amministrazione finanziaria o degli enti gestori di forme di previdenza o assistenza obbligatorie quando l'adesione e' determinante ai fini del raggiungimento delle percentuali di cui agli articoli 57, comma 1, e 60, comma 1, e, anche sulla base delle risultanze della relazione del professionista indipendente, la proposta di soddisfacimento della predetta amministrazione o degli enti gestori di forme di previdenza o assistenza obbligatorie e' conveniente rispetto all'alternativa liquidatoria.»; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    la rubrica e' sostituita dalla seguente: «Transazione su crediti tributari e contributivi».
+
+4.
+                        
+                            
+                                All'articolo 64 del decreto legislativo 12 gennaio 2019, n. 14, sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    dopo il comma 2, sono aggiunti i seguenti: «3. In caso di domanda proposta ai sensi dell'articolo 54, comma 3, o di domanda di concessione delle misure protettive in funzione della omologazione degli accordi di ristrutturazioni, i creditori non possono, unilateralmente, rifiutare l'adempimento dei contratti in corso di esecuzione o provocarne la risoluzione, ne' possono anticiparne la scadenza o modificarli in danno dell'imprenditore per il solo fatto del deposito delle medesime domande. Sono inefficaci eventuali patti contrari. 
+ 4. Fermo quanto previsto dal comma 3, i creditori interessati dalle misure protettive non possono, unilateralmente, rifiutare l'adempimento dei contratti essenziali in corso di esecuzione o provocarne la risoluzione, ne' possono anticiparne la scadenza o modificarli in danno dell'imprenditore per il solo fatto di non essere stati pagati dal debitore. Sono essenziali i contratti necessari per la continuazione della gestione corrente dell'impresa, inclusi i contratti relativi alle forniture la cui interruzione impedisce la prosecuzione dell'attivita' del debitore.»; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    alla rubrica, dopo le parole «Effetti degli accordi sulla disciplina societaria» sono aggiunte le seguenti: «e sui contratti in caso di concessione di misure protettive».
+
 ## Art. 16. — Inserimento del Capo I-bis del Titolo IV della Parte Prima del decreto legislativo 12 gennaio 2019, n. 14
 
 Nel titolo IV della parte prima del decreto legislativo 12 gennaio 2019, n. 14, dopo l'articolo 64, e' inserito il seguente Capo: 
@@ -422,6 +738,34 @@ Con il piano di ristrutturazione soggetto a omologazione l'imprenditore commerci
 All'articolo 70, comma 7 del decreto legislativo 12 gennaio 2019, n. 14, la parola «economica» e' soppressa.
 
 ## Art. 18. — Modifiche alla Parte Prima, Titolo IV, Capo II, Sezione III, del decreto legislativo 12 gennaio 2019, n. 14
+
+1.
+                        
+                            
+                                All'articolo 78 del decreto legislativo 12 gennaio 2019, n. 14, sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    al comma 2, lettera c), dopo le parole «a mezzo posta elettronica certificata» sono inserite le seguenti: «o altro servizio elettronico di recapito certificato qualificato ai sensi dell'articolo 1, comma 1-ter del Codice dell'amministrazione digitale di cui al decreto legislativo n. 82 del 2005»; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    dopo il comma 2 e' inserito il seguente: «2-bis. Con il decreto di cui al comma 1, il giudice nomina il commissario giudiziale perche' svolga, a partire da quel momento, le funzioni dell'OCC se: 
+ a) e' stata disposta la sospensione generale delle azioni esecutive individuali e la nomina appare necessaria per tutelare gli interessi delle parti; 
+ b) e' proposta domanda di concordato in continuita' aziendale, con omologazione da pronunciarsi ai sensi dell'articolo 112, comma 2; 
+ c) la nomina e' richiesta dal debitore.»; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    al comma 4, dopo le parole «posta elettronica certificata» sono inserite le seguenti: «o altro servizio elettronico di recapito certificato qualificato,».
 
 All'articolo 80, comma 1, del decreto legislativo 12 gennaio 2019, n. 14, la parola «economica» e' soppressa.
 
@@ -469,7 +813,68 @@ L'articolo 87 del decreto legislativo 12 gennaio 2019, n. 14, e' sostituito dal 
  3. Il debitore deposita, con la domanda, la relazione di un professionista indipendente, che attesti la veridicita' dei dati aziendali e la fattibilita' del piano e, in caso di continuita' aziendale, che il piano e' atto a impedire o superare l'insolvenza del debitore, a garantire la sostenibilita' economica dell'impresa e a riconoscere a ciascun creditore un trattamento non deteriore rispetto a quello che riceverebbe in caso di liquidazione giudiziale.
 Analoga relazione deve essere presentata nel caso di modifiche sostanziali della proposta o del piano.».
 
+6.
+                        
+                            
+                                All'articolo 88 del decreto legislativo 12 gennaio 2019, n. 14, come modificato dall'articolo 13, comma 4, del decreto legislativo 26 ottobre 2020, n. 147, sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    al comma 1, le parole «Con il piano» sono sostituite dalle seguenti: «Fermo restando quanto previsto, per il concordato in continuita' aziendale, dall'articolo 112, comma 2, con il piano»; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    al comma 2, sono aggiunte, in fine, le seguenti parole: «e, nel concordato in continuita' aziendale, la sussistenza di un trattamento non deteriore»; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    dopo il comma 2, e' inserito il seguente: «2-bis. Il tribunale omologa il concordato preventivo anche in mancanza di adesione da parte dell'amministrazione finanziaria o degli enti gestori di forme di previdenza o assistenza obbligatorie quando l'adesione e' determinante ai fini del raggiungimento delle percentuali di cui all'articolo 109, comma 1, e, anche sulla base delle risultanze della relazione del professionista indipendente, la proposta di soddisfacimento della predetta amministrazione o degli enti gestori di forme di previdenza o assistenza obbligatorie e' conveniente o non deteriore rispetto all'alternativa liquidatoria.».
+
+7.
+                        
+                            
+                                All'articolo 90 del decreto legislativo 12 gennaio 2019, n. 14, sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    al comma 4, le parole «articolo 87, comma 2» sono sostituite dalle seguenti: «articolo 87, comma 3,»; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    al comma 5, primo periodo, le parole «articolo 87, comma 2,» sono sostituite dalle seguenti: «articolo 87, comma 3,»; il secondo periodo e' sostituito dal seguente: «Tale percentuale e' ridotta al 20 per cento nel caso in cui il debitore abbia utilmente avviato la composizione negoziata ai sensi dell'articolo 13.».
+
 ## Art. 20. — Modifiche alla Parte Prima, Titolo IV, Capo III, Sezione II, del decreto legislativo 12 gennaio 2019, n. 14
+
+1.
+                        
+                            
+                                All'articolo 92 del decreto legislativo 12 gennaio 2019, n. 14, sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    al comma 2, come modificato dall'articolo 14, comma 1, del decreto legislativo 26 ottobre 2020, n. 147, le parole «gli articoli 125, 126, 133, 134, 136 e 137» sono sostituite dalle seguenti: «gli articoli 125, 126, 133, 134, 135, 136 e 137»; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il comma 3 e' sostituito dal seguente: «3. Il commissario giudiziale vigila sull'attivita' del debitore e fornisce ai creditori che ne fanno richiesta, valutata la congruita' della stessa e previa assunzione di opportuni obblighi di riservatezza, le informazioni utili per la presentazione di proposte concorrenti, sulla base delle scritture contabili e fiscali obbligatorie del debitore, nonche' ogni altra informazione rilevante in suo possesso. Nel concordato in continuita' aziendale, nel termine concesso ai sensi dell'articolo 44, comma 1, lettera a), il commissario giudiziale, se richiesto o in caso di concessione delle misure protettive di cui all'articolo 54, comma 2, affianca il debitore e i creditori nella negoziazione del piano formulando, ove occorra, suggerimenti per la sua redazione.».
 
 ## Art. 21. — Modifiche alla Parte Prima, Titolo IV, Capo III, Sezione III, del decreto legislativo 12 gennaio 2019, n. 14
 
@@ -482,6 +887,24 @@ All'articolo 100, comma 1, terzo periodo del decreto legislativo 12 gennaio 2019
 ## Art. 22. — Modifiche alla Parte Prima, Titolo IV, Capo III, Sezione IV, del decreto legislativo 12 gennaio 2019, n. 14
 
 All'articolo 104, comma 2, del decreto legislativo 12 gennaio 2019, n. 14, dopo le parole: «la residenza del creditore,» sono inserite le seguenti: «il piano e» e dopo le parole «l'invito ad indicare un indirizzo di posta elettronica certificata» sono inserite le seguenti: «oppure un servizio elettronico di recapito certificato qualificato di cui all'articolo 1, comma 1-ter del Codice dell'amministrazione digitale di cui al decreto legislativo 7 marzo 2005, n. 82».
+
+2.
+                        
+                            
+                                All'articolo 106 del decreto legislativo 12 gennaio 2019, n. 14, sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    al comma 2, come modificato dall'articolo 16, comma 2, lettera b), del decreto legislativo 26 ottobre 2020, n. 147, le parole «anche quando il debitore non ha effettuato tempestivamente il deposito previsto dall'articolo 47, comma 1, lettera d)» sono sostituite dalle seguenti: «anche quando il debitore non ha effettuato tempestivamente il deposito previsto dall'articolo 47, comma 2, lettera d)»; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    al comma 3, come modificato dall'articolo 16, comma 2, lettera c), del decreto legislativo 26 ottobre 2020, n. 147, le parole «il tribunale revocato il decreto di cui all'articolo 47,,» sono sostituite dalle seguenti: «il tribunale, revocato il decreto di cui all'articolo 47,».
 
 ## Art. 23. — Modifiche alla Parte Prima, Titolo IV, Capo III, Sezione V, del decreto legislativo 12 gennaio 2019, n. 14
 
@@ -518,6 +941,24 @@ L'articolo 112 del decreto legislativo 12 gennaio 2019, n. 14, e' sostituito dal
 
 All'articolo 113 del decreto legislativo 12 gennaio 2019, n. 14, dopo il comma 1, e' aggiunto il seguente: «2. L'omologazione deve intervenire nel termine di dodici mesi dalla presentazione della domanda ai sensi dell'articolo 40.».
 
+3.
+                        
+                            
+                                All'articolo 114 del decreto legislativo 12 gennaio 2019, n. 14, come modificato dall'articolo 18, comma 1, del decreto legislativo 26 ottobre 2020, n. 147, sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    al comma 2, le parole «gli articoli 125, 126, 134, 136, 137 e 231» sono sostituite dalle seguenti: «gli articoli 125, 126, 134, 135, 136, 137 e 231»; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    dopo il comma 5 e' aggiunto il seguente: «6. Conclusa l'esecuzione del concordato, il liquidatore comunica al commissario giudiziale un rapporto riepilogativo finale, accompagnato dal conto della sua gestione e dagli estratti del conto bancario o postale. Il commissario ne da' notizia, con le sue osservazioni, al pubblico ministero e ai creditori e ne deposita copia presso la cancelleria del tribunale.».
+
 All'articolo 116 del decreto legislativo 12 gennaio 2019, n. 14, dopo il comma 4, e' aggiunto il seguente: «5. Quando il piano prevede il compimento delle operazioni di cui al comma 1, il diritto di recesso dei soci e' sospeso fino all'attuazione del piano.».
 
 All'articolo 118, comma 1, del decreto legislativo 12 gennaio 2019, n. 14, sono aggiunti, in fine, i seguenti periodi: «Ogni sei mesi successivi alla presentazione della relazione di cui all'articolo 105, comma 1, redige un rapporto riepilogativo redatto in conformita' a quanto previsto dall'articolo 130, comma 9, e lo trasmette ai creditori. Conclusa l'esecuzione del concordato, il commissario giudiziale deposita un rapporto riepilogativo finale redatto in conformita' a quanto previsto dal medesimo articolo 130, comma 9.».
@@ -548,15 +989,147 @@ Gli amministratori, nei trenta giorni successivi, possono ricorrere, per i provv
 
 ## Art. 26. — Modifiche alla Parte Prima, Titolo V, Capo I, Sezione I, del decreto legislativo 12 gennaio 2019, n. 14
 
+1.
+                        
+                            
+                                All'articolo 135 del decreto legislativo 12 gennaio 2019, n. 14, sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il comma 1 e' sostituito dal seguente: «1. Al fine di evitare conflitti di interessi, il debitore e i creditori ammessi possono chiedere la sostituzione del curatore indicandone al tribunale le ragioni. Il tribunale, valutate le ragioni della richiesta e verificata l'assenza di conflitto di interessi in capo ai creditori istanti, provvede alla nomina del nuovo curatore.»; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il comma 2 e' abrogato.
+
 ## Art. 27. — Modifiche alla Parte Prima, Titolo V, Capo I, Sezione III, del decreto legislativo 12 gennaio 2019, n. 14
 
 All'articolo 158 del decreto legislativo 12 gennaio 2019, n. 14, dopo il comma 1 e' aggiunto il seguente: «2. In deroga a quanto previsto dal comma 1, la rivalutazione dei crediti di lavoro e' ammessa anche dopo la domanda di accesso agli strumenti di regolazione della crisi e dell'insolvenza e dopo l'apertura di una procedura di insolvenza. La rivalutazione e' ammessa, negli strumenti di regolazione della crisi e dell'insolvenza, fino alla definitivita' della sentenza di omologazione e, nelle procedure di insolvenza, fino al decreto pronunciato ai sensi dell'articolo 204, comma 4, in relazione alle domande di ammissione al passivo depositate nel termine di cui all'articolo 201, comma 1.».
 
 ## Art. 28. — Modifiche alla Parte Prima, Titolo V, Capo I, Sezione IV, del decreto legislativo 12 gennaio 2019, n. 14
 
+1.
+                        
+                            
+                                All'articolo 166, comma 3, del decreto legislativo 12 gennaio 2019, n. 14, sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    alla lettera e), dopo le parole «posti in essere in esecuzione del concordato preventivo» sono inserite le seguenti: «, del piano di ristrutturazione di cui all'articolo 64-bis omologato»; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    alla lettera g), le parole «alle procedure di regolazione della crisi e dell'insolvenza previste» sono sostituite dalle seguenti: «agli strumenti di regolazione della crisi e dell'insolvenza e alle procedure di insolvenza previsti».
+
 ## Art. 29. — Modifiche alla Parte Prima, Titolo V, Capo IV sezione I, del decreto legislativo 12 gennaio 2019, n. 14
 
+1.
+                        
+                            
+                                All'articolo 213 del decreto legislativo 12 gennaio 2019, n. 14, sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    al comma 1, al primo e al secondo periodo, la parola «centottanta» e' sostituita dalla seguente: «centocinquanta»; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    al comma 2, secondo periodo, dopo le parole «In questo caso, il curatore» sono inserite le seguenti: «notifica l'istanza e la relativa autorizzazione ai competenti uffici per l'annotazione nei pubblici registri e»; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    al comma 5, secondo periodo, la parola «dodici» e' sostituita dalla seguente: «otto»; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    al comma 6, e' aggiunto, in fine, il seguente periodo: «Prima della approvazione del programma, il curatore puo' procedere alla liquidazione di beni, previa autorizzazione del giudice delegato e sentito il comitato dei creditori se gia' nominato, solo quando dal ritardo puo' derivare pregiudizio all'interesse dei creditori.»; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    al comma 8, le parole «previsti dal programma di liquidazione» sono sostituite dalle seguenti: «di cui al comma 5»; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    dopo il comma 8 e' aggiunto il seguente: «9. Se il curatore ha rispettato i termini di cui al comma 5, nel calcolo dei termini di cui alla legge 24 marzo 2001, n. 89, non si tiene conto del tempo necessario per il completamento della liquidazione».
+
 ## Art. 30. — Modifiche alla Parte Prima, Titolo V, Capo IV, sezione II, del decreto legislativo 12 gennaio 2019, n. 14
+
+1.
+                        
+                            
+                                All'articolo 216 del decreto legislativo 12 gennaio 2019, n. 14, sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    al comma 2, come sostituito dall'articolo 25, comma 1, lettera a), del decreto legislativo 26 ottobre 2020, n. 147: 
+ 1) al primo periodo, dopo le parole «anche avvalendosi di soggetti specializzati,» sono inserite le seguenti: «sulla base delle stime effettuate ai sensi del comma 1, assicurando, con adeguate forme di pubblicita', la massima informazione e partecipazione degli interessati» e le parole «con le modalita' stabilite con ordinanza dal giudice delegato» sono soppresse; 
+ 2) dopo il primo periodo e' inserito il seguente: «Il curatore informa il giudice delegato dell'andamento delle attivita' di liquidazione nelle relazioni di cui all'articolo 130, comma 9.»; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il comma 3 e' sostituito dal seguente: «3. Il curatore puo' proporre nel programma di liquidazione che le vendite dei beni mobili, immobili e mobili registrati vengano effettuate dal giudice delegato secondo le disposizioni del codice di procedura civile in quanto compatibili.»; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il comma 5 e' sostituito dal seguente: «5. Il curatore effettua la pubblicita', sul portale delle vendite pubbliche, dell'avviso contenente tutti i dati che possono interessare il pubblico o della ordinanza di vendita e di ogni altro atto o documento ritenuto utile e puo' ricorrere anche a ulteriori forme di pubblicita' idonee ad assicurare la massima informazione e partecipazione degli interessati, da effettuarsi almeno trenta giorni prima della vendita. Il termine puo' essere ridotto, previa autorizzazione del giudice delegato, esclusivamente nei casi di assoluta urgenza.»; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    al comma 7 sono apportate le seguenti modificazioni: 
+ 1) al primo periodo, dopo le parole «L'offerta non e' efficace se perviene oltre il termine stabilito» sono inserite le seguenti: «nell'avviso di cui al comma 5 o»; 
+ 2) al secondo periodo, dopo le parole «Le offerte di acquisto sono efficaci anche se inferiori di non oltre un quarto al prezzo stabilito» sono inserite le seguenti: «nell'avviso di cui al comma 5 o»; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    al comma 9, come modificato dall'articolo 25, comma 1, lettera c), del decreto legislativo 26 ottobre 2020, n. 147, sono aggiunte, in fine, le seguenti parole: «della documentazione relativa alla vendita»; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    dopo il comma 11 e' aggiunto il seguente: «12. Con regolamento del Ministro della giustizia, da adottare ai sensi dell'articolo 17, comma 3, della legge 23 agosto 1988, n. 400, entro il termine di sei mesi dalla data di entrata in vigore del presente decreto, sono stabiliti requisiti di onorabilita' e professionalita' dei soggetti specializzati dei quali il curatore puo' avvalersi ai sensi del comma 2.».
 
 ## Art. 31. — Modifiche alla Parte Prima, Titolo V, Capo VI, del decreto legislativo 12 gennaio 2019, n. 14
 
@@ -568,6 +1141,24 @@ All'articolo 255, comma 1, alinea, del decreto legislativo 12 gennaio 2019, n. 1
 
 ## Art. 33. — Modifiche alla Parte Prima, Titolo V, Capo IX, del decreto legislativo 12 gennaio 2019, n. 14
 
+1.
+                        
+                            
+                                All'articolo 268, comma 2, del decreto legislativo 12 gennaio 2019, n. 14, come modificato dall'articolo 29, comma 1, lettera a), del decreto legislativo 26 ottobre 2020, n. 147, sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    al primo periodo le parole «e, se l'insolvenza riguarda un imprenditore, dal pubblico ministero» sono soppresse; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    al secondo periodo, la parola «ventimila» e' sostituita dalla seguente: «cinquantamila».
+
 ## Art. 34. — Modifiche alla Parte Prima, Titolo V, Capo X, Sezione I, del decreto legislativo 12 gennaio 2019, n. 14
 
 All'articolo 278, del decreto legislativo 12 gennaio 2019, n. 14, come modificato dall'articolo 30, comma 1, lettera a), del decreto legislativo 26 ottobre 2020, n. 147, al comma 1 e' aggiunto, in fine, il seguente periodo: «Con l'esdebitazione vengono meno le cause di ineleggibilita' e di decadenza collegate all'apertura della liquidazione giudiziale.».
@@ -575,6 +1166,38 @@ All'articolo 278, del decreto legislativo 12 gennaio 2019, n. 14, come modificat
 All'articolo 279 del decreto legislativo 12 gennaio 2019, n. 14, il comma 2 e' abrogato.
 
 ## Art. 35. — Modifiche alla Parte Prima, Titolo VI, Capo I, del decreto legislativo 12 gennaio 2019, n. 14
+
+1.
+                        
+                            
+                                All'articolo 285 del decreto legislativo 12 gennaio 2019, n. 14, sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    al comma 2, sono aggiunte, in fine, le seguenti parole: «tenuto conto dei vantaggi compensativi derivanti alle singole imprese, fermo quanto previsto dagli articoli 47 e 112»; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    al comma 3, come modificato dall'articolo 32, comma 2, lettera b), del decreto legislativo 26 ottobre 2020, n. 147, al primo periodo, le parole «Gli effetti pregiudizievoli» sono sostituite dalle seguenti: «Se non ricorre l'ipotesi prevista dal comma 1, secondo periodo, gli effetti pregiudizievoli»; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    al comma 4, come modificato dall'articolo 32, comma 2, lettera c), del decreto legislativo 26 ottobre 2020, n. 147, le parole «Il tribunale» sono sostituite dalle seguenti: «In caso di opposizione proposta ai sensi del comma 3, il tribunale» e dopo le parole «dei piani collegati» sono inserite le seguenti: «e tenuto conto dei vantaggi compensativi derivanti alle singole imprese del gruppo»; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    dopo il comma 4, e' inserito il seguente: «4-bis. Nell'ipotesi di cui al comma 1, secondo periodo, il tribunale omologa il concordato secondo quanto previsto dall'articolo 112, commi 2, 3 e 4.».
 
 ## Art. 36. — Modifiche alla Parte Prima, Titolo VI, Capo III, del decreto legislativo 12 gennaio 2019, n. 14
 
@@ -591,6 +1214,24 @@ All'articolo 302, comma 3, del decreto legislativo 12 gennaio 2019, n. 14, le pa
 All'articolo 306, comma 2, primo periodo, del decreto legislativo 12 gennaio 2019, n. 14, le parole «indicatori della crisi» sono sostituite dalle seguenti: «segnali di cui all'articolo 3».
 
 ## Art. 38. — Modifiche alla Parte Prima, Titolo VII, Capo III, del decreto legislativo 12 gennaio 2019, n. 14
+
+1.
+                        
+                            
+                                All'articolo 316 del decreto legislativo 12 gennaio 2019, n. 14, sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la lettera a) e' sostituita dalla seguente: «a) ricevere dagli organi interni di controllo dei soggetti vigilati e dai soggetti incaricati della revisione e dell'ispezione la comunicazione dei segnali di cui all'articolo 3;»; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la lettera b) e' abrogata.
 
 ## Art. 39. — Modifiche alla Parte Prima, Titolo IX, Capo III, del decreto legislativo 12 gennaio 2019, n. 14
 
@@ -610,11 +1251,54 @@ Alla parte prima, titolo X del decreto legislativo 12 gennaio 2019, n. 14, la ru
 
 Gli articoli 351 e 352 del decreto legislativo 12 gennaio 2019, n. 14, sono abrogati.
 
+3.
+                        
+                            
+                                All'articolo 353, comma 1, del decreto legislativo 12 gennaio 2019, n. 14, sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    le parole «un anno» sono sostituite dalle seguenti: «sei mesi»; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le parole «delle misure di allerta, delle procedure di composizione assistita della crisi di impresa di cui al» sono sostituite dalle seguenti: «delle misure e degli strumenti previsti dal»; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    dopo le parole «titolo II» sono aggiunte le seguenti: «e degli strumenti di regolazione della crisi d'impresa».
+
 L'articolo 354 del decreto legislativo 12 gennaio 2019, n. 14, e' abrogato.
 
 ## Art. 42. — Modifiche alla Parte Prima, Titolo X, Capo II, del decreto legislativo 12 gennaio 2019, n. 14
 
 All'articolo 356, comma 2, del decreto legislativo 12 gennaio 2019, n. 14, al terzo periodo le parole «, ovvero, ai fini della nomina quali componenti dell'OCRI, i soggetti di cui all'articolo 352» sono soppresse.
+
+2.
+                        
+                            
+                                All'articolo 358, comma 3, del decreto legislativo 12 gennaio 2019, n. 14, sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    alla lettera a), le parole «di cui all'articolo 16-bis, commi 9-quater, 9-quinquies e 9-septies, del decreto-legge 18 ottobre 2012, n. 179, convertito, con modificazioni, dalla legge 24 dicembre 2012, n. 228» sono soppresse; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    dopo la lettera d), e' aggiunta la seguente: «e) in caso di procedura che presenta elementi transfrontalieri, delle correlate esperienze e competenze acquisite e, in particolare, della capacita' di rispettare gli obblighi di cui al regolamento (UE) 2015/848, di comunicare e cooperare con i professionisti che gestiscono le procedure di insolvenza e con le autorita' giudiziarie o amministrative di un altro Stato membro, nonche' delle risorse umane e amministrative necessarie per far fronte a casi potenzialmente complessi.».
 
 ## Art. 43. — Modifiche alla Parte Prima, Titolo X, Capo III, del decreto legislativo 12 gennaio 2019, n. 14
 
@@ -623,6 +1307,24 @@ All'articolo 359, comma 1, del decreto legislativo 12 gennaio 2019, n. 14, le pa
 All'articolo 361, comma 1, del decreto legislativo 12 gennaio 2019, n. 14, le parole «articolo 40, comma 5» sono sostituite dalle seguenti: «articolo 40, comma 6» e le parole «articolo 40, comma 7» sono sostituite dalle seguenti: «articolo 40, comma 8».
 
 ## Art. 44. — Modifiche alla Parte Prima, Titolo X, Capo IV, del decreto legislativo 12 gennaio 2019, n. 14
+
+1.
+                        
+                            
+                                All'articolo 368, comma 4, del decreto legislativo 12 gennaio 2019, n. 14, sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    alla lettera a) le parole «di procedure di regolazione della crisi e dell'insolvenza di cui al presente codice» sono sostituite dalle seguenti: «degli strumenti di regolazione della crisi e dell'insolvenza e delle procedure di insolvenza disciplinati dal decreto legislativo 12 gennaio 2019, n. 14»; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    alla lettera d), capoverso «5-bis», terzo periodo, le parole «articolo 85, comma 7» sono sostituite dalle seguenti: «articolo 84, comma 5».
 
 ## Art. 45. — Modifiche alla Parte Seconda del 
  decreto legislativo 12 gennaio 2019, n. 14
@@ -634,6 +1336,36 @@ All'articolo 381, comma 2, del decreto legislativo 12 gennaio 2019, n. 14, le pa
 ## Art. 46. — Abrogazioni e modifiche di disposizioni del 
  decreto-legge 24 agosto 2021, n. 118
 
+1.
+                        
+                            
+                                Al decreto-legge 24 agosto 2021, n. 118, sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    gli articoli 2, 3, 4, 5, 6, 7, 8, 9, 11, 12, 13, 14, 15, 16, 17, 18 e 19, commi 1, 2 e 3, sono abrogati; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    all'articolo 10 sono apportate le seguenti modificazioni: 
+ 1) il comma 1 e' abrogato; 
+ 2) al comma 2, primo periodo, dopo le parole «L'esperto» sono inserite le seguenti: «di cui all'articolo 12 del decreto legislativo 12 gennaio 2019, n. 14»; 
+ 3) al comma 3 le parole «I procedimenti di cui ai commi 1 e 2 si svolgono innanzi al tribunale competente ai sensi dell'articolo 9 del regio decreto 16 marzo 1942, n. 267» sono sostituite dalle seguenti: «Il procedimento di cui al comma 2 si svolge innanzi al tribunale competente ai sensi dell'articolo 27 del decreto legislativo 12 gennaio 2019, n. 14»; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    all'articolo 23: 
+ 1) il comma 2 e' abrogato; 
+ 2) alla rubrica, le parole «. Limiti di accesso alla composizione negoziata» sono soppresse.
+
 ## Art. 47. — Abrogazioni di disposizioni del 
  decreto-legge 6 novembre 2021, n. 152
 
@@ -642,7 +1374,78 @@ Gli articoli 30-ter, 30-quater, 30-quinquies e 30-sexies del decreto-legge 6 nov
 ## Art. 48. — Abrogazioni di disposizioni del 
  decreto legislativo 26 ottobre 2020, n. 147
 
+1.
+                        
+                            
+                                Al decreto legislativo 26 ottobre 2020, n. 147: 
+ 
+                            
+                            
+                                a)
+                                
+                                    all'articolo 1, comma 1, le lettere a),
+                                
+                            
+                            
+                                b)
+                                
+                                    ed e) sono abrogate; 
+ b) all'articolo 9, comma 3, la lettera a) e' abrogata; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    gli articoli 2, 3, 4, 5, 7, commi 5, 6, 7, 10, 11 e 12, articoli 13, commi 1, 2 e 3, e 36, sono abrogati.
+
 ## Art. 49. — Modifiche al decreto legislativo 8 luglio 1999, n. 270
+
+1.
+                        
+                            
+                                Al decreto legislativo 8 luglio 1999, n. 270 sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    all'articolo 8, comma 1, lettera b), dopo le parole «ovvero autonomamente,» sono inserite le seguenti: «osservati gli articoli 356 e 358 del codice della crisi e dell'insolvenza,». 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    all'articolo 15, comma 3, le parole «articoli 37, 38, primo e secondo comma, e 39 della legge fallimentare» sono sostituite dalle seguenti: «articoli 134, 135, 136, commi 1, 2 e 3, e 137 del codice della crisi e dell'insolvenza»; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    all'articolo 19: 
+ 1) al comma 3, le parole «articoli 42, 43, 44, 46 e 47 della legge fallimentare» sono sostituite dalle seguenti: «articoli 142, 143, 144, 146 e 147 del codice della crisi e dell'insolvenza» e le parole «articoli 31, 32, 34 e 35 della legge fallimentare» sono sostituite dalle seguenti: «articoli 104, 128, 129, 131 e 132 del codice della crisi e dell'insolvenza»; 
+ 2) il comma 4 e' sostituito dal seguente: «4. Al termine del proprio ufficio, il commissario giudiziale cui e' affidata la gestione dell'impresa deve rendere il conto a norma dell'articolo 231 del codice della crisi e dell'insolvenza.»; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    all'articolo 43: 
+ 1) dopo il comma 1 sono aggiunti i seguenti: 
+ «1-bis. Il debitore e i creditori ammessi possono chiedere la sostituzione del commissario straordinario per conflitto di interessi, indicandone nella richiesta le specifiche ragioni. Il Ministro dello sviluppo economico, sentito il comitato di sorveglianza, se ritiene fondata la richiesta, provvede alla nomina del nuovo commissario straordinario. 
+ 1-ter. Il debitore e i creditori ammessi possono altresi' chiedere al comitato di sorveglianza la revoca dell'autorizzazione concessa al commissario straordinario ai sensi dell'articolo 41, comma 2, alla nomina per la designazione di coadiutori in presenza di conflitto di interessi, indicandone nella richiesta le specifiche ragioni. Il comitato di sorveglianza provvede sentito il commissario straordinario.»; 
+ 2) la rubrica e' sostituita dalla seguente: «(Revoca e sostituzione del commissario straordinario e dei coadiutori)». 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    dopo l'articolo 76 e' inserito il seguente: 
+ «Art. 76-bis (Esdebitazione dei soci illimitatamente responsabili). - 1. Ai soci illimitatamente responsabili cui sono stati estesi gli effetti della dichiarazione dello stato di insolvenza si applicano, in quanto compatibili, gli articoli 278, 279, 280 e 281 del codice della crisi e dell'insolvenza.».
 
 ## Art. 50. — Disposizioni transitorie
 

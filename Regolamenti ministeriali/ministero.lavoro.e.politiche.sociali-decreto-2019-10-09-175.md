@@ -7,8 +7,8 @@ urn: urn:nir:ministero.lavoro.e.politiche.sociali:decreto:2019-10-09;175
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:41Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -50,6 +50,66 @@ Per la realizzazione dei progetti di cui al comma 1 possono essere attivate form
 
 ## Art. 4. — Azioni ammissibili al finanziamento
 
+1.
+                    
+                        
+                            I progetti finanziabili con il fondo di cui all'articolo 1 devono prevedere lo svolgimento di una o piu' delle seguenti azioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                segretariato sociale in favore dei nuclei familiari; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                attivita' strutturate di sostegno psicologico sia ai bambini che ai loro familiari; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                accoglienza integrata temporanea per i periodi di cura; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                accompagnamento verso e dai luoghi di cura; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                attivita' di ludoterapia e clownterapia presso i reparti ospedalieri onco-ematologici pediatrici; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                riabilitazione psicomotoria dei bambini; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                attivita' ludiche e didattiche presso le strutture di accoglienza, compreso il sostegno scolastico; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                sostegno al reinserimento sociale dei bambini e dei loro familiari.
+
 ## Art. 5. — Durata dei progetti finanziati
 
 I progetti finanziati non possono avere una durata inferiore a 12 mesi e superiore a 18 mesi.
@@ -68,6 +128,59 @@ La quota di finanziamento statale non puo' eccedere l'80 per cento del costo tot
 
 ## Art. 7. — Requisiti di partecipazione
 
+1.
+                    
+                        
+                            Costituiscono requisiti di partecipazione al procedimento di ammissione al finanziamento del fondo: 
+ 
+                        
+                        
+                            a)
+                            
+                                il possesso dei requisiti soggettivi di cui all'articolo 2, comma 1; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                l'idoneita' dei poteri del legale rappresentante dell'associazione proponente il progetto a sottoscrivere gli atti relativi al procedimento di ammissione al finanziamento; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                l'assenza di altri finanziamenti pubblici del progetto, nazionali o europei, fatto salvo quanto previsto dall'articolo 3, comma 3; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                l'insussistenza, nei confronti del rappresentante legale e dei componenti degli organi di amministrazione dell'associazione, delle cause di divieto, sospensione o decadenza di cui all'articolo 67 del decreto legislativo 6 settembre 2011, n. 159; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                l'insussistenza di carichi pendenti ovvero di condanne penali a carico del rappresentante legale e dei componenti degli organi di amministrazione dell'associazione; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                la posizione di regolarita' dell'associazione in relazione agli obblighi relativi al pagamento dei contributi previdenziali e assistenziali a favore dei lavoratori; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                la posizione di regolarita' dell'associazione rispetto agli obblighi relativi al pagamento delle imposte, dirette ed indirette, e delle tasse.
+
 In caso di partenariato, i requisiti di cui al comma 1 devono essere posseduti da tutti i soggetti partner.
 
 ## Art. 8. — Avvio del procedimento
@@ -76,11 +189,124 @@ Annualmente, con provvedimento del direttore generale del terzo settore e della 
 
 Al provvedimento di cui al comma 1 e' data pubblicita' nelle forme previste dall'art. 32 della legge 18 giugno 2009, n. 69, mediante pubblicazione sul sito istituzionale www.lavoro.gov.it
 
+3.
+                    
+                        
+                            La domanda di finanziamento e' accompagnata dai seguenti documenti: 
+ 
+                        
+                        
+                            a)
+                            
+                                dichiarazioni sostitutive rese ai sensi degli articoli 46 e 47 del decreto del Presidente della Repubblica 28 dicembre 2000, n. 445, concernenti il possesso dei requisiti di partecipazione di cui all'articolo 7; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                scheda anagrafica dell'associazione proponente e degli eventuali partner; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                scheda descrittiva del progetto; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                piano finanziario; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                copia dello statuto vigente e dell'ultimo bilancio consuntivo approvato dai competenti organi statutari o, in alternativa, indicazione delle pagine del sito internet dell'associazione ove i medesimi documenti sono pubblicati; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                eventuali dichiarazioni di partecipazione al partenariato di cui all'articolo 3, comma 2; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                eventuali dichiarazioni di collaborazione di cui all'articolo 3, comma 3.
+
 Ogni associazione, in qualita' di proponente o capofila, puo' presentare al massimo una proposta progettuale, ferma restando la possibilita' di partecipare, in qualita' di partner, ad un'ulteriore proposta. Le associazioni che non risultano proponenti o capofila possono prendere parte, in qualita' di partner, ad un massimo di due proposte progettuali.
 
 ## Art. 9.
 
 Cause di inammissibilita'
+
+1.
+                    
+                        
+                            Sono escluse dalla fase di valutazione di cui all'articolo 10 le domande di finanziamento per le quali ricorrano una o piu' delle seguenti cause di inammissibilita': 
+ 
+                        
+                        
+                            a)
+                            
+                                mancanza di uno o piu' requisiti di partecipazione di cui all'articolo 7; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                redazione mediante modulistica diversa da quella citata all'articolo 8, comma 1; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                mancanza della firma del legale rappresentante; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                ricezione della domanda da parte dell'Amministrazione procedente oltre il termine fissato nel provvedimento di cui all'articolo 8, comma 1, ovvero senza il rispetto delle modalita' in esso indicate; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                mancanza di uno o piu' documenti fra quelli elencati all'articolo 8, comma 3; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                mancato rispetto dei limiti minimi e massimi di durata dei progetti previsti dall'articolo 5; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                mancato rispetto di uno o piu' dei limiti finanziari previsti dall'articolo 6, commi 2, 3, 4 e 5; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                superamento da parte del medesimo soggetto, in qualita' di proponente o partner, del numero massimo di progetti previsto dall'articolo 8, comma 4.
 
 L'esclusione e' comunicata al soggetto proponente entro trenta giorni decorrenti dalla ricezione, da parte dell'Amministrazione procedente, del verbale della commissione di cui al successivo articolo 10.
 
@@ -237,6 +463,24 @@ Il Ministero del lavoro e delle politiche sociali sottoscrive con le associazion
 
 ## Art. 12. — Erogazione del finanziamento
 
+1.
+                    
+                        
+                            Il finanziamento statale e' erogato in due distinte quote: 
+ 
+                        
+                        
+                            a)
+                            
+                                una prima quota, a titolo di anticipo, nella misura massima dell'80% del finanziamento concesso, a seguito della comunicazione di avvio delle attivita' progettuali e previa presentazione della fideiussione di cui all'articolo 13; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                una seconda quota, a titolo di saldo, nella misura massima del 20% del finanziamento concesso, a seguito dell'esito della verifica amministrativo-contabile di cui all'articolo 14.
+
 ## Art. 13. — Fideiussione
 
 I soggetti beneficiari del finanziamento di cui al presente decreto stipulano apposita fideiussione bancaria o assicurativa a garanzia dell'anticipo da percepire ai sensi dell'articolo 12, comma 1, lettera a), pari all'80% del finanziamento stesso. Detta fideiussione e' rilasciata da imprese bancarie o assicurative che rispondano ai requisiti di solvibilita' previsti dalle leggi che ne disciplinano le rispettive attivita' o da intermediari finanziari iscritti nell'albo di cui all'articolo 106 del decreto legislativo 1° settembre 1993, n. 385, che svolgono in via esclusiva o prevalente attivita' di rilascio di garanzie e che sono sottoposti a revisione contabile da parte di una societa' iscritta nell'albo previsto dall'articolo 161 del decreto legislativo 24 febbraio 1998, n. 58, e che abbiano i requisiti minimi di solvibilita' richiesti dalla vigente normativa bancaria o assicurativa.
@@ -251,4 +495,64 @@ Ai fini di cui al comma 1, le associazioni beneficiarie trasmettono relazioni se
 Detti giustificativi di spesa, regolarmente quietanzati, sono conservati in originale presso la sede dell'associazione beneficiaria, ai fini della successiva verifica amministrativo contabile.
 
 ## Art. 15. — Revoca del finanziamento
+
+1.
+                    
+                        
+                            Il Ministero del lavoro e delle politiche sociali puo' disporre la revoca del finanziamento qualora l'associazione beneficiaria o, in caso di partenariato, uno dei soggetti partner: 
+ 
+                        
+                        
+                            a)
+                            
+                                perda i requisiti soggettivi di legittimazione previsti dall'articolo 2; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                non sia in regola con gli obblighi assicurativi dei volontari impiegati nelle attivita' progettuali; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                interrompa o modifichi, senza la preventiva autorizzazione del Ministero del lavoro e delle politiche sociali, l'esecuzione del progetto finanziato; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                compia gravi inadempienze relativamente agli obblighi di relazione di cui all'articolo 14; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                compia gravi irregolarita' contabili, rilevate in sede di verifica amministrativo-contabile prevista dall'articolo 14, o emerse in sede di eventuali controlli in itinere; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                svolga le attivita' a favore di destinatari diversi da quelli indicati dall'articolo 2; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                receda senza giustificato motivo dalla convenzione di cui all'articolo 11; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                non rispetti le regole di pubblicita' disciplinate dalla convenzione di cui all'articolo 11.
 

@@ -8,8 +8,8 @@ codice_redazionale: 090G0253
 vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:22Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -31,6 +31,24 @@ Il profilo professionale di cui al comma 1 e' determinato come da allegato, che 
 
 Alla copertura dei posti di assistente sociale coordinatore si provvede mediante concorso pubblico per esami consistente in due prove scritte ed un colloquio.
 
+2.
+                    
+                        
+                            Per l'espletamento del concorso bandito per la prima volta ai fini dell'immissione in servizio del personale di cui al comma 1, le prove scritte sono costituite:
+ 
+                        
+                        
+                            a)
+                            
+                                da un elaborato su argomenti di cultura generale e di attualita', con particolare riferimento a problematiche di carattere sociale;
+
+                            
+                        
+                        
+                            b)
+                            
+                                da un elaborato su argomenti di tecniche di servizio sociale e di organizzazione dei servizi socio-sanitari.
+
 La prova orale verte sulle materie oggetto della prova scritta di cui alla lettera b) del comma 2 e sulle seguenti ulteriori materie: elementi di diritto pubblico e di legislazione in materia socio-sanitaria, tecniche di intervento nel settore delle tossicodipendenze,elementi di psicologia sociale, norme sullo stato giuridico dei dipendenti civili dello Stato e sull'ordinamento degli uffici e del personale del Ministero dell'interno.
 
 Per quanto non previsto espressamente dal presente articolo, per la disciplina del concorso pubblico si applicano le norme regolamentari relative al personale dell'Amministrazione civile dell'interno di cui all'articolo 13 e seguenti del decreto del Presidente della Repubblica 24 aprile 1982, n. 340.
@@ -44,6 +62,31 @@ Nei concorsi pubblici di accesso al profilo di esperto in problemi sociali della
 ## Art. 4.
 
 Per le esigenze connesse ai compiti attribuiti dall'articolo 15 della legge 26 giugno 1990, n. 162, il prefetto puo' avvalersi di personale volontario, anche in concorso con gli assistenti sociali coordinatori di cui all'articolo 1. Il personale volontario sara' utilizzato mediante apposite convenzioni conformi ad una convenzione tipo approvata dal Ministro dell'interno.
+
+2.
+                    
+                        
+                            Per l'espletamento del servizio da parte del personale volontario e' richiesto il possesso di uno dei requisiti sottoindicati:
+ 
+                        
+                        
+                            a)
+                            
+                                appartenenza ad enti, associazioni ed organismi, che gestiscono strutture per la riabilitazione ed il resinserimento sociale dei tossicodipendenti, iscritti negli albi di cui all'articolo 93 della legge 22 dicembre 1975, n. 685, come modificato dall'articolo 28 della legge 26 giugno 1990, n. 162, ovvero registrati dalle regioni e dalle province autonome ai sensi del comma 2 del citato articolo 28;
+
+                            
+                        
+                        
+                            b)
+                            
+                                appartenenza ad organizzazioni di volontariato o ad associazioni delle famiglie con comprovata competenza nel campo del recupero dei tossicodipendenti;
+
+                            
+                        
+                        
+                            c)
+                            
+                                essere in servizio o aver prestato servizio presso una pubblica amministrazione con mansioni attinenti all'assistenza e al recupero dei tossicodipendenti, con particolare riguardo agli assistenti sociali, agli psicologi, ai sociologi e al personale docente che abbia acquisito specifica esperienza ai sensi dell'articolo 86, comma 7, della legge 22 dicembre 1975, n. 685, come modificato dall'art. 26 della legge 26 giugno 1990, n. 162.
 
 Le modalita' per lo svolgimento del servizio da parte del personale volontario sono determinate con decreto del Ministro dell'interno, di concerto con i Ministri per gli affari sociali, e del tesoro, da adottarsi nel termine di novanta giorni dalla data di entrata in vigore del presente decreto.
 

@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Regolamenti governativi
 vigenza_date: 2005-04-02
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:10Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -37,6 +37,40 @@ Sulla proposta del Presidente del Consiglio dei Ministri e del Ministro per la f
 ((COMMA ABROGATO DAL D.L. 31 GENNAIO 2005, N. 7 CONVERTITO, CON MODIFICAZIONI DALLA L. 31 MARZO 2005, N. 43)).
 
 ((COMMA ABROGATO DAL D.L. 31 GENNAIO 2005, N. 7 CONVERTITO, CON MODIFICAZIONI DALLA L. 31 MARZO 2005, N. 43)).
+
+5.
+                    
+                        
+                            L'istituzione e la soppressione di universita' previste dal decreto di cui al comma 3, lettera e), sono disposte con appositi decreti del Ministro, che disciplinano le modalita' attuative ed i tempi, sulla base dei seguenti principi:
+ 
+                        
+                        
+                            a)
+                            
+                                nuove universita' o istituti di istruzione universitaria statali si costituiscono mediante:
+ 1) l'istituzione contestuale in una medesima sede di piu' facolta' e la determinazione delle procedure per la costituzione degli organi accademici;
+ 2) il trasferimento da altre universita' di strutture gia' esistenti, subentrando la nuova universita' in tutti i rapporti giuridici inerenti al funzionamento delle strutture trasferite;
+
+                            
+                        
+                        
+                            b)
+                            
+                                nel caso di istituzione di nuove facolta' di cui alla lettera a), punto 1), anche decentrate, le attribuzioni del consiglio di facolta' sono esercitate temporaneamente da un apposito comitato costituito da cinque professori di ruolo, tre di prima fascia e due di seconda. I predetti componenti il comitato sono eletti dai professori di ruolo appartenenti ai settori scientificodisciplinari afferenti alle predette facolta'. Le elezioni sono indette ed espletate dagli atenei. I membri del comitato durano in carica fino all'assegnazione alla facolta' di almeno cinque professori di ruolo, di cui tre di prima fascia e due di seconda e comunque non oltre tre anni. Decorso tale termine senza che si sia verificata la predetta assegnazione il comitato decade, i suoi membri non possono essere rieletti e si procede ad una nuova elezione. Non si fa luogo all'elezione del comitato qualora abbiano optato per la nuova facolta' almeno tre professori di prima fascia e due di seconda;
+
+                            
+                        
+                        
+                            c)
+                            
+                                l'istituzione di nuove universita' o istituti di istruzione universitaria non statali, legalmente riconosciuti, nonche' l'autorizzazione al rilascio di titoli aventi valore legale avviene contestualmente all'approvazione dello statuto e del regolamento didattico di ateneo, di cui all'articolo 11, comma 1, della legge 19 novembre 1990, n. 341. A tali universita' o istituti si applicano le disposizioni di cui alla legge 29 luglio 1991, n. 243;
+
+                            
+                        
+                        
+                            d)
+                            
+                                nel caso di soppressione di ateneo e' garantito agli studenti il completamento degli studi, al personale tecnicoamministrativo e al personale docente e ricercatore il mantenimento del posto, anche in altra sede universitaria.
 
 Nel caso di istituzione di nuove facolta', nella stessa o in altra sede di universita' esistenti, non finalizzate all'obiettivo di cui al comma 5, lettera a), i predetti atenei disciplinano la procedura per la costituzione dei relativi organi accademici e per l'avvio delle attivita'.
 

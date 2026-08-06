@@ -8,8 +8,8 @@ codice_redazionale: 096G0549
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:41Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -97,6 +97,52 @@ Il SECIN verifica l'attivita' amministrativa del Ministero del lavoro e della pr
  7. I risultati dell'attivita' del servizio sono riferiti trimestralmente al dirigente generale competente ed al Ministro".
 
 ## Art. 2. — Competenze ed esercizio del controllo
+
+1.
+                    
+                        
+                            Ai fini dell'assolvimento dei compiti di cui all'art. 1, il SECIN:
+ 
+                        
+                        
+                            a)
+                            
+                                accerta la rispondenza dei risultati dell'attivita' amministrativa alle prescrizioni ed agli obiettivi stabiliti nelle disposizioni normative e nelle direttive generali emanate dal Ministro del lavoro e della previdenza sociale, ai sensi dell'art. 14, comma 1, del decreto legislativo 3 febbraio 1993, n. 29, e successive modificazioni ed integrazioni. A tal fine i direttori generali trasmetteranno al SECIN gli atti relativi alla programmazione annuale di rispettiva competenza, evidenziando gli obiettivi di rendimento e di risultato della gestione finanziaria, tecnica ed amministrativa e quelli relativi alle decisioni organizzative e di gestione del personale; trasmetteranno, inoltre, le relazioni annuali al Ministro sull'attivita' svolta nell'anno precedente e le relazioni della Corte dei conti in sede di controllo sull'attivita' del Ministero;
+
+                            
+                        
+                        
+                            b)
+                            
+                                verifica, mediante valutazioni comparative dei costi e dei rendimenti, la corretta ed economica gestione delle risorse, anche in ordine alla erogazione dei trattamenti economici accessori attribuiti sulla base della normativa di settore e delle direttive del Ministro del lavoro e della previdenza sociale, nonche' la trasparenza e l'imparzialita' dell'attivita' amministrativa svolta;
+
+                            
+                        
+                        
+                            c)
+                            
+                                predispone, almeno annualmente, d'intesa, ove possibile, con i responsabili delle direzioni generali e delle altre unita' organizzative, i parametri di riferimento del controllo sull'attivita' amministrativa;
+
+                            
+                        
+                        
+                            d)
+                            
+                                compie annualmente rilevazioni sul numero complessivo dei procedimenti non conclusi entro i termini previsti dall'art. 2 della legge 7 agosto 1990, n. 241;
+
+                            
+                        
+                        
+                            e)
+                            
+                                fornisce alla Corte dei conti gli elementi da questa richiesti a norma dell'art. 3, comma 8, della legge 14 gennaio 1994, n. 20;
+
+                            
+                        
+                        
+                            f)
+                            
+                                cura ogni altro adempimento previsto da norme di legge o regolamento.
 
 Il SECIN ha facolta' di richiedere a tutti gli organi centrali e periferici del Ministero del lavoro e della previdenza sociale gli atti e le informazioni necessari allo svolgimento della propria attivita' e puo' effettuare e disporre ispezioni e accertamenti diretti.
 

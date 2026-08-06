@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
 vigenza_date: 2018-02-13
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:29Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -55,6 +55,24 @@ All'articolo 4 del decreto legislativo n. 242 del 1999 il comma 3 e' sostituito 
 All'articolo 5 del decreto legislativo n. 242 del 1999 il comma 1 e' sostituito dai seguenti:
  «1. Il Consiglio nazionale, nel rispetto delle deliberazioni e degli indirizzi emanati dal CIO, opera per la diffusione dell'idea olimpica e disciplina e coordina l'attivita' sportiva nazionale, armonizzando a tal fine l'azione delle federazioni sportive nazionali e delle discipline sportive nazionali.
  1-bis. Il Consiglio nazionale elegge il presidente e i componenti della Giunta nazionale di cui all'articolo 6.».
+
+7.
+                    
+                        
+                            Al comma 2 dell'articolo 5 del decreto legislativo n. 242 del 1999 sono apportate le seguenti modifiche:
+ 
+                        
+                        
+                            a)
+                            
+                                alla lettera b), dopo le parole: «federazioni sportive nazionali» sono aggiunte, in fine, le seguenti: «delle discipline sportive associate, degli enti di promozione sportiva e delle associazioni e societa' sportive»;
+
+                            
+                        
+                        
+                            b)
+                            
+                                alla lettera d), dopo le parole: «federazione sportiva nazionale» sono aggiunte le seguenti: «o della disciplina sportiva associata».
 
 All'articolo 5, comma 2, del decreto legislativo n. 242 del 1999 le lettere e) ed f) sono sostituite dalle seguenti:
  «e) stabilisce i criteri e le modalita' per l'esercizio dei controlli sulle federazioni sportive nazionali, sulle discipline sportive associate e sugli enti di promozione sportiva riconosciuti;

@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
 vigenza_date: 2010-02-28
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:29Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -25,6 +25,38 @@ Entrata in vigore del decreto: 26/1/1993
 ((Sulla proposta dei Ministri per il coordinamento delle politiche comunitarie e per gli affari regionali e dell'agricoltura e delle foreste,)) di concerto con i Ministri degli affari esteri, di grazia e giustizia e del tesoro;
 
 ## Art. 1.
+
+1.
+                    
+                        
+                            Il presente decreto disciplina: 
+ 
+                        
+                        
+                            a)
+                            
+                                l'istituzione, per gli animali, compresi nell'elenco di cui all'allegato II del Trattato istitutivo della Comunita' Economica Europea, ed appartenenti a specie e razze diverse da quelle regolamentate dalla legge 15 gennaio 1991, n. 30, del relativo libro genealogico, cosi' come definito nell'allegato al presente decreto; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                l'istituzione, per le specie e razze autoctone di cui alla lettera a), che presentino limitata diffusione, per le quali non siano istituiti i libri genealogici, del relativo registro anagrafico, cosi' come definito nell'allegato al presente decreto; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                la riproduzione dei detti animali secondo le norme stabilite, per ciascuna razza e specie, dai relativi disciplinari dei libri genealogici o registri anagrafici di cui al successivo art. 2; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                la commercializzazione degli stessi animali e dello sperma, degli ovuli e degli embrioni ad essi relativi, secondo le norme stabilite, per ciascuna razza e specie, dai relativi disciplinari dei libri genealogici o dei registri anagrafici, nonche' sulla base della apposita certificazione genealogica, di cui al successivo art. 5.
 
 ## Art. 2.
 

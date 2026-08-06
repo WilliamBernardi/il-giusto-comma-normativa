@@ -8,8 +8,8 @@ codice_redazionale: 005G0272
 vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:23Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -24,6 +24,24 @@ Acquisito il parere della Conferenza permanente per i rapporti tra lo Stato, le 
 Sulla proposta del Ministro per le politiche comunitarie e del Ministro della salute, di concerto con i Ministri delle attivita' produttive, delle politiche agricole e forestali, degli affari esteri, della giustizia e dell'economia e delle finanze;
 
 ## Art. 1. — Condizioni di utilizzabilita'
+
+1.
+                    
+                        
+                            In deroga all'articolo 3, comma 1, del decreto legislativo 14 febbraio 2003, n. 31, e' consentita la commercializzazione di prodotti contenenti le sostanze elencate nell'allegato al presente decreto, fino al 31 dicembre 2006, a condizione che:
+ 
+                        
+                        
+                            a)
+                            
+                                l'Autorita' europea per la sicurezza alimentare non abbia emesso parere sfavorevole circa l'uso della sostanza nella fabbricazione di prodotti alimentari destinati ad un'alimentazione particolare cui si applica il decreto legislativo 14 febbraio 2003, n. 31;
+
+                            
+                        
+                        
+                            b)
+                            
+                                la sostanza in questione sia utilizzata nella fabbricazione di uno o piu' prodotti alimentari destinati ad un'alimentazione particolare commercializzati nella comunita' alla data del 10 febbraio 2004.
 
 ## Art. 2. — Clausola di cedevolezza
 

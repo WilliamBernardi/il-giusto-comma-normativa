@@ -8,8 +8,8 @@ codice_redazionale: 011G0149
 vigente: true
 source: normattiva-opendata
 collection: DPR
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:48:11Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -57,6 +57,84 @@ Le risorse del fondo di cui al comma 1 eventualmente non utilizzate alla fine de
 
 ## Art. 5. — Retribuzione di posizione
 
+1.
+                    
+                        
+                            La retribuzione di posizione - parte fissa e' stabilita nei seguenti importi annui lordi per tredici mensilita': a decorrere dal 1° gennaio 2009: 
+ 
+                        
+                        
+                            a)
+                            
+                                posizioni funzionali della qualifica di prefetto: € 24.212,00; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                posizioni funzionali della qualifica di viceprefetto: € 13.792,00; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                posizioni funzionali della qualifica di viceprefetto aggiunto: € 7.226,00.
+
+2.
+                    
+                        
+                            A decorrere dal 1° gennaio 2009 la retribuzione di posizione, correlata alle posizioni funzionali individuate con il decreto del Ministro dell'interno in data 27 marzo 2006 e successive modifiche e integrazioni, e' rideterminata, nelle componenti parte fissa e parte variabile, nei seguenti importi annui lordi per tredici mensilita': 
+ 
+                        
+                        
+                            a)
+                            
+                                posizione funzionale di cui all'articolo 3, lettera a): € 37.083,00; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                posizione funzionale di cui all'articolo 3, lettera b): € 32.093,00; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                posizione funzionale di cui all'articolo 3, lettera c): € 25.886,00; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                posizione funzionale di cui all'articolo 3, lettera d): € 24.426,00; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                posizione funzionale di cui all'articolo 3, lettera e): € 19.916,00; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                posizione funzionale di cui all'articolo 3, lettera f): € 16.006,00; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                posizione funzionale di cui all'articolo 3, lettera g): € 11.870,00.
+
 Ai funzionari della carriera prefettizia, per il periodo intercorrente tra la data di conseguimento della qualifica superiore, e quella del conferimento dell'incarico connesso alla nuova qualifica, competono la retribuzione di posizione e la retribuzione di risultato nelle misure minime previste per la qualifica acquisita, salvo recupero delle maggiori somme corrisposte in caso di mancato superamento del corso.
 
 Ai funzionari prefettizi comandati o collocati fuori ruolo ai sensi dell'articolo 25, comma 1, del decreto legislativo 19 maggio 2000, n. 139, ai quali non vengano corrisposti emolumenti accessori a qualsiasi titolo, spetta la retribuzione di posizione nella misura corrispondente a quella di cui alle lettere b), e) e g) del comma 2 in relazione alla qualifica rivestita. Qualora i predetti emolumenti vengano corrisposti in misura inferiore agli importi relativi alle predette lettere a titolo di retribuzione di posizione, il Ministero dell'interno eroga la differenza, a valere sulle risorse del fondo.
@@ -79,6 +157,31 @@ Al funzionario prefettizio, per l'espletamento degli incarichi individuati dal d
 
 ## Art. 6. — Retribuzione di risultato
 
+1.
+                    
+                        
+                            Il Ministro dell'interno, con proprio decreto, all'inizio di ogni anno determina gli importi spettanti come retribuzione di risultato, da erogare mensilmente per tredici mensilita' ai funzionari prefettizi, ivi compresi quelli in servizio presso il Commissariato dello Stato della regione Siciliana, il Rappresentante dello Stato nella regione Sardegna, la Commissione di coordinamento della Valle d'Aosta ed il Commissariato del Governo per la regione Friuli-Venezia Giulia, tenendo conto delle risorse disponibili e degli obiettivi raggiunti nell'anno precedente, in relazione alle diverse qualifiche, per entrambi gli anni 2008 e 2009, nel rispetto dei seguenti parametri: 
+ 
+                        
+                        
+                            a)
+                            
+                                per i prefetti: fino a un massimo di 100; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                per i viceprefetti: fino a un massimo di 75; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                per i viceprefetti aggiunti: fino a un massimo di 50.
+
 La misura della retribuzione di risultato verra' definita in sede di accordi decentrati a livello centrale, tenuto conto del sistema di valutazione di cui all'articolo 21 del decreto legislativo 19 maggio 2000, n. 139 e, in caso di modifica del decreto del Ministro dell'interno in data 27 marzo 2006 e successive modifiche ed integrazioni entro valori annui lordi per tredici mensilita' ricompresi negli importi minimo e massimo indicati nel decreto di cui al comma 1 del presente articolo, nell'ambito delle disponibilita' del fondo e senza oneri aggiuntivi.
 
 ## Art. 7. — Trattamento economico dei consiglieri
@@ -97,6 +200,24 @@ Agli effetti dell'indennita' di fine rapporto, nonche' di quella prevista dall'a
 Al personale di cui all'articolo 1 continuano ad applicarsi, ove non in contrasto con il presente decreto, le norme stabilite dai precedenti decreti di recepimento degli accordi.
 
 ## Art. 10. — Copertura finanziaria
+
+1.
+                    
+                        
+                            All'onere derivante dall'attuazione del presente decreto, pari ad euro 16.443.742 per l'anno 2011 ed euro 5.253.545 a decorrere dall'anno 2012, si provvede: 
+ 
+                        
+                        
+                            a)
+                            
+                                per l'anno 2011, quanto ad euro 8.488.818, a valere sulle disponibilita' in conto residui, all'uopo conservate, sul capitolo 3027 "Fondo da ripartire per l'attuazione dei contratti del personale delle Amministrazioni statali anche ad ordinamento autonomo, ivi compreso il personale militare e quello dei Corpi di polizia"; quanto ad euro 3.710.515 a valere sulle risorse iscritte sullo stato di previsione della spesa del Ministero dell'Interno relative all'autorizzazione di spesa prevista dall'articolo 3, comma 144, della legge 24 dicembre 2007, n. 244; quanto ad euro 4.244.409 mediante riduzione dell'autorizzazione di spesa prevista dall'articolo 2, comma 28, della legge 22 dicembre 2008 n. 203; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                a decorrere dall'anno 2012, quanto ad euro 1.009.136 mediante riduzione dell'autorizzazione di spesa prevista dall'articolo 3, comma 144, della legge 24 dicembre 2007, n. 244, quanto ad euro 4.244.409 mediante riduzione dell'autorizzazione di spesa prevista dall'articolo 2, comma 28, della legge 22 dicembre 2008 n. 203.
 
 Il Ministro dell'economia e delle finanze e' autorizzato ad apportare, con propri decreti, le occorrenti variazioni di bilancio.
 

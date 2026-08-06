@@ -8,8 +8,8 @@ codice_redazionale: 091G0347
 vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:23Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -26,6 +26,101 @@ Il presente decreto si applica ai carrelli semoventi per movimentazione con port
  3. Le definizioni dei carrelli semoventi per movimentazione e dei trattori, le loro classificazioni ed i requisiti tecnici che debbono possedere sono riportati nell'allegato I.
 
 ## Art. 2. — Esclusioni
+
+1.
+                    
+                        
+                            Il presente decreto non si applica:
+ 
+                        
+                        
+                            a)
+                            
+                                agli apparecchi a benna detti dumper o motocarriole, utilizzati nei cantieri edili e di lavori pubblici;
+
+                            
+                        
+                        
+                            b)
+                            
+                                ai trattori diversi da quelli di cui all'allegato I, punto 1.2, autocarri con o senza rimorchio, trattori agricoli e forestali, macchine per cantiere e carrelli utilizzati in miniera;
+
+                            
+                        
+                        
+                            c)
+                            
+                                ai furgoni per la consegna del latte ed altri veicoli analoghi;
+
+                            
+                        
+                        
+                            d)
+                            
+                                agli apparecchi elevatori accastatori che possono spostarsi soltanto entro guide, detti "traslatori per stoccaggio";
+
+                            
+                        
+                        
+                            e)
+                            
+                                ai carrelli con posto di guida sollevabile con portata nominale superiore a 5.000 kg;
+
+                            
+                        
+                        
+                            f)
+                            
+                                ai carrelli appositamente progettati per circolare con il carico in posizione elevata di portata superiore a 5.000 kg;
+
+                            
+                        
+                        
+                            g)
+                            
+                                ai carrelli a portale;
+
+                            
+                        
+                        
+                            h)
+                            
+                                ai trattori e carrelli comandati a distanza, senza operatore a bordo;
+
+                            
+                        
+                        
+                            i)
+                            
+                                alle attrezzature utilizzate per la manutenzione in posizione di sollevamento;
+
+                            
+                        
+                        
+                            l)
+                            
+                                ai carrelli azionati da fonti esterne di energia elettrica;
+
+                            
+                        
+                        
+                            m)
+                            
+                                alle gru mobili;
+
+                            
+                        
+                        
+                            n)
+                            
+                                alle piattaforme elevatrici mobili;
+
+                            
+                        
+                        
+                            o)
+                            
+                                ai carrelli a braccia telescopiche.
 
 ## Art. 3. — Certificato di conformita'
 

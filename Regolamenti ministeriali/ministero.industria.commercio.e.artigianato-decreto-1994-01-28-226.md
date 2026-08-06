@@ -8,8 +8,8 @@ codice_redazionale: 094G0257
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:38Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -43,6 +43,66 @@ Gli organismi gia' autorizzati ai sensi del decreto del Ministro per il coordina
 
 L'istanza relativa alla richiesta di autorizzazione di cui all'art. 1 deve essere indirizzata in bollo al Ministero dell'industria, del commercio e dell'artigianato - D.G.P.I.
 Ispettorato tecnico dell'industria - Via Molise, 19 - Roma.
+
+2.
+                    
+                        
+                            Alla domanda, redatta secondo le indicazioni prescritte e firmata dal legale rappresentante dell'organismo o del laboratorio di prova, dovranno essere allegati, in originale bollato e in duplice copia i seguenti documenti:
+ 
+                        
+                        
+                            a)
+                            
+                                certificato di iscrizione alla camera di commercio industria, artigianato e agricoltura per i soggetti di diritto privato;
+
+                            
+                        
+                        
+                            b)
+                            
+                                atto costitutivo o statuto, con autentica notarile, ovvero estremi dell'atto normativo per i soggetti di diritto pubblico dal quale risulti la specifica attivita' di certificazione per i prodotti di cui al decreto legislativo 27 gennaio 1992, n. 137;
+
+                            
+                        
+                        
+                            c)
+                            
+                                elenco dei macchinari e attrezzature in dotazione, corredato di caratteristiche tecniche ed operative;
+
+                            
+                        
+                        
+                            d)
+                            
+                                elenco del personale con relative qualifiche, titoli di studio, mansioni;
+
+                            
+                        
+                        
+                            e)
+                            
+                                dichiarazione impegnativa in ordine al puntuale soddisfacimento dei "requisiti minimi" di cui all'allegato 1 al presente decreto;
+
+                            
+                        
+                        
+                            f)
+                            
+                                polizza di assicurazione di responsabilita' civile con massimale non inferiore a lire due miliardi correlati ai rischi derivanti dalla specifica attivita' certificativa;
+
+                            
+                        
+                        
+                            g)
+                            
+                                manuale di qualita';
+
+                            
+                        
+                        
+                            h)
+                            
+                                planimetria degli uffici e dei laboratori.
 
 Il ricorso a strutture diverse da quelle del richiedente, limitato ad esami o prove particolari, dovra' essere documentato mediante copia di apposita convenzione stipulata nelle forme di legge nonche' mediante la produzione dei documenti di cui alle precedenti lettere a), b), c), d), e) del laboratorio convenzionato.
 

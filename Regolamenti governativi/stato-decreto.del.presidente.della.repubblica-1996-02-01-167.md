@@ -8,8 +8,8 @@ codice_redazionale: 096G0147
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti governativi
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:16Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -28,6 +28,31 @@ Sulla proposta del Ministro dell'universita' e della ricerca scientifica e tecno
 ## - Titolo I MODALITA' DI ELEZIONE E DI DESIGNAZIONE DEI COMPONENTI DEL CUN
 
 ## Art. 1. — Rappresentanza del personale docente e ricercatore
+
+1.
+                        
+                            
+                                Nel Consiglio universitario nazionale, i seggi di cui alla lettera a) dell'art. 10, comma 4, della legge 19 novembre 1990, n. 341, sono cosi' assegnati:
+ 
+                            
+                            
+                                a)
+                                
+                                    quattordici ai professori ordinari;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    dieci ai professori associati;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    sei ai ricercatori.
 
 Ai fini del presente regolamento, nella denominazione di professori ordinari si intendono compresi gli straordinari e in quella di ricercatori si intendono compresi gli assistenti del ruolo ad esaurimento.
 
@@ -91,6 +116,120 @@ Prima delle operazioni di voto, sull'esterno di ciascuna scheda sono apposti il 
 Nella data e nell'orario stabiliti per le votazioni l'elettore, dopo aver dimostrato la propria identita' e aver apposto la propria firma sull'elenco dei votanti a fianco del proprio nominativo, riceve dal presidente del seggio la scheda di votazione e si ritira nella cabina per apporvi il proprio voto. Chiusa la scheda, il votante la riconsegna al presidente, il quale la introduce nell'urna.
 
 Il voto e' individuale e segreto. L'elettore esprime il suo voto scrivendo sul lato interno della scheda il nome e il cognome del candidato prescelto, o anche il solo cognome se questo e' sufficiente per identificare il candidato. Sono nulle le schede che recano piu' di un nominativo o il nominativo di un soggetto non candidato, nonche' quelle che non permettono di interpretare la volonta' dell'elettore e quelle su cui e' stato apposto un segno di riconoscimento o un qualsivoglia altro segno diverso da quelli prescritti.
+
+3.
+                        
+                            
+                                All'ora stabilita per la chiusura delle votazioni, ed esaurite le operazioni di voto degli elettori che in quel momento sono presenti nel locale del seggio, il presidente dichiara chiuse le votazioni e l'ufficio procede, nell'ordine, alle seguenti operazioni, alle quali possono assistere gli elettori iscritti presso il seggio:
+ 
+                            
+                            
+                                a)
+                                
+                                    le schede rimaste inutilizzate vengono contate e racchiuse nel plico o contenitore sigillato che viene immediatamente rimesso alla commissione elettorale locale;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    si verifica, sugli elenchi, il numero degli elettori che hanno votato che deve corrispondere al numero delle schede che risultano impiegate per la votazione;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    si procede allo scrutinio delle schede votate; nei seggi presso cui hanno votato elettori appartenenti a diversi collegi elettorali, allo scrutinio si procede distintamente per collegio e le urne attualmente non interessate dallo scrutinio vengono sigillate;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    se il numero delle schede da scrutinare impedisce di concludere le operazioni il giorno stesso, l'ufficio puo' sospendere i propri lavori per riprenderli al mattino del giorno successivo; mentre le operazioni sono sospese, il locale del seggio resta chiuso per impedire l'accesso agli estranei, le schede da scrutinare sono conservate nelle urne sigillate, e quelle scrutinate sono chiuse provvisoriamente in uno o piu' plichi sigillati, come pure i verbali, i tabulati redatti dagli scrutatori con il conteggio e le altre scritturazioni;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    nelle sedi universitarie con presumibile scarsa affluenza di elettori, individuate con l'ordinanza di cui all'art. 4, le schede votate per l'elezione dei rappresentanti di cui all'art. 1, sono raggruppate per singoli collegi e racchiuse in un unico plico, che viene sigillato. Tale plico e' recapitato, entro 24 ore dalla chiusura del seggio, agli uffici amministrativi di altra universita' indicata nella stessa ordinanza, per far svolgere lo scrutinio delle schede contenute nello stesso plico, dopo confusione, unitamente alle schede di un singolo seggio di tale sede universitaria.
+
+4.
+                        
+                            
+                                Al termine dello spoglio, ovvero, in caso di pluralita' di collegi elettorali, al termine dello spoglio delle schede di ogni singolo collegio, l'ufficio elettorale di seggio procede alle seguenti operazioni, alle quali possono assistere gli elettori:
+ 
+                            
+                            
+                                a)
+                                
+                                    il numero delle schede estratte dall'urna e scrutinate deve corrispondere a quello delle schede che risultano impiegate per la votazione; in caso contrario la circostanza e' messa a verbale;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il presidente proclama il numero dei voti riportati dai singoli candidati, nonche' il numero delle schede bianche, di quelle dichiarate nulle e di quelle provvisoriamente non assegnate perche' contestate;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    vengono formati e sigillati i plichi contenenti rispettivamente:
+ 1. le schede validamente votate;
+ 2. le schede bianche;
+ 3. le schede dichiarate nulle;
+ 4. le schede provvisoriamente non assegnate perche' contestate;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    viene formato e sigillato un plico contenente i plichi di cui alla lettera c), nonche' i tabulati redatti dagli scrutatori con il conteggio dei voti e gli elenchi degli elettori pertinenti al singolo collegio elettorale.
+
+5.
+                        
+                            
+                                Esaurite le operazioni di cui al comma 4 per tutti i collegi elettorali facenti capo al seggio, viene redatto il verbale, sottoscritto dal presidente e dal segretario e da tutti gli scrutatori presenti alla redazione, nel quale sono indicati:
+ 
+                            
+                            
+                                a)
+                                
+                                    i nomi dei componenti l'ufficio di seggio, il luogo nel quale il seggio ha avuto sede, la data e l'ora di apertura e rispettivamente di chiusura, nonche', dandosene il caso, di sospensione e di riapertura, delle votazioni e delle successive operazioni;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il numero degli elettori iscritti e di quelli che si sono presentati per il voto, distintamente per ogni collegio elettorale;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il numero delle schede messe a disposizione del seggio, di quelle votate e di quelle non utilizzate, distintamente per ogni collegio elettorale;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    il numero dei voti validi riportati da ciascun candidato, il numero delle schede bianche, di quelle dichiarate nulle e di quelle provvisoriamente non assegnate perche' contestate, distintamente per ogni collegio elettorale;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    gli incidenti verificatisi nel corso delle operazioni, nonche' le contestazioni e i rilievi che singoli componenti dell'ufficio di seggio o singoli elettori chiedono di far constare a verbale.
 
 Se al seggio appartengono elettori di un solo collegio elettorale, il verbale di cui al comma 5 e' inserito nello stesso plico di cui al comma 4, lettera d). Se al seggio appartengono elettori di piu' collegi elettorali, i plichi di cui al comma 4, lettera d), formati e sigillati distintamente per ciascun collegio, sono riuniti in un plico maggiore, a sua volta sigillato, nel quale viene racchiuso anche il verbale. Il tutto viene quindi rimesso alla commissione elettorale locale.
 
@@ -190,6 +329,31 @@ Ogni componente del Consiglio puo' chiedere la parola anche per fatto personale;
 
 ## Art. 21. — Ordine delle votazioni
 
+1.
+                        
+                            
+                                Sono poste in votazione, con precedenza su qualsiasi votazione concernente il merito degli argomenti in discussione, nell'ordine:
+ 
+                            
+                            
+                                a)
+                                
+                                    le proposte motivate di rinvio o di sospensione;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le questioni pregiudiziali;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    le proposte di acquisizioni istruttorie o di supplemento di istruttoria.
+
 La votazione sugli emendamenti precede la votazione sul complesso della proposta a cui essi si riferiscono.
 
 ## Art. 22. — Modalita' delle votazioni
@@ -263,6 +427,31 @@ Il presidente, in caso di impedimento o di assenza, e' sostituito dal professore
  della corte di disciplina
 
 La corte di disciplina e' convocata dal presidente. La convocazione reca l'ordine del giorno con l'indicazione dei provvedimenti disciplinari che devono essere trattati. E' inviata almeno dieci giorni prima della data fissata per la seduta.
+
+2.
+                        
+                            
+                                Le sedute della corte di disciplina sono valide quando siano presenti:
+ 
+                            
+                            
+                                a)
+                                
+                                    nel caso di procedimenti a carico di professore ordinario, due professori ordinari ed il presidente;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    nel caso di procedimenti a carico di professore associato, due professori ordinari, due professori associati ed il presidente;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    nel caso di procedimenti a carico di ricercatore, due professori ordinari, due professori associati, due ricercatori ed il presidente.
 
 Nel caso di concorso nella stessa infrazione di appartenenti a categorie diverse, la corte giudica con la partecipazione dei membri la cui presenza e' richiesta per il giudizio relativo a ciascuna delle categorie interessate.
 

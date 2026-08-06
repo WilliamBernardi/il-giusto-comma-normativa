@@ -8,8 +8,8 @@ vigente: true
 source: normattiva-opendata
 collection: Leggi delega e relativi provvedimenti delegati
 vigenza_date: 2016-02-27
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:41:18Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -46,6 +46,31 @@ Il presidente della commissione, in caso di assenza o di impedimento, e' sostitu
 Le sezioni delle commissioni censuarie locali sono composte da sei componenti effettivi e sei componenti supplenti, salvo quanto previsto dal comma 4.
 
 A ciascuna sezione e' assegnato un presidente scelto tra i suoi componenti effettivi dal presidente della commissione censuaria locale.
+
+3.
+                    
+                        
+                            I componenti di ciascuna sezione sono scelti dal presidente del tribunale tra un numero almeno doppio di soggetti, designati nel rispetto della seguente composizione: 
+ 
+                        
+                        
+                            a)
+                            
+                                due effettivi e due supplenti, fra quelli designati dall'ufficio dell'Agenzia delle entrate territorialmente competente tra i dipendenti di ruolo della stessa Agenzia; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                uno effettivo ed uno supplente, fra quelli designati dall'Associazione nazionale dei comuni italiani (ANCI), nel rispetto dei criteri fissati con decreto del Ministro dell'economia e delle finanze d'intesa con la Conferenza Stato-citta' ed autonomie locali garantendo il coinvolgimento del Consorzio dei Comuni della provincia autonoma di Bolzano; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                tre effettivi e tre supplenti, fra quelli designati dal Prefetto, di cui due effettivi e due supplenti su indicazione degli Ordini e Collegi professionali ed uno effettivo e un supplente su indicazione delle associazioni di categoria operanti nel settore immobiliare, tra gli ingegneri, gli architetti, i geometri, i periti edili, i dottori agronomi, i periti agrari e gli agrotecnici iscritti nei relativi albi, i docenti qualificati in materia di economia e di estimo urbano e in materia di economia ed estimo rurale e tra gli esperti in materia di statistica e di econometria.
 
 Le sezioni della commissione censuaria locale di Trento e di quella di Bolzano sono integrate con un componente effettivo e un componente supplente scelto fra quelli designati dalle rispettive Province autonome nell'ambito dei propri dipendenti di ruolo.
 
@@ -84,7 +109,89 @@ Ciascuna sezione della commissione censuaria centrale e' composta da undici comp
 
 Il presidente della commissione attribuisce ad un componente effettivo le funzioni di presidente di sezione.
 
+3.
+                    
+                        
+                            Fanno parte di tutte le sezioni, come membri di diritto: 
+ 
+                        
+                        
+                            a)
+                            
+                                il Direttore dell'Agenzia delle entrate o, in caso di sua assenza o impedimento, il Vicedirettore-Territorio; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                il Direttore centrale della Direzione centrale Catasto e cartografia; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                il Direttore centrale della Direzione centrale osservatorio del mercato immobiliare e servizi estimativi; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                il Direttore centrale della Direzione centrale pubblicita' immobiliare e affari legali.
+
 Fermo restando quanto previsto dalla lettera a) del comma 3, per la partecipazione alle sedute della commissione i membri di diritto possono delegare un dipendente dell'Agenzia delle entrate con funzioni dirigenziali.
+
+5.
+                    
+                        
+                            Fanno parte di ciascuna sezione: 
+ 
+                        
+                        
+                            a)
+                            
+                                un ingegnere con funzioni dirigenziali appartenente al ruolo dall'Agenzia delle entrate e il relativo supplente, da questa designati; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                un magistrato ordinario ed un magistrato amministrativo e i relativi supplenti, designati dai rispettivi organi di autogoverno; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                due componenti e i relativi supplenti designati dall'ANCI nel rispetto dei criteri fissati con il decreto di cui all'articolo 3, comma 3, lettera b).
+
+6.
+                    
+                        
+                            Fanno parte inoltre: 
+ 
+                        
+                        
+                            a)
+                            
+                                della sezione competente in materia di catasto terreni, un docente universitario in materia di economia ed estimo rurale, designato dal Ministero dell'istruzione, dell'universita' e della ricerca ed un esperto qualificato, designato dal Ministero dell'economia e delle finanze su indicazione delle associazioni di categoria operanti nel settore immobiliare tra i professionisti o tecnici iscritti in albi o collegi professionali o tra gli esperti di economia e estimo rurale, e i relativi supplenti; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                della sezione competente in materia di catasto urbano, un docente universitario in materia di economia ed estimo urbano, designato dal Ministero dell'istruzione, dell'universita' e della ricerca ed un esperto qualificato, designato dal Ministero dell'economia e delle finanze su indicazione delle associazioni di categoria operanti nel settore immobiliare tra i professionisti o tecnici iscritti in albi o collegi professionali o tra gli esperti di economia e estimo urbano, e i relativi supplenti; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                della sezione specializzata in materia di riforma del sistema estimativo del catasto dei fabbricati, un docente universitario in materia di statistica e di econometria designato dal Ministero dell'istruzione, dell'universita' e della ricerca ed un esperto qualificato, designato dal Ministero dell'economia e delle finanze su indicazione delle associazioni di categoria operanti nel settore immobiliare tra i professionisti o tecnici iscritti in albi o collegi professionali o tra gli esperti di statistica ed econometria, e i relativi supplenti.
 
 ## Art. 8.
 
@@ -105,15 +212,139 @@ Le funzioni di segreteria e di supporto tecnico alla commissione censuaria centr
 ## Art. 10. — Requisiti per la nomina a componente 
  delle commissioni censuarie
 
+1.
+                    
+                        
+                            I componenti delle commissioni censuarie devono possedere i seguenti requisiti: 
+ 
+                        
+                        
+                            a)
+                            
+                                essere cittadini italiani; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                avere l'esercizio dei diritti civili e politici; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                non aver riportato condanne per delitti non colposi o per contravvenzioni punite con pena detentiva o per reati tributari e non essere stati sottoposti a misure di prevenzione o di sicurezza; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                non aver superato al momento della nomina 70 anni di eta'.
+
 ## Art. 11.
 
 Incompatibilita'
+
+1.
+                    
+                        
+                            Non possono essere componenti delle commissioni censuarie, finche' permangono in attivita' di servizio o nell'esercizio delle rispettive funzioni o attivita' professionali: 
+ 
+                        
+                        
+                            a)
+                            
+                                i membri del Parlamento nazionale e del Parlamento europeo; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                i consiglieri regionali, provinciali, comunali e circoscrizionali e i componenti del Governo e delle giunte regionali e comunali; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                coloro che ricoprono incarichi direttivi o esecutivi nei partiti o movimenti politici; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                i prefetti; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                gli appartenenti al Corpo della Guardia di finanza; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                gli appartenenti alle Forze armate ed i funzionari civili dei Corpi di polizia; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                coloro che esercitano abitualmente l'assistenza o la rappresentanza di contribuenti nei rapporti con l'Amministrazione finanziaria o con i Comuni nell'ambito di controversie di natura tributaria o tecnico estimativa.
 
 Il componente di una commissione censuaria non puo' far parte di altre commissioni censuarie.
 
 Non possono essere contemporaneamente componenti della stessa sezione i coniugi, i parenti e gli affini entro il secondo grado.
 
 ## Art. 12. — Decadenza dall'incarico
+
+1.
+                    
+                        
+                            Decadono dall'incarico i componenti delle commissioni censuarie i quali: 
+ 
+                        
+                        
+                            a)
+                            
+                                perdono uno dei requisiti di cui all'articolo 10, lettere a),
+                            
+                        
+                        
+                            b)
+                            
+                                e c); 
+ b) incorrono in uno dei motivi di incompatibilita' previsti dall'articolo 11; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                omettono, senza giustificato motivo, di assumere l'incarico entro trenta giorni dalla comunicazione del decreto di nomina; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                non partecipano, senza giustificato motivo, a tre sedute consecutive, ovvero, se presidenti, omettono ripetutamente di convocare la commissione per l'esercizio delle funzioni di cui agli articoli 14 e 15, ostacolandone il regolare funzionamento; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                perdono l'idoneita' fisica o psichica all'incarico.
 
 La decadenza e' dichiarata con decreto del Ministro dell'economia e delle finanze, su proposta del Direttore dell'Agenzia delle entrate, per i componenti della commissione censuaria centrale, e dal presidente del tribunale, su proposta del Direttore regionale dell'Agenzia delle entrate, per i componenti delle commissioni censuarie locali.
 
@@ -127,9 +358,64 @@ In caso di decadenza o cessazione dall'incarico per qualsiasi motivo, si provved
 
 ## Art. 14. — Attribuzioni delle commissioni censuarie locali
 
+1.
+                    
+                        
+                            Le commissioni censuarie locali esercitano, in materia di catasto terreni, le seguenti funzioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                esaminano ed approvano, entro il termine di trenta giorni dalla data di ricezione, i quadri delle qualita' e classi dei terreni e i prospetti delle tariffe dei comuni della propria circoscrizione; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                concorrono alle operazioni di revisione e di conservazione del catasto terreni, nei limiti e modi stabiliti dalle disposizioni di legge e di regolamento per l'esecuzione delle predette operazioni.
+Nel solo caso di revisione generale degli estimi tale approvazione resta condizionata, ai fini di perequazione, alla ratifica da parte della Commissione censuaria centrale.
+
+2.
+                    
+                        
+                            Le commissioni censuarie locali continuano ad esercitare, in materia di catasto edilizio urbano, le seguenti funzioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                esaminano e approvano, entro il termine di trenta giorni dalla data di ricezione, i prospetti integrativi dei quadri tariffari per le unita' immobiliari urbane dei comuni della propria circoscrizione; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                concorrono alle operazioni di revisione e di conservazione del catasto edilizio urbano, nei limiti e modi stabiliti dalle disposizioni di legge e di regolamento per l'esecuzione delle anzidette operazioni.
+
 Le commissioni censuarie locali, nell'ambito della revisione del sistema estimativo del catasto dei fabbricati, provvedono, entro il termine di sessanta giorni dalla data di ricezione, in ordine alla validazione delle funzioni statistiche di cui all'articolo 2, comma 1, lettera h), n. 1.2), e lettera i), n. 1), della legge 11 marzo 2014, n. 23, determinate dall'Agenzia delle entrate, e dei relativi ambiti di applicazione.
 
 ## Art. 15. — Attribuzioni della commissione censuaria centrale
+
+1.
+                    
+                        
+                            In materia di catasto terreni, la commissione censuaria centrale esercita le seguenti funzioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                decide, entro novanta giorni dalla loro ricezione, sui ricorsi dell'Agenzia delle entrate, dei Comuni direttamente interessati e delle associazioni di categoria maggiormente rappresentative operanti nel settore immobiliare, individuate con apposito decreto del Ministero dell'economia e delle finanze, contro le decisioni delle commissioni censuarie locali in merito ai prospetti delle qualita' e classi dei terreni ed ai rispettivi prospetti delle tariffe d'estimo di singoli comuni; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                nel caso di revisione generale delle tariffe d'estimo, al fine di assicurare la perequazione degli estimi nell'ambito dell'intero territorio nazionale, provvede alla ratifica ovvero alle variazioni delle tariffe relative alle qualita' e classi dei terreni, entro il termine di novanta giorni dalla ricezione dei prospetti delle tariffe stesse da parte degli uffici competenti. Se nel termine previsto dalla lettera a) del comma 1 dell'articolo 14, le commissioni provinciali o quelle locali non si siano pronunciate, provvede in sostituzione.
 
 In materia di catasto edilizio urbano, la commissione censuaria centrale decide, entro novanta giorni dalla loro ricezione, sui ricorsi dell'Agenzia delle entrate, dei Comuni direttamente interessati e delle associazioni di categoria maggiormente rappresentative operanti nel settore immobiliare, individuate con apposito decreto del Ministero dell'economia e delle finanze, contro le decisioni delle commissioni censuarie provinciali o di quelle locali in merito al quadro delle categorie e delle classi delle unita' immobiliari urbane ed ai rispettivi prospetti delle tariffe d'estimo di singoli comuni.
 
@@ -138,6 +424,31 @@ Ove la commissione censuaria locale non abbia validato le funzioni statistiche d
 La commissione censuaria centrale a sezioni unite provvede in ordine alla validazione dei saggi di redditivita' media determinati dall'Agenzia delle entrate.
 
 La commissione censuaria centrale provvede in sostituzione delle commissioni censuarie locali che non adottino, nei termini previsti dall'articolo 14, le decisioni di loro competenza. Entro novanta giorni dalla scadenza dei termini entro i quali le commissioni censuarie locali devono provvedere ai sensi dell'articolo 14, l'Agenzia delle entrate puo' trasmettere gli atti al presidente della commissione censuaria centrale con richiesta di provvedere in sostituzione. La commissione censuaria centrale provvede entro i successivi novanta giorni.
+
+6.
+                    
+                        
+                            Entro novanta giorni dalla ricezione della richiesta, la commissione censuaria centrale da' parere: 
+ 
+                        
+                        
+                            a)
+                            
+                                su richiesta dell'amministrazione finanziaria in ordine alle operazioni catastali per le quali il parere e' previsto come obbligatorio; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                a richiesta degli organi istituzionali competenti, in merito alla utilizzazione degli elementi catastali disposta da norme legislative e regolamentari che disciplinano materie anche diverse dalle funzioni istituzionali del catasto; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                a richiesta dell'amministrazione finanziaria sopra ogni questione concernente la formazione, la revisione e la conservazione del catasto dei terreni e del catasto edilizio urbano e l'utilizzazione dei relativi dati ai fini tributari.
 
 ## Art. 16. — Poteri delle commissioni censuarie
 

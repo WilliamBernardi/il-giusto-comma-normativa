@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Leggi delega e relativi provvedimenti delegati
 vigenza_date: 2022-12-28
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:41:16Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -72,11 +72,68 @@ L'organizzazione strumentale della banda musicale, la ripartizione e la suddivis
 
 ## Art. 5. — O r g a n i c o
 
+1.
+                        
+                            
+                                La dotazione organica della banda musicale della Guardia di finanza e' cosi' determinata: 
+ 
+                            
+                            
+                                a)
+                                
+                                    un maestro direttore; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    un maestro vice direttore; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    centodue esecutori; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    un archivista.
+
 Le suddette dotazioni sono comprese nell'organico complessivo della Guardia di finanza.
 
 Alla banda musicale non puo' essere assegnato, nemmeno in qualita' di orchestrali aggregati o di allievi orchestrali, personale in eccedenza all'organico stabilito al comma 1.
 
 ## Art. 6. — R u o l i
+
+1.
+                        
+                            
+                                I ruoli degli appartenenti alla banda musicale della Guardia di finanza sono i seguenti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    ruolo del maestro direttore...................... 1 posto 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    ruolo del maestro vice direttore................. 1 posto 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    ruolo degli esecutori (compreso l'archivista) ... 103 posti
 
 ## Art. 7. — Ruolo del maestro direttore
 
@@ -129,6 +186,31 @@ AGGIORNAMENTO (4)
 
 ## Art. 11. — Nomina a maestro direttore
 
+1.
+                        
+                            
+                                La nomina a maestro direttore della banda musicale della Guardia di finanza si consegue mediante pubblico concorso, per titoli ed esami, al quale possono partecipare i cittadini italiani in possesso dei seguenti requisiti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    alla data di scadenza del termine per la presentazione delle domande, abbiano compiuto il venticinquesimo anno di eta' e non abbiano superato il quarantesimo. Per i concorrenti che siano componenti della banda della Guardia di finanza, si prescinde dai predetti limiti di eta'; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    siano muniti di diploma in composizione e strumentazione per banda conseguiti in un conservatorio statale o altro analogo istituto legalmente riconosciuto; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    siano in possesso di tutti gli altri requisiti richiesti per la nomina ad ufficiale in servizio permanente nella Guardia di finanza, prescindendo, pero', da quello concernente lo stato di celibe o di vedovo senza prole.
+
 Il concorrente classificato primo nella graduatoria finale del concorso e' dichiarato vincitore del concorso e nominato maggiore in servizio permanente effettivo della Guardia di finanza, maestro direttore della banda musicale.
 
 Con il grado di maggiore, il vincitore e' sottoposto ad esperimento per la durata di sei mesi, durante il quale presta servizio nella banda musicale e segue un corso di istruzione per la formazione militare e tecnico professionale di durata non inferiore a centoventi giorni.
@@ -148,6 +230,31 @@ AGGIORNAMENTO (4)
  La L. 31 marzo 2000, n. 78, ha disposto (con l'art. 6, comma 5, lettera h)) che a decorrere dalla data di entrata in vigore dei regolamenti da essa previsti all'art. 6, comma 4 e' abrogato l'intero capo III del D.Lgs. 27 febbraio 1991, n. 79.
 
 ## Art. 12. — Nomina a maestro vice direttore
+
+1.
+                        
+                            
+                                La nomina a maestro vice direttore della banda musicale della Guardia di finanza si consegue mediante pubblico concorso, per titoli ed esami, al quale possono partecipare i cittadini italiani in possesso dei seguenti requisiti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    alla ditta di scadenza del termine per la presentazione delle domande abbiano compiuto il venticinquesimo anno di eta' e non abbiano superato il quarantesimo. Per i concorrenti che siano componenti della banda della Guardia di finanza si prescinde dai predetti limiti d'eta'; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    abbiano conseguito in un conservatorio statale o altro analogo istituto legalmente riconosciuto il diploma in strumentazione per banda; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    siano in possesso di tutti gli altri requisiti richiesti per la nomina ad ufficiale in servizio permanente nella Guardia di finanza, prescindendo, pero', da quello concernente lo stato di celibe o di vedovo senza prole. (2)
 
 Il concorrente classificato primo nella graduatoria finale e' dichiarato vincitore del concorso e nominato tenente in servizio permanente effettivo della Guardia di finanza, maestro vice-direttore della banda musicale.
 
@@ -175,6 +282,24 @@ AGGIORNAMENTO (4)
 
 ## Art. 13. — Nomina ad esecutore
 
+1.
+                        
+                            
+                                La nomina ad esecutore della banda musicale della Guardia di finanza si consegue mediante pubblico concorso, per titoli ed esami, al quale possono partecipare i cittadini italiani in possesso dei seguenti requisiti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    alla data di scadenza del termine per la presentazione delle domande abbiano compiuto il diciottesimo anno di eta' e non abbiano superato il quarantesimo. Tale limite e' elevato di anni cinque per i militari delle Forze armate o dei Corpi di polizia in attivita' di servizio; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    abbiano conseguito in un conservatorio statale o altro analogo istituto legalmente riconosciuto il diploma nello strumento per il quale concorrono o per strumento affine, come da tabella H.
+
 I concorrenti che non siano gia' in servizio nella Guardia di finanza debbono essere in possesso degli altri requisiti richiesti per l'arruolamento nel Corpo quali sottufficiali, prescindendo, pero', da quello concernente lo stato di celibe o vedovo senza prole.
 
 L'aspirante dichiarato vincitore del concorso e' nominato maresciallo maggiore aiutante carica speciale, maresciallo maggiore aiutante o maresciallo maggiore del Corpo della Guardia di finanza a seconda che debba essere inserito nell'organizzazione strumentale delle prime, delle seconde o delle terze parti della banda musicale come da tabella E.
@@ -194,6 +319,24 @@ AGGIORNAMENTO (4)
  La L. 31 marzo 2000, n. 78, ha disposto (con l'art. 6, comma 5, lettera h)) che a decorrere dalla data di entrata in vigore dei regolamenti da essa previsti all'art. 6, comma 4 e' abrogato l'intero capo III del D.Lgs. 27 febbraio 1991, n. 79.
 
 ## Art. 14. — Nomina ad archivista
+
+1.
+                        
+                            
+                                La nomina ad archivista della banda musicale della Guardia di finanza si consegue mediante pubblico concorso, per titoli ed esami, al quale possono partecipare i cittadini italiani in possesso dei seguenti requisiti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    alla data di scadenza del termine per la presentazione delle domande abbiano compiuto il diciottesimo anno di eta' e non abbiano superato il quarantesimo. Tale limite e' elevato di anni cinque per i militari delle Forze armate o dei Corpi di polizia in attivita' di servizio; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    abbiano conseguito in un conservatorio statale o altro analogo istituto legalmente riconosciuto il compimento inferiore di composizione.
 
 I concorrenti che non siano gia' in servizio nella Guardia di finanza debbono essere in possesso degli altri requisiti richiesti per l'arruolamento nel Corpo quali sottufficiali, prescindendo, pero', da quello concernente lo stato di celibe o vedovo senza prole.
 
@@ -229,6 +372,45 @@ AGGIORNAMENTO (4)
 
 ## Art. 16. — Commissione giudicatrice delle prove d'esame del concorso per maestro direttore
 
+1.
+                        
+                            
+                                La commissione giudicatrice delle prove d'esame del concorso concernente il reclutamento del maggiore maestro direttore e' nominata con determinazione del Comandante Generale ed e' composta da: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il Comandante dell'Accademia della Guardia di finanza, presidente; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    due insegnanti di composizione nei conservatori di Stato, membri; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    un maestro diplomato in composizione o strumentazione per banda, membro; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    un ufficiale maestro direttore di banda militare - membro; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    un ufficiale della Guardia di finanza di grado non superiore a capitano, segretario senza voto.
+
 La stessa commissione provvede, altresi', alla valutazione dei titoli a norma dell'articolo 23.((4)) 
  
 ---------------
@@ -240,6 +422,38 @@ AGGIORNAMENTO (4)
 
 ## Art. 17. — Commissione giudicatrice delle prove d'esame del concorso per maestro vice direttore
 
+1.
+                        
+                            
+                                La commissione giudicatrice delle prove d'esame del concorso concernente il reclutamento del tenente maestro vice direttore e' nominata con determinazione del Comandante Generale ed e' composta da: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il Comandante dell'Accademia della Guardia di finanza, presidente; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    un insegnante di armonia e contrappunto presso un conservatorio di Stato, membro; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    l'ufficiale maestro direttore della banda della Guardia di finanza, o, in caso di sua assenza o impedimento, un ufficiale maestro direttore di banda militare, membro; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    un ufficiale della Guardia di finanza di grado non superiore a capitano, segretario senza voto.
+
 La stessa commissione provvede, altresi', alla valutazione dei titoli a norma dell'articolo 23. ((4)) 
  
 ---------------
@@ -248,6 +462,38 @@ La stessa commissione provvede, altresi', alla valutazione dei titoli a norma de
  La L. 31 marzo 2000, n. 78, ha disposto (con l'art. 6, comma 5, lettera h)) che a decorrere dalla data di entrata in vigore dei regolamenti da essa previsti all'art. 6, comma 4 e' abrogato l'intero capo III del D.Lgs. 27 febbraio 1991, n. 79.
 
 ## Art. 18. — Commissione giudicatrice delle prove d'esame del concorso ad esecutore
+
+1.
+                        
+                            
+                                La commissione giudicatrice delle prove d'esame del concorso concernente il reclutamento dei sottufficiali esecutori e' nominata con determinazione del Comandante Generale ed e' composta da: 
+ 
+                            
+                            
+                                a)
+                                
+                                    un colonnello della Guardia di finanza, presidente; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    un professore di conservatorio di Stato diplomato nello strumento in cui e' bandito il concorso o strumento affine come da tabella H, membro; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    l'ufficiale maestro direttore della banda della Guardia di finanza, o, in caso di sua assenza o impedimento, un ufficiale maestro direttore di banda militare, membro; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    un ufficiale della Guardia di finanza di grado non superiore a capitano, segretario senza voto.
 
 La stessa commissione provvede, altresi', alla valutazione dei titoli a norma dell'articolo 23.((4)) 
  
@@ -259,6 +505,38 @@ AGGIORNAMENTO (4)
 
 ## Art. 19. — Commissione giudicatrice delle prove d'esame del concorso ad archivista
 
+1.
+                        
+                            
+                                La commissione giudicatrice delle prove d'esame del concorso concernente il reclutamento del sottufficiale archivista e' nominata con determinazione del Comandante Generale ed e' composta da: 
+ 
+                            
+                            
+                                a)
+                                
+                                    un colonnello della Guardia di finanza, presidente; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    un funzionario civile appartenente al profilo di "bibliotecario" (VIII qualifica funzionale), membro; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    l'ufficiale maestro direttore della banda della Guardia di finanza, o, in caso di sua assenza o impedimento, un ufficiale maestro direttore di banda militare, membro; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    un ufficiale della Guardia di finanza di grado non superiore a capitano, segretario senza voto.
+
 La stessa commissione provvede, altresi', alla valutazione dei titoli a norma dell'articolo 23.((4)) 
  
 ---------------
@@ -267,6 +545,37 @@ La stessa commissione provvede, altresi', alla valutazione dei titoli a norma de
  La L. 31 marzo 2000, n. 78, ha disposto (con l'art. 6, comma 5, lettera h)) che a decorrere dalla data di entrata in vigore dei regolamenti da essa previsti all'art. 6, comma 4 e' abrogato l'intero capo III del D.Lgs. 27 febbraio 1991, n. 79.
 
 ## Art. 20. — Concorso per la nomina a maestro direttore
+
+1.
+                        
+                            
+                                I candidati al concorso di cui all'articolo 11 devono sostenere le seguenti prove: 
+ 
+                            
+                            
+                                a)
+                                
+                                    tre prove scritte su temi dati dalla commissione, cosi' distinte: 
+ 1) composizione di una fuga a quattro parti in chiavi antiche, da svolgere in un tempo massimo di diciotto ore; 
+ 2) composizione su due o piu' pentagrammi di una marcia sinfonica o funebre per pianoforte con qualche cenno strumentale, da svolgere in un tempo massimo di diciotto ore; 
+ 3) strumentazione per banda di un brano di musica per pianoforte, organo o per orchestra, da svolgere in un tempo massimo di diciotto ore; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    una prova orale vertente sulle seguenti materie: 
+ 1) organizzazione delle bande musicali e loro sviluppo storico dell'organico e del repertorio; 
+ 2) conoscenza degli strumenti compresi nell'organico strumentale e loro impiego; 
+ 3) vari tipi di partitura in uso in Italia ed all'estero; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    una prova pratica consistente nella concertazione e direzione di piu' brani, a scelta della commissione, che saranno lasciati da studiare al candidato per un tempo conveniente stabilito dalla stessa commissione esaminatrice.
 
 Il punto complessivo di merito delle prove scritte, espresso in cinquantesimi, e' dato dalla media dei punti riportati in ciascuna prova.
 
@@ -283,6 +592,36 @@ AGGIORNAMENTO (4)
 
 ## Art. 21. — Concorso per la nomina a maestro vice direttore
 
+1.
+                        
+                            
+                                I candidati al concorso di cui all'articolo 12 devono sostenere le seguenti prove: 
+ 
+                            
+                            
+                                a)
+                                
+                                    tre prove scritte su temi dati dalla commissione, cosi' distinte: 
+ 1) armonizzazione a quattro parti in chiavi antiche di un basso imitato e fugato, da svolgere nel tempo massimo di dodici ore; 
+ 2) composizione di una marcia militare per pianoforte da svolgere in un tempo massimo di quattordici ore; 
+ 3) trascrizione per banda di un brano in musica per pianoforte, da svolgere in un tempo massimo di diciotto ore; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    una prova orale vertente sulle seguenti materie: 
+ 1) vari tipi di partitura in uso in Italia ed all'estero; 
+ 2) conoscenza degli strumenti compresi nell'organico strumentale e loro impiego; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    una prova pratica consistente nella concertazione e direzione di piu' brani scelti dalla commissione, che saranno lasciati da studiare al candidato per un tempo conveniente stabilito dalla stessa commissione esaminatrice.
+
 Il punto complessivo di merito delle prove scritte, espresso in cinquantesimi, e' dato dalla media dei punti riportati in ciascuna prova.
 
 E' ammesso alla prova orale ed alla prova pratica il candidato che abbia riportato un punteggio di merito di almeno 35/50 in ciascuna delle prove scritte ed un punto complessivo di merito non inferiore a 40/50.
@@ -297,6 +636,63 @@ AGGIORNAMENTO (4)
  La L. 31 marzo 2000, n. 78, ha disposto (con l'art. 6, comma 5, lettera h)) che a decorrere dalla data di entrata in vigore dei regolamenti di cui all'art. 6, comma 4 e' abrogato il capo III.
 
 ## Art. 22. — Concorso per la nomina ad esecutore e ad archivista
+
+1.
+                        
+                            
+                                I candidati al concorso di cui all'articolo 13 devono sostenere le seguenti prove: 
+ 
+                            
+                            
+                                a)
+                                
+                                    esecuzione a solo, con lo strumento per il quale si concorre, di uno o piu' brani come specificato dal bando di concorso e di un brano a scelta con l'eventuale strumento d'obbligo; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    lettura ed esecuzione a prima vista, con lo stesso strumento e con l'eventuale strumento d'obbligo, di brani musicali scelti dalla commissione; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    esecuzione di uno o piu' brani, a scelta della commissione, nell'insieme della banda, con lo strumento per il quale si concorre e con l'eventuale strumento d'obbligo; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    i concorrenti delle prime parti A e B dovranno inoltre dar prova di essere in grado di attaccare e spezzare una marcia militare o altro semplice brano musicale scelto dalla commissione;
+
+2.
+                        
+                            
+                                I candidati al concorso di cui all'articolo 14 devono sostenere le seguenti prove: 
+ 
+                            
+                            
+                                a)
+                                
+                                    armonizzazione a quattro voci di un canto dato, scelto dalla commissione, da svolgere in un tempo massimo di quattro ore; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    correzione degli errori in un brano in partitura per grande banda, predisposti dalla commissione, da svolgere in un tempo massimo di 1 ora; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    saggio di copiatura con bella grafia di un brano musicale e conoscenza delle tecniche di catalogazione e di organizzazione di una biblioteca musicale.
 
 Il punteggio complessivo di merito delle prove d'esame, espresso in cinquantesimi, e' dato dalla media dei punti attribuiti nelle singole prove.
 

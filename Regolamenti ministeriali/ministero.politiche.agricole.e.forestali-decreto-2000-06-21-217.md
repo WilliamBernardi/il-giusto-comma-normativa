@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
 vigenza_date: 2002-03-06
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:39Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -68,6 +68,24 @@ I coefficienti di trasformazione di cui ai richiamati articoli 9 e 10 sono deter
                          Il Decreto 22 novembre 2001, n. 486 ha disposto (con l'art. 1, comma 1) che "Le disposizioni di cui agli articoli 1, 2, 3, 4 e 5 del regolamento ministeriale 21 giugno 2000, n. 217, sono estese alla concessione dell'aiuto comunitario alla produzione di olive da tavola per le campagne di commercializzazione da 2001/2002 a 2003/2004, in attuazione della decisione 2001/658/CE della Commissione del 10 agosto 2001."
 
 ## Art. 5. — Comunicazioni
+
+1.
+                    
+                        
+                            Ai fini dell'assolvimento dell'obbligo di comunicazione alla Commissione europea di cui all'articolo 11 della "decisione" comunitaria, il competente organismo pagatore comunica al Ministero delle politiche agricole e forestali:
+ 
+                        
+                        
+                            a)
+                            
+                                entro il 10 luglio 2001, i quantitativi di olio equivalenti alle produzione stimata delle olive da tavola trasformate, nonche' i coefficienti di trasformazione provvisori di cui all'articolo 4;
+
+                            
+                        
+                        
+                            b)
+                            
+                                entro il 1o giugno 2002, i quantitativi di olio d'oliva equivalenti alla produzione effettiva delle olive da tavola trasformate, nonche' i coefficienti di trasformazione definitivi di cui all'articolo 10 della "decisione" comunitaria. ((1))
 
 ---------------
                         AGGIORNAMENTO (1)

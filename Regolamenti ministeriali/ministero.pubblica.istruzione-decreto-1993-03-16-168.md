@@ -8,8 +8,8 @@ codice_redazionale: 093G0231
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:41Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -55,9 +55,101 @@ L'esclusione puo' avere luogo in qualsiasi momento, quando ne siano emersi i mot
 
 ## Art. 4. — Modalita' per la presentazione della domanda
 
+1.
+                    
+                        
+                            Nella domanda di ammissione agli esami, corredata della documentazione prevista dal successivo art. 5, i candidati debbono indicare:
+ 
+                        
+                        
+                            a)
+                            
+                                cognome e nome;
+
+                            
+                        
+                        
+                            b)
+                            
+                                luogo e data di nascita;
+
+                            
+                        
+                        
+                            c)
+                            
+                                l'istituto tecnico presso il quale e' stato conseguito il di- ploma di perito agrario e l'anno scolastico relativo;
+
+                            
+                        
+                        
+                            d)
+                            
+                                la pratica professionale svolta ovvero il triennio di attivita' tecnico agricola subordinata, previsti dall'art. 10 della legge 21 febbraio 1991, n. 54;
+
+                            
+                        
+                        
+                            e)
+                            
+                                la residenza anagrafica e l'indirizzo al quale desiderano che vengano loro inviate le eventuali comunicazioni relative agli esami;
+
+                            
+                        
+                        
+                            f)
+                            
+                                la dichiarazione sotto la propria responsabilita', pena l'esclusione in qualsiasi momento dagli esami, di non aver prodotto per la stessa sessione altra domanda di ammissione ad una diversa sede di esame;
+
+                            
+                        
+                        
+                            g)
+                            
+                                data e firma.
+
 La firma dei candidati apposta in calce alla domanda deve essere autenticata, a norma delle vigenti disposizioni.
 
 ## Art. 5. — Documentazione
+
+1.
+                    
+                        
+                            Alla domanda di ammissione agli esami devono essere allegati i seguenti documenti rilasciati con l'osservanza delle vigenti disposizioni sul bollo:
+ 
+                        
+                        
+                            a)
+                            
+                                diploma di perito agrario in originale o in copia autentica;
+
+                            
+                        
+                        
+                            b)
+                            
+                                un breve curriculum in carta semplice, sottoscritto dal candidato, relativo all'attivita' professionale ed agli eventuali ulteriori studi compiuti dopo il conseguimento del diploma di perito agrario;
+
+                            
+                        
+                        
+                            c)
+                            
+                                eventuali pubblicazioni di carattere professionale;
+
+                            
+                        
+                        
+                            d)
+                            
+                                ricevute da cui risulti l'avvenuto versamento della tassa di ammissione agli esami nella misura di L. 96.000 dovuta all'erario e del contributo nella misura di L. 3.000 dovuto all'istituto tecnico statale sede di esame, a norma della legge 8 dicembre 1956, n. 1378, e successive modificazioni;
+
+                            
+                        
+                        
+                            e)
+                            
+                                un elenco sottoscritto su carta semplice dei documenti, numerati in ordine progressivo, prodotti a corredo della domanda.
 
 ## Art. 6. — Adempimenti dei collegi dei periti agrari
 
@@ -70,6 +162,31 @@ A ciascuna domanda i competenti collegi allegheranno d'ufficio la certificazione
 ## Art. 7. — Commissioni esaminatrici
 
 Le commissioni esaminatrici sono nominate con decreto del Ministro della pubblica istruzione e sono composte dal presidente e da quattro membri.
+
+2.
+                    
+                        
+                            Il presidente viene scelto nelle seguenti categorie:
+ 
+                        
+                        
+                            a)
+                            
+                                professori universitari di ruolo ordinario o straordinario;
+
+                            
+                        
+                        
+                            b)
+                            
+                                professori universitari associati o fuori ruolo;
+
+                            
+                        
+                        
+                            c)
+                            
+                                presidi di ruolo degli istituti tecnici agrari.
 
 Uno dei membri della commissione viene scelto tra i docenti laureati di ruolo di discipline agrarie, che insegnino o abbiano insegnato negli istituti tecnici agrari.
 

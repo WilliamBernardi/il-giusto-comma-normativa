@@ -10,7 +10,7 @@ source: normattiva-opendata
 collection: Atti di recepimento direttive UE
 vigenza_date: 2019-03-12
 zip_date: 2026-07-30
-fetched_at: 2026-08-02T09:40:49Z
+fetched_at: 2026-07-30
 ---
 
 DECRETO LEGISLATIVO
@@ -117,6 +117,81 @@ I provvedimenti previsti dal capo VI del regolamento DPI sono adeguatamente moti
 ## Art. 14. — (( (Sanzioni e disposizioni penali). ))
 
 ((
+
+1.
+                    
+                        
+                            Il fabbricante che produce o mette a disposizione sul mercato DPI non conformi ai requisiti essenziali di sicurezza di cui all'allegato II del regolamento DPI nonche' l'importatore che immette sul mercato DPI non conformi ai requisiti suddetti e' punito: 
+ 
+                        
+                        
+                            a)
+                            
+                                se trattasi di DPI di prima categoria, con la sanzione amministrativa pecuniaria da 8.000 euro sino a 48.000 euro; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                se trattasi di DPI di seconda categoria, con l'arresto sino a sei mesi o con la ammenda da 10.000 euro sino a 16.000 euro; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                se trattasi di DPI di terza categoria, con l'arresto da sei mesi a tre anni.
+
+2.
+                    
+                        
+                            I distributori che non rispettano gli obblighi di cui all'articolo 11 del regolamento DPI sono puniti: 
+ 
+                        
+                        
+                            a)
+                            
+                                se trattasi di DPI di prima categoria, con la sanzione amministrativa pecuniaria da 1.000 euro sino a 6.000 euro; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                se trattasi di DPI di seconda categoria, con la sanzione amministrativa pecuniaria da 2.000 euro sino a 12.000 euro; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                se trattasi di DPI di terza categoria, con la sanzione amministrativa pecuniaria da 10.000 euro sino a 60.000 euro.
+
+3.
+                    
+                        
+                            Il fabbricante di DPI che omette di espletare le procedure di cui all'articolo 19 del regolamento DPI e' punito: 
+ 
+                        
+                        
+                            a)
+                            
+                                se trattasi di DPI di prima categoria, con la sanzione amministrativa pecuniaria da 5.000 euro sino a 30.000 euro; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                se trattasi di DPI di seconda categoria, con la sanzione amministrativa pecuniaria da 10.000 euro sino a 60.000 euro; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                se trattasi di DPI di terza categoria, con la sanzione amministrativa pecuniaria da 30.000 euro sino a 150.000 euro.
 
 Il fabbricante di DPI di qualsiasi categoria che omette di redigere la dichiarazione di conformita' UE di cui all'articolo 15 del regolamento DPI e' punito con la sanzione amministrativa pecuniaria da 6.000 euro sino a 36.000 euro.
 

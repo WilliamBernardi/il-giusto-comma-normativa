@@ -7,8 +7,8 @@ urn: urn:nir:ministero.economia.e.finanze:decreto:2021-09-09;154
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:38Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -40,6 +40,59 @@ Ai fini del presente regolamento si intendono per voli didattici quei voli effet
 
 Adempimenti per l'ammissione ai benefici fiscali
 
+1.
+                    
+                        
+                            Le scuole di pilotaggio, per essere ammesse alle agevolazioni previste dall'articolo 1, comma 1, presentano un'apposita istanza, firmata dal rappresentante legale, all'Ufficio dell'Agenzia delle dogane e dei monopoli nel cui ambito territoriale si trova la base operativa principale della scuola di pilotaggio, d'ora in avanti denominato «Ufficio competente», contenente i seguenti dati: 
+ 
+                        
+                        
+                            a)
+                            
+                                denominazione, codice fiscale, sede legale e base operativa principale della scuola di pilotaggio; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                tipo e marche degli aeromobili utilizzati per i voli didattici, nonche' il numero dei motori installati negli stessi e la relativa potenza massima continuativa totale disponibile. Per ciascun aeromobile e' altresi' indicato il consumo orario di carburanti e di oli lubrificanti espresso in chilogrammi; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                depositi fiscali o depositi commerciali di prodotti energetici, da indicare in numero non superiore a tre, presso i quali la scuola di pilotaggio intende prelevare i prodotti a imposta assolta; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                attivita' aeroscolastica che si intende svolgere nell'anno cui si riferisce l'istanza, con l'indicazione dei corsi previsti rientranti tra quelli indicati nell'autorizzazione di cui all'articolo 1 comma 1; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                indicazione del luogo in cui e' custodito il registro dei voli di cui all'articolo 4; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                dichiarazione del responsabile della scuola di pilotaggio, redatta ai sensi del decreto del Presidente della Repubblica 28 dicembre 2000, n. 445, attestante l'uso per attivita' esclusivamente aeroscolastica dei carburanti e degli oli lubrificanti in relazione ai quali e' presentata l'istanza di ammissione ai benefici fiscali; la dichiarazione deve espressamente contenere la personale assunzione di responsabilita', a tutti gli effetti, di tale regolare uso nei confronti dell'Amministrazione finanziaria; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                dichiarazione del legale rappresentante della scuola di pilotaggio, redatta ai sensi del decreto del Presidente della Repubblica 28 dicembre 2000, n. 445, circa il possesso dell'autorizzazione, in corso di validita', rilasciata dall'Enac per l'esercizio dell'attivita' aeroscolastica, con l'indicazione dei relativi estremi.
+
 Per la concessione dell'agevolazione negli anni successivi a quello della prima ammissione, le scuole di pilotaggio presentano annualmente all'Ufficio competente, entro il mese di settembre dell'anno precedente, apposita istanza contenente, oltre ai dati di cui al comma 1, anche l'indicazione del numero degli allievi che hanno partecipato ai corsi aeroscolastici nei dodici mesi precedenti alla data di presentazione dell'istanza medesima e di quelli che hanno conseguito licenze o abilitazioni in tale periodo.
 
 ## Art. 3.
@@ -65,6 +118,38 @@ Sono ammessi sistemi computerizzati di registrazione e conservazione dei dati. I
 Sul registro dei voli sono annotati giornalmente i dati relativi a tutti i voli compiuti dagli aeromobili di cui all'art. 1, comma 1.
 
 ## Art. 6. — Istanza di rimborso delle imposte
+
+1.
+                    
+                        
+                            La restituzione dell'accisa e dell'imposta di consumo pagate sui carburanti e sugli oli lubrificanti consumati per l'attivita' aeroscolastica si ottiene mediante autorizzazione all'estrazione, in esenzione d'imposta, di quantitativi di prodotti energetici e di oli lubrificanti fino a concorrenza delle imposte pagate. A tal fine ciascuna scuola di pilotaggio presenta all'Ufficio competente, per ogni semestre dell'anno solare ed entro il mese successivo alla scadenza del semestre stesso, apposita istanza in triplice esemplare da contrassegnare, a cura del richiedente, con la dicitura «originale», «esemplare n. 1» ed «esemplare n. 2», contenente i seguenti dati: 
+ 
+                        
+                        
+                            a)
+                            
+                                denominazione, codice fiscale, sede legale e base operativa principale della scuola di pilotaggio; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                indicazione del quantitativo complessivo di ciascuna qualita' di prodotto consumato nell'uso agevolato durante il semestre di riferimento, con separata indicazione delle relative imposte come desunte dalle fatture di cui al comma 2; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                deposito fiscale dal quale saranno estratti i quantitativi di prodotti energetici in esenzione d'imposta a reintegro dei carburanti e degli oli lubrificanti consumati nell'uso agevolato, nonche' la societa' petrolifera designata dalla scuola di pilotaggio ad effettuare la cennata operazione di estrazione; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                assenso alla predetta operazione di estrazione da parte dell'esercente il deposito fiscale. Se tale atto di assenso viene rilasciato con validita' a tempo indeterminato, sulle successive istanze e' sufficiente farvi riferimento.
 
 L'istanza di cui al comma 1 e' corredata da un prospetto riassuntivo, anche in forma meccanizzata, delle ore di volo compiute da ogni singolo aeromobile e del relativo consumo, espresso in chilogrammi, di carburanti e di oli lubrificanti nel semestre considerato; a tale prospetto e' allegata copia del registro dei voli relativo al periodo cui l'istanza si riferisce e delle fatture di acquisto dei prodotti, con separata indicazione, sulle medesime, dell'accisa e dell'imposta di consumo.
 
@@ -93,6 +178,45 @@ Per le violazioni alle norme contenute nel presente regolamento trova applicazio
 ## Art. 10.
 
 Scambio di informazioni sulle scuole di pilotaggio e sugli aeromobili autorizzati all'impiego aeroscolastico per lo svolgimento di attivita' di controllo e ispettiva.
+
+1.
+                    
+                        
+                            L'Enac rende accessibile all'Agenzia delle dogane e dei monopoli e alla Guardia di finanza, anche mediante strumenti telematici, le informazioni di cui e' in possesso sugli aeromobili autorizzati all'impiego aeroscolastico e in particolare, per ogni scuola di pilotaggio: 
+ 
+                        
+                        
+                            a)
+                            
+                                gli estremi e lo stato di validita' dell'autorizzazione di cui all'articolo 1, comma 1; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                la marca di registrazione, il tipo e l'alimentazione degli aeromobili utilizzati ed autorizzati per l'attivita' aeroscolastica; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                per ogni aeromobile di cui alla lettera b), il relativo consumo orario ritenuto congruo di carburanti e di oli lubrificanti espressi, rispettivamente, in litri ed in chilogrammi; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                il periodo di esercizio relativo ad ogni aeromobile di cui alla lettera b); 
+
+                            
+                        
+                        
+                            e)
+                            
+                                i corsi autorizzati che comportano l'effettuazione di voli didattici ricompresi tra quelli di cui all'articolo 1, comma 2.
 
 L'Enac aggiorna i dati di cui al comma 1 nel periodo compreso tra il primo ed il ventesimo giorno successivo alla scadenza di ciascun semestre solare.
 

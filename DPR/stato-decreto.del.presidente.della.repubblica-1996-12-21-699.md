@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: DPR
 vigenza_date: 2001-04-25
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:47:43Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -35,6 +35,18 @@ Sulla proposta del Ministro delle finanze, di concerto con i Ministri per la fun
 
 
 ## Art. 2. — Norma di raccordo
+
+1.
+                    
+                        
+                            Al decreto del Presidente della Repubblica 27 marzo 1992, n. 287, e' apportata la seguente modifica:
+ 
+                        
+                        
+                            a)
+                            
+                                all'art. 1, comma 3, e' aggiunta in fine la seguente lettera:
+ "f) il servizio per il controllo interno".
 
 ## Art. 3. — (( ARTICOLO ABROGATO DAL D.P.R. 26 MARZO 2001, N. 107 ))
 

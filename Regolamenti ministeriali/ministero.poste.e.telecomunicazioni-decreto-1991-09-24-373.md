@@ -8,8 +8,8 @@ codice_redazionale: 091G0420
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:39Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -40,6 +40,31 @@ Per la qualifica di operaio specializzato, oltre alla riserva di cui al preceden
 La prova di esame si svolge con le modalita' previste dall'art. 2 del decreto ministeriale n. 8140 del 21 giugno 1989.
 
 L'esame non si intende superato se il candidato non ottenga la votazione di almeno sei decimi.
+
+3.
+                    
+                        
+                            I titoli valutabili, che devono essere posseduti alla data di scadenza del termine utile per la presentazione delle domande di ammissione al concorso, sono:
+ 
+                        
+                        
+                            a)
+                            
+                                esercizio, a decorrere dal 16 maggio 1980, di funzioni proprie della qualifica da conferire o superiori formalmente attribuite;
+
+                            
+                        
+                        
+                            b)
+                            
+                                titoli attinenti alla formazione e al perfezionamento professionale con particolare riguardo alle idoneita' conseguite in corsi organizzati a cura dell'Amministrazione delle poste e delle telecomunicazioni se acquisiti nel decennio precedente;
+
+                            
+                        
+                        
+                            c)
+                            
+                                titoli di studio.
 
 Per i titoli non puo' essere attribuito un punteggio superiore a cinque decimi. La valutazione dei titoli precede la prova d'esame.
 

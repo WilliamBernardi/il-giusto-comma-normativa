@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Leggi delega e relativi provvedimenti delegati
 vigenza_date: 2025-12-18
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:41:19Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -65,6 +65,24 @@ Il numero dei Ministeri e' stabilito in quindici. Il numero totale dei component
 
 ((
 
+1.
+                        
+                            
+                                Nei Ministeri costituiscono strutture di primo livello, alternativamente:
+ 
+                            
+                            
+                                a)
+                                
+                                    i dipartimenti;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le direzioni generali.
+
 Nei Ministeri in cui le strutture di primo livello sono costituite da dipartimenti non puo' essere istituita la figura del segretario generale. Nei Ministeri organizzati in dipartimenti l'ufficio del segretario generale, ove previsto da precedenti disposizioni di legge o regolamento, e' soppresso. I compiti attribuiti a tale ufficio sono distribuiti tra i capi dipartimento con il regolamento di cui all'articolo 4.
 
 ## Art. 4. — (Disposizioni sull'organizzazione)
@@ -97,6 +115,66 @@ Il capo del dipartimento svolge compiti di coordinamento, direzione e controllo 
 
 Dal capo del dipartimento dipendono funzionalmente gli uffici di livello dirigenziale generale compresi nel dipartimento stesso.
 
+5.
+                        
+                            
+                                Nell'esercizio, dei poteri di cui ai precedenti commi 3 e 4, in particolare, il capo del dipartimento:
+ 
+                            
+                            
+                                a)
+                                
+                                    determina i programmi per dare attuazione agli indirizzi del ministro;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    alloca le risorse umane, finanziarie e strumentali disponibili per l'attuazione dei programmi secondo principi di economicita', efficacia ed efficienza, nonche' di rispondenza del servizio al pubblico interesse;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    svolge funzioni di propulsione, di coordinamento di controllo e di vigilanza nei confronti degli uffici del dipartimento;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    promuove e mantiene relazioni con gli organi competenti dell'Unione europea per la trattazione di questioni e problemi attinenti al proprio dipartimento;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    adotta gli atti per l'utilizzazione ottimale del personale secondo criteri di efficienza, disponendo gli opportuni trasferimenti di personale all'interno del dipartimento;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    e' sentito dal ministro ai fini dell'esercizio del potere di proposta per il conferimento degli incarichi di direzione degli uffici di livello dirigenziale generale, ai sensi dell'articolo 19, comma 4, del decreto legislativo 3 febbraio 1993, n.29;
+
+                                
+                            
+                            
+                                g)
+                                
+                                    puo' proporre al ministro l'adozione dei provvedimenti di revoca degli incarichi di direzione degli uffici di livello dirigenziale generale, ai sensi dell'articolo 19, comma 7, del decreto legislativo 3 febbraio 1993, n.29 e, comunque, viene sentito nel relativo procedimento;
+
+                                
+                            
+                            
+                                h)
+                                
+                                    e' sentito dal ministro per l'esercizio delle attribuzioni a questi conferite dall'articolo 14, comma 1, del decreto legislativo 3 febbraio 1993, n.29.
+
 Con le modalita' di cui all'articolo 16, comma 5, del decreto legislativo 3 febbraio 1993, n.29, possono essere definiti ulteriori compiti del capo del dipartimento.
 
 ## Art. 6. — (( (Il segretario generale). ))
@@ -109,6 +187,45 @@ Nei Ministeri in cui le strutture di primo livello sono costituite da direzioni 
 
 La costituzione e la disciplina degli uffici di diretta collaborazione del ministro, per l'esercizio delle funzioni ad esso attribuite dagli articoli 3 e 14 del decreto legislativo 3 febbraio 1993, n. 29 e successive modificazioni ed integrazioni, l'assegnazione di personale a tali uffici e il relativo trattamento economico, il riordino delle segreterie particolari dei sottosegretari di Stato, sono regolati dall'articolo 14, comma 2, del decreto legislativo 3 febbraio 1993, n. 29.
 
+2.
+                        
+                            
+                                I regolamenti di cui al suddetto articolo 14, comma 2, del decreto legislativo 3 febbraio 1993, n.29, si attengono, tra l'altro, ai seguenti principi e criteri direttivi:
+ 
+                            
+                            
+                                a)
+                                
+                                    attribuzione dei compiti di diretta collaborazione secondo criteri che consentano l'efficace e funzionale svolgimento dei compiti di definizione degli obiettivi, di elaborazione delle politiche pubbliche e di valutazione della relativa attuazione e delle connesse attivita' di comunicazione, nel rispetto del principio di distinzione tra funzioni di indirizzo e compiti di gestione;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    assolvimento dei compiti di supporto per l'assegnazione e la ripartizione delle risorse ai dirigenti preposti ai centri di responsabilita', ai sensi dell'articolo 3 del decreto legislativo 7 agosto 1997, n. 279, anche in funzione della verifica della gestione effettuata dagli appositi uffici, nonche' del compito di promozione e sviluppo dei sistemi informativi;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    organizzazione degli uffici preposti al controllo interno di diretta collaborazione con il ministro, secondo le disposizioni del decreto legislativo di riordino e potenziamento dei meccanismi e strumenti di monitoraggio e valutazione dei costi, dei rendimenti e dei risultati dell'attivita' svolta dalle amministrazioni pubbliche, in modo da assicurare il corretto ed efficace svolgimento dei compiti ad essi assegnati dalla legge, anche attraverso la provvista di adeguati mezzi finanziari, organizzativi e personali;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    organizzazione del settore giuridico-legislativo in modo da assicurare: il raccordo permanente con l'attivita' normativa del Parlamento, l'elaborazione di testi normativi del Governo garantendo la valutazione dei costi della regolazione, la qualita' del linguaggio normativo, l'applicabilita' delle norme introdotte, lo snellimento e la semplificazione della normativa, la cura dei rapporti con gli altri organi costituzionali, con le autorita' indipendenti e con il Consiglio di Stato;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    attribuzione dell'incarico di Capo degli uffici di cui al comma 1 ad esperti, anche estranei all'amministrazione, dotati di elevata professionalita'.
+
 ## - TITOLO II LE AGENZIE
 
 ## Art. 8. — (L'ordinamento)
@@ -119,11 +236,146 @@ Le agenzie hanno piena autonomia nei limiti stabiliti dalla legge e sono sottopo
 
 L'incarico di direttore generale dell'agenzia viene conferito in conformita' alle disposizioni dettate dal precedente articolo 5 del presente decreto per il conferimento dell'incarico di capo del dipartimento.
 
+4.
+                        
+                            
+                                Con regolamenti emanati ai sensi dell'articolo 17, comma 2, della legge 23 agosto 1988, n. 400, su proposta del presidente del consiglio dei ministri e dei ministri competenti, di concerto con il ministro del tesoro, del bilancio e della programmazione economica, sono emanati gli statuti delle agenzie istituite dal presente decreto legislativo, in conformita' ai seguenti principi e criteri direttivi:
+ 
+                            
+                            
+                                a)
+                                
+                                    definizione delle attribuzioni del direttore generale dell'agenzia anche sulla base delle previsioni contenute nel precedente articolo 5 del presente decreto con riferimento al capo del dipartimento;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    attribuzione al direttore generale e ai dirigenti dell'agenzia dei poteri e della responsabilita' della gestione, nonche' della responsabilita' per il conseguimento dei risultati fissati dal ministro competente nelle forme previste dal presente decreto, nell'ambito, ove possibile, di massimali di spesa predeterminati dal bilancio o, nell'ambito di questo, dal ministro stesso;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    previsione di un comitato direttivo, composto da dirigenti dei principali settori di attivita' dell'agenzia, in numero non superiore a quattro, con il compito di coadiuvare il direttore generale nell'esercizio delle attribuzioni ad esso conferite;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    definizione dei poteri ministeriali di vigilanza, che devono comprendere, comunque, oltre a quelli espressamente menzionati nel precedente comma 2:
+ d1) l'approvazione dei programmi di attivita' dell'agenzia e di approvazione dei bilanci e rendiconti, secondo modalita' idonee a garantire l'autonomia dell'agenzia;
+ d2) l'emanazione di direttive con l'indicazione degli obiettivi da raggiungere;
+ d3) l'acquisizione di dati e notizie e l'effettuazione di ispezioni per accertare l'osservanza delle prescrizioni impartite;
+ d4) l'indicazione di eventuali specifiche attivita' da intraprendere;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    definizione, tramite una apposita convenzione da stipularsi tra il ministro competente e il direttore generale dell'agenzia, degli obiettivi specificamente attribuiti a questa ultima, nell'ambito della missione ad essa affidata dalla legge; dei risultati attesi in un arco temporale determinato; dell'entita' e delle modalita' dei finanziamenti da accordare all'agenzia stessa; delle strategie per il miglioramento dei servizi; delle modalita' di verifica dei risultati di gestione; delle modalita' necessarie ad assicurare al ministero competente la conoscenza dei fattori gestionali interni all'agenzia, quali l'organizzazione, i processi e l'uso delle risorse;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    attribuzione all'agenzia di autonomia di bilancio, nei limiti del fondo stanziato a tale scopo in apposita unita' previsionale di base dello stato di previsione del ministero competente; attribuzione altresi' all'agenzia di autonomi poteri per la determinazione delle norme concernenti la propria organizzazione ed il proprio funzionamento, nei limiti fissati dalla successiva lettera l);
+
+                                
+                            
+                            
+                                g)
+                                
+                                    regolazione su base convenzionale dei rapporti di collaborazione, consulenza, assistenza, servizio, supporto, promozione tra l'agenzia ed altre pubbliche amministrazioni, sulla base di convenzioni quadro da deliberarsi da parte del ministro competente;
+
+                                
+                            
+                            
+                                h)
+                                
+                                    previsione di un collegio dei revisori, nominato con decreto del ministro competente, composto di tre membri, due dei quali scelti tra gli iscritti all'albo dei revisori dei conti o tra persone in possesso di specifica professionalita'; previsione di un membro supplente; attribuzione dei relativi compensi, da determinare con decreto del ministro competente di concerto con quello del tesoro;
+
+                                
+                            
+                            
+                                i)
+                                
+                                    istituzione di un apposito organismo preposto al controllo di gestione ai sensi del decreto legislativo di riordino e potenziamento dei meccanismi e strumenti di monitoraggio e valutazione dei costi, dei rendimenti e dei risultati dell'attivita' svolta dalle amministrazioni pubbliche;
+
+                                
+                            
+                            
+                                l)
+                                
+                                    determinazione di una organizzazione dell'agenzia rispondente alle esigenze di speditezza, efficienza ed efficacia dell'azione amministrativa; attribuzione a regolamenti interni di ciascuna agenzia, adottati dal direttore generale dell'agenzia e approvati dal ministro competente, della possibilita' di adeguare l'organizzazione stessa, nei limiti delle disponibilita' finanziarie, alle esigenze funzionali, e devoluzione ad atti di organizzazione di livello inferiore di ogni altro potere di organizzazione; applicazione dei criteri di mobilita' professionale e territoriale previsti dal decreto legislativo 3 febbraio 1993, n.29 e successive modificazioni e integrazioni;
+
+                                
+                            
+                            
+                                m)
+                                
+                                    facolta' del direttore generale dell'agenzia di deliberare e proporre all'approvazione dei ministro competente, di concerto con quello del tesoro, regolamenti interni di contabilita' ispirati, ove richiesto dall'attivita' dell'agenzia, a principi civilistici, anche in deroga alle disposizioni sulla contabilita' pubblica.
+
 ## Art. 9. — (Il personale e la dotazione finanziaria)
+
+1.
+                        
+                            
+                                Alla copertura dell'organico delle agenzie, nei limiti determinati per ciascuna di esse dai successivi articoli, si provvede, nell'ordine:
+ 
+                            
+                            
+                                a)
+                                
+                                    mediante l'inquadramento del personale trasferito dai ministeri e dagli enti pubblici, di cui al precedente articolo 8, comma 1;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    mediante le procedure di mobilita' di cui al capo III del titolo II del decreto legislativo 3 febbraio 1993, n. 29 e successive modificazioni ed integrazioni;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    a regime, mediante le ordinarie forme di reclutamento.
 
 Al termine delle procedure di inquadramento di cui al precedente comma 1, sono corrispondentemente ridotte le dotazioni organiche delle amministrazioni e degli enti di provenienza e le corrispondenti risorse finanziarie sono trasferite all'agenzia. In ogni caso, le suddette dotazioni organiche non possono essere reintegrate.
 
 Al personale inquadrato nell'organico dell'agenzia, ai sensi del precedente comma 1, e' mantenuto il trattamento giuridico ed economico spettante presso gli enti, le amministrazioni e gli organismi di provenienza al momento dell'inquadramento, fino alla stipulazione del primo contratto integrativo collettivo di ciascuna agenzia.
+
+4.
+                        
+                            
+                                Gli oneri di funzionamento dell'agenzia sono coperti:
+ 
+                            
+                            
+                                a)
+                                
+                                    mediante le risorse finanziarie trasferite da amministrazioni secondo quanto disposto dal precedente comma 2;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    mediante gli introiti derivanti dai contratti stipulati con le amministrazioni per le prestazioni di collaborazione, consulenza, assistenza, servizio, supporto, promozione;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    mediante un finanziamento annuale, nei limiti del fondo a tale scopo stanziato in apposita unita' previsionale di base dello stato di previsione dei ministero competente e suddiviso in tre capitoli, distintamente riferiti agli oneri di gestione, calcolati tenendo conto dei vincoli di servizio, alle spese di investimento, alla quota incentivante connessa al raggiungimento degli obiettivi gestionali.
 
 ## Art. 10. — (Agenzie fiscali)
 
@@ -177,6 +429,45 @@ Restano in vigore, per il ((Ministero degli affari esteri e della cooperazione i
 
 Al Ministero dell'interno sono attribuite le funzioni e i compiti spettanti allo Stato in materia di: garanzia della regolare costituzione e del funzionamento degli organi degli enti locali e funzioni statali esercitate dagli enti locali, tutela dell'ordine e della sicurezza pubblica, difesa civile, politiche di protezione civile e prevenzione incendi, salve le specifiche competenze in materia del Presidente del Consiglio dei Ministri, tutela dei diritti civili, cittadinanza, immigrazione, asilo e soccorso pubblico. ((26))
 
+2.
+                        
+                            
+                                Il ministero svolge in particolare le funzioni e i compiti di spettanza statale nelle seguenti aree funzionali:
+ 
+                            
+                            
+                                a)
+                                
+                                    garanzia della regolare costituzione degli organi elettivi degli enti locali e del loro funzionamento, finanza locale, servizi elettorali, vigilanza sullo stato civile e sull'anagrafe e attivita' di collaborazione con gli enti locali;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    tutela dell'ordine e della sicurezza pubblica e coordinamento delle forze di polizia;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    amministrazione generale e supporto dei compiti di rappresentanza generale di governo sul territorio;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    tutela dei diritti civili, ivi compresi quelli delle confessioni religiose, di cittadinanza, immigrazione e asilo;
+
+                                
+                            
+                            
+                                d-bis)
+                                
+                                    organizzazione e funzionamento delle strutture centrali e periferiche dell'amministrazione, con particolare riguardo alle politiche del personale dell'amministrazione civile e alla promozione e sviluppo delle relative attivita' formative nonche' alla gestione delle risorse strumentali e finanziarie del ministero.
+
 Il ministero svolge attraverso il corpo nazionale dei vigili del fuoco anche gli altri compiti ad esso assegnati dalla normativa vigente. ((26))
 
 Restano ferme le disposizioni della legge 1 aprile 1981, n. 121.
@@ -198,6 +489,39 @@ L'organizzazione periferica del ministero e' costituita dagli Uffici territorial
 Il ministro di grazia e giustizia e il ministero di grazia e giustizia assumono rispettivamente la denominazione di ministro della giustizia e ministero della giustizia.
 
 Il ministero della giustizia svolge le funzioni e i compiti ad esso attribuiti dalla Costituzione, dalle leggi e dai regolamenti in materia di giustizia e attivita' giudiziaria ed esecuzione delle pene, rapporti con il consiglio superiore della magistratura, attribuzioni concernenti i magistrati ordinari, vigilanza sugli ordini professionali, archivi notarili, cooperazione internazionale in materia civile e penale.
+
+3.
+                        
+                            
+                                Il ministero esercita in particolare le funzioni e i compiti concernenti le seguenti aree funzionali: 
+ 
+                            
+                            
+                                a)
+                                
+                                    servizi relativi alla attivita' giudiziaria: gestione amministrativa della attivita' giudiziaria in ambito civile e penale; 
+attivita' preliminare all'esercizio da parte del ministro delle sue competenze in materia processuale; casellario giudiziale; cooperazione internazionale in materia civile e penale; studio e proposta di interventi normativi nel settore di competenza; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    organizzazione e servizi della giustizia: organizzazione e funzionamento dei servizi relativi alla giustizia; gestione amministrativa del personale amministrativo e dei mezzi e strumenti necessari; attivita' relative alle competenze del ministro in ordine ai magistrati; studio e proposta di interventi normativi nel settore di competenza; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    servizi dell'amministrazione penitenziaria: gestione amministrativa del personale e dei beni della amministrazione penitenziaria; svolgimento dei compiti relativi alla esecuzione delle misure cautelari, delle pene e delle misure di sicurezza detentive; svolgimento dei compiti previsti dalle leggi per il trattamento dei detenuti e degli internati; 
+
+                                
+                            
+                            
+                                d-bis)
+                                
+                                    servizi per la transizione digitale della giustizia, l'analisi statistica e le politiche di coesione: gestione dei processi e delle risorse connessi alle tecnologie dell'informazione, della comunicazione e della innovazione; gestione della raccolta, organizzazione e analisi dei dati relativi a tutti i servizi connessi all'amministrazione della giustizia; attuazione delle procedure di raccolta dei dati e della relativa elaborazione statistica secondo criteri di completezza, affidabilita', trasparenza e pubblicita'; monitoraggio dell'efficienza del servizio giustizia con particolare riferimento alle nuove iscrizioni, alle pendenze e ai tempi di definizione dei procedimenti negli uffici giudiziari; coordinamento della programmazione delle attivita' della politica regionale, nazionale e comunitaria e di coesione.
 
 Per l'esercizio delle funzioni e dei compiti indicati al comma 3, il Ministero della giustizia, fermo il disposto dell'articolo 4, comma 10, del decreto-legge 29 dicembre 2009, n. 193, convertito, con modificazioni, dalla legge 22 febbraio 2010, n. 24, provvede ad effettuare l'accesso diretto ai dati relativi a tutti i servizi connessi all'amministrazione della giustizia, anche se raccolti dagli uffici giudiziari.
 
@@ -268,6 +592,46 @@ Al ministero sono trasferite con le inerenti risorse, le funzioni dei ministeri 
 
 ## Art. 24. — (Aree funzionali)
 
+1.
+                        
+                            
+                                Il ministero svolge, in particolare, le funzioni di spettanza statale nelle seguenti aree funzionali: 
+ 
+                            
+                            
+                                a)
+                                
+                                    politica economica e finanziaria, con particolare riguardo all'analisi dei problemi economici, monetari e finanziari interni e internazionali, alla vigilanza sui mercati finanziari e sul sistema creditizio, all'elaborazione delle linee di programmazione economica e finanziaria, alle operazioni di copertura del fabbisogno finanziario e di gestione del debito pubblico; alla valorizzazione dell'attivo e del patrimonio dello Stato alla gestione di partecipazioni azionarie dello Stato, compreso l'esercizio dei diritti dell'azionista e l'alienazione dei titoli azionari di proprieta' dello Stato, alla monetazione; alla prevenzione delle frodi sui mezzi di pagamento diversi dalla moneta nonche' sugli strumenti attraverso i quali viene erogato il credito al consumo e dell'utilizzazione del sistema finanziario a scopo di riciclaggio, ferme restando le competenze del Ministero dell'interno in materia; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    politiche, processi e adempimenti di bilancio, con particolare riguardo alla formazione e gestione del bilancio dello Stato, compresi gli adempimenti di tesoreria e la verifica dei relativi andamenti e flussi di cassa, assicurandone il raccordo operativo con gli adempimenti in materia di copertura del fabbisogno finanziario previsto dalla lettera a), nonche' alla verifica della quantificazione degli oneri derivanti dai provvedimenti e dalle innovazioni normative ed al monitoraggio della spesa pubblica ivi inclusi tutti i profili attinenti al concorso dello Stato al finanziamento del Servizio sanitario nazionale, anche quanto ai piani di rientro regionali, coordinandone e verificandone gli andamenti e svolgendo i controlli previsti dall'ordinamento, ivi comprese le funzioni ispettive ed i controlli di regolarita' amministrativa e contabile effettuati, ai sensi della normativa vigente, dagli Uffici centrali del bilancio costituiti presso i Ministeri e dalle ragionerie provinciali dello Stato; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    programmazione economica e finanziaria, coordinamento e verifica degli interventi per lo sviluppo economico territoriale e settoriale e delle politiche di coesione, anche avvalendosi delle Camere di commercio, con particolare riferimento alle aree depresse, esercitando a tal fine le funzioni attribuite dalla legge in materia di strumenti di programmazione negoziata e di programmazione dell'utilizzo dei fondi strutturali comunitari; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    politiche fiscali con particolare riguardo alle funzioni di cui all'articolo 56, all'analisi del sistema fiscale e delle scelte inerenti alle entrate tributarie ed erariali in sede nazionale, comunitaria e internazionale, alle attivita' di coordinamento, indirizzo, vigilanza e controllo previste dalla legge sulle agenzie fiscali e sugli altri enti o organi che comunque esercitano funzioni in materia di tributi ed entrate erariali di competenza dello Stato, al coordinamento monitoraggio e controllo del sistema informativo della fiscalita' e della rete unitaria di settore, alla informazione istituzionale nel settore della fiscalita', alle funzioni previste dalla legge in materia di demanio, catasto e conservatorie dei registri immobiliari; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    amministrazione generale, servizi indivisibili e comuni del Ministero, con particolare riguardo alle attivita' di promozione, coordinamento e sviluppo della qualita' dei processi e dell'organizzazione e alla gestione delle risorse; linee generali e coordinamento delle attivita' concernenti il personale del Ministero; 
+affari generali ed attivita' di gestione del personale del Ministero di carattere comune ed indivisibile; programmazione generale del fabbisogno del Ministero e coordinamento delle attivita' in materia di reclutamento del personale del Ministero; rappresentanza della parte pubblica nei rapporti sindacali all'interno del Ministero; tenuta della banca dati, del ruolo e del sistema informativo del personale del Ministero; tenuta dell'anagrafe degli incarichi del personale del Ministero; servizi del tesoro, incluso il pagamento delle retribuzioni, ed acquisti centralizzati; coordinamento della comunicazione istituzionale del Ministero.
+
 Le funzioni in materia di organizzazione, programmazione del fabbisogno, reclutamento, formazione e gestione del personale delle singole aree sono svolte nell'ambito delle stesse aree.
 
 ## Art. 25. — (Ordinamento)
@@ -293,6 +657,85 @@ In attesa della costituzione del ministero dell'economia e delle finanze, e comu
 
 ((COMMA ABROGATO DAL D.L. 11 NOVEMBRE 2022, N. 173)).
 
+2.
+                        
+                            
+                                
+                                    ((Il Ministero delle imprese e del made in Italy)), ferme restando le competenze del Presidente del Consiglio dei Ministri, ha lo scopo di formulare e attuare politiche e strategie per lo sviluppo del sistema produttivo, ivi inclusi gli interventi in favore delle aree sottoutilizzate, secondo il principio di sussidiarieta' e di leale collaborazione con gli enti territoriali interessati e in coerenza con gli obiettivi generali di politica industriale e, in particolare, di: 
+ 
+                            
+                            
+                                a)
+                                
+                                    promuovere le politiche per la competitivita' internazionale, in coerenza con le linee generali di politica estera e lo sviluppo economico del sistema produttivo nazionale e di realizzarle o favorirne l'attuazione a livello settoriale e territoriale, anche mediante la partecipazione, fatte salve le competenze del Ministero dell'economia e delle finanze e per il tramite dei rappresentanti italiani presso tali organizzazioni, alle attivita' delle competenti istituzioni internazionali; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    sostenere e integrare l'attivita' degli enti territoriali per assicurare l'unita' economica del Paese; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    promuovere la concorrenza; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    coordinare le istituzioni pubbliche e private interessate allo sviluppo della competitivita'; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    monitorare l'impatto delle misure di politica economica, industriale, infrastrutturale, sociale e ambientale sulla competitivita' del sistema produttivo.
+
+2-bis.
+                        
+                            
+                                Per realizzare gli obiettivi indicati al comma 2, il Ministero, secondo il principio di sussidiarieta' e di leale collaborazione con gli enti territoriali interessati: 
+ 
+                            
+                            
+                                a)
+                                
+                                    definisce, anche in concorso con le altre amministrazioni interessate, le strategie per il miglioramento della competitivita', anche a livello internazionale, del Paese e per la promozione della trasparenza e dell'efficacia della concorrenza nei settori produttivi, collaborando all'attuazione di tali orientamenti; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    promuove, in coordinamento con il Dipartimento di cui all'articolo 3, comma 2, del decreto legislativo 30 luglio 1999, n. 303, gli interessi del sistema produttivo del Paese presso le istituzioni internazionali e comunitarie di settore e facendo salve le competenze del Ministero dell'economia e delle finanze e del Ministero degli affari esteri e della cooperazione internazionale e per il tramite dei rappresentanti italiani presso tali organismi; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    definisce le politiche per lo sviluppo economico e per favorire l'assunzione, da parte delle imprese, di responsabilita' relative alle modalita' produttive, alla qualita' e alla sicurezza dei prodotti e dei servizi, alle relazioni con il consumatore; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    studia la struttura e l'andamento dell'economia industriale e aziendale; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    LETTERA ABROGATA DAL D.L. 21 SETTEMBRE 2019, N. 104.
+
 Il Ministero elabora ogni triennio, sentite le amministrazioni interessate ed aggiornandolo con cadenza annuale, un piano degli obiettivi, delle azioni e delle risorse necessarie per il loro raggiungimento, delle modalita' di attuazione, delle procedure di verifica e di monitoraggio.
 
 Restano in ogni caso ferme le attribuzioni degli altri Ministeri e della Presidenza del Consiglio dei Ministri.
@@ -306,6 +749,31 @@ Restano ferme le competenze spettanti al Ministero della difesa.
 ## Art. 28. — Aree funzionali
 
 
+
+1.
+                        
+                            
+                                Nel rispetto delle finalita' e delle azioni di cui all'articolo 27, il Ministero, ferme restando le competenze del Presidente del Consiglio dei Ministri, svolge per quanto di competenza, in particolare le funzioni e i compiti di spettanza statale nelle seguenti aree funzionali: 
+ 
+                            
+                            
+                                a)
+                                
+                                    competitivita': politiche per lo sviluppo della competitivita' del sistema produttivo nazionale; politiche di promozione degli investimenti delle imprese al fine del superamento degli squilibri di sviluppo economico e tecnologico, ivi compresi gli interventi a sostegno delle attivita' produttive e gli strumenti della programmazione negoziata, denominati contratti di programma, inclusi quelli ricompresi nell'ambito dei contratti di localizzazione, patti territoriali, contratti d'area e contratti di distretto, nonche' la partecipazione, per quanto di competenza ed al pari delle altre amministrazioni, agli accordi di programma quadro, ed il raccordo con gli interventi degli enti territoriali, rispondenti alle stesse finalita'; politiche per le piccole e medie imprese, per la creazione di nuove imprese e per il sostegno alle imprese ad alto tasso di crescita, tenendo conto anche delle competenze regionali; politiche di supporto alla competitivita' delle grandi imprese nei settori strategici; collaborazione pubblico-privato nella realizzazione di iniziative di interesse nazionale, nei settori di competenza; politiche per i distretti industriali; sviluppo di reti nazionali e internazionali per l'innovazione di processo e di prodotto nei settori produttivi; attivita' di regolazione delle crisi aziendali e delle procedure conservative delle imprese; attivita' di coordinamento con le societa' e gli istituti operanti in materia di promozione industriale e di vigilanza sull'Istituto per la promozione industriale; politica industriale relativa alla partecipazione italiana al Patto atlantico e all'Unione europea; collaborazione industriale internazionale nei settori aerospaziali e della difesa, congiuntamente agli altri Ministeri interessati; monitoraggio sullo stato dei settori merceologici, ivi compreso, per quanto di competenza, il settore agro-industriale, ed elaborazione di politiche per lo sviluppo degli stessi; iniziative finalizzate all'ammodernamento di comparti produttivi e di aree colpite dalla crisi di particolari settori industriali; politiche per l'integrazione degli strumenti di agevolazione alle imprese nel sistema produttivo nazionale; vigilanza ordinaria e straordinaria sulle cooperative; politiche per la promozione e lo sviluppo della cooperazione e mutualita'; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    LETTERA ABROGATA DAL D.L. 21 SETTEMBRE 2019, N. 104; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    sviluppo economico: ((...)) organizzazione articolata delle attivita' per i brevetti, i modelli industriali e per marchi di impresa e relativi rapporti con le autorita' internazionali, congiuntamente con il Ministero degli affari esteri e della cooperazione internazionale per la parte di competenza; politiche di sviluppo per l'innovazione tecnologica nei settori produttivi; politiche di incentivazione per la ricerca applicata e l'alta tecnologia; politiche per la promozione e lo sviluppo del commercio elettronico; partecipazione ai procedimenti di definizione delle migliori tecnologie disponibili per i settori produttivi; politiche nel settore delle assicurazioni e rapporti con l'ISVAP, per quanto di competenza; promozione della concorrenza nel settore commerciale, attivita' di sperimentazione, monitoraggio e sviluppo delle nuove forme di commercializzazione, al fine di assicurare il loro svolgimento unitario; coordinamento tecnico per la valorizzazione e armonizzazione del sistema fieristico nazionale; disciplina ed attuazione dei rapporti commerciali e della loro evoluzione, nel rispetto dell'ordinamento civile e della tutela della concorrenza; sostegno allo sviluppo della responsabilita' sociale dell'impresa, con particolare riguardo ai rapporti con fornitori e consumatori e nel rispetto delle competenze delle altre amministrazioni; sicurezza e qualita' dei prodotti e degli impianti industriali ad esclusione dei profili di sicurezza nell'impiego sul lavoro e di vigilanza sugli enti di normazione tecnica e di accreditamento degli organismi di certificazione di qualita' e dei laboratori di prova per quanto di competenza; partecipazione al sistema di certificazione ambientale, in particolare in materia di ecolabel e ecoaudit; qualita' dei prodotti, ad esclusione di quelli agricoli e di prima trasformazione di cui all'allegato I del Trattato istitutivo della Comunita' economica europea, sicurezza dei prodotti, etichettatura e qualita' dei servizi destinati al consumatore, ferme le competenze delle regioni in materia di commercio; metrologia legale e determinazione del tempo; politiche per i consumatori e connessi rapporti con l'Unione europea, ferme restando le competenze del Presidente del Consiglio dei Ministri, gli organismi internazionali e gli enti locali; attivita' di supporto e segreteria tecnico-organizzativa del Consiglio nazionale dei consumatori e degli utenti (CNCU); attivita' di tutela dei consumatori nel settore turistico a livello nazionale; monitoraggio dei prezzi liberi e controllati nelle varie fasi di scambio ed indagini sulle normative, sui processi di formazione dei prezzi e delle condizioni di offerta di beni e servizi; controllo e vigilanza delle manifestazioni a premio, ferme le attribuzioni del Ministero dell'economia e finanze - Amministrazione autonoma dei monopoli di Stato - in materia di giochi, nonche' di prevenzione e repressione dei fenomeni elusivi del relativo monopolio statale; vigilanza sul sistema delle camere di commercio, industria, artigianato e agricoltura, secondo quanto disposto dal decreto legislativo 31 marzo 1998, n. 112, e sulla tenuta del registro delle imprese; politiche per lo sviluppo dei servizi nei settori di competenza; vigilanza sulle societa' fiduciarie e di revisione nei settori di competenza.
 
 Il Ministero svolge altresi' compiti di studio, consistenti in particolare nelle seguenti attivita': redazione del piano triennale di cui al comma 2-ter dell'articolo 27; ricerca e rilevazioni economiche riguardanti i settori produttivi ed elaborazione di iniziative, ivi compresa la definizione di forme di incentivazione dei relativi settori produttivi, finalizzate a incrementare la competitivita' del sistema produttivo nazionale; valutazione delle ricadute industriali conseguenti agli investimenti pubblici; coordinamento informatico-statistico dei dati relativi agli interventi di agevolazione assunti in sede di Unione europea, nazionale e regionale, anche ai fini del monitoraggio e della valutazione degli effetti sulla competitivita' del sistema produttivo nazionale; ricerca in materia di tutela dei consumatori e degli utenti; monitoraggio dell'attivita' assicurativa anche ai fini delle iniziative legislative in materia; ricerche, raccolta ed elaborazione di dati e rilevazioni economiche riguardanti il sistema turistico; rilevazione degli aspetti socio-economici della cooperazione.
 
@@ -344,6 +812,192 @@ Al Ministero sono attribuite le funzioni e i compiti spettanti allo Stato in mat
 ## Art. 32-ter. — (( (Funzioni). ))
 
 ((
+
+1.
+                        
+                            
+                                Il Ministero svolge in particolare funzioni e compiti di spettanza statale nelle seguenti aree funzionali, tramite gli organi centrali e gli Ispettorati territoriali:
+ 
+                            
+                            
+                                a)
+                                
+                                    politiche nel settore delle comunicazioni;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    rapporti con l'Unione europea e con le organizzazioni e le agenzie internazionali nel settore delle comunicazioni, ferme restando le competenze del Presidente del Consiglio dei Ministri di cui al decreto legislativo 30 luglio 1999, n. 303, e del Ministro degli affari esteri;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    disciplina del settore delle comunicazioni elettroniche;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    gestione nazionale di programmi comunitari in materia di comunicazioni elettroniche;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    radiodiffusione sonora e televisiva pubblica e privata anche nelle forme evolutive;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    regolamentazione dei servizi postali, con particolare riferimento al contratto di programma con il fornitore del servizio universale;
+
+                                
+                            
+                            
+                                g)
+                                
+                                    emissione delle carte valori postali;
+
+                                
+                            
+                            
+                                h)
+                                
+                                    formazione e addestramento professionale anche tramite la Scuola superiore di specializzazione in telecomunicazioni;
+
+                                
+                            
+                            
+                                i)
+                                
+                                    concessioni, licenze e autorizzazioni nei settori delle comunicazioni;
+
+                                
+                            
+                            
+                                l)
+                                
+                                    controllo del mercato, vigilanza sul rispetto delle normative di settore e applicazione delle sanzioni;
+
+                                
+                            
+                            
+                                m)
+                                
+                                    adeguamento periodico del servizio universale nel campo delle comunicazioni;
+
+                                
+                            
+                            
+                                n)
+                                
+                                    verifica degli obblighi di servizio universale nei settori delle comunicazioni;
+
+                                
+                            
+                            
+                                o)
+                                
+                                    tutela delle comunicazioni;
+
+                                
+                            
+                            
+                                p)
+                                
+                                    piano nazionale di ripartizione delle frequenze e relativa attivita' internazionale;
+
+                                
+                            
+                            
+                                q)
+                                
+                                    gestione degli accordi internazionali in materia di assegnazione dei diritti d'uso delle frequenze e delle reti ed orbite dei sistemi satellitari e notifica all'Unione internazionale delle telecomunicazioni;
+
+                                
+                            
+                            
+                                r)
+                                
+                                    assegnazione dei diritti d'uso delle frequenze e delle numerazioni;
+
+                                
+                            
+                            
+                                s)
+                                
+                                    controllo delle emissioni radioelettriche e delle interferenze;
+
+                                
+                            
+                            
+                                t)
+                                
+                                    tecnologie dell'informazione; sicurezza delle reti; studi e ricerca scientifica nei settori delle comunicazioni e delle tecnologie dell'informazione (ICT); normazione tecnica, ivi compresi gli aspetti inerenti alla numerazione, standardizzazione, anche quale organismo nazionale di standardizzazione (NSO), accreditamento, certificazione ed omologazione nei settori dell'ICT; definizione degli standard di qualita' dei servizi nei settori dell'ICT; coordinamento della ricerca applicata per le tecnologie innovative nei settori dell'ICT e per l'adozione e l'implementazione di nuovi standard. Restano ferme le competenze e le funzioni attribuite al Presidente del Consiglio dei Ministri e al Ministro per l'innovazione e le tecnologie;
+
+                                
+                            
+                            
+                                u)
+                                
+                                    servizi multimediali, con particolare riferimento alle iniziative volte alla trasformazione su supporti innovativi e con tecniche interattive delle produzioni tradizionali;
+
+                                
+                            
+                            
+                                v)
+                                
+                                    certificazione per i prodotti e i sistemi informatici commerciali;
+
+                                
+                            
+                            
+                                z)
+                                
+                                    adozione delle regole di impiego degli apparati radioelettrici;
+
+                                
+                            
+                            
+                                aa)
+                                
+                                    espletamento di prestazioni per conto terzi;
+
+                                
+                            
+                            
+                                bb)
+                                
+                                    rilascio dei titoli di abilitazione all'esercizio delle stazioni radioelettriche;
+
+                                
+                            
+                            
+                                cc)
+                                
+                                    attivita' di collaudo ed ispezione delle apparecchiature radioelettriche di bordo;
+
+                                
+                            
+                            
+                                dd)
+                                
+                                    vigilanza e controllo sugli enti operanti nell'ambito delle comunicazioni;
+
+                                
+                            
+                            
+                                ee)
+                                
+                                    agevolazioni all'editoria, ferme restando le competenze del Dipartimento per l'informazione e l'editoria della Presidenza del Consiglio dei Ministri e del Ministero delle attivita' produttive.
 
 Nelle materie proprie del Ministero delle comunicazioni l'accertamento delle violazioni e l'applicazione delle relative sanzioni amministrative sono espletati dagli uffici centrali e periferici del Ministero stesso, nell'ambito delle rispettive competenze, ferme restando le funzioni spettanti agli organi di polizia. L'ordinanza - ingiunzione, di cui al secondo comma dell'articolo 18 della legge 24 novembre 1981, n. 689, e' adottata nel termine di 180 giorni dalla scadenza del termine indicato nel primo comma dell'articolo 16 della medesima legge.
 
@@ -391,6 +1045,31 @@ COMMA ABROGATO DAL D.L. 11 NOVEMBRE 2022, N. 173, CONVERTITO CON MODIFICAZIONI D
 
 Sono attribuiti al Ministero dell'agricoltura, della sovranita' alimentare e delle foreste le funzioni e i compiti spettanti allo Stato in materia di agricoltura e foreste, caccia e pesca, ai sensi dell'articolo 2 del decreto legislativo 4 giugno 1997, n.143, fatto salvo quanto previsto dagli articoli 25 e 26 del presente decreto legislativo. Sono altresi' attribuiti al ministero le funzioni e i compiti spettanti allo Stato in materia di tutela della sovranita' alimentare, ((che esso esercita)) garantendo la sicurezza delle scorte e degli approvvigionamenti alimentari, il sostegno della filiera agroalimentare, della pesca e dell'acquacoltura, il coordinamento delle politiche di gestione delle risorse ittiche marine, la produzione di cibo di qualita', la cura e la valorizzazione delle aree e degli ambienti rurali, la promozione delle produzioni agroalimentari nazionali sui mercati internazionali.
 
+3.
+                        
+                            
+                                Il ministero svolge in particolare, nei limiti stabiliti dal predetto articolo 2 dei decreto legislativo 4 giugno 1997, n. 143, le funzioni e i compiti nelle seguenti aree funzionali: 
+ 
+                            
+                            
+                                a)
+                                
+                                    agricoltura e pesca: elaborazione e coordinamento, di intesa con la conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome di Trento e Bolzano, delle linee di politica agricola e forestale, in coerenza con quella comunitaria; trattazione, cura e rappresentanza degli interessi della pesca e acquacoltura nell'ambito della politica di mercato in sede comunitaria ed internazionale; disciplina generale e coordinamento delle politiche relative all'attivita' di pesca e acquacoltura, in materia di gestione delle risorse ittiche marine di interesse nazionale, di importazione e di esportazione dei prodotti ittici, nell'applicazione della regolamentazione comunitaria e di quella derivante dagli accordi internazionali e l'esecuzione degli obblighi comunitari ed internazionali riferibili a livello statale; adempimenti relativi al Fondo Europeo di Orientamento e Garanzia in Agricoltura (FEOGA), sezioni garanzia e orientamento, a livello nazionale e comunitario, compresa la verifica della regolarita' delle operazioni relative al FEOGA, sezione garanzia; riconoscimento e vigilanza sugli organismi pagatori statali di cui al regolamento n. 1663/95 della Commissione del 7 luglio 1995; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    qualita' dei prodotti agricoli e dei servizi: riconoscimento degli organismi di controllo e certificazione per la qualita'; trasformazione e commercializzazione dei prodotti agricoli e agroalimentari come definiti dal paragrafo 1 dell'articolo 32 del trattato che istituisce la Comunita' europea, come modificato dal trattato di Amsterdam, di cui alla legge 16 giugno 1998, n. 209; tutela e valorizzazione della qualita' dei prodotti agricoli e ittici; agricoltura biologica; promozione e tutela della produzione ecocompatibile e delle attivita' agricole nelle aree protette; certificazione delle attivita' agricole e forestali ecocompatibili; elaborazione del codex alimentarius; valorizzazione economica dei prodotti agricoli, e ittici; riconoscimento e sostegno delle unioni e delle associazioni nazionali dei produttori agricoli; accordi interprofessionali di dimensione nazionale; prevenzione e repressione - attraverso l'ispettorato centrale repressione frodi di cui all'articolo 10 del decreto legge 18 giugno 1986, n. 282, convertito con modificazioni, dalla legge 7 agosto 1986, n. 462 - nella preparazione e nel commercio dei prodotti agroalimentari e ad uso agrario; controllo sulla qualita' delle merci di importazione, nonche' lotta alla concorrenza sleale. 
+
+                                
+                            
+                            
+                                b-bis)
+                                
+                                    LETTERA ABROGATA DAL D.L. 21 SETTEMBRE 2019, N. 104.
+
 ## Art. 34. — (Ordinamento)
 
 Il ministero si articola in dipartimenti disciplinati ai sensi degli articoli 4 e 5 del presente decreto. Il numero dei dipartimenti non puo' essere superiore a ((tre)), in riferimento alle aree funzionali definite nel precedente articolo.
@@ -400,6 +1079,87 @@ Il ministero si articola in dipartimenti disciplinati ai sensi degli articoli 4 
 ## Art. 35. — (Attribuzioni)
 
 COMMA ABROGATO DAL D.L. 11 NOVEMBRE 2022, N. 173, CONVERTITO CON MODIFICAZIONI DALLA L. 16 DICEMBRE 2022, N. 204.
+
+2.
+                        
+                            
+                                Al Ministero dell'ambiente e della sicurezza energetica sono attribuite le funzioni e i compiti spettanti allo Stato relativi allo sviluppo sostenibile e alla sicurezza energetica, ferme restando le funzioni della Presidenza del Consiglio dei ministri, e alla tutela dell'ambiente, del territorio e dell'ecosistema, nelle seguenti materie: 
+ 
+                            
+                            
+                                a)
+                                
+                                    individuazione, conservazione e valorizzazione delle aree naturali protette, tutela della biodiversita' e della biosicurezza, della fauna e della flora, attuazione e gestione, fatte salve le competenze della Presidenza del Consiglio dei ministri, del Ministero dell'agricoltura, della sovranita' alimentare e delle foreste e del Ministero degli affari esteri e della cooperazione internazionale, della Convenzione di Washington sul commercio internazionale delle specie animali e vegetali in via di estinzione, ratificata ai sensi della legge 19 dicembre 1975, n. 874, e dei relativi regolamenti europei, della difesa del mare e dell'ambiente costiero e della comunicazione ambientale; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    definizione degli obiettivi e delle linee di politica energetica e mineraria nazionale e provvedimenti ad essi inerenti; individuazione e attuazione delle misure atte a garantire la sicurezza, la flessibilita' e la continuita' degli approvvigionamenti di energia ((e a promuovere l'impiego delle fonti rinnovabili)); autorizzazione di impianti di produzione di energia di competenza statale, compresi quelli da fonti rinnovabili, anche se ubicati in mare; rapporti con organizzazioni internazionali e rapporti con l'Unione europea nel settore dell'energia, ferme restando le competenze del Presidente del Consiglio dei ministri e del Ministero degli affari esteri e della cooperazione internazionale, compresi il recepimento e l'attuazione dei programmi e delle direttive sul mercato unico europeo in materia di energia, ferme restando le competenze del Presidente del Consiglio dei ministri e delle regioni e delle province autonome di Trento e di Bolzano; attuazione dei processi di liberalizzazione dei mercati energetici e promozione della concorrenza nei mercati dell'energia e tutela dell'economicita' e della sicurezza del sistema con garanzia di resilienza; individuazione e sviluppo delle reti nazionali di trasporto dell'energia elettrica e del gas naturale e definizione degli indirizzi per la loro gestione; politiche di ricerca, incentivazione e interventi nei settori dell'energia e delle miniere; ricerca e coltivazione di idrocarburi, riconversione, dismissione e chiusura mineraria delle infrastrutture di coltivazione di idrocarburi ubicate nella terraferma e in mare e ripristino in sicurezza dei siti; risorse geotermiche; normativa tecnica, area chimica, sicurezza mineraria, escluse le competenze in materia di servizio ispettivo per la sicurezza mineraria e di vigilanza sull'applicazione della legislazione attinente alla salute sui luoghi di lavoro, e servizi tecnici per l'energia; vigilanza su enti strumentali e collegamento con le societa' e gli istituti operanti nei settori dell'energia; gestione delle scorte energetiche nonche' predisposizione ed attuazione dei piani di emergenza energetica; sicurezza nucleare e disciplina dei sistemi di stoccaggio del combustibile irraggiato e dei rifiuti radioattivi; radioprotezione e radioattivita' ambientale; agro-energie; rilevazione, elaborazione, analisi e diffusione di dati statistici in materia energetica e mineraria, finalizzati alla programmazione energetica e mineraria; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    piani e misure in materia di combustibili alternativi e delle relative reti e strutture di distribuzione per la ricarica dei veicoli elettrici, qualita' dell'aria, politiche per il contrasto dei cambiamenti climatici e per la finanza climatica e sostenibile e il risparmio ambientale anche attraverso tecnologie per la riduzione delle emissioni dei gas ad effetto serra; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    pianificazione in materia di emissioni nei diversi settori dell'attivita' economica, ivi compreso quello dei trasporti; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    gestione, riuso e riciclo dei rifiuti ed economia circolare; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    tutela delle risorse idriche e relativa gestione, fatta salva la competenza del Ministero dell'agricoltura, della sovranita' alimentare e delle foreste; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    promozione di politiche di sviluppo sostenibile, nazionali e internazionali; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    promozione di politiche per l'economia circolare e l'uso efficiente delle risorse, fatte salve le competenze del Ministero delle imprese e del made in Italy; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    coordinamento delle misure di contrasto e contenimento del danno ambientale, nonche' di bonifica e di ripristino in sicurezza dei siti inquinati, ivi compresi i siti per i quali non e' individuato il responsabile della contaminazione e quelli per i quali i soggetti interessati non provvedono alla realizzazione degli interventi, nonche' esercizio delle relative azioni giurisdizionali; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    sorveglianza, monitoraggio e recupero delle condizioni ambientali conformi agli interessi fondamentali della collettivita' e alla riduzione dell'impatto delle attivita' umane sull'ambiente, con particolare riferimento alla prevenzione e repressione delle violazioni compiute in danno dell'ambiente; prevenzione e protezione dall'inquinamento atmosferico, acustico ed elettromagnetico e dai rischi industriali; 
+
+                                
+                            
+                            
+                                m)
+                                
+                                    difesa e assetto del territorio con riferimento ai valori naturali e ambientali.
 
 Al ministero sono trasferite con le inerenti risorse, le funzioni e i compiti dei ministeri dell'ambiente e dei lavori pubblici, eccettuate quelle attribuite, anche dal presente decreto, ad altri ministeri o agenzie e fatte in ogni caso salve le funzioni conferite alle regioni e agli enti locali anche ai sensi e per gli effetti degli articoli 1, comma 2, e 3, comma 1, lettere a) e b) della legge 15 marzo 1997, n. 59; sono altresi' trasferite le funzioni e i compiti attribuiti al ministero delle politiche agricole in materia di polizia forestale ambientale.
 
@@ -438,7 +1198,43 @@ Sono soppressi l'agenzia nazionale per la protezione dell'ambiente, i servizi te
 
 ## Art. 39. — (Funzioni dell'agenzia)
 
+1.
+                        
+                            
+                                L'agenzia svolge in particolare, le funzioni concernenti:
+ 
+                            
+                            
+                                a)
+                                
+                                    la protezione dell'ambiente, come definite dall'articolo 1 del decreto legge 4 dicembre 1993, n. 496, convertito dalla legge 21 gennaio 1994, n. 61, nonche' le altre assegnate all'agenzia medesima con decreto del ministro dell'ambiente e della tutela del territorio;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il riassetto organizzativo e funzionale della difesa del suolo e delle acque di cui agli articoli 1 e 4 della legge 18 maggio 1989, n. 183, nonche' ogni altro compito e funzione di rilievo nazionale di cui all'articolo 88 del decreto legislativo 31 marzo 1998, n. 112 (( , ad eccezione dell'emanazione della normativa tecnica di cui all'articolo 88, comma 1, lettera v), del decreto legislativo 31 marzo 1998, n. 112, che rientra nell'esclusiva competenza del Registro italiano dighe - RID. ))
+
 ## Art. 40. — (Abrogazioni)
+
+1.
+                        
+                            
+                                Sono abrogate le seguenti disposizioni:
+ 
+                            
+                            
+                                a)
+                                
+                                    l'articolo 9, commi 1, 2, 3, 5, 6, 7, 8, 9, 10, 11, 12 e 13, della legge 18 maggio 1989, n. 183;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'articolo 1-ter, 2 e 2-ter del decreto legge 4 dicembre 1993, n. 496, convertito, con modificazioni, dalla legge 21 gennaio 1994,n. 61.
 
 ## - CAPO IX MINISTERO DELLE INFRASTRUTTURE E DEI TRASPORTI
 
@@ -451,6 +1247,59 @@ Al ministero sono attribuite le funzioni e i compiti spettanti allo Stato in mat
 Al ministero sono trasferite, con le inerenti risorse, le funzioni e i compiti dei ministeri dei lavori pubblici e dei trasporti e della navigazione, nonche' del dipartimento per le aree urbane istituito presso la presidenza del consiglio dei ministri, eccettuate quelle attribuite, anche dal presente decreto, ad altri ministeri o agenzie e fatte in ogni caso salve le funzioni conferite alle regioni e agli enti locali, anche ai sensi e per gli effetti degli articoli 1, comma 2, e 3, comma 1, lettere a) e b), della legge 15 marzo 1997, n. 59.
 
 ## Art. 42. — (Aree funzionali)
+
+1.
+                        
+                            
+                                Il ministero svolge in particolare le funzioni e i compiti di spettanza statale nelle seguenti aree funzionali:
+ 
+                            
+                            
+                                a)
+                                
+                                    programmazione, finanziamento, realizzazione e gestione delle reti infrastrutturali di interesse nazionale, ivi comprese le reti elettriche, idrauliche e acquedottistiche, e delle altre opere pubbliche di competenza dello Stato, ad eccezione di quelle in materia di difesa; qualificazione degli esecutori di lavori pubblici; costruzioni nelle zone sismiche (( . . . ));
+
+                                
+                            
+                            
+                                b)
+                                
+                                    edilizia residenziale; aree urbane;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    navigazione e trasporto marittimo; vigilanza sui porti; demanio marittimo; sicurezza della navigazione e trasporto nelle acque interne; programmazione, previa intesa con le regioni interessate, del sistema idroviario padano-veneto; aviazione civile e trasporto aereo;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    trasporto terrestre, circolazione dei veicoli e sicurezza dei trasporti terrestri;
+
+                                
+                            
+                            
+                                d-bis)
+                                
+                                    sicurezza e regolazione tecnica, salvo quanto disposto da leggi e regolamenti, concernenti le competenze disciplinate dall'articolo 41 e dal presente comma, ivi comprese le espropriazioni;
+
+                                
+                            
+                            
+                                d-ter)
+                                
+                                    pianificazione delle reti, della logistica e dei nodi infrastrutturali di interesse nazionale, realizzazione delle opere corrispondenti e valutazione dei relativi interventi;
+
+                                
+                            
+                            
+                                d-quater)
+                                
+                                    politiche dell'edilizia concernenti anche il sistema delle citta' e delle aree metropolitane.
 
 Il ministero svolge, altresi', funzioni e compiti di monitoraggio, controllo e vigilanza nelle aree di cui al comma 1, nonche' funzioni di vigilanza sui gestori del trasporto derivanti dalla legge, dalla concessione e dai contratti di programma o di servizio, fatto salvo quanto previsto dal decreto legislativo 16 marzo 1999, n. 79.
 
@@ -470,9 +1319,80 @@ Con decreto del Presidente della Repubblica, da emanare ai sensi dell'articolo 1
 
 Dalla data di entrata in vigore del regolamento di cui al comma 2-quinquies sono soppresse le strutture periferiche del Ministero dei trasporti e della navigazione e del Ministero dei lavori pubblici.
 
+2-septies.
+                        
+                            
+                                Con uno o piu' decreti del Presidente della Repubblica, da emanare ai sensi dell'articolo 17, comma 4-bis, della legge 23 agosto 1988, n. 400, su proposta del Ministro delle infrastrutture e dei trasporti, sentite le organizzazioni sindacali maggiormente rappresentative, di concerto con il Ministro per la funzione pubblica e con il Ministro dell'economia e delle finanze, si provvede, nel rispetto delle disposizioni di cui al decreto legislativo 30 marzo 2001, n. 165, e successive modificazioni:
+ 
+                            
+                            
+                                a)
+                                
+                                    alla riorganizzazione del Ministero;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    al riordinamento del Consiglio superiore dei lavori pubblici quale organo di consulenza obbligatoria del Governo e organo di consulenza facoltativa per le regioni e gli altri enti pubblici competenti in materia di lavori pubblici.
+
 ## Art. 44. — (Agenzia dei trasporti terrestri e delle infrastrutture)
 
 E' istituita l'agenzia dei trasporti terrestri e delle infrastrutture nelle forme disciplinate dagli articoli 8 e 9.
+
+2.
+                        
+                            
+                                L'agenzia svolge le funzioni spettanti allo Stato in relazione:
+ 
+                            
+                            
+                                a)
+                                
+                                    alla definizione degli standard e prescrizioni tecniche in materia di sicurezza dei trasporti terrestri;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    alla vigilanza ai fini della sicurezza dei trasporti ad impianto fisso, fatto salvo quanto stabilito dall'articolo 4, comma 1, lettera b), del decreto legislativo 19 novembre 1997, n. 422;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    alla omologazione e approvazione dei veicoli a motore e loro rimorchi, loro componenti e unita' tecniche indipendenti;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    alla vigilanza e al controllo tecnico in materia di revisioni generali e parziali sui veicoli a motore e i loro rimorchi, anche se svolte tramite officine autorizzate ai sensi della lettera d) del comma 3 dell'articolo 105 del decreto legislativo 31 marzo 1998, n. 112, nonche' in materia di visite e prove di veicoli in circolazione per trasporti nazionali e internazionali, anche con riferimento ai veicoli adibiti al trasporto di merci pericolose e deperibili;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    alla certificazione attribuita all'organismo notificato di cui all'articolo 20 della direttiva 96/48 CE del Consiglio del 23 luglio 1996, ed in generale alla certificazione in applicazione delle norme di base nell'ambito dei sistemi, sottosistemi, prodotti e processi relativi ai sistemi di trasporto;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    alla definizione di standard e prescrizioni tecniche in materia di sicurezza stradale e norme tecniche relative alle strade e loro pertinenze ed alla segnaletica stradale, ai sensi del decreto legislativo 30 aprile 1992, n. 285;
+
+                                
+                            
+                            
+                                g)
+                                
+                                    ai collegamenti informatici e alle banche dati nazionali gestiti presso il centro elaborazione dati della motorizzazione civile.
 
 Spetta altresi' all'agenzia il coordinamento dell'interoperabilita' dei sistemi di trasporto.
 
@@ -495,6 +1415,31 @@ Al Ministero sono trasferite, con le inerenti risorse, le funzioni del Ministero
 Al ministero sono altresi' trasferite, con le inerenti risorse, le funzioni che, da parte di apposite strutture e con riferimento alle materie di cui al comma 1, sono esercitate: dal ((Ministero degli affari esteri e della cooperazione internazionale)), in materia di tutela previdenziale dei lavoratori emigrati; dal ministero dei trasporti e della navigazione, in materia di vigilanza sul trattamento giuridico, economico, previdenziale ed assistenziale del personale delle aziende autoferrotranviarie e delle gestioni governative, nonche' in materia di organizzazione, assistenza e previdenza del lavoro marittimo, portuale e della pesca; dallo stesso ministero dei trasporti e della navigazione in materia di previdenza e assistenza dei lavoratori addetti ai servizi di trasporto aereo; dal ministero dell'industria, del commercio e dell'artigianato, in materia di servizio ispettivo per la sicurezza mineraria e di vigilanza sull'applicazione della legislazione attinente alla salute sui luoghi di lavoro; dal ministero dell'interno, iniziative di cooperazione internazionale e attivita' di prevenzione e studio sulle emergenze sociali. PERIODO ABROGATO DAL D.LGS. 29 ottobre 1999, n. 419.
 
 ## Art. 46. — (Aree funzionali)
+
+1.
+                        
+                            
+                                Il Ministero, in particolare, svolge le funzioni e i compiti di spettanza statale nelle seguenti aree funzionali: 
+ 
+                            
+                            
+                                a)
+                                
+                                    politiche sociali, di inclusione, coesione e protezione sociale; terzo settore; politiche per i flussi migratori per motivi di lavoro e politiche per l'inclusione dei cittadini stranieri; coordinamento e raccordo con gli organismi europei e internazionali, nelle materie di competenza; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    politiche del lavoro e per l'occupazione, anche in ottica di genere; servizi per il lavoro; regolazione dei rapporti di lavoro e tutela dei lavoratori; tutela della salute e della sicurezza nei luoghi di lavoro; mediazione per la soluzione di controversie collettive di lavoro; rappresentativita' sindacale; politiche previdenziali e assicurative; coordinamento e raccordo con gli organismi europei e internazionali, nelle materie di competenza; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    amministrazione generale; servizi comuni e indivisibili; affari generali e attivita' di gestione del personale; programmazione generale del fabbisogno del Ministero e coordinamento delle attivita' in materia di reclutamento del personale; rappresentanza della parte pubblica nei rapporti sindacali; tenuta e gestione di banche dati, delle piattaforme e dei sistemi informatici; acquisti centralizzati e gestione logistica; coordinamento della comunicazione istituzionale; attivita' di analisi, ricerca e studio sulle attivita' di competenza del Ministero; coordinamento e raccordo con gli organismi europei e internazionali, nelle materie di competenza.
 
 Il Ministero svolge, altresi', i compiti di vigilanza su enti e attivita' previsti dalla legislazione vigente e assicura il coordinamento e la gestione delle risorse e programmi a valere sul bilancio ((dell'Unione europea)) o a questo complementari.
 
@@ -521,6 +1466,24 @@ Al Ministero sono trasferite, con inerenti risorse, le funzioni del Ministero de
 ## Art. 47-ter. — Aree funzionali
 
 
+
+1.
+                        
+                            
+                                Il Ministero, in particolare, svolge le funzioni di spettanza statale nelle seguenti aree funzionali:
+ 
+                            
+                            
+                                a)
+                                
+                                    ordinamento sanitario: indirizzi generali e coordinamento in materia di prevenzione, diagnosi, cura e riabilitazione delle malattie umane, ivi comprese le malattie infettive e diffusive; prevenzione, diagnosi e cura delle affezioni animali, ivi comprese le malattie infettive e diffusive e le zoonosi; ((programmazione tecnico-sanitaria di rilievo nazionale e indirizzo, coordinamento e monitoraggio delle attivita' tecniche sanitarie regionali, di concerto con il Ministero dell'economia e delle finanze per tutti i profili attinenti al concorso dello Stato al finanziamento del Servizio sanitario nazionale, anche quanto ai piani di rientro Regionali)); rapporti con le organizzazioni internazionali e l'Unione europea; ricerca scientifica in materia sanitaria;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    tutela della salute umana e sanita' veterinaria: tutela della salute umana anche sotto il profilo ambientale, controllo e vigilanza sui farmaci, sostanze e prodotti destinati all'impiego in medicina e sull'applicazione delle biotecnologie; adozione di norme, linee guida e prescrizioni tecniche di natura igienico-sanitaria, relative anche a prodotti alimentari; ((organizzazione dei servizi sanitari, professioni sanitarie, concorsi e stato giuridico del personale del Servizio sanitario nazionale, di concerto con il Ministero dell'economia e delle finanze per tutti i profili di carattere finanziario)); polizia veterinaria; tutela della salute nei luoghi di lavoro.
 
 ## Art. 47-quater. — Ordinamento
 
@@ -582,6 +1545,80 @@ Al ministero sono altresi' trasferite, con le inerenti risorse, le funzioni eser
 
 ## Art. 53. — (Aree funzionali)
 
+1.
+                        
+                            
+                                Il Ministero, in particolare, svolge le funzioni e i compiti di spettanza dello Stato nelle seguenti aree funzionali: 
+ 
+                            
+                            
+                                a)
+                                
+                                    tutela dei beni culturali e paesaggistici; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    gestione e valorizzazione ((, anche economica, del patrimonio culturale materiale e immateriale)), degli istituti e dei luoghi della cultura; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    promozione dello spettacolo, delle attivita' cinematografiche, teatrali, musicali, di danza, circensi, dello spettacolo viaggiante; promozione delle produzioni cinematografiche, audiovisive, radiotelevisive e multimediali; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    promozione delle attivita' culturali; sostegno all'attivita' di associazioni, fondazioni, accademie e altre istituzioni di cultura; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    studio, ricerca, innovazione ed alta formazione nelle materie di competenza; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    promozione del libro e sviluppo dei servizi bibliografici e bibliotecari nazionali; tutela del patrimonio bibliografico; gestione e valorizzazione delle biblioteche nazionali; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    tutela del patrimonio archivistico; gestione e valorizzazione degli archivi statali; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    diritto d'autore e disciplina della proprieta' letteraria; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    promozione delle imprese culturali e creative, della creativita' contemporanea, della cultura urbanistica e architettonica e partecipazione alla progettazione di opere destinate ad attivita' culturali; 
+
+                                
+                            
+                            
+                                i-bis)
+                                
+                                    vigilanza sull'Istituto per il credito sportivo e culturale Spa, per quanto di competenza.
+
 ## Art. 54. — Ordinamento
 
 ((
@@ -627,6 +1664,45 @@ Il numero degli uffici dirigenziali generali, incluso il segretario generale, ((
 
 ## Art. 55. — (Procedura di attuazione ed entrata in vigore)
 
+1.
+                        
+                            
+                                A decorrere dalla data del decreto di nomina del primo governo costituito a seguito delle prime elezioni politiche successive all'entrata in vigore del presente decreto legislativo e salvo che non sia diversamente disposto dalle norme del presente decreto:
+ 
+                            
+                            
+                                a)
+                                
+                                    sono istituiti:
+ - il ministero dell'economia e delle finanze,
+ - il ministero delle attivita' produttive,
+ - il ministero dell'ambiente e della tutela del territorio,
+ - il ministero delle infrastrutture e dei trasporti
+ - il ministero del lavoro e delle politiche sociali,
+ - il ministero dell'istruzione, dell'universita' e della ricerca.
+ - il Ministero della salute.
+
+                                
+                            
+                            
+                                b)
+                                
+                                    sono soppressi:
+ - il ministero del tesoro, del bilancio e della programmazione economica,
+ - il ministero delle finanze,
+ - il ministero dell'industria, del commercio e dell'artigianato,
+ - il ministero del commercio con l'estero,
+ - il dipartimento per il turismo della presidenza del Consiglio dei ministri,
+ - il ministero dell'ambiente,
+ - il ministero dei lavori pubblici,
+ - il ministero dei trasporti e della navigazione,
+ - il dipartimento per le aree urbane della Presidenza del Consiglio dei Ministri,
+ - il ministero del lavoro e della previdenza sociale,
+ - il ministero della sanita',
+ - il dipartimento per le politiche sociali della Presidenza del Consiglio dei ministri,
+ - il ministero della pubblica istruzione,
+ - il ministero dell'universita' e della ricerca scientifica e tecnologica.
+
 Alla data di entrata in vigore del presente decreto legislativo il ministro e il ministero di grazia e giustizia assumono rispettivamente la denominazione di ministro della giustizia e ministero della giustizia e il ministro e il ministero per le politiche agricole assumono rispettivamente la denominazione di ministro delle politiche agricole e forestali e ministero delle politiche agricole e forestali.
 
 Sino all'attuazione del comma 1, con regolamento adottato ai sensi del comma 4 bis dell'articolo 17 della legge 23 agosto 1988, n. 400, si puo' provvedere al riassetto dell'organizzazione dei singoli ministeri, in conformita' con la riorganizzazione del governo e secondo i criteri ed i principi previsti dal presente decreto legislativo.
@@ -646,6 +1722,59 @@ All'articolo 46, comma 2, del decreto legislativo 3 febbraio 1993, n. 29, le par
 ## - CAPO II RIFORMA DEL MINISTERO DELLE FINANZE E DELL'AMMINISTRAZIONE FISCALE Sezione I (Ministero delle finanze)
 
 ## Art. 56. — (Attribuzioni del ministero delle finanze)
+
+1.
+                        
+                            
+                                Il ministero delle finanze svolge le seguenti funzioni statali:
+ 
+                            
+                            
+                                a)
+                                
+                                    analisi, indagini e studi sulle politiche fiscali e sulla loro attuazione, ai fini della valutazione dei sistema tributario e delle scelte di settore in sede nazionale, comunitaria e internazionale;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    predisposizione dei relativi atti normativi, di programmazione e di indirizzo e cura dei rapporti interni ed internazionali per il conseguimento degli obiettivi fissati;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    indirizzo, vigilanza e controllo sui risultati di gestione delle agenzie fiscali, nel rispetto dell'autonomia gestionale ad esse attribuita; esercizio dei poteri di coordinamento e vigilanza attribuiti dalla legge su altri enti o organi che comunque esercitano funzioni in settori della fiscalita' di competenza dello Stato;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    coordinamento, secondo le modalita' previste dal presente decreto e salva la possibilita' di definire autonomamente forme di diretta collaborazione tra loro, delle attivita' e dei rapporti tra le agenzie fiscali e con gli altri enti e organi di cui alla lettera c);
+
+                                
+                            
+                            
+                                e)
+                                
+                                    coordinamento, monitoraggio e controllo, anche attraverso apposite strutture per l'attuazione di strategie di integrazione tra i sistemi del ministero, delle agenzie e della guardia di finanza, del sistema informativo della fiscalita' e della rete unitaria di settore;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    comunicazione istituzionale con i contribuenti e con l'opinione pubblica per favorire la corretta applicazione della legislazione tributaria;
+
+                                
+                            
+                            
+                                g)
+                                
+                                    amministrazione del personale e delle risorse necessarie allo svolgimento dei compiti del ministero e all'attivita' giurisdizionale delle commissioni tributarie.
 
 Fermi restando l'articolo 1 della legge 23 aprile 1959, n. 189, l'autonomia organizzativa ed i compiti di polizia economica e finanziaria attribuiti al corpo della guardia di finanza, il coordinamento fra la guardia di finanza e le agenzie fiscali nelle attivita' operative inerenti alle funzioni trasferite alle agenzie stesse e' curato sulla base delle direttive impartite dal ministro delle finanze per realizzare la migliore collaborazione nella lotta all'evasione fiscale.
 
@@ -673,6 +1802,95 @@ L'organizzazione, la disciplina degli uffici e le dotazioni organiche del minist
 ## Art. 59. — (Rapporti con le agenzie fiscali)
 
 Il ministro delle finanze dopo l'approvazione da parte del Parlamento del documento di programmazione economica-finanziaria ed in coerenza con i vincoli e gli obiettivi stabiliti in tale documento, determina annualmente, e comunque entro il mese di settembre, con un proprio atto di indirizzo e per un periodo almeno triennale, gli sviluppi della politica fiscale, le linee generali e gli obiettivi della gestione tributaria, le grandezze finanziarie e le altre condizioni nelle quali si sviluppa l'attivita' delle agenzie fiscali. Il documento di indirizzo e' trasmesso al Parlamento.
+
+2.
+                        
+                            
+                                Il ministro e ciascuna agenzia, sulla base del documento di indirizzo, stipulano una convenzione triennale, con adeguamento annuale per ciascun esercizio finanziario, con la quale vengono fissati: 
+ 
+                            
+                            
+                                a)
+                                
+                                    i servizi dovuti e gli obiettivi da raggiungere; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le direttive generali sui criteri della gestione ed i vincoli da rispettare; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    le strategie per il miglioramento; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    le risorse disponibili; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    gli indicatori ed i parametri in base ai quali misurare l'andamento della gestione.
+
+3.
+                        
+                            
+                                La convenzione prevede, inoltre: 
+ 
+                            
+                            
+                                a)
+                                
+                                    le modalita' di verifica dei risultati di gestione; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le disposizioni necessarie per assicurare al ministero la conoscenza dei fattori gestionali interni all'agenzia, quali l'organizzazione, i processi e l'uso delle risorse. Le informazioni devono essere assunte in forma organizzata e sistematica ed esser tali da consentire una appropriata valutazione dell'attivita' svolta dall'agenzia; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    le modalita' di vigilanza sull'operato dell'agenzia sotto il profilo della trasparenza, dell'imparzialita' e della correttezza nell'applicazione delle norme, con particolare riguardo ai rapporti con i contribuenti.
+
+4.
+                        
+                            
+                                Nella convenzione sono stabiliti, nei limiti delle risorse stanziate su tre capitoli che vanno a comporre una unita' previsionale di base per ciascuna agenzia, gli importi che vengono trasferiti, distinti per: 
+ 
+                            
+                            
+                                a)
+                                
+                                    gli oneri di gestione calcolati, per le diverse attivita' svolte dall'agenzia, sulla base di una efficiente conduzione aziendale e dei vincoli di servizio imposti per esigenze di carattere generale; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le spese di investimento necessarie per realizza e i miglioramenti programmati; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    la quota incentivante connessa al raggiungimento degli obiettivi della gestione e graduata in modo da tenere conto del miglioramento dei risultati complessivi e del recupero di gettito nella lotta all'evasione effettivamente conseguiti.
 
 Il ministero e le agenzie fiscali possono promuovere la costituzione o partecipare a societa' e consorzi che, secondo le disposizioni del codice civile, abbiano ad oggetto la prestazione di servizi strumentali all'esercizio delle funzioni pubbliche ad essi attribuite; a tal fine, puo' essere ampliato l'oggetto sociale della societa' costituita in base alle disposizioni dell'articolo 10, comma 12, della legge 8 maggio 1998, n.146, fermo restando che il ministero e le agenzie fiscali detengono la maggioranza delle azioni ordinarie della predetta societa'. 
  ((48))
@@ -781,6 +1999,31 @@ L'articolazione degli uffici, a livello centrale e periferico, e' stabilita con 
 
 ## Art. 67. — (Organi)
 
+1.
+                        
+                            
+                                Sono organi delle agenzie fiscali: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il direttore dell'agenzia, scelto in base a criteri di alta professionalita', di capacita' manageriale e di qualificata esperienza nell'esercizio di funzioni attinenti al settore operativo dell'agenzia; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il comitato di gestione, composto da quattro membri e dal direttore dell'agenzia, che lo presiede; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il collegio dei revisori dei conti.
+
 Il direttore e' nominato con decreto del Presidente della Repubblica previa deliberazione del consiglio dei ministri, su proposta del ministro delle finanze, sentita la conferenza unificata Stato-regioni-autonomie locali. L'incarico ha la durata massima di tre anni, e' rinnovabile ed e' incompatibile con altri rapporti di lavoro subordinato e con qualsiasi altra attivita' professionale pubblica o privata. (13)
 
 Il comitato di gestione e' nominato per la durata di tre anni con decreto del Presidente del Consiglio dei Ministri, su proposta del Ministro dell'economia e delle finanze. Meta' dei componenti sono scelti tra i dipendenti di pubbliche amministrazioni, ferma restando ai fini della scelta la legittimazione gia' riconosciuta a quelli rientranti nei settori di cui all'articolo 19, comma 6, terzo periodo, del decreto legislativo 30 marzo 2001, n. 165, ovvero tra soggetti ad esse esterni dotati di specifica competenza professionale attinente ai settori nei quali opera l'agenzia. I restanti componenti sono scelti tra i dirigenti dell'agenzia, ((anche)) in servizio, in ragione ((della competenza del comitato a svolgere anche funzioni di alta consulenza)) nei riguardi del direttore relativamente alle attribuzioni di competenza. (31)
@@ -817,7 +2060,32 @@ La nomina e' disposta per il periodo di un anno e puo' essere prorogata per non 
 
 ## Art. 70. — (Bilancio e finanziamento)
 
+1.
+                        
+                            
+                                Le entrate delle agenzie fiscali sono costituite da:
+ 
+                            
+                            
+                                a)
+                                
+                                    i finanziamenti erogati in base alle disposizioni dell'articolo 59 del presente decreto legislativo a carico del bilancio dello Stato;
 
+                                
+                            
+                            
+                                b)
+                                
+                                    i corrispettivi per i servizi prestati a soggetti pubblici o privati, incluse le amministrazioni statali per le prestazioni che non rientrano nella convenzione di cui all'articolo 59;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    altri proventi patrimoniali e di gestione.
+
+(( 2. I finanziamenti di cui al comma 1, lettera a), vengono determinati in modo da tenere conto dell'incremento dei livelli di adempimento fiscale e del recupero di gettito nella lotta all'evasione. I finanziamenti vengono accreditati a ciascuna Agenzia su apposita contabilita' speciale soggetta ai vincoli del sistema di tesoreria unica))
 
 Le agenzie, che possono stipulare convenzioni con aziende di credito per la gestione del servizio di tesoreria, non hanno facolta' di accendere mutui, ne' di adire ad alcuna forma di indebitamento, fatta eccezione per le anticipazioni di cassa previste nelle convenzioni per la gestione del servizio di tesoreria.
 
@@ -832,6 +2100,38 @@ Le agenzie fiscali non possono impegnare o erogare spese eccedenti le entrate. I
 Il rapporto di lavoro del personale dipendente delle agenzie fiscali e' disciplinato dalla contrattazione collettiva e dalle leggi che regolano il rapporto di lavoro privata, in conformita' delle norme del decreto legislativo 3 febbraio 1993, n. 29, e successive modificazioni ed integrazioni, anche per quanto attiene alla definizione del comparto di contrattazione per le agenzie fiscali; ciascuna agenzia definisce la contrattazione integrativa aziendale di secondo livello.
 
 Al fine di garantire l'imparzialita' e il buon andamento nell'esercizio della funzione pubblica assegnata alle agenzie fiscali, con regolamento da emanare entro sei mesi dall'entrata in vigore del presente decreto legislativo, ai sensi dell'articolo 17, comma 2, della legge 23 agosto 1988, n. 400, sono emanate disposizioni idonee a garantire l'indipendenza e l'autonomia tecnica del personale.
+
+3.
+                        
+                            
+                                Il regolamento di amministrazione e' deliberato, su proposta del direttore dell'agenzia, dal ((comitato di gestione)) ed e' sottoposto al ministro vigilante secondo le disposizioni dell'articolo 60 del presente decreto legislativo. In particolare esso, in conformita' con i principi contenuti nel decreto legislativo 3 febbraio 1993, n.29, e successive modificazioni ed integrazioni:
+ 
+                            
+                            
+                                a)
+                                
+                                    disciplina l'organizzazione e il funzionamento dell'agenzia;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    detta le norme per l'assunzione del personale dell'agenzia, per l'aggiornamento e per la formazione professionale;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    fissa le dotazioni organiche complessive del personale dipendente dall'agenzia;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    determina le regole per l'accesso alla dirigenza.
 
 ## Art. 72. — (Rappresentanza in giudizio)
 

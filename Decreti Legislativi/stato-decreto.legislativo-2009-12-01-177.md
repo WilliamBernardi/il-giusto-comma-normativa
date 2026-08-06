@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
 vigenza_date: 2012-07-07
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:22Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -42,6 +42,39 @@ DigitPA svolge funzioni di natura progettuale, tecnica e operativa, con la missi
 
 Al fine di conseguire le finalita' di cui all'articolo 2, DigitPA opera, nell'ambito delle direttive del Presidente del Consiglio dei Ministri o del Ministro delegato, ed in coerenza con il Piano ICT nella pubblica amministrazione centrale, di cui all'articolo 22, comma 1, sulla base di un Piano triennale per la programmazione di propri obiettivi ed attivita', aggiornato annualmente, nel quale sono determinate le metodologie per il raggiungimento dei risultati attesi, le risorse umane e finanziarie necessarie al fine. Il Piano triennale e' approvato con decreto del Presidente del Consiglio dei Ministri o del Ministro delegato, di concerto con il Ministro dell'economia e delle finanze.
 
+2.
+                        
+                            
+                                A DigitPA, in particolare, sono affidate le seguenti funzioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    funzioni di consulenza e proposta. L'Ente fornisce assistenza tecnica, anche nella elaborazione di studi e schemi di atti normativi, al Presidente del Consiglio dei Ministri o al Ministro da lui delegato in materia di amministrazione digitale; in coerenza con le indicazioni della Conferenza unificata, fornisce collaborazioni tecniche e consulenza tecnica alle regioni e agli enti locali in materia di innovazione tecnologica e di informatizzazione, anche per l'utilizzo delle relative risorse finanziarie pubbliche; propone, ai fini della pianificazione triennale dell'ICT, iniziative finalizzate alla realizzazione di sistemi innovativi in materia di ICT; svolge, anche sulla base di apposite convenzioni, attivita' di supporto, consulenza e assistenza per amministrazioni pubbliche ed organismi di diritto pubblico, anche prevedendo il ristoro dei costi sostenuti; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    funzioni di emanazione di regole, standard e guide tecniche, nonche' di vigilanza e controllo sul rispetto di norme. L'Ente fissa regole tecniche, standard e guide tecniche, anche attraverso atti amministrativi generali; rende pareri su atti normativi nei casi previsti dall'ordinamento; opera come autorita' di certificazione della firma digitale ed e' preposto alla tenuta di elenchi e registri nei casi previsti dall'ordinamento; contribuisce all'attuazione di iniziative volte all'attivita' di informatizzazione della normativa statale vigente; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    funzioni di valutazione, di monitoraggio e di coordinamento.
+L'Ente formula pareri alle amministrazioni sulla coerenza strategica e sulla congruita' economica e tecnica degli interventi e dei contratti relativi all'acquisizione di beni e servizi informatici e telematici, anche ai sensi del comma 3, e monitora l'esecuzione degli interventi e dei contratti suddetti; svolge attivita' di monitoraggio dell'attuazione dei piani di ICT delle pubbliche amministrazioni; coordina, ove richiesto, le attivita' delle singole amministrazioni e ne verifica i risultati sotto il profilo dell'efficienza, efficacia e qualita' dei sistemi informativi; effettua valutazioni, preventive e successive, sull'impatto di iniziative innovative nel settore dell'ICT; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    funzioni di predisposizione, realizzazione e gestione di interventi e progetti di innovazione. DigitPA propone progetti in tema di amministrazione digitale; realizza e gestisce, direttamente o avvalendosi di soggetti terzi, specifici progetti in tema di amministrazione digitale ad esso assegnati; effettua, anche in partenariato, attivita' di studio, ricerca, sviluppo e sperimentazione in materia di ICT, relazionando al Presidente del Consiglio dei Ministri o al Ministro delegato; svolge i compiti ad esso attribuiti dall'ordinamento in materia di reti telematiche delle pubbliche amministrazioni, di Sistema Pubblico di Connettivita' (SPC) e di Rete Internazionale della Pubblica Amministrazione (RIPA); svolge, secondo le modalita' previste dall'ordinamento, compiti tecnico-operativi in materia di formazione informatica del personale delle pubbliche amministrazioni.
+
 DigitPA esprime pareri tecnici, obbligatori e non vincolanti, sugli schemi di contratti stipulati dalle pubbliche amministrazioni centrali concernenti l'acquisizione di beni e servizi relativi ai sistemi informativi automatizzati per quanto concerne la congruita' tecnico-economica, qualora il valore lordo di detti contratti sia superiore a euro 1.000.000,00 nel caso di procedura negoziata e a euro 2.000.000,00 nel caso di procedura ristretta o di procedura aperta. ((Tali pareri sono facoltativi per le centrali di committenza e per le amministrazioni che ad esse ricorrono per le acquisizioni di beni e servizi)). Il parere dell'Ente e' reso entro il termine di quarantacinque giorni dal ricevimento della relativa richiesta. Si applicano le disposizioni dell'articolo 16 della legge 7 agosto 1990, n. 241 e successive modificazioni. Copia dei pareri tecnici attinenti a questioni di competenza dell'Autorita' per la vigilanza sui contratti pubblici di lavori, servizi e forniture e' trasmessa da DigitPA a detta Autorita'.
 
 Fermo restando quanto disposto all'articolo 22, l'Ente svolge ogni altra funzione prevista da leggi e regolamenti gia' attribuita al CNIPA, nell'ambito delle direttive del Presidente del Consiglio dei Ministri o del Ministro delegato.
@@ -49,6 +82,31 @@ Fermo restando quanto disposto all'articolo 22, l'Ente svolge ogni altra funzion
 ## - Capo II Organi e Direttore Generale
 
 ## Art. 4. — Organi
+
+1.
+                        
+                            
+                                Sono organi di DigitPA: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il Presidente; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il Comitato direttivo; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il Collegio dei revisori.
 
 ## Art. 5. — Il Presidente
 
@@ -77,6 +135,45 @@ Al fine di assicurare il raccordo ed il monitoraggio delle attivita' tecnico-sci
 ## Art. 6. — Il Comitato direttivo
 
 Il Comitato direttivo e' composto dal Presidente e da tre membri, scelti fra persone dotate di alta e riconosciuta competenza e professionalita' tecnica e gestionale. I componenti del Comitato direttivo sono nominati, su proposta del Ministro delegato, con decreto del Presidente del Consiglio dei Ministri. Il Comitato direttivo dura in carica quattro anni, i suoi componenti possono essere confermati una sola volta e ove pubblici dipendenti, sono collocati in posizione di fuori ruolo obbligatorio nell'amministrazione di provenienza secondo i rispettivi ordinamenti.
+
+2.
+                        
+                            
+                                Il Comitato direttivo ha poteri di programmazione, indirizzo, controllo e regolazione dell'attivita' dell'Ente. In particolare, il Comitato direttivo delibera: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il piano triennale di cui all'articolo 3, comma 1, e gli aggiornamenti annuali e ne verifica l'attuazione avvalendosi dell'Ufficio per il controllo strategico di cui all'articolo 5, comma 8; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il bilancio di previsione, le variazioni di bilancio ed il rendiconto consuntivo che vengono trasmessi al Presidente del Consiglio o al Ministro delegato e al Ministero dell'economia e delle finanze; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    su proposta del Direttore Generale e nei limiti delle disponibilita' economiche e della dotazione organica di cui al presente decreto, le norme di organizzazione e funzionamento, di ordinamento del personale e di amministrazione e gestione delle risorse economiche e finanziarie dell'Ente. Tali delibere, che non possono comunque incidere sulle competenze e sulla dotazione organica fissate ai sensi del presente decreto, sono proposte al Presidente del Consiglio dei Ministri o al Ministro delegato che le adotta con decreto, di concerto con il Ministro dell'economia e delle finanze; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    su proposta del Direttore Generale, il disciplinare per l'individuazione delle prestazioni per le quali e' consentito il ristoro dei costi; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    i pareri di cui all'articolo 3, comma 3, e le regole, gli standard e le guide tecniche di cui all'articolo 3, comma 2, lettera b).
 
 Ai fini delle deliberazioni, in caso di parita' di voti, prevale quello del Presidente.
 
@@ -186,6 +283,66 @@ La gestione finanziaria e' sottoposta al controllo consuntivo della Corte dei co
 
 ## Art. 18. — Entrate
 
+1.
+                        
+                            
+                                Le entrate dell'Ente, iscritte in un'unica sezione del bilancio di previsione, sono costituite: 
+ 
+                            
+                            
+                                a)
+                                
+                                    dal contributo finanziario ordinario dello Stato; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    dalle assegnazioni e dai contributi da parte di pubbliche amministrazioni centrali e locali per l'esecuzione di specifiche iniziative; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    dai contributi dell'Unione europea o di altri organismi internazionali per la partecipazione a programmi e progetti; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    dai contratti stipulati con terzi pubblici e privati per la fornitura di servizi; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    dai ricavi ottenuti attraverso la cessione di prodotti dell'ingegno o di know-how; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    da ogni altra eventuale entrata connessa alla sua attivita' o prevista dall'ordinamento; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    dall'avanzo presunto dell'esercizio precedente; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    entrate per partite di giro.
+
 DigitPA destina una quota delle risorse di cui al comma 1, lettere a), b), c), f), g) ed h) al finanziamento delle assunzioni di personale ai fini della copertura dei posti in dotazione organica.
 
 Nell'ambito di gare o accordi quadro predisposti direttamente o con altri soggetti, per l'espletamento delle funzioni di cui all'articolo 3, DigitPA riceve dalle amministrazioni contraenti, nell'ambito delle risorse ordinariamente destinate all'innovazione tecnologica, un contributo forfetario per spese di funzionamento secondo un importo determinato, in misura fissa ovvero compresa tra un minimo e un massimo, con decreto del Presidente del Consiglio dei Ministri, su proposta del Ministro per la pubblica amministrazione e l'innovazione, in percentuale sul valore del contratto sottoscritto. ((1))
@@ -198,6 +355,38 @@ Nell'ambito di gare o accordi quadro predisposti direttamente o con altri sogget
 ## Art. 19. — Eccedenze di bilancio
 
 All'Ente si applicano, ove non diversamente disposto e per quanto compatibili con il presente decreto, le disposizioni contenute nel decreto del Presidente del Consiglio dei Ministri 1° giugno 2007, n. 110. I termini: «Collegio» o: «Collegio del CNIPA» presenti nel citato decreto del Presidente del Consiglio dei Ministri n. 110 del 2007 sono sostituiti da: «Comitato direttivo». I termini: «CNIPA», «Centro Nazionale per l'informatica nella pubblica amministrazione», «Centro» sono sostituiti con: «DigitPA».
+
+2.
+                        
+                            
+                                Sono abrogate le seguenti norme del decreto del Presidente del Consiglio dei Ministri 1° giugno 2007, n. 110: 
+ 
+                            
+                            
+                                a)
+                                
+                                    articolo 12, comma 4; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    articolo 29, comma 2; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    articolo 30; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    articolo 38, comma 8.
 
 Qualora l'avanzo di esercizio di cui all'articolo 12 del decreto del Presidente del Consiglio dei Ministri 1° giugno 2007, n. 110, al netto delle somme vincolate, nonche' di quelle di cui al comma 5 del medesimo articolo e di cui all'articolo 15, comma 1, del medesimo decreto n. 110 del 2007, superi del dieci per cento l'importo della spesa sostenuta per il funzionamento, come risultante dal rendiconto finanziario, il Comitato direttivo delibera di versare l'eccedenza in entrata del bilancio dello Stato.
 
@@ -228,6 +417,31 @@ Le funzioni del CNIPA sono trasferite a DigitPA, secondo quanto disposto dal pre
 Dalla data di entrata in vigore del presente decreto, sono fatti salvi, fino alla loro naturale scadenza, i contratti e le convenzioni stipulati dalle pubbliche amministrazioni con il CNIPA.
 
 ## Art. 24. — Abrogazioni
+
+1.
+                        
+                            
+                                Dalla data di entrata in vigore del presente decreto: 
+ 
+                            
+                            
+                                a)
+                                
+                                    gli articoli 4, 5, 6, 7, 8, 9 e 17 del decreto legislativo n. 39 del 1993 sono abrogati; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    all'articolo 10, comma 6-ter, del decreto legislativo 30 luglio 1999, n. 303, modificato dall'articolo 5 del decreto legislativo 5 dicembre 2003, n. 343, l'ultimo periodo e' soppresso; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    ad eccezione dell'articolo 6, il decreto del Presidente del Consiglio dei Ministri 14 aprile 1994, n. 609, recante regolamento recante norme per l'organizzazione ed il funzionamento della Autorita' per l'informatica nella pubblica amministrazione, e' abrogato.
 
 La denominazione: «Centro nazionale per l'informatica nella pubblica amministrazione» ovunque presente nella vigente normativa e' sostituita dalla seguente: «DigitPA».
 

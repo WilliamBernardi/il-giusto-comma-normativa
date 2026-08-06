@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
 vigenza_date: 2016-04-13
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:30Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -26,9 +26,93 @@ Sulla proposta del Presidente del Consiglio dei Ministri e del Ministro per i ra
 
 ## Art. 1. — Finalita'
 
+1.
+                    
+                        
+                            Il presente decreto: 
+ 
+                        
+                        
+                            a)
+                            
+                                specifica i contenuti della delega di funzioni amministrative e legislative statali in materia di Universita' degli studi di Trento, di seguito in questo decreto denominata «Universita'», alla provincia autonoma di Trento, di seguito nel presente decreto denominata «provincia», e definisce i criteri e le modalita' per l'esercizio delle medesime funzioni; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                definisce le specifiche norme relative all'Universita', con particolare riferimento al suo assetto statutario; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                determina le modalita' per assicurare la piena integrazione e partecipazione dell'Universita' al sistema delle Universita' italiane e dell'ambito europeo ed internazionale.
+
 ## Art. 2. — Funzioni delegate alla Provincia
 
 Le funzioni in materia di Universita' degli Studi di Trento delegate con l'articolo 2, comma 122, della legge 23 dicembre 2009, n. 191, sono esercitate dalla Provincia in armonia con la Costituzione, i principi dell'ordinamento giuridico e i principi fondamentali della legislazione statale in materia di universita', nel rispetto di quanto previsto dallo Statuto speciale di autonomia del Trentino-Alto Adige, dal presente decreto nonche' dai vincoli derivanti dall'ordinamento dell'Unione europea e dagli obblighi internazionali.
+
+2.
+                    
+                        
+                            Nell'ambito della delega di cui al comma 1 la legge provinciale provvede, in particolare, a disciplinare: 
+ 
+                        
+                        
+                            a)
+                            
+                                il sistema della programmazione finanziaria e del finanziamento provinciale dell'Universita' per l'attuazione dei Piani strategici di Ateneo approvati dall'Universita' stessa compatibilmente con gli indirizzi generali contenuti nelle leggi e negli atti provinciali di pianificazione generale. Nella programmazione finanziaria disciplinata dalla legge provinciale rientrano anche gli indirizzi e i criteri relativi alla valutazione della sostenibilita'/compatibilita' finanziaria dei piani di Ateneo, il finanziamento e le altre misure di sostegno a favore dell'Universita' per il perseguimento delle proprie finalita', l'attuazione degli obiettivi e per la definizione degli strumenti regolamentari ed operativi che saranno adottati dall'Universita' medesima per la promozione del suo carattere internazionale e residenziale. Per il funzionamento dell'Universita' e per le attivita' di didattica e di ricerca le predette risorse non possono comunque essere stabilite in misura inferiore a quella spettante all'Universita' ai sensi dell'articolo 44 della legge 14 agosto 1982, n. 590, (Istituzione di nuove universita') ed alle altre universita' statali italiane in base ai parametri utilizzati per i medesimi periodi temporali dai competenti organi dello Stato nonche' a quelle assegnate, ai sensi della vigente legislazione provinciale, dalla Provincia all'Universita' medesima per il finanziamento di iniziative di natura ricorrente; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                i criteri e le procedure per la definizione delle risorse finanziarie e strumentali da assegnare all'Universita' sulla base dei seguenti principi e criteri direttivi: 
+ 1) e' previsto un riferimento temporale pluriennale; 
+ 2) e' prevista una quota base, disciplinata nel rispetto di quanto disposto alla lettera a), destinata al finanziamento delle spese di funzionamento dell'Universita'; 
+ 3) e' disciplinata una quota premiale, in relazione ai risultati raggiunti dall'Ateneo nell'ambito dei propri compiti istituzionali, tra i quali sono ricompresi anche il trasferimento tecnologico e i servizi, assicurando comunque un livello minimo non inferiore a quello utilizzato a livello nazionale per analoghe finalita'; 
+ 4) e' disciplinata una quota programmatica, destinata all'attuazione dei progetti di sviluppo dell'Universita' come individuati dalla programmazione strategica provinciale e dell'Ateneo, con riferimento anche alle correlate spese di investimento per beni mobili ed immobili, materiali ed immateriali; 
+ 5) e' disciplinato il finanziamento per l'edilizia universitaria nonche' la facolta' della Provincia di conferire beni, anche immobili, alla Fondazione di cui all'articolo 3, comma 2, lettera l): 
+ 6) e' disciplinato, ferma restando la potesta' legislativa spettante alla Provincia nella materia secondo il proprio ordinamento statutario, il finanziamento delle spese per il diritto allo studio, ivi comprese quelle in conto capitale non correlate a progetti di innovazione e sviluppo di cui ai punti precedenti. 
+
+                            
+                        
+                        
+                            c)
+                            
+                                gli indirizzi e i criteri generali per la definizione della disciplina, tra l'altro, del sistema di erogazione dei fondi, del regime di tesoreria e del relativo modello di funzionamento e dei controlli sulla gestione e i risultati dei bilanci. La legge provinciale puo' altresi' prevedere la facolta' dell'Universita' di utilizzare i beni della Provincia e di avvalersi dell'attivita' e dei beni delle societa' e degli altri enti strumentali della Provincia, nonche' di partecipare al loro capitale sociale; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                i criteri e le modalita', fondati sull'utilizzazione di indicatori applicati ad un insieme di Universita' di riferimento, anche operanti in altri stati, per assicurare la valutazione, sul piano finanziario, organizzativo e funzionale, dei risultati ottenuti con i finanziamenti di cui alla lettera b) e per l'adozione delle misure correttive da assumersi con gli atti di programmazione successivi, sulla base di quanto disposto da questo comma, nel rispetto comunque dell'autonomia di valutazione e di programmazione di competenza dell'Universita' secondo quanto disposto dal suo Statuto e da questo decreto. Per la valutazione la Provincia si avvale dell'Agenzia nazionale costituita per la valutazione delle universita' statali. Puo' avvalersi, in aggiunta, anche di ulteriori organismi, operanti in ambito europeo o estero. Indicatori, universita' di riferimento e organismo di valutazione sono individuati dalla Provincia, sentita l'Universita' e il Ministero competente in materia di universita'. Il Ministero e l'Universita' si esprimono entro trenta giorni dal ricevimento della proposta: trascorso inutilmente tale termine la Provincia puo' assumere il provvedimento. Ove il provvedimento sia adottato non conformandosi alle osservazioni presentate, esso deve specificatamente motivare ogni scostamento; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                i criteri, gli strumenti e le modalita' per l'attuazione del diritto allo studio, perseguendo sia l'offerta di pari opportunita' con il superamento degli ostacoli di' ordine economico e sociale al pieno sviluppo della persona, sia il pieno sostegno alle persone piu' capaci e meritevoli sotto il profilo dei risultati raggiunti, al fine del perseguimento di obiettivi di eccellenza; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                la promozione, fermo restando il rispetto dell'autonomia dell'Universita', della collaborazione tra la stessa e le altre universita', gli enti di ricerca ed altri soggetti, pubblici e privati, sia operanti nel territorio provinciale che in ambito nazionale ed internazionale; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                la promozione, fermo restando il rispetto dell'autonomia dell'Universita', della collaborazione tra la stessa e il sistema educativo di istruzione e formazione.
 
 In relazione a quanto disposto dall'articolo 79, comma 3, dello Statuto speciale, e nelle more dell'adozione del bilancio consolidato, spetta alla Provincia stabilire, d'intesa con l'Universita', gli obblighi e i vincoli per l'attuazione del concorso al perseguimento degli obiettivi di finanza pubblica con riferimento all'Universita'. In caso di mancato raggiungimento dell'intesa entro il 31 maggio dell'anno di riferimento, trovano applicazione per l'Universita' le disposizioni previste a livello statale.
 
@@ -38,9 +122,224 @@ Fermo restando quanto previsto dal presente articolo in ordine al finanziamento 
 
 ## Art. 3. — Disposizioni riguardanti l'Universita'
 
+1.
+                    
+                        
+                            L'Universita' e' disciplinata dal proprio Statuto, definito nel rispetto della Costituzione e di quanto disposto dal presente decreto. Il predetto Statuto e' altresi' definito in armonia con i principi fondamentali delle leggi statali in materia di universita' e nel rispetto dei seguenti principi e criteri direttivi: 
+ 
+                        
+                        
+                            a)
+                            
+                                il perseguimento di una pluralita' di finalita', nello svolgimento di ciascuna delle quali l'Universita' deve tendere al raggiungimento di livelli di qualita' allineati ai migliori standard internazionali; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                la particolare rilevanza assegnata allo sviluppo di aree scientifiche, in ambito sia umanistico che scientifico-tecnologico, secondo un approccio del tipo research-intensive, con la presenza di Scuole di dottorato orientate al raggiungimento di livelli di elevata qualita' aventi come riferimento parametri europei, quali quelli adottati dalle principali agenzie di finanziamento alla ricerca, aperte alla partecipazione competitiva di tutti i ricercatori europei; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                la definizione di un modello organizzativo, funzionale e di governo dell'Universita' in cui ciascuna articolazione o struttura e' chiamata ad un esercizio di auto-valutazione, di individuazione delle funzioni nelle quali ritiene di potere eccellere in un quadro comparativo internazionale e di conseguente definizione degli obiettivi sui quali ottenere risorse ed essere successivamente valutata; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                l'attribuzione agli organi centrali dell'Ateneo della valutazione della congruenza fra obiettivi e risorse a disposizione della struttura da un lato e obiettivi complessivi dell'Universita' e risorse attivabili dall'altro; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                l'adozione di un progetto strategico che stabilisce per ciascuna articolazione dell'Ateneo e per ciascuna struttura una composizione adeguata fra le diverse finalita' perseguite dall'Universita' e la successiva valutazione del livello di raggiungimento degli obiettivi stabiliti. Il metodo di valutazione e' congruente con gli obiettivi e le funzioni da valutare e si ispira, in coerenza al loro specifico scopo, al principio del giudizio indipendente dei pari per le attivita' scientifiche ovvero a quello degli utilizzatori dei servizi e delle prestazioni dell'Universita'; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                la individuazione di una struttura amministrativa dell'Ateneo ispirata a principi di responsabilita', di semplificazione delle procedure, agilita' e flessibilita', volti a sostenere e facilitare il conseguimento degli obiettivi; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                il perseguimento dell'attrazione di studenti meritevoli e di risorse umane altamente qualificate, come elemento base per il perseguimento dell'alta qualita' di cui alla lettera a); 
+
+                            
+                        
+                        
+                            h)
+                            
+                                la valorizzazione del capitale umano esistente nonche' il riconoscimento della capacita' e del merito in tutte le componenti che operano al suo interno, incentivando risultati coerenti con le strategie e le finalita' dell'Ateneo e promuovendo politiche idonee a garantire il radicamento nella realta' universitaria anche attraverso la residenzialita'; 
+
+                            
+                        
+                        
+                            i)
+                            
+                                la previsione delle modalita' che assicurano il raccordo dell'attivita' dell'Universita' con le altre universita' nell'ambito del sistema universitario italiano e in quello europeo ed internazionale nonche' con il sistema educativo dell'istruzione e della formazione; 
+
+                            
+                        
+                        
+                            j)
+                            
+                                il perseguimento del principio costituzionale delle pari opportunita' tra persone dell'uno e dell'altro sesso.
+
+2.
+                    
+                        
+                            Lo Statuto dell'Universita' prevede, tra l'altro, nell'ambito e nel rispetto dei principi e dei criteri direttivi di cui al comma l: 
+ 
+                        
+                        
+                            a)
+                            
+                                gli organi, la composizione, le procedure di elezione o nomina, i requisiti e le cause di ineleggibilita' e incompatibilita', la durata in carica e le relative attribuzioni, secondo i principi di efficienza, efficacia, trasparenza e semplificazione nonche' di chiara individuazione dei poteri e delle correlate responsabilita', in coerenza con i seguenti principi e criteri direttivi: 
+ 1) semplificazione degli organi di governo, che implica una composizione degli stessi con un numero limitato di membri; 
+ 2) previsione dell'istituzione dell'Organo di amministrazione, del Presidente, del Rettore e dell'Organo di governo scientifico, rispettando il principio della distinzione dei ruoli e delle responsabilita'; 
+ 3) previsione che i componenti degli organi accademici che hanno il compito di assegnare le risorse siano diversi dai responsabili delle strutture che utilizzano le risorse medesime per la realizzazione dei piani scientifici e didattici; tali strutture utilizzatrici rispondono a quelle assegnanti della qualita' del loro operato e del raggiungimento degli obiettivi, sulla base della valutazione di organismi di controllo indipendenti, alla quale possono seguire effetti sanzionatori, nel rispetto del principio di responsabilita'; 
+ 4) individuazione delle qualita' e delle competenze necessarie per ricoprire le cariche di governo dell'Ateneo; 
+ 5) previsione che l'Organo di Amministrazione approvi i piani di sviluppo scientifici e didattici formulati dal Rettore; garantisca la stabilita' finanziaria dell'Ateneo; approvi i bilanci consuntivi e preventivi; indirizzi e controlli l'utilizzo delle risorse disponibili rispetto agli obiettivi programmati ed approvi la relazione annuale del Rettore sull'attivita' dell'Ateneo. Esso e' formato da un numero dispari (inferiore a dieci) di membri. I membri devono possedere elevate doti di professionalita' e conoscenza del sistema universitario e della ricerca. Le candidature all'OdA sono vagliate da un Comitato per le candidature. I membri dell'OdA devono avere scadenze sfalsate in modo che non sia possibile rinnovare contemporaneamente una maggioranza dei membri stessi. I componenti dell'OdA devono rappresentare l'interesse dell'Ateneo nel suo complesso. L'OdA ed il suo Presidente sono nominati dalla Provincia, previo parere vincolante del Comitato per le candidature. Lo Statuto prevede, tra l'altro, i requisiti per la candidatura, le eventuali cause di ineleggibilita' o incompatibilita' con la carica, le modalita' e le procedure di presentazione e di esame delle stesse, di formulazione del parere e i relativi termini. Lo Statuto medesimo puo' prevedere altresi' che fino a tre componenti, in possesso dei requisiti previsti e sui quali vi sia il parere favorevole del Comitato predetto, possano essere scelti nell'ambito di rose di candidati proposte dalle strutture accademiche indicate dallo Statuto medesimo, individuandoli anche tra i laureati presso l'Universita' degli studi di Trento non appartenenti al corpo docente dell'Universita' medesima. Fanno parte di diritto dell'OdA il Rettore, il Presidente del Consiglio degli Studenti e un componente nominato dal Ministero dell' istruzione, dell'universita' e della ricerca. Il Presidente assicura il collegamento con la provincia ed opera per il reperimento delle risorse necessarie all'Universita', di concerto con il Rettore e con l'ausilio dei membri dell'OdA; 
+ 6) previsione che il Comitato per le candidature sia formato da persone in possesso di comprovata ed adeguata competenza professionale ed esperienza in incarichi di carattere scientifico o di amministrazione di strutture complesse, che non si trovino comunque in condizione di conflitto di interesse - come sara' specificato dallo Statuto - con l'Universita' o con gli enti di ricerca disciplinati dalla legge provinciale o con la provincia e i suoi enti strumentali. Ad essa e' demandata la valutazione dei titoli e delle competenze relative alle candidature per ricoprire il ruolo di membro dell'OdA dell'Universita'. I membri del Comitato per le candidature (da 3 ad un massimo di 5) sono nominati dalla Provincia, previa intesa con l'Universita', secondo modalita' previste dallo Statuto; 
+ 7) attribuzione al Rettore della legale rappresentanza e della responsabilita' della gestione dell'Universita', della formulazione dei piani di sviluppo scientifici-didattici, dell'indirizzo e della vigilanza sulla loro attuazione. Egli e' coadiuvato nella programmazione e nella gestione dall'Organo di governo scientifico.
+E' eletto sulla base di candidature. La presentazione delle candidature e' formulata in modo tale da non escludere docenti di altre universita'. Il Rettore e' eletto nell'ambito di una rosa di candidati vagliata da un Comitato di selezione disciplinato dallo Statuto. Il medesimo Statuto prevede anche le norme che assicurano il rispetto dei principi fondamentali delle leggi statali in materia di eleggibilita' e durata in carica del Rettore nonche' le disposizioni che consentono la nomina del Comitato di selezione entro un termine temporale prefissato; 
+ 8) previsione che il Presidente, oltre ai compiti ad esso specificatamente assegnati da questo decreto e dallo Statuto ed a quelli connessi con il funzionamento dell'Organo di amministrazione, svolga la funzione di impulso e di proposta sulle deliberazioni dell'Organo riguardanti i bilanci e la gestione amministrativo-finanziaria generale dell'ente nonche' di indirizzo e vigilanza sulla loro attuazione. Curi altresi', d'intesa con il Rettore, la definizione delle proposte e degli atti individuati dallo Statuto medesimo, con particolare riguardo a quelli riguardanti gli accordi di carattere generale aventi contenuto prevalentemente finanziario o amministrativo ed ai rapporti di carattere istituzionale, aventi le predette caratteristiche, con altri enti, anche nazionali ed esteri. Lo Statuto disciplina i poteri di sottoscrizione degli atti da parte del Presidente, individuandoli in relazione alle funzioni ed ai compiti attribuiti ad esso o all'Organo di amministrazione dallo Statuto medesimo o dal presente decreto. 
+ 9) previsione che l'Organo di governo scientifico cooperi con il Rettore per la definizione dei piani di sviluppo scientifici e didattici, per l'attuazione delle scelte strategiche, per l'allocazione delle risorse, per il reclutamento dei docenti sulla base delle proposte dalle singole strutture dell'Ateneo. La sua composizione e' disciplinata sulla base di una combinazione tra componente elettiva e componente nominata da parte del Rettore, in modo da assicurare coerenza di governo ed equilibrata presenza delle diverse aree scientifiche. Nell'Organo di governo scientifico e' prevista una rappresentanza studentesca per la trattazione di tutte le tematiche relative alla didattica e ai servizi per gli studenti; 
+ 10) istituzione di un Organo di valutazione che valuti la qualita' dell'operato dell'Universita', anche in relazione al piano strategico di Ateneo. Esso e' composto prevalentemente da membri esterni all'Universita', le cui candidature sono proposte dal Presidente dell'OdA. L'Organo di Valutazione opera per conto dell'OdA e per gli organi di valutazione e controllo nazionali; 
+ 11) istituzione di un Organo di rappresentanza degli studenti che abbia il compito di esprimere pareri ed elaborare proposte su tutte le questioni che riguardano la didattica, le tasse universitarie, il diritto allo studio, le politiche di valorizzazione del merito, la mobilita' internazionale degli studenti e le azioni di sostegno post-laurea. L'Organo assembleare elegge al suo interno un Presidente, che e' membro di diritto dell'Organo di amministrazione; 
+ 12) istituzione di un Collegio dei revisori dei conti, scelti fra persone di comprovata competenza ed esperienza. Lo Statuto prevede i casi di ineleggibilita' e di incompatibilita', i requisiti necessari, le modalita' di nomina e la durata in carica. E' prevista altresi' la rinnovabilita' dell'incarico per una sola volta e il divieto di conferimento dell'incarico a personale dipendente dell'Universita'.
+Il Collegio dei revisori e' composto da tre membri nominati uno dalla Provincia, uno dal Ministero dell'economia e delle finanze e uno dall'Universita'. Il Presidente del Collegio e' il membro nominato dalla provincia; 
+ 13) previsione di una sede assembleare pubblica, convocata di norma annualmente, aperta a rappresentanze politiche, sociali, economiche ed istituzionali locali, con il compito di fornire pareri sugli indirizzi generali, al fine di assicurare forme di partecipazione per la comunita' trentina; 
+ 14) previsione delle procedure di composizione delle diverse posizioni nel caso di formale dissenso tra gli organi dell'Ateneo in ordine all'approvazione dei bilanci, del piano strategico o della relazione annuale del Rettore nonche', in generale, di tutti gli atti per i quali e' prevista l'intesa tra piu' organi, disciplinandone anche gli effetti; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                la definizione del modello organizzativo coerente con i principi e criteri direttivi previsti da questo decreto. L'articolazione interna dell'Ateneo e' definita dallo Statuto e attua il principio dell'approccio unitario a didattica e ricerca, al fine anche di superare la separazione di funzioni. E' previsto altresi' che la struttura tecnico-gestionale sia diretta da un Direttore generale, nominato dall'OdA su proposta del Rettore d'intesa con il Presidente dell'OdA; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                la definizione, fermo restando quanto previsto da questo decreto in materia di specifici regolamenti di Ateneo, degli ambiti nei quali opera l'autonomia regolamentare dell'Ateneo, ampliandola rispetto a quella previgente, al fine di rendere l'organizzazione piu' dinamica e flessibile, con standard di servizio allineati a quelli internazionali. Tali regolamenti disciplinano, nel rispetto dei principi fondamentali delle leggi statali in materia di universita' nonche' in materia di contrattazione integrativa, dei principi e criteri direttivi di cui al comma 1 e del presente comma nonche' dei vincoli di compatibilita' finanziaria previsti dalla legge provinciale di recepimento dell'intesa di cui all'articolo 79, comma 3, dello Statuto speciale del Trentino-Alto Adige/Südtirol, le modalita' di reclutamento e di gestione dei rapporti di lavoro e l'istituzione di un significativo sistema premiale che possa efficacemente motivare e riconoscere i risultati raggiunti; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                l'adozione del piano strategico pluriennale di Ateneo, approvato dall'Organo di amministrazione su proposta del Rettore, d'intesa con l'Organo di governo scientifico. Il predetto piano individua, tra l'altro, gli obiettivi e i programmi di sviluppo; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                la valutazione successiva (ex-post), che verifica il grado di raggiungimento degli obiettivi stabiliti dal piano strategico di cui alla lettera d) e in particolare i livelli di qualita' conseguiti. Il metodo di valutazione deve essere congruente con gli obiettivi e le funzioni da valutare ed e' definito nel rispetto dei principi e criteri direttivi recati da questo articolo; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                la definizione dei principi e dei criteri generali di programmazione degli organici e di gestione del personale docente, dei ricercatori e del personale dirigente e tecnico-amministrativo nonche' del personale non strutturato, che assicurino comunque il rispetto dei vincoli di compatibilita' finanziaria stabiliti sulla base della legge provinciale, dei requisiti previsti dalla legislazione statale e l'attuazione dei principi di imparzialita' e non discriminazione, di valutazione del merito, di chiara individuazione delle attribuzioni e delle correlate responsabilita' del personale a cui siano assegnate funzioni direttive e funzioni di coordinamento; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                la previsione dei criteri generali e delle modalita' per la programmazione e per la chiamata dei docenti provenienti da altre universita' estere ovvero per l'utilizzazione congiunta di docenti di universita' estere, in attuazione delle finalita' di internazionalizzazione dell'attivita' dell'Ateneo; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                l'attuazione del principio di trasparenza dell'attivita' dell'Universita' e dell'accessibilita' alle informazioni, riguardanti anche i relativi costi, attinenti alle attivita' ed ai progetti di ricerca e di didattica di Ateneo ed ai risultati conseguiti; 
+
+                            
+                        
+                        
+                            i)
+                            
+                                i criteri e le modalita' per assicurare e sviluppare la collaborazione dell'Universita' con altre universita' anche estere e con altri soggetti, pubblici e privati, per attivita' e progetti didattici e di ricerca, nonche' per autorizzare gli organi competenti dell'Universita' medesima a costituire, in concorso con altri enti pubblici e privati, nel rispetto del diritto dell'Unione europea, forme associative o partecipative, anche dotate di personalita' giuridica, finalizzate alla realizzazione dei propri fini istituzionali, anche sviluppando reti e sistemi di cooperazione; 
+
+                            
+                        
+                        
+                            l)
+                            
+                                la facolta' dell'Universita' di istituire, in armonia con i principi fondamentali della legislazione statale nella materia, una Fondazione mediante la costituzione di un apposito Fondo finalizzato ad assicurare la progressiva autonomia finanziaria dell'Universita' stessa in particolare per progetti di innovazione didattica e di ricerca. Lo Statuto della Fondazione puo' prevedere, tra l'altro, che tutte le cariche per la gestione ed il controllo siano svolte a titolo gratuito, salvo il rimborso delle spese sostenute da amministratori e sindaci per l'esercizio delle funzioni, e che alla costituzione del Fondo concorrano, in particolare: 
+ 1) beni immobili appartenenti al patrimonio dell'Universita'; 
+ 2) altri beni trasferiti alla Fondazione da enti pubblici o privati; 
+ 3) una quota delle somme spettanti all'Universita' a titolo premiale per l'ottenimento di risultati favorevoli; 
+ 4) una quota dell'avanzo di amministrazione; 
+ 5) donazioni di enti pubblici e di soggetti privati; 
+
+                            
+                        
+                        
+                            m)
+                            
+                                i criteri e le modalita' per promuovere, sviluppare e sostenere il sistematico raccordo tra l'Universita' e sistema delle imprese e delle professioni nonche' il mercato del lavoro a livello locale, nazionale ed internazionale, con particolare riferimento all'ambito europeo, al fine di valorizzare, anche in termini di opportunita' offerte e di monitoraggio sistematico dei risultati, le risorse umane formatesi nell'attivita' di didattica e di ricerca dell'Universita' stessa; 
+
+                            
+                        
+                        
+                            n)
+                            
+                                il sistema contabile adottato e i relativi principi contabili di riferimento, fermi restando i principi di armonizzazione dei sistemi contabili previsti dalle leggi statali; 
+
+                            
+                        
+                        
+                            o)
+                            
+                                le modalita' e la procedura per le successive modificazioni statutarie, prevedendo anche forme semplificate per le modifiche di carattere non sostanziale, da individuare sulla base di criteri oggettivi;
+
 Per il controllo di legittimita' sugli atti si applicano le disposizioni previste dalle norme di attuazione dello Statuto speciale di autonomia del Trentino-Alto Adige/Südtirol per gli atti della provincia. ((Sono fatte salve le attribuzioni delle Province ai sensi dell'articolo 79, comma 3, dello Statuto; degli esiti dell'attivita' di vigilanza della Provincia e' data notizia alla competente sezione della Corte dei conti.)) Resta fermo quanto disposto dagli articoli 13 e 14 della legge 31 dicembre 2009, n. 196.
 
 ## Art. 4. — Approvazione del nuovo Statuto dell'Universita'
+
+1.
+                    
+                        
+                            Entro trenta giorni dalla data di entrata in vigore del presente decreto e' costituita dal Rettore con proprio decreto, adottato di concerto con il Presidente, una apposita Commissione con il compito della predisposizione del progetto di Statuto dell'Universita'. Essa e' composta dallo stesso Presidente e dal Rettore dell'Universita' nonche' da altri cinque componenti, non facenti parte del Senato accademico, individuati dal Rettore medesimo d'intesa: 
+ 
+                        
+                        
+                            a)
+                            
+                                tre con il Presidente; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                uno con la Provincia; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                uno con il Ministero competente in materia di universita'.
 
 I componenti non di diritto della Commissione sono individuati tra persone in possesso di qualificata competenza scientifica, tecnico amministrativa ovvero professionale, e comprovata e coerente esperienza - rispetto ai compiti attribuiti alla Commissione prevista da questo articolo - acquisita in posizione di docente universitario, di professionista iscritto ad albi nazionali disciplinati dalla legge statale ovvero di dirigente di strutture complesse dipendenti da enti pubblici o privati, per almeno quindici anni. La Commissione e' presieduta dal Presidente del Consiglio di amministrazione.
 Nell'ambito della Commissione e' attribuito al Rettore, di concerto con il Presidente stesso, il compito di formulare le proposte iniziali da sottoporre alla trattazione ed alla approvazione della Commissione medesima. Il Presidente del Consiglio degli studenti, oppure un altro componente eventualmente a cio' designato dal Consiglio medesimo, e' invitato a partecipare ai lavori della Commissione per esprimere pareri e proposte quando si tratti delle parti del progetto di Statuto che riguardano la didattica, le tasse universitarie, il diritto allo studio, le politiche di valorizzazione del merito, la mobilita' internazionale degli studenti e le azioni di sostegno post-laurea.
@@ -81,6 +380,45 @@ I regolamenti di Ateneo, al fine di dare piena attuazione a quanto previsto dall
 Per quanto concerne il personale ricercatore a progetto e docente a contratto, l'Universita' puo' utilizzare tutti gli strumenti di diritto privato concernenti il lavoro dipendente od autonomo, sulla base di regolamenti di Ateneo che ne disciplinano altresi' la durata e modalita' di rinnovo.
 
 ## Art. 7. — Norme particolari in materia di personale dirigente, tecnico amministrativo e collaboratori esperti linguistici dell'Universita'
+
+1.
+                    
+                        
+                            Al personale dirigente, tecnico amministrativo e Collaboratori esperti linguistici (CEL) dell'Universita' si applicano: 
+ 
+                        
+                        
+                            a)
+                            
+                                i Contratti collettivi nazionali di lavoro di Comparto per il personale dirigente e tecnico amministrativo relativamente al trattamento economico fondamentale e l'inquadramento professionale; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                il Contratto collettivo integrativo di lavoro che puo' essere stipulato al fine di disciplinare un sistema di adeguamento retributivo e di sviluppo di carriera che consentano la valorizzazione della flessibilita' interna e la differenziazione del trattamento economico in relazione a criteri di merito. Il Contratto e' stipulato dall'Agenzia provinciale per la rappresentanza negoziale (A.P.Ra.N.) con la partecipazione dei rappresentanti dell'Universita' e delle organizzazioni sindacali del personale della medesima Universita', secondo la disciplina prevista dalla legge provinciale in materia di contratti collettivi di lavoro e secondo le direttive definite dall'Universita'. I relativi oneri dovranno essere previsti negli atti di indirizzo di cui all'articolo 2, comma 2, lett. a). Gli istituti contrattuali riservati al Contratto collettivo integrativo di lavoro che non fossero da esso disciplinati rimangono disciplinati dal Contratto Collettivo nazionale di lavoro di cui alla lettera a); 
+
+                            
+                        
+                        
+                            c)
+                            
+                                le leggi provinciali in materia di programmazione della spesa, di autorizzazione delle risorse e di attuazione del patto di stabilita' interno; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                i regolamenti di Ateneo in materia di reclutamento, di stabilizzazione e di gestione del rapporto di lavoro nonche' di' contrattazione collettiva integrativa per quanto di competenza dell'Universita', adottati nel rispetto dei principi fondamentali della normativa statale e delle norme provinciali in materia di ordinamento del personale; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                la normativa statale in materia di previdenza e quiescenza.
 
 Al personale di cui al comma 1 si applicano, nelle parti compatibili con questo decreto, le norme previste dal comma 5 dell'articolo 2 del decreto del Presidente della Repubblica 15 luglio 1988, n. 405 (norme di attuazione dello Statuto speciale per il Trentino-Alto Adige in materia di istruzione).
 

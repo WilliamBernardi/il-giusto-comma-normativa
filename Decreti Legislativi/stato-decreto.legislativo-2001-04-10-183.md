@@ -8,8 +8,8 @@ codice_redazionale: 001G0239
 vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:30Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -28,6 +28,119 @@ Il presente decreto disciplina la delega alla regione autonoma della Valle d'Aos
 Le funzioni ed i compiti in materia di politiche del lavoro gia' esercitati alla data di entrata in vigore del presente decreto continuano ad essere svolti dalla regione Valle d'Aosta.
 
 ## Art. 2. — Funzioni e compiti
+
+1.
+                    
+                        
+                            Sono delegati alla regione Valle d'Aosta le funzioni ed i compiti relativi al collocamento ed in particolare:
+ 
+                        
+                        
+                            a)
+                            
+                                collocamento ordinario, agricolo e dello spettacolo;
+
+                            
+                        
+                        
+                            b)
+                            
+                                collocamento obbligatorio;
+
+                            
+                        
+                        
+                            c)
+                            
+                                collocamento dei lavoratori non appartenenti all'Unione europea;
+
+                            
+                        
+                        
+                            d)
+                            
+                                collocamento dei lavoratori a domicilio;
+
+                            
+                        
+                        
+                            e)
+                            
+                                collocamento dei lavoratori domestici;
+
+                            
+                        
+                        
+                            f)
+                            
+                                avviamento a selezione negli enti pubblici e nella pubblica amministrazione, ad eccezione di quello riguardante le amministrazioni centrali dello Stato e gli uffici centrali degli enti pubblici;
+
+                            
+                        
+                        
+                            g)
+                            
+                                preselezione ed incontro tra domanda ed offerta di lavoro.
+
+2.
+                    
+                        
+                            Sono delegati alla regione Valle d'Aosta le funzioni ed i compiti in materia di politica attiva del lavoro ed in particolare:
+ 
+                        
+                        
+                            a)
+                            
+                                promozione di iniziative volte ad incrementare l'occupazione;
+
+                            
+                        
+                        
+                            b)
+                            
+                                incentivazione all'incontro tra domanda e offerta di lavoro;
+
+                            
+                        
+                        
+                            c)
+                            
+                                collaborazione alla elaborazione di progetti relativi all'occupazione di soggetti tossicodipendenti;
+
+                            
+                        
+                        
+                            d)
+                            
+                                promozione di iniziative volte a favorire l'occupazione degli iscritti nelle liste di collocamento, con particolare riferimento ai soggetti destinatari di riserva di cui all'articolo 25 della legge 23 luglio 1991, n. 223;
+
+                            
+                        
+                        
+                            e)
+                            
+                                predisposizione ed attuazione di iniziative finalizzate al reimpiego dei lavoratori posti in mobilita' e all'inserimento lavorativo di categorie svantaggiate;
+
+                            
+                        
+                        
+                            f)
+                            
+                                tirocini formativi e di orientamento e borse di lavoro;
+
+                            
+                        
+                        
+                            g)
+                            
+                                lavori socialmente utili;
+
+                            
+                        
+                        
+                            h)
+                            
+                                compilazione della lista di mobilita' dei lavoratori previa analisi tecnica.
 
 Al fine di garantire l'omogeneita' delle procedure e dei relativi provvedimenti l'esercizio delle funzioni e dei compiti di cui al comma 2 del presente articolo che investono ambiti territoriali pluriregionali e' svolto d'intesa fra tutte le regioni interessate.
 
@@ -54,6 +167,66 @@ La regione adotta la sua normativa con l'osservanza del principio di rendere eff
 Con effetto dalla data di attuazione della legge regionale di cui all'articolo 4, la commissione regionale per l'impiego della Valle d'Aosta e' soppressa.
 
 ## Art. 6. — Soppressione di organi collegiali
+
+1.
+                    
+                        
+                            Con effetto dalla data di entrata in vigore della legge regionale di cui all'articolo 4, comma 1, del presente decreto, i sottoelencati organi collegiali sono soppressi e le relative funzioni e competenze sono assegnate alla struttura regionale competente per territorio o funzione secondo i principi del citato articolo 4:
+ 
+                        
+                        
+                            a)
+                            
+                                commissione provinciale per l'impiego;
+
+                            
+                        
+                        
+                            b)
+                            
+                                commissione circoscrizionale per l'impiego;
+
+                            
+                        
+                        
+                            c)
+                            
+                                commissione regionale per il lavoro a domicilio;
+
+                            
+                        
+                        
+                            d)
+                            
+                                commissione provinciale per il lavoro a domicilio;
+
+                            
+                        
+                        
+                            e)
+                            
+                                commissione comunale per il lavoro a domicilio;
+
+                            
+                        
+                        
+                            f)
+                            
+                                commissione provinciale per il lavoro domestico;
+
+                            
+                        
+                        
+                            g)
+                            
+                                commissione provinciale per la manodopera agricola;
+
+                            
+                        
+                        
+                            h)
+                            
+                                commissione circoscrizionale per la manodopera agricola.
 
 ## Art. 7. — Soppressione uffici periferici
 

@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
 vigenza_date: 1997-06-25
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:38Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO MINISTERIALE
@@ -28,15 +28,122 @@ Udito il parere del Consiglio di Stato espresso nell'adunanza generale del 25 ge
 
 ## Art. 1. — Documento di accompagnamento accise
 
+1.
+                        
+                            
+                                La circolazione in regime sospensivo degli oli minerali, dell'alcole e delle bevande alcoliche, di cui all'art. 6 del testo unico delle disposizioni legislative concernenti le imposte sulla produzione e sui consumi e relative sanzioni penali e amministrative, approvato con (( decreto legislativo 26 ottobre 1995, n. 504,)) d'ora in avanti denominato 'testo unico', avviene con scorta del "Documento di Accompagnamento Accise", d'ora in avanti indicato con la sigla "DAA", di cui al regolamento (CEE) n. 2719/92, della Commissione, dell'11 settembre 1992 e successive modificazioni.(( Esso puo' consistere:))
+                                
+                            
+                            
+                                a)
+                                
+                                    in un documento amministrativo di accompagnamento, qualora sia conforme al modello allegato al citato regolamento (CEE) n. 2719/92;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    ovvero in un documento commerciale, redatto su un modello di tipo diverso dal precedente, a condizione che contenga le stesse informazioni, contraddistinte dal corrispondente numero di casella, previste per il documento amministrativo.
+
 ## Art. 2. — Composizione e modalita' di emissione del DAA
 
+1.
+                        
+                            
+                                Il DAA si compone di quattro esemplari, recanti lo stesso numero identificativo, cosi destinati:
+ 
+                            
+                            
+                                a)
+                                
+                                    l'esemplare n. 1 viene conservato dallo speditore;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'esemplare n. 2 scorta la merce e viene conservato dal destinatario;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    l'esemplare n. 3 scorta la merce ai fini dell'appuramento di cui all'articolo 3;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    l'esemplare n. 4 scorta la merce e viene trasmesso dal destinatario all'autorita' fiscale competente per i controlli sul luogo di destinazione.
+
 Prima della loro compilazione i DAA di tipo amministrativo sono soggetti a bollatura, mediante apposizione del timbro a secco, da parte dell'ufficio tecnico di finanza competente per territorio, d'ora in avanti indicato con la sigla "UTF".
+
+3.
+                        
+                            
+                                I modelli da sottoporre a bollatura riportano, su ciascun esemplare, le seguenti indicazioni precompilate:
+ 
+                            
+                            
+                                a)
+                                
+                                    denominazione del depositario autorizzato;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    codice di accisa del deposito fiscale;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    numero identificativo del documento, il quale e' attribuito dal depositario autorizzato secondo una numerazione progressiva, anche sotto forma di codice alfanumerico, in maniera che non vi siano ripetizioni per ciascun deposito fiscale. Per la circolazione di merce nel solo ambito del territorio nazionale il documento riporta, inoltre, la dicitura: "circolazione interna".
 
 Le indicazioni di cui al comma 3 sono precompilate o direttamente nelle rispettive caselle n. 1, 2 e 3 del DAA oppure sul margine laterale del documento stesso.
 
 E' consentito l'impiego di fogli in bianco o parzialmente precompilati, singoli o a striscia continua per la stampa e la compilazione informatizzata del documento; in tal caso, le indicazioni di cui al comma 3 vengono prestampate lungo il margine laterale sinistro di ciascun foglio ed il timbro a secco e' apposto in maniera da ricoprire almeno parte della stampigliatura. (( E', del pari, consentito che il DAA sia approntato in un numero di esemplari superiore ai quattro previsti purche' siano contraddistinti dal numero indicativo dell'esemplare e rechino, in maniera indelebile, la scritta "Non valido ai fini del regime delle accise.". I suddetti esemplari aggiuntivi possono essere anch'essi sottoposti a bollatura unitamente agli altri esemplari. ))
 
 Per ottenere la bollatura, gli interessati presentano all'UTF i DAA precompilati unitamente a domanda, in duplice copia, specificando il numero iniziale e finale dei modelli da bollare. I DAA vengono restituiti all'interessato entro il decimo giorno lavorativo successivo a quello di presentazione unitamente ad una delle copie, con l'attestazione dell'avvenuta bollatura, che costituisce documento di carico di apposito registro, da tenersi secondo modalita' stabilite dall'amministrazione finanziaria. L'altra copia della domanda resta a corredo del registro di cui al comma 7.
+
+7.
+                        
+                            
+                                L'UTF annota su apposito registro:
+ 
+                            
+                            
+                                a)
+                                
+                                    la data di bollatura;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    gli estremi di identificazione del depositario autorizzato;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    l'ubicazione del deposito fiscale;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    il numero degli stampati bollati, con l'indicazione dei numeri identificativi iniziali e finali.
 
 ((
 
@@ -65,6 +172,38 @@ L' attestazione di cui al comma 1 e' soggetta al visto dell'ufficio finanziario 
 
 ## Art. 4. — Obblighi dello speditore
 
+1.
+                        
+                            
+                                Per ogni trasferimento di merce in regime sospensivo lo speditore e' tenuto:
+ 
+                            
+                            
+                                a)
+                                
+                                    ad annotare giornalmente sul registro di carico e scarico tenuto ai sensi dell'articolo 5, comma 3, lettera c), del testo unico, il numero del documento di accompagnamento, il giorno di partenza, i dati relativi al soggetto ed all'impianto destinatari, la qualita' e la quantita' di merce spedita;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    a porre a corredo di tale registro l'esemplare n. 1 del DAA emesso;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    a contabilizzare l'ammontare della cauzione relativa alla singola spedizione e a tenere in evidenza la quota di cauzione complessivamente impegnata per le spedizioni non ancora appurate;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    ad appurare il buon esito della spedizione. In caso di mancato appuramento lo speditore, nel termine di tre mesi dalla data di spedizione, comunica all'ufficio finanziario competente sul proprio impianto il mancato arrivo dell'esemplare n. 3 del DAA.
+
 Ai soli fini dello svincolo della quota di cauzione impegnata, lo speditore puo' appurare il buon esito della spedizione in base ad una copia dell'esemplare n. 3 del DAA trasmessogli immediatamente dal destinatario via fax. Restano in tal caso fermi, ai fini probatori, gli obblighi di cui all'articolo 3, comma 1.
 
 ((
@@ -83,6 +222,52 @@ In caso di furto, smarrimento o distruzione del DAA, l'incaricato del trasporto,
 Nel caso si verifichi una perdita di prodotto soggetto ad accisa durante il trasferimento, l'incaricato del trasporto ne da' immediata notizia all'UTF competente sul luogo dove e' stata constatata la perdita, che appone un'attestazione sull'esemplare n. 3 del DAA.
 
 ## Art. 6. — Obblighi del destinatario
+
+1.
+                        
+                            
+                                Per i trasferimenti di merci in regime sospensivo aventi termine nel territorio dello Stato il destinatario e' tenuto:
+ 
+                            
+                            
+                                a)
+                                
+                                    ad assumere in carico la merce (( lo stesso giorno dell'introduzione in deposito, )) annotando nel registro tenuto ai sensi dell'art. 5, comma 3, lettera c), ovvero dell'art. 8, comma 2, del testo unico, i dati relativi al depositario autorizzato e al deposito fiscale mittente; il numero di riferimento del DAA e la data di emissione; la qualita' e la quantita' della merce pervenuta;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    a porre a corredo del suddetto registro l'esemplare n. 2 del DAA;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    a compilare l'attestato di ricevimento della merce, nella apposita casella c) degli esemplari n. 2, 3 e 4 del documento di accompagnamento, con l'indicazione della qualita' e quantita' di merce pervenuta. L'attestato deve essere completo di data, timbro personale e firma del destinatario o di chi lo rappresenta;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    a dare immediata comunicazione all'ufficio finanziario competente sul proprio impianto delle differenze riscontrate, in misura superiore alle tolleranze ammesse dalla normativa doganale, tra la quantita' di prodotto indicata nel DAA e quella effettivamente pervenuta; la constatazione di tale differenza e' attestata sul DAA sia dal destinatario sia dall'incaricato del trasporto. Nella certificazione di ricezione va in ogni caso indicata la differenza riscontrata, sia in valore assoluto che come percentuale del carico, anche se rientrante nelle suddette tolleranze;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    a presentare gli esemplari n. 3 e n. 4 del DAA, completi degli elementi di cui alle lettere c) e d), all'ufficio finanziario competente sul proprio impianto, che trattiene per se' l'esemplare n. 4, apponendovi un'attestazione di conformita' con l'esemplare n. 3, e restituisce quest'ultimo con l'apposizione del visto amministrativo di cui all'art. 3, comma 2. Tale adempimento e' effettuato entro il primo giorno lavorativo successivo a quello del ricevimento della merce, quando nell'ambito del deposito fiscale destinatario sia presente l'ufficio finanziario di fabbrica o la dogana, entro dieci giorni, e, comunque, non oltre il giorno 5 del mese successivo a quello dell'arrivo, negli altri casi. Nel caso in cui si siano verificate perdite superiori alle tolleranze ammesse dalla normativa doganale, l'ufficio finanziario riporta sull'esemplare n. 3 del DAA l'ammontare dell'accisa abbuonata ed il conteggio di quella che deve invece essere corrisposta. Se le perdite sono state constatate in un altro Paese comunitario, copia dell'esemplare n. 3 e' trasmesso dall'ufficio finanziario all'autorita' fiscale competente sull'impianto mittente;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    a rinviare allo speditore, entro il quindicesimo giorno del mese successivo a quello di ricevimento della merce, l'esemplare n. 3 del DAA completo di attestato di ricevimento e di visto amministrativo.
 
 Dagli adempimenti di cui alle lettere a) e b) del comma 1 e' esonerato l'operatore non registrato, salvo che egli sia gia' obbligato alla tenuta del registro di carico e scarico. Resta in ogni caso fermo l'obbligo di conservazione dell'esemplare n. 2 del DAA per i cinque anni successivi, unitamente alla documentazione relativa all'operazione effettuata.
 
@@ -111,14 +296,96 @@ La procedura di cui al presente articolo e' applicata anche ai trasferimenti di 
 
 ## Art. 9. — Documento di accompagnamento semplificato
 
+1.
+                        
+                            
+                                La circolazione degli oli minerali, dell'alcole e delle bevande alcoliche ad accisa assolta, di cui all'articolo 12 del testo unico, e dell'alcole denaturato con denaturante generale, fatto salvo quanto disposto al comma 2, avviene con scorta del "Documento di Accompagnamento Semplificato", d'ora in avanti indicato con la sigla "DAS", di cui al Regolamento (CEE) n. 3649/92, della Commissione, del 17 dicembre 1992. Esso puo' consistere:
+ 
+                            
+                            
+                                a)
+                                
+                                    in un documento amministrativo di accompagnamento, qualora sia conforme al modello allegato al citato regolamento (CEE) n. 3649/92;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    ovvero in un documento commmerciale, redatto su un modello di tipo diverso dal precedente, a condizione che contenga le stesse informazioni, contraddistinte dal corrispondente numero di riquadro, previste per il documento amministrativo.
+
 Per i trasferimenti ad altri Paesi comunitari di prodotti ad accisa assolta l'emissione del DAS e' prescritta per qualsiasi quantitativo, a meno che non si tratti di prodotti acquistati e trasportati dai privati, nei limiti previsti dall'articolo 11 del testo unico. Non e' del pari prescritta, entro i suddetti limiti, la scorta del DAS per i prodotti acquistati in altri paesi membri da privati e da essi trasportati. Nelle movimentazioni fra operatori nazionali il DAS sostituisce le bollette di legittimazione mod. C 39 e C 62, il documento di cui all'articolo 2 della legge 15 dicembre 1971, n. 1161, ed i certificati di provenienza mod. H-ter 7, H-ter 16 e H-ter 16-bis in tutti i casi in cui tali documenti sono previsti.
 Per gli altri casi di trasferimenti di prodotti ad accisa assolta, ivi compresi i prodotti di cui all'articolo 62, commi 1, 2 e 6, nonche' dei prodotti di cui all'articolo 21, comma 2, del testo unico e delle profumerie alcoliche, fatte salve le disposizioni in materia di tutela agricola, puo' essere utilizzato il DAS in sostituzione della bolla di accompagnamento dei beni viaggianti di cui al decreto del Presidente della Repubblica 6 ottobre 1978, n. 627, quando tale documento sia previsto. (( Ai fini del circolazione, le merci contenenti alcole o prodotti di cui ai codici NC 2207 e 2208, esenti, denaturati o non denaturati, non sono considerate sottoposte al regime delle accise. ))
 
 ## Art. 10. — Composizione e modalita' di emissione del DAS
 
+1.
+                        
+                            
+                                Il DAS si compone di tre esemplari, recanti lo stesso numero identificativo, cosi' destinati:
+ 
+                            
+                            
+                                a)
+                                
+                                    l'esemplare n. 1 viene conservato dallo speditore;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'esemplare n. 2 scorta la merce e viene conservato dal destinatario;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    l'esemplare n. 3 scorta la merce nei casi in cui debba procedersi all'appuramento di cui all'articolo 11, comma 2 ed all'articolo 13, comma 3.
+
 Prima della loro compilazione i DAS di tipo amministrativo sono soggetti a bollatura, mediante apposizione del timbro a secco, da parte dell'UTF competente per territorio; i modelli da sottoporre a bollatura devono riportare, su ciascun esemplare, precompilati nei riquadri n. 1 e n. 2 oppure sul margine laterale del documento, la denominazione dello speditore, il numero di licenza o l'eventuale codice di accisa ed il numero identificativo del documento. (( Per l'attribuzione del numero identificativo del documento, per l'approntamento con un numero di esemplari superiori ai tre previsti per la bollatura e la contabilizzazione presso l'UTF, per la circolazione nel solo territorio nazionale, per l'impiego di fogli in bianco o parzialmente prestampati per la compilazione o la stampa informatizzata, per la messa in uso dei modelli, per il cambio della ragione sociale e per l'eventuale utilizzazione di altri sistemi di validazione si seguono le medesime procedure previste per i DAA di tipo amministrativo, dall'articolo 2, commi da 3 a 7 e da 10 a 12.))
 
 ((
+
+3.
+                        
+                            
+                                I DAS sono compilati secondo le indicazioni riportate singoli riquadri; nel riquadro 5 sono indicati, oltre al nome del vettore, anche il nome dell'incaricato del trasporto, come definito dall'art. 2, comma 11, lettera b), nonche' la data e l'ora d'inizio del trasporto, facendo precedere dallo zero i numeri relativi al giorno, al mese ed all'ora, se costituiti da unita'. Per i trasferimenti fra soggetti operanti nel territorio nazionale:
+ 
+                            
+                            
+                                a)
+                                
+                                    viene omessa la compilazione dei riquadri 3, 11, 13 e B, tranne il caso, per il riquadro 13, di trasferimenti di carburante destinato a distributori automatici ovvero di oli minerali commercializzati a volume ambiente; in tale evenienza nel suddetto riquadro e' riportato, in luogo del prezzo di fattura, il volume alla temeratura ambiente. Viene pure omessa, nel riquadro 15, l'annotazione relativa al rinvio dell'esemplare n. 3. Il riquadro n. 6 e' riservato alle annotazioni;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'indicazione del numero della partita IVA viene omessa nel riquadro 1. In caso di estrazione effettuata per conto di un committente, il numero della partita IVA da riportare nel riquadro 4 e' quello del committente, di cui deve essere indicato anche il nome, preceduto dalle parole, "per conto"; nei DAS di tipo commerciale il nome del committente ed il suo numero di partita IVA possono essere riportati in un apposito riquadro;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    nel riquadro 8 viene omessa l'indicazione della densita' a 15 C, relativamente agli oli combustibili ed ai gas petroliferi liquefatti; per gli altri oli minerali invece della densita' a 15 C va indicato il peso specifico a 15 C, corretto per tener conto della spinta dell'aria;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    puo' omettersi l'indicazione, nel riquadro 9, del codice NC, quando la denominazione commerciale del prodotto, riportata nel riquadro 8, sia sufficiente anche alla determinazione del suo regime fiscale;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    per gli oli minerali puo' omettersi la compilazione del ripuadro 10.
 
 ))
 
@@ -137,6 +404,24 @@ Nei casi di trasferimenti particolari, per i quali il DAS non possa essere emess
 Analoghe annotazioni vengono effettuate per le partite estratte con la scorta di documenti commerciali;
 b) a porre a corredo del suddetto registro gli esemplari n. 1 dei DAS e le matrici dei documenti commerciali emessi;))
 
+2.
+                        
+                            
+                                Nel caso in cui i trasferimenti di cui al comma 1 siano effettuati verso un Paese comunitario, lo speditore e' tenuto a prestare, anche in solido con il destinatario, la cauzione prevista dall'articolo 7, paragrafo 5, lettera a), della Direttiva 92/12/CEE del Consiglio del 25 febbraio 1992, a garanzia del pagamento dell'accisa nel Paese comunitario di destinazione. Qualora intenda chiedere il rimborso dell'accisa nazionale assolta, e' pure tenuto:
+ 
+                            
+                            
+                                a)
+                                
+                                    a presentare, anteriormente alla spedizione, una dichiarazione ai fini del rimborso, dimostrando l'avvenuto pagamento dell'accisa;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    ad appurare il buon esito della spedizione mediante la ricezione dell'esemplare n. 3 del DAS contenente, nell'apposito riquadro B, l'attestazione di ricezione della merce redatta e firmata dal destinatario o da un suo rappresentante. Tale esemplare deve essere corredato da un documento comprovante, da parte dell'autorita' fiscale del Paese comunitario di destinazione, l'avvenuta presa in carico delle merci e dei relativi diritti d'accisa, che puo' anche consistere in un'attestazione apposta dalla suddetta autorita' sull'esemplare n. 3 del DAS, o che riporti l'indirizzo del competente ufficio fiscale del Paese comunitario di destinazione, la data di accettazione della dichiarazione da parte di tale ufficio nonche' il numero di riferimento o di registrazione della medesima. In caso di mancato appuramento lo speditore, nel termine di due mesi dalla data di spedizione, comunica al competente UTF il mancato arrivo dell'esemplare n. 3 del DAS.
+
 ((
 
 Lo speditore che disponga di un sistema elettronico o automatico di elaborazione puo' essere dispensato dall'UTF, limitatamente ai trasferimenti aventi termine in territorio nazionale, dall'obbligo di firmare il DAS ed autorizzato ad apporre, in sua vece, anche prestampato, il timbro speciale di cui all'art. 4, comma 3, a condizione che abbia preventivamente presentato una dichiarazione con la quale si assume la responsabilita' di tutti i rischi connessi ai trasferimenti effettuati con i DAS recanti il suo timbro speciale. In tal caso, nel riquadro 15, in luogo della firma deve essere apposta l'annotazione "Dispensa dalla firma".
@@ -150,6 +435,31 @@ Fermi restando gli altri obblighi previsti dalla normativa vigente, l'incaricato
 In caso di furto, smarrimento o distruzione del DAS, l'incaricato del trasporto, prima della prosecuzione del viaggio, effettua immediata denuncia al piu' vicino comando territoriale della Guardia di finanza o, in mancanza, al piu' vicino organo di polizia, indicando, perche' siano riportati a verbale, tutti gli elementi necessari ad identificare la partita trasportata, il mittente ed il destinatario. Se trattasi di circolazione interna, copia della denuncia scorta la merce fino all'arrivo e tiene luogo del DAS ai fini dell'assunzione in carico; il destinatario segnala comunque il fatto al competente UTF, entro il primo giorno lavorativo successivo a quello di ricezione. Nel caso si tratti di merce proveniente da un Paese comunitario, prima della discarica viene richiesto l'intervento dell'UTF competente che, esperiti i riscontri ritenuti opportuni, consente la consegna della merce. Effettuato poi il confronto fra i dati riportati nella denuncia di cui sopra e quelli risultanti dall'esemplare n. 1 del DAS richiesto in copia allo speditore, il predetto ufficio provvede a trarre da quest'ultima due copie, recanti l'indicazione "duplicato", che, previa vidimazione, sostituiscono gli esemplari n. 2 e n. 3 andati perduti. Nel caso si tratti di trasferimento verso un Paese comunitario, copia della denuncia scorta la merce fino all'UTF piu' facilmente raggiungibile, che provvede, con la procedura sopra descritta, a rilasciare all'incaricato del trasporto i duplicati degli esemplari n. 2 e n. 3 per consentirgli la prosecuzione del viaggio e ne da' comunicazione all'ufficio competente per l'impianto speditore. Se la perdita del DAS relativo ad un trasferimento iniziato in territorio nazionale avviene in un Paese comunitario, fatta salva la procedura prevista, per tale evenienza, dal suddetto Paese, l'esercente del deposito mittente richiede all'UTF competente per il proprio impianto il rilascio di due duplicati dell'esemplare di DAS in suo possesso, previa presentazione di una dichiarazione di chi ha subito la perdita del documento, corredata, se del caso, della traduzione in lingua italiana. In caso di perdita, in un Paese comunitario, del DAS relativo ad un partita destinata ad un operatore italiano, la suddetta partita potra' attraversare il territorio nazionale solo se scortata da duplicato del suddetto documento.
 
 ## Art. 13. — Obblighi del destinatario
+
+1.
+                        
+                            
+                                Per i trasferimenti di merci ad imposta assolta aventi termine nel territorio dello Stato il destinatario e' tenuto:
+ 
+                            
+                            
+                                a)
+                                
+                                    ad assumere in carico la merce annotando nel registro tenuto a sensi dell'art. 12, comma 1, del testo unico, nello stesso giorno della ricezione, i dati relativi all'impianto speditore, il numero di riferimento del DAS e la data di emissione, la qualita' e la quantita' della merce pervenuta;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    a porre a corredo dello stesso registro l'esemplare n. 2 del DAS;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    nel caso di ricezione di prodotti, provenienti dal territorio nazionale, che abbiano attraversato il territorio di un altro Paese comunitario, a comunicare all'UTF l'avvenuta ricezione, entro il primo giorno lavorativo successivo a quello della ricezione medesima.
 
 Dagli adempimenti di cui alle lettere a) e b) del comma 1 sono esonerati gli operatori non obbligati alla tenuta del registro di carico e scarico. Resta in ogni caso fermo l'obbligo di conservazione dell'esemplare n. 2 del DAS per i cinque anni successivi, unitamente alla documentazione relativa all'operazione effettuata.
 
@@ -262,6 +572,31 @@ Il DAS "collettivo" e l'annessa distinta, su cui l'incaricato del trasporto deve
 
 A trasporto effettuato, il mittente riporta sul DAS "collettivo" nonche' sull'allegata distinta, in corrispondenza delle indicazioni del numero segnato dal contatore totalizzatore, all'uscita della autocisterna dal deposito, il numero segnato dallo stesso contatore a consegne ultimate ed esegue la differenza, ponendola a confronto con il volume di prodotto caricato. Qualora il volume complessivo di prodotto erogato dal misuratore corrisponda, tenuto conto delle tolleranze dovute a variazioni di temperatura o a tolleranze degli strumenti di misura, a quello del carico indicato nel DAS "collettivo", contrappone l'esemplare n. 2 di tale documento al corrispondente esemplare n. 1. Se la differenza dei volumi supera dette tolleranze, ne e' data immediata comunicazione all'UTF.
 
+8.
+                        
+                            
+                                Qualora risulti una differenza di prodotto non consegnato, la reintroduzione in deposito e' effettuata con riferimento al DAS "collettivo" emesso per l'intero carico originario. A tal fine l'incaricato del trasporto attesta sulla distinta allegata al DAS "collettivo" che il trasporto si e' concluso con una rimanenza di prodotto, nell'autocisterna, da reintrodurre nel deposito mittente, facendo seguire la dichiarazione dalla propria firma, previa indicazione della data e dell'ora d'inizio del viaggio di ritorno. Il mittente, a sua volta, deve allegare il DAS "collettivo" al registro di carico e scarico a giustificazione della quantita' di prodotto reintrodotta in deposito, dopo aver provveduto a completare il DAS medesimo con le seguenti attestazioni:
+ 
+                            
+                            
+                                a)
+                                
+                                    data e ora del rientro dell'autocisterna in deposito;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    rimanenza del carico reintrodotto in deposito;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    numero d'ordine della registrazione a carico di tale rimanenza nel predetto registro di carico e scarico.
+
 In ogni caso, il mittente completa l'esemplare n. 1 dei DAS "non scorta merce" con l'indicazione delle quantita' di prodotto rilevate dalla distinta di cui al comma 4.
 
 La procedura prevista nel presente articolo si applica anche ai casi di trasporto alla rinfusa di gas petroliferi liquefatti destinati ad impianti di distribuzione stradale, effettuati con autobotti non munite di misuratore volumetrico, a condizione che sia possibile accertare mediante pesatura, prima e dopo ciascuna discarica, i quantitativi scaricati in ciascun impianto di distribuzione.
@@ -291,6 +626,38 @@ Se, per eccezionali condizioni meteomarine, dopo la caricazione, anche parziale,
 Le disposizioni di cui all'art. 795 del regolamento (CEE) n. 2454/93 della Commissione, del 2 luglio 1993, si applicano anche alle merci soggette ad accisa quando, mentre si trovano in circolazione intracomunitaria in regime sospensivo, ne viene decisa l'esportazione.
 
 ## Art. 23. — C a u z i o n i
+
+1.
+                        
+                            
+                                Le cauzioni previste dal presente regolamento vengono prestate nella misura e con le modalita' stabilite dal decreto del Ministro delle finanze 13 gennaio 1994, pubblicato nella Gazzetta Ufficiale n. 13 del 18 gennaio 1994, con le seguenti modifiche ed integrazioni:
+ 
+                            
+                            
+                                a)
+                                
+                                    nel caso di garanzia per il pagamento dell'accisa nazionale dovuta da operatori professionali o da soggetti che operano tramite rappresentante fiscale, nonche' di quella dovuta per i trasferimenti, in regime sospensivo, di prodotti alcolici contrassegnati, la misura della cauzione e' pari al cento per cento dell'accisa gravante su ogni partita trasferita;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    per i trasferimenti fra impianti ubicati nel territorio nazionale, la garanzia ha validita' solo nei confronti dell'amministrazione finanziaria italiana;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    in luogo del depositario autorizzato mittente, la garanzia puo' essere prestata dal trasportatore o dal proprietario della merce;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    l'amministrazione finanziaria ha la facolta' di concedere ai depositari autorizzati riconosciuti affidabili o di notoria solvibilita' l'esonero dall'obbligo di prestare la garanzia per i trasferimenti, sia nazionali che intracomunitari, di oli minerali, effettuati per via marittima o a mezzo tubazioni.
 
 ## Art. 24. — Importazioni ed esportazioni
 

@@ -8,8 +8,8 @@ codice_redazionale: 004G0347
 vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:22Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -31,7 +31,73 @@ All'articolo 5, comma 1, del decreto legislativo 17 gennaio 2003, n. 5, di segui
 
 ## Art. 2. — Modifiche all'articolo 7 del decreto legislativo n. 5 del 2003
 
+1.
+                        
+                            
+                                All'articolo 7 del decreto legislativo n. 5 del 2003 sono apportate le seguenti modificazioni:
+ 
+                            
+                            
+                                a)
+                                
+                                    al comma 3 sono aggiunte, in fine, le seguenti parole: «ove necessario ai fini dell'attuazione del contraddittorio, il giudice relatore assegna un termine non inferiore a dieci e non superiore a venti giorni per repliche»;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    dopo il comma 3, e' aggiunto il seguente:
+ «3-bis. Se nel processo sono costituite piu' di due parti, il termine assegnato per le ulteriori repliche non puo' essere inferiore a venti ne' superiore a quaranta giorni; ove siano indicati termini diversi, vale il maggiore fra quelli assegnati. Tale termine decorre dall'ultima delle notificazioni effettuate.».
+
 ## Art. 3. — Modifiche all'articolo 8 del decreto legislativo n. 5 del 2003
+
+1.
+                        
+                            
+                                All'articolo 8 del decreto legislativo n. 5 del 2003 sono apportate le seguenti modificazioni:
+ 
+                            
+                            
+                                a)
+                                
+                                    al comma 1, lettera b), le parole: «da parte del convenuto» sono soppresse;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    al comma 1, lettera c), sono aggiunte, in fine, le seguenti parole: «ovvero dalla scadenza del relativo termine»;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    al comma 2, lettera b), le parole: «se ha chiamato» sono sostituite dalle seguenti: «se sono stati chiamati»;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    al comma 2, lettera c), sono aggiunte, in fine, le seguenti parole: «ovvero dalla scadenza del relativo termine»;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    al comma 3, lettera b), sono aggiunte, in fine, le seguenti parole: «ovvero dalla scadenza del relativo termine»;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    dopo il comma 5, e' aggiunto il seguente:
+ «5-bis. Se nel processo sono costituite piu' di due parti, l'istanza di fissazione dell'udienza notificata da una di esse perde efficacia qualora, nel termine assegnato, un'altra parte notifichi una memoria o uno scritto difensivo.».
 
 ## Art. 4. — Modifiche all'articolo 10 del decreto legislativo n. 5 del 2003
 
@@ -100,7 +166,57 @@ All'articolo 2426, primo comma, n. 8-bis), secondo periodo, del codice civile, d
 
 ## Art. 18. — Modifiche all'articolo 2427 del codice civile
 
+1.
+                        
+                            
+                                All'articolo 2427, primo comma, n. 3-bis), del codice civile, sono apportate le seguenti modificazioni:
+ 
+                            
+                            
+                                a)
+                                
+                                    dopo la parola: «immobilizzazioni» sono inserite le seguenti: «materiali e»;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le parole: «di durata indeterminata» sono soppresse;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    la parola: «determinabile» e' sostituita dalla seguente: «rilevante»;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    le parole: «e sugli indicatori di redditivita' di cui sia stata data comunicazione» sono soppresse.
+
 ## Art. 19. — Modifiche all'articolo 2441 del codice civile
+
+1.
+                        
+                            
+                                All'articolo 2441 del codice civile, sono apportate le seguenti modificazioni:
+ 
+                            
+                            
+                                a)
+                                
+                                    al terzo comma, secondo periodo, la parola: «sui» e' sostituita dalla seguente: «in»;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    al sesto comma, ultimo periodo, le parole: «in borsa» sono sostituite dalle seguenti: «in mercati regolamentati».
 
 ## Art. 20. — Modifiche all'articolo 2447-novies del codice civile
 
@@ -146,6 +262,25 @@ All'articolo 2527 del codice civile il secondo comma e' sostituito dal seguente:
 All'articolo 2542 del codice civile il terzo comma e' soppresso.
 
 ## Art. 30. — Modifiche all'articolo 2545-quinquies del codice civile
+
+1.
+                        
+                            
+                                All'articolo 2545-quinquies del codice civile sono apportate le seguenti modificazioni:
+ 
+                            
+                            
+                                a)
+                                
+                                    al secondo comma, secondo periodo, le parole: «Il divieto» sono sostituite dalle seguenti: «La condizione»;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    dopo il quarto comma e' aggiunto il seguente:
+ «Le disposizioni dei commi secondo e terzo non si applicano alle cooperative con azioni quotate in mercati regolamentati.».
 
 ## Art. 31. — Modifiche all'articolo 2545-octies del codice civile
 
@@ -205,6 +340,25 @@ All'articolo 19 del decreto legislativo n. 385 del 1993, dopo il comma 8 e' inse
 All'articolo 23, comma 1, del decreto legislativo 1° settembre 1993, n. 385, sono aggiunte, in fine, le seguenti parole: «e in presenza di contratti o di clausole statutarie che abbiano per oggetto o per effetto il potere di esercitare l'attivita' di direzione e coordinamento.».
 
 ## Art. 41. — Modifiche all'articolo 24 del decreto legislativo n. 385 del 1993
+
+1.
+                        
+                            
+                                All'articolo 24 del decreto legislativo n. 385 del 1993, sono apportate le seguenti modificazioni:
+ 
+                            
+                            
+                                a)
+                                
+                                    la rubrica e' sostituita dalla seguente: «Sospensione del diritto di voto e degli altri diritti, obbligo di alienazione»;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    dopo il comma 3 e' aggiunto il seguente:
+ «3-bis. Non possono essere esercitati i diritti derivanti dai contratti o dalle clausole statutarie per i quali le autorizzazioni previste dall'articolo 19 non siano state ottenute ovvero siano state sospese o revocate.».
 
 ## Art. 42. — Modifiche all'articolo 29 del decreto legislativo n. 385 del 1993
 

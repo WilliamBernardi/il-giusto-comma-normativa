@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Leggi contenenti deleghe
 vigenza_date: 2013-11-12
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:39:42Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 LEGGE
@@ -76,6 +76,77 @@ Un'altra commissione di soli candidati esterni puo' essere costituita soltanto i
  all'istruzione post-secondaria e di valorizzazione
  di risultati di eccellenza).
 
+1.
+                    
+                        
+                            Il Governo e' delegato ad adottare, entro dodici mesi dalla data di entrata in vigore della presente legge, su proposta del Ministro della pubblica istruzione e, per quanto riguarda le lettere a), b) e c), su proposta del Ministro dell'universita' e della ricerca e del Ministro della pubblica istruzione, previo parere delle competenti Commissioni della Camera dei deputati e del Senato della Repubblica, da rendere entro sessanta giorni dalla data di trasmissione dei relativi schemi, trascorsi i quali possono essere comunque adottati, uno o piu' decreti legislativi finalizzati a:
+ 
+                        
+                        
+                            a)
+                            
+                                realizzare appositi percorsi di orientamento finalizzati alla scelta, da parte degli studenti, di corsi di laurea universitari e dell'alta formazione artistica, musicale e coreutica, di percorsi della formazione tecnica superiore, nonche' di percorsi finalizzati alle professioni e al lavoro;
+
+                            
+                        
+                        
+                            b)
+                            
+                                potenziare il raccordo tra la scuola, le istituzioni dell'alta formazione artistica, musicale e coreutica e le universita' ai fini di una migliore e specifica formazione degli studenti rispetto al corso di laurea o al corso di diploma accademico prescelto;
+
+                            
+                        
+                        
+                            c)
+                            
+                                valorizzare la qualita' dei risultati scolastici degli studenti ai fini dell'ammissione ai corsi di laurea universitari di cui alla legge 2 agosto 1999, n. 264;
+
+                            
+                        
+                        
+                            d)
+                            
+                                incentivare l'eccellenza degli studenti, ottenuta a vario titolo sulla base dei percorsi di istruzione.
+
+2.
+                    
+                        
+                            I decreti legislativi di cui al comma 1 sono emanati con l'osservanza dei seguenti principi e criteri direttivi:
+ 
+                        
+                        
+                            a)
+                            
+                                per i decreti legislativi di cui alla lettera a), prevedere l'individuazione delle misure e modalita' di raccordo tra le istituzioni scolastiche, le universita', gli istituti di alta formazione artistica, musicale e coreutica, gli istituti della formazione tecnica superiore, nonche' i percorsi finalizzati alle professioni e al lavoro; prevedere, nella definizione e realizzazione dei percorsi di orientamento, la partecipazione anche di docenti universitari e dell'alta formazione artistica, musicale e coreutica, nonche' della formazione tecnica superiore; prevedere la realizzazione dei predetti percorsi nell'ultimo anno del corso di studi;
+
+                            
+                        
+                        
+                            b)
+                            
+                                per i decreti legislativi di cui alla lettera b), prevedere apposite modalita' per favorire e sostenere la partecipazione degli istituti di istruzione secondaria superiore alle prove di verifica dell'adeguata preparazione iniziale degli studenti di cui all'articolo 6, comma 1, del regolamento di cui al decreto del Ministro dell'istruzione, dell'universita' e della ricerca 22 ottobre 2004, n. 270, e per il soddisfacimento degli eventuali obblighi formativi universitari;
+
+                            
+                        
+                        
+                            c)
+                            
+                                per i decreti legislativi di cui alla lettera c), prevedere che una quota del punteggio degli esami di ammissione ai corsi universitari di cui all'articolo 1 della legge 2 agosto 1999, n. 264, sia assegnata agli studenti che abbiano conseguito risultati scolastici di particolare valore, nell'ultimo triennio e nell'esame di Stato, anche in riferimento alle discipline piu' significative del corso di laurea prescelto, definendo altresi', in detti decreti, i criteri volti a valorizzare le discipline tecnico-scientifiche;
+
+                            
+                        
+                        
+                            d)
+                            
+                                per i decreti legislativi di cui alla lettera d), prevedere incentivi, anche di natura economica, finalizzati alla prosecuzione degli studi, anche nell'ambito dell'istruzione e formazione tecnica superiore, e definire le modalita' di certificazione del risultato di eccellenza;
+
+                            
+                        
+                        
+                            e)
+                            
+                                i decreti legislativi di cui alle lettere a) e d) sono adottati sentita la Conferenza unificata di cui all'articolo 8 del decreto legislativo 28 agosto 1997, n. 281, e successive modificazioni.
+
 Il Ministro della pubblica istruzione presenta ogni tre anni al Parlamento una relazione sull'andamento degli esami di Stato.
 
 L'attuazione del comma 1, lettere a), b) e c), e del comma 2, lettere a), b) e c), non deve comportare oneri aggiuntivi a carico della finanza pubblica.
@@ -93,6 +164,31 @@ Ulteriori disposizioni, correttive e integrative dei decreti legislativi di cui 
 Per i candidati agli esami di Stato a conclusione, rispettivamente, dell'anno scolastico 2006-2007 e dell'anno scolastico 2007-2008, continuano ad applicarsi, relativamente ai debiti formativi e all'attribuzione del punteggio per il credito scolastico, le disposizioni vigenti alla data di entrata in vigore della presente legge.
 
 In fase di prima attuazione e in mancanza di norme contrattuali al riguardo, alla determinazione dei compensi di cui all'articolo 4, comma 10, della legge 10 dicembre 1997, n. 425, come sostituito dall'articolo 1 della presente legge, si provvede, a decorrere dal 2007, nel limite massimo di euro 138.000.000. (1) ((3))
+
+3.
+                    
+                        
+                            Sono abrogati: 
+ 
+                        
+                        
+                            a)
+                            
+                                l'articolo 22, comma 7, primo, secondo, terzo, quarto e quinto periodo, della legge 28 dicembre 2001, n. 448; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                l'articolo 13, comma 4, e l'articolo 14 del decreto legislativo 17 ottobre 2005, n. 226; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                l'articolo 3, comma 1, lettera b), del decreto legislativo 19 novembre 2004, n. 286.
 
 All'onere derivante dalla presente legge, determinato in complessivi euro 143.000.000, a decorrere dall'anno 2007, di cui euro 138.000.000 per i compensi di cui al comma 10 dell'articolo 4 della legge 10 dicembre 1997, n. 425, come sostituito dalla presente legge, ed euro 5.000.000 per l'incentivazione di cui all'articolo 2, comma 1, lettera d), e comma 2, lettera d), si provvede, quanto ad euro 40.240.000, con la disponibilita' di cui all'articolo 22, comma 7, della legge 28 dicembre 2001, n. 448, quanto ad euro 63.810.000, mediante corrispondente riduzione dell'autorizzazione di spesa di cui all'articolo 3, comma 92, della legge 24 dicembre 2003, n. 350, e, quanto ad euro 38.950.000, mediante corrispondente riduzione dell'autorizzazione di spesa di cui all'articolo 1, comma 130, della legge 30 dicembre 2004, n. 311.
 

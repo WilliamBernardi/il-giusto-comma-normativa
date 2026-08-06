@@ -7,8 +7,8 @@ urn: urn:nir:stato:decreto.legislativo:2024-03-25;50
 vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:30Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -33,6 +33,161 @@ Sulla proposta del Ministro per gli affari europei, il Sud, le politiche di coes
 ## Art. 1. — Modifiche al decreto legislativo 
  8 novembre 2021, n. 208
 
+1.
+                    
+                        
+                            All'articolo 1 del decreto legislativo 8 novembre 2021, n. 208, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 1: 
+ 1) alla lettera a), dopo le parole: «condivisione di video» sono inserite le seguenti: «o anche solo audio o entrambi»; 
+ 2) la lettera b) e' sostituita dalla seguente: 
+ «b) le disposizioni in materia di servizi di media audiovisivi e radiofonici e di programmi-dati, anche ad accesso condizionato, nonche' in materia di fornitura di servizi interattivi associati e di servizi di accesso condizionato su qualsiasi piattaforma di diffusione, comprese le comunicazioni commerciali audiovisive e radiofoniche e i servizi di piattaforma per la condivisione di video o anche solo audio.»;
+                                
+                            
+                        
+                        
+                            b)
+                            
+                                
+                                    il comma 2 e' abrogato.
+
+2.
+                    
+                        
+                            All'articolo 2 del decreto legislativo n. 208 del 2021, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                
+                                    al comma 1, le parole: «i concessionari radiofonici» sono sostituite dalle seguenti: «le emittenti radiofoniche»;
+                                
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 2: 
+ 1) le parole: «i concessionari radiofonici opera» sono sostituite dalle seguenti: «l'emittente radiofonica operano»; 
+ 2) alle lettere a), b) e c), dopo la parola: «audiovisivo» sono inserite le seguenti: «o radiofonico»; 
+ 3) la lettera d) e' sostituita dalla seguente: 
+ «d) quando hanno la sede principale in Italia e una parte significativa degli addetti allo svolgimento dell'attivita' di servizio di media audiovisivo o radiofonico collegata ai programmi opera sia in Italia sia in un altro Stato membro;».
+                                
+                            
+                        
+                        
+                            c)
+                            
+                                
+                                    al comma 3 dopo le parole «I fornitori» sono inserite le seguenti: «e le emittenti».
+
+3.
+                    
+                        
+                            All'articolo 3 del decreto legislativo n. 208 del 2021 sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 1: 
+ 1) alla lettera a), le parole: «ai sensi dell'articolo 2, numero 1), della direttiva 2018/1972/UE del Parlamento europeo e del Consiglio, dell'11 dicembre 2018
+                                        » sono soppresse e dopo la parola: «elettroniche» sono aggiunte le seguenti: «, in radiodiffusione o a richiesta;»; 
+ 2) alla lettera c), le parole: «la fornitura di programmi, video generati dagli utenti o entrambi destinati al grande» sono sostituite dalle seguenti: «la fornitura di programmi o video generati dagli utenti destinati al grande»; 
+ 3) dopo la lettera c) e' inserita la seguente: 
+ «c-bis) "servizio di piattaforma per la condivisione di contenuti solo audio": un servizio con le caratteristiche di cui alla lettera c) in cui il contenuto condiviso e' costituito da programmi sonori o da audio generati dall'utente, o entrambi, destinati al grande pubblico;»; 
+ 4) alla lettera d), dopo la parola: «audiovisivo», sono inserite le seguenti: «o radiofonico»; 
+ 5) alla lettera f), dopo le parole: «via satellite,», sono inserite le seguenti: «per trasmissione sia televisive che radiofoniche»; 
+ 6) alla lettera i), la parola: «audiovisivo» e' soppressa; 
+ 7) alla lettera n), le parole: «un'emittente televisiva o radiofonica, analogica o digitale» sono sostituite dalle seguenti: «un fornitore di servizi di media audiovisivi o radiofonici, o da un'emittente radiofonica» e la parola: «serie» e' sostituita dalla seguente: «pluralita'»; 
+ 8) alla lettera p), le parole: «o radiodiffusione televisiva» sono soppresse; 
+ 9) alla lettera s), le parole: «dall'emittente, anche analogica» sono sostituite dalle seguenti: «dal fornitore di servizi di media audiovisivi o radiofonici o dall'emittente radiofonica» e le parole: «, anche analogica» sono sostituite dalle seguenti: «o altro fornitore»; 
+ 10) alla lettera z), dopo la parola: «sponsorizzazioni», sono inserite le seguenti: «di cui alla lettera ss)»; 
+ 11) alla lettera dd) le parole: «corrispondenti alle reti di I livello» sono sostituite dalle seguenti: «, su reti di I livello o su reti di II livello»; 
+ 12) alla lettera hh), dopo la parola: «autorizzazione», sono inserite le seguenti: «alla prosecuzione dell'attivita', ai sensi della legge 20 marzo 2001, n. 66, che opera» e al numero 3), dopo la parola: «obblighi», sono inserite le seguenti: «di palinsesto»; 
+ 13) dopo la lettera ii) e' inserita la seguente: 
+ «ii-bis) "fornitore di servizi di media radiofonici a carattere comunitario su base nazionale o locale": il fornitore caratterizzato dall'assenza dello scopo di lucro, che trasmette programmi originali autoprodotti che fanno riferimento ad istanze culturali, etniche, politiche e religiose per almeno il 30 per cento dell'orario di trasmissione giornaliero compreso tra le ore 7 e le ore 21, che puo' avvalersi di sponsorizzazioni e che non trasmette piu' del 10 per cento di pubblicita' per ogni ora di diffusione;»; 
+ 14) alla lettera ss), dopo le parole: «condivisione di video», sono inserite le seguenti: «o anche solo audio o entrambi»; 
+ 15) dopo la lettera tt) e' inserita la seguente: «tt-bis) "spot di televendita": televendita di durata minima ininterrotta inferiore a 15 minuti nei servizi di media audiovisivi e a 3 minuti nei servizi di media radiofonici;»; 
+ 16) alla lettera vv), dopo la parola «audiovisivi», sono inserite le seguenti: «o radiofonici o dall'emittente radiofonica» e le parole: «o dall'emittente di radiodiffusione nell'ambito di un programma» sono soppresse; 
+ 17) la lettera eee) e' sostituita dalla seguente: «eee) "autopromozione": gli annunci effettuati da emittenti radiofoniche e fornitori di servizi di media in relazione ai propri programmi e ai prodotti collaterali da questi direttamente derivati ovvero in relazione a programmi audiovisivi o radiofonici e servizi di media di altre entita' appartenenti al medesimo gruppo, ai sensi dell'articolo 51 e dell'articolo 2359 del codice civile. Sono inclusi gli annunci promozionali dell'emittente televisiva relativi a servizi di media audiovisivi effettuati per una stazione radio appartenente al medesimo gruppo sempre che non siano scindibili dall'attivita' principale della stazione radio e che l'emittente televisiva ne assuma la responsabilita' editoriale.»; 
+ 18) Al comma 2, dopo le parole «servizi radiofonici», sono inserite le seguenti: «in difetto di previsione espressa, ove ne ricorrano i presupposti».
+
+4.
+                    
+                        
+                            All'articolo 4 del decreto legislativo n. 208 del 2021 sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                
+                                    il comma 1 e' sostituito dal seguente: 
+ «1. Il sistema dei servizi di media audiovisivi e della radiofonia, si conforma ai seguenti principi, a garanzia degli utenti: 
+ a) liberta' e pluralismo dei mezzi di comunicazione radiotelevisiva; 
+ b) liberta' di espressione di ogni individuo, inclusa la liberta' di opinione e quella di ricevere o di comunicare informazioni o idee senza limiti di frontiere, nel rispetto della dignita' umana, del principio di non discriminazione e di contrasto ai discorsi d'odio; 
+ c) obiettivita', completezza, lealta' e imparzialita' dell'informazione; 
+ d) contrasto alle strategie di disinformazione; 
+ e) tutela dei diritti d'autore e di proprieta' intellettuale; 
+ f) apertura alle diverse opinioni e tendenze politiche, sociali, culturali e religiose; 
+ g) salvaguardia delle diversita' etniche e del patrimonio culturale, artistico e ambientale, in ambito nazionale e locale, nel rispetto delle liberta' e dei diritti, in particolare della dignita' della persona e della protezione dei dati personali, della promozione e tutela del benessere, della salute e dell'armonico sviluppo fisico, psichico e morale del minore, garantiti dalla Costituzione, dal diritto dell'Unione europea, dalle norme internazionali vigenti nell'ordinamento italiano e dalle leggi statali e regionali; 
+ h) fermo restando quanto previsto dalla lettera b), contrasto alla tendenza contemporanea di distruggere o comunque ridimensionare gli elementi o simboli della storia e della tradizione della Nazione (cancel culture).»;
+                                
+                            
+                        
+                        
+                            b)
+                            
+                                
+                                    il comma 3 e' sostituito dal seguente: 
+ «3. Il Ministero, d'intesa con l'Autorita', sentito il Ministero della cultura, il Ministero dell'universita' e della ricerca, il Ministero dell'istruzione e del merito, l'Autorita' politica delegata all'innovazione tecnologica e l'Autorita' politica con delega alla famiglia, promuove l'alfabetizzazione mediatica e digitale, attraverso i fornitori di servizi di media e i fornitori di piattaforme di condivisione di contenuti video o anche solo audio o entrambi, e ferme restando le attivita' di sostegno all'educazione all'immagine e di promozione dell'alfabetizzazione alle tecniche e ai media di produzione e diffusione delle immagini di cui agli articoli 3 e 27 della legge 14 novembre 2016, n. 220.»;
+                                
+                            
+                        
+                        
+                            c)
+                            
+                                
+                                    al comma 4, il secondo periodo e' sostituito dal seguente: 
+ «Ogni tre anni il Ministero presenta alla Commissione europea una relazione sull'attivita' di promozione dell'alfabetizzazione sulla base delle relazioni annuali predisposte dall'Autorita'.»;
+                                
+                            
+                        
+                        
+                            d)
+                            
+                                
+                                    il comma 8 e' abrogato.
+
+5.
+                    
+                        
+                            All'articolo 5 del decreto legislativo n. 208 del 2021, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                
+                                    al comma 1, lettera d), le parole da: «, stabilendo, comunque» fino a: «ambito locale» sono soppresse;
+                                
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 1, lettera e): 
+ 1) il numero 1) e' sostituito con il seguente: 
+ «1) di rendere disponibili le stesse piattaforme e informazioni tecniche nei confronti delle emittenti radiofoniche, dei fornitori di servizi di media radiofonici o dei fornitori di servizi di media audiovisivi, senza effettuare discriminazioni in ragione della riconducibilita' o meno a societa' collegate o controllate;»; 
+ 2) al numero 3), le parole: «dalle emittenti» sono sostituite dalle seguenti: «dai fornitori di servizi di media radiofonici o audiovisivi anche a richiesta, che non siano riconducibili a societa' collegate o controllate»; 
+ 3) al numero 5.2), le parole: «il fornitore di servizi di media audiovisivi, anche a richiesta, o radiofonici» sono sostituite dalle seguenti: «il fornitore di servizi di media audiovisivi o radiofonici, o di servizi di media audiovisivi a richiesta» e le parole: «di tenere la» sono sostituite dalle seguenti: «e' tenuto alla».
+
 All'articolo 6 del decreto legislativo n. 208 del 2021, al comma 2, le parole: «, comunque» sono soppresse.
 
 All'articolo 8 del decreto legislativo n. 208 del 2021, il comma 2 e' sostituito dal seguente: 
@@ -56,7 +211,468 @@ L'articolo 15 del decreto legislativo n. 208 del 2021 e' sostituito dal seguente
 
 La rubrica del titolo III, capo III, del decreto legislativo n. 208 del 2021, e' sostituita dalla seguente: «Disciplina dell'emittente e del fornitore di servizi di media audiovisivi e radiofonici via satellite e via cavo e della fornitura di servizi di media audiovisivi a richiesta».
 
+14.
+                    
+                        
+                            All'articolo 22 del decreto legislativo n. 208 del 2021 sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                
+                                    al comma 1, dopo le parole: «assegnate, dal Ministero,» sono inserite le seguenti: «all'operatore di rete radiofonico in onde medie»;
+                                
+                            
+                        
+                        
+                            b)
+                            
+                                
+                                    il comma 2 e' sostituito dal seguente: 
+ «2. L'Autorita' adotta il regolamento di cui al comma 1 entro il 30 giugno 2024.».
+
+15.
+                    
+                        
+                            All'articolo 24 del decreto legislativo n. 208 del 2021 sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 3: 
+ 1) dopo la parola: «concessioni» sono inserite le seguenti: «e delle autorizzazioni alla prosecuzione dell'attivita' rilasciate ai sensi del decreto-legge 23 gennaio 2001, n. 5, convertito, con modificazioni, dalla legge 20 marzo 2001, n. 66,»; 
+ 2) le parole da: «da parte di societa' di capitali» fino a: «responsabilita' limitata» sono sostituite dalle seguenti: «da parte delle societa' che rispettano i requisiti previsti dall'articolo 21 del presente testo unico»; 
+ 3) il secondo periodo e soppresso;
+                                
+                            
+                        
+                        
+                            b)
+                            
+                                
+                                    al comma 4, il secondo periodo e' sostituito dal seguente: «In caso di trasferimento di concessione per emittente di radiodiffusione sonora in ambito nazionale o locale o di trasformazione della forma giuridica del titolare, la concessione e' convertita in concessione a carattere comunitario o commerciale secondo i requisiti del nuovo titolare.»;
+                                
+                            
+                        
+                        
+                            c)
+                            
+                                
+                                    al comma 6, dopo le parole: «cessione di ramo d'azienda» sono inserite le seguenti: «e deve essere comunicata al Ministero a mezzo posta elettronica certificata (pec) entro 48 ore dalla relativa sottoscrizione».
+
+16.
+                    
+                        
+                            All'articolo 25 del decreto legislativo n. 208 del 2021 sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                
+                                    al comma 1, la parola: «periferici» e' sostituita dalla seguente: «territoriali»;
+                                
+                            
+                        
+                        
+                            b)
+                            
+                                
+                                    al comma 2, la parola: «anche» e' soppressa e la parola: «periferici» e' sostituita dalla seguente: «territoriali»; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                
+                                    al comma 3, la parola: «periferici» e' sostituita dalla seguente: «territoriali» e le parole: «commi 2 e 3» sono sostituite dalle seguenti: «commi 1 e 2»;
+                                
+                            
+                        
+                        
+                            d)
+                            
+                                
+                                    al comma 4, dopo le parole: «comunicazioni elettroniche» sono aggiunte, in fine, le seguenti: «con provvedimento entro novanta giorni dalla presentazione dell'istanza. Non si applica l'articolo 20 della legge 7 agosto 1990, n. 241
+                                        »;
+                                
+                            
+                        
+                        
+                            e)
+                            
+                                
+                                    il comma 5 e' abrogato.
+
+17.
+                    
+                        
+                            All'articolo 26 del decreto legislativo n. 208 del 2021 sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                
+                                    al comma 1, le parole: «anche operanti nello stesso bacino di utenza» sono sostituite dalle seguenti: «purche' operanti in aree tecniche diverse»;
+                                
+                            
+                        
+                        
+                            b)
+                            
+                                
+                                    al comma 3, le parole: «di cui all'articolo 7, comma 1, lettera i), numero 3» sono sostituite dalle seguenti: «di cui all'articolo 5, comma 1, lettera g), numero 3»;
+                                
+                            
+                        
+                        
+                            c)
+                            
+                                
+                                    al comma 7, le parole: «per un tempo massimo di dodici ore al giorno sul territorio nazionale» sono sostituite dalle seguenti: «e per il tempo massimo indicato al comma 3».
+
+18.
+                    
+                        
+                            All'articolo 27 del decreto legislativo n. 208 del 2021 sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 1: 
+ 1) dopo la parola: «Ministero» sono inserite le seguenti: «, attraverso i propri organi territoriali»; 
+ 2) le parole: «articolo 7» sono sostituite dalle seguenti: «articolo 5»; 
+ 3) dopo il quarto periodo, e' aggiunto, in fine, il seguente: «I programmi televisivi diffusi sono limitati all'area tecnica in cui i fornitori di servizi di media audiovisivi hanno acquisito capacita' trasmissiva.».
+
+19.
+                    
+                        
+                            All'articolo 29 del decreto legislativo n. 208 del 2021 sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                
+                                    al comma 4, lettera b) la parola: «ex» e' sostituita dalla seguente: «prima»;
+                                
+                            
+                        
+                        
+                            b)
+                            
+                                
+                                    al comma 5, le parole: «del comma 2 e stabilisce le condizioni di utilizzo del numero assegnato» sono sostituite dalle seguenti: «del comma 4 e stabilisce, con apposito decreto, sentita l'Autorita', le condizioni e le modalita' di utilizzo del numero assegnato».
+                                
+                            
+                        
+                        
+                            c)
+                            
+                                al comma 7: 
+ 1. le parole: «da 4 a 6» sono sostituite dalle seguenti: «4 e 5»; 
+ 2. le parole: «a tali provvedimenti,» sono sostituite dalle seguenti: «agli ordini e alle diffide,»;
+
+20.
+                    
+                        
+                            All'articolo 30 del decreto legislativo n. 208 del 2021 sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                
+                                    al comma 1, l'alinea e' sostituito dal seguente: 
+ «1. La programmazione predisposta dai fornitori di servizi di media audiovisivi o radiofonici soggetti alla giurisdizione italiana non deve contenere alcuna istigazione a commettere reati oppure apologia degli stessi, in particolare:»;
+                                
+                            
+                        
+                        
+                            b)
+                            
+                                
+                                    il comma 2 e' sostituito dal seguente: 
+ «2. Con apposito regolamento dell'Autorita' sono definiti criteri vincolanti idonei a prevenire nella programmazione la violazione dei divieti di cui al comma 1.»;
+                                
+                            
+                        
+                        
+                            c)
+                            
+                                
+                                    al comma 3, le parole: «delle disposizioni» sono sostituite dalle seguenti: «dei divieti» e le parole «e di quelle stabilite» sono sostituite dalle seguenti: «e dei criteri stabiliti».
+
+21.
+                    
+                        
+                            All'articolo 31 del decreto legislativo n. 208 del 2021 sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                
+                                    la rubrica e' sostituita dalla seguente: «Accessibilita' alle persone con disabilita'»;
+                                
+                            
+                        
+                        
+                            b)
+                            
+                                
+                                    il comma 2 e' sostituito dal seguente: 
+ «2. Al fine di cui al comma 1, i fornitori sviluppano, con periodicita' almeno triennale, idonei piani d'azione e riferiscono periodicamente all'Autorita' in ordine all'attuazione delle misure assunte.»;
+                                
+                            
+                        
+                        
+                            c)
+                            
+                                
+                                    al comma 3, le parole: «entro il 19 dicembre 2022 e, successivamente, almeno ogni tre anni» sono sostituite dalle seguenti: «con cadenza triennale»;
+                                
+                            
+                        
+                        
+                            d)
+                            
+                                
+                                    al comma 4, le parole: «diversamente abili» sono sostituite dalle seguenti: «con disabilita'»;
+                                
+                            
+                        
+                        
+                            e)
+                            
+                                
+                                    al comma 5, le parole: «In caso di inosservanza delle disposizioni attuative di cui al comma 1 e delle disposizioni del presente articolo,» sono sostituite dalle seguenti: «In caso di inosservanza delle disposizioni del presente articolo e delle disposizioni attuative dell'Autorita', la medesima»;
+                                
+                            
+                        
+                        
+                            f)
+                            
+                                
+                                    al comma 6, le parole: «diversamente abili» sono sostituite dalle seguenti: «persone con disabilita'».
+
+22.
+                    
+                        
+                            All'articolo 33 del decreto legislativo n. 208 del 2021 sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                
+                                    al comma 4, le parole: «L'operatore predispone» sono sostituite dalle seguenti: 
+ «L'operatore e il fornitore di servizi di media audiovisivi predispongono» e le parole: «di cui alla prima parte del presente comma» sono soppresse;
+                                
+                            
+                        
+                        
+                            b)
+                            
+                                
+                                    al comma 5, le parole: «di cui ai commi 3 e 4» sono sostituite dalle seguenti: «del presente articolo,».
+
+23.
+                    
+                        
+                            All'articolo 35 del decreto legislativo n. 208 del 2021 sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                
+                                    il comma 2 e' sostituito dal seguente: 
+ «2. Ogni persona fisica o ente giuridico i cui diritti, in particolare all'onore e alla reputazione, siano stati lesi a seguito di un'affermazione di fatti non conformi al vero contenuta in un programma televisivo o radiofonico, ha diritto di chiedere al fornitore di servizi di media audiovisivi o radiofonici, ivi inclusa la concessionaria del servizio pubblico radiofonico, televisivo e multimediale, all'emittente radiofonica oppure alle persone da loro delegate al controllo della trasmissione, la diffusione di contenuti in rettifica, purche' questi ultimi non diano luogo a responsabilita' penali.»;
+                                
+                            
+                        
+                        
+                            b)
+                            
+                                
+                                    al comma 4, le parole: «ai sensi del comma 3» sono sostituite dalle seguenti: «ai sensi del comma 2».
+
 All'articolo 36, comma 1, del decreto legislativo n. 208 del 2021, le parole: «televisive e» sono soppresse.
+
+25.
+                    
+                        
+                            All'articolo 37 del decreto legislativo n. 208 del 2021 sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                
+                                    alla rubrica, dopo la parola: «audiovisiva» sono aggiunte le seguenti: «e radiofonica»;
+                                
+                            
+                        
+                        
+                            b)
+                            
+                                
+                                    al comma 5, le parole: «e il Comitato di applicazione del Codice di autoregolamentazione media e minori» sono sostituite dalle seguenti: «, il Comitato consultivo di cui all'articolo 8, comma 2, e l'Autorita' politica con delega alla famiglia,» e le parole: «i programmi di cui al comma 3» sono sostituite dalle seguenti «i programmi di cui al comma 1 nei casi di cui al comma 3»;
+                                
+                            
+                        
+                        
+                            c)
+                            
+                                
+                                    al comma 6, il secondo periodo e' sostituito con il seguente: «Il Codice di autoregolamentazione e' adottato entro il 31 dicembre 2024, previo parere della Commissione parlamentare di cui alla legge 23 dicembre 1997, n. 451 e del comitato consultivo di cui all'articolo 8, con decreto del Ministro, ai sensi dell'articolo 17, comma 3, della legge 23 agosto 1988, n. 400. Nelle more dell'adozione del codice di autoregolamentazione continua ad applicarsi il codice attualmente vigente.»;
+                                
+                            
+                        
+                        
+                            d)
+                            
+                                
+                                    il comma 7 e' sostituito dal seguente: «7. I fornitori di servizi di media audiovisivi sono altresi' obbligati a garantire l'applicazione di specifiche misure a tutela dei minori all'interno dei programmi direttamente rivolti ai minori, con particolare riguardo ai messaggi pubblicitari, alle promozioni e ogni altra forma di comunicazione commerciale audiovisiva.»;
+                                
+                            
+                        
+                        
+                            e)
+                            
+                                
+                                    al comma 10, le parole da: «Il Ministro dello sviluppo economico» fino a: «l'Autorita' delegata all'editoria» sono sostituite dalle seguenti: «Il Ministro, d'intesa con il Ministro dell'istruzione e del merito, sentiti l'Autorita' garante per l'infanzia e l'adolescenza, l'Autorita' delegata per le politiche per la disabilita' e il Presidente del Consiglio dei ministri ovvero, se nominata, l'Autorita' delegata all'editoria»;
+                                
+                            
+                        
+                        
+                            f)
+                            
+                                
+                                    al comma 11, le parole: «delle emittenti radiotelevisive» sono sostituite dalle seguenti: «dai fornitori di servizi media audiovisivi»;
+                                
+                            
+                        
+                        
+                            g)
+                            
+                                
+                                    al comma 12 le parole: «e radiofonici» sono soppresse.
+
+26.
+                    
+                        
+                            All'articolo 38 del decreto legislativo n. 208 del 2021, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                
+                                    al comma 1, le parole da: «sentito il Comitato di applicazione» fino alle parole: «effettuate dal medesimo Comitato», sono soppresse;
+                                
+                            
+                        
+                        
+                            b)
+                            
+                                
+                                    al comma 2, le parole: «sentito il Comitato di applicazione del Codice di autoregolamentazione media e minori» sono sostituite dalle seguenti: «sentito il Comitato consultivo interistituzionale di cui all'articolo 8, comma 2, che si esprime entro quindici giorni»;
+                                
+                            
+                        
+                        
+                            c)
+                            
+                                
+                                    il comma 3 e' sostituito dal seguente: «3. In aggiunta a quanto previsto dal comma 2, in caso di violazione del divieto di cui al comma 3 dell'articolo 37, si applica la sanzione amministrativa della disattivazione dell'impianto di trasmissione.»;
+                                
+                            
+                        
+                        
+                            d)
+                            
+                                
+                                    al comma 4, le parole: «Le sanzioni amministrative previste dal presente articolo si applicano anche se il fatto costituisce reato e indipendentemente dall'avvio di un'azione penale» e le parole: «Non si applicano le sezioni I e II del Capo I della legge 24 novembre 1981, n. 689» sono soppresse;
+                                
+                            
+                        
+                        
+                            e)
+                            
+                                
+                                    il comma 5 e' sostituito dal seguente: «5. L'Autorita', sentiti l'Autorita' garante per l'infanzia e l'adolescenza, il Comitato consultivo interistituzionale di cui all'articolo 8, comma 2 e l'Autorita' politica con delega alla famiglia, che si esprimono entro quindici giorni, presenta al Parlamento, entro il 31 marzo di ogni anno, una relazione sulla tutela dei diritti dei minori, sulle misure adottate, sui procedimenti per la violazione dei codici di autoregolamentazione e sulle sanzioni irrogate. Ogni sei mesi, l'Autorita', sentiti l'Autorita' garante per l'infanzia e l'adolescenza ed il Comitato consultivo interistituzionale di cui all'articolo 8, comma 2, invia alla Commissione parlamentare per l'infanzia e l'adolescenza di cui alla legge 23 dicembre 1997, n. 451, una relazione informativa sulle attivita' di sua competenza in materia di tutela dei diritti dei minori, corredata da eventuali segnalazioni, suggerimenti od osservazioni.».
+
+27.
+                    
+                        
+                            All'articolo 39 del decreto legislativo n. 208 del 2021 sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                
+                                    al comma 1, le parole: «televisive e» sono soppresse e le parole: «e con il Ministro della giustizia» sono sostituite dalle seguenti: «, con il Ministro della giustizia e con il Ministro dell'interno».
+
+28.
+                    
+                        
+                            All'articolo 40 del decreto legislativo n. 208 del 2021 sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                
+                                    dopo il comma 5 e' aggiunto, in fine, il seguente: 
+ «5-bis Le disposizioni del presente articolo si applicano anche ai fornitori di servizi di media radiofonici, alle emittenti radiofoniche ed ai servizi dalle stesse forniti.».
+
+29.
+                    
+                        
+                            L'articolo 41 del decreto legislativo n. 208 del 2021 e' sostituito dal seguente: 
+ «Art. 41 (Disposizioni generali). - 1. I fornitori di servizi di piattaforma per la condivisione di video stabiliti sul territorio nazionale sono soggetti alla giurisdizione italiana. 
+ 2. Un fornitore di piattaforme per la condivisione di video che non e' stabilito sul territorio nazionale a norma del comma 1 si considera stabilito sul territorio italiano se: 
+ a) l'impresa che lo controlla o un'impresa controllata sia stabilita sul territorio italiano; 
+ b) oppure fa parte di un gruppo e un'altra impresa di detto gruppo e' stabilita sul territorio italiano. 
+ 3. Ai fini del presente articolo, il «gruppo» comprende l'impresa controllante, tutte le imprese da questa controllate e tutte le altre imprese aventi legami organizzativi, economici e giuridici con esse. 
+ 4. Ai fini dell'applicazione dei commi 2 e 3, nel caso in cui l'impresa controllante o la controllata o le altre imprese del gruppo sono stabilite in Stati membri diversi, il fornitore di piattaforme per la condivisione di video e' considerato stabilito in Italia, se qui e' stabilita l'impresa controllante o, in assenza di tale stabilimento, se e' ivi stabilita una sua impresa controllata o, in assenza di tale stabilimento, se e' ivi stabilita un'impresa del gruppo. 
+ 5. Ai fini dell'applicazione del comma 4, nel caso in cui vi siano varie imprese controllate da un'impresa e ciascuna di esse sia stabilita in uno Stato membro differente, il fornitore di piattaforme per la condivisione di video e' considerato stabilito in Italia se una delle imprese controllate ha avviato per prima la propria attivita' in Italia, a condizione che mantenga un collegamento effettivo e stabile con l'economia italiana. 
+ 6. Ai fornitori di piattaforme per la condivisione di video stabiliti in Italia a norma dei commi da 1 a 5 si applicano gli articoli 3, 4 e 5 del decreto legislativo 9 aprile 2003, n. 70. 
+ 7. Fermo quanto previsto ai commi 1, 2, 3, 4, 5 e 6, la libera circolazione di programmi, video generati dagli utenti e comunicazioni commerciali audiovisive veicolati da una piattaforma per la condivisione di video il cui fornitore e' stabilito in un altro Stato membro e diretti al pubblico italiano puo' essere limitata, con provvedimento dell'Autorita', secondo la procedura di cui all'articolo 5, commi 2, 3 e 4 del decreto legislativo 9 aprile 2003, n. 70, per i seguenti fini: 
+ 
+                        
+                        
+                            a)
+                            
+                                la tutela dei minori da contenuti che possono nuocere al loro sviluppo fisico, psichico o morale a norma dell'articolo 37; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                la lotta contro l'incitamento all'odio razziale, sessuale, religioso o etnico, nonche' contro la violazione della dignita' umana; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                la tutela dei consumatori, ivi compresi gli investitori, ai sensi del presente testo unico. 
+ 8. Al fine di stabilire se un programma, un video generato dagli utenti ovvero una comunicazione commerciale audiovisiva siano diretti al pubblico italiano valgono criteri quali la lingua utilizzata, il raggiungimento di un numero significativo di contatti presenti sul territorio italiano o il conseguimento di ricavi in Italia. 
+ 9. La procedura per l'adozione dei provvedimenti di cui al comma 7 e' definita dall'Autorita' con proprio regolamento. 
+ 10. L'Autorita' compila e mantiene aggiornato un elenco dei fornitori di piattaforme per la condivisione di video stabiliti in Italia, curando la comunicazione alla Commissione europea dell'elenco e degli eventuali aggiornamenti, o che si considerano operanti sul territorio nazionale, indicando su quale dei criteri di cui al comma 8 si fonda l'intervento di cui al comma 7. A tal fine i suddetti fornitori sono tenuti a comunicare all'Autorita' l'inizio delle attivita' o, qualora gia' esistenti, la loro operativita' sul territorio nazionale. 
+ 11. Nell'ipotesi in cui non concordi con l'affermazione della propria giurisdizione ad opera di un altro Stato membro, l'Autorita' sottopone senza indugio la questione alla Commissione europea. 
+ 12. In caso di violazioni degli articoli 41 e 42, poste in essere da un fornitore di piattaforme per la condivisione di video stabilito in un altro Stato membro, l'Autorita' puo' inviare opportuna segnalazione all'autorita' nazionale di regolazione dello Stato membro in questione. 
+ 13. Le disposizioni di cui al presente articolo si applicano anche ai servizi di piattaforma per la condivisione di contenuti di solo audio o audio generati dagli utenti o entrambi, per quanto compatibili.».
 
 L'articolo 42 del decreto legislativo n. 208 del 2021 e' sostituito dal seguente: 
  «Art. 42 (Misure di tutela). - 1. I fornitori di piattaforme per la condivisione di video soggetti alla giurisdizione italiana devono adottare misure adeguate volte a tutelare: 
@@ -83,6 +699,169 @@ L'articolo 42 del decreto legislativo n. 208 del 2021 e' sostituito dal seguente
  9. Ferma restando la possibilita' di ricorrere all'Autorita' giudiziaria, per la risoluzione delle controversie derivanti dall'applicazione del presente articolo, e' ammesso il ricorso alle procedure alternative e stragiudiziali di risoluzione delle controversie fra utenti e fornitori di piattaforme per la condivisione di video dettate, nel rispetto del decreto legislativo 4 marzo 2010, n. 28, da un apposito regolamento adottato dall'Autorita'. 
  10. In caso di violazione, ad opera del fornitore di servizi di piattaforma per la condivisione di video, delle disposizioni contenute nel presente articolo, si applicano le sanzioni amministrative di cui all'articolo 67, comma 9, salvo quanto previsto dall'articolo 74 del regolamento (UE) 2022/2065 per le violazioni delle disposizioni recate dal medesimo regolamento europeo. 
  11. Le disposizioni di cui al presente articolo si applicano anche ai servizi di piattaforma per la condivisione di contenuti di solo audio o audio generati dagli utenti o entrambi, per quanto compatibili.».
+
+31.
+                    
+                        
+                            All'articolo 43, del decreto legislativo n. 208 del 2021 sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                
+                                    al comma 2, le parole: «con il Ministro per le pari opportunita' e la famiglia» sono sostituite dalle seguenti: «con l'Autorita' politica con delega alla famiglia»;
+                                
+                            
+                        
+                        
+                            b)
+                            
+                                
+                                    al comma 5, dopo le parole: «emittenti radiofoniche» sono inserite le seguenti: «, ai fornitori di servizi di media radiofonici e».
+
+32.
+                    
+                        
+                            All'articolo 44 del decreto legislativo n. 208 del 2021 sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                
+                                    al comma 11, dopo le parole: «emittenti radiofoniche» sono inserite le seguenti: «e dai fornitori di servizi di media radiofonici».
+
+33.
+                    
+                        
+                            All'articolo 45 del decreto legislativo n. 208 del 2021 sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                
+                                    al comma 1, le parole: «il 7 per cento, e dal 1° gennaio 2023» sono soppresse;
+                                
+                            
+                        
+                        
+                            b)
+                            
+                                
+                                    al comma 6, dopo le parole: «radiofonici da parte» sono inserite le seguenti: «dei fornitori di servizi di media radiofonici e» e le parole: «emittente radiofonica analogica a carattere comunitario» sono sostituite dalle seguenti: «di fornitori di servizi di media radiofonici o emittente radiofonica a carattere comunitario.»;
+                                
+                            
+                        
+                        
+                            c)
+                            
+                                
+                                    al comma 7, dopo le parole: «di cui al comma 6,» sono inserite le seguenti: «per i fornitori di servizi di media radiofonici e per»;
+                                
+                            
+                        
+                        
+                            d)
+                            
+                                
+                                    al comma 8, le parole: «delle emittenti, anche analogiche,» sono sostituite dalle seguenti: «dei fornitori di servizi di media audiovisivi e radiofonici e delle emittenti radiofoniche,»;
+                                
+                            
+                        
+                        
+                            e)
+                            
+                                
+                                    al comma 9, le parole: «alle emittenti, televisive o radiofoniche, sia analogiche che digitali,» sono sostituite dalle seguenti: «ai fornitori di servizi di media, audiovisivi e radiofonici e alle emittenti radiofoniche,»;
+                                
+                            
+                        
+                        
+                            f)
+                            
+                                
+                                    al comma 10, le parole: «televisive pubbliche e private» sono sostituite dalle seguenti: «dai fornitori di servizi di media, audiovisivi e radiofonici pubblici e privati».
+
+34.
+                    
+                        
+                            All'articolo 46 del decreto legislativo n. 208 del 2021 sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                
+                                    al comma 4, le parole: «di emittenti, anche analogiche,» sono sostituite dalle seguenti: «dei fornitori di servizi di media, audiovisivi e radiofonici e delle emittenti radiofoniche»;
+                                
+                            
+                        
+                        
+                            b)
+                            
+                                
+                                    al comma 7, dopo la parola: «altresi'» sono inserite le seguenti: «per quanto compatibili in relazione alla specificita' del mezzo utilizzato ai fornitori di servizi di media radiofonici,».
+
+35.
+                    
+                        
+                            All'articolo 50 del decreto legislativo n. 208 del 2021 sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                
+                                    al comma 3, le parole: «delle infrastrutture e della mobilita' sostenibili» sono sostituite dalle seguenti: «delle infrastrutture e dei trasporti»;
+                                
+                            
+                        
+                        
+                            b)
+                            
+                                
+                                    al comma 5, dopo le parole: «e' adottato il criterio delle aree tecniche.» e' aggiunto il seguente periodo: «Ai procedimenti di adozione e aggiornamento dei piani nazionali di assegnazione delle frequenze di cui al presente comma si applica il meccanismo di consultazione e trasparenza di cui all'articolo 23, comma 1, del decreto legislativo 1° agosto 2003, n. 259.»;
+                                
+                            
+                        
+                        
+                            c)
+                            
+                                
+                                    dopo il comma 5, e' inserito il seguente: 
+ «5-bis. L'Autorita' adotta il Piano nazionale di assegnazione delle frequenze da destinare al servizio televisivo digitale terrestre, individuando, per la pianificazione in ambito locale, in ciascuna area tecnica, piu' frequenze in banda UHF per la realizzazione di reti, di cui almeno una con copertura non inferiore al 90 per cento della popolazione dell'area, finalizzate alla messa a disposizione di capacita' trasmissiva ai fornitori di servizi di media audiovisivi in ambito locale.»;
+                                
+                            
+                        
+                        
+                            d)
+                            
+                                
+                                    al comma 11, primo periodo, le parole: «L'Autorita' definisce» sono sostituite dalle seguenti: «Il Ministero, sentita l'Autorita', definisce»;
+                                
+                            
+                        
+                        
+                            e)
+                            
+                                
+                                    dopo il comma 11 sono inseriti i seguenti: 
+ «11-bis. I contributi per l'utilizzo dello spettro radio da parte dei titolari di diritti d'uso delle frequenze utilizzate per il servizio di radiodiffusione sonora in tecnica digitale non sono dovuti per un periodo di 5 anni a partire dalla data di pubblicazione della delibera dell'Autorita' n. 286/22/CONS. 
+ 11-ter. I diritti amministrativi per i soggetti autorizzati alla fornitura di reti di radiodiffusione sonora in tecnica digitale e per i soggetti titolari di diritti d'uso delle frequenze pianificate per il servizio di radiodiffusione sonora in tecnica digitale non sono dovuti per il medesimo periodo di cui al comma 11-bis. Successivamente, essi sono dovuti con le stesse modalita' fissate per il servizio televisivo digitale terrestre all'articolo 1-bis dell'Allegato 12 al decreto legislativo 1° agosto 2003, n. 259, e per la quarta parte degli importi corrispondenti previsti.».
+
+36.
+                    
+                        
+                            All'articolo 51 del decreto legislativo 8 novembre 2021, n. 208, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                
+                                    al comma 2, dopo la parola: «sponsorizzazioni» sono inserite le seguenti: «di cui all'articolo 3, comma 1, lettera ss),» e le parole: «e radiofonici» sono sostituite dalle seguenti: «radiofonici e di piattaforma di condivisione di video».
 
 Gli articoli da 52 a 57 del decreto legislativo n. 208 del 2021 sono sostituiti dai seguenti: 
  «Art. 52 (Principi generali a tutela della produzione audiovisiva europea e indipendente). - 1. I fornitori di servizi di media audiovisivi, lineari e a richiesta, favoriscono lo sviluppo e la diffusione della produzione audiovisiva europea e indipendente secondo il diritto dell'Unione europea e le disposizioni di cui al presente titolo. 
@@ -133,11 +912,252 @@ Una percentuale pari al 75 per cento di tale quota e' riservata a opere di espre
  Art. 57 (Disposizioni applicative in materia di opere audiovisive di espressione originale italiana). - 1. Con regolamento dei Ministri delle imprese e del made in Italy e della cultura, adottato ai sensi dell'articolo 17, comma 3, della legge 23 agosto 1988, n. 400, sentita l'Autorita', e' stabilita, sulla base di principi di proporzionalita', adeguatezza, trasparenza ed efficacia, la definizione delle opere audiovisive, ovunque prodotte, di espressione originale italiana, con particolare riferimento a uno o piu' elementi quali la cultura, la storia, l'identita', la creativita', la lingua ovvero i luoghi. 
  2. Il regolamento di cui al presente articolo e' adottato entro il 30 giugno 2024 ed e' aggiornato a cadenza almeno triennale, anche sulla base delle relazioni annuali predisposte rispettivamente dall'Autorita' ai sensi dell'articolo 56, comma 6, e dalla direzione generale cinema e audiovisivo, del Ministero della cultura, ai sensi dell'articolo 12, comma 6, della legge 14 novembre 2016, n. 220, nonche' dei risultati raggiunti dalle opere promosse mediante l'assolvimento degli obblighi di investimento e all'efficacia delle condizioni contrattuali impiegate.».
 
+38.
+                    
+                        
+                            All'articolo 59 del decreto legislativo n. 208 del 2021 sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                
+                                    al comma 1, le parole: «articolo 7» sono sostituite dalle seguenti: «articolo 6»;
+                                
+                            
+                        
+                        
+                            b)
+                            
+                                
+                                    al comma 2, le parole: «articolo 8, comma 4» sono sostituite dalle seguenti: «articolo 6, comma 4»;
+                                
+                            
+                        
+                        
+                            c)
+                            
+                                
+                                    al comma 2, lettera q), le parole: «articolo 32, comma 7» sono sostituite dalle seguenti: «articolo 31»;
+                                
+                            
+                        
+                        
+                            d)
+                            
+                                
+                                    al comma 7, le parole: «comma 4» sono sostituite dalle seguenti: «comma 6».
+
+39.
+                    
+                        
+                            All'articolo 67 del decreto legislativo n. 208 del 2021 sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                
+                                    al comma 1, lettera b), le parole: «fornitori di contenuti» sono sostituite dalle seguenti: «fornitori di servizi di media»;
+                                
+                            
+                        
+                        
+                            b)
+                            
+                                
+                                    al comma 1, lettera r), le parole: «in materia di eventi di interesse sociale e di grande interesse pubblico ai sensi dei commi 2 e 4 dell'articolo 33» sono sostituite dalle seguenti: «per la disciplina degli eventi di cui all'articolo 33.»;
+                                
+                            
+                        
+                        
+                            c)
+                            
+                                
+                                    al comma 4, le parole: «nei confronti dell'emittente televisiva o dell'emittente radiofonica, anche analogica» sono sostituite dalle seguenti: «nei confronti del fornitore di servizi di media audiovisivi o radiofonici o dell'emittente radiofonica»;
+                                
+                            
+                        
+                        
+                            d)
+                            
+                                
+                                    al comma 11, le parole: «o dell'emittente radiofonica, anche digitale» sono sostituite dalle seguenti: «o radiofonici o dell'emittente radiofonica».
+
 All'articolo 71 del decreto legislativo n. 208 del 2021, dopo il comma 5, e' aggiunto il seguente: 
  «5-bis. Per gli anni 2024-2025, per l'attivita' di promozione dell'alfabetizzazione mediatica e digitale, il Ministero utilizza le risorse previste, per ciascuno degli anni 2024 e 2025, di cui all'articolo 1, comma 360, della legge 29 dicembre 2022, n. 197.»
 
 ## Art. 2. — Modificazioni formali al decreto legislativo 
  8 novembre 2021, n. 208
+
+1.
+                    
+                        
+                            Al decreto legislativo 8 novembre 2021, n. 208, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                
+                                    le parole: «Ministero dello sviluppo economico» ovunque ricorrono nel testo sono sostituite dalle seguenti: «Ministero delle imprese e del made in Italy» e le parole: 
+ «Ministro dello sviluppo economico», ovunque ricorrono, sono sostituite dalle seguenti: «Ministro delle imprese e del made in Italy»;
+                                
+                            
+                        
+                        
+                            b)
+                            
+                                all'articolo 2, comma 2, del decreto legislativo n. 208 del 2021: 
+ 1) alla lettera a), la parola: «ha» e' sostituita dalla seguente: «hanno» e la parola: «sua» e' sostituita dalla seguente: «loro»; 
+ 2) alla lettera b), la parola: «ha» e' sostituita dalla seguente: «hanno» e le parole «Paese terzo, se» sono sostituite dalle seguenti: «Paese terzo se,» 
+ 3) alla lettera c) le parole: «, pur avendo» sono sostituite dalla seguente: «ha»;
+                                    dopo la parola «terzo» e' inserita la seguente: «e»;
+                                
+                            
+                        
+                        
+                            c)
+                            
+                                
+                                    all'articolo 2, comma 5, del decreto legislativo n. 208 del 2021 il primo segno di interpunzione «,» e' soppresso;
+                                
+                            
+                        
+                        
+                            d)
+                            
+                                all'articolo 3, comma 1, del decreto legislativo n. 208 del 2021: 
+ 1) alla lettera q), le parole: «al momento scelto» sono sostituite dalle seguenti: «scelto al momento»; 
+ 2) alla lettera t), numero 1), le parole: «audiovisivi; ovvero» sono sostituite dalla seguente: «audiovisivi;»; 
+ 3) alla lettera v), le parole: «ai quali» sono sostituite dalle seguenti: «al quale»; 
+ 4) alla lettera aa), dopo le parole: «audiovisivi e multimediali» sono inserite le seguenti: 
+ «su tutte le piattaforme distributive»; 
+ 5) alla lettera dd), la parola: «limitrofi» e' sostituita dalla seguente: «limitrofe»; 
+ 6) alla lettera rr), le parole: «di», «del», «del» e «delle» rispettivamente prima delle parole: «servizi», «nome», «marchio» e «attivita'» sono soppresse;
+                                
+                            
+                        
+                        
+                            e)
+                            
+                                all'articolo 5 del decreto legislativo n. 208 del 2021: 
+ 1) al comma 1, lettera e): 
+ 1.1) al numero 3), le parole: «collegate e controllate» sono sostituite dalle seguenti: «collegate o controllate»; 
+ 1.2) al numero 4), dopo la parola: «radiofonici» e' inserito il seguente segno di interpunzione: «,»; 
+ 1.3) ai numeri 5.1) e 5.2), la parola: «per» e' soppressa e le parole: «di adottare» sono sostituite dalla seguente: «adotti»; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                
+                                    all'articolo 6, comma 1, del decreto legislativo n. 208 del 2021 dopo la parola: 
+ «radiofonico», e' soppresso il seguente segno di interpunzione: «,»;
+                                
+                            
+                        
+                        
+                            g)
+                            
+                                all'articolo 7 del decreto legislativo n. 208 del 2021: 
+ 1) al comma 2, lettera e), la parola: «nazionali» e' sostituita dalla seguente: «nazionale»; 
+ 2) al comma 3, lettera c), dopo la parola: «contraddittorio» e' soppresso il seguente segno di interpunzione «,» ed e' soppressa la parola: «proprie»; 
+ 3) al comma 5, le parole: «al diritto» sono sostituite dalle seguenti: «con il diritto»; 
+ 4) al comma 6, dopo la parola: «articolo» e' soppresso il seguente segno di interpunzione «,»; 
+ 5) al comma 12, lettera a), numero 3), la parola: «nazionali» e' sostituita dalla seguente: 
+ «nazionale»;
+                                
+                            
+                        
+                        
+                            h)
+                            
+                                
+                                    la rubrica dell'articolo 8 del decreto legislativo n. 208 del 2021 e' sostituita dalla seguente: «Funzioni del Ministero delle imprese e del made in Italy»;
+                                
+                            
+                        
+                        
+                            i)
+                            
+                                
+                                    all'articolo 11, comma 2, del decreto legislativo n. 208 del 2021 dopo le parole: «ambito locale» e' soppresso il seguente punto di interpunzione: «,» e la parola: «qualora» e' sostituita dalla seguente: «che»;
+                                
+                            
+                        
+                        
+                            l)
+                            
+                                
+                                    all'articolo 26, comma 6, del decreto legislativo n. 208 del 2021, dopo la parola: 
+ «radiofonici» e' soppresso il seguente punto di interpunzione: «,»;
+                                
+                            
+                        
+                        
+                            m)
+                            
+                                all'articolo 28 del decreto legislativo n. 208 del 2021: 
+ 1. alla rubrica, la parola: «Condizionato» e' sostituita dalla seguente: «condizionato»;
+                                    2. al comma 1, le parole: «sono soggette» sono sostituite dalle seguenti: «e' soggetta»;
+                                
+                            
+                        
+                        
+                            n)
+                            
+                                
+                                    all'articolo 31, al comma 3, del decreto legislativo n. 208 del 2021, dopo la parola «europea» e' inserito il seguente punto di interpunzione: «,»;
+                                
+                            
+                        
+                        
+                            o)
+                            
+                                
+                                    all'articolo 32, comma 1, del decreto legislativo n. 208 del 2021, la parola: «citata» e' soppressa»;
+                                
+                            
+                        
+                        
+                            p)
+                            
+                                
+                                    all'articolo 35, comma 1, del decreto legislativo n. 208 del 2021 dopo le parole: «giornali e periodici» e' soppresso il seguente punto di interpunzione: «,»;
+                                
+                            
+                        
+                        
+                            q)
+                            
+                                
+                                    all'articolo 36, comma 3, del decreto legislativo n. 208 del 2021 le parole: «che e'» sono soppresse e la parola: «contemporaneamente» e' sostituita dalla seguente: «contestualmente»;
+                                
+                            
+                        
+                        
+                            r)
+                            
+                                
+                                    all'articolo 37, comma 11, del decreto legislativo n. 208 del 2021, dopo la parola: «europee», e' soppresso il seguente punto di interpunzione: «,»;
+                                
+                            
+                        
+                        
+                            s)
+                            
+                                
+                                    all'articolo 39, comma 1, del decreto legislativo n. 208 del 2021, le parole: «sono tenute» sono sostituite dalle seguenti: «sono tenuti» e la parola: «ovvero» e' sostituita dalla seguente: «oppure»;
+                                
+                            
+                        
+                        
+                            t)
+                            
+                                
+                                    al titolo IV, capo II, del decreto legislativo n. 208 del 2021, la rubrica «Disposizioni applicabili ai servizi di piattaforma per la condivisione di video» e' sostituita con la seguente: «Disposizioni applicabili ai servizi di piattaforma per la condivisione di video, di audio o di entrambi».
 
 ## Art. 3. — Disposizioni finali
 

@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
 vigenza_date: 2023-12-06
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:38Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -33,6 +33,31 @@ Udito il parere del Consiglio di Stato, espresso dalla sezione consultiva per gl
 ((
 
 Il presente decreto integra le informazioni relative alla scheda di dimissione ospedaliera (SDO) e disciplina il relativo flusso informativo al fine di adeguare il contenuto informativo della scheda di dimissione ospedaliera (SDO) alle esigenze di monitoraggio, valutazione e pianificazione della programmazione sanitaria, anche in considerazione degli orientamenti definiti dalla normativa dell'Unione europea.
+
+2.
+                    
+                        
+                            Il presente decreto indica le finalita' di rilevante interesse pubblico perseguite; in particolare dispone anche che il trattamento dei dati acquisiti sia funzionale a: 
+ 
+                        
+                        
+                            a)
+                            
+                                supportare i processi di «programmazione, gestione, controllo e valutazione dell'assistenza sanitaria», (come individuato all'articolo 85, comma 1, lettera b), del decreto legislativo 30 giugno 2003, n. 196); 
+
+                            
+                        
+                        
+                            b)
+                            
+                                perseguire le finalita' relative ai trattamenti effettuati per scopi statistici dai soggetti pubblici che fanno parte del SISTAN e ai trattamenti effettuati per scopi scientifici (articolo 98, comma 1, lettere b) e
+                            
+                        
+                        
+                            c)
+                            
+                                del decreto legislativo 30 giugno 2003, n. 196); 
+ c) consentire una rilevazione sistematica a scopi epidemiologici.
 
 ))
 

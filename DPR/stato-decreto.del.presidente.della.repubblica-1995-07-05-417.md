@@ -8,8 +8,8 @@ codice_redazionale: 095G0447
 vigente: true
 source: normattiva-opendata
 collection: DPR
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:48:14Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -101,6 +101,38 @@ Campania:
 
 ## Art. 2. — Compiti
 
+1.
+                        
+                            
+                                Tenuto conto della specificita' delle raccolte, della tipologia degli utenti e del contesto territoriale in cui ciascuna e' inserita, le biblioteche pubbliche statali hanno i seguenti compiti:
+ 
+                            
+                            
+                                a)
+                                
+                                    raccogliere e conservare la produzione editoriale italiana a livello nazionale e locale;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    conservare, accrescere e valorizzare le proprie raccolte storiche;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    acquisire la produzione editoriale straniera in base alla specificita' delle proprie raccolte e tenendo conto delle esigenze dell'utenza;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    documentare il posseduto, fornire informazioni bibliografiche e assicurare la circolazione dei documenti.
+
 I compiti di cui al comma precedente sono svolti anche in cooperazione con altre biblioteche e istituzioni, al fine di realizzare un servizio bibliotecario integrato. In particolare le biblioteche universitarie attuano il coordinamento con le universita' nelle forme ritenute piu' idonee sul piano dei servizi e delle acquisizioni.
 
 ## - Titolo secondo ORDINAMENTO INTERNO
@@ -147,6 +179,38 @@ Ove i servizi della biblioteca siano in tutto o in parte automatizzati, i regist
 
 ## Art. 8. — Inventari topografici
 
+1.
+                        
+                            
+                                Ogni biblioteca deve possedere:
+ 
+                            
+                            
+                                a)
+                                
+                                    un inventario topografico dei manoscritti;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    un inventario topografico generale del materiale documentario (modello 2), eventualmente affiancato da un catalogo a schede, ordinato topograficamente. Quest'ultimo sostituisce l'inventario topografico in caso di collocazione sistematica;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    inventari topografici speciali per gli oggetti di interesse artistico, storico e scientifico (modello 3);
+
+                                
+                            
+                            
+                                d)
+                                
+                                    un inventario topografico dei beni mobili (modello 4).
+
 Negli inventari di cui al comma precedente, alla descrizione essenziale di ogni unita' si deve aggiungere il numero progressivo che essa ha nel registro cronologico d'entrata.
 
 Ove i servizi della biblioteca siano in tutto o in parte automatizzati, gli inventari a volume, previsti dal presente articolo, sono sostituiti dalle registrazioni in memoria, purche' complete di tutti gli elementi presenti nei modelli prescritti.
@@ -160,6 +224,52 @@ Negli inventari e' rigorosamente vietato cancellare.
 Le correzioni necessarie si apportano in modo che si possa comunque leggere quello che prima era scritto.
 
 ## Art. 10. — Cataloghi
+
+1.
+                        
+                            
+                                Ogni biblioteca deve possedere:
+ 
+                            
+                            
+                                a)
+                                
+                                    un catalogo generale alfabetico per autori dei documenti a stampa o realizzati con altri procedimenti, ordinato in serie unica;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    un catalogo alfabetico, per autori o per titoli, dei manoscritti. Tale mezzo di ricerca puo' essere sostituito dall'inventario di cui all'art. 8, comma primo, lettera a), quando sia redatto in forma descrittiva e sia corredato degli indici necessari. Di questi quello alfabetico deve essere ordinato in serie unica;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    un catalogo generale alfabetico per i periodici;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    un catalogo alfabetico per soggetti dei documenti moderni;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    un catalogo sistematico per i documenti moderni;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    cataloghi alfabetici per le carte geografiche, le incisioni, i documenti musicali, o altro materiale che non e' incluso nel catalogo generale.
 
 Le biblioteche possono, altresi', avere cataloghi speciali per gli incunaboli e per altre categorie o raccolte di materiale documentario ed iconografico dando la precedenza alle collezioni piu' numerose o piu' significative e tenendo, comunque, conto di eventuali particolari esigenze dell'utenza.
 
@@ -183,6 +293,24 @@ La descrizione di ciascun documento nei cataloghi deve essere corredata dall'ind
 
 Ove i servizi della biblioteca siano in tutto o in parte automatizzati, le operazioni descritte nei commi primo e secondo del presente articolo sono svolte secondo le rispettive procedure.
 
+4.
+                        
+                            
+                                Il numero d'entrata e la collocazione si riportano anche sul documento o sull'oggetto secondo le seguenti modalita':
+ 
+                            
+                            
+                                a)
+                                
+                                    il numero d'entrata deve essere iscritto alla fine del testo di ogni manoscritto o stampato, in modo da non danneggiare il documento e restare indelebile. La collocazione si segna, per i manoscritti, ove possibile, sul verso del piatto anteriore della legatura; per gli stampati, sul verso del frontespizio. Devono, comunque, restare leggibili le eventuali collocazioni precedentemente attribuite al documento. La collocazione stessa e' riportata, tanto per i manoscritti quanto per gli stampati, sul cartellino recante il nome della biblioteca, da apporre all'esterno e nell'interno della legatura o copertina del volume od opuscolo e sul recto del foglio isolato;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    per i materiali non librari le indicazioni di cui alla precedente lettera a) si iscrivono sul cartellino che viene unito all'oggetto, in modo da non ridurne la leggibilita' o pregiudicarne l'estetica.
+
 Ove ragioni estetiche e pratiche lo consiglino, il numero d'entrata e la collocazione possono segnarsi direttamente sul documento o sull'oggetto, nel punto e con il mezzo che si ritengono piu' opportuni.
 
 Tutti i documenti aventi carattere di rarita' e/o di pregio che entrino in biblioteca per dono devono recare nell'interno della copertina un cartellino recante il nome del donatore e la data del dono.
@@ -191,14 +319,89 @@ Tutti i documenti aventi carattere di rarita' e/o di pregio che entrino in bibli
 
 Su ciascuno dei documenti indicati nel precedente art. 13, comma quarto, deve essere apposto un timbro con il nome della biblioteca.
 
+2.
+                        
+                            
+                                Il timbro di cui al primo comma del presente articolo deve essere apposto:
+ 
+                            
+                            
+                                a)
+                                
+                                    nel verso del frontespizio; in mancanza del frontespizio sulla prima pagina; inoltre su una o piu' pagine convenute del documento;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    nel verso di ciascuna tavola fuori testo di stampato o pagina miniata di stampato o manoscritto;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    nel recto del foglio isolato;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    nel cartellino unito all'oggetto.
+
 Il tipo, il colore, le dimensioni e la posizione del timbro debbono essere tali da non pregiudicare l'estetica, la conservazione e l'uso del documento e dell'oggetto.
 
 ## Art. 15. — Schedari, registri e bollettari
+
+1.
+                        
+                            
+                                Oltre agli inventari e ai cataloghi elencati negli articoli 8 e 10, ogni biblioteca deve possedere:
+ 
+                            
+                            
+                                a)
+                                
+                                    uno schedario delle pubblicazioni in continuazione e in collezione e uno schedario delle pubblicazioni periodiche (modelli 5a, 5b, 5c, 5d). Tali schedari integrano l'annotazione iniziale comunque riportata nel rispettivo inventario topografico di cui all'art. 8, comma primo, lettera b). Cio' fino a quando le raccolte non siano complete o non si sia, per qualsiasi motivo, cessato di aggiornarle;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    un registro cronologico dei documenti smarriti o sottratti (modello 6), integrato da un catalogo alfabetico per autori e da un topografico;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    un bollettario in duplice copia dei documenti ordinari ai librai (modello 7), con un indice alfabetico dei documenti medesimi.
 
 Ove i servizi della biblioteca siano in tutto o in parte automatizzati, le funzioni degli schedari, registri e bollettari, previsti dal presente articolo, sono assicurate dall'elaboratore.
 
 ## Art. 16. — Registrazioni del materiale sottoposto
  ad interventi di conservazione e restauro
+
+1.
+                        
+                            
+                                La biblioteca deve, inoltre, possedere:
+ 
+                            
+                            
+                                a)
+                                
+                                    un registro dei documenti sottoposti a tutela (modello 8), ai sensi della legislazione vigente in materia, affidati per interventi finalizzati alla conservazione;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    un registro dei documenti non sottoposti a tutela (modello 8a), affidati per interventi finalizzati alla conservazione.
 
 Nei registri di cui al comma precedente, l'affidatario dopo il riscontro di consegna, con l'apposizione della propria firma, annota il giorno in cui ha ricevuto i documenti e quello in cui si impegna a restituirli.
 
@@ -216,6 +419,66 @@ Ogni anno ciascuna biblioteca invia al Ministero i dati statistici previsti dal 
 
 ## Art. 18. — Registri contabili ed amministrativi
 
+1.
+                        
+                            
+                                Per l'amministrazione e la contabilita' ogni biblioteca deve possedere:
+ 
+                            
+                            
+                                a)
+                                
+                                    un registro delle spese fatte sulle aperture di credito, ai sensi delle vigenti norme in materia di contabilita' generale dello Stato - mod. 26 C.G.;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    un registro cassa a pagine numerate (modello 11);
+
+                                
+                            
+                            
+                                c)
+                                
+                                    un giornale delle spese (modello 12);
+
+                                
+                            
+                            
+                                d)
+                                
+                                    una rubrica dei creditori, anche a schede, corredata, eventualmente, da un libro mastro dei creditori;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    un registro protocollo per la corrispondenza (modello 13);
+
+                                
+                            
+                            
+                                f)
+                                
+                                    un bollettario a piu' copie degli ordini relativi alla fornitura di oggetti e merci di modesto valore;
+
+                                
+                            
+                            
+                                g)
+                                
+                                    un registro cronologico d'entrata per gli oggetti mobili conservati in biblioteca - mod. 93 Ragioneria gia' mod. D;
+
+                                
+                            
+                            
+                                h)
+                                
+                                    un registro del materiale di facile consumo (modello 14).
+
 La biblioteca deve, inoltre, provvedersi di tutti gli stampati occorrenti per le operazioni e per gli adempimenti prescritti dalla legge e dal regolamento per l'amministrazione del patrimonio e per la contabilita' generale dello Stato, e da ogni istruzione diramata in applicazione di questi.
 
 Ove la gestione della biblioteca sia in tutto o in parte automatizzata, i registri e i bollettari di cui al primo comma del presente articolo sono sostituiti dalle registrazioni in memoria e dagli stampati prodotti dall'elaboratore, purche' completi di tutti gli elementi in precedenza indicati.
@@ -223,6 +486,24 @@ Ove la gestione della biblioteca sia in tutto o in parte automatizzata, i regist
 ## Art. 19. — Programmazione triennale ed annuale
 
 Ai fini dell'approvazione da parte del Ministero per i beni culturali ed ambientali del programma di spesa triennale ed annuale dell'Ufficio centrale per i beni librari, le istituzioni culturali e l'editoria, nonche' ai fini dell'eventuale incremento degli stanziamenti sui capitoli di spesa per l'esercizio successivo, il direttore della biblioteca, sulla base di documentate necessita' di spesa, formula precise e concrete richieste di finanziamento da presentarsi all'Ufficio centrale per i beni librari, le istituzioni culturali e l'editoria entro il termine di cui al secondo comma, lettera a), del presente articolo.
+
+2.
+                        
+                            
+                                Il direttore della biblioteca e' tenuto a trasmettere all'Ufficio centrale per i beni librari, le istituzioni culturali e l'editoria:
+ 
+                            
+                            
+                                a)
+                                
+                                    entro il 2 gennaio dell'esercizio finanziario precedente a quello cui si riferisce, la programmazione triennale delle spese ordinarie distinte per capitolo, accompagnata da una dettagliata relazione che evidenzi le necessita' finanziarie;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    entro il 30 aprile dell'esercizio finanziario precedente a quello cui si riferisce, la programmazione annuale delle spese ordinarie distinte per capitolo, accompagnata da una dettagliata relazione che evidenzi le necessita' finanziarie.
 
 ## Art. 20. — Gestione fondi
 
@@ -235,6 +516,88 @@ Il direttore della biblioteca e' tenuto, inoltre, a trasmettere all'Ufficio cent
 Il direttore della biblioteca, entro il 15 febbraio, anche ai sensi dell'art. 20 del decreto legislativo 3 febbraio 1993, n. 29, invia all'Ufficio centrale per i beni librari, le istituzioni culturali e l'editoria una dettagliata relazione che evidenzi l'attivita' svolta nell'anno precedente, alla luce degli obiettivi prefissati.
 
 Tale relazione, oltre a trattare dei programmi e progetti avviati nel corso dell'esercizio, dovra' contenere i risultati della gestione finanziaria, tecnica e amministrativa, incluse le decisioni organizzative.
+
+3.
+                        
+                            
+                                Tale relazione deve, inoltre, riguardare:
+ 
+                            
+                            
+                                a)
+                                
+                                    opere edilizie e di ristrutturazione, arredamento di qualsiasi specie, impianti, attrezzature varie;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    incremento del patrimonio documentario;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    lavori di ordinamento e catalogazione;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    interventi di tutela;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    servizi di prestito e riproduzione;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    altri servizi al pubblico;
+
+                                
+                            
+                            
+                                g)
+                                
+                                    mostre e promozione culturale;
+
+                                
+                            
+                            
+                                h)
+                                
+                                    pubblicazioni curate dalla biblioteca;
+
+                                
+                            
+                            
+                                i)
+                                
+                                    iniziative, studi e contributi realizzati in Italia e all'estero;
+
+                                
+                            
+                            
+                                l)
+                                
+                                    amministrazione;
+
+                                
+                            
+                            
+                                m)
+                                
+                                    personale;
+ 3. Nella relazione sono, inoltre, trattati particolari problemi che interessano la vita della biblioteca e viene espresso un giudizio complessivo sul suo funzionamento.
 
 ## Art. 22. — Interventi di prevenzione, conservazione e tutela
 
@@ -298,6 +661,31 @@ Le operazioni di apertura e chiusura della biblioteca devono essere effettuate i
 
 Le modalita' di tali operazioni sono definite nell'ambito dei singoli regolamenti interni, tenendo conto delle caratteristiche e delle esigenze della biblioteca, e valgono anche tutte le volte che la biblioteca medesima debba aprirsi, per qualsiasi motivo, fuori del normale orario di servizio. L'accesso ai locali della biblioteca deve essere sempre assicurato, organizzando, ove possibile, turni di reperibilita' del personale.
 
+3.
+                        
+                            
+                                Debbono essere comunque osservate le seguenti misure di prevenzione:
+ 
+                            
+                            
+                                a)
+                                
+                                    tutti gli accessi alla biblioteca devono essere protetti da sistemi di sicurezza, in particolare quelli relativi ai locali in cui e' custodito il materiale di pregio;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'apertura e la chiusura della biblioteca devono essere effettuate almeno da due addetti, con operazioni congiunte e complementari, secondo turni prestabiliti;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    prima di procedere alla chiusura, gli addetti debbono controllare tutti i locali e gli impianti della biblioteca, per accertare che non sussistano situazioni anomale o di pericolo: di tale adempimento va redatto apposito verbale (modello 15).
+
 ## - Titolo quarto SERVIZI AL PUBBLICO: LETTURA
 
 ## Art. 31. — Condizioni d'ammissione
@@ -311,6 +699,38 @@ Nel medesimo regolamento interno ciascuna biblioteca stabilisce, sulla base dell
 Prima di entrare in biblioteca l'utente ha l'obbligo di depositare all'ingresso borse, cartelle ed altri oggetti, secondo quanto stabilito dal regolamento interno di ciascun istituto.
 
 L'utente deve rigorosamente rispettare le norme di legge che regolano l'uso dei luoghi pubblici e le disposizioni del citato regolamento interno.
+
+3.
+                        
+                            
+                                In particolare e' rigorosamente vietato:
+ 
+                            
+                            
+                                a)
+                                
+                                    danneggiare, in qualsiasi modo, il patrimonio dell'istituto;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    far segni o scrivere, anche a matita, su libri e documenti della biblioteca;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    disturbare, in qualsiasi modo, l'attivita' di studio e di lavoro;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    fumare, se non nei locali destinati a tale uso.
 
 ## Art. 33. — Sale di lettura e consultazione
 
@@ -456,17 +876,78 @@ L'elenco delle autorizzazioni concesse e' trasmesso annualmente all'Ufficio cent
 
 L'autorizzazione alla riproduzione di cimeli, nonche' di interi fondi, di parti di fondi o di serie di documenti omogenei, per qualsiasi motivo venga richiesta, e' concessa dal Ministero, sentito il parere del competente comitato di settore.
 
+2.
+                        
+                            
+                                La richiesta (modello 24-bis) e' inoltrata, con motivato parere, al Ministero dal direttore della biblioteca, il quale deve, inoltre, fornire le seguenti indicazioni:
+ 
+                            
+                            
+                                a)
+                                
+                                    se l'esemplare di cui e' stata chiesta la riproduzione e' libero da vincoli giuridici ad esso strettamente connessi e se l'opera non e' sottoposta ai vincoli previsti dalla legislazione vigente in materia di editoria e di diritto d'autore;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    se lo stato di conservazione dell'esemplare consente la riproduzione, ove questa non sia gia' posseduta dalla biblioteca, o, anche se posseduta, non sia utilizzabile per lo scopo richiesto.
+
 ## - Titolo nono SERVIZI AL PUBBLICO: PRESTITO
 
 ## Art. 50. — Servizio di prestito
 
 Il prestito e' un servizio mediante il quale si realizza la disponibilita' dei documenti a livello locale, nazionale ed internazionale.
 
+2.
+                        
+                            
+                                La disponibilita' di cui al primo comma del presente articolo si attua mediante:
+ 
+                            
+                            
+                                a)
+                                
+                                    prestito del documento originale, quando e' possibile;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    prestito della riproduzione, se posseduta dalla biblioteca;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    fornitura, in alternativa, di una riproduzione eseguita su richiesta e a spese dell'utente.
+
 ## Art. 51. — Prestito diretto
 
 Il prestito diretto si effettua a favore di coloro che abbiano compiuto il diciottesimo anno di eta', siano residenti nella regione ove ha sede la biblioteca e siano in grado di documentare la propria residenza.
 
 Per i minori di diciotto anni l'ammissione al prestito e' disciplinata nell'ambito del regolamento interno di ogni singola biblioteca.
+
+3.
+                        
+                            
+                                Possono essere ammessi al servizio di prestito, pur non essendo residenti nella regione in cui ha sede la biblioteca, per periodi limitati di tempo:
+ 
+                            
+                            
+                                a)
+                                
+                                    i cittadini italiani, dello Stato della Citta' del Vaticano e della Repubblica di San Marino, nonche' i cittadini dei Paesi aderenti alla Comunita' europea in grado di documentare le proprie necessita' di studio o di ricerca e il proprio domicilio, anche se temporaneo;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    i cittadini dei Paesi extracomunitari, che, oltre alle documentazioni di cui al punto a), siano in possesso della certificazione attestante il periodo di soggiorno e della presentazione di un'autorita' diplomatica o di una istituzione culturale.
 
 Agli utenti del servizio di prestito e' rilasciata una tessera (modello 25) da presentarsi ad ogni richiesta.
 
@@ -506,6 +987,52 @@ Il pagamento del servizio e' disciplinato dall'art. 61 del presente regolamento,
 ## Art. 54. — Oggetto del servizio
 
 Oggetto del servizio di prestito e' il patrimonio documentario della biblioteca. Esso viene erogato secondo le disposizioni dell'art. 50, comma secondo, del presente regolamento.
+
+2.
+                        
+                            
+                                E' di regola escluso dal prestito in originale il materiale:
+ 
+                            
+                            
+                                a)
+                                
+                                    sottoposto a vincoli giuridici;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    soggetto a particolari tecniche di protezione;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    in precario stato di conservazione;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    periodico, sia in fascicoli sciolti che rilegato;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    miscellaneo legato in volume;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    di consultazione generale, ivi compresi i dizionari, le enciclopedie, i repertori catalografici e bibliografici, o considerato di rilevanza bibliografica, in rapporto alla specificita' ed integrita' delle raccolte.
 
 Il prestito di manoscritti e del materiale raro o di pregio si attua esclusivamente tra biblioteche e nel rispetto delle norme di tutela. Per i manoscritti, in particolare, e' obbligatorio osservare tutte le norme previste per la loro consultazione.
 
@@ -567,6 +1094,24 @@ Chi e' stato escluso dal prestito a norma del precedente articolo puo' essere ri
 
 Le biblioteche devono registrare il movimento dei prestiti, relativamente ai documenti ed agli utenti.
 
+2.
+                        
+                            
+                                Per i documenti dati in prestito diretto, le biblioteche devono registrare il movimento:
+ 
+                            
+                            
+                                a)
+                                
+                                    cronologicamente, per fini amministrativi statistici e per il controllo delle scadenze (modello 29);
+
+                                
+                            
+                            
+                                b)
+                                
+                                    topograficamente, per il controllo delle raccolte (seconda parte modello 26).
+
 Le richieste di prestito interbibliotecario nazionale in arrivo ed i partenza, debbono essere registrate cronologicamente in due serie distinte, con l'indicazione relativa all'esito ed alla eventuale successiva restituzione (modelli 30 e 31).
 
 La procedura descritta al comma precedente deve essere adottata anche per le richieste in arrivo ed in partenza del prestito interbibliotecario internazionale (modelli 32 e 33).
@@ -582,6 +1127,45 @@ Ove i servizi della biblioteca siano in tutto o in parte automatizzati, i modell
 ## Art. 61. — Recupero spese
 
 I servizi aggiuntivi sono offerti a pagamento al pubblico ai sensi della normativa vigente.
+
+2.
+                        
+                            
+                                Si considerano servizi aggiuntivi:
+ 
+                            
+                            
+                                a)
+                                
+                                    l'erogazione di informazioni bibliografiche di cui all'art. 34, terzo comma;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la vendita di pubblicazioni ed altro materiale informativo di cui all'art. 42;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    la fornitura di riproduzioni di cui all'art. 45, primo comma;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    i servizi relativi al prestito, di cui agli articoli 51, settimo comma, e 53, quinto comma;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    i servizi di carattere generale, previsti dall'art. 4, comma primo, lettera b), della legge 14 gennaio 1993, n. 4.
 
 Il canone dovuto per l'uso dei locali della biblioteca di cui all'art. 44, secondo comma, del presente regolamento, e' determinato dai competenti organi del Ministero per i beni culturali ed ambientali e deve essere corrisposto dal concessionario prima dell'inizio dell'uso, ai sensi dell'art. 4, quinto comma, della legge 14 gennaio 1993, n. 4.
 

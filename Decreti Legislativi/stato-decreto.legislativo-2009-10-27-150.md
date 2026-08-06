@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
 vigenza_date: 2026-07-19
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:35Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -50,6 +50,27 @@ Le disposizioni del presente decreto assicurano una migliore organizzazione del 
 
 Le disposizioni contenute nel presente Titolo disciplinano il sistema di valutazione delle strutture e dei dipendenti delle amministrazioni pubbliche il cui rapporto di lavoro e' disciplinato dall'articolo 2, comma 2, del decreto legislativo 30 marzo 2001, n. 165, al fine di assicurare elevati standard qualitativi ed economici del servizio tramite la valorizzazione dei risultati e della performance organizzativa e individuale ((, perseguendo mediante cio' un obiettivo di coinvolgimento del personale e di promozione del senso di appartenenza e comunque l'obiettivo di migliorare l'efficienza della pubblica amministrazione e i servizi resi agli utenti)).
 
+1-bis.
+                        
+                            
+                                
+                                    ((I sistemi di valutazione si compongono di una parte relativa agli obiettivi e di una parte relativa alle caratteristiche trasversali di cui all'articolo 9. Il Ministro per la pubblica amministrazione, con regolamento da adottare ai sensi dell'articolo 17, comma 3, della legge 23 agosto 1988, n. 400, previo parere della Conferenza unificata di cui all'articolo 8 del decreto legislativo 28 agosto 1997, n. 281, entro novanta giorni dalla data di entrata in vigore della presente disposizione, stabilisce le modalita' per lo svolgimento e il bilanciamento della valutazione tra la parte degli obiettivi e la parte delle caratteristiche trasversali e per la graduale integrazione dei sistemi di misurazione e valutazione della performance nonche' gli strumenti e i criteri per assicurare l'oggettivita' della valutazione. La valutazione della performance si compone di:))
+                                
+                            
+                            
+                                a)
+                                
+                                    
+                                        ((una parte di valutazione collegiale tra dirigenti, nella quale, al fine di superare eventuali asimmetrie nelle scale di valutazione degli obiettivi e dei comportamenti del personale e perseguire l'obiettivita' della valutazione, sono previste specifiche fasi, preventive e successive;))
+                                    
+                                
+                            
+                            
+                                b)
+                                
+                                    
+                                        ((ove possibile, una parte di valutazione riguardante la performance organizzativa di strutture, complesse o no, da parte degli utenti esterni di riferimento, ad esclusione delle unita' organizzative che svolgono attivita' fuori del territorio nazionale)).
+
 ## Art. 3. — Principi generali
 
 La misurazione e la valutazione della performance sono volte al miglioramento della qualita' dei servizi offerti dalle amministrazioni pubbliche, nonche' alla crescita delle competenze professionali, attraverso la valorizzazione del merito e l'erogazione dei premi per i risultati perseguiti dai singoli e dalle unita' organizzative in un quadro di pari opportunita' di diritti e doveri, trasparenza dei risultati delle amministrazioni pubbliche e delle risorse impiegate per il loro perseguimento. ((Per conseguire una valutazione complessiva e oggettiva della produttivita' organizzativa e individuale, la misurazione e la valutazione della performance sono realizzate attraverso sistemi che coinvolgano, ai sensi dell'articolo 2, comma 1-bis, una pluralita' di soggetti, interni ed esterni all'organizzazione)).
@@ -74,6 +95,52 @@ Fermo quanto previsto dall'articolo 13, dall'applicazione delle disposizioni del
 
 Ai fini dell'attuazione dei principi generali di cui all'articolo 3, le amministrazioni pubbliche sviluppano, in maniera coerente con i contenuti e con il ciclo della programmazione finanziaria e del bilancio, il ciclo di gestione della performance.
 
+2.
+                        
+                            
+                                Il ciclo di gestione della performance si articola nelle seguenti fasi: 
+ 
+                            
+                            
+                                a)
+                                
+                                    definizione e assegnazione ((, entro il primo trimestre di ogni anno,)) degli obiettivi che si intendono raggiungere, dei valori attesi di risultato e dei rispettivi indicatori, tenendo conto anche dei risultati conseguiti nell'anno precedente, come documentati e validati nella relazione annuale sulla performance di cui all'articolo 10; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    collegamento ((, entro il termine di cui alla lettera a),)) tra gli obiettivi e l'allocazione delle risorse; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    monitoraggio in corso di esercizio e attivazione di eventuali interventi correttivi; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    misurazione e valutazione della performance, organizzativa e individuale; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    utilizzo dei sistemi premianti, secondo criteri di valorizzazione del merito; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    rendicontazione dei risultati agli organi di indirizzo politico-amministrativo, ai vertici delle amministrazioni, nonche' ai competenti organi di controllo interni ed esterni, ai cittadini, ai soggetti interessati, agli utenti e ai destinatari dei servizi. (10)
+
 ---------------
                             AGGIORNAMENTO (10)
                             
@@ -81,11 +148,98 @@ Ai fini dell'attuazione dei principi generali di cui all'articolo 3, le amminist
 
 ## Art. 5. — Obiettivi e indicatori
 
+01.
+                        
+                            
+                                Gli obiettivi si articolano in: 
+ 
+                            
+                            
+                                a)
+                                
+                                    obiettivi generali, che identificano, in coerenza con le priorita' delle politiche pubbliche nazionali nel quadro del programma di Governo e con gli eventuali indirizzi adottati dal Presidente del Consiglio dei ministri ai sensi dell'articolo 8 del decreto legislativo 30 luglio 1999, n. 286, le priorita' strategiche delle pubbliche amministrazioni in relazione alle attivita' e ai servizi erogati, anche tenendo conto del comparto di contrattazione di appartenenza e in relazione anche al livello e alla qualita' dei servizi da garantire ai cittadini; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    obiettivi specifici di ogni pubblica amministrazione, individuati, in coerenza con la direttiva annuale adottata ai sensi dell'articolo 8 del decreto legislativo 30 luglio 1999, n. 286, nel Piano della performance di cui all'articolo 10.
+
 Gli obiettivi di cui al comma 01, lettera a), sono determinati con apposite linee guida adottate su base triennale con decreto del Presidente del Consiglio dei ministri. Per gli enti territoriali, il decreto di cui al primo periodo e' adottato previa intesa in sede di Conferenza unificata di cui all'articolo 8 della legge 5 giugno 2003, n. 131. Gli obiettivi di cui al comma 01, lettera b), sono programmati, in coerenza con gli obiettivi generali, su base triennale e definiti, prima dell'inizio del rispettivo esercizio, dagli organi di indirizzo politico-amministrativo, sentiti i vertici dell'amministrazione che a loro volta consultano i dirigenti o i responsabili delle unita' organizzative. Gli obiettivi sono definiti in coerenza con gli obiettivi di bilancio indicati nei documenti programmatici di cui alla legge 31 dicembre 2009, n. 196, e di cui alla normativa economica e finanziaria applicabile alle regioni e agli enti locali e il loro conseguimento costituisce condizione per l'erogazione degli incentivi previsti dalla contrattazione integrativa. Nelle more dell'adozione delle linee guida di determinazione degli obiettivi generali, ogni pubblica amministrazione programma e definisce i propri obiettivi, secondo i tempi stabiliti per l'adozione del Piano di cui all'articolo 10, salvo procedere successivamente al loro aggiornamento.
 
 Nel caso di gestione associata di funzioni da parte degli enti locali, su base volontaria ovvero obbligatoria ai sensi dell'articolo 14 del decreto-legge 31 maggio 2010, n. 78, convertito, con modificazioni, dalla legge 30 luglio 2010, n. 122, gli obiettivi specifici relativi all'espletamento di tali funzioni sono definiti unitariamente.
 
 Nel caso di differimento del termine di adozione del bilancio di previsione degli enti territoriali, devono essere comunque definiti obiettivi specifici per consentire la continuita' dell'azione amministrativa.
+
+2.
+                        
+                            
+                                Gli obiettivi sono: 
+ 
+                            
+                            
+                                a)
+                                
+                                    rilevanti e pertinenti rispetto ai bisogni della collettivita', alla missione istituzionale, alle priorita' politiche ed alle strategie dell'amministrazione; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    specifici e misurabili in termini ((oggettivi,)) concreti e chiari; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    tali da determinare un significativo miglioramento della qualita' dei servizi erogati e degli interventi; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    riferibili ad un arco temporale determinato, di norma corrispondente ad un anno; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    commisurati ai valori di riferimento derivanti da standard definiti a livello nazionale e internazionale, nonche' da comparazioni con amministrazioni omologhe; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    confrontabili con le tendenze della produttivita' dell'amministrazione con riferimento, ove possibile, almeno al triennio precedente; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    correlati alla quantita' e alla qualita' delle risorse ((umane, strumentali e finanziarie)) disponibili; 
+
+                                
+                            
+                            
+                                g-bis)
+                                
+                                    
+                                        ((determinati in numero tale da connotare le reali priorita' in relazione ai risultati attesi per il miglioramento dell'efficienza della pubblica amministrazione e dei servizi resi agli utenti e con peso correlato alla loro rilevanza;))
+                                    
+                                
+                            
+                            
+                                g-ter)
+                                
+                                    
+                                        ((definiti, con riguardo alle lettere a), b), c), d), e), f), g) e g-bis), in modo tale da consentire di ancorare la relativa valutazione a elementi in grado di assicurare il piu' alto grado di oggettivita')).
 
 Gli obiettivi, anche nell'ottica di una corretta allocazione delle risorse, assicurano l'effettiva inclusione sociale e le possibilita' di accesso delle persone con disabilita'.
 
@@ -99,6 +253,40 @@ COMMA ABROGATO DAL D.L. 25 MAGGIO 2017, N. 74.
 
 Le amministrazioni pubbliche valutano annualmente la performance organizzativa e individuale ((coerentemente con il sistema di misurazione e valutazione della performance in uso)). A tale fine adottano e aggiornano annualmente, previo parere ((non)) vincolante dell'Organismo indipendente di valutazione, il Sistema di misurazione e valutazione della performance.
 
+2.
+                        
+                            
+                                La funzione di misurazione e valutazione delle performance e' svolta: 
+ 
+                            
+                            
+                                a)
+                                
+                                    
+                                        ((dagli Organismi indipendenti di valutazione della performance, di cui all'articolo 14, cui competono la proposta non vincolante sulla misurazione e valutazione della performance di ciascuna struttura amministrativa nel suo complesso nonche' la proposta non vincolante di valutazione annuale dei dirigenti di vertice ai sensi della lettera e) del comma 4 del medesimo articolo 14)); 
+
+                                
+                            
+                            
+                                a-bis)
+                                
+                                    
+                                        ((dall'organo di indirizzo politico-amministrativo per i dirigenti di vertice)); 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    dai dirigenti di ciascuna amministrazione, secondo quanto previsto agli articoli 8 e 9; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    dai cittadini o dagli altri utenti finali in rapporto alla qualita' dei servizi resi dall'amministrazione, partecipando alla valutazione della performance organizzativa dell'amministrazione, secondo quanto stabilito dagli articoli 8 e 19-bis.
+
 Il Sistema di misurazione e valutazione della performance, di cui al comma 1, e' adottato in coerenza con gli indirizzi impartiti dal Dipartimento della funzione pubblica ai sensi dell'articolo 3, comma 2, e in esso sono previste, altresi', le procedure di conciliazione, a garanzia dei valutati, relative all'applicazione del sistema di misurazione e valutazione della performance e le modalita' di raccordo e integrazione con i documenti di programmazione finanziaria e di bilancio.
 
 COMMA ABROGATO DAL D.P.R. 9 MAGGIO 2016, N. 105. 
@@ -111,6 +299,66 @@ COMMA ABROGATO DAL D.P.R. 9 MAGGIO 2016, N. 105.
 
 ## Art. 8. — Ambiti di misurazione e valutazione della performance organizzativa
 
+1.
+                        
+                            
+                                Il Sistema di misurazione e valutazione della performance organizzativa concerne: 
+ 
+                            
+                            
+                                a)
+                                
+                                    l'attuazione di politiche e il conseguimento di obiettivi collegati ai bisogni e alle esigenze della collettivita' ((attraverso il miglioramento dell'efficienza della pubblica amministrazione e dei servizi resi agli utenti)); 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'attuazione di piani e programmi, ovvero la misurazione dell'effettivo grado di attuazione dei medesimi, nel rispetto delle fasi e dei tempi previsti, degli standard qualitativi e quantitativi definiti, del livello previsto di assorbimento delle risorse; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    la rilevazione del grado di soddisfazione dei destinatari delle attivita' e dei servizi anche attraverso modalita' interattive; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    la modernizzazione e il miglioramento qualitativo dell'organizzazione e delle competenze professionali e la capacita' di attuazione di piani e programmi; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    lo sviluppo qualitativo e quantitativo delle relazioni con i cittadini, i soggetti interessati, gli utenti e i destinatari dei servizi, anche attraverso lo sviluppo di forme di partecipazione e collaborazione; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    l'efficienza nell'impiego delle risorse, con particolare riferimento al contenimento ed alla riduzione dei costi, nonche' all'ottimizzazione dei tempi dei procedimenti amministrativi; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    la qualita' e la quantita' delle prestazioni e dei servizi erogati; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    il raggiungimento degli obiettivi di promozione delle pari opportunita'.
+
 Le valutazioni della performance organizzativa sono predisposte sulla base di appositi modelli definiti dal Dipartimento della funzione pubblica, tenendo conto anche delle esperienze di valutazione svolte da agenzie esterne di valutazione, ove previste, e degli esiti del confronto tra i soggetti appartenenti alla rete nazionale per la valutazione delle amministrazioni pubbliche, di cui al decreto emanato in attuazione dell'articolo 19 del decreto-legge n. 90 del 2014, con particolare riguardo all'ambito di cui alla lettera g) del comma 1. 
  (8)
 
@@ -121,7 +369,101 @@ Le valutazioni della performance organizzativa sono predisposte sulla base di ap
 
 ## Art. 9. — Ambiti di misurazione e valutazione della performance individuale
 
+1.
+                        
+                            
+                                La misurazione e la valutazione della performance individuale dei dirigenti e del personale responsabile di una unita' organizzativa in posizione di autonomia e responsabilita', secondo le modalita' indicate nel sistema di cui all'articolo 7, e' collegata: 
+ 
+                            
+                            
+                                a)
+                                
+                                    agli indicatori di performance relativi all'ambito organizzativo di diretta responsabilita', ai quali e' attribuito un peso prevalente nella valutazione complessiva; 
+
+                                
+                            
+                            
+                                a-bis)
+                                
+                                    
+                                        ((ai livelli di formazione raggiunti dal personale dipendente, in relazione alle risorse umane, strumentali e finanziarie disponibili)); 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    al raggiungimento di specifici obiettivi individuali ((, valorizzando il personale destinatario di incarichi di particolare rilevanza e complessita' attraverso l'assegnazione di specifici obiettivi individuali strettamente connessi all'adeguato svolgimento di tali incarichi nonche' alle potenzialita' di ciascuno)); 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    alla qualita' del contributo assicurato alla performance generale della struttura, alle competenze professionali e manageriali dimostrate, nonche' ai comportamenti organizzativi richiesti per il piu' efficace svolgimento delle funzioni assegnate; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    alla capacita' di valutazione dei propri collaboratori, dimostrata tramite una significativa differenziazione dei giudizi; 
+
+                                
+                            
+                            
+                                d-bis)
+                                
+                                    agli indicatori di performance relativi al raggiungimento degli obiettivi derivanti dalla programmazione strategica della piena accessibilita' delle amministrazioni, da parte delle persone con disabilita'. 
+ 1.1. ((La valutazione della performance individuale si compone, inoltre, della valutazione del potenziale e delle seguenti caratteristiche trasversali:)) 
+ a) ((la capacita' di superare schemi consolidati e di realizzare flessibilita' organizzativa orientata al risultato;)) 
+ b) ((la capacita' realizzativa;)) 
+ c) ((la capacita' di cooperazione interna ed esterna;)) 
+ d) ((la capacita' di agire velocemente con tempestivita' e decisione;))
+                                    
+                                
+                            
+                            
+                                e)
+                                
+                                    
+                                        ((la capacita' di costruire gruppi con elevate prestazioni e di valorizzare i propri collaboratori)).
+
 La misurazione e valutazione della performance individuale dei dirigenti titolari degli incarichi di cui all'articolo 19, commi 3 e 4, del decreto legislativo 30 marzo 2001, n. 165, e' collegata altresi' al raggiungimento degli obiettivi individuati nella direttiva generale per l'azione amministrativa e la gestione e nel Piano della performance, nonche' di quelli specifici definiti nel contratto individuale.
+
+2.
+                        
+                            
+                                La misurazione e la valutazione svolte dai dirigenti sulla performance individuale del personale sono effettuate sulla base del sistema di cui all'articolo 7 e collegate: 
+ 
+                            
+                            
+                                a)
+                                
+                                    al raggiungimento di specifici obiettivi di gruppo o individuali; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    alla qualita' del contributo assicurato alla performance dell'unita' organizzativa di appartenenza, alle competenze dimostrate ed ai comportamenti professionali e organizzativi; 
+
+                                
+                            
+                            
+                                b-bis)
+                                
+                                    
+                                        ((alla capacita' di adempiere incarichi che prevedono obiettivi di particolare complessita';))
+                                    
+                                
+                            
+                            
+                                b-ter)
+                                
+                                    
+                                        ((alla capacita' di raggiungere gli obiettivi formativi assegnati)).
 
 Nella valutazione di performance individuale non sono considerati i periodi di congedo di maternita', di paternita' e parentale. 
  (8)
@@ -132,6 +474,24 @@ Nella valutazione di performance individuale non sono considerati i periodi di c
  Il D.L. 24 giugno 2014, n. 90 convertito con modificazioni dalla L. 11 agosto 2014, n. 114 ha disposto (con l'art. 19, comma 9) che "Al fine di concentrare l'attivita' dell'Autorita' nazionale anticorruzione sui compiti di trasparenza e di prevenzione della corruzione nelle pubbliche amministrazioni, le funzioni della predetta Autorita' in materia di misurazione e valutazione della performance, di cui agli articoli 7, 8, 9, 10, 12, 13 e 14 del decreto legislativo 27 ottobre 2009, n. 150, sono trasferite al Dipartimento della funzione pubblica della Presidenza del Consiglio dei ministri, a decorrere dalla data di entrata in vigore della legge di conversione del presente decreto".
 
 ## Art. 10. — Piano della performance e Relazione sulla performance
+
+1.
+                        
+                            
+                                Al fine di assicurare la qualita', comprensibilita' ed attendibilita' dei documenti di rappresentazione della performance, le amministrazioni pubbliche redigono e pubblicano sul sito istituzionale ogni anno: 
+ 
+                            
+                            
+                                a)
+                                
+                                    entro il 31 gennaio, il Piano della performance, documento programmatico triennale, che e' definito dall'organo di indirizzo politico-amministrativo in collaborazione con i vertici dell'amministrazione e secondo gli indirizzi impartiti dal Dipartimento della funzione pubblica ai sensi dell'articolo 3, comma 2, e che individua gli indirizzi e gli obiettivi strategici ed operativi di cui all'articolo 5, comma 01, lettera b), e definisce, con riferimento agli obiettivi finali ed intermedi ed alle risorse, gli indicatori per la misurazione e la valutazione della performance dell'amministrazione, nonche' gli obiettivi assegnati al personale dirigenziale ed i relativi indicatori; ((12))
+                                    
+                                
+                            
+                            
+                                b)
+                                
+                                    entro il 30 giugno, la Relazione annuale sulla performance, che e' approvata dall'organo di indirizzo politico-amministrativo e validata dall'Organismo di valutazione ai sensi dell'articolo 14 e che evidenzia, a consuntivo, con riferimento all'anno precedente, i risultati organizzativi e individuali raggiunti rispetto ai singoli obiettivi programmati ed alle risorse, con rilevazione degli eventuali scostamenti, e il bilancio di genere realizzato.
 
 Per gli enti locali, ferme restando le previsioni di cui all'articolo 169, comma 3-bis, del decreto legislativo 18 agosto 2000, n. 267, la Relazione sulla performance di cui al comma 1, lettera b), puo' essere unificata al rendiconto della gestione di cui all'articolo 227 del citato decreto legislativo.
 
@@ -172,6 +532,55 @@ In caso di mancata adozione del Piano della performance e' fatto divieto di erog
 
 ## Art. 12. — Soggetti
 
+1.
+                        
+                            
+                                Nel processo di misurazione e valutazione della performance organizzativa e individuale delle amministrazioni pubbliche intervengono: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il Dipartimento della funzione pubblica titolare delle funzioni di promozione, indirizzo e coordinamento, esercitate secondo le previsioni del decreto adottato ai sensi dell'articolo 19, comma 10, del decreto-legge n. 90 del 2014; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    gli Organismi indipendenti di valutazione della performance ((, secondo quanto previsto dall'articolo 14)); 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    l'organo di indirizzo politico amministrativo di ciascuna amministrazione; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    i dirigenti di ciascuna amministrazione; 
+
+                                
+                            
+                            
+                                d-bis)
+                                
+                                    
+                                        ((i collegi di cui all'articolo 2, comma 1-bis, lettera a);))
+                                    
+                                
+                            
+                            
+                                d-ter)
+                                
+                                    
+                                        ((gli utenti esterni di riferimento di cui all'articolo 2, comma 1-bis, lettera b), tramite appositi strumenti di valutazione)). 
+ (8)
+
 --------------
                             AGGIORNAMENTO (8)
                             
@@ -188,6 +597,111 @@ L'Autorita' e' organo collegiale composto dal presidente e da quattro componenti
 La struttura operativa ((dell'Autorita')) e' diretta da un Segretario generale nominato con deliberazione ((dell'Autorita')) medesima tra soggetti aventi specifica professionalita' ed esperienza gestionale-organizzativa nel campo del lavoro pubblico. ((L'Autorita')) definisce con propri regolamenti le norme concernenti il proprio funzionamento ((...)). ((PERIODO SOPPRESSO DAL D.LGS. 25 MAGGIO 2017, N. 74)). Nei limiti delle disponibilita' di bilancio ((l'Autorita')) puo' avvalersi di non piu' di 10 esperti di elevata professionalita' ed esperienza sui temi ((...)) della prevenzione e della lotta alla corruzione, con contratti di diritto privato di collaborazione autonoma. ((PERIODO SOPPRESSO DAL D.LGS. 25 MAGGIO 2017, N. 74)). Puo' inoltre richiedere indagini, accertamenti e relazioni all'Ispettorato per la funzione pubblica.
 
 COMMA ABROGATO DAL D.P.R. 9 MAGGIO 2016, N. 105.
+
+6.
+                        
+                            
+                                
+                                    ((L'Autorita')) nel rispetto dell'esercizio e delle responsabilita' autonome di valutazione proprie di ogni amministrazione: 
+ 
+                            
+                            
+                                a)
+                                
+                                    LETTERA ABROGATA DAL D.P.R. 9 MAGGIO 2016, N. 105; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    LETTERA ABROGATA DAL D.P.R. 9 MAGGIO 2016, N. 105; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    LETTERA ABROGATA DAL D.P.R. 9 MAGGIO 2016, N. 105; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    LETTERA ABROGATA DAL D.P.R. 9 MAGGIO 2016, N. 105; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    adotta le linee guida per la predisposizione dei Programma triennale per la trasparenza e l'integrita' di cui ((all'articolo 10, comma 8, del decreto legislativo 14 marzo 2013, n. 33)); 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    LETTERA ABROGATA DAL D.P.R. 9 MAGGIO 2016, N. 105; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    LETTERA ABROGATA DAL D.P.R. 9 MAGGIO 2016, N. 105; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    LETTERA ABROGATA DAL D.P.R. 9 MAGGIO 2016, N. 105; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    LETTERA ABROGATA DAL D.P.R. 9 MAGGIO 2016, N. 105; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    LETTERA ABROGATA DAL D.P.R. 9 MAGGIO 2016, N. 105; 
+
+                                
+                            
+                            
+                                m)
+                                
+                                    
+                                        ((LETTERA SOPPRESSA DAL D.LGS. 25 MAGGIO 2017, N. 74)); 
+
+                                
+                            
+                            
+                                n)
+                                
+                                    LETTERA ABROGATA DAL D.P.R. 9 MAGGIO 2016, N. 105; 
+
+                                
+                            
+                            
+                                o)
+                                
+                                    LETTERA ABROGATA DAL D.P.R. 9 MAGGIO 2016, N. 105; 
+
+                                
+                            
+                            
+                                p)
+                                
+                                    
+                                        ((LETTERA SOPPRESSA DAL D.LGS. 25 MAGGIO 2017, N. 74));
 
 COMMA ABROGATO DAL D.L. 24 GIUGNO 2014, N. 90, CONVERTITO CON MODIFICAZIONI DALLA L.11 AGOSTO 2014, N. 114.
 
@@ -239,6 +753,66 @@ Il Dipartimento della funzione pubblica individua i casi in cui sono istituiti O
 
 COMMA ABROGATO DAL D.P.R. 9 MAGGIO 2016, N. 105.
 
+4.
+                        
+                            
+                                L'Organismo indipendente di valutazione della performance: 
+ 
+                            
+                            
+                                a)
+                                
+                                    monitora il funzionamento complessivo del sistema della valutazione, della trasparenza e integrita' dei controlli interni ed elabora una relazione annuale sullo stato dello stesso ((, anche formulando proposte e raccomandazioni ai vertici amministrativi)); 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    comunica tempestivamente le criticita' riscontrate ai competenti organi interni di governo ed amministrazione, nonche' alla Corte dei conti ((e al Dipartimento della funzione pubblica)); 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    valida la Relazione sulla performance di cui all'articolo 10 ((, a condizione che la stessa sia redatta in forma sintetica, chiara e di immediata comprensione ai cittadini e agli altri utenti finali)) e ne assicura la visibilita' attraverso la pubblicazione sul sito istituzionale dell'amministrazione; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    garantisce la correttezza dei processi di misurazione e valutazione ((con particolare riferimento alla significativa differenziazione dei giudizi di cui all'articolo 9, comma 1, lettera d) )), nonche' dell'utilizzo dei premi di cui al Titolo III, secondo quanto previsto dal presente decreto, dai contratti collettivi nazionali, dai contratti integrativi, dai regolamenti interni all'amministrazione, nel rispetto del principio di valorizzazione del merito e della professionalita'; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    propone, sulla base del sistema di cui all'articolo 7, all'organo di indirizzo politico-amministrativo, la valutazione annuale dei dirigenti di vertice e l'attribuzione ad essi dei premi di cui al Titolo III; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    e' responsabile della corretta applicazione delle linee guida, delle metodologie e degli strumenti predisposti ((dal Dipartimento della funzione pubblica sulla base del decreto adottato ai sensi dell'articolo 19, comma 10, del decreto legge n. 90 del 2014)); 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    promuove e attesta l'assolvimento degli obblighi relativi alla trasparenza e all'integrita' di cui al presente Titolo; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    verifica i risultati e le buone pratiche di promozione delle pari opportunita'.
+
 ((
 
 Gli Organismi indipendenti di valutazione esercitano i compiti di cui al comma 4 e, in particolare, procedono alla validazione della Relazione sulla performance, tenendo conto anche delle risultanze delle valutazioni realizzate con il coinvolgimento dei cittadini o degli altri utenti finali per le attivita' e i servizi rivolti, nonche', ove presenti, dei risultati prodotti dalle indagini svolte dalle agenzie esterne di valutazione e dalle analisi condotte dai soggetti appartenenti alla rete nazionale per la valutazione delle amministrazioni pubbliche, di cui al decreto emanato in attuazione dell'articolo 19 del decreto-legge n. 90 del 2014, e dei dati e delle elaborazioni forniti dall'amministrazione, secondo le modalita' indicate nel sistema di cui all'articolo 7.
@@ -287,6 +861,38 @@ Le nomine e i rinnovi dei componenti degli Organismi indipendenti di valutazione
 ## Art. 15. — Responsabilita' dell'organo di indirizzo politico-amministrativo
 
 L'organo di indirizzo politico-amministrativo promuove la cultura della responsabilita' per il miglioramento della performance, del merito, della trasparenza e dell'integrita'.
+
+2.
+                        
+                            
+                                L'organo di indirizzo politico-amministrativo di ciascuna amministrazione:
+ 
+                            
+                            
+                                a)
+                                
+                                    emana le direttive generali contenenti gli indirizzi strategici;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    definisce in collaborazione con i vertici dell'amministrazione il Piano e la Relazione di cui all'articolo 10, comma 1, lettere a) e b);
+
+                                
+                            
+                            
+                                c)
+                                
+                                    verifica il conseguimento effettivo degli obiettivi strategici;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    definisce il Programma triennale per la trasparenza e l'integrita' di cui all'articolo 11, nonche' gli eventuali aggiornamenti annuali.
 
 ## Art. 16. — Norme per gli Enti territoriali e il Servizio sanitario nazionale
 
@@ -347,6 +953,52 @@ L'organismo indipendente di valutazione verifica l'effettiva adozione dei predet
 
 ## Art. 20. — Strumenti
 
+1.
+                        
+                            
+                                Gli strumenti per premiare il merito e le professionalita' sono:
+ 
+                            
+                            
+                                a)
+                                
+                                    il bonus annuale delle eccellenze, di cui all'articolo 21;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il premio annuale per l'innovazione, di cui all'articolo 22;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    le progressioni economiche, di cui all'articolo 23;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    le progressioni di carriera, di cui all'articolo 24;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    l'attribuzione di incarichi e responsabilita', di cui all'articolo 25;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    l'accesso a percorsi di alta formazione e di crescita professionale, in ambito nazionale e internazionale, di cui all'articolo 26.
+
 Gli incentivi di cui alle lettere a), b), c), ed e) del comma 1 sono riconosciuti a valere sulle risorse disponibili per la contrattazione collettiva integrativa.
 
 ## Art. 21. — Bonus annuale delle eccellenze
@@ -397,6 +1049,24 @@ La professionalita' sviluppata e attestata dal sistema di misurazione e valutazi
 
 ## Art. 26. — Accesso a percorsi di alta formazione e di crescita professionale
 
+1.
+                        
+                            
+                                Le amministrazioni pubbliche riconoscono e valorizzano i contributi individuali e le professionalita' sviluppate dai dipendenti e a tali fini:
+ 
+                            
+                            
+                                a)
+                                
+                                    promuovono l'accesso privilegiato dei dipendenti a percorsi di alta formazione in primarie istituzioni educative nazionali e internazionali;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    favoriscono la crescita professionale e l'ulteriore sviluppo di competenze dei dipendenti, anche attraverso periodi di lavoro presso primarie istituzioni pubbliche e private, nazionali e internazionali.
+
 Gli incentivi di cui al comma 1 sono riconosciuti nei limiti delle risorse disponibili di ciascuna amministrazione.
 
 ## Art. 27. — Premio di efficienza
@@ -425,6 +1095,51 @@ Gli Organismi indipendenti di cui all'articolo 14 sono costituiti entro il 30 ap
 
 In sede di prima attuazione del presente decreto, gli Organismi indipendenti di cui all'articolo 14 provvedono, entro il 30 settembre 2010, sulla base degli indirizzi della Commissione di cui all'articolo 13 a definire i sistemi di valutazione della performance di cui all'articolo 7 in modo da assicurarne la piena operativita' a decorrere dal 1° gennaio 2011. La Commissione effettua il monitoraggio sui parametri e i modelli di riferimento dei predetti sistemi ai sensi dell'articolo 13, comma 6, lettera d).
 
+4.
+                        
+                            
+                                A decorrere dal 30 aprile 2010 sono abrogate le seguenti disposizioni del decreto legislativo 30 luglio 1999, n. 286: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il terzo periodo dell'articolo 1, comma 2, lettera a); 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'articolo 1, comma 6; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    l'articolo 5; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    l'articolo 6, commi 2 e 3; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    l'articolo 11, comma 3. 
+ 
+ 
+--------------- 
+Nota redazionale 
+ Il testo del presente articolo e' gia' integrato con le correzioni apportate dall'errata-corrige pubblicato in G.U. 10/11/2009, n. 262 durante il periodo di "vacatio legis". 
+ E' possibile visualizzare il testo originario accedendo alla versione pdf della relativa Gazzetta di pubblicazione.
+
 ## Art. 31. — Norme per gli Enti territoriali e il Servizio sanitario nazionale
 
 Le regioni, anche per quanto concerne i propri enti e le amministrazioni del Servizio sanitario nazionale, e gli enti locali adeguano i propri ordinamenti ai principi contenuti negli articoli 17, comma 2, 18, ((19,)) 23, commi 1 e 2, 24, commi 1 e 2, 25, 26 e 27, comma 1.
@@ -445,7 +1160,53 @@ Le disposizioni del presente Capo definiscono la ripartizione tra le materie sot
 
 ## Art. 33. — Modifiche all'articolo 2 del decreto legislativo 30 marzo 2001, n. 165
 
+1.
+                        
+                            
+                                All'articolo 2 del decreto legislativo 30 marzo 2001, n. 165, sono apportate le seguenti modificazioni:
+ 
+                            
+                            
+                                a)
+                                
+                                    al comma 2, alla fine del primo periodo, sono inserite le seguenti parole: «, che costituiscono disposizioni a carattere imperativo»;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    al comma 3, dopo le parole: «mediante contratti collettivi» sono inserite le seguenti: «e salvo i casi previsti dal comma 3-ter e 3-quater dell'articolo 40 e le ipotesi di tutela delle retribuzioni di cui all'articolo 47-bis,»;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    dopo il comma 3 e' aggiunto il seguente:
+ «3-bis. Nel caso di nullita' delle disposizioni contrattuali per violazione di norme imperative o dei limiti fissati alla contrattazione collettiva, si applicano gli articoli 1339 e 1419, secondo comma, del codice civile.».
+
 ## Art. 34. — Modifica all'articolo 5 del decreto legislativo 30 marzo 2001, n. 165
+
+1.
+                        
+                            
+                                All'articolo 5 del decreto legislativo 30 marzo 2001, n. 165, sono apportate le seguenti modificazioni:
+ 
+                            
+                            
+                                a)
+                                
+                                    il comma 2 e' sostituito dal seguente:
+ «2. Nell'ambito delle leggi e degli atti organizzativi di cui all'articolo 2, comma 1, le determinazioni per l'organizzazione degli uffici e le misure inerenti alla gestione dei rapporti di lavoro sono assunte in via esclusiva dagli organi preposti alla gestione con la capacita' e i poteri del privato datore di lavoro, fatta salva la sola informazione ai sindacati, ove prevista nei contratti di cui all'articolo 9. Rientrano, in particolare, nell'esercizio dei poteri dirigenziali le misure inerenti la gestione delle risorse umane nel rispetto del principio di pari opportunita', nonche' la direzione, l'organizzazione del lavoro nell'ambito degli uffici.»;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    dopo il comma 3 e' aggiunto il seguente:
+ «3-bis. Le disposizioni del presente articolo si applicano anche alle Autorita' amministrative indipendenti.».
 
 ## Art. 35. — Modifica all'articolo 6 del decreto legislativo 30 marzo 2001, n. 165
 
@@ -464,11 +1225,133 @@ Le disposizioni del presente capo modificano la disciplina della dirigenza pubbl
 
 ## Art. 38. — Modifica all'articolo 16 del decreto legislativo 30 marzo 2001, n. 165
 
+1.
+                        
+                            
+                                All'articolo 16, comma 1, del decreto legislativo 30 marzo 2001, n. 165, sono apportate le seguenti modificazioni:
+ 
+                            
+                            
+                                a)
+                                
+                                    dopo la lettera a) e' inserita la seguente: «a-bis) propongono le risorse e i profili professionali necessari allo svolgimento dei compiti dell'ufficio cui sono preposti anche al fine dell'elaborazione del documento di programmazione triennale del fabbisogno di personale di cui all'articolo 6, comma 4; »;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    dopo la lettera l) e' aggiunta la seguente: «l-bis) concorrono alla definizione di misure idonee a prevenire e contrastare i fenomeni di corruzione e a controllarne il rispetto da parte dei dipendenti dell'ufficio cui sono preposti.».
+
 ## Art. 39. — Modifica all'articolo 17 del decreto legislativo 30 marzo 2001, n. 165
+
+1.
+                        
+                            
+                                All'articolo 17, comma 1, del decreto legislativo 30 marzo 2001, n. 165, sono apportate le seguenti modificazioni:
+ 
+                            
+                            
+                                a)
+                                
+                                    dopo la lettera d) e' inserita la seguente: «d-bis) concorrono all'individuazione delle risorse e dei profili professionali necessari allo svolgimento dei compiti dell'ufficio cui sono preposti anche al fine dell'elaborazione del documento di programmazione triennale del fabbisogno di personale di cui all'articolo 6, comma 4; »;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    alla lettera e), sono aggiunte, in fine, le seguenti parole: «, anche ai sensi di quanto previsto all'articolo 16, comma 1, lettera l-bis»;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    dopo la lettera e) e' aggiunta seguente: «e-bis) effettuano la valutazione del personale assegnato ai propri uffici, nel rispetto del principio del merito, ai fini della progressione economica e tra le aree, nonche' della corresponsione di indennita' e premi incentivanti.».
 
 ## Art. 40. — Modifica all'articolo 19 del decreto legislativo 30 marzo 2001, n. 165
 
+1.
+                        
+                            
+                                All'articolo 19 del decreto legislativo 30 marzo 2001, n. 165, sono apportate le seguenti modificazioni:
+ 
+                            
+                            
+                                a)
+                                
+                                    il comma 1 e' sostituito dal seguente: «1. Ai fini del conferimento di ciascun incarico di funzione dirigenziale si tiene conto, in relazione alla natura e alle caratteristiche degli obiettivi prefissati ed alla complessita' della struttura interessata, delle attitudini e delle capacita' professionali del singolo dirigente, dei risultati conseguiti in precedenza nell'amministrazione di appartenenza e della relativa valutazione, delle specifiche competenze organizzative possedute, nonche' delle esperienze di direzione eventualmente maturate all'estero, presso il settore privato o presso altre amministrazioni pubbliche, purche' attinenti al conferimento dell'incarico. Al conferimento degli incarichi e al passaggio ad incarichi diversi non si applica l'articolo 2103 del codice civile.»;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    dopo il comma 1 sono inseriti i seguenti:
+ «1-bis. L'amministrazione rende conoscibili, anche mediante pubblicazione di apposito avviso sul sito istituzionale, il numero e la tipologia dei posti di funzione che si rendono disponibili nella dotazione organica ed i criteri di scelta; acquisisce le disponibilita' dei dirigenti interessati e le valuta.
+ 1-ter. Gli incarichi dirigenziali possono essere revocati esclusivamente nei casi e con le modalita' di cui all'articolo 21, comma 1, secondo periodo. L'amministrazione che, in dipendenza dei processi di riorganizzazione ovvero alla scadenza, in assenza di una valutazione negativa, non intende confermare l'incarico conferito al dirigente, e' tenuta a darne idonea e motivata comunicazione al dirigente stesso con un preavviso congruo, prospettando i posti disponibili per un nuovo incarico.»;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    al comma 2:
+ 1) dopo il secondo periodo e' inserito il seguente: «La durata dell'incarico puo' essere inferiore a tre anni se coincide con il conseguimento del limite di eta' per il collocamento a riposo dell'interessato.»;
+ 2) in fine, e' aggiunto il seguente periodo: «In caso di primo conferimento ad un dirigente della seconda fascia di incarichi di uffici dirigenziali generali o di funzioni equiparate, la durata dell'incarico e' pari a tre anni. Resta fermo che per i dipendenti statali titolari di incarichi di funzioni dirigenziali ai sensi del presente articolo, ai fini dell'applicazione dell'articolo 43, comma 1, del decreto del Presidente della Repubblica 29 dicembre 1973, n. 1092, e successive modificazioni, l'ultimo stipendio va individuato nell'ultima retribuzione percepita in relazione all'incarico svolto.»;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    al comma 3, le parole: «richieste dal comma 6.» sono sostituite dalle seguenti: «e nelle percentuali previste dal comma 6.»;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    al comma 6:
+ 1) al terzo periodo, le parole: «sono conferiti a persone di particolare e comprovata qualificazione professionale» sono sostituite dalle seguenti: «sono conferiti, fornendone esplicita motivazione, a persone di particolare e comprovata qualificazione professionale, non rinvenibile nei ruoli dell'Amministrazione»;
+ 2) al terzo periodo, le parole: «o da concrete esperienze di lavoro maturate» sono sostituite dalle seguenti: «e da concrete esperienze di lavoro maturate per almeno un quinquennio»;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    dopo il comma 6 sono inseriti i seguenti:
+ «6-bis. Fermo restando il contingente complessivo dei dirigenti di prima o seconda fascia il quoziente derivante dall'applicazione delle percentuali previste dai commi 4, 5-bis e 6, e' arrotondato all'unita' inferiore, se il primo decimale e' inferiore a cinque, o all'unita' superiore, se esso e' uguale o superiore a cinque.
+ 6-ter. Il comma 6 ed il comma 6-bis si applicano alle amministrazioni di cui all'articolo 1, comma 2.»;
+
+                                
+                            
+                            
+                                g)
+                                
+                                    al comma 8, le parole: «, al comma 5-bis, limitatamente al personale non appartenente ai ruoli di cui all'articolo 23, e al comma 6,» sono soppresse.
+
 ## Art. 41. — Modifica all'articolo 21 del decreto legislativo 30 marzo 2001, n. 165
+
+1.
+                        
+                            
+                                All'articolo 21 del decreto legislativo 30 marzo 2001, n. 165, sono apportate le seguenti modifiche:
+ 
+                            
+                            
+                                a)
+                                
+                                    il comma 1 e' sostituito dal seguente: «1. Il mancato raggiungimento degli obiettivi accertato attraverso le risultanze del sistema di valutazione di cui al Titolo II del decreto legislativo di attuazione della legge 4 marzo 2009, n. 15, in materia di ottimizzazione della produttivita' del lavoro pubblico e di efficienza e trasparenza delle pubbliche amministrazioni ovvero l'inosservanza delle direttive imputabili al dirigente comportano, previa contestazione e ferma restando l'eventuale responsabilita' disciplinare secondo la disciplina contenuta nel contratto collettivo, l'impossibilita' di rinnovo dello stesso incarico dirigenziale. In relazione alla gravita' dei casi, l'amministrazione puo' inoltre, previa contestazione e nel rispetto del principio del contraddittorio, revocare l'incarico collocando il dirigente a disposizione dei ruoli di cui all'articolo 23 ovvero recedere dal rapporto di lavoro secondo le disposizioni del contratto collettivo.»;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    dopo il comma 1, e' inserito il seguente: «1-bis. Al di fuori dei casi di cui al comma 1, al dirigente nei confronti del quale sia stata accertata, previa contestazione e nel rispetto del principio del contraddittorio secondo le procedure previste dalla legge e dai contratti collettivi nazionali, la colpevole violazione del dovere di vigilanza sul rispetto, da parte del personale assegnato ai propri uffici, degli standard quantitativi e qualitativi fissati dall'amministrazione, conformemente agli indirizzi deliberati dalla Commissione di cui all'articolo 13 del decreto legislativo di attuazione della legge 4 marzo 2009, n. 15, in materia di ottimizzazione della produttivita' del lavoro pubblico e di efficienza e trasparenza delle pubbliche amministrazioni, la retribuzione di risultato e' decurtata, sentito il Comitato dei garanti, in relazione alla gravita' della violazione di una quota fino all'ottanta per cento.».
 
 ## Art. 42. — Modifica all'articolo 22 del decreto legislativo 30 marzo 2001, n. 165
 
@@ -493,9 +1376,72 @@ Nota redazionale
 
 ## Art. 44. — Modifica all'articolo 23-bis del decreto legislativo 30 marzo 2001, n. 165
 
+1.
+                        
+                            
+                                All'articolo 23-bis del decreto legislativo 30 marzo 2001, n.165, sono apportate le seguenti modificazioni:
+ 
+                            
+                            
+                                a)
+                                
+                                    al comma 1, le parole da: «possono» fino a «aspettativa» sono sostituite dalle seguenti: «sono collocati, salvo motivato diniego dell'amministrazione di appartenenza in ordine alle proprie preminenti esigenze organizzative, in aspettativa»;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    al comma 2, in fine, sono aggiunte le seguenti parole: «in ordine alle proprie preminenti esigenze organizzative».
+
 ## Art. 45. — Modifica all'articolo 24 del decreto legislativo 30 marzo 2001, n. 165
 
+1.
+                        
+                            
+                                All'articolo 24 del decreto legislativo 30 marzo 2001, n. 165, sono apportate le seguenti modifiche:
+ 
+                            
+                            
+                                a)
+                                
+                                    al comma 1, le parole: «e alle connesse responsabilita'» sono sostituite dalle seguenti: «, alle connesse responsabilita' e ai risultati conseguiti»;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    dopo il comma 1 sono inseriti i seguenti:
+ «1-bis. Il trattamento accessorio collegato ai risultati deve costituire almeno il 30 per cento della retribuzione complessiva del dirigente considerata al netto della retribuzione individuale di anzianita' e degli incarichi aggiuntivi soggetti al regime dell'onnicomprensivita'.
+ 1-ter. I contratti collettivi nazionali incrementano progressivamente la componente legata al risultato, in modo da adeguarsi a quanto disposto dal comma 1-bis, entro la tornata contrattuale successiva a quella decorrente dal 1° gennaio 2010, destinando comunque a tale componente tutti gli incrementi previsti per la parte accessoria della retribuzione. La disposizione di cui al comma 1-bis non si applica alla dirigenza del Servizio sanitario nazionale e dall'attuazione del medesimo comma non devono derivare nuovi o maggiori oneri per la finanza pubblica.
+ 1-quater. La parte della retribuzione collegata al raggiungimento dei risultati della prestazione non puo' essere corrisposta al dirigente responsabile qualora l'amministrazione di appartenenza, decorso il periodo transitorio di sei mesi dalla data di entrata in vigore del decreto legislativo di attuazione della legge 4 marzo 2009, n. 15, in materia di ottimizzazione della produttivita' del lavoro pubblico e di efficienza e trasparenza delle pubbliche amministrazioni, non abbia predisposto il sistema di valutazione di cui al Titolo II del citato decreto legislativo.».
+
 ## Art. 46. — Modifiche all'articolo 28 del decreto legislativo 30 marzo 2001, n. 165
+
+1.
+                        
+                            
+                                All'articolo 28 del decreto legislativo 30 marzo 2001, n. 165, sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la rubrica e' sostituita dalla seguente: "Accesso alla qualifica di dirigente della seconda fascia"; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    al comma 2 dopo le parole: "o se in possesso del" sono inserite le seguenti: "dottorato di ricerca o del". 
+ 
+ 
+--------------- 
+Nota redazionale 
+ Il testo del presente articolo e' gia' integrato con le correzioni apportate dall'errata-corrige pubblicato in G.U. 10/11/2009, n. 262 durante il periodo di "vacatio legis". 
+ E' possibile visualizzare il testo originario accedendo alla versione pdf della relativa Gazzetta di pubblicazione.
 
 ## Art. 47. — Modifica all'articolo 28 del decreto legislativo 30 marzo 2001, n. 165
 
@@ -536,6 +1482,31 @@ All'articolo 33 del decreto legislativo 30 marzo 2001, n. 165, dopo il comma 1 e
 All'articolo 35 del decreto legislativo 30 marzo 2001, n. 165, al comma 5-ter e' aggiunto, in fine, il seguente periodo: «Il principio della parita' di condizioni per l'accesso ai pubblici uffici e' garantito, mediante specifiche disposizioni del bando, con riferimento al luogo di residenza dei concorrenti, quando tale requisito sia strumentale all'assolvimento di servizi altrimenti non attuabili o almeno non attuabili con identico risultato.».
 
 ## Art. 52. — Modifiche all'articolo 53 del decreto legislativo 30 marzo 2001, n. 165
+
+1.
+                        
+                            
+                                All'articolo 53 del decreto legislativo 30 marzo 2001, n. 165, sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    dopo il comma 1, e' inserito il seguente: 
+ "1-bis. Non possono essere conferiti incarichi di direzione di strutture deputate alla gestione del personale a soggetti che rivestano o abbiano rivestito negli ultimi due anni cariche in partiti politici o in organizzazioni sindacali o che abbiano avuto negli ultimi due anni rapporti continuativi di collaborazione o di consulenza con le predette organizzazioni."; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il comma 16-bis e' sostituto dal seguente: "16-bis. La Presidenza del Consiglio dei Ministri - Dipartimento della funzione pubblica puo' disporre verifiche del rispetto delle disposizioni del presente articolo e dell' articolo 1, commi 56 e seguenti, della legge 23 dicembre 1996, n. 662, per il tramite dell'Ispettorato per la funzione pubblica. A tale fine quest'ultimo opera d'intesa con i Servizi ispettivi di finanza pubblica del Dipartimento della Ragioneria generale dello Stato.". 
+ 
+ 
+--------------- 
+Nota redazionale 
+ Il testo del presente articolo e' gia' integrato con le correzioni apportate dall'errata-corrige pubblicato in G.U. 10/11/2009, n. 262 durante il periodo di "vacatio legis". 
+ E' possibile visualizzare il testo originario accedendo alla versione pdf della relativa Gazzetta di pubblicazione.
 
 ## - CAPO IV Contrattazione collettiva nazionale e integrativa
 
@@ -581,7 +1552,105 @@ L'articolo 41 del decreto legislativo 30 marzo 2001, n. 165, e' sostituito dal s
 
 ## Art. 57. — Modifica all'articolo 45 del decreto legislativo 30 marzo 2001, n. 165
 
+1.
+                        
+                            
+                                All'articolo 45, comma 1, del decreto legislativo 30 marzo 2001, n. 165, sono apportate le seguenti modificazioni:
+ 
+                            
+                            
+                                a)
+                                
+                                    al comma 1, dopo le parole: «fondamentale ed accessorio» sono inserite le seguenti: «fatto salvo quanto previsto all'articolo 40, commi 3-ter e 3-quater, e all'articolo 47-bis, comma 1,»;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il comma 3 e' sostituito dal seguente:
+ «3. I contratti collettivi definiscono, in coerenza con le disposizioni legislative vigenti, trattamenti economici accessori collegati:
+ a) alla performance individuale;
+ b) alla performance organizzativa con riferimento all'amministrazione nel suo complesso e alle unita' organizzative o aree di responsabilita' in cui si articola l'amministrazione;
+ c) all'effettivo svolgimento di attivita' particolarmente disagiate ovvero pericolose o dannose per la salute.»;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    dopo il comma 3 e' inserito il seguente:
+ «3-bis. Per premiare il merito e il miglioramento della performance dei dipendenti, ai sensi delle vigenti disposizioni di legge, sono destinate, compatibilmente con i vincoli di finanza pubblica, apposite risorse nell'ambito di quelle previste per il rinnovo del contratto collettivo nazionale di lavoro.».
+
 ## Art. 58. — Modifiche all'articolo 46 del decreto legislativo 30 marzo 2001, n. 165
+
+1.
+                        
+                            
+                                All'articolo 46 del decreto legislativo 30 marzo 2001, n. 165, sono apportate le seguenti modificazioni:
+ 
+                            
+                            
+                                a)
+                                
+                                    i commi da 3 a 7 sono sostituiti dai seguenti:
+ «3. L'ARAN cura le attivita' di studio, monitoraggio e documentazione necessarie all'esercizio della contrattazione collettiva. Predispone a cadenza semestrale, ed invia al Governo, ai comitati di settore dei comparti regioni e autonomie locali e sanita' e alle commissioni parlamentari competenti, un rapporto sull'evoluzione delle retribuzioni di fatto dei pubblici dipendenti.
+A tale fine l'ARAN si avvale della collaborazione dell'ISTAT per l'acquisizione di informazioni statistiche e per la formulazione di modelli statistici di rilevazione. L'ARAN si avvale, altresi', della collaborazione del Ministero dell'economia e delle finanze che garantisce l'accesso ai dati raccolti in sede di predisposizione del bilancio dello Stato, del conto annuale del personale e del monitoraggio dei flussi di cassa e relativi agli aspetti riguardanti il costo del lavoro pubblico.
+ 4. L'ARAN effettua il monitoraggio sull'applicazione dei contratti collettivi nazionali e sulla contrattazione collettiva integrativa e presenta annualmente al Dipartimento della funzione pubblica, al Ministero dell'economia e delle finanze nonche' ai comitati di settore, un rapporto in cui verifica l'effettivita' e la congruenza della ripartizione fra le materie regolate dalla legge, quelle di competenza della contrattazione nazionale e quelle di competenza dei contratti integrativi nonche' le principali criticita' emerse in sede di contrattazione collettiva nazionale ed integrativa.
+ 5. Sono organi dell'ARAN:
+ a) il Presidente;
+ b) il Collegio di indirizzo e controllo.
+ 6. Il Presidente dell'ARAN e' nominato con decreto del Presidente della Repubblica, su proposta del Ministro per la pubblica amministrazione e l'innovazione previo parere della Conferenza unificata. Il Presidente rappresenta l'agenzia ed e' scelto fra esperti in materia di economia del lavoro, diritto del lavoro, politiche del personale e strategia aziendale, anche estranei alla pubblica amministrazione, nel rispetto delle disposizioni riguardanti le incompatibilita' di cui al comma 7-bis. Il Presidente dura in carica quattro anni e puo' essere riconfermato per una sola volta. La carica di Presidente e' incompatibile con qualsiasi altra attivita' professionale a carattere continuativo, se dipendente pubblico, e' collocato in aspettativa o in posizione di fuori ruolo secondo l'ordinamento dell'amministrazione di appartenenza.
+ 7. Il collegio di indirizzo e controllo e' costituito da quattro componenti scelti tra esperti di riconosciuta competenza in materia di relazioni sindacali e di gestione del personale, anche estranei alla pubblica amministrazione e dal presidente dell'Agenzia che lo presiede; due di essi sono designati con decreto del Presidente del Consiglio dei Ministri, su proposta, rispettivamente, del Ministro per la pubblica amministrazione e l'innovazione e del Ministro dell'economia e delle finanze e gli altri due, rispettivamente, dall'ANCI e dall'UPI e dalla Conferenza delle Regioni e delle province autonome. Il collegio coordina la strategia negoziale e ne assicura l'omogeneita', assumendo la responsabilita' per la contrattazione collettiva e verificando che le trattative si svolgano in coerenza con le direttive contenute negli atti di indirizzo.
+Nell'esercizio delle sue funzioni il collegio delibera a maggioranza, su proposta del presidente. Il collegio dura in carica quattro anni e i suoi componenti possono essere riconfermati per una sola volta.»;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    dopo il comma 7 e' inserito il seguente:
+ «7-bis. Non possono far parte del collegio di indirizzo e controllo ne' ricoprire funzioni di presidente, persone che rivestano incarichi pubblici elettivi o cariche in partiti politici ovvero che ricoprano o abbiano ricoperto nei cinque anni precedenti alla nomina cariche in organizzazioni sindacali. L'incompatibilita' si intende estesa a qualsiasi rapporto di carattere professionale o di consulenza con le predette organizzazioni sindacali o politiche.
+L'assenza delle predette cause di incompatibilita' costituisce presupposto necessario per l'affidamento degli incarichi dirigenziali nell'agenzia.»;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    al comma 8, lettera a), il secondo periodo e' sostituito dal seguente:
+ «La misura annua del contributo individuale e' definita, sentita l'ARAN, con decreto del Ministro dell'economia e delle finanze, di concerto con il Ministro della pubblica amministrazione e l'innovazione, d'intesa con la Conferenza unificata ed e' riferita a ciascun triennio contrattuale; »;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    al comma 9, la lettera a) e' sostituita dalla seguente:
+ «a) per le amministrazioni dello Stato mediante l'assegnazione di risorse pari all'ammontare dei contributi che si prevedono dovuti nell'esercizio di riferimento. L'assegnazione e' effettuata annualmente sulla base della quota definita al comma 8, lettera a), con la legge annuale di bilancio, con imputazione alla pertinente unita' previsionale di base dello stato di previsione del ministero dell'economia e finanze; »;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    al comma 10, nel quinto periodo, le parole: «quindici giorni» sono sostituite dalle seguenti: «quarantacinque giorni» e dopo le parole: «Dipartimento della funzione pubblica» sono inserite le seguenti: «e del Ministero dell'economia e delle finanze, adottati d'intesa con la Conferenza unificata,»;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    al comma 11, il primo periodo e' sostituito dal seguente: «Il ruolo del personale dipendente dell'ARAN e' definito in base ai regolamenti di cui al comma 10»;
+
+                                
+                            
+                            
+                                g)
+                                
+                                    al comma 12:
+ 1) il primo periodo e' sostituito dal seguente: «L'ARAN puo' altresi' avvalersi di un contingente di personale, anche di qualifica dirigenziale, proveniente dalle pubbliche amministrazioni rappresentate, in posizione di comando o fuori ruolo in base ai regolamenti di cui al comma 10»;
+ 2) l'ultimo periodo e' sostituito dal seguente: «L'ARAN puo' avvalersi di esperti e collaboratori esterni con modalita' di rapporto stabilite con i regolamenti adottati ai sensi del comma 10, nel rispetto dell'articolo 7, commi 6 e seguenti.».
 
 Entro trenta giorni dalla data di entrata in vigore del presente decreto si provvede alla nomina dei nuovi organi dell'ARAN di cui all'articolo 46, comma 5, del decreto legislativo 30 marzo 2001, n. 165, come modificato dal comma 1. Fino alla nomina dei nuovi organi, e comunque non oltre il termine di cui al precedente periodo, continuano ad operare gli organi in carica alla data di entrata in vigore del presente decreto.
 
@@ -605,6 +1674,32 @@ Decorsi sessanta giorni dalla data di entrata in vigore della legge finanziaria 
  2. In ogni caso a decorrere dal mese di aprile dell'anno successivo alla scadenza del contratto collettivo nazionale di lavoro, qualora lo stesso non sia ancora stato rinnovato e non sia stata disposta l'erogazione di cui al comma 1, e' riconosciuta ai dipendenti dei rispettivi comparti di contrattazione, nella misura e con le modalita' stabilite dai contratti nazionali, e comunque entro i limiti previsti dalla legge finanziaria in sede di definizione delle risorse contrattuali,una copertura economica che costituisce un'anticipazione dei benefici complessivi che saranno attribuiti all'atto del rinnovo contrattuale.».
 
 ## Art. 60. — Modifiche all'articolo 48 del decreto legislativo 30 marzo 2001, n. 165
+
+1.
+                        
+                            
+                                All'articolo 48 del decreto legislativo 30 marzo 2001, n. 165, sono apportate le seguenti modificazioni:
+ 
+                            
+                            
+                                a)
+                                
+                                    al comma 1, ultimo periodo, le parole: «40, comma 3.» sono sostituite dalle seguenti: «40, comma 3 -bis.»;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il comma 2 e' sostituito dal seguente: «2. Per le amministrazioni di cui all'articolo 41, comma 2, nonche' per le universita' italiane, gli enti pubblici non economici e gli enti e le istituzioni di ricerca, ivi compresi gli enti e le amministrazioni di cui all'articolo 70, comma 4, gli oneri derivanti dalla contrattazione collettiva nazionale sono determinati a carico dei rispettivi bilanci nel rispetto dell'articolo 40, comma 3-quinquies.
+Le risorse per gli incrementi retributivi per il rinnovo dei contratti collettivi nazionali delle amministrazioni regionali, locali e degli enti del Servizio sanitario nazionale sono definite dal Governo, nel rispetto dei vincoli di bilancio, del patto di stabilita' e di analoghi strumenti di contenimento della spesa, previa consultazione con le rispettive rappresentanze istituzionali del sistema delle autonomie.»;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il comma 6 e' abrogato.
 
 ## Art. 61. — Modifica all'articolo 49 del decreto legislativo 30 marzo 2001, n. 165
 
@@ -659,6 +1754,45 @@ Le disposizioni relative alla contrattazione collettiva nazionale di cui al pres
  Ha inoltre disposto (con l'art. 5, comma 2) che "L'articolo 65, comma 5, del decreto legislativo 27 ottobre 2009, n. 150, si interpreta nel senso che le disposizioni che si applicano dalla tornata contrattuale successiva a quella in corso al momento dell'entrata in vigore dello stesso decreto legislativo 27 ottobre 2009, n. 150, sono esclusivamente quelle relative al procedimento negoziale di approvazione dei contratti collettivi nazionali e, in particolare, quelle contenute negli articoli 41, commi da 1 a 4, 46, commi da 3 a 7, e 47 del decreto legislativo 30 marzo 2001, n. 165, come modificati rispettivamente dagli articoli 56, 58, 59, comma 1, del citato decreto legislativo n. 150 del 2009, nonche' quella dell'articolo 66, comma 3, del decreto legislativo n. 150 del 2009".
 
 ## Art. 66. — Abrogazioni
+
+1.
+                        
+                            
+                                Sono abrogati:
+ 
+                            
+                            
+                                a)
+                                
+                                    l'articolo 39, comma 3-ter, della legge 27 dicembre 1997, n. 449, e successive modificazioni;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'articolo 28, comma 2, del decreto legislativo 19 maggio 2000, n. 139;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    gli articoli 36, comma 2, e 82, comma 2, del decreto legislativo 13 ottobre 2005, n. 217;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    l'articolo 22, comma 2, del decreto legislativo 15 febbraio 2006, n. 63;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    l'articolo 67, commi da 7 a 12, del decreto-legge 25 giugno 2008, n. 112, convertito, con modificazioni, dalla legge 6 agosto 2008, n. 133.
 
 All'articolo 11, comma 8, del decreto del Presidente della Repubblica 4 dicembre 1997, n. 465, e successive modificazioni, le parole: «, sulla base delle direttive impartite dal Governo all'ARAN, sentite l'ANCI e l'UPI» sono soppresse. E' conseguentemente abrogato l'articolo 23 del decreto legislativo 29 ottobre 1998, n. 387.
 
@@ -745,6 +1879,33 @@ L'Ispettorato, inoltre, al fine di corrispondere a segnalazioni da parte di citt
 Gli ispettori, nell'esercizio delle loro funzioni, hanno piena autonomia funzionale ed hanno l'obbligo, ove ne ricorrano le condizioni, di denunciare alla Procura generale della Corte dei conti le irregolarita' riscontrate.».
 
 ## Art. 72. — Abrogazioni
+
+1.
+                        
+                            
+                                Sono abrogate le seguenti disposizioni:
+ 
+                            
+                            
+                                a)
+                                
+                                    
+                                        articolo 71, commi 2 e 3, del decreto-legge 25 giugno 2008, n. 112, convertito, con modificazioni, dalla legge 6 agosto 2008, n. 133;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    
+                                        articoli da 502 a 507 del decreto legislativo 16 aprile 1994, n. 297;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    l'articolo 56 del decreto legislativo 30 marzo 2001, n. 165.
 
 All'articolo 5, comma 4, della legge 27 marzo 2001, n. 97, le parole: «, salvi termini diversi previsti dai contratti collettivi nazionali di lavoro,» sono soppresse.
 

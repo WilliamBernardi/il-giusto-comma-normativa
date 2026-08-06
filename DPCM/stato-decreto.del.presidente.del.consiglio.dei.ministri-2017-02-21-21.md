@@ -8,8 +8,8 @@ vigente: true
 source: normattiva-opendata
 collection: DPCM
 vigenza_date: 2018-06-28
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:40:12Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DEL CONSIGLIO DEI MINISTRI
@@ -51,6 +51,38 @@ La richiesta di spazi finanziari di cui al comma 3 deve contenere le informazion
 
 Le regioni e le province autonome di Trento e di Bolzano, le citta' metropolitane, le province e i comuni comunicano le domande di cessione e acquisizione degli spazi finanziari, di cui ai commi da 2 a 4, con le modalita' definite al comma 1, entro il termine perentorio del 28 febbraio di ciascun anno.
 
+6.
+                    
+                        
+                            Le regioni e le province autonome di Trento e di Bolzano, tenendo conto delle domande pervenute entro il termine previsto dal comma 5, approvano con delibera di Giunta, entro il termine perentorio del 31 marzo di ciascun anno, previo parere favorevole del Consiglio delle autonomie locali e, ove non istituito, dei rappresentanti regionali delle autonomie locali, le intese per l'attribuzione degli spazi disponibili, secondo il seguente ordine di priorita': 
+ 
+                        
+                        
+                            a)
+                            
+                                dei comuni esclusi dai vincoli di finanza pubblica nell'anno 2015 in quanto con popolazione fino a 1.000 abitanti; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                dei comuni istituiti, nel quinquennio precedente all'anno dell'intesa, a seguito dei processi di fusione previsti dalla legislazione vigente. Sono considerati esclusivamente i comuni per i quali i processi di fusione si sono conclusi entro il 1° gennaio dell'anno dell'intesa stessa; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                degli enti territoriali che dispongono di progetti esecutivi di cui all'articolo 23, comma 8, del decreto legislativo 18 aprile 2016, n. 50, validati ed approvati in conformita' alla vigente normativa, completi del cronoprogramma della spesa, e presentano la maggiore incidenza del fondo di cassa rispetto alla quota vincolata agli investimenti del risultato di amministrazione, risultante dal rendiconto o dal preconsuntivo dell'anno precedente, per operazioni di investimento da realizzare attraverso l'utilizzo dei risultati di amministrazione; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                degli enti territoriali che dispongono di progetti esecutivi di cui all'articolo 23, comma 8, del decreto legislativo 18 aprile 2016, n. 50, validati ed approvati in conformita' alla vigente normativa, completi del cronoprogramma della spesa, e presentano la maggiore incidenza del fondo di cassa rispetto alla quota libera del risultato di amministrazione destinata agli investimenti, risultante dal rendiconto o dal preconsuntivo dell'anno precedente, per operazioni di investimento da realizzare attraverso l'utilizzo dei risultati di amministrazione.
+
 Nel caso in cui gli spazi disponibili non fossero sufficienti a soddisfare le richieste di cui alla lettera a) del comma 6, la distribuzione tra i comuni e' effettuata seguendo i criteri di cui alle lettere b), c) e d) del citato comma. Le regioni e le province autonome di Trento e di Bolzano possono definire ulteriori criteri, ferme restando le priorita' individuate dalle lettere a), b), c) e d) del comma 6, nonche' ulteriori modalita' applicative, ferme restando le scadenze previste dal presente decreto e il rispetto del saldo nel territorio regionale.
 
 Al fine di favorire gli investimenti nei settori strategici del proprio territorio, le regioni e le province autonome di Trento e di Bolzano possono cedere, per uno o piu' esercizi successivi, agli enti locali del proprio territorio, spazi finanziari per i quali non e' prevista la restituzione negli esercizi successivi.
@@ -78,6 +110,52 @@ In sede di prima applicazione, nell'anno 2017, i termini di cui ai commi 1 e 5 s
 E' istituito, senza oneri per la finanza pubblica, l'Osservatorio per il monitoraggio delle intese regionali, di seguito denominato "Osservatorio", per il monitoraggio dell'attuazione dell'articolo 2, con l'obiettivo di monitorare gli esiti delle intese e favorire il pieno utilizzo degli spazi finanziari per investimenti da parte degli enti territoriali. L'Osservatorio ha sede ed opera presso il Ministero dell'economia e delle finanze, Dipartimento della Ragioneria generale dello Stato.
 
 L'Osservatorio opera con l'utilizzo delle risorse umane, strumentali e finanziarie disponibili.
+
+3.
+                    
+                        
+                            L'Osservatorio e' presieduto dall'Ispettore generale capo dell'Ispettorato generale per la finanza delle pubbliche amministrazioni (I.Ge.PA.) del Dipartimento della Ragioneria generale dello Stato del Ministero dell'economia e delle finanze, ed e' composto dai seguenti componenti effettivi: 
+ 
+                        
+                        
+                            a)
+                            
+                                due rappresentanti del Ministero dell'economia e delle finanze; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                un rappresentante del Dipartimento per gli affari regionali e le autonomie della Presidenza del Consiglio dei ministri; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                un rappresentante del Ministero dell'interno; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                tre rappresentanti indicati dalla Conferenza delle regioni e delle Province autonome di Trento e di Bolzano; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                un rappresentante indicato dall'Unione province italiane (UPI); 
+
+                            
+                        
+                        
+                            f)
+                            
+                                due rappresentanti indicati dall'Associazione nazionale comuni italiani (ANCI).
 
 I componenti dell'Osservatorio sono nominati con decreto del Ministro dell'economia e delle finanze su designazione delle amministrazioni e degli altri organismi di cui al comma 3. Con la stessa procedura e' nominato un componente supplente per ciascuna delle categorie indicate nel comma 3.
 
@@ -109,9 +187,80 @@ L'Osservatorio richiede alle amministrazioni dello Stato, agli enti territoriali
 
 L'Osservatorio richiede ad altre istituzioni pubbliche o private le informazioni e i dati necessari a soddisfare gli eventuali ulteriori fabbisogni informativi. Il Presidente stabilisce il termine per la loro trasmissione.
 
+19.
+                    
+                        
+                            L'Osservatorio, al fine di monitorare gli esiti delle intese regionali e verificare il pieno utilizzo degli spazi finanziari finalizzati alla realizzazione degli investimenti, utilizza i dati e le informazioni disponibili servendosi dei seguenti indicatori: 
+ 
+                        
+                        
+                            a)
+                            
+                                capacita' di utilizzo degli spazi finanziari da parte degli enti beneficiari (spazi finanziari utilizzati/spazi finanziari acquisiti); 
+
+                            
+                        
+                        
+                            b)
+                            
+                                capacita' di utilizzo degli spazi finanziari a livello regionale (spazi finanziari disponibili/entrate finali); 
+
+                            
+                        
+                        
+                            c)
+                            
+                                tasso di incremento degli investimenti effettuati (investimenti anno n-l rispetto ad anno n); 
+
+                            
+                        
+                        
+                            d)
+                            
+                                tempestivita' dei pagamenti in conto capitale; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                tempi medi di realizzazione delle opere.
+
 L'Osservatorio puo' introdurre ulteriori indicatori di monitoraggio.
 
 L'Osservatorio predispone annualmente una relazione sull'esito dell'attivita' di monitoraggio di cui al comma 19, completa di indicazioni e suggerimenti utili ad ottimizzare il pieno utilizzo degli spazi finanziari finalizzati alla realizzazione degli investimenti. La relazione e' trasmessa alla Presidenza del Consiglio dei ministri e al Ministero dell'economia e delle finanze.
+
+22.
+                    
+                        
+                            L'Osservatorio elabora principi generali e strategie volte a favorire il pieno utilizzo degli spazi finanziari finalizzati alla realizzazione degli investimenti da parte degli enti territoriali. A tal fine, anche mediante accordi: 
+ 
+                        
+                        
+                            a)
+                            
+                                promuove iniziative per la realizzazione di una stretta sinergia tra Governo, regioni ed enti locali del proprio territorio finalizzata al rilancio degli investimenti; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                promuove programmi specifici di formazione destinati agli enti territoriali; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                assicura lo scambio di esperienze e la diffusione delle informazioni con le regioni, gli enti locali e le altre istituzioni interessate anche attraverso pubblicazioni e convegni di approfondimento; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                adotta programmi di sensibilizzazione delle amministrazioni dello Stato, degli enti territoriali e delle associazioni rappresentative degli enti territoriali al fine di favorire il pieno utilizzo degli spazi finanziari per investimenti.
 
 ))
 
@@ -128,6 +277,31 @@ Le regioni e le province autonome di Trento e di Bolzano, le citta' metropolitan
 La richiesta di spazi di cui al comma 3 deve contenere le informazioni relative all'avanzo di amministrazione, al netto della quota accantonata del Fondo crediti di dubbia esigibilita', risultante dal rendiconto o dal preconsuntivo dell'anno precedente, al fondo di cassa al 31 dicembre del medesimo anno e alla quota dei fondi stanziati in bilancio dell'esercizio di riferimento destinati a confluire nel risultato di amministrazione.
 
 Le regioni e le province autonome di Trento e di Bolzano, le citta' metropolitane, le province e i comuni comunicano le domande di cessione e acquisizione degli spazi finanziari, di cui ai commi da 2 a 4, con le modalita' definite ai sensi del comma 1, entro il termine perentorio del 15 luglio di ciascun anno.
+
+6.
+                    
+                        
+                            Il Ministero dell'economia e delle finanze - Dipartimento della Ragioneria generale dello Stato, entro il 31 luglio di ciascun anno, provvede alla distribuzione degli spazi finanziari, distintamente per regioni e province autonome di Trento e di Bolzano, citta' metropolitane, province e comuni, tenendo conto prioritariamente delle richieste: 
+ 
+                        
+                        
+                            a)
+                            
+                                dei comuni esclusi dai vincoli di finanza pubblica nell'anno 2015 in quanto con popolazione fino a 1.000 abitanti; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                degli enti territoriali che dispongono di progetti esecutivi di cui all'articolo 23, comma 8, del decreto legislativo 18 aprile 2016, n. 50, validati ed approvati in conformita' alla vigente normativa, completi del cronoprogramma della spesa, e presentano la maggiore incidenza del fondo di cassa rispetto alla quota vincolata agli investimenti del risultato di amministrazione, risultante dal rendiconto o dal preconsuntivo dell'anno precedente, per operazioni di investimento da realizzare attraverso l'utilizzo dei risultati di amministrazione; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                degli enti territoriali che dispongono di progetti esecutivi di cui all'articolo 23, comma 8, del decreto legislativo 18 aprile 2016, n. 50, validati ed approvati in conformita' alla vigente normativa, completi del cronoprogramma della spesa, e presentano la maggiore incidenza del fondo di cassa rispetto alla quota libera del risultato di amministrazione destinata agli investimenti, risultante dal rendiconto o dal preconsuntivo dell'anno precedente, per operazioni di investimento da realizzare attraverso l'utilizzo dei risultati di amministrazione.
 
 Nel caso in cui gli spazi disponibili non fossero sufficienti a soddisfare le richieste di cui alla lettera a), del comma 6, la distribuzione tra i comuni e' effettuata seguendo i criteri di cui alle lettere b) e c) del citato comma. Fermo restando il pieno soddisfacimento delle priorita' di cui alle lettere a), b) e c) del comma 6, qualora l'entita' delle richieste pervenute dagli enti superi l'ammontare degli spazi finanziari residui, l'attribuzione e' effettuata a favore degli enti che presentano la maggiore incidenza del fondo di cassa rispetto all'avanzo di amministrazione, nel rispetto del saldo di cui all'articolo 9, comma 1, della legge 24 dicembre 2012, n. 243, del complesso degli enti territoriali.
 

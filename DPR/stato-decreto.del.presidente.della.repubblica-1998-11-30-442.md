@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: DPR
 vigenza_date: 2013-11-21
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:47:44Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -29,6 +29,24 @@ Sulla proposta del Presidente del Consiglio dei Ministri, di concerto con il Min
 ## - Capo I Gestione finanziaria
 
 ## Art. 1. — Definizioni
+
+1.
+                        
+                            
+                                Ai fini del presente regolamento:
+ 
+                            
+                            
+                                a)
+                                
+                                    l'espressione "commissione" indica la commissione di garanzia per l'attuazione della legge sullo sciopero;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'espressione "presidente" indica il presidente della commissione.
 
 ## Art. 2. — Esercizio finanziario e bilancio di previsione
 
@@ -109,6 +127,127 @@ Il bilancio consuntivo, corredato dalla relazione illustrativa, e' trasmesso ent
 
 La relazione illustrativa del presidente pone in evidenza i risultati generali della gestione e gli effetti che ne sono conseguiti sul patrimonio, nonche' le variazioni apportate sulle previsioni nel corso dell'esercizio.
 
+4.
+                        
+                            
+                                Il rendiconto finanziario indica, per ciascun capitolo, per quanto si riferisce alla competenza:
+ 
+                            
+                            
+                                a)
+                                
+                                    le entrate previste, riscosse e rimaste da riscuotere, nonche' il totale degli accertamenti;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le spese previste, pagate e rimaste da pagare, nonche' il totale degli impegni.
+
+5.
+                        
+                            
+                                Al rendiconto finanziario sono allegati i prospetti indicanti:
+ 
+                            
+                            
+                                a)
+                                
+                                    il risultato finanziario della gestione del bilancio con il fondo di cassa all'inizio dell'esercizio, le riscossioni ed i pagamenti ed il fondo di cassa dell'esercizio stesso;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il risultato amministrativo della gestione medesima con il fondo di cassa finale, le somme rimaste da riscuotere e da pagare per competenza e residui alla fine dell'esercizio e l'avanzo o disavanzo di amministrazione;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    le variazioni apportate nel corso dell'esercizio agli stanziamenti dei capitoli, classificate a seconda che derivino da deliberazioni emanate in conseguenza di leggi generali, disposizioni particolari, prelevamenti dal fondo di riserva o storni da capitolo a capitolo;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    prospetto delle variazioni economiche intervenute nell'esercizio.
+
+6.
+                        
+                            
+                                Il conto del patrimonio indica la consistenza degli elementi patrimoniali attivi e passivi all'inizio ed al termine dell'esercizio, ponendo in evidenza le variazioni intervenute nelle singole poste e nel patrimonio netto iniziale. Le poste patrimoniali da considerare a tale fine sono:
+ 
+                            
+                            
+                                a)
+                                
+                                    le disponibilita' finanziarie;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    i beni mobili, i crediti, i titoli di credito e le altre attivita';
+
+                                
+                            
+                            
+                                c)
+                                
+                                    gli accantonamenti per i fondi speciali;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    i debiti e le passivita' diverse;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    il saldo netto patrimoniale;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    i conti d'ordine.
+
+7.
+                        
+                            
+                                Al conto del patrimonio sono allegati i prospetti indicanti:
+ 
+                            
+                            
+                                a)
+                                
+                                    la dimostrazione dei punti di concordanza tra il rendiconto finanziario e il conto del patrimonio, intesa ad evidenziare gli effetti economici prodotti dalla gestione del bilancio sulla consistenza patrimoniale;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il risultato generale delle rendite e delle spese derivanti dalla gestione del bilancio e da quella del patrimonio;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    la dimostrazione dei punti di concordanza tra le scritture della commissione ed i conti correnti bancari relativi alle varie gestioni di fondi.
+
 ## Art. 10. — Formazione, presentazione
  ed approvazione del bilancio consuntivo
 
@@ -131,6 +270,31 @@ Dopo il 31 dicembre non e' piu' possibile impegnare somme sulle disponibilita' d
 ## Art. 12. — Scritture contabili
 
 Le scritture contabili sono costituite dalle scritture finanziarie e patrimoniali.
+
+2.
+                        
+                            
+                                Le scritture finanziarie devono consentire di rilevare per ciascun capitolo, sia per la competenza, sia per i residui, la situazione degli accertamenti di entrata e degli impegni di spesa a fronte dei relativi stanziamenti; esse devono evidenziare, inoltre, la situazione delle somme riscosse e pagate e di quelle da riscuotere e da pagare. Sono scritture finanziarie:
+ 
+                            
+                            
+                                a)
+                                
+                                    il giornale di cassa, che evidenzia cronologicamente i movimenti di cassa, per la successiva concordanza con i dati forniti periodicamente dall'istituto di credito che svolge il servizio di tesoreria;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la copia dei mandati (reversali e mandati) che evidenziano cronologicamente per ciascuna unita' previsionale le entrate e le spese nelle fasi della riscossione e del pagamento;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    le scritture ausiliarie, che evidenziano le operazioni relative alle ritenute di ogni tipo.
 
 Le scritture patrimoniali devono consentire la dimostrazione del valore del patrimonio all'inizio dell'esercizio finanziario, le variazioni intervenute nel corso dell'anno per effetto della gestione di bilancio o per altre cause, nonche' la consistenza del patrimonio alla chiusura dell'esercizio.
 
@@ -238,6 +402,31 @@ Possono essere emessi mandati di pagamento collettivi per pagamenti da farsi per
 Per il pagamento anticipato di beni e servizi si applicano le disposizioni previste per le amministrazioni dello Stato.
 
 ## Art. 21. — Estinzione dei titoli
+
+1.
+                        
+                            
+                                I mandati di pagamento sono estinti mediante:
+ 
+                            
+                            
+                                a)
+                                
+                                    accreditamento in conto corrente bancario intestato al creditore;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    accreditamento in conto corrente postale intestato al creditore ovvero vaglia postale o telegrafico con spesa a carico del richiedente; in quest'ultimo caso deve essere allegata al titolo la ricevuta del versamento rilasciata dall'ufficio postale;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    commutazione in assegno circolare non trasferibile all'ordine del creditore, da spedire a cura dell'istituto cassiere all'indirizzo del medeimo con spese a suo carico.
 
 Per l'estinzione con le modalita' di cui alle lettere a) e c) del comma 1 occorre richiesta scritta del creditore.
 

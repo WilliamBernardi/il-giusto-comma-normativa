@@ -8,8 +8,8 @@ codice_redazionale: 010G0149
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti governativi
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:15Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -32,6 +32,66 @@ Sulla proposta del Ministro delle infrastrutture e dei trasporti;
 Il presente regolamento disciplina l'attivita' di volo da diporto o sportivo, di seguito denominato: «VDS», e si applica a tutti gli apparecchi VDS individuati nell'allegato alla legge 25 marzo 1985, n. 106, operanti sul territorio nazionale.
 
 ## Art. 2. — Definizioni
+
+1.
+                        
+                            
+                                Ai fini del presente regolamento si intende per: 
+ 
+                            
+                            
+                                a)
+                                
+                                    volo da diporto o sportivo: l'attivita' di volo effettuata con apparecchi VDS per scopi ricreativi, diportistici o sportivi, senza fini di lucro; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    apparecchio VDS: un mezzo con motore impiegato per il volo da diporto o sportivo avente le caratteristiche tecniche di cui all'allegato alla legge 25 marzo 1985, n. 106; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    apparecchio avanzato: un apparecchio VDS avente i requisiti tecnici di cui all'articolo 8 ; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    apparecchio per il volo libero: un deltaplano, ovvero un parapendio ovvero ogni altro mezzo privo di motore impiegato per il volo da diporto o sportivo, con decollo a piedi, avente le caratteristiche tecniche di cui all'allegato alla legge 25 marzo 1985, n. 106; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    pilota responsabile: il soggetto che assume il comando ed al quale e' affidata la sicurezza della condotta del volo; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    fornitore di servizi di traffico aereo competente: il fornitore di servizi di traffico aereo designato per lo spazio aereo preso in considerazione; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    regole dell'aria: le disposizioni di cui al regolamento tecnico adottato dall'ENAC, ai sensi dell'articolo 2 del decreto legislativo 25 luglio 1997, n. 250, ed in accordo alle previsioni del decreto legislativo 9 maggio 2005, n. 96, di recepimento delle parti applicabili dell'Annesso 2 ICAO e della normativa comunitaria e internazionale direttamente applicabile; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    regole del volo a vista diurno: le regole dell'aria, di cui alla lettera g) applicabili ai voli a vista effettuati da mezz'ora prima del sorgere del sole a mezz'ora dopo il tramonto (orari basati sulle effemeridi).
 
 ## Art. 3. — Responsabilita' per la condotta dei voli
 
@@ -77,6 +137,35 @@ Sono ammessi alla circolazione sul territorio nazionale gli apparecchi VDS munit
 
 Gli apparecchi VDS iscritti nei registri dei Paesi terzi, aventi caratteristiche conformi a quelle di cui all'allegato alla legge 25 marzo 1985, n. 106, sono preventivamente autorizzati dall'Aero Club d'Italia alla circolazione sul territorio nazionale. Detta autorizzazione ha durata di novanta giorni ed e' rinnovabile per altri novanta giorni nell'arco di dodici mesi, salvo eventuali accordi intercorsi tra l'Aero Club d'Italia e l'ente omologo dello Stato di appartenenza dell'apparecchio VDS. Il richiedente attesta, con propria dichiarazione autenticata nelle forme di legge, la conformita' dell'apparecchio alle caratteristiche di cui all'allegato alla legge 25 marzo 1985, n. 106.
 
+3.
+                        
+                            
+                                La domanda di iscrizione nel registro di cui all'articolo 5, lettera c), del decreto del Presidente del Consiglio dei ministri 20 ottobre 2004, presentata dal proprietario dell'apparecchio, e' corredata dai seguenti documenti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    due fotografie a colori dell'apparecchio, visto di lato e frontalmente, idonee ad identificarne il modello, indipendentemente dalla sua colorazione; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    dichiarazione del proprietario autenticata nelle forme di legge o autocertificazione attestante la conformita' dell'apparecchio alle caratteristiche di cui all'allegato alla legge 25 marzo 1985, n. 106. La dichiarazione reca le seguenti indicazioni: 
+ 1) struttura dell'apparecchio (monoposto o biposto); 
+ 2) nome del costruttore; 
+ 3) modello e potenza del motore, peso massimo al decollo, dimensioni (lunghezza, larghezza e altezza) espresse in centimetri, ubicazione del posto principale di pilotaggio, tipologia dei comandi (tre assi, due assi, pendolare, elicottero, autogiro, mongolfiera, dirigibile); 
+ 4) modello dell'apparecchio, eventuale installazione del gancio per il traino nonche' l'eventuale numero seriale ove trattasi di prodotto industriale; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    in caso di richiesta di attribuzione della qualifica di apparecchio avanzato, il proprietario, oltre alla documentazione indicata alle lettere a) e b), allega, la documentazione di cui all'articolo 8.
+
 L'Aero Club d'Italia, accertata la regolarita' della documentazione di cui al comma 3, rilascia un certificato di identificazione e una targa metallica. L'Aero Club d'Italia puo' accertare, in qualsiasi momento, la conformita' tra la dichiarazione del proprietario dell'apparecchio e le caratteristiche oggettive dello stesso, anche avvalendosi delle strutture di altri soggetti pubblici.
 
 La targa metallica, delle dimensioni di dieci centimetri x cinque centimetri, sulla quale figura la lettera I (Italia) seguita da quattro caratteri alfa-numerici, e' apposta in modo stabile sull'apparecchio. Le singole lettere e cifre che figurano sulla targa sono riprodotte, ciascuna, in colore scuro su fondo bianco o viceversa nelle dimensioni minime di trenta centimetri per quindici centimetri sulla parte inferiore dell'ala, sulla fusoliera nel caso di apparecchi ad ala rotante, oppure sull'involucro, nel caso di mongolfiera o dirigibile.
@@ -98,6 +187,54 @@ Qualora, per effetto di sopravvenute modificazioni, l'apparecchio non sia piu' r
 ## Art. 8.
 
 Apparecchi qualificati «Avanzati»
+
+1.
+                        
+                            
+                                E' attribuita la qualifica di apparecchi avanzati agli apparecchi VDS a motore di cui all'allegato alla legge 25 marzo 1985, n. 106, identificati negli Stati di appartenenza, aventi caratteristiche tecniche conformi a standard tecnici almeno equivalenti a quelli di cui agli allegati tecnici II, III, IV e V facenti parte integrante del presente regolamento. La dichiarazione autocertificata di conformita' ai predetti standard e' resa : 
+ 
+                            
+                            
+                                a)
+                                
+                                    dall'azienda costruttrice o dall'organizzazione responsabile della produzione, nel caso di apparecchi prodotti industrialmente, anche in kit di montaggio, a garanzia della qualita' e della conformita' dei propri prodotti al progetto depositato presso l'Aero Club d'Italia ai sensi dei commi 2, lettera a), e 3. Limitatamente agli apparecchi gia' identificati dall'Aero Club d'Italia alla data di entrata in vigore del presente regolamento, e' richiesta la sola dichiarazione di rispondenza ai requisiti di cui agli allegati tecnici al presente regolamento; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    dal costruttore, nel caso di apparecchi amatoriali non realizzati mediante kit di montaggio prodotto industrialmente; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    dal proprietario, nei casi di impossibilita' di rilascio da parte del costruttore per cessata attivita' o fallimento ovvero nei casi dichiarati ammissibili dall'Aero Club d'Italia.
+
+2.
+                        
+                            
+                                Il proprietario richiedente la qualifica di apparecchio avanzato deposita presso l'Aero Club d'Italia le dichiarazioni di cui al comma 1, unitamente ai seguenti documenti in formato elettronico non modificabile: 
+ 
+                            
+                            
+                                a)
+                                
+                                    nel caso di apparecchi di cui al comma 1, lettera a): 
+ 1) dossier tecnico predisposto dall'azienda che ha progettato l'apparecchio, relativo al calcolo, dimensionamento e verifica delle strutture primarie e report sui test di volo eseguiti, indicazione del tipo e modello del motore ritenuto idoneo; 
+ 2) copia dei manuali di volo e di manutenzione dell'apparecchio, del motore, dell'elica e degli equipaggiamenti inclusi quelli avionici installati, comprendenti le ispezioni e le sostituzioni obbligatorie. 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    nel caso di apparecchi di cui al comma 1, lettere b) e c): 
+ 1) relazione tecnica attestante che la progettazione e la realizzazione dell'apparecchio sono state eseguite con criteri idonei a garantire la rispondenza agli standard tecnici di cui al comma 1.
+La relazione tecnica e' sottoscritta da un ingegnere aeronautico o aerospaziale abilitato all'esercizio della professione ovvero da un perito aeronautico designato da un'associazione di costruttori amatoriali riconosciuta dall'Aero Club d'Italia; 
+ 2) copia dei manuali di volo e di manutenzione dell'apparecchio, del motore, dell'elica e degli equipaggiamenti inclusi quelli avionici installati, comprendenti le ispezioni e le sostituzioni obbligatorie.
 
 All'atto della prima richiesta di identificazione di apparecchio avanzato, le aziende costruttrici depositano presso l'Aero Club d'Italia, le dichiarazioni autocertificate di cui al comma 1 nonche' la documentazione di cui al comma 2, lettera a), relative ai velivoli gia' prodotti e a quelli di nuova produzione, in formato elettronico non modificabile. Le aziende costruttrici sono tenute ad aggiornare la documentazione in caso di modifiche significative all'apparecchio.
 In tal caso il richiedente e' esonerato dal deposito dei documenti di cui al comma 2, lettera a).
@@ -144,6 +281,31 @@ Il senso di rotazione, destro o sinistro, nella conduzione del volo a spirale al
 
 L'attestato di idoneita' al pilotaggio VDS e' rilasciato dall'Aero Club d'Italia e consente di svolgere l'attivita' di volo con gli apparecchi VDS con le caratteristiche tecniche di cui all'allegato alla legge 25 marzo 1985, n. 106.
 
+2.
+                        
+                            
+                                Per il rilascio dell'abilitazione all'uso degli apparecchi VDS biposto con passeggero a bordo e' richiesto il possesso di uno dei seguenti requisiti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    attestato di istruttore VDS conseguito in data anteriore all'entrata in vigore del presente regolamento; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    autocertificazione relativa allo svolgimento di almeno trenta ore come responsabile ai comandi e superamento dell'esame di cui all'articolo 17, comma 3; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    brevetto o licenza le cui abilitazioni di pilota di velivolo o di elicottero siano in corso di validita' ovvero scadute da non oltre un anno;
+
 Per il conseguimento dell'attestato di cui al comma 1, e' richiesta la partecipazione ai corsi indetti dall'Aero Club d'Italia, con le modalita' dallo stesso stabilite ed approvate dal Ministero delle infrastrutture e dei trasporti, sentito l'Enac, con superamento di prove d'esame finali.
 
 Ai fini del conseguimento dell'attestato di idoneita' al pilotaggio VDS e dell'abilitazione di cui al comma 2, sono esentati dagli obblighi di cui al comma 3, coloro che sono in possesso di licenze aeronautiche con abilitazioni al pilotaggio di velivoli o elicotteri, in corso di validita', ovvero scadute da non oltre un anno.
@@ -155,6 +317,45 @@ I cittadini comunitari praticano l'attivita' VDS sul territorio italiano previo 
 I cittadini dei Paesi terzi, fatto salvo quanto previsto dall'articolo 14, praticano l'attivita' di volo VDS sul territorio nazionale previo possesso di un attestato in corso di validita', rilasciato dall'ente omologo dello Stato di appartenenza, purche' riconosciuto dall'Aero Club d'Italia. Ai cittadini dei Paesi terzi e' comunque consentito partecipare alle gare ed alle manifestazioni organizzate dalla Federazione aeronautica internazionale (FAI) nonche' alle relative attivita' preparatorie ove in possesso della licenza sportiva FAI in corso di validita', rilasciata per il tramite dell'Aero Club nazionale di appartenenza nonche' di un attestato abilitante all'attivita' VDS rilasciato dallo Stato di appartenenza, ancorche' non riconosciuto dall'Aero Club d'Italia.
 
 Ai fini del rilascio dell'attestato di cui al comma 1, il richiedente presenta il certificato di idoneita' psico-fisica, di cui all'articolo 13, nonche' il nulla osta di cui all'articolo 14. La certificazione medica, sia nel caso di primo rilascio che dei successivi rinnovi, ha validita' per un massimo di due anni, ridotti ad un anno al compimento del quarantesimo anno di eta' per i piloti che svolgono l'attivita' di istruttore VDS. Resta salva la facolta' del medico di prescrivere una durata inferiore della certificazione medica nei casi previsti all'allegato I. Entro la data di scadenza, l'interessato trasmette all'Aero Club d'Italia una nuova certificazione d'idoneita' psico-fisica. L'Aero Club d'Italia, previa verifica della conformita' della certificazione ai requisiti di cui all'articolo 13, trascrive l'avvenuta registrazione sull'attestato.
+
+9.
+                        
+                            
+                                L'Aero Club d'Italia rilascia l'attestazione della qualifica di pilota VDS avanzato a coloro che sono in possesso dei seguenti requisiti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    attestato di idoneita' al pilotaggio VDS con apparecchi provvisti di motore; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    abilitazione al trasporto del passeggero conseguita da almeno un anno; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    certificato di idoneita' psico-fisica in corso di validita'; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    frequenza e superamento di un corso di radiotelefonia approvato dall'Aero Club d'Italia, con rilascio di certificato di radiotelefonia aeronautica da parte di un ente abilitato. Il programma del corso di radiotelefonia e' predisposto dall'Aero Club d'Italia in conformita' alla normativa vigente per il conseguimento della licenza di pilota privato; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    superamento di apposito esame presso una scuola abilitata dall'Aero Club d'Italia al rilascio della attestazione della qualifica di pilota VDS avanzato.
 
 E' esentato dalle prescrizioni del comma 9, il titolare dell'attestato di idoneita' di cui ai commi 1 e 2, che ha gia' conseguito licenze aeronautiche o brevetto di pilota militare, le cui abilitazioni al pilotaggio di velivoli o di alianti o di elicotteri siano in corso di validita' ovvero scadute da non oltre 1 anno. Sono esentati dalle disposizioni di cui al comma 9, lettera d), i titolari di licenze aeronautiche o di brevetto di pilota militare, abilitanti al pilotaggio di velivoli, alianti o elicotteri ancorche' scadute ed i possessori di certificato di radiotelefonia aeronautica gia' conseguito alla data di entrata in vigore del presente regolamento.
 
@@ -199,11 +400,128 @@ L'Aero Club d'Italia definisce con proprio regolamento, approvato dal Ministero 
 
 ## Art. 16. — Ammissione ai corsi
 
+1.
+                        
+                            
+                                Per l'ammissione ai corsi per il rilascio dell'attestato di idoneita' al pilotaggio VDS e' richiesto il possesso dei seguenti requisiti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    eta' non inferiore ad anni diciotto oppure ad anni sedici, previo consenso reso nelle forme prescritte di legge, da parte di colui che ne esercita la potesta' genitoriale; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    certificazione medica di idoneita' psico-fisica in corso di validita' rilasciata da uno degli organismi di cui all'articolo 13; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    attestazione di richiesta del nulla osta del Questore, di cui all'articolo 14.
+
 ## Art. 17. — Programmi dei corsi
 
 I programmi didattici dei corsi di cui all'articolo 15, approvati con decreto del Ministero delle infrastrutture e dei trasporti, sentito l'ENAC, afferiscono a lezioni teoriche e a esercitazioni pratiche.
 
+2.
+                        
+                            
+                                Ai fini del conseguimento dell'attestato di cui all'articolo 11, comma 1, la frequenza alle lezioni di teoria non puo' essere inferiore a trentatre ore mentre quella relativa alle esercitazioni pratiche non puo' essere inferiore a sedici ore comprensive di quattro missioni in volo da solista. Le lezioni di teoria comprendono nozioni di base delle seguenti materie: 
+ 
+                            
+                            
+                                a)
+                                
+                                    aerodinamica; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    meteorologia; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    tecnologia e prestazioni degli apparecchi VDS; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    tecnica di pilotaggio; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    operazioni ed atterraggi di emergenza; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    norme di circolazione ed elementi di fonia aeronautica; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    navigazione aerea; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    elementi di legislazione aeronautica; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    sicurezza del volo.
+
 L'esame per il conseguimento della abilitazione al pilotaggio di apparecchi VDS biposto con passeggero a bordo di cui all'articolo 11, comma 2, e al volo in formazione di cui all'articolo 11, comma 14, e' svolto mediante una prova di volo con istruttore designato dall'Aero Club d'Italia. L'abilitazione al traino di cui all'articolo 11, comma 14, e' rilasciata previa frequenza di apposito corso teorico e svolgimento di attivita' di volo di almeno otto ore con prova d'esame finale.
+
+4.
+                        
+                            
+                                I programmi delle lezioni teoriche e delle esercitazioni pratiche per il conseguimento della qualifica di pilota avanzato di cui all'articolo 11, comma 9, prevedono la frequenza di un corso di almeno otto ore di lezioni di teoria e un'attivita' di almeno cinque ore di esercitazioni pratiche. Le lezioni teoriche comprendono nozioni di base delle seguenti materie: 
+ 
+                            
+                            
+                                a)
+                                
+                                    regole dell'aria, regolazione del traffico aereo e dei servizi del traffico aereo, comunicazioni per il volo a vista, suddivisione dello spazio aereo, classificazione degli aeroporti, attivita' di volo negli spazi aerei controllati ed operazioni aeroportuali; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    studio e preparazione del volo con particolare riferimento ai servizi forniti dagli enti di controllo del traffico aereo ed ai servizi di informazione aeronautica; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    procedure di emergenza.
 
 Le esercitazioni pratiche a bordo di un apparecchio VDS avanzato, che sono svolte in presenza di istruttore, comprendono attivita' di volo in spazio aereo controllato ed addestramento di volo specifico nell'ambito di circuiti aeroportuali in costanza di traffico di aviazione generale.
 
@@ -211,11 +529,111 @@ Le esercitazioni pratiche a bordo di un apparecchio VDS avanzato, che sono svolt
 
 L'attestato di idoneita' di istruttore VDS e' rilasciato dall'Aero Club d'Italia a seguito del superamento delle prove d'esame di cui all'articolo 19, relative al corso istituito dallo stesso Aero Club d'Italia con le modalita' e i criteri approvati con decreto del Ministero delle infrastrutture e dei trasporti, sentito l'ENAC. Il programma del corso comprende anche lezioni di didattica e tecnica di insegnamento.
 
+2.
+                        
+                            
+                                Per essere ammessi al corso di cui al comma 1, e' richiesto il possesso dei seguenti requisiti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    eta' non inferiore ad anni ventuno; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    diploma di scuola media superiore; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    attestato d'idoneita' al pilotaggio VDS rilasciata da almeno tre anni e abilitazione al trasporto del passeggero rilasciata da almeno un anno.
+
+3.
+                        
+                            
+                                L'attestato di idoneita' di istruttore VDS avanzato e' rilasciato agli istruttori in possesso dei seguenti requisiti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    qualifica di pilota VDS avanzato conseguita da almeno un anno; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    attestato di idoneita' di istruttore VDS con apparecchi provvisti di motore e autocertificazione dell'attivita' svolta per almeno cinque anni; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    autocertificazione relativa all'attivita' di pilota responsabile ai comandi di apparecchi per almeno trecento ore di volo; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    superamento di apposito esame secondo le modalita' e i criteri stabiliti dall'Aero Club d'Italia, approvati dal Ministero delle infrastrutture e dei trasporti, sentito l'ENAC.
+
 Sono esentati dagli obblighi di cui al comma 3, lettere a), c) e d), gli istruttori VDS con apparecchi provvisti di motore, in possesso della qualifica di pilota VDS avanzato, titolari di licenza di pilota di velivolo, di elicottero o di aliante o di brevetto di pilota militare, le cui abilitazioni siano in corso di validita' ovvero scadute da non oltre un anno.
 
 Gli istruttori VDS e gli istruttori VDS avanzati frequentano, con cadenza almeno triennale, un corso di aggiornamento indetto dall'Aero Club d'Italia. La mancata partecipazione ai corsi di aggiornamento comporta la sospensione della validita' dell'attestato di istruttore da parte dell'Aero Club d'Italia.
 
 ## Art. 19. — Prove di esame per il conseguimento dell'attestato di istruttore e di istruttore avanzato
+
+1.
+                        
+                            
+                                Le prove di esame di cui all'articolo 18, per il conseguimento dell'attestato di istruttore VDS comprendono: 
+ 
+                            
+                            
+                                a)
+                                
+                                    prove teoriche e pratiche a terra; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    svolgimento di una lezione relativa ad una materia oggetto dei corsi di cui all'articolo 17; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    prove pratiche di volo.
+
+2.
+                        
+                            
+                                La prova di esame per il conseguimento dell'attestato di istruttore VDS avanzato comprende: 
+ 
+                            
+                            
+                                a)
+                                
+                                    svolgimento di una lezione avente ad oggetto le regole della navigazione aerea a vista e le regole dell'aria; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    una prova pratica di volo eseguita in spazio aereo controllato.
 
 ## - Capo V Assicurazione
 
@@ -232,6 +650,45 @@ Sono interdetti dall'attivita' di volo gli apparecchi VDS di cui all'articolo 2,
 I corsi preparatori per il conseguimento delle idoneita' di cui all'articolo 15, possono svolgersi soltanto previa stipula di copertura assicurativa per responsabilita' civile della scuola per i danni provocati e riportati dagli allievi, istruttori ed esaminatori durante le esercitazioni di volo e gli esami, con un massimale non inferiore a cinquecentomila euro per persone, animali o cose, fermo restando le regole generali concernenti l'assicurazione della responsabilita' civile per i danni a terzi.
 
 ## Art. 21. — Requisiti della copertura assicurativa
+
+1.
+                        
+                            
+                                Il contratto di assicurazione per gli apparecchi VDS, stipulato nel rispetto della normativa comunitaria vigente in materia e in particolare, ove applicabile, del regolamento(CE) n. 785/2004 del Parlamento europeo e del Consiglio del 21 aprile 2004 prevede: 
+ 
+                            
+                            
+                                a)
+                                
+                                    l'estensione della copertura assicurativa anche ai voli effettuati con mezzi provvisti di motore, da persona diversa dall'assicurato ed eventualmente anche contro la sua volonta', salva, in tal caso, la possibilita' di rivalsa dell'assicuratore verso l'autore del danno; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'estensione della copertura anche ai danni arrecati per colpa grave; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    l'obbligo dell'assicuratore di risarcire direttamente il danneggiato; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    il divieto per l'assicuratore di opporre al terzo danneggiato, nei limiti del massimale assicurato, eccezioni derivanti dal contratto o clausole che prevedano l'eventuale contributo dell'assicurato al risarcimento del danno, salva la possibilita' di rivalsa dell'assicuratore verso l'assicurato nella misura e nelle ipotesi previste dal contratto; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    l'estensione della copertura ai danni cagionati a qualunque soggetto, diverso dall'assicurato, senza limitazioni relative a rapporti di parentela, professionali o simili.
 
 Il contratto di assicurazione stipulato dai piloti degli apparecchi VDS di cui all'articolo 2, lettera d), oltre alle disposizione di cui al comma 1, lettere b), c), d) ed e), prevede un massimale per i danni a terzi anche a seguito di urto o collisione in volo non inferiore ad un milioneseicentomila euro.
 

@@ -8,8 +8,8 @@ codice_redazionale: 000G0315
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:42Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -37,16 +37,142 @@ Nella presente sezione sono individuati le linee guida per la progettazione degl
 
 ## Art. 2. — Finalita' e criteri di progettazione
 
+1.
+                        
+                            
+                                Le finalita' ed i criteri da considerare a livello generale di pianificazione e dettagliato di progettazione, nella definizione di un itinerario ciclabile sono:
+ 
+                            
+                            
+                                a)
+                                
+                                    favorire e promuovere un elevato grado di mobilita' ciclistica e pedonale, alternativa all'uso dei veicoli a motore nelle aree urbane e nei collegamenti con il territorio contermine, che si ritiene possa raggiungersi delle localita' interessate, con preminente riferimento alla mobilita' lavorativa, scolastica e turistica;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    puntare all'attrattivita', alla continuita' ed alla riconoscibilita' dell'itinerario ciclabile, privilegiando i percorsi piu' brevi, diretti e sicuri secondo i risultati di indagini sull'origine e la destinazione dell'utenza ciclistica;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    valutare la redditivita' dell'investimento con riferimento all'utenza reale e potenziale ed in relazione all'obiettivo di ridurre il rischio d'incidentalita' ed i livelli di inquinamento atmosferico ed acustico;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    verificare l'oggettiva fattibilita' ed il reale utilizzo degli itinerari ciclabili da parte dell'utenza, secondo le diverse fasce d'eta' e le diverse esigenze, per le quali e' necessario siano verificate ed ottenute favorevoli condizioni anche plano-altimetriche dei percorsi.
+
 ## Art. 3. — Strumenti di pianificazione
+
+1.
+                        
+                            
+                                Al fine di predisporre interventi coerenti con le finalita' ed i criteri anzidetti gli enti locali si dotano dei seguenti strumenti di pianificazione e di progettazione:
+ 
+                            
+                            
+                                a)
+                                
+                                    un piano della rete degli itinerari ciclabili, nel quale siano previsti gli interventi da realizzare, comprensivo dei dati sui flussi ciclistici, delle lunghezze dei tracciati, della stima economica di spesa e di una motivata scala di priorita' e di tempi di realizzazione. Il livello di indagini preliminari e di dettaglio degli elaborati di piano deve essere adeguato alla estensione dimensionale della rete ciclabile ed alla complessita' del modello di organizzazione della circolazione delle altre componenti di traffico.
+Nell'ambito di tale piano e' ammessa la possibilita' di considerare itinerari isolati che rispettino comunque le finalita' ed i criteri di progettazione indicati all'articolo
 
 Per i comuni che sono tenuti alla predisposizione del Piano urbano del traffico (PUT), ai sensi dell'articolo 36 del decreto legislativo 30 aprile 1992, n. 285, il piano della rete ciclabile deve essere inserito in maniera organica, quale piano di settore, all'interno del PUT, secondo le indicazioni delle direttive ministeriali pubblicate nel supplemento ordinario n. 77 alla Gazzetta Ufficiale del 24 giugno 1995. Per i comuni non tenuti alla predisposizione del PUT occorre comunque procedere ad una verifica di compatibilita', soprattutto ai fini della sicurezza, con le altre modalita' di trasporto;
  b) i progetti degli itinerari ciclabili, previsti dal piano di cui al punto a), che prevedano anche, ove necessario, la riqualificazione dello spazio stradale circostante; in particolare, i progetti devono considerare e prevedere adeguate soluzioni per favorire la sicurezza della mobilita' ciclistica nei punti di maggior conflitto con i pedoni e i veicoli a motore (intersezioni, accessi a nodi attrattivi, ecc.).
 
 ## Art. 4. — Ulteriori elementi per la progettazione
 
+1.
+                        
+                            
+                                Gli itinerari ciclabili, posti all'interno del centro abitato o di collegamento con i centri abitati limitrofi, possono comprendere le seguenti tipologie riportate in ordine decrescente rispetto alla sicurezza che le stesse offrono per l'utenza ciclistica:
+ 
+                            
+                            
+                                a)
+                                
+                                    piste ciclabili in sede propria;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    piste ciclabili su corsia riservata;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    percorsi promiscui pedonali e ciclabili;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    percorsi promiscui ciclabili e veicolari.
+
 Gli itinerari ciclabili possono essere utilizzati per esigenze prevalentemente legate alla mobilita' lavorativa e scolastica quale sistema alternativo di trasporto per la risoluzione - anche se parziale - dei maggiori problemi di congestione del traffico urbano o per esigenze prevalentemente turistiche e ricreative.
 
+3.
+                        
+                            
+                                Per la progettazione degli itinerari ciclabili devono essere tenuti inoltre presenti, in particolare, i seguenti elementi:
+ 
+                            
+                            
+                                a)
+                                
+                                    nelle opere di piattaforma stradale: la regolarita' delle superfici ciclabili, gli apprestamenti per le intersezioni a raso e gli eventuali sottopassi o sovrappassi compresi i loro raccordi, le sistemazioni a verde, le opere di raccolta delle acque meteoriche anche con eventuali griglie, purche' quest'ultime non determinino difficolta' di transito per i ciclisti, ecc.;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    nella segnaletica stradale: oltre ai tradizionali cartelli (segnaletica verticale), le strisce (segnaletica orizzontale) e gli impianti semaforici, le indicazionidegli attraversamenti ciclabili, le colonnine luminose alle testate degli elementi spartitraffico fisicamente invalicabili, i delineatori di corsia, ecc.;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    nell'illuminazione stradale: gli impianti speciali per la visualizzazione notturna degli attraversamenti a raso, che devono tener conto delle alberature esistenti in modo da evitare zone d'ombra, ecc.;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    nelle attrezzature: le rastrelliere per la sosta dei velocipedi e, specialmente sulle piste ad utilizzazione turistica, panchine e zone d'ombra preferibilmente arboree, fontanelle di acqua potabile ogni 5 km di pista, punti telefonici od in alternativa indicazione dei punti piu' vicini, ecc.
+
 Nel capo II del presente regolamento sono definite le norme da rispettare per la progettazione e la realizzazione delle piste ciclabili, mentre per i percorsi promiscui, le cui caratteristiche tecniche esulano dalla disciplina delle presenti norme, vengono fornite unicamente le indicazioni riportate ai commi 5 e 6.
+
+5.
+                        
+                            
+                                I percorsi promiscui pedonali e ciclabili, identificabili con la figura II 92/b del decreto del Presidente della Repubblica 16 dicembre 1992, n. 495, sono realizzati, di norma, all'interno di parchi o di zone a traffico prevalentemente pedonale, nel caso in cui l'ampiezza della carreggiata o la ridotta entita' del traffico ciclistico non richiedano la realizzazione di specifiche piste ciclabili. I percorsi promiscui pedonali e ciclabili possono essere altresi' realizzati, previa apposizione della suddetta segnaletica, su parti della strada esterne alla carreggiata, rialzate o altrimenti delimitate e protette, usualmente destinate ai pedoni, qualora le stesse parti della strada non abbiano dimensioni sufficienti per la realizzazione di una pista ciclabile e di un contiguo percorso pedonale e gli stessi percorsi si rendano necessari per dare continuita' alla rete di itinerari ciclabili programmati. In tali casi, si ritiene opportuno che la parte della strada che si intende utilizzare quale percorso promiscuo pedonale e ciclabile abbia:
+ 
+                            
+                            
+                                a)
+                                
+                                    larghezza adeguatamente incrementata rispetto ai minimi fissati per le piste ciclabili all'articolo 7;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    traffico pedonale ridotto ed assenza di attivita' attrattrici di traffico pedonale quali itinerari commerciali, insediamenti ad alta densita' abitativa, ecc.
 
 I percorsi ciclabili su carreggiata stradale, in promiscuo con i veicoli a motore, rappresentano la tipologia di itinerari a maggiore rischio per l'utenza ciclistica e pertanto gli stessi sono ammessi per dare continuita' alla rete di itinerari prevista dal piano della rete ciclabile, nelle situazioni in cui non sia possibile, per motivazioni economiche o di insufficienza degli spazi stradali, realizzare piste ciclabili. Per i suddetti percorsi e' necessario intervenire con idonei provvedimenti (interventi sulla sede stradale, attraversamenti pedonali rialzati, istituzione delle isole ambientali previste dalle direttive ministeriali 24 giugno 1995, rallentatori di velocita' - in particolare del tipo ad effetto ottico e con esclusione dei dossi - ecc.) che comunque puntino alla riduzione dell'elemento di maggiore pericolosita' rappresentato dal differenziale di velocita' tra le due componenti di traffico, costituite dai velocipedi e dai veicoli a motore.
 
@@ -68,9 +194,85 @@ Nel computo dei "ciclisti x km" puo' farsi riferimento alla percorrenza annua co
 
 Pista ciclabile: parte longitudinale della strada, opportunamente delimitata, riservata alla circolazione dei velocipedi.
 
+2.
+                        
+                            
+                                La pista ciclabile puo' essere realizzata:
+ 
+                            
+                            
+                                a)
+                                
+                                    in sede propria, ad unico o doppio senso di marcia, qualora la sua sede sia fisicamente separata da quella relativa ai veicoli a motore ed ai pedoni, attraverso idonei spartitraffico longitudinali fisicamente invalicabili;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    su corsia riservata, ricavata dalla carreggiata stradale, ad unico senso di marcia, concorde a quello della contigua corsia destinata ai veicoli a motore ed ubicata di norma in destra rispetto a quest'ultima corsia, qualora l'elemento di separazione sia costituito essenzialmente da striscia di delimitazione longitudinale o da delimitatori di corsia;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    su corsia riservata, ricavata dal marciapiede, ad unico o doppio senso di marcia, qualora l'ampiezza ne consenta la realizzazione senza pregiudizio per la circolazione dei pedoni e sia ubicata sul lato adiacente alla carreggiata stradale.
+
+3.
+                        
+                            
+                                Possono comunque sussistere piste ciclabili formate da due corsie riservate contigue nei seguenti casi:
+ 
+                            
+                            
+                                a)
+                                
+                                    sulle strade pedonali, qualora l'intensita' del traffico ciclistico in rapporto a quello pedonale ne richieda la realizzazione; in tale caso si tratta di corsie di opposto senso di marcia ubicate in genere al centro della strada;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    sulla carreggiata stradale, qualora l'intensita' del traffico ciclistico ne richieda la realizzazione; in tale caso si tratta di corsie ciclabili nello stesso senso di marcia ubicate sempre in destra rispetto alla contigua corsia destinata ai veicoli a motore.
+Tale soluzione e' obbligatoria quando sussistono condizioni di particolare intensita' del traffico ciclistico ed il suo flusso risulti superiore a 1.200 unita/ora, per almeno due periodi di punta non inferiori a quindici minuti nell'arco delle ventiquattro ore.
+
 Salvo casi particolari, per i quali occorre fornire specifica dimostrazione di validita' tecnica della loro adozione ai fini della sicurezza stradale, specialmente con riferimento alla conflittualita' su aree di intersezione, non e' consentita la realizzazione di piste ciclabili a doppio senso di marcia con corsie ubicate entrambe sullo stesso lato della piattaforma stradale.
 
 In area urbana la circolazione ciclistica va indirizzata prevalentemente su strade locali e, laddove sia pre-visto che si svolga con una consistente intensita' su strade della rete principale, la stessa va adeguatamente protetta attraverso la realizzazione di piste ciclabili.
+
+6.
+                        
+                            
+                                In generale e con riferimento specifico alla tipologia delle strade indicata nel decreto legislativo 30 aprile 1992, n. 285, e' da osservare che:
+ 
+                            
+                            
+                                a)
+                                
+                                    sulle autostrade, extraurbane ed urbane, e sulle strade extraurbane principali, la circolazione ciclistica e' vietata, ai sensi dell'articolo 175 del suddetto decreto legislativo, e da indirizzare sulle relative strade di servizio;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    sulle strade extraurbane secondarie e sulle strade urbane di scorrimento le piste ciclabili - ove occorrano - devono essere realizzate in sede propria, salvo i casi nei quali i relativi percorsi protetti siano attuati sui marciapiedi;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    sulle strade urbane di quartiere e sulle strade locali extraurbane, le piste ciclabili possono essere realizzate oltre che in sede propria, anche su corsie riservate;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    sulle strade locali urbane, le piste ciclabili - ove occorrano - devono essere sempre realizzate su corsie riservate.
 
 ## Art. 7. — Larghezza delle corsie e degli spartitraffico
 

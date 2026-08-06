@@ -8,8 +8,8 @@ codice_redazionale: 094G0259
 vigente: true
 source: normattiva-opendata
 collection: DPR
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:47:59Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -43,6 +43,49 @@ Il Ministro e' coadiuvato dal capo di Gabinetto, dal capo dell'Ufficio legislati
  7. Il Ministro puo' istituire una segreteria tecnica.
 
 ## Art. 4. — Strutture del Ministero
+
+1.
+                    
+                        
+                            In relazione alle funzioni indicate nell'art. 2, nel Ministero operano i seguenti servizi dirigenziali generali con funzioni finali:
+ 
+                        
+                        
+                            a)
+                            
+                                segreteria generale della programmazione economica;
+
+                            
+                        
+                        
+                            b)
+                            
+                                servizio per la contrattazione programmata;
+
+                            
+                        
+                        
+                            c)
+                            
+                                servizio per le politiche di coesione.
+
+2.
+                    
+                        
+                            Nell'ambito del Ministero operano, altresi', i seguenti servizi dirigenziali generali con funzioni strumentali:
+ 
+                        
+                        
+                            a)
+                            
+                                servizio per gli affari generali e del personale;
+
+                            
+                        
+                        
+                            b)
+                            
+                                servizio per l'attuazione della programmazione economica.
 
 ## Art. 5. — Segreteria generale della programmazione economica
 

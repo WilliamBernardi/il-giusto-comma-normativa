@@ -9,7 +9,7 @@ vigente: true
 source: normattiva-opendata
 collection: Atti di recepimento direttive UE
 zip_date: 2026-07-30
-fetched_at: 2026-08-02T09:40:50Z
+fetched_at: 2026-07-30
 ---
 
 DECRETO LEGISLATIVO
@@ -71,7 +71,64 @@ E' fatta comunque salva l'applicazione delle disposizioni del decreto legislativ
 
 ## Art. 7. — Coordinamento delle attivita' di B.P.L.
 
+1.
+                    
+                        
+                            Il Ministero della salute, attraverso l'attivita' coordinata dei propri uffici, relativa alla B.P.L. provvede a:
+ 
+                        
+                        
+                            a)
+                            
+                                formare e tenere aggiornato l'elenco generale dei centri di saggio di cui all'articolo 2;
+
+                            
+                        
+                        
+                            b)
+                            
+                                formare, tenere aggiornato e pubblicare l'elenco dei centri che operano secondo i principi di B.P.L.;
+
+                            
+                        
+                        
+                            c)
+                            
+                                curare l'elaborazione e l'attuazione del Programma nazionale di conformita' alla B.P.L., come definito nell'allegato II, parte A;
+
+                            
+                        
+                        
+                            d)
+                            
+                                curare la predisposizione della lista nazionale degli ispettori di B.P.L. di cui all'articolo 3, comma 2;
+
+                            
+                        
+                        
+                            e)
+                            
+                                predisporre la relazione annuale di cui all'articolo 2.
+
 ## Art. 8. — Programma nazionale di conformita' alla B.P.L.
+
+1.
+                    
+                        
+                            Il Programma nazionale di conformita' alla BPL, di cui all'articolo 7, comma 1, lettera c), deve prevedere in ogni caso:
+ 
+                        
+                        
+                            a)
+                            
+                                il controllo, almeno ogni due anni, dei centri di saggio inseriti nell'elenco nazionale; tale controllo comprende un'ispezione generale, nonche' una revisione di studio terminato o in corso;
+
+                            
+                        
+                        
+                            b)
+                            
+                                speciali ispezioni o revisioni di studi anche su richiesta delle autorita' competenti di altri Stati e della Commissione europea.
 
 ## Art. 9. — Aggiornamento degli allegati
 

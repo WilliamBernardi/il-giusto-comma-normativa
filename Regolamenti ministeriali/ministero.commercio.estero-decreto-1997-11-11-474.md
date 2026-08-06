@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
 vigenza_date: 2000-04-28
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:38Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -26,6 +26,31 @@ Udito il parere del Consiglio di Stato, espresso nell'adunanza della Sezione con
 
 ## Art. 1. — Definizioni
 
+1.
+                    
+                        
+                            Ai fini del presente statuto: 
+ 
+                        
+                        
+                            a)
+                            
+                                si intende per ICE l'Istituto nazionale per il commercio estero;
+
+                            
+                        
+                        
+                            b)
+                            
+                                si intende per Ministero vigilante il Ministero del commercio con l'estero; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                si intende per legge la legge 25 marzo 1997, n. 68.
+
 ## Art. 2. — Sede legale
 
 L'ICE, ente pubblico non economico retto dalla legge, nonche' dal presente statuto, ha sede legale in Roma.
@@ -37,6 +62,22 @@ Per la realizzazione dei propri fini istituzionali l'ICE svolge le funzioni di c
 L'ICE opera in raccordo con tutti i soggetti che agiscono in forma organizzata a favore dell'internazionalizzazione del sistema paese (in particolare regioni, camere di commercio, organizzazioni imprenditoriali e dei lavoratori) ed adegua le proprie attivita' alla evoluzione del quadro operativo e normativo, bilaterale e multilaterale, tenendo anche conto delle interrelazioni tra commercio e ambiente e tra commercio e condizioni di lavoro.
 
 I servizi prestati dall'ICE al sistema produttivo si articolano in attivita' di informazione, promozione collettiva, assistenza e formazione, con particolare attenzione alle esigenze delle piccole e medie imprese, singole ed associate.
+
+4.
+                    
+                        
+                            Nello svolgere tutte le funzioni previste dall'articolo 2, comma 2, lettere da 
+                        
+                        
+                            a)
+                            
+                                a l) della legge, l'ICE cura, tra l'altro, le seguenti attivita':
+ con riferimento alla lettera a) cura lo studio sistematico di legislazione, contrattualistica, metodi extragiudiziali di composizione delle controversie commerciali; organizza inoltre corsi, seminari e convegni su aspetti tecnici, economici e giuridici connessi alla globalizzazione dei mercati;
+ con riferimento alla lettera b) promuove iniziative miranti alla tutela e valorizzazione dei marchi e brevetti nazionali in collaborazione anche con il Ministero degli affari esteri;
+ con riferimento alla lettera c) realizza da solo o in collaborazione con altri soggetti, anche attraverso l'utilizzo delle fonti di finanziamento della Unione europea e di altri organismi internazionali, programmi di intervento promozionale e di assistenza all'internazionalizzazione delle imprese. Fornisce o aiuta a reperire sul mercato servizi di assistenza e consulenza tecnica, legale, finanziaria e amministrativa. Stipula con imprese, enti, associazioni o altri organismi nazionali ed esteri convenzioni inerenti l'utilizzo di banche dati;
+ con riferimento alla lettera alle lettere d) ed e) organizza corsi, seminari e convegni nel campo della formazione manageriale professionale e tecnica di giovani laureati, diplomati e quadri di impresa, con riferimento agli aspetti tecnici, economici e giuridici connessi alla globalizzazione dei mercati; cura in particolare la formazione di operatori esteri presso realta' produttive italiane; coopera con associazioni e imprese nazionali ed estere nell'organizzare all'estero centri di addestramento professionale e di assistenza tecnica per macchinari italiani;
+ con riferimento alla lettera f) coopera, in particolare mediante la propria rete all'estero, all'organizzazione di attivita' e servizi atti ad attrarre investimenti esteri in Italia;
+ con riferimento alla lettera l) collabora con la Presidenza del Consiglio, i Ministeri competenti e le rappresentanze diplomatiche all'estero alla predisposizione dei programmi concernenti le imprese al seguito di missioni governative.
 
 I servizi di base, da definirsi da parte del consiglio di amministrazione ai sensi dell'articolo 4, comma 3, lettera f), della legge, vengono prestati di norma a titolo gratuito alle imprese e loro associazioni ed alle pubbliche amministrazioni e loro strutture associative.
 
@@ -101,6 +142,66 @@ Il consiglio di amministrazione adotta ogni altro provvedimento per l'attuazione
 
 ## Art. 7. — Direttore generale
 
+1.
+                    
+                        
+                            Il direttore generale svolge tutti i compiti previsti dalla legge. In particolare:
+ 
+                        
+                        
+                            a)
+                            
+                                sovrintende alla gestione finanziaria, tecnica ed amministrativa dell'Istituto;
+
+                            
+                        
+                        
+                            b)
+                            
+                                partecipa, con voto consultivo, alle sedute del consiglio di amministrazione e assicura l'esecuzione delle delibere consiliari;
+
+                            
+                        
+                        
+                            c)
+                            
+                                formula proposte su materie di spettanza del consiglio di amministrazione anche sulla base delle proposte elaborate dagli uffici;
+
+                            
+                        
+                        
+                            d)
+                            
+                                coordina l'attivita' degli uffici dell'Istituto e' l'impiego delle risorse in funzione degli obiettivi e dei programmi;
+
+                            
+                        
+                        
+                            e)
+                            
+                                verifica e controlla l'attivita' dei dirigenti e dei responsabili degli uffici;
+
+                            
+                        
+                        
+                            f)
+                            
+                                richiede pareri agli organi consultivi della pubblica amministrazione, fornisce risposte ai rilievi del collegio dei revisori, relaziona al comitato consultivo sull'attuazione del piano annuale;
+
+                            
+                        
+                        
+                            g)
+                            
+                                adotta tutti gli atti di gestione non specificamente attribuiti al consiglio di amministrazione o ai dirigenti dalla legge o dai regolamenti dell'ICE;
+
+                            
+                        
+                        
+                            h)
+                            
+                                risponde al consiglio di amministrazione per l'esercizio delle funzioni proprie e delegate, ad esso attribuite sulla base della legge e del presente statuto.
+
 ## Art. 8. — Collegio dei revisori
 
 Il collegio dei revisori e' composto da tre membri effettivi e due supplenti iscritti nell'albo dei revisori contabili. I membri effettivi assistono alle riunioni del consiglio di amministrazione. I membri supplenti subentrano ai membri effettivi in caso di morte, dimissioni o decadenza o li sostituiscono in caso di temporaneo impedimento.
@@ -116,6 +217,31 @@ I controlli amministrativi e contabili sulle unita' operative all'estero vengono
 Il collegio dei revisori puo' adottare un proprio regolamento interno di funzionamento.
 
 ## Art. 9. — Comitato consultivo
+
+1.
+                    
+                        
+                            Il comitato consultivo:
+ 
+                        
+                        
+                            a)
+                            
+                                esprime al Ministro del commercio con l'estero il parere di cui all'articolo 7, comma 1, della legge, sulle direttive di massima per la programmazione dell'attivita' dell'Istituto per l'anno successivo;
+
+                            
+                        
+                        
+                            c)
+                            
+                                esprime di propria iniziativa, ai sensi dell'articolo 4, comma 6, della legge, pareri e proposte non vincolanti sull'indirizzo generale delle attivita' dell'ICE, nonche' sulle questioni sottopostegli dal consiglio di amministrazione;
+
+                            
+                        
+                        
+                            d)
+                            
+                                delibera il regolamento per il suo funzionamento.
 
 Il comitato e' presieduto dal Ministro del commercio con l'estero o da un suo delegato. La delega puo' essere conferita a soggetti che facciano parte del comitato o dell'amministrazione vigilante.
 

@@ -7,8 +7,8 @@ urn: urn:nir:stato:decreto.del.presidente.della.repubblica:2023-12-27;231
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti governativi
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:11Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -55,6 +55,45 @@ Per «Ministero» si intende il Ministero del lavoro e delle politiche sociali.
 ## Art. 2. — Compiti del Ministero del lavoro e delle politiche sociali 
  in materia di minori stranieri non accompagnati
 
+1.
+                        
+                            
+                                Il Ministero, ai sensi delle norme richiamate nelle premesse al presente regolamento: 
+ 
+                            
+                            
+                                a)
+                                
+                                    provvede al censimento e al monitoraggio della presenza dei minori stranieri non accompagnati attraverso l'utilizzo del SIM e vigila sulle modalita' di soggiorno nel territorio nazionale, fatte salve le competenze del Ministero dell'interno sul controllo e sul monitoraggio delle condizioni di accoglienza nei centri per minori stranieri non accompagnati attivati dal Ministero dell'interno e dalle prefetture ai sensi dell'articolo 19 del decreto legislativo n. 142 del 2015, nonche' nei centri di cui all'articolo 1-sexies del decreto-legge 30 dicembre 1989, n. 416, convertito, con modificazioni, dalla legge 28 febbraio 1990, n. 39; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    coopera e si raccorda con le amministrazioni e gli enti territoriali interessati, in particolare con quelli competenti in materia di tutela e protezione dei minori stranieri non accompagnati, nonche' con l'autorita' giudiziaria; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    svolge compiti di impulso e collabora con le amministrazioni competenti per lo scambio di informazioni utili al fine di promuovere l'individuazione dei familiari dei minori stranieri non accompagnati, anche nei loro Paesi di origine o in Paesi terzi, attraverso la stipula di apposite convenzioni con idonei organismi nazionali e internazionali; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    esprime il parere sul percorso di integrazione sociale e civile svolto dai minori stranieri non accompagnati ai fini del rilascio del permesso di soggiorno al compimento della maggiore eta', ai sensi dell'articolo 32, comma 1-bis, del Testo unico; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    promuove misure rivolte all'integrazione dei minori stranieri non accompagnati.
+
 ## Art. 3. — Censimento e monitoraggio
 
 Fatto salvo quanto previsto dall'articolo 19, comma 5, del decreto legislativo n. 142 del 2015, i pubblici ufficiali, gli incaricati di pubblico servizio e gli enti, che svolgono in particolare attivita' sanitaria o di assistenza, i quali vengano comunque a conoscenza dell'ingresso o della presenza sul territorio dello Stato di un minore straniero non accompagnato, sono tenuti a darne immediata notizia al Ministero, con mezzi idonei a garantirne la riservatezza, secondo le modalita' di cui al Capo III del presente regolamento e al decreto direttoriale di cui all'articolo 12.
@@ -97,6 +136,24 @@ Il trattamento puo' consistere nelle operazioni di raccolta, registrazione, orga
 
 ## Art. 8. — Struttura e contenuto del SIM
 
+1.
+                        
+                            
+                                Il SIM e' strutturato in due archivi principali: 
+ 
+                            
+                            
+                                a)
+                                
+                                    «Minori», contenente i dati anagrafici del minore straniero non accompagnato, le informazioni relative all'eventuale richiesta di protezione internazionale, al possesso di documenti di riconoscimento, al primo ingresso sul territorio nazionale, al collocamento e alla presa in carico da parte dell'ente responsabile, nonche' alle eventuali procedure amministrative concernenti il minore; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    «Enti e strutture», concernente gli enti e le strutture presenti sul territorio nazionale autorizzati al funzionamento da parte degli enti competenti che svolgono attivita' di accoglienza e assistenza ai sensi della legge 8 novembre 2000, n. 328, e del decreto legislativo n. 142 del 2015. Tale archivio contiene i dati relativi all'ente gestore, alla denominazione, alla sede e alla tipologia della struttura.
+
 ## Art. 9. — Periodo di conservazione dei dati
 
 I dati sono trattati dai soggetti legittimati all'accesso al SIM ai sensi dell'articolo 11, fino al compimento del diciottesimo anno di eta' del minore straniero non accompagnato, salvo il caso di prosieguo della tutela amministrativa ai sensi dell'articolo 13, comma 2, della legge n. 47 del 2017.
@@ -109,6 +166,59 @@ Il Ministero e' il titolare del trattamento dei dati e ne garantisce la sicurezz
 
 ## Art. 11. — Soggetti legittimati all'accesso
 
+1.
+                        
+                            
+                                I soggetti che possono accedere ai dati conservati nel SIM sono: 
+ 
+                            
+                            
+                                a)
+                                
+                                    l'autorita' giudiziaria; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'autorita' di pubblica sicurezza; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    le regioni e le province autonome; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    gli enti locali; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    le prefetture - uffici Territoriali del Governo; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    il Dipartimento per le politiche della famiglia della Presidenza del Consiglio dei ministri; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    il Dipartimento per le liberta' civili e l'immigrazione del Ministero dell'interno.
+
 Il Ministero, nei limiti di quanto previsto dal codice in materia di protezione dei dati personali, di cui al decreto legislativo 30 giugno 2003, n. 196, e dal regolamento (UE) 2016/679 del Parlamento europeo e del Consiglio, del 27 aprile 2016, puo' comunicare i dati contenuti nel SIM alle altre amministrazioni pubbliche e agli organismi internazionali che svolgono attivita' relative ai minori stranieri non accompagnati, quando cio' si renda necessario per il migliore perseguimento dell'interesse del minore.
 Le condizioni e le modalita' di condivisione delle informazioni sono regolate, nel rispetto di quanto previsto dal codice di cui al decreto legislativo n. 196 del 2003 e dal regolamento (UE) 2016/679 del Parlamento europeo e del Consiglio, del 27 aprile 2016, attraverso la stipula di appositi protocolli di intesa che escludano comunque la possibilita' di duplicazione massiva dei dati o la costituzione di banche dati derivate dal SIM.
 
@@ -120,6 +230,24 @@ Gli aspetti tecnico-organizzativi, i differenti livelli di accesso ai dati conte
 ## - Capo IV I minori stranieri accolti temporaneamente nel territorio dello Stato
 
 ## Art. 13. — Compiti in materia di minori accolti
+
+1.
+                        
+                            
+                                Nell'ambito dei compiti di cui all'articolo 1, comma 1, il Ministero, ai sensi dell'articolo 33, comma 2, lettera a), del Testo unico: 
+ 
+                            
+                            
+                                a)
+                                
+                                    concede il nulla osta, previa adeguata valutazione, secondo quanto previsto dall'articolo 14, alle richieste provenienti da enti, associazioni o famiglie, per l'ingresso di minori accolti nell'ambito di programmi solidaristici di accoglienza temporanea; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    provvede alla istituzione e alla tenuta dell'elenco dei minori accolti nell'ambito dei programmi solidaristici di accoglienza temporanea.
 
 ## Art. 14. — Ingresso dei minori accolti
 

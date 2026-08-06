@@ -8,8 +8,8 @@ vigente: true
 source: normattiva-opendata
 collection: DL proroghe
 vigenza_date: 2020-05-19
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:39:27Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO-LEGGE
@@ -26,7 +26,50 @@ Sulla proposta del Presidente del Consiglio dei ministri, di concerto con il Min
 
 ## Art. 1. — Proroga di termini in materia di pubbliche amministrazioni
 
+1.
+                    
+                        
+                            All'articolo 1 del decreto-legge 29 dicembre 2011, n. 216, convertito, con modificazioni, dalla legge 24 febbraio 2012, n. 14, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 1, le parole: "31 dicembre 2015" sono sostituite dalle seguenti: "31 dicembre 2016"; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 2, le parole: "31 dicembre 2015", ovunque ricorrono, sono sostituite dalle seguenti: "31 dicembre 2016"; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                al comma 6-quater, le parole: "31 dicembre 2015" sono sostituite dalle seguenti: "31 dicembre 2016".
+
 All'articolo 1, comma 5, del decreto-legge 30 dicembre 2013, n. 150, convertito, con modificazioni, dalla legge 27 febbraio 2014, n. 15, le parole: " 31 dicembre 2015" sono sostituite dalle seguenti: "31 dicembre 2016".
+
+3.
+                    
+                        
+                            All'articolo 1 del decreto-legge 31 dicembre 2014, n. 192, convertito, con modificazioni, dalla legge 27 febbraio 2015, n. 11, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 2, dopo le parole: "verificatesi nell'anno 2013", sono inserite le seguenti: "e nell'anno 2014" e le parole: "31 dicembre 2015", ovunque ricorrono, sono sostituite dalle seguenti: "31 dicembre 2016"; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 4, le parole: "31 dicembre 2015" sono sostituite dalle seguenti: "31 dicembre 2016".
 
 All'articolo 3, commi 1 e 2, del decreto-legge 20 giugno 2012, n. 79, convertito, con modificazioni, dalla legge 7 agosto 2012, n. 131, la parola: "2014" e' sostituita dalla seguente: "2016".
 
@@ -53,6 +96,22 @@ All'articolo 2223, comma 2, del codice dell'ordinamento militare, di cui al decr
 All'articolo 4, comma 9, terzo periodo, del decreto-legge 31 agosto 2013, n. 101, convertito, con modificazioni, dalla legge 30 ottobre 2013, n. 125, le parole: "31 dicembre 2015" sono sostituite dalle seguenti: "31 dicembre 2016".
 
 All'articolo 1, comma 7, del decreto-legge 19 giugno 2015, n. 78, convertito, con modificazioni, dalla legge 6 agosto 2015, n. 125, le parole: "31 dicembre 2015" sono sostituite dalle seguenti: "31 dicembre 2016" e le parole: "per l'anno 2014" sono sostituite dalle seguenti: "per l'anno 2015".
+
+9-ter.
+                    
+                        
+                            All'articolo 1 della legge 7 aprile 2014, n. 56, sono apportate le seguenti modificazioni: 
+                        
+                        
+                            a)
+                            
+                                al comma 79, lettera b), le parole: "entro trenta giorni" sono sostituite dalle seguenti: "entro novanta giorni";
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 82, le parole: "lettera a)" sono sostituite dalle seguenti: "lettere a) e b)".
 
 All'articolo 4, comma 9, terzo periodo, del decreto-legge 31 agosto 2013, n. 101, convertito, con modificazioni, dalla legge 30 ottobre 2013, n. 125, come modificato, da ultimo, dal comma 9 del presente articolo, dopo le parole: "i contratti di lavoro a tempo determinato" sono inserite le seguenti: "nonche' i contratti di collaborazione coordinata e continuativa, anche a progetto. 
  10. All'articolo 16-quater, comma 1, quarto periodo, del decreto-legge 19 giugno 2015, n. 78, convertito, con modificazioni, dalla legge 6 agosto 2015, n. 125, le parole: "per l'anno 2014" sono sostituite dalle seguenti: "per gli anni 2014 e 2015". 
@@ -106,6 +165,25 @@ All'articolo 1 del decreto-legge 25 gennaio 2010, n. 3, convertito con modificaz
 
 I termini di cui all'articolo 3, comma 1, del regolamento di cui al decreto del Ministro dello sviluppo economico e del Ministro per i rapporti con le regioni e la coesione territoriale 12 novembre 2011, n. 226, relativi alla mancata pubblicazione del bando di gara di cui all'allegato 1 annesso allo stesso regolamento, sono prorogati rispettivamente di dodici mesi per gli ambiti del primo raggruppamento, di quattordici mesi per gli ambiti del secondo raggruppamento, di tredici mesi per gli ambiti del terzo, quarto e quinto raggruppamento, di nove mesi per gli ambiti del sesto e settimo raggruppamento e di cinque mesi per gli ambiti dell'ottavo raggruppamento, in aggiunta alle proroghe vigenti alla data di entrata in vigore della legge di conversione del presente decreto.
 
+2-ter.
+                    
+                        
+                            All'articolo 4 del decreto-legge 21 giugno 2013, n. 69, convertito, con modificazioni, dalla legge 9 agosto 2013, n. 98, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 2, il secondo periodo e' sostituito dai seguenti: "Scaduti tali termini, la Regione competente sull'ambito assegna ulteriori sei mesi per adempiere, decorsi i quali avvia la procedura di gara attraverso la nomina di un commissario ad acta, ai sensi dell'articolo 14, comma 7, del decreto legislativo 23 maggio 2000, n. 164. Decorsi due mesi dalla scadenza di tale termine senza che la Regione competente abbia proceduto alla nomina del commissario ad acta, il Ministero dello sviluppo economico, sentita la Regione, interviene per dare avvio alla gara nominando un commissario ad acta.
+L'importo eventualmente anticipato dai gestori uscenti per la copertura degli oneri di gara, di cui all'articolo 1, comma 16-quater, del decreto-legge 23 dicembre 2013, n. 145, convertito, con modificazioni, dalla legge 21 febbraio 2014, n. 9, e' trasferito dalla stazione appaltante al commissario ad acta entro un mese dalla sua nomina, al netto dell'importo relativo agli esborsi precedentemente effettuati per la preparazione dei documenti di gara."; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                i commi 4 e 5 sono abrogati.
+
 All'articolo 15, comma 2, del decreto legislativo 3 marzo 2011, n. 28, le parole: "31 dicembre 2013" sono sostituite dalle seguenti: "31 dicembre 2016".
 
 2-quinquies. All'articolo 1, comma 194, della legge 23 dicembre 2014, n. 190, sono apportate le seguenti modificazioni:
@@ -148,6 +226,24 @@ All'articolo 1, comma 3, della legge 1º ottobre 2012, n. 177, le parole: "sei m
 Dall'anno 2016, sino alla revisione del sistema di finanziamento delle Province e delle Citta' metropolitane, sono confermate le modalita' di riparto del fondo sperimentale di riequilibrio provinciale gia' adottate con decreto del Ministro dell'interno 4 maggio 2012, pubblicato nella Gazzetta Ufficiale n. 145 del 23 giugno 2012. Al fine di assicurare l'erogazione del fondo di cui al periodo precedente, per l'anno 2020 la dotazione del capitolo 1352 dello stato di previsione della spesa del Ministero dell'interno e' rideterminata in 184.809.261 euro. Alla ricognizione delle risorse da ripartire e da attribuire si provvede annualmente con decreto del Ministero dell'interno, di concerto con il Ministero dell'economia e delle finanze. Dall'anno 2016, sino alla revisione del sistema di finanziamento delle Province e delle Citta' metropolitane, i trasferimenti erariali non oggetto di fiscalizzazione, corrisposti dal Ministero dell'interno in favore delle province appartenenti alla Regione siciliana e alla regione Sardegna, sono determinati in base alle disposizioni dell'articolo 10, comma 2, del decreto-legge 6 marzo 2014, n. 16, convertito, con modificazioni, dalla legge 2 maggio 2014, n. 68.
 
 ))
+
+6-ter.
+                    
+                        
+                            All'articolo 2257 del codice dell'ordinamento militare, di cui al decreto legislativo 15 marzo 2010, n. 66, sono apportate, senza nuovi o maggiori oneri a carico della finanza pubblica, le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 1, le parole: "30 maggio 2012" sono sostituite dalle seguenti: "30 maggio 2017"; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 1-bis, le parole: "15 luglio 2012" sono sostituite dalle seguenti: "15 luglio 2017".
 
 All'articolo 1, comma 379, della legge 23 dicembre 2014, n. 190, le parole: "al 31 dicembre 2015" sono sostituite dalle seguenti: "al 31 dicembre 2016".
 
@@ -231,6 +327,24 @@ L'applicazione delle disposizioni di cui all'articolo 1, comma 866, della legge 
 
 Proroga di termini in materia di competenza del Ministero ((dell'ambiente e)) della tutela del territorio e del mare
 
+1.
+                    
+                        
+                            All'articolo 11 del decreto-legge 31 agosto 2013, n. 101, convertito, con modificazioni, dalla legge 30 ottobre 2013, n. 125, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 3-bis, le parole: "Fino al 31 dicembre 2015" sono sostituite dalle seguenti: "Fino al 31 dicembre 2016" ((ed e' aggiunto, in fine, il seguente periodo: "Fino al 31 dicembre 2016 e comunque non oltre il collaudo con esito positivo della piena operativita' del nuovo sistema di tracciabilita' individuato a mezzo di procedura ad evidenza pubblica, indetta dalla Consip Spa con bando pubblicato il 26 giugno 2015, le sanzioni di cui all'articolo 260-bis, commi 1 e 2, del decreto legislativo 3 aprile 2006, n. 152, sono ridotte del 50 per cento.")); 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 9-bis, le parole: " stabilito al 31 dicembre 2015" e le parole: "sino al 31 dicembre 2015" sono sostituite, rispettivamente, dalle seguenti: "stabilito al 31 dicembre 2016" e " sino al 31 dicembre 2016";
+
 All'articolo 273 del decreto legislativo 3 aprile 2006, n. 152, dopo il comma 3 ((sono inseriti i seguenti)): 
  "3-bis. Il termine del 1° gennaio 2016, di cui al comma 3, e' prorogato al 1° gennaio 2017 per i grandi impianti di combustione per i quali sono state regolarmente presentate istanze di deroga ai sensi dei commi 4 o 5. Sino alla definitiva pronuncia dell'Autorita' Competente in merito all'istanza, e comunque non oltre il 1° gennaio 2017, le relative autorizzazioni continuano a costituire titolo all'esercizio a condizione che il gestore rispetti anche le condizioni aggiuntive indicate nelle istanze di deroga. 
  3-ter. Il termine del 1° gennaio 2016, di cui al comma 3 e' prorogato al 1° gennaio 2017 per i grandi impianti di combustione per i quali sono state regolarmente presentate, alla data del 31 dicembre 2015, istanze di deroga ai sensi dei paragrafi 3.3 o 3.4 ((della parte I dell'allegato II alla parte quinta del presente decreto ovvero ai sensi della parte II dell'allegato II alla parte quinta del presente decreto)). Sino alla definitiva pronuncia dell'Autorita' Competente in merito all'istanza, e comunque non oltre il 1° gennaio 2017, le relative autorizzazioni continuano a costituire titolo all'esercizio, a condizione che il gestore rispetti anche le condizioni aggiuntive indicate nelle istanze di deroga e rispetti dal 1° gennaio 2016, per gli inquinanti non oggetto di richiesta di deroga, i pertinenti valori limite di emissione massimi indicati ((nella parte II dell'allegato II alla parte quinta)) del presente decreto".
@@ -275,6 +389,39 @@ La rappresentanza, il patrocinio e l'assistenza in giudizio dell'Ente strumental
 La disposizione del precedente periodo e' richiamata nello statuto dell'Ente, adottato con decreto del Ministro della salute, di concerto con il Ministro della difesa, sentito il Ministro dell'economia e delle finanze.
 
 In considerazione della soppressione dell'Ente strumentale alla Croce Rossa italiana, prevista per il 1° gennaio 2018, all'articolo 8, comma 2, decimo periodo, del decreto legislativo 28 settembre 2012, n. 178, le parole: "2016" e "2017" sono sostituite rispettivamente dalle seguenti: "2017" e "2018".
+
+7-quater.
+                    
+                        
+                            All'articolo 49-quater del decreto-legge 21 giugno 2013, n. 69, convertito, con modificazioni, dalla legge 9 agosto 2013, n. 98, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 1: 
+ 1) le parole: "l'Associazione italiana della Croce Rossa (CRI)" sono sostituite dalle seguenti: "l'Ente strumentale alla Croce Rossa italiana"; 
+ 2) le parole: "30 settembre 2013" sono sostituite dalle seguenti: "30 giugno 2016"; 
+ 3) le parole: "del direttore generale" sono sostituite dalle seguenti: "dell'amministratore"; 
+ 4) le parole: "per l'anno 2014" sono sostituite dalle seguenti: "per l'anno 2016"; 
+ 5) dopo le parole: "pagamenti dei debiti certi, liquidi ed esigibili" sono inserite le seguenti: ", anche a carico di singoli comitati territoriali, ivi comprese le obbligazioni estinte nel periodo 1° gennaio 2013-31 dicembre 2015 a valere su anticipazioni bancarie,"; 
+ 6) le parole da: "31 dicembre 2012" fino alla fine del comma sono sostituite dalle seguenti: "31 dicembre 2015, nei limiti delle disponibilita' in conto residui iscritte in bilancio per l'anno 2016 e non piu' necessarie per le finalita' originarie, relative all'autorizzazione di spesa di cui all'articolo 1, comma 10, del decreto-legge 8 aprile 2013, n. 35, convertito, con modificazioni, dalla legge 6 giugno 2013, n. 64, e comunque limitatamente alla quota non ancora erogata"; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 2, la lettera a) e' sostituita dalla seguente: 
+ "a) dell'approvazione, da parte delle amministrazioni vigilanti, ai sensi dell'articolo 7 del decreto legislativo 28 settembre 2012, n. 178, del rendiconto per l'anno 2015 e della delibera di accertamento dei debiti di cui al comma 1 del presente articolo, con l'indicazione di misure idonee e congrue di copertura annuale del rimborso dell'anticipazione di liquidita' maggiorata degli interessi, adottata dal comitato di cui all'articolo 2, comma 3, lettera a), del citato decreto legislativo n. 178 del 2012, con asseverazione del collegio dei revisori dei conti"; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                il comma 2-bis e' sostituito dal seguente: 
+ "2-bis. Le risorse derivanti dalle riduzioni del finanziamento previsto per l'Ente strumentale alla Croce Rossa italiana e per l'Associazione della Croce Rossa italiana, ai sensi dell'articolo 8, comma 2, del decreto legislativo 28 settembre 2012, n. 178, a valere sul finanziamento del Servizio sanitario nazionale, a decorrere dall'anno di applicazione delle medesime riduzioni, sono vincolate al rimborso dell'anticipazione di liquidita' di cui al comma 1 del presente articolo, nella misura di 6 milioni di euro annui per l'intero periodo di rimborso della medesima anticipazione. Il predetto importo, ove non utilizzato per la finalita' di cui al primo periodo, costituisce un'economia per il bilancio statale. Fino all'applicazione delle citate riduzioni e, comunque, in caso di insufficienza del predetto importo, il Ministero dell'economia e delle finanze e' autorizzato a trattenere le risorse necessarie, fino a concorrenza della rata da rimborsare, a valere sulle somme a qualunque titolo dovute dallo Stato all'Ente strumentale alla Croce Rossa italiana o all'Associazione della Croce Rossa italiana. Tenuto conto di quanto previsto dall'articolo 4, comma 1, lettera c), del citato decreto legislativo n. 178 del 2012, i proventi derivanti dalla dismissione del patrimonio immobiliare dell'Ente strumentale alla Croce Rossa italiana o dell'Associazione della Croce Rossa italiana sono prioritariamente destinati al rimborso dell'anticipazione di liquidita' di cui al comma 1 del presente articolo".
 
 All'articolo 8, comma 30, quarto periodo, del decreto-legge 6 dicembre 2011, n. 201, convertito, con modificazioni, dalla legge 22 dicembre 2011, n. 214, le parole: "31 dicembre 2014" sono sostituite dalle seguenti: "31 dicembre 2016".
 

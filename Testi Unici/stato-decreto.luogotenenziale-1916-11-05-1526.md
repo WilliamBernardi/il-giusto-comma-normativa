@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Testi Unici
 vigenza_date: 2009-12-16
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:40:00Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LUOGOTENENZIALE

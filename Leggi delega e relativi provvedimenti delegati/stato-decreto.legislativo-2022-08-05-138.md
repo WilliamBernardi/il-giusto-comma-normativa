@@ -7,8 +7,8 @@ urn: urn:nir:stato:decreto.legislativo:2022-08-05;138
 vigente: true
 source: normattiva-opendata
 collection: Leggi delega e relativi provvedimenti delegati
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:41:18Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -33,6 +33,17 @@ Il presente decreto legislativo detta le disposizioni necessarie all'adeguamento
 ## Art. 2. — Definizioni
 
 Ai fini del presente decreto si applicano le definizioni contenute nell'articolo 2 del regolamento.
+
+2.
+                    
+                        
+                            Ai fini del presente decreto si applica, altresi', la seguente definizione: 
+ 
+                        
+                        
+                            a)
+                            
+                                reclamo: comunicazione scritta, in formato elettronico o orale che dichiara carenze correlate a identita', qualita', durabilita', affidabilita', usabilita', sicurezza o prestazioni di un dispositivo o relative a un servizio che influisce sulle prestazioni di tali dispositivi.
 
 ## Art. 3.
 
@@ -92,6 +103,31 @@ Tutti i documenti, compresi la documentazione tecnica e i rapporti di audit, val
 
 In casi eccezionali di necessita' e urgenza, conformemente a quanto previsto dall'articolo 54, paragrafo 1, del regolamento, il Ministero della salute puo' autorizzare, su richiesta debitamente motivata, l'immissione sul mercato o la messa in servizio, nel territorio nazionale, di dispositivi specifici per i quali le procedure di cui all'articolo 48, paragrafi da 1 a 10, non sono state espletate o completate, ma il cui impiego e' nell'interesse della salute pubblica o della sicurezza o salute dei pazienti. La deroga eventualmente autorizzata ha validita' temporalmente limitata e puo' essere soggetta a condizioni o prescrizioni specifiche.
 
+4.
+                    
+                        
+                            La richiesta di autorizzazione di cui al comma 3, presentata dal fabbricante: 
+ 
+                        
+                        
+                            a)
+                            
+                                identifica chiaramente il dispositivo, contiene la descrizione del dispositivo, della destinazione d'uso e le informazioni del fabbricante; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                indica i motivi per i quali la domanda stessa e' stata presentata, indica le circostanze per cui il fabbricante non ha potuto completare o iniziare la valutazione della conformita' identificando circostanze eccezionali e imprevedibili, dichiara e documenta l'indisponibilita' sul mercato di dispositivi alternativi marcati CE; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                e' accompagnata da una dichiarazione da parte di istituzioni sanitarie che attesti che l'eventuale rilascio dell'autorizzazione e' nell'interesse della protezione della salute pubblica o della sicurezza o salute dei pazienti.
+
 Nella valutazione delle domande il Ministero della salute puo' avvalersi del supporto dell'Istituto superiore di sanita' e del Consiglio superiore di sanita'.
 
 Il Ministero della salute comunica la propria decisione in merito alla domanda di autorizzazione entro sessanta giorni dalla ricezione della stessa.
@@ -111,6 +147,59 @@ Gli operatori economici osservano le procedure indicate dall'articolo 28, paragr
 ## Art. 10. — Banca dati europea dei dispositivi 
  medici Eudamed
 
+1.
+                    
+                        
+                            Il Ministero della salute, gli organismi notificati, gli operatori economici e gli sponsor inseriscono nella Banca dati dei dispositivi medici (Eudamed) predisposta dalla Commissione ai sensi dell'articolo 30 del regolamento, i dati, secondo le disposizioni riguardanti i seguenti sistemi elettronici: 
+ 
+                        
+                        
+                            a)
+                            
+                                il sistema elettronico relativo alla registrazione dei dispositivi di cui all'articolo 26, paragrafo 3, del regolamento; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                la banca dati UDI di cui all'articolo 25 del regolamento; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                il sistema elettronico relativo alla registrazione degli operatori economici di cui all'articolo 27 del regolamento; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                il sistema elettronico per gli organismi notificati e i certificati di cui all'articolo 52 del regolamento; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                il sistema elettronico per gli studi delle prestazioni di cui all'articolo 69 del regolamento; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                il sistema elettronico per la vigilanza e la sorveglianza post-commercializzazione di cui all'articolo 87 del regolamento; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                il sistema elettronico per la sorveglianza del mercato di cui all'articolo 95 del regolamento.
+
 Il Ministero della salute garantisce l'implementazione di misure informatiche che assicurino la connessione della banca dati Eudamed alle banche dati esistenti o in via di implementazione e il rispetto da parte degli operatori economici degli obblighi previsti dall'articolo 28, paragrafo 5, del regolamento.
 
 ## Art. 11. — Banca dati nazionale
@@ -122,6 +211,24 @@ In caso di modifica dei dati comunicati o di cessazione dell'attivita', il distr
 Fermo restando quanto previsto al comma 2, entro un anno dal conferimento delle informazioni di cui al comma 1, e successivamente ogni due anni, il distributore e' tenuto a confermare l'esattezza dei dati comunicati al Ministero della salute.
 
 Fermo restando quanto previsto all'articolo 16, paragrafo 4, del regolamento, i distributori e gli importatori che svolgono le attivita' di cui all'articolo 16, paragrafo 2, lettere a) e b), del regolamento conferiscono al Ministero della salute le informazioni e la documentazione relative ai dispositivi rietichettati e riconfezionati.
+
+5.
+                    
+                        
+                            Al fine di salvaguardare il livello informativo piu' completo, per le necessita' delle strutture del Servizio sanitario nazionale (SSN), inclusa l'acquisizione di dispositivi medico-diagnostici in vitro: 
+ 
+                        
+                        
+                            a)
+                            
+                                tutti gli operatori economici gia' registrati che intendono mettere a disposizione dispositivi medico-diagnostici in vitro al Servizio sanitario nazionale, possono rendere disponibili nella banca dati nazionale i propri dati e i dati relativi ai dispositivi presenti in Eudamed, identificati in conformita' al sistema UDI; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                il fabbricante che intende mettere a disposizione o mettere in servizio per Servizio sanitario nazionale, dispositivi medico-diagnostici in vitro puo' conferire, nella banca dati nazionale, le ulteriori informazioni relative ai dispositivi, qualora non disponibili in Eudamed.
 
 Il Ministero della salute stabilisce disposizioni relative alle modalita' di conferimento e aggiornamento delle informazioni di cui ai commi 1, 2, 3, 4 e 5.
 
@@ -160,6 +267,24 @@ Con decreto del Ministro della salute sono individuati i tempi di conservazione 
 
 Per gli studi delle prestazioni sui dispositivi medico-diagnostici in vitro si osservano le pertinenti disposizioni contenute nel capo VI del regolamento. Nessuno studio delle prestazioni puo' essere avviato senza che siano state realizzate le condizioni previste per l'avvio dello studio. Gli studi delle prestazioni di cui all'articolo 58, oltre a soddisfare le prescrizioni di cui all'articolo 57 e all'allegato XIII, sono progettati, autorizzati, condotti, registrati e trascritti conformemente al predetto articolo e agli articoli da 59 a 77 e a quelle dell'allegato XIV dello stesso regolamento.
 
+2.
+                    
+                        
+                            Gli studi delle prestazioni relativi a dispositivi recanti la marcatura CE: 
+ 
+                        
+                        
+                            a)
+                            
+                                se valutati ulteriormente nell'ambito della loro destinazione d'uso, sono disciplinati dall'articolo 70, paragrafo 1, del regolamento; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                se valutati al di fuori dell'ambito della loro destinazione d'uso, sono disciplinati dall'articolo 70, paragrafo 2, del regolamento.
+
 Nel rispetto di quanto stabilito dall'articolo 66 del regolamento, con decreto del Ministro della salute possono essere stabilite le modalita' amministrative di pertinenza nazionale per la presentazione della domanda per gli studi delle prestazioni, prevedendo che nella documentazione ad essa allegata sia ricompreso il parere favorevole espresso dal comitato etico competente. Nel medesimo decreto possono essere indicate le modalita' attinenti alla convalida della domanda e alla sua relativa valutazione, al rilascio dell'autorizzazione e alla sua relativa notifica.
 
 Con decreto del Ministro della salute possono essere stabilite le modalita' amministrative di pertinenza nazionale per le comunicazioni da parte dello sponsor ai sensi degli articoli 70, paragrafo 1, 71 e 73, del regolamento.
@@ -181,6 +306,31 @@ Il riparto delle spese per la conduzione di studi delle prestazioni e' definito 
 La sorveglianza sull'applicazione del presente decreto e' demandata al Ministero della salute che puo' disporre verifiche e controlli mediante i propri uffici centrali e periferici, nonche' avvalendosi di soggetti appositamente incaricati.
 
 Il fabbricante, il mandatario e tutti gli altri operatori economici coinvolti nel procedimento di sorveglianza, sono tenuti ad improntare le proprie interlocuzioni con il Ministero della salute nel rispetto dei principi di correttezza, buona fede, lealta' e collaborazione, rispondendo alle richieste di accertamento di cui al presente articolo in modo puntuale, pertinente, tempestivo e completo.
+
+3.
+                    
+                        
+                            Gli accertamenti possono essere effettuati, anche con metodo a campione, presso gli operatori economici, i fornitori e i subfornitori o presso gli utilizzatori professionali. A tal fine e' consentito: 
+ 
+                        
+                        
+                            a)
+                            
+                                l'accesso ai locali degli operatori economici, dei fornitori e dei subfornitori e alle strutture degli utilizzatori professionali, ai sensi dell'articolo 88, paragrafo 3, lettera b), del regolamento; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                l'acquisizione della documentazione e di tutte le informazioni necessarie all'accertamento, ai sensi dell'articolo 88, paragrafo 3, lettera a), del regolamento; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                il prelievo di un campione o l'accesso ai dispositivi a titolo gratuito per l'esecuzione di esami e prove, ai sensi dell'articolo 88, paragrafo 3, lettera a), del regolamento.
 
 Per l'effettuazione degli accertamenti di cui al comma 3, lettera c), il Ministero della salute puo' avvalersi di organismi tecnici dello Stato o di laboratori accreditati per le prove richieste ai sensi dei pertinenti standard armonizzati, ove presenti.
 Qualora non presenti sul territorio italiano, il Ministero della salute puo' valutare l'opportunita' di rivolgersi a laboratori non accreditati per la specifica prova.
@@ -219,6 +369,45 @@ La marcatura CE di conformita' e' soggetta alle prescrizioni di cui all'articolo
 
 ## Art. 18. — Valutazione delle tecnologie sanitarie
 
+1.
+                    
+                        
+                            Al fine di garantire l'azione coordinata dei livelli nazionale, regionali e delle aziende accreditate del SSN, per il governo dei consumi dei dispositivi medici a tutela dell'unitarieta' del sistema, della sicurezza nell'uso della tecnologia e della salute dei cittadini e di garantire che i processi decisionali del SSN, siano informati da evidenze scientifiche sul potenziale impatto clinico, organizzativo, economico, sociale, legale ed etico dell'introduzione nella pratica clinica di tecnologie sanitarie, nonche' al fine di introdurre specifiche classificazioni e condizioni di acquisto a carico del SSN, per l'uso di dispositivi medico-diagnostici in vitro successivamente alla loro commercializzazione, il Ministero della salute, fermo restando quanto previsto dall'articolo 1, comma 587, della legge 23 dicembre 2014, n. 190, per il tramite della Cabina di regia per l'Health technology assessment (HTA), istituita ai sensi dell'articolo 1, comma 587, lettera a), della medesima legge n. 190 del 2014, promuove l'attuazione del Programma nazionale di HTA dei dispositivi medici. Alla realizzazione del Programma nazionale di HTA dei dispositivi medici concorre l'Agenzia nazionale per i servizi sanitari regionali (AGENAS) di cui all'articolo 5, comma 1, del decreto legislativo 30 giugno 1993, n. 266, che, anche mediante la stipula di convenzioni con enti pubblici o privati, svolge i seguenti compiti: 
+ 
+                        
+                        
+                            a)
+                            
+                                presentazione di proposte alla Cabina di regia, ai fini di approvazione, per l'identificazione e valutazione precoce delle tecnologie sanitarie innovative riconosciute a potenzialmente elevato impatto clinico, economico, organizzativo e comunque in grado di rispondere alle esigenze assistenziali, anche emergenziali, espresse dal SSN; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                elaborazione degli indirizzi metodologici che verranno applicati per la produzione dei rapporti di valutazione tecnica multidimensionale nel Programma nazionale di HTA dei dispositivi medici; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                in coerenza con le indicazioni della Cabina di regia, realizzazione delle attivita' di valutazione tecnica multidimensionale e coordinamento delle attivita' dei soggetti iscritti nell'Albo nazionale dei Centri Collaborativi del Programma nazionale di HTA dei dispositivi medici; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                partecipazione alla fase di elaborazione delle raccomandazioni sull'uso delle tecnologie valutate (appraisal), svolgendo compiti di coordinamento metodologico nell'ambito delle commissioni consultive che propongono alla Cabina di regia le Raccomandazioni, ai fini della loro adozione, e che sono costituite da esperti, delegati degli Enti istituzionali coinvolti e rappresentanti delle associazioni di portatori di interessi collettivi; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                in coerenza con le indicazioni della Cabina di regia, attivita' per la pubblicazione, la diffusione e la verifica degli impatti a livello nazionale degli esiti delle valutazioni di cui alla lettera c), secondo i metodi validati di cui alla lettera b), promuovendone l'utilizzo da parte delle regioni e delle Aziende sanitarie per informare le decisioni in merito all'adozione e all'introduzione delle tecnologie sanitarie e al disinvestimento.
+
 Il Ministero della salute, su proposta tecnica dell'Agenzia nazionale per i Servizi sanitari regionali (AGENAS) approvata dalla Cabina di regia, previa intesa in sede di Conferenza permanente per i rapporti tra lo Stato, le regioni e le Province autonome di Trento e di Bolzano, adotta con decreto, entro centottanta giorni dalla data di entrata in vigore del presente decreto, il Programma nazionale HTA dei dispositivi medici, da aggiornarsi con cadenza triennale.
 
 Con accordo in sede di Conferenza permanente per i rapporti tra lo Stato, le regioni e le Province autonome di Trento e di Bolzano, da adottare entro dodici mesi dalla data di entrata in vigore del presente decreto, sono stabilite le modalita' operative per rendere i procedimenti di acquisto piu' efficienti tenendo conto delle risultanze conseguenti all'esercizio delle funzioni di HTA, di cui all'articolo 1, comma 587, della legge 23 dicembre 2014, n. 190, nonche' sulla base degli obiettivi individuati dal Programma nazionale di HTA.
@@ -248,6 +437,31 @@ Al fine di garantire la sicurezza dei dispositivi sul mercato e razionalizzare l
 ## Art. 22.
 
 Pubblicita'
+
+1.
+                    
+                        
+                            E' vietata la pubblicita' verso il pubblico dei seguenti dispositivi: 
+ 
+                        
+                        
+                            a)
+                            
+                                dispositivi per il cui impiego e' prevista come obbligatoria, dalle norme vigenti, l'assistenza di un medico o di altro professionista sanitario; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                dispositivi per il cui impiego e' prevista come obbligatoria, secondo le indicazioni del fabbricante, l'assistenza di un medico o di altro professionista sanitario; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                dispositivi la cui vendita al pubblico e' subordinata, dalle norme vigenti, alla prescrizione di un medico.
 
 Nell'interesse della salute pubblica o della sicurezza e salute dei pazienti, il Ministro della salute, con apposito decreto, puo' individuare ulteriori tipologie di dispositivi per i quali non e' consentita la pubblicita' presso il pubblico.
 

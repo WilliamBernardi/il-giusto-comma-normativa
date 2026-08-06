@@ -8,8 +8,8 @@ codice_redazionale: 094G0360
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti di delegificazione
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:40:25Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -36,6 +36,31 @@ Ai sensi del presente regolamento, per "Ministro" e "Ministero" si intendono il 
 L'esercizio dell'attivita' fiduciaria e l'esercizio dell'attivita' di revisione sono autorizzati dal Ministero.
 
 La domanda di autorizzazione deve essere presentata al Ministero e deve essere corredata dei documenti richiesti dagli articoli 1 e 2 del regio decreto 22 aprile 1940, n. 531 e degli elementi informativi da determinare con decreto del Ministero entro trenta giorni dalla data di entrata in vigore del presente regolamento.
+
+3.
+                    
+                        
+                            Con dichiarazione sostitutiva, sottoscritta dall'interessato ai sensi dell'art. 2 della legge 4 gennaio 1968, n. 15, e' comprovato: 
+ 
+                        
+                        
+                            a)
+                            
+                                per gli amministratori della societa', il possesso della cittadinanza e l'iscrizione agli albi professionali, ai sensi dell'art. 4 della legge n. 23 novembre 1939, n. 1966; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                per il personale della societa', il possesso del titolo di studio idoneo all'iscrizione in uno degli albi professionali, il possesso della cittadinanza e moralita', richieste per l'iscrizione negli albi medesimi; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                per i componenti del collegio sindacale, l'iscrizione negli albi professionali ai sensi dell'art. 2, comma 1, punto 3, lettera c), del regio decreto 22 aprile 1940, n. 531.
 
 L'autorizzazione e' rilasciata di concerto con il Ministro di grazia e giustizia che si esprime entro trenta giorni dalla richiesta del Ministro dell'industria, del commercio e dell'artigianato.
 Decorso tale termine, il concerto si intende acquisito. In ogni caso, la domanda di autorizzazione si intende accolta qualora, entro centoventi giorni dalla presentazione, il Ministero non abbia emanato un provvedimento di diniego espresso, debitamente motivato.

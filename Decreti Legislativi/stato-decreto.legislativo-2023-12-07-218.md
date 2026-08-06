@@ -7,8 +7,8 @@ urn: urn:nir:stato:decreto.legislativo:2023-12-07;218
 vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:21Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -34,9 +34,105 @@ Il presente decreto stabilisce le norme necessarie ad adeguare l'ordinamento giu
 
 ## Art. 2. — Definizioni
 
+1.
+                        
+                            
+                                Ai fini del presente decreto si applicano le definizioni contenute nell'articolo 4 del regolamento nonche' quelle contenute: 
+ 
+                            
+                            
+                                a)
+                                
+                                    negli atti delegati e di esecuzione del regolamento in quanto richiamate nel presente decreto; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    nell'articolo 3 del regolamento (UE) 2019/4 del Parlamento europeo e del Consiglio dell'11 dicembre 2018, relativo alla fabbricazione, all'immissione sul mercato e all'utilizzo di mangimi medicati, paragrafo 1, lettere a), d), e paragrafo 2, lettere a), b), e), h) e j); 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    nell'articolo 4, punti 24) e 27), del regolamento (UE) n. 2016/429 del Parlamento europeo e del Consiglio del 9 marzo 2016, relativo alle malattie animali trasmissibili e che modifica e abroga taluni atti in materia di sanita' animale («normativa in materia di sanita' animale»).
+
+2.
+                        
+                            
+                                Ai fini del presente decreto, si intende per: 
+ 
+                            
+                            
+                                a)
+                                
+                                    «depositario»: chi detiene, per la successiva commercializzazione, medicinali veterinari sulla base di contratti di deposito stipulati con i titolari dell'autorizzazione all'immissione in commercio dei medicinali veterinari o con i loro rappresentanti; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    «sistema informativo di tracciabilita'»: sistema informativo di tracciabilita' dei medicinali veterinari e dei mangimi medicati e dei prodotti intermedi, composto dal Sistema della banca dati centrale della tracciabilita' del farmaco (BDC) di cui all'articolo 5-bis del decreto legislativo 30 dicembre 1992, n. 540, e dal Sistema informativo nazionale per la farmacosorveglianza.
+
 ## Art. 3.
 
 Autorita' competenti e altro personale afferente alle autorita' competenti
+
+1.
+                        
+                            
+                                Ai fini dell'applicazione del presente decreto, il Ministero della salute, le regioni, le province autonome di Trento e di Bolzano e le aziende sanitarie locali nell'ambito delle rispettive competenze, sono le autorita' competenti a: 
+ 
+                            
+                            
+                                a)
+                                
+                                    rilasciare i provvedimenti necessari all'esercizio delle attivita' relative alla fabbricazione, all'importazione, all'esportazione, all'immissione in commercio, incluso il commercio parallelo, alla fornitura, alla distribuzione, alla pubblicita', nonche' i provvedimenti relativi alla detenzione di scorte e all'impiego dei medicinali veterinari; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    adottare i provvedimenti necessari all'esercizio delle attivita' relative alla fabbricazione, all'importazione e alla distribuzione all'ingrosso delle sostanze farmacologicamente attive; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    adottare i provvedimenti di autorizzazione delle sperimentazioni cliniche ai sensi dell'articolo 4 del presente decreto; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    classificare, secondo i criteri indicati all'articolo 34, paragrafo 1, del regolamento, e all'articolo 6 del presente decreto, i medicinali veterinari autorizzati all'immissione in commercio, nonche' i medicinali veterinari omeopatici registrati; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    svolgere attivita' di farmacovigilanza; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    assicurare l'adeguamento e il coordinamento dei sistemi informatici nazionali e l'interconnessione ai sistemi informatici istituiti con il regolamento e gestiti dall'Agenzia europea per i medicinali per le finalita' previste dagli articoli 6, 55, 57, 58, 61, 67, 74, 76, 81, 88, 91, 92, 94, 95, 100, 132 e 155 del regolamento; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    effettuare, ai sensi degli articoli 123 e 126 del regolamento, controlli e ispezioni e, in caso di accertamento di violazione delle disposizioni di cui al presente decreto, provvedere all'applicazioni delle sanzioni di cui all'articolo 42.
 
 Il Ministero della salute coopera con le autorita' competenti degli altri Stati membri nonche' con la Commissione e puo' avvalersi del Comando carabinieri per la tutela della salute, garantendo il coordinamento delle attivita' di accertamento con le attivita' di controllo svolte dalle altre autorita' territorialmente competenti.
 Il personale del Comando dei carabinieri per la tutela della salute, nel caso rilevi la presenza di violazioni delle disposizioni nell'ambito delle attivita' di cui all'articolo 1 del regolamento, e del presente decreto, informa l'autorita' competente dei provvedimenti adottati.
@@ -85,6 +181,31 @@ Il titolare dell'autorizzazione all'immissione in commercio di un medicinale vet
 
 ## Art. 8. — Autorizzazione all'immissione in commercio di medicinali veterinari per animali tenuti esclusivamente come animali da compagnia
 
+1.
+                        
+                            
+                                La domanda di autorizzazione all'immissione in commercio dei medicinali veterinari per gli animali di cui all'articolo 5, paragrafo 6, del regolamento, contiene: 
+ 
+                            
+                            
+                                a)
+                                
+                                    le informazioni di cui all'allegato I del regolamento; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la documentazione tecnica di cui all'allegato III del presente decreto; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    una sintesi del fascicolo di riferimento del sistema di farmacovigilanza.
+
 Il Ministero della salute puo' attribuire la classificazione senza obbligo di prescrizione ai medicinali veterinari la cui domanda di autorizzazione all' immissione in commercio e' presentata ai sensi del comma 1.
 
 I medicinali veterinari destinati alle specie animali di cui all'articolo 5, paragrafo 6, del regolamento, devono avere confezioni di dimensioni idonee a coprire un ciclo di terapia e per un trattamento individuale o per un ristretto numero di animali.
@@ -123,6 +244,70 @@ Il sistema nazionale di farmacovigilanza e' gestito, ognuno per gli aspetti di c
 
 Compiti e funzioni delle autorita' competenti nel Sistema nazionale di farmacovigilanza
 
+1.
+                        
+                            
+                                Il Ministero della salute: 
+ 
+                            
+                            
+                                a)
+                                
+                                    adotta congiuntamente alle regioni e alle Province autonome di Trento e di Bolzano, misure volte a promuovere le segnalazioni di sospetti eventi avversi di cui all'articolo 73, paragrafo 2, del regolamento, che possono essere segnalati da chiunque ne abbia avuto una conoscenza diretta; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    rende pubbliche, sul proprio sito web, le informazioni di cui all'articolo 79, paragrafo 3, del regolamento; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    promuove e coordina, anche in collaborazione con l'Istituto superiore di sanita' e gli Istituti zooprofilattici sperimentali, studi e ricerche sull'impiego dei medicinali, sull'epidemiologia e predispone piani di prelievo dal circuito distributivo di campioni di medicinali veterinari autorizzati per l'esecuzione di controlli ordinari e straordinari.
+
+2.
+                        
+                            
+                                Le regioni e le Province autonome di Trento e di Bolzano, fatti salvi gli ulteriori compiti dalle stesse eventualmente individuati, nell'ambito delle loro competenze assicurano: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la formazione dei medici veterinari e di altri professionisti del settore sanitario; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'esame delle segnalazioni di sospetti eventi avversi pervenute attraverso il sistema nazionale di farmacovigilanza, ai sensi dell'articolo 76 del regolamento, e l'integrazione con i dati eventualmente mancanti, acquisendo le opportune informazioni dal soggetto che ha effettuato la segnalazione; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    la predisposizione e l'esecuzione di esami di laboratorio clinici e anatomo-istopatologici e, se necessarie, le valutazioni epidemiologiche per la valutazione dell'evento avverso; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    la trasmissione della segnalazione validata, entro quindici giorni dalla ricezione, attraverso il sistema nazionale di farmacovigilanza al Ministero della salute, affinche' venga registrata nella banca dati di farmacovigilanza dell'Unione entro i termini di cui articolo 76, paragrafo 1, del regolamento; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    la diffusione delle informazioni al personale sanitario nel settore della farmacovigilanza e alle autorita' territorialmente competenti, secondo le indicazioni del Ministero della salute, ove emergano rischi per la salute pubblica, per la salute degli animali o per l'ambiente.
+
 Per le attivita' di farmacovigilanza di cui al comma 2, le regioni e le Province autonome di Trento e di Bolzano possono istituire, nell'ambito degli stanziamenti di bilancio loro assegnati, centri regionali o pluriregionali di farmacovigilanza e possono avvalersi delle autorita' territorialmente competenti, degli Istituti zooprofilattici sperimentali, delle Universita' e di altri centri specializzati.
 
 ## Art. 13. — Farmacovigilanza. Segnalazione di sospetti eventi avversi
@@ -146,6 +331,24 @@ Il Ministero della salute e' l'autorita' competente alla emissione dei certifica
 ## Art. 15.
 
 Registrazione delle attivita' di importazione e di fabbricazione delle sostanze attive ad uso veterinario
+
+1.
+                        
+                            
+                                Il Ministero della salute e' l'autorita' competente a ricevere, secondo le modalita' e i termini previsti dall'articolo 95 del regolamento: 
+ 
+                            
+                            
+                                a)
+                                
+                                    le richieste dei fabbricanti di sostanze attive stabiliti sul territorio nazionale, di registrazione dell'attivita' di fabbricazione delle sostanze attive utilizzate come materiali di partenza dei medicinali veterinari; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le richieste di registrazione dell'attivita' di importazione delle sostanze di cui alla lettera a).
 
 Il Ministero della salute e' l'autorita' competente ad adottare i relativi provvedimenti di diniego, di sospensione o di revoca delle registrazioni di cui al comma 1.
 
@@ -179,7 +382,75 @@ Ai fini della tracciabilita', nel caso di medicinale veterinario autorizzato anc
 
 Le autorita' competenti alla adozione del provvedimento di autorizzazione alla distribuzione all'ingrosso dei medicinali veterinari di cui all'articolo 99 del regolamento, sono le regioni e le Province autonome di Trento e di Bolzano per i distributori all'ingrosso stabiliti nel loro territorio.
 
+2.
+                        
+                            
+                                Nella domanda per il rilascio dell'autorizzazione di cui al comma 1, oltre a quanto previsto dall'articolo 100 del regolamento, il richiedente dichiara sotto la propria responsabilita' ai sensi del decreto del Presidente della Repubblica 28 dicembre 2000, n. 445 di: 
+ 
+                            
+                            
+                                a)
+                                
+                                    non avere riportato condanne penali per truffa o per commercio di medicinali guasti adulterati o contraffatti; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    essere iscritto nel registro delle imprese presso la Camera di commercio competente per territorio; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    disporre di almeno una persona designata come responsabile del magazzino in possesso dei requisiti di cui al comma 3. La responsabilita' di piu' magazzini appartenenti allo stesso titolare puo' essere affidata a una stessa persona, purche' le attivita' da questa svolte in ciascun magazzino siano compatibili tra loro; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    avere implementato le misure di buone pratiche di distribuzione ai sensi del regolamento di esecuzione (UE) 2021/1248 della Commissione, del 29 luglio 2021, riguardante le misure in materia di buona pratica di distribuzione per i medicinali veterinari conformemente al regolamento (UE) 2019/6 del Parlamento europeo e del Consiglio.
+
+3.
+                        
+                            
+                                La persona designata di cui al comma 2, lettera c), deve essere in possesso dei seguenti requisiti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    diploma di laurea in farmacia o in chimica o in chimica e tecnologia farmaceutiche o in chimica industriale, ai sensi della legge 19 novembre 1990, n. 341 e iscrizione all'albo del relativo ordine professionale; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    non aver riportato condanne penali per truffa o per commercio di medicinali guasti, adulterati o contraffatti.
+
 La persona designata di cui al comma 2, lettera c), deve svolgere la propria attivita' a carattere continuativo nella sede indicata nell'autorizzazione con un orario compatibile con le necessita' derivanti dalle dimensioni dell'attivita' di distribuzione espletata.
+
+5.
+                        
+                            
+                                Alla domanda per il rilascio dell'autorizzazione di cui al comma 1 e' allegata la seguente documentazione: 
+ 
+                            
+                            
+                                a)
+                                
+                                    una planimetria dei locali corredata da una relazione descrittiva delle condizioni degli stessi; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la dichiarazione ai sensi del decreto del Presidente della Repubblica 28 dicembre 2000, n. 445, da parte della persona designata di cui al comma 2, lettera c), del presente decreto, di iscrizione all'albo del relativo ordine professionale e di accettazione dell'incarico con la precisazione di eventuali incarichi in altri magazzini.
 
 Quando l'esercizio dell'attivita' di distribuzione all'ingrosso e' effettuato in piu' magazzini con sedi diverse, l'autorizzazione di cui al comma 1 deve essere richiesta per ognuno di essi.
 
@@ -215,6 +486,73 @@ Le regioni o le Province autonome di Trento e di Bolzano, nell'ambito delle risp
 
 Il Ministero della salute e' l'autorita' competente al rilascio dell'autorizzazione al commercio parallelo sul territorio nazionale di medicinali veterinari autorizzati in un altro Stato membro ove sussistano le condizioni di cui all'articolo 102, paragrafo 1, del regolamento.
 
+2.
+                        
+                            
+                                Il distributore all'ingrosso che intende richiedere l'autorizzazione di cui al comma 1, presenta la domanda al Ministero della salute completa, oltre che delle informazioni e della documentazione di cui all'articolo 102, paragrafi 6 e 7, del regolamento, anche delle informazioni e della documentazione di seguito elencate: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il nome, o ragione sociale, e il domicilio, o sede legale, del titolare dell'autorizzazione all'immissione in commercio nonche' il domicilio o la sede legale del distributore all'ingrosso nello Stato membro di origine e del distributore all'ingrosso nello Stato membro di destinazione; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la denominazione del medicinale veterinario; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    le confezioni proposte; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    il testo dell'etichettatura e del foglietto illustrativo proposti; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    le specie animali di destinazione; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    l'impegno ad applicare il codice a lettura ottica di cui all'allegato II del presente decreto sulle singole confezioni di medicinali; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    la dichiarazione di impegno da parte del distributore all'ingrosso a comunicare eventuali variazioni intervenute nel medicinale veterinario autorizzato al commercio parallelo; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    l'impegno a tenere a disposizione, a favore del Ministero, un campione di ciascun lotto del medicinale veterinario oggetto di commercio parallelo per l'intera validita' del lotto stesso; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    la dichiarazione di accettazione, da parte della persona qualificata del fabbricante, ad effettuare il riconfezionamento del medicinale veterinario oggetto di commercio parallelo.
+
 Nel termine di novanta giorni dalla data di presentazione della domanda, il Ministero della salute adotta il provvedimento di autorizzazione, corredato dagli stampati approvati, ovvero adotta il provvedimento di diniego.
 
 Il titolare dell'autorizzazione al commercio parallelo comunica al Ministero della salute almeno trenta giorni prima, ogni modifica delle informazioni di cui al comma 2 al fine di consentire allo stesso Ministero le opportune valutazioni.
@@ -222,6 +560,57 @@ Il titolare dell'autorizzazione al commercio parallelo comunica al Ministero del
 ## Art. 23. — Vendita al dettaglio e vendita diretta
 
 La vendita al dettaglio dei medicinali veterinari e' effettuata dal farmacista in farmacia e negli esercizi commerciali di cui all'articolo 5, comma 1, del decreto-legge 4 luglio 2006, n. 223, convertito, con modificazioni, dalla legge 4 agosto 2006, n. 248, dietro presentazione di prescrizione veterinaria, se prevista come obbligatoria. E' esclusa la vendita dei medicinali richiamati dall'articolo 45 del decreto del Presidente della Repubblica 9 ottobre 1990, n. 309, da parte degli esercizi commerciali di cui all'articolo 5, comma 1, del citato decreto-legge n. 223 del 2006, convertito, con modificazioni, dalla legge n. 248 del 2006.
+
+2.
+                        
+                            
+                                La vendita diretta dei medicinali veterinari avviene sotto la responsabilita' di persona iscritta all'albo dell'Ordine dei farmacisti e previo rilascio dell'autorizzazione di cui al comma 3.
+Ai fini del presente decreto, per «vendita diretta» si intende: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la vendita di medicinali veterinari effettuata dai titolari di autorizzazione alla distribuzione all'ingrosso agli operatori di stabilimenti in cui si allevano e si detengono professionalmente animali, ai direttori sanitari delle strutture di cura degli animali e ai medici veterinari nell'esercizio dell'attivita' zooiatrica; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la vendita di medicinali veterinari senza obbligo di prescrizione effettuata dai titolari di autorizzazione alla distribuzione all'ingrosso; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    la vendita dei medicinali veterinari autorizzati ai fini della fabbricazione dei mangimi medicati da parte dei fabbricanti, dei titolari di autorizzazione all'immissione in commercio e dei titolari di autorizzazione alla distribuzione all'ingrosso, ai titolari di stabilimenti autorizzati alla produzione di mangimi medicati per autoconsumo ai sensi dell'articolo 13 del regolamento (UE) 2019/4 del Parlamento europeo e del Consiglio, dell'11 dicembre 2018, relativo alla fabbricazione, all'immissione sul mercato e all'utilizzo di mangimi medicati, che modifica il regolamento (CE) n. 183/2005 del Parlamento europeo e del Consiglio e che abroga la direttiva 90/167/CEE del Consiglio.
+
+3.
+                        
+                            
+                                L'autorizzazione all'esercizio dell'attivita' di vendita diretta di medicinali veterinari e' rilasciata dalle regioni e dalle Province autonome di Trento e di Bolzano, non oltre novanta giorni dalla data di ricezione dell'istanza da parte dell'ufficio competente a condizione che il richiedente soddisfi i seguenti requisiti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    sia in possesso dell'autorizzazione alla distribuzione all'ingrosso di medicinali veterinari, rilasciata ai sensi dell'articolo 99 del regolamento e dell'articolo 17 del presente decreto; tale requisito non e' richiesto ai fabbricanti di medicinali veterinari autorizzati ai fini della fabbricazione dei mangimi medicati qualora, in relazione a tali prodotti, siano titolari dell'autorizzazione in commercio; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    non abbia riportato condanne penali per truffa o per commercio di medicinali guasti, adulterati o contraffatti; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    disponga di una persona responsabile della vendita diretta iscritta all'albo dell'Ordine dei farmacisti che non abbia riportato condanne penali anche non definitive, per truffa o per commercio di medicinali guasti, adulterati o contraffatti.
 
 L'incarico di farmacista responsabile della vendita diretta e' incompatibile con la figura di direttore o titolare di farmacia.
 
@@ -231,6 +620,24 @@ Nel caso in cui l'esercizio dell'attivita' di vendita diretta di medicinali vete
 
 L'autorizzazione di cui al comma 3 riporta almeno le generalita' del titolare e la sede fisica in cui avviene la vendita diretta.
 
+8.
+                        
+                            
+                                L'autorita' competente conserva le seguenti informazioni relative all'autorizzazione: 
+ 
+                            
+                            
+                                a)
+                                
+                                    le generalita' della persona responsabile della vendita di cui al comma 3, lettera c); 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    i giorni e gli orari di vendita.
+
 Ogni modifica delle informazioni riportate nell'autorizzazione e' comunicata all'autorita' competente che ha rilasciato l'autorizzazione.
 
 Le regioni e le Province autonome di Trento e di Bolzano stabiliscono le procedure per il rilascio dell'autorizzazione di cui al presente articolo.
@@ -238,6 +645,31 @@ Le regioni e le Province autonome di Trento e di Bolzano stabiliscono le procedu
 ## Art. 24. — Prescrizioni a carico del titolare dell'autorizzazione alla vendita al dettaglio o diretta
 
 I rivenditori al dettaglio di medicinali veterinari si riforniscono di medicinali veterinari soltanto dai titolari di un'autorizzazione alla distribuzione all'ingrosso, dai fabbricanti e dai titolari delle autorizzazioni all'immissione in commercio.
+
+2.
+                        
+                            
+                                Fermo restando il rispetto della normativa nazionale in materia di vendita al dettaglio e gli obblighi di cui all'articolo 103, paragrafi 3 e 5, del regolamento, il titolare dell'autorizzazione alla vendita al dettaglio e alla vendita diretta di medicinali veterinari osserva le seguenti disposizioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    rendere i locali e le attrezzature accessibili in ogni momento al personale incaricato dell'ispezione; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    avvalersi sia in fase di approvvigionamento, per quanto di competenza, che in fase di distribuzione, di sistemi o di apparecchiature idonee a garantire, secondo i requisiti tecnici previsti dalla Farmacopea ufficiale, la corretta conservazione dei medicinali veterinari, anche durante il trasporto, ove previsto; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    comunicare preventivamente all'autorita' competente che ha rilasciato l'autorizzazione alla vendita diretta qualsiasi modifica dei requisiti e delle condizioni richieste ai fini del rilascio dell'autorizzazione.
 
 ## Art. 25. — Casi particolari di dispensazione dei medicinali veterinari
 
@@ -280,6 +712,24 @@ I provvedimenti amministrativi di blocco all'accesso dei siti illegali di vendit
 
 La prescrizione veterinaria, che reca gli elementi di cui all'articolo 105, paragrafo 5, del regolamento, e' redatta in formato elettronico, tramite il sistema informativo di tracciabilita' di cui all'articolo 2, comma 2, lettera b), del presente decreto. Sono fatte salve le disposizioni piu' restrittive di cui al decreto del Presidente della Repubblica del 9 ottobre 1990, n. 309.
 
+2.
+                        
+                            
+                                La validita' della prescrizione veterinaria decorre dalla data del rilascio ed e' stabilita in: 
+ 
+                            
+                            
+                                a)
+                                
+                                    sei mesi per la prescrizione veterinaria ripetibile che puo' essere utilizzata per un massimo di dieci volte entro tale periodo; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    trenta giorni per la prescrizione veterinaria non ripetibile, per la prescrizione veterinaria per l'acquisto di scorta di medicinali e per la prescrizione veterinaria di medicinali il cui impiego non e' previsto dai termini dell'autorizzazione all'immissione in commercio.
+
 Restano ferme le norme sulle prescrizioni di medicinali contenenti sostanze stupefacenti e psicotrope di cui al decreto del Presidente della Repubblica n. 309 del 1990, nonche' la validita' della prescrizione veterinaria per i medicinali antimicrobici di cinque giorni dalla data del suo rilascio, prevista dall'articolo 105, paragrafo 10, del regolamento.
 
 ## Art. 29. — Impiego di medicinali antimicrobici
@@ -287,6 +737,45 @@ Restano ferme le norme sulle prescrizioni di medicinali contenenti sostanze stup
 Il Ministero della salute, in conformita' all'articolo 107, paragrafo 4, del regolamento, fornisce orientamenti sui rischi associati alla metafilassi e sui criteri relativi alla sua applicazione, su alternative adeguate all'impiego per metafilassi di medicinali antimicrobici nonche' sui casi eccezionali di un loro utilizzo per profilassi. I predetti orientamenti sono oggetto di revisione costante alla luce dei nuovi dati scientifici.
 
 L'impiego di medicinali antimicrobici per profilassi e metafilassi avviene in osservanza alle disposizioni del regolamento, agli orientamenti forniti dall'autorita' competente e alle politiche nazionali sull'impiego prudente degli antimicrobici e deve essere debitamente giustificato e documentato.
+
+3.
+                        
+                            
+                                Fermo restando quanto previsto dall'articolo 107 del regolamento, gli operatori e i medici veterinari, nell'ambito delle loro rispettive responsabilita', tengono conto delle seguenti misure: 
+ 
+                            
+                            
+                                a)
+                                
+                                    l'associazione di piu' di un medicinale veterinario contenente sostanze attive antimicrobiche e' consentita soltanto in casi opportunamente giustificati e documentati e per la somministrazione a un singolo animale. Il trattamento di un gruppo ristretto di animali con piu' di un medicinale veterinario contenente sostanze attive antimicrobiche deve essere opportunamente giustificato sulla base di una diagnosi clinica e di laboratorio, che includa la coltura batterica e il test di sensibilita'; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    gli antibiotici, per cui specifiche raccomandazioni scientifiche dell'Agenzia europea per i medicinali raccomandano una limitazione, sono impiegati, per quanto possibile, sulla base di esami batteriologici e test di sensibilita', per accertarsi che non esistano altri antibiotici sufficientemente efficaci o appropriati per trattare la malattia diagnosticata; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    gli antibiotici, per cui specifiche raccomandazioni scientifiche dell'Agenzia europea per i medicinali raccomandano una limitazione sono impiegati per metafilassi solo in casi eccezionali, sulla base di esami batteriologici e test di sensibilita', per accertarsi che non esistano altri antibiotici sufficientemente efficaci o appropriati per trattare la malattia diagnosticata, salvo casi particolari, adeguatamente motivati e documentati dal medico veterinario; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    gli antibiotici, per cui specifiche raccomandazioni scientifiche dell'Agenzia europea per i medicinali raccomandano una limitazione, non sono impiegati per la profilassi; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    i mangimi medicati contenenti medicinali veterinari antimicrobici non sono utilizzati per la profilassi ai sensi dell'articolo 17, paragrafo 3, del regolamento (UE) 2019/4 del Parlamento europeo e del Consiglio, dell'11 dicembre 2018.
 
 Le regioni e le Province autonome di Trento e di Bolzano, nell'ambito delle proprie competenze, collaborano con il Ministero della salute ai fini del contrasto alla resistenza agli antimicrobici promuovendo corsi di formazione e attivita' divulgative per operatori e medici veterinari, dandone annualmente comunicazione al Ministero della salute.
 
@@ -332,6 +821,24 @@ Tale delega deve essere immediatamente notificata all'autorita' territorialmente
 Il medico veterinario responsabile delle scorte negli stabilimenti in cui si allevano e si detengono animali destinati alla produzione di alimenti nonche' i suoi delegati non possono svolgere incarichi di dipendenza o collaborazione con i titolari delle autorizzazioni in commercio, con i fabbricanti, distributori all'ingrosso e con gli operatori del settore dei mangimi o essere dipendenti del Servizio sanitario nazionale.
 
 L'autorita' territorialmente competente registra nel sistema informativo della tracciabilita' le informazioni di cui ai commi 1, 2 e 3, ed effettua, entro i dodici mesi successivi alla data di registrazione, un'ispezione ai sensi dell'articolo 123 del regolamento, per verificare il rispetto dei requisiti di cui al presente articolo e all'articolo 31, comma 1, del presente decreto.
+
+7.
+                        
+                            
+                                Tra gli ulteriori criteri che l'autorita' territorialmente competente applica per valutare la necessita' di detenere adeguate scorte da parte dei soggetti di cui al comma 1, vi sono: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la realta' professionale, quale ad esempio la tipologia e la dimensione dello stabilimento; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la situazione geografica.
 
 L'operatore di cui al comma 1 garantisce la veridicita' delle informazioni trasmesse e le mantiene aggiornate.
 
@@ -429,7 +936,43 @@ E' vietata la distribuzione al pubblico di medicinali veterinari a scopo pubblic
 
 E' vietato menzionare la denominazione di un medicinale veterinario in un contesto che possa favorire il consumo del prodotto in pubblicazioni a stampa, trasmissioni radio-televisive e in messaggi non a carattere pubblicitario comunque diffusi al pubblico.
 
+5.
+                        
+                            
+                                Qualora la pubblicita' di cui al comma 2 del presente articolo sia effettuata in violazione alle disposizioni del regolamento e del presente decreto, il Ministero della salute: 
+ 
+                            
+                            
+                                a)
+                                
+                                    ordina l'immediata cessazione della pubblicita'; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    ordina la diffusione, a spese del trasgressore, di un comunicato di rettifica e di precisazione, secondo modalita' stabilite dallo stesso Ministero, ove non ritenga di provvedere ai sensi dell'articolo 7 della legge 5 febbraio 1992, n. 175.
+
 Fermo restando quanto disciplinato nel presente decreto, il Ministro della salute provvede a disciplinare, previa intesa con la Conferenza permanente per i rapporti tra lo Stato, le regioni e le Province autonome di Trento e di Bolzano, sentite le associazioni di categoria, l'ambito di applicazione e le modalita' di realizzazione della pubblicita' dei medicinali veterinari soggetti a prescrizione veterinaria, di cui all'articolo 120 del regolamento.
+
+7.
+                        
+                            
+                                Fatte salve le competenze in materia delle regioni e delle Province autonome di Trento e di Bolzano, qualora la pubblicita' cui all'articolo 120 del regolamento sia effettuata in violazione delle disposizioni del regolamento e del presente decreto nonche' dei criteri previsti dal Ministero della salute, quest'ultimo: 
+ 
+                            
+                            
+                                a)
+                                
+                                    ordina l'immediata cessazione o sospensione dell'informazione promozionale; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    ordina la diffusione, a spese del trasgressore, di una comunicazione di rettifica e di precisazione, redatta secondo le modalita' stabilite dal Ministero della salute che potra' essere inserita sul sito internet istituzionale dello stesso Ministero o anche su quotidiani a tiratura nazionale e riviste scientifiche di settore.
 
 ## Art. 39.
 
@@ -450,6 +993,45 @@ E' vietata la pubblicita' dei medicinali veterinari immunologici attraverso le v
 ## Art. 40. — Campioni gratuiti
 
 Fermo restando quanto previsto dall'articolo 119, paragrafi 8, 9 e 10, del regolamento, i campioni gratuiti di medicinali veterinari possono essere consegnati dal titolare dell'autorizzazione all'immissione in commercio, previa compilazione di opportuna documentazione di scarico che attesti l'avvenuta consegna, esclusivamente a un medico veterinario iscritto all'albo professionale. L'impiego dei campioni gratuiti negli animali destinati alla produzione di alimenti e' soggetto alle disposizioni di cui all'articolo 108 del regolamento.
+
+2.
+                        
+                            
+                                Ogni campione deve avere le seguenti caratteristiche: 
+ 
+                            
+                            
+                                a)
+                                
+                                    graficamente identico alla confezione piu' piccola messa in commercio; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il contenuto puo' essere inferiore, in numero di unita' posologiche o in volume, a quello della piu' piccola confezione autorizzata all'immissione in commercio; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    la non corrispondenza del contenuto e, eventualmente, del confezionamento primario della confezione autorizzata e' espressamente richiamato in etichetta; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    il campione e' consegnato unitamente al riassunto delle caratteristiche del prodotto; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    l'etichettatura reca la dicitura: «Campione gratuito - vietata la vendita».
 
 Non puo' essere fornito alcun campione dei medicinali stupefacenti disciplinati dal decreto del Presidente della Repubblica 9 ottobre 1990, n. 309.
 

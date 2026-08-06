@@ -8,8 +8,8 @@ vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
 vigenza_date: 2023-11-14
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:28Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO 23 febbraio 2018 20 Disposizioni di armonizzazione e razionalizzazione della normativa sui controlli in materia di produzione agricola e agroalimentare biologica, predisposto ai sensi dell'articolo 5, comma 2, lett. g), della legge 28 luglio 2016, n. 154, e ai sensi dell'articolo 2 della legge 12 agosto 2016, n. 170. (18G00045)

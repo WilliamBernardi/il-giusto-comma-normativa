@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
 vigenza_date: 2010-10-09
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:21Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -31,9 +31,167 @@ Il presente decreto legislativo istituisce la licenza comunitaria di controllore
 
 ## Art. 2. — Campo di applicazione
 
+1.
+                    
+                        
+                            Fatto salvo quanto specificamente indicato in eventuali accordi internazionali per la delega di servizi di navigazione aerea, il presente decreto legislativo, limitatamente alla fornitura dei servizi di navigazione aerea per il traffico aereo generale, si applica:
+ 
+                        
+                        
+                            a)
+                            
+                                agli studenti controllori del traffico aereo;
+
+                            
+                        
+                        
+                            b)
+                            
+                                ai controllori del traffico aereo;
+
+                            
+                        
+                        
+                            c)
+                            
+                                alle organizzazioni di formazione che forniscono o intendono fornire servizi di formazione ai controllori di cui alla lettera b);
+
+                            
+                        
+                        
+                            d)
+                            
+                                ai fornitori di servizi di controllo del traffico aereo.
+
 ## Art. 3. — Definizioni
 
+1.
+                    
+                        
+                            Fatte salve le definizioni contenute nel regolamento (CE) n. 549/2004 del Parlamento e del Consiglio del 10 marzo 2004, che stabilisce i principi generali per l'istituzione del cielo unico europeo, ai fini del presente decreto, si intende per:
+ 
+                        
+                        
+                            a)
+                            
+                                «licenza comunitaria di controllore del traffico aereo», di seguito definita «licenza»: il certificato rilasciato e annotato nei modi prescritti dal presente decreto legislativo, che autorizza il suo legittimo titolare a fornire servizi di controllo del traffico aereo in conformita' delle abilitazioni e delle specializzazioni in esso indicate;
+
+                            
+                        
+                        
+                            b)
+                            
+                                «licenza comunitaria di studente controllore del traffico aereo», di seguito definita: «licenza di studente»: la licenza rilasciata all'allievo controllore che ha completato con esito favorevole la formazione iniziale per il conseguimento della prima abilitazione del controllo del traffico aereo, che lo autorizza ad iniziare, in conformita' alle abilitazioni e alle specializzazioni in essa indicate, l'addestramento in posizione operativa sotto la supervisione di un istruttore operativo;
+
+                            
+                        
+                        
+                            c)
+                            
+                                «abilitazione»: l'autorizzazione riportata sulla licenza o a questa collegata, che ne forma comunque parte integrante e ne specifica le condizioni, i compiti o le limitazioni particolari relative alla licenza stessa; la licenza riporta almeno una delle seguenti abilitazioni:
+ 1) controllo di aeroporto a vista;
+ 2) controllo di aeroporto strumentale;
+ 3) controllo di avvicinamento procedurale;
+ 4) controllo di avvicinamento con sorveglianza;
+ 5) controllo di area procedurale;
+ 6) controllo di area con sorveglianza;
+
+                            
+                        
+                        
+                            d)
+                            
+                                «specializzazione dell'abilitazione»: l'autorizzazione riportata nella licenza, di cui e' parte integrante, che indica le condizioni, i compiti o le limitazioni particolari relative alla pertinente abilitazione;
+
+                            
+                        
+                        
+                            e)
+                            
+                                «specializzazione di unita' operativa»: l'autorizzazione riportata nella licenza e' parte integrante della stessa, che indica la localita', secondo il codice ICAO, nonche' i settori e le posizioni operative nelle quali il titolare della licenza e' abilitato a svolgere le proprie mansioni;
+
+                            
+                        
+                        
+                            f)
+                            
+                                «specializzazione linguistica»: l'autorizzazione riportata nella licenza e' parte integrante della stessa, che indica le competenze linguistiche del titolare;
+
+                            
+                        
+                        
+                            g)
+                            
+                                «specializzazione di istruttore operativo»: l'autorizzazione riportata nella licenza, della quale e' parte integrante, che indica la competenza del titolare ad impartire un addestramento in posizione operativa;
+
+                            
+                        
+                        
+                            h)
+                            
+                                «specializzazione della licenza»: l'autorizzazione, riportata nella licenza, a svolgere le funzioni di istruttore operativo, valutatore di competenza o esaminatore;
+
+                            
+                        
+                        
+                            i)
+                            
+                                «organizzazione di formazione»: l'organizzazione certificata dall'Autorita' nazionale di vigilanza come idonea a fornire uno o piu' tipi di formazione o addestramento quali definiti nel presente articolo;
+
+                            
+                        
+                        
+                            l)
+                            
+                                «studente controllore»: il titolare di una licenza di studente controllore del traffico aereo;
+
+                            
+                        
+                        
+                            m)
+                            
+                                «controllore del traffico aereo in addestramento»: il titolare di una licenza di controllore del traffico aereo che segue un corso di formazione o di addestramento per il conseguimento di ulteriori abilitazioni o specializzazioni;
+
+                            
+                        
+                        
+                            n)
+                            
+                                «allievo controllore»: colui che frequenta un corso di formazione iniziale finalizzato al conseguimento della licenza di studente controllore del traffico aereo;
+
+                            
+                        
+                        
+                            o)
+                            
+                                «specializzazione di valutatore»: l'autorizzazione riportata nella licenza, della quale e' parte integrante, che indica la capacita' del titolare a valutare la competenza operativa del controllore del traffico aereo;
+
+                            
+                        
+                        
+                            p)
+                            
+                                «specializzazione di esaminatore» l'autorizzazione riportata nella licenza, della quale e' parte integrante, che indica la competenza del titolare a condurre gli esami per il rilascio della licenza di studente controllore del traffico aereo, della licenza di controllore del traffico aereo, delle specializzazioni della licenza, delle abilitazioni, delle specializzazioni delle abilitazioni e di unita' operativa.
+
 ## Art. 4. — Fornitura del servizio di controllo del traffico aereo
+
+1.
+                    
+                        
+                            Fatto salvo quanto stabilito per i fornitori di servizi al traffico aereo di cui all'articolo 7 del regolamento (CE) n. 550/2004, i servizi di controllo del traffico aereo possono essere prestati, per le abilitazioni e le specializzazioni in corso di validita' riportate nella licenza, esclusivamente da controllori del traffico aereo muniti di licenza conforme alle disposizioni del presente decreto legislativo, e, sotto la supervisione di un istruttore operativo, da:
+ 
+                        
+                        
+                            a)
+                            
+                                studenti controllori del traffico aereo;
+
+                            
+                        
+                        
+                            b)
+                            
+                                controllori del traffico aereo in addestramento operativo, durante la fase di addestramento all'interno dell'ente per il conseguimento di ulteriori abilitazioni o specializzazioni di unita'.
 
 ## Art. 5. — Principi che disciplinano il rilascio delle licenze
 
@@ -52,6 +210,31 @@ Quando e' in corso di accertamento la responsabilita' del controllore del traffi
 ((
 
 La licenza, le abilitazioni e le specializzazioni, sono sospese dall'ENAC, per un periodo non superiore a sei mesi quando sia accertata la negligenza professionale del controllore del traffico aereo.
+
+5.
+                    
+                        
+                            La licenza e' revocata in caso di:
+ 
+                        
+                        
+                            a)
+                            
+                                accertamento di grave negligenza o imprudenza o imperizia professionale che abbia determinato il verificarsi di un incidente;
+
+                            
+                        
+                        
+                            b)
+                            
+                                violazione dolosa di leggi o regolamenti relativi al controllo del traffico aereo;
+
+                            
+                        
+                        
+                            c)
+                            
+                                condotte che hanno determinato l'applicazione della sanzione della sospensione, non inferiore a sei mesi, per due volte nell'arco di due anni.
 
 ))
 
@@ -85,6 +268,84 @@ La licenza rilasciata in lingua italiana, contiene gli elementi indicati nell'ap
 
 ## Art. 7. — Requisiti per il rilascio della licenza
 
+1.
+                    
+                        
+                            Per il conseguimento delle licenze di studente controllore del traffico aereo e' richiesto il possesso dei seguenti requisiti:
+ 
+                        
+                        
+                            a)
+                            
+                                eta' non inferiore ai diciotto anni;
+
+                            
+                        
+                        
+                            b)
+                            
+                                diploma di istruzione secondaria di secondo grado o un titolo di studio equivalente;
+
+                            
+                        
+                        
+                            c)
+                            
+                                frequenza e superamento dei corsi di formazione approvati dall'ENAC con proprio regolamento;
+
+                            
+                        
+                        
+                            d)
+                            
+                                certificazione medica di idoneita' psico-fisica in corso di validita', rilasciata secondo le disposizioni di cui all'articolo 11;
+
+                            
+                        
+                        
+                            e)
+                            
+                                competenza linguistica adeguata alle mansioni da svolgere.
+
+2.
+                    
+                        
+                            Per il conseguimento delle licenze di controllore del traffico aereo e' richiesto il possesso dei seguenti requisiti:
+ 
+                        
+                        
+                            a)
+                            
+                                eta' non inferiore ai ventuno anni;
+
+                            
+                        
+                        
+                            b)
+                            
+                                licenza di studente controllore;
+
+                            
+                        
+                        
+                            c)
+                            
+                                frequenza e superamento dei corsi di formazione stabiliti dall'ENAC con proprio regolamento;
+
+                            
+                        
+                        
+                            d)
+                            
+                                certificazione medica di idoneita' psico-fisica in corso di validita', rilasciata secondo le disposizioni di cui all'articolo 11;
+
+                            
+                        
+                        
+                            e)
+                            
+                                competenza linguistica prevista per i controllori del traffico aereo.
+
 ((
 
 La licenza di controllore del traffico aereo e' rilasciata al momento del conseguimento della prima specializzazione di unita', secondo le modalita' stabilite dall'ENAC con proprio regolamento.
@@ -92,6 +353,56 @@ La licenza di controllore del traffico aereo e' rilasciata al momento del conseg
 ))
 
 ## Art. 8. — Contenuto delle licenze
+
+1.
+                    
+                        
+                            Le licenze contengono, oltre a quanto previsto all'appendice 1:
+ 
+                        
+                        
+                            a)
+                            
+                                una o piu' abilitazioni afferenti al tipo di servizi che il titolare puo' fornire;
+
+                            
+                        
+                        
+                            b)
+                            
+                                le relative specializzazioni dell'abilitazione;
+
+                            
+                        
+                        
+                            c)
+                            
+                                le specializzazioni di unita' operativa, solo per le licenze di controllore del traffico aereo;
+
+                            
+                        
+                        
+                            d)
+                            
+                                le specializzazioni linguistiche.
+
+2.
+                    
+                        
+                            Le licenze possono contenere:
+ 
+                        
+                        
+                            a)
+                            
+                                le specializzazioni della licenza;
+
+                            
+                        
+                        
+                            b)
+                            
+                                eventuali specializzazioni nazionali.
 
 Le abilitazioni, le specializzazioni delle abilitazioni e di licenza, sono definite dall'ENAC nel proprio regolamento.
 

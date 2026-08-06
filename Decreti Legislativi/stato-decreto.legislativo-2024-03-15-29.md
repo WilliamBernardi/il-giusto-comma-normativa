@@ -8,8 +8,8 @@ vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
 vigenza_date: 2026-04-21
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:33Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -33,6 +33,38 @@ Il presente decreto reca disposizioni volte a promuovere la dignita' e l'autonom
 
 ## Art. 2. — Definizioni e disposizioni di coordinamento
 
+1.
+                        
+                            
+                                Ai fini del presente decreto sono adottate le definizioni di cui all'articolo 1 della legge 23 marzo 2023, n. 33, nonche' le seguenti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    «persona anziana»: la persona che ha compiuto 65 anni; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    «persona grande anziana»: la persona che ha compiuto 80 anni; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    «persona anziana non autosufficiente»: la persona anziana che, anche in considerazione dell'eta' anagrafica e delle disabilita' pregresse, presenta gravi limitazioni o perdita dell'autonomia nelle attivita' fondamentali della vita quotidiana e del funzionamento bio-psico-sociale, valutate sulla base di metodologie standardizzate, tenendo anche conto delle indicazioni fornite dalla Classificazione internazionale del funzionamento, della disabilita' e della salute - International Classification of Functioning Disability and Health (ICF) dell'Organizzazione mondiale della sanita', dei livelli di stratificazione del rischio sulla base dei bisogni socioassistenziali e delle condizioni di fragilita', di multimorbilita' e di vulnerabilita' sociale, le quali concorrono alla complessita' dei bisogni della persona, anche considerando le specifiche condizioni sociali, familiari e ambientali, in coerenza con quanto previsto dal regolamento recante la definizione di modelli e standard per lo sviluppo dell'assistenza territoriale nel Servizio sanitario nazionale (SSN), di cui al decreto del Ministro della salute 23 maggio 2022, n. 77, e dall'articolo 1, comma 163, della legge 30 dicembre 2021, n. 234; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    «specifico bisogno assistenziale dell'anziano non autosufficiente»: lo specifico bisogno assistenziale valutato e graduato, all'esito della valutazione multidimensionale unificata di cui all'articolo 27.
+
 Resta ferma la disciplina relativa alla realizzazione di prestazioni, interventi e servizi assistenziali nell'ambito dell'offerta integrata dei servizi sociosanitari in favore di persone non autosufficienti gia' prevista a legislazione vigente alla data di entrata in vigore del presente decreto.
 
 ## Art. 3. — Ruolo del Comitato interministeriale per le politiche in favore della popolazione anziana
@@ -51,6 +83,31 @@ Misure per la prevenzione della fragilita' e la promozione della salute delle pe
 
 Allo scopo di promuovere la salute e la cultura della prevenzione lungo tutto il corso della vita, nonche' l'autonomia e l'inclusione sociale delle persone anziane mediante la valorizzazione del loro contributo anche in attivita' socioeducative e ricreative a favore dei giovani, il Ministero della salute realizza periodiche campagne istituzionali di comunicazione e sensibilizzazione in materia di invecchiamento attivo, su temi di interesse pubblico e sociale, coerentemente con il Piano nazionale della prevenzione (PNP) 2020-2025, adottato con l'intesa sancita in sede di Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome di Trento e di Bolzano nella seduta del 6 agosto 2020, e il Piano nazionale di prevenzione vaccinale (PNPV) 20232025, approvato con l'intesa sancita in sede di Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome di Trento e di Bolzano nella seduta del 2 agosto 2023, nonche' con il Piano nazionale per l'invecchiamento attivo, l'inclusione sociale e la prevenzione delle fragilita' nella popolazione anziana e il Piano nazionale per l'assistenza e la cura della fragilita' e della non autosufficienza nella popolazione anziana, di cui all'articolo 2, comma 3, lettera a), della legge 23 marzo 2023, n. 33.
 
+2.
+                        
+                            
+                                Le iniziative di comunicazione e di sensibilizzazione sono volte a favorire l'invecchiamento attivo attraverso la promozione di comportamenti consapevoli e virtuosi, tra i quali: 
+ 
+                            
+                            
+                                a)
+                                
+                                    l'osservanza di uno stile di vita sano e attivo in ogni fase della vita; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'adesione costante agli interventi di prevenzione offerti dal Servizio sanitario nazionale, con particolare riferimento agli screening oncologici e all'offerta vaccinale; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    la conoscenza adeguata delle misure di sicurezza da adottare in ambiente domestico per la prevenzione di incidenti.
+
 Con decreto del Ministro della salute, di concerto con i Ministri del lavoro e delle politiche sociali, per la famiglia, la natalita' e le pari opportunita' e per le disabilita', sentito il CIPA e previa intesa in sede di Conferenza unificata di cui all'articolo 8 del decreto legislativo 28 agosto 1997, n. 281, sono adottate, entro novanta giorni dalla data di entrata in vigore del presente decreto, le «Linee di indirizzo nazionali per la promozione dell'accessibilita' delle persone anziane ai servizi e alle risorse del territorio».
 
 Sulla base delle linee di indirizzo di cui al comma 3, a livello regionale e locale sono adottati appositi Piani d'azione, nell'ambito delle risorse umane, strumentali e finanziarie disponibili, mediante i quali si promuove l'accessibilita' universale delle persone anziane alla corretta fruizione dei servizi sociali e sanitari, degli spazi urbani, dell'ambiente naturale e delle iniziative e dei servizi ricreativi, commerciali e culturali. I Piani d'azione formano parte integrante degli strumenti di programmazione integrata.
@@ -67,6 +124,77 @@ Il datore di lavoro adotta ogni iniziativa diretta a favorire le persone anziane
 
 Misure per favorire l'invecchiamento attivo mediante la promozione dell'impegno delle persone anziane in attivita' di utilita' sociale e di volontariato
 
+1.
+                        
+                            
+                                Al fine di favorire l'impegno delle persone anziane in attivita' di utilita' sociale e di volontariato, promuovendo, altresi', in tale contesto, lo scambio intergenerazionale, in coerenza con il Piano nazionale per l'invecchiamento attivo, l'inclusione sociale e la prevenzione delle fragilita' nella popolazione anziana, di cui all'articolo 3, comma 1: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la Presidenza del Consiglio dei ministri - Dipartimento per le politiche della famiglia realizza periodiche campagne istituzionali di comunicazione e di sensibilizzazione in materia di invecchiamento attivo per agevolare lo scambio intergenerazionale, promuovere l'autonomia e l'inclusione sociale delle persone anziane e valorizzare il loro contributo anche nelle attivita' dei centri con funzioni socioeducative e ricreative a sostegno dei giovani, favorendo la conciliazione dei tempi di vita e di lavoro delle famiglie; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la Presidenza del Consiglio dei ministri - Dipartimento per le pari opportunita' promuove azioni e iniziative di carattere formativo e informativo tese a contrastare la discriminazione in base all'eta', anche attraverso l'Ufficio per la promozione della parita' di trattamento e la rimozione delle discriminazioni fondate sulla razza o sull'origine etnica (UNAR), nonche' i fenomeni di abuso e di violenza sulle persone anziane, anche in attuazione, con riferimento al target femminile, del Piano strategico nazionale contro la violenza nei confronti delle donne e la violenza domestica di cui all'articolo 5 del decreto-legge 14 agosto 2013, n. 93, convertito, con modificazioni, dalla legge 15 ottobre 2013, n. 119, e del Piano strategico nazionale per la parita' di genere di cui all'articolo 1, comma 139, della legge 30 dicembre 2021, n. 234; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    la Presidenza del Consiglio dei ministri - Dipartimento per le politiche giovanili e il Servizio civile universale promuove azioni volte a favorire lo scambio intergenerazionale. A tal fine, le risorse del Fondo per le politiche giovanili di cui all'articolo 19, comma 2, del decreto-legge 4 luglio 2006, n. 223, convertito, con modificazioni, dalla legge 4 agosto 2006, n. 248, previa intesa in sede di Conferenza unificata di cui all'articolo 8 del decreto legislativo 28 agosto 1997, n. 281, possono essere destinate alla realizzazione di azioni e progetti, anche in collaborazione e con il coinvolgimento degli enti territoriali, volti, tra l'altro, a incentivare lo scambio tra giovani e persone anziane in ottica di rafforzamento dei legami intergenerazionali, riconoscendo queste ultime come risorse per la comunita' di riferimento e depositarie del patrimonio storico e culturale, anche di carattere linguistico, dialettale e musicale, attraverso la memoria delle tradizioni popolari locali, delle diverse forme di intrattenimento e di spettacolo tradizionali, delle competenze e dei saperi, con particolare riferimento agli antichi mestieri, specie nei settori dell'artigianato, dell'enogastronomia e delle eccellenze dei prodotti italiani; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    le istituzioni scolastiche del sistema nazionale di istruzione, nell'ambito della propria autonomia, possono prevedere, nel Piano triennale dell'offerta formativa (PTOF), iniziative volte a promuovere la solidarieta' tra le generazioni con particolare riguardo alle situazioni a rischio di isolamento e marginalita' sociale delle persone anziane. Le iniziative, indicate nel Piano triennale dell'offerta formativa, possono essere realizzate in rete con altre istituzioni scolastiche e attuate in collaborazione con ((...)) enti locali, nonche' con ((gli enti)) del terzo settore operanti nella promozione dell'impegno delle persone anziane in attivita' di utilita' sociale.
+
+2.
+                        
+                            
+                                Per le medesime finalita' di cui al comma 1, in coerenza con il Piano nazionale per l'invecchiamento attivo, l'inclusione sociale e la prevenzione delle fragilita' nella popolazione anziana di cui all'articolo 3, comma 1, le regioni e gli enti locali possono promuovere, nei limiti delle risorse umane e finanziarie disponibili a legislazione vigente, anche attraverso un'adeguata programmazione dei piani sociali regionali e locali, iniziative per favorire l'invecchiamento attivo, fra le quali: 
+ 
+                            
+                            
+                                a)
+                                
+                                    azioni volte a sostenere l'integrazione sociale delle persone anziane attraverso interventi di agricoltura sociale, di cura di orti sociali urbani e di creazione e manutenzione dei giardini, anche con la partecipazione di bambini e bambine, ragazze e ragazzi; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    attivita' condotte a favore delle persone anziane da parte di istituti di formazione, anche favorendo l'attivita' di testimonianza e di insegnamento da parte di persone collocate in quiescenza; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il sostegno a spazi e a luoghi di incontro, di socializzazione e di partecipazione, valorizzando anche il ruolo dei centri per la famiglia, per favorire il coinvolgimento attivo della persona anziana nella comunita' di riferimento; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    azioni volte a promuovere l'educazione finanziaria delle persone anziane, anche allo scopo di prevenire truffe a loro danno; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    iniziative volte all'accrescimento della consapevolezza circa i corretti stili di vita e finalizzate al mantenimento di buone condizioni di salute, in collaborazione con la rete dei medici di medicina generale.
+
 Entro il 30 aprile di ogni anno, le amministrazioni di cui ai commi 1, lettere b), c) e d), e 2, trasmettono alla Presidenza del Consiglio dei ministri - Dipartimento per le politiche della famiglia una relazione sulle attivita' previste dal presente articolo, svolte nell'anno precedente, nonche' sulle possibili iniziative da avviare per rafforzare la promozione dell'invecchiamento attivo.
 
 Il Dipartimento per le politiche della famiglia della Presidenza del Consiglio dei ministri, anche sulla base delle informazioni acquisite ai sensi del comma 3, in collaborazione con le amministrazioni di cui ai commi 1, lettere b), c) e d), e 2, predispone, entro il 31 dicembre di ogni anno, nell'ambito delle risorse umane, strumentali e finanziarie disponibili a legislazione vigente, una relazione annuale sulle misure intraprese dalle amministrazioni ai sensi del presente articolo e sulle possibili iniziative da avviare per rafforzare la promozione dell'invecchiamento attivo. La relazione e' sottoposta all'Autorita' politica con delega alla famiglia, per la sua presentazione al CIPA, ai fini dell'adozione e dell'aggiornamento del Piano nazionale per l'invecchiamento attivo, l'inclusione sociale e la prevenzione delle fragilita' nella popolazione anziana di cui all'articolo 3, comma 1.
@@ -80,6 +208,52 @@ Promozione della mobilita' delle persone anziane
  1.Al fine di facilitare l'esercizio dell'autonomia e della mobilita' delle persone anziane nei contesti urbani ed extraurbani, anche mediante il superamento degli ostacoli che impediscono l'esercizio fisico, la fruizione degli spazi verdi e le occasioni di socializzazione e di incontro, entro novanta giorni dalla data di entrata in vigore del presente decreto, con decreto del Ministro delle infrastrutture e dei trasporti, di concerto con il Ministro dell'economia e delle finanze, previa intesa in sede di Conferenza unificata di cui all'articolo 8 del decreto legislativo 28 agosto 1997, n. 281, sono individuati livelli di servizio funzionali all'adeguamento dei servizi di trasporto pubblico locale alle esigenze di mobilita' delle persone anziane nei contesti urbani ed extraurbani. I predetti livelli di servizio sono definiti previa ricognizione dei servizi di mobilita' attivati dalle competenti amministrazioni territoriali a supporto della mobilita' delle persone anziane, tenuto conto dei dati disponibili sulla rilevazione della domanda, sulla determinazione delle matrici di origine e destinazione e sui fabbisogni di mobilita' della popolazione di riferimento. Il decreto di cui al primo periodo individua, per i livelli di servizio relativi alla mobilita' delle persone anziane, i relativi criteri di ponderazione ai fini della determinazione della quota di cui all'articolo 27, comma 2, lettera b), del decreto-legge 24 aprile 2017, n. 50, convertito, con modificazioni, dalla legge 21 giugno 2017, n. 96.
 
 ## Art. 8. — Misure volte a favorire il turismo del benessere e il turismo lento
+
+1.
+                        
+                            
+                                Al fine di tutelare i livelli essenziali delle prestazioni sociali e la salute psicofisica, nonche' di favorire il turismo del benessere e il turismo lento e sostenibile, il Ministero del turismo, nell'ambito delle risorse finanziarie disponibili a legislazione vigente: 
+ 
+                            
+                            
+                                a)
+                                
+                                    promuove la stipula di convenzioni su base nazionale tra i servizi residenziali e semiresidenziali socioassistenziali di cui all'articolo 30 e le strutture ricettive, termali, balneari, agrituristiche e i parchi tematici, al fine di assicurare, a prezzi vantaggiosi, la fruizione delle mete turistiche alle persone anziane, anche nei giorni infrasettimanali e nei periodi di bassa stagione; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    promuove la realizzazione, a prezzi vantaggiosi, di soggiorni di lungo periodo nelle strutture ricettive situate in prossimita' dei luoghi legati al turismo del benessere e alla cura della persona in favore di persone anziane; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    promuove, anche attraverso la stipula di convenzioni con organizzazioni di volontariato e associazioni di promozione sociale, programmi di «turismo intergenerazionale», che consentano, per le attivita' di cui alla lettera b), la partecipazione di giovani che accompagnino le persone anziane; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    promuove iniziative volte a favorire la socializzazione tra persone anziane autosufficienti e non autosufficienti, anche mediante lo svolgimento di attivita' ricreative e di cicloturismo leggero; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    promuove l'adozione di programmi finalizzati all'abbattimento delle barriere architettoniche presso le strutture ricettive, termali e balneari, favorendone l'accessibilita' e la fruizione; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    promuove, congiuntamente al Ministero della cultura, di concerto con il Ministero della salute e con l'Autorita' politica delegata in materia di disabilita', previo parere della Conferenza unificata di cui all'articolo 8 del decreto legislativo 28 agosto 1997, n. 281, l'adozione di misure atte a garantire l'accessibilita' turistico-culturale negli istituti e nei luoghi della cultura di cui all'articolo 101 del codice dei beni culturali e del paesaggio, di cui al decreto legislativo 22 gennaio 2004, n. 42, delle persone anziane anche non autosufficienti, previa ricognizione delle migliori pratiche internazionali.
 
 Con uno o piu' decreti del Ministro del turismo, di concerto con i Ministri dell'economia e delle finanze, della salute, della cultura, per le disabilita', per la famiglia, la natalita' e le pari opportunita', nonche' per lo sport e i giovani, ognuno per la parte di propria competenza, sentito il CIPA, da adottare entro novanta giorni dalla data di entrata in vigore del presente decreto, sono stabilite le modalita' di attuazione delle iniziative di cui al comma 1.
 
@@ -144,6 +318,24 @@ Al fine di sostenere il benessere psicologico delle persone anziane attraverso l
 
 ## Art. 14. — Progetti di servizio civile universale a favore delle persone anziane
 
+1.
+                        
+                            
+                                Al fine di sostenere e promuovere la solidarieta' e la coesione tra le generazioni, nel rispetto delle finalita' del servizio civile universale di cui al decreto legislativo 6 marzo 2017, n. 40, e nel rispetto del Piano triennale 2023-2025 per la programmazione del servizio civile universale, approvato con decreto del Ministro per lo sport e i giovani 20 gennaio 2023 e pubblicato nel sito internet istituzionale, i soggetti iscritti all'Albo degli enti di servizio civile universale di cui all'articolo 11 del decreto legislativo n. 40 del 2017 possono presentare progetti di servizio civile universale, afferenti alle Aree «Animazione culturale con gli anziani» e «Adulti e terza eta' in condizioni di disagio» rispettivamente nei settori di intervento «Educazione e promozione culturale, paesaggistica, ambientale, del turismo sostenibile e sociale e dello sport» e «Assistenza» di cui all'articolo 3 del citato decreto legislativo n. 40 del 2017, le cui finalita', tra l'altro, siano volte a: 
+ 
+                            
+                            
+                                a)
+                                
+                                    sviluppare e rafforzare il rapporto relazionale tra le diverse generazioni, diffondendo la conoscenza dei servizi offerti sui territori e favorendo l'inclusione sociale delle persone anziane, intesa come partecipazione alla vita sociale, economica e culturale; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    sviluppare e promuovere un sistema di sostegno, solidarieta' e aiuto anche alle persone anziane in condizioni critiche e alle loro famiglie (caregiver), attraverso servizi di supporto, cura e accompagnamento, volti a favorire l'inclusione sociale e la partecipazione attiva alla comunita'.
+
 Dall'attuazione del presente articolo non devono derivare nuovi o maggiori oneri per la finanza pubblica. Le amministrazioni interessate provvedono agli adempimenti previsti dal presente articolo con le risorse umane, strumentali e finanziarie disponibili a legislazione vigente.
 
 ## - Capo IV (( Coabitazione
@@ -159,6 +351,84 @@ Per la partecipazione ai lavori del CIPA di cui al primo periodo non spettano co
 Le forme di coabitazione di cui al comma 1 sono realizzate nell'ambito di case, case-famiglia, gruppi famiglia, gruppi appartamento e condomini solidali, aperti ai familiari, ai volontari, ai prestatori esterni di servizi sanitari, sociali e sociosanitari integrativi, nonche' ad iniziative e attivita' degli enti del terzo settore di cui al decreto legislativo 3 luglio 2017, n. 117.
 
 ## Art. 16. — Criteri e prescrizioni per la realizzazione di progetti di coabitazione mediante rigenerazione urbana e riuso del patrimonio costruito
+
+1.
+                        
+                            
+                                La promozione di nuove forme di domiciliarita' e di coabitazione solidale domiciliare per le persone anziane e di coabitazione intergenerazionale e' realizzata prioritariamente attraverso meccanismi di rigenerazione urbana e riuso del patrimonio costruito, attuati sulla base di atti di pianificazione o programmazione regionale o comunale e di adeguata progettazione, secondo i seguenti criteri: 
+ 
+                            
+                            
+                                a)
+                                
+                                    mobilita' e accessibilita' sostenibili; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    ristrutturazione ed efficientamento energetico del patrimonio immobiliare pubblico e privato e di rigenerazione delle periferie urbane; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    protezione e tutela della dimensione culturale, ambientale e sociale dei beneficiari; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    soddisfacimento in autonomia dei bisogni primari dei beneficiari e di promozione della socialita'; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    coerenza con altri interventi sul territorio gia' finanziati, aventi finalita' analoghe o complementari.
+
+2.
+                        
+                            
+                                Per le finalita' di cui all'articolo 15, con decreto del Ministro delle infrastrutture e dei trasporti, di concerto con il Ministro dell'economia e delle finanze e con il Ministro del lavoro e delle politiche sociali, da adottare ai sensi dell'articolo 17, comma 3, della legge 23 agosto 1988, n. 400, previa intesa in sede di Conferenza unificata di cui all'articolo 8 del decreto legislativo 28 agosto 1997, n. 281, entro centoventi giorni dalla data di approvazione delle linee guida di cui all'articolo 15, comma 1, individuate le prescrizioni edilizie che le regioni e i comuni sono tenuti a rispettare nella selezione delle iniziative progettuali di cui all'articolo 17, comma 1. Il decreto di cui al primo periodo tiene conto del raggiungimento dei seguenti obiettivi: 
+ 
+                            
+                            
+                                a)
+                                
+                                    ampliamento dell'offerta abitativa; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    accessibilita' ad una rete di servizi, quali luoghi adibiti ad attivita' ricreative, ludico-culturali e sportive, scuole e supermercati, serviti dal trasporto pubblico locale, al fine di promuovere l'autosufficienza dei beneficiari; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    accessibilita' ai servizi sanitari, anche nell'ottica di promuovere interventi di sanita' preventiva a domicilio; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    disponibilita' di servizi comuni aggiuntivi ideati per favorire la socialita' e garantire l'assistenza medico-sanitaria; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    mobilita' dei beneficiari, anche agevolando la fruizione da parte degli stessi di spazi verdi e di luoghi di socializzazione.
 
 ## Art. 17. — Progetti pilota sperimentali
 
@@ -199,6 +469,31 @@ Le istituzioni scolastiche provvedono all'attuazione del presente articolo nell'
 
 Il Sistema nazionale per la popolazione anziana non autosufficiente (SNAA) e' costituito dall'insieme integrato dei servizi e delle prestazioni sociali, di cura e di assistenza necessari a garantire un adeguato e appropriato sostegno ai bisogni della popolazione di cui all'articolo 2, comma 1, lettera c). Al fine di garantire l'effettivo godimento del diritto all'assistenza delle persone anziane non autosufficienti, attraverso l'accesso all'insieme dei servizi e delle prestazioni sociali e sanitarie, i soggetti che compongono lo SNAA operano in coerenza con le strategie raccomandate dall'Organizzazione mondiale della sanita' e con l'articolo 25 della Carta dei diritti fondamentali dell'Unione europea.
 
+2.
+                        
+                            
+                                I soggetti responsabili dell'azione integrata dello SNAA sono le amministrazioni centrali dello Stato competenti, l'Istituto nazionale della previdenza sociale (INPS), le regioni e le province autonome, le aziende sanitarie locali del Servizio sanitario nazionale, i comuni singoli o associati in ambiti territoriali sociali (ATS). La coerenza della programmazione si realizza mediante il concorso di ciascun livello dell'articolazione funzionale, in base alle rispettive competenze, agli strumenti e alle risorse finanziarie disponibili, secondo il seguente riparto: 
+ 
+                            
+                            
+                                a)
+                                
+                                    a livello centrale, il Comitato interministeriale per le politiche in favore della popolazione anziana (CIPA), che, ai sensi dell'articolo 2, comma 3, lettera a), della legge 23 marzo 2023, n. 33, adotta, con cadenza triennale e aggiornamento annuale, previa intesa in sede di Conferenza unificata di cui all'articolo 8 del decreto legislativo 28 agosto 1997, n. 281, assicurando la partecipazione delle parti sociali, delle associazioni di settore e le associazioni rappresentative delle persone in condizioni di disabilita', il Piano nazionale per l'invecchiamento attivo, l'inclusione sociale e la prevenzione delle fragilita' nella popolazione anziana e il Piano nazionale per l'assistenza e la cura della fragilita' e della non autosufficienza nella popolazione anziana; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    a livello regionale, gli assessorati regionali competenti in materia di assistenza sanitaria, sociosanitaria e sociale, i comuni singoli o associati in ATS e le aziende sanitarie territoriali di ciascuna regione e provincia autonoma, che adottano i propri piani assicurando la partecipazione delle parti sociali, delle associazioni di settore e delle associazioni rappresentative delle persone anziane, anziane non autosufficienti e delle persone con disabilita'; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    a livello locale, l'ATS e il distretto sanitario.
+
 I soggetti di cui al comma 2, nell'ambito delle rispettive competenze, sono impegnati a garantire tra loro il massimo livello possibile di cooperazione amministrativa nel rispetto dei principi di leale collaborazione e di coordinamento tra Stato, regioni, province autonome e comuni nonche' dei principi di sussidiarieta' per lo svolgimento delle funzioni di programmazione, gestione e monitoraggio degli interventi posti in essere a favore della popolazione anziana non autosufficiente, garantendo la piena attuazione degli indirizzi generali elaborati dal CIPA ai sensi dell'articolo 4, comma 2, lettera c), della legge n. 33 del 2023.
 
 Lo SNAA persegue i propri obiettivi attraverso la programmazione integrata delle misure sanitarie e sociali a titolarita' pubblica che interessano le persone anziane non autosufficienti, nel rispetto dei principi di appropriatezza, tempestivita' ed efficacia delle prestazioni, degli interventi e dei servizi destinati alle medesime persone anziane non autosufficienti, nel rispetto dei modelli organizzativi regionali.
@@ -215,6 +510,31 @@ Alla realizzazione della programmazione integrata concorrono le attivita' concer
  delle prestazioni sociali
 
 Ai fini del presente decreto, i LEPS sono quelli individuati dall'articolo 1, commi 162 e 163, della legge 30 dicembre 2021, n. 234, nel rispetto di quanto previsto dall'articolo 1, comma 592, della legge 30 dicembre 2021, n. 234, fermo restando quanto disposto dall'articolo 23 del decreto legislativo 15 settembre 2017, n. 147.
+
+2.
+                        
+                            
+                                In coerenza con quanto recato dall'articolo 13 del decreto legislativo 6 maggio 2011 n. 68, i LEPS di cui al comma 1 sono attuati in via graduale e progressiva, nei limiti delle risorse disponibili, e sono erogati dagli ATS nelle seguenti aree: 
+ 
+                            
+                            
+                                a)
+                                
+                                    assistenza domiciliare sociale e assistenza sociale integrata con i servizi sanitari, quale servizio rivolto a persone anziane non autosufficienti o a persone anziane con ridotta autonomia o a rischio di emarginazione; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    servizi sociali di sollievo per le persone anziane non autosufficienti e le loro famiglie; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    servizi sociali di supporto per le persone anziane non autosufficienti e le loro famiglie.
 
 ## Art. 23. — Sistema di monitoraggio dei livelli essenziali 
  delle prestazioni sociali
@@ -233,6 +553,38 @@ Al fine di garantire l'attuazione del presente articolo, si applicano le disposi
 Gli ambiti territoriali sociali (ATS), attraverso un'idonea e stabile organizzazione nel limite delle risorse disponibili a legislazione vigente, provvedono a garantire, sulla base degli indirizzi forniti dallo SNAA e della programmazione regionale, lo svolgimento omogeneo di tutte le funzioni tecniche di programmazione, gestione, erogazione e monitoraggio degli interventi nell'ambito dei servizi sociali alle persone e alle famiglie residenti ovvero regolarmente soggiornanti e dimoranti presso i comuni che costituiscono l'ATS, anche ai fini dell'attuazione dei programmi previsti nell'ambito della Missione 5, Componente 2, Riforma 1.2, del PNRR e in raccordo con quanto previsto dal decreto del Ministro della salute 23 maggio 2022, n. 77, in attuazione dell'articolo 1, comma 169, della legge 30 dicembre 2004, n. 311, e della Missione 6, Componente 1, Riforma 1, del PNRR.
 
 Gli ATS, per lo svolgimento delle funzioni proprie, si avvalgono della collaborazione delle infrastrutture sociali in capo alle istituzioni di cui al decreto legislativo 4 maggio 2001, n. 207 ovvero di quelle di ogni altro soggetto pubblico o privato operante sul territorio, cui sono assegnati, secondo le previsioni di legge nazionali e regionali, compiti e funzioni nell'ambito dei servizi sociali alle famiglie e alle persone.
+
+3.
+                        
+                            
+                                Agli ATS sono attribuite le seguenti funzioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    coordinamento e governance del sistema integrato di interventi e servizi sociali; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    pianificazione e programmazione degli interventi in base ad una analisi dei bisogni; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    erogazione degli interventi e dei servizi; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    gestione del personale nelle diverse forme associative adottate.
 
 Gli ATS e i distretti sanitari, nell'esercizio delle rispettive competenze e funzioni, sulla base di quanto previsto dal Piano nazionale per l'assistenza e la cura della fragilita' e della non autosufficienza nella popolazione anziana di cui all'articolo 2, comma 3, lettera a), della legge 23 marzo 2023, n. 33 provvedono ad individuare modalita' semplificate di accesso agli interventi sanitari, sociali e sociosanitari attraverso i punti unici di accesso (PUA), di cui all'articolo 1, comma 163, della legge n. 234 del 2021.
 
@@ -262,6 +614,24 @@ Al fine di garantire la realizzazione integrata dei LEPS e LEA per le attivita' 
 
 Il Servizio sanitario nazionale (SSN), gli ATS e l'INPS, per i profili di competenza, assicurano alla persona anziana, avente i requisiti previsti dal comma 2, l'accesso alle misure e ai provvedimenti di competenza statale di cui al presente decreto, alle leggi 5 febbraio 1992, n. 104, 30 marzo 1971, n. 118, e 11 febbraio 1980, n. 18, e di cui all'articolo 2, comma 2, lettera a), numero 3, e lettera b), della legge 22 dicembre 2021, n. 227, nonche' l'accesso ai servizi sociali e ai servizi sociosanitari attraverso i PUA che hanno la sede operativa presso le articolazioni del SSN denominate «Case della comunita'».
 
+2.
+                        
+                            
+                                L'accesso ai servizi di cui al comma 1 e ai correlati processi valutativi di pertinenza dei PUA e' assicurato alla persona anziana in possesso congiuntamente dei seguenti requisiti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    persona affetta da almeno una patologia cronica; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    persona con condizioni cliniche caratterizzate, anche in funzione dell'eta' anagrafica, dalla progressiva riduzione delle normali funzioni fisiologiche, suscettibili di aggravarsi con l'invecchiamento e di determinare il rischio di perdita dell'autonomia nelle attivita' fondamentali della vita quotidiana, anche tenendo conto delle specifiche condizioni sociali, ambientali e familiari.
+
 Ai fini di cui al comma 1, i criteri di priorita' per l'accesso ai servizi del PUA sono indicati nel decreto di cui al comma 7, ivi ricomprendendovi, tra gli altri, la qualita' di persona grande anziana e la presenza di piu' di una patologia cronica.
 
 La valutazione circa l'esistenza dei requisiti di cui al comma 2 e' effettuata, su richiesta dell'interessato o su segnalazione della rete ospedaliera, delle farmacie, dei comuni e degli ambiti territoriali sociali, dal medico di medicina generale ovvero dal medico di una struttura del SSN, che indirizza l'interessato al PUA.
@@ -283,7 +653,43 @@ All'esito della valutazione multidimensionale unificata, quando non sussistono i
 
 Quando, all'esito della valutazione multidimensionale unificata, viene esclusa la condizione di non autosufficienza ed e' rilevata la sussistenza delle condizioni per l'accesso ai benefici di cui all'articolo 2, comma 2, lettera b), numero 2, della legge 22 dicembre 2021, n. 227, l'UVM redige apposito verbale con le risultanze della valutazione, da trasmettere tempestivamente, attraverso la piattaforma informatica di cui al comma 4, all'INPS, che procede all'espletamento degli accertamenti dei requisiti per l'erogazione dei trattamenti connessi allo stato di invalidita', nonche', solo ove necessario, agli accertamenti integrativi di tipo medico-sanitario. Nella valutazione di cui al primo periodo, l'UVM tiene conto anche, ove adottati, dei criteri e delle modalita' di accertamento dell'invalidita' di cui all'articolo 2, comma 2, lettera b), numero 3, della legge 22 dicembre 2021, n. 227, e degli indicatori sintetici di cui al comma 11, all'uopo elaborati. Restano ferme le funzioni e le competenze dell'INPS di cui all'articolo 20, commi 2, primo periodo e 4, del decreto-legge 1° luglio 2009, n. 78, convertito, con modificazioni, dalla legge 3 agosto 2009, n. 102.
 
+11.
+                        
+                            
+                                Quando la UVM rileva la sussistenza della condizione di non autosufficienza, redige apposito verbale, da trasmettere all'INPS, attraverso la piattaforma informatica di cui al comma 4, per i provvedimenti di competenza. Il verbale contiene le risultanze della valutazione, relative anche alla sussistenza delle condizioni medico-sanitarie di accesso ai benefici di cui all'articolo 2, comma 2, lettera b), numero 2, della legge 22 dicembre 2021, n. 227, e inclusive degli indicatori sintetici standardizzati e validati utili a: 
+ 
+                            
+                            
+                                a)
+                                
+                                    graduare il fabbisogno assistenziale in relazione ai livelli crescenti della compromissione delle autonomie nella vita quotidiana; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    supportare le decisioni di eleggibilita' alle misure e provvedimenti di cui al comma 10 e quelle ulteriori di cui all'articolo 34.
+
 Quando, all'esito della valutazione multidimensionale unificata, emergono fabbisogni di cura e assistenza, puo' procedersi alla redazione del PAI.
+
+13.
+                        
+                            
+                                Al fine di garantire la presenza della componente sanitaria unitariamente a quella sociale, le UVM, quando provvedono alla valutazione multidimensionale unificata finalizzata a definire il PAI, si avvalgono, secondo quanto disposto anche con il decreto di cui al comma 7, di: 
+ 
+                            
+                            
+                                a)
+                                
+                                    un professionista di area sociale degli ATS, operante nell'ambito delle previsioni di cui all'articolo 1, comma 797, della legge 30 dicembre 2020, n. 178; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    uno o piu' professionisti sanitari designati dalla azienda sanitaria o dal distretto sanitario, incluso il responsabile clinico del processo di cura.
 
 In relazione all'ambito prevalente degli interventi, uno dei componenti dell'unita' assume la funzione di referente per il coordinamento operativo, l'attuazione e il monitoraggio degli interventi previsti nel PAI. Il PAI e' soggetto a monitoraggio periodico, anche al fine di procedere ad una sua tempestiva modifica in caso di cambiamenti delle condizioni clinico-assistenziali della persona anziana.
 
@@ -293,6 +699,24 @@ Nel caso di persone con compromissione cognitiva e demenza e' valutata la capaci
 Nel PAI, che contiene gli obiettivi di cura, vengono indicati gli interventi modulati secondo la durata e l'intensita' del bisogno e le figure professionali coinvolte, fermo restando quanto previsto dall'articolo 4, comma 2, lettera s), numeri 1 e 2, della legge 23 marzo 2023, n. 33. Quando necessario, il PAI comprende anche il Piano di riabilitazione individuale (PRI) secondo le indicazioni dell'articolo 34 del decreto del Presidente del Consiglio dei ministri 12 gennaio 2017, delle Linee di indirizzo per l'individuazione di percorsi appropriati nella rete di riabilitazione, adottate con accordo sancito in sede di Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome di Trento e di Bolzano nella seduta del 4 agosto 2021, e del decreto del Ministro della salute n. 77 del 2022.
 
 All'interno del PAI, approvato e sottoscritto dai soggetti responsabili dei vari servizi e dalla persona anziana non autosufficiente ovvero dal suo rappresentate qualora nominato, sono individuate le responsabilita', i compiti e le modalita' di svolgimento dell'attivita' degli operatori sanitari e sociali che intervengono nella presa in carico della persona, nonche' l'apporto della famiglia e degli altri soggetti che collaborano alla sua realizzazione, ivi inclusi gli enti del terzo settore e i soggetti che compongono la rete dei servizi di cui all'articolo 25.
+
+18.
+                        
+                            
+                                L'UVM, nell'ambito del PAI, provvede a individuare il budget di cura e assistenza quale strumento per l'ottimizzazione progressiva della fruizione e della gestione degli interventi e dei servizi di cura e di sostegno ai fini dell'attuazione del medesimo progetto. Al budget di cura e di assistenza concorrono tutte le risorse umane, professionali, strumentali, tecnologiche, pubbliche e private, attivabili anche in seno alla comunita' territoriale. Tali attivita' sono garantite dalle aziende sanitarie, dai distretti sanitari e dagli ATS, ciascuno per le proprie funzioni e competenze nell'ambito delle risorse disponibili a legislazione vigente e in particolare: 
+ 
+                            
+                            
+                                a)
+                                
+                                    le risorse derivanti dal trasferimento alle regioni delle relative quote del finanziamento del SSN nel rispetto di quanto previsto dai livelli essenziali di assistenza; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le risorse derivanti dal trasferimento alle regioni e agli enti locali delle risorse del Fondo per le non autosufficienze di cui all'articolo 1, comma 1264, della legge 27 dicembre 2006, n. 296, della quota del Fondo unico per l'inclusione delle persone con disabilita' di cui all'articolo 1, comma 210, della legge 30 dicembre 2023, n. 213, utilizzata per la finalita' di cui al medesimo articolo, comma 213, lettera f), per la parte destinata dalla programmazione regionale in favore dei caregiver degli anziani non autosufficienti, nonche' le risorse a valere su altri fondi sociali nazionali che possono essere destinati dalla programmazione regionale ad interventi in favore di anziani non autosufficienti.
 
 Il budget di cura e assistenza, in relazione alla eventuale rimodulazione degli interventi previsti nel PAI effettuata nell'ambito del monitoraggio periodico di cui al comma 14, e' aggiornabile, anche in via d'urgenza, in funzione di esigenze indifferibili clinico-assistenziali della persona anziana.
 
@@ -305,6 +729,38 @@ In coerenza con quanto previsto dall'articolo 26, gli ATS e i distretti sanitari
 Le attivita' dei PUA si svolgono in collaborazione con la Centrale operativa 116117, sede del numero europeo armonizzato (NEA) a valenza sociale per le cure mediche non urgenti, con il servizio di emergenza urgenza, con le Centrali operative territoriali e con altri servizi previsti da ciascuna regione e provincia autonoma. Al fine di garantire la piena attuazione del diritto di accesso ai servizi sociali per le persone anziane non autosufficienti e' assicurato il coordinamento con le funzioni di segretariato sociale di cui all'articolo 22, comma 4, lettera a), della legge 8 novembre 2000, n. 328, con le modalita' operative mediante accordi di collaborazione nell'ambito dei progetti regionali relativi al numero europeo armonizzato 116117.
 
 Fermo restando quanto previsto dall'articolo 2, comma 2, lettera a), numero 3), e lettera b), della legge 22 dicembre 2021, n. 227, la valutazione multidimensionale unificata concorre agli obiettivi di semplificazione e integrazione delle procedure di accertamento e valutazione, e alla conseguente certificazione della condizione di persona anziana non autosufficiente, anche al fine di ridurre le duplicazioni, contenere i costi e gli oneri amministrativi e facilitare l'accesso alle prestazioni sanitarie direttamente correlate alla condizione di non autosufficienza, attraverso processi e modalita' appropriati e sostenibili. I risultati del processo di certificazione del bisogno determinano, previo accordo con le regioni, l'attivazione immediata e automatica dei benefici ammessi e delle comunicazioni necessarie, da effettuare, anche attraverso il sistema di interoperabilita', alle amministrazioni competenti e al cittadino, senza richiedere a quest'ultimo ulteriori adempimenti. La valutazione multidimensionale unificata rappresenta la base informativa facilitante per i processi valutativi di competenza delle diverse amministrazioni, riducendo la necessita' dei cittadini di produrre ulteriore documentazione e permettendo ai professionisti del sistema di raccogliere le sole informazioni aggiuntive specifiche necessarie per la progettazione del PAI e la valutazione di eleggibilita' ai servizi.
+
+4.
+                        
+                            
+                                Al fine di promuovere la semplificazione e l'integrazione delle procedure di accertamento e valutazione della condizione di persona anziana non autosufficiente, e' istituito lo strumento della valutazione multidimensionale unificata di cui all'articolo 27, scientificamente validato, informatizzato e digitale, i cui risultati sono resi disponibili su piattaforme interoperabili secondo le indicazioni di cui all'articolo 2, comma 2, lettera l), e all'articolo 2, comma 3, lettera c), della legge n. 33 del 2023. Tale strumento e' finalizzato a garantire agli operatori della UVM la disponibilita' della documentazione sanitaria e sociosanitaria della persona anziana non autosufficiente funzionale alla progettazione e al monitoraggio del percorso di cura e di assistenza, in linea con gli standard tecnologici definiti dalla vigente disciplina in materia di telemedicina e fascicolo sanitario elettronico, attraverso la condivisione delle seguenti informazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    relative alla documentazione sanitaria per l'accesso del PUA; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    contenute nel fascicolo sanitario elettronico (FSE); 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    relative alla posizione del cittadino nella piattaforma INPS; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    relative alle eventuali cartelle sociali presso gli enti locali secondo quanto previsto dall'articolo 23, comma 3.
 
 Al fine di dare attuazione al principio della programmazione integrata dei servizi, degli interventi e delle prestazioni sanitarie, sociali e assistenziali rivolte alla persona anziana non autosufficiente, con decreto del Ministro della salute e del Ministro del lavoro e delle politiche sociali, di concerto con il Ministro dell'economia e delle finanze, sentito l'INPS, previo parere del Garante per la protezione dei dati personali e acquisita l'intesa in sede di Conferenza unificata di cui all'articolo 8 del decreto legislativo 28 agosto 1997, n. 281, sono definite le modalita' di condivisione delle banche dati alimentate da elementi o risultanze che, a qualunque titolo, entrano nel procedimento di accertamento e valutazione di base, nonche' la raccolta dei dati, delle comunicazioni e delle informazioni relative alla conclusione del procedimento stesso. Con il medesimo decreto sono definite le modalita' di raccolta dei dati per la predisposizione di una apposita relazione annuale del Ministero del lavoro e delle politiche sociali e del Ministero della salute, da trasmettere al CIPA.
 
@@ -352,9 +808,73 @@ I servizi residenziali e semiresidenziali sociosanitari di cui ai commi 1 e 2 pr
 
 Nel rispetto dei requisiti previsti per l'accreditamento dal decreto legislativo 30 dicembre 1992, n. 502, le strutture residenziali sociosanitarie possono essere dotate di moduli distinti per l'erogazione di trattamenti con diverso livello di intensita' assistenziale, nonche' di cure domiciliari di base e integrate, connotandosi come Centri residenziali multiservizi (CRM). Ciascuna unita' d'offerta e di servizio funzionalmente integrata nel CRM mantiene il sistema di autorizzazione e di accreditamento istituzionale previsto per le diverse attivita' erogate e si raccorda con le Case della comunita' operanti presso il distretto di riferimento.
 
+7.
+                        
+                            
+                                Con decreto del Ministro della salute, da adottare entro centoventi giorni dalla data di entrata in vigore del presente decreto, previa intesa in sede di Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome di Trento e di Bolzano, si provvede all'individuazione e all'aggiornamento, secondo principi di semplificazione dei procedimenti e di sussidiarieta' delle relative competenze normative e amministrative, di criteri condivisi ed omogenei a livello nazionale per l'individuazione dei requisiti minimi di sicurezza e dei requisiti ulteriori di qualita' per l'autorizzazione e l'accreditamento delle strutture e delle organizzazioni pubbliche e private, anche appartenenti ad enti del terzo settore, che erogano prestazioni residenziali, semiresidenziali e domiciliari a carattere sanitario e sociosanitario di cui al comma 2, in coerenza con le previsioni di cui agli articoli 8-ter, 8-quater, 8-quinquies e 8-octies del decreto legislativo n. 502 del 1992. Nell'ambito dei suddetti criteri e' dato valore, in particolare: 
+ 
+                            
+                            
+                                a)
+                                
+                                    all'attitudine della struttura a favorire la continuita' di vita e di relazioni delle persone accolte, rispetto alla comunita' in cui la struttura stessa e' inserita; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    alla congruita', rispetto al numero di persone accolte nella struttura, del personale cui applicare i trattamenti economici e normativi dei contratti collettivi di cui all'articolo 51 del decreto legislativo 15 giugno 2015, n. 81; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    all'attitudine della struttura a contenere al proprio interno piu' nuclei abitativi diversificati per tipologie di prestazioni, rappresentando un potenziale CRM; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    alla dotazione da parte della struttura di soluzioni tecnologiche finalizzate a garantire la sicurezza del lavoro di cura e delle persone accolte, anche tramite l'implementazione graduale di sistemi di videosorveglianza nei limiti di quanto previsto dalla normativa del lavoro e dal diritto alla riservatezza della persone e della copertura finanziaria a legislazione vigente, nonche' di soluzioni di tecnologia assistenziale volte a favorire l'erogazione di prestazioni sanitarie di telemedicina, televisita, teleconsulto e telemonitoraggio, secondo le vigenti indicazioni di livello nazionale e in coerenza con il sistema di monitoraggio, valutazione e controllo introdotto dall'articolo 15 della legge 5 agosto 2022, n. 118.
+
 ## Art. 32. — Misure per garantire l'accesso alle cure palliative
 
 In conformita' a quanto previsto dalla legge 15 marzo 2010, n. 38, e dal decreto del Presidente del Consiglio dei ministri 12 gennaio 2017, l'accesso alle cure palliative e' garantito per tutti i soggetti anziani non autosufficienti affetti da patologia evolutiva ad andamento cronico ed evolutivo, per le quali non esistono terapie o, se esistono, sono inadeguate o inefficaci ai fini della stabilizzazione della malattia o di un prolungamento significativo della vita. Tale diritto si esercita tramite la rete nazionale e le reti regionali e locali delle cure palliative, di cui all'Accordo Stato-Regioni del 27 luglio 2020, nonche' tramite la rete di cure palliative e terapia del dolore pediatrica di cui all'Accordo Stato-Regioni del 25 marzo 2021, che articolano l'erogazione delle prestazioni assistenziali nei diversi setting assistenziali, in coerenza con quanto previsto dal decreto del Ministro della salute n. 77 del 2022.
+
+2.
+                        
+                            
+                                Le reti locali delle cure palliative assicurano sul territorio di riferimento, attraverso equipe di cure palliative dedicate specificamente formate, attivita' di consulenza, identificazione precoce e tempestiva del bisogno, cura, assistenza, facilitazione e attivazione dei percorsi di dimissioni protette e l'erogazione dell'assistenza nell'ambito dei PAI: 
+ 
+                            
+                            
+                                a)
+                                
+                                    nelle strutture di degenza ospedaliera, ivi inclusi gli hospice in sede ospedaliera; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    nelle attivita' ambulatoriali per l'erogazione di cure palliative precoci e simultanee; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    a domicilio del paziente attraverso le unita' di cure palliative domiciliari (UCPDOM); 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    nelle strutture residenziali sociosanitarie e negli hospice.
 
 Le persone anziane fragili, non autosufficienti, in condizioni croniche complesse e avanzate o che sviluppano traiettorie di malattie ad evoluzione sfavorevole, ricevono nell'ambito delle strutture della rete di cure palliative azioni coordinate e integrate guidate dalla pianificazione condivisa delle cure, che coinvolgono il malato e la famiglia ole varie figure di rappresentativita' legale.
 
@@ -386,6 +906,38 @@ Con uno o piu' decreti del Ministro del lavoro e delle politiche sociali, di con
 
 ## Art. 35. — Beneficiari e opzione
 
+1.
+                        
+                            
+                                La prestazione universale di cui all'articolo 34 e' erogata dall'INPS ed e' riconosciuta, previa espressa richiesta, alla persona anziana non autosufficiente, in possesso dei seguenti requisiti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    un'eta' anagrafica di almeno 80 anni; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    un livello di bisogno assistenziale gravissimo, come definito ai sensi dell'articolo 34, commi 2 e 3; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    un valore dell'Indicatore della situazione economica equivalente (ISEE) per le prestazioni agevolate di natura sociosanitaria, ai sensi dell'articolo 6 del decreto del Presidente del Consiglio dei ministri 5 dicembre 2013, n. 159, in corso di validita', non superiore a euro 6.000; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    titolarita' dell'indennita' di accompagnamento di cui all'articolo 1, primo comma, della legge 11 febbraio 1980, n. 18, ovvero possesso dei requisiti per il riconoscimento del suddetto beneficio.
+
 Le persone anziane non autosufficienti di cui al comma 1 possono richiedere la prestazione universale in modalita' telematica all'INPS, secondo le relative modalita' attuative e operative fissate dal decreto di cui all'articolo 34, comma 4. La richiesta puessere presentata anche presso gli istituti di patronato di cui alla legge 30 marzo 2001, n. 152. Dall'attuazione delle disposizioni di cui al secondo periodo non devono derivare nuovi o maggiori oneri a carico della finanza pubblica. L'INPS procede alla verifica dei requisiti di cui al comma 1, nel rispetto dei limiti di spesa di cui all'articolo 36, comma 6.
 
 L'opzione di cui al comma 2, a domanda, puo' essere revocata in qualsiasi momento, con conseguente ripristino dell'indennita' di accompagnamento di cui all'articolo 1 della legge 11 febbraio 1980, n. 18, e delle ulteriori prestazioni di cui all'articolo 1, comma 164, della legge 30 dicembre 2021, n. 234, per i soggetti gia' titolari delle stesse prima dell'opzione.
@@ -393,6 +945,24 @@ L'opzione di cui al comma 2, a domanda, puo' essere revocata in qualsiasi moment
 ## Art. 36. — Oggetto del beneficio
 
 La prestazione universale di cui all'articolo 34 e' erogabile sotto forma di trasferimento monetario e di servizi alla persona, previa individuazione dello specifico bisogno assistenziale gravissimo, definito ai sensi dell'articolo 34, commi 2 e 3.
+
+2.
+                        
+                            
+                                La prestazione universale, esente da imposizione fiscale e non soggetta a pignoramento, e' erogata su base mensile ed e' composta da: 
+ 
+                            
+                            
+                                a)
+                                
+                                    una quota fissa monetaria corrispondente all'indennita' di accompagnamento di cui all'articolo 1 della legge 11 febbraio 1980, n. 18; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    una quota integrativa definita «assegno di assistenza», pari ad euro 850 mensili, finalizzata a remunerare il costo del lavoro di cura e assistenza, svolto da lavoratori domestici con mansioni di assistenza alla persona titolari di rapporto di lavoro conforme ai contratti collettivi nazionali di settore di cui all'articolo 51 del decreto legislativo 15 giugno 2015, n. 81, o l'acquisto di servizi destinati al lavoro di cura e assistenza e forniti da imprese qualificate nel settore dell'assistenza sociale non residenziale, nel rispetto delle specifiche previsioni contenute nella programmazione integrata di livello regionale e locale.
 
 Sull'importo della quota fissa monetaria di cui al comma 2, lettera a), trova applicazione l'articolo 1, terzo comma, della legge 11 febbraio 1980, n.18.
 
@@ -406,6 +976,38 @@ Qualora dal monitoraggio emerga il verificarsi di scostamenti, anche in via pros
 Alle attivita' amministrative derivanti dall'attuazione dal presente articolo, l'INPS provvede con le risorse umane, strumentali e finanziarie disponibili a legislazione vigente.
 
 ## Art. 37. — Ricognizione delle agevolazioni contributive e fiscali
+
+1.
+                        
+                            
+                                In attuazione di quanto previsto dall'articolo 5, comma 2, lettera a), numero 2, della legge 23 marzo 2023, n. 33, rientrano nelle disposizioni dirette a favorire il livello qualitativo e quantitativo delle prestazioni di lavoro, cura e assistenza in favore delle persone anziane non autosufficienti le agevolazioni fiscali e contributive previste dalle seguenti disposizioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    l'articolo 10, comma 2, terzo periodo, del testo unico delle imposte sui redditi, di cui al decreto del Presidente della Repubblica 22 dicembre 1986, n. 917, di seguito TUIR, che riconosce la deducibilita' dal reddito complessivo, fino all'importo di euro 1.549,37, dei contributi previdenziali e assistenziali versati per gli addetti ai servizi domestici e all'assistenza personale o familiare; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'articolo 15, comma 1, lettera i-septies), del TUIR che riconosce, a favore dei contribuenti con reddito complessivo non superiore a euro 40.000, la detraibilita' del 19 per cento delle spese, per un importo non superiore a euro 2.100, sostenute per gli addetti all'assistenza personale nei casi di non autosufficienza nel compimento degli atti della vita quotidiana; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    l'articolo 51, comma 2, lettera f-ter), del TUIR che stabilisce che non concorrono a formare il reddito del lavoratore dipendente le somme e le prestazioni erogate dal datore di lavoro alla generalita' dei dipendenti o a categorie di dipendenti per la fruizione dei servizi di assistenza ai familiari anziani o non autosufficienti a carico; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    l'articolo 51, comma 2, lettera f-quater), del TUIR che prevede che non concorrono a formare il reddito del lavoratore dipendente i contributi e i premi versati dal datore di lavoro a favore della generalita' dei dipendenti o di categorie di dipendenti per prestazioni, anche assicurative, aventi per oggetto il rischio di non autosufficienza nel compimento degli atti della vita quotidiana o aventi per oggetto il rischio di gravi patologie.
 
 ## Art. 38. — Definizione degli standard formativi e formazione del personale addetto all'assistenza e al supporto delle persone anziane non autosufficienti
 
@@ -456,6 +1058,31 @@ Le disposizioni di cui al titolo II, fermo restando quanto previsto dagli artico
 Le disposizioni del presente decreto sono applicabili nelle regioni a statuto speciale e nelle province autonome di Trento e di Bolzano compatibilmente con i rispettivi statuti e le relative norme di attuazione, anche con riferimento alla legge costituzionale 18 ottobre 2001, n. 3.
 
 ## Art. 42. — Disposizioni finanziarie
+
+1.
+                        
+                            
+                                Alla copertura degli oneri derivanti dall'articolo 36, comma 2, lettera b), pari a 250 milioni di euro per l'anno 2025 e 250 milioni di euro per l'anno 2026, si provvede: 
+ 
+                            
+                            
+                                a)
+                                
+                                    quanto a 75 milioni di euro per l'anno 2025 e 75 milioni di euro per l'anno 2026 mediante corrispondente riduzione delle risorse del Fondo per le non autosufficienze di cui all'articolo 1, comma 1264, della legge 27 dicembre 2006, n. 296; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    quanto a 125 milioni di euro per l'anno 2025 e 125 milioni di euro per l'anno 2026 a valere sul Programma nazionale «Inclusione e lotta alla poverta'» 2021-2027, nel rispetto delle procedure e criteri di ammissibilita' previsti dal Programma medesimo; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    quanto a 50 milioni di euro per l'anno 2025 e 50 milioni di euro per l'anno 2026 a valere sulle disponibilita' della Missione 5 del PNRR.
 
 ## Art. 43. — Entrata in vigore
 

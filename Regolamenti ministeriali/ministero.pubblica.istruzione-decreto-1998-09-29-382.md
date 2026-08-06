@@ -8,8 +8,8 @@ codice_redazionale: 098G0431
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:41Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -42,6 +42,31 @@ Restano fermi gli obblighi in materia di prevenzione e protezione previsti dalle
 Il datore di lavoro puo' svolgere direttamente i compiti propri del responsabile del servizio di prevenzione e protezione dai rischi nel caso in cui il numero dei dipendenti dell'istituzione scolastica o educativa, con esclusione degli allievi di cui all'articolo 1, comma 2, non superi le 200 unita'.
 
 Il datore di lavoro puo', altresi', designare, ai sensi dell'articolo 8 del decreto legislativo 19 settembre 1994, n. 626, il responsabile del servizio di prevenzione e protezione. Il datore di lavoro designa, inoltre, gli addetti al servizio medesimo.
+
+3.
+                    
+                        
+                            Ai fini di cui al comma precedente, il responsabile del servizio di prevenzione e protezione puo' essere individuato tra le seguenti categorie:
+ 
+                        
+                        
+                            a)
+                            
+                                personale interno all'unita' scolastica provvisto di idonea capacita' adeguatamente comprovata da iscrizione ad albi professionali attinenti all'attivita' da svolgere e che si dichiari a tal fine disponibile;
+
+                            
+                        
+                        
+                            b)
+                            
+                                personale interno all'unita' scolastica in possesso di attitudini e capacita' adeguate che si dichiari a tal fine disponibile;
+
+                            
+                        
+                        
+                            c)
+                            
+                                personale interno ad una unita' scolastica in possesso di specifici requisiti adeguatamente documentati e che sia disposto ad operare per una pluralita' di istituti.
 
 Gruppi di istituti possono avvalersi in comune dell'opera di un unico esperto esterno al fine di integrare l'azione di prevenzione e protezione svolta dai dipendenti all'uopo individuati dal datore di lavoro. A tal fine e' stipulata apposita convenzione, prioritariamente, con gli enti locali competenti per la fornitura degli edifici scolastici e dei relativi interventi in materia di sicurezza previa intesa con gli enti medesimi e, in via subordinata, con enti o istituti specializzati in materia di sicurezza sul lavoro, o con altro esperto esterno. Alla stipulazione della predetta convenzione puo' provvedere anche l'autorita' scolastica competente per territorio.
 

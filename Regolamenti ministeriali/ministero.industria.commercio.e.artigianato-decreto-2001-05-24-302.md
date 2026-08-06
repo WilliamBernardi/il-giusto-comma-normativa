@@ -8,8 +8,8 @@ codice_redazionale: 001G0360
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:42Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -20,6 +20,80 @@ DECRETO
 Acquisito il parere del Consiglio di Stato, espresso dalla sezione consultiva per gli atti normativi nell'adunanza del 28 settembre 1998;
 
 ## Art. 1. — Composizione
+
+1.
+                    
+                        
+                            Il Consiglio interministeriale, istituito ai sensi dell'articolo 8 del decreto legislativo 17 marzo 1995, n. 230, modificato dal decreto legislativo 26 maggio 2000, n. 241, e' composto:
+ 
+                        
+                        
+                            a)
+                            
+                                dal direttore generale della Direzione generale dell'energia e delle risorse minerarie del Ministero dell'industria, del commercio e dell'artigianato, con funzioni di presidente;
+
+                            
+                        
+                        
+                            b)
+                            
+                                da un rappresentante del Ministero dell'industria, del commercio e dell'artigianato;
+
+                            
+                        
+                        
+                            c)
+                            
+                                da un rappresentante del Ministero dell'interno;
+
+                            
+                        
+                        
+                            d)
+                            
+                                da un rappresentante del Ministero dell'ambiente;
+
+                            
+                        
+                        
+                            e)
+                            
+                                da un rappresentante del Ministero della difesa;
+
+                            
+                        
+                        
+                            f)
+                            
+                                da un rappresentante del Ministero del lavoro e della previdenza sociale;
+
+                            
+                        
+                        
+                            g)
+                            
+                                da un rappresentante del Ministero della sanita';
+
+                            
+                        
+                        
+                            h)
+                            
+                                da un rappresentante del Ministero dei trasporti e della navigazione;
+
+                            
+                        
+                        
+                            i)
+                            
+                                da un rappresentante della Presidenza del Consiglio dei Ministri - Dipartimento per il coordinamento della protezione civile;
+
+                            
+                        
+                        
+                            j)
+                            
+                                da un rappresentante dell'ANPA.
 
 Il presidente, in caso di assenza o impedimento, puo' delegare l'esercizio delle funzioni al vice direttore generale della Direzione generale dell'energia e delle risorse minerarie del Ministero dell'industria, del commercio e dell'artigianato.
 

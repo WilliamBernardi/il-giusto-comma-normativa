@@ -10,7 +10,7 @@ source: normattiva-opendata
 collection: Atti di recepimento direttive UE
 vigenza_date: 2004-06-22
 zip_date: 2026-07-30
-fetched_at: 2026-08-02T09:40:47Z
+fetched_at: 2026-07-30
 ---
 
 DECRETO LEGISLATIVO
@@ -48,7 +48,166 @@ Chiunque, essendo legalmente tenuto a conservare la documentazione tecnica dei c
 
 Il presente decreto stabilisce le disposizioni e le condizioni volte ad assicurare e garantire il rispetto dei requisiti essenziali di cui all'articolo 5, comma 1, per la sicurezza degli impianti a fune adibiti al trasporto di persone e dei loro elementi costruttivi, nelle fasi di progettazione, costruzione, immissione sul mercato e messa in servizio.
 
+2.
+                    
+                        
+                            Il presente decreto si applica:
+ 
+                        
+                        
+                            a)
+                            
+                                alle funicolari e agli altri impianti i cui veicoli sono portati da ruote o da altri dispositivi di sostegno e trainati da una o piu' funi;
+
+                            
+                        
+                        
+                            b)
+                            
+                                alle funivie, i cui veicoli sono portati o trainati da una o piu' funi; questa categoria comprende anche le cabinovie e le seggiovie;
+
+                            
+                        
+                        
+                            c)
+                            
+                                alle sciovie, che trainano mediante una fune gli utenti muniti di attrezzatura appropriata;
+
+                            
+                        
+                        
+                            d)
+                            
+                                ai sottosistemi indicati nell'allegato I ed ai componenti di sicurezza.
+
+3.
+                    
+                        
+                            Sono esclusi dall'ambito d'applicazione del presente decreto:
+ 
+                        
+                        
+                            a)
+                            
+                                gli ascensori di cui al decreto del Presidente della Repubblica 30 aprile 1999, n. 162;
+
+                            
+                        
+                        
+                            b)
+                            
+                                le tranvie a funi di tipo tradizionale;
+
+                            
+                        
+                        
+                            c)
+                            
+                                gli impianti utilizzati per scopi agricoli;
+
+                            
+                        
+                        
+                            d)
+                            
+                                i materiali specifici fissi e mobili per luna park, parchi di divertimenti, nonche' gli impianti di tali parchi che servono per il divertimento e non come mezzi adibiti al trasporto di persone;
+
+                            
+                        
+                        
+                            e)
+                            
+                                gli impianti installati e utilizzati per scopi industriali;
+
+                            
+                        
+                        
+                            f)
+                            
+                                i traghetti fluviali a fune;
+
+                            
+                        
+                        
+                            g)
+                            
+                                le ferrovie a cremagliera;
+
+                            
+                        
+                        
+                            h)
+                            
+                                gli impianti trainati mediante catene.
+
 ## Art. 4. — D e f i n i z i o n i
+
+1.
+                    
+                        
+                            Ai fini del presente decreto, si intende per:
+ 
+                        
+                        
+                            a)
+                            
+                                «impianto»: il sistema completo installato nel suo sito, composto dall'infrastruttura e dai sottosistemi elencati nell'allegato I; per infrastruttura progettata specificamente per ciascun impianto e realizzata sul sito si intende il tracciato, i dati del sistema, le opere della linea e delle stazioni che sono necessarie per la costruzione e il funzionamento dell'impianto, fondazioni comprese;
+
+                            
+                        
+                        
+                            b)
+                            
+                                «impianti a fune adibiti al trasporto di persone»: impianti costituiti da vari componenti progettati, costruiti, assemblati e autorizzati all'esercizio per il trasporto di persone. In tali impianti, installati nel loro sito, le persone sono trasportate in veicoli oppure da dispositivi di traino che vengono mossi o sospesi da funi disposte lungo il tracciato;
+
+                            
+                        
+                        
+                            c)
+                            
+                                «componente di sicurezza»: qualsiasi componente elementare, gruppo di componenti, sottoinsieme o insieme completo di materiale e qualsiasi dispositivo, incorporato nell'impianto allo scopo di garantire la sicurezza e individuato dall'analisi di sicurezza ai sensi dell'articolo 6, il cui guasto comporta un rischio per la sicurezza delle persone, siano essi utenti, personale o terzi;
+
+                            
+                        
+                        
+                            d)
+                            
+                                «committente dell'impianto o suo rappresentante»: qualsiasi persona fisica o giuridica o il suo mandatario stabilito nel territorio dell'Unione europea che, sulla base di un titolo idoneo, appalta la realizzazione dell'impianto;
+
+                            
+                        
+                        
+                            e)
+                            
+                                «requisiti tecnici per l'esercizio»: l'insieme delle disposizioni e delle misure tecniche che incidono sulla progettazione e sulla realizzazione e sono indispensabili alla sicurezza dell'esercizio;
+
+                            
+                        
+                        
+                            f)
+                            
+                                «requisiti relativi alla manutenzione tecnica»: l'insieme delle disposizioni e delle misure tecniche che incidono sulla progettazione e sulla realizzazione e sono indispensabili alla manutenzione per garantire la sicurezza del servizio;
+
+                            
+                        
+                        
+                            g)
+                            
+                                «specifica europea»: una specifica tecnica comune, un'omologazione tecnica europea o una norma nazionale che recepisce una norma europea;
+
+                            
+                        
+                        
+                            h)
+                            
+                                «amministrazione competente»: il Ministero delle infrastrutture e dei trasporti che esercita le competenze ai sensi dell'articolo 1, comma 9, della legge 24 dicembre 1993, n. 537, e del Capo IX del decreto legislativo 30 luglio 1999, n. 300, o, per i rispettivi territori, le regioni a statuto speciale e le province autonome, secondo le attribuzioni dei loro statuti;
+
+                            
+                        
+                        
+                            i)
+                            
+                                «costruttore o suo rappresentante»: il costruttore di componenti di sicurezza o di sottosistemi per la realizzazione degli impianti a fune adibiti al trasporto di persone o il suo mandatario stabilito nel territorio dell'Unione europea.
 
 ## Art. 5. — Conformita' ai requisiti
 
@@ -128,11 +287,61 @@ Ai fini di cui al comma 2, le regioni a statuto speciale e le province autonome 
 
 Il committente o il suo rappresentante consegna all'amministrazione competente, oltre all'analisi di sicurezza e alla relativa relazione di cui all'articolo 6, comma 2, le dichiarazioni «CE» di conformita' e la relativa documentazione tecnica dei componenti di sicurezza e dei sottosistemi di cui all'allegato I; copia di detti documenti e' altresi' consegnata dal committente o dal suo rappresentante all'esercente dell'impianto che la conserva presso l'impianto medesimo.
 
+5.
+                    
+                        
+                            Il committente o il suo rappresentante o l'esercente dell'impianto rende disponibile, a richiesta dell'organo di vigilanza dell'amministrazione competente, la seguente documentazione:
+ 
+                        
+                        
+                            a)
+                            
+                                l'analisi di sicurezza, la relazione sulla sicurezza e la documentazione tecnica ed i documenti relativi alle caratteristiche dell'impianto;
+
+                            
+                        
+                        
+                            b)
+                            
+                                eventuali documenti che attestano la conformita' dei componenti di sicurezza e dei sottosistemi di cui all'allegato I;
+
+                            
+                        
+                        
+                            c)
+                            
+                                gli atti che stabiliscono le condizioni e le limitazioni di esercizio, nonche' le istruzioni per la riparazione, la sorveglianza, la regolazione e la manutenzione dell'impianto.
+
 Restano ferme le disposizioni vigenti in materia di conduzione e manutenzione periodica degli impianti ai fitti della sicurezza, nonche' di tenuta delle prescritte registrazioni, fatte salve le disposizioni previste dal presente decreto.
 
 ## Art. 13. — Misure di salvaguardia
 
 L'amministrazione competente adotta provvedimenti provvisori per limitare le condizioni di impiego di un componente di sicurezza o di un sottosistema o per vietarne l'utilizzazione se constata che tale componente di sicurezza pur recante la marcatura «CE» di conformita' di cui all'articolo 20, immesso sul mercato e utilizzato conformemente alla sua destinazione, o che tale sottosistema pur corredato della dichiarazione «CE» di conformita' di cui all'articolo 11 e utilizzato conformemente alla sua destinazione, mette a rischio la salute e la sicurezza delle persone e la sicurezza dei beni.
+
+2.
+                    
+                        
+                            Il Ministero delle infrastrutture e dei trasporti informa immediatamente la Commissione europea ed il Ministero delle attivita' produttive dei provvedimenti adottati ai sensi del comma 1, direttamente o dalle altre amministrazioni competenti, indicando altresi' se la mancata conformita' deriva, in particolare:
+ 
+                        
+                        
+                            a)
+                            
+                                dall'inosservanza dei requisiti essenziali di cui all'articolo 5, comma 1;
+
+                            
+                        
+                        
+                            b)
+                            
+                                da una non corretta applicazione delle specifiche europee di cui all'articolo 4, comma 1, lettera g), qualora ne sia invocata l'applicazione;
+
+                            
+                        
+                        
+                            c)
+                            
+                                da una lacuna delle specifiche europee di cui all'articolo 4, comma 1, lettera g).
 
 Ai fini di cui al comma 2, le regioni a statuto speciale e le province autonome effettuano conformi comunicazioni al Ministero delle infrastrutture e dei trasporti sui provvedimenti di cui al comma 1 da essi adottati.
 
@@ -210,6 +419,31 @@ Con decreto del Ministro delle infrastrutture e dei trasporti, di concerto con i
 Qualsiasi decisione adottata in applicazione del presente decreto che limiti l'impiego dei componenti di sicurezza o dei sottosistemi in un impianto o la loro immissione sul mercato deve essere motivata. Essa e' notificata ai soggetti interessati con l'indicazione delle procedure di ricorso ammesse dalla legislazione vigente e dei termini entro i quali detti ricorsi devono essere presentati.
 
 ((
+
+2.
+                    
+                        
+                            La costruzione e la messa in servizio degli impianti, i cui progetti definitivi siano stati presentati per l'approvazione o il rilascio del nulla osta tecnico ai fini della sicurezza entro il 2 maggio 2004, ferma restando l'applicazione delle altre norme del presente decreto, e' consentita in deroga a quanto previsto dagli articoli 9 e 11 a condizione che:
+ 
+                        
+                        
+                            a)
+                            
+                                siano comunque rispettate le procedure, le norme e le specifiche tecniche nazionali vigenti necessarie e rilevanti per garantire la rispondenza dei componenti di sicurezza e dei sottosistemi utilizzati nell'impianto ai requisiti essenziali di cui all'articolo 5, comma 1;
+
+                            
+                        
+                        
+                            b)
+                            
+                                la costruzione dell'impianto sia completata entro e non oltre ventiquattro mesi dalla data del 2 maggio 2004;
+
+                            
+                        
+                        
+                            c)
+                            
+                                la messa in servizio avvenga entro gli ulteriori sei mesi dalla scadenza della data di cui alla lettera b).
 
 ))
 

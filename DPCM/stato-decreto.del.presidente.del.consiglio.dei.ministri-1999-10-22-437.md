@@ -8,8 +8,8 @@ codice_redazionale: 099G0473
 vigente: true
 source: normattiva-opendata
 collection: DPCM
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:40:12Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DEL CONSIGLIO DEI MINISTRI
@@ -29,6 +29,59 @@ Sulla proposta del Ministro dell'interno, di concerto con il Ministro per la fun
 
 ## Art. 1. — D e f i n i z i o n i
 
+1.
+                    
+                        
+                            Ai fini del presente decreto si intende:
+ 
+                        
+                        
+                            a)
+                            
+                                per carta di identita' elettronica, il documento di riconoscimento personale rilasciato dal comune su supporto informatico;
+
+                            
+                        
+                        
+                            b)
+                            
+                                per documento d'identita' elettronico ai sensi dell'articolo 2, comma 10, della legge 15 maggio 1997, n. 127, come sostituito dall'articolo 2, comma 4, della legge 16 giugno 1998, n. 191, il documento analogo alla carta d'identita' elettronica e rilasciato dal comune prima del compimento del quindicesimo anno di eta';
+
+                            
+                        
+                        
+                            c)
+                            
+                                per documento informatico, la rappresentazione informatica di atti, fatti o dati giuridicamente rilevanti;
+
+                            
+                        
+                        
+                            d)
+                            
+                                per dati identificativi della persona, il nome, il cognome, il sesso, la statura, la data e il luogo di nascita, gli estremi del relativo atto;
+
+                            
+                        
+                        
+                            e)
+                            
+                                per "altri dati" le informazioni di carattere individuale generate, gestite e distribuite dalle pubbliche amministrazioni per attivita' amministrative e per l'erogazione di servizi al cittadino;
+
+                            
+                        
+                        
+                            f)
+                            
+                                per regole tecniche, le specifiche di carattere tecnico, organizzativo, funzionale e di sicurezza informatica, ivi compresa ogni disposizione che ad esse si applichi, relative alle tecnologie e ai materiali da utilizzare per la produzione e l'uso della carta di identita';
+
+                            
+                        
+                        
+                            g)
+                            
+                                per pubbliche amministrazioni, le amministrazioni di cui all'articolo 1, comma 2, del decreto legislativo 3 febbraio 1993, n. 29, e successive modificazioni.
+
 ## Art. 2. — Rilascio della carta di identita'
  e del documento di identita' elettronico
 
@@ -40,6 +93,66 @@ Il Ministero delle finanze genera ed assegna alle persone fisiche il codice fisc
 
 ## Art. 3. — Forma, contenuto e funzione della carta d'identita'
  elettronica e del documento di identita' elettronico
+
+1.
+                    
+                        
+                            La carta di identita' elettronica e il documento d'identita' elettronico devono contenere, con immediata visibilita' e memorizzati con modalita' informatiche di sicurezza sul documento ai sensi dell'articolo 8:
+ 
+                        
+                        
+                            a)
+                            
+                                dati identificativi della persona;
+
+                            
+                        
+                        
+                            b)
+                            
+                                codice fiscale;
+
+                            
+                        
+                        
+                            c)
+                            
+                                dati di residenza;
+
+                            
+                        
+                        
+                            d)
+                            
+                                cittadinanza;
+
+                            
+                        
+                        
+                            e)
+                            
+                                fotografia;
+
+                            
+                        
+                        
+                            f)
+                            
+                                eventuale indicazione di non validita' ai fini dell'espatrio;
+
+                            
+                        
+                        
+                            g)
+                            
+                                codice numerico identificativo del documento, codice del comune di rilascio, data del rilascio e data di scadenza;
+
+                            
+                        
+                        
+                            h)
+                            
+                                sottoscrizione del titolare o di uno degli esercenti la potesta' genitoriale o la tutela.
 
 Il documento d'identita' elettronico puo' essere rilasciato anche senza la fotografia del titolare; in tal caso esso non e' valido per l'espatrio.
 
@@ -92,6 +205,38 @@ Fermo restando quanto previsto al comma 3, nel caso in cui la sperimentazione no
 ## Art. 10. — Comitato di monitoraggio
 
 Ferma restando la competenza del Ministro dell'interno per l'autorizzazione delle sperimentazioni, e' costituito un comitato di monitoraggio composto da diciotto membri, di cui tre della Presidenza del Consiglio dei Ministri, due del Dipartimento della funzione pubblica, quattro del Ministero dell'interno, due del Ministero delle finanze, due del Ministero della sanita', tre dei comuni, designati dalla conferenza Statocitta' e autonomie locali, due dell'Autorita' per l'informatica nella pubblica amministrazione.
+
+2.
+                    
+                        
+                            Il comitato di cui al comma 1 svolge funzioni di collegamento tra la fase di sperimentazione e la fase di avvio a regime della carta d'identita' elettronica. In particolare il comitato svolge i seguenti compiti:
+ 
+                        
+                        
+                            a)
+                            
+                                esprime pareri sulla validita' dei progetti avviati e dei servizi previsti nelle sperimentazioni;
+
+                            
+                        
+                        
+                            b)
+                            
+                                effettua il monitoraggio dell'andamento delle sperimentazioni al fine di valutare e favorire le interrelazioni tra le stesse;
+
+                            
+                        
+                        
+                            c)
+                            
+                                formula proposte per la migliore utilizzazione dei documenti elettronici, una volta conclusa la sperimentazione;
+
+                            
+                        
+                        
+                            d)
+                            
+                                garantisce il raccordo delle sperimentazioni, nel caso in cui la carta d'identita' elettronica o il documento elettronico contengano dati amministrativi del Servizio sanitario nazionale, con la sperimentazione della tessera sanitaria nazionale.
 
 ## Art. 11. — Norme transitorie
 

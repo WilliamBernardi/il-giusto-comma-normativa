@@ -8,8 +8,8 @@ codice_redazionale: 001G0278
 vigente: true
 source: normattiva-opendata
 collection: DPR
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:48:06Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -45,11 +45,68 @@ Le disposizioni del presente decreto non si applicano agli esercenti il commerci
 
 ## Art. 2. — Ammissibilita'
 
+1.
+                    
+                        
+                            E' comunque consentito effettuare la vendita sottocosto:
+ 
+                        
+                        
+                            a)
+                            
+                                dei prodotti alimentari freschi e deperibili;
+
+                            
+                        
+                        
+                            b)
+                            
+                                dei prodotti alimentari qualora manchino meno di tre giorni alla data di scadenza o meno di quindici giorni alla data del termine minimo di conservazione, nel rispetto delle disposizioni del decreto legislativo 27 gennaio 1992, n. 109;
+
+                            
+                        
+                        
+                            c)
+                            
+                                dei prodotti tipici delle festivita' tradizionali, qualora sia trascorsa la ricorrenza o la data della loro celebrazione;
+
+                            
+                        
+                        
+                            d)
+                            
+                                dei prodotti il cui valore commerciale sia significativamente diminuito a causa di modifiche della tecnologia utilizzata per la loro produzione o di sostanziali innovazioni tecnologiche apportate agli stessi prodotti, ovvero a causa dell'introduzione di nuove normative relative alla loro produzione o commercializzazione;
+
+                            
+                        
+                        
+                            e)
+                            
+                                dei prodotti non alimentari difettati, dei quali sia lecita la vendita e garantita la sicurezza secondo la vigente disciplina, o che abbiano subito un parziale deterioramento imputabile a terzi, ovvero ad agenti naturali o a fatti accidentali nonche' di quelli usati per dimostrazioni, mostre, fiere o prove o che, comunque, siano stati concretamente utilizzati prima della vendita.
+
 E' altresi' consentito effettuare la vendita sottocosto in caso di ricorrenza dell'apertura dell'esercizio commerciale o della partecipazione al gruppo del quale l'esercizio fa parte, con cadenza almeno quinquennale; di apertura di un nuovo esercizio commerciale; di avvenuta ristrutturazione totale dei locali anche qualora si sia proceduto, prima della ristrutturazione, alla vendita di liquidazione; o di modifica e integrazione dell'insegna tali da incidere sul carattere individuante della stessa.
 
 Le vendite sottocosto di cui al presente articolo non sono soggette alla comunicazione di cui all'articolo 1, comma 4.
 
 ## Art. 3. — Obblighi di informazione al consumatore
+
+1.
+                    
+                        
+                            Fermo quanto disposto dall'articolo 15, comma 5, del decreto legislativo n. 114 del 1998, ai fini della garanzia della tutela e della corretta informazione del consumatore, le vendite sottocosto previste dal presente decreto sono effettuate nel rispetto delle seguenti condizioni:
+ 
+                        
+                        
+                            a)
+                            
+                                specifica comunicazione anche nel caso di messaggi pubblicitari all'esterno o all'interno del locale, recante l'indicazione chiara ed inequivocabile dei prodotti, del quantitativo disponibile per ciascuna referenza e del periodo temporale della vendita, nonche' delle relative circostanze nel caso dei prodotti di cui all'articolo 2, comma 1, lettere d) ed e);
+
+                            
+                        
+                        
+                            b)
+                            
+                                inequivocabile identificazione dei prodotti in vendita sottocosto all'interno dell'esercizio commerciale.
 
 In caso di impossibilita' a rispettare, per l'intero periodo preannunciato, le condizioni di cui al comma 1, lettera a), e' immediatamente resa pubblica la fine anticipata dell'offerta con i medesimi mezzi di comunicazione.
 

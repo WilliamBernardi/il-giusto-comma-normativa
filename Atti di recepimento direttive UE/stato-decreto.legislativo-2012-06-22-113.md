@@ -10,7 +10,7 @@ source: normattiva-opendata
 collection: Atti di recepimento direttive UE
 vigenza_date: 2018-06-07
 zip_date: 2026-07-30
-fetched_at: 2026-08-02T09:40:47Z
+fetched_at: 2026-07-30
 ---
 
 DECRETO LEGISLATIVO
@@ -69,7 +69,52 @@ Ai fini del presente decreto, le soglie minime prescritte per il computo dei dip
 
 Ai soli fini del presente decreto si intende per «impresa controllante» un'impresa che puo' esercitare un'influenza dominante su un'altra impresa, denominata «impresa controllata».
 
+2.
+                        
+                            
+                                Si presume la possibilita' di esercitare un'influenza dominante, salvo prova contraria, se un'impresa direttamente o indirettamente nei confronti di un'altra impresa: 
+ 
+                            
+                            
+                                a)
+                                
+                                    detiene la maggioranza del capitale sottoscritto dall'impresa; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    dispone della maggioranza dei voti in rapporto alle partecipazioni al capitale dell'impresa; 
+oppure 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    puo' nominare piu' della meta' dei membri del consiglio di amministrazione, di direzione o di vigilanza dell'impresa.
+
 Ai fini dell'applicazione del comma 2, i diritti di voto e di nomina dell'impresa controllante comprendono i diritti di qualsiasi altra impresa controllata, nonche' delle persone o degli enti che agiscono a nome proprio, ma per conto dell'impresa controllante o di un'altra impresa controllata.
+
+4.
+                        
+                            
+                                In deroga a quanto previsto ai commi 1 e 2, un'impresa non e' considerata «impresa controllante» rispetto a un'altra impresa di cui possiede pacchetti azionari nei seguenti casi: 
+ 
+                            
+                            
+                                a)
+                                
+                                    quando un soggetto che svolge attivita' bancaria, assicurativa o finanziaria in modo professionale, compresa la negoziazione di valori mobiliari per conto proprio o di terzi, detiene temporaneamente, a qualsiasi titolo, partecipazioni al capitale di un'impresa, purche' non eserciti i diritti di voto inerenti alle partecipazioni stesse, ovvero purche' eserciti i predetti diritti soltanto per favorire la vendita delle partecipazioni stesse, dell'impresa nel suo complesso o delle sue attivita', di suoi rami, o di elementi del suo patrimonio.
+La vendita deve avvenire entro un anno dalla data della registrazione della partecipazione sul libro dei soci della societa' in cui ha acquisito una partecipazione o entro un periodo maggiore stabilito dal Ministro dell'economia e delle finanze o da altre autorita' competenti; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    quando una societa' di partecipazione finanziaria acquisisce, direttamente o indirettamente, il controllo di un'impresa, sia tramite acquisto di partecipazioni del capitale, sia tramite qualsiasi altro mezzo, purche' i diritti di voto inerenti alle partecipazioni detenute siano esercitati, tramite la nomina di membri del consiglio di amministrazione e del collegio sindacale, o di organi equivalenti, dell'impresa di cui essa detiene partecipazioni, unicamente per salvaguardare il pieno valore di tali investimenti. Ai fini della presente lettera, per societa' di partecipazione finanziaria si intendono le societa' la cui attivita' prevalente consiste nell'acquisizione di partecipazioni in altre imprese, nonche' nella gestione e valorizzazione di tali partecipazioni.
 
 La presunzione dell'esercizio dell'influenza dominante non opera nei confronti dei soggetti sottoposti alle procedure concorsuali.
 
@@ -140,6 +185,66 @@ Nel rispetto di quanto previsto al comma 8, la direzione centrale sostiene le sp
 
 La direzione centrale e la delegazione speciale di negoziazione devono negoziare con spirito di cooperazione sulle modalita' di attuazione dell'informazione e della consultazione dei lavoratori previste dall'articolo 1, comma 1.
 
+2.
+                        
+                            
+                                Fatta salva l'autonomia delle parti, l'accordo previsto dal comma 1, stipulato in forma scritta tra la direzione centrale e la delegazione speciale di negoziazione, determina: 
+ 
+                            
+                            
+                                a)
+                                
+                                    le imprese che fanno parte del gruppo di imprese di dimensioni comunitarie o gli stabilimenti dell'impresa di dimensioni comunitarie interessati dall'accordo, secondo le definizioni di cui all'articolo 2; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la composizione del Cae, il numero di membri, la distribuzione dei seggi, che consenta di tener conto, per quanto possibile, della necessita' di una rappresentanza equilibrata dei lavoratori in base alle attivita', alle categorie di lavoratori e al sesso, e la durata del mandato; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    le competenze e le materie della procedura d'informazione e consultazione del Cae, nonche' le modalita' in cui l'informazione e la consultazione del Cae si coordinano con l'informazione e la consultazione degli organi di rappresentanza nazionali dei lavoratori nel rispetto dei principi di cui all'articolo 1, comma 6; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    il luogo, la frequenza e la durata delle riunioni del Cae; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    le risorse finanziarie e materiali da attribuire al Cae, ivi comprese le spese di un adeguato servizio di interpretariato; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    la data di entrata in vigore dell'accordo e la sua durata, le modalita' in base alle quali e' possibile modificare o cessare l'accordo, i casi in cui l'accordo e' rinegoziato e la procedura per rinegoziarlo, eventualmente anche nei casi di modifica della struttura dell'impresa di dimensioni comunitarie o del gruppo di imprese di dimensioni comunitarie; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    il contenuto dell'informazione e della consultazione; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    se del caso, la composizione, le modalita' di designazione, le attribuzioni e le modalita' di riunione del comitato ristretto istituito in seno al Cae.
+
 La direzione centrale e la delegazione speciale di negoziazione possono decidere per iscritto di istituire una o piu' procedure per l'informazione e la consultazione in aggiunta o in alternativa al Cae. L'accordo deve stabilire secondo quali modalita' i rappresentanti dei lavoratori esercitano il diritto di riunirsi per discutere anche delle informazioni che sono loro comunicate. In particolare, queste informazioni riguardano questioni transnazionali che incidono notevolmente sugli interessi dei lavoratori.
 
 Gli accordi di cui al presente articolo non sono sottoposti, tranne disposizione contraria contenuta negli stessi, alle prescrizioni accessorie previste dall'articolo 16.
@@ -202,6 +307,25 @@ Nel corso dei negoziati il Cae o i Cae esistenti continuano ad operare secondo l
 
 ## Art. 15. — Accordi in vigore
 
+1.
+                        
+                            
+                                Fatto salvo quanto disposto dall'articolo 14, non sono sottoposte agli obblighi derivanti dal presente decreto, le imprese di dimensioni comunitarie e i gruppi di imprese di dimensioni comunitarie in cui: 
+ 
+                            
+                            
+                                a)
+                                
+                                    un accordo o piu' accordi applicabili all'insieme dei lavoratori che prevedevano una informazione e una consultazione transnazionale dei lavoratori, sono stati conclusi entro il 22 settembre 1996, con le organizzazioni sindacali di cui all'articolo 5, comma 1, e, se scaduti, sono stati prorogati o qualora tali accordi siano adeguati in relazione a modifiche alla struttura delle imprese o gruppi di imprese; 
+ovvero 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    un accordo concluso a norma dell'articolo 6 della direttiva 94/45/CE e' firmato o rivisto tra il 5 giugno 2009 e il 5 giugno 2011.
+
 La disciplina applicabile al momento della firma o della revisione dell'accordo continua a trovare applicazione per le imprese o gruppi di imprese rientranti nell'ambito di applicazione di cui al comma 1, lettera b).
 
 Allo scadere degli accordi di cui ai commi 1 e 2, le relative parti possono decidere congiuntamente di rinnovarli o di rivederli.
@@ -245,6 +369,70 @@ Ferma restando l'eventuale responsabilita' civile, in caso di violazione dell'ob
 
 ## Art. 18. — Procedura di conciliazione preventiva 
  e di irrogazione delle sanzioni
+
+1.
+                        
+                            
+                                Al fine di garantire la piena osservanza degli obblighi stabiliti nel presente decreto, le parti stipulanti prevedono la costituzione di una commissione di conciliazione per risolvere in via preliminare e non contenziosa le controversie relative: 
+ 
+                            
+                            
+                                a)
+                                
+                                    alla violazione dell'obbligo previsto dall'articolo 4, comma 4, di acquisizione e comunicazione delle informazioni indispensabili all'avvio dei negoziati di cui agli articoli 5 e seguenti, in particolare quelle concernenti la struttura dell'impresa o del gruppo e la sua forza lavoro, ivi incluse le informazioni relative al numero dei lavoratori di cui all'articolo 2, comma 1, lettere b) e d); 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    alla violazione degli obblighi di informazione e consultazione stabiliti nell'accordo di cui all'articolo 9 o nelle prescrizioni accessorie di cui all'articolo 16 e degli ulteriori obblighi stabiliti nell'accordo o nelle prescrizioni accessorie in ordine alla realizzazione delle condizioni e degli strumenti necessari al funzionamento del Cae o della procedura per l'informazione e la consultazione, previsti dall'articolo 1, comma 2; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    alla natura riservata delle informazioni fornite e qualificate come tali ai sensi dell'articolo 10, comma 1, nonche' alla concreta determinazione dei criteri obiettivi per l'individuazione delle informazioni suscettibili di creare notevoli difficolta' al funzionamento o all'attivita' esercitata dalle imprese interessate o di arrecare loro danno o realizzare turbativa dei mercati; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    alla divulgazione di informazioni riservate in violazione del predetto articolo 10, comma 1; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    alla fondatezza, alla luce dell'articolo 10, comma 2, delle ragioni del diniego opposto alla comunicazione di informazioni.
+
+2.
+                        
+                            
+                                La commissione tecnica di conciliazione e' composta da tre membri di cui: 
+ 
+                            
+                            
+                                a)
+                                
+                                    uno designato dal Cae o dalla delegazione speciale di negoziazione o dai rappresentanti dei lavoratori che operano nell'ambito della procedura di informazione e consultazione; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    uno designato dalla direzione centrale; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    uno designato dalle parti di comune accordo.
 
 Qualora insorga una delle controversie di cui al comma 1, la parte interessata manifesta all'altra parte la volonta' di risolvere la contestazione mediante richiesta di espletamento del tentativo di conciliazione dinanzi alla commissione di cui al comma 2. In tale ipotesi le parti, nel termine di venti giorni dalla richiesta, nominano i membri della commissione. In caso di mancata nomina entro il predetto termine del membro di cui al comma 2, lettera c), quest'ultimo puo' essere nominato, su ricorso della parte piu' diligente, dal presidente del tribunale nel cui circondario ha sede la Direzione territoriale del lavoro competente ad irrogare le sanzioni amministrative per le asserite violazioni, in caso di esito negativo della procedura di conciliazione, individuata ai sensi dei commi 6 e 7.
 

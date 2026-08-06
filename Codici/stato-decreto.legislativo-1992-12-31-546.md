@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Codici
 vigenza_date: 2026-04-21
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:38:34Z
+zip_date: 2026-08-04
+fetched_at: 2026-08-04
 ---
 
 DECRETO LEGISLATIVO
@@ -193,7 +193,120 @@ Le parti, diverse dagli enti impositori, dagli agenti della riscossione e dai so
 
 Per le controversie di valore fino a tremila euro le parti possono stare in giudizio senza assistenza tecnica. Per valore della lite si intende l'importo del tributo al netto degli interessi e delle eventuali sanzioni irrogate con l'atto impugnato; in caso di controversie relative esclusivamente alle irrogazioni di sanzioni, il valore e' costituito dalla somma di queste.
 
+3.
+                        
+                            
+                                Sono abilitati all'assistenza tecnica, se iscritti nei relativi albi professionali o nell'elenco di cui al comma 4: 
+ 
+                            
+                            
+                                a)
+                                
+                                    gli avvocati; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    i soggetti iscritti nella Sezione A commercialisti dell'Albo dei dottori commercialisti e degli esperti contabili; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    i consulenti del lavoro; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    i soggetti di cui all'articolo 63, terzo comma, del decreto del Presidente della Repubblica 29 settembre 1973, n. 600; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    i soggetti gia' iscritti alla data del 30 settembre 1993 nei ruoli di periti ed esperti tenuti dalle camere di commercio, industria, artigianato e agricoltura per la subcategoria tributi, in possesso di diploma di laurea in giurisprudenza o in economia e commercio o equipollenti o di diploma di ragioniere limitatamente alle materie concernenti le imposte di registro, di successione, i tributi locali, l'IVA, l'IRPEF, l'IRAP e l'IRES; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    i funzionari delle associazioni di categoria che, alla data di entrata in vigore del decreto legislativo 31 dicembre 1992, n. 545, risultavano iscritti negli elenchi tenuti dalle Intendenze di finanza competenti per territorio, ai sensi dell'ultimo periodo dell'articolo 30, terzo comma, del decreto del Presidente della Repubblica 26 ottobre 1972, n. 636; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    i dipendenti delle associazioni delle categorie rappresentate nel Consiglio nazionale dell'economia e del lavoro (C.N.E.L.) e i dipendenti delle imprese, o delle loro controllate ai sensi dell'articolo 2359 del codice civile, primo comma, numero 1), limitatamente alle controversie nelle quali sono parti, rispettivamente, gli associati e le imprese o loro controllate, in possesso del diploma di laurea magistrale in giurisprudenza o in economia ed equipollenti, o di diploma di ragioneria e della relativa abilitazione professionale; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    i dipendenti dei centri di assistenza fiscale (CAF) di cui all'articolo 32 del decreto legislativo 9 luglio 1997, n. 241, e delle relative societa' di servizi, purche' in possesso di diploma di laurea magistrale in giurisprudenza o in economia ed equipollenti, o di diploma di ragioneria e della relativa abilitazione professionale, limitatamente alle controversie dei propri assistiti originate da adempimenti per i quali il CAF ha prestato loro assistenza.
+
 L'elenco dei soggetti di cui al comma 3, lettere d), e), f), g) ed h), e' tenuto dal ((Dipartimento della giustizia tributaria)) del Ministero dell'economia e delle finanze che vi provvede con le risorse umane, strumentali e finanziarie disponibili a legislazione vigente senza nuovi o maggiori oneri a carico del bilancio dello Stato. Con decreto del Ministro dell'economia e delle finanze, sentito il Ministero della giustizia, emesso ai sensi dell'articolo 17, comma 3, della legge 23 agosto 1988, n. 400, sono disciplinate le modalita' di tenuta dell'elenco, nonche' i casi di incompatibilita', diniego, sospensione e revoca della iscrizione anche sulla base dei principi contenuti nel codice deontologico forense. L'elenco e' pubblicato nel sito internet del Ministero dell'economia e delle finanze.
+
+5.
+                        
+                            
+                                Per le controversie di cui all'articolo 2, comma 2, primo periodo, sono anche abilitati all'assistenza tecnica, se iscritti nei relativi albi professionali: 
+ 
+                            
+                            
+                                a)
+                                
+                                    gli ingegneri; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    gli architetti; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    i geometri; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    i periti industriali; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    i dottori agronomi e forestali; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    gli agrotecnici; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    i periti agrari.
 
 Per le controversie relative ai tributi doganali sono anche abilitati all'assistenza tecnica gli spedizionieri doganali iscritti nell'apposito albo.
 
@@ -377,9 +490,161 @@ La liquidazione delle spese del giudizio tiene in ogni caso conto della violazio
 
 Il processo e' introdotto con ricorso alla ((corte di giustizia tributaria di primo grado)).
 
+2.
+                        
+                            
+                                Il ricorso deve contenere l'indicazione: 
+ 
+                            
+                            
+                                a)
+                                
+                                    della ((corte di giustizia tributaria di primo e secondo grado)) cui e' diretto; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    del ricorrente e del suo legale rappresentante, della relativa residenza o sede legale o del domicilio eventualmente eletto nel territorio dello Stato, nonche' del codice fiscale e dell'indirizzo di posta elettronica certificata; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    dell'ufficio nei cui confronti il ricorso e' proposto; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    dell'atto impugnato e dell'oggetto della domanda; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    dei motivi.
+
+3.
+                        
+                            
+                                Il ricorso deve essere sottoscritto dal difensore e contenere l'indicazione: 
+ 
+                            
+                            
+                                a)
+                                
+                                    della categoria di cui all'articolo 12 alla quale appartiene il difensore; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    dell'incarico a norma dell'articolo 12, comma 7, salvo che il ricorso non sia sottoscritto personalmente; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    dell'indirizzo di posta elettronica certificata del difensore.
+
 Il ricorso e' inammissibile se manca o e' assolutamente incerta una delle indicazioni di cui al comma 2, ad eccezione di quella relativa al codice fiscale e all'indirizzo di posta elettronica certificata, o non e' sottoscritto a norma del comma precedente .
 
 ## Art. 19. — Atti impugnabili e oggetto del ricorso
+
+1.
+                        
+                            
+                                Il ricorso puo' essere proposto avverso: 
+ 
+                            
+                            
+                                a)
+                                
+                                    l'avviso di accertamento del tributo; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'avviso di liquidazione del tributo; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il provvedimento che irroga le sanzioni; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    il ruolo e la cartella di pagamento; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    l'avviso di mora; 
+
+                                
+                            
+                            
+                                e-bis)
+                                
+                                    l'iscrizione di ipoteca sugli immobili di cui all'articolo 77 del decreto del Presidente della Repubblica 29 settembre 1973, n. 602, e successive modificazioni; 
+
+                                
+                            
+                            
+                                e-ter)
+                                
+                                    il fermo di beni mobili registrati di cui all'articolo 86 del decreto del Presidente della Repubblica 29 settembre 1973, n. 602, e successive modificazioni; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    gli atti relativi alle operazioni catastali indicate nell'art. 2, comma 2; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    il rifiuto espresso o tacito della restituzione di tributi, sanzioni pecuniarie ed interessi o altri accessori non dovuti; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    il diniego o la revoca di agevolazioni o il rigetto di domande di definizione agevolata di rapporti tributari; 
+
+                                
+                            
+                            
+                                h-bis)
+                                
+                                    la decisione di rigetto dell'istanza di apertura di procedura amichevole presentata ai sensi della direttiva (UE) 2017/1852 del Consiglio del 10 ottobre 2017 o ai sensi degli Accordi e delle Convenzioni internazionali per evitare le doppie imposizioni di cui l'Italia e' parte ovvero ai sensi della Convenzione relativa all'eliminazione delle doppie imposizioni in caso di rettifica degli utili di imprese associate n. 90/436/CEE; (48) 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    ogni altro atto per il quale la legge ne preveda l'autonoma impugnabilita' davanti alle corti di giustizia tributaria di primo e secondo grado.
 
 Gli atti espressi di cui al comma 1 devono contenere l'indicazione del termine entro il quale il ricorso deve essere proposto e della corte di giustizia tributaria di primo e secondo grado competente, nonche' delle relative forme da osservare ai sensi dell'art. 20.
 
@@ -643,12 +908,48 @@ Il processo e' sospeso quando e' presentata querela di falso o deve essere decis
 
 La ((corte di giustizia tributaria di primo e secondo grado)) dispone la sospensione del processo in ogni altro caso in cui essa stessa o altra ((corte di giustizia tributaria di primo e secondo grado)) deve risolvere una controversia dalla cui definizione dipende la decisione della causa.
 
+1-ter.
+                        
+                            
+                                Il processo tributario e' altresi' sospeso nei seguenti casi: 
+ 
+                            
+                            
+                                a)
+                                
+                                    su richiesta conforme delle parti, nel caso in cui sia stata presentata un'istanza di apertura di procedura amichevole ai sensi degli Accordi e delle Convenzioni internazionali per evitare le doppie imposizioni di cui l'Italia e' parte ovvero ai sensi della Convenzione relativa all'eliminazione delle doppie imposizioni in caso di rettifica degli utili di imprese associate n. 90/436/CEE; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    su richiesta del contribuente, nel caso in cui sia stata presentata un'istanza di apertura di procedura amichevole ai sensi della direttiva (UE) 2017/1852 del Consiglio del 10 ottobre 2017. (48)
+
 ---------------
                             AGGIORNAMENTO (48)
                             
  Il D.Lgs. 10 giugno 2020, n. 49 ha disposto (con l'art. 25, comma 1) che la presente modifica si applica alle istanze di apertura di procedura amichevole presentate a decorrere dal 1° luglio 2019 sulle questioni controverse riguardanti il reddito o il patrimonio, relativi al periodo d'imposta che inizia il 1° gennaio 2018 e ai successivi periodi d'imposta.
 
 ## Art. 40. — Interruzione del processo
+
+1.
+                        
+                            
+                                Il processo e' interrotto se, dopo la proposizione del ricorso, si verifica: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il venir meno, per morte o altre cause, o la perdita della capacita' di stare in giudizio di una delle parti, diversa dall'ufficio tributario, o del suo legale rappresentante o la cessazione di tale rappresentanza; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la morte, la radiazione o sospensione dall'albo o dall'elenco di uno dei difensori incaricati a sensi dell'art. 12.
 
 L'interruzione si ha al momento dell'evento se la parte sta in giudizio personalmente e nei casi di cui ((al comma 1, lettera b))).
 In ogni altro caso l'interruzione si ha al momento in cui l'evento e' dichiarato o in pubblica udienza o per iscritto con apposita comunicazione del difensore della parte a cui l'evento si riferisce.
@@ -744,6 +1045,24 @@ Durante il periodo di sospensione cautelare si applicano gli interessi al tasso 
  Il D.Lgs. 30 dicembre 2023, n. 220 ha disposto (con l'art. 4, comma 2) che "Le disposizioni del presente decreto si applicano ai giudizi instaurati, in primo e in secondo grado, con ricorso notificato successivamente al 1° settembre 2024, fatta eccezione per quelle di cui all'articolo 1, comma 1, lettere d), e), f), i), n), o), p), q), s), t), u), v), z), aa), bb), cc) e dd) che si applicano ai giudizi instaurati, in primo e in secondo grado, nonche' in Cassazione, a decorrere dal giorno successivo all'entrata in vigore del presente decreto".
 
 ## Art. 47-bis. — Sospensione di atti volti al recupero di aiuti di Stato e definizione delle relative controversie).
+
+1.
+                        
+                            
+                                Qualora sia chiesta in via cautelare la sospensione dell'esecuzione di un atto volto al recupero di aiuti di Stato dichiarati incompatibili in esecuzione di una decisione adottata dalla Commissione europea ai sensi dell'articolo 14 del regolamento (CE) n. 659/1999 del Consiglio, del 22 marzo 1999, di seguito denominata: "decisione di recupero", la ((corte di giustizia tributaria di primo grado)) puo' concedere la sospensione dell'efficacia del titolo di pagamento conseguente a detta decisione se ricorrono cumulativamente le seguenti condizioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    gravi motivi di illegittimita' della decisione di recupero, ovvero evidente errore nella individuazione del soggetto tenuto alla restituzione dell'aiuto di Stato o evidente errore nel calcolo della somma da recuperare e nei limiti di tale errore; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    pericolo di un pregiudizio imminente e irreparabile.
 
 Qualora la sospensione si fondi su motivi attinenti alla illegittimita' della decisione di recupero la ((corte di giustizia tributaria di primo grado)) provvede con separata ordinanza alla sospensione del giudizio e all'immediato rinvio pregiudiziale della questione alla Corte di giustizia delle Comunita' europee, con richiesta di trattazione d'urgenza ai sensi dell'articolo 104-ter del regolamento di procedura della Corte di giustizia del 19 giugno 1991, pubblicato nella Gazzetta Ufficiale delle Comunita' europee n. L 176 del 4 luglio 1991, e successive modificazioni, se ad essa non sia stata gia' deferita la questione di validita' dell'atto comunitario contestato. Non puo', in ogni caso, essere accolta l'istanza di sospensione dell'atto impugnato per motivi attinenti alla legittimita' della decisione di recupero quando la parte istante, pur avendone facolta' perche' individuata o chiaramente individuabile, non abbia proposto impugnazione avverso la decisione di recupero ai sensi dell'articolo 230 del Trattato istitutivo della Comunita' europea, e successive modificazioni, ovvero quando, avendo proposto l'impugnazione, non abbia richiesto la sospensione della decisione di recupero ai sensi dell'articolo 242 del Trattato medesimo ovvero l'abbia richiesta e la sospensione non sia stata concessa.
 
@@ -971,6 +1290,45 @@ Non e' mai consentito il deposito delle deleghe, delle procure e degli altri att
 
 
 
+1.
+                        
+                            
+                                La ((corte di giustizia tributaria di secondo grado)) rimette la causa alla commissione provinciale che ha emesso la sentenza impugnata nei seguenti casi: ((49))
+                                
+                            
+                            
+                                a)
+                                
+                                    quando dichiara la competenza declinata o la giurisdizione negata dal primo giudice; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    quando riconosce che nel giudizio di primo grado il contraddittorio non e' stato regolarmente costituito o integrato; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    quando riconosce che la sentenza impugnata, erroneamente giudicando, ha dichiarato estinto il processo in sede di reclamo contro il provvedimento presidenziale; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    quando riconosce che il collegio della ((corte di giustizia tributaria di primo grado)) non era legittimamente composto; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    quando manca la sottoscrizione della sentenza da parte del giudice di primo grado.
+
 Al di fuori dei casi previsti al comma precedente la ((corte di giustizia tributaria di secondo grado)) decide nel merito previamente ordinando, ove occorra, la rinnovazione di atti nulli compiuti in primo grado.
 
 Dopo che la sentenza di rimessione della causa al primo grado e' formalmente passata in giudicato, la segreteria della ((corte di giustizia tributaria di secondo grado)), nei successivi trenta giorni, trasmette d'ufficio il fascicolo del processo alla segreteria della ((corte di giustizia tributaria di primo grado)), senza necessita' di riassunzione ad istanza di parte.
@@ -1078,6 +1436,33 @@ Le sentenze emesse dalle ((corti di giustizia tributaria di primo e secondo grad
 ## Art. 68. — Pagamento del tributo in pendenza del processo
 
 
+
+1.
+                        
+                            
+                                Anche in deroga a quanto previsto nelle singole leggi d'imposta, nei casi in cui e' prevista la riscossione frazionata del tributo oggetto di giudizio davanti alle commissioni, il tributo, con i relativi interessi previsti dalle leggi fisca1i, deve essere pagato: (49) 
+ 
+                            
+                            
+                                a)
+                                
+                                    per i due terzi, dopo la sentenza della corte di giustizia tributaria di primo grado che respinge il ricorso; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    per l'ammontare risultante dalla sentenza della corte di giustizia tributaria di primo grado, e comunque non oltre i due terzi, se la stessa accoglie parzialmente il ricorso; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    per il residuo ammontare determinato nella sentenza della corte di giustizia tributaria di secondo grado. 
+ c-bis. per l'ammontare dovuto nella pendenza del giudizio di primo grado dopo la sentenza della Corte di cassazione di annullamento con rinvio e per l'intero importo indicato nell'atto in caso di mancata riassunzione. 
+ Per le ipotesi indicate nelle precedenti lettere gli importi da versare vanno in ogni caso diminuiti di quanto gia' corrisposto.
 
 Se il ricorso viene accolto, il tributo corrisposto in eccedenza rispetto a quanto statuito dalla sentenza della corte di giustizia tributaria, con i relativi interessi previsti dalle leggi fiscali, deve essere rimborsato d'ufficio entro novanta giorni dalla notificazione della sentenza. In caso di mancata esecuzione del rimborso il contribuente puo' richiedere l'ottemperanza a norma dell'articolo 70 alla corte di giustizia tributaria di primo grado ovvero, se il giudizio e' pendente nei gradi successivi, alla corte di giustizia tributaria di secondo grado.
 

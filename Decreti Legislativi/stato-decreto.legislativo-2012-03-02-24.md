@@ -8,8 +8,8 @@ codice_redazionale: 012G0046
 vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:30Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -37,11 +37,85 @@ Restano ferme le disposizioni in tema di iscrizione delle agenzie per il lavoro 
 ## Art. 2. — Modifiche all'articolo 2 
  del decreto legislativo 10 settembre 2003, n. 276
 
+1.
+                    
+                        
+                            All'articolo 2, comma 1, del decreto sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                la lettera a) e' sostituita dalla seguente: «a) "contratto di somministrazione di lavoro": il contratto avente ad oggetto la fornitura professionale di manodopera, a tempo indeterminato o a termine, ai sensi dell'articolo 20;»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                dopo la lettera a) sono inserite le seguenti: 
+ «a-bis) "missione": il periodo durante il quale, nell'ambito di un contratto di somministrazione di lavoro, il lavoratore dipendente da un'agenzia di somministrazione di cui all'articolo 4, comma 1, lettere a) e b), e' messo a disposizione di un utilizzatore di cui all'articolo 20, comma 1, e opera sotto il controllo e la direzione dello stesso; 
+ a-ter) "condizioni di base di lavoro e d'occupazione": il trattamento economico, normativo e occupazionale previsto da disposizioni legislative, regolamentari e amministrative, da contratti collettivi o da altre disposizioni vincolanti di portata generale in vigore presso un utilizzatore di cui all'articolo 20, comma 1, ivi comprese quelle relative: 
+ 1) all'orario di lavoro, le ore di lavoro straordinario, le pause, i periodi di riposo, il lavoro notturno, le ferie e i giorni festivi; 
+ 2) alla retribuzione; 
+ 3) alla protezione delle donne in stato di gravidanza e in periodo di allattamento, nonche' la protezione di bambini e giovani; la parita' di trattamento fra uomo e donna, nonche' altre disposizioni in materia di non discriminazione;».
+
 ## Art. 3. — Modifiche all'articolo 18 
  del decreto legislativo 10 settembre 2003, n. 276
 
+1.
+                    
+                        
+                            All'articolo 18 del decreto sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                dopo il comma 3 e' inserito il seguente: «3-bis. La violazione delle disposizioni di cui all'articolo 23, comma 1, e, per il solo utilizzatore, di cui all'articolo 23, comma 4, secondo periodo, e comma 7-bis, nonche' di cui all'articolo 24, comma 4, lettere a) e b), e' punita con la sanzione amministrativa pecuniaria prevista dal comma 3.»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                dopo il comma 4 sono inseriti i seguenti: 
+ «4-bis. Fatte salve le ipotesi di cui all'articolo 11, comma 2, e' punito con la sanzione penale prevista dal comma 4, primo periodo, chi esige o comunque percepisce compensi da parte del lavoratore in cambio di un'assunzione presso un utilizzatore ovvero per l'ipotesi di stipulazione di un contratto di lavoro o avvio di un rapporto di lavoro con l'utilizzatore dopo una missione presso quest'ultimo. 
+ 4-ter. Nelle ipotesi di cui al comma 4-bis in aggiunta alla sanzione penale e' disposta la cancellazione dall'albo.».
+
 ## Art. 4. — Modifiche all'articolo 20 
  del decreto legislativo 10 settembre 2003, n. 276
+
+1.
+                    
+                        
+                            All'articolo 20 sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 2, primo periodo, le parole: «Per tutta la durata della somministrazione» sono sostituite dalle seguenti: «Per tutta la durata della missione»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 2, secondo periodo, le parole: «per i periodi in cui non svolgono la prestazione lavorativa presso un utilizzatore» sono sostituite dalle seguenti: «per i periodi in cui non sono in missione presso un utilizzatore»; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                dopo il comma 5-bis sono aggiunti i seguenti: 
+ «5-ter. Le disposizioni di cui al comma 4 non operano qualora il contratto di somministrazione preveda l'utilizzo: 
+ a) di soggetti disoccupati percettori dell'indennita' ordinaria di disoccupazione non agricola con requisiti normali o ridotti, da almeno sei mesi; 
+ b) di soggetti comunque percettori di ammortizzatori sociali, anche in deroga, da almeno sei mesi. Resta comunque fermo quanto previsto dei commi 4 e 5 dell'articolo 8 del decreto-legge 21 marzo 1988, n. 86, convertito, con modificazioni, dalla legge 20 maggio 1988, n. 160; 
+ c) di lavoratori definiti "svantaggiati" o "molto svantaggiati" ai sensi dei numeri 18) e 19) dell'articolo 2 del regolamento (CE) n. 800/2008 della Commissione, del 6 agosto 2008.
+Con decreto di natura non regolamentare del Ministero del lavoro e delle politiche sociali, da adottare entro novanta giorni dalla data di entrata in vigore della presente disposizione, si provvede all'individuazione dei lavoratori di cui alle lettere a), b) ed e) del n. 18) dell'articolo 2 del suddetto regolamento (CE) n. 800/2008. 
+ 5-quater. Le disposizioni di cui al primo periodo del comma 4 non operano nelle ulteriori ipotesi individuate dai contratti collettivi nazionali, territoriali ed aziendali stipulati dalle organizzazioni sindacali comparativamente piu' rappresentative dei lavoratori e dei datori di lavoro.».
 
 ## Art. 5. — Modifiche all'articolo 21 
  del decreto legislativo 10 settembre 2003, n. 276
@@ -55,6 +129,39 @@ All'articolo 22 del decreto, dopo il comma 3 e' inserito il seguente:
  «3-bis. Le assunzioni a tempo indeterminato e a tempo determinato, ai sensi del presente articolo, possono essere effettuate anche con rapporto di lavoro a tempo parziale. In tale caso, trova applicazione il decreto legislativo 25 febbraio 2000, n. 61, e successive modificazioni, in quanto compatibile con le disposizioni del presente decreto.».
 
 ## Art. 7. — Modifiche all'articolo 23 del decreto legislativo 10 settembre 2003, n. 276
+
+1.
+                    
+                        
+                            All'articolo 23 del decreto sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 1, il primo periodo e' sostituito dal seguente: «Per tutta la durata della missione presso un utilizzatore, i lavoratori dipendenti dal somministratore hanno diritto a condizioni di base di lavoro e d'occupazione complessivamente non inferiori a quelle dei dipendenti di pari livello dell'utilizzatore, a parita' di mansioni svolte.»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                dopo il comma 7 e' inserito il seguente: 
+ «7-bis. I lavoratori dipendenti dal somministratore sono informati dall'utilizzatore dei posti vacanti presso quest'ultimo, affinche' possano aspirare, al pari dei dipendenti del medesimo utilizzatore, a ricoprire posti di lavoro a tempo indeterminato. Tali informazioni possono essere fornite mediante un avviso generale opportunamente affisso all'interno dei locali dell'utilizzatore presso il quale e sotto il cui controllo detti lavoratori prestano la loro opera.»; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                al comma 8, le parole: «In caso di somministrazione di lavoro a tempo determinato» sono soppresse e le parole: «al termine del contratto di somministrazione» sono sostituite dalle seguenti: «al termine della sua missione»; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                dopo il comma 9 e' aggiunto il seguente: «9-bis. Resta salva la facolta' per il somministratore e l'utilizzatore di pattuire un compenso ragionevole per i servizi resi a quest'ultimo in relazione alla missione, all'impiego e alla formazione del lavoratore per il caso in cui, al termine della missione, l'utilizzatore assuma il lavoratore.».
 
 Resta ferma la previsione di cui all'articolo 35, comma 3, lettera a), del decreto legislativo 30 marzo 2001, n. 165.
 

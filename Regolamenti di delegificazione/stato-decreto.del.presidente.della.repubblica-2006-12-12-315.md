@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Regolamenti di delegificazione
 vigenza_date: 2014-08-19
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:40:24Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -43,6 +43,45 @@ I componenti restano in carica fino alla scadenza del termine di durata del Comi
  Il D.L. 24 giugno 2014, n. 90, convertito con modificazioni dalla L. 11 agosto 2014, n. 114 ha disposto (con l'art. 19, comma 14) che "Il Comitato tecnico-scientifico di cui all'articolo 1 del decreto del Presidente della Repubblica 12 dicembre 2006, n. 315 e' soppresso".
 
 ## Art. 2. — Funzioni e compiti
+
+1.
+                    
+                        
+                            Il Comitato, ai fini del coordinamento delle attivita' di competenza delle amministrazioni dello Stato in materia di valutazione e controllo strategico, di cui all'articolo 6 del decreto legislativo 30 luglio 1999, n. 286:
+ 
+                        
+                        
+                            a)
+                            
+                                svolge attivita' di supporto al Presidente del Consiglio dei Ministri o al Ministro da lui delegato, al fine di assicurare la coerenza tra il programma di Governo e la pianificazione strategica dei Ministeri in relazione alle funzioni di direzione della politica generale e di mantenimento dell'unita' d'indirizzo politico ed amministrativo del Governo;
+
+                            
+                        
+                        
+                            b)
+                            
+                                promuove l'utilizzo di metodologie e strumenti comuni per la pianificazione strategica delle amministrazioni dello Stato, la circolazione di informazioni e documenti, il confronto di buone prassi, l'accumulo e la diffusione di conoscenze, anche con riferimento alle esperienze di altri Paesi;
+
+                            
+                        
+                        
+                            c)
+                            
+                                elabora metodologie e strumenti per assicurare e migliorare il collegamento fra gli obiettivi strategici e l'allocazione e l'uso delle risorse nelle amministrazioni dello Stato;
+
+                            
+                        
+                        
+                            d)
+                            
+                                elabora proposte per la progressiva integrazione tra il processo di formazione del bilancio ed il processo di pianificazione strategica delle amministrazioni dello Stato;
+
+                            
+                        
+                        
+                            e)
+                            
+                                formula, anche su richiesta del Presidente del Consiglio dei Ministri, valutazioni specifiche di politiche pubbliche o programmi operativi plurisettoriali.
 
 ## Art. 3. — Durata e relazione di fine mandato
 

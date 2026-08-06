@@ -7,8 +7,8 @@ urn: urn:nir:stato:decreto.legislativo:2017-03-15;37
 vigente: true
 source: normattiva-opendata
 collection: Leggi delega e relativi provvedimenti delegati
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:41:18Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -223,7 +223,75 @@ Trasferimento dei servizi di pagamento connessi al conto di pagamento
 
 Al comma 3-bis dell'articolo 128-bis del Titolo VI, Capo III, del decreto legislativo 1° settembre 1993, n. 385, la parola: «reclamo» e' sostituita dalla seguente: «esposto» e le parole: «al reclamante» sono sostituite dalle seguenti: «all'esponente».
 
+3.
+                    
+                        
+                            All'articolo 144 del decreto legislativo 1° settembre 1993, n. 385, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 1, lettera b), dopo le parole: «126-novies, comma 3» sono inserite le seguenti: «126-undecies, commi 3 e 4, 126-duodecies, 126-quaterdecies, comma 1, 126-septiesdecies, comma 1, e 126-vicies quinquies»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 1, lettera c), dopo le parole: «126-septies» sono inserite le seguenti: «126-quinquiesdecies, 126-octiesdecies, 126-noviesdecies, comma 1, 126-vicies, 126-vicies semel, 126-vicies ter, 127, comma 01»; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                il comma 4 e' sostituito dal seguente: 
+ «4. La stessa sanzione di cui al comma 1 si applica: 
+ a) per l'inosservanza delle norme contenute nell'articolo 128, comma 1, ovvero nei casi di ostacolo all'esercizio delle funzioni di controllo previste dal medesimo articolo 128, di mancata adesione ai sistemi di risoluzione stragiudiziale delle controversie previsti dall'articolo 128-bis, nonche' di inottemperanza alle misure inibitorie adottate dalla Banca d'Italia ai sensi dell'articolo 128-ter; 
+ b) nel caso di frazionamento artificioso di un unico contratto di credito al consumo in una pluralita' di contratti dei quali almeno uno sia di importo inferiore al limite inferiore previsto ai sensi dell'articolo 122, comma 1, lettera a); 
+ c) nel caso di mancata partecipazione ai siti web di confronto previsti dall'articolo 126-terdecies, ovvero di mancata trasmissione agli stessi siti web dei dati necessari per il confronto tra le offerte.».
+
 ## Art. 2. — Disposizioni finali, termini di adozione delle disposizioni attuative ed entrata in vigore
+
+1.
+                    
+                        
+                            Nel Titolo VI, capo II-ter, del decreto legislativo 1° settembre 1993, n. 385, come introdotto dal presente decreto legislativo: 
+ 
+                        
+                        
+                            a)
+                            
+                                l'articolo 126-duodecies si applica decorsi 180 giorni dall'emanazione delle relative disposizioni di attuazione, da adottarsi entro 180 giorni dalla data di entrata in vigore delle norme tecniche di regolamentazione emanate dalla Commissione europea ai sensi dell'articolo 3, paragrafo 4, della direttiva 2014/92/UE e delle norme tecniche di attuazione emanate ai sensi dell'articolo 4, paragrafo 6, e dell'articolo 5, paragrafo 4, della medesima direttiva; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                l'articolo 126-terdecies si applica decorsi 90 giorni dalla data di entrata in vigore del decreto del Ministro dell'economia e delle finanze e delle disposizioni di attuazione della Banca d'Italia ivi previsti, da adottarsi entro 120 giorni dall'entrata in vigore del presente decreto; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                la Sezione II si applica decorsi 60 giorni dalla data di entrata in vigore del presente decreto, salvo quanto previsto dalla lettera d). Dalla medesima data sono abrogati l'articolo 2, ad eccezione dei commi 15 e 19, e l'articolo 2-bis del decreto-legge 24 gennaio 2015, n. 3, convertito, con modificazioni, dalla legge 24 marzo 2015, n. 33; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                l'articolo 126-quinquiesdecies, comma 10, si applica decorsi 60 giorni dalla data di entrata in vigore delle relative disposizioni di attuazione, da adottarsi entro 120 giorni dall'entrata in vigore del presente decreto; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                la Sezione III si applica decorsi 60 giorni dalla data di entrata in vigore della disciplina di attuazione prevista negli articoli 126-vicies-semel, comma 1, 126-vicies-bis, comma 2, 126-vicies-quater, comma 1, 126-vicies-quinquies, comma 1, da adottarsi entro 120 giorni dall'entrata in vigore del presente decreto. Dalla medesima data e' abrogato l'articolo 12, commi 3, 4, 5, 6, 8 e 9, ultimo periodo, del decreto-legge 6 dicembre 2011, n. 201, convertito, con modificazioni, dalla legge 22 dicembre 2011, n. 214, salvo quanto previsto dal comma 4.
 
 All'articolo 2 del decreto-legge 24 gennaio 2015, n. 3, convertito, con modificazioni, dalla legge 24 marzo 2015, n. 33, il comma 15 e' sostituito dal seguente: «15. Il trasferimento, su richiesta del consumatore, di strumenti finanziari da un conto di deposito titoli ad un altro, con o senza la chiusura del conto di deposito titoli di origine, e' effettuato senza oneri e spese per il consumatore. Il Ministro dell'economia e delle finanze, sentite la Consob e la Banca d'Italia, adotta disposizioni di attuazione del presente comma e, in deroga a quanto stabilito nel periodo precedente, puo' stabilire che, per il trasferimento dei titoli depositati presso un depositario centrale estero o non assoggettati al regime di dematerializzazione, al consumatore possano essere addebitate le spese sostenute in diretta conseguenza del necessario intervento di un soggetto terzo.».
 

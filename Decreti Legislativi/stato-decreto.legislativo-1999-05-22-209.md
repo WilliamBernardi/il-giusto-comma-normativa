@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
 vigenza_date: 2005-07-30
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:30Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -30,7 +30,103 @@ Il presente decreto disciplina lo smaltimento di PCB usati e la decontaminazione
 
 ## Art. 2. — Definizioni
 
+1.
+                    
+                        
+                            Ai sensi del presente decreto si intende per:
+ 
+                        
+                        
+                            a)
+                            
+                                PCB:
+ 1) i policlorodifenili;
+ 2) i policlorotrifenili;
+ 3) il monometiltetraclorodifenilmetano, il monometildiclorodifenilmetano, monometildibromodifenilmetano;
+ 4) ogni miscela che presenti una concentrazione complessiva di qualsiasi delle suddette sostanze superiore allo 0,005% in peso;
+
+                            
+                        
+                        
+                            b)
+                            
+                                apparecchi contenenti PCB: qualsiasi apparecchio che contiene o e' servito a contenere PCB e che non ha costituito oggetto di decontaminazione. Gli apparecchi di un tipo che possono contenere PCB sono considerati contenenti PCB a meno che sussistono fondati motivi di presumere il contrario;
+
+                            
+                        
+                        
+                            c)
+                            
+                                PCB usati: qualsiasi PCB considerato rifiuto ai sensi del decreto legislativo 5 febbraio 1997, n. 22, e successive modificazioni ed integrazioni;
+
+                            
+                        
+                        
+                            d)
+                            
+                                detentore: la persona fisica o la persona giuridica che detiene PCB, PCB usati ovvero apparecchi contenenti PCB;
+
+                            
+                        
+                        
+                            e)
+                            
+                                decontaminazione: l'insieme delle operazioni che rendono riutilizzabili o riciclabili o eliminabili nelle migliori condizioni gli apparecchi, gli oggetti, le sostanze o i fluidi contaminati da PCB e che possono comprendere la sostituzione, cioe' l'insieme delle operazioni che consistono nel sostituire ai PCB un fluido adeguato che non contiene PCB;
+
+                            
+                        
+                        
+                            f)
+                            
+                                smaltimento: le operazioni D8, D9, D10, D12 (limitatamente al deposito sotterraneo sicuro e situato in profondita' localizzato in una formazione rocciosa asciutta e esclusivamente per apparecchi contenenti PCB e PCB usati che non possono essere decontaminati) e D15 di cui all'allegato B del decreto legislativo 5 febbraio 1997, n. 22, e successive modificazioni ed integrazioni.
+
 ## Art. 3. — I n v e n t a r i o
+
+1.
+                    
+                        
+                            I detentori di apparecchi contenenti PCB per un volume superiore a 5 dm(elevato a)3 , inclusi i condensatori di potenza per i quali il limite di 5 dm(elevato a)3 deve essere inteso come comprendente il totale dei singoli elementi di un insieme composito, sono tenuti a comunicare alle sezioni regionali e delle province autonome del catasto dei rifiuti le seguenti informazioni:
+ 
+                        
+                        
+                            a)
+                            
+                                nome e indirizzo;
+
+                            
+                        
+                        
+                            b)
+                            
+                                collocazione e descrizione degli apparecchi;
+
+                            
+                        
+                        
+                            c)
+                            
+                                quantitativo e concentrazione di PCB contenuto negli apparecchi;
+
+                            
+                        
+                        
+                            d)
+                            
+                                date e tipi di trattamento o sostituzione effettuati o previsti;
+
+                            
+                        
+                        
+                            e)
+                            
+                                quantitativo e concentrazione di PCB detenuto;
+
+                            
+                        
+                        
+                            f)
+                            
+                                data della denuncia effettuata ai sensi dell'articolo 5 del decreto del Presidente della Repubblica 24 maggio 1988, n. 216.
 
 I detentori di apparecchi di cui al comma 1 comunicano solo le informazioni di cui alle lettere a) e b) del medesimo comma 1, nel caso in cui gli apparecchi contengono fluidi con una percentuale di PCB compresa tra lo 0,05% e lo 0,005% in peso.
 
@@ -80,6 +176,31 @@ I detentori, in conformita' a quanto previsto nei programmi di cui all'articolo 
 Il detentore, prima della consegna dei PCB, dei PCB usati e degli apparecchi contenenti PCB ad un'impresa autorizzata, garantisce che siano osservate le condizioni di massima sicurezza, ed in particolare che siano prese tutte le misure necessarie per evitare rischi di incendio. In ogni caso i PCB, i PCB usati e gli apparecchi contenenti PCB devono essere tenuti isolati da qualsiasi prodotto infiammabile.
 
 Le imprese che effettuano la decontaminazione o lo smaltimento di PCB, di apparecchi contenenti PCB e di PCB usati sono soggette all'obbligo del registro di carico e scarico di cui all'articolo 12 del decreto legislativo 5 febbraio 1997, n. 22, e successive modificazioni ed integrazioni. La consegna di PCB, di apparecchi contenenti PCB e di PCB usati alle imprese che effettuano la decontaminazione o lo smaltimento deve risultare dal formulario di trasporto di cui all'articolo 15 del decreto legislativo 5 febbraio 1997, n. 22, e successive modificazioni ed integrazioni. In particolare, dal registro e dal formulario devono risultare le quantita', l'origine, la natura e la concentrazione di PCB e di PCB usati. Il registro di carico e scarico puo' essere consultato dalle autorita' locali e dal pubblico.
+
+4.
+                    
+                        
+                            I trasformatori contenenti piu' dello 0,05% in peso di PCB devono essere decontaminati alle seguenti condizioni:
+ 
+                        
+                        
+                            a)
+                            
+                                la decontaminazione deve ridurre il tenore di PCB ad un valore inferiore allo 0,05% in peso e, possibilmente, non superiore allo 0,005% in peso;
+
+                            
+                        
+                        
+                            b)
+                            
+                                il fluido sostitutivo non contenente PCB deve comportare rischi nettamente inferiori, anche sotto l'aspetto dell'incendio e dell'esplosione;
+
+                            
+                        
+                        
+                            c)
+                            
+                                la sostituzione del fluido non deve compromettere il successivo smaltimento dei PCB.
 
 Per la decontaminazione dei trasformatori i cui fluidi contengono tra lo 0,05% e lo 0,005% in peso di PCB devono essere rispettate solo le condizioni di cui alle lettere b) e c) del comma 4.
 

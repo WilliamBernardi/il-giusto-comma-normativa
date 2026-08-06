@@ -8,8 +8,8 @@ codice_redazionale: 099G0559
 vigente: true
 source: normattiva-opendata
 collection: Leggi costituzionali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:39:08Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 LEGGE COSTITUZIONALE
@@ -29,6 +29,25 @@ La Camera dei deputati ed il Senato della Repubblica, in seconda votazione e con
 
 ## Art. 1. — (Modifiche all'articolo 121
  della Costituzione)
+
+1.
+                    
+                        
+                            All'articolo 121 della Costituzione sono apportate le seguenti modifiche:
+ 
+                        
+                        
+                            a)
+                            
+                                al secondo comma, sono soppresse le parole: "e regolamentari";
+
+                            
+                        
+                        
+                            b)
+                            
+                                il quarto comma e' sostituito dal seguente:
+ "Il Presidente della Giunta rappresenta la Regione; dirige la politica della Giunta e ne e' responsabile; promulga le leggi ed emana i regolamenti regionali; dirige le funzioni amministrative delegate dallo Stato alla Regione, conformandosi alle istruzioni del Governo della Repubblica".
 
 ## Art. 2. — (Modifica dell'articolo 122
  della Costituzione)
@@ -59,4 +78,31 @@ L'articolo 126 della Costituzione e' sostituito dal seguente:
 ## Art. 5. — (Disposizioni transitorie)
 
 Fino alla data di entrata in vigore dei nuovi statuti regionali e delle nuove leggi elettorali ai sensi del primo comma dell'articolo 122 della Costituzione, come sostituito dall'articolo 2 della presente legge costituzionale, l'elezione del Presidente della Giunta regionale e' contestuale al rinnovo dei rispettivi Consigli regionali e si effettua con le modalita' previste dalle disposizioni di legge ordinaria vigenti in materia di elezione dei Consigli regionali. Sono candidati alla Presidenza della Giunta regionale i capilista delle liste regionali. E' proclamato eletto Presidente della Giunta regionale il candidato che ha conseguito il maggior numero di voti validi in ambito regionale. Il Presidente della Giunta regionale fa parte del Consiglio regionale. E' eletto alla carica di consigliere il candidato alla carica di Presidente della Giunta regionale che ha conseguito un numero di voti validi immediatamente inferiore a quello del candidato proclamato eletto Presidente. L'Ufficio centrale regionale riserva, a tal fine, l'ultimo dei seggi eventualmente spettanti alle liste circoscrizionali collegate con il capolista della lista regionale proclamato alla carica di consigliere, nell'ipotesi prevista al numero 3) del tredicesimo comma dell'articolo 15 della legge 17 febbraio 1968, n. 108, introdotto dal comma 2 dell'articolo 3 della legge 23 febbraio 1995, n. 43; o, altrimenti, il seggio attribuito con il resto o con la cifra elettorale minore, tra quelli delle stesse liste, in sede di collegio unico regionale per la ripartizione dei seggi circoscrizionali residui. Qualora tutti i seggi spettanti alle liste collegate siano stati assegnati con quoziente intero in sede circoscrizionale, l'Ufficio centrale regionale procede all'attribuzione di un seggio aggiuntivo, del quale si deve tenere conto per la determinazione della conseguente quota percentuale di seggi spettanti alle liste di maggioranza in seno al Consiglio regionale.
+
+2.
+                    
+                        
+                            Fino alla data di entrata in vigore dei nuovi statuti regionali si osservano le seguenti disposizioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                entro dieci giorni dalla proclamazione, il Presidente della 
+Giunta regionale nomina i componenti della Giunta, fra i quali un Vicepresidente, e puo' successivamente revocarli; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                nel caso in cui il Consiglio regionale approvi a maggioranza 
+assoluta una mozione motivata di sfiducia nei confronti del Presidente della Giunta regionale, presentata da almeno un quinto dei suoi componenti e messa in discussione non prima di tre giorni dalla presentazione, entro tre mesi si procede all'indizione di nuove elezioni del Consiglio e del Presidente della Giunta. Si procede parimenti a nuove elezioni del Consiglio e del Presidente della Giunta in caso di dimissioni volontarie, impedimento permanente o morte del Presidente. 
+ La presente legge costituzionale, munita del sigillo dello Stato, sara' inserita nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
+ Data a Roma, addi' 22 novembre 1999 
+ CIAMPI 
+ D'Alema, Presidente del Consiglio 
+ dei Ministri 
+Visto, il Guardasigilli: Diliberto 
+ La presente legge costituzionale, munita del sigillo dello Stato, sara' inserita nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
 

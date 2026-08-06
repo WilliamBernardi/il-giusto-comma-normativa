@@ -8,8 +8,8 @@ codice_redazionale: 004G0006
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:40Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -35,12 +35,62 @@ Il presente decreto disciplina i criteri e le modalita' di applicazione delle op
 
 ## Art. 2. — Recuperi di somme nei confronti dei comuni
 
+1.
+                    
+                        
+                            Nei confronti dei comuni si procede al recupero di eventuali importi non portati in detrazione a trasferimenti erariali spettanti per le seguenti fattispecie:
+ 
+                        
+                        
+                            a)
+                            
+                                dall'anno 2000 in relazione ai minori oneri conseguenti al trasferimento allo Stato del personale ATA scolastico, come disciplinato dall'articolo 8 della legge 3 maggio 1999, n. 124;
+
+                            
+                        
+                        
+                            b)
+                            
+                                dall'anno 2000 in relazione alle maggiori entrate conseguenti alle nuove disposizioni in materia di addizionale sui consumi di energia elettrica, come disciplinato dall'articolo 10, comma 11, della legge 13 maggio 1999, n. 133.
+
 Gli importi da recuperare di cui al comma 1 sono comunicati dal Ministero dell'interno ai singoli comuni ed al Ministero dell'economia e delle finanze entro trenta giorni dalla pubblicazione del presente provvedimento nella Gazzetta Ufficiale.
 
 Il recupero degli importi di cui al comma 2 e' operato dal Ministero dell'interno mediante riduzione delle somme spettanti a ciascun comune a titolo di compartecipazione al gettito dell'IRPEF o, in caso di insufficienza delle stesse, mediante riduzione delle somme eventualmente da erogare a titolo di addizionale comunale all'IRPEF.
 Su richiesta del singolo ente, da far pervenire entro dieci giorni dalla ricezione della comunicazione di cui al comma 2, il Ministero dell'interno opera, a decorrere dall'anno 2003, una rateizzazione decennale dell'importo dovuto.
 
 ## Art. 3. — Recuperi di somme nei confronti delle province
+
+1.
+                    
+                        
+                            Nei confronti delle province si procede al recupero di eventuali importi non portati in detrazione a trasferimenti erariali spettanti per le seguenti fattispecie:
+ 
+                        
+                        
+                            a)
+                            
+                                dall'anno 2000 in relazione ai minori oneri conseguenti al trasferimento allo Stato del personale ATA (amministrativo, tecnico, ausiliario) scolastico, come disciplinato dall'articolo 8 della legge 3 maggio 1999, n. 124;
+
+                            
+                        
+                        
+                            b)
+                            
+                                dall'anno 1999 in relazione ai nuovi introiti derivanti dall'istituzione dell'imposta provinciale sulle formalita' di trascrizione, iscrizione ed annotazione dei veicoli richieste al pubblico registro automobilistico, come disciplinato dall'articolo 61 del decreto legislativo 15 dicembre 1997, n. 446;
+
+                            
+                        
+                        
+                            c)
+                            
+                                dall'anno 1999 in relazione ai nuovi introiti derivanti dall'attribuzione alle province del gettito dell'imposta sulle assicurazioni contro la responsabilita' civile derivante dalla circolazione dei veicoli, come disciplinato dall'articolo 61 del decreto legislativo 15 dicembre 1997, n. 446;
+
+                            
+                        
+                        
+                            d)
+                            
+                                dall'anno 2000 in relazione alle maggiori entrate conseguenti alle nuove disposizioni in materia di addizionale sui consumi di energia elettrica, come disciplinato dall'articolo 10, comma 11, della legge 13 maggio 1999, n. 133.
 
 Gli importi da recuperare per le annualita' sino all'anno 2002 sono comunicati dal Ministero dell'interno alle singole province ed al Ministero dell'economia e delle finanze entro trenta giorni dalla pubblicazione del presente provvedimento nella Gazzetta Ufficiale.
 
@@ -55,4 +105,29 @@ In caso di mancato versamento degli importi dovuti alle scadenze di cui ai commi
 Il Ministero dell'economia e delle finanze provvede annualmente entro il 15 ottobre con propri decreti all'assegnazione al capitolo 1316 del Ministero dell'interno degli importi recuperati di cui ai commi 4 e 5. L'assegnazione al capitolo 1316 del Ministero dell'interno degli importi recuperati di cui al comma 6 e' disposta dal Ministero dell'economia e delle finanze con propri decreti entro trenta giorni dal versamento delle somme.
 
 ## Art. 4. — Disposizioni per l'anno 2003
+
+1.
+                    
+                        
+                            Per il solo anno 2003:
+ 
+                        
+                        
+                            a)
+                            
+                                il termine di cui all'articolo 3, comma 3, e' differito al 31 ottobre;
+
+                            
+                        
+                        
+                            b)
+                            
+                                il termine di cui all'articolo 3, comma 4, e' differito al 30 novembre;
+
+                            
+                        
+                        
+                            c)
+                            
+                                il termine di cui all'articolo 3, comma 5, e' differito al 30 novembre.
 

@@ -8,7 +8,7 @@ vigente: true
 source: normattiva-opendata
 collection: Atti di recepimento direttive UE
 zip_date: 2026-07-30
-fetched_at: 2026-08-02T09:40:48Z
+fetched_at: 2026-07-30
 ---
 
 DECRETO LEGISLATIVO
@@ -27,14 +27,121 @@ Sulla proposta del Ministro per gli affari europei e del Ministro delle infrastr
 ## Art. 1. — Modifiche all'articolo 1 del decreto legislativo 
  15 luglio 2015, n. 112
 
+1.
+                    
+                        
+                            All'articolo 1 del decreto legislativo 15 luglio 2015, n. 112, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 6, primo periodo, dopo le parole «di Trento e di Bolzano,» sono inserite le seguenti: «sentito l'organismo di regolazione di cui all'articolo 3, comma 1, lettera t),» e, al quarto periodo, le parole «paragrafo 3», sono sostituite dalle seguenti: «paragrafo 4»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 8, le parole «direttiva 2004/17/CE del Parlamento europeo e del Consiglio, del 31 marzo 2004 che coordina le procedure di appalto degli enti erogatori di acqua e di energia, degli enti che forniscono servizi di trasporto e servizi postali» sono sostituite dalle seguenti: «direttiva 2014/25/UE del Parlamento europeo e del Consiglio del 26 febbraio 2014, sulle procedure d'appalto degli enti erogatori nei settori dell'acqua, dell'energia, dei trasporti e dei servizi postali e che abroga la direttiva 2004/17/CE, recepita dal codice dei contratti pubblici di cui al decreto legislativo 18 aprile 2016, n. 50.».
+
 ## Art. 2. — Modifiche all'articolo 3 del decreto legislativo 
  15 luglio 2015, n. 112
+
+1.
+                    
+                        
+                            All'articolo 3, comma 1, del decreto legislativo 15 luglio 2015, n. 112, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                la lettera b) e' sostituita dalla seguente: «b) gestore dell'infrastruttura: qualsiasi organismo o impresa responsabili dell'esercizio, della manutenzione e del rinnovo dell'infrastruttura ferroviaria di una rete nonche' della partecipazione al suo sviluppo come stabilito dallo Stato nell'ambito della sua politica generale sullo sviluppo e sul finanziamento dell'infrastruttura;»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                dopo la lettera b) sono inserite le seguenti: 
+ «b-bis) sviluppo dell'infrastruttura ferroviaria: la programmazione di rete, la programmazione finanziaria e degli investimenti, nonche' la costruzione e il potenziamento dell'infrastruttura; 
+ b-ter) esercizio dell'infrastruttura ferroviaria: l'assegnazione delle tracce ferroviarie, la gestione del traffico e l'imposizione di canoni per l'utilizzo dell'infrastruttura; 
+ b-quater) manutenzione dell'infrastruttura ferroviaria: i lavori destinati a mantenere le condizioni e la capacita' dell'infrastruttura esistente; 
+ b-quinquies) rinnovo dell'infrastruttura ferroviaria: i lavori di sostituzione di vasta portata sull'infrastruttura esistente che non ne modificano la prestazione globale; 
+ b-sexies) potenziamento dell'infrastruttura ferroviaria: i lavori di modifica di vasta portata sull'infrastruttura esistente che ne migliorano la prestazione globale; 
+ b-septies) funzioni essenziali del gestore dell'infrastruttura: l'adozione di decisioni relative all'assegnazione delle tracce ferroviarie, incluse sia la definizione e la valutazione della disponibilita' che l'assegnazione delle singole tracce ferroviarie, e l'adozione di decisioni relative all'imposizione dei canoni per l'utilizzo dell'infrastruttura, comprendenti il calcolo e la riscossione dei canoni, in conformita' ai criteri stabiliti dall'organismo di regolazione, ai sensi, in particolare, degli articoli 17 e 26 del presente decreto;»; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                la lettera q) e' abrogata; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                la lettera r) e' sostituita dalla seguente: «r) titolo autorizzatorio: il titolo rilasciato dal Ministro delle infrastrutture e dei trasporti, su richiesta delle imprese ferroviarie in possesso di licenza, che consente l'espletamento di servizi sul territorio nazionale a condizioni di reciprocita' qualora si tratti di imprese ferroviarie aventi sede al di fuori dell'Unione europea o loro controllate ai sensi dell'articolo 7 della legge 10 ottobre 1990, n. 287;»; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                dopo la lettera uu) sono aggiunte, in fine, le seguenti: 
+ «uu-bis) impresa a integrazione verticale: un'impresa per cui si verifica, ai sensi del regolamento (CE) n. 139/2004 del Consiglio, una delle situazioni seguenti: 
+ 1) un gestore dell'infrastruttura e' controllato da un'impresa che contemporaneamente controlla una o piu' imprese ferroviarie che effettuano servizi ferroviari sulla rete del gestore dell'infrastruttura; 
+ 2) un gestore dell'infrastruttura e' controllato da una o piu' imprese ferroviarie che effettuano servizi ferroviari sulla rete del gestore dell'infrastruttura; 
+ 3) una o piu' imprese ferroviarie che effettuano servizi ferroviari sulla rete del gestore dell'infrastruttura sono controllate da un gestore dell'infrastruttura; 
+ 4) un'impresa costituita da divisioni distinte, in cui vi sia un gestore dell'infrastruttura e una o piu' divisioni che forniscono servizi di trasporto non dotate di personalita' giuridica distinta.
+Se sono pienamente indipendenti l'uno dell'altra, ma entrambi sono controllati direttamente dallo Stato senza un'entita' intermedia, il gestore dell'infrastruttura e l'impresa ferroviaria non sono considerati un'impresa ad integrazione verticale ai fini del presente decreto; 
+ uu-ter) biglietto cumulativo: uno o piu' biglietti che rappresentano un contratto di trasporto per servizi ferroviari consecutivi effettuati da una o piu' imprese ferroviarie; 
+ uu-quater) servizi di trasporto passeggeri ad alta velocita': servizi di trasporto ferroviario di passeggeri effettuati su linee appositamente costruite per l'alta velocita' attrezzate per velocita' generalmente pari o superiori a 250 km/h.».
 
 ## Art. 3. — Modifiche all'articolo 6 del decreto legislativo 
  15 luglio 2015, n. 112
 
+1.
+                    
+                        
+                            All'articolo 6 del decreto legislativo 15 luglio 2015, n. 112, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                il comma 2 e' abrogato; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                il comma 3 e' sostituito dal seguente: «3. Le imprese ferroviarie aventi sede al di fuori dell'Unione europea o loro controllate ai sensi dell'articolo 7 della legge 10 ottobre 1990, n. 287, devono possedere, in aggiunta a quanto previsto al comma 1, il titolo autorizzatorio di cui all'articolo 3, comma 1, lettera r).».
+
 ## Art. 4. — Modifiche all'articolo 7 del decreto legislativo 
  15 luglio 2015, n. 112
+
+1.
+                    
+                        
+                            All'articolo 7 del decreto legislativo 15 luglio 2015, n. 112, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 4, le parole «Dipartimento per i trasporti, la navigazione ed i sistemi informativi e statistici» sono sostituite dalle seguenti: «Dipartimento per i trasporti, la navigazione, gli affari generali ed il personale»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 5, l'ultimo periodo e' soppresso.
 
 ## Art. 5. — Modifiche all'articolo 8 del decreto legislativo 
  15 luglio 2015, n. 112
@@ -43,6 +150,31 @@ All'articolo 8, comma 2, del decreto legislativo 15 luglio 2015, n. 112, dopo la
 
 ## Art. 6. — Modifiche all'articolo 9 del decreto legislativo 
  15 luglio 2015, n. 112
+
+1.
+                    
+                        
+                            All'articolo 9 del decreto legislativo 15 luglio 2015, n. 112, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 4, l'ultimo periodo e' soppresso; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                il comma 12 e' sostituito dal seguente: «12. Nei casi di cui al comma 11, il Ministero delle infrastrutture e dei trasporti chiede evidenza, altresi', della permanenza delle condizioni per il rilascio del titolo autorizzatorio di cui all'articolo 3, comma 1, lettera r).»; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                al comma 15, l'ultimo periodo e' soppresso.
 
 ## Art. 7. — Sostituzione dell'articolo 11 del decreto legislativo 
  15 luglio 2015, n. 112
@@ -97,6 +229,71 @@ Il gestore dell'infrastruttura ferroviaria nazionale partecipa alla rete europea
 ## Art. 9. — Modifiche all'articolo 12 del decreto legislativo 
  15 luglio 2015, n. 112
 
+1.
+                    
+                        
+                            All'articolo 12 del decreto legislativo 15 luglio 2015, n. 112, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                il comma 2 e' sostituito dal seguente: 
+ «2. Fatto salvo quanto previsto dal regolamento (CE) n. 1370/2007, alle imprese ferroviarie e' concesso, a condizioni eque, non discriminatorie e trasparenti, il diritto di accesso alla infrastruttura ferroviaria, che rientra nell'ambito di applicazione del presente decreto, per l'esercizio dei servizi di trasporto ferroviario di passeggeri. Tale diritto comprende l'accesso alle infrastrutture di collegamento agli impianti di servizio di cui all'articolo 13, comma 2.»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                i commi 3 e 4 sono abrogati; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                il comma 5 e' sostituito dal seguente: 
+ «5. Lo svolgimento di servizi ferroviari di trasporto passeggeri puo' essere soggetto a limitazioni, sulla base di quanto disposto ai commi 6 e 7, da parte dell'organismo di regolazione, tra un dato punto di partenza e una data destinazione quando uno o piu' contratti di servizio pubblico coprono lo stesso percorso o un percorso alternativo, se l'esercizio di tale diritto compromette l'equilibrio economico del contratto o dei contratti di servizio pubblico in questione.»; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                al comma 6, il primo periodo e' sostituito dal seguente: 
+ «6. Per stabilire se l'equilibrio economico di un contratto di servizio pubblico sia compromesso ai sensi del comma 5, l'organismo di regolazione procede ad un'analisi economica oggettiva, basando la propria decisione su criteri prestabiliti da definirsi con proprio provvedimento sentito il Ministero dell'economia e delle finanze, e previa richiesta della competente autorita' di aggiudicazione del contratto di servizio pubblico, ovvero del gestore dell'infrastruttura, ovvero dell'impresa ferroviaria che adempie al contratto di servizio pubblico, presentata entro un mese dal ricevimento dell'informazione sul previsto servizio di trasporto di passeggeri di cui all'articolo 24, comma 2.»; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                il comma 7 e' sostituito dal seguente: 
+ «7. L'organismo di regolazione motiva la propria decisione e precisa le condizioni alle quali l'autorita' competente, il gestore dell'infrastruttura, l'impresa ferroviaria che adempie al contratto di servizio pubblico ovvero l'impresa ferroviaria che chiede l'accesso possono chiedere un riesame della decisione entro un mese dalla sua notifica.»; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                il comma 8 e' abrogato; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                al comma 9, le parole «commi 4, 5, 6 e 7» sono sostituite dalle seguenti: «commi 5, 6 e 7»; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                il comma 10 e' sostituito dal seguente: 
+ «10. L'organismo di regolazione, tenuto anche conto delle pertinenti analisi economiche, accertata la compromissione dell'equilibrio economico del contratto di servizio pubblico, indica le eventuali limitazioni di cui al comma 5 che permettano di soddisfare le condizioni per la concessione del diritto di accesso al nuovo operatore. L'autorita' competente puo' richiedere all'impresa ferroviaria oggetto della procedura di cui al comma 6 il pagamento di opportuni, trasparenti e non discriminatori diritti di compensazione, determinati, previo parere dell'organismo di regolazione, sulla base delle misure disposte dalla Commissione europea, ai sensi dell'articolo 11, paragrafo 4, secondo comma, della direttiva 2012/34/UE del Parlamento europeo e del Consiglio.».
+
 ## Art. 10. — Inserimento dell'articolo 12-bis al decreto legislativo 
  15 luglio 2015, n. 112
 
@@ -139,11 +336,91 @@ All'articolo 35, comma 3, del decreto legislativo 15 luglio 2015, n. 112, e' agg
 ## Art. 16. — Modifiche all'articolo 36 del decreto legislativo 
  15 luglio 2015, n. 112
 
+1.
+                    
+                        
+                            All'articolo 36 del decreto legislativo 15 luglio 2015, n. 112, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                il comma 1 e' sostituito dal seguente: «1. Nell'eventualita' di perturbazioni della circolazione dei treni a causa di problemi tecnici o incidenti, il gestore dell'infrastruttura adotta tutte le misure necessarie per il ripristino del normale svolgimento del servizio. A tal fine egli elabora un piano d'intervento che elenca i vari organismi da informare in caso di incidenti gravi o serie perturbazioni della circolazione dei treni. Nell'eventualita' di perturbazioni con potenziale impatto sul traffico transfrontaliero, il gestore dell'infrastruttura condivide le pertinenti informazioni con gli altri gestori dell'infrastruttura la cui rete e il cui traffico possono subirne le conseguenze e coopera con gli stessi per riportare il traffico transfrontaliero alla normalita'.»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                dopo il comma 3 e' aggiunto il seguente: «3-bis. Le imprese ferroviarie che effettuano servizi di trasporto di passeggeri predispongono piani di emergenza e li trasmettono al gestore dell'infrastruttura affinche' siano adeguatamente coordinati per fornire assistenza ai passeggeri, ai sensi dell'articolo 18 del regolamento (CE) n. 1371/2007, nel caso di grave interruzione del servizio.».
+
 ## Art. 17. — Modifiche all'articolo 37 del decreto legislativo 
  15 luglio 2015, n. 112
 
+1.
+                    
+                        
+                            All'articolo 37 del decreto legislativo 15 luglio 2015, n. 112, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 2, dopo la lettera g), sono aggiunte le seguenti: 
+ «g-bis) gestione del traffico; 
+ g-ter) programmazione di rinnovo e manutenzione programmata o non programmata; 
+ g-quater) rispetto dei requisiti, inclusi quelli riguardanti i conflitti di interessi di cui agli articoli 11, 11-bis, 11-ter e 11-quater.»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 3, le parole «e, in particolare, controlla le attivita' di cui al comma 2, lettere da a) a g)» sono sostituite dalle seguenti: «incluso, in particolare, il mercato per i servizi di trasporto passeggeri ad alta velocita', e le attivita' dei gestori dell'infrastruttura di cui al comma 2, lettere da a) a g-quater).
+L'organismo di regolazione controlla, in particolare, il rispetto del comma 2, lettere da a) a g-quater)»; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                al comma 9, la parola «g)» e' sostituita dalla seguente: «g-quater)»; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                il comma 13 e' sostituito dal seguente: «13. Per verificare l'osservanza delle disposizioni relative alla separazione contabile di cui all'articolo 5 e delle disposizioni relative alla trasparenza finanziaria di cui all'articolo 11-quater l'organismo di regolazione ha la facolta' di effettuare audit in proprio o di farli realizzare dai gestori dell'infrastruttura, dagli operatori degli impianti di servizio e, se del caso, dalle imprese ferroviarie. Nel caso di imprese a integrazione verticale tale facolta' e' estesa a tutte le entita' giuridiche. L'organismo di regolazione e' autorizzato a chiedere tutte le informazioni pertinenti. In particolare, l'organismo di regolazione ha la facolta' di chiedere ai gestori dell'infrastruttura, agli operatori degli impianti di servizio e a tutte le imprese o altre entita' che effettuano o integrano le attivita' connesse alle varie categorie di trasporto ferroviario o di gestione dell'infrastruttura di cui all'articolo 5, commi 4 e 5, e all'articolo 13 di fornire tutte o parte delle informazioni contabili elencate nell'allegato IV del presente decreto e ogni altra informazione che l'organismo di regolazione puo' richiedere nell'esercizio delle funzioni di cui all'articolo 37, comma 3, lettera b), del decreto-legge 6 dicembre 2011, n. 201, convertito, con modificazioni, dalla legge 22 dicembre 2011, n. 214, con un livello di dettaglio sufficiente secondo quanto ritenuto necessario e proporzionato. Fatte salve le competenze delle autorita' nazionali responsabili delle questioni inerenti agli aiuti di Stato, dalla contabilita' l'organismo di regolazione puo' anche trarre conclusioni riguardanti questioni di aiuti di Stato di cui informa dette autorita'.»; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                dopo il comma 13, e' inserito il seguente: «13-bis.
+L'organismo di regolazione verifica l'esecuzione degli accordi di cooperazione di cui all'articolo 11-ter, comma 3, e controlla il rispetto di quanto disposto dall'articolo 11-quater, commi 1, 4, 5, 6 e 8.».
+
 ## Art. 18. — Modifiche all'articolo 38 del decreto legislativo 
  15 luglio 2015, n. 112
+
+1.
+                    
+                        
+                            All'articolo 38 del decreto legislativo 15 luglio 2015, n. 112, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                dopo il comma 3 e' inserito il seguente: «3-bis. Se le questioni riguardanti un servizio internazionale richiedono decisioni di due o piu' organismi di regolazione, l'organismo di regolazione coopera con gli organismi di regolazione interessati nel predisporre le rispettive decisioni al fine di pervenire a una risoluzione della questione. A tal fine, l'organismo di regolazione interessato svolge le sue funzioni conformemente all'articolo 37.»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 8, e' aggiunto, in fine, il seguente periodo: «Detti principi e pratiche comuni includono accordi per la risoluzione delle controversie che sorgono nell'ambito del comma 3-bis.».
 
 ## Art. 19. — Clausola di invarianza finanziaria
 

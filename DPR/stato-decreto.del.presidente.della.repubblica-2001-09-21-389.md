@@ -8,8 +8,8 @@ codice_redazionale: 001G0447
 vigente: true
 source: normattiva-opendata
 collection: DPR
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:47:57Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -42,6 +42,24 @@ Sono organi dell'Ente:
  2) l'amministratore;
  3) il collegio dei revisori.
 
+2.
+                        
+                            
+                                E' causa d'incompatibilita' con le cariche di amministratore, di componente del consiglio e del collegio dei revisori:
+ 
+                            
+                            
+                                a)
+                                
+                                    avere, all'atto della nomina, vertenze in corso con l'Ente;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    essere proprietario o comproprietario, amministratore o sindaco o ricoprire altra carica simile, anche non retribuita, essere consulente o dipendente di imprese esercenti attivita' che, nei riguardi di quelle svolte dall'Ente, siano in concreto contrastanti o concorrenti, oppure di imprese che con l'Ente abbiano contratti per lavori, servizi o forniture. Tale incompatibilita' sussiste anche quando l'Ente abbia in dette imprese una partecipazione azionaria salvo specifica deroga da autorizzarsi da parte del Ministro delle infrastrutture e dei trasporti.
+
 Non possono, inoltre, appartenere contemporaneamente agli organi di cui ai punti 1) e 3) del comma 1 i parenti o gli affini sino al terzo grado, i coniugi, l'affiliante o l'affiliato; la incompatibilita' colpisce il componente meno anziano di eta'.
 
 Si decade dalle cariche di amministratore, di componente del consiglio o del collegio dei revisori, quando si verifica una delle suindicate cause di incompatibilita'.
@@ -65,6 +83,87 @@ I consiglieri durano in carica cinque anni e possono essere rinnovati una sola v
 In caso di cessazione dall'incarico di uno o piu' consiglieri prima della scadenza del quinquennio, si procede alla loro sostituzione con le modalita' e secondo i criteri fissati per la nomina. I nuovi consiglieri restano in carica per la residua parte del quinquennio.
 
 ## Art. 5. — Compiti del consiglio
+
+1.
+                        
+                            
+                                Sono di competenza del consiglio:
+ 
+                            
+                            
+                                a)
+                                
+                                    la predisposizione dello schema di programma annuale di attivita' dell'Ente da sottoporre al Ministro delle infrastrutture e dei trasporti;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'approvazione degli accordi di programma di cui all'articolo 3 del decreto legislativo 26 febbraio 1994, n. 143, e le revisioni annuali;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    la deliberazione dei bilanci preventivi e consuntivi e delle relative variazioni;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    l'approvazione dei capitolati generali;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    l'approvazione di progetti di lavori di importo superiore a 100 miliardi;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    l'approvazione delle procedure proposte in ordine all'aggiudicazione o affidamento degli appalti di opere di importo superiore al limite di valore in ECU stabilito per l'applicazione della normativa comunitaria, nonche' degli appalti di forniture e servizi di importo superiore al decimo del valore suindicato; l'approvazione di atti aggiuntivi qualora l'importo del nuovo contratto, a seguito delle intervenute perizie di varianti, superi complessivamente il limite comunitario sopraindicato;
+
+                                
+                            
+                            
+                                g)
+                                
+                                    l'acquisizione e la vendita di partecipazioni;
+
+                                
+                            
+                            
+                                h)
+                                
+                                    l'acquisto e la vendita di beni immobili di valore superiore a 5 miliardi;
+
+                                
+                            
+                            
+                                i)
+                                
+                                    l'acquisto e la vendita di beni mobili di valore superiore a 500 milioni;
+
+                                
+                            
+                            
+                                l)
+                                
+                                    l'approvazione dei regolamenti di organizzazione, di amministrazione, di contabilita' e del personale, nonche' la relativa dotazione organica;
+
+                                
+                            
+                            
+                                m)
+                                
+                                    le proposte per le eventuali modifiche del presente statuto.
 
 Il consiglio puo' esprimersi, in maniera non vincolante, su altri affari ad esso sottoposti dagli altri organi dell'Ente.
 
@@ -153,9 +252,66 @@ Ai procedimenti posti in essere dall'Ente si applica la disciplina della legge 7
 
 ## Art. 13. — Controlli interni
 
+1.
+                        
+                            
+                                E' istituito un sistema di controlli interni, coerente con i principi fissati nel decreto legislativo 30 luglio 1999, n. 286, per il perseguimento, tra l'altro, delle seguenti finalita':
+ 
+                            
+                            
+                                a)
+                                
+                                    accertamento della rispondenza dei risultati dell'attivita' dell'Ente agli obiettivi programmatici, valutando a tal fine comparativamente, costi, modi e tempi;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    vigilanza sull'attivita' delle strutture dell'Ente preposte all'attuazione dei programmi approvati dal consiglio nonche' sulla rispondenza degli stessi programmi definiti anno per anno in sede di approvazione del bilancio consuntivo;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    segnalazione all'amministratore dei fatti di rilievo che possono compromettere l'esecuzione dei programmi, formulando adeguate soluzioni;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    cooperazione con gli uffici preposti alla programmazione, per la redazione dei programmi.
+
 Con regolamento interno si provvede a disciplinare l'organizzazione ed il funzionamento del predetto ufficio.
 
 ## Art. 14. — Ufficio relazioni con il pubblico
+
+1.
+                        
+                            
+                                E' istituito l'ufficio relazioni con il pubblico con i seguenti compiti:
+ 
+                            
+                            
+                                a)
+                                
+                                    servizio all'utenza per i diritti di partecipazione di cui al capo III della legge 7 agosto 1990, n. 241, e successive modifiche ed integrazioni;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    all'informazione all'utenza relativa agli atti e allo stato dei procedimenti;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    alla ricerca ed analisi finalizzata alla formulazione di proposte sugli aspetti organizzativi e logistici del rapporto con l'utenza.
 
 La disciplina dell'organizzazione e del funzionamento sono definiti con regolamento interno.
 
@@ -171,6 +327,24 @@ L'Amministratore ha facolta' di attribuire, per motivate esigenze ed entro un li
 
 ## Art. 17. — Fonti di disciplina del rapporto di lavoro
 
+1.
+                        
+                            
+                                In applicazione dell'articolo 10 del decreto legislativo del 26 febbraio 1994, n. 143, il rapporto di lavoro del personale dell'Ente e' disciplinato:
+ 
+                            
+                            
+                                a)
+                                
+                                    dal codice civile - libro V - e dalle leggi speciali che regolano il rapporto di lavoro nell'impresa;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    dal contratto collettivo nazionale di lavoro stipulato dall'amministratore e dalle confederazioni e organizzazioni sindacali maggiormente rappresentative nell'ambito dell'Ente.
+
 Il rapporto di impiego del personale dell'Ente, anche dirigenziale, costituito attraverso la stipulazione di un contratto individuale di lavoro, e' assoggettato al contratto e alle norme legislative di cui al comma precedente.
 
 L'Ente provvede a stipulare contratti di lavoro collettivi aziendali a livello nazionale per il personale dipendente dirigente e non dirigente con le confederazioni e organizzazioni sindacali maggiormente rappresentative nell'ambito dell'Ente.
@@ -178,6 +352,24 @@ L'Ente provvede a stipulare contratti di lavoro collettivi aziendali a livello n
 La contrattazione collettiva decentrata si svolge nei limiti e per le materie definite dal contratto collettivo nazionale di lavoro.
 
 ## Art. 18. — Relazioni sindacali
+
+1.
+                        
+                            
+                                L'Ente e le organizzazioni sindacali maggiormente rappresentative nell'Ente medesimo concordano protocolli d'intesa, fermo restando la distinzione dei ruoli, aventi per oggetto:
+ 
+                            
+                            
+                                a)
+                                
+                                    diritto di informazione e consultazione su: strategie, obiettivi e prospettive di sviluppo dell'Ente; gestione dei rapporti di lavoro; organizzazione del lavoro, politica delle risorse umane; innovazioni tecnologiche; situazione economica e finanziaria dell'Ente; politiche di investimento; qualita' dell'ambiente di lavoro; funzionamento dei servizi;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    forme preventive per il componimento di conflitti concernenti l'interpretazione di clausole e norme dei contratti collettivi.
 
 ## Art. 19. — Comandi
 
@@ -200,6 +392,38 @@ Non costituiscono beni dell'Ente le strade ed ogni altro bene appartenente al de
 L'Ente provvede alla tenuta delle scritture contabili previste dal codice civile per le imprese, rispettando le medesime formalita'.
 
 ## Art. 22. — Bilanci dell'Ente
+
+1.
+                        
+                            
+                                Il sistema contabile dell'Ente comprende:
+ 
+                            
+                            
+                                a)
+                                
+                                    lo stato patrimoniale e il rendiconto della gestione dai quali risultino le rimanenze iniziali e finali del patrimonio, corredati da apposita nota integrativa del consiglio;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il bilancio preventivo concernente gli stanziamenti di spesa e le previsioni di entrata;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il bilancio consuntivo concernente gli impegni nonche' i pagamenti delle spese e gli accertamenti, nonche' le riscossioni delle entrate;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    la relazione sui risultati della gestione e sulla tenuta della contabilita' a cura del collegio dei revisori.
 
 Per la redazione dello stato patrimoniale e del rendiconto della gestione si applicano, in quanto compatibili, gli articoli 2423 e seguenti del codice civile. Essi sono redatti per ciascun anno solare e vengono approvati dal consiglio nei successivi sei mesi.
 

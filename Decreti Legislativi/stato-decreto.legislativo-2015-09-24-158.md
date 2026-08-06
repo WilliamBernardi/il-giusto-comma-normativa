@@ -8,8 +8,8 @@ vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
 vigenza_date: 2022-07-21
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:28Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -28,6 +28,38 @@ Su proposta del Ministro dell'economia e delle finanze;
 ## Art. 1. — Modifica dell'articolo 1 del decreto legislativo 
  10 marzo 2000, n.74
 
+1.
+                        
+                            
+                                All'articolo 1, comma 1, del decreto legislativo 10 marzo 2000, n. 74, sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    alla lettera b), dopo le parole: "valore aggiunto", sono aggiunte le seguenti: "e le componenti che incidono sulla determinazione dell'imposta dovuta"; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    alla lettera c), dopo le parole: "enti o persone fisiche" sono aggiunte le seguenti: "o di sostituto d'imposta, nei casi previsti dalla legge"; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    alla lettera f), dopo le parole: "scadenza nel relativo termine;" sono aggiunte le seguenti: "non si considera imposta evasa quella teorica e non effettivamente dovuta collegata a una rettifica in diminuzione di perdite dell'esercizio o di perdite pregresse spettanti e utilizzabili;"; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    dopo la lettera g) sono aggiunte le seguenti: «g-bis) per "operazioni simulate oggettivamente o soggettivamente" si intendono le operazioni apparenti, diverse da quelle disciplinate dall'articolo 10-bis della legge 27 luglio 2000, n. 212, poste in essere con la volonta' di non realizzarle in tutto o in parte ovvero le operazioni riferite a soggetti fittiziamente interposti; g-ter) per "mezzi fraudolenti" si intendono condotte artificiose attive nonche' quelle omissive realizzate in violazione di uno specifico obbligo giuridico, che determinano una falsa rappresentazione della realta'.».
+
 ## Art. 2. — Modifica dell'articolo 2 del decreto legislativo 10 marzo 2000, n. 74, in materia di dichiarazione fraudolenta mediante uso di fatture o altri documenti per operazioni inesistenti
 
 All'articolo 2, comma 1, del decreto legislativo 10 marzo 2000, n. 74, la parola: "annuali" e' soppressa.
@@ -44,13 +76,83 @@ Fuori dai casi previsti dall'articolo 2, e' punito con la reclusione da un anno 
 
 ## Art. 4. — Modifica dell'articolo 4 del decreto legislativo 10 marzo 2000, n. 74, in materia di dichiarazione infedele
 
+1.
+                        
+                            
+                                All'articolo 4 del decreto legislativo 10 marzo 2000, n. 74, sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    al comma 1, lettera a), la parola: "cinquantamila" e' sostituita dalla seguente: "centocinquantamila"; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    al comma 1, lettera b), le parole: "euro due milioni", sono sostituite dalle seguenti: "euro tre milioni"; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    dopo il comma 1, sono aggiunti i seguenti: "1-bis. Ai fini dell'applicazione della disposizione del comma 1, non si tiene conto della non corretta classificazione, della valutazione di elementi attivi o passivi oggettivamente esistenti, rispetto ai quali i criteri concretamente applicati sono stati comunque indicati nel bilancio ovvero in altra documentazione rilevante ai fini fiscali, della violazione dei criteri di determinazione dell'esercizio di competenza, della non inerenza, della non deducibilita' di elementi passivi reali. 1-ter. Fuori dei casi di cui al comma 1-bis, non danno luogo a fatti punibili le valutazioni che singolarmente considerate, differiscono in misura inferiore al 10 per cento da quelle corrette.
+Degli importi compresi in tale percentuale non si tiene conto nella verifica del superamento delle soglie di punibilita' previste dal comma 1, lettere a) e b)."; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    la parola: "fittizi", ovunque presente, e' sostituita dalla seguente: "inesistenti".
+
 ## Art. 5. — Modifica dell'articolo 5 del decreto legislativo 10 marzo 2000, n. 74, in materia di omessa dichiarazione
+
+1.
+                        
+                            
+                                All'articolo 5 del decreto legislativo 10 marzo 2000, n. 74, sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il comma 1 e' sostituito dai seguenti: "1. E' punito con la reclusione da un anno e sei mesi a quattro anni chiunque al fine di evadere le imposte sui redditi o sul valore aggiunto, non presenta, essendovi obbligato, una delle dichiarazioni relative a dette imposte, quando l'imposta evasa e' superiore, con riferimento a taluna delle singole imposte ad euro cinquantamila. 1-bis. E' punito con la reclusione da un anno e sei mesi a quattro anni chiunque non presenta, essendovi obbligato, la dichiarazione di sostituto d'imposta, quando l'ammontare delle ritenute non versate e' superiore ad euro cinquantamila."; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    al comma 2, le parole: "dal comma 1" sono sostituite dalle seguenti: "dai commi 1 e 1-bis".
 
 ## Art. 6. — Modifica dell'articolo 10 del decreto legislativo 10 marzo 2000, n. 74, in materia di occultamento o di distruzione di documenti contabili
 
 All'articolo 10 del decreto legislativo 10 marzo 2000, n. 74, al comma 1, le parole: "da sei mesi a cinque anni" sono sostituite dalle seguenti: "da un anno e sei mesi a sei anni.".
 
 ## Art. 7. — Modifica dell'articolo 10-bis del decreto legislativo 10 marzo 2000, n. 74, in materia di omesso versamento di ritenute certificate
+
+1.
+                        
+                            
+                                All'articolo 10-bis del decreto legislativo 10 marzo 2000, n. 74, sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    nella rubrica, dopo la parola: "ritenute" sono inserite le seguenti: "dovute o"; ((2))
+                                    
+                                
+                            
+                            
+                                b)
+                                
+                                    nel comma 1, dopo la parola: "ritenute" sono inserite le seguenti: "dovute sulla base della stessa dichiarazione o" e la parola: "cinquantamila" e' sostituita dalla seguente:
+"centocinquantamila". ((2))
 
 ---------------
                             AGGIORNAMENTO (2)
@@ -98,6 +200,24 @@ Dopo l'articolo 18 del decreto legislativo 10 marzo 2000, n. 74, e' inserito il 
  2. Restano ferme le disposizioni dell'articolo 61, comma 23, del decreto-legge 25 giugno 2008, n. 112, convertito, con modificazioni, dalla legge 6 agosto 2008, n. 133, e dell'articolo 2 del decreto-legge 16 settembre 2008, n. 143, convertito, con modificazioni, dalla legge 13 novembre 2008, n. 181.».
 
 ## Art. 14. — Abrogazioni
+
+1.
+                        
+                            
+                                Sono abrogati: 
+ 
+                            
+                            
+                                a)
+                                
+                                    gli articoli 7 e 16 del decreto legislativo 10 marzo 2000, n. 74; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il comma 143 dell'articolo 1 della legge 24 dicembre 2007, n. 244.
 
 ## - Titolo II Revisione del sistema sanzionatorio amministrativo Capo I Sanzioni tributarie non penali in materia di imposte dirette, di imposta sul valore aggiunto e di riscossione dei tributi
 
@@ -196,13 +316,127 @@ La sanzione e' raddoppiata nelle ipotesi in cui l'amministrazione finanziaria di
 ## Art. 16. — Modifiche al decreto legislativo 
  18 dicembre 1997, n. 472
 
+1.
+                        
+                            
+                                Al decreto legislativo 18 dicembre 1997, n. 472, sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    all'articolo 2, comma 4, le parole: "delle finanze, di concerto con il Ministro del tesoro" sono sostituite dalle seguenti: "dell'economia e delle finanze"; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    all'articolo 5, il comma 2 e' abrogato; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    all'articolo 7: 
+ 1) nel comma 3, le parole: "La sanzione puo' essere" sono sostituite dalle seguenti: "Salvo quanto previsto al comma 4, la sanzione e'" e dopo le parole: "all'accertamento" sono inserite le seguenti: "di mediazione e di conciliazione"; 
+ 2) nel comma 4, la parola: "eccezionali" e' soppressa; 
+ 3) dopo il comma 4 e' aggiunto il seguente: "4-bis. Salvo quanto diversamente disposto da singole leggi di riferimento, in caso di presentazione di una dichiarazione o di una denuncia entro trenta giorni dalla scadenza del relativo termine, la sanzione e' ridotta della meta'."; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    all'articolo 11: 
+ 1) nel comma 1 e' aggiunto, in fine, il seguente periodo: "Se la violazione non e' commessa con dolo o colpa grave, la sanzione, determinata anche in esito all'applicazione delle previsioni degli articoli 7, comma 3, e 12, non puo' essere eseguita nei confronti dell'autore, che non ne abbia tratto diretto vantaggio, in somma eccedente euro 50.000, salvo quanto disposto dagli articoli 16, comma 3, e 17, comma 2, e salva, per l'intero, la responsabilita' prevista a carico della persona fisica, della societa', dell'associazione o dell'ente. L'importo puo' essere adeguato ai sensi dell'articolo 2, comma 4."; 
+ 2) il comma 4 e' abrogato; 
+ 3) nel comma 5, le parole da: "Quando" a: "grave, il", sono sostituite dalla seguente: "Il" e le parole: "dall'articolo 5, comma 2" sono sostituite dalle seguenti: "dall'articolo 11, comma 1"; 
+ 4) nel comma 6, le parole da: "Per" a: "grave, la", sono sostituite dalla seguente: "La"; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    all'articolo 12, comma 8, nel primo periodo, dopo le parole: "con adesione," sono inserite le seguenti: "di mediazione tributaria e di conciliazione giudiziale," e nel secondo periodo le parole: ", alla conciliazione giudiziale" sono soppresse; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    all'articolo 13: 
+ 1) nel comma 1, lettera a-bis), le parole da: "il novantesimo" a: "dall'errore;" sono sostituite dalle seguenti: "novanta giorni dalla data dell'omissione o dell'errore, ovvero se la regolarizzazione delle omissioni e degli errori commessi in dichiarazione avviene entro novanta giorni dal termine per la presentazione della dichiarazione in cui l'omissione o l'errore e' stato commesso;"; 
+ 2) nel comma 1-bis, le parole: "e b-ter)" sono sostituite dalle seguenti: ", b-ter) e b-quater)"; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    all'articolo 14, dopo il comma 5 sono aggiunti i seguenti:
+"5-bis. Salva l'applicazione del comma 4, la disposizione non trova applicazione quando la cessione avviene nell'ambito di una procedura concorsuale, di un accordo di ristrutturazione dei debiti di cui all'articolo 182-bis del regio decreto 16 marzo 1942, n. 267, di un piano attestato ai sensi dell'articolo 67, terzo comma, lettera d), del predetto decreto o di un procedimento di composizione della crisi da sovraindebitamento o di liquidazione del patrimonio. 
+ 5-ter. Le disposizioni del presente articolo si applicano, in quanto compatibili, a tutte le ipotesi di trasferimento di azienda, ivi compreso il conferimento.". 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    all'articolo 23, comma 1, le parole: ", ancorche' non definitivo" sono sostituite dalle seguenti: "o provvedimento con il quale vengono accertati maggiori tributi, ancorche' non definitivi"; inoltre le parole: "della somma risultante dall'atto o dalla" sono sostituite dalle seguenti: "di tutti gli importi dovuti in base all'atto o alla".
+
 ## - Capo III Altre disposizioni
 
 ## Art. 17. — Sanzione applicabile in caso di cessioni, risoluzioni e proroghe anche tacite dei contratti di locazione e di affitto di beni immobili
 
+1.
+                        
+                            
+                                All'articolo 17 del decreto del Presidente della Repubblica 26 aprile 1986, n. 131, sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    al comma 1, dopo il primo periodo e' inserito il seguente: "Entro il termine di trenta giorni deve essere presentata all'ufficio presso cui e' stato registrato il contratto di locazione la comunicazione relativa alle cessioni, alle risoluzioni e alle proroghe anche tacite dello stesso.". 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    dopo il comma 1, e' inserito il seguente: "1-bis. Chi non esegue, in tutto o in parte, il versamento relativo alle cessioni, risoluzioni e proroghe anche tacite dei contratti di cui al comma 1 e' sanzionato ai sensi dell'articolo 13 del decreto legislativo 18 dicembre 1997, n. 471."; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il comma 2 e' soppresso.
+
 All'articolo 3, comma 3, del decreto legislativo 14 marzo 2011, n. 23, dopo il primo periodo e' aggiunto il seguente: "In caso di mancata presentazione della comunicazione relativa alla risoluzione del contratto di locazione per il quale e' stata esercitata l'opzione per l'applicazione dell'imposta cedolare secca, entro trenta giorni dal verificarsi dell'evento, si applica la sanzione in misura fissa pari a euro 67, ridotta a euro 35 se presentata con ritardo non superiore a trenta giorni.".
 
 ## Art. 18. — Altre modifiche in materia di sanzioni ai fini dell'imposta di registro
+
+1.
+                        
+                            
+                                Al titolo VII del decreto del Presidente della Repubblica 26 aprile 1986, n. 131, sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    all'articolo 69, comma 1, dopo il primo periodo e' aggiunto il seguente: "Se la richiesta di registrazione e' effettuata con ritardo non superiore a 30 giorni, si applica la sanzione amministrativa dal sessanta al centoventi per cento dell'ammontare delle imposte dovute, con un minimo di euro 200."; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    all'articolo 72, comma 1, le parole: "dal duecento al quattrocento per cento" sono sostituite dalle seguenti: "dal centoventi al duecentoquaranta per cento".
 
 ## Art. 19. — Associazioni sportive dilettantistiche
 
@@ -214,8 +448,44 @@ All'articolo 1, comma 421, della legge 30 dicembre 2004, n. 311, dopo le parole:
 
 ## Art. 21. — Violazioni in materia di certificazione unica
 
+1.
+                        
+                            
+                                All'articolo 4, comma 6-quinquies, del decreto del Presidente della Repubblica 22 luglio 1998, n. 322, sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    nel secondo periodo, dopo le parole: "del decreto legislativo 18 dicembre 1997, n. 472" sono aggiunte le seguenti: ", con un massimo di euro 50.000 per sostituto di imposta"; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    dopo l'ultimo periodo e' aggiunto il seguente: "Se la certificazione e' correttamente trasmessa entro sessanta giorni dal termine previsto nel primo periodo, la sanzione e' ridotta a un terzo, con un massimo di euro 20.000.".
+
 ## Art. 22. — Violazioni degli obblighi di comunicazione degli enti 
  e delle casse aventi esclusivamente fine assistenziale
+
+1.
+                        
+                            
+                                All'articolo 78, comma 26, della legge 30 dicembre 1991, n. 413, sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    nel quarto periodo, dopo le parole: "decreto legislativo 18 dicembre 1997, n. 472" sono aggiunte le seguenti: ", con un massimo di euro 50.000 per soggetto terzo"; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    dopo l'ultimo periodo e' aggiunto il seguente: "Se la comunicazione e' correttamente trasmessa entro sessanta giorni dalla scadenza di cui al comma 25, la sanzione e' ridotta a un terzo, con un massimo di euro 20.000.".
 
 ## Art. 23. — Violazioni degli obblighi di comunicazione 
  al Sistema tessera sanitaria
@@ -250,6 +520,24 @@ Per i decreti di trasferimento e gli atti da essi ricevuti, i cancellieri devono
 
 All'articolo 6, comma 2, del decreto legislativo 31 ottobre 1990, n. 347, le parole: "trenta giorni" sono sostituite dalle seguenti: "centoventi giorni".
 
+2.
+                        
+                            
+                                All'articolo 9 del decreto legislativo 31 ottobre 1990, n. 347, sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    al comma 1, dopo il primo periodo e' aggiunto il seguente: "Se la richiesta di trascrizione o le annotazioni obbligatorie sono effettuate con un ritardo non superiore a trenta giorni, si applica la sanzione amministrativa dal cinquanta al cento per cento dell'ammontare delle imposte dovute."; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    al comma 2, le parole: "da lire duecentomila a lire quattro milioni." sono sostituite dalle seguenti: "da euro 100 a euro 2.000, ridotta a euro 50 se la richiesta e' effettuata con ritardo non superiore a trenta giorni.".
+
 ## Art. 28. — Modifiche in materia di imposta 
  sulle successioni e donazioni
 
@@ -257,7 +545,72 @@ All'articolo 50, comma 1, secondo periodo, del decreto legislativo 31 ottobre 19
 
 ## Art. 29. — Modifiche in materia di imposta di bollo
 
+1.
+                        
+                            
+                                Al titolo V del decreto del Presidente della Repubblica 26 ottobre 1972, n. 642, sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    all'articolo 24, comma 1, le parole: "lire duecentomila a lire quattrocentomila" sono sostituite dalle seguenti: "euro 100 a euro 200"; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    all'articolo 25, comma 3, dopo il primo periodo e' aggiunto il seguente: "Se la dichiarazione di conguaglio e' presentata con un ritardo non superiore a trenta giorni, si applica la sanzione amministrativa dal cinquanta al cento per cento dell'ammontare dell'imposta dovuta.".
+
 ## Art. 30. — Modifiche in materia di imposta sugli intrattenimenti
+
+1.
+                        
+                            
+                                All'articolo 32 del decreto del Presidente della Repubblica 26 ottobre 1972, n. 640, sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    al comma 1: 
+ 1) nel primo periodo, le parole: "lire un milione" sono sostituite dalle seguenti: "euro 500"; 
+ 2) e' aggiunto, in fine, il seguente periodo: "La sanzione e' dovuta nella misura da euro 250 a euro 2.000 quando la violazione non ha inciso sulla corretta liquidazione del tributo."; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    al comma 2: 
+ 1) nel primo periodo, le parole: "lire cinquecentomila" sono sostituite dalle seguenti: "euro 250"; 
+ 2) e' aggiunto, in fine, il seguente periodo: "Se la dichiarazione di cui all'articolo 2 e quella di cui all'articolo 3 del decreto del Presidente della Repubblica 30 dicembre 1999, n. 544, da presentarsi, rispettivamente, entro dieci giorni dalla fine di ciascun anno sociale, ed entro il quinto giorno successivo al termine della data della manifestazione, sono presentate con un ritardo non superiore a trenta giorni, si applica la sanzione amministrativa dal cinquanta al cento per cento dell'ammontare dell'imposta con un minimo di 150 euro."; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    al comma 3, primo periodo, dopo le parole: "non documentato" sono aggiunte le seguenti: "con un minimo di euro 500".
+
+2.
+                        
+                            
+                                All'articolo 33 del decreto del Presidente della Repubblica 26 ottobre 1972, n. 640, sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    al comma 1, le parole: "lire cinquecentomila a lire due milioni" sono sostituite dalle seguenti: "euro 250 a euro 1.000"; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il comma 4 e' abrogato.
 
 ## Art. 31. — Modifiche in materia di fatture 
  per operazioni inesistenti
@@ -269,6 +622,38 @@ Nell'articolo 21 del decreto del Presidente della Repubblica 26 ottobre 1972, n.
 ## Art. 32. — Decorrenza degli effetti e abrogazioni
 
 Le disposizioni di cui al Titolo II del presente decreto si applicano a decorrere dal ((1° gennaio 2016)).
+
+2.
+                        
+                            
+                                A decorrere dal ((1° gennaio 2016)) sono abrogate le seguenti disposizioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    gli articoli 32 e 33 del decreto legislativo 15 dicembre 1997, n. 446; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'articolo 27, comma 18, del decreto-legge 29 novembre 2008, n. 185, convertito, con modificazioni, dalla legge 28 gennaio 2009, n. 2; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    l'articolo 19, comma 4, del decreto legislativo 9 luglio 1997, n. 241; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    l'articolo 3, comma 5, del decreto legislativo 14 marzo 2011, n. 23;
 
 Nell'articolo 34, comma 4, della legge 23 dicembre 2000, n. 388, le parole: "di cui al decreto legislativo 21 novembre 1997, n. 461" sono soppresse.
 

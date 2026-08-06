@@ -7,8 +7,8 @@ urn: urn:nir:stato:decreto.legislativo:2017-12-07;204
 vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:20Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -104,6 +104,24 @@ L'Autorita' verifica le motivazioni addotte, anche tenuto conto della sussistenz
  Art. 44-septies (Norme in materia di emittenza locale). - 1. Le disposizioni del presente titolo non si applicano ai fornitori di servizi di media audiovisivi operanti in ambito locale.».
 
 ## Art. 3. — Sanzioni
+
+1.
+                    
+                        
+                            All'articolo 51, del decreto legislativo n. 177 del 2005, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 1, la lettera g) e' sostituita dalla seguente: «g) in materia di tutela della produzione audiovisiva europea e indipendente, dal Titolo VII e dai regolamenti dell'Autorita', nonche' dai decreti ministeriali;»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 2, la lettera d) e' sostituita dalla seguente: «d) da 100.000 euro a 5.000.000 euro, ovvero fino all'uno per cento del fatturato annuo, quando il valore di tale percentuale e' superiore a 5.000.000 euro, in caso di violazione delle norme di cui al comma 1, lettera g);».
 
 ## Art. 4. — Disposizioni transitorie, finanziarie e finali
 

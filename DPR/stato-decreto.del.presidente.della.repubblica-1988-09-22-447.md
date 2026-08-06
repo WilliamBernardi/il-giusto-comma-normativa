@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: DPR
 vigenza_date: 2026-07-23
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:48:15Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -200,6 +200,31 @@ I procedimenti in cui assume la qualita' di persona sottoposta ad indagini, di i
 
 ## Art. 12. — Casi di connessione
 
+1.
+                        
+                            
+                                Si ha connessione di procedimenti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    se il reato per cui si procede e' stato commesso da piu' persone in concorso o cooperazione fra loro, o se piu' persone con condotte indipendenti hanno determinato l'evento; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    se una persona e' imputata di piu' reati commessi con una sola azione od omissione ovvero con piu' azioni od omissioni esecutive di un medesimo disegno criminoso; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    se dei reati per cui si procede gli uni sono stati commessi per eseguire o per occultare gli altri (( . . . ))
+
 ## Art. 13. — Connessione di procedimenti di competenza di giudici ordinari e speciali
 
 Se alcuni dei procedimenti connessi appartengono alla competenza di un giudice ordinario e altri a quella della Corte costituzionale, e' competente per tutti quest'ultima.
@@ -238,6 +263,31 @@ I delitti si considerano piu' gravi delle contravvenzioni. Fra delitti o fra con
 
 ## Art. 17. — Riunione di processi
 
+1.
+                        
+                            
+                                La riunione di processi pendenti nello stesso stato e grado davanti al medesimo giudice puo' essere disposta ((quando non determini un ritardo nella definizione degli stessi)): 
+ 
+                            
+                            
+                                a)
+                                
+                                    nei casi previsti dall'articolo 12; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    LETTERA SOPPRESSA DAL D.L. 20 NOVEMBRE 1991, N. 367, CONVERTITO CON MODIFICAZIONI DALLA L. 20 GENNAIO 1992, N. 8. 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    nei casi previsti dall'articolo 371, comma 2, lettera b).
+
 Se alcuni dei processi pendono davanti al tribunale collegiale ed altri davanti al tribunale monocratico, la riunione e' disposta davalti al tribunale in composizione collegiale. Tale composizione resta ferma anche nel caso di successiva separazione dei processi. (90) (90a)
 
 ---------------
@@ -251,6 +301,45 @@ articoli 17, 33, comma 1, 38, comma 1 e 40, commi 1 e 3."
  Il D. Lgs. 19 febbraio 1998, n. 51 come modificato dalla L. 16 giugno 1998, n. 188 ha disposto (con l'art. 247, comma 1) che "Il presente decreto legislativo entra in vigore il giorno successivo alla sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana e diventa efficace a decorrere dal 2 giugno 1999 , fatta eccezione per le disposizioni previste dagli articoli 17, 33, comma 1, 38, comma 1 e 40, commi 1 e 3."
 
 ## Art. 18. — Separazione di processi
+
+1.
+                        
+                            
+                                La separazione di processi e' disposta, salvo che il giudice ritenga la riunione assolutamente necessaria per l'accertamento dei fatti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    se, nell'udienza preliminare, nei confronti di uno o piu' imputati o per una o piu' imputazioni e' possibile pervenire prontamente alla decisione, mentre nei confronti di altri imputati o per altre imputazioni e' necessario acquisire ulteriori informazioni a norma dell'articolo 422; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    se nei confronti di uno o piu' imputati o per una o piu' imputazioni e' stata ordinata la sospensione del procedimento; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    se uno o piu' imputati non sono comparsi al dibattimento per nullita' dell'atto di citazione o della sua notificazione, per legittimo impedimento o per mancata conoscenza incolpevole dell'atto di citazione; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    se uno o piu' difensori di imputati non sono comparsi al dibattimento per mancato avviso ovvero per legittimo impedimento; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    se nei confronti di uno o piu' imputati o per una o piu' imputazioni l'istruzione dibattimentale risulta conclusa, mentre nei confronti di altri imputati o per altre imputazioni e' necessario il compimento di ulteriori atti che non consentono di pervenire prontamente alla decisione;
 
 Fuori dei casi previsti dal comma 1, la separazione puo' essere altresi' disposta, sull'accordo delle parti, qualora il giudice la ritenga utile ai fini della speditezza del processo.
 
@@ -350,6 +439,25 @@ Le misure cautelari disposte dal giudice che, contestualmente o successivamente,
 
 ## Art. 28. — Casi di conflitto
 
+1.
+                        
+                            
+                                Vi e' conflitto quando in qualsiasi stato e grado del processo: 
+ 
+                            
+                            
+                                a)
+                                
+                                    uno o piu' giudici ordinari e uno o piu' giudici speciali 
+contemporaneamente prendono o ricusano di prendere cognizione del medesimo fatto attribuito alla stessa persona; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    due o piu' giudici ordinari contemporaneamente prendono o ricusano di prendere cognizione del medesimo fatto attribuito alla stessa persona.
+
 Le norme sui conflitti si applicano anche nei casi analoghi a quelli previsti dal comma 1. Tuttavia, qualora il contrasto sia tra giudice dell'udienza preliminare e giudice del dibattimento, prevale la decisione di quest'ultimo.
 
 Nel corso delle indagini preliminari, non puo' essere proposto conflitto positivo fondato su ragioni di competenza per territorio determinata dalla connessione.
@@ -403,6 +511,120 @@ Non si considerano altresi' attinenti alla capacita' del giudice ne' al numero d
 ## Art. 33-bis. — Attribuzioni del tribunale in composizione collegiale
 
 
+
+1.
+                        
+                            
+                                Sono attribuiti al tribunale in composizione collegiale i seguenti reati, consumati o tentati: 
+ 
+                            
+                            
+                                a)
+                                
+                                    delitti indicati nell'articolo 407, comma 2, lettera a), numeri 3), 4) e 5), sempre che per essi non sia stabilita la competenza della corte di assise; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    delitti previsti dal capo I dei titolo II del libro II del codice penale, esclusi quelli indicati dagli articoli 329, 331, primo comma, 332, 334 e 335; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    delitti previsti dagli articoli 416, 416-bis, 416-ter, 420, terzo comma, 429, secondo comma, 431, secondo comma, 432, terzo comma, 433, terzo comma, 433-bis, secondo comma, 440, 449, secondo comma, 452, primo comma, numero 2, 513- bis, 564, da 600-bis a 600-sexies puniti con reclusione non inferiore nel massimo a cinque anni, 609-bis, 609-quater e 644 del codice penale; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    reati previsti dal Titolo XI del libro V del codice civile, nonche' dalle disposizioni che ne estendono l'applicazione a soggetti diversi da quelli in essi indicati; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    delitti previsti dall'articolo 1136 del codice della navigazione; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    delitti previsti dagli articoli 6 e 11 della legge costituzionale 16 gennaio 1989, n. 1; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    delitti previsti dagli articoli 216, 223, 228 e 234 del regio decreto 16 marzo 1942, n. 267, in materia fallimentare, nonche' dalle disposizioni che ne estendono l'applicazione a soggetti diversi da quelli in essi indicati; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    delitti previsti dall'articolo 1 del decreto legislativo 14 febbraio 1948, n. 43, ratificato dalla legge 17 aprile 1956, n. 561 in materia di associazioni di carattere militare; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    delitti previsti dalla legge 20 giugno 1952, n. 645, attuativa della XII disposizione transitoria e finale della Costituzione; 
+
+                                
+                            
+                            
+                                i-bis)
+                                
+                                    delitti previsti dall'articolo 291-quater del testo unico approvato con decreto del Presidente della Repubblica 23 gennaio 1973, n. 43. 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    delitto previsto dall'articolo 593-ter del codice penale;
+                                
+                            
+                            
+                                m)
+                                
+                                    delitto previsto dall'articolo 2 della legge 25 gennaio 1982, n. 17, in materia di associazioni segrete; 
+
+                                
+                            
+                            
+                                n)
+                                
+                                    delitto previsto dall'articolo 29 secondo comma, della legge 13 settembre 1982, n. 646, in materia di misure di prevenzione; 
+
+                                
+                            
+                            
+                                o)
+                                
+                                    delitto previsto dall'articolo 512-bis del codice penale;
+                                
+                            
+                            
+                                p)
+                                
+                                    delitti previsti dall'articolo 6, commi 3 e 4, del decreto-legge 26 aprile 1993, n. 122, convertito, con modificazione, dalla legge 25 giugno 1993, n. 205, in materia di discriminazione razziale, etnica e religiosa; 
+
+                                
+                            
+                            
+                                q)
+                                
+                                    delitti previsti dall'articolo 10 della legge 18 novembre 1995, n. 496, in materia di produzione e uso di armi chimiche.
 
 Sono attribuiti altresi' al tribunale in composizione collegiale, salva la disposizione dell'articolo 33-ter, comma 1, i delitti puniti con la pena della reclusione superiore nel massimo a dieci anni, anche nell'ipotesi del tentativo. Per la determinazione della pena si osservano le disposizioni dell'articolo 4.
 
@@ -557,6 +779,45 @@ Non puo' partecipare al giudizio il giudice che ha emesso il provvedimento concl
 
 Il giudice che nel medesimo procedimento ha esercitato funzioni di giudice per le indagini preliminari non puo' emettere il decreto penale di condanna, ne' tenere l'udienza preliminare; inoltre, anche fuori dei casi previsti dal comma 2, non puo' partecipare al giudizio. (90) (90a) (105)
 
+2-ter.
+                        
+                            
+                                Le disposizioni del comma 2-bis non si applicano al giudice che nel medesimo procedimento abbia adottato uno dei seguenti provvedimenti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    le autorizzazioni sanitarie previste dall'articolo 11 della legge 26 luglio 1975, n. 354; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    i provvedimenti relativi ai permessi di colloquio, alla corrispondenza telefonica e al visto di controllo sulla corrispondenza, previsti dagli articoli 18 e 18-ter della legge 26 luglio 1975, n. 354; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    i provvedimenti relativi ai permessi previsti dall'articolo 30 della legge 26 luglio 1975, n. 354; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    il provvedimento di restituzione nel termine di cui all'articolo 175; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    il provvedimento che dichiara la latitanza a norma dell'articolo 296.
+
 Le disposizioni del comma 2-bis non si applicano inoltre al giudice che abbia provveduto all'assunzione dell'incidente probatorio o comunque adottato uno dei provvedimenti previsti dal titolo VII del libro quinto.
 
 Chi ha esercitato funzioni di pubblico ministero o ha svolto atti di polizia giudiziaria o ha prestato ufficio di difensore, di procuratore speciale, di curatore di una parte ovvero di testimone, perito, consulente tecnico o ha proposto denuncia, querela, istanza o richiesta o ha deliberato o ha concorso a deliberare l'autorizzazione a procedere non puo' esercitare nel medesimo procedimento l'ufficio di giudice.
@@ -705,6 +966,66 @@ Nello stesso procedimento non possono esercitare funzioni, anche separate o dive
 
 ## Art. 36. — Astensione
 
+1.
+                        
+                            
+                                Il giudice ha l'obbligo di astenersi: 
+ 
+                            
+                            
+                                a)
+                                
+                                    se ha interesse nel procedimento o se alcuna delle parti private o un difensore e' debitore o creditore di lui, del coniuge o dei figli; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    se e' tutore, curatore, procuratore o datore di lavoro di una delle parti private ovvero se il difensore, procuratore o curatore di una di dette parti e' prossimo congiunto di lui o del coniuge; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    se ha dato consigli o manifestato il suo parere sull'oggetto del procedimento fuori dell'esercizio delle funzioni giudiziarie; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    se vi e' inimicizia grave fra lui o un suo prossimo congiunto e una delle parti private; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    se alcuno dei prossimi congiunti di lui o del coniuge e' offeso o danneggiato dal reato o parte privata; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    se un prossimo congiunto di lui o del coniuge svolge o ha svolto funzioni di pubblico ministero; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    se si trova in taluna delle situazioni di incompatibilita' stabilite dagli articoli 34 e 35 e dalle leggi di ordinamento giudiziario; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    se esistono altre gravi ragioni di convenienza.
+
 I motivi di astensione indicati nel comma 1 lettera b) seconda ipotesi e lettera e) o derivanti da incompatibilita' per ragioni di coniugio o affinita', sussistono anche dopo l'annullamento, lo scioglimento o la cessazione degli effetti civili del matrimonio.
 
 La dichiarazione di astensione e' presentata al presidente della corte o del tribunale che decide con decreto senza formalita' di procedura.
@@ -722,6 +1043,24 @@ articoli 17, 33, comma 1, 38, comma 1 e 40, commi 1 e 3."
  Il D. Lgs. 19 febbraio 1998, n. 51 come modificato dalla L. 16 giugno 1998, n. 188 ha disposto (con l'art. 247, comma 1) che "Il presente decreto legislativo entra in vigore il giorno successivo alla sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana e diventa efficace a decorrere dal 2 giugno 1999 , fatta eccezione per le disposizioni previste dagli articoli 17, 33, comma 1, 38, comma 1 e 40, commi 1 e 3."
 
 ## Art. 37. — Ricusazione
+
+1.
+                        
+                            
+                                Il giudice puo' essere ricusato dalle parti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    nei casi previsti dall'articolo 36 comma 1 lettere a), b), c), d), e), f), g); 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    se nell'esercizio delle funzioni e prima che sia pronunciata sentenza, egli ha manifestato indebitamente il proprio convincimento sui fatti oggetto dell'imputazione. (113)
 
 Il giudice ricusato non puo' pronunciare ne' concorrere a pronunciare sentenza fino a che non sia intervenuta l'ordinanza che dichiara inammissibile o rigetta la ricusazione. (81) 
  ((345)) 
@@ -888,6 +1227,24 @@ L'esercizio dell'azione penale puo' essere sospeso o interrotto soltanto nei cas
 
 ## Art. 51. — Uffici del pubblico ministero - Attribuzioni del procuratore della Repubblica distrettuale
 
+1.
+                        
+                            
+                                Le funzioni di pubblico ministero sono esercitate: 
+ 
+                            
+                            
+                                a)
+                                
+                                    nelle indagini preliminari e nei procedimenti di primo grado dai magistrati della procura della Repubblica presso il tribunale; (90) (90a) 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    nei giudizi di impugnazione dai magistrati della procura generale presso la corte di appello o presso la corte di cassazione.
+
 Nei casi di avocazione, le funzioni previste dal comma 1 lettera a) sono esercitate dai magistrati della procura generale presso la corte di appello. Nei casi di avocazione previsti dall'articolo 371-bis, sono esercitate dai magistrati della Direzione nazionale antimafia. (28)
 
 Le funzioni previste dal comma 1 sono attribuite all'ufficio del pubblico ministero presso il giudice competente a norma del capo II del titolo I.
@@ -1025,7 +1382,75 @@ Le funzioni indicate nei commi 1 e 2 sono svolte dagli ufficiali e dagli agenti 
 
 ## Art. 56. — Servizi e sezioni di polizia giudiziaria
 
+1.
+                        
+                            
+                                Le funzioni di polizia giudiziaria sono svolte alla dipendenza e sotto la direzione dell'autorita' giudiziaria: 
+ 
+                            
+                            
+                                a)
+                                
+                                    dai servizi di polizia giudiziaria previsti dalla legge; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    dalle sezioni di polizia giudiziaria istituite presso ogni procura della Repubblica e composte con personale dei servizi di polizia giudiziaria; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    dagli ufficiali e dagli agenti di polizia giudiziaria appartenenti agli altri organi cui la legge fa obbligo di compiere indagini a seguito di una notizia di reato.
+
 ## Art. 57. — Ufficiali e agenti di polizia giudiziaria
+
+1.
+                        
+                            
+                                Salve le disposizioni delle leggi speciali, sono ufficiali di polizia giudiziaria: 
+ 
+                            
+                            
+                                a)
+                                
+                                    i dirigenti, i commissari, gli ispettori, i sovrintendenti e gli altri appartenenti alla polizia di Stato ai quali l'ordinamento dell'amministrazione della pubblica sicurezza riconosce tale qualita'; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    gli ufficiali superiori e inferiori e i sottufficiali dei carabinieri, della guardia di finanza, degli agenti di custodia e del corpo forestale dello Stato nonche' gli altri appartenenti alle predette forze di polizia ai quali l'ordinamento delle rispettive amministrazioni riconosce tale qualita'; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il sindaco dei comuni ove non abbia sede un ufficio della polizia di Stato ovvero un comando dell'arma dei carabinieri o della guardia di finanza.
+
+2.
+                        
+                            
+                                Sono agenti di polizia giudiziaria: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il personale della polizia di Stato al quale l'ordinamento dell'amministrazione della pubblica sicurezza riconosce tale qualita'; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    i carabinieri, le guardie di finanza, gli agenti di custodia, le guardie forestali e, nell'ambito territoriale dell'ente di appartenenza, le guardie delle province e dei comuni quando sono in servizio.
 
 Sono altresi' ufficiali e agenti di polizia giudiziaria, nei limiti del servizio cui sono destinate e secondo le rispettive attribuzioni, le persone alle quali le leggi e i regolamenti attribuiscono le funzioni previste dall'articolo 55. 
  
@@ -1243,6 +1668,45 @@ In caso di assoluta urgenza, l'azione civile nell'interesse del danneggiato inca
 
 ## Art. 78. — Formalita' della costituzione di parte civile
 
+1.
+                        
+                            
+                                La dichiarazione di costituzione di parte civile e' depositata nella cancelleria del giudice che procede o presentata in udienza e deve contenere, a pena di inammissibilita': 
+ 
+                            
+                            
+                                a)
+                                
+                                    le generalita' della persona fisica o la denominazione dell'associazione o dell'ente che si costituisce parte civile e le generalita' del suo legale rappresentante; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le generalita' dell'imputato nei cui confronti viene esercitata l'azione civile o le altre indicazioni personali che valgono a identificarlo; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il nome e il cognome del difensore e l'indicazione della procura; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    l'esposizione delle ragioni che giustificano la domanda ((agli effetti civili)); 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    la sottoscrizione del difensore.
+
 ((
 
 Il difensore cui sia stata conferita la procura speciale ai sensi dell'articolo 100, nonche' la procura per la costituzione di parte civile a norma dell'articolo 122, se in questa non risulta la volonta' contraria della parte interessata, puo' conferire al proprio sostituto, con atto scritto, il potere di sottoscrivere e depositare l'atto di costituzione.
@@ -1302,6 +1766,38 @@ Il responsabile civile per il fatto dell'imputato puo' essere citato nel process
 
 La richiesta deve essere proposta al piu' tardi per il dibattimento.
 
+3.
+                        
+                            
+                                La citazione e' ordinata con decreto dal giudice che procede. Il decreto contiene: 
+ 
+                            
+                            
+                                a)
+                                
+                                    le generalita' o la denominazione della parte civile, con l'indicazione del difensore e le generalita' del responsabile civile, se e' una persona fisica, ovvero la denominazione dell'associazione o dell'ente chiamato a rispondere e le generalita' del suo legale rappresentante; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'indicazione delle domande che si fanno valere contro il responsabile civile; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    l'invito a costituirsi nei modi previsti dall'articolo 84; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    la data e le sottoscrizioni del giudice e dell'ausiliario che lo assiste.
+
 Copia del decreto e' notificata, a cura della parte civile, al responsabile civile, al pubblico ministero e all'imputato. Nel caso previsto dall'articolo 77 comma 4, la copia del decreto e' notificata al responsabile civile e all'imputato a cura del pubblico ministero.
 L'originale dell'atto con la relazione di notificazione e' depositato nella cancelleria del giudice che procede.
 
@@ -1332,6 +1828,31 @@ La citazione del responsabile civile perde efficacia se la costituzione di parte
 ## Art. 84. — Costituzione del responsabile civile
 
 Chi e' citato come responsabile civile puo' costituirsi in ogni stato e grado del processo, anche a mezzo di procuratore speciale, con dichiarazione depositata nella cancelleria del giudice che procede o presentata in udienza.
+
+2.
+                        
+                            
+                                La dichiarazione deve contenere a pena di inammissibilita': 
+ 
+                            
+                            
+                                a)
+                                
+                                    le generalita' della persona fisica o la denominazione dell'associazione o dell'ente che si costituisce e le generalita' del suo legale rappresentante; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il nome e il cognome del difensore e l'indicazione della procura; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    la sottoscrizione del difensore.
 
 La procura conferita nelle forme previste dall'articolo 100 comma 1 e' depositata nella cancelleria o presentata in udienza unitamente alla dichiarazione di costituzione del responsabile civile.
 
@@ -1397,6 +1918,165 @@ Qualora la persona offesa sia deceduta in conseguenza del reato, le facolta' e i
 
 ## Art. 90-bis. — (Informazioni alla persona offesa)
 
+1.
+                        
+                            
+                                Alla persona offesa, sin dal primo contatto con l'autorita' procedente, vengono fornite, in una lingua a lei comprensibile, informazioni in merito: 
+ 
+                            
+                            
+                                a)
+                                
+                                    alle modalita' di presentazione degli atti di denuncia o querela, al ruolo che assume nel corso delle indagini e del processo, al diritto ad avere conoscenza della data, del luogo del processo e della imputazione e, ove costituita parte civile, al diritto a ricevere notifica della sentenza, anche per estratto; 
+
+                                
+                            
+                            
+                                a-bis)
+                                
+                                    all'obbligo del querelante di dichiarare o eleggere domicilio per la comunicazione e la notificazione degli atti del procedimento, con l'avviso che la dichiarazione di domicilio puo' essere effettuata anche dichiarando un indirizzo di posta elettronica certificata o altro servizio elettronico di recapito certificato qualificato»; 
+
+                                
+                            
+                            
+                                a-ter)
+                                
+                                    alla facolta' del querelante, ove non abbia provveduto all'atto di presentazione della querela, di dichiarare o eleggere domicilio anche successivamente; 
+
+                                
+                            
+                            
+                                a-quater)
+                                
+                                    all'obbligo del querelante, in caso di mutamento del domicilio dichiarato o eletto, di comunicare tempestivamente e nelle forme prescritte all'autorita' giudiziaria procedente la nuova domiciliazione; 
+
+                                
+                            
+                            
+                                a-quinquies)
+                                
+                                    al fatto che, ove abbia nominato un difensore, il querelante sara' domiciliato presso quest'ultimo; che, in mancanza di nomina del difensore, le notificazioni saranno eseguite al querelante presso il domicilio digitale e, nei casi di cui all'articolo 148, comma 4, presso il domicilio dichiarato o eletto; che, in caso di mancanza, insufficienza o inidoneita' della dichiarazione o elezione di domicilio, le notificazioni al querelante saranno effettuate mediante deposito presso la segreteria del pubblico ministero procedente o presso la cancelleria del giudice procedente; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    alla facolta' di ricevere comunicazione del procedimento e delle iscrizioni di cui all'articolo 335, commi 1, 2 e 3-ter; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    alla facolta' di essere avvisata della richiesta di archiviazione; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    alla facolta' di avvalersi della consulenza legale e del patrocinio a spese dello Stato; 
+
+                                
+                            
+                            
+                                d-bis)
+                                
+                                    
+                                        ((al diritto di essere avvisata, quando si procede per taluno dei delitti di cui all'articolo 444, comma 1-quater, della presentazione fuori udienza della richiesta di applicazione della pena di cui all'articolo 444 e della facolta' di presentare memorie e deduzioni in relazione alla richiesta medesima nonche' a quella formulata in udienza ai sensi degli articoli 446, comma 2, e 554-ter, comma 2)); 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    alle modalita' di esercizio del diritto all'interpretazione e alla traduzione di atti del procedimento; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    alle eventuali misure di protezione che possono essere disposte in suo favore; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    ai diritti riconosciuti dalla legge nel caso in cui risieda in uno Stato membro dell'Unione europea diverso da quello in cui e' stato commesso il reato; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    alle modalita' di contestazione di eventuali violazioni dei propri diritti; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    alle autorita' cui rivolgersi per ottenere informazioni sul procedimento; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    alle modalita' di rimborso delle spese sostenute in relazione alla partecipazione al procedimento penale; 
+
+                                
+                            
+                            
+                                m)
+                                
+                                    alla possibilita' di chiedere il risarcimento dei danni derivanti da reato; 
+
+                                
+                            
+                            
+                                n)
+                                
+                                    alla possibilita' che il procedimento sia definito con remissione di querela di cui all'articolo 152 del codice penale, ove possibile; 
+
+                                
+                            
+                            
+                                n-bis)
+                                
+                                    al fatto che la mancata comparizione senza giustificato motivo della persona offesa che abbia proposto querela all'udienza alla quale sia stata citata in qualita' di testimone comporta la remissione tacita di querela; 
+
+                                
+                            
+                            
+                                o)
+                                
+                                    alle facolta' ad essa spettanti nei procedimenti in cui l'imputato formula richiesta di sospensione del procedimento con messa alla prova o in quelli in cui e' applicabile la causa di esclusione della punibilita' per particolare tenuita' del fatto; 
+
+                                
+                            
+                            
+                                p)
+                                
+                                    alle strutture sanitarie presenti sul territorio, alle case famiglia, ai centri antiviolenza, alle case rifugio e ai servizi di assistenza alle vittime di reato; 
+
+                                
+                            
+                            
+                                p-bis)
+                                
+                                    alla facolta' di accedere ai programmi di giustizia riparativa; 
+
+                                
+                            
+                            
+                                p-ter)
+                                
+                                    al fatto che la partecipazione del querelante a un programma di giustizia riparativa, concluso con un esito riparativo e con il rispetto degli eventuali impegni comportamentali assunti da parte dell'imputato, comporta la remissione tacita di querela.
+
 ## Art. 90-bis.1. — (( (Informazioni alla vittima di cui all'articolo 42, comma 1, lettera b), del decreto legislativo attuativo della legge 27 settembre 2021, n. 134). ))
 
 ((
@@ -1434,6 +2114,45 @@ Il consenso puo' essere revocato in qualsiasi momento con le forme previste dal 
 La persona offesa che ha revocato il consenso non puo' prestarlo successivamente ne' allo stesso ne' ad altro ente o associazione.
 
 ## Art. 93. — Intervento degli enti o delle associazioni
+
+1.
+                        
+                            
+                                Per l'esercizio dei diritti e delle facolta' previsti dall'articolo 91 l'ente o l'associazione presenta all'autorita' procedente un atto di intervento che contiene a pena di inammissibilita': 
+ 
+                            
+                            
+                                a)
+                                
+                                    le indicazioni relative alla denominazione dell'ente o dell'associazione, alla sede, alle disposizioni che riconoscono le finalita' di tutela degli interessi lesi, alle generalita' del legale rappresentante; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'indicazione del procedimento; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il nome e il cognome del difensore e l'indicazione della procura; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    l'esposizione sommaria delle ragioni che giustificano l'intervento; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    la sottoscrizione del difensore.
 
 Unitamente all'atto di intervento sono presentate la dichiarazione di consenso della persona offesa e la procura al difensore se questa e' stata conferita nelle forme previste dall'articolo 100 comma 1.
 
@@ -1518,6 +2237,24 @@ Per la nomina dei difensori degli enti e delle associazioni che intervengono a n
 Il sostituto esercita i diritti e assume i doveri del difensore.
 
 ## Art. 103. — Garanzie di liberta' del difensore
+
+1.
+                        
+                            
+                                Le ispezioni e le perquisizioni negli uffici dei difensori sono consentite solo: 
+ 
+                            
+                            
+                                a)
+                                
+                                    quando essi o altre persone che svolgono stabilmente attivita' nello stesso ufficio sono imputati, limitatamente ai fini dell'accertamento del reato loro attribuito; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    per rilevare tracce o altri effetti materiali del reato o per ricercare cose o persone specificamente predeterminate.
 
 Presso i difensori e gli investigatori privati autorizzati e incaricati in relazione al procedimento, nonche' presso i consulenti tecnici non si puo' procedere a sequestro di carte o documenti relativi all'oggetto della difesa, salvo che costituiscano corpo del reato.
 
@@ -1869,6 +2606,25 @@ Se il sordo, il muto o il sordomuto non sa leggere o scrivere, l'autorita' proce
 
 ## Art. 120. — Testimoni ad atti del procedimento
 
+1.
+                        
+                            
+                                Non possono intervenire come testimoni ad atti del procedimento: 
+ 
+                            
+                            
+                                a)
+                                
+                                    i minori degli anni quattordici e le persone palesemente 
+affette da infermita' di mente o in stato di manifesta ubriachezza o intossicazione da sostanze stupefacenti o psicotrope. La capacita' si presume sino a prova contraria; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le persone sottoposte a misure di sicurezza detentive o a misure di prevenzione.
+
 ## Art. 121. — Memorie e richieste delle parti
 
 In ogni stato e grado del procedimento le parti e i difensori possono presentare al giudice memorie o richieste scritte, mediante deposito nella cancelleria.
@@ -2167,6 +2923,38 @@ L'assistenza dell'interprete puo' essere assicurata, ove possibile, anche median
 4. La persona offesa che non conosce la lingua italiana ha diritto alla traduzione gratuita di atti, o parti degli stessi, che contengono informazioni utili all'esercizio dei suoi diritti. La traduzione puo' essere disposta sia in forma orale che per riassunto se l'autorita' procedente ritiene che non ne derivi pregiudizio ai diritti della persona offesa))
 
 ## Art. 144. — Incapacita' e incompatibilita' dell'interprete
+
+1.
+                        
+                            
+                                Non puo' prestare ufficio di interprete, a pena di nullita': 
+ 
+                            
+                            
+                                a)
+                                
+                                    il minorenne, l'interdetto, l'inabilitato e chi e' affetto da infermita' di mente; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    chi e' interdetto anche temporaneamente dai pubblici uffici ovvero e' interdetto o sospeso dall'esercizio di una professione o di un'arte; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    chi e' sottoposto a misure di sicurezza personali o a misure di prevenzione; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    chi non puo' essere assunto come testimone o ha facolta' di astenersi dal testimoniare o chi e' chiamato a prestare ufficio di testimone o di perito ovvero e' stato nominato consulente tecnico nello stesso procedimento o in un procedimento connesso. Nondimeno, nel caso previsto dall'articolo 119, la qualita' di interprete puo' essere assunta da un prossimo congiunto della persona sorda, muta o sordomuta.
 
 ## Art. 145. — Ricusazione e astensione dell'interprete
 
@@ -2525,6 +3313,74 @@ Qualora l'ufficio postale restituisca il piego per irreperibilita' del destinata
 
 ## Art. 171. — Nullita' delle notificazioni
 
+1.
+                        
+                            
+                                La notificazione e' nulla: 
+ 
+                            
+                            
+                                a)
+                                
+                                    se l'atto e' notificato in modo incompleto, fuori dei casi nei quali la legge consente la notificazione per estratto; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    se vi e' incertezza assoluta sull'autorita' o sulla parte privata ((mittente o)) richiedente ovvero sul destinatario; 
+
+                                
+                            
+                            
+                                b-bis)
+                                
+                                    se, in caso di notificazione eseguita con modalita' telematiche, non sono rispettati i requisiti di cui al comma 1 dell'articolo 148;
+                                
+                            
+                            
+                                c)
+                                
+                                    se nella relazione della copia notificata ((con modalita' non telematiche)) manca la sottoscrizione di chi l'ha eseguita; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    se sono violate le disposizioni circa la persona a cui deve essere consegnata la copia; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    se non e' stato dato l'avvertimento nei casi previsti ((dagli articoli 157, comma 8-ter, e 161, commi 01, 1 e 3)) e la notificazione e' stata eseguita mediante consegna al difensore; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    se e' stata omessa l'affissione o non e' stata ((inviata copia dell'atto con le modalita'))
+                                        ((prescritte)) dall'articolo 157 comma 8; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    se sull'originale dell'atto notificato manca la sottoscrizione della persona indicata nell'articolo 157 comma 3; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    
+                                        ((LETTERA SOPPRESSA DAL D.LGS. 10 OTTOBRE 2022, N. 150)).
+
 ## - - Titolo VI TERMINI
 
 ## Art. 172. — Regole generali
@@ -2646,6 +3502,31 @@ L'inosservanza delle disposizioni stabilite per gli atti del procedimento e' cau
 
 ## Art. 178. — Nullita' di ordine generale
 
+1.
+                        
+                            
+                                E' sempre prescritta a pena di nullita' l'osservanza delle disposizioni concernenti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    le condizioni di capacita' del giudice e il numero dei giudici necessario per costituire i collegi stabilito dalle leggi di ordinamento giudiziario; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'iniziativa del pubblico ministero nell'esercizio dell'azione penale e la sua partecipazione al procedimento; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    l'intervento, l'assistenza e la rappresentanza dell'imputato e delle altre parti private nonche' la citazione in giudizio della persona offesa dal reato e del querelante.
+
 ## Art. 179. — Nullita' assolute
 
 Sono insanabili e sono rilevate di ufficio in ogni stato e grado del procedimento le nullita' previste dall'articolo 178 comma 1 lettera a), quelle concernenti l'iniziativa del pubblico ministero nell'esercizio dell'azione penale e quelle derivanti dalla omessa citazione dell'imputato o dall'assenza del suo difensore nei casi in cui ne e' obbligatoria la presenza.
@@ -2675,6 +3556,24 @@ Quando la parte vi assiste, la nullita' di un atto deve essere eccepita prima de
 I termini per rilevare o eccepire le nullita' sono stabiliti a pena di decadenza.
 
 ## Art. 183. — Sanatorie generali delle nullita'
+
+1.
+                        
+                            
+                                Salvo che sia diversamente stabilito, le nullita' sono sanate: 
+ 
+                            
+                            
+                                a)
+                                
+                                    se la parte interessata ha rinunciato espressamente ad eccepirle ovvero ha accettato gli effetti dell'atto; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    se la parte si e' avvalsa della facolta' al cui esercizio l'atto omesso o nullo e' preordinato.
 
 ## Art. 184. — Sanatoria delle nullita' delle citazioni, degli avvisi e delle notificazioni
 
@@ -2846,7 +3745,63 @@ Devono tuttavia deporre quando hanno presentato denuncia, querela o istanza ovve
 
 Il giudice, a pena di nullita', avvisa le persone predette della facolta' di astenersi chiedendo loro se intendono avvalersene.
 
+3.
+                        
+                            
+                                Le disposizioni dei commi 1 e 2 si applicano anche a chi e' legato all'imputato da vincolo di adozione. Si applicano inoltre, limitatamente ai fatti verificatisi o appresi dall'imputato durante la convivenza coniugale ((o derivante da un'unione civile tra persone dello stesso sesso)): 
+ 
+                            
+                            
+                                a)
+                                
+                                    a chi, pur non essendo coniuge dell'imputato, come tale conviva o abbia convissuto con esso; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    al coniuge separato dell'imputato; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    alla persona nei cui confronti sia intervenuta sentenza di annullamento, scioglimento o ((cessazione degli effetti civili del matrimonio o dell'unione civile tra persone dello stesso sesso contratti con l'imputato)).
+
 ## Art. 200. — Segreto professionale
+
+1.
+                        
+                            
+                                Non possono essere obbligati a deporre su quanto hanno conosciuto per ragione del proprio ministero, ufficio o professione, salvi i casi in cui hanno l'obbligo di riferirne all'autorita' giudiziaria: 
+ 
+                            
+                            
+                                a)
+                                
+                                    i ministri di confessioni religiose, i cui statuti non contrastino con l'ordinamento giuridico italiano; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    gli avvocati, gli investigatoriprivati autorizzati, i consulenti tecnici e i notai ;
+                                
+                            
+                            
+                                c)
+                                
+                                    i medici e i chirurghi, i farmacisti, le ostetriche e ogni altro esercente una professione sanitaria; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    gli esercenti altri uffici o professioni ai quali la legge riconosce la facolta' di astenersi dal deporre determinata dal segreto professionale.
 
 Il giudice, se ha motivo di dubitare che la dichiarazione resa da tali persone per esimersi dal deporre sia infondata, provvede agli accertamenti necessari. Se risulta infondata, ordina che il testimone deponga.
 
@@ -3059,6 +4014,45 @@ Il perito ha l'obbligo di prestare il suo ufficio, salvo che ricorra uno dei mot
 
 ## Art. 222. — Incapacita' e incompatibilita' del perito
 
+1.
+                        
+                            
+                                Non puo' prestare ufficio di perito, a pena di nullita': 
+ 
+                            
+                            
+                                a)
+                                
+                                    il minorenne, l'interdetto, l'inabilitato e chi e' affetto da infermita' di mente; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    chi e' interdetto anche temporaneamente dai pubblici uffici ovvero e' interdetto o sospeso dall'esercizio di una professione o di un'arte; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    chi e' sottoposto a misure di sicurezza personali o a misure di prevenzione; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    chi non puo' essere assunto come testimone o ha facolta' di astenersi dal testimoniare o chi e' chiamato a prestare ufficio di testimone o di interprete; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    chi e' stato nominato consulente tecnico nello stesso procedimento o in un procedimento connesso.
+
 ## Art. 223. — Astensione e ricusazione del perito
 
 Quando esiste un motivo di astensione, il perito ha l'obbligo di dichiararlo.
@@ -3087,6 +4081,52 @@ Il giudice dispone la citazione del perito e da' gli opportuni provvedimenti per
 
 
 Quando si procede per delitto non colposo, consumato o tentato, per il quale la legge stabilisce la pena dell'ergastolo o della reclusione superiore nel massimo a tre anni ((, per i delitti di cui agli articoli 589-bis e 590-bis del codice penale)) e negli altri casi espressamente previsti dalla legge, se per l'esecuzione della perizia e' necessario compiere atti idonei ad incidere sulla liberta' personale, quali il prelievo di capelli, di peli o di mucosa del cavo orale su persone viventi ai fini della determinazione del profilo del DNA o accertamenti medici, e non vi e' il consenso della persona da sottoporre all'esame del perito, il giudice, anche d'ufficio, ne dispone con ordinanza motivata l'esecuzione coattiva, se essa risulta assolutamente indispensabile per la prova dei fatti.
+
+2.
+                        
+                            
+                                Oltre a quanto disposto dall'articolo 224, l'ordinanza di cui al comma 1 contiene, a pena di nullita': 
+ 
+                            
+                            
+                                a)
+                                
+                                    le generalita' della persona da sottoporre all'esame e quanto altro valga ad identificarla; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'indicazione del reato per cui si procede, con la descrizione sommaria del fatto; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    l'indicazione specifica del prelievo o dell'accertamento da effettuare e delle ragioni che lo rendono assolutamente indispensabile per la prova dei fatti; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    l'avviso della facolta' di farsi assistere da un difensore o da persona di fiducia; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    l'avviso che, in caso di mancata comparizione non dovuta a legittimo impedimento, potra' essere ordinato l'accompagnamento coattivo ai sensi del comma 6; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    l'indicazione del luogo, del giorno e dell'ora stabiliti per il compimento dell'atto e delle modalita' di compimento.
 
 L'ordinanza di cui al comma I e' notificata all'interessato, all'imputato e al suo difensore nonche' alla persona offesa almeno tre giorni prima di quello stabilito per l'esecuzione delle operazioni peritali.
 
@@ -3578,6 +4618,80 @@ Dopo la sentenza non piu' soggetta a impugnazione, provvede il giudice dell'esec
 
 ## Art. 266. — Limiti di ammissibilita'
 
+1.
+                        
+                            
+                                L'intercettazione di conversazioni o comunicazioni telefoniche e di altre forme di telecomunicazione e' consentita nei procedimenti relativi ai seguenti reati: 
+ 
+                            
+                            
+                                a)
+                                
+                                    delitti non colposi per i quali e' prevista la pena dell'ergastolo o della reclusione superiore nel massimo a cinque anni determinata a norma dell'articolo 4; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    delitti contro la pubblica amministrazione per i quali e' prevista la pena della reclusione non inferiore nel massimo a cinque anni determinata a norma dell'articolo 4; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    delitti concernenti sostanze stupefacenti o psicotrope; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    delitti concernenti le armi e le sostanze esplosive; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    delitti di contrabbando; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    reati di ingiuria, minaccia, usura, abusiva attivita' finanziaria abuso di informazioni privilegiate, manipolazioni del mercato molestia o disturbo alle persone col mezzo del telefono. 
+
+                                
+                            
+                            
+                                f-bis)
+                                
+                                    delitti previsti dall'articolo 600-ter, terzo comma, del codice penale, anche se relativi al materiale pornografico di cui all'articolo 600-quater.1 del medesimo codice, nonche' dall'art. 609-undecies; 
+
+                                
+                            
+                            
+                                f-ter)
+                                
+                                    delitti previsti dagli articoli 444, 473, 474, 515, ((...)) 517-quater ((, 517-sexies, 517-septies)) e 633, secondo comma, del codice penale; 
+
+                                
+                            
+                            
+                                f-quater)
+                                
+                                    delitto previsto dall'articolo 612-bis del codice penale. 
+
+                                
+                            
+                            
+                                f-quinquies)
+                                
+                                    delitti commessi avvalendosi delle condizioni previste dall'articolo 416-bis del codice penale ovvero al fine di agevolare l'attivita' delle associazioni previste dallo stesso articolo. (270)(275)
+
 Negli stessi casi e' consentita l'intercettazione di comunicazioni tra presenti , che puo' essere eseguita anche mediante l'inserimento di un captatore informatico su un dispositivo elettronico portatile. Tuttavia, qualora queste avvengano nei luoghi indicati dall'articolo 614 del codice penale, l'intercettazione e' consentita solo se vi e' fondato motivo di ritenere che ivi si stia svolgendo l'attivita' criminosa. (253) (260) (263) (267) (275)
 
 L'intercettazione di comunicazioni tra presenti mediante inserimento di captatore informatico su dispositivo elettronico portatile e' sempre consentita nei procedimenti per i delitti di cui all'articolo 51, commi 3-bis e 3-quater, e, previa indicazione delle ragioni che ne giustificano l'utilizzo anche nei luoghi indicati dall'articolo 614 del codice penale, per i delitti dei pubblici ufficiali o degli incaricati di pubblico servizio contro la pubblica amministrazione per i quali e' prevista la pena della reclusione non inferiore nel massimo a cinque anni, determinata a norma dell'articolo 4. (253) (260) (263) (267) (270) (275)
@@ -3910,6 +5024,31 @@ Nessuna misura puo' essere applicata se risulta che il fatto e' stato compiuto i
 
 ## Art. 274. — Esigenze cautelari
 
+1.
+                        
+                            
+                                Le misure cautelari sono disposte: 
+ 
+                            
+                            
+                                a)
+                                
+                                    quando sussistono specifiche ed iderogabili esigenze attinenti alle indagini relative ai fatti per i quali si procede, in relazione a situazioni di concreto ed attuale pericolo per l'acquisizione o la genuinita' della prova, fondate su circostanze di fatto espressamente indicate nel provvedimento a pena di nullita' rilevabile anche di ufficio. Le situazioni di concreto ed attuale pericolo non possono essere individuate nel rifiuto della persona sottoposta alle indagini o dell'imputato di rendere dichiarazioni ne' nella mancata ammissione degli addebiti; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    quando l'imputato si e' dato alla fuga o sussiste concreto ((e attuale)) pericolo che egli si dia alla fuga, sempre che il giudice ritenga che possa essere irrogata una pena superiore a due anni di reclusione ((. Le situazioni di concreto e attuale pericolo non possono essere desunte esclusivamente dalla gravita' del titolo di reato per cui si procede)); 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    quando, per specifiche modalita' e circostanze del fatto e per la personalita' della persona sottoposta alle indagini o dell'imputato, desunta da comportamenti o atti concreti o da suoi precedenti penali, sussiste il concreto ((e attuale)) pericolo che questi commetta gravi delitti con uso di armi o di altri mezzi di violenza personale o diretti contro l'ordine costituzionale ovvero delitti di criminalita' organizzata o della stessa specie di quello per cui si procede. Se il pericolo riguarda la commissione di delitti della stessa specie di quello per cui si procede, le misure di custodia cautelare sono disposte soltanto se trattasi di delitti per i quali e' prevista la pena della reclusione non inferiore nel massimo a quattro anni ovvero, in caso di custodia cautelare in carcere, di delitti per i quali e' prevista la pena della reclusione non inferiore nel massimo a cinque anni ((nonche' per il delitto di finanziamento illecito dei partiti di cui all'articolo 7 della legge 2 maggio 1974, n. 195, e successive modificazioni)). ((Le situazioni di concreto e attuale pericolo, anche in relazione alla personalita' dell'imputato, non possono essere desunte esclusivamente dalla gravita' del titolo di reato per cui si procede)).
+
 ## Art. 275. — Criteri di scelta delle misure
 
 Nel disporre le misure, il giudice tiene conto della specifica idoneita' di ciascuna in relazione alla natura e al grado delle esigenze cautelari da soddisfare nel caso concreto.
@@ -4220,6 +5359,38 @@ Nel caso di cui all'articolo 328, comma 1-quinquies, all'interrogatorio procede 
 
 L'invito a presentarsi per rendere l'interrogatorio e' comunicato al pubblico ministero e notificato alla persona sottoposta alle indagini preliminari e al suo difensore almeno cinque giorni prima di quello fissato per la comparizione, salvo che, per ragioni d'urgenza, il giudice ritenga di abbreviare il termine, purche' sia lasciato il tempo necessario per comparire. Il giudice provvede comunque sulla richiesta del pubblico ministero quando la persona sottoposta alle indagini preliminari non compare senza addurre un legittimo impedimento, oppure quando la persona sottoposta alle indagini preliminari non e' stata rintracciata e il giudice ritiene le ricerche esaurienti, anche con riferimento ai luoghi di cui all'articolo 159, comma 1.
 
+1-septies.
+                        
+                            
+                                L'invito contiene: 
+ 
+                            
+                            
+                                a)
+                                
+                                    le generalita' o altre indicazioni personali che valgono a identificare la persona sottoposta alle indagini; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il giorno, l'ora e il luogo della presentazione, nonche' l'autorita' davanti alla quale la persona deve presentarsi; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    la descrizione sommaria del fatto, comprensiva di data e luogo di commissione del reato; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    l'avviso della facolta' di nominare un difensore di fiducia e di essere ammesso al patrocinio a spese dello Stato nei casi previsti dalla legge; del diritto di ottenere informazioni in merito all'accusa; del diritto all'interprete e alla traduzione di atti fondamentali; del diritto di avvalersi della facolta' di non rispondere; del diritto di informare le autorita' consolari e di dare avviso ai familiari; della facolta' di accedere ai programmi di giustizia riparativa.
+
 L'invito di cui al comma 1-sexies contiene altresi' l'avviso di deposito nella cancelleria del giudice della richiesta di applicazione della misura cautelare e degli atti presentati ai sensi del comma 1, nonche' della facolta' di prendere visione ed estrarre copia di tutti gli atti depositati, ivi compresi i verbali delle comunicazioni e delle conversazioni intercettate, con diritto alla trasposizione delle relative registrazioni su supporto idoneo alla riproduzione dei dati.
 
 L'interrogatorio di cui al comma 1-quater deve essere documentato integralmente, a pena di inutilizzabilita', secondo le modalita' di cui all'articolo 141-bis.
@@ -4267,6 +5438,52 @@ In caso di necessita' o urgenza il pubblico ministero puo' chiedere al giudice, 
 
 Sulla richiesta del pubblico ministero il giudice provvede con ordinanza.
 
+2.
+                        
+                            
+                                L'ordinanza che dispone la misura cautelare contiene, a pena di nullita' rilevabile anche d'ufficio: 
+ 
+                            
+                            
+                                a)
+                                
+                                    le generalita' dell'imputato o quanto altro valga a identificarlo; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la descrizione sommaria del fatto con l'indicazione delle norme di legge che si assumono violate; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    l'esposizione e l'autonoma valutazione delle specifiche esigenze cautelari e degli indizi che giustificano in concreto la misura disposta, con l'indicazione degli elementi di fatto da cui sono desunti e dei motivi per i quali essi assumono rilevanza, tenuto conto anche del tempo trascorso dalla commissione del reato; 
+
+                                
+                            
+                            
+                                c-bis)
+                                
+                                    l'esposizione e l'autonoma valutazione dei motivi per i quali sono stati ritenuti non rilevanti gli elementi forniti dalla difesa, nonche', in caso di applicazione della misura della custodia cautelare in carcere, l'esposizione e l'autonoma valutazione delle concrete e specifiche ragioni per le quali le esigenze di cui all'articolo 274 non possono essere soddisfatte con altre misure; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    la fissazione della data di scadenza della misura, in relazione alle indagini da compiere, allorche' questa e' disposta al fine di garantire l'esigenza cautelare di cui alla lettera a) del comma 1 dell'articolo 274; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    la data e la sottoscrizione del giudice.
+
 L' ordinanza contiene altresi' la sottoscrizione dello ausiliario che assiste il giudice, il sigillo dell' ufficio e, se possibile, l' indicazione del luogo in cui probabilmente si trova l'imputato.
 
 L'ordinanza e' nulla se non contiene la valutazione degli elementi a carico e a favore dell'imputato, di cui all'articolo 358, nonche' all'articolo 327-bis ((e, nel caso di cui all'articolo 291, comma 1-quater, una specifica valutazione degli elementi esposti dalla persona sottoposta alle indagini nel corso dell'interrogatorio)).
@@ -4303,6 +5520,80 @@ L'incertezza circa il giudice che ha emesso il provvedimento ovvero circa la per
  Il D.Lgs. 29 dicembre 2017, n. 216, come modificato dal D.L. 30 aprile 2020, n. 28 ha disposto (con l'art. 9, comma 1) che "Le disposizioni di cui agli articoli 2, 3 4, 5 e 7 si applicano ai procedimenti penali iscritti dopo il 31 agosto 2020".
 
 ## Art. 293. — Adempimenti esecutivi
+
+1.
+                        
+                            
+                                Salvo quanto previsto dall'articolo 156, l'ufficiale o l'agente incaricato di eseguire l'ordinanza che ha disposto la custodia cautelare consegna all'imputato copia del provvedimento unitamente a una comunicazione scritta, redatta in forma chiara e precisa e, per l'imputato che non conosce la lingua italiana, tradotta in una lingua a lui comprensibile, con cui lo informa: 
+ 
+                            
+                            
+                                a)
+                                
+                                    della facolta' di nominare un difensore di fiducia e di essere ammesso al patrocinio a spese dello Stato nei casi previsti dalla legge; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    del diritto di ottenere informazioni in merito all'accusa; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    del diritto all'interprete ed alla traduzione di atti fondamentali; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    del diritto di avvalersi della facolta' di non rispondere; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    del diritto di accedere agli atti sui quali si fonda il provvedimento; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    del diritto di informare le autorita' consolari e di dare avviso a un familiare o ad altra persona di fiducia; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    del diritto di accedere all'assistenza medica di urgenza; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    del diritto di essere condotto davanti all'autorita' giudiziaria non oltre cinque giorni dall'inizio dell'esecuzione, se la misura applicata e' quella della custodia cautelare in carcere ovvero non oltre dieci giorni se la persona e' sottoposta ad altra misura cautelare; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    del diritto di comparire dinanzi al giudice per rendere l'interrogatorio, di impugnare l'ordinanza che dispone la misura cautelare e di richiederne la sostituzione o la revoca; 
+
+                                
+                            
+                            
+                                i-bis)
+                                
+                                    della facolta' di accedere ai programmi di giustizia riparativa.
 
 Qualora la comunicazione scritta di cui al comma 1 non sia prontamente disponibile in una lingua comprensibile all'imputato, le informazioni sono fornite oralmente, salvo l'obbligo di dare comunque, senza ritardo, comunicazione scritta all'imputato.
 
@@ -4565,9 +5856,92 @@ La custodia cautelare disposta nel corso delle indagini preliminari perde immedi
 
 ## Art. 303. — Termini di durata massima della custodia cautelare.
 
+1.
+                        
+                            
+                                La custodia cautelare perde efficacia quando: 
+ 
+                            
+                            
+                                a)
+                                
+                                    dall'inizio della sua esecuzione sono decorsi i seguenti termini senza che sia stato emesso il provvedimento che dispone il giudizio o l'ordinanza con cui il giudice dispone il giudizio abbreviato ai sensi dell'articolo 438, ovvero senza che sia stata pronunciata la sentenza di applicazione della pena su richiesta delle parti: 
+ 1) tre mesi, quando si procede per un delitto per il quale la legge stabilisce la pena della reclusione non superiore nel massimo a sei anni; 
+ 2) sei mesi, quando si procede per un delitto per il quale la legge stabilisce la pena della reclusione superiore nel massimo a sei anni, salvo quanto previsto dal numero 3); 
+ 3) un anno, quando si procede per un delitto per il quale la legge stabilisce la pena dell'ergastolo o la pena della reclusione non inferiore nel massimo a venti anni ovvero per uno dei delitti indicati nell'articolo 407, comma 2, lettera a), sempre che per lo stesso la legge preveda la pena della reclusione superiore nel massimo a sei anni; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    dall'emissione del provvedimento che dispone il giudizio o dalla sopravvenuta esecuzione della custodia sono decorsi i seguenti termini senza che sia stata pronunciata sentenza di condanna di primo grado: 
+ 1) sei mesi, quando si procede per un delitto per il quale la legge stabilisce la pena della reclusione non superiore nel massimo a sei anni; 
+ 2) un anno, quando si procede per un delitto per il quale la legge stabilisce la pena della reclusione non superiore nel massimo a venti anni, salvo quanto previsto dal numero 1); 
+ 3) un anno e sei mesi, quando si procede per un delitto per il quale la legge stabilisce la pena dell'ergastolo o la pena della reclusione superiore nel massimo a venti anni; 
+ 3-bis) qualora si proceda per i delitti di cui all'articolo 407, comma 2, lettera a), i termini di cui ai numeri 1), 2) e 3) sono aumentati fino a sei mesi. Tale termine e' imputato a quello della fase precedente ove non completamente utilizzato, ovvero ai termini di cui alla lettera d) per la parte eventualmente residua. In quest'ultimo caso i termini di cui alla lettera d) sono proporzionalmente ridotti. 
+
+                                
+                            
+                            
+                                b-bis)
+                                
+                                    dall'emissione dell'ordinanza con cui il giudice dispone il giudizio abbreviato o dalla sopravvenuta esecuzione della custodia sono decorsi i seguenti termini senza che sia stata pronunciata sentenza di condanna ai sensi dell'articolo 442: 
+ 1) tre mesi, quando si procede per un delitto per il quale la legge stabilisce la pena della reclusione non superiore nel massimo a sei anni; 
+ 2) sei mesi, quando si procede per un delitto per il quale la legge stabilisce la pena della reclusione non superiore nel massimo a venti anni, salvo quanto previsto nel numero 1; 
+ 3) nove mesi, quando si procede per un delitto per il quale la legge stabilisce la pena dell'ergastolo o la pena della reclusione superiore nel massimo a venti anni; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    dalla pronuncia della sentenza di condanna di primo grado o dalla sopravvenuta esecuzione della custodia sono decorsi i seguenti termini senza che sia stata pronunciata sentenza di condanna in grado di appello; 
+ 1) nove mesi, se vi e' stata condanna alla pena della reclusione non superiore a tre anni; 
+ 2) un anno, se vi e' stata condanna alla pena della reclusione non superiore a dieci anni; 
+ 3) un anno e sei mesi, se vi e' stata condanna alla pena dell'ergastolo o della reclusione superiore a dieci anni; 
+ d)dalla pronuncia della sentenza di condanna in grado di appello o dalla sopravvenuta esecuzione della custodia sono decorsi gli stessi termini previsti dalla lettera c) senza che sia stata pronunciata sentenza irrevocabile di condanna, salve le ipotesi di cui alla lettera b), numero 3-bis). Tuttavia, se vi e' stata condanna in primo grado, ovvero se la impugnazione e' stata proposta esclusivamente dal pubblico ministero, si applica soltanto la disposizione del comma 4. (90)
+
 Nel caso in cui, a seguito di annullamento con rinvio da parte della Corte di cassazione o per altra causa, il procedimento regredisca a una fase o a un grado di giudizio diversi ovvero sia rinviato ad altro giudice, dalla data del provvedimento che dispone il regresso o il rinvio ovvero dalla sopravvenuta esecuzione della custodia cautelare decorrono di nuovo i termini previsti dal comma 1 relativamente a ciascuno stato e grado del procedimento. (142)
 
 Nel caso di evasione dell'imputato sottoposto a custodia cautelare, i termini previsti dal comma 1 decorrono di nuovo, relativamente a ciascuno stato e grado del procedimento, dal momento in cui venga ripristinata la custodia cautelare.
+
+4.
+                        
+                            
+                                La durata complessiva della custodia cautelare, considerate anche le proroghe previste dall'articolo 305, non puo' superare i seguenti termini: 
+ 
+                            
+                            
+                                a)
+                                
+                                    due anni, quando si procede per un delitto per il quale la legge stabilisce la pena della reclusione non superiore nel massimo a sei anni; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    quattro anni, quando si procede per un delitto per il quale la legge stabilisce la pena della reclusione non superiore nel massimo a venti anni, salvo quanto previsto dalla lettera a); 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    sei anni, quando si procede per un delitto per il quale la legge stabilisce la pena dell'ergastolo o della reclusione superiore nel massimo a venti anni. 
+ (274) (278) ((303)) 
+ 
+ 
+------------------
+ 
+AGGIORNAMENTO (1) 
+ Il D:P.R. 22 settembre 1988, n. 448, ha disposto (con l'art. 23, comma 2) che "I termini previsti dall'articolo 303 del codice di procedura penale sono ridotti della meta' per i reati commessi da minori degli anni diciotto e dei due terzi per quelli commessi da minori di anni sedici." 
+ 
+------------------
+ 
+AGGIORNAMENTO (15) 
+ Il D.P.R. 22 settembre 1988, n. 448, come modificato dal D.Lgs. 14 gennaio 1991, n. 12, ha disposto (con l'art. 23, comma 3) che "I termini previsti dall'articolo 303 del codice di procedura penale sono ridotti della meta' per i reati commessi da minori degli anni diciotto e dei due terzi per quelli commessi da minori degli anni sedici e decorrono dal momento della cattura, dell'arresto, del fermo o dell'accompagnamento."
 
 ---------------
                             AGGIORNAMENTO (90)
@@ -4594,6 +5968,51 @@ AGGIORNAMENTO (142)
  Il D.P.R. 22 settembre 1988, n. 448, come modificato dal D.L. 15 settembre 2023, n. 123, ha disposto (con l'art. 23, comma 3) che "I termini previsti dall'articolo 303 del codice di procedura penale sono ridotti di un terzo per i reati commessi da minori degli anni diciotto e della meta' per quelli commessi da minori degli anni sedici e decorrono dal momento della cattura, dell'arresto, del fermo o dell'accompagnamento".
 
 ## Art. 304. — Sospensione dei termini di durata massima della custodia cautelare
+
+1.
+                        
+                            
+                                I termini previsti dall'articolo 303 sono sospesi, con ordinanza appellabile a norma dell'articolo 310, nei seguenti casi: 
+ 
+                            
+                            
+                                a)
+                                
+                                    nella fase del giudizio, durante il tempo in cui il dibattimento e' sospeso o rinviato per impedimento dell'imputato o del suo difensore ovvero su richiesta dell'imputato o del suo difensore, sempre che la sospensione o il rinvio non siano stati disposti per esigenze di acquisizione della prova o a seguito di concessione di termini per la difesa; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    nella fase del giudizio, durante il tempo in cui il dibattimento e' sospeso o rinviato a causa della mancata presentazione, dell'allontanamento o della mancata partecipazione di uno o piu' difensori che rendano privo di assistenza uno o piu' imputati; 
+
+                                
+                            
+                            
+                                b-bis)
+                                
+                                    nella fase del giudizio, durante il tempo in cui l'udienza di comparizione predibattimentale e' sospesa o rinviata per taluno dei casi indicati nelle lettere a) e b);
+                                
+                            
+                            
+                                c)
+                                
+                                    nella fase del giudizio, durante la pendenza dei termini previsti dall'articolo 544, commi 2 e 3. 
+
+                                
+                            
+                            
+                                c-bis)
+                                
+                                    nel giudizio abbreviato, durante il tempo in cui l'udienza e' sospesa o rinviata per taluno dei casi indicati nelle lettere a) e b) e durante la pendenza dei termini previsti dall'articolo 544, commi 2 e 3; 
+
+                                
+                            
+                            
+                                c-ter)
+                                
+                                    nei casi previsti dall'articolo 545- bis, durante il tempo intercorrente tra la lettura del dispositivo indicato al comma 1 dello stesso articolo e l'udienza fissata per la decisione sulla eventuale sostituzione della pena detentiva con una pena sostitutiva ai sensi dell'articolo 53 della legge 24 novembre 1981, n. 689; in tal caso, la sospensione dei termini previsti dall'articolo 303 non puo' comunque avere durata superiore a sessanta giorni.
 
 I termini previsti dall'articolo 303 possono essere altresi' sospesi quando si procede per taluno dei reati indicati nell'articolo 407, comma 2, lettera a), nel caso di dibattimenti o di giudizi abbreviati particolarmente complessi, durante il tempo in cui sono tenute le udienze o si delibera la sentenza nel giudizio di primo grado o nel giudizio sulle impugnazioni.
 
@@ -4635,6 +6054,24 @@ Nei casi di perdita di efficacia di altre misure cautelari, il giudice adotta co
 ## Art. 307. — Provvedimenti in caso di scarcerazione per decorrenza dei termini
 
 (( 1-bis. Qualora si proceda per taluno dei reati indicati nell'articolo 407, comma 2, lettera a), il giudice dispone le misure cautelari indicate dagli articoli 281, 282 e 283 anche cumulativamente ))
+
+2.
+                        
+                            
+                                La custodia cautelare, ove risulti necessaria a norma dell'articolo 275, e' tuttavia ripristinata: 
+ 
+                            
+                            
+                                a)
+                                
+                                    se l'imputato ha dolosamente trasgredito alle prescrizioni inerenti a una misura cautelare disposta a norma del comma 1, sempre che, in relazione alla natura di tale trasgressione, ricorra taluna delle esigenze cautelari previste dall'articolo 274; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    contestualmente o successivamente alla sentenza di condanna di primo o di secondo grado, quando ricorre l'esigenza cautelare prevista dall'articolo 274 comma 1 lettera b).
 
 Con il ripristino della custodia, i termini relativi alla fase in cui il procedimento si trova decorrono nuovamente ma, ai fini del computo del termine previsto dall'articolo 303 comma 4, si tiene conto anche della custodia anteriormente subita.
 
@@ -5051,6 +6488,27 @@ Gli atti di indagine compiuti dal pubblico ministero e dalla polizia giudiziaria
 
 Quando e' ((strettamente)) necessario per la prosecuzione delle indagini, il pubblico ministero puo', in deroga a quanto previsto dall'articolo 114, consentire, con decreto motivato, la pubblicazione di singoli atti o di parti di essi. In tal caso, gli atti pubblicati sono depositati presso la segreteria del pubblico ministero.
 
+3.
+                        
+                            
+                                Anche quando gli atti non sono piu' coperti dal segreto a norma del comma 1, il pubblico ministero, in caso di necessita' per la prosecuzione delle indagini, puo' disporre con decreto motivato: 
+ 
+                            
+                            
+                                a)
+                                
+                                    l'obbligo del segreto per singoli atti, quando l'imputato lo consente o quando la conoscenza dell'atto puo' ostacolare le indagini riguardanti altre persone; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il divieto di pubblicare il contenuto di singoli atti o notizie specifiche relative a determinate operazioni. (5) 
+--------------- 
+ AGGIORNAMENTO (5) 
+ La L. 19 marzo 1990, n. 55, come modificata dal D.L. 31 maggio 1991, n. 164, convertito, con modificazioni, dalla L. 22 luglio 1991, n. 221 ha disposto (con l'art- 15-bis, comma 2) che "Nei casi in cui per i fatti oggetto degli accertamenti di cui al comma 1 o per eventi connessi sia pendente procedimento penale, il prefetto puo' richiedere preventivamente informazioni al procuratore della Repubblica competente, il quale, in deroga all'articolo 329 del codice di procedura penale, comunica tutte le informazioni che non ritiene debbano rimanere segrete per le esigenze del procedimento."
+
 ---------------
                             AGGIORNAMENTO (253)
                             
@@ -5337,6 +6795,31 @@ Con la comunicazione, la polizia giudiziaria indica il giorno e l'ora in cui ha 
 
 Anche successivamente alla comunicazione della notizia di reato, la polizia giudiziaria continua a svolgere le funzioni indicate nell' articolo 55 raccogliendo in specie ogni elemento utile alla ricostruzione del fatto e alla individuazione del colpevole.
 
+2.
+                        
+                            
+                                Al fine indicato nel comma 1, procede, fra l'altro: 
+ 
+                            
+                            
+                                a)
+                                
+                                    alla ricerca delle cose e delle tracce pertinenti al reato nonche' alla conservazione di esse e dello stato dei luoghi; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    alla ricerca delle persone in grado di riferire su circostanze rilevanti per la ricostruzione dei fatti; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    al compimento degli atti indicati negli articoli seguenti.
+
 ((
 
 Dopo l'intervento del pubblico ministero, la polizia giudiziaria compie gli atti ad essa specificamente delegati a norma dell'articolo 370, esegue le direttive del pubblico ministero ed inoltre svolge di propria iniziativa, informandone prontamente il pubblico ministero, tutte le altre attivita' di indagine per accertare i reati ovvero richieste da elementi successivamente emersi e assicura le nuove fonti di prova.
@@ -5446,6 +6929,52 @@ Il difensore della persona nei cui confronti vengono svolte le indagini ha facol
 ## Art. 357. — Documentazione dell'attivita' di polizia giudiziaria
 
 La polizia giudiziaria annota secondo le modalita' ritenute idonee ai fini delle indagini, anche sommariamente, tutte le attivita' svolte, comprese quelle dirette alla individuazione delle fonti di prova.
+
+2.
+                        
+                            
+                                Fermo quanto disposto in relazione a specifiche attivita', redige verbale dei seguenti atti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    denunce, querele e istanze presentate oralmente; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    sommarie informazioni rese e dichiarazioni spontanee ricevute dalla persona nei cui confronti vengono svolte le indagini; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    informazioni assunte, a norma dell'articolo 351; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    perquisizioni e sequestri; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    operazioni e accertamenti previsti dagli articoli 349, 353 e 354; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    atti, che descrivono fatti e situazioni, eventualmente compiuti sino a che il pubblico ministero non ha impartito le direttive per lo svolgimento delle indagini.
 
 Il verbale e' redatto da ufficiali o agenti di polizia giudiziaria nelle forme e con le modalita' previste dall'articolo 373.
 
@@ -5598,6 +7127,51 @@ COMMA ABROGATO DAL D.LGS. 10 OTTOBRE 2022, N. 150.
 
 Al compimento del primo atto a cui il difensore ha diritto di assistere e, comunque, prima dell'invito a presentarsi per rendere l'interrogatorio ai sensi del combinato disposto degli articoli 375, comma 3, e 416, ((ovvero, al piu' tardi, contestualmente all'avviso della conclusione delle indagini preliminari ai sensi dell'articolo 415-bis,)) il pubblico ministero, a pena di nullita' degli atti successivi, notifica alla persona sottoposta alle indagini la comunicazione della nomina del difensore d'ufficio.
 
+2.
+                        
+                            
+                                La comunicazione di cui al comma 1 deve contenere: 
+ 
+                            
+                            
+                                a)
+                                
+                                    l'informazione della obbligatorieta' della difesa tecnica nel processo penale, con l'indicazione della facolta' e dei diritti attribuiti dalla legge alla persona sottoposta alle indagini; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il nominativo del difensore d'ufficio e il suo indirizzo e recapito telefonico; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    l'indicazione della facolta' di nominare un difensore di fiducia con l'avvertimento che, in mancanza, l'indagato sara' assistito da quello nominato d'ufficio; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    l'indicazione dell'obbligo di retribuire il difensore d'ufficio ove non sussistano le condizioni per accedere al beneficio di cui alla lettera e) e l'avvertimento che, in caso di insolvenza, si procedera' ad esecuzione forzata; 
+
+                                
+                            
+                            
+                                d-bis)
+                                
+                                    l'informazione del diritto all'interprete ed alla traduzione di atti fondamentali;
+                                
+                            
+                            
+                                e)
+                                
+                                    l'indicazione delle condizioni per l'ammissione al patrocinio a spese dello Stato.
+
 ## Art. 370. — Atti diretti e atti delegati
 
 Il pubblico ministero compie personalmente ogni attivita' di indagine. Puo' avvalersi della polizia giudiziaria per il compimento di attivita' di indagine e di atti specificamente delegati, ivi compresi gli interrogatori ed i confronti cui partecipi la persona sottoposta alle indagini che si trovi in stato di liberta,' con l'assistenza necessaria del difensore.
@@ -5632,6 +7206,30 @@ Quando ricorrono ragioni di urgenza o altri gravi motivi, il pubblico ministero 
 Gli uffici diversi del pubblico ministero che procedono a indagini collegate, si coordinano tra loro per la speditezza, economia ed efficacia delle indagini medesime. A tali fini provvedono allo scambio di atti e di informazioni nonche' alla comunicazione delle direttive rispettivamente impartite alla polizia giudiziaria.
 Possono altresi' procedere, congiuntamente, al compimento di specifici atti.
 
+2.
+                        
+                            
+                                Le indagini di uffici diversi del pubblico ministero si considerano collegate: 
+ 
+                            
+                            
+                                a)
+                                
+                                    se i procedimenti sono connessi a norma dell'articolo 12 ((...))
+                                    
+                                
+                            
+                            
+                                b)
+                                
+                                    se si tratta di reati dei quali gli uni sono stati commessi in occasione degli altri, o per conseguirne o assicurarne al colpevole o ad altri il profitto, il prezzo, il prodotto o l'impunita', o che sono stati commessi da piu' persone in danno reciproco le une delle altre, ovvero se la prova di un reato o di una sua circostanza influisce sulla prova di un altro reato o di un'altra circostanza. 
+                                
+                            
+                            
+                                c)
+                                
+                                    se la prova di piu' reati deriva, anche in parte, dalla stessa fonte.
+
 Salvo quanto disposto dall'articolo 12, il collegamento delle indagini non ha effetto sulla competenza.
 
 ## Art. 371-bis. — Attivita' di coordinamento del procuratore nazionale antimafia e antiterrorismo).
@@ -5639,6 +7237,36 @@ Salvo quanto disposto dall'articolo 12, il collegamento delle indagini non ha ef
 Il procuratore nazionale antimafia e antiterrorismo esercita le sue funzioni in relazione ai procedimenti per i delitti indicati nell'articolo 51 comma 3-bis e comma 3-quater e in relazione ai procedimenti di prevenzione antimafia e antiterrorismo. In relazione ai procedimenti per i delitti di cui all'articolo 51, comma 3-bis dispone della direzione investigativa antimafia e dei servizi centrali e interprovinciali delle forze di polizia e impartisce direttive intese a regolarne l'impiego a fini investigativi. In relazione ai procedimenti per i delitti di cui all'articolo 51, comma 3-quater, si avvale altresi' dei servizi centrali e interprovinciali delle forze di polizia e impartisce direttive intese a regolarne l'impiego a fini investigativi.
 
 Il procuratore nazionale antimafia e antiterrorismo esercita funzioni di impulso nei confronti dei procuratori distrettuali al fine di rendere effettivo il coordinamento delle attivita' di indagine, di garantire la funzionalita' dell'impiego della polizia giudiziaria nelle sue diverse articolazioni e di assicurare la completezza e tempestivita' delle investigazioni.
+
+3.
+                        
+                            
+                                Per lo svolgimento delle funzioni attribuitegli dalla legge, il procuratore nazionale antimafia e antiterrorismo, in particolare: 
+ 
+                            
+                            
+                                a)
+                                
+                                    d'intesa con i procuratori distrettuali interessati, assicura il collegamento investigativo anche per mezzo dei magistrati della Direzione nazionale antimafia e antiterrorismo; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    cura, mediante applicazioni temporanee dei magistrati della Direzione nazionale e delle procure distrettuali, la necessaria flessibilita' e mobilita' che soddisfino specifiche e contingenti esigenze investigative o processuali; (219) 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    ai fini del coordinamento investigativo e della repressione dei reati provvede all'acquisizione e all'elaborazione di notizie, informazioni e dati attinenti alla criminalita' organizzata e ai delitti di terrorismo, anche internazionale; 
+ f) impartisce ai procuratori distrettuali specifiche direttive alle quali attenersi per prevenire o risolvere contrasti riguardanti le modalita' secondo le quali realizzare il coordinamento nell'attivita' di indagine; 
+ g) riunisce i procuratori distrettuali interessati al fine di risolvere i contrasti che, malgrado le direttive specifiche impartite, sono insorti e hanno impedito di promuovere o di rendere effettivo il coordinamento; 
+ h) dispone con decreto motivato, reclamabile al procuratore generale presso la corte di cassazione, l'avocazione delle indagini preliminari relative a taluno dei delitti indicati nell'articolo 51 comma 3-bis e comma 3-quater quando non hanno dato esito le riunioni disposte al fine di promuovere o rendere effettivo il coordinamento e questo non e' stato possibile a causa della: 
+ 1) perdurante e ingiustificata inerzia nella attivita' di indagine; 
+ 2) ingiustificata e grave violazione dei doveri previsti dall'articolo 371 ai fini del coordinamento delle indagini;
 
 Il procuratore nazionale antimafia e antiterrorismo provvede alla avocazione dopo aver assunto sul luogo le necessarie informazioni personalmente o tramite un magistrato della Direzione nazionale antimafia e antiterrorismo all'uopo designato. Salvi casi particolari, il procuratore nazionale antimafia o il magistrato da lui designato non puo' delegare per il compimento degli atti di indagine altri uffici del pubblico ministero. (28)
 
@@ -5655,11 +7283,75 @@ Il procuratore nazionale antimafia e antiterrorismo esercita le funzioni di impu
 
 ## Art. 372. — Avocazione delle indagini
 
+1.
+                        
+                            
+                                Il procuratore generale presso la corte di appello dispone con decreto motivato, e assunte, quando occorre, le necessarie informazioni, l'avocazione delle indagini preliminari quando: 
+ 
+                            
+                            
+                                a)
+                                
+                                    in conseguenza dell'astensione o della incompatibilita' del magistrato designato non e' possibile provvedere alla sua tempestiva sostituzione; 
 
+                                
+                            
+                            
+                                b)
+                                
+                                    il capo dell'ufficio del pubblico ministero ha omesso di provvedere alla tempestiva sostituzione del magistrato designato per le indagini nei casi previsti dall'articolo 36 comma 1 lettere a) , b), d) , e).
+
+(( 1-bis. Il procuratore generale presso la corte d' appello, assunte le necessarie informazioni, dispone altresi', con decreto motivato, l' avocazione delle indagini preliminari relative ai delitti previsti dagli art. 270-bis, 280, 285, 286, 289-bis, 305, 306, 416 nei casi in cui e' obbligatorio l' arresto in flagranza e 422 del codice penale quando, trattandosi di indagini collegate, non risulta effettivo il coordinamento delle indagini previste dall' art. 371, comma 1, e non hanno dato esito le riunioni per il coordinamento disposte o promosse dal procuratore generale anche d' intesa con altri procuratori generali interessati. ))
 
 ((28))
 
 ## Art. 373. — Documentazione degli atti
+
+1.
+                        
+                            
+                                Salvo quanto disposto in relazione a specifici atti, e' redatto verbale: 
+ 
+                            
+                            
+                                a)
+                                
+                                    delle denunce, querele e istanze di procedimento presentate oralmente; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    degli interrogatori e dei confronti con la persona sottoposta alle indagini; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    delle ispezioni, delle perquisizioni e dei sequestri; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    delle ((...)) informazioni assunte a norma dell'articolo 362; 
+
+                                
+                            
+                            
+                                d-bis)
+                                
+                                    dell'interrogatorio assunto a norma dell'articolo 363; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    degli accertamenti tecnici compiuti a norma dell'articolo 360.
 
 Il verbale e' redatto secondo le modalita' previste nel titolo III del libro II.
 
@@ -5695,6 +7387,38 @@ La presentazione spontanea non pregiudica l'applicazione di misure cautelari.
 
 Il pubblico ministero invita la persona sottoposta alle indagini a presentarsi quando deve procedere ad atti che ne richiedono la presenza.
 
+2.
+                        
+                            
+                                L'invito a presentarsi contiene: 
+ 
+                            
+                            
+                                a)
+                                
+                                    le generalita' o le altre indicazioni personali che valgono a identificare la persona sottoposta alle indagini; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il giorno, l'ora e il luogo della presentazione nonche' l'autorita' davanti alla quale la persona deve presentarsi; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il tipo di atto per il quale l'invito e' predisposto; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    l'avvertimento che il pubblico ministero potra' disporre a norma dell'articolo 132 l'accompagnamento coattivo in caso di mancata presentazione senza che sia stato addotto legittimo impedimento.
+
 Quando la persona e' chiamata a rendere l'interrogatorio, l'invito contiene altresi' la sommaria enunciazione del fatto quale risulta dalle indagini fino a quel momento compiute. ((L'invito puo' inoltre contenere, ai fini di quanto previsto dall'articolo 453 comma 1, l'indicazione degli elementi e delle fonti di prova e l'avvertimento che potra' essere presentata richiesta di giudizio immediato.))
 
 L'invito a presentarsi e' notificato almeno tre giorni prima di quello fissato per la comparizione, salvo che, per ragioni di urgenza, il pubblico ministero ritenga di abbreviare il termine, purche' sia lasciato il tempo necessario per comparire.
@@ -5706,6 +7430,31 @@ Quando si tratta di procedere ad atti di interrogatorio o confronto, l'accompagn
 ## Art. 377. — Citazioni di persone informate sui fatti
 
 Il pubblico ministero puo' emettere decreto di citazione quando deve procedere ad atti che richiedono la presenza della persona offesa e delle persone in grado di riferire su circostanze utili ai fini delle indagini.
+
+2.
+                        
+                            
+                                Il decreto contiene: 
+ 
+                            
+                            
+                                a)
+                                
+                                    le generalita' della persona; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il giorno, l'ora e il luogo della comparizione nonche' l'autorita' davanti alla quale la persona deve presentarsi; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    l'avvertimento che il pubblico ministero potra' disporre a norma dell'articolo 133 l'accompagnamento coattivo in caso di mancata comparizione senza che sia stato addotto legittimo impedimento.
 
 Il pubblico ministero provvede allo stesso modo per la citazione del consulente tecnico, dell'interprete e del custode delle cose sequestrate.
 
@@ -5724,6 +7473,181 @@ determinata a norma dell'articolo 278.
 
 Gli ufficiali e gli agenti di polizia giudiziaria procedono all'arresto di chiunque e' colto in flagranza di un delitto non colposo, consumato o tentato, per il quale la legge stabilisce la pena dell'ergastolo o della reclusione non inferiore nel minimo a cinque anni e nel massimo a venti anni.
 
+2.
+                        
+                            
+                                Anche fuori dei casi previsti dal comma 1, gli ufficiali e gli agenti di polizia giudiziaria procedono all'arresto di chiunque e' colto in flagranza di uno dei seguenti delitti non colposi, consumati o tentati: 
+ 
+                            
+                            
+                                a)
+                                
+                                    delitti contro la personalita' dello Stato previsti nel titolo I del libro II del codice penale per i quali e' stabilita la pena della reclusione non inferiore nel minimo a cinque anni o nel massimo a dieci anni; 
+
+                                
+                            
+                            
+                                a-bis)
+                                
+                                    delitto di violenza o minaccia ad un Corpo politico, amministrativo o giudiziario o ai suoi singoli componenti previsto dall'articolo 338 del codice penale; 
+
+                                
+                            
+                            
+                                a-ter)
+                                
+                                    
+                                        (( delitto di lesioni personali previsto dall'articolo 583-quater, secondo e terzo comma, del codice penale)); 
+
+                                
+                            
+                            
+                                a-quater)
+                                
+                                    delitto di danneggiamento previsto dall'articolo 635, quarto comma, del codice penale; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    delitto di devastazione e saccheggio previsto dall'articolo 419 del codice penale; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    delitti contro l'incolumita' pubblica previsti nel titolo VI del libro II del codice penale per i quali e' stabilita la pena della reclusione non inferiore nel minimo a tre anni o nel massimo a dieci anni; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    delitto di riduzione in schiavitu' previsto dall'articolo 600, delitto di prostituzione minorile previsto dall'articolo 600-bis, primo comma, delitto di pornografia minorile previsto dall'articolo 600-ter, commi primo e secondo, anche se relativo al materiale pornografico di cui all'articolo 600-quater.1, e delitto di iniziative turistiche volte allo sfruttamento della prostituzione minorile previsto dall'articolo 600-quinquies del codice penale; 
+ d.1) delitti di intermediazione illecita e sfruttamento del lavoro previsti dall'articolo 603-bis, secondo comma, del codice penale; 
+
+                                
+                            
+                            
+                                d-bis)
+                                
+                                    delitto di violenza sessuale previsto dall'articolo 609-bis, escluso il caso previsto dal terzo comma, e delitto di violenza sessuale di gruppo previsto dall'articolo 609-octies del codice penale; 
+
+                                
+                            
+                            
+                                d-ter)
+                                
+                                    delitto di atti sessuali con minorenne di cui all'articolo 609-quater, primo e secondo comma, del codice penale; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    delitto di furto quando ricorre la circostanza aggravante prevista dall'articolo 4 della legge 8 agosto 1977, n. 533, o taluna delle circostanze aggravanti previste dall'articolo 625, primo comma, numeri 2), prima ipotesi, 3) e 5), nonche' 7-bis), del codice penale, salvo che ricorra, in questi ultimi casi, la circostanza attenuante di cui all'articolo 62, primo comma, numero 4), del codice penale. 
+
+                                
+                            
+                            
+                                e-bis)
+                                
+                                    delitti di furto previsti dall'articolo 624-bis del codice penale, salvo che ricorra la circostanza attenuante di cui all'articolo 62, primo comma, numero 4), del codice penale; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    delitto di rapina previsto dall'articolo 628 del codice penale e di estorsione previsto dall'articolo 629 del codice penale; 
+ f.1) delitto di truffa, quando ricorre la circostanza aggravante prevista dall'articolo 640, terzo comma, del codice penale; 
+
+                                
+                            
+                            
+                                f-bis)
+                                
+                                    delitto di ricettazione, nell'ipotesi aggravata di cui all'articolo 648, primo comma, secondo periodo, del codice penale; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    delitti di illegale fabbricazione, introduzione nello Stato, messa in vendita, cessione, detenzione e porto in luogo pubblico o aperto al pubblico di armi da guerra o tipo guerra o parti di esse e di esplosivi, di armi clandestine nonche' di piu' armi comuni da sparo, escluse quelle previste dall'articolo 2 comma 3 della legge 18 aprile 1975 n. 110; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    delitti concernenti sostanze stupefacenti o psicotrope puniti a norma dell' articolo 73 del testo unico approvato con decreto del Presidente della Repubblica 9 ottobre 1990, n. 309, salvo che per i delitti di cui al comma 5 del medesimo articolo; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    delitti commessi per finalita' di terrorismo o di eversione dell'ordine costituzionale per i quali la legge stabilisce la pena della reclusione non inferiore nel minimo a quattro anni o nel massimo a dieci anni; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    delitti di promozione, costituzione, direzione e organizzazione delle associazioni segrete previste dall'articolo 1 della legge 25 gennaio 1982 n. 17, delle associazioni di carattere militare previste dall'articolo 1 della legge 17 aprile 1956 n. 561, delle associazioni, dei movimenti o dei gruppi previsti dagli articoli 1 e 2 della legge 20 giugno 1952 n. 645; 
+
+                                
+                            
+                            
+                                l-bis)
+                                
+                                    delitti di partecipazione, promozione, direzione e organizzazione della associazione di tipo mafioso prevista dall'articolo 416-bis del codice penale; 
+
+                                
+                            
+                            
+                                l-ter)
+                                
+                                    delitti di violazione dei provvedimenti di allontanamento dalla casa familiare e del divieto di avvicinamento ai luoghi frequentati dalla persona offesa, di maltrattamenti contro familiari e conviventi e di atti persecutori, previsti dagli articoli 387-bis, 572 e 612-bis del codice penale; 
+
+                                
+                            
+                            
+                                m)
+                                
+                                    delitti di promozione, direzione, costituzione e organizzazione della associazione per delinquere prevista dall'articolo 416 commi 1 e 3 del codice penale, se l'associazione e' diretta alla commissione di piu' delitti fra quelli previsti dal comma 1 o dalle lettere a) , b) , c) , d) , f) , g) , i) del presente comma; 
+
+                                
+                            
+                            
+                                m-bis)
+                                
+                                    delitti di fabbricazione, detenzione o uso di documento di identificazione falso previsti dall'articolo 497-bis del codice penale; 
+
+                                
+                            
+                            
+                                m-ter)
+                                
+                                    delitti di promozione, direzione, organizzazione, finanziamento o effettuazione di trasporto di persone ai fini dell'ingresso illegale nel territorio dello Stato, di cui all'articolo 12, commi 1 e 3, del testo unico delle disposizioni concernenti la disciplina dell'immigrazione e norme sulla condizione dello straniero, di cui al decreto legislativo 25 luglio 1998, n. 286, e successive modificazioni; 
+
+                                
+                            
+                            
+                                m-quater)
+                                
+                                    delitto di omicidio colposo stradale o nautico previsto dall'articolo 589-bis, secondo e terzo comma, del codice penale, salvo che il conducente si sia immediatamente fermato, adoperandosi per prestare o attivare i soccorsi, e si sia messo immediatamente a disposizione degli organi di polizia giudiziaria; 
+
+                                
+                            
+                            
+                                m-quinquies)
+                                
+                                    delitto di resistenza o di violenza contro una nave da guerra, previsto dall'articolo 1100 del codice della navigazione.
+
 Se si tratta di delitto perseguibile a querela e la querela non e' contestualmente proposta, quando la persona offesa non e' prontamente rintracciabile, l'arresto in flagranza, nei casi di cui ai commi 1 e 2, e' eseguito anche in mancanza della querela che puo' ancora sopravvenire. In questo caso, se la querela non e' proposta nel termine di quarantotto ore dall'arresto oppure se l'avente diritto dichiara di rinunciarvi o rimette la querela proposta, l'arrestato e' posto immediatamente in liberta'. Gli ufficiali e gli agenti di polizia giudiziaria che hanno proceduto all'arresto effettuano tempestivamente ogni utile ricerca della persona offesa.
 Quando la persona offesa e' presente o e' rintracciata ai sensi dei periodi precedenti, la querela puo' essere proposta anche con dichiarazione resa oralmente all'ufficiale o all'agente di polizia giudiziaria, ferma restando la necessita' di rendere alla persona offesa, anche con atto successivo, le informazioni di cui all'articolo 90-bis.
 
@@ -5735,6 +7659,129 @@ Quando la persona offesa e' presente o e' rintracciata ai sensi dei periodi prec
 ## Art. 381. — Arresto facoltativo in flagranza
 
 Gli ufficiali e gli agenti di polizia giudiziaria hanno facolta' di arrestare chiunque e' colto in flagranza di un delitto non colposo, consumato o tentato, per il quale la legge stabilisce la pena della reclusione superiore nel massimo a tre anni ovvero di un delitto colposo per il quale la legge stabilisce la pena della reclusione non inferiore nel massimo a cinque anni.
+
+2.
+                        
+                            
+                                Gli ufficiali e gli agenti di polizia giudiziaria hanno altresi' facolta' di arrestare chiunque e' colto in flagranza di uno dei seguenti delitti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    peculato mediante profitto dell'errore altrui previsto dall'articolo 316 del codice penale; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    corruzione per un atto contrario ai doveri d'ufficio prevista dagli articoli 319 comma 4 e 321 del codice penale; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    violenza o minaccia a un pubblico ufficiale prevista dall'articolo 336 comma 2 del codice penale; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    commercio e somministrazione di medicinali guasti e di sostanze alimentari nocive previsti dagli articoli 443 e 444 del codice penale; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    corruzione di minorenni prevista dall'articolo 530 del codice penale; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    lesione personale prevista dall'articolo 582 del codice penale; 
+
+                                
+                            
+                            
+                                f-bis)
+                                
+                                    violazione di domicilio prevista dall'articolo 614, primo e secondo comma, del codice penale; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    furto previsto dall'articolo 624 del codice penale; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    danneggiamento aggravato a norma dell'articolo 635 comma 2 del codice penale; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    truffa prevista dall'articolo 640 del codice penale; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    appropriazione indebita prevista dall'articolo 646 del codice penale; 
+
+                                
+                            
+                            
+                                l-bis)
+                                
+                                    offerta, cessione o detenzione di materiale pornografico previste dagli articoli 600-ter, quarto comma, e 600-quater del codice penale, anche se relative al materiale pornografico di cui all'articolo 600-quater.1 del medesimo codice; 
+
+                                
+                            
+                            
+                                m)
+                                
+                                    alterazione di armi e fabbricazione di esplosivi non riconosciuti previste dagli articoli 3 e 24 comma 1 della legge 18 aprile 1975 n. 110; 
+
+                                
+                            
+                            
+                                m-bis)
+                                
+                                    LETTERA ABROGATA DAL D.L. 18 FEBBRAIO 2015, N. 7, CONVERTITO CON MODIFICAZIONI DALLA L. 17 APRILE 2015, N. 43; 
+
+                                
+                            
+                            
+                                m-ter)
+                                
+                                    falsa attestazione o dichiarazione a un pubblico ufficiale sulla identita' o su qualita' personali proprie o di altri, prevista dall'articolo 495 del codice penale; 
+
+                                
+                            
+                            
+                                m-quater)
+                                
+                                    fraudolente alterazioni per impedire l'identificazione o l'accertamento di qualita' personali, previste dall'articolo 495-ter del codice penale; 
+
+                                
+                            
+                            
+                                m-quinquies)
+                                
+                                    delitto di lesioni colpose stradali o nautiche gravi o gravissime previsto dall'articolo 590-bis, secondo, terzo, quarto e quinto comma, del codice penale;
 
 Se si tratta di delitto perseguibile a querela, l'arresto in flagranza puo' essere eseguito se la querela viene proposta, anche con dichiarazione resa oralmente all'ufficiale o all'agente di polizia giudiziaria presente nel luogo, ferma restando la necessita' di rendere alla persona offesa, anche con atto successivo, le informazioni di cui all'articolo 90-bis. Se l'avente diritto dichiara di rimettere la querela, l'arrestato e' posto immediatamente in liberta'.
 
@@ -5794,6 +7841,80 @@ Il provvedimento di allontanamento d'urgenza diviene inefficace se il pubblico m
 L'arresto o il fermo non e' consentito quando, tenuto conto delle circostanze del fatto, appare che questo e' stato compiuto nell'adempimento di un dovere o nell'esercizio di una facolta' legittima ovvero in presenza di una causa di non punibilita'.
 
 ## Art. 386. — Doveri della polizia giudiziaria in caso di arresto o di fermo
+
+1.
+                        
+                            
+                                Gli ufficiali e gli agenti di polizia giudiziaria che hanno eseguito l'arresto o il fermo o hanno avuto in consegna l'arrestato, ne danno immediata notizia al pubblico ministero del luogo ove l'arresto o il fermo e' stato eseguito. Consegnano all'arrestato o al fermato una comunicazione scritta, redatta in forma chiara e precisa e, se questi non conosce la lingua italiana, tradotta in una lingua a lui comprensibile, con cui lo informano: 
+ 
+                            
+                            
+                                a)
+                                
+                                    della facolta' di nominare un difensore di fiducia e di essere ammesso al patrocinio a spese dello Stato nei casi previsti dalla legge; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    del diritto di ottenere informazioni in merito all'accusa; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    del diritto all'interprete ed alla traduzione di atti fondamentali; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    del diritto di avvalersi della facolta' di non rispondere; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    del diritto di accedere agli atti sui quali si fonda l'arresto o il fermo; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    del diritto di informare le autorita' consolari e di dare avviso a un familiare o ad altra persona di fiducia; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    del diritto di accedere all'assistenza medica di urgenza; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    del diritto di essere condotto davanti all'autorita' giudiziaria per la convalida entro novantasei ore dall'avvenuto arresto o fermo; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    del diritto di comparire dinanzi al giudice per rendere l'interrogatorio e di proporre ricorso per cassazione contro l'ordinanza che decide sulla convalida dell'arresto o del fermo; 
+
+                                
+                            
+                            
+                                i-bis)
+                                
+                                    della facolta' di accedere ai programmi di giustizia riparativa.
 
 Qualora la comunicazione scritta di cui al comma 1 non sia prontamente disponibile in una lingua comprensibile all'arrestato o al fermato, le informazioni sono fornite oralmente, salvo l'obbligo di dare comunque, senza ritardo, comunicazione scritta all'arrestato o al fermato.
 
@@ -5877,6 +7998,52 @@ Salve le incompatibilita' previste dall'articolo 197, comma 1, lettere c) e d), 
 
 Il difensore o il sostituto possono inoltre chiedere alle persone di cui al comma 1 una dichiarazione scritta ovvero di rendere informazioni da documentare secondo le modalita' previste dall'articolo 391-ter.
 
+3.
+                        
+                            
+                                In ogni caso, il difensore, il sostituto, gli investigatori privati autorizzati o i consulenti tecnici avvertono le persone indicate nel comma 1: 
+ 
+                            
+                            
+                                a)
+                                
+                                    della propria qualita' e dello scopo del colloquio; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    se intendono semplicemente conferire ovvero ricevere dichiarazioni o assumere informazioni indicando, in tal caso, le modalita' e la forma di documentazione; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    dell'obbligo di dichiarare se sono sottoposte ad indagini o imputate nello stesso procedimento, in un procedimento connesso o per un reato collegato; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    della facolta' di non rispondere o di non rendere la dichiarazione; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    del divieto di rivelare le domande eventualmente formulate dalla polizia giudiziaria o dal pubblico ministero e le risposte date; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    delle responsabilita' penali conseguenti alla falsa dichiarazione.
+
 Alle persone gia' sentite dalla polizia giudiziaria o dal pubblico ministero non possono essere richieste notizie sulle domande formulate o sulle risposte date.
 
 Per conferire, ricevere dichiarazioni o assumere informazioni da una persona sottoposta ad indagini o imputata nello stesso procedimento, in un procedimento connesso o per un reato collegato, e' dato avviso, almeno ventiquattro ore prima, al suo difensore la cui presenza e' necessaria. Se la persona e' priva di difensore, il giudice, su richiesta del difensore che procede alle investigazioni, dispone la nomina di un difensore di ufficio ai sensi dell'articolo 97.
@@ -5898,6 +8065,38 @@ Il difensore, in alternativa all'audizione di cui al comma 10, puo' chiedere che
 ## Art. 391-ter. — Documentazione delle dichiarazioni e delle informazioni
 
 
+
+1.
+                        
+                            
+                                La dichiarazione di cui al comma 2 dell'articolo 391-bis, sottoscritta dal dichiarante, e' autenticata dal difensore o da un suo sostituto, che redige una relazione nella quale sono riportati: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la data in cui ha ricevuto la dichiarazione; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le proprie generalita' e quelle della persona che ha rilasciato la dichiarazione; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    l'attestazione di avere rivolto gli avvertimenti previsti dal comma 3 dell'articolo 391-bis; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    i fatti sui quali verte la dichiarazione.
 
 La dichiarazione e' allegata alla relazione.
 
@@ -5934,6 +8133,38 @@ Il pubblico ministero, nel comunicare il divieto di cui al comma 1 alle persone 
 ## Art. 391-sexies. — (( (Accesso ai luoghi e documentazione). ))
 
 ((
+
+1.
+                        
+                            
+                                Quando effettuano un accesso per prendere visione dello stato dei luoghi e delle cose ovvero per procedere alla loro descrizione o per eseguire rilievi tecnici, grafici, planimetrici, fotografici o audiovisivi, il difensore, il sostituto e gli ausiliari indicati nell'articolo 391-bis possono redigere un verbale nel quale sono riportati: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la data ed il luogo dell'accesso; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le proprie generalita' e quelle delle persone intervenute; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    la descrizione dello stato dei luoghi e delle cose; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    l'indicazione degli eventuali rilievi tecnici, grafici, planimetrici, fotografici o audiovisivi eseguiti, che fanno parte integrante dell'atto e sono allegati al medesimo. Il verbale e' sottoscritto dalle persone intervenute.
 
 ## Art. 391-septies. — (( (Accesso ai luoghi privati o non aperti al pubblico). ))
 
@@ -5978,6 +8209,59 @@ Il verbale degli accertamenti compiuti ai sensi del comma 3 e, quando il pubblic
 
 ## Art. 392. — Casi
 
+1.
+                        
+                            
+                                Nel corso delle indagini preliminari il pubblico ministero e la persona sottoposta alle indagini possono chiedere al giudice che si proceda con incidente probatorio: 
+ 
+                            
+                            
+                                a)
+                                
+                                    all'assunzione della testimonianza di una persona, quando vi e' fondato motivo di ritenere che la stessa non potra' essere esaminata nel dibattimento per infermita' o altro grave impedimento; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    all'assunzione di una testimonianza quando, per elementi concreti e specifici, vi e' fondato motivo di ritenere che la persona sia esposta a violenza, minaccia, offerta o promessa di denaro o di altra utilita' affinche' non deponga o deponga il falso; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    all'esame della persona sottoposta alle indagini su fatti concernenti la responsabilita' di altri; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    all'esame delle persone indicate nell'articolo 210 e all'esame dei testimoni di giustizia; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    al confronto tra persone che in altro incidente probatorio o al pubblico ministero hanno reso dichiarazioni discordanti, quando ricorre una delle circostanze previste dalle lettere a) e b); 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    a una perizia o a un esperimento giudiziale, se la prova riguarda una persona, una cosa o un luogo il cui stato e' soggetto a modificazione non evitabile ((ovvero un alimento deteriorabile)); 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    a una ricognizione, quando particolari ragioni di urgenza non consentono di rinviare l'atto al dibattimento.
+
 Nei procedimenti per i delitti di cui agli articoli 572, 600, 600-bis, 600-ter e 600-quater, anche se relativi al materiale pornografico di cui all'articolo 600-quater.1, 600-quinquies, 601, 602, 609-bis, 609-quater, 609-quinquies, 609-octies, 609-undecies e 612-bis del codice penale il pubblico ministero, anche su richiesta della persona offesa, o la persona sottoposta alle indagini possono chiedere che si proceda con incidente probatorio all'assunzione della testimonianza di persona minorenne ovvero della persona offesa maggiorenne, anche al di fuori delle ipotesi previste dal comma 1. In ogni caso, quando la persona offesa versa in condizione di particolare vulnerabilita', il pubblico ministero, anche su richiesta della stessa, o la persona sottoposta alle indagini possono chiedere che si proceda con incidente probatorio all'assunzione della sua testimonianza.
 
 Il pubblico ministero e la persona sottoposta alle indagini possono altresi' chiedere una perizia che, se fosse disposta nel dibattimento, ne potrebbe determinare una sospensione superiore a sessanta giorni ovvero che comporti l'esecuzione di accertamenti o prelievi su persona vivente previsti dall'articolo 224-bis. (53)
@@ -5990,6 +8274,31 @@ Il pubblico ministero e la persona sottoposta alle indagini possono altresi' chi
 ## Art. 393.
 
 Richiesta
+
+1.
+                        
+                            
+                                La richiesta e' presentata entro i termini per la conclusione delle indagini preliminari e comunque in tempo sufficiente per l'assunzione della prova prima della scadenza dei medesimi termini e indica: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la prova da assumere, i fatti che ne costituiscono l'oggetto e le ragioni della sua rilevanza per la decisione dibattimentale; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le persone nei confronti delle quali si procede per i fatti oggetto della prova; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    le circostanze che, a norma dell'articolo 392, rendono la prova non rinviabile al dibattimento.
 
 La richiesta proposta dal pubblico ministero indica anche i difensori delle persone interessate a norma del comma 1 lettera b), la persona offesa e il suo difensore.
 
@@ -6026,6 +8335,24 @@ Copia delle deduzioni e' consegnata dalla persona sottoposta alle indagini alla 
 
 Il pubblico ministero puo' chiedere che il giudice disponga il differimento dell'incidente probatorio richiesto dalla persona sottoposta alle indagini quando la sua esecuzione pregiudicherebbe uno o piu' atti di indagine preliminare. Il differimento non e' consentito quando pregiudicherebbe l'assunzione della prova.
 
+2.
+                        
+                            
+                                La richiesta di differimento e' presentata a pena di inammissibilita' nella cancelleria del giudice entro il termine previsto dall'articolo 396, comma 1, e indica: 
+ 
+                            
+                            
+                                a)
+                                
+                                    l'atto o gli atti di indagine preliminare che l'incidente probatorio pregiudicherebbe e le cause del pregiudizio; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il termine del differimento richiesto.
+
 Il giudice, se non dichiara inammissibile o rigetta la richiesta di incidente probatorio, provvede entro due giorni con ordinanza con la quale accoglie, dichiara inammissibile o rigetta la richiesta di differimento. L'ordinanza di inammissibilita' o di rigetto e' immediatamente comunicata al pubblico ministero.
 
 Nell'accogliere la richiesta di differimento il giudice fissa l'udienza per l'incidente probatorio non oltre il termine strettamente necessario al compimento dell'atto o degli atti di indagine preliminare indicati nel comma 2 lettera a). L'ordinanza e' immediatamente comunicata al pubblico ministero e notificata per estratto alle persone indicate nell'articolo 393 comma 1 lettera b).
@@ -6034,6 +8361,31 @@ La richiesta di differimento e l'ordinanza sono depositate alla udienza.
 ## Art. 398. — Provvedimenti sulla richiesta di incidente probatorio
 
 Entro due giorni dal deposito della prova della notifica e comunque dopo la scadenza del termine previsto dall'articolo 396 comma 1, il giudice pronuncia ordinanza con la quale accoglie, dichiara inammissibile o rigetta la richiesta di incidente probatorio. L'ordinanza di inammissibilita' o di rigetto e' immediatamente comunicata al pubblico ministero e notificata alle persone interessate.
+
+2.
+                        
+                            
+                                Con l'ordinanza che accoglie la richiesta il giudice stabilisce: 
+ 
+                            
+                            
+                                a)
+                                
+                                    l'oggetto della prova nei limiti della richiesta e delle deduzioni; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le persone interessate all'assunzione della prova individuate sulla base della richiesta e delle deduzioni; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    la data dell'udienza. Tra il provvedimento e la data dell'udienza non puo' intercorrere un termine superiore a dieci giorni.
 
 Il giudice fa notificare alla persona sottoposta alle indagini, alla persona offesa e ai difensori avviso del giorno, dell'ora e del luogo in cui si deve procedere all'incidente probatorio almeno due giorni prima della data fissata con l'avvertimento che nei due giorni precedenti l'udienza possono prendere cognizione ed estrarre copia delle dichiarazioni gia' rese dalla persona da esaminare. Nello stesso termine l'avviso e 'comunicato al pubblico ministero.
 
@@ -6157,6 +8509,48 @@ Gli atti di indagine compiuti dopo la presentazione della richiesta di proroga e
 ## Art. 407. — Termini di durata massima delle indagini preliminari
 
 Salvo quanto previsto dall'articolo 393 comma 4, la durata delle indagini preliminari non puo' comunque superare diciotto mesi o, se si procede per una contravvenzione, un anno.
+
+2.
+                        
+                            
+                                La durata massima e' tuttavia di due anni se le indagini preliminari riguardano: 
+ 
+                            
+                            
+                                a)
+                                
+                                    i delitti appresso indicati: 
+ 1) delitti di cui agli articoli 285, 286, 416-bis e 422 del codice penale, 291-ter, limitatamente alle ipotesi aggravate previste dalle lettere a), d) ed e) del comma 2, e 291-quater, comma 4, del testo unico approvato con decreto del Presidente della Repubblica 23 gennaio 1973, n. 43; 
+ 2) delitti consumati o tentati di cui agli articoli 575, 628, terzo comma, ((628-bis,)) 629, secondo comma, e 630 dello stesso codice penale; 
+ 3) delitti commessi avvalendosi delle condizioni previste dall'articolo 416-bis del codice penale ovvero al fine di agevolare l'attivita' delle associazioni previste dallo stesso articolo; 
+ 4) delitti commessi per finalita' di terrorismo o di eversione dell'ordinamento costituzionale per i quali la legge stabilisce la pena della reclusione non inferiore nel minimo a cinque anni o nel massimo a dieci anni, nonche' delitti di cui agli articoli 270, terzo comma, e 306, secondo comma, del codice penale; 
+ 5) delitti di illegale fabbricazione, introduzione nello Stato, messa in vendita, cessione, detenzione e porto in luogo pubblico o aperto al pubblico di armi da guerra o tipo guerra o parti di esse, di esplosivi, di armi clandestine nonche' di piu' armi comuni da sparo escluse quelle previste dall'articolo 2, comma terzo, della legge 18 aprile 1975, n. 110; 
+ 6) delitti di cui agli articoli 73, limitatamente alle ipotesi aggravate ai sensi dell'articolo 80, comma 2, e 74 del testo unico delle leggi in materia di disciplina degli stupefacenti e sostanze psicotrope, prevenzione, cura e riabilitazione dei relativi stati di tossicodipendenza, approvato con decreto del Presidente della Rupubblica 9 ottobre 1990, n. 309, e successive modificazioni; 
+ 7) delitto di cui all'articolo 416 del codice penale nei casi in cui e' obbligatorio l'arresto in flagranza; 
+ 7-bis) dei delitti previsto dagli articoli 600, 600-bis, primo comma, 600-ter, primo e secondo comma 601, 602, 609-bis nelle ipotesi aggravate previste dall'articolo 609-ter, 609-quater, 609-octies del codice penale, nonche' dei delitti previsti dagli articoli 12, comma 3, e 12-bis del testo unico di cui al decreto legislativo 25 luglio 1998, n. 286, e successive modificazioni. 
+ 7-ter) delitti previsti dagli articoli 615-ter, 615-quater, 617-ter, 617-quater, 617-quinquies, 617-sexies, 635-bis, 635-ter, 635-quater, 635-quater.1 e 635-quinquies del codice penale, quando il fatto e' commesso in danno di sistemi informatici o telematici di interesse militare o relativi all'ordine pubblico o alla sicurezza pubblica o alla sanita' o alla protezione civile o comunque di interesse pubblico; 
+ 7-quater) delitti previsti dal capo I-bis del titolo I del libro II del codice penale e dall'articolo 12, comma 1, aggravato ai sensi del comma 1-bis, del decreto legislativo 25 luglio 1998, n. 286; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    notizie di reato cherendono particolarmente complesse le investigazioni per la molteplicita' di fatti tra loro collegati ovvero per l'elevato numero di persone sottoposte alle indagini o di persone offese; (108) (123) 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    indagini che richiedono il compimento di atti all'estero; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    procedimenti in cui e' indispensabile mantenere il collegamento tra piu' uffici del pubblico ministero a norma dell'articolo 371.
 
 Salvo quanto previsto dall'articolo 415- bis, non possono essere utilizzati gli atti di indagine compiuti dopo la scadenza del termine per la conclusione delle indagini preliminari stabilito dalla legge o prorogato dal giudice.
 
@@ -6319,9 +8713,52 @@ Le dichiarazioni rilasciate dall'indagato, l'interrogatorio del medesimo ed i nu
 
 Salvo quanto previsto dal comma 2, alla scadenza dei termini di cui all'articolo 407-bis, comma 2, se il pubblico ministero non ha esercitato l'azione penale o richiesto l'archiviazione e non ha gia' disposto la notifica dell'avviso della conclusione delle indagini preliminari, la documentazione relativa alle indagini espletate e' depositata in segreteria. Alla persona sottoposta alle indagini e alla persona offesa che, nella notizia di reato o successivamente, abbia dichiarato di volere essere informata della conclusione delle indagini e' immediatamente notificato avviso dell'avvenuto deposito della documentazione e della facolta' di esaminarla ed estrarne copia. L'avviso contiene altresi' l'indicazione della facolta' di cui al comma 4. Copia dell'avviso e' comunicata al procuratore generale presso la corte di appello.
 
+2.
+                        
+                            
+                                Il pubblico ministero, prima della scadenza dei termini di cui all'articolo 407-bis, comma 2, puo' presentare al giudice per le indagini preliminari richiesta motivata di differimento del deposito della documentazione relativa alle indagini espletate: 
+ 
+                            
+                            
+                                a)
+                                
+                                    quando e' stata richiesta l'applicazione della misura della custodia cautelare in carcere o degli arresti domiciliari e il giudice non ha ancora provveduto o quando, fuori dai casi di latitanza, la misura applicata non e' stata ancora eseguita; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    quando la conoscenza degli atti d'indagine puo' concretamente mettere in pericolo la vita o l'incolumita' di una persona o la sicurezza dello Stato ovvero, nei procedimenti per taluno dei delitti indicati nell'articolo 407, comma 2, arrecare un concreto pregiudizio, non evitabile attraverso la separazione dei procedimenti o in altro modo, per atti o attivita' di indagine specificamente individuati, rispetto ai quali non siano scaduti i termini di indagine e che siano diretti all'accertamento dei fatti, all'individuazione o alla cattura dei responsabili o al sequestro di denaro, beni o altre utilita' di cui e' obbligatoria la confisca; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    quando taluna delle circostanze indicate alle lettere a) e b) ricorre in relazione a reati connessi ai sensi dell'articolo 12 o collegati ai sensi dell'articolo 371, comma 2, per i quali non sia ancora decorso il termine previsto dall'articolo 407-bis, comma 2.
+
 Entro venti giorni dal deposito della richiesta del pubblico ministero, se ne ricorrono i presupposti, il giudice per le indagini preliminari autorizza con decreto motivato il differimento per il tempo strettamente necessario e, comunque, per un periodo complessivamente non superiore a sei mesi o, se si procede per taluno dei delitti indicati nell'articolo 407, comma 2, non superiore a un anno.
 
 Alla scadenza dei termini di cui all'articolo 407-bis, comma 2, se il pubblico ministero non ha esercitato l'azione penale, ne' richiesto l'archiviazione, la persona sottoposta alle indagini e la persona offesa possono chiedere al giudice per le indagini preliminari di valutare le ragioni del ritardo e, nel caso in cui non siano giustificate, di ordinare al pubblico ministero di assumere le determinazioni inerenti all'esercizio dell'azione penale. Sulla richiesta il giudice, sentito il pubblico ministero, provvede nei venti giorni successivi. L'istanza e' comunicata al procuratore generale presso la corte di appello. Quando non ha autorizzato il differimento ai sensi del comma 2 o non ricorrono le esigenze indicate nel medesimo comma, il giudice ordina al pubblico ministero di assumere le determinazioni inerenti all'esercizio dell'azione penale entro un termine non superiore a venti giorni. Quando, ai fini dell'esercizio dell'azione penale, deve essere notificato l'avviso di conclusione delle indagini di cui all'articolo 415-bis, nel computo del termine assegnato dal giudice non si tiene conto del tempo intercorso tra la notifica dell'avviso e la scadenza dei termini di cui ai commi 3 e 4 dell'articolo 415-bis. Copia del decreto e' comunicata al procuratore generale presso la corte di appello e notificata alla persona che ha formulato la richiesta.
+
+5.
+                        
+                            
+                                Alla scadenza dei termini di cui all'articolo 407-bis, comma 2, se il pubblico ministero non ha esercitato l'azione penale o richiesto l'archiviazione, il procuratore generale presso la corte d'appello, se non dispone l'avocazione delle indagini ai sensi dell'articolo 412, comma 1, puo' ordinare, con decreto motivato, al procuratore della Repubblica di assumere le determinazioni inerenti all'esercizio dell'azione penale entro un termine non superiore a venti giorni. La disposizione di cui al primo periodo non si applica quando: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il pubblico ministero ha formulato richiesta di differimento del deposito ai sensi del comma 2 e la stessa non e' stata rigettata; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    e' stata gia' presentata l'istanza di cui al comma 4.))
 
 ---------------
                             AGGIORNAMENTO (293)
@@ -6344,6 +8781,38 @@ Con la richiesta e' trasmesso il fascicolo contenente la notizia di reato, la do
  La L. 16 luglio 1997, n. 234 ha disposto (con l'art. 3, comma 1) che "il comma 1 dell'articolo 416 del codice di procedura penale, come modificato dall'articolo 2, comma 2, della presente legge, ed il comma 2 dell'articolo 555del codice di procedura penale, come modificato dall'articolo 2, comma 3, della presente legge, non si applicano ai procedimenti penali nei quali, alla data di entrata in vigore della presente legge, e' gia' stata depositata richiesta di rinvio a giudizio o e' gia' stato emesso decreto di citazione a giudizio."
 
 ## Art. 417. — Requisiti formali della richiesta di rinvio a giudizio
+
+1.
+                        
+                            
+                                La richiesta di rinvio a giudizio contiene: 
+ 
+                            
+                            
+                                a)
+                                
+                                    le generalita' dell'imputato o le altre indicazioni personali che valgono a identificarlo nonche' le generalita' della persona offesa dal reato qualora ne sia possibile l'identificazione; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    l'indicazione delle fonti di prova acquisite; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    la domanda al giudice di emissione del decreto che dispone il giudizio; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    la data e la sottoscrizione.
 
 ## Art. 418. — Fissazione dell'udienza
 
@@ -6404,6 +8873,24 @@ Il verbale dell'udienza preliminare e' redatto di regola in forma riassuntiva a 
 
 ## Art. 420-bis. — (Assenza dell'imputato).
 
+1.
+                        
+                            
+                                Se l'imputato, libero o detenuto, non e' presente all'udienza, il giudice procede in sua assenza: 
+ 
+                            
+                            
+                                a)
+                                
+                                    quando l'imputato e' stato citato a comparire a mezzo di notificazione dell'atto in mani proprie o di persona da lui espressamente delegata al ritiro dell'atto; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    quando l'imputato ha espressamente rinunciato a comparire o, sussistendo un impedimento ai sensi dell'articolo 420-ter, ha rinunciato espressamente a farlo valere.
+
 Il giudice procede in assenza dell'imputato anche quando ritiene altrimenti provato che lo stesso ha effettiva conoscenza della pendenza del processo e che la sua assenza all'udienza e' dovuta ad una scelta volontaria e consapevole. A tal fine il giudice tiene conto delle modalita' della notificazione, degli atti compiuti dall'imputato prima dell'udienza, della nomina di un difensore di fiducia e di ogni altra circostanza rilevante.
 
 Il giudice procede in assenza anche fuori dai casi di cui ai commi 1 e 2, quando l'imputato e' stato dichiarato latitante o si e' in altro modo volontariamente sottratto alla conoscenza della pendenza del processo. ((307))
@@ -6411,6 +8898,32 @@ Il giudice procede in assenza anche fuori dai casi di cui ai commi 1 e 2, quando
 Nei casi previsti dai commi 1, 2 e 3 il giudice dichiara l'imputato assente. Salvo che la legge disponga altrimenti, l'imputato dichiarato assente e' rappresentato dal difensore.
 
 Fuori dai casi previsti dai commi 1, 2 e 3, prima di procedere ai sensi dell'articolo 420-quater, il giudice rinvia l'udienza e dispone che l'avviso di cui all'articolo 419, la richiesta di rinvio a giudizio e il verbale d'udienza siano notificati all'imputato personalmente ad opera della polizia giudiziaria.
+
+6.
+                        
+                            
+                                L'ordinanza che dichiara l'assenza dell'imputato e' revocata anche d'ufficio se, prima della decisione, l'imputato compare.
+L'imputato e' restituito nel termine per esercitare le facolta' dalle quali e' decaduto: 
+ 
+                            
+                            
+                                a)
+                                
+                                    se fornisce la prova che, per caso fortuito, forza maggiore o altro legittimo impedimento, si e' trovato nell'assoluta impossibilita' di comparire in tempo utile per esercitare le facolta' dalle quali e' decaduto e che non ha potuto trasmettere tempestivamente la prova dell'impedimento senza sua colpa; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    se, nei casi previsti dai commi 2 e 3, fornisce la prova di non aver avuto effettiva conoscenza della pendenza del processo e di non essere potuto intervenire senza sua colpa in tempo utile per esercitare le facolta' dalle quali e' decaduto; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    se comunque risulta che le condizioni per procedere in sua assenza non erano soddisfatte.
 
 Fuori del caso previsto dal comma 6, se risulta che le condizioni per procedere in assenza non erano soddisfatte, il giudice revoca, anche d'ufficio, l'ordinanza che dichiara l'assenza dell'imputato e provvede ai sensi del comma 5.
 
@@ -6443,7 +8956,94 @@ Agli effetti di cui al comma 5 il difensore che abbia comunicato prontamente lo 
 
 Fuori dei casi previsti dagli articoli 420-bis e 420-ter, se l'imputato non e' presente, il giudice pronuncia sentenza inappellabile di non doversi procedere per mancata conoscenza della pendenza del processo da parte dell'imputato.
 
+2.
+                        
+                            
+                                La sentenza contiene: 
+ 
+                            
+                            
+                                a)
+                                
+                                    l'intestazione "in nome del popolo italiano" e l'indicazione dell'autorita' che l'ha pronunciata; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le generalita' dell'imputato o le altre indicazioni personali che valgono a identificarlo, nonche' le generalita' delle altre parti private; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    l'imputazione; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    l'indicazione dell'esito delle notifiche e delle ricerche effettuate; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    l'indicazione della data fino alla quale dovranno continuare le ricerche per rintracciare la persona nei cui confronti la sentenza e' emessa; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    il dispositivo, con l'indicazione degli articoli di legge applicati; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    la data e la sottoscrizione del giudice.
+
 Con la sentenza il giudice dispone che, fino a quando per tutti i reati oggetto di imputazione non sia superato il termine previsto dall'articolo 159, ultimo comma, del codice penale, la persona nei cui confronti e' stata emessa la sentenza sia ricercata dalla polizia giudiziaria e, nel caso in cui sia rintracciata, le sia personalmente notificata la sentenza.
+
+4.
+                        
+                            
+                                La sentenza contiene altresi': 
+ 
+                            
+                            
+                                a)
+                                
+                                    l'avvertimento alla persona rintracciata che il processo a suo carico sara' riaperto davanti alla stessa autorita' giudiziaria che ha pronunciato la sentenza; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    quando la persona non e' destinataria di un provvedimento applicativo della misura cautelare degli arresti domiciliari o della custodia in carcere per i fatti per cui si procede, l'avviso che l'udienza per la prosecuzione del processo e' fissata: 
+ 1) il primo giorno non festivo del successivo mese di ((ottobre)), se la persona e' stata rintracciata nel primo semestre dell'anno; 
+ 2) il primo giorno non festivo del mese di ((marzo)) dell'anno successivo, se la persona e' stata rintracciata nel secondo semestre dell'anno; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    l'indicazione del luogo in cui l'udienza si terra'; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    l'avviso che, qualora la persona rintracciata non compaia e non ricorra alcuno dei casi di cui all'articolo 420-ter, si procedera' in sua assenza e sara' rappresentata in udienza dal difensore.
 
 Alla sentenza si applicano le disposizioni di cui ai commi 2 e 3 dell'articolo 546.
 
@@ -6590,6 +9190,52 @@ Si applicano le disposizioni dell'articolo 537".
 
 ## Art. 426. — Requisiti della sentenza
 
+1.
+                        
+                            
+                                La sentenza contiene: 
+ 
+                            
+                            
+                                a)
+                                
+                                    l'intestazione "in nome del popolo italiano" e l'indicazione dell'autorita' che l'ha pronunciata; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le generalita' dell'imputato o le altre indicazioni personali che valgono a identificarlo nonche' le generalita' delle altre parti private; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    l'imputazione; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    l'esposizione sommaria dei motivi di fatto e di diritto su cui la decisione e' fondata; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    il dispositivo, con l'indicazione degli articoli di legge applicati; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    la data e la sottoscrizione del giudice.
+
 In caso di impedimento del giudice, la sentenza e' sottoscritta dal presidente del tribunale previa menzione della causa della sostituzione.
 
 Oltre che nel caso previsto dall'articolo 125 comma 3, la sentenza e' nulla se manca o e' incompleto nei suoi elementi essenziali il dispositivo ovvero se manca la sottoscrizione del giudice.
@@ -6619,6 +9265,24 @@ Se il reato e' estinto per remissione della querela, si applica la disposizione 
 
 
 
+1.
+                        
+                            
+                                Contro la sentenza di non luogo a procedere possono proporre appello: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il procuratore della Repubblica e il procuratore generale nei casi di cui all'articolo 593-bis, comma 2; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'imputato, salvo che con la sentenza sia stato dichiarato che il fatto non sussiste o che l'imputato non lo ha commesso.
+
 La persona offesa puo' proporre appello nei soli casi di nullita' previsti dall'articolo 419, comma 7. PERIODO SOPPRESSO DALLA L. 23 GIUGNO 2017, N. 103.
 
 Sull'impugnazione la corte di appello decide in camera di consiglio con le forme previste dall'articolo 127. In caso di appello del pubblico ministero, la corte, se non conferma la sentenza, pronuncia decreto che dispone il giudizio, formando il fascicolo per il dibattimento secondo le disposizioni degli articoli 429 e 431, o sentenza di non luogo a procedere con formula meno favorevole all'imputato. In caso di appello dell'imputato, la corte, se non conferma la sentenza, pronuncia sentenza di non luogo a procedere con formula piu' favorevole all'imputato.
@@ -6630,6 +9294,66 @@ Sull'impugnazione la corte di cassazione decide in camera di consiglio con le fo
 Sono inappellabili le sentenze di non luogo a procedere relative a ((reati puniti)) con la sola pena ((pecuniaria)) o con pena alternativa.
 
 ## Art. 429. — Decreto che dispone il giudizio
+
+1.
+                        
+                            
+                                Il decreto che dispone il giudizio contiene: 
+ 
+                            
+                            
+                                a)
+                                
+                                    le generalita' dell'imputato e le altre indicazioni personali che valgono a identificarlo nonche' le generalita' delle altre parti private, con l'indicazione dei difensori; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'indicazione della persona offesa dal reato qualora risulti identificata; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    l'enunciazione , in forma chiara e precisa del fatto, delle circostanze aggravanti e di quelle che possono comportare l'applicazione di misure di sicurezza, con l'indicazione dei relativi articoli di legge; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    l'indicazione sommaria delle fonti di prova e dei fatti cui esse si riferiscono; 
+
+                                
+                            
+                            
+                                d-bis)
+                                
+                                    l'avviso all'imputato e alla persona offesa che hanno facolta' di accedere ai programmi di giustizia riparativa; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    il dispositivo, con l'indicazione del giudice competente per il giudizio; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    l'indicazione del luogo, del giorno e dell'ora dell'udienza per la prosecuzione del processo davanti al giudice del dibattimento ((con l'avvertimento all'imputato che potranno essere disposte, ove ne ricorrano le condizioni, le sanzioni e le misure, anche di confisca, previste dalla legge in relazione al reato per cui si procede;)); ((310))
+                                    
+                                
+                            
+                            
+                                g)
+                                
+                                    la data e la sottoscrizione del giudice e dell'ausiliario che l'assiste.
 
 Il decreto e' nullo se l'imputato non e' identificato in modo certo ovvero se manca o e' insufficiente l'indicazione di uno dei requisiti previsti dal comma 1 lettere c) e f).
 
@@ -6663,6 +9387,67 @@ E' vietato al pubblico ministero, alla polizia giudiziaria e al difensore assume
 Il divieto di cui al comma 1 cessa dopo l'assunzione della testimonianza e nei casi in cui questa non sia ammessa o non abbia luogo)).
 
 ## Art. 431. — Fascicolo per il dibattimento
+
+1.
+                        
+                            
+                                Immediatamente dopo l'emissione del decreto che dispone il giudizio, il giudice provvede nel contraddittorio delle parti alla formazione del fascicolo per il dibattimento. Se una delle parti ne fa richiesta il giudice fissa una nuova udienza, non oltre il termine di quindici giorni, per la formazione del fascicolo. Nel fascicolo per il dibattimento sono raccolti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    gli atti relativi alla procedibilita' dell'azione penale e all'esercizio dell'azione civile; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    i verbali degli atti non ripetibili compiuti dalla polizia giudiziaria; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    i verbali degli atti non ripetibili compiuti dal pubblico ministero e dal difensore; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    i documenti acquisiti all'estero, mediante rogatoria internazionale e i verbali degli atti non ripetibili assunti con le stesse modalita'; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    i verbali degli atti assunti nell'incidente probatorio; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    i verbali degli atti, diversi da quelli previsti dalla lettera d), assunti all'estero a seguito di rogatoria internazionale ai quali i difensori sono stati posti in grado di assistere e di esercitare le facolta' loro consentite dalla legge italiana; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    il certificato generale del casellario giudiziario e gli altri documenti indicati nell'articolo 236 ((, nonche', quando si procede nei confronti di un apolide, di una persona della quale e' ignota la cittadinanza, di un cittadino di uno Stato non appartenente all'Unione europea ovvero di un cittadino di uno Stato membro dell'Unione europea privo del codice fiscale o che e' attualmente, o e' stato in passato, titolare anche della cittadinanza di uno Stato non appartenente all'Unione europea, una copia del cartellino fotodattiloscopico con indicazione del codice univoco identificativo)); 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    il corpo del reato e le cose pertinenti al reato, qualora non debbano essere custoditi altrove. 
+ 2 Le parti possono concordare l'acquisizione al fascicolo per il dibattimento di atti contenuti nel fascicolo del pubblico ministero, nonche' della documentazione relativa all'attivita' di investigazione difensiva.
 
 ## Art. 432. — Trasmissione e custodia del fascicolo per il dibattimento
 
@@ -7146,6 +9931,80 @@ pen. (come sostituito dall'art. 37, comma 1, della legge 16 dicembre 1999, n. 47
 
 ## Art. 460. — Requisiti del decreto di condanna
 
+1.
+                        
+                            
+                                Il decreto di condanna contiene: 
+ 
+                            
+                            
+                                a)
+                                
+                                    le generalita' dell'imputato o le altre indicazioni personali che valgano a identificarlo nonche', quando occorre, quelle della persona civilmente obbligata per la pena pecuniaria; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'enunciazione del fatto, delle circostanze e delle disposizioni di legge violate; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    la concisa esposizione dei motivi di fatto e di diritto su cui la decisione e' fondata, comprese le ragioni dell'eventuale diminuzione della pena al di sotto del minimo edittale; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    il dispositivo ((, con l'indicazione specifica della riduzione di un quinto della pena pecuniaria nel caso previsto dalla lettera h-ter))); 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    l'avviso che l'imputato e la persona civilmente obbligata per la pena pecuniaria possono proporre opposizione entro quindici giorni dalla notificazione del decreto e che l'imputato puo' chiedere mediante l'opposizione il giudizio immediato ovvero il giudizio abbreviato o l'applicazione della pena a norma dell'articolo 444;(239) 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    l'avvertimento all'imputato e alla persona civilmente obbligata per la pena pecuniaria che, in caso di mancata opposizione, il decreto diviene esecutivo; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    l'avviso che l'imputato e la persona civilmente obbligata per la pena pecuniaria hanno la facolta' di nominare un difensore; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    la data e la sottoscrizione del giudice e dell'ausiliario che lo assiste ((;))
+                                    
+                                
+                            
+                            
+                                h-bis)
+                                
+                                    l'avviso all'imputato della facolta' di accedere ai programmi di giustizia riparativa; 
+
+                                
+                            
+                            
+                                h-ter)
+                                
+                                    l'avviso che puo' essere effettuato il pagamento della pena pecuniaria in misura ridotta di un quinto, nel termine di quindici giorni dalla notificazione del decreto, con rinuncia all'opposizione.
+
 Con il decreto di condanna il giudice applica la pena nella misura richiesta dal pubblico ministero indicando l'entita' dell'eventuale diminuzione della pena stessa al di sotto del minimo edittale; ordina la confisca, nei casi previsti dall'articolo 240, secondo comma del codice penale, o la restituzione delle cose sequestrate; concede la sospensione condizionale della pena. Nei casi previsti dagli articoli 196 e 197 del codice penale, dichiara altresi' la responsabilita' della persona civilmente obbligata per la pena pecuniaria.
 
 Copia del decreto e' comunicata al pubblico ministero ed e' notificata con il precetto al condannato, al difensore d'ufficio o al difensore di fiducia eventualmente nominato ed alla persona civilmente obbligata per la pena pecuniaria.
@@ -7232,6 +10091,31 @@ La richiesta puo' essere proposta, oralmente o per iscritto, fino a che non sian
 
 La volonta' dell'imputato e' espressa personalmente o per mezzo di procuratore speciale e la sottoscrizione e' autenticata ((da un notaio, da altra persona autorizzata o dal difensore)).
 
+4.
+                        
+                            
+                                All'istanza e' allegato un programma di trattamento, elaborato d'intesa con l'ufficio di esecuzione penale esterna, ovvero, nel caso in cui non sia stata possibile l'elaborazione, la richiesta di elaborazione del predetto programma. Il programma in ogni caso prevede: 
+ 
+                            
+                            
+                                a)
+                                
+                                    le modalita' di coinvolgimento dell'imputato, nonche' del suo nucleo familiare e del suo ambiente di vita nel processo di reinserimento sociale, ove cio' risulti necessario e possibile; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le prescrizioni comportamentali e gli altri impegni specifici che l'imputato assume anche al fine di elidere o di attenuare le conseguenze del reato, considerando a tal fine il risarcimento del danno, le condotte riparatorie e le restituzioni, nonche' le prescrizioni attinenti al lavoro di pubblica utilita' ovvero all'attivita' di volontariato di rilievo sociale; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    le condotte volte a promuovere, ove possibile, la mediazione con la persona offesa ((e lo svolgimento di programmi di giustizia riparativa)).
+
 Al fine di decidere sulla concessione, nonche' ai fini della determinazione degli obblighi e delle prescrizioni cui eventualmente subordinarla, il giudice puo' acquisire, tramite la polizia giudiziaria, i servizi sociali o altri enti pubblici, tutte le ulteriori informazioni ritenute necessarie in relazione alle condizioni di vita personale, familiare, sociale ed economica dell'imputato. Tali informazioni devono essere portate tempestivamente a conoscenza del pubblico ministero e del difensore dell'imputato.
 
 ## Art. 464-ter. — (( (Richiesta di sospensione del procedimento con messa alla prova nel corso delle indagini preliminari). ))
@@ -7280,6 +10164,24 @@ Il giudice, se ritiene opportuno verificare la volontarieta' della richiesta, di
 La sospensione del procedimento con messa alla prova e' disposta quando il giudice, in base ai parametri di cui all'articolo 133 del codice penale, reputa idoneo il programma di trattamento presentato e ritiene che l'imputato si asterra' dal commettere ulteriori reati. A tal fine, il giudice valuta anche che il domicilio indicato nel programma dell'imputato sia tale da assicurare le esigenze di tutela della persona offesa dal reato.
 
 Il giudice, anche sulla base delle informazioni acquisite ai sensi del comma 5 dell'articolo 464-bis, e ai fini di cui al comma 3 del presente articolo puo' integrare o modificare il programma di trattamento, con il consenso dell'imputato.
+
+5.
+                        
+                            
+                                Il procedimento non puo' essere sospeso per un periodo: 
+ 
+                            
+                            
+                                a)
+                                
+                                    superiore a due anni quando si procede per reati per i quali e' prevista una pena detentiva, sola, congiunta o alternativa alla pena pecuniaria; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    superiore a un anno quando si procede per reati per i quali e' prevista la sola pena pecuniaria.
 
 I termini di cui al comma 5 decorrono dalla sottoscrizione del verbale di messa alla prova dell'imputato.
 
@@ -7502,6 +10404,31 @@ La sospensione e' disposta con ordinanza, contro la quale puo' essere proposto r
 Qualora il giudizio civile o amministrativo non si sia concluso nel termine di un anno, il giudice, anche di ufficio, puo' revocare l'ordinanza di sospensione.
 
 ## Art. 480. — Verbale di udienza
+
+1.
+                        
+                            
+                                L'ausiliario che assiste il giudice redige il verbale di udienza, nel quale sono indicati: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il luogo, la data, l'ora di apertura e di chiusura dell'udienza; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    i nomi e i cognomi dei giudici; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il nome e il cognome del rappresentante del pubblico ministero, le generalita' dell'imputato o le altre indicazioni personali che valgono a identificarlo nonche' le generalita' delle altre parti e dei loro rappresentanti, i nomi e i cognomi dei difensori.
 
 Il verbale di udienza e' inserito nel fascicolo per il dibattimento.
 
@@ -8313,6 +11240,52 @@ Quando il processo e' sospeso ai sensi del comma 1, la lettura della motivazione
 
 ## Art. 546. — Requisiti della sentenza
 
+1.
+                        
+                            
+                                La sentenza contiene: 
+ 
+                            
+                            
+                                a)
+                                
+                                    l'intestazione "in nome del popolo italiano" e l'indicazione dell'autorita' che l'ha pronunciata; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le generalita' dell'imputato o le altre indicazioni personali che valgono a identificarlo nonche' le generalita' delle altre parti private; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    l'imputazione; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    l'indicazione delle conclusioni delle parti; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    il dispositivo, con l'indicazione degli articoli di legge applicati; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    la data e la sottoscrizione del giudice.
+
 La sentenza emessa dal giudice collegiale e' sottoscritta dal presidente e dal giudice estensore. Se, per morte o altro impedimento, il presidente non puo' sottoscrivere, alla sottoscrizione provvede, previa menzione dell'impedimento, il componente piu' anziano del collegio; se non puo' sottoscrivere l'estensore, alla sottoscrizione, previa menzione dell'impedimento, provvede il solo presidente.
 
 Oltre che nel caso previsto dall'articolo 125 comma 3, la sentenza e' nulla se manca o e' incompleto nei suoi elementi essenziali il dispositivo ovvero se manca la sottoscrizione del giudice.
@@ -8357,6 +11330,59 @@ articoli 17, 33, comma 1, 38, comma 1 e 40, commi 1 e 3."
 
 Il pubblico ministero esercita l'azione penale con la citazione diretta a giudizio quando si tratta di contravvenzioni ovvero di delitti puniti con la pena della reclusione non superiore nel massimo a quattro anni, o con la multa, sola o congiunta alla predetta pena detentiva. Si applicano, in quanto compatibili, le disposizioni di cui all'articolo 415-bis. Per la determinazione della pena si osservano le disposizioni dell'articolo 4.
 
+2.
+                        
+                            
+                                Le disposizioni del comma 1 si applicano anche quando si procede per i reati previsti dagli articoli 336, 337, 337-bis, primo e secondo comma, 340, terzo comma, 343, secondo comma, 348, terzo comma, 349, secondo comma, 351, 372, 374-bis, 377, terzo comma, 377-bis, 385, secondo comma, con esclusione delle ipotesi in cui la violenza o la minaccia siano state commesse con armi o da piu' persone riunite, 390, 414, 415, 454, 460, 461, 467, 468, 493-ter, 495, 495-ter, 496, 497-bis, 497-ter, 527, secondo comma, 556, 588, secondo comma, con esclusione delle ipotesi in cui nella rissa taluno sia rimasto ucciso o abbia riportato lesioni gravi o gravissime, 590-bis, 611, 614, quarto comma, 615, primo comma, 619, secondo comma, 625, 635, terzo ((e quarto)) comma, 640, secondo comma, 642, primo e secondo comma, 646 e 648 del codice penale, nonche' quando si procede per i reati previsti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    dall'articolo 291-bis del testo unico delle disposizioni legislative in materia doganale, di cui al decreto del Presidente della Repubblica 23 gennaio 1973, n. 43; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    dagli articoli 4, quarto comma, 10, terzo comma, e 12, quinto comma, della legge 18 aprile 1975, n. 110; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    dagli articoli 82, comma 1, del testo unico delle leggi in materia di disciplina degli stupefacenti e sostanze psicotrope, prevenzione, cura e riabilitazione dei relativi stati di tossicodipendenza, di cui al decreto del Presidente della Repubblica 9 ottobre 1990, n. 309; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    dagli articoli 75, comma 2, 75-bis e 76, commi 1, 5, 7 e 8, del codice delle leggi antimafia e delle misure di prevenzione, di cui al decreto legislativo 6 settembre 2011, n. 159; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    dall'articolo 55-quinquies, comma 1, del decreto legislativo del 30 marzo 2001, n. 165; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    dagli articoli 5, comma 8-bis, 10, comma 2-quater, 13, comma 13-bis, e 26-bis, comma 9, del testo unico delle disposizioni concernenti la disciplina dell'immigrazione e norme sulla condizione dello straniero, di cui al decreto legislativo 25 luglio 1998, n. 286; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    dagli articoli 5, commi 1 e 1-bis, del decreto legislativo 10 marzo 2000, n. 74. (290)
+
 Se il pubblico ministero ha esercitato l'azione penale con citazione diretta per un reato per il quale e' prevista l'udienza preliminare e la relativa eccezione e' proposta entro il termine indicato dall'articolo 491, comma 1, il giudice dispone con ordinanza la trasmissione degli atti al pubblico ministero.
 
 ---------------
@@ -8373,6 +11399,73 @@ Nel caso di procedimenti connessi, se la citazione diretta a giudizio e' ammessa
 ))
 
 ## Art. 552. — (Decreto di citazione a giudizio)
+
+1.
+                        
+                            
+                                Il decreto di citazione a giudizio contiene: 
+ 
+                            
+                            
+                                a)
+                                
+                                    le generalita' dell'imputato o le altre indicazioni personali che valgono a identificarlo nonche' le generalita' delle altre parti private, con indicazione dei difensori; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'indicazione della persona offesa, qualora risulti identificata; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    l'enunciazione del fatto, in forma chiara e precisa, delle circostanze aggravanti e di quelle che possono comportare l'applicazione di misure di sicurezza, con l'identificazione dei relativi articoli di legge; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    l'indicazione del giudice competente per l'udienza di comparizione predibattimentale nonche' del luogo, del giorno e dell'ora della comparizione, con l'avvertimento all'imputato che non comparendo sara' giudicato in assenza ((e potranno essere disposte, ove ne ricorrano le condizioni, le sanzioni e le misure, anche di confisca, previste dalla legge in relazione al reato per cui si procede;)); ((310))
+                                    
+                                
+                            
+                            
+                                e)
+                                
+                                    l'avviso che l'imputato ha facolta' di nominare un difensore di fiducia e che, in mancanza, sara' assistito dal difensore di ufficio; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    l'avviso che, qualora ne ricorrano i presupposti, l'imputato, entro il termine di cui all'articolo 554-ter, comma 2, puo' presentare le richieste previste dagli articoli 438, 444 e 464-bis ovvero presentare domanda di oblazione; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    l'avviso che il fascicolo relativo alle indagini preliminari e' depositato nella cancelleria del giudice e che le parti e i loro difensori hanno facolta' di prenderne visione e di estrarne copia; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    la data e la sottoscrizione del pubblico ministero e dell'ausiliario che lo assiste; 
+
+                                
+                            
+                            
+                                h-bis)
+                                
+                                    l'avviso che l'imputato e la persona offesa hanno facolta' di accedere a un programma di giustizia riparativa.
 
 COMMA ABROGATO DAL D.LGS. 10 OTTOBRE 2022, N. 150.
 
@@ -8445,6 +11538,24 @@ Tra la data del provvedimento e la data fissata per l'udienza dibattimentale dev
 ## Art. 554-quater. — (( (Impugnazione della sentenza di non luogo a procedere). ))
 
 ((
+
+1.
+                        
+                            
+                                Contro la sentenza di non luogo a procedere possono proporre appello: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il procuratore della Repubblica e il procuratore generale nei casi di cui all'articolo 593-bis, comma 2; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'imputato, salvo che con la sentenza sia stato dichiarato che il fatto non sussiste o che l'imputato non lo ha commesso.
 
 La persona offesa puo' proporre appello nei soli casi di nullita' previsti dall'articolo 552, comma 3.
 
@@ -8783,6 +11894,38 @@ Quando contro la stessa sentenza sono proposti mezzi di impugnazione diversi, ne
 
 ## Art. 581. — (Forma dell'impugnazione)
 
+1.
+                        
+                            
+                                L'impugnazione si propone con atto scritto nel quale sono indicati il provvedimento impugnato, la data del medesimo e il giudice che lo ha emesso, con l'enunciazione specifica, a pena di inammissibilita': 
+ 
+                            
+                            
+                                a)
+                                
+                                    dei capi o dei punti della decisione ai quali si riferisce l'impugnazione; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    delle prove delle quali si deduce l'inesistenza, l'omessa assunzione o l'omessa o erronea valutazione; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    delle richieste, anche istruttorie; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    dei motivi, con l'indicazione delle ragioni di diritto e degli elementi di fatto che sorreggono ogni richiesta.
+
 L'appello e' inammissibile per mancanza di specificita' dei motivi quando, per ogni richiesta, non sono enunciati in forma puntuale ed esplicita i rilievi critici in relazione alle ragioni di fatto o di diritto espresse nel provvedimento impugnato, con riferimento ai capi e punti della decisione ai quali si riferisce l'impugnazione.
 
 ((COMMA ABROGATO DALLA L. 9 AGOSTO 2024, N. 114)).
@@ -8819,9 +11962,66 @@ A cura della cancelleria del giudice che ha emesso il provvedimento impugnato, l
 
 ## Art. 585. — Termini per l'impugnazione
 
+1.
+                        
+                            
+                                Il termine per proporre impugnazione, per ciascuna delle parti, e': 
+ 
+                            
+                            
+                                a)
+                                
+                                    di quindici giorni, per i provvedimenti emessi in seguito a procedimento in camera di consiglio e nel caso previsto dall'articolo 544 comma 1; 
 
+                                
+                            
+                            
+                                b)
+                                
+                                    di trenta giorni, nel caso previsto dall'articolo 544 comma 2; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    di quarantacinque giorni, nel caso previsto dall'articolo 544 comma 3.
+
+((1-bis. I termini previsti dal comma 1 sono aumentati di quindici giorni per l'impugnazione del difensore dell'imputato giudicato in assenza.))
 
 ((290))
+
+2.
+                        
+                            
+                                I termini previsti dal comma 1 decorrono: 
+ 
+                            
+                            
+                                a)
+                                
+                                    dalla notificazione o comunicazione dell'avviso di deposito del provvedimento emesso in seguito a procedimento in camera di consiglio; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    dalla lettura del provvedimento in udienza, quando e' redatta anche la motivazione, per tutte le parti che sono state o che debbono considerarsi presenti nel giudizio, anche se non sono presenti alla lettura; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    dalla scadenza del termine stabilito dalla legge o determinato dal giudice per il deposito della sentenza ovvero, nel caso previsto dall'articolo 548 comma 2, dal giorno in cui e' stata eseguita la notificazione o la comunicazione dell'avviso di deposito; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    dal giorno in cui e' stata eseguita la comunicazione dell'avviso di deposito con l'estratto del provvedimento, per il procuratore generale presso la corte di appello rispetto ai provvedimenti emessi in udienza da qualsiasi giudice della sua circoscrizione diverso dalla corte di appello. (215)
 
 Quando la decorrenza e' diversa per l'imputato e per il suo difensore, opera per entrambi il termine che scade per ultimo.
 
@@ -8879,6 +12079,38 @@ Quando l'impugnazione e' trattata e decisa in camera di consiglio, la dichiarazi
 Al giudice della impugnazione sono trasmessi senza ritardo il provvedimento impugnato, l'atto di impugnazione e gli atti del procedimento.
 
 ## Art. 591. — Inammissibilita' dell'impugnazione
+
+1.
+                        
+                            
+                                L'impugnazione e' inammissibile: 
+ 
+                            
+                            
+                                a)
+                                
+                                    quando e' proposta da chi non e' legittimato o non ha interesse; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    quando il provvedimento non e' impugnabile; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    quando non sono osservate le disposizioni degli articoli 581, 582, ((...)) 585 e 586; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    quando vi e' rinuncia all'impugnazione.
 
 Il giudice dell'impugnazione, anche di ufficio, dichiara con ordinanza l'inammissibilita' e dispone l'esecuzione del provvedimento impugnato.
 
@@ -8967,6 +12199,31 @@ Salvo quanto previsto dall'articolo 428, sull'appello contro le sentenze pronunc
 ## Art. 597. — Cognizione del giudice di appello
 
 L'appello attribuisce al giudice di secondo grado la cognizione del procedimento limitatamente ai punti della decisione ai quali si riferiscono i motivi proposti.
+
+2.
+                        
+                            
+                                Quando appellante e' il pubblico ministero: 
+ 
+                            
+                            
+                                a)
+                                
+                                    se l'appello riguarda una sentenza di condanna, il giudice puo', entro i limiti della competenza del giudice di primo grado, dare al fatto una definizione giuridica piu' grave, mutare la specie o aumentare la quantita' della pena, revocare benefici, applicare, quando occorre, misure di sicurezza e adottare ogni altro provvedimento imposto o consentito dalla legge; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    se l'appello riguarda una sentenza di proscioglimento, il giudice puo' pronunciare condanna ed emettere i provvedimenti indicati nella lettera a) ovvero prosciogliere per una causa diversa da quella enunciata nella sentenza appellata; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    se conferma la sentenza di primo grado, il giudice puo' applicare, modificare o escludere, nei casi determinati dalla legge, le pene accessorie e le misure di sicurezza.
 
 Quando appellante e' il solo imputato, il giudice non puo' irrogare una pena piu' grave per specie o quantita', applicare una misura di sicurezza nuova o piu' grave, prosciogliere l'imputato per una causa meno favorevole di quella enunciata nella sentenza appellata ne' revocare benefici, salva la facolta', entro i limiti indicati nel comma 1, di dare al fatto una definizione giuridica piu' grave, purche' non venga superata la competenza del giudice di primo grado.
 
@@ -9166,6 +12423,24 @@ Nei casi in cui nel giudizio di primo grado si e' proceduto in assenza dell'impu
 
 ((
 
+5-ter.
+                        
+                            
+                                Fuori dai casi previsti dal comma 5-bis, ferma restando la validita' degli atti regolarmente compiuti in precedenza, l'imputato e' sempre restituito nel termine per esercitare le facolta' dalle quali e' decaduto: 
+ 
+                            
+                            
+                                a)
+                                
+                                    se fornisce la prova che, per caso fortuito, forza maggiore o altro legittimo impedimento, si e' trovato nell'assoluta impossibilita' di comparire in tempo utile per esercitare le facolta' dalle quali e' decaduto e che non ha potuto trasmettere tempestivamente la prova dell'impedimento senza sua colpa; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    se, nei casi previsti dai commi 2 e 3 dell'articolo 420-bis, fornisce la prova di non aver avuto effettiva conoscenza della pendenza del processo e di non essere potuto intervenire senza sua colpa in tempo utile per esercitare le facolta' dalle quali e' decaduto.
+
 Nei casi di cui al comma 5-ter, il giudice di appello annulla la sentenza e dispone la trasmissione degli atti al giudice della fase nella quale puo' essere esercitata la facolta' dalla quale l'imputato e' decaduto, salvo che questi chieda l'applicazione della pena ai sensi dell'articolo 444 ovvero l'oblazione o esclusivamente la rinnovazione dell'istruzione dibattimentale. In questi casi provvede il giudice di appello. Quando il giudice di appello rigetta l'istanza di applicazione della pena ai sensi dell'articolo 444 o di oblazione, le stesse non possono essere riproposte.
 
 ))
@@ -9201,6 +12476,45 @@ Copia della sentenza di appello, con gli atti del procedimento, e' trasmessa sen
 ## - - Titolo III RICORSO PER CASSAZIONE Capo I DISPOSIZIONI GENERALI
 
 ## Art. 606. — Casi di ricorso
+
+1.
+                        
+                            
+                                Il ricorso per cassazione puo' essere proposto per i seguenti motivi: 
+ 
+                            
+                            
+                                a)
+                                
+                                    esercizio da parte del giudice di una potesta' riservata dalla legge a organi legislativi o amministrativi ovvero non consentita ai pubblici poteri; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    inosservanza o erronea applicazione della legge penale o di altre norme giuridiche, di cui si deve tener conto nell'applicazione della legge penale; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    inosservanza delle norme processuali stabilite a pena di nullita', di inutilizzabilita', di inammissibilita' o di decadenza; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    mancata assunzione di una prova decisiva, quando la parte ne ha fatto richiesta anche nel corso dell'istruzione dibattimentale limitatamente ai casi previsti dall'articolo 495, comma 2; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    mancanza, contraddittorieta' o manifesta illogicita' della motivazione, quando il vizio risulta dal testo del provvedimento impugnato ovvero da altri atti del processo specificamente indicati nei motivi di gravame.
 
 Il ricorso, oltre che nei casi e con gli effetti determinati da particolari disposizioni, puo' essere proposto contro le sentenze pronunciate in grado di appello o inappellabili.
 
@@ -9271,6 +12585,24 @@ Nei casi previsti dall'articolo 591, comma 1, lettere a), limitatamente al difet
 ## Art. 611. — Procedimento
 
 La corte provvede sui ricorsi in camera di consiglio. Se non e' diversamente stabilito e in deroga a quanto previsto dall'articolo 127, la corte giudica sui motivi, sulle richieste del procuratore generale e sulle memorie senza la partecipazione del procuratore generale e dei difensori. Fino a quindici giorni prima dell'udienza il procuratore generale presenta le sue richieste e tutte le parti possono presentare motivi nuovi, memorie e, fino a cinque giorni prima, memorie di replica. Nei procedimenti da trattare con le forme previste dall'articolo 127 i termini per presentare motivi nuovi e memorie sono ridotti a dieci giorni e ((i termini)) per presentare memorie di replica a tre giorni. (290) (314)
+
+1-bis.
+                        
+                            
+                                Nei procedimenti per la decisione sui ricorsi contro le sentenze pronunciate nel dibattimento o ai sensi dell'articolo 442 il procuratore generale e i difensori possono chiedere la trattazione in pubblica udienza. Gli stessi possono chiedere la trattazione in camera di consiglio con la loro partecipazione per la decisione: 
+ 
+                            
+                            
+                                a)
+                                
+                                    sui ricorsi per i quali la legge prevede la trattazione con l'osservanza delle forme previste dall'articolo 127; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    sui ricorsi avverso sentenze pronunciate all'esito di udienza in camera di consiglio senza la partecipazione delle parti, a norma dell'articolo 598-bis, salvo che l'appello abbia avuto esclusivamente per oggetto la specie o la misura della pena, anche con riferimento al giudizio di comparazione fra circostanze, o l'applicabilita' delle circostanze attenuanti generiche, di pene sostitutive, della sospensione della pena o della non menzione della condanna nel certificato del casellario giudiziale. (290)
 
 Le richieste di cui al comma 1-bis sono irrevocabili e sono presentate alla cancelleria dal procuratore generale o dal difensore abilitato a norma dell'articolo 613 entro il termine perentorio di venticinque giorni liberi prima dell'udienza ovvero di quindici giorni liberi prima dell'udienza nei procedimenti da trattare con le forme previste dall'articolo 127. Quando ritiene ammissibile la richiesta proposta, la corte dispone che l'udienza si svolga con la partecipazione del procuratore generale e dei difensori. La cancelleria da' avviso del provvedimento al procuratore generale e ai difensori, indicando se il ricorso sara' trattato in udienza pubblica o in camera di consiglio, con le forme previste dall'articolo 127. (290) (314)
 
@@ -9368,6 +12700,73 @@ Nello stesso modo si provvede nei casi di legge piu' favorevole all'imputato, an
 
 ## Art. 620. — Annullamento senza rinvio
 
+1.
+                        
+                            
+                                Oltre che nei casi particolarmente previsti dalla legge, la corte pronuncia sentenza di annullamento senza rinvio: 
+ 
+                            
+                            
+                                a)
+                                
+                                    se il fatto non e' previsto dalla legge come reato, se il reato e' estinto o se l'azione penale non doveva essere iniziata o proseguita; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    se il reato non appartiene alla giurisdizione del giudice ordinario; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    se il provvedimento impugnato contiene disposizioni che eccedono i poteri della giurisdizione, limitatamente alle medesime; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    se la decisione impugnata consiste in un provvedimento non consentito dalla legge; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    se la sentenza e' nulla a norma e nei limiti dell'articolo 522 in relazione a un reato concorrente; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    se la sentenza e' nulla a norma e nei limiti dell'articolo 522 in relazione a un fatto nuovo; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    se la condanna e' stata pronunciata per errore di persona; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    se vi e' contraddizione fra la sentenza o l'ordinanza impugnata e un'altra anteriore concernente la stessa persona e il medesimo oggetto, pronunciata dallo stesso o da un altro giudice penale; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    se la sentenza impugnata ha deciso in secondo grado su materia per la quale non e' ammesso l'appello;
+
 ## Art. 621. — Effetti dell'annullamento senza rinvio
 
 Nel caso previsto dall'articolo 620 comma 1 lettera b), la corte dispone che gli atti siano trasmessi all'autorita' competente, che essa designa; in quello previsto dalla lettera e) e in quello previsto dalla lettera f), la corte dispone che del provvedimento sia data notizia al pubblico ministero per le sue determinazioni; in quello previsto dalla lettera h), ordina l'esecuzione della prima sentenza o ordinanza, ma, se si tratta di una sentenza di condanna, ordina l'esecuzione della sentenza che ha inflitto la condanna meno grave determinata a norma dell'articolo 669; in quello previsto dalla lettera i), ritiene il giudizio qualificando l'impugnazione come ricorso; in quello previsto dalla lettera l), procede alla determinazione della pena o da' i provvedimenti che occorrono.
@@ -9377,6 +12776,45 @@ Nel caso previsto dall'articolo 620 comma 1 lettera b), la corte dispone che gli
 Fermi gli effetti penali della sentenza, la corte di cassazione, se ne annulla solamente le disposizioni o i capi che riguardano l'azione civile ovvero se accoglie il ricorso della parte civile contro la sentenza di proscioglimento dell'imputato, rinvia quando occorre al giudice civile competente per valore in grado di appello, anche se l'annullamento ha per oggetto una sentenza inappellabile.
 
 ## Art. 623. — Annullamento con rinvio
+
+1.
+                        
+                            
+                                Fuori dei casi previsti dagli articoli 620 e 622: 
+ 
+                            
+                            
+                                a)
+                                
+                                    se e' annullata un'ordinanza, la corte di cassazione dispone che gli atti siano trasmessi al giudice che l'ha pronunciata, il quale provvede uniformandosi alla sentenza di annullamento; (195) (283) ((340))
+                                    
+                                
+                            
+                            
+                                b)
+                                
+                                    se e' annullata una sentenza di condanna nei casi previsti dall'articolo 604, commi 1 e 4, la Corte di cassazione dispone che gli atti siano trasmessi al giudice di primo grado; (215) 
+
+                                
+                            
+                            
+                                b-bis)
+                                
+                                    se e' annullata una sentenza di condanna nei casi previsti dall'articolo 604, comma 5-bis, la Corte di cassazione dispone che gli atti siano trasmessi al giudice del grado e della fase in cui si e' verificata la nullita' o, nei casi previsti dall'articolo 604, comma 5-ter, al giudice del grado e della fase nella quale puo' essere esercitata la facolta' dalla quale l'imputato e' decaduto, salvo risulti che l'imputato era a conoscenza della pendenza del processo e nelle condizioni di comparire in giudizio prima della pronuncia della sentenza impugnata; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    se e' annullata la sentenza di una corte di assise di appello o di una corte di appello ovvero di una corte di assise o di un tribunale in composizione collegiale, il giudizio e' rinviato rispettivamente a un'altra sezione della stessa corte o dello stesso tribunale o, in mancanza, alla corte o al tribunale piu' vicini; (90) (90a) 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    se e' annullata la sentenza di un tribunale monocratico o di un giudice per le indagini preliminari, la corte di cassazione dispone che gli atti siano trasmessi al medesimo tribunale; tuttavia, il giudice deve essere diverso da quello che ha pronunciato la sentenza annullata. (90) (90a)
 
 -------------
                             AGGIORNAMENTO (90)
@@ -9517,6 +12955,38 @@ Si applicano gli articoli 635 e 640.
 
 ## Art. 630. — Casi di revisione
 
+1.
+                        
+                            
+                                La revisione puo' essere richiesta: 
+ 
+                            
+                            
+                                a)
+                                
+                                    se i fatti stabiliti a fondamento della sentenza o del decreto penale di condanna non possono conciliarsi con quelli stabiliti in un'altra sentenza penale irrevocabile del giudice ordinario o di un giudice speciale; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    se la sentenza o il decreto penale di condanna hanno ritenuto la sussistenza del reato a carico del condannato in conseguenza di una sentenza del giudice civile o amministrativo, successivamente revocata, che abbia deciso una delle questioni pregiudiziali previste dall'articolo 3 ovvero una delle questioni previste dall'articolo 479; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    se dopo la condanna sono sopravvenute o si scoprono nuove prove che, sole o unite a quelle gia' valutate, dimostrano che il condannato deve essere prosciolto a norma dell'articolo 631; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    se e' dimostrato che la condanna venne pronunciata in conseguenza di falsita' in atti o in giudizio o di un altro fatto previsto dalla legge come reato. ((187))
+
 ---------------
                             AGGIORNAMENTO (187)
                             
@@ -9527,6 +12997,24 @@ Si applicano gli articoli 635 e 640.
 Gli elementi in base ai quali si chiede la revisione devono, a pena d'inammissibilita' della domanda, essere tali da dimostrare, se accertati, che il condannato deve essere prosciolto a norma degli articoli 529, 530 o 531.
 
 ## Art. 632. — Soggetti legittimati alla richiesta
+
+1.
+                        
+                            
+                                Possono chiedere la revisione: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il condannato o un suo prossimo congiunto ovvero la persona che ha sul condannato l'autorita' tutoria e, se il condannato e' morto, l'erede o un prossimo congiunto; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il procuratore generale presso la corte di appello nel cui distretto fu pronunciata la sentenza di condanna. Le persone indicate nella lettera a) possono unire la propria richiesta a quella del procuratore generale.
 
 ## Art. 633. — Forma della richiesta
 
@@ -9748,6 +13236,31 @@ La sospensione dell'esecuzione per la stessa condanna non puo' essere disposta p
 Salva la disposizione del comma 8-bis, qualora l'istanza non sia tempestivamente presentata, o il tribunale di sorveglianza la dichiari inammissibile o la respinga, il pubblico ministero revoca immediatamente il decreto di sospensione dell'esecuzione. Il pubblico ministero provvede analogamente quando l'istanza presentata e' inammissibile ai sensi degli articoli 90 e seguenti del testo unico di cui al decreto del Presidente della Repubblica 9 ottobre 1990, n. 309, e successive modifi-cazioni, nonche', nelle more della decisione del tribunale di sorveglianza, quando il programma di recupero di cui all'articolo 94 del medesimo testo unico non risulta iniziato entro cinque giorni dalla data di presentazione della relativa istanza o risulta interrotto. A tal fine il pubblico ministero, nel trasmettere l'istanza al tribunale di sorveglianza, dispone gli opportuni accertamenti.
 
 Quando e' provato o appare probabile che il condannato non abbia avuto effettiva conoscenza dell'avviso di cui al comma 5, il pubblico ministero puo' assumere, anche presso il difensore, le opportune informazioni, all'esito delle quali puo' disporre la rinnovazione della notifica.
+
+9.
+                        
+                            
+                                La sospensione dell'esecuzione di cui al comma 5 non puo' essere disposta: 
+ 
+                            
+                            
+                                a)
+                                
+                                    nei confronti dei condannati per i delitti di cui all'articolo 4-bis della legge 26 luglio 1975, n. 354, e successive modificazioni nonche' di cui agli articoli 423-bis ((e)) 624-bis del codice penale, fatta eccezione per coloro che si trovano agli arresti domiciliari disposti ai sensi dell'articolo 89 del testo unico di cui al decreto del Presidente della Repubblica 9 ottobre 1990, n. 309, e successive modificazioni; (179) (236) (246) (297) 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    nei confronti di coloro che, per il fatto oggetto della condanna da eseguire, si trovano in stato di custodia cautelare in carcere nel momento in cui la sentenza diviene definitiva; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    LETTERA SOPPRESSA DAL D.L. 1 LUGLIO 2013, N. 78, CONVERTITO CON MODIFICAZIONI DALLA L. 9 AGOSTO 2013, N. 94.
 
 Il pubblico ministero, prima di emettere l'ordine di esecuzione, previa verifica dell'esistenza di periodi di custodia cautelare o di pena dichiarata fungibile relativi al titolo esecutivo da eseguire, trasmette gli atti al magistrato di sorveglianza affinche' disponga con ordinanza in via provvisoria la detenzione domiciliare per il condannato di eta' pari o superiore a settanta anni se la residua pena da espiare determinata ai sensi del comma 4-bis e' compresa tra due e quattro anni di reclusione, fino alla decisione del tribunale di sorveglianza di cui al comma 6. Sono escluse le condanne per i delitti di cui all'articolo 51, comma 3-bis, del presente codice e all'articolo 4-bis della legge 26 luglio 1975, n. 354.
 
@@ -10386,6 +13899,37 @@ Il ministro verifica l'osservanza della condizione di specialita' e delle altre 
 
 L'estradizione e' consentita soltanto sulla base di una domanda alla quale sia allegata copia del provvedimento restrittivo della liberta' personale o della sentenza di condanna a pena detentiva che ha dato luogo alla domanda stessa.
 
+2.
+                        
+                            
+                                Alla domanda devono essere allegati: 
+ 
+                            
+                            
+                                a)
+                                
+                                    una relazione sui fatti addebitati alla persona della quale e' domandata l'estradizione, con l'indicazione del tempo e del luogo di commissione dei fatti stessi e della loro qualificazione giuridica; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il testo delle disposizioni di legge applicabili ((...)); 
+
+                                
+                            
+                            
+                                b-bis)
+                                
+                                    il provvedimento di commutazione della pena nei casi di cui all'articolo 698, comma 2;
+                                
+                            
+                            
+                                c)
+                                
+                                    i dati segnaletici e ogni altra possibile informazione atta a determinare l'identita' e la nazionalita' della persona della quale e' domandata l'estradizione.
+
 ## Art. 701. — Garanzia giurisdizionale
 
 L'estradizione di un imputato o di un condannato all'estero non puo' essere concessa senza la decisione favorevole della corte di appello.
@@ -10429,6 +13973,38 @@ CAP005 CAP006tfe
 ## Art. 705. — Condizioni per la decisione
 
 Quando non esiste convenzione o questa non dispone diversamente, la corte di appello pronuncia sentenza favorevole all'estradizione se sussistono gravi indizi di colpevolezza ovvero se esiste una sentenza irrevocabile di condanna e se, per lo stesso fatto, nei confronti della persona della quale e' domandata l'estradizione, non e' in corso procedimento penale ne' e' stata pronunciata sentenza irrevocabile nello Stato.
+
+2.
+                        
+                            
+                                La corte di appello pronuncia comunque sentenza contraria all'estradizione: 
+ 
+                            
+                            
+                                a)
+                                
+                                    se, per il reato per il quale l'estradizione e' stata domandata, la persona e' stata o sara' sottoposta a un procedimento che non assicura il rispetto dei diritti fondamentali; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    se la sentenza per la cui esecuzione e' stata domandata l'estradizione contiene disposizioni contrarie ai principi fondamentali dell'ordinamento giuridico dello Stato; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    se vi e' motivo di ritenere che la persona verra' sottoposta ad atti persecutori o discriminatori per motivi di razza, di religione, di sesso, di nazionalita', di lingua, di opinioni politiche o di condizioni personali o sociali ovvero alla pena di morte o a pene o trattamenti crudeli, disumani o degradanti o comunque ad atti che configurano violazione di uno dei diritti fondamentali della persona; 
+
+                                
+                            
+                            
+                                c-bis)
+                                
+                                    se ragioni di salute o di eta' comportino il rischio di conseguenze di eccezionale gravita' per la persona richiesta.
 
 ## Art. 706. — Ricorso per cassazione
 
@@ -10481,6 +14057,30 @@ Quando l'estradizione di una persona da uno Stato terzo a un altro richiede il t
 
 ))
 
+2.
+                        
+                            
+                                Il transito non puo' essere autorizzato: 
+ 
+                            
+                            
+                                a)
+                                
+                                    se l'estradizione e' stata concessa per fatti non previsti come reati dalla legge italiana; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    se ricorre taluna delle ipotesi previste dall'articolo 698;
+                                
+                            
+                            
+                                c)
+                                
+                                    se si tratta di un cittadino italiano e la sua estradizione allo stato che ha richiesto il transito non potrebbe essere concessa.
+
 ((
 
 Se la persona estradata non ha consentito al transito con dichiarazione resa davanti all'autorita' giudiziaria dello Stato che ha concesso l'estradizione, l'autorizzazione e' data previa decisione della corte di appello di Roma, resa in camera di consiglio.
@@ -10514,6 +14114,31 @@ CAP007 CAP008
 ## Art. 715. — Applicazione provvisoria di misure cautelari
 
 Su domanda dello stato estero e a richiesta motivata del ((Ministro della giustizia)), la corte di appello puo' disporre, in via provvisoria, una misura coercitiva prima che la domanda di estradizione sia pervenuta.
+
+2.
+                        
+                            
+                                La misura puo' essere disposta se: 
+ 
+                            
+                            
+                                a)
+                                
+                                    lo stato estero ha dichiarato che nei confronti della persona e' stato emesso provvedimento restrittivo della liberta' personale ovvero sentenza di condanna a pena detentiva e che intende presentare domanda di estradizione; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    lo stato estero ha fornito la descrizione dei fatti, la specificazione del reato e ((delle pene previste per lo stesso, nonche' gli elementi)) per l'esatta identificazione della persona; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    vi e' pericolo di fuga.
 
 La competenza a disporre la misura appartiene, nell'ordine, alla corte di appello nel cui distretto la persona ha la residenza, la dimora o il domicilio ovvero alla corte di appello del distretto in cui risulta che la persona si trova. Se la competenza non puo' essere determinata nei modi cosi' indicati, e' competente la corte di appello di Roma.
 
@@ -10587,6 +14212,31 @@ Avverso l'ordinanza di cui al comma 2 possono ricorrere per cassazione il pubbli
 
 La sospensione del processo non impedisce il compimento degli atti urgenti, l'assunzione delle prove non rinviabili, nonche' di quelle che possono determinare il proscioglimento per fatti anteriori alla consegna.
 
+5.
+                        
+                            
+                                Il principio di specialita' non opera quando: 
+ 
+                            
+                            
+                                a)
+                                
+                                    lo Stato estero ha consentito all'estensione; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'estradato ha espresso il proprio consenso con le modalita' indicate nell'articolo 717, commi 2 e 2-bis; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    l'estradato, avendone avuta la possibilita', non ha lasciato il territorio dello Stato trascorsi quarantacinque giorni dalla sua definitiva liberazione oppure se, dopo averlo lasciato, vi ha fatto volontariamente ritorno.
+
 ))
 
 ## Art. 721-bis. — (( (Estensione dell'estradizione).))
@@ -10654,6 +14304,31 @@ Se il procuratore della Repubblica ritiene che deve provvedere alla esecuzione a
 
 Quando e' previsto l'intervento del giudice, in caso di contrasto, gli atti sono trasmessi alla Corte di cassazione che decide secondo le forme previste dagli articoli 32, comma 1, e 127, in quanto compatibili. L'avviso di cui all'articolo 127, comma 1, e' comunicato soltanto al procuratore generale presso la Corte di cassazione. La Corte di cassazione trasmette gli atti all'autorita' giudiziaria designata, comunicando la decisione al Ministero della giustizia.
 
+7.
+                        
+                            
+                                L'esecuzione della domanda di assistenza giudiziaria e' negata: 
+ 
+                            
+                            
+                                a)
+                                
+                                    se gli atti richiesti sono vietati dalla legge o sono contrari a principi dell'ordinamento giuridico dello Stato; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    se il fatto per cui procede l'autorita' straniera non e' previsto come reato dalla legge italiana e non risulta che l'imputato abbia liberamente espresso il suo consenso alla domanda di assistenza giudiziaria; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    se vi sono fondate ragioni per ritenere che considerazioni relative alla razza, alla religione, al sesso, alla nazionalita', alla lingua, alle opinioni politiche o alle condizioni personali o sociali possano influire sullo svolgimento o sull'esito del processo e non risulta che l'imputato abbia liberamente espresso il suo consenso alla domanda di assistenza giudiziaria.
+
 L'esecuzione della richiesta di assistenza giudiziaria e' sospesa quando da essa puo' derivare pregiudizio alle indagini o a procedimenti penali in corso.
 
 Il procuratore della Repubblica trasmette senza ritardo al procuratore nazionale antimafia e antiterrorismo copia delle richieste di assistenza dell'autorita' straniera che si riferiscono ai delitti di cui ((agli articoli 51, commi 3-bis e 3-quater, e 371-bis, comma 4-bis)).
@@ -10699,6 +14374,42 @@ Sulle richieste di trasferimento temporaneo a fini di indagine di persone detenu
 In caso di accoglimento, il Ministro della giustizia indica il termine entro il quale la persona deve essere riconsegnata, che non puo' comunque eccedere il tempo strettamente necessario all'espletamento dell'atto.
 
 L'autorita' giudiziaria italiana concorda con l'autorita' straniera competente le modalita' del trasferimento e della detenzione nello Stato richiedente.
+
+4.
+                        
+                            
+                                Il trasferimento temporaneo e' rifiutato se: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la persona detenuta non vi acconsente; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il trasferimento puo' prolungare la sua detenzione.
+
+5.
+                        
+                            
+                                Il trasferimento temporaneo e' subordinato alla condizione che la persona trasferita non sia perseguita, detenuta o sottoposta a qualsiasi altra restrizione della liberta' personale nello Stato richiedente per fatti commessi o condanne pronunciate prima del suo temporaneo trasferimento, salvo che: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il testimone, il perito o l'imputato, avendone avuta la possibilita', non ha lasciato il territorio dello Stato richiedente trascorsi quindici giorni dal momento in cui la sua presenza non e' piu' richiesta dall'autorita' giudiziaria; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    avendolo lasciato, vi ha fatto volontariamente ritorno.
 
 La persona trasferita rimane in stato di detenzione nel territorio dello Stato estero, salvo che l'autorita' giudiziaria italiana ne disponga la liberazione. La detenzione al di fuori del territorio nazionale si considera ad ogni effetto come sofferta in Italia.
 
@@ -10761,6 +14472,24 @@ Quando, a norma di accordi internazionali, la richiesta di assistenza giudiziari
 ## Art. 728. — (( (Immunita' temporanea della persona citata).))
 
 ((
+
+1.
+                        
+                            
+                                Nei casi in cui la domanda di assistenza giudiziaria ha ad oggetto la citazione di un testimone, di un perito o di un imputato davanti all'autorita' giudiziaria italiana, la persona citata, qualora compaia, non puo' essere sottoposta a restrizione della liberta' personale in esecuzione di una pena o di una misura di sicurezza ne' assoggettata ad altre misure restrittive della liberta' personale per fatti anteriori alla notifica della citazione, salvo che: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il testimone, il perito o l'imputato, avendone avuta la possibilita', non ha lasciato il territorio dello Stato trascorsi quindici giorni dal momento in cui la sua presenza non e' piu' richiesta dall'autorita' giudiziaria; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    avendolo lasciato, vi ha fatto volontariamente ritorno.
 
 ))
 
@@ -10876,6 +14605,59 @@ Chi ha interesse a far valere in giudizio le disposizioni penali di una sentenza
 
 ## Art. 733. — Presupposti del riconoscimento
 
+1.
+                        
+                            
+                                La sentenza straniera non puo' essere riconosciuta se: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la sentenza non e' divenuta irrevocabile per le leggi dello stato in cui e' stata pronunciata; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la sentenza contiene disposizioni contrarie ai principi fondamentali dell'ordinamento giuridico dello Stato ((, ovvero quando le condizioni poste dallo Stato straniero per l'esecuzione della sentenza della quale e' chiesto il riconoscimento sono contrarie a tali principi)); 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    la sentenza non e' stata pronunciata da un giudice indipendente e imparziale ovvero l'imputato non e' stato citato a comparire in giudizio davanti all'autorita' straniera ovvero non gli e' stato riconosciuto il diritto a essere interrogato in una lingua a lui comprensibile e a essere assistito da un difensore; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    vi sono fondate ragioni per ritenere che considerazioni relative alla razza, alla religione, al sesso, alla nazionalita', alla lingua, alle opinioni politiche o alle condizioni personali o sociali abbiano influito sullo svolgimento o sull'esito del processo; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    il fatto per il quale e' stata pronuciata la sentenza non e' previsto come reato dalla legge italiana; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    per lo stesso fatto e nei confronti della stessa persona e' stata pronunciata nello Stato sentenza irrevocabile; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    per lo stesso fatto e nei confronti della stessa persona e' in corso nello Stato procedimento penale.
+
 Salvo quanto previsto nell'articolo 735-bis, la sentenza straniera non puo' essere riconosciuta ai fini dell'esecuzione di una confisca se questa ha per oggetto beni la cui confisca non sarebbe possibile secondo la legge italiana qualora per lo stesso fatto si procedesse nello Stato.
 
 ## Art. 734. — (( (Deliberazione della corte di appello).))
@@ -10954,6 +14736,24 @@ Nei casi previsti da convenzioni internazionali, al fine di dar corso alla doman
 
 A tal fine il Ministro della giustizia trasmette la richiesta, unitamente agli atti allegati, al procuratore distrettuale competente ai sensi dell'articolo 724.
 
+3.
+                        
+                            
+                                L'esecuzione della richiesta di indagini o sequestro e' negata: 
+ 
+                            
+                            
+                                a)
+                                
+                                    se gli atti richiesti sono contrari a principi dell'ordinamento giuridico dello Stato, o sono vietati dalla legge, ovvero se si tratta di atti che non sarebbero consentiti qualora si procedesse nello Stato per gli stessi fatti; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    se vi sono ragioni per ritenere che non sussistono le condizioni per la successiva esecuzione della confisca.
+
 ((
 
 L'autorita' giudiziaria comunica al Ministro della giustizia l'adozione del provvedimento di sequestro richiesto dall'autorita' straniera.
@@ -10987,6 +14787,24 @@ Le cose confiscate sono devolute allo Stato. Esse sono invece devolute, a sua ri
 
 
 Nei casi previsti dagli accordi internazionali in vigore per lo Stato, le cose confiscate con sentenza definitiva o con altro provvedimento irrevocabile sono devolute allo Stato estero nel quale e' stata pronunciata la sentenza ovvero e' stato adottato il provvedimento di confisca.
+
+2.
+                        
+                            
+                                La devoluzione di cui al comma 1 e' ordinata quando ricorrono i seguenti presupposti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    lo Stato estero ne ha fatto espressa richiesta; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la sentenza ovvero il provvedimento di cui al comma 1 sono stati riconosciuti nello Stato ai sensi degli articoli 731, 733 e 734.
 
 ## Art. 740-ter. — ( (Ordine di devoluzione
 

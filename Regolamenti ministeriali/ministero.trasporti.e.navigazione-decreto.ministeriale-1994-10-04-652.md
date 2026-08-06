@@ -8,8 +8,8 @@ codice_redazionale: 094G0681
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:39Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO MINISTERIALE
@@ -30,6 +30,52 @@ Vsta la direttiva del Consiglio delle Comunita' europee n. 77/143/CEE che stabil
 Il controllo tecnico dei veicoli da sottoporre a revisione deve essere effettuato sugli elementi indicati nell'art. 238, comma 1, del decreto del Presidente della Repubblica 16 dicembre 1992, n. 495: "Regolamento di esecuzione e di attuazione del codice della strada".
 
 ## Art. 2.
+
+1.
+                    
+                        
+                            L'utente, che intenda avvalersi delle imprese di autoriparazione previste dal citato art. 80, comma 8, per l'esecuzione della revisione dei veicoli, deve compilare domanda su apposito modello conforme allo schema predisposto dalla Direzione generale della motorizzazione civile e dei trasporti in concessione. Tale modello deve essere numerato progressivamente dall'impresa e preso in carico su un registro, anche questo redatto secondo lo schema indicato dalla predetta Direzione generale e che deve comunque contenere:
+ 
+                        
+                        
+                            a)
+                            
+                                la data di presentazione della domanda;
+
+                            
+                        
+                        
+                            b)
+                            
+                                la data o le date di esecuzione dei controlli;
+
+                            
+                        
+                        
+                            c)
+                            
+                                le operazioni effettuate;
+
+                            
+                        
+                        
+                            d)
+                            
+                                l'esito della revisione e, quando ricorre, i motivi del ripetere;
+
+                            
+                        
+                        
+                            e)
+                            
+                                la data di consegna dei documenti al competente ufficio provinciale della motorizzazione civile e dei trasporti in concessione;
+
+                            
+                        
+                        
+                            f)
+                            
+                                la data di restituzione dei predetti documenti.
 
 ## Art. 3.
 

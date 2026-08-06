@@ -8,8 +8,8 @@ vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
 vigenza_date: 2020-04-09
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:41Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -128,6 +128,24 @@ Si applica l'articolo 42 della legge 31 dicembre 2012, n. 247.
  della professione in sostituzione dell'avvocato
 
 Il praticante in possesso dei requisiti richiesti dalla legge 31 dicembre 2012, n. 247, puo' chiedere al consiglio dell'ordine l'autorizzazione a esercitare attivita' professionale in sostituzione dell'avvocato presso il quale svolge la pratica. Il consiglio dell'ordine deve pronunciarsi sulla domanda entro trenta giorni dalla presentazione della stessa.
+
+2.
+                    
+                        
+                            Il provvedimento di autorizzazione al patrocinio sostitutivo e' comunicato dal consiglio dell'ordine: 
+ 
+                        
+                        
+                            a)
+                            
+                                al richiedente presso l'indirizzo di posta elettronica certificata dichiarato, ovvero, se non e' possibile, a mezzo raccomandata con avviso di ricevimento; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                all'indirizzo di posta elettronica certificata dell'avvocato o dell'ufficio pubblico presso cui la pratica e' svolta.
 
 Per poter esercitare la professione, nei limiti e con le modalita' di cui all'articolo 41, comma 12, della legge 31 dicembre 2012, n. 247, il praticante avvocato assume avanti al consiglio dell'ordine, riunito in pubblica seduta, l'impegno solenne di cui all'articolo 8 della legge 31 dicembre 2012, n. 247. La formula dell'impegno deve intendersi integrata dalla parola «praticante» avanti alla parola avvocato. Il verbale di impegno solenne del praticante avvocato e' comunicato, dal consiglio dell'ordine, al presidente del tribunale ed al procuratore della Repubblica presso il tribunale.
 

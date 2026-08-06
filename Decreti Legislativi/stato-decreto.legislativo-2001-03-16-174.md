@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
 vigenza_date: 2001-07-11
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:23Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -59,6 +59,25 @@ Gli archivi e i documenti degli uffici statali inerenti le funzioni spettanti al
 Agli atti, contratti, formalita' ed adempimenti previsti dal presente decreto si applica quanto disposto dall'articolo 14 del decreto del Presidente della Repubblica 20 gennaio 1973, n. 115.
 
 ## Art. 5. — Delega di funzioni in materia di accesso alla professione di trasportatore
+
+1.
+                    
+                        
+                            All'articolo 5 del decreto del Presidente della Repubblica 19 novembre 1987, n. 527, sono apportate le seguenti modifiche:
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 1 sono aggiunte in fine, le seguenti parole: ", ivi compresa la nomina dei comitati provinciali di cui al comma seguente";
+
+                            
+                        
+                        
+                            b)
+                            
+                                dopo l'ultimo comma e' aggiunto il seguente:
+ "4-bis. E' altresi' delegato alle province autonome di Trento e di Bolzano, con riferimento al rispettivo territorio, l'esercizio delle funzioni relative allo svolgimento dell'esame di idoneita' per l'accesso alla professione di trasportatore di viaggiatori e merci su strada nel settore dei trasporti nazionali ed internazionali, ivi compresa la nomina della commissione d'esame per l'accertamento dell'idoneita' ed il rilascio del relativo attestato.".
 
 ## Art. 6. — Disposizioni in materia di ricorsi amministrativi
 

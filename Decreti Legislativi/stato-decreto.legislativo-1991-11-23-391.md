@@ -8,8 +8,8 @@ codice_redazionale: 091G0430
 vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:31Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -63,9 +63,73 @@ Le amministrazioni stesse redigono inoltre, nei sessanta giorni dalla data di en
 
 La prova del possesso di conoscenze ed attitudini generali, commerciali o professionali, richieste per l'accesso ad una delle attivita' di cui alla tabella A, o per l'esercizio della stessa, e' fornita dalla certificazione dell'effettivo esercizio dell'attivita' stessa in altro Stato membro della Comunita' economica europea, rilasciata dalle competenti autorita' di tale Stato.
 
+2.
+                    
+                        
+                            La certificazione deve comunque comprovare che l'attivita' e' stata esercitata:
+ 
+                        
+                        
+                            a)
+                            
+                                per sei anni consecutivi, a titolo indipendente o in qualita' di dirigente d'azienda;
+
+                            
+                        
+                        
+                            b)
+                            
+                                per tre anni consecutivi, a titolo indipendente o in qualita' di dirigente di azienda, quando l'interessato abbia conseguito, per l'attivita' in questione, una formazione preliminare di almeno tre anni attestata da un certificato riconosciuto dallo Stato o giudicata pienamente valida dagli organismi professionali competenti;
+
+                            
+                        
+                        
+                            c)
+                            
+                                per tre anni consecutivi, a titolo indipendente, quando l'interessato abbia esercitato a titolo dipendente l'attivita' in questione per almeno cinque anni;
+
+                            
+                        
+                        
+                            d)
+                            
+                                per cinque anni consecutivi con funzioni direttive, di cui un minimo di tre anni con funzioni tecniche implicanti la responsabilita' di almeno un settore dell'azienda, quando l'interessato abbia conseguito, per l'attivita' in questione, una formazione preliminare di almeno tre anni, attestata da un certificato riconosciuto valido dallo Stato o giudicata pienamente valida dagli organismi professionali competenti.
+
 L'autorizzazione ad esercitare le attivita' in questione e' concessa su richiesta, allorche' le attivita' attestate corrispondono nei punti essenziali alle monografie professionali di cui all'art. 5, comma 2, e siano soddisfatte le altre condizioni eventualmente previste dalla legge.
 
 La prova del possesso di conoscenze ed attitudini generali, commerciali o professionali, eventualmente richieste per l'accesso ad una delle attivita' di cui alla tabella B e alla tabella C, o per l'esercizio della stessa, e' fornita dalla certificazione dell'effettivo esercizio dell'attivita' stessa in altro Stato membro della Comunita' economica europea, rilasciata dalle competenti autorita' di tale Stato.
+
+5.
+                    
+                        
+                            Tale certificazione deve comunque comprovare che l'attivita' e' stata esercitata:
+ 
+                        
+                        
+                            a)
+                            
+                                per tre anni consecutivi, a titolo indipendente o in qualita' di dirigente d'azienda;
+
+                            
+                        
+                        
+                            b)
+                            
+                                per due anni consecutivi, a titolo indipendente o in qualita' di dirigente di azienda, quando l'interessato abbia conseguito, per l'attivita' in questione, una formazione preliminare, attestata da un certificato riconosciuto valido dallo Stato o giudicata pienamente valida dagli organismi professionali competenti;
+
+                            
+                        
+                        
+                            c)
+                            
+                                per due anni consecutivi, a titolo indipendente o in qualita' di dirigente d'azienda, quando l'interessato abbia esercitato a titolo dipendente l'attivita' in questione per almeno tre anni;
+
+                            
+                        
+                        
+                            d)
+                            
+                                per tre anni consecutivi a titolo dipendente, qualora l'interessato comprovi di aver ricevuto, per l'attivita' in questione, una formazione preliminare, attestata da un certificato riconosciuto valido dallo Stato o giudicata pienamente valida dagli organismi professionali competenti.
 
 Nei casi previsti dalle lettere a) e c) di cui ai commi 2 e 5, l'attivita' non deve essere cessata da oltre dieci anni alla data della presentazione della domanda con cui il cittadino di un altro Stato membro della Comunita' economica europea chiede di esercitare le attivita' di cui trattasi.
 
@@ -74,6 +138,31 @@ Le disposizioni che stabiliscono per taluna attivita' un termine piu' breve si a
 Sono fatte salve le disposizioni che subordinano l'accesso a taluna delle attivita' di cui al presente decreto al suo previo esercizio nello stesso ramo di attivita' che l'interessato intende esercitare, o in un ramo connesso, ovvero al possesso della relativa specifica formazione professionale.
 
 ## Art. 7. — Attivita' del dirigente d'azienda
+
+1.
+                    
+                        
+                            Ai fini dell'applicazione del presente decreto e' considerato come esercizio dell'attivita' di dirigente di azienda l'esercizio in un'impresa industriale o commerciale del settore professionale corrispondente con le mansioni di:
+ 
+                        
+                        
+                            a)
+                            
+                                capo dell'azienda o di direttore di succursale;
+
+                            
+                        
+                        
+                            b)
+                            
+                                sostituto dell'imprenditore o del capo dell'azienda, se tali mansioni implicano una responsabilita' analoga a quella dell'imprenditore o del capo dell'azienda rappresentati;
+
+                            
+                        
+                        
+                            c)
+                            
+                                dirigente con incarichi commerciali e responsabile di almeno un reparto dell'azienda.
 
 ## Art. 8. — Entrata in vigore
 

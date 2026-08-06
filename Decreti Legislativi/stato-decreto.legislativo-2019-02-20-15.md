@@ -8,8 +8,8 @@ vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
 vigenza_date: 2022-12-30
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:31Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -33,8 +33,55 @@ All'articolo 7, comma 1, del decreto legislativo 10 febbraio 2005, n. 30, di seg
 ## Art. 2. — Modifiche all'articolo 9 del decreto legislativo 
  10 febbraio 2005, n. 30
 
+1.
+                    
+                        
+                            All'articolo 9 del codice della proprieta' industriale sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                alla rubrica sono aggiunte, in fine, le seguenti parole: «e altri segni non registrabili»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 1, le parole «esclusivamente dalla forma imposta dalla natura stessa del prodotto, dalla forma del prodotto necessaria per ottenere un risultato tecnico, o dalla forma che da' un valore sostanziale al prodotto.» sono sostituite dalle seguenti: «esclusivamente: 
+ a) dalla forma, o altra caratteristica, imposta dalla natura stessa del prodotto; 
+ b) dalla forma, o altra caratteristica, del prodotto necessaria per ottenere un risultato tecnico; 
+ c) dalla forma, o altra caratteristica, che da' un valore sostanziale al prodotto».
+
 ## Art. 3. — Modifiche all'articolo 11 del decreto legislativo 
  10 febbraio 2005, n. 30
+
+1.
+                    
+                        
+                            All'articolo 11 del codice della proprieta' industriale sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                il comma 1 e' sostituito dal seguente: 
+ «1. Le persone giuridiche di diritto pubblico e le associazioni di categoria di fabbricanti, produttori, prestatori di servizi o commercianti, escluse le societa' di cui al libro quinto, titolo quinto, capi quinto, sesto e settimo, del codice civile, possono ottenere la registrazione di marchi collettivi che hanno la facolta' di concedere in uso a produttori o commercianti.»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 2, dopo le parole «domanda di registrazione», sono inserite le seguenti: «in conformita' ai requisiti di cui all'articolo 157, comma 1-bis» e le parole «tra i documenti allegati alla domanda» sono sostituite dalle seguenti: «nella raccolta di cui all'articolo 185»; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                al comma 4, dopo le parole «provenienza geografica dei prodotti o servizi.», e' inserito il seguente periodo: «Qualsiasi soggetto i cui prodotti o servizi provengano dalla zona geografica in questione ha diritto sia a fare uso del marchio, sia a diventare membro della associazione di categoria titolare del marchio, purche' siano soddisfatti tutti i requisiti di cui al regolamento.».
 
 ## Art. 4. — Inserimento dell'articolo 11-bis nel decreto legislativo 
  10 febbraio 2005, n. 30
@@ -49,8 +96,71 @@ Dopo l'articolo 11 del codice della proprieta' industriale, e' inserito il segue
 ## Art. 5. — Modifiche all'articolo 12 del decreto legislativo 
  10 febbraio 2005, n. 30
 
+1.
+                    
+                        
+                            All'articolo 12 del codice della proprieta' industriale sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 1, alla lettera e), le parole «anche non affini, quando il marchio anteriore goda nella Comunita', se comunitario,» sono sostituite dalle seguenti: «identici, affini o non affini, quando il marchio anteriore goda nell'Unione europea»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 1, alla lettera f), la parola: «anche» e' sostituita dalle seguenti: «identici, affini o»; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                al comma 2, dopo le parole «marchio collettivo» sono inserite le seguenti: «o di certificazione».
+
 ## Art. 6. — Modifiche all'articolo 14 del decreto legislativo 
  10 febbraio 2005, n. 30
+
+1.
+                    
+                        
+                            All'articolo 14 del codice della proprieta' industriale sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 1, alla lettera b), sono aggiunte, in fine, le seguenti parole: «, ovvero sulla tipologia di marchio»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 1, alla lettera c), il «.» e' sostituito dal «;» e, dopo la lettera c), sono aggiunte le seguenti: 
+ «c-bis) i segni esclusi dalla registrazione, conformemente alla legislazione dell'Unione europea o dello Stato o ad accordi internazionali in materia di cui l'Unione europea o lo Stato e' parte, relativi alla protezione delle denominazioni d'origine e delle indicazioni geografiche; 
+ c-ter) i segni esclusi dalla registrazione conformemente alla normativa dell'Unione europea o ad accordi internazionali in materia di cui l'Unione e' parte, relativi alla protezione delle menzioni tradizionali per i vini; 
+ c-quater) i segni esclusi dalla registrazione conformemente alla normativa dell'Unione europea relativa alla protezione delle specialita' tradizionali garantite o ad accordi internazionali in materia di cui l'Unione europea e' parte; 
+ c-quinquies) i segni che contengono o riproducono nei loro elementi essenziali una denominazione di varieta' vegetale precedentemente registrata conformemente alla legislazione dell'Unione europea o dello Stato o ad accordi internazionali di cui l'Unione europea o lo Stato sono parte, in materia di tutela dei diritti relativi alle varieta' vegetali e che, in relazione a queste ultime, sono della stessa specie o di specie apparentate.»; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                dopo il comma 1 e' inserito il seguente: 
+ «1-bis. Ai fini del comma 1, lettera c-bis), le domande anteriori di protezione di denominazione di origine o di indicazione geografica, sono assimilate alle denominazioni di origine o di indicazioni geografiche protette, sotto riserva della successiva protezione ed a condizione che la legislazione dell'Unione europea o dello Stato conferisca alla persona autorizzata ad esercitare i diritti da essa derivanti il diritto di vietare l'uso di un marchio d'impresa posteriore.»; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                al comma 2, la lettera c) e' sostituita dalla seguente: 
+ «c) per l'omessa adozione da parte del titolare delle misure ragionevolmente idonee a prevenire un uso del marchio non conforme alle condizioni del regolamento d'uso del marchio collettivo o del marchio di certificazione e, in particolare, dei controlli previsti dalle disposizioni regolamentari sull'uso del marchio collettivo o del marchio di certificazione.».
 
 ## Art. 7. — Modifiche all'articolo 15 del decreto legislativo 
  10 febbraio 2005, n. 30
@@ -65,20 +175,148 @@ All'articolo 18, comma 1, del codice della proprieta' industriale, le parole «d
 ## Art. 9. — Modifiche all'articolo 20 del decreto legislativo 
  10 febbraio 2005, n. 30
 
+1.
+                    
+                        
+                            All'articolo 20 del codice della proprieta' industriale sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 1, lettera c), dopo le parole «goda nello stato di rinomanza e se l'uso del segno» sono inserite le seguenti: «, anche a fini diversi da quello di contraddistinguere i prodotti e servizi,»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 2, dopo le parole «o sulle loro confezioni» sono inserite le seguenti: «o sugli imballaggi» e sono aggiunte, in fine, le seguenti: «; di apporre il segno su confezioni, imballaggi, etichette, cartellini, dispositivi di sicurezza o autenticazione o componenti degli stessi o su altri mezzi su cui il marchio puo' essere apposto ovvero di offrire, immettere in commercio, detenere a tali fini, importare o esportare tali mezzi recanti il marchio, quando vi sia il rischio che gli stessi possano essere usati in attivita' costituenti violazione del diritto del titolare.»; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                dopo il comma 2 e' inserito il seguente: 
+ «2-bis. Il titolare del marchio puo' inoltre vietare ai terzi di introdurre in Italia, in ambito commerciale, prodotti che non siano stati immessi in libera pratica, quando detti prodotti oppure il relativo imballaggio provengono da Paesi terzi rispetto all'Unione europea e recano senza autorizzazione un segno identico al marchio o che non puo' essere distinto nei suoi aspetti essenziali da detto marchio, qualora i prodotti in questione rientrino nell'ambito di protezione del marchio, a meno che durante il procedimento per determinare l'eventuale violazione del marchio, instaurato conformemente al regolamento (UE) 608/2013 del Parlamento europeo e del Consiglio, del 12 giugno 2013, il dichiarante o il detentore dei prodotti fornisca la prova del fatto che il titolare del marchio non ha il diritto di vietare l'immissione in commercio dei prodotti nel Paese di destinazione finale.»; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                dopo il comma 3 e' aggiunto il seguente: 
+ «3-bis. Se la riproduzione di un marchio in un dizionario, in un'enciclopedia o in un'analoga opera di consultazione in formato cartaceo o elettronico da' l'impressione che esso costituisca il nome generico dei prodotti o dei servizi per i quali il marchio e' registrato, su richiesta del titolare del marchio d'impresa l'editore dell'opera provvede affinche' la riproduzione del marchio sia, tempestivamente e al piu' tardi nell'edizione successiva in caso di opere in formato cartaceo, corredata dell'indicazione che si tratta di un marchio registrato.».
+
 ## Art. 10. — Modifiche all'articolo 21 del decreto legislativo 
  10 febbraio 2005, n. 30
+
+1.
+                    
+                        
+                            All'articolo 21 del codice della proprieta' industriale sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 1, alla lettera a), la parola «e» e' sostituita dalla seguente: «o» e sono aggiunte, in fine, le seguenti: «, qualora si tratti di una persona fisica»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 1, alla lettera b), le parole «indicazioni relative alla specie, alla qualita', alla quantita', alla destinazione, al valore, alla provenienza geografica, all'epoca» sono sostituite dalle seguenti: «segni o indicazioni che non sono distintivi o che riguardano la specie, la qualita', la quantita', la destinazione, il valore, la provenienza geografica, l'epoca»; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                al comma 1, alla lettera c), le parole «se esso» sono sostituite dalle seguenti: «per identificare o fare riferimento a prodotti o servizi del titolare di tale marchio, in specie se l'uso del marchio».
 
 ## Art. 11. — Modifiche all'articolo 24 del decreto legislativo 
  10 febbraio 2005, n. 30
 
+1.
+                    
+                        
+                            All'articolo 24 del codice della proprieta' industriale sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                dopo il comma 1-bis e' inserito il seguente: 
+ «1-ter. Nel caso di marchi collettivi o di certificazione, i requisiti di cui al comma 1 sono soddisfatti quando l'uso effettivo e' effettuato da un soggetto legittimato all'uso.»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 2, dopo le parole «in forma modificata» sono inserite le seguenti: «ancorche' non registrata,» e dopo le parole «loro confezioni» sono inserite le seguenti: «o imballaggi».
+
 ## Art. 12. — Modifiche all'articolo 25 del decreto legislativo 
  10 febbraio 2005, n. 30
+
+1.
+                    
+                        
+                            All'articolo 25 del codice della proprieta' industriale sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 1, alla lettera b), dopo le parole «9, 10,» sono inserite le seguenti: «11, 11-bis,»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                dopo il comma 1 e' aggiunto il seguente: 
+ «1-bis. Nel caso di contrasto con le disposizioni in materia di marchi collettivi di cui all'articolo 11, commi 1 e 2, o di marchi di certificazione di cui all'articolo 11-bis, commi 1 e 2, la nullita' non puo' essere dichiarata qualora il titolare del marchio si conformi a dette disposizioni modificando il regolamento d'uso ai sensi degli articoli 11 ed 11-bis, comma 2.».
 
 ## Art. 13. — Modifiche all'articolo 121 del decreto legislativo 
  10 febbraio 2005, n. 30
 
+1.
+                    
+                        
+                            All'articolo 121 del codice della proprieta' industriale sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 1, le parole «L'onere» sono sostituite dalle seguenti: «Salvo il caso di decadenza per non uso, l'onere»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 1, il terzo periodo e' sostituito dal seguente: «In ogni caso in cui sia domandata o eccepita la decadenza per non uso, il titolare fornisce la prova dell'uso del marchio a norma dell'articolo 24.».
+
 ## Art. 14. — Modifiche all'articolo 122 del decreto legislativo 
  10 febbraio 2005, n. 30
+
+1.
+                    
+                        
+                            All'articolo 122 del codice della proprieta' industriale sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                dopo il comma 4 sono inseriti i seguenti: 
+ «4-bis. L'azione di nullita' o decadenza di un marchio registrato e' improcedibile qualora, su una domanda con il medesimo oggetto, i medesimi fatti costitutivi e fra le stesse parti, sia stata pronunciata una decisione dall'Ufficio italiano brevetti e marchi ai sensi dell'articolo 184-quater o sia pendente un procedimento dinanzi all'Ufficio italiano brevetti e marchi, ai sensi dell'articolo 184-bis. 
+ 4-ter. Fuori dal caso di cui al comma 4-bis, qualora l'azione di nullita' o decadenza di un marchio registrato sia esercitata in pendenza di un procedimento amministrativo, connesso per il suo oggetto, il giudice puo' sospendere il relativo processo. La parte che vi abbia interesse deve chiedere la fissazione della nuova udienza entro il termine perentorio di tre mesi dalla definizione del procedimento amministrativo connesso, ai sensi dell'articolo 297, terzo comma, del codice di procedura civile.».
 
 ## Art. 15. — Inserimento dell'articolo 122-bis nel decreto legislativo 
  10 febbraio 2005, n. 30
@@ -210,17 +448,146 @@ All'articolo 147 del codice della proprieta' industriale, dopo il comma 3-quater
 ## Art. 20. — Modifiche all'articolo 156 del decreto legislativo 
  10 febbraio 2005, n. 30
 
+1.
+                    
+                        
+                            All'articolo 156 del codice della proprieta' industriale sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 1, la lettera c) e' sostituita dalla seguente: «c) la rappresentazione del marchio, che soddisfa i requisiti di cui all'articolo 7, comma 1, lettera b);»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 1, alla lettera d) e' aggiunto, in fine, il seguente periodo: «I prodotti e i servizi per i quali e' chiesta la protezione sono identificati dal richiedente con chiarezza e precisione sufficienti a consentire alle autorita' competenti e agli operatori economici di determinare, esclusivamente su tale base, l'ambito della protezione richiesta.».
+
 ## Art. 21. — Modifiche all'articolo 157 del decreto legislativo 
  10 febbraio 2005, n. 30
+
+1.
+                    
+                        
+                            All'articolo 157 del codice della proprieta' industriale sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                alla rubrica, sono aggiunte, in fine, le seguenti parole: «o di certificazione»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 1, dopo le parole «marchio collettivo» sono inserite le seguenti: «o di certificazione», le parole «deve unirsi» sono sostituite dalle seguenti: «e' allegata» e sono aggiunte, in fine, le seguenti parole: «e all'articolo 11-bis»; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                dopo il comma 1, sono aggiunti i seguenti: 
+ «1-bis. Il regolamento d'uso dei marchi collettivi di cui all'articolo 11 contiene le seguenti indicazioni: 
+ a) il nome del richiedente; 
+ b) lo scopo dell'associazione di categoria o lo scopo per il quale e' stata costituita la persona giuridica di diritto pubblico; 
+ c) i soggetti legittimati a rappresentare l'associazione di categoria o la persona giuridica di diritto pubblico; 
+ d) nel caso di associazione di categoria, le condizioni di ammissione dei membri; 
+ e) la rappresentazione del marchio collettivo; 
+ f) i soggetti legittimati ad usare il marchio collettivo; 
+ g) le eventuali condizioni d'uso del marchio collettivo, nonche' le sanzioni per le infrazioni regolamentari; 
+ h) i prodotti o i servizi contemplati dal marchio collettivo, ivi comprese, se del caso, le eventuali limitazioni introdotte a seguito dell'applicazione della normativa in materia di denominazioni di origine, indicazioni geografiche, specialita' tradizionali garantite, menzioni tradizionali per vini; 
+ i) se del caso, l'autorizzazione a diventare membri dell'associazione titolare del marchio di cui all'articolo 11, comma 4. 
+ 1-ter. Il regolamento d'uso dei marchi di certificazione di cui all'articolo 11-bis contiene le seguenti indicazioni: 
+ a) il nome del richiedente; 
+ b) una dichiarazione attestante che il richiedente soddisfa le condizioni di cui all'articolo 11-bis; 
+ c) la rappresentazione del marchio di certificazione; 
+ d) i prodotti o i servizi contemplati dal marchio di certificazione; 
+ e) le caratteristiche dei prodotti o dei servizi che devono essere certificate dal marchio di certificazione; 
+ f) le condizioni d'uso del marchio di certificazione, nonche' le sanzioni previste per i casi di infrazione alle norme regolamentari; 
+ g) le persone legittimate ad usare il marchio di certificazione; 
+ h) le modalita' di verifica delle caratteristiche e di sorveglianza dell'uso del marchio di certificazione da parte dell'organismo di certificazione.».
 
 ## Art. 22. — Modifiche all'articolo 159 del decreto legislativo 
  10 febbraio 2005, n. 30
 
+1.
+                    
+                        
+                            All'articolo 159 del codice della proprieta' industriale sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 4, la parola «comunitario», ovunque ricorra, e' sostituita dalle seguenti: «dell'Unione europea».
+
 ## Art. 23. — Modifiche all'articolo 170 del decreto legislativo 
  10 febbraio 2005, n. 30
 
+1.
+                    
+                        
+                            All'articolo 170 del codice della proprieta' industriale sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 1, lettera a), dopo le parole «marchi collettivi» sono inserite le seguenti: «o l'articolo 11-bis quando si tratta di marchi di certificazione» e le parole «lettere a) e b)» sono sostituite dalle seguenti: «a), b), c-bis), c-ter), c-quater) e c-quinquies)»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                dopo il comma 2 sono inseriti i seguenti: 
+ «2-bis. L'esame delle modifiche al regolamento d'uso di marchi collettivi o di marchi di certificazione e' rivolto ad accertare se possono trovare applicazione le disposizioni previste rispettivamente all'articolo 11 e all'articolo 11-bis. Le modifiche del regolamento d'uso acquistano efficacia soltanto a decorrere dalla data di iscrizione di tali modifiche nel registro. 
+ 2-ter. L'Ufficio italiano brevetti e marchi esamina con precedenza la domanda di marchio ove questa risulti essere il motivo in base al quale e' stata proposta: 
+ a) un'opposizione ad una domanda di registrazione di marchio dell'Unione europea; 
+ b) un'azione di revoca di una registrazione dell'Unione europea; 
+ c) un'istanza di decadenza o nullita' ad una domanda di marchio dell'Unione europea; 
+ d) un'azione di decadenza di una registrazione dell'Unione europea.».
+
 ## Art. 24. — Modifiche all'articolo 176 del decreto legislativo 
  10 febbraio 2005, n. 30
+
+1.
+                    
+                        
+                            All'articolo 176 del codice della proprieta' industriale sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 2: 
+ 1) alla lettera a), dopo la parola «domanda» e' inserita la seguente: «o»; 
+ 2) alla lettera b), dopo la parola «lettere» e' inserita la seguente: «c),»; 
+ 3) dopo la lettera c) e' aggiunta la seguente: 
+ «c-bis) se e' stato nominato un mandatario, l'atto di nomina, ai sensi dell'articolo 201, o la dichiarazione di riserva di deposito ad esso relativa. Se e' formulata riserva, l'atto di nomina e' depositato entro il termine perentorio di due mesi dalla data del deposito dell'opposizione.»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 4: 
+ 1) alla lettera a) dopo le parole «registrazione del marchio» sono inserite le seguenti: «, della denominazione di origine o della indicazione geografica» e la parola «comunitario» e' sostituita dalle seguenti «dell'Unione europea»; 
+ 2) alla lettera c), dopo le parole «brevetti e marchi» sono aggiunte le seguenti: «, ovvero nei casi di cui all'articolo 177, comma 1, lettere d-bis) e d-ter)»; 
+ 3) la lettera d) e' abrogata; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                al comma 5, le parole «c) e d)» sono sostituite dalle seguenti: «c), d), e) ed f), e dall'articolo 14, comma 1, lettera c)-bis».
 
 ## Art. 25. — Modifiche all'articolo 177 del decreto legislativo 
  10 febbraio 2005, n. 30
@@ -232,14 +599,189 @@ All'articolo 177 del codice della proprieta' industriale, al comma 1, dopo la le
 ## Art. 26. — Modifiche all'articolo 178 del decreto legislativo 
  10 febbraio 2005, n. 30
 
+1.
+                    
+                        
+                            All'articolo 178 del codice della proprieta' industriale sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 2, sono aggiunte, in fine, le seguenti parole: «e contestualmente presentare istanza di cui al comma 4»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 3, dopo le parole «nel termine da esso fissato» sono inserite le seguenti: «, in ogni caso non superiore a trenta giorni e non prorogabile,»; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                al comma 4, le parole «sia titolare di» sono sostituite dalle seguenti: «fondi l'opposizione su un», dopo le parole «cinque anni» sono inserite le seguenti: «dalla data di deposito o di priorita' del marchio oggetto dell'opposizione,» e, dopo le parole «fonda l'opposizione,» sono inserite le seguenti: «nel corso del quinquennio precedente la data di deposito o priorita' del marchio opposto,»; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                dopo il comma 4 e' inserito il seguente: 
+ «4-bis. Il comma 4 si applica anche nel caso in cui il marchio d'impresa anteriore sia un marchio dell'Unione europea. In tal caso l'uso effettivo del marchio dell'Unione europea e' determinato a norma dell'articolo 18 del regolamento (UE) 2017/1001 del Parlamento e del Consiglio, del 14 giugno 2017, sul marchio dell'Unione europea.»; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                il comma 5 e' abrogato; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                dopo il comma 7 e' aggiunto il seguente: 
+ «7-bis. L'Ufficio italiano brevetti e marchi, con il provvedimento di cui al comma 7, pone a carico del richiedente, se soccombente, il rimborso dei diritti di opposizione. Le spese di rappresentanza professionale nel procedimento sono liquidate a carico della parte soccombente, a domanda, nella misura massima individuata con decreto del Ministero dello sviluppo economico.».
+
 ## Art. 27. — Modifiche all'articolo 180 del decreto legislativo 
  10 febbraio 2005, n. 30
+
+1.
+                    
+                        
+                            All'articolo 180 del codice della proprieta' industriale sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 1: 
+ 1) dopo la lettera d) e' inserita la seguente: 
+ «d-bis) se l'opposizione e' basata su una domanda di protezione di una denominazione di origine ovvero di una indicazione geografica, fino alla protezione;»; 
+ 2) dopo la lettera e-bis) e' aggiunta la seguente: 
+ «e-ter) se e' pendente un procedimento di cancellazione della denominazione di origine protetta ovvero della indicazione geografica protetta, fino al termine in cui la decisione della Commissione europea diviene definitiva;»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 3, la parola «f)» e' sostituita dalla seguente: «e-bis)»; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                il comma 3-bis e' abrogato.
 
 ## Art. 28. — Modifiche all'articolo 181 del decreto legislativo 
  10 febbraio 2005, n. 30
 
+1.
+                    
+                        
+                            All'articolo 181 del codice della proprieta' industriale sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 1: 
+ 1) dopo la lettera a), sono inserite le seguenti: 
+ «a-bis) la domanda di protezione della denominazione di origine o della indicazione geografica sulla quale si fonda l'opposizione e' ritirata o rigettata; 
+ a-ter) la denominazione di origine protetta o l'indicazione geografica protetta sulla quale si fonda l'opposizione e' cancellata;»; 
+ 2) dopo la lettera e), sono aggiunte le seguenti: 
+ «e-bis) la domanda o la registrazione, oggetto di opposizione, e' stata limitata cancellando i prodotti o servizi contro cui e' stata fatta opposizione; 
+ e-ter) e' venuto meno l'interesse ad agire.».
+
 ## Art. 29. — Inserimento della Sezione II bis nel decreto legislativo 
  10 febbraio 2005, n. 30
+
+1.
+                    
+                        
+                            Dopo l'articolo 184 del codice della proprieta' industriale sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                e' inserita la seguente sezione: 
+ «Sezione II BIS DECADENZA E NULLITA' DEI MARCHI D'IMPRESA REGISTRATI»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                sono inseriti i seguenti articoli: 
+ «Art. 184-bis (Deposito dell'istanza di decadenza o nullita'). - 1.
+Fatta salva la proponibilita' dell'azione davanti all'autorita' giudiziaria ai sensi dell'articolo 120, i soggetti legittimati ai sensi dell'articolo 184-ter possono presentare istanza, scritta e motivata, all'Ufficio italiano brevetti e marchi per l'accertamento della decadenza o la dichiarazione di nullita' di un marchio d'impresa registrato. 
+ 2. Nei casi di cui al comma 1, la decadenza puo' essere fatta valere per i motivi di cui agli articoli 13, comma 4, 14, comma 2, lettera a) e 24. 
+ 3. Nei casi di cui al comma 1, la nullita' del marchio puo' essere chiesta per i seguenti motivi: 
+ a) il marchio d'impresa non avrebbe dovuto essere registrato in quanto non soddisfa i requisiti di cui agli articoli 7, 9, 10, comma 1, 13, commi 1, 2 e 3, 14, comma 1, lettere a), b), c-bis), c-ter), c-quater), c-quinquies) e d); 
+ b) il marchio d'impresa non avrebbe dovuto essere registrato a causa dell'esistenza di un diritto anteriore ai sensi dell'articolo 12, comma 1, lettere c), d), e) ed f); 
+ c) la domanda di registrazione del marchio d'impresa e' stata presentata dall'agente o dal rappresentante senza il consenso del titolare o un giustificato motivo. 
+ 4. L'istanza di decadenza o di nullita', che puo' riguardare una sola registrazione di marchio, e' ricevibile se redatta in lingua italiana e contiene a pena di inammissibilita': 
+ a) in relazione al marchio di cui si chiede la dichiarazione di decadenza o di nullita', l'identificazione del titolare, il numero e la data di registrazione; 
+ b) in relazione al diritto dell'istante, quando tale diritto sia requisito di legittimazione attiva ai sensi dell'articolo 184-ter, l'identificazione del marchio, della denominazione di origine, della indicazione geografica, della menzione tradizionale per vino, della specialita' tradizionale garantita, della denominazione di varieta' vegetale o di altro diritto esclusivo anteriore; 
+ c) i motivi su cui si fonda la domanda e, nel caso di cui al comma 3, lettera c), l'eventuale istanza di trasferimento a proprio nome dell'attestato di registrazione del marchio a far data dal momento del deposito. 
+ 5. L'istanza di decadenza o di nullita' contiene altresi', in relazione al marchio di cui si chiede la dichiarazione di decadenza o di nullita', l'indicazione dei prodotti ed i servizi contro cui e' proposta l'istanza di decadenza o la nullita'; in mancanza di tale indicazione l'istanza e' considerata diretta contro tutti i prodotti o i servizi contemplati dal marchio impugnato. 
+ 6. L'istanza di decadenza o di nullita' si considera ritirata se non e' comprovato il pagamento dei diritti di deposito delle domande di decadenza o nullita' entro i termini e con le modalita' stabiliti dal decreto di cui all'articolo 226. 
+ 7. All'istanza di decadenza o di nullita' sono allegati: 
+ a) i documenti a prova dei fatti addotti; 
+ b) la documentazione volta a dimostrare la legittimazione a presentare la domanda di decadenza o di nullita', ove necessaria; 
+ c) l'atto di nomina ai sensi dell'articolo 201, se e' stato nominato un mandatario. 
+ 8. L'istanza di decadenza o di nullita' puo' essere presentata sulla base di uno o piu' diritti anteriori, a condizione che appartengano tutti allo stesso titolare. 
+ 9. L'istanza di decadenza o di nullita' e' improcedibile qualora, su una domanda con il medesimo oggetto, i medesimi fatti costitutivi e fra le stesse parti, sia stata pronunciata una decisione o sia pendente un procedimento dinanzi all'Ufficio italiano brevetti e marchi o all'autorita' giudiziaria adita ai sensi dell'articolo 122. 
+ 10. Fuori dal caso di cui al comma 9, qualora un'istanza di decadenza o di nullita' sia presentata all'Ufficio italiano brevetti e marchi in pendenza di un procedimento, amministrativo o giudiziario, connesso per l'oggetto, la trattazione dell'istanza puo' essere sospesa fino a che il procedimento pendente sia definito con provvedimento amministrativo inoppugnabile o con sentenza passata in cosa giudicata. In tal caso l'istante puo' chiedere la prosecuzione del procedimento sospeso, con istanza da presentare all'Ufficio italiano brevetti e marchi entro il termine perentorio di tre mesi dalla inoppugnabilita' del provvedimento adottato nel procedimento amministrativo connesso o dal passaggio in giudicato della sentenza che definisce il processo connesso. In caso contrario, il procedimento sull'istanza di decadenza o di nullita' si estingue. 
+ 11. L'istanza di decadenza o di nullita' e' altresi' improcedibile qualora sia stata presentata contestualmente ad una domanda, con il medesimo oggetto, i medesimi fatti costitutivi e fra le stesse parti, proposta davanti all'autorita' giudiziaria adita ai sensi dell'articolo 122. 
+ Art. 184-ter (Legittimazione all'istanza di decadenza o nullita'). - 1. Sono legittimati a presentare un'istanza di decadenza o di nullita': 
+ a) nei casi di cui ai commi 2 e 3, lettera a), dell'articolo 184-bis, qualunque interessato; 
+ b) nel caso di cui al comma 3, lettera b), dell'articolo 184-bis, il titolare di un marchio d'impresa anteriore o la persona autorizzata dalla legge a esercitare i diritti conferiti da una denominazione di origine o un'indicazione geografica protetta; 
+ c) nel caso di cui al comma 3, lettera c), dell'articolo 184-bis, il titolare di marchio d'impresa interessato. 
+ Art. 184-quater (Esame della domanda di decadenza o di nullita' e decisioni). - 1. Se la domanda di decadenza o di nullita' e' ricevibile e ammissibile l'Ufficio italiano brevetti e marchi invia una comunicazione alle parti informandole dell'inizio della fase in contraddittorio del procedimento di decadenza o nullita' e invitando il titolare del marchio a depositare osservazioni entro un termine stabilito. Le osservazioni depositate dalle parti sono comunicate all'altra parte dall'Ufficio italiano brevetti e marchi. 
+ 2. Alla comunicazione di cui al comma 1 indirizzata al titolare del marchio e' allegata copia dell'istanza di decadenza o nullita' e qualsiasi documento presentato dal richiedente. 
+ 3. Nel corso del procedimento di decadenza o nullita' l'Ufficio italiano brevetti e marchi puo', in ogni momento, assegnare alle parti un termine per produrre ulteriori documenti o svolgere deduzioni od osservazioni in funzione delle allegazioni, deduzioni ed osservazioni delle altre parti. 
+ 4. In caso di piu' istanze di decadenza o nullita' relative allo stesso marchio, le domande successive alla prima sono riunite a questa. 
+ 5. Al termine del procedimento di decadenza o nullita', l'Ufficio italiano brevetti e marchi se accoglie la domanda, accerta la decadenza o dichiara la nullita' della registrazione del marchio in tutto o in parte o dispone il trasferimento della titolarita' della registrazione nel caso in cui sia stata presentata l'istanza di cui all'articolo 184-bis, comma 4, lettera c). Nel caso di registrazione internazionale, l'Ufficio italiano brevetti e marchi da' comunicazione della decisione all'Organizzazione mondiale della proprieta' intellettuale (OMPI). 
+ 6. L'Ufficio italiano brevetti e marchi, con il provvedimento di cui al comma 5, pone a carico della parte soccombente il rimborso delle spese a favore dell'altra parte e ne liquida l'ammontare insieme alle spese di rappresentanza professionale nel procedimento, nella misura massima individuata con decreto del Ministero dello sviluppo economico. 
+ 7. I provvedimenti che accertano la decadenza o dichiarano la nullita' della registrazione o trasferiscono la titolarita' della registrazione di un marchio sono annotati nel registro. 
+ Art. 184-quinquies (Prova d'uso). - 1. Nei procedimenti per la dichiarazione di nullita' basata su un marchio d'impresa registrato con una data di deposito o di priorita' anteriore ai sensi dell'articolo 184-bis, comma 3, lettera b), su istanza del titolare del marchio d'impresa posteriore, il titolare del marchio d'impresa anteriore fornisce la prova che, nel corso dei cinque anni precedenti la data di presentazione della domanda di dichiarazione di nullita', il marchio d'impresa anteriore e' stato oggetto di uso effettivo a norma dell'articolo 24 per i prodotti o i servizi per i quali e' stato registrato e su cui si fonda la domanda, o che sussistono motivi legittimi per il suo mancato uso, a condizione che la procedura di registrazione del marchio anteriore, alla data di presentazione della domanda di dichiarazione di nullita', fosse conclusa da almeno cinque anni. 
+ 2. Qualora, alla data di deposito o di priorita' del marchio d'impresa posteriore, il termine di cinque anni durante il quale il marchio d'impresa anteriore doveva essere oggetto di uso effettivo, sia scaduto, il titolare del marchio d'impresa anteriore, oltre alla prova a norma del comma 1, fornisce la prova che il marchio e' stato oggetto di uso effettivo nel corso del termine dei cinque anni precedenti la data di deposito o di priorita', o che sussistevano motivi legittimi per il suo mancato uso. 
+ 3. In mancanza delle prove di cui ai commi 1 e 2, da fornire entro sessanta giorni dalla data di comunicazione dell'istanza da parte dell'Ufficio italiano brevetti e marchi, la domanda di nullita' sulla base di un marchio anteriore e' respinta. 
+ 4. Se il marchio d'impresa anteriore e' stato usato conformemente all'articolo 24 solo per una parte dei prodotti o dei servizi per i quali e' stato registrato, ai fini dell'esame della domanda di nullita' si intende registrato soltanto per tale parte dei prodotti o servizi. 
+ 5. I commi da 1 a 4 del presente articolo si applicano anche nel caso in cui il marchio d'impresa anteriore sia un marchio UE. In tal caso, l'uso effettivo del marchio UE e' determinato a norma dell'articolo 18 del regolamento (UE) 2017/1001, del Parlamento europeo e del Consiglio, del 14 giugno 2017. 
+ 6. L'istanza del titolare del marchio d'impresa posteriore per ottenere la prova dell'uso effettivo del marchio anteriore, di cui al comma 1, deve essere presentata entro il termine assegnato dall'Ufficio italiano brevetti e marchi ai sensi dell'articolo 184-quater, comma 1. 
+ Art. 184-sexies (Efficacia erga omnes e decorrenza degli effetti della decadenza e della nullita'). - 1. La decadenza o la nullita', anche parziale, di una registrazione di marchio ha efficacia nei confronti di tutti quando sia dichiarata con provvedimento dell'Ufficio italiano brevetti e marchi divenuto inoppugnabile. 
+ 2. La decadenza della registrazione di un marchio d'impresa, per tutti o per una parte di prodotti o servizi, produce effetti a decorrere dalla data di deposito della domanda di decadenza o, su istanza del richiedente, di quella anteriore in cui e' maturata una delle cause di decadenza. 
+ 3. La nullita' della registrazione di un marchio di impresa, per tutti o per una parte di prodotti o servizi, produce effetti fin dalla data della registrazione. 
+ Art. 184-septies (Sospensione della procedura di nullita' o decadenza). - 1. Oltre che nel caso di cui all'articolo 184-bis, comma 10, il procedimento di decadenza o di nullita' e' sospeso: 
+ a) se l'istanza di nullita' e' basata su una domanda anteriore di registrazione di marchio d'impresa, su una domanda di registrazione di denominazione di origine ovvero su una domanda di registrazione di indicazione geografica, fino a quando su tali domande non sia adottato un provvedimento inoppugnabile; 
+ b) se l'istanza di nullita' e' basata su un marchio internazionale, fino a quando non siano scaduti i termini per il rifiuto o la presentazione di un'opposizione avverso la registrazione di tale marchio; 
+ c) se l'istanza di nullita' e' basata su un marchio internazionale e si siano conclusi i relativi procedimenti di esame o di opposizione; 
+ d) a domanda del titolare del marchio posteriore, se e' pendente un giudizio di nullita' o di decadenza del marchio anteriore sul quale si fonda la domanda di nullita' o relativo alla spettanza del diritto alla registrazione, fino al passaggio in giudicato della decisione; 
+ e) a domanda del titolare del marchio posteriore, se e' pendente, dinanzi all'Ufficio italiano brevetti e marchi, un procedimento di nullita' o di decadenza del marchio anteriore sul quale si fonda l'istanza o relativo alla spettanza del diritto di registrazione, fino a che il relativo provvedimento sia inoppugnabile; 
+ f) a domanda del titolare del marchio posteriore, se e' pendente un procedimento di cancellazione della denominazione di origine ovvero della indicazione geografica protetta sulla quale si fonda la domanda di nullita', fino al termine in cui la decisione della Commissione europea diviene inoppugnabile; 
+ g) negli altri casi previsti dal regolamento di attuazione del presente codice. 
+ 2. L'istante puo' chiedere la prosecuzione del procedimento sospeso, con istanza da presentare all'Ufficio italiano brevetti e marchi entro il termine perentorio di tre mesi dalla inoppugnabilita' del provvedimento adottato nei casi di cui al comma 1, lettere a), c), e) ed f), dalla scadenza dei termini di cui alla lettera b), del medesimo comma, o dal passaggio in giudicato della sentenza che definisce il processo nel caso di cui alla lettera d) del medesimo comma. In caso contrario, il procedimento sull'istanza di decadenza o di nullita' si estingue. 
+ 3. Se il procedimento e' sospeso ai sensi del comma 1, lettere a), b) e c), l'Ufficio italiano brevetti e marchi esamina con precedenza la domanda di marchio o la registrazione del marchio internazionale su cui si basa l'istanza di nullita'. 
+ Art. 184-octies (Estinzione della procedura di decadenza o nullita'). - 1. La procedura di decadenza o nullita' si estingue: 
+ a) se il marchio sul quale si fonda l'istanza e' stato dichiarato nullo o decaduto con sentenza passata in giudicato o con un provvedimento inoppugnabile; 
+ b) se la rinuncia all'istanza di decadenza o nullita' e' accettata, senza riserve o condizioni, dalle parti costituite che potrebbero avere interesse alla prosecuzione; 
+ c) se la domanda o la registrazione, oggetto dell'istanza di decadenza o nullita', e' ritirata o rigettata con provvedimento inoppugnabile per i prodotti e servizi controversi; 
+ d) se non e' presentata istanza di prosecuzione nei casi di cui all'articolo 184-bis, comma 10, ultimo periodo, e di cui all'articolo 184-septies, comma 2, secondo periodo; 
+ e) se la domanda di protezione della denominazione di origine o della indicazione geografica sulla quale si fonda l'istanza di nullita' e' ritirata o rigettata; 
+ f) se la denominazione di origine protetta o l'indicazione geografica protetta o la specialita' tradizionale garantita, sulla quale si fonda la domanda di nullita', e' cancellata; 
+ g) se e' venuto meno l'interesse ad agire. 
+ Art. 184-nonies (Attuazione ed entrata in vigore della procedura di decadenza o nullita'). - 1. Le norme sul procedimento di decadenza o nullita' entrano in vigore trenta giorni dopo la data di pubblicazione del decreto del Ministro dello sviluppo economico che ne stabilisce le modalita' di applicazione. 
+ Art. 184-decies (Ricorso). - 1. Il provvedimento con il quale l'Ufficio italiano brevetti e marchi dichiara irricevibile, inammissibile o estinta la procedura di decadenza o nullita' ovvero accoglie, anche parzialmente, o respinge l'istanza, e' comunicato alle parti. 
+ 2. Contro i provvedimenti di cui al comma 1, e' ammesso il ricorso davanti alla Commissione dei ricorsi, ai sensi dell'articolo 135.».
 
 ## Art. 30. — Modifiche all'articolo 187 del decreto legislativo 
  10 febbraio 2005, n. 30
@@ -254,6 +796,31 @@ All'articolo 225, comma 1, del codice della proprieta' industriale, le parole «
 
 ## Art. 32. — Modifiche all'articolo 227 del decreto legislativo 
  10 febbraio 2005, n. 30
+
+1.
+                    
+                        
+                            All'articolo 227, del codice della proprieta' industriale, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 1, il secondo periodo e' soppresso; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                dopo il comma 1, e' inserito il seguente: «1-bis. La domanda di rinnovazione di marchio deve essere depositata entro i dodici mesi precedenti l'ultimo giorno del mese di scadenza del decennio in corso». 
+
+                            
+                        
+                        
+                            c)
+                            
+                                dopo il comma 8, e' aggiunto il seguente: «8-bis. Se la domanda di rinnovazione del marchio o le relative tasse pagate si riferiscono soltanto a una parte dei prodotti o dei servizi per i quali il marchio e' registrato, questa e' rinnovata soltanto per i prodotti o servizi di cui trattasi, fatto salvo quanto previsto all'articolo 230. Qualora le tasse versate non siano sufficienti per tutte le classi di prodotti e servizi per le quali viene richiesto il rinnovo, la registrazione viene rinnovata se risulta chiaramente quali sono le classi cui si riferisce l'importo versato. In mancanza di altri criteri, l'Ufficio prende in considerazione le classi nell'ordine di classificazione.».
 
 ## Art. 33. — Disposizione transitoria in materia di conversione del segno in marchio collettivo o in marchio di certificazione.
 
@@ -277,6 +844,31 @@ I procedimenti istruttori in corso su domande di registrazione di marchi collett
 
 ## Art. 34. — Modifiche al decreto del Presidente della Repubblica 26 ottobre 1972, n. 641, in materia di tasse sulle concessioni governative per la registrazione per marchi d'impresa.
 
+1.
+                    
+                        
+                            Al decreto del Presidente della Repubblica 26 ottobre 1972, n. 641, all'articolo 11 della tariffa allegata sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                la rubrica e' cosi' sostituita: «Registrazione per marchi d'impresa o di certificazione e collettivi»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                nella colonna «Indicazione degli atti soggetti a tassa», il punto 2 e' sostituito dal seguente: «2. Registrazione per marchi di certificazione e collettivi»; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                nella colonna «Indicazione degli atti soggetti a tassa», il punto 4 e' sostituito dal seguente: «4. Registrazioni per marchi d'impresa, di certificazione o per marchi collettivi, nazionali o internazionali».
+
 ## Art. 35. — Disposizioni di adeguamento
 
 Con regolamento adottato dal Ministro dello sviluppo economico, ai sensi dell'articolo 17, comma 3, della legge 23 agosto 1988, n. 400, possono essere adottate eventuali ulteriori disposizioni attuative della direttiva (UE) 2015/2436, nelle materie non coperte da riserva di legge e gia' disciplinate mediante analoghi regolamenti, compreso l'eventuale aggiornamento delle disposizioni contenute nel regolamento di cui al decreto del Ministero dello sviluppo economico 13 gennaio 2010, n. 33.
@@ -286,6 +878,24 @@ Con regolamento adottato dal Ministro dello sviluppo economico, ai sensi dell'ar
 Al fine dello svolgimento dei nuovi incrementali adempimenti derivanti dall'attuazione della direttiva (UE) 2015/2436, il Ministero dello sviluppo economico, ((nel quinquennio 2019-2023)), e' autorizzato ad assumere a tempo indeterminato, nei limiti dei posti disponibili in dotazione organica, trenta unita' da inquadrare nell'area III, posizione economica F1, selezionate attraverso apposito concorso pubblico, in possesso di specifici requisiti professionali necessari all'espletamento dei nuovi compiti operativi.
 
 Le assunzioni di cui al comma 1 sono effettuate in deroga agli articoli 30, comma 2-bis e 35, comma 4, del decreto legislativo 30 marzo 2001, n. 165, e all'articolo 4, commi 3 e 3-quinquies, del decreto-legge 31 agosto 2013, n. 101, convertito, con modificazioni, dalla legge 30 ottobre 2013, n. 125.
+
+3.
+                    
+                        
+                            Agli oneri derivanti dall'attuazione del comma 1, quantificati in 0,3 milioni di euro per l'anno 2019 e in 1,2 milioni di euro a decorrere dall'anno 2020, si provvede: 
+ 
+                        
+                        
+                            a)
+                            
+                                quanto a 0,3 milioni di euro per l'anno 2019 e 1,2 milioni di euro per l'anno 2020 mediante utilizzo di quota parte delle entrate previste dall'articolo 1, comma 851, della legge 27 dicembre 2006, n. 296. A tal fine, all'ultimo periodo del citato articolo 1, comma 851, della legge 27 dicembre 2006, n. 296, le parole «e di 50 milioni di euro a decorrere dall'anno 2013» sono sostituite dalle seguenti: «, di 50 milioni di euro per ciascuno degli anni dal 2013 al 2018, di 50,3 milioni di euro per l'anno 2019, di 51,2 milioni di euro per l'anno 2020 e di 50 milioni di euro a decorrere dal 2021»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                quanto a 1,2 milioni di euro annui a decorrere dall'anno 2021 mediante corrispondente riduzione del Fondo per il recepimento della normativa europea, di cui all'articolo 41-bis della legge 24 dicembre 2012, n. 234.
 
 Il Ministero dello sviluppo economico comunica alla Presidenza del Consiglio dei ministri - Dipartimento della funzione pubblica ed al Dipartimento della Ragioneria generale dello Stato le assunzioni effettuate ai sensi del comma 1 ed i relativi oneri.
 

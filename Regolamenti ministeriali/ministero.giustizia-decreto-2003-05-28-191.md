@@ -8,8 +8,8 @@ codice_redazionale: 003G0216
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:38Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -32,6 +32,31 @@ DELL'UNIVERSITA' E DELLA RICERCA
 Udito il parere del Consiglio di Stato, espresso dalla sezione consultiva per gli atti normativi nell'adunanza del 13 gennaio 2003;
 
 ## Art. 1. — Definizioni
+
+1.
+                    
+                        
+                            Ai fini del presente regolamento si intende per:
+ 
+                        
+                        
+                            a)
+                            
+                                «decreto legislativo», il decreto legislativo 27 gennaio 1992, n. 115;
+
+                            
+                        
+                        
+                            b)
+                            
+                                «decreto ministeriale di riconoscimento», il decreto del Ministro della giustizia adottato ai sensi dell'articolo 12, comma 5, del decreto legislativo 27 gennaio 1992, n. 115;
+
+                            
+                        
+                        
+                            c)
+                            
+                                «richiedente», il cittadino comunitario che domanda, ai fini dell'esercizio della professione forense in Italia, il riconoscimento del titolo rilasciato dal Paese di appartenenza attestante una formazione professionale al cui possesso la legislazione del medesimo Stato subordina l'esercizio della professione.
 
 ## Art. 2. — Contenuto della prova attitudinale
 

@@ -7,8 +7,8 @@ urn: urn:nir:ministero.interno:decreto:2020-08-07;174
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:41Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -30,6 +30,31 @@ Acquisiti i pareri delle competenti commissioni della Camera dei deputati e del 
 
 ## Art. 1. — Definizioni
 
+1.
+                    
+                        
+                            Ai sensi del presente regolamento, si intende per: 
+ 
+                        
+                        
+                            a)
+                            
+                                Commissione centrale: la Commissione centrale di cui all'articolo 10 del decreto-legge 15 gennaio 1991, n. 8, convertito, con modificazioni, dalla legge 15 marzo 1991, n. 82; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                Servizio centrale: il Servizio centrale di protezione di cui all'articolo 14 del citato decreto-legge n. 8 del 1991; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                amministrazioni pubbliche: quelle di cui all'articolo l, comma 2, del decreto legislativo 30 marzo 2001, n. 165.
+
 ## Art. 2. — Ambito di applicazione
 
 Il presente regolamento si applica ai soggetti di cui all'articolo 7, comma 1, lettera h), della legge 11 gennaio 2018, n. 6, nell'ambito dei rapporti di lavoro di cui all'articolo 2, commi 2 e 3, del decreto legislativo 30 marzo 2001, n. 165, e successive integrazioni e modificazioni.
@@ -49,6 +74,31 @@ I soggetti di cui all'articolo 2 che non intendono esercitare personalmente il d
 L'indicazione, univoca e non modificabile, e' espressa in forma scritta utilizzando gli appositi modelli predisposti dalla Commissione centrale.
 
 Il Servizio centrale, ricevuta la domanda di cui al comma 1, comunica alla Commissione centrale ogni dato, notizia o informazione utile per la verifica dei requisiti di cui all'articolo 3.
+
+4.
+                    
+                        
+                            Il Servizio centrale comunica altresi' alla Commissione centrale ogni dato, notizia o informazione utile con riferimento: 
+ 
+                        
+                        
+                            a)
+                            
+                                alle misure di reinserimento sociale e lavorativo di cui all'articolo 7, comma 1, lettere b), c), d), e), f), i), della legge n. 6 del 2018; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                agli interventi contingenti finalizzati ad agevolare il reinserimento sociale ai sensi dell'articolo 13, comma 4, del decreto-legge 15 gennaio 1991, n. 8, convertito, con modificazioni, dalla legge 15 marzo 1991, n. 82; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                alle misure straordinarie di natura economica ai sensi dell'articolo 13, comma 5, del decreto-legge n. 8 del 1991, convertito, con modificazioni, dalla legge n. 82 del 1991.
 
 La Commissione centrale, ricevuti dal Servizio centrale gli elementi conoscitivi di cui ai commi 3 e 4, verifica la sussistenza dei requisiti di cui all'articolo 3 e delibera il riconoscimento della speciale misura dell'accesso al programma di assunzione in una pubblica amministrazione, trasmettendo gli atti al Servizio centrale che ne da' comunicazione agli interessati e provvede agli adempimenti di cui all'articolo 5.
 

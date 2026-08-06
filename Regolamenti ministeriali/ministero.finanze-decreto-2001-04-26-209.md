@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
 vigenza_date: 2007-08-02
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:38Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -47,6 +47,38 @@ Per i tributi di competenza dell'Agenzia delle dogane, l'istanza di interpello e
 ((4-bis. Per i tributi gestiti dall'Amministrazione autonoma dei monopoli di Stato, l'istanza di interpello e' presentata, in materia di giochi, all'Ufficio regionale competente in base al domicilio fiscale del contribuente, fatta eccezione per coloro i quali abbiano conseguito nel precedente anno solare un volume di raccolta delle giocate non inferiore a 500.000,00 euro, i quali sono tenuti a presentare la predetta istanza alla Direzione per i giochi; per i tributi in materia di tabacchi lavorati l'istanza di interpello e' presentata alla Direzione per le accise, fatta eccezione per i casi di verbalizzazione per contrabbando da parte della polizia giudiziaria, per i quali l'istanza e' presentata all'Ufficio regionale competente per territorio in relazione al luogo in cui e' stato commesso l'illecito))
 
 ## Art. 3. — Istanza di interpello
+
+1.
+                    
+                        
+                            L'istanza di interpello deve contenere a pena di inammissibilita':
+ 
+                        
+                        
+                            a)
+                            
+                                i dati identificativi del contribuente ed eventualmente del suo legale rappresentante;
+
+                            
+                        
+                        
+                            b)
+                            
+                                la circostanziata e specifica descrizione del caso concreto e personale da trattare ai fini tributari sul quale sussistono concrete condizioni di incertezza;
+
+                            
+                        
+                        
+                            c)
+                            
+                                l'indicazione del domicilio del contribuente o dell'eventuale domiciliatario presso il quale devono essere effettuate le comunicazioni dell'amministrazione finanziaria;
+
+                            
+                        
+                        
+                            d)
+                            
+                                la sottoscrizione del contribuente o del suo legale rappresentante.
 
 Alla istanza di interpello e' allegata copia della documentazione, non in possesso dell'amministrazione finanziaria o di altre amministrazioni pubbliche indicate dall'istante, rilevante ai fini della individuazione e della qualificazione della fattispecie prospettata, salva la facolta' di acquisire, ove necessario, l'originale non posseduto dei documenti.
 

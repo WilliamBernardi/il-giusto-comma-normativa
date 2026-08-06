@@ -10,7 +10,7 @@ source: normattiva-opendata
 collection: Atti di recepimento direttive UE
 vigenza_date: 2008-06-26
 zip_date: 2026-07-30
-fetched_at: 2026-08-02T09:40:48Z
+fetched_at: 2026-07-30
 ---
 
 DECRETO LEGISLATIVO
@@ -28,7 +28,74 @@ Sulla proposta del Ministro per il coordinamento delle politiche comunitarie, di
 
 Il presente decreto disciplina la produzione, il commercio e la vendita degli "aromi" impiegati o destinati ad essere impiegati nei o sui prodotti alimentari per conferire loro odore, gusto o entrambi e dei materiali di base utilizzati per la produzione degli aromi.
 
+2.
+                    
+                        
+                            Le norme del presente decreto non si applicano: 
+ 
+                        
+                        
+                            a)
+                            
+                                alle sostanze ed ai prodotti commestibili destinati ad essere consumati come tali, con o senza ricostituzione; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                alle sostanze che hanno esclusivamente gusto dolce, acido o salato; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                alle materie di origine vegetale o animale aventi proprieta' aromatizzanti intrinseche, purche' non impiegate come fonti di aromi.
+
 ## Art. 2. — D e f i n i z i o n i
+
+1.
+                    
+                        
+                            Ai fini del presente decreto si intende per: 
+ 
+                        
+                        
+                            a)
+                            
+                                aromi: le sostanze aromatizzanti, le preparazioni aromatiche, gli aromatizzanti di trasformazione, gli aromatizzanti di affumicatura e loro miscele; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                sostanza aromatizzante: una determinata sostanza chimica dotata di proprieta' aromatizzanti e ottenuta: 
+ 1) con procedimenti fisici, comprese la distillazione e la estrazione con solventi, oppure con procedimenti enzimatici o microbiologici a partire da una materia di origine vegetale o animale allo stato naturale o previa trasformazione per il consumo umano con procedimenti tradizionali di preparazione di prodotti alimentari, comprese l'essiccazione, la torrefazione e la fermentazione; 
+ 2) per sintesi chimica o isolata a mezzo di procedimenti chimici e chimicamente identica ad una sostanza naturalmente presente in un prodotto di origine vegetale o animale descritto al numero 1); 
+ 3) per sintesi chimica, ma non identica chimicamente ad una sostanza naturalmente presente in una materia di origine vegetale o animale descritta al numero 1); 
+
+                            
+                        
+                        
+                            c)
+                            
+                                preparazione aromatica: un prodotto diverso dalle sostanze definite alla lettera b), numero 1), concentrato o meno, avente proprieta' aromatizzanti ed ottenuto con opportuni procedimenti fisici, comprese la distillazione e l'estrazione con solventi, oppure con procedimenti enzimatici o microbiologici a partire da materie di origine vegetale o animale allo stato naturale o previa trasformazione per il consumo umano con procedimenti tradizionali per la preparazione di prodotti alimentari, comprese la essiccazione, la torrefazione e la fermentazione; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                aromatizzante di trasformazione: un prodotto ottenuto, rispettando le prassi corrette di fabbricazione, mediante riscaldamento per non piu' di 15 minuti a temperatura non superiore a 180 C di una miscela di ingredienti che non hanno necessariamente di per se' proprieta' aromatizzanti e di cui almeno uno contiene azoto aminico e un altro e' uno zucchero riduttore; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                aromatizzante di affumicatura: un estratto di fumi impiegato nei procedimenti tradizionali di affumicatura degli alimenti.
 
 ## Art. 3. — Additivi, diluenti e solventi degli aromi
 
@@ -41,6 +108,17 @@ Gli additivi, i diluenti ed i solventi di cui al comma 1 devono rispondere alle 
 La produzione e la commercializzazione delle preparazioni nelle quali gli aromi sono miscelati con gli additivi alimentari sono consentite solo per l'impiego negli alimenti nei quali e' autorizzato l'uso degli stessi additivi.
 
 ## Art. 5. — Requisiti generali e specifici di purezza
+
+1.
+                    
+                        
+                            Gli aromi non devono contenere: 
+ 
+                        
+                        
+                            a)
+                            
+                                elementi o sostanze in quantita' tossicologicamente pericolosa per la salute umana;
 
 Gli aromi di cui all'art. 2, comma 1, lettera e), devono possedere i requisiti di purezza di cui all'allegato III.
 
@@ -62,6 +140,74 @@ Gli aromatizzanti artificiali di cui al comma 1 devono rispondere ai requisiti d
 
 ## Art. 8. — Etichettatura degli aromi non destinati al consumatore finale
 
+1.
+                    
+                        
+                            Gli aromi non destinati ad essere venduti al consumatore finale devono riportare sulla confezione o sul contenitore le seguenti indicazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                il nome o la ragione sociale o il marchio depositato e la sede del fabbricante o del confezionatore o di un venditore stabilito nella Comunita' europea: 
+
+                            
+                        
+                        
+                            b)
+                            
+                                la denominazione aroma oppure una denominazione piu' specifica o una descrizione dell'aroma; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                la menzione per "prodotti alimentari", oppure un riferimento piu' specifico al prodotto alimentare cui l'aroma e' destinato; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                l'enumerazione in ordine ponderale decrescente delle categorie delle sostanze aromatizzanti e delle preparazioni aromatiche presenti secondo la seguente classificazione: 
+ 1) aromatizzanti naturali, per le sostanze aromatizzanti defi- nite all'art. 2, comma 1, lettera b), numero 1); 
+ 2) aromatizzanti identici a quelli naturali, per le sostanze aromatizzanti definite all'art. 2, comma 1, lettera b), numero 2); 
+ 3) aromatizzanti artificiali, per sostanze aromatizzanti defi- nite all'art. 2, comma 1, lettera b), numero 3); 
+ 4) preparazioni aromatiche, per le preparazioni definite all'art. 2, comma 1, lettera c); 
+ 5) aromatizzanti di trasformazione, per gli aromi definiti all'art. 2, comma 1, lettera d); 
+ 6) aromatizzanti di affumicatura, per gli aromi definiti all'art. 2, comma 1, lettera e); 
+
+                            
+                        
+                        
+                            e)
+                            
+                                nel caso di miscele di aromi con gli additivi, i diluenti ed i solventi di cui all'art. 3, comma 1, l'enumerazione in ordine ponderale decrescente nella miscela: 
+ 1) delle categorie degli aromi secondo la classificazione di cui alla lettera d); 
+ 2) dei nomi di ciascun additivo, diluente e solvente o il relativo numero di indentificazione "CEE"; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                l'indicazione della quantita' massima di ciascun componente o gruppo di componenti, comprese le sostanze di cui all'art. 3, primo comma, oggetto di limitazione quantitativa in un prodotto alimentare o un'adeguata informazione che consenta all'utilizzatore di rispettare le limitazioni stesse; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                il lotto di fabbricazione ovvero un'indicazione che consenta di individuare la partita; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                la quantita' nominale.
+
 Il termine "naturale" o qualsiasi altra espressione che abbia lo stesso significato, puo' essere usato soltanto per gli aromi la cui componente aromatizzante contenga esclusivamente le sostanze aromatizzanti definite all'art. 2, comma 1, lettera b), numero 1) e le preparazioni aromatiche definite nell'art. 2, comma 1, lettera c), o entrambe.
 
 Se la denominazione di vendita dell'aroma contiene un riferimento ad un prodotto alimentare o ad una fonte di aromi, il termine "naturale" o qualsiasi altra espressione che abbia lo stesso significato puo' essere usato soltanto se la componente aromatizzante sia stata ottenuta mediante procedimenti fisici o mediante procedimenti enzimatici o microbiologici o mediante procedimenti tradizionali di preparazione dei prodotti alimentari unicamente o quasi unicamente a partire dall'alimento o dalla fonte di aromi considerati.
@@ -76,6 +222,75 @@ dette indicazioni possono essere fornite in piu' lingue.
 Le indicazioni devono essere facilmente visibili, chiaramente leggibili ed indelebili.
 
 ## Art. 9. — Etichettatura degli aromi destinati al consumatore finale
+
+1.
+                    
+                        
+                            Gli aromi destinati ad essere venduti al consumatore finale devono riportare sulla confezione o sul contenitore le seguenti indicazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                il termine "aroma" o una denominazione piu' specifica o una descrizione dell'aroma; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                la menzione "per prodotti alimentari", oppure un riferimento piu' specifico al prodotto alimentare cui l'aroma e' destinato; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                il termine minimo di conservazione; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                le condizioni particolari di conservazione e di utilizzazione; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                le istruzioni per l'uso, qualora la loro omissione non consenta l'uso appropriato dell'aroma; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                la quantita' netta; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                il nome o la ragione sociale e la sede del fabbricante o del confezionatore o di un venditore stabilito nella Comunita'; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                una indicazione che consenta di identificare il lotto; 
+
+                            
+                        
+                        
+                            i)
+                            
+                                nel caso di una miscela di uno o piu' aromi con altre sostanze l'enumerazione in ordine ponderale decrescente nella miscela: 
+ 1) dell'aroma o degli aromi in questione, conformemente alla lettera a); 
+ 2) dei nomi di ciascuna sostanza o materia o del numero di identificazione CEE.
 
 Il termine "naturale" o qualsiasi altra espressione che abbia un significato ragionevolmente equivalente puo' essere usato soltanto per gli aromi la cui componente aromatizzante contenga esclusivamente le sostanze aromatizzanti quali definite all'art. 2, comma 1, lettera b), numero 1) ((, o le preparazioni aromatiche definite all'art. 2)) comma 1, lettera c), o entrambe.
 

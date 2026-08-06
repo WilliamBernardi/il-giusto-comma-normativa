@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
 vigenza_date: 2025-05-14
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:31Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -33,6 +33,24 @@ Gli enti di prioritario interesse nazionale che operano nel settore musicale dev
  Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, comma 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con D.P.R. 28 dicembre 1985, n. 1092, al solo fine di facilitare la lettura delle disposizioni di legge o alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
 
 ## Art. 2. — Enti operanti nel settore musicale
+
+1.
+                        
+                            
+                                Il presente decreto si applica:
+ 
+                            
+                            
+                                a)
+                                
+                                    agli enti autonomi lirici e alle istituzioni concertistiche assimilate di cui al titolo II della legge 14 agosto 1967, n. 800, e successive modificazioni;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    ad altri enti operanti nel settore della musica, del teatro e della danza, identificati sulla base di criteri previamente definiti dal Ministro per i beni e le attivita' culturali, anche con riferimento alle categorie previste dal titolo III della legge 14 agosto 1967, n. 800, e succesive modificazioni.
 
 COMMA ABROGATO DAL D. LGS. 23 APRILE 1998, N. 134.
 
@@ -60,6 +78,31 @@ Le fondazioni di cui all'art. 1 hanno personalita' giuridica di diritto privato 
 La fondazione conseguente alla trasformazione dell'Accademia nazionale di Santa Cecilia assorbe la "Fondazione gestione autonoma dei concerti di Santa Cecilia", assumendo la titolarita' di tutti i rapporti attivi e passivi di tale ultima fondazione.
 
 ## Art. 6. — Contenuto della deliberazione
+
+1.
+                        
+                            
+                                La deliberazione di trasformazione deve contenere:
+ 
+                            
+                            
+                                a)
+                                
+                                    lo statuto della fondazione, deliberato dai fondatori, recante le indicazioni prescritte dall'art. 16 del codice civile e dal presente decreto;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    indicazione dei soggetti pubblici o privati che hanno dichiarato di voler concorrere o che sono tenuti a concorrere alla formazione del patrimonio iniziale o al finanziamento della gestione della fondazione e, in particolare, i soggetti privati che si sono obbligati per i tre anni successivi alla trasformazione a versare una somma costante per i primi tre periodi di imposta successivi alla data di pubblicazione del decreto di trasformazione in fondazione;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    un piano economico-finanziario triennale dal quale risulti che la gestione potra' svolgersi in condizioni di equilibrio economico-finanziario, tenuto conto degli apporti al patrimonio, dei trasferimenti pubblici, come ridefiniti dal successivo art. 24, dei nuovi ricavi e dei contributi acquisibili per effetto delle disposizioni del presente decreto.
 
 L'apporto dello Stato al patrimonio della fondazione e' costituito da una parte della somma spettante alla fondazione stessa per l'anno in cui avviene la trasformazione in conseguenza della ripartizione della quota del Fondo unico dello spettacolo destinata all'ente trasformato, ai sensi dell'art. 24. La misura dell'apporto corrisponde alla somma complessivamente conferita dai fondatori privati al patrimonio iniziale della fondazione.
 
@@ -115,6 +158,52 @@ In ogni caso, nel consiglio di amministrazione devono essere rappresentati l'aut
 
 Il consiglio di amministrazione della fondazione conseguente alla trasformazione dell'Accademia nazionale di Santa Cecilia e' composto da tredici membri, compresi il presidente ed il sindaco di Roma, dei quali uno designato dall'autorita' di Governo competente per lo spettacolo, uno dalla regione nel cui territorio la fondazione ha sede e cinque eletti dal corpo accademico.
 
+4.
+                        
+                            
+                                Il consiglio di amministrazione:
+ 
+                            
+                            
+                                a)
+                                
+                                    approva il bilancio di esercizio;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    nomina e revoca il sovrintendente;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    approva le modifiche statutarie;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    approva, su proposta del sovrintendente, con particolare attenzione ai vincoli di bilancio, i programmi di attivita' artistica, che devono essere accompagnati da proiezioni che ne dimostrino la compatibilita' con i bilanci degli esercizi precedenti e con i bilanci preventivi dell'esercizio in corso e degli esercizi futuri per i quali si estende il programma di attivita';
+
+                                
+                            
+                            
+                                e)
+                                
+                                    stabilisce gli indirizzi di gestione economica e finanziaria della fondazione;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    ha ogni potere concernente l'amministrazione ordinaria o straordinaria che non sia attribuito dalla legge o dallo statuto ad altro organo.
+
 I componenti del consiglio di amministrazione, ad eccezione del presidente, durano in carica quattro anni e possono essere riconfermati una sola volta. (10) ((11))
 
 Il consiglio di amministrazione puo' delegare ad uno o piu' dei suoi componenti particolari poteri, determinando i limiti della delega.
@@ -131,6 +220,45 @@ Lo statuto puo' prevedere che determinate deliberazioni siano prese con maggiora
                              Il D.L. 31 dicembre 2007, n. 248, convertito, con modificazioni, dalla L. 28 febbraio 2008, n. 31 ha disposto (con l'art. 5, comma 1) che " I termini di durata degli organi di cui agli articoli 12, comma 5, e 21, comma 2, del decreto legislativo 29 giugno 1996, n. 367, e successive modificazioni, (...) sono prorogati fino al 31 dicembre 2008."
 
 ## Art. 13. — Sovrintendente
+
+1.
+                        
+                            
+                                Il sovrintendente: 
+ 
+                            
+                            
+                                a)
+                                
+                                    tiene i libri e le scritture contabili di cui all'art. 16; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    predispone il bilancio d'esercizio, nonche', di concerto con il direttore artistico, i programmi di attivita' artistica da sottoporre alla deliberazione del consiglio di amministrazione; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    dirige e coordina in autonomia, nel rispetto dei programmi approvati e del vincolo di bilancio, l'attivita' di produzione artistica della fondazione e le attivita' connesse e strumentali; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    nomina e revoca, sentito il consiglio di amministrazione, il direttore artistico, i cui requisiti professionali sono individuati dallo statuto; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    partecipa alle riunioni del consiglio di amministrazione, come disposto dall'art. 12, comma 7.
 
 Il sovrintendente e' scelto tra persone dotate di specifica e comprovata esperienza nel settore dell'organizzazione musicale e della gestione di enti consimili; puo' nominare collaboratori, tra cui il direttore musicale, ferme restando le competenze del direttore artistico,della cui attivita' risponde direttamente. ((L'incarico di sovrintendente puo' essere conferito a soggetti che non abbiano compiuto il settantesimo anno di eta')).
 
@@ -184,6 +312,38 @@ Entro trenta giorni dall'approvazione, una copia del bilancio deve essere, a cur
 
 ## Art. 17. — Conservazione dei diritti
 
+1.
+                        
+                            
+                                I diritti e le prerogative riconosciuti dalla legge agli enti originari sono conservati quando le fondazioni:
+ 
+                            
+                            
+                                a)
+                                
+                                    abbiano assunto l'impegno di inserire nei programmi annuali di attivita' artistica opere di compositori nazionali;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    abbiano assunto l'impegno di prevedere incentivi per promuovere l'accesso ai teatri da parte di studenti e lavoratori;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    abbiano assunto l'impegno di coordinare la propria attivita' con quella di altri enti operanti nel settore delle esecuzioni musicali;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    abbiano previsto forme di incentivazione della produzione musicale nazionale, nel rispetto dei principi comunitari.
+
 Le fondazioni conservano i diritti, le attribuzioni e le situazioni giuridiche dei quali gli enti originari erano titolari. In particolare, le fondazioni conservano il diritto a percepire i contributi pubblici, ivi compresi quelli statali, regionali, provinciali o comunali, spettanti all'ente prima della trasformazione, fatta salva ogni successiva determinazione della loro misura; continuano ad utilizzare, al medesimo titolo dell'ente originario, i locali di proprieta' comunale, o comunque pubblica, attualmente utilizzati; conservano la qualificazione di particolare importanza eventualmente riconosciuta all'ente originario.
 
 ## Art. 18. — D e c a d e n z e
@@ -197,6 +357,24 @@ Le fondazioni conservano i diritti, le attribuzioni e le situazioni giuridiche d
 
 L'autorita' di Governo competente in materia di spettacolo verifica il rispetto degli impegni cui e' subordinata la conservazione dei diritti e delle prerogative riconosciuti dalla legge agli enti originari.
 
+2.
+                        
+                            
+                                L'autorita' di Governo competente in materia di spettacolo puo' disporre ispezioni, anche su proposta del Ministro del tesoro e all'esito di queste puo':
+ 
+                            
+                            
+                                a)
+                                
+                                    adottare i provvedimenti previsti all'art. 18;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    pronunciare, fermo quanto previsto dall'art. 14, comma 2, la decadenza dai diritti e dalle prerogative riconosciuti dalla legge agli enti originari.
+
 Le fondazioni trasmettono al Ministero del tesoro e all'autorita' di Governo competente in materia di spettacolo le informazioni, anche periodiche, da essi richieste.
 
 ## Art. 20. — I n s o l v e n z a
@@ -204,6 +382,24 @@ Le fondazioni trasmettono al Ministero del tesoro e all'autorita' di Governo com
 La fondazione che esercita un'attivita' commerciale e' soggetta, in caso di insolvenza, alla procedura di liquidazione coatta amministrativa con esclusione del fallimento.
 
 ## Art. 21. — Amministrazione straordinaria
+
+1.
+                        
+                            
+                                Il Ministro per i beni e le attivita' culturali, anche su proposta del Ministro dell'economia e delle finanze: 
+ 
+                            
+                            
+                                a)
+                                
+                                    puo' disporre lo scioglimento del Consiglio di amministrazione della fondazione quando risultino gravi irregolarita' nell'amministrazione, ovvero gravi violazioni delle disposizioni legislative, amministrative o statutarie che regolano l'attivita' della fondazione o venga presentato il bilancio preventivo in perdita; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    LETTERA ABROGATA DALLA L. 24 DICEMBRE 2007, N. 244. (5)
 
 L'autorita' di cui al comma 1 dispone in ogni caso lo scioglimento del consiglio di amministrazione della fondazione quando i conti economici di due esercizi consecutivi chiudono con una perdita del periodo complessivamente superiore al 30 per cento del patrimonio disponibile, ovvero sono previste perdite del patrimonio disponibile di analoga gravita'. (10)
 
@@ -266,6 +462,31 @@ Le fondazioni possono altresi' avviare, per i residui posti disponibili rispetto
 ## Art. 23. — Corpi artistici
 
 Il personale dipendente della fondazione puo' svolgere attivita' di lavoro autonomo per prestazioni di alto valore artistico e professionale, con l'autorizzazione del consiglio di amministrazione delle fondazioni, e sempre che cio' non pregiudichi le esigenze produttive della fondazione.
+
+2.
+                        
+                            
+                                I corpi artistici possono costituirsi in forma organizzativa autonoma, se cio' non pregiudica il regolare svolgimento dell'attivita' della fondazione, previa autorizzazione del consiglio di amministrazione, ed in presenza di espliciti impegni in ordine:
+ 
+                            
+                            
+                                a)
+                                
+                                    al mantenimento del rapporto di lavoro con la fondazione da parte di tutti i componenti del corpo artistico e all'indicazione di tale appartenenza in occasione delle manifestazioni cui il corpo organizzato partecipa, salvo che la costituzione in forma autonoma non sia concordata in vista di una consensuale cessazione del rapporto di lavoro dipendente;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    alla tutela delle esigenze organizzative dell'ente, con particolare riferimento alla utilizzazione del personale necessario per assicurare lo svolgimento continuo e programmato dell'attivita';
+
+                                
+                            
+                            
+                                c)
+                                
+                                    al riconoscimento all'ente di vantaggi economici, previamente concordati, in termini di cessione totale o parziale di diritti radiofonici o televisivi, o di partecipazione ai proventi dell'attivita', anche in considerazione della utilizzazione del nome della fondazione. ((13))
 
 Alle erogazioni liberali in denaro a favore dei corpi artistici organizzati si applica la disciplina prevista dagli articoli 13-bis, comma 1, lettera i), 65, comma 2, lettera c-quinquies), e 110-bis del testo unico delle imposte sui redditi approvato con decreto del Presidente della Repubblica 22 dicembre 1986, n. 917, e successive modificazioni.
 

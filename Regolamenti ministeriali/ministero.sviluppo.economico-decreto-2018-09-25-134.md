@@ -7,8 +7,8 @@ urn: urn:nir:ministero.sviluppo.economico:decreto:2018-09-25;134
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:40Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -28,6 +28,42 @@ Udito il parere del Consiglio di Stato, espresso dalla Sezione consultiva per gl
 
 ## Art. 1. — Titoli abilitativi
 
+1.
+                    
+                        
+                            Ai sensi dell'articolo 163, del decreto legislativo 1° agosto 2003, n. 259, e successive modifiche e integrazioni, sono stabiliti i sottoelencati titoli di abilitazione all'esercizio di stazioni di navi e di stazioni terrene di nave, che utilizzano le frequenze e le tecniche del GMDSS, che costituiscono certificati di competenza del radio operatore, di cui all'articolo 5: 
+ 
+                        
+                        
+                            a)
+                            
+                                certificato generale di operatore (GOC); 
+
+                            
+                        
+                        
+                            b)
+                            
+                                certificato limitato di operatore (ROC).
+
+2.
+                    
+                        
+                            Ai sensi dell'articolo 163, del decreto legislativo 1° agosto 2003, n. 259, e successive modificazioni, sono stabiliti i sottoelencati titoli di abilitazione all'esercizio di stazioni di navi e di stazioni terrene di nave, installate a bordo di navi non soggette agli obblighi fissati dalla Convenzione internazionale per la salvaguardia della vita umana in mare (Solas 74/83), e successivi emendamenti, che utilizzano le frequenze e le tecniche del GMDSS: 
+ 
+                        
+                        
+                            a)
+                            
+                                certificato di operatore Long Range (LRC); 
+
+                            
+                        
+                        
+                            b)
+                            
+                                certificato di operatore Short Range (SRC).
+
 Il certificato di operatore Long Range (LRC) abilita all'esercizio delle stazioni radioelettriche installate a bordo di navi operanti nelle zone di mare A1, A2, A3 e A4, cosi' come definite dalla Convenzione internazionale per la salvaguardia della vita umana in mare (SOLAS).
 
 Il certificato di operatore Short Range (SRC) abilita all'esercizio delle stazioni radioelettriche installate a bordo di navi operanti nella zona di mare A1, cosi' come definita dalla Convenzione internazionale per la salvaguardia della vita umana in mare (SOLAS).
@@ -38,7 +74,64 @@ Il certificato generale ed il certificato limitato di operatore, di cui al prece
 
 I certificati di operatore di cui all'articolo 1, comma 2, vengono conseguiti mediante superamento degli esami, consistenti in prove pratiche ed orali, i cui programmi sono contenuti rispettivamente negli allegati 3 e 4 al presente decreto, del quale costituiscono parte integrante. I programmi di esame, indicati negli allegati 3 e 4, prevedono, tra l'altro, le modalita' di espletamento del servizio mobile marittimo e del servizio mobile marittimo via satellite.
 
+3.
+                    
+                        
+                            Per l'ammissione agli esami per il conseguimento dei certificati di cui al precedente articolo 1, comma 1 e 2, i candidati devono: 
+ 
+                        
+                        
+                            a)
+                            
+                                nel caso dei certificati di cui all'articolo 1, comma 1, avere almeno 18 anni; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                nel caso dei certificati di cui all'articolo 1, comma 2, avere almeno 16 anni.
+
 ## Art. 3. — Commissione esaminatrice
+
+1.
+                    
+                        
+                            La commissione esaminatrice per il conseguimento dei certificati di cui al presente decreto e' nominata con determina del direttore generale della Direzione generale competente al rilascio dei certificati di cui al presente regolamento, ed e' costituita da: 
+ 
+                        
+                        
+                            a)
+                            
+                                un dirigente di livello non generale del Ministero dello sviluppo economico con funzioni di Presidente; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                due funzionari del Ministero dello sviluppo economico in possesso del certificato generale di operatore GOC; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                un funzionario del Ministero dello sviluppo economico in possesso di un certificato che attesti la conoscenza della lingua inglese corrispondente al livello B2 o, in alternativa, corrispondente al livello B1 con esperienza, almeno di due anni, come esaminatore per il conseguimento dei certificati GOC, ROC, LRC e SRC o come rappresentante dell'Amministrazione negli incontri internazionali per attivita' istituzionale. Tali livelli sono quelli ascrivibili al Quadro Comune Europeo di Riferimento per la conoscenza delle Lingue (QCER); 
+
+                            
+                        
+                        
+                            d)
+                            
+                                un funzionario del Ministero delle infrastrutture e trasporti, avente competenza in materia di trasporto marittimo; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                un funzionario del Ministero dello sviluppo economico con funzioni di segretario.
 
 La commissione esaminatrice opera a titolo gratuito e non e' previsto alcun compenso a tal fine.
 

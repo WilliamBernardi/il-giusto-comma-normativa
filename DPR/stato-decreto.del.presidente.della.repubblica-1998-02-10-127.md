@@ -8,8 +8,8 @@ codice_redazionale: 098G0175
 vigente: true
 source: normattiva-opendata
 collection: DPR
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:48:05Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -33,6 +33,27 @@ All'articolo 9 del decreto del Presidente della Repubblica 1 marzo 1992, n. 228,
  Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, commi 2 e 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con D.P.R. 28 dicembre 1985, n. 1092, al solo fine di facilitare la lettura delle disposizioni di legge modificate o alle quali e' operato il rinvio. Restano invariati il valore e l'efficiacia degli atti legislativi qui trascritti.
 
 ## Art. 2.
+
+1.
+                    
+                        
+                            All'articolo 15 del decreto del Presidente della Repubblica 1 marzo 1992, n. 228, sono apportate le seguenti modifiche:
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 1, lettera a), dopo le parole: "gli additivi", sono aggiunte le seguenti: "fatta eccezione per gli enzimi e i microorganismi";
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 1, dopo la lettera b) e' aggiunta, infine, la seguente:
+ "bbis) per gli additivi appartenenti ai gruppi:
+ 1) degli enzimi: il nome specifico del componente o dei componenti attivi a seconda della loro attivita' enzimatica conformemente agli allegati I o II; il numero di identificazione secondo l'International Union of Biochemistry; le unita' di attivita' per grammo o millilitro espresse in micromoli di prodotto liberato al minuto, per grammo di preparato enzimatico; il nome o la ragione sociale e l'indirizzo o la sede sociale del responsabile delle indicazioni di cui al presente articolo e il nome o la ragione sociale e l'indirizzo o la sede sociale del fabbricante, se quest'ultimo non e' responsabile delle indicazioni di etichettatura; la data limite di garanzia o la durata di conservazione a decorrere dalla data di fabbricazione; il numero di riferimento della partita e la data di fabbricazione; l'indicazione ''riservato esclusivamente alla fabbricazione di alimenti per animali'', le istruzioni per l'uso ed eventualmente una raccomandazione riguardante la sicurezza d'impiego quando questi additivi sono oggetto di disposizioni particolari negli allegati I o II, nella colonna ''altre disposizioni''; il peso netto e per gli additivi liquidi il volume netto o il peso netto; ove necessario anche l'indicazione delle particolari caratteristiche significative derivanti dal processo di fabbricazione, conformemente alle disposizioni previste in materia di etichettatura nella colonna ''altre disposizioni'' degli allegati I o II;
+ 2) dei microorganismi: l'identificazione del ceppo o dei ceppi conformemente agli allegati I o II; il numero di deposito del ceppo o dei ceppi; il numero di unita' che formano colonie per grammo (CFU/g); il nome o la ragione sociale e l'indirizzo o la sede sociale del responsabile delle indicazioni di cui al presente articolo; il nome o la ragione sociale e l'indirizzo o la sede sociale del fabbricante, se quest'ultimo non e' responsabile delle indicazioni di etichettatura; la data limite di garanzia o la durata di conservazione a decorrere dalla data di fabbricazione; il numero di riferimento della partita e la data di fabbricazione; l'indicazione ''riservato esclusivamente alla fabbricazione di alimenti per animali''; le istruzioni per l'uso ed eventualmente una raccomandazione riguardante la sicurezza d'impiego quando questi additivi sono oggetto di disposizioni particolari negli allegati I o II, nella colonna ''altre disposizioni''; il peso netto e per gli additivi liquidi il volume netto o il peso netto; ove necessario, anche l'indicazione delle particolari caratteristiche significative derivanti dal processo di fabbricazione, conformemente alle disposizioni previste in materia di etichettatura nella colonna ''altre disposizioni'' degli allegati I o II.".
 
 ## Art. 3.
 

@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
 vigenza_date: 2019-06-27
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:24Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -40,12 +40,204 @@ I risultati delle sperimentazioni condotte in difformita' alle norme di buona pr
 
 ## Art. 2. — Definizioni
 
+1.
+                    
+                        
+                            Ai fini del presente decreto legislativo si applicano le seguenti definizioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                "sperimentazione clinica"; qualsiasi studio sull'uomo finalizzato a scoprire o verificare gli effetti clinici, farmacologici e/o altri effetti farmacodinamici di uno o piu' medicinali sperimentali, e/o a individuare qualsiasi reazione avversa ad uno a piu' medicinali sperimentali, e/o a studiarne l'assorbimento, la distribuzione, il metabolismo e l'eliminazione, con l'obiettivo di accertarne la sicurezza e/o l'efficacia, nonche' altri elementi di carattere scientifico e non . Questa definizione include le sperimentazioni cliniche effettuate in un unico centro o in piu' centri, solo in Italia o anche in altri Stati membri dell'Unione europea; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                "sperimentazione clinica multicentrica": la sperimentazione clinica effettuata in base ad un unico protocollo in piu' di un centro e che pertanto viene eseguita da piu' sperimentatori; i centri in cui si effettua la sperimentazione possono essere ubicati solo in Italia, oppure anche in altri Stati dell'Unione europea e/o Paesi terzi; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                "sperimentazione non interventistica (studio osservazionale)": uno studio nel quale i medicinali sono prescritti secondo le indicazioni dell'autorizzazione all'immissione in commercio.
+L'assegnazione del paziente a una determinata strategia terapeutica non e' decisa in anticipo da un protocollo di sperimentazione, ma rientra nella normale pratica clinica e la decisione di prescrivere il medicinale e' del tutto indipendente da quella di includere il paziente nello studio. Ai pazienti non si applica nessuna procedura supplementare di diagnosi o monitoraggio; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                "medicinale sperimentale": 
+ 1) una forma farmaceutica di un principio attivo o di un placebo saggiato come medicinale sperimentale o come controllo in una sperimentazione clinica, compresi i prodotti che hanno gia' ottenuto un'autorizzazione di commercializzazione ma che sono utilizzati o preparati (secondo formula magistrale o confezionati) in forme diverse da quella autorizzata, o quando sono utilizzati per indicazioni non autorizzate o per ottenere ulteriori informazioni sulla forma autorizzata o comunque utilizzati come controllo; 
+ 2) i medicinali non oggetto dello studio sperimentale, ma comunque utilizzati nell'ambito di una sperimentazione, quando essi non sono autorizzati al commercio in Italia o sono autorizzati ma utilizzati in maniera difforme all'autorizzazione. 
+
+                            
+                        
+                        
+                            e)
+                            
+                                "promotori della sperimentazione": una persona, societa', istituzione oppure un organismo che si assume la responsabilita' di avviare, gestire ed eventualmente finanziare una sperimentazione clinica; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                "sperimentatore": un medico o un odontoiatra qualificato ai fini delle sperimentazioni, responsabile dell'esecuzione della sperimentazione clinica in un dato centro. Se la sperimentazione e' svolta da un gruppo di persone nello stesso centro, lo sperimentatore responsabile del gruppo e' definito "sperimentatore principale"; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                "dossier per lo sperimentatore": la raccolta di dati clinici e non clinici sul medicinale o sui medicinali in fase di sperimentazione che sono pertinenti per lo studio dei medesimi nell'uomo; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                "protocollo": il documento in cui vengono descritti l'obiettivo o gli obiettivi, la progettazione, la metodologia, gli aspetti statistici e l'organizzazione della sperimentazione, il termine "protocollo" comprende il protocollo, le versioni successive e le modifiche dello stesso; 
+
+                            
+                        
+                        
+                            i)
+                            
+                                "soggetto": la persona che partecipa a una sperimentazione clinica, sia come destinataria del medicinale in sperimentazione sia come controllo; 
+
+                            
+                        
+                        
+                            l)
+                            
+                                "consenso informato": la decisione di un soggetto candidato ad essere incluso in una sperimentazione, scritta, datata e firmata, presa spontaneamente, dopo esaustiva informazione circa la natura, il significato, le conseguenze ed i rischi della sperimentazione e dopo aver ricevuto la relativa documentazione appropriata. La decisione e' espressa da un soggetto capace di dare il consenso, ovvero, qualora si tratti di una persona che non e' in grado di farlo, dal suo rappresentante legale o da un'autorita', persona o organismo nel rispetto delle disposizioni normative vigenti in materia. Se il soggetto non e' in grado di scrivere, puo' in via eccezionale fornire un consenso orale alla presenza di almeno un testimone, nel rispetto della normativa vigente; 
+
+                            
+                        
+                        
+                            m)
+                            
+                                "comitato etico": un organismo indipendente, composto da personale sanitario e non, che ha la responsabilita' di garantire la tutela dei diritti, della sicurezza e del benessere dei soggetti in sperimentazione e di fornire pubblica garanzia di tale tutela, esprimendo, ad esempio, un parere sul protocollo di sperimentazione, sull'idoneita' degli sperimentatori, sulla adeguatezza delle strutture e sui metodi e documenti che verranno impiegati per informare i soggetti e per ottenerne il consenso informato; 
+
+                            
+                        
+                        
+                            n)
+                            
+                                "ispezione": svolgimento da parte del Ministero della salute e/o di autorita' regolatorie di altri Stati di un controllo ufficiale dei documenti, delle strutture, delle registrazioni, dei sistemi per la garanzia di qualita' e di qualsiasi altra risorsa che le predette autorita' giudicano pertinenti. L'ispezione puo' svolgersi presso il centro di sperimentazione, presso le strutture del promotore della sperimentazione e/o presso le strutture di organizzazioni di ricerca a contratto, oppure in altri luoghi ritenuti appropriati da tali Autorita'; 
+
+                            
+                        
+                        
+                            o)
+                            
+                                "evento avverso": qualsiasi evento clinico dannoso che si manifesta in un paziente o in un soggetto coinvolto in un sperimentazione clinica cui e' stato somministrato un medicinale, e che non ha necessariamente un rapporto causale con questo trattamento; 
+
+                            
+                        
+                        
+                            p)
+                            
+                                "reazione avversa": qualsiasi reazione dannosa e indesiderata a un medicinale in fase di sperimentazione, a prescindere dalla dose somministrata; 
+
+                            
+                        
+                        
+                            q)
+                            
+                                "evento avverso serio o reazione avversa seria": qualsiasi evento avverso o reazione avversa che, a prescindere dalla dose, ha esito nella morte o mette in pericolo la vita del soggetto, richiede un ricovero ospedaliero o prolunga una degenza in ospedale, o che determina invalidita' o incapacita' gravi o prolungate, o comporta un'anomalia congenita o un difetto alla nascita; 
+
+                            
+                        
+                        
+                            r)
+                            
+                                "reazione avversa inattesa": una reazione avversa di natura o gravita' non prevedibili in base alle informazioni relative al prodotto (per esempio a quelle riportate nel dossier per lo sperimentatore se il prodotto e' in sperimentazione o, nel caso di un prodotto autorizzato, nella scheda delle caratteristiche del prodotto); 
+
+                            
+                        
+                        
+                            s)
+                            
+                                "centro collaboratore": centro, ove non opera lo sperimentatore coordinatore, che partecipa ad una sperimentazione multicentrica; 
+
+                            
+                        
+                        
+                            t)
+                            
+                                "Autorita' competente": 
+ 1) il direttore generale o il responsabile legale, ai sensi delle vigenti disposizioni normative, delle strutture sanitarie pubbliche o delle strutture equiparate a quelle pubbliche, come individuate con decreto del Ministro della salute, ove si svolge la sperimentazione clinica; 
+ 1-bis) il Direttore generale dell'Azienda sanitaria locale competente per territorio nei casi di strutture private autorizzate alla sperimentazione clinica ai sensi della normativa vigente; 
+ 2) Il Ministero della salute nei casi di cui: 
+ a) al decreto del Ministro della salute previsto dal comma 5 dell'articolo 9; 
+ b) ai medicinali elencati al comma 6 dell'articolo 9; 
+ 3) L'Istituto superiore di sanita', nei casi di farmaci di nuova istituzione di cui al decreto del Presidente della Repubblica 21 settembre 2001, n. 439, e comunque per tutte le sperimentazioni di fase I.((4))
+
 ---------------
                         AGGIORNAMENTO (4)
                         
  Il D.L. 13 settembre 2012, n. 158, convertito con modificazioni dalla L. 8 novembre 2012, n. 189, ha disposto (con l'art. 12, comma 9) che "Le competenze in materia di sperimentazione clinica dei medicinali attribuite dal decreto legislativo 24 giugno 2003, n. 211, all'Istituto superiore di sanita' sono trasferite all'AIFA, la quale si avvale del predetto Istituto, senza nuovi o maggiori oneri a carico della finanza pubblica, ai fini dell'esercizio delle funzioni trasferite, secondo modalita' stabilite con decreto del Ministro della salute, sentiti i due enti interessati. Fino all'adozione del decreto del Ministro della salute, l'Istituto superiore di sanita', raccordandosi con l'AIFA, svolge le competenze ad esso gia' attribuite, secondo le modalita' previste dalle disposizioni previgenti. Sono altresi' trasferite all'AIFA le competenze di cui all'articolo 2, comma 1, lettera t), numeri 1) e 1-bis), del decreto legislativo 24 giugno 2003, n. 211. Sono confermate in capo all'AIFA le competenze in materia di sperimentazione clinica di medicinali attribuite dal citato decreto legislativo n. 211 del 2003 al Ministero della salute e trasferite all'AIFA ai sensi dell'articolo 48 del decreto-legge 30 settembre 2003, n. 269, convertito, con modificazioni, dalla legge 24 novembre 2003, n. 326, e successive modificazioni."
 
 ## Art. 3. — Tutela dei soggetti della sperimentazione clinica
+
+1.
+                    
+                        
+                            La sperimentazione clinica puo' essere intrapresa esclusivamente a condizione che:
+ 
+                        
+                        
+                            a)
+                            
+                                i rischi e gli inconvenienti prevedibili siano stati soppesati rispetto al vantaggio per il soggetto incluso nella sperimentazione e per altri pazienti attuali e futuri. Una sperimentazione clinica puo' essere avviata nel singolo centro solo se il comitato etico e, ove previsto, le autorita' competenti sono giunti alla conclusione che i benefici previsti, terapeutici e in materia di sanita' pubblica, giustificano i rischi e puo' essere proseguita solo se il rispetto di tale requisito e' costantemente verificato;
+
+                            
+                        
+                        
+                            b)
+                            
+                                il soggetto che partecipa alla sperimentazione, o il suo rappresentante legale se il soggetto non e' in grado di fornire il consenso informato, abbia avuto la possibilita', in un colloquio preliminare con uno degli sperimentatori, di comprendere gli obiettivi, i rischi e gli inconvenienti della sperimentazione, le condizioni in cui sara' realizzata, e inoltre sia stato informato del suo diritto di ritirarsi dalla sperimentazione in qualsiasi momento;
+
+                            
+                        
+                        
+                            c)
+                            
+                                sia rispettato il diritto all'integrita' fisica e mentale dei soggetti e alla riservatezza, come pure alla protezione dei dati che li riguardano secondo le modalita' (( di cui al decreto legislativo 30 giugno 2003, n. 196 ))
+                                
+                            
+                        
+                        
+                            d)
+                            
+                                il soggetto che partecipa alla sperimentazione o, qualora la persona non sia in grado di fornire il proprio consenso informato, il suo rappresentante legale, abbia dato il suo consenso dopo essere stato informato della natura, dell'importanza, della portata e dei rischi della sperimentazione clinica. Se l'interessato non e' in grado di scrivere, puo' in via eccezionale, fornire un consenso orale alla presenza di almeno un testimone, nel rispetto delle disposizioni normative vigenti in materia;
+
+                            
+                        
+                        
+                            e)
+                            
+                                il soggetto possa rinunciare a partecipare alla sperimentazione clinica in qualsiasi momento senza alcun pregiudizio, revocando il proprio consenso informato;
+
+                            
+                        
+                        
+                            f)
+                            
+                                il promotore della sperimentazione provvede alla copertura assicurativa relativa al risarcimento dei danni cagionati ai soggetti dall'attivita' di sperimentazione, a copertura della responsabilita' civile dello sperimentatore e dei promotori della sperimentazione;
+
+                            
+                        
+                        
+                            g)
+                            
+                                il centro di sperimentazione indichi ai soggetti in sperimentazione, o ai loro rappresentanti legali, (( un medico di riferimento operante nella struttura ove si svolge la sperimentazione dal quale )) sia possibile avere ulteriori informazioni.
 
 Le cure mediche prestate ai soggetti e le decisioni di carattere clinico adottate nei loro confronti sono di competenza di un medico adeguatamente qualificato oppure, eventualmente, di un odontoiatra qualificato.
 
@@ -56,14 +248,222 @@ Nel caso in cui il promotore della sperimentazione sia soggetto pubblico, alle s
 
 ## Art. 4. — Sperimentazione clinica sui minori
 
+1.
+                    
+                        
+                            In aggiunta a tutte le altre prescrizioni previste dal presente decreto, la sperimentazione clinica sui minori puo' essere intrapresa soltanto se esistono le seguenti condizioni:
+ 
+                        
+                        
+                            a)
+                            
+                                sia stato ottenuto il consenso informato dei genitori o dell'altro genitore in mancanza di uno di essi o del rappresentante legale nel rispetto delle disposizioni normative vigenti in materia; il consenso deve comunque rispecchiare la volonta' del minore e deve poter essere ritirato in qualsiasi momento senza che cio' comprometta il proseguimento dell'assistenza necessaria;
+
+                            
+                        
+                        
+                            b)
+                            
+                                il minore abbia ricevuto, da personale esperto nel trattare con minori, informazioni commisurate alla sua capacita' di comprensione sulla sperimentazione, i rischi e i benefici;
+
+                            
+                        
+                        
+                            c)
+                            
+                                lo sperimentatore o lo sperimentatore principale tenga in considerazione la volonta' esplicita del minore di rifiutare la partecipazione alla sperimentazione o di ritirarsene in qualsiasi momento, se il minore stesso e' capace di formarsi un'opinione propria e di valutare le informazioni di cui alla lettera b);
+
+                            
+                        
+                        
+                            d)
+                            
+                                il gruppo di pazienti tragga dalla sperimentazione clinica qualche beneficio diretto e solo se la ricerca e' essenziale per convalidare dati ottenuti in sperimentazioni cliniche su persone in grado di dare il loro consenso informato o ottenuti con altri metodi di ricerca; inoltre, la ricerca deve riguardare direttamente uno stato clinico di cui soffre il minore o essere di natura tale da poter essere intrapresa solo su minori;
+
+                            
+                        
+                        
+                            e)
+                            
+                                siano state seguite e linee guida scientifiche pertinenti, adottate dall'Agenzia europea di valutazione dei medicinali (EMEA);
+
+                            
+                        
+                        
+                            f)
+                            
+                                le sperimentazioni cliniche siano state concepite in modo da ridurre al minimo il dolore, il disagio, la paura e ogni altro rischio prevedibile, in relazione alla malattia e allo stadio di sviluppo del minore; la soglia del rischio ed il grado di malessere devono essere definiti specificamente e continuamente monitorati;
+
+                            
+                        
+                        
+                            g)
+                            
+                                il protocollo sia stato approvato da un comitato etico con competenza anche pediatrica o che si sia preventivamente avvalso di una consulenza in merito alle questioni cliniche, etiche e psicosociali in ambito pediatrico;
+
+                            
+                        
+                        
+                            h)
+                            
+                                l'interesse del paziente prevalga sempre sugli interessi della scienza e della societa'.
+
 ## Art. 5. — Sperimentazione clinica su adulti incapaci di dare
  validamente il proprio consenso informato
+
+1.
+                    
+                        
+                            Oltre ai requisiti di cui all'articolo 3, la partecipazione ad una sperimentazione clinica degli adulti incapaci che non hanno dato o non hanno rifiutato il loro consenso informato prima che insorgesse l'incapacita' e' possibile solo a condizione che:
+ 
+                        
+                        
+                            a)
+                            
+                                sia stato ottenuto il consenso informato del rappresentante legale; il consenso deve rappresentare la presunta volonta' del soggetto e puo' essere ritirato in qualsiasi momento senza pregiudizio per il soggetto stesso;
+
+                            
+                        
+                        
+                            b)
+                            
+                                la persona abbia ricevuto informazioni adeguate alla sua capacita' di comprendere la sperimentazione ed i relativi rischi e benefici;
+
+                            
+                        
+                        
+                            c)
+                            
+                                lo sperimentatore, o lo sperimentatore principale ove appropriato, tenga conto del desiderio esplicito di un soggetto in sperimentazione in grado di formarsi un opinione propria e di valutare tali informazioni, di rifiutare la partecipazione o di ritirarsi dalla sperimentazione clinica in qualsiasi momento;
+
+                            
+                        
+                        
+                            d)
+                            
+                                non vengano dati incentivi o benefici finanziari ad eccezione delle indennita' che, ove il promotore la sperimentazione sia un soggetto pubblico, potranno essere concesse solo nei limiti degli stanziamenti di bilancio ad esso assegnati;
+
+                            
+                        
+                        
+                            e)
+                            
+                                la ricerca sia essenziale per convalidare dati ottenuti in sperimentazioni cliniche su persone in grado di dare un consenso informato o ottenuti con altri metodi di ricerca e riguardi direttamente uno stato clinico che ponga a rischio la vita o determini una condizione clinica debilitante di cui il soggetto soffre;
+
+                            
+                        
+                        
+                            f)
+                            
+                                le sperimentazioni cliniche siano state concepite in modo da ridurre al minimo il dolore, il disagio, la paura e gli altri rischi prevedibili in relazione alla malattia e allo stadio di sviluppo; sia la soglia del rischio che il grado di malessere devono essere definiti specificamente ed essere continuamente monitorati;
+
+                            
+                        
+                        
+                            g)
+                            
+                                il protocollo sia stato approvato da un comitato etico competente sia nel campo della malattia in questione, sia per quanto riguarda le caratteristiche proprie della popolazione di pazienti interessata, o previa consulenza in merito alle questioni cliniche, etiche e psicosociali nell'ambito della malattia e della popolazione di pazienti interessata;
+
+                            
+                        
+                        
+                            h)
+                            
+                                gli interessi dei pazienti prevalgano sempre su quelli della scienza e della societa';
+
+                            
+                        
+                        
+                            i)
+                            
+                                vi sia motivo di ritenere che la somministrazione del medicinale da sperimentare rechi al paziente un beneficio superiore ai rischi o che non produca alcun rischio.
 
 Nei casi di incapacita' temporanea, all'atto della riacquisizione delle proprie capacita' decisionali, al soggetto deve essere richiesto il consenso informato al proseguimento della sperimentazione.
 
 ## Art. 6. — Comitato etico
 
 Il comitato etico deve emettere il proprio parere prima dell'inizio di qualsiasi sperimentazione clinica in merito alla quale e' stato interpellato.
+
+2.
+                    
+                        
+                            Il comitato etico formula il parere di cui al comma 1, tenendo in particolare considerazione: 
+ 
+                        
+                        
+                            a)
+                            
+                                la pertinenza e la rilevanza della sperimentazione clinica e del disegno dello studio; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                se la valutazione dei benefici e dei rischi prevedibili soddisfi quanto previsto dall'articolo 3, comma 1, lettera a), se le conclusioni siano giustificate; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                il protocollo; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                l'idoneita' dello sperirrentatore e dei suoi collaboratori; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                il dossier per lo sperimentatore; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                l'adeguatezza della struttura sanitaria; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                l'adeguatezza e la completezza delle informazioni scritte da comunicare al soggetto e la procedura da seguire per sottoporre allo stesso il consenso informato, nonche' la giustificazione per la ricerca su persone che non sono in grado di dare il loro consenso informato per quanto riguarda le restrizioni specifiche stabilite dall'articolo 3; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                le disposizioni previste in materia di risarcimento in caso di danni o di decesso imputabili alla sperimentazione clinica; 
+
+                            
+                        
+                        
+                            i)
+                            
+                                le disposizioni in materia di assicurazione relative al risarcimento dei danni cagionati ai soggetti dall'attivita' di sperimentazione, a copertura della responsabilita' civile dello sperimentatore e del promotore della sperimentazione; 
+
+                            
+                        
+                        
+                            l)
+                            
+                                gli importi e le eventuali modalita' di retribuzione o di compenso o di emolumenti di qualsiasi natura da corrispondersi a favore degli sperimentatori e l'eventuale indennita' dei soggetti inclusi nella sperimentazione e gli elementi rilevanti del contratto tra il promotore della sperimentazione e il centro sperimentale; 
+
+                            
+                        
+                        
+                            m)
+                            
+                                le modalita' di arruolamento dei soggetti e le procedure informative per diffondere la conoscenza della sperimentazione nel rispetto di quanto previsto al riguardo dalle norme di buona pratica clinica e nel rispetto delle disposizioni normative vigenti.
 
 Il comitato etico nel caso di sperimentazioni monocentriche, entro sessanta giorni dalla data di ricevimento della domanda presentata dal promotore della sperimentazione nella forma prescritta, comunica al promotore stesso, al Ministero della salute e all'autorita' competente, il proprio parere motivato. Nel caso di sperimentazioni multicentriche si applica quanto disposto dall'articolo 7.
 
@@ -131,6 +531,31 @@ Nei casi di cui al comma 8, il richiedente l'autorizzazione versa una tariffa da
 
 Le entrate derivanti dalle tariffe di cui al comma 9 sono versate all'entrata del bilancio dello Stato, per essere riassegnate ad apposita unita' previsionale di base dello stato di previsione del Ministero della salute. Il Ministro dell'economia e delle finanze e' autorizzato ad apportare, con proprio decreto, le occorrenti variazioni di bilancio. ((5))
 
+11.
+                    
+                        
+                            Con decreto del Ministro della salute, che traspone nell'ordinamento nazionale le indicazioni dettagliate pubblicate dalla Commissione europea, sono stabiliti: 
+ 
+                        
+                        
+                            a)
+                            
+                                il modello e il contenuto della domanda di cui al comma 2, nonche' la documentazione da presentare a sostegno della domanda circa la qualita' e la fabbricazione del medicinale in fase di sperimentazione, la prove tossicologiche e farmacologiche, il protocollo e le informazioni di carattere clinico sul medicinale stesso, incluso il dossier per lo sperimentatore, fatte salve ulteriori integrazioni definite ai sensi del comma 2 dell'articolo 4 del decreto del Presidente della Repubblica 21 settembre 2001, n. 439; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                il modello e il contenuto della proposta di emendamenti di cui all'articolo 11, comma 1, lettera a), relativa alle modifiche sostanziali apportate al protocollo; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                la dichiarazione di conclusione o di cessazione della sperimentazione.
+
 Le sperimentazioni cliniche sono condotte nelle strutture gia' individuate con gli appositi decreti del Ministro della salute.
 
 ------------
@@ -140,15 +565,111 @@ Le sperimentazioni cliniche sono condotte nelle strutture gia' individuate con g
 
 ## Art. 10. — Conduzione di una sperimentazione clinica
 
+1.
+                    
+                        
+                            La conduzione di una sperimentazione clinica puo' essere modificata con le seguenti modalita':
+ 
+                        
+                        
+                            a)
+                            
+                                anche a sperimentazione iniziata, o solo corredata di parere favorevole del comitato etico, il promotore della sperimentazione puo' apportare emendamenti al protocollo. Il promotore della sperimentazione comunica alle autorita' competenti e al comitato o ai comitati etici competenti i motivi e il contenuto degli emendamenti, seguendo le procedure di cui agli articoli 6, 7 e 9 ove gli stessi siano sostanziali di tali da incidere sulla sicurezza dei soggetti della sperimentazione o modificare l'interpretazione della documentazione scientifica a sostegno dello svolgimento della sperimentazione, oppure siano significativi in relazione allo svolgimento clinico dello studio. Seguono la procedura della semplice notifica ai comitati etici gli emendamenti che non rientrano nella fattispecie di cui sopra; con decreto del Ministro della salute sono definite specifiche al riguardo. In base agli elementi di cui all'articolo 6, comma 2, nei casi di sperimentazioni monocentriche il comitato etico emette un parere entro trentacinque giorni a decorrere dalla data di ricevimento della proposta di modifica nella forma prescritta. Nei casi di sperimentazioni multicentriche il comitato etico di cui al comma 1 dell'articolo 7 emette detto parere entro venti giorni e i comitati di cui al comma 3 del medesimo articolo 7 possono solo accettarlo ovvero rifiutarlo nel suo complesso entro i successivi quindici giorni. In caso di parere negativo da parte del comitato etico sulle proposte di modifica al protocollo, il promotore della sperimentazione non puo' procedere alla sperimentazione sulla base della modifica di detto protocollo. Se il comitato etico si esprime favorevolmente sulla proposta di modifica e le autorita' competenti non hanno sollevato obiezioni motivate verso emendamenti sostanziali, il promotore della sperimentazione puo' svolgere la sperimentazione in base al protocollo modificato. In caso contrario, il promotore della sperimentazione tiene conto delle obiezioni sollevate e adatta di conseguenza le modifiche del protocollo, oppure ritira la sua proposta di emendamento. Nei casi in cui l'emendamento sia presentato prima del rilascio del parere favorevole del comitato etico, tranne nei casi di presentazione contestuale al protocollo, il termine di cui all'articolo 6, commi 3 e 6, e all'articolo 9, comma 4, sono prorogati di trentacinque giorni, onde consentire la valutazione dell'emendamento stesso; qualora trattasi di sperimentazione multicentrica il termine di cui all'articolo 7, comma 2, e' prorogato di venti giorni e quello di cui all'articolo 7, comma 3, e' prorogato di quindici giorni;
+
+                            
+                        
+                        
+                            b)
+                            
+                                fatta salva la lettera a) e secondo le circostanze, in particolare in caso di manifestazione di fatti nuovi relativi allo svolgimento della sperimentazione o dello sviluppo del medicinale in fase di sperimentazione, allorche' questi fatti nuovi siano tali da compromettere la sicurezza dei soggetti della sperimentazione, il promotore della sperimentazione e lo sperimentatore adottano le opportune misure urgenti di sicurezza per proteggere i soggetti della sperimentazione da un pericolo immediato. Il promotore della sperimentazione informa immediatamente le autorita' competenti e i comitati etici di tali fatti nuovi e delle misure adottate.
+
 Entro novanta giorni dal termine della sperimentazione clinica il promotore della sperimentazione comunica al Ministero della salute, alle altre autorita' competenti, nonche' ai comitati etici interessati, la conclusione della sperimentazione con le modalita' definite con decreto del Ministro della salute tenuto conto delle indicazioni dettagliate pubblicate dalla Commissione europea. In caso di conclusione anticipata o di interruzione dello studio, tale termine e' ridotto a quindici giorni e il promotore della sperimentazione e' tenuto a comunicarne chiaramente i motivi.
 
 Con decreto del Ministro della salute vengono stabiliti gli elementi inerenti i risultati delle sperimentazioni cliniche, incluse quelle anticipatamente concluse, da comunicare all'Osservatorio di cui all'articolo 11, ai fini della messa a disposizione della comunita' scientifica, fatti salvi i diritti di brevettabilita' ed integrita' intellettuale.
 
 ## Art. 11. — Scambio di informazioni
 
+1.
+                    
+                        
+                            I Comitati etici ed i soggetti promotori della sperimentazione comunicano all'autorita' competente, alla Regione o Provincia autonoma sede della sperimentazione e comunque in ogni caso all'AIFA, anche ai fini dell'inserimento nelle banche dati nazionale ed europea i seguenti dati: 
+ 
+                        
+                        
+                            a)
+                            
+                                i dati ricavati dalla domanda di autorizzazione di cui all'articolo 9, comma 2; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                le eventuali modifiche ad essa apportate a norma dell'articolo 9, comma 3; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                le eventuali modifiche apportate al protocollo a norma dell'articolo 10, comma 1, lettere a) e b); 
+
+                            
+                        
+                        
+                            d)
+                            
+                                il parere favorevole del comitato etico; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                la dichiarazione di inizio, di eventuale interruzione e di cessazione della sperimentazione, con i dati relativi ai risultati conseguiti e le motivazioni dell'eventuale interruzione.
+
 Su richiesta motivata di uno Stato membro, dell'Agenzia europea per la valutazione dei medicinali (EMEA) o della Commissione, il Ministero della salute fornisce qualsiasi informazione supplementare sulla sperimentazione in questione, oltre a quelle gia' inserite nella banca dati europea, ottenendola dall'autoritacompetente alla quale e' stata presentata la domanda di autorizzazione. Il Ministero della salute inserisce nella banca dati europea l'indicazione delle ispezioni effettuate sulla conformita' alle norme di buona pratica clinica.
 
 Il modello, i dati e le relative modalita' di inserimento degli stessi nella banca dati europea, il cui funzionamento e' assicurato dalla Commissione stessa con la partecipazione dell'Agenzia europea per la valutazione dei medicinali (EMEA), nonche' i metodi per lo scambio elettronico dei dati, sono stabiliti con decreto del Ministro della salute, tenuto conto delle indicazioni dettagliate pubblicate dalla Commissione europea. Tali indicazioni dettagliate sono elaborate in modo da salvaguardare la riservatezza dei dati.
+
+4.
+                    
+                        
+                            L'Osservatorio sulle sperimentazioni gia' operante presso la Direzione generale della valutazione dei medicinali e la frarmacovigilanza, quale parte dell'Osservatorio nazionale sull'impiego dei medicinali istituito ai sensi del comma 7 dell'articolo 68 della legge 23 dicembre 1998, n. 448, e' incaricato di svolgere, nell'ambito delle dotazioni organiche della medesima Direzione generale e senza oneri aggiuntivi a carico del bilancio dello Stato, i seguenti compiti: 
+ 
+                        
+                        
+                            a)
+                            
+                                monitoraggio e analisi delle sperimentazioni cliniche dei medicinali sul territorio italiano e redazione dei relativi rapporti con i dati regionali da trasmettere alle singole regioni; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                raccordo con la banca dati centrale europea; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                supporto alle attivita' dei comitati etici territoriali; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                redazione di rapporti annuali e parziali, indirizzati alle regioni e agli operatori di settore, che descrivano in maniera quali-quantitativa, anche su base regionale e locale, lo stato della ricerca clinica farmacologica in Italia; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                realizzazione, di intesa con le regioni, di iniziative di formazione per il personale coinvolto nella sperimentazione clinica dei medicinali.
 
 ((
 
@@ -176,6 +697,31 @@ Per i motivi di cui al comma 5, l'autorita' competente di cui all'articolo 2, co
 La fabbricazione di medicinali sottoposti a sperimentazione clinica, nonche' la loro importazione, debbono essere autorizzate dal Ministero della salute come previsto, ove applicabile, dal decreto legislativo 29 maggio 1991, n. 178 e, negli altri casi, come previsto da specifico decreto del Ministro della salute. Al fine di ottenere detta autorizzazione, il richiedente e, del pari, in seguito il titolare, dovranno soddisfare i requisiti almeno equivalenti a quelli che saranno definiti con decreto del Ministro della salute, tenuto conto delle indicazioni dettagliate pubblicate dalla Commissione europea. Detti requisiti sono soddisfatti anche ai fini dell'autorizzazione all'importazione di detti medicinali.
 
 Il titolare dell'autorizza rione di cui al comma i deve disporre in maniera permanente e continua di un direttore tecnico, responsabile in particolare dell'adempimento degli obblighi specificati nel comma 3, che possegga i requisiti di cui all'articolo 4 del decreto legislativo 29 maggio 1991, n. 178.
+
+3.
+                    
+                        
+                            Il direttore tecnico di cui al comma 2, fermi restando i suoi rapporti con il fabbricante o l'importatore, vigila affinche':
+ 
+                        
+                        
+                            a)
+                            
+                                nel caso di medicinali in fase di sperimentazione fabbricati in Italia ((o in Paesi dell'Unione europea o in Paesi terzi nei quali vige un accordo di mutuo riconoscimento con l'Unione europea nel settore della fabbricazione dei medicinali sperimentali)) , ogni lotto di medicinali sia stato prodotto e controllato secondo i requisiti di buona pratica di fabbricazione dei medicinali di uso umano stabiliti dalla normativa comunitaria, in conformita' al fascicolo di specifica del prodotto e secondo l'informazione notificata a norma dell'articolo 9, comma 2;
+
+                            
+                        
+                        
+                            b)
+                            
+                                nel caso di medicinali in fase di sperimentazione fabbricati in un Paese terzo, ogni lotto di fabbricazione sia stato prodotto e controllato secondo norme di buona pratica di fabbricazione almeno equivalenti a quelle stabilite dalla normativa comunitaria, conformemente al fascicolo di specifica del prodotto e ogni lotto di fabbricazione sia stato controllato secondo l'informazione notificata a norma dell'articolo 9, comma 2;
+
+                            
+                        
+                        
+                            c)
+                            
+                                nel caso di un medicinale in fase di sperimentazione che sia un medicinale di confronto proveniente da Paesi terzi e dotato di autorizzazione all'immissione in commercio, quando non puo' essere ottenuta la documentazione che certifica che ogni lotto di fabbricazione e' stato prodotto secondo norme di buona pratica di fabbricazione almeno equivalenti a quelle succitate, ogni lotto di fabbricazione sia stato oggetto di tutte le analisi, prove o verifiche pertinenti e necessarie per confermare la sua qualita' secondo l'informazione notificata trasmessa a norma dell'articolo 9, comma 2.
 
 Per la valutazione dei prodotti ai fini del rilascio dei lotti e' necessario attenersi a quanto stabilito dall'allegato 13 alle norme di buona fabbricazione europee (GMP). Nei casi di importazione da uno Stato dell'Unione europea, i medicinali sottoposti a sperimentazione non devono essere ulteriormente controllati quando gli stessi sono corredati dai certificati di rilascio dei lotti firmati dalla persona qualificata ai sensi della direttiva 75/319, nel rispetto delle disposizioni di cui alle lettere a), b) o c). In tutti i casi, il direttore tecnico deve attestare in un registro che ogni lotto di fabbricazione e' conforme alle disposizioni del presente articolo. Il registro deve essere aggiornato contestualmente alla effettuazione delle operazioni, e deve restare a disposizione del personale ispettivo che svolge gli accertamenti di cui all'articolo 7 del decreto legislativo 29 maggio 1991, n. 178, per un periodo di 5 anni.
 
@@ -212,6 +758,24 @@ Al personale che svolge le ispezioni di cui ai commi 1, 2, 4, 5, 9 e 10 si appli
 Con decreto del Ministro della salute, da adottare entro trenta giorni dalla data di entrata in vigore del presente decreto, sono determinate, ai sensi dell'articolo 5, comma 12, della legge 29 dicembre 1990, n. 407, le tariffe relative ai commi 9, 10 e 11; i relativi importi sono versati all'entrata del bilancio dello Stato, per essere riassegnati ad apposita unita' previsionale di base dello stato di previsione del Ministero della salute. Il Ministro dell'economia e delle finanze e' autorizzato ad apportare, con proprio decreto, le occorrenti variazioni di bilancio.
 
 Le entrate derivanti da nuove tariffe da stabilirsi con successivo decreto del Ministro della salute, nonche' assoggettate allo stesso regime di cui al comma 12 dell'articolo 5 della legge 29 dicembre 1990, n. 407, relative alle ispezioni di cui all'articolo 7 del decreto legislativo 29 maggio 1991, n. 178, sono destinate alla copertura delle spese per le ispezioni concernenti il controllo delle sperimentazioni il cui promotore sia ente o struttura pubblica o senza fini di lucro oppure associazione scientifica senza fini di lucro, nonche' alla copertura, non diversamente prevista dal presente articolo, di tutte le spese per l'applicazione del medesimo.
+
+14.
+                    
+                        
+                            Le attivita' inerenti le ispezioni sulle sperimentazioni cliniche dei medicinali di cui al presente articolo, sono svolte dalla competente Direzione generale, che a tale fine sara' potenziata nell'ambito delle risorse umane e strumentali esistenti del Ministero della salute, anche per lo svolgimento delle seguenti funzioni:
+ 
+                        
+                        
+                            a)
+                            
+                                partecipazione alle attivita' comunitarie e dell'Agenzia europea per la valutazione dei medicinali (EMEA), nonche' collegamento con gli altri Ispettorati degli Stati membri e di Paesi terzi, per le finalita' del presente articolo, nonche' al fine del mutuo riconoscimento delle ispezioni in ambito europeo ed extraeuropeo;
+
+                            
+                        
+                        
+                            b)
+                            
+                                promozione e realizzazione di iniziative per l'informazione del personale suscettibile di verifiche ispettive comunitarie.
 
 Il personale appartenente a strutture private che intende usufruire delle attivita' di cui al comma 14, lettera b), dovra' versare una tariffa da stabilirsi con decreto del Ministro della salute, da adottare entro trenta giorni dalla data di entrata in vigore del presente decreto, ai sensi dell'articolo 5 della legge 29 dicembre 1990, n. 407. Le entrate derivanti dalle predette tariffe sono destinate alla copertura delle spese di cui al comma 14, lettera b); i relativi importi sono versatiall'entrata del bilancio dello Stato, per essere riassegnati ad apposita unita' previsionale di base dello stato di previsione del Ministero della salute. Il Ministro dell'economia e delle finanze e' autorizzato ad apportare, con proprio decreto, le occorrenti variazioni di bilancio.
 

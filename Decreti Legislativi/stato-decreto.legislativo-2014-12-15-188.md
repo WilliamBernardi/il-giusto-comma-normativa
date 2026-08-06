@@ -8,8 +8,8 @@ vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
 vigenza_date: 2021-09-28
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:29Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -26,6 +26,115 @@ Ritenuta la necessita', ai sensi dell'articolo 1, comma 7, della citata legge n.
 Acquisiti i pareri definitivi delle competenti Commissioni parlamentari espressi ai sensi dell'articolo 1, comma 7, della citata legge n. 23 del 2014;
 
 ## Art. 1. — Modifiche al testo unico delle imposte sulla produzione e sui consumi
+
+1.
+                    
+                        
+                            Nel testo unico delle disposizioni legislative concernenti le imposte sulla produzione e sui consumi e relative sanzioni penali e amministrative di cui al decreto legislativo 26 ottobre 1995, n. 504, e successive modificazioni, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                all'articolo 39-bis: 
+ 1) nel comma 1, dopo la lettera e) e' aggiunta la seguente: «e-bis) i tabacchi da inalazione senza combustione.»; 
+ 2) nel comma 2, dopo la lettera e) e' aggiunta la seguente: «e-bis) sono considerati tabacchi da inalazione senza combustione i prodotti del tabacco non da fumo che possono essere consumati senza processo di combustione.»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                all'articolo 39-ter: 
+ 1) dopo il comma 2, e' inserito il seguente: «2-bis. Sono assimilati ai prodotti di cui all'articolo 39-bis, comma 1, lettera e-bis), i prodotti da inalazione senza combustione costituiti esclusivamente o parzialmente da sostanze solide diverse dal tabacco.»; 
+ 2) nel comma 3, le parole: «al comma 2» sono sostituite dalle seguenti: «ai commi 2 e 2-bis»; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                all'articolo 39-quinquies: 
+ 1) il comma 2 e' sostituito dal seguente: «2. Per le sigarette, le tabelle di cui al comma 1 sono stabilite con riferimento al prezzo medio ponderato di vendita per chilogrammo convenzionale, di seguito denominato "PMP-sigarette", determinato annualmente entro il primo marzo dell'anno solare successivo, sulla base del rapporto, espresso in euro con troncamento dei decimali, tra il valore totale, calcolato con riferimento al prezzo di vendita comprensivo di tutte le imposte, delle sigarette immesse in consumo nell'anno solare precedente e la quantita' totale delle medesime sigarette.»; 
+ 2) il comma 2-bis e' abrogato; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                l'articolo 39-octies e' sostituito dal seguente: 
+ «Art. 39-octies (Aliquote di base e calcolo dell'accisa applicabile ai tabacchi lavorati). - 1. Ai fini dell'applicazione dell'accisa sui tabacchi lavorati di cui all'articolo 39-bis, comma 1, lettere a), b), c), d) ed e), sono stabilite le aliquote di base di cui all'Allegato I. 
+ 2. Per i tabacchi lavorati di cui al comma 1 diversi dalle sigarette l'accisa e' calcolata applicando la relativa aliquota di base al prezzo di vendita al pubblico del prodotto. 
+ 3. Per le sigarette, l'ammontare dell'accisa e' costituito dalla somma dei seguenti elementi: 
+ a) un importo specifico fisso per unita' di prodotto, pari al 10 per cento della somma dell'accisa globale e dell'imposta sul valore aggiunto calcolate con riferimento al "PMP-sigarette"; 
+ b) un importo risultante dall'applicazione di un'aliquota proporzionale al prezzo di vendita al pubblico corrispondente all'incidenza percentuale sul "PMP-sigarette" dell'accisa globale sul medesimo "PMP-sigarette" diminuita dell'importo di cui alla lettera a). 
+ 4. L'accisa globale, di cui alle lettere a) e b) del comma 3, e' calcolata applicando l'aliquota di base di cui al comma 1, al "PMP-sigarette". 
+ 5. L'accisa minima di cui all'articolo 14, n. 1, secondo periodo, della direttiva 2011/64/UE del Consiglio, del 21 giugno 2011, e' pari a: 
+ a) euro 25 il chilogrammo convenzionale, per i tabacchi lavorati di cui all'articolo 39-bis, comma 1, lettera a), di peso superiore a 3 grammi (sigari); 
+ b) euro 25 il chilogrammo convenzionale, per i tabacchi lavorati di cui all'articolo 39-bis, comma 1, lettera a), di peso inferiore a 3 grammi (sigaretti); 
+ c) euro 115 il chilogrammo per i tabacchi lavorati di cui all'articolo 39-bis, comma 1, lettera c), n. 1) (tabacco trinciato a taglio fino da usarsi per arrotolare le sigarette). 
+ 6. Per i tabacchi lavorati di cui all'articolo 39-bis, comma 1, lettera b) (sigarette), l'onere fiscale minimo, di cui all'articolo 7, n. 4, della direttiva 2011/64/UE del Consiglio, del 21 giugno 2011, e' pari a euro 170 il chilogrammo convenzionale. 
+ 7. L'onere fiscale minimo di cui al comma 6 e' applicato ai prezzi di vendita per i quali la somma dell'imposta sul valore aggiunto, applicata ai sensi dell'articolo 39-sexsies, e dell'accisa, applicata ai sensi del comma 3, risulti inferiore al medesimo onere fiscale minimo. 
+ 8. L'accisa sui prezzi di vendita di cui al comma 7 e' pari alla differenza tra l'importo dell'onere fiscale minimo, di cui al comma 6, e l'importo dell'imposta sul valore aggiunto applicata ai sensi dell'articolo 39-sexsies. 
+ 9. Ai fini dell'applicazione dell'accisa, un prodotto definito ai sensi dell'articolo 39-bis, comma 1, lettera b), e' considerato come due sigarette se ha una lunghezza, esclusi filtro e bocchino, maggiore di 8 centimetri, ma non superiore a 11 centimetri, ovvero come tre sigarette se ha una lunghezza, esclusi filtro e bocchino, maggiore di 11 centimetri ma non superiore a 14 centimetri, e cosi' via. 
+ 10. L'accisa globale sui prodotti di cui all'articolo 39-bis, comma 1, lettera b) (sigarette), non puo' essere inferiore a euro 90 per mille sigarette, indipendentemente dal "PMP-sigarette" di cui all'articolo 39-quinquies, comma 2.»; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                dopo l'articolo 39-duodecies e' inserito il seguente: 
+ «Art. 39-terdecies (Disposizioni in tema di tabacchi da inalazione senza combustione). - 1. Per i tabacchi lavorati di cui all'articolo 39-bis, comma 1, lettera e-bis), non si applicano le disposizioni degli articoli 39-quater, 39-quinquies e 39-octies e, ai fini dell'etichettatura, tali tabacchi sono assimilati ai prodotti di cui all'articolo 6, comma 3, del decreto legislativo 24 giugno 2003, n. 184. 
+ 2. Ai fini dell'applicazione degli articoli 39-sexies e 39-septies ai prodotti di cui al comma 1, i prezzi di vendita al pubblico e le relative variazioni sono stabiliti con provvedimento dell'Agenzia delle dogane e dei monopoli, in conformita' a quelli richiesti dai fabbricanti e dagli importatori. 
+ 3. I tabacchi di cui al comma 1 sono sottoposti ad accisa in misura pari al cinquanta per cento dell'accisa gravante sull'equivalente quantitativo di sigarette, con riferimento al prezzo medio ponderato di un chilogrammo convenzionale di sigarette, rilevato ai sensi dell'articolo 39-quinquies, e alla equivalenza di consumo convenzionale determinata sulla base di apposite procedure tecniche, definite con provvedimento del Direttore dell'Agenzia delle dogane e dei monopoli, in ragione del tempo medio necessario per il consumo di un campione composto dalle cinque marche di sigarette piu' vendute, in condizioni di aspirazione conformi a quelle adottate per l'analisi dei contenuti delle sigarette ed utilizzando, per i prodotti senza combustione, il dispositivo specificamente previsto per il consumo, fornito dal produttore. Con il provvedimento di cui al comma 2 e' altresi' indicato l'importo dell'accisa, determinato ai sensi del presente comma. Entro il primo marzo di ogni anno, con provvedimento dell'Agenzia delle dogane e dei monopoli e' rideterminata, per i tabacchi di cui al comma 1, la misura dell'accisa in riferimento alla variazione del prezzo medio ponderato delle sigarette. 
+ 4. Ferma restando l'applicazione delle disposizioni di cui al decreto legislativo 24 giugno 2003, n. 184, il soggetto obbligato al pagamento dell'accisa dichiara all'Agenzia delle dogane e dei monopoli, prima dell'immissione in consumo, la denominazione e gli ingredienti dei prodotti, il contenuto e il peso delle confezioni destinate alla vendita al pubblico, nonche' gli altri elementi informativi previsti dall'articolo 6 del decreto legislativo 6 settembre 2005, n. 206, e successive modificazioni.»; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                all'articolo 62-quater: 
+ 1) dopo il comma 1, sono inseriti i seguenti: 
+ «1-bis. I prodotti da inalazione senza combustione costituiti da sostanze liquide, contenenti o meno nicotina, esclusi quelli autorizzati all'immissione in commercio come medicinali ai sensi del decreto legislativo 24 aprile 2006, n. 219, e successive modificazioni, sono assoggettati ad imposta di consumo in misura pari al cinquanta per cento dell'accisa gravante sull'equivalente quantitativo di sigarette, con riferimento al prezzo medio ponderato di un chilogrammo convenzionale di sigarette rilevato ai sensi dell'articolo 39-quinquies e alla equivalenza di consumo convenzionale determinata sulla base di apposite procedure tecniche, definite con provvedimento del Direttore dell'Agenzia delle dogane e dei monopoli, in ragione del tempo medio necessario, in condizioni di aspirazione conformi a quelle adottate per l'analisi dei contenuti delle sigarette, per il consumo di un campione composto da almeno dieci tipologie di prodotto tra quelle in commercio, di cui sette contenenti diverse gradazioni di nicotina e tre con contenuti diversi dalla nicotina, mediante tre dispositivi per inalazione di potenza non inferiore a 10 watt. Con provvedimento dell'Agenzia delle dogane e dei monopoli e' indicata la misura dell'imposta di consumo, determinata ai sensi del presente comma. Entro il primo marzo di ogni anno, con provvedimento dell'Agenzia delle dogane e dei monopoli e' rideterminata, per i prodotti di cui al presente comma, la misura dell'imposta di consumo in riferimento alla variazione del prezzo medio ponderato delle sigarette. Dalla data di entrata in vigore del presente comma cessa di avere applicazione l'imposta prevista dal comma 1, le cui disposizioni continuano ad avere applicazione esclusivamente per la disciplina delle obbligazioni sorte in vigenza del regime di imposizione previsto dal medesimo comma. 
+ 1-ter. Il soggetto autorizzato di cui al comma 2 e' obbligato al pagamento dell'imposta di cui al comma 1-bis e a tal fine dichiara all'Agenzia delle dogane e dei monopoli, prima della loro commercializzazione, la denominazione e il contenuto dei prodotti da inalazione, la quantita' di prodotto delle confezioni destinate alla vendita al pubblico nonche' gli altri elementi informativi previsti dall'articolo 6 del decreto legislativo 6 settembre 2005, n. 206, e successive modificazioni.»; 
+ 2) nei commi 2, 5 e 6 le parole: «al comma 1» sono sostituite dalle seguenti: «ai commi 1 e 1-bis»; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                gli articoli 62-bis e 62-ter sono abrogati. Ai soggetti, diversi dai commercianti al dettaglio, che commercializzano fiammiferi e che comunicano entro il 31 gennaio 2015 al competente ufficio dell'Agenzia delle dogane e dei monopoli la quantita' e il valore delle rimanenze al 31 dicembre 2014, nonche' l'entita' del credito oggetto di compensazione, e' riconosciuto, per il rimborso dell'imposta di fabbricazione gia' assolta sui beni presenti in magazzino alla data del 31 dicembre 2014, un apposito credito fruibile in compensazione ai sensi dell'articolo 17 del decreto legislativo 9 luglio 1997, n. 241, e successive modificazioni; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                nell'Allegato I: 
+ 1) alla voce «Tabacchi lavorati», le parole: «sigarette, 58,5 per cento» sono sostituite dalle seguenti: «sigarette, 58,7 per cento»; 
+ 2) le voci «Fiammiferi di ordinario consumo» e «Fiammiferi pubblicitari omaggio o nominativi» sono abrogate.
+
+2.
+                    
+                        
+                            Con decreto del Ministro dell'economia e delle finanze, su proposta del Direttore dell'Agenzia delle dogane e dei monopoli, tenuto conto dell'andamento dei consumi e del livello dei prezzi di vendita, anche al fine di assicurare la realizzazione del maggior gettito complessivo netto derivante dal presente decreto, possono essere variate: 
+ 
+                        
+                        
+                            a)
+                            
+                                le aliquote di base di cui al comma 1 dell'articolo 39-octies del decreto legislativo n. 504 del 1995 nonche' le misure percentuali previste dal comma 3, lettera a), e dal comma 6, e gli importi di cui al comma 5 del medesimo articolo fino, rispettiva mente, a 0,5 punti percentuali, a 2 punti percentuali e a euro 5;(1) 
+
+                            
+                        
+                        
+                            b)
+                            
+                                l'aliquota prevista dal comma 3 dell'articolo 39-terdecies e dal comma 1-bis dell'articolo 62-quater del decreto legislativo n. 504 del 1995, e successive modificazioni, fino a cinque punti percentuali.
 
 L'onere fiscale minimo di cui all'articolo 7, paragrafo 4, della direttiva 2011/64/UE del Consiglio, del 21 giugno 2011, non puo' superare la somma dell'accisa globale e dell'imposta sul valore aggiunto calcolate con riferimento al "PMP-sigarette" di cui all'articolo 39-quinquies del decreto legislativo 26 ottobre 1995, n. 504.(1)
 
@@ -48,6 +157,49 @@ AGGIORNAMENTO (1)
  finanziarie e finali
 
 Il presente decreto entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana. L'efficacia delle disposizioni di cui all'articolo 1, commi 1, lettere c), d), f), g) ed h), e 8, decorre dal 1° gennaio 2015.
+
+2.
+                    
+                        
+                            A decorrere dal giorno successivo a quello di pubblicazione del presente decreto nella Gazzetta Ufficiale e fino al 31 dicembre 2014: 
+ 
+                        
+                        
+                            a)
+                            
+                                per il tabacco trinciato a taglio fino da usarsi per arrotolare le sigarette, di cui all'articolo 39-bis, comma 1, lettera c), del decreto legislativo n. 504 del 1995, l'accisa minima prevista dall'articolo 14, n. 1, della direttiva del Consiglio 21 giugno 2011, 2011/64/UE, e' pari a euro 108,00 il chilogrammo, qualora l'accisa risulti inferiore a detto importo; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                per i tabacchi lavorati di cui all'articolo 39-bis, comma 1, lettera b), del decreto legislativo n. 504 del 1995 (sigarette), l'aliquota di base per il calcolo dell'accisa e' elevata dal 58,5 per cento al 58,6 per cento e l'accisa minima prevista dall'articolo 8, comma 6, della direttiva 2011/64/UE del Consiglio, del 21 giugno 2011 e' pari a euro 126,80 il chilogrammo convenzionale, qualora l'accisa risulti inferiore a detto importo; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                la Tabella A) allegata alla determinazione del 25 febbraio 2014, prot. 1242, e la Tabella D) allegata alla determinazione del 30 settembre 2013, prot. 6183, pubblicate, rispettivamente, il 26 febbraio 2014 e 30 settembre 2013 sul sito internet dell'Agenzia delle dogane e dei monopoli, sono sostituite, rispettivamente, dalle Tabelle A) e D) allegate al presente decreto.
+
+3.
+                    
+                        
+                            Ferma restando l'applicazione delle ulteriori disposizioni del decreto del Ministro dell'economia e delle finanze 21 febbraio 2013, n. 38, all'articolo 9, comma 3, del predetto decreto sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                prima della lettera a) e' inserita la seguente: «0a) euro 1.000 per i comuni ovvero frazioni di comuni con popolazione fino a 2.000 abitanti, nonche' per i comuni montani e quelli delle isole minori;»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                alla lettera a) le parole: «per i comuni con popolazione fino a 10.000 abitanti», sono sostituite dalle seguenti: «per i comuni con popolazione compresa tra 2.001 e 10.000 abitanti».
 
 L'obiettivo di gettito pari a 50 milioni di euro a decorrere dall'anno 2015 gia' previsto dall'articolo 14, comma 3, del decreto-legge 8 agosto 2013, n. 91, convertito, con modificazioni, dalla legge 7 ottobre 2013, n. 112, e' assicurato con corrispondente quota delle maggiori entrate recate dal presente provvedimento. Le maggiori entrate derivanti dall'attuazione del presente decreto, al netto della suddetta quota, valutate in 145 milioni di euro per il 2015, e in 146 milioni di euro annui a decorrere dal 2016, confluiscono nell'apposito fondo previsto dall'articolo 16, comma 1, ultimo periodo, della legge 11 marzo 2014, n. 23. Il Ministro dell'economia e delle finanze e' autorizzato ad apportare, con propri decreti, le occorrenti variazioni di bilancio. Sono conseguentemente abrogati il comma 3 dell'articolo 14 del predetto decreto-legge n. 91 del 2013, convertito, con modificazioni, dalla legge n. 112 del 2013 e la determinazione direttoriale dell'Agenzia delle Dogane e dei Monopoli adottata ai sensi della predetta disposizione.
 

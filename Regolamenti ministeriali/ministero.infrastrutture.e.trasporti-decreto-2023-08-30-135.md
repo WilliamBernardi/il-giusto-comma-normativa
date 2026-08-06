@@ -7,8 +7,8 @@ urn: urn:nir:ministero.infrastrutture.e.trasporti:decreto:2023-08-30;135
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:38Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -50,6 +50,45 @@ Il presente regolamento definisce le modalita' di esercizio delle funzioni di co
 
 ## Art. 2. — Definizioni
 
+1.
+                    
+                        
+                            Ai fini del presente regolamento, si intende per: 
+ 
+                        
+                        
+                            a)
+                            
+                                «Autorita' nazionale competente (ANC)»: il Ministero delle infrastrutture e dei trasporti - Comando generale del Corpo delle capitanerie di porto - Guardia Costiera, responsabile per l'istituzione dell'interfaccia unica marittima nazionale; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                «Sistema di interfaccia unica marittima europea (European Maritime Single Window enviroment - EMSWe)»: il quadro giuridico e tecnico per la trasmissione elettronica di informazioni in relazione agli obblighi di dichiarazione per gli scali nei porti dell'Unione europea; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                «Altre autorita' interne competenti (AAIC)»: i Ministeri dell'interno e della salute, l'Agenzia delle dogane e dei monopoli e il Corpo della Guardia di finanza; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                «Port management Information System (PMIS)»: il sistema informativo per la gestione amministrativa delle attivita' portuali di cui all'articolo 8, comma 10, lettera b) del decreto-legge 18 ottobre 2012, n. 179, convertito, con modificazioni, dalla legge 17 dicembre 2012, n. 221; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                «SafeSeaNet»: il sistema dell'Unione europea per lo scambio di dati marittimi di cui all'articolo 2, comma 1, lettera t-bis) del decreto legislativo 19 agosto 2005, n. 196.
+
 ## Art. 3.
 
 Forme di cooperazione per assicurare l'interoperabilita' 
@@ -68,6 +107,38 @@ Per le esigenze delle amministrazioni, l'EMSWe rende disponibile l'accesso ai da
 ## Art. 4. — Comitato di coordinamento
 
 Presso il Comando generale del Corpo delle Capitanerie di porto - Guardia Costiera e' istituito il Comitato di coordinamento per garantire l'interoperabilita' tra i sistemi in uso alle altre autorita' interne competenti e per dare attuazione alle scelte necessarie ai fini dell'implementazione del sistema di interfaccia unica marittima europea.
+
+2.
+                    
+                        
+                            Il Comitato di coordinamento e' presieduto dal Comandante generale del Corpo delle Capitanerie di porto - Guardia Costiera o da un ufficiale ammiraglio del Corpo suo delegato, ed e' composto da: 
+ 
+                        
+                        
+                            a)
+                            
+                                un rappresentante del Ministero dell'interno; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                un rappresentante del Ministero della salute; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                un rappresentante dell'Agenzia delle dogane e dei monopoli; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                un rappresentante del Corpo della Guardia di finanza.
 
 Se si ravvisa l'esigenza di trattare aspetti riguardanti la cybersicurezza nazionale, la composizione del Comitato di cui al comma 2 e' integrata da un rappresentante dell'Agenzia per la cybersicurezza nazionale.
 

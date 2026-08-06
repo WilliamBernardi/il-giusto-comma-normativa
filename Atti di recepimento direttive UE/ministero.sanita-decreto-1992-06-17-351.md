@@ -9,7 +9,7 @@ vigente: true
 source: normattiva-opendata
 collection: Atti di recepimento direttive UE
 zip_date: 2026-07-30
-fetched_at: 2026-08-02T09:40:49Z
+fetched_at: 2026-07-30
 ---
 
 DECRETO
@@ -36,8 +36,79 @@ Nel caso di comparsa di uno o piu' focolai di peste suina africana su una parte 
 ## Art. 2. — Limitazione del divieto ad alcune parti
  del territorio nazionale
 
+1.
+                        
+                            
+                                Nella determinazione della parte del territorio di cui al comma 2 dell'art. 1, il Ministro della sanita' tiene conto, in particolare:
+ 
+                            
+                            
+                                a)
+                                
+                                    dei metodi di lotta impiegabili contro la peste suina africana quali: abbattimenti e distruzioni dei suini appartenenti agli allevamenti infetti, sospetti infetti o sospetti di contaminazione;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    delle misure adottate per evitare qualsiasi rischio di diffusione;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    della superficie della parte di territorio interessata e dei relativi limiti amministrativi o geografici;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    dell'incidenza e della tendenza alla diffusione della malattia;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    delle misure adottate per limitare e controllare il movimento dei suini nella parte del territorio interessata e fuori di essa.
+
 ## Art. 3. — Esclusione del divieto per alcune parti
  del territorio nazionale
+
+1.
+                        
+                            
+                                Nel caso in cui la presenza della malattia sul territorio nazionale, fatta esclusione della Sardegna, sia stata accertata da meno di dodici mesi, il Ministro della sanita', a seguito di una decisione comunitaria, puo' disporre, con apposito provvedimento, la non applicazione del divieto di cui al primo comma dell'art. 1, ad una o piu' parti del territorio nazionale, tenendo conto, in particolare:
+ 
+                            
+                            
+                                a)
+                                
+                                    dei metodi di controllo e di lotta impiegabili contro la peste suina africana;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    dell'assenza della malattia per almeno dodici mesi controllata con tutti i mezzi diagnostici compresi controlli sierologici;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    dell'estensione delle parti dei territori interessate e relativi limiti amministrativi o geografici;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    delle misure di vigilanza adottate per impedire che gli allevamenti suini vengano contaminati nonche' delle misure di controllo degli spostamenti dei suini.
 
 ## - Capo II PESTE SUINA CLASSICA
 
@@ -49,6 +120,24 @@ Al primo insorgere di un caso di peste suina classica, accertata ai sensi dell'a
 La revoca della sospensione della qualifica decorre dal trentesimo giorno successivo all'eliminazione dell'ultimo focolaio della malattia, nel caso in cui non sia stata praticata alcuna vaccinazione contro la peste suina classica ovvero, qualora sia stata praticata la vaccinazione, dal novantesimo giorno successivo all'eliminazione dell'ultimo focolaio.
 
 Quando, dalla data di constatazione del primo focolaio alla data di constatazione dell'ultimo focolaio, intercorrono almeno due mesi, il Ministro della sanita', sulla base della decisione dei competenti organi comunitari, adotta un provvedimento di ritiro della qualifica di territorio indenne.
+
+4.
+                        
+                            
+                                In caso di ritiro della qualifica di cui al comma precedente, questa puo' essere nuovamente accordata, a seguito di decisione comunitaria, soltanto dopo un periodo:
+ 
+                            
+                            
+                                a)
+                                
+                                    non inferiore a tre mesi a decorrere dalla data di eliminazione dell'ultimo focolaio della malattia, qualora non sia stata praticata la vaccinazione antipestosa;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    non inferiore a sei mesi a decorrere dalla data di eliminazione dell'ultimo focolaio della malattia, qualora sia stata effettuata la vaccinazione antipestosa.
 
 Il Ministro della sanita' informa la Commissione CEE, gli Stati membri, nonche' le regioni e le province autonome di Trento e Bolzano, dei provvedimenti di sospensione, revoca della sospensione, ritiro e riattribuzione della qualifica di territorio indenne.
 

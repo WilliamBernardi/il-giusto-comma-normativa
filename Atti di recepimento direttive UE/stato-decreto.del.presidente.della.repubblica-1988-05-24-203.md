@@ -10,7 +10,7 @@ source: normattiva-opendata
 collection: Atti di recepimento direttive UE
 vigenza_date: 2017-12-19
 zip_date: 2026-07-30
-fetched_at: 2026-08-02T09:40:49Z
+fetched_at: 2026-07-30
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -31,6 +31,35 @@ Sulla proposta del Ministro per il coordinamento delle politiche comunitarie, di
 ## Art. 1.
 
 Il presente decreto detta norme per la tutela della qualita' dell'aria ai fini della protezione della salute e dell'ambiente su tutto il territorio nazionale.
+
+2.
+                    
+                        
+                            Sono sottoposti alla disciplina del presente decreto: 
+
+                        
+                        
+                            a)
+                            
+                                tutti gli impianti che possono dar luogo ad emissione nell'atmosfera; 
+                            
+                        
+                        
+                            b)
+                            
+                                le caratteristiche merceologiche dei combustibili ed il loro impiego; 
+                            
+                        
+                        
+                            c)
+                            
+                                i valori limite ed i valori guida per gli inquinanti dell'aria nell'ambiente esterno ed i relativi metodi di campionamento, analisi e valutazione; 
+                            
+                        
+                        
+                            d)
+                            
+                                i limiti delle emissioni inquinanti ed i relativi metodi di campionamento, analisi e valutazione.(7)(8)((10))
 
 -------------
                         AGGIORNAMENTO (7)
@@ -53,7 +82,48 @@ Inquinamento atmosferico: ogni modificazione della normale composizione o stato 
 
 Valori limite di qualita' dell'aria: limiti massimi di accettabilita' delle concentrazioni e limiti massimi di esposizione relativi ad inquinanti nell'ambiente esterno.
 
+3.
+                    
+                        
+                            Valori guida di qualita' dell'aria: limiti delle concentrazioni e limiti di esposizione relativi ad inquinamenti nell'ambiente esterno destinati: 
+
+                        
+                        
+                            a)
+                            
+                                alla prevenzione a lungo termine in materia di salute e protezione dell'ambiente; 
+                            
+                        
+                        
+                            b)
+                            
+                                a costituire parametri di riferimento per l'istituzione di zone specifiche di protezione ambientale per le quali e' necessaria una particolare tutela della qualita' dell'aria.
+
 Emissione: qualsiasi sostanza solida, liquida o gassosa introdotta nell'atmosfera, proveniente da un impianto, che possa produrre inquinamento atmosferico.
+
+5.
+                    
+                        
+                            Linee guida per il contenimento delle emissioni: criteri in linea con l'evoluzione tecnica messi a punto relativamente a settori industriali contenenti indicazioni su: 
+
+                        
+                        
+                            a)
+                            
+                                cicli tecnologici; 
+                            
+                        
+                        
+                            b)
+                            
+                                migliore tecnologia disponibile relativamente ai sistemi del contenimento delle emissioni; 
+                            
+                        
+                        
+                            c)
+                            
+                                fattori di emissione con e senza l'applicazione della migliore tecnologia disponibile per il contenimento delle emissioni. 
+Sulla base dei predetti criteri sono individuati i valori minimi e massimi di emissione.
 
 Fattore di emissione: la quantita' di sostanza inquinante emessa riferita al processo produttivo considerato nella sua globalita' e nelle sue fasi tecnologiche; si esprime in termine di massa inquinante emessa, rapportata alla massa di prodotto o materia prima impiegata, o comunque ad altri parametri idonei a rappresentare il settore produttivo in esame.
 
@@ -82,8 +152,72 @@ Impianto esistente: un impianto che sia in funzione, costruito ovvero autorizzat
 
 1. Con decreto del Presidente del Consiglio dei Ministri, su proposta del Ministro dell'ambiente, di concerto con i Ministri della sanita' e dell'industria del commercio e dell'artigianato, sono fissati ed aggiornati i valori limite ed i valori guida di qualita' dell'aria, validi su tutto il territorio nazionale.(5)
 
+2.
+                    
+                        
+                            Con decreto del Ministro dell'ambiente, di concerto con i Ministri della sanita' e dell'industria del commercio e dell'artigianato, sentita la conferenza dei presidenti delle giunte regionali, sono fissati ed aggiornati: 
+
+                        
+                        
+                            a)
+                            
+                                le linee guida per il contenimento delle emissioni, nonche' i valori minimi e massimi di emissione; 
+                            
+                        
+                        
+                            b)
+                            
+                                i metodi di campionamento, analisi e valutazione degli inquinanti e dei combustibili; 
+                            
+                        
+                        
+                            c)
+                            
+                                i criteri per l'utilizzazione delle migliori tecnologie disponibili; 
+                            
+                        
+                        
+                            d)
+                            
+                                i criteri temporali per l'adeguamento progressivo degli impianti esistenti alla normativa del presente decreto.
+
 Fino alle date che saranno indicate nei decreti di cui ai commi 1 e 2, si applicano le disposizioni del presente decreto e del decreto del Presidente del Consiglio dei Ministri in data 28 marzo 1983, pubblicato nel supplemento ordinario alla Gazzetta Ufficiale n. 
 145 del 28 maggio 1983.
+
+4.
+                    
+                        
+                            Il Ministro dell'ambiente, di concerto con il Ministro della sanita', provvede: 
+
+                        
+                        
+                            a)
+                            
+                                a predisporre, entro centottanta giorni dalla data di entrata in vigore del presente decreto, i criteri per l'elaborazione dei piani regionali per il risanamento e la tutela della qualita' dell'aria, tenuto conto delle esperienze regionali gia' acquisite;(5) 
+                            
+                        
+                        
+                            b)
+                            
+                                b) a redigere il piano nazionale di tutela della qualita' dell'aria sulla base dei piani regionali, previa verifica della loro compatibilita';(5) 
+                            
+                        
+                        
+                            c)
+                            
+                                ad individuare, sentite le regioni interessate, zone a carattere interregionale nelle quali, per la presenza di un maggior inquinamento atmosferico o per le loro caratteristiche paesaggistiche ambientali, sono stabiliti valori limite delle emissioni o valori limite di qualita' dell'aria piu' restrittivi; 
+                            
+                        
+                        
+                            d)
+                            
+                                a predisporre i criteri per la raccolta dei dati inerenti la qualita' dell'aria, da effettuare con i sistemi di rilevamento regionali, nonche' una relazione annuale sullo stato della qualita' dell'aria formulata sulla base delle relazioni e dei dati forniti dalle regioni;(5) 
+                            
+                        
+                        
+                            e)
+                            
+                                a predisporre i criteri per l'inventario nazionale delle fonti di emissione e al suo periodico aggiornamento sulla base dei dati forniti dalle regioni.(7)(8)((10))
 
 ------------
                         AGGIORNAMENTO (5)
@@ -103,6 +237,53 @@ Fino alle date che saranno indicate nei decreti di cui ai commi 1 e 2, si applic
  Il D.Lgs. 3 aprile 2006, n. 152, come modificato dal D.Lgs. 15 novembre 2017, n. 183, ha disposto (con l'art. 280, comma 1, lettera a)) che e' abrogato il presente decreto escluse le disposizioni di cui il D.lgs. 152/2006 preveda l'ulteriore vigenza.
 
 ## Art. 4.
+
+1.
+                    
+                        
+                            Fatte salve le competenze dello Stato, la tutela dell'ambiente dall'inquinamento atmosferico spetta alle regioni, che la esercitano nell'ambito dei principi contenuti nel presente decreto e delle altre leggi dello Stato. In particolare e' di competenza delle regioni: 
+
+                        
+                        
+                            a)
+                            
+                                la formulazione dei piani di rilevamento, prevenzione, conservazione e risanamento del proprio territorio, nel rispetto dei valori limite di qualita' dell'aria; 
+                            
+                        
+                        
+                            b)
+                            
+                                la fissazione di valori limite di qualita' dell'aria, compresi tra i valori limite e i valori guida ove determinati dallo Stato, nell'ambito dei piani di conservazione per zone specifiche nelle quali ritengono necessario limitare o prevenire un aumento dell'inquinamento dell'aria derivante da sviluppi urbani o industriali; 
+                            
+                        
+                        
+                            c)
+                            
+                                la fissazione dei valori di qualita' dell'aria coincidenti o compresi nei valori guida, ovvero ad essi inferiori, nell'ambito dei piani di protezione ambientale per zone determinate, nelle quali e' necessario assicurare una speciale protezione dell'ambiente; 
+                            
+                        
+                        
+                            d)
+                            
+                                la fissazione dei valori delle emissioni di impianti, sulla base della migliore tecnologia disponibile e tenendo conto delle linee guida fissate dallo Stato e dei relativi valori di emissione. In assenza di determinazioni regionali, non deve comunque essere superato il piu' elevato dei valori di emissione definiti nelle linee guida, fatti salvi i poteri sostitutivi degli organi statali; 
+                            
+                        
+                        
+                            e)
+                            
+                                la fissazione per zone particolarmente inquinate o per specifiche esigenze di tutela ambientale, nell'ambito dei piani di cui al punto a), di valori limite delle emissioni piu' restrittivi dei valori minimi di emissione definiti nelle linee guida, nonche' per talune categorie di impianti la determinazione di particolari condizioni di costruzione o di esercizio; 
+                            
+                        
+                        
+                            f)
+                            
+                                l'indirizzo ed il coordinamento dei sistemi di controllo e di rilevazione degli inquinanti atmosferici e l'organizzazione dell'inventario regionale delle emissioni; 
+                            
+                        
+                        
+                            g)
+                            
+                                la predisposizione di relazioni annuali sulla qualita' dell'aria da trasmettere ai Ministeri dell'ambiente e della sanita', per i fini indicati all'art. 3, comma 4, lettera d).(7)(8)((10))
 
 -------------
                         AGGIORNAMENTO (7)
@@ -159,6 +340,23 @@ decreto del Ministro dell'ambiente del 18 aprile 2000."
  Il D.Lgs. 3 aprile 2006, n. 152, come modificato dal D.Lgs. 15 novembre 2017, n. 183, ha disposto (con l'art. 280, comma 1, lettera a)) che e' abrogato il presente decreto escluse le disposizioni di cui il D.lgs. 152/2006 preveda l'ulteriore vigenza.
 
 ## Art. 7.
+
+1.
+                    
+                        
+                            Ai fini del rilascio dell'autorizzazione la regione accerta: 
+
+                        
+                        
+                            a)
+                            
+                                che siano previste tutte le misure appropriate di prevenzione dell'inquinamento atmosferico; 
+                            
+                        
+                        
+                            b)
+                            
+                                che l'impianto progettato non comporti emissioni superiori ai limiti consentiti.
 
 La regione si pronuncia sulla domanda, sentito il comune o i comuni ove e' localizzato l'impianto, entro sessanta giorni dalla presentazione della domanda stessa, ovvero, nel caso in cui ritenga di invitare il richiedente ad apportare modifiche al progetto, entro trenta giorni dalla presentazione di dette modifiche; decorsi inutilmente tali termini, l'interessato, entro i successivi sessanta giorni, ha facolta' di richiedere al Ministro dell'ambiente di provvedere sulla domanda, notificando tale istanza alla regione. Il Ministro dell'ambiente, di concerto con i Ministri della sanita' e dell'industria, del commercio e dell'artigianato, provvede entro i successivi trenta giorni.
 
@@ -220,6 +418,29 @@ L'autorita' competente per il controllo e' autorizzata ad effettuare all'interno
  Il D.Lgs. 3 aprile 2006, n. 152, come modificato dal D.Lgs. 15 novembre 2017, n. 183, ha disposto (con l'art. 280, comma 1, lettera a)) che e' abrogato il presente decreto escluse le disposizioni di cui il D.lgs. 152/2006 preveda l'ulteriore vigenza.
 
 ## Art. 10.
+
+1.
+                    
+                        
+                            In caso di inosservanza delle prescrizioni autorizzatorie, l'autorita' regionale competente procede secondo la gravita' delle infrazioni: 
+
+                        
+                        
+                            a)
+                            
+                                alla diffida, assegnando un termine entro il quale devono essere eliminate le irregolarita'; 
+                            
+                        
+                        
+                            b)
+                            
+                                alla diffida e contestuale sospensione della attivita' autorizzata per un tempo determinato, ove si manifestino situazioni di pericolo per la salute e/o per l'ambiente; 
+                            
+                        
+                        
+                            c)
+                            
+                                alla revoca dell'autorizzazione e alla chiusura dell'impianto, in caso di mancato adeguamento alle prescrizioni imposte con la diffida e in caso di reiterate violazioni che determinino situazioni di pericolo e di danno per la salute e/o per l'ambiente.(7)(8)((10))
 
 -------------
                         AGGIORNAMENTO (7)
@@ -317,6 +538,23 @@ L'autorita' competente esercita i poteri di cui all'art. 10, anche nei casi di i
  Il D.Lgs. 3 aprile 2006, n. 152, come modificato dal D.Lgs. 15 novembre 2017, n. 183, ha disposto (con l'art. 280, comma 1, lettera a)) che e' abrogato il presente decreto escluse le disposizioni di cui il D.lgs. 152/2006 preveda l'ulteriore vigenza.
 
 ## Art. 15.
+
+1.
+                    
+                        
+                            Sono sottoposte a preventiva autorizzazione: 
+
+                        
+                        
+                            a)
+                            
+                                la modifica sostanziale dell'impianto che comporti variazioni qualitative e/o quantitative delle emissioni inquinanti; 
+                            
+                        
+                        
+                            b)
+                            
+                                il trasferimento dell'impianto in altra localita'.(6)(7)(8)((10))
 
 ------------
                         AGGIORNAMENTO (6)

@@ -8,8 +8,8 @@ codice_redazionale: 004G0132
 vigente: true
 source: normattiva-opendata
 collection: DPR
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:48:11Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -24,6 +24,38 @@ Udito il parere del Consiglio di Stato, espresso dalla sezione consultiva per gl
 Sulla proposta del Presidente del Consiglio dei Ministri e del Ministro dell'interno, di concerto con il Ministro degli affari esteri e con il Ministro per le politiche comunitarie;
 
 ## Art. 1. — Definizioni
+
+1.
+                    
+                        
+                            Ai fini del presente regolamento si intende per:
+ 
+                        
+                        
+                            a)
+                            
+                                «testo unico»: il testo unico delle disposizioni concernenti la disciplina dell'immigrazione e norme sulla condizione dello straniero, approvato con decreto legislativo 25 luglio 1998, n. 286, cosi' come modificato dal decreto-legge 4 aprile 2002, n. 51, convertito, con modificazioni, dalla legge 7 giugno 2002, n. 106; dalla legge 30 luglio 2002, n. 189; dal decreto-legge 9 settembre 2002, n. 195, convertito, con modificazioni, dalla legge 9 ottobre 2002, n. 222;
+
+                            
+                        
+                        
+                            b)
+                            
+                                «Comitato»: il Comitato per il coordinamento ed il monitoraggio di quanto previsto dal testo unico, istituito ai sensi del comma 1 dell'articolo 2-bis del medesimo testo unico;
+
+                            
+                        
+                        
+                            c)
+                            
+                                «gruppo tecnico»: il gruppo tecnico di lavoro istituito ai sensi del comma 3 dell'articolo 2-bis del testo unico;
+
+                            
+                        
+                        
+                            d)
+                            
+                                «struttura»: l'insieme delle risorse umane e strumentali della Presidenza del Consiglio dei Ministri che supportano, nell'esercizio delle competenze di cui al testo unico, le attivita' del Presidente del Consiglio dei Ministri e del Comitato di cui all'articolo 2-bis, comma 3, del medesimo testo unico, individuate nelle forme di cui all'articolo 3, comma 1.
 
 ## Art. 2. — Attivita' del gruppo tecnico
 

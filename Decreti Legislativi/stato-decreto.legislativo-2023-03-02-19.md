@@ -8,8 +8,8 @@ vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
 vigenza_date: 2025-07-08
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:31Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -27,20 +27,283 @@ Sulla proposta del Ministro per gli affari europei, il Sud, le politiche di coes
 
 ## Art. 1. — Definizioni comuni
 
+1.
+                        
+                            
+                                Ai fini del presente decreto si intendono per: 
+ 
+                            
+                            
+                                a)
+                                
+                                    «societa' di capitali»: 
+ 1) le societa' disciplinate dai capi V, VI e VII del titolo V e del capo I titolo VI del libro V del codice civile, la societa' europea e la societa' cooperativa europea; 
+ 2) le societa' di cui all'allegato II della direttiva (UE) 2017/1132 del Parlamento europeo e del Consiglio, del 14 giugno 2017; 
+ 3) per le operazioni di cui al capo III, qualsiasi altra societa' di uno Stato membro che ha personalita' giuridica, e' dotata di capitale sociale, risponde solo con il proprio patrimonio delle obbligazioni sociali ed e' soggetta, in virtu' della legislazione nazionale ad essa applicabile, alle disposizioni dettate dalla sezione 2 del capo II del titolo I e dalla sezione 1 del capo III del titolo I della direttiva 2017/1132/CE per proteggere gli interessi dei soci e dei terzi; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    «societa' diverse dalle societa' di capitali»: le societa' disciplinate dai capi II, III e IV del titolo V del libro V del codice civile iscritte nel registro delle imprese e ogni altra societa' regolata dalla legge di uno Stato appartenente all'Unione europea che non e' compresa nell'allegato II della direttiva (UE) 2017/1132 e non soddisfa le condizioni di cui alla lettera a), numero 3); 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    «societa' italiana»: societa' regolata dalla legge italiana; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    «societa' di altro Stato membro»: societa' regolata dalla legge di uno Stato appartenente all'Unione europea anche non avente la sede sociale, l'amministrazione centrale o il centro di attivita' principale nel territorio dell'Unione europea; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    «enti non societari»: qualunque ente, di natura non societaria, regolato dalla legge italiana o di uno Stato appartenente all'Unione europea, che esercita un'attivita' di impresa, ha la sede, l'amministrazione centrale o il centro di attivita' principale nel territorio dell'Unione europea ed e' iscritto in un registro delle imprese; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    «operazione transfrontaliera»: una trasformazione, fusione o scissione alla quale partecipano o dalla quale risultano una o piu' societa' regolate dalla legge italiana e almeno una societa' regolata dalla legge di uno Stato appartenente all'Unione europea; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    «operazione internazionale»: una trasformazione, fusione o scissione alla quale partecipano o dalla quale risultano una o piu' societa' regolate dalla legge italiana e almeno una societa' regolata dalla legge di uno Stato non appartenente all'Unione europea; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    «registro delle imprese»: il registro previsto dalla legge 29 dicembre 1993, n. 580, e ogni altro registro centrale istituito ai sensi dell'articolo 16 della direttiva (UE) 2017/1132; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    «BRIS», il sistema di interconnessione dei registri delle imprese di cui all'articolo 22 della direttiva (UE) 2017/1132; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    «rappresentanti dei lavoratori»: i rappresentanti dei lavoratori di cui all'articolo 2, comma 1, lettera e), del decreto legislativo 19 agosto 2005, n. 188; 
+
+                                
+                            
+                            
+                                m)
+                                
+                                    «organo di rappresentanza»: l'organo di rappresentanza dei lavoratori di cui all'articolo 2, comma 1, lettera f), del decreto legislativo n. 188 del 2005 
+
+                                
+                            
+                            
+                                n)
+                                
+                                    «delegazione speciale di negoziazione»: la delegazione di cui all'articolo 2, comma 1, lettera g), del decreto legislativo n. 188 del 2005; 
+
+                                
+                            
+                            
+                                o)
+                                
+                                    «coinvolgimento dei lavoratori»: la procedura di cui all'articolo 2, comma 1, lettera h), del decreto legislativo n. 188 del 2005; 
+
+                                
+                            
+                            
+                                p)
+                                
+                                    «informazione»: l'informazione di cui all'articolo 2, comma 1, lettera i), del decreto legislativo n. 188 del 2005; 
+
+                                
+                            
+                            
+                                q)
+                                
+                                    «consultazione»: la consultazione di cui all'articolo 2, comma 1, lettera l), del decreto legislativo n. 188 del 2005; 
+
+                                
+                            
+                            
+                                r)
+                                
+                                    «partecipazione»: la partecipazione di cui all'articolo 2, comma 1, lettera m), del decreto legislativo n. 188 del 2005; 
+
+                                
+                            
+                            
+                                s)
+                                
+                                    «beneficio pubblico»: qualsiasi intervento di sostegno pubblico per lo sviluppo delle attivita' produttive, comunque denominato, a carico della finanza pubblica o di fondi europei, attribuito in una delle forme previste dall'articolo 7 del decreto legislativo 31 marzo 1998, n. 123, e oggetto di iscrizione obbligatoria nel registro aiuti di Stato o in altro registro previsto dalla legge ((o soggetto a pubblicazione ai sensi dell'articolo 1, commi 125 e 125-bis della legge 4 agosto 2017, n. 124, o di altra disposizione di legge)); 
+
+                                
+                            
+                            
+                                t)
+                                
+                                    «beneficio pubblico localizzato»: qualsiasi intervento di sostegno pubblico destinato a un investimento produttivo in uno specifico ambito del territorio dello Stato o relativo a uno stabilimento, sede, filiale, ufficio o reparto autonomo, sito nel territorio dello Stato, che si trova nella disponibilita' della societa' italiana partecipante alla trasformazione, fusione o scissione, che ne ha beneficiato, o di societa' controllante, controllata o collegata alla partecipante ai sensi dell'articolo 2359 del codice civile.
+
 ## Art. 2. — Ambito di applicazione
+
+1.
+                        
+                            
+                                Il presente decreto si applica: 
+ 
+                            
+                            
+                                a)
+                                
+                                    alle operazioni transfrontaliere riguardanti una o piu' societa' di capitali italiane e una o piu' societa' di capitali di altro Stato membro che hanno la sede sociale o l'amministrazione centrale o il centro di attivita' principale stabilito nel territorio dell'Unione europea; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    alle operazioni transfrontaliere riguardanti societa' diverse dalle societa' di capitali o societa' di capitali che non hanno nel territorio dell'Unione europea la sede sociale ne' l'amministrazione centrale ne' il centro di attivita' principale, se l'applicazione della disciplina di recepimento delle direttive (UE) 2017/1132 e (UE) 2019/2121 a tali operazioni e' parimenti prevista dalla legge applicabile a ciascuna delle societa' di altro Stato membro partecipanti o risultanti dall'operazione; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    alle operazioni transfrontaliere che non rientrano nei casi di cui alle lettere a) e b) e alle operazioni internazionali, nel rispetto dell'articolo 25, comma 3, della legge 31 maggio 1995, n. 218; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    alle operazioni transfrontaliere a cui partecipano, o da cui risultano, enti non societari, in quanto compatibile, nel rispetto dell'articolo 25, comma 3, della legge n. 218 del 1995.
+
+2.
+                        
+                            
+                                Il presente decreto non si applica alle operazioni transfrontaliere o internazionali cui partecipa: 
+ 
+                            
+                            
+                                a)
+                                
+                                    una societa' di investimento a capitale variabile di cui all'articolo 1, comma 1, lettera i), del decreto legislativo 24 febbraio 1998, n. 58, recante il testo unico delle disposizioni in materia di intermediazione finanziaria ai sensi degli articoli 8 e 21 della legge 6 febbraio 1996, n. 52; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    una societa' sottoposta a strumenti, poteri e meccanismi di risoluzione di cui all'articolo 1, comma 1, lettera f), del decreto legislativo 16 novembre 2015, n. 180, o al titolo V del regolamento (UE) 2021/23; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    una societa' sottoposta a una delle misure di prevenzione della crisi di cui all'articolo 1, comma 1, lettera mm), del decreto legislativo n. 180 del 2015 o all'articolo 2, punto 48), del regolamento (UE) 2021/23.
 
 Il presente decreto si applica, in quanto compatibile, alle operazioni transfrontaliere o internazionali riguardanti societa' nei cui confronti sono aperte procedure di regolazione della crisi o dell'insolvenza, fatta salva l'applicazione delle specifiche disposizioni dettate in materia di crisi d'impresa.
 
 ## Art. 3. — Condizioni relative alle operazioni transfrontaliere 
  o internazionali
 
+1.
+                        
+                            
+                                La partecipazione a un'operazione transfrontaliera o internazionale non e' consentita: 
+ 
+                            
+                            
+                                a)
+                                
+                                    alle societa' di capitali in liquidazione che hanno iniziato la distribuzione dell'attivo; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    alle societa' cooperative a mutualita' prevalente di cui all'articolo 2512 del codice civile.
+
 Le operazioni di cui all'articolo 2, comma 1, lettere a) e b), attuate in conformita' al presente decreto soddisfano il requisito di cui all'articolo 25, comma 3, della legge 31 maggio 1995, n. 218.
 
 ## Art. 4. — Norme applicabili
 
+1.
+                        
+                            
+                                
+                                    ((Alle societa' di cui all'articolo 1, comma 1, lettera b), e agli enti non societari si applicano le seguenti disposizioni:))
+                                
+                            
+                            
+                                a)
+                                
+                                    fatti salvi i termini previsti dall'articolo 40, ove applicabili, i termini di cui agli articoli 20 e 23 sono ridotti a quindici giorni; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il termine per l'opposizione dei creditori di cui agli articoli 10 e 28 e' di trenta giorni, decorrenti dalla data dell'iscrizione della decisione nel registro delle imprese; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    non si applicano gli articoli 16, 39 e 50, salvo l'obbligo della societa' italiana, tenuta ad applicare un regime di partecipazione dei dipendenti a seguito di un'operazione transfrontaliera effettuata in conformita' alle disposizioni del presente decreto, di assicurare la tutela dei medesimi diritti di partecipazione nell'ambito di nuove operazioni di trasformazione, fusione e scissione nazionali, internazionali o transfrontaliere, effettuate nei quattro anni successivi alla data di efficacia dell'operazione.
+
 Le disposizioni ((...)) relative alle operazioni transfrontaliere, salvo che sia diversamente disposto, si applicano alle operazioni internazionali in quanto compatibili.
 
 Le disposizioni riguardanti il BRIS, quale sistema per la trasmissione di atti, dati e documenti, si applicano alle operazioni di cui all'articolo 2, comma 1, lettera a), e alle altre operazioni per le quali la normativa europea assicura il funzionamento del sistema di interconnessione dei registri.
+
+4.
+                        
+                            
+                                
+                                    ((Nelle operazioni previste dall'articolo 2, comma 1, lettere c) e d), il notaio:))
+                                
+                            
+                            
+                                a)
+                                
+                                    
+                                        ((rilascia il certificato preliminare alla societa' o all'ente italiano sottoposto a trasformazione o partecipante alla fusione o alla scissione;))
+                                    
+                                
+                            
+                            
+                                b)
+                                
+                                    
+                                        ((esercita il controllo di legalita' previsto dagli articoli 13, 33 e 47 quando la societa' o l'ente risultante dall'operazione sono sottoposti alla legge italiana;))
+                                    
+                                
+                            
+                            
+                                c)
+                                
+                                    
+                                        ((accerta sempre la sussistenza delle condizioni previste dall'articolo 25, comma 3, della legge 31 maggio 1995, n. 218.))
 
 ((Alle operazioni di cui all'articolo 2, comma 1, lettere c) e d), non si applicano le disposizioni del presente decreto che prevedono il rilascio del certificato preliminare o il controllo di legalita' da parte della competente autorita' di altro Stato membro quali condizioni per l'attuazione dell'operazione. Le disposizioni sulla comunicazione di dati tra il registro delle imprese italiano e il registro delle imprese di un altro Stato si applicano in quanto compatibili.))
 
@@ -78,6 +341,46 @@ Ai fini del rilascio del certificato preliminare e dello svolgimento del control
 
 ## Art. 6. — Definizioni
 
+1.
+                        
+                            
+                                Ai fini del presente capo si intendono per: 
+ 
+                            
+                            
+                                a)
+                                
+                                    
+                                        (("trasformazione": l'operazione mediante la quale una societa', senza essere sciolta ne' sottoposta a liquidazione, conservando i propri diritti e obblighi e proseguendo in tutti i rapporti anche processuali, muta la legge alla quale e' sottoposta adottando una forma giuridica prevista dalla legge dello Stato di destinazione e fissando la sede sociale nel rispetto di tale legge;))
+                                    
+                                
+                            
+                            
+                                b)
+                                
+                                    «Stato di ((origine))»: lo Stato dalla cui legge la societa' sottoposta a trasformazione e' regolata e nel cui pubblico registro essa e' iscritta prima della trasformazione transfrontaliera; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    «Stato di destinazione»: lo Stato dalla cui legge la societa' risultante dalla trasformazione e' regolata e nel cui pubblico registro e' iscritta, in esito alla trasformazione transfrontaliera; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    «societa' sottoposta a trasformazione»: societa', regolata dalla legge dello Stato di partenza e ivi iscritta in un pubblico registro, che delibera la trasformazione transfrontaliera; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    «societa' risultante dalla trasformazione»: societa' regolata dalla legge dello Stato di destinazione e ivi iscritta in un pubblico registro in esito a una trasformazione transfrontaliera.
+
 ## Art. 7. — Norme applicabili alla trasformazione
 
 Alla trasformazione transfrontaliera si applicano gli articoli 20, 21, 23, 24, 29, 30, 31, 37 e 40, commi 1 e 2, e tutti i riferimenti alla fusione contenuti in detti articoli s'intendono riferiti anche alla trasformazione. Si applicano altresi' gli articoli 2500-quater e 2500-sexies, terzo e quarto comma, del codice civile.
@@ -88,7 +391,113 @@ Resta salvo quanto previsto dal regolamento (CE) n. 2157/2001 del Consiglio, del
 
 ## Art. 8. — Progetto di trasformazione
 
+1.
+                        
+                            
+                                
+                                    ((L'organo amministrativo redige il progetto di trasformazione, che comprende le informazioni relative a:))
+                                
+                            
+                            
+                                a)
+                                
+                                    il tipo, la denominazione o ragione sociale, la sede e la legge regolatrice della societa' nello Stato di ((origine)); 
 
+                                
+                            
+                            
+                                b)
+                                
+                                    il tipo, la denominazione, la sede e la legge regolatrice proposte per la societa' nello Stato di destinazione; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    l'atto costitutivo della societa' risultante dalla trasformazione; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    il trattamento eventualmente riservato a particolari categorie di soci e ai possessori di titoli diversi dalle azioni e il trattamento loro riservato; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    eventuali garanzie o impegni offerti ai creditori; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    i vantaggi particolari eventualmente attribuiti a favore dei soggetti cui compete l'amministrazione o dei membri degli organi di controllo della societa' sottoposta a trasformazione; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    
+                                        ((i benefici pubblici e i benefici pubblici localizzati che la societa' ha percepito nei cinque anni anteriori alla pubblicazione del progetto, con indicazione dell'entita' e dei soggetti che li hanno erogati;))
+                                    
+                                
+                            
+                            
+                                g-bis)
+                                
+                                    
+                                        ((i benefici pubblici percepiti nei cinque anni anteriori alla pubblicazione del progetto e i benefici pubblici localizzati percepiti nei dieci anni anteriori a tale pubblicazione, con l'indicazione dell'entita' e dei soggetti che li hanno erogati, quando si procede a fusione internazionale;))
+                                    
+                                
+                            
+                            
+                                g-ter)
+                                
+                                    
+                                        ((l'eventuale dichiarazione negativa in ordine alla percezione dei benefici di cui alle lettere g) e g-bis);))
+                                    
+                                
+                            
+                            
+                                h)
+                                
+                                    i dati sulla liquidazione in denaro offerta ai soci per il caso di recesso, a norma dell'articolo 25, e il domicilio digitale presso il quale la societa' riceve le eventuali comunicazioni di recesso; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    le procedure di coinvolgimento dei lavoratori nella definizione dei loro diritti di partecipazione nella societa' risultante dalla trasformazione e le alternative possibili, se ne ricorrono i presupposti; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    le probabili ripercussioni della trasformazione transfrontaliera sull'occupazione; 
+
+                                
+                            
+                            
+                                m)
+                                
+                                    la data di efficacia della trasformazione transfrontaliera o i criteri per la sua determinazione; 
+
+                                
+                            
+                            
+                                n)
+                                
+                                    il calendario proposto a titolo indicativo per l'operazione.
+
+((L'organo amministrativo non puo' delegare la redazione del progetto di trasformazione.))
 
 ## Art. 9. — Recesso
 
@@ -128,6 +537,31 @@ Controllo di legalita' della trasformazione transfrontaliera
 
 Se la societa' risultante dalla trasformazione transfrontaliera ha adottato la legge italiana, il notaio, entro trenta giorni dal ricevimento del certificato preliminare e della delibera di approvazione del progetto di trasformazione, espleta il controllo di legalita' sulla attuazione della trasformazione rilasciandone apposita attestazione. Fatte salve altre possibili modalita' di trasmissione, il notaio incaricato del controllo di legalita' acquisisce senza oneri il certificato preliminare, redatto dalla competente autorita', dal registro delle imprese anche tramite il BRIS.
 
+2.
+                        
+                            
+                                Ai fini del controllo di cui al comma 1, il notaio verifica che: 
+ 
+                            
+                            
+                                a)
+                                
+                                    siano rispettati i requisiti per la costituzione e iscrizione nel registro delle imprese della societa' risultante dalla trasformazione, che ha adottato la legge italiana; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    sia pervenuto il certificato preliminare alla trasformazione transfrontaliera relativo alla societa' sottoposta a trasformazione; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    quando necessario, siano state stabilite le modalita' di partecipazione dei lavoratori ai sensi dell'articolo 16.
+
 Se dalla trasformazione risulta una societa' di capitali italiana, il capitale e' determinato sulla base dei valori attuali degli elementi dell'attivo e del passivo e deve risultare da una relazione di stima redatta a norma dell'articolo 2343 del codice civile o dalla documentazione di cui all'articolo 2343-ter del codice civile oppure, quando dalla trasformazione risulta una societa' a responsabilita' limitata, da una relazione di stima redatta a norma dell'articolo 2465 del codice civile. Si applica altresi', nel caso di societa' per azioni o in accomandita per azioni, l'articolo 2343, secondo, terzo e, in quanto compatibile, quarto comma, del codice civile e, nelle ipotesi di cui all'articolo 2343-ter, primo e secondo comma, del codice civile, si applica il terzo comma del medesimo articolo 2343 del codice civile.
 
 ((Il comma 3 non si applica quando e' sottoposta a trasformazione in societa' italiana una societa' compresa nell'allegato I della direttiva (UE) 2017/1132 del Parlamento europeo e del Consiglio o altra societa' sottoposta alle regole sulla formazione del capitale di cui agli articoli 46, 49, 50 e 51 della predetta direttiva o a regole equivalenti.))
@@ -162,6 +596,31 @@ Quando la societa' sottoposta a trasformazione transfrontaliera applica un regim
 
 Se la societa', anteriormente alla trasformazione, applica un regime di partecipazione dei lavoratori, tale regime continua ad applicarsi durante i negoziati e fino alla data di entrata in vigore degli accordi o all'eventuale applicazione delle disposizioni di riferimento.
 
+3.
+                        
+                            
+                                I negoziati iniziano subito dopo la costituzione della delegazione speciale di negoziazione e possono proseguire nei sei mesi successivi, prorogabili dalle parti, di comune accordo, per ulteriori sei mesi. Per quanto non previsto dal presente articolo, ai negoziati si applicano i seguenti articoli del decreto legislativo n. 188 del 2005: 
+ 
+                            
+                            
+                                a)
+                                
+                                    articolo 3, commi 1, 2, lettere a), numero 1),
+                                
+                            
+                            
+                                b)
+                                
+                                    e c), e commi 3, 4, primo e secondo periodo, 6 e 11; 
+ b) articolo 4, commi 1, 2, lettere a), g) e h), 3 e 4; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    articoli 6, 8, 10 e 12.
+
 A seguito dei negoziati, le disposizioni di riferimento di cui al comma 1 si applicano se le parti hanno concordato nel corso dei negoziati di avvalersi di tali disposizioni oppure non e' stato raggiunto un accordo entro il termine previsto e l'organo amministrativo della societa' sottoposta a trasformazione accetta l'applicazione di tali disposizioni.
 
 Resta fermo il comma 2 dell'allegato I, parte terza, del decreto legislativo n. 188 del 2005. Si applica l'articolo 11 del decreto legislativo n. 188 del 2005 e l'articolo 12, paragrafi 2 e 4, del regolamento (CE) n. 2157/2001 del Consiglio, dell'8 ottobre 2021.
@@ -176,6 +635,31 @@ La societa' di cui al comma 7 garantisce la tutela dei diritti di partecipazione
 
 ## Art. 17. — Definizioni
 
+1.
+                        
+                            
+                                AI fini del presente capo si intendono per: 
+ 
+                            
+                            
+                                a)
+                                
+                                    «fusione»: l'operazione di cui all'articolo 2501, primo comma, del codice civile, con esclusione dei trasferimenti di parte dell'azienda; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    «societa' risultante dalla fusione»: la societa' incorporante o, nel caso di fusione mediante costituzione di nuova societa', la societa' di nuova costituzione; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    «societa' partecipante alla fusione»: la societa' incorporante, la societa' incorporata o, nel caso di fusione mediante costituzione di nuova societa', la societa' che prende parte alla fusione.
+
 ## Art. 18. — Norme applicabili alla fusione
 
 Salvo che non sia diversamente disposto dal presente decreto, alla societa' italiana partecipante alla fusione transfrontaliera si applica il titolo V, capo X, sezione II, del libro V del codice civile.
@@ -188,6 +672,101 @@ Resta altresi' salvo quanto previsto dal regolamento (CE) n. 2157/2001 del Consi
 
 ## Art. 19. — Progetto di fusione
 
+1.
+                        
+                            
+                                Il progetto comune di fusione transfrontaliera comprende le informazioni di cui all'articolo 2501-ter, primo comma, del codice civile. Da esso devono altresi' risultare: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il tipo, la denominazione, e la sede nonche' la legge regolatrice della societa' risultante dalla fusione e di ciascuna delle societa' partecipanti; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    ogni modalita' particolare relativa al diritto di partecipazione agli utili; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    i diritti accordati dalla societa' risultante dalla fusione ai soci titolari di diritti speciali o ai possessori di titoli diversi dalle quote rappresentative del capitale sociale o le misure proposte nei loro confronti; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    i vantaggi eventualmente attribuiti a favore dei membri degli organi di controllo delle societa' partecipanti alla fusione; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    quando ne ricorrono i presupposti, le informazioni sulle procedure di coinvolgimento dei lavoratori nella definizione dei loro diritti di partecipazione nella societa' risultante dalla fusione e le alternative possibili; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    le probabili ripercussioni della fusione sull'occupazione; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    le informazioni sulla valutazione degli elementi patrimoniali attivi e passivi che sono trasferiti alla societa' risultante dalla fusione; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    la data cui si riferisce la situazione patrimoniale o il bilancio di ciascuna delle societa' partecipanti alla fusione utilizzati per definire le condizioni della fusione; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    ove necessario, le ulteriori informazioni la cui inclusione nel progetto comune e' prevista dalla legge applicabile alle societa' partecipanti alla fusione; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    la data di efficacia della fusione o i criteri per la sua determinazione; 
+
+                                
+                            
+                            
+                                m)
+                                
+                                    i dati sulla liquidazione in denaro offerta ai soci per il caso di recesso, a norma dell'articolo 25 e l'indicazione del domicilio digitale presso il quale la societa' riceve le eventuali comunicazioni di recesso; 
+
+                                
+                            
+                            
+                                n)
+                                
+                                    eventuali garanzie o impegni offerti ai creditori; 
+
+                                
+                            
+                            
+                                o)
+                                
+                                    il calendario proposto a titolo indicativo per l'operazione.
+
 Quando dalla fusione risulta una societa' regolata dalla legge di un altro Stato, il progetto deve altresi' indicare se la societa' italiana ha ((percepito)), nei cinque anni anteriori alla pubblicazione del progetto, benefici pubblici o benefici pubblici localizzati precisandone, in caso positivo, l'entita' e i soggetti che li hanno erogati. ((PERIODO SOPPRESSO DAL D.LGS. 19 GIUGNO 2025, N. 88)). ((In caso di fusione internazionale il progetto indica i benefici pubblici percepiti nei cinque anni anteriori alla pubblicazione del progetto e i benefici pubblici localizzati percepiti nei dieci anni anteriori alla medesima data.)) L'indicazione di cui al primo periodo e' inserita anche se negativa.
 
 Il conguaglio in danaro di cui all'articolo 2501-ter, primo comma, numero 3), del codice civile, non puo' essere superiore al dieci per cento del valore nominale delle azioni o delle quote assegnate o, in mancanza di valore nominale, della loro parita' contabile, salvo che la legge applicabile ad almeno una delle societa' partecipanti alla fusione o la legge applicabile alla societa' risultante dalla fusione consenta il conguaglio in danaro in misura superiore.
@@ -199,6 +778,38 @@ Pubblicita'
 Il progetto di fusione transfrontaliera e' ((iscritto)) nel registro delle imprese del luogo ove hanno sede le societa' partecipanti alla fusione, almeno trenta giorni prima della data fissata per la decisione, insieme con un avviso ai soci, creditori e rappresentanti dei lavoratori o, in loro mancanza, ai lavoratori stessi, che li informa della facolta' e delle modalita' di presentazione di osservazioni al progetto fino a cinque giorni prima della data dell'assemblea. Gli amministratori riferiscono all'assemblea delle osservazioni pervenute.
 
 In alternativa al deposito presso il registro delle imprese il progetto di fusione transfrontaliera e l'avviso sono pubblicati e messi a disposizione, senza oneri, nel sito Internet della societa' durante i trenta giorni che precedono l'assemblea e, nel caso di approvazione del progetto, fino a fusione avvenuta. La pubblicazione avviene con modalita' atte a garantire la sicurezza del sito medesimo, l'autenticita' dei documenti e la certezza della data di pubblicazione.
+
+3.
+                        
+                            
+                                La societa' che si avvale della pubblicazione sul sito Internet deposita per l'iscrizione nel registro delle imprese, nel medesimo termine di cui al comma 1, una nota informativa che indica: 
+ 
+                            
+                            
+                                a)
+                                
+                                    per ciascuna societa' partecipante alla fusione e per l'eventuale societa' di nuova costituzione, il tipo, la denominazione e la sede; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il registro delle imprese presso cui sono iscritte le societa' partecipanti alla fusione e il relativo numero di iscrizione; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    per ciascuna societa' partecipante alla fusione, l'indicazione delle modalita' di esercizio dei diritti da parte di creditori, dei lavoratori e dei soci; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    il sito Internet nel quale sono accessibili per via telematica gratuitamente il progetto di fusione transfrontaliera, l'avviso di cui al comma 1 e informazioni esaurienti sulle modalita' previste dalla lettera c).
 
 Il registro delle imprese rende accessibili al pubblico, senza oneri, tramite il BRIS, il progetto di fusione transfrontaliera, l'avviso di cui al comma 1, la nota informativa di cui al comma 3 e ogni altro documento depositato ai sensi del presente articolo.
 
@@ -225,6 +836,24 @@ La relazione di cui all'articolo 2501-sexies del codice civile e' redatta da uno
 Se la societa' risultante dalla fusione transfrontaliera e' una societa' per azioni o in accomandita per azioni, o una societa' di altro Stato membro di tipo equivalente, l'esperto o gli esperti di cui al comma 1 sono designati dal tribunale del luogo in cui ha sede la societa' italiana partecipante alla fusione transfrontaliera.
 
 La relazione di cui all'articolo 2501-sexies del codice civile puo' essere redatta per tutte le societa' partecipanti alla fusione transfrontaliera da uno o piu' esperti indipendenti designati, su richiesta congiunta di tali societa', o abilitati, da una autorita' amministrativa o giudiziaria in conformita' della legge applicabile ad una delle societa' partecipanti alla fusione transfrontaliera o alla societa' risultante dalla fusione medesima. L'autorita' italiana competente alla designazione e' il tribunale del luogo in cui ha sede la societa' italiana partecipante alla fusione transfrontaliera o risultante dalla stessa. La relazione unica contiene le eventuali ulteriori informazioni richieste dalla legge applicabile alle societa' partecipanti alla fusione transfrontaliera.
+
+4.
+                        
+                            
+                                La relazione di cui all'articolo 2501-sexies del codice civile contiene anche un parere sulla congruita' del valore di liquidazione, indicato nel progetto, per il caso di recesso, considerando i criteri di stima indicati nell'articolo 25, comma 5, e indicando: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il metodo o i metodi seguiti per la determinazione del valore di liquidazione e i valori risultanti dall'applicazione di ciascuno di tali metodi; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le eventuali difficolta' di valutazione.
 
 La relazione deve contenere, inoltre, un parere sull'adeguatezza del metodo o dei metodi seguiti per la determinazione del valore di liquidazione e sull'importanza relativa attribuita a ciascuno di essi nella determinazione del valore adottato.
 
@@ -262,6 +891,38 @@ I soci che hanno partecipato all'assemblea che ha adottato la delibera di cui al
 
 La dichiarazione di recesso contiene le indicazioni di cui all'articolo 2437-bis del codice civile e, a pena di decadenza, l'eventuale contestazione del valore indicato nel progetto di fusione. Il diritto di recesso e' esercitato mediante lettera raccomandata oppure mediante documento informatico sottoscritto con la firma digitale prevista dal decreto legislativo 7 marzo 2005, n. 82, o con altro tipo di firma elettronica qualificata ai sensi del regolamento (UE) 910/2014 del Parlamento europeo e del Consiglio, del 23 luglio 2014, e trasmesso al domicilio digitale indicato nel progetto ai sensi dell'articolo 19, comma 1, lettera m).
 
+4.
+                        
+                            
+                                Alla liquidazione delle azioni o quote dei soci recedenti si applicano gli articoli 2437-quater e 2473, quarto comma, del codice civile, con le seguenti eccezioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    l'offerta in opzione ai soci e l'eventuale collocamento presso terzi avvengono al valore fissato nel progetto di fusione; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    nella societa' per azioni, l'offerta di opzione e' depositata presso il registro delle imprese entro quindici giorni dalla scadenza dei termini per il recesso; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    in caso di assenza di utili o riserve disponibili nel patrimonio della societa' incorporata, resta fermo l'obbligo della societa' di liquidare il socio recedente e non e' pregiudicata l'attuazione della fusione, fatti salvi l'opposizione dei creditori prevista dall'articolo 2503 del codice civile e, ove applicabile, il rispetto dei requisiti di capitale da parte della societa' risultante dalla fusione; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    la liquidazione avviene non oltre sessanta giorni dalla data in cui la fusione ha avuto effetto.
+
 Il valore di liquidazione e' determinato dagli amministratori, sentito il parere dell'organo di controllo o del soggetto incaricato della revisione, se presente, tenuto conto della consistenza patrimoniale della societa' e delle sue prospettive reddituali, nonche' dell'eventuale valore di mercato delle azioni o quote. Si osservano le disposizioni di cui all'articolo 2437-ter, terzo e quarto comma, del codice civile.
 
 In caso di contestazione del valore di liquidazione da parte di uno o piu' soci, da effettuarsi nella dichiarazione di recesso, tale valore e' determinato tramite relazione giurata di un esperto nominato dal tribunale. L'istanza di nomina dell'esperto e' presentata entro trenta giorni dall'iscrizione della delibera di fusione nel registro delle imprese al tribunale ove la societa' partecipante ha sede. Per le societa' di cui all'articolo 3 del decreto legislativo 27 giugno 2003, n. 168, e' competente la sezione specializzata in materia di impresa del tribunale individuato a norma dell'articolo 4, comma 1, dello stesso decreto legislativo n. 168 del 2003. Il tribunale assegna all'esperto un termine fino a sessanta giorni dalla nomina, prorogabile per gravi motivi di ulteriori sessanta giorni, per la determinazione del valore di liquidazione. In caso di eccezionale difficolta' di valutazione, i termini di cui al quarto periodo possono essere raddoppiati. Il tribunale regola le spese di lite secondo i criteri di cui agli articoli 91 e seguenti del codice di procedura civile e, se richiesto, provvede alla liquidazione del compenso dell'esperto. La determinazione del valore ha efficacia nei confronti della societa' e di tutti i soci recedenti che lo hanno contestato e puo' essere impugnata soltanto nei casi previsti dall'articolo 1349, primo comma, del codice civile. Quando dalla determinazione dell'esperto risulta un valore superiore a quello indicato nel progetto, la differenza e' corrisposta entro sessanta giorni dal deposito della relazione dell'esperto nella cancelleria del tribunale.
@@ -296,6 +957,136 @@ Le garanzie prestate dalla societa' a norma del presente articolo sono subordina
 ## Art. 29. — Certificato preliminare
 
 Su richiesta della societa' italiana partecipante alla fusione transfrontaliera, il notaio rilascia il certificato preliminare attestante il regolare adempimento, in conformita' alla legge, degli atti e delle formalita' preliminari alla realizzazione della fusione.
+
+2.
+                        
+                            
+                                Alla richiesta sono allegati: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il progetto di fusione transfrontaliera; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la delibera dell'assemblea di approvazione del progetto; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    le relazioni degli amministratori e degli esperti indipendenti, salvo che i soci vi abbiano rinunciato nei casi consentiti dalla legge, e, se pervenuto, il parere dei rappresentanti dei lavoratori; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    le osservazioni di soci, lavoratori e creditori, se pervenute; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    la dichiarazione sostitutiva dell'atto di notorieta', resa dalle societa' partecipanti alla fusione, attestante che, nei casi previsti dalla legge, la procedura di negoziazione e' iniziata; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    
+                                        ((quando dalla fusione risulta una societa' soggetta alla legge di altro Stato, la documentazione relativa ai debiti di cui all'articolo 30, comma 4;))
+                                    
+                                
+                            
+                            
+                                f-bis)
+                                
+                                    
+                                        ((nei casi di cui alla lettera f), quando necessario, il consenso della societa' ai sensi del regolamento (UE) 2016/679, del Parlamento europeo e del Consiglio, del 27 aprile 2016, e del Codice in materia di protezione dei dati personali, di cui al decreto legislativo 30 giugno 2003, n. 196, per l'acquisizione delle informazioni previste dall'articolo 5, comma 3, del presente decreto;))
+                                    
+                                
+                            
+                            
+                                g)
+                                
+                                    
+                                        ((quando necessaria, l'attestazione prevista dall'articolo 30, comma 5, ultimo periodo, in ordine alla assenza di intervenute modificazioni;))
+                                    
+                                
+                            
+                            
+                                h)
+                                
+                                    la prova della costituzione delle garanzie o del pagamento dei debiti risultanti dalle certificazioni di cui alla lettera f) ((, quando necessario ai fini dell'ottenimento del certificato preliminare)); 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    le informazioni rilevanti, ai fini della fusione, che riguardano societa' controllanti, controllate o collegate ai sensi dell'articolo 2359 del codice civile.
+
+3.
+                        
+                            
+                                Ai fini del rilascio del certificato preliminare, sulla base della documentazione, delle informazioni e delle dichiarazioni a sua disposizione, il notaio verifica: 
+ 
+                            
+                            
+                                a)
+                                
+                                    l'avvenuta iscrizione presso il registro delle imprese della delibera di fusione transfrontaliera; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il decorso del termine per l'opposizione dei creditori oppure la realizzazione dei presupposti che consentono l'attuazione della fusione prima del decorso del termine, oppure, in caso di opposizione dei creditori, che il tribunale abbia provveduto ai sensi dell'articolo 2445, quarto comma, del codice civile; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    se pertinente, che il progetto di fusione contenga le informazioni previste dall'articolo 19, comma 1, lettera e), e che sia stata resa la dichiarazione di cui al comma 2, lettera e), del presente articolo; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    quando l'assemblea ha subordinato, ai sensi dell'articolo 24, comma 4, l'efficacia della delibera di approvazione del progetto comune di fusione transfrontaliera all'approvazione delle modalita' di partecipazione dei lavoratori, che queste sono state da essa approvate; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    l'assolvimento degli obblighi previsti dall'articolo 30, ove applicabile; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    l'assenza, in base alle informazioni e ai documenti ricevuti o acquisiti, di condizioni ostative all'attuazione della fusione transfrontaliera relative alla societa' richiedente; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    che, in base alle informazioni e ai documenti ricevuti o acquisiti, la fusione non sia effettuata per scopi manifestamente abusivi o fraudolenti, dai quali consegue la violazione o l'elusione di una norma imperativa del diritto dell'Unione o della legge italiana, e che non sia finalizzata alla commissione di reati secondo la legge italiana.
 
 Il certificato preliminare e' rilasciato dal notaio senza indugio e salve ragioni di eccezionale complessita', specificamente motivate, non oltre trenta giorni dal ricevimento della documentazione completa.
 
@@ -350,6 +1141,24 @@ f) quando necessario, l'ammontare, comprensivo di interessi e sanzioni, di cui l
 
 Modalita' di costituzione e disciplina delle garanzie per i debiti e benefici pubblici
 
+1.
+                        
+                            
+                                Le garanzie di cui all'articolo 30 sono costituite per un ammontare pari al centoquindici per cento del debito residuo mediante: 
+ 
+                            
+                            
+                                a)
+                                
+                                    cauzione in denaro o titoli del debito pubblico garantiti dallo Stato al corso del giorno del deposito, costituiti in deposito o pegno a favore dell'ente creditore presso una banca; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    fideiussione bancaria o assicurativa o rilasciata dagli intermediari iscritti nell'albo di cui all'articolo 106 del decreto legislativo n. 385 del 1993, che svolgono in via esclusiva o prevalente attivita' di rilascio di garanzie e che sono sottoposti a revisione contabile da parte di una societa' di revisione iscritta ((nel registro di cui al Capo III del decreto legislativo 27 gennaio 2010, n. 39)).
+
 La fideiussione rilasciata ai sensi del comma 1, lettera b), contiene la rinuncia al beneficio della preventiva escussione del debitore principale, la rinuncia all'eccezione di cui all'articolo 1957 del codice civile e l'obbligo di adempiere entro quindici giorni, a semplice richiesta scritta dell'ente creditore.
 
 La garanzia ha effetto subordinatamente all'efficacia della fusione ed e' svincolata se il debito si estingue per qualsiasi causa o se l'atto o il provvedimento da cui il debito medesimo deriva e' dichiarato nullo o annullato con decisione amministrativa o giurisdizionale definitiva. In caso di riduzione di almeno un quinto dell'ammontare del debito, la societa' debitrice o il garante ha diritto a chiedere la proporzionale riduzione dell'importo della garanzia.
@@ -371,6 +1180,31 @@ Se la societa' risultante dalla fusione transfrontaliera e' una societa' di altr
 Controllo di legalita' della fusione transfrontaliera
 
 Se la societa' risultante dalla fusione transfrontaliera e' una societa' italiana, il notaio, entro trenta giorni dal ricevimento dei certificati preliminari e delle delibere di approvazione del progetto comune di fusione relativi a ciascuna delle societa' partecipanti, espleta il controllo di legalita' sulla attuazione della fusione rilasciandone apposita attestazione. Fatte salve altre possibili modalita' di trasmissione, il notaio incaricato del controllo di legalita' acquisisce il certificato preliminare redatto dalla competente autorita', senza oneri, dal registro delle imprese, tramite il BRIS.
+
+2.
+                        
+                            
+                                Ai fini del controllo di cui al comma 1, il notaio verifica che: 
+ 
+                            
+                            
+                                a)
+                                
+                                    le societa' partecipanti alla fusione transfrontaliera abbiano approvato un identico progetto comune; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    siano pervenuti i certificati preliminari alla fusione transfrontaliera relativi a ciascuna delle societa' partecipanti; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    quando necessario, siano state stabilite le modalita' di partecipazione dei lavoratori ai sensi dell'articolo 39.
 
 ((Il notaio comunica senza indugio alla societa' le cause ostative al rilascio dell'attestazione e indica gli elementi mancanti ai fini dell'iscrizione nel registro delle imprese. Quando ritiene che tali elementi possano essere acquisiti ai sensi dell'articolo 5-bis, assegna alla societa' un congruo termine che puo' essere oggetto di rinuncia, ed e' prorogabile, su richiesta della parte interessata, quando ricorrono giustificati motivi.))
 
@@ -419,6 +1253,45 @@ Resta salvo il diritto al risarcimento del danno spettante ai soci e ai terzi da
 
 Formalita' semplificate
 
+1.
+                        
+                            
+                                Quando una fusione transfrontaliera per incorporazione e' realizzata da una societa' che detiene tutte le azioni, le quote o gli altri titoli che conferiscono diritti di voto nell'assemblea della societa' incorporata: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il progetto non contiene le informazioni di cui all'articolo 19, comma 1, lettere b) e m), e di cui all'articolo 2505, primo comma, del codice civile; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    non e' richiesta la relazione dell'organo amministrativo destinata ai soci e quella degli esperti indipendenti, salvo il caso di cui all'articolo 2501-bis del codice civile; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    la relazione dell'organo amministrativo destinata ai lavoratori e' richiesta per la sola societa' incorporante e contiene anche le informazioni relative alle ricadute dell'operazione sull'occupazione nella societa' incorporata; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    il progetto di fusione puo' non essere approvato da parte dell'assemblea della societa' italiana incorporata; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    con riguardo alla societa' italiana incorporante, si applica l'articolo 2505, secondo e terzo comma, del codice civile.
+
 Il comma 1 si applica anche alla fusione transfrontaliera per incorporazione quando una sola persona detiene, direttamente o indirettamente, per il tramite di una o piu' societa' partecipanti alla fusione, tutte le azioni o quote sia della societa' incorporante, sia di quelle incorporate.
 
 Quando le stesse persone detengono partecipazioni, nella medesima proporzione, in ciascuna delle societa' partecipanti alla fusione, non e' richiesta la relazione dell'organo amministrativo destinata ai soci e la relazione degli esperti indipendenti e non si applicano l'articolo 2501-ter, primo comma, numeri 3, 4 e 5 del codice civile e l'articolo 19, comma 1, lettere b) e m), del presente decreto.
@@ -432,6 +1305,56 @@ Nel caso previsto dal comma 4, se il progetto di fusione concede agli altri soci
 Quando almeno una delle societa' partecipanti alla fusione applica un regime di partecipazione dei lavoratori o ha avuto, nei sei mesi precedenti la pubblicazione del progetto comune di fusione, un numero medio di lavoratori pari ai quattro quinti del minimo richiesto per l'attivazione della partecipazione dei lavoratori, secondo la legislazione dello Stato membro dalla quale e' regolata, la partecipazione dei lavoratori nella societa' italiana risultante dalla fusione transfrontaliera e il loro coinvolgimento nella definizione dei relativi diritti sono disciplinati in base a procedure, criteri e modalita' stabiliti in accordi tra le parti stipulanti i contratti collettivi nazionali di lavoro applicati nella societa' stessa o, in mancanza di tali accordi, dalle disposizioni di riferimento previste dall'allegato I, parte terza, del decreto legislativo n. 188 del 2005, in quanto applicabili.
 
 Se almeno una delle societa' partecipanti alla fusione applica un regime di partecipazione dei lavoratori, il consiglio di amministrazione o di gestione della societa' italiana partecipante alla fusione transfrontaliera e i competenti organi di direzione o amministrazione delle societa' di altro Stato membro partecipanti alla fusione transfrontaliera possono decidere di applicare, senza negoziati preliminari, le disposizioni di riferimento di cui al comma 1, a decorrere dalla data di efficacia della fusione transfrontaliera.
+
+3.
+                        
+                            
+                                I negoziati iniziano subito dopo la costituzione della delegazione speciale di negoziazione e possono proseguire nei sei mesi successivi, prorogabili dalle parti, di comune accordo, per ulteriori sei mesi. Per quanto non previsto dal presente articolo, per la costituzione della delegazione speciale di negoziazione e ai negoziati si applicano i seguenti articoli del decreto legislativo n. 188 del 2005: 
+ 
+                            
+                            
+                                a)
+                                
+                                    articolo 3, commi 1, 2, 3, 4, lettera a), 5, 6 e 11; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    articolo 4, commi 1, 2, lettere a), g) e h), e 3; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    articoli 6, 8, 10 e 12.
+
+4.
+                        
+                            
+                                A seguito dei negoziati, le disposizioni di riferimento di cui al comma 1 si applicano: 
+ 
+                            
+                            
+                                a)
+                                
+                                    se le parti hanno concordato nel corso dei negoziati di avvalersi di tali disposizioni oppure non e' stato raggiunto un accordo entro il termine previsto e i competenti organi di ciascuna delle societa' partecipanti alla fusione accettano l'applicazione di tali disposizioni; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    se una o piu' delle societa' partecipanti applica, anteriormente alla fusione, una o piu' forme di partecipazione che interessano, nell'insieme, almeno un terzo del numero complessivo dei lavoratori di tutte le societa' partecipanti; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    se una o piu' delle societa' partecipanti applica forme di partecipazione che interessano meno di un terzo del numero complessivo dei lavoratori, a condizione che la delegazione speciale di negoziazione decida in tal senso.
 
 Resta fermo il comma 2 dell'allegato I, parte terza, del decreto legislativo n. 188 del 2005. Si applicano l'articolo 7, comma 3, del decreto legislativo n. 188 del 2005 e l'articolo 12, paragrafi 2, 3 e 4, del regolamento (CE) n. 2157/2001 del Consiglio, dell'8 ottobre 2021.
 
@@ -456,6 +1379,31 @@ Nel caso previsto dal comma 2, la societa' comunica ai lavoratori o ai loro rapp
 ## - Capo IV Scissione
 
 ## Art. 41. — Definizioni
+
+1.
+                        
+                            
+                                Ai fini del presente capo si intendono per: 
+ 
+                            
+                            
+                                a)
+                                
+                                    «scissione»: l'operazione di cui agli articoli 2506, primo comma, e 2506.1, primo comma, del codice civile; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    «societa' partecipante alla scissione»: la societa' scissa e, se preesistente alla scissione, la societa' beneficiaria; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    «societa' risultante dalla scissione»: la societa' beneficiaria.
 
 ## Art. 42. — Norme applicabili alla scissione
 
@@ -524,6 +1472,38 @@ Controllo di legalita' della scissione transfrontaliera
 
 Se beneficiaria della scissione e' una societa' italiana, il notaio, entro trenta giorni dal ricevimento del certificato preliminare e della delibera di approvazione del progetto di scissione transfrontaliera, espleta il controllo di legalita' sull'attuazione della scissione transfrontaliera, rilasciandone apposita attestazione. Fatte salve altre possibili modalita' di trasmissione, il notaio incaricato del controllo di legalita' acquisisce senza oneri il certificato preliminare, redatto dalla competente autorita', presso il registro delle imprese tramite il BRIS.
 
+2.
+                        
+                            
+                                Ai fini del controllo di cui al comma 1, il notaio verifica che: 
+ 
+                            
+                            
+                                a)
+                                
+                                    siano rispettati i requisiti per la costituzione e iscrizione nel registro delle imprese delle societa' di nuova costituzione regolate dalla legge italiana; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    tutte le societa' partecipanti alla scissione abbiano approvato un identico progetto di scissione transfrontaliera; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    sia pervenuto il certificato preliminare alla scissione transfrontaliera relativo alla societa' scissa e alle altre societa' eventualmente partecipanti alla scissione in qualita' di beneficiarie; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    quando necessario, siano state stabilite le modalita' di partecipazione dei lavoratori ai sensi dell'articolo 50.
+
 ((Quando il notaio rileva l'esistenza di cause ostative al rilascio dell'attestazione procede in conformita' all'articolo 33, commi 3 e 3-bis.))
 
 ((In caso di rifiuto o di mancato rilascio dell'attestazione di cui al comma 1, si osservano le disposizioni previste dall'articolo 29, commi 6 e 7.))
@@ -556,6 +1536,31 @@ Quando la societa' scissa applica un regime di partecipazione dei lavoratori o h
 
 Se, anteriormente alla scissione, la societa' applica un regime di partecipazione dei lavoratori, tale regime continua ad applicarsi durante i negoziati e fino alla data di entrata in vigore degli accordi o all'eventuale applicazione delle disposizioni di riferimento.
 
+3.
+                        
+                            
+                                I negoziati iniziano subito dopo la costituzione della delegazione speciale di negoziazione e possono proseguire nei sei mesi successivi, prorogabili dalle parti, di comune accordo, per ulteriori sei mesi. Per quanto non previsto dal presente articolo, ai negoziati si applicano i seguenti articoli del decreto legislativo n. 188 del 2005: 
+ 
+                            
+                            
+                                a)
+                                
+                                    articolo 3, commi 1 e 2, lettere a), numero 1,
+                                
+                            
+                            
+                                b)
+                                
+                                    e
+                                
+                            
+                            
+                                c)
+                                
+                                    e commi 3, 4, primo e secondo periodo, 6 e 11; 
+ b) articolo 4, commi 1, 2, lettere a), g) e h), 3 e 4; 
+ c) articoli 6, 8, 10 e 12.
+
 A seguito dei negoziati, le disposizioni di riferimento di cui al comma 1 si applicano se le parti hanno concordato nel corso dei negoziati di avvalersi di tali disposizioni oppure non e' stato raggiunto alcun accordo entro il termine previsto e l'organo amministrativo della societa' scissa decide di accettare l'applicazione di tali disposizioni.
 
 Resta fermo il comma 2 dell'allegato I, parte terza del decreto legislativo n. 188 del 2005 e si applica l'articolo 11 del medesimo decreto legislativo n. 188 del 2005 e l'articolo 12, paragrafi 2 e 4, del regolamento (CE) n. 2157/2001 del Consiglio, dell'8 ottobre 2021.
@@ -566,6 +1571,24 @@ La societa' italiana risultante dalla scissione tenuta, ai sensi delle disposizi
 
 La societa' di cui al comma 7 garantisce la tutela dei diritti di partecipazione dei lavoratori in caso di nuove operazioni di trasformazione, fusione e scissione nazionali, internazionali o transfrontaliere effettuate nei quattro anni successivi alla data di efficacia della scissione transfrontaliera, in conformita' alle disposizioni del presente articolo, ove compatibili.
 
+9.
+                        
+                            
+                                Quando la scissione avviene a favore di una societa' preesistente: 
+ 
+                            
+                            
+                                a)
+                                
+                                    ai negoziati si applicano, in quanto compatibili, le disposizioni richiamate dall'articolo 39, comma 3; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la decisione deve essere assunta dai competenti organi delle societa' partecipanti alla scissione e si applicano, in quanto compatibili, l'articolo 39, comma 4, lettera b), primo periodo, considerando nel numero complessivo i soli lavoratori della societa' scissa di cui il progetto prevede l'attribuzione alla societa' beneficiaria preesistente, e l'articolo 7, comma 3, del decreto legislativo n. 188 del 2005.
+
 ## - Capo V Modifiche e abrogazioni
 
 ## Art. 51. — Modifiche al codice civile
@@ -574,12 +1597,67 @@ Al Libro V, Titolo V, Capo V, Sezione X del codice civile, articolo 2437, primo 
 
 Al Libro V, Titolo V, Capo VII, Sezione II del codice civile, articolo 2473, primo comma, secondo periodo, le parole «al trasferimento della sede all'estero» sono soppresse.
 
+3.
+                        
+                            
+                                Al Libro V, Titolo V, Capo X, del codice civile sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    
+                                        al fine di consentire alle societa' il trasferimento di attivita' e passivita' a una o piu' societa' di nuova costituzione regolate dal diritto interno anche avvalendosi della disciplina della scissione, dopo l'articolo 2506, e' inserito il seguente: 
+ «Art. 2506.1 (Scissione mediante scorporo). - Con la scissione mediante scorporo una societa' assegna parte del suo patrimonio a una o piu' societa' di nuova costituzione e a se' stessa le relative azioni o quote a se' stessa, continuando la propria attivita'. 
+ La partecipazione alla scissione non e' consentita alle societa' in liquidazione che abbiano iniziato la distribuzione dell'attivo.»;
+                                    
+                                
+                            
+                            
+                                b)
+                                
+                                    
+                                        all'articolo 2506-bis, quarto comma, e' aggiunto, in fine, il seguente periodo: 
+ «Il progetto di scissione mediante scorporo non contiene i dati di cui ai numeri 3), 4), 5) e 7) dell'articolo 2501-ter, primo comma, ne' altro contenuto incompatibile con l'assegnazione delle azioni o quote delle societa' beneficiarie alla societa' stessa, anziche' ai suoi soci.»;
+                                    
+                                
+                            
+                            
+                                c)
+                                
+                                    all'articolo 2506-ter sono apportate le seguenti modificazioni: 
+ 1) al terzo comma, in fine, dopo le parole «diversi da quello proporzionale» sono aggiunte le seguenti: «o quando la scissione avviene mediante scorporo»; 
+ 2) dopo il quinto comma e' aggiunto il seguente: 
+ «Alla scissione mediante scorporo non si applica il diritto di recesso previsto dagli articoli 2473 e 2502.».
+
 Al Libro V, Titolo V, dopo il Capo XI, del codice civile e' inserito il seguente: 
  «Capo XI-bis 
  Del trasferimento della sede all'estero 
  Art. 2510-bis (Trasferimento della sede all'estero). - Il trasferimento all'estero della sede statutaria e' posto in essere mediante trasformazione in conformita' alle disposizioni che regolano le operazioni di trasformazione transfrontaliera e internazionale.».
 
 ## Art. 52. — Modifiche alla legge 16 febbraio 1913, n. 89
+
+1.
+                        
+                            
+                                Alla legge 16 febbraio 1913, n. 89, sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    
+                                        all'articolo 138-bis, dopo il comma 2, e' aggiunto il seguente: 
+ «2-bis. Con la stessa sanzione e' punito altresi' il notaio che chiede l'iscrizione nel registro delle imprese di un atto di trasformazione, fusione o scissione transfrontaliera, da lui ricevuto, e dell'attestazione di legalita' prevista dalla normativa attuativa della direttiva (UE) 2019/2121, del Parlamento europeo e del Consiglio, del 27 novembre 2019, da lui rilasciata, quando risultano manifestamente inesistenti le condizioni richieste dalla legge.»;
+                                    
+                                
+                            
+                            
+                                b)
+                                
+                                    
+                                        dopo l'articolo 138-bis, e' inserito il seguente: 
+ «Art. 138-ter. - 1. Viola l'articolo 28, primo comma, numero 1), ed e' punito con la sospensione di cui all'articolo 138, comma 2, e con la sanzione pecuniaria da 516 euro a 15.493 euro, il notaio che rilascia il certificato preliminare previsto dalla normativa attuativa della direttiva (UE) 2019/2121, del Parlamento europeo e del Consiglio, del 27 novembre 2019, quando dai documenti, dalle informazioni e dalle dichiarazioni previsti dalla medesima normativa risultano manifestamente inesistenti le condizioni richieste dalla legge.».
 
 ## Art. 53. — Abrogazioni
 
@@ -595,6 +1673,34 @@ Chiunque, al fine di far apparire adempiute le condizioni per il rilascio del ce
 In caso di condanna ad una pena non inferiore a mesi otto di reclusione segue l'applicazione della pena accessoria di cui all'articolo 32-bis del codice penale.
 
 ## Art. 55. — Modifiche al decreto legislativo 8 giugno 2001, n. 231
+
+1.
+                        
+                            
+                                All'articolo 25-ter, comma 1, del decreto legislativo 8 giugno 2001, n. 231, sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    
+                                        all'alinea, dopo le parole «dal codice civile», sono inserite le seguenti: «o da altre leggi speciali»;
+                                    
+                                
+                            
+                            
+                                b)
+                                
+                                    
+                                        alla lettera s-bis), il segno di interpunzione «.» e' sostituito con il seguente: «;»;
+                                    
+                                
+                            
+                            
+                                c)
+                                
+                                    
+                                        dopo la lettera s-bis) e' inserita la seguente: «s-ter) per il delitto di false o omesse dichiarazioni per il rilascio del certificato preliminare previsto dalla normativa attuativa della direttiva (UE) 2019/2121, del Parlamento europeo e del Consiglio, del 27 novembre 2019, la sanzione pecuniaria da centocinquanta a trecento quote.».
 
 ## - Capo VII Disposizioni transitorie e finali
 

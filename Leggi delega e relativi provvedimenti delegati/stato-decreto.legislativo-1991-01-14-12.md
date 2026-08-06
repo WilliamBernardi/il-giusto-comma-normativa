@@ -8,8 +8,8 @@ codice_redazionale: 090G0441
 vigente: true
 source: normattiva-opendata
 collection: Leggi delega e relativi provvedimenti delegati
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:41:17Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -34,6 +34,25 @@ Nota redazionale
  E' possibile visualizzare il testo originario accedendo alla versione pdf della relativa Gazzetta di pubblicazione.
 
 ## Art. 2.
+
+1.
+                        
+                            
+                                L'articolo 151 del codice di procedura penale e' cosi' modificato:
+ 
+                            
+                            
+                                a)
+                                
+                                    il comma 3 e' sostituito dal seguente:
+ " 3. La lettura dei provvedimenti alle persone presenti e gli avvisi che sono dati dal pubblico ministero verbalmente agli interessati in loro presenza sostituiscono le notificazioni, purche' ne sia fatta menzione nel verbale.";
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il comma 4 e' soppresso.
 
 ## Art. 3.
 
@@ -68,6 +87,25 @@ Nella lettera e) del comma 1 dell'articolo 171 del codice di procedura penale, l
 
 ## Art. 8.
 
+1.
+                        
+                            
+                                L'articolo 54 del codice di procedura penale e' cosi' modificato:
+ 
+                            
+                            
+                                a)
+                                
+                                    la rubrica e' sostituita dalla seguente: "Contrasti negativi tra pubblici ministeri";
+
+                                
+                            
+                            
+                                b)
+                                
+                                    dopo il comma 3 e' aggiunto il seguente:
+ "3-bis. Le disposizioni dei commi 1 e 2 si applicano in ogni altro caso di contrasto negativo fra pubblici ministeri.".
+
 ## Art. 9.
 
 Dopo l'articolo 118 del decreto legislativo 28 luglio 1989, n. 271 e' inserito il seguente:
@@ -78,6 +116,25 @@ Dopo l'articolo 118 del decreto legislativo 28 luglio 1989, n. 271 e' inserito i
 ## - Capo III DISPOSIZIONI RELATIVE ALLE PROVE
 
 ## Art. 10.
+
+1.
+                        
+                            
+                                L'articolo 263 del codice di procedura penale e' cosi' modificato:
+ 
+                            
+                            
+                                a)
+                                
+                                    il comma 4 e' sostituito dal seguente:
+ " 4. Nel corso delle indagini preliminari, sulla restituzione delle cose sequestrate il pubblico ministero provvede con decreto motivato.";
+
+                                
+                            
+                            
+                                b)
+                                
+                                    nel comma 5, dopo le parole "che dispone la restituzione" sono inserite le seguenti: "o respinge la relativa richiesta".
 
 ## Art. 11.
 
@@ -96,7 +153,49 @@ Nel comma 1 dell'articolo 294 del codice di procedura penale, dopo le parole "il
 
 ## Art. 14.
 
+1.
+                        
+                            
+                                L'articolo 299 del codice di procedura penale e' cosi' modificato:
+ 
+                            
+                            
+                                a)
+                                
+                                    dopo il comma 3, e' inserito il seguente:
+ "3-bis. Il giudice, prima di provvedere in ordine alla revoca o alla sostituzione delle misure coercitive e interdittive, di ufficio o su richiesta dell'imputato, deve sentire il pubblico ministero. Se nei due giorni successivi il pubblico ministero non esprime il proprio parere, il giudice procede.";
+
+                                
+                            
+                            
+                                b)
+                                
+                                    dopo il comma 4 sono aggiunti i seguenti:
+ "4-bis. Dopo la chiusura delle indagini preliminari, se l'imputato chiede la revoca o la sostituzione della misura con altra meno grave ovvero la sua applicazione con modalita' meno gravose, il giudice, se la richiesta non e' presentata in udienza, ne da' comunicazione al pubblico ministero, il quale, nei due giorni successivi, formula le proprie richieste.
+ 4-ter. In ogni stato e grado del procedimento, quando non e' in grado di decidere allo stato degli atti, il giudice dispone, anche di ufficio e senza formalita', accertamenti sulle condizioni di salute o su altre condizioni o qualita' personali dell'imputato. Gli accertamenti sono eseguiti al piu' presto e comunque entro quindici giorni da quello in cui la richiesta e' pervenuta al giudice. Durante tale periodo e' sospeso il termine previsto dal comma 3.".
+
 ## Art. 15.
+
+1.
+                        
+                            
+                                L'articolo 321 del codice di procedura penale e' cosi' modificato:
+ 
+                            
+                            
+                                a)
+                                
+                                    nel comma 3 e' aggiunto il seguente periodo: "Nel corso delle indagini preliminari provvede il pubblico ministero con decreto motivato, che e' notificato a coloro che hanno diritto di proporre impugnazione. Se vi e' richiesta di revoca dell'interessato, il pubblico ministero, quando ritiene che essa vada anche in parte respinta, la trasmette al giudice, cui presenta richieste specifiche nonche' gli elementi sui quali fonda le sue valutazioni. La richiesta e' trasmessa non oltre il giorno successivo a quello del deposito nella segreteria.";
+
+                                
+                            
+                            
+                                b)
+                                
+                                    dopo il comma 3 sono aggiunti i seguenti:
+ "3-bis. Nel corso delle indagini preliminari, quando non e' possibile, per la situazione di urgenza, attendere il provvedimento del giudice, il sequestro e' disposto con decreto motivato dal pubblico ministero. Negli stessi casi, prima dell'intervento del pubblico ministero, al sequestro procedono ufficiali di polizia giudiziaria, i quali, nelle quarantotto ore successive, trasmettono il verbale al pubblico ministero del luogo in cui il sequestro e' stato eseguito. Questi, se non dispone la restituzione delle cose sequestrate, richiede al giudice la convalida e l'emissione del decreto previsto dal comma 1 entro quarantotto ore dal sequestro, se disposto dallo stesso pubblico ministero, o dalla ricezione del verbale, se il sequestro e' stato eseguito di iniziativa dalla polizia giudiziaria.
+ 3-ter. Il sequestro perde efficacia se non sono osservati i termini previsti dal comma 3- bis ovvero se il giudice non emette l'ordinanza di convalida entro dieci giorni dalla ricezione della richiesta.
+Copia dell'ordinanza e' immediatamente notificata alla persona alla quale le cose sono state sequestrate.".
 
 ## Art. 16.
 
@@ -113,6 +212,24 @@ Dopo l'articolo 322 del codice di procedura penale e' inserito il seguente:
 Al comma 2 dell'articolo 324 del codice di procedura penale e' aggiunto il seguente periodo: "Se la richiesta e' proposta dall'imputato non detenuto ne' internato, questi, ove non abbia gia' dichiarato o eletto domicilio o non si sia proceduto a norma dell'articolo 161 comma 2, deve indicare il domicilio presso il quale intende ricevere l'avviso previsto dal comma 6; in mancanza, l'avviso e' notificato mediante consegna al difensore. Se la richiesta e' proposta da un'altra persona e questa abbia omesso di dichiarare il proprio domicilio, l'avviso e' notificato mediante deposito in cancelleria.".
 
 ## Art. 19.
+
+1.
+                        
+                            
+                                L'articolo 325 del codice di procedura penale e' cosi' modificato:
+ 
+                            
+                            
+                                a)
+                                
+                                    nel comma 1, le parole "Contro le ordinanze emesse a norma dell'articolo 324" sono sostituite dalle seguenti: "Contro le ordinanze emesse a norma degli articoli 322- bis e 324";
+
+                                
+                            
+                            
+                                b)
+                                
+                                    nel comma 2, le parole "contro il provvedimento di sequestro" sono sostituite dalle seguenti: "contro il decreto di sequestro emesso dal giudice".
 
 ## Art. 20.
 
@@ -131,12 +248,81 @@ Nella lettera c) del comma 2 dell'articolo 381 del codice di procedura penale, s
 
 ## Art. 23.
 
+1.
+                        
+                            
+                                L'articolo 386 del codice di procedura penale e' cosi' modificato:
+ 
+                            
+                            
+                                a)
+                                
+                                    il comma 3 e' sostituito dal seguente:
+ " 3. Qualora non ricorra l'ipotesi prevista dall'articolo 389 comma 2, gli ufficiali e gli agenti di polizia giudiziaria pongono l'arrestato o il fermato a disposizione del pubblico ministero al piu' presto e comunque non oltre ventiquattro ore dall'arresto o dal fermo. Entro il medesimo termine trasmettono il relativo verbale, salvo che il pubblico ministero autorizzi una dilazione maggiore. Il verbale contiene l'eventuale nomina del difensore di fiducia, l'indicazione del giorno, dell'ora e del luogo in cui l'arresto o il fermo e' stato eseguito e l'enunciazione delle ragioni che lo hanno determinato.";
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il comma 4 e' sostituto dal seguente:
+ " 4. Gli ufficiali e gli agenti di polizia giudiziaria pongono l'arrestato o il fermato a disposizione del pubblico ministero mediante la conduzione nella casa circondariale o mandamentale del luogo dove l'arresto o il fermo e' stato eseguito.";
+
+                                
+                            
+                            
+                                c)
+                                
+                                    nel comma 7, le parole "dai commi 3 e 4" sono sostituite dalle seguenti: "dal comma 3".
+
 ## Art. 24.
 
 Dopo il comma 3 dell'articolo 390 del codice di procedura penale e' aggiunto il seguente:
  "3-bis. Se non ritiene di comparire, il pubblico ministero trasmette al giudice, per l'udienza di convalida, le richieste in ordine alla liberta' personale con gli elementi su cui le stesse si fondano.".
 
 ## Art. 25.
+
+1.
+                        
+                            
+                                L'articolo 391 del codice di procedura penale e' cosi' modificato:
+ 
+                            
+                            
+                                a)
+                                
+                                    nel comma 1, sono soppresse le parole "del pubblico ministero e";
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il comma 3 e' sostituito dal seguente:
+ " 3. Il pubblico ministero, se comparso, indica i motivi dell'arresto o del fermo e illustra le richieste in ordine alla liberta' personale. Il giudice procede quindi all'interrogatorio dell'arrestato o del fermato, salvo che questi non abbia potuto o si sia rifiutato di comparire; sente in ogni caso il suo difensore.";
+
+                                
+                            
+                            
+                                c)
+                                
+                                    nel comma 4, le parole "commi 3 e 4" sono sostituite dalle seguenti: "comma 3";
+
+                                
+                            
+                            
+                                d)
+                                
+                                    il comma 5 e' sostituito dal seguente:
+ " 5. Se ricorrono le condizioni di applicabilita' previste dall'articolo 273 e taluna delle esigenze cautelari previste dall'articolo 274, il giudice dispone l'applicazione di una misura coercitiva a norma dell'articolo 291. Quando l'arresto e' stato eseguito per uno dei delitti indicati nell'articolo 381 comma 2, l'applicazione della misura e' disposta anche al di fuori dei limiti previsti dall'articolo 280.";
+
+                                
+                            
+                            
+                                e)
+                                
+                                    il comma 7 e' sostituito dal seguente:
+ " 7. Le ordinanze previste dai commi precedenti, se non sono pronunciate in udienza, sono comunicate o notificate a coloro che hanno diritto di proporre impugnazione. Le ordinanze pronunciate in udienza sono comunicate al pubblico ministero e notificate all'arrestato o al fermato, se non comparsi. I termini per l'impugnazione decorrono dalla lettura del provvedimento in udienza ovvero dalla sua comunicazione o notificazione. L'arresto o il fermo cessa di avere efficacia se l'ordinanza di convalida non e' pronunciata o depositata nelle quarantotto ore successive al momento in cui l'arrestato o il fermato e' stato posto a disposizione del giudice.".
 
 ## - Capo VI DISPOSIZIONI RELATIVE AI PROCEDIMENTI SPECIALI
 
@@ -152,6 +338,26 @@ Il comma 1 dell'articolo 453 del codice di procedura penale e' sostituito dal se
 ## - Capo VII DISPOSIZIONI RELATIVE ALLA ESECUZIONE
 
 ## Art. 28.
+
+1.
+                        
+                            
+                                L'articolo 667 del codice di procedura penale e' cosi' modificato:
+ 
+                            
+                            
+                                a)
+                                
+                                    il comma 1 e' sostituito dal seguente:
+ " 1. Se vi e' ragione di dubitare dell'identita' della persona arrestata per esecuzione di pena o perche' evasa mentre scontava una condanna, il giudice dell'esecuzione la interroga e compie ogni indagine utile alla sua identificazione anche a mezzo della polizia giudiziaria.";
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il comma 4 e' sostituito dal seguente:
+ " 4. Il giudice dell'esecuzione provvede in ogni caso senza formalita' con ordinanza comunicata al pubblico ministero e notificata all'interessato. Contro l'ordinanza possono proporre opposizione davanti allo stesso giudice il pubblico ministero, l'interessato e il difensore; in tal caso si procede a norma dell'articolo 666. L'opposizione e' proposta, a pena di decadenza, entro quindici giorni dalla comunicazione o dalla notificazione dell'ordinanza.".
 
 ## Art. 29.
 
@@ -210,6 +416,24 @@ Il comma 4 dell'articolo 714 del codice di procedura penale e' sostituito dal se
 
 ## Art. 36.
 
+1.
+                        
+                            
+                                L'articolo 16 del decreto del Presidente della Repubblica 22 settembre 1988, n. 448 e' cosi' modificato:
+ 
+                            
+                            
+                                a)
+                                
+                                    il comma 2 e' soppresso;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    nel comma 3, le parole "delle facolta' previste dai commi 1 e 2" sono sostituite dalle seguenti: "della facolta' prevista dal comma 1".
+
 ## Art. 37.
 
 L'articolo 17 del decreto del Presidente della Repubblica 22 settembre 1988, n. 448 e' sostituito dal seguente:
@@ -267,6 +491,38 @@ Il comma 5 dell'articolo 31 del decreto del Presidente della Repubblica 22 sette
  " 5. La persona offesa partecipa all'udienza preliminare ai fini di quanto previsto dall'articolo 90 del codice di procedura penale. Il minorenne, quando e' presente, e' sentito dal giudice. Le altre persone citate o convocate sono sentite se risulta necessario ai fini indicati dall'articolo 9.".
 
 ## Art. 46.
+
+1.
+                        
+                            
+                                L'articolo 32 del decreto del Presidente della Repubblica 22 settembre 1988, n. 448 e' cosi' modificato: 
+ 
+                            
+                            
+                                a)
+                                
+                                    nel comma 1, le parole 'nei casi previsti dagli articoli 27 e 28' sono sostituite dalle seguenti: "per irrilevanza del fatto a norma dell'articolo 27"; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il comma 3 e' sostituito dal seguente: 
+ " 3. Contro la sentenza prevista dal comma 2 l'imputato e il difensore munito di procura speciale possono proporre opposizione, con atto depositato nella cancelleria del giudice che ha emesso la sentenza, entro cinque giorni dalla pronuncia o, quando l'imputato non e' comparso, dalla notificazione dell'estratto. La sentenza e' irrevocabile quando e' inutilmente decorso il termine per proporre opposizione o quello per impugnare l'ordinanza che la dichiara inammissibile."; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    dopo il comma 3 e' inserito il seguente: 
+ "3-bis. L'esecuzione della sentenza di condanna pronunciata a carico di piu' minorenni imputati dello stesso reato rimane sospesa nei confronti di coloro che non hanno proposto opposizione fino a quando il giudizio conseguente all'opposizione non sia definito con pronuncia irrevocabile.". 
+ 
+--------------- 
+Nota redazionale 
+ Il testo del presente articolo e' gia' integrato con le correzioni apportate dall'errata-corrige pubblicato in G.U. 29/01/1991, n. 24 durante il periodo di "vacatio legis". 
+ E' possibile visualizzare il testo originario accedendo alla versione pdf della relativa Gazzetta di pubblicazione.
 
 ## Art. 47.
 

@@ -7,8 +7,8 @@ urn: urn:nir:stato:decreto.legislativo:2017-04-13;63
 vigente: true
 source: normattiva-opendata
 collection: Leggi delega e relativi provvedimenti delegati
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:41:18Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -33,6 +33,38 @@ Oggetto e finalita'
 Al fine di perseguire su tutto il territorio nazionale l'effettivita' del diritto allo studio delle alunne e degli alunni, delle studentesse e degli studenti fino al completamento del percorso di istruzione secondaria di secondo grado, il presente decreto individua e definisce, compatibilmente con le risorse umane, finanziarie e strumentali disponibili, le modalita' delle prestazioni in materia di diritto allo studio, in relazione ai servizi erogati dallo Stato, dalle regioni e dagli enti locali nel rispetto delle competenze e dell'autonomia di programmazione. Il presente decreto definisce, altresi', le modalita' per l'individuazione dei requisiti di eleggibilita' per l'accesso alle prestazioni da assicurare sul territorio nazionale e individua i principi generali per il potenziamento della Carta dello studente.
 
 ## Art. 2. — Servizi
+
+1.
+                        
+                            
+                                Lo Stato, le regioni e gli enti locali, nell'ambito delle rispettive competenze e nei limiti delle effettive disponibilita' finanziarie, umane e strumentali disponibili a legislazione vigente, programmano gli interventi per il sostegno al diritto allo studio delle alunne e degli alunni, delle studentesse e degli studenti al fine di fornire, su tutto il territorio nazionale, i seguenti servizi: 
+ 
+                            
+                            
+                                a)
+                                
+                                    servizi di trasporto e forme di agevolazione della mobilita'; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    servizi di mensa; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    fornitura dei libri di testo e degli strumenti didattici indispensabili negli specifici corsi di studi; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    servizi per le alunne e gli alunni, le studentesse e gli studenti ricoverati in ospedale, in case di cura e riabilitazione, nonche' per l'istruzione domiciliare.
 
 ## Art. 3. — Beneficiari
 
@@ -124,6 +156,31 @@ La Conferenza e' convocata dal Ministro dell'istruzione, dell'universita' e dell
 
 ## Art. 12. — Compiti della Conferenza nazionale 
  per il diritto allo studio
+
+1.
+                        
+                            
+                                I compiti della Conferenza sono: 
+ 
+                            
+                            
+                                a)
+                                
+                                    monitorare l'attuazione del presente decreto, anche attraverso gli Uffici scolastici regionali, i quali promuovono, a tal fine, idonee forme di collaborazione con le regioni e gli enti locali; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    esprimere pareri, elaborare proposte e redigere un rapporto, ogni tre anni, in materia di diritto allo studio; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    avanzare proposte per il potenziamento della Carta e l'integrazione di ulteriori benefici e agevolazioni a livello delle singole regioni.
 
 ## Art. 13. — Accordi territoriali
 

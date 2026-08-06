@@ -8,8 +8,8 @@ codice_redazionale: 005G0015
 vigente: true
 source: normattiva-opendata
 collection: DPCM
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:40:12Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DEL CONSIGLIO DEI MINISTRI
@@ -31,6 +31,66 @@ Il presente decreto, adottato ai sensi dell'articolo 3, comma 87, della legge 24
 
 Le gare disciplinate dal presente decreto devono uniformarsi alla normativa nazionale e comunitaria in materia di appalti pubblici di lavori, di forniture e di servizi.
 
+2.
+                    
+                        
+                            Le procedure di gara bandite dalla CONSIP sono improntate ai seguenti principi:
+ 
+                        
+                        
+                            a)
+                            
+                                rispetto del principio della parita' di trattamento nell'ambito dell'aggiudicazione delle gare;
+
+                            
+                        
+                        
+                            b)
+                            
+                                garanzia della massima trasparenza delle procedure;
+
+                            
+                        
+                        
+                            c)
+                            
+                                garanzia della massima e piu' diffusa pubblicita' delle iniziative, utilizzando oltre ai canali di comunicazione tradizionale anche quelli telematici, al fine di assicurare la piu' ampia diffusione delle informazioni e la maggiore partecipazione possibile da parte dei soggetti interessati;
+
+                            
+                        
+                        
+                            d)
+                            
+                                massima pubblicita' delle caratteristiche qualitative e tecniche dei beni e servizi oggetto delle convenzioni;
+
+                            
+                        
+                        
+                            e)
+                            
+                                indicazione di un termine certo e congruo per la conclusione del procedimento;
+
+                            
+                        
+                        
+                            f)
+                            
+                                esplicitazione chiara ed esauriente dei criteri di aggiudicazione;
+
+                            
+                        
+                        
+                            g)
+                            
+                                inserimento, nei bandi per le procedure relative all'approvvigionamento di beni, dei soli servizi necessari per porre in essere utilmente la fornitura, privi di autonomia nel contesto del contratto;
+
+                            
+                        
+                        
+                            h)
+                            
+                                previsione espressa nei bandi delle procedure della facolta', per le amministrazioni che aderiscono a una convenzione relativa all'approvvigionamento di beni, di non acquisire anche i servizi accessori inseriti nella medesima convenzione che non risultino essenziali per la fornitura.
+
 In particolare, la CONSIP provvede ad emanare direttive e criteri in ordine ai tempi e alle modalita' di divulgazione delle informazioni ai soggetti interessati. La CONSIP provvede, altresi', all'individuazione predeterminata dei criteri generali di valutazione delle offerte applicabili per tipologia di gara, garantendo apposita e tempestiva comunicazione ai soggetti interessati.
 
 Riguardo ai rapporti con le amministrazioni pubbliche interessate, la CONSIP provvede a predisporre appositi formulari per acquisire informazioni precise e dettagliate riguardo all'aspetto qualitativo e quantitativo dei beni e servizi. I bandi di gara individuano le caratteristiche tecniche e di qualita' dei beni e servizi oggetto della gara.
@@ -42,6 +102,31 @@ I componenti delle commissioni giudicatrici, tutti in possesso di comprovata esp
 ## Art. 4. — Gare sospese
 
 In relazione alle procedure per le quali non sono ancora state stipulate le relative convenzioni, la CONSIP compara, per ciascuna procedura, l'iter gia' seguito con il procedimento e le garanzie di trasparenza e massima partecipazione richieste dalla normativa in vigore, alla luce dei principi di cui all'articolo 2 del presente decreto, e verifica se e in che misura tali garanzie sono state rispettate.
+
+2.
+                    
+                        
+                            All'esito di tale verifica, la CONSIP individua:
+ 
+                        
+                        
+                            a)
+                            
+                                le gare che possono essere concluse con la stipula delle relative convenzioni, perche' le garanzie di trasparenza e massima partecipazione sono state sufficientemente assicurate, anche con modalita' equipollenti a quelle attualmente in vigore;
+
+                            
+                        
+                        
+                            b)
+                            
+                                le gare che devono essere annullate in via di autotutela, perche' non sono state rispettate le garanzie di trasparenza e massima partecipazione in sede di bando e di selezione delle offerte;
+
+                            
+                        
+                        
+                            c)
+                            
+                                le gare in cui, non essendo ancora state aperte le buste contenenti le offerte, e' possibile riaprire i termini del bando originario, per garantire la massima partecipazione, e, immutate le altre condizioni stabilite dal bando, dando facolta' ai concorrenti che hanno gia' presentato l'offerta di optare per la formulazione di una nuova offerta sostitutiva della precedente. E' facolta' della CONSIP, in considerazione del tempo trascorso e di altre valutazioni del pubblico interesse, disporre la revoca della gara in luogo della riapertura dei termini.
 
 In caso di rinnovo della gara, a seguito di annullamento o revoca ai sensi delle lettere b) e c) del comma 2, per la commissione giudicatrice si osserva l'articolo 3, comma 1, del presente decreto.
 

@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
 vigenza_date: 2025-10-25
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:42Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -54,6 +54,38 @@ Le aziende o unita' produttive di cui all'articolo 1 applicano le disposizioni d
 
 ## Art. 3. — Definizioni
 
+1.
+                    
+                        
+                            Ai fini del presente regolamento si intende per: 
+ 
+                        
+                        
+                            a)
+                            
+                                decreto n. 388 del 2003: decreto 15 luglio 2003, n. 388, di adozione del regolamento recante disposizioni sul pronto soccorso aziendale, in attuazione dell'articolo 15, comma 3, del decreto legislativo 19 settembre 1994, n. 626, e successive modificazioni; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                ambito ferroviario: il materiale rotabile e l'infrastruttura ferroviaria ove si svolgono le attivita' proprie dell'esercizio ferroviario nonche' gli impianti degli operatori ferroviari, strettamente connessi all'infrastruttura ferroviaria, di ricovero e manutenzione necessari all'esercizio ferroviario; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                attivita' lavorativa in ambito ferroviario: ogni attivita' lavorativa, comprese quelle proprie del trasporto ferroviario, purche' sia svolta in ambito ferroviario; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                attivita' lavorativa in ambito ferroviario svolta in luogo isolato: ogni attivita' lavorativa in ambito ferroviario svolta in luoghi diversi dalle sedi delle aziende o unita' produttive, ove non esistono posti permanenti di pronto soccorso. Rientrano in tale fattispecie le attivita' di manutenzione ordinaria e straordinaria effettuata nelle aree della rete ferroviaria in esercizio.
+
 ## Art. 4. — Organizzazione di pronto soccorso
 
 Ai sensi dell'articolo 2 del decreto n. 388 del 2003, il datore di lavoro che impiega proprio personale nelle attivita' lavorative di cui ai commi 1 e 2 dell'articolo 2 provvede a fornire ai lavoratori le dotazioni di cui all'articolo 5. I gestori delle infrastrutture e le imprese ferroviarie, coordinandosi fra loro e con i servizi pubblici di pronto soccorso, predispongono ((, in conformita' ai propri sistemi di gestione della sicurezza, cosi' come definiti dall'articolo 8 del decreto legislativo 14 maggio 2019, n. 50,)) procedure operative per attuare uno specifico piano di intervento che preveda ((lungo la)) rete ferroviaria le modalita' piu' efficaci al fine di garantire un soccorso qualificato ((incluso)) il trasporto degli infortunati. ((Le suddette procedure, elaborate sulla base della valutazione dei rischi e nel rispetto delle disposizioni normative europee in materia di sicurezza e di interoperabilita' del trasporto ferroviario, prevedono anche l'utilizzo di dispositivi o strumenti tecnologici che garantiscono il tempestivo arresto della marcia del convoglio, in conformita' alle disposizioni di cui al regolamento di esecuzione (UE) 2019/773 della Commissione del 16 maggio 2019, e, fermo restando quanto previsto dall'articolo 5, comma 1, del presente decreto, possono, altresi', prevedere l'utilizzo di dispositivi o strumenti tecnologici che garantiscono la richiesta automatica di attivazione di pronto soccorso. I dispositivi o strumenti tecnologici che garantiscono la richiesta automatica di attivazione di pronto soccorso sono installati nel rispetto della normativa europea applicabile agli stessi.))
@@ -75,4 +107,32 @@ Il corso di formazione ha durata non inferiore a sei ore ed e' svolto da persona
 Sono fatti salvi i corsi di formazione ultimati entro la data di entrata in vigore del presente regolamento, purche' la durata degli stessi non sia inferiore alle quattro ore e si siano svolti sugli argomenti di cui all'allegato 1.
 
 ## Art. 7. — Disposizioni transitorie e finali
+
+1.
+                    
+                        
+                            I soggetti di cui all'articolo 1 provvedono agli adempimenti di seguito indicati nel rispetto dei termini previsti ed esattamente: 
+ 
+                        
+                        
+                            a)
+                            
+                                entro ventiquattro mesi ad erogare il corso di formazione di cui all'articolo 6; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                entro diciotto mesi: 
+ 1) a dotare ogni luogo isolato dell'infrastruttura ferroviaria e il personale ivi impiegato di idonei sistemi di telefonia fissa o di apparati radio idonei a garantire la comunicazione del personale ivi presente e di quello a bordo dei mezzi di trasporto per l'attivazione della richiesta di pronto soccorso; 
+ 2) a dotare tutti i mezzi di trasporto ferroviario o il personale ad essi adibito di sistemi di comunicazione radio su rete pubblica o privata idonei ad attivare la richiesta di pronto soccorso, qualora la linea non sia attrezzata con punti fissi di telefonia; 
+ 3) a dotare tutti i treni in servizio passeggeri non completamente percorribili di un sistema che consenta la comunicazione interna tra il personale di macchina e l'altro personale viaggiante ed a predisporre una procedura idonea ad attivare, comunque, la richiesta di pronto soccorso; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                entro dodici mesi a predisporre le procedure operative di intervento in modo coordinato con le procedure attivate dagli altri soggetti operanti in ambito ferroviario e con i servizi pubblici di pronto soccorso, anche per il trasporto degli infortunati.
 

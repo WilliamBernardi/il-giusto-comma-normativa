@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Regolamenti di delegificazione
 vigenza_date: 2003-12-27
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:40:24Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -40,6 +40,24 @@ Al Comitato partecipano anche i Ministri non facenti parte del Comitato stesso, 
 
 ## Art. 3. — Coordinamento delle attivita'
 
+1.
+                    
+                        
+                            Il consiglio dei direttori di cui all'art. 9, comma 7, della legge, assicura:
+ 
+                        
+                        
+                            a)
+                            
+                                il coordinamento delle attivita' tecnico-scientifiche degli organismi rappresentati nel Consiglio;
+
+                            
+                        
+                        
+                            b)
+                            
+                                l'armonizzazione dell'attivita' degli organismi di cui alla lettera a) con quella delle strutture tecniche, operanti in analoghi settori, delle regioni a statuto speciale ed ordinario, delle prov- ince autonome di Trento e Bolzano, delle province, dei comuni, delle comunita' montane, dei consorzi di bonifica ed irrigazione e dei consorzi di bacino imbrifero montano.
+
 La funzione di cui alla lettera b) del comma 1 e' svolta con il concorso delle regioni e delle province autonome di Trento e Bolzano anche attraverso la partecipazione di propri rappresentanti alle sedute del consiglio stesso. Le regioni e le province autonome di Trento e Bolzano provvedono, inoltre, a fornire al consiglio dei direttori le informazioni sulla consistenza e sulle modalita' di funzionamento dei sistemi di controllo e sorveglianza del territorio gestiti da esse stesse e dagli altri enti indicati nella lettera b) citata ed i rispettivi programmi di attivita'.
 
 Il presidente del consiglio dei direttori puo' convocare i consigli scientifici e altri organi collegiali di consulenza tecnico- scientifica degli organismi rappresentati nel consiglio dei direttori per sottoporre agli stessi specifici quesiti.
@@ -51,6 +69,70 @@ I Servizi collaborano con il Servizio nazionale della protezione civile ai sensi
 ## Art. 4. — Dipartimento per i Servizi tecnici nazionali
 
 Nell'ambito del Segretariato generale della Presidenza del Consiglio dei Ministri e' istituito il Dipartimento per i servizi tecnici nazionali.
+
+2.
+                    
+                        
+                            Il Dipartimento provvede:
+ 
+                        
+                        
+                            a)
+                            
+                                allo svolgimento, attraverso i Servizi, dell'attivita' conoscitiva di cui all'art. 2 della legge;
+
+                            
+                        
+                        
+                            b)
+                            
+                                alla organizzazione ed alla gestione del sistema informativo unico e della rete nazionale integrata di rilevamento e sorveglianza;
+
+                            
+                        
+                        
+                            c)
+                            
+                                all'attivita' di documentazione e di diffusione dei dati raccolti e della elaborazione degli stessi;
+
+                            
+                        
+                        
+                            d)
+                            
+                                allo svolgimento, attraverso l'ufficio affari amministrativi, dei compiti di cui all'art. 6, comma 1.
+
+3.
+                    
+                        
+                            Il Dipartimento svolge inoltre le funzioni di Segreteria tecnica del Comitato dei Ministri provvedendo, in particolare, agli adempimenti riguardanti:
+ 
+                        
+                        
+                            a)
+                            
+                                le proposte al Comitato degli atti di indirizzo e coordinamento dell'attivita' dei Servizi, ai sensi dell'art. 4, comma 3, della legge;
+
+                            
+                        
+                        
+                            b)
+                            
+                                la predisposizione di criteri, metodi e standards di raccolta, elaborazione e consultazione dei dati relativi all'attivita' conoscitiva svolta dai Servizi;
+
+                            
+                        
+                        
+                            c)
+                            
+                                le proposte al Comitato per l'assegnazione ai Servizi dei finanziamenti previsti dagli articoli 21 e 25 della legge;
+
+                            
+                        
+                        
+                            d)
+                            
+                                l'informazione al Comitato sull'attivita' del Dipartimento e dei singoli Servizi.
 
 Il Dipartimento e' articolato nei Servizi, nell'ufficio affari amministrativi e nell'ufficio per il sistema informativo unico.
 
@@ -68,9 +150,77 @@ Le informazioni contenute nel sistema informativo unico appartengono ai soggetti
 
 Il capo del Dipartimento, ai fini dell'accertamento della congruenza con i programmi di ottimizzazione del sistema di monitoraggio del territorio, nonche' della corrispondenza agli stand- ards tecnico-funzionali prefissati dal Comitato dei Ministri, esprime parere, ai sensi dell'art. 16 della legge 7 agosto 1990, n. 241, sentiti i direttori dei Servizi, sulla installazione sul territorio nazionale di nuove reti di rilevamento e sorveglianza non inserite nella rete nazionale integrata di rilevamento e sull'ampliamento e l'integrazione di reti gia' esistenti.
 
+7.
+                    
+                        
+                            L'ufficio per il sistema informativo unico comprende i seguenti settori:
+ 
+                        
+                        
+                            a)
+                            
+                                informatica e telematica;
+
+                            
+                        
+                        
+                            b)
+                            
+                                documentazione;
+
+                            
+                        
+                        
+                            c)
+                            
+                                biblioteca.
+
 Il capo del Dipartimento puo' avvalersi, per le questioni concernenti il sistema informativo unico, di esperti e consiglieri di cui all'art. 10 e rientranti nel contingente dallo stesso determinato.
 
 ## Art. 6. — Affari amministrativi
+
+1.
+                    
+                        
+                            All'ufficio affari amministrativi sono attribuite le seguenti competenze:
+ 
+                        
+                        
+                            a)
+                            
+                                gli affari generali nonche', in coordinamento con il Dipartimento degli affari generali e del personale della Presidenza del Consiglio dei Ministri, gli affari relativi al personale;
+
+                            
+                        
+                        
+                            b)
+                            
+                                gli adempimenti di natura finanziaria e contabile relativi alle attivita' strumentali del Dipartimento, nonche' la stipula di contratti e convenzioni e tenuta del relativo repertorio;
+
+                            
+                        
+                        
+                            c)
+                            
+                                la provvista, la manutenzione e la gestione dei beni strumentali allo svolgimento delle attivita' del Dipartimento e la gestione dei servizi generali.
+
+2.
+                    
+                        
+                            L'Ufficio comprende i seguenti settori:
+ 
+                        
+                        
+                            a)
+                            
+                                affari generali e del personale;
+
+                            
+                        
+                        
+                            b)
+                            
+                                affari contabili e finanziari.
 
 Ai procedimenti relativi allo stato giuridico del personale, nonche' al pagamento delle retribuzioni e delle spese fisse ed accessorie, provvede il Dipartimento degli affari generali e del personale della Presidenza del Consiglio dei Ministri.
 

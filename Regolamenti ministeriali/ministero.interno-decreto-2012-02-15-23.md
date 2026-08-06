@@ -8,8 +8,8 @@ codice_redazionale: 012G0041
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:42Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -33,9 +33,59 @@ E' istituito presso il Ministero dell'interno - Dipartimento per gli affari inte
 
 L'inserimento nell'elenco avviene con l'iscrizione a livello regionale, in relazione alla residenza anagrafica di ciascun richiedente.
 
+3.
+                    
+                        
+                            L'iscrizione nell'elenco avviene, una volta accertato il possesso dei requisiti previsti, in relazione alla tipologia e alla dimensione demografica degli enti locali raggruppati, a tal fine, nelle seguenti fasce: 
+ 
+                        
+                        
+                            a)
+                            
+                                fascia 1: comuni fino a 4.999 abitanti; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                fascia 2: comuni con popolazione da 5.000 a 14.999 abitanti, unioni di comuni e comunita' montane; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                fascia 3: comuni con popolazione pari o superiore a 15.000 abitanti, nonche' province.
+
 I richiedenti possono chiedere di essere inseriti in una o piu' fasce di enti locali, fermo restando il possesso dei requisiti per l'inserimento in ciascuna fascia.
 
 ## Art. 2. — Contenuto e pubblicita' dell'elenco
+
+1.
+                    
+                        
+                            L'elenco, articolato a livello regionale, riporta i seguenti elementi informativi per ciascun revisore: 
+ 
+                        
+                        
+                            a)
+                            
+                                il nome, il cognome, il luogo e la data di nascita; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                la residenza; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                la data e il numero di iscrizione nel registro dei revisori legali o all'Ordine dei dottori commercialisti e degli esperti contabili.
 
 L'elenco e' stilato in ordine alfabetico per ciascuna articolazione regionale e reso pubblico sulle pagine del sito internet Ministero dell'interno - Dipartimento per gli affari interni e territoriali, con effetti di pubblicita' legale ai sensi dell'articolo 32 della legge 18 giugno 2009, n. 69.
 
@@ -43,11 +93,119 @@ L'elenco e' stilato in ordine alfabetico per ciascuna articolazione regionale e 
 
 Per l'inserimento nell'elenco dei revisori dei conti degli enti locali, i richiedenti devono essere in possesso di determinati requisiti per ciascun raggruppamento di fascia di enti locali di cui al precedente articolo 1, comma 3, fermo restando quanto previsto dal successivo articolo 4 per la fase di prima applicazione.
 
+2.
+                    
+                        
+                            Nella fascia 1) degli enti locali sono inseriti i richiedenti in possesso dei seguenti requisiti: 
+ 
+                        
+                        
+                            a)
+                            
+                                iscrizione da almeno 2 anni nel registro dei revisori legali o all'Ordine dei dottori commercialisti e degli esperti contabili; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                conseguimento, nel periodo 1° gennaio - 30 novembre dell'anno precedente, di almeno 10 crediti formativi per aver partecipato a corsi e/o seminari formativi in materia di contabilita' pubblica e gestione economica e finanziaria degli enti territoriali i cui programmi di approfondimento ed i relativi test di verifica siano stati preventivamente condivisi con il Ministero dell'interno.
+
+3.
+                    
+                        
+                            Nella fascia 2) degli enti locali sono inseriti i richiedenti in possesso dei seguenti requisiti: 
+ 
+                        
+                        
+                            a)
+                            
+                                iscrizione da almeno 5 anni nel registro dei revisori legali o all'Ordine dei dottori commercialisti e degli esperti contabili; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                aver svolto almeno un incarico di revisore dei conti presso un ente locale per la durata di tre anni; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                conseguimento, nel periodo 1° gennaio - 30 novembre dell'anno precedente, di almeno 10 crediti formativi per aver partecipato a corsi e/o seminari formativi in materia di contabilita' pubblica e gestione economica e finanziaria degli enti territoriali i cui programmi di approfondimento ed i relativi test di verifica siano stati preventivamente condivisi con il Ministero dell'interno.
+
+4.
+                    
+                        
+                            Nella fascia 3) degli enti locali sono inseriti i richiedenti in possesso dei seguenti requisiti: 
+ 
+                        
+                        
+                            a)
+                            
+                                iscrizione da almeno 10 anni nel registro dei revisori legali o all'Ordine dei dottori commercialisti e degli esperti contabili; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                aver svolto almeno due incarichi di revisore dei conti presso enti locali, ciascuno per la durata di tre anni; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                conseguimento, nel periodo 1° gennaio - 30 novembre dell'anno precedente, di almeno 10 crediti formativi per aver partecipato a corsi e/o seminari formativi in materia di contabilita' pubblica e gestione economica e finanziaria degli enti territoriali i cui programmi di approfondimento ed i relativi test di verifica siano stati preventivamente condivisi con il Ministero dell'interno.
+
 Il Ministero dell'interno puo' organizzare direttamente, senza oneri per lo Stato, avvalendosi della Scuola Superiore dell'Amministrazione dell'Interno, corsi e seminari in materia di contabilita' pubblica e gestione economica e finanziaria degli enti locali che consentono il conseguimento del requisito riferito ai 10 crediti formativi annuali previsti ai precedenti commi.
 
 ## Art. 4. — Requisiti per l'inserimento nell'elenco in sede di prima applicazione
 
 In sede di prima applicazione delle disposizioni del presente decreto, sono richiesti i seguenti requisiti.
+
+2.
+                    
+                        
+                            Per la fascia 1) degli enti locali, fermo restando il requisito di cui all'articolo 3, comma 2, lettera a), e' necessario: 
+ 
+                        
+                        
+                            a)
+                            
+                                aver avanzato, entro la data di entrata in vigore del presente decreto, richiesta di svolgere la funzione quale organo di revisione di ente locale; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                aver conseguito almeno 15 crediti formativi, acquisiti nel triennio 2009-2011 e riconosciuti dai competenti Ordini professionali o associazioni rappresentative degli stessi, per aver partecipato a corsi e/o seminari formativi in materia di contabilita' pubblica e gestione economica e finanziaria degli enti territoriali.
+
+3.
+                    
+                        
+                            Per le fasce 2 e 3 degli enti locali e' necessario - fermi restando, rispettivamente, i requisiti di cui all'articolo 3, commi 3 lett. 
+                        
+                        
+                            a)
+                            
+                                e
+                            
+                        
+                        
+                            b)
+                            
+                                e 4, lett. a) e b) - il conseguimento, in luogo dei crediti formativi rispettivamente previsti dallo stesso articolo 3, commi 3 lett.
+                            
+                        
+                        
+                            c)
+                            
+                                e 4) lett. c), di almeno 15 crediti formativi, acquisiti nel triennio 2009-2011 e riconosciuti dai competenti Ordini professionali o associazioni rappresentative degli stessi, per aver partecipato a corsi e/o seminari formativi in materia di contabilita' pubblica e gestione economica e finanziaria degli enti territoriali.
 
 ## Art. 5. — Scelta dell'organo di revisione economico-finanziario
 

@@ -8,8 +8,8 @@ codice_redazionale: 012G0075
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti governativi
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:12Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -87,9 +87,190 @@ L'articolo 2 del decreto del Presidente della Repubblica 23 aprile 2001, n. 290,
 
 ## Art. 2. — Modifiche all'articolo 4 del decreto del Presidente della Repubblica 23 aprile 2001, n. 290
 
+1.
+                    
+                        
+                            All'articolo 4 del decreto del Presidente della Repubblica 23 aprile 2001, n. 290, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 1, dopo le parole: "coadiuvanti di prodotti fitosanitari" sono inserite le seguenti: ", redatta secondo la specifica modulistica elettronica, predisposta per le diverse tipologie di istanza, disponibile sul portale del Ministero" e le parole: "al Dipartimento" sono sostituite dalle seguenti: "alla Direzione generale"; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 2, le parole: "Il Dipartimento" sono sostituite dalle seguenti: "La Direzione generale" e le parole: "del Dipartimento" sono sostituite dalle seguenti: "dalla Direzione generale"; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                al comma 3, le parole: "al Dipartimento" sono sostituite dalle seguenti: "alla Direzione generale"; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                al comma 4, le parole: "il Dipartimento" sono sostituite dalle seguenti: "la Direzione generale"; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                al comma 5, le parole: "del Dipartimento" sono sostituite dalle seguenti: "della Direzione generale".
+
 ## Art. 3. — Modifiche agli articoli 6, 7 e 8 del decreto del Presidente della Repubblica 23 aprile 2001, n. 290
 
+1.
+                    
+                        
+                            All'articolo 6 del decreto del Presidente della Repubblica 23 aprile 2001, n. 290, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 1, le parole: "Il Dipartimento" sono sostituite dalle seguenti: "La Direzione generale"; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 2, le parole: "del Dipartimento" sono sostituite dalle seguenti: "della Direzione generale".
+
+2.
+                    
+                        
+                            All'articolo 7 del decreto del Presidente della Repubblica 23 aprile 2001, n. 290, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 1, le parole: "al Dipartimento" sono sostituite dalle seguenti: "alla Direzione generale"; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 2, le parole: "Il Dipartimento" sono sostituite dalle seguenti: "La Direzione generale".
+
+3.
+                    
+                        
+                            All'articolo 8 del decreto del Presidente della Repubblica 23 aprile 2001, n. 290, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 1, le parole: "Il Dipartimento" sono sostituite dalle seguenti: "La Direzione generale"; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 2, le parole: "il Dipartimento" sono sostituite dalle seguenti: "la Direzione generale".
+
 ## Art. 4. — Modifiche all'articolo 9 del decreto del Presidente della Repubblica 23 aprile 2001, n. 290
+
+1.
+                    
+                        
+                            All'articolo 9 del decreto del Presidente della Repubblica 23 aprile 2001, n. 290, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                l'articolo 9 e' sostituito dal seguente: 
+
+
+				 
+ "Art. 9. 
+
+ 
+
+				 
+(Domanda di autorizzazione all'immissione sul mercato di prodotti fitosanitari) 
+
+ 
+ 1. La domanda di autorizzazione di un prodotto fitosanitario, redatta secondo la specifica modulistica elettronica predisposta per le differenti tipologie di istanza previste dal regolamento (CE) n. 1107/2009 disponibili sul portale del Ministero della salute, e' inoltrata alla Direzione generale dal responsabile o a nome del responsabile della prima immissione in commercio, legalmente domiciliato nel territorio comunitario, unitamente a: 
+ a) un fascicolo, da presentarsi in formato elettronico, rispondente ai requisiti di cui all'allegato al regolamento (CE) n. 545/2011 della Commissione, del 10 giugno 2011, nel formato comprendente il rapporto di registrazione (registration report,) ove previsto per la fattispecie di sostanza attiva, cosi' come richiesto nel modulo elettronico sopra riportato; 
+ b) un fascicolo, da presentarsi in formato elettronico, rispondente ai requisiti di cui all'allegato al regolamento (CE) n. 544/2011 della Commissione, del 10 giugno 2011, per ciascuna sostanza attiva, antidoto agronomico e sinergizzante presente nel preparato o lettera d'accesso fornita dal titolare del fascicolo secondo quanto disposto al comma 4; 
+ c) per ciascun test o ciascuno studio sugli animali vertebrati, la giustificazione delle misure prese per evitare la sperimentazione animale e la duplicazione di test e studi su vertebrati; 
+ d) le ragioni per le quali le relazioni dei test e degli studi presentate sono necessarie per la prima autorizzazione; 
+ e) nel caso sia necessario fissare nuovi limiti massimi di residuo o variare quelli esistenti, una copia della domanda dei livelli massimi di residuo di cui all'articolo 7 del regolamento (CE) n. 396/2005 del Parlamento europeo e del Consiglio, del 23 febbraio 2005, o una giustificazione per la mancata comunicazione di tali informazioni; 
+ f) nel caso di domanda di autorizzazione zonale, secondo le procedure previste dagli articoli dal 35 al 39 del regolamento (CE) n. 1107/2009, l'indicazione dello Stato membro relatore; 
+ g) un facsimile in formato elettronico modificabile della bozza di etichetta contenente le informazioni che si intendono apporre sull'etichetta definitiva, conforme alle prescrizioni in materia di classificazione in base al regolamento (CE) 1272/2008 del Parlamento europeo e del Consiglio, del 16 dicembre 2008, e che deve riportare almeno: 
+ 1) la dose massima per ettaro in ciascuna applicazione; 
+ 2) il periodo tra l'ultima applicazione e il raccolto; 
+ 3) il numero massimo di applicazioni all'anno; 
+ 4) l'intervallo tra i trattamenti; 
+ 5) un'eventuale restrizione della distribuzione e dell'uso del prodotto fitosanitario, al fine di proteggere la salute dei distributori, degli utilizzatori, degli astanti, dei residenti, dei consumatori o dei lavoratori interessati o l'ambiente, tenendo conto dei requisiti imposti da altre disposizioni comunitarie; l'inclusione di tale restrizione e' indicata sull'etichetta; 
+ 6) ove ritenuto necessario sulla base della valutazione del rischio per gli astanti, l'obbligo di informare, prima dell'uso del prodotto, i vicini che potrebbero essere esposti alla nebulizzazione dovuta alla deriva e che abbiano chiesto di essere informati; 
+ 7) l'indicazione di categorie di utilizzatori, ad esempio: "professionali" e: "non professionali"; 
+ 8) l'intervallo di rientro; 
+ 9) le dimensioni e il materiale di imballaggio; 
+ 10) indicazioni relativamente all'utilizzo corretto secondo i principi in materia di gestione integrata delle specie nocive di cui all'articolo 14 e all'allegato III della direttiva 2009/128/CE del Parlamento europeo e del Consiglio, del 21 ottobre 2009; 
+ 11) il periodo tra l'ultima applicazione del prodotto fitosanitario ed il consumo, se del caso. 
+ 2. Nel caso di domanda di mutuo riconoscimento, ai sensi dell'articolo 42 del regolamento (CE) n. 1107/2009, oltre alla documentazione di cui al comma 1 , lettere a), b) e g): 
+ a) una copia dell'autorizzazione del prodotto fitosanitario in questione gia' rilasciata da altro Stato membro, nonche' una traduzione giurata in lingua italiana di detta autorizzazione; 
+ b) una dichiarazione formale attestante che il prodotto fitosanitario e' identico a quello autorizzato dallo Stato membro di riferimento; 
+ c) un rapporto di valutazione dello Stato membro di riferimento contenente informazioni sulla valutazione del prodotto fitosanitario e sulla decisione presa al riguardo. 
+ 3. Nel caso sia necessario valutare l'equivalenza della sostanza attiva, antidoto agronomico e sinergizzanti con quella di riferimento approvata ai sensi del regolamento (CE) n. 1107/2009, oltre alla valutazione di cui al comma 1, una copia delle conclusioni dello Stato membro che valuta l'equivalenza, di cui all'articolo 38, paragrafo 2, del suddetto regolamento (CE) n. 1107/2009. 
+ 4. I richiedenti sono esentati dall'obbligo di fornire le relazioni dei test e degli studi di cui al comma 1, lettere a) e b), nel caso in cui la Direzione generale ne sia gia' in possesso e i richiedenti dimostrino di aver ottenuto l'accesso conformemente agli articoli 59, 61 o 62 del regolamento (CE) n. 1107/2009 oppure che l'eventuale periodo di protezione dei dati sia scaduto. 
+ 5. Fatte salve le esenzioni di cui al comma 4, i richiedenti devono sempre fornire le seguenti informazioni: 
+ a) tutti i dati necessari per l'identificazione del prodotto fitosanitario, compresa la sua composizione completa, nonche' una dichiarazione secondo cui non vengono utilizzati coformulanti considerati inaccettabili ai sensi dell'articolo 27 del regolamento (CE) n. 1107/2009; 
+ b) le informazioni necessarie per identificare la sostanza attiva, l'antidoto agronomico o il sinergizzante, se sono stati approvati, e per stabilire se le condizioni per l'approvazione siano rispettate e, se del caso, se siano conformi al disposto dell'articolo 29, paragrafo 1, lettera b), del regolamento (CE) n. 1107/2009; 
+ c) i dati necessari per dimostrare che il prodotto fitosanitario ha effetti comparabili a quelli del prodotto fitosanitario ai cui dati protetti i richiedenti comprovano di avere accesso. 
+ 6. La domanda di autorizzazione di cui al comma 1, cosi' come la parte A del registration report, devono essere redatti in lingua italiana, mentre la documentazione di cui al comma 1, lettere a) e b), nonche' le parti B e C del registration report di cui al comma 1, puo' essere presentata anche in lingua inglese; la Direzione generale puo' chiedere la traduzione in lingua italiana dei sommari o delle conclusioni di studi specifici, nonche' la presentazione di campioni del preparato o dei suoi componenti."; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                dopo l'articolo 9 e' inserito il seguente: 
+
+
+				 
+ "Art. 9-bis. 
+
+ 
+
+				 
+(Rilascio di autorizzazione all'immissione sul mercato di prodotti fitosanitari) 
+
+ 
+ 1. Presso la Direzione generale e' costituito un fascicolo per ogni prodotto fitosanitario, contenente: 
+ a) almeno una copia della domanda; 
+ b) una copia dell'etichetta, del facsimile della stessa e dell'eventuale foglio illustrativo; 
+ c) il provvedimento adottato in merito alla domanda, gli atti relativi alla valutazione della documentazione di cui all'articolo 9, nonche' una sintesi della documentazione stessa. 
+ 2. L'autorizzazione di un prodotto fitosanitario e' rilasciata dalla Direzione generale per un periodo di tempo che non superi di un anno la data di scadenza dell'approvazione delle sostanze attive degli antidoti agronomici e dei sinergizzanti contenuti nel prodotto fitosanitario, ai sensi dell'articolo 32 del regolamento (CE) n. 1107/2009 e prescrive, conformemente all'articolo 31 del regolamento (CE) 1107/2009, i requisiti di immissione sul mercato e di utilizzazione, nonche' quelli necessari per essere in regola con le disposizioni di cui all'articolo 29, paragrafo 1, del citato regolamento (CE) n. 1107/2009. 
+ 3. La Direzione generale, avvalendosi dell'istituto convenzionato di cui all'articolo 3, verifica che i requisiti del prodotto fitosanitario siano conformi a quelli di cui all'articolo 29, paragrafo 1, del regolamento (CE) 1107/2009, e che le prove e le analisi per accertare tali conformita' sono state eseguite dagli enti e dagli organismi di cui al medesimo articolo 29, paragrafi 3 e 4. 
+ 4. Nei tempi previsti dagli articoli 37, 42 e 47 del regolamento (CE) n. 1107/2009, la Direzione generale provvede al rilascio dell'autorizzazione, ovvero al rigetto motivato della domanda, acquisendo il facsimile dell'etichetta di cui all'articolo 9, comma 1, lettera g), relativo al prodotto fitosanitario autorizzato, rispondente ai requisiti risultanti dalla verifica di cui al comma 3. 
+ 5. Il provvedimento di autorizzazione riporta: 
+ a) nome e cognome del titolare dell'impresa, se si tratta di persona fisica, e sede dell'impresa o la ragione o denominazione sociale e sede legale, se si tratta di societa'; 
+ b) la denominazione attribuita al prodotto fitosanitario; 
+ c) la classificazione del prodotto fitosanitario ai sensi della regolamento (CE) n. 1272/2009; 
+ d) l'indicazione dello stabilimento o degli stabilimenti di produzione; 
+ e) su quali vegetali o prodotti vegetali e a quali fini puo' essere usato il prodotto fitosanitario; 
+ f) l'indicazione della conformita' dei LMR al regolamento (CE) n. 396/2005. 
+ g) il facsimile dell'etichetta di cui all'articolo 9, comma 2, lettera g), rispondente ai requisiti risultanti dalla verifica di cui al comma 3, pubblicato sul portale del Ministero della salute, nella banca dati dei prodotti fitosanitari e, per gli aspetti agronomici sulla banca dati presente sul portale del Ministero delle politiche agricole, alimentari e forestali. 
+ 6. L'autorizzazione di cui al comma 2 e' comunicata all'interessato, nonche' agli assessorati della salute, dell'agricoltura e dell'ambiente delle regioni e delle province autonome di Trento e di Bolzano e al Servizio Fitosanitario Centrale del Ministero delle politiche agricole alimentari e forestali, con il relativo numero di registrazione. 
+ 7. Il Ministero, su richiesta, mette a disposizione degli altri Stati membri e della Commissione europea il fascicolo di cui al comma 1 e fornisce tutte le informazioni necessarie per una piena comprensione delle istanze; il richiedente, su invito del Ministero, e' tenuto a presentare alla Commissione europea ed agli Stati membri che la richiedono copia della documentazione tecnica di cui all'articolo 9, comma 1, lettera a). 
+ 8. Le Aziende sono tenute a realizzare, nella veste tipografica definitiva, l'etichetta e il foglio illustrativo, ove previsto, che accompagnano il prodotto fitosanitario.".
 
 ## Art. 5. — Modifiche all'articolo 10 del decreto del Presidente della Repubblica 23 aprile 2001, n. 290
 
@@ -183,11 +364,75 @@ All'articolo 14 del decreto del Presidente della Repubblica 23 aprile 2001, n. 2
 
 ## Art. 10. — Modifiche all'articolo 15 del decreto del Presidente della Repubblica 23 aprile 2001, n. 290
 
+1.
+                    
+                        
+                            All'articolo 15 del decreto del Presidente della Repubblica 23 aprile 2001, n. 290, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 1, le parole: "al Dipartimento" sono sostituite dalle seguenti: "alla Direzione generale"; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 2, dopo la parola: "copia," sono inserite le seguenti: "e' presentata secondo la specifica modulistica elettronica predisposta per le differenti tipologie di istanza, disponibili sul portale del Ministero della salute e". 
+
+                            
+                        
+                        
+                            c)
+                            
+                                al comma 5, le parole: "dal Dipartimento" sono sostituite dalle seguenti: "dalla Direzione generale"; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                al comma 6, le parole: "il Dipartimento" sono sostituite dalle seguenti: "la Direzione generale".
+
 ## Art. 11. — Modifica all'articolo 16 del decreto del Presidente della Repubblica 23 aprile 2001, n. 290
 
 All'articolo 16, comma 3, del decreto del Presidente della Repubblica 23 aprile 2001, n. 290, le parole: "Il Dipartimento" sono sostituite dalle seguenti: "La Direzione generale".
 
 ## Art. 12. — Modifiche all'articolo 17 del decreto del Presidente della Repubblica 23 aprile 2001, n. 290
+
+1.
+                    
+                        
+                            All'articolo 17 del decreto del Presidente della Repubblica 23 aprile 2001, n. 290, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                ai commi 2 e 3, le parole: "Il Dipartimento" sono sostituite dalle seguenti: "La Direzione generale"; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 4, le parole: "al Dipartimento" sono sostituite dalle seguenti: "alla Direzione generale"; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                al comma 3, le parole: "commi 2, 3 e 4" sono sostituite dalle seguenti: "commi 4, 5 e 6"; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                al comma 5, lettera h), le parole da: "Entro trenta giorni" alle parole: "delle etichette modificate" sono soppresse.
 
 All'articolo 17 del decreto del Presidente della Repubblica 23 aprile 2001, n. 290, dopo il comma 5 e' aggiunto, infine, il seguente: 
  "5-bis. Le modifiche sono disposte conformemente alle modalita' descritte all'articolo 12, comma 7, nei casi in cui la modifica dell'autorizzazione riguardi: 

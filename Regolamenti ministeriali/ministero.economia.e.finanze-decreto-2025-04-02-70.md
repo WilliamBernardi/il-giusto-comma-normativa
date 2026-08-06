@@ -7,8 +7,8 @@ urn: urn:nir:ministero.economia.e.finanze:decreto:2025-04-02;70
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:42Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -44,6 +44,24 @@ Il procedimento di revoca della concessione si conclude con l'emanazione del pro
 Qualora non vi siano le condizioni per l'applicazione dell'articolo 5, fermo restando quanto previsto al comma 4 del presente articolo, e' corrisposto un indennizzo al concessionario, proporzionato all'effettivo residuo onere di investimento fino alla data della revoca.
 
 L'indennizzo di cui al comma 1 e' corrisposto quando la revoca e' disposta entro i primi cinque anni dall'aggiudicazione della concessione, ovvero quando, pur intervenendo negli anni successivi, sono stati richiesti dall'Agenzia delle dogane e dei monopoli, nei due anni precedenti, investimenti totali in materia di sicurezza del gioco, di adeguamenti tecnologici o di contrasto al gioco patologico, di importo superiore, nel totale, a quanto versato ai sensi dell'articolo 6, comma 5, lettera p) del decreto legislativo 25 marzo 2024, n. 41. Non rientrano in tali investimenti gli importi spesi per migliorare la rete commerciale o la propria offerta di gioco al pubblico. L'indennizzo non e' mai corrisposto quando la revoca e' disposta in situazione di proroga della concessione.
+
+3.
+                    
+                        
+                            Nelle ipotesi di cui al comma 2, l'indennizzo e' corrisposto a condizione che il concessionario: 
+ 
+                        
+                        
+                            a)
+                            
+                                ha provveduto a definire eventuali situazioni di debito nei confronti dello Stato derivanti dal pagamento delle imposte, dei canoni e delle altre somme dovute per legge; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                ha effettivamente realizzato gli investimenti richiesti dall'Agenzia delle dogane e dei monopoli.
 
 Non e' dovuto alcun indennizzo quando, al momento della revoca della concessione, il margine netto, conseguito nel corso degli anni dal concessionario, inteso come differenza fra importo della raccolta di gioco e le vincite erogate, le relative imposte e le quote di prelievo ovvero come compenso del concessionario per i giochi in concessione non soggetti a un prelievo tributario calcolato sulla differenza fra raccolta e vincite erogate, e' superiore al triplo della somma della quota di importo una tantum di cui all'articolo 6, comma 5, lettera p), del decreto legislativo 25 marzo 2024, n. 41, relativa ai residui anni di concessione, del canone di concessione versato e delle spese di investimento effettuate dal concessionario.
 

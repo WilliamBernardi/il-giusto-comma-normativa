@@ -8,8 +8,8 @@ codice_redazionale: 007G0121
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti di delegificazione
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:40:25Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -37,6 +37,45 @@ Con il medesimo decreto sono determinate la remunerazione dei membri, in armonia
 Al coordinamento del personale della struttura di supporto del Nucleo e' preposto, senza incremento della dotazione organica, un dirigente di seconda fascia in servizio presso il Ministero del lavoro e della previdenza sociale - Direzione generale per le politiche previdenziali. Nei limiti delle risorse di cui alla specifica autorizzazione di spesa il Nucleo puo' avvalersi di professionalita' tecniche esterne per lo studio e l'approfondimento di questioni attinenti le competenze istituzionali dello stesso.
 
 ## Art. 2. — Organismi soggetti a misure di adeguamento ai limiti di spesa
+
+1.
+                    
+                        
+                            Sono confermati, con le rispettive funzioni, i seguenti organismi, operanti presso il Ministero del lavoro e della previdenza sociale:
+ 
+                        
+                        
+                            a)
+                            
+                                Comitato nazionale per l'attuazione dei principi di parita' di trattamento ed uguaglianza di opportunita' tra lavoratori e lavoratrici, di cui all'articolo 8, del decreto legislativo 11 aprile 2006, n. 198;
+
+                            
+                        
+                        
+                            b)
+                            
+                                Collegio istruttorio di cui all'articolo 11, del decreto legislativo 11 aprile 2006, n. 198;
+
+                            
+                        
+                        
+                            c)
+                            
+                                Comitato nazionale per l'emersione del lavoro irregolare di cui all'articolo 78 della legge 23 dicembre 1998, n. 448, e successive modificazioni;
+
+                            
+                        
+                        
+                            d)
+                            
+                                Ufficio della consigliera o del consigliere nazionale di parita', di cui all'articolo 16 del decreto legislativo 11 aprile 2006, n. 198;
+
+                            
+                        
+                        
+                            e)
+                            
+                                Rete nazionale delle consigliere e dei consiglieri di parita', di cui all'articolo 19 del decreto legislativo 11 aprile 2006, n. 198.
 
 ## Art. 3. — Disposizioni comuni
 

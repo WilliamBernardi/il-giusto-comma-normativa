@@ -9,7 +9,7 @@ vigente: true
 source: normattiva-opendata
 collection: Atti di recepimento direttive UE
 zip_date: 2026-07-30
-fetched_at: 2026-08-02T09:40:49Z
+fetched_at: 2026-07-30
 ---
 
 DECRETO LEGISLATIVO
@@ -23,6 +23,73 @@ Sulla proposta del Ministro per le politiche europee e del Ministro dello svilup
 
 ## Art. 1. — Definizioni
 
+1.
+                    
+                        
+                            All'articolo 1, comma 1, del decreto legislativo 7 settembre 2005, n. 209, sono apportate le seguenti modificazioni:
+ 
+                        
+                        
+                            a)
+                            
+                                la lettera d) e' sostituita dalla seguente:
+ «d) attivita' riassicurativa: l'assunzione e la gestione dei rischi ceduti da un'impresa di assicurazione o retrocessi da un'impresa di riassicurazione;»;
+
+                            
+                        
+                        
+                            b)
+                            
+                                la lettera aa) e' sostituita dalla seguente:
+ «aa) impresa di partecipazione assicurativa: una societa' controllante il cui unico o principale oggetto consiste nell'assunzione di partecipazioni di controllo, nonche' nella gestione e valorizzazione di tali partecipazioni, se le imprese controllate sono esclusivamente o principalmente imprese di assicurazione, imprese di riassicurazione, imprese di assicurazione o di riassicurazione extracomunitarie, sempre che almeno una di esse sia un'impresa di assicurazione o un'impresa di riassicurazione avente sede legale nel territorio della Repubblica e che non sia una impresa di partecipazione finanziaria mista secondo le rilevanti disposizioni dell'ordinamento comunitario sulla vigilanza supplementare delle imprese appartenenti ad un conglomerato finanziario;»;
+
+                            
+                        
+                        
+                            c)
+                            
+                                la lettera bb) e' sostituita dalla seguente:
+ «bb) impresa di partecipazione assicurativa mista: una societa' controllante diversa da un'impresa di assicurazione, da un'impresa di assicurazione extracomunitaria, da un'impresa di riassicurazione, da un'impresa di riassicurazione extracomunitaria, da un'impresa di partecipazione assicurativa o da una impresa di partecipazione finanziaria mista secondo le rilevanti disposizioni dell'ordinamento comunitario della vigilanza supplementare delle imprese appartenenti ad un conglomerato finanziario, sempreche' almeno una delle sue imprese controllate sia un'impresa di assicurazione o un'impresa di riassicurazione avente sede legale nel territorio della Repubblica;»;
+
+                            
+                        
+                        
+                            d)
+                            
+                                dopo la lettera cc) sono inserite le seguenti:
+ «cc-bis) impresa di riassicurazione captive: un'impresa di riassicurazione controllata da un'impresa finanziaria diversa da un'impresa di assicurazione o di riassicurazione o da un gruppo di imprese di assicurazione o riassicurazione a cui si applica la direttiva 98/78/CE oppure da un'impresa non finanziaria il cui scopo e' di fornire copertura riassicurativa esclusivamente per i rischi dell'impresa o delle imprese cui appartiene o del gruppo di cui fa parte l'impresa di riassicurazione captive;
+ cc-ter) impresa di riassicurazione extracomunitaria: la societa' avente sede legale e amministrazione centrale in uno Stato non appartenente all'Unione europea o non aderente allo Spazio economico europeo, autorizzata per l'esercizio dell'attivita' riassicurativa;
+ cc-quater) impresa finanziaria: un'impresa costituita da uno dei seguenti soggetti:
+ 1) un ente creditizio, un ente finanziario o un'impresa di servizi bancari ausiliari ai sensi dell'articolo 1, punti 5) e 23), della direttiva 2000/12/CE;
+ 2) un'impresa di assicurazione, un'impresa di riassicurazione o un'impresa di partecipazione assicurativa ai sensi dell'articolo 1, comma 1, lettere t), aa) e cc);
+ 3) un'impresa di investimento o un ente finanziario ai sensi dell'articolo 4, paragrafo 1, punto 1), della direttiva 2004/39/CE;
+ 4) un'impresa di partecipazione finanziaria mista ai sensi dell'articolo 2, punto 15), della direttiva 2002/87/CE;»;
+
+                            
+                        
+                        
+                            e)
+                            
+                                alla lettera qq), il periodo: «. I contratti stipulati da imprese italiane attraverso uno stabilimento costituito in altro Stato si considerano facenti parte del portafoglio estero» e' soppresso;
+
+                            
+                        
+                        
+                            f)
+                            
+                                dopo la lettera vv) sono inserite le seguenti:
+ «vv-bis) riassicurazione finite: una riassicurazione in base alla quale la potenziale perdita massima esplicita, espressa in termini di rischio economico massimo trasferito, risultante da un significativo trasferimento sia del rischio di sottoscrizione che del rischio di timing, eccede, per un importo limitato ma significativo, il premio per l'intera durata del contratto, unitamente ad almeno una delle seguenti caratteristiche:
+ 1) considerazione esplicita e materiale del valore del denaro in rapporto al tempo;
+ 2) disposizioni contrattuali intese a limitare il risultato economico del contratto tra le parti nel tempo, al fine di raggiungere il trasferimento del rischio previsto;
+ vv-ter) societa' veicolo: qualsiasi impresa, con o senza personalita' giuridica, diversa da un'impresa di assicurazione o di riassicurazione, che assume i rischi ceduti da imprese di assicurazione o riassicurazione e che finanzia integralmente la sua esposizione a tali rischi mediante l'emissione di titoli o altri strumenti finanziari per i quali i diritti di rimborso dei detentori sono subordinati agli obblighi di riassicurazione della societa' veicolo;»;
+
+                            
+                        
+                        
+                            g)
+                            
+                                alla lettera ggg), le parole: «dell'impresa che assume l'obbligazione o il rischio» sono sostituite dalle seguenti: «dell'impresa di assicurazione che assume l'obbligazione o il rischio o dell'impresa di riassicurazione;».
+
 ## Art. 2. — Riserve tecniche del lavoro indiretto
 
 Dopo l'articolo 37 del decreto legislativo 7 settembre 2005, n. 209, e' inserito il seguente:
@@ -33,6 +100,24 @@ L'iscrizione in bilancio delle riserve tecniche del lavoro indiretto e' effettua
 
 ## Art. 3. — Disposizioni in materia di attivi a copertura delle riserve tecniche
 
+1.
+                    
+                        
+                            L'articolo 38 del decreto legislativo 7 settembre 2005, n. 209, e' modificato come segue:
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 1, il primo periodo e' sostituto dal seguente: «Le riserve tecniche del lavoro diretto dei rami vita e dei rami danni, nonche' le riserve di perequazione di cui all'articolo 37, comma 7, sono coperte con attivi di proprieta' dell'impresa.»;
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 2, sono aggiunte, in fine, le seguenti parole: «nel rispetto delle disposizioni previste dall'ordinamento comunitario».
+
 Dopo l'articolo 42 del decreto legislativo 7 settembre 2005, n. 209, sono inseriti i seguenti:
  «Art. 42-bis (Attivi a copertura delle riserve tecniche del lavoro indiretto). - 1. Agli attivi a copertura delle riserve tecniche del lavoro indiretto dei rami vita e dei rami danni, nonche' delle riserve di perequazione di cui all'articolo 37, comma 7, si applicano gli articoli 38, 39, 40 e 65-bis. L'ISVAP stabilisce con regolamento le categorie di attivi, compresi gli strumenti finanziari derivati, ammessi a copertura delle riserve tecniche del lavoro indiretto, nonche' le tipologie, le modalita', i limiti di impiego e le relative quote massime.
  2. Fino all'emanazione del regolamento di cui al comma 1, gli attivi a copertura delle riserve tecniche del lavoro indiretto tengono conto del tipo di affari assunti dall'impresa ed in particolare, della natura, dell'ammontare e della cadenza dei pagamenti dei sinistri attesi, in modo tale che sia possibile realizzare condizioni di sufficienza, liquidita', sicurezza, qualita', redditivita' e correlazione degli investimenti.
@@ -42,6 +127,24 @@ Dopo l'articolo 42 del decreto legislativo 7 settembre 2005, n. 209, sono inseri
  3. Fino alla data di entrata in vigore del regolamento previsto dall'articolo 65, comma 3, e comunque non oltre il 1° luglio 2008, alle imprese di cui al comma 1 si applicano le disposizioni stabilite dall'articolo 42-bis, commi 2 e 3.».
 
 ## Art. 4. — Margine di solvibilita'
+
+1.
+                    
+                        
+                            L'articolo 44 del decreto legislativo 7 settembre 2005, n. 209, e' modificato come segue:
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 2, lettera b), sono aggiunte, in fine, le seguenti parole: «, ne' classificate come riserve di perequazione»;
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 4, sono aggiunte, in fine, le seguenti parole: «, nonche' a dedurre dal margine di solvibilita' richiesto, quali importi di riassicurazione, gli importi recuperabili dalle societa' veicolo».
 
 Dopo l'articolo 44 del decreto legislativo 7 settembre 2005, n. 209, e' inserito il seguente:
  «Art. 44-bis (Margine di solvibilita' delle imprese di assicurazione vita esercenti anche attivita' riassicurative). - 1.
@@ -57,6 +160,38 @@ All'articolo 46 del decreto legislativo 7 settembre 2005, n. 209, dopo il comma 
  c) le riserve tecniche relative alle accettazioni in riassicurazione superano il 10 per cento delle riserve tecniche totali.».
 
 ## Art. 5. — Disposizioni in materia di accesso alle attivita' di riassicurazione
+
+1.
+                    
+                        
+                            L'articolo 57 del decreto legislativo 7 settembre 2005, n. 209, e' modificato come segue:
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 1, le parole: «, salvo quanto previsto dal comma 4» sono soppresse;
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 2, e' aggiunto, in fine, il seguente periodo: «Rientrano in tali operazioni la funzione di impresa di partecipazione e le attivita' svolte nell'ambito del settore finanziario ai sensi dell'articolo 2, punto 8), della direttiva 2002/87/CE.»;
+
+                            
+                        
+                        
+                            c)
+                            
+                                al comma 4, primo periodo, le parole: «relativamente all'assicurazione diretta.» sono soppresse;
+
+                            
+                        
+                        
+                            d)
+                            
+                                al comma 4, il secondo periodo e' soppresso.
 
 Dopo l'articolo 57 del decreto legislativo 7 settembre 2005, n. 209, e' inserito il seguente:
  «57-bis (Societa' veicolo). - 1. L'esercizio dell'attivita' nel territorio della Repubblica da parte di societa' veicolo aventi sede legale nel territorio della Repubblica e' subordinato alla preventiva autorizzazione dell'ISVAP.
@@ -113,6 +248,32 @@ Dopo l'articolo 60 del decreto legislativo 7 settembre 2005, n. 209, e' inserito
 All'articolo 61 del decreto legislativo 7 settembre 2005, n. 209, e' aggiunto il seguente comma: «1-bis. Ai fini dell'esercizio dell'attivita' riassicurativa in regime di liberta' di prestazione di servizi nel territorio della Repubblica si applica l'articolo 24, comma 4.».
 
 ## Art. 8. — Regolamenti di attuazione
+
+1.
+                    
+                        
+                            L'articolo 62 del decreto legislativo 7 settembre 2005, n. 209, e' modificato come segue:
+ 
+                        
+                        
+                            a)
+                            
+                                il comma 1 e' sostituto dal seguente:
+ «1. L'ISVAP determina, con regolamento, le disposizioni relative alla formazione e alla copertura delle riserve tecniche e al margine di solvibilita' per l'esercizio dell'attivita' riassicurazione nel rispetto dei principi generali previsti dagli articoli 63, 64, 65, 66, 66-bis, 66-ter, 66-quater, 66-quinquies, 66-sexies e 66-septies, avuto riguardo all'esigenza di sana e prudente gestione dell'impresa.»;
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 2, primo periodo, le parole: «relativamente all'assicurazione diretta.» sono soppresse;
+
+                            
+                        
+                        
+                            c)
+                            
+                                al comma 2, il secondo periodo e' soppresso.
 
 L'articolo 64 del decreto legislativo 7 settembre 2005, n. 209, e' sostituito dal seguente:
  «Art. 64 (Riserve tecniche). - 1. L'impresa di riassicurazione costituisce riserve tecniche alla fine di ciascun esercizio, al lordo delle retrocessioni, sufficienti in relazione agli impegni assunti per l'insieme delle sue attivita'.
@@ -182,6 +343,25 @@ All'articolo 88, comma 2, del decreto legislativo 7 settembre 2005, n. 209, le p
 
 Alla rubrica dell'articolo 195 del decreto legislativo 7 settembre 2005, n. 209, dopo la parola: «riassicurazione» e' inserita la seguente: «italiane».
 
+2.
+                    
+                        
+                            L'articolo 195 del decreto legislativo 7 settembre 2005, n. 209, e' modificato come segue:
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 2, dopo la parola: «situazione» e inserita la seguente: «tecnica» e dopo le parole: «copertura delle stesse» sono aggiunte, in fine, le seguenti: «, nonche' al possesso del margine di solvibilita»;
+
+                            
+                        
+                        
+                            b)
+                            
+                                il comma 3 e' sostituito dal seguente:
+ «3. Alle imprese di cui al comma 1 si applicano le disposizioni di cui all'articolo 192, commi 3 e 4.».
+
 Dopo l'articolo 195 del decreto legislativo 7 settembre 2005, n. 209, sono inseriti i seguenti:
  «Art. 195-bis (Imprese di riassicurazione di altri Stati membri). - 1. Le imprese di riassicurazione che hanno la sede legale in altri Stati membri sono soggette alla vigilanza prudenziale della autorita' dello Stato membro di origine anche per l'attivita' svolta in regime di stabilimento o in regime di liberta' di prestazione di servizi nel territorio della Repubblica.
  2. Fermo restando quanto disposto al comma 1, l'ISVAP, qualora accerti che l'impresa di riassicurazione non rispetta le disposizioni della legge italiana che e' tenuta ad osservare, ne contesta la violazione e le ordina di conformarsi alle norme di legge e di attuazione.
@@ -208,9 +388,170 @@ All'articolo 202, comma 1, del decreto legislativo 7 settembre 2005, n. 209, le 
 
 ## Art. 13. — Cooperazione con le autorita' di vigilanza degli altri Stati membri
 
+1.
+                    
+                        
+                            L'articolo 203 del decreto legislativo 7 settembre 2005, n. 209, e' modificato come segue:
+ 
+                        
+                        
+                            a)
+                            
+                                all'alinea del comma 1, dopo le parole: «impresa di assicurazione» sono inserite le seguenti: «o di riassicurazione»;
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 1, lettera a), dopo le parole: «un'impresa di assicurazione» sono inserite le seguenti: «o di riassicurazione»;
+
+                            
+                        
+                        
+                            c)
+                            
+                                al comma 1, lettera b), dopo le parole: «un'altra impresa di assicurazione» sono inserite le seguenti: «o di riassicurazione»;
+
+                            
+                        
+                        
+                            d)
+                            
+                                al comma 1, lettera c), dopo le parole: «un'impresa di assicurazione» sono inserite le seguenti: «o di riassicurazione»;
+
+                            
+                        
+                        
+                            e)
+                            
+                                al comma 2, dopo le parole: «ad un'impresa di assicurazione» sono inserite le seguenti: «o di riassicurazione».
+
 Alla rubrica dell'articolo 204 del decreto legislativo 7 settembre 2005, n. 209, dopo le parole: «imprese di assicurazione» sono inserite le seguenti: «o di riassicurazione».
 
 All'articolo 204, comma 1, lettera a), del decreto legislativo 7 settembre 2005, n. 209, dopo le parole: «impresa di assicurazione» sono inserite le seguenti: «di riassicurazione,».
+
+4.
+                    
+                        
+                            L'articolo 205 del decreto legislativo 7 settembre 2005, n. 209, e' modificato come segue:
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 1, dopo le parole: «imprese di assicurazioni» sono inserite le seguenti: «o di riassicurazione»;
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 2, dopo le parole: «imprese di assicurazioni» sono inserite le seguenti: «o di riassicurazione».
+
+5.
+                    
+                        
+                            L'articolo 206 del decreto legislativo 7 settembre 2005, n. 209, e' modificato come segue:
+ 
+                        
+                        
+                            a)
+                            
+                                all'alinea del comma 1, dopo le parole: «un'impresa di assicurazione» sono inserite le seguenti: «o di riassicurazione» e dopo le parole: «dall'impresa di assicurazione» sono inserite le seguenti: «o di riassicurazione»;
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 1, lettera a), dopo le parole: «dall'impresa di assicurazione» sono inserite le parole: «o di riassicurazione»;
+
+                            
+                        
+                        
+                            c)
+                            
+                                al comma 1, lettera b), dopo le parole: «l'impresa di assicurazione» sono inserite le seguenti: «o di riassicurazione»;
+
+                            
+                        
+                        
+                            d)
+                            
+                                al comma 1, lettera c), dopo le parole: «l'impresa di assicurazione» sono inserite le seguenti: «o di riassicurazione»;
+
+                            
+                        
+                        
+                            e)
+                            
+                                al comma 2, lettera a), dopo le parole: «imprese di assicurazione» sono inserite le seguenti: «o di riassicurazione»;
+
+                            
+                        
+                        
+                            f)
+                            
+                                al comma 2, lettera b), dopo le parole: «un'impresa di assicurazione» sono inserite le seguenti: «o di riassicurazione»;
+
+                            
+                        
+                        
+                            g)
+                            
+                                al comma 2, lettera c), dopo le parole: «l'impresa di assicurazione» sono inserite le seguenti: «o di riassicurazione».
+
+6.
+                    
+                        
+                            L'articolo 207 del decreto legislativo 7 settembre 2005, n. 209, e' modificato come segue:
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 1, dopo le parole: «un'impresa di assicurazione» sono inserite le seguenti: «o di riassicurazione»;
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 2, dopo le parole: «imprese di assicurazione» sono inserite le seguenti: «o di riassicurazione».
+
+7.
+                    
+                        
+                            L'articolo 208 del decreto legislativo 7 settembre 2005, n. 209, e' modificato come segue:
+ 
+                        
+                        
+                            a)
+                            
+                                la lettera a) del comma 1 e' sostituita dalla seguente:
+ «a) di ogni autorizzazione all'esercizio dell'attivita' assicurativa o riassicurativa rilasciata ad un'impresa di assicurazione o di riassicurazione di nuova costituzione che sia controllata, direttamente o indirettamente, da imprese di assicurazione o di riassicurazione aventi la sede legale in uno Stato terzo;»;
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 1, lettera b), dopo le parole: «da parte di imprese di assicurazione» sono inserite le seguenti: «o di riassicurazione» e dopo le parole: «in imprese di assicurazione» sono inserite le seguenti: «o di riassicurazione»;
+
+                            
+                        
+                        
+                            c)
+                            
+                                al comma 1, secondo capoverso, dopo la lettera b), dopo le parole: «ad un'impresa di assicurazione» sono inserite le seguenti: «o di riassicurazione»;
+
+                            
+                        
+                        
+                            d)
+                            
+                                al comma 4, dopo le parole: «in cui imprese di assicurazione» sono inserite le seguenti: «o di riassicurazione», dopo le parole: «una impresa di assicurazione» sono inserite le seguenti: «o di riassicurazione» e dopo le parole: «in imprese di assicurazione» sono inserite le seguenti: «o di riassicurazione».
 
 ## Art. 14. — Attivita' di vigilanza supplementare
 
@@ -219,17 +560,423 @@ L'articolo 210 del decreto legislativo 7 settembre 2005, n. 209, e' sostituito d
  2. Per la vigilanza supplementare sulle imprese di assicurazione o di riassicurazione che hanno sede legale nel territorio della Repubblica e che siano controllate da una impresa di partecipazione assicurativa, da un'impresa di assicurazione o di riassicurazione aventi sede legale in uno Stato terzo, si applicano le disposizioni di cui all'articolo 218.
  3. Per la vigilanza supplementare sulle sedi secondarie che sono istituite nel territorio della Repubblica da imprese di assicurazione o di riassicurazione che hanno sede legale in uno Stato terzo, si applicano le disposizioni di cui all'articolo 218, salvo, per le imprese di assicurazione, che le medesime sedi siano gia' soggette alla vigilanza complessiva di solvibilita' esercitata dall'autorita' di un altro Stato membro.».
 
+2.
+                    
+                        
+                            L'articolo 211 del decreto legislativo 7 settembre 2005, n. 209, e' modificato come segue:
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 1, dopo le parole: «sull'impresa di assicurazione» sono inserite le seguenti: «o di riassicurazione»;
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 1, lettera a), dopo le parole: «dall'impresa di assicurazione» sono inserite le seguenti: «o di riassicurazione»;
+
+                            
+                        
+                        
+                            c)
+                            
+                                al comma 1, lettera b), dopo le parole: «nell'impresa di assicurazione» sono inserite le seguenti: «o di riassicurazione»;
+
+                            
+                        
+                        
+                            d)
+                            
+                                al comma 1, lettera c), dopo le parole: «un'impresa di assicurazione» sono inserite le seguenti: «o di riassicurazione».
+
 ## Art. 15. — Disposizioni in materia di controllo interno e poteri di vigilanza
+
+1.
+                    
+                        
+                            L'articolo 212 del decreto legislativo 7 settembre 2005, n. 209, e' modificato come segue:
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 1, sono aggiunte, in fine, le parole: «o di riassicurazione»;
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 2, dopo le parole: «sull'impresa di assicurazione» sono inserite le seguenti: «o di riassicurazione».
+
+2.
+                    
+                        
+                            L'articolo 213 del decreto legislativo 7 settembre 2005, n. 209, e' modificato come segue:
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 1, dopo le parole: «sull'impresa di assicurazione» sono inserite le seguenti: «o di riassicurazione»;
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 2, dopo le parole: «imprese di assicurazione» sono inserite le seguenti: «o di riassicurazione» e dopo le parole: «vigilanza supplementare» sono soppresse le seguenti: «sull'impresa assicurativa».
+
+3.
+                    
+                        
+                            L'articolo 214 del decreto legislativo 7 settembre 2005, n. 209, e' modificato come segue:
+ 
+                        
+                        
+                            a)
+                            
+                                all'alinea del comma 1, dopo le parole: «sull'impresa di assicurazione» sono inserite le seguenti: «o di riassicurazione»;
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 1, lettera a), dopo le parole: «dall'impresa di assicurazione» sono inserite le seguenti: «o di riassicurazione»;
+
+                            
+                        
+                        
+                            c)
+                            
+                                al comma 1, lettera b), dopo le parole: «l'impresa di assicurazione» sono inserite le seguenti: «o di riassicurazione»;
+
+                            
+                        
+                        
+                            d)
+                            
+                                al comma 1, lettera c), dopo le parole: «l'impresa di assicurazione» sono inserite le seguenti: «o di riassicurazione»;
+
+                            
+                        
+                        
+                            e)
+                            
+                                al comma 2, dopo le parole: «sull'impresa di assicurazione» sono inserite le seguenti: «o di riassicurazione» e dopo le parole: «delle imprese di assicurazione» sono inserite le seguenti: «o di riassicurazione»;
+
+                            
+                        
+                        
+                            f)
+                            
+                                al comma 3, dopo le parole: «sull'impresa di assicurazione» sono inserite le seguenti: «o di riassicurazione».
 
 ## Art. 16. — Attivita' di vigilanza sulle operazioni infragruppo
 
+1.
+                    
+                        
+                            L'articolo 215 del decreto legislativo 7 settembre 2005, n. 209, e' modificato come segue:
+ 
+                        
+                        
+                            a)
+                            
+                                il comma 1 e' sostituito dal seguente:
+ «1. Le imprese di assicurazione e di riassicurazione che hanno sede legale nel territorio della Repubblica, le sedi secondarie istituite nel territorio della Repubblica da imprese di assicurazione o di riassicurazione aventi sede legale in uno Stato terzo, sono soggette alla vigilanza dell'ISVAP sulle operazioni infragruppo che sono realizzate tra le medesime entita' e le imprese di cui all'articolo 211, comma 1, o che intercorrono con una persona fisica che controlla o detiene una partecipazione nell'impresa di assicurazione o di riassicurazione o in un'impresa inclusa nell'area della vigilanza supplementare.»;
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 2, lettera e), dopo la parola: «riassicurazione» sono inserite le seguenti: «e di retrocessione»;
+
+                            
+                        
+                        
+                            c)
+                            
+                                al comma 3, dopo le parole: «imprese di assicurazione» sono inserite le seguenti: «e di riassicurazione»;
+
+                            
+                        
+                        
+                            d)
+                            
+                                al comma 4, dopo le parole: «un'impresa di assicurazione» sono inserite le seguenti: «o di riassicurazione» e sono aggiunte, in fine, le parole: «o agli interessi delle imprese di assicurazione cedenti».
+
+2.
+                    
+                        
+                            L'articolo 216 del decreto legislativo 7 settembre 2005, n. 209, e' modificato come segue:
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 2, le parole: «comma 3» sono sostituite dalle seguenti: «comma 4» e dopo le parole: «prestazioni assicurative» sono inserite le parole: «o per gli interessi delle imprese di assicurazione cedenti»;
+
+                            
+                        
+                        
+                            b)
+                            
+                                il comma 4, e' sostituito dal seguente:
+ «4. L'ISVAP, qualora accerti che le operazioni soggette a comunicazione periodica successiva o quelle per le quali e' stata omessa la comunicazione preventiva producono o rischiano di produrre effetti negativi per la solvibilita' dell'impresa di assicurazione o di riassicurazione o pregiudizio per gli interessi degli assicurati e degli altri aventi diritto a prestazioni assicurative ordina all'impresa di assicurazione o di riassicurazione di porre in atto le misure idonee a rimuovere tali conseguenze negative o pregiudizievoli, assegnando a tal fine un termine congruo.».
+
 ## Art. 17. — Disposizioni in materia di solvibilita' corretta
+
+1.
+                    
+                        
+                            L'articolo 217 del decreto legislativo 7 settembre 2005, n. 209, e' modificato come segue:
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 1, dopo le parole: «imprese di assicurazione» sono inserite le seguenti: «o di riassicurazione».
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 3, dopo le parole: «imprese di assicurazione» sono inserite le seguenti: «o di riassicurazione».
+
+2.
+                    
+                        
+                            L'articolo 218 del decreto legislativo 7 settembre 2005, n. 209, e' modificato come segue:
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 1, dopo le parole: «imprese di assicurazione» sono inserite le seguenti: «o di riassicurazione»;
+
+                            
+                        
+                        
+                            b)
+                            
+                                il comma 2 e' sostituito dal seguente:
+ «2. Se un'impresa di partecipazione assicurativa, un'impresa di assicurazione o di riassicurazione con sede legale in uno Stato terzo e' a sua volta controllata da una o piu' imprese di partecipazione assicurativa, di assicurazione o di riassicurazione aventi sede legale in uno Stato terzo, la verifica della solvibilita' della controllante puo' essere effettuata solo a livello dell'ultima impresa controllante che sia un'impresa di partecipazione assicurativa o un'impresa di assicurazione o di riassicurazione avente sede legale in uno Stato terzo.»;
+
+                            
+                        
+                        
+                            c)
+                            
+                                il comma 4 e' sostituito dal seguente:
+ «4. Nella verifica di cui al comma 1, vanno incluse tutte le imprese controllate o partecipate dall'impresa di partecipazione assicurativa, dall'impresa di assicurazione o di riassicurazione avente sede legale in uno Stato terzo.»;
+
+                            
+                        
+                        
+                            d)
+                            
+                                al comma 5, dopo le parole: «imprese di assicurazione» sono inserite le seguenti: «o di riassicurazione».
+
+3.
+                    
+                        
+                            L'articolo 219 del decreto legislativo 7 settembre 2005, n. 209, e' modificato come segue:
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 1, lettera a), dopo le parole: «imprese di assicurazione» sono inserite le seguenti: «o di riassicurazione»;
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 1, lettera c), le parole: «delle imprese di riassicurazione controllate o partecipate aventi sede legale nel territorio della Repubblica o in un altro Stato membro,» sono soppresse;
+
+                            
+                        
+                        
+                            c)
+                            
+                                al comma 1, lettera d), dopo le parole: «impresa di assicurazione» sono inserite le seguenti: «o di riassicurazione».
+
+4.
+                    
+                        
+                            L'articolo 220 del decreto legislativo 7 settembre 2005, n. 209, e' modificato come segue:
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 1, dopo le parole: «un'impresa di assicurazione» sono inserite le seguenti: «o di riassicurazione»;
+
+                            
+                        
+                        
+                            b)
+                            
+                                il comma 2 e' sostituito dal seguente:
+ «2. Se un'impresa di assicurazione o di riassicurazione di cui all'articolo 210, comma 2, e un'altra impresa di assicurazione o di riassicurazione con sede legale in un altro Stato membro sono controllate dalla stessa impresa di partecipazione assicurativa o dalla stessa impresa di assicurazione o di riassicurazione avente sede legale in uno Stato terzo, l'ISVAP puo' esonerare l'impresa di assicurazione o di riassicurazione di cui all'articolo 210, comma 2, dall'obbligo di effettuare la verifica della solvibilita' della controllante, se l'Istituto ha concordato con le autorita' degli altri Stati membri interessati di attribuire l'esercizio della vigilanza supplementare all'autorita' di vigilanza dell'altro Stato membro.».
 
 ## Art. 18. — Misure di salvaguardia
 
+1.
+                    
+                        
+                            L'articolo 221 del decreto legislativo 7 settembre 2005, n. 209, e' modificato come segue:
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 1, dopo la parola: «impresa» sono inserite le seguenti: «di assicurazione o di riassicurazione»;
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 3, lettera b), dopo le parole: «prestazioni assicurative» sono inserite le seguenti: «o gli interessi delle imprese di assicurazione cedenti».
+
 All'articolo 222, comma 1, del decreto legislativo 7 settembre 2005, n. 209, dopo la parola: «impresa» sono inserite le seguenti: «di assicurazione o di riassicurazione»;
 
+3.
+                    
+                        
+                            L'articolo 223 del decreto legislativo 7 settembre 2005, n. 209, e' modificato come segue:
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 1, dopo le parole: «dell'impresa di assicurazione» sono inserite le seguenti: «o qualora i diritti delle imprese di assicurazione cedenti siano a rischio per effetto del deterioramento della posizione finanziaria dell'impresa di riassicurazione»;
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 2, dopo le parole: «politica di riassicurazione» sono inserite le seguenti: «o di retrocessione»;
+
+                            
+                        
+                        
+                            c)
+                            
+                                al comma 3, dopo le parole: «impresa di assicurazione» sono inserite le seguenti «o di riassicurazione»;
+
+                            
+                        
+                        
+                            d)
+                            
+                                al comma 4, dopo le parole: «alla qualita' dei contratti di riassicurazione» sono inserite le seguenti: «o di retrocessione», dopo le parole: «nel caso in cui i contratti di riassicurazione» sono inserite le seguenti: «o di retrocessione» e le parole: «di modesta entita» sono sostituite dalle seguenti: «limitato»;
+
+                            
+                        
+                        
+                            e)
+                            
+                                dopo il comma 5 e' aggiunto il seguente:
+ «5-bis. L'ISVAP non rilascia attestazioni di solvibilita' dell'impresa di riassicurazione, alla quale ha richiesto il piano di risanamento finanziario, fino a quando ritenga che gli impegni dell'impresa derivanti dai contratti di riassicurazione siano a rischio.».
+
+4.
+                    
+                        
+                            L'articolo 224 del decreto legislativo 7 settembre 2005, n. 209, e' modificato come segue:
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 1, dopo le parole: «crediti di assicurazione», sono inserite le seguenti: «o di riassicurazione» e dopo le parole: «dell'impresa» sono inserite le seguenti: «di assicurazione e di riassicurazione»;
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 3, dopo la parola: «impresa» sono inserite le seguenti: «di assicurazione o di riassicurazione».
+
 All'articolo 225, comma 1, del decreto legislativo 7 settembre 2005, n. 209, dopo le parole: «prestazioni assicurative» sono inserite le seguenti: «, delle imprese di assicurazione cedenti» e dopo le parole: «all'impresa» sono inserite le seguenti: «di assicurazione o di riassicurazione».
+
+6.
+                    
+                        
+                            L'articolo 226 del decreto legislativo 7 settembre 2005, n. 209, e' modificato come segue:
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 1, dopo le parole: «imprese di assicurazione» sono inserite le seguenti: «e di riassicurazione»;
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 2, dopo le parole «imprese di assicurazione» sono inserite le seguenti «e di riassicurazione» e le parole: «e delle imprese di riassicurazione che hanno sede legale in altri Stati membri o in Stati terzi» sono soppresse;
+
+                            
+                        
+                        
+                            c)
+                            
+                                al comma 3, dopo le parole: «impresa di assicurazione» sono inserite le seguenti: «o di riassicurazione»;
+
+                            
+                        
+                        
+                            d)
+                            
+                                al comma 4, dopo le parole: «impresa di assicurazione» sono inserite le seguenti: «o di riassicurazione».
+
+7.
+                    
+                        
+                            L'articolo 227 del decreto legislativo 7 settembre 2005, n. 209, e' modificato come segue:
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 1, dopo le parole: «all'impresa di assicurazione» sono inserite le seguenti: «o di riassicurazione»;
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 2, dopo le parole: «imprese di assicurazione» sono inserite le seguenti: «o di riassicurazione».
+
+8.
+                    
+                        
+                            L'articolo 228 del decreto legislativo 7 settembre 2005, n. 209, e' modificato come segue:
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 1, dopo le parole: «un'impresa di assicurazione» sono inserite le seguenti: «o di riassicurazione» e dopo le parole: «all'impresa di assicurazione» sono inserite le seguenti: «o di riassicurazione»;
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 2, lettera a), dopo le parole «dall'impresa di assicurazione» sono inserite le seguenti: «o di riassicurazione».
 
 ## Art. 19. — Misure di risanamento
 
@@ -252,6 +999,25 @@ All'articolo 244, comma 3, primo periodo, del decreto legislativo 7 settembre 20
 All'articolo 245, comma 7, del decreto legislativo 7 settembre 2005, n. 209, dopo le parole: «imprese di assicurazione» sono inserite le seguenti: «e di riassicurazione».
 
 La rubrica dell'articolo 258 del decreto legislativo 7 settembre 2005, n. 209, e' sostituita dalla seguente «Trattamento dei crediti derivanti da contratti di assicurazione o da contratti di riassicurazione».
+
+3.
+                    
+                        
+                            L'articolo 258 del decreto legislativo 7 settembre 2005, n. 209, e' modificato come segue:
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 2, dopo le parole: «impresa» sono inserite le seguenti: «di assicurazione o di riassicurazione» e dopo le parole: «crediti di assicurazione» sono inserite le seguenti: «e di riassicurazione»;
+
+                            
+                        
+                        
+                            b)
+                            
+                                dopo il comma 6 e' aggiunto il seguente:
+ «6-bis. In caso di liquidazione coatta amministrativa dell'impresa di riassicurazione, gli impegni derivanti dai contratti conclusi da una succursale o in regime di libera prestazione di servizi sono adempiuti alla stregua degli impegni derivanti dagli altri contratti di riassicurazione.».
 
 La rubrica dell'articolo 259 del decreto legislativo 7 settembre 2005, n. 209, e' sostituita dalla seguente: «Ulteriori disposizioni per il trattamento dei crediti derivanti da contratti di riassicurazione».
 

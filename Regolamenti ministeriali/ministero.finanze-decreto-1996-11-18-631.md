@@ -8,8 +8,8 @@ codice_redazionale: 096G0653
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:42Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -48,6 +48,24 @@ L'iscrizione nella seconda e nella terza sezione dell'elenco di cui all'articolo
 
 La domanda deve recare l'indicazione delle generalita', della residenza, della categoria di appartenenza, del numero di codice fiscale e di partita IVA del richiedente.
 
+3.
+                    
+                        
+                            Alla domanda vanno allegati, a pena di irricevibilita' della stessa, i seguenti documenti:
+ 
+                        
+                        
+                            a)
+                            
+                                per i soggetti di cui alla seconda sezione dell'elenco, attestato comprovante l'iscrizione alla data del 30 settembre 1993 nei ruoli di periti ed esperti, rilasciato dalla camera di commercio, industria, artigianato e agricoltura; per i soggetti di cui alla terza sezione dell'elenco, attestato comprovante il rapporto di dipendenza con una associazione della categoria rappresentata nel CNEL, rilasciato dalla associazione medesima, o attestato comprovante il rapporto di dipendenza con una impresa, o societa' da essa controllata ai sensi dell'articolo 2359 del codice civile, primo comma, n. 1), rilasciato dalla stessa impresa o societa';
+
+                            
+                        
+                        
+                            b)
+                            
+                                copia autentica del diploma di laurea in giurisprudenza, economia e commercio o equipollenti o del diploma di ragioneria e, limitatamente ai soggetti iscritti nella terza sezione dell'elenco, certificazione comprovante il possesso della relativa abilitazione professionale. In alternativa ai predetti documenti puo' essere presentata la dichiarazione sostitutiva di atto di notorieta', resa ai sensi dell'articolo 4 della legge 4 gennaio 1968, n. 15, che ne attesti il possesso.
+
 ## Art. 4.
 
 Gli uffici di cui all'articolo 1 verificano la regolarita' della domanda e della documentazione allegata, dispongono l'iscrizione e rilasciano, a seguito dell'avvenuta iscrizione, una apposita tessera di difensore abilitato all'assistenza tecnica dinanzi alle commissioni tributarie.
@@ -55,4 +73,29 @@ Gli uffici di cui all'articolo 1 verificano la regolarita' della domanda e della
 La tessera attesta il possesso della abilitazione specifica, nonche' le limitazioni ad assistere le parti per le controversie relative a determinati tributi, ai sensi dell'articolo 12, comma 2, terzo periodo, del decreto legislativo 31 dicembre 1992, n. 546.
 
 ## Art. 5.
+
+1.
+                    
+                        
+                            Ai fini della tenuta degli elenchi, l'ufficio di cui all'articolo 1:
+ 
+                        
+                        
+                            a)
+                            
+                                effettua annualmente il controllo del possesso dei requisiti da parte degli iscritti nella seconda e terza sezione dell'elenco mediante richiesta di informazioni alle amministrazioni dello Stato, agli enti pubblici ed ai soggetti iscritti;
+
+                            
+                        
+                        
+                            b)
+                            
+                                effettua le variazioni dell'elenco mediante cancellazione degli iscritti in dipendenza dell'accertata perdita dei requisiti;
+
+                            
+                        
+                        
+                            c)
+                            
+                                effettua altresi' le annotazioni conseguenti a nuove iscrizioni e a cancellazioni per rinuncia o decesso o per modifiche di legge.
 

@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
 vigenza_date: 2023-03-07
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:30Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -40,6 +40,24 @@ L'elencazione delle attivita' di cui ai commi 1 e 2 non pregiudica l'esercizio d
 
 ## Art. 3. — Iscrizione nell'Albo
 
+1.
+                    
+                        
+                            Salvo quanto previsto dall'articolo 7, hanno diritto all'iscrizione nell'Albo coloro che, domiciliati in Italia, hanno concretamente svolto attivita' professionale e risultano iscritti da almeno cinque anni: 
+ 
+                        
+                        
+                            a)
+                            
+                                nell'Albo professionale dei dottori commercialisti e degli esperti contabili; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                nell'Albo professionale degli avvocati.
+
 Per l'iscrizione alla sezione degli esperti in gestione aziendale il requisito dello svolgimento di attivita' professionale di cui al comma 1 deve essere riferito alla gestione di aziende ovvero di crisi aziendali.
 
 I soggetti di cui al comma 1, che attestino la frequentazione con profitto di corsi di formazione post-universitaria in materia di gestione di aziende o di crisi aziendali, hanno diritto all'iscrizione nell'Albo se risultano iscritti all'Albo professionale di cui alle lettere a) o b) del comma 1 da almeno tre anni.
@@ -47,6 +65,42 @@ I soggetti di cui al comma 1, che attestino la frequentazione con profitto di co
 Con decreto del Ministro della giustizia, di concerto con il Ministro per lo sviluppo economico, da emanare ai sensi dell'articolo 17, comma 3, della legge 23 agosto1988, n. 400, entro novanta giorni dalla data di entrata in vigore del presente decreto, sono disciplinate le modalita' di certificazione dei requisiti di idoneita' professionale indicati ai commi 1, 2 e 3.
 
 ## Art. 4. — Onorabilita'
+
+1.
+                    
+                        
+                            Non possono essere iscritti nell'Albo coloro che: 
+ 
+                        
+                        
+                            a)
+                            
+                                si trovano in stato di interdizione temporanea o di sospensione dagli uffici direttivi delle persone giuridiche e delle imprese; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                sono stati sottoposti a misure di prevenzione ai sensi della legge 27 dicembre 1956, n. 1423, o della legge 31 maggio 1965, n. 575, e successive modificazioni, salvi gli effetti della riabilitazione; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                hanno riportato condanna definitiva alla pena della reclusione, anche se condizionalmente sospesa, salvi gli effetti della riabilitazione: 
+ 1) per uno dei delitti previsti dal regio decreto 16 marzo 1942, n. 267; 
+ 2) per uno dei delitti previsti dal Titolo XI del Libro V del Codice Civile; 
+ 3) per un delitto non colposo, per un tempo non inferiore a un anno; 
+ 4) per un delitto contro la pubblica amministrazione, contro la fede pubblica, contro il patrimonio, contro l'economia pubblica, per un tempo non inferiore a sei mesi; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                non hanno riportato negli ultimi dieci anni sanzioni disciplinari diverse dall'ammonimento, irrogate dall'ordine professionale di appartenenza.
 
 ## Art. 5. — Cancellazione dall'Albo
 
@@ -70,11 +124,99 @@ I provvedimenti previsti dal comma 3 sono notificati all'interessato.
 
 Entro un anno dalla data di entrata in vigore del presente decreto, il Ministero, accertati i titoli dei richiedenti, procede alla formazione dell'Albo. L'Albo e' pubblicato nella Gazzetta Ufficiale della Repubblica italiana, con decreto del Ministro della giustizia.
 
+2.
+                    
+                        
+                            In sede di prima formazione possono essere iscritti all'Albo, purche' presentino domanda entro il termine di centottanta giorni dalla data di entrata in vigore del presente decreto: 
+ 
+                        
+                        
+                            a)
+                            
+                                gli iscritti nell'albo dei dottori commercialisti e degli esperti contabili e nell'albo degli avvocati da almeno cinque anni; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                i soggetti non iscritti negli Albi di cui alla lettera a) che abbiano svolto, nei cinque anni antecedenti la data di entrata in vigore del presente decreto, l'attivita' di amministratore giudiziario.
+
+3.
+                    
+                        
+                            Per la sezione degli esperti in gestione aziendale, possono essere iscritti all'Albo, purche' presentino domanda entro il termine di centottanta giorni dalla data di entrata in vigore del presente decreto: 
+ 
+                        
+                        
+                            a)
+                            
+                                i soggetti di cui al comma 2, lettere a) e b), che abbiano svolto, nei cinque anni antecedenti la data di entrata in vigore del presente decreto, l'attivita' di amministratore giudiziario di aziende sottoposte a sequestro ai sensi dell'articolo 2-sexies, comma 4-bis, della legge 31 maggio 1965, n. 575, ovvero di curatore fallimentare o di altro organo della procedura nominato dall'autorita' giudiziaria con funzioni di gestione o composizione di crisi aziendali; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                i soggetti che abbiano svolto, nei cinque anni antecedenti la data di entrata in vigore del presente decreto, l'attivita' di commissario per l'amministrazione delle grandi imprese in crisi ai sensi del decreto legislativo 8 luglio 1999, n. 270, e del decreto-legge 23 dicembre 2003, n. 347, convertito, con modificazioni, dalla legge 18 febbraio 2004, n. 39, e successive modificazioni.
+
 Per i soggetti di cui all'articolo 3, comma 3, il termine indicato ai commi 2 e 3 e' ridotto a tre anni.
 
 ## Art. 8. — Compensi degli amministratori giudiziari
 
 Con decreto del Presidente della Repubblica, da emanare su proposta del Ministro della giustizia, di concerto con i Ministri dell'economia e delle finanze e dello sviluppo economico, ai sensi dell'articolo 17, comma 1, lettera b), della legge 23 agosto 1988, n. 400, entro novanta giorni dalla data di entrata in vigore del presente decreto, sono stabilite le modalita' di calcolo e liquidazione dei compensi degli amministratori giudiziari.
+
+2.
+                    
+                        
+                            Il decreto di cui al comma 1 e' emanato sulla base delle seguenti norme di principio: 
+ 
+                        
+                        
+                            a)
+                            
+                                previsione di tabelle differenziate per singoli beni o complessi di beni, e per i beni costituiti in azienda; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                previsione che, nel caso in cui siano oggetto di sequestro o confisca patrimoni misti, che comprendano sia singoli beni o complessi di beni che beni costituiti in azienda, si applichi il criterio della prevalenza, con riferimento alla gestione piu' onerosa, maggiorato di una percentuale da definirsi per ogni altra tipologia di gestione meno onerosa; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                previsione che il compenso sia comunque stabilito sulla base di scaglioni commisurati al valore dei beni o dei beni costituiti in azienda, quale risultante dalla relazione di stima redatta dall'amministratore giudiziario, ovvero al reddito prodotto dai beni; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                previsione che il compenso possa essere aumentato o diminuito, su proposta del giudice delegato, nell'ambito di percentuali da definirsi e comunque non eccedenti il 50 per cento, sulla base dei seguenti elementi: 
+ 1) complessita' dell'incarico o concrete difficolta' di gestione; 
+ 2) possibilita' di usufruire di coadiutori; 
+ 3) necessita' e frequenza dei controlli esercitati; 
+ 4) qualita' dell'opera prestata e dei risultati ottenuti; 
+ 5) sollecitudine con cui sono state condotte le attivita' di amministrazione; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                previsione della possibilita' di ulteriore maggiorazione a fronte di amministrazioni estremamente complesse, ovvero di eccezionale valore del patrimonio o dei beni costituiti in azienda oggetto di sequestro o confisca, ovvero ancora di risultati dell'amministrazione particolarmente positivi; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                previsione delle modalita' di calcolo e liquidazione del compenso nel caso in cui siano nominati piu' amministratori per un'unica procedura. 
+ 2-bis.((Nei casi riguardanti le grandi imprese per le quali trova applicazione il decreto legislativo 8 luglio 1999, n. 270, all'esito delle liquidazioni derivanti dall'applicazione del regolamento di cui ai commi 1 e 2, i compensi degli amministratori giudiziari non possono comunque eccedere)) il limite massimo complessivo di euro 500.000 anche in caso di incarico collegiale. ((1))
 
 ---------------
                         AGGIORNAMENTO (1)
@@ -89,6 +231,31 @@ Per la tenuta dell'Albo degli amministratori giudiziari e' posto a carico dell'i
 L'ammontare del contributo di cui al comma 1, nella misura necessaria alla copertura delle spese per la tenuta dell'Albo, e le modalita' di versamento sono stabilite con decreto del Ministro della giustizia, di concerto con i Ministri dell'economia e delle finanze e dello sviluppo economico. Analogamente, il contributo e' aggiornato ogni tre anni.
 
 ## Art. 10. — Regolamento
+
+1.
+                    
+                        
+                            Con decreto del Ministro della giustizia, da emanare ai sensi dell'articolo 17, comma 3, della legge 23 agosto 1988, n. 400, entro novanta giorni dalla data di entrata in vigore del presente decreto, sono stabilite: 
+ 
+                        
+                        
+                            a)
+                            
+                                le modalita' di iscrizione nell'Albo degli amministratori giudiziari; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                le modalita' di sospensione e cancellazione dall'Albo degli amministratori giudiziari; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                le modalita' di esercizio del potere di vigilanza da parte del Ministero.
 
 ## Art. 11. — Clausola di invarianza
 

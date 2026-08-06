@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
 vigenza_date: 2024-02-08
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:22Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -39,9 +39,95 @@ SULLA PROPOSTA del Ministro dello sviluppo economico, di concerto con il Ministr
 
 .
 
+1.
+                        
+                            
+                                Con il presente decreto si disciplinano: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la localizzazione del Deposito nazionale, incluso in un Parco Tecnologico comprensivo di un Centro di studi e sperimentazione, destinato ad accogliere i rifiuti radioattivi provenienti da attivita' pregresse di impianti nucleari e similari, nel territorio nazionale; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le procedure autorizzative per la costruzione e l'esercizio del Deposito nazionale e del Parco Tecnologico; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    i benefici economici relativi alle attivita' di esercizio del Deposito nazionale, da corrispondere in favore delle persone residenti, delle imprese operanti nel territorio circostante il sito e degli enti locali interessati.
+
 ))
 
 ## Art. 2. — (Definizioni).
+
+1.
+                        
+                            
+                                Fatte salve le definizioni di cui alla legge 31 dicembre 1962, n. 1860, e al decreto legislativo 17 marzo 1995, n. 230, ai fini del presente decreto si definisce: 
+ 
+                            
+                            
+                                a)
+                                
+                                    'Agenzia': l'Agenzia per la sicurezza nucleare di cui all'articolo 29 della legge 23 luglio 2009, n. 99; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    'Conferenza unificata': la Conferenza prevista all'articolo 8 del decreto legislativo 28 agosto 1997, n. 281, e successive modificazioni; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    'AIEA': l'Agenzia internazionale per l'energia atomica delle Nazioni Unite, con sede a Vienna; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    'AEN-OCSE': l'Agenzia per l'energia nucleare presso l'OCSE, con sede a Parigi; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    'Deposito nazionale': il deposito nazionale destinato allo smaltimento a titolo definitivo dei rifiuti radioattivi a bassa e media attivita', derivanti da attivita' industriali, di ricerca e medico-sanitarie e dalla pregressa gestione di impianti nucleari, e all'immagazzinamento, a titolo provvisorio di lunga durata, dei rifiuti ad alta attivita' e del combustibile irraggiato provenienti dalla pregressa gestione di impianti nucleari; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    decommissioning: l'insieme delle azioni pianificate, tecniche e gestionali, da effettuare su un impianto nucleare a seguito del suo definitivo spegnimento o della cessazione definitiva dell'esercizio, nel rispetto dei requisiti di sicurezza e di protezione dei lavoratori, della popolazione e dell'ambiente, fino allo smantellamento finale o comunque al rilascio del sito esente da vincoli di natura radiologica. 
+
+                                
+                            
+                            
+                                f-bis)
+                                
+                                    chiusura: il completamento di tutte le operazioni ad un dato momento dopo la collocazione di combustibile esaurito o di rifiuti radioattivi in un impianto di smaltimento, compresi gli interventi tecnici finali o ogni altro lavoro necessario per rendere l'impianto sicuro a lungo termine; 
+
+                                
+                            
+                            
+                                f-ter)
+                                
+                                    periodo di controllo istituzionale: periodo di tempo in cui, dopo la chiusura di un impianto di smaltimento, continuano ad essere esercitati dei controlli da parte delle Autorita' competenti.
+Tale periodo e' funzione del carico radiologico, espresso sia in termini di concentrazione di attivita' che di tempi di dimezzamento dei radionuclidi principali presenti nel deposito. Per gli impianti di smaltimento superficiali di rifiuti radioattivi di bassa e media attivita', tale periodo varia generalmente da 50 anni ad alcune centinaia di anni.
 
 ## Art. 3. — ((ARTICOLO ABROGATO DAL D.LGS. 4 MARZO 2014, N. 45))
 
@@ -149,6 +235,59 @@ L'esercente del Parco Tecnologico, che puo' avvalersi dell'Agenzia nazionale per
 
 ## Art. 26. — (Sogin S.p.A.)
 
+1.
+                        
+                            
+                                La Sogin S.p.A. e' il soggetto responsabile degli impianti a fine vita, del mantenimento in sicurezza degli stessi, nonche' della realizzazione e dell'esercizio del Deposito nazionale e del Parco Tecnologico di cui all'articolo 25, comprendente anche il trattamento e lo smaltimento dei rifiuti radioattivi. A tal fine: 
+ 
+                            
+                            
+                                a)
+                                
+                                    gestisce le attivita' finalizzate alla localizzazione del sito per il Parco Tecnologico, ai sensi dell'articolo 25; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    cura le attivita' connesse al procedimento autorizzativo relativo alla realizzazione ed esercizio del Parco Tecnologico e al trattamento ed allo smaltimento dei rifiuti radioattivi; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    provvede alla realizzazione ed all'esercizio del Parco Tecnologico; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    eroga agli Enti locali le quote ad essi spettanti; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    promuove diffuse e capillari campagne di informazione e comunicazione alla popolazione in ordine alle attivita' da essa svolte. 
+
+                                
+                            
+                            
+                                e-bis)
+                                
+                                    Sulla base degli obiettivi e dei criteri di sicurezza fissati dall'autorita' di regolamentazione competente, Sogin S.p.A. definisce le caratteristiche tecniche dei manufatti dei rifiuti radioattivi ai fini dell'accettazione al Deposito nazionale; 
+
+                                
+                            
+                            
+                                e-ter)
+                                
+                                    predispone, entro trenta giorni dalla data di entrata in vigore della presente disposizione, un programma degli interventi oggetto di misure premiali e delle relative misure premiali a vantaggio delle comunita' territoriali ospitanti il Parco tecnologico e lo trasmette al Ministero dell'ambiente e della sicurezza energetica che lo approva entro i successivi trenta giorni.
+
 E' autorizzata la spesa di 1 milione di euro annui a decorrere dall'anno 2024 finalizzata al riconoscimento di misure premiali sulla base del programma approvato ai sensi del comma 1, lettera e-ter). Ai relativi oneri, pari a 1 milione di euro annui a decorrere dall'anno 2024, si provvede, quanto a 1 milione di euro per l'anno 2024, mediante corrispondente riduzione delle proiezioni dello stanziamento del fondo speciale di parte corrente iscritto, ai fini del bilancio triennale 2023-2025, nell'ambito del programma «Fondi di riserva e speciali» della missione «Fondi da ripartire» dello stato di previsione del Ministero dell'economia e delle finanze per l'anno 2023, allo scopo parzialmente utilizzando l'accantonamento relativo al Ministero dell'ambiente e della sicurezza energetica e, quanto a 1 milione di euro annui a decorrere dall'anno 2025, mediante corrispondente riduzione del Fondo di cui all'articolo 1, comma 200, della legge 23 dicembre 2014, ((n. 190)).
 
 Lo svolgimento delle attivita' di cui alle lettere c) ed e) del comma 1 e' sottoposto al controllo ed alla vigilanza dell'Agenzia e, limitatamente a quelle di cui alla lettera d), anche al controllo ed alla vigilanza dell'Autorita' per l'energia elettrica ed il gas di cui alla legge 14 novembre 1995, n. 481.
@@ -159,6 +298,73 @@ La Sogin S.p.A., tenendo conto dei criteri indicati dall'AIEA e dall'Agenzia, de
 
 Prima della pubblicazione di cui al comma 3 del presente articolo, Sogin S.p.A. trasmette la proposta di Carta nazionale di cui al comma 1, corredata dalla documentazione tecnica utilizzata e dalla descrizione delle procedure seguite per l'elaborazione della medesima Carta, all'autorita' di regolamentazione competente che provvede alla validazione dei risultati cartografici e alla verifica della coerenza degli stessi con i criteri di cui al comma 1.
 L'autorita' di regolamentazione competente trasmette, entro 60 giorni, una relazione in merito al Ministero dell'ambiente e della tutela del territorio e del mare e al Ministero dello sviluppo economico che entro 30 giorni comunicano il proprio nulla osta a Sogin S.p.A., affinche', recepiti gli eventuali rilievi contenuti nel nulla osta, provveda agli adempimenti previsti al medesimo comma 3.
+
+2.
+                        
+                            
+                                Il progetto preliminare contiene gli elementi ed e' corredato dalla documentazione di seguito indicata: 
+ 
+                            
+                            
+                                a)
+                                
+                                    documentazione relativa alla tipologia di materiali radioattivi destinati al Deposito nazionale (criteri di accettabilita' a deposito; modalita' di confezionamento accettabili; inventario radiologico; ecc.); 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    dimensionamento preliminare della capacita' totale del Deposito nazionale, anche in funzione di uno sviluppo modulare del medesimo, e determinazione del fattore di riempimento; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    identificazione dei criteri di sicurezza posti alla base del progetto del deposito; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    indicazione delle infrastrutture di pertinenza del Deposito nazionale; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    criteri e contenuti per la definizione del programma delle indagini per la qualificazione del sito; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    indicazione del personale da impiegare nelle varie fasi di vita del Deposito nazionale, con la previsione dell'impiego di personale residente nei territori interessati, compatibilmente con le professionalita' richieste e con la previsione di specifici corsi di formazione; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    indicazione delle modalita' di trasporto del materiale radioattivo al Deposito nazionale e criteri per la valutazione della idoneita' delle vie di accesso al sito; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    indicazioni di massima delle strutture del Parco Tecnologico e dei potenziali benefici per il territorio, anche in termini occupazionali; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    ipotesi di benefici diretti alle persone residenti, alle imprese operanti nel territorio circostante il sito ed agli enti locali interessati e loro quantificazione, modalita' e tempi del trasferimento.
 
 La proposta di Carta nazionale delle aree potenzialmente idonee, con l'ordine della idoneita' delle aree identificate sulla base delle caratteristiche tecniche e socio-ambientali, il progetto preliminare e la documentazione di cui ai commi precedenti sono tempestivamente pubblicati sul sito Internet della Sogin SpA la quale da' contestualmente avviso della pubblicazione almeno su cinque quotidiani a diffusione nazionale, affinche', nei centottanta giorni successivi alla pubblicazione, le Regioni, gli Enti locali, nonche' i soggetti portatori di interessi qualificati, possano formulare osservazioni e proposte tecniche in forma scritta e non anonima, trasmettendole ad un indirizzo di posta elettronica della Sogin SpA appositamente indicato. Le comunicazioni sui siti internet e sui quotidiani indicano le sedi ove possono essere consultati gli atti nella loro interezza, le modalita', i termini, la forma e gli indirizzi per la formulazione delle osservazioni o proposte. La suddetta consultazione pubblica e' svolta nel rispetto dei principi e delle previsioni di cui alla legge 7 agosto 1990, n. 241.
 
@@ -206,9 +412,135 @@ Qualora in sede di conferenza di servizi di cui al comma 14, non venga raggiunta
 
 Nei trenta giorni successivi alla positiva conclusione dell'istruttoria, il Ministro dello sviluppo economico, di concerto con il Ministro dell'ambiente e della tutela del territorio e del mare e con il Ministro delle infrastrutture e dei trasporti, rilascia con proprio decreto l'autorizzazione unica, disponendone la pubblicazione sulla Gazzetta Ufficiale della Repubblica Italiana e nei siti Internet dei relativi Ministeri e dell'Agenzia.
 
+17.
+                        
+                            
+                                Nell'autorizzazione unica sono definiti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    le caratteristiche del Deposito nazionale e delle altre opere connesse ricomprese nel Parco Tecnologico; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il perimetro dell'installazione; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    le ispezioni, i test e le analisi che la Sogin S.p.A., a seguito del rilascio dell'autorizzazione unica, e' tenuta ad effettuare; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    i criteri di accettabilita' che assicurino che il Parco Tecnologico, le opere connesse e le relative pertinenze siano costruiti ed eserciti in conformita' con quanto indicato nella documentazione posta a corredo dell'istanza per l'autorizzazione di cui all'articolo 28, specificando inoltre le modalita' tecniche di svolgimento delle ispezioni, dei test e delle analisi; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    le prescrizioni e gli obblighi di informativa posti a carico della Sogin S.p.A. al fine di garantire la salvaguardia e la tutela della popolazione e dell'ambiente, nonche' il termine entro il quale le opere devono essere realizzate.
+
 L'autorizzazione unica vale quale dichiarazione di pubblica utilita', indifferibilita' e urgenza delle opere e, ove occorra, quale dichiarazione di inamovibilita' e apposizione del vincolo preordinato all'esproprio dei beni in essa compresi. L'autorizzazione unica costituisce variante agli strumenti urbanistici e sostituisce ogni provvedimento amministrativo, autorizzazione, concessione, licenza, nulla osta, atto di assenso e atto amministrativo, comunque denominati, previsti dalle norme vigenti, costituendo titolo a costruire ed esercire l'impianto in conformita' al progetto approvato.
 
 ## Art. 28. — (Istanza per il rilascio dell'autorizzazione unica e attivita' istruttoria)
+
+1.
+                        
+                            
+                                L'istanza per il rilascio dell'autorizzazione unica per la costruzione e l'esercizio del Parco Tecnologico e delle opere connesse deve contenere la seguente documentazione: 
+ 
+                            
+                            
+                                a)
+                                
+                                    progetto definitivo del Parco Tecnologico; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    studio di impatto ambientale ai fini della procedura di VIA; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    rapporto preliminare di sicurezza;
+                                
+                            
+                            
+                                d)
+                                
+                                    documentazione da cui risulta il modello operativo per l'esercizio del Deposito nazionale, in particolare: 
+ 1) schema di regolamento di esercizio; 
+ 2) schema di manuale operativo; 
+ 3) programma generale di prove per la movimentazione e lo stoccaggio dei rifiuti radioattivi; 
+ 4) organigramma previsionale del personale preposto ed addetto all'esercizio tecnico dell'impianto, che svolga funzioni rilevanti agli effetti della sicurezza nucleare o della protezione sanitaria e relative patenti di idoneita';
+                                
+                            
+                            
+                                e)
+                                
+                                    elenco delle servitu' da costituire su beni immobili di terzi per la costruzione e l'esercizio degli impianti e delle opere connesse; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    idonea garanzia finanziaria ai sensi dell'((articolo)) 22 della legge 31 dicembre 1962, n. 1860; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    documentazione attestante l'ottemperanza alle prescrizioni del Trattato Euratom;
+
+2.
+                        
+                            
+                                Nell'ambito dell'istruttoria, l'Agenzia: 
+ 
+                            
+                            
+                                a)
+                                
+                                    valuta la documentazione allegata all'istanza, anche al fine della definizione delle prescrizioni tecniche a cui sara' soggetto il Deposito nazionale; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    richiede alle amministrazioni interessate i pareri di competenza, da rilasciarsi entro il termine di 60 giorni dalla relativa richiesta; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    acquisisce l'esito della Valutazione di Impatto Ambientale (VIA), condotta nel rispetto dalle norme vigenti; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    promuove le notifiche previste dal Trattato Euratom, ai fini dell'acquisizione del parere della Commissione Europea.
 
 All'esito dell'istruttoria, l'Agenzia formula il proprio parere vincolante al Ministro dello sviluppo economico ai fini del rilascio dell'autorizzazione unica ai sensi dell'articolo 27.
 

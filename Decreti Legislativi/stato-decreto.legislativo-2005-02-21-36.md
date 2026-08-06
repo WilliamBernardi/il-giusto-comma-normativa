@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
 vigenza_date: 2012-11-15
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:23Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -63,6 +63,42 @@ Sulla proposta del Ministro per le politiche comunitarie e del Ministro della gi
 
 
 ## Art. 10. — Materiale specifico a rischio
+
+1.
+                    
+                        
+                            Salvo che il fatto costituisca reato, e' soggetto al pagamento di una sanzione amministrativa pecuniaria da 3.000,00 euro a 70.000,00 euro, chiunque:
+ 
+                        
+                        
+                            a)
+                            
+                                viola l'obbligo di cui all'articolo 3, commi 1, 2 e 3, del decreto del Ministro dalla salute in data 16 ottobre 2003. La medesima sanzione si applica nel caso delle macellerie e degli stabilimenti di sezionamento che procedono alla rimozione o asportazione della colonna vertebrale o del midollo spinale di ovini e caprini senza le autorizzazioni richiamate ai commi 3 e 6 dell'articolo 3 del citato decreto del Ministro della salute in data 16 ottobre 2003 o quando le stesse sono state sospese o revocate;
+
+                            
+                        
+                        
+                            b)
+                            
+                                viola gli obblighi di cui all'articolo 4 del decreto del Ministro della salute in data 16 ottobre 2003;
+
+2.
+                    
+                        
+                            Salvo che il fatto costituisca reato, e' soggetto al pagamento di una sanzione amministrativa pecuniaria da 6.000,00 euro a 45.000,00 euro:
+ 
+                        
+                        
+                            a)
+                            
+                                il primo destinatario materiale delle carni provenienti da altri Stati dell'Unione europea che commercializza tali carni quando non sono conformi alle disposizioni di cui all'articolo 5, comma 2, del decreto del Ministro della salute in data 16 ottobre 2003, o non informa, nel caso di cui al medesimo comma 2 dell'articolo 5 del citato decreto del Ministro della salute in data 16 ottobre 2003, il Servizio veterinario dell'azienda sanitaria delle difformita' riscontrate sulle carni a lui destinate;
+
+                            
+                        
+                        
+                            b)
+                            
+                                chiunque, nei casi di cui all'articolo 5, comma 3, del decreto del Ministro della salute in data 16 ottobre 2003, viola la misura cautelare del differimento dell'ulteriore commercializzazione della partita o il vincolo sanitario ivi previsti.
 
 Salvo che il fatto costituisca reato, sono soggetti al pagamento di una sanzione amministrativa pecuniaria da 2.000,00 euro a 28.000,00 euro i titolari o i responsabili degli impianti di cui al comma 3 dell'articolo 2 del decreto del Ministro della salute in data 16 ottobre 2003, che violano l'obbligo, ivi previsto, di inviare il prospetto riepilogativo del materiale specifico a rischio distrutto.
 

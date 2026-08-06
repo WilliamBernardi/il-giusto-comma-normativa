@@ -7,8 +7,8 @@ urn: urn:nir:ministero.ambiente.e.tutela.territorio.e.mare:decreto:2016-10-13;26
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:41Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -38,11 +38,93 @@ Fatte salve le disposizioni di carattere generale di cui al presente decreto ed 
 
 ## Art. 2. — Definizioni
 
+1.
+                        
+                            
+                                Fatte salve le definizioni contenute nella normativa nazionale e comunitaria vigenti ai fini del presente decreto si intende per: 
+ 
+                            
+                            
+                                a)
+                                
+                                    prodotto: ogni materiale o sostanza che e' ottenuto deliberatamente nell'ambito di un processo di produzione o risultato di una scelta tecnica. In molti casi e' possibile identificare uno o piu' prodotti primari; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    residuo di produzione (di seguito «residuo»): ogni materiale o sostanza che non e' deliberatamente prodotto in un processo di produzione e che puo' essere o non essere un rifiuto; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    sottoprodotto: un residuo di produzione che non costituisce un rifiuto ai sensi dell'articolo 184-bis del decreto legislativo 3 aprile 2006, n. 152.
+
 ## Art. 3. — Ambito di applicazione
+
+1.
+                        
+                            
+                                Il presente decreto si applica ai residui di produzione, come definiti dall'articolo 2, comma 1, lettera b) e non si applica: 
+ 
+                            
+                            
+                                a)
+                                
+                                    ai prodotti, come definititi all'articolo 2, comma 1, lettera a); 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    alle sostanze e ai materiali esclusi dal regime dei rifiuti ai sensi dell'articolo 185 del decreto legislativo 3 aprile 2006, n. 152; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    ai residui derivanti da attivita' di consumo.
 
 Restano ferme le disposizioni speciali adottate per la gestione di specifiche tipologie e categorie di residui, tra cui le norme in materia di gestione delle terre e rocce da scavo.
 
 ## Art. 4. — Condizioni generali
+
+1.
+                        
+                            
+                                Ai sensi dell'articolo 184-bis del decreto legislativo 3 aprile 2006, n. 152, i residui di cui all'articolo 2, comma 1, lettera b), sono sottoprodotti e non rifiuti quando il produttore dimostra che, non essendo stati prodotti volontariamente e come obiettivo primario del ciclo produttivo, sono destinati ad essere utilizzati nello stesso o in un successivo processo, dal produttore medesimo o da parte di terzi. A tal fine, in ogni fase della gestione del residuo, e' necessario fornire la dimostrazione che sono soddisfatte tutte le seguenti condizioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la sostanza o l'oggetto e' originato da un processo di produzione, di cui costituisce parte integrante e il cui scopo primario non e' la produzione di tale sostanza od oggetto; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    e' certo l'utilizzo della sostanza o dell'oggetto nel corso dello stesso o di un successivo processo di produzione o di utilizzazione da parte del produttore o di terzi; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    la sostanza o l'oggetto puo' essere utilizzato direttamente senza alcun ulteriore trattamento diverso dalla normale pratica industriale; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    l'ulteriore utilizzo e' legale, ossia la sostanza o l'oggetto soddisfa, per l'utilizzo specifico, tutti i requisiti pertinenti riguardanti i prodotti e la protezione della salute e dell'ambiente e non portera' a impatti complessivi negativi sull'ambiente o la salute umana.
 
 Negli articoli seguenti sono indicate alcune modalita' con cui provare la sussistenza delle circostanze di cui al comma 1, fatta salva la possibilita' di dimostrare, con ogni mezzo ed anche con modalita' e con riferimento a sostanze ed oggetti diversi da quelli precisati nel presente decreto, o che soddisfano criteri differenti, che una sostanza o un oggetto derivante da un ciclo di produzione non e' un rifiuto, ma un sottoprodotto. Resta fermo l'obbligo di rispettare i requisiti di impiego e di qualita' previsti dalle pertinenti normative di settore.
 
@@ -85,6 +167,38 @@ In caso di cessione del sottoprodotto, la conformita' dello stesso rispetto a qu
 ## Art. 8. — Deposito e movimentazione
 
 Al fine di assicurare la certezza dell'utilizzo ai sensi dell'articolo 5, il sottoprodotto, fino a che non sia effettivamente utilizzato, e' depositato e movimentato nel rispetto delle specifiche norme tecniche, se disponibili, e delle regole di buona pratica, evitando spandimenti accidentali e la contaminazione delle matrici ambientali e in modo da prevenire e minimizzare la formazione di emissioni diffuse e la diffusione di odori.
+
+2.
+                        
+                            
+                                Nelle fasi di deposito e trasporto del sottoprodotto sono garantite: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la separazione dei sottoprodotti da rifiuti, prodotti, o oggetti, o sostanze con differenti caratteristiche chimico fisiche, o destinati a diversi utilizzi; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'adozione delle cautele necessarie ad evitare l'insorgenza di qualsiasi problematica ambientale, o sanitaria, nonche' fenomeni di combustione, o la formazione di miscele pericolose, o esplosive; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    l'adozione delle cautele necessarie ad evitare l'alterazione delle proprieta' chimico-fisiche del sottoprodotto, o altri fenomeni che possano pregiudicarne il successivo impiego; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    la congruita' delle tempistiche e delle modalita' di gestione, considerate le peculiarita' e le caratteristiche del sottoprodotto, nel rispetto di quanto indicato nella scheda tecnica di cui all'allegato 1.
 
 A seguito della predisposizione della scheda tecnica e della sottoscrizione della dichiarazione di conformita' di cui all'allegato 1, il deposito ed il trasporto possono essere effettuati anche accumulando sottoprodotti provenienti da diversi impianti o attivita', purche' abbiano le medesime caratteristiche e non ne vengano alterati i requisiti che ne garantiscono l'utilizzo ai sensi del presente decreto.
 

@@ -9,7 +9,7 @@ vigente: true
 source: normattiva-opendata
 collection: Atti di attuazione Regolamenti UE
 zip_date: 2026-07-24
-fetched_at: 2026-08-02T09:38:54Z
+fetched_at: 2026-07-24
 ---
 
 DECRETO
@@ -33,6 +33,32 @@ Le regioni e le province autonome, sulla base dei criteri stabiliti dalla commis
 
 ## Art. 2. — Beneficiari
 
+1.
+                    
+                        
+                            Possono beneficiare, a domanda, dell'aiuto di cui all'art. 1 per il ritiro di seminativi dalla produzione, tutti i produttori agricoli singoli od associati, classificati nelle tre categorie seguenti che destinano le terre agli scopi stabiliti dall'art. 4, primo comma, del presente decreto:
+ 
+                        
+                        
+                            a)
+                            
+                                proprietari coltivatori diretti o conduttori titolari di aziende agricole;
+
+                            
+                        
+                        
+                            b)
+                            
+                                affittuari coltivatori diretti, affittuari conduttori di aziende agricole, enfiteuti, mezzadri e coloni;
+
+                            
+                        
+                        
+                            c)
+                            
+                                persone giuridiche, anche di diritto pubblico.
+ Per la concessione dell'aiuto puo' essere preso in considerazione un solo produttore agricolo per la singola superficie agricola utilizzata.
+
 Unitamente alla domanda l'avente diritto all'aiuto e' tenuto a sottoscrivere l'impegno previsto dall'art. 8 del regolamento CEE n. 1272/88.
 
 Ai sensi dell'art. 9 del regolamento CEE n. 1272/88, le superfici interessate dal ritiro dei seminativi dalla produzione possono beneficiare dell'aiuto se i soggetti di cui alla lettera a) le hanno coltivate nel periodo di riferimento di cui al successivo art. 3, comma 1. I richiedenti di cui al paragrafo 1, lettera b) e lettera c) (non proprietari), possono beneficiare dell'aiuto qualora il contratto stipulato con il proprietario sia di durata almeno pari a quella dell'impegno sottoscritto ai sensi dell'art. 8 del regolamento CEE n. 1272/88, oppure ricada sotto la disciplina di cui al titolo I, capo I, della legge 3 maggio 1982, n. 203, recante norme sulla durata dei contratti di affitto a coltivatore diretto. Nei casi non contemplati dalla precitata legge la conduzione di fatto e la relativa durata puo' essere attestata mediante dichiarazione sostitutiva di atto di notorieta'.Tuttavia nel caso in cui la validita' degli atti prodotti sia inferiore a quella dell'impegno, sia la domanda che l'impegno stesso devono essere sottoscritti anche dal proprietario.
@@ -53,6 +79,45 @@ Se la superficie di cui al comma precedente comprende piu' particelle non contig
 Se la superficie da ritirare e' interessata dalla consociazione tra colture di seminativi e coltivazioni permanenti, l'aiuto puo' essere concesso soltanto alle condizioni previste dall'art. 2, paragrafo 2, del regolamento CEE n. 1272/88 e sempreche' la superficie sia stata utilizzata a seminativi durante il periodo di riferimento di cui al paragrafo 1.
 
 ## Art. 4. — Destinazione delle terre
+
+1.
+                    
+                        
+                            La concessione degli aiuti di cui all'art. 1 e' in ogni caso subordinata alla destinazione della superficie ai seguenti scopi:
+ 
+                        
+                        
+                            a)
+                            
+                                imboschimento, con particolare riguardo a specie forestali autoctone e pregiate, ai pioppeti e ad altre specie a rapido accrescimento compatibili con l'ambiente;
+
+                            
+                        
+                        
+                            b)
+                            
+                                utilizzazioni a scopi non agricoli, escluse quelle che comportino costruzioni permanenti non attinenti alle attivita' aziendali, agrituristiche e sportive;
+
+                            
+                        
+                        
+                            c)
+                            
+                                messa a riposo, con possibilita' di rotazione;
+
+                            
+                        
+                        
+                            d)
+                            
+                                creazione di pascoli destinati all'allevamento estensivo;
+
+                            
+                        
+                        
+                            e)
+                            
+                                produzione di lenticchie, ceci e vecce.
 
 Le utilizzazioni di cui alle lettere d) ed e) sono consentite fino al 30 aprile 1991, salvo diversa determinazione del Consiglio delle Comunita' europee.
 

@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
 vigenza_date: 2012-11-06
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:41Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -41,6 +41,23 @@ E' istituito presso l'INPS il "Fondo di solidarieta' per il sostegno del reddito
 Il Fondo gode di autonoma gestione finanziaria e patrimoniale, ai sensi dell'articolo 3, comma 1, del decreto del Ministro del lavoro e della previdenza sociale, di concerto con il Ministro del tesoro, del bilancio e della programmazione economica, del 27 novembre 1997, n. 477.
 
 ## Art. 2. — Finalita' del Fondo
+
+1.
+                    
+                        
+                            Il Fondo ha lo scopo di attuare interventi nei confronti dei lavoratori delle aziende, ivi comprese quelle facenti parte di gruppi creditizi, e delle associazioni di banche, cui si applicano i contratti collettivi del credito (ex Assicredito o Acri), e i relativi contratti complementari, che nell'ambito e in connessione con processi di ristrutturazione o di situazioni di crisi, ai sensi dell'articolo 2, comma 28, della legge 23 dicembre 1996, n. 662, o di riorganizzazione aziendale o di riduzione o trasformazione di attivita' o di lavoro:
+
+                        
+                        
+                            a)
+                            
+                                favoriscano il mutamento e il rinnovamento delle professionalita';
+                            
+                        
+                        
+                            b)
+                            
+                                realizzino politiche attive di sostegno del reddito e dell'occupazione.
 
 ## Art. 3. — Amministrazione del Fondo
 
@@ -86,6 +103,33 @@ Il comitato amministratore deve:
 
 ## Art. 5. — Prestazioni
 
+1.
+                    
+                        
+                            Il Fondo provvede, nell'ambito dei processi di cui al precedente articolo 2, comma 1: 
+ 
+                        
+                        
+                            a)
+                            
+                                in via ordinaria: 
+ 1) a contribuire al finanziamento di programmi formativi di riconversione o riqualificazione professionale, anche in concorso con gli appositi fondi nazionali o comunitari; 
+ 2) al finanziamento di specifici trattamenti a favore dei lavoratori interessati da riduzioni dell'orario di lavoro o da sospensione temporanea dell'attivita' lavorativa anche in concorso con gli appositi strumenti di sostegno previsti dalla legislazione vigente; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                in via straordinaria: all'erogazione di assegni straordinari per il sostegno al reddito, in forma rateale, ed al versamento della contribuzione correlata di cui all'articolo 2, comma 28, della legge n. 662 del 1996, riconosciuti ai lavoratori ammessi a fruirne nel quadro dei processi di agevolazione all'esodo. Qualora l'erogazione avvenga, su richiesta del lavoratore, in unica soluzione, l'assegno straordinario e' pari ad un importo corrispondente al 60% del valore attuale, calcolato secondo il tasso ufficiale di sconto vigente alla data del 28 febbraio 1998, di quanto sarebbe spettato, dedotta la contribuzione correlata, che pertanto non verra' versata, se detta erogazione fosse avvenuta in forma rateale. 
+
+                            
+                        
+                        
+                            c)
+                            
+                                in via emergenziale: all'erogazione, nei confronti dei lavoratori in esubero non aventi i requisiti per l'accesso alle prestazioni straordinarie di cui alla lettera b) del presente articolo, dei trattamenti di cui all'art. 11-bis del presente decreto. (2)
+
 Agli interventi sopra definiti vengono ammessi nell'ambito del periodo intercorrente dalla data di entrata in vigore del presente regolamento fino al 30 giugno 2020, i soggetti di cui all'articolo 2.
 
 Gli assegni straordinari per il sostegno del reddito sono erogati dal Fondo, per un massimo di 60 mesi nell'ambito del periodo di cui al comma 2, su richiesta del datore di lavoro e fino alla maturazione del diritto a pensione di anzianita' o vecchiaia a carico dell'assicurazione generale obbligatoria, a favore dei lavoratori che maturino i predetti requisiti entro un periodo massimo di 60 mesi, o inferiore a 60 mesi, dalla data di cessazione del rapporto di lavoro.
@@ -106,6 +150,24 @@ Il Fondo versa, altresi', la contribuzione di cui al precedente comma 1, lettera
  Ha inoltre disposto disposto (con l'art. 2, comma 1) che "Le disposizioni di cui al presente Regolamento trovano applicazione a decorrere dalla scadenza del regime giuridico introdotto dal decreto ministeriale 26 aprile 2010 n. 51635 come prorogato dal comma 1 dell'articolo 1 del decreto-legge 29 dicembre 2010, n. 225, come modificato dalla relativa legge di conversione e, successivamente, dal comma 1 dell'articolo 1 del decreto del Presidente del Consiglio dei Ministri 25 marzo 2011".
 
 ## Art. 6. — Finanziamento
+
+1.
+                    
+                        
+                            Per le prestazioni di cui all'art. 5, comma 1, lettere a) e c), e' dovuto al Fondo: (2)((4))
+                            
+                        
+                        
+                            a)
+                            
+                                un contributo ordinario dello 0,5%, di cui lo 0,375% a carico del datore di lavoro e lo 0,125% a carico dei lavoratori, calcolato sulla retribuzione imponibile ai fini previdenziali di tutti i lavoratori dipendenti con contratto a tempo indeterminato; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                un contributo addizionale, a carico del datore di lavoro, in caso di fruizione delle prestazioni di cui all'articolo 5, comma 1, lettera a), punto 2), nella misura non superiore all'1,50%, calcolato sulla retribuzione imponibile di cui alla lettera a), con l'applicazione di un coefficiente correttivo pari al rapporto tra le retribuzioni parzialmente o totalmente perdute dai dipendenti che fruiscono delle prestazioni, e le retribuzioni che restano in carico al datore di lavoro.
 
 Eventuali variazioni della misura del contributo ordinario dello 0,50% sono ripartite tra datore di lavoro e lavoratori in ragione degli stessi criteri di ripartizione di cui al comma 1, lettera a).
 
@@ -136,6 +198,31 @@ Qualora la gestione di liquidazione non risulti chiusa nel termine di cui al com
  Ha inoltre disposto (con l'art. 2, comma 1) che "Le disposizioni di cui al presente Regolamento trovano applicazione a decorrere dalla scadenza del regime giuridico introdotto dal decreto ministeriale 26 aprile 2010 n. 51635 come prorogato dal comma 1 dell'articolo 1 del decreto-legge 29 dicembre 2010, n. 225, come modificato dalla relativa legge di conversione e, successivamente, dal comma 1 dell'articolo 1 del decreto del Presidente del Consiglio dei Ministri 25 marzo 2011".
 
 ## Art. 7. — Accesso alle prestazioni
+
+1.
+                    
+                        
+                            L'accesso alle prestazioni di cui all'articolo 5 e' subordinato: 
+ 
+                        
+                        
+                            a)
+                            
+                                per le prestazioni di cui all'articolo 5, comma 1, lettera a), punto 1), all'espletamento delle procedure contrattuali previste per i processi che modificano le condizioni di lavoro del personale; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                per le prestazioni di cui all'articolo 5, comma 1, lettera a), punto 2), all'espletamento delle procedure contrattuali previste per i processi che modificano le condizioni di lavoro del personale, ovvero determinano la riduzione dei livelli occupazionali, nonche' di quelle legislative laddove espressamente previste; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                per le prestazioni di cui all'art. 5, comma 1, lettere b) e c), all'espletamento delle procedure contrattuali preventive e di legge previste per i processi che determinano la riduzione dei livelli occupazionali. (2)((4))
 
 L'accesso alle prestazioni di cui all'articolo 5 e' altresi' subordinato alla condizione che le procedure sindacali di cui al comma 1 si concludano con accordo aziendale, nell'ambito del quale siano stati individuati, per i casi di cui al comma 1, lettere b) e c), una pluralita' di strumenti secondo quanto indicato dalle normative vigenti in materia di processi che modificano le condizioni di lavoro del personale, ovvero determinano la riduzione dei livelli occupazionali.
 
@@ -196,6 +283,28 @@ La retribuzione mensile dell'interessato utile per la determinazione dell'assegn
 
 Per i lavoratori a tempo parziale l'importo dell'assegno ordinario viene determinato proporzionando lo stesso alla minore durata della prestazione lavorativa.
 
+9.
+                    
+                        
+                            Nei casi di cui all'articolo 5, comma 1, lettera b), il Fondo eroga un assegno straordinario di sostegno al reddito il cui valore e' pari: 
+ 
+                        
+                        
+                            a)
+                            
+                                per i lavoratori che possono conseguire la pensione di anzianita' prima di quella di vecchiaia, alla somma dei seguenti importi: 
+ 1) l'importo netto del trattamento pensionistico spettante nell'assicurazione generale obbligatoria con la maggiorazione dell'anzianita' contributiva mancante per il diritto alla pensione di anzianita': 
+ 2) l'importo delle ritenute di legge sull'assegno straordinario. 
+
+                            
+                        
+                        
+                            b)
+                            
+                                per i lavoratori che possono conseguire la pensione di vecchiaia prima di quella di anzianita', alla somma dei seguenti importi: 
+ 1) l'importo netto del trattamento pensionistico spettante nell'assicurazione generale obbligatoria con la maggiorazione dell'anzianita' contributiva mancante per il diritto alla pensione di vecchiaia; 
+ 2) l'importo delle ritenute di legge sull'assegno straordinario.
+
 Nei casi di cui al comma 9, il versamento della contribuzione correlata e' effettuato per il periodo compreso tra la cessazione del rapporto di lavoro e la maturazione dei requisiti minimi richiesti per il diritto a pensione di anzianita' o vecchiaia; l'assegno straordinario, esclusa pertanto la predetta contribuzione correlata, e' corrisposto sino alla fine del mese antecedente a quello previsto per la decorrenza della pensione.
 
 La contribuzione correlata per i periodi di zerogazione delle prestazioni a favore dei lavoratori interessati da riduzione di orario o da sospensione temporanea dell'attivita' di cui all'articolo 5, comma 1, lettera a), punto 2), e per i periodi di erogazione dell'assegno straordinario di sostegno del reddito di cui all'articolo 5, comma 1, lettera b), compresi tra la cessazione deI rapporto di lavoro e la maturazione dei requisiti minimi di eta' o anzianita' contributiva richiesti per la maturazione del diritto a pensione di anzianita' o vecchiaia, e' versata a carico del Fondo ed e' utile per il conseguimento del diritto alla pensione, ivi compresa quella di anzianita', e per la determinazione della sua misura.
@@ -245,7 +354,50 @@ In caso di inadempimento dell'obbligo previsto dal comma 8 il lavoratore decade 
 
 ((
 
+1.
+                    
+                        
+                            Il Fondo provvede, nell'ambito dei processi di cui all'articolo 2, comma 1, del presente decreto, per i lavoratori in esubero non aventi i requisiti per l'accesso alle prestazioni straordinarie di cui all'articolo 5, comma 1, lettera b), del presente decreto: 
+ 
+                        
+                        
+                            a)
+                            
+                                all'erogazione, per un massimo di 24 mesi, di un assegno per il sostegno del reddito ai lavoratori in condizione di disoccupazione involontaria; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al finanziamento, per un massimo di 12 mesi, a favore dei predetti lavoratori e su loro richiesta, di programmi di supporto alla ricollocazione professionale, ridotto dell'eventuale concorso degli appositi fondi nazionali e comunitari.
+
 L'accesso alle predette prestazioni e' condizionato all'espletamento delle procedure contrattuali preventive e di legge previste per i processi che determinano la riduzione dei livelli occupazionali, nonche' all'ulteriore condizione che le procedure sindacali di cui sopra si concludano con accordo aziendale.
+
+3.
+                    
+                        
+                            Nell'ipotesi di cui al comma 1, lettera a), il Fondo provvede al riconoscimento, ad integrazione del trattamento di disoccupazione di legge e finche' permanga tale condizione, fermo quanto previsto al comma 8, di una somma, ridotta dell'eventuale concorso degli appositi strumenti di sostegno previsti dalla legislazione vigente, fino al raggiungimento delle seguenti misure: 
+ 
+                        
+                        
+                            a)
+                            
+                                80% dell'ultima retribuzione tabellare lorda mensile spettante al lavoratore, con un massimale pari ad un importo di ? 2.220 lordi mensili, per retribuzioni tabellari annue fino a ? 38.000; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                70% dell'ultima retribuzione tabellare lorda mensile spettante al lavoratore, con un massimale pari ad un importo di ? 2.500 lordi mensili, per retribuzioni tabellari annue da ? 38.001 a ? 50.000; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                60% dell'ultima retribuzione tabellare lorda mensile spettante al lavoratore, con un massimale pari ad un importo di ? 3.500 lordi mensili, per retribuzioni tabellari annue oltre ? 50.000.
 
 In caso di erogazione della prestazione di cui al comma 1, lettera a), del presente articolo, il Fondo provvede al versamento della contribuzione correlata calcolata sull'ultima retribuzione tabellare lorda mensile spettante al lavoratore, dovuta alla competente gestione assicurativa obbligatoria.
 

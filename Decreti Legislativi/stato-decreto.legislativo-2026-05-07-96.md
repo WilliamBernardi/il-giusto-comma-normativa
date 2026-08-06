@@ -7,8 +7,8 @@ urn: urn:nir:stato:decreto.legislativo:2026-05-07;96
 vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:33Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -44,11 +44,124 @@ Per le finalita' di cui all'articolo 5, il presente decreto si applica anche ai 
 
 ## Art. 3. — Definizioni
 
+1.
+                        
+                            
+                                Ai fini del presente decreto si applicano le definizioni seguenti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    «retribuzione»: il salario o lo stipendio di base e tutte le somme e i valori versati dal datore di lavoro, direttamente o indirettamente, anche in natura, al lavoratore in relazione al rapporto di lavoro, ivi comprese le componenti complementari o variabili; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    «livello retributivo»: la retribuzione lorda annua e la corrispondente retribuzione oraria lorda, da intendersi come la totalita' degli elementi retributivi continuativi e fissi, ad esclusione dei trattamenti economici individuali non strutturali quali componenti retributive riconosciute su base personale, discrezionale o temporanea non generalizzate all'interno della medesima categoria di lavoratori e fondate su criteri oggettivi individuali; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    «divario retributivo di genere»: la differenza tra i livelli retributivi medi corrisposti da un datore di lavoro ai lavoratori di sesso femminile e a quelli di sesso maschile, espressa in percentuale del livello retributivo medio dei lavoratori di sesso maschile; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    «livello retributivo mediano»: il livello retributivo rispetto al quale una meta' dei lavoratori di un datore di lavoro guadagna di piu' e l'altra meta' guadagna di meno; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    «divario retributivo mediano di genere»: la differenza tra il livello retributivo mediano dei lavoratori di sesso femminile e il livello retributivo mediano dei lavoratori di sesso maschile di un datore di lavoro, espressa in percentuale del livello retributivo mediano dei lavoratori di sesso maschile; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    «quartile retributivo»: ciascuno dei quattro gruppi uguali in cui i lavoratori sono suddivisi in base al loro livello retributivo, dal piu' basso al piu' elevato; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    «lavoro di pari valore»: il lavoro ritenuto di pari valore secondo i criteri non discriminatori, oggettivi e neutri sotto il profilo del genere di cui all'articolo 4 del presente decreto; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    «categoria di lavoratori»: l'insieme di lavoratori e lavoratrici che svolgono lo stesso lavoro o lavori considerati di pari valore, ai sensi dell'articolo 4 del presente decreto; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    «discriminazione diretta»: la discriminazione di cui agli articoli 25, commi 1 e 2-bis, e 26 del codice delle pari opportunita' tra uomo e donna, di cui al decreto legislativo 11 aprile 2006, n. 198; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    «discriminazione indiretta»: la discriminazione di cui agli articoli 25, commi 2 e 2-bis, e 26 del codice di cui al decreto legislativo n. 198 del 2006; 
+
+                                
+                            
+                            
+                                m)
+                                
+                                    «discriminazione intersezionale»: la discriminazione originata dalla combinazione della discriminazione fondata sul genere con quella derivante da altri fattori di discriminazione, quali la razza, l'origine etnica, la religione, le convinzioni personali, la disabilita', l'eta' o l'orientamento sessuale, di cui ai decreti legislativi 9 luglio 2003, n. 215 e n. 216, all'articolo 15 della legge 20 maggio 1970, n. 300, e agli articoli 43 e 44 del decreto legislativo 25 luglio 1998, n. 286; 
+
+                                
+                            
+                            
+                                n)
+                                
+                                    «organismo per la parita'»: le consigliere e i consiglieri di parita' di cui al libro I, titolo II, capo IV, del codice di cui al decreto legislativo n. 198 del 2006; 
+
+                                
+                            
+                            
+                                o)
+                                
+                                    «rappresentanti dei lavoratori»: i componenti delle rappresentanze sindacali unitarie (RSU), delle rappresentanze sindacali aziendali (RSA) o, in assenza di queste, i rappresentanti territoriali delle organizzazioni sindacali firmatarie del contratto collettivo nazionale di lavoro (CCNL) applicato in azienda e i soggetti a cui i lavoratori possano legalmente conferire specifico mandato.
+
 Per le finalita' del presente decreto, i datori di lavoro non sono tenuti a raccogliere dati diversi da quelli connessi al sesso, che possono essere necessari a rilevare una discriminazione intersezionale.
 
 ## Art. 4. — Stesso lavoro e lavoro di pari valore
 
 I contratti collettivi nazionali di lavoro e le disposizioni di legge assicurano sistemi di determinazione e classificazione retributiva fondati su criteri oggettivi e neutri rispetto al genere, idonei a garantire la parita' di retribuzione per uno stesso lavoro o per un lavoro di pari valore. L'applicazione di un contratto collettivo nazionale di lavoro stipulato da organizzazioni sindacali comparativamente piu' rappresentative sul piano nazionale, comprensivo dei sistemi di classificazione professionale, inquadramento e trattamento economico, costituisce presunzione di conformita' ai principi di parita' retributiva e di trasparenza, ferma restando la dimostrazione dell'esistenza di trattamenti retributivi individuali discriminatori.
+
+2.
+                        
+                            
+                                Ai sensi del presente decreto e dell'articolo 28 del codice delle pari opportunita' tra uomo e donna, di cui al decreto legislativo 11 aprile 2006, n. 198, si intende: 
+ 
+                            
+                            
+                                a)
+                                
+                                    per «stesso lavoro», la prestazione lavorativa svolta nell'esercizio di mansioni identiche o riconducibili alla stessa qualifica esemplificativa nell'ambito del medesimo livello retributivo e categoria legale di inquadramento previsti dal contratto collettivo nazionale di lavoro (CCNL) applicato dal datore di lavoro o, in mancanza, dal CCNL siglato dalle organizzazioni sindacali comparativamente piu' rappresentative sul piano nazionale per il settore di riferimento; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    per «lavoro di pari valore», la prestazione lavorativa diversa svolta nell'esercizio di mansioni comparabili, previste dai livelli di inquadramento stabiliti dal CCNL applicato dal datore di lavoro o, in mancanza, del CCNL siglato dalle organizzazioni sindacali comparativamente piu' rappresentative sul piano nazionale per il settore di riferimento.
 
 La valutazione del lavoro di pari valore e' effettuata sulla base di criteri comuni, oggettivi e neutrali rispetto al genere, che tengono conto delle competenze, delle responsabilita' e delle condizioni di lavoro nonche' di qualsiasi altro fattore pertinente al lavoro o alla posizione specifici.
 
@@ -104,9 +217,94 @@ Tutte le informazioni da condividere con i lavoratori o i candidati a un impiego
 
 ## Art. 9. — Informazioni e comunicazioni sul divario retributivo di genere tra lavoratori di sesso maschile e femminile
 
+1.
+                        
+                            
+                                I dati oggetto di comunicazione ai fini del presente decreto sono quelli relativi a: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il divario retributivo di genere; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il divario retributivo di genere nelle componenti complementari o variabili; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il divario retributivo mediano di genere; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    il divario retributivo mediano di genere nelle componenti complementari o variabili; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    la percentuale di lavoratori di sesso femminile e di quelli di sesso maschile che ricevono componenti complementari o variabili; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    la percentuale di lavoratori di sesso femminile e di quelli di sesso maschile in ogni quartile retributivo; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    il divario retributivo di genere tra lavoratori per categorie di lavoratori ripartito in base al salario o allo stipendio normale di base e alle componenti complementari o variabili.
+
 L'esattezza delle informazioni concernenti i dati di cui al comma 1 e' confermata dal datore di lavoro, previa consultazione dei rappresentanti di lavoro che hanno accesso alle metodologie applicate.
 
 Il datore di lavoro che adotta una politica salariale unitaria di gruppo puo' fornire le informazioni aggregando i dati a livello nazionale, qualora tale modalita' consenta una rappresentazione piu' affidabile dei dati anche al fine di ridurre le distorsioni statistiche e di favorire una gestione accentrata degli adempimenti.
+
+4.
+                        
+                            
+                                Con uno o piu' decreti del Ministro del lavoro e delle politiche sociali, sentito il Garante per la protezione dei dati personali, da adottare, ai sensi dell'articolo 17, comma 3, della legge 23 agosto 1988, n. 400, entro novanta giorni dalla data di entrata in vigore del presente decreto, sono definite: 
+ 
+                            
+                            
+                                a)
+                                
+                                    le modalita' per la raccolta e il trattamento dei dati da parte del Ministero del lavoro e delle politiche sociali, per il datore di lavoro in relazione ad ogni lavoratore ai fini di cui al comma 1, anche con modalita' telematiche e attraverso l'acquisizione delle informazioni in possesso dell'Istituto nazionale della previdenza sociale (INPS), dell'Istituto nazionale per l'assicurazione contro gli infortuni sul lavoro (INAIL), dell'Ispettorato nazionale del lavoro (INL) e di altri soggetti istituzionali ai sensi del codice dell'amministrazione digitale, di cui al decreto legislativo 7 marzo 2005, n. 82, e del testo unico delle disposizioni legislative e regolamentari in materia di documentazione amministra, di cui al decreto del Presidente della Repubblica 28 dicembre 2000, n. 445; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'individuazione dei dati utili ai fini del comma 1 e le relative modalita' di acquisizione; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    le attivita' di assistenza tecnica ed eventuali iniziative di formazione a sostegno dei datori di lavoro, al fine di agevolare l'adempimento degli obblighi previsti dal presente decreto; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    le modalita' di raccolta ed esposizione dei dati per i datori di lavoro di cui all'articolo 7, comma 8.
 
 Tutti i dati di cui al comma 1 sono comunicati all'organismo di monitoraggio previsto dall'articolo 14, il quale provvede alla pubblicazione, limitatamente ai dati di cui al comma 1, lettere a), b), c), d), e) ed f), del presente articolo. Questi ultimi possono essere, altresi', resi disponibili pubblicamente dal datore di lavoro, anche attraverso il proprio sito internet.
 
@@ -119,6 +317,84 @@ Le disposizioni di cui al presente articolo si applicano ai datori di lavoro con
 Per i datori di lavoro che occupano almeno duecentocinquanta dipendenti, i dati sono raccolti entro il 7 giugno 2027 e successivamente ogni anno. Per i datori di lavoro che occupano tra i centocinquanta e i duecentoquarantanove dipendenti, i dati sono raccolti entro il 7 giugno 2027 e successivamente ogni tre anni. Per i datori di lavoro che occupano tra i cento e centoquarantanove dipendenti, i dati sono raccolti entro il 7 giugno 2031 e successivamente ogni tre anni.
 
 ## Art. 10. — Valutazione congiunta delle retribuzioni
+
+1.
+                        
+                            
+                                I datori di lavoro, soggetti all'obbligo di comunicazione di informazioni sulle retribuzioni a norma dell'articolo 9, effettuano, con i rappresentanti dei lavoratori, una valutazione congiunta delle retribuzioni nel caso in cui si verificano tutte le seguenti condizioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    le informazioni sulle retribuzioni rivelano una differenza del livello retributivo medio tra lavoratori di sesso femminile e lavoratori di sesso maschile pari ad almeno il 5 per cento in una qualsiasi categoria di lavoratori; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il datore di lavoro non ha motivato tale differenza di livello retributivo medio sulla base di criteri oggettivi e neutri sotto il profilo del genere; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il datore di lavoro non ha corretto tale differenza immotivata di livello retributivo medio entro sei mesi dalla data della comunicazione delle informazioni sulle retribuzioni.
+
+2.
+                        
+                            
+                                La valutazione congiunta e' finalizzata a individuare, correggere e prevenire differenze retributive non giustificate tra lavoratrici e lavoratori e comprende: 
+ 
+                            
+                            
+                                a)
+                                
+                                    un'analisi della percentuale delle persone di sesso femminile e di quelle di sesso maschile in ciascuna categoria di lavoratori; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le informazioni sui livelli retributivi medi delle persone di sesso femminile e di quelle di sesso maschile e sulle componenti complementari o variabili, per ciascuna categoria di lavoratori; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    le eventuali differenze nei livelli retributivi medi tra persone di sesso femminile e di sesso maschile in ciascuna categoria di lavoratori; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    le ragioni di tali differenze nei livelli retributivi medi, sulla base di criteri oggettivi e neutri sotto il profilo del genere, se del caso, stabilite congiuntamente dai rappresentanti dei lavoratori e dal datore di lavoro; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    la percentuale di persone di sesso femminile e di quelle di sesso maschile che hanno beneficiato di un miglioramento delle retribuzioni in seguito al loro rientro dal congedo di maternita' o di paternita', dal congedo parentale o dal congedo per i prestatori di assistenza, se tale miglioramento si e' verificato nella categoria di lavoratori pertinente durante il periodo in cui e' stato fruito il congedo; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    le misure volte ad affrontare le differenze di retribuzione che risultino non motivate sulla base di criteri oggettivi e neutri sotto il profilo del genere; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    una valutazione dell'efficacia delle misure derivanti da precedenti valutazioni congiunte delle retribuzioni.
 
 Il datore di lavoro mette gli esiti della valutazione congiunta a disposizione dei lavoratori e dei loro rappresentanti, li comunica all'organismo di monitoraggio a norma dell'articolo 14 nonche' all'Ispettorato del lavoro e agli organismi per la parita' territorialmente competenti, in caso di loro richiesta.
 
@@ -151,6 +427,46 @@ In caso di accertamento di discriminazioni poste in essere in violazione del pre
 ## - Capo IV Monitoraggio e statistiche
 
 ## Art. 14. — Organismo di monitoraggio
+
+1.
+                        
+                            
+                                Presso il Ministero del lavoro e delle politiche sociali e' istituito un «organismo di monitoraggio» incaricato di monitorare e promuovere l'attuazione delle misure previste nel presente decreto.
+Ad esso sono affidati, in particolare, i seguenti compiti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    sensibilizzare le imprese e le organizzazioni pubbliche e private, le parti sociali e i cittadini al fine di promuovere il principio della parita' di retribuzione e il diritto alla trasparenza retributiva, anche affrontando la discriminazione intersezionale in relazione alla parita' di retribuzione per uno stesso lavoro o per un lavoro di pari valore; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    analizzare le cause del divario retributivo di genere e mettere a punto strumenti che contribuiscano a valutare le disparita' retributive, anche avvalendosi del lavoro e degli strumenti di analisi dell'Istituto europeo per l'uguaglianza di genere (EIGE); 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    raccogliere i dati presentati dai datori di lavoro a norma dell'articolo 9, pubblicare tempestivamente i dati di cui al comma 1, lettere a), b), c), d), e) e f), del medesimo articolo 9, in modo facilmente accessibile e fruibile, consentendo un confronto agevole tra datori di lavoro, settori economici e regioni, e garantire che i dati dei quattro anni precedenti, ove disponibili, siano accessibili; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    raccogliere le relazioni di valutazione congiunta delle retribuzioni a norma dell'articolo 10, comma 3; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    aggregare i dati sul numero e sul tipo di reclami in materia di discriminazione retributiva presentati dinanzi alle autorita' competenti, compresi gli organismi per la parita', e sui ricorsi presentati dinanzi agli organi giurisdizionali nazionali.
 
 L'organismo di monitoraggio elabora una relazione concernente i dati di cui al comma 1, lettere c), d) ed e), e la trasmette alla Commissione europea, in sede di prima applicazione, entro il 7 giugno 2028 e, successivamente, ogni due anni.
 

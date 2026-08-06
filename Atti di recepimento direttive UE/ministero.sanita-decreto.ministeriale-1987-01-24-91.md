@@ -10,7 +10,7 @@ source: normattiva-opendata
 collection: Atti di recepimento direttive UE
 vigenza_date: 1987-05-11
 zip_date: 2026-07-30
-fetched_at: 2026-08-02T09:40:48Z
+fetched_at: 2026-07-30
 ---
 
 DECRETO MINISTERIALE
@@ -53,6 +53,41 @@ Allo stesso elenco costituente l'allegato II della legge 11 ottobre 1986, n. 713
  378. 6-acetossi-2,4-dimetil-1,3-diossano (dimetossano); 
  379. N-ossido-2 tiol piridina sale sodico (piritione sodico).
 
+3.
+                    
+                        
+                            Al medesimo elenco dell'allegato II sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                La menzione "allegato IV (parte prima)", che figura alla voce 167, e' sostituita con la menzione "allegato V sezione prima (parte seconda)". 
+
+                            
+                        
+                        
+                            b)
+                            
+                                La voce 178 e' sostituita da: 
+ "178. 4-Benzilossifenolo, 4-metossifenolo e 4-etossifenolo". 
+
+                            
+                        
+                        
+                            c)
+                            
+                                La voce 194 e' sostituita da: 
+ "194. Sostanze ad attivita' gestagena, anche se contenute in placenta o in estratti placentari. 
+ d) La voce 221 e' cosi' modificata: 
+ "221. Mercurio e suoi composti, ad eccezione di quelli inclusi nell'allegato V. sezione prima, parte prima". 
+ e) La voce 260 e' sostituita da: 
+ "260. Sostanze ad attivita' estrogena, anche se contenute in placenta o in estratti placentari". 
+ f) La voce 297 e' cosi' modificata: 
+ "297. Selenio e suoi composti, ad eccezione del disolfuro di selenio, alle condizioni previste nell'allegato III, parte prima, numero 51". 
+ g) La voce 366 e' cosi' modificata: 
+ "366. Zirconio e suoi composti, esclusi i complessi che figurano con il numero d'ordine 52 nell'allegato III, parte prima, le lacche, i pigmenti o i sali di zirconio dei coloranti che figurano con il riferimento (3) nell'allegato III, parte seconda e nell'allegato IV, parte seconda".
+
 ## Art. 2.
 
 La voce 13 dell'allegato III, parte prima, della legge e' soppressa.
@@ -81,4 +116,22 @@ L'allegato V, sezione prima - parte prima e seconda, della legge e' sostituito d
 Il divieto di impiego delle sostanze previste dal comma 1 dell'art. 1 ha effetto, anche per quanto attiene alla vendita dei prodotti, dalla data di entrata in vigore del presente decreto.
 
 Alle limitazioni di impiego delle sostanze di cui alle voci 49 e 50 riportate nel comma 3 dell'art. 2 si applicano i termini previsti dall'art. 15, commi 3 e 4 della legge 11 ottobre 1986, n. 713.
+
+3.
+                    
+                        
+                            Fatto salvo quanto stabilito nei precedenti commi 1 e 2, 
+ 
+                        
+                        
+                            a)
+                            
+                                i fabbricanti e gli importatori di cosmetici non possono mettere in commercio prodotti non conformi alle disposizioni del presente decreto a partire dal 1 gennaio 1988; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                i cosmetici non conformi alle disposizioni del presente decreto non possono essere piu' venduti o ceduti al consumatore finale a partire dal 1 gennaio 1990.
 

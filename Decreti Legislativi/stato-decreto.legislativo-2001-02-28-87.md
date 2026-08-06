@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
 vigenza_date: 2005-01-01
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:28Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -75,6 +75,46 @@ Dopo il comma 2 e' aggiunto il seguente:
 
 ## Art. 4.
 
+1.
+                    
+                        
+                            All'articolo 9 sono apportate le seguenti modifiche: 
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 1, lettera a), primo periodo, le parole: "trenta per cento" sono sostituite dalle seguenti: "quaranta per cento"; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 1, la lettera b) e' sostituita dalla seguente: 
+ "b) nel limite del sessanta per cento dei posti disponibili al 31 dicembre di ciascun anno, mediante concorso interno per titoli e superamento di un successivo corso di formazione tecnico-professionale della durata non inferiore a tre mesi. Al concorso sono ammessi gli assistenti capo i quali, nei due anni precedenti, non abbiano riportato sanzioni disciplinari piu' gravi della sospensione dallo stipendio superiore a sei giorni ed un giudizio complessivo inferiore a buono con punti otto.". 
+
+                            
+                        
+                        
+                            c)
+                            
+                                al comma 1, lettera a), la parola: "censura" e' sostituita  dalle seguenti: "sospensione dallo stipendio superiore a sei giorni"; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                al comma 2, sono aggiunte, in fine, le parole "e viceversa"; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                al comma 4, sono aggiunte, in fine, le parole: "con decorrenza giuridica dal 1o gennaio dell'anno successivo a quello di riferimento e con decorrenza economica dal giorno successivo alla data di conclusione del corso medesimo. I vincitori del concorso di cui al comma 1, lettera b), precedono in ruolo i vicintori del concorso di cui alla lettera a) dello stesso comma.".
+
 ## Art. 5.
 
 All'articolo 10 sono apportate le modificazioni di cui ai seguenti commi.
@@ -93,9 +133,70 @@ All'articolo 11, comma 1, le parole: "per merito comparativo" sono sostituite da
 
 ## Art. 7.
 
+1.
+                    
+                        
+                            All'articolo 15, comma 1, sono apportate le seguenti modificazioni:
+ 
+                        
+                        
+                            a)
+                            
+                                alla lettera a), le parole: "otto mesi" sono sostituite dalle seguenti "quindici mesi" e dopo il punto e virgola sono aggiunti i seguenti periodi: "Al concorso sono ammessi a partecipare, con riserva di un sesto dei posti disponibili, gli appartenenti ai ruoli del Corpo forestale dello Stato con almeno tre anni di anzianita' di effettivo servizio alla data del bando che indice il concorso, in possesso dei prescritti requisiti ad eccezione del limite di eta'. Se i posti riservati non vengono coperti, la differenza va ad aumentare i posti spettanti all'altra categoria. A parita' di merito, l'appartenenza al Corpo forestale dello Stato costituisce titolo di preferenza, fermi restando gli altri titoli preferenziali previsti dall'ordinamento vigente.";
+
+                            
+                        
+                        
+                            b)
+                            
+                                alla lettera b), le parole: "di secondo grado" sono sostituite dalle seguenti: "superiore che consente l'iscrizione ai corsi per il conseguimento del diploma universitario".
+
 ## Art. 8.
 
+1.
+                    
+                        
+                            All'articolo 16, comma 1, sono apportate le seguenti modificazioni:
+ 
+                        
+                        
+                            a)
+                            
+                                alla lettera a), le parole "agli anni 40" sono sostituite dalle seguenti: "a quella stabilita dal regolamento adottato ai sensi dell'articolo 3, comma 6, della legge 15 maggio 1997, n. 127";
+
+                            
+                        
+                        
+                            b)
+                            
+                                alla lettera b), le parole: "di secondo grado" sono sostituite dalle seguenti: "superiore che consente l'iscrizione ai corsi per il conseguimento del diploma universitario".
+
 ## Art. 9.
+
+1.
+                    
+                        
+                            All'articolo 18 sono apportate le seguenti modificazioni:
+ 
+                        
+                        
+                            a)
+                            
+                                Al comma 1, primo periodo, in fine, sono aggiunte le seguenti parole: "di cui all'articolo 17";
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 3, lettera c) la parola: "sessanta" e' sostituita dalla seguente: "novanta" e la parola "novanta " e' sostituita dalla seguente: "centoventi".
+
+                            
+                        
+                        
+                            c)
+                            
+                                Al comma 4, la parola "censura" e' sostituita dalle seguenti: "sospensione dallo stipendio superiore a sei giorni".
 
 ## Art. 10.
 
@@ -204,6 +305,32 @@ All'articolo 38, comma 1, le parole: "degli aiuto operatori" sono soppresse.
 
 All'articolo 42, sono apportate le modificazioni di cui ai seguenti commi:
 
+2.
+                    
+                        
+                            Al comma 1:
+ 
+                        
+                        
+                            a)
+                            
+                                le parole "all'art. 28" sono sostituite dalle seguenti:
+"all'art. 32";
+
+                            
+                        
+                        
+                            b)
+                            
+                                le parole "di secondo grado" sono sostituite dalle parole "superiore che consente l'iscrizione ai corsi per il conseguimento del diploma universitario";
+
+                            
+                        
+                        
+                            c)
+                            
+                                le parole "nonche', ove sia previsto, dall'abilitazione all'esercizio dell'attivita' inerente al profilo professionale per il quale si concorre" sono soppresse;
+
 Al comma 2, le parole "e dell'abilitazione" sono soppresse.
 
 Al comma 4, le parole "di secondo grado" sono sostituite dalle parole "superiore che consente l'iscrizione ai corsi per il conseguimento del diploma universitario" e le parole "nonche' l'abilitazione all'esercizio di attivita' inerenti al profilo professionale che devono possedere i candidati" sono soppresse.
@@ -292,6 +419,57 @@ Il disposto di cui all'articolo 53, comma 1, ed all'articolo 57, comma 2, del de
 
 ## Art. 30.
 
+1.
+                    
+                        
+                            Agli assistenti capo ed ai sovrintendenti capo e qualifiche equiparate in servizio alla data di entrata in vigore del presente decreto, lo scatto aggiuntivo previsto, rispettivamente, dai commi 1-bis e 1-quater dell'articolo 49 del decreto legislativo 12 maggio 1995, n. 201, introdotti dall'articolo 28 del presente decreto, e' attribuito con le seguenti modalita':
+
+                        
+                        
+                            a)
+                            
+                                al personale che alla suddetta data abbia gia' maturato quattro anni di effettivo servizio nella qualifica, con decorrenza dalla data di entrata in vigore del presente decreto;
+                            
+                        
+                        
+                            b)
+                            
+                                al restante personale, con decorrenza dalla data in cui matura quattro anni di effettivo servizio nella qualifica.
+
+2.
+                    
+                        
+                            Ai vice sovrintendenti ed agli ispettori e qualifiche equiparate, in servizio alla data di entrata in vigore del presente decreto, l'emolumento pensionabile previsto, rispettivamente, dai commi 1-ter e 1-sexies dell'articolo 49 del decreto legislativo 12 maggio 1995, n. 201, introdotti dall'articolo 28 del presente decreto, e' attribuito con le seguenti modalita':
+
+                        
+                        
+                            a)
+                            
+                                al personale che alla suddetta data abbia maturatd tre anni e sei mesi di effettivo servizio nella qualifica, con decorrenza dalla data di entrata in vigore del presente decreto;
+                            
+                        
+                        
+                            b)
+                            
+                                al restante personale con decorrenza dalla data in cui matura tre anni e sei mesi di effettivo servizio nella qualifica.
+
+3.
+                    
+                        
+                            Ai vice ispettori e qualifiche equiparate in servizio alla data di entrata in vigore del presente decreto, l'emolumento pensionabile di cui al comma 1-quinquies dell'articolo 49 del decreto logislativo 12 maggio 1995, n. 201, introdotto dall'articolo 28 del presente decreto, e' attribuito con le seguenti modalita':
+
+                        
+                        
+                            a)
+                            
+                                al personale che alla suddetta data abbia gia' maturato un anno di effettivo servizio nella qualifica, con decorrenza dalla data di entrata in vigore del presente decreto;
+                            
+                        
+                        
+                            b)
+                            
+                                al restante personale, con decorrenza dalla data in cui matura un anno di effettivo servizio nella qualifica.
+
 Agli ispettori capo e qualifiche equiparate che, alla data di entrata in vigore del presente decreto, abbiano maturato dieci anni di anzianita' riconosciuta nella qualifica, il trattamento economico di cui al comma 1-septies dell'articolo 49 del decreto legislativo 12 maggio 1995, n. 201, come introdotto dall'articolo 28, comma 1, del presente decreto e' attribuito dalla medesima data.
 
 Al personale inquadrato al 1o settembre 1995 nella qualifica di ispettore superiore ed equiparata, in servizio alla data di entrata in vigore del presente decreto, sono attribuiti, a decorrere da quest'ultima data, gli scatti aggiuntivi di cui agli articoli 21-bis, 21-ter, 47-bis e 47-ter, del decreto legislativo 12 maggio 1995, n. 201, introdotti, rispettivamente, dagli articoli 11 e 26 del presente decreto. Il medesimo personale assume, con la stessa decorrenza, la denominazione anche di "scelto".
@@ -324,6 +502,27 @@ Tutte le disposizioni del decreto legislativo 12 maggio 1995, n. 201, recanti l'
 "In conseguenza dell'attuazione dell'articolo 4 del decreto legislativo 4 giugno 1997, n. 143 e dell'articolo 55, comma 8, del decreto legislativo 30 luglio 1999, n. 300, al personale trasferito alle regioni e' garantito il trattamento giuridico ed economico spettante a seguito dell'applicazione del presente decreto. Tale personale e' escluso dal novero dell'articolo 16 della legge 1o aprile 1981, n. 121".
 
 ## Art. 34.
+
+1.
+                    
+                        
+                            Nella prima applicazione del presente decreto, per i posti disponibili dal 31 dicembre 2001 al 31 dicembre 2004, le aliquote e modalita' di accesso alla qualifica iniziale del ruolo degli ispettori sono determinate, in deroga a quanto previsto dall'articolo 15 del decreto legislativo 12 maggio 1995, n. 201, e alla riserva del sesto di posti ivi indicata, come modificato dall'articolo 7 del presente decreto, come segue: 
+ 
+                        
+                        
+                            a)
+                            
+                                nel limite del trentacinque per cento dei posti disponibili, mediante pubblico concorso, secondo le modalita' stabilite dall'articolo 16 del decreto legislativo 12 maggio 1995, n. 201, come modificato dall'articolo 8 del presente decreto; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                nel limite del sessantacinque per cento dei posti disponibili, mediante concorso interno per titoli di servizio e superamento di una prova scritta e di un colloquio, riservato al personale del Corpo forestale dello Stato che nell'ultimo biennio non abbia riportato la sospensione dallo stipendio pari o superiore a sei giorni o sanzione disciplinare piu' grave ed abbia riportato un giudizio complessivo non inferiore a buono, sulla base delle seguenti aliquote: 
+ 1) trentacinque per cento riservato al personale vincitore dei concorsi per l'accesso al ruolo dei sovrintendenti indetti dopo l'entrata in vigore del decreto legislativo 12 maggio 1995, n. 201; 
+ 2) quindici per cento riservato agli altri appartenenti al ruolo dei sovrintendenti anche se privi del titolo di studio; 
+ 3) quindici per cento riservato al personale che espleta funzioni di polizia in possesso, alla data del bando che indice il concorso, di un'anzianita' di servizio non inferiore a sette anni e del titolo di studio prescritto.
 
 Per quanto non previsto dal comma 1 si applicano le disposizioni di cui agli articoli 17 e 18 del decreto legislativo 12 maggio 1995, n. 201.
 

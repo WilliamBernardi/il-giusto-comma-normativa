@@ -7,8 +7,8 @@ urn: urn:nir:ministero.giustizia:decreto:2016-08-16;178
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:38Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -31,6 +31,24 @@ Sentito il Garante per la protezione dei dati personali, ai sensi dell'art. 154,
 
 Il presente regolamento disciplina la tenuta e l'aggiornamento degli albi, degli elenchi e dei registri da parte dei consigli dell'ordine degli avvocati, nonche' le modalita' di iscrizione e di trasferimento, i casi di cancellazione e le impugnazioni dei provvedimenti adottati in materia dai consigli dell'ordine.
 
+2.
+                        
+                            
+                                Ai fini del presente regolamento, si intende: 
+ 
+                            
+                            
+                                a)
+                                
+                                    per «legge»: la legge 31 dicembre 2012, n. 247; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    per «sistema informatico centrale»: il sistema informatico realizzato, sviluppato e gestito dal Consiglio nazionale forense per la tenuta degli albi, degli elenchi e dei registri da parte dei consigli dell'ordine degli avvocati.
+
 Il sistema informatico centrale e' realizzato e gestito in modo da mettere a disposizione di ciascun consiglio dell'ordine territoriale le funzioni di ricezione, accettazione e gestione dei dati e dei documenti informatici relativi agli albi, ai registri e agli elenchi tenuti dal medesimo consiglio.
 
 Il sistema informatico centrale e' realizzato e gestito in modo da mettere a disposizione dei soggetti e dei consigli dell'ordine territoriali di cui all'art. 6, comma 1, le funzioni per l'inserimento dei dati e dei documenti informatici, con le modalita' stabilite dalle specifiche tecniche di cui all'art. 14. Le funzioni per l'inserimento di dati e documenti informatici negli elenchi di cui all'art. 15, comma 1, lettere e) e f), della legge sono messe a disposizione esclusivamente del consiglio dell'ordine territoriale dal quale l'elenco e' tenuto.
@@ -40,6 +58,122 @@ Il sistema informatico centrale e' realizzato e gestito in modo da mettere a dis
 Il sistema informatico centrale e' interconnesso con i sistemi informatici di cui i medesimi consigli dell'ordine possono avvalersi in conformita' al presente regolamento.
 
 ## Art. 2. — Albo degli avvocati
+
+1.
+                        
+                            
+                                Nell'albo degli avvocati sono indicati, per ciascun professionista iscritto: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il nome e il cognome, il luogo e la data di nascita; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il codice fiscale; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il domicilio professionale principale e quelli secondari nel circondario, o al di fuori di esso, comprensivi di indirizzo, recapito telefonico, numero di fax e indirizzo di posta elettronica certificata; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    la data di prima iscrizione, nonche' la data di iscrizione all'albo attuale; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    l'eventuale associazione tra avvocati o comprendente avvocati alla quale partecipa; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    l'eventuale societa' tra avvocati di cui e' socio; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    le informazioni eventualmente risultanti dagli albi, dai registri e dagli elenchi di cui all'art. 15, comma 1, della legge, fatta eccezione per quelli di cui alle lettere e) e f) del predetto comma, nonche' da ogni altro albo, registro o elenco previsto dalla legge o da regolamento; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    l'eventuale iscrizione all'elenco nazionale degli avvocati disponibili ad assumere le difese d'ufficio; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    l'eventuale iscrizione nell'albo speciale per il patrocinio davanti alle giurisdizioni superiori; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    l'eventuale svolgimento dell'attivita' di mediatore presso un organismo di mediazione di cui al decreto legislativo 4 marzo 2010, n. 28, ovvero presso altri organismi di mediazione amministrata; 
+
+                                
+                            
+                            
+                                m)
+                                
+                                    l'eventuale iscrizione in uno degli elenchi dei gestori della crisi tenuto da un organismo di composizione della crisi da sovraindebitamento di cui alla legge 27 gennaio 2012, n. 3; 
+
+                                
+                            
+                            
+                                n)
+                                
+                                    l'eventuale sospensione dall'esercizio professionale a norma dell'art. 20 della legge; 
+
+                                
+                            
+                            
+                                o)
+                                
+                                    le eventuali lingue straniere conosciute; 
+
+                                
+                            
+                            
+                                p)
+                                
+                                    l'eventuale indirizzo web dei siti riconducibili a se', all'associazione o alla societa' alla quale partecipi; 
+
+                                
+                            
+                            
+                                q)
+                                
+                                    l'eventuale iscrizione all'elenco di avvocati per il patrocinio a spese dello Stato, specificando il relativo settore; 
+
+                                
+                            
+                            
+                                r)
+                                
+                                    l'eventuale data di cancellazione.
 
 Per ciascun avvocato stabilito, sono indicati altresi' il titolo professionale di origine e i dati di cui all'art. 6, commi 2 e 4, del decreto legislativo 2 febbraio 2001, n. 96, e successive modificazioni, nonche' gli organi giurisdizionali dinanzi ai quali e' abilitato a patrocinare nel Paese di origine. E' inserito il dato relativo all'avvenuta integrazione nella professione di avvocato tenendo ferma l'indicazione del titolo professionale di origine, a norma del decreto legislativo di cui al periodo precedente.
 
@@ -51,11 +185,170 @@ Negli elenchi di cui all'art. 15, comma 1, della legge sono contenuti i dati rel
 
 Il sistema informatico centrale alimenta gli elenchi di cui all'art. 15, comma 1, della legge utilizzando i dati contenuti nell'albo.
 
+3.
+                        
+                            
+                                Oltre ai dati di cui al comma 2, negli elenchi sono contenuti i seguenti dati: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la denominazione dell'ente del quale e' dipendente, per gli elenchi di cui all'art. 15, comma 1, lettera b), della legge; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'area di specializzazione in cui e' stato conseguito il titolo, per gli elenchi di cui all'art. 15, comma 1, lettera c), della legge; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    la qualifica e la denominazione dell'Universita' o dell'Istituzione o Ente presso cui svolge la propria attivita', per l'elenco speciale dei docenti e ricercatori, universitari e di istituzioni ed enti di ricerca e sperimentazione pubblici, a tempo pieno, per l'elenco di cui all'art. 15, comma 1, lettera d), della legge; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    la data e la causa di sospensione ovvero la data di cancellazione per mancanza dell'esercizio effettivo, continuativo, abituale e prevalente della professione, per l'elenco di cui all'art. 15, comma 1, lettera e), della legge; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    la data di radiazione, per l'elenco di cui all'art. 15, comma 1, lettera f), della legge; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    il consiglio dell'ordine di iscrizione degli avvocati domiciliati nel circondario ai sensi del comma 3, dell'art. 7, della legge, per l'elenco di cui all'art. 15, comma 1, lettera m).
+
 Per le societa' tra avvocati, sono indicati: la partita I.V.A., la sede, l'elenco dei soci con i loro dati identificativi nonche', per ciascuno dei soci avvocati, il codice fiscale.
 
 Per le associazioni tra avvocati o comprendenti avvocati, sono indicati: l'eventuale partita I.V.A o codice fiscale, la denominazione, la sede, l'elenco degli associati; il nome e il cognome, il luogo e la data di nascita, il codice fiscale di ciascuno degli associati e il codice fiscale per ciascuno degli associati avvocati.
 
 ## Art. 4. — Registro ed elenco dei praticanti
+
+1.
+                        
+                            
+                                Nel registro dei praticanti sono indicati, per ciascun iscritto: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il nome e il cognome, la data e il luogo di nascita; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'eventuale data di conseguimento del diploma di laurea e l'Universita' che lo ha rilasciato; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il codice fiscale; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    la data di iscrizione; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    la modalita' di svolgimento del tirocinio, a norma dell'art. 41 della legge e del regolamento di cui al comma 13 del predetto articolo della legge; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    il recapito telefonico, l'indirizzo di posta elettronica ordinaria, l'eventuale indirizzo di posta elettronica certificata; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    l'eventuale abilitazione al patrocinio, con relativa data di decorrenza e conclusione; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    l'eventuale sospensione o interruzione del tirocinio; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    ogni altra indicazione richiesta dal decreto di cui all'art. 41, comma 13, e dall'art. 17, comma 4, della legge.
+
+2.
+                        
+                            
+                                Nel registro di cui al comma 1, per ciascun iscritto, sono altresi' indicati: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il nome, il cognome e il codice fiscale dell'avvocato presso cui il praticante svolge il tirocinio; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'ufficio dell'avvocatura dello Stato presso cui il praticante svolge il tirocinio; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    l'ufficio legale dell'ente pubblico presso cui il praticante svolge il tirocinio; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    l'ufficio giudiziario presso cui il praticante svolge il tirocinio; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    il professionista legale con titolo equivalente a quello di avvocato di altro Paese dell'Unione europea presso cui svolge il tirocinio; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    la data di inizio del tirocinio e la data di rilascio del certificato di compiuto tirocinio, secondo le modalita' indicate alle lettere a), b), c), d) ed e) del presente comma.
 
 ## Art. 5. — Tenuta e revisione degli albi, 
  dei registri e degli elenchi
@@ -96,6 +389,24 @@ Le disposizioni previste dal presente regolamento per l'iscrizione si applicano 
 La richiesta di cancellazione dall'albo, dai registri e dagli elenchi che proviene dall'iscritto e' inserita nel sistema informatico centrale. Si applicano le disposizioni dell'art. 6, in quanto compatibili. La richiesta deve contenere i dati di cui all'art. 2, comma 1, lettere a) e b).
 
 ## Art. 8. — Casi di cancellazione dagli elenchi
+
+1.
+                        
+                            
+                                Fermo quanto previsto dall'art. 17, comma 9, della legge, la cancellazione dagli elenchi e' pronunciata, d'ufficio o su richiesta del procuratore generale: 
+ 
+                            
+                            
+                                a)
+                                
+                                    in caso di cancellazione dell'avvocato dall'albo; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    quando risulta che i requisiti previsti dalla legge non sussistevano al momento dell'iscrizione.
 
 ## Art. 9.
 

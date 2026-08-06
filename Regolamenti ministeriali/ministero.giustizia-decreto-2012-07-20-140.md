@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
 vigenza_date: 2013-09-24
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:40Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -183,11 +183,202 @@ Il compenso, ai sensi dell'articolo 1 comma 3, comprende ogni attivita' accessor
 
 Tipologia di attivita'
 
+1.
+                        
+                            
+                                Per l'applicazione delle disposizioni del presente capo sono individuate le seguenti attivita' svolte dai dottori commercialisti ed esperti contabili: 
+ 
+                            
+                            
+                                a)
+                                
+                                    amministrazione e custodia; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    liquidazione di aziende; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    valutazioni, perizie e pareri; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    revisioni contabili; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    tenuta della contabilita'; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    formazione del bilancio; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    operazioni societarie; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    consulenza contrattuale ed economico-finanziaria; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    assistenza in procedure concorsuali; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    assistenza, rappresentanza e consulenza tributaria; 
+
+                                
+                            
+                            
+                                m)
+                                
+                                    sindaco di societa'.
+
 Quando la prestazione professionale ha per oggetto attivita' diverse da quelle elencate al comma 1, per il professionista iscritto negli albi dei dottori commercialisti e degli esperti contabili il compenso e' determinato in analogia alle disposizioni del presente capo.
 
 ## Art. 16. — Definizioni
 
+1.
+                        
+                            
+                                Ai fini del presente decreto e per l'applicazione delle disposizioni del presente capo, si intendono per: 
+ 
+                            
+                            
+                                a)
+                                
+                                    «professionista iscritto negli albi dei dottori commercialisti e degli esperti contabili»: il dottore commercialista, il ragioniere commercialista, l'esperto contabile iscritti all'albo; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    «valore della pratica»: entita' numerica espressa in euro che costituisce il parametro di base per la liquidazione delle singole attivita' professionali; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    «componenti positivi di reddito lordi», la sommatoria dei seguenti componenti reddituali risultanti dal conto economico: 
+ 1) il valore della produzione, con esclusione delle variazioni delle rimanenze di prodotti in corso di lavorazione, semilavorati e finiti; delle variazioni dei lavori in corso su ordinazione, e degli incrementi di immobilizzazioni per lavori interni; 
+ 2) il valore complessivo dei proventi finanziari; 
+ 3) tutte le rideterminazioni dei valori, quali rivalutazioni e ripristini, dell'attivo dello stato patrimoniale imputate al conto economico; 
+ 4) il valore complessivo dei proventi straordinari; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    «attivita'»: il valore complessivo dell'attivo dello stato patrimoniale di cui all'articolo 2424 del codice civile; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    «passivita'»: la somma dei valori delle voci B, C, D ed E della sezione "Passivo" dello schema di cui all'articolo 2424 del codice civile; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    «assistenza tributaria»: la predisposizione su richiesta e nell'interesse del cliente di atti e documenti aventi rilevanza tributaria sulla base dei dati e delle analitiche informazioni trasmesse dal cliente, che non richiedono particolare elaborazione; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    «rappresentanza tributaria»: l'intervento personale, quale mandatario del cliente, presso gli uffici tributari, presso le commissioni tributarie, e in qualunque altra sede anche in relazione a verifiche fiscali; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    «consulenza tributaria»: la consulenza, in qualsiasi materia tributaria, di carattere generale o specifico, prestata, in particolare, per l'analisi della legislazione, dell'interpretazione e applicazione, anche giurisprudenziale e dell'amministrazione finanziaria, di disposizioni, in sede di assistenza tributaria e in sede di scelta dei comportamenti e delle difese in relazione all'imposizione fiscale, anche in ambito contenzioso.
+
 ## Art. 17. — Parametri generali
+
+1.
+                        
+                            
+                                Il compenso del professionista e' determinato con riferimento ai seguenti parametri generali: 
+ 
+                            
+                            
+                                a)
+                                
+                                    valore e natura della pratica; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    importanza, difficolta', complessita' della pratica; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    condizioni d'urgenza per l'espletamento dell'incarico; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    risultati e vantaggi, anche non economici, ottenuti dal cliente; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    impegno profuso anche in termini di tempo impiegato; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    pregio dell'opera prestata.
 
 Il valore della pratica e' determinato, in relazione alle singole attivita' svolte dal professionista, secondo i criteri specificati nelle disposizioni della sezione seconda del presente capo.
 
@@ -289,6 +480,38 @@ La autentica di firma, quando costituisce la sola prestazione richiesta, e' comp
 
 ## Art. 31. — Criteri
 
+1.
+                        
+                            
+                                Per valore di riferimento si intende: 
+ 
+                            
+                            
+                                a)
+                                
+                                    per gli atti relativi a beni immobili e a beni mobili: il valore del bene indicato nell'atto ovvero desumibile dallo stesso, o, in mancanza, quello di mercato; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    per le prestazioni di garanzia reale o personale: l'entita' del credito garantito; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    per i contratti di affitto e di locazione: l'importo del canone pattuito per la durata del contratto fino alla prima scadenza; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    per gli atti societari: il valore dell'oggetto dell'atto come indicato dalle parti o desumibile dall'atto o, in mancanza, quello di mercato; in ogni altro caso l'atto si considera di valore indeterminato.
+
 ## Art. 32. — Parametro
 
 Ai fini della liquidazione, l'organo giurisdizionale tiene conto, orientativamente, per ciascuna categoria di atti, della percentuale riferita al valore medio dell'atto come indicata nelle allegate tabelle A-Notai, B-Notai, C-Notai. Il compenso e' liquidato, di regola, in una percentuale del valore reale dell'atto compresa nella forbice indicata in tabella, con aumento ovvero diminuzione, rispetto a quella riferita al valore medio, in misura inversamente proporzionale all'aumento o alla diminuzione del valore stesso.
@@ -315,6 +538,38 @@ Il presente capo si applica alle professioni di agrotecnico e agrotecnico laurea
 
 ## Art. 34. — Parametri generali per la liquidazione del compenso
 
+1.
+                        
+                            
+                                Il compenso per la prestazione dei professionisti di cui all'articolo 33 e' stabilito tenendo conto dei seguenti parametri: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il costo economico delle singole categorie componenti l'opera, definito parametro «V»; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il parametro base che si applica al costo economico delle singole categorie componenti l'opera, definito parametro «P»; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    la complessita' della prestazione, definita parametro «G»; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    la specificita' della prestazione, definita parametro «Q».
+
 ## Art. 35. — Costo economico dell'opera
 
 Il costo economico dell'opera, parametro «V», e' individuato tenendo conto del suo valore determinato, di regola, con riferimento al mercato, tenendo anche conto dell'eventuale preventivo, del consuntivo lordo nel caso di opere o lavori gia' eseguiti, ovvero, in mancanza, dei criteri individuati dalla tavola Z-1 allegata.
@@ -332,6 +587,105 @@ La complessita' della prestazione, parametro «G», e' compresa, di regola, tra 
 In considerazione, altresi', della natura dell'opera, pregio della prestazione, dei risultati e dei vantaggi, anche non economici, conseguiti dal cliente, dell'eventuale urgenza della prestazione, l'organo giurisdizionale puo' aumentare o diminuire il compenso di regola fino al 60 per cento rispetto a quello altrimenti liquidabile.
 
 ## Art. 37. — Specificazione delle prestazioni
+
+1.
+                        
+                            
+                                Le prestazioni si articolano nelle seguenti fasi : 
+ 
+                            
+                            
+                                a)
+                                
+                                    definizione delle premesse, consulenza e studio di fattibilita'; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    progettazione; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    direzione esecutiva; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    verifiche e collaudi.
+
+2.
+                        
+                            
+                                Le prestazioni attengono alle seguenti categorie di opere, specificate nella tavola Z-1 allegata: 
+ 
+                            
+                            
+                                a)
+                                
+                                    edilizia; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    strutture; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    impianti; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    viabilita'; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    idraulica; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    tecnologie dell'informazione e della comunicazione (ICT); 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    paesaggio, ambiente, naturalizzazione; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    agricoltura e foreste, sicurezza alimentare; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    territorio e urbanistica.
 
 Ad ogni singola prestazione effettuata, corrisponde un valore specifico del parametro «Q», distinto in base alle singole categorie componenti l'opera come indicato nella tavola Z-2 allegata.
 
@@ -364,6 +718,45 @@ Ai fini della liquidazione del compenso, l'organo giurisdizionale tiene conto, o
 
 Per valore medio di riferimento dell'intervento si intende la quantificazione in termini monetari di una prestazione professionale, complessivamente considerata, che non implica la soluzione di problemi tecnici di speciale difficolta' o tenuita'.
 
+3.
+                        
+                            
+                                Il compenso di cui al comma 1 puo' essere aumentato o ridotto, anche derogando alle forbici indicate nella tabella allegata, in considerazione: 
+ 
+                            
+                            
+                                a)
+                                
+                                    dell'importanza delle questioni trattate, tenuto conto degli interessi sostanziali sui quali incide la prestazione professionale; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    della rilevanza patrimoniale dei progetti o dei programmi indicati nella tabella A; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    della complessita' della prestazione tenuto conto dell'impegno profuso anche in termini di tempo dedicato, della presenza di questioni tecniche di particolare difficolta' o tenuita', della necessita' di operare in situazioni ambientali disagiate; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    dell'urgenza della prestazione; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    della natura di ente pubblico o privato, per categorie omogenee di soggetti, del cliente.
+
 Quando l'attivita' professionale svolta non puo' essere ricondotta a una delle voci di cui alla tabella B - Assistenti Sociali neppure in via analogica, il compenso, in via eccezionale, e' liquidato a vacazione. La vacazione e' di un'ora o frazione di ora.
 Non possono essere liquidate piu' di otto vacazioni per una giornata.
 Il compenso per la prima vacazione e' di euro 90,00; per le successive e' di euro 80,00. Si applica il comma 3.
@@ -379,6 +772,31 @@ Per quanto non espressamente previsto dal presente capo, si applica l'articolo 4
 ((
 
 Ai fini della liquidazione di cui all'articolo 1, l'attivita' degli attuari iscritti alla sezione A dell'Albo Nazionale degli Attuari si distingue in: attivita' riservate per legge; altre attivita'.
+
+2.
+                        
+                            
+                                Le attivita' riservate per legge si distinguono in: 
+ 
+                            
+                            
+                                a)
+                                
+                                    autorizzazione a esercitare l'attivita' assicurativa; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    attivita' su incarico delle imprese che esercitano attivita' assicurativa nei rami vita e responsabilita' civile di auto e natanti; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    attivita' per le societa' di revisione.
 
 Ai fini della liquidazione delle attivita' di cui al comma 2, l'organo giurisdizionale tiene conto orientativamente, per ciascuna categoria di atti, del valore medio di riferimento come indicato, per ogni scaglione, nella tabella A - Attuari, aumentato o ridotto fino al 20 per cento in considerazione della difficolta' e complessita' della prestazione, dell'impegno richiesto al professionista e del grado di responsabilita' che il professionista assume anche nei confronti delle autorita' di controllo e di sorveglianza previste dalla legge.
 

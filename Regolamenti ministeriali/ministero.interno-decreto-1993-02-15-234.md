@@ -8,8 +8,8 @@ codice_redazionale: 093G0296
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:38Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -26,6 +26,38 @@ Udito il parere del Consiglio di Stato, espresso nell'adunanza generale del 28 g
 ## Art. 1. — Bando di concorso
 
 Il concorso interno di cui all'art. 16, comma 1, del decreto del Presidente della Repubblica 24 aprile 1982, n. 337, e' indetto con decreto del Ministro dell'interno, da pubblicare sul Bollettino ufficiale del personale.
+
+2.
+                    
+                        
+                            Il bando del concorso di cui al comma 1 del presente articolo deve indicare:
+ 
+                        
+                        
+                            a)
+                            
+                                il numero dei posti messi a concorso;
+
+                            
+                        
+                        
+                            b)
+                            
+                                i requisiti richiesti per la partecipazione allo stesso;
+
+                            
+                        
+                        
+                            c)
+                            
+                                i programmi e il diario delle prove d'esame;
+
+                            
+                        
+                        
+                            d)
+                            
+                                ogni altra precisazione e notizia utile.
 
 I requisiti di cui al punto b) del precedente comma devono essere posseduti alla data di pubblicazione del bando che indice il concorso.
  AVVERTENZA:
@@ -44,6 +76,24 @@ La commissione esaminatrice del concorso di cui al presente regolamento e' compo
 Gli esami del concorso di cui al presente regolamento consistono in una prova scritta ed in un colloquio.
 
 La prova scritta ha carattere teorico-pratico ed e' attinente alle materie professionali.
+
+3.
+                    
+                        
+                            Il colloquio, oltre che sull'oggetto della prova scritta, verte sulle seguenti materie:
+ 
+                        
+                        
+                            a)
+                            
+                                nozioni teoriche necessarie per lo svolgimento delle mansioni professionali previste nel bando di concorso;
+
+                            
+                        
+                        
+                            b)
+                            
+                                ordinamento e regolamenti del personale della Polizia di Stato.
 
 Le votazioni della prova scritta e del colloquio sono espresse in decimi.
 

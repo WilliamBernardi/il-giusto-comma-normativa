@@ -8,8 +8,8 @@ codice_redazionale: 098G0464
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:39Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -26,6 +26,45 @@ Considerata la necessita' ai fini della istituzione dei comitati e delle commiss
 Udito il parere del Consiglio di Stato espresso nell'adunanza generale del 5 giugno 1997, nonche' nell'adunanza della sezione consultiva per gli atti normativi del 13 luglio 1998;
 
 ## Art. 1.
+
+1.
+                    
+                        
+                            Le elezioni dei rappresentanti dei lavoratori delle imprese di cui agli articoli 16 e 18 della legge n. 84 del 1994 e dei dipendenti delle autorita' portuali in seno alle commissioni consultive locali si svolgono in tutti i porti nazionali sotto la vigilanza del capo circondario marittimo, che provvede, anche attraverso un suo delegato, agli adempimenti appresso specificati:
+ 
+                        
+                        
+                            a)
+                            
+                                fissa un mese prima della scadenza dell'organo e, con cadenza quadriennale, la data delle elezioni, dandone, almeno quarantacinque giorni prima, avviso con ogni mezzo, al fine di assicurare la massima diffusione, indicandone il giorno ed il luogo della riunione. Il giorno dovra' essere non festivo, e la durata della votazione di otto ore;
+
+                            
+                        
+                        
+                            b)
+                            
+                                espone nella sede dell'ufficio marittimo, dieci giorni prima della data dell'elezione, l'elenco dei lavoratori delle imprese, che si candidano. L'elenco deve essere compilato con l'indicazione del cognome e nome del candidato, della data di nascita, dell'impresa od autorita' portuale di appartenenza. I candidati vengono indicati in ordine alfabetico e contrassegnati con numero progressivo. Le candidature devono essere presentate, presso i rispettivi uffici, trenta giorni prima della data delle elezioni;
+
+                            
+                        
+                        
+                            c)
+                            
+                                predispone tutto il materiale necessario per lo svolgimento delle elezioni;
+
+                            
+                        
+                        
+                            d)
+                            
+                                individua il locale ove devono svolgersi le elezioni, nonche' le disposizioni necessarie per un regolare svolgimento delle stesse;
+
+                            
+                        
+                        
+                            e)
+                            
+                                costituisce il seggio elettorale, che risulta composto nei porti con un numero di elettori superiori a 400 unita' da 4 lavoratori, e nei porti con un numero di elettori fino a 400 unita' da 2 lavoratori, designati in entrambi i casi dagli stessi lavoratori delle imprese e dai dipendenti della autorita' portuale entro trenta giorni prima della data delle elezioni. Al seggio elettorale, presieduto dal capo del circondario marittimo o da un suo delegato, partecipano come osservatori i rappresentanti delle organizzazioni sindacali dei lavoratori e dei dipendenti sopraindicati.
 
 ## Art. 2.
 

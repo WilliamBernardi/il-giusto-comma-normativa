@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Leggi delega e relativi provvedimenti delegati
 vigenza_date: 2016-02-02
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:41:17Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -54,6 +54,97 @@ L'ENEA ha personalita' giuridica di diritto pubblico, gode di autonomia scientif
 
 ## Art. 3. — Attivita' dell'ENEA
 
+1.
+                    
+                        
+                            Per il perseguimento delle finalita' di cui all'articolo 2, comma 1, l'ENEA svolge, in particolare, le seguenti attivita': 
+ 
+                        
+                        
+                            a)
+                            
+                                promuovere e svolgere attivita' di ricerca di base ed applicata, ivi inclusa la realizzazione di prototipi e l'industrializzazione di prodotti, nei seguenti settori: 
+ 1) settore dell'energia; 
+ 2) settore dell'ambiente, in relazione sia alle interazioni con i sistemi industriali sia per il miglioramento delle condizioni di compatibilita' ambientale e di sicurezza degli stessi; 
+ 3) settore delle tecnologie e delle applicazioni nucleari, delle tecnologie delle radiazioni elettromagnetiche non ionizzanti e delle radiazioni ionizzanti, delle altre tecnologie innovative sviluppate dall'ente nei settori dell'energia e dell'ambiente: in particolare l'ente e' responsabile del presidio scientifico e tecnologico in tema di energia nucleare; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                curare la conduzione di grandi progetti complessi di ricerca, sviluppo e dimostrazione, con prevalente contenuto ingegneristico e tecnologico; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                valutare il grado di sviluppo di tecnologie avanzate, inclusi gli impatti economici e sociali, nelle aree tematiche di cui alla lettera a), con particolare riferimento a richieste formulate dalle pubbliche amministrazioni interessate; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                fornire a soggetti pubblici e privati servizi ad alto contenuto tecnologico, studi, ricerche, misure, prove e valutazioni nei settori di competenza; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                promuovere, nei settori di competenza, la collaborazione con enti ed istituzioni di altri Paesi nel campo scientifico-tecnologico, ivi inclusa la definizione della normativa tecnica, la partecipazione ai grandi programmi di ricerca e agli organismi internazionali, fornendo su richiesta competenze specifiche; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                svolgere attivita' di comunicazione e promozione della ricerca curando la diffusione dei relativi risultati, nonche' favorire la valorizzazione a fini produttivi e sociali ed il trasferimento tecnologico dei risultati stessi a sostegno dello sviluppo nazionale; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                promuovere, favorire e sostenere processi di innovazione tecnologica del sistema produttivo nazionale nei settori di competenza, in particolare delle piccole e medie imprese, anche stimolando la domanda di ricerca e di tecnologia in conformita' ai principi dello sviluppo durevole; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                collaborare con le regioni e con le amministrazioni locali, al fine di promuovere attraverso iniziative congiunte, lo sviluppo delle specifiche realta' produttive del territorio; 
+
+                            
+                        
+                        
+                            i)
+                            
+                                effettuare la valutazione dei risultati dei programmi di ricerca, del funzionamento delle proprie strutture e dell'attivita' del personale, sulla base di criteri di valutazione definiti dal comitato di indirizzo per la valutazione della ricerca (C.I.V.R.) di cui al decreto legislativo 5 giugno 1998, n. 204; 
+
+                            
+                        
+                        
+                            l)
+                            
+                                promuovere la formazione, in particolare post-universitaria, e la crescita tecnico professionale dei ricercatori nelle materie di competenza, anche attraverso la collaborazione con le universita' nazionali ed internazionali sulla base di apposite convenzioni; 
+
+                            
+                        
+                        
+                            m)
+                            
+                                curare la realizzazione e gestione di grandi attrezzature scientifiche e tecnologiche; 
+
+                            
+                        
+                        
+                            n)
+                            
+                                svolgere ogni altra attivita' funzionale al perseguimento delle finalita' istituzionali.
+
 Le predette attivita' devono essere svolte nell'ambito del piano triennale delle attivita' di cui all'articolo 16, nel quadro del Programma nazionale della ricerca di cui al decreto legislativo 5 giugno 1998, n. 204, sulla base degli indirizzi definiti dal Ministro delle attivita' produttive, d'intesa con il Ministro dell'istruzione, dell'universita' e della ricerca e con il Ministro dell'ambiente e della tutela del territorio, ed in conformita' agli impegni derivanti dalla partecipazione italiana all'Unione europea ed alle altre organizzazioni internazionali.
 
 L'ENEA potra', ai fini della valorizzazione ed utilizzazione dei risultati delle proprie attivita' di ricerca, nonche' per il migliore sfruttamento dei brevetti dei propri beni e servizi, conferire i relativi diritti alla societa' di cui all'articolo 18. 
@@ -69,6 +160,32 @@ L'ENEA potra', ai fini della valorizzazione ed utilizzazione dei risultati delle
  La L. 23 luglio 2009, n. 99, come modificata dalla L. 28 dicembre 2015, n. 221, ha disposto (con l'art. 37, comma 12) che "A decorrere dalla scadenza del termine di approvazione degli atti previsti al comma 7, e' abrogato il decreto legislativo 3 settembre 2003, n. 257".
 
 ## Art. 4. — O r g a n i
+
+1.
+                    
+                        
+                            Sono organi dell'ENEA: 
+ 
+                        
+                        
+                            a)
+                            
+                                il presidente; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                il consiglio di amministrazione; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                il collegio dei revisori. 
+ (1)((2))
 
 -------------
                         AGGIORNAMENTO (1)
@@ -109,6 +226,66 @@ Il consiglio di amministrazione e' composto dal presidente e da sette membri, in
 
 Il consiglio di amministrazione dura in carica quattro anni e i suoi componenti possono essere confermati una sola volta.
 
+3.
+                    
+                        
+                            Il consiglio di amministrazione ha poteri di programmazione, indirizzo e controllo strategico. In particolare, il consiglio di amministrazione: 
+ 
+                        
+                        
+                            a)
+                            
+                                individua gli obiettivi e le priorita' delle attivita' dell'ente; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                verifica l'attuazione dei programmi; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                nomina il direttore generale, su proposta del presidente; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                elabora ed approva il regolamento di organizzazione e funzionamento e quello del personale dell'ente; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                approva il piano triennale, il piano annuale di attivita' ed i loro aggiornamenti; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                approva il bilancio preventivo, il bilancio consuntivo e le relazioni di accompagnamento; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                delibera in materia di costituzione di societa', partecipazioni dell'ENEA a societa', associazioni e consorzi, designazione dei rappresentanti nei relativi organi, conclusione di accordi di rilevante importanza; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                nomina i dirigenti e i responsabili delle unita' organizzative di cui agli articoli 13 e 14 e provvede all'attribuzione delle relative funzioni.
+
 Il consiglio di amministrazione delibera, inoltre, sulle materie che il regolamento di organizzazione e funzionamento affida alla sua competenza.
 
 Il consiglio di amministrazione nomina il vice presidente e i membri del comitato di valutazione. 
@@ -129,6 +306,39 @@ Presso l'ENEA e' istituito il consiglio scientifico, che e' composto da undici m
 
 I componenti del consiglio scientifico durano in carica quattro anni e possono essere confermati una sola volta.
 
+3.
+                    
+                        
+                            Il consiglio scientifico ha compiti propositivi e consultivi relativi all'attivita' complessiva di ricerca dell'Ente. In particolare, il consiglio: 
+ 
+                        
+                        
+                            a)
+                            
+                                individua le possibili linee evolutive della ricerca e propone le iniziative dell'ente finalizzate alle politiche di sostegno allo sviluppo durevole e sostenibile nei settori di competenza, elaborando proposte da sottoporre al presidente ed al consiglio di amministrazione; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                compie analisi e confronti sullo stato della ricerca nei settori di competenza a livello internazionale; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                esprime al consiglio di amministrazione pareri tecnico-scientifici, obbligatori e non vincolanti, sulle proposte di piano triennale e di piano annuale e sullo stato della ricerca svolta dall'ente; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                realizza, su specifica richiesta del consiglio di amministrazione, studi e redige pareri. 
+ (1)((2))
+
 -------------
                         AGGIORNAMENTO (1)
                         
@@ -139,6 +349,38 @@ I componenti del consiglio scientifico durano in carica quattro anni e possono e
  La L. 23 luglio 2009, n. 99, come modificata dalla L. 28 dicembre 2015, n. 221, ha disposto (con l'art. 37, comma 12) che "A decorrere dalla scadenza del termine di approvazione degli atti previsti al comma 7, e' abrogato il decreto legislativo 3 settembre 2003, n. 257".
 
 ## Art. 8. — Comitato di indirizzo e coordinamento dei progetti di industrializzazione
+
+1.
+                    
+                        
+                            Presso l'ENEA e' istituito il comitato di indirizzo e coordinamento dei progetti di industrializzazione, che ha compiti propositi e consultivi relativi all'attivita' complessiva di ricerca dell'ente con particolare riferimento alle strategie industriali. In particolare, il comitato: 
+ 
+                        
+                        
+                            a)
+                            
+                                individua le possibili linee evolutive della ricerca nei settori produttivi di competenza, elaborando proposte da sottoporre al presidente ed al consiglio di amministrazione; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                compie analisi e confronti sullo stato della ricerca nei settori produttivi di competenza a livello nazionale; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                esprime al consiglio di amministrazione, pareri tecnico-scientifici, obbligatori e non vincolanti, sulle proposte di piano pluriennale e di piano annuale e sullo stato della ricerca a fini produttivi svolta dall'ente; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                realizza, su specifica richiesta del consiglio di amministrazione, studi e redige pareri.
 
 Esso e' composto da sette membri, nominati con decreto del Ministro delle attivita' produttive, di cui tre sono designati dalle associazioni nazionali di categoria maggiormente rappresentative, uno dal Ministro dell'istruzione, dell'universita' e della ricerca, uno dal Ministro dell'ambiente e della tutela del territorio, uno dal Ministro delle attivita' produttive, con funzioni di presidente, e uno dal Presidente della Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome di Trento e di Bolzano.
 
@@ -216,6 +458,53 @@ Il direttore generale, il cui rapporto di lavoro e' regolato con contratto di di
 
 Il direttore generale puo' essere confermato.
 
+3.
+                    
+                        
+                            Il direttore generale e' responsabile della gestione dell'ENEA e partecipa alle riunioni del consiglio di amministrazione senza diritto di voto. In particolare, il direttore generale: 
+ 
+                        
+                        
+                            a)
+                            
+                                esercita i poteri di direzione e gestione, conformemente agli atti approvati dal consiglio di amministrazione ed agli indirizzi espressi dal presidente; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                predispone la proposta di piano triennale e di piano annuale dell'ENEA, sulla base delle proposte dei direttori dei dipartimenti ed in conformita' agli obiettivi, priorita' e programmi definiti dal consiglio di' amministrazione; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                attua le delibere del consiglio di amministrazione; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                predispone i bilanci consuntivi e preventivi da sottoporre al consiglio di amministrazione; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                esercita le ulteriori competenze assegnategli dal regolamento di organizzazione e funzionamento, nonche' quelle necessarie per la gestione dell'ente; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                ha potere generale di proposta al consiglio di amministrazione. 
+ (1)((2))
+
 -------------
                         AGGIORNAMENTO (1)
                         
@@ -229,6 +518,81 @@ Il direttore generale puo' essere confermato.
 
 I dipartimenti sono le strutture organizzative di primo livello, responsabili dell'esercizio organico ed integrato delle funzioni dell'ENEA. Ai dipartimenti sono attribuiti compiti finali e strumentali, con riferimento a grandi aree di materie omogenee, individuate in relazione alle finalita' dell'ente ed ai settori di intervento, garantendo l'integrazione delle competenze e la multidisciplinarieta' dei compiti. Ai dipartimenti sono altresi' attribuiti compiti di indirizzo e coordinamento delle unita' di secondo livello e compiti di organizzazione, allocazione e gestione delle risorse strumentali, finanziarie ed umane ad essi attribuite, nel rispetto del piano triennale e del piano annuale, per il perseguimento degli obiettivi ivi stabiliti.
 
+2.
+                    
+                        
+                            Con riferimento alle specifiche aree di competenza, ciascun dipartimento, secondo quanto stabilito dal regolamento di organizzazione e funzionamento, in particolare: 
+ 
+                        
+                        
+                            a)
+                            
+                                elabora le proposte di piano triennale ed annuale per le attivita' di competenza; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                gestisce gli investimenti in grandi infrastrutture, su mandato del consiglio di amministrazione; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                coordina e controlla l'attivita' delle strutture di secondo livello; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                alloca le risorse presso le strutture di secondo livello in relazione al piano triennale ed al piano annuale dell'ente; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                propone al consiglio di amministrazione le politiche di gestione e sviluppo tecnico-professionale dei ricercatori; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                coordina le relazioni esterne, nazionali ed internazionali, sulle tematiche di competenza; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                valorizza la ricerca sul territorio, anche predisponendo e proponendo accordi di programma e attivita' di agenzia, interagendo con tutti i soggetti pubblici e privati; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                fornisce al consiglio di amministrazione relazioni e proposte sulla costituzione di nuove societa', sull'acquisizione di partecipazioni e sull'avvio di attivita' di societa', consorzi e distretti industriali sulle tematiche di competenza; 
+
+                            
+                        
+                        
+                            i)
+                            
+                                coordina, su specifico incarico del consiglio di amministrazione, ove necessario, progetti e programmi comuni a piu' dipartimenti; 
+
+                            
+                        
+                        
+                            l)
+                            
+                                promuove la valorizzazione dei risultati della ricerca nei settori di competenza. 
+ (1)((2))
+
 -------------
                         AGGIORNAMENTO (1)
                         
@@ -241,6 +605,81 @@ I dipartimenti sono le strutture organizzative di primo livello, responsabili de
 ## Art. 14. — Direzioni centrali
 
 Le direzioni centrali sono unita' organizzative espletanti attivita' di interesse generale, comuni a piu' organi o dipartimenti.
+
+2.
+                    
+                        
+                            Le direzioni centrali, secondo quanto stabilito dal regolamento di organizzazione e funzionamento, in particolare: 
+ 
+                        
+                        
+                            a)
+                            
+                                assicurano l'elaborazione dei bilanci; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                curano l'amministrazione del personale; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                gestiscono i processi di pianificazione e controllo di gestione; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                gestiscono il sistema informativo gestionale e la rete di comunicazione dell'ente; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                gestiscono la comunicazione esterna; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                curano i servizi generali e gli acquisti di funzionamento dell'ente, non inerenti le attivita' correnti della rete scientifica; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                gestiscono gli affari societari; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                forniscono assistenza e supporto legale; 
+
+                            
+                        
+                        
+                            i)
+                            
+                                supportano la rete scientifica nella vendita di beni e servizi a terzi; 
+
+                            
+                        
+                        
+                            l)
+                            
+                                gestiscono il patrimonio immobiliare. 
+ (1)((2))
 
 -------------
                         AGGIORNAMENTO (1)
@@ -293,6 +732,52 @@ Le proposte di piano triennale e di piano annuale dell'ente sono deliberate dal 
 
 ## Art. 17. — Strumenti
 
+1.
+                    
+                        
+                            Per lo svolgimento delle funzioni e delle attivita' di cui agli articoli 2 e 3 l'ENEA puo' anche: 
+ 
+                        
+                        
+                            a)
+                            
+                                stipulare convenzioni, accordi, accordi di programma e contratti con soggetti pubblici o privati interessati; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                costituire o partecipare a consorzi, fondazioni o societa' con soggetti pubblici e privati, italiani e stranieri; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                partecipare alla costituzione ed alla conduzione anche scientifica di centri di ricerca internazionali, anche in collaborazione con analoghe istituzioni scientifiche di altri Paesi; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                commissionare attivita' di ricerca e studio a soggetti pubblici e privati, nazionali e internazionali, anche mettendo a disposizione le proprie strutture operative; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                coordinare attivita' di soggetti terzi nei propri settori di competenza; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                avvalersi di ogni altro strumento necessario al conseguimento delle finalita' istituzionali dell'ente.
+
 L'ENEA riferisce sui programmi, sugli obiettivi, sulle attivita' e sui risultati dei soggetti di cui al comma 1 in apposita sezione del piano triennale e del piano annuale dell'ente.
 
 Il regolamento di cui all'articolo 20 disciplina il ricorso agli strumenti di cui al comma 1 e stabilisce le modalita' di funzionamento, di organizzazione e di controllo degli stessi. 
@@ -327,6 +812,66 @@ La societa' di cui al comma 1 puo' assumere partecipazioni, anche di maggioranza
 
 ## Art. 19. — Entrate
 
+1.
+                    
+                        
+                            Le entrate dell'ENEA sono costituite: 
+ 
+                        
+                        
+                            a)
+                            
+                                dal contributo finanziario ordinario dello Stato; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                dalle assegnazioni e dai contributi da parte di pubbliche amministrazioni centrali e locali per l'esecuzione di specifiche iniziative di ricerca; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                dai contributi dell'Unione europea o di altri organismi internazionali per la partecipazione a programmi e progetti; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                dai mezzi finanziari derivanti dal proprio patrimonio; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                dai contratti stipulati con terzi pubblici e privati per la fornitura di beni e servizi; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                dai ricavi ottenuti con la cessione di brevetti o cessione di know-how; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                dagli utili o dividendi derivanti dalla partecipazioni a societa' di capitali o ad altre forme associative; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                da ogni altra eventuale entrata connessa alla sua attivita'.  (1)((2))
+
 -------------
                         AGGIORNAMENTO (1)
                         
@@ -339,6 +884,80 @@ La societa' di cui al comma 1 puo' assumere partecipazioni, anche di maggioranza
 ## Art. 20. — Regolamenti
 
 Entro centottanta giorni dalla data di entrata in vigore del presente decreto legislativo il consiglio di amministrazione dell'ENEA, e' tenuto a predisporre il regolamento di organizzazione e funzionamento dell'ente da sottoporre all'approvazione del Ministro delle attivita' produttive, previo parere per i profili di rispettiva competenza del Ministro per la funzione pubblica e del Ministro dell'economia e delle finanze.
+
+2.
+                    
+                        
+                            Il regolamento di organizzazione e funzionamento dell'ENEA, in particolare: 
+ 
+                        
+                        
+                            a)
+                            
+                                detta le regole di funzionamento degli organi dell'ente individuando i loro compiti specifici; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                definisce la struttura organizzativa dell'ente individuando l'istituzione, l'organizzazione ed il funzionamento delle singole unita' previste dagli articoli 13 e 14, nonche' delle unita' di secondo livello nelle quali esse si articolano, ivi compreso l'ufficio per le relazioni con il pubblico, nonche' l'istituzione di un sistema di controlli coerente con i principi fissati dal decreto legislativo 30 luglio 1999, n. 286; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                definisce le procedure per la nomina dei responsabili delle unita' organizzative previste dagli articoli 13 e 14; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                definisce le modalita' per la gestione e l'amministrazione del personale, prevede le procedure di assunzione ai diversi livelli e profili del personale, individua gli strumenti contrattuali che possono essere utilizzati per l'acquisizione del personale; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                definisce le modalita' per la gestione patrimoniale, economica, finanziaria e contabile interna, anche in deroga alle disposizioni sulla contabilita' generale dello Stato; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                definisce le procedure per la pianificazione ed il controllo di gestione, nonche' per la redazione dei bilanci; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                definisce procedure e strumenti che assicurino la trasparenza nell'assegnazione e nell'utilizzo delle risorse finanziarie per i diversi obiettivi di ricerca e per la realizzazione delle funzioni istituzionali; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                definisce la disciplina per l'approvvigionamento di beni e servizi in conformita' con la normativa nazionale e comunitaria vigente; 
+
+                            
+                        
+                        
+                            i)
+                            
+                                definisce le regole per il ricorso agli strumenti di cui agli articoli 17 e 18 e stabilisce le modalita' di controllo degli stessi; 
+
+                            
+                        
+                        
+                            l)
+                            
+                                definisce le modalita' per le assunzioni e nomine dei dirigenti e di altre funzioni dirigenziali e per le nomine del responsabili delle unita' organizzative di primo livello.
 
 Il regolamento di organizzazione e funzionamento puo' prevedere le modalita' di adozione di ulteriori regolamenti interni o di altri atti di organizzazione e gestione disciplinandone il procedimento di formazione ed approvazione. 
  (1)((2))
@@ -371,6 +990,45 @@ L'ENEA, con proprio regolamento, adottato ai sensi dell'articolo 20 e previo par
  La L. 23 luglio 2009, n. 99, come modificata dalla L. 28 dicembre 2015, n. 221, ha disposto (con l'art. 37, comma 12) che "A decorrere dalla scadenza del termine di approvazione degli atti previsti al comma 7, e' abrogato il decreto legislativo 3 settembre 2003, n. 257".
 
 ## Art. 22. — Vigilanza e controllo
+
+1.
+                    
+                        
+                            Il Ministro delle attivita' produttive vigila sul corretto andamento dell'ENEA e verifica il perseguimento del suoi fini istituzionali. In particolare, il Ministro approva: 
+ 
+                        
+                        
+                            a)
+                            
+                                le proposte di piano triennale e di piano annuale deliberate dal consiglio di amministrazione; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                il bilancio consuntivo dell'ente; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                la costituzione di societa', consorzi ed altre forme associative di cui all'articolo 17 e i relativi statuti; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                la partecipazione dell'ente a societa', consorzi ed altre forme associative di cui all'articolo 17; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                le modifiche al regolamento di organizzazione e funzionamento.
 
 Decorsi sessanta giorni dalla ricezione del piano triennale e del piano annuale dell'ENEA senza osservazioni da parte del Ministro delle attivita' produttive, del Ministro dell'istruzione, dell'universita' e della ricerca e del Ministro dell'ambiente e della tutela del territorio per gli ambiti di rispettiva competenza, i piani si intendono approvati. Sul piano annuale e sul piano triennale, per gli ambiti di rispettiva competenza, sono richiesti dal consiglio di amministrazione dell'ente e acquisiti nel termine perentorio di sessanta giorni, i pareri dei Ministri dell'economia e delle finanze e per la funzione pubblica.
 

@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
 vigenza_date: 2025-01-17
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:21Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -28,7 +28,67 @@ Sulla proposta del Ministro per le politiche europee e del Ministro dell'economi
 
 ## Art. 1. — Definizioni
 
+1.
+                    
+                        
+                            Nel presente decreto si intendono per: 
+ 
+                        
+                        
+                            a)
+                            
+                                autorita' competenti: l'Agenzia delle dogane ((e dei monopoli)), il Ministero dell'economia e delle finanze, la Unita' di informazione finanziaria ((per l'Italia)) e la Guardia di finanza, ciascuna per le competenze individuate nel presente decreto; 
 
+                            
+                        
+                        
+                            b)
+                            
+                                dati identificativi: il nome e il cognome, il luogo e la data di nascita, la cittadinanza, lo Stato e il comune di residenza ((il domicilio digitale,)), nonche' il codice fiscale o, nel caso di soggetti diversi da persona fisica, la denominazione, la sede legale, il codice fiscale o la partita IVA; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                
+                                    ((denaro contante: 
+ 1) valuta: le banconote e le monete metalliche che sono in circolazione come mezzo di scambio, o che lo sono state e possono ancora essere scambiate, tramite banche e intermediari finanziari o banche centrali, con banconote e monete che sono in circolazione come mezzo di scambio; 
+ 2) strumenti negoziabili al portatore: strumenti diversi dalla valuta che autorizzano i loro portatori a esigere il pagamento di una somma di denaro dietro presentazione dello stesso, senza dover provare la propria identita' o diritto di disporne. Tali strumenti sono gli assegni turistici (o traveller's cheque), gli assegni, i vaglia cambiari o ordini di pagamento emessi al portatore, firmati ma privi del nome del beneficiario, girati senza restrizioni, a favore di un beneficiario fittizio, ovvero emessi altrimenti in forma tale che il relativo titolo passi all'atto della consegna; 
+ 3) beni utilizzati come riserve altamente liquide di valore: i beni elencati al punto 1 dell'allegato I al regolamento (UE) 2018/1672 del Parlamento europeo e del Consiglio, del 23 ottobre 2018; 
+ 4) carte prepagate: le carte non nominative elencate al punto 2 dell'allegato I al regolamento (UE) 2018/1672 del Parlamento europeo e del Consiglio, del 23 ottobre 2018, che contengono valore in moneta o liquidita' o vi danno accesso ovvero che possono essere usate per operazioni di pagamento, per l'acquisto di beni o servizi o per la restituzione di valuta, qualora non collegata a un conto corrente;))
+                                
+                            
+                        
+                        
+                            c-bis)
+                            
+                                
+                                    ((denaro contante non accompagnato: denaro contante che rientra in una qualsiasi tipologia di spedizione ovvero in un plico postale o equivalente senza una persona fisica che lo porti con se', nel bagaglio o nel mezzo di trasporto;))
+                                
+                            
+                        
+                        
+                            d)
+                            
+                                finanziamento del terrorismo: le attivita' definite dall'articolo 1, comma 1, lettera d), del decreto legislativo 22 giugno 2007, n. 109; (4) 
+
+                            
+                        
+                        
+                            e)
+                            
+                                riciclaggio: le attivita' definite dall'articolo 2, commi 4 e 5 del decreto legislativo 21 novembre 2007, n. 231, e successive modificazioni; (4) 
+
+                            
+                        
+                        
+                            e-bis)
+                            
+                                
+                                    ((attivita' criminosa: le attivita' definite dall'articolo 1, comma 2, lettera b), del decreto legislativo 21 novembre 2007, n. 231.))
+
+((COMMA ABROGATO DAL D.LGS. 10 DICEMBRE 2024, N. 211)).
 
 ---------------
                         AGGIORNAMENTO (4)
@@ -48,6 +108,24 @@ Le informazioni possono essere raccolte e utilizzate anche per finalita' statist
 ## Art. 3. — Obbligo di dichiarazione
 
 Chiunque entra nel territorio nazionale o ne esce e trasporta denaro contante di importo pari o superiore a 10.000 euro deve dichiarare tale somma ((e metterla a disposizione dell'Agenzia delle dogane e dei monopoli a fini di controllo)). L'obbligo di dichiarazione non e' soddisfatto se le informazioni fornite sono inesatte o incomplete ((ovvero se il denaro contante non e' messo a disposizione a fini di controllo)).
+
+2.
+                    
+                        
+                            La dichiarazione, redatta in conformita' al modello ((di cui all'allegato I, parte 1, del regolamento di esecuzione (UE) 2021/776 della Commissione, dell'11 maggio 2021)) puo' essere, in alternativa: 
+ 
+                        
+                        
+                            a)
+                            
+                                trasmessa telematicamente, prima dell'attraversamento della frontiera, secondo le modalita' e le specifiche pubblicate nel sito dell'Agenzia delle dogane ((e dei monopoli)). Il dichiarante deve recare al seguito copia della dichiarazione e il numero di registrazione attribuito dal sistema telematico doganale; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                consegnata in forma scritta, al momento del passaggio, presso gli uffici doganali di confine o limitrofi, che ne rilasciano copia con attestazione del ricevimento da parte dell'ufficio. Il dichiarante deve recare al seguito copia della dichiarazione con attestazione del ricevimento.
 
 ((Qualora nel corso dell'attivita' di controllo di plico postale o equivalente, di spedizioni di merci, di bagagli non accompagnati o altra qualsiasi tipologia di spedizione, venga rinvenuto denaro non accompagnato da e verso il territorio nazionale di importo pari o superiore a 10.000 euro, il mittente o il destinatario o un rispettivo rappresentante ha l'obbligo di presentare una dichiarazione informativa all'Agenzia delle dogane e dei monopoli.
 Tale dichiarazione e' resa entro un termine di trenta giorni in conformita' al modello di cui all'allegato I, parte 2, del regolamento di esecuzione (UE) 2021/776 della Commissione dell'11 maggio 2021. In tali casi, l'Agenzia delle dogane e dei monopoli e la Guardia di Finanza trattengono il denaro non accompagnato sino alla presentazione della dichiarazione informativa.))
@@ -161,7 +239,79 @@ b) dopo aver eseguito una valutazione approfondita della necessita' e della prop
 
 In caso di violazione delle disposizioni previste dall'articolo 3, il denaro contante trasferito o che si tenta di trasferire ((...)) e' sequestrato dall'Agenzia delle dogane ((e dei monopoli)) o dalla Guardia di finanza, con priorita' per banconote e monete aventi corso legale e, nei casi di mancanza o incapienza, per strumenti negoziabili al portatore di facile e pronto realizzo.
 
+2.
+                    
+                        
+                            
+                                ((Nel caso in cui la violazione delle disposizioni previste dall'articolo 3 consiste nell'aver omesso l'adempimento dichiarativo, il sequestro e' eseguito nel limite:))
+                            
+                        
+                        
+                            a)
+                            
+                                
+                                    ((del 50 per cento dell'importo eccedente la soglia di cui all'articolo 3, qualora l'eccedenza non sia superiore a 10.000 euro;))
+                                
+                            
+                        
+                        
+                            b)
+                            
+                                
+                                    ((del 70 per cento dell'importo eccedente la soglia di cui all'articolo 3, qualora l'eccedenza sia superiore a 10.000 euro e non superiore a 100.000 euro;))
+                                
+                            
+                        
+                        
+                            c)
+                            
+                                
+                                    ((del 100 per cento dell'importo eccedente la soglia di cui all'articolo 3, qualora l'eccedenza sia superiore a 100.000 euro)). 
+ 
+ 2.1. ((L'importo del sequestro di cui al comma 2 non puo' essere inferiore a 900 euro e non puo' essere superiore a 1.000.000 euro)). 
+ 
+ 2.2. ((Nel caso in cui la violazione delle disposizioni previste dall'articolo 3 consiste nell'aver fornito, nell'adempimento dichiarativo, informazioni inesatte o incomplete, il sequestro e' eseguito nel limite:)) 
+ a) ((del 25 per cento della differenza tra l'importo trasferito o che si tenta di trasferire e l'importo dichiarato, qualora tale differenza non sia superiore a 10.000 euro;)) 
+ b) ((del 35 per cento della differenza tra l'importo trasferito o che si tenta di trasferire e l'importo dichiarato, qualora tale differenza sia superiore a 10.000 euro e non superiore a 30.000 euro;)) 
+ c) ((del 70 per cento della differenza tra l'importo trasferito o che si tenta di trasferire e l'importo dichiarato, qualora tale differenza sia superiore a 30.000 euro e non superiore a 100.000 euro;))
+                                
+                            
+                        
+                        
+                            d)
+                            
+                                
+                                    ((del 100 per cento della differenza tra l'importo trasferito o che si tenta di trasferire e l'importo dichiarato, qualora tale differenza sia superiore a 100.000 euro)). 
+ 
+ 2.3. ((L'importo del sequestro di cui al comma 2.2. non puo' essere inferiore a 500 euro e non puo' essere superiore a 1.000.000 euro.))
+
 Il denaro contante sequestrato garantisce con preferenza su ogni altro credito il pagamento delle sanzioni amministrative pecuniarie.
+
+3.
+                    
+                        
+                            
+                                ((I limiti di cui ai commi 2 e 2.2. non operano se:))
+                            
+                        
+                        
+                            a)
+                            
+                                l'oggetto del sequestro e' indivisibile; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                l'autore dei fatti accertati non e' conosciuto; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                per la natura e l'entita' del denaro contante trasferito o che si tenta di trasferire, il relativo valore in euro non risulta agevolmente determinabile all'atto del sequestro medesimo.
 
 Nei casi di cui alle lettere b) e c), del comma 3, qualora l'autore dei fatti venga ad essere identificato ovvero quando sia determinato il valore in euro del denaro sequestrato, le somme eccedenti ((i limiti indicati nei commi 2 e 2.2.)) sono restituite agli aventi diritto.
 
@@ -176,6 +326,39 @@ Alla conclusione del procedimento sanzionatorio il denaro contante sequestrato, 
 ((Nei casi di restituzione del denaro contante previsti dal presente articolo sono fatti salvi gli effetti del provvedimento di trattenimento temporaneo di cui all'articolo 3-bis, ove disposto.))
 
 ## Art. 7. — Adempimenti oblatori
+
+1.
+                    
+                        
+                            
+                                ((Nel caso in cui la violazione delle disposizioni previste dall'articolo 3 consiste nell'aver omesso l'adempimento dichiarativo, il soggetto cui e' stata contestata una violazione puo' chiederne l'estinzione effettuando un pagamento in misura ridotta:))
+                            
+                        
+                        
+                            a)
+                            
+                                
+                                    ((pari al 15 per cento del denaro contante eccedente la soglia di cui all'articolo 3 se l'eccedenza non dichiarata non e' superiore a 10.000 euro;))
+                                
+                            
+                        
+                        
+                            b)
+                            
+                                
+                                    ((pari al 30 per cento se l'eccedenza non supera i 40.000 euro.)) 
+ 
+ 1.1. ((Nel caso in cui la violazione delle disposizioni previste dall'articolo 3 consiste nell'aver fornito, nell'adempimento dichiarativo, informazioni inesatte o incomplete, il soggetto cui e' stata contestata una violazione puo' chiederne l'estinzione effettuando un pagamento in misura ridotta:)) 
+ a) ((pari al 10 per cento della differenza tra l'importo trasferito o che si tenta di trasferire e l'importo dichiarato, se tale differenza non e' superiore a 10.000 euro;)) 
+ b) ((pari al 15 per cento della differenza tra l'importo trasferito o che si tenta di trasferire e l'importo dichiarato, se tale differenza e' superiore a 10.000 euro e non superiore a 30.000 euro;))
+                                
+                            
+                        
+                        
+                            c)
+                            
+                                
+                                    ((pari al 30 per cento della differenza tra l'importo trasferito o che si tenta di trasferire e l'importo dichiarato, se tale differenza e' superiore a 30.000 euro e non superiore a 40.000 euro.))
 
 La somma pagata non puo' essere, comunque, inferiore a ((500 euro nei casi di cui al comma 1 e a 300 euro nei casi di cui al comma 1.1)).
 
@@ -223,7 +406,36 @@ AGGIORNAMENTO (1)
 
 ## Art. 9. — (Sanzioni)
 
+1.
+                    
+                        
+                            
+                                ((Nel caso in cui la violazione delle disposizioni previste dall'articolo 3 consista nell'aver omesso l'adempimento dichiarativo, si applica la sanzione amministrativa pecuniaria, con un minimo di 900 euro:))
+                            
+                        
+                        
+                            a)
+                            
+                                
+                                    ((dal 30 al 50 per cento)) per cento dell'importo trasferito o che si tenta di trasferire in eccedenza rispetto alla soglia di cui all'articolo 3, se tale valore non e' superiore a 10.000 euro; 
 
+                            
+                        
+                        
+                            b)
+                            
+                                
+                                    ((dal 50 al 70 per cento)) per cento dell'importo trasferito o che si tenta di trasferire in eccedenza rispetto alla soglia di cui all'articolo 3 se tale valore e' ((superiore a 10.000 euro e non superiore a 100.000 euro;))
+                                
+                            
+                        
+                        
+                            b-bis)
+                            
+                                
+                                    ((dal 70 al 100 per cento dell'importo trasferito o che si tenta di trasferire in eccedenza rispetto alla soglia di cui all'articolo 3 se tale valore e' superiore a 100.000 euro. In tale ipotesi, la sanzione massima non puo' essere comunque superiore a 1.000.000 euro.))
+
+((Nei casi di cui al comma 1, ai fini della determinazione dell'entita' della sanzione, l'amministrazione procedente terra' conto dell'entita' dell'importo trasferito o che si tenta di trasferire in eccedenza rispetto alla soglia di cui all'articolo 3, nonche' delle precedenti violazioni accertate relative alle medesime disposizioni.))
 
 ((Nel caso in cui la violazione delle disposizioni previste dall'articolo 3 consiste nell'aver fornito, nell'adempimento dichiarativo, informazioni inesatte o incomplete, si applica la sanzione amministrativa pecuniaria, con un minimo di 500 euro: 
  a) dal 15 al 25 per cento della differenza tra l'importo trasferito o che si tenta di trasferire e l'importo dichiarato, se tale differenza non e' superiore a 10.000 euro; 
@@ -281,6 +493,38 @@ Il comma 4 dell'articolo 5 della legge 17 gennaio 2000, n. 7, e' sostituito dal 
 Nell'articolo 5 del decreto legislativo 30 aprile 1997, n. 125, le parole: «3, comma 1, 5, comma 3, e 5-ter, comma 2,» sono soppresse.
 
 ## Art. 13. — Norme abrogate
+
+1.
+                    
+                        
+                            Sono abrogati:
+ 
+                        
+                        
+                            a)
+                            
+                                gli articoli 3, 3-bis, 3-ter, 5, comma 3, e 5-ter del decreto-legge 28 giugno 1990, n. 167, convertito, con modificazioni, dalla legge 4 agosto 1990, n. 227, e successive modificazioni;
+
+                            
+                        
+                        
+                            b)
+                            
+                                gli articoli 21 e 40 del decreto del Presidente della Repubblica 31 marzo 1988, n. 148;
+
+                            
+                        
+                        
+                            c)
+                            
+                                l'articolo 4, comma 5, del decreto legislativo 6 settembre 1989, n. 322;
+
+                            
+                        
+                        
+                            d)
+                            
+                                gli articoli 4 e 6 del decreto legislativo 30 aprile 1997, n. 125.
 
 ## Art. 14. — Norme di coordinamento
 

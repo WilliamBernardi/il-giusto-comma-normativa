@@ -8,8 +8,8 @@ codice_redazionale: 090G0418
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:39Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -25,11 +25,96 @@ Udito il parere del Consiglio di Stato espresso nella adunanza generale del 30 o
 
 ## Art. 1.
 
+1.
+                    
+                        
+                            Le imprese che intendono ottenere il contributo di cui agli articoli 11 e 12 della legge n. 234/1989 ed all'art. 1 del decreto-legge 18 ottobre 1990, n. 296, devono per ciascuna unita' presentare al Ministero della marina mercantile domanda contenente, oltre alla dichiarazione di essere in possesso dei requisiti per essere proprietarie di navi italiane ai sensi degli articoli 143 e 144 del codice della navigazione, l'indicazione degli elementi di individuazione dell'impresa del codice fiscale e del tipo, della stazza lorda e delle caratteristiche principali dell'unita'. Alla domanda devono essere allegati:
+ 
+                        
+                        
+                            a)
+                            
+                                dichiarazione dell'impresa concernente l'avvenuta ammissione dell'unita' al contributo di cui all'art. 9 della legge 14 giugno 1989, n. 234, e l'assunzione dell'impegno a mantenere o a far mantenere l'unita' stessa in proprieta' italiana per quattro anni a decorrere dalla data di cui all'art. 11, comma primo, della legge n. 234/1989;
+
+                            
+                        
+                        
+                            b)
+                            
+                                certificato del Registro italiano navale attestante la data della fine dei lavori relativi all'unita' per la quale si richiede il contributo;
+
+                            
+                        
+                        
+                            c)
+                            
+                                attestazione dell'autorita' marittima concernente la data di entrata in esercizio dell'unita'.
+
 L'individuazione delle forniture di cui all'art. 12, primo comma, della legge n. 234/1989 avverra' in conformita' dell'art.1, primo comma, lettera b), del decreto-legge 18 ottobre 1990, n. 296, e del comma ottavo della deliberazione del CIPE in data 29 luglio 1982, pubblicata nella Gazzetta Ufficiale 8 settembre 1982, n. 247.
 
 La richiesta di eventuali deroghe all'importo massimo del contributo deve essere accompagnata da una apposita relazione contenente gli elementi che possono giustificare il superamento del limite massimo indicato, in particolare quelli concernenti le componenti del costo di esercizio della singola unita' e il numero complessivo delle unita' di cui l'impresa stessa e' proprietaria.
 
 ## Art. 2.
+
+1.
+                    
+                        
+                            Le imprese che intendono ottenere il contributo di cui all'art. 27 della legge n. 234/1989 ed all'art. 2 del decreto-legge 18 ottobre 1990, n. 296, devono per ciascuna unita' presentare al Ministero della marina mercantile domanda contenente, oltre alla dichiarazione di essere in possesso dei requisiti per essere proprietari di navi italiane ai sensi degli articoli 143 e 144 del codice della navigazione, la indicazione degli elementi di individuazione dell'impresa, del codice fiscale e del tipo, della stazza lorda e delle caratteristiche principali dell'unita'. Alla domanda devono essere allegati:
+ 
+                        
+                        
+                            a)
+                            
+                                certificato dell'autorita' marittima straniera attestante la data di prima immatricolazione o documento equipollente da cui risulti il suddetto elemento;
+
+                            
+                        
+                        
+                            b)
+                            
+                                copia autenticata dell'atto di compravendita;
+
+                            
+                        
+                        
+                            c)
+                            
+                                copia del piano generale;
+
+                            
+                        
+                        
+                            d)
+                            
+                                copia delle fatture, o conferme d'ordine da sostituire successivamente con le fatture ovvero con documento rilasciato da una societa' di revisione attestante la conformita' delle copie delle fatture con gli originali, riguardanti l'acquisto delle attrezzature considerate pertinenti ai sensi della legge e del presente regolamento;
+
+                            
+                        
+                        
+                            e)
+                            
+                                certificato d'iscrizione dell'unita' nei registri previsti dall'art. 146 del codice della navigazione o, nelle more dell'iscrizione, passavanti provvisorio da sostituire con il predetto certificato non appena disponibile;
+
+                            
+                        
+                        
+                            f)
+                            
+                                relazione tecnica particolareggiata sulle caratteristiche generali della nave e sulla relativa specifica impiantistica;
+
+                            
+                        
+                        
+                            g)
+                            
+                                copia del certificato di classe da sostituire appena possibile con il certificato del Registro italiano navale attestante il possesso della piu' alta classe, ovvero certificato di navigabilita';
+
+                            
+                        
+                        
+                            h)
+                            
+                                attestazione rilasciata dall'autorita' marittima o consolare in merito alla data dell'avvenuta consegna dell'unita'.
 
 L'individuazione delle attrezzature pertinenti avverra' in conformita' del comma ottavo della deliberazione del CIPE in data 29 luglio 1982, pubblicata nella Gazzetta Ufficiale 8 settembre 1982, n. 247.
 

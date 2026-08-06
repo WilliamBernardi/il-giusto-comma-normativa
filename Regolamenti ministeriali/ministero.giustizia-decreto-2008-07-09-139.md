@@ -8,8 +8,8 @@ codice_redazionale: 008G0161
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:41Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -27,9 +27,81 @@ La ripartizione della somma di cui all'articolo 92, comma 5 del decreto legislat
 
 Il personale destinatario della somma di cui al comma 1 individuato, in base al predetto articolo 92 tra il responsabile unico del procedimento, gli incaricati della redazione del progetto, del piano della sicurezza della direzione dei lavori e del collaudo, nonche' tra i loro collaboratori.
 
+3.
+                    
+                        
+                            La percentuale, da applicare all'importo posto a base di gara di un'opera o di un lavoro, per determinare la somma di cui al comma 1 e da corrispondere al personale di cui al comma 2, e' data dall'addizione di una delle aliquote percentuali di cui al seguente punto 
+                        
+                        
+                            a)
+                            
+                                e di una di quelle di cui al seguente punto b):
+ a) aliquota percentuale relativa all'entita' dell'opera determinata come di seguito:
+ 1) 1,00% per progetti il cui importo posto a base di gara non ecceda Euro 150.000,00;
+ 2) 0,95% per progetti il cui importo posto a base di gara e' compreso tra Euro 150.000,00 e Euro 750.000,00;
+ 3) 0,90% per progetti il cui importo posto a base di gara e' compreso tra Euro 750.000,00 e Euro 5.000.000,00;
+ 4) 0,85% per progetti il cui importo posto a base di gara e' compreso tra Euro 5.000.000,00 e Euro 25.000.000,00;
+ 5) 0,75% per progetti il cui importo posto a base di gara supera Euro 25.000.000,00;
+
+                            
+                        
+                        
+                            b)
+                            
+                                aliquota percentuale relativa alla complessita' dell'opera determinata come di seguito:
+ 1) 1,00% per progetti riguardanti nuove opere, ristrutturazioni, restauri e risanamento conservativo;
+ 2) 0,90% per progetti di manutenzione straordinaria;
+ 3) 0,75% per progetti di manutenzione ordinaria.
+
 Allorquando il progetto e costituito da piu' sotto-progetti specialistici o la progettazione avviene per stralci funzionali, l'aliquota percentuale complessiva e' applicata nella misura massima del 2,0% dell'importo del progetto posto a base di gara di un'opera o di un lavoro.
 
 ## Art. 2.
+
+1.
+                    
+                        
+                            La somma, determinata con i criteri di cui al precedente articolo 1, e' ripartita tra il personale di cui al comma 2 dell'articolo 1, in base a quanto segue:
+ 
+                        
+                        
+                            a)
+                            
+                                responsabile del procedimento: 12%;
+
+                            
+                        
+                        
+                            b)
+                            
+                                incaricati della progettazione e loro tecnici collaboratori: 49%;
+
+                            
+                        
+                        
+                            c)
+                            
+                                incaricati della redazione del piano di sicurezza e loro tecnici collaboratori: 4%;
+
+                            
+                        
+                        
+                            d)
+                            
+                                direttore dei lavori e suoi tecnici collaboratori: 20%;
+
+                            
+                        
+                        
+                            e)
+                            
+                                incaricati del collaudo e loro tecnici collaboratori: 10%;
+
+                            
+                        
+                        
+                            f)
+                            
+                                altri componenti dell'ufficio che hanno prestato attivita' di supporto al responsabile unico del procedimento nelle fasi della programmazione, progettazione, affidamento ed esecuzione del lavoro o dell'opera: 5%.
 
 Il dirigente di cui all'articolo 1, comma 1, nell'ipotesi in cui la redazione di un progetto richiede l'apporto di una pluralita' di competenze tecniche specialistiche, puo' nominare un coordinatore della progettazione. Al coordinatore della progettazione e ai suoi tecnici collaboratori spetta il 10% della somma di cui al precedente punto b).
 
@@ -48,6 +120,16 @@ La somma restante, nei casi in cui il collaudo e' affidato ad una commissione, v
 L'aliquota di cui al punto e) del comma 1, fatta salva l'aliquota spettante al collaudatore statico, e' addizionata a quella di cui al punto d) del medesimo comma, nei casi in cui il certificato di collaudo e' sostituito con quello di regolare esecuzione.
 
 ## Art. 3.
+
+1.
+                    
+                        
+                            Nel caso di progetti posti a base di gara per i quali le procedure di affidamento non hanno avuto seguito per ragioni non derivanti da errori od omissioni progettuali, l'incentivo di cui al presente regolamento e ripartito esclusivamente tra gli aventi diritto di cui alle lettere a), b), c) ed f) dell'articolo 2, comma 1. Per gli aventi diritto di cui ai punti 
+                        
+                        
+                            a)
+                            
+                                e f) l'incentivo viene corrisposto nella misura del 50%.
 
 Nel caso di sospensione dei lavori perdurante per oltre mesi sei dalla data del relativo verbale, per motivi non riconducibili a responsabilita' del direttore dei lavori, viene erogato l'incentivo di cui al presente regolamento agli aventi diritto di cui alle precedenti lettere a), d), e) e f) dell'articolo 2, comma 1, proporzionalmente all'importo risultante al momento della sospensione dei lavori.
 

@@ -7,8 +7,8 @@ urn: urn:nir:stato:decreto.del.presidente.della.repubblica:2018-08-02;112
 vigente: true
 source: normattiva-opendata
 collection: DPR
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:47:59Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -40,6 +40,24 @@ Acquisiti i pareri delle competenti Commissioni parlamentari della Camera dei de
 Sulla proposta del Presidente del Consiglio dei ministri e del Ministro dell'interno, di concerto con i Ministri per la pubblica amministrazione e dell'economia e delle finanze;
 
 ## Art. 1. — Modifiche concernenti le Direzioni centrali e gli uffici di pari livello del Dipartimento della pubblica sicurezza del Ministero dell'interno.
+
+1.
+                    
+                        
+                            All'articolo 4, comma 2, del decreto del Presidente della Repubblica 7 settembre 2001, n. 398, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                la lettera e) e' abrogata; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                la lettera l) e' sostituita dalla seguente: «l) Direzione centrale per gli affari generali e le politiche del personale della Polizia di Stato;».
 
 Le competenze e le funzioni della Direzione centrale per gli affari generali della Polizia di Stato, soppressa ai sensi del comma 1, lettera a), sono ripartite tra i seguenti uffici di livello dirigenziale generale del Dipartimento della pubblica sicurezza del Ministero dell'interno: segreteria del Dipartimento, Direzione centrale per gli affari generali e le politiche del personale della Polizia di Stato e Direzione centrale dei servizi tecnico-logistici e della gestione patrimoniale.
 

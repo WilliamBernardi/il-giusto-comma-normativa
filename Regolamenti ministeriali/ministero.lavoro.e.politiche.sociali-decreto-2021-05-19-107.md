@@ -7,8 +7,8 @@ urn: urn:nir:ministero.lavoro.e.politiche.sociali:decreto:2021-05-19;107
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:39Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -44,7 +44,50 @@ Le attivita' diverse di cui all'articolo 6 del decreto legislativo 3 luglio 2017
 
 Natura secondaria delle attivita' diverse
 
+1.
+                    
+                        
+                            Le attivita' diverse di cui all'articolo 6 del decreto legislativo 3 luglio 2017, n. 117 si considerano secondarie rispetto alle attivita' di interesse generale qualora, in ciascun esercizio, ricorra una delle seguenti condizioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                i relativi ricavi non siano superiori al 30% delle entrate complessive dell'ente del Terzo settore; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                i relativi ricavi non siano superiori al 66% dei costi complessivi dell'ente del Terzo settore.
+
 Nel documentare, ai sensi dell'articolo 13, comma 6, del decreto legislativo 3 luglio 2017, n. 117, il carattere secondario delle attivita' di cui all'articolo 6 del medesimo decreto, l'organo di amministrazione dell'ente del Terzo settore evidenzia il criterio a tal fine utilizzato tra quelli di cui al comma 1.
+
+3.
+                    
+                        
+                            Ai fini del computo della percentuale di cui al comma 1, lettera b), rientrano tra i costi complessivi dell'ente del Terzo settore anche: 
+ 
+                        
+                        
+                            a)
+                            
+                                i costi figurativi relativi all'impiego di volontari iscritti nel registro di cui all'articolo 17, comma 1, del decreto legislativo 3 luglio 2017, n. 117, calcolati attraverso l'applicazione, alle ore di attivita' di volontariato effettivamente prestate, della retribuzione oraria lorda prevista per la corrispondente qualifica dai contratti collettivi, di cui all'articolo 51 del decreto legislativo 15 giugno 2015, n. 81; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                le erogazioni gratuite di denaro e le cessioni o erogazioni gratuite di beni o servizi, per il loro valore normale; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                la differenza tra il valore normale dei beni o servizi acquistati ai fini dello svolgimento dell'attivita' statutaria e il loro costo effettivo di acquisto.
 
 Ai fini del computo delle percentuali di cui al comma 1 non sono considerati, ne' al numeratore ne' al denominatore del rapporto, i proventi e gli oneri generati dal distacco del personale degli enti del Terzo settore presso enti terzi.
 

@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
 vigenza_date: 2010-12-18
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:23Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -42,6 +42,32 @@ Quando non sono espressamente previsti da specifiche norme di settore o dal pres
 L'esercizio professionale nei confronti del pubblico dell'agenzia in attivita' finanziaria, indicata nell'articolo 1, comma 1, lettera n), e' riservato ai soggetti iscritti in un elenco istituito presso l'UIC.
 
 Il Ministro del tesoro, del bilancio e della programmazione economica, con regolamento, adottato sentito l'UIC, specifica il contenuto dell'attivita' indicata al comma 1, stabilisce le condizioni di compatibilita' con lo svolgimento di altre attivita' professionali, prevede in quali circostanze ricorra l'esercizio nei confronti del pubblico e ne disciplina l'esercizio nel territorio della Repubblica da parte di soggetti aventi sede legale all'estero.
+
+3.
+                    
+                        
+                            L'UIC procede all'iscrizione nell'elenco quando ricorrono le condizioni seguenti:
+ 
+                        
+                        
+                            a)
+                            
+                                per le persone fisiche:
+ 1) cittadinanza italiana o di uno Stato dell'Unione europea ovvero di Stato diverso secondo le disposizioni dell'articolo 2 del decreto legislativo 25 luglio 1998, n. 286;
+ 2) domicilio nel territorio della Repubblica;
+ 3) diploma di scuola media superiore o titolo equipollente a tutti gli effetti di legge;
+ 4) possesso dei requisiti di onorabilita' stabiliti nel regolamento emanato ai sensi dell'articolo 109 del testo unico bancario;
+
+                            
+                        
+                        
+                            b)
+                            
+                                per i soggetti diversi dalle persone fisiche:
+ 1) previsione nell'oggetto sociale dello svolgimento dell'attivita' di agenzia in attivita' finanziaria;
+ 2) i partecipanti al capitale e i soggetti che svolgono funzioni di amministrazione, direzione e controllo abbiano i requisiti di onorabilita' stabiliti nei regolamenti emanati rispettivamente ai sensi degli articoli 108 e 109 del testo unico bancario;
+ 3) la sede legale e la sede amministrativa siano situate nel territorio della Repubblica;
+ 4) siano rispettati i requisiti patrimoniali e di forma giuridica stabiliti dal Ministro del tesoro, del bilancio e della programmazione economica con regolamento adottato su proposta dell'UIC.
 
 Nei casi di perdita dei requisiti di onorabilita' in capo ai soggetti indicati nella lettera b), numero 2), del comma 3, si applicano gli articoli 108, comma 3, e 109, comma 2, del testo unico bancario.
 

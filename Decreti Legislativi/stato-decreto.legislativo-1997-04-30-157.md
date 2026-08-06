@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
 vigenza_date: 1998-08-28
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:28Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -24,6 +24,32 @@ Acquisito il parere delle competenti Commissioni permanenti della Camera dei dep
 
 ## Art. 1. — Commissione tecnico-amministrativa
  di coordinamento
+
+1.
+                    
+                        
+                            E' costituita presso la Presidenza del Consiglio dei Ministri una commissione tecnicoamministrativa allo scopo di:
+ 
+                        
+                        
+                            a)
+                            
+                                coordinare l'azione di verifica e di controllo delle amministrazioni interessate sulle diverse forme di tutela previdenziale ed assistenziale;
+
+                            
+                        
+                        
+                            b)
+                            
+                                definire i parametri significativi del controllo anche sulla base dei dati disponibili attraverso il casellario centrale dei trattamenti pensionistici, istituito ai sensi dell'articolo 6 del decreto-legge 23 febbraio 1995, n. 41, convertito, con modificazioni, dalla legge 22 marzo 1995, n. 85;
+
+                            
+                        
+                        
+                            c)
+                            
+                                monitorare, d'intesa con le regioni ed i rispettivi osservatori regionali, laddove esistenti, l'attivita' valutativa delle commissioni preposte agli accertamenti in ambito assistenziale e previdenziale.
+ Della commissione fanno parte: tre medici degli enti pubblici previdenziali; sette medici designati, tra docenti in medicina legale e delle assicurazioni, rispettivamente dal Ministero del tesoro, dal Ministero dell'interno, dal Ministero della difesa, dal Ministero della sanita', dal Ministero del lavoro e della previdenza sociale, dal Dipartimento per gli affari sociali e dalla Presidenza della conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome, un rappresentante di ciascuno dei predetti Ministeri, nonche' del Dipartimento della funzione pubblica, con qualifica non inferiore a quella di dirigente. La commissione e' presieduta da un dirigente generale appartenente al ruolo della Presidenza del Consiglio dei Ministri. La commissione, anche sulla base dei dati forniti dal casellario centrale, predispone piani annuali di verifica.
 
 ## Art. 2. — Unita' operative integrate
 

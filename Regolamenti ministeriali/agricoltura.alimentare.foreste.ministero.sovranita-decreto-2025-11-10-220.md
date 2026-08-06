@@ -7,8 +7,8 @@ urn: urn:nir:agricoltura.alimentare.foreste.ministero.sovranita:decreto:2025-11-
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:42Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -46,4 +46,29 @@ Il presente regolamento, in applicazione dell'articolo 46, commi 3 e 5, del decr
 
 ## Art. 2. — Modifiche dell'allegato II del decreto legislativo 
  2 febbraio 2021, n. 19
+
+1.
+                    
+                        
+                            L'allegato II del decreto legislativo 2 febbraio 2021, n. 19, e' cosi' di seguito modificato: 
+ 
+                        
+                        
+                            a)
+                            
+                                dopo la riga inerente al Posto di controllo frontaliero «ANCONA PORTO», e' inserita la seguente riga: 
+ 
+ Parte di provvedimento in formato grafico
+ 
+
+                            
+                        
+                        
+                            b)
+                            
+                                la riga inerente al Posto di controllo frontaliero «TRIESTE PORTO» e' sostituita dalla seguente: 
+ 
+ Parte di provvedimento in formato grafico
+ 
+ Il presente decreto, inviato agli organi di controllo per la registrazione, e' oggetto di pubblicazione nella Gazzetta Ufficiale della Repubblica italiana ed entra in vigore il giorno successivo alla sua pubblicazione.
 

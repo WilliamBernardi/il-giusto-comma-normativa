@@ -8,8 +8,8 @@ codice_redazionale: 002G0020
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti governativi
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:09Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -27,11 +27,61 @@ Sulla proposta del Presidente del Consiglio dei Ministri e del Ministro per la f
 
 ## Art. 1. — Ambito di applicazione
 
+1.
+                    
+                        
+                            Il presente regolamento disciplina ai fini previdenziali, secondo quanto previsto dagli articoli 2 e 3 della legge 9 gennaio 1963, n. 9:
+ 
+                        
+                        
+                            a)
+                            
+                                il procedimento di iscrizione dei coltivatori diretti, coloni e mezzadri e degli appartenenti ai rispettivi nuclei familiari, nonche' degli imprenditori agricoli a titolo principale, negli elenchi istituiti dall'articolo 11 della legge n. 9 del 1963;
+
+                            
+                        
+                        
+                            b)
+                            
+                                il procedimento di variazione della classificazione aziendale ai fini della determinazione della misura dei contributi previdenziali, ai sensi dell'articolo 7 della legge 2 agosto 1990, n. 233;
+
+                            
+                        
+                        
+                            c)
+                            
+                                il procedimento di cancellazione dagli elenchi istituiti dall'articolo 11 della legge n. 9 del 1963.
+
 ## Art. 2. — Definizioni
 
 Ai fini del presente regolamento si intendono per domande di iscrizione, variazione e cancellazione le dichiarazioni finalizzate ad ottenere l'iscrizione e la cancellazione negli elenchi di cui all'articolo 1 e la variazione dei dati significativi ai fini della classificazione aziendale.
 
 ## Art. 3. — Termini e modalita' per la presentazione delle domande
+
+1.
+                    
+                        
+                            La domanda e' presentata:
+ 
+                        
+                        
+                            a)
+                            
+                                in caso di prima iscrizione, entro novanta giorni dall'inizio dell'attivita';
+
+                            
+                        
+                        
+                            b)
+                            
+                                in caso di cancellazione, entro novanta giorni dalla cessazione dell'attivita';
+
+                            
+                        
+                        
+                            c)
+                            
+                                in caso di variazioni nella composizione del nucleo familiare, nella superficie, nelle colture e nel reddito agrario dei terreni condotti, significative ai fini della classificazione aziendale, entro novanta giorni dalla intervenuta variazione.
 
 La domanda puo' essere presentata presso qualsiasi sede dell'I.N.P.S., ovvero inviata per posta o tramite fax o per la via telematica eventualmente resa disponibile. La domanda puo' essere presentata inoltre agli sportelli polifunzionali, di cui all'articolo 14, comma 4, della legge 30 dicembre 1991, n. 412, presso le sedi dell'I.N.A.I.L., presso le sedi delle camere di commercio, industria, artigianato e agricoltura, presso le sedi delle commissioni provinciali per l'artigianato e presso gli uffici della Agenzia delle entrate, quando previsto dalla convenzione con il Ministero dell'economia e delle finanze, puo' essere presentata, inoltre, presso gli uffici comunali collegati al servizio di scambio telematico di dati secondo le modalita' disciplinate dal decreto del Presidente del Consiglio dei Ministri 5 maggio 1994, pubblicato nella Gazzetta Ufficiale 27 giugno 1994, n. 148.
 
@@ -68,4 +118,32 @@ Continuano ad applicarsi le disposizioni di cui all'articolo 15 del decreto legi
 In ogni momento l'I.N.P.S. effettua i controlli ritenuti necessari sia ai fini contributivi, sia ai fini della classificazione delle aziende, tramite il proprio servizio ispettivo, ovvero anche segnalando situazioni di presunta irregolarita' al servizio ispettivo del Ministero del lavoro e delle politiche sociali.
 
 ## Art. 8. — Abrogazioni
+
+1.
+                    
+                        
+                            Ai sensi dell'articolo 20, comma 4, della legge 15 marzo 1997, n. 59, dalla data di entrata in vigore del presente regolamento sono abrogate le seguenti disposizioni:
+ 
+                        
+                        
+                            a)
+                            
+                                
+                                    articolo 12 della legge 9 gennaio 1963, n. 9;
+
+                            
+                        
+                        
+                            b)
+                            
+                                
+                                    articolo 14 della legge 2 agosto 1990, n. 233, commi 2, 3, 4 e 5;
+
+                            
+                        
+                        
+                            c)
+                            
+                                
+                                    articolo 15 della legge 2 agosto 1990, n. 233.
 

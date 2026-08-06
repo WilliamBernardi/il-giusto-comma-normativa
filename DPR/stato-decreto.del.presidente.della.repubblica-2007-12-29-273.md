@@ -8,8 +8,8 @@ codice_redazionale: 008G0041
 vigente: true
 source: normattiva-opendata
 collection: DPR
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:47:54Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -27,6 +27,31 @@ Sulla proposta del Ministro dei trasporti, di concerto con i Ministri dell'econo
 
 Le disposizioni del presente regolamento disciplinano le modalita' di ripartizione e di erogazione del «Fondo per il proseguimento degli interventi a favore dell'autotrasporto» di cui in premessa, relativamente alla quota di 70 milioni di euro da destinare, a fini di miglioramento ambientale, all'acquisizione di mezzi pesanti di ultima generazione.
 
+2.
+                    
+                        
+                            Ai fini del presente regolamento:
+ 
+                        
+                        
+                            a)
+                            
+                                per «impresa di autotrasporto» si intende l'impresa iscritta all'Albo nazionale delle persone fisiche e giuridiche che esercitano l'autotrasporto di cose per conto di terzi, ovvero l'impresa non stabilita in Italia, abilitata ad eseguire attivita' di autotrasporto internazionale o di cabotaggio stradale in territorio italiano che e' parte di un contratto di trasporto di merci su strada;
+
+                            
+                        
+                        
+                            b)
+                            
+                                per «raggruppamento di imprese» si intendono le strutture societarie costituite a norma del libro V, titolo VI, capo I o del libro V, titolo X, capo II, sezioni II e II-bis, del codice civile;
+
+                            
+                        
+                        
+                            c)
+                            
+                                per «miglioramento ambientale» si intende la realizzazione di «standard» piu' elevati di quelli prescritti dalla disciplina comunitaria vigente in materia di emissioni gassose, acustiche, elettromagnetiche e quant'altro necessario al raggiungimento degli obiettivi fissati in materia di tutela dell'ambiente.
+
 ## Art. 2. — Entita' e modalita' di erogazione dei contributi
 
 La somma di 70 milioni di euro di cui all'articolo 1, comma 1, e' destinata a contributi a favore delle imprese o raggruppamenti di imprese di autotrasporto che acquisiscano, nel biennio 2007-2008, anche mediante locazione finanziaria, autoveicoli adibiti al trasporto di merci di massa complessiva pari o superiore a 11,5 tonnellate, appartenenti alla categoria Euro 5 o superiori.
@@ -42,6 +67,52 @@ Con decreto del Ministro dei trasporti, di concerto con il Ministro dell'economi
 Le risorse finanziarie di cui all'articolo 2, comma 1, sono concesse mediante contributi a fondo perduto.
 
 ## Art. 4. — Procedura di richiesta dei contributi Valutazione delle istanze
+
+1.
+                    
+                        
+                            Con il decreto di cui all'articolo 2, comma 4, sono stabiliti termini e modalita' per accedere ai contributi previsti dai commi 2 e 3 del medesimo articolo, nonche' i modelli delle istanze e le indicazioni che le stesse dovranno contenere, fra le quali dovranno figurare quelle relative a:
+ 
+                        
+                        
+                            a)
+                            
+                                ragione sociale dell'impresa o del raggruppamento di imprese;
+
+                            
+                        
+                        
+                            b)
+                            
+                                sede dell'impresa o del raggruppamento di imprese;
+
+                            
+                        
+                        
+                            c)
+                            
+                                legale rappresentante dell'impresa o del raggruppamento di imprese;
+
+                            
+                        
+                        
+                            d)
+                            
+                                indirizzo del legale rappresentante dell'impresa o del raggruppamento di imprese;
+
+                            
+                        
+                        
+                            e)
+                            
+                                dichiarazione di cui al comma 1223 della legge 27 dicembre 2006, n. 296;
+
+                            
+                        
+                        
+                            f)
+                            
+                                firma del legale rappresentante dell'impresa o del raggruppamento di imprese.
 
 Con lo stesso decreto, e' istituita una Commissione, nell'ambito del Ministero dei trasporti, che provvede, con le risorse umane e strumentali e finanziarie gia' disponibili a legislazione vigente presso la stessa amministrazione, a valutare le istanze presentate.
 

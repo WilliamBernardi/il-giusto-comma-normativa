@@ -7,8 +7,8 @@ urn: urn:nir:stato:decreto.del.presidente.del.consiglio.dei.ministri:2015-02-20;
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:42Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DEL CONSIGLIO DEI MINISTRI
@@ -28,6 +28,73 @@ Sulla proposta del Presidente del Consiglio dei ministri, di concerto con il Min
 
 ## Art. 1. — Definizioni
 
+1.
+                    
+                        
+                            Ai fini delle disposizioni contenute nel presente decreto si intendono per: 
+ 
+                        
+                        
+                            a)
+                            
+                                «Finanziamento assistito da garanzia» o «Finanziamento»: il finanziamento, di cui all'articolo 1, comma 30, della legge 23 dicembre 2014, n. 190, assistito dalla garanzia del Fondo di garanzia, di cui possono fruire i datori di lavoro che abbiano alle proprie dipendenze meno di 50 addetti e che non siano tenuti, ai sensi dell'articolo 1, comma 756, della legge 27 dicembre 2006, n. 296, al versamento del TFR al Fondo di tesoreria INPS, allo scopo di acquisire la provvista finanziaria necessaria per operare la liquidazione del TFR come parte integrante della retribuzione nei confronti dei lavoratori dipendenti che esercitano detta opzione; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                «Fondo di garanzia» o «Fondo»: il fondo di cui all'articolo 1, comma 32, della legge 23 dicembre 2014, n. 190, i cui interventi sono assistiti dalla garanzia dello Stato quale garanzia di ultima istanza; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                «Fondo di tesoreria INPS»: il fondo per l'erogazione ai lavoratori dipendenti del settore privato dei trattamenti di fine rapporto di cui all'articolo 2120 del codice civile costituito ai sensi dell'articolo 1, comma 755, della legge 27 dicembre 2006, n. 296; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                «lavoratore dipendente beneficiario»: il lavoratore dipendente del settore privato che ha un rapporto di lavoro in essere da almeno sei mesi presso il medesimo datore di lavoro che puo' scegliere di richiedere la liquidazione mensile del TFR come parte integrante della retribuzione nei limiti e alle condizioni del presente decreto; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                «Intermediario aderente»: la banca o l'intermediario finanziario che aderisce all'accordo quadro tra i Ministri del lavoro e delle politiche sociali e dell'economia e delle finanze e l'Associazione bancaria italiana ai sensi dell'articolo 1, comma 31, della legge 23 dicembre 2014, n. 190; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                «Legge di stabilita' 2015»: la legge 23 dicembre 2014, n. 190, recante disposizioni per la formazione del bilancio annuale e pluriennale dello Stato (Legge di stabilita' 2015); 
+
+                            
+                        
+                        
+                            g)
+                            
+                                «Accordo quadro»: accordo quadro tra i Ministri del lavoro e delle politiche sociali e dell'economia e delle finanze e l'Associazione Bancaria Italiana ai sensi dell'articolo 1, comma 31, della legge 23 dicembre 2014, n. 190, contenente anche le specifiche tecniche e di sicurezza dei flussi informativi; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                «Istanza di accesso»: domanda del lavoratore dipendente, da redigere secondo il modello di cui all'Allegato A, che e' parte integrante del presente decreto, con cui si chiede di percepire la quota maturanda di cui all'articolo 2120 del Codice civile al netto del contributo di cui all'articolo 3, ultimo comma, della legge 29 maggio 1982, n. 297, ivi inclusa la quota eventualmente destinata ad una forma pensionistica complementare, tramite liquidazione diretta mensile come parte integrativa della retribuzione; 
+
+                            
+                        
+                        
+                            i)
+                            
+                                «Qu.I.R.»: quota integrativa della retribuzione pari alla quota maturanda di cui all'articolo 2120 del Codice civile al netto del contributo di cui all'articolo 3, ultimo comma, della legge 29 maggio 1982, n. 297, erogato tramite liquidazione diretta mensile.
+
 ## Art. 2.
 
 Oggetto e finalita'
@@ -35,6 +102,66 @@ Oggetto e finalita'
 Il presente decreto disciplina le modalita' di attuazione delle disposizioni di cui all'articolo 1, commi da 26 a 34, della legge di stabilita' 2015, nonche' i criteri, le condizioni e le modalita' di funzionamento del Fondo di garanzia.
 
 ## Art. 3. — Soggetti destinatari
+
+1.
+                    
+                        
+                            Possono presentare istanza per la liquidazione mensile della Qu.I.R. tutti i lavoratori dipendenti da datore di lavoro del settore privato, con rapporto di lavoro subordinato in essere da almeno sei mesi, per i quali trova applicazione l'istituto del TFR, eccetto: 
+ 
+                        
+                        
+                            a)
+                            
+                                i lavoratori dipendenti domestici; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                i lavoratori dipendenti del settore agricolo; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                i lavoratori dipendenti per i quali la legge ovvero il contratto collettivo nazionale di lavoro, anche mediante il rinvio alla contrattazione di secondo livello, prevede la corresponsione periodica del TFR ovvero l'accantonamento del TFR medesimo presso soggetti terzi; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                i lavoratori dipendenti da datori di lavoro sottoposti a procedure concorsuali; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                i lavoratori dipendenti da datori di lavoro che abbiano iscritto nel registro delle imprese un accordo di ristrutturazione dei debiti di cui all'articolo 182-bis della legge fallimentare; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                i lavoratori dipendenti da datori di lavoro che abbiano iscritto presso il Registro delle imprese un piano di risanamento attestato di cui all'articolo 67, comma 3, lettera d), della legge fallimentare; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                i lavoratori dipendenti da datori di lavoro per i quali, ai sensi delle disposizioni normative vigenti, siano stati autorizzati interventi di integrazione salariale straordinaria e in deroga, se in prosecuzione dell'integrazione straordinaria stessa, limitatamente ai lavoratori dipendenti in forza all'unita' produttiva interessata dai predetti interventi; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                ai lavoratori dipendenti da datori di lavoro che abbiano sottoscritto un accordo di ristrutturazione dei debiti e di soddisfazione dei crediti di cui all'articolo 7, della legge 27 gennaio 2012, n. 3.
 
 L'opzione di cui al comma 1 puo' essere esercitata anche in caso di conferimento, sulla base di modalita' esplicite ovvero tacite, del TFR maturando alle forme pensionistiche complementari di cui al decreto legislativo 5 dicembre 2005, n. 252. In tal caso, nel corso del periodo di durata della predetta opzione, la partecipazione del lavoratore dipendente alla forma pensionistica complementare prosegue senza soluzione di continuita' sulla base della posizione individuale maturata nell'ambito della forma pensionistica medesima nonche' della eventuale contribuzione a suo carico e/o a carico del datore di lavoro.
 
@@ -91,6 +218,38 @@ Ove sia accertato che il finanziamento sia stato utilizzato, anche parzialmente,
 
 L'erogazione del finanziamento assistito da garanzia e' interrotta al verificarsi di una delle condizioni previste all'articolo 3, comma 1, lettere e), f), g) ed h), a partire dal periodo di paga successivo a quello di insorgenza delle predette condizioni e per l'intero periodo di sussistenza delle medesime ovvero, per le condizioni di cui al comma 5, a partire dalle decorrenze ivi previste.
 
+5.
+                    
+                        
+                            L'interruzione dell'erogazione del finanziamento assistito da garanzia per l'ipotesi di cui all'articolo 3, comma 1, lettera d), ha luogo al verificarsi dei seguenti eventi: 
+ 
+                        
+                        
+                            a)
+                            
+                                avvio della procedura di fallimento del datore di lavoro, a far data dalla iscrizione della sentenza dichiarativa di fallimento nel Registro delle imprese ai sensi dell'articolo 17 della legge fallimentare; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                avvio della procedura di concordato preventivo, a far data dall'iscrizione del decreto di ammissione alla procedura nel Registro delle imprese ai sensi dell'articolo 166 della legge fallimentare; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                avvio della procedura di liquidazione coatta amministrativa, a far data dalla pubblicazione del provvedimento, adottato dall'Autorita' competente nella Gazzetta Ufficiale della Repubblica italiana ai sensi dell'articolo 197 della legge fallimentare; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                avvio della procedura di amministrazione straordinaria, a far data dall'iscrizione nel Registro delle imprese della sentenza dichiarativa dello stato di insolvenza ai sensi dell'articolo 8, comma 3, del decreto legislativo 8 luglio 1999, n. 270.
+
 Nei casi di interruzione delle erogazioni del finanziamento di cui al comma 5, l'intermediario aderente puo' richiedere l'intervento del Fondo di garanzia secondo procedure, termini e condizioni di cui all'articolo 10.
 
 ## Art. 8. — Misure compensative per i datori di lavoro
@@ -117,11 +276,97 @@ L'intermediario aderente, alla maturazione delle condizioni per il diritto alla 
 
 La predetta comunicazione evidenzia che, in caso di mancato adempimento nel termine di trenta giorni dall'avvenuta notifica, il Fondo di garanzia e' surrogato di diritto all'intermediario aderente nel privilegio di cui all'articolo 46 del decreto legislativo 1° settembre 1993, n. 385, e l'INPS e' legittimato ad operare la riscossione del credito non restituito avvalendosi della formazione dell'avviso di addebito con titolo esecutivo di cui all'articolo 30 del decreto-legge 31 maggio 2010, n. 78, convertito, con modificazioni, dalla legge 30 luglio 2010, n. 122, e di ogni altro strumento di riscossione previsto dalle disposizioni di legge. La comunicazione di cui al comma 1 riporta la data di scadenza del rimborso, ancorche' in misura parziale, del finanziamento assistito da garanzia, a decorrere dalla quale, in caso di inadempimento, il datore di lavoro e' tenuto a corrispondere, all'INPS, le sanzioni civili nella misura di cui all'articolo 116, comma 8, lettera a), della legge 22 dicembre 2000, n. 388.
 
+3.
+                    
+                        
+                            L'intermediario aderente, accertato il mancato rimborso, ancorche' in forma parziale, del finanziamento ai sensi dell'articolo 6, decorsi infruttuosamente 30 giorni dalla data dell'inadempimento, notifica all'INPS la richiesta di intervento del Fondo di garanzia, secondo l'apposita modulistica predisposta dall'INPS, corredata dei seguenti elementi informativi: 
+ 
+                        
+                        
+                            a)
+                            
+                                copia del contratto di finanziamento nel quale siano indicati i beni oggetto del privilegio di cui all'articolo 46 del decreto legislativo 1° settembre 1993, n. 385; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                copia della richiesta di rimborso di cui al comma 1, corredata degli estremi comprovanti l'avvenuta notifica; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                attestazione dei flussi finanziari afferenti al contratto di finanziamento, con evidenza della quota capitale e della quota a servizio del prestito.
+
+4.
+                    
+                        
+                            L'intermediario aderente, al verificarsi degli eventi di cui all'articolo 7, comma 5, avvia le procedure di recupero del credito mediante deposito dell'istanza di ammissione allo stato passivo o atto equivalente. Entro i successivi sessanta giorni notifica all'INPS la richiesta di intervento del Fondo di garanzia, secondo l'apposita modulistica predisposta dall'INPS, corredata almeno dei seguenti elementi informativi: 
+ 
+                        
+                        
+                            a)
+                            
+                                copia del contratto di finanziamento nel quale siano indicati i beni oggetto del privilegio di cui all'articolo 46 del decreto legislativo 1° settembre 1993, n. 385; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                copia della documentazione comprovante l'avvio delle procedure di recupero; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                attestazione dei flussi finanziari afferenti al contratto di finanziamento, con evidenza della quota capitale e della quota al servizio del prestito.
+
+5.
+                    
+                        
+                            La richiesta di intervento del Fondo di garanzia da parte dell'intermediario aderente deve essere presentata, a pena di decadenza: 
+ 
+                        
+                        
+                            a)
+                            
+                                per i finanziamenti da restituire entro il 30 ottobre 2018, nel termine del 31 marzo 2019; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                in relazione alle casistiche di cui all'articolo 7, commi 2, 3 e 5, nel termine di 6 mesi dalle decorrenze ivi previste, in relazione alle specifiche fattispecie.
+
 Entro 60 giorni dalla presentazione della richiesta di cui al comma 3, l'INPS perfeziona il pagamento, all'intermediario aderente, del finanziamento assistito da garanzia non rimborsato dal datore di lavoro nei limiti di importo di cui all'articolo 9, comma 3.
 
 Nel caso non risulti completa la documentazione di cui ai commi 3 e 4, il termine di cui al comma 6 e' sospeso fino alla data di ricezione della documentazione mancante. La garanzia del Fondo decade qualora la documentazione non pervenga all'INPS entro il termine di 90 giorni dalla data della richiesta della documentazione mancante.
 
 ## Art. 11. — Finanziamento del Fondo di garanzia
+
+1.
+                    
+                        
+                            Il Fondo di garanzia di cui all'articolo 9 e' alimentato: 
+ 
+                        
+                        
+                            a)
+                            
+                                dalla dotazione iniziale pari a 100 milioni di euro per l'anno 2015 a carico del bilancio dello Stato disposta dal comma 32, articolo 1, della legge di stabilita' 2015; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                dal pagamento del prezzo per la garanzia sul finanziamento a carico dei datori di lavoro che accedono al finanziamento pari alla misura del contributo mensile dello 0,20 per cento della retribuzione imponibile di cui all'articolo 12 della legge 30 aprile 1969, n. 153, e successive modificazioni, riferita ai lavoratori dipendenti per i quali il datore di lavoro ha richiesto il finanziamento della liquidazione mensile della Qu.I.R.
 
 L'INPS, sulla base dei dati acquisiti attraverso le dichiarazioni contributive dei datori di lavoro, della dotazione finanziaria complessiva di cui al comma 1 posta a finanziamento del Fondo di garanzia, nonche' degli interventi operati ai sensi degli articoli 9 e 10, effettua il monitoraggio delle misure previste dal presente decreto e riferisce le relative risultanze con cadenza mensile al Ministero dell'economia e delle finanze. La stessa INPS invia con cadenza mensile al medesimo Ministero dell'economia e delle finanze e al Ministero del lavoro e delle politiche sociali il valore complessivo delle certificazioni rilasciate e dei finanziamenti al fine di consentire la valutazione dell'adeguatezza della consistenza del fondo di garanzia.
 

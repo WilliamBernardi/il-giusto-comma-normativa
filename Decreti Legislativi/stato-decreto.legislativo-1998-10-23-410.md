@@ -8,8 +8,8 @@ codice_redazionale: 098G0463
 vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:29Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -57,6 +57,24 @@ Dopo il comma 4 dell'articolo 79 del decreto legislativo 25 febbraio 1995, n. 77
 
 ## Art. 6.
 
+1.
+                    
+                        
+                            All'articolo 87 del decreto legislativo 25 febbraio 1995, n. 77, sono apportate le seguenti modifiche:
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 2, dopo le parole: "entro un termine perentorio" sono inserite le seguenti: "di 60 giorni prorogabile per una sola volta di ulteriori 30 giorni con provvedimento motivato del predetto organo";
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 7-bis il primo periodo e' sostituito dai seguenti: "In caso di inosservanza del termine di cui al comma 1, di negligenza o di ritardi non giustificati negli adempimenti di competenza, puo' essere disposta la sostituzione di tutti o parte dei componenti dell'organo straordinario della liquidazione. In tali casi, il Ministro dell'interno, previo parere della commissione per la finanza e gli organici degli enti locali, dal quale si prescinde ove non espresso entro trenta giorni dalla richiesta, e sentiti gli interessati, propone al Presidente della Repubblica l'adozione del provvedimento di sostituzione.".
+
 ## Art. 7.
 
 All'articolo 88 del decreto legislativo 25 febbraio 1995, n. 77, dopo il comma 4 e' inserito il seguente:
@@ -67,6 +85,33 @@ All'articolo 88 del decreto legislativo 25 febbraio 1995, n. 77, dopo il comma 4
 Il comma 11 dell'articolo 89 del decreto legislativo 25 febbraio 1995, n. 77, e' abrogato.
 
 ## Art. 9.
+
+1.
+                    
+                        
+                            All'articolo 90-bis del decreto legislativo 25 febbraio 1995, n. 77, sono apportate le seguenti modifiche:
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 3 le parole: "del solo capitale in relazione all'anzianita' del debito," sono sostituite dalle seguenti: "del debito, in relazione all'anzianita' dello stesso," e dopo le parole: "a tal fine," sono inserite le seguenti: "entro sei mesi dalla data di conseguita disponibilita' del mutuo di cui all'articolo 88, comma 2,";
+
+                            
+                        
+                        
+                            b)
+                            
+                                il comma 5 e' sostituito dal seguente:
+ " 5. Si applicano, per il seguito della procedura, le disposizioni degli articoli precedenti, fatta eccezione per quelle concernenti la redazione ed il deposito del piano di rilevazione. Effettuati gli accantonamenti di cui al comma 4, l'organo straordinario di liquidazione provvede alla redazione del piano di estinzione. Qualora tutti i debiti siano liquidati nell'ambito della procedura semplificata e non sussistono debiti esclusi in tutto o in parte dalla massa passiva, l'organo straordinario provvede ad approvare direttamente il rendiconto della gestione della liquidazione ai sensi del comma 12 dell'articolo 89.";
+
+                            
+                        
+                        
+                            c)
+                            
+                                il comma 6 e' sostituito dal seguente:
+ " 6. I debiti transatti ai sensi del comma 3 sono indicati in un apposito elenco allegato al piano di estinzione della massa passiva.".
 
 ## Art. 10.
 
@@ -85,6 +130,33 @@ L'Unione province d'Italia, l'Associazione nazionale comuni italiani e l'Unione 
  7. Ai componenti dell'Osservatorio spettano il trattamento economico ed i rimborsi spese previsti per i componenti della commissione per la finanza e gli organici degli enti locali, con imputazione allo stesso capitolo di spesa.".
 
 ## Art. 12.
+
+1.
+                    
+                        
+                            All'articolo 18 del decreto legislativo 15 settembre 1997, n. 342, sono apportate le seguenti modifiche:
+ 
+                        
+                        
+                            a)
+                            
+                                dopo il comma 1 e' inserito il seguente comma:
+ "1-bis. Per gli enti per i quali alla data di entrata in vigore del presente decreto legislativo sono stati nominati gli organi straordinari di liquidazione, sono fatti salvi gli atti gia' acquisiti dagli organi stessi ed i provvedimenti da questi gia' adottati.";
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 2, primo periodo, dopo le parole: "si applicano" sono inserite le seguenti: "per quanto compatibili" e sono eliminate le seguenti: "sono fatti salvi gli atti gia' acquisiti dagli organi straordinari di liquidazione ed i provvedimenti da questi gia' adottati";
+
+                            
+                        
+                        
+                            c)
+                            
+                                il comma 4 e' sostituito dal seguente:
+ " 4. Agli enti per i quali e' stato depositato il piano di rilevazione ai sensi dell'articolo 89, comma 1, del decreto legislativo n. 77 del 1995, e successive modificazioni, si applicano, per quanto compatibili, le disposizioni di cui agli articoli 86, 87, 88, 89, 90 e 90-bis del decreto legislativo n. 77 del 1995. Qualora la massa attiva dovesse rivelarsi insufficiente al pagamento dell'intera massa passiva l'organo della liquidazione e' tenuto a verificare la possibilita' di attivare la procedura semplificata di cui al citato articolo 90-bis, adottando apposito motivato provvedimento. L'organo della liquidazione, qualora avesse provveduto ad erogare acconti ai sensi del citato articolo 89, comma 4, puo' offrire, nell'ambito della procedura semplificata di cui all'articolo 90-bis, un'ulteriore somma per la definizione transattiva del debito ammesso sino all'80 per cento dello stesso.".
 
 ## Art. 13.
 

@@ -8,8 +8,8 @@ codice_redazionale: 000G0308
 vigente: true
 source: normattiva-opendata
 collection: DPR
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:47:53Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -59,7 +59,61 @@ L'allegato I del decreto del Presidente della Repubblica 23 agosto 1982, n. 774,
  2. L'estratto di caffe' solido o in pasta non deve contenere altre sostanze se non quelle ottenute dall'estrazione del caffe'.
  L'estratto di caffe' liquido puo' contenere zuccheri alimentari, torrefatti o non, in quantita' non superiore al 12% in peso.".
 
+2.
+                    
+                        
+                            L'allegato II del decreto del Presidente della Repubblica 23 agosto 1982, n. 774, sostituito dal decreto ministeriale 3 dicembre 1987, n. 599, e' sostituito dal seguente:
+ "Allegato II Denominazioni e caratteristiche degli estratti di cicoria
+ 1. Con la denominazione di vendita "estratto di cicoria o "cicoria solubile o "cicoria istantanea si intendono i prodotti di cui all'articolo 2, aventi un tenore di sostanza secca ottenuta dalla cicoria:
+ 
+                        
+                        
+                            a)
+                            
+                                uguale o superiore al 95% in peso per l'estratto di cicoria;
+
+                            
+                        
+                        
+                            b)
+                            
+                                compreso tra il 70 e l'85% in peso per l'estratto di cicoria in pasta;
+
+                            
+                        
+                        
+                            c)
+                            
+                                compreso tra il 25 ed il 55% in peso per l'estratto di cicoria liquido.
+ 2. L'estratto di cicoria e l'estratto di cicoria in pasta non devono contenere quantita' superiore all'1%, in peso, di sostanze non ottenute dalla cicoria.
+ L'estratto di cicoria liquido puo' contenere zuccheri alimentari, torrefatti o non, in quantita' non superiore al 35% in peso.".
+
 ## Art. 5. — Abrogazioni
+
+1.
+                    
+                        
+                            A partire dalla data di entrata in vigore del presente regolamento sono abrogate le seguenti disposizioni:
+ 
+                        
+                        
+                            a)
+                            
+                                l'articolo 3, secondo comma, e l'articolo 6 del decreto del Presidente della Repubblica 23 agosto 1982, n. 774;
+
+                            
+                        
+                        
+                            b)
+                            
+                                gli articoli 6, primo comma, 8, 11, 18 e 19 del decreto del Presidente della Repubblica 16 febbraio 1973, n. 470;
+
+                            
+                        
+                        
+                            c)
+                            
+                                il decreto ministeriale 3 dicembre 1987, n. 599.
 
 ## Art. 6. — Entrata in vigore
 

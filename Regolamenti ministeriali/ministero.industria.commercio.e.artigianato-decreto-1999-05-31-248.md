@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
 vigenza_date: 2011-05-27
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:42Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -32,13 +32,191 @@ Udito il parere del Consiglio di Stato, espresso dalla sezione consultiva per gl
 
 ## Art. 1. — Definizioni
 
+1.
+                    
+                        
+                            Nel presente regolamento l'espressione:
+
+                        
+                        
+                            a)
+                            
+                                "Fondo", indica il fondo di garanzia a favore delle piccole e medie imprese costituito presso il Mediocredito centrale S.p.a. dall'articolo 2, comma 100, lettera a), della legge 23 dicembre 1996, n. 662, e successive modificazioni e integrazioni;
+                            
+                        
+                        
+                            b)
+                            
+                                "FEI", indica il Fondo europeo per gli investimenti;
+                            
+                        
+                        
+                            c)
+                            
+                                "comitato", indica l'organo competente a deliberare in materia di concessione della garanzia e di gestione del Fondo, sulla base di quanto previsto dal presente regolamento e dall'articolo 15, comma 3, della legge 7 agosto 1997, n. 266;
+                            
+                        
+                        
+                            d)
+                            
+                                "garanzia diretta", indica la garanzia prestata dal Fondo direttamente a favore dei soggetti finanziatori;
+                            
+                        
+                        
+                            e)
+                            
+                                "controgaranzia", indica la garanzia prestata dal Fondo a favore dei confidi e degli altri fondi di garanzia;
+                            
+                        
+                        
+                            f)
+                            
+                                "cogaranzia", indica la garanzia prestata dal Fondo direttamente a favore dei soggetti finanziatori e congiuntamente ai confidi, agli altri fondi di garanzia ovvero a fondi di garanzia istituiti nell'ambito della Unione europea o da essa cofinanziati;
+                            
+                        
+                        
+                            g)
+                            
+                                "PMI", indica le piccole e medie imprese, economicamente e finanziariamente sane, costituite anche in forma cooperativa, non iscritte all'albo delle imprese artigiane e in possesso dei parametri dimensionali di cui alla disciplina comunitaria in materia di aiuti di Stato alle PMI, vigenti alla data di presentazione della richiesta di ammissione ai benefici del Fondo; per piccole e medie imprese economicamente e finanziariamente sane si intendono quelle di cui venga accertata, sulla base della consistenza patrimoniale e finanziaria, la possibilita' di far fronte agli impegni finanziari derivanti dalle operazioni per le quali e' richiesto l'intervento del Fondo;
+                            
+                        
+                        
+                            h)
+                            
+                                "consorzi" indica i consorzi e le societa' consortili di cui agli articoli 17, 18, 19 e 23 della legge 5 ottobre 1991, n. 317, e le societa' consortili miste di cui all'articolo 27 della medesima legge, economicamente e finanziariamente sani; per consorzi economicamente e finanziariamente sani si intendono quelli di cui venga accertata, sulla base della consistenza patrimoniale e finanziaria, la possibilita' che gli stessi siano in grado di far fronte agli impegni finanziari derivanti dalle operazioni per le quali e' richiesto l'intervento del Fondo; le societa' consortili miste devono essere in possesso dei parametri dimensionali di cui alla disciplina comunitaria in materia di aiuti di Stato alle piccole e medie imprese, vigenti alla data di presentazione della richiesta di ammissione ai benefici del Fondo;
+                            
+                        
+                        
+                            i)
+                            
+                                "microimprese", indica le piccole imprese con un numero di dipendenti non superiore a 10;
+                            
+                        
+                        
+                            j)
+                            
+                                "banche", indica le banche iscritte all'albo di cui all'articolo 13 del decreto legislativo 1 settembre 1993, n. 385;
+                            
+                        
+                        
+                            k)
+                            
+                                "intermediari", indica gli intermediari finanziari iscritti nell'elenco speciale di cui all'articolo 107 del decreto legislativo 1 settembre 1993, n. 385;
+                            
+                        
+                        
+                            l)
+                            
+                                "S.F.I.S.", indica le societa' finanziarie per l'innovazione e lo sviluppo iscritte all'albo di cui all'articolo 2, comma 3, della legge 5 ottobre 1991, n. 317;
+                            
+                        
+                        
+                            m)
+                            
+                                "confidi", indica i consorzi di garanzia collettiva fidi di cui all'articolo 155, comma 4, del decreto legislativo 1 settembre 1993, n. 385;
+                            
+                        
+                        
+                            n)
+                            
+                                "altri fondi di garanzia", indica i fondi di garanzia gestiti da intermediari finanziari iscritti nell'elenco generale di cui all'articolo 106 del decreto legislativo 1 settembre 1993, n. 385;
+                            
+                        
+                        
+                            o)
+                            
+                                "finanziamenti a mediolungo termine", indica i finanziamenti, ivi compresa la locazione finanziaria, di durata superiore a 18 mesi e non superiore a 10 anni concessi a PMI e consorzi a fronte di investimenti sia materiali che immateriali nel territorio nazionale;
+                            
+                        
+                        
+                            p)
+                            
+                                "prestiti partecipativi", indica i finanziamenti di durata superiore a 18 mesi e non superiore a 10 anni la cui remunerazione e' composta da una parte fissa integrata da una parte variabile commisurata al risultato economico di esercizio dell'impresa finanziata, concessi a PMI e consorzi a fronte di investimenti sia materiali che immateriali nel territorio nazionale;
+                            
+                        
+                        
+                            q)
+                            
+                                "partecipazioni", indica le partecipazioni di minoranza, di durata non superiore a 10 anni, nel capitale di PMI, costituite in forma di societa' di capitali, acquisite a fronte di un piano di sviluppo produttivo dell'impresa;
+                            
+                        
+                        
+                            r)
+                            
+                                "costo di provvista" indica la media mensile dei rendimenti lordi dei titoli pubblici soggetti a tassazione ("RENDISTATO") cosi' come definita dall'articolo 1, lettera b), del decreto del Ministro del tesoro del 21 dicembre 1994 e resa nota dalla Banca d'Italia;
+                            
+                        
+                        
+                            s)
+                            
+                                "tasso di riferimento" indica il tasso di cui agli articoli 1 e 4 del decreto del Ministro del tesoro del 21 dicembre 1994;
+                            
+                        
+                        
+                            t)
+                            
+                                "contratti d'area" indica i contratti d'area di cui all'articolo 2, commi 203 e seguenti della legge 23 dicembre 1996, n. 662;
+                            
+                        
+                        
+                            u)
+                            
+                                "patti territoriali" indica i patti territoriali di cui all'articolo 2, commi 203 e seguenti della legge 23 dicembre 1996, n. 662.
+
 ## Art. 2. — Garanzia diretta
 
+1.
+                    
+                        
+                            La garanzia diretta e' concessa alle banche, agli intermediari e alle S.F.I.S. a fronte di finanziamenti a mediolungo termine, di prestiti partecipativi e della acquisizione di partecipazioni destinati alle PMI e ai consorzi, in misura non superiore al 60 per cento dell'ammontare di ciascuna operazione. Nei limiti di tale importo la garanzia diretta copre:
+ 
+                        
+                        
+                            a)
+                            
+                                nel caso dei finanziamenti a mediolungo termine e dei prestiti partecipativi, fino al 60 per cento della perdita definitiva subita dai soggetti richiedenti per capitale, interessi, contrattuali e di mora in misura non superiore al tasso di riferimento, e spese ivi comprese le spese legali giudiziali o stragiudiziali;
 
+                            
+                        
+                        
+                            b)
+                            
+                                nel caso delle partecipazioni, fino al 60 per cento della differenza tra i prezzi di acquisto e di cessione delle quote o delle azioni come risultanti dagli atti di compravendita o dai fissati bollati. Nei casi di liquidazione volontaria o concorsuale dell'impresa partecipata, per la determinazione del valore ipotetico di realizzo delle quote o azioni deve essere prodotta una perizia giurata contenente una valutazione periziale della partecipazione effettuata da un perito iscritto all'albo dei consulenti tecnici d'ufficio, i cui oneri sono a carico dei soggetti interessati.
+
+((2. Le quote percentuali di cui al comma 1 sono elevate all'80 per cento per le operazioni relative a PMI e consorzi ubicati nelle zone ammesse alla deroga di cui all'articolo 87.3.a) del Trattato CE per gli aiuti a finalita' regionale e per le operazioni relative a PMI e consorzi che sottoscrivono contratti d'area o patti territoriali))
 
 Le banche, gli intermediari e le S.F.I.S. presentano al Mediocredito centrale S.p.a. la richiesta di ammissione alla garanzia diretta, entro sei mesi dalla data della propria delibera. Sono improcedibili le richieste pervenute al Mediocredito centrale S.p.a. oltre il suddetto termine. La richiesta di ammissione alla garanzia diretta puo' essere presentata prima della delibera dell'operazione; in tal caso la delibera e' adottata entro tre mesi dalla decisione del comitato.
 
 Unitamente alla prima richiesta di ammissione alla garanzia diretta gli intermediari e le S.F.I.S. trasmettono al Mediocredito centrale S.p.a. copia dell'ultimo bilancio approvato e copia della documentazione comprovante l'iscrizione, rispettivamente, per gli intermediari nell'elenco speciale di cui all'articolo 107 del decreto legislativo 1 settembre 1993, n. 385, e per le S.F.I.S., nell'albo di cui all'articolo 2, comma 3, della legge 5 ottobre 1991, n. 317.
+
+5.
+                    
+                        
+                            Le banche, gli intermediari e le S.F.I.S. devono presentare al Mediocredito centrale S.p.a., per la eventuale conferma dell'efficacia della garanzia diretta, richiesta di variazione della delibera del comitato in caso di modifica:
+ 
+                        
+                        
+                            a)
+                            
+                                delle garanzie prestate in loro favore;
+
+                            
+                        
+                        
+                            b)
+                            
+                                delle finalita' di investimento inizialmente previste.
+
+6.
+                    
+                        
+                            Nel caso dei finanziamenti a mediolungo termine e dei prestiti partecipativi e' liquidato, su espressa richiesta e previo avvio delle procedure di recupero del credito, un acconto in misura non superiore al 50 per cento della somma delle rate scadute e non pagate e del capitale residuo alla data di avvio delle procedure stesse. Gli interessi relativi alle rate scadute e non pagate sono calcolati in misura non superiore al tasso di riferimento. La quota percentuale dell'acconto e' elevata al 65 per cento per le operazioni relative a PMI e consorzi ubicati nelle zone ammesse alla deroga di cui all'articolo 92.3. 
+                        
+                        
+                            a)
+                            
+                                del Trattato CE per gli aiuti a finalita' regionale e per le operazioni relative a PMI e consorzi che sottoscrivono contratti d'area o patti territoriali, purche' rientranti nei limiti previsti dalla vigente normativa comunitaria.
+Se a conclusione delle procedure di recupero la quota della perdita definitiva a carico del Fondo risulta inferiore all'acconto liquidato, la differenza e' restituita al Fondo, maggiorata di interessi calcolati al tasso di riferimento e decorrenti dalla data di erogazione dell'acconto.
 
 La garanzia diretta non e' efficace nel caso di inadempimento del debitore o di dismissione delle partecipazioni verificatisi nei dodici mesi successivi alla erogazione dei finanziamenti a mediolungo termine e dei prestiti partecipativi o alla acquisizione delle partecipazioni o nei dodici mesi successivi alla data di delibera del comitato se successiva a quella di erogazione dei finanziamenti a mediolungo termine e dei prestiti partecipativi o di acquisizione delle partecipazioni. Per i finanziamenti a mediolungo termine e i prestiti partecipativi di durata non superiore a trentasei mesi il termine e' ridotto a sei mesi. La garanzia diretta non e' altresi' efficace se i soggetti finanziatori non avviano le procedure di recupero entro diciotto mesi dalla data dell'inadempimento del debitore.
 
@@ -53,6 +231,24 @@ La controgaranzia e' concessa ai confidi e agli altri fondi di garanzia in misur
 I confidi e gli altri fondi di garanzia presentano al Mediocredito centrale S.p.a. la richiesta di ammissione alla controgaranzia entro sei mesi dalla data della delibera dell'operazione da parte dei soggetti finanziatori e della delibera della loro garanzia. Sono improcedibili le richieste pervenute al Mediocredito centrale S.p.a. oltre il suddetto termine. La richiesta di ammissione alla controgaranzia puo' essere presentata prima della delibera dell'operazione da parte dei soggetti finanziatori; in tal caso la delibera e' adottata entro tre mesi dalla decisione del comitato.
 
 Unitamente alla prima richiesta di ammissione alla controgaranzia i confidi e gli altri fondi di garanzia trasmettono al Mediocredito centrale S.p.a. copia dell'ultimo bilancio approvato e della documentazione comprovante l'iscrizione nell'elenco generale o nell'apposita sezione previsti dall'articolo 106 e dall'articolo 155, comma 4, del decreto legislativo 1 settembre 1993, n. 385.
+
+5.
+                    
+                        
+                            I confidi o gli altri fondi di garanzia devono presentare al Mediocredito centrale S.p.a. per la eventuale conferma dell'efficacia della controgaranzia, richiesta di variazione della delibera del comitato in caso di modifica:
+ 
+                        
+                        
+                            a)
+                            
+                                delle garanzie prestate in favore dei soggetti finanziatori;
+
+                            
+                        
+                        
+                            b)
+                            
+                                delle finalita' di investimento inizialmente previste.
 
 Su espressa richiesta, i fondi regionali di garanzia di cui al comma 9 o gli organismi gestori dei medesimi e i confidi che dispongano di capacita' di valutazione del merito di credito che risulta adeguata, sulla base di criteri oggettivi che saranno stabiliti dal comitato e approvati dal Ministro dell'industria, del commercio e dell'artigianato d'intesa con il Ministro per le politiche agricole, possono essere abilitati a certificare che le PMI e i consorzi risultano economicamente e finanziariamente sani, nonche' a presentare le richieste di controgaranzia con riferimento all'insieme delle operazioni deliberate.
 
@@ -73,6 +269,24 @@ Il Fondo puo' effettuare operazioni in cogaranzia con il FEI e con altri fondi d
 Nei limiti previsti dalla regola de minimis di cui alla comunicazione della Commissione europea 96/C 68/06 pubblicata nella Gazzetta ufficiale delle Comunita' europee del 6 marzo 1996, la garanzia diretta, fatta eccezione per le operazioni di consolidamento dei debiti a breve termine ai sensi dell' articolo 2 del decreto-legge 23 giugno 1995, n. 244, convertito, con modificazioni, dalla legge 8 agosto 1995, n. 341, e la controgaranzia sono concesse anche a fronte di operazioni finanziarie diverse dai finanziamenti a mediolungo termine, dai prestiti partecipativi e dalle partecipazioni, sempre che tali operazioni risultino direttamente finalizzate all'attivita' di impresa.
 
 ## Art. 6. — Riserve settoriali
+
+1.
+                    
+                        
+                            Il 10 per cento delle disponibilita' complessive del Fondo al primo gennaio di ogni anno e' riservato alle operazioni relative alle PMI e ai consorzi appartenenti a ciascuno dei seguenti settori:
+ 
+                        
+                        
+                            a)
+                            
+                                industria;
+
+                            
+                        
+                        
+                            b)
+                            
+                                commercio, turismo e servizi.
 
 ## Art. 6-bis. — ( (Imprese a prevalente partecipazione femminile
 
@@ -117,6 +331,24 @@ Il comitato di cui all'articolo 13, con delibera approvata dal Ministro dell'ind
 ## Art. 10. — Versamenti al Fondo
 
 Entro tre mesi dalla delibera del comitato di concessione della garanzia diretta, della controgaranzia o della cogaranzia i soggetti richiedenti devono versare al Fondo, a pena di decadenza, una commissione una tantum pari all'1 per cento dell'importo garantito dal Fondo.
+
+2.
+                    
+                        
+                            La commissione non e' dovuta:
+ 
+                        
+                        
+                            a)
+                            
+                                per le operazioni relative a PMI e consorzi ubicati nelle zone ammesse alla deroga di cui all'articolo 92.3. a) del Trattato CE per gli aiuti a finalita' regionale;
+
+                            
+                        
+                        
+                            b)
+                            
+                                per le operazioni relative a PMI e consorzi che sottoscrivono contratti d'area o patti territoriali.
 
 La commissione di cui al comma 1 e' ridotta del 50 per cento per le operazioni relative alle piccole imprese ubicate nei territori non rientranti nelle aree territoriali svantaggiate, cosi' come definite dalla Unione europea, e per le operazioni relative alle medie imprese ubicate nelle zone ammesse alla deroga di cui all'articolo 92.3. c) del Trattato CE per gli aiuti a finalita' regionale.
 

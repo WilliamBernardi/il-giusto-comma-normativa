@@ -8,8 +8,8 @@ vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
 vigenza_date: 2024-07-31
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:30Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -41,6 +41,52 @@ Il sistema della formazione italiana nel mondo ha come obiettivo fondamentale la
 Fatto salvo quanto previsto all'articolo 39, commi 1, 2 e 3, all'attuazione delle disposizioni del presente decreto legislativo si provvede con le risorse umane, strumentali e finanziarie disponibili a legislazione vigente.
 
 ## Art. 3. — Articolazione e coordinamento del sistema della formazione italiana nel mondo
+
+1.
+                        
+                            
+                                Il sistema della formazione italiana nel mondo si articola in: 
+ 
+                            
+                            
+                                a)
+                                
+                                    scuole statali all'estero; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    scuole paritarie all'estero; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    altre scuole italiane all'estero; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    associazione delle scuole italiane all'estero; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    corsi promossi dagli enti gestori e altre iniziative per la lingua e la cultura italiana all'estero; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    lettorati.
 
 Con decreto del Ministro degli affari esteri e della cooperazione internazionale e del Ministro dell'istruzione ((...)) e' istituita, senza nuovi o maggiori oneri a carico della finanza pubblica, una cabina di regia, formata da rappresentanti del Ministero degli affari esteri e della cooperazione internazionale e del Ministero dell'istruzione, ((...)), che assicura, mediante riunioni periodiche, il coordinamento strategico del sistema della formazione italiana nel mondo.
 
@@ -97,6 +143,81 @@ Nell'ambito delle scuole statali all'estero, il Ministero degli affari esteri e 
 
 ## Art. 10. — Iniziative per la lingua e la cultura italiana all'estero
 
+1.
+                        
+                            
+                                Il Ministero degli affari esteri e della cooperazione internazionale promuove e attua, anche con modalita' a distanza, le seguenti iniziative per l'apprendimento della lingua e cultura italiana: 
+ 
+                            
+                            
+                                a)
+                                
+                                    interventi per favorire il bilinguismo; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    corsi e moduli curriculari o extracurriculari nelle scuole locali, anche avvalendosi dell'attivita' degli enti gestori di cui all'articolo 11, per la diffusione della lingua e della cultura italiana; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    corsi di lingua e cultura italiana e altre iniziative linguistico-culturali offerti, a studenti di ogni ordine e grado con la collaborazione di universita' italiane.
+
+2.
+                        
+                            
+                                Il Ministero degli affari esteri e della cooperazione internazionale promuove ed attua, altresi', le seguenti iniziative, svolte anche con modalita' a distanza: 
+ 
+                            
+                            
+                                a)
+                                
+                                    classi o corsi preparatori per agevolare l'inserimento degli studenti italiani nei sistemi scolastici locali; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    iniziative di formazione, per i docenti locali, anche riguardanti le linee guida e le indicazioni nazionali dei percorsi di studio dell'ordinamento nazionale.
+
+3.
+                        
+                            
+                                Il Ministero degli affari esteri e della cooperazione internazionale, in collaborazione con il Ministero dell'istruzione ((...)), promuove e attua le iniziative di cui al presente articolo, sulla base dei seguenti criteri: 
+ 
+                            
+                            
+                                a)
+                                
+                                    programmazione dell'attivita' su base triennale coerentemente con il piano Paese di cui all'articolo 3; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    incentivazione di percorsi di miglioramento e di diversificazione dell'offerta formativa; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    innalzamento della professionalita' dei docenti locali, anche mediante l'individuazione di requisiti minimi per il reclutamento da parte degli enti gestori; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    incoraggiamento della diffusione di buone pratiche e di sistemi didattici innovativi, anche mediante reti di collaborazione con altri attori del sistema della formazione italiana nel mondo.
+
 ## Art. 11. — Enti gestori
 
 Le iniziative di cui all'articolo 10 possono essere realizzate da enti gestori non aventi fine di lucro attivi nella diffusione e promozione della lingua e della cultura italiana nel mondo, costituiti e organizzati secondo le forme giuridiche prescritte dalla normativa locale.
@@ -146,6 +267,67 @@ Pubblicita' del sistema della formazione italiana nel mondo
 
 Nell'ambito del Portale unico dei dati della scuola di cui all'articolo 1, comma 136, della legge n. 107 del 2015, e' istituita, a decorrere dall'anno scolastico 2017/2018, una sezione dedicata al sistema della formazione italiana nel mondo.
 
+2.
+                        
+                            
+                                Nella sezione di cui al comma 1, compatibilmente con le esigenze di sicurezza e di continuita' delle relazioni internazionali, sono pubblicati: 
+ 
+                            
+                            
+                                a)
+                                
+                                    i piani dell'offerta formativa delle istituzioni scolastiche statali e di quelle paritarie; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    i dati in forma aggregata degli studenti frequentanti le istituzioni scolastiche e le iniziative disciplinate dal presente decreto legislativo; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    i bilanci delle scuole; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    i dati pubblici afferenti al sistema di valutazione; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    i dati, anche curricolari, del personale destinato all'estero; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    i dati, i documenti e le informazioni utili a valutare l'avanzamento didattico, tecnologico e d'innovazione del sistema scolastico all'estero; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    le iniziative per la lingua e la cultura italiana all'estero realizzate nell'ambito del sistema della formazione italiana nel mondo; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    
+                                        ((LETTERA ABROGATA DAL D.L. 27 SETTEMBRE 2021, N. 130, CONVERTITO CON MODIFICAZIONI DALLA L. 25 NOVEMBRE 2021, N. 171)).
+
 ## - Capo III Personale inviato all'estero   Sezione I   Stato giuridico
 
 ## Art. 18. — Categorie e contingenti di personale
@@ -162,6 +344,38 @@ L'attivita' del personale amministrativo in servizio presso rappresentanze diplo
 ## Art. 19. — Selezione
 
 Il personale da destinare all'estero ai sensi del presente capo e' scelto tra i dipendenti con contratto a tempo indeterminato che, dopo il periodo di prova, abbiano prestato in Italia almeno tre anni di effettivo servizio nei ruoli corrispondenti alle funzioni da svolgere all'estero.
+
+2.
+                        
+                            
+                                Il personale e' selezionato dal Ministero degli affari esteri e della cooperazione internazionale sulla base di un bando emanato sentito il Ministero dell'istruzione. Il bando disciplina: (2) 
+ 
+                            
+                            
+                                a)
+                                
+                                    le procedure, i requisiti e i criteri oggettivi per la selezione del personale in possesso del profilo professionale di cui all'articolo 14, in modo da garantire la massima pubblicita' e trasparenza in ogni fase della selezione; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le lingue richieste per i Paesi di destinazione e i relativi livelli di certificazione; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    i titoli culturali, professionali e di servizio valutabili, pertinenti alle funzioni da svolgere all'estero. Sono valutati, quali titoli di preferenza, i titoli rilasciati da universita' o da altri istituti di formazione superiore equiparati, sia italiani sia stranieri, previo riconoscimento, che sono stati conseguiti in un corso che contempli almeno 60 crediti formativi universitari ovvero almeno un anno accademico svolto, in particolare, nell'ambito delle discipline dell'interculturalita' e dell'insegnamento dell'italiano come lingua seconda o lingua straniera; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    le modalita' di svolgimento, eventualmente anche telematiche e comunque al di fuori dell'orario delle lezioni, di un colloquio obbligatorio comprensivo dell'accertamento linguistico.
 
 Ai membri della commissione e ai candidati alla selezione di cui al comma 2 non spettano compensi, gettoni o indennita' di presenza ne' rimborsi spese comunque denominati.
 
@@ -256,7 +470,71 @@ Il trattamento economico, previsto per il servizio prestato in Italia, del perso
 
 ## Art. 29. — Trattamento economico all'estero
 
+1.
+                        
+                            
+                                Al personale di cui al presente capo ad eccezione di quello di cui all'articolo 24 oltre allo stipendio e agli assegni di carattere fisso e continuativo previsti per il territorio nazionale, tranne che per tali assegni sia diversamente disposto, compete, dal giorno di assunzione fino a quello di cessazione dalle funzioni in sede, uno speciale assegno di sede, non avente carattere retributivo, per sopperire agli oneri derivanti dal servizio all'estero. Tale assegno e' costituito: 
+ 
+                            
+                            
+                                a)
+                                
+                                    dall'assegno base di cui al comma 3; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    dalle maggiorazioni relative alle singole sedi determinate secondo coefficienti da fissarsi con decreto del Ministero degli affari esteri e della cooperazione internazionale, di concerto con il Ministro dell'economia e delle finanze, sentita la commissione di cui all'articolo 172 del decreto del Presidente della Repubblica 5 gennaio 1967, n. 18.
+
 I coefficienti sono fissati sulla base del costo della vita e delle sue variazioni risultanti da rilevamenti obiettivi effettuati avvalendosi di agenzie specializzate a livello internazionale o dei dati statistici elaborati dalle Nazioni Unite e dall'Unione europea, con particolare riferimento al costo dei servizi. Agli assegni si applicano le maggiorazioni per situazioni di rischio e disagio stabilite per il personale di ruolo del Ministero degli affari esteri e della cooperazione internazionale in servizio nella stessa sede.
+
+3.
+                        
+                            
+                                Gli assegni mensili lordi base di cui al comma 1, lettera a), sono cosi' determinati: 
+ 
+                            
+                            
+                                a)
+                                
+                                    dirigente scolastico: euro 800; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    docente di scuola secondaria di secondo grado: euro 650; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    docente di scuola secondaria di primo grado / lettore: 600; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    insegnante di scuola primaria o dell'infanzia: euro 570; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    direttore dei servizi generali e amministrativi: euro 570; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    assistente amministrativo: euro 490.
 
 Per lo svolgimento delle funzioni di cui all'articolo 5, comma 1, secondo periodo, o all'articolo 12 comma 2, spetta una maggiorazione del trattamento economico di cui al presente articolo in misura pari a un dodicesimo dell'assegno di sede di cui al comma 1.
 
@@ -360,6 +638,74 @@ All'articolo 1, comma 59, della legge 24 dicembre 2012, n. 228 dopo le parole: �
 ## Art. 38. — Disposizioni di coordinamento ed abrogazioni
 
 A decorrere dal primo giorno dell'anno scolastico successivo all'entrata in vigore del presente decreto legislativo, all'articolo 1, comma 9, lettera a), della legge 27 ottobre 1988, n. 470, dopo la parola: «stagionale» sono aggiunte le seguenti «, nonche' dirigenti scolastici, docenti e personale amministrativo della scuola collocati fuori ruolo ed inviati all'estero nell'ambito di attivita' scolastiche fuori dal territorio nazionale».
+
+2.
+                        
+                            
+                                Ferme restando le disposizioni degli accordi internazionali vigenti in materia, sono abrogate le seguenti disposizioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    
+                                        legge 6 ottobre 1962, n. 1546; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    
+                                        decreto del Presidente della Repubblica 23 gennaio 1967, n. 215; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    decreto del Ministro degli affari esteri e del Ministro della pubblica istruzione del 20 luglio 1969; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    
+                                        legge 26 maggio 1975, n. 327; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    
+                                        legge 22 dicembre 1980, n. 924; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    
+                                        legge 10 giugno 1985, n. 285; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    gli articoli da 625 a 675 del testo unico di cui al decreto legislativo 16 aprile 1994, n. 297; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    il capo III del decreto legislativo 27 febbraio 1998, n. 62; 
+ l) articolo 1-quater del decreto-legge 3 agosto 2004, n. 220, convertito, con modificazioni, dalla legge 19 ottobre 2004, n. 257; 
+ m) articolo 2, comma 4-novies, del decreto-legge 29 dicembre 2010, n. 225, convertito, con modificazioni, dalla legge 26 febbraio 2011, n. 10; 
+ n) articolo 14, commi 11, 12 e 12-bis del decreto-legge 6 luglio 2012, n. 95 convertito, con modificazioni, dalla legge 7 agosto 2012, n. 135.
 
 ## Art. 39. — Copertura finanziaria
 

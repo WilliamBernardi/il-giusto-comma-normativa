@@ -7,8 +7,8 @@ urn: urn:nir:ministero.lavoro.e.politiche.sociali:decreto:2016-05-25;183
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:38Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -42,6 +42,116 @@ Udito il parere del Consiglio di Stato reso dalla Sezione consultiva per gli att
 
 ## Art. 1. — Definizioni
 
+1.
+                    
+                        
+                            Ai fini del presente decreto si intende per: 
+ 
+                        
+                        
+                            a)
+                            
+                                «SINP», il sistema informativo nazionale per la prevenzione nei luoghi di lavoro di cui all'articolo 8 del decreto legislativo n. 81 del 2008; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                «Enti», le amministrazioni che costituiscono il SINP: il Ministero del lavoro e delle politiche sociali, il Ministero della salute, il Ministero dell'interno, le regioni e le province autonome di Trento e Bolzano, l'Istituto nazionale per l'assicurazione contro gli infortuni sul lavoro (INAIL); 
+
+                            
+                        
+                        
+                            c)
+                            
+                                «SPC», il sistema pubblico di connettivita' di cui agli articoli 73 e seguenti del decreto legislativo n. 82 del 2005; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                «servizi informatici», le procedure applicative messe a disposizione dalle amministrazioni per consentire la trasmissione informatica dei dati di cui all'articolo 3, secondo le modalita' stabilite all'articolo 4, del presente decreto, in conformita' a quanto previsto dall'articolo 71 del decreto legislativo n. 82 del 2005 ; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                «regole tecniche», le disposizioni di cui al decreto del Presidente del Consiglio dei ministri 1° aprile 2008, pubblicato nella Gazzetta Ufficiale 21 giugno 2008, n. 144, recante regole tecniche e di sicurezza per il funzionamento del sistema pubblico di connettivita' (SPC) previste dall'articolo 71 del decreto legislativo n. 82 del 2005 nonche' le modalita' definite nelle specifiche e nei documenti tecnico-operativi pubblicati dall'Agenzia per l'Italia Digitale (gia' DigitPA) a decorrere dal 14 ottobre 2005 e successivi aggiornamenti, recanti i requisiti del sistema pubblico di cooperazione (SPCoop) e le specifiche e standard per l'interoperabilita', cooperazione applicativa e accesso (SICA); 
+
+                            
+                        
+                        
+                            f)
+                            
+                                «cooperazione applicativa», l'interazione tra i sistemi informatici delle pubbliche amministrazioni regolamentata dalle regole tecniche SPCoop di cui alla lettera e), che avviene tramite le porte di dominio; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                «accordo di servizio», atto tecnico che ha lo scopo di definire le prestazioni del servizio e le modalita' di erogazione/fruizione, ovvero le funzionalita' del servizio, le interfacce di scambio dei messaggi tra erogatore e fruitore, i requisiti di qualita' del servizio dell'erogazione/fruizione, e i requisiti di sicurezza dell'erogazione/fruizione. E' redatto dall'erogatore in collaborazione con i fruitori secondo le regole tecniche di cui alla lettera e) e viene reso pubblico dall'erogatore attraverso le infrastrutture condivise dal SPC (registro SICA).
+L'erogatore e' inoltre responsabile della gestione del ciclo di vita dei propri accordi di sevizio e dell'erogazione del servizio in conformita' con gli accordi; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                «porta di dominio», componente architetturale del SPC attraverso il quale si accede al dominio applicativo dell'Amministrazione per l'utilizzo dei servizi applicativi; 
+
+                            
+                        
+                        
+                            i)
+                            
+                                «credenziali di autenticazione», i dati ed i dispositivi, in possesso di una persona, da questa conosciuti o ad essa univocamente correlati, utilizzati per l'autenticazione informatica; 
+
+                            
+                        
+                        
+                            l)
+                            
+                                «profilo di autorizzazione», l'insieme delle informazioni, univocamente associate a una persona, che consente di individuare a quali dati essa puo' accedere, nonche' i trattamenti a essa consentiti; 
+
+                            
+                        
+                        
+                            m)
+                            
+                                «rete infranet», rete per l'interconnessione e la cooperazione in ambito SPC tra i sistemi informativi della pubblica amministrazione; 
+
+                            
+                        
+                        
+                            n)
+                            
+                                «identita' federata», gestione delle identita' digitali in modo trasversale a due o piu' organizzazioni federate come definita in SPC; 
+
+                            
+                        
+                        
+                            o)
+                            
+                                «tracciatura», tracciamento delle operazioni compiute con identificazione dell'utente incaricato che accede ai dati; 
+
+                            
+                        
+                        
+                            p)
+                            
+                                «carta nazionale dei servizi», il documento rilasciato su supporto informatico per consentire l'accesso per via telematica ai servizi erogati dalle pubbliche amministrazioni; 
+
+                            
+                        
+                        
+                            q)
+                            
+                                «carta d'identita' elettronica», il documento d'identita' munito di elementi per l'identificazione fisica del titolare rilasciato su supporto informatico dalle amministrazioni comunali con la prevalente finalita' di dimostrare l'identita' anagrafica del suo titolare.
+
 Per le altre definizioni in materia di «salute e sicurezza nei luoghi di lavoro», si fa riferimento a quelle contenute nell'articolo 2 del decreto legislativo n. 81 del 2008;
 
 Per le altre definizioni in materia di «amministrazione digitale» si fa riferimento a quelle contenute nel Codice dell'amministrazione digitale, di cui al decreto legislativo n. 82 del 2005.
@@ -53,6 +163,52 @@ Per le altre definizioni in materia di «protezione dei dati personali» si fa r
 Finalita' ed ambito di applicazione
 
 Il SINP si basa sulla cooperazione applicativa tra gli enti indicati all'articolo 1, comma 1, lettera b).
+
+2.
+                    
+                        
+                            Il presente decreto definisce: 
+ 
+                        
+                        
+                            a)
+                            
+                                il funzionamento del SINP; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                i fornitori e i fruitori di dati e di informazioni; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                i dati del SINP e i relativi standard; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                le regole tecniche finalizzate alla trasmissione informatica dei dati tra gli enti al fine di realizzare il SINP; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                le regole per il trattamento dei dati nell'ambito del SINP; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                le misure di sicurezza e le responsabilita' nell'ambito del SINP.
 
 Per quanto concerne il monitoraggio della produzione e della qualita' dei dati contenuti nel SINP si applicano le regole adottate dall'INAIL che sono rese disponibili agli enti indicati all'articolo 1, comma 1, lettera b).
 
@@ -68,6 +224,98 @@ Il SINP rende disponibile agli enti fruitori, di cui all'allegato E), strumenti 
 Il SINP contiene unicamente i dati individuati nell'allegato A) e periodicamente conferiti dagli enti di cui all'articolo 1, comma 1, lettera b).
 
 Per l'attuazione delle previsioni di cui all'articolo 8, comma 4, del decreto legislativo n. 81 del 2008 le forze armate, le forze di polizia e il Corpo nazionale dei vigili del fuoco partecipano al sistema informativo relativamente alle attivita' operative e addestrative con i dati relativi agli infortuni e alle malattie professionali del personale appartenente ai rispettivi ruoli organici. I predetti dati, preventivamente anonimizzati e aggregati, sono comunicati al SINP per il tramite dell'INAIL con cadenza annuale, per fini statistici. Per le forze armate, compresa l'Arma dei carabinieri, i dati sono forniti dal Ministero della difesa. Per la Polizia di Stato e il Corpo nazionale dei vigili del fuoco i dati sono forniti dal Ministero dell'interno e, per la Guardia di finanza, dal Ministero dell'economia e delle finanze, per la Polizia penitenziaria dal Ministero della giustizia, per il Corpo forestale dello Stato dal Ministero delle politiche agricole, alimentari e forestali.
+
+3.
+                    
+                        
+                            Le informazioni che derivano dalla elaborazione dei dati contenuti nel SINP, in conformita' con quanto disposto dall'articolo 8, comma 6, del decreto legislativo n. 81 del 2008 per le finalita' di orientamento, programmazione, pianificazione e valutazione dell'efficacia di azioni di prevenzione degli infortuni e delle malattie correlate al lavoro e di indirizzo delle relative attivita' di vigilanza, in termini di progressivo miglioramento dei livelli di efficacia degli interventi, devono consentire la conoscenza necessaria a tali finalita', con particolare riguardo a: 
+ 
+                        
+                        
+                            a)
+                            
+                                quadro produttivo e occupazionale analizzato tenendo conto dei settori produttivi, delle dimensioni, della consistenza e della qualificazione delle imprese e delle Unita' produttive, nonche' delle dinamiche occupazionali, della distribuzione e della composizione della forza lavoro, secondo la classificazione per categoria di dati di cui all'allegato A), fonte informativa di provenienza per competenza e ruoli in materia di salute e sicurezza sul lavoro, tipologia di dati e operazioni eseguibili sui dati sensibili e giudiziari di cui all'allegato F); 
+
+                            
+                        
+                        
+                            b)
+                            
+                                quadro dei rischi, anche in un'ottica di genere, che origina dalla elaborazione di dati personali e giudiziari dei lavoratori e dati sensibili, ivi compresi i dati dei registri degli esposti previsti dalla normativa in materia di salute e sicurezza sul lavoro, degli elenchi di mansioni speciali soggette ad abilitazioni, nonche' i dati di cui all'articolo 40, comma 1, del decreto legislativo n. 81 del 2008 secondo la classificazione per categoria di dati di cui all'allegato A), fonte informativa di provenienza per competenze e ruoli in materia di salute e sicurezza sul lavoro, tipologia di dati e operazioni eseguibili sui dati sensibili e giudiziari di cui all'allegato F); 
+
+                            
+                        
+                        
+                            c)
+                            
+                                per ogni settore ed attivita', ivi compreso il settore marittimo, quadro di salute e sicurezza dei lavoratori e delle lavoratrici comprendente i dati sugli eventi e problemi di salute relativi a infortuni o malattie professionali da lavoro, eventi morbosi e mortali potenzialmente connettibili al lavoro derivanti dalle fonti gia' individuate dal protocollo INAIL - Regioni - ISPESL 2007 richiamato dall'articolo 8 del decreto legislativo n. 81 del 2008, nonche' dalle comunicazioni relative agli infortuni superiori a un giorno di cui all'articolo 18 del decreto legislativo n. 81 del 2008 (ex registri infortuni), dalle banche dati, dai sistemi di sorveglianza, dai registri secondo la classificazione per categoria di dati di cui all'allegato A), fonte informativa di provenienza, per competenze e ruoli in materia di salute e sicurezza sul lavoro, tipologia di dati e operazioni eseguibili sui dati sensibili e giudiziari di cui all'allegato F); 
+
+                            
+                        
+                        
+                            d)
+                            
+                                quadro delle azioni di prevenzione delle istituzioni preposte, derivanti dai piani regionali e territoriali di prevenzione elaborati secondo le indicazioni dei comitati di coordinamento regionale di cui all'articolo 7 del decreto legislativo n. 81 del 2008, dai piani di settore dell'INAIL, implementati a seguito dell'incorporazione di ISPESL e IPSEMA (quali azioni di sistema, soluzioni sperimentate, metodologie, buone pratiche) in relazione alle priorita' di intervento individuate secondo la classificazione per categoria di dati di cui all'allegato A), fonte informativa di provenienza per competenze e ruoli in materia di salute e sicurezza sul lavoro e tipologia di dati di cui all'allegato F); 
+
+                            
+                        
+                        
+                            e)
+                            
+                                quadro degli interventi di vigilanza delle istituzioni preposte, comprendente i dati analitici e quelli relativi alle violazioni in materia di tutela della salute e sicurezza sul lavoro, acquisiti nello svolgimento delle attivita' ispettive condotte dai soggetti preposti agli specifici compiti di vigilanza e controllo, in ogni settore di attivita' ivi compreso il settore marittimo, secondo la classificazione per categoria di dati di cui all'allegato A), fonte informativa di provenienza per competenze e ruoli in materia di salute e sicurezza sul lavoro e tipologia di dati di cui all'allegato F); 
+
+                            
+                        
+                        
+                            f)
+                            
+                                il quadro relativo agli infortuni sotto la soglia indennizzabile dall'INAIL, verificatisi in ogni settore di attivita' secondo la classificazione per categoria di dati di cui all'allegato A), fonte informativa di provenienza per competenza e ruoli in materia di salute e sicurezza sul lavoro, tipologia di dati e operazioni eseguibili sui dati sensibili di cui all'allegato F);
+
+4.
+                    
+                        
+                            Sono parte integrante del presente decreto i seguenti allegati: 
+ 
+                        
+                        
+                            a)
+                            
+                                allegato A) «schema dati SINP», contenente la descrizione puntuale dei dati di cui ai commi 2 e 3; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                allegato B) «sistemi di classificazione», contenente tabelle ausiliarie utilizzate per assegnare i valori ad alcuni dei campi contenuti nell'allegato A); 
+
+                            
+                        
+                        
+                            c)
+                            
+                                allegato C) «formati di trasmissione dei dati del sistema informativo SINP»; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                allegato D) «servizi di cooperazione applicativa del SINP»; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                allegato E) «Enti fruitori», contenente l'indicazione dei soggetti legittimati ad accedere ai dati di cui all'allegato A), in base alle specifiche funzioni in concreto rivestite, anche in relazione alla rispettiva competenza territoriale e, per ciascun soggetto, le macrocategorie di dati di cui all'articolo 8, comma 6, del decreto legislativo n. 81 del 2008, le fonti normative, le rilevanti finalita' di interesse pubblico, le tipologie di dati ai sensi del decreto legislativo n. 196 del 2003 e le operazioni eseguibili sui dati sensibili e giudiziari; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                allegato F) «Enti fornitori», contenente per ciascuna macrocategoria di cui all'articolo 8, comma 6, del decreto legislativo n. 81 del 2008, le categorie dei dati di cui all'allegato A), le fonti informative di provenienza per competenza e ruoli degli enti fornitori, le tipologie di dati ai sensi del decreto legislativo n. 196 del 2003 e le operazioni eseguibili sui dati sensibili e giudiziari.
 
 Gli allegati di cui al comma 4, fermo restando quanto previsto all'articolo 2, comma 5, sono modificabili con decreto del Ministro del lavoro e delle politiche sociali e del Ministro della salute, di concerto con il Ministro per la semplificazione e la pubblica amministrazione, sentito il garante per la protezione dei dati personali, acquisito il parere della Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome di Trento e di Bolzano, nel rispetto dei criteri fissati dal presente decreto e della vigente normativa in materia di protezione dei dati personali.
 Tali modifiche possono essere proposte da ciascun ente al fine di consentire miglioramenti e adeguamenti delle funzionalita' del SINP e sono sottoposte alle valutazioni del tavolo tecnico di cui all'articolo 5.
@@ -90,6 +338,66 @@ I servizi di cooperazione applicativa saranno pubblicati nell'apposito catalogo 
  e il coordinamento del SINP
 
 Per l'attivita' di sviluppo, raccordo e coordinamento del SINP viene istituito, un tavolo tecnico per lo sviluppo e il coordinamento del SINP composto da due rappresentanti del Ministero del lavoro e delle politiche sociali, di cui uno con funzioni di coordinatore del tavolo, da un rappresentante del Ministero della salute, da un rappresentante del Ministero per la semplificazione e la pubblica amministrazione, da un rappresentante del Ministero dell'interno, da un rappresentante del Ministero della difesa, da un rappresentante del Ministero dell'economia e delle finanze, da due rappresentanti dell'INAIL e da sette rappresentanti delle regioni e delle province autonome di Trento e di Bolzano designati dalla Conferenza dei presidenti delle regioni e delle province autonome di Trento e di Bolzano. Per le ipotesi di cui al comma 2, lettera c), sono invitati in relazione a specifiche esigenze di approfondimento, rappresentanti dei ministeri competenti.
+
+2.
+                    
+                        
+                            Il tavolo tecnico, nel rispetto degli indirizzi e delle regole forniti dalla Commissione di coordinamento del Sistema pubblico di connettivita' e in conformita' con le linee guida, le modalita' operative, il funzionamento dei servizi e le procedure per la cooperazione applicativa emanati dalla Commissione di coordinamento per gli indirizzi strategici del Sistema pubblico di connettivita' di cui all'articolo 79 del decreto legislativo n. 82 del 2005, sulla base degli indirizzi del comitato di cui all'articolo 5 del decreto legislativo n. 81 del 2008 e a supporto della commissione di cui all'articolo 6 del medesimo decreto legislativo: 
+ 
+                        
+                        
+                            a)
+                            
+                                verifica l'adeguatezza delle modalita' tecniche di funzionamento del SINP, in funzione delle esigenze di programmazione, monitoraggio e valutazione delle politiche di sicurezza nei luoghi di lavoro, individuate dal comitato di cui all'articolo 5 del decreto legislativo n. 81 del 2008; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                garantisce la rispondenza dei contenuti dei flussi informativi alle finalita' stabilite dal decreto legislativo n. 81 del 2008; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                formula proposte in relazione all'incremento quantitativo/qualitativo del SINP tenendo conto delle risorse professionali, economiche e strumentali a disposizione e coordina le fasi di sviluppo progettuale e organizzativo/funzionale anche con riguardo ai profili di ricerca e impostazione relazionale con altri enti, istituzioni, organismi fonti di dati/informazioni utili all'accrescimento delle conoscenze e delle conseguenti azioni del sistema prevenzionale; nell'ambito di tale attivita' acquisisce il concorso degli organismi paritetici e degli istituti di settore a carattere scientifico, ivi compresi quelli che si occupano della salute delle donne; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                definisce modalita' tecnico-operative per migliorare l'accessibilita', la fruibilita' e la diffusione delle informazioni, formulando proposte di sviluppo tenendo conto delle risorse professionali, economiche e strumentali; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                produce, sulla base degli indirizzi del comitato di cui all'articolo 5 del decreto legislativo n. 81 del 2008, i report nazionali per le finalita' di ruolo e le cadenze temporali previste dal predetto decreto legislativo, e altri report su richiesta o quale proposta tecnico/scientifica di evoluzione della potenzialita' della reportistica, da sottoporre nelle sedi competenti, avvalendosi anche del contributo del Consiglio nazionale dell'economia e del lavoro (CNEL), secondo le richieste formulate dal comitato medesimo; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                svolge attivita' di supporto per le esigenze, anche di informazione statistica, degli enti che concorrono alla realizzazione del SINP ai vari livelli di intervento; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                formula proposte in merito a iniziative di comunicazione al fine di diffondere le conoscenze derivanti dall'attivita' svolta; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                promuove iniziative di aggiornamento degli operatori, ai vari livelli territoriali, sullo stato di sviluppo del SINP e sull'utilizzo delle informazioni.
 
 Il tavolo tecnico ha sede operativa presso l'INAIL che garantisce i relativi servizi di segreteria.
 
@@ -137,6 +445,38 @@ Nel caso di utilizzo del modello di «identita' federata», sia nell'ambito dell
 Ciascun ente individua il responsabile preposto alla definizione dei profili di autorizzazione, in relazione al ruolo istituzionale, alle funzioni svolte e all'ambito territoriale delle azioni di competenza, alla designazione dei soggetti (utenti e amministratori) e dei rispettivi privilegi nonche' alla gestione delle modalita' di conferimento, sospensione e revoca dei profili di accesso. Le richieste di accesso al SINP devono indicare espressamente la specifica attivita' al cui svolgimento e' preordinata la consultazione nell'ambito delle competenze istituzionali del soggetto richiedente.
 
 L'INAIL garantisce mediante il proprio sistema di autorizzazione l'accesso selettivo ai servizi del SINP in relazione ai profili del soggetto richiedente.
+
+11.
+                    
+                        
+                            L'accesso ai servizi del SINP richiede la stipula di una convenzione, redatta in conformita' alle prescrizioni contenute nelle linee guida emanate dall'Agenzia per l'Italia digitale ai sensi dell'articolo 58, comma 2, del Codice dell'amministrazione digitale, che stabilisce: 
+ 
+                        
+                        
+                            a)
+                            
+                                i profili di cui agli accordi di servizio per la cooperazione applicativa abilitati con la convenzione; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                le modalita' di scambio e di condivisione delle informazioni sulle identita' e sui ruoli; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                le procedure per l'individuazione e configurazione dei profili di autorizzazione; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                le figure di responsabilita' individuate all'interno di ogni ente per la gestione delle regole tecniche organizzative previste nel presente decreto.
 
 ## Art. 8. — Partecipazione delle parti sociali
 

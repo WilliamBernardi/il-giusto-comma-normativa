@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: DPR
 vigenza_date: 2009-12-14
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:47:46Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -165,6 +165,38 @@ I contratti collettivi di lavoro devono informarsi al principio che i salari ad 
 ((
 
 I lavori che hanno luogo nelle attivita' estrattive devono essere denunciati all'autorita' di vigilanza competente almeno otto giorni prima dell'inizio o delle ripresa.
+
+2.
+                        
+                            
+                                La denuncia e' fatta dal titolare o da un suo procuratore con lettera raccomandata con avviso di ricevimento e deve indicare, per ogni luogo di lavoro: 
+ 
+                            
+                            
+                                a)
+                                
+                                    gli estremi del titolo minerario o dell'autorizzazione di cava; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'ubicazione dei lavori e se questi sono a cielo aperto o in sotterraneo; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il nome, cognome e domicilio del direttore responsabile; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    il nome, cognome e domicilio dei sorveglianti dei lavori, per ciascun turno.
 
 Nel caso di societa' regolarmente costituite deve essere indicato il legale rappresentante.
 
@@ -530,6 +562,31 @@ In cantiere devono essere predisposte riserve di fango in quantita' pari almeno 
 ## Art. 82.
 
 ((
+
+1.
+                        
+                            
+                                Il titolare prevede: 
+ 
+                            
+                            
+                                a)
+                                
+                                    le misure di controllo del fango e a testa pozzo in riferimento alle diverse situazioni operative; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    i provvedimenti di sicurezza in caso di comportamenti anomali del pozzo, con l'indicazione del personale incaricato di attuare le procedure; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    un piano di emergenza per far fronte ad avvenute eruzioni di fluidi di strato indicando modalita' di intervento, mezzi da coinvolgere, servizi e personale da utilizzare.
 
 2. Il direttore responsabile in caso di avvenuta eruzione ne da' immediata comunicazione all'autorita' di protezione civile e all'autorita' di vigilanza. L'autorita' di protezione civile provvede al coordinamento delle operazioni necessarie a fronteggiare l'evento con riferimento alla tutela della pubblica incolumita', avvalendosi dell'autorita' di vigilanza per gli interventi di natura tecnica necessari alla messa in sicurezza del luogo di lavoro interessato ed alla ripresa del controllo del pozzo))
 

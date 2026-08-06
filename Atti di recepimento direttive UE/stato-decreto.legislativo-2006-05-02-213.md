@@ -9,7 +9,7 @@ vigente: true
 source: normattiva-opendata
 collection: Atti di recepimento direttive UE
 zip_date: 2026-07-30
-fetched_at: 2026-08-02T09:40:50Z
+fetched_at: 2026-07-30
 ---
 
 DECRETO LEGISLATIVO
@@ -33,6 +33,24 @@ L'istituzione dei sistemi di segnalazione degli eventi di cui ai commi 1 e 2 ha 
 
 ## Art. 2. — Definizioni
 
+1.
+                    
+                        
+                            Ai fini del presente decreto legislativo si intende per:
+ 
+                        
+                        
+                            a)
+                            
+                                «evento»: qualsiasi interruzione operativa, difetto, guasto o altra situazione irregolare che abbia o possa aver influito sulla sicurezza del volo e che non abbia causato un incidente o un inconveniente grave ai sensi dell'articolo 3, lettere a) e k), della direttiva 94/56/CE;
+
+                            
+                        
+                        
+                            b)
+                            
+                                «cancellazione dei dati personali»: eliminazione dalle segnalazioni presentate di tutti i dati personali relativi all'informatore e degli aspetti tecnici che potrebbero permettere di dedurre l'identita' dell'informatore o di terzi a partire dalle informazioni.
+
 ## Art. 3. — Segnalazioni obbligatorie
 
 Fatto salvo quanto previsto dagli articoli 828 e 829 del codice della navigazione, sono segnalati all'ENAC gli eventi che mettono in pericolo oppure che, se non corretti, rischiano di mettere in pericolo un aeromobile impiegato in attivita' dell'aviazione civile, i suoi occupanti o qualsiasi altra persona. A titolo esemplificativo si considerano tali gli eventi ricompresi negli allegati I e II al presente decreto legislativo.
@@ -40,6 +58,59 @@ Fatto salvo quanto previsto dagli articoli 828 e 829 del codice della navigazion
 Qualora la Commissione europea decida di modificare gli allegati alla direttiva 2003/42/CE del Parlamento europeo e del Consiglio, del 13 giugno 2003, al fine di estendere o modificare gli esempi di eventi, si provvede con decreto del Ministro delle infrastrutture e dei trasporti alla contestuale modifica degli allegati di cui al comma 1.
 
 ## Art. 4. — Obbligo di segnalazione
+
+1.
+                    
+                        
+                            Hanno l'obbligo di segnalazione degli eventi di cui all'articolo 3, comma 1, i seguenti soggetti nell'esercizio delle rispettive funzioni:
+ 
+                        
+                        
+                            a)
+                            
+                                l'esercente o il comandante di un aeromobile equipaggiato con un motore a turbina o impiegato in attivita' di trasporto pubblico da un soggetto le cui operazioni siano assoggettate a controlli di sicurezza da parte dell'ENAC;
+
+                            
+                        
+                        
+                            b)
+                            
+                                la persona addetta alla progettazione, alla costruzione, alla manutenzione o alla modifica di un aeromobile equipaggiato con un motore a turbina o impiegato in attivita' di trasporto pubblico, o di qualsiasi apparecchiatura o parte di esso, sotto il controllo dell'ENAC;
+
+                            
+                        
+                        
+                            c)
+                            
+                                la persona che firmi un certificato di revisione o di idoneita' al servizio di un aeromobile equipaggiato con un motore a turbina o impiegato in attivita' di trasporto pubblico, o di qualsiasi apparecchiatura o parte di esso, sotto il controllo dell'ENAC;
+
+                            
+                        
+                        
+                            d)
+                            
+                                la persona che svolga una funzione per la quale debba essere autorizzato dall'ENAC quale controllore del traffico aereo o quale addetto all'informazione di volo;
+
+                            
+                        
+                        
+                            e)
+                            
+                                il gestore di un aeroporto contemplato dal regolamento (CEE) n. 2408/92 del Consiglio, del 23 luglio 1992, sull'accesso dei vettori aerei della Comunita' alle rotte intracomunitarie;
+
+                            
+                        
+                        
+                            f)
+                            
+                                la persona che svolga una funzione connessa con l'installazione, la modifica, la manutenzione, la riparazione, la revisione, le prove di volo o l'ispezione di strutture della navigazione aerea sotto la responsabilita' dell'ENAC;
+
+                            
+                        
+                        
+                            g)
+                            
+                                la persona che svolga una funzione connessa con le manovre a terra, compresi il rifornimento di combustibile, la manutenzione, la preparazione dei documenti di carico, le operazioni di carico, le operazioni antighiaccio e il rimorchio in un aeroporto contemplato dal regolamento (CEE) n. 2408/92.
 
 La segnalazione degli eventi di cui all'articolo 3, comma 1, puo' essere effettuata anche da parte di chiunque eserciti, in altre operazioni riguardanti l'aviazione civile, funzioni simili a quelle dei soggetti di cui al comma 1.
 

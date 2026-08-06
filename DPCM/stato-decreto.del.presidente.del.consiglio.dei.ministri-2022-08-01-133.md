@@ -7,8 +7,8 @@ urn: urn:nir:stato:decreto.del.presidente.del.consiglio.dei.ministri:2022-08-01;
 vigente: true
 source: normattiva-opendata
 collection: DPCM
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:40:13Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DEL CONSIGLIO DEI MINISTRI
@@ -35,6 +35,96 @@ Le attivita' propedeutiche all'esercizio dei poteri speciali, ai sensi dell'arti
 
 In attuazione dell'articolo 2, comma 2, lettera a), del decreto del Presidente della Repubblica 19 febbraio 2014, n. 35 e dell'articolo 2, comma 2, lettera a) del decreto del Presidente della Repubblica 25 marzo 2014, n. 86, nonche' dell'articolo 27 del decreto-legge 21 marzo 2022, n. 21, convertito, con modificazioni, dalla legge 20 maggio 2022, n. 51, l'ufficio responsabile dell'attivita' di coordinamento per lo svolgimento delle attivita' propedeutiche all'esercizio dei poteri speciali, e' individuato nel Dipartimento per il coordinamento amministrativo della Presidenza del Consiglio dei ministri.
 
+3.
+                    
+                        
+                            In attuazione dell'articolo 2, comma 2, lettera b), del citato decreto del Presidente della Repubblica n. 35 del 2014 e dell'articolo 2, comma 2, lettera b), del citato decreto del Presidente della Repubblica n. 86 del 2014, nonche' ai sensi dell'articolo 15 del decreto del Presidente del Consiglio dei ministri 18 dicembre 2020, n. 179, gli uffici responsabili delle attivita' di competenza dei Ministeri degli affari esteri e della cooperazione internazionale, della difesa, dell'economia e delle finanze, della giustizia, delle infrastrutture e della mobilita' sostenibili, dell'interno, delle politiche agricole, alimentari e forestali, della salute, dello sviluppo economico, della transizione ecologica, nonche' dei Dipartimenti per l'informazione e l'editoria e per l'innovazione tecnologica e la transizione digitale della Presidenza del Consiglio dei ministri, sono individuati come segue: 
+ 
+                        
+                        
+                            a)
+                            
+                                Ministero degli affari esteri e della cooperazione internazionale: Direzione Generale per la promozione del sistema Paese, Autorita' Nazionale UAMA (Unita' per le autorizzazioni dei materiali di armamento); 
+
+                            
+                        
+                        
+                            b)
+                            
+                                Ministero dell'interno: Dipartimento della pubblica sicurezza - Ufficio per l'amministrazione generale - Ufficio III analisi strategica (UAS); 
+
+                            
+                        
+                        
+                            c)
+                            
+                                Ministero della difesa: Segretariato generale della difesa - Direzione nazionale degli armamenti; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                Ministero dell'economia e delle finanze: Ufficio legislativo, Dipartimento del tesoro - Direzione V «Regolamentazione e vigilanza del sistema finanziario», Direzione VII «Valorizzazione del patrimonio pubblico», Servizio «Affari legali e contenzioso»; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                Ministero della giustizia: Direzione generale per i sistemi informativi automatizzati; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                Ministero delle infrastrutture e della mobilita' sostenibili:
+Organo centrale di sicurezza, Direzione generale vigilanza concessioni autostradali, Direzione generale vigilanza Autorita' portuali; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                Ministero delle politiche agricole, alimentari e forestali:
+Dipartimento delle politiche europee e internazionali e dello sviluppo rurale, Dipartimento delle politiche competitive, della qualita' agroalimentare, della pesca e dell'ippica; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                Ministero della salute: Gabinetto del Ministro, Segretariato generale; 
+
+                            
+                        
+                        
+                            i)
+                            
+                                Ministero dello sviluppo economico: Direzione generale per i servizi di comunicazione elettronica, di radiodiffusione e postali, Direzione generale per le tecnologie delle comunicazioni e la sicurezza informatica - Istituto superiore delle comunicazioni e delle tecnologie dell'informazione, Direzione generale per la politica industriale, l'innovazione e le piccole e medie imprese, Direzione generale per la riconversione industriale e le grandi filiere produttive; 
+
+                            
+                        
+                        
+                            l)
+                            
+                                Ministero della transizione ecologica: Direzione generale per il clima, l'energia e l'aria, Direzione generale per l'economia circolare, Direzione Generale infrastrutture e sicurezza sistemi energetici e geominerari; 
+
+                            
+                        
+                        
+                            m)
+                            
+                                Dipartimento per l'informazione e l'editoria: Ufficio per le attivita' di informazione e comunicazione istituzionale e per la tutela del diritto d'autore; 
+
+                            
+                        
+                        
+                            n)
+                            
+                                Ministro per l'innovazione tecnologica e la transizione digitale, o, se non nominato, della struttura della Presidenza del Consiglio dei ministri competente per l'innovazione tecnologica e la digitalizzazione: Gabinetto del Ministro o, se non nominato, Capo della struttura della Presidenza del Consiglio dei ministri competente per l'innovazione tecnologica e la digitalizzazione.
+
 Fermo restando quanto previsto dall'articolo 3 del decreto del Presidente della Repubblica 25 marzo 2014, n. 86, e dall'articolo 3 del decreto del Presidente della Repubblica 19 febbraio 2014, n. 35, ai sensi dell'articolo 15 del decreto del Presidente del Consiglio dei ministri 18 dicembre 2020, n. 179, anche i rappresentanti dei Ministeri della salute, delle politiche agricole, alimentari e forestali, della transizione ecologica, del Dipartimento per l'informazione e l'editoria e del Dipartimento per l'innovazione tecnologica e la transizione digitale della Presidenza del Consiglio dei ministri possono svolgere, su designazione dello stesso Gruppo di coordinamento, le funzioni di amministrazione responsabile dell'istruttoria e della proposta per l'esercizio dei poteri speciali.
 
 ## Art. 3. — Gruppo di coordinamento
@@ -56,6 +146,73 @@ Il Dipartimento per il coordinamento amministrativo svolge, altresi', le funzion
 
 Attivita' propedeutiche all'esercizio 
  dei poteri speciali
+
+1.
+                    
+                        
+                            Le attivita' propedeutiche all'esercizio dei poteri speciali di cui all'articolo 1 sono svolte secondo le seguenti modalita' e procedure: 
+ 
+                        
+                        
+                            a)
+                            
+                                i soggetti tenuti alla notifica provvedono - esclusivamente per via telematica, tramite posta elettronica certificata - alla trasmissione dell'informativa di cui al citato decreto-legge 15 marzo 2012, n. 21 al Dipartimento per il coordinamento amministrativo della Presidenza del Consiglio dei ministri. A tal fine il medesimo Dipartimento individua una casella di posta elettronica certificata appositamente pubblicata sul sito della Presidenza del Consiglio dei ministri. Con le medesime modalita' la societa' acquisita trasmette eventuali memorie e documenti; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                il Dipartimento per il coordinamento amministrativo trasmette in modalita' informatica, al Presidente, ai componenti del Gruppo di coordinamento e agli altri uffici eventualmente coinvolti, la notifica e la documentazione ricevuta. Il predetto Dipartimento convoca la riunione del Gruppo di coordinamento per l'individuazione del Ministero responsabile dell'istruttoria e della proposta per l'esercizio dei poteri speciali, che si esprime tempestivamente sulla riconducibilita' dell'operazione nell'ambito applicativo della normativa vigente. In tale sede, o in successiva riunione, i componenti del Gruppo di coordinamento esprimono il parere di competenza sull'eventuale esercizio dei poteri speciali; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                il Dipartimento per il coordinamento amministrativo, comunica alle parti del procedimento e ai componenti del Gruppo di coordinamento il Ministero responsabile dell'istruttoria e della proposta per l'esercizio dei poteri speciali, ovvero che l'operazione non ricade nell'ambito applicativo della normativa; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                il Ministero responsabile dell'istruttoria e della proposta, sulla base delle risultanze emerse nella riunione del Gruppo di coordinamento, trasmette entro quattro giorni dalla riunione del gruppo e comunque almeno quindici giorni prima della scadenza del termine per la conclusione del procedimento, di cui al decreto-legge 15 marzo 2012, n. 21, in modalita' informatica, al Presidente, agli uffici di cui all'articolo 3, comma 2, agli altri componenti del Gruppo di coordinamento e al Dipartimento per il coordinamento amministrativo, la motivazione della delibera di esercizio dei poteri speciali; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                il Dipartimento per il coordinamento amministrativo, ricevuta dal Ministero competente la motivazione del decreto di esercizio dei poteri speciali, predispone lo schema di decreto per la deliberazione del Consiglio dei ministri. Il decreto, ove adottato, e' trasmesso, dal Dipartimento per il coordinamento amministrativo, alle parti del procedimento, agli organi di controllo e, per estratto, alle competenti Commissioni parlamentari; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                qualora si renda necessario, ai sensi del decreto legge 15 marzo 2012, n. 21, richiedere informazioni o documentazione integrativa al notificante o a soggetti terzi, il Ministero responsabile dell'istruttoria e della proposta, anche tenendo conto di eventuali indicazioni della Presidenza del Consiglio dei ministri o di altri Ministeri interessati, invia la richiesta di informazioni o di documentazione integrativa al Dipartimento per il coordinamento amministrativo, che provvede a trasmetterla ai destinatari, anche, eventualmente, convocandoli in audizione. La predetta richiesta e' inviata anche al Presidente e ai componenti del Gruppo di coordinamento. I soggetti ai quali e' stata trasmessa la richiesta di informazioni o di documentazione integrativa provvedono all'inoltro della predetta documentazione al Dipartimento per il coordinamento amministrativo per via telematica tramite posta elettronica certificata o, se richiesto, tramite deposito della documentazione integrativa nel corso dell'audizione; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                in caso di notifica incompleta o irregolare il Dipartimento per il coordinamento amministrativo, anche su indicazione del Ministero responsabile dell'istruttoria e della proposta e del Gruppo di coordinamento, informa tempestivamente, esclusivamente per via telematica tramite posta elettronica certificata, il soggetto notificante, dandone comunicazione anche al Presidente e ai componenti del Gruppo di coordinamento. In questo caso il termine per l'esercizio dei poteri speciali e' interrotto e decorre dal ricevimento della nuova notifica completa. Il soggetto notificante al quale e' stata comunicata l'incompletezza o l'irregolarita' della notifica provvede all'invio della nuova notifica, completa di tutti gli elementi necessari per la sua valutazione, esclusivamente per via telematica tramite posta elettronica certificata; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                Il Ministero responsabile dell'istruttoria e della proposta trasmette, entro quattro giorni dalla riunione del gruppo e comunque almeno quindici giorni prima della scadenza del termine per la conclusione del procedimento, in modalita' informatica, al Dipartimento per il coordinamento amministrativo, al Presidente del gruppo di coordinamento e agli Uffici di cui all'articolo 3, comma 2, la motivazione della delibera di non esercizio dei poteri speciali, con eventuale previsione di raccomandazioni all'impresa. Entro un giorno dalla ricezione della proposta ciascun Ufficio di cui all'articolo 2, comma 3, trasmette le eventuali osservazioni al Dipartimento per il coordinamento amministrativo; 
+
+                            
+                        
+                        
+                            i)
+                            
+                                il Dipartimento per il coordinamento amministrativo, ricevuta la motivazione della delibera di non esercizio dei poteri speciali, ove non ricorrano i presupposti di cui all'articolo 6, procede a sottoporre la proposta di non esercizio alla deliberazione del Consiglio dei ministri, allegando le eventuali osservazioni pervenute ai sensi della lettera h). Il Consiglio dei ministri, ove ritenga di accogliere la suddetta proposta, adotta la deliberazione di non esercizio dei poteri speciali, con eventuali raccomandazioni all'impresa.
 
 ## Art. 6. — Misure di semplificazione delle procedure 
  in caso di non esercizio dei poteri speciali

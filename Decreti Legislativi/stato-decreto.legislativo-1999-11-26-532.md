@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
 vigenza_date: 2003-02-22
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:31Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -32,6 +32,26 @@ Nei riguardi delle forze armate e di polizia, dei servizi di protezione civile, 
 
 ## Art. 2. — Definizioni
 
+1.
+                    
+                        
+                            Agli effetti delle disposizioni di cui al presente decreto si intende per:
+ 
+                        
+                        
+                            a)
+                            
+                                lavoro notturno: l'attivita' svolta nel corso di un periodo di almeno sette ore consecutive comprendenti l'intervallo fra la mezzanotte e le cinque del mattino;
+
+                            
+                        
+                        
+                            b)
+                            
+                                lavoratore notturno:
+ 1) qualsiasi lavoratore che durante il periodo notturno svolga, in via non eccezionale, almeno tre ore del suo tempo di lavoro giornaliero;
+ 2) qualsiasi lavoratore che svolga, in via non eccezionale, durante il periodo notturno almeno una parte del suo orario di lavoro normale secondo le norme definite dal contratto collettivo nazionale di lavoro. In difetto di disciplina collettiva e' considerato lavoratore notturno qualsiasi lavoratore che svolga lavoro notturno per un minimo di ottanta giorni lavorativi all'anno; il suddetto limite minimo e' riproporzionato in caso di lavoro a tempo parziale.
+
 I contratti collettivi individuano le condizioni e i casi di eccezionalita' nell'adibizione al lavoro notturno di cui al comma 1, lettere a) e b).
 
 ## Art. 3. — Limitazioni al lavoro notturno
@@ -49,6 +69,31 @@ Entro centoventi giorni dalla data di entrata in vigore del presente decreto, co
 Il periodo minimo di riposo settimanale di cui agli articoli 1 e 3 della legge 22 febbraio 1934, n. 370, non viene preso in considerazione per il computo della media se cade nel periodo di riferimento stabilito dai contratti collettivi di cui al comma 1.
 
 ## Art. 5. — Tutela della salute
+
+1.
+                    
+                        
+                            I lavoratori notturni devono essere sottoposti a cura e a spese del datore di lavoro, per il tramite del medico competente di cui all'articolo 17 del decreto legislativo 19 settembre 1994, n. 626, come modificato dal decreto legislativo 19 marzo 1996, n. 242:
+ 
+                        
+                        
+                            a)
+                            
+                                ad accertamenti preventivi volti a constatare l'assenza di controindicazioni al lavoro notturno a cui sono adibiti;
+
+                            
+                        
+                        
+                            b)
+                            
+                                ad accertamenti periodici almeno ogni due anni per controllare il loro stato di salute;
+
+                            
+                        
+                        
+                            c)
+                            
+                                ad accertamenti in caso di evidenti condizioni di salute incompatibili con il lavoro notturno.
 
 ## Art. 6. — Trasferimento al lavoro diurno
 
@@ -85,4 +130,22 @@ Il datore di lavoro, previa consultazione con le rappresentanze sindacali di cui
 I contratti collettivi possono prevedere modalita' e specifiche misure di prevenzione relativamente alle prestazioni di lavoro notturno di particolari categorie di lavoratori, quali quelle individuate con riferimento alla legge 5 giugno 1990, n. 135, e alla legge 26 giugno 1990, n. 162.
 
 ## Art. 12. — S a n z i o n i
+
+1.
+                    
+                        
+                            Il datore di lavoro e il dirigente sono puniti: 
+ 
+                        
+                        
+                            a)
+                            
+                                con la sanzione di cui all'articolo 89, comma 2, lettera a), del decreto legislativo 19 settembre 1994, n. 626, per la violazione della disposizione di cui all'articolo 5; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                con la sanzione amministrativa da L. 100.000 a L. 300.000 per ogni giorno e per ogni lavoratore adibito al lavoro notturno oltre i limiti temporali di cui all'articolo 4.
 

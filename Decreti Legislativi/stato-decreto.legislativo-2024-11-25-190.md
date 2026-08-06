@@ -8,8 +8,8 @@ vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
 vigenza_date: 2026-04-19
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:33Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -61,11 +61,125 @@ Con uno o piu' decreti del Presidente del Consiglio dei ministri, su proposta de
 
 ## Art. 4. — Definizioni
 
+1.
+                    
+                        
+                            Agli effetti del presente decreto si applicano le seguenti definizioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                
+                                    ((' intervento ': le attivita' di costruzione ed esercizio delle fattispecie progettuali di cui agli allegati A, B o C, comprese quelle relative alle opere connesse e alle infrastrutture indispensabili, fatta eccezione per le attivita' di sviluppo e potenziamento della rete di trasmissione nazionale di cui all'articolo 10-bis, commi 8 e 10, nonche' della rete di distribuzione realizzate autonomamente)); 
+
+                            
+                        
+                        
+                            b)
+                            
+                                «avvio della realizzazione degli interventi»: la data di inizio dell'allestimento del cantiere o di analoghe attivita' in loco, propedeutiche alla realizzazione degli interventi; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                «soggetto proponente»: il soggetto pubblico o privato interessato alla realizzazione degli interventi; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                «amministrazione procedente»: il comune territorialmente competente nel caso della procedura abilitativa semplificata di cui all'articolo 8, il Ministero dell'ambiente e della sicurezza energetica, la regione territorialmente competente o la provincia dalla medesima delegata nel caso del procedimento di autorizzazione unica di cui all'articolo 9, il commissario speciale per la gestione dei procedimenti autorizzatori relativi agli interventi finalizzati all'installazione degli impianti, di cui all'articolo 20, comma 3-bis, del decreto-legge 1° marzo 2022, n. 17, convertito, con modificazioni, dalla legge 27 aprile 2022, n. 34; 
+
+                            
+                        
+                        
+                            d-bis)
+                            
+                                "gestore del sistema di trasmissione nazionale": il gestore della rete di trasmissione nazionale ai sensi dell'articolo 1-ter, comma 1, del decreto-legge 29 agosto 2003, n. 239, convertito, con modificazioni, dalla legge 27 ottobre 2003, n. 290 e del decreto del Presidente del Consiglio dei ministri 11 maggio 2004, pubblicato nella Gazzetta Ufficiale n. 115 del 18 maggio 2004; 
+
+                            
+                        
+                        
+                            d-ter)
+                            
+                                "gestori del sistema di distribuzione": i gestori della rete di distribuzione elettrica ai sensi dell'articolo 9 del decreto legislativo 16 marzo 1999, n. 79; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                LETTERA ABROGATA DAL D.LGS. 26 NOVEMBRE 2025, N. 178; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                "impianto ibrido": un impianto che combina diverse fonti di energia rinnovabile oppure un impianto di produzione di energia da una o piu' fonti rinnovabili combinato con un impianto di accumulo ovvero con un elettrolizzatore; 
+
+                            
+                        
+                        
+                            f-bis)
+                            
+                                «impianto agrivoltaico»: impianto fotovoltaico che preserva la continuita' delle attivita' colturali e pastorali sul sito di installazione. Al fine di garantire la continuita' delle attivita' colturali e pastorali, l'impianto puo' prevedere la rotazione dei moduli collocati in posizione elevata da terra e l'applicazione di strumenti di agricoltura digitale e di precisione. 
+
+                            
+                        
+                        
+                            f-ter)
+                            
+                                "interventi edilizi": gli interventi e le opere soggette al regime di cui agli articoli 6, 6-bis, 10, 22 o 23 del testo unico delle disposizioni legislative e regolamentari in materia di edilizia di cui al decreto del Presidente della Repubblica 6 giugno 2001, n. 380; 
+
+                            
+                        
+                        
+                            f-quater)
+                            
+                                "opere connesse": le opere di connessione dell'impianto alla rete elettrica di distribuzione ovvero alla rete di trasmissione nazionale necessarie all'immissione nelle predette reti dell'energia prodotta o accumulata, nonche' le opere di connessione alla rete di distribuzione del gas naturale o di idrogeno per gli impianti di produzione di biometano o di idrogeno, fatta eccezione per gli interventi edilizi; 
+
+                            
+                        
+                        
+                            f-quinquies)
+                            
+                                "infrastrutture indispensabili": le opere o le installazioni, anche temporanee, necessarie alla costruzione ovvero all'esercizio degli impianti di produzione di energia da fonti rinnovabili, ivi compresi quelli di accumulo asserviti ai medesimi, fatta eccezione per gli interventi edilizi; 
+
+                            
+                        
+                        
+                            f-sexies)
+                            
+                                "revisione della potenza": il ripotenziamento ovvero il rifacimento, anche parziale, degli impianti di produzione di energia da fonti rinnovabili, ivi compresi quelli di accumulo.
+
 ## Art. 5. — (Digitalizzazione delle procedure amministrative e modelli unici)
 
 La piattaforma unica digitale per impianti a fonti rinnovabili istituita ai sensi dell'articolo 19, comma 1, del decreto legislativo 8 novembre 2021, n. 199, di seguito "piattaforma SUER", fornisce, ai soggetti proponenti e alle amministrazioni interessate, guida e assistenza per ciascuna fase relativa ai regimi amministrativi di cui agli articoli 7, 8 e 9, del presente decreto. La piattaforma SUER e' interoperabile con gli strumenti informatici afferenti la realizzazione di progetti di impianti da fonti rinnovabili operativi in ambito nazionale, regionale, provinciale o comunale.
 
 I modelli unici semplificati di cui all'articolo 7, comma 10, sono resi disponibili dal soggetto proponente alla piattaforma SUER, in modalita' telematica, entro cinque giorni dall'entrata in esercizio dell'impianto.
+
+3.
+                    
+                        
+                            Con uno o piu' decreti del Ministro dell'ambiente e della sicurezza energetica, previa intesa in sede di Conferenza unificata di cui all'articolo 8 del decreto legislativo 28 agosto 1997, n. 281, sono adottati i modelli unici per la presentazione: 
+ 
+                        
+                        
+                            a)
+                            
+                                degli interventi sottoposti alla procedura abilitativa semplificata di cui all'articolo 8; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                delle istanze di autorizzazione unica di cui all'articolo 9.
 
 I modelli unici adottati ai sensi del comma 3 sono presentati dal soggetto proponente mediante la piattaforma SUER.
 
@@ -76,6 +190,31 @@ Fermo restando quanto previsto ai commi 3 e 4, nelle more dell'operativita' dell
 ((Limitatamente agli interventi di cui all'articolo 20 del citato decreto-legge n. 17 del 2022, i decreti di cui al comma 3 del presente articolo sono adottati sentito il Ministro della difesa)).
 
 ## Art. 6. — Regimi amministrativi
+
+1.
+                    
+                        
+                            Per la realizzazione degli interventi sono individuati i seguenti regimi amministrativi: 
+ 
+                        
+                        
+                            a)
+                            
+                                attivita' libera; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                procedura abilitativa semplificata; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                autorizzazione unica.
 
 Gli allegati A, B e C, che costituiscono parte integrante del presente decreto, individuano gli interventi realizzabili, rispettivamente, secondo il regime dell'attivita' libera, della procedura abilitativa semplificata e dell'autorizzazione unica.
 
@@ -121,6 +260,96 @@ Nel rispetto degli obiettivi previsti nel Piano nazionale integrato per l'energi
 
 Il comune procedente e' quello sul cui territorio insistono gli interventi di cui al comma 1, che costituisce il punto di contatto ai sensi dell'articolo 16, paragrafo 3, della direttiva (UE) 2018/2001 del Parlamento europeo e del Consiglio, dell'11 dicembre 2018. Qualora gli interventi di cui al comma 1 coinvolgano piu' comuni, il comune procedente, che costituisce il punto di contatto, e' quello sul cui territorio insiste la maggior porzione dell'impianto da realizzare. Ai fini dell'individuazione del comune procedente nei casi di cui al secondo periodo, il soggetto proponente tiene conto della percentuale di area occupata rispetto all'unita' fondiaria di cui dispone il soggetto medesimo.
 
+4.
+                    
+                        
+                            Il soggetto proponente presenta al comune, secondo il modello unico adottato ai sensi dell'articolo 5, comma 3, lettera a), il progetto corredato: 
+ 
+                        
+                        
+                            a)
+                            
+                                delle dichiarazioni sostitutive ai sensi degli articoli 46 e 47 del decreto del Presidente della Repubblica 28 dicembre 2000, n. 445, in relazione a ogni stato, qualita' personale e fatto pertinente alla realizzazione degli interventi; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                della dichiarazione di legittima disponibilita', a qualunque titolo, anche derivante da contratti preliminari, e per tutta la durata della vita utile dell'intervento, della superficie su cui realizzare l'intervento medesimo e, qualora occorra, della risorsa interessata dagli interventi nonche' della correlata documentazione; 
+
+                            
+                        
+                        
+                            b-bis)
+                            
+                                della comunicazione o della segnalazione di cui rispettivamente agli articoli 6-bis e 22 del decreto del Presidente della Repubblica n. 380 del 2001 per la realizzazione degli interventi edilizi, ove necessari; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                delle asseverazioni di tecnici abilitati che attestino la compatibilita' degli interventi con gli strumenti urbanistici approvati e i regolamenti edilizi vigenti, la non contrarieta' agli strumenti urbanistici adottati, il rispetto delle norme tecniche per le costruzioni, nonche' il rispetto delle norme di sicurezza e igienico-sanitarie e delle previsioni di cui all'articolo 11-bis, comma 2; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                degli elaborati tecnici per la connessione predisposti o approvati dal gestore della rete; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                nei casi in cui sussistano vincoli afferenti il patrimonio culturale e paesaggistico, la tutela del rischio idrogeologico, la difesa nazionale, la salute, la pubblica incolumita', ivi compresa la tutela dal rischio sismico, vulcanico e la prevenzione incendi, nonche' nei casi che richiedano l'acquisizione del titolo edilizio per l'eventuale realizzazione di ogni opera edilizia necessaria alla costruzione ovvero all'esercizio dell'impianto, degli elaborati tecnici occorrenti all'adozione dei relativi atti di assenso; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                del cronoprogramma di realizzazione degli interventi, che tiene conto delle caratteristiche tecniche e dimensionali dell'impianto; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                di una relazione relativa ai criteri progettuali utilizzati ai fini dell'osservanza del principio della minimizzazione dell'impatto territoriale o paesaggistico ovvero alle misure di mitigazione adottate per l'integrazione del progetto medesimo nel contesto ambientale di riferimento; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                di una dichiarazione attestante la percentuale di area occupata rispetto all'unita' fondiaria di cui dispone il soggetto proponente stesso, avente la medesima destinazione urbanistica; 
+
+                            
+                        
+                        
+                            i)
+                            
+                                dell'impegno al ripristino dello stato dei luoghi a carico del soggetto esercente a seguito della dismissione dell'impianto, unitamente al piano di ripristino. Prima dell'avvio della realizzazione dell'intervento, il soggetto proponente e' tenuto alla presentazione della polizza fidejussoria a copertura dei costi previsti; 
+
+                            
+                        
+                        
+                            l)
+                            
+                                dell'impegno al ripristino di infrastrutture pubbliche o private interessate dalla costruzione dell'impianto o dal passaggio dei cavidotti ovvero di strutture complementari all'impianto medesimo; 
+
+                            
+                        
+                        
+                            m)
+                            
+                                nel caso di interventi che comportino il raggiungimento di una soglia di potenza superiore a 1 MW: 
+ 1) della copia della quietanza di avvenuto pagamento, in favore del comune, degli oneri istruttori, ove previsti; 
+ 2) di un programma di compensazioni territoriali al comune interessato non inferiore all'1 per cento e non superiore al 3 per cento del valore economico della produzione attesa durante la vita utile dell'impianto, al netto del valore dell'energia eventualmente autoconsumata.
+
 Nel caso in cui gli interventi di cui al comma 1 coinvolgano piu' comuni, il comune procedente acquisisce le osservazioni degli altri comuni il cui territorio e' interessato dagli interventi medesimi.
 
 Fuori dai casi di cui ai commi 7 e 8, qualora non venga comunicato al soggetto proponente un espresso provvedimento di diniego entro il termine di trenta giorni dalla presentazione del progetto, il titolo abilitativo si intende perfezionato senza prescrizioni. Il predetto termine puo' essere sospeso una sola volta qualora, entro trenta giorni dalla data di ricezione del progetto, il comune rappresenti, con motivazione puntuale, al soggetto proponente la necessita' di integrazioni documentali o di approfondimenti istruttori, assegnando un termine non superiore a trenta giorni. Su richiesta del soggetto proponente, in ragione dell'entita' degli approfondimenti istruttori o delle integrazioni necessarie, il comune puo' prorogare, per una sola volta e per un periodo non superiore a ulteriori trenta giorni, il termine assegnato al soggetto medesimo.
@@ -128,6 +357,32 @@ Nei casi di cui al secondo o al terzo periodo, il termine per la conclusione del
 La mancata presentazione delle integrazioni o degli approfondimenti entro il termine assegnato equivale a rinuncia alla realizzazione degli interventi di cui al comma 1.
 
 Qualora, ai fini della realizzazione degli interventi di cui al comma 1, siano necessari uno o piu' atti di assenso di cui al comma 4, lettera e), che rientrino nella competenza comunale, il comune li adotta entro il termine di quarantacinque giorni dalla presentazione del progetto, decorso il quale senza che sia stato comunicato al soggetto proponente un provvedimento espresso di diniego, il titolo abilitativo si intende perfezionato senza prescrizioni. In caso di necessita' di integrazioni documentali o di approfondimenti istruttori, il predetto termine di quarantacinque giorni puo' essere sospeso ai sensi del comma 6, secondo, terzo e quarto periodo. In caso di mancata presentazione delle integrazioni o degli approfondimenti entro il termine assegnato si applica il quinto periodo del comma 6.
+
+8.
+                    
+                        
+                            Qualora, ai fini della realizzazione degli interventi di cui al comma 1, siano necessari uno o piu' atti di assenso di cui al comma 4, lettera e), di amministrazioni diverse da quella procedente, il comune convoca, entro cinque giorni dalla data di presentazione del progetto, la conferenza di servizi di cui all'articolo 14 e seguenti della legge n. 241 del 1990, con le seguenti variazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                il comune e, per il suo tramite, ogni altra amministrazione interessata puo', entro i successivi dieci giorni, richiedere, motivando puntualmente, le integrazioni e gli approfondimenti istruttori al soggetto proponente, assegnando un termine non superiore a trenta giorni, prorogabili, una sola volta, per ulteriori trenta giorni, su istanza del medesimo soggetto e in ragione dell'entita' delle richieste. In tali casi, il termine per la conclusione della PAS e' sospeso e riprende a decorrere dalla data di presentazione della integrazione o degli approfondimenti richiesti.
+La mancata presentazione delle integrazioni o degli approfondimenti entro il termine assegnato equivale a rinuncia alla realizzazione degli interventi di cui al comma 1; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                ciascuna delle amministrazioni di cui alla lettera a) rilascia le proprie determinazioni entro il termine di quarantacinque giorni dalla data di convocazione della conferenza di servizi, decorso il quale senza che abbia espresso un dissenso congruamente motivato, si intende che non sussistano, per quanto di competenza, motivi ostativi alla realizzazione del progetto. Il dissenso e' espresso indicando puntualmente e in concreto, per il caso specifico, i motivi che rendono l'intervento non assentibile; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                decorso il termine di sessanta giorni dalla data di presentazione del progetto senza che l'amministrazione procedente abbia comunicato al soggetto proponente la determinazione di conclusione negativa della conferenza stessa, e senza che sia stato espresso un dissenso congruamente motivato da parte di un'amministrazione preposta alla tutela del rischio idrogeologico, paesaggistico-territoriale, dei beni culturali o della salute e della pubblica incolumita' dei cittadini, ivi compresa la tutela del rischio sismico e vulcanico, che equivale a provvedimento di diniego dell'approvazione del progetto, il titolo abilitativo si intende perfezionato senza prescrizioni.
 
 Decorso il termine ai sensi dei commi 6, 7 e 8, lettera c), senza che sia comunicato un provvedimento espresso di diniego, il soggetto proponente richiede la pubblicazione, sul Bollettino Ufficiale della regione interessata, dell'avviso di intervenuto perfezionamento del titolo abilitativo, indicando la data di presentazione del progetto, la data di perfezionamento del titolo, la tipologia di intervento e la sua esatta localizzazione. Dalla data di pubblicazione, che avviene nel primo Bollettino Ufficiale successivo alla ricezione della richiesta, il titolo abilitativo acquista efficacia, e' opponibile ai terzi e decorrono i relativi termini di impugnazione.
 
@@ -147,6 +402,24 @@ Nel caso degli interventi di cui all'allegato B, sezione I, lettera q), e sezion
 
 ) interventi di cui all'allegato C sono soggetti al procedimento autorizzatorio unico di cui al presente articolo, comprensivo, ove occorrenti, ((della valutazione di impatto ambientale ovvero della valutazione di incidenza ambientale)). ((La verifica di assoggettabilita' a VIA, ove occorrente, precede l'avvio del procedimento autorizzatorio unico di cui al presente articolo e ha una durata non superiore a novanta giorni decorrenti dalla conclusione della fase di verifica di completezza della documentazione effettuata ai sensi dell'articolo 19, comma 2, del decreto legislativo 3 aprile 2006, n. 152. Nel caso di interventi sottoposti al regime di cui al presente articolo che richiedono la realizzazione di interventi edilizi, il relativo titolo, di cui al testo unico delle disposizioni legislative e regolamentari in materia di edilizia di cui al decreto del Presidente della Repubblica 6 giugno 2001, n. 380, e' acquisito, ai sensi del comma 10, nell'ambito del procedimento di cui al presente articolo.)) Nel caso di interventi di cui all'allegato C, sezione I, sottoposti a valutazione di impatto ambientale di competenza di regioni e province autonome di Trento e di Bolzano, si applica l'articolo 27-bis del decreto legislativo n. 152 del 2006, salva la facolta', per le stesse regioni e province autonome, di optare per il procedimento autorizzatorio unico di cui al presente articolo. In relazione agli interventi di cui al ((quarto periodo)), il termine per la conclusione del procedimento di cui all'articolo 27-bis non puo' superare i due anni dal suo avvio o dall'avvio della verifica di assoggettabilita' a valutazione di impatto ambientale (VIA), ove prevista.
 
+2.
+                    
+                        
+                            Il soggetto proponente presenta ((...)) istanza di autorizzazione unica, redatta secondo il modello adottato ai sensi ((dell'articolo 5, comma 3, lettera b) )): 
+ 
+                        
+                        
+                            a)
+                            
+                                alla regione territorialmente competente, o all'ente delegato dalla regione medesima, per la realizzazione degli interventi di cui all'allegato C, sezione I; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al Ministero dell'ambiente e della sicurezza energetica per la realizzazione degli interventi di cui all'allegato C, sezione II.
+
 ((Ai fini del presente articolo, il punto di contatto di cui all'articolo 16, paragrafo 3, della direttiva (UE) 2018/2001 del Parlamento europeo e del Consiglio, dell'11 dicembre 2018, e' individuato nella regione territorialmente competente, o nell'ente delegato dalla medesima, oppure nel Ministero dell'ambiente e della sicurezza energetica ai sensi del comma 2.))
 
 Il proponente allega all'istanza di cui al comma 2 la documentazione e gli elaborati progettuali previsti dalle normative di settore per il rilascio delle autorizzazioni, intese, licenze, pareri, concerti, nulla osta e assensi, comunque denominati, inclusi quelli per ((la valutazione di impatto ambientale e la valutazione di incidenza ambientale, l'autorizzazione)) paesaggistica e culturale, ((il rilascio di eventuali titoli edilizi)) e per gli eventuali espropri, ove necessari ai fini della realizzazione degli interventi, nonche' l'asseverazione di un tecnico abilitato che dia conto, in maniera analitica, della qualificazione dell'area ai sensi dell'articolo 11-bis. Nei casi di progetti sottoposti a valutazione di impatto ambientale, l'istanza deve contenere anche l'avviso al pubblico di cui all'articolo 24, comma 2, del decreto legislativo n. 152 del 2006, indicando altresi' ogni autorizzazione, intesa, parere, concerto, nulla osta, o atti di assenso richiesti. ((Il soggetto proponente allega altresi' all'istanza di cui al comma 2)) la documentazione da cui risulti la disponibilita' ((della risorsa ovvero)) dell'area ((, ivi comprese le superfici pubbliche,)) su cui realizzare l'impianto e le opere connesse ((...)) ovvero, laddove necessaria, la richiesta di attivazione della procedura di esproprio per le aree interessate dalle opere connesse, e, eccetto che per la realizzazione di impianti alimentati a biomassa, ivi inclusi gli impianti a biogas e gli impianti per produzione di biometano di nuova costruzione, e per impianti fotovoltaici e solari termodinamici, per le aree interessate dalla realizzazione dell'impianto. ((Ai fini di cui al terzo periodo, la disponibilita' dell'area puo' risultare anche da contratti preliminari.))
@@ -164,6 +437,55 @@ Entro dieci giorni dall'esito della consultazione o dalla data di ricezione dell
 
 Il termine di conclusione della conferenza per il rilascio dell'autorizzazione unica e' di centoventi giorni decorrenti dalla data della prima riunione, sospeso ((...)) per un massimo di novanta giorni nel caso di progetti sottoposti a VIA ((o di sessanta giorni nel caso di progetti sottoposti a valutazione di incidenza ambientale)). ((Nel caso di progetti sottoposti sia a VIA che a valutazione di incidenza ambientale, la sospensione del termine di conclusione della conferenza non eccede i centoventi giorni.))
 
+10.
+                    
+                        
+                            La determinazione motivata favorevole di conclusione della conferenza di servizi costituisce il provvedimento autorizzatorio unico e, recandone indicazione esplicita: 
+ 
+                        
+                        
+                            a)
+                            
+                                comprende il provvedimento di VIA ((...)), ove occorrente; 
+
+                            
+                        
+                        
+                            a-bis)
+                            
+                                
+                                    ((comprende la valutazione di incidenza ambientale ai sensi del decreto del Presidente della Repubblica n. 357 del 1997, ove occorrente;))
+                                
+                            
+                        
+                        
+                            b)
+                            
+                                comprende tutti gli atti di assenso, comunque denominati, di competenza delle amministrazioni e dei gestori di beni o servizi pubblici interessati necessari alla costruzione e all'esercizio delle opere relative agli interventi di cui al comma 1 ((, ivi inclusi gli eventuali titoli per la realizzazione degli interventi edilizi)); 
+
+                            
+                        
+                        
+                            c)
+                            
+                                costituisce, ove occorra, variante allo strumento urbanistico ((...)); 
+
+                            
+                        
+                        
+                            c-bis)
+                            
+                                
+                                    ((reca, ove occorra, l'apposizione del vincolo preordinato all'esproprio e la dichiarazione di pubblica utilita';))
+                                
+                            
+                        
+                        
+                            d)
+                            
+                                
+                                    ((reca l'obbligo al ripristino dello stato dei luoghi a carico del soggetto esercente a seguito della dismissione dell'impianto, con l'analitica stima dei costi di dismissione e di ripristino dello stato dei luoghi, l'indicazione delle garanzie finanziarie e del termine entro il quale il soggetto proponente e' tenuto a prestarle, comunque non oltre centoventi giorni dalla data di rilascio del provvedimento autorizzatorio stesso, nonche' le compensazioni territoriali ovvero ambientali a favore dei comuni stabilite in sede di conferenza di servizi per la realizzazione dell'intervento, entro un limite non inferiore all'1 per cento e non superiore al 4 per cento del valore economico della produzione attesa durante la vita utile dell'impianto, al netto del valore dell'energia eventualmente autoconsumata. Le garanzie finanziarie e le compensazioni di cui alla presente lettera non sono dovute nel caso di interventi realizzati su superfici edificate ovvero sulle strutture di copertura ricadenti nei parcheggi.))
+
 ((Ove occorra ai sensi del comma 3, terzo periodo, l'esecuzione del decreto di esproprio ha luogo entro il termine perentorio di un anno dalla relativa adozione.)).
 
 Il provvedimento autorizzatorio unico e' immediatamente pubblicato nel sito internet istituzionale dell'amministrazione procedente e ha l'efficacia temporale, comunque non inferiore a ((cinque)) anni, stabilita nella determinazione di cui al comma 10, tenuto conto dei tempi ((occorrenti per la definizione di eventuali procedure espropriative, nonche' di quelli)) previsti per la realizzazione del progetto. L'autorizzazione unica decade in caso di mancato avvio della realizzazione degli interventi di cui al comma 1 o di mancata entrata in esercizio dell'impianto entro i termini stabiliti nella determinazione di cui al comma 10. ((L'autorizzazione decade altresi' in caso di mancata prestazione delle garanzie finanziarie entro il termine stabilito ai sensi del comma 10, lettera d).))
@@ -178,7 +500,28 @@ Si applica in ogni caso l'articolo 14-quinquies della legge n. 241 del 1990.
 
 ## Art. 9-bis. — (( (Accelerazione del procedimento di autorizzazione unica per interventi di revisione della potenza o per l'installazione di pompe di calore).))
 
+1.
+                    
+                        
+                            
+                                ((Nel caso di interventi di cui all'allegato C, sezione I, lettera z), o sezione II, lettera v), che determinano una revisione della potenza aggiuntiva non superiore al 15 per cento:))
+                            
+                        
+                        
+                            a)
+                            
+                                
+                                    ((i termini di cui all'articolo 9, commi 4 e 5, sono ridotti della meta';))
+                                
+                            
+                        
+                        
+                            b)
+                            
+                                
+                                    ((il termine di centoventi giorni di cui all'articolo 9, comma 9, e' ridotto a quaranta giorni.))
 
+((Qualora gli interventi di cui al comma 1 siano sottoposti a valutazioni ambientali ai sensi degli allegati alla parte seconda del decreto legislativo 3 aprile 2006, n. 152, le valutazioni medesime sono circoscritte all'impatto potenzialmente derivante dalla revisione della potenza.))
 
 ((Le riduzioni di termini di cui al comma 1 si applicano altresi' nel caso degli interventi di cui all'allegato C, sezione I, lettera e), di potenza inferiore a 50 MW.))
 
@@ -200,7 +543,38 @@ Resta fermo, per le concessioni di coltivazione di risorse geotermiche, quanto p
 
 ## Art. 10-bis. — (Disciplina delle soluzioni di connessione alla rete elettrica)
 
-) 2) e 3) della lettera a) ((del comma 1)) non si applicano nel caso di richieste di connessione relative alla realizzazione di impianti di distribuzione dell'energia elettrica o al potenziamento ovvero all'ampliamento di impianti di distribuzione dell'energia elettrica esistenti, presentate dai gestori del sistema di distribuzione.
+1.
+                    
+                        
+                            Entro centottanta giorni dalla data di entrata in vigore della presente disposizione, l'ARERA aggiorna le condizioni tecniche ((ed economiche nonche')) le modalita' procedurali per le connessioni alla rete elettrica degli impianti a fonti rinnovabili e degli impianti di accumulo, fatta eccezione per quelli off-shore, prevedendo: 
+ 
+                        
+                        
+                            a)
+                            
+                                che il gestore ((del sistema)) di trasmissione nazionale: 
+ 1) sia autorizzato a rilasciare soluzioni di connessione che afferiscono a un punto di connessione anche in eccesso alla capacita' massima accoglibile nel medesimo punto; 
+ 2) allochi la capacita' di rete disponibile e rilasci le relative soluzioni di connessione tramite procedure trasparenti e non discriminatorie; 
+ 3) assegni definitivamente la capacita' di rete disponibile ai soggetti risultati assegnatari nell'ambito delle procedure di cui al numero 2) e che siano in possesso del titolo abilitativo ai sensi dell'articolo 8 o dell'autorizzazione unica ai sensi dell'articolo 9; 
+ 4) pianifichi soluzioni di connessione tenendo conto della massima capacita' per porzione ((di rete nonche')) di un obiettivo generale di rafforzamento della competitivita' delle procedure di cui all'articolo 5 del decreto legislativo n. 199 del 2021; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                che i gestori del sistema di distribuzione: 
+ 1) possano rilasciare, tramite procedure trasparenti e non discriminatorie, soluzioni di connessione sulle reti di competenza che afferiscano a un punto di connessione anche in eccesso alla capacita' massima accoglibile nel medesimo punto; 
+ 2) siano autorizzati a rilasciare soluzioni di connessione sulle reti di bassa tensione anche in relazione a impianti che entrino in esercizio prima della realizzazione degli interventi eventualmente necessari sulle reti di alta e altissima tensione; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                ogni misura utile a garantire, nel quadro dei principi, delle finalita' e delle attribuzioni ((stabiliti)) dalla legge 14 novembre 1995, n. 481, un'efficiente gestione della capacita' della rete, anche mediante misure decadenziali delle soluzioni di connessione in caso di esito negativo delle procedure abilitative o autorizzatorie o di mancato rispetto dei termini di cui al comma 7 del presente articolo.
+
+((I numeri)) 2) e 3) della lettera a) ((del comma 1)) non si applicano nel caso di richieste di connessione relative alla realizzazione di impianti di distribuzione dell'energia elettrica o al potenziamento ovvero all'ampliamento di impianti di distribuzione dell'energia elettrica esistenti, presentate dai gestori del sistema di distribuzione.
 
 Nelle more della pubblicazione dei provvedimenti adottati dall'ARERA ai sensi del comma 1, il gestore del sistema di trasmissione nazionale e i gestori del sistema di distribuzione possono rilasciare soluzioni di connessione che afferiscono a un determinato punto di connessione alla rete in eccesso alla capacita' massima accoglibile nel medesimo punto di connessione.
 
@@ -221,9 +595,59 @@ Qualora gli interventi di cui al primo periodo ricadano in aree idonee ai sensi 
 
 Il comma 8 non si applica qualora gli interventi di sviluppo e potenziamento della rete di trasmissione nazionale siano gia' validati dal gestore del sistema di trasmissione nazionale e ricompresi in progetti di impianti da fonti rinnovabili o di impianti di accumulo le cui procedure abilitative o autorizzatorie risultino gia' avviate alla data di pubblicazione dei provvedimenti adottati dall'ARERA ai sensi del comma 1. Nei casi di cui al primo periodo e' comunque fatta salva la facolta' dei soggetti proponenti i progetti di impianti da fonti rinnovabili o di impianti di accumulo afferenti al medesimo intervento di sviluppo e potenziamento della rete di trasmissione nazionale di richiedere congiuntamente al gestore della rete di trasmissione nazionale di presentare istanza di autorizzazione ((ai sensi del comma 8, primo o secondo periodo)).
 
+10.
+                    
+                        
+                            Sono realizzati ai sensi dell'articolo 1-sexies, commi 4-sexies, 4-septies, 4-octies, 4-decies, 4-undecies, 4-duodecies e 4-terdecies, del decreto-legge n. 239 del 2003, su impulso del gestore del sistema di trasmissione nazionale, gli interventi di potenziamento della rete di trasmissione nazionale relativi a impianti da fonti rinnovabili o a impianti di accumulo consistenti: 
+ 
+                        
+                        
+                            a)
+                            
+                                nell'adeguamento o nell'ampliamento di stazioni elettriche esistenti situate in aree prive di vincoli ai sensi della parte seconda o terza del ((codice dei beni culturali e del paesaggio, di cui al decreto legislativo 22 gennaio 2004, n. 42, nonche' di vincoli)) ambientali, geologici ovvero idrogeologici; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                nella realizzazione di stazioni elettriche che insistano su aree o su siti industriali dismessi, anche parzialmente, o su aree prive di vincoli ai sensi della parte seconda o terza del ((codice di cui al decreto legislativo n. 42 del 2004 nonche' di vincoli)) ambientali, geologici ovvero idrogeologici; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                nella realizzazione di raccordi alla rete di trasmissione nazionale aventi una lunghezza complessiva non superiore a tre chilometri, se in aereo, o a dodici chilometri, se in cavo interrato, insistenti su aree prive di vincoli ai sensi della parte seconda o terza del ((codice di cui al decreto legislativo n. 42 del 2004 nonche' di vincoli)) ambientali, geologici ovvero idrogeologici; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                nell'ammodernamento e nel potenziamento di elettrodotti esistenti realizzati sul medesimo tracciato o che se ne discostano per ((non piu')) di sessanta metri lineari e che non comportano una variazione dell'altezza utile dei sostegni superiore al trenta per cento dei medesimi, insistenti su aree prive di vincoli ai sensi della parte seconda o terza del ((codice di cui al decreto legislativo n. 42 del 2004 nonche' di vincoli)) ambientali, geologici ovvero idrogeologici.
+
 Il gestore del sistema di trasmissione nazionale allega alla denuncia di cui al comma 10 una dichiarazione attestante la legittima disponibilita' della superficie su cui realizzare gli interventi. Ai fini dell'acquisizione della legittima disponibilita' della superficie ai sensi del primo periodo non trovano applicazione le procedure previste dal testo unico delle disposizioni legislative e regolamentari in materia di espropriazione per pubblica utilita', di cui al decreto del Presidente della Repubblica 8 giugno 2001, n. 327.
 
 ## Art. 11. — Sanzioni amministrative in materia di costruzione ed esercizio di impianti
+
+1.
+                    
+                        
+                            Fermo restando il ripristino dello stato dei luoghi, la costruzione e l'esercizio delle opere e impianti in assenza dell'autorizzazione di cui all'articolo 9 o in difformita' della stessa e' assoggettata alla sanzione amministrativa pecuniaria da euro 1.000 a euro 150.000, cui sono tenuti in solido il proprietario dell'impianto, l'esecutore delle opere e il direttore dei lavori. Gli stessi soggetti sono tenuti in ogni caso al ripristino dello stato dei luoghi. L'entita' della sanzione e' determinata, con riferimento alla parte dell'impianto non autorizzata: 
+ 
+                        
+                        
+                            a)
+                            
+                                nella misura da euro 40 a euro 240 per ogni chilowatt termico di potenza nominale, in caso di impianti termici di produzione di energia; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                nella misura da euro 60 a euro 360 per ogni chilowatt elettrico di potenza nominale, in caso di impianti non termici di produzione di energia.
 
 Fermo restando, in ogni caso, il ripristino dello stato dei luoghi, l'esecuzione degli interventi di cui all'articolo 8 in assenza della procedura abilitativa semplificata o in difformita' da quanto nella stessa dichiarato, e' punita con la sanzione amministrativa pecuniaria da euro 500 a euro 30.000, cui sono tenuti in solido i soggetti di cui al comma 1.
 
@@ -242,9 +666,182 @@ Fermo restando l'obbligo di conformazione al titolo e di ripristino dello stato 
 
 ## Art. 11-bis. — (Aree idonee su terraferma)
 
+1.
+                    
+                        
+                            Fermo restando quanto previsto all'articolo 11-ter, ((sono considerati)) aree idonee all'installazione di impianti da fonti rinnovabili: 
+ 
+                        
+                        
+                            a)
+                            
+                                i siti ove sono gia' installati ((impianti che producono energia dalla stessa fonte rinnovabile)) e in cui vengono realizzati interventi di modifica, anche sostanziale, per rifacimento, potenziamento o integrale ricostruzione, eventualmente abbinati a sistemi di accumulo, che non comportino una variazione dell'area occupata superiore al 20 per cento, fatto salvo quanto previsto dal Codice dei beni culturali e del paesaggio ((, di cui al decreto legislativo 22 gennaio 2004, n. 42,)) in materia di autorizzazioni culturali e paesaggistiche per le nuove aree occupate. La variazione dell'area di cui al primo periodo non e' consentita per gli impianti fotovoltaici a terra installati in aree agricole; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                le aree dei siti oggetto di bonifica individuate ai sensi del titolo V della parte quarta del decreto legislativo 3 aprile 2006, n. 152; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                le cave e le miniere cessate, non recuperate o abbandonate o in condizioni di degrado ambientale, o le porzioni di cave e miniere non suscettibili di ulteriore sfruttamento; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                le discariche o i lotti di discarica chiusi ovvero ripristinati; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                i siti e gli impianti nelle disponibilita' delle societa' del gruppo Ferrovie dello Stato italiane e dei gestori di infrastrutture ferroviarie, nonche' delle societa' concessionarie autostradali; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                i siti e gli impianti nella disponibilita' delle societa' di gestione aeroportuale all'interno dei sedimi aeroportuali, ivi inclusi quelli all'interno del perimetro di pertinenza degli aeroporti delle isole minori di cui all'allegato 1 al decreto del Ministro dello sviluppo economico 14 febbraio 2017, pubblicato nella Gazzetta Ufficiale n. 114 del 18 maggio 2017, ferme restando le necessarie verifiche tecniche da parte dell'Ente nazionale per l'aviazione civile; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                i beni del demanio militare o a qualunque titolo in uso al Ministero della difesa di cui all'articolo 20 del decreto-legge 1° marzo 2022, n. 17, convertito, con modificazioni, dalla legge 27 aprile 2022, n. 34, per le finalita' ivi previste; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                i beni del demanio o a qualunque titolo in uso al Ministero dell'interno, al Ministero della giustizia e agli uffici giudiziari, di cui all'articolo 10 del decreto-legge 23 settembre 2022, n. 144, convertito, con modificazioni, dalla legge 17 novembre 2022, n. 175; 
+
+                            
+                        
+                        
+                            i)
+                            
+                                i beni immobili, individuati dall'Agenzia del demanio, sentito il Ministero dell'economia e delle finanze ((, e il Ministero dell'agricoltura, della sovranita' alimentare e delle foreste nei casi di beni a destinazione agricola)), di proprieta' dello Stato, non contemplati in programmi di valorizzazione o dismissione di propria competenza, nonche' i beni statali individuati dalla medesima Agenzia di concerto con le amministrazioni usuarie, in uso alle stesse, ai sensi dell'articolo 16 del decreto-legge 24 febbraio 2023, n. 13, convertito, con modificazioni, dalla legge 21 aprile 2023, n. 41; 
+
+                            
+                        
+                        
+                            l)
+                            
+                                per gli impianti fotovoltaici, in aggiunta alle aree di cui alle lettere a), b), c), d), e), f), g), h) e i): 
+ 1) le aree interne agli stabilimenti e agli impianti industriali, non destinati alla produzione agricola ((o zootecnica ne' alla produzione di energia da fonte rinnovabile)), di cui all'articolo 268, comma 1, (( lettere h) e l) )), del decreto legislativo n. 152 del 2006 ((...)) nonche' le aree classificate agricole racchiuse in un perimetro i cui punti distino non piu' di 350 metri dal medesimo impianto o stabilimento; 
+ 2) le aree adiacenti alla rete autostradale entro una distanza non superiore a 300 metri; 
+ 3) gli edifici e le strutture edificate e relative superfici esterne pertinenziali; 
+ 4) le aree a destinazione industriale, direzionale, artigianale, commerciale, ovvero destinate alla logistica o all'insediamento di centri di elaborazione dati; 
+ 5) le aree adibite a parcheggi, limitatamente alle strutture di copertura; 
+ 6) gli invasi idrici, i laghi di cave e le miniere dismesse o in condizioni di degrado ambientale; 
+ 7) gli impianti e le relative aree di pertinenza ricadenti nel perimetro di competenza del servizio idrico integrato; 
+
+                            
+                        
+                        
+                            m)
+                            
+                                per gli impianti di produzione di biometano, in aggiunta alle aree di cui alle lettere a), b), c), d), e), f), g), h) e i): 
+ 1) le aree classificate agricole racchiuse in un perimetro i cui punti distano non piu' di 500 metri da zone a destinazione industriale, artigianale e commerciale, compresi i siti di interesse nazionale; 
+ 2) le aree interne agli stabilimenti e agli impianti industriali di cui all'articolo 268, comma 1, (( lettere h) e l) )), del decreto legislativo n. 152 del 2006 ((...)) nonche' le aree classificate agricole racchiuse in un perimetro i cui punti distino non piu' di 500 metri dal medesimo impianto o stabilimento; 
+ 3) le aree adiacenti alla rete autostradale entro una distanza non superiore a 300 metri. 
+ ((5))
+
 L'installazione degli impianti fotovoltaici con moduli collocati a terra, in zone classificate agricole dai piani urbanistici vigenti, e' consentita esclusivamente nelle aree di cui al comma 1, lettere a), limitatamente agli interventi per modifica, rifacimento, potenziamento o integrale ricostruzione degli impianti gia' installati, a condizione che non comportino incremento dell'area occupata, c), d), e), (( f) e l) )), numeri 1) e 2). Il primo periodo non si applica nel caso di progetti che prevedano impianti fotovoltaici con moduli collocati a terra finalizzati alla costituzione di una comunita' energetica rinnovabile ai sensi dell'articolo 31 del decreto legislativo n. 199 del 2021, nonche' in caso di progetti attuativi delle altre misure di investimento del Piano Nazionale di Ripresa e Resilienza (PNRR) ((...)) e del Piano nazionale per gli investimenti complementari al PNRR (PNC) di cui all'articolo 1 del decreto-legge 6 maggio 2021, n. 59, convertito, con modificazioni, dalla legge 1° luglio 2021, n. 101, ovvero di progetti necessari per il conseguimento degli obiettivi del PNRR. E' comunque sempre consentita l'installazione di impianti agrivoltaici di cui all'articolo 4, comma 1, lettera f-bis), attraverso l'impiego di moduli collocati in posizione adeguatamente elevata da terra. ((Per l'installazione di un impianto agrivoltaico, il soggetto proponente si dota di dichiarazione asseverata redatta da un professionista abilitato che attesti che l'impianto e' idoneo a conservare almeno l'80 per cento della produzione lorda vendibile. La dichiarazione e' allegata al progetto presentato ai sensi dell'articolo 9 e comunque messa a disposizione dell'amministrazione nell'ambito delle attivita' di controllo)).
 
 Entro centoventi giorni dalla data di entrata in vigore della presente disposizione ((ciascuna regione e, entro centottanta giorni dalla medesima data, ciascuna provincia autonoma, garantendo l'opportuno coinvolgimento degli enti locali,)) individua, con propria legge, aree idonee all'installazione di impianti da fonti rinnovabili, ulteriori rispetto a quelle di cui al comma 1, nel rispetto dei principi e dei criteri stabiliti ai sensi del comma 4 e degli obiettivi stabiliti ai sensi del comma 5. Il Dipartimento per gli affari regionali e le autonomie della Presidenza del Consiglio dei ministri esercita funzioni di impulso anche ai fini dell'esercizio del potere di cui al terzo periodo. Nel caso di mancata adozione della legge di cui al primo periodo entro il termine ivi previsto ovvero di mancata ottemperanza ai principi e ai criteri di cui al comma 4 ovvero agli obiettivi di cui al comma 5, si applica l'articolo 41 della legge 24 dicembre 2012, n. 234. ((Le regioni a statuto speciale e le province autonome)) provvedono al processo programmatorio di individuazione delle aree idonee ai sensi dello Statuto speciale e delle relative norme di attuazione.
+
+4.
+                    
+                        
+                            Ai fini dell'adozione delle leggi ai sensi del comma 3, le regioni e le province autonome tengono conto dei seguenti principi e criteri: 
+ 
+                        
+                        
+                            a)
+                            
+                                tutelare il patrimonio culturale e il paesaggio, la qualita' dell'aria e dei corpi idrici, le aree agricole, con particolare riguardo a quelle di pregio, e forestali; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                salvaguardare le specificita' delle aree incluse nella Rete Natura 2000 e delle aree naturali protette, delle zone umide di importanza internazionale ai sensi della ((Convenzione firmata a Ramsar il 2 febbraio 1971, di cui al decreto del Presidente della Repubblica 13 marzo 1976, n. 448, e)) delle zone di protezione dei siti UNESCO, in conformita' a quanto previsto dall'articolo 11-quinquies; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                la qualificazione di un'area come idonea puo' dipendere dalla fattispecie tecnologica di impianto a fonte rinnovabile o dalla potenza di un determinato impianto; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                impossibilita' di prevedere divieti generali e astratti all'installazione di impianti a fonti rinnovabili, fermo restando quanto previsto dal comma 2 del presente articolo e dall'articolo 11-quinquies del presente decreto; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                qualificare prioritariamente come aree idonee le superfici e le strutture edificate o caratterizzate dall'impermeabilizzazione del suolo, anche al fine di favorire l'autoconsumo individuale e collettivo; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                ai fini della qualificazione di un'area agricola come idonea rileva la presenza di attivita' produttive e di aziende agricole insediate sul territorio, al fine di favorire l'autoconsumo di energia da fonti rinnovabili, anche mediante la costituzione di comunita' energetiche; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                al fine di preservare la destinazione agricola dei suoli, le aree agricole qualificabili come aree idonee a livello regionale non sono inferiori allo 0,8 per cento delle superfici agricole utilizzate (SAU) ne' superiori al 3 per cento delle SAU medesime ((, comprensive della superficie su cui insistono impianti agrivoltaici. Le regioni e le province autonome possono prevedere che le aree idonee di cui al comma 1 ricadenti in zona agricola contribuiscono al calcolo della predetta percentuale)); 
+
+                            
+                        
+                        
+                            h)
+                            
+                                fermo restando quanto previsto alla lettera g), ((puo' essere previsto un differente limite massimo per ciascun comune)); 
+
+                            
+                        
+                        
+                            i)
+                            
+                                qualificare prioritariamente come idonee le aree connotate dalla presenza di poli industriali, anche al fine di agevolare l'autoconsumo e la decarbonizzazione dei settori produttivi; 
+
+                            
+                        
+                        
+                            l)
+                            
+                                qualificare prioritariamente come idonee le aree di crisi industriale complessa, anche allo scopo di promuovere la riconversione industriale e la salvaguardia dei livelli occupazionali; 
+
+                            
+                        
+                        
+                            m)
+                            
+                                allo scopo di bilanciare le esigenze di tutela dell'ambiente con quelle di tutela del patrimonio culturale e paesaggistico, le regioni non possono qualificare come idonee le aree ricomprese nel perimetro dei beni sottoposti a tutela ai sensi del Codice dei beni culturali e del paesaggio ((, di cui al decreto legislativo n. 42 del 2004,)) ne' quelle incluse in una fascia di rispetto di tre chilometri, nel caso di impianti eolici, e di cinquecento metri, nel caso di impianti fotovoltaici, dal perimetro dei beni medesimi, ne' identificare aree idonee ove le caratteristiche degli impianti da realizzare siano in contrasto con le norme di attuazione previste dai piani paesaggistici.
 
 Le leggi adottate ai sensi del comma 3 garantiscono il raggiungimento al 2030 degli obiettivi di potenza installata da fonti rinnovabili previsti dalla Tabella 1 dell'allegato C-bis. Ai fini del raggiungimento degli obiettivi ai sensi del primo periodo, le regioni e le province autonome possono stipulare tra loro accordi per il trasferimento statistico di determinate quantita' di potenza da fonti rinnovabili. Con decreto del direttore generale competente del Ministero dell'ambiente e della sicurezza energetica sono definiti lo schema di accordo tipo per il trasferimento statistico, nonche' le modalita' di calcolo delle quantita' di potenza oggetto del trasferimento stesso. Nei casi di impianti da fonti rinnovabili ubicati sul territorio di piu' regioni o province autonome o la cui produzione sia attribuibile agli apporti di piu' regioni ovvero province autonome, la ripartizione delle rispettive potenze ai fini del conseguimento degli obiettivi ai sensi del primo periodo e' definita mediante accordi stipulati tra ciascun ente territoriale interessato.
 
@@ -260,6 +857,24 @@ Ai fini del concreto raggiungimento degli obiettivi di cui al comma 5, per conse
 ## Art. 11-ter. — (Aree idonee a mare)
 
 Nel rispetto delle esigenze di tutela dell'ecosistema marino e costiero, dello svolgimento dell'attivita' di pesca, del patrimonio culturale e del paesaggio, sono considerate aree idonee per la realizzazione di interventi relativi a impianti di produzione di energia rinnovabile off-shore, ivi compresi gli interventi di cui all'allegato C, sezione II, lettera v), le aree individuate dai piani di gestione dello spazio marittimo ai sensi dell'articolo 5, commi 1, lettera c), e 5, del decreto legislativo 17 ottobre 2016 n. 201, e del decreto del Presidente del Consiglio dei ministri ((1° dicembre)) 2017, pubblicato nella Gazzetta Ufficiale n. 19 del 24 gennaio 2018.
+
+2.
+                    
+                        
+                            Ai fini della realizzazione degli interventi di cui al comma 1 sono in ogni caso ((considerati idonei)): 
+ 
+                        
+                        
+                            a)
+                            
+                                le piattaforme petrolifere in disuso e le aree distanti 2 miglia nautiche da ciascuna piattaforma, fatto salvo quanto stabilito dal decreto del Ministro dello sviluppo economico ((15 febbraio)) 2019, pubblicato nella Gazzetta Ufficiale n. 57 dell'8 marzo 2019; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                i porti, per impianti eolici di potenza fino a 100 MW di potenza installata, previa eventuale variante del piano regolatore portuale, ove necessaria, da adottarsi entro sei mesi dalla presentazione dell'istanza di autorizzazione unica.
 
 Il Ministero dell'ambiente e della sicurezza energetica adotta e pubblica nel proprio sito internet istituzionale un vademecum per i soggetti proponenti, relativo agli adempimenti e alle informazioni minime necessarie per l'autorizzazione unica degli interventi di cui al comma 1 del presente articolo, ai sensi dell'articolo 9 del presente decreto.
 
@@ -305,6 +920,24 @@ I Piani di cui ai commi 5 e 6 sono sottoposti a valutazione ambientale strategic
 
 I Piani di cui ai commi 5 e 6 sono riesaminati periodicamente e in ogni caso modificati ove necessario per tenere conto degli aggiornamenti della mappatura di cui al comma 1 e del PNIEC.
 
+10.
+                    
+                        
+                            La realizzazione degli interventi di cui agli allegati A e B che insista nelle zone di accelerazione non e' subordinata all'acquisizione dell'autorizzazione dell'autorita' competente in materia paesaggistica che si esprime con parere obbligatorio e non vincolante entro i medesimi termini previsti per il rilascio dei relativi atti di assenso ai sensi degli articoli 7 e 8. Nel caso degli interventi di cui all'allegato C che insistano nelle zone di accelerazione: 
+ 
+                        
+                        
+                            a)
+                            
+                                si applicano le disposizioni di cui all'articolo 11-quater, comma 1, secondo, terzo e quarto periodo; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                non si applicano le procedure di valutazione ambientale di cui al titolo III della parte seconda del decreto legislativo n. 152 del 2006, a condizione che il progetto contempli le misure di mitigazione stabilite in sede di valutazione ambientale strategica dei Piani di cui ai commi 5 e 6.
+
 ## Art. 12-bis. — (Piattaforma digitale per aree idonee e zone di accelerazione)
 
 Entro sessanta giorni dalla data di entrata in vigore della presente disposizione, al fine di garantire un adeguato servizio di supporto alle regioni e alle province autonome nel processo di individuazione delle aree idonee e delle zone di accelerazione e nelle attivita' di monitoraggio ((a esso connesse)), con decreto del Ministero dell'ambiente e della sicurezza energetica, previa intesa in sede di Conferenza unificata di cui all'articolo 8 del decreto legislativo n. 281 del 1997, sono disciplinate le modalita' di funzionamento ((della piattaforma)) istituita con decreto del Ministro dell'ambiente e della sicurezza energetica ((del 17 settembre)) 2024, recante «Disciplina e regolamentazione delle modalita' di funzionamento della piattaforma digitale per le aree idonee di cui all'articolo 21 del decreto legislativo 8 novembre 2021, n. 199», allo scopo di includervi ogni ((informazione e strumento necessari)) per connettere ed elaborare i dati per la caratterizzazione e la qualificazione del territorio, la stima del potenziale e la classificazione delle superfici, delle aree e delle zone. La piattaforma di cui al primo periodo e' interoperabile con la piattaforma di cui all'articolo 48 del decreto legislativo n. 199 del 2021. La piattaforma di cui al primo periodo reca un'apposita sezione dedicata alla ((consultazione da parte del pubblico)) dei dati in essa presenti, nel rispetto della normativa in materia di protezione dei dati personali e di eventuali esigenze di segretezza delle informazioni commerciali e per la sicurezza nazionale.
@@ -333,7 +966,82 @@ e) l'individuazione del regime amministrativo applicabile per gli interventi di 
 I progetti relativi agli interventi di cui agli allegati A e B non sono sottoposti alle valutazioni ambientali di cui al titolo III della parte seconda del decreto legislativo 3 aprile 2006, n. 152.
 Restano ferme le disposizioni di cui all'articolo 5 del decreto del Presidente della Repubblica 8 settembre 1997, n. 357, in materia di valutazione d'incidenza.
 
+2.
+                    
+                        
+                            Ai fini di cui al comma 1, agli allegati alla parte seconda del decreto legislativo n. 152 del 2006 sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                all'allegato II, dopo il numero 2), e' inserito il seguente: 
+ «2-bis) impianti solari fotovoltaici collocati in modalita' flottante sullo specchio d'acqua di invasi realizzati da dighe di cui all'articolo 1 del decreto-legge 8 agosto 1994, n. 507, convertito, con modificazioni, dalla legge 21 ottobre 1994, n. 584.»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                all'allegato II-bis, numero 1), dopo la lettera a), sono inserite le seguenti: 
+ «a-bis) impianti fotovoltaici di potenza superiore a 25 MW nelle aree classificate idonee; 
+ a-ter) impianti fotovoltaici di potenza superiore a 30 MW installati a terra ubicati nelle zone e nelle aree a destinazione industriale, artigianale e commerciale, nonche' in discariche o lotti di discarica chiusi e ripristinati ovvero in cave o lotti o porzioni di cave non suscettibili di ulteriore sfruttamento ((o nelle zone di accelerazione));»; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                all'allegato III: 
+ 1) dopo la lettera c-bis), sono inserite le seguenti: 
+ «c-ter) Impianti solari fotovoltaici collocati in modalita' flottante sullo specchio d'acqua di invasi realizzati da dighe diverse da quelle di cui all'articolo 1 del decreto-legge 8 agosto 1994, n. 507, convertito, con modificazioni, dalla legge 21 ottobre 1994, n. 584; 
+ c-quater) Impianti fotovoltaici di potenza pari o superiore a 10 MW collocati in modalita' flottante sullo specchio d'acqua di invasi e di bacini idrici ((, anche artificiali)), compresi gli invasi idrici nelle cave dismesse o in esercizio, o installati a copertura dei canali di irrigazione, diversi da quelli di cui all'allegato II, numero 2) e di cui alla lettera c-ter);»; 
+ 2) dopo la lettera v), e' inserita la seguente: 
+ «v-bis) sonde geotermiche a circuito chiuso con potenza termica complessiva pari o superiore ((a 500)) kW e con profondita' superiore a 3 metri dal piano di campagna, se orizzontali, e superiore ((a 250)) metri dal piano di campagna, se verticali;»; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                all'allegato IV, numero 2): 
+ 1) la lettera a) e' sostituita dalla seguente: 
+ «a) attivita' di ricerca sulla terraferma delle sostanze minerali di miniera di cui all'articolo 2, comma 2, del regio decreto 29 luglio 1927, n. 1443, ivi comprese le risorse geotermiche, con esclusione: 
+ 1) degli impianti geotermici pilota di cui all'articolo 1, comma 3-bis, del decreto legislativo 11 febbraio 2010, n. 22, incluse le relative attivita' minerarie, fatta salva la disciplina delle acque minerali e termali di cui alla lettera b) dell'allegato III alla parte seconda; 
+ 2) delle sonde geotermiche di cui all'allegato III, lettera v-bis);»; 
+ 2) dopo la lettera d), sono inserite le seguenti: 
+ «d-bis) impianti fotovoltaici, di potenza pari o superiore a 15 MW, installati su strutture o edifici esistenti, sulle relative pertinenze o posti su strutture o manufatti fuori terra diversi dagli edifici; 
+ d-ter) impianti fotovoltaici o agrivoltaici di potenza pari o superiore a 12 MW in zone classificate agricole che consentano l'effettiva compatibilita' e integrazione con le attivita' agricole; 
+ d-quater) impianti fotovoltaici di potenza superiore a 12 MW nelle aree classificate idonee ((o nelle zone di accelerazione)); 
+ d-quinquies) impianti fotovoltaici di potenza pari o superiore a 15 MW installati a terra ubicati nelle zone e nelle aree a destinazione industriale, artigianale e commerciale, nonche' in discariche o lotti di discarica chiusi e ripristinati ovvero in cave o lotti o porzioni di cave non suscettibili di ulteriore sfruttamento;».
+
 ## Art. 14. — Disposizioni di coordinamento
+
+1.
+                    
+                        
+                            Al decreto legislativo 8 novembre 2021, n. 199, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                all'articolo 18, comma 3, le parole: «di cui all'articolo 12, comma 10, del decreto legislativo 29 dicembre 2003, n. 387» sono sostituite dalle seguenti: «di cui al decreto del Ministro delle attivita' produttive 10 settembre 2010, pubblicato nella Gazzetta Ufficiale n. 219 del 18 settembre 2010»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                all'articolo 19, comma 3, le parole: «sono adottati modelli unici per le procedure di autorizzazione di cui all'articolo 4, comma 2 del decreto legislativo 3 marzo 2011, n. 28» sono sostituite dalle seguenti: «e' adottato il modello per il procedimento di autorizzazione unica»; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                all'articolo 22, comma 1, la lettera b) e' sostituita dalla seguente: 
+ «b) i termini del procedimento di autorizzazione unica per impianti in aree idonee sono ridotti di un terzo, con arrotondamento per difetto al numero intero ove necessario.».
 
 All'articolo 7, comma 1, del decreto-legge 17 maggio 2022, n. 50, convertito, con modificazioni, dalla legge 15 luglio 2022, n. 91, le parole: «di cui all'articolo 12 del decreto legislativo 29 dicembre 2003, n. 387» sono soppresse.
 
@@ -345,11 +1053,58 @@ Entro centoventi giorni dalla data di entrata in vigore del presente decreto, co
 
 Entro centoventi giorni dalla data di entrata in vigore del presente decreto, il decreto adottato ai sensi dell'articolo 25, comma 6-bis, del decreto legislativo n. 199 del 2021 e' adeguato alle disposizioni del presente decreto.
 
+7.
+                    
+                        
+                            Gli effetti delle nuove dichiarazioni o delle verifiche di cui agli articoli 12, 13 e 140 del codice dei beni culturali e del paesaggio, di cui al decreto legislativo 22 gennaio 2004, n. 42, non si applicano agli interventi di cui al presente decreto che, prima dell'avvio del procedimento di dichiarazione o verifica: 
+ 
+                        
+                        
+                            a)
+                            
+                                siano abilitati o autorizzati ai sensi degli articoli 7, 8 e 9; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                abbiano ottenuto ((...)) il provvedimento favorevole di valutazione ambientale.
+
 ((Ai fini del computo dei termini di cui agli articoli 10, comma 3, secondo e terzo periodo, e 10-bis, comma 7, primo e secondo periodo, si considera la data posteriore tra quella di accettazione della soluzione di connessione ai sensi dell'articolo 10-bis e quella di rilascio della concessione di cui al medesimo articolo 10)).
 
 L'installazione di impianti fotovoltaici con moduli collocati a terra in zone classificate agricole dai piani urbanistici vigenti e' consentita nei limiti di cui all'articolo 11-bis, comma 2.
 
 Nel caso di interventi relativi a impianti ibridi si applica il regime piu' oneroso tra quelli previsti per le singole tipologie di interventi di cui agli allegati A, B o C. Qualora le singole tipologie di interventi ricadano in sezioni diverse dell'allegato C, l'amministrazione procedente e' il Ministero dell'ambiente e della sicurezza energetica.
+
+10.
+                    
+                        
+                            Al testo unico delle disposizioni legislative e regolamentari in materia edilizia, di cui al decreto del Presidente della Repubblica 6 giugno 2001, n. 380, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                all'articolo 1, dopo il comma 3 e' inserito il seguente: 
+ «3-bis. Fermo restando quanto previsto al capo VI del titolo IV, per la costruzione e l'esercizio degli impianti relativi alla produzione di energia da fonti rinnovabili si applicano le disposizioni di cui al decreto legislativo 25 novembre 2024, n. 190.
+Gli interventi edilizi di cui all'articolo 4, comma 1, lettera f-ter), del medesimo decreto legislativo n. 190 del 2024, rimangono soggetti alle disposizioni di cui al presente testo unico.» 
+
+                            
+                        
+                        
+                            a-bis)
+                            
+                                all'articolo 6, il comma 1-bis e' abrogato; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                all'articolo 123, comma 1: 
+ 1) al secondo periodo, dopo le parole: «1991, n. 10,» sono inserite le seguenti: «fatta eccezione per quelli relativi alle fonti rinnovabili di energia,»; 
+ 2) il terzo periodo e' soppresso.
 
 All'articolo 119, comma 1, del codice del processo amministrativo, di cui all'allegato 1 al decreto legislativo 2 luglio 2010, n. 104, dopo la lettera l) e' inserita la seguente: "l-bis) le controversie comunque attinenti alle procedure e ai provvedimenti della pubblica amministrazione in relazione ai progetti di impianti di energia da fonti rinnovabili di cui agli allegati A, B e C al decreto legislativo 25 novembre 2024, n. 190;"
 

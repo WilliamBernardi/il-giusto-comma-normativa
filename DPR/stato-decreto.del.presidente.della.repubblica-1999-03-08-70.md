@@ -8,8 +8,8 @@ codice_redazionale: 099G0121
 vigente: true
 source: normattiva-opendata
 collection: DPR
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:48:11Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -36,6 +36,31 @@ Restano salve le competenze legislative delle regioni e delle province autonome 
  Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, comma 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con D.P.R. 28 dicembre 1985, n. 1092, al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
 
 ## Art. 2. — Definizioni
+
+1.
+                    
+                        
+                            Ai fini del presente decreto s'intende:
+ 
+                        
+                        
+                            a)
+                            
+                                per "lavoro a distanza" l'attivita' di telelavoro svolta in conformita' alle disposizioni del presente decreto;
+
+                            
+                        
+                        
+                            b)
+                            
+                                per "telelavoro" la prestazione di lavoro eseguita dal dipendente di una delle amministrazioni pubbliche di cui all'articolo 1, comma 2, del decreto legislativo 3 febbraio 1993, n. 29, in qualsiasi luogo ritenuto idoneo, collocato al di fuori della sede di lavoro, dove la prestazione sia tecnicamente possibile, con il prevalente supporto di tecnologie dell'informazione e della comunicazione, che consentano il collegamento con l'amministrazione cui la prestazione stessa inerisce;
+
+                            
+                        
+                        
+                            c)
+                            
+                                per "sede di lavoro" quella dell'ufficio al quale il dipendente e' assegnato.
 
 ## Art. 3. — Progetti di telelavoro
 

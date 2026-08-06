@@ -8,8 +8,8 @@ vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
 vigenza_date: 2024-11-15
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:31Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -30,6 +30,42 @@ Sulla proposta del Presidente del Consiglio dei ministri e del Ministro dei beni
 Il presente decreto provvede al recepimento nell'ordinamento nazionale della direttiva 2014/26/UE del Parlamento europeo e del Consiglio del 26 febbraio 2014 sulla gestione collettiva dei diritti d'autore e dei diritti connessi e sulla concessione di licenze multiterritoriali per i diritti su opere musicali per l'uso online nel mercato interno. Esso stabilisce i requisiti necessari per garantire il buon funzionamento della gestione dei diritti d'autore e dei diritti connessi da parte degli organismi di gestione collettiva e delle entita' di gestione indipendente, nonche' i requisiti per la concessione di licenze multiterritoriali da parte di organismi di gestione collettiva dei diritti d'autore per l'uso online di opere musicali nel mercato interno.
 
 ## Art. 2. — Definizioni
+
+1.
+                        
+                            
+                                Per «organismo di gestione collettiva» si intende un soggetto, ivi compresa la Societa' italiana degli autori ed editori (SIAE) disciplinata dagli articoli 180 e seguenti della legge 22 aprile 1941, n. 633, e dalla legge 9 gennaio 2008, n. 2, che, come finalita' unica o principale, gestisce diritti d'autore o diritti connessi ai diritti d'autore per conto di piu' di un titolare di tali diritti, a vantaggio collettivo di questi, e che soddisfi uno o entrambi i seguenti requisiti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    e' detenuto o controllato dai propri membri; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    non persegue fini di lucro.
+
+2.
+                        
+                            
+                                Per «entita' di gestione indipendente» si intende, fermo restando quanto previsto dall'articolo 180, della legge 22 aprile 1941, n. 633, un soggetto che, come finalita' unica o principale, gestisce diritti d'autore o diritti connessi ai diritti d'autore per conto di piu' di un titolare di tali diritti, a vantaggio collettivo di questi, e che soddisfi entrambi i seguenti requisiti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    non e' detenuta ne' controllata, direttamente o indirettamente, integralmente o in parte, dai titolari dei diritti; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    persegue fini di lucro.
 
 Per «titolare dei diritti» si intende qualsiasi persona o entita', diversa da un organismo di gestione collettiva, che detiene diritti d'autore o diritti connessi ai diritti d'autore o a cui, in base a un accordo per lo sfruttamento dei diritti o alla legge, spetta una parte dei proventi.
 
@@ -105,6 +141,38 @@ Gli organismi di gestione collettiva che, in base ad un rapporto giuridico diret
 
 ## Art. 9. — Organi degli organismi di gestione collettiva
 
+1.
+                        
+                            
+                                Gli statuti degli organismi di gestione collettiva prevedono i seguenti organi: 
+ 
+                            
+                            
+                                a)
+                                
+                                    assemblea generale dei membri; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    organo di amministrazione; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    organo di sorveglianza; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    organo di controllo contabile.
+
 ## Art. 10. — Assemblea generale dei membri
 
 L'assemblea generale e' composta dai membri dell'organismo di gestione collettiva ed e' convocata almeno una volta l'anno.
@@ -113,13 +181,123 @@ L'assemblea generale decide in merito alla nomina e alla revoca dell'incarico de
 
 L'assemblea generale delibera in merito alle eventuali modifiche dello statuto e in merito alle condizioni di adesione dell'organismo di gestione collettiva, qualora non siano disciplinate nello statuto.
 
+4.
+                        
+                            
+                                L'assemblea generale delibera, nel rispetto della Sezione III, del presente Capo, almeno in merito a quanto segue: 
+ 
+                            
+                            
+                                a)
+                                
+                                    alla politica generale di distribuzione degli importi dovuti ai titolari dei diritti; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    alla politica generale sull'impiego degli importi non distribuibili; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    alla politica generale di investimento riguardante i proventi dei diritti e le eventuali entrate derivanti dall'investimento di tali proventi; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    alla politica generale in materia di detrazioni dai proventi dei diritti e dalle eventuali entrate derivanti dall'investimento di tali proventi; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    all'impiego degli importi non distribuibili; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    alla politica della gestione dei rischi; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    all'approvazione di qualsiasi acquisto, vendita o ipoteca di beni immobili; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    all'approvazione di fusioni e alleanze, alla costituzione di societa' controllate, all'acquisizione di partecipazioni o diritti in altre entita'; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    all'approvazione dell'assunzione e della concessione di prestiti o della fornitura di garanzia per gli stessi; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    alla nomina e revoca dei componenti dell'organo di controllo contabile. La presente lettera non si applica alla Societa' italiana degli autori e degli editori, per la quale resta fermo quanto previsto all'articolo 1, commi 3 e 4, della legge 9 gennaio 2008, n. 2.
+
 L'assemblea generale puo' delegare all'organo di cui all'articolo 11 i poteri di cui al comma 4, lettere f), g), h) ed i).
 
 Con riferimento al comma 4, lettere a), b), c) e d), l'assemblea generale puo' stabilire condizioni piu' dettagliate per l'impiego dei proventi dei diritti e delle entrate derivanti dal loro investimento.
 
 L'assemblea generale esercita il controllo sulle attivita' dell'organismo di gestione collettiva, approvando la relazione di trasparenza annuale di cui all'articolo 28. Delibera altresi' su ogni altra materia o questione prevista dallo statuto.
 
+8.
+                        
+                            
+                                Tutti i membri degli organismi di gestione collettiva hanno il diritto di partecipare e di esercitare, anche per via elettronica, secondo i criteri previsti dallo statuto, il diritto di voto in seno all'assemblea generale. Lo statuto puo' tuttavia prevedere restrizioni al diritto dei membri di esercitare il diritto di voto in seno all'assemblea generale sulla base di uno o di entrambi i seguenti criteri, purche' siano stabiliti e applicati in modo equo e proporzionato e siano pubblicamente accessibili in conformita' con le disposizioni degli articoli 25 e 26: 
+ 
+                            
+                            
+                                a)
+                                
+                                    durata dell'adesione; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    importi che un membro ha ricevuto o che gli competono.
+
 Ciascun membro degli organismi di gestione collettiva ha il diritto di designare un proprio rappresentante autorizzato a partecipare e votare a suo nome in seno all'assemblea generale dei membri, purche' tale designazione non comporti un conflitto di interessi. Lo statuto puo' stabilire restrizioni in merito alla designazione dei rappresentanti e all'esercizio dei diritti di voto da parte di questi ultimi, purche' tali restrizioni non pregiudichino l'adeguata ed effettiva partecipazione dei membri al processo decisionale dell'organismo di gestione collettiva. La delega e' valida per un'unica riunione dell'assemblea generale. All'interno della stessa il rappresentante gode degli stessi diritti che spetterebbero al membro che esso rappresenta ed esprime il voto conformemente alle istruzioni di voto impartite dal membro che rappresenta.
+
+10.
+                        
+                            
+                                Lo statuto puo' prevedere che i poteri dell'assemblea generale siano esercitati da un'assemblea di delegati eletti almeno ogni quattro anni dai membri dell'organismo di gestione collettiva, a condizione che: 
+ 
+                            
+                            
+                                a)
+                                
+                                    sia garantita un'effettiva e adeguata partecipazione dei membri al processo decisionale dell'organismo di gestione collettiva; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la rappresentanza delle diverse categorie di membri in seno all'assemblea dei delegati sia equa ed equilibrata.
 
 All'assemblea dei delegati si applicano, per quanto compatibili, le disposizioni di cui ai commi da 1 a 9.
 
@@ -132,6 +310,30 @@ Fermo restando quanto previsto dal decreto legislativo 8 giugno 2001, n. 231, lo
 L'organo di cui al comma 1 assicura il controllo e il monitoraggio costanti dell'esercizio delle funzioni e delle connesse attivita' attuative e strumentali posti in essere dai soggetti titolari degli organi di gestione.
 
 I componenti dell'organo di sorveglianza devono presentare annualmente all'assemblea generale una dichiarazione individuale sugli eventuali conflitti di interesse, contenente le informazioni di cui all'articolo 12, comma 9.
+
+4.
+                        
+                            
+                                L'organo di sorveglianza si riunisce regolarmente almeno al fine di: 
+ 
+                            
+                            
+                                a)
+                                
+                                    esercitare i poteri delegatigli dall'assemblea generale dei membri, compresi quelli di cui all'articolo 10, commi 2 e 5; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    monitorare le attivita' degli amministratori di cui all'articolo 12, tra cui la corretta esecuzione delle delibere dell'assemblea generale dei membri, con particolare riferimento a quelle sull'attuazione delle politiche generali di cui all'articolo 10, comma 4, lettere a), b),
+                                
+                            
+                            
+                                c)
+                                
+                                    e d).
 
 L'organo di sorveglianza riferisce in merito all'esercizio dei suoi poteri all'assemblea generale dei membri almeno una volta l'anno.
 
@@ -154,6 +356,38 @@ Nei casi previsti dal comma 5, le deliberazioni dell'organo di amministrazione o
 Gli amministratori rispondono dei danni derivati all'organismo dalle loro azioni od omissioni. Essi rispondono altresi' dei danni derivati all'organismo dalla utilizzazione a vantaggio proprio o di terzi di dati, notizie o opportunita' di affari appresi nell'esercizio del suo incarico.
 
 Gli statuti possono prevedere ulteriori procedure al fine di evitare conflitti d'interesse e, qualora non sia possibile evitare tali conflitti, procedure volte a individuare, gestire, controllare e rendere pubblici i conflitti di interesse effettivi o potenziali in modo da evitare che incidano negativamente sugli interessi collettivi dei titolari dei diritti rappresentati dall'organismo di gestione collettiva.
+
+9.
+                        
+                            
+                                Lo statuto deve prevedere che gli amministratori trasmettano annualmente una dichiarazione individuale all'assemblea generale dei membri contenente le seguenti informazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    eventuali profili di conflitto di interesse con riferimento all'organismo di gestione collettiva; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    eventuali compensi ricevuti nell'esercizio precedente dall'organismo di gestione collettiva, inclusi quelli sotto forma di regimi pensionistici, di prestazioni in natura ed altri tipi di benefici; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    importi ricevuti nell'esercizio precedente dall'organismo di gestione collettiva in qualita' di titolare di diritti; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    una dichiarazione su qualsiasi conflitto effettivo o potenziale tra gli interessi personali e quelli dell'organismo di gestione collettiva o tra gli obblighi verso quest'ultimo e i doveri nei confronti di qualsiasi altra persona fisica o giuridica.
 
 ## Art. 13. — Organo di controllo contabile
 
@@ -199,7 +433,89 @@ Se il termine per la distribuzione di cui al comma 2 non puo' essere rispettato,
 
 ## Art. 18. — Identificazione dei titolari dei diritti
 
+1.
+                        
+                            
+                                Gli organismi di gestione collettiva adottano tutte le misure necessarie per identificare e localizzare i titolari dei diritti. In particolare, al piu' tardi entro novanta giorni dopo la scadenza del termine di cui all'articolo 17, gli organismi di gestione collettiva mettono a disposizione le informazioni sulle opere o altri materiali protetti per i quali uno o piu' titolari dei diritti non sono stati identificati o localizzati: 
+ 
+                            
+                            
+                                a)
+                                
+                                    ai titolari di diritti che rappresentano o ai soggetti che rappresentano titolari di diritti, qualora tali soggetti siano membri di un organismo di gestione collettiva; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    a tutti gli organismi di gestione collettiva con cui hanno concluso accordi di rappresentanza;
+
+2.
+                        
+                            
+                                Le informazioni di cui al comma 1 includono, qualora disponibili: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il titolo dell'opera o altro materiale protetto; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il nome del titolare dei diritti; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il nome dell'editore o produttore pertinente; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    qualsiasi altra informazione rilevante disponibile che potrebbe contribuire all'identificazione del titolare dei diritti.
+
 Gli organismi di gestione collettiva verificano altresi' i registri dei propri membri di cui all'articolo 6, comma 2, e altri registri reperibili. Se le misure di cui sopra non producono risultati, gli organismi di gestione collettiva mettono tali informazioni a disposizione del pubblico al piu' tardi entro un anno dalla scadenza del periodo di novanta giorni, di cui al comma 1.
+
+3-bis.
+                        
+                            
+                                Le entita' di gestione indipendenti adottano tutte le misure necessarie per identificare e localizzare i titolari dei diritti. In particolare, ((entro i novanta giorni successivi)) alla scadenza del termine di cui all'articolo 17, ((comma 2,)) le entita' di gestione indipendenti mettono a disposizione dei titolari dei diritti che rappresentano e degli altri soggetti legittimati, sulla base di una richiesta motivata, le informazioni sulle opere o altri materiali protetti per i quali uno o piu' titolari dei diritti non sono stati identificati o localizzati, con particolare riguardo ai seguenti dati, se disponibili: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il titolo dell'opera o altro materiale protetto; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il nome del titolare dei diritti; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il nome dell'editore o produttore pertinente; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    qualsiasi altra informazione rilevante disponibile che potrebbe contribuire all'identificazione del titolare dei diritti.
 
 ## Art. 19. — Proventi non distribuibili
 
@@ -244,6 +560,24 @@ Ai fini della migliore applicazione delle presenti disposizioni, la Societa' ita
 
 ## Art. 23. — Obblighi degli utilizzatori
 
+1.
+                        
+                            
+                                Salvo diversi accordi intervenuti tra le parti, entro novanta giorni dall'utilizzazione, gli utilizzatori devono far pervenire agli organismi di gestione collettiva, nonche' alle entita' di gestione indipendente, in un formato concordato o prestabilito, le pertinenti informazioni a loro disposizione, necessarie per la riscossione dei proventi dei diritti e per la distribuzione e il pagamento degli importi dovuti ai titolari dei diritti, e riguardanti l'utilizzo di opere protette. Le informazioni riguardano, in particolare: 
+ 
+                            
+                            
+                                a)
+                                
+                                    con riferimento all'identificazione dell'opera protetta: il titolo originale; l'anno di produzione o di distribuzione nel territorio dello Stato, il produttore e la durata complessiva dell'opera; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    con riferimento all'utilizzo dell'opera protetta: tutti i profili inerenti la diffusione, quali la data o il periodo di comunicazione, diffusione, rappresentazione, distribuzione o commercializzazione o comunque pubblica divulgazione. Resta fermo il diritto degli organismi di gestione collettiva e delle entita' di gestione indipendente di richiedere ulteriori informazioni, ove disponibili.
+
 Ove necessario all'assolvimento dei propri obblighi, gli utilizzatori esercitano senza indugio il diritto di informazione di cui all'articolo 27, indicando puntualmente agli organismi di gestione collettiva ed entita' di gestione indipendenti le informazioni non in loro possesso. In questa ipotesi il termine di 90 giorni e' sospeso fino alla data di ricezione di informazioni corrette, complete e congruenti.
 
 Gli organismi di gestione collettiva devono concordare in buona fede le informazioni da fornire, le modalita' e i tempi nei contratti con gli utilizzatori, anche tenendo conto degli standard adottati su base volontaria dal settore.
@@ -255,18 +589,195 @@ Il mancato adempimento degli obblighi di informazione o la fornitura di dati fal
 ## Art. 24. — Informazioni ai titolari dei diritti sulla gestione 
  dei loro diritti
 
+1.
+                        
+                            
+                                Gli organismi di gestione collettiva, fatti salvi il comma 2 e gli articoli 25 e 33, comma 2, forniscono almeno una volta l'anno a ciascun titolare dei diritti cui abbiano attribuito proventi o effettuato pagamenti nel corso dell'anno precedente le seguenti informazioni relative al periodo annuale di riferimento dell'attribuzione dei proventi o di effettuazione dei pagamenti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    i dati sull'identificazione del titolare dei diritti; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    i proventi attribuiti al titolare dei diritti; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    gli importi pagati dall'organismo di gestione collettiva al titolare dei diritti per ciascuna categoria di diritti gestiti e per tipo di utilizzo; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    il periodo in cui ha avuto luogo l'utilizzo per il quale sono stati attribuiti e pagati gli importi al titolare dei diritti salvo che, per motivi obiettivi legati alla comunicazione da parte degli utilizzatori, non sia stato possibile per l'organismo di gestione collettiva fornire questa informazione; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    le detrazioni applicate a titolo di spese di gestione; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    le detrazioni applicate a titolo diverso dalle spese di gestione, ivi incluse altre detrazioni eventualmente previste dalla normativa vigente per la prestazione di servizi sociali, culturali o educativi; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    i proventi di diritti attribuiti e non ancora pagati al titolare di diritti per qualsiasi periodo.
+
 Gli organismi di gestione collettiva che abbiano a loro volta come membri soggetti incaricati della distribuzione dei proventi ai titolari dei diritti forniscono le informazioni di cui al precedente comma 1 a tali soggetti, salvo che questi ultimi non ne siano gia' in possesso. Tali soggetti forniscono almeno una volta l'anno le informazioni di cui al comma 1 ai titolari dei diritti a cui abbiano attribuito proventi o effettuato pagamenti nel corso dell'anno precedente.
 
 ## Art. 25. — Informazioni sulla gestione di diritti fornite ad altri organismi di gestione collettiva nel quadro di accordi di rappresentanza.
+
+1.
+                        
+                            
+                                Gli organismi di gestione collettiva mettono a disposizione degli organismi di gestione collettiva per conto dei quali gestiscono i diritti nel quadro di un accordo di rappresentanza, almeno le seguenti informazioni in relazione al periodo cui esse si riferiscono: 
+ 
+                            
+                            
+                                a)
+                                
+                                    i proventi dei diritti attribuiti, gli importi pagati per ciascuna categoria di diritti e per tipo di utilizzo per i diritti che gestiscono nel quadro dell'accordo di rappresentanza ed eventuali proventi dei diritti attribuiti non ancora pagati per qualsiasi periodo; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le detrazioni applicate a titolo di spese di gestione, nonche' quelle applicate a titolo diverso dalle spese di gestione a norma dell'articolo 21; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    le licenze concesse o rifiutate in relazione alle opere e agli altri materiali protetti oggetto dell'accordo di rappresentanza; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    le delibere adottate dall'assemblea generale o da altro organo competente nella misura in cui esse siano pertinenti in relazione alla gestione dei diritti nel quadro dell'accordo di rappresentanza.
 
 Le informazioni di cui al comma 1 vengono messe a disposizione almeno una volta l'anno e per via elettronica.
 
 ## Art. 26. — Divulgazione delle informazioni
 
+1.
+                        
+                            
+                                Gli organismi di gestione collettiva rendono pubbliche, mantenendole aggiornate sul proprio sito internet, almeno le seguenti informazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    lo statuto; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le condizioni di adesione e le condizioni di ritiro dell'autorizzazione a gestire i diritti, se non specificate nello statuto; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    i contratti standard per la concessione di licenze e le tariffe standard applicabili, incluse le riduzioni; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    l'elenco delle persone di cui all'articolo 12; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    la politica generale di distribuzione degli importi dovuti ai titolari dei diritti; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    la politica generale relativa alle spese di gestione; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    la politica generale in materia di detrazioni, diversa rispetto a quella relativa alle spese di gestione, ai proventi dei diritti e a qualsiasi reddito derivante dalle spese di gestione, comprese quelle finalizzate alla prestazione di servizi sociali, culturali ed educativi; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    un elenco degli accordi di rappresentanza sottoscritti e i nomi degli organismi di gestione collettiva con cui tali accordi di rappresentanza sono stati conclusi; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    la politica generale sull'utilizzo di importi non distribuibili; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    le procedure di trattamento dei reclami e di risoluzione delle controversie disponibili a norma degli articoli 38 e 39.
+
 Gli organismi di gestione collettiva e le entita' di gestione indipendenti, che non siano tenuti a farlo presso il ((registro delle imprese, di cui al capo II della legge)) 29 dicembre 1993, n. 580, pubblicano, altresi', ((nel proprio sito internet)) il bilancio o rendiconto annuale approvato e affidano la revisione legale ad una societa' iscritta nel Registro dei revisori legali di cui al decreto legislativo 27 gennaio 2010, n. 39. Gli obblighi di cui al primo periodo si applicano altresi' alla Societa' italiana autori ed editori ((...)) , che approva il proprio bilancio entro 120 giorni dalla conclusione dell'esercizio e lo pubblica ((nel proprio sito internet)) e presso il ((predetto registro delle imprese)) .
 Resta fermo quanto stabilito dall'articolo 13.
 
 ## Art. 27. — Informazioni fornite su richiesta ai titolari dei diritti, ad altri organismi di gestione collettiva e agli utilizzatori.
+
+1.
+                        
+                            
+                                Sulla base di una richiesta adeguatamente giustificata, gli organismi di gestione collettiva e le entita' di gestione indipendenti, fatto salvo quanto previsto dall'articolo 31, mettono a disposizione degli organismi di gestione collettiva per conto di cui gestiscono diritti nel quadro di un accordo di rappresentanza o di qualsiasi titolare di diritti o utilizzatore, per via elettronica e tempestivamente, almeno le seguenti informazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    le opere o gli altri materiali che gestiscono, i diritti che rappresentano, direttamente o sulla base di accordi di rappresentanza e i territori oggetto di tali accordi; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    qualora non sia possibile determinare tali opere o altri materiali protetti a causa dell'ambito di attivita' dell'organismo di gestione collettiva, le tipologie di opere o di altri materiali protetti che rappresentano, i diritti che gestiscono e i territori oggetto di tali accordi.
 
 Le informazioni di cui al comma 1 sono fornite agli utilizzatori in modalita' tali da garantire l'elaborazione delle informazioni ricevute dagli stessi in forma integrata. A tal fine, con decreto del Ministro dei beni e delle attivita' culturali e del turismo sono definite le modalita' minime comuni relative alla fornitura in via informatica di tali informazioni.
 
@@ -294,7 +805,64 @@ Capacita' di trattamento dei dati per la gestione delle licenze multiterritorial
 
 Gli organismi di gestione collettiva che concedono licenze multiterritoriali per i diritti su opere musicali online dispongono di strutture adeguate al trattamento efficiente e trasparente, per via elettronica, dei dati necessari alla loro gestione, anche ai fini della corretta identificazione delle opere musicali incluse nel repertorio e del controllo del loro uso, della fatturazione agli utilizzatori, della riscossione dei proventi dei diritti e della distribuzione degli importi dovuti ai titolari dei diritti.
 
+2.
+                        
+                            
+                                Ai fini del comma 1, gli organismi di gestione collettiva assicurano almeno i seguenti requisiti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    puntuale identificazione delle opere musicali, integralmente o in parte, che gli organismi di gestione collettiva sono autorizzati a rappresentare; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    puntuale identificazione, integralmente o in parte, con particolare riferimento a ciascun territorio di pertinenza, dei diritti e dei relativi titolari, per ciascuna opera musicale o parte di essa che gli organismi di gestione collettiva sono autorizzati a rappresentare; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    utilizzo di identificatori univoci al fine di individuare i titolari dei diritti e le opere musicali, tenendo conto degli standard e delle pratiche adottate su base facoltativa nel settore e sviluppati a livello internazionale o dell'Unione europea; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    utilizzo di strumenti adeguati ad identificare e risolvere tempestivamente e efficacemente eventuali discrepanze rispetto ai dati in possesso di altri organismi di gestione collettiva che concedono licenze multiterritoriali per i diritti su opere musicali online.
+
 ## Art. 31. — Trasparenza delle informazioni sui repertori multiterritoriali per i diritti su opere musicali online
+
+1.
+                        
+                            
+                                Gli organismi di gestione collettiva che concedono licenze multiterritoriali per i diritti su opere musicali online offrono, per via elettronica, ai fornitori di servizi musicali online, ai titolari dei diritti rappresentati e ad altri organismi di gestione collettiva, a seguito di richiesta debitamente motivata, informazioni aggiornate che consentono di identificare il repertorio musicale online che rappresentano, ed in particolare: 
+ 
+                            
+                            
+                                a)
+                                
+                                    le opere musicali; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    i diritti, rappresentati integralmente o in parte; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    i territori interessati.
 
 Gli organismi di gestione collettiva possono adottare, ove necessario, misure ragionevoli per garantire la correttezza e l'integrita' dei dati, per controllarne il riutilizzo e per proteggere le informazioni commercialmente sensibili.
 
@@ -330,6 +898,31 @@ Correttezza e puntualita' nel pagamento dei titolari
 
 Fatto salvo il comma 3, gli organismi di gestione collettiva che concedono licenze multiterritoriali per i diritti su opere musicali online distribuiscono gli importi dovuti ai titolari dei diritti in virtu' di tali licenze subito dopo la dichiarazione dell'uso effettivo delle opere, tranne nei casi in cui cio' non sia possibile per motivi imputabili al fornitore di servizi online.
 
+2.
+                        
+                            
+                                Fatto salvo il comma 3, gli organismi di gestione collettiva forniscono insieme ad ogni pagamento eseguito a norma del comma 1 almeno le seguenti informazioni ai titolari dei diritti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il periodo in cui sono avvenuti gli usi per i quali sono dovuti gli importi ai titolari dei diritti e i territori in cui essi hanno avuto luogo; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    gli importi raccolti, le detrazioni effettuate e gli importi distribuiti dall'organismo di gestione collettiva per ciascun diritto su qualsiasi opera musicale online per le quali i titolari dei diritti hanno autorizzato gli organismi di gestione collettiva a rappresentarli, integralmente o in parte; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    gli importi riscossi per i titolari dei diritti, le detrazioni applicate e gli importi distribuiti dall'organismo di gestione collettiva in relazione a ciascun fornitore di servizi online.
+
 Qualora un organismo di gestione collettiva conferisca ad altro organismo di gestione collettiva mandato per la concessione di licenze multiterritoriali per i diritti su opere musicali online a norma delle disposizioni degli articoli 35 e 36, l'organismo di gestione collettiva mandatario corrisponde accuratamente e senza indebito ritardo all'organismo mandante gli importi di cui al comma 1 e gli fornisce altresi' le informazioni di cui al comma 2.
 L'organismo di gestione collettiva mandante e' responsabile per la successiva distribuzione di tali importi e la fornitura di tali informazioni ai titolari dei diritti, salvo se tra gli organismi di gestione collettiva diversamente concordato.
 
@@ -356,6 +949,24 @@ Le spese di gestione per il servizio fornito dall'organismo di gestione colletti
 L'organismo di gestione collettiva richiedente mette a disposizione dell'organismo interpellato le informazioni relative al proprio repertorio musicale necessarie per la concessione di licenze multiterritoriali per i diritti su opere musicali online. Se le informazioni sono insufficienti o fornite in una forma tale da non consentire all'organismo di gestione collettiva interpellato di rispettare i requisiti stabiliti al presente Capo, l'organismo interpellato ha il diritto di addebitare alla controparte le spese ragionevolmente sostenute per rispettare tali prescrizioni o di escludere le opere per cui le informazioni sono insufficienti o inutilizzabili.
 
 ## Art. 37. — Deroga per i diritti musicali online richiesti per programmi radiofonici e televisivi
+
+1.
+                        
+                            
+                                I requisiti di cui al presente Capo non si applicano agli organismi di gestione collettiva che concedono, sulla base dell'aggregazione volontaria dei diritti richiesti e nel rispetto delle norme sulla concorrenza stabilite agli articoli 2 e 3 della legge 10 ottobre 1990, n. 287, e dell'articolo 2598, del codice civile, primo comma, numero 3), una licenza multiterritoriale per i diritti su opere musicali online richiesta da un'emittente, al fine di comunicare o mettere a disposizione del pubblico: 
+ 
+                            
+                            
+                                a)
+                                
+                                    i propri programmi radiofonici o televisivi contemporaneamente o dopo la prima trasmissione; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    ogni altro materiale online prodotto o commissionato dall'emittente, anche come visione anticipata, che sia accessorio alla prima trasmissione del suo programma radiofonico o televisivo.
 
 ## - Capo IV Risoluzione delle controversie, vigilanza e sanzioni
 

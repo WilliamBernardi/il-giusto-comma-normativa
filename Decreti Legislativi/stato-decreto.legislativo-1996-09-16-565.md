@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
 vigenza_date: 2011-07-06
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:23Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -50,6 +50,24 @@ Sulla contribuzione al Fondo di cui all'articolo 1 e' applicata un'aliquota aggi
 
 ## Art. 3. — Prestazioni
 
+1.
+                    
+                        
+                            L'iscritto al Fondo ha diritto alle seguenti prestazioni:
+ 
+                        
+                        
+                            a)
+                            
+                                trattamento pensionistico secondo la formula di cui all'articolo 4, a partire dal 57 anno di eta' con cinque anni di contribuzione, a condizione che l'importo di pensione maturato non sia inferiore a 1,2 volte l'importo dell'assegno sociale di cui all'art. 3, commi 6 e 7, della legge 8 agosto 1995, n. 335, oppure, senza limiti di importo, al compimento del sessantacinquesimo anno di eta' con almeno cinque anni di contribuzione;
+
+                            
+                        
+                        
+                            b)
+                            
+                                pensione di inabilita', con almeno cinque anni di contribuzione, quando sia intervenuta l'assoluta e permanente impossibilita' a svolgere qualsiasi attivita' lavorativa.
+
 ## Art. 4. — Calcolo del trattamento pensionistico
 
 L'importo del trattamento pensionistico e' determinato secondo il sistema contributivo in vigore per i regimi pensionistici obbligatori di cui all'art. 1, commi da 6 a 10, della legge 8 agosto 1995, n. 335, salvo quanto disposto al comma secondo.
@@ -61,6 +79,52 @@ L'importo della pensione di inabilita' e' determinato moltiplicando il montante 
 ## Art. 5. — Comitato amministratore
 
 Al Fondo autonomo di cui all'art. 1 sovraintende un Comitato amministratore che dura in carica tre anni ed e' composto da sette membri designati dalle associazioni di categoria piu' rappresentative a livello nazionale, nominati con decreto del Ministro del lavoro e della previdenza sociale, e da un rappresentante, rispettivamente, dal Ministero del lavoro e della previdenza sociale e del Ministero del tesoro. Il Presidente e' eletto dal Comitato tra i membri designati dalle associazioni della categoria per un massimo di due mandati consecutivi.
+
+2.
+                    
+                        
+                            Il Comitato amministratore ha i seguenti compiti:
+ 
+                        
+                        
+                            a)
+                            
+                                predispone, in conformita' ai criteri stabiliti dal consiglio di indirizzo e vigilanza per il consiglio di amministrazione dell'INPS, i bilanci annuali preventivo e consuntivo e delibera sui bilanci tecnici relativi al Fondo;
+
+                            
+                        
+                        
+                            b)
+                            
+                                delibera in ordine alle modalita' di erogazione delle prestazioni e di riscossione dei contributi;
+
+                            
+                        
+                        
+                            c)
+                            
+                                fa proposte in materia di contributi e prestazioni al consiglio di amministrazione che le trasmette, con proprio motivato parere, al Ministero del lavoro e della previdenza sociale;
+
+                            
+                        
+                        
+                            d)
+                            
+                                vigila sull'affluenza dei contributi, sull'erogazione delle prestazioni, nonche' sull'andamento del Fondo;
+
+                            
+                        
+                        
+                            e)
+                            
+                                decide in unica istanza sui ricorsi in materia di contributi e prestazioni del Fondo. Il termine per ricorrere al Comitato e' di novanta giorni dalla data del provvedimento impugnato. Trascorsi inutilmente novanta giorni dalla data di presentazione del ricorso, gli interessati hanno facolta' di adire l'autorita' giudiziaria. La proposizione dei gravami non sospende il provvedimento;
+
+                            
+                        
+                        
+                            f)
+                            
+                                assolve ad ogni altro compito che sia ad esso demandato da leggi o regolamenti.
 
 Fino alla nomina del Comitato amministratore di cui al comma primo, da effettuarsi entro il 31 marzo 1997, le sue funzioni sono esercitate da un commissario nominato dal Ministro del lavoro e della previdenza sociale, di concerto con il Ministro del tesoro.
 

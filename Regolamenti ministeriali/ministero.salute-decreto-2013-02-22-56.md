@@ -7,8 +7,8 @@ urn: urn:nir:ministero.salute:decreto:2013-02-22;56
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:40Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -42,6 +42,130 @@ Il presente regolamento disciplina, ai sensi dell'articolo 14, comma 4, del decr
 
 L'Istituto promuove l'attivita' di assistenza, ricerca e formazione per la salute delle popolazioni migranti e per il contrasto delle malattie della poverta'. E' centro di riferimento della rete nazionale per le problematiche di assistenza in campo socio sanitario legate alle popolazioni migranti e alla poverta' nonche' centro per la mediazione transculturale in campo sanitario e fonda la propria attivita' su una metodologia d'intervento transdisciplinare, integrando tra di loro le figure professionali sanitarie e socio-assistenziali con quelle della mediazione transculturale e dell'antropologia medica.
 
+2.
+                    
+                        
+                            L'Istituto, in conformita' con la programmazione nazionale e regionale, organizza l'attivita' di assistenza di cui al comma 1, attraverso le seguenti modalita': 
+ 
+                        
+                        
+                            a)
+                            
+                                assume iniziative volte al contrasto delle malattie derivanti dal disagio sociale e della poverta', ivi comprese, in accordo con le regioni interessate, attivita' di prevenzione e di cura di tipo interdisciplinare. A tal fine, l'Istituto puo' avvalersi di personale qualificato proveniente da altri Stati europei ed extraeuropei, previa sottoscrizione di apposite convenzioni con i soggetti pubblici o privati coinvolti che disciplinino le modalita' di utilizzo di tale personale nonche' la distribuzione degli oneri connessi all'espletamento delle attivita', nel rispetto del limite delle disponibilita' finanziarie dell'ente; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                garantisce uno stretto rapporto tra l'assistenza e la ricerca clinica, sperimentale e gestionale, favorendo il trasferimento rapido dei risultati ottenuti dalla ricerca di laboratorio e clinica all'assistenza; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                provvede alla raccolta di dati epidemiologici e statistici, alla loro elaborazione e diffusione, anche al fine di verificare l'efficacia degli interventi diagnostici e terapeutici effettuati, coinvolgendo centri regionali di riferimento; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                adotta, promuove e realizza idonee iniziative di prevenzione primaria e secondaria; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                conduce, anche in collaborazione con i Ministeri e le altre amministrazioni pubbliche, progetti di prevenzione, di formazione sanitaria e di sviluppo di capacita' gestionali nei Paesi in via di sviluppo. A tal fine, il personale in servizio alle dipendenze dell'Istituto puo' operare temporaneamente all'estero, per lo svolgimento di tali attivita'. Il predetto personale conserva il trattamento economico in godimento ed e' soggetto alla normativa vigente in tema di rimborso spese per le missioni all'estero; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                promuove la partecipazione dei soggetti pubblici e privati delle regioni allo svolgimento delle predette attivita'.
+
+3.
+                    
+                        
+                            L'Istituto, in conformita' con la programmazione nazionale e delle regioni interessate, organizza l'attivita' di formazione di cui al comma 1, attraverso le seguenti modalita': 
+ 
+                        
+                        
+                            a)
+                            
+                                si uniforma, ai fini dell'accreditamento, ai criteri di cui all'accordo sancito il 5 novembre 2009, ai sensi dell'articolo 4 del decreto legislativo 28 agosto 1997, n. 281, tra il Governo, le regioni e le province autonome di Trento e di Bolzano, approvati dalla Commissione nazionale per la formazione continua in medicina, attraverso il rafforzamento del proprio ruolo di provider nazionale per l'Educazione continua in medicina (ECM); 
+
+                            
+                        
+                        
+                            b)
+                            
+                                promuove l'adozione, a livello nazionale, del curriculum educativo-formativo del mediatore transculturale in ambito sanitario, attraverso la previsione di specifici percorsi formativi specializzanti con il coinvolgimento delle regioni; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                elabora e attua, direttamente o in collaborazione con altri enti, programmi di educazione e formazione professionale, con riferimento agli ambiti istituzionali delle attivita' di ricerca e assistenza e per il miglioramento e lo sviluppo delle stesse, in armonia con le programmazioni regionali e con i programmi di educazione continua in medicina; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                svolge attivita' di addestramento e formazione permanente, nonche' di formazione specialistica, in convenzione con le universita', gli enti di ricerca e altre istituzioni nazionali e internazionali.
+
+4.
+                    
+                        
+                            L'Istituto, in conformita' con la programmazione nazionale e delle regioni interessate, organizza l'attivita' di ricerca di cui al comma 1, attraverso le seguenti modalita': 
+ 
+                        
+                        
+                            a)
+                            
+                                partecipa alle attivita' di ricerca del Ministero della salute nei settori della biomedicina e della sanita' pubblica, nonche' al programma del centro nazionale per la prevenzione e il controllo delle malattie (Ccm) per le tematiche di proprio interesse; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                stabilisce opportune forme di collaborazione scientifica nel settore di competenza con enti, istituzioni, laboratori di ricerca italiani e stranieri, nonche' con altri organismi internazionali, al fine di realizzare programmi coordinati; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                promuove e condivide progetti di ricerca e protocolli di assistenza, in particolare con le regioni interessate alle problematiche legate ai flussi migratori; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                assicura la diffusione, in ambito nazionale e internazionale, delle conoscenze scientifiche acquisite attraverso le ricerche condotte e l'attivita' clinica svolta; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                tutela la proprieta' intellettuale dei risultati dell'attivita' di ricerca e la valorizzazione economica degli stessi, favorendone il trasferimento in ambito industriale salvaguardando la finalita' pubblica della ricerca; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                sperimenta e monitora forme innovative di gestione e organizzazione nel campo sanitario e della ricerca biomedica.
+
 L'Istituto, per le attivita' della rete nazionale per le problematiche di assistenza in campo socio-sanitari, coinvolge, sulla base di specifici accordi tra il Ministro della salute e le regioni e le province autonome, gli attori territoriali che operano per la promozione della salute delle popolazioni migranti e per il contrasto delle malattie della poverta'.
 
 ## Art. 3.
@@ -53,6 +177,45 @@ L'Istituto svolge la sua attivita' sulla base di progetti annuali o pluriennali 
 I volumi e le tipologie dell'attivita' socio-assistenziale, erogati a carico del Servizio sanitario nazionale, di cui all'articolo 14, comma 6, del decreto-legge 13 settembre 2012, n. 158, sono definiti mediante singoli accordi con le regioni interessate.
 
 Per la realizzazione di specifici progetti, anche di ricerca, l'Istituto puo' stipulare inoltre accordi e convenzioni con strutture pubbliche e private e con universita', anche straniere, costituire e partecipare a consorzi, con soggetti di cui sia accertata la qualificazione e l'idoneita'. Eventuali perdite derivanti dalla partecipazione a consorzi o altre societa' partecipate possono essere poste a carico della gestione dell'Istituto limitatamente e non oltre la quota di partecipazione versata. Nell'ambito dei progetti di ricerca, l'Istituto puo' sperimentare, senza oneri aggiuntivi, nuove modalita' di aggregazione e di collaborazione caratterizzate da flessibilita' e temporaneita', con ricercatori di altri enti e strutture, ovvero autorizzare l'impiego del proprio personale assegnato a compiti di ricerca presso gli enti e i soggetti di cui al comma 3, nel rispetto della normativa vigente.
+
+4.
+                    
+                        
+                            L'Istituto, per il migliore esercizio delle proprie attribuzioni puo', nel rispetto della normativa vigente in materia di enti ed organismi pubblici, altresi': 
+ 
+                        
+                        
+                            a)
+                            
+                                stipulare atti e contratti, ivi comprese l'assunzione di finanziamenti, la locazione, l'assunzione in concessione o comodato d'uso per l'acquisizione di beni strumentali finalizzati all'attivita' istituzionale; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                amministrare, gestire e valorizzare, anche all'estero, i beni di cui sia locatario, comodatario o comunque di cui abbia il possesso e la legittima detenzione; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                acquisire, da parte di soggetti pubblici e privati, risorse finanziarie e beni da destinare allo svolgimento delle attivita' istituzionali; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                svolgere, in proprio o con altri soggetti pubblici e privati, in forma societaria o con altre forme di collaborazione, attivita' strumentali, anche produttive, nel rispetto delle disposizioni di legge vigenti e del proprio codice etico; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                utilizzare, nell'ambito di iniziative finanziate da progetti di ricerca nazionale o internazionale, personale comandato da Ministeri o dalle altre amministrazioni pubbliche di cui all'articolo 1, comma 2, del decreto legislativo 30 marzo 2001, n. 165, e successive modificazioni, nonche' professionalita' esterne attraverso contratti di collaborazione, nel rispetto della disciplina prevista dall'articolo 7, comma 6 e seguenti, e dell'articolo 36 del predetto decreto legislativo, avvalendosi di figure dotate di particolari professionalita' e di alta qualificazione.
 
 ## Art. 4. — Organizzazione e personale
 
@@ -71,6 +234,52 @@ Finanziamento e contabilita'
 L'Istituto uniforma la propria attivita' a criteri di efficacia, efficienza ed economicita', nel rispetto del vincolo dell'equilibrio economico del bilancio conseguito attraverso l'equilibrio tra costi e ricavi, compresi i trasferimenti di risorse finanziarie per specifiche attivita' istituzionali, e a tal fine il bilancio e' deliberato in pareggio. L'Istituto organizza la propria struttura mediante centri di costo in grado di programmare e rendicontare la gestione economica amministrativa e le risorse umane e strumentali.
 Al fine di assicurare la continuita' con la sperimentazione gestionale dell'Istituto, l'Istituto medesimo adotta la contabilita' economico-patrimoniale nonche' il piano regionale dei conti della regione Lazio, compatibilmente con quanto disposto in materia dal decreto legislativo 23 giugno 2011, n. 118.
 
+2.
+                    
+                        
+                            L'Istituto trae i mezzi per il proprio funzionamento: 
+ 
+                        
+                        
+                            a)
+                            
+                                dai finanziamenti di cui all'articolo 14, comma 5, del decreto-legge 13 settembre 2012, n. 158, convertito, con modificazioni, dalla legge 8 novembre 2012, n. 189; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                dai contributi attribuiti all'Istituto dallo Stato e da altri enti pubblici, anche territoriali; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                dai lasciti, donazioni, eredita' ed erogazioni liberali di qualsiasi genere; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                dai proventi derivanti dall'esercizio delle attivita' istituzionali o dei soggetti controllati o collegati; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                dai frutti e dalle rendite generati dai beni non direttamente utilizzati per l'assolvimento delle finalita' istituzionali; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                dai proventi derivanti dall'esercizio delle attivita' specialistiche rese in regime di libera professione intramuraria.
+
 La gestione finanziaria dell'Istituto si svolge in base al bilancio di previsione deliberato entro il 31 ottobre dell'anno precedente a quello a cui il bilancio stesso si riferisce, e viene trasmesso dal direttore, corredato dalla relazione sull'attivita', al consiglio di indirizzo e al collegio sindacale.
 
 L'esercizio finanziario ha inizio in data 1° gennaio e termina il 31 dicembre di ciascun anno.
@@ -85,17 +294,99 @@ I bilanci preventivo e consuntivo nonche' le eventuali variazioni sono sottopost
 
 I beni dell'Istituto sono descritti in separati inventari, in conformita' alle disposizioni di cui ai commi 2 e 3.
 
+2.
+                    
+                        
+                            Le aliquote di ammortamento di riferimento sono quelle previste dalla tabella di cui all'allegato 3 del decreto legislativo del 23 giugno 2011, n. 118. Gli inventari dei beni immobili sono chiusi al termine di ogni esercizio finanziario e devono evidenziare: 
+ 
+                        
+                        
+                            a)
+                            
+                                la denominazione, l'ubicazione, l'uso a cui sono destinati e l'ufficio a cui sono affidati; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                il titolo di provenienza, le risultanze dei registri immobiliari, i dati catastali nonche' la rendita imponibile; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                le servitu', i pesi e gli oneri da cui sono gravati; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                il costo d'acquisto o di costruzione e le eventuali successive variazioni anche per manutenzione straordinaria.
+
 I beni immobili facenti parte del patrimonio disponibile sono gestiti nell'ottica della migliore salvaguardia del loro valore e redditivita' e possono essere oggetto di alienazione a titolo oneroso nel rispetto della normativa vigente. Almeno ogni cinque anni si provvede alla ricognizione dei beni mobili ed immobili.
 
 Nella fase di prima applicazione del presente regolamento, l'Istituto continua a svolgere la propria attivita' nei locali gia' messi a disposizione dagli Istituti fisioterapici ospitalieri (IFO), secondo le modalita' convenzionali in essere.
 
 ## Art. 7. — Organi
 
+1.
+                    
+                        
+                            Sono organi dell'Istituto, ai sensi dell'articolo 14, comma 4 del decreto-legge 13 settembre 2012, n. 158, convertito, con modificazioni, dalla legge 8 novembre 2012, n. 189: 
+ 
+                        
+                        
+                            a)
+                            
+                                il consiglio di indirizzo; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                il direttore; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                il collegio sindacale.
+
 ## Art. 8. — Consiglio di indirizzo
 
 Il consiglio di indirizzo e' composto, ai sensi dell'articolo 14, comma 4, del decreto-legge 13 settembre 2012, n. 158, convertito con modificazioni, dalla legge 8 novembre 2012, n. 189, da cinque membri, di cui due nominati dal Ministro della salute e tre dai presidenti delle regioni che partecipano alla rete nazionale per le problematiche di assistenza in campo socio sanitario legate alle popolazioni migranti e alla poverta' ed ha compiti di indirizzo strategico.
 
 Il componente con funzione di presidente e' nominato, tra i cinque componenti, dal Ministro della salute.
+
+3.
+                    
+                        
+                            Il consiglio: 
+ 
+                        
+                        
+                            a)
+                            
+                                definisce gli indirizzi strategici dell'Istituto, esprime parere sui progetti annuali e pluriennali di attivita', predisposti dal direttore dell'Istituto ai sensi dell'articolo 3, comma 1, e ne verifica l'attuazione; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                esprime parere preventivo sul bilancio di previsione e su quello consuntivo, sugli atti di alienazione del patrimonio e sui provvedimenti in materia di costituzione o partecipazione a societa', consorzi, altri enti e associazioni e, qualora richiesto dal direttore, sulle materie dallo stesso proposte. Il parere e' espresso entro quarantacinque giorni dalla richiesta, decorso tale termine il parere si intende espresso in senso positivo; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                delibera in ordine al regolamento di amministrazione e contabilita', e agli altri regolamenti dell'Istituto, che vengono trasmessi per l'approvazione al Ministero della salute e al Ministero dell'economia e finanze e al Dipartimento della funzione pubblica.
 
 In caso di assenza o impedimento temporaneo, il presidente e' sostituito da un componente del consiglio da lui espressamente delegato o, in assenza di delega, da quello piu' anziano di eta'.
 

@@ -8,8 +8,8 @@ codice_redazionale: 099G0239
 vigente: true
 source: normattiva-opendata
 collection: Leggi delega e relativi provvedimenti delegati
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:41:14Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -24,6 +24,42 @@ Acquisiti i pareri delle competenti commissioni permanenti del Senato della Repu
 Sulla proposta del Ministro di grazia e giustizia;
 
 ## Art. 1.
+
+1.
+                    
+                        
+                            Nella tabella A allegata al regio decreto 30 gennaio 1941, n. 12, come da ultimo modificata dall'articolo 16, comma 1, del decreto legislativo 19 febbraio 1998, n. 51, gli elenchi dei comuni formanti i circondari del tribunale di Treviso e della sezione distaccata di Conegliano sono rispettivamente modificati come segue:
+ 
+                        
+                        
+                            a)
+                            
+                                quanto al circondario del tribunale di Treviso, sono aggiunti i comuni di Cessalto, Chiarano, Cimadolmo, Fontanelle, Gorgo al Monticano, Mansue', Meduna di Livenza, Motta di Livenza, Ormelle, Ponte di Piave, Portobuffole', Salgareda e San Polo di Piave;
+
+                            
+                        
+                        
+                            b)
+                            
+                                quanto al circondario del tribunale di Treviso - sezione distaccata di Conegliano, sono soppressi i comuni di Cessalto, Chiarano, Cimadolmo, Fontanelle, Gorgo al Monticano, Mansue', Meduna di Livenza, Motta di Livenza, Ormelle, Ponte di Piave, Portobuffole', Salgareda e San Polo di Piave.
+
+2.
+                    
+                        
+                            Nella tabella A allegata al regio decreto 30 gennaio 1941, n. 12, come da ultimo modificata dall'articolo 16, comma 1, del decreto legislativo 19 febbraio 1998, n. 51, gli elenchi dei comuni formanti i circondari del tribunale di Perugia e della sezione distaccata di Todi sono rispettivamente modificati come segue:
+ 
+                        
+                        
+                            a)
+                            
+                                quanto al circondario del tribunale di Perugia sono soppressi i comuni di Deruta e Marsciano;
+
+                            
+                        
+                        
+                            b)
+                            
+                                quanto al circondario del tribunale di Perugia - sezione distaccata di Todi, sono aggiunti i comuni di Deruta e Marsciano.
 
 ## Art. 2.
 

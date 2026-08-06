@@ -8,8 +8,8 @@ codice_redazionale: 006G0312
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:39Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -31,11 +31,117 @@ Udito il parere del Consiglio di Stato espresso nell'adunanza generale del 27 ma
 
 ## Art. 1. — Requisiti per l'ammissione al concorso
 
+1.
+                    
+                        
+                            Per l'ammissione al concorso per il reclutamento del personale C1 dell'area della promozione culturale del Ministero degli affari esteri sono richiesti i seguenti requisiti:
+ 
+                        
+                        
+                            a)
+                            
+                                cittadinanza italiana;
+
+                            
+                        
+                        
+                            b)
+                            
+                                diploma di laurea conseguito secondo il precedente ordinamento didattico degli atenei in campo umanistico, giuridico, economico, sociale e dello spettacolo, oppure conseguito secondo il nuovo ordinamento, di cui all'articolo 3 del decreto del Ministro dell'istruzione, dell'universita' e della ricerca 22 ottobre 2004, n. 270, nelle seguenti classi: 3; 5; 11; 13; 14; 15; 17; 23; 29; 30; 31; 35; 36; 38; 39;
+
+                            
+                        
+                        
+                            c)
+                            
+                                idoneita' fisica allo svolgimento delle funzioni proprie del profilo professionale di «addetto/coordinatore linguistico», sia presso l'Amministrazione centrale che nelle sedi estere, ivi comprese quelle con caratteristiche di disagio. L'Amministrazione ha facolta' di sottoporre a visita medica di controllo i vincitori del concorso, in base alla normativa vigente.
+
 I requisiti prescritti devono essere posseduti alla data di scadenza del termine stabilito nel bando di concorso per la presentazione della domanda di ammissione.
 
 ## Art. 2. — Domanda di ammissione al concorso
 
 Le domande di ammissione al concorso sono presentate nel termine indicato nel bando, che non puo' essere inferiore a quarantacinque giorni dalla data di pubblicazione del bando stesso nella Gazzetta Ufficiale.
+
+2.
+                    
+                        
+                            Nella domanda gli aspiranti al concorso devono dichiarare:
+ 
+                        
+                        
+                            a)
+                            
+                                la data ed il luogo di nascita;
+
+                            
+                        
+                        
+                            b)
+                            
+                                il possesso della cittadinanza italiana;
+
+                            
+                        
+                        
+                            c)
+                            
+                                il comune dove sono iscritti nelle liste elettorali ovvero i motivi della non iscrizione o della cancellazione dalle liste medesime;
+
+                            
+                        
+                        
+                            d)
+                            
+                                le eventuali condanne penali riportate, comprese quelle inflitte all'estero, nonche' i procedimenti penali pendenti in Italia o all'estero;
+
+                            
+                        
+                        
+                            e)
+                            
+                                il titolo di studio;
+
+                            
+                        
+                        
+                            f)
+                            
+                                i servizi prestati come impiegati presso pubbliche amministrazioni e le cause di risoluzione di precedenti rapporti di pubblico impiego;
+
+                            
+                        
+                        
+                            g)
+                            
+                                i titoli indicati nel successivo articolo 4 dei quali siano in possesso;
+
+                            
+                        
+                        
+                            h)
+                            
+                                la lingua straniera, prescelta tra quelle indicate nel successivo articolo 6, comma 3, in cui intendono sostenere la prova obbligatoria scritta;
+
+                            
+                        
+                        
+                            i)
+                            
+                                la seconda lingua obbligatoria (da scegliersi tra francese, spagnolo, tedesco, arabo, russo e portoghese) in cui intendono sostenere il colloquio di cui al successivo articolo 6, comma 5;
+
+                            
+                        
+                        
+                            j)
+                            
+                                la lingua, o le lingue straniere, prescelte tra quelle indicate nel successivo articolo 8, comma 1, in cui intendono sostenere prove facoltative orali;
+
+                            
+                        
+                        
+                            k)
+                            
+                                l'idoneita' fisica al servizio continuativo ed incondizionato nell'impiego al quale il concorso si riferisce.
 
 Alla domanda e' allegata la documentazione relativa ai titoli di cui alla precedente lettera g).
 
@@ -48,6 +154,38 @@ Alla commissione possono essere aggregati membri aggiunti per particolari discip
 Le funzioni di segretario della commissione sono svolte da un funzionario del Ministero di qualifica non inferiore a C2.
 
 ## Art. 4. — T i t o l i
+
+1.
+                    
+                        
+                            La commissione puo' assegnare complessivamente fino a otto centesimi per i seguenti titoli:
+ 
+                        
+                        
+                            a)
+                            
+                                diplomi di laurea specialistica/magistrale in una delle classi corrispondenti a quelle definite articolo 1, comma 1, lettera b);
+
+                            
+                        
+                        
+                            b)
+                            
+                                diplomi di specializzazione (DS), dottorati di ricerca (DR), master universitari di primo e secondo livello, di cui all'articolo 3 del decreto del Ministro dell'istruzione, dell'universita' e della ricerca 22 ottobre 2004, n. 270, nelle aree collegate alle classi di lauree specialistiche sopra indicate;
+
+                            
+                        
+                        
+                            c)
+                            
+                                comprovate esperienze acquisite nel campo della promozione culturale;
+
+                            
+                        
+                        
+                            d)
+                            
+                                comprovata attivita' lavorativa a livello di funzionario svolta presso le Organizzazioni internazionali.
 
 Il punteggio per i titoli viene assegnato dalla commissione esaminatrice dopo le prove scritte d'esame, di cui al successivo articolo 5, commi 2 e 3, e prima dell'inizio della correzione dei relativi elaborati, sulla base della documentazione presentata dal candidato.
 

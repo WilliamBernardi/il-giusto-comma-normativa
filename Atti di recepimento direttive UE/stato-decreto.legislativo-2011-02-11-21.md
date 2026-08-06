@@ -9,7 +9,7 @@ vigente: true
 source: normattiva-opendata
 collection: Atti di recepimento direttive UE
 zip_date: 2026-07-30
-fetched_at: 2026-08-02T09:40:50Z
+fetched_at: 2026-07-30
 ---
 
 DECRETO LEGISLATIVO
@@ -46,6 +46,99 @@ L'articolo 7 del decreto legislativo 20 novembre 2008, n. 188, e' sostituito dal
  5. In caso di batterie e di accumulatori per veicoli ad uso privato non commerciale, l'utilizzatore finale si disfa, presso i centri di raccolta di pile ed accumulatori per veicoli allestiti dai soggetti di cui al comma 1, dei rifiuti di detti batterie e accumulatori senza oneri e senza l'obbligo di acquistare nuove batterie o nuovi accumulatori. 
  6. Per i fini di cui al presente articolo i produttori di pile ed accumulatori per veicoli possono avvalersi delle strutture di raccolta ove istituite dal servizio pubblico, previa stipula di convenzione definita sulla base di un accordo di programma quadro stipulato su base nazionale tra i produttori di accumulatori per veicoli e l'ANCI in rappresentanza dei soggetti responsabili del servizio pubblico di gestione dei rifiuti urbani, volto altresi' a stabilire le modalita' di ristoro degli oneri per la raccolta degli accumulatori per veicoli sostenuti dal servizio pubblico di gestione dei rifiuti urbani e le modalita' di ritiro da parte dei produttori presso i centri di raccolta di cui alla lettera mm), comma 1, dell'articolo 183 del decreto legislativo 3 aprile 2006, n. 152, e successive modificazioni, e le strutture autorizzate ai sensi degli articoli 208 e 210 dello stesso decreto n. 152 del 2006. I soggetti di cui al comma 1 sono in ogni caso tenuti a provvedere al ritiro gratuito e alla gestione dei rifiuti di pile o accumulatori industriali e per veicoli raccolti nell'ambito del servizio pubblico di gestione dei rifiuti urbani.».
 
+5.
+                    
+                        
+                            All'articolo 8 del decreto legislativo 20 novembre 2008, n. 188, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 1 dopo le parole: «la percentuale di raccolta delle pile e degli accumulatori» e' inserita la seguente: «portatili»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 3 le parole: «risultanti dal registro di cui all'articolo 14» sono sostituite dalle seguenti: «dell'immesso sul mercato trasmessi dai produttori ai sensi dell'articolo 15, comma 3».
+
+6.
+                    
+                        
+                            All'articolo 10, comma 8, del decreto legislativo 20 novembre 2008, n. 188, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                le parole: «31 marzo» sono sostituite dalle seguenti: «28 febbraio,»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                la parola: «categorie» e' sostituita dalla seguente: «tipologie»; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                le parole: «di cui all'allegato III, punto 3, lettera b).» sono sostituite dalle seguenti: «di cui all'allegato II, parte B.».
+
+7.
+                    
+                        
+                            All'articolo 13, comma 2, del decreto legislativo 20 novembre 2008, n. 188, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                le parole: «Con decreto del Ministro dell'ambiente e della tutela del territorio e del mare, di concerto con il Ministro dello sviluppo economico, sentito il Comitato di vigilanza e controllo di cui al presente decreto, sono definiti i criteri» sono sostituite dalle seguenti: «Il Centro di coordinamento di cui all'articolo 16 definisce le modalita'»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                e' aggiunto, in fine, il seguente periodo: «Dette modalita' sono approvate dal Comitato di vigilanza e controllo di cui all'articolo 19.».
+
+8.
+                    
+                        
+                            All'articolo 14 del decreto legislativo 20 novembre 2008, n. 188, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                il secondo periodo del comma 1 e' soppresso; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 2, dopo le parole: «dall'allegato III,» sono inserite le seguenti: «parte A,» e l'ultimo periodo e' soppresso; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                al comma 4, la parola: «annuale» e' soppressa; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                al comma 5, le parole: «Ai fini delle» sono sostituite dalle seguenti: «Ai fini della» e le parole: «e dei sistemi collettivi operativi» sono soppresse.
+
 L'articolo 15 del decreto legislativo 20 novembre 2008, n. 188, e' sostituito dal seguente: 
  «Art. 15 (Gestione del registro e dei dati relativi ai sistemi collettivi, all'immesso sul mercato, alla raccolta ed al riciclaggio). - 1. Il registro di cui all'articolo 14, gli elenchi di cui al comma 2 e i dati di cui al comma 3 sono detenuti dal Ministero dell'ambiente e della tutela del territorio e del mare. L'ISPRA effettua ispezioni a campione sui produttori al fine di verificare il corretto assolvimento dei compiti di cui all'articolo 14, comma 2 e al comma 3. 
  2. I sistemi collettivi istituiti per il finanziamento della gestione dei rifiuti di pile ed accumulatori si iscrivono presso le camere di commercio, conformemente a quanto previsto dall'allegato III, parte B. Le camere di commercio comunicano all'ISPRA, con le modalita' di cui all'articolo 14, comma 5, l'elenco dei sistemi collettivi ed i successivi aggiornamenti e tutte le altre informazioni di cui all'allegato III, parte B. 
@@ -61,7 +154,75 @@ L'articolo 15 del decreto legislativo 20 novembre 2008, n. 188, e' sostituito da
 All'articolo 17, comma 2, del decreto legislativo 20 novembre 2008, n. 188, la lettera c) e' sostituita dalla seguente: 
  «c) ad assicurare il monitoraggio e la rendicontazione dei dati relativi alla raccolta ed al riciclaggio dei rifiuti di pile ed accumulatori portatili, industriali e per veicoli, nonche' la loro trasmissione all'ISPRA entro il 31 marzo dell'anno successivo a quello di rilevamento;».
 
+11.
+                    
+                        
+                            All'articolo 19 del decreto legislativo 20 novembre 2008, n. 188, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 2, ultimo periodo dopo le parole: «secondo i criteri stabiliti dal» sono inserite le seguenti: «Centro di coordinamento di cui all'articolo 16, approvati dal»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 6, lettera b), dopo le parole: «decreto legislativo;» sono aggiunte le seguenti: «a tal fine si avvale del registro di cui all'articolo 14, degli elenchi e dei dati di cui all'articolo 15, commi 2 e 3, predisposti e messi a disposizione dall'ISPRA;»; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                al comma 6, lettera e), le parole: «all'articolo 15, comma 2, lettera b),» sono sostituite dalle seguenti: «agli articoli 14, comma 2, e 15, comma 3,».
+
+12.
+                    
+                        
+                            All'articolo 23 del decreto legislativo 20 novembre 2008, n. 188, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 1, le parole: «Entro il 26 settembre 2009» sono soppresse; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 5, prima delle parole: «In aggiunta al simbolo» sono anteposte le seguenti: «Entro il 26 settembre 2009».
+
 All'articolo 24 del decreto legislativo 20 novembre 2008, n. 188, al comma 2, le parole: «ai sensi dell'articolo 15, comma 2, lettere c) e d),» sono sostituite dalle seguenti: «ai sensi dell'articolo 15, comma 5, lettere d) ed e),».
+
+14.
+                    
+                        
+                            All'articolo 25 del decreto legislativo 20 novembre 2008, n. 188, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 1, le parole: «dopo il 26 settembre 2009, immette sul mercato pile e accumulatori portatili e per veicoli privi del simbolo e della indicazione di cui all'articolo 23» sono sostituite dalle seguenti: «immette sul mercato pile ed accumulatori privi del simbolo di cui all'articolo 23, commi 1 e 3, o immette sul mercato, dopo il 26 settembre 2009, pile ed accumulatori portatili e per veicoli privi della indicazione di cui all'articolo 23, comma 5»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 3, e' aggiunto, in fine, il seguente periodo: «La stessa sanzione e' applicata al produttore che non fornisce le informazioni di cui all'articolo 15, comma 3, ovvero le fornisce in modo incompleto o inesatto.»; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                al comma 6, le parole: «di cui all'articolo 24, comma 2,» sono sostituite dalle seguenti: «di cui all'articolo 22, comma 2,».
 
 L'articolo 28 del decreto legislativo 20 novembre 2008, n. 188, e' abrogato.
 

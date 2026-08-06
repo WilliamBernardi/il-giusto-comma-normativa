@@ -8,8 +8,8 @@ codice_redazionale: 007G0111
 vigente: true
 source: normattiva-opendata
 collection: DPR
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:47:50Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -24,6 +24,115 @@ Udito il parere del Consiglio di Stato, espresso dalla Sezione consultiva per gl
 Sulla proposta del Ministro dell'universita' e della ricerca, di concerto con i Ministri dell'economia e delle finanze, per le riforme e le innovazioni nella pubblica amministrazione e per l'attuazione del programma di Governo;
 
 ## Art. 1. — Organi collegiali ed altri organismi del Ministero dell'universita' e della ricerca istituiti con atti normativi
+
+1.
+                    
+                        
+                            Con il presente regolamento sono individuati, ai sensi dell'articolo 29, comma 2, del decreto-legge 4 luglio 2006, n. 223, convertito, con modificazioni, dalla legge 4 agosto 2006, n. 248, i seguenti organi collegiali ed altri organismi, previsti da leggi o regolamenti, operanti nell'ambito di attivita' del Ministero dell'universita' e della ricerca:
+ 
+                        
+                        
+                            a)
+                            
+                                la Commissione di monitoraggio del programma nazionale di ricerche aerospaziali (PRORA), di cui all'articolo 2, comma 2, del decreto del Ministro dell'universita' e della ricerca scientifica e tecnologica 10 giugno 1998, n. 305;
+
+                            
+                        
+                        
+                            b)
+                            
+                                il Comitato per la valutazione delle richieste di ammissione agli interventi di sostegno della ricerca scientifica e tecnologica, di cui all'articolo 7, comma 2, del decreto legislativo 27 luglio 1999, n. 297;
+
+                            
+                        
+                        
+                            c)
+                            
+                                la Commissione scientifica nazionale per l'Antartide (CSNA), istituita ai sensi dell'articolo 5, comma 3, della legge 7 agosto 1997, n. 266;
+
+                            
+                        
+                        
+                            d)
+                            
+                                il Comitato nazionale per la valutazione del sistma universitario (CNVSU), di cui all'articolo 2 della legge 19 ottobre 1999, n. 370;
+
+                            
+                        
+                        
+                            e)
+                            
+                                il Comitato di indirizzo per la valutazione della ricerca (CIVR), di cui all'articolo 5 del decreto legislativo 5 giugno 1998, n. 204;
+
+                            
+                        
+                        
+                            f)
+                            
+                                il Comitato di esperti per la politica della ricerca (CEPR), di cui all'articolo 3 del decreto legislativo 5 giugno 1998, n. 204;
+
+                            
+                        
+                        
+                            g)
+                            
+                                la Commissione incaricata di esaminare i progetti di recupero, ristrutturazione e nuove costruzioni di immobili destinati ad alloggi e residenze universitarie, di cui all'articolo 1, comma 5, della legge 14 novembre 2000, n. 338;
+
+                            
+                        
+                        
+                            h)
+                            
+                                il Comitato tecnico-scientifico per la diffusione della cultura scientifica, di cui all'articolo 2-quater, della legge 28 marzo 1991, n. 113;
+
+                            
+                        
+                        
+                            i)
+                            
+                                la Commissione tecnico-consultiva di esperti per la formulazione del parere vincolante in materia di idoneita' degli istituti per la istituzione e attivazione di corsi di specializzazione in psicoterapia, di cui all'articolo 3 del decreto del Ministro dell'universita' e della ricerca scientifica e tecnologica 11 dicembre 1998, n. 509;
+
+                            
+                        
+                        
+                            l)
+                            
+                                l'Osservatorio nazionale della formazione medica specialistica, di cui all'articolo 43 del decreto legislativo 17 agosto 1999, n. 368;
+
+                            
+                        
+                        
+                            m)
+                            
+                                la Commissione nazionale per la predisposizione dei quesiti per la prova scritta degli esami di Stato di abilitazione all'esercizio della professione di medico chirurgo, di cui all'articolo 4 del decreto del Ministro dell'istruzione, dell'universita' e della ricerca 19 ottobre 2001, n. 445;
+
+                            
+                        
+                        
+                            n)
+                            
+                                la Commissione per la predisposizione dei quesiti per l'ammissione alle scuole di specializzazione per le professioni legali, di cui all'articolo 4, comma 3, del decreto del Ministro dell'universita' e della ricerca scientifica e tecnologica 21 dicembre 1999, n. 537;
+
+                            
+                        
+                        
+                            o)
+                            
+                                la Commissione tecnico-consultiva con il compito di esprimere parere obbligatorio in ordine alle istanze di riconoscimento delle Scuole superiori per mediatori linguistici, di cui all'articolo 3 del decreto del Ministro dell'istruzione, dell'universita' e della ricerca 10 gennaio 2002, n. 38;
+
+                            
+                        
+                        
+                            p)
+                            
+                                la Commissione nazionale con il compito di predisporre un archivio nazionale con almeno cinquemila quesiti a risposta multipla per l'ammissione dei medici alle scuole di specializzazione in medicina, di cui all'articolo 4, comma 2, del decreto del Ministro dell'istruzione, dell'universita' e della ricerca 25 febbraio 2003, n. 99;
+
+                            
+                        
+                        
+                            q)
+                            
+                                il Nucleo di valutazione e verifica degli investimenti pubblici, istituito ai sensi dell'articolo 1 della legge 17 maggio 1999, n. 144.
 
 ## Art. 2. — Riduzione delle spese di funzionamento
 

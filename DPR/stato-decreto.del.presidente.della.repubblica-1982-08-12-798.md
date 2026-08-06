@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: DPR
 vigenza_date: 2011-06-03
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:47:46Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -147,6 +147,56 @@ L'approvazione ((CE)) del modello e' valida per dieci anni ed e' prorogabile per
 
 Qualora in uno strumento siano impiegate tecniche nuove non previste dal provvedimento di attuazione di direttiva particolare, puo' essere concessa un'approvazione ((CE)) del modello di effetto limitato, previa consultazione degli altri Stati membri della CEE.
 
+2.
+                    
+                        
+                            Essa puo' comportare le seguenti restrizioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                limitazione del numero di strumenti che beneficiano dell'approvazione; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                obbligo di notificare i luoghi di installazione all'ufficio centrale metrico del Ministero dell'industria, del commercio e dell'artigianato, o all'autorita' competente in caso di installazione in altro Stato membro della CEE; ((3))
+                                
+                            
+                        
+                        
+                            c)
+                            
+                                limitazione dell'uso; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                disposizioni limitative particolari relative alla tecnica impiegata.
+
+3.
+                    
+                        
+                            L'approvazione ((CE)) del modello di effetto limitato puo' venire concessa soltanto se: 
+ 
+                        
+                        
+                            a)
+                            
+                                il provvedimento di attuazione della direttiva particolare relativa alla categoria di strumenti interessati e' gia' entrato in vigore; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                non comporta deroga agli errori massimi tollerati fissati dai provvedimenti di attuazione delle direttive particolari.
+
 La validita' dell'approvazione di cui ai precedenti commi e' limitata ad un massimo di due anni e puo' essere prorogata di tre anni al massimo.
 
 ---------------
@@ -198,6 +248,56 @@ La verificazione prima ((CE)) degli strumenti e' effettuata dagli uffici provinc
  - (con l'art. 1, comma 4, lettera d)) che "i riferimenti agli Uffici provinciali metrici del Ministero dell'industria del commercio e dell'artigianato si intendono effettuati all'ufficio corrispondente della competente Camera di commercio, industria, artigianato ed agricoltura".
 
 ## Art. 13.
+
+1.
+                    
+                        
+                            In sede di verificazione prima ((CE)), si controlla: 
+ 
+                        
+                        
+                            a)
+                            
+                                se lo strumento appartiene ad una categoria esonerata dall'approvazione ((CE)) del modello e, in caso affermativo, se esso e' conforme alle prescrizioni di realizzazione tecnica e di funzionamento fissate nei provvedimenti di attuazione delle direttive particolari relative a detto strumento; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                se lo strumento e' stato oggetto di un'approvazione ((CE)) del modello e, in caso affermativo, se esso e' conforme al modello approvato ed ai provvedimenti di attuazione delle direttive particolari relative a questo strumento, in vigore al momento del rilascio di tale approvazione ((CE)) del modello.
+
+2.
+                    
+                        
+                            L'esame effettuato in sede di verificazione prima ((CE)) e' diretto in particolare in conformita' dei provvedimenti di attuazione delle direttive particolari, al controllo: 
+ 
+                        
+                        
+                            a)
+                            
+                                delle qualita' metrologiche; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                del funzionamento entro gli errori massimi tollerati; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                della costruzione, che deve garantire che le proprieta' metrologiche non rischiano di diminuire notevolmente nell'uso normale dello strumento; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                dell'esistenza delle indicazioni segnaletiche regolamentari e delle targhette di punzonatura o dello spazio che consenta l'apposizione dei marchi di verifica ((CE)).
 
 Ove i controlli effettuati in occasione della verificazione prima ((CE)) conformemente alle disposizioni del presente decreto e dei provvedimenti di attuazione delle direttive particolari diano esito positivo, sullo strumento verificato vengono apposti, secondo i casi, i marchi di verificazione parziale o definitiva ((CE)) di cui all'allegato II sotto la responsabilita' dell'ispettore metrico incaricato, o dell'ente o istituto pubblico delegato di cui all'art. 12, comma secondo.
 

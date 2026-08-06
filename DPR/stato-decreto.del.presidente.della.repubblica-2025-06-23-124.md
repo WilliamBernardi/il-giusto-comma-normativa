@@ -7,8 +7,8 @@ urn: urn:nir:stato:decreto.del.presidente.della.repubblica:2025-06-23;124
 vigente: true
 source: normattiva-opendata
 collection: DPR
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:47:46Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -143,7 +143,50 @@ All'articolo 6, comma 1, ultimo capoverso del decreto del Presidente della Repub
 
 Tutela della genitorialita'
 
+1.
+                        
+                            
+                                All'articolo 12 del decreto del Presidente della Repubblica 7 maggio 2008, sono apportate le seguenti modifiche: 
+ 
+                            
+                            
+                                a)
+                                
+                                    al comma 3, l'ultimo capoverso «sino al compimento del terzo anno di eta' del figlio» e' sostituito con «sino al compimento del quattordicesimo anno di eta' del figlio»; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    e' aggiunto il comma 3-bis: 
+ «3-bis. A domanda, e' previsto l'esonero dal turno notturno per il dipendente che assiste un figlio affetto da patologie gravi che richiedono terapie salvavita opportunamente documentate dall'ufficio medico legale dell'azienda sanitaria competente per territorio o da struttura convenzionata.».
+
 ## Art. 14. — Cessione solidale del congedo ordinario
+
+1.
+                        
+                            
+                                All'articolo 21 del decreto del Presidente della Repubblica 17 giugno 2022, n. 120, e' apportata la seguente modifica: 
+ 
+                            
+                            
+                                a)
+                                
+                                    
+                                        il comma 1 e' sostituito dal seguente: 
+ «1. Su base volontaria e a titolo gratuito, il personale direttivo e dirigente puo' cedere, in tutto o in parte, ad altro dipendente del Corpo nazionale dei vigili del fuoco che abbia esigenza di prestare assistenza a figli che necessitino di cure costanti, e/o al coniuge convivente, ovvero al convivente di fatto ai sensi della legge 20 maggio 2016, n. 76, ovvero ai genitori conviventi, che, per le particolari condizioni di salute in cui versano, necessitano di cure costanti, nonche' ai genitori non conviventi, affetti da patologie gravi che richiedono terapie salvavita documentate dalla azienda sanitaria competente per territorio o da struttura convenzionata: 
+ a) le giornate di congedo ordinario, nella propria disponibilita', eccedenti le quattro settimane annuali di cui il lavoratore deve necessariamente fruire ai sensi dell'articolo 10 del decreto legislativo 8 aprile 2003, n. 66; 
+ b) le quattro giornate di riposo per le festivita' soppresse.»;
+                                    
+                                
+                            
+                            
+                                b)
+                                
+                                    
+                                        il comma 3 e' sostituito dal seguente: 
+ «3. L'Amministrazione rende tempestivamente nota la richiesta a tutto il personale in servizio, anche in sedi diverse da quella di appartenenza del dipendente richiedente, garantendo l'anonimato del richiedente.».
 
 ## Art. 15. — Lavoro agile
 
@@ -213,9 +256,57 @@ Gli effetti retributivi derivanti dall'applicazione dell'articolo 17 del present
 
 ## Art. 22. — Fondo per la retribuzione di rischio e di posizione e per la retribuzione di risultato dei dirigenti di livello non generale
 
+1.
+                        
+                            
+                                Il fondo per la retribuzione di rischio e di posizione e per la retribuzione di risultato dei primi dirigenti e dei dirigenti superiori del Corpo nazionale dei vigili del fuoco, di cui all'articolo 16 del decreto del Presidente della Repubblica 17 giugno 2022, n. 120, e' aumentato dalle seguenti risorse annue, ulteriori rispetto a quelle utilizzate per gli incrementi di cui all'articolo 19 del presente decreto: 
+ 
+                            
+                            
+                                a)
+                                
+                                    per la quota variabile della retribuzione di rischio e di posizione: 
+ per l'anno 2024: euro 74.308,20 
+ per l'anno 2025: euro 61.609,30 
+ a decorrere dall'anno 2026: euro 70.953,06 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    per la retribuzione di risultato: 
+ per l'anno 2024: euro 105.483,60 
+ per l'anno 2025: euro 126.332,96 
+ a decorrere dall'anno 2026: euro 139.596,80
+
 Restano ferme le altre disposizioni relative alla composizione del predetto fondo e all'utilizzo dello stesso.
 
 ## Art. 23. — Fondo per la retribuzione di rischio e di posizione e per la retribuzione di risultato dei dirigenti di livello generale
+
+1.
+                        
+                            
+                                Il fondo per la retribuzione di rischio e di posizione e per la retribuzione di risultato dei dirigenti di livello generale del Corpo nazionale dei vigili del fuoco, di cui all'articolo 17 del decreto del Presidente della Repubblica 17 giugno 2022, n. 120, e' aumentato dalle seguenti risorse annue, ulteriori rispetto a quelle utilizzate per gli incrementi di cui all'articolo 19 del presente decreto: 
+ 
+                            
+                            
+                                a)
+                                
+                                    per la quota variabile della retribuzione di rischio e di posizione: 
+ per l'anno 2024: euro 24.627,60 
+ per l'anno 2025: euro 20.418,94 
+ a decorrere dall'anno 2026: euro 23.515,70 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    per la retribuzione di risultato: 
+ per l'anno 2024: euro 18.612,40 
+ per l'anno 2025: euro 24.842,84 
+ a decorrere dall'anno 2026: euro 27.183,20
 
 Restano ferme le altre disposizioni relative alla composizione del predetto fondo e all'utilizzo dello stesso.
 
@@ -294,6 +385,41 @@ In favore del personale di cui al comma 7, in possesso dell'abilitazione di Istr
 
 La disponibilita' all'impiego operativo professionalizzato, necessario ad assicurare la gestione e l'operativita' del settore di appartenenza, e' considerata equivalente all'effettivo svolgimento delle funzioni specialistiche. Qualora non sia raggiunta l'attivita' minima di volo di cui ai commi 7, 8, 9, 11 e 12 per motivi non imputabili al dipendente, le indennita' ivi previste sono attribuite previa dichiarazione del dirigente responsabile della sede di servizio, sentito il responsabile del reparto volo.
 
+14.
+                        
+                            
+                                L'indennita' di cui ai commi 11 e 12 non sono attribuite laddove, per frazioni di mese pari o superiori a quindici giorni (o equivalente numero di turni), ricorrano le seguenti fattispecie: 
+ 
+                            
+                            
+                                a)
+                                
+                                    fruizione di congedi straordinari e aspettative ai sensi della normativa vigente; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    assenza dal servizio per infermita' e inidoneita' all'esercizio delle funzioni specialistiche, salvo quanto previsto dall'articolo 30, comma 1, del presente decreto; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    sospensione del brevetto e/o dei titoli abilitativi all'esercizio dell'attivita' specialistica; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    fruizione di permessi e distacchi sindacali. 
+ Le disposizioni di cui al presente comma non si applicano: 
+ a) in caso di assenze per congedo ordinario e per riposo compensativo; 
+ b) nei casi di attivita' di volo per soccorso pubblico aereo in almeno uno dei giorni di effettiva presenza.
+
 I successivi accordi integrativi nazionali per il personale direttivo del Corpo nazionale dei vigili del fuoco, nei limiti delle risorse di cui all'articolo 29 certificate dai competenti organi di controllo, possono definire, in funzione del grado di responsabilita' e dell'esperienza professionale maturata, l'attribuzione di incentivi al predetto personale anche tenendo conto dell'attivita' specialistica, con particolare riferimento alle funzioni di gestione operativa e tecnica del settore di appartenenza, ai collaudi, all'attivita' istruzionale, compresi i casi in cui il capo equipaggio possieda qualifica inferiore al copilota e quest'ultimo non sia in possesso di analoga abilitazione aeronautica.
 
 Le indennita' di cui ai commi 7 e 8 del presente articolo sostituiscono, a decorrere dal 1° gennaio 2025, tutte le specifiche indennita' di cui all'articolo 26, comma 3.
@@ -332,6 +458,41 @@ In favore del personale di cui ai commi 5 e 6 che abbia assicurato la presenza i
 
 La disponibilita' all'impiego operativo professionalizzato, necessario ad assicurare la gestione e l'operativita' del settore di appartenenza, e' considerata equivalente all'effettivo svolgimento delle funzioni specialistiche. Qualora non sia raggiunta l'attivita' minima di navigazione o di immersione di cui ai commi 5, 6 e 8 per motivi non imputabili al dipendente, le indennita' ivi previste sono attribuite previa dichiarazione del dirigente responsabile della sede di servizio, sentiti i rispettivi responsabili.
 
+10.
+                        
+                            
+                                Le indennita' di cui al comma 8 non sono attribuite laddove, per frazioni di mese pari o superiori a quindici di giorni (o equivalente numero di turni), ricorrano le seguenti fattispecie: 
+ 
+                            
+                            
+                                a)
+                                
+                                    fruizione di congedi straordinari e aspettative ai sensi della normativa vigente; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    assenza dal servizio per infermita' e inidoneita' all'esercizio delle funzioni specialistiche, salvo quanto previsto dall'articolo 6, comma 1, del presente decreto; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    sospensione del brevetto e/o dei titoli abilitativi all'esercizio dell'attivita' specialistica; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    fruizione di permessi e distacchi sindacali. 
+ Le disposizioni di cui al presente comma non si applicano: 
+ a) in caso di assenze per congedo ordinario o di riposo compensativo; 
+ b) nei casi di attivita' di navigazione o di immersione per soccorso pubblico in almeno uno dei giorni di effettiva presenza.
+
 I successivi accordi integrativi nazionali per il personale direttivo del Corpo nazionale dei vigili del fuoco, nei limiti delle risorse di cui all'articolo 29 certificate dai competenti organi di controllo, possono definire in funzione del grado di responsabilita' e dell'esperienza professionale maturata, l'attribuzione di incentivi al predetto personale anche tenendo conto dell'attivita' specialistica, con particolare riferimento alle funzioni di gestione operativa e tecnica del settore di appartenenza, ai collaudi, all'attivita' istruzionale, al servizio antincendi lagunare, compresa la valorizzazione della funzione di comandante dell'unita' navale, di direttore di macchina e di direttore di immersione.
 
 Le indennita' di cui ai commi 5 e 6 del presente articolo, sostituiscono, a decorrere dal 1° gennaio 2025, le specifiche indennita' di cui all'articolo 26, comma 3.
@@ -369,6 +530,77 @@ Il beneficio di cui al comma 3, in ogni caso, non compete a seguito di nomina a 
 Al personale di cui al presente decreto continuano ad applicarsi, ove non in contrasto, le norme previste dai precedenti contratti collettivi nazionali e accordi recepiti con decreti del Presidente della Repubblica.
 
 ## Art. 32. — Copertura finanziaria
+
+1.
+                        
+                            
+                                Agli oneri derivanti dall'attuazione della sezione I del presente decreto, pari a euro 5.717.055 per l'anno 2024, euro 6.009.419 per l'anno 2025 e ad euro 6.120.072 annui a decorrere dall'anno 2026, si provvede: 
+ 
+                            
+                            
+                                a)
+                                
+                                    quanto a euro 410.000 per l'anno 2024 mediante corrispondente utilizzo delle disponibilita' in conto residui di cui all'articolo 1, comma 609, della legge 30 dicembre 2021, n. 234 che sono versate all'entrata del bilancio dello Stato; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    quanto a euro 5.137.055 per l'anno 2024 mediante corrispondente utilizzo delle disponibilita' in conto residui di cui all'articolo 1, comma 27, della legge 30 dicembre 2023, n. 213 che sono versate all'entrata del bilancio dello Stato; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    quanto a euro 170.000 per l'anno 2024 mediante corrispondente utilizzo delle disponibilita' in conto residui di cui all'articolo 1, comma 347, della legge 30 dicembre 2023, n. 213 che sono versate all'entrata del bilancio dello Stato; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    quanto a euro 410.000 annui a decorrere dall'anno 2025 mediante corrispondente riduzione delle risorse di cui all'articolo 1, comma 609, della legge 30 dicembre 2021, n. 234; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    quanto a euro 5.139.419 per l'anno 2025 e ad euro 5.190.072 annui a decorrere dall'anno 2026 mediante corrispondente riduzione delle risorse di cui all'articolo 1, comma 27, della legge 30 dicembre 2023, n. 213; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    quanto a euro 170.000 per l'anno 2025 e ad euro 230.000 annui a decorrere dall'anno 2026 mediante corrispondente riduzione delle risorse di cui all'articolo 1, comma 347, della legge 30 dicembre 2023, n. 213; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    quanto a euro 290.000 annui a decorrere dall'anno 2025 mediante corrispondente riduzione delle risorse di cui all'articolo 1, comma 121, della legge 30 dicembre 2024, n. 207.
+
+2.
+                        
+                            
+                                All'onere derivante dall'attuazione della sezione II del presente decreto, pari a euro 6.337.154 per l'anno 2025, a euro 1.305.626 per l'anno 2026, a euro 1.308.231 per l'anno 2027, a euro 1.310.836 per l'anno 2028, a euro 1.313.441 per l'anno 2029, a euro 1.316.045 per l'anno 2030, a euro 1.318.650 per l'anno 2031, a euro 1.321.255 per l'anno 2032, a euro 1.323.860 per l'anno 2033 e a euro 1.326.465 annui a decorrere dall'anno 2034, si provvede: 
+ 
+                            
+                            
+                                a)
+                                
+                                    quanto a euro 6.334.549 per l'anno 2025 e a euro 1.300.416 annui a decorrere dall'anno 2026 a valere sulle risorse del Fondo di produttivita' di cui all'articolo 5, del decreto del Presidente della Repubblica 29 novembre 2007; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    quanto a euro 2.605 per l'anno 2025, a euro 5.210 per l'anno 2026, a euro 7.815 per l'anno 2027, a euro 10.420 per l'anno 2028, a euro 13.025 per l'anno 2029, a euro 15.629 per l'anno 2030, a euro 18.234 per l'anno 2031, a euro 20.839 per l'anno 2032, a euro 23.444 per l'anno 2033 e a euro 26.049 annui a decorrere dall'anno 2034, mediante corrispondente riduzione delle risorse del Fondo di produttivita' di cui all'articolo 5, del decreto del Presidente della Repubblica 29 novembre 2007.
 
 Il Ministro dell'Economia e delle finanze e' autorizzato ad apportare, con propri decreti, le occorrenti variazioni di bilancio.
 

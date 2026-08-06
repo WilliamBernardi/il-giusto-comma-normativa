@@ -7,8 +7,8 @@ urn: urn:nir:ministero.giustizia:decreto:2023-08-07;110
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:41Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -30,13 +30,172 @@ Il presente decreto stabilisce i criteri di redazione e regola gli schemi inform
 
 ## Art. 2. — Criteri di redazione degli atti processuali delle parti private e del pubblico ministero
 
+1.
+                    
+                        
+                            Al fine di assicurare la chiarezza e la sinteticita' degli atti processuali in conformita' a quanto prescritto dall'articolo 121 del codice di procedura civile, gli atti di citazione e i ricorsi, le comparse di risposta, le memorie difensive, i controricorsi e gli atti di intervento sono redatti con la seguente articolazione: 
+ 
+                        
+                        
+                            a)
+                            
+                                intestazione, contenente l'indicazione dell'ufficio giudiziario davanti al quale la domanda e' proposta e della tipologia di atto; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                parti, comprensive di tutte le indicazioni richieste dalla legge; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                parole chiave, nel numero massimo di venti, che individuano l'oggetto del giudizio; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                nelle impugnazioni, estremi del provvedimento impugnato con l'indicazione dell'autorita' giudiziaria che lo ha emesso, la data della pubblicazione e dell'eventuale notifica; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                esposizione distinta e specifica, in parti dell'atto separate e rubricate, dei fatti e dei motivi in diritto, nonche', quanto alle impugnazioni, individuazione dei capi della decisione impugnati ed esposizione dei motivi; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                nella parte in fatto, puntuale riferimento ai documenti offerti in comunicazione, indicati in ordine numerico progressivo e denominati in modo corrispondente al loro contenuto, preferibilmente consultabili con apposito collegamento ipertestuale; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                con riguardo ai motivi di diritto, esposizione delle eventuali questioni pregiudiziali e preliminari e di quelle di merito, con indicazione delle norme di legge e dei precedenti giurisprudenziali che si assumono rilevanti; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                conclusioni, con indicazione distinta di ciascuna questione pregiudiziale, preliminare e di merito e delle eventuali subordinate; 
+
+                            
+                        
+                        
+                            i)
+                            
+                                indicazione specifica dei mezzi di prova e indice dei documenti prodotti, con la stessa numerazione e denominazione contenute nel corpo dell'atto, preferibilmente consultabili con collegamento ipertestuale; 
+
+                            
+                        
+                        
+                            l)
+                            
+                                valore della controversia; 
+
+                            
+                        
+                        
+                            m)
+                            
+                                richiesta di distrazione delle spese; 
+
+                            
+                        
+                        
+                            n)
+                            
+                                indicazione del provvedimento di ammissione al patrocinio a spese dello Stato.
+
 Le disposizioni di cui al comma 1 si applicano, in quanto compatibili, agli altri atti del processo. Gli atti processuali successivi alla costituzione in giudizio indicano il numero di ruolo del processo al quale si riferiscono.
 
 ## Art. 3. — Limiti dimensionali degli atti processuali
 
+1.
+                    
+                        
+                            Salve le esclusioni e le deroghe previste dagli articoli 4 e 5, l'esposizione e' contenuta nel limite massimo di: 
+ 
+                        
+                        
+                            a)
+                            
+                                80.000 caratteri, corrispondenti approssimativamente a 40 pagine nel formato di cui all'articolo 6, quanto all'atto di citazione e al ricorso, alla comparsa di risposta e alla memoria difensiva, agli atti di intervento e chiamata di terzi, alle comparse e note conclusionali, nonche' agli atti introduttivi dei giudizi di impugnazione; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                50.000 caratteri, corrispondenti approssimativamente a 26 pagine nel formato di cui all'articolo 6, quanto alle memorie, alle repliche e in genere a tutti gli altri atti del giudizio; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                10.000 caratteri, corrispondenti approssimativamente a 5 pagine nel formato di cui all'articolo 6, quanto alle note scritte in sostituzione dell'udienza di cui all'articolo 127-ter del codice di procedura civile, quando non e' necessario svolgere attivita' difensive possibili soltanto all'udienza.
+
 Nel conteggio del numero massimo di caratteri non si computano gli spazi.
 
 ## Art. 4. — Esclusioni dai limiti dimensionali
+
+1.
+                    
+                        
+                            Dai limiti di cui all'articolo 3 sono esclusi: 
+ 
+                        
+                        
+                            a)
+                            
+                                gli elementi di cui all'articolo 2, comma 2, lettere a), b), c), d), h), i), l), m), n); 
+
+                            
+                        
+                        
+                            b)
+                            
+                                l'indice e la sintesi dell'atto; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                le indicazioni, le dichiarazioni e gli avvertimenti previsti dalla legge; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                la data e il luogo, nonche' le sottoscrizioni delle parti e dei difensori; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                le relazioni di notifica e le relative richieste e dichiarazioni; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                i riferimenti giurisprudenziali riportati nelle note.
 
 ## Art. 5. — Deroghe ai limiti dimensionali
 
@@ -47,6 +206,31 @@ Nel caso previsto dal comma 1, dopo l'intestazione il difensore inserisce un ind
 La proposizione di una domanda riconvenzionale, di una chiamata di terzo, di un atto di integrazione del contraddittorio, di un atto di riassunzione o di un'impugnazione incidentale giustifica il ragionevole superamento dei limiti previsti dall'articolo 3.
 
 ## Art. 6. — Tecniche redazionali
+
+1.
+                    
+                        
+                            Gli atti sono redatti mediante caratteri di tipo corrente, preferibilmente: 
+ 
+                        
+                        
+                            a)
+                            
+                                utilizzando caratteri di dimensioni di 12 punti; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                con interlinea di 1,5; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                con margini orizzontali e verticali di 2,5 centimetri.
 
 Non sono consentite note, salvo che per l'indicazione dei precedenti giurisprudenziali nonche' dei riferimenti dottrinari.
 

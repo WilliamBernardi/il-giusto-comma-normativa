@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
 vigenza_date: 2022-01-01
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:21Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -31,6 +31,32 @@ Gli enti di cui all'elenco A allegato al presente decreto legislativo sono trasf
 Gli enti trasformati continuano a sussistere come enti senza scopo di lucro e assumono la personalita' giuridica di diritto privato, ai sensi degli articoli 12 e seguenti del codice civile e secondo le disposizioni di cui al presente decreto, rimanendo titolari di tutti i rapporti attivi e passivi dei corrispondenti enti previdenziali e dei rispettivi patrimoni. Gli atti di trasformazione e tutte le operazioni connesse sono esenti da imposte e tasse.
 
 Gli enti trasformati continuano a svolgere le attivita' previdenziali e assistenziali in atto riconosciute a favore delle categorie di lavoratori e professionisti per le quali sono stati originariamente istituiti, ferma restando la obbligatorieta' della iscrizione e della contribuzione. Agli enti stessi non sono consentiti finanziamenti pubblici diretti o indiretti, con esclusione di quelli connessi con gli sgravi e la fiscalizzazione degli oneri sociali.
+
+4.
+                    
+                        
+                            Contestualmente alla deliberazione di cui al comma 1, gli enti adottano lo statuto ed il regolamento, che debbono essere approvati ai sensi dell'art. 3, comma 2, ed ispirarsi ai seguenti criteri: 
+ 
+                        
+                        
+                            a)
+                            
+                                trasparenza nei rapporti con gli iscritti e composizione degli organi collegiali, fermi restando i vigenti criteri di composizione degli organi stessi, cosi' come previsti dagli attuali ordinamenti; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                determinazione dei requisiti per l'esercizio dell'attivita' istituzionale, con particolare riferimento all'onorabilita' e professionalita' dei componenti degli organi collegiali e, comunque, dei responsabili dell'associazione o fondazione. Tale professionalita' e' considerata esistente qualora essa costituisca un dato caratterizzante l'attivita' professionale della categoria interessata; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                previsione di una riserva legale, al fine di assicurare la continuita' nell'erogazione delle prestazioni, in misura non inferiore a cinque annualita' dell'importo delle pensioni in essere.
+Ferme restando le riserve tecniche esistenti alla data di entrata in vigore del presente decreto, all'eventuale adeguamento di esse si provvede, nella fase di prima applicazione, mediante accantonamenti pari ad una annualita' per ogni biennio.
 
 ## Art. 2. — Gestione
 
@@ -57,6 +83,25 @@ Nel caso in cui gli organi di amministrazione e di rappresentanza si rendessero 
 ## Art. 3. — Vigilanza
 
 La vigilanza sulle associazioni o fondazioni di cui all'art. 1 e' esercitata dal Ministero del lavoro e della previdenza sociale, dal Ministero del tesoro, nonche' dagli altri Ministeri rispettivamente competenti ad esercitare la vigilanza per gli enti trasformati ai sensi dell'art. 1, comma 1. Nei collegi dei sindaci deve essere assicurata la presenza di rappresentanti delle predette Amministrazioni.
+
+2.
+                    
+                        
+                            Nell'esercizio della vigilanza il Ministero del lavoro e della previdenza sociale, di concerto con i Ministeri di cui al comma 1, approva i seguenti atti:
+ 
+                        
+                        
+                            a)
+                            
+                                lo statuto e i regolamenti, nonche' le relative integrazioni o modificazioni;
+
+                            
+                        
+                        
+                            b)
+                            
+                                le delibere in materia di contributi e prestazioni, sempre che la relativa potesta' sia prevista dai singoli ordinamenti vigenti.
+Per le forme di previdenza sostitutive dell'assicurazione generale obbligatoria le delibere sono adottate sulla base delle determinazioni definite dalla contrattazione collettiva nazionale.
 
 Il Ministero del lavoro e della previdenza sociale, di intesa con i Ministeri di cui al comma 1, puo' formulare motivati rilievi su: i bilanci preventivi e i conti consuntivi; le note di variazione al bilancio di previsione; i criteri di individuazione e di ripartizione del rischio nella scelta degli investimenti cosi' come sono indicati in ogni bilancio preventivo; le delibere contenenti criteri direttivi generali. Nel formulare tali rilievi il Ministero del lavoro e della previdenza sociale, d'intesa con i Ministeri di cui al comma 1, rinvia gli atti al nuovo esame da parte degli organi di amministrazione per riceverne una motivata decisione definitiva. I suddetti rilievi devono essere formulati per i bilanci consuntivi entro sessanta giorni dalla data di ricezione e entro trenta giorni dalla data di ricezione, per tutti gli altri atti di cui al presente comma. Trascorsi detti termini ogni atto relativo diventa esecutivo.
 

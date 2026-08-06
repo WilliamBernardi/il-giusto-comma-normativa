@@ -7,8 +7,8 @@ urn: urn:nir:stato:decreto.del.presidente.della.repubblica:2025-12-04;203
 vigente: true
 source: normattiva-opendata
 collection: DPR
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:48:06Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -222,6 +222,24 @@ E' corrisposto un elemento retributivo accessorio una tantum nelle misure annue 
 L'elemento retributivo di cui al comma 1 viene corrisposto in relazione ai mesi di servizio prestato e alla qualifica rivestita, parametrando le misure annue su 12 mensilita'. La frazione di mese superiore a 15 giorni da' luogo al riconoscimento dell'intero rateo mensile. Non si tiene conto delle frazioni di mese uguali o inferiori a 15 giorni e dei mesi nei quali non e' stato corrisposto lo stipendio per aspettative o congedi non retribuiti o altre cause di interruzione e sospensione della prestazione lavorativa.
 
 ## Art. 3. — Risorse non utilizzate nel triennio 2018-2020
+
+1.
+                        
+                            
+                                Per le Forze di polizia a ordinamento civile le risorse non utilizzate derivanti dall'applicazione dell'articolo 2 sono oggetto di successivo accordo e pari a: 
+ 
+                            
+                            
+                                a)
+                                
+                                    per la Polizia di Stato: euro 209.807 per il 2018, euro 728.464 per il 2019, euro 902.446 per il 2020 e euro 2.127.769 a decorrere dal 2021; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    per il Corpo di polizia penitenziaria: euro 33.490 per il 2018, euro 122.767 per il 2019, euro 74.831 per il 2020 e euro 285.562 a decorrere dal 2021.
 
 Le risorse di cui al comma 1 sono al netto di quelle utilizzate in applicazione dell'articolo 12-bis, comma 2, del decreto-legge 14 giugno 2019, n. 53, convertito con modificazioni dalla legge 8 agosto 2019, n. 77.
 
@@ -440,6 +458,24 @@ L'elemento retributivo di cui al comma 1 viene corrisposto in relazione ai mesi 
 
 ## Art. 6. — Risorse non utilizzate nel triennio 2018-2020
 
+1.
+                        
+                            
+                                Per le Forze di polizia ad ordinamento militare le risorse non utilizzate derivanti dall'applicazione dell'articolo 5 sono oggetto di successivo accordo e pari a: 
+ 
+                            
+                            
+                                a)
+                                
+                                    per l'Arma dei carabinieri: euro 149.670 per il 2018, euro 802.563 per il 2019, euro 1.155.835 per il 2020 e euro 2.341.309 a decorrere dal 2021; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    per la Guardia di finanza: euro 71.718 per il 2018, euro 423.385 per il 2019, euro 618.718 per il 2020 e euro 1.367.041 a decorrere dal 2021.
+
 Le risorse di cui al comma 1 sono al netto di quelle utilizzate in applicazione dell'articolo 12-bis, comma 2, del decreto-legge 14 giugno 2019, n. 53, convertito con modificazioni dalla legge 8 agosto 2019, n. 77.
 
 Le risorse di cui al presente articolo non comprendono gli oneri contributivi a carico dello Stato e l'imposta regionale sulle attivita' produttive.
@@ -449,4 +485,29 @@ Le risorse di cui al presente articolo non comprendono gli oneri contributivi a 
 Al personale di cui ai Titoli I e II continuano ad applicarsi le disposizioni normative, negoziali e dei provvedimenti di concertazione vigenti gia' estese alla data di entrata in vigore del presente decreto.
 
 ## Art. 8. — Copertura finanziaria
+
+1.
+                        
+                            
+                                Agli oneri derivanti dall'attuazione del presente decreto, pari a euro 907.539 per l'anno 2018, euro 4.369.152 per l'anno 2019, euro 6.022.709 per l'anno 2020 si provvede: 
+ 
+                            
+                            
+                                a)
+                                
+                                    quanto a euro 907.539 per l'anno 2018, euro 1.723.757 per l'anno 2019 e ad euro 2.483.512 per l'anno 2020 mediante corrispondente utilizzo delle disponibilita' in conto residui di cui all'articolo 1, comma 680, della legge 27 dicembre 2017, n. 205 che sono versate all'entrata del bilancio dello Stato; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    quanto a euro 2.645.395 per l'anno 2019 e ad euro 2.684.483 per l'anno 2020 mediante corrispondente utilizzo delle disponibilita' in conto residui di cui all'articolo 1, comma 442, della legge 30 dicembre 2018, n. 145 che sono versate all'entrata del bilancio dello Stato; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    quanto a euro 854.714 per l'anno 2020 mediante corrispondente utilizzo delle disponibilita' in conto residui di cui all'articolo 20, comma 1, del decreto-legge 30 dicembre 2019, n. 162 convertito, con modificazioni, dalla legge 28 febbraio 2020, n. 8 che sono versate all'entrata del bilancio dello Stato.
 

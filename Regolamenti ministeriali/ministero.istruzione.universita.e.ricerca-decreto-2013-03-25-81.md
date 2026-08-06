@@ -7,8 +7,8 @@ urn: urn:nir:ministero.istruzione.universita.e.ricerca:decreto:2013-03-25;81
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:41Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -38,12 +38,130 @@ Il presente regolamento modifica gli articoli 5, 11 e 15 del decreto del Ministr
 
 ## Art. 2. — Modificazioni all'articolo 5 del d.m. n. 249 del 2010
 
+1.
+                    
+                        
+                            All'articolo 5: 
+ 
+                        
+                        
+                            a)
+                            
+                                il comma 2 e' sostituito dal seguente: 
+ "2. Il numero complessivo dei posti annualmente disponibili per l'accesso ai percorsi e' determinato sulla base del fabbisogno di personale docente abilitato nelle scuole del sistema educativo di istruzione e formazione, previo parere del Ministero dell'economia e delle finanze e del Ministro per la pubblica amministrazione e la semplificazione."; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                dopo il comma 2, sono aggiunti i seguenti commi: 
+ "2-bis. Ai fini della determinazione del fabbisogno di cui al comma 2, si tiene conto, per le scuole statali: 
+ a) della programmazione regionale degli organici deliberata ai sensi dell'articolo 39 della legge 27 dicembre 1997, n. 449; 
+ b) del contingente di personale docente assunto con contratto a tempo determinato su posti disponibili ma non vacanti, nell'anno scolastico precedente. 
+ 2-ter. Il numero di posti individuato ai sensi del comma 2-bis e' maggiorato nel limite del 30 per cento per la copertura delle esigenze delle scuole paritarie e dei percorsi di istruzione e formazione professionale delle regioni. 
+ 2-quater. Per l'attivazione dei percorsi di cui al comma 1 si tiene conto altresi' dell'offerta formativa degli atenei e degli istituti di alta formazione artistica, musicale e coreutica.".
+
 ## Art. 3. — Modificazioni all'articolo 11 del d.m. n. 249 del 2010
 
 All'articolo 11 dopo il comma 5 e' inserito il seguente comma: 
  "5-bis. La determinazione dei contingenti dei tutor coordinatori e organizzatori avviene senza nuovi o maggiori oneri per la finanza pubblica. A tal fine, i parametri di assegnazione previsti dal decreto di cui al comma 5 sono derogabili al fine di assicurare l'invarianza di spesa.".
 
 ## Art. 4. — Modificazioni all'articolo 15 del d.m. n. 249 del 2010
+
+1.
+                    
+                        
+                            All'articolo 15: 
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 1, lettera a) dopo le parole "sono in possesso dei requisiti previsti dal" sono inserite le parole "decreto del Ministro della pubblica istruzione 30 gennaio 1998, n. 39, e dal"; le parole "modifiche e integrazioni" sono sostituite dalla parola "modificazioni"; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                la lettera b) e' sostituita dalla seguente: 
+ "b) coloro che, alla data di entrata in vigore del presente decreto e sino all'attivazione dei percorsi formativi previsti dall'articolo 3, commi 2, lettera b), e 3, sono iscritti a uno dei percorsi finalizzati al conseguimento dei titoli di cui alla lettera a);"; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                dopo il comma 1 sono inseriti i seguenti commi: 
+ "1-bis. Fino all'anno accademico 2014-2015, gli atenei e le istituzioni dell'alta formazione artistica, musicale e coreutica sedi dei corsi biennali di secondo livello a indirizzo didattico di cui al decreto del Ministro dell'universita' e della ricerca 28 settembre 2007, n. 137, purche' sedi di dipartimenti di didattica della musica, e al decreto del Ministro dell'istruzione, dell'universita' e della ricerca 7 ottobre 2004, n. 82, istituiscono e attivano percorsi formativi abilitanti speciali definiti dalla tabella 11-bis allegata al presente decreto e che ne costituisce parte integrante, finalizzati al conseguimento dell'abilitazione all'insegnamento nella scuola secondaria di primo e secondo grado e destinati ai soggetti di cui al comma 1-ter, nonche' i percorsi di cui al comma 16-bis relativi alla scuola dell'infanzia e alla scuola primaria. 
+ 1-ter. Ai percorsi di cui al comma 1-bis possono partecipare i docenti non di ruolo, ivi compresi gli insegnanti tecnico pratici, che, sprovvisti di abilitazione ovvero di idoneita' alla classe di concorso per la quale chiedono di partecipare e in possesso dei requisiti previsti al comma 1, abbiano maturato, a decorrere dall'anno scolastico 1999/2000 fino all'anno scolastico 2011/2012 incluso, almeno tre anni di servizio in scuole statali, paritarie ovvero nei centri di formazione professionale. Il servizio prestato nei centri di formazione professionale riconducibile a insegnamenti compresi in classi di concorso e' valutato solo se prestato per garantire l'assolvimento dell'obbligo di istruzione a decorrere dall'anno scolastico 2008/2009. Ai fini del presente comma e' valido anche il servizio prestato nel sostegno. Gli aspiranti che abbiano prestato servizio in piu' anni e in piu' di una classe di concorso optano per una sola di esse, fermo restando il diritto a conseguire ulteriori abilitazioni nei percorsi ordinari di cui al comma 1. Ai fini del raggiungimento dei requisiti previsti dal presente comma e' valutabile il servizio effettuato nella stessa classe di concorso o tipologia di posto, prestato per ciascun anno scolastico per un periodo di almeno 180 giorni ovvero quello valutabile come anno di servizio intero, ai sensi dell'articolo 11, comma 14, della legge 3 maggio 1999, n. 124. Il suddetto requisito si raggiunge anche cumulando i servizi prestati, nello stesso anno e per la stessa classe di concorso o posto, nelle scuole statali, paritarie e centri di formazione professionale. 
+ 1-quater. L'iscrizione ai percorsi formativi abilitanti speciali non prevede il superamento di prove di accesso. La frequenza ai percorsi non e' compatibile con la frequenza di corsi universitari che si concludano con il rilascio di titoli accademici, inclusi i percorsi di cui al presente decreto. 
+ 1-quinquies. Al fine di assicurare l'offerta formativa di cui ai commi 1-bis e 16-bis, gli atenei ovvero le istituzioni dell'alta formazione artistica, musicale e coreutica possono attivare le iniziative di cui all'articolo 4, comma 5, anche al fine di assicurare la possibilita' di frequenza dei percorsi. In caso di impossibilita' o comunque di difficolta' derivanti da qualsiasi causa, al fine di attivare percorsi relativi alle classi di concorso previste dal vigente ordinamento, gli atenei ovvero le istituzioni di alta formazione artistica, musicale e coreutica stipulano, sentiti gli uffici scolastici regionali, apposite convenzioni con istituzioni scolastiche autonome, individuate dagli stessi uffici scolastici, e con le fondazioni di partecipazione istitutive degli istituti tecnici superiori,. 
+ 1-sexies. Con decreto del Ministero dell'istruzione, dell'universita' e della ricerca sono emanate disposizioni organizzative atte a garantire, nel rispetto dell'invarianza di spesa e dei generali vincoli di finanza pubblica, l'accesso ai percorsi abilitanti speciali a tutti i soggetti aventi titolo ai sensi dei commi 1-ter e 16-bis che ne facciano richiesta nelle modalita' stabilite dal decreto medesimo e tenuto conto anche della disponibilita' ricettiva sostenibile dalle universita'."; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                il comma 3 e' sostituito dal seguente: 
+ "3. I titoli di studio posseduti dai soli soggetti di cui al comma 1, lettere a) e c) mantengono la loro validita' ai fini dell'inserimento nella terza fascia delle graduatorie di istituto. I titoli di studio conseguiti dai soggetti di cui al comma 1, lettera b), sono integrati dal compimento del tirocinio formativo attivo e costituiscono titolo di accesso al concorso e titolo di insegnamento per le rispettive classi di concorso. A decorrere dall'istituzione dei relativi percorsi, le tabelle 2, 3, 4, 5, 6, 7, 8, 9 e 10 allegate al presente regolamento, unitamente al compimento del tirocinio formativo attivo di cui all'articolo 10, sostituiscono integralmente per le relative classi di concorso i titoli previsti dal decreto ministeriale 30 gennaio 1998, n. 39, e successive integrazioni e modificazioni."; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                al comma 4 dopo le parole "articolo 5" sono soppresse le parole "comma 1"; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                il comma 5 e' sostituito dal seguente: 
+ "5. Le universita' e le istituzioni dell'alta formazione artistica, musicale e coreutica che istituiscono corsi di tirocinio formativo attivo curano lo svolgimento della relativa prova d'accesso. La prova, che mira a verificare le conoscenze disciplinari relative alle materie oggetto di insegnamento della classe di abilitazione, si articola in un test preliminare a carattere nazionale, in una prova scritta e in una prova orale. I programmi delle prove e le modalita' di svolgimento del test preliminare sono definiti annualmente con uno o piu' decreti del Ministro dell'istruzione, dell'universita' e della ricerca."; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                il comma 6 e' sostituito dal seguente: 
+ "6. Il test preliminare comporta l'attribuzione di un massimo di 30 punti, la prova scritta di un massimo di 30 punti e la prova orale di un massimo di 20 punti. Ulteriori punti possono essere attribuiti per titoli di studio, di servizio e pubblicazioni secondo le modalita' indicate nel comma 13."; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                al comma 7 il secondo e terzo periodo sono soppressi; 
+
+                            
+                        
+                        
+                            i)
+                            
+                                il primo periodo del comma 16 e' sostituito dal seguente: 
+ "Le facolta' di cui all'articolo 6, comma 1, possono attivare percorsi formativi finalizzati esclusivamente all'acquisizione di titolo valido all'inserimento nella seconda fascia delle graduatorie di istituto destinati ai diplomati che hanno titolo all'insegnamento nella scuola materna e nella scuola elementare ai sensi del decreto del Ministro della pubblica istruzione 10 marzo 1997 pubblicato nella Gazzetta Ufficiale n. 175 del 29 luglio 1997." 
+
+                            
+                        
+                        
+                            l)
+                            
+                                dopo il comma 16 sono inseriti i seguenti commi: 
+ "16-bis. Sono ammessi al percorso di cui al comma 16, senza la necessita' di sostenere la prova di accesso, i soggetti ivi contemplati in possesso dei requisiti di servizio previsti dal comma 1-ter, relativi alla scuola dell'infanzia ovvero primaria. Ai fini del raggiungimento dei requisiti di servizio richiesti si possono cumulare gli anni di servizio prestati nella scuola dell'infanzia con quelli prestati nella scuola primaria. L'aspirante opta per il percorso relativo alla scuola dell'infanzia o per quello relativo alla scuola primaria. 
+ 16-ter. Resta fermo il valore dei titoli conseguiti entro i termini di cui all'articolo 2 del decreto del Ministro della pubblica istruzione 10 marzo 1997 pubblicato nella Gazzetta Ufficiale n. 175 del 29 luglio 1997 quali titoli di accesso ai concorsi per titoli ed esami, titoli di accesso alla terza fascia delle graduatorie di istituto e titoli validi ai sensi dell'articolo 1, comma 4, lettera g), della legge 10 marzo 2000, n. 62."; 
+
+                            
+                        
+                        
+                            m)
+                            
+                                dopo il comma 27 e' inserito il seguente comma: 
+ "27-bis. I titoli di abilitazione conseguiti al termine dei percorsi di cui al presente decreto non consentono l'inserimento nelle graduatorie a esaurimento, di cui all'articolo 1, comma 605, della legge 27 dicembre 2006, n. 296. Essi danno diritto esclusivamente all'iscrizione alla II fascia delle graduatorie di istituto di cui all'articolo 5 del decreto del Ministro della pubblica istruzione 13 giugno 2007, n. 131, per la specifica classe di concorso, o ambito disciplinare, e costituiscono requisito di ammissione alle procedure concorsuali per titoli ed esami.".
 
 Al d.m. n. 249 del 2010 e' aggiunta in fine la seguente tabella 11-bis: 
  

@@ -7,8 +7,8 @@ urn: urn:nir:stato:decreto.legislativo:2018-03-01;24
 vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:21Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -28,4 +28,31 @@ All'articolo 01 del decreto legislativo 16 dicembre 1993, n. 592, e successive m
  «2-bis. La Provincia autonoma di Trento promuove con le universita' ricadenti nel territorio della Regione Trentino-Alto Adige/Südtirol progetti di alta formazione nonche' ogni altra iniziativa, ivi compresa l'istituzione di corsi di lingua e di cultura delle popolazioni ladina, mochena e cimbra, diretti ad agevolare la ricerca scientifica e le attivita' culturali e formative in coerenza con le finalita' del presente decreto.».
 
 ## Art. 2. — Modificazioni dell'articolo 2 del decreto legislativo 16 dicembre 1993, n. 592, concernente disposizioni di tutela delle popolazioni ladina, mochena e cimbra della provincia di Trento
+
+1.
+                    
+                        
+                            All'articolo 2 del decreto legislativo 16 dicembre 1993, n. 592, e successive modifiche sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                alla fine del comma 3 sono aggiunte le seguenti parole: «Il personale docente, a cui e' stato attribuito il posto secondo le modalita' previste da questo comma, e' tenuto a insegnare la lingua e la cultura ladina oppure a usare il ladino quale lingua di insegnamento, secondo quanto previsto dal comma 1.»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                il comma 4-bis e' sostituito dal seguente comma: 
+ «4-bis. Nelle scuole dell'infanzia situate nelle localita' ladine di cui al comma 1 il ladino e' usato, accanto alla lingua italiana, quale lingua di insegnamento secondo quanto previsto dalla normativa provinciale. A tal fine la legge provinciale prevede che, nell'ambito delle procedure di assunzione, assegnazione e mobilita' nelle predette scuole, i posti vacanti sono riservati e attribuiti con precedenza assoluta, anche rispetto all'assegnazione di eventuali sedi libere sul restante territorio provinciale, a coloro che, in possesso dei requisiti prescritti dalla normativa vigente per l'accesso ai posti relativi, abbiano dimostrato la conoscenza della lingua e della cultura ladina, da accertarsi secondo modalita' stabilite dalla medesima legge provinciale. Qualora non sia possibile coprire tutti i posti di insegnamento secondo quanto disposto da questo comma, gli eventuali posti vacanti sono ricoperti con incarichi a tempo determinato.»; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                dopo il comma 4-bis e' aggiunto il seguente comma: 
+ «4-ter. Il personale insegnante, a cui e' stato attribuito il posto secondo le modalita' previste dal comma 4-bis, e' tenuto a usare il ladino quale lingua di insegnamento secondo quanto previsto dallo stesso comma.».
 

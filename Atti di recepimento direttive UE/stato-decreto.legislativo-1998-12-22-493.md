@@ -9,7 +9,7 @@ vigente: true
 source: normattiva-opendata
 collection: Atti di recepimento direttive UE
 zip_date: 2026-07-30
-fetched_at: 2026-08-02T09:40:51Z
+fetched_at: 2026-07-30
 ---
 
 DECRETO LEGISLATIVO
@@ -26,6 +26,32 @@ Acquisiti i pareri delle competenti commissioni permanenti della Camera dei depu
 Sulla proposta del Ministro per le politiche comunitarie e del Ministro della sanita', di concerto con i Ministri degli affari esteri, di grazia e giustizia, del tesoro, del bilancio e della programmazione economica e per le politiche agricole;
 
 ## Art. 1.
+
+1.
+                    
+                        
+                            All'articolo 5, comma 2, del decreto legislativo 13 dicembre 1996, n. 674, sono apportate le seguenti modifiche:
+ 
+                        
+                        
+                            a)
+                            
+                                la lettera b) e' sostituita dalla seguente:
+ " b) provengono, fatte salve le diverse disposizioni contenute nell'allegato II, da stabilimenti:
+ 1) registrati dalle competenti autorita' del Paese terzo, nel caso del miele e nel caso dei prodotti di cui all'allegato I, capitoli 3 e 5, parte B, capitoli 12 e 13, capitolo 14, punto I, limitatamente allo stallatico liquido non trasformato, e capitolo 15;
+ 2) compresi in un elenco da redigersi in sede comunitaria, nel caso di prodotti diversi da quelli di cui al punto 1);";
+
+                            
+                        
+                        
+                            b)
+                            
+                                dopo la lettera c) e' aggiunta la seguente:
+ "cbis) preventivamente autorizzati dal Ministero della sanita', in attesa che in sede comunitaria, vengano fissati requisiti specifici, ove trattasi dei prodotti di cui all'allegato II, capitolo 2, lettere d) ed e).".
+ N O T E
+ Avvertenza:
+ Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, commi 2 e 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con D.P.R. 28 dicembre 1985, n. 1092, al solo fine di facilitare la lettura delle disposizioni di legge modificate o alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
+ Per le direttive CEE vengono forniti gli estremi di pubblicazione nella Gazzetta Ufficiale delle Comunita' europee (GUCE).
 
 ## Art. 2.
 

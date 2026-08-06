@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
 vigenza_date: 2025-12-11
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:31Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -29,6 +29,31 @@ Sulla proposta del Ministro dello sviluppo economico, di concerto con il Ministr
 ## Art. 1. — Ambito di applicazione della legge e competenze
 
 La ricerca e la coltivazione a scopi energetici delle risorse geotermiche effettuate nel territorio dello Stato, nel mare territoriale e nella piattaforma continentale italiana, quale definita dalla legge 21 luglio 1967, n. 613, sono considerate di pubblico interesse e di pubblica utilita' e sottoposte a regimi abilitativi ai sensi del presente decreto.
+
+2.
+                        
+                            
+                                Ai sensi e per gli effetti del presente decreto legislativo, valgono le seguenti definizioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    sono risorse geotermiche ad alta entalpia quelle caratterizzate da una temperatura del fluido reperito superiore a 150 °C; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    sono risorse geotermiche a media entalpia quelle caratterizzate da una temperatura del fluido reperito compresa tra 90 °C e 150 °C; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    sono risorse geotermiche a bassa entalpia quelle caratterizzate da una temperatura del fluido reperito inferiore a 90 °C.
 
 Sono d'interesse nazionale le risorse geotermiche ad alta entalpia, o quelle economicamente utilizzabili per la realizzazione di un progetto geotermico, riferito all'insieme degli impianti nell'ambito del titolo di legittimazione, tale da assicurare una potenza erogabile complessiva di almeno 20 MW termici, alla temperatura convenzionale dei reflui di 15 gradi centigradi; sono inoltre di interesse nazionale le risorse geotermiche economicamente utilizzabili rinvenute in aree marine.
 
@@ -84,6 +109,45 @@ Con regolamento da emanare ai sensi dell'articolo 17, comma 2, della legge 23 ag
 Restano validi fino alla loro naturale scadenza i permessi di ricerca gia' assentiti alla data di entrata in vigore del presente decreto legislativo.
 
 Il permesso di ricerca e' rilasciato a seguito dell'esito positivo della procedura di valutazione di impatto ambientale, laddove prevista dalla normativa vigente.
+
+6.
+                        
+                            
+                                In caso di domande concorrenti, determinate nei modi di cui al comma 7, l'autorita' competente effettua una selezione in base ai seguenti parametri, nel rispetto dei principi di trasparenza e parita' di trattamento, sulla base di una preventiva ponderazione: 
+ 
+                            
+                            
+                                a)
+                                
+                                    sull'interesse, fondatezza e novita' degli obiettivi minerari; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    sulle conoscenze delle problematiche geologico-strutturali specifiche dell'area richiesta; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    sulla completezza e razionalita' del programma dei lavori di ricerca proposto, con particolare riferimento agli studi geologici, alle indagini geochimiche e geofisiche, alle perforazioni previste, ai tempi programmati e con riferimento anche alla sua eventuale complementarieta' con ricerche svolte in zone adiacenti; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    sulle modalita' di svolgimento dei lavori, con particolare riferimento alla sicurezza, agli interventi di mitigazione degli impatti ed alla salvaguardia ambientale, nonche' all'obbligo di ripristino dei luoghi, in relazione al quale deve essere prestata idonea garanzia finanziaria o assicurativa; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    sulla garanzia che i richiedenti offrono, per competenza ed esperienza, per la corretta esecuzione del programma di lavoro proposto e per il rispetto dei tempi programmati;
 
 Sono considerate concorrenti le domande, riferite esclusivamente alla medesima area della prima domanda, fatte salve le domande relative agli impianti sperimentali di potenza nominale non superiore a 5 MW, pervenute all'autorita' competente non oltre sessanta giorni dalla pubblicazione della prima domanda nel Bollettino ufficiale regionale o in altro strumento di pubblicita' degli atti indicato dalla Regione stessa o, in caso di competenza del Ministero dello sviluppo economico, nel Bollettino ufficiale degli idrocarburi, di cui all'articolo 43 della legge 11 gennaio 1957, n. 6, e successive modificazione. Alla denominazione del Bollettino ufficiale degli idrocarburi sono aggiunte in fine le parole «e delle georisorse» (BUIG).
 
@@ -158,6 +222,31 @@ Qualora la richiesta di concessione di cui al comma 2 non ricopra l'intera area 
 
 La concessione puo' essere accordata per la durata di trenta anni.
 
+5.
+                        
+                            
+                                Per l'assegnazione della concessione di coltivazione in caso di concorrenza, l'autorita' competente, acquisito l'esito positivo della procedura di valutazione di impatto ambientale per ciascun progetto, effettua una selezione sulla base di valutazioni svolte in base ai seguenti parametri, nel rispetto dei principi di trasparenza e parita' di trattamento, sulla base di una preventiva ponderazione: 
+ 
+                            
+                            
+                                a)
+                                
+                                    sulla completezza e razionalita' del programma dei lavori proposto per la gestione dei serbatoi geotermici, con particolare riguardo alla sostenibilita' di lungo periodo; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    sulle modalita' di svolgimento dei lavori, con particolare riferimento alla sicurezza, agli interventi di mitigazione degli impatti ed alla salvaguardia ambientale, nonche' al ripristino dei luoghi, in relazione al quale deve essere prestata idonea garanzia finanziaria tramite anche fideiussione assicurativa o bancaria; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    sulla garanzia che i richiedenti offrono, per competenza ed esperienza, per la corretta esecuzione del programma di lavoro proposto e per il rispetto dei tempi programmati, utilizzando parametri riferiti a precedenti esperienze nel settore geotermico, dimensioni dell'azienda, competenze tecniche specifiche;
+
 ## Art. 9. — Riassegnazione di una concessione di coltivazione
 
 Tre anni prima della scadenza di una concessione e nei casi di decadenza, rinuncia e revoca, l'autorita' competente, ove non ritenga sussistere un prevalente interesse pubblico incompatibile in tutto o in parte con il mantenimento della concessione, indice una gara ad evidenza pubblica, nel rispetto della normativa vigente e dei principi fondamentali di tutela della concorrenza, liberta' di stabilimento, trasparenza e non discriminazione, per l'attribuzione onerosa della concessione per anni trenta, avendo particolare riguardo ad un'offerta di miglioramento e risanamento ambientale dell'area e di aumento dell'energia prodotta o della potenza installata, nella salvaguardia della risorsa geotermica.
@@ -170,6 +259,24 @@ L'autorita' competente puo' richiedere la messa in sicurezza degli stessi e il r
 Agli effetti del comma 3 per impianti di trasformazione e distribuzione inerenti alla concessione si intendono quelli che trasportano e trasformano prevalentemente energia prodotta dall'impianto cui si riferisce la concessione.
 
 ## Art. 10. — Piccole utilizzazioni locali
+
+1.
+                        
+                            
+                                Sono piccole utilizzazioni locali di calore geotermico quelle per le quali sono soddisfatte congiuntamente le seguenti condizioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    consentono la realizzazione di impianti di potenza inferiore a 2 MW termici, ottenibili dal fluido geotermico alla temperatura convenzionale dei reflui di 15 gradi centigradi; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    ottenute mediante l'esecuzione di pozzi di profondita' fino a 400 metri per ricerca, estrazione e utilizzazione di fluidi geotermici o acque calde, comprese quelle sgorganti da sorgenti per potenza termica complessiva non superiore a 2.000 kW termici, anche per eventuale produzione di energia elettrica con impianti a ciclo binario ad emissione nulla.
 
 Sono altresi' piccole utilizzazioni locali di calore geotermico quelle effettuate tramite l'installazione di sonde geotermiche che scambiano calore con il sottosuolo senza effettuare il prelievo e la reimmissione nel sottosuolo di acque calde o fluidi geotermici.
 
@@ -217,6 +324,52 @@ Nel caso in cui il rinvenimento di idrocarburi dia luogo al rilascio di nuovo ti
 
 ## Art. 14. — Decadenza
 
+1.
+                        
+                            
+                                Il titolare decade dal titolo minerario quando: 
+ 
+                            
+                            
+                                a)
+                                
+                                    non inizia i lavori nei termini prescritti; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    non rispetta, nei tempi e nei modi previsti dal titolo minerario, i programmi di lavoro ed il progetto geotermico di cui all'articolo 4, comma 1, e all'articolo 7, comma 1; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    non corrisponde nei termini il canone dovuto; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    cede quote del titolo senza l'autorizzazione dell'autorita' competente; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    non ottempera agli obblighi previsti dal titolo a pena di decadenza; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    non adempie agli obblighi derivanti dal presente provvedimento o dal regolamento d'attuazione.
+
 La decadenza e' pronunciata dall'autorita' competente, previa contestazione dei motivi e fissazione del termine di trenta giorni per la presentazione delle controdeduzioni.
 
 ## Art. 15. — Dichiarazione di pubblica utilita'
@@ -238,6 +391,24 @@ Il titolare della concessione di coltivazione deve corrispondere all'autorita' c
 
 Il soggetto abilitato alla ricerca e alla coltivazione di risorse geotermiche a media e bassa entalpia deve corrispondere alla Regione un canone annuo, determinato dalla medesima di importo non superiore a quello di cui ai commi 1 e 2.
 
+4.
+                        
+                            
+                                In caso di produzione di energia elettrica a mezzo di impianti che utilizzano o utilizzeranno risorse geotermiche sono altresi' dovuti dai concessionari i seguenti contributi: 
+ 
+                            
+                            
+                                a)
+                                
+                                    0.13 centesimi euro per ogni kWh di energia elettrica prodotta nel campo geotermico, ancorche' prodotta da impianti gia' in funzione alla data di entrata in vigore del presente decreto legislativo, ai Comuni in cui e' compreso il campo geotermico coltivato, proporzionalmente all'area delimitata dal titolo o dall'insieme dei titoli di coltivazione, assicurando comunque ai Comuni, sede di impianti, una quota non inferiore al 60 per cento; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    0.195 centesimi euro per ogni kWh di energia elettrica prodotta nel campo geotermico, ancorche' prodotta da impianti in funzione dal 31 dicembre 1980, alle Regioni nel cui territorio sono compresi i campi geotermici coltivati, proporzionalmente all'area delimitata dal titolo o dall'insieme dei titoli di coltivazione.
+
 Non sono dovuti i contributi di cui al comma 4 in caso di produzione di energia elettrica a mezzo di impianti con potenza inferiore a 3 MW.
 
 Limitatamente alla sperimentazione di impianti pilota a ridotto impatto ambientale, di cui all'articolo 1, comma 3-bis, non sono dovuti i contributi di cui al precedente comma 4 per la produzione di energia elettrica sino a 5 MW per ciascun impianto.
@@ -258,11 +429,131 @@ Ai comuni sede d'impianto di produzione di energia elettrica e' inoltre dovuto d
 
 ## Art. 16-bis. — (Piano pluriennale per la promozione degli investimenti)
 
+1.
+                        
+                            
+                                Ai fini del rafforzamento dell'autonomia energetica nazionale e del conseguimento degli obiettivi di decarbonizzazione, l'autorita' competente puo' chiedere al concessionario uscente di presentare, entro un termine stabilito dall'autorita' medesima, comunque non successivo al 30 giugno 2024, un piano pluriennale di investimenti, avente a oggetto: 
+ 
+                            
+                            
+                                a)
+                                
+                                    interventi di manutenzione e di miglioramento tecnologico degli impianti in esercizio, anche volti alla riduzione delle emissioni; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    interventi minerari per recuperare il declino naturale del campo geotermico; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    interventi per la sostenibilita' ambientale, comprensivi di misure volte alla tutela e al ripristino ambientale dei territori interessati dalla concessione di coltivazione; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    interventi per la realizzazione di nuovi impianti di produzione e le attivita' minerarie a essi connesse ovvero per il potenziamento degli impianti esistenti; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    misure per l'innalzamento dei livelli occupazionali nei territori interessati dalla concessione di coltivazione.
+
 L'autorita' competente procede alla valutazione del piano di investimenti di cui al comma 1 tenuto conto della funzionalita' dello stesso in rapporto alle finalita' di cui al medesimo comma 1 e della sua fattibilita' tecnica ed economica. Entro trenta giorni dalla data di presentazione del piano di cui al comma 1, l'autorita' competente ha la facolta' di richiedere al concessionario interessato modifiche o integrazioni del piano medesimo. In caso di valutazione positiva, da esprimersi entro trenta giorni dalla data di presentazione del piano di cui al comma 1 ovvero entro quindici giorni dalla data di presentazione del piano modificato o integrato ai sensi del secondo periodo del presente comma, l'autorita' competente rimodula le condizioni di esercizio della concessione di coltivazione relativa agli impianti interessati dal piano stesso, anche sotto il profilo della durata, comunque non superiore a venti anni, secondo quanto previsto nel piano valutato positivamente.
 
 Qualora il concessionario uscente non presenti il piano ai sensi del comma 1 o l'autorita' competente non lo valuti positivamente ai sensi del comma 2, l'autorita' medesima procede alla riassegnazione della concessione di coltivazione ai sensi dell'articolo 9. In ogni caso non spetta alcun compenso o ((rimborso di spese)) per le attivita' connesse alla predisposizione della proposta. L'autorita' competente, qualora accerti, in sede di monitoraggio, da svolgersi secondo le modalita' disciplinate dall'autorita' medesima, l'inadempimento del concessionario in ordine alla realizzazione degli interventi e delle misure del piano, anche sotto il profilo ((dei relativi tempi)), avvia, entro centottanta giorni dall'accertamento stesso, le procedure per la riassegnazione della concessione di coltivazione ai sensi dell'articolo 9, commi 1, 3 e 4.
 
 ## Art. 17. — Iniziative pro-concorrenziali
+
+1.
+                        
+                            
+                                Per il Mare il Ministero dello sviluppo economico, di concerto con il Ministero dell'ambiente e della tutela del territorio e del mare e per la terraferma le regioni, nell'ambito della propria competenza, possono emanare uno o piu' disciplinari tipo per le attivita' previste dal presente decreto legislativo, in particolare relativamente a: 
+ 
+                            
+                            
+                                a)
+                                
+                                    i criteri e le modalita' di valutazione dei requisiti tecnici ed economici che devono possedere i richiedenti i permessi di ricerca e le concessioni di coltivazione d'interesse nazionale e locale; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    i contenuti dei programmi di lavoro in relazione all'entita' delle risorse geotermiche disponibili ed all'estensione ed alla conformazione dei territori interessati; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    i criteri per il rilascio delle proroghe dei permessi di ricerca e per i casi di riduzione o restituzione delle aree; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    i criteri per la valutazione delle compensazioni per i trasferimenti della titolarita' del ramo d'azienda relativo all'esercizio della concessione; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    i criteri per lo sfruttamento congiunto di risorse geotermiche e di sostanze associate rinvenute; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    le procedure specifiche per il rilascio dei titoli minerari e la disciplina dei rapporti di contitolarita'; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    le modalita' per la revoca delle concessioni di coltivazione in caso di ampliamento del campo geotermico; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    le prescrizioni specifiche relative al reinserimento dei fluidi; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    i limiti e le prescrizioni per il rilascio di concessioni di risorse geotermiche di interesse locale su aree gia' oggetto di concessioni di coltivazione di risorse geotermiche di interesse nazionale; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    i limiti e le prescrizioni per l'esercizio delle operazioni di sfruttamento di piccole utilizzazioni locali su aree gia' oggetto di titoli per la coltivazione di risorse geotermiche di interesse nazionale o locale e o in aree considerate inidonee allo sfruttamento geotermico; 
+
+                                
+                            
+                            
+                                m)
+                                
+                                    i limiti e le prescrizioni per l'esercizio delle operazioni di sfruttamento di piccole utilizzazioni locali sottoposte sola dichiarazione di inizio attivita'.
 
 Il Ministero dello sviluppo economico, di concerto con il Ministero dell'ambiente e della tutela del territorio e del mare emana i disciplinari di cui al comma 1 sentita la CIRM.
 

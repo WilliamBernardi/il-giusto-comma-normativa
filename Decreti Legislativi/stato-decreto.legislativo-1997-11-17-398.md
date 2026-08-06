@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
 vigenza_date: 2026-04-21
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:33Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -253,6 +253,52 @@ Il decreto di cui all'articolo 17, comma 114, della legge 15 maggio 1997, n. 127
 
 
 ## Art. 18. — Abrogazioni
+
+1.
+                        
+                            
+                                Sono abrogate le norme incompatibili con il presente decreto legislativo ed in particolare:
+ 
+                            
+                            
+                                a)
+                                
+                                    l'articolo 1 della legge 17 novembre 1978, n. 746;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la legge 4 febbraio 1985, n. 11;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    l'articolo 1, comma 3, della legge 3 febbraio 1989, n. 32;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    gli articoli 1 e 2 del regio decreto 15 ottobre 1925, n. 1860;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    l'articolo 12, comma secondo, del regio decreto 15 ottobre 1925, n. 1860, come sostituito, da ultimo, dall'articolo 1 del decreto del Presidente della Repubblica 31 maggio 1965, n. 617;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    l'articolo 4, primo comma, del regio decreto 15 ottobre 1925, n. 1860.
 
 ## Art. 19. — ((ARTICOLO ABROGATO DALLA L. 13 FEBBRAIO 2001, N. 48))
 

@@ -8,8 +8,8 @@ codice_redazionale: 093G0316
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:41Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -34,6 +34,59 @@ IL MINISTRO DELLA SANITA'
 Udito il parere del Consiglio di Stato espresso nell'adunanza generale del 23 luglio 1992;
 
 ## Art. 1. — Definizioni
+
+1.
+                    
+                        
+                            Nel presente regolamento:
+ 
+                        
+                        
+                            a)
+                            
+                                per "legge", si intende la legge 13 febbraio 1990, n. 26;
+
+                            
+                        
+                        
+                            b)
+                            
+                                per "organismo abilitato" si intende il consorzio volontario di produttori ubicati nella zona delimitata ai sensi dell'art. 2, comma 1, della legge, di cui i Ministeri dell'industria, del commercio e dell'artigianato, dell'agricoltura e delle foreste e della sanita', possono avvalersi per lo svolgimento della vigilanza e dei controlli per l'applicazione delle disposizioni contenute nella legge e nel presente regolamento;
+
+                            
+                        
+                        
+                            c)
+                            
+                                per "produzione tutelata" si intende il prosciutto di Parma recante il contrassegno di cui all'art. 1 della legge; per "circuito della produzione tutelata" si intende tutto il sistema produttivo regolato dalla legge e dal presente regolamento;
+
+                            
+                        
+                        
+                            d)
+                            
+                                per "prescrizioni produttive" si intendono le disposizioni em- anate dall'organismo abilitato ai sensi dell'art. 4, comma 1, della legge; per "direttive" si intendono tutte le disposizioni applicative emanate dall'organismo abilitato e notificate ai Ministeri di cui alla lettera b);
+
+                            
+                        
+                        
+                            e)
+                            
+                                per "produttore di prosciutto di Parma", ai fini dell'art. 23, comma 1, lettera g), della legge, si intende il produttore che abbia destinato alla produzione di origine tutelata una quantita' di cosce suine fresche espressa in chilogrammi pari almeno al 75% (settantacinque per cento), su base annua, della produzione complessiva di prosciutto crudo effettuata presso i propri stabilimenti ubicati nella zona di cui all'art. 2, comma 1, della legge;
+
+                            
+                        
+                        
+                            f)
+                            
+                                per "refrigerazione" si intende che le cosce suine devono essere conservate nelle fasi di deposito e trasporto ad una temperatura interna tra - 1 C e + 4 C;
+
+                            
+                        
+                        
+                            g)
+                            
+                                per "prosciuttificio" si intende lo stabilimento di produzione riconosciuto nelle forme previste dall'art. 12.
 
 ## Art. 2. — Prescrizioni produttive
 
@@ -69,6 +122,24 @@ Il veterinario ufficiale competente per territorio mette a disposizione dell'org
 
 L'organismo abilitato, per lo svolgimento dei propri compiti di vigilanza e controllo, puo' avvalersi dell'opera di organismi professionali competenti, individuati su conforme parere della commissione di cui all'art. 31, i quali destinano a tale scopo proprio personale qualificato.
 
+2.
+                    
+                        
+                            I controlli, in particolare, riguardano:
+ 
+                        
+                        
+                            a)
+                            
+                                l'osservanza delle prescrizioni produttive;
+
+                            
+                        
+                        
+                            b)
+                            
+                                la regolare apposizione del timbro indelebile di cui all'art. 4.
+
 ## Art. 7. — Adempimenti dei macellatori
 
 I macelli che intendono fornire le cosce fresche destinate alla produzione del prosciutto di Parma devono inoltrare all'organismo abilitato domanda per ottenere un apposito riconoscimento.
@@ -101,19 +172,140 @@ I laboratori di sezionamento sono altresi' tenuti alla trasmissione dei document
 
 ## Art. 11. — Riconoscimento dell'impresa produttrice
 
+1.
+                    
+                        
+                            Le aziende che intendono produrre il prosciutto di Parma devono essere riconosciute dall'organismo abilitato e, a tal fine, presentano domanda dalla quale risultino:
+ 
+                        
+                        
+                            a)
+                            
+                                l'iscrizione alla Camera di commercio, industria, agricoltura e artigianato di Parma;
+
+                            
+                        
+                        
+                            b)
+                            
+                                la denominazione e la sede della ditta;
+
+                            
+                        
+                        
+                            c)
+                            
+                                la sede dello stabilimento, nonche' la relativa capacita' produttiva, con gli estremi della autorizzazione sanitaria in conformita' alle norme vigenti in materia.
+
 L'organismo abilitato, all'atto del riconoscimento, provvede alla attribuzione di un numero di identificazione del produttore; tale numero figura sul contrassegno di cui all'art. 1 della legge.
 
 Sono a carico delle aziende interessate tutte le spese derivanti dagli adempimenti previsti dal presente articolo e le spese per le perizie a tal fine richieste dall'organismo abilitato o dall'interessato.
 
 ## Art. 12. — Idoneita' degli stabilimenti
 
+1.
+                    
+                        
+                            Per essere considerato idonei alla produzione del prosciutto di Parma, gli stabilimenti devono essere in possesso delle autorizzazioni igienico-sanitarie prescritte dalle norme vigenti e devono essere muniti di:
+ 
+                        
+                        
+                            a)
+                            
+                                locale per il ricevimento ed il primo trattamento delle cosce suine;
+
+                            
+                        
+                        
+                            b)
+                            
+                                celle dotate di apparecchiature o sistemi idonei a mantenere l'umidita' e la temperatura ai livelli prescritti nelle norme vigenti per le fasi di salagione e riposo;
+
+                            
+                        
+                        
+                            c)
+                            
+                                altri locali indipendenti per le operazioni di stagionatura.
+
 ## Art. 13. — Registro del produttore
 
 Il produttore deve tenere per ogni singolo stabilimento un apposito registro, suddiviso in fogli mensili; le registrazioni devono essere effettuate nella parte mensile del registro corrispondente al mese ed all'anno indicati nel sigillo.
 
+2.
+                    
+                        
+                            Il registro deve indicare:
+ 
+                        
+                        
+                            a)
+                            
+                                il numero d'ordine progressivo e la data di ogni singola registrazione;
+
+                            
+                        
+                        
+                            b)
+                            
+                                il numero delle cosce con l'indicazione della data di apposizione del sigillo e del macello di provenienza;
+
+                            
+                        
+                        
+                            c)
+                            
+                                il numero delle cosce con sigillo pervenute da altro stabilimento;
+
+                            
+                        
+                        
+                            d)
+                            
+                                il numero delle cosce con sigillo inviate ad altro stabilimento;
+
+                            
+                        
+                        
+                            e)
+                            
+                                il numero delle cosce dalle quali viene asportato il sigillo;
+
+                            
+                        
+                        
+                            f)
+                            
+                                il numero dei prosciutti muniti di contrassegno, con l'indicazione del numero progressivo del verbale e della data delle relative operazioni;
+
 Nel registro sono inoltre annotati, in apposita sezione, le decisioni, le osservazioni ed i provvedimenti degli incaricati dell'organismo abilitato, relativi ad errori o ad irregolarita' riscontrati.
 
 ## Art. 14. — Controlli presso gli stabilimenti
+
+1.
+                    
+                        
+                            Per ogni operazione di introduzione di cosce fresche destinate alla preparazione del prosciutto di Parma presso uno stabilimento riconosciuto, un incaricato dell'organismo abilitato verifica la documentazione sanitaria di accompagnamento nonche' quella di cui all'art. 8, comma 4, ed accerta:
+ 
+                        
+                        
+                            a)
+                            
+                                gli allevamenti ed il macello di provenienza, l'eventuale laboratorio di sezionamento e la data di spedizione allo stabilimento di lavorazione;
+
+                            
+                        
+                        
+                            b)
+                            
+                                il numero delle cosce fresche munite dei tibri di cui agli articoli 4 e 8;
+
+                            
+                        
+                        
+                            c)
+                            
+                                l'assenza di trattamenti diversi dalla refrigerazione.
 
 ## Art. 15. — S i g i l l o
 
@@ -123,11 +315,75 @@ L'apposizione del sigillo e' effettuata a cura del produttore, comunque prima de
 
 Il sigillo riporta l'indicazione del mese e dell'anno di inizio della lavorazione; tale data equivale alla data di produzione ai sensi delle leggi vigenti in materia di vigilanza sanitaria sulle carni.
 
+4.
+                    
+                        
+                            L'incaricato dell'organismo abilitato vieta l'apposizione del sigillo:
+ 
+                        
+                        
+                            a)
+                            
+                                sulle cosce ritenute non idonee alla produzione tutelata;
+
+                            
+                        
+                        
+                            b)
+                            
+                                sulle cosce non accompagnate dalla prescritta documentazione o prive dei timbri di cui agli articoli 4 e 8;
+
+                            
+                        
+                        
+                            c)
+                            
+                                sulle cosce che risultino ricavate da suini macellati da meno di 24 ore o da oltre 120 ore.
+
 Qualora circostanze pregiudizievoli vengano accertate successivamente, il sigillo eventualmente gia' apposto e' rimosso a cura degli incaricati dell'organismo abilitato, che redigono apposito verbale.
 
 Il produttore puo' far inserire a verbale sue eventuali ragioni di dissenso in merito all'operato degli incaricati dell'organismo abilitato e chiedere, entro il termine di tre giorni, un nuovo esame tecnico, con l'intervento della stazione sperimentale per l'industria delle conserve alimentari di Parma, con facolta' di nominare un proprio consulente.
 
 ## Art. 16. — Verbalizzazione delle operazioni
+
+1.
+                    
+                        
+                            Al termine delle operazioni di cui agli articoli 14 e 15, viene redatto per ogni partita avviata alla produzione tutelata apposito verbale contenente le seguenti indicazioni:
+ 
+                        
+                        
+                            a)
+                            
+                                gli estremi del documento sanitario di accompagnamento;
+
+                            
+                        
+                        
+                            b)
+                            
+                                la data della salagione;
+
+                            
+                        
+                        
+                            c)
+                            
+                                il numero ed il peso complessivo delle cosce fresche sulle quali e' stato apposto il sigillo;
+
+                            
+                        
+                        
+                            d)
+                            
+                                il numero ed il peso complessivo delle cosce ritenute inidonee od oggetto di contestazione;
+
+                            
+                        
+                        
+                            e)
+                            
+                                il numero ed il peso complessivo delle cosce sulle quali non e' stato apposto il sigillo trattenute presso lo stabilimento, ovvero da rendere al macello conferitore, avvero da avviare ad altro stabilimento.
 
 L'operazione di apposizione del sigillo deve risultare distintamente per ciascuna partita nell'apposito registro.
 
@@ -179,6 +435,38 @@ Il veterinario ufficiale incaricato della vigilanza sanitaria mette a disposizio
 
 ## Art. 20. — Apposizione del contrassegno
 
+1.
+                    
+                        
+                            Gli incaricati dell'organismo abilitato presenziano all'apposizione del contrassegno, accertando preliminarmente la sussistenza dei seguenti requisiti:
+ 
+                        
+                        
+                            a)
+                            
+                                compimento del periodo minimo di stagionatura prescritto, previo esame dei registri, della documentazione e del sigillo e computando nel periodo stesso il mese nel quale e' stato apposito il sigillo;
+
+                            
+                        
+                        
+                            b)
+                            
+                                conformita' delle modalita' di lavorazione;
+
+                            
+                        
+                        
+                            c)
+                            
+                                esistenza delle caratteristiche merceologiche prescritte dalla legge;
+
+                            
+                        
+                        
+                            d)
+                            
+                                rispetto della osservanza dei parametri analitici di cui all'art. 3 della legge.
+
 Gli incaricati procedono preliminarmente alla spillatura di un numero di prosciutti sufficiente per ricavarne un giudizio probante di qualita'; se necessario, possono effettuare l'ispezione del prodotto, mediante apertura di prosciutti fino ad un massimo di 5 per mille o frazione di mille, che restano a carico del produttore.
 
 Le caratteristiche organolettiche sono valutate nel loro insieme, potendosi operare una compensazione solo per lievissime deficienze.
@@ -196,6 +484,52 @@ L'organismo abilitato propone al Ministro dell'industria, del commercio e dell'a
 La proposta di cui al comma 1 deve essere corredata di idonea relazione tecnica concernente la definizione dei parametri analitici e delle relative soglie minime e massime.
 
 ## Art. 22. — Verbalizzazione apposizione contrassegno
+
+1.
+                    
+                        
+                            L'incarico dell'organismo abilitato compila, per ogni operazione di apposizione del contrassegno, apposito verbale da cui risultino:
+ 
+                        
+                        
+                            a)
+                            
+                                il numero dei prosciutti presentati per l'apposizione del contrassegno;
+
+                            
+                        
+                        
+                            b)
+                            
+                                la data dell'inizio della lavorazione;
+
+                            
+                        
+                        
+                            c)
+                            
+                                i riferimenti per l'individuazione del prodotto, riportati nell'apposito registro;
+
+                            
+                        
+                        
+                            d)
+                            
+                                il numero complessivo dei prosciutti sui quali e' apposto il contrassegno e la data delle relative operazioni;
+
+                            
+                        
+                        
+                            e)
+                            
+                                il numero dei prosciutti ritenuti inidonei alla produzione tutelata;
+
+                            
+                        
+                        
+                            f)
+                            
+                                il numero dei prosciutti eventualmente oggetto di contestazione.
 
 I prosciutti oggetto di contestazione sono custoditi, con le cautele necessarie e con l'apposizione di eventuali segni di identificazione, per impedire la loro sostituzione e comunque la loro manomissione, a cura dell'organismo abilitato che li affida in custodia al produttore.
 
@@ -221,11 +555,93 @@ Le operazioni di riduzione in tranci del "prosciutto di Parma" devono essere eff
 
 Le operazioni di affettamento e confezionamento del "prosciutto di Parma" sono effettuate presso laboratori situati nella zona tipica, di cui all'art. 2, comma 1, della legge, attrezzati in modo specifico e preventivamente riconosciuti dall'organismo abilitato.
 
+2.
+                    
+                        
+                            Gli interessati devono presentare istanza all'organismo abilitato, indicando:
+ 
+                        
+                        
+                            a)
+                            
+                                l'iscrizione alla Camera di commercio, industria, artigianato e agricoltura di Parma;
+
+                            
+                        
+                        
+                            b)
+                            
+                                la ragione sociale e la sede della ditta;
+
+                            
+                        
+                        
+                            c)
+                            
+                                la sede del laboratorio di confezionamento;
+
+                            
+                        
+                        
+                            d)
+                            
+                                gli estremi dell'autorizzazione sanitaria.
+
 L'organismo abilitato, espletati gli accertamenti ritenuti necessari, provvede al riconoscimento del laboratorio ed alla attribuzione di uno specifico numero di identificazione.
 
 Qualora il laboratorio sia ricompreso nell'ambito di uno stabilimento di produzione gia' riconosciuto, il numero di identificazione puo' coincidere con quello attribuito ai sensi dell'art. 11, comma 2.
 
 ## Art. 26. — Contrassegno prosciutto affettato
+
+1.
+                    
+                        
+                            Gli incaricati dell'organismo abilitato presenziano alle operazioni di affettamento e confezionamento del prosciutto di Parma ed accertano:
+ 
+                        
+                        
+                            a)
+                            
+                                i riferimenti necessari alla individuazione dei prosciutti oggetto di confezionamento, desunti dal registro o, se il laboratorio di confezionamento non e' annesso ad uno stabilimento riconosciuto, da un documento di trasporto rilasciato dal produttore, su cui saranno richiamati i riferimenti in questione;
+
+                            
+                        
+                        
+                            b)
+                            
+                                il numero ed il peso dei prosciutti provvisti del contrassegno, del quale gli incaricati prescrivono la asportazione per l'affettamento;
+
+                            
+                        
+                        
+                            c)
+                            
+                                il numero ed il peso complessivo dei prosciutti ritenuti inidonei.
+
+2.
+                    
+                        
+                            Gli incaricati dell'organismo abilitato accertano l'avvenuta asportazione del contrassegno e verificano altresi':
+ 
+                        
+                        
+                            a)
+                            
+                                il numero ed il peso complessivo dei prosciutti cui e' stato asportato il contrassegno;
+
+                            
+                        
+                        
+                            b)
+                            
+                                l'avvenuto affettamento e il peso complessivo netto del prosciutto affettato per il confezionamento;
+
+                            
+                        
+                        
+                            c)
+                            
+                                il numero delle confezioni sulle quali viene applicato il contrassegno.
 
 Per i prosciutti e le confezioni oggetto di contestazione si osservano le procedure di cui all'art. 22.
 
@@ -239,7 +655,89 @@ Il fornitore delle confezioni e' abilitato a fornire le stesse con l'osservanza 
 
 ## Art. 28. — Registro del confezionatore
 
+1.
+                    
+                        
+                            Il laboratorio di confezionamento riconosciuto deve tenere un apposito registro nel quale, per ogni singola operazione, devono essere distintamente indicati:
+ 
+                        
+                        
+                            a)
+                            
+                                il numero d'ordine progressivo e la data della registrazione;
+
+                            
+                        
+                        
+                            b)
+                            
+                                il numero dell'operazione di scarico rilevabile dal registro di cui all'art. 13 o, nel caso di laboratorio autorizzato non annesso ad uno stabilimento riconosciuto, gli estremi del documento di trasporto ricevuto;
+
+                            
+                        
+                        
+                            c)
+                            
+                                il numero ed il peso complessivo dei prosciutti provvisti del contrassegno;
+
+                            
+                        
+                        
+                            d)
+                            
+                                il numero ed il peso complessivo dei prosciutti ritenuti inidonei;
+
+                            
+                        
+                        
+                            e)
+                            
+                                il numero ed il peso complessivo dei prosciutti dai quali e' stato asportato il contrassegno per il successivo confezionamento;
+
+                            
+                        
+                        
+                            f)
+                            
+                                il peso complessivo netto del prosciutto affettato;
+
+                            
+                        
+                        
+                            g)
+                            
+                                il numero delle confezioni prodotte e la data di confezionamento.
+
 ## Art. 29. — Etichettatura
+
+1.
+                    
+                        
+                            Le indicazioni obbligatorie da riportare nella etichettatura del prosciutto di Parma, con le modalita' previste dal decreto legislativo 27 gennaio 1992, n. 109, sono le seguenti:
+ 
+                        
+                        
+                            a)
+                            
+                                per il prosciutto di Parma intero con osso:
+ 1) "prosciutto di Parma" seguita da "denominazione di origine tutelata";
+ 2) il nome o la ragione sociale o il marchio depositato e la sede del produttore o del venditore;
+ 3) la sede dello stabilimento di produzione;
+
+                            
+                        
+                        
+                            b)
+                            
+                                per il prosciutto di Parma confezionato, intero, disossato oppure presentato in tranci od affettato:
+ 1) "prosciutto di Parma" seguita da "denominazione di origine tutelata";
+ 2) il nome o la ragione sociale o il marchio depositato del produttore o del confezionatore o del venditore;
+ 3) la sede dello stabilimento di confezionamento;
+ 4) la data di produzione, qualora il sigillo non risulti piu' visibile per i fini di cui all'art. 15, comma 3;
+ 5) la quantita' netta;
+ 6) il termine minimo di conservazione;
+ 7) le modalita' di conservazione;
+ 8) la dicitura di identificazione del lotto.
 
 E' vietata l'utilizzazione di qualificativi quali, "classico", "autentico", "extra", "super", e di altre qualificazioni, menzioni ed attribuzioni abbinate alla denominazione di vendita, ad esclusione di "disossato" ed "affettato" nonche' di altre indicazioni non specificamente previste dal presente articolo, fatte salve le esigenze di adeguamento ad altre prescrizioni di legge.
 
@@ -276,6 +774,31 @@ Il consorzio deve inoltre disporre di una commissione interprofessionale, costit
 Salvo quanto previsto al comma 4, alla composizione degli organi consortili di cui al comma 3 possono partecipare soltanto i produttori di cui all'art. 1, comma 1, lettera e), del presente regolamento.
 
 ## Art. 32. — Richiesta dell'incarico di vigilanza
+
+1.
+                    
+                        
+                            La richiesta dell'incarico di vigilanza deve essere avanzata dal legale rappresentante del consorzio volontario al Ministro dell'industria, del commercio e dell'artigianato, corredata dai seguenti documenti:
+ 
+                        
+                        
+                            a)
+                            
+                                elenco degli associati, unito ad una dichiarazione del legale rappresentante attestante la sussistenza dei requisiti di cui all'art. 11 della legge;
+
+                            
+                        
+                        
+                            b)
+                            
+                                copia autentica dell'atto costitutivo e dello statuto del consorzio;
+
+                            
+                        
+                        
+                            c)
+                            
+                                relazione sull'organizzazione tecnica ed amministrativa del consorzio e sui mezzi finanziari di cui puo' disporre per l'espletamento dei compiti di vigilanza.
 
 La domanda ed i documenti sopra indicati devono essere inviati in triplice copia.
 

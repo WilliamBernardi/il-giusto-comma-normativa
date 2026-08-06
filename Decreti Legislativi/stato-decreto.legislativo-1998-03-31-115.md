@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
 vigenza_date: 2012-08-07
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:23Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -31,6 +31,32 @@ Sentita la commissione parlamentare prevista dall'articolo 5 della legge 15 marz
 Sulla proposta del Presidente del Consiglio dei Ministri e del Ministro della sanita', di concerto con il Ministro per la funzione pubblica e gli affari regionali;
 
 ## Art. 1. — Compiti e attribuzioni
+
+1.
+                    
+                        
+                            Sino all'adozione di eventuali ulteriori decreti legislativi ai sensi dell'articolo 1 della legge 15 marzo 1997, n. 59, e sino alla ristrutturazione prevista dal capo II della medesima legge, all'Agenzia per i servizi sanitari regionali istituita dall'articolo 5 del decreto legislativo 30 giugno 1993, n. 266, spettano, oltre ai compiti previsti dalla normativa vigente, anche le seguenti funzioni:
+
+                        
+                        
+                            a)
+                            
+                                esprimere al Ministro della sanita' parere obbligatorio sui
+provvedimenti da sottoporre al Consiglio dei Ministri in base alle norme attuative dell'articolo 1, comma 1, lettera u), della legge 23 ottobre 1992, n. 421; il parere e' reso entro venti giorni dalla comunicazione dello schema di provvedimento;
+
+                            
+                        
+                        
+                            b)
+                            
+                                esprimere parere obbligatorio su segnalazioni provenienti dalle regioni in materia di adozione, da parte dello Stato, di provvedimenti attuativi del decreto legislativo 30 dicembre 1992, n. 502, e successive modificazioni, per consentire l'assunzione di idonee iniziative da parte dei Ministri competenti;
+
+                            
+                        
+                        
+                            c)
+                            
+                                assicurare il costante monitoraggio delle modalita' di accreditamento delle strutture pubbliche e private che erogano prestazioni sanitarie e dei conseguenti oneri per il Servizio sanitario nazionale, nonche' dell'attuazione dei protocolli di intesa tra universita' e regioni previsti dall'articolo 6 del decreto legislativo 30 dicembre 1992, n. 502, e successive modificazioni.
 
 Il Ministero della sanita', le regioni e le province autonome, le aziende sanitarie locali e le aziende ospedaliere forniscono all'Agenzia, anche su richiesta, documenti e informazioni in loro possesso per l'esercizio delle funzioni della medesima Agenzia.
 

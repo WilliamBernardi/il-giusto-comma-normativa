@@ -8,8 +8,8 @@ vigente: true
 source: normattiva-opendata
 collection: DPR
 vigenza_date: 2026-01-11
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:47:47Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -28,6 +28,31 @@ Acquisito il parere dell'Istituto per la vigilanza sulle assicurazioni in data 1
 Sulla proposta del Ministro delle imprese e del made in Italy, di concerto con il Ministro della giustizia;
 
 ## Art. 1. — Adozione della tabella unica nazionale
+
+1.
+                    
+                        
+                            Ai fini del risarcimento del danno non patrimoniale per lesioni di non lieve entita' conseguenti alla circolazione dei veicoli a motore e dei natanti, nonche' conseguenti all'attivita' dell'esercente la professione sanitaria e della struttura sanitaria o sociosanitaria, pubblica o privata, sono adottate: 
+ 
+                        
+                        
+                            a)
+                            
+                                le tavole contenenti i coefficienti moltiplicatori e demoltiplicatori del punto per il calcolo del danno biologico e del danno morale, di cui all'allegato I; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                la tabella unica nazionale del valore pecuniario da attribuire a ogni singolo punto di invalidita', comprensivo dei coefficienti di variazione corrispondenti all'eta' del soggetto leso, ai sensi dell'articolo 138, commi 1, lettera b), e 2, lettere a), b),
+                            
+                        
+                        
+                            c)
+                            
+                                e d), del decreto legislativo 7 settembre 2005, n. 209,- tabella del danno biologico, di cui all'allegato II, tabella 1; 
+ c) la tabella unica nazionale del valore pecuniario da attribuire a ogni singolo punto di invalidita', comprensivo dei coefficienti di variazione corrispondenti all'eta' del soggetto leso, incrementato del danno morale nei valori minimo, medio e massimo, ai sensi dell'articolo 138, comma 2, lettera e), del decreto legislativo n. 209 del 2005 - tabella del danno biologico comprensiva del danno morale, di cui all'allegato II, tabella
 
 2. All'aggiornamento e alla modifica della tavola 1.B., riportata nell'allegato I, derivanti da aggiornamenti e modifiche alle tavole di mortalita' elaborate dall'Istituto nazionale di statistica (ISTAT) e al tasso di rivalutazione pari all'interesse legale, si provvede con decreto del Ministro delle imprese e del made in Italy, sentito l'Istituto per la vigilanza sulle assicurazioni (IVASS).
 

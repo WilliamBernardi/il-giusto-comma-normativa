@@ -8,8 +8,8 @@ codice_redazionale: 009G0133
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:40Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -30,6 +30,38 @@ E DELLE FINANZE
 Udito il parere del Consiglio di Stato, espresso dalla sezione consultiva per gli atti normativi nell'adunanza del 17 febbraio 2009;
 
 ## Art. 1. — Definizioni
+
+1.
+                    
+                        
+                            Ai fini del presente regolamento si intende per:
+ 
+                        
+                        
+                            a)
+                            
+                                «Codice»: il codice delle assicurazioni private di cui al decreto legislativo 7 settembre 2005, n. 209;
+
+                            
+                        
+                        
+                            b)
+                            
+                                «ISVAP»: l'Istituto per la vigilanza sulle assicurazioni private e di interesse collettivo;
+
+                            
+                        
+                        
+                            c)
+                            
+                                «regolamento ISVAP»: il provvedimento ISVAP 15 marzo 2006, n. 1, pubblicato nella Gazzetta Ufficiale della Repubblica italiana n. 66 del 20 marzo 2006;
+
+                            
+                        
+                        
+                            d)
+                            
+                                «sanzioni»: le sanzioni amministrative pecuniarie previste dal Codice.
 
 ## Art. 2. — Riscossione coattiva delle sanzioni
 

@@ -7,8 +7,8 @@ urn: urn:nir:stato:decreto.del.presidente.della.repubblica:2018-02-05;22
 vigente: true
 source: normattiva-opendata
 collection: DPR
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:48:02Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -28,9 +28,73 @@ Sulla proposta del Presidente del Consiglio dei ministri e del Ministro per la c
 
 ## Art. 1. — Ambito di applicazione
 
+1.
+                    
+                        
+                            Ai sensi dell'articolo 65, paragrafo 1, del regolamento (UE) n. 1303/2013, il presente decreto definisce le norme sull'ammissibilita' delle spese per i programmi cofinanziati dai fondi strutturali e di investimento europei (Fondi SIE) per il periodo di programmazione 2014-2020, fatto salvo quanto previsto dallo stesso regolamento (UE) n. 1303/2013 e dai regolamenti di seguito elencati: 
+ 
+                        
+                        
+                            a)
+                            
+                                regolamento (UE) n. 1301/2013, il «Regolamento FESR»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                regolamento (UE) n. 1304/2013, il «Regolamento FSE»; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                regolamento (UE) n. 508/2014, il «Regolamento FEAMP»; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                regolamento (UE) n. 1299/2013, il «Regolamento CTE»; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                regolamento (UE) n. 1305/2013, il «Regolamento FEASR»; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                regolamenti delegati della Commissione (UE) n. 480/2014, (UE) n. 481/2014 e (UE) n. 1516/2015, nonche' regolamenti di esecuzione della Commissione.
+
 Le norme sull'ammissibilita' delle spese di cui al presente decreto si applicano anche ai programmi di azione e coesione complementari alla programmazione UE 2014-2020, di cui all'articolo 1, comma 242, della legge 27 dicembre 2013, n. 147, ed alla delibera Cipe n. 10 del 28 gennaio 2015.
 
 Le spese ammissibili, nel caso di aiuti di Stato ai sensi dell'articolo 107 del Trattato sul funzionamento dell'Unione europea (TFUE), sono quelle riconosciute dalla Commissione europea nella relativa decisione di autorizzazione dell'aiuto o, in caso di aiuti esentati dall'obbligo di notifica, quelle previste dai relativi regolamenti di esenzione, fatte salve eventuali disposizioni piu' restrittive previste dai regolamenti di cui al comma 1.
+
+4.
+                    
+                        
+                            Le norme in materia di ammissibilita' delle spese previste dal presente decreto si applicano anche alle spese relative ad operazioni finanziate nell'ambito dei programmi dell'Obiettivo cooperazione territoriale europea (FESR) sostenute sul territorio nazionale, qualora l'ammissibilita' della spesa non sia diversamente disciplinata dagli atti normativi e regolamentari di seguito elencati: 
+ 
+                        
+                        
+                            a)
+                            
+                                il regolamento delegato (UE) n. 481/2014 della Commissione, che integra il regolamento (UE) n. 1299/2013 del Parlamento europeo e del Consiglio per quanto concerne le norme specifiche in materia di ammissibilita' delle spese per i programmi di cooperazione; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                le regole supplementari definite dagli Stati membri nell'ambito del Comitato di sorveglianza di ciascun Programma di cooperazione territoriale europea.
 
 L'Autorita' di gestione, designata ai sensi degli articoli 123 e 124 del regolamento (UE) n. 1303/2013 e' un'autorita' pubblica o un organismo pubblico nazionale, regionale o locale, o un organismo privato.
 
@@ -39,6 +103,45 @@ Sono fatte salve condizioni piu' restrittive laddove previste nelle misure e azi
 ## Art. 2. — Principi generali
 
 I Fondi SIE sono utilizzati per fornire sostegno sotto forma di sovvenzioni, premi, assistenza rimborsabile e strumenti finanziari o una combinazione degli stessi.
+
+2.
+                    
+                        
+                            Affinche' una spesa possa essere ritenuta ammissibile, devono essere soddisfatti i requisiti di carattere generale di seguito elencati, fatto salvo quanto previsto al comma 4 per il FEAMP. La spesa deve essere: 
+ 
+                        
+                        
+                            a)
+                            
+                                pertinente ed imputabile ad un'operazione selezionata dall'Autorita' di gestione o sotto la sua responsabilita', conformemente alla normativa applicabile; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                effettivamente sostenuta dal beneficiario e comprovata da fatture quietanzate o giustificata da documenti contabili aventi valore probatorio equivalente o, in casi debitamente giustificati, da idonea documentazione comunque attestante la pertinenza all'operazione della spesa sostenuta, fatto salvo quanto previsto per le forme di sostegno di cui agli articoli 67, paragrafo 1, lettere b),
+                            
+                        
+                        
+                            c)
+                            
+                                e d), 68, 69, paragrafo 1, e 109, paragrafo 1, del regolamento (UE) n. 1303/2013, nonche' all'articolo 14 del regolamento (UE) n. 1304/2013; 
+ c) sostenuta nel periodo di ammissibilita' delle spese, come previsto dall'articolo 3; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                tracciabile ovvero verificabile attraverso una corretta e completa tenuta della documentazione al fine di assicurare, con riferimento alla spesa, l'esistenza di un'adeguata pista di controllo in conformita' con quanto previsto dall'articolo 25, paragrafo 1, in particolare, lettere b), c), d), e), f) e j), del regolamento (UE) n. 480/2014. I pagamenti in contanti sono ammissibili nel rispetto della normativa di riferimento, fatti salvi i limiti piu' restrittivi fissati dall'Autorita' di gestione e fermo restando il divieto di artificioso frazionamento; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                contabilizzata, in conformita' alle disposizioni di legge ed ai principi contabili e, se del caso, sulla base delle specifiche disposizioni dell'Autorita' di gestione.
 
 Le spese ammissibili nell'ambito di un'operazione di partenariato pubblico-privato (PPP) sono disciplinate dall'articolo 64 del regolamento (UE) n. 1303/2013.
 
@@ -93,7 +196,71 @@ Le modalita' di sostegno finanziario attraverso premi sono disciplinate dal rego
 
 ## Art. 8. — Spese connesse al credito d'imposta
 
+1.
+                    
+                        
+                            In caso di sostegno dei fondi SIE concesso sotto forma di credito d'imposta, l'importo corrispondente al credito d'imposta riconosciuto al beneficiario, e da questo effettivamente utilizzato mediante compensazione, costituisce spesa ammissibile alle seguenti condizioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                il credito di imposta e' previsto e disciplinato da specifiche norme nazionali; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                il credito d'imposta e' concesso per sostenere misure finalizzate al raggiungimento delle priorita' e degli obiettivi del programma operativo; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                la concessione del credito d'imposta avviene nel rispetto della normativa europea in materia di aiuti di Stato; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                sono attivate, nell'ambito del sistema di gestione e controllo del programma, verifiche di gestione idonee ad assicurare la tracciabilita' e la corretta rendicontazione all'Unione europea degli importi relativi al credito d'imposta riconosciuto ai beneficiari.
+
 ## Art. 9. — Spese connesse all'esonero contributivo
+
+1.
+                    
+                        
+                            In caso di sostegno dei fondi SIE concesso sotto forma di esonero contributivo, l'importo corrispondente all'esonero contributivo riconosciuto al beneficiario, e da questo effettivamente utilizzato mediante compensazione, costituisce spesa ammissibile alle seguenti condizioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                l'esonero contributivo e' previsto e disciplinato da specifiche norme nazionali; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                l'esonero contributivo e' concesso per sostenere politiche del lavoro rivolte al raggiungimento delle priorita' e degli obiettivi del programma operativo; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                la concessione dell'esonero avviene nel rispetto della normativa europea in materia di aiuti di Stato; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                sono attivate, nell'ambito del sistema di gestione e controllo del programma, verifiche di gestione idonee ad assicurare la tracciabilita' e la corretta rendicontazione all'Unione europea degli importi relativi all'esonero contributivo riconosciuto ai beneficiari.
 
 ## Art. 10. — Strumenti finanziari
 
@@ -114,6 +281,31 @@ Nell'ambito degli interventi di Fondo sociale europeo, sono ammissibili le spese
 ## Art. 13. — Spese non ammissibili
 
 Oltre alle disposizioni di cui all'articolo 69, paragrafo 3, lettera a), del regolamento (UE) n. 1303/2013, non sono ammissibili nel contesto dei Fondi SIE e fatte salve le previsioni dei regolamenti specifici di ciascun Fondo, i costi relativi a multe, penali, ammende, sanzioni pecuniarie, nonche' le spese relative ad operazioni escluse dall'ambito di applicazione, ai fini del sostegno, dai regolamenti specifici di ciascun Fondo.
+
+2.
+                    
+                        
+                            Non sono ammissibili nel contesto dei Fondi SIE i seguenti altri costi: 
+ 
+                        
+                        
+                            a)
+                            
+                                i deprezzamenti e le passivita'; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                gli interessi di mora; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                le commissioni per operazioni finanziarie, le perdite di cambio e gli altri oneri meramente finanziari.
 
 ## Art. 14. — Operazioni che generano entrate nette
 
@@ -146,19 +338,176 @@ Le spese per garanzie fornite da una banca, da una societa' di assicurazione o d
 
 ## Art. 16. — Acquisto di materiale usato
 
+1.
+                    
+                        
+                            L'acquisto di materiale usato e' spesa ammissibile se sono soddisfatte tutte le seguenti condizioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                il venditore rilascia una dichiarazione attestante la provenienza esatta del materiale e che lo stesso, nel corso degli ultimi sette anni, non ha beneficiato di un contributo nazionale o europeo; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                il prezzo del materiale usato non e' superiore al suo valore di mercato ed e' inferiore al costo di materiale simile nuovo; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                le caratteristiche tecniche del materiale usato acquisito sono adeguate alle esigenze dell'operazione e sono conformi alle norme e agli standard pertinenti.
+
 ## Art. 17. — Acquisto di terreni
 
+1.
+                    
+                        
+                            L'acquisto di terreni, salvo quanto previsto dai regolamenti specifici di ciascun fondo, rappresenta una spesa ammissibile, alle seguenti condizioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                la sussistenza di un nesso diretto fra l'acquisto del terreno e gli obiettivi dell'operazione; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                la percentuale rappresentata dall'acquisto del terreno non puo' superare il 10 per cento della spesa totale ammissibile dell'operazione considerata, con l'eccezione dei casi menzionati ai commi 2 e 3; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                la presentazione di una perizia giurata di parte, redatta da un valutatore qualificato secondo le disposizioni europee e nazionali vigenti, nonche' dei codici di condotta, indipendente o, debitamente autorizzato che attesti il valore di mercato del terreno, solo nei casi in cui non sia possibile averne conoscenza in modo diverso.
+
 Per i siti in stato di degrado e per quelli precedentemente adibiti ad uso industriale che comprendono edifici, il limite di cui al comma 1, lettera b), e' aumentato al 15 per cento.
+
+3.
+                    
+                        
+                            Nel caso di operazioni a tutela dell'ambiente, la spesa per l'acquisto di terreni puo' essere ammessa per una percentuale superiore a quella di cui al comma 1, lettera b), e al comma 2, quando sono rispettate tutte le seguenti condizioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                l'acquisto e' stato effettuato sulla base di giustificati motivi e di una decisione positiva da parte dell'Autorita' di gestione; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                il terreno e' destinato all'uso stabilito per un periodo determinato nella decisione di cui alla lettera a); 
+
+                            
+                        
+                        
+                            c)
+                            
+                                il terreno non ha una destinazione agricola salvo in casi debitamente giustificati decisi dall'Autorita' di gestione; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                l'acquisto e' effettuato da parte o per conto di un'istituzione pubblica o di un organismo di diritto pubblico.
 
 Nel caso di strumenti finanziari, l'acquisto di terreni e' ammissibile ai sensi e per le finalita' di cui all'articolo 37, paragrafo 10, del regolamento (UE) n. 1303/2013 e nei limiti di cui all'articolo 4 del regolamento delegato (UE) n. 480/2014.
 
 ## Art. 18. — Acquisto di edifici
+
+1.
+                    
+                        
+                            L'acquisto di edifici gia' costruiti, salvo quanto previsto dai regolamenti specifici di ciascun Fondo, costituisce una spesa ammissibile nei limiti dell'importo indicato nella lettera a), purche' sia direttamente connesso all'operazione in questione, alle seguenti condizioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                che sia presentata una perizia giurata di parte, redatta da un valutatore qualificato come indicato alla lettera c), comma 1, dell'articolo 17, che attesti il valore di mercato del bene e la conformita' dell'immobile alle disposizioni urbanistiche ed edilizie vigenti, nonche' alle disposizioni dettate a tutela del paesaggio e degli altri eventuali vincoli gravanti sull'area interessata; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                che le eventuali opere abusive siano marginali rispetto alle opere realizzate e siano esplicitati i punti non conformi quando l'operazione prevede la loro regolarizzazione da parte del beneficiario, al cui compimento rimane condizionata l'erogazione delle risorse; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                che l'immobile non abbia fruito, nel corso dei dieci anni precedenti, di un finanziamento pubblico, nazionale o europeo; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                che l'immobile sia utilizzato per la destinazione e per il periodo stabiliti dall'Autorita' di gestione; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                che l'edificio sia utilizzato conformemente alle finalita' dell'operazione.
 
 L'edificio puo' ospitare servizi dell'amministrazione pubblica solo quando tale uso e' conforme alle attivita' ammissibili dal Fondo SIE interessato.
 
 Nel caso di strumenti finanziari, l'acquisto di immobili e' ammissibile ai sensi e per le finalita' di cui all'articolo 37, paragrafo 10, del regolamento (UE) n. 1303/2013.
 
 ## Art. 19. — Locazione finanziaria
+
+1.
+                    
+                        
+                            Fatta salva l'ammissibilita' della spesa per locazione semplice o per noleggio, la spesa per la locazione finanziaria (leasing) e' ammissibile al cofinanziamento alle seguenti condizioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                nel caso in cui il beneficiario del cofinanziamento sia il concedente: 
+ 1) il cofinanziamento e' utilizzato al fine di ridurre l'importo dei canoni versati dall'utilizzatore del bene oggetto del contratto di locazione finanziaria; 
+ 2) i contratti di locazione finanziaria comportano una clausola di riacquisto oppure prevedono una durata minima pari alla vita utile del bene oggetto del contratto; 
+ 3) in caso di risoluzione del contratto prima della scadenza del periodo di durata minima, senza la previa approvazione delle autorita' competenti, il concedente si impegna a restituire alle autorita' nazionali interessate, mediante accredito al fondo appropriato, la parte della sovvenzione europea corrispondente al periodo residuo; 
+ 4) l'acquisto del bene da parte del concedente, comprovato da una fattura quietanzata o da un documento contabile avente forza probatoria equivalente, costituisce la spesa ammissibile al cofinanziamento; l'importo massimo ammissibile non puo' superare il valore di mercato del bene dato in locazione; 
+ 5) non sono ammissibili le spese attinenti al contratto di leasing non indicate al numero 4), tra cui le tasse, il margine del concedente, i costi di rifinanziamento degli interessi, le spese generali, gli oneri assicurativi; 
+ 6) l'aiuto versato al concedente e' utilizzato interamente a vantaggio dell'utilizzatore mediante una riduzione uniforme di tutti i canoni pagati nel periodo contrattuale; 
+ 7) il concedente dimostra che il beneficio dell'aiuto e' trasferito interamente all'utilizzatore, elaborando una distinta dei pagamenti dei canoni o con un metodo alternativo che fornisca assicurazioni equivalenti; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                nel caso in cui il beneficiario del cofinanziamento sia l'utilizzatore: 
+ 1) i canoni pagati dall'utilizzatore al concedente, comprovati da una fattura quietanzata o da un documento contabile avente forza probatoria equivalente, costituiscono la spesa ammissibile; 
+ 2) nel caso di contratti di locazione finanziaria contenenti una clausola di riacquisto o che prevedono una durata contrattuale minima corrispondente alla vita utile del bene, l'importo massimo ammissibile non puo' superare il valore di mercato del bene; non sono ammissibili le altre spese connesse al contratto, tra cui tributi, interessi, costi di rifinanziamento interessi, spese generali, oneri assicurativi; 
+ 3) l'aiuto relativo ai contratti di locazione finanziaria di cui al numero 2) e' versato all'utilizzatore in una o piu' quote sulla base dei canoni effettivamente pagati; se la durata del contratto supera il termine finale per la contabilizzazione dei pagamenti ai fini dell'intervento cofinanziato, e' ammissibile soltanto la spesa relativa ai canoni esigibili e pagati dall'utilizzatore sino al termine finale stabilito per i pagamenti ai fini dell'intervento; 
+ 4) nel caso di contratti di locazione finanziaria che non contengono un patto di retrovendita e la cui durata e' inferiore al periodo di vita utile del bene oggetto del contratto, i canoni sono ammissibili in proporzione alla durata dell'operazione ammissibile; e' onere dell'utilizzatore dimostrare che la locazione finanziaria costituisce il metodo piu' economico per acquisire l'uso del bene; nel caso in cui risulti che i costi sono inferiori utilizzando un metodo alternativo, quale la locazione semplice del bene, i costi supplementari sono detratti dalla spesa ammissibile; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                i canoni pagati dall'utilizzatore in forza di un contratto di vendita e conseguente retrolocazione finanziaria sono spese ammissibili ai sensi della lettera b); i costi di acquisto del bene non sono ammissibili.
 
 ## Art. 20.
 

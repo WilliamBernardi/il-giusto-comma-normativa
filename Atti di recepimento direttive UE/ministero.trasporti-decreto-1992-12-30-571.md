@@ -9,7 +9,7 @@ vigente: true
 source: normattiva-opendata
 collection: Atti di recepimento direttive UE
 zip_date: 2026-07-30
-fetched_at: 2026-08-02T09:40:50Z
+fetched_at: 2026-07-30
 ---
 
 DECRETO
@@ -25,17 +25,103 @@ Ritenuta la necessita', nel recepire tale direttiva, di emanare le disposizioni 
 
 ## Art. 1. — Campo di applicazione
 
+1.
+                    
+                        
+                            Con il presente regolamento viene data attuazione alla direttiva del Consiglio delle Comunita' europee n. 89/684/CEE del 21 dicembre 1989 riguardante la formazione professionale di taluni conducenti che effettuano trasporti nazionali ed internazionali su strada di merci pericolose mediante:
+ 
+                        
+                        
+                            a)
+                            
+                                veicoli di massa max autorizzata superiore a 3,5 tonnellate che trasportano merci pericolose in quantita' superiore ai limiti previsti nel marginale 10011 dell'A.D.R.; per le materie ed oggetti esplosivi si tiene invece conto di tutti i veicoli, qualunque sia la loro massa massima autorizzata;
+
+                            
+                        
+                        
+                            b)
+                            
+                                veicoli cisterna o unita' di trasporto che comprendono cisterne o contenitori cisterna aventi capacita' di oltre 3000 litri e/o una massa massima autorizzata superiore a 3,5 tonnellate allorche' detti veicoli o unita' di trasporto trasportino merci pericolose od effettuino un percorso su strada dopo aver scaricato merci pericolose senza che le cisterne o i contenitori cisterna siano stati puliti o degassati.
+
 Le norme di cui al presente regolamento non si applicano ai veicoli appartenenti alle Forze armate o posti sotto la responsabilita' di queste.
 
 ## Art. 2. — Certificato di formazione professionale
 
 I conducenti dei veicoli di cui all'art. 1 devono aver conseguito alle scadenze di cui al comma 2, il certificato di formazione professionale, il cui rilascio e' subordinato alla partecipazione ad un apposito corso di formazione e al superamento del relativo esame, previsto all'art. 3.
 
+2.
+                    
+                        
+                            Le scadenze sono cosi' fissate:
+ 
+                        
+                        
+                            a)
+                            
+                                1 luglio 1993 per il trasporto di merci pericolose con i veicoli cisterna e le unita' di trasporto di cui al comma 1, lettera b), dell'art. 1, nonche' per il trasporto di materie ed oggetti esplosivi;
+
+                            
+                        
+                        
+                            b)
+                            
+                                1 luglio 1995, per qualsiasi altro trasporto di merci pericolose di cui all'art. 1.
+
+3.
+                    
+                        
+                            Il certificato e' valido cinque anni. La sua validita' puo' essere prorogata per periodi di cinque anni, allorche' il titolare del certificato:
+ 
+                        
+                        
+                            a)
+                            
+                                nell'anno che precede la scadenza di validita' del certificato, ha seguito l'apposito corso di aggiornamento di cui all'art. 3 ed ha superato il relativo esame;
+
+                            
+                        
+                        
+                            b)
+                            
+                                ovvero puo' provare, con documentazione atta a consentire i necessari riscontri, di avere esercitato la propria attivita' senza interruzioni dal momento del rilascio o dell'ultima proroga del suo certificato. Sono ammesse sospensioni di attivita' stagionali, ferie od altre interruzioni di lavoro non superiori a sei mesi per periodo di dodici mesi.
+
 ## Art. 3. — Corso di formazione professionale ed esame
 
 E' istituito il corso di formazione professionale per i conducenti di veicoli di cui all'art. 1.
 
 Per l'ammissione al corso e' necessario essere in possesso della patente di guida corrispondente al tipo di veicolo previsto dal certificato che si intende conseguire, secondo quanto indicato nell'art. 5.
+
+3.
+                    
+                        
+                            Il corso di formazione professionale deve:
+ 
+                        
+                        
+                            a)
+                            
+                                comportare lo svolgimento del programma previsto nell'allegato 2 del presente regolamento, e di cui lo stesso costituisce parte integrante;
+
+                            
+                        
+                        
+                            b)
+                            
+                                comportare una frequenza minima di trenta ore per il primo conseguimento e di venti ore, qualora trattasi di aggiornamento;
+
+                            
+                        
+                        
+                            c)
+                            
+                                essere svolto a cura di organizzazioni o enti legalmente costituiti ed accreditati, a tal fine, da apposita commissione istituita presso la Direzione generale della motorizzazione civile e dei trasporti in concessione (MCTC), come da successivo art. 4;
+
+                            
+                        
+                        
+                            d)
+                            
+                                dette organizzazioni o enti devono precisare i nominativi dei docenti, i quali devono essere in possesso di laurea in chimica o ingegneria e devono possedere comprovata esperienza nel settore delle merci pericolose da almeno cinque anni. Inoltre per l'effettuazione delle lezioni inerenti il comportamento da adottare in condizioni di emergenza per il primo soccorso, deve essere specificato il nominativo del medico docente ed i relativi titoli. Lo svolgimento del corso deve essere supportato da idoneo materiale didattico, ed in particolare da attrezzature necessarie per integrare le lezioni teoriche con esercitazioni pratiche.
 
 L'istanza per l'accreditamento di cui al precedente comma 3- c) deve essere redatto secondo lo schema dell'allegato 3 che costituisce parte integrante del presente regolamento.
 
@@ -58,6 +144,24 @@ I criteri di valutazione ai fini dell'accreditamento di cui al primo comma del p
 Le decisioni adottate dalla commissione hanno la natura di provvedimento definitivo.
 
 ## Art. 5. — Caratteristiche del certificato di formazione professionale
+
+1.
+                    
+                        
+                            Il certificato di formazione professionale, corrispondente al modello indicato nell'allegato B6 dell'A.D.R., conforme all'allegato 1 del presente decreto, di cui costituisce parte integrante, e' valido singolarmente o cumulativamente per i seguenti trasporti:
+ 
+                        
+                        
+                            a)
+                            
+                                per il trasporto di merci pericolose in cisterna (tutte le classi ammesse) cosi' come definita nel marginale 10014 dell'A.D.R.;
+
+                            
+                        
+                        
+                            b)
+                            
+                                per il trasporto di merci pericolose con modalita' diverse dal trasporto in cisterne (tutte le classi ammesse).
 
 ## Art. 6. — Norme transitorie
 

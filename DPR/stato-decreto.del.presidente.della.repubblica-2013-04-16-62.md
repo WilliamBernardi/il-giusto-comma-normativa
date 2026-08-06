@@ -8,8 +8,8 @@ vigente: true
 source: normattiva-opendata
 collection: DPR
 vigenza_date: 2023-07-14
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:47:43Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -79,6 +79,24 @@ Il pubblico dipendente non costringe altri dipendenti ad aderire ad associazioni
 
 ## Art. 6. — Comunicazione degli interessi finanziari 
  e conflitti d'interesse
+
+1.
+                    
+                        
+                            Fermi restando gli obblighi di trasparenza previsti da leggi o regolamenti, il dipendente, all'atto dell'assegnazione all'ufficio, informa per iscritto il dirigente dell'ufficio di tutti i rapporti, diretti o indiretti, di collaborazione con soggetti privati in qualunque modo retribuiti che lo stesso abbia o abbia avuto negli ultimi tre anni, precisando: 
+ 
+                        
+                        
+                            a)
+                            
+                                se in prima persona, o suoi parenti o affini entro il secondo grado, il coniuge o il convivente abbiano ancora rapporti finanziari con il soggetto con cui ha avuto i predetti rapporti di collaborazione; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                se tali rapporti siano intercorsi o intercorrano con soggetti che abbiano interessi in attivita' o decisioni inerenti all'ufficio, limitatamente alle pratiche a lui affidate.
 
 Il dipendente si astiene dal prendere decisioni o svolgere attivita' inerenti alle sue mansioni in situazioni di conflitto, anche potenziale, di interessi con interessi personali, del coniuge, di conviventi, di parenti, di affini entro il secondo grado. Il conflitto puo' riguardare interessi di qualsiasi natura, anche non patrimoniali, come quelli derivanti dall'intento di voler assecondare pressioni politiche, sindacali o dei superiori gerarchici.
 

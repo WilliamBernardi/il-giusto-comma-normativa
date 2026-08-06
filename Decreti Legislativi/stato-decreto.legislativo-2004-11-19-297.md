@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
 vigenza_date: 2026-05-29
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:33Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -31,6 +31,36 @@ Sulla proposta del Ministro per le politiche comunitarie e del Ministro della gi
 ## - Capo I DEI PRODUTTORI
 
 ## Art. 1. — Uso commerciale
+
+1.
+                        
+                            
+                                Salva l'applicazione delle norme penali vigenti, chiunque impiega commercialmente in maniera diretta o indiretta una denominazione protetta, intendendo per tale una denominazione di origine o una indicazione geografica cosi' come definite nell'articolo 2 del regolamento (CEE) n. 2081/92 del Consiglio, del 14 luglio 1992, o il segno distintivo o il marchio, registrati ai sensi del citato regolamento, e' sottoposto alle sanzioni amministrative di seguito individuate:
+ 
+                            
+                            
+                                a)
+                                
+                                    per prodotti comparabili, in quanto appartenenti allo stesso tipo, non aventi diritto a tale denominazione a causa:
+ 1) del mancato assoggettamento al controllo della struttura di controllo pubblica designata o privata autorizzata dal Ministero delle politiche agricole e forestali ai sensi dell'articolo 53 della legge 24 aprile 1998, n. 128, come sostituito dall'articolo 14 della legge 21 dicembre 1999, n. 526, e' sottoposto alla sanzione amministrativa pecuniaria da euro tremila ad euro ventimila;
+ 2) del mancato ottenimento della certificazione di conformita' rilasciata dalla struttura di controllo di cui al presente comma, e' sottoposto alla sanzione amministrativa pecuniaria da euro duemilacinquecento ad euro sedicimila;
+ 3) dell'accertata violazione della disciplina di produzione e' sottoposto alla sanzione amministrativa pecuniaria da euro duemila ad euro tredicimila;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    per prodotti non comparabili, in quanto non appartenenti allo stesso tipo, nella misura in cui l'uso della denominazione protetta consente di sfruttare indebitamente la reputazione della stessa, e' sottoposto alla sanzione amministrativa pecuniaria da euro cinquecento ad euro tremilacinquecento;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    per prodotti composti, elaborati o trasformati che recano nell'etichettatura, nella presentazione o nella pubblicita', il riferimento ad una o piu' denominazioni protette, e' sottoposto alla sanzione amministrativa pecuniaria da euro duemilacinquecento ad euro sedicimila. Non costituisce violazione di cui alla presente lettera il riferimento alla denominazione protetta:
+ 1) quando gli utilizzatori del prodotto composto, elaborato o trasformato sono autorizzati dal Consorzio di tutela della denominazione protetta riconosciuto ai sensi dell'articolo 53 della legge 24 aprile 1998, n. 128, come sostituito dall'articolo 14 della legge 21 dicembre 1999, n. 526, e risultano inseriti in apposito registro attivato, tenuto e aggiornato dal Consorzio stesso. In mancanza del provvedimento di riconoscimento del Consorzio la predetta autorizzazione puo' essere concessa dal Ministero delle politiche agricole e forestali - Direzione generale per la qualita' dei prodotti agroalimentari e la tutela del consumatore, che provvede anche alla gestione del citato registro;
+ 2) o quando il riferimento alla denominazione protetta e' riportato soltanto tra gli ingredienti del prodotto confezionato che lo contiene o in cui e' elaborato o trasformato.
 
 Chiunque detiene per la commercializzazione o l'immissione al consumo prodotti privi della indicazione della denominazione protetta, gia' certificati conformi ad essa, e' sottoposto alla sanzione amministrativa pecuniaria di euro cento per ogni chilogrammo, litro o frazione di essi o comunque per ogni singola confezione, qualora essa sia di peso o di capacita' inferiore alle misure di riferimento prima menzionate, di prodotto rinvenuto.
 
@@ -97,6 +127,31 @@ Soggetti privati non immessi nel sistema di controllo di una denominazione prote
 ## Art. 6. — Inadempienze dei Consorzi di tutela
 
 Al Consorzio di tutela di cui all'articolo 1, comma 1, lettera c), numero 1), che non adempie alle prescrizioni o agli obblighi derivanti dal decreto di riconoscimento o da eventuali successive disposizioni impartite dal Ministero delle politiche agricole e forestali, ovvero svolge attivita' che risulta incompatibile con il mantenimento del provvedimento di riconoscimento, non avendo ottemperato alla specifica intimazione ad adempiere e fatta salva la facolta' del Ministero delle politiche agricole e forestali di procedere alla sospensione o alla revoca del provvedimento stesso, si applica la sanzione amministrativa pecuniaria ((da euro diecimila a euro cinquantamila)).
+
+2.
+                        
+                            
+                                Il Consorzio di cui al comma 1 che, nell'espletamento delle sue attivita' pone in essere comportamenti che hanno l'effetto di: 
+ 
+                            
+                            
+                                a)
+                                
+                                    discriminare tra i soggetti associati appartenenti ad uno stesso segmento della filiera, ovvero appartenenti a segmenti diversi, quando la diversita' di trattamento non e' contemplata dallo statuto del Consorzio stesso; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    porre ostacoli all'esercizio del diritto all'accesso al Consorzio; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    violare le disposizioni impartite con il decreto del Ministro delle politiche agricole e forestali 12 settembre 2000, n. 410, concernente la ripartizione dei costi, e' sottoposto alla sanzione amministrativa pecuniaria ((da euro ventimila a euro sessantamila)).
 
 ## - Capo III DELLE CIRCOSTANZE
 

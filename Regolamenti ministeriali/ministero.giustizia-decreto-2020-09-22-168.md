@@ -7,8 +7,8 @@ urn: urn:nir:ministero.giustizia:decreto:2020-09-22;168
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:41Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -100,11 +100,103 @@ Il tirocinante esegue diligentemente le disposizioni del professionista garanten
 
 Coloro che, muniti del decreto di riconoscimento adottato ai sensi dell'articolo 16, comma 6, del decreto legislativo 9 novembre 2007, n. 206, intendono svolgere come misura compensativa il tirocinio di adattamento sono iscritti nel registro dei tirocinanti istituito e tenuto dal Consiglio dell'ordine nazionale.
 
+2.
+                    
+                        
+                            Nel registro dei tirocinanti sono riportati: 
+ 
+                        
+                        
+                            a)
+                            
+                                il numero d'ordine attribuito al tirocinante, il suo cognome e nome, luogo e data di nascita, residenza, titolo di studio e numero di codice fiscale; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                gli estremi del decreto di riconoscimento di cui al comma 1; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                la data di decorrenza dell'iscrizione; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                il cognome e nome del professionista presso il quale si svolge il tirocinio, l'ordine regionale, il numero di iscrizione, il numero di codice fiscale, l'indirizzo del luogo di lavoro e il numero di iscrizione nell'elenco di cui all'articolo 8; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                gli eventuali provvedimenti di sospensione del tirocinio; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                la data di compimento del periodo di effettivo tirocinio; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                la data del rilascio del certificato di compiuto tirocinio; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                la data della cancellazione con relativa motivazione.
+
 ## Art. 11. — Iscrizione
 
 L'iscrizione nel registro dei tirocinanti si ottiene a seguito di istanza presentata al Consiglio dell'ordine nazionale dei tecnologi alimentari, redatta secondo lo schema di cui all'allegato C del presente regolamento.
 
 Nella domanda il richiedente dichiara il proprio impegno ad effettuare il tirocinio di adattamento e la non sussistenza della incompatibilita' prevista dall'articolo 7, comma 3, del presente regolamento.
+
+3.
+                    
+                        
+                            La domanda e' corredata dai seguenti documenti: 
+ 
+                        
+                        
+                            a)
+                            
+                                copia di un documento di identita'; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                copia del decreto di riconoscimento adottato ai sensi dell'articolo 16, comma 6, del decreto legislativo 9 novembre 2007, n. 206, rilasciata in conformita' alle disposizioni contenute nel decreto del Presidente della Repubblica 28 dicembre 2000, n. 445; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                attestazione di disponibilita' del professionista ad ammettere il richiedente a svolgere il tirocinio presso il proprio luogo di svolgimento dell'attivita' professionale; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                n. 2 fotografie autenticate formato tessera, in alternativa, a richiesta dell'interessato, le fotografie sono autenticate dall'ufficio ricevente.
 
 Nella domanda, sottoscritta dal richiedente, sono elencati i documenti allegati; vi e' anche espresso l'impegno a dare comunicazione delle eventuali sopravvenute variazioni entro trenta giorni dal verificarsi delle stesse.
 
@@ -149,6 +241,38 @@ Il Consiglio dell'ordine nazionale delibera la sospensione per un periodo comunq
 La sospensione e l'interruzione del tirocinio sono dichiarate dal Consiglio dell'ordine nazionale con provvedimento comunicato mediante posta elettronica certificata all'interessato e al professionista presso cui si svolge il tirocinio entro quindici giorni.
 
 ## Art. 15. — Cancellazione dal registro dei tirocinanti
+
+1.
+                    
+                        
+                            Il Consiglio dell'ordine nazionale dei tecnologi alimentari delibera la cancellazione dal registro dei tirocinanti nei seguenti casi: 
+ 
+                        
+                        
+                            a)
+                            
+                                rinuncia all'iscrizione; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                dichiarazione di interruzione del tirocinio; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                condanna definitiva per delitto contro la pubblica amministrazione, contro l'amministrazione della giustizia, contro la fede pubblica, contro l'economia pubblica, oppure per ogni altro delitto non colposo, per il quale la legge commini la pena della reclusione non inferiore nel minimo a due anni o nel massimo a cinque anni; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                rilascio del certificato di compiuto tirocinio.
 
 Nei casi previsti al comma 1, lettere a), b), c) del presente articolo, la delibera del Consiglio dell'ordine nazionale di cancellazione dell'iscrizione nel registro dei tirocinanti e' comunicata mediante posta elettronica certificata all'interessato e al professionista presso cui e' stato svolto il tirocinio entro quindici giorni, salvo che la delibera di cancellazione sia stata comunicata contestualmente a quella di interruzione del tirocinio.
 

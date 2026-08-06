@@ -7,8 +7,8 @@ urn: urn:nir:stato:decreto.legislativo:2024-12-10;198
 vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:30Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -27,6 +27,27 @@ Sulla proposta del Ministro per gli affari europei, il PNRR e le politiche di co
 Il presente decreto reca disposizioni integrative per il rafforzamento di alcuni aspetti della presunzione di innocenza delle persone fisiche sottoposte a indagini o imputate in un procedimento penale in attuazione della direttiva (UE) 2016/343 del Parlamento europeo e del Consiglio, del 9 marzo 2016, sul rafforzamento di alcuni aspetti della presunzione di innocenza e del diritto di presenziare al processo nei procedimenti penali.
 
 ## Art. 2. — Modifiche al codice di procedura penale
+
+1.
+                    
+                        
+                            All'articolo 114 del codice di procedura penale sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                
+                                    al comma 2, le parole «, fatta eccezione per l'ordinanza indicata dall'articolo 292» sono soppresse;
+                                
+                            
+                        
+                        
+                            b)
+                            
+                                
+                                    dopo il comma 6-bis, e' aggiunto il seguente: 
+ «6-ter. Fermo quanto disposto dal comma 7, e' vietata la pubblicazione delle ordinanze che applicano misure cautelari personali fino a che non siano concluse le indagini preliminari ovvero fino al termine dell'udienza preliminare.».
 
 ## Art. 3. — Clausola di invarianza finanziaria
 

@@ -7,8 +7,8 @@ urn: urn:nir:ministero.ambiente.e.tutela.territorio.e.mare:decreto:2017-03-09;68
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:39Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -59,7 +59,59 @@ L'obbligo di prestazione della garanzia finanziaria da parte del soggetto obblig
 Tipologie, caratteristiche e modalita' di prestazione 
  della garanzia finanziaria
 
+1.
+                    
+                        
+                            La garanzia finanziaria e' prestata secondo una delle seguenti modalita': 
+ 
+                        
+                        
+                            a)
+                            
+                                reale e valida cauzione, ai sensi dell'articolo 54 del regolamento per l'amministrazione del patrimonio e per la contabilita' generale dello Stato, approvato con regio decreto 23 maggio 1924, n. 827; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                fidejussione bancaria rilasciata da banche autorizzate ai sensi della normativa vigente, ovvero da consorzi di garanzia collettiva dei fidi iscritti nell'albo degli intermediari finanziari, previsto dall'articolo 106 del testo unico delle leggi in materia bancaria e creditizia, di cui al decreto legislativo 1º settembre 1993, n. 385, e sottoposti alla vigilanza della Banca d'Italia ai sensi dell'articolo 108 del medesimo testo unico; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                polizza assicurativa rilasciata da imprese di assicurazione debitamente autorizzate all'esercizio del ramo cauzioni ed operanti nel territorio della Repubblica italiana in regime di liberta' di stabilimento o di liberta' di prestazione di servizi; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                garanzia finanziaria rilasciata da intermediari finanziari regolarmente iscritti nell'elenco di cui all'articolo 106, comma 1 del decreto legislativo 1° settembre 1993, n. 385.
+
 La documentazione attestante l'avvenuta prestazione della garanzia finanziaria di cui al comma 1 e' trasmessa dai soggetti obbligati al Ministero dell'ambiente e della tutela del territorio e del mare, che si avvale del Centro di coordinamento di cui all'articolo 33 del decreto legislativo 14 marzo 2014, n. 49, per la valutazione di congruita' della stessa.
+
+3.
+                    
+                        
+                            La trasmissione al Ministero dell'ambiente e della tutela del territorio e del mare, da parte del sistema collettivo, di una dichiarazione sostitutiva ai sensi dell'articolo 47 del decreto del Presidente della Repubblica 28 dicembre 2000, n. 445, attestante il possesso di un'adeguata capacita' finanziaria, equivale alla prestazione della garanzia finanziaria da parte del medesimo sistema.
+La capacita' finanziaria del sistema collettivo, calcolata in riferimento ai dati riportati nell'ultimo bilancio d'esercizio, si intende adeguata quando: 
+ 
+                        
+                        
+                            a)
+                            
+                                l'indice di autonomia finanziaria, dato dal rapporto tra il patrimonio netto e il totale dell'attivo netto, assume valore superiore a 0,20; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                l'indice di liquidita', dato dal rapporto tra le attivita' a breve termine e le passivita' a breve termine, assume valore superiore a 1,5. 
+ In caso di mancata trasmissione dell'autocertificazione o di inadeguata capacita' finanziaria la garanzia e' prestata secondo le modalita' di cui al comma 1.
 
 La garanzia finanziaria deve essere accettata dal Ministero dell'ambiente e della tutela del territorio e del mare entro 90 giorni dalla data di ricezione della documentazione di cui al comma 2 ovvero della dichiarazione di cui al comma 3. Decorso inutilmente tale termine, la garanzia finanziaria si intende tacitamente accettata ai sensi dell'articolo 20 della legge 7 agosto 1990, n. 241.
 

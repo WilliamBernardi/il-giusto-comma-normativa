@@ -8,8 +8,8 @@ vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
 vigenza_date: 2024-04-06
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:39Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -44,7 +44,112 @@ Udito il parere del Consiglio di Stato, espresso dalla Sezione consultiva per gl
 
 Il presente regolamento definisce la disciplina delle procedure per l'affidamento e la gestione dei contratti da eseguire all'estero tenuto conto dei principi fondamentali del codice di cui al decreto legislativo ((31 marzo 2023, n. 36)) e delle procedure applicate dall'Unione europea e dalle organizzazioni internazionali di cui l'Italia e' parte.
 
+2.
+                        
+                            
+                                Ai fini del presente regolamento si applicano le definizioni che seguono: 
+ 
+                            
+                            
+                                a)
+                                
+                                    «direttive europee»: direttive 2014/23/UE, 2014/24/UE e 2014/25/UE del 26 febbraio 2014; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    «codice»: codice di cui al decreto legislativo ((31 marzo 2023, n. 36)); 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    «Ministro»: il Ministro degli affari esteri e della cooperazione internazionale; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    «Ministero»: il Ministero degli affari esteri e della cooperazione internazionale (MAECI); 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    «AICS»: l'Agenzia italiana per la cooperazione allo sviluppo; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    «sede estera»: ciascuno degli uffici e delle sedi, comunque denominati, presenti all'estero di amministrazioni pubbliche di cui all'art. 1, comma 2, del decreto legislativo n.165 del 2001; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    "contratti": contratti di appalto pubblico, di partenariato pubblico privato e di concessione da svolgersi all'estero ai sensi dell'articolo 13, comma 4 del codice;
+                                
+                            
+                            
+                                h)
+                                
+                                    «RUP»: responsabile unico del ((progetto)); 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    «CIG»: codice identificativo gara di cui all'articolo 3, comma 5, della legge 13 agosto 2010, n. 136.
+
 ((
+
+2-bis.
+                        
+                            
+                                Fatto salvo quanto previsto dall'articolo 2, commi 5, 5-bis e 6, e dall'articolo 6, le disposizioni del presente regolamento non si applicano: 
+ 
+                            
+                            
+                                a)
+                                
+                                    ai contratti esclusi dall'applicazione delle direttive europee; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    ai contratti attivi; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    ai contratti a titolo gratuito, anche qualora essi offrano la possibilita' di guadagno economico, anche indiretto; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    ai contratti di societa'; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    alle operazioni straordinarie che non comportino nuovi affidamenti di lavori, servizi o forniture.
 
 ))
 
@@ -106,6 +211,45 @@ Gli oneri per la verifica e per la validazione sono compresi nelle risorse stanz
 
 Responsabile unico del ((progetto)), incentivi per funzioni tecniche e acquisizione di servizi per la corretta interpretazione e applicazione delle norme locali
 
+1.
+                        
+                            
+                                Il RUP, anche avvalendosi degli incarichi a supporto dell'iniziativa previsti al comma 3, cura le seguenti attivita': 
+ 
+                            
+                            
+                                a)
+                                
+                                    formula proposte; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    predispone gli atti della procedura e ne cura lo svolgimento; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    vigila sull'esecuzione del contratto; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    segnala disfunzioni, impedimenti o ritardi; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    svolge ogni altro adempimento non espressamente riservato ad altri organi, fermo restando quanto previsto al comma 8.
+
 Il RUP e' indicato ((nella decisione di contrarre)) nel bando, nell'avviso o nell'invito ed e' scelto tra i dipendenti di ruolo della sede estera o di altre amministrazioni pubbliche presenti nel Paese. L'AICS puo' altresi' individuare il RUP tra gli esperti di cui all'articolo 32, comma 4, della legge 11 agosto 2014, n. 125 o tra il personale di cui all'articolo 11, comma 1, del decreto ministeriale 22 luglio 2015, n. 113. La nomina di personale di cui all'articolo 11, comma 1, lettera c), del decreto ministeriale n. 113 del 2015 e' subordinata alla comprovata indisponibilita' in loco di personale di ruolo ((diverso dal titolare della sede estera)).
 
 Per i lavori e per i servizi attinenti all'ingegneria e all'architettura, il RUP deve essere un tecnico. Se nella sede estera non e' in servizio un tecnico con idonea professionalita', la sede estera puo' conferire, nel rispetto delle procedure previste dal presente regolamento, incarichi a supporto dell'intera iniziativa o di parte di essa a soggetti esterni anche locali in possesso delle specifiche competenze richieste e di adeguata polizza assicurativa a copertura dei rischi professionali e che forniscano idonee garanzie di indipendenza rispetto ai partecipanti alle procedure di selezione dei contraenti.
@@ -137,6 +281,31 @@ Nei contratti e nelle convenzioni di cui al comma 1 e' inserita una specifica cl
 Nelle procedure di selezione del contraente gli elementi essenziali ed i criteri di selezione degli operatori economici e delle offerte sono individuati e sinteticamente motivati ((nella decisione di contrarre)).
 
 ((
+
+2.
+                        
+                            
+                                La sede estera puo' utilizzare le seguenti procedure semplificate: 
+ 
+                            
+                            
+                                a)
+                                
+                                    affidamento diretto per contratti di importo inferiore a 140.000 euro, anche senza previa consultazione di due o piu' operatori economici; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    procedura negoziata senza previa pubblicazione del bando per contratti di appalto di importo pari o superiore a 140.000 euro e inferiore alle soglie previste dalle direttive europee; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    procedura negoziata senza previa pubblicazione del bando per contratti di concessione di importo pari o superiore a 140.000 euro e inferiore a un milione di euro.
 
 Nei casi di cui al comma 2, si applica il principio di rotazione conformemente all'articolo 49, commi 2, 3, 4 e 6, del codice. Per i contratti affidati con le procedure di cui al comma 2, lettere b) e c), non si applica il principio di rotazione quando l'indagine di mercato e' stata effettuata senza porre limiti al numero di operatori economici in possesso dei requisiti richiesti da invitare alla successiva procedura negoziata.
 
@@ -205,6 +374,24 @@ Si applicano al presidente, ai commissari e ai segretari delle commissioni l'art
 
 ## Art. 13. — Offerte anormalmente basse
 
+1.
+                        
+                            
+                                La sede estera ((o, su richiesta del RUP, la commissione giudicatrice)) effettua i controlli di cui all'articolo 69 della direttiva 2014/24/UE nei seguenti casi: 
+ 
+                            
+                            
+                                a)
+                                
+                                    se l'aggiudicazione avviene con il criterio del prezzo piu' basso, sulle offerte il cui prezzo e' inferiore ai quattro quinti della base d'asta; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    se l'aggiudicazione avviene con il criterio dell'offerta economicamente piu' vantaggiosa, sulle offerte i cui punteggi relativi al prezzo ed agli altri elementi oggetto di valutazione siano entrambi almeno pari o superiori ai quattro quinti del punteggio massimo attribuibile.
+
 Al di fuori dei casi di cui al comma 1, la sede estera puo' verificare la congruita' di ogni altra offerta che, in base ad elementi specifici, appaia anormalmente bassa.
 
 Non sono ammesse giustificazioni in relazione ai trattamenti salariali minimi inderogabili nel Paese e agli oneri di sicurezza previsti dal piano di sicurezza e coordinamento comunque conforme alla normativa applicabile nel Paese dove il contratto e' eseguito.
@@ -212,6 +399,51 @@ Non sono ammesse giustificazioni in relazione ai trattamenti salariali minimi in
 ## - Capo III Esecuzione
 
 ## Art. 14. — Subappalto
+
+1.
+                        
+                            
+                                Nell'invito o nel bando e nel conseguente contratto sono specificati i seguenti obblighi: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il contraente principale assume nei confronti della sede estera piena responsabilita' per l'intero contratto; 
+
+                                
+                            
+                            
+                                a-bis)
+                                
+                                    il contraente principale e il subappaltatore sono responsabili in solido nei confronti della sede estera per le prestazioni oggetto del contratto di subappalto;
+                                
+                            
+                            
+                                b)
+                                
+                                    l'appaltatore indica nella sua offerta le eventuali parti dell'appalto che intende subappaltare e i subappaltatori proposti; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il subappaltatore deve essere in possesso dei requisiti previsti dal bando in relazione alla prestazione oggetto del subappalto; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    l'appaltatore accetta che l'amministrazione aggiudicatrice possa trasferire i pagamenti dovuti direttamente al subappaltatore per le prestazioni da lui fornite nell'ambito dell'appalto; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    l'appaltatore accetta espressamente di sostituire i subappaltatori per i quali emergano motivi di esclusione.
 
 ((
 
@@ -230,6 +462,24 @@ COMMA ABROGATO DALLA L. 23 DICEMBRE 2021, N. 238. (1)
 
 L'esecuzione dei contratti di importo pari o superiore alle soglie di cui all'articolo 7, comma 2, lettere b) e c) e' garantita da fideiussione per il 10 per cento dell'importo contrattuale.
 
+2.
+                        
+                            
+                                La sede estera puo' chiedere la prestazione di garanzie fideiussorie: 
+ 
+                            
+                            
+                                a)
+                                
+                                    per l'esecuzione di contratti di importo inferiore alle soglie di cui all'articolo 7, comma 2, lettere b) e c), per il 10 per cento dell'importo contrattuale; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    per la partecipazione alle procedure di selezione di contratti regolati dal presente regolamento, per il 2 per cento dell'importo a base di gara.
+
 Le fideiussioni di cui ai commi 1 e 2 possono essere, a scelta dell'aggiudicatario o dell'offerente, bancarie o assicurative, con espressa rinuncia del beneficio della preventiva escussione del debitore principale e con operativita' entro quindici giorni, a semplice richiesta scritta della stazione appaltante.
 
 I documenti di gara e contrattuali prevedono che la garanzia di esecuzione sia escussa dalla sede estera in caso di frode o di inadempimento imputabile all'esecutore. La garanzia dell'offerta di cui al comma 2, lettera b), e' escussa in caso di mancata stipulazione del contratto per fatto imputabile all'aggiudicatario.
@@ -245,6 +495,32 @@ Le garanzie di cui al comma 2, lettera b), sono svincolate automaticamente al mo
 ## Art. 16. — Anticipazioni
 
 Dopo la stipulazione del contratto la sede estera puo' erogare anticipazioni del prezzo, non ((superiori al 30)) per cento dell'importo del contratto.
+
+2.
+                        
+                            
+                                Anticipazioni superiori al limite di cui al comma 1 sono consentite in uno dei seguenti casi: 
+ 
+                            
+                            
+                                a)
+                                
+                                    se sono imposte da disposizioni inderogabili della normativa locale; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    quando, in base alla prassi locale, e' altrimenti impossibile ottenere la prestazione; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    quando ricorrono concrete, oggettive e comprovate ragioni specificamente indicate dal RUP. 
+ ((3)). ((Le anticipazioni)) erogate per i contratti di cui all'articolo 7, comma 3 sono garantite per l'intero importo anticipato maggiorato del 10 per cento, secondo le modalita' previste dai commi da 3 a 5 dell'articolo 15.
 
 ## Art. 17. — Cause di risoluzione
 
@@ -271,6 +547,38 @@ Per l'esecuzione di servizi e forniture la direzione dell'esecuzione spetta al R
 ## Art. 20.
 
 Collaudo e verifica di conformita'
+
+1.
+                        
+                            
+                                L'esecuzione dei contratti e' soggetta a collaudo o verifica di conformita' della regolare esecuzione: 
+ 
+                            
+                            
+                                a)
+                                
+                                    per i contratti di importo pari o superiore a un milione di euro, e' svolta da una commissione composta da tre dipendenti della Sede estera o di altre amministrazioni pubbliche presenti nel Paese in possesso di idonea professionalita' e che non abbiano svolto altre attivita' nell'ambito del contratto oggetto di verifica; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    per i contratti di servizi e forniture di importo inferiore a un milione di euro e pari o superiore alle soglie previste dalle direttive europee e' svolta da un dipendente della sede estera o di altre amministrazioni pubbliche presenti nel Paese in possesso di idonea professionalita' e che non abbia svolto altre attivita' nell'ambito del contratto oggetto di verifica; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    per i contratti di lavori non inclusi nella lettera a), e' svolta dal direttore dei lavori; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    per i contratti di servizi e forniture non inclusi nelle lettere a) e b), e' svolta dal ((RUP)).
 
 Per i contratti di lavori il collaudo comprende, se necessario, anche il collaudo statico.
 

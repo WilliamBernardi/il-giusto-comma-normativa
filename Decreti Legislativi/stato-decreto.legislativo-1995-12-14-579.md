@@ -8,8 +8,8 @@ codice_redazionale: 096G0031
 vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:24Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -33,4 +33,22 @@ I contributi eccedenti i limiti percentuali di importo della contribuzione a fon
 Nel caso dei lavoratori che hanno esercitato l'opzione per il sistema contributivo ai sensi dell'art. 1, comma 23, della legge 8 agosto 1995, n. 335, la deduzione fiscale di cui al comma 2 e' ammessa, qualora lavoratori subordinati, a condizione che le fonti istitutive di cui all'art. 3 del decreto legislativo 21 aprile 1993, n. 124, prevedano la destinazione alle forme pensionistiche complementari di ulteriori quote, ove ancora disponibili, del trattamento di fine rapporto per un importo pari all'ammontare del contributo versato e sia intervenuto un accordo collettivo, o in mancanza, un accordo individuale, sulla redistribuzione del minor onere contributivo sui redditi al di sopra del massimale.
 
 Qualora i contributi versati ai sensi del comma 2 al fondo pensione superino complessivamente la misura del 10 per cento del reddito annuo di cui al medesimo comma 2, la deduzione fiscale a favore del datore di lavoro puo' operare nella misura massima della differenza tra tale misura del 10 per cento e la misura del contributo del lavoratore.
+
+5.
+                    
+                        
+                            Alla contribuzione, nei confronti della quale opera la deduzione fiscale di cui al comma 2, si applica:
+ 
+                        
+                        
+                            a)
+                            
+                                ove a carico del datore di lavoro, il contributo di solidarieta' di cui all'art. 12 del citato decreto legislativo n. 124 del 1993;
+
+                            
+                        
+                        
+                            b)
+                            
+                                ove a carico del lavoratore, un contributo di solidarieta' nella misura del 2 per cento in favore della gestione pensionistica obbligatoria cui il lavoratore medesimo e' iscritto; a tale contributo si applicano le disposizioni in materia di riscossione, di termini di prescrizioni e di sanzioni vigenti per le contribuzioni dei regimi pensionistici obbligatori di pertinenza.
 

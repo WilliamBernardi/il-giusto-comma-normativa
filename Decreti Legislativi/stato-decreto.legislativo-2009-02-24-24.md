@@ -8,8 +8,8 @@ codice_redazionale: 009G0032
 vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:23Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -44,6 +44,38 @@ Salvo che il fatto costituisca reato, e' soggetto alla sanzione amministrativa p
 
 ## Art. 5. — Obbligo di informazione
 
+1.
+                    
+                        
+                            Salvo che il fatto costituisca reato, e' soggetto alla sanzione amministrativa pecuniaria da euro cinquemila ad euro ventimila il vettore aereo, un suo agente o l'operatore turistico che:
+ 
+                        
+                        
+                            a)
+                            
+                                non mette a disposizione del pubblico, in formati accessibili e almeno nelle stesse lingue rese disponibili ad altri passeggeri, le norme di sicurezza che applica al trasporto di persone con disabilita' e di persone a mobilita' ridotta, nonche' le eventuali restrizioni al loro trasporto o al trasporto di attrezzature per la mobilita' a causa delle dimensioni dell'aeromobile;
+
+                            
+                        
+                        
+                            b)
+                            
+                                non informa la persona con disabilita' o a mobilita' ridotta delle ragioni in base alle quali si e' avvalso delle deroghe previste dall'articolo 4, lettere a) e b), del regolamento e non risponde per iscritto, entro cinque giorni lavorativi, ad una richiesta in tale senso;
+
+                            
+                        
+                        
+                            c)
+                            
+                                non trasmette almeno trentasei ore prima dell'ora di partenza, purche' abbia ricevuto una notifica di assistenza almeno 48 ore prima dell'ora stessa, le informazioni in merito a tale notifica di assistenza ai gestori degli aeroporti di partenza, arrivo e transito nonche' al vettore aereo effettivo;
+
+                            
+                        
+                        
+                            d)
+                            
+                                non comunica, non appena possibile dopo la partenza del volo, al gestore dell'aeroporto di destinazione, qualora sia situato nel territorio di uno Stato membro al quale si applica il Trattato, il numero di persone con disabilita' e di persone a mobilita' ridotta, presenti su detto volo, che richiedono l'assistenza di cui all'allegato 1 al presente decreto, specificando la natura dell'assistenza necessaria.
+
 Salvo che il fatto costituisca reato, e' soggetto alla sanzione amministrativa pecuniaria da euro cinquemila a euro ventimila il gestore aeroportuale che non adotta tutte le misure necessarie per ricevere le notifiche di richiesta di assistenza da parte delle persone con disabilita' o a mobilita' ridotta presso tutti i punti vendita presenti nel territorio degli Stati membri cui si applica il Trattato, ivi compresa la vendita per telefono o via internet.
 
 ## Art. 6. — Designazione di punti di arrivo e di partenza
@@ -58,6 +90,31 @@ Salvo che il fatto costituisca reato, e' soggetto alla sanzione amministrativa p
 Salvo che il fatto costituisca reato, e' soggetto alla sanzione amministrativa pecuniaria da euro duemilacinquecento ad euro diecimila il gestore aeroportuale che non fissa e rende pubbliche le norme di qualita' per l'assistenza di cui all'allegato 1 al presente decreto, ad eccezione degli aeroporti commerciali con transito annuo di passeggeri inferiore a centocinquantamila.
 
 ## Art. 8. — Obblighi di formazione del personale
+
+1.
+                    
+                        
+                            Salvo che il fatto costituisca reato, sono soggetti alla sanzione amministrativa pecuniaria da euro duemilacinquecento ad euro diecimila il vettore aereo e il gestore aeroportuale che:
+ 
+                        
+                        
+                            a)
+                            
+                                non garantiscono personale, compreso quello alle dipendenze di un subappaltatore, adeguato alle esigenze delle persone con disabilita' o a mobilita' ridotta;
+
+                            
+                        
+                        
+                            b)
+                            
+                                non provvedono affinche' tutto il personale che lavora in aeroporto a diretto contatto con i viaggiatori, abbia frequentato corsi di formazione finalizzata alla conoscenza delle problematiche afferenti alla disabilita' in modo di essere idoneo all'assistenza alle persone con disabilita' o a mobilita' ridotta;
+
+                            
+                        
+                        
+                            c)
+                            
+                                non garantiscono che tutti i nuovi dipendenti frequentino corsi di formazione sulla disabilita' e che tutto il personale segua corsi di aggiornamento in materia.
 
 ## Art. 9. — Mancata assistenza da parte dei vettori aerei
 

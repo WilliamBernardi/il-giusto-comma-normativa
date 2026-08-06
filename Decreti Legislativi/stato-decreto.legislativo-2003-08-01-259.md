@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
 vigenza_date: 2026-07-09
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:35Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -36,6 +36,70 @@ Emana
 
 (art. 1 eecc; art. 2 Codice 2003)
 
+1.
+                        
+                            
+                                Formano oggetto del presente decreto le disposizioni in materia di: 
+ 
+                            
+                            
+                                a)
+                                
+                                    reti e servizi di comunicazione elettronica ad uso pubblico, ivi comprese le reti utilizzate per la diffusione circolare di programmi sonori e televisivi e le reti della televisione via cavo; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    gruppi chiusi di utenti; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    reti ((...)) di comunicazione elettronica ad uso privato; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    tutela degli impianti sottomarini di comunicazione elettronica; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    servizi radioelettrici.
+
+2.
+                        
+                            
+                                Non formano oggetto del decreto le disposizioni in materia di: 
+ 
+                            
+                            
+                                a)
+                                
+                                    servizi che forniscono contenuti trasmessi utilizzando reti e servizi di comunicazione elettronica o che comportano un controllo editoriale su tali contenuti; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    apparecchiature contemplate dal decreto legislativo 22 giugno 2016, n. 128 che attua la direttiva 2014/53/UE concernente l'armonizzazione delle legislazioni degli Stati membri relative alla messa a disposizione sul mercato di apparecchiature radio e che abroga la direttiva 1999/5/CE ((...)); 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    disciplina dei servizi della societa' dell'informazione, definiti dalla legge 21 giugno 1986, n. 317, disciplinati dal decreto legislativo 9 aprile 2003, n. 70.
+
 Il presente decreto reca le specifiche norme in materia di tutela dei consumatori nel settore delle comunicazioni elettroniche, quali condizioni a corredo delle autorizzazioni generali per la fornitura di servizi di comunicazione elettronica. Rimangono ferme le disposizioni del Codice del consumo, di cui al decreto legislativo 6 settembre 2005, n. 206.
 
 Rimangono ferme e prevalgono sulle disposizioni del decreto le norme speciali in materia di reti utilizzate per la diffusione circolare di programmi sonori e televisivi.
@@ -50,9 +114,575 @@ Restano ferme le competenze e i poteri del Presidente del Consiglio dei Ministri
 
 (ex art. 2 eecc e art. 1 Codice 2003)
 
+1.
+                        
+                            
+                                Ai fini del presente decreto si intende per: 
+ 
+                            
+                            
+                                a)
+                                
+                                    Codice: il "Codice delle comunicazioni elettroniche" per quanto concerne le reti e i servizi di comunicazione elettronica; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    accesso: il fatto di rendere accessibili risorse o servizi a un'altra impresa a determinate condizioni, su base esclusiva o non esclusiva, al fine di fornire servizi di comunicazione elettronica anche quando sono utilizzati per la prestazione di servizi della societa' dell'informazione o di servizi di diffusione di contenuti radiotelevisivi; il concetto comprende, tra l'altro, l'accesso agli elementi della rete e alle risorse correlate, che puo' comportare la connessione di apparecchiature con mezzi fissi o non fissi (ivi compreso, in particolare, l'accesso alla rete locale nonche' alle risorse e ai servizi necessari per fornire servizi tramite la rete locale); l'accesso all'infrastruttura fisica, tra cui edifici torri,, condotti e piloni; l'accesso ai pertinenti sistemi software, tra cui i sistemi di supporto operativo; l'accesso a sistemi informativi o banche dati per l'effettuazione preventiva di ordini, la fornitura, l'effettuazione di ordini, la manutenzione, le richieste di riparazione e la fatturazione; l'accesso ai servizi di traduzione del numero o a sistemi che svolgono funzioni analoghe; l'accesso alle reti fisse e mobili, in particolare per il roaming; l'accesso ai sistemi di accesso condizionato per i servizi di televisione digitale e l'accesso ai servizi di rete virtuale; 
+
+                                
+                            
+                            
+                                b-bis)
+                                
+                                    access point: dispositivo di rete che consente l'accesso ad un numero variabile di utenti tra una rete radio LAN e una rete di comunicazione elettronica; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    Agenzia: l'Agenzia per la cybersicurezza nazionale, istituita a tutela degli interessi nazionali nel campo della cybersicurezza, anche ai fini della tutela della sicurezza nazionale nello spazio cibernetico, con decreto-legge 14 giugno 2021, n. 82 convertito, con modificazioni, dalla legge 4 agosto 2021, n. 109., recante disposizioni urgenti in materia di cybersicurezza, definizione dell'architettura nazionale di cybersicurezza e istituzione dell'Agenzia, di seguito denominata Agenzia; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    apparato radioelettrico: un trasmettitore, un ricevitore o un ricetrasmettitore destinato ad essere applicato in una stazione radioelettrica. In alcuni casi l'apparato radioelettrico puo' coincidere con la stazione stessa; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    apparecchiature digitali televisive avanzate: i sistemi di apparecchiature di decodifica destinati al collegamento con televisori o sistemi televisivi digitali integrati in grado di ricevere i servizi della televisione digitale interattiva; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    Application Programming Interface (API): interfaccia software fra applicazioni rese disponibili da emittenti o fornitori di servizi e le risorse delle apparecchiature digitali televisive avanzate per la televisione e i servizi radiofonici digitali; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    Autorita' nazionale di regolamentazione: l'Autorita' per le garanzie nelle comunicazioni, di seguito denominata Autorita'; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    
+                                        ((LETTERA ABROGATA DAL D.LGS. 4 SETTEMBRE 2024, N. 138)); 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    attribuzione di spettro radio: la designazione di una determinata banda di spettro radio destinata a essere utilizzata da parte di uno o piu' tipi di servizi di radiocomunicazione, se del caso, alle condizioni specificate; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    autorizzazione generale: il regime giuridico che garantisce i diritti alla fornitura di reti o di servizi di comunicazione elettronica e stabilisce obblighi specifici per il settore applicabili a tutti i tipi o a tipi specifici di reti e servizi di comunicazione elettronica, conformemente al presente decreto; 
+
+                                
+                            
+                            
+                                m)
+                                
+                                    BEREC: organismo dei regolatori europei delle comunicazioni elettroniche; 
+
+                                
+                            
+                            
+                                m-bis)
+                                
+                                    call center: servizio specificamente organizzato per la gestione dei contatti e delle comunicazioni multicanale con gli utenti finali da parte di addetti specializzati o risponditori automatici nell'ambito di un rapporto contrattuale tra il gestore e un operatore che fornisce reti e servizi di comunicazioni elettroniche; 
+
+                                
+                            
+                            
+                                n)
+                                
+                                    centro di raccolta delle chiamate di emergenza o "PSAP" (public safety answering point): un luogo fisico, sotto la responsabilita' di un'autorita' pubblica o di un organismo privato riconosciuto dallo Stato, in cui perviene inizialmente una comunicazione di emergenza; 
+
+                                
+                            
+                            
+                                o)
+                                
+                                    centrale unica di risposta o CUR: il centro di raccolta delle chiamate di emergenza (PSAP) piu' idoneo per la ricezione delle comunicazioni di emergenza sul territorio nazionale con PSAP di primo livello definiti su base regionale secondo le modalita' stabilite con appositi protocolli d'intesa tra le regioni ed il Ministero dell'interno; 
+
+                                
+                            
+                            
+                                p)
+                                
+                                    chiamata: la connessione stabilita da un servizio di comunicazione interpersonale accessibile al pubblico che consente la comunicazione vocale bidirezionale; 
+
+                                
+                            
+                            
+                                p-bis)
+                                
+                                    codice di abilitazione e identificazione: il codice fornito dall'impresa autorizzata ad un utente per identificarlo univocamente e verificarne l'abilitazione all'accesso alla rete tramite un access point; 
+
+                                
+                            
+                            
+                                q)
+                                
+                                    comunicazione di emergenza: comunicazione mediante servizi di comunicazione interpersonale tra un utente finale e il PSAP con l'obiettivo di richiedere e ricevere aiuto d'urgenza dai servizi di emergenza; 
+
+                                
+                            
+                            
+                                r)
+                                
+                                    consumatore: la persona fisica che utilizza o chiede di utilizzare un servizio di comunicazione elettronica accessibile al pubblico per scopi non riferibili all'attivita' lavorativa, commerciale, artigianale o professionale svolta; 
+
+                                
+                            
+                            
+                                s)
+                                
+                                    fornitura di una rete di comunicazione elettronica: la realizzazione, la gestione, il controllo o la messa a disposizione di tale rete; 
+
+                                
+                            
+                            
+                                t)
+                                
+                                    gruppo chiuso di utenti (CUG - Closed User Group): una pluralita' di soggetti legati fra loro da uno stabile interesse professionale o d'utenza comune, tale da giustificare esigenze interne di comunicazione confinata, soddisfatta a mezzo di reti e servizi esclusivi e chiusi di comunicazione elettronica ad uso privato; 
+
+                                
+                            
+                            
+                                t-bis)
+                                
+                                    identificazione univoca indiretta dell'utente: identificazione univoca dell'utente effettuata acquisendo l'identita' tecnica precedentemente validata e anagrafata da altri soggetti pubblici o esercenti un servizio di pubblica utilita'; 
+
+                                
+                            
+                            
+                                t-ter)
+                                
+                                    impianto di comunicazione elettronica: insieme di dispositivi di rete che comprende le apparecchiature e le infrastrutture necessarie per la trasmissione, la ricezione e l'elaborazione di segnali elettronici; 
+
+                                
+                            
+                            
+                                u)
+                                
+                                    incidente di sicurezza: un evento con un reale effetto pregiudizievole per la sicurezza delle reti o dei servizi di comunicazione elettronica; 
+
+                                
+                            
+                            
+                                v)
+                                
+                                    informazioni sulla localizzazione del chiamante: i dati trattati in una rete mobile pubblica, derivanti dall'infrastruttura di rete o dai dispositivi mobili, che indicano la posizione geografica delle apparecchiature terminali mobili di un utente finale e i dati sull'indirizzo fisico del punto terminale di rete e in una rete pubblica fissa i dati sull'indirizzo fisico del punto terminale di rete; 
+
+                                
+                            
+                            
+                                z)
+                                
+                                    interconnessione: una particolare modalita' di accesso messa in opera tra operatori della rete pubblica mediante il collegamento fisico e logico delle reti pubbliche di comunicazione elettronica utilizzate dalla medesima impresa o da un'altra impresa per consentire agli utenti di un'impresa di comunicare con gli utenti della medesima o di un'altra impresa o di accedere ai servizi offerti da un'altra impresa qualora tali servizi siano forniti dalle parti interessate o da altre parti che hanno accesso alla rete; 
+
+                                
+                            
+                            
+                                aa)
+                                
+                                    interferenza dannosa: un'interferenza che pregiudica il funzionamento di un servizio di radionavigazione o di altri servizi di sicurezza o che deteriora gravemente, ostacola o interrompe ripetutamente un servizio di radiocomunicazione che opera conformemente alle normative internazionali, dell'Unione Europea o nazionali applicabili; 
+
+                                
+                            
+                            
+                                bb)
+                                
+                                    larga banda: l'ambiente tecnologico costituito da applicazioni, contenuti, servizi ed infrastrutture, che consente l'utilizzo delle tecnologie digitali ad elevati livelli di interattivita'; 
+
+                                
+                            
+                            
+                                cc)
+                                
+                                    libero uso: la facolta' di utilizzo di dispositivi o di apparecchiature terminali di comunicazione elettronica senza necessita' di autorizzazione generale; 
+
+                                
+                            
+                            
+                                cc-bis)
+                                
+                                    Mac Address (Media access control address): codice di dodici caratteri in formato esadecimale, in accordo con la serie di standard IEEE 802, che identifica in modo univoco un dispositivo da connettere ad una rete; 
+
+                                
+                            
+                            
+                                dd)
+                                
+                                    mercati transnazionali: mercati individuati conformemente all'articolo 65 del codice europeo delle comunicazioni elettroniche, che coprono l'Unione o una parte considerevole di questa, situati in piu' di uno Stato membro; 
+
+                                
+                            
+                            
+                                ee)
+                                
+                                    messaggio IT-Alert: messaggio riguardante gravi emergenze e catastrofi imminenti o in corso, inviato dal sistema di allarme pubblico IT-Alert; 
+
+                                
+                            
+                            
+                                ff)
+                                
+                                    Ministero: il Ministero delle imprese e del made in Italy; 
+
+                                
+                            
+                            
+                                gg)
+                                
+                                    misure di autoprotezione: azioni da porre in essere utili a ridurre i rischi e ad attenuare le conseguenze derivanti da gravi emergenze e catastrofi imminenti o in corso; 
+
+                                
+                            
+                            
+                                hh)
+                                
+                                    numero geografico: qualsiasi numero del piano di numerazione nazionale dei servizi di comunicazione elettronica nel quale alcune delle cifre hanno un indicativo geografico per instradare le chiamate verso l'ubicazione fisica del punto terminale di rete; 
+
+                                
+                            
+                            
+                                ii)
+                                
+                                    numero non geografico: qualsiasi numero del piano di numerazione nazionale dei servizi di comunicazione elettronica che non sia un numero geografico, ad esempio i numeri di telefonia mobile, i numeri di chiamata gratuita e i numeri relativi ai servizi a sovrapprezzo; 
+
+                                
+                            
+                            
+                                ll)
+                                
+                                    operatore: un'impresa che fornisce o e' autorizzata a fornire una rete pubblica di comunicazione elettronica, o una risorsa correlata; 
+
+                                
+                            
+                            
+                                mm)
+                                
+                                    PSAP piu' idoneo: uno PSAP istituito dalle autorita' competenti per coprire le comunicazioni di emergenza da un dato luogo o per le comunicazioni di emergenza di un certo tipo; 
+
+                                
+                            
+                            
+                                nn)
+                                
+                                    punto di accesso senza fili di portata limitata: apparecchiatura senza fili di accesso alla rete di piccole dimensioni, a bassa potenza, di portata limitata, che utilizza spettro radio soggetto a licenza o spettro radio esente da licenza oppure una combinazione dei due, che puo' essere utilizzata come parte di una rete pubblica di comunicazione elettronica ed essere dotata di una o piu' antenne a basso impatto visivo, che consente agli utenti un accesso senza fili alle reti di comunicazione elettronica indipendentemente dalla topologia di rete sottostante, che puo' essere mobile o fissa; 
+
+                                
+                            
+                            
+                                oo)
+                                
+                                    punto terminale di rete: il punto fisico a partire dal quale l'utente finale ha accesso a una rete pubblica di comunicazione elettronica e che, in caso di reti in cui abbiano luogo la commutazione o l'instradamento, e' definito mediante un indirizzo di rete specifico correlabile a un numero di utente finale o a un nome di utente finale; per il servizio di comunicazioni mobili e personali il punto terminale di rete e' costituito dall'antenna fissa cui possono collegarsi via radio le apparecchiature terminali utilizzate dagli utenti del servizio; 
+
+                                
+                            
+                            
+                                oo-bis)
+                                
+                                    radio digitale: l'attivita' di radiodiffusione sonora in tecnica digitale diffusa su reti terrestri utilizzando lo standard DAB+; 
+
+                                
+                            
+                            
+                                pp)
+                                
+                                    rete ad altissima capacita': una rete di comunicazione elettronica costituita interamente da elementi in fibra ottica almeno fino al punto di distribuzione nel luogo servito oppure una rete di comunicazione elettronica in grado di fornire prestazioni di rete analoghe in condizioni normali di picco in termini di larghezza di banda disponibile per downlink/uplink, resilienza, parametri di errore, latenza e relativa variazione; le prestazioni di rete possono essere considerate analoghe a prescindere da eventuali disparita' di servizio per l'utente finale dovute alle caratteristiche intrinsecamente diverse del mezzo attraverso cui la rete si collega in ultima istanza al punto terminale di rete; 
+
+                                
+                            
+                            
+                                qq)
+                                
+                                    rete locale in radiofrequenza o "RLAN" (radio local area network): un sistema di accesso senza fili a bassa potenza, di portata limitata, con un basso rischio di interferenze con altri sistemi di questo tipo installati in prossimita' da altri utenti, che utilizza su base non esclusiva , apparati a corto raggio secondo le caratteristiche tecniche previste dal Piano nazionale di ripartizione delle frequenze; una porzione di spettro radio armonizzato; 
+
+                                
+                            
+                            
+                                rr)
+                                
+                                    rete locale: il percorso fisico utilizzato dai segnali di comunicazione elettronica che collega il punto terminale della rete a un permutatore o a un impianto equivalente nella rete pubblica fissa di comunicazione elettronica; 
+
+                                
+                            
+                            
+                                ss)
+                                
+                                    rete di comunicazione elettronica ad uso privato: rete di comunicazione elettronica con la quale sono realizzati attivita' di comunicazione elettronica ad uso esclusivo del titolare della relativa autorizzazione. Una rete privata puo' interconnettersi, su base commerciale, con la rete pubblica tramite uno o piu' punti terminali di rete, purche' i attivita' di comunicazione elettronica realizzati con la rete privata non siano accessibili al pubblico. 
+
+                                
+                            
+                            
+                                tt)
+                                
+                                    rete pubblica di comunicazione elettronica: una rete di comunicazione elettronica, utilizzata interamente o prevalentemente per fornire servizi di comunicazione elettronica accessibili al pubblico, che supporta il trasferimento di informazioni tra i punti terminali di rete; 
+
+                                
+                            
+                            
+                                uu)
+                                
+                                    rete televisiva via cavo: ogni infrastruttura prevalentemente cablata installata principalmente per la diffusione o la distribuzione di segnali radiofonici o televisivi al pubblico; 
+
+                                
+                            
+                            
+                                vv)
+                                
+                                    reti di comunicazione elettronica: i sistemi di trasmissione, basati o meno su un'infrastruttura permanente o una capacita' di amministrazione centralizzata e, se del caso, le apparecchiature di commutazione o di instradamento e altre risorse, inclusi gli elementi di rete non attivi, che consentono di trasmettere segnali via cavo, via radio, a mezzo di fibre ottiche o con altri mezzi elettromagnetici, comprese le reti satellitari, le reti mobili e fisse (a commutazione di circuito e a commutazione di pacchetto, compresa internet), i sistemi per il trasporto via cavo della corrente elettrica, nella misura in cui siano utilizzati per trasmettere i segnali, le reti utilizzate per la diffusione radiotelevisiva e le reti televisive via cavo, indipendentemente dal tipo di informazione trasportato; 
+
+                                
+                            
+                            
+                                zz)
+                                
+                                    risorse correlate: servizi correlati, infrastrutture fisiche e altre risorse o elementi correlati a una rete di comunicazione elettronica o a un servizio di comunicazione elettronica che permettono o supportano la fornitura di servizi attraverso tale rete o servizio, o sono potenzialmente in grado di farlo, compresi gli edifici o gli accessi agli edifici, il cablaggio degli edifici, le antenne, le torri e le altre strutture di supporto, le condotte, le tubazioni, i piloni, i pozzetti e gli armadi di distribuzione; 
+
+                                
+                            
+                            
+                                aaa)
+                                
+                                    RSPG: il gruppo "Politica dello spettro radio"; 
+
+                                
+                            
+                            
+                                bbb)
+                                
+                                    servizio CBS - Cell Broadcast Service: servizio che consente la comunicazione unidirezionale di brevi messaggi di testo ai dispositivi mobili presenti in una determinata area geografica coperta da una o piu' celle delle reti mobili pubbliche; 
+
+                                
+                            
+                            
+                                ccc)
+                                
+                                    servizio correlato: un servizio correlato a una rete o a un servizio di comunicazione elettronica che permette o supporta la fornitura, l'auto fornitura o la fornitura automatizzata di servizi attraverso tale rete o servizio, o e' potenzialmente in grado di farlo, e comprende i servizi di traduzione del numero o i sistemi che svolgono funzioni analoghe, i sistemi di accesso condizionato e le guide elettroniche ai programmi (electronic programme guides - EPG), nonche' altri servizi quali quelli relativi all'identita', alla posizione e alla presenza; 
+
+                                
+                            
+                            
+                                ddd)
+                                
+                                    servizio di comunicazione da macchina a macchina: servizio di comunicazione non interpersonale in cui le informazioni sono iniziate e trasferite in modo prevalentemente automatizzato tra dispositivi e applicazioni con nessuna o marginale interazione umana.
+Tale servizio puo' essere basato sul numero e non consente la realizzazione di un servizio interpersonale; 
+
+                                
+                            
+                            
+                                eee)
+                                
+                                    servizio di comunicazione elettronica ad uso privato: attivita' di installazione di reti ovvero, anche congiuntamente, esercizio di reti o servizi di comunicazione elettroniche svolti nell'interesse esclusivo del titolare e per il traffico tra terminali del titolare di un'autorizzazione generale, ovvero del beneficiario dell'attivita' di comunicazione elettronica ad uso privato; 
+
+                                
+                            
+                            
+                                fff)
+                                
+                                    servizio di comunicazione elettronica: i servizi, forniti di norma a pagamento su reti di comunicazioni elettroniche, che comprendono, con l'eccezione dei servizi che forniscono contenuti trasmessi utilizzando reti e servizi di comunicazione elettronica o che esercitano un controllo editoriale su tali contenuti, i tipi di servizi seguenti: 
+ 1) servizio di accesso a internet quale definito all'articolo 2, secondo comma, punto 2), del regolamento (UE) 2015/2120; 
+ 2) servizio di comunicazione interpersonale; 
+ 3) servizi consistenti esclusivamente o prevalentemente nella trasmissione di segnali come i servizi di trasmissione utilizzati per la fornitura di servizi da macchina a macchina e per la diffusione circolare radiotelevisiva; 
+
+                                
+                            
+                            
+                                ggg)
+                                
+                                    servizio di comunicazione interpersonale basato sul numero: un servizio di comunicazione interpersonale che si connette a risorse di numerazione assegnate pubblicamente - ossia uno o piu' numeri che figurano in un piano di numerazione nazionale o internazionale - o consente la comunicazione con uno o piu' numeri che figurano in un piano di numerazione nazionale o internazionale; 
+
+                                
+                            
+                            
+                                hhh)
+                                
+                                    servizio di comunicazione interpersonale indipendente dal numero: un servizio di comunicazione interpersonale che non si connette a risorse di numerazione assegnate pubblicamente, ossia uno o piu' numeri che figurano in un piano di numerazione nazionale o internazionale, o che non consente la comunicazione con uno o piu' numeri che figurano in un piano di numerazione nazionale o internazionale; 
+
+                                
+                            
+                            
+                                iii)
+                                
+                                    servizio di comunicazione interpersonale: un servizio di norma a pagamento che consente lo scambio diretto interpersonale e interattivo di informazioni tramite reti di comunicazione elettronica tra un numero limitato di persone, mediante il quale le persone che avviano la comunicazione o che vi partecipano ne stabiliscono il destinatario o i destinatari e non comprende i servizi che consentono le comunicazioni interpersonali e interattive esclusivamente come elemento accessorio meno importante e intrinsecamente collegato a un altro servizio; 
+
+                                
+                            
+                            
+                                iii-bis)
+                                
+                                    servizio di comunicazione interpersonale che fa uso indiretto della numerazione: un servizio di comunicazione interpersonale che utilizza come identificativo dell'utente risorse di numerazione assegnate ad un altro soggetto autorizzato; 
+
+                                
+                            
+                            
+                                lll)
+                                
+                                    servizio di comunicazione vocale: un servizio di comunicazione elettronica accessibile al pubblico che consente di effettuare e ricevere, direttamente o indirettamente, chiamate nazionali o nazionali e internazionali tramite uno o piu' numeri che figurano in un piano di numerazione nazionale o internazionale; 
+
+                                
+                            
+                            
+                                mmm)
+                                
+                                    servizio di conversazione globale: un servizio di conversazione multimediale in tempo reale che consente il trasferimento bidirezionale simmetrico in tempo reale di immagini video in movimento, nonche' comunicazioni testuali e vocali in tempo reale tra gli utenti in due o piu' localita'; 
+
+                                
+                            
+                            
+                                nnn)
+                                
+                                    servizio di emergenza: un servizio, riconosciuto come tale, che fornisce assistenza immediata e rapida in situazioni in cui esiste, in particolare, un rischio immediato per la vita o l'incolumita' fisica, la salute o la sicurezza individuale o pubblica, la proprieta' privata o pubblica o l'ambiente; 
+
+                                
+                            
+                            
+                                ooo)
+                                
+                                    sistema IT-Alert: piattaforma tecnologica con cui, in applicazione dello standard Europeo ETSI TS 102 900 V1.3.1 (2019-02) - Emergency Communications (EMTEL), European Public Warning System (EU-ALERT) using the Cell Broadcast Service, e' realizzato in Italia il sistema di allarme pubblico; 
+
+                                
+                            
+                            
+                                ppp)
+                                
+                                    servizio telefonico accessibile al pubblico: un servizio reso accessibile al pubblico che consente di effettuare e ricevere direttamente o indirettamente, chiamate nazionali o nazionali e internazionali tramite uno o piu' numeri che figurano in un piano di numerazione dei servizi di comunicazione elettronica nazionale o internazionale; 
+
+                                
+                            
+                            
+                                qqq)
+                                
+                                    LETTERA ABROGATA DAL D.LGS. 24 MARZO 2024, N. 48; 
+
+                                
+                            
+                            
+                                rrr)
+                                
+                                    servizio universale: un insieme minimo di servizi di una qualita' determinata, accessibili a tutti gli utenti a prescindere dalla loro ubicazione geografica e, tenuto conto delle condizioni nazionali specifiche, offerti ad un prezzo accessibile; 
+
+                                
+                            
+                            
+                                sss)
+                                
+                                    sicurezza delle reti e dei servizi: la capacita' delle reti e dei servizi di comunicazione elettronica di resistere, a un determinato livello di riservatezza, a qualsiasi azione che comprometta la disponibilita', l'autenticita', l'integrita' o la riservatezza di tali reti e servizi, dei dati conservati, trasmessi o trattati oppure dei relativi servizi offerti o accessibili tramite tali reti o servizi di comunicazione; 
+
+                                
+                            
+                            
+                                ttt)
+                                
+                                    sistema di accesso condizionato: qualsiasi misura tecnica, sistema di autenticazione o intesa secondo i quali l'accesso in forma intelligibile a un servizio protetto di diffusione radiotelevisiva e' subordinato a un abbonamento o a un'altra forma di autorizzazione preliminare individuale; 
+
+                                
+                            
+                            
+                                uuu)
+                                
+                                    sistema di allarme pubblico: sistema di diffusione di allarmi pubblici agli utenti finali interessati da gravi emergenze e catastrofi imminenti o in corso; 
+
+                                
+                            
+                            
+                                uuu-bis)
+                                
+                                    SSID (Service set identifier): codice che permette di identificare in maniera univoca una rete Local area network (LAN); 
+
+                                
+                            
+                            
+                                vvv)
+                                
+                                    spettro radio armonizzato: uno spettro radio per il quale sono state definite condizioni armonizzate relative alla sua disponibilita' e al suo uso efficiente mediante misure tecniche di attuazione conformemente all'articolo 4 della decisione n. 676/2002/CE; 
+
+                                
+                            
+                            
+                                zzz)
+                                
+                                    stazione radioelettrica: uno o piu' apparati radioelettrici, ivi comprese le apparecchiature accessorie, necessari in una data postazione, anche mobile o portatile, per assicurare un servizio di radiocomunicazione o di radioastronomia ovvero per svolgere un'attivita' di comunicazione elettronica ad uso privato o in gruppo chiuso di utenti. Ogni stazione, in particolare, viene classificata sulla base del servizio o dell'attivita' alle quali partecipa in maniera permanente o temporanea; 
+
+                                
+                            
+                            
+                                aaaa)
+                                
+                                    telefono pubblico a pagamento: qualsiasi apparecchio telefonico accessibile al pubblico, utilizzabile con mezzi di pagamento che possono includere monete o carte di credito o di addebito o schede prepagate, comprese le schede con codice di accesso; 
+
+                                
+                            
+                            
+                                bbbb)
+                                
+                                    uso condiviso dello spettro radio: l'accesso da parte di due o piu' utenti per l'utilizzo delle stesse bande di spettro radio nell'ambito di un accordo di condivisione definito, autorizzato sulla base di un'autorizzazione generale, di diritti d'uso individuali dello spettro radio o di una combinazione dei due, che include approcci normativi come l'accesso condiviso soggetto a licenza volto a facilitare l'uso condiviso di una banda di spettro radio, previo accordo vincolante di tutte le parti interessate, conformemente alle norme di condivisione previste nei loro diritti d'uso dello spettro radio onde da garantire a tutti gli utenti accordi di condivisione prevedibili e affidabili, e fatta salva l'applicazione del diritto della concorrenza; 
+
+                                
+                            
+                            
+                                cccc)
+                                
+                                    utente finale: un utente che non fornisce reti pubbliche di comunicazione elettronica o servizi di comunicazione elettronica accessibili al pubblico o a gruppi chiusi di utenti; 
+
+                                
+                            
+                            
+                                dddd)
+                                
+                                    utente: la persona fisica o giuridica che utilizza o chiede di utilizzare un servizio di comunicazione elettronica accessibile al pubblico, e che non fornisce reti pubbliche di comunicazione o servizi di comunicazioni elettroniche accessibili al pubblico.
+
 ## Art. 3. — Principi generali
 
 (art. 3 eecc e art. 3 Codice 2003)
+
+1.
+                        
+                            
+                                La disciplina delle reti e servizi di comunicazione elettronica di cui al presente decreto e' volta a salvaguardare, nel rispetto del principio della libera circolazione delle persone e delle cose, i diritti costituzionalmente garantiti di: 
+ 
+                            
+                            
+                                a)
+                                
+                                    liberta' di comunicazione; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    segretezza delle comunicazioni, anche attraverso il mantenimento dell'integrita' e della sicurezza delle reti di comunicazione elettronica e l'adozione di misure preventive delle interferenze; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    liberta' di iniziativa economica e suo esercizio in regime di concorrenza, garantendo un accesso al mercato delle reti e servizi di comunicazione elettronica secondo criteri di obiettivita', trasparenza, non discriminazione e proporzionalita'.
 
 La fornitura di reti e servizi di comunicazione elettronica ((ad uso pubblico nonche' l'attivita' di comunicazione elettronica ad uso privato o in gruppo chiuso di utenti)), che e' di preminente interesse generale, ((sono libere e ad esse)) si applicano le disposizioni del decreto.
 
@@ -64,9 +694,168 @@ Sono fatte salve le limitazioni derivanti da esigenze della difesa e della sicur
 
 
 
+1.
+                        
+                            
+                                L'Autorita' e il Ministero, ciascuno nell'ambito delle proprie competenze, e fermo quanto previsto all'articolo 6 comma 3, perseguono i seguenti obiettivi generali, che non sono elencati in ordine di priorita': 
+ 
+                            
+                            
+                                a)
+                                
+                                    promuovere la connettivita' e l'accesso alle reti ad altissima capacita', comprese le reti fisse, mobili e senza fili, e il loro utilizzo da parte di tutti i cittadini e le imprese; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    promuovere la concorrenza nella fornitura delle reti di comunicazione elettronica e delle risorse correlate, compresa un'efficace concorrenza basata sulle infrastrutture, e nella fornitura dei servizi di comunicazione elettronica e dei servizi correlati; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    contribuire allo sviluppo del mercato interno rimuovendo gli ostacoli residui e promuovendo condizioni convergenti per gli investimenti e la fornitura di reti di comunicazione elettronica, servizi di comunicazione elettronica, risorse correlate e servizi correlati, sviluppando approcci normativi prevedibili e favorendo l'uso effettivo, efficiente e coordinato dello spettro radio, l'innovazione aperta, la creazione e lo sviluppo di reti transeuropee, la fornitura, la disponibilita' e l'interoperabilita' dei servizi paneuropei e la connettivita' da punto a punto (end-to-end); 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    promuovere gli interessi dei cittadini, garantendo la connettivita' e l'ampia disponibilita' e utilizzo delle reti ad altissima capacita' , comprese le reti fisse, mobili e senza fili, e dei servizi di comunicazione elettronica, garantendo i massimi vantaggi in termini di scelta, prezzo e qualita' sulla base di una concorrenza efficace, preservando la sicurezza delle reti e dei servizi, garantendo un livello di protezione degli utenti finali elevato e uniforme tramite la necessaria normativa settoriale e rispondendo alle esigenze , ad esempio in termini di prezzi accessibili , di gruppi sociali specifici, in particolare utenti finali con disabilita', utenti finali anziani o utenti finali con esigenze sociali particolari, nonche' la scelta e l'accesso equivalente degli utenti finali con disabilita'.
+
+2.
+                        
+                            
+                                La disciplina delle reti e servizi ((, nonche' delle attivita',)) di comunicazione elettronica e' volta altresi' a: 
+ 
+                            
+                            
+                                a)
+                                
+                                    promuovere la semplificazione dei procedimenti amministrativi e la partecipazione ad essi dei soggetti interessati, attraverso l'adozione di procedure tempestive, non discriminatorie e trasparenti nei confronti delle imprese che forniscono reti e servizi di comunicazione elettronica; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    garantire la trasparenza, pubblicita' e tempestivita' delle procedure per la concessione dei diritti di passaggio e di installazione delle reti di comunicazione elettronica sulle proprieta' pubbliche e private; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    garantire l'osservanza degli obblighi derivanti dal regime di autorizzazione generale, sia essa per l'offerta al pubblico di reti e servizi di comunicazione elettronica ((o per regolare le attivita' di comunicazione elettronica)); 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    garantire la fornitura del servizio universale, limitando gli effetti distorsivi della concorrenza; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    promuovere lo sviluppo in regime di concorrenza delle reti e servizi di comunicazione elettronica, ivi compresi quelli a larga banda e la loro diffusione sul territorio nazionale, dando impulso alla coesione sociale ed economica anche a livello locale; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    garantire in modo flessibile l'accesso e l'interconnessione per le reti di comunicazione elettronica a larga banda, avendo riguardo alle singole tipologie di servizio, in modo da assicurare concorrenza sostenibile, innovazione e vantaggi per i consumatori; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    garantire l'esercizio senza interruzioni od interferenze delle reti di comunicazione elettronica poste a presidio dell'ordine pubblico, nonche' a salvaguardia della sicurezza ed a soccorso della vita umana (PPDR - Public Protection and Disaster Relief); 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    garantire la convergenza, la interoperabilita' tra reti e servizi di comunicazione elettronica e l'utilizzo di standard aperti; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    garantire il rispetto del principio di neutralita' tecnologica, inteso come non discriminazione tra particolari tecnologie, non imposizione dell'uso di una particolare tecnologia rispetto alle altre e possibilita' di adottare provvedimenti ragionevoli al fine di promuovere taluni servizi indipendentemente dalla tecnologia utilizzata; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    promuovere e favorire, nell'imminenza o in caso di gravi emergenze e catastrofi imminenti o in corso, attraverso le tecnologie dell'informazione e della comunicazione, l'adozione di misure di autoprotezione da parte dei cittadini; 
+
+                                
+                            
+                            
+                                m)
+                                
+                                    garantire un livello di protezione degli utenti finali elevato e uniforme tramite la necessaria normativa settoriale e rispondere alle esigenze, ad esempio in termine di prezzi accessibili, di gruppi sociali specifici, in particolare utenti finali con disabilita', utenti finali anziani o utenti finali con esigenze sociali particolari e assicurare la scelta e l'accesso equivalente degli utenti finali con disabilita'.
+
 A garanzia dei diritti di cui all'articolo 3 e per il perseguimento degli obiettivi di cui al comma 1, gli obblighi per le imprese che forniscono reti e servizi di comunicazione elettronica, disposti dal presente decreto, sono imposti secondo principi di imparzialita', obiettivita', trasparenza, non distorsione della concorrenza, non discriminazione e proporzionalita'.
 
 La disciplina della fornitura di reti e servizi di comunicazione elettronica tiene conto delle norme e misure tecniche approvate in sede comunitaria, nonche' dei piani e raccomandazioni approvati da organismi internazionali cui l'Italia aderisce in virtu' di convenzioni e trattati.
+
+5.
+                        
+                            
+                                Nel perseguire le finalita' programmatiche specificate nel presente articolo, l'autorita' nazionale di regolamentazione e le altre autorita' competenti tra l'altro: 
+ 
+                            
+                            
+                                a)
+                                
+                                    promuovono la prevedibilita' regolamentare, garantendo un approccio regolatore coerente nell'arco di opportuni periodi di revisione e attraverso la cooperazione reciproca, con il BEREC, con il RSPG e con la Commissione europea; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    garantiscono che, in circostanze analoghe, non vi siano discriminazioni nel trattamento dei fornitori di reti e servizi di comunicazione elettronica; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    applicano il diritto dell'Unione europea secondo il principio della neutralita' tecnologica, nella misura in cui cio' sia compatibile con il conseguimento degli obiettivi di cui al comma 3; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    promuovono investimenti efficienti e innovazione in infrastrutture nuove e migliorate, anche garantendo che qualsiasi obbligo di accesso tenga debito conto del rischio sostenuto dalle imprese che investono e consentendo vari accordi di cooperazione tra gli investitori e le parti che richiedono accesso onde diversificare il rischio di investimento, assicurando nel contempo la salvaguardia della concorrenza nel mercato e del principio di non discriminazione; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    tengono debito conto della varieta' delle condizioni attinenti all'infrastruttura, della concorrenza, della situazione degli utenti finali e, in particolare, dei consumatori nelle diverse aree geografiche all'interno del territorio dello Stato, ivi compresa l'infrastruttura locale gestita da persone fisiche senza scopo di lucro; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    impongono obblighi regolamentari ex ante unicamente nella misura necessaria a garantire una concorrenza effettiva e sostenibile nell'interesse dell'utente finale e li attenuano o revocano non appena sia soddisfatta tale condizione.
 
 Il Ministero e l'Autorita', anche in collaborazione con la Commissione europea, l'RSPG e il BEREC, adottano, nello svolgimento dei compiti di regolamentazione indicati nel presente decreto, tutte le ragionevoli misure necessarie e proporzionate per conseguire gli obiettivi di cui al presente articolo.
 
@@ -85,6 +874,162 @@ Il Ministero e l'Autorita', anche in collaborazione con la Commissione europea, 
 ## Art. 6. — Attribuzioni del Ministero, dell'Autorita' per le garanzie nelle comunicazioni e delle altre Amministrazioni competenti
 
 (artt. 5, 6 e 11 eecc; artt. 7 e 8 Codice 2003)
+
+1.
+                        
+                            
+                                Il Ministero esercita le competenze derivanti dal decreto legislativo 30 luglio 1999, n.300, dalla legge 16 gennaio 2003, n. 3, nonche' dal decreto-legge 16 maggio 2008, n. 85, convertito, con modificazioni, dalla legge 14 luglio 2008, n. 121. Fermo restando il puntuale riparto di competenze tra Autorita' e Ministero, di cui al presente decreto, il Ministero svolge, in particolare, i seguenti compiti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    predispone e adotta lo schema del Piano nazionale di ripartizione delle frequenze; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    effettua il coordinamento internazionale al fine di definire le frequenze pianificabili e assegnabili in Italia; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    effettua l'assegnazione delle frequenze e il rilascio dei diritti di uso, e vigila sulla loro utilizzazione; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    assegna le risorse di numerazione e il rilascio dei diritti di uso ad eccezione dell'assegnazione delle numerazioni per servizi di emergenza, e vigila sulla loro utilizzazione; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    definisce il perimetro del servizio universale e gestisce il relativo fondo di compensazione degli oneri; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    congiuntamente all'Autorita', vigila sulla effettiva erogazione e disponibilita' del servizio universale; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    effettua la mappatura geografica delle informazioni di previsione sulle installazioni di rete per come previsto dal presente decreto; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    riceve le notifiche di inizio attivita' ai fini del conseguimento delle autorizzazioni generali, disponendo in mancanza dei presupposti e dei requisiti richiesti il divieto di prosecuzione dell'attivita', acquisisce al bilancio i diritti amministrativi e i contributi dovuti. Trasmette le informazioni al BEREC e puo' definire, conformemente alle prescrizioni del presente decreto, regimi specifici per particolari categorie di reti o servizi; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    vigila sull'osservanza degli obblighi derivanti dal regime di autorizzazione generale per l'offerta al pubblico di reti e servizi di comunicazione elettronica ed irroga le sanzioni di cui al presente decreto; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    ogni altro compito conferito dal diritto nazionale nelle materie di cui al presente decreto, comprese le disposizioni nazionali di attuazione del diritto dell'Unione europea.
+
+2.
+                        
+                            
+                                L'Autorita' esercita le competenze derivanti dalla legge 14 novembre 1995, n. 481 nonche' dalla legge 31 luglio 1997, n. 249.
+Fermo restando il puntuale riparto di competenze tra Autorita' e Ministero, di cui al presente decreto, l'Autorita' svolge, in particolare, i seguenti compiti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    regolamentazione ex ante del mercato, compresa l'imposizione di obblighi in materia di accesso e interconnessione; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    risoluzione delle controversie tra le imprese ((e tra i proprietari di unita' immobiliari o il condominio e l'operatore di rete)) relative ai diritti e agli obblighi previsti dal decreto legislativo del 15 febbraio 2016, n. 33; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    pianificazione per l'assegnazione delle frequenze e pareri in materia di spettro radio, ai sensi del presente decreto; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    tutela dei diritti degli utenti finali nel settore della comunicazione elettronica mediante l'applicazione della normativa settoriale e l'irrogazione delle sanzioni di cui al presente decreto, nonche' attraverso procedure per la risoluzione delle controversie tra utenti e operatori; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    garanzia di un accesso aperto a internet ai sensi del regolamento europeo (UE) 2120/2015, mediante l'esercizio dei relativi poteri regolamentari, di vigilanza e sanzionatori; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    valutazione dell'onere indebito e calcolo del costo netto della fornitura del servizio universale; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    garanzia della portabilita' del numero tra i fornitori; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    esercizio dei poteri regolamentari, di vigilanza e sanzionatori in materia di roaming internazionale, ai sensi del regolamento europeo (UE) 2120/2015; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    raccolta di dati e altre informazioni dai partecipanti al mercato, anche al fine di contribuire ai compiti del BEREC; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    mappatura della copertura geografica delle reti a larga banda all'interno del territorio, ai sensi del presente decreto; 
+
+                                
+                            
+                            
+                                m)
+                                
+                                    ogni altro compito conferito dal diritto nazionale, comprese le disposizioni nazionali di attuazione del diritto dell'Unione europea, nonche' relativo a qualsiasi ruolo conferito al BEREC.
 
 L'Agenzia per la cybersicurezza nazionale esercita le competenze derivanti dal Titolo V del presente Codice e dal decreto-legge 14 giugno 2021, n. 82 ((convertito, con modificazioni, dalla legge 4 agosto 2021, n. 109)). L'Agenzia svolge, in particolare, i compiti relativi alla sicurezza delle reti e dei servizi di comunicazione elettronica accessibili al pubblico e alla protezione dalle minacce informatiche delle comunicazioni elettroniche, ((assicurandone la disponibilita', la confidenzialita', l'integrita' e la resilienza)).
 
@@ -113,6 +1058,38 @@ Il Presidente e i Commissari dell'Autorita' sono nominati e operano ai sensi del
 (art. 5 Codice 2003)
 
 Lo Stato, le Regioni e gli Enti locali, ferme restando le competenze legislative e regolamentari delle Regioni e delle Province autonome, operano in base al principio di leale collaborazione, anche mediante intese ed accordi. Lo Stato, le Regioni e gli Enti locali concordano, in sede di Conferenza Unificata, di cui all'articolo 8 del decreto legislativo 28 agosto 1997, n. 281, le linee generali dello sviluppo del settore, anche per l'individuazione delle necessarie risorse finanziarie. A tal fine e' istituito, nell'ambito della Conferenza Unificata, avvalendosi della propria organizzazione e senza oneri aggiuntivi per la finanza pubblica, un Comitato paritetico, con il compito di verificare il grado di attuazione delle iniziative intraprese, di acquisire e scambiare dati ed informazioni dettagliate sulla dinamica del settore e di elaborare le proposte da sottoporre alla Conferenza medesima.
+
+2.
+                        
+                            
+                                In coerenza con i principi di tutela dell'unita' economica, di tutela della concorrenza e di sussidiarieta', nell'ambito dei principi fondamentali di cui al presente decreto e comunque desumibili dall'ordinamento della comunicazione stabiliti dallo Stato, e in conformita' con quanto previsto dal diritto dell'Unione europea ed al fine di rendere piu' efficace ed efficiente l'azione dei soggetti pubblici locali e di soddisfare le esigenze dei cittadini e degli operatori economici, le Regioni e gli Enti locali, nell'ambito delle rispettive competenze e nel rispetto dei principi di cui al primo comma dell'articolo 117 della Costituzione, dettano disposizioni in materia di: 
+ 
+                            
+                            
+                                a)
+                                
+                                    individuazione di livelli avanzati di reti e servizi di comunicazione elettronica a larga banda, da offrire in aree locali predeterminate nell'ambito degli strumenti di pianificazione e di sviluppo, anche al fine di evitare fenomeni di urbanizzazione forzata ovvero di delocalizzazione di imprese; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    agevolazioni per l'acquisto di apparecchiature terminali d'utente e per la fruizione di reti e servizi di comunicazione elettronica a larga banda; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    promozione di livelli minimi di disponibilita' di reti e servizi di comunicazione elettronica a larga banda, nelle strutture pubbliche localizzate sul territorio, ivi comprese quelle sanitarie e di formazione, negli insediamenti produttivi, nelle strutture commerciali ed in quelle ricettive, turistiche e alberghiere; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    definizione di iniziative volte a fornire un sostegno alle persone anziane, persone con disabilita', ai consumatori di cui siano accertati un reddito modesto o particolari esigenze sociali ed a quelli che vivono in zone rurali o geograficamente isolate.
 
 ((
 
@@ -163,6 +1140,80 @@ Le imprese che intendono avviare le attivita' di cui al comma 1, notificano tale
 
 La notifica di cui al comma 3 e' composta dalla dichiarazione, resa dalla persona fisica titolare ovvero dal legale rappresentante della persona giuridica, o da soggetti da loro delegati, dell'intenzione di iniziare la fornitura di reti o di servizi di comunicazione elettronica, nonche' dalla presentazione delle informazioni necessarie per consentire al Ministero la tenuta di un registro dei fornitori di reti e di servizi di comunicazione elettronica. Tale dichiarazione costituisce segnalazione certificata di inizio attivita' e deve essere conforme al modello di cui all'allegato n. 14.
 
+5.
+                        
+                            
+                                Le informazioni di cui al comma 4 comprendono quanto segue: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il nome del fornitore; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    lo status giuridico, la forma giuridica e il numero di registrazione del fornitore, qualora il fornitore sia registrato nel registro pubblico delle imprese o in un altro registro pubblico analogo nell'Unione; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    l'eventuale indirizzo geografico della sede principale del fornitore nell'Unione e delle eventuali sedi secondarie in uno Stato membro; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    l'indirizzo del sito web del fornitore, se applicabile, associato alla fornitura di reti o servizi di comunicazione elettronica; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    una persona di contatto e suoi recapiti completi; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    una breve descrizione delle reti o dei servizi che si intende fornire; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    gli Stati membri interessati; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    la data presunta di inizio dell'attivita'; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    l'impegno a rispettare le norme del decreto e del regime previsto per l'autorizzazione generale; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    l'ubicazione delle stazioni radioelettriche, se applicabile, unitamente al MAC Address, al Service Set Identifier (SSID) e alla frequenza utilizzata.
+
 Al fine di consentire al BEREC la tenuta di una banca dati dell'Unione delle notifiche trasmesse, il Ministero inoltra senza indebito ritardo al BEREC, per via elettronica, ciascuna notifica ricevuta. Le notifiche trasmesse al Ministero prima del 21 dicembre 2020 sono inoltrate al BEREC entro il 21 dicembre 2021.
 
 Ai sensi dell'articolo 19 della legge 7 agosto 1990, n. 241, il Ministero, entro e non oltre sessanta giorni dalla presentazione della dichiarazione di cui al comma 3, verifica d'ufficio la sussistenza dei presupposti e dei requisiti richiesti e dispone, se del caso, con provvedimento motivato da notificare agli interessati entro il medesimo termine, il divieto di prosecuzione dell'attivita'.
@@ -181,6 +1232,80 @@ La fornitura di reti o di servizi di comunicazione elettronica diversi dai servi
 Le imprese che intendono avviare le attivita' di cui al comma 1, notificano tale intenzione al Ministero e possono esercitare i diritti che derivano dall'autorizzazione generale subito dopo la notifica, se del caso nel rispetto delle disposizioni sui diritti d'uso stabilite a norma del presente decreto, salva motivata opposizione da parte del Ministero.
 
 La notifica di cui al comma 3 e' composta dalla segnalazione, resa dalla persona fisica titolare ovvero dal legale rappresentante della persona giuridica, o da soggetti da loro delegati, dell'intenzione di iniziare la fornitura di reti o di servizi di comunicazione elettronica, nonche' dalla presentazione delle informazioni necessarie per consentire al Ministero la tenuta di un registro dei fornitori di reti e di servizi di comunicazione elettronica. Tale segnalazione costituisce segnalazione certificata di inizio attivita' e deve essere conforme al modello di cui all'allegato n. 13-bis.
+
+5.
+                        
+                            
+                                Le informazioni di cui al comma 4 comprendono quanto segue: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il nome del fornitore; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    lo status giuridico, la forma giuridica e il numero di registrazione del fornitore, qualora il fornitore sia registrato nel registro pubblico delle imprese o in un altro registro pubblico analogo nell'Unione; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    l'eventuale indirizzo geografico della sede principale del fornitore nell'Unione e delle eventuali sedi secondarie in uno Stato membro; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    l'indirizzo del sito web del fornitore, se applicabile, associato alla fornitura di reti o servizi di comunicazione elettronica; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    una persona di contatto e suoi recapiti completi; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    una breve descrizione delle reti o dei servizi che si intende fornire; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    gli Stati membri interessati; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    la data presunta di inizio dell'attivita'; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    l'impegno a rispettare le norme del decreto e del regime previsto per l'autorizzazione generale; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    l'ubicazione delle stazioni radioelettriche, e nel caso di fornitura di accesso ai sensi dell'articolo 68, il MAC Address, il Service set identifier (SSID) e la frequenza utilizzata.
 
 Al fine di consentire al BEREC la tenuta di una banca dati dell'Unione delle notifiche trasmesse, il Ministero inoltra senza indebito ritardo al BEREC, per via elettronica per il tramite dell'Autorita', ciascuna notifica ricevuta. PERIODO SOPPRESSO DAL D.LGS. 24 MARZO 2024, N. 48.
 
@@ -204,11 +1329,153 @@ Fatto salvo quanto previsto all'articolo 64, una autorizzazione generale puo' es
 
 Fatti salvi i criteri e le procedure specifiche previsti da norme di legge e di regolamento in materia di sperimentazione della radiodiffusione sonora e televisiva terrestre in tecnica digitale, la sperimentazione di reti o servizi di comunicazione elettronica e' subordinata a dichiarazione preventiva. L'impresa interessata presenta al Ministero una dichiarazione della persona fisica titolare o del legale rappresentante della persona giuridica o di soggetti da loro delegati, contenente l'intenzione di effettuare una sperimentazione di reti o servizi di comunicazione elettronica, conformemente al modello riportato nell'allegato 13. L'impresa e' abilitata ad iniziare la sperimentazione a decorrere dall'avvenuta presentazione della dichiarazione. Ai sensi dell'articolo 19 della legge 7 agosto 1990, n. 241, il Ministero, entro e non oltre trenta giorni dalla presentazione della dichiarazione, verifica d'ufficio la sussistenza dei presupposti e dei requisiti richiesti e dispone, se del caso, con provvedimento motivato da notificare agli interessati entro il medesimo termine, il divieto di prosecuzione dell'attivita'.
 
+2.
+                        
+                            
+                                La dichiarazione di cui al comma 1: 
+ 
+                            
+                            
+                                a)
+                                
+                                    non costituisce titolo per il conseguimento di una successiva autorizzazione generale per l'offerta al pubblico, a fini commerciali, della rete o servizio di comunicazione elettronica oggetto di sperimentazione; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    non riveste carattere di esclusivita' ne' in relazione al tipo di rete o servizio, ne' in relazione all'area o alla tipologia di utenza interessate; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    puo' prevedere, a causa della limitatezza delle risorse di spettro radio disponibili per le reti o servizi di comunicazione elettronica, l'espletamento della sperimentazione in regime di condivisione di frequenze.
+
+3.
+                        
+                            
+                                La dichiarazione di cui al comma 1 deve indicare: 
+ 
+                            
+                            
+                                a)
+                                
+                                    l'eventuale richiesta di concessione di diritti individuali di uso delle frequenze radio e dei numeri necessari; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la durata della sperimentazione, limitata nel tempo e comunque non superiore a sei mesi, a partire dal giorno indicato per l'avvio della stessa; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    l'estensione dell'area operativa, le modalita' di esercizio, la tipologia, la consistenza dell'utenza ammessa che, comunque, non puo' superare le tremila unita', e il carattere sperimentale del servizio; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    l'eventuale previsione di oneri economici per gli utenti che aderiscono alla sperimentazione; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    l'obbligo di comunicare all'utente la natura sperimentale del servizio e l'eventuale sua qualita' ridotta; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    l'obbligo di comunicare al Ministero e, ove siano interessate reti o e servizi pubblici, all'Autorita' i risultati della sperimentazione al termine della stessa.
+
 Se la sperimentazione prevede la concessione di diritti individuali di uso delle frequenze radio o dei numeri, il Ministero li concede, entro due settimane dal ricevimento della dichiarazione nel caso di numeri assegnati per scopi specifici nell'ambito del piano nazionale di numerazione, ed entro quattro settimane nel caso delle frequenze radio assegnate per scopi specifici nell'ambito del piano nazionale di ripartizione delle frequenze. Se la dichiarazione risulta incompleta, il Ministero, entro i termini di cui al primo periodo, invita l'impresa interessata a integrarla. I termini vengono sospesi fino al recepimento delle integrazioni che debbono pervenire al Ministero entro e non oltre dieci giorni dalla richiesta. Il mancato ricevimento nei termini delle integrazioni richieste costituisce rinuncia alla sperimentazione.
 
 Per il rinnovo della sperimentazione si applica la procedura di cui al comma 1 e la presentazione della richiesta deve avvenire entro sessanta giorni antecedenti la data di scadenza.
 
 Fatti salvi i criteri e le procedure specifiche previsti da norme di legge e di regolamento in materia di sperimentazione della radiodiffusione sonora e televisiva terrestre in tecnica digitale, la sperimentazione di reti o servizi di comunicazione elettronica e' subordinata a ((segnalazione)) preventiva. L'impresa interessata presenta al Ministero una ((segnalazione)) della persona fisica titolare o del legale rappresentante della persona giuridica o di soggetti da loro delegati, contenente l'intenzione di effettuare una sperimentazione di reti o servizi di comunicazione elettronica, conformemente al modello riportato nell'allegato 13. L'impresa e' abilitata ad iniziare la sperimentazione a decorrere dall'avvenuta presentazione della ((segnalazione)). Ai sensi dell'articolo 19 della legge 7 agosto 1990, n. 241, il Ministero, entro e non oltre trenta giorni dalla presentazione della ((segnalazione)), verifica d'ufficio la sussistenza dei presupposti e dei requisiti richiesti e dispone, se del caso, con provvedimento motivato da notificare agli interessati entro il medesimo termine, il divieto di prosecuzione dell'attivita'.
+
+2.
+                        
+                            
+                                La ((segnalazione)) di cui al comma 1: 
+ 
+                            
+                            
+                                a)
+                                
+                                    non costituisce titolo per il conseguimento di una successiva autorizzazione generale per l'offerta al pubblico, a fini commerciali, della rete o servizio di comunicazione elettronica oggetto di sperimentazione; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    non riveste carattere di esclusivita' ne' in relazione al tipo di rete o servizio, ne' in relazione all'area o alla tipologia di utenza interessate; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    puo' prevedere, a causa della limitatezza delle risorse di spettro radio disponibili per le reti o servizi di comunicazione elettronica, l'espletamento della sperimentazione in regime di condivisione di frequenze.
+
+3.
+                        
+                            
+                                La ((segnalazione)) di cui al comma 1 deve indicare: 
+ 
+                            
+                            
+                                a)
+                                
+                                    l'eventuale richiesta di concessione di diritti individuali ((d'uso)) delle frequenze radio e dei numeri necessari; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la durata della sperimentazione, limitata nel tempo e comunque non superiore a sei mesi, a partire dal giorno indicato per l'avvio della stessa; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    l'estensione dell'area operativa, le modalita' di esercizio, la tipologia, la consistenza dell'utenza ammessa che, comunque, non puo' superare le tremila unita', e il carattere sperimentale del servizio; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    l'eventuale previsione di oneri economici per gli utenti che aderiscono alla sperimentazione; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    l'obbligo di comunicare all'utente la natura sperimentale del servizio e l'eventuale sua qualita' ridotta; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    l'obbligo di comunicare al Ministero e, ove siano interessate reti o e servizi pubblici, all'Autorita' i risultati della sperimentazione al termine della stessa.
 
 Se la sperimentazione ((comprende l'attribuzione di diritti individuali d'uso, con l'assegnazione delle frequenze radio o di risorse di numerazione,)) il Ministero li concede, entro ((quattro settimane)) dal ricevimento della ((segnalazione)) nel caso di numeri assegnati per scopi specifici nell'ambito del piano nazionale di numerazione, ed entro ((otto settimane)) nel caso delle frequenze radio assegnate per scopi specifici nell'ambito del piano nazionale di ripartizione delle frequenze. Se la ((segnalazione)) risulta incompleta, il Ministero, entro i termini di cui al primo periodo, invita l'impresa interessata a integrarla. I termini vengono sospesi fino al recepimento delle integrazioni che debbono pervenire al Ministero entro e non oltre dieci giorni dalla richiesta. Il mancato ricevimento nei termini delle integrazioni richieste costituisce rinuncia alla sperimentazione.
 
@@ -275,6 +1542,63 @@ Su richiesta di un operatore, il Ministero, allo scopo di agevolare l'esercizio 
 
 (ex art. 15 ((eecc)), art. 26 Codice 2003)
 
+1.
+                        
+                            
+                                Le imprese soggette all'autorizzazione generale ai sensi dell'articolo 11 hanno il diritto di: 
+ 
+                            
+                            
+                                a)
+                                
+                                    fornire reti e servizi di comunicazione elettronica al pubblico; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    che si esamini la loro domanda per la concessione dei necessari diritti di installare strutture in conformita' dell'articolo 43; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    utilizzare, fatti salvi gli articoli 13, 59 e 67, lo spettro radio in relazione alle reti e ai servizi di comunicazione elettronica; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    che si esamini la loro domanda per la concessione dei necessari diritti d'uso delle risorse di numerazione conformemente all'articolo 98-septies; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    fornire l'accesso a una rete pubblica di comunicazione elettronica attraverso le RLAN ((di cui all'articolo 68)).
+
+2.
+                        
+                            
+                                Allorche' tali imprese intendano fornire al pubblico reti o servizi di comunicazione elettronica, l'autorizzazione generale da' loro inoltre il diritto di: 
+ 
+                            
+                            
+                                a)
+                                
+                                    negoziare l'interconnessione con altri fornitori di reti e di servizi di comunicazione elettronica accessibili al pubblico titolare di un'autorizzazione generale, e ove applicabile ottenere l'accesso o l'interconnessione alle reti in qualunque luogo dell'Unione europea, alle condizioni ((del presente capo)); 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    poter essere designate quali fornitori di vari elementi del servizio universale o in diverse parti del territorio nazionale conformemente agli articoli 96 e 97.
+
 ## Art. 16. — (( (Diritti amministrativi) ))
 
 
@@ -294,6 +1618,24 @@ Su richiesta di un operatore, il Ministero, allo scopo di agevolare l'esercizio 
 ## Art. 17. — Separazione contabile e rendiconti finanziari
 
 (ex art. 17 eecc, artt. 16 e 48 Codice 2003)
+
+1.
+                        
+                            
+                                Il Ministero o l'Autorita', ciascuno per quanto di propria competenza prescrivono alle imprese che forniscono reti pubbliche di comunicazione elettronica o servizi di comunicazione elettronica accessibili al pubblico e godono di diritti speciali o esclusivi per la fornitura di servizi in altri settori nello stesso Stato membro o in un altro Stato membro: 
+ 
+                            
+                            
+                                a)
+                                
+                                    di tenere una contabilita' separata per le attivita' attinenti alla fornitura di reti o servizi di comunicazione elettronica nella misura che sarebbe richiesta se dette attivita' fossero svolte da soggetti con personalita' giuridica distinta, onde individuare tutti i fattori di costo e ricavo, congiuntamente alla base del loro calcolo e ai metodi dettagliati di imputazione utilizzati, relativi a tali attivita', compresa una ripartizione suddivisa per voci delle immobilizzazioni e dei costi strutturali; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    di provvedere, in alternativa, a una separazione strutturale per le attivita' attinenti alla fornitura di reti o servizi di comunicazione elettronica.
 
 Le prescrizioni di cui al ((comma 1)) non si applicano alle imprese il cui fatturato annuo sia inferiore a 50 milioni di euro nelle attivita' attinenti alla fornitura di reti o servizi di comunicazione elettronica nell'Unione.
 
@@ -349,6 +1691,80 @@ Il Ministero e l'Autorita' pubblicano, entro e non oltre novanta giorni dalla da
 (art. 21 eecc e art. 33 codice del 2003) )) 
  
  ((
+
+1.
+                        
+                            
+                                Fatte salve eventuali informazioni richieste a norma dell'articolo 20 e fatti salvi gli obblighi di informazione e segnalazione periodica stabiliti dalla normativa nazionale diversa dall'autorizzazione generale, il Ministero e l'Autorita' non possono imporre alle imprese di fornire informazioni in relazione all'autorizzazione generale, ai diritti d'uso o agli obblighi specifici di cui all'articolo 13 comma 2, che non siano proporzionate e oggettivamente giustificate, in particolare: 
+ 
+                            
+                            
+                                a)
+                                
+                                    per verificare, sistematicamente o caso per caso, l'osservanza della condizione 1 della parte A, delle condizioni 2 e 6 della parte D e delle condizioni 2 e 7 della parte E dell'allegato 1 e l'osservanza degli obblighi specificati all'articolo 13 comma 2; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    per verificare caso per caso l'osservanza delle condizioni specificate nell'allegato 1 a seguito di denuncia o in caso di verifica avviata di propria iniziativa dal Ministero e dall'Autorita' nell'ambito delle rispettive competenze, o quando il Ministero o l'Autorita' abbiano comunque motivo di ritenere che una data condizione non sia stata rispettata; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    per predisporre procedure e valutare le richieste di concessione dei diritti d'uso; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    per pubblicare prospetti comparativi sulla qualita' e sui prezzi dei servizi a vantaggio dei consumatori; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    per compilare statistiche, relazioni o studi chiaramente definiti; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    per effettuare analisi del mercato ai sensi del presente decreto, compresi i dati sui mercati a valle o al dettaglio associati o connessi a quelli che sono oggetto dell'analisi di mercato; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    per salvaguardare l'uso efficiente e garantire la gestione efficace dello spettro radio e delle risorse di numerazione; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    per valutare sviluppi futuri a livello di reti e servizi che potrebbero avere ripercussioni sui servizi all'ingrosso resi disponibili ai concorrenti, sulla copertura territoriale, sulla connettivita' disponibile per gli utenti finali o sulla designazione di aree ai sensi dell'articolo 22; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    per realizzare mappature geografiche; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    per rispondere a richieste motivate di informazioni da parte del BEREC.
 
 Nessuna delle informazioni di cui alle lettere a) e b), e da d) a l) del comma 1 e' richiesta prima dell'accesso al mercato ne' come condizione necessaria per l'accesso al mercato.
 
@@ -602,6 +2018,24 @@ L'Autorita' contribuisce allo sviluppo del mercato interno collaborando con le A
 
 Salvo che sia diversamente previsto nelle raccomandazioni o nelle linee guida adottate a norma dell'articolo 34 della direttiva (UE) 2018/1972, al termine della consultazione pubblica, se richiesta ai sensi dell'articolo 23, l'Autorita', qualora intenda adottare una misura che rientri nell'ambito di applicazione degli articoli 72, 75, 78, 79 o 93 e influenzi gli scambi tra Stati membri, rende accessibile, fornendone apposita documentazione, il progetto di misura, adeguatamente motivato, contemporaneamente alla Commissione, al BEREC e alle Autorita' di regolamentazione di altri Stati membri, nel rispetto dell'articolo 20, comma 3. L'Autorita' non puo' adottare la misura prima che sia decorso il termine di un mese dalla predetta informativa.
 
+4.
+                        
+                            
+                                Il progetto di misura di cui al comma 3 non puo' essere adottato per ulteriori due mesi: 
+ 
+                            
+                            
+                                a)
+                                
+                                    se tale misura mira a identificare un mercato rilevante differente da quelli previsti dalla raccomandazione della Commissione europea di cui all'art. 64, paragrafo 1, della direttiva (UE) 2018/1972 oppure a designare un'impresa come detentrice, individualmente o congiuntamente ad altre, di un significativo potere di mercato, ai sensi dell'articolo 78 comma 3 o 4; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    se influenza gli scambi commerciali tra Stati membri e la Commissione europea ha indicato all'Autorita' che il progetto di misura possa creare una barriera al mercato interno o dubita seriamente della sua compatibilita' con il diritto dell'Unione e in particolare con gli obiettivi di cui all'articolo 4.
+
 Qualora la Commissione adotti una decisione conformemente all'articolo 32, paragrafo 6, comma 1, lettera a) della direttiva (UE) 2018/1972, l'Autorita' modifica o ritira il progetto di misura entro sei mesi dalla predetta decisione. Se il progetto di misura e' modificato, l'Autorita' avvia una consultazione pubblica secondo le procedure di cui all'articolo 23 e notifica il progetto di misura modificato alla Commissione europea conformemente al comma 3 del presente articolo.
 
 L'Autorita' tiene nella massima considerazione le osservazioni delle Autorita' di regolamentazione degli altri Stati membri, della Commissione europea e del BEREC e, salvo nei casi di cui al comma 4 del presente articolo e al paragrafo 6, lettera a), dell'articolo 32 della direttiva (UE) 2018/1972, puo' adottare il provvedimento risultante; in tal caso lo comunica alla Commissione europea.
@@ -634,6 +2068,31 @@ L'Autorita' puo' ritirare un progetto di misura in qualsiasi momento.
 
 Quando intende stabilire una procedura di selezione conformemente all'articolo 67 commi 2 e 3, n relazione allo spettro radio armonizzato per cui sono state definite condizioni armonizzate mediante misure tecniche di attuazione adottate in conformita' alla decisione n. 676/2002/CE al fine di consentirne l'uso per le reti e i servizi a banda larga senza fili, l'Autorita' e il Ministero, ciascuno per la parte di propria competenza, informano, secondo quanto previsto dall'articolo 23, il RSPG dei progetti di misura che rientrano nell'ambito della procedura di selezione competitiva o comparativa ai sensi dell'articolo 67 commi 2 e 3 e indicano se e quando richiedere a tale gruppo di convocare un forum di valutazione tra pari secondo le modalita' stabilite dall'articolo 35, paragrafo 1, comma 2, della direttiva (UE) 2018/1972, al fine di discutere e scambiare opinioni sui progetti di misura trasmessi e di agevolare lo scambio di esperienze e di migliori prassi relativamente a tali progetti di misura.
 
+2.
+                        
+                            
+                                Nel corso del forum di valutazione tra pari, l'Autorita' fornisce una spiegazione sulle modalita' con cui il progetto di misura: 
+ 
+                            
+                            
+                                a)
+                                
+                                    promuove lo sviluppo del mercato interno, la fornitura transfrontaliera di servizi e la concorrenza, massimizza i benefici per i consumatori e consente il conseguimento complessivo degli obiettivi di cui agli articoli 4, 58, 59 e 60 del presente decreto e alle decisioni n. 676/2002/CE e n. 243/2012/UE; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    garantisce un uso effettivo ed efficiente dello spettro radio; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    garantisce condizioni di investimento stabili e prevedibili per gli utilizzatori dello spettro radio esistenti e potenziali, quando sono installate reti per la fornitura di servizi di comunicazione elettronica basati sullo spettro radio.
+
 ## Art. 36. — ( (Assegnazione armonizzata delle frequenze radio
 
 (art. 36 eecc; art. 30 cod. 2003) )) 
@@ -652,6 +2111,39 @@ Il D.L. 16 luglio 2020, n. 76, come modificato dall'avviso di rettifica in G.U. 
 (ex art. 37 eecc) )) 
  
  ((
+
+1.
+                        
+                            
+                                Il Ministero e l'Autorita' per le attivita' di competenza possono cooperare con le Autorita' competenti di uno o piu' Stati membri tra di loro e con il RSPG, tenendo conto dell'eventuale interesse espresso dai partecipanti al mercato, stabilendo congiuntamente gli aspetti comuni di un processo di autorizzazione e, se del caso, svolgendo congiuntamente anche il processo di selezione per la concessione dei diritti d'uso individuali dello spettro radio.
+Nel definire il processo di autorizzazione congiunto, il Ministero e l'Autorita', nell'ambito delle rispettive competenze, possono tener conto dei seguenti criteri: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il processo di autorizzazione nazionale e' avviato e attuato secondo un calendario concordato con le rispettive autorita' competenti degli altri Stati membri interessati; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il processo prevede, se del caso, condizioni e procedure comuni per la selezione e la concessione dei diritti individuali d'uso dello spettro radio tra gli Stati membri interessati; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il processo prevede, se del caso, condizioni comuni o comparabili da associare ai diritti d'uso individuali dello spettro radio tra gli Stati membri interessati, tra l'altro consentendo agli utilizzatori di ricevere in assegnazione blocchi di spettro radio analoghi; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    il processo e' aperto agli altri Stati membri in qualsiasi momento fino alla sua conclusione.
 
 Qualora il Ministero e l'Autorita', per le rispettive competenze, nonostante l'interesse espresso dai partecipanti al mercato, non agiscano congiuntamente con le autorita' competenti degli altri Stati membri interessati, informano detti partecipanti al mercato in merito alle ragioni della loro decisione.
 
@@ -715,6 +2207,31 @@ Per i contributi relativi alla concessione dei diritti per l'installazione di st
 
 I contributi di cui al presente articolo sono trasparenti, obiettivamente giustificati, proporzionati allo scopo, non discriminatori e tengono conto degli obiettivi generali di cui al presente decreto.
 
+5.
+                        
+                            
+                                Per quanto concerne i diritti d'uso dello spettro radio, il Ministero e l'Autorita', nell'ambito delle rispettive competenze, mirano a garantire che i contributi applicabili siano fissati a un livello che assicuri un'assegnazione e un uso dello spettro radio efficienti, anche: 
+ 
+                            
+                            
+                                a)
+                                
+                                    definendo prezzi di riserva quali contributi minimi per i diritti d'uso dello spettro radio, tenendo conto del valore di tali diritti nei loro possibili usi alternativi; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    tenendo conto dei costi derivanti da condizioni associate a tali diritti; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    applicando, al meglio possibile, modalita' di pagamento legate all'effettiva disponibilita' per l'uso dello spettro radio.
+
 I contributi per la concessione di diritti di uso dello spettro radio per le imprese titolari di autorizzazione generale per l'attivita' di operatore di rete televisiva in tecnologia digitale terrestre sono fissati dal Ministero sulla base dei criteri stabiliti dall'articolo 1, commi da 172 a 176, della legge 28 dicembre 2015, n. 208.
 
 ## - - ((Capo II)) (( Accesso al suolo (Disposizioni relative a reti ed impianti) ))
@@ -722,6 +2239,24 @@ I contributi per la concessione di diritti di uso dello spettro radio per le imp
 ## Art. 43. — Infrastrutture di comunicazione elettronica e diritti di passaggio)  (ex art. 43 eecc e art. 86 Codice 2003
 
 
+
+1.
+                        
+                            
+                                Le autorita' competenti alla gestione del suolo pubblico adottano senza indugio e, in ogni caso, entro ((sessanta giorni)) dalla richiesta, salvo per i casi di espropriazione, le occorrenti decisioni e rispettano procedure semplici, efficaci, trasparenti, pubbliche e non discriminatorie, ai sensi degli articoli 44, 49 e 50, nell'esaminare le domande per la concessione del diritto di installare infrastrutture: 
+ 
+                            
+                            
+                                a)
+                                
+                                    su proprieta' pubbliche o private, compresi i parchi e le riserve nazionali o regionali, nonche' i territori di protezione esterna dei parchi, ovvero al di sopra o al di sotto di esse, ad un operatore autorizzato a fornire reti pubbliche di comunicazione elettronica; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    su proprieta' pubbliche ovvero al di sopra o al di sotto di esse, ad un operatore autorizzato a fornire reti di comunicazione elettronica diverse da quelle fornite al pubblico.
 
 Le autorita' competenti alla gestione del suolo pubblico rispettano i principi di trasparenza e non discriminazione nel prevedere condizioni per l'esercizio di tali diritti. Le procedure possono differire nei casi di cui alle lettere a) e b) in funzione del fatto che il richiedente fornisca reti pubbliche di comunicazione elettronica o meno.
 
@@ -880,6 +2415,24 @@ Con riferimento alle procedure di cui agli articoli da 44 a 49 del presente decr
  
  
  ((
+
+1.
+                        
+                            
+                                Se un operatore ha esercitato il diritto, in forza del diritto nazionale, di installare strutture su proprieta' pubbliche o private ovvero al di sopra o al di sotto di esse, oppure si e' avvalso di una procedura per l'espropriazione o per l'uso di una proprieta', le autorita' competenti hanno la facolta' di imporre la coubicazione o la condivisione degli elementi della rete e delle risorse correlate installati su tale base, al fine di tutelare l'ambiente, la salute pubblica e la pubblica sicurezza o di conseguire gli obiettivi della pianificazione urbana e rurale. La coubicazione o la condivisione degli elementi della rete e delle strutture installati e la condivisione di proprieta' possono essere imposte solo previa consultazione pubblica di durata adeguata, durante la quale tutte le parti interessate abbiano l'opportunita' di esprimere i loro punti di vista, e solo nelle aree specifiche in cui detta condivisione sia considerata necessaria ai fini del perseguimento degli obiettivi del presente comma. Le autorita' competenti possono imporre la condivisione di tali strutture o proprieta', ivi compresi terreni, edifici, accessi a edifici, cablaggio degli edifici, piloni, antenne, torri e altre strutture di supporto, condotti, guaine, pozzetti, armadi di distribuzione o provvedimenti atti ad agevolare il coordinamento dei lavori pubblici. L'Autorita' svolge i seguenti compiti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    coordina il processo previsto dal presente articolo anche mediante regolamenti o linee guida; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    stabilisce norme sulla ripartizione dei costi della condivisione delle strutture o delle proprieta'.
 
 Qualora l'installazione delle infrastrutture di comunicazione elettronica comporti l'effettuazione di scavi, gli operatori interessati devono provvedere alla comunicazione del progetto in formato elettronico al SINFI, ai sensi di quanto stabilito dagli articoli 4 e 6 del decreto legislativo 15 febbraio 2016, n. 33.
 
@@ -1041,6 +2594,31 @@ E' obbligatorio per i soggetti autorizzati all'impianto ed esercizio di reti e s
 
 Quando si rilevano eventi che possono incidere sulla sicurezza dei sistemi di informazione, gli operatori delle comunicazioni elettroniche informano immediatamente l'Agenzia per la cyber-sicurezza nazionale. L'Agenzia, quando sia a conoscenza di una minaccia che potrebbe incidere sulla sicurezza dei sistemi di informazione, al fine di prevenire la minaccia, ordina agli operatori di comunicazioni elettroniche che hanno predisposto gli strumenti previsti dal comma 4, l'attivazione degli strumenti di contrasto utilizzando, se del caso, marcatori tecnici indicati dalla stessa.
 
+6.
+                        
+                            
+                                Il canone annuo forfettario per le prestazioni obbligatorie di cui ai commi da 1 a 4 e' individuato con decreto del Ministro della giustizia e del ((Ministro delle imprese e del made in Italy)), di concerto con il Ministro dell'economia e delle finanze. Il decreto: 
+ 
+                            
+                            
+                                a)
+                                
+                                    disciplina le tipologie di prestazioni obbligatorie e ne determina le tariffe, tenendo conto dell'evoluzione dei costi e dei servizi, in modo da conseguire un risparmio di spesa di almeno il 50 per cento rispetto alle tariffe praticate. Nella tariffa sono ricompresi i costi per tutti i servizi contemporaneamente attivati o utilizzati da ogni identita' di rete; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    individua i soggetti tenuti alle prestazioni obbligatorie di intercettazione, anche tra i fornitori di servizi, le cui infrastrutture consentono l'accesso alla rete o la distribuzione dei contenuti informativi o comunicativi, e coloro che a qualunque titolo forniscono servizi di comunicazione elettronica o applicazioni, anche se utilizzabili attraverso reti di accesso o trasporto non proprie; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    definisce gli obblighi dei soggetti tenuti alle prestazioni obbligatorie e le modalita' di esecuzione delle stesse, tra cui l'osservanza di procedure informatiche omogenee nella trasmissione e gestione delle comunicazioni di natura amministrativa, anche con riguardo alle fasi preliminari al pagamento delle medesime prestazioni.
+
 In caso di inosservanza degli obblighi contenuti nel decreto di cui al comma 6, si applica l'articolo 32, commi 2, 3, 4, 5 e 6 e l'articolo 30, comma 16.
 
 Ai fini dell'erogazione delle prestazioni di cui al comma 6 gli operatori hanno l'obbligo di negoziare tra loro le modalita' di interconnessione, allo scopo di garantire la fornitura e l'interoperabilita' delle prestazioni stesse. Il Ministero puo' intervenire se necessario di propria iniziativa ovvero, in mancanza di accordo tra gli operatori, su richiesta di uno di essi.
@@ -1055,9 +2633,187 @@ Nelle more dell'adozione del decreto di cui al comma 6 continuano a trovare appl
 
 Tenendo debito conto del fatto che lo spettro radio e' un bene pubblico dotato di un importante valore sociale, culturale ed economico, il Ministero e l'Autorita', nell'ambito delle rispettive competenze, provvedono alla sua gestione efficace per le reti e i servizi di comunicazione elettronica nel territorio nazionale ai sensi degli articoli 3 e 4. La predisposizione dei piani di ripartizione, a cura del Ministero, e dei piani di assegnazione dello spettro radio per sistemi di comunicazione elettronica, a cura dell'Autorita', e' fondata su criteri obiettivi, trasparenti, pro-concorrenziali, non discriminatori e proporzionati. Il rilascio di autorizzazioni generali per l'uso dello spettro radio o di diritti d'uso individuali in materia, a cura del Ministero, e' fondato su criteri obiettivi, trasparenti, pro-concorrenziali, non discriminatori e proporzionati. Nell'applicare il presente articolo il Ministero e l'Autorita' rispettano gli accordi internazionali pertinenti, fra cui il regolamento delle radiocomunicazioni dell'UIT e altri accordi adottati nel quadro dell'UIT applicabili allo spettro radio, tengono nel massimo conto la pertinente normativa CEPT e possono tener conto di considerazioni di interesse pubblico.
 
+2.
+                        
+                            
+                                Il Ministero e l'Autorita', nell'ambito delle rispettive competenze, promuovono l'armonizzazione dell'uso dello spettro radio per le reti e i servizi di comunicazione elettronica nel territorio dell'Unione europea in modo coerente con l'esigenza di garantirne un utilizzo effettivo ed efficiente e di perseguire benefici per i consumatori, quali concorrenza, economie di scala e interoperabilita' delle reti e dei servizi. Nel fare cio' agiscono ai sensi dell'articolo 4 e della decisione n. 676/2002/CE, tra l'altro: 
+u' 
+ 
+                            
+                            
+                                a)
+                                
+                                    perseguendo la copertura della banda larga senza fili sul territorio nazionale e della popolazione ad alta qualita' e alta velocita', nonche' la copertura delle principali direttrici di trasporto nazionali ed europee, fra cui la rete transeuropea di trasporto, di cui al regolamento (UE) n. 1315/2013 del Parlamento europeo e del Consiglio; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    agevolando il rapido sviluppo nell'Unione di nuove tecnologie e applicazioni delle comunicazioni senza fili, anche, ove appropriato, mediante un approccio intersettoriale; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    assicurando la prevedibilita' e la coerenza in materia di rilascio, rinnovo, modifica, restrizione e revoca dei diritti d'uso dello spettro radio, al fine di promuovere gli investimenti a lungo termine; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    assicurando la prevenzione delle interferenze dannose transfrontaliere o nazionali in conformita', rispettivamente, agli articoli 29 e 59 e adottando opportuni provvedimenti preventivi e correttivi a tal fine; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    promuovendo l'uso condiviso dello spettro radio per impieghi simili o diversi dello spettro radio conformemente al diritto della concorrenza; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    applicando il sistema di autorizzazione piu' adeguato e meno oneroso possibile in conformita' all'articolo 59, in modo da massimizzare la flessibilita', la condivisione e l'efficienza nell'uso dello spettro radio; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    applicando norme in materia di rilascio, trasferimento, rinnovo, modifica e revoca dei diritti d'uso dello spettro radio che siano stabilite in modo chiaro e trasparente, onde garantire la certezza, la coerenza e la prevedibilita' della regolamentazione; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    perseguendo la coerenza e la prevedibilita', in tutta l'Unione europea, delle modalita' con cui l'uso dello spettro radio e' autorizzato relativamente alla tutela della salute pubblica, tenendo conto della raccomandazione 1999/519/CE; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    tenendo nella massima considerazione la raccomandazione adottata dalla Commissione europea ai sensi dell'articolo 45, paragrafo 2, commi 2 e 3 della direttiva (UE) 2018/1972, anche sulla base del parere eventualmente richiesto al RSPG, al fine di promuovere un approccio coerente nell'Unione relativamente ai regimi di autorizzazione per l'uso della banda.
+
+3.
+                        
+                            
+                                In caso di mancanza di domanda del mercato a livello nazionale o regionale per l'uso di una banda nello spettro armonizzato, il Ministero e l'Autorita', nell'ambito delle rispettive competenze, possono consentire un uso alternativo integrale o parziale di tale banda, compreso l'uso esistente, conformemente ai commi 5, 6, 7 e 8, a condizione che: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la constatazione della mancanza di domanda del mercato per l'uso di tale banda si basi su una consultazione pubblica in conformita' dell'articolo 23, ivi compresa una valutazione prospettica della domanda del mercato; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    tale uso alternativo non impedisca od ostacoli la disponibilita' o l'uso di tale banda in altri Stati membri; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    siano tenuti in debito conto la disponibilita' o l'uso a lungo termine di tale banda nell'Unione e le economie di scala per le apparecchiature risultanti dall'uso dello spettro radio armonizzato nell'Unione.
+
 L'eventuale decisione di consentire l'uso alternativo in via eccezionale e' soggetta a un riesame periodico ed e', in ogni caso, esaminata tempestivamente su richiesta debitamente giustificata di un potenziale utente al Ministero per l'uso della banda conformemente alla misura tecnica di attuazione. Il Ministero comunica alla Commissione europea e agli altri Stati membri le decisioni prese, insieme con le relative motivazioni, e i risultati degli eventuali riesami.
 
+5.
+                        
+                            
+                                Fatto salvo quanto previsto dal comma 2, il Ministero e l'Autorita', nell'ambito delle rispettive competenze, assicurano che tutti i tipi di tecnologie usate per la fornitura di reti o servizi di comunicazione elettronica possano essere utilizzati nello spettro radio dichiarato disponibile per i servizi di comunicazione elettronica nel Piano nazionale di ripartizione delle frequenze e nei piani di assegnazione a norma del diritto dell'Unione. E' fatta salva la possibilita' di prevedere limitazioni proporzionate e non discriminatorie dei tipi di rete radio o di tecnologia di accesso senza fili o rete radiofonica utilizzati per servizi di comunicazione elettronica, ove cio' sia necessario al fine di: 
+ 
+                            
+                            
+                                a)
+                                
+                                    evitare interferenze dannose; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    proteggere la salute pubblica dai campi elettromagnetici tenendo nella massima considerazione la raccomandazione 1999/519/CE; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    assicurare la qualita' tecnica del servizio; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    assicurare la massima condivisione dello spettro radio; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    salvaguardare l'uso efficiente dello spettro; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    garantire il conseguimento di un obiettivo di interesse generale conformemente al comma 6.
+
 Fatto salvo quanto previsto dal comma 2, il Ministero e l'Autorita', nell'ambito delle rispettive competenze, assicurano che tutti i tipi di servizi di comunicazione elettronica possano essere forniti nello spettro dichiarato disponibile per i servizi di comunicazione elettronica nel piano nazionale di ripartizione delle frequenze e nei piani di assegnazione a norma del diritto dell'Unione. E' fatta salva la possibilita' di prevedere limitazioni proporzionate e non discriminatorie dei tipi di servizi di comunicazione elettronica che e' possibile fornire, anche, se necessario, al fine di soddisfare un requisito dei regolamenti delle radiocomunicazioni dell'UIT.
+
+7.
+                        
+                            
+                                Le misure che impongono la fornitura di un servizio di comunicazione elettronica in una banda specifica disponibile per i servizi di comunicazione elettronica sono giustificate per garantire il conseguimento di un obiettivo di interesse generale conformemente al diritto dell'Unione, incluso, ma a titolo non esaustivo: 
+ 
+                            
+                            
+                                a)
+                                
+                                    garantire la sicurezza della vita; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    promuovere e favorire, nell'imminenza o in caso di gravi emergenze e catastrofi imminenti o in corso, attraverso le tecnologie dell'informazione e della comunicazione, l'adozione di misure di autoprotezione da parte dei cittadini; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    promuovere la coesione sociale, regionale o territoriale; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    evitare un uso inefficiente dello spettro radio; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    promuovere la diversita' culturale e linguistica e il pluralismo dei media, ad esempio la fornitura di servizi di diffusione televisiva e radiofonica.
 
 Una misura che vieti la fornitura di qualsiasi altro servizio di comunicazione elettronica in una banda specifica puo' essere prevista esclusivamente ove sia giustificata dalla necessita' di proteggere i servizi di sicurezza della vita. In via eccezionale, il Ministero e l'Autorita', nell'ambito delle rispettive competenze, possono anche estendere tale misura al fine di conseguire altri obiettivi di interesse generale quali stabiliti dal Ministero e dall'Autorita', nell'ambito delle rispettive competenze, a norma del diritto dell'Unione europea.
 
@@ -1071,6 +2827,52 @@ I commi 5, 6, 7 e 8 si applicano allo spettro radio attribuito ai servizi di com
  
  ((
 
+1.
+                        
+                            
+                                Il Ministero e l'Autorita', nell'ambito delle rispettive competenze, facilitano l'uso dello spettro radio, compreso l'uso condiviso, nel regime delle autorizzazioni generali e limitano la concessione di diritti d'uso individuali dello spettro radio alle situazioni in cui tali diritti sono necessari per massimizzare l'uso efficiente alla luce della domanda e tenendo conto dei criteri di cui al comma 3. In tutti gli altri casi, il Ministero, sentita l'Autorita' per gli eventuali profili di competenza, stabilisce le condizioni associate all'uso dello spettro radio in un'autorizzazione generale. A tal fine, il Ministero e l'Autorita' scelgono il regime piu' adatto per autorizzare l'uso dello spettro radio, tenendo conto: 
+ 
+                            
+                            
+                                a)
+                                
+                                    delle caratteristiche specifiche dello spettro radio interessato; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    dell'esigenza di protezione dalle interferenze dannose; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    dello sviluppo di condizioni affidabili di condivisione dello spettro radio, ove appropriato; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    della necessita' di assicurare la qualita' tecnica delle comunicazioni o del servizio; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    degli obiettivi di interesse generale stabiliti dal Ministero, conformemente al diritto dell'Unione; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    della necessita' di salvaguardare l'uso efficiente dello spettro radio.
+
 Nel valutare se rilasciare autorizzazioni generali o concedere diritti d'uso individuali per lo spettro radio armonizzato, in considerazione delle misure tecniche di attuazione adottate in conformita' dell'articolo 4 della decisione n. 676/2002/CE, il Ministero e l'Autorita', nell'ambito delle rispettive competenze, si adoperano per ridurre al minimo i problemi causati dalle interferenze dannose, anche nei casi di uso condiviso dello spettro radio sulla base di una combinazione di autorizzazione generale e diritti d'uso individuali. Se del caso, il Ministero e l'Autorita' valutano la possibilita' di autorizzare l'uso dello spettro radio sulla base di una combinazione di autorizzazione generale e diritti d'uso individuali, tenendo conto dei probabili effetti sulla concorrenza, sull'innovazione e sull'accesso al mercato di diverse combinazioni di autorizzazioni generali e diritti d'uso individuali e dei trasferimenti graduali da una categoria all'altra. Il Ministero e l'Autorita' si adoperano per minimizzare le restrizioni all'uso dello spettro radio, tenendo in debita considerazione le soluzioni tecnologiche di gestione delle interferenze dannose allo scopo di imporre il regime di autorizzazione meno oneroso possibile.
 
 Al momento di adottare una decisione a norma del comma 1 al fine di agevolare l'uso condiviso dello spettro radio, il Ministero e l'Autorita' assicurano che le condizioni per l'uso condiviso dello spettro radio siano chiaramente definite. Tali condizioni sono poste al fine di agevolare l'uso efficiente dello spettro radio, la concorrenza e l'innovazione.
@@ -1083,6 +2885,31 @@ Al momento di adottare una decisione a norma del comma 1 al fine di agevolare l'
 
 Il Ministero e l'Autorita', nell'ambito delle rispettive competenze, stabiliscono condizioni associate ai diritti d'uso individuali dello spettro radio in conformita' dell'articolo 13, comma 1, in modo da garantire l'uso ottimale e piu' efficace ed efficiente possibile dello spettro radio. Prima dell'assegnazione o del rinnovo di tali diritti, stabiliscono chiaramente tali condizioni, compreso il livello di uso obbligatorio e la possibilita' di soddisfare tale prescrizione mediante trasferimento o affitto, al fine di garantire l'attuazione di dette condizioni in conformita' dell'articolo 32. Le condizioni associate ai rinnovi dei diritti d'uso dello spettro radio non devono offrire vantaggi indebiti a coloro che sono gia' titolari di tali diritti. Tali condizioni specificano i parametri applicabili, incluso qualsiasi termine per l'esercizio dei diritti d'uso il cui mancato rispetto autorizzi il Ministero, sentita l'Autorita', a revocare i diritti d'uso o a imporre altre misure. Il Ministero e l'Autorita', nell'ambito delle rispettive competenze, consultano e informano le parti interessate tempestivamente e in modo trasparente circa le condizioni associate ai diritti d'uso individuali prima della loro imposizione.
 Stabiliscono in anticipo i criteri per la valutazione del rispetto di tali condizioni e ne informano le parti interessate in modo trasparente.
+
+2.
+                        
+                            
+                                Nello stabilire le condizioni associate ai diritti d'uso individuali dello spettro radio, l'Autorita', in particolare al fine di garantire un uso effettivo ed efficiente dello spettro radio o di promuovere la copertura, possono prevedere le possibilita' seguenti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la condivisione delle infrastrutture passive o attive che utilizzano lo spettro radio o lo spettro radio stesso; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    accordi commerciali di accesso in roaming o altre modalita' tecniche; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il dispiegamento congiunto di infrastrutture per la fornitura di reti o servizi che si basano sull'uso dello spettro radio.
 
 Il Ministero e l'Autorita' non vietano la condivisione dello spettro radio nelle condizioni associate ai diritti d'uso dello spettro radio. L'attuazione, da parte delle imprese, delle condizioni stabilite a norma del presente comma resta soggetta al diritto della concorrenza.
 
@@ -1108,9 +2935,66 @@ Il Ministero adotta, comunica e rende pubbliche le decisioni in materia di conce
 
 Qualora autorizzino l'uso dello spettro radio mediante diritti d'uso individuali per un periodo limitato, il Ministero e l'Autorita', nell'ambito delle rispettive competenze, provvedono a che il diritto d'uso sia concesso per una durata adeguata tenuto conto degli obiettivi perseguiti in conformita' dell'articolo 67 comma 2 e 3, e della necessita' di assicurare la concorrenza nonche' in particolare l'uso effettivo ed efficiente dello spettro radio e di promuovere l'innovazione e investimenti efficienti, anche prevedendo un periodo adeguato di ammortamento degli investimenti.
 
+2.
+                        
+                            
+                                Qualora concedano per un periodo limitato diritti d'uso individuali dello spettro radio per cui sono state stabilite condizioni armonizzate mediante misure tecniche di attuazione adottate in conformita' della decisione n. 676/2002/CE al fine di permetterne l'uso per i servizi di comunicazione elettronica a banda larga senza fili, il Ministero e l'Autorita', nell'ambito delle rispettive competenze, garantiscono per un periodo di almeno venti anni la prevedibilita' regolamentare per i titolari dei diritti relativamente alle condizioni di investimento in infrastrutture che utilizzano detto spettro radio, tenendo conto dei requisiti di cui al comma 1. Il presente articolo e' soggetto, se del caso, a qualsiasi modifica delle condizioni associate a tali diritti d'uso in conformita' dell'articolo 18. A tal fine, il Ministero e l'Autorita' garantiscono che detti diritti siano validi per almeno quindici anni e comprendano, qualora necessario per conformarsi al comma 1, un'adeguata proroga di tale durata, alle condizioni stabilite al presente comma. Il Ministero e l'Autorita' mettono a disposizione di tutte le parti interessate i criteri generali per la proroga della durata dei diritti d'uso in modo trasparente prima di concedere diritti d'uso, nell'ambito delle condizioni stabilite all'articolo 67 commi 5 e 8. Tali criteri generali si riferiscono: 
+ 
+                            
+                            
+                                a)
+                                
+                                    all'esigenza di garantire un uso effettivo ed efficiente dello spettro radio in questione, agli obiettivi perseguiti all'articolo 58 comma 2, lettere a) e b), o all'esigenza di conseguire obiettivi di interesse generale relativi alla tutela della sicurezza della vita, all'ordine pubblico, alla sicurezza pubblica o alla difesa; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    all'esigenza di assicurare una concorrenza senza distorsioni.
+
 Con decreto del ((Ministro delle imprese e del made in Italy)), di concerto con il Ministro dell'economia e delle finanze, le autorizzazioni ((possono essere)) prorogate, nel corso della loro durata, per un periodo non superiore a venti anni, previa presentazione di un dettagliato piano tecnico finanziario da parte degli operatori. La congruita' del piano viene valutata d'intesa dal Ministero e dall'Autorita' per le garanzie nelle comunicazioni, in relazione anche alle vigenti disposizioni comunitarie e all'esigenza di garantire l'omogeneita' dei regimi autorizzatori.
 
 Al piu' tardi due anni prima della scadenza della durata iniziale di un diritto d'uso individuale, l'Autorita', d'intesa col Ministero, effettua una valutazione oggettiva e prospettica dei criteri generali stabiliti per la proroga della durata di detto diritto d'uso alla luce dell'articolo 58 comma 2 lettera c). A condizione di non aver avviato una procedura di contestazione per inadempimento delle condizioni associate ai diritti d'uso a norma dell'articolo 32, il Ministero, sentita l'Autorita', concede la proroga della durata del diritto d'uso, a meno che concluda che tale proroga non sarebbe conforme ai criteri generali stabiliti al comma 2, quarto e quinto periodo, lettere a) o b). Sulla base di tale valutazione, il Ministero notifica al titolare del diritto d'uso la possibilita' di concedere la proroga della durata del diritto. Nel caso in cui tale proroga non sia concessa, il Ministero applica l'articolo 61 per la concessione di diritti d'uso per quella specifica banda di spettro radio. Tutte le misure di cui al presente comma devono essere proporzionate, non discriminatorie, trasparenti e motivate. In deroga all'articolo 23, le parti interessate hanno l'opportunita' di presentare osservazioni in merito a qualsiasi progetto di misura ai sensi del comma 2, quarto e quinto periodo, lettere a) e b), e del presente comma, primo e secondo periodo, entro tre mesi dalla sua adozione. Il presente comma non pregiudica l'applicazione degli articoli 19 e 30. Nello stabilire i contributi per i diritti d'uso, il Ministero e l'Autorita' tengono conto del meccanismo previsto al comma 2 e al presente comma.
+
+5.
+                        
+                            
+                                Ove debitamente giustificato, il Ministero e l'Autorita' possono derogare ai commi 2 e 4 nei seguenti casi: 
+ 
+                            
+                            
+                                a)
+                                
+                                    in zone geografiche limitate in cui l'accesso alle reti ad alta velocita' sia gravemente carente o assente e cio' sia necessario per garantire il raggiungimento degli obiettivi di cui all'articolo 58, comma 2; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    per specifici progetti a breve termine; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    per uso sperimentale; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    per usi dello spettro radio che possano coesistere, in conformita' all'articolo 58, commi 5 e 6, con servizi a banda larga senza fili; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    per un uso alternativo dello spettro radio in conformita' all'articolo 58, comma 3 e 4.
 
 Il Ministero, sentita l'Autorita', puo' adeguare la durata dei diritti d'uso stabiliti al presente articolo al fine di garantire la simultaneita' della scadenza della durata dei diritti in una o piu' bande.
 
@@ -1123,6 +3007,70 @@ Il Ministero, sentita l'Autorita', puo' adeguare la durata dei diritti d'uso sta
 Il Ministero, d'intesa con l'Autorita', decide sul rinnovo dei diritti d'uso individuali dello spettro radio armonizzato tempestivamente prima della scadenza della durata di tali diritti, salvo quando, al momento dell'assegnazione, e' stata esplicitamente esclusa la possibilita' di rinnovo. A tal fine, il Ministero valuta la necessita' di tale rinnovo di propria iniziativa o su richiesta del titolare del diritto, in quest'ultimo caso non piu' di cinque anni prima della scadenza della durata dei diritti di cui trattasi.
 Cio' non pregiudica le clausole di rinnovo applicabili a diritti esistenti.
 
+2.
+                        
+                            
+                                Nell'adottare una decisione ai sensi del comma 1, l'Autorita' prende in considerazione, tra l'altro: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la realizzazione degli obiettivi di cui all'articolo 4, all'articolo 58 comma 2, e all'articolo 61 comma 2, nonche' degli obiettivi di politica pubblica previsti dal diritto dell'Unione o nazionale; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'attuazione di una misura tecnica di attuazione adottata a norma dell'articolo 4 della decisione n. 676/2002/CE; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    l'esame dell'adeguatezza dell'attuazione delle condizioni associate al diritto di cui trattasi; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    la necessita' di promuovere la concorrenza o di evitarne qualsiasi distorsione, in linea con l'articolo 65; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    la necessita' di conseguire maggiore efficienza nell'uso dello spettro radio, alla luce dell'evoluzione tecnologica o del mercato; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    la necessita' di evitare una grave compromissione del servizio.
+
+3.
+                        
+                            
+                                Nel prendere in considerazione l'eventuale rinnovo di diritti d'uso individuali dello spettro radio armonizzato per il quale il numero di diritti d'uso e' limitato ai sensi del comma 2 del presente articolo, l'Autorita' applica una procedura aperta, trasparente e non discriminatoria e tra l'altro: 
+ 
+                            
+                            
+                                a)
+                                
+                                    offre a tutte le parti interessate l'opportunita' di esprimere le loro opinioni attraverso una consultazione pubblica a norma dell'articolo 23; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    indica chiaramente i motivi di tale eventuale rinnovo.
+
 L'Autorita' prende in considerazione eventuali indicazioni, emerse dalla consultazione a norma del comma 3, lettera a), di domanda del mercato da parte di imprese diverse da quelle titolari di diritti d'uso dello spettro radio per la banda in questione quando decide se rinnovare i diritti d'uso o di organizzare una nuova procedura di selezione volta a concedere i diritti d'uso ai sensi dell'articolo 67.
 
 Una decisione di rinnovo di diritti individuali d'uso dello spettro radio armonizzato puo' essere accompagnata da un riesame dei contributi e degli altri termini e condizioni ad essi associati. Se del caso, il Ministero e l'Autorita', nell'ambito delle rispettive competenze, possono modificare i contributi relativi ai diritti d'uso in conformita' dell'articolo 42.
@@ -1134,6 +3082,31 @@ Una decisione di rinnovo di diritti individuali d'uso dello spettro radio armoni
 Le imprese titolari di diritti individuali ((d'uso)) delle radiofrequenze possono trasferire o affittare ad altre imprese i propri diritti d'uso, con le modalita' di cui ai commi 2 e 3. Resta fermo il potere del Ministero e dell'Autorita', nell'ambito delle rispettive competenze, di stabilire che la predetta facolta' non si applichi qualora il diritto d'uso in questione sia stato inizialmente concesso a titolo gratuito in termini di contributi per l'uso ottimale dello spettro o assegnato per la radiodiffusione televisiva.
 
 Il trasferimento o l'affitto dei diritti di uso delle radiofrequenze e' efficace previa autorizzazione rilasciata dal Ministero entro novanta giorni dalla notifica della relativa istanza da parte dell'impresa subentrante.
+
+3.
+                        
+                            
+                                All'esito dell'istruttoria svolta dall'Autorita' che, sentita l'Autorita' garante della concorrenza e del mercato, accerta che non si verifichino distorsioni della concorrenza, il Ministero, in conformita' dell'articolo 65, concede l'autorizzazione al trasferimento o affitto dei diritti d'uso dello spettro radio, o comunica i motivi che ne giustificano il diniego, se sono mantenute le condizioni originarie associate ai predetti diritti, e, fatta salva la predetta verifica: 
+ 
+                            
+                            
+                                a)
+                                
+                                    sottopone i trasferimenti e gli affitti alla procedura meno onerosa possibile; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    non rifiuta l'affitto di diritti d'uso dello spettro radio quando il locatore si impegna a rimanere responsabile per il rispetto delle condizioni originarie associate ai diritti d'uso; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    non rifiuta il trasferimento di diritti d'uso dello spettro radio, salvo se vi e' il rischio evidente che il nuovo titolare non sia in grado di soddisfare le condizioni originarie associate ai diritti d'uso.
 
 Il Ministero ((...)) puo' apporre all'autorizzazione, se necessario, le specifiche condizioni proposte dall'Autorita'. In caso di spettro radio armonizzato, i trasferimenti rispettano tale uso armonizzato. I diritti amministrativi imposti alle imprese in relazione al trattamento di una domanda di trasferimento o di affitto di diritti d'uso dello spettro radio devono essere conformi all'articolo 16. Le lettere a), b) e c) del comma 3 lasciano impregiudicata la competenza del Ministero di garantire l'osservanza delle condizioni associate ai diritti d'uso dello spettro radio in qualsiasi momento, riguardo sia al locatore sia al locatario.
 
@@ -1155,6 +3128,45 @@ Salva la disciplina dei diritti d'uso stabilita nei regolamenti di gara che hann
 
 Il Ministero e l'Autorita', nell'ambito delle rispettive competenze, promuovono una concorrenza effettiva ed evitano le distorsioni della concorrenza sul mercato interno al momento di decidere il rilascio, la modifica o il rinnovo dei diritti d'uso dello spettro radio per le reti e i servizi di comunicazione elettronica, conformemente al presente Codice.
 
+2.
+                        
+                            
+                                Il Ministero e l'Autorita', nell'ambito delle rispettive competenze, allorche' modificano o rinnovano diritti d'uso dello spettro radio, possono adottare misure appropriate quali: 
+ 
+                            
+                            
+                                a)
+                                
+                                    limitare la quantita' delle bande di spettro radio per cui concedono diritti d'uso a un'impresa, oppure, in casi giustificati, subordinare detti diritti d'uso a condizioni quali l'offerta di accesso all'ingrosso, di roaming nazionale o regionale, in talune bande o in taluni gruppi di bande aventi caratteristiche simili; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    riservare, se appropriato e giustificato in considerazione di una situazione specifica sul mercato nazionale, una determinata parte di una banda di spettro radio o di un gruppo di bande per l'assegnazione a nuovi entranti; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    rifiutare di concedere nuovi diritti d'uso dello spettro radio o di autorizzare nuovi usi dello spettro radio per talune bande o imporre determinate condizioni alla concessione di nuovi diritti d'uso dello spettro radio o all'autorizzazione di nuovi usi dello spettro radio per evitare distorsioni della concorrenza dovute ad assegnazioni, trasferimenti o accumuli dei diritti d'uso; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    includere condizioni che vietino o imporre condizioni ai trasferimenti di diritti d'uso dello spettro radio, che non siano assoggettati al controllo delle operazioni di concentrazione dell'Unione o nazionali, quando tali trasferimenti possono pregiudicare in modo significativo la concorrenza; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    modificare i diritti esistenti conformemente al presente decreto quando cio' si renda necessario per porre rimedio ex post a una distorsione della concorrenza dovuta a trasferimenti o accumuli di diritti d'uso dello spettro radio.
+
 L'Autorita', tenendo conto delle condizioni di mercato e dei parametri di riferimento disponibili, fonda la propria decisione su una valutazione oggettiva e prospettica delle condizioni della concorrenza nel mercato, della necessita' di tali misure per mantenere o conseguire una concorrenza effettiva e dei probabili effetti di tali misure sugli investimenti attuali e futuri da parte dei partecipanti al mercato, in particolare per il dispiegamento della rete. Nel far cio', l'Autorita' tiene conto dell'approccio all'analisi di mercato di cui all'articolo 78 comma 2.
 
 Nell'applicare il comma 2 del presente articolo, l'Autorita' agisce in conformita' delle procedure di cui agli articoli 18, 19, 23 e 35.
@@ -1172,7 +3184,57 @@ Il Ministero e l'Autorita', nell'ambito delle rispettive competenze, cooperano c
 Ove siano state stabilite condizioni armonizzate mediante misure tecniche di attuazione adottate in conformita' della decisione n. 676/2002/CE al fine di consentire l'uso dello spettro radio per le reti e i servizi a banda larga senza fili, il Ministero, sentita l'Autorita' per i profili di competenza, consente l'uso di tale spettro radio il prima possibile, al piu' tardi trenta mesi dopo l'adozione di tale misura, o appena possibile dopo la revoca dell'eventuale decisione di consentire l'uso alternativo in via eccezionale a norma dell'articolo 58, comma 3, del presente decreto.
 Cio' non pregiudica la decisione (UE) 2017/899 e il diritto di iniziativa della Commissione europea di proporre atti legislativi.
 
+3.
+                        
+                            
+                                Il Ministero, sentita l'Autorita' per i profili di competenza, puo' ritardare la scadenza di cui al comma 2 per una banda specifica nelle seguenti circostanze: 
+ 
+                            
+                            
+                                a)
+                                
+                                    nella misura in cui cio' sia giustificato da una restrizione all'uso di detta banda sulla base dell'obiettivo di interesse generale di cui all'articolo 58, comma 5 lettera a) oppure d); 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    in caso di questioni irrisolte di coordinamento transfrontaliero che comportino interferenze dannose con paesi terzi, a condizione che lo Stato membro colpito abbia richiesto, se del caso, l'assistenza dell'Unione a norma dell'articolo 28 paragrafo 5 della direttiva (UE) 2018/1972; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    tutela della sicurezza nazionale e della difesa; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    forza maggiore.
+
 Il Ministero riesamina il ritardo di cui al comma 3 almeno ogni due anni.
+
+5.
+                        
+                            
+                                Il Ministero, sentita l'Autorita' per i profili di competenza, puo' ritardare la scadenza di cui al comma 2 per una banda specifica nella misura in cui cio' sia necessario e fino a un massimo di trenta mesi in caso di: 
+ 
+                            
+                            
+                                a)
+                                
+                                    questioni irrisolte di coordinamento transfrontaliero che comportino interferenze dannose tra gli Stati membri, a condizione che lo Stato membro colpito adotti tempestivamente tutte le misure necessarie a norma dell'articolo 29, commi 3 e 4; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la necessita' e la complessita' di assicurare la migrazione tecnica degli utenti esistenti di tale banda.
 
 In caso di ritardo ai sensi del comma 3 o 5, il Ministero informa tempestivamente gli altri Stati membri e la Commissione, indicando le ragioni.
 
@@ -1182,7 +3244,57 @@ In caso di ritardo ai sensi del comma 3 o 5, il Ministero informa tempestivament
  
  ((
 
+1.
+                        
+                            
+                                Fatto salvo quanto previsto dall'articolo 66, per le bande di frequenza per le quali il Ministero ha determinato che i relativi diritti d'uso non possono essere soggetti ad autorizzazione generale, l'Autorita', nel valutare se limitare il numero dei diritti d'uso da concedere, tra l'altro: 
+ 
+                            
+                            
+                                a)
+                                
+                                    motiva chiaramente le ragioni alla base della limitazione dei diritti d'uso, in particolare ponderando adeguatamente l'esigenza di massimizzare i benefici per gli utenti e di favorire lo sviluppo della concorrenza e, se del caso, riesamina la limitazione periodicamente o a ragionevole richiesta delle imprese interessate; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    concede a tutte le parti interessate, compresi gli utenti e i consumatori, l'opportunita' di esprimere le loro posizioni sulle eventuali limitazioni, mediante una consultazione pubblica conformemente all'articolo 23.
+
 Quando l'Autorita' determina che il numero di diritti d'uso debba essere limitato, stabilisce e motiva chiaramente gli obiettivi perseguiti mediante una procedura di selezione competitiva o comparativa ai sensi del presente articolo e, ove possibile, li quantifica, ponderando adeguatamente la necessita' di raggiungere obiettivi nazionali del mercato interno.
+
+3.
+                        
+                            
+                                In previsione di una procedura di selezione specifica, l'Autorita' puo' fissare, in aggiunta all'obiettivo di promuovere la concorrenza, uno o piu' dei seguenti obiettivi: 
+ 
+                            
+                            
+                                a)
+                                
+                                    promuovere la copertura; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    assicurare la necessaria qualita' del servizio; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    promuovere l'uso efficiente dello spettro radio, anche tenendo conto delle condizioni associate ai diritti d'uso e del livello dei contributi; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    promuovere l'innovazione e lo sviluppo dell'attivita' delle imprese.
 
 L'Autorita' definisce e motiva chiaramente la scelta della procedura di selezione, compresa l'eventuale fase preliminare di accesso alla procedura stessa. L'Autorita' indica, inoltre, chiaramente i risultati della relativa valutazione della situazione concorrenziale, tecnica ed economica del mercato e motiva l'eventuale uso e scelta delle misure a norma dell'articolo 35.
 
@@ -1210,7 +3322,43 @@ Alle misure del presente articolo si applica l'((articolo 4 del regolamento (UE)
 
 Il Ministero non impedisce ai fornitori di reti pubbliche di comunicazione elettronica o di servizi di comunicazione elettronica accessibili al pubblico di autorizzare l'accesso del pubblico alle loro reti attraverso le RLAN, che possono essere ubicate nei locali di un utente finale, subordinatamente al rispetto delle condizioni applicabili dell'autorizzazione generale e al previo consenso informato dell'utente finale.
 
+4.
+                        
+                            
+                                Conformemente, in particolare, all'articolo 3, paragrafo 1, del regolamento (UE) 2015/2120 del Parlamento europeo e del Consiglio, del 25 novembre 2015, il Ministero e l'Autorita', nell'ambito delle rispettive competenze, assicurano che i fornitori di reti pubbliche di comunicazione elettronica o di servizi di comunicazione elettronica accessibili al pubblico non limitino in maniera unilaterale o vietino agli utenti finali la facolta': 
+ 
+                            
+                            
+                                a)
+                                
+                                    di accedere alle RLAN di loro scelta fornite da terzi; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    di consentire reciprocamente l'accesso o, piu' in generale, di accedere alle reti di tali fornitori ad altri utenti finali tramite le RLAN, anche sulla base di iniziative di terzi che aggregano e rendono accessibili al pubblico le RLAN di diversi utenti finali.
+
 Il Ministero e l'Autorita' non limitano o vietano agli utenti finali la facolta' di consentire l'accesso, reciprocamente o in altro modo, alle loro RLAN da parte di altri utenti finali, anche sulla base di iniziative di terzi che aggregano e rendono accessibili al pubblico le RLAN di diversi utenti finali.
+
+6.
+                        
+                            
+                                Il Ministero e l'Autorita' non limitano indebitamente la fornitura di accesso pubblico alle RLAN: 
+ 
+                            
+                            
+                                a)
+                                
+                                    da parte di organismi pubblici o negli spazi pubblici nei pressi dei locali da essi occupati, quando tale fornitura e' accessoria ai servizi pubblici forniti in tali locali; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    da parte di organizzazioni non governative o organismi pubblici che aggregano e rendono accessibili, reciprocamente o piu' in generale, le RLAN di diversi utenti finali, comprese, se del caso, le RLAN alle quali l'accesso pubblico e' fornito a norma della lettera a).
 
 ((
 
@@ -1226,6 +3374,63 @@ Agli impianti e alla fornitura di accesso a una rete pubblica di comunicazione e
 
 Le autorita' competenti non limitano indebitamente l'installazione dei punti di accesso senza fili di portata limitata.
 Il Ministero si adopera per garantire che le norme che disciplinano l'installazione dei punti di accesso senza fili di portata limitata siano coerenti a livello nazionale. Tali norme sono pubblicate prima della loro applicazione. In particolare, le autorita' competenti non subordinano l'installazione dei punti di accesso senza fili di portata limitata che soddisfano le caratteristiche di cui al comma 2 a permessi urbanistici individuali o ad altri permessi individuali preventivi. In deroga al secondo periodo, le autorita' competenti possono richiedere autorizzazioni per l'installazione dei punti di accesso senza fili di portata limitata in edifici o siti di valore architettonico, ((storico, ambientale e paesaggistico)) protetti a norma del diritto nazionale o se necessario per ragioni di pubblica sicurezza. Al rilascio di tali autorizzazioni si applica l'articolo 7 decreto legislativo 15 febbraio 2016, n. 33.
+
+2.
+                        
+                            
+                                Le caratteristiche fisiche e tecniche, come le dimensioni massime, il peso e, se del caso, la potenza di emissione, dei punti di accesso senza fili di portata limitata sono definite dal regolamento 2020/1070/UE della Commissione europea, del 20 luglio 2020. Il presente articolo non si applica ai punti di accesso senza fili di portata limitata con un sistema di antenna attivo. Ai fini del presente articolo si applicano le seguenti definizioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    «potenza isotropa equivalente irradiata (Equivalent Isotropically Radiated Power, EIRP)»: il prodotto della potenza fornita all'antenna per il suo guadagno in una data direzione rispetto ad un'antenna isotropa (guadagno assoluto o isotropico); 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    «sistema di antenna»: la componente hardware di un punto di accesso senza fili di portata limitata che irradia energia in radiofrequenza per fornire connettivita' senza fili agli utenti finali; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    «sistema di antenna attivo» (Active Antenna System, AAS): un sistema di antenna in cui l'ampiezza o la fase tra gli elementi di antenna, o entrambe, sono continuamente modificate, dando luogo a un diagramma di radiazione che varia in risposta a cambiamenti a breve termine nell'ambiente radio. Cio' esclude il modellamento del fascio a lungo termine quale il downtilt elettrico fisso. Nei punti di accesso senza fili di portata limitata dotati di un AAS, quest'ultimo e' parte integrante del punto di accesso senza fili di portata limitata; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    «al chiuso»: qualsiasi spazio, compresi i veicoli di trasporto, dotato di un soffitto, di un tetto o di una struttura o dispositivo fissi o mobili in grado di coprire l'intero spazio, e che, fatta eccezione per le porte, le finestre e i passaggi pedonali, e' completamente racchiuso da muri o pareti, in maniera permanente o temporanea, indipendentemente dal tipo di materiale utilizzato per il tetto, i muri o le pareti e dal carattere permanente o temporaneo della struttura; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    «all'aperto»: qualsiasi spazio che non sia al chiuso.
+
+3.
+                        
+                            
+                                I punti di accesso senza fili di portata limitata sono conformi all'allegato, lettera B, ((...)) del regolamento 2020/1070/EU e((...)): 
+ 
+                            
+                            
+                                a)
+                                
+                                    sono integrati completamente e in sicurezza nella loro struttura di sostegno e sono quindi invisibili al pubblico; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    soddisfano le condizioni di cui all'allegato, lettera A, all'articolo 3 del regolamento 2020/1070/UE.
 
 Il comma 3 fa salve le competenze del Ministero e delle altre autorita' competenti di determinare i livelli aggregati dei campi elettromagnetici derivanti dalla co-locazione o dall'aggregazione, in una zona locale, di punti di accesso senza fili di portata limitata, e di garantire la conformita' ai limiti aggregati di esposizione ai campi elettromagnetici applicabili conformemente al diritto dell'Unione utilizzando mezzi diversi dai permessi individuali relativi all'installazione di punti di accesso senza fili di portata limitate. Gli operatori che hanno installato punti di accesso senza fili di portata limitata di classe ((E0,)) E2 o E10 conformi alle condizioni di cui al comma 1 notificano ((alle autorita' competenti,)), entro due settimane dall'installazione di ciascuno di essi, l'installazione e l'ubicazione di tali punti di accesso, nonche' i requisiti che rispettano conformemente a tale paragrafo.
 
@@ -1272,7 +3477,125 @@ I negoziati possono essere condotti mediante intermediari neutri laddove le cond
 
 Nel perseguire gli obiettivi stabiliti dall'articolo 4, l'Autorita' per le garanzie nelle comunicazioni incoraggia e, se del caso, garantisce, in conformita' con il presente decreto, un adeguato accesso, un'adeguata interconnessione e l'interoperabilita' dei servizi, esercitando le proprie competenze in modo tale da promuovere l'efficienza, una concorrenza sostenibile, lo sviluppo di reti ad altissima capacita', investimenti efficienti e l'innovazione e recare il massimo vantaggio agli utenti finali. L'Autorita' fornisce orientamenti e rende disponibili al pubblico le procedure per ottenere l'accesso e l'interconnessione, garantendo che piccole e medie imprese e operatori aventi una portata geografica limitata possano trarre beneficio dagli obblighi imposti.
 
+2.
+                        
+                            
+                                In particolare, fatte salve le misure che potrebbero essere adottate nei confronti di imprese designate come detentrici di un significativo potere di mercato ai sensi dell'articolo 79, l'Autorita' puo' imporre: 
+ 
+                            
+                            
+                                a)
+                                
+                                    nella misura necessaria a garantire la connettivita' da punto a punto, obblighi alle imprese soggette all'autorizzazione generale che controllano l'accesso agli utenti finali, compreso, in casi giustificati, l'obbligo di interconnessione delle rispettive reti qualora non sia gia' previsto; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    in casi giustificati e nella misura necessaria, obblighi per le imprese soggette all'autorizzazione generale che controllano l'accesso agli utenti finali, onde rendere interoperabili i propri servizi; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    in casi giustificati, se la connettivita' da punto a punto tra gli utenti finali e' compromessa a causa della mancanza di interoperabilita' tra i servizi di comunicazione interpersonale e nella misura necessaria a garantire la connettivita' da punto a punto tra utenti finali, obblighi per i fornitori di servizi di comunicazione interpersonale indipendenti dalla numerazione che abbiano un significativo livello di copertura e di diffusione tra gli utenti, onde rendere interoperabili i propri servizi; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    nella misura necessaria a garantire l'accessibilita' per gli utenti finali ai servizi di diffusione radiotelevisiva in digitale e servizi complementari correlati specificati dall'Autorita', l'obbligo agli operatori di garantire l'accesso alle altre risorse di cui all'allegato n. 2, parte 2, a condizioni eque, ragionevoli e non discriminatorie.
+
+3.
+                        
+                            
+                                Gli obblighi di cui al comma 2, lettera c), sono imposti soltanto: 
+ 
+                            
+                            
+                                a)
+                                
+                                    nella misura necessaria a garantire l'interoperabilita' dei servizi di comunicazione interpersonale e possono comprendere obblighi proporzionati per i fornitori di tali servizi di pubblicare e autorizzare l'uso, la modifica e la ridistribuzione delle informazioni pertinenti da parte delle autorita' e di altri fornitori o di impiegare o attuare le norme o specifiche di cui all'articolo 39 comma 1, o di altre pertinenti norme europee o internazionali; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    qualora la Commissione europea, dopo aver consultato il BEREC e aver preso nella massima considerazione il suo parere, abbia riscontrato la presenza di una notevole minaccia alla connettivita' da punto a punto tra utenti finali in tutta l'Unione o in almeno tre Stati membri e abbia adottato misure di attuazione che specificano le caratteristiche e la portata degli obblighi che possono essere imposti. Tali misure di attuazione sono adottate secondo la procedura d'esame di cui all'articolo 118, paragrafo 4, della direttiva (UE) 2018/1972.
+
+4.
+                        
+                            
+                                In particolare, fatti salvi i commi 1 e 2, l'Autorita' puo' imporre, in base a una richiesta ragionevole, gli obblighi di concedere l'accesso al cablaggio e alle risorse correlate all'interno degli edifici o fino al primo punto di concentrazione o di distribuzione determinato dall'Autorita' qualora tale punto sia situato al di fuori dell'edificio. Ove giustificato dal fatto che la duplicazione di tali elementi di rete sarebbe economicamente inefficiente o fisicamente impraticabile, tali obblighi possono essere imposti ai fornitori di reti di comunicazione elettronica o ai proprietari del cablaggio e delle risorse correlate se non sono fornitori di reti di comunicazione elettronica. Le condizioni di accesso imposte possono comprendere norme specifiche sull'accesso a tali elementi di rete e alle risorse e ai servizi correlati, su trasparenza e non discriminazione e sulla ripartizione dei costi di accesso, se del caso adattate per tener conto dei fattori di rischio.
+Qualora l'Autorita' concluda relativamente, se applicabile, agli obblighi risultanti da eventuali pertinenti analisi di mercato, che l'obbligo imposto in conformita' del comma 2 non e' sufficiente a sormontare forti ostacoli fisici o economici non transitori alla duplicazione in base ad una situazione del mercato, esistente o emergente, che limita significativamente i risultati concorrenziali per gli utenti finali, puo' estendere, a condizioni eque e ragionevoli, l'imposizione di siffatti obblighi di accesso oltre il primo punto di concentrazione o di distribuzione fino a un punto che determina essere il piu' vicino agli utenti finali, in grado di ospitare un numero di connessioni degli utenti finali sufficiente per essere sostenibile sul piano commerciale per chi richiede accesso efficiente. Nel determinare la portata dell'estensione oltre il primo punto di concentrazione o di distribuzione, l'Autorita' tiene nella massima considerazione le pertinenti linee guida del BEREC.
+L'Autorita' puo' imporre obblighi di accesso attivo o virtuale, se giustificati da motivazioni tecniche o economiche. L'Autorita' non impone a fornitori di reti di comunicazione elettronica obblighi a norma del comma 2 qualora stabilisca che: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il fornitore possiede le caratteristiche elencate dall'articolo 91 comma 1, e mette a disposizione di qualsiasi impresa, a condizioni eque, non discriminatorie e ragionevoli, un mezzo alternativo, analogo ed economicamente sostenibile per raggiungere gli utenti finali fornendo accesso a una rete ad altissima capacita'; l'Autorita' puo' estendere tale esenzione ad altri fornitori che offrono, a condizioni eque, non discriminatorie e ragionevoli, l'accesso a una rete ad altissima capacita'; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'imposizione di obblighi comprometterebbe la sostenibilita' economica o finanziaria dell'installazione di una nuova rete, in particolare nell'ambito di progetti locali di dimensioni ridotte.
+
 In deroga al comma 4, lettera a), l'Autorita' puo' imporre obblighi ai fornitori di reti di comunicazione elettronica che soddisfano i criteri di cui a tale lettera se la rete interessata e' finanziata con fondi pubblici.
+
+6.
+                        
+                            
+                                Fatti salvi i commi 1 e 2, l'Autorita' ha la facolta' di imporre, alle imprese che forniscono o sono autorizzate a fornire reti di comunicazione elettronica, obblighi in relazione alla condivisione delle infrastrutture passive o l'obbligo di concludere accordi di accesso in roaming localizzato, in entrambi i casi se direttamente necessari per la fornitura locale di servizi che comportano l'uso dello spettro radio, in conformita' del diritto dell'Unione e purche' non sia messo a disposizione delle imprese un mezzo alternativo di accesso agli utenti finali analogo e economicamente sostenibile, a condizioni eque e ragionevoli.
+L'Autorita' puo' imporre tali obblighi solo ove tale possibilita' sia stata chiaramente prevista in sede di assegnazione dei diritti d'uso dello spettro radio e se cio' e' giustificato dal fatto che, nel settore soggetto a tali obblighi, la realizzazione basata sulle dinamiche del mercato delle infrastrutture per la fornitura di reti o servizi che comportano l'uso dello spettro radio incontra ostacoli economici o fisici insormontabili e pertanto l'accesso alle reti o ai servizi da parte degli utenti finali e' gravemente carente o assente.
+Nei casi in cui l'accesso e la condivisione delle infrastrutture passive da soli non sono sufficienti ad affrontare la situazione, l'Autorita' puo' imporre obblighi sulla condivisione delle infrastrutture attive. L'Autorita' tiene conto dei seguenti fattori: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la necessita' di massimizzare la connettivita' in tutta l'Unione, lungo le principali vie di trasporto e in particolare negli ambiti territoriali, e la possibilita' di migliorare notevolmente la scelta e la qualita' del servizio per gli utenti finali; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'uso efficiente dello spettro radio; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    la fattibilita' tecnica della condivisione e le relative condizioni; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    lo stato della concorrenza basata sulle infrastrutture e sui servizi; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    l'innovazione tecnologica; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    l'esigenza superiore di sostenere l'incentivo dell'operatore ospitante a dispiegare prima di tutto l'infrastruttura.
 
 Nel quadro della risoluzione delle controversie, l'Autorita' puo' tra l'altro imporre al beneficiario dell'obbligo di condivisione o di accesso l'obbligo di condividere lo spettro radio con l'operatore ospitante dell'infrastruttura nell'ambito territoriale interessato.
 
@@ -1287,6 +3610,26 @@ L'Autorita' tiene nella massima considerazione le linee guida del BEREC sulla de
 (Sistemi di accesso condizionato ed altre risorse)
 
 All'accesso condizionato ai servizi televisivi e radiofonici digitali trasmessi ai telespettatori e agli ascoltatori si applicano, a prescindere dai mezzi di trasmissione, le condizioni di cui all'allegato n.2, parte 1.
+
+2.
+                        
+                            
+                                Qualora, in base a un'analisi di mercato effettuata in conformita' dell'articolo 78, comma 1, l'Autorita' appuri che una o piu' imprese non dispongono di un significativo potere di mercato sul mercato pertinente, puo' modificare o revocare le condizioni per tali imprese conformemente alle procedure previste dagli articoli 23 e 33 solo se: 
+ 
+                            
+                            
+                                a)
+                                
+                                    l'accessibilita' per gli utenti finali a programmi radiofonici e televisivi e a canali e servizi di diffusione specificati ai sensi dell'articolo 98-vicies sexies non risulti pregiudicata da tale modifica o revoca; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le prospettive di un'effettiva concorrenza nei mercati seguenti non risultano pregiudicate da tale modifica o revoca: 
+ i) servizi di diffusione radiotelevisiva digitale al dettaglio; 
+ ii) sistemi di accesso condizionato e altre risorse correlate.
 
 Le parti a cui si applica la modifica o la revoca di tali obblighi sono informate ((con un adeguato preavviso)).
 
@@ -1357,11 +3700,93 @@ Tali linee guida possono fornire la base per l'interoperabilita' dei prodotti di
 
 L'Autorita', determina se un mercato rilevante definito in conformita' ((dell'articolo 75)), sia tale da giustificare l'imposizione degli obblighi di regolamentazione di cui al presente decreto. Nello svolgere tale analisi l'Autorita' tiene nella massima considerazione le linee guida SPM, segue le procedure di cui agli articoli 23 e 33, e acquisisce il parere dell'Autorita' garante della concorrenza e del mercato.
 
+2.
+                        
+                            
+                                Un mercato puo' essere considerato tale da giustificare l'imposizione di obblighi di regolamentazione stabiliti nel presente decreto se sono soddisfatti tutti i criteri seguenti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    presenza di forti ostacoli non transitori all'accesso, di carattere strutturale, giuridico o normativo; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    esistenza di una struttura del mercato che non tende al raggiungimento della concorrenza effettiva entro l'arco di tempo preso in esame, in considerazione della situazione della concorrenza basata sulle infrastrutture e di altro tipo, al di la' degli ostacoli all'accesso; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    insufficienza del solo diritto della concorrenza per far fronte adeguatamente ai fallimenti del mercato individuati.
+
 Se svolge un'analisi di un mercato incluso nella raccomandazione, l'Autorita' considera soddisfatte le condizioni di cui al secondo comma, lettere a), b) e c), salvo se l'Autorita' stessa constata che una o piu' di esse non e' soddisfatta nelle specifiche circostanze nazionali.
+
+4.
+                        
+                            
+                                Quando svolge l'analisi di cui ai commi da1 a 3, l'Autorita' esamina gli sviluppi in una prospettiva futura di assenza della regolamentazione imposta a norma del presente articolo nel mercato rilevante e tiene conto di quanto segue: 
+ 
+                            
+                            
+                                a)
+                                
+                                    gli sviluppi del mercato che incidono sulla tendenza del mercato rilevante al raggiungimento di una concorrenza effettiva; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    tutti i pertinenti vincoli concorrenziali, a livello della vendita all'ingrosso e al dettaglio, indipendentemente dal fatto che le cause di tali vincoli siano individuate nelle reti di comunicazione elettronica, nei servizi di comunicazione elettronica o in altri tipi di servizi o applicazioni paragonabili dal punto di vista dell'utente finale, e a prescindere dal fatto che tali restrizioni siano parte del mercato rilevante; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    altri tipi di regolamentazione o misure imposte che influiscono sul mercato rilevante o su mercati al dettaglio correlati per tutto il periodo in esame, tra cui, a titolo esemplificativo, gli obblighi imposti in conformita' degli articoli 50, 71 e 72; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    regolamentazioni imposte in altri mercati rilevanti sulla base del presente articolo.
 
 Se conclude che un mercato rilevante non giustifica l'imposizione di obblighi di regolamentazione in conformita' della procedura di cui ai commi da 1 a 4, oppure allorche' le condizioni indicate al comma 6 non sono soddisfatte, l'Autorita' non impone ne' mantiene nessun obbligo di regolamentazione specifico in conformita' dell'articolo 79. Qualora obblighi di regolamentazione settoriali siano gia' stati imposti in conformita' dell'articolo 79, li revoca per le imprese operanti in tale mercato rilevante. L'Autorita' provvede che le parti interessate dalla revoca di tali obblighi ricevano un termine di preavviso appropriato, in modo da assicurare l'equilibrio tra la necessita' di garantire una transizione sostenibile per i beneficiari degli obblighi e gli utenti finali, la scelta dell'utente finale e il fatto che la regolamentazione non si estenda oltre il necessario. Nel fissare tale termine di preavviso l'Autorita' puo' stabilire condizioni specifiche e periodi di preavviso in relazione agli accordi di accesso esistenti.
 
 Qualora accerti che, in un mercato rilevante e' giustificata l'imposizione di obblighi di regolamentazione in conformita' dei commi 1 a 4, l'Autorita' individua le imprese che individualmente o congiuntamente dispongono di un significativo potere di mercato su tale mercato rilevante conformemente all'articolo 74. L'Autorita' impone a tali imprese gli appropriati specifici obblighi di regolamentazione in conformita' dell'articolo 79 ovvero mantiene in vigore o modifica tali obblighi laddove gia' esistano se ritiene che la situazione risultante per gli utenti finali non sarebbe effettivamente concorrenziale in loro assenza.
+
+7.
+                        
+                            
+                                Le misure di cui ai commi 5 e 6 sono adottate secondo le procedure di cui agli articoli 23 e 33. L'Autorita' effettua un'analisi del mercato rilevante e notifica il corrispondente progetto di misura a norma dell'articolo 33: 
+ 
+                            
+                            
+                                a)
+                                
+                                    entro cinque anni dall'adozione di una precedente misura se l'Autorita' ha definito il mercato rilevante e stabilito quali imprese godono di un significativo potere di mercato; in via eccezionale, tale periodo di cinque anni puo' essere prorogato fino a un massimo di un anno, se l'Autorita' ha notificato alla Commissione europea una proposta motivata di proroga non meno di quattro mesi prima del termine del periodo di cinque anni e la Commissione europea non ha formulato obiezioni entro un mese dalla notifica; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    entro tre anni dall'adozione di una raccomandazione rivista sui mercati rilevanti per i mercati non notificati in precedenza alla Commissione europea; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    entro tre anni dalla data di adesione all'Unione europea per gli Stati membri di nuova adesione.
 
 Qualora l'Autorita' ritenga di non poter completare l'analisi di un mercato rilevante individuato nella raccomandazione entro il termine fissato al comma 7, puo' chiedere al BEREC assistenza per completare l'analisi del mercato specifico e degli obblighi specifici da imporre. Con tale assistenza l'Autorita' notifica, entro sei mesi dal termine stabilito al comma 7, il progetto di misura alla Commissione europea a norma dell'articolo 33.
 
@@ -1375,7 +3800,64 @@ Qualora l'Autorita' ritenga di non poter completare l'analisi di un mercato rile
 
 Qualora, in esito all'analisi del mercato realizzata a norma dell'articolo 78, un'impresa sia designata come detentrice di un significativo potere di mercato in un mercato specifico, l'Autorita' impone, ove ritenuto opportuno, qualsiasi obbligo previsto agli articoli da 80 a 85 e gli articoli 87 e 91. Conformemente al principio di proporzionalita', l'Autorita' sceglie il modo meno intrusivo di affrontare i problemi individuati nell'analisi del mercato.
 
+2.
+                        
+                            
+                                L'Autorita' impone gli obblighi di cui agli articoli da 80 a 85 e gli articoli 87 e 91 solo alle imprese che sono state designate come detentrici di un significativo potere di mercato in conformita' del comma 1 del presente articolo, fatti salvi: 
+ 
+                            
+                            
+                                a)
+                                
+                                    gli articoli 72 e 73; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    gli articoli 50 e 17, la condizione 7 di cui alla parte D dell'allegato I quale applicata ai sensi dell'articolo 13, comma 1, gli articoli 98-decies e 98-octies decies e le disposizioni pertinenti della direttiva 2002/58/CE che contemplano obblighi per le imprese diverse da quelle che sono state designate come detentrici di un significativo potere di mercato; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    l'esigenza di ottemperare a impegni internazionali.
+
 In circostanze eccezionali l'Autorita', quando intende imporre alle imprese designate come detentrici di un significativo potere di mercato obblighi in materia di accesso o di interconnessione diversi da quelli di cui agli 80 a 85 e gli articoli 87 e 91, ne fa richiesta alla Commissione europea, la quale adotta, secondo la procedura consultiva di cui all'articolo 118, paragrafo 3, della direttiva (UE) 2018/1972 una decisione che autorizza o vieta l'adozione di tali misure.
+
+4.
+                        
+                            
+                                Gli obblighi imposti ai sensi del presente articolo: 
+ 
+                            
+                            
+                                a)
+                                
+                                    dipendono dal tipo di problema evidenziato dalla Autorita' nella sua analisi del mercato, ove appropriato tenendo conto dell'individuazione della domanda transnazionale in conformita' dell'articolo 77; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    sono proporzionati, in considerazione, ove possibile, dei costi e dei benefici; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    sono giustificati alla luce degli obiettivi di cui all'articolo 4; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    sono imposti previa consultazione ai sensi degli articoli 23 e 33.
 
 In relazione all'esigenza di ottemperare a impegni internazionali di cui al comma 4, l'Autorita' notifica alla Commissione europea le proprie decisioni di imporre, modificare o revocare gli obblighi nei confronti delle imprese, conformemente alle procedure stabilite dall'articolo 33.
 
@@ -1428,6 +3910,149 @@ L'Autorita' puo' imporre a un'impresa l'obbligo di fornire l'accesso conformemen
  
  ((
 
+1.
+                        
+                            
+                                In conformita' dell'articolo 79, l'Autorita' puo' imporre alle imprese l'obbligo di soddisfare richieste ragionevoli di accesso e l'uso di determinati elementi di rete e risorse correlate, in particolare qualora reputi che il rifiuto di concedere l'accesso o termini e condizioni non ragionevoli di effetto equivalente ostacolerebbero l'emergere di una concorrenza sostenibile sul mercato al dettaglio e sarebbero contrarie agli interessi dell'utente finale.
+L'Autorita' puo' imporre alle imprese: 
+ 
+                            
+                            
+                                a)
+                                
+                                    di concedere a terzi l'accesso a specifici elementi fisici di rete e risorse correlate, nonche' il relativo uso, secondo i casi, ivi compreso l'accesso disaggregato alla rete e alla sottorete locale; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    di concedere a terzi l'accesso a specifici elementi e servizi di rete attivi o virtuali; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    di negoziare in buona fede con le imprese che chiedono un accesso; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    di non revocare l'accesso alle risorse concesso in precedenza; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    di fornire specifici servizi all'ingrosso per la rivendita da parte di terzi; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    di concedere un accesso aperto alle interfacce tecniche, ai protocolli o ad altre tecnologie d'importanza decisiva, indispensabili per l'interoperabilita' dei servizi o dei servizi di reti virtuali; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    di consentire la coubicazione o altre forme di condivisione associata degli impianti; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    di fornire determinati servizi necessari per garantire agli utenti l'interoperabilita' punto a punto dei servizi o servizi di roaming per le reti mobili; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    di garantire l'accesso ai sistemi di supporto operativo o a sistemi software analoghi necessari per garantire eque condizioni di concorrenza nella fornitura dei servizi; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    di interconnettere reti o risorse di rete; 
+
+                                
+                            
+                            
+                                m)
+                                
+                                    di fornire l'accesso a servizi correlati come quelli relativi all'identita', alla posizione e alla presenza.
+
+2.
+                        
+                            
+                                L'Autorita' puo' assoggettare tali obblighi a condizioni di equita', ragionevolezza e tempestivita'. Nel valutare l'opportunita' di imporre qualsiasi fra i possibili obblighi specifici di cui al comma 1, e soprattutto le relative idoneita' e modalita' di imposizione conformemente al principio di proporzionalita', l'Autorita' valuta se altre forme di accesso a input all'ingrosso, nello stesso mercato all'ingrosso o in un mercato all'ingrosso connesso, sarebbero sufficienti a dare soluzione al problema individuato nell'interesse dell'utente finale. Detta valutazione comprende offerte di accesso commerciale, l'accesso regolamentato a norma dell'articolo 72 o l'accesso regolamentato esistente o previsto ad altri input all'ingrosso a norma del presente articolo.
+L'Autorita' tiene conto, in particolare, dei seguenti fattori: 
+ 
+                            
+                            
+                                a)
+                                
+                                    fattibilita' tecnica ed economica dell'uso o dell'installazione di risorse concorrenti, alla luce del ritmo di evoluzione del mercato, tenuto conto della natura e del tipo di interconnessione o di accesso in questione, fra cui la fattibilita' di altri prodotti di accesso upstream quale l'accesso ai condotti; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    evoluzione tecnologica prevista che incida sulla progettazione e sulla gestione della rete; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    necessita' di garantire la neutralita' tecnologica che consenta alle parti di progettare e gestire le proprie reti; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    fattibilita' della fornitura dell'accesso offerto, in relazione alla capacita' disponibile; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    investimenti iniziali del proprietario delle risorse, tenendo conto di qualsiasi investimento pubblico effettuato e dei rischi connessi a tali investimenti, con particolare riguardo agli investimenti nelle reti ad altissima capacita' e ai livelli di rischio connessi; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    necessita' di tutelare la concorrenza a lungo termine, con particolare attenzione a una concorrenza infrastrutturale economicamente efficace e a modelli di business innovativi che favoriscono la concorrenza sostenibile, come quelli basati sul coinvestimento nelle reti; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    se del caso, eventuali diritti di proprieta' intellettuale applicabili; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    fornitura di servizi paneuropei.
+
 Qualora l'Autorita' prenda in considerazione, conformemente all'articolo 79, di imporre obblighi sulla base dell'articolo 83 o del presente articolo, valuta se l'imposizione di obblighi a norma del solo articolo 83 sarebbe uno strumento proporzionato con cui promuovere la concorrenza e gli interessi degli utenti finali.
 
 L'Autorita', nell'imporre a un'impresa l'obbligo di concedere l'accesso ai sensi del presente articolo, puo' stabilire condizioni tecniche o operative che devono essere soddisfatte dal fornitore di servizi o dai beneficiari di tale accesso, ove necessario per garantire il funzionamento normale della rete. L'obbligo di rispettare determinate norme o specifiche tecniche e' conforme alle norme e alle specifiche stabilite conformemente all'articolo 39.
@@ -1474,6 +4099,49 @@ L' Autorita' riferisce annualmente alla Commissione europea e al BEREC in merito
 (ex art. 76 eecc)
 
 Le imprese che sono state ((designate)) come detentrici di un significativo potere di mercato in uno o piu' mercati rilevanti ai sensi dell'articolo 78, possono offrire impegni in conformita' della procedura di cui all'articolo 90 e fatto salvo quanto previsto dal comma 2, per aprire al coinvestimento la realizzazione di una nuova rete ad altissima capacita' che consista di elementi in fibra ottica fino ai locali degli utenti finali o alla stazione di base, ad esempio proponendo la contitolarita' o la condivisione del rischio a lungo termine attraverso cofinanziamento o accordi di acquisto che comportano diritti specifici di carattere strutturale da parte di altri fornitori di reti o servizi ((di comunicazione)) elettronica.
+
+2.
+                        
+                            
+                                Quando valuta tali impegni, l'Autorita' determina, acquisendo ove opportuno, il parere dell'Autorita' garante della concorrenza e del mercato, se l'offerta di coinvestimento soddisfa tutte le condizioni seguenti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    e' aperta in qualsiasi momento durante il periodo di vita della rete a qualsiasi fornitore di reti o servizi di comunicazione elettronica; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    consentirebbe ad altri coinvestitori che sono fornitori di reti o servizi di comunicazione elettronica di competere efficacemente e in modo sostenibile sul lungo termine nei mercati a valle in cui l'impresa designata come detentrice di un significativo potere di mercato e' attiva, secondo modalita' che comprendono: 
+ 1) condizioni eque, ragionevoli e non discriminatorie che consentano l'accesso all'intera capacita' della rete nella misura in cui essa sia soggetta al coinvestimento; 
+ 2) flessibilita' in termini del valore e della tempistica della partecipazione di ciascun coinvestitore; 
+ 3) la possibilita' di incrementare tale partecipazione in futuro; 
+ 4) la concessione di diritti reciproci fra i coinvestitori dopo la realizzazione dell'infrastruttura oggetto del coinvestimento; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    e' resa pubblica dall'impresa in modo tempestivo e, se l'impresa non possiede le caratteristiche elencate all'articolo 91, comma 1, almeno sei mesi prima dell'avvio della realizzazione della nuova rete. 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    i richiedenti l'accesso che non partecipano al coinvestimento possono beneficiare fin dall'inizio della stessa qualita' e velocita', delle medesime condizioni e della stessa raggiungibilita' degli utenti finali disponibili prima della realizzazione, accompagnate da un meccanismo di adeguamento nel corso del tempo, confermato dall'Autorita', alla luce degli sviluppi sui mercati al dettaglio correlati, che mantenga gli incentivi a partecipare al coinvestimento; tale meccanismo fa si che i richiedenti l'accesso abbiano accesso agli elementi ad altissima capacita' della rete contemporaneamente e sulla base di condizioni trasparenti e non discriminatorie in modo da rispecchiare adeguatamente i gradi di rischio sostenuti dai rispettivi coinvestitori nelle diverse fasi della realizzazione e tengano conto della situazione concorrenziale sui mercati al dettaglio; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    e' conforme almeno ai criteri di cui all'allegato 5 ed e' presentata secondo i canoni di diligenza, correttezza, completezza e veridicita' delle informazioni fornite.
 
 L'Autorita', se conclude, prendendo in considerazione i risultati del test del mercato condotto conformemente all'articolo 91, che l'impegno di coinvestimento offerto soddisfa le condizioni indicate al comma 2 del presente articolo, rende l'impegno vincolante ai sensi dell'articolo 90, comma 3, e in conformita' con il principio di proporzionalita' non impone obblighi supplementari a norma dell'articolo 79 per quanto concerne gli elementi della nuova rete ad altissima capacita' oggetto degli impegni, se almeno un potenziale coinvestitore ha stipulato un accordo di coinvestimento con l'impresa designata come detentrice di un significativo potere di mercato.
 
@@ -1537,9 +4205,66 @@ Sulla base della propria analisi, l'Autorita', acquisendo ove opportuno il parer
  
  ((
 
+1.
+                        
+                            
+                                Le imprese designate come detentrici di un significativo potere di mercato possono offrire all'Autorita' impegni per quanto riguarda le condizioni di accesso o di coinvestimento, o entrambe, applicabili alle loro reti per quanto concerne, tra l'altro: 
+ 
+                            
+                            
+                                a)
+                                
+                                    gli accordi di cooperazione rilevanti per la valutazione degli obblighi appropriati e proporzionati a norma dell'articolo 79; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il coinvestimento nelle reti ad altissima capacita' ai sensi dell'articolo 87; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    l'accesso effettivo e non discriminatorio da parte di terzi, a norma dell'articolo 67, sia durante un periodo di attuazione della separazione volontaria da parte di un'impresa verticalmente integrata sia dopo l'attuazione della forma di separazione proposta.
+
 L'offerta di impegni e' sufficientemente dettagliata, anche per quanto riguarda i tempi e l'ambito della loro applicazione, nonche' la loro durata, per consentire all'Autorita' di svolgere la propria valutazione ai sensi del comma 2 del presente articolo. Tali impegni possono prorogarsi al di la' dei periodi di svolgimento delle analisi di mercato di cui all'articolo 78, comma 7.
 
 Per valutare gli impegni offerti da un'impresa ai sensi del comma 1 del presente articolo, l'Autorita', salvo ove tali impegni non soddisfino chiaramente una o piu' condizioni o criteri pertinenti, esegue un test del mercato, in particolare in merito alle condizioni offerte, conducendo una consultazione pubblica delle parti interessate, in particolare i terzi direttamente interessati. I potenziali coinvestitori o richiedenti l'accesso possono fornire pareri in merito alla conformita' degli impegni offerti alle condizioni di cui agli articoli 79, 87 o 89, ove applicabili, e proporre cambiamenti.
+
+4.
+                        
+                            
+                                Per quanto concerne gli impegni offerti a norma del presente articolo, nel valutare gli obblighi di cui all'articolo 79, comma 6, l'Autorita' tiene conto, in particolare: 
+ 
+                            
+                            
+                                a)
+                                
+                                    delle prove riguardanti la natura equa e ragionevole degli impegni offerti; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    dell'apertura degli impegni a tutti i partecipanti al mercato; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    della tempestiva disponibilita' dell'accesso a condizioni eque, ragionevoli e non discriminatorie, anche alle reti ad altissima capacita', prima del lancio dei relativi servizi al dettaglio; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    della capacita' generale degli impegni offerti di consentire una concorrenza sostenibile nei mercati a valle e di agevolare l'introduzione e la diffusione cooperative di reti ad altissima capacita', nell'interesse degli utenti finali.
 
 Tenendo conto di tutti i pareri espressi durante la consultazione, nonche' della misura in cui tali pareri sono rappresentativi delle varie parti interessate, l'Autorita' comunica all'impresa designata come detentrice di un significativo potere di mercato le sue conclusioni preliminari atte a determinare se gli impegni offerti siano conformi agli obiettivi, ai criteri e alle procedure di cui al presente articolo e, ove applicabili, all'articolo 79, 87 o 89 a quali condizioni potrebbe prendere in considerazione la possibilita' di rendere detti impegni vincolanti.
 L'impresa puo' rivedere la sua offerta iniziale al fine di tenere conto delle conclusioni preliminari dell'autorita' nazionale e di soddisfare i criteri di cui al presente articolo e, ove applicabili, all'articolo 79, 87 o 89.
@@ -1552,6 +4277,24 @@ Fatta salva la procedura tesa a garantire l'osservanza di obblighi specifici ai 
 ## Art. 91. — Imprese attive esclusivamente sul mercato all'ingrosso
 
 (ex art. 80 eecc)
+
+1.
+                        
+                            
+                                Quando l'Autorita' designa un'impresa assente dai mercati al dettaglio dei servizi di comunicazione elettronica come avente un significativo potere di mercato in uno o piu' mercati all'ingrosso conformemente all'articolo 78, acquisendo ove opportuno il parere dell'Autorita' garante della concorrenza e del mercato, valuta se l'impresa presenta le seguenti caratteristiche: 
+ 
+                            
+                            
+                                a)
+                                
+                                    tutte le societa' e le unita' commerciali all'interno dell'impresa, tutte le societa' che sono controllate, ma non necessariamente del tutto appartenenti allo stesso proprietario apicale, nonche' qualsiasi azionista in grado di esercitare un controllo sull'impresa, svolgono attivita', attuali e previste per il futuro, solo nei mercati all'ingrosso dei servizi di comunicazione elettronica e pertanto non svolgono attivita' in un mercato al dettaglio dei servizi di comunicazione elettronica forniti agli utenti finali; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'impresa non e' tenuta a trattare con un'unica impresa separata operante a valle che e' attiva in un mercato al dettaglio dei servizi di comunicazione elettronica forniti a utenti finali in virtu' di un contratto di esclusiva o un accordo che rappresenta di fatto un contratto di esclusiva.
 
 L'Autorita', se ritiene che le condizioni di cui al comma 1 del presente articolo siano soddisfatte, e conformemente al principio di proporzionalita', puo' imporre a detta impresa designata di cui al comma 1, solo obblighi a norma degli articoli ((81 e 84)) o inerenti a prezzi equi e ragionevoli, se giustificato in base a un'analisi di mercato che comprenda una valutazione in prospettiva del probabile comportamento dell'impresa designata come detentrice di un significativo potere di mercato.
 
@@ -1569,6 +4312,24 @@ L'imposizione di obblighi e la loro revisione a norma del presente articolo sono
 
 Le imprese che sono state designate come aventi un significativo potere di mercato in uno o piu' mercati rilevanti ai sensi dell'articolo 78 comunicano anticipatamente e tempestivamente all'Autorita' l'intenzione di disattivare o sostituire con nuove infrastrutture parti della rete, comprese le infrastrutture preesistenti necessarie per far funzionare una rete in rame, che sono soggette agli obblighi di cui agli articoli da 79 a 91.
 
+2.
+                        
+                            
+                                L'Autorita' provvede affinche' il processo di disattivazione o sostituzione comprenda un calendario e condizioni trasparenti, compreso un idoneo periodo di preavviso per la transizione, e preveda la disponibilita' di prodotti alternativi per l'accesso alle infrastrutture di rete aggiornate, di qualita' almeno comparabile a quella degli elementi sostituiti, se necessario, per garantire la concorrenza e i diritti degli utenti finali. Per quanto riguarda le attivita' proposte per la disattivazione o la sostituzione, l'Autorita' puo' revocare gli obblighi dopo aver accertato che il fornitore di accesso: 
+ 
+                            
+                            
+                                a)
+                                
+                                    ha stabilito le condizioni adeguate per la migrazione, compresa la messa a disposizione di un prodotto di accesso alternativo di qualita' almeno comparabile al prodotto disponibile nell'ambito delle infrastrutture preesistenti che consenta ai richiedenti l'accesso di raggiungere gli stessi utenti finali; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    ha rispettato le condizioni e il processo comunicati all'Autorita' conformemente al presente articolo.
+
 La revoca e' attuata secondo le procedure di cui agli articoli 23, 33 e 34.
 
 Il presente articolo non pregiudica la disponibilita' di prodotti regolamentati imposta dall'Autorita' sull'infrastruttura di rete aggiornata, a norma delle procedure di cui agli articoli 78 e 79.
@@ -1580,6 +4341,24 @@ Il presente articolo non pregiudica la disponibilita' di prodotti regolamentati 
 (( (ex art. 83 eecc) )) 
  
  ((
+
+1.
+                        
+                            
+                                L'Autorita' puo' imporre gli obblighi normativi adeguati alle imprese designate come detentrici di un significativo potere di mercato su un dato mercato al dettaglio ai sensi dell'articolo 74, quando: 
+ 
+                            
+                            
+                                a)
+                                
+                                    a seguito di un'analisi di mercato realizzata conformemente all'articolo 78, l'Autorita' stabilisce che un dato mercato al dettaglio, definito in conformita' dell'articolo 75, non e' effettivamente competitivo; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'Autorita' conclude che gli obblighi imposti conformemente agli articoli da 80 a 85 non permetterebbero il conseguimento degli obiettivi di cui all'articolo 4.
 
 Gli obblighi normativi imposti ai sensi del comma 1 sono correlati al tipo di problema individuato e sono proporzionati e giustificati alla luce degli obiettivi di cui all'articolo 4. Tali obblighi possono prevedere che le imprese identificate non applichino prezzi eccessivi, non impediscano l'ingresso sul mercato ne' limitino la concorrenza fissando prezzi predatori, non privilegino ingiustamente determinati utenti finali e non accorpino in modo indebito i servizi offerti. L'Autorita' puo' prescrivere a tali imprese di rispettare determinati massimali per quanto riguarda i prezzi al dettaglio, di controllare le singole tariffe o di orientare le proprie tariffe ai costi o ai prezzi su mercati comparabili al fine di tutelare gli interessi degli utenti finali e promuovere nel contempo un'effettiva concorrenza.
 
@@ -1693,6 +4472,24 @@ L'Autorita', se constata che le prestazioni sono ampiamente disponibili, puo' di
  
  ((
 
+1.
+                        
+                            
+                                Allorche' l'Autorita' ritenga che la fornitura di un servizio di accesso adeguato a internet a banda larga, quale definito ai sensi dell'articolo 94, comma 3, e di servizi di comunicazione vocale di cui agli articoli 94, 95 e 96 o il mantenimento dei servizi universali esistenti di cui all'articolo 97 possano comportare un onere eccessivo per i fornitori dei suddetti servizi tale da richiedere una compensazione finanziaria, calcola i costi netti di tale fornitura. A tal fine, l'Autorita' puo' alternativamente: 
+ 
+                            
+                            
+                                a)
+                                
+                                    procedere al calcolo del costo netto degli obblighi di servizio universale, tenendo conto degli eventuali vantaggi commerciali derivanti a uno o piu' fornitori che forniscono un servizio di accesso adeguato a internet a banda larga, quali definiti ai sensi dell'articolo 94c, comma 2 nonche' servizi di comunicazione vocale di cui agli articoli 95, 96 e 97, o il mantenimento dei servizi universali esistenti di cui all'articolo 97, in base alle modalita' stabilite nell'allegato 7; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    utilizzare i costi netti della fornitura del servizio universale individuati in base a un meccanismo di determinazione conforme all'articolo 96 comma 4.
+
 I conti e le altre informazioni su cui si basa il calcolo del costo netto degli obblighi di servizio universale di cui al comma 1, lettera a), sono sottoposti alla verifica dell'Autorita' o di un organismo indipendente dalle parti interessate e approvato dall'Autorita'. I risultati del calcolo e le conclusioni finali della verifica sono messi a disposizione del pubblico.
 
 ## Art. 98-ter. — (( (Finanziamento degli obblighi di servizio universale) ))
@@ -1802,6 +4599,24 @@ Le misure adottate per facilitare l'accesso degli utenti finali con disabilita' 
 
 (ex art. 97 eecc; art. 78 Codice 2003)
 
+1.
+                        
+                            
+                                Ove cio' sia economicamente fattibile e salvo il caso in cui un utente finale chiamato abbia scelto, per ragioni commerciali, di limitare l'accesso da parte di chiamanti ubicati in determinate zone geografiche, l'Autorita' adotta tutte le misure necessarie per assicurare che gli utenti finali siano in grado di: 
+ 
+                            
+                            
+                                a)
+                                
+                                    accedere e utilizzare i servizi utilizzando numeri non geografici appartenenti ai piani di numerazione telefonica nazionali presenti all'interno dell'Unione; e 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    accedere a tutti i numeri forniti nell'Unione, a prescindere dalla tecnologia e dai dispositivi utilizzati dall'operatore, compresi quelli dei piani nazionali di numerazione degli Stati membri e i numeri verdi internazionali universali (Universal International Freephone Numbers - UIFN).
+
 L'Autorita' puo' imporre ai fornitori di reti pubbliche di comunicazione elettronica o di servizi di comunicazione elettronica accessibili al pubblico di bloccare l'accesso a numeri o servizi, caso per caso, ove cio' sia giustificato da motivi legati a frodi o abusi e imporre che in simili casi i fornitori di servizi di comunicazione elettronica trattengano i relativi ricavi da interconnessione o da altri servizi. L'Autorita' puo' stabilire norme di applicazione generalizzata per bloccare l'accesso da numeri o da servizi al fine di contrastare frodi o abusi, anche prevedendo misure regolamentari dissuasive. ((In particolare, l'Autorita' puo' imporre ai soggetti autorizzati a fornire reti o servizi di comunicazione elettronica norme per bloccare comunicazioni provenienti dall'estero che illegittimamente usino numerazione nazionale per identificarne l'origine, ovvero non rispettano le specifiche raccomandazioni dell'ITU-T. L'Autorita' puo' ordinare il blocco dei sistemi dei nomi di dominio accessibili da utenza sita sul territorio nazionale in caso di pratiche commerciali aggressive, frodi o abusi sulla base di specifica propria regolamentazione.))
 
 L'Autorita' definisce l'ubicazione dei punti terminali di rete nel rispetto dei principi di accessibilita' alle numerazioni e considerando che il punto terminale di rete e' il punto di accesso alla rete pubblica definito mediante un indirizzo di rete specifico.
@@ -1842,6 +4657,52 @@ Prima che il consumatore sia vincolato da un contratto o da un'offerta corrispon
 
 Le informazioni di cui ai commi 1, 3 e 5 sono fornite anche agli utenti finali che sono microimprese, piccole imprese o organizzazioni senza scopo di lucro, a meno che esse non abbiano espressamente acconsentito a non applicare la totalita' o parti di tali disposizioni.
 
+3.
+                        
+                            
+                                I fornitori di servizi di comunicazione elettronica accessibili al pubblico diversi dai servizi di trasmissione utilizzati per la fornitura di servizi da macchina a macchina forniscono ai consumatori una sintesi contrattuale concisa e facilmente leggibile. Tale sintesi individua i principali elementi degli obblighi di informazione in conformita' del comma 1. Gli elementi principali comprendono almeno: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il nome, l'indirizzo e i recapiti del fornitore e, se diversi, i recapiti per eventuali reclami; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le principali caratteristiche di ciascun servizio fornito; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    i rispettivi prezzi per attivare il servizio di comunicazione elettronica e per i costi ricorrenti o legati al consumo, qualora il servizio sia fornito a fronte di un pagamento diretto in denaro; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    la durata del contratto e le condizioni di rinnovo e risoluzione; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    la misura in cui i prodotti e i servizi sono progettati per gli utenti finali con disabilita'; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    con riguardo ai servizi di accesso a internet, una sintesi delle informazioni richieste a norma dell'articolo 4, paragrafo 1, lettere d) ed e), del regolamento (UE) 2015/2120.
+
 I fornitori soggetti agli obblighi di cui al comma 1 forniscono, mediante il modello sintetico di cui al Regolamento di esecuzione (UE) 2019/2243 della Commissione, del 17 dicembre 2019, la sintesi contrattuale gratuitamente ai consumatori, prima della stipula del contratto, anche nel caso di contratti a distanza. Qualora sia impossibile in quel momento, per ragioni tecniche oggettive, fornire la sintesi contrattuale, essa e' fornita in seguito senza indebito ritardo; il contratto diventa effettivo quando il consumatore ha confermato il proprio accordo in seguito alla ricezione della sintesi contrattuale.
 
 Le informazioni di cui ai commi 1 e 4 diventano parte integrante del contratto e non sono modificate prima della scadenza del termine di cui all'articolo 98-septies decies comma 1, se non con l'accordo esplicito delle parti contrattuali.
@@ -1859,6 +4720,112 @@ L'Autorita' puo' imporre ai fornitori di assicurare informazioni aggiuntive in m
  ((
 
 Qualora i fornitori di servizi di accesso a internet o di comunicazione interpersonale accessibili al pubblico assoggettino la fornitura di tali servizi a termini e condizioni, l'Autorita' provvede affinche' le informazioni di cui all'allegato 9 siano pubblicate da tutti i fornitori in questione o dalla stessa Autorita', in forma chiara, esaustiva, idonea alla lettura automatica e in un formato accessibile per i consumatori con disabilita', conformemente al diritto dell'Unione che armonizza i requisiti di accessibilita' dei prodotti e dei servizi. Tali informazioni sono costantemente aggiornate. L'Autorita' puo' precisare ulteriori prescrizioni relative alla forma in cui tali informazioni devono essere pubblicate. Tali informazioni sono comunicate, a richiesta, anche all'Autorita' prima della pubblicazione.
+
+2.
+                        
+                            
+                                L'Autorita' provvede affinche' gli utenti finali abbiano accesso gratuito ad almeno uno strumento indipendente di confronto che consenta loro di comparare e valutare diversi servizi di accesso a internet e servizi di comunicazione interpersonale basati sul numero accessibili al pubblico e, se del caso, di servizi di comunicazione interpersonale indipendenti dal numero accessibili al pubblico, per quanto riguarda: 
+ 
+                            
+                            
+                                a)
+                                
+                                    prezzi e tariffe dei servizi forniti a fronte di pagamenti diretti in denaro ricorrenti o basati sul consumo; e 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la qualita' del servizio, laddove sia offerta una qualita' minima del servizio o all'impresa sia richiesto di pubblicare tali informazioni ai sensi dell'articolo 98-sedecies.
+
+3.
+                        
+                            
+                                Lo strumento di confronto di cui al comma 2: 
+ 
+                            
+                            
+                                a)
+                                
+                                    e' funzionalmente indipendente dai fornitori di tali servizi, e assicura pertanto che tali prestatori di servizi ricevano pari trattamento nei risultati di ricerca; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    indica chiaramente i proprietari e gli operatori dello strumento di confronto; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    definisce criteri chiari e obiettivi su cui si deve basare il confronto; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    utilizza un linguaggio chiaro e privo di ambiguita'; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    fornisce informazioni corrette e aggiornate e indica la data dell'ultimo aggiornamento; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    e' aperto a qualsiasi fornitore di servizi di accesso a internet o servizi di comunicazione interpersonale accessibili al pubblico che metta a disposizione le informazioni pertinenti e comprende un'ampia gamma di offerte che copra una parte significativa del mercato e, se le informazioni presentate non forniscono un quadro completo del mercato, una chiara indicazione in tal senso prima di mostrare i risultati; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    prevede una procedura efficace per segnalare le informazioni errate; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    comprende la possibilita' di comparare prezzi, tariffe e prestazioni in termini di qualita' del servizio tra le offerte a disposizione dei consumatori e, qualora l'Autorita' lo ritengo opportuno, le offerte standard accessibili pubblicamente agli utenti finali.
+
+4.
+                        
+                            
+                                Gli strumenti di confronto che soddisfano i requisiti di cui alle lettere da 
+                            
+                            
+                                a)
+                                
+                                    a h) sono certificati, su richiesta del fornitore dello strumento, dall'Autorita'. I terzi hanno il diritto di utilizzare gratuitamente e in formati di dati aperti, allo scopo di rendere disponibili tali strumenti indipendenti di confronto, le informazioni pubblicate dai fornitori dei servizi di accesso a internet o dei servizi di comunicazione interpersonale accessibili al pubblico.
+
+5.
+                        
+                            
+                                L'Autorita' puo' esigere che i fornitori di servizi di accesso a internet o di servizi di comunicazione interpersonale basati sul numero accessibili al pubblico, o entrambi, diffondano gratuitamente, all'occorrenza, informazioni di pubblico interesse agli utenti finali nuovi ed esistenti tramite i canali che utilizzano normalmente per le comunicazioni con gli utenti finali. In tal caso, dette informazioni di pubblico interesse sono fornite dalle competenti autorita' pubbliche in forma standardizzata e riguardano fra l'altro: 
+ 
+                            
+                            
+                                a)
+                                
+                                    gli utilizzi piu' comuni dei servizi di accesso a internet e dei servizi di comunicazione interpersonale basati sul numero accessibili al pubblico per attivita' illegali o per la diffusione di contenuti dannosi, in particolare quelli che possono attentare al rispetto degli altrui diritti e liberta', comprese le violazioni dei diritti di protezione dei dati, del diritto d'autore e dei diritti connessi, e le conseguenze giuridiche di tali atti; e 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    i mezzi di protezione contro i rischi per la sicurezza personale, per la vita privata e per i dati personali, anche ai fini di cui all'articolo 13 del Regolamento (UE) 2016/679 nella fruizione dei servizi di accesso a internet e dei servizi di comunicazione interpersonale basati sul numero accessibili al pubblico.
 
 ## Art. 98-sex-decies. — (( (Qualita' dei servizi relativi all'accesso a internet e dei servizi di comunicazione interpersonale accessibili al pubblico) ))
 
@@ -2083,9 +5050,188 @@ La decadenza dall'autorizzazione generale e' pronunciata quando venga meno uno d
 
 ## Art. 104. — Attivita' soggette ad autorizzazione generale
 
+1.
+                        
+                            
+                                L'autorizzazione generale e' in ogni caso necessaria nei seguenti casi: 
+ 
+                            
+                            
+                                a)
+                                
+                                    installazione di una o piu' stazioni radioelettriche o del relativo esercizio di collegamenti di terra e via satellite richiedenti una assegnazione di frequenza, con particolare riferimento a: 
+ 1) sistemi fissi, mobili terrestri, mobili marittimi, mobili aeronautici; 
+ 2) sistemi di radionavigazione e di radiolocalizzazione; 
+ 3) sistemi di ricerca spaziale; 
+ 4) sistemi di esplorazione della Terra; 
+ 5) sistemi di operazioni spaziali; 
+ 6) sistemi di frequenze campioni e segnali orari; 
+ 7) sistemi di ausilio alla meteorologia; 
+ 8) sistemi di radioastronomia. 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    installazione od esercizio di una rete di comunicazione elettronica su supporto fisico, ad onde convogliate e con sistemi ottici, ad eccezione di quanto previsto dall'articolo 105, comma 2, lettera a); 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    installazione o esercizio di sistemi che impiegano bande di frequenze di tipo collettivo: 
+ 1) senza protezione da disturbi tra utenti delle stesse bande e con protezione da interferenze provocate da stazioni di altri servizi, compatibilmente con gli statuti dei servizi previsti dal piano nazionale di ripartizione delle frequenze e dal regolamento delle radiocomunicazioni; in particolare appartengono a tale categoria le stazioni di radioamatore nonche' le stazioni e gli impianti di cui all'articolo 143, comma 1; 
+ 2) senza alcuna protezione, mediante dispositivi di debole potenza. In particolare l'autorizzazione generale e' richiesta nel caso: 
+ 2.1) di installazione od esercizio di reti locali a tecnologia DECT o UMTS, ad eccezione di quanto disposto dall'articolo 105, comma 1, lettera a); 
+ 2.2) di installazione od esercizio di apparecchiature in ausilio al traffico ed al trasporto su strada e rotaia, agli addetti alla sicurezza ed al soccorso sulle strade, alla vigilanza del traffico, ai trasporti a fune, al controllo delle foreste, alla disciplina della caccia e della pesca ed alla sicurezza notturna; 
+ 2.3) di installazione od esercizio di apparecchiature in ausilio ad imprese industriali, commerciali, artigiane ed agrarie, comprese quelle di spettacolo o di radiodiffusione; 
+ 2.4) di installazione od esercizio di apparecchiature per collegamenti riguardanti la sicurezza della vita umana in mare, o comunque l'emergenza, fra piccole imbarcazioni e stazioni collocate presso sedi di organizzazioni nautiche nonche' per collegamenti di servizio fra diversi punti di una stessa nave; 
+ 2.5) di installazione od esercizio di apparecchiature in ausilio alle attivita' sportive ed agonistiche; 
+ 2.6) di installazione od esercizio di apparecchi per ricerca persone; 
+ 2.7) di installazione od esercizio di apparecchiature in ausilio alle attivita' professionali sanitarie ed alle attivita' direttamente ad esse collegate; 
+ 2.8) di installazione od esercizio di apparecchiature per comunicazioni a breve distanza, di tipo diverso da quelle di cui ai numeri da 2.1) a 2.8). 
+ 2.8-bis) di installazione o esercizio di apparati concentratori in tecnologie LPWAN rispondenti alla raccomandazione della Conferenza europea delle amministrazioni delle poste e delle telecomunicazioni CEPT/ERC/REC 70-03, fatte salve le esigenze di difesa e sicurezza dello Stato. ((A tal fine il Ministero, con proprio decreto, adottato di concerto con il Ministero della difesa definisce apposite linee guida entro il 30 giugno 2024.)) 
+ 3) NUMERO SOPPRESSO DAL D.LGS. 28 MAGGIO 2012, N. 70.
+
 Le bande di frequenze e le caratteristiche tecniche delle apparecchiature sono definite a norma del piano nazionale di ripartizione delle frequenze.
 
 ## Art. 105. — Libero uso
+
+1.
+                        
+                            
+                                Sono di libero uso le apparecchiature che impiegano frequenze di tipo collettivo, senza alcuna protezione, per collegamenti a brevissima distanza con apparati a corto raggio, compresi quelli rispondenti alla raccomandazione CEPT/ERC/REC 70-03, tra le quali rientrano in particolare: 
+ 
+                            
+                            
+                                a)
+                                
+                                    reti locali a tecnologia DECT o UMTS nell'ambito del fondo, ai sensi dell'articolo 99, comma 5; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    reti locali di tipo radiolan e hiperlan; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    sistemi per applicazioni in campo ferroviario; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    sistemi per rilievo di movimenti e sistemi di allarme; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    allarmi generici ed allarmi a fini sociali; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    telecomandi dilettantistici; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    applicazioni induttive; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    radiomicrofoni a banda stretta e radiomicrofoni non professionali; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    ausilii per handicappati; 
+
+                                
+                            
+                            
+                                j)
+                                
+                                    applicazioni medicali di debolissima potenza; 
+
+                                
+                            
+                            
+                                k)
+                                
+                                    applicazioni audio senza fili; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    apriporta; 
+
+                                
+                            
+                            
+                                m)
+                                
+                                    radiogiocattoli; 
+
+                                
+                            
+                            
+                                n)
+                                
+                                    apparati per l'individuazione di vittime da valanga; 
+
+                                
+                            
+                            
+                                o)
+                                
+                                    apparati non destinati ad impieghi specifici; 
+
+                                
+                            
+                            
+                                p)
+                                
+                                    apparati per comunicazioni in "banda cittadina - CB" o assimilate , sempre che per queste ultime risultino escluse la possibilita' di chiamata selettiva e l'adozione di congegni e sistemi atti a rendere non intercettabili da terzi le notizie scambiate; sussiste il divieto di effettuare comunicazioni internazionali e trasmissione di programmi o comunicati destinati alla generalita' degli ascoltatori. ((PERIODO SOPPRESSO DAL D.L. 16 LUGLIO 2020, N.76)).
+
+2.
+                        
+                            
+                                Sono altresi' di libero uso: 
+ 
+                            
+                            
+                                a)
+                                
+                                    i collegamenti su supporto fisico, ad onde convogliate e con sistemi ottici realizzati nel fondo ai sensi dell'articolo 99, comma 5; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    gli apparati radioelettrici solo riceventi, anche da satellite, per i quali non sono previste assegnazione di frequenze e protezione: non sono compresi gli apparecchi destinati esclusivamente alla ricezione del servizio di radiodiffusione.
 
 Le bande di frequenze e le caratteristiche tecniche delle apparecchiature sono definite a norma del piano nazionale di ripartizione delle frequenze.
 
@@ -2097,11 +5243,57 @@ I rivenditori di apparati radioelettrici ricetrasmittenti o trasmittenti devono 
 
 Per conseguire un'autorizzazione generale all'espletamento delle attivita' di cui all'articolo 104, comma 1, lettera a), il soggetto interessato e' tenuto a presentare al Ministero una dichiarazione, ((conforme al modello approvato con decreto del Ministero delle imprese e del made in Italy)), contenente informazioni riguardanti il richiedente ed una dichiarazione di impegno ad osservare specifici obblighi, quali il pagamento dei contributi di cui all'allegato n. 25, nonche' il rispetto delle norme di sicurezza, di protezione ambientale, di salute della popolazione ed urbanistiche.
 
+2.
+                        
+                            
+                                Alla dichiarazione di cui ((al comma 1)) deve essere acclusa la domanda di concessione dei diritti d'uso di frequenza, corredata dalla documentazione seguente: 
+ 
+                            
+                            
+                                a)
+                                
+                                    un progetto tecnico del collegamento da realizzare, redatto in conformita' alle normative tecniche vigenti, finalizzato all'uso ottimale dello spettro radio con particolare riferimento, fra l'altro, alle aree di copertura, alla potenza massima irradiata, alla larghezza di banda di canale, al numero di ripetitori; il progetto, sottoscritto da soggetto abilitato, e' elaborato secondo i modelli di cui agli allegati nn. 15 e 16. Tale progetto deve contenere una descrizione tecnica particolareggiata del sistema che si intende gestire. In particolare, esso deve indicare: 
+ 1) il tipo, l'ubicazione e le caratteristiche tecniche delle stazioni radioelettriche; 
+ 2) le frequenze, comprese nelle bande attribuite al tipo di servizio che si intende gestire, di cui si propone l'utilizzazione; 
+ 3) il numero delle stazioni radioelettriche previste per il collegamento; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la dichiarazione sostitutiva di atto di notorieta' conforme all'allegato n. 20 per i soggetti per i quali va acquisita la documentazione antimafia, ai sensi del decreto legislativo 8 agosto 1994, n. 490, e del decreto del Presidente della Repubblica 3 giugno 1998, n. 252.
+
 Il Ministero, entro sei settimane dal ricevimento della domanda completa di ogni elemento necessario, provvede al conferimento del diritto d'uso delle frequenze comunicando la decisione al soggetto interessato il quale ha titolo all'esercizio dell'autorizzazione generale in concomitanza con l'intervenuta comunicazione. Le determinazioni del Ministero sono pubbliche. Resta impregiudicato quanto previsto negli eventuali accordi internazionali applicabili al caso in specie relativamente al coordinamento internazionale delle frequenze e delle posizioni orbitali dei satelliti.
 
 Allo scopo di garantire una gestione efficiente dello spettro radio, dall'autorizzazione generale non discende al titolare alcun diritto individuale di uso in esclusiva delle frequenze assegnate.
 
 Il soggetto che intende espletare le attivita' di cui all'articolo 104, comma 1, lettera b), e' tenuto a presentare al Ministero una dichiarazione conforme al modello riportato nell'allegato n. 17.
+
+6.
+                        
+                            
+                                La dichiarazione contiene le informazioni riguardanti l'interessato, le indicazioni circa le caratteristiche dei sistemi di comunicazioni elettroniche da impiegare, ove previsti, e l'impegno ad osservare specifici obblighi quali quello del pagamento dei contributi di cui all'allegato n. 25, nonche' quello dell'osservanza delle norme di sicurezza, di protezione ambientale, di salute della popolazione ed urbanistiche. Alla dichiarazione deve essere allegata la documentazione seguente: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il progetto tecnico del collegamento nel caso di installazione ed esercizio di una rete di comunicazione elettronica su supporto fisico, ad onde convogliate e su sistemi ottici, sottoscritto da un soggetto abilitato; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la dichiarazione sostitutiva di atto di notorieta' conforme all'allegato n. 20 per i soggetti per i quali va acquisita la documentazione antimafia, ai sensi del decreto legislativo 8 agosto 1994, n. 490, e del decreto del Presidente della Repubblica 3 giugno 1998, n. 252; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    gli attestati dell'avvenuto versamento del contributo a titolo di rimborso delle spese riguardanti l'attivita' di vigilanza e controllo relativo al primo anno dal quale decorre l'autorizzazione generale.
 
 Per le stazioni radioelettriche a bordo di navi e di aeromobili, l'interessato, sulla scorta del verbale di collaudo della stazione, se prescritto, richiede al Ministero la licenza di esercizio; questa tiene luogo dell'autorizzazione generale.
 
@@ -2134,6 +5326,52 @@ Analoga autorizzazione puo' essere rilasciata agli Enti internazionali, cui in v
 Nel caso di rappresentanze diplomatiche di Stati con i quali siano intervenuti accordi, che regolano anche la materia dell'impianto e dell'esercizio di stazioni radioelettriche, installate o da installarsi nelle sedi delle rappresentanze stesse, non si richiede il rilascio di autorizzazioni, salvo integrazione tecnica degli accordi stessi, per quanto in essi non disciplinato.
 
 ## Art. 109. — Condizioni per il rilascio dell'autorizzazione
+
+1.
+                        
+                            
+                                Il rilascio di una autorizzazione di cui all'articolo 108, fermo restando il disposto del comma 3 dell'articolo stesso, puo' essere accordata in seguito alla stipulazione di un'apposita convenzione da sottoscriversi dal responsabile della rappresentanza diplomatica straniera, nella quale dovranno essere inserite le seguenti clausole:
+ 
+                            
+                            
+                                a)
+                                
+                                    l'uso degli impianti radioelettrici deve essere limitato al traffico ufficiale di servizio della rappresentanza diplomatica con lo Stato di appartenenza, escluso il traffico di stampa ed i messaggi personali e qualsiasi collegamento con altri Paesi;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la potenza della stazione trasmittente non deve essere superiore a quella necessaria per il collegamento con lo Stato di appartenenza;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    l'esercizio della stazione deve essere affidato a personale tecnicamente idoneo;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    l'esercizio della stazione non deve in alcun modo interferire o disturbare i servizi di comunicazione elettronica;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    il Ministero puo' prescrivere particolari accorgimenti tecnici per la eliminazione dei disturbi o interferenze eventualmente derivanti dall'esercizio della stazione e, in caso di persistenza di questi, sospendere l'autorizzazione generale o revocarla;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    la stazione non puo' far uso di frequenze diverse da quelle assegnate dal Ministero.
 
 Qualora le stazioni radioelettriche installate nelle sedi diplomatiche italiane all'estero siano suscettibili, per speciali accordi intervenuti o per legge interna dello Stato straniero, di essere sottoposte ad ispezione ed a controlli da parte delle autorita' di quel Paese, analoga potesta' di ispezione e di controllo dovra' essere stabilita nella convenzione che la rappresentanza diplomatica dello Stato di cui trattasi stipulera' con lo Stato italiano per l'impianto e l'esercizio di stazioni radioelettriche nella propria sede diplomatica.
 
@@ -2203,6 +5441,31 @@ L'utilizzazione delle frequenze deve conformarsi al Piano nazionale di ripartizi
 
 ## Art. 121. — Bande collettive di frequenze
 
+1.
+                        
+                            
+                                Con provvedimenti del Ministero sono definite:
+ 
+                            
+                            
+                                a)
+                                
+                                    le interfacce radio delle apparecchiature disciplinate dal decreto legislativo 9 maggio 2001, n. 269;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le caratteristiche tecniche e le modalita' di funzionamento delle apparecchiature indicate negli articoli 104 e 105, se non disciplinate dal decreto legislativo 9 maggio 2001, n. 269;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    le integrazioni necessarie per adeguare l'elenco delle apparecchiature di cui agli articoli 104 e 105.
+
 ## Art. 122. — Collegamento alle reti pubbliche di comunicazione e interconnessione
 
 E' consentito ai soggetti autorizzati all'installazione ed esercizio di reti di comunicazione elettronica ad uso privato, ferme le limitazioni poste dall'articolo 101, comma 1, l'accesso alle reti pubbliche di comunicazione. E' comunque necessario il previo consenso del Ministero nel caso in cui i soggetti autorizzati siano titolari di diritti individuali di uso delle frequenze.
@@ -2251,6 +5514,24 @@ Il servizio radiomobile professionale, per il quale e' richiesta l'autorizzazion
 
 Il sistema analogico o numerico in tecnica multiaccesso e' un sistema che consente, attraverso una o piu' stazioni di base, di accedere ad un gruppo comune di frequenze.
 
+3.
+                        
+                            
+                                Il presente Capo: 
+ 
+                            
+                            
+                                a)
+                                
+                                    disciplina il servizio radiomobile professionale analogico e numerico autogestito in tecnica multiaccesso; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    individua gruppi distinti di frequenze per i servizi radiomobili professionali analogici e numerici autogestiti.
+
 Il servizio radiomobile professionale numerico autogestito utilizza, in prima applicazione, la tecnologia TETRA (Terrestrial Trunked Radio), cosi' come definita dall'ETSI (European Telecommunication Standard Institute).
 
 L'impiego di standard diversi dal TETRA con l'individuazione delle necessarie frequenze e' disciplinato da apposito regolamento, emanato con decreto del ((Ministro delle imprese e del made in Italy)).
@@ -2289,6 +5570,24 @@ E' libera l'attivita' di solo ascolto sulla gamma di frequenze attribuita al ser
 
 ((
 
+1.
+                        
+                            
+                                L'autorizzazione generale per l'impianto e l'esercizio di stazioni di radioamatore e' di due tipi: 
+ 
+                            
+                            
+                                a)
+                                
+                                    classe A ai sensi della raccomandazione CEPT T/R 61-01 e del decreto del Ministro delle comunicazioni 21 luglio 2005, pubblicato nella Gazzetta Ufficiale n. 196 del 24 agosto 2005; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    classe N corrispondente alla classe di radioamatore novizio prevista dalla raccomandazione CEPT ECC/REC (05)06.
+
 Il titolare di autorizzazione generale e' abilitato all'impiego di tutte le bande di frequenze attribuite dal piano nazionale di ripartizione delle radiofrequenze al servizio di radioamatore ed al servizio di radioamatore via satellite, con l'osservanza e nei limiti stabiliti dalle norme tecniche di cui all'allegato n. 26.
 
 Ai radioamatori che abbiano conseguito l'autorizzazione generale di classe A e' rilasciata la relativa attestazione equivalente CEPT T/R 61-01.
@@ -2313,7 +5612,100 @@ Il Ministero puo' affidare, senza nuovi o maggiori oneri a carico della finanza 
 
 ## Art. 137. — Requisiti
 
+1.
+                        
+                            
+                                L'impianto e l'esercizio della stazione di radioamatore sono consentiti a chi: 
+ 
+                            
+                            
+                                a)
+                                
+                                    abbia la cittadinanza di uno dei Paesi dell'Unione europea o dello Spazio Economico Europeo, di Paesi con i quali siano intercorsi accordi di reciprocita', fermo restando quanto disposto dall'articolo 2, comma 2, del decreto legislativo 25 luglio 1998, n. 286, ovvero sia residente in Italia; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    abbia eta' non inferiore a ((quattordici anni)); 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    sia in possesso della relativa patente; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    non abbia riportato condanne per delitti non colposi a pena restrittiva superiore a due anni e non sia stato sottoposto a misure di sicurezza e di prevenzione finche' durano gli effetti dei provvedimenti e sempre che non sia intervenuta sentenza di riabilitazione.
+
 ## Art. 138. — Dichiarazione
+
+1.
+                        
+                            
+                                La dichiarazione di cui all'articolo 107, commi 5, 9, e 10, riguarda : 
+ 
+                            
+                            
+                                a)
+                                
+                                    cognome, nome, luogo e data di nascita, residenza o domicilio dell'interessato; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    indicazione delle sedi degli impianti;
+                                
+                            
+                            
+                                c)
+                                
+                                    gli estremi della patente di operatore; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    l'impegno ad osservare le norme tecniche di cui all'allegato n. 26 per gli apparati da utilizzare;
+                                
+                            
+                            
+                                e)
+                                
+                                    la richiesta del nominativo di stazione di cui all'articolo 139;
+                                
+                            
+                            
+                                f)
+                                
+                                    il possesso dei requisiti di cui all'articolo 137.
+
+2.
+                        
+                            
+                                Alla dichiarazione sono allegate : 
+ 
+                            
+                            
+                                a)
+                                
+                                    l'attestazione del versamento dei contributi dovuti, di cui all'allegato n. 25; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    per i minorenni non emancipati, la dichiarazione di consenso e di assunzione delle responsabilita' civili da parte di chi esercita la potesta' o la tutela.
 
 ## Art. 139. — Nominativo
 
@@ -2353,6 +5745,24 @@ Puo' essere consentita ai radioamatori di svolgere attivita' di radioassistenza 
 
 ((
 
+1.
+                        
+                            
+                                Le associazioni dei radioamatori legalmente costituite possono conseguire, nel rispetto delle disposizioni recate dagli articoli 107, commi 5, 9 e 10, e 140, l'autorizzazione generale per l'installazione e l'esercizio: 
+ 
+                            
+                            
+                                a)
+                                
+                                    di stazioni ripetitrici analogiche o numeriche a divisione di frequenza o di tempo; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    di impianti destinati ad accesso multiplo.
+
 Per le singole persone fisiche, l'autorizzazione generale per l'impianto e l'esercizio di stazione di radioamatore costituisce requisito per il conseguimento, nel rispetto delle disposizioni richiamate al comma 1, dell'autorizzazione generale per stazioni ripetitrici automatiche non presidiate.
 
 L'installazione e l'esercizio di stazioni ripetitrici automatiche presso la residenza o il domicilio del titolare dell'autorizzazione generale per l'impianto e l'esercizio di stazione di radioamatore sono soggetti a comunicazione; il titolare della stazione di radioamatore e' tenuto al controllo delle apparecchiature della stazione ripetitrice al fine di assicurarne il corretto funzionamento in osservanza delle norme tecniche contenute nell'allegato n. 26 per tali tipologie di impianti.
@@ -2362,6 +5772,44 @@ L'installazione e l'esercizio di stazioni di radiofari ad uso amatoriale sono so
 ))
 
 ## Art. 144. — Autorizzazioni speciali
+
+1.
+                        
+                            
+                                Oltre che da singole persone fisiche, l'autorizzazione generale per l'impianto e l'esercizio di stazioni di radioamatore puo' essere conseguita da: 
+ 
+                            
+                            
+                                a)
+                                
+                                    Universita' ed Enti di ricerca scientifica e tecnologica; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    scuole ed istituti di istruzione di ogni ordine e grado, statali e legalmente riconosciuti, ad eccezione delle scuole elementari; la relativa dichiarazione deve essere inoltrata tramite il Ministero dell'istruzione, dell'universita' e della ricerca, che deve attestare la qualifica della scuola o dell'istituto; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    scuole e corsi di istruzione militare per i quali la dichiarazione viene presentata dal Ministero della difesa; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    associazioni dei radioamatori legalmente costituite e loro articolazioni se statutariamente previste, anche per stazioni operanti presso i siti marconiani;
+                                
+                            
+                            
+                                e)
+                                
+                                    LETTERA ABROGATA DAL D.L. 18 APRILE 2019, N. 32 CONVERTITO CON MODIFICAZIONI DALLA L. 14 GIUGNO 2019, N. 55.
 
 ((
 
@@ -2404,6 +5852,24 @@ Colui che, svolgendo le attivita' indicate nel comma 1, rompe o guasta volontari
 
 ## Art. 149. — Interruzione di cavi sottomarini per comunicazioni elettroniche
 
+1.
+                        
+                            
+                                E' punito con la reclusione fino a sei mesi e con la multa da euro 150,00 a euro 1.500,00:
+ 
+                            
+                            
+                                a)
+                                
+                                    chiunque per colpa rompe il cavo sottomarino di un impianto sottomarino di comunicazione elettronica, ovvero cagiona ad esso guasti tali da interrompere od impedire, in tutto o in parte, le comunicazioni elettroniche;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il comandante di una nave, il quale nel far porre o riparare un cavo sottomarino, per inosservanza delle regole sui segnali stabiliti per impedire gli abbordi in mare, ha dato causa alla rottura od al deterioramento di un impianto sottomarino di comunicazione elettronica da parte di altra nave.
+
 La disposizione di cui al comma 1 si applica anche nel caso di rottura o danneggiamento di cavo sottomarino di comunicazione elettronica legalmente posto e temporaneamente non utilizzato.
 
 Nel caso indicato nella lettera a) del comma 1, la sanzione e' aumentata, se l'autore della rottura o del danneggiamento non ne da' notizia alle autorita' del primo porto ove approda la nave sulla quale e' imbarcato, nel termine di ventiquattro ore dal suo arrivo.
@@ -2416,7 +5882,57 @@ Le persone indicate nel comma 1 sono punite con la sanzione amministrativa pecun
 
 ## Art. 151. — Inosservanza della disciplina sui segnali
 
+1.
+                        
+                            
+                                E' punito con la sanzione amministrativa pecuniaria da euro 150,00 a euro 1.500,00:
+ 
+                            
+                            
+                                a)
+                                
+                                    il comandante di una nave il quale, nel far porre o riparare un impianto sottomarino di comunicazione elettronica, non osserva le norme sui segnali stabiliti per impedire gli abbordi in mare;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il comandante o padrone di una nave il quale, vedendo od essendo in condizione di vedere i detti segnali, non si ritira o non si tiene lontano almeno un miglio nautico dalla nave destinata a porre od a riparare un impianto sottomarino di comunicazione elettronica;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il comandante o padrone di una nave il quale, salvo i casi di forza maggiore, nonostante i segnali, che servono a indicare la posizione dei cavi sottomarini, non si tiene lontano dalla linea almeno un quarto di miglio nautico.
+
 ## Art. 152. — Ancoraggio delle navi - Reti da pesca - Inosservanza delle distanze dai cavi sottomarini
+
+1.
+                        
+                            
+                                E' punito con l'arresto fino a sei mesi e con l'ammenda da euro 150,00 a euro 1.500,00:
+ 
+                            
+                            
+                                a)
+                                
+                                    il comandante di una nave il quale getta l'ancora a distanza minore di un quarto di miglio nautico da un cavo sottomarino di cui egli puo' conoscere la posizione per mezzo di segnali od in altro modo, ovvero urta un segnale destinato ad indicare la posizione di un cavo sottomarino;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il padrone di una barca da pesca il quale non tiene le reti alla distanza di almeno un miglio nautico dalla nave che pone o ripara un cavo sottomarino. Tuttavia, i padroni delle barche da pesca che scorgono o sono in grado di scorgere la nave posacavi od altro mezzo navale all'uopo utilizzato, portante i prescritti segnali, hanno, per conformarsi all'avvertimento, il termine necessario per finire l'operazione in corso, ma questo termine non puo' eccedere le quattro ore;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il padrone di una barca da pesca il quale non tiene le sue reti alla distanza di almeno un quarto di miglio nautico dalla linea dei segnali destinati ad indicare la posizione di un cavo sottomarino.
 
 ## Art. 153. — Competenza territoriale.
 
@@ -2483,9 +5999,80 @@ Tutti gli impianti autorizzati, compresi quelli eseguiti a cura delle Amministra
 
 Per l'esercizio di qualsiasi stazione trasmittente, o ricetrasmittente, e nel servizio mobile marittimo od aeronautico, anche di quelle solo riceventi, e' necessario che il personale operatore sia in possesso di un titolo di abilitazione rilasciato dal Ministero.
 
+2.
+                        
+                            
+                                Il titolo di cui al comma 1 non e' prescritto quando trattasi: 
+ 
+                            
+                            
+                                a)
+                                
+                                    di stazioni destinate esclusivamente ad uso militare delle forze armate, di stazioni adibite per servizio civile d'istituto del Ministero dell'interno, del Ministero della difesa e di stazioni adibite per i servizi d'istituto del Ministero delle infrastrutture e dei trasporti - Corpo delle Capitanerie di porto; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    di stazioni di radiodiffusione, di radioastronomia, ausiliarie della meteorologia, spaziali o terrene, terrestri radiotelefoniche non adibite a servizi pubblici, emittenti di frequenze campioni.
+
 Il ((Ministro delle imprese e del made in Italy)) ha facolta' di estendere, con proprio decreto, le disposizioni di cui al comma 2 ad altri servizi o stazioni riceventi, ricetrasmittenti o trasmittenti, per le quali, a causa delle loro caratteristiche tecniche o di impiego, non sia ritenuta necessaria una particolare qualificazione dell'operatore, ovvero quando la necessaria qualificazione sia stata accertata dall'Amministrazione dello Stato dalla quale il servizio o la stazione dipendono.
 
 ## Art. 163. — Titoli di abilitazione
+
+1.
+                        
+                            
+                                Con regolamento adottato ai sensi dell'articolo 17, comma 3, della legge 23 agosto 1988, n. 400, dal ((Ministro delle imprese e del made in Italy)) sentito il Ministro delle infrastrutture e dei trasporti sono stabiliti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    le classi ed i tipi dei titoli di abilitazione; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le modalita' di espletamento dei servizi; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    gli esami per il conseguimento dei titoli; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    l'ammissione agli esami; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    le prove d'esame; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    la costituzione delle commissioni esaminatrici; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    la revoca, la sospensione e la decadenza dei titoli di abilitazione.
 
 Dall'emanazione del regolamento di cui al comma 1 non derivano ulteriori oneri a carico del bilancio dello Stato ed i costi di funzionamento delle commissioni esaminatrici sono coperti esclusivamente con gli introiti dei contributi fissati dall'articolo 5 dell'allegato n. 25.
 
@@ -2570,6 +6157,63 @@ Il Ministero esercita la vigilanza sullo svolgimento del servizio radioelettrico
 
 ## Art. 176. — Collaudi e ispezioni
 
+1.
+                        
+                            
+                                Il Ministero effettua, a mezzo di propri funzionari, la sorveglianza sugli apparati radioelettrici di bordo mediante: 
+ 
+                            
+                            
+                                a)
+                                
+                                    collaudi ai fini dei servizi di sicurezza e di corrispondenza pubblica; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    un'ispezione ordinaria ogni dodici mesi; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    ispezioni straordinarie quando se ne verifichi la necessita'.
+
+2.
+                        
+                            
+                                Il collaudo, salvo diverse indicazioni della normativa vigente in materia, e' necessario nei seguenti casi: 
+ 
+                            
+                            
+                                a)
+                                
+                                    attivazione della stazione radioelettrica; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    modifica od aggiunta alla stazione di apparati radioelettrici obbligatori; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    richiesta dell'armatore, in caso di cambio dello stesso; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    richiesta della societa' di gestione, di cui all'articolo 183, comma 2, in caso di cambio della stessa.
+
 Le ispezioni ordinarie sono effettuate da un funzionario del Ministero, sia per il servizio di sicurezza che di corrispondenza pubblica. ((Le predette ispezioni sono effettuate dagli organismi riconosciuti ai sensi dell'articolo 5, comma 1, del decreto legislativo 14 giugno 2011, n. 104, se hanno a oggetto le navi che si trovano all'estero e concernono l'applicazione delle regole 7 e 9 del capitolo I dell'allegato alla Convenzione internazionale del 1974 per la salvaguardia della vita umana in mare, di cui alla legge 23 maggio 1980, n. 313, come modificato dagli emendamenti del 1988, pubblicati nel supplemento ordinario alla Gazzetta Ufficiale n. 62 del 14 marzo 1992)).
 
 I collaudi e le ispezioni ordinarie dovranno essere richiesti all'autorita' marittima portuale dalla societa' che gestisce il servizio radioelettrico a norma dell'articolo 183, comma 2, o dall'armatore, dal proprietario o da chi li rappresenta nei casi di cui all'articolo 183, comma 3.
@@ -2591,6 +6235,38 @@ Per i collaudi e le ispezioni di cui all'articolo 176 effettuati dai propri funz
 ## - - Sezione IV Categorie delle stazioni radioelettriche di nave
 
 ## Art. 179. — Categoria delle stazioni radioelettriche di nave
+
+1.
+                        
+                            
+                                Le stazioni radioelettriche di nave, ai fini del servizio della corrispondenza pubblica, sono ripartite nelle seguenti categorie: 
+ 
+                            
+                            
+                                a)
+                                
+                                    1ª categoria: sono classificate in questa categoria tutte le stazioni radioelettriche di nave che effettuano il servizio in maniera continuativa per 24 ore al giorno; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    2ª categoria: sono classificate in questa categoria tutte le stazioni radioelettriche di nave che effettuano il servizio per 16 ore al giorno; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    3ª categoria: sono classificate in questa categoria tutte le stazioni radioelettriche di nave che effettuano il servizio per 8 ore al giorno; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    4ª categoria: sono classificate in questa categoria tutte le stazioni radioelettriche di nave che effettuano il servizio per meno di 8 ore al giorno.
 
 Il Ministero, sentito il Ministero delle infrastrutture e dei trasporti, determina in quali delle categorie suddette sara' assegnata ogni stazione radioelettrica di bordo. Tale indicazione dovra' essere riportata nella licenza di esercizio radioelettrico di cui all'articolo 183.
 
@@ -2628,6 +6304,24 @@ Per le classi di navi che non rientrano nel comma 2, e che non effettuano serviz
 Nei rapporti con gli armatori le societa' di cui all'articolo 183, comma 2, sono tenute ad utilizzare idonei schemi contrattuali nel rispetto delle normative internazionali e nazionali per la salvaguardia della vita umana in mare.
 
 ## Art. 185. — Contributi
+
+1.
+                        
+                            
+                                Le societa' di gestione di cui all'articolo 183, comma 2, al fine di assicurare la copertura degli oneri di cui all'articolo 34, comma 1, sono tenute al pagamento dei seguenti contributi: 
+ 
+                            
+                            
+                                a)
+                                
+                                    contributo per istruttoria, pari a 27.750,00 euro all'atto della presentazione della domanda di autorizzazione generale all'impianto ed esercizio delle stazioni radioelettriche a bordo delle navi; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    contributo annuo per verifiche e controlli pari a 27.750,00 euro.
 
 Gli armatori che gestiscono direttamente la propria stazione radioelettrica di bordo, sono tenuti al versamento degli specifici contributi previsti dalla vigente normativa.
 
@@ -2692,6 +6386,24 @@ Per le classi di navi da diporto che non rientrano nel comma 2, e che non effett
 I soggetti di cui all'articolo 194 devono corrispondere i contributi di cui all'articolo 185.
 
 ## Art. 196. — Collaudi e ispezioni sulle navi da diporto
+
+1.
+                        
+                            
+                                Il Ministero effettua, a mezzo di propri funzionari, la sorveglianza sugli apparati radioelettrici a bordo delle navi da diporto mediante:
+ 
+                            
+                            
+                                a)
+                                
+                                    collaudi ai fini del servizio di corrispondenza pubblica;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    ispezioni straordinarie quando se ne verifichi la necessita'.
 
 Le ispezioni straordinarie sono effettuate da un funzionario del Ministero, sia per il servizio di sicurezza che di corrispondenza pubblica.
 
@@ -2821,7 +6533,365 @@ Chiunque usi indebitamente il segnale di soccorso riservato alle navi od alle ae
 
 ## Art. 218. — Abrogazioni
 
+1.
+                        
+                            
+                                Al decreto del Presidente della Repubblica 29 marzo 1973, n. 156, sono apportate le seguenti modificazioni:
+ 
+                            
+                            
+                                a)
+                                
+                                    all'articolo 1, primo comma, sono soppresse le parole da: "i servizi di telecomunicazioni" fino a: "diffusione sonora e televisiva via cavo"; nella rubrica, sono soppresse le parole: "e delle comunicazioni",
+
+                                
+                            
+                            
+                                b)
+                                
+                                    all'articolo 2, sono soppresse le parole: "e di telecomunicazioni";
+
+                                
+                            
+                            
+                                c)
+                                
+                                    all'articolo 7, sono soppresse le parole: "e di telecomunicazioni";
+
+                                
+                            
+                            
+                                d)
+                                
+                                    all'articolo 8, sono soppresse nella rubrica le parole: "e di telecomunicazioni"; il comma 2 e' soppresso;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    all'articolo 9, primo comma, sono soppresse le parole: "della convenzione internazionale delle telecomunicazioni"; sono soppressi i commi secondo, terzo, quarto, quinto, sesto e settimo;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    all'articolo 10, terzo comma, sono soppresse le parole: "e di telecomunicazioni"; nella rubrica, sono soppresse le parole: "e delle telecomunicazioni";
+
+                                
+                            
+                            
+                                g)
+                                
+                                    all'articolo 11, nella rubrica, sono soppresse le parole: "e di telecomunicazioni";
+
+                                
+                            
+                            
+                                h)
+                                
+                                    all'articolo 12, primo comma, sono soppresse le parole: "e di telecomunicazioni"; nella rubrica, sono soppresse le parole: "e delle telecomunicazioni"
+
+                                
+                            
+                            
+                                i)
+                                
+                                    all'articolo 13, secondo comma, sono soppresse le parole da: "telegrafici e radioelettrici" fino a: "servizi telefonici"; nella rubrica sono soppresse le parole: "e delle telecomunicazioni";
+
+                                
+                            
+                            
+                                l)
+                                
+                                    al Titolo II, nella rubrica, sono soppresse le parole: "e delle telecomunicazioni";
+
+                                
+                            
+                            
+                                m)
+                                
+                                    all'articolo 17, primo comma, sono soppresse le parole: "e di telecomunicazioni";
+
+                                
+                            
+                            
+                                n)
+                                
+                                    all'articolo 20, secondo comma, sono soppresse le parole: "e delle telecomunicazioni";
+
+                                
+                            
+                            
+                                o)
+                                
+                                    agli articoli 21 e 22, primo comma, sono soppresse le parole: "e delle telecomunicazioni";
+
+                                
+                            
+                            
+                                p)
+                                
+                                    all'articolo 23, primo comma, sono soppresse le parole: "e di telecomunicazioni";
+
+                                
+                            
+                            
+                                q)
+                                
+                                    all'articolo 25, primo e secondo comma, sono soppresse le parole: "e delle telecomunicazioni";
+
+                                
+                            
+                            
+                                r)
+                                
+                                    all'articolo 26, primo comma, sono soppresse le parole: "e delle telecomunicazioni e dell'Azienda di Stato per i servizi telefonici"; nella rubrica, sono soppresse le parole: "e delle telecomunicazioni";
+
+                                
+                            
+                            
+                                s)
+                                
+                                    sono o restano abrogati gli articoli 3, 6, 183, 184, 185, 186, 187, 188, 189, 190, 191, 192, 193, 194, 196, 197, 198, 199, 200, 201, 202, 203, 204, 205, 206, 207, 208, 209, 210, 211, 212, 213, 214, 215, 216, 217, 218, 219, 220, 221, 222, 223, 224, 225, 226, 227, 228, 229 , 230, 231, 232, 233, 234, 235, 236, 237, 238, 239, 240, 241, 242, 243, 251, 252, 253, 254, 255, 256, 257, 258, 259, 260, 261, 262, 263, 264, 265, 266, 267, 268, 269, 270, 271, 272, 273, 274, 275, 276, 277, 278, 279, 280, 281, 282, 283, 286, 287, 288, 289, 290, 291, 292, 293, 294, 295, 296, 297, 298, 299, 300, 301, 302, 303, 305, 306, 307, 308, 309, 310, 311, 312, 313, 314, 315, 316, 317, 318, 319, 320, 321, 322, 323, 324, 325, 326, 327, 328, 329, 330, 331, 332, 333, 334, 335, 336, 337, 338, 339, 340, 350, 352, 353, 354, 355, 356, 357, 358, 359, 360, 361, 362, 363, 364, 365, 366, 367, 368, 369, 370, 371, 372, 373, 374, 375, 376, 377, 378, 379, 380, 381, 382, 383, 384, 385, 386, 387, 388, 389, 390, 391, 392, 393, 394, 395, 396, 397, 398 , 399, 400, 401, 402, 403, 404, 405, 406, 408, 409, 410 e 413.
+
 Dall'entrata in vigore del regolamento di cui all'articolo 163, comma 1, sono abrogati gli articoli 341, 342, 343, 344, 345, 346, 347, 348, 349 e 351 del predetto decreto del Presidente della Repubblica 29 marzo 1973, n. 156, nonche' il decreto ministeriale 28 dicembre 1995, n. 584, pubblicato nella Gazzetta Ufficiale della Repubblica italiana n. 42 del 20 febbraio 1996 ed il decreto ministeriale 25 luglio 2002, n. 214, pubblicato nella Gazzetta Ufficiale della Repubblica italiana n. 227 del 27 settembre 2002.
+
+3.
+                        
+                            
+                                Sono o restano abrogati:
+ 
+                            
+                            
+                                a)
+                                
+                                    l'articolo 7 del decreto del Presidente della Repubblica 5 agosto 1966, n. 1214;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il decreto ministeriale 7 febbraio 1980, pubblicato nella Gazzetta Ufficiale della Repubblica italiana n. 172 del 25 giugno 1980;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il decreto ministeriale 18 dicembre 1981, pubblicato nella Gazzetta Ufficiale della Repubblica italiana n. 356 del 30 dicembre 1981;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    il decreto ministeriale 24 giugno 1982, pubblicato nella Gazzetta Ufficiale della Repubblica italiana n. 205 del 28 luglio 1982;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    il decreto ministeriale 27 giugno 1987, pubblicato nella Gazzetta Ufficiale della Repubblica italiana n. 226 del 28 settembre 1987;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    il decreto ministeriale 9 febbraio 1989, pubblicato nella Gazzetta Ufficiale della Repubblica italiana n. 144 del 22 giugno 1989;
+
+                                
+                            
+                            
+                                g)
+                                
+                                    il decreto ministeriale 4 agosto 1989 pubblicato nella Gazzetta Ufficiale della Repubblica italiana n. 193 del 19 agosto 1989;
+
+                                
+                            
+                            
+                                h)
+                                
+                                    il decreto ministeriale 1° agosto 1991, pubblicato nella Gazzetta Ufficiale della Repubblica italiana n. 270 del 18 novembre 1991;
+
+                                
+                            
+                            
+                                i)
+                                
+                                    il decreto ministeriale 1° giugno 1992, pubblicato nella Gazzetta Ufficiale della Repubblica italiana n. 214 dell'11 settembre 1992;
+
+                                
+                            
+                            
+                                l)
+                                
+                                    il decreto legislativo 9 febbraio 1993, n. 55;
+
+                                
+                            
+                            
+                                m)
+                                
+                                    il decreto legislativo 2 maggio 1994, n. 289;
+
+                                
+                            
+                            
+                                n)
+                                
+                                    il decreto legislativo 17 marzo 1995, n. 103;
+
+                                
+                            
+                            
+                                o)
+                                
+                                    il decreto del Presidente della Repubblica 4 settembre 1995, n. 420;
+
+                                
+                            
+                            
+                                p)
+                                
+                                    il decreto ministeriale 18 dicembre 1996, pubblicato nella Gazzetta Ufficiale della Repubblica italiana n. 34 dell'11 febbraio 1997;
+
+                                
+                            
+                            
+                                q)
+                                
+                                    il decreto legislativo 11 febbraio 1997, n. 55;
+
+                                
+                            
+                            
+                                r)
+                                
+                                    il decreto ministeriale 28 marzo 1997, pubblicato nella Gazzetta Ufficiale della Repubblica italiana n. 93 del 22 aprile 1997;
+
+                                
+                            
+                            
+                                s)
+                                
+                                    la legge 1° luglio 1997, n. 189;
+
+                                
+                            
+                            
+                                t)
+                                
+                                    gli articoli 1, comma 16, 4 e 5 della legge 31 luglio 1997, n. 249;
+
+                                
+                            
+                            
+                                u)
+                                
+                                    il decreto del Presidente della Repubblica 19 settembre 1997, n. 318;
+
+                                
+                            
+                            
+                                v)
+                                
+                                    il decreto ministeriale 25 novembre 1997, pubblicato nella Gazzetta Ufficiale della Repubblica italiana n. 283 del 4 dicembre 1997;
+
+                                
+                            
+                            
+                                z)
+                                
+                                    il decreto ministeriale 22 gennaio 1998, pubblicato nella Gazzetta Ufficiale della Repubblica italiana n. 63 del 17 marzo 1998;
+
+                                
+                            
+                            
+                                aa)
+                                
+                                    il decreto ministeriale 5 febbraio 1998, pubblicato nella Gazzetta Ufficiale della Repubblica italiana n. 63 del 17 marzo 1998;
+
+                                
+                            
+                            
+                                bb)
+                                
+                                    il decreto ministeriale 10 febbraio 1998, pubblicato nella Gazzetta Ufficiale della Repubblica italiana n. 52 del 4 marzo 1998;
+
+                                
+                            
+                            
+                                cc)
+                                
+                                    il decreto ministeriale 10 marzo 1998, pubblicato nella Gazzetta Ufficiale della Repubblica italiana n. 110 del 14 maggio 1998;
+
+                                
+                            
+                            
+                                dd)
+                                
+                                    il decreto ministeriale 23 aprile 1998, pubblicato nella Gazzetta Ufficiale della Repubblica italiana n. 133 del 10 giugno 1998;
+
+                                
+                            
+                            
+                                ee)
+                                
+                                    l'articolo 25 della legge 24 aprile 1998, n. 128;
+
+                                
+                            
+                            
+                                ff)
+                                
+                                    il decreto legislativo 17 maggio 1999, n. 191;
+
+                                
+                            
+                            
+                                gg)
+                                
+                                    la deliberazione dell'Autorita' 19 luglio 2000, n. 467/00/CONS, pubblicata nella Gazzetta Ufficiale della Repubblica italiana n. 184 dell'8 agosto 2000;
+
+                                
+                            
+                            
+                                hh)
+                                
+                                    il decreto del Presidente della Repubblica 11 gennaio 2001, n. 77;
+
+                                
+                            
+                            
+                                ii)
+                                
+                                    la deliberazione dell'Autorita' 21 marzo 2001, n. 131/01/CONS, pubblicata nella Gazzetta Ufficiale della Repubblica italiana n. 101 del 3 maggio 2001;
+
+                                
+                            
+                            
+                                ll)
+                                
+                                    il decreto del Presidente della Repubblica 5 ottobre 2001, n. 447;
+
+                                
+                            
+                            
+                                mm)
+                                
+                                    il decreto legislativo 4 marzo 2002, n. 21;
+
+                                
+                            
+                            
+                                nn)
+                                
+                                    il decreto ministeriale 11 febbraio 2003, pubblicato nella Gazzetta Ufficiale della Repubblica italiana n. 45 del 24 febbraio 2003.
 
 ## Art. 219. — Disposizione finanziaria
 

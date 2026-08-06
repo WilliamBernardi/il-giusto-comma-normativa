@@ -8,8 +8,8 @@ codice_redazionale: 011G0240
 vigente: true
 source: normattiva-opendata
 collection: Leggi delega e relativi provvedimenti delegati
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:41:17Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -41,6 +41,66 @@ Si ha dissesto finanziario, ai sensi dell'articolo 5, comma 4, lettera g), della
  e patrimoniale
 
 Il collegio dei revisori dei conti, con la relazione annuale al bilancio unico di esercizio ed entro il 30 aprile di ciascun anno, verifica la condizione economico, finanziaria e patrimoniale dell'universita' applicando alle risultanze del bilancio i parametri economico-finanziari, definiti con regolamento adottato ai sensi dell'articolo 17, comma 2, della legge 23 agosto 1988, n. 400.
+
+2.
+                        
+                            
+                                Tali parametri individuano i valori critici e deficitari relativi: 
+ 
+                            
+                            
+                                a)
+                                
+                                    alla sostenibilita' del costo complessivo del personale di ruolo e a tempo determinato rispetto alle entrate complessive dell'ateneo, determinate nei limiti della legislazione vigente, al netto di quelle a destinazione vincolata, facendo riferimento al limite massimo di cui all'articolo 5, comma 4, lettera e), della legge 30 dicembre 2010, n. 240; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    alla sostenibilita' del costo dell'indebitamento a carico dell'ateneo, nei limiti della legislazione vigente, facendo riferimento al limite massimo di cui all'articolo 5, comma 4, lettera e), della legge 30 dicembre 2010, n. 240; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    all'andamento e relazione tra proventi e costi della gestione corrente, ovvero, nel periodo transitorio di cui all'articolo 20, tra accertamenti e impegni di parte corrente; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    all'andamento delle dinamiche dei crediti e dei debiti ovvero, nel periodo transitorio di cui all'articolo 20, al grado di veridicita' e smaltimento ed attendibilita' dei residui attivi e al grado di smaltimento dei residui passivi; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    all'utilizzo dell'avanzo libero a consuntivo, nel periodo transitorio di cui all'articolo 20, per la copertura di spese correnti obbligatorie negli ultimi due esercizi; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    alla presenza di anticipazioni di tesoreria negli ultimi due esercizi; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    all'adeguatezza dei fondi di riserva a garanzia dei rischi derivanti da contenziosi in corso rispetto al volume del contenzioso in essere, ovvero, nel periodo transitorio di cui all'articolo 20, al rapporto tra gli oneri da contenzioso complessivamente previsti nel bilancio di previsione e quelli effettivamente sostenuti; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    agli indicatori di regolarita' contributiva, previdenziale ed assistenziale.
 
 ## Art. 4. — Situazione di criticita'
 
@@ -76,6 +136,62 @@ Un nuovo bilancio unico di previsione annuale autorizzatorio e' sottoposto al Co
 
 ## Art. 8. — Piano di rientro
 
+1.
+                        
+                            
+                                Il piano di rientro, articolato per obiettivi annuali, e' redatto secondo i seguenti criteri: 
+ 
+                            
+                            
+                                a)
+                                
+                                    individuazione e quantificazione della massa passiva alla data della dichiarazione di dissesto, inserendo d'ufficio i debiti e le spese, per capitale e accessori, ivi compresi i debiti rinvenenti da procedure esecutive in corso al momento della dichiarazione. I debiti inseriti nella massa passiva non producono interessi, ne' sono soggetti a rivalutazione monetaria fino alla chiusura del piano di rientro, nei limiti di quanto stabilito per i crediti muniti di privilegio dal codice civile. Per la redazione o l'aggiornamento del piano di rientro nella fase di commissariamento, disciplinata dagli articoli da 10 a 19, vale quanto previsto dall'articolo 17, comma 3; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    interventi volti alla riduzione dei costi del personale dell'ateneo ed, in particolare: 
+ 1) impegno a non indire nuove procedure concorsuali e a non assumere nuovo personale con oneri a carico del proprio bilancio; 
+ 2) adozione di ogni iniziativa volta a ridurre le spese di personale non docente, anche attraverso forme di mobilita' coattiva; 
+ 3) valutazione annuale, in base al grado di raggiungimento degli obiettivi previsti nel piano, circa l'opportunita' di corrispondere la retribuzione di risultato ai dirigenti e i compensi incentivanti la produttivita' e l'efficienza dei servizi al restante personale. Nell'eventuale fase di commissariamento, prevista dagli articoli da 10 a 19, tale valutazione e' di competenza dell'organo commissariale; 
+ 4) impegno a non distribuire alcun importo premiale a valere sul fondo previsto dall'articolo 9 della legge 30 dicembre 2010, n. 240, fino al ripristino dell'equilibrio nella situazione economico-patrimoniale dell'ateneo; 
+ 5) revisione e razionalizzazione dell'offerta formativa e delle sedi universitarie decentrate, anche attraverso processi di mobilita' sia dei professori e ricercatori, sia del personale tecnico amministrativo, da attuarsi con le modalita' di cui all'articolo 3, comma 5, della legge 30 dicembre 2010, n. 240; 
+ 6) razionalizzazione degli insegnamenti previsti nell'offerta formativa dell'ateneo con pieno utilizzo del personale docente in servizio e senza oneri aggiuntivi rispetto al normale trattamento stipendiale limitando, altresi', l'attribuzione di contratti d'insegnamento retribuiti a personale non appartenente ai ruoli dell'ateneo ai soli casi essenziali al regolare svolgimento delle attivita' didattiche; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    quantificazione delle entrate patrimoniali e dei proventi economici che possono finanziare il piano di rientro, ivi comprese le liquidazioni di beni valutati a valori di mercato come risultanti da stima attestata da perizia giurata o effettuata dalla competente Agenzia del territorio; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    in relazione alla gravita' della situazione di dissesto l'adozione delle seguenti misure straordinarie: 
+ 1) impegno a non attivare nuovi corsi di laurea e di laurea magistrale, nuove scuole di specializzazione, nuovi dipartimenti; 
+ 2) impegno a non contrarre nuovi mutui a carico del proprio bilancio o prestiti e a non sottoscrivere prodotti a finanza derivata nell'ambito di operazioni di ristrutturazione del debito; 
+ 3) adozione delle eventuali ulteriori forme di ristrutturazione del debito, ivi compresi interventi strutturali e rinegoziazioni di mutui a tassi agevolati precedentemente stipulati con gli Istituti di credito; 
+ 4) riduzione di compensi, gettoni, retribuzioni o altre utilita' ai componenti del consiglio di amministrazione e degli organi collegiali comunque denominati, esclusi gli organi di controllo e fatto salvo quanto previsto dall'articolo 6, comma 3, del decreto-legge 31 maggio 2010, n. 78, convertito, con modificazioni, dalla legge 30 luglio 2010, n. 122, in misura non inferiore al 10 per cento; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    previsioni economiche e finanziarie connesse alla prosecuzione dell'esercizio dell'attivita' formativa e di ricerca; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    indicazione dei tempi previsti per la realizzazione del piano di rientro, con dettagliata illustrazione delle attivita' da intraprendere anno per anno e degli obiettivi annuali da raggiungere, analiticamente definiti ed illustrati con quantificazione dell'impatto rispetto agli equilibri di bilancio.
+
 Il piano di rientro da attuarsi, ai sensi dell'articolo 5, comma 4, lettera h), della legge 30 dicembre 2010, n. 240, nel limite massimo di cinque anni, e' deliberato dal Consiglio di amministrazione su proposta del Rettore e previo parere del Senato accademico per gli aspetti di sua competenza.
 
 Il Piano di rientro e' trasmesso entro dieci giorni dalla sua approvazione al Ministero dell'istruzione, dell'universita' e della ricerca e al Ministero dell'economia e delle finanze i quali, verificata la fattibilita' e l'appropriatezza delle scelte effettuate, entro trenta giorni dal ricevimento ne dispongono l'approvazione, che e' comunicata all'Universita' a cura del Ministero dell'istruzione, dell'universita' e della ricerca.
@@ -106,9 +222,59 @@ Il commissariamento e' altresi' deliberato, attraverso la medesima procedura, qu
 
 Entro trenta giorni dalla delibera di cui all'articolo 10 il Ministero dell'istruzione, dell'universita' e della ricerca, di concerto con il Ministero dell'economia e delle finanze, propone al Consiglio dei Ministri, in relazione alle dimensioni dell'ateneo, la nomina di uno o tre commissari e di altrettanti supplenti, in caso di rinuncia dei primi, con il compito di provvedere alla predisposizione ovvero all'attuazione del piano di rientro.
 
+2.
+                        
+                            
+                                Per la valutazione delle dimensioni dell'ateneo ai sensi del comma 1 si stabilisce quanto segue: 
+ 
+                            
+                            
+                                a)
+                                
+                                    e' nominato un commissario nelle universita' con un organico di professori e ricercatori pari o inferiore a cinquecento unita' al 31 dicembre dell'anno precedente il dissesto; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    e' nominata una commissione di tre componenti nelle universita' con un organico di professori e ricercatori di ruolo e ricercatori a tempo indeterminato superiore a cinquecento unita' al 31 dicembre dell'anno precedente il dissesto.
+
 Con la delibera di cui all'articolo 10, comma 1, e' fissata la durata del commissariamento, che non puo' comunque essere superiore a cinque anni.
 
 ## Art. 12. — Designazione dei commissari
+
+1.
+                        
+                            
+                                Il commissario o i componenti della commissione vengono scelti tra: 
+ 
+                            
+                            
+                                a)
+                                
+                                    dirigenti e funzionari del Ministero dell'istruzione, dell'universita' e della ricerca e del Ministero dell'economia e delle finanze, in possesso di una approfondita conoscenza dei sistemi di governo e funzionamento delle universita' che siano iscritti nel registro dei revisori legali dei conti e che siano stati membri, per almeno un mandato, del collegio dei revisori di universita' italiane o straniere; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    docenti universitari in possesso di comprovata conoscenza dei sistemi di funzionamento delle universita'; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    dirigenti e funzionari della pubblica amministrazione, componenti degli organi costituzionali della magistratura amministrativa e contabile con comprovata esperienza degli sistemi amministrativi e contabili delle universita'; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    gli iscritti all'albo dei dottori commercialisti e degli esperti contabili, con un'anzianita' di iscrizione di almeno sette anni con comprovata esperienza dei sistemi amministrativi e contabili delle universita'.
 
 Non possono essere nominati commissari il Rettore e coloro che hanno rivestito una qualunque carica negli organi consultivi, di governo, di amministrazione o di controllo dell'universita' commissariata.
 

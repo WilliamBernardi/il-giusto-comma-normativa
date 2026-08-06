@@ -10,7 +10,7 @@ source: normattiva-opendata
 collection: Atti di recepimento direttive UE
 vigenza_date: 2000-06-09
 zip_date: 2026-07-30
-fetched_at: 2026-08-02T09:40:49Z
+fetched_at: 2026-07-30
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -38,7 +38,47 @@ Il presente regolamento si applica ai prodotti alimentari destinati ad una alime
 
 Il presente regolamento non si applica al latte destinato ai bambini.
 
+3.
+                    
+                        
+                            Ai fini del presente regolamento si intende per:
+ 
+                        
+                        
+                            a)
+                            
+                                lattanti: i soggetti di meno di 12 mesi di eta';
+
+                            
+                        
+                        
+                            b)
+                            
+                                bambini: i soggetti di eta' compresa tra 1 e 3 anni.
+
 ## Art. 2.
+
+1.
+                    
+                        
+                            I prodotti di cui all'articolo 1, comma 1, comprendono:
+ 
+                        
+                        
+                            a)
+                            
+                                alimenti a base di cereali suddivisi in quattro categorie:
+ 1) cereali semplici ricostituiti o da ricostituire con latte o altro liquido nutritivo appropriato;
+ 2) cereali con aggiunta di un alimento ricco di proteine, ricostituiti o da ricostituire con acqua o altri liquidi non contenenti proteine;
+ 3) pastina da utilizzare dopo cottura in acqua bollente o in altro liquido adatto;
+ 4) biscotti e fette biscottate da utilizzare anche dopo essere stati sbriciolati ed uniti ad acqua, latte o altri liquidi adatti;
+
+                            
+                        
+                        
+                            b)
+                            
+                                alimenti per lattanti e bambini, diversi dagli alimenti a base di cereali.
 
 ## Art. 3.
 
@@ -62,7 +102,64 @@ Nella fabbricazione dei prodotti di cui all'articolo 2, comma 1, possono essere 
 
 ## Art. 7.
 
+1.
+                    
+                        
+                            Oltre a quanto previsto dal decreto legislativo 27 gennaio 1992, n. 109, l'etichettatura dei prodotti di cui all'articolo 2, comma 1, deve contenere le seguenti indicazioni:
+ 
+                        
+                        
+                            a)
+                            
+                                l'eta' a partire .dalla quale il prodotto puo' essere utilizzato, tenendo conto della composizione, della presentazione e di altre .caratteristiche particolari del .prodotto. In nessun caso l'eta' indicata puo' essere inferiore a quattro mesi. 1 prodotti raccomandati a partire dall'eta' di quattro mesi devono recare la dicitura che sono indicati a partire da tale eta',salvo diverso parere del medico pediatra;
+
+                            
+                        
+                        
+                            b)
+                            
+                                la presenza o assenza del glutine, se il prodotto e' indicato a partire da un'eta' inferiore ai sei mesi;
+
+                            
+                        
+                        
+                            c)
+                            
+                                il valore energetico, espresso in kJ e in kcal, nonche' il tenore di proteine, carboidrati e grassi, espresso in forma numerica per 100g o 100ml di prodotto commercializzato e, se del caso, per quantita' specificata del prodotto pronto per il consumo;
+
+                            
+                        
+                        
+                            d)
+                            
+                                il tenore medio di ciascun minerale e ciascuna vitamina per cui e' fissato un limite specifico negli allegati I e II, espresso in forma numerica per 100g o 100ml di prodotto commercializzato e, se del caso. per quantita' specificata del prodotto pronto per il consumo;
+
+                            
+                        
+                        
+                            e)
+                            
+                                ove nccessario le istruzioni per un'appropriata preparazione del prodotto con Iindicazione dell'importanza di seguire le istruzioni.
+
 ## Art. 8.
+
+1.
+                    
+                        
+                            L'etichettatura dei prodotti di cui all'articolo 2, comma 1, puo' contenere le seguenti indicazioni:
+ 
+                        
+                        
+                            a)
+                            
+                                il tenore medio degli elementi nutritivi indicati nell'allegato IV,espresso in forma numerica per 100g o 100 ml di prodotto commercializzato e, ove necessario, di quantita' specificata di prodotto pronto per il consumo, qualora tale indicazione non rientra nella disposizione di cui all'articolo 7, comma 1, lettera d);
+
+                            
+                        
+                        
+                            b)
+                            
+                                informazioni sulle vitamine e i minerali di cui all'allegato V, espresse come percentuale dei valori di riferimento ivi indicati per 100g o per 100 ml di prodotto commercializzato e, ove necessario, di quantita' specificata di prodotto pronto per il consumo, qualora le quantita' presenti nel prodotto siano uguali al 15 per cento del valore di riferimento.
 
 ## Art. 9.
 

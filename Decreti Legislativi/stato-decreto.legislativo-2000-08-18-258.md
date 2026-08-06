@@ -8,8 +8,8 @@ codice_redazionale: 000G0306
 vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:20Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -24,6 +24,23 @@ Acquisiti i pareri delle competenti commissioni della Camera dei deputati e del 
 Sulla proposta del Ministro per le politiche comunitarie e del Ministro dell'ambiente, di concerto con i Ministri della sanita', dell'industria, del commercio e dell'artigianato, e del commercio con l'estero, delle politiche agricole e forestali, dei lavori pubblici, dei trasporti e della navigazione, delle finanze, del tesoro, del bilancio e della programmazione economica, per gli affari regionali, della giustizia, degli affari esteri e per la funzione pubblica;
 
 ## Art. 1. — Definizioni
+
+1.
+                    
+                        
+                            All'articolo 2, comma 1, del decreto legislativo 11 maggio 1999, n. 152, sono apportate le seguenti modifiche: 
+ 
+                        
+                        
+                            a)
+                            
+                                la lettera h) e' sostituita dalla seguente: "h) "acque reflue industriali : qualsiasi tipo di acque reflue scaricate da edifici od installazioni in cui si svolgono attivita' commerciali o di produzione di beni, diverse dalle acque reflue domestiche e dalle acque meteoriche di dilavamento;"; 
+ b) la lettera i) e' sostituita dalla seguente: "i) "acque reflue urbane : acque reflue domestiche o il miscuglio di acque reflue domestiche, di acque reflue industriali ovvero meteoriche di dilavamento convogliate in reti fognarie, anche separate, e provenienti da agglomerato;"; 
+ c) la lettera m) e' sostituita dalla seguente: "m) "agglomerato : area in cui la popolazione ovvero le attivita' economiche sono sufficientemente concentrate cosi' da rendere possibile, e cioe' tecnicamente ed economicamente realizzabile anche in rapporto ai benefici ambientali conseguibili, la raccolta e il convogliamento delle acque reflue urbane verso un sistema di trattamento di acque reflue urbane o verso un punto di scarico finale;"; 
+ d) dopo la lettera n) e' inserita la seguente: "n-bis) "utilizzazione agronomica : la gestione di effluenti di allevamento, di acque di vegetazione residuate dalla lavorazione delle olive ovvero di acque reflue provenienti da aziende agricole e piccole aziende agroalimentari, dalla loro produzione all'applicazione al terreno di cui alla lettera n), finalizzata all'utilizzo delle sostanze nutritive ed ammendanti nei medesimi contenute ovvero al loro utilizzo irriguo o fertirriguo;"; 
+ e) dopo la lettera o) e' inserita la seguente: "o-bis) "gestore del servizio idrico integrato : il soggetto che in base alla convenzione di cui all'articolo 11 della legge 5 gennaio 1994, n. 36, gestisce i servizi idrici integrati e, soltanto fino alla piena operativita' del servizio idrico integrato, il gestore esistente del servizio pubblico;"; 
+ f) dopo la lettera aa) e' inserita la seguente: "aa-bis) "fognature separate : la rete fognaria costituita da due condotte, una che canalizza le sole acque meteoriche di dilavamento e puo' essere dotata di dispositivi per la raccolta e la separazione delle acque di prima pioggia, l'altra che canalizza le altre acque reflue unitamente alle eventuali acque di prima pioggia;"; 
+ g) dopo la lettera cc) e' inserita la seguente: "cc-bis) "scarichi esistenti : gli scarichi di acque reflue urbane che alla data del 13 giugno 1999 sono in esercizio e conformi al regime autorizzativo previgente ovvero di impianti di trattamento di acque reflue urbane per i quali alla stessa data siano gia' state completate tutte le procedure relative alle gare di appalto e all'assegnazione lavori; gli scarichi di acque reflue domestiche che alla data del 13 giugno 1999 sono in esercizio e conformi al regime autorizzativo previgente; gli scarichi di acque reflue industriali che alla data del 13 giugno 1999 sono in esercizio e gia' autorizzati;".
 
 ## Art. 2. — Competenze
 
@@ -84,6 +101,31 @@ L'articolo 21 del decreto legislativo n. 152 del 1999 e' sostituito dal seguente
 
 ## Art. 6. — Pianificazione del bilancio idrico
 
+1.
+                    
+                        
+                            All'articolo 22 del decreto legislativo n. 152 del 1999, sono apportate le seguenti modifiche:
+ 
+                        
+                        
+                            a)
+                            
+                                il comma 3 e' sostituito dal seguente: "3. Le regioni definiscono, sulla base delle linee guida di cui al comma 4 e dei criteri adottati dai Comitati istituzionali delle autorita' di bacino, gli obblighi di installazione e manutenzione in regolare stato di funzionamento di idonei dispositivi per la misurazione delle portate e dei volumi d'acqua pubblica derivati, in corrispondenza dei punti di prelievo e, ove presente, di restituzione, nonche' gli obblighi e le modalita' di trasmissione dei risultati delle misurazioni all'Autorita' concedente per il loro successivo inoltro alla regione ed alle Autorita' di bacino competenti. Le Autorita' di bacino provvedono a trasmettere i dati in proprio possesso all'Agenzia nazionale per la protezione dell'ambiente secondo le modalita' di cui all'articolo 3, comma 7.";
+
+                            
+                        
+                        
+                            b)
+                            
+                                il comma 5 e' sostituito dal seguente: "5. Salvo quanto previsto al comma 6, tutte le derivazioni di acqua comunque in atto alla data di entrata in vigore del presente decreto sono regolate dall'Autorita' concedente mediante la previsione di rilasci volti a garantire il minimo deflusso vitale nei corpi idrici come previsto dall'articolo 3, comma 1, lettera i), della legge 18 maggio 1989, n. 183 e dall'articolo 3, comma 3, della legge 5 gennaio 1994, n. 36, senza che cio' possa dar luogo alla corresponsione di indennizzi da parte della Pubblica amministrazione, fatta salva la relativa riduzione del canone demaniale di concessione.";
+
+                            
+                        
+                        
+                            c)
+                            
+                                dopo il comma 6 e' aggiunto, in fine, il seguente: "6-bis. Nel provvedimento di concessione preferenziale, rilasciato ai sensi dell'articolo 4 del regio decreto 11 dicembre 1933, n. 1775, sono previsti i rilasci volti a garantire il minimo deflusso vitale nei corpi idrici e le prescrizioni necessarie ad assicurare l'equilibrio del bilancio idrico.".
+
 ## Art. 7. — Modifiche al regio decreto 11 dicembre 1933, n. 1775
 
 1. All'articolo 23 del decreto legislativo n. 152 del 1999 sono apportate le seguenti modifiche:
@@ -140,7 +182,43 @@ Tutti gli scarichi sono disciplinati in funzione del rispetto degli obiettivi di
 
 ## Art. 10. — Scarichi sul suolo
 
+1.
+                    
+                        
+                            All'articolo 29 del decreto legislativo n. 152 del 1999 sono apportate le seguenti modifiche:
+ 
+                        
+                        
+                            a)
+                            
+                                al comrna 1 e' aggiunta, in fine, la seguente lettera: "e) Per gli scarichi di acque meteoriche convogliate in reti fognarie separate.";
+
+                            
+                        
+                        
+                            b)
+                            
+                                il comrna 2 e' sostituito dal seguente: "2. Al di fuori delle ipotesi previste al comma 1, gli scarichi sul suolo esistenti alla data di entrata in vigore del presente decreto devono, entro tre anni dalla data di entrata in vigore del presente decreto, essere convogliati in corpi idrici superficiali, in reti fognarie ovvero destinati al riutilizzo in conformita' alle prescrizioni fissate con il decreto di cui all'articolo 6, comma 1, della legge 5 gennaio 1994, n. 36, cosi' come sostituito dall'articolo 26, comma 2. In caso di mancata ottemperanza agli obblighi indicati, l'autorizzazione allo scarico si considera a tutti gli effetti revocata.";
+
+                            
+                        
+                        
+                            c)
+                            
+                                il comma 3 e' sostituito dal seguente: "3. Gli scarichi di cui alla lettera c) del comma 1, esistenti alla data di entrata in vigore del presente decreto, devono conformarsi ai limiti della tabella 4 dell'allegato 5 entro tre anni dalla data di entrata in vigore del presente decreto. Sino a tale data devono essere rispettati i limiti fissati dalle normative regionali vigenti o, in mancanza di questi, i limiti della tabella 3 dell'allegato 5. Resta comunque fermo il divieto di scarico sul suolo delle sostanze indicate al punto 2.1 dell'allegato 5.".
+
 ## Art. 11. — Scarichi nel sottosuolo e nelle acque sotterranee
+
+1.
+                    
+                        
+                            All'articolo 30 del decreto legislativo n. 152 del 1999 sono apportate le seguenti modifiche:
+ 
+                        
+                        
+                            a)
+                            
+                                il conuna 4 e' sostituito dal seguente: "4. Per le perforazioni in mare con le quali e' svolta attivita' di prospezione, ricerca e coltivazione di giacimenti di idrocarburi liquidi o gassosi, lo scarico delle acque diretto in mare avviene secondo le modalita' previste dal decreto 28 luglio 1994 del Ministro dell'ambiente, pubblicato nella Gazzetta Ufficiale n. 190 del 16 agosto 1994, e successive modifiche, purche' la concentrazione di oli minerali sia inferiore a 40 mg/l. Lo scarico diretto a mare e' progressivamente sostituito dalla iniezione o reiniezione in unita' geologiche profonde, non appena disponibili pozzi non piu' produttivi, e deve avvenire comunque nel rispetto di quanto previsto ai commi 2 e 3.".
 
 ## Art. 12. — Scarichi in acque superficiali
 
@@ -165,6 +243,24 @@ L'autorita' competente puo' richiedere che gli scarichi parziali contenenti le s
  5. L'autorita' che rilascia l'autorizzazione per le sostanze di cui alla tabella 3/A dell'allegato 5 derivanti dai cicli produttivi indicati nella stessa tabella, redige un elenco delle autorizzazioni rilasciate, degli scarichi e dei controlli effettuati, ai fini del successivo inoltro alla Commissione europea.".
 
 ## Art. 15. — Immersione in mare di materiale
+
+1.
+                    
+                        
+                            All'articolo 35 del decreto legislativo n. 152 del 1999 sono apportate le seguenti modifiche:
+ 
+                        
+                        
+                            a)
+                            
+                                il comma 2 e' sostituito dal seguente: "2. L'autorizzazione all'immersione in mare dei materiali di cui al comma 1, lettera a), e' rilasciata dall'autorita' competente solo quando e' dimostrata, nell'ambito dell'istruttoria, l'impossibilita' tecnica o economica del loro utilizzo ai fini di ripascimento o di recupero ovvero lo smaltimento alternativo in conformita' alle modalita' stabilite con decreto del Ministro dell'ambiente, di concerto con i Ministri dei lavori pubblici, dei trasporti e della navigazione, per le politiche agricole e forestali nonche' dell'industria, del commercio e dell'artigianato, previa intesa con la Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome di Trento e di Bolzano, da emanarsi entro sessanta giorni dalla data di entrata in vigore del presente decreto.";
+
+                            
+                        
+                        
+                            b)
+                            
+                                il comma 5 e' sostituito dal seguente: "5. La movimentazione dei fondali marini derivante dall'attivita' di posa in mare di cavi e condotte e' soggetta ad autorizzazione regionale rilasciata, in conformita' alle modalita' tecniche stabilite con decreto del Ministro dell'ambiente, di concerto con i Ministri dell'industria del commercio e dell'artigianato e dei lavori pubblici per quanto di competenza, da emanarsi entro sessanta giorni dalla data di entrata in vigore del presente decreto. Qualora la movimentazione abbia carattere internazionale, l'autorizzazione e' rilasciata dal Ministero dell'ambiente sentite le regioni interessate.".
 
 ## Art. 16. — Autorizzazione al trattamento di rifiuti costituiti da acque reflue
 
@@ -205,6 +301,32 @@ L'articolo 39 del decreto legislativo n. 152 del 1999 e' sostituito dal seguente
 
 ## Art. 19. — Criteri generali
 
+1.
+                    
+                        
+                            All'articolo 45 del decreto legislativo n. 152 del 1999, sono apportate le seguenti modifiche:
+ 
+                        
+                        
+                            a)
+                            
+                                il comma 4 e' sostituito dal seguente: "4. In deroga al comma 1 gli scarichi di acque reflue domestiche in reti fognarie sono sempre ammessi nell'osservanza dei regolamenti fissati dal gestore del servizio idrico integrato.";
+
+                            
+                        
+                        
+                            b)
+                            
+                                il comma 7 e' sostituito dal seguente: "7. Salvo quanto previsto dal decreto legislativo 4 agosto 1999, n. 372, l'autorizzazione e' valida per quattro anni dal momento del rilascio.
+Un anno prima della scadenza ne deve essere chiesto il rinnovo. Lo scarico puo' essere provvisoriamente mantenuto in funzione nel rispetto delle prescrizioni contenute nella precedente autorizzazione, fino all'adozione di un nuovo provvedimento, se la domanda di rinnovo e' stata tempestivamente presentata. Per gli scarichi contenenti sostanze pericolose di cui all'articolo 34, il rinnovo deve essere concesso in modo espresso entro e non oltre sei mesi dalla data di scadenza; trascorso inutilmente tale termine, lo scarico dovra' cessare immediatamente. La disciplina regionale di cui al comma 3 puo' prevedere per specifiche tipologie di scarichi di acque reflue domestiche, ove soggetti ad autorizzazione, forme di rinnovo tacito della medesima.";
+
+                            
+                        
+                        
+                            c)
+                            
+                                il comma 11 e' sostituito dal seguente: "11. Per gli insediamenti, edifici o installazioni la cui attivita' sia trasferita in altro luogo ovvero per quelli soggetti a diversa destinazione, ad ampliamento o a ristrutturazione da cui derivi uno scarico avente caratteristiche qualitativamente o quantitativamente diverse da quelle dello scarico preesistente deve essere richiesta una nuova autorizzazione allo scarico, ove prevista. Nelle ipotesi in cui lo scarico non abbia caratteristiche qualitative o quantitative diverse, deve essere data comunicazione all'Autorita' competente, la quale, verificata la compatibilita' dello scarico con il corpo recettore, puo' adottare i provvedimenti che si rendessero eventualmente necessari.".
+
 ## Art. 20. — Domanda di autorizzazione allo scarico di acque reflue industriali
 
 All'articolo 46 del decreto legislativo n. 152 del 1999, il comma 2 e' sostituito dal seguente:
@@ -224,6 +346,66 @@ Per gli scarichi contenenti le sostanze di cui alla tabella 5 dell'allegato 5 l'
 
 ## Art. 21. — Sanzioni amministrative
 
+1.
+                    
+                        
+                            All'articolo 54 del decreto legislativo n. 152 del 1999 sono apportate le seguenti modifiche:
+ 
+                        
+                        
+                            a)
+                            
+                                il comma 1 e' sostituito dal seguente: "1. Chiunque, salvo che il fatto costituisca reato, nell'effettuazione di uno scarico supera i valori limite di emissione fissati nelle tabelle di cui all'allegato 5, ovvero i diversi valori limite stabiliti dalle regioni a norma dell'articolo 28, comma 2, ovvero quelli fissati dall'autorita' competente a norma dell'articolo 33, comma 1, o dell'articolo 34, comma 1, e' punito con la sanzione amministrativa da lire cinque milioni a lire cinquanta milioni. Se l'inosservanza dei valori limite riguarda scarichi recapitanti nelle aree di salvaguardia delle risorse idriche destinate al consumo umano di cui all'articolo 21 ovvero in corpi idrici posti nelle aree protette di cui alla legge 6 dicembre 1991, n. 394, si applica la sanzione amministrativa non inferiore a lire trenta milioni.";
+
+                            
+                        
+                        
+                            b)
+                            
+                                il comma 3 e' sostituito dal seguente: "3. Chiunque, salvo che il fatto costituisca reato e al di fuori delle ipotesi di cui al comma 1, effettua o mantiene uno scarico senza osservare le prescrizioni indicate nel provvedimento di autorizzazione ovvero fissate ai sensi dell'`articolo 33, comma 1, e' punito con la sanzione amministrativa pecuniaria da lire due milioni a lire venticinque milioni.";
+
+                            
+                        
+                        
+                            c)
+                            
+                                il comma 4 e' sostituito dal seguente: "4. Si applica la sanzione prevista al comma 3 a chi effettuando al momento dell'entrata in vigore del presente decreto scarichi di acque reflue esistenti, non ottempera alle disposizioni di cui all'articolo 62, comma 12.";
+
+                            
+                        
+                        
+                            d)
+                            
+                                il comma 5 e' soppresso;
+
+                            
+                        
+                        
+                            e)
+                            
+                                il comma 7 e' sostituito dal seguente. "7. Salvo che il fatto non costituisca reato, fino all'emanazione della disciplina regionale di cui all'articolo 38, comma 2, chiunque non osserva le disposizioni di cui all'articolo 62, comma 10, e' punito con la sanzione amministrativa pecuniaria da lire un milione a lire dieci milioni.";
+
+                            
+                        
+                        
+                            f)
+                            
+                                il comma 9 e' soppresso;
+
+                            
+                        
+                        
+                            g)
+                            
+                                dopo il comma 10 sono aggiunti, in fine, i seguenti:
+ "10-bis. Chiunque viola le prescrizioni concernenti l'installazione e la manutenzione dei dispositivi per la misurazione delle portate e dei volumi ovvero l'obbligo di trasmissione dei risultati delle misurazioni di cui al comma 3 dell'articolo 22 e' punito con la sanzione amministrativa pecuniaria da lire due milioni a lire dieci milioni. Nei casi di particolare tenuita' la sanzione e' ridotta ad un quinto.
+ 10-ter. Chiunque non ottempera alla disciplina dettata dalle regioni ai sensi dell'articolo 39, comma 1, lettera b), e' punito con la sanzione amministrativa pecuniaria da lire due milioni a lire venticinque milioni.".
+ 2.1. L'articolo 55 del decreto legislativo n. 152 del 1999 e' sostituito dal seguente:
+ "Art. 55 (Sanzioni in materia di aree di salvaguardia e modifiche al decreto del Presidente della Repubblica 24 maggio 1988, n. 236). - 1. L'inosservanza delle disposizioni relative alle attivita' e destinazioni vietate nelle aree di salvaguardia di cui all articolo 21 e punita con la sanzione amministrativa pecuniaria da lire un milione a lire dieci milioni.
+ 2. Il comma 3 dell'articolo 21, del decreto del Presidente della Repubblica 24 maggio 1988, n. 236, e' sostituito dal seguente: "3.
+L'inosservanza delle disposizioni dei piani di intervento di cui all'articolo 18 e' punita con la sanzione amministrativa pecuniaria da lire un milione a lire dieci milioni.".
+ 3. Il comma 4 dell'articolo 21 del decreto del Presidente della Repubblica 24 maggio 1988, n. 236, e' cosi' modificato: "4. I contravventori alle disposizioni di cui all'articolo 15 sono puniti con la sanzione amministrativa pecuniaria da lire un milione a lire sei milioni.".
+
 ## Art. 22. — Competenza e giurisdizione
 
 All'articolo 56 del decreto legislativo n. 152 del 1999, il comma 1 e' sostituito dal seguente:
@@ -234,11 +416,151 @@ Dopo il comma 1 e' inserito il seguente:
 
 ## Art. 23. — Sanzioni penali
 
+1.
+                    
+                        
+                            All'articolo 59 del decreto legislativo n. 152 del 1999 sono apportate le seguenti modifiche:
+ 
+                        
+                        
+                            a)
+                            
+                                il comma 4 e' sostituito dal seguente:
+ "4. Chiunque, al di fuori delle ipotesi di cui al comma 5, effettua uno scarico di acque reflue industriali contenenti le sostanze pericolose comprese nelle famiglie e nei gruppi di sostanze indicate nelle tabelle 5 e 3/A dell'allegato 5, senza osservare le prescrizioni dell'autorizzazione, ovvero le altre prescrizioni dell'autorita' competente a norma degli articoli 33, comma 1, e 34 comma 3, e' punito con l'arresto fino a due anni.";
+
+                            
+                        
+                        
+                            b)
+                            
+                                dopo il comma 4 e' inserito il seguente:
+ "4-bis. Chiunque viola le prescrizioni concernenti l'installazione e la gestione dei controlli in automatico o l'obbligo di conservazione dei risultati degli stessi di cui all'articolo 52 e' punito con la pena di cui al precedente comma 4.";
+
+                            
+                        
+                        
+                            c)
+                            
+                                il comma 5 e' sostituito dal seguente:
+ "5. Chiunque, nell'effettuazione di uno scarico di acque reflue industriali, supera i valori limite fissati nella tabella 3 o, nel caso di scarico sul suolo, nella tabella 4 dell'allegato 5 ovvero i limiti piu' restrittivi fissati dalle regioni o delle province autonome o dall'autorita' competente a norma degli articoli 33, comma 1, in relazione alle sostanze indicate nella tabella 5 dell'allegato 5, e' punito con l'arresto fino a due anni e con l'ammenda da lire cinque milioni a lire cinquanta milioni. Se sono superati anche i valori limite fissati per le sostanze contenute nella tabella 3A dell'allegato 5, si applica l'arresto da sei mesi a tre anni e l'ammenda da lire dieci milioni a lire duecento milioni.";
+
+                            
+                        
+                        
+                            d)
+                            
+                                il comma 6 e' sostituito dal seguente:
+ "6. Le sanzioni di cui al comma 5 si applicano altresi' al gestore di impianti di trattamento delle acque reflue urbane che nell'effettuazione dello scarico supera i valori-limite previsti dallo stesso comma.";
+
+                            
+                        
+                        
+                            e)
+                            
+                                dopo il comma 6 sono inseriti i seguenti:
+ "6-bis. Al gestore del servizio idrico integrato che non ottempera all'obbligo di comunicazione di cui all'articolo 36, comma 3, o non osserva le prescrizioni o i divieti di cui all'articolo 36, comma 5, si applica la pena di cui all'articolo 51, comma 1, del decreto legislativo 5 febbraio 1997, n. 22.
+ 6-ter. Il titolare di uno scarico che non consente l'accesso agli insediamenti da parte del soggetto incaricato del controllo ai fini di cui all'articolo 28, commi 3 e 4, salvo che il fatto non costituisca piu' grave reato, e' punito con la pena dell'arresto fino a due anni. Restano fermi i poteri-doveri di interventi dei soggetti incaricati del controllo anche ai sensi dell'articolo 13 della legge n. 689 del 1981 e degli articoli 55 e 354 del codice di procedura penale.
+ 6-quater. Chiunque non ottempera alla disciplina dettata dalle regioni ai sensi dell'articolo 39, comma 3, e' punito con le sanzioni di cui all'articolo 59, comma 1.";
+
+                            
+                        
+                        
+                            f)
+                            
+                                il comma 10 e' sostituito dal seguente:
+ "10. Nei casi previsti dal comma 9, il Ministro della sanita' e dell'ambiente, nonche' la regione e la provincia autonoma competente, ai quali sono inviati copia delle notizie di reato, possono indipendentemente dall'esito del giudizio penale, disporre, ciascuno per quanto di competenza, la sospensione in via cautelare dell'attivita' di molluschicoltura e, a seguito di sentenza di condanna o di decisione emessa ai sensi dell'articolo 444 del codice di procedura penale definitive, valutata la gravita' dei fatti, disporre la chiusura degli impianti.";
+
+                            
+                        
+                        
+                            g)
+                            
+                                dopo il comma 11 sono aggiunti, in fine, i seguenti:
+ "11-bis. La sanzione di cui al comma 11 si applica anche a chiunque effettua, in violazione dell'articolo 48, comma 3, lo smaltimento dei fanghi nelle acque marine mediante immersione da nave, scarico attraverso condotte ovvero altri mezzi o comunque effettua l'attivita' di smaltimento di rifiuti nelle acque marine senza essere munito dell'autorizzazione di cui all'articolo 18, comma 2, lettera p-bis), del decreto legislativo 5 febbraio 1997, n. 22.
+ 11-ter. Chiunque effettui l'utilizzazione agronomica di effluenti di allevamento, delle acque di vegetazione dei frantoi oleari, nonche' delle acque reflue provenienti da aziende agricole e piccole aziende agroalimentari di cui all'articolo 38 al di fuori dei casi e delle procedure ivi previste ovvero non ottemperi al divieto o all'ordine di sospensione dell'attivita' impartito a norma di detto articolo e' punito con l'ammenda da lire due milioni a lire quindici milioni o con l'arresto fino ad un anno. La stessa pena si applica a chiunque effettua l'utilizzazione agronomica al di fuori dei casi e delle procedure di cui alla normativa vigente.".
+
 ## Art. 24. — Norme finali
+
+1.
+                    
+                        
+                            All'articolo 62 del decreto legislativo n. 152 del 1999 sono apportate le seguenti modifiche:
+ 
+                        
+                        
+                            a)
+                            
+                                i commi 5 e 6 sono soppressi;
+
+                            
+                        
+                        
+                            b)
+                            
+                                il comma 10 e' sostituito dal seguente:
+ "10. Fino all'emanazione della disciplina regionale di cui all'articolo 38, le attivita' di utilizzazione agronomica sono effettuate secondo le disposizioni regionali vigenti alla data di entrata in vigore del presente decreto.";
+
+                            
+                        
+                        
+                            c)
+                            
+                                il comma 11 e' sostituito dal seguente:
+ "11. Fatte salve le disposizioni specifiche previste dal presente decreto, i titolari degli scarichi esistenti devono adeguarsi alla nuova disciplina entro tre anni dalla data di entrata in vigore del presente decreto. Lo stesso termine vale anche nel caso di scarichi per i quali l'obbligo di autorizzazione preventiva e' stato introdotto dalla presente normativa. I titolari degli scarichi esistenti e autorizzati procedono alla richiesta di autorizzazione in conformita' alla presente normativa allo scadere dell'autorizzazione e comunque non oltre quattro anni dall'entrata in vigore del presente decreto. Si applicano in tal caso il terzo e quarto periodo del comma 7 dell'articolo 45.";
+
+                            
+                        
+                        
+                            d)
+                            
+                                il comma 12 e' sostituito dal seguente:
+ "12. Coloro che effettuano scarichi esistenti di acque reflue, sono obbligati, fino al momento nel quale devono osservare i limiti di accettabilita' stabiliti dal presente decreto, ad adottare le misure necessarie ad evitare un aumento anche temporaneo dell'inquinamento.
+Essi sono comunque tenuti ad osservare le norme, le prescrizioni e i valori-limite stabiliti, secondo i casi, dalle normative regionali ovvero dall'autorita' competente ai sensi dell'articolo 33 vigenti alla data di entrata in vigore del presente decreto, in quanto compatibili con le disposizioni relative alla tutela qualitativa e alle scadenze temporali del presente decreto e, in particolare, con quanto gia' previsto dalla normativa previgente. Sono fatte salve in ogni caso le disposizioni piu' favorevoli introdotte dal presente decreto.";
+
+                            
+                        
+                        
+                            e)
+                            
+                                dopo il comma 14 e' inserito il seguente:
+ "14-bis. In attuazione delle disposizioni statali di finanziamento di cui al comma 14, una quota non inferiore al 10 e non superiore al 15 per cento degli stanziamenti e' riservata alle attivita' di monitoraggio e studio destinati all'attuazione del presente decreto.";
+
+                            
+                        
+                        
+                            f)
+                            
+                                dopo il comma 15 e' aggiunto, in fine, il seguente:
+ "15-bis. Restano ferme le norme della legge 11 dicembre 1982, n. 979.".
 
 ## Art. 25. — Modifiche agli allegati
 
 Gli allegati del decreto legislativo n. 152 del 1999 sono sostituiti dagli allegati al presente decreto.
 
 ## Art. 26. — Abrogazioni
+
+1.
+                    
+                        
+                            Sono abrogati: 
+ 
+                        
+                        
+                            a)
+                            
+                                l'articolo 42, comma terzo, del regio decreto 11 dicembre 1933, n. 1775, come modificato dall'articolo 8 del decreto legislativo 12 luglio 1993, n. 275; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                gli articoli 5, 6 e 7 della legge 24 gennaio 1986 n. 7, di conversione, con modificazioni, del decreto-legge 25 novembre 1985, n. 667; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                gli articoli 4, 5, 6 e 7 del decreto del Presidente della Repubblica 24 maggio 1988, n. 236.
 

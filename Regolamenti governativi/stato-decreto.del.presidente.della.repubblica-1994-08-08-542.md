@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Regolamenti governativi
 vigenza_date: 2016-08-21
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:10Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -51,7 +51,25 @@ Le apparecchiature operano sotto la responsabilita' di uno specialista medico ra
 
 ## Art. 4. — Collocazione delle apparecchiature R.M.
 
+1.
+                    
+                        
+                            La collocazione delle apparecchiature R.M. soggette ad autorizzazione deve rispettare i seguenti criteri: 
+ 
+                        
+                        
+                            a)
+                            
+                                adeguamento alla domanda di prestazione attuale o prevista secondo quanto stabilito dalla programmazione sanitaria della regione o della provincia autonoma; 
 
+                            
+                        
+                        
+                            b)
+                            
+                                integrazione con strutture specialistiche gia' esistenti finalizzata al loro utilizzo multi-specialistico di diagnostica mediante immagini o mono-specialistico limitatamente a unita' autonome di diagnosi e cura di elevata qualificazione cardiologica e/o cardiochirurgica, neurologica e/o neurochirurgica; ospedali specializzati ortopedico-traumatologici.
+
+((COMMA ABROGATO DAL D.L. 24 GIUGNO 2016, N. 113, CONVERTITO CON MODIFICAZIONI DALLA L. 7 AGOSTO 2016, N. 160)).
 
 ## Art. 5. — Apparecchiature soggette ad autorizzazione regionale
 
@@ -66,6 +84,107 @@ L'autorita' sanitaria si pronuncia sulla domanda entro sessanta giorni dal ricev
 ## Art. 6. — Apparecchiature soggette ad autorizzazione ministeriale
 
 
+
+2.
+                    
+                        
+                            La domanda di autorizzazione deve essere corredata dalla dichiarazione di conformita' agli "standards" di cui all'art. 2 del presente regolamento firmata dal legale rappresentante del presidio in cui l'apparecchiatura deve essere installata, nonche' dalla documentazione relativa a: 
+ 
+                        
+                        
+                            a)
+                            
+                                
+                                    ((LETTERA ABROGATA DAL D.L. 24 GIUGNO 2016, N. 113, CONVERTITO CON MODIFICAZIONI DALLA L. 7 AGOSTO 2016, N. 160)); 
+
+                            
+                        
+                        
+                            b)
+                            
+                                caratteristiche e prestazioni tecniche; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                prestazioni dell'apparecchiatura, con specifico riferimento alle esigenze tecnico-scientifiche della ricerca clinica programmata; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                descrizione del sito di installazione ed aree adiacenti; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                controlli di sicurezza.
+
+3.
+                    
+                        
+                            Alla fine del periodo di utilizzo, deve essere inviata al Ministero una circostanziata relazione sui risultati della ricerca con particolare riguardo a: 
+ 
+                        
+                        
+                            a)
+                            
+                                efficacia clinica; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                analisi del rapporto rischio/beneficio; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                analisi dell'impegno economico; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                verifiche di funzionalita'; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                verifiche di produttivita'; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                
+                                    ((LETTERA ABROGATA DAL D.L. 24 GIUGNO 2016, N. 113, CONVERTITO CON MODIFICAZIONI DALLA L. 7 AGOSTO 2016, N. 160)); 
+
+                            
+                        
+                        
+                            g)
+                            
+                                requisiti quali-quantitativi del personale; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                requisiti in merito a controlli di qualita'.
 
 ((COMMA ABROGATO DAL D.L. 24 GIUGNO 2016, N. 113, CONVERTITO CON MODIFICAZIONI DALLA L. 7 AGOSTO 2016, N. 160)).
 

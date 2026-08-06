@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: DPR
 vigenza_date: 2018-05-17
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:47:45Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -1541,6 +1541,24 @@ Le misure mensili di cui al comma 1 sono corrisposte per tredici mensilita'.
 
 ## Art. 5. — Fondo di produttivita'
 
+1.
+                        
+                            
+                                Il Fondo di produttivita' per il personale direttivo di cui all'articolo 5 del decreto del Presidente della Repubblica 29 novembre 2007, come incrementato dall'articolo 30 del decreto del Presidente della Repubblica 7 maggio 2008, e' aumentato dalle seguenti risorse annue: 
+ 
+                            
+                            
+                                a)
+                                
+                                    per l'anno 2008: 7.400,00 euro; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    per l'anno 2009: 28.100,00 euro.((1))
+
 Gli importi di cui al comma precedente non comprendono gli oneri contributivi e l'IRAP a carico dello Stato e non hanno effetto di trascinamento nell'anno successivo.
 
 Restano ferme le disposizioni relative alla composizione del predetto Fondo ed all'utilizzo dello stesso.
@@ -2415,6 +2433,24 @@ La corresponsione dei nuovi stipendi, derivanti dall'applicazione del presente d
 
 ## Art. 10. — Fondo per la retribuzione di rischio, di posizione e di risultato
 
+1.
+                        
+                            
+                                Il Fondo per la retribuzione di rischio, di posizione e di risultato di cui all'articolo 8 del decreto del Presidente della Repubblica 29 novembre 2007, continua ad essere alimentato dalle risorse di cui all'articolo 38, comma 1, del decreto del Presidente della Repubblica 7 maggio 2008 ed e' ulteriormente aumentato dalle seguenti risorse annue: 
+ 
+                            
+                            
+                                a)
+                                
+                                    anno 2008: 17.900 euro; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    a decorrere dall'anno 2009 di 112.700 euro.
+
 Restano ferme le disposizioni relative alla composizione ed all'utilizzo del predetto Fondo previste, rispettivamente, dagli articoli 8 e 9 del decreto del Presidente della Repubblica 29 novembre 2007, anche in relazione alla graduazione degli incarichi di funzione disposta, ai sensi dell'articolo 77 del decreto legislativo 13 ottobre 2005, n. 217, con decreto del Ministro dell'interno 3 marzo 2008.
 
 La retribuzione di posizione e rischio per la parte fissa resta fissata nella misura prevista dall'articolo 9, comma 2, del decreto del Presidente della Repubblica 29 novembre 2007 e per la parte variabile vengono utilizzate le risorse di cui al comma 1.
@@ -2438,6 +2474,24 @@ Le modalita' di utilizzo delle risorse di cui al comma 1 e la relativa destinazi
 Al personale di cui all'articolo 1, comma 1, continua ad applicarsi, ove non in contrasto con il presente decreto ed in quanto compatibile con le vigenti disposizioni legislative e regolamentari, la disciplina contrattuale relativa al predetto personale.
 
 ## Art. 13. — Copertura finanziaria
+
+1.
+                        
+                            
+                                All'onere derivante dall'attuazione del presente decreto, pari ad euro 4.453.000 per l'anno 2010 ed euro 2.312.000 a decorrere dall'anno 2011, si provvede: 
+ 
+                            
+                            
+                                a)
+                                
+                                    per l'anno 2010, quanto ad euro 1.676.000,00 a valere sulle disponibilita' in conto residui, all'uopo conservate, sul capitolo 3027 «Fondo da ripartire per l'attuazione dei contratti del personale delle Amministrazioni statali anche ad ordinamento autonomo, ivi compreso il personale militare e quello dei Corpi di polizia e delle Universita'»; quanto ad euro 1.909.000 mediante riduzione dell'autorizzazione di spesa prevista dall'articolo 2, comma 28, della legge 22 dicembre 2008, n. 203 e dall'articolo 3, comma 144, della legge 24 dicembre 2007, n. 244; quanto ad euro 403.000 a valere sulle risorse disponibili sullo stato di previsione della spesa del Ministero dell'interno relative all'autorizzazione di spesa prevista dall'articolo 17, comma 35-quinquies, del decreto-legge 1° luglio 2009, n. 78, convertito, con modificazioni, dalla legge 3 agosto 2009, n. 102, e quanto ad euro 465.000 a valere sulle risorse iscritte sullo stato di previsione della spesa del Ministero dell'interno relative all'autorizzazione di spesa prevista dall'articolo 3, comma 144, della legge 24 dicembre 2007, n. 244; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    a decorrere dall'anno 2011, quanto ad euro 1.909.000 mediante riduzione dell'autorizzazione di spesa prevista dall'articolo 2, comma 28, della legge 22 dicembre 2008, n. 203, e dall'articolo 3, comma 144, della legge 24 dicembre 2007, n. 244, e quanto ad euro 403.000 mediante riduzione dell'autorizzazione di spesa prevista dall'articolo 17, comma 35-quinquies, del decreto-legge 1° luglio 2009, n. 78, convertito, con modificazioni, dalla legge 3 agosto 2009, n. 102.
 
 Il Ministro dell'economia e delle finanze e' autorizzato ad apportare, con propri decreti, le occorrenti variazioni di bilancio.
 

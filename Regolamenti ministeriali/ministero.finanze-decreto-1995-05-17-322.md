@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
 vigenza_date: 1995-09-13
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:40Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -72,6 +72,40 @@ Negli impieghi di cui al comma 1 i prodotti petroliferi possono essere utilizzat
 
 ## Art. 2. — Impiego di prodotti denaturati
 
+1.
+                        
+                            
+                                I seguenti prodotti petroliferi possono essere utilizzati negli impieghi di cui all'art. 1 denaturati mediante l'aggiunta, ad ogni 100 chilogrammi di prodotto, delle seguenti sostanze:
+ 
+                            
+                            
+                                a)
+                                
+                                    benzina: 1.000 grammi di tricloroetilene, 1.000 grammi di percloroetilene e 3 grammi di tracciante RS;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    petrolio: 2.000 grammi di ortodiclorobenzene e
+3 grammi di tracciante RS;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    gasolio: 2.000 grammi di cloroparaffina con contenuto in cloro non inferiore al 45 per cento in peso e
+3 grammi di tracciante RS;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    gpl: 1.000 grammi di clorodifluorometano HCFC-22.
+
 Per motivi tecnici riconosciuti dall'amministrazione finanziaria possono essere utilizzate formule di denaturazione diverse da quelle previste nel comma 1, da portare a conoscenza degli organi dell'amministrazione medesima incaricati dei controlli.
 
 Le denaturazioni di cui al comma 1 possono essere effettuate, con l'osservanza delle modalita' stabilite dall'amministrazione finanziaria, presso i depositi fiscali o doganali o presso i depositi di cui al comma 5 mentre quelle di cui al comma 2 possono essere effettuate anche presso gli utilizzatori, che in tal caso devono assumere la qualita' di operatori registrati.
@@ -94,6 +128,46 @@ Gli utilizzatori dei prodotti denaturati ai sensi del comma 1, che non siano ese
 ## Art. 3. — Impiego di prodotti non denaturati
 
 Chiunque intende utilizzare negli impieghi di cui all'art. 1 i prodotti petroliferi indicati all'art. 17, comma 1, del decreto-legge, non denaturati, deve farne preventiva denuncia all'UTF competente per territorio, almeno sessanta giorni prima della data d'inizio dell'impiego.
+
+2.
+                        
+                            
+                                La denuncia deve essere compilata in duplice esemplare e deve contenere la denominazione della ditta, la sua sede, il codice fiscale, la partita IVA, le generalita' di chi la rappresenta legalmente, il comune, la via ed il numero civico o la localita' in cui si trova l'impianto, nonche' il relativo numero di telefono e di fax. Deve inoltre essere corredata da una relazione tecnica, con allegate la planimetria dell'opificio e le tabelle di taratura dei serbatoi dove sono custoditi i prodotti di cui al comma 1, riportante le seguenti ulteriori informazioni:
+ 
+                            
+                            
+                                a)
+                                
+                                    locali di cui si compone l'impianto ed uso a cui ciascuno e' destinato, con riferimento alla planimetria;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    numero dei serbatoi e relative capacita' e quantita' massima dei singoli prodotti esenti che in qualsiasi momento si puo' trovare nell'impianto;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    modalita' d'impiego dei prodotti esenti, eventuali processi di lavorazione, quantita' e qualita' dei prodotti ottenuti da tale lavorazione;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    quantitativo massimo di prodotti esenti che si prevede di poter utilizzare in un anno;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    estremi delle autorizzazioni o concessioni rilasciate ai sensi del regio decreto-legge 2 novembre 1933, n. 1741, convertito dalla legge 8 febbraio 1934, n. 367, e successive modifiche.
+ La denuncia deve pure contenere una dichiarazione dell'utilizzatore attestante, sotto la propria responsabilita', il possesso di tutte le eventuali altre autorizzazioni di natura non fiscale occorrenti per l'esercizio della propria attivita', nonche' la richiesta di riconoscimento della qualita' di operatore registrato.
 
 L'UTF, ricevuta la denuncia, verifica gli impianti, procede, in contraddittorio con l'esercente, al controllo della taratura dei serbatoi destinati al deposito dei prodotti petroliferi esenti, determina, anche con esperimenti, i parametri mediante i quali puo' effettuarsi il riscontro della regolarita' dell'impiego agevolato, prescrive le misure necessarie per il loro controllo, compresa, nei casi previsti, l'installazione di apparecchiature e strumenti, provvede alla registrazione dell'operatore ed alla comunicazione del codice d'accisa, rilasciando, se prevista, la licenza di cui all'art. 3 del decreto-legge 5 maggio 1957, n. 271, convertito, con modificazioni, dalla legge 2 luglio 1957, n. 474.
 
@@ -156,6 +230,24 @@ I titolari degli stabilimenti di produzione devono, inoltre, trasmettere, entro 
 
 ## Art. 9. — Denaturazione, condizionamento e commercializzazione
 
+1.
+                        
+                            
+                                I prodotti sotto elencati, non soggetti ad accisa, possono essere utilizzati negli impieghi di cui all'art. 6 denaturati mediante l'aggiunta, ad ogni 100 chilogrammi di prodotto, delle seguenti sostanze:
+ 
+                            
+                            
+                                a)
+                                
+                                    prodotti di cui ai codici NC 2707 10, 2707 20, 2707 30, 2707 50, 2710, 2712 90 90, 3817 10 (ad eccezione degli assimilati agli oli lubrificanti): le medesime sostanze, e nelle medesime quantita', previste, per il carburante o combustibile equivalente, dal precedente art. 2;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    estratti aromatici (NC 2713 90 90), poliolefine (NC 3902), alchilbenzoli (NC 3817 10) assimilati agli oli lubrificanti: 2.000 grammi di cloroparaffine, con contenuto in cloro non inferiore al 45 per cento in peso e 3 grammi di tracciante RS.
+
 Per motivi tecnici riconosciuti dall' amministrazione finanziaria possono essere utilizzate formule di denaturazione diverse da quelle previste nel comma 1, da portare a conoscenza degli organi dell'amministrazione medesima incaricati dei controlli. Non e' consentito l'impiego, negli usi di cui all'art. 6, diversi dalla trasformazione chimica, degli estratti aromatici (codice NC 2713 90 90), delle miscele di alchilbenzoli sintetici (codice 3817 10) e dei polimeri poliolefinici sintetici (codice NC 3902), senza preventiva denaturazione.
 
 La denaturazione di cui al comma 1 puo' essere effettuata, con l'osservanza delle modalita' stabilite dal dipartimento delle dogane e delle imposte indirette, presso gli impianti di produzione, i depositi fiscali, i depositi doganali se i prodotti provengono da Paesi terzi o presso i depositi di cui al comma 4, al momento della loro ricezione; i prodotti di provenienza comunitaria possono anche pervenire gia' denaturati, secondo le formule di cui ai commi 1 e 2.
@@ -174,6 +266,16 @@ Gli utilizzatori dei prodotti denaturati ai sensi del comma 1 devono custodire i
 ## Art. 10. — Impiego di prodotti non denaturati
 
 Chiunque intenda utilizzare i prodotti di cui all'art. 6 non denaturati ne' condizionati ai sensi dell'art. 9, comma 5, deve denunciare la propria attivita' all'UTF competente per territorio, almeno trenta giorni prima della data d'inizio dell'attivita' medesima.
+
+2.
+                        
+                            
+                                La denuncia, compilata in duplice esemplare e contenente i dati per l'identificazione della ditta e della ubicazione delll'impianto di cui all'art. 3, comma 2, deve essere corredata da una relazione tecnica, con allegate la planimetria dell'impianto e le tabelle di taratura dei serbatoi destinati alla custodia dei prodotti, riportante le informazioni di cui alle lettere da 
+                            
+                            
+                                a)
+                                
+                                    ad e) del sopracitato comma 2; la denuncia deve pure riportare l'attestazione dell'utilizzatore, pure prevista nel medesimo comma.
 
 L'UTF, ricevuta la denuncia, la allibra in apposito registro degli "Utilizzatori di oli minerali non soggetti ad accisa", procede ad una ricognizione dell'opificio, identifica, anche con esperimenti, i parametri mediante i quali puo' effettuarsi il riscontro della regolarita' dell'impiego e prescrive le misure necessarie per il controllo dell'utilizzazione dei prodotti di cui al comma 1.
 

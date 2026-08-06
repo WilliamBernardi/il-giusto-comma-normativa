@@ -8,8 +8,8 @@ codice_redazionale: 090G0342
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:40Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -55,6 +55,33 @@ L'esportazione dei prodotti siderurgici verso gli U.S.A. e' disciplinata dai reg
 Il regolamento valutario delle importazioni e delle esportazioni deve avvenire secondo le norme valutarie vigenti. Le esportazioni sono, inoltre, soggette all'osservanza delle vigenti norme concernenti i visti, le certificazioni e i controlli di pubbliche amministrazioni o di determinati enti, in ordine alle rispettive finalita' istituzionali.
 
 ## Art. 6. — Riesportazione
+
+1.
+                    
+                        
+                            Ferma restando la regolamentazione della convenzione di Washington di cui all'art. 3, e' libera la riesportazione di:
+ 
+                        
+                        
+                            a)
+                            
+                                merci non assoggettate ad autorizzazione, ottenute con materie prime importate temporaneamente per conto proprio, anche se commiste con materie prime nazionali assoggettate ad autorizzazione;
+
+                            
+                        
+                        
+                            b)
+                            
+                                merci non assoggettate ad autorizzazione, ottenute con materie prime di proprieta' di non residenti importate temporaneamente per lavorazione per conto, anche se sono state aggiunte materie prime nazionali sottoposte ad autorizzazione;
+
+                            
+                        
+                        
+                            c)
+                            
+                                merci temporaneamente importate a titolo diverso da quelle indicate nei precedenti paragrafi:
+ senza alcuna limitazione, quando la riesportazione abbia luogo verso lo stesso Paese dal quale le merci vennero importate temporaneamente;
+ limitatamente alle merci non assoggettate ad autorizzazione quando la riesportazione abbia luogo verso un Paese diverso da quello dal quale le merci vennero importate temporaneamente.
 
 ## Art. 7. — Procedure particolari
 

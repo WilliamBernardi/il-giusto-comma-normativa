@@ -7,8 +7,8 @@ urn: urn:nir:stato:decreto.legislativo:2016-07-17;135
 vigente: true
 source: normattiva-opendata
 collection: Leggi delega e relativi provvedimenti delegati
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:41:18Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -23,6 +23,122 @@ Acquisiti i pareri delle competenti Commissioni della Camera dei deputati e del 
 Sulla proposta del Presidente del Consiglio dei ministri e del Ministro dell'economia e delle finanze, di concerto con i Ministri degli affari esteri e della cooperazione internazionale, della giustizia, dello sviluppo economico e per la semplificazione e la pubblica amministrazione;
 
 ## Art. 1. — Definizioni
+
+1.
+                    
+                        
+                            All'articolo 1, comma 1, del decreto legislativo 27 gennaio 2010, n. 39, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                dopo la lettera c), e' inserita la seguente: «c-bis) "enti sottoposti a regime intermedio": le societa' individuate ai sensi dell'articolo 19-bis;»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                la lettera d), e' sostituita dalla seguente: «d) "ente di revisione di un Paese terzo": un ente che, indipendentemente dalla sua forma giuridica, effettua la revisione del bilancio d'esercizio o consolidato di una societa' avente sede in un Paese terzo e che e' diverso da un ente iscritto nel registro di uno Stato membro in seguito all'abilitazione all'esercizio della revisione legale;»; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                dopo la lettera f), e' inserita la seguente: «f-bis) "principi di revisione internazionali": i principi di revisione internazionali (ISA), il principio internazionale sul controllo della qualita' (ISQC 1) e altri principi correlati definiti dall'International Federation of Accountants (IFAC) tramite l'International Auditing and Assurance Standards Board (IAASB), nella misura in cui gli stessi siano rilevanti ai fini della revisione legale;»; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                la lettera g), e' sostituita dalla seguente: «g) "Registro/Registro dei revisori legali": il registro tenuto dal Ministero dell'economia e delle finanze nel quale sono iscritti i revisori legali e le societa' di revisione legale ai sensi dell'articolo 2, comma 1;»; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                la lettera h) e' sostituita dalla seguente: «h) "relazione di revisione legale": la relazione del revisore legale o della societa' di revisione legale di cui all'articolo 14 e, ove applicabile, all'articolo 10 del regolamento n. 537/2014 del Parlamento europeo e del Consiglio;»; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                la lettera i) e' sostituita dalla seguente: «i) "responsabile/responsabili dell'incarico": 
+ 1) il revisore legale o i revisori legali ai quali e' stato conferito l'incarico di revisione legale e che firmano la relazione di revisione; 
+ 2) nel caso in cui l'incarico di revisione legale sia stato conferito ad una societa' di revisione legale, il revisore legale o i revisori legali designati dalla societa' di revisione legale come responsabili dell'esecuzione della revisione legale per conto della societa' di revisione legale e che firmano la relazione di revisione.»; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                dopo la lettera i), e' inserita la seguente: «i-bis) "responsabile/responsabili chiave della revisione": 
+ 1) il responsabile/i responsabili dell'incarico come definiti alla lettera i) del presente articolo; 
+ 2) nel caso della revisione legale di un gruppo, il revisore o i revisori legali designati da una societa' di revisione legale come i responsabili dell'esecuzione della revisione legale del bilancio consolidato, nonche' il revisore o i revisori legali designati come i responsabili a livello delle societa' controllate significative;»; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                la lettera l) e' sostituita dalla seguente: «l) "rete": la struttura piu' ampia alla quale appartengono un revisore legale o una societa' di revisione legale che e' finalizzata alla cooperazione e che: 
+ 1) persegue chiaramente la condivisione degli utili o dei costi o 
+ 2) e' riconducibile a una proprieta', un controllo o una direzione comuni o 
+ 3) condivide direttive e procedure comuni di controllo della qualita', o una strategia aziendale comune, o l'utilizzo di una denominazione o di un marchio comune o una parte significativa delle risorse professionali;»; 
+
+                            
+                        
+                        
+                            i)
+                            
+                                la lettera m) e' sostituita dalla seguente: «m) "revisione legale": la revisione dei bilanci di esercizio o dei bilanci consolidati effettuata in conformita' alle disposizioni del codice civile e del presente decreto legislativo o, nel caso in cui sia effettuata in un altro Stato membro dell'Unione europea, alle disposizioni di attuazione della direttiva 2006/43/CE, come modificata dalla direttiva 2014/56/UE, vigenti in tale Stato membro;»; 
+
+                            
+                        
+                        
+                            l)
+                            
+                                la lettera n) e' sostituita dalla seguente: «n) "revisore legale": una persona fisica abilitata a esercitare la revisione legale ai sensi del codice civile e delle disposizioni del presente decreto legislativo e iscritta nel Registro ovvero una persona fisica abilitata ad esercitare la revisione legale in un altro Stato membro dell'Unione europea ai sensi delle disposizioni di attuazione della direttiva 2006/43/CE, come modificata dalla direttiva 2014/56/UE, vigenti in tale Stato membro;»; 
+
+                            
+                        
+                        
+                            m)
+                            
+                                la lettera o) e' sostituita dalla seguente: «o) "revisore di un Paese terzo": una persona fisica che effettua la revisione del bilancio d'esercizio o consolidato di una societa' avente sede in un Paese terzo e che e' diversa da una persona iscritta nel registro di uno Stato membro in seguito all'abilitazione all'esercizio della revisione legale;»; 
+
+                            
+                        
+                        
+                            n)
+                            
+                                la lettera q) e' sostituita dalla seguente: «q) "societa' di revisione legale": una societa' abilitata a esercitare la revisione legale ai sensi delle disposizioni del presente decreto e iscritta nel Registro ovvero un'impresa abilitata a esercitare la revisione legale in un altro Stato membro dell'Unione europea ai sensi delle disposizioni di attuazione della direttiva 2006/43/CE, come modificata dalla direttiva 2014/56/UE, vigenti in tale Stato membro;»; 
+
+                            
+                        
+                        
+                            o)
+                            
+                                la lettera s) e' sostituita dalla seguente: «s) "TUF": il testo unico delle disposizioni in materia di intermediazione finanziaria, di cui al decreto legislativo 24 febbraio 1998, n. 58;»; 
+
+                            
+                        
+                        
+                            p)
+                            
+                                dopo la lettera s) sono aggiunte, in fine, le seguenti:
+«s-bis) "piccole imprese": le imprese che alla data di chiusura del bilancio non superano i limiti numerici di almeno due dei tre criteri seguenti: 
+ 1) totale dello stato patrimoniale: 4.000.000 di euro; 
+ 2) ricavi netti delle vendite e delle prestazioni: 8.000.000 di euro; 
+ 3) numero medio di 50 dipendenti occupati durante l'esercizio; 
+ s-ter) "Stato membro di origine": uno Stato membro nel quale un revisore legale o una societa' di revisione legale sono abilitati ai sensi delle disposizioni di attuazione della direttiva 2006/43/CE, come modificata dalla direttiva 2014/56/UE; 
+ s-quater) "Stato membro ospitante": uno Stato membro nel quale un revisore legale abilitato nel proprio Stato membro di origine aspira altresi' ad ottenere l'abilitazione o uno Stato membro nel quale una societa' di revisione legale abilitata nel proprio Stato membro di origine aspira ad essere iscritta al registro o e' iscritta al registro ai sensi dell'articolo 2, comma 4, lettera f-bis); 
+ s-quinquies) "Regolamento europeo": regolamento UE n. 537/2014 del Parlamento europeo e del Consiglio del 16 aprile 2014 sui requisiti specifici relativi alla revisione legale dei conti di enti di interesse pubblico.».
 
 ## Art. 2. — Modifiche all'articolo 2 del decreto legislativo 27 gennaio 2010, n. 39
 
@@ -56,6 +172,31 @@ L'articolo 3 del decreto legislativo 27 gennaio 2010, n. 39, e' sostituito dal s
  e) gli obblighi informativi degli iscritti nel registro del tirocinio e dei soggetti presso i quali il tirocinio e' svolto.».
 
 ## Art. 4. — Modifiche all'articolo 4 del decreto legislativo 27 gennaio 2010, n. 39
+
+1.
+                    
+                        
+                            All'articolo 4 del decreto legislativo 27 gennaio 2010, n. 39, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                il comma 1 e' sostituito dal seguente: «1. Il Ministero dell'economia e delle finanze, d'intesa con il Ministero della giustizia, indice, almeno una volta l'anno, l'esame di idoneita' professionale per l'abilitazione all'esercizio della revisione legale.»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                dopo il comma 3, e' inserito il seguente: «3-bis. Nell'ambito della convenzione quadro di cui all'articolo 3, comma 1-bis, vengono definite le modalita' di esonero dal controllo delle conoscenze teoriche per le materie, di cui al comma 2, che hanno gia' formato oggetto di esame universitario.»; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                il comma 5 e' sostituito dal seguente: «5. Con il regolamento di cui al comma 4, il Ministro della giustizia puo' integrare e specificare le materie di cui al comma 2».
 
 ## Art. 5. — Formazione continua
 
@@ -532,6 +673,35 @@ L'opposizione deve essere notificata al Ministero dell'economia e delle finanze 
 
 ## Art. 22. — Modifiche all'articolo 34 del decreto legislativo 27 gennaio 2010, n. 39
 
+1.
+                    
+                        
+                            All'articolo 34 del decreto legislativo 27 gennaio 2010, n. 39, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                il comma 1 e' sostituito dal seguente: «1. Il Ministero dell'economia e delle finanze, sentita la Consob, iscrive nel Registro, tutti i revisori e gli enti di revisione contabile di Paesi terzi che rilasciano una relazione di revisione riguardante i conti annuali o i conti consolidati di una entita' avente sede in un Paese terzo i cui valori mobiliari sono ammessi alla negoziazione in un mercato regolamentato italiano, salvo il caso in cui l'entita' del Paese terzo abbia emesso esclusivamente titoli di debito ammessi alla negoziazione su un mercato regolamentato il cui importo sia: 
+ 1) prima del 31 dicembre 2010, di valore nominale, alla data di emissione non inferiore a cinquantamila euro o, nel caso di titoli di debito in un'altra valuta, di valore nominale equivalente ad almeno cinquantamila euro alla data dell'emissione; 
+ 2) dopo il 31 dicembre 2010, di valore nominale, alla data di emissione, non inferiore a centomila euro o, nel caso di titoli di debito in un'altra valuta, di valore nominale equivalente ad almeno centomila euro alla data dell'emissione.»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                i commi 2 e 3 sono abrogati; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                i commi 6 e 7 sono sostituiti dai seguenti: 
+ «6. Le relazioni di revisione riguardanti i conti annuali o i conti consolidati delle entita' di cui al comma 1 redatte da revisori o da enti di revisione contabile di Paesi terzi non iscritti nel Registro dei revisori legali sono prive di effetti giuridici in Italia. 
+ 7. Il Ministro dell'economia e delle finanze, sentita la Consob, detta con regolamento disposizioni attuative del presente articolo, stabilendo in particolare le condizioni per l'iscrizione nel Registro dei revisori legali, avuto riguardo ai criteri indicati dalla disciplina comunitaria, il contenuto della domanda di iscrizione e le ipotesi di cancellazione dal Registro dei revisori legali».
+
 ## Art. 23. — Vigilanza sui revisori e sugli enti 
  di revisione contabile di Paesi terzi
 
@@ -557,6 +727,24 @@ L'articolo 36 del decreto legislativo 27 gennaio 2010, n. 39, e' sostituito dal 
 All'articolo 42 del decreto legislativo 27 gennaio 2010, n. 39, il comma 2 e' sostituito dal seguente: «2. Presso il Ministero dell'economia e delle finanze e' istituita, senza nuovi o maggiori oneri a carico del bilancio dello Stato, la Commissione centrale per i revisori legali. Ad essa sono trasferite le risorse finanziarie e strumentali della Commissione prevista dall'articolo 1 del decreto del Presidente della Repubblica 6 marzo 1998, n. 99, che e' contestualmente soppressa. Con decreto del Ministro dell'economia e delle finanze sono stabiliti i compiti della Commissione, nonche' la composizione e i relativi compensi. Il Ministro dell'economia e delle finanze e' autorizzato ad apportare le occorrenti variazioni di bilancio.».
 
 ## Art. 26. — Modifiche all'articolo 43 del decreto legislativo 27 gennaio 2010, n. 39
+
+1.
+                    
+                        
+                            All'articolo 43 del decreto legislativo 27 gennaio 2010, n. 39, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 2, il secondo periodo, e' abrogato; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 4, le parole: «Fino all'emanazione dei provvedimenti previsti dagli articoli 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 17, 20» sono sostituite dalle seguenti: «Fino all'emanazione dei provvedimenti previsti dagli articoli 2, 3, 4, 6, 7, 8 e 13,».
 
 ## Art. 27. — Disposizioni transitorie
 

@@ -8,8 +8,8 @@ codice_redazionale: 093G0160
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:40Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -30,6 +30,31 @@ Ai sensi dell'art. 2, comma 3, della legge 5 ottobre 1991, n. 317, che di seguit
 Il presente decreto si applica alle societa' finanziarie per l'innovazione e lo sviluppo delle piccole imprese, di seguito denomi- nate S.F.I.S., di cui all'art. 2 della legge.
 
 ## Art. 2. — Obbligo di iscrizione all'Albo
+
+1.
+                    
+                        
+                            L'iscrizione all'Albo di cui all'art. 1 e' subordinata alla ricorrenza delle seguenti condizioni:
+ 
+                        
+                        
+                            a)
+                            
+                                sottoscrizione e versamento di un capitale sociale, per un importo non inferiore a dieci volte il capitale minimo previsto per la costituzione delle societa' per azioni; il capitale deve essere interamente rappresentato da azioni con voto non limitato;
+
+                            
+                        
+                        
+                            b)
+                            
+                                adozione di statuto societario avente quale oggetto sociale esclusivo l'assunzione di partecipazioni al capitale di rischio di piccole imprese, nelle forme di cui al comma 1 dell'art. 3 della legge, e che preveda partecipazioni a carattere temporaneo, ai sensi del presente decreto, senza che le stesse diano luogo, nei confronti di ciascuna impresa partecipata, alle condizioni di controllo di cui all'art. 2359 del codice civile; nell'ambito dell'oggetto sociale le S.F.I.S. possono altresi' concedere prestiti partecipativi di cui all'art. 35 della legge;
+
+                            
+                        
+                        
+                            c)
+                            
+                                possesso dei requisiti di esperienza ed onorabilita' dei soggetti aziendali di cui agli articoli 3, 4, 5 e 6 del presente decreto.
 
 ## Art. 3. — Requisiti di esperienza degli amministratori
 
@@ -87,6 +112,24 @@ Gli uffici preposti alla tenuta dell'Albo dovranno verificare che:
 Successivamente, il Ministro dell'industria, del commercio e dell'artigianato con proprio provvedimento dispone l'iscrizione della societa' istante all'Albo, ovvero la rifiuta, motivatamente, entro sessanta giorni dal ricevimento dell'istanza. Il predetto termine resta sospeso nel caso in cui il Ministero dell'industria, del commercio e dell'artigianato richieda alla S.F.I.S. ulteriori informazioni e notizie, fino alla comunicazione, da parte della societa' interessata, delle notizie e informazioni richieste. La richiesta interlocutoria puo' essere effettuata una sola volta.
 
 Le S.F.I.S. hanno l'obbligo di fornire al Ministero dell'industria, del commercio e dell'artigianato tutte le informazioni connesse alle eventuali modifiche dell'iscrizione all'Albo. Il Ministro dell'industria, sulla base delle predette comunicazioni ovvero a seguito di informazioni comunque acquisite, provvede, con proprio provvedimento, alle conseguenti variazioni, dandone comunicazione alla S.F.I.S.
+
+4.
+                    
+                        
+                            Il Ministro dell'industria, del commercio e dell'artigianato, anche su proposta o comunque sentita la Banca d'Italia, puo' disporre la cancellazione delle societa' dall'Albo nei seguenti casi:
+ 
+                        
+                        
+                            a)
+                            
+                                istanza motivata della societa';
+
+                            
+                        
+                        
+                            b)
+                            
+                                gravi irregolarita' nell'amministrazione delle societa' ovvero gravi violazioni delle norme di legge ovvero ripetute infrazioni alle disposizioni del presente decreto e a quelle emanate della Banca d'Italia nell'esercizio dei poteri di vigilanza di cui all'art. 12 del presente decreto.
 
 ## Art. 11. — Modalita' applicative del vincolo di temporaneita'
  delle partecipazioni assunte

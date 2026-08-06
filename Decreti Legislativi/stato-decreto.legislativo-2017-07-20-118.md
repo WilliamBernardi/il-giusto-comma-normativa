@@ -7,8 +7,8 @@ urn: urn:nir:stato:decreto.legislativo:2017-07-20;118
 vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:31Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -39,6 +39,25 @@ Il decreto legislativo 20 giugno 2016, n. 116, e' modificato e integrato secondo
 Nelle Premesse del decreto legislativo n. 116 del 2016, dopo il capoverso: «Vista la deliberazione del Consiglio dei ministri, adottata nella riunione del 15 giugno 2016;», e' inserito il seguente: «Acquisita l'intesa in sede di Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome di Trento e Bolzano, raggiunta nella seduta del 16 marzo 2017;».
 
 ## Art. 3. — Modifiche all'articolo 1 del decreto legislativo 20 giugno 2016, n. 116
+
+1.
+                    
+                        
+                            All'articolo 1, comma 1, lettera b), del decreto legislativo n. 116 del 2016, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                al capoverso 3-quater, la parola: «quindici» e' sostituita dalla seguente: «venti» e la parola: «centoventi» e' sostituita dalla seguente: «centocinquanta»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                dopo il capoverso 3-quinquies e' aggiunto il seguente:
+«3-sexies. I provvedimenti di cui ai commi 3-bis e 3-ter e quelli conclusivi dei procedimenti di cui al presente articolo sono comunicati all'Ispettorato per la funzione pubblica ai sensi di quanto previsto dall'articolo 55-bis, comma 4.».
 
 ## Art. 4. — Clausola di invarianza finanziaria
 

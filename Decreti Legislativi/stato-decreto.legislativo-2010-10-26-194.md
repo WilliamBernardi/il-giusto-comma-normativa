@@ -8,8 +8,8 @@ codice_redazionale: 010G0216
 vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:21Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -45,6 +45,31 @@ Nel rispetto della normativa comunitaria, nazionale e regionale sugli appalti pu
 Il soggetto Gestore dell'infrastruttura ferroviaria, nella ripartizione della capacita' di infrastruttura, da' priorita' ai servizi di trasporto quantitativamente e qualitativamente necessari a soddisfare le esigenze di mobilita' dell'utenza, cosi' come individuate al comma 1.
 
 La Regione, l'Impresa ferroviaria e il Gestore dell'infrastruttura stipulano specifici accordi di programma disciplinanti gli interventi da attivare, ivi incluso il rinnovo del parco rotabile, per garantire l'adeguatezza, sotto il profilo qualitativo e quantitativo, dei servizi ferroviari trasferiti, nonche' gli oneri necessari alla loro realizzazione.
+
+8.
+                    
+                        
+                            La Regione, i Ministeri competenti e il Gestore dell'infrastruttura stipulano accordi di programma quadro al fine di individuare gli interventi infrastrutturali necessari per conseguire una riqualificazione della rete ferroviaria della Regione, in modo da ridurre l'attuale squilibrio a favore dei trasporti su gomma nella ripartizione modale del trasporto passeggeri e merci, riducendo l'impatto sull'ambiente. Tali accordi definiscono gli interventi in termini di: 
+ 
+                        
+                        
+                            a)
+                            
+                                adeguamento delle infrastrutture attuali o realizzazione di nuove opere; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                costi di investimento e modalita' di copertura dei relativi oneri, da effettuarsi da parte dello Stato; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                tempi di realizzazione.
 
 Nella determinazione del corrispettivo per il complesso delle prestazioni fornite dal Gestore dell'infrastruttura ferroviaria all'Impresa ferroviaria, ivi compresa la fruizione dell'infrastruttura medesima insistente sul territorio della Regione, si tiene conto degli oneri assunti dalla Regione, ai sensi dei commi 7 e 8, per il miglioramento dell'infrastruttura e dei servizi.
 

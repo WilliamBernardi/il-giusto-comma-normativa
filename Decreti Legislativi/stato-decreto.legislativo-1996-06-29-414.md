@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
 vigenza_date: 2014-01-17
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:23Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -28,6 +28,31 @@ Sulla proposta del Presidente del Consiglio dei Ministri, di concerto con i Mini
  del personale addetto ai pubblici servizi di trasporto
 
 A decorrere dal 1 gennaio 1996, il Fondo per la previdenza del personale addetto ai pubblici servizi di trasporto di cui all'art. 8 del regio decreto-legge 19 ottobre 1923, n. 2311, convertito dalla legge 17 aprile 1925, n. 473, e successive modificazioni ed integrazioni, e' soppresso.
+
+2.
+                    
+                        
+                            Con effetto dalla data di cui al comma 1, sono iscritti all'assicurazione generale obbligatoria per l'invalidita', la vecchiaia e i superstiti dei lavoratori dipendenti, ad esclusione dei dipendenti da comuni, province e regioni esercenti direttamente in economia il pubblico servizio di trasporto, per i quali restano confermate le disposizioni dell'art. 4, comma 2, della legge 8 agosto 1991, n. 274, con la decorrenza ivi indicata:
+ 
+                        
+                        
+                            a)
+                            
+                                i lavoratori di cui all'art. 4, comma primo, della legge 29 ottobre 1971, n. 889, e successive modificazioni ed integrazioni, in servizio alla data del 31 dicembre 1995;
+
+                            
+                        
+                        
+                            b)
+                            
+                                i lavoratori di cui all'art. 4, comma primo, della legge 29 ottobre 1971, n. 889, e successive modificazioni ed integrazioni, assunti dalle aziende esercenti pubblico servizio di trasporto successivamente al 31 dicembre 1995;
+
+                            
+                        
+                        
+                            c)
+                            
+                                i titolari di posizioni assicurative presso il soppresso Fondo per la previdenza del personale addetto ai pubblici servizi di trasporto, ancorche' sia avvenuta la cessazione anticipata dal servizio con diritto a prestazione differibile.
 
 Sono iscritti all'assicurazione generale obbligatoria per l'invalidita', la vecchiaia e i superstiti dei lavoratori dipendenti i titolari di trattamenti pensionistici diretti ed ai superstiti a carico del soppresso Fondo per la previdenza del personale addetto ai pubblici servizi di trasporto in essere al 31 dicembre 1995 e dei trattamenti di pensione di cui all'art. 5, comma 1, del presente decreto. Gli oneri relativi ai predetti trattamenti pensionistici sono posti a carico del Fondo pensioni lavoratori dipendenti.
 
@@ -64,6 +89,74 @@ I contributi indicati ai commi 1 e 2 del presente articolo sono applicati sulla 
 
 ## Art. 3. — Regime pensionistico degli iscritti al soppresso Fondo di previdenza  del personale addetto ai pubblici servizi di trasporto al 31 dicembre 1995.
 
+1.
+                    
+                        
+                            Per i soggetti di cui all'art. 1, comma 2, e' prevista la possibilita' di liquidare i seguenti trattamenti pensionistici: 
+ 
+                        
+                        
+                            a)
+                            
+                                pensione di vecchiaia, di invalidita' e ai superstiti secondo la normativa vigente nel Fondo pensioni lavoratori dipendenti; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                per il solo personale viaggiante, pensione di vecchiaia, ((al raggiungimento del requisito anagrafico ridotto di cinque anni rispetto a quello tempo per tempo in vigore nel regime generale obbligatorio)); 
+
+                            
+                        
+                        
+                            c)
+                            
+                                pensione di invalidita' specifica ai sensi degli articoli 12, primo comma, lettera a), e 13, primo comma, lettere a) e b), della legge 28 luglio 1961, n. 830; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                pensione di anzianita'.
+
+2.
+                    
+                        
+                            In caso di liquidazione delle prestazioni di cui al comma 1, lettera a), l'importo della pensione e' determinato dalla somma: 
+ 
+                        
+                        
+                            a)
+                            
+                                della quota di pensione corrispondente all'importo relativo alle anzianita' contributive acquisite nel Fondo di previdenza del personale addetto ai pubblici servizi di trasporto anteriormente al 1 gennaio 1996, calcolato con riferimento alla data di decorrenza della pensione secondo la normativa vigente presso il soppresso Fondo che resta a tal fine confermata in via transitoria; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                della quota di pensione corrispondente all'importo del trattamento pensionistico relativo alle anzianita' contributive acquisite presso il Fondo pensioni lavoratori dipendenti, calcolato secondo le norme dell'assicurazione generale obbligatoria per i lavoratori dipendenti.
+
+3.
+                    
+                        
+                            In caso di liquidazione delle prestazioni di cui al comma 1, lettere b), c) e d), i periodi di anzianita' contributiva maturati nell'assicurazione generale obbligatoria anteriormente al 1 gennaio 1996 non sono considerati utili ai fini della maturazione del diritto al trattamento pensionistico. Nei suddetti casi l'importo della pensione e' determinato dalla somma: 
+ 
+                        
+                        
+                            a)
+                            
+                                della quota di pensione corrispondente all'importo relativo alle anzianita' contributive acquisite nel Fondo di previdenza del personale addetto ai pubblici servizi di trasporto anteriormente al 1 gennaio 1996, calcolato con riferimento alla data di decorrenza della pensione secondo la normativa vigente presso il soppresso Fondo che resta a tal fine confermata in via transitoria; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                della quota di pensione corrispondente all'importo del trattamento pensionistico relativo alle anzianita' contributive acquisite presso il Fondo pensioni lavoratori dipendenti a decorrere dal 1 gennaio 1996, calcolato secondo le norme dell'assicurazione generale obbligatoria per i lavoratori dipendenti.
+
 Nei casi di liquidazione delle prestazioni di cui al comma 3, i periodi di contribuzione esistenti nel Fondo pensione lavoratori dipendenti anteriormente al 1 gennaio 1996 danno luogo, al compimento dell'eta' prevista per la corresponsione del trattamento di vecchiaia secondo le norme in vigore tempo per tempo nel Fondo stesso, alla riliquidazione del trattamento pensionistico, da effettuarsi sulla base della retribuzione utilizzata per la liquidazione della quota di pensione di cui al comma 2, lettera b), rivalutata secondo i coefficienti di cui all'art. 3, comma 5, del decreto legislativo 30 dicembre 1992, n. 503.
 
 L'importo complessivo dei trattamenti pensionistici di cui al comma 1, da liquidarsi in base al metodo retributivo, non puo' in ogni caso superare il piu' favorevole tra i seguenti due importi: 
@@ -82,6 +175,31 @@ Per le forme di invalidita' diverse da quelle disciplinate dagli articoli 12, pr
 Per i soggetti di cui all'art. 1, comma 2, in alternativa a quanto disposto dal presente articolo, e' confermata la possibilita' di utilizzare, secondo le norme che disciplinano il diritto e la misura dei trattamenti di pensione previsti nel Fondo pensioni lavoratori dipendenti, tutti i periodi contributivi provenienti dal soppresso Fondo di previdenza del personale addetto ai pubblici servizi di trasporto, nonche' quelli acquisiti nello stesso Fondo pensioni lavoratori dipendenti precedentemente e successivamente al 1 gennaio 1996.
 
 ## Art. 4. — Rapporti finanziari
+
+1.
+                    
+                        
+                            Alla gestione del Fondo pensioni lavoratori dipendenti devono essere imputate, con l'evidenza contabile separata prevista all'art. 1, comma 4, sia per quanto attiene allo stato patrimoniale che al conto economico:
+ 
+                        
+                        
+                            a)
+                            
+                                le attivita' e le passivita' quali risultano dal rendiconto della gestione del Fondo di cui all'art. 1, comma 1, alla data di soppressione del Fondo stesso;
+
+                            
+                        
+                        
+                            b)
+                            
+                                le somme che a qualsiasi titolo risulteranno a credito e a debito del soppresso Fondo successivamente al 31 dicembre 1995;
+
+                            
+                        
+                        
+                            c)
+                            
+                                i contributi versati ai sensi dell'art. 2, nonche' l'ammontare delle rate dei trattamenti pensionistici diretti o indiretti da erogare a partire dal 1 gennaio 1996.
 
 ## Art. 5. — Norme transitorie e finali
 

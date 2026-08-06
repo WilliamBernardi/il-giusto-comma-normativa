@@ -8,8 +8,8 @@ codice_redazionale: 096G0654
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:42Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -28,6 +28,24 @@ Tenuto conto che l'organo consultivo ha fra l'altro, rilevato l'opportunita' di 
 Ritenuta pertanto la necessita' di mantenere il disposto dell'articolo 7, comma 1, lettera b), del regolamento;
 
 ## Art. 1.
+
+1.
+                    
+                        
+                            Agli effetti del presente regolamento si identificano le seguenti due categorie di intermediari: 
+ 
+                        
+                        
+                            a)
+                            
+                                per banca di primo livello si intende ogni ente creditizio o finanziario, avente sede in Italia ovvero in Paesi esteri che agisce come intermediario nel deposito delle obbligazioni o titoli similari pubblici e privati detenuti direttamente o indirettamente, dall'effettivo beneficiario dei proventi dei titoli medesimi presso la banca di secondo livello; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                per banca di secondo livello si intende una banca o una societa' di intermediazione mobiliare residente ovvero una stabile organizzazione in Italia di banche o di societa' di intermediazione mobiliare non residenti depositarie o sub-depositarie dei titoli di cui alla lettera a), che intrattengano rapporti diretti in via telematica, secondo le modalita' di cui al comma 3, con il Ministero delle finanze - Dipartimento delle entrate, ai fini della procedura di non applicazione dell'imposta sostitutiva. Sono inoltre da considerare banche di secondo livello gli enti internazionali Euroclear e Cedel, i quali nominano, quale rappresentante ai fini della procedura di cui al presente regolamento, una banca o una societa' di intermediazione mobiliare, residente nel territorio dello Stato, ovvero una stabile organizzazione in Italia di banche o di societa' di intermediazione mobiliare non residenti affinche' provvedano agli adempimenti previsti dall'articolo 9, comma 2, lettere a), b) e c), del decreto legislativo 1 aprile 1996, n. 239.
 
 Con il termine proventi si intendono gli interessi, i premi e gli altri frutti delle obbligazioni e titoli similari pubblici e privati compresa la differenza tra la somma percepita alla scadenza e il prezzo di emissione, maturati nel periodo di possesso dei titoli medesimi da parte dei soggetti residenti negli Stati indicati nel decreto del Ministro delle finanze del 4 settembre 1996, pubblicato nella Gazzetta Ufficiale n. 220 del 19 settembre 1996 o nei successivi decreti previsti dall'articolo 11, comma 5, del decreto legislativo 1 aprile 1996, n. 239, nonche' da parte degli enti internazionali che godono di esenzione dalle imposte in Italia in base a leggi o ad accordi internazionali resi esecutivi in Italia.
 Detti proventi si computano anche se riconosciuti in modo implicito.
@@ -68,6 +86,44 @@ La banca di secondo livello, dopo aver eseguito gli opportuni controlli, conserv
 Nello stesso periodo la banca di secondo livello e' altresi' tenuta a fornire, su richiesta dell'Amministrazione finanziaria i medesimi documenti di cui al comma 1.
 
 ## Art. 7.
+
+1.
+                    
+                        
+                            La banca di secondo livello comunica all'Amministrazione finanziaria secondo le specifiche tecniche e relative modalita' di attuazione stabilite con successivo decreto ministeriale, i seguenti dati:
+ 
+                        
+                        
+                            a)
+                            
+                                i dati identificativi del soggetto non residente cosi' come rilevati dai modelli di cui al precedente articolo 3, nonche' le successive variazioni apportate:
+ 1) codice investitore;
+ 2) dati anagrafici investitore;
+ 3) codice del rappresentante legale o volontario;
+ 4) dati anagrafici del rappresentante legale o volontario;
+ 5) dati dell'autorita' fiscale;
+ 6) codice BIC/SWIFT della banca di primo livello;
+ 7) codice BIC/SWIFT della banca di secondo livello;
+ 8) dati della banca di primo livello;
+ 9) data della attestazione rilasciata dalla banca di primo livello;
+
+                            
+                        
+                        
+                            b)
+                            
+                                i dati delle comunicazioni contabili relativi ai soggetti non residenti ed ai soggetti residenti limitatamente a quelli riguardanti i titoli detenuti all'estero:
+ 1) codice investitore;
+ 2) codice Stato;
+ 3) codice BIC/SWIFT della banca di primo livello;
+ 4) codice BIC/SWIFT della banca di secondo livello;
+ 5) dati identificativi del titolo;
+ 6) valore nominale;
+ 7) data dell'operazione;
+ 8) valuta dell'operazione;
+ 9) tipo dell'operazione;
+ 10) interesse maturato;
+ 11) scarto maturato.
 
 I dati di cui al comma 1, lettera a), sono inviati telematicamente nel primo periodo di trasmissione, disponibile per la banca di secondo livello, successivo alla data di acquisizione del modello di attestazione o di richiesta. Nel caso in cui i titoli siano depositati direttamente presso la banca di secondo livello, questa comunica telematicamente anche i propri dati identificativi nonche' la data in cui e' stata verificata la sussistenza dei requisiti previsti dall'articolo 7, commi 1 e 2, lettera a), del decreto legislativo 1 aprile 1996, n. 239.
 

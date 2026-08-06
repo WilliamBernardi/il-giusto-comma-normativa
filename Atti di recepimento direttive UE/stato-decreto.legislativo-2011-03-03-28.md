@@ -10,7 +10,7 @@ source: normattiva-opendata
 collection: Atti di recepimento direttive UE
 vigenza_date: 2026-04-19
 zip_date: 2026-07-30
-fetched_at: 2026-08-02T09:40:51Z
+fetched_at: 2026-07-30
 ---
 
 DECRETO LEGISLATIVO
@@ -34,6 +34,180 @@ Il presente decreto, in attuazione della direttiva 2009/28/CE e nel rispetto dei
 Il presente decreto inoltre detta norme relative ai trasferimenti statistici tra gli Stati membri, ai progetti comuni tra gli Stati membri e con i paesi terzi, alle garanzie di origine, alle procedure amministrative, all'informazione e alla formazione nonche' all'accesso alla rete elettrica per l'energia da fonti rinnovabili e fissa criteri di sostenibilita' per i biocarburanti e i bioliquidi.
 
 ## Art. 2. — Definizioni
+
+1.
+                        
+                            
+                                Ai fini del presente decreto legislativo si applicano le definizioni della direttiva 2003/54/CE del Parlamento Europeo e del Consiglio del 26 giugno 2003. Si applicano inoltre le seguenti definizioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    «energia da fonti rinnovabili»: energia proveniente da fonti rinnovabili non fossili, vale a dire energia eolica, solare, aerotermica, geotermica, idrotermica e oceanica, idraulica, biomassa, gas di discarica, gas residuati dai processi di depurazione e biogas; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    «energia aerotermica»: energia accumulata nell'aria ambiente sotto forma di calore; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    «energia geotermica»: energia immagazzinata sotto forma di calore nella crosta terrestre; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    «energia idrotermica»: energia immagazzinata nelle acque superficiali sotto forma di calore; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    «biomassa»: la frazione biodegradabile dei prodotti, rifiuti e residui di origine biologica provenienti dall'agricoltura (comprendente sostanze vegetali e animali), dalla silvicoltura e dalle industrie connesse, comprese la pesca e l'acquacoltura, gli sfalci e le potature provenienti dal verde pubblico e privato, nonche' la parte biodegradabile dei rifiuti industriali e urbani; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    «consumo finale lordo di energia»: i prodotti energetici forniti a scopi energetici all'industria, ai trasporti, alle famiglie, ai servizi, compresi i servizi pubblici, all'agricoltura, alla silvicoltura e alla pesca, ivi compreso il consumo di elettricita' e di calore del settore elettrico per la produzione di elettricita' e di calore, incluse le perdite di elettricita' e di calore con la distribuzione e la trasmissione; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    «teleriscaldamento» o «teleraffrescamento»: la distribuzione di energia termica in forma di vapore, acqua calda o liquidi refrigerati, da una o piu' fonti di produzione verso una pluralita' di edifici o siti tramite una rete, per il riscaldamento o il raffreddamento di spazi, per processi di lavorazione e per la fornitura di acqua calda sanitaria; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    «bioliquidi»: combustibili liquidi per scopi energetici diversi dal trasporto, compresi l'elettricita', il riscaldamento ed il raffreddamento, prodotti dalla biomassa; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    «biocarburanti»: carburanti liquidi o gassosi per i trasporti ricavati dalla biomassa; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    «garanzia di origine»: documento elettronico che serve esclusivamente a provare ad un cliente finale che una determinata quota o un determinato quantitativo di energia sono stati prodotti da fonti rinnovabili come previsto all'articolo 3, paragrafo 6, della direttiva 2003/54/CE e dai provvedimenti attuativi di cui all'articolo 1, comma 5, del decreto-legge 18 giugno 2007, n. 73, convertito, con modificazioni, dalla legge 3 agosto 2007, n. 125; 
+
+                                
+                            
+                            
+                                m)
+                                
+                                    «edificio sottoposto a ristrutturazione rilevante»: edificio che ricade in una delle seguenti categorie: 
+ i) edificio esistente avente superficie utile superiore a 1000 metri quadrati, soggetto a ristrutturazione integrale degli elementi edilizi costituenti l'involucro; 
+ ii) edificio esistente soggetto a demolizione e ricostruzione anche in manutenzione straordinaria; 
+
+                                
+                            
+                            
+                                n)
+                                
+                                    «edificio di nuova costruzione»: edificio per il quale la richiesta del pertinente titolo edilizio, comunque denominato, sia stata presentata successivamente alla data di entrata in vigore del presente decreto; 
+
+                                
+                            
+                            
+                                o)
+                                
+                                    «biometano»: gas ottenuto a partire da fonti rinnovabili avente caratteristiche e condizioni di utilizzo corrispondenti a quelle del gas metano e idoneo alla immissione nella rete del gas naturale; 
+
+                                
+                            
+                            
+                                p)
+                                
+                                    «regime di sostegno»: strumento, regime o meccanismo applicato da uno Stato membro o gruppo di Stati membri, inteso a promuovere l'uso delle energie da fonti rinnovabili riducendone i costi, aumentando i prezzi a cui possono essere vendute o aumentando, per mezzo di obblighi in materia di energie rinnovabili o altri mezzi, il volume acquistato di dette energie. Comprende, non in via esclusiva, le sovvenzioni agli investimenti, le esenzioni o gli sgravi fiscali, le restituzioni d'imposta, i regimi di sostegno all'obbligo in materia di energie rinnovabili, compresi quelli che usano certificati verdi, e i regimi di sostegno diretto dei prezzi, ivi comprese le tariffe di riacquisto e le sovvenzioni; 
+
+                                
+                            
+                            
+                                q)
+                                
+                                    «centrali ibride»: centrali che producono energia elettrica utilizzando sia fonti non rinnovabili, sia fonti rinnovabili, ivi inclusi gli impianti di co-combustione, vale a dire gli impianti che producono energia elettrica mediante combustione di fonti non rinnovabili e di fonti rinnovabili; 
+
+                                
+                            
+                            
+                                q-bis)
+                                
+                                    "rifiuti": rifiuti di cui all'articolo 183, comma 1 lettera a) del decreto legislativo 3 aprile 2006 n. 152, ad esclusione delle sostanze che sono state deliberatamente modificate o contaminate per soddisfare tale definizione; 
+
+                                
+                            
+                            
+                                q-ter)
+                                
+                                    "colture amidacee": colture comprendenti principalmente cereali (indipendentemente dal fatto che siano utilizzati solo i semi ovvero sia utilizzata l'intera pianta, come nel caso del mais verde), tuberi e radici (come patate, topinambur, patate dolci, manioca e ignami) e colture di bulbo-tuberi (quali la colocasia e la xantosoma); 
+
+                                
+                            
+                            
+                                q-quater)
+                                
+                                    "materie ligno-cellulosiche": materie composte da lignina, cellulosa ed emicellulosa quali la biomassa proveniente da foreste, le colture energetiche legnose e i residui e rifiuti della filiera forestale; 
+
+                                
+                            
+                            
+                                q-quinquies)
+                                
+                                    "materie cellulosiche di origine non alimentare": materie prime composte principalmente da cellulosa ed emicellulosa e aventi un tenore di lignina inferiore a quello delle materie ligno-cellulosiche. Comprendono residui di colture alimentari e foraggere (quali paglia, steli di granturco, pule e gusci), colture energetiche erbacee a basso tenore di amido (quali loglio, panico verga, miscanthus, canna comune e colture di copertura precedenti le colture principali e ad esse successive), residui industriali (anche residui di colture alimentari e foraggere dopo che sono stati estratti gli olii vegetali, gli zuccheri, gli amidi e le proteine) e materie derivate dai rifiuti organici; 
+
+                                
+                            
+                            
+                                q-sexies)
+                                
+                                    "residuo della lavorazione": sostanza diversa dal prodotto o dai prodotti finali cui mira direttamente il processo di produzione; non costituisce l'obiettivo primario del processo di produzione, il quale non e' stato deliberatamente modificato per ottenerlo; 
+
+                                
+                            
+                            
+                                q-septies)
+                                
+                                    "carburanti per autotrazione rinnovabili liquidi e gassosi di origine non biologica": i carburanti liquidi o gassosi diversi dai biocarburanti il cui contenuto energetico proviene da fonti energetiche rinnovabili diverse dalla biomassa e che sono utilizzati nei trasporti; 
+
+                                
+                            
+                            
+                                q-octies)
+                                
+                                    "residui dell'agricoltura, dell'acquacoltura, della pesca e della silvicoltura": residui generati direttamente dall'agricoltura, dall'acquacoltura, dalla pesca e dalla silvicoltura; non comprendono i residui delle industrie connesse o della lavorazione; 
+
+                                
+                            
+                            
+                                q-nonies)
+                                
+                                    "biocarburanti e bioliquidi a basso rischio di cambiamento indiretto di destinazione dei terreni": biocarburanti e bioliquidi le cui materie prime sono state prodotte nell'ambito di sistemi che riducono la delocalizzazione della produzione a scopi diversi dalla fabbricazione di biocarburanti e bioliquidi e che sono stati prodotti conformemente ai criteri di sostenibilita' per i biocarburanti e i bioliquidi stabiliti nell'articolo 38; 
+
+                                
+                            
+                            
+                                q-decies)
+                                
+                                    "biocarburanti avanzati": biocarburanti da materie prime e altri carburanti rinnovabili di cui all'allegato I, parte 2-bis, parte A.
 
 ## Art. 3. — Obiettivi nazionali
 
@@ -114,6 +288,60 @@ Al fine di incentivare l'utilizzo del biometano nei trasporti, gli impianti di d
 
 ## Art. 9. — Disposizioni specifiche in materia di energia geotermica
 
+1.
+                        
+                            
+                                Al decreto legislativo 11 febbraio 2010, n. 22, sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    all'articolo 1: 
+ 1) dopo il comma 3, e' aggiunto il seguente: "3-bis. Al fine di promuovere la ricerca e lo sviluppo di nuove centrali geotermoelettriche a ridotto impatto ambientale di cui all'articolo 9 del decreto legislativo 29 dicembre 2003, n. 387, sono altresi' di interesse nazionale i fluidi geotermici a media ed alta entalpia finalizzati alla sperimentazione, su tutto il territorio nazionale, di impianti pilota con reiniezione del fluido geotermico nelle stesse formazioni di provenienza, e comunque con emissioni nulle, con potenza nominale installata non superiore a 5 MW per ciascuna centrale, per un impegno complessivo autorizzabile non superiore ai 50 MW; per ogni proponente non possono in ogni caso essere autorizzati piu' di tre impianti, ciascuno di potenza nominale non superiore a 5 MW"; 
+ 2) il comma 4 e' sostituito dal seguente: "4. Fatto salvo quanto disposto ai comma 3, 3-bis e 5, sono di interesse locale le risorse geotermiche a media e bassa entalpia, o quelle economicamente utilizzabili per la realizzazione di un progetto geotermico, riferito all'insieme degli impianti nell'ambito del titolo di legittimazione, di potenza inferiore a 20 MW ottenibili dal solo fluido geotermico alla temperatura convenzionale dei reflui di 15 gradi centigradi."; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    all'articolo 3 sono apportate le seguenti modificazioni: 
+ 1) dopo il comma 2, e' aggiunto il seguente: "2-bis. Nel caso di sperimentazione di impianti pilota di cui all'articolo 1, comma 3-bis, l'autorita' competente e' il Ministero dello sviluppo economico, di concerto con il Ministero dell'ambiente e della tutela del territorio e del mare, che acquisiscono l'intesa con la regione interessata; all'atto del rilascio del permesso di ricerca, l'autorita' competente stabilisce le condizioni e le modalita' con le quali e' fatto obbligo al concessionario di procedere alla coltivazione dei fluidi geotermici in caso di esito della ricerca conforme a quanto indicato nella richiesta di permesso di ricerca."; 
+ 2) il comma 7 e' sostituito dal seguente: "7. Sono considerate concorrenti le domande, riferite esclusivamente alla medesima area della prima domanda, fatte salve le domande relative agli impianti sperimentali di potenza nominale non superiore a 5 MW, pervenute all'autorita' competente non oltre sessanta giorni dalla pubblicazione della prima domanda nel Bollettino ufficiale regionale o in altro strumento di pubblicita' degli atti indicato dalla Regione stessa o, in caso di competenza del Ministero dello sviluppo economico, nel Bollettino ufficiale degli idrocarburi, di cui all'articolo 43 della legge 11 gennaio 1957, n. 6, e successive modificazione. Alla denominazione del Bollettino ufficiale degli idrocarburi sono aggiunte in fine le parole «e delle georisorse» (BUIG)."; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    all'articolo 6, dopo il comma 3, e' aggiunto il seguente:
+"3-bis. Nel caso di sperimentazione di impianti pilota di cui all'articolo 1, comma 3-bis, l'autorita' competente e' il Ministero dello sviluppo economico, di concerto con il Ministero dell'ambiente e della tutela del territorio e del mare, che acquisiscono l'intesa con la Regione interessata."; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    all'articolo 8, il comma 2 e' sostituito dal seguente: "2.
+Trascorso inutilmente tale termine, la concessione puo' essere richiesta, in concorrenza, da altri operatori con l'esclusione di quelli relativi agli impianti sperimentali di cui all'articolo 1, comma 3-bis. Sono considerate concorrenti le domande, riferite esclusivamente alla medesima area della prima domanda, pervenute all'autorita' competente non oltre sessanta giorni dalla pubblicazione della prima domanda nel Bollettino ufficiale regionale o in altro strumento di pubblicita' degli atti indicato dalla regione stessa o, in caso di competenza del Ministero dello sviluppo economico, nel Bollettino ufficiale degli idrocarburi e delle georisorse."; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    all'articolo 12, dopo il comma 2, e' aggiunto il seguente:
+"2-bis. La concessione rilasciata per l'utilizzazione di risorse geotermiche puo' essere revocata qualora risulti inattiva da almeno due anni e sia richiesto il subentro nella concessione di coltivazione per la realizzazione di impianti sperimentali di cui all'articolo 1, comma 3-bis, con esclusione dei soggetti che direttamente abbiano realizzato o stiano realizzando altre centrali geotermoelettriche, anche di tipo convenzionale, con potenza nominale installata superiore ai 5 MW. Il subentrante sara' tenuto al pagamento, in unica soluzione, di un indennizzo equivalente al doppio del canone annuo di cui al comma 2 dell'articolo 16."; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    all'articolo 16, dopo il comma 5, e' aggiunto il seguente:
+"5-bis. Limitatamente alla sperimentazione di impianti pilota a ridotto impatto ambientale, di cui all'articolo 1, comma 3-bis, non sono dovuti i contributi di cui al precedente comma 4 per la produzione di energia elettrica sino a 5 MW per ciascun impianto".
+
 ## - Capo II REGOLAMENTAZIONE TECNICA
 
 ## Art. 10. — ((ARTICOLO ABROGATO DAL D.LGS. 8 NOVEMBRE 2021, N. 199))
@@ -130,11 +358,138 @@ I progetti di edifici di nuova costruzione e di ristrutturazioni rilevanti su ed
 
 I soggetti pubblici possono concedere a terzi superfici di proprieta' per la realizzazione di impianti di produzione di energia elettrica da fonti rinnovabili nel rispetto della disciplina di cui al decreto legislativo 12 aprile 2006, n. 163. Le disposizioni del presente comma si applicano anche ai siti militari e alle aree militari in conformita' con quanto previsto dall'articolo 355 del codice dell'ordinamento militare, di cui al decreto legislativo 15 marzo 2010, n. 66.
 
+3.
+                        
+                            
+                                Entro il 31 dicembre 2012, con decreto del Ministro dello sviluppo economico, di concerto con il Ministro dell'ambiente e della tutela del territorio e del mare e con il Ministro della semplificazione, previa intesa con la Conferenza unificata, di cui all'articolo 8 del decreto legislativo 28 agosto 1997, n. 281, si provvede al riordino degli oneri economici e finanziari e delle diverse forme di garanzia richiesti per l'autorizzazione, la connessione, la costruzione, l'esercizio degli impianti da fonti rinnovabili e il rilascio degli incentivi ai medesimi impianti. Il riordino e' effettuato sulla base dei seguenti criteri: 
+ 
+                            
+                            
+                                a)
+                                
+                                    coordinare ed unificare, laddove possibile, i diversi oneri e garanzie al fine di evitare duplicazioni o sovrapposizioni; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    rendere proporzionato e razionale il sistema complessivo di oneri e garanzie; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    rendere efficiente l'intero processo amministrativo ed accelerare la realizzazione degli impianti, corrispondendo agli obiettivi di cui all'articolo 3 e, al contempo, contrastando attivita' speculative nelle diverse fasi di autorizzazione, connessione, costruzione, esercizio degli impianti e rilascio degli incentivi; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    prevedere la possibilita' di diversificare gli oneri e le garanzie per fonti e per fasce di potenza, tenendo conto dell'effetto scala; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    coordinare gli oneri previsti dall'articolo 24, comma 4, lettera b), per l'assegnazione degli incentivi, quelli previsti dall'articolo 1-quinquies del decreto-legge 8 luglio 2010, n. 105, convertito, con modificazioni, dalla legge 13 agosto 2010, n. 129, ai fini dell'autorizzazione, e quelli a garanzia della connessione degli impianti disposti anche in attuazione dell'articolo 1-septies, comma 2, del medesimo decreto-legge n. 105 del 2010; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    per gli oneri e le garanzie a favore di Regioni o di enti locali, prevedere principi minimi generali che restano validi fino all'emanazione di un'apposita normativa regionale; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    definire i casi in cui l'acquisizione del nulla osta minerario, previsto dall'articolo 120 del testo unico delle disposizioni di legge sulle acque e impianti elettrici, di cui al regio decreto 11 dicembre 1933, n. 1775, puo' essere sostituito da dichiarazione del progettista circa l'insussistenza di interferenze con le attivita' minerarie, prevedendo la pubblicazione delle informazioni necessarie a tal fine da parte dalla competente autorita' di vigilanza mineraria ed eventualmente coinvolgendo le Regioni interessate; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    definire, con riferimento all'obbligo di rimessa in pristino del sito di cui all'articolo 12 del decreto legislativo 29 dicembre 2003, n. 387 le modalita' e le garanzie da rispettare per assicurare il corretto smaltimento dei componenti dell'impianto.
+
 ## Art. 13. — Certificazione energetica degli edifici
+
+1.
+                        
+                            
+                                Al decreto legislativo 19 agosto 2005, n. 192, sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    all'articolo 1, comma 2, la lettera c) e' sostituita dalla seguente: 
+ «c) i criteri generali per la certificazione energetica degli edifici e per il trasferimento delle relative informazioni in sede di compravendita e locazione; » 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    all'articolo 6, comma 1-bis, sono soppresse le parole: "con riferimento al comma 4"; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    all'articolo 6, dopo il comma 2-bis, sono inseriti i seguenti: 
+ «2-ter. Nei contratti di compravendita o di locazione di edifici o di singole unita' immobiliari e' inserita apposita clausola con la quale l'acquirente o il conduttore danno atto di aver ricevuto le informazioni e la documentazione in ordine alla certificazione energetica degli edifici. Nel caso di locazione, la disposizione si applica solo agli edifici e alle unita' immobiliari gia' dotate di attestato di certificazione energetica ai sensi dei commi 1, 1-bis, 1-ter e 1-quater. 
+ 2-quater. Nel caso di offerta di trasferimento a titolo oneroso di edifici o di singole unita' immobiliari, a decorrere dal 1° gennaio 2012 gli annunci commerciali di vendita riportano l'indice di prestazione energetica contenuto nell'attestato di certificazione energetica.».
 
 ## - Titolo III INFORMAZIONE E FORMAZIONE
 
 ## Art. 14. — Disposizioni in materia di informazione
+
+1.
+                        
+                            
+                                Entro sei mesi dalla data di entrata in vigore del presente decreto, il Gestore dei servizi energetici (GSE) realizza, aggiornandolo sulla base dell'evoluzione normativa, in collaborazione con l'ENEA per quanto riguarda le informazioni relative all'efficienza energetica, un portale informatico recante: 
+ 
+                            
+                            
+                                a)
+                                
+                                    informazioni dettagliate sugli incentivi nazionali per le fonti rinnovabili per la produzione di energia elettrica, calore e freddo e sulle relative condizioni e modalita' di accesso; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    informazioni sui benefici netti, sui costi e sull'efficienza energetica delle apparecchiature e dei sistemi per l'uso di calore, freddo ed elettricita' da fonti energetiche rinnovabili; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    orientamenti che consentano a tutti i soggetti interessati, in particolare agli urbanisti e agli architetti, di considerare adeguatamente la combinazione ottimale di fonti energetiche rinnovabili, tecnologie ad alta efficienza e sistemi di teleriscaldamento e di teleraffrescamento in sede di pianificazione, progettazione, costruzione e ristrutturazione di aree industriali o residenziali; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    informazioni riguardanti le buone pratiche adottate nelle regioni, nelle provincie autonome e nelle province per lo sviluppo delle energie rinnovabili e per promuovere il risparmio e l'efficienza energetica; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    informazioni di sintesi in merito ai procedimenti autorizzativi adottati nelle regioni, nelle province autonome e nelle province per l'installazione degli impianti a fonti rinnovabili, anche a seguito di quanto previsto nelle linee guida adottate ai sensi dell'articolo 12, comma 10, del decreto legislativo 29 dicembre 2003, n. 387.
 
 Il GSE, con le modalita' di cui all'articolo 27, comma 1, della legge 23 luglio 2009, n. 99, puo' stipulare accordi con le autorita' locali e regionali per elaborare programmi d'informazione, sensibilizzazione, orientamento o formazione, al fine di informare i cittadini sui benefici e sugli aspetti pratici dello sviluppo e dell'impiego di energia da fonti rinnovabili. I programmi sono coordinati con quelli svolti in attuazione del comma 1 e riportati nel portale informatico di cui al medesimo comma 1.
 
@@ -194,6 +549,38 @@ Resta fermo quanto previsto dall'articolo 14 del decreto legislativo 29 dicembre
 
 Ai distributori di energia elettrica che effettuano interventi di ammodernamento secondo i concetti di smart grid spetta una maggiorazione della remunerazione del capitale investito per il servizio di distribuzione, limitatamente ai predetti interventi di ammodernamento. I suddetti interventi consistono prioritariamente in sistemi per il controllo, la regolazione e la gestione dei carichi e delle unita' di produzione, ivi inclusi i sistemi di ricarica di auto elettriche.
 
+2.
+                        
+                            
+                                L'Autorita' per l'energia elettrica e il gas provvede alla definizione delle caratteristiche degli interventi di cui al comma 1 e assicura che il trattamento ivi previsto tenga conto dei seguenti criteri: 
+ 
+                            
+                            
+                                a)
+                                
+                                    indicazioni delle Regioni territorialmente interessate agli interventi; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    dimensione del progetto di investimento, in termini di utenze attive coinvolte, sistemi di stoccaggio ed effetti sull'efficacia ai fini del ritiro integrale dell'energia da generazione distribuita e fonti rinnovabili; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    grado di innovazione del progetto, in termini di capacita' di aggregazione delle produzioni distribuite finalizzata alla regolazione di tensione e all'uniformita' del diagramma di produzione, di impiego di sistemi avanzati di comunicazione, controllo e gestione; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    rapidita' di esecuzione ed entrata in esercizio delle opere.
+
 ((
 
 Il Gestore del sistema di distribuzione, fatti salvi gli atti di assenso dell'amministrazione concedente, elabora e presenta al Ministero della transizione ecologica e all'ARERA, con cadenza biennale, previa consultazione pubblica, un piano di sviluppo della rete di competenza, con un orizzonte temporale almeno quinquennale, tenuto conto delle modalita' stabilite dall'ARERA entro nove mesi dall'entrata in vigore della presente disposizione. Nell'ambito del piano di sviluppo, predisposto in coordinamento con il Gestore della rete di trasmissione ed in coerenza con il piano di sviluppo della rete di trasmissione nazionale, e' altresi' individuato il fabbisogno di flessibilita', con riferimento ai servizi che possono essere forniti dalla gestione della domanda, dagli impianti di stoccaggio e dalle unita' di generazione connessi alla rete di distribuzione, nonche' l'evoluzione prevista per le congestioni di rete. Sono altresi' indicati gli investimenti programmati, con particolare riferimento alle infrastrutture necessarie per collegare nuova capacita' di generazione e nuovi carichi, inclusi i punti di ricarica per i veicoli elettrici. Il piano include una comparazione dei costi delle misure di investimento e di flessibilita' e delle altre misure cui il gestore ricorre in alternativa all'espansione del sistema.
@@ -216,6 +603,99 @@ Entro il 30 giugno 2013 e, successivamente, ogni due anni, l'Autorita' per l'ene
 
 ((Entro quarantacinque giorni dalla data di entrata in vigore della presente disposizione, l'ARERA aggiorna la propria regolazione relativamente alle condizioni tecniche ed economiche per l'erogazione del servizio di connessione di impianti di produzione di biometano alle reti del gas naturale i cui gestori hanno obbligo di connessione di terzi ai sensi del comma 1.))
 
+3.
+                        
+                            
+                                
+                                    ((li atti di regolazione di cui al comma 2, nel rispetto delle esigenze di sicurezza fisica e di funzionamento del sistema di trasporto e distribuzione di gas:))
+                                
+                            
+                            
+                                a)
+                                
+                                    
+                                        ((stabiliscono le caratteristiche chimiche e fisiche minime del biometano, con particolare riguardo alla qualita', l'odorizzazione e la pressione del gas, necessarie per l'immissione nelle reti;))
+                                    
+                                
+                            
+                            
+                                b)
+                                
+                                    
+                                        ((prevedono la realizzazione, anche congiunta fra diversi operatori se ritenuto maggiormente efficiente sotto il profilo tecnico ovvero economico, dei necessari interventi di potenziamento della rete gas esistente per una maggiore integrazione tra le reti di trasporto e di distribuzione, tramite l'impiego di tecnologie per il superamento degli attuali limiti infrastrutturali di accettabilita' del biometano nelle reti per favorire un ampio utilizzo del biometano; a tal fine, l'allacciamento non discriminatorio alla rete degli impianti di produzione di biometano di cui al comma 1 dovra' risultare coerente con criteri di fattibilita' tecnici ed economici ed essere compatibile con le norme tecniche e le esigenze di sicurezza, fermo restando che i costi associati allo sviluppo e all'adeguamento della rete esistente restano a carico degli operatori di rete;))
+                                    
+                                
+                            
+                            
+                                c)
+                                
+                                    
+                                        ((definiscono le modalita' di ripartizione dei costi, tra tutti i produttori che ne beneficiano, delle opere di connessione degli impianti di produzione di biometano alla rete gas; le modalita' di ripartizione, basate su criteri oggettivi, trasparenti e non discriminatori, tengono conto dei benefici che i produttori gia' connessi e quelli collegatisi successivamente traggono dalle connessioni;))
+                                    
+                                
+                            
+                            
+                                d)
+                                
+                                    
+                                        ((stabiliscono, ai fini del perseguimento degli obiettivi legati alla transizione energetica individuati dal Piano nazionale integrato per l'energia e il clima (PNIEC), che una quota pari al 70 per cento dei costi degli investimenti di connessione alle reti di trasporto o di distribuzione e al 100 per cento dei costi relativi ai sistemi di misura di cui alla lettera h) e dei costi relativi alla compressione, siano attribuiti ai gestori dei sistemi di trasporto o di distribuzione in relazione alla soluzione di connessione individuata, mentre la restante parte, pari al 30 per cento, dei costi degli investimenti di connessione ricada in capo ai produttori;))
+                                    
+                                
+                            
+                            
+                                e)
+                                
+                                    
+                                        ((prevedono la pubblicazione, da parte dei gestori di rete, degli standard tecnici per il collegamento alla rete del gas naturale degli impianti di produzione di biometano;))
+                                    
+                                
+                            
+                            
+                                f)
+                                
+                                    
+                                        ((fissano le procedure, i tempi e i criteri per la determinazione dei costi per l'espletamento di tutte le fasi istruttorie necessarie per l'individuazione e la realizzazione della soluzione definitiva di allacciamento;))
+                                    
+                                
+                            
+                            
+                                g)
+                                
+                                    
+                                        ((sottopongono a termini perentori le attivita' poste a carico dei gestori di rete, individuando sanzioni e procedure sostitutive in caso di inerzia;))
+                                    
+                                
+                            
+                            
+                                h)
+                                
+                                    
+                                        ((definiscono un assetto dei sistemi di misura e di controllo della qualita' funzionale a minimizzare i costi complessivi degli interventi da realizzare, garantendo il rispetto delle norme tecniche e delle esigenze di sicurezza delle reti di trasporto e di distribuzione;))
+                                    
+                                
+                            
+                            
+                                i)
+                                
+                                    
+                                        ((prevedono la pubblicazione, da parte dei gestori di rete, delle condizioni tecniche ed economiche necessarie per la realizzazione delle eventuali opere di adeguamento delle infrastrutture di rete per l'allacciamento di nuovi impianti;))
+                                    
+                                
+                            
+                            
+                                l)
+                                
+                                    
+                                        ((prevedono procedure di risoluzione delle controversie insorte fra produttori e gestori di rete con decisioni, adottate dalla stessa ARERA, vincolanti fra le parti;))
+                                    
+                                
+                            
+                            
+                                m)
+                                
+                                    
+                                        ((stabiliscono le misure necessarie affinche' l'imposizione tariffaria dei corrispettivi posti a carico del soggetto che immette in rete il biometano sia improntata al criterio di allocazione dei costi su scala nazionale)).
+
 ## Art. 21. — ((ARTICOLO ABROGATO DAL D.LGS. 8 NOVEMBRE 2021, N. 199))
 
 ((28))
@@ -237,6 +717,52 @@ Al fine di valorizzare le ricadute dell'azione di pianificazione e verifica di c
 
 E' istituito presso la Cassa conguaglio per il settore elettrico un fondo di garanzia a sostegno della realizzazione di reti di teleriscaldamento, alimentato da un corrispettivo applicato al consumo di gas metano, pari a 0,05 c€/Sm3, posto a carico dei clienti finali. L'Autorita' per l'energia elettrica e il gas disciplina le modalita' di applicazione e raccolta del suddetto corrispettivo. ((4))
 
+5.
+                        
+                            
+                                Con decreto del Ministro dello sviluppo economico, di concerto con il Ministro dell'ambiente e della tutela del territorio e del mare e con il Ministro delle politiche agricole alimentari e forestali, previa intesa con la Conferenza unificata, sono definite le modalita' di gestione e accesso del fondo di cui al comma 4, nonche' le modalita' per l'attuazione di quanto previsto ai commi 1 e 2, tenendo conto: 
+ 
+                            
+                            
+                                a)
+                                
+                                    della disponibilita' di biomasse agroforestali nelle diverse regioni, ovvero nelle diverse sub-aree o bacini, ove individuati dalla pianificazione regionale o sub-regionale; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    delle previsioni dei piani regionali per il trattamento dei rifiuti e in particolare degli impianti di valorizzazione energetica a valle della riduzione, del riuso e della raccolta differenziata, nel rispetto della gerarchia comunitaria di trattamento dei rifiuti; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    della disponibilita' di biomasse di scarto in distretti agricoli e industriali; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    della fattibilita' tecnica ed economica di reti di trasporto di calore geotermico; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    della presenza di impianti e progetti di impianti operanti o operabili in cogenerazione; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    della distanza dei territori da reti di teleriscaldamento esistenti.
+
 --------------
                             AGGIORNAMENTO (4)
                             
@@ -249,6 +775,52 @@ E' istituito presso la Cassa conguaglio per il settore elettrico un fondo di gar
 Il presente Titolo ridefinisce la disciplina dei regimi di sostegno applicati all'energia prodotta da fonti rinnovabili e all'efficienza energetica attraverso il riordino ed il potenziamento dei vigenti sistemi di incentivazione. La nuova disciplina stabilisce un quadro generale volto alla promozione della produzione di energia da fonti rinnovabili e dell'efficienza energetica in misura adeguata al raggiungimento degli obiettivi di cui all'articolo 3, attraverso la predisposizione di criteri e strumenti che promuovano l'efficacia, l'efficienza, la semplificazione e la stabilita' nel tempo dei sistemi di incentivazione, perseguendo nel contempo l'armonizzazione con altri strumenti di analoga finalita' e la riduzione degli oneri di sostegno specifici in capo ai consumatori.
 
 Costituiscono ulteriori principi generali dell'intervento di riordino e di potenziamento dei sistemi di incentivazioni la gradualita' di intervento a salvaguardia degli investimenti effettuati e la proporzionalita' agli obiettivi, nonche' la flessibilita' della struttura dei regimi di sostegno, al fine di tener conto dei meccanismi del mercato e dell'evoluzione delle tecnologie delle fonti rinnovabili e dell'efficienza energetica.
+
+3.
+                        
+                            
+                                Non hanno titolo a percepire gli incentivi per la produzione di energia da fonti rinnovabili, da qualsiasi fonte normativa previsti, i soggetti per i quali le autorita' e gli enti competenti abbiano accertato che, in relazione alla richiesta di qualifica degli impianti o di erogazione degli incentivi, hanno fornito dati o documenti non veritieri, ovvero hanno reso dichiarazioni false o mendaci. Fermo restando il recupero delle somme indebitamente percepite, la condizione ostativa alla percezione degli incentivi ha durata di dieci anni dalla data dell'accertamento e si applica alla persona fisica o giuridica che ha presentato la richiesta, nonche' ai seguenti soggetti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il legale rappresentante che ha sottoscritto la richiesta; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il soggetto responsabile dell'impianto; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il direttore tecnico; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    i soci, se si tratta di societa' in nome collettivo; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    i soci accomandatari, se si tratta di societa' in accomandita semplice; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    gli amministratori con potere di rappresentanza, se si tratta di altro tipo di societa' o consorzio. ((11))
 
 Dal presente titolo non devono derivare nuovi o maggiori oneri a carico del bilancio dello Stato.
 
@@ -263,9 +835,335 @@ Dal presente titolo non devono derivare nuovi o maggiori oneri a carico del bila
 
 La produzione di energia elettrica da impianti alimentati da fonti rinnovabili entrati in esercizio dopo il 31 dicembre 2012 e' incentivata tramite gli strumenti e sulla base dei criteri generali di cui al comma 2 e dei criteri specifici di cui ai commi 3 e 4. La salvaguardia delle produzioni non incentivate e' effettuata con gli strumenti di cui al comma 8.
 
+2.
+                        
+                            
+                                La produzione di energia elettrica dagli impianti di cui al comma 1 e' incentivata sulla base dei seguenti criteri generali: 
+ 
+                            
+                            
+                                a)
+                                
+                                    l'incentivo ha lo scopo di assicurare una equa remunerazione dei costi di investimento ed esercizio; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il periodo di diritto all'incentivo e' pari alla vita media utile convenzionale delle specifiche tipologie di impianto e decorre dalla data di entrata in esercizio dello stesso; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    l'incentivo resta costante per tutto il periodo di diritto e puo' tener conto del valore economico dell'energia prodotta; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    gli incentivi sono assegnati tramite contratti di diritto privato fra il GSE e il soggetto responsabile dell'impianto, sulla base di un contratto-tipo definito dall'Autorita' per l'energia elettrica e il gas, entro tre mesi dalla data di entrata in vigore del primo dei decreti di cui al comma 5; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    fatto salvo quanto previsto dalla lettera i) del presente comma e dalla lettera c) del comma 5, l'incentivo e' attribuito esclusivamente alla produzione da nuovi impianti, ivi inclusi quelli realizzati a seguito di integrale ricostruzione, da impianti ripotenziati, limitatamente alla producibilita' aggiuntiva, e da centrali ibride, limitatamente alla quota di energia prodotta da fonti rinnovabili; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    l'incentivo assegnato all'energia prodotta da impianti solari fotovoltaici e' superiore per gli impianti ad alta concentrazione (400 soli) e tiene conto del maggior rapporto tra energia prodotta e superficie utilizzata; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    per biogas, biomasse e bioliquidi sostenibili l'incentivo tiene conto della tracciabilita' e della provenienza della materia prima, nonche' dell'esigenza di destinare prioritariamente: 
+ i. le biomasse legnose trattate per via esclusivamente meccanica all'utilizzo termico; 
+ ii. i bioliquidi sostenibili all'utilizzo per i trasporti; 
+ iii. il biometano all'immissione nella rete del gas naturale e all'utilizzo nei trasporti. 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    per biogas, biomasse e bioliquidi sostenibili, in aggiunta ai criteri di cui alla lettera g), l'incentivo e' finalizzato a promuovere: 
+ i. l'uso efficiente di rifiuti e sottoprodotti, di biogas da reflui zootecnici o da sottoprodotti delle attivita' agricole, agro-alimentari, agroindustriali, di allevamento e forestali, di prodotti ottenuti da coltivazioni dedicate non alimentari, nonche' di biomasse e bioliquidi sostenibili e biogas da filiere corte, contratti quadri e da intese di filiera; 
+ ii. la realizzazione di impianti operanti in cogenerazione; 
+ iii. la realizzazione e l'esercizio, da parte di imprenditori agricoli, di impianti alimentati da biomasse e biogas asserviti alle attivita' agricole, in particolare di micro e minicogenerazione, nel rispetto della disciplina comunitaria in materia di aiuti di Stato, tenuto conto di quanto previsto all'articolo 23, comma 1; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    l'incentivo e' altresi' attribuito, per contingenti di potenza, alla produzione da impianti oggetto di interventi di rifacimento totale o parziale, nel rispetto dei seguenti criteri: 
+ i. l'intervento e' eseguito su impianti che siano in esercizio da un periodo pari almeno ai due terzi della vita utile convenzionale dell'impianto; 
+ ii. l'incentivo massimo riconoscibile non puo' essere superiore, per gli interventi di rifacimento parziale, al 25% e, per gli interventi di rifacimento totale, al 50% dell'incentivo spettante per le produzioni da impianti nuovi; nel caso degli impianti alimentati a biomassa, ivi compresi quelli alimentati con la frazione biodegradabile dei rifiuti, l'incentivo massimo riconoscibile non puo' essere superiore, per gli interventi di rifacimento parziale, all'80% e, per gli interventi di rifacimento totale, al 90% dell'incentivo spettante per le produzioni da impianti nuovi; 
+ iii. l'incentivo in ogni caso non si applica alle opere di manutenzione ordinaria e alle opere effettuate per adeguare l'impianto a prescrizioni di legge; 
+ iv. l'incentivo non si applica alle produzioni da impianti che beneficiano di incentivi gia' attribuiti alla data di entrata in vigore del presente decreto o attribuiti ai sensi del presente articolo, per tutto il periodo per il quale e' erogato l'incentivo in godimento. 
+
+                                
+                            
+                            
+                                i-bis)
+                                
+                                    deve essere assicurata prioritaria possibilita' di partecipazione agli incentivi a chi installi impianti fotovoltaici a seguito di rimozione dell'amianto, con agevolazioni premiali e modalita' di partecipazione quanto piu' possibile ampie. A tali fini: 
+ 1) non e' necessario che l'area dove e' avvenuta la sostituzione dell'amianto coincida con quella dove viene installato l'impianto, purche' l'impianto sia installato sullo stesso edificio o in altri edifici catastalmente confinanti nella disponibilita' dello stesso soggetto; 
+ 2) gli impianti fotovoltaici potranno occupare una superficie maggiore di quella dell'amianto sostituito, fermo restando che in tale caso saranno decurtati proporzionalmente in modo forfettario i benefici aggiuntivi per la sostituzione dell'amianto; 
+
+                                
+                            
+                            
+                                i-ter)
+                                
+                                    qualora nel corso delle procedure di assegnazione degli incentivi si verifichi un eccesso di offerta per gli impianti sopra o sotto una determinata soglia di potenza, con il decreto di cui al comma 5, la parte degli incentivi non assegnati puo' essere destinata ad altre procedure per impianti di potenza diversa dove vi sia eccesso di domanda.
+
+3.
+                        
+                            
+                                La produzione di energia elettrica da impianti di potenza nominale fino a un valore, da stabilire con i decreti di cui al comma 5, differenziato sulla base delle caratteristiche delle diverse fonti rinnovabili, comunque non superiore a 5 MW elettrici per gli impianti eolici e a 1 MW elettrico per gli impianti alimentati dalle altre fonti rinnovabili, ha diritto a un incentivo stabilito sulla base dei seguenti criteri: 
+ 
+                            
+                            
+                                a)
+                                
+                                    l'incentivo e' diversificato per fonte e per scaglioni di potenza, al fine di favorire la riduzione dei costi; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'incentivo riconosciuto e' quello applicabile alla data di entrata in esercizio sulla base del comma 5.
+
+4.
+                        
+                            
+                                La produzione di energia elettrica da impianti di potenza nominale superiore ai valori minimi stabiliti per l'accesso ai meccanismi di cui al comma 3 ha diritto a un incentivo assegnato tramite aste al ribasso gestite dal GSE. Le procedure d'asta sono disciplinate sulla base dei seguenti criteri: 
+ 
+                            
+                            
+                                a)
+                                
+                                    gli incentivi a base d'asta tengono conto dei criteri generali indicati al comma 2 e del valore degli incentivi, stabiliti ai fini dell'applicazione del comma 3, relativi all'ultimo scaglione di potenza, delle specifiche caratteristiche delle diverse tipologie di impianto e delle economie di scala delle diverse tecnologie; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le aste hanno luogo con frequenza periodica e prevedono, tra l'altro, requisiti minimi dei progetti e di solidita' finanziaria dei soggetti partecipanti, e meccanismi a garanzia della realizzazione degli impianti autorizzati, anche mediante fissazione di termini per l'entrata in esercizio; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    le procedure d'asta sono riferite a contingenti di potenza, anche riferiti a piu' tecnologie e specifiche categorie di interventi; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    l'incentivo riconosciuto e' quello aggiudicato sulla base dell'asta al ribasso; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    le procedure d'asta prevedono un valore minimo dell'incentivo comunque riconosciuto dal GSE, determinato tenendo conto delle esigenze di rientro degli investimenti effettuati.
+
+5.
+                        
+                            
+                                Con decreti del Ministro dello sviluppo economico di concerto con il Ministro dell'ambiente e della tutela del territorio e del mare e, per i profili di competenza, con il Ministro delle politiche agricole e forestali, sentite l'Autorita' per l'energia elettrica e il gas e la Conferenza unificata, di cui all'articolo 8 del decreto legislativo 28 agosto 1997, n. 281, sono definite le modalita' per l'attuazione dei sistemi di incentivazione di cui al presente articolo, nel rispetto dei criteri di cui ai precedenti commi 2, 3 e 4. I decreti disciplinano, in particolare: 
+ 
+                            
+                            
+                                a)
+                                
+                                    i valori degli incentivi di cui al comma 3 per gli impianti che entrano in esercizio a decorrere dal 1° gennaio 2013 e gli incentivi a base d'asta in applicazione del comma 4, ferme restando le diverse decorrenze fissate ai sensi dei decreti attuativi previsti dall'articolo 7 del decreto legislativo 29 dicembre 2003, n. 387 nonche' i valori di potenza, articolati per fonte e tecnologia, degli impianti sottoposti alle procedure d'asta; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le modalita' con cui il GSE seleziona i soggetti aventi diritto agli incentivi attraverso le procedure d'asta; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    le modalita' per la transizione dal vecchio al nuovo meccanismo di incentivazione. In particolare, sono stabilite le modalita' con le quali il diritto a fruire dei certificati verdi per gli anni successivi al 2015, anche da impianti non alimentati da fonti rinnovabili, e' commutato nel diritto ad accedere, per il residuo periodo di diritto ai certificati verdi, a un incentivo ricadente nella tipologia di cui al comma 3, in modo da garantire la redditivita' degli investimenti effettuati. 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    le modalita' di calcolo e di applicazione degli incentivi per le produzioni imputabili a fonti rinnovabili in centrali ibride; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    le modalita' con le quali e' modificato il meccanismo dello scambio sul posto per gli impianti, anche in esercizio, che accedono a tale servizio, al fine di semplificarne la fruizione; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    le modalita' di aggiornamento degli incentivi di cui al comma 3 e degli incentivi a base d'asta di cui al comma 4, nel rispetto dei seguenti criteri: 
+ i. la revisione e' effettuata, per la prima volta, decorsi due anni dalla data di entrata in vigore del provvedimento di cui alla lettera a) e, successivamente, ogni tre anni; 
+ ii. i nuovi valori riferiti agli impianti di cui al comma 3 si applicano agli impianti che entrano in esercizio decorso un anno dalla data di entrata in vigore del decreto di determinazione dei nuovi valori; 
+ iii. possono essere introdotti obiettivi di potenza da installare per ciascuna fonte e tipologia di impianto, in coerenza con la progressione temporale di cui all'articolo 3, comma 3; 
+ iv. possono essere riviste le percentuali di cumulabilita' di cui all'articolo 26; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    il valore minimo di potenza di cui ai commi 3 e 4, tenendo conto delle specifiche caratteristiche delle diverse tipologie di impianto, al fine di aumentare l'efficienza complessiva del sistema di incentivazione; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    le condizioni in presenza delle quali, in seguito ad interventi tecnologici sugli impianti da fonti rinnovabili non programmabili volti a renderne programmabile la produzione ovvero a migliorare la prevedibilita' delle immissioni in rete, puo' essere riconosciuto un incremento degli incentivi di cui al presente articolo. Con il medesimo provvedimento puo' essere individuata la data a decorrere dalla quale i nuovi impianti accedono agli incentivi di cui al presente articolo esclusivamente se dotati di tale configurazione. Tale data non puo' essere antecedente al 1° gennaio 2018; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    fatto salvo quanto previsto all'articolo 23, comma 3, ulteriori requisiti soggettivi per l'accesso agli incentivi.
+
 I decreti di cui al comma 5 sono adottati entro sei mesi dalla data di entrata in vigore del presente decreto.
 
 L'Autorita' per l'energia elettrica e il gas definisce le modalita' con le quali le risorse per l'erogazione degli incentivi di cui al presente articolo e all'articolo 25, comma 4, trovano copertura nel gettito della componente A3 delle tariffe dell'energia elettrica.
+
+8.
+                        
+                            
+                                Entro centottanta giorni dalla data di entrata in vigore della presente disposizione, l'Autorita' di regolazione per energia, reti e ambiente provvede a definire prezzi minimi garantiti, ovvero integrazioni dei ricavi conseguenti alla partecipazione al mercato elettrico, per la produzione da impianti alimentati da biogas e biomassa, in esercizio alla data di entrata in vigore della presente disposizione, i cui regimi incentivanti siano terminati entro la predetta data, ovvero che rinuncino agli incentivi in scadenza entro il ((31 dicembre 2029)) per aderire al regime di cui al presente comma, sulla base dei seguenti criteri: 
+ 
+                            
+                            
+                                a)
+                                
+                                    i prezzi minimi garantiti, ovvero le integrazioni dei ricavi, sono corrisposti a copertura dei costi di funzionamento, al fine di assicurare la prosecuzione dell'esercizio e il funzionamento efficiente dell'impianto; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    i prezzi minimi garantiti, ovvero le integrazioni dei ricavi, sono differenziati in base alla potenza dell'impianto; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    gli impianti rispettano i requisiti di cui all'articolo 42 del decreto legislativo 8 novembre 2021, n. 199; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    il valore dei prezzi minimi garantiti, ovvero delle integrazioni dei ricavi, e' aggiornato annualmente, tenendo conto dei valori di costo delle materie prime e della necessita' di promuovere la progressiva efficienza dei costi degli impianti, anche al fine di evitare incrementi dei prezzi delle materie prime correlati alla presenza di incentivi all'utilizzo energetico delle stesse.
+
+8-bis.
+                        
+                            
+                                Entro novanta giorni dalla data di entrata in vigore della presente disposizione, l'Autorita' di regolazione per energia, reti e ambiente aggiorna il meccanismo di cui al comma 8 per il periodo che ((intercorre tra il)) 1° aprile 2026 e il 31 dicembre 2037 sulla base dei seguenti principi e criteri: 
+ 
+                            
+                            
+                                a)
+                                
+                                    
+                                        ((i prezzi minimi garantiti sono riconosciuti per un numero massimo di ore equivalenti su base semestrale, differenziate fra tipologie di impianti, tenendo conto delle esigenze di copertura della domanda attesa e delle esigenze di continuita' di produzione degli impianti connessi ai siti produttivi anche in assetto di autoproduzione. In particolare, nel caso di impianti di produzione asserviti a un processo produttivo, il numero massimo di ore equivalenti su base semestrale e' definito dal GSE con riferimento al tendenziale di spesa e nel rispetto delle condizioni di cui alla lettera c), a partire dal numero di ore di funzionamento del medesimo processo produttivo; nel caso degli altri impianti di produzione, il numero massimo di ore equivalenti su base semestrale e' definito dal GSE con riferimento al tendenziale di spesa e nel rispetto delle condizioni di cui alla lettera c), a partire dalle ore individuate dalla societa' Terna Spa al fine di assicurare il contributo alla flessibilita' del sistema di questi impianti e di rispettare i vincoli di permanenza in servizio degli impianti stessi, tenendo conto dell'eventuale necessita' di utilizzo di combustibili di origine fossile nelle fasi di accensione e spegnimento e della quota massima di utilizzo di tali combustibili prevista dalla normativa vigente)); 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    per le finalita' di cui alla lettera a), un impianto asservito a un processo produttivo e' un impianto direttamente collegato, in termini elettrici ((,)) nell'ambito di un sistema di distribuzione chiuso o nell'ambito di un sistema semplice di produzione e consumo, ((o)) termici per la cessione di calore a una utenza termica, a uno stabilimento produttivo gestito da un cliente finale eventualmente diverso dal produttore, che rispetta alternativamente le seguenti condizioni: i) l'assenza della sua produzione elettrica o termica non consente l'esecuzione del ciclo produttivo; ii) l'assenza della sua produzione elettrica o termica comporta un aggravio di costi per l'esecuzione del ciclo produttivo; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il GSE effettua una stima del costo del meccanismo entro la meta' del mese antecedente all'inizio di ciascun semestre, a partire dalla previsione relativa al secondo semestre del 2026, da effettuare entro la meta' di giugno 2026; qualora dalle valutazioni emerga la possibilita' del mancato perseguimento del tendenziale di spesa di cui alle lettere g), h) ed i), ((il numero delle ore equivalenti su base semestrale di cui alla lettera a) e' ridefinito in riduzione del medesimo numero di ore equivalenti per tutti gli impianti di produzione per i quali sono riconosciuti i prezzi minimi garantiti, fatta salva la distinzione)) tra tipologie di impianti nel rispetto delle seguenti condizioni: 
+ 1) la riduzione, per ciascun impianto di produzione, trova applicazione dall'inizio del semestre cui la previsione del GSE si riferisce; 
+ ((2) l'eventuale riduzione, fino all'azzeramento, si applica prioritariamente agli impianti di produzione non asserviti a un processo produttivo; in subordine, agli impianti asserviti a un processo produttivo; infine, a partire da quelli non asserviti a un processo produttivo, agli impianti da filiera come definiti dall'articolo 2, comma 1, lettera v), del decreto del Ministro dello sviluppo economico 23 giugno 2016, pubblicato nella Gazzetta Ufficiale n. 150 del 29 giugno 2016)); 
+ 3) per gli impianti che hanno rinunciato agli incentivi ai sensi del comma 8, la riduzione si applica a decorrere dalla data di scadenza del meccanismo in essere prima della rinuncia ai fini dell'accesso al meccanismo dei prezzi minimi garantiti; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    per gli impianti alimentati da biogas di potenza superiore ai 300 kW che beneficiano dei prezzi minimi garantiti, o per i medesimi impianti con incentivi scaduti o in scadenza che non abbiano presentato richiesta di accesso al meccanismo alla data di entrata in vigore della presente disposizione, ((la permanenza nel meccanismo di cui al comma 8 o l'accesso al medesimo sono consentiti,)) con effetti non oltre il 31 dicembre 2030, ((al fine di garantire la progressiva riconversione degli impianti a biometano)); 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    i prezzi minimi garantiti possono trovare applicazione oltre il 31 dicembre 2030 e fino al 31 dicembre 2037 solo nel caso di impianti a biogas di potenza inferiore o uguale a 300 kW che non sono stati riconvertiti a biometano ((e nel caso di impianti a biogas che hanno realizzato gli interventi incentivati ai sensi del decreto del Ministro dell'ambiente e della sicurezza energetica n. 99 del 13 marzo 2024, di cui al comunicato pubblicato nella Gazzetta Ufficiale n. 102 del 3 maggio 2024)); 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    i prezzi minimi garantiti possono trovare applicazione oltre il 31 dicembre 2030 anche nel caso degli impianti a biogas e biomasse per i quali la data di scadenza che avrebbe avuto il meccanismo di incentivazione in essere prima della rinuncia ai fini dell'accesso al meccanismo dei prezzi minimi garantiti sia successiva al 2030. Per tali impianti, in ogni caso, l'erogazione dei prezzi minimi garantiti termina alla data di scadenza che avrebbe avuto il meccanismo di incentivazione in essere prima della rinuncia; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    
+                                        ((il tendenziale di spesa per gli impianti a biogas, a valere sugli oneri generali di sistema, derivante dall'aggiornamento del meccanismo e' pari a 160 milioni di euro per l'anno 2026, ivi compresi gli oneri afferenti al periodo gennaio-marzo 2026, a 278,5 milioni di euro per l'anno 2027, a 432,4 milioni di euro per l'anno 2028, a 413,5 milioni di euro per l'anno 2029, a 381,9 milioni di euro per l'anno 2030 e a 50,1 milioni di euro per ciascuno degli anni dal 2031 al 2037)); 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    
+                                        ((il tendenziale di spesa per gli impianti a biomassa, a valere sugli oneri generali di sistema, derivante dall'aggiornamento del meccanismo e' pari a 582,4 milioni di euro per l'anno 2026, ivi compresi gli oneri afferenti al periodo gennaio-marzo 2026, a 582,5 milioni di euro per l'anno 2027, a 576,5 milioni di euro per l'anno 2028, a 570,1 milioni di euro per l'anno 2029 e a 570,3 milioni di euro per l'anno 2030)); 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    il tendenziale di spesa per gli impianti a biogas e biomasse di cui alla lettera f) e' pari a 125 milioni ((di euro)) per l'anno 2031, 108 milioni ((di euro)) per ciascuno degli anni 2032-2033, 106 milioni ((di euro)) per ciascuno degli anni 2034-2035, 46 milioni ((di euro)) per l'anno 2036 e 32 milioni ((di euro)) per l'anno 2037.
 
 Con decreto del Ministro dello sviluppo economico, di concerto con il Ministro dell'ambiente e della tutela del territorio e del mare, sono definiti specifici incentivi per la produzione di energia da fonti rinnovabili mediante impianti che facciano ricorso a tecnologie avanzate e non ancora pienamente commerciali, compresi gli impianti sperimentali di potenza fino a 5 MW alimentati da fluidi geotermici a media ed alta entalpia.
 
@@ -295,6 +1193,70 @@ Il valore di riferimento di cui all'articolo 2, comma 148, della legge 24 dicemb
 
 Le disposizioni del decreto del Ministro dello sviluppo economico 6 agosto 2010, pubblicato nella Gazzetta Ufficiale n. 197 del 24 agosto 2010, si applicano alla produzione di energia elettrica da impianti solari fotovoltaici che entrino in esercizio entro il 31 maggio 2011.
 
+10.
+                        
+                            
+                                Fatto salvo quanto previsto dall'articolo 2-sexies del decreto-legge 25 gennaio 2010, n. 3, convertito, con modificazioni, dalla legge 22 marzo 2010, n. 41, l'incentivazione della produzione di energia elettrica da impianti solari fotovoltaici che entrino in esercizio successivamente al termine di cui al comma 9 e' disciplinata con decreto del Ministro dello sviluppo economico, da adottare, di concerto con il Ministro dell'ambiente e della tutela del mare, sentita la Conferenza unificata di cui all'articolo 8 del decreto legislativo 28 agosto 1997, n. 281, entro il 30 aprile 2011, sulla base dei seguenti principi: 
+ 
+                            
+                            
+                                a)
+                                
+                                    determinazione di un limite annuale di potenza elettrica cumulativa degli impianti fotovoltaici che possono ottenere le tariffe incentivanti; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    determinazione delle tariffe incentivanti tenuto conto della riduzione dei costi delle tecnologie e dei costi di impianto e degli incentivi applicati negli Stati membri dell'Unione europea; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    previsione di tariffe incentivanti e di quote differenziate sulla base della natura dell'area di sedime; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    applicazione delle disposizioni dell'articolo 7 del decreto legislativo 29 dicembre 2003, n. 387, in quanto compatibili con il presente comma.
+
+11.
+                        
+                            
+                                Fatti salvi i diritti acquisiti e gli effetti prodotti tenendo conto di quanto stabilito dall'articolo 24, comma 5, lettera c), sono abrogati: 
+ 
+                            
+                            
+                                a)
+                                
+                                    a decorrere dal 1° gennaio 2012, il comma 3 dell'articolo 20 del decreto legislativo 29 dicembre 2003, n. 387 del 2003; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    a decorrere dal 1° gennaio 2013: 
+ 1) i commi 143, 144, 145, 150, 152, 153, lettera a), dell'articolo 2 della legge 24 dicembre 2007, n. 244; 
+ 2) il comma 4-bis dell'articolo 3 del decreto-legge 1º luglio 2009, n. 78, convertito, con modificazioni, dalla legge 3 agosto 2009, n. 102; 
+ 3) l'articolo 7 del decreto legislativo 29 dicembre 2003, n. 387; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    a decorrere dal 1° gennaio 2016: 
+ 1) i commi 1, 2, 3, 5 e 6 dell'articolo 11 del decreto legislativo 16 marzo 1999, n. 79; 
+ 2) l'articolo 4 del decreto legislativo n. 387 del 2003, ad eccezione dell'ultimo periodo del comma 1, che e' abrogato dalla data di entrata in vigore del presente decreto; 
+ 3) i commi 382, 382-bis, 382-quater, 382-quinquies, 382-sexies, 382-septies, 383 dell'articolo 1 della legge 27 dicembre 2006, n. 296; 
+ 4) i commi 147, 148, 155 e 156 dell'articolo 2 della legge 24 dicembre 2007, n. 244.
+
 Gli incentivi alla produzione di energia elettrica da fonti rinnovabili di cui ai commi da 382 a 382-quinquies dell'articolo 1 della legge 27 dicembre 2006, n. 296 e al comma 145 dell'articolo 2 della legge 24 dicembre 2007, n. 244 si applicano anche agli impianti a biogas di proprieta' di aziende agricole o gestiti in connessione con aziende agricole, agro-alimentari, di allevamento e forestali, entrati in esercizio commerciale prima del 1° gennaio 2008. Il periodo residuo degli incentivi e' calcolato sottraendo alla durata degli incentivi il tempo intercorso tra la data di entrata in esercizio commerciale degli impianti di biogas e il 31 dicembre 2007.
 
 ---------------
@@ -306,13 +1268,164 @@ Gli incentivi alla produzione di energia elettrica da fonti rinnovabili di cui a
 
 Gli incentivi di cui all'articolo 24 non sono cumulabili con altri incentivi pubblici comunque denominati, fatte salve le disposizioni di cui ai successivi commi.
 
+2.
+                        
+                            
+                                Il diritto agli incentivi di cui all'articolo 24, comma 3, e' cumulabile, nel rispetto delle relative modalita' applicative: 
+ 
+                            
+                            
+                                a)
+                                
+                                    con l'accesso a fondi di garanzia e fondi di rotazione; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    con altri incentivi pubblici non eccedenti il 40 per cento del costo dell'investimento, nel caso di impianti di potenza elettrica fino a 200 kW, non eccedenti il 30 per cento, nel caso di impianti di potenza elettrica fino a 1 MW, e non eccedenti il 20 per cento, nel caso di impianti di potenza fino a 10 MW, fatto salvo quanto previsto alla lettera c); per i soli impianti fotovoltaici realizzati su scuole pubbliche o paritarie di qualunque ordine e grado ed il cui il soggetto responsabile sia la scuola ovvero il soggetto proprietario dell'edificio scolastico, nonche' su strutture sanitarie pubbliche, ovvero su edifici che siano sedi amministrative di proprieta' di regioni, province autonome o enti locali, la soglia di cumulabilita' e' stabilita fino al 60 per cento del costo di investimento; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    per i soli impianti di potenza elettrica fino a 1 MW, di proprieta' di aziende agricole o gestiti in connessione con aziende agricole, agro-alimentari, di allevamento e forestali, alimentati da biogas, biomasse e bioliquidi sostenibili, a decorrere dall'entrata in esercizio commerciale, con altri incentivi pubblici non eccedenti il 40% del costo dell'investimento; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    per gli impianti di cui all'articolo 24, commi 3 e 4, con la fruizione della detassazione dal reddito di impresa degli investimenti in macchinari e apparecchiature; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    per gli impianti cogenerativi e trigenerativi alimentati da fonte solare ovvero da biomasse e biogas derivanti da prodotti agricoli, di allevamento e forestali, ivi inclusi i sottoprodotti, ottenuti nell'ambito di intese di filiera o contratti quadro ai sensi degli articoli 9 e 10 del decreto legislativo 27 maggio 2005, n. 102, oppure di filiere corte, cioe' ottenuti entro un raggio di 70 chilometri dall'impianto che li utilizza per produrre energia elettrica, a decorrere dall'entrata in esercizio commerciale, con altri incentivi pubblici non eccedenti il 40% del costo dell'investimento.
+
 Il primo periodo del comma 152 dell'articolo 2 della legge 24 dicembre 2007, n. 244, non si applica nel caso di fruizione della detassazione dal reddito di impresa degli investimenti in macchinari e apparecchiature e di accesso a fondi di rotazione e fondi di garanzia.
 
 ## - Capo III REGIMI DI SOSTEGNO PER LA PRODUZIONE DI ENERGIA TERMICA DA FONTI  RINNOVABILI E PER L'EFFICIENZA ENERGETICA
 
 ## Art. 27. — Regimi di sostegno
 
+1.
+                        
+                            
+                                Le misure e gli interventi di incremento dell'efficienza energetica e di produzione di energia termica da fonti rinnovabili sono incentivati: 
+ 
+                            
+                            
+                                a)
+                                
+                                    mediante contributi a valere sulle tariffe del gas naturale per gli interventi di piccole dimensioni di cui all'articolo 28 alle condizioni e secondo le modalita' ivi previste; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    mediante il rilascio dei certificati bianchi per gli interventi che non ricadono fra quelli di cui alla lettera a), alle condizioni e secondo le modalita' previste dall'articolo 29.
+
 ## Art. 28. — Contributi per la produzione di energia termica da fonti rinnovabili e per interventi di efficienza energetica di piccole dimensioni
+
+1.
+                        
+                            
+                                Gli interventi di produzione di energia termica da fonti rinnovabili e di incremento dell'efficienza energetica di piccole dimensioni, realizzati in data successiva al 31 dicembre 2011, sono incentivati sulla base dei seguenti criteri generali: 
+ 
+                            
+                            
+                                a)
+                                
+                                    l'incentivo ha lo scopo di assicurare una equa remunerazione dei costi di investimento ed esercizio ed e' commisurato alla produzione di energia termica da fonti rinnovabili, ovvero ai risparmi energetici generati dagli interventi; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il periodo di diritto all'incentivo non puo' essere superiore a dieci anni e decorre dalla data di conclusione dell'intervento; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    l'incentivo resta costante per tutto il periodo di diritto e puo' tener conto del valore economico dell'energia prodotta o risparmiata; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    l'incentivo puo' essere assegnato esclusivamente agli interventi che non accedono ad altri incentivi statali, fatti salvi i fondi di garanzia, i fondi di rotazione e i contributi in conto interesse; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    gli incentivi sono assegnati tramite contratti di diritto privato fra il GSE e il soggetto responsabile dell'impianto, sulla base di un contratto-tipo definito dall'Autorita' per l'energia elettrica e il gas entro tre mesi dalla data di entrata in vigore del primo dei decreti di cui al comma 2.
+
+2.
+                        
+                            
+                                Con decreti del Ministro dello sviluppo economico, di concerto con il Ministro dell'ambiente e della tutela del territorio e del mare e, per i profili di competenza, con il Ministro delle politiche agricole e forestali, previa intesa con Conferenza unificata, di cui all'articolo 8 del decreto legislativo 28 agosto 1997, n. 281, sono fissate le modalita' per l'attuazione di quanto disposto al presente articolo e per l'avvio dei nuovi meccanismi di incentivazione. I decreti stabiliscono, inoltre: 
+ 
+                            
+                            
+                                a)
+                                
+                                    i valori degli incentivi, sulla base dei criteri di cui al comma 1, in relazione a ciascun intervento, tenendo conto dell'effetto scala; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    i requisiti tecnici minimi dei componenti, degli impianti e degli interventi; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    i contingenti incentivabili per ciascuna applicazione, con strumenti idonei alla salvaguardia delle iniziative avviate; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    gli eventuali obblighi di monitoraggio a carico del soggetto beneficiario ((, prevedendo, in particolare, che, qualora gli interventi incentivati siano stati eseguiti su impianti di amministrazioni pubbliche, queste, nel caso di scadenza del contratto di gestione nell'arco dei cinque anni successivi all'ottenimento degli stessi incentivi, assicurino il mantenimento dei requisiti mediante clausole contrattuali da inserire nelle condizioni di assegnazione del nuovo contratto)); 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    le modalita' con le quali il GSE provvede ad erogare gli incentivi; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    le condizioni di cumulabilita' con altri incentivi pubblici, fermo restando quanto stabilito dal comma 1, lettera d); 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    le modalita' di aggiornamento degli incentivi, nel rispetto dei seguenti criteri: 
+ i. la revisione e' effettuata, per la prima volta, decorsi due anni dalla data di entrata in vigore del provvedimento di cui al presente comma e, successivamente, ogni tre anni; 
+ ii. i nuovi valori si applicano agli interventi realizzati decorso un anno dalla data di entrata in vigore del decreto di determinazione dei nuovi valori.
 
 I decreti di cui al comma 2 sono adottati entro sei mesi dall'entrata in vigore del presente decreto.
 
@@ -324,6 +1437,52 @@ L'articolo 9 del decreto legislativo 30 maggio 2008, n. 115, e' abrogato.
 
 ## Art. 29. — Certificati bianchi
 
+1.
+                        
+                            
+                                Al fine di rendere coerente con la strategia complessiva e razionalizzare il sistema dei certificati bianchi, con i provvedimenti di cui all'articolo 7 del decreto legislativo 30 maggio 2008, n. 115: 
+ 
+                            
+                            
+                                a)
+                                
+                                    sono stabilite le modalita' con cui gli obblighi in capo alle imprese di distribuzione di cui all'articolo 9, comma 1, del decreto legislativo 16 marzo 1999, n. 79, e all'articolo 16, comma 4, del decreto legislativo 23 maggio 2000, n. 164, si raccordano agli obiettivi nazionali relativi all'efficienza energetica; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    e' disposto il passaggio al GSE dell'attivita' di gestione del meccanismo di certificazione relativo ai certificati bianchi, ferme restando le competenze del GME sull'attivita' di emissione dei certificati bianchi e sulla gestione del registro e della borsa dei medesimi certificati bianchi; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    sono approvate almeno 15 nuove schede standardizzate, predisposte dall'ENEA-UTEE secondo quanto stabilito dall'articolo 30, comma 1; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    e' raccordato il periodo di diritto ai certificati con la vita utile dell'intervento; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    sono individuate modalita' per ridurre tempi e adempimenti per l'ottenimento dei certificati; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    sono stabiliti i criteri per la determinazione del contributo tariffario per i costi sostenuti dai soggetti obbligati per il conseguimento degli obiettivi di risparmio di energia primaria posti a loro carico.
+
 Ai fini dell'applicazione del meccanismo dei certificati bianchi, i risparmi realizzati nel settore dei trasporti attraverso le schede di cui all'articolo 30 sono equiparati a risparmi di gas naturale.
 
 I risparmi di energia realizzati attraverso interventi di efficientamento delle reti elettriche e del gas naturale individuati nelle schede di cui all'articolo 30 concorrono al raggiungimento degli obblighi in capo alle imprese di distribuzione. Per tali interventi non sono rilasciabili certificati bianchi.
@@ -332,6 +1491,32 @@ Gli impianti cogenerativi entrati in esercizio dopo il 1° aprile 1999 e prima d
 
 ## Art. 30. — Misure in materia di efficienza energetica
 
+1.
+                        
+                            
+                                In vista dell'esigenza di procedere in tempi brevi all'attuazione delle attivita' previste dal decreto legislativo 30 maggio 2008, n. 115 ai fini del conseguimento degli obiettivi congiunti di sviluppo delle fonti rinnovabili e promozione dell'efficienza energetica, anche nelle more dell'emanazione dei provvedimenti di cui all'articolo 4, commi 2 e 3, del medesimo decreto legislativo, l'ENEA avvia ed effettua le attivita' in esso previste e in particolare: 
+ 
+                            
+                            
+                                a)
+                                
+                                    ai sensi dell'articolo 4, comma 4, lettera c), del decreto legislativo 30 maggio 2008, n. 115 entro sei mesi dalla data di entrata in vigore del presente decreto, redige e trasmette al Ministero dello sviluppo economico almeno 15 schede standardizzate per la quantificazione dei risparmi nell'ambito del meccanismo dei certificati bianchi, con particolare riguardo ai seguenti settori/interventi: 
+ i. diffusione di automezzi elettrici, a gas naturale e a GPL; 
+ ii. interventi nel settore informatico con particolare riguardo all'utilizzo di server/servizi remoti anche virtuali; 
+ iii. illuminazione efficiente con particolare riguardo all'illuminazione pubblica a LED e al terziario; 
+ iv. misure di efficientamento nel settore dell'impiantistica industriale; 
+ v. misure di efficientamento nel settore della distribuzione idrica; 
+ vi. risparmio di energia nei sistemi di telecomunicazioni e uso delle tecnologie delle comunicazioni ai fini del risparmio energetico; 
+ vii. recuperi di energia. 
+ viii. apparecchiature ad alta efficienza per il settore residenziale, terziario e industriale, quali ad esempio gruppi frigo, unita' trattamento aria, pompe di calore, elettrodomestici anche dotati di etichetta energetica; l'ENEA sviluppa procedure standardizzate che consentano la quantificazione dei risparmi con l'applicazione di metodologie statistiche e senza fare ricorso a misurazioni dirette; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    provvede a pubblicare casi studio e parametri standard come guida per facilitare la realizzazione e la replicabilita' degli interventi a consuntivo.
+
 ## Art. 31. — Fondo rotativo di cui all'articolo 1, comma 1110, della legge 27 dicembre 2006, n. 296
 
 Per le regioni e gli enti locali, nonche' per tutti gli altri enti pubblici, la durata massima dei finanziamenti a tasso agevolato non puo' essere superiore a centottanta mesi, in deroga al termine di cui all'articolo 1, comma 1111, della legge 27 dicembre 2006, n. 296.
@@ -339,6 +1524,30 @@ Per le regioni e gli enti locali, nonche' per tutti gli altri enti pubblici, la 
 Con la convenzione prevista all'articolo 1, comma 1115, della legge 27 dicembre 2006, n. 296 sono definiti, altresi', gli oneri di gestione del fondo rotativo di cui al comma 1110 del medesimo articolo 1, da riconoscersi alla Cassa Depositi e Prestiti SpA. La copertura di tali oneri, nella misura massima dell'1,50 per cento su base annua, e' disposta a valere sulle risorse annualmente confluite nel medesimo fondo provenienti dal bilancio dello Stato e dai rimborsi dei finanziamenti agevolati erogati.
 
 ## Art. 32. — Interventi a favore dello sviluppo tecnologico e industriale
+
+1.
+                        
+                            
+                                Al fine di corrispondere all'esigenza di garantire uno sviluppo equilibrato dei vari settori che concorrono al raggiungimento degli obiettivi di cui all'articolo 3 e degli obiettivi previsti dal Piano nazionale integrato per l'energia e il clima per gli anni 2021-2030 attraverso la promozione congiunta di domanda e offerta di tecnologie per l'efficienza energetica e le fonti rinnovabili, entro 180 giorni dalla data di entrata in vigore del presente decreto legislativo, il Ministro dello sviluppo economico con propri decreti individua, senza nuovi o maggiori oneri a carico del bilancio dello Stato, interventi e misure per lo sviluppo tecnologico e industriale in materia di fonti rinnovabili ed efficienza energetica sulla base dei seguenti criteri: 
+ 
+                            
+                            
+                                a)
+                                
+                                    gli interventi e le misure sono coordinate con le disposizioni di sostegno alla produzione da fonti rinnovabili e all'efficienza energetica al fine di contribuire, in un'ottica di sistema, al raggiungimento degli obiettivi nazionali di cui all'articolo 3; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    gli interventi e le misure prevedono, anche attraverso le risorse di cui al comma 2, il sostegno: 
+ i. ai progetti di validazione in ambito industriale e di qua-lificazione di sistemi e tecnologie; 
+ ii. ai progetti di innovazione dei processi e dell'organizzazione nei servizi energetici; 
+ iii. alla creazione, ampliamento e animazione dei poli di innovazione finalizzati alla realizzazione dei progetti di cui al punto 1); 
+ ((iv. al finanziamento di progetti sinergici a quelli previsti dal Piano Nazionale di Ripresa e Resilienza che consentano di accelerare lo sviluppo tecnologico e industriale;))
+                                        ((iv.1 alla realizzazione di comunita' dell'energia, sistemi di autoconsumo collettivo, sistemi di distribuzione chiusi anche con riguardo alla riconversione di siti industriali e configurazioni in esercizio, nei quali possa essere accelerato lo sviluppo tecnologico e il percorso di decarbonizzazione anche attraverso la sperimentazione di tecnologie innovative; 
+ iv.2 ad attivita' strumentali funzionali al raggiungimento degli obiettivi di decarbonizzazione tramite la realizzazione di sistemi informatici di monitoraggio e analisi per la programmazione territoriale, nella misura massima del 10 per cento del gettito annuo complessivo.))
 
 Per il finanziamento delle attivita' di cui al comma 1 e' istituito un fondo presso la Cassa conguaglio per il settore elettrico alimentato dal gettito della tariffe elettriche e del gas naturale in misura pari, rispettivamente, a 0,02 c€/kWh e a 0,08 c€/Sm3.
 
@@ -384,6 +1593,38 @@ L'Autorita' per l'energia elettrica e il gas stabilisce le modalita' con le qual
 Con le modalita' previste dall'articolo 1, comma 5, del decreto-legge 18 giugno 2007, n. 73, convertito, con modificazioni, dalla legge 3 agosto 2007, n. 125, sono aggiornate le modalita' di rilascio, riconoscimento e utilizzo della garanzia di origine dell'elettricita' da fonti rinnovabili in conformita' alle disposizioni dell'articolo 15 della direttiva 2009/28/CE.
 
 La garanzia di origine di cui al comma 1 ha esclusivamente lo scopo di consentire ai fornitori di energia elettrica di provare ai clienti finali la quota o la quantita' di energia da fonti rinnovabili nel proprio mix energetico.
+
+3.
+                        
+                            
+                                Il rilascio, il riconoscimento o l'utilizzo della garanzia di origine di cui al comma 1 non ha alcun rilievo ai fini: 
+ 
+                            
+                            
+                                a)
+                                
+                                    del riconoscimento dei meccanismi di sostegno per la produzione di energia elettrica da fonti rinnovabili; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    del riconoscimento della provenienza da fonti rinnovabili dell'elettricita' munita di garanzia di origine ai fini dell'applicazione dei meccanismi di sostegno; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    dell'utilizzo di trasferimenti statistici e progetti comuni; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    della determinazione del grado di raggiungimento degli obiettivi nazionali in materia di fonti rinnovabili.
 
 A decorrere dal 1° gennaio dell'anno successivo a quello di entrata in vigore del decreto di cui al comma 1, i fornitori di energia elettrica possono utilizzare esclusivamente la garanzia di origine di cui al medesimo comma 1 per provare ai clienti finali la quota o la quantita' di energia da fonti rinnovabili nel proprio mix energetico. A decorrere dalla medesima data e' abrogato l'articolo 11 del decreto legislativo 29 dicembre 2003, n. 387. 
  
@@ -465,6 +1706,52 @@ E' fatto salvo il diritto di rivalsa del beneficiario nei confronti dei soggetti
 
 Al fine di salvaguardare la produzione di energia elettrica derivante da impianti eolici, tutti gli impianti eolici gia' iscritti in posizione utile nel registro EOLN-RG2012, ai quali e' stato negato l'accesso agli incentivi di cui al decreto del Ministro dello sviluppo economico 6 luglio 2012, pubblicato nel supplemento ordinario n. 143 alla Gazzetta Ufficiale n. 159 del 10 luglio 2012, a causa della errata indicazione della data del titolo autorizzativo in sede di registrazione dell'impianto al registro EOLN-RG2012, sono riammessi agli incentivi previsti dalla normativa per tale registro. La riammissione avviene a condizione che l'errata indicazione della data del titolo autorizzativo non abbia effettivamente portato all'impianto un vantaggio in relazione alla sua posizione in graduatoria. ((25))
 
+5.
+                        
+                            
+                                Entro sei mesi dalla data di entrata in vigore del presente decreto, il GSE fornisce al Ministero dello sviluppo economico gli elementi per la definizione di una disciplina organica dei controlli che, in conformita' ai principi di efficienza, efficacia e proporzionalita', stabilisca: 
+ 
+                            
+                            
+                                a)
+                                
+                                    le modalita' con le quali i gestori di rete forniscono supporto operativo al GSE per la verifica degli impianti di produzione di energia elettrica e per la certificazione delle misure elettriche necessarie al rilascio degli incentivi; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le procedure per lo svolgimento dei controlli sugli impianti di competenza del GSE; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    le violazioni rilevanti ai fini dell'erogazione degli incentivi in relazione a ciascuna fonte, tipologia di impianto e potenza nominale; 
+
+                                
+                            
+                            
+                                c-bis)
+                                
+                                    le violazioni che danno luogo a decurtazione dell'incentivo ai sensi dell'ultimo periodo del comma 3. 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    le modalita' con cui sono messe a disposizione delle autorita' pubbliche competenti all'erogazione di incentivi le informazioni relative ai soggetti esclusi ai sensi dell'articolo 23, comma 3; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    le modalita' con cui il GSE trasmette all'Autorita' per l'energia elettrica e il gas gli esiti delle istruttorie ai fini dell'applicazione delle sanzioni di cui al comma 3.
+
 Entro un mese dal ricevimento degli elementi di cui al comma 5, il Ministro dello sviluppo economico, con proprio decreto, definisce la disciplina dei controlli di cui al medesimo comma 5.
 
 L'Autorita' per l'energia elettrica e il gas definisce le modalita' con le quali gli eventuali costi connessi alle attivita' di controllo trovano copertura a valere sulle componenti tariffarie dell'energia elettrica e del gas, nonche' le modalita' con le quali gli importi derivanti dall'irrogazione delle sanzioni sono portati a riduzione degli oneri tariffari per l'incentivazione delle fonti rinnovabili.
@@ -484,6 +1771,52 @@ L'Autorita' per l'energia elettrica e il gas definisce le modalita' con le quali
 
 ## Art. 43. — Disposizioni specifiche per l'attuazione dell'articolo 2-sexies del decreto-legge 25 gennaio 2010, n. 3, convertito, con modificazioni, dalla legge 22 marzo 2010, n. 41
 
+1.
+                        
+                            
+                                Fatte salve le norme penali, qualora sia stato accertato che i lavori di installazione dell'impianto fotovoltaico non sono stati conclusi entro il 31 dicembre 2010, a seguito dell'esame della richiesta di incentivazione ai sensi del comma 1 dell'articolo 2-sexies del decreto-legge 25 gennaio 2010, n. 3, convertito, con modificazioni, dalla legge 22 marzo 2010, n. 41, e successive modificazioni, il GSE rigetta l'istanza di incentivo e dispone contestualmente l'esclusione dagli incentivi degli impianti che utilizzano anche in altri siti le componenti dell'impianto non ammesso all'incentivazione. Con lo stesso provvedimento il GSE dispone l'esclusione dalla concessione di incentivi per la produzione di energia elettrica di sua competenza, per un periodo di dieci anni dalla data dell'accertamento, della persona fisica o giuridica che ha presentato la richiesta, nonche' dei seguenti soggetti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il legale rappresentante che ha sottoscritto la richiesta; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il soggetto responsabile dell'impianto; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il direttore tecnico; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    i soci, se si tratta di societa' in nome collettivo; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    i soci accomandatari, se si tratta di societa' in accomandita semplice; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    gli amministratori con potere di rappresentanza, se si tratta di altro tipo di societa' o consorzio. ((11))
+
 Fatte salve piu' gravi ipotesi di reato, il proprietario dell'impianto di produzione e il soggetto responsabile dell'impianto che con dolo impiegano pannelli fotovoltaici le cui matricole sono alterate o contraffatte sono puniti con la reclusione da due a tre anni e con l'esclusione da qualsiasi incentivazione, sovvenzione o agevolazione pubblica per le fonti rinnovabili.
 
 -------------
@@ -492,6 +1825,24 @@ Fatte salve piu' gravi ipotesi di reato, il proprietario dell'impianto di produz
  La Corte Costituzionale, con sentenza	21 febbraio - 10 marzo 2017, n. 51 (in G.U. 1ª s.s. 15/03/2017, n. 11), ha dichiarato "l'illegittimita' costituzionale degli artt. 23, comma 3, e 43, comma 1, del decreto legislativo 3 marzo 2011, n. 28 (Attuazione della direttiva 2009/28/CE sulla promozione dell'uso dell'energia da fonti rinnovabili, recante modifica e successiva abrogazione delle direttive 2001/77/CE e 2003/30/CE)".
 
 ## Art. 44. — Sanzioni amministrative in materia di autorizzazione alla costruzione e all'esercizio
+
+1.
+                        
+                            
+                                Fatto salvo il ripristino dello stato dei luoghi, la costruzione e l'esercizio delle opere ed impianti in assenza dell'autorizzazione di cui all'articolo 5 e' assoggettata alla sanzione amministrativa pecuniaria da euro 1.000 a euro 150.000, cui sono tenuti in solido il proprietario dell'impianto, l'esecutore delle opere e il direttore dei lavori. L'entita' della sanzione e' determinata, con riferimento alla parte dell'impianto non autorizzata: 
+ 
+                            
+                            
+                                a)
+                                
+                                    nella misura da euro 40 a euro 240 per ogni chilowatt termico di potenza nominale, in caso di impianti termici di produzione di energia; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    nella misura da euro 60 a euro 360 per ogni chilowatt elettrico di potenza nominale, in caso di impianti non termici di produzione di energia;
 
 Fatto salvo il ripristino dello stato dei luoghi, l'esecuzione degli interventi di cui all'articolo 6 in assenza della procedura abilitativa semplificata o in difformita' da quanto nella stessa dichiarato, e' punita con la sanzione amministrativa pecuniaria da euro 500 a euro 30.000, cui sono tenuti in solido i soggetti di cui al comma 1.
 

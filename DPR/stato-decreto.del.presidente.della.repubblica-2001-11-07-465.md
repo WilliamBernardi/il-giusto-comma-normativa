@@ -8,8 +8,8 @@ codice_redazionale: 002G0003
 vigente: true
 source: normattiva-opendata
 collection: DPR
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:48:00Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -24,6 +24,24 @@ Acquisito il parere espresso dal Consiglio superiore di sanita' nella seduta del
 Sulla proposta del Ministro della salute, di concerto con il Ministro dell'economia e delle finanze;
 
 ## Art. 1. — Ambito della vaccinazione antitubercolare obbligatoria
+
+1.
+                    
+                        
+                            La vaccinazione antitubercolare e' obbligatoria per:
+ 
+                        
+                        
+                            a)
+                            
+                                neonati e bambini di eta' inferiore a 5 anni, con test tubercolinico negativo, conviventi o aventi contatti stretti con persone affette da tubercolosi in fase contagiosa, qualora persista il rischio di contagio;
+
+                            
+                        
+                        
+                            b)
+                            
+                                personale sanitario, studenti in medicina, allievi infermieri e chiunque, a qualunque titolo, con test tubercolinico negativo, operi in ambienti sanitari ad alto rischio di esposizione a ceppi multifarmacoresistenti oppure che operi in ambienti ad alto rischio e non possa, in caso di cuticonversione, essere sottoposto a terapia preventiva, perche' presenta controindicazioni cliniche all'uso di farmaci specifici.
 
 ## Art. 2. — Modalita' per l'accertamento tubercolinico
 

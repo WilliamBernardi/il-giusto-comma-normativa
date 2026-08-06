@@ -8,8 +8,8 @@ vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
 vigenza_date: 2025-12-18
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:32Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -33,10 +33,248 @@ Il presente decreto attua nell'ordinamento interno le disposizioni della diretti
 
 Il presente decreto si applica al trattamento interamente o parzialmente automatizzato di dati personali delle persone fisiche e al trattamento non automatizzato di dati personali delle persone fisiche contenuti in un archivio o ad esso destinati, svolti dalle autorita' competenti a fini di prevenzione, indagine, accertamento e perseguimento di reati, o esecuzione di sanzioni penali, incluse la salvaguardia contro e la prevenzione di minacce alla sicurezza pubblica.
 
+3.
+                        
+                            
+                                Il presente decreto non si applica ai trattamenti di dati personali: 
+ 
+                            
+                            
+                                a)
+                                
+                                    effettuati nello svolgimento di attivita' concernenti la sicurezza nazionale o rientranti nell'ambito di applicazione del titolo V, capo 2, del trattato sull'Unione europea e per tutte le attivita' che non rientrano nell'ambito di applicazione del diritto dell'Unione europea; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    effettuati da istituzioni, organi, uffici e agenzie dell'Unione europea.
+
 ## Art. 2. — Definizioni
+
+1.
+                        
+                            
+                                Ai fini del presente decreto, si applicano le seguenti definizioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    dati personali: qualsiasi informazione riguardante una persona fisica identificata o identificabile («interessato»); 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    trattamento: qualsiasi operazione o insieme di operazioni, compiute con o senza l'ausilio di processi automatizzati, applicate a dati personali o insiemi di dati personali, come la raccolta, la registrazione, l'organizzazione, la strutturazione, la conservazione, l'adattamento o la modifica, l'estrazione, la consultazione, l'uso, la comunicazione mediante trasmissione, diffusione o qualsiasi altra forma di messa a disposizione, il raffronto o l'interconnessione, la limitazione, la cancellazione o la distruzione; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    limitazione di trattamento: il contrassegno dei dati personali conservati con l'obiettivo di limitarne il trattamento in futuro; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    pseudonimizzazione: il trattamento dei dati personali in modo tale che i dati personali non possano piu' essere attribuiti a un interessato specifico senza l'utilizzo di informazioni aggiuntive, a condizione che tali informazioni aggiuntive siano conservate separatamente e soggette a misure tecniche e organizzative intese a garantire che i dati personali non siano attribuiti a una persona fisica identificata o identificabile; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    profilazione: qualsiasi forma di trattamento automatizzato di dati personali consistente nell'utilizzo di tali dati per valutare determinati aspetti personali relativi a una persona fisica, in particolare per analizzare o prevedere aspetti riguardanti il rendimento professionale, la situazione economica, la salute, le preferenze personali, gli interessi, l'affidabilita', il comportamento, l'ubicazione o gli spostamenti di detta persona fisica; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    archivio: qualsiasi insieme strutturato di dati personali accessibili secondo criteri determinati, indipendentemente dal fatto che tale insieme sia centralizzato, decentralizzato o ripartito in modo funzionale o geografico; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    autorita' competente: 
+ 1) qualsiasi autorita' pubblica dello Stato, di uno Stato membro dell'Unione europea o di uno Stato terzo competente in materia di prevenzione, indagine, accertamento e perseguimento di reati o esecuzione di sanzioni penali, incluse la salvaguardia contro e la prevenzione di minacce alla sicurezza pubblica; 
+ 2) qualsiasi altro organismo o entita' incaricato dagli ordinamenti interni di esercitare l'autorita' pubblica e i poteri pubblici a fini di prevenzione, indagine, accertamento e perseguimento di reati o esecuzione di sanzioni penali, incluse la salvaguardia e la prevenzione di minacce alla sicurezza pubblica; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    titolare del trattamento: l'autorita' competente che, singolarmente o insieme ad altri, determina le finalita' e i mezzi del trattamento di dati personali; quando le finalita' e i mezzi di tale trattamento sono determinati dal diritto dell'Unione europea o dello Stato, il titolare del trattamento o i criteri specifici applicabili alla sua nomina possono essere previsti dal diritto dell'Unione europea o dello Stato; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    responsabile del trattamento: la persona fisica o giuridica, l'autorita' pubblica, il servizio o altro organismo che tratta dati personali per conto del titolare del trattamento; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    destinatario: la persona fisica o giuridica, l'autorita' pubblica, il servizio o un altro organismo che riceve comunicazione di dati personali, che si tratti o meno di terzi. Tuttavia, le autorita' pubbliche che possono ricevere comunicazione di dati personali nell'ambito di una specifica indagine conformemente al diritto dell'Unione europea o dello Stato non sono considerate destinatari; il trattamento di tali dati da parte di tali autorita' pubbliche e' conforme alle norme in materia di protezione dei dati applicabili secondo le finalita' del trattamento; 
+
+                                
+                            
+                            
+                                m)
+                                
+                                    violazione dei dati personali: la violazione della sicurezza che comporta accidentalmente o in modo illecito la distruzione, la perdita, la modifica, la divulgazione non autorizzata o l'accesso ai dati personali trasmessi, conservati o comunque trattati; 
+
+                                
+                            
+                            
+                                n)
+                                
+                                    dati genetici: i dati personali relativi alle caratteristiche genetiche ereditarie o acquisite di una persona fisica, che forniscono informazioni univoche sulla fisiologia o sulla salute di detta persona fisica e che risultano in particolare dall'analisi di un campione biologico della persona fisica in questione; 
+
+                                
+                            
+                            
+                                o)
+                                
+                                    dati biometrici: i dati personali ottenuti da un trattamento tecnico specifico relativi alle caratteristiche fisiche, fisiologiche o comportamentali di una persona fisica che ne consentono o confermano l'identificazione univoca, quali l'immagine facciale o i dati dattiloscopici; 
+
+                                
+                            
+                            
+                                p)
+                                
+                                    dati relativi alla salute: i dati personali attinenti alla salute fisica o mentale di una persona fisica, compresa la prestazione di servizi di assistenza sanitaria, che rivelano informazioni relative al suo stato di salute; 
+
+                                
+                            
+                            
+                                q)
+                                
+                                    file di log: registro degli accessi e delle operazioni; 
+
+                                
+                            
+                            
+                                r)
+                                
+                                    autorita' di controllo: l'autorita' pubblica indipendente istituita negli Stati membri ai sensi dell'articolo 41 della direttiva; 
+
+                                
+                            
+                            
+                                s)
+                                
+                                    il Garante: autorita' di controllo nell'ordinamento interno, individuata nel Garante per la protezione dei dati personali, istituito dal decreto legislativo 30 giugno 2003, n. 196; 
+
+                                
+                            
+                            
+                                t)
+                                
+                                    organizzazione internazionale: un'organizzazione e gli organismi di diritto internazionale pubblico a essa subordinati o qualsiasi altro organismo istituito da o sulla base di un accordo tra due o piu' Stati; 
+
+                                
+                            
+                            
+                                u)
+                                
+                                    Codice: Codice in materia di protezione dei dati personali, adottato con il decreto legislativo 30 giugno 2003, n. 196; 
+
+                                
+                            
+                            
+                                v)
+                                
+                                    Stato membro: Stato membro dell'Unione europea; 
+
+                                
+                            
+                            
+                                z)
+                                
+                                    Paese terzo: Stato non membro dell'Unione europea; 
+
+                                
+                            
+                            
+                                aa)
+                                
+                                    direttiva: la direttiva (UE) 2016/680 del Parlamento europeo e del Consiglio del 27 aprile 2016; 
+
+                                
+                            
+                            
+                                bb)
+                                
+                                    regolamento UE: il regolamento (UE) 2016/679 del Parlamento europeo e del Consiglio del 27 aprile 2016; 
+
+                                
+                            
+                            
+                                cc)
+                                
+                                    Forze di polizia: le Forze di polizia di cui all'articolo 16 della legge 1° aprile 1981, n. 121.
 
 ## Art. 3. — Principi applicabili 
  al trattamento di dati personali
+
+1.
+                        
+                            
+                                I dati personali di cui all'articolo 1, comma 2, sono: 
+ 
+                            
+                            
+                                a)
+                                
+                                    trattati in modo lecito e corretto; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    raccolti per finalita' determinate, espresse e legittime e trattati in modo compatibile con tali finalita'; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    adeguati, pertinenti e non eccedenti rispetto alle finalita' per le quali sono trattati; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    esatti e, se necessario, aggiornati; devono essere adottate tutte le misure ragionevoli per cancellare o rettificare tempestivamente i dati inesatti rispetto alle finalita' per le quali sono trattati; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    conservati con modalita' che consentano l'identificazione degli interessati per il tempo necessario al conseguimento delle finalita' per le quali sono trattati, sottoposti a esame periodico per verificarne la persistente necessita' di conservazione, cancellati o anonimizzati una volta decorso tale termine; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    trattati in modo da garantire un'adeguata sicurezza e protezione da trattamenti non autorizzati o illeciti e dalla perdita, dalla distruzione o dal danno accidentali, mediante l'adozione di misure tecniche e organizzative adeguate.
 
 Il trattamento per una delle finalita' di cui all'articolo 1, comma 2, diversa da quella per cui i dati sono raccolti, e' consentito se il titolare del trattamento, anche se diverso da quello che ha raccolto i dati, e' autorizzato a trattarli per detta finalita', conformemente al diritto dell'Unione europea o dell'ordinamento interno e se il trattamento e' necessario e proporzionato a tale diversa finalita', conformemente al diritto dell'Unione europea o dell'ordinamento interno.
 
@@ -116,7 +354,131 @@ Fermo quanto previsto dall'articolo 5, comma 1, con decreto adottato dal Ministr
 ## Art. 10. — Informazioni da rendere disponibili 
  o da fornire all'interessato
 
+1.
+                        
+                            
+                                Il titolare del trattamento mette a disposizione dell'interessato, anche sul proprio sito internet, le seguenti informazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    l'identita' e i dati di contatto del titolare del trattamento; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    i dati di contatto del responsabile della protezione dei dati, se previsto; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    le finalita' del trattamento cui sono destinati i dati personali; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    la sussistenza del diritto di proporre reclamo al Garante e i relativi dati di contatto; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    la sussistenza del diritto di chiedere al titolare del trattamento l'accesso ai dati e la rettifica o la cancellazione dei dati personali e la limitazione del trattamento dei dati personali che lo riguardano.
+
+2.
+                        
+                            
+                                In aggiunta alle informazioni di cui al comma 1, il titolare del trattamento, quando previsto da disposizioni di legge o di regolamento, fornisce all'interessato le seguenti ulteriori informazioni, funzionali all'esercizio dei propri diritti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il titolo giuridico del trattamento; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il periodo di conservazione dei dati personali o, se non e' possibile, i criteri per determinare tale periodo; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    le categorie di destinatari dei dati personali, anche in Paesi terzi o in seno a organizzazioni internazionali; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    le ulteriori informazioni ritenute utili all'esercizio dei diritti, in particolare nel caso in cui i dati personali siano stati raccolti all'insaputa dell'interessato.
+
 ## Art. 11. — Diritto di accesso dell'interessato
+
+1.
+                        
+                            
+                                L'interessato ha il diritto di ottenere dal titolare del trattamento conferma dell'esistenza di un trattamento in corso di dati personali che lo riguardano e, in tal caso, l'accesso ai dati e alle seguenti informazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    le finalita' e il titolo giuridico del trattamento; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le categorie di dati personali trattati; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    i destinatari o le categorie di destinatari a cui i dati personali sono stati comunicati; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    il periodo di conservazione dei dati personali o, se non e' possibile, i criteri per determinare tale periodo; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    il diritto di chiedere al titolare del trattamento la rettifica o la cancellazione dei dati personali o la limitazione del trattamento dei dati personali che lo riguardano; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    il diritto di proporre reclamo al Garante, con i relativi dati di contatto; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    la comunicazione dei dati personali oggetto del trattamento e di tutte le informazioni disponibili sulla loro origine.
 
 Nei casi di cui all'articolo 14, comma 2, il titolare del trattamento informa l'interessato, senza ingiustificato ritardo e per iscritto, di ogni rifiuto o limitazione dell'accesso e dei relativi motivi, nonche' del diritto di proporre reclamo dinanzi al Garante o di proporre ricorso giurisdizionale.
 
@@ -150,6 +512,38 @@ Nei casi di cui al comma 1, il Garante informa l'interessato di aver eseguito tu
 
 I diritti di cui agli articoli 10, 11 e 12, relativamente ai dati personali contenuti in una decisione giudiziaria, in atti o documenti oggetto di trattamento nel corso di accertamenti o indagini, nel casellario giudiziale o in un fascicolo oggetto di trattamento nel corso di un procedimento penale o in fase di esecuzione penale, sono esercitati conformemente a quanto previsto dalle disposizioni di legge o di regolamento che disciplinano tali atti e procedimenti. Chiunque vi abbia interesse, durante il procedimento penale o dopo la sua definizione, puo' chiedere, con le modalita' di cui all'articolo 116 del codice di procedura penale, la rettifica, la cancellazione o la limitazione dei dati personali che lo riguardano. Il giudice provvede con le forme dell'articolo 130 del codice di procedura penale.
 
+2.
+                        
+                            
+                                Fermo quanto previsto dal comma 1, l'esercizio dei diritti di cui agli articoli 11, commi 1 e 2, e 12, comma 5, nonche' l'adempimento dell'obbligo di cui all'articolo 10, comma 2, possono essere ritardati, limitati o esclusi, con disposizione di legge ((...)), nella misura e per il tempo in cui cio' costituisca una misura necessaria e proporzionata, tenuto conto dei diritti fondamentali e dei legittimi interessi della persona fisica interessata al fine di: 
+ 
+                            
+                            
+                                a)
+                                
+                                    non compromettere il buon esito dell'attivita' di prevenzione, indagine, accertamento e perseguimento di reati o l'esecuzione di sanzioni penali, nonche' l'applicazione delle misure di prevenzione personali e patrimoniali e delle misure di sicurezza; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    tutelare la sicurezza pubblica; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    tutelare la sicurezza nazionale; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    tutelare i diritti e le liberta' altrui.
+
 ## - Capo III Titolare del trattamento e responsabile del trattamento   Sezione I   Obblighi generali
 
 ## Art. 15. — Obblighi del titolare del trattamento
@@ -179,6 +573,52 @@ Qualora un trattamento debba essere effettuato per conto del titolare del tratta
 
 Il responsabile del trattamento non puo' ricorrere a un altro responsabile senza preventiva autorizzazione scritta del titolare del trattamento.
 
+3.
+                        
+                            
+                                L'esecuzione dei trattamenti da parte di un responsabile del trattamento e' disciplinata da un contratto o da altro atto giuridico che prevede l'oggetto, la durata, la natura e la finalita' del trattamento, il tipo di dati personali e le categorie di interessati, gli obblighi e i diritti del titolare del trattamento. Tale contratto o diverso atto giuridico prevede anche che il responsabile del trattamento: 
+ 
+                            
+                            
+                                a)
+                                
+                                    agisca soltanto su istruzione del titolare del trattamento; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    garantisca che le persone autorizzate al trattamento dei dati personali si siano impegnate alla riservatezza o abbiano un adeguato obbligo legale di riservatezza; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    assista il titolare del trattamento con ogni mezzo adeguato per garantire il rispetto delle disposizioni relative ai diritti dell'interessato; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    su scelta del titolare del trattamento, cancelli o gli restituisca tutti i dati personali dopo che e' terminata la prestazione dei servizi di trattamento di dati e cancelli le copie esistenti, salvo che il diritto dell'Unione europea o la legge preveda la conservazione dei dati personali; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    metta a disposizione del titolare del trattamento tutte le informazioni necessarie per dimostrare il rispetto delle condizioni di cui al presente articolo; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    rispetti le condizioni di cui ai commi 2 e 3 nel caso di ricorso ad altro responsabile del trattamento.
+
 Il contratto o il diverso atto di cui al comma 3 e' stipulato per iscritto, anche in formato elettronico.
 
 Se un responsabile del trattamento determina, in violazione del presente decreto, le finalita' e i mezzi del trattamento, e' considerato titolare del trattamento.
@@ -193,6 +633,105 @@ Il responsabile del trattamento o chiunque agisca sotto la sua autorita' o sotto
 ## Art. 20.
 
 Registri delle attivita' di trattamento
+
+1.
+                        
+                            
+                                I titolari del trattamento tengono un registro di tutte le categorie di attivita' di trattamento sotto la propria responsabilita'. Tale registro contiene le seguenti informazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il nome e i dati di contatto del titolare del trattamento e, se previsti, di ogni contitolare del trattamento e del responsabile della protezione dei dati; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le finalita' del trattamento; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    le categorie di destinatari a cui i dati personali sono stati o saranno comunicati, compresi i destinatari di paesi terzi o presso organizzazioni internazionali; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    una descrizione delle categorie di interessati e delle categorie di dati personali; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    se previsto, il ricorso alla profilazione; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    se previste, le categorie di trasferimenti di dati personali verso un Paese terzo o verso organizzazioni internazionali; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    un'indicazione del titolo giuridico del trattamento cui sono destinati i dati personali, anche in caso di trasferimento; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    ove possibile, i termini ultimi previsti per la cancellazione delle diverse categorie di dati personali; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    ove possibile, una descrizione generale delle misure di sicurezza tecniche e organizzative di cui all'articolo 25, comma 1.
+
+2.
+                        
+                            
+                                I responsabili del trattamento tengono un registro di tutte le categorie di attivita' di trattamento svolte per conto di un titolare del trattamento, contenente le seguenti informazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il nome e i dati di contatto del responsabile o dei responsabili del trattamento, di ogni titolare del trattamento per conto del quale agiscono e, se esistente, del responsabile della protezione dei dati; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le categorie dei trattamenti effettuati per conto di ogni titolare del trattamento; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    i trasferimenti di dati personali effettuati su istruzione del titolare del trattamento verso un Paese terzo o verso un'organizzazione internazionale; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    ove possibile, una descrizione generale delle misure di sicurezza tecniche e organizzative di cui all'articolo 25, comma 1.
 
 I registri di cui ai commi 1 e 2 sono tenuti in forma scritta, anche in formato elettronico. Su richiesta, il titolare del trattamento e il responsabile del trattamento mettono tali registri a disposizione del Garante.
 
@@ -219,6 +758,24 @@ La valutazione di cui al comma 1 contiene una descrizione generale dei trattamen
 
 ## Art. 24. — Consultazione preventiva del Garante
 
+1.
+                        
+                            
+                                Salvo quanto previsto dall'articolo 37, comma 6, il titolare del trattamento o il responsabile del trattamento consultano il Garante prima del trattamento di dati personali che figureranno in un nuovo archivio di prossima creazione se: 
+ 
+                            
+                            
+                                a)
+                                
+                                    una valutazione d'impatto sulla protezione dei dati di cui all'articolo 23 indica che il trattamento presenterebbe un rischio elevato in assenza di misure adottate dal titolare del trattamento per attenuare il rischio; oppure 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il tipo di trattamento presenta un rischio elevato per i diritti e le liberta' degli interessati anche in ragione dell'utilizzo di tecnologie, procedure o meccanismi nuovi ovvero di dati genetici o biometrici.
+
 Il Garante e' consultato nel corso dell'esame di un progetto di legge o di uno schema di decreto legislativo ovvero di uno schema di regolamento o decreto non avente carattere regolamentare, suscettibile di rilevare ai fini della garanzia del diritto alla protezione dei dati personali.
 
 Il Garante puo' stabilire un elenco di trattamenti soggetti a consultazione preventiva ai sensi del comma 1.
@@ -234,6 +791,80 @@ Il termine di cui al comma 5 puo' essere prorogato di un mese nel caso di tratta
 ## Art. 25. — Sicurezza del trattamento
 
 Il titolare del trattamento e il responsabile del trattamento, tenuto conto delle cognizioni tecniche disponibili, dei costi di attuazione, della natura, dell'oggetto, del contesto e delle finalita' del trattamento, nonche' del grado di rischio per i diritti e le liberta' delle persone fisiche, mettono in atto misure tecniche e organizzative che garantiscano un livello di sicurezza adeguato al rischio di violazione dei dati.
+
+2.
+                        
+                            
+                                Per il trattamento automatizzato il titolare o il responsabile del trattamento, previa valutazione dei rischi, adottano misure volte a: 
+ 
+                            
+                            
+                                a)
+                                
+                                    vietare alle persone non autorizzate l'accesso alle attrezzature utilizzate per il trattamento («controllo dell'accesso alle attrezzature»); 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    impedire che supporti di dati possano essere letti, copiati, modificati o asportati da persone non autorizzate («controllo dei supporti di dati»); 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    impedire che i dati personali siano inseriti senza autorizzazione e che i dati personali conservati siano visionati, modificati o cancellati senza autorizzazione («controllo della conservazione»); 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    impedire che persone non autorizzate utilizzino sistemi di trattamento automatizzato mediante attrezzature per la trasmissione di dati («controllo dell'utente»); 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    garantire che le persone autorizzate a usare un sistema di trattamento automatizzato abbiano accesso solo ai dati personali cui si riferisce la loro autorizzazione d'accesso («controllo dell'accesso ai dati»); 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    garantire la possibilita' di individuare i soggetti ai quali siano stati o possano essere trasmessi o resi disponibili i dati personali utilizzando attrezzature per la trasmissione di dati («controllo della trasmissione»); 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    garantire la possibilita' di verificare e accertare a posteriori quali dati personali sono stati introdotti nei sistemi di trattamento automatizzato, il momento della loro introduzione e la persona che l'ha effettuata («controllo dell'introduzione»); 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    impedire che i dati personali possano essere letti, copiati, modificati o cancellati in modo non autorizzato durante i trasferimenti di dati personali o il trasporto di supporti di dati («controllo del trasporto»); 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    garantire che, in caso di interruzione, i sistemi utilizzati possano essere ripristinati («recupero»); 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    garantire che le funzioni del sistema siano operative, che eventuali errori di funzionamento siano segnalati («affidabilita'») e che i dati personali conservati non possano essere falsati da un errore di funzionamento del sistema («integrita'»).
 
 ## Art. 26. — Notifica al Garante 
  di una violazione di dati personali
@@ -272,10 +903,88 @@ Il titolare del trattamento coadiuva il responsabile della protezione dei dati n
 ## Art. 30. — Compiti del responsabile 
  della protezione dei dati
 
+1.
+                        
+                            
+                                Il titolare del trattamento conferisce al responsabile della protezione dei dati almeno i seguenti compiti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    informare il titolare del trattamento e i dipendenti che effettuano il trattamento degli obblighi derivanti dal presente decreto nonche' da altre disposizioni dell'Unione europea o dello Stato relative alla protezione dei dati; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    vigilare sull'osservanza del presente decreto e di altre disposizioni dell'Unione europea o dello Stato relative alla protezione dei dati nonche' delle previsioni di programma del titolare del trattamento in materia di protezione dei dati personali, compresi l'attribuzione delle responsabilita', la sensibilizzazione e la formazione del personale che partecipa ai trattamenti e alle connesse attivita' di controllo; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    fornire, se richiesto, un parere in merito alla valutazione d'impatto sulla protezione dei dati e sorvegliarne lo svolgimento ai sensi dell'articolo 23; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    cooperare con il Garante; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    fungere da punto di contatto per il Garante per questioni connesse al trattamento, tra cui la consultazione preventiva di cui all'articolo 24, ed effettuare, ove necessario, consultazioni relativamente a qualunque altra questione.
+
 ## - Capo IV Trasferimento di dati personali verso paesi terzi o organizzazioni  internazionali
 
 ## Art. 31. — Principi generali in materia 
  di trasferimento di dati personali
+
+1.
+                        
+                            
+                                Il trasferimento di dati personali oggetto di un trattamento o destinati a essere oggetto di un trattamento dopo il trasferimento verso un Paese terzo o un'organizzazione internazionale, compresi trasferimenti successivi verso un altro Paese terzo o un'altra organizzazione internazionale e' consentito se: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il trasferimento e' necessario per le finalita' di cui all'articolo 1, comma 2; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    i dati personali sono trasferiti al titolare del trattamento in un Paese terzo o a un'organizzazione internazionale che sia un'autorita' competente per le finalita' di cui all'articolo 1, comma 2; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    qualora i dati personali siano trasmessi o resi disponibili da uno Stato membro, tale Stato ha fornito la propria autorizzazione preliminare al trasferimento conformemente al proprio diritto nazionale; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    la Commissione europea ha adottato una decisione di adeguatezza, a norma dell'articolo 32 o, in mancanza, sono state fornite o esistono garanzie adeguate ai sensi dell'articolo 33; in assenza di una decisione di adeguatezza e di garanzie adeguate, si applicano deroghe per situazioni specifiche ai sensi dell'articolo 34; e 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    in caso di trasferimento successivo a un altro Paese terzo o a un'altra organizzazione internazionale, l'autorita' competente che ha effettuato il trasferimento originario o un'altra autorita' competente dello stesso Stato membro autorizza il trasferimento successivo dopo avere valutato tutti i fattori pertinenti, tra cui la gravita' del reato, la finalita' per la quale i dati personali sono stati trasferiti e il livello di protezione dei dati personali previsto nel Paese terzo o nell'organizzazione internazionale verso i quali i dati personali sono successivamente trasferiti.
 
 In assenza dell'autorizzazione preliminare di un altro Stato membro di cui al comma 1, lettera c), il trasferimento di dati personali e' consentito solo se necessario per prevenire una minaccia grave e immediata alla sicurezza pubblica di uno Stato membro o di un Paese terzo o agli interessi vitali di uno Stato membro e l'autorizzazione preliminare non puo' essere ottenuta tempestivamente. L'autorita' competente a rilasciare l'autorizzazione preliminare e' informata senza ritardo.
 
@@ -286,9 +995,66 @@ Il trasferimento di dati personali verso un Paese terzo o un'organizzazione inte
 
 ## Art. 33. — Trasferimenti soggetti a garanzie adeguate
 
+1.
+                        
+                            
+                                In mancanza o in caso di revoca, modifica o sospensione di una decisione di adeguatezza di cui all'articolo 32, il trasferimento di dati personali verso un Paese terzo o un'organizzazione internazionale e' consentito se: 
+ 
+                            
+                            
+                                a)
+                                
+                                    sono fornite garanzie adeguate per la protezione dei dati personali attraverso uno strumento giuridicamente vincolante; o 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il titolare del trattamento, valutate tutte le circostanze relative allo specifico trasferimento, ritiene che sussistano garanzie adeguate per la protezione dei dati personali.
+
 Il titolare del trattamento informa il Garante dei trasferimenti effettuati ai sensi del comma 1, lettera b), e ne conserva documentazione che, su richiesta, mette a disposizione del Garante, con l'indicazione della data e dell'ora del trasferimento, dell'autorita' competente ricevente, della motivazione del trasferimento e dei dati personali trasferiti.
 
 ## Art. 34. — Deroghe in situazioni specifiche
+
+1.
+                        
+                            
+                                In mancanza o in caso di revoca, modifica o sospensione di una decisione di adeguatezza ai sensi dell'articolo 32 o di garanzie adeguate di cui all'articolo 33, il trasferimento o una categoria di trasferimenti di dati personali verso un Paese terzo o un'organizzazione internazionale sono consentiti se necessari per una delle seguenti finalita': 
+ 
+                            
+                            
+                                a)
+                                
+                                    per tutelare un interesse vitale dell'interessato o di un'altra persona; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    per salvaguardare i legittimi interessi dell'interessato quando lo preveda il diritto dello Stato membro che trasferisce i dati personali; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    per prevenire una minaccia grave e immediata alla sicurezza pubblica di uno Stato membro o di un Paese terzo; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    in singoli casi, per le finalita' di cui all'articolo 1, comma 2; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    in singoli casi, per accertare, esercitare o difendere un diritto in sede giudiziaria in relazione alle finalita' di cui all'articolo 1, comma 2.
 
 Nei casi di cui al comma 1, lettere d) ed e), i dati personali non sono trasferiti se l'autorita' competente che effettua il trasferimento valuta i diritti e le liberta' fondamentali dell'interessato prevalenti rispetto all'interesse pubblico al trasferimento.
 
@@ -296,6 +1062,45 @@ Il trasferimento effettuato ai sensi del comma 1 deve essere documentato e, su r
 
 ## Art. 35. — Trasferimenti di dati personali 
  a destinatari stabiliti in Paesi terzi
+
+1.
+                        
+                            
+                                In deroga a quanto previsto dall'articolo 31, comma 1, lettera b), e fatti salvi eventuali accordi internazionali di cui al comma 2, le autorita' competenti di cui all'articolo 2, comma 1, lettera g), numero 1), possono, in singoli e specifici casi previsti da norme di legge o di regolamento o dal diritto dell'Unione europea, trasferire dati personali direttamente a destinatari stabiliti in Paesi terzi se: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il trasferimento e' strettamente necessario per l'assolvimento di un compito previsto dal diritto dell'Unione europea o dall'ordinamento interno, per le finalita' di cui all'articolo 1, comma 2; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'autorita' competente che effettua il trasferimento valuta che i diritti e le liberta' fondamentali dell'interessato non prevalgono sull'interesse pubblico che rende necessario il trasferimento; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    l'autorita' competente che effettua il trasferimento ritiene che il trasferimento a un'autorita' per le finalita' di cui all'articolo 1, comma 2, nel Paese terzo sia inefficace o inidoneo, in particolare in quanto non puo' essere effettuato tempestivamente; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    l'autorita' competente ai fini di cui all'articolo 1, comma 2, nel Paese terzo e' informata senza ingiustificato ritardo, salvo che cio' pregiudichi la finalita' per cui il trasferimento e' effettuato; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    l'autorita' competente che effettua il trasferimento informa il destinatario della finalita' specifica o delle finalita' specifiche per le quali i dati personali devono essere trattati, a condizione che tale trattamento sia necessario.
 
 Per accordo internazionale di cui al comma 1 si intende qualsiasi accordo internazionale bilaterale o multilaterale in vigore tra gli Stati membri e Paesi terzi nel settore della cooperazione giudiziaria in materia penale e della cooperazione di polizia.
 
@@ -316,6 +1121,147 @@ Restano in vigore, fino alla loro modifica, sostituzione o revoca, gli accordi i
 Autorita' di controllo
 
 Il Garante e' l'autorita' di controllo incaricata di vigilare sull'applicazione delle norme di cui al presente decreto, al fine di tutelare i diritti e le liberta' fondamentali delle persone fisiche con riguardo al trattamento di dati personali e di agevolare la libera circolazione dei dati all'interno dell'Unione europea.
+
+2.
+                        
+                            
+                                Ai fini di cui al comma 1 sono attribuite al Garante le funzioni di cui all'articolo 154 del Codice, nonche' le seguenti: ((1))
+                                
+                            
+                            
+                                a)
+                                
+                                    promozione di una diffusa conoscenza e della consapevolezza circa i rischi, le norme, le garanzie e i diritti in relazione al trattamento; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    promozione della consapevolezza in capo ai titolari e responsabili del trattamento dell'importanza degli obblighi previsti dal presente decreto; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    espressione di pareri nei casi previsti dalla legge; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    rilascio, su richiesta dell'interessato, di informazioni in merito all'esercizio dei diritti previsti dal presente decreto e, se del caso, cooperazione, a tal fine, con le autorita' di controllo di altri Stati membri; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    trattazione dei reclami proposti da un interessato, da un organismo, un'organizzazione o un'associazione ai sensi dell'articolo 40 e compimento delle indagini sull'oggetto del reclamo, informando il reclamante dello stato e dell'esito delle indagini entro un termine ragionevole, in particolare ove siano necessarie ulteriori indagini o un coordinamento con un'altra autorita' di controllo; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    supporto agli interessati nella proposizione dei reclami; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    accertamento della liceita' del trattamento ai sensi dell'articolo 13 e informazione all'interessato entro un termine ragionevole dell'esito della verifica ai sensi del comma 3 di detto articolo, o dei motivi per cui non e' stata effettuata; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    collaborazione, anche tramite scambi di informazioni, con le altre autorita' di controllo e attivita' di assistenza reciproca, al fine di garantire l'applicazione e l'attuazione del presente decreto; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    verifica degli sviluppi tecnologici e sociali che presentano un interesse, se ed in quanto incidenti sulla protezione dei dati personali, in particolare l'evoluzione delle tecnologie dell'informazione e della comunicazione; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    prestazione di consulenza in merito ai trattamenti di cui all'articolo 24; 
+
+                                
+                            
+                            
+                                m)
+                                
+                                    contribuzione alle attivita' del comitato di cui all'articolo 68 del regolamento UE;
+
+3.
+                        
+                            
+                                Ai fini di cui al comma 1 sono attribuiti al Garante i seguenti poteri: 
+ 
+                            
+                            
+                                a)
+                                
+                                    svolgere indagini sull'applicazione del presente decreto, anche sulla base di informazioni ricevute da un'altra autorita' di controllo o da un'altra autorita' pubblica. Lo svolgimento delle indagini e' disciplinato dalle disposizioni del Codice; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    ottenere, dal titolare del trattamento e dal responsabile del trattamento, l'accesso a tutti i dati personali oggetto del trattamento e a tutte le informazioni necessarie per l'adempimento dei suoi compiti; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    rivolgere avvertimenti al titolare del trattamento o al responsabile del trattamento in ordine alle possibili violazioni delle norme del presente decreto; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    ingiungere al titolare del trattamento o al responsabile del trattamento di conformare i trattamenti alle disposizioni del presente decreto, se del caso, con specifiche modalita' ed entro un determinato termine, ordinando in particolare la rettifica o la cancellazione di dati personali o la limitazione del trattamento ai sensi dell'articolo 12; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    imporre una limitazione provvisoria o definitiva al trattamento, incluso il divieto e il blocco dello stesso; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    promuovere la segnalazione riservata di violazioni del presente decreto; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    denunciare i reati dei quali viene a conoscenza nell'esercizio o a causa delle funzioni; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    predisporre annualmente una relazione sull'attivita' svolta, da trasmettere al Parlamento e al Governo, ai sensi dell'articolo 154, comma 1, del Codice e da mettere a disposizione del pubblico, della Commissione europea e del comitato di cui all'articolo 68 del regolamento UE, in cui puo' figurare un elenco delle tipologie di violazioni notificate e di sanzioni imposte.
 
 I poteri di cui al comma 3 sono esercitati nei modi, nelle forme e con le garanzie previste dalla legge.
 

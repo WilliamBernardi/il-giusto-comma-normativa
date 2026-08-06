@@ -7,8 +7,8 @@ urn: urn:nir:ministero.economia.e.finanze:decreto:2015-12-23;228
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:40Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -42,6 +42,52 @@ Udito il parere del Consiglio di Stato, espresso dalla sezione consultiva per gl
 
 ## Art. 1. — Definizioni
 
+1.
+                    
+                        
+                            Nel presente regolamento si intendono per: 
+ 
+                        
+                        
+                            a)
+                            
+                                "t.u.b.": il decreto legislativo 1° settembre 1993, n. 385, recante il Testo unico delle leggi in materia bancaria e creditizia; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                "Organismo": l'Organismo per la tenuta dell'elenco dei confidi istituito dall'articolo 112-bis, comma 1, t.u.b.; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                "organi": l'Organo di gestione, l'Organo di controllo e, ove previsto dallo Statuto, il Direttore generale dell'Organismo; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                "confidi": i consorzi con attivita' esterna, nonche' quelli di garanzia collettiva dei fidi tra liberi professionisti, le societa' cooperative, le societa' consortili per azioni, a responsabilita' limitata o cooperative che svolgono l'attivita' di garanzia collettiva dei fidi; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                "confidi di secondo grado": i consorzi con attivita' esterna, nonche' quelli di garanzia collettiva dei fidi tra liberi professionisti, le societa' cooperative, le societa' consortili per azioni, a responsabilita' limitata o cooperative, costituiti dai confidi ed eventualmente da imprese consorziate o socie di questi ultimi o da altre imprese, che svolgono l'attivita' di garanzia collettiva dei fidi a favore dei confidi e delle imprese a essi aderenti e delle imprese consorziate o socie di questi ultimi; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                "attivita' di garanzia collettiva dei fidi": l'utilizzazione di risorse provenienti in tutto o in parte dalle imprese consorziate o socie per la prestazione mutualistica e imprenditoriale di garanzie volte a favorire il finanziamento da parte delle banche e degli altri soggetti operanti nel settore finanziario.
+
 ## - Titolo I STRUTTURA DELL'ORGANISMO, CRITERI PER LA NOMINA DEGLI ORGANI E REQUISITI DI ONORABILITÀ, PROFESSIONALITÀ E INDIPENDENZA
 
 ## Art. 2.
@@ -60,6 +106,32 @@ Lo statuto puo' prevedere la presenza di un Direttore generale, definendone le m
 
 Requisiti di professionalita' e indipendenza
 
+1.
+                        
+                            
+                                I componenti dell'Organo di gestione e il Direttore generale sono scelti tra: 
+ 
+                            
+                            
+                                a)
+                                
+                                    docenti universitari in discipline giuridiche o economiche; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    professionisti iscritti ad albi professionali nelle materie indicate alla lettera a) con anzianita' di iscrizione di almeno 12 anni; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    altri soggetti in possesso di una significativa e comprovata competenza maturata attraverso l'esercizio per almeno un triennio di:
+i) attivita' di amministrazione o di controllo ovvero compiti direttivi presso imprese o associazioni di categoria; ii) funzioni dirigenziali presso enti pubblici o pubbliche amministrazioni.
+
 I componenti degli Organi e il Direttore generale non possono ricoprire cariche di amministrazione, direzione o controllo, detenere partecipazioni di controllo ovvero svolgere attivita' di lavoro subordinato o autonomo presso soggetti iscritti nell'elenco, nonche' presso federazioni, associazioni od altri enti di rappresentanza dei confidi espressione delle Organizzazioni nazionali di impresa.
 
 Non possono essere nominati componenti degli Organi ne' Direttore generale coloro che hanno rapporti di coniugio, parentela entro il terzo grado, affinita' entro il secondo grado, con soggetti che si trovino nelle condizioni di cui al comma 2.
@@ -72,9 +144,70 @@ Lo statuto dell'Organismo puo' individuare ulteriori requisiti di professionalit
 
 Requisiti di onorabilita'
 
+1.
+                        
+                            
+                                Non possono essere nominati negli Organi coloro che: 
+ 
+                            
+                            
+                                a)
+                                
+                                    si trovano in una delle condizioni di ineleggibilita' o decadenza previste dall'articolo 2382 del codice civile; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    sono stati sottoposti a misure di prevenzione disposte dall'autorita' giudiziaria ai sensi del decreto legislativo del 6 settembre 2011, n. 159, salvi gli effetti della riabilitazione; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    sono stati condannati con sentenza definitiva, salvi gli effetti della riabilitazione: 
+ i. a pena detentiva per uno dei reati previsti dalle norme che disciplinano l'attivita' bancaria, finanziaria, mobiliare, assicurativa e dalle norme in materia di mercati, valori mobiliari e di strumenti di pagamento; 
+ ii. alla reclusione per uno dei delitti previsti nel titolo XI del libro V del codice civile e nel regio decreto del 16 marzo 1942, n. 267; 
+ iii. alla reclusione per un tempo non inferiore ad un anno per un delitto contro la pubblica amministrazione, contro la fede pubblica, contro il patrimonio, contro l'ordine pubblico, contro l'economia pubblica ovvero per un delitto in materia tributaria; 
+ iv. alla reclusione per un tempo non inferiore a due anni per un qualunque delitto non colposo.
+
 Non possono essere nominati negli Organi coloro ai quali sia stata applicata su richiesta delle parti una delle pene previste dal comma 1, lettera c), salvo il caso dell'estinzione del reato; le pene previste dal comma 1, lettera c), punti i) e ii), non rilevano se inferiori ad un anno.
 
 ## Art. 5. — Sospensione dalle cariche
+
+1.
+                        
+                            
+                                Costituiscono cause di sospensione dalle funzioni svolte negli Organi: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la condanna con sentenza non definitiva per uno dei reati di cui all'articolo 4, comma 1, lettera c); 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'applicazione su richiesta delle parti di una delle pene di cui all'articolo 4, comma 2, con sentenza non definitiva; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    l'applicazione provvisoria di una delle misure previste dall'articolo 67, comma 3, del decreto legislativo 6 settembre 2011, n. 159; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    l'applicazione di una misura cautelare di tipo personale.
 
 ## Art. 6. — Accertamento dei requisiti
 
@@ -100,6 +233,52 @@ Modalita' di funzionamento dell'Organismo
 
 L'Organismo cura la redazione del proprio statuto, del regolamento interno e delle altre disposizioni aventi rilevanza esterna, che contengono previsioni adeguate ad assicurare efficacia e legittimita' nello svolgimento dei propri compiti e idonee a consentire l'attivita' di vigilanza della Banca d'Italia.
 
+2.
+                        
+                            
+                                A questi fini l'Organismo adotta, applica e mantiene: 
+ 
+                            
+                            
+                                a)
+                                
+                                    criteri, modalita' e risorse necessarie per l'efficace svolgimento dei compiti; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    meccanismi di controllo interno idonei a garantire il rispetto delle decisioni e delle procedure; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    un efficace sistema di pubblicita' delle proprie disposizioni riguardanti l'attivita' degli iscritti; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    procedure funzionali ad assicurare la piena legittimita' della propria attivita' e, con particolare riferimento al procedimento sanzionatorio, il rispetto del principio del contraddittorio, della conoscenza degli atti istruttori, della verbalizzazione e della distinzione tra funzioni istruttorie e funzioni decisorie; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    procedure idonee a garantire la riservatezza delle informazioni ricevute; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    procedure che consentano di fornire tempestivamente alla Banca d'Italia le informazioni dalla stessa richieste.
+
 Lo statuto, il regolamento interno dell'Organismo e le relative modifiche, sono trasmessi al Ministro dell'economia e delle finanze che li approva sentita la Banca d'Italia.
 
 Lo statuto definisce criteri oggettivi e predeterminati in base ai quali determinare l'ammontare dei compensi dovuti ai componenti degli Organi e al Direttore generale, che tengano conto della natura e delle attivita' dell'Organismo, delle responsabilita' connesse con l'incarico, della continuita' e della durata dell'impegno dedicato all'assolvimento dell'incarico, in modo da assicurare l'efficacia e l'efficienza della gestione e il contenimento dei costi.
@@ -108,9 +287,101 @@ Le procedure e i provvedimenti adottati dall'Organismo ai sensi del presente Reg
 
 ## Art. 9. — Funzioni dell'Organismo
 
+1.
+                        
+                            
+                                L'Organismo svolge le seguenti funzioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    gestisce l'elenco e provvede alla sua pubblicita'; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    valuta le istanze di iscrizione nell'elenco e la sussistenza dei requisiti; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    verifica nel continuo la permanenza dei requisiti necessari per il mantenimento dell'iscrizione nell'elenco; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    verifica il rispetto da parte degli iscritti delle disposizioni che regolano la loro attivita' anche ai sensi dell'articolo 112, comma 2, t.u.b.; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    provvede all'iscrizione, cancellazione e diniego di iscrizione dall'elenco; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    provvede ai sensi dell'articolo 112-bis, comma 5, t.u.b.; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    cura ogni altro atto e attivita' strumentale o accessoria alle funzioni di tenuta dell'elenco.
+
 Ferma restando la responsabilita' dell'Organismo per i provvedimenti e le decisioni adottate ai sensi del comma 1, per l'esercizio delle sue attivita' esso puo' avvalersi delle Federazioni di rappresentanza dei confidi espressione delle Organizzazioni nazionali di impresa, secondo modalita' fissate nello Statuto tali da garantire efficienza ed efficacia e da preservare indipendenza e imparzialita' delle funzioni svolte nei confronti degli iscritti o di coloro che hanno presentato istanza di iscrizione.
 
 ## Art. 10. — Gestione dell'elenco
+
+1.
+                        
+                            
+                                Nell'attivita' di gestione dell'elenco l'Organismo: 
+ 
+                            
+                            
+                                a)
+                                
+                                    iscrive nell'elenco i soggetti in possesso dei requisiti prescritti che ne facciano richiesta; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    rigetta l'istanza di iscrizione nell'elenco in mancanza dei requisiti necessari dandone comunicazione agli interessati; il rigetto dell'istanza di iscrizione e' preceduto da un preavviso motivato; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    dispone la cancellazione dall'elenco; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    rilascia gli attestati di iscrizione e cancellazione dall'elenco; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    aggiorna tempestivamente l'elenco sulla base dei provvedimenti adottati dall'autorita' giudiziaria, dalla Banca d'Italia e dallo stesso Organismo nonche' sulla base delle comunicazioni ricevute dagli iscritti.
 
 Fermo restando quanto previsto all'articolo 8, con riferimento al procedimento di iscrizione e di cancellazione, al fine di garantire l'efficienza e la trasparenza nell'attivita' di gestione dell'elenco, l'Organismo determina l'unita' organizzativa responsabile e i termini dei procedimenti di propria competenza.
 
@@ -144,6 +415,31 @@ Del provvedimento di diniego dell'iscrizione e' data comunicazione al richiedent
 
 ## Art. 15. — Elenco dei confidi
 
+1.
+                        
+                            
+                                L'elenco dei confidi contiene le seguenti indicazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    denominazione, forma giuridica e sede legale del confidi (nonche' sede operativa, ove diversa da quella della sede legale); 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    data di iscrizione nell'elenco; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    numero di iscrizione attribuito al confidi dall'Organismo.
+
 Ai fini dell'aggiornamento dell'elenco, i confidi iscritti sono tenuti a comunicare all'Organismo le eventuali variazioni delle informazioni contenute nell'elenco medesimo, secondo le modalita' e i termini fissati dall'Organismo.
 
 ## Art. 16. — Cancellazione su istanza di parte
@@ -158,7 +454,71 @@ Nei casi in cui la cancellazione dall'elenco sia richiesta in relazione alla tra
 
 ## Art. 17. — Provvedimenti sanzionatori
 
+1.
+                        
+                            
+                                L'Organismo procede d'ufficio alla cancellazione dall'elenco in caso di: 
+ 
+                            
+                            
+                                a)
+                                
+                                    perdita di uno dei requisiti per l'iscrizione; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    gravi violazioni di norme di legge e delle relative disposizioni di attuazione; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    mancato pagamento del contributo ai sensi dell'articolo 112-bis, comma 2, t.u.b.; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    inattivita' - non giustificata da comprovati motivi - protrattasi per un periodo di tempo non inferiore a un anno.
+
 Fermo restando quanto previsto al comma 1, l'Organismo, in caso di violazioni di disposizioni normative che ne regolano l'attivita', puo' imporre ai confidi iscritti il divieto di intraprendere nuove operazioni o disporre la riduzione delle attivita'.
+
+3.
+                        
+                            
+                                Ai fini del comma 1, lettera b), la gravita' delle violazioni puo' essere desunta, tra l'altro: 
+ 
+                            
+                            
+                                a)
+                                
+                                    dall'idoneita' della condotta ad esporre il confidi a significativi rischi o all'incapacita' di far fronte agli impegni assunti; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    dalla commissione reiterata o diffusa della violazione; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    dall'entita' del vantaggio ottenuto o delle perdite evitate attraverso la violazione, nella misura in cui essa sia determinabile; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    dai pregiudizi cagionati a terzi attraverso la violazione, nella misura in cui il loro ammontare sia determinabile.
 
 Si applica l'articolo 145-bis, t.u.b.
 

@@ -10,7 +10,7 @@ source: normattiva-opendata
 collection: Atti di recepimento direttive UE
 vigenza_date: 2007-03-04
 zip_date: 2026-07-30
-fetched_at: 2026-08-02T09:40:49Z
+fetched_at: 2026-07-30
 ---
 
 DECRETO LEGISLATIVO
@@ -27,6 +27,66 @@ Sulla proposta dei Ministri per le politiche comunitarie e dei trasporti e della
 Le disposizioni del presente decreto si applicano, nel rispetto delle vigenti normative in materia di ordine pubblico e di sicurezza negli aeroporti, ai servizi di assistenza a terra individuati in allegato A, prestati negli aeroporti aperti al traffico aereo commerciale.
 
 ## Art. 2. — Definizioni
+
+1.
+                    
+                        
+                            Ai fini del presente decreto si intende per:
+ 
+                        
+                        
+                            a)
+                            
+                                aeroporto, qualsiasi terreno appositamente predisposto per l'atterraggio, il decollo e le manovre di aeromobili, inclusi gli impianti annessi che esso puo' comportare per le esigenze del traffico e per il servizio degli aeromobili, nonche' gli impianti necessari per fornire assistenza ai servizi aerei commerciali;
+
+                            
+                        
+                        
+                            b)
+                            
+                                sistema aeroportuale, un raggruppamento di due o piu' aeroporti che servono la stessa citta' o lo stesso agglomerato urbano, come indicato nel regolameto (CEE) n. 2408 del Consiglio del 23 luglio 1992;
+
+                            
+                        
+                        
+                            c)
+                            
+                                ente di gestione, il soggetto cui e' affidato, insieme ad altre attivita' o in via esclusiva, il compito di amministrare e di gestire le infrastrutture aeroportuali e di coordinare e controllare le attivita' dei vari operatori presenti nell'aeroporto o nel sistema aeroportuale considerato;
+
+                            
+                        
+                        
+                            d)
+                            
+                                utente di aeroporto o vettore, qualsiasi persona fisica o giuridica che trasporti per via aerea passeggeri, posta, merci, da e per l'aeroporto considerato;
+
+                            
+                        
+                        
+                            e)
+                            
+                                assistenza a terra, il servizio, tra quelli elencati nell'allegato A, reso in un aeroporto a un utente;
+
+                            
+                        
+                        
+                            f)
+                            
+                                autoassistenza a terra o autoproduzione, la situazione nella quale un utente fornisce direttamente a se' stesso una o piu' categorie di servizi di assistenza e non stipula alcun contratto con terzi, sotto qualsiasi denominazione, avente per oggetto la prestazione dei servizi stessi; non sono considerati terzi fra loro gli utenti di cui uno detiene una partecipazione maggioritaria nell'altro, ovvero la cui partecipazione in ciascuno degli altri e' detenuta a titolo maggioritario da uno stesso ente;
+
+                            
+                        
+                        
+                            g)
+                            
+                                prestatore di servizi di assistenza a terra, qualsiasi persona fisica o giuridica che fornisce a terzi una o piu' categorie di servizi di assistenza a terra;
+
+                            
+                        
+                        
+                            h)
+                            
+                                E.N.A.C., l'Ente nazionale per l'aviazione civile, istituito con decreto legislativo 25 luglio 1997, n. 250.
 
 ## Art. 3. — Ente di gestione
 
@@ -78,6 +138,38 @@ Il Ministero dei trasporti e della navigazione, avvalendosi dell'E.N.A.C., vigil
 
 ## Art. 10. — Vigilanza sull'accesso agli impianti
 
+1.
+                    
+                        
+                            L'E.N.A.C. vigila affinche':
+ 
+                        
+                        
+                            a)
+                            
+                                sia garantito l'accesso agli impianti aeroportuali da parte dei prestatori di servizi e degli utenti che effettuano l'autoassistenza;
+
+                            
+                        
+                        
+                            b)
+                            
+                                le condizioni poste all'accesso siano adeguate, trasparenti, obiettive e non discriminatorie;
+
+                            
+                        
+                        
+                            c)
+                            
+                                siano resi disponibili gli spazi necessari per l'effettuazione dell'assistenza a terra anche in regime di autoassistenza e che gli stessi spazi siano ripartiti in base a criteri adeguati, trasparenti, obiettivi e non discriminatori;
+
+                            
+                        
+                        
+                            d)
+                            
+                                i corrispettivi per l'utilizzo delle strutture centralizzate, dei beni d'uso comune e di quelli in uso esclusivo, siano pertinenti ai costi di gestione e sviluppo del singolo aeroporto in cui le attivita' si svolgono.
+
 ## Art. 11. — Procedure di selezione
 
 Per l'individuazione dei prestatori delle categorie di servizi di assistenza a terra il cui accesso e' sottoposto a limitazioni o a provvedimenti di deroga di cui all'articolo 12, comma 1, l'ente di gestione indice una gara d'appalto ai sensi del decreto legislativo 17 marzo 1995, n. 158, pubblicata anche nella Gazzetta Ufficiale delle Comunita' europee, aperta a tutti i prestatori interessati ((selezionati per un periodo di durata massima di sette anni)) e che preveda, oltre al possesso dei requisiti di cui all'articolo 13, anche un capitolato d'oneri o specifiche tecniche, stabiliti previa consultazione del comitato degli utenti.
@@ -86,9 +178,73 @@ Al riguardo il Ministero dei trasporti e della navigazione, anche su segnalazion
 
 ## Art. 12. — Limitazioni all'accesso
 
+1.
+                    
+                        
+                            L'E.N.A.C., in presenza di vincoli specifici di spazio o di capacita' disponibile, specialmente in funzione della congestione e del coefficiente di utilizzazione delle superfici, previa segnalazione dell'ente di gestione che presenta un piano di intervento per la rimozione o per la riduzione dei vincoli, autorizza l'ente di gestione a:
+ 
+                        
+                        
+                            a)
+                            
+                                limitare, per non oltre tre anni, l'accesso dei prestatori di determinate categorie di servizi non elencate nell'articolo 4, comma 2, garantendo comunque le condizioni di cui all'articolo 4, commi 2 e 3;
+
+                            
+                        
+                        
+                            b)
+                            
+                                riservare, per non oltre due anni rinnovabili per una sola volta, ad un solo prestatore una o piu' determinate categorie di servizi di assistenza a terra elencati nell'articolo 4, comma 2;
+
+                            
+                        
+                        
+                            c)
+                            
+                                riservare, per non oltre tre anni, l'effettuazione dell'autoassistenza a un numero limitato di utenti per le categorie di servizi non elencate nell'articolo 5, comma 2;
+
+                            
+                        
+                        
+                            d)
+                            
+                                non consentire o limitare ad un solo utente, per non oltre tre anni, l'effettuazione dell'autoassistenza per una o piu' determinate categorie tra i servizi di cui all'articolo 5, comma 2.
+
 Le limitazioni di cui al comma 1, complete dei relativi piani di intervento, sono comunicate al Ministero dei trasporti e della navigazione almeno sei mesi prima della loro entrata in vigore. Il Ministero dei trasporti e della navigazione provvede alla notificazione delle limitazioni medesime alla Commissione europea almeno tre mesi prima della loro entrata in vigore, per l'approvazione e per la pubblicazione nella Gazzetta Ufficiale delle Comunita' europee.
 
 ## Art. 13. — Requisiti di idoneita' dei prestatori
+
+1.
+                    
+                        
+                            L'E.N.A.C. verifica l'idoneita' dei prestatori di servizi di assistenza a terra subordinata al rispetto del tipo di contratto che regola il rapporto di lavoro dei dipendenti delle aziende di gestione e dei servizi aeroportuali di assistenza a terra ed al possesso dei seguenti requisiti:
+ 
+                        
+                        
+                            a)
+                            
+                                capitale sociale almeno pari ad un quarto del presumibile giro di affari derivante dalle attivita' da svolgere;
+
+                            
+                        
+                        
+                            b)
+                            
+                                risorse strumentali e capacita' organizzative idonee in relazione alle categorie di servizio richieste;
+
+                            
+                        
+                        
+                            c)
+                            
+                                attestato comprovante il rispetto degli obblighi derivanti dalla legislazione sociale e sulla sicurezza del lavoro;
+
+                            
+                        
+                        
+                            d)
+                            
+                                copertura assicurativa adeguata ai rischi connessi all'attivita' da svolgere.
 
 ## Art. 14. — (( (Protezione sociale). ))
 

@@ -8,8 +8,8 @@ vigente: true
 source: normattiva-opendata
 collection: DPR
 vigenza_date: 2023-04-23
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:47:42Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -41,9 +41,196 @@ Ai sensi dell'articolo 74, comma 5, del decreto legislativo n. 150 del 2009 le d
 
 Promozione e coordinamento delle attivita' di misurazione e valutazione della performance
 
+1.
+                    
+                        
+                            Il Dipartimento della funzione pubblica della Presidenza del Consiglio dei ministri (di seguito «Dipartimento») promuove e coordina le attivita' di valutazione e misurazione della performance delle amministrazioni pubbliche in conformita' con i seguenti criteri: 
+ 
+                        
+                        
+                            a)
+                            
+                                ridurre gli oneri informativi a carico delle amministrazioni pubbliche; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                promuovere la progressiva integrazione del ciclo della performance e del ciclo di programmazione economico finanziaria; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                supportare l'uso di indicatori nei processi di misurazione e valutazione; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                garantire l'accessibilita' e la comparabilita' dei sistemi di misurazione; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                introdurre progressivamente elementi di valutazione anche su un orizzonte temporale pluriennale e promuovere il progressivo avvicinamento dei sistemi di misurazione per amministrazioni operanti nei medesimi settori; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                differenziare i requisiti relativi al ciclo della performance in ragione della dimensione, del tipo di amministrazione e della natura delle attivita' delle diverse amministrazioni ed introdurre regimi semplificati; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                migliorare il raccordo tra ciclo della performance e il sistema dei controlli interni, incluso il controllo di gestione, e gli indirizzi espressi dall'Autorita' nazionale anticorruzione in materia di trasparenza e prevenzione della corruzione; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                accrescere l'indipendenza della valutazione della performance.
+
 ## Art. 3. — Le funzioni svolte dal Dipartimento
 
+1.
+                    
+                        
+                            Il Dipartimento assicura le funzioni di promozione e coordinamento delle attivita' di valutazione e misurazione della performance delle amministrazioni pubbliche, di cui all'articolo 2, attraverso: 
+ 
+                        
+                        
+                            a)
+                            
+                                il raccordo con il Ministero dell'economia e delle finanze - Dipartimento della Ragioneria generale dello Stato, al fine di assicurare l'allineamento delle indicazioni metodologiche in tema di ciclo della performance con quelle relative alla predisposizione dei documenti di programmazione e rendicontazione economico finanziaria, anche con riferimento alle istruzioni tecniche per la predisposizione del piano degli indicatori e dei risultati attesi e per il loro monitoraggio, di cui all'articolo 19 del decreto legislativo 31 maggio 2011, n. 91; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                l'individuazione delle caratteristiche e dei contenuti dei documenti di cui all'articolo 10 del decreto legislativo n. 150 del 2009, anche mediante la previsione di modelli semplificati; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                il monitoraggio del grado di attuazione dei propri indirizzi da parte delle amministrazioni dello Stato anche mediante l'analisi dei documenti di cui alla lettera b); 
+
+                            
+                        
+                        
+                            d)
+                            
+                                il sostegno all'attuazione e al miglioramento delle attivita' di misurazione e valutazione della performance organizzativa anche mediante il progressivo sviluppo di linee guida che tengano conto delle specificita' settoriali; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                la promozione di interventi di rafforzamento della capacita' amministrativa volti ad accrescere l'efficacia dei sistemi di misurazione e valutazione delle performance, nonche' la loro integrazione con i sistemi di gestione del rischio; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                il sostegno alla sperimentazione di buone pratiche, incoraggiando il confronto tra amministrazioni, anche assumendo a riferimento esperienze nazionali ed internazionali e garantendo la diffusione dei risultati emersi; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                l'accessibilita' alla piattaforma tecnologica che contiene in formato digitale i documenti e i dati relativi al ciclo della performance anche nell'ottica di una maggiore trasparenza e partecipazione; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                la predisposizione di una relazione periodica sul ciclo della performance delle amministrazioni centrali; 
+
+                            
+                        
+                        
+                            i)
+                            
+                                la valorizzazione, nell'ambito della Rete nazionale per la valutazione delle amministrazioni pubbliche di cui all'articolo 7, delle esperienze di valutazione esterna delle amministrazioni pubbliche e dei relativi impatti; 
+
+                            
+                        
+                        
+                            j)
+                            
+                                l'acquisizione, a fini informativi e ricognitivi, delle esperienze in materia di misurazione e valutazione della performance realizzate dalle regioni e dagli enti locali, coinvolgendoli nel confronto fra amministrazioni e nello sviluppo delle buone pratiche.
+
 Le attivita' di cui alle lettere c) e h) sono svolte tenendo conto degli indirizzi adottati dal Presidente del Consiglio dei ministri o dall'Autorita' politica delegata all'esercizio delle funzioni di coordinamento in materia di valutazione e controllo strategico nelle amministrazioni dello Stato.
+
+3.
+                    
+                        
+                            Con riferimento agli organismi indipendenti di valutazione, di cui all'articolo 14 del decreto legislativo n. 150 del 2009, il Dipartimento: 
+ 
+                        
+                        
+                            a)
+                            
+                                indirizza l'esercizio delle relative funzioni di valutazione; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                tiene e aggiorna un Elenco nazionale dei componenti degli organismi indipendenti di valutazione secondo quanto previsto dall'articolo 6; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                verifica l'operato degli organismi indipendenti di valutazione anche promuovendo la valutazione fra pari; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                promuove la razionalizzazione degli organismi indipendenti di valutazione al fine di contenerne il numero ed accrescerne la funzionalita', attraverso indirizzi di comparto volti ad assicurare: specializzazione per contesti di attivita', non duplicazione delle funzioni, concentrazione a livello territoriale, integrazione tra amministrazioni in ragione delle dipendenza organizzativa e finanziaria, integrazione nel caso di gestioni associate; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                elabora criteri e parametri di riferimento per definire gli importi massimi dei compensi dei componenti degli organismi indipendenti di valutazione, che tengano conto della complessita' organizzativa delle amministrazioni, senza maggiori oneri a carico della finanza pubblica e, comunque, entro i limiti delle risorse complessive destinate ai compensi dei predetti componenti dall'insieme delle amministrazioni; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                promuove e supporta iniziative di collaborazione tra organismi indipendenti di valutazione; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                indirizza e promuove, anche in collaborazione con la Scuola nazionale di amministrazione (SNA), attivita' di aggiornamento e formazione dei componenti gli organismi indipendenti di valutazione, nell'ambito degli stanziamenti previsti a legislazione vigente.
 
 Il Dipartimento identifica strumenti e modalita' di raccordo tra l'esercizio delle proprie funzioni in tema di misurazione e valutazione della performance delle pubbliche amministrazioni e le attivita' delle esistenti agenzie di valutazione. Mediante intesa tra la Conferenza delle regioni e delle province autonome, l'Associazione nazionale comuni italiani (Anci), l'Unione delle province d'Italia (UPI) e il Dipartimento della funzione pubblica, sono definiti i protocolli di collaborazione per la realizzazione delle attivita' di cui al presente articolo per quanto di competenza delle Autonomie territoriali.
 
@@ -84,6 +271,38 @@ Il Dipartimento promuove la costituzione di una Rete nazionale per la valutazion
 Con l'obiettivo di favorire la comunicazione tra i soggetti coinvolti nella Rete nazionale e garantire la massima trasparenza e conoscibilita' delle loro attivita', il Dipartimento sviluppa le funzionalita' del Portale della performance, gia' Portale della Trasparenza, ai sensi di quanto disposto dall'articolo 19, comma 9, del decreto-legge n. 90 del 2014.
 
 ## Art. 8. — Abrogazioni
+
+1.
+                    
+                        
+                            Al decreto legislativo n. 150 del 2009 sono abrogati: 
+ 
+                        
+                        
+                            a)
+                            
+                                l'articolo 7, comma 3; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                l'articolo 10, commi 2, 3 e 4; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                l'articolo 13, comma 5 e comma 6, lettere a), b), c), d), f), g), h), i), l), n), o); 
+
+                            
+                        
+                        
+                            d)
+                            
+                                l'articolo 14, commi 3, 5 e 7.
 
 Sono in ogni caso fatti salvi gli effetti delle leggi regionali e dei regolamenti adottati dagli enti locali in attuazione dei principi recati dalle norme di cui al comma 1.
 

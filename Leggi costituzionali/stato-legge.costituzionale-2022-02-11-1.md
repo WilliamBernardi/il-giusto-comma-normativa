@@ -7,8 +7,8 @@ urn: urn:nir:stato:legge.costituzionale:2022-02-11;1
 vigente: true
 source: normattiva-opendata
 collection: Leggi costituzionali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:39:08Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 LEGGE COSTITUZIONALE
@@ -32,6 +32,26 @@ All'articolo 9 della Costituzione e' aggiunto, in fine, il seguente comma:
  «Tutela l'ambiente, la biodiversita' e gli ecosistemi, anche nell'interesse delle future generazioni. La legge dello Stato disciplina i modi e le forme di tutela degli animali».
 
 ## Art. 2.
+
+1.
+                    
+                        
+                            All'articolo 41 della Costituzione sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                
+                                    al secondo comma, dopo la parola: «danno» sono inserite le seguenti: «alla salute, all'ambiente,»;
+                                
+                            
+                        
+                        
+                            b)
+                            
+                                
+                                    al terzo comma sono aggiunte, in fine, le seguenti parole: «e ambientali».
 
 ## Art. 3.
 

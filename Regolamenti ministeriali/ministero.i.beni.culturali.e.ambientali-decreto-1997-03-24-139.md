@@ -8,8 +8,8 @@ codice_redazionale: 097G0172
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:39Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -27,7 +27,109 @@ Udito il parere del Consiglio di Stato reso nell'adunanza generale del 20 marzo 
 
 ## Art. 1. — Definizioni
 
+1.
+                    
+                        
+                            Ai fini del presente regolamento si intendono per:
+ 
+                        
+                        
+                            a)
+                            
+                                Ministro: il Ministro per i beni culturali e ambientali;
+
+                            
+                        
+                        
+                            b)
+                            
+                                Amministrazione: il Ministero per i beni culturali e ambientali;
+
+                            
+                        
+                        
+                            c)
+                            
+                                Istituti: gli organi del Ministero per i beni culturali e ambientali;
+
+                            
+                        
+                        
+                            d)
+                            
+                                Capi di istituto: i funzionari preposti agli organi del Ministero per i beni culturali e ambientali;
+
+                            
+                        
+                        
+                            e)
+                            
+                                Concessionari di servizi: i soggetti titolari della concessione all'esercizio di servizi, all'uso e alla riproduzione dei beni o alla gestione di attivita' concernenti i beni culturali.
+ Avvertenza:
+ Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, comma 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica italiana, approvato con D.P.R. 28 dicembre 1985, n. 1092, al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio.
+ Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
+
 ## Art. 2. — Servizi e gestione dei servizi
+
+1.
+                    
+                        
+                            Qualora risulti finanziariamente conveniente, presso i monumenti, i musei, le gallerie, gli scavi archeologici, gli archivi di Stato, le biblioteche e gli altri istituti dell'amministrazione, fermo restando quanto disposto dall'articolo 2, quarto comma della legge 13 luglio 1966, n. 559, possono essere affidati in concessione a soggetti privati, ad enti pubblici economici, a fondazioni culturali e bancarie, a societa' e a consorzi costituiti a tal fine, a cooperative regolarmente costituite, qualora non possano essere svolti mediante le risorse umane e finanziarie dell'amministrazione:
+ 
+                        
+                        
+                            a)
+                            
+                                il servizio editoriale, di vendita di cataloghi e sussidi catalografici, audiovisivi e informatici, di vendita di ogni altro materiale informativo, di riproduzioni di beni culturali;
+
+                            
+                        
+                        
+                            b)
+                            
+                                i servizi riguardanti i beni librari e archivistici per la fornitura di riproduzioni e il recapito nell'ambito del prestito bibliotecario;
+
+                            
+                        
+                        
+                            c)
+                            
+                                la gestione di raccolte discografiche, di diapoteche e biblioteche museali;
+
+                            
+                        
+                        
+                            d)
+                            
+                                la gestione dei punti vendita e utilizzazione commerciale delle riproduzioni dei beni;
+
+                            
+                        
+                        
+                            e)
+                            
+                                i servizi di accoglienza, di informazione, di guida e di assistenza didattica;
+
+                            
+                        
+                        
+                            f)
+                            
+                                i servizi di caffetteria, guardaroba e dei centri di incontro e di ristoro;
+
+                            
+                        
+                        
+                            g)
+                            
+                                i servizi di pulizia, di vigilanza, di gestione dei biglietti d'ingresso;
+
+                            
+                        
+                        
+                            h)
+                            
+                                l'organizzazione delle mostre e delle altre iniziative promozionali.
 
 Sono finanziariamente convenienti le attivita' e i servizi che, da soli ovvero abbinati ad altri, producono all'amministrazione concedente aumenti di proventi, nuovi proventi o minori costi. Ai fini della proposta di attivazione dei servizi, il capo dell'istituto, la conferenza dei capi d'istituto o il direttore generale previsti, rispettivamente, dai commi 1, 3 e 4 dell'articolo 3, verificano preventivamente la convenienza finanziaria dell'attivita' o del servizio, avuto riguardo alla disponibilita' delle risorse umane ed agli oneri finanziari della gestione diretta.
 In caso di servizi integrati, la verifica della convenienza finanziaria e' effettuata con riferimento ad ogni servizio e per ogni sede, anche avvalendosi degli uffici tecnici esistenti presso l'amministrazione centrale e presso gli organi periferici. La verifica e' nuovamente effettuata trascorsi tre anni dall'affidamento e, comunque, al termine del quadriennio, ai fini dell'eventuale rinnovo.
@@ -66,6 +168,45 @@ Al fine di valutare l'affidabilita' del concessionario, l'amministrazione, in se
 
 ## Art. 5. — Atto di concessione
 
+1.
+                    
+                        
+                            L'atto di concessione del servizio e' accompagnato dalla convenzione accessoria stipulata in forma pubblica amministrativa che deve contenere tra l'altro:
+ 
+                        
+                        
+                            a)
+                            
+                                la individuazione delle aree destinate all'espletamento del servizio;
+
+                            
+                        
+                        
+                            b)
+                            
+                                gli oneri e le modalita' di prestazione del servizio;
+
+                            
+                        
+                        
+                            c)
+                            
+                                il canone di concessione e le relative modalita' di pagamento;
+
+                            
+                        
+                        
+                            d)
+                            
+                                la decorrenza e il termine di scadenza;
+
+                            
+                        
+                        
+                            e)
+                            
+                                le cause di decadenza della concessione.
+
 ## Art. 6. — Canone di concessione e cauzioni
 
 La misura del canone da porre a base d'asta e' fissata dal dirigente che bandisce la gara che, a tal fine, puo' avvalersi degli uffici tecnici esistenti presso l'amministrazione centrale e presso gli organi periferici.
@@ -80,6 +221,38 @@ L'amministrazione puo', in ogni momento, procedere o disporre esami, ispezioni, 
 
 Le concessioni relative all'uso strumentale e precario dei beni in consegna al Ministero sono rilasciate, fatte salve le vigeriti disposizioni sui diritti spettanti agli autori, dai capi dell'istituto i quali fissano anche il canone e i corrispettivi, avvalendosi degli uffici tecnici esistenti presso l'amministrazione centrale e presso gli organi periferici.
 
+2.
+                    
+                        
+                            I canoni e i corrispettivi sono determinati tenendo, tra l'altro, conto:
+ 
+                        
+                        
+                            a)
+                            
+                                del carattere delle attivita' cui si riferiscono le concessioni d'uso;
+
+                            
+                        
+                        
+                            b)
+                            
+                                dei mezzi e delle modalita' di esecuzione delle riproduzioni;
+
+                            
+                        
+                        
+                            c)
+                            
+                                del tipo e del tempo di utilizzazione degli spazi e dei beni;
+
+                            
+                        
+                        
+                            d)
+                            
+                                delle utilizzazioni e destinazioni delle riproduzioni medesime, anche in riferimento al beneficio economico del concessionario.
+
 I canoni di concessione e i corrispettivi connessi alle riproduzioni di beni culturali o al loro uso strumentale e precario sono corrisposti in via anticipata.
 
 Per le riproduzioni richieste per uso personale o per motivi di studio i richiedenti sono tenuti al solo rimborso delle spese eventualmente sostenute dal Ministero.
@@ -90,6 +263,24 @@ Con decreto del Ministro sono fissati gli importi minimi dei canoni e dei corris
 
 ## Art. 9. — Catalogo di immagini fotografiche
  e di riprese di beni culturali
+
+1.
+                    
+                        
+                            Il capo dell'istituto, all'atto della concessione, per fini di raccolta e catalogo di immagini fotografiche e di riprese in genere di beni culturali, prescrive:
+ 
+                        
+                        
+                            a)
+                            
+                                il deposito del doppio originale di ogni ripresa e fotografia;
+
+                            
+                        
+                        
+                            b)
+                            
+                                la restituzione, dopo l'uso, del fotocolor originale con relativo codice.
 
 ## Art. 10. — Logo dei beni culturali
 

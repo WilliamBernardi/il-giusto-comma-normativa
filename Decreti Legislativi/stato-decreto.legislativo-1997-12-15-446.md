@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
 vigenza_date: 2026-07-04
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:35Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -50,6 +50,56 @@ Presupposto dell'imposta e' l'esercizio abituale di una attivita' autonomamente 
 ## Art. 3. — Soggetti passivi
 
 Soggetti passivi dell'imposta coloro che esercitano una o piu' delle attivita' di cui all'articolo
+
+2.
+                        
+                            
+                                Pertanto sono soggetti all'imposta sono: 
+
+                            
+                            
+                                a)
+                                
+                                    le societa' e gli enti di cui all'articolo 87, comma 1, lettere a) e b), del testo unico delle imposte sui redditi, approvato con decreto del Presidente della Repubblica 22 dicembre 1986, n. 917; 
+                                
+                            
+                            
+                                b)
+                                
+                                    le societa' in nome collettivo e in accomandita semplice e 
+quelle ad esse equiparate a norma dell'articolo 5, comma 3, del predetto testo unico, nonche' le persone fisiche esercenti attivita' commerciali di cui all'articolo 51 del medesimo testo unico; ((70))
+                                    
+                                
+                            
+                            
+                                c)
+                                
+                                    le persone fisiche, le societa' semplici e quelle ad esse equiparate a norma dell'articolo 5, comma 3, del predetto testo unico esercenti arti e professioni di cui all'articolo 49, comma 1, del medesimo testo unico; ((70))
+                                    
+                                
+                            
+                            
+                                d)
+                                
+                                    LETTERA ABROGATA DALLA L. 28 DICEMBRE 2015, N. 208; (52) 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    gli enti privati di cui all'articolo 87, comma 1, lettera c), del citato testo unico n. 917 del 1986, nonche' le societa' e gli enti di cui alla lettera d) dello stesso comma; 
+
+                                
+                            
+                            
+                                e-bis)
+                                
+                                    le Amministrazioni pubbliche di cui all'articolo 1, comma 2, del decreto legislativo 3 febbraio del 1993, n. 29, nonche' le amministrazioni della Camera dei Deputati, del Senato, della Corte costituzionale, della Presidenza della Repubblica e gli organi legislativi delle regioni a statuto speciale; (8) 
+ 2. Non sono soggetti passivi dell'imposta: 
+ a) gli organismi di investimento collettivo del risparmio ad esclusione delle societa' di investimento a capitale variabile; (34)  b) i fondi pensione di cui al decreto legislativo 21 aprile 1993, n. 124; 
+ c) i gruppi economici di interesse europeo (GEIE) di cui al decreto legislativo 23 luglio 1991, n. 240, salvo quanto disposto nell'articolo 13; 
+ c-bis) i soggetti che esercitano una attivita' agricola ai sensi dell'articolo 32 del testo unico delle imposte sui redditi, di cui al decreto del Presidente della Repubblica 22 dicembre 1986, n. 917, i soggetti di cui all'articolo 8 del decreto legislativo 18 maggio 2001, n. 227, nonche' le cooperative e loro consorzi di cui all'articolo 10 del decreto del Presidente della Repubblica 29 settembre 1973, n. 601. (52)
 
 ---------------
                             AGGIORNAMENTO (8)
@@ -170,6 +220,38 @@ I soggetti di cui al comma 1, in regime di contabilita' ordinaria, possono optar
 
 ## Art. 6. — (Determinazione del valore della produzione netta delle banche e di altri enti e societa' finanziari)
 
+1.
+                        
+                            
+                                Per gli intermediari finanziari, salvo quanto previsto nei successivi commi, la base imponibile e' determinata dalla somma algebrica delle seguenti voci del conto economico redatto in conformita' agli schemi risultanti dai provvedimenti emessi ai sensi dell'articolo 9, comma 1, del decreto legislativo 28 febbraio 2005, n. 38: 
+ 
+                            
+                            
+                                a)
+                                
+                                    margine d'intermediazione ridotto del 50 per cento dei dividendi; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    ammortamenti dei beni materiali e immateriali ad uso funzionale per un importo pari al 90 per cento; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    altre spese amministrative per un importo pari al 90 per cento; 
+
+                                
+                            
+                            
+                                c-bis)
+                                
+                                    rettifiche e riprese di valore nette per deterioramento dei crediti, limitatamente a quelle riconducibili ai crediti verso la clientela iscritti in bilancio a tale titolo. (49) (58)
+
 Per le societa' di intermediazione mobiliare e gli intermediari, diversi dai soggetti di cui al comma 1, abilitati allo svolgimento dei servizi di investimento indicati nell'articolo 1 del testo unico delle disposizioni in materia di intermediazione finanziaria, di cui al decreto legislativo 24 febbraio 1998, n. 58, iscritti nell'albo previsto dall'articolo 20 dello stesso decreto, assume rilievo la differenza tra la somma degli interessi attivi e proventi assimilati relativi alle operazioni di riporto e di pronti contro termine e le commissioni attive riferite ai servizi prestati dall'intermediario e la somma degli interessi passivi e oneri assimilati relativi alle operazioni di riporto e di pronti contro termine e le commissioni passive riferite ai servizi prestati dall'intermediario. (58)
 
 Per le societa' di gestione dei fondi comuni di investimento, di cui al citato testo unico di cui al decreto legislativo 24 febbraio 1998, n. 58, e successive modificazioni, si assume la differenza tra le commissioni attive e passive.
@@ -183,6 +265,52 @@ Ai fini del presente articolo si applica l'articolo 5, comma 5-bis. (78)
 I componenti positivi e negativi si assumono cosi' come risultanti dal conto economico dell'esercizio redatto secondo i criteri contenuti nei provvedimenti della Banca d'Italia 22 dicembre 2005 e 14 febbraio 2006, adottati ai sensi dell'articolo 9 del decreto legislativo 28 febbraio 2005, n. 38, e pubblicati rispettivamente nei supplementi ordinari alla Gazzetta Ufficiale n. 11 del 14 gennaio 2006 e n. 58 del 10 marzo 2006. Si applica il comma 4 dell'articolo 5.
 
 (A condizione che sussistano i requisiti di cui all'articolo 27-bis del decreto del Presidente della Repubblica 29 settembre 1973, n. 600, i dividendi provenienti da societa' o enti residenti o localizzati in uno Stato membro dell'Unione europea o in uno Stato aderente all'Accordo sullo Spazio economico europeo con il quale l'Italia abbia stipulato un accordo che assicuri un effettivo scambio di informazioni, verificandosi la condizione di cui all'articolo 44, comma 2, lettera a), secondo periodo, del testo unico delle imposte sui redditi, di cui al decreto del Presidente della Repubblica 22 dicembre 1986, n. 917, non concorrono a formare il margine di intermediazione dell'esercizio in cui sono imputati a conto economico, in quanto esclusi dalla formazione del valore della produzione netta della societa' o dell'ente ricevente per il 95 per cento del loro ammontare). (79)
+
+7.
+                        
+                            
+                                Per la Banca d'Italia e l'Ufficio italiano dei cambi, per i quali assumono rilevanza i bilanci compilati in conformita' ai criteri di rilevazione e di redazione adottati dalla Banca centrale europea ai sensi dello Statuto del Sistema europeo di banche centrali (SEBC) e alle raccomandazioni dalla stessa formulate in materia, la base imponibile e' determinata dalla somma algebrica delle seguenti componenti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    interessi netti; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    risultato netto da commissioni, provvigioni e tariffe; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    costi per servizi di produzione di banconote; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    risultato netto della redistribuzione del reddito monetario; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    ammortamenti delle immobilizzazioni materiali e immateriali, nella misura del 90 per cento; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    spese di amministrazione, nella misura del 90 per cento.
 
 Per i soggetti indicati nei commi precedenti non e' comunque ammessa la deduzione: dei costi, dei compensi e degli utili indicati nel comma 1, lettera b), numeri da 2) a 5), dell'articolo 11; della quota interessi dei canoni di locazione finanziaria, desunta dal contratto; dell'imposta comunale sugli immobili di cui al decreto legislativo 30 dicembre 1992, n. 504. Per le societa' di intermediazione mobiliare di cui al testo unico delle disposizioni in materia di intermediazione finanziaria, di cui al decreto legislativo 24 febbraio 1998, n. 58, gli interessi passivi concorrono alla formazione del valore della produzione nella misura del 96 per cento del loro ammontare. PERIODO SOPPRESSO DALLA L. 28 DICEMBRE 2015, N.
 208. I contributi erogati in base a norma di legge, fatta eccezione per quelli correlati a costi indeducibili, nonche' le plusvalenze e le minusvalenze derivanti dalla cessione di immobili che non costituiscono beni strumentali per l'esercizio dell'impresa, ne' beni alla cui produzione o al cui scambio e' diretta l'attivita' dell'impresa, concorrono in ogni caso alla formazione del valore della produzione. Sono comunque ammesse in deduzione quote di ammortamento del costo sostenuto per l'acquisizione di marchi d'impresa e a titolo di avviamento in misura non superiore a un diciottesimo del costo indipendentemente dall'imputazione al conto economico. (52) (56) 
@@ -248,6 +376,31 @@ Per i soggetti indicati nei commi precedenti non e' comunque ammessa la deduzion
  Ha inoltre disposto (con l'art. 377, comma 1) che la presente disposizione si applica a decorrere dal 1° gennaio 2027.
 
 ## Art. 7. — (Determinazione del valore della produzione netta delle imprese di assicurazione)
+
+1.
+                        
+                            
+                                Per le imprese di assicurazione, la base imponibile e' determinata apportando alla somma dei risultati del conto tecnico dei rami danni (voce 29) e del conto tecnico dei rami vita (voce 80) del conto economico le seguenti variazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    gli ammortamenti dei beni strumentali, ovunque classificati, e le altre spese di amministrazione (voci 24 e 70), sono deducibili nella misura del 90 per cento; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    i dividendi (voce 33) sono assunti nella misura del 50 per cento; 
+
+                                
+                            
+                            
+                                b-bis)
+                                
+                                    le perdite, le svalutazioni e le riprese di valore nette per deterioramento dei crediti, limitatamente a quelle riconducibili a crediti nei confronti di assicurati iscritti in bilancio a tale titolo. (49)
 
 A condizione che sussistano i requisiti di cui all'articolo 27-bis del decreto del Presidente della Repubblica 29 settembre 1973, n. 600, i dividendi provenienti da societa' o enti residenti o localizzati in uno Stato membro dell'Unione europea o in uno Stato aderente all'Accordo sullo Spazio economico europeo con il quale l'Italia abbia stipulato un accordo che assicuri un effettivo scambio di informazioni, verificandosi la condizione di cui all'articolo 44, comma 2, lettera a), secondo periodo, del testo unico delle imposte sui redditi, di cui al decreto del Presidente della Repubblica 22 dicembre 1986, n. 917, non concorrono a formare la base imponibile della societa' o dell'ente ricevente per il 95 per cento del loro ammontare. (79)
 
@@ -335,6 +488,31 @@ La base imponibile relativa alle altre attivita' e' determinata a norma del prec
 
 COMMA ABROGATO DAL D.LGS. 30 DICEMBRE 1999, N. 506.
 
+4.
+                        
+                            
+                                Per gli altri soggetti di cui all'articolo 3, comma 1, lettera e), la base imponibile e' determinata:
+ 
+                            
+                            
+                                a)
+                                
+                                    per le societa' ed enti commerciali secondo le disposizioni degli articoli 5, 6 e 7 che risultano ad essi applicabili;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    per le societa' ed associazioni esercenti arti e professioni secondo la disposizione dell'articolo 8;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    LETTERA ABROGATA DAL D.LGS. 30 DICEMBRE 1999, N. 506.
+
 Ai fini dell'applicazione del presente titolo le attivita' commerciali sono quelle considerate tali ai fini delle imposte sui redditi.
 
 ---------------
@@ -354,6 +532,37 @@ Se i soggetti di cui al comma 1 esercitano anche attivita' commerciali, gli stes
 
 ## Art. 11. — (Disposizioni comuni per la determinazione del valore della produzione netta)
 
+1.
+                        
+                            
+                                Nella determinazione della base imponibile: 
+ 
+                            
+                            
+                                a)
+                                
+                                    sono ammessi in deduzione: 
+ 1) in relazione a soggetti diversi dai lavoratori dipendenti a tempo indeterminato, i contributi per le assicurazioni obbligatorie contro gli infortuni sul lavoro; (71) 
+ 1-bis) le somme corrisposte, anche su base volontaria al fondo istituito, con mandato senza rappresentanza, presso uno dei consorzi cui le imprese aderiscono in ottemperanza a obblighi di legge, in conformita' alle disposizioni di legge o contrattuali, indipendentemente dal trattamento contabile ad esse applicato, a condizione che siano utilizzate in conformita' agli scopi di tali consorzi; (51) 
+ 2) NUMERO ABROGATO DAL D.L. 21 GIUGNO 2022, N. 73 CONVERTITO CON MODIFICAZIONI DALLA L. 4 AGOSTO 2022, N. 122; (71) 
+ 3) NUMERO ABROGATO DALLA L. 30 DICEMBRE 2018, N. 145; 
+ 4) NUMERO ABROGATO DAL D.L. 21 GIUGNO 2022, N. 73 CONVERTITO CON MODIFICAZIONI DALLA L. 4 AGOSTO 2022, N. 122; (71) 
+ 5) per i soggetti che determinano il valore della produzione ai sensi degli articoli da 5 a 9, in relazione al personale dipendente diverso da quello a tempo indeterminato, e per i soggetti che determinano il valore della produzione ai sensi degli articoli 10, comma 1, e 10-bis, comma 1, le spese relative agli apprendisti, ai disabili e le spese per il personale assunto con contratti di formazione e lavoro, nonche', per i soggetti di cui all'articolo 3, comma 1, lettere da a) a e), i costi sostenuti per il personale addetto alla ricerca e sviluppo, ivi compresi quelli per il predetto personale sostenuti da consorzi tra imprese costituiti per la realizzazione di programmi comuni di ricerca e sviluppo, a condizione che l'attestazione di effettivita' degli stessi sia rilasciata dal presidente del collegio sindacale ovvero, in mancanza, da un revisore dei conti o da un professionista iscritto negli albi dei revisori dei conti, dei dottori commercialisti, dei ragionieri e periti commerciali o dei consulenti del lavoro, nelle forme previste dall'articolo 13, comma 2, del decreto-legge 28 marzo 1997, n. 79, convertito, con modificazioni, dalla legge 28 maggio 1997, n. 140, e successive modificazioni, ovvero dal responsabile del centro di assistenza fiscale; (71) 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    non sono ammessi in deduzione: 
+ 1) NUMERO ABROGATO DALLA L. 24 DICEMBRE 2007, N. 244. (35) 
+ 2) i compensi per attivita' commerciali e per prestazioni di lavoro autonomo non esercitate abitualmente, nonche' i compensi attribuiti per obblighi di fare, non fare o permettere, di cui all'articolo 67, comma 1, lettere i) e l), del testo unico delle imposte sui redditi, di cui al decreto del Presidente della Repubblica 22 dicembre 1986, n. 917; (35) 
+ 3) i costi per prestazioni di collaborazione coordinata e continuativa di cui all'articolo 49, commi 2, lettera a), e 3, del predetto testo unico delle imposte sui redditi; 
+ 4) i compensi per prestazioni di lavoro assimilato a quello dipendente ai sensi dell'articolo 47 dello stesso testo unico delle imposte sui redditi; 
+ 5) gli utili spettanti agli associati in partecipazione di cui alla lettera c) del predetto articolo 49, comma 2, del testo unico delle imposte sui redditi; 
+ 6) NUMERO ABROGATO DALLA L. 24 DICEMBRE 2007, N. 244. (33) 
+ 1.1. Le deduzioni di cui al comma 1, lettera a), numeri 2), 3) e 4), per i produttori agricoli di cui all'articolo 3, comma 1, lettera d), e per le societa' agricole di cui all'articolo 2 del decreto legislativo 29 marzo 2004, n. 99, si applicano, nella misura del 50 per cento degli importi ivi previsti, anche per ogni lavoratore agricolo dipendente a tempo determinato impiegato nel periodo di imposta purche' abbia lavorato almeno 150 giornate e il contratto abbia almeno una durata triennale. (45)
+
 Per le imprese autorizzate all'auto-trasporto di merci, sono ammesse in deduzione le indennita' di trasferta previste contrattualmente, per la parte che non concorre a formare il reddito del dipendente ai sensi dell'articolo 48, comma 5, del testo unico delle imposte sui redditi, di cui al decreto del Presidente della Repubblica 22 dicembre 1986, n. 917.
 
 COMMA ABROGATO DALLA L. 24 DICEMBRE 2007, N. 244. (35)
@@ -361,6 +570,47 @@ COMMA ABROGATO DALLA L. 24 DICEMBRE 2007, N. 244. (35)
 COMMA ABROGATO DALLA L. 24 DICEMBRE 2007, N. 244. (35)
 
 COMMA ABROGATO DALLA L. 24 DICEMBRE 2007, N. 244. (35)
+
+4-bis.
+                        
+                            
+                                Per i soggetti di cui all'articolo 3, comma 1, lettere da 
+                            
+                            
+                                a)
+                                
+                                    ad e), sono ammessi in deduzione, fino a concorrenza, i seguenti importi: 
+ a) euro 8.000 se la base imponibile non supera euro 180.759,91; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    euro 6.000 se la base imponibile supera euro 180.759,91 ma non euro 180.839,91; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    euro 4.000 se la base imponibile supera euro 180.839,91 ma non euro 180.919,91; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    euro 2.000 se la base imponibile supera euro 180.919,91 ma non euro 180.999,91; 
+
+                                
+                            
+                            
+                                d-bis)
+                                
+                                    per i soggetti di cui all'articolo 3, comma 1, lettere b) e c), l'importo delle deduzioni indicate nelle lettere da a) a d) del presente comma e' aumentato, rispettivamente, di euro 5.000, di euro 3.750, di euro 2.500 e di euro 1.250. (42) (52) 
+ 4-bis.1. Ai soggetti di cui all'articolo 3, comma 1, lettere da a) ad e), con componenti positivi che concorrono alla formazione del valore della produzione non superiori nel periodo d'imposta a euro 400.000, spetta una deduzione dalla base imponibile pari a euro 1.850, su base annua, per ogni lavoratore dipendente diverso da quelli a tempo indeterminato impiegato nel periodo d'imposta fino a un massimo di cinque. Ai fini del computo del numero di lavoratori dipendenti per i quali spetta la deduzione di cui al presente comma non si tiene conto degli apprendisti, dei disabili e del personale assunto con contratti di formazione lavoro.(35) (71) 
+ 4-bis.2. In caso di periodo d'imposta di durata inferiore o superiore a dodici mesi e in caso di inizio e cessazione dell'attivita' in corso d'anno, gli importi delle deduzioni e della base imponibile di cui al comma 4-bis e dei componenti positivi di cui al comma 4-bis.1 sono ragguagliati all'anno solare. Le deduzioni di cui ai commi 1, lettera a), numero 2), e 4-bis.1 sono ragguagliate ai giorni di durata del rapporto di lavoro nel corso del periodo d'imposta nel caso di contratti di lavoro a tempo indeterminato e parziale, nei diversi tipi e modalita' di cui all'articolo 1 del decreto legislativo 25 febbraio 2000, n. 61, e successive modificazioni, ivi compreso il lavoro a tempo parziale di tipo verticale e di tipo misto, sono ridotte in misura proporzionale; per i soggetti di cui all'articolo 3, comma 1, lettera e), le medesime deduzioni spettano solo in relazione ai dipendenti impiegati nell'esercizio di attivita' commerciali e, in caso di dipendenti impiegati anche nelle attivita' istituzionali, l'importo e' ridotto in base al rapporto di cui all'articolo 10, comma 2.
 
 I soggetti di cui all'articolo 4, comma 2, applicano le deduzioni indicate nel presente articolo sul valore della produzione netta prima della ripartizione dello stesso su base regionale. (12)
 
@@ -484,6 +734,31 @@ L'imposta e' dovuta alla regione nel cui territorio il valore della produzione n
 ## Art. 16. — Determinazione dell'imposta
 
 L'imposta e' determinata applicando al valore della produzione netta l'aliquota del 3,50 per cento, salvo quanto previsto dal comma 2, nonche' nei commi 1 e 2 dell'articolo 45. (35) (44) (47) ((80))
+
+1-bis.
+                        
+                            
+                                Nei confronti dei soggetti di cui: 
+ 
+                            
+                            
+                                a)
+                                
+                                    all'articolo 5, che esercitano attivita' di imprese concessionarie diverse da quelle di costruzione e gestione di autostrade e trafori, si applica l'aliquota del 3,80 per cento; (44) (47) 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    all'articolo 6, si applica l'aliquota del 4,20 per cento; (44) (47) (79) 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    all'articolo 7, si applica l'aliquota del 5,30 per cento. (44) (47) (79) ((80))
 
 Nei confronti dei soggetti di cui all'articolo 3, comma 1, lettera e-bis), relativamente al valore prodotto nell'esercizio di attivita' non commerciali, determinato ai sensi dell'articolo 10-bis, si applica l'aliquota dell'8,5 per cento. (8)
 
@@ -713,6 +988,45 @@ Per le violazioni degli obblighi relativi alla tenuta o conservazione della cont
 ## Art. 36. — Decorrenza dell'imposta
  e abolizione di contributi e tributi
 
+1.
+                        
+                            
+                                Salvo quanto disposto dall'articolo 37, l'imposta regionale sulle attivita' produttive si applica a decorrere dalla data di entrata in vigore del presente decreto e dalla medesima data sono aboliti:
+ 
+                            
+                            
+                                a)
+                                
+                                    i contributi per il servizio sanitario nazionale di cui all'articolo 31 della legge 28 febbraio 1986, n. 41, come da ultimo modificato dall'articolo 4 della legge 22 marzo 1995, n. 85, il contributo dello 0,2 per cento di cui all'articolo 1, terzo comma, della legge 31 dicembre 1961, n. 1443, e all'articolo 20, ultimo comma, della legge 12 agosto 1962, n. 1338, e la quota di contributo per l'assicurazione obbligatoria contro la tubercolosi eccedente quella prevista per il finanziamento delle prestazioni economiche della predetta assicurazione di cui all'articolo 27 della legge 9 marzo 1989, n. 88;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'imposta locale sui redditi di cui al titolo III del testo unico delle imposte sui redditi, approvato con decreto del Presidente della Repubblica 22 dicembre 1986, n. 917;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    l'imposta comunale per l'esercizio di imprese e di arti e professioni, di cui al titolo I del decreto-legge 2 marzo 1989, n. 66, convertito, con modificazioni, dalla legge 24 aprile 1989, n. 144;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    la tassa sulla concessione governativa per l'attribuzione del numero di partita IVA, di cui all'articolo 24 della tariffa allegata al decreto del Presidente della Repubblica 26 ottobre 1972, n. 641, come sostituita dal decreto del Ministro delle finanze 28 dicembre 1995, pubblicato nella Gazzetta Ufficiale n. 303 del 30 dicembre 1995;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    l'imposta sul patrimonio netto delle imprese, istituita con decreto-legge 30 settembre 1992, n. 394, convertito, con modificazioni, dalla legge 26 novembre 1992, n. 461.
+
 I versamenti relativi ai tributi e ai contributi aboliti indicati nel comma 1, i cui presupposti di imposizione si verificano anteriormente alla data dalla quale, nei confronti dei singoli soggetti passivi, ha effetto la loro abolizione, sono effettuati anche successivamente a tale data.
 
 ## Art. 37. — Soggetti con periodo di imposta non coincidente
@@ -940,6 +1254,32 @@ Il D.Lgs. 18 febbraio 2000, n. 56 ha disposto (con l'art. 3, comma 1) che a deco
 
 Dal 1 gennaio 1998 sono abolite le tasse sulle concessioni comunali di cui all'articolo 8 del decreto-legge 10 novembre 1978, n. 702, convertito, con modificazioni, dalla legge 8 gennaio 1979, n. 3.
 
+2.
+                        
+                            
+                                Dal 1 gennaio 1999 sono abolite:
+ 
+                            
+                            
+                                a)
+                                
+                                    
+                                        (( LETTERA ABROGATA DALLA L. 23 DICEMBRE 1998, N. 448 )).
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'imposta erariale di trascrizione, iscrizione ed annotazione dei veicoli al pubblico registro automobilistico di cui alla legge 23 dicembre 1977, n. 952;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    l'addizionale provinciale all'imposta erariale di trascrizione di cui all'articolo 3, comma 48, della legge 28 dicembre 1995, n. 549.
+
 I versamenti relativi ai tributi indicati nei commi 1 e 2, i cui presupposti di imposizione si verificano anteriormente alla data dalla quale, nei confronti dei singoli soggetti passivi, ha effetto la loro abolizione, sono effettuati anche successivamente a tale data.
 
 ## Art. 52. — Potesta' regolamentare generale delle province e dei comuni
@@ -951,6 +1291,42 @@ COMMA ABROGATO DAL D.L. 30 APRILE 2019, N. 34, CONVERTITO CON MODIFICAZIONI DALL
 Nelle province autonome di Trento e Bolzano, i regolamenti sono adottati in conformita' alle disposizioni dello statuto e delle relative norme di attuazione.
 
 Il Ministero delle finanze puo' impugnare i regolamenti sulle entrate tributarie per vizi di legittimita' avanti gli organi di giustizia amministrativa.
+
+5.
+                        
+                            
+                                I regolamenti, per quanto attiene all'accertamento e alla riscossione dei tributi e delle altre entrate, sono informati ai seguenti criteri: 
+ 
+                            
+                            
+                                a)
+                                
+                                    l'accertamento dei tributi puo' essere effettuato dall'ente locale anche nelle forme associate previste negli articoli 24, 25, 26 e 28 della legge 8 giugno 1990, n. 142; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    qualora sia deliberato di affidare a terzi, anche disgiuntamente, l'accertamento e la riscossione dei tributi e di tutte le entrate, le relative attivita' sono affidate, nel rispetto della normativa dell'Unione europea e delle procedure vigenti in materia di affidamento della gestione dei servizi pubblici locali, a: 
+ 1) i soggetti iscritti nell'albo di cui all'articolo 53, comma 1; ((75)) 
+ 2) gli operatori degli Stati membri stabiliti in un Paese dell'Unione europea che esercitano le menzionate attivita', i quali devono presentare una certificazione rilasciata dalla competente autorita' del loro Stato di stabilimento dalla quale deve risultare la sussistenza di requisiti equivalenti a quelli previsti dalla normativa italiana di settore; 
+ 3) la societa' a capitale interamente pubblico, di cui all'articolo 113, comma 5, lettera c), del testo unico di cui al decreto legislativo 18 agosto 2000, n. 267, e successive modificazioni, mediante convenzione, a condizione: che l'ente titolare del capitale sociale eserciti sulla societa' un controllo analogo a quello esercitato sui propri servizi; che la societa' realizzi la parte piu' importante della propria attivita' con l'ente che la controlla; che svolga la propria attivita' solo nell'ambito territoriale di pertinenza dell'ente che la controlla; 
+ 4) le societa' di cui all'articolo 113, comma 5, lettera b), del citato testo unico di cui al decreto legislativo n. 267 del 2000, iscritte nell'albo di cui all'articolo 53, comma 1, del presente decreto, i cui soci privati siano scelti, nel rispetto della disciplina e dei principi comunitari, tra i soggetti di cui ai numeri 1) e 2) della presente lettera, a condizione che l'affidamento dei servizi di accertamento e di riscossione dei tributi e delle entrate avvenga sulla base di procedure ad evidenza pubblica. (64)(68) 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    l'affidamento di cui alla precedente lettera b) non deve comportare oneri aggiuntivi per il contribuente; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    il visto di esecutivita' sui ruoli per la riscossione dei tributi e delle altre entrate e' apposto, in ogni caso, dal funzionario designato quale responsabile della relativa gestione.
 
 COMMA ABROGATO DALLA L. 24 DICEMBRE 2007, N. 244.
 
@@ -1057,11 +1433,73 @@ Con decreto del Ministro delle finanze sono stabilite le misure dell'imposta pro
 ## Art. 57. — Revisione delle imposte di registro
  e sulle donazioni
 
+1.
+                        
+                            
+                                Nel testo unico delle disposizioni concernenti l'imposta di registro, approvato con decreto del Presidente della Repubblica 26 aprile 1986, n. 131, sono apportate le seguenti modificazioni:
+ 
+                            
+                            
+                                a)
+                                
+                                    all'articolo 7, concernente gli atti non soggetti a registrazione, nel comma 1, secondo periodo, le parole "4, 5 e 11" sono sostituite dalle seguenti: "4, 5, 11 e 11-bis";
+
+                                
+                            
+                            
+                                b)
+                                
+                                    all'articolo 51, relativo ai valori dei beni e dei diritti, nel comma 4, dopo le parole "art. 7 della parte prima della tariffa" sono inserite le seguenti: "e art. 11-bis della tabella";
+
+                                
+                            
+                            
+                                c)
+                                
+                                    alla tariffa, parte prima, concernente gli atti soggetti a registrazione in termine fisso:
+ 1) nell'articolo 4, comma 1, lettera a), numero 4), la parola "autoveicoli" e' sostituita dalle seguenti: "unita' da diporto"; alla stessa lettera, nel numero 5, dopo le parole "di beni mobili" sono inserite le seguenti: ", esclusi quelli di cui all'articolo 11-bis della tabella,";
+ 2) nell'articolo 7, comma 1, sono soppresse le lettere da a) ad e) nonche' le note;
+ 3) nell'articolo 8, comma 1, lettera a), la parola "autoveicoli" e' sostituita dalle seguenti: "unita' da diporto";
+ 4) nell'articolo 11, le parole "4, 5 e 11" sono sostituite dalle seguenti: "4, 5, 11 e 11-bis";
+
+                                
+                            
+                            
+                                d)
+                                
+                                    nella tabella, relativa agli atti per i quali non vi e' l'obbligo di chiedere la registrazione, dopo l'articolo 11, e' aggiunto il seguente: "Art. 11-bis. - 1. Atti di natura traslativa o dichiarativa aventi ad oggetto veicoli iscritti nel pubblico registro automobilistico.".
+
 E' abrogato il comma 2 dell'articolo 59 del testo unico delle disposizioni concernenti l'imposta sulle successioni e donazioni, approvato con decreto legislativo 31 ottobre 1990, n. 346, e dopo lo stesso articolo 59 e' inserito il seguente: "Art. 59-bis (Esenzione per i veicoli iscritti al pubblico registro automobilistico) - 1. Non sono soggette ad imposta, anche nella ipotesi di cui all'articolo 59, comma 3, le donazioni di veicoli di cui all'articolo 12, comma 1, lettera l).".
 
 Le disposizioni del presente articolo hanno effetto dal 1 gennaio 1999.
 
 ## Art. 58. — Modifiche alla disciplina dell'imposta comunale sugli immobili
+
+1.
+                        
+                            
+                                Nel capo I del decreto legislativo 30 dicembre 1992, n. 504, concernente l'imposta comunale sugli immobili, sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    l'articolo 3 e' sostituito dal seguente: "Art. 3 (Soggetti passivi) - 1. Soggetti passivi dell'imposta sono il proprietario di immobili di cui al comma 2 dell'articolo 1, ovvero il titolare di diritto reale di usufrutto, uso, abitazione, enfiteusi, superficie, sugli stessi, anche se non residenti nel territorio dello Stato o se non hanno ivi la sede legale o amministrativa o non vi esercitano l'attivita'. 
+ 2. Per gli immobili concessi in locazione finanziaria, soggetto passivo e' il locatario. In caso di fabbricati di cui all'articolo 5, comma 3, il locatario assume la qualita' di soggetto passivo a decorrere dal primo gennaio dell'anno successivo a quello nel corso del quale e' stato stipulato il contratto di locazione finanziaria.". 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    nel comma 2 dell'articolo 5, relativo alla base imponibile, l'ultimo periodo e' soppresso e nel comma 3 del medesimo articolo, e' aggiunto, in fine, il seguente periodo: "In caso di locazione finanziaria il locatore o il locatario possono esperire la procedura di cui al regolamento adottato con decreto del Ministro delle finanze del 19 aprile 1994, n. 701, con conseguente determinazione del valore del fabbricato sulla base della rendita proposta, a decorrere dal primo gennaio dell'anno successivo a quello nel corso del quale tale rendita e' stata annotata negli atti catastali, ed estensione della procedura prevista nel terzo periodo del comma 1 dell'articolo 11; in mancanza di rendita proposta il valore e' determinato sulla base delle scritture contabili del locatore, il quale e' obbligato a fornire tempestivamente al locatario tutti i dati necessari per il calcolo."; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    nel comma 1 dell'articolo 13, concernente i rimborsi dell'imposta, l'ultimo periodo e' soppresso.
 
 Agli effetti dell'applicazione dell'articolo 9 del decreto legislativo 30 dicembre 1992, n. 504, relativo alle modalita' di applicazione dell'imposta ai terreni agricoli, si considerano coltivatori diretti od imprenditori agricoli a titolo principale le persone fisiche iscritte negli appositi elenchi comunali previsti dall'articolo 11 della legge 9 gennaio 1963, n. 9, e soggette al corrispondente obbligo dell'assicurazione per invalidita', vecchiaia e malattia; la cancellazione dai predetti elenchi ha effetto a decorrere dal primo gennaio dell'anno successivo.
 
@@ -1070,6 +1508,111 @@ Agli effetti dell'applicazione dell'articolo 9 del decreto legislativo 30 dicemb
 COMMA ABROGATO DAL D.LGS. 30 DICEMBRE 1999, N. 506.
 
 ## Art. 59. — Potesta' regolamentare in materia di imposta comunale sugli immobili
+
+1.
+                        
+                            
+                                Con regolamento adottato a norma dell'articolo 52, i comuni possono: 
+ 
+                            
+                            
+                                a)
+                                
+                                    stabilire ulteriori condizioni ai fini dell'applicazione delle disposizioni del secondo periodo della lettera b) del comma 1 dell'articolo 2 del decreto legislativo 30 dicembre 1992, n. 504, riguardante i terreni considerati non fabbricabili, anche con riferimento alla quantita' e qualita' di lavoro effettivamente dedicato all'attivita' agricola da parte dei soggetti di cui al comma 2 dell'articolo 58 e del proprio nucleo familiare; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    disporre l'esenzione per gli immobili posseduti dallo Stato, dalle regioni, dalle provincie, dagli altri comuni, dalle comunita' montane, dai consorzi fra detti enti, dalle aziende unita' sanitarie locali, non destinati esclusivamente ai compiti istituzionali; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    stabilire che l'esenzione di cui all'articolo 7, comma 1, lettera i), del decreto legislativo 30 dicembre 1992, n. 504, concernente gli immobili utilizzati da enti non commerciali, si applica soltanto ai fabbricati ed a condizione che gli stessi, oltre che utilizzati, siano anche posseduti dall'ente non commerciale utilizzatore; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    
+                                        ((LETTERA ABROGATA DAL D.L. 6 DICEMBRE 2011, N. 201, CONVERTITO CON MODIFICAZIONI DALLA L. 22 DICEMBRE 2011, N. 214)); 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    
+                                        ((LETTERA ABROGATA DAL D.L. 6 DICEMBRE 2011, N. 201, CONVERTITO CON MODIFICAZIONI DALLA L. 22 DICEMBRE 2011, N. 214)); 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    prevedere il diritto al rimborso dell'imposta pagata per le aree successivamente divenute inedificabili, stabilendone termini, limiti temporali e condizioni, avuto anche riguardo alle modalita' ed alla frequenza delle varianti apportate agli strumenti urbanistici; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    determinare periodicamente e per zone omogenee i valori venali in comune commercio delle aree fabbricabili, al fine della limitazione del potere di accertamento del comune qualora l'imposta sia stata versata sulla base di un valore non inferiore a quello predeterminato, secondo criteri improntati al perseguimento dello scopo di ridurre al massimo l'insorgenza di contenzioso; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    
+                                        ((LETTERA ABROGATA DAL D.L. 6 DICEMBRE 2011, N. 201, CONVERTITO CON MODIFICAZIONI DALLA L. 22 DICEMBRE 2011, N. 214)); 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    stabilire che si considerano regolarmente eseguiti i versamenti effettuati da un contitolare anche per conto degli altri; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    LETTERA ABROGATA DALLA L. 27 DICEMBRE 2006, N. 296; 
+
+                                
+                            
+                            
+                                m)
+                                
+                                    introdurre l'istituto dell'accertamento con adesione del contribuente, sulla base dei criteri stabiliti dal decreto legislativo 19 giugno 1997, n. 218; 
+
+                                
+                            
+                            
+                                n)
+                                
+                                    LETTERA ABROGATA DALLA L. 27 DICEMBRE 2006, N. 296; 
+
+                                
+                            
+                            
+                                o)
+                                
+                                    stabilire differimenti di termini per i versamenti, per situazioni particolari; 
+
+                                
+                            
+                            
+                                p)
+                                
+                                    prevedere che ai fini del potenziamento degli uffici tributari del comune, ai sensi dell'articolo 3, comma 57, della legge 23 dicembre 1996, n. 662, possono essere attribuiti compensi incentivanti al personale addetto.
 
 COMMA ABROGATO DALLA L. 27 DICEMBRE 2006, N. 296.
 

@@ -8,8 +8,8 @@ codice_redazionale: 007G0165
 vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:23Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -50,6 +50,77 @@ Chiunque, sprovvisto del certificato di idoneita' di cui all'articolo 17, paragr
 Alla stessa sanzione soggiace il trasportatore, l'organizzatore o il detentore che affida gli animali ad un conducente o ad un guardiano sprovvisto del certificato di idoneita' ovvero scaduto di validita', sospeso o revocato.
 
 ## Art. 5. — Irregolarita' o mancanza della documentazione
+
+1.
+                    
+                        
+                            Il trasportatore che, durante il trasporto, commette irregolarita' documentali di cui al comma 2 e' soggetto alla sanzione amministrativa pecuniaria da Euro 1.000 a Euro 3.000.
+ 2 . Costituiscono irregolarita' documentali:
+ 
+                        
+                        
+                            a)
+                            
+                                la mancanza sul mezzo di trasporto di un documento contenente le informazioni richieste dall'articolo 4, paragrafo 1, del Regolamento;
+
+                            
+                        
+                        
+                            b)
+                            
+                                la mancanza sul mezzo di trasporto del Documento veterinario comune di entrata (DVCE) per gli animali provenienti da Paesi terzi per il tratto di percorso successivo al controllo presso il Posto di ispezione frontaliera (P.I.F.) di entrata;
+
+                            
+                        
+                        
+                            c)
+                            
+                                per i lunghi viaggi di cui all'articolo 5, paragrafo 4, del regolamento, la mancanza sul mezzo di trasporto del giornale di viaggio ovvero l'utilizzazione di un giornale di viaggio non conforme al modello previsto dal Regolamento o mancante della precisazione dei punti di riposo o di trasferimento, secondo le disposizioni dell'Allegato II del Regolamento;
+
+                            
+                        
+                        
+                            d)
+                            
+                                l'irregolare compilazione dei certificati sanitari o dei documenti di trasporto riguardo a:
+ 1. origine e proprieta' degli animali;
+ 2. luogo, data ed ora di partenza;
+ 3. luogo di destinazione e destinatario;
+ 4. numero dei capi;
+ 5. durata prevista del viaggio;
+
+                            
+                        
+                        
+                            e)
+                            
+                                l'irregolare compilazione, nel giornale di viaggio, dei dati relativi a:
+ 1. luogo data ed ora di partenza;
+ 2. luogo di destinazione e ora di arrivo prevista;
+ 3. percorso, posti di controllo e luoghi di riposo o trasferimento individuati;
+ 4. durata prevista del viaggio;
+
+                            
+                        
+                        
+                            f)
+                            
+                                compilazione del giornale di viaggio da parte di persone a cio' non legittimate;
+
+                            
+                        
+                        
+                            g)
+                            
+                                la mancata indicazione del numero del certificato veterinario sul giornale di viaggio;
+
+                            
+                        
+                        
+                            h)
+                            
+                                il mancato possesso del certificato veterinario all'interno del mezzo per tutta la durata del trasporto.
+ 3 . Fuori dai casi di concorso nella violazione, 1'organizzatore ed il detentore degli animali del luogo di carico sono obbligati in solido con il trasportatore per il pagamento delle sanzioni pecuniarie previste per le violazioni di cui al presente articolo.
 
 ## Art. 6. — Violazioni delle norme concernenti il certificato di omologazione del mezzo di trasporto
 

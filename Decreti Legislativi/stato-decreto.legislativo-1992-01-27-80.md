@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
 vigenza_date: 2007-01-01
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:21Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -29,6 +29,28 @@ Nel caso in cui il datore di lavoro sia assoggettato alle pro- cedure di fallime
 ## Art. 2. — Intervento del Fondo di garanzia 
  di cui alla legge 29 maggio 1982, n. 297
 
+1.
+                    
+                        
+                            Il pagamento effettuato dal Fondo di garanzia ai sensi dell'art. 1 e' relativo ai crediti di lavoro, diversi da quelli spettanti a titolo di trattamento di fine rapporto, inerenti gli ultimi tre mesi del rapporto di lavoro rientranti nei dodici mesi che precedono: 
+                        
+                        
+                            a)
+                            
+                                la data del provvedimento che determina l'apertura di una delle pro- cedure indicate nell'art. 1, comma 1;
+                            
+                        
+                        
+                            b)
+                            
+                                la data di inizio dell'esecuzione forzata;
+                            
+                        
+                        
+                            c)
+                            
+                                la data del provvedimento di messa in liquidazione o di cessazione dell'esercizio provvisorio ovvero dell'autorizzazione alla continuazione dell'esercizio di impresa per i lavoratori che abbiano continuato a prestare attivita' lavorativa, ovvero la data di cessazione del rapporto di lavoro, se questa e' intervenuta durante la continuazione dell'attivita' dell'impresa.
+
 Il pagamento effettuato dal Fondo ai sensi del comma 1 non puo' essere superiore ad una somma pari a tre volte la misura massima del trattamento straordinario di integrazione salariale mensile al netto delle trattenute previdenziali e assistenziali.
 
 ((
@@ -38,6 +60,29 @@ L'intervento del Fondo di garanzia opera anche nel caso in cui datore di lavoro 
 ))
 
 Per il conseguimento delle somme dovute dal Fondo ai sensi del presente articolo si applicano le disposizioni di cui ai commi secondo, terzo, quarto, quinto, settimo, primo periodo e decimo dell'art. 2 della legge 29 maggio 1982, n. 297. Per le somme corrisposte dal Fondo si applica il disposto di cui al comma settimo, secondo periodo, dell'art. 2 della legge citata.
+
+4.
+                    
+                        
+                            Il pagamento di cui al comma 1 non e' cumulabile fino a concorrenza degli importi: 
+                        
+                        
+                            a)
+                            
+                                con il trattamento straordinario di integrazione salariale fruito nell'arco dei dodici mesi di cui al comma 1;
+                            
+                        
+                        
+                            b)
+                            
+                                
+                                    ((LETTERA SOPPRESSA DAL D.LGS. 19 AGOSTO 2005, N. 186));
+                            
+                        
+                        
+                            c)
+                            
+                                con l'indennita' di mobilita' riconosciuta ai sensi della legge 23 luglio 1991, n. 223, nell'arco dei tre mesi successivi alla risoluzione di rapporto di lavoro.
 
 Il diritto alla prestazione di cui al comma 1 si prescrive in un anno. Gli interessi e la svalutazione monetaria sono dovuti dalla data di presentazione della domanda.
 

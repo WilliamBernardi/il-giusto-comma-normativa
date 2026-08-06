@@ -8,8 +8,8 @@ codice_redazionale: 098G0084
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti governativi
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:12Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -36,6 +36,73 @@ Sulla proposta del Presidente del Consiglio dei Ministri e del Ministro per la f
  e deposito degli additivi alimentari
 
 L'autorizzazione alla produzione, al commercio e al deposito ai fini della commercializzazione degli additivi alimentari e' rilasciata dalla regione o dalle province autonome di Trento e Bolzano territorialmente competenti o dalle autorita' dalle stesse delegate.
+
+2.
+                    
+                        
+                            Il 1egale rappresentante dell'impresa interessato al rilascio dell'autorizzazione di cui al comma 1 presenta istanza contenente:
+ 
+                        
+                        
+                            a)
+                            
+                                certificazione comprovante l'iscrizione alla camera di commercio, industria ed artigianato, in relazione allo svolgimento dell'attivita' per la quale l'autorizzazione e' richiesta;
+
+                            
+                        
+                        
+                            b)
+                            
+                                numero del codice fiscale;
+
+                            
+                        
+                        
+                            c)
+                            
+                                elenco degli additivi alimentari oggetto dell'istanza;
+
+                            
+                        
+                        
+                            d)
+                            
+                                planimetria in scala 1:100, con descrizione dei locali ed indicazione della relativa destinazione d'uso;
+
+                            
+                        
+                        
+                            e)
+                            
+                                relazione sulle caratteristiche tecnicocostruttive, strutturali ed igienicosanitarie dello stabilimento;
+
+                            
+                        
+                        
+                            f)
+                            
+                                descrizione delle attrezzature adibite alla produzione ed al controllo analitico delle caratteristiche prescritte dai decreti ministeriali emanati ai sensi dell'articolo 22 della legge 30 aprile 1962, n. 283, e successive modificazioni, per gli additivi alimentari oggetto dell'istanza, limitatamente alla produzione;
+
+                            
+                        
+                        
+                            g)
+                            
+                                copia autentica dell'autorizzazione rilasciata dall'autorita' competente allo smaltimento o all'allontanamento delle acque reflue nonche' alle emissioni in atmosfera, limitatamente alla produzione;
+
+                            
+                        
+                        
+                            h)
+                            
+                                nominativo del responsabile dello stabilimento;
+
+                            
+                        
+                        
+                            i)
+                            
+                                dichiarazione, sotto propria responsabilita', di possedere il requisito prescritto dal comma 4.
 
 La documentazione richiesta ai sensi del comma 2, lettere a) e g), puo' essere sostituita, per l'avvio dell'istruttoria, dalla copia della domanda presentata dall'interessato ai fini del rilascio delle stesse.
 

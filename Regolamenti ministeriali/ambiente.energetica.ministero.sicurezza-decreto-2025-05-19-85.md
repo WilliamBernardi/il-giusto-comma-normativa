@@ -7,8 +7,8 @@ urn: urn:nir:ambiente.energetica.ministero.sicurezza:decreto:2025-05-19;85
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:41Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -57,11 +57,103 @@ Con il presente regolamento, in attuazione dell'articolo 17, comma 3, del decret
 
 L'iscrizione e la permanenza nell'Elenco venditori costituiscono titolo abilitativo per lo svolgimento delle attivita' di vendita di gas naturale ai clienti finali.
 
+3.
+                    
+                        
+                            Sono tenute all'iscrizione nell'Elenco venditori: 
+ 
+                        
+                        
+                            a)
+                            
+                                le imprese di vendita che svolgono la propria attivita' per il tramite di una rete di distribuzione connessa alla rete nazionale dei gasdotti; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                le imprese di vendita che svolgono la propria attivita' direttamente per connessione alla rete nazionale dei gasdotti; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                le imprese di vendita che svolgono la propria attivita' tramite reti isolate; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                le imprese distributrici autorizzate in via eccezionale a svolgere transitoriamente l'attivita' di vendita ai clienti finali di gas naturale nell'area di loro operativita' ai sensi dell'articolo 17, comma 5, del decreto legislativo n. 164 del 2000; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                le imprese distributrici che svolgono transitoriamente l'attivita' di vendita a clienti finali nell'area di loro operativita' nel caso di reti di distribuzione alimentate da serbatoi di GNL che servono reti locali di distribuzione non collegate ne' direttamente ne' indirettamente alla rete nazionale dei gasdotti.
+
 Alle imprese di cui al comma 3, lettere d) ed e), del presente articolo non si applicano gli articoli 3, 4, 5, 7, 8, commi 3 e 4, lettere a), b) e c), 11 e 12.
 
 Sono esclusi dall'applicazione del presente regolamento i consorzi di clienti finali che si approvvigionano di gas per l'esclusivo utilizzo dei consorziati.
 
 ## Art. 3. — Requisiti di natura tecnica
+
+1.
+                    
+                        
+                            Le imprese di vendita sono costituite in una delle seguenti forme: 
+ 
+                        
+                        
+                            a)
+                            
+                                societa' per azioni; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                societa' in accomandita per azioni; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                societa' a responsabilita' limitata; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                societa' consortili costituite nelle forme di cui alle lettere a), b) e c); 
+
+                            
+                        
+                        
+                            e)
+                            
+                                aziende speciali di cui all'articolo 114 del testo unico delle leggi sull'ordinamento degli enti locali, di cui al decreto legislativo 18 agosto 2000, n. 267; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                societa' cooperative; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                societa' costituite all'estero ai sensi degli articoli 2508 e 2509 del codice civile.
 
 L'attivita' di vendita di gas naturale deve risultare dall'oggetto sociale indicato nell'atto costitutivo o nello statuto depositato presso il registro delle imprese.
 
@@ -69,7 +161,46 @@ L'attivita' di vendita di gas naturale deve risultare dall'oggetto sociale indic
 
 Requisiti di onorabilita'
 
+1.
+                    
+                        
+                            Gli amministratori, i legali rappresentanti e i sindaci delle imprese di vendita non devono: 
+ 
+                        
+                        
+                            a)
+                            
+                                trovarsi nelle condizioni di cui all'articolo 2382 del codice civile; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                essere stati condannati con sentenza irrevocabile, salvi gli effetti della riabilitazione: 
+ 1) a pena detentiva per uno dei reati previsti dalle norme che disciplinano l'attivita' bancaria, finanziaria e assicurativa e dalle norme in materia di mercati e strumenti finanziari, in materia tributaria e di strumenti di pagamento; 
+ 2) alla reclusione per uno dei delitti previsti dal titolo XI del libro V del codice civile, dal regio decreto 16 marzo 1942, n. 267, e dal titolo IX del codice della crisi d'impresa e dell'insolvenza, di cui al decreto legislativo 12 gennaio 2019, n. 14; 
+ 3) alla reclusione per un tempo non inferiore a un anno per uno dei delitti previsti dai titoli II, V, VII, VIII e XIII del libro II del codice penale.
+
 I soggetti che, per le imprese di vendita, sono sottoposti alla verifica antimafia ai sensi dell'articolo 85 del codice delle leggi antimafia e delle misure di prevenzione, nonche' nuove disposizioni in materia di documentazione antimafia, di cui al decreto legislativo 6 settembre 2011, n. 159, non devono essere destinatari degli effetti delle misure di prevenzione di cui all'articolo 67 del medesimo codice.
+
+3.
+                    
+                        
+                            Le imprese di vendita non devono essere: 
+ 
+                        
+                        
+                            a)
+                            
+                                in stato di liquidazione giudiziale o di liquidazione coatta oppure sottoposte ad altra procedura con finalita' liquidatoria o a una procedura finalizzata alla dichiarazione di una di tali situazioni; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                nello stato di concordato preventivo, salvo se in condizioni di continuita' aziendale, oppure sottoposte a una procedura finalizzata alla dichiarazione dello stesso.
 
 I commi 1, 2 e 3 si applicano, ai fini dell'iscrizione dell'impresa di vendita nell'Elenco venditori, anche alle imprese che esercitano attivita' di direzione e coordinamento sull'impresa medesima ai sensi degli articoli da 2497 a 2497-septies del codice civile nonche' a ogni impresa di vendita di gas naturale ai clienti finali appartenente allo stesso gruppo ai sensi degli articoli da 2497 a 2497-septies del codice civile.
 
@@ -78,6 +209,38 @@ Il titolare del trattamento dei dati personali e' autorizzato a trattare i dati 
 ## Art. 5. — Requisiti di natura finanziaria
 
 L'impresa di vendita deve possedere un capitale sociale interamente versato non inferiore a 100.000 euro.
+
+2.
+                    
+                        
+                            Ai fini della permanenza nell'Elenco venditori devono altresi' essere soddisfatti i seguenti requisiti: 
+ 
+                        
+                        
+                            a)
+                            
+                                non deve essere attivato, per due o piu' volte in dodici mesi, nei confronti dell'impresa di vendita utente o nei confronti di uno degli utenti della distribuzione di cui la medesima si serve, il servizio di default trasporto a causa della risoluzione per inadempimento dei contratti di trasporto ai sensi della regolazione dell'ARERA in materia di bilanciamento del gas naturale, indipendentemente dai punti di interconnessione interessati; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                non devono essere attivati i servizi di ultima istanza, per due o piu' volte in ventiquattro mesi, a causa dell'inadempimento, da parte dell'impresa di vendita utente o di uno degli utenti della distribuzione di cui la medesima si serve, all'obbligazione di pagamento del servizio di default trasporto ai sensi della regolazione di ARERA in materia di bilanciamento del gas naturale; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                non devono essere attivati i servizi di ultima istanza a causa di inadempimento all'obbligazione di pagamento nell'ambito del servizio di default trasporto, da parte dell'impresa di vendita utente o di uno degli utenti della distribuzione di cui la medesima si serve, decorsi dodici mesi dallo scadere dei termini di pagamento della prima fattura insoluta inerente al periodo di erogazione dello stesso servizio di default; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                non devono essere attivati, per due o piu' volte in ventiquattro mesi, i servizi di ultima istanza a causa della risoluzione dei contratti di distribuzione a seguito di inadempimento dell'impresa di vendita o di uno degli utenti della distribuzione di cui la medesima si serve nell'ambito del servizio di distribuzione.
 
 I commi 1 e 2 non si applicano alle imprese di vendita che esercitano la propria attivita' esclusivamente tramite reti isolate.
 Il comma 2 non si applica alle imprese che esercitano attivita' di vendita esclusivamente a clienti finali direttamente connessi alla rete nazionale dei gasdotti.
@@ -103,6 +266,24 @@ L'impresa di vendita iscritta nell'Elenco venditori, in caso di perdita di uno d
 
 L'impresa di vendita comunica ogni tre anni al Ministero, mediante dichiarazione sostitutiva ai sensi degli articoli 46 e 47 del testo unico di cui al decreto del Presidente della Repubblica n. 445 del 2000, la permanenza dei requisiti di cui agli articoli 3, 4 e 5, comma 1.
 
+3.
+                    
+                        
+                            Il Gestore del SII comunica al Ministero e all'ARERA l'elenco delle imprese di vendita che: 
+ 
+                        
+                        
+                            a)
+                            
+                                non hanno servito almeno un cliente finale nell'anno di riferimento; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                si trovano in una delle ipotesi di cui all'articolo 5, comma 2.
+
 La lettera a) del comma 3 non si applica alle imprese di vendita che esercitano la propria attivita' esclusivamente tramite reti isolate nonche' a quelle che esercitano attivita' di vendita esclusivamente a clienti finali direttamente connessi alla rete nazionale dei gasdotti.
 
 ## Art. 8. — Cancellazione o esclusione dall'Elenco venditori
@@ -110,6 +291,162 @@ La lettera a) del comma 3 non si applica alle imprese di vendita che esercitano 
 La cancellazione o l'esclusione dall'Elenco venditori e' disposta con provvedimento del Ministero ed e' comunicata all'impresa di vendita interessata.
 
 L'impresa di vendita puo' in ogni momento chiedere la cancellazione dall'Elenco venditori.
+
+3.
+                    
+                        
+                            Sono cause di cancellazione dall'Elenco: 
+ 
+                        
+                        
+                            a)
+                            
+                                la violazione delle disposizioni di cui all'articolo 7, comma 2; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                il verificarsi dell'ipotesi di cui all'articolo 7, comma 3, lettera a).
+
+4.
+                    
+                        
+                            Sono cause di esclusione dall'Elenco venditori: 
+ 
+                        
+                        
+                            a)
+                            
+                                la perdita di almeno uno dei requisiti di cui agli articoli 3, 4 o 5, comma 1, fatta eccezione per quanto previsto all'articolo 7, comma 1; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                la violazione dell'obbligo di comunicazione della perdita di almeno uno dei requisiti di cui all'articolo 7, comma 1; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                il verificarsi di almeno una delle ipotesi di cui all'articolo 5, comma 2; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                le dichiarazioni mendaci o la falsita' in atti presentati ai sensi del presente regolamento; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                l'irrogazione, con provvedimento definitivo, di una delle sanzioni di cui al comma 5 segnalate al Ministero da parte dell'ARERA, dell'Autorita' garante della concorrenza e del mercato, di seguito «AGCM», del Garante per la protezione dei dati personali, di seguito «GPDP», e dell'Agenzia delle dogane e dei monopoli, di seguito «ADM», per violazioni e condotte irregolari poste in essere nell'attivita' di vendita di gas naturale successivamente alla data di entrata in vigore del presente regolamento.
+
+5.
+                    
+                        
+                            E' segnalata al Ministero: 
+ 
+                        
+                        
+                            a)
+                            
+                                da parte dell'ARERA, l'irrogazione di sanzioni amministrative pecuniarie non inferiori all'80 per cento del massimo applicabile al soggetto sottoposto a procedimento sanzionatorio conformemente al regolamento per la disciplina dei procedimenti sanzionatori adottato ai sensi dell'articolo 2, comma 20, lettera c), della legge 14 novembre 1995, n. 481, e dell'articolo 45, comma 6, del decreto legislativo 1° giugno 2011, n. 93, anche qualora tale soglia sia raggiunta sommando una pluralita' di violazioni compiute nell'arco di cinque anni; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                da parte dell'AGCM, l'irrogazione, a seguito di violazioni reiterate, di sanzioni amministrative pecuniarie in applicazione della legge 10 ottobre 1990, n. 287, degli articoli 101 e 102 del Trattato sul funzionamento dell'Unione europea e del codice del consumo, di cui al decreto legislativo 6 settembre 2005, n. 206. La violazione si considera reiterata al ricorrere delle condizioni di cui all'articolo 8-bis della legge 24 novembre 1981, n. 689; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                da parte del GPDP, l'irrogazione di sanzioni amministrative pecuniarie non inferiori al 5 per cento del massimo edittale ai sensi dell'articolo 83 del regolamento (UE) 2016/679 o dell'articolo 166, commi 1 e 2, del codice in materia di protezione dei dati personali, di cui al decreto legislativo 30 giugno 2003, n. 196; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                da parte dell'ADM: 
+ 1) la revoca dell'autorizzazione fiscale rilasciata ai sensi dell'articolo 26, comma 10, del testo unico delle disposizioni legislative concernenti le imposte sulla produzione e sui consumi e relative sanzioni penali e amministrative, di cui al decreto legislativo 26 ottobre 1995, n. 504; 
+ 2) l'irrogazione di sanzioni ai sensi dell'articolo 40, comma 1, lettera b), del testo unico di cui al decreto legislativo n. 504 del 1995 per violazioni di rilevanza penale; 
+ 3) l'irrogazione di sanzioni ai sensi dell'articolo 13 del decreto legislativo 18 dicembre 1997, n. 471, per il mancato assolvimento dell'obbligazione tributaria relativa al versamento dell'accisa afferente al gas naturale, nel caso in cui l'inadempimento sia reiterato per almeno sei volte in due anni o l'importo dell'accisa non versata sia almeno pari al 50 per cento dell'importo annualmente dovuto nell'arco di due anni.
+
+6.
+                    
+                        
+                            Non sono oggetto di segnalazione al Ministero le violazioni e le condotte irregolari di cui al comma 5, per le quali: 
+ 
+                        
+                        
+                            a)
+                            
+                                l'ARERA abbia approvato la proposta di impegni assunti dall'impresa di vendita in applicazione dell'articolo 45, comma 3, del decreto legislativo n. 93 del 2011; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                l'AGCM non abbia applicato o abbia ridotto la sanzione amministrativa in attuazione del programma di trattamento favorevole di cui all'articolo 15-bis della legge n. 287 del 1990; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                il GPDP abbia definito il procedimento ai sensi dell'articolo 166, comma 8, del codice di cui al decreto legislativo n. 196 del 2003; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                l'ADM abbia riscontrato l'avvenuto ravvedimento ai sensi degli articoli 13 e 13-bis del decreto legislativo n. 472 del 1997 o il ricorso a ogni altro istituto deflattivo del contenzioso previsto dalla normativa vigente.
+
+7.
+                    
+                        
+                            Il Ministero, riscontrata la sussistenza di una delle cause di esclusione di cui al comma 4, comunica all'impresa di vendita, ai sensi dell'articolo 7 della legge n. 241 del 1990, l'avvio del procedimento di esclusione, dandone informazione all'ARERA e, nei casi di cui al comma 4, lettera e), anche alle altre Autorita' interessate, trasmettendo tempestivamente a tali Autorita' eventuali memorie e documenti presentati dall'impresa di vendita nel corso del procedimento. La comunicazione di avvio del procedimento di esclusione, oltre a quanto previsto dall'articolo 8 della legge n. 241 del 1990, indica: 
+ 
+                        
+                        
+                            a)
+                            
+                                il motivo dell'esclusione; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                un termine non inferiore a dieci giorni e non superiore a novanta giorni per l'esercizio dei diritti di cui all'articolo 9 della legge n. 241 del 1990; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                che, in caso di mancata presentazione di memorie e documenti nei termini assegnati, si procede all'esclusione dall'Elenco venditori; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                il termine finale di adozione del provvedimento.
 
 Decorso inutilmente il termine di cui al comma 7, lettera b), o qualora le memorie o i documenti presentati dall'impresa di vendita siano insufficienti, il Ministero, sentite le Autorita' interessate per le cause di esclusione di cui al comma 4, lettera e), che si esprimono entro quarantacinque giorni dalla richiesta di parere, adotta, entro centottanta giorni dall'avvio del procedimento, il provvedimento motivato di esclusione dell'impresa di vendita dall'Elenco venditori e annota tale provvedimento nell'Elenco medesimo, dandone comunicazione all'ARERA e al Gestore del SII. Nel caso di archiviazione del procedimento di esclusione, il provvedimento di archiviazione e' comunicato all'impresa di vendita interessata, all'ARERA e, nei casi di cui al comma 4, lettera e), anche alle altre Autorita' interessate.
 
@@ -150,6 +487,63 @@ Fermo restando quanto previsto ai commi 1, 2, 3 e 4, le imprese di cui al comma 
 Entro il termine perentorio di centottanta giorni dalla data di adozione del decreto di cui all'articolo 11, comma 1, le imprese distributrici di cui all'articolo 2, comma 3, lettera e), che, alla data di entrata in vigore del presente regolamento, esercitano transitoriamente l'attivita' di vendita a clienti finali presentano domanda di iscrizione all'Elenco venditori ai fini dell'ottenimento del titolo abilitativo per la prosecuzione dell'attivita'.
 
 ## Art. 11. — Disposizioni finali
+
+1.
+                    
+                        
+                            Entro quarantacinque giorni dalla data di entrata in vigore del presente regolamento, con decreto del Ministero, adottato previo parere del GPDP, sono stabiliti: 
+ 
+                        
+                        
+                            a)
+                            
+                                i modelli per la presentazione della domanda di iscrizione e dei documenti richiesti, nonche' le modalita' tecniche di gestione e pubblicazione dell'Elenco venditori; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                le modalita' delle segnalazioni previste dall'articolo 8, comma 5; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                i criteri tecnici e le modalita' per lo svolgimento dei controlli previsti dall'articolo 9.
+
+2.
+                    
+                        
+                            Con il decreto adottato ai sensi del comma 1 sono, altresi', individuati le informazioni e i dati forniti dalle imprese di vendita che sono resi pubblici nell'Elenco venditori. E', inoltre, data pubblicita' nell'Elenco venditori: 
+ 
+                        
+                        
+                            a)
+                            
+                                della certificazione annuale del bilancio di esercizio eventualmente presentata dall'impresa, sia che a tale certificazione sia obbligata dalla legge, sia che l'abbia predisposta volontariamente; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                dei provvedimenti di esclusione di cui all'articolo 8; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                degli impegni assunti dalle imprese di vendita e approvati dall'ARERA ai sensi dell'articolo 45, comma 3, del decreto legislativo n. 93 del 2011; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                della tipologia di gas naturale oggetto di vendita e dell'indicazione relativa alle modalita' di distribuzione per il tramite di una rete connessa alla rete nazionale di trasporto o per il tramite reti isolate.
 
 Con provvedimento dell'ARERA, da adottare entro sei mesi dalla data di entrata in vigore del presente regolamento, sono individuate le specifiche procedure finalizzate a garantire le comunicazioni di cui all'articolo 7, comma 3.
 

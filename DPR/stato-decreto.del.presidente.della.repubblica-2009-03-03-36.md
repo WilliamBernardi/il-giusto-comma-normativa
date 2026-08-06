@@ -8,8 +8,8 @@ codice_redazionale: 009G0044
 vigente: true
 source: normattiva-opendata
 collection: DPR
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:48:00Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -27,6 +27,150 @@ Sulla proposta del Ministro delle infrastrutture e dei trasporti, di concerto co
 
 ## Art. 1. — Definizioni e denominazioni
 
+1.
+                        
+                            
+                                Nel presente regolamento si intendono per:
+ 
+                            
+                            
+                                a)
+                                
+                                    «Agenzia»: Agenzia nazionale per la sicurezza delle ferrovie;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    «decreto legislativo»: decreto legislativo 10 agosto 2007, n. 162;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    «codice dei contratti»: decreto legislativo 12 aprile 2006, n. 163, e successive modificazioni;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    «direttore»: legale rappresentante dell'Agenzia ed organo di vertice responsabile dell'attivita';
+
+                                
+                            
+                            
+                                e)
+                                
+                                    «comitato direttivo»: organo collegiale, composto ai sensi dell'articolo 4, comma 5, del decreto legislativo, che coadiuva il direttore nelle attribuzioni allo stesso conferite;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    «responsabile di settore»: dirigente preposto ad uno dei settori individuati dal regolamento di organizzazione dell'Agenzia, che coadiuva il direttore nel perseguimento dei fini istituzionali ed a cui e' affidato il coordinamento dei relativi uffici;
+
+                                
+                            
+                            
+                                g)
+                                
+                                    «responsabile di ufficio»: dirigente preposto ad uno degli uffici in cui si articolano i settori dell'Agenzia, responsabile del funzionamento e del regolare andamento dell'attivita' gestionale;
+
+                                
+                            
+                            
+                                h)
+                                
+                                    «dirigente amministrativo»: dirigente preposto al settore amministrazione, affari legali e finanza dell'Agenzia, responsabile della gestione amministrativa dell'Agenzia;
+
+                                
+                            
+                            
+                                i)
+                                
+                                    «ufficio della ragioneria e contabilita'»: ufficio del settore amministrazione, affari legali e finanza competente per la ragioneria e la gestione amministrativa e contabile, l'elaborazione degli schemi di bilancio previsionale e consuntivo e il coordinamento della spesa;
+
+                                
+                            
+                            
+                                l)
+                                
+                                    «ufficio di controllo interno»: ufficio competente in materia di controllo strategico, di valutazione e di gestione, secondo quanto previsto dall'articolo 1, comma 1, lettere b), c) e d), del decreto legislativo 30 luglio 1999, n. 286;
+
+                                
+                            
+                            
+                                m)
+                                
+                                    «documento programmatico (budget)»: documento annuale che indica il programma di massima delle attivita' che si svolgeranno nell'esercizio successivo, elaborate sulla base delle indicazioni fornite dai responsabili dei settori dell'Agenzia, sentito il dirigente amministrativo, e determina gli obiettivi economici e finanziari e ne articola le relative previsioni di spesa per le strutture dell'Agenzia; il documento programmatico (budget) e' predisposto dal direttore e approvato dal comitato direttivo;
+
+                                
+                            
+                            
+                                n)
+                                
+                                    «cassiere»: istituto di credito che, previa sottoscrizione di una convenzione, provvede a riscuotere le entrate ed a pagare le spese per conto dell'Agenzia senza alcuna corresponsabilita' nella gestione delle risorse, nel limite dell'ammontare delle disponibilita' numerarie depositate presso di esso;
+
+                                
+                            
+                            
+                                o)
+                                
+                                    «centro di costo»: entita', organizzativa o astratta, cui vengono imputati i costi diretti ed indiretti al fine di conoscerne il costo complessivo;
+
+                                
+                            
+                            
+                                p)
+                                
+                                    «costo»: causa economica dell'uscita finanziaria sopportata dall'Agenzia per acquisire un fattore produttivo ovvero l'accadimento di gestione che incide negativamente sul patrimonio dell'ente;
+
+                                
+                            
+                            
+                                q)
+                                
+                                    «entrata finanziaria»: aumento di valori numerari certi, assimilati e presunti attivi, ovvero la diminuzione di valori numerari assimilati e presunti passivi;
+
+                                
+                            
+                            
+                                r)
+                                
+                                    «ordine di provvista fondi»: autorizzazione ad impegnare, impegno provvisorio che diventera' definitivo alla chiusura dell'esercizio per un importo pari ai pagamenti contabilizzati; non e' un titolo di spesa estinguibile in quietanza di entrata; sostituisce l'ordine di accreditamento;
+
+                                
+                            
+                            
+                                s)
+                                
+                                    «ricavo/provento»: causa economica dell'entrata finanziaria e non che l'Agenzia riceve dallo scambio di beni e servizi, ovvero l'accadimento di gestione che incide positivamente sul patrimonio dell'ente;
+
+                                
+                            
+                            
+                                t)
+                                
+                                    «risultato di amministrazione»: somma algebrica tra il fondo di cassa o deficit di cassa, residui attivi e residui passivi; se il saldo e' di segno positivo, negativo o uguale a zero, il risultato costituisce, rispettivamente, avanzo, disavanzo o pareggio di amministrazione;
+
+                                
+                            
+                            
+                                u)
+                                
+                                    «spesa»: aspetto economico di un'uscita finanziaria; genericamente rappresenta l'impiego di risorse finanziarie;
+
+                                
+                            
+                            
+                                v)
+                                
+                                    «uscita finanziaria»: diminuzione di valori numerari certi, assimilati e presunti attivi ovvero l'aumento di valori numerari assimilati e presunti passivi.
+
 ## Art. 2. — Autonomia finanziaria
 
 L'attivita' finanziaria, amministrativa e contabile dell'Agenzia e' informata a criteri di efficienza, efficacia, economicita' e trasparenza.
@@ -38,6 +182,31 @@ La struttura organizzativa contabile si basa su un unico centro di responsabilit
 ## Art. 3. — Documento programmatico (budget)
 
 Le previsioni di spesa contenute nel documento programmatico (budget) hanno valore autorizzativo ai fini della gestione interna dell'Agenzia e del monitoraggio del relativo andamento.
+
+2.
+                        
+                            
+                                Il documento programmatico (budget) di gestione definisce:
+ 
+                            
+                            
+                                a)
+                                
+                                    la pianificazione operativa (obiettivi/risultati);
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'organizzazione delle risorse umane, strumentali e tecnologiche;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    le quote di stanziamento.
 
 Il documento programmatico (budget) e' assegnato ai dirigenti dal direttore e definisce obiettivi, risorse e stanziamenti coerenti con l'esercizio delle funzioni e con i risultati da conseguire.
 
@@ -69,11 +238,86 @@ Sono vietate gestioni di fondi al di fuori del bilancio ed, ove autorizzate e sv
 
 Il bilancio di previsione e' predisposto dal direttore e deliberato dal comitato direttivo entro il 31 ottobre dell'anno precedente cui il bilancio stesso si riferisce. Il bilancio di previsione, almeno quindici giorni prima della delibera dell'organo di vertice, e' sottoposto al Collegio dei revisori dei conti che a conclusione del proprio esame redige apposita relazione proponendone l'approvazione o meno. La relazione contiene le considerazioni e valutazioni sull'attendibilita' delle entrate previste sulla base della documentazione e degli elementi contenuti nella relazione programmatica, nonche' sulla congruita' delle spese, tenendo presente l'ammontare delle risorse utilizzate negli esercizi precedenti, le variazioni apportate e gli stanziamenti proposti.
 
+2.
+                        
+                            
+                                Il bilancio di previsione e' composto dai seguenti documenti:
+ 
+                            
+                            
+                                a)
+                                
+                                    il preventivo finanziario;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il quadro generale riassuntivo della gestione finanziaria;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il preventivo economico.
+
+3.
+                        
+                            
+                                Costituiscono allegati al bilancio di previsione:
+ 
+                            
+                            
+                                a)
+                                
+                                    il bilancio pluriennale;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la relazione programmatica;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    la tabella dimostrativa del presunto risultato di amministrazione;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    la relazione del Collegio dei revisori dei conti.
+
 Il bilancio di previsione annuale ha carattere autorizzativo, costituendo limite agli impegni di spesa.
 
 ## Art. 6. — Formazione del bilancio di previsione
 
 I responsabili di settore comunicano entro il 31 luglio all'ufficio della ragioneria e contabilita' gli obiettivi elaborati secondo i programmi e gli indirizzi stabiliti dal direttore, articolati per progetti e funzioni, il quadro delle necessarie risorse finanziarie e la valutazione di massima sull'attendibilita' delle stesse.
+
+2.
+                        
+                            
+                                L'ufficio della ragioneria e contabilita' elabora il progetto di bilancio e lo trasmette al direttore corredato della nota preliminare che esplicita:
+ 
+                            
+                            
+                                a)
+                                
+                                    i programmi ed i progetti previsti;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le previsioni finanziarie complessive del bilancio annuale e pluriennale.
 
 Il bilancio di previsione, deliberato dal comitato direttivo, e' trasmesso al Ministero dell'economia ed, ai fini dell'approvazione, al Ministero vigilante.
 
@@ -83,11 +327,107 @@ Ai sensi degli articoli 11 e 12 del decreto del Presidente della Repubblica 27 f
 
 Il bilancio di previsione decisionale si articola, per le entrate e per le uscite, in U.P.B., suddivise sia per le entrate sia per le uscite in titoli, parte corrente e parte capitale, categorie e capitoli, individuate con provvedimento del direttore con le procedure di cui all'articolo 9, comma 4, dello statuto dell'Agenzia.
 
+3.
+                        
+                            
+                                Per ogni U.P.B. sono indicati:
+ 
+                            
+                            
+                                a)
+                                
+                                    l'ammontare presunto dei residui attivi o passivi alla chiusura dell'esercizio precedente a quello cui il bilancio si riferisce;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'ammontare delle entrate che si prevede di accertare e delle spese che si prevede di impegnare nell'anno cui il bilancio si riferisce;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    l'ammontare delle entrate che si prevede di incassare e delle spese che si prevede di pagare nell'anno cui il bilancio si riferisce, senza distinzione fra operazioni in conto competenza ed in conto residui;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    l'ammontare degli stanziamenti definitivi delle entrate e delle uscite dell'esercizio in corso.
+
 Il bilancio di previsione gestionale individua, per le entrate e le uscite, i capitoli quali unita' elementari, ai fini della gestione dei programmi, progetti ed attivita' dei settori e per la successiva rendicontazione.
 
 Il bilancio di previsione e' illustrato da una nota preliminare ed integrato da un allegato tecnico in cui sono descritti i programmi, i progetti e le attivita' da realizzare nell'esercizio ed i criteri adottati per la formulazione delle valutazioni finanziarie ed economiche.
 
+6.
+                        
+                            
+                                In particolare, nella nota preliminare sono indicati:
+ 
+                            
+                            
+                                a)
+                                
+                                    gli obiettivi, i programmi, i progetti e le attivita' che ogni settore intende conseguire ed attuare in termini di servizi e prestazioni;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il collegamento fra questi obiettivi e programmi e le linee strategiche descritte nella relazione programmatica del direttore;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    gli indicatori di efficacia ed efficienza che si intendono utilizzare per valutare i risultati;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    i tempi di esecuzione dei programmi e dei progetti finanziati nell'ambito del bilancio;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    i criteri di massima cui i titolari dei settori devono conformare la loro gestione.
+
 Gli obiettivi ed i programmi contenuti nella nota preliminare devono provenire da un analitico e diffuso processo di programmazione esercitato da tutti i responsabili dei settori.
+
+8.
+                        
+                            
+                                Nell'allegato tecnico al preventivo finanziario decisionale sono definiti:
+ 
+                            
+                            
+                                a)
+                                
+                                    il carattere giuridicamente obbligatorio o discrezionale della spesa con rinvio alle relative disposizioni normative;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    i criteri di valutazione adottati per la formulazione delle previsioni, con particolare riguardo alla spesa corrente di carattere discrezionale;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    le previsioni sull'andamento delle entrate e delle uscite per ciascuno degli esercizi compresi nel bilancio pluriennale.
 
 Il bilancio di previsione e' corredato della pianta organica del personale nonche', ai sensi dell'articolo 60, comma 1, del decreto legislativo 30 marzo 2001, n. 165, di allegati recanti la rilevazione della consistenza del personale, in servizio e in quiescenza, e delle relative spese, ivi compresi gli oneri previdenziali e le entrate derivanti dalle contribuzioni.
 
@@ -155,6 +495,70 @@ Il dirigente amministrativo vigila sulla pronta ed integrale esecuzione dell'acc
 
 L'accertamento costituisce la prima fase di gestione dell'entrata con cui il funzionario competente, sulla base di idonea documentazione, verifica la ragione del credito e la sussistenza di un idoneo titolo giuridico, individua il debitore, quantifica la somma da incassare e fissa la relativa scadenza.
 
+2.
+                        
+                            
+                                L'accertamento presuppone:
+ 
+                            
+                            
+                                a)
+                                
+                                    la fondatezza del credito, ossia la sussistenza di obbligazioni giuridiche a carico di terzi;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la certezza del credito, ossia non soggetto ad oneri e/o condizioni;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    la competenza finanziaria ed economica a favore dell'esercizio considerato.
+
+3.
+                        
+                            
+                                L'accertamento delle entrate avviene:
+ 
+                            
+                            
+                                a)
+                                
+                                    per le entrate provenienti da trasferimenti, sulla base delle leggi che li regolano o di altri aventi identico valore;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    per le entrate «proprie», derivanti da convenzioni con enti pubblici o privati sulla base delle convenzioni stesse, depositate presso l'ufficio ragioneria e contabilita';
+
+                                
+                            
+                            
+                                c)
+                                
+                                    per le entrate patrimoniali a seguito di acquisizione diretta o sulla base di appositi elenchi;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    per le entrate relative a partite compensative delle spese, in corrispondenza dell'assunzione del relativo impegno di spesa;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    per le altre entrate, anche di natura eventuale o variabile, mediante contratti, provvedimenti giudiziari o atti amministrativi specifici.
+
 Il funzionario competente trasmette all'ufficio della ragioneria e contabilita' la documentazione di cui al comma 1 ai fini dell'annotazione nelle scritture contabili.
 
 ## Art. 17. — Riscossione
@@ -162,6 +566,66 @@ Il funzionario competente trasmette all'ufficio della ragioneria e contabilita' 
 La riscossione consiste nel materiale introito da parte del cassiere o di altri eventuali incaricati della riscossione delle somme dovute all'Agenzia.
 
 La riscossione e' disposta tramite ordinativo di incasso fatto pervenire al cassiere nelle forme e nei tempi previsti dalla convenzione di cui all'articolo 33.
+
+3.
+                        
+                            
+                                L'ordinativo d'incasso e' sottoscritto dal responsabile dell'ufficio della ragioneria e contabilita' o da un suo delegato e contiene almeno:
+ 
+                            
+                            
+                                a)
+                                
+                                    l'indicazione del debitore;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'ammontare della somma da riscuotere;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    la causale;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    gli eventuali vincoli di destinazione delle somme;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    l'indicazione del capitolo di bilancio cui e' riferita l'entrata distintamente per residui o competenza;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    il numero progressivo;
+
+                                
+                            
+                            
+                                g)
+                                
+                                    l'esercizio finanziario e la data di emissione;
+
+                                
+                            
+                            
+                                h)
+                                
+                                    la codifica, ai sensi dell'articolo 28 della legge 27 dicembre 2002, n. 289.
 
 Il cassiere accetta, senza pregiudizio per i diritti dell'Agenzia, la riscossione di ogni somma versata a suo favore, anche senza la preventiva emissione di ordinativo d'incasso. In tale ipotesi il cassiere da' immediata comunicazione all'Agenzia richiedendone la regolarizzazione.
 
@@ -187,6 +651,31 @@ La gestione delle uscite si attua attraverso le fasi dell'impegno, della liquida
 
 L'impegno costituisce autorizzazione ad impiegare risorse finanziare con cui, a seguito di un'obbligazione giuridicamente perfezionata, e' determinata la somma da pagare, il soggetto creditore e la ragione. Gli impegni di spesa sono assunti dal direttore e, nei limiti delle rispettive competenze, dai responsabili di settore e dai responsabili di ufficio, in conformita' alle disposizioni del documento programmatico (budget) ed in relazione alle risorse finanziarie ad essi assegnate.
 
+2.
+                        
+                            
+                                Con l'approvazione del bilancio e successive variazioni, e senza la necessita' di ulteriori atti, costituiscono impegno sui relativi stanziamenti le risorse impiegate:
+ 
+                            
+                            
+                                a)
+                                
+                                    per il trattamento economico tabellare gia' attribuito al personale dipendente e per i relativi oneri riflessi;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    per le rate di ammortamento dei mutui e dei prestiti, interessi di preammortamento ed ulteriori oneri accessori;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    per le obbligazioni assunte in base a contratti o disposizioni di legge.
+
 Costituiscono economie di bilancio le minori spese sostenute rispetto all'impegno assunto nel corso dell'esercizio, verificate con la conclusione della fase della liquidazione.
 
 Gli impegni di spesa sono trasmessi in copia all'ufficio della ragioneria e contabilita', unitamente ai provvedimenti che autorizzano l'impiego delle risorse, che provvede alla registrazione dell'impegno, previa verifica della regolarita' della documentazione e dell'esistenza dei fondi sui pertinenti capitoli di bilancio.
@@ -203,6 +692,73 @@ L'atto di liquidazione, sottoscritto dal funzionario competente con tutti i rela
 
 Il pagamento delle spese e' ordinato entro i limiti delle previsioni di cassa, mediante l'emissione di mandati di pagamento numerati in ordine progressivo e contrassegnati da evidenze informatiche del capitolo, tratti sull'istituto di credito incaricato del servizio di cassa.
 
+2.
+                        
+                            
+                                I mandati di pagamento sono firmati dal responsabile dell'ufficio della ragioneria e contabilita' o da un suo delegato e contengono almeno i seguenti elementi:
+ 
+                            
+                            
+                                a)
+                                
+                                    il numero progressivo del mandato per esercizio finanziario;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la data di emissione;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il capitolo su cui la spesa e' imputata, distintamente per competenza o residui;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    l'indicazione del creditore e, se si tratta di persona diversa, del soggetto tenuto a rilasciare quietanza, nonche' ove richiesto, il relativo codice fiscale o la partita IVA;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    l'ammontare della somma dovuta e la scadenza, qualora sia prevista dalla legge o sia stata concordata con il creditore;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    la causale di pagamento;
+
+                                
+                            
+                            
+                                g)
+                                
+                                    la modalita' di estinzione del titolo;
+
+                                
+                            
+                            
+                                h)
+                                
+                                    la codifica;
+
+                                
+                            
+                            
+                                i)
+                                
+                                    eventuali vincoli di destinazione.
+
 Il cassiere effettua i pagamenti derivanti da obblighi tributari, da somme iscritte a ruolo, da delegazioni di pagamento e da altri obblighi di legge, anche in assenza della preventiva emissione del relativo mandato di pagamento. Entro dieci giorni e comunque non oltre il termine del mese successivo a quello in corso l'Agenzia emette il relativo mandato ai fini della regolarizzazione.
 
 Gli uffici dotati di autonomia amministrativa possono emettere mandati di pagamento; tali mandati, da registrare su apposito libro preventivamente numerato e timbrato in ogni pagina e recante all'ultimo foglio la dichiarazione del responsabile dell'ufficio della ragioneria e contabilita' attestante il numero delle pagine di cui il libro stesso si compone, sono firmati dal responsabile dell'ufficio e dall'incaricato di funzioni contabili ovvero dai loro rispettivi sostituti.
@@ -217,6 +773,38 @@ L'Agenzia puo' provvedere ai pagamenti mediante mandati informatici, da effettua
 
 ## Art. 23. — Modalita' di estinzione dei titoli di pagamento
 
+1.
+                        
+                            
+                                L'Agenzia puo' disporre, su richiesta scritta del creditore e con spese a suo carico, l'estinzione dei mandati di pagamento mediante:
+ 
+                            
+                            
+                                a)
+                                
+                                    accreditamento in conto corrente postale intestato al creditore;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    commutazione in vaglia cambiario o in assegno circolare, non trasferibile, all'ordine del creditore;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    accreditamento in conto corrente bancario;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    altre forme di pagamento previste dai sistemi bancari e postali.
+
 Le dichiarazioni di accreditamento o di commutazione, che costituiscono la quietanza del creditore, risultano da annotazione sul mandato di pagamento recante gli estremi relativi alle operazioni ed il timbro del cassiere.
 
 ## Art. 24. — Carte di credito
@@ -226,6 +814,38 @@ L'Agenzia, ai sensi dell'articolo 1, comma 53, della legge 28 dicembre 1995, n. 
 ## Art. 25. — Spese di rappresentanza
 
 Sono spese di rappresentanza quelle fondate sull'esigenza dell'Agenzia di manifestarsi all'esterno e di intrattenere pubbliche relazioni con soggetti ad essa estranei in rapporto ai propri fini istituzionali. Le predette spese sono finalizzate, nella vita di relazione dell'Agenzia, all'intento di suscitare su di essa, sulla sua attivita' e sui suoi scopi, l'attenzione e l'interesse di ambienti e di soggetti qualificati nazionali, comunitari o internazionali, al fine di ottenere il vantaggio di essere conosciuta, apprezzata e seguita nella sua azione a favore della collettivita'.
+
+2.
+                        
+                            
+                                Le spese di rappresentanza sono impegnate dal direttore o dal dirigente delegato e sono effettuate in conformita' al regolamento adottato dall'Agenzia nel rispetto dei seguenti principi:
+ 
+                            
+                            
+                                a)
+                                
+                                    iscrizione in bilancio di un apposito stanziamento di importo non superiore al tre per cento delle spese di parte corrente;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    correlazione tra spesa sostenuta e risultato perseguito;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    esclusione di ogni attivita' di rappresentanza nell'ambito dei rapporti istituzionali di servizio, anche se intrattenuti con soggetti estranei all'amministrazione;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    esclusione dall'attivita' di rappresentanza delle spese contrassegnate da mera liberalita'.
 
 ## Art. 26. — Gestione dei residui
 
@@ -242,6 +862,63 @@ E' vietata l'iscrizione nel conto dei residui di somme non impegnate ai sensi de
 
 ## Art. 27. — Conto consuntivo
 
+1.
+                        
+                            
+                                Il conto consuntivo e' costituito da:
+ 
+                            
+                            
+                                a)
+                                
+                                    rendiconto finanziario;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    conto economico;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    stato patrimoniale;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    nota integrativa.
+
+2.
+                        
+                            
+                                Al conto consuntivo sono allegati:
+ 
+                            
+                            
+                                a)
+                                
+                                    la situazione amministrativa;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la relazione sulla gestione;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    la relazione del Collegio dei revisori dei conti.
+
 Lo schema di conto consuntivo, unitamente alla relazione sulla gestione, e' sottoposto a cura del direttore all'esame del Collegio dei revisori dei conti, almeno quindici giorni prima del termine di cui al comma 4.
 
 Il conto consuntivo e' deliberato dal comitato direttivo, su proposta del direttore, entro il mese di aprile successivo alla chiusura dell'esercizio finanziario ed e' trasmesso per l'approvazione, entro dieci giorni dalla deliberazione, al Ministero vigilante e al Ministero dell'economia e finanze, corredato dei relativi allegati e della relazione predisposta dal Collegio dei revisori dei conti.
@@ -256,6 +933,63 @@ Le variazioni dei residui attivi e passivi e l'inesigibilita' dei crediti forman
 
 ## Art. 29. — Rendiconto finanziario
 
+1.
+                        
+                            
+                                Ai sensi dell'articolo 39 del decreto del Presidente della Repubblica 27 febbraio 2003, n. 97, il rendiconto finanziario, in relazione alla classificazione del bilancio di previsione, evidenzia le risultanze della gestione delle entrate e delle uscite e si articola in due parti:
+ 
+                            
+                            
+                                a)
+                                
+                                    il rendiconto finanziario decisionale;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il rendiconto finanziario gestionale.
+
+2.
+                        
+                            
+                                Il rendiconto finanziario decisionale si articola in U.P.B., come il bilancio di previsione decisionale. Analogamente il rendiconto finanziario gestionale, come il bilancio di previsione gestionale, e' suddiviso in capitoli ed evidenzia:
+ 
+                            
+                            
+                                a)
+                                
+                                    la gestione dei residui attivi e passivi degli esercizi precedenti;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le entrate di competenza dell'anno, accertate, riscosse o rimaste da riscuotere;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    le uscite di competenza dell'anno, impegnate, pagate o rimaste da pagare;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    le somme riscosse e quelle pagate in conto competenza ed in conto residui;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    il totale dei residui attivi e passivi che si tramandano all'esercizio successivo.
+
 ## Art. 30. — Stato patrimoniale e conto economico
 
 Lo stato patrimoniale, redatto secondo le disposizioni di cui all'articolo 2424 del codice civile, per quanto applicabili, indica la consistenza degli elementi patrimoniali attivi e passivi al termine dell'esercizio, raffrontata con quella dell'anno precedente.
@@ -268,9 +1002,91 @@ Il conto consuntivo e' accompagnato da una relazione amministrativa predisposta 
 
 ## Art. 32. — Situazione amministrativa
 
+1.
+                        
+                            
+                                La situazione amministrativa, allegata al conto consuntivo, evidenzia:
+ 
+                            
+                            
+                                a)
+                                
+                                    la consistenza di cassa iniziale, gli incassi e i pagamenti complessivamente fatti nell'esercizio, in conto competenza e in conto residui, il saldo alla chiusura dell'esercizio;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il totale complessivo delle somme rimaste da riscuotere (residui attivi) e di quelle rimaste da pagare (residui passivi);
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il risultato finale di amministrazione;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    i fondi non vincolati distintamente dai fondi vincolati e dai fondi destinati al finanziamento delle spese in conto capitale.
+
+2.
+                        
+                            
+                                L'avanzo di amministrazione puo' essere utilizzato, nella salvaguardia degli equilibri di bilancio:
+ 
+                            
+                            
+                                a)
+                                
+                                    per il finanziamento delle spese di funzionamento non ripetitive e per le altre spese correnti in qualsiasi periodo dell'esercizio;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    per il finanziamento di spese di investimento.
+
 ## - CAPO V Servizio di cassa
 
 ## Art. 33. — Affidamento del servizio di cassa
+
+1.
+                        
+                            
+                                Il servizio di cassa e' affidato, previo esperimento di apposita gara ad evidenza pubblica, ad un Istituto abilitato, presso il quale possono essere accesi uno o piu' conti correnti e viene svolto sulla base di apposita convenzione per la disciplina dei seguenti aspetti:
+ 
+                            
+                            
+                                a)
+                                
+                                    modalita' delle riscossioni e dei pagamenti;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    condizioni per le operazioni di conto corrente;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    procedura di trasmissione dei titoli e valori di entrata e di spesa;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    regolazione degli oneri di gestione e servizi ausiliari.
 
 La convenzione di cui al comma 1 contiene anche la disciplina delle modalita' per l'autonomo espletamento del servizio di cassa degli uffici dell'Agenzia dotati di autonomia amministrativa, senza alcun pregiudizio per l'unitarieta' del servizio e delle condizioni pattuite.
 
@@ -291,6 +1107,52 @@ A tale scopo possono essere effettuate a suo favore aperture di credito, ciascun
 
 Presso gli uffici dotati di autonomia amministrativa possono essere istituiti appositi servizi di cassa economale per provvedere al pagamento in contanti delle spese minute ed urgenti, ciascuna di importo non superiore ad euro 500.
 
+3.
+                        
+                            
+                                L'economo provvede, in particolare, al pagamento delle spese relative a:
+ 
+                            
+                            
+                                a)
+                                
+                                    spese minute ed urgenti per prestazioni, forniture e provviste occorrenti per il funzionamento dei servizi dell'Agenzia;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    spese di cancelleria, stampati, spese postali e telegrafiche, trasporti e facchinaggi, carte e valori bollati, noleggi di autovetture, spese contrattuali e di registrazione, abbonamenti a giornali;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    riviste, Gazzetta Ufficiale e Bollettini regionali, acquisto di libri e pubblicazioni di carattere giuridico, tecnico, amministrativo, imposte e tasse;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    acquisto, riparazione e manutenzione di mobili, macchine, attrezzature e locali;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    accertamenti sanitari per il personale;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    anticipazioni per spese di viaggio e per missioni da eseguirsi nell'interesse della Agenzia.
+
 L'economo non puo' usare le somme riscosse per il pagamento delle spese. Le somme riscosse sono versate senza indugio al cassiere e copia delle riversali e' consegnata all'ufficio della ragioneria e contabilita'.
 
 ## - CAPO VI Gestione patrimoniale
@@ -299,9 +1161,133 @@ L'economo non puo' usare le somme riscosse per il pagamento delle spese. Le somm
 
 I beni si distinguono in immobili e mobili ai sensi degli articoli 812, e seguenti, del codice civile.
 
+2.
+                        
+                            
+                                I beni mobili si classificano nelle seguenti categorie:
+ 
+                            
+                            
+                                a)
+                                
+                                    mobili, arredi ed oggetti d'arte;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    attrezzature d'ufficio, strumenti tecnici ed apparecchiature informatiche;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    materiale bibliografico;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    autovetture ed automezzi;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    altri beni.
+
+3.
+                        
+                            
+                                L'inventario dei beni mobili indica per ciascun bene:
+ 
+                            
+                            
+                                a)
+                                
+                                    denominazione e descrizione;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    ubicazione;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    quantita';
+
+                                
+                            
+                            
+                                d)
+                                
+                                    valore.
+
 I beni mobili sono inventariati al costo di acquisto, ovvero di stima o di mercato se pervenuti per altra causa.
 
 Non sono inventariati i beni di facile consumo (materiale di cancelleria, materiale per il funzionamento dei servizi generali, componentistica elettrica, elettronica e meccanica, minuterie metalliche e tutto il materiale che faccia parte di cicli produttivi) ed i beni di modico valore.
+
+6.
+                        
+                            
+                                I beni immobili sono inventariati su separato registro con le seguenti indicazioni:
+ 
+                            
+                            
+                                a)
+                                
+                                    numero di inventario;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    descrizione, ubicazione ed uso cui sono destinati;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    estremi catastali, partita catastale, classificazione, rendita catastale;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    titoli di acquisizione;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    valore iniziale e successive variazioni;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    servitu', pesi, oneri di cui sono gravati;
+
+                                
+                            
+                            
+                                g)
+                                
+                                    eventuali redditi.
 
 ## Art. 37. — Consegnatario dei beni mobili
 
@@ -423,12 +1409,132 @@ Per lo svolgimento della procedura di cottimo fiduciario, il RUP richiede almeno
 
 E' consentita l'aggiudicazione nel caso di un unico preventivo se ritenuto opportuno sulla base di adeguate motivazioni e a fronte di una pluralita' di inviti ed inserimento di tale clausola nella lettera d'invito.
 
+3.
+                        
+                            
+                                La lettera d'invito contiene:
+ 
+                            
+                            
+                                a)
+                                
+                                    l'oggetto della prestazione, le relative caratteristiche tecniche e il suo importo massimo previsto al netto dell'IVA;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le eventuali garanzie richieste al contraente;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il termine di presentazione delle offerte;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    il periodo in giorni di validita' delle offerte stesse;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    l'indicazione del termine per l'esecuzione della prestazione;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    l'eventuale clausola relativa all'aggiudicazione anche nel caso di presentazione di un unico preventivo, corredata delle adeguate motivazioni che hanno determinato tale decisione;
+
+                                
+                            
+                            
+                                g)
+                                
+                                    l'obbligo per il fornitore di dichiarare nel preventivo di assumere a proprio carico tutti gli oneri assicurativi e previdenziali di legge, di osservare le norme vigenti in materia di sicurezza sul lavoro e di retribuzione dei lavoratori dipendenti, nonche' di accettare le condizioni contrattuali e le penalita' previste;
+
+                                
+                            
+                            
+                                h)
+                                
+                                    l'indicazione relativa al termine di pagamento;
+
+                                
+                            
+                            
+                                i)
+                                
+                                    i criteri di aggiudicazione.
+
 La scelta del contraente avviene al prezzo piu' basso ovvero in base all'offerta economicamente piu' vantaggiosa, previo accertamento della congruita' dei prezzi, ai sensi dell'articolo 43. Nel secondo caso la lettera di invito o il bando di gara informale indica gli elementi ed i parametri di giudizio utili per la valutazione della maggiore vantaggiosita' dell'offerta presentata.
 
 Nel cottimo fiduciario i rapporti tra le parti sono disciplinati da scrittura privata ovvero da lettera con la quale il RUP dispone l'ordinazione delle forniture o dei servizi, sottoscritta per accettazione dal rappresentante legale dell'impresa.
 
 L'ordinazione contiene la previsione delle penali per ritardata consegna e la prestazione di idonea garanzia (fideiussione o deposito cauzionale). E' ammesso l'esonero dalla garanzia solo in caso di notoria affidabilita' della ditta e previo sconto alternativo sul prezzo di aggiudicazione nella misura dell'1,5 per cento.
 L'ordinazione e' immediatamente esecutiva.
+
+7.
+                        
+                            
+                                Si prescinde dalla richiesta di pluralita' di preventivi ed e' consentita la trattativa con un unico fornitore nelle seguenti ipotesi:
+ 
+                            
+                            
+                                a)
+                                
+                                    beni la cui produzione e' garantita da privativa industriale;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    beni e servizi che un unico soggetto puo' fornire o eseguire in conformita' ai requisiti richiesti;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    importo della spesa non superiore a euro 20.000 al netto dell'IVA;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    motivi di urgenza dovuta a circostanze imprevedibili, ovvero motivi di sicurezza;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    affidamento di incarichi di alta e specifica professionalita', ove la scelta sia basata su un rapporto fiduciario;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    completamento o integrazione di precedenti acquisizioni di beni e servizi, purche' l'importo complessivo non superi la soglia del 50 per cento dell'importo del contratto originario;
+
+                                
+                            
+                            
+                                g)
+                                
+                                    se il ricorso ad altri fornitori comporta acquisizione di beni o servizi di natura o caratteristiche differenti, con conseguenti difficolta' di impiego e manutenzione o incompatibilita' tecniche.
 
 ## - CAPO IX Scritture contabili
 
@@ -439,6 +1545,38 @@ Il processo di automazione dell'Agenzia risponde alle finalita', ai criteri ed a
 Ai fini della semplificazione delle procedure l'Agenzia puo' avvalersi, per la predisposizione e la tenuta delle scritture finanziarie ed economico-patrimoniali, di appositi servizi di supporto tecnico-amministrativo e di sistemi di elaborazione automatica delle informazioni rispondenti alle disposizioni contabili contenute nel presente regolamento.
 
 ## Art. 52. — Rilevazioni finanziarie
+
+1.
+                        
+                            
+                                Le scritture finanziarie relative alla gestione del bilancio rilevano per ciascun capitolo, sia in conto competenza sia in conto residui, la situazione degli accertamenti e degli impegni a fronte degli stanziamenti, nonche' delle somme riscosse e pagate e delle somme rimaste da riscuotere e da pagare. L'ufficio della ragioneria e contabilita' cura la tenuta delle seguenti scritture:
+ 
+                            
+                            
+                                a)
+                                
+                                    partitario degli accertamenti, contenente lo stanziamento iniziale e le variazioni successive, le somme accertate, quelle riscosse e quelle rimaste da riscuotere per ciascun capitolo di entrata;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    partitario degli impegni, contenente lo stanziamento iniziale e le variazioni successive, le somme impegnate, quelle pagate e quelle rimaste da pagare per ciascun capitolo;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    partitario dei residui contenente, per capitolo ed esercizio di provenienza, la consistenza dei residui all'inizio dell'esercizio, le somme riscosse o pagate, le variazioni positive o negative, le somme rimaste da riscuotere o da pagare;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    giornale cronologico degli ordinativi di incasso e dei mandati, nonche' il giornale riassuntivo comprendente anche le reversali e i mandati emessi dagli uffici dotati di autonomia amministrativa.
 
 ## Art. 53. — Rilevazioni economiche
 

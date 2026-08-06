@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
 vigenza_date: 2002-10-29
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:38Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -24,17 +24,97 @@ Udito il parere del Consiglio di Stato, espresso dalla sezione consultiva per gl
 
 ## Art. 1. — Oggetto e finalita' dei contributi
 
+1.
+                    
+                        
+                            I contributi di cui all'articolo 7 della legge 4 novembre 1965, n. 1213, sono finalizzati al sostegno della produzione cinematografica nazionale, e destinati alle imprese nazionali produttrici di film. Essi, in particolare, sono concessi:
+ 
+                        
+                        
+                            a)
+                            
+                                in favore dei produttori di opere cinematografiche di lungometraggio di produzione nazionale, di lungometraggio di interesse culturale nazionale, di lungometraggio di animazione, anche se realizzate in coproduzione o compartecipazione tra soggetti italiani, e sono destinati al patrimonio dell'impresa produttrice del film;
+
+                            
+                        
+                        
+                            b)
+                            
+                                in favore del regista e degli autori del soggetto e della sceneggiatura delle opere di cui alla lettera a), che siano cittadini italiani, indicati come tali nel pubblico registro per la cinematografia.
+
 I contributi di cui alle lettere a) e b), sono calcolati sulla misura degli incassi, al lordo delle imposte, realizzati dal film nelle sale cinematografiche nel termine di due anni decorrente dalla sua prima proiezione in pubblico, con esclusione di ogni altro provento in qualsiasi modo realizzato per l'utilizzo dell'opera.
 
 Non sono concessi contributi per opere che abbiano realizzato, nel termine di cui al comma 2, incassi inferiori a cento milioni di lire.
 
 ## Art. 2. — Determinazione del contributo
 
+1.
+                    
+                        
+                            Il Ministro per i beni e le attivita' culturali, di seguito definito "il Ministro", con proprio decreto avente efficacia (( annuale )), adottato previo parere della Commissione per i lungometraggi, i cortometraggi ed i film per ragazzi, di cui all'articolo 48 della legge 4 novembre 1965, n. 1213, definisce:
+
+                        
+                        
+                            a)
+                            
+                                il limite massimo delle risorse disponibili destinate annualmente alle finalita' di cui al presente regolamento, a valere sugli stanziamenti destinati al cinema dal Fondo unico per lo spettacolo, di seguito definito "il Fondo", di cui alla legge 30 aprile 1985, n. 163;
+                            
+                        
+                        
+                            b)
+                            
+                                la misura percentuale del contributo di cui all'articolo 1, comma 1, lettera a), in favore dei soggetti produttori delle opere, articolata con criterio progressivo in base a scaglioni di incassi, e con la fissazione di una somma massima di incasso valutabile;
+                            
+                        
+                        
+                            c)
+                            
+                                la misura percentuale del contributo di cui all'articolo 1, comma 1, lettera b).
+
 Qualora le leggi finanziarie e di bilancio successive alla emanazione del decreto di cui al comma 1, determinano una consistenza del Fondo inferiore a quella definita all'atto dell'emanazione di tale decreto, il Ministro provvede alle conseguenti variazioni in diminuzione, in misura corrispondente alla riduzione attuata sulle somme del Fondo destinate al cinema.
 
 ## Art. 3. — Avvio del procedimento
 
 La istanza per la erogazione del contributo di cui all'articolo 1, comma 1, lettera a), diretta al Dipartimento dello spettacolo del Ministero per i beni e le attivita' culturali, di seguito indicato come "l'amministrazione", puo' essere proposta, ai fini della concessione di un acconto, dopo che siano trascorsi sette mesi dalla prima proiezione in pubblico del film al quale il contributo afferisce, e, per la definitiva liquidazione, entro il trentesimo giorno successivo alla scadenza del termine di due anni decorrenti dalla medesima prima proiezione.
+
+2.
+                    
+                        
+                            La istanza e' presentata dal produttore o dal legale rappresentate dell'impresa di produzione del film interessato, contiene le indicazioni anagrafiche del soggetto richiedente, ed e' corredata da dichiarazione sostituiva di atto notorio, con la quale il richiedente dichiara, ai sensi della legge 4 gennaio 1968, n. 15, e del decreto del Presidente della Repubblica 20 ottobre 1998, n. 403:
+ 
+                        
+                        
+                            a)
+                            
+                                la data ed il luogo della prima proiezione in pubblico, come risultante dall'iscrizione nel pubblico registro per la cinematografia, di cui all'articolo 22 del decreto-legge 14 gennaio 1994, n. 26, convertito, con modificazioni, dalla legge 1o marzo 1994, n. 153, ed al decreto del Presidente del Consiglio dei Ministri 8 aprile 1998, n. 163;
+
+                            
+                        
+                        
+                            b)
+                            
+                                il totale degli incassi lordi realizzati dal film attraverso le proiezioni in pubblico, ovvero, nel caso di richiesta di acconto, il totale degli incassi realizzati nei primi sette mesi, tenuto conto dei rilevamenti della Societa' italiana autori ed editori o di altro soggetto a cio' incaricato;
+
+                            
+                        
+                        
+                            c)
+                            
+                                la indicazione del regista e degli autori del soggetto e della sceneggiatura dell'opera;
+
+                            
+                        
+                        
+                            d)
+                            
+                                gli estremi della iscrizione dell'opera, o delle eventuali trascrizioni, nel pubblico registro per la cinematografia;
+
+                            
+                        
+                        
+                            e)
+                            
+                                l'impegno a destinare il contributo alle finalita' di cui all'articolo 1, ed a continuare l'impresa per almeno cinque anni.
 
 La dichiarazione di cui al comma 2, lettera b), puo' essere accompagnata dalla presentazione di certificazione proveniente dal soggetto incaricato.
 
@@ -65,6 +145,31 @@ Il provvedimento di revoca comporta la inammissibilita' di ogni successiva istan
 ## Art. 6. — Contributi in favore del regista e degli autori del soggetto e della sceneggiatura cittadini italiani
 
 La istanza per la erogazione del contributo di cui all'articolo 1, comma 1, lettera b), diretta all'amministrazione, puo' essere proposta dopo che siano trascorsi novanta giorni dalla scadenza del termine dei due anni decorrenti dalla prima proiezione in pubblico del film al quale il contributo afferisce.
+
+2.
+                    
+                        
+                            La istanza, completa delle indicazioni sul soggetto richiedente, e' corredata da dichiarazione sostituiva di atto notorio, con la quale il richiedente dichiara, ai sensi della legge 4 gennaio 1968, n. 15, e del decreto del Presidente della Repubblica 20 ottobre 1998, n. 403:
+ 
+                        
+                        
+                            a)
+                            
+                                quanto previsto alle lettere a),
+                            
+                        
+                        
+                            b)
+                            
+                                e d), del comma 2 dell'articolo 3;
+ b) di essere regista o autore del soggetto o della sceneggiatura dell'opera, in conformita' a quanto riportato nel pubblico registro per la cinematografia;
+
+                            
+                        
+                        
+                            c)
+                            
+                                la eventuale presenza di altri aventi diritto al contributo.
 
 In seguito all'adozione del provvedimento di cui all'articolo 3, il capo del Dipartimento dello spettacolo determina, per ciascuna opera, la misura del contributo in favore del regista e degli autori del soggetto e della sceneggiatura cittadini italiani, suddividendolo in tre parti uguali, destinate alla regia, al soggetto e alla sceneggiatura.
 

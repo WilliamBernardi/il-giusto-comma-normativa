@@ -8,8 +8,8 @@ codice_redazionale: 099G0190
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:39Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -24,6 +24,45 @@ Udito il parere del Consiglio di Stato espresso dalla Sezione consultiva per gli
 ## Art. 1.
 
 E' individuata la figura professionale dell'educatore professionale, con il seguente profilo: l'educatore professionale e' l'operatore sociale e sanitario che, in possesso del diploma universitario abilitante, attua specifici progetti educativi e riabilitativi, nell'ambito di un progetto terapeutico elaborato da un'equipe multidisciplinare, volti a uno sviluppo equilibrato della personalita' con obiettivi educativo/relazionali in un contesto di partecipazione e recupero alla vita quotidiana; cura il positivo inserimento o reinserimento psicosociale dei soggetti in difficolta'.
+
+2.
+                    
+                        
+                            L'educatore professionale:
+ 
+                        
+                        
+                            a)
+                            
+                                programma, gestisce e verifica interventi educativi mirati al recupero e allo sviluppo delle potenzialita' dei soggetti in difficolta' per il raggiungimento di livelli sempre piu' avanzati di autonomia;
+
+                            
+                        
+                        
+                            b)
+                            
+                                contribuisce a promuovere e organizzare strutture e risorse sociali e sanitarie, al fine di realizzare il progetto educativo integrato;
+
+                            
+                        
+                        
+                            c)
+                            
+                                programma, organizza, gestisce e verifica le proprie attivita' professionali all'interno di servizi sociosanitari e strutture sociosanitarieriabilitative e socio educative, in modo coordinato e integrato con altre figure professionali presenti nelle strutture, con il coinvolgimento diretto dei soggetti interessati e/o delle loro famiglie, dei gruppi, della collettivita';
+
+                            
+                        
+                        
+                            d)
+                            
+                                opera sulle famiglie e sul contesto sociale dei pazienti, allo scopo di favorire il reinserimento nella comunita';
+
+                            
+                        
+                        
+                            e)
+                            
+                                partecipa ad attivita' di studio, ricerca e documentazione finalizzate agli scopi sopra elencati.
 
 L'educatore professionale contribuisce alla formazione degli studenti e del personale di supporto, concorre direttamente all'aggiornamento relativo al proprio profilo professionale e all'educazione alla salute.
 

@@ -7,8 +7,8 @@ urn: urn:nir:stato:decreto.del.presidente.della.repubblica:2015-08-18;133
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti governativi
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:09Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -28,6 +28,38 @@ Sulla proposta del Presidente del Consiglio dei ministri e del Ministro della gi
 
 ## Art. 1. — Definizioni
 
+1.
+                        
+                            
+                                Ai fini del presente decreto: 
+ 
+                            
+                            
+                                a)
+                                
+                                    per 'legge' si intende la legge 23 dicembre 2014 n. 190; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    per 'uffici giudiziari' si intendono gli uffici di cui all'articolo 1, primo comma, della legge 24 aprile 1941, n. 392, ad esclusione degli uffici giudiziari di cui all'articolo 1, comma 1, del decreto-legge 16 dicembre 1993, n. 522, convertito, con modificazioni, dalla legge 11 febbraio 1994, n. 102; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    per 'Conferenza permanente' si intende l'articolazione amministrativa cui sono attribuiti i compiti di cui all'articolo 4; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    per 'Ministero' si intende il Ministero della giustizia.
+
 ## Art. 2. — Ambito di applicazione
 
 Il presente regolamento disciplina le misure organizzative necessarie, a livello centrale e periferico, per l'attuazione del trasferimento, dai comuni al Ministero, dell'onere delle spese obbligatorie di cui all'articolo 1, primo comma, della legge 24 aprile 1941, n. 392, ferme restando le dotazioni organiche del Ministero.
@@ -43,6 +75,31 @@ La Conferenza permanente delibera a maggioranza dei presenti e in caso di parita
 La Conferenza permanente si avvale di idoneo personale dell'amministrazione della giustizia e puo' altresi' avvalersi, senza nuovi o maggiori oneri a carico del bilancio dello Stato, di idoneo personale delle altre amministrazioni pubbliche sulla base di accordi o convenzioni.
 
 Il presidente invita alle riunioni il presidente del locale consiglio dell'ordine degli avvocati, i coordinatori degli uffici del giudice di pace interessati, e puo' invitare esperti ovvero rappresentanti degli enti locali e di altre amministrazioni pubbliche, senza diritto di voto.
+
+5.
+                        
+                            
+                                I dirigenti amministrativi: 
+ 
+                            
+                            
+                                a)
+                                
+                                    svolgono le attivita' necessarie all'esecuzione delle delibere della Conferenza permanente; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    vigilano, per conto della Conferenza permanente, sulla corretta esecuzione delle prestazioni conseguenti alla stipula dei contratti relativi alle attivita' di cui all'articolo 4; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    riferiscono al presidente della Conferenza permanente sugli esiti delle attivita' di cui alle lettere a) e b).
 
 Per la partecipazione alle attivita' della Conferenza permanente, anche su invito, non sono dovuti compensi, gettoni di presenza o altri emolumenti comunque denominati. All'eventuale rimborso delle spese di missione si provvede con le risorse finanziarie del Ministero disponibili a legislazione vigente.
 

@@ -8,8 +8,8 @@ codice_redazionale: 003G0126
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:38Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -40,6 +40,24 @@ Il Ministero dell'ambiente e della tutela del territorio procede con proprio dec
 ## Art. 2. — Criteri per la mappatura e per l'individuazione
  degli interventi urgenti
 
+1.
+                    
+                        
+                            La mappatura consiste:
+ 
+                        
+                        
+                            a)
+                            
+                                in una prima fase di individuazione e delimitazione dei siti caratterizzati dalla presenza di amianto nell'ambiente naturale o costruito;
+
+                            
+                        
+                        
+                            b)
+                            
+                                in una seconda fase di selezione di quei siti, individuati ai sensi della lettera a), nei quali e' accertata la presenza di amianto, nell'ambiente naturale o costruito, tale da rendere necessari interventi di bonifica urgenti.
+
 La prima fase della mappatura, di cui al comma 1, lettera a), e' realizzata secondo le categorie di ricerca ed i parametri definiti nell'allegato A, tenendo conto che nella mappatura devono essere inclusi tutti i siti - compresi quelli per i quali sono gia' disponibili dati derivati da censimenti, notifiche, sopralluoghi - nei quali sia effettivamente accertata una presenza di amianto, nonche' le ulteriori localizzazioni che potranno essere individuate dalle regioni e dalle province autonome di Trento e di Bolzano.
 
 La seconda fase della mappatura, di cui al comma 1, lettera b), e' realizzata sulla base dei criteri e della procedura individuati ai sensi dell'articolo 1, comma 2.
@@ -47,6 +65,31 @@ La seconda fase della mappatura, di cui al comma 1, lettera b), e' realizzata su
 A supporto della rilevanza di un'area inserita nella mappatura, possono essere allegati eventuali dati statistici disponibili e studi epidemiologici relativi a patologie asbesto-correlate.
 
 ## Art. 3. — Strumenti per la realizzazione della mappatura
+
+1.
+                    
+                        
+                            La mappatura delle zone interessate dalla presenza di amianto deve essere realizzata avvalendosi di Sistemi informatici impostati su base territoriale (SIT), integrati da software specifico per le elaborazioni e le interrogazioni, secondo gli standard del Sistema informativo nazionale ambientale (SINANET) ed organizzato nel seguente modo:
+ 
+                        
+                        
+                            a)
+                            
+                                gestione anagrafica dei punti;
+
+                            
+                        
+                        
+                            b)
+                            
+                                gestione dei dati del sito e dei monitoraggi effettuati secondo quanto esplicitato all'articolo 2;
+
+                            
+                        
+                        
+                            c)
+                            
+                                rappresentazioni geografiche della diffusione territoriale dei siti con presenza di amianto o di materiali o di manufatti contenenti amianto, corredati dai dati sulla loro quantita' suddivisa tra materiali friabili e compatti e, laddove esistenti, da informazioni sulla concentrazione percentuale nelle varie matrici ambientali.
 
 Ai fini della mappatura i siti devono essere georeferenziati.
 

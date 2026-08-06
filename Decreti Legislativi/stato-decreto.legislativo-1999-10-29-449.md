@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
 vigenza_date: 2003-08-03
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:29Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -57,6 +57,31 @@ L'UNIRE destina annualmente una quota dei proventi derivanti dalle scommesse ipp
 L'UNIRE collabora con le regioni e le province autonome nell'impostazione di programmi regionali di miglioramento delle tecniche di allevamento dei cavalli e di ricerca scientifica nel settore.
 
 ## Art. 4. — O r g a n i
+
+1.
+                    
+                        
+                            Sono organi dell'UNIRE:
+ 
+                        
+                        
+                            a)
+                            
+                                il presidente;
+
+                            
+                        
+                        
+                            b)
+                            
+                                il consiglio di amministrazione;
+
+                            
+                        
+                        
+                            c)
+                            
+                                il collegio sindacale.
 
 Il presidente ha la rappresentanza legale dell'UNIRE, sovrintende al suo funzionamento e vigila sulla esecuzione delle deliberazioni del consiglio di amministrazione. Puo' assumere deliberazioni di urgenza che devono essere sottoposte a ratifica nella prima seduta successiva al consiglio di amministrazione. Il presidente e' nominato con le procedure di cui all'articolo 3 della legge 23 agosto 1988, n. 400, e successive modificazioni.
 
@@ -114,6 +139,52 @@ La gestione dei libri genealogici delle razze equine e le altre funzioni conness
 1. Il rapporto di lavoro del personale dell'UNIRE, ivi compreso il personale incorporato e proveniente dagli enti tecnici, e' regolato ai sensi del decreto legislativo 3 febbraio 1993, n. 29, e successive modificazioni e integrazioni. L'istituzione di fondi di previdenza e' disciplinata dal decreto legislativo 21 aprile 1993, n. 124, e successive modificazioni e integrazioni.
 
 ## Art. 9. — Risorse finanziarie
+
+1.
+                    
+                        
+                            Le entrate dell'UNIRE sono costituite: 
+                        
+                        
+                            a)
+                            
+                                dai proventi derivanti dalle disposizioni di cui all'articolo 3, comma 78, della legge 23 dicembre 1996, n. 662;
+                            
+                        
+                        
+                            b)
+                            
+                                dalle rendite del patrimonio;
+                            
+                        
+                        
+                            c)
+                            
+                                da eventuali assegnazioni straordinarie per la realizzazione di specifiche iniziative;
+                            
+                        
+                        
+                            d)
+                            
+                                da corrispettivi per attivita' svolte in favore di terzi;
+                            
+                        
+                        
+                            e)
+                            
+                                dagli utili delle societa' costituite o partecipate;
+                            
+                        
+                        
+                            f)
+                            
+                                dai proventi derivanti dalla diffusione de1 segnale televisivo delle corse;
+                            
+                        
+                        
+                            g)
+                            
+                                da ogni altra entrata o contributo ordinario o straordinario.
 
 Il bilancio consuntivo dell'UNIRE e' sottoposto a certificazione, ai sensi degli articoli 155 e seguenti del decreto legislativo 24 febbraio 1998, n. 58, e successive modificazioni.
 

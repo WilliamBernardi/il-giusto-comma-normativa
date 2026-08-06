@@ -7,8 +7,8 @@ urn: urn:nir:ministero.economia.e.finanze:decreto:2014-01-22;31
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:38Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -26,6 +26,38 @@ Udito il parere del Consiglio di Stato - Sezione consultiva per gli atti normati
 
 ## Art. 1. — Definizioni
 
+1.
+                    
+                        
+                            Nel presente regolamento si intende per: 
+ 
+                        
+                        
+                            a)
+                            
+                                «Testo unico»: il Testo unico delle leggi in materia bancaria e creditizia, emanato con decreto legislativo 10 settembre 1993, n. 385; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                «societa' di mediazione creditizia»: le societa' iscritte nell'elenco previsto dall'articolo 128-sexies, comma 2, del Testo unico; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                «organo con funzioni di controllo»: il collegio sindacale o il sindaco unico, il consiglio di sorveglianza o il comitato per il controllo sulla gestione come disciplinati dal codice civile; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                «Organismo», l'Organismo competente per la gestione degli elenchi degli agenti in attivita' finanziaria e dei mediatori creditizi previsto dall'articolo 128-undecies del Testo unico bancario.
+
 ## Art. 2. — Ambito di applicazione
 
 Le disposizioni del presente regolamento si applicano alle societa' di mediazione creditizia.
@@ -37,6 +69,31 @@ Per verificare l'osservanza delle norme di legge, regolamentari e statutarie app
 ## Art. 4. — Sistema di controllo interno
 
 Le societa' di mediazione creditizia si dotano di un sistema di controllo interno proporzionato alla propria complessita' organizzativa, dimensionale ed operativa.
+
+2.
+                    
+                        
+                            Il sistema assicura: 
+ 
+                        
+                        
+                            a)
+                            
+                                un'efficace gestione e controllo dei rischi derivanti dall'inosservanza e dal mancato adeguamento alle norme di legge, regolamentari e statutarie applicabili all'attivita' svolta a cui la societa' e' esposta anche in relazione alla rete di soggetti che operano per suo conto; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                la riservatezza e l'integrita' delle informazioni e l'affidabilita' e sicurezza delle procedure per il loro trattamento; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                la verifica della conformita' dell'attivita' svolta con norme di legge, regolamentari e statutarie ad essa applicabili e con le procedure interne che la societa' ha definito per osservarle.
 
 Nelle societa' che superino i limiti dimensionali stabiliti dall'Organismo con riferimento al numero di dipendenti o collaboratori, e' costituita una funzione di controllo interno cui e' affidata la valutazione periodica del sistema di controllo interno e la verifica della correttezza e regolarita' dell'operativita' aziendale. La funzione puo' essere affidata a soggetti esterni dotati di idonei requisiti in termini di professionalita', autorevolezza e indipendenza; resta ferma la responsabilita' dell'organo previsto dall'articolo 3 e della societa' per il corretto svolgimento della funzione esternalizzata.
 

@@ -8,8 +8,8 @@ codice_redazionale: 010G0189
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti di delegificazione
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:40:25Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -33,6 +33,45 @@ Il presente regolamento, in attuazione dell'articolo 23-bis del decreto-legge 25
 
 Con riguardo alla gestione del servizio idrico integrato restano ferme l'autonomia gestionale del soggetto gestore, la piena ed esclusiva proprieta' pubblica delle risorse idriche, nonche' la spettanza esclusiva alle istituzioni pubbliche del governo delle risorse stesse, ai sensi dell'articolo 15, comma 1-ter, del decreto-legge 25 settembre 2009, n. 135, convertito, con modificazioni, dalla legge 20 novembre 2009, n. 166.
 
+3.
+                    
+                        
+                            Sono esclusi dall'applicazione del presente regolamento: 
+ 
+                        
+                        
+                            a)
+                            
+                                il servizio di distribuzione di gas naturale, di cui al decreto legislativo 23 maggio 2000, n. 164; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                il servizio di distribuzione di energia elettrica, di cui al decreto legislativo 16 marzo 1999, n. 79 e alla legge 23 agosto 2004, n. 239; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                il servizio di trasporto ferroviario regionale, di cui al decreto legislativo 19 novembre 1997, n. 422; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                la gestione delle farmacie comunali, di cui alla legge 2 aprile 1968, n. 475; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                i servizi strumentali all'attivita' o al funzionamento degli enti affidanti di cui all'articolo 13, comma 1, del decreto-legge 4 luglio 2006, n. 223, convertito, con modificazioni, dalla legge 4 agosto 2006, n. 248, e successive modificazioni.
+
 ## Art. 2. — Misure in tema di liberalizzazione
 
 Gli enti locali verificano la realizzabilita' di una gestione concorrenziale dei servizi pubblici locali, limitando l'attribuzione di diritti di esclusiva, ove non diversamente previsto dalla legge, ai casi in cui, in base ad una analisi di mercato, la libera iniziativa economica privata non risulti idonea, secondo criteri di proporzionalita', sussidiarieta' orizzontale ed efficienza, a garantire un servizio rispondente ai bisogni della comunita', e liberalizzando in tutti gli altri casi le attivita' economiche compatibilmente con le caratteristiche di universalita' ed accessibilita' del servizio.
@@ -55,10 +94,113 @@ Le procedure competitive ad evidenza pubblica, di cui all'articolo 23-bis, comma
 
 Le societa' a capitale interamente pubblico possono partecipare alle procedure competitive ad evidenza pubblica di cui all'articolo 23-bis, comma 2, lettera a), sempre che non vi siano specifici divieti previsti dalla legge.
 
+3.
+                    
+                        
+                            Al fine di promuovere e proteggere l'assetto concorrenziale dei mercati interessati, il bando di gara o la lettera di invito: 
+ 
+                        
+                        
+                            a)
+                            
+                                esclude che la disponibilita' a qualunque titolo delle reti, degli impianti e delle altre dotazioni patrimoniali non duplicabili a costi socialmente sostenibili ed essenziali per l'effettuazione del servizio possa costituire elemento discriminante per la valutazione delle offerte dei concorrenti; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                assicura che i requisiti tecnici ed economici di partecipazione alla gara siano proporzionati alle caratteristiche e al valore del servizio e che la definizione dell'oggetto della gara garantisca la piu' ampia partecipazione e il conseguimento di eventuali economie di scala e di gamma; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                indica, ferme restando le discipline di settore, la durata dell'affidamento commisurata alla consistenza degli investimenti in immobilizzazioni materiali previsti nei capitolati di gara a carico del soggetto gestore. In ogni caso la durata dell'affidamento non puo' essere superiore al periodo di ammortamento dei suddetti investimenti; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                puo' prevedere l'esclusione di forme di aggregazione o di collaborazione tra soggetti che possiedono singolarmente i requisiti tecnici ed economici di partecipazione alla gara, qualora, in relazione alla prestazione oggetto del servizio, l'aggregazione o la collaborazione sia idonea a produrre effetti restrittivi della concorrenza sulla base di un'oggettiva e motivata analisi che tenga conto di struttura, dimensione e numero degli operatori del mercato di riferimento; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                prevede che la valutazione delle offerte sia effettuata da una commissione nominata dall'ente affidante e composta da soggetti esperti nella specifica materia; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                indica i criteri e le modalita' per l'individuazione dei beni di cui all'articolo 10, comma 1, e per la determinazione dell'eventuale importo spettante al gestore al momento della scadenza o della cessazione anticipata della gestione ai sensi dell'articolo 10, comma 2; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                prevede l'adozione di carte dei servizi al fine di garantire trasparenza informativa e qualita' del servizio.
+
+4.
+                    
+                        
+                            Fermo restando quanto previsto al comma 3, nel caso di procedure aventi ad oggetto, al tempo stesso, la qualita' di socio e l'attribuzione di specifici compiti operativi connessi alla gestione del servizio, il bando di gara o la lettera di invito assicura che: 
+ 
+                        
+                        
+                            a)
+                            
+                                i criteri di valutazione delle offerte basati su qualita' e corrispettivo del servizio prevalgano di norma su quelli riferiti al prezzo delle quote societarie; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                il socio privato selezionato svolga gli specifici compiti operativi connessi alla gestione del servizio per l'intera durata del servizio stesso e che, ove cio' non si verifica, si proceda a un nuovo affidamento ai sensi dell'articolo 23-bis, comma 2; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                siano previsti criteri e modalita' di liquidazione del socio privato alla cessazione della gestione.
+
 ## Art. 4. — Parere dell'Autorita' garante della concorrenza 
  e del mercato
 
 Gli affidamenti di servizi pubblici locali assumono rilevanza ai fini dell'espressione del parere di cui all'articolo 23-bis, comma 4, se il valore economico del servizio oggetto dell'affidamento supera la somma complessiva di 200.000,00 euro annui.
+
+2.
+                    
+                        
+                            Nella richiesta del parere di cui al comma 1, esclusivamente per i servizi relativi al settore idrico, l'ente affidante puo' rappresentare specifiche condizioni di efficienza che rendono la gestione «in house» non distorsiva della concorrenza, ossia comparativamente non svantaggiosa per i cittadini rispetto a una modalita' alternativa di gestione dei servizi pubblici locali, con particolare riferimento: 
+ 
+                        
+                        
+                            a)
+                            
+                                alla chiusura dei bilanci in utile, escludendosi a tal fine qualsiasi trasferimento non riferito a spese per investimenti da parte dell'ente affidante o altro ente pubblico; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al reinvestimento nel servizio almeno dell'80 per cento degli utili per l'intera durata dell'affidamento; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                all'applicazione di una tariffa media inferiore alla media di settore;
 
 Nel rendere il parere di cui al comma 1 si tiene espressamente conto delle condizioni rappresentate ai sensi del comma 2 e dichiarate dall'ente affidante sotto la personale responsabilita' del suo legale rappresentante.
 
@@ -134,6 +276,33 @@ La procedura conciliativa prevista al comma 1 e' avviata secondo lo schema-tipo 
 Restano ferme le disposizioni di cui all'articolo 2, comma 461, della legge 24 dicembre 2007, n. 244, nonche' quelle contenute nelle discipline di settore vigenti alla data di entrata in vigore del presente regolamento.
 
 ## Art. 12. — Abrogazioni e disposizioni finali
+
+1.
+                    
+                        
+                            A decorrere dall'entrata in vigore del presente regolamento sono o restano abrogate le seguenti disposizioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                articolo 113, commi 5, 5-bis, 6, 7, 8, 9, escluso il primo periodo, 14, 15-bis, 15-ter e 15-quater, del decreto legislativo 18 agosto 2000, n. 267, e successive modificazioni; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                
+                                    articolo 150, comma 1, del decreto legislativo 3 aprile 2006, n. 152, e successive modificazioni, ad eccezione della parte in cui individua la competenza dell'Autorita' d'ambito per l'affidamento e l'aggiudicazione; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                
+                                    articolo 202, comma 1, del decreto legislativo 3 aprile 2006, n. 152, e successive modificazioni, ad eccezione della parte in cui individua la competenza dell'Autorita' d'ambito per l'affidamento e l'aggiudicazione.
 
 Le leggi, i regolamenti, i decreti, o altri provvedimenti, che fanno riferimento al comma 7 dell'articolo 113 del decreto legislativo 18 agosto 2000, n. 267, e successive modificazioni, abrogato dal comma 1, lettera a), si intendono riferiti al comma 1 dell'articolo 3 del presente regolamento.
 

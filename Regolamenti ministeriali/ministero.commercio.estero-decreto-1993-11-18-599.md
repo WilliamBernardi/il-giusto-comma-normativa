@@ -8,8 +8,8 @@ codice_redazionale: 094G0180
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:38Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -42,6 +42,31 @@ Il controllo successivo e' effettuato sulla base di riscontri documentali e di c
  4. Il Ministero del commercio con l'estero, sulla base di motivata richiesta dell'operatore, da presentarsi prima della scadenza del termine di cui al comma 3, puo' concedere una proroga di ulteriori novanta giorni, per la presentazione della documentazione di arrivo a destino, previo parere del comitato consultivo di cui all'art. 5 della legge n. 222/1992.
 
 ## Art. 3.
+
+1.
+                    
+                        
+                            Qualora il controllo di cui all'art. 2 non dia esito positivo, il Ministro del commercio con l'estero, una volta accertato, previo contraddittorio con l'esportatore, che l'inadempimento sia ad esso imputabile, adotta i seguenti provvedimenti:
+ 
+                        
+                        
+                            a)
+                            
+                                sospensione della pronuncia su domande di autorizzazione, fin quando l'esportatore non adempie alle clausole fissate con il provvedimento, emesso in base all'art. 2 del presente regolamento;
+
+                            
+                        
+                        
+                            b)
+                            
+                                diniego di autorizzazione, su domande presentate dopo l'accertamento di inadempimento;
+
+                            
+                        
+                        
+                            c)
+                            
+                                esclusione dalle procedure di autorizzazione per comprovata inaffidabilita'.
 
 La sospensione e' adottata quando sia stato commesso un solo inadempimento; il diniego e' adottato quando l'esportatore sia recidivo; l'esclusione dalle procedure e' disposta se l'esportatore e' reiteratamente recidivo.
 

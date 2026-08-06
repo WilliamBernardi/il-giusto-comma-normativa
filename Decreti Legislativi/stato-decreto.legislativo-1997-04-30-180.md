@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
 vigenza_date: 2001-05-05
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:31Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -31,6 +31,23 @@ Il presente decreto disciplina la facolta' di opzione prevista dall'articolo 1, 
  Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, comma 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con D.P.R. 28 dicembre 1985, n. 1092, al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
 
 ## Art. 2. — Modalita' di applicazione
+
+1.
+                    
+                        
+                            Il montante individuale dei contributi di cui all'articolo 1, comma 6, della citata legge n. 335 del 1995 e' determinato dalla somma di due quote: 
+
+                        
+                        
+                            a)
+                            
+                                la prima, per i periodi contributivi maturati fino al 31 dicembre 1995; 
+                            
+                        
+                        
+                            b)
+                            
+                                la seconda, per i periodi contributivi maturati successivamente al 31 dicembre 1995.
 
 La quota di montante di cui al comma 1, lettera a), e' determinata come prodotto tra il numero complessivo di anni di contribuzione maturati alla data del 31 dicembre 1995 dal soggetto interessato e la media delle contribuzioni annue, di cui al comma 3, rivalutate su base composta fino al 31 dicembre dell'anno precedente quello di decorrenza della pensione impiegando il tasso di capitalizzazione di cui all'articolo 1, comma 9, della citata legge n. 335 del 1995, nel limite massimo del periodo di riferimento di cui al comma 5. ((Gli anni di contribuzione antecedenti il periodo di riferimento di cui al comma 5 sono valutati ponderandoli con il rapporto tra l'aliquota contributiva vigente in ciascun anno e la media delle aliquote contributive vigenti nei dieci anni precedenti quello in cui viene esercitata l'opzione. Per i dipendenti dello Stato si applicano le aliquote contributive vigenti presso il fondo pensioni lavoratori dipendenti dell'INPS.))
                             ((2))

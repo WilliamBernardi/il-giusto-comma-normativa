@@ -7,8 +7,8 @@ urn: urn:nir:ministero.economia.e.finanze:decreto:2022-08-01;145
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:38Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -25,6 +25,178 @@ Udito il parere del Consiglio di Stato n. 298/2018, espresso dalla sezione consu
 ## Art. 1. — Oggetto e definizioni
 
 Il presente regolamento definisce le regole generali relative alle scommesse a quota fissa su eventi sportivi diversi dalle corse dei cavalli e su eventi non sportivi.
+
+2.
+                    
+                        
+                            Ai soli fini del presente provvedimento, s'intende: 
+ 
+                        
+                        
+                            a)
+                            
+                                ADM, l'Agenzia delle dogane e dei monopoli; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                avvenimento o frazione di avvenimento, l'evento, anche non sportivo, su cui si effettua la scommessa a quota fissa; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                avvenimento-manifestazione, l'evento, anche non sportivo, il cui nome coincide con il nome della manifestazione ovvero di una specifica competizione su cui si effettua la scommessa a quota fissa; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                bonus, la somma riconosciuta al giocatore per l'effettuazione delle scommesse a quota fissa; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                concessionario/i, il soggetto selezionato da ADM, in base a procedura ad evidenza pubblica, per l'affidamento delle attivita' e funzioni pubbliche oggetto della concessione; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                concessione, l'istituto attraverso il quale ADM affida attivita' e funzioni pubbliche per la commercializzazione delle scommesse a quota fissa; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                disciplina, categoria sportiva o non sportiva che raggruppa le manifestazioni per le quali e' autorizzata l'offerta di gioco; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                errore quota, l'errore materiale di indicazione della quota nel programma di accettazione predisposto dal concessionario, obiettivamente rilevabile dal giocatore e riconoscibile, al momento della scommessa a quota fissa, come errore sulla base del confronto tra la quota offerta e il relativo valore medio di mercato; 
+
+                            
+                        
+                        
+                            i)
+                            
+                                esito pronosticabile, uno degli esiti contemplati da una determinata tipologia di scommessa su cui e' possibile scommettere; 
+
+                            
+                        
+                        
+                            j)
+                            
+                                esito vincente, il risultato che si e' verificato tra gli esiti contemplati da una tipologia di scommessa; 
+
+                            
+                        
+                        
+                            k)
+                            
+                                gioco sicuro, legale e responsabile, le misure adottate dal concessionario nel gioco con vincita in denaro, sulla base dei provvedimenti di ADM, al fine di garantire la tutela sia degli interessi del singolo giocatore sia di quelli pubblici; 
+
+                            
+                        
+                        
+                            l)
+                            
+                                luogo/hi di vendita, il punto di vendita autorizzato alla raccolta, in possesso dei requisiti stabiliti con provvedimenti di ADM e della licenza di polizia rilasciata dall'Autorita' di pubblica sicurezza di cui all'art. 88 del R.D. del 18 giugno 1931, n. 773; 
+
+                            
+                        
+                        
+                            m)
+                            
+                                manifestazione, l'insieme degli avvenimenti appartenenti alla stessa competizione sportiva o non sportiva; 
+
+                            
+                        
+                        
+                            n)
+                            
+                                movimento netto, l'incasso lordo della raccolta delle scommesse a quota fissa al netto dell'importo delle scommesse a quota fissa annullate e/o rimborsabili; 
+
+                            
+                        
+                        
+                            o)
+                            
+                                orario di accettazione, periodo di accettazione delle giocate che termina all'orario di inizio dell'avvenimento ovvero alla conclusione dell'evento ovvero al determinarsi di uno degli esiti pronosticabili; 
+
+                            
+                        
+                        
+                            p)
+                            
+                                partecipante o scommettitore o giocatore, colui che effettua la scommessa a quota fissa; 
+
+                            
+                        
+                        
+                            q)
+                            
+                                posta di gioco, l'importo pagato dal partecipante per ciascuna scommessa a quota fissa; 
+
+                            
+                        
+                        
+                            r)
+                            
+                                quota, il numero, seguito al massimo da tre decimali, il quale, moltiplicato per la posta di gioco, determina l'importo da restituire al partecipante in caso di vincita; 
+
+                            
+                        
+                        
+                            s)
+                            
+                                ricevuta di partecipazione, documento che garantisce l'avvenuta registrazione della scommessa nel totalizzatore nazionale e che costituisce, nel caso di vincita o di rimborso, l'unico titolo al portatore valido per la riscossione della stessa. Per il gioco a distanza la registrazione della scommessa a quota fissa e dell'esito sul totalizzatore nazionale, immediatamente contabilizzata sul conto di gioco, costituisce a tutti gli effetti ricevuta di partecipazione; 
+
+                            
+                        
+                        
+                            t)
+                            
+                                scommessa a quota fissa, la scommessa per la quale la somma da riscuotere, in caso di vincita, e' previamente concordata tra il partecipante e il concessionario ed e' modificabile solo nei casi previsti; 
+
+                            
+                        
+                        
+                            u)
+                            
+                                scommessa sistemistica o sistema, insieme di scommesse a quota fissa generate combinando tra di loro piu' esiti pronosticabili e convalidate contemporaneamente in un'unica ricevuta di partecipazione; 
+
+                            
+                        
+                        
+                            v)
+                            
+                                scommessa telematica, la scommessa a quota fissa effettuata con modalita' «a distanza», ovvero effettuata attraverso canale telefonico, fisso o mobile, internet o tv interattiva; 
+
+                            
+                        
+                        
+                            w)
+                            
+                                tipologia di scommessa, l'insieme degli esiti proposti dal concessionario ed autorizzati da ADM; 
+
+                            
+                        
+                        
+                            x)
+                            
+                                totalizzatore nazionale, il sistema di elaborazione per la gestione ed il controllo da parte di ADM di tutte le informazioni e di tutti i dati relativi alle scommesse a quota fissa.
 
 ## Art. 2. — Soggetti abilitati alla raccolta
 
@@ -43,6 +215,24 @@ Le scommesse a quota fissa hanno per oggetto avvenimenti sportivi, diversi dalle
 
 ## Art. 4. — Scommesse a quota fissa e tipologie di scommesse a quota fissa
 
+1.
+                    
+                        
+                            Le scommesse a quota fissa ammesse sono: 
+ 
+                        
+                        
+                            a)
+                            
+                                singola, cioe' riferita all'esito di una tipologia di scommessa a quota fissa; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                multipla, ovvero una scommessa riferita agli esiti di piu' tipologie di scommesse a quota fissa.
+
 Sono ammesse tipologie di scommessa a quota fissa composte che sono rappresentate dall'insieme di piu' tipologie di scommessa a quota fissa e per le quali la posta di gioco e' suddivisa tra le tipologie di scommesse a quota fissa che la compongono. Per tale tipologia di scommessa a quota fissa, la quota pattuita puo' variare in funzione degli esiti delle scommesse a quota fissa che la compongono. In tal caso, la quota, troncata al terzo decimale, puo' essere inferiore a 1 (uno).
 
 Con provvedimenti di ADM o con note tecniche elaborate dai concessionari e contenenti la descrizione degli esiti pronosticabili e delle modalita' di determinazione e refertazione degli esiti vincenti, asseverate da ADM, sono stabilite le caratteristiche delle tipologie di scommessa a quota fissa.
@@ -52,6 +242,38 @@ Qualora le relative note tecniche non contengano specifica diversa disposizione,
 ## Art. 5. — Programma ufficiale
 
 L'elenco delle discipline sportive e non sportive e delle manifestazioni e i relativi aggiornamenti, e' definito, anche su proposta dei concessionari, e pubblicato tempestivamente da ADM.
+
+2.
+                    
+                        
+                            Il programma ufficiale e' definito dal singolo concessionario in base alle discipline, manifestazioni, facenti parte dell'elenco di cui al comma 1, e tipologie di scommesse autorizzate da ADM. Tale programma costituisce l'unico documento in riferimento al quale le scommesse possono essere accettate. In esso sono riportati, per ciascun avvenimento: 
+ 
+                        
+                        
+                            a)
+                            
+                                la disciplina e la manifestazione; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                le squadre o i concorrenti che identificano l'avvenimento; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                la data e l'ora dell'avvenimento come comunicate al Totalizzatore Nazionale; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                le tipologie di scommessa a quota fissa ammesse.
 
 Nelle discipline a squadre, la prima squadra che compone l'avvenimento e' individuata come squadra ospitante. Per gli avvenimenti che si disputano in campo neutro la prima squadra che compone l'avvenimento e' individuata come squadra ospitante ai soli fini della refertazione degli esiti vincenti. Sono resi pubblici dal concessionario i metodi di visualizzazione degli avvenimenti, diversi da quanto descritto nel periodo precedente.
 
@@ -71,6 +293,38 @@ Sono considerate valide le scommesse a quota fissa e le tipologie di scommessa a
 
 Fermo restando quanto stabilito dal successivo comma 6, l'esito degli avvenimenti sportivi e di quelli non sportivi oggetto di scommessa e' quello che si realizza sul campo di gara o luogo di svolgimento dello stesso; le sue eventuali modificazioni non incidono sull'esito gia' certificato.
 
+3.
+                    
+                        
+                            La tipologia di scommessa a quota fissa su un avvenimento sportivo diverso dalle corse dei cavalli e non sportivo e' considerata non valida: 
+ 
+                        
+                        
+                            a)
+                            
+                                quando l'avvenimento non si e' svolto entro i tre giorni successivi all'ultima data comunicata al totalizzatore nazionale; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                in caso di accettazione di una tipologia di scommessa a quota fissa successivamente al verificarsi di un suo esito; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                in caso di inversione di campo nelle competizioni a squadre, rispetto a quanto comunicato dall'organo responsabile dello svolgimento degli avvenimenti. Non si considera inversione di campo qualora l'avvenimento si disputi in campo neutro; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                in caso di accettazione di una tipologia di scommessa a quota fissa nell'intervallo di tempo compreso tra l'orario di effettivo inizio dell'avvenimento e l'orario indicato nel programma ufficiale.
+
 La tipologia di scommessa a quota fissa e' comunque valida quando il risultato oggetto della stessa e' gia' maturato sul campo di gara o luogo di svolgimento dello stesso, anche se, in momenti successivi, l'avvenimento e' sospeso o annullato.
 
 Se uno o piu' tipologie di scommesse a quota fissa che compongono una scommessa a quota fissa multipla danno diritto al rimborso previsto dall'articolo 7, la scommessa a quota fissa resta valida e alle tipologie di scommesse a quota fissa rimborsate e' assegnata quota uguale ad 1 (uno). L'applicazione delle maggiorazioni delle vincite per le scommesse multiple di cui all'articolo 10, comma 7, e' ricalcolata escludendo le tipologie di scommesse a quota fissa a cui e' assegnata quota 1 (uno).
@@ -80,6 +334,38 @@ Ai fini delle scommesse a quota fissa, la refertazione degli esiti riguardanti g
 L'orario di riferimento per le scommesse a quota fissa e' quello del totalizzatore nazionale.
 
 ## Art. 7. — Rimborsi
+
+1.
+                    
+                        
+                            Il partecipante ha diritto al rimborso: 
+ 
+                        
+                        
+                            a)
+                            
+                                quando non e' possibile la refertazione delle tipologie di scommessa accettate; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                in caso di tipologia di scommessa non valida; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                nel caso di mancata partecipazione alla competizione dell'esito pronosticato o qualora l'esito pronosticato sia irrealizzabile; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                nel caso in cui una scommessa a quota fissa multipla contenga esiti, pronosticati dal giocatore, irrealizzabili congiuntamente.
 
 I partecipanti sono informati del diritto al rimborso attraverso comunicazioni disponibili nei luoghi di vendita. Relativamente alle scommesse telematiche, il concessionario provvede a darne diffusione attraverso i canali utilizzati per la raccolta.
 

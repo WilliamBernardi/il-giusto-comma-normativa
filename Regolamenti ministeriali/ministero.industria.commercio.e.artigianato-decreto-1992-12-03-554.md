@@ -8,8 +8,8 @@ codice_redazionale: 093G0050
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:38Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -47,7 +47,50 @@ In luogo del nominativo del fabbricante, sulla mola si potra' indicare quello de
 
 Alle indicazioni prescritte dall'art. 3 della legge, andra' aggiunta quella relativa al diametro esterno della mola, espresso in millimetri (mm).
 
+3.
+                    
+                        
+                            Per le mole abrasive a legante organico, il termine di validita', nei limiti previsti, dall'art. 3, comma 1, lettera c), della legge, potra' essere espresso in cifre o in lettere, a mezzo stampa, sovrastampa o fustellatura, in uno dei seguenti modi:
+ 
+                        
+                        
+                            a)
+                            
+                                scadenza (abbreviato: scad.): mese, anno;
+
+                            
+                        
+                        
+                            b)
+                            
+                                validita' (abbreviato: val.): mese, anno.
+
 Per le indicazioni relative al tipo di abrasivo ed al tipo di legante, di cui alle lettere b) e c) dell'art. 3, comma 1, della legge, e' ammesso l'uso di denominazioni abbreviate o sigle conformi alla pratica del commercio, quando il produttore sia in grado, a richiesta, di fornire le corrispondenti denominazioni chimico- fisiche.
+
+5.
+                    
+                        
+                            E' vietato l'impiego di mole abrasive in modi non conformi alle velocita' ed alle condizioni d'uso indicate dal fabbricante, riportate su ciascuna mola ai sensi dell'art. 3, comma 1, lettera d), della legge. Le velocita' massime potranno essere espresse in uno dei seguenti modi:
+ 
+                        
+                        
+                            a)
+                            
+                                valore che esprime le rotazioni in radianti al minuto ("rad. p.m.");
+
+                            
+                        
+                        
+                            b)
+                            
+                                valore che esprime le rotazioni per minuto ("r.p.m.", oppure "l/mn");
+
+                            
+                        
+                        
+                            c)
+                            
+                                valore che esprime la velocita' periferica in metri al secondo ("m/s").
 
 ## Art. 4. — Sistemi di incollaggio
 

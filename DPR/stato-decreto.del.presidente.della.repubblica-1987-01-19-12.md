@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: DPR
 vigenza_date: 1992-07-15
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:47:47Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -36,11 +36,159 @@ Il Dipartimento predispone tutti gli adempimenti per conseguire il coordinamento
 
 Il Dipartimento, con riferimento al Mezzogiorno, concorre all'istruttoria delle iniziative di Governo in relazione alle priorita' economico-finanziarie del programma economico nazionale e segue l'attivita' degli organi della pubblica amministrazione preposti alla spesa, nonche' quelle degli enti pubblici economici e delle societa' a partecipazione statale. Cura, inoltre, i rapporti con i comitati interministeriali competenti in materia di politica economica e produttiva, di commercio estero e di cooperazione internazionale, per accertare e stimolare l'applicazione coordinata delle deliberazioni da essi adottate. Il Dipartimento cura, altresi', con riferimento al Mezzogiorno, il coordinamento delle politiche comunitarie.
 
+2.
+                    
+                        
+                            Il Dipartimento opera, in particolare, per l'esplicazione dei seguenti compiti:
+ 
+                        
+                        
+                            a)
+                            
+                                formulazione del programma triennale per lo sviluppo del Mezzogiorno, della programmazione finanziaria e settoriale e dei relativi aggiornamenti annuali;
+
+                            
+                        
+                        
+                            b)
+                            
+                                coordinamento tra l'intervento straordinario e quello ordinario delle amministrazioni centrali dello Stato, anche ad ordinamento autonomo, delle regioni meridionali e degli enti pubblici economici; verifica delle riserve e delle direttive di coordinamento e proposte di misure integrative e sostitutive;
+
+                            
+                        
+                        
+                            c)
+                            
+                                promozione del coordinamento a livello territoriale degli interventi delle regioni e degli enti locali, fornendo, ove richiesto, il supporto tecnico ed amministrativo necessario;
+
+                            
+                        
+                        
+                            d)
+                            
+                                valutazione economica e finanziaria dei progetti da inserire nei piani annuali di attuazione, ivi compresi quelli di innovazione tecnologica, di formazione, di attivita' promozionali e di ricerca scientifica;
+
+                            
+                        
+                        
+                            e)
+                            
+                                predisposizione dei piani annuali di attuazione sulla base sia dei progetti regionali di sviluppo, sia dei progetti interregionali o di interesse nazionale;
+
+                            
+                        
+                        
+                            f)
+                            
+                                verifica dello stato di attuazione dei piani annuali, dei programmi di completamento e delle attivita' di trasferimento e di liquidazione;
+
+                            
+                        
+                        
+                            g)
+                            
+                                promozione della conclusione di accordi di programma per l'attuazione degli interventi che richiedono la iniziativa integrata e coordinata di regioni, enti locali ed altri soggetti pubblici e amministrazioni statali, anche ad ordinamento autonomo;
+
+                            
+                        
+                        
+                            h)
+                            
+                                vigilanza sull'esecuzione degli accordi di programma e proposta di interventi in caso di inadempienza;
+
+                            
+                        
+                        
+                            i)
+                            
+                                adempimenti riguardanti l'incentivazione alle attivita' economiche nei vari settori produttivi, ai servizi reali, ai servizi avanzati, alla ricerca scientifica e alla innovazione tecnologica;
+
+                            
+                        
+                        
+                            l)
+                            
+                                adempimenti connessi all'obbligo della riserva, a favore di imprese meridionali, di forniture e lavorazioni;
+
+                            
+                        
+                        
+                            m)
+                            
+                                predisposizione delle direttive per il coordinamento delle attivita' dell'Agenzia e degli enti di promozione per lo sviluppo del Mezzogiorno;
+
+                            
+                        
+                        
+                            n)
+                            
+                                vigilanza sulle attivita' dell'Agenzia e degli enti predetti, anche attraverso l'esame dei rispettivi programmi, dei bilanci e della gestione delle risorse impegnate;
+
+                            
+                        
+                        
+                            o)
+                            
+                                Adempimenti connessi alla acquisizione delle agevolazioni comunitarie in materia di Fondo europeo di sviluppo regionale, di Fondo sociale europeo, nonche' adempimenti di sua competenza riguardanti l'istruttoria dei programmi integrati mediterranei;
+
+                            
+                        
+                        
+                            p)
+                            
+                                informazione, nei confronti dei soggetti interessati, sulle attivita' di programmazione ed attuazione degli interventi straordinari nel Mezzogiorno.
+
 Il Dipartimento cura, infine, gli adempimenti di carattere amministrativo relativi all'organizzazione ed al funzionamento dei vari servizi e alla gestione di tutto il personale comunque in attivita' presso i servizi medesimi, nonche' gli adempimenti connessi all'attivita' legislativa, alle interrogazioni e interpellanze parlamentari; assicura la consulenza giuridica ai servizi del Dipartimento e provvede all'istruttoria del contenzioso amministrativo e giurisdizionale.
 
 ## Art. 3. — Organizzazione del Dipartimento
 
 Il capo del Dipartimento e' nominato con decreto del Presidente del Consiglio dei Ministri su proposta del Ministro per gli interventi straordinari nel Mezzogiorno, tra i magistrati delle giurisdizioni superiori amministrative, gli avvocati dello Stato, i dirigenti generali dello Stato o equiparati o da equiparare ed i professori universitari ordinari di ruolo. Il capo del Dipartimento e' collocato fuori ruolo nell'ambito dell'amministrazione di provenienza, in conformita' all'ordinamento di questa. Il capo del Dipartimento, per l'espletamento delle sue attribuzioni, e' coadiuvato dai responsabili dei servizi.
+
+2.
+                    
+                        
+                            Il Dipartimento si articola nei seguenti servizi:
+ 
+                        
+                        
+                            a)
+                            
+                                Servizio affari legislativi e generali, contenzioso e stampa;
+
+                            
+                        
+                        
+                            b)
+                            
+                                Servizio attivita' di coordinamento;
+
+                            
+                        
+                        
+                            c)
+                            
+                                Servizio valutazione economica;
+
+                            
+                        
+                        
+                            d)
+                            
+                                Servizio programmazione e accordi di programma;
+
+                            
+                        
+                        
+                            e)
+                            
+                                Servizio attivita' promozionali ed innovazione;
+
+                            
+                        
+                        
+                            f)
+                            
+                                Servizio programmi comunitari.
 
 I servizi sono articolati, per omogeneita' di materia, in reparti ed in sezioni mediante decreto del Presidente del Consiglio dei Ministri, su proposta del Ministro per gli interventi straordinari nel Mezzogiorno; ad essi sono preposti dirigenti nominati con decreto del medesimo Ministro, sentito il capo del Dipartimento. Per la nomina a capo servizio e' richiesta la qualifica di dirigente generale dello Stato o altra qualifica equiparata o da equiparare ai sensi del comma 3 dell'art. 6.
 

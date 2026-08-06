@@ -8,8 +8,8 @@ codice_redazionale: 093G0283
 vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:30Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -26,6 +26,31 @@ Sulla proposta dei Ministri dei lavori pubblici e dei trasporti;
 ## Art. 1.
 
 Le disposizioni contenute nel titolo III del decreto legislativo 30 aprile 1992, n. 285, si applicano dal 1 ottobre 1993.
+
+2.
+                    
+                        
+                            Al decreto legislativo 30 aprile 1992, n. 285, sono apportate le seguenti modificazioni:
+ 
+                        
+                        
+                            a)
+                            
+                                all'art. 236, comma 1, le parole: "alla scadenza di mesi sei dalla entrata in vigore del presente codice" sono sostituite dalle seguenti: "al 30 settembre 1993";
+
+                            
+                        
+                        
+                            b)
+                            
+                                all'art. 239, comma 1, le parole: "da mesi sei dall'entrata in vigore del presente codice" sono sostituite dalle seguenti: "dal 1 ottobre 1993";
+
+                            
+                        
+                        
+                            c)
+                            
+                                all'art. 239, comma 2, le parole: "dalla scadenza di sei mesi dall'entrata in vigore del presente codice" sono sostituite dalle seguenti: "dal 1 ottobre 1993".
 
 ## Art. 2.
 

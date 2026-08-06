@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
 vigenza_date: 2026-02-20
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:32Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -38,11 +38,287 @@ E' fatta salva la normativa vigente in materia, in particolare, di sicurezza e d
 
 ## Art. 2. — Obiettivi
 
+1.
+                    
+                        
+                            Il presente decreto ha lo scopo:
+ 
+                        
+                        
+                            a)
+                            
+                                di ridurre al minimo l'impatto dei veicoli fuori uso sull'ambiente, al fine di contribuire alla protezione, alla conservazione ed al miglioramento della qualita' dell'ambiente;
+
+                            
+                        
+                        
+                            b)
+                            
+                                di evitare distorsioni della concorrenza, soprattutto per quanto riguarda l'accesso delle piccole e delle medie imprese al mercato della raccolta, della demolizione, del trattamento e del riciclaggio dei veicoli fuori uso;
+
+                            
+                        
+                        
+                            c)
+                            
+                                di determinare i presupposti e le condizioni che consentono lo sviluppo di un sistema che assicuri un funzionamento efficiente, razionale ed economicamente sostenibile della filiera di raccolta, di recupero e di riciclaggio dei materiali degli stessi veicoli.
+
+2.
+                    
+                        
+                            Ai fini di cui al comma 1, in attuazione dei principi di precauzione e dell'azione preventiva ed in conformita' alla strategia comunitaria in materia di gestione dei rifiuti, il presente decreto individua e disciplina:
+ 
+                        
+                        
+                            a)
+                            
+                                le misure volte, in via prioritaria, a prevenire la produzione di rifiuti derivanti dai veicoli e, in particolare, le misure per ridurre e per controllare le sostanze pericolose presenti negli stessi veicoli, da adottare fin dalla fase di progettazione, per prevenire il rilascio nell'ambiente di sostanze pericolose, per facilitare il reimpiego, il riciclaggio e il recupero energetico e per limitare il successivo smaltimento di rifiuti pericolosi;
+
+                            
+                        
+                        
+                            b)
+                            
+                                le prescrizioni da osservare nella progettazione e nella produzione dei veicoli nuovi per incoraggiare e per favorire il recupero dei veicoli fuori uso e dei relativi componenti e materiali, compreso lo sviluppo del mercato dei materiali di demolizione recuperati, privilegiando il reimpiego e il riciclaggio, in modo da ridurre il volume dei rifiuti da smaltire;
+
+                            
+                        
+                        
+                            c)
+                            
+                                le altre azioni necessarie per favorire il reimpiego, il riciclaggio e il recupero di tutte le componenti metalliche e non metalliche derivanti dal veicolo fuori uso e, in particolare, di tutte le materie plastiche;
+
+                            
+                        
+                        
+                            d)
+                            
+                                le misure volte a migliorare la qualita' ambientale e l'efficienza delle attivita' di tutti gli operatori economici coinvolti nel ciclo di vita del veicolo, dalla progettazione dello stesso alla gestione finale del veicolo fuori uso, per garantire che il riciclaggio, il recupero e lo smaltimento del veicolo medesimo avvenga senza pericolo per l'ambiente ed in modo economicamente sostenibile;
+
+                            
+                        
+                        
+                            e)
+                            
+                                le responsabilita' degli operatori economici.
+
 ## Art. 3. — Definizioni
+
+1.
+                    
+                        
+                            Ai fini del presente decreto, si intende per: 
+ 
+                        
+                        
+                            a)
+                            
+                                "veicoli", i veicoli a motore appartenenti alle categorie M1 ed N1 di cui all'allegato II, parte A, della direttiva 70/156/CEE, ed i veicoli a motore a tre ruote come definiti dalla direttiva 2002/24/CE, con esclusione dei tricicli a motore; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                "veicolo fuori uso", un veicolo di cui alla lettera a) a fine vita che costituisce un rifiuto ai sensi ((dell'articolo 183, comma 1, lettera a), del decreto legislativo 3 aprile 2006, n. 152,)) e successive modifiche; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                "detentore" il proprietario del veicolo o colui che lo detiene a qualsiasi titolo; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                "produttore", il costruttore o l'allestitore, intesi come detentori dell'omologazione del veicolo, o l'importatore professionale del veicolo stesso; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                "prevenzione", i provvedimenti volti a ridurre la quantita' e la pericolosita' per l'ambiente del veicolo fuori uso e dei materiali e delle sostanze che lo compongono; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                "trattamento", le attivita' di messa in sicurezza, di demolizione, di pressatura, di tranciatura, di frantumazione, di recupero o di preparazione per lo smaltimento dei rifiuti frantumati, nonche' tutte le altre operazioni eseguite ai fini del recupero o dello smaltimento del veicolo fuori uso e dei suoi componenti effettuate, dopo la consegna dello stesso veicolo, presso un impianto di cui alla lettera o); 
+
+                            
+                        
+                        
+                            g)
+                            
+                                "messa in sicurezza", le operazioni di cui all'allegato I, punto 5; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                "demolizione", le operazioni di cui all'allegato I, punto 6; 
+
+                            
+                        
+                        
+                            i)
+                            
+                                "pressatura", le operazioni di adeguamento volumetrico del veicolo gia' sottoposto alle operazioni di messa in sicurezza e di demolizione; 
+
+                            
+                        
+                        
+                            l)
+                            
+                                "tranciatura", le operazioni di cesoiatura; 
+
+                            
+                        
+                        
+                            m)
+                            
+                                "frantumatore", un dispositivo impiegato per ridurre in pezzi e in frammenti il veicolo gia' sottoposto alle operazioni di messa in sicurezza e di demolizione, allo scopo di ottenere residui di metallo riciclabili; 
+
+                            
+                        
+                        
+                            n)
+                            
+                                "frantumazione", le operazioni per la riduzione in pezzi o in frammenti, tramite frantumatore, del veicolo gia' sottoposto alle operazioni di messa in sicurezza e di demolizione, allo scopo di ottenere residui di metallo riciclabili, separandoli dalle parti non metalliche destinate ((al riciclaggio,)) al recupero, anche energetico, o allo smaltimento; 
+
+                            
+                        
+                        
+                            o)
+                            
+                                "impianto di trattamento", impianto autorizzato ai sensi degli ((articoli 208, 209, 213 e 216 del decreto legislativo n. 152 del 2006,)) presso il quale sono effettuate tutte o alcune delle attivita' di trattamento di cui alla lettera f); 
+
+                            
+                        
+                        
+                            p)
+                            
+                                "centro di raccolta", impianto di trattamento di cui alla lettera o), autorizzato ((, anche disgiuntamente, per le operazioni R4, R12 e R13 di cui all'Allegato C alla Parte quarta del decreto legislativo 3 aprile 2006, n. 152,)) ai sensi degli ((articoli 208 e 209 del decreto legislativo n. 152 del 2006)), che effettua almeno le operazioni relative alla messa in sicurezza ed alla demolizione del veicolo fuori uso; 
+
+                            
+                        
+                        
+                            q)
+                            
+                                "reimpiego", le operazioni in virtu' delle quali i componenti di un veicolo fuori uso sono utilizzati allo stesso scopo per cui erano stati originariamente concepiti; 
+
+                            
+                        
+                        
+                            r)
+                            
+                                "riciclaggio", il ritrattamento, in un processo di produzione, dei materiali di rifiuto per la loro funzione originaria o per altri fini, escluso il recupero di energia. Per recupero di energia si intende l'utilizzo di rifiuti combustibili quale mezzo per produrre energia me-diante incenerimento diretto con o senza altri rifiuti, ma con recupero del calore; 
+
+                            
+                        
+                        
+                            s)
+                            
+                                "recupero", le pertinenti operazioni di cui all'allegato C ((della parte quarta del decreto legislativo n. 152 del 2006)); 
+
+                            
+                        
+                        
+                            t)
+                            
+                                "smaltimento", le pertinenti operazioni di cui all'allegato B ((della parte quarta del decreto legislativo n. 152 del 2006)); 
+
+                            
+                        
+                        
+                            u)
+                            
+                                "operatori economici", i produttori, i distributori, gli operatori addetti alla raccolta, le compagnie di assicurazione dei veicoli a motore, le imprese di demolizione, di frantumazione, di recupero, di riciclaggio e gli altri operatori che effettuano il trattamento di un veicolo fuori uso e dei relativi componenti e materiali; 
+
+                            
+                        
+                        
+                            v)
+                            
+                                sostanza pericolosa: le sostanze che corrispondono ai criteri di una delle seguenti classi o categorie di pericolo di cui all'allegato I del regolamento (CE) n. 1272/2008 del Parlamento europeo e del Consiglio, del 16 dicembre 2008, relativo alla classificazione, all'etichettatura e all'imballaggio delle sostanze e delle miscele: 
+ 1) classi di pericolo da 2.1 a 2.4, 2.6 e 2.7, 2.8 tipi A e B, 2.9, 2.10, 2.12, 2.13 categorie 1 e 2, 2.14 categorie 1 e 2, 2.15 tipi da A a F; 
+ 2) classi di pericolo da 3.1 a 3.6, 3.7 effetti nocivi sulla funzione sessuale e la fertilita' o sullo sviluppo, 3.8 effetti diversi dagli effetti narcotici, 3.9 e 3.10; 
+ 3) classe di pericolo 4.1; 
+ 4) classe di pericolo 5.1; 
+
+                            
+                        
+                        
+                            z)
+                            
+                                "informazioni per la demolizione", tutte le informazioni necessarie per il trattamento appropriato e compatibile con l'ambiente di un veicolo fuori uso.
+
+2.
+                    
+                        
+                            Un veicolo e' classificato fuori uso ai sensi del comma 1, lettera b): 
+ 
+                        
+                        
+                            a)
+                            
+                                con la consegna ad un centro di raccolta, effettuata dal detentore direttamente o tramite soggetto autorizzato al trasporto di veicoli fuori uso oppure con la consegna al concessionario o gestore dell'automercato o della succursale della casa costruttrice che, accettando di ritirare un veicolo destinato alla demolizione nel rispetto delle disposizioni del presente decreto rilascia il relativo certificato di rottamazione al detentore; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                nei casi previsti dalla vigente disciplina in materia di veicoli a motore rinvenuti da organi pubblici e non reclamati ((come disciplinati dall'articolo 231, comma 3, del decreto legislativo n. 152 del 2006)); 
+
+                            
+                        
+                        
+                            c)
+                            
+                                a seguito di specifico provvedimento dell'autorita' amministrativa o giudiziaria; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                in ogni altro caso in cui il veicolo, ancorche' giacente in area privata, risulta in evidente stato di abbandono.
 
 Non rientrano nella definizione di rifiuto ai sensi del comma 1, lettera b), e non sono soggetti alla relativa disciplina, i veicoli d'epoca, e i veicoli di interesse storico o collezionistico o destinati ai musei, ((individuati come tali dalla normativa di settore,)) conservati in modo adeguato, pronti all'uso ovvero in pezzi smontati.
 
 ## Art. 4. — Prevenzione
+
+1.
+                    
+                        
+                            Al fine di promuovere la prevenzione della produzione dei rifiuti provenienti dal veicolo fuori uso, ed in particolare, per prevenire il rilascio nell'ambiente delle sostanze pericolose in esso contenute, per facilitarne il reimpiego ed il riciclaggio e per ridurre la quantita' di rifiuti pericolosi da avviare allo smaltimento finale, il Ministero dell'ambiente e della tutela del territorio, di concerto con il Ministero ((dello sviluppo economico)), adotta iniziative dirette a favorire: 
+ 
+                        
+                        
+                            a)
+                            
+                                la limitazione, da parte del costruttore di veicoli, in collaborazione con il costruttore di materiali e di equipaggiamenti, dell'uso di sostanze pericolose nella produzione dei veicoli e la riduzione, quanto piu' possibile, delle stesse, sin dalla fase di progettazione; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                modalita' di progettazione e di fabbricazione del veicolo nuovo che agevolano la demolizione, il reimpiego, il recupero e, soprattutto, il riciclaggio del veicolo fuori uso e dei relativi componenti e materiali, promuovendo anche lo sviluppo della normativa tecnica del settore; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                l'utilizzo, da parte del costruttore di veicoli, in collaborazione con il produttore di materiali e di equipaggiamenti, di quantita' crescenti di materiale riciclato nei veicoli ed in altri prodotti, al fine di sviluppare il mercato dei materiali riciclati.
 
 ## Art. 5. — Raccolta
 
@@ -80,9 +356,73 @@ I certificati di rottamazione emessi in altri Stati membri rispondenti ai requis
 
 I veicoli a motore rinvenuti da organi pubblici o non reclamati dai proprietari e quelli acquisiti per occupazione, ai sensi degli articoli 927, 929 e 923 del codice civile, sono conferiti ai centri di raccolta di cui al comma 1 nei casi e con le modalita' stabiliti in conformita' alle disposizioni emanate ai sensi del decreto legislativo 3 aprile 2006, n. 152.
 
+15.
+                    
+                        
+                            Le imprese esercenti attivita' di autoriparazione, di cui alla legge 5 febbraio 1992, n. 122, consegnano, ove cio' sia tecnicamente fattibile, i pezzi usati allo stato di rifiuto derivanti dalle riparazioni dei veicoli, ad eccezione di quelli per cui sono previsti dalla legge un consorzio obbligatorio di raccolta o sistemi di gestione di filiera istituiti ai sensi del decreto legislativo 3 aprile 2006, n. 152, ai seguenti soggetti: 
+ 
+                        
+                        
+                            a)
+                            
+                                direttamente ad un centro di raccolta di cui al comma 3, qualora iscritti all'Albo nazionale dei gestori ambientali; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                ad un operatore autorizzato alla raccolta ed al trasporto dei rifiuti perche' provveda al loro trasporto ad un centro di raccolta di cui al comma 3.
+
 ## Art. 6. — Prescrizioni relative al trattamento del veicolo fuori uso
 
 Gli impianti di trattamento di cui all'articolo 3, comma 1, lettera o), si conformano alle pertinenti prescrizioni tecniche stabilite all'allegato I.
+
+2.
+                    
+                        
+                            Le operazioni di trattamento di cui all'articolo 3, comma 1, lettera f), sono svolte in conformita' ai principi generali previsti ((dagli articoli 177 e 178 del decreto legislativo 3 aprile 2006, n. 152)), ed alle pertinenti prescrizioni dell'allegato I, nonche' nel rispetto dei seguenti obblighi: 
+ 
+                        
+                        
+                            a)
+                            
+                                effettuare ((entro dieci giorni lavorativi dall'ingresso del veicolo nel centro di raccolta)) le operazioni per la messa in sicurezza del veicolo fuori uso di cui all'allegato I, punto 5 ((anche nel caso in cui lo stesso veicolo non fosse ancora stato cancellato dal PRA)); 
+
+                            
+                        
+                        
+                            b)
+                            
+                                effettuare le operazioni per la messa in sicurezza, di cui al citato allegato I, punto 5, prima di procedere allo smontaggio dei componenti del veicolo fuori uso o ad altre equivalenti operazioni volte a ridurre gli eventuali effetti nocivi sull'ambiente; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                rimuovere preventivamente, nell'esercizio delle operazioni di demolizione, i componenti ed i materiali di cui all'allegato II etichettati o resi in altro modo identificabili, secondo quanto disposto in sede comunitaria; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                rimuovere e separare i materiali e i componenti pericolosi in modo da non contaminare i successivi rifiuti frantumati provenienti dal veicolo fuori uso; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                eseguire le operazioni di smontaggio e di deposito dei componenti in modo da non comprometterne la possibilita' di reimpiego, di riciclaggio e di recupero. 
+
+                            
+                        
+                        
+                            e-bis)
+                            
+                                eseguire le operazioni di condizionamento dei componenti di cui alla lettera e), consistenti in pulizia, controllo, riparazione e verifica della loro funzionalita', al fine di essere reimpiegati nel mercato del ricambio.
 
 Alla chiusura dell'impianto di trattamento, il titolare provvede al ripristino ambientale dell'area utilizzata, secondo le modalita' stabilite dalla regione nel provvedimento di autorizzazione. Ai fini del ripristino ambientale e' data priorita' all'utilizzo di specifiche tecniche di ingegneria ambientale.
 
@@ -93,6 +433,24 @@ I produttori dei veicoli assicurano le migliori prestazioni ambientali e l'effic
 ))
 
 Nel caso che, dopo l'avviamento dell'impianto di trattamento, ((la citta' metropolitana o la provincia)) competente per territorio accerta la non conformita' dello stesso all'autorizzazione rilasciata ai sensi dell'articolo ((208 del decreto legislativo n. 152 del 2006, oppure)) accerta il mancato rispetto delle condizioni e delle prescrizioni stabilite nel provvedimento di autorizzazione all'esercizio delle operazioni di trattamento, rilasciato ai sensi ((dello stesso articolo 208 del decreto legislativo n. 152 del 2006)), la regione competente per territorio previa diffida, sospende quest'ultima autorizzazione per un periodo massimo di dodici mesi. La stessa autorizzazione e' revocata qualora il titolare dell'impianto non provveda a conformarsi, entro il predetto termine, alle prescrizioni delle predette autorizzazioni.
+
+5.
+                    
+                        
+                            L'ammissione delle attivita' di recupero dei rifiuti derivanti da veicoli fuori uso alle procedure semplificate, ai sensi degli articoli ((214 e 216 del decreto legislativo n. 152 del 2006)), e' subordinata a preventiva ispezione da parte ((della citta' metropolitana o della provincia)) competente per territorio, da effettuarsi entro sessanta giorni dalla presentazione della comunicazione di inizio di attivita' e, comunque, prima dell'avvio della stessa attivita'; detta ispezione, che e' effettuata, dopo l'inizio dell'attivita', almeno una volta l'anno, accerta: 
+ 
+                        
+                        
+                            a)
+                            
+                                la tipologia e la quantita' dei rifiuti sottoposti alle operazioni di recupero; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                la conformita' delle attivita' di recupero alle prescrizioni tecniche ed alle misure di sicurezza fissate in conformita' alle disposizioni emanate ai sensi del decreto legislativo ((3 aprile 2006, n. 152,)) nonche' alle norme tecniche previste dall'articolo ((214 del medesimo decreto legislativo n. 152 del 2006)).
 
 Nel caso che ((la citta' metropolitana o la provincia)) competente per territorio, a seguito delle ispezioni previste al comma 5, accerta la violazione delle disposizioni stabilite allo stesso comma, vieta, previa diffida e fissazione di un termine per adempiere, l'inizio ovvero la prosecuzione dell'attivita', salvo che il titolare dell'impianto non provveda, entro il termine stabilito, a conformare detta attivita' alla normativa vigente.
 
@@ -112,9 +470,90 @@ Per massimizzare il riciclaggio e il recupero energetico dei materiali e dei com
 
 ))
 
+2.
+                    
+                        
+                            Gli operatori economici garantiscono che: 
+ 
+                        
+                        
+                            a)
+                            
+                                entro il 1° gennaio 2006, per i veicoli fuori uso prodotti a partire dal 1° gennaio 1980, la percentuale di reimpiego e di recupero e' pari almeno all'85 per cento del peso medio per veicolo e per anno e la percentuale di reimpiego e di riciclaggio per gli stessi veicoli e' pari almeno all'80 per cento del peso medio per veicolo e per anno; per i veicoli prodotti anteriormente al 1° gennaio 1980, la percentuale di reimpiego e di recupero e' pari almeno al 75 per cento del peso medio per veicolo e per anno e la percentuale di reimpiego e di riciclaggio e' pari almeno al 70 per cento del peso medio per veicolo e per anno; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                entro il 1° gennaio 2015, per tutti i veicoli fuori uso la percentuale di reimpiego e di recupero e' pari almeno al 95 per cento del peso medio per veicolo e per anno e la percentuale di reimpiego e di riciclaggio e' pari almeno all'85 per cento del peso medio per veicolo e per anno.
+
 Al fine di verificare il raggiungimento degli obiettivi di cui al comma 2, i responsabili degli impianti di trattamento comunicano annualmente ((il peso effettivo dei veicoli fuori uso ottenuto dal sistema di pesatura posto all'ingresso del centro di raccolta e)) i dati relativi ai veicoli trattati ed ai materiali derivanti da essi ed avviati al recupero, avvalendosi del modello di dichiarazione ambientale di cui alla legge 25 gennaio 1994, n. 70, che, a tale fine, e' modificato con le modalita' previste dalla stessa legge n. 70 del 1994. Sono tenuti alla predetta comunicazione anche tutti coloro che esportano veicoli fuori uso o loro componenti.
 
 ## Art. 8. — Gestione del veicolo fuori uso
+
+1.
+                    
+                        
+                            Per garantire un elevato livello di tutela ambientale nell'esercizio delle attivita' di trattamento del veicolo fuori uso e dei rifiuti costituiti dai relativi componenti o materiali, il Ministero dell'ambiente e della tutela del territorio, di concerto con i Ministeri delle attivita' produttive e delle infrastrutture e dei trasporti, adotta misure per favorire e per incentivare: 
+ 
+                        
+                        
+                            a)
+                            
+                                gli accordi di cui all'articolo 12, comma 1, ed altre forme di collaborazione tra gli operatori economici, finalizzate ad assicurare: 
+ 1) la costituzione di sistemi di raccolta di tutti i veicoli fuori uso; 
+ 2) l'organizzazione di una rete di centri di raccolta idonei ad assicurare una raccolta e un trattamento efficienti dei veicoli fuori uso, con particolare riferimento a quelli con valore di mercato negativo o nullo; 
+ 3) la presenza uniforme sul territorio di centri di raccolta e di impianti di trattamento e di riciclaggio; 
+ 4) lo sviluppo di aree consortili in luoghi idonei ove gli operatori possono garantire il ciclo di trattamento del veicolo fuori uso; 
+ 5) lo sviluppo del recupero energetico dei materiali che non e' possibile o conveniente reimpiegare o riciclare; 
+ 6) la creazione di un sistema informatico per il monitoraggio dei flussi dei veicoli fuori uso e dei relativi materiali; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                lo sviluppo di nuove tecnologie di separazione post-frantumazione finalizzate a ridurre la produzione del residuo di frantumazione; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                l'adeguamento delle imprese alle prescrizioni previste all'articolo 6, commi 1 e 2; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                l'adesione da parte degli stabilimenti e delle imprese che effettuano le attivita' di trattamento a sistemi certificati di gestione dell'ambiente.
+
+2.
+                    
+                        
+                            Il Ministero dell'ambiente e della tutela del territorio, di concerto con i Ministeri delle attivita' produttive e dell'economia e delle finanze, al fine di sviluppare i mercati di sbocco per il riutilizzo dei materiali riciclati, in particolare non metallici, individua e promuove: 
+ 
+                        
+                        
+                            a)
+                            
+                                politiche di sostegno e di incentivazione per operazioni finalizzate al riciclaggio, quali la raccolta, lo smontaggio, la selezione e lo stoccaggio, per i materiali che non hanno sbocchi di mercato; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                accordi ed altre forme di collaborazione tra gli operatori economici finalizzate ad assicurare adeguati standard di qualita' dei materiali trattati; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                politiche di sostegno e di incentivazione per l'impiego di quantita' crescenti di materiale riciclato, anche al di fuori del settore automobilistico.
 
 La regione promuove, anche d'intesa con gli enti locali interessati ed anche con appositi accordi, iniziative volte a favorire il reimpiego, il riciclaggio, il recupero ed il corretto smaltimento del veicolo fuori uso e dei rifiuti costituiti da suoi componenti o materiali. In particolare, al fine di ridurre lo smaltimento del veicolo fuori uso, sono favoriti, in ordine di priorita', il reimpiego, il riciclaggio ed il recupero energetico.
 
@@ -152,9 +591,94 @@ Fino al termine di piena operativita' del Registro elettronico nazionale, come i
 
 L'((ISPRA)) trasmette al Ministero dell'ambiente e della tutela del territorio, con cadenza annuale, una relazione contenente i dati di cui ai commi 2 e 3.
 
+5.
+                    
+                        
+                            A decorrere dall'anno 2003, gli operatori economici pubblicano annualmente e rendono disponibili all'Albo nazionale delle imprese di cui all'articolo 8, comma 4, le informazioni riguardanti: 
+ 
+                        
+                        
+                            a)
+                            
+                                la costruzione del veicolo e dei relativi componenti che possono essere reimpiegati, recuperati e riciclati; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                il corretto trattamento, sotto il profilo ambientale, del veicolo fuori uso, con particolare riferimento alla rimozione di tutti i liquidi ed alla demolizione; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                l'ottimizzazione delle possibilita' di reimpiego, di riciclaggio e di recupero del veicolo fuori uso e dei relativi componenti; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                i progressi conseguiti in materia di recupero e di riciclaggio al fine di ridurre lo smaltimento del veicolo fuori uso e dei rifiuti costituiti dai relativi componenti e materiali.
+
 Il produttore del veicolo rende accessibili all'acquirente del veicolo le informazioni di cui al comma 5, includendole nelle pubblicazioni promozionali utilizzate per la commercializzazione dello stesso veicolo.
 
 ## Art. 12. — Accordi volontari
+
+1.
+                    
+                        
+                            Fatti salvi i principi e gli obiettivi stabiliti dal presente decreto, il Ministro dell'ambiente e della tutela del territorio, di concerto con il Ministro ((dello sviluppo economico)) puo' stipulare, con i settori economici interessati, accordi e contratti di programma per dare attuazione alle disposizioni di cui all'articolo 4, comma 1, all'articolo 5, comma 1, all'articolo 8, comma 1, lettere a), b), c) e d) , all'articolo 10, commi 1, 2 e 3, ed all'articolo 11, commi 5 e 6, nonche' per precisare le modalita' di applicazione dell'articolo 5, commi 2, 3, 4 e 5. Detti accordi devono soddisfare i seguenti requisiti: 
+ 
+                        
+                        
+                            a)
+                            
+                                avere forza vincolante; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                specificare gli obiettivi e le corrispondenti scadenze, nonche' le modalita' per il monitoraggio ed il controllo dei risultati raggiunti; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                essere pubblicati nella Gazzetta Ufficiale della Repubblica italiana e comunicati alla Commissione delle Comunita' europee; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                prevedere l'accessibilita' al pubblico dei risultati conseguiti; 
+
+                            
+                        
+                        
+                            d-bis)
+                            
+                                i risultati conseguiti nel quadro di tali accordi devono esser controllati con cadenza individuata nell'ambito degli accordi stessi e riferiti alle autorita' competenti ed alla Commissione europea; 
+
+                            
+                        
+                        
+                            d-ter)
+                            
+                                le autorita' competenti dovranno assumere le opportune misure per esaminare i progressi compiuti nell'ambito di tali accordi; 
+
+                            
+                        
+                        
+                            d-quater)
+                            
+                                nel caso di inosservanza degli accordi o di mancato raggiungimento degli obiettivi oggetto degli accordi, le autorita' competenti assumeranno tutte le misure per garantire l'osservanza delle misure previste dal presente decreto.
 
 ## Art. 13. — Sanzioni
 
@@ -189,6 +713,24 @@ La regione, entro i termini stabiliti dall'articolo ((208 del decreto legislativ
 Nel caso in cui, in sede di procedimento, emerge che non risultano rispettati i soli requisiti relativi alla localizzazione dell'impianto previsti dal presente decreto, la regione autorizza la prosecuzione dell'attivita', stabilendo le prescrizioni necessarie ad assicurare la tutela della salute e dell'ambiente, ovvero prescrive la rilocalizzazione dello stesso impianto in tempi definiti.
 
 ((La citta' metropolitana o la provincia)) competente per territorio, entro sei mesi dalla data di entrata in vigore del presente decreto, procede all'ispezione degli impianti in esercizio alla stessa data che effettuano l'attivita' di recupero di rifiuti derivanti da veicoli fuori uso di cui all'articolo 6, comma 5, al fine di verificare il rispetto delle norme tecniche e delle condizioni di esercizio previste dal presente decreto e, se necessario, stabilisce le modalita' ed i tempi per conformarsi a dette prescrizioni, consentendo, nelle more dell'adeguamento, la prosecuzione dell'attivita'. In caso di mancato adeguamento nei modi e nei termini stabiliti, l'attivita' e' interrotta.
+
+5.
+                    
+                        
+                            Fermo restando quanto previsto dall'articolo 5, commi 2 e 8, le disposizioni relative alla consegna gratuita del veicolo, di cui allo stesso articolo 5, commi 2, 3 e 4, si applicano: 
+ 
+                        
+                        
+                            a)
+                            
+                                a decorrere dalla data di entrata in vigore del presente decreto, per i veicoli immessi sul mercato a partire dal 1° luglio 2002; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                dal 1° gennaio 2007, per i veicoli immessi sul mercato anteriormente al 1° luglio 2002. Nelle more del conseguimento delle obbligazioni di cui all'articolo 5, i produttori sostengono, a titolo individuale, gli eventuali costi derivanti dal valore negativo dei veicoli immessi sul mercato a partire dal 1° luglio 2002.
 
 L'entita' della garanzia finanziaria prevista dall'articolo ((208 del decreto legislativo 3 aprile 2006, n. 152)) puo' essere ridotta se il centro di raccolta e l'impianto di trattamento sono registrati ai sensi del Regolamento (CE) n. ((1221/2009 (EMAS) o certificati UNI EN ISO 14001)).
 

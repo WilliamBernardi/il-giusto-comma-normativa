@@ -7,8 +7,8 @@ urn: urn:nir:ministero.universita.e.ricerca:decreto:2022-07-20;170
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:42Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -40,6 +40,52 @@ Udito il parere del Consiglio di Stato n. 200/2022, espresso dalla sezione consu
 
 ## Art. 1. — Definizioni
 
+1.
+                    
+                        
+                            Ai fini del presente regolamento, si intende: 
+ 
+                        
+                        
+                            a)
+                            
+                                per «Ministro» e «Ministero», rispettivamente, il Ministro dell'universita' e della ricerca, e il Ministero dell'universita' e della ricerca; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                per «Trattato», il Trattato sull'Antartide firmato a Washington il 1° dicembre 1959, ratificato e reso esecutivo ai sensi della legge 29 novembre 1980, n. 963; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                per «Sistema del Trattato sull'Antartide», il Trattato sull'Antartide, firmato a Washington il 1° dicembre 1959, ratificato e reso esecutivo ai sensi della legge 29 novembre 1980, n. 963; la Convenzione per la conservazione delle foche antartiche, con annesso, fatta a Londra il 1° giugno 1972, ratificata e resa esecutiva ai sensi della legge 23 aprile 1991, n. 149; la Convenzione sulla conservazione delle risorse marine viventi in Antartide, adottata a Canberra il 20 maggio 1980, ratificata e resa esecutiva ai sensi della legge 2 gennaio 1989, n. 17 e il Protocollo sulla protezione ambientale al trattato antartico, con annessi ed atto finale, fatto a Madrid il 4 ottobre 1991, ratificato e reso esecutivo ai sensi della legge 15 febbraio 1995, n. 54, nonche' i provvedimenti internazionali adottati in base a tali provvedimenti; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                per «PNRA», il Programma nazionale di ricerche in Antartide; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                per «CSNA», la Commissione scientifica nazionale per l'Antartide; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                per «AEA», le Azioni esecutive annuali del PNRA.
+
 ## Art. 2. — Programma nazionale di ricerche in Antartide
 
 Al fine di assicurare la partecipazione dell'Italia alle attivita' regolate dal Sistema del Trattato sull'Antartide e in particolare da quanto disposto dall'articolo IX, paragrafo 2, del Trattato, e la prosecuzione del PNRA, con decreto del Ministro, in coerenza anche con il Programma nazionale delle ricerche, e' approvato il PNRA elaborato dalla CSNA di cui all'articolo 5.
@@ -47,6 +93,31 @@ Al fine di assicurare la partecipazione dell'Italia alle attivita' regolate dal 
 Il PNRA individua gli obiettivi e gli indirizzi strategici nonche' le AEA, e propone e motiva il relativo fabbisogno di risorse finanziarie e umane per ciascun anno di riferimento. Il PNRA e' articolato su base triennale e puo' essere aggiornato annualmente con decreto del Ministro, su proposta della CSNA ai sensi dell'articolo 5, comma 8, lettera b).
 
 Le AEA, indicate in apposita sezione del PNRA, individuano e specificano le attivita' di ricerca scientifica e tecnologica da svolgere in Antartide e in Italia, i supporti tecnico-logistici disponibili e necessari per l'attuazione del PNRA, le risorse umane e finanziarie occorrenti, con la puntuale indicazione delle spese, dei tempi e dei modi attuativi indicati in appositi cronogrammi delle attivita'.
+
+4.
+                    
+                        
+                            Il Ministero finanzia le attivita' di ricerca scientifica e tecnologica di cui al comma 3 attraverso l'emanazione di bandi pubblici per progetti di ricerca rivolti alle universita' e agli enti di ricerca pubblici e privati nazionali. Fatti salvi ulteriori specifici criteri individuati dai singoli bandi, i progetti di ricerca di cui al presente comma sono valutati e selezionati sulla base dei seguenti criteri: 
+ 
+                        
+                        
+                            a)
+                            
+                                adeguatezza scientifica, culturale e tecnica del progetto di ricerca; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                risorse umane e strumentali impiegate per la realizzazione dei progetti di ricerca; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                coerenza del progetto di ricerca con gli obiettivi degli interventi e dei programmi.
 
 ## Art. 3.
 
@@ -68,6 +139,31 @@ Con il decreto di cui all'articolo 2, comma 1, sono definite le modalita' di ges
 
 Il Ministero puo' richiedere a ciascuno dei soggetti attuatori atti, informazioni e dati necessari ai fini della rendicontazione, del monitoraggio, del controllo e dell'utilizzo delle risorse erogate, fermo restando quanto previsto dall'articolo 7, comma 2, lettera d).
 
+6.
+                    
+                        
+                            Il Ministro: 
+ 
+                        
+                        
+                            a)
+                            
+                                vigila sull'attuazione del PNRA nel rispetto delle norme previste dal Trattato; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                determina, di concerto con il Ministro dell'economia e delle finanze e il Ministro degli affari esteri e della cooperazione internazionale, il trattamento di missione spettante al personale impegnato in Antartide; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                emana direttive e disposizioni per l'attuazione e il controllo del PNRA.
+
 ## Art. 5. — Commissione scientifica nazionale per l'Antartide
 
 Il Ministro, per la definizione e l'attuazione del PNRA, si avvale della Commissione scientifica nazionale per l'Antartide (CSNA).
@@ -84,6 +180,52 @@ Le regole di funzionamento della CSNA sono stabilite dalla CSNA medesima nel cor
 
 La competente Direzione generale del Ministero assicura il necessario supporto amministrativo ai lavori della CSNA. Nell'ambito della convenzione di cui all'articolo 6, comma 1, e' individuata la segreteria della CSNA, a supporto della quale i soggetti attuatori mettono a disposizione proprio personale con contratto a tempo indeterminato o con specifici contratti a tempo determinato, nel numero massimo di uno per ciascun soggetto attuatore. Le spese del personale addetto alla segreteria sono a carico di ciascun soggetto attuatore.
 
+8.
+                    
+                        
+                            Alla CSNA sono attribuiti i seguenti compiti: 
+ 
+                        
+                        
+                            a)
+                            
+                                elaborare e proporre al Ministro, d'intesa con i soggetti attuatori di cui all'articolo 6, il PNRA, comprensivo delle AEA; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                elaborare e proporre al Ministro eventuali aggiornamenti annuali del PNRA ai sensi dell'articolo 2, comma 2; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                assicurare, anche attraverso esperti esterni all'uopo individuati, la valutazione scientifica ex ante, in itinere ed ex post, dei progetti di ricerca sulla base della adeguatezza scientifica, culturale e tecnica e delle risorse umane, strumentali e finanziarie impiegate per la loro realizzazione; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                definire e proporre al Ministro idonee azioni di monitoraggio dello svolgimento delle AEA contenute nel PNRA; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                proporre al Ministro le nomine dei rappresentanti italiani componenti degli organismi scientifici internazionali riguardanti la ricerca in Antartide; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                elaborare la relazione annuale del Ministro, ai sensi dell'articolo 2, comma 1, lettera d), legge 9 maggio 1989, n. 168.
+
 Ai componenti della CSNA, ivi incluso il personale di segreteria di cui al comma 7, non spettano gettoni di presenza, indennita' o altri emolumenti comunque denominati. Agli eventuali oneri per rimborsi di spese di missione si provvede nell'ambito delle risorse di ciascuna amministrazione o ente designante disponibili a legislazione vigente. Gli eventuali rimborsi spese possono essere corrisposti nei limiti delle risorse a tal fine previste da ciascuna amministrazione interessata.
 
 ## Art. 6. — Soggetti attuatori
@@ -97,6 +239,52 @@ I soggetti attuatori possono avvalersi di altri enti e organismi pubblici e priv
 ## Art. 7. — Specifici compiti attribuiti a CNR, ENEA e OGS
 
 Con la convenzione di cui all'articolo 6 sono definiti i compiti specifici attribuiti al CNR, all'ENEA e all'OGS, i quali provvedono a eseguirli avvalendosi di proprie strutture dedicate.
+
+2.
+                    
+                        
+                            In particolare, il CNR ha il compito di: 
+ 
+                        
+                        
+                            a)
+                            
+                                assicurare il coordinamento scientifico delle attivita', delle strutture e delle unita' di ricerca; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                assicurare la raccolta dei risultati e dei dati scientifici, d'intesa con il Ministero e la CSNA; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                assicurare un costante raccordo con l'ENEA e l'OGS per gli aspetti tecnologici e tecnico-operativi; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                monitorare lo stato d'attuazione del PNRA e definire gli eventuali interventi correttivi riferendone annualmente al Ministero e alla CSNA; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                acquisire e organizzare, in un'apposita banca-dati pubblica accessibile gratuitamente e on-line, i risultati delle attivita' scientifiche derivanti dall'attuazione del PNRA, in conformita' alla disciplina relativa ai dati della ricerca ai sensi del decreto legislativo 24 gennaio 2006, n. 36; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                curare le attivita' di informazione e comunicazione istituzionale per la diffusione dei risultati conseguiti attraverso le attivita' svolte in attuazione del PNRA, avvalendosi dei principali strumenti e canali di comunicazione. Le attivita' di informazione e di comunicazione istituzionale sono, in particolare, finalizzate a: illustrare le attivita' di ricerca svolte nell'ambito del PNRA; promuovere conoscenze allargate e approfondite sui temi della ricerca in Antartide; favorire la conoscenza dell'impegno italiano e internazionale nella ricerca antartica; promuovere la disseminazione, divulgazione e formazione permanente, con particolare riferimento alle scuole e ai cittadini, sull'importanza degli ambienti antartici. Le spese derivanti dalle attivita' di cui alla presente lettera non sono poste a carico delle risorse finanziarie destinate all'attuazione del PNRA.
 
 L'attuazione delle campagne, le azioni tecniche e logistiche e la responsabilita' dell'organizzazione nelle zone operative sono poste in capo all'ENEA, che provvede alla programmazione operativa, alla costruzione e alla gestione degli interventi, all'approvvigionamento dei materiali e dei servizi, e alla manutenzione degli impianti e degli strumenti installati presso le stazioni antartiche.
 

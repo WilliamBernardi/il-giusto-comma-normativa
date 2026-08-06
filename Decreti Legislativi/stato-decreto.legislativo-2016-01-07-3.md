@@ -7,8 +7,8 @@ urn: urn:nir:stato:decreto.legislativo:2016-01-07;3
 vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:28Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -26,6 +26,26 @@ Sulla proposta del Presidente del Consiglio dei ministri e del Ministro delle po
 
 ## Art. 1. — Modificazioni al decreto legislativo 
  21 maggio 2004, n. 179
+
+1.
+                    
+                        
+                            Al decreto legislativo 21 maggio 2004, n. 179, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                all'articolo 3, comma 2, dopo la lettera g) e' aggiunta la seguente: 
+ «g-bis) il polline non e' considerato un ingrediente, ai sensi dell'articolo 2, paragrafo 2, lettera f), del regolamento (UE) n. 1169/2011 del Parlamento europeo e del Consiglio, dei prodotti di cui all'articolo 1 del presente decreto, essendo una componente naturale specifica del miele.»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                all'articolo 4, il comma 4 e' sostituito dal seguente: 
+ «4. Fermo restando quanto previsto dall'articolo 1, comma 2, lettera b), numero 6), e' vietato estrarre polline o qualsiasi altra componente specifica del miele, a meno che cio' sia inevitabile nell'estrazione di sostanze estranee inorganiche o organiche.».
 
 ## Art. 2. — Disposizioni transitorie
 

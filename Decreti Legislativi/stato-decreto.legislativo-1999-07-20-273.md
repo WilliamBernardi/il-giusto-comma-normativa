@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
 vigenza_date: 2008-12-31
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:23Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -40,11 +40,68 @@ Entro dieci giorni dalla data di entrata in vigore del presente decreto, il lega
 
 ## Art. 2. — S t a t u t o
 
+1.
+                    
+                        
+                            La fondazione e' dotata di uno statuto, che ne garantisce l'autonomia degli organi ed inoltre, in conformita' alle disposizioni del presente decreto:
+ 
+                        
+                        
+                            a)
+                            
+                                disciplina l'organizzazione in settori omogenei di attivita', in conformita' alle finalita' di cui all'articolo 3;
+
+                            
+                        
+                        
+                            b)
+                            
+                                definisce i criteri per la nomina, da parte del consiglio di amministrazione, dei curatori dei settori omogenei di cui alla lettera a), il cui rapporto di lavoro, nei casi in cui essi non siano dipendenti della fondazione, e' disciplinato con contratto di diritto privato avente durata non superiore a quella dell'organo che li ha nominati;
+
+                            
+                        
+                        
+                            c)
+                            
+                                prevede la destinazione totale degli utili e degli avanzi di gestione agli scopi istituzionali, con il divieto di distribuzione di utili od altre utilita' patrimoniali durante la vita della fondazione, nonche' i criteri di devoluzione del patrimonio ad enti che svolgono attivita' similari e a fini di pubblica utilita', in sede di liquidazione;
+
+                            
+                        
+                        
+                            d)
+                            
+                                prevede la ulteriore partecipazione di soggetti pubblici o privati;
+
+                            
+                        
+                        
+                            e)
+                            
+                                disciplina i compiti del direttore generale, scelto tra persone dotate di specifica e comprovata esperienza nei settori di attivita' della fondazione e nella gestione di enti consimili, ed il cui rapporto, di durata pari a quella del consiglio di amministrazione che lo ha designato, e' regolato da contratto di lavoro di diritto privato.
+
 Lo statuto e' adottato a maggioranza assoluta dei componenti del consiglio di amministrazione ed e' approvato, entro sessanta giorni dalla ricezione, con decreto del Ministro per i beni e le attivita' culturali, di concerto con il Ministro del tesoro, del bilancio e della programmazione economica.
 
 Ove lo statuto non venga adottato entro il termine di centocinquanta giorni dalla data di costituzione degli organi di cui al comma 2, il Ministro per i beni e le attivita' culturali, entro i quindici giorni successivi, nomina a tale scopo uno o piu' commissari, che provvedono entro sessanta giorni dalla nomina.
 
 ## Art. 3. — F i n a l i t a'
+
+1.
+                    
+                        
+                            La fondazione ha le seguenti finalita':
+ 
+                        
+                        
+                            a)
+                            
+                                lo svolgimento e la promozione di attivita' di ricerca, di documentazione e di esposizione settoriale e interdisciplinare, di rilievo nazionale e internazionale, con particolare riguardo ai settori dell'architettura, dell'urbanistica, delle arti decorative e visive del design, dell'artigianato, della produzione industriale, della moda, della comunicazione audiovisiva e di quelle espressioni artistiche e creative che a diverso titolo ad essi si riferiscono;
+
+                            
+                        
+                        
+                            b)
+                            
+                                l'organizzazione, con cadenza triennale, di esposizioni a carattere internazionale, con particolare riferimento ai settori di cui alla lettera a).
 
 La fondazione agevola la libera partecipazione di tutti gli interessati alla propria attivita' culturale, garantisce piena liberta' di idee e di forme espressive e favorisce, anche mediante convenzioni, la circolazione del proprio patrimonio culturale presso enti, istituzioni ed associazioni culturali, scuole ed universita'.
 
@@ -67,15 +124,104 @@ Lo statuto determina la composizione, le competenze e le modalita' di nomina del
 
 ## Art. 5. — Consiglio di amministrazione
 
+1.
+                    
+                        
+                            Il consiglio di amministrazione e' nominato con decreto del Ministro per i beni e le attivita' culturali nel rispetto dei principi del pluralismo culturale ed e' composto:
+ 
+                        
+                        
+                            a)
+                            
+                                da tre consiglieri, designati dal Ministro per i beni e le attivita' culturali;
+
+                            
+                        
+                        
+                            b)
+                            
+                                da tre consiglieri, designati dal comune di Milano, sulla base delle modalita' di cui all'articolo 36, comma 5, della legge 8 giugno 1990, n. 142;
+
+                            
+                        
+                        
+                            c)
+                            
+                                da un consigliere, in rappresentanza di partecipanti privati, qualora questi raggiungano, da soli o in forma aggregata, una partecipazione al patrimonio della fondazione non inferiore al 15 per cento. Lo statuto puo' prevedere un ulteriore componente del consiglio di amministrazione, qualora le sottoscrizioni dei partecipanti superino il 25 per cento del patrimonio.
+
 Nel caso in cui non vi sia partecipazione di soggetti privati o essa sia inferiore al 15 per cento del patrimonio, ed in prima applicazione del presente decreto fino a quando non si raggiunga la predetta percentuale, il componente di cui al comma 1, lettera c), e' designato dal Ministro per i beni e le attivita' culturali.
 
 I componenti del consiglio di amministrazione sono individuati tra personalita' di elevato profilo culturale, con particolare riguardo ai settori di attivita' della fondazione, e con comprovate capacita' organizzative.
+
+4.
+                    
+                        
+                            Il consiglio di amministrazione opera con la nomina della maggioranza dei suoi componenti ed in particolare:
+ 
+                        
+                        
+                            a)
+                            
+                                adotta lo statuto e le sue successive modificazioni;
+
+                            
+                        
+                        
+                            b)
+                            
+                                definisce gli indirizzi generali cui devono ispirarsi l'attivita' gestionale e l'organizzazione degli uffici;
+
+                            
+                        
+                        
+                            c)
+                            
+                                approva il bilancio di esercizio insieme ad una adeguata relazione tecnica;
+
+                            
+                        
+                        
+                            d)
+                            
+                                nomina il direttore generale ed i curatori dei settori di attivita' della fondazione, come definiti dallo statuto, determinandone il compenso, mediante deliberazione soggetta ad approvazione dell'autorita' vigilante, di concerto con il Ministro del tesoro, del bilancio e della programmazione economica;
+
+                            
+                        
+                        
+                            e)
+                            
+                                assegna gli stanziamenti per le attivita' istituzionali;
+
+                            
+                        
+                        
+                            f)
+                            
+                                determina con propria deliberazione, soggetta alla approvazione dell'autorita' vigilante, di concerto con il Ministro del tesoro, del bilancio e della programmazione economica, il compenso spettante al presidente, la misura dell'indennita' spettante per la partecipazione alle sedute dei rispettivi organi agli altri componenti del consiglio di amministrazione ed ai componenti del collegio dei revisori.
 
 Il presidente del consiglio di amministrazione e' eletto dal consiglio medesimo tra i propri componenti. Qualora il presidente non sia eletto tra i compenenti di cui al comma 1, lettera b), l'elezione ha efficacia acquisito il parere favorevole del comune di Milano, da esprimersi nelle forme di cui al comma 1, lettera b), entro trenta giorni dalla ricezione della comumicazione dell'avvenuta elezione. Il parere non espresso entro il termine indicato si intende favorevole.
 
 Il presidente del consiglio di amministrazione ha la legale rappresentanza della fondazione e ne promuove le attivita'; adotta, nei casi di necessita' e di urgenza, gli atti di competenza del consiglio di amministrazione e li sottopone alla ratifica di questo, non oltre trenta giorni dall'adozione e comunque nella prima seduta utile.
 
 ## Art. 6. — Comitato scientifico
+
+1.
+                    
+                        
+                            Il comitato scientifico e' composto da:
+ 
+                        
+                        
+                            a)
+                            
+                                il presidente dei consiglio di amministrazione, che lo presiede;
+
+                            
+                        
+                        
+                            b)
+                            
+                                i curatori dei settori di attivita' della fondazione, come definiti dallo statuto, anche mediante accorpamento di settori omogenei e comunque in numero non superiore a quattro.
 
 Il comitato scientifico delibera in ordine alle attivita' culturali ed artistiche della fondazione, definendone i programmi, all'organizzazione delle mostre o manifestazioni, alle attivita' stabili di studio, ricerca e sperimentazione. Esprime pareri sulle questioni sottopostegli dal consiglio di amministrazione.
 
@@ -90,6 +236,59 @@ Le deliberazioni del comitato scientifico sono sottoposte, per i profili finanzi
  5. Entro tre mesi dalla data di stipulazione del primo contratto collettivo di lavoro, il personale puo' optare per la permanenza alle dipendenze di pubbliche amministrazioni, ed e' pertanto collocato in mobilita'. Ad esso si applicano le norme del decreto legislativo 3 febbraio 1993, n. 29, e segnatamente dell'articolo 35, comma 8, e successive modificazioni.
 
 ## Art. 8. — Disponibilita' finanziarie e gestione
+
+1.
+                    
+                        
+                            La fondazione provvede ai suoi compiti con:
+ 
+                        
+                        
+                            a)
+                            
+                                i redditi del suo patrimonio, fermo quanto previsto dall'articolo 9, comma 2;
+
+                            
+                        
+                        
+                            b)
+                            
+                                i contributi ordinari dello Stato stanziati ogni anno negli stati di previsione della spesa del Ministero per i beni e le attivita' culturali;
+
+                            
+                        
+                        
+                            c)
+                            
+                                il contributo ordinario annuale del comune di Milano;
+
+                            
+                        
+                        
+                            d)
+                            
+                                eventuali contributi straordinari dello Stato e di altri enti pubblici;
+
+                            
+                        
+                        
+                            e)
+                            
+                                eventuali proventi di gestione;
+
+                            
+                        
+                        
+                            f)
+                            
+                                eventuali contributi ed assegnazioni, anche a titolo di sponsorizzazione, di altri soggetti o enti pubblici o privati, italiani e stranieri;
+
+                            
+                        
+                        
+                            g)
+                            
+                                eventuali altre entrate, derivanti dall'esercizio di attivita' commerciali.
 
 La gestione finanziaria e' soggetta al controllo della Corte dei conti, alle condizioni e con le modalita' di cui all'articolo 2 della legge 21 marzo 1958, n. 259.
 
@@ -107,6 +306,38 @@ La fondazione ha il diritto esclusivo all'utilizzo del suo nome, della denominaz
 
 ## Art. 10. — Vigilanza e amministrazione straordinaria
 
+1.
+                    
+                        
+                            Il Ministro per i beni e le attivita' culturali e' titolare del potere di vigilanza sulla gestione della fondazione. Puo' disporre lo scioglimento del consiglio di amministrazione quando:
+ 
+                        
+                        
+                            a)
+                            
+                                risultano gravi irregolarita' nell'amministrazione, ovvero gravi violazioni delle disposizioni legislative o statutarie che regolano l'attivita' della fondazione;
+
+                            
+                        
+                        
+                            b)
+                            
+                                il conto economico chiude con una pedita superiore al trenta per cento del patrimonio per due esercizi consecutivi, ovvero sono previste perdite del patrimonio di analoga entita';
+
+                            
+                        
+                        
+                            c)
+                            
+                                non viene ricostituito il patrimonio, ai sensi dell'articolo 9, comma 2;
+
+                            
+                        
+                        
+                            d)
+                            
+                                vi e' impossibilita' di funzionamento degli organi.
+
 Con il decreto di scioglimento viene nominato un commissario straordinario e ne vengono determinati la durata dell'incarico ed il compenso. Il commissario straordinario esercita tutti i poteri del presidente e del consiglio di amministrazione.
 
 Il commissario straordinario provvede alla gestione, ad accertare e rimuovere le irregolarita' ed a promuovere le soluzioni utili al perseguimento dei fini istituzionali; esercita l'azione di responsabilita' contro i componenti del disciolto consiglio di amministrazione, previa autorizzazione del l'Autorita' vigilante.
@@ -119,6 +350,24 @@ Qualora alla scadenza predetta il consiglio di amministrazione non sia operativo
 Fino alla nomina del nuovo collegio dei revisori, resta in carica il collegio nella composizione esistente alla data di entrata in vigore del presente decreto.
 
 I contratti d'opera professionale la cui esecuzione e' in corso alla data di entrata in vigore del presente decreto, non confermati dal consiglio di amministrazione entro due mesi dalla sua costituzione sono risolti di diritto a decorrere da quest'ultima data.
+
+4.
+                    
+                        
+                            Lo statuto puo' prevedere la partecipazione alla fondazione della regione Lombardia e della provincia di Milano, previa determinazione della misura dell'apporto finanziario di tali enti. In sede di prima applicazione, e limitatamente al primo mandato del consiglio di amministrazione:
+ 
+                        
+                        
+                            a)
+                            
+                                la regione Lombardia e la provincia di Milano possono rispettivamente designare un consigliere, qualora, entro sei mesi dall'entrata in vigore del presente decreto, deliberino di contribuire in via ordinaria all'attivita' della fondazione con un apporto finanziario che sia, per ciascuna di esse e per ciascun anno, non inferiore ad un quarto della somma dei contributi ordinari annualmente versati dal Ministero per i beni e le attivita' culturali e dal comune di Milano;
+
+                            
+                        
+                        
+                            b)
+                            
+                                i partecipanti privati possono designare un componente del consiglio di amministrazione, qualora conferiscano, anche in forma aggregata, un'apporto finanziario non inferiore a lire un miliardo per ciascun anno del mandato del consigliere. Con le medesime modalita', e' possibile designare un secondo componente del consiglio di amministrazione, qualora l'apporto finanziario superi lire due miliardi.
 
 Per quanto non espressamente previsto dal presente decreto, la fondazione e' disciplinata dal codice civile e dalle disposizioni di attuazione dei medesimo.
 

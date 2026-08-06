@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: DPR
 vigenza_date: 2001-05-09
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:47:42Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -72,6 +72,37 @@ Ai dipendenti di nuova assunzione o trasferiti in rapporto alle esigenze di stru
 ## Art. 5. — Contrattazione decentrata
 
 Nell'ambito di cui all'art. 14 della legge 29 marzo 1983 n. 93, della disciplina del decreto del Presidente della Repubblica 1 febbraio 1986, n. 13, e di quella del presente decreto, sono consentiti accordi decentrati a livello nazionale e per aree territorialmente delimitate comprendenti almeno una unita' organica complessa.
+
+2.
+                    
+                        
+                            La contrattazione decentrata a livello nazionale e' effettuata per ente, gruppi di enti o per enti federati quali l'Automobile club d'Italia, gli automobile clubs provinciali, ordini, collegi professionali e relative federazioni. Essa e' volta alla definizione di accordi sulle specifiche materie di cui alla successiva lettera a) ed alla determinazione di criteri generali di riferimento per la contrattazione a livello locale nelle materie individuate alla lettera b).
+ 
+                        
+                        
+                            a)
+                            
+                                Per l'attuazione delle modifiche delle strutture e dei servizi conseguenti alla sperimentazione od introduzione di nuove metodologie di organizzazione del lavoro e di nuovi criteri organizzativi per migliorare l'efficienza degli enti anche allo scopo di garantire la fruibilita' dei servizi da parte dell'utenza, la contrattazione ha per oggetto:
+ criteri in materia di rilevazione e classificazione delle posizioni di lavoro ai fini della loro collocazione nell'ambito dei profili professionali delle varie qualifiche previsti dal decreto del Presidente della Repubblica 9 luglio 1986, n. 935, nonche' in materia di aggregazioni tra piu' profili professionali di una stessa qualifica con requisiti equipollenti;
+ proposte di istituzione di nuovi profili professionali o di aggregazione di profili appartenenti a qualifiche diverse, da definire a livello di comparto con le procedure previste, previa identificazione a tale livello di contrattazione della qualifica funzionale nella quale va collocato il profilo;
+ progetti generali per la formazione e l'aggiornamento professionale e per l'addestramento del personale;
+ criteri per la istituzione di rapporti di lavoro a tempo parziale ed a tempo determinato;
+ definizione delle modalita' di attuazione dei controlli previsti all'art. 9 della legge 20 maggio 1970, n. 300;
+ criteri per l'utilizzazione del Fondo di incentivazione e per l'erogazione dei relativi compensi nel rispetto delle disposizioni del presente decreto;
+ indirizzi sul piano dell'efficienza organizzativa per la realizzazione di progetti di lavoro appositamente predisposti e per la verifica dei risultati;
+ individuazione delle attivita' soggette a turnazioni nell'ambito di quanto previsto dal successivo art. 8;
+ definizione dei criteri per la formazione di graduatorie degli aspiranti al trasferimento a domanda da una sede ad altra dello stesso ente o da uno ad altro ente dello stesso comparto;
+ criteri per i trasferimenti di ufficio per esigenze di servizio individuate dall'amministrazione;
+ iniziative per l'attuazione degli accordi di cui all'art. 6, comma 5, del decreto del Presidente della Repubblica 1 febbraio 1986, n. 13, in materia di mobilita' del personale;
+ criteri per l'attribuzione delle indennita' esistenti.
+
+                            
+                        
+                        
+                            b)
+                            
+                                Criteri generali relativi ai seguenti aspetti dell'organizzazione del lavoro: orario di servizio e orario di lavoro; disciplina dei carichi di lavoro a livello di strutture; definizione degli indicatori, dei parametri e degli standards di produttivita' a norma dell'art. 11, secondo comma, del presente decreto, tenuto conto delle indicazioni contenute nella relazione annuale al Parlamento sullo stato della pubblica amministrazione e definizione delle modalita' per i relativi riscontri; acquisizione dei dati riguardanti la situazione del personale occupato e di quello occorrente in relazione ai programmi di efficienza-efficacia e a fenomeni di turnover; individuazione delle attivita' di lavoro interessate all'effettuazione di prestazioni di lavoro straordinario e relative quantita' e delle modalita' generali di attuazione della disciplina in materia di turnazioni di lavoro;
+ criteri per la realizzazione dei servizi sociali di cui all'art. 11 del decreto del Presidente della Repubblica 16 ottobre 1979, n. 509.
 
 La contrattazione a livello locale ha per oggetto, nell'ambito dei criteri fissati dalla contrattazione a livello nazionale, i seguenti aspetti dell'organizzazione del lavoro:
  definizione dei regimi di orario di lavoro (flessibilita', articolazione, turnazioni), determinazione dei settori che richiedono prestazioni di lavoro straordinario e delle relative quantita', nonche' prestazioni in turni nell'ambito delle disposizioni del presente decreto;
@@ -369,6 +400,31 @@ Ai sensi del comma 3 dell'art. 10 del decreto del Presidente della Repubblica 1 
 ## Art. 20. — Passaggi di qualifica
 
 A decorrere dal 1 gennaio 1987, in caso di passaggio di qualifica, e' attribuito il livello retributivo della qualifica conseguita, con riconoscimento del trattamento economico acquisito a titolo di valutazione economica dell'anzianita'.
+
+2.
+                    
+                        
+                            Rimane ferma l'applicazione delle norme sui passaggi di qualifica previste dal decreto del Presidente della Repubblica 25 giugno 1983, n. 346, e sulla base dei trattamenti di cui allo stesso decreto nei seguenti casi:
+ 
+                        
+                        
+                            a)
+                            
+                                passaggi di qualifica conseguenti all'inquadramento funzionale in attuazione dell'art. 4 del decreto del Presidente della Repubblica 9 luglio 1986, n. 935;
+
+                            
+                        
+                        
+                            b)
+                            
+                                passaggi di qualifica conseguenti all'applicazione degli articoli 8, 16 e 24 del decreto del Presidente della Repubblica 25 giugno 1983, n. 346, nonche' i passaggi di qualifica di cui agli articoli 5 e 53 del decreto del Presidente della Repubblica 16 ottobre 1979, n. 509;
+
+                            
+                        
+                        
+                            c)
+                            
+                                passaggi di qualifica conseguenti all'applicazione degli articoli 21 e 22 del presente decreto.
 
 ## Art. 21. — Personale appartenente all'ex categoria direttiva
 

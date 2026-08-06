@@ -8,8 +8,8 @@ vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
 vigenza_date: 2026-06-28
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:34Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -36,12 +36,70 @@ Sono fatte salve le disposizioni tributarie in materia di accisa sull'energia el
 ## Art. 2. — Modifiche e integrazioni all'articolo 2 
  del decreto legislativo 16 marzo 1999, n. 79
 
+1.
+                    
+                        
+                            All'articolo 2 del decreto legislativo 16 marzo 1999, n. 79, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                il comma 16 e' sostituito dal seguente: «16. Linea diretta e' una linea elettrica che collega un sito di generazione isolato con un cliente isolato ovvero una linea elettrica che un produttore e un'impresa fornitrice di energia elettrica utilizzano per approvvigionare direttamente i propri siti, le societa' controllate ed i propri clienti.»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                dopo il comma 22 e' aggiunto il seguente: «22-bis. Il servizio ancillare non relativo alla frequenza e' un servizio utilizzato da un Gestore del sistema di trasmissione o un da Gestore del sistema di distribuzione per la regolazione della tensione, per le immissioni e i prelievi di potenza reattiva, per il mantenimento dell'inerzia, per la stabilita' della rete e la potenza di corto circuito, per la capacita' di black start e per la capacita' di funzionamento in isola.»; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                il comma 25-terdecies e' sostituito dal seguente:
+«25-terdecies. Si definisce impresa elettrica ogni persona fisica o giuridica, esclusi i clienti finali, che svolge almeno una delle funzioni seguenti: generazione, trasmissione, distribuzione, aggregazione, gestione della domanda, stoccaggio, fornitura o acquisto di energia elettrica, che e' responsabile per i compiti commerciali, tecnici o di manutenzione legati a queste funzioni.».
+
 ## Art. 3. — Definizioni
 
 Agli effetti del presente decreto si applicano le definizioni di cui ai commi 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, ((14, 15, 15-bis, 15-ter, 15-quater, 15-quinquies)).
 
 Il cliente attivo e' un cliente finale ovvero un gruppo di clienti finali ubicati in un edificio o condominio che agiscono collettivamente, che, all'interno dei propri locali, svolgono almeno una delle seguenti funzioni: produzione di energia elettrica per il proprio consumo, accumulo o vendita di energia elettrica autoprodotta, partecipazione a meccanismi di efficienza energetica o di flessibilita', eventualmente per mezzo di un soggetto aggregatore.
 Tali attivita' non possono in ogni caso costituire l'attivita' commerciale o professionale principale di tali clienti. ((13))
+
+3.
+                    
+                        
+                            La comunita' energetica dei cittadini e' un soggetto di diritto, con o senza personalita' giuridica: 
+ 
+                        
+                        
+                            a)
+                            
+                                fondato sulla partecipazione volontaria e aperta; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                controllato da membri o soci che siano persone fisiche, piccole imprese, autorita' locali, ivi incluse le amministrazioni comunali, gli enti di ricerca e formazione, gli enti del terzo settore e di protezione ambientale, gli enti religiosi, nonche' le amministrazioni locali contenute nell'elenco delle amministrazioni pubbliche divulgato dall'Istituto Nazionale di Statistica secondo quanto previsto all'articolo 1, comma 3, della legge 31 dicembre 2009, n. 196; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                che ha lo scopo principale di offrire ai suoi membri o soci o al territorio in cui opera benefici ambientali, economici o sociali a livello di comunita' anziche' perseguire profitti finanziari; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                che puo' partecipare alla generazione, alla distribuzione, alla fornitura, al consumo, all'aggregazione, allo stoccaggio dell'energia, ai servizi di efficienza energetica, o a servizi di ricarica per veicoli elettrici o fornire altri servizi energetici ai suoi membri o soci.
 
 Per centro di coordinamento regionale si intende ciascun centro di coordinamento regionale istituito ai sensi dell'articolo 35 del regolamento UE 943/2019 del 5 giugno 2019.
 
@@ -73,6 +131,27 @@ La rete pubblica con obbligo di connessione di terzi e' una rete pubblica il cui
 
 ((L'accordo di connessione flessibile e' l'insieme di condizioni concordate per la connessione della capacita' elettrica alla rete che comprende condizioni per limitare e controllare l'immissione di energia elettrica nella rete di trasmissione o nella rete di distribuzione e il prelievo di energia elettrica da tali reti.))
 
+15-quinquies.
+                    
+                        
+                            
+                                ((La condivisione dell'energia e' l'autoconsumo, da parte dei clienti attivi, di energia rinnovabile:))
+                            
+                        
+                        
+                            a)
+                            
+                                
+                                    ((generata o stoccata extra loco o in siti condivisi da un impianto che possiedono, noleggiano, locano in tutto o in parte; oppure))
+                                
+                            
+                        
+                        
+                            b)
+                            
+                                
+                                    ((il cui diritto e' stato trasferito da un altro cliente attivo a pagamento o a titolo gratuito.))
+
 -----------
                         AGGIORNAMENTO (13)
                         
@@ -90,11 +169,124 @@ I clienti finali, ferme e impregiudicate le norme di diritto nazionale e di diri
 
 ((Fermo restando quanto previsto all'articolo 1, commi 62 e 63, della legge 4 agosto 2017, n. 124, tutti i clienti finali hanno diritto a concludere, su richiesta, un contratto di fornitura di energia elettrica a tempo determinato e a prezzo fisso della durata di almeno un anno con almeno un fornitore e con qualsiasi fornitore che abbia piu' di 200.000 clienti finali.))
 
+3.
+                    
+                        
+                            I clienti finali hanno il diritto a che i contratti di fornitura di energia elettrica da loro conclusi indichino, in maniera chiara e agevolmente comprensibile: 
+ 
+                        
+                        
+                            a)
+                            
+                                
+                                    ((l'identita', l'indirizzo di posta elettronica e l'indirizzo del fornitore nonche' i contatti dell'assistenza ai consumatori;))
+                                
+                            
+                        
+                        
+                            b)
+                            
+                                i servizi forniti, i livelli di qualita' dei servizi e la data dell'allacciamento iniziale; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                i servizi di manutenzione ricompresi nel contratto; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                i mezzi disponibili al fine di ottenere informazioni aggiornate sulle tariffe vigenti, sugli addebiti per i servizi accessori di manutenzione e sui servizi a pacchetto; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                la durata-base del contratto, le condizioni di rinnovo e di cessazione degli effetti del contratto e dei singoli servizi da questo previsti, ivi compresi i prodotti o i servizi a pacchetto, nonche' l'eventuale facolta', per il cliente, di risolvere in anticipo il contratto senza oneri; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                l'indennizzo e le modalita' di rimborso previsti nel caso in cui i livelli di qualita' previsti dal contratto non siano raggiunti, ivi compresi i casi di fatturazione imprecisa o tardiva; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                le forme di risoluzione stragiudiziale delle controversie e le relative modalita' procedimentali; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                le informazioni sui diritti spettanti al cliente, ivi incluse le informazioni sulla gestione dei reclami e su tutti gli altri aspetti di cui al presente comma, le quali devono essere chiaramente indicate anche sulla fattura e sul sito web del fornitore. 
+
+                            
+                        
+                        
+                            h-bis)
+                            
+                                
+                                    ((se il prezzo e' fisso, variabile o dinamico;))
+                                
+                            
+                        
+                        
+                            h-ter)
+                            
+                                
+                                    ((il prezzo totale e, per i contratti a prezzo fisso a tempo determinato nonche' per quelli a prezzo dinamico, le singole componenti del prezzo;))
+                                
+                            
+                        
+                        
+                            h-quater)
+                            
+                                
+                                    ((informazioni riguardanti i pagamenti una tantum, le promozioni, i servizi aggiuntivi e gli sconti, se previsti dall'offerta, ivi compresi, nell'offerta relativa a contratti a tempo determinato e a prezzo fisso, le opportunita', i costi e i rischi derivanti dalla stipula di contratti di questo tipo, nonche' la eventuale necessita' di installare un contatore di energia elettrica adeguato)); 
+
+                            
+                        
+                        
+                            h-quinquies)
+                            
+                                
+                                    ((la possibilita' per il cliente finale di avvalersi di una delle associazioni dei consumatori di cui all'elenco dell'articolo 137 del decreto legislativo n. 206 del 2005 che, per finalita' statutarie, operano nella tutela dei consumatori, per la gestione del proprio reclamo ovvero per l'assistenza nelle procedure per la gestione extragiudiziale delle controversie con il fornitore attraverso la conciliazione paritetica ovvero il servizio di conciliazione ARERA e le altre forme di assistenza gratuita previste)).
+
 Il cliente finale ha diritto a ricevere, prima della conclusione ((o della proroga)) del contratto, un documento informativo recante una sintesi, scritta in un linguaggio semplice e conciso, dei diritti di cui al comma 3 e delle ulteriori condizioni contrattuali. Le eventuali condizioni che importano limitazioni dei diritti del cliente finale, fatta eccezione per i diritti di cui al comma 3, sono debitamente evidenziate all'interno del documento informativo. La violazione del presente comma, ad opera del fornitore, e' causa di nullita' del contratto di fornitura. La nullita' opera soltanto in favore del cliente finale e puo' essere rilevata anche d'ufficio dal giudice.
 
 I clienti finali hanno il diritto di ricevere dal fornitore una comunicazione chiara, comprensibile e tempestiva dell'intenzione di modificare le condizioni contrattuali e della loro facolta' di recedere dal contratto. In caso di adeguamento del prezzo di fornitura, i clienti finali devono essere altresi' informati, in via diretta, dei motivi e prerequisiti dell'adeguamento e della sua entita', con un preavviso di almeno due settimane ovvero di almeno un mese, qualora si tratti di clienti civili, rispetto alla data di applicazione del medesimo adeguamento. Sono escluse dall'obbligo di comunicazione di cui al presente comma, le variazioni dei corrispettivi che derivano da indicizzazione o adeguamento automatico degli stessi non determinati dal fornitore.
 
 Nelle ipotesi indicate dal comma 5, il cliente finale puo' recedere dal contratto, con dichiarazione inviata al fornitore, mediante lettera raccomandata con ricevuta di ritorno ovvero mediante posta elettronica, anche ordinaria, entro il termine indicato dal fornitore, comunque non inferiore a dieci giorni lavorativi, decorrente dal ricevimento della comunicazione prevista dal presente comma. La comunicazione indica gli indirizzi, ivi compreso almeno un indirizzo di posta elettronica ordinaria, ai quali la dichiarazione di recesso puo' essere trasmessa.
+
+7.
+                    
+                        
+                            I fornitori trasmettono ai clienti finali informazioni chiare e trasparenti sui prezzi e sulle tariffe praticati, nonche' sulle condizioni contrattuali generalmente praticate. ((I clienti finali controparti di contratti di fornitura di energia elettrica a tempo determinato e a prezzo fisso hanno diritto:))
+                            
+                        
+                        
+                            a)
+                            
+                                
+                                    ((su richiesta, di partecipare alla gestione della domanda e alla condivisione dell'energia nonche' di prendere parte a meccanismi di flessibilita' del sistema elettrico nazionale;))
+                                
+                            
+                        
+                        
+                            b)
+                            
+                                
+                                    ((a che i fornitori non modifichino unilateralmente in maniera sfavorevole per i clienti le condizioni contrattuali economiche e di durata ne' risolvano i contratti prima della scadenza.))
 
 I fornitori offrono ai clienti finali diversi metodi di pagamento. Il metodo di pagamento prescelto dal cliente finale non puo' in ogni caso determinare indebite discriminazioni. Le eventuali differenze negli oneri relativi ai diversi metodi di pagamento e ai differenti sistemi di prepagamento devono essere oggettive, non discriminatorie e proporzionate e, in ogni caso, non possono superare i costi diretti a carico del beneficiario legati all'uso di un determinato metodo di pagamento o di un determinato sistema di prepagamento. L'accesso a sistemi di prepagamento non puo' determinare condizioni svantaggiose.
 
@@ -116,6 +308,43 @@ L'Autorita' di regolazione per l'energia, le reti e l'ambiente (di seguito: ARER
 Il comma 3 dell'articolo 35 del decreto legislativo 1° giugno 2011, n. 93, e' abrogato.
 
 ## Art. 5-bis. — (( (Fornitura di ultima istanza). ))
+
+1.
+                    
+                        
+                            
+                                ((L'ARERA assicura che la regolazione dei servizi di ultima istanza prevede che:))
+                            
+                        
+                        
+                            a)
+                            
+                                
+                                    ((i fornitori sono individuati mediante una procedura equa, trasparente e non discriminatoria;))
+                                
+                            
+                        
+                        
+                            b)
+                            
+                                
+                                    ((i fornitori comunicano ai clienti, a mezzo posta elettronica certificata o, in mancanza, a mezzo raccomandata con avviso di ricevimento, i termini e le condizioni del servizio di ultima istanza e garantiscono loro la continuita' del servizio medesimo per il periodo necessario alla scelta di un nuovo fornitore e per almeno sei mesi;))
+                                
+                            
+                        
+                        
+                            c)
+                            
+                                
+                                    ((i fornitori riconoscono ai clienti da essi serviti i diritti propri del cliente finale;))
+                                
+                            
+                        
+                        
+                            d)
+                            
+                                
+                                    ((i servizi medesimi favoriscono il passaggio a un'offerta basata sul mercato.))
 
 ## Art. 6. — Bollette e informazioni di fatturazione
 
@@ -161,6 +390,66 @@ L'ARERA, entro dodici mesi dall'entrata in vigore del presente decreto, adotta u
 
 ## Art. 9. — Sistemi di misurazione intelligenti e diritto al contatore intelligente
 
+1.
+                    
+                        
+                            L'ARERA fissa i requisiti funzionali e tecnici minimi dei sistemi di misurazione intelligenti, assicurandone la piena interoperabilita', in particolare con i sistemi di gestione dell'energia dei clienti finali e con le reti intelligenti, nonche' la capacita' di fornire informazioni per i sistemi di gestione energetica dei clienti finali. Tali requisiti si conformano alle pertinenti norme tecniche europee, anche in tema di interoperabilita', e alle migliori prassi e, comunque, rispettano le seguenti condizioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                il consumo effettivo di energia elettrica deve essere accuratamente misurato e devono essere fornite ai clienti informazioni sul tempo effettivo d'uso assicurando la coerenza delle modalita' di rilevazione tra le due grandezze dell'energia elettrica immessa in rete e prelevata dalla rete e prevedendo la medesima granularita' e frequenza. I dati rilevati sull'energia elettrica immessa in rete sono registrati e conservati con gli stessi criteri e per il medesimo arco temporale previsti per i dati relativi all'energia elettrica prelevata. I dati sui consumi storici convalidati devono essere resi accessibili e visualizzabili ai clienti finali, in modo facile e sicuro, su loro richiesta e senza costi aggiuntivi. I dati sui consumi in tempo quasi reale non convalidati sono resi accessibili ai clienti finali in modo facile e sicuro e senza costi aggiuntivi, attraverso un'interfaccia standardizzata o mediante accesso a distanza, a sostegno dei programmi di efficienza energetica automatizzata, della gestione della domanda e di altri servizi; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                la sicurezza dei sistemi di misurazione e della comunicazione dei dati deve essere conforme alla pertinente normativa europea, tenendo conto delle migliori tecniche disponibili di cyber-sicurezza ((, d'intesa con l'Agenzia per la cybersicurezza nazionale per gli aspetti di competenza,)) e dei costi, alla luce del principio di proporzionalita'; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                la riservatezza dei clienti finali e la protezione dei loro dati devono risultare conformi alla normativa nazionale ed europea sulla protezione e il trattamento dei dati personali; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                l'accesso ai dati di misurazione e di consumo dei clienti finali da parte dei soggetti ammessi e per le finalita' consentite dalla legge e dai provvedimenti dell'ARERA avviene in maniera non discriminatoria; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                gli operatori assicurano che i contatori dei clienti attivi che immettono energia elettrica nella rete siano in grado di registrare l'energia immessa nella rete; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                se il cliente finale lo richiede, i dati sull'energia elettrica immessa nella rete e sul consumo sono messi a disposizione, in conformita' agli atti di esecuzione emessi dalla Commissione europea ai sensi dell'articolo 24 della direttiva 2019/944/Ue, attraverso un'interfaccia di comunicazione standardizzata ovvero mediante l'accesso a distanza, oppure sono comunicati a un soggetto terzo che rappresenta il cliente. I dati sono messi a disposizione in un formato facilmente comprensibile, cosi' da consentire il raffronto tra offerte comparabili. Il cliente finale ha diritto alla portabilita' dei suoi dati personali, estraendoli dal contatore e trasmettendoli a terzi senza costi aggiuntivi; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                l'operatore, prima ovvero, al piu' tardi, al momento dell'installazione del contatore intelligente, fornisce al cliente una consulenza e informazioni adeguate, con particolare riferimento al pieno potenziale del dispositivo in termini di gestione della lettura e di monitoraggio del consumo di energia elettrica e al trattamento dei suoi dati personali; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                la misurazione e il pagamento debbono essere assicurati ai clienti finali con la stessa risoluzione temporale utilizzata per il periodo di regolazione degli sbilanciamenti nel mercato interno.
+
 L'ARERA fissa altresi' le modalita' di contribuzione dei clienti finali ai costi connessi all'introduzione di sistemi di misurazione intelligenti conformi ai requisiti indicati al comma 1, in modo trasparente e non discriminatorio, nonche' tenendo conto dei benefici a lungo termine per l'intera filiera. La medesima Autorita' verifica con cadenza regolare gli eventuali benefici conseguiti dai clienti finali a seguito dell'introduzione dei descritti sistemi di misurazione intelligenti.
 
 Le disposizioni, le norme tecniche e i requisiti di cui ai due commi precedenti si applicano unicamente agli impianti futuri e a quelli che sostituiscono gli impianti esistenti. I sistemi di misurazione intelligenti gia' installati o i cui lavori siano stati avviati prima del 4 luglio 2019 restano in funzione per l'intera durata del loro ciclo di vita, salvo che non soddisfino i requisiti e le norme tecniche di cui al comma 1 del presente articolo. In tal caso, restano operativi entro e non oltre la data del 5 luglio 2031.
@@ -175,11 +464,181 @@ I clienti che ancora non dispongano di contatori intelligenti hanno comunque dir
 
 ## Art. 10. — Strumenti di confronto delle offerte
 
+1.
+                    
+                        
+                            Al fine di assicurare la confrontabilita' e la trasparenza delle diverse offerte presenti sul mercato interno dell'energia elettrica, l'ARERA, entro tre mesi dalla data di entrata in vigore del presente decreto, assicura che il portale informatico per la raccolta e la pubblicazione delle offerte nel mercato di vendita al dettaglio di energia elettrica e gas di cui all'articolo 1, comma 61, della legge 4 agosto 2017, n. 124, sia conforme almeno ai seguenti requisiti: 
+ 
+                        
+                        
+                            a)
+                            
+                                indipendenza dai partecipanti al mercato e parita' di trattamento tra le imprese elettriche nei risultati di ricerca; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                indicazione chiara del gestore del portale informatico e delle sue modalita' di finanziamento; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                definizione di criteri chiari e oggettivi sui quali basare il confronto tra le diverse offerte, compresi i servizi; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                utilizzo di un linguaggio semplice e privo di ambiguita'; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                correttezza e tempestivo aggiornamento delle informazioni pubblicate, con indicazione della data dell'ultimo aggiornamento; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                piena accessibilita' per le persone con disabilita'; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                conoscibilita' ed efficacia delle procedure di segnalazione degli eventuali errori nelle informazioni pubblicate; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                possibilita' di immettere dati e di eseguire confronti tra diverse offerte, limitando i dati richiesti al cliente a quanto strettamente necessario ai fini del confronto.
+
 ## Art. 11.
 
 Clienti vulnerabili e in condizioni di poverta' energetica
 
+1.
+                    
+                        
+                            Sono clienti vulnerabili i clienti civili: 
+ 
+                        
+                        
+                            a)
+                            
+                                che si trovano in condizioni economicamente svantaggiate o che versano in gravi condizioni di salute, tali da richiedere l'utilizzo di apparecchiature medico-terapeutiche alimentate dall'energia elettrica, necessarie per il loro mantenimento in vita, ai sensi dell'articolo 1, comma 75, della legge 4 agosto 2017, n. 124; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                presso i quali sono presenti persone che versano in gravi condizioni di salute, tali da richiedere l'utilizzo di apparecchiature medico-terapeutiche alimentate dall'energia elettrica, necessarie per il loro mantenimento in vita; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                che rientrano tra i soggetti con disabilita' ai sensi dell'articolo 3 della legge 5 febbraio 1992, n. 104; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                le cui utenze sono ubicate nelle isole minori non interconnesse; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                le cui utenze sono ubicate in strutture abitative di emergenza a seguito di eventi calamitosi; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                di eta' superiore ai 75 anni.
+
 A decorrere dalla data di cessazione del servizio di maggior tutela di cui all'articolo 1, comma 60, della legge 4 agosto 2017, n. 124, i clienti vulnerabili di cui al comma 1 hanno diritto a essere riforniti di energia elettrica, nell'ambito del servizio di vulnerabilita' di cui al presente comma, secondo le condizioni disciplinate dall'Autorita' di regolazione per energia, reti e ambiente (ARERA) e a un prezzo che riflette il costo dell'energia elettrica nel mercato all'ingrosso e costi efficienti delle attivita' di commercializzazione del servizio medesimo, determinati sulla base di criteri di mercato. La societa' Acquirente unico S.p.a. svolge, secondo condizioni e modalita' stabilite dall'ARERA, la funzione di approvvigionamento centralizzato dell'energia elettrica all'ingrosso per la successiva cessione agli esercenti il servizio di vulnerabilita', utilizzando gli strumenti disponibili sui mercati regolamentati dell'energia elettrica ovvero mediante la stipulazione di contratti bilaterali a termine con operatori del mercato all'ingrosso selezionati all'esito di procedure competitive gestite dalla societa' medesima. Il servizio di vulnerabilita' e' esercito da fornitori iscritti nell'elenco dei soggetti abilitati alla vendita di energia elettrica al dettaglio di cui al decreto del Ministro della transizione ecologica 25 agosto 2022, n. 164, e individuati mediante procedure competitive svolte dalla societa' Acquirente unico Spa ai sensi del comma 2-bis, lettera b), del presente articolo.
+
+2-bis.
+                    
+                        
+                            Per le finalita' di cui al comma 2, l'ARERA disciplina il servizio di vulnerabilita', prevedendo, in particolare: 
+ 0a) la decorrenza del servizio da una data non anteriore alla conclusione del servizio a tutele graduali di cui all'articolo 1, comma 60, della legge 4 agosto 2017, n. 124; 
+ 
+                        
+                        
+                            a)
+                            
+                                la limitazione del servizio alla sola fornitura di energia elettrica; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                l'assegnazione del servizio, per una durata non superiore a quattro anni, mediante procedure competitive relative ad aree territoriali omogenee nel rispetto dei principi di trasparenza, pubblicita', massima partecipazione e non discriminazione; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                l'entita' del corrispettivo massimo di assegnazione del servizio, tenuto conto di quanto previsto dalla lettera e-bis); 
+
+                            
+                        
+                        
+                            d)
+                            
+                                l'obbligo per ciascun fornitore di svolgere l'attivita' relativa al servizio di vulnerabilita' in maniera separata rispetto a ogni altra attivita'; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                il divieto per il fornitore di utilizzare: 
+ 1) il canale di commercializzazione del servizio di vulnerabilita' per promuovere offerte sul mercato; 
+ 2) i dati e le informazioni acquisite nello svolgimento del servizio di vulnerabilita' per attivita' diverse da quella di commercializzazione del servizio stesso; 
+ 3) per l'esercizio del servizio di vulnerabilita', lo stesso marchio con cui svolge attivita' al di fuori del servizio medesimo. 
+
+                            
+                        
+                        
+                            e-bis)
+                            
+                                che, al momento della presentazione dell'istanza di partecipazione alla procedura competitiva, i soggetti interessati possano manifestare la volonta' di avvalersi dell'azienda o del ramo d'azienda degli esercenti il servizio di cui all'articolo 1, comma 2, del decreto-legge 18 giugno 2007, n. 73, convertito, con modificazioni, dalla legge 3 agosto 2007, n. 125, ovvero di subentrare nei rapporti giuridici dei quali gli stessi sono titolari al momento della cessazione del servizio medesimo, correlati allo stesso servizio, sulla base delle informazioni relative all'azienda, al ramo di azienda e ai relativi rapporti giuridici messe a disposizione dei soggetti interessati medesimi, con congruo anticipo rispetto allo svolgimento delle procedure di cui alla lettera b) del presente comma, secondo modalita', anche in relazione alla rappresentazione di dette informazioni, stabilite dall'ARERA in coerenza con quanto previsto dall'articolo 14, comma 4-bis, del decreto-legge 9 dicembre 2023, n. 181; 
+
+                            
+                        
+                        
+                            e-ter)
+                            
+                                che ai fini dell'individuazione dell'offerta economicamente piu' vantaggiosa, per ciascuna area, sulla base di criteri determinati dall'ARERA, si tenga conto della manifestazione di volonta' di cui alla lettera e-bis) del presente comma e del conseguente minor reintegro dei costi da riconoscere agli esercenti il servizio di cui all'articolo 1, comma 2, del decreto-legge 18 giugno 2007, n. 73, convertito, con modificazioni, dalla legge 3 agosto 2007, n. 125; 
+
+                            
+                        
+                        
+                            e-quater)
+                            
+                                che i soggetti che esprimono la manifestazione di volonta' prevista dalla lettera e-bis) siano tenuti a presentare offerte per un insieme minimo di aree non inferiore a quello stabilito dall'ARERA in coerenza con l'oggetto della manifestazione stessa.
 
 In caso di mancata aggiudicazione del servizio di vulnerabilita' all'esito delle procedure competitive disciplinate ai sensi del comma 2-bis, la societa' Acquirente unico Spa provvede a indire una nuova procedura entro sei mesi dalla conclusione della precedente.
 
@@ -201,6 +660,31 @@ Il Ministro della transizione ecologica, sulla base del riesame della Commission
 
 Con decreto del Ministro della transizione ecologica, da adottare entro novanta giorni dalla data di entrata in vigore del presente decreto, e' istituito, senza nuovi o maggiori oneri a carico della finanza pubblica, presso il Ministero della transizione ecologica, l'Osservatorio nazionale della poverta' energetica.
 L'Osservatorio e' un organo collegiale composto da sei membri nominati con decreto del Ministro della transizione ecologica. Dei sei membri, due, compreso il Presidente dell'Osservatorio, sono designati dal Ministro della transizione ecologica; uno dal Ministro del lavoro e delle politiche sociali; uno dal Ministro delle infrastrutture e della mobilita' sostenibili; uno dalla Conferenza permanente per i rapporti tra lo Stato, le regioni e le Province autonome di Trento e Bolzano; uno dall'ARERA. L'Osservatorio si avvale del supporto tecnico del Gestore dei servizi energetici S.p.a. e di Acquirente Unico S.p.a. La partecipazione all'Osservatorio non prevede il riconoscimento di compensi, rimborsi spese, gettoni di presenze ed altri emolumenti comunque denominati.
+
+6.
+                    
+                        
+                            L'Osservatorio: 
+ 
+                        
+                        
+                            a)
+                            
+                                propone al Ministero della transizione ecologica e all'ARERA misure di contrasto alla poverta' energetica, anche attraverso azioni di comunicazione, formazione e assistenza a soggetti pubblici ed enti rappresentativi dei portatori di interesse; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                effettua, con cadenza biennale, il monitoraggio del fenomeno della poverta' energetica a livello nazionale, anche ai fini della comunicazione integrata sulla poverta' energetica di cui all'articolo 24, del regolamento (UE) 2018/1999; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                anche ai fini di cui alla lettera b) del presente comma, elabora criteri per l'elaborazione del numero di famiglie in condizioni di poverta' energetica.
 
 Sulla base dei dati di cui al comma 6 forniti dall'Osservatorio, il Ministro della transizione ecologica, con proprio decreto, da emanare entro novanta giorni dalla data di entrata in vigore della presente disposizione, adotta la Strategia nazionale contro la poverta' energetica.
 
@@ -224,11 +708,78 @@ I clienti hanno diritto di partecipare ad aggregazioni per la gestione collettiv
 
 Il gestore del sistema di trasmissione e il gestore del sistema di distribuzione dell'energia elettrica nel mercato interno, in caso di acquisto di servizi ancillari, assicurano la parita' di trattamento tra partecipanti ad aggregazioni nella gestione della domanda e produttori, sulla base delle rispettive capacita' tecniche.
 
+6.
+                    
+                        
+                            L'ARERA, entro sei mesi dalla data di entrata in vigore del presente decreto, definisce le regole tecniche, anche in tema di carichi aggregati, e le regole di dettaglio per la partecipazione al mercato interno dell'energia elettrica dei soggetti coinvolti in un'aggregazione nella gestione di una domanda di energia, nel rispetto dei seguenti requisiti: 
+ 
+                        
+                        
+                            a)
+                            
+                                i partecipanti al mercato coinvolti in un'aggregazione, ivi compresi gli aggregatori indipendenti, hanno il diritto di entrare nel mercato interno dell'energia elettrica senza che si renda necessario il consenso di altri partecipanti al mercato; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                i ruoli e le responsabilita' delle imprese elettriche e dei clienti devono essere definiti sulla base di regole non discriminatorie e trasparenti; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                lo scambio di dati tra i partecipanti al mercato coinvolti in un'aggregazione e le imprese elettriche deve avvenire secondo norme e procedure trasparenti e non discriminatorie, tali da assicurare un facile accesso su base paritaria, garantendo al contempo la piena protezione delle informazioni commercialmente sensibili e dei dati personali dei clienti; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                i partecipanti al mercato coinvolti in un'aggregazione devono assumersi la responsabilita' finanziaria degli sbilanciamenti apportati alla rete elettrica, salvo che abbiano delegato la responsabilita' ai sensi dell'articolo 5 del regolamento (UE) 2019/943; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                i clienti finali che hanno sottoscritto un contratto con aggregatori indipendenti non possono incorrere in penali o pagamenti aggiuntivi di qualsiasi natura, ne' in altre indebite restrizioni dei diritti loro derivanti dai contratti di fornitura in essere; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                i partecipanti al mercato coinvolti in un'aggregazione e gli altri partecipanti al mercato devono poter accedere a procedure stragiudiziali di risoluzione delle controversie, anche in tema di responsabilita' per gli sbilanciamenti apportati alla rete elettrica.
+
 Il Gestore dei servizi energetici S.p.a. predispone strumenti di supporto informativo per favorire la promozione delle aggregazioni di domanda industriale, con riferimento a perimetri territoriali o merceologici omogenei.
 
 ## Art. 13. — ((Formazione dei prezzi nei mercati dell'energia elettrica e gestione del rischio del fornitore))
 
 Con decreto del Ministro dell'ambiente e della sicurezza energetica, sentita l'ARERA, sono stabiliti le condizioni e i criteri per l'applicazione ai clienti finali, a decorrere dal 1° gennaio 2025, di prezzi zonali definiti in base agli andamenti del mercato all'ingrosso dell'energia elettrica. Con il medesimo decreto sono altresi' stabiliti gli indirizzi per la definizione, da parte dell'ARERA, di un meccanismo transitorio di perequazione tra i clienti finali, che tenga conto del contributo alla flessibilita' e all'efficienza del sistema nonche' delle esigenze di promozione della concorrenza nel mercato, a compensazione dell'eventuale differenziale tra il prezzo zonale e un prezzo di riferimento calcolato dal GME in continuita' con il calcolo del prezzo unico nazionale.
+
+1-bis.
+                    
+                        
+                            
+                                ((I fornitori di energia elettrica a clienti finali sono tenuti:))
+                            
+                        
+                        
+                            a)
+                            
+                                
+                                    ((a predisporre e mettere in atto strategie di copertura finalizzate a limitare il rischio di insostenibilita' economica dei contratti sottoscritti con i clienti finali a causa della volatilita' dei prezzi di approvvigionamento all'ingrosso di energia elettrica, secondo principi di diligenza individuati dall'ARERA;))
+                                
+                            
+                        
+                        
+                            b)
+                            
+                                
+                                    ((ad intraprendere le azioni idonee a limitare il rischio di interruzione della fornitura.))
 
 (( L'ARERA, nell'ambito dei propri poteri ispettivi e sanzionatori di cui alla legge 16 novembre 1995, n. 481, verifica il rispetto delle disposizioni di cui al comma 1-bis, lettere a) e b). ))
 
@@ -240,20 +791,370 @@ Clienti attivi e comunita' energetiche dei cittadini
 
 I clienti finali hanno il diritto di partecipare al mercato in qualita' di clienti attivi, senza essere assoggettati a procedure od oneri discriminatori o sproporzionati ovvero a oneri di rete che non rispecchiano i costi effettivi.
 
+2.
+                    
+                        
+                            I clienti attivi: 
+ 
+                        
+                        
+                            a)
+                            
+                                possono partecipare al mercato individualmente, in maniera aggregata ovvero mediante le comunita' di cui al presente articolo; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                hanno il diritto di vendere sul mercato l'energia elettrica autoprodotta, anche stipulando accordi per l'acquisto di energia elettrica; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                hanno il diritto di prendere parte a meccanismi di flessibilita' e a meccanismi di efficienza energetica; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                possono attribuire a soggetti terzi la gestione degli impianti necessari, ivi compresi l'installazione, il funzionamento, il trattamento dei dati e la manutenzione, senza che tali soggetti terzi debbano a loro volta considerarsi clienti attivi; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                sono sottoposti a oneri di rete idonei a rispettare i costi, trasparenti e non discriminatori e contabilizzano separatamente l'energia elettrica immessa in rete e quella assorbita dalla rete, cosi' da garantire un contributo adeguato ed equilibrato alla ripartizione globale dei costi di sistema; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                sono responsabili, dal punto di vista finanziario, degli squilibri che apportano alla rete elettrica e sono responsabili del bilanciamento ovvero delegano la propria responsabilita' a soggetti terzi, ai sensi dell'articolo 5 del regolamento (UE) 2019/943.
+
+3.
+                    
+                        
+                            I clienti attivi proprietari di impianti di stoccaggio dell'energia: 
+ 
+                        
+                        
+                            a)
+                            
+                                hanno diritto alla connessione alla rete elettrica entro un termine ragionevole dalla richiesta, purche' assicurino una misurazione adeguata; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                non possono essere assoggettati a una duplicita' di oneri, ivi compresi gli oneri di rete, per l'energia elettrica immagazzinata che rimane nella loro disponibilita' o per la prestazione di servizi di flessibilita' ai gestori dei sistemi; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                non possono essere assoggettati a requisiti od oneri sproporzionati per il rilascio di atti di autorizzazione o provvedimenti a contenuto equivalente; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                sono autorizzati a fornire diversi servizi contemporaneamente, se tecnicamente possibile.
+
 I clienti attivi che agiscono collettivamente regolano i rapporti tramite un contratto di diritto privato, individuando un soggetto responsabile. La titolarita' e la gestione, compresi l'installazione, il funzionamento, il trattamento dei dati e la manutenzione degli eventuali impianti di produzione e di stoccaggio, ubicati nell'edificio o condominio nonche' in siti diversi nella disponibilita' dei clienti attivi medesimi, la cui produzione rileva ai fini della condivisione dell'energia operata dai clienti attivi, puo' essere in capo a un soggetto terzo, purche' quest'ultimo sia soggetto alle istruzioni di uno o piu' clienti attivi facenti parte del gruppo.
 
 I membri o soci delle comunita' energetiche dei cittadini regolano i loro rapporti tramite un contratto di diritto privato, individuando un soggetto responsabile, ivi inclusi la Comunita' stessa, un membro o socio di essa o un soggetto terzo.
 
+6.
+                    
+                        
+                            Le comunita' energetiche dei cittadini sono costituite nel rispetto delle seguenti condizioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                la partecipazione e' volontaria e aperta a tutti i soggetti interessati, i quali possono altresi' recedere dalla configurazione della comunita' con le medesime garanzie e con gli stessi diritti previsti dall'articolo 7 del presente decreto; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                i membri o soci della comunita' mantengono tutti i diritti e gli obblighi legati alla loro qualita' di clienti civili ovvero di clienti attivi; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                la comunita' puo' partecipare agli ambiti costituti dalla generazione, dalla distribuzione, dalla fornitura, dal consumo, dall'aggregazione, o dallo stoccaggio dell'energia elettrica ovvero dalla prestazione di servizi di efficienza energetica, di servizi di ricarica dei veicoli elettrici o di altri servizi energetici; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                la comunita' energetica dei cittadini e' un soggetto di diritto privato che puo' assumere qualsiasi forma giuridica, fermo restando che il suo atto costitutivo deve individuare quale scopo principale il perseguimento, a favore dei membri o dei soci o del territorio in cui opera, di benefici ambientali, economici o sociali a livello di comunita', non potendo costituire i profitti finanziari lo scopo principale della comunita'; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                la comunita' e' responsabile del riparto dell'energia elettrica condivisa tra i suoi partecipanti.
+
 La condivisione dell'energia elettrica eventualmente prodotta dalle comunita' energetiche puo' avvenire per mezzo della rete di distribuzione esistente e, in presenza di specifiche ragioni di carattere tecnico, tenuto conto del rapporto costi benefici per i clienti finali, anche in virtu' di contratti di locazione o di acquisto di porzioni della medesima rete ovvero reti di nuova realizzazione. Nei casi di gestione della rete di distribuzione da parte della comunita', previa autorizzazione del Ministero della transizione ecologica e' stipulata una convenzione di sub-concessione tra l'impresa di distribuzione concessionaria della rete impiegata dalla comunita' e la comunita' stessa. Le reti di distribuzione gestite dalle comunita' energetiche dei cittadini sono considerate reti pubbliche di distribuzione con obbligo di connessione dei terzi, indipendentemente dalla proprieta' della rete. La comunita', in qualita' di sub-concessionario della rete elettrica utilizzata, e' tenuta all'osservanza degli stessi obblighi e delle stesse condizioni previsti dalla legge per il soggetto concessionario. I canoni di locazione ovvero di sub-concessione richiesti dal gestore del sistema di distribuzione devono in ogni caso risultare equi e sono sottoposti alla valutazione dell'ARERA, secondo le modalita' da questa definite ai sensi del comma 9 del presente articolo. Sono fatte salve le competenze delle Province autonome di Trento e di Bolzano che provvedono alle finalita' del presente comma ai sensi dei rispettivi statuti speciali e delle relative norme di attuazione.
+
+8.
+                    
+                        
+                            La condivisione dell'energia elettrica e' consentita nell'ambito delle comunita' energetiche e dei clienti attivi che agiscono collettivamente nel rispetto delle seguenti condizioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                l'energia e' condivisa nell'ambito della porzione della rete di distribuzione sottesa alla stessa zona di mercato; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                l'energia condivisa e' pari, ((in ciascun periodo rilevante non superiore all'ora)), al valore minimo tra quello dell'energia elettrica prodotta e immessa in rete dagli impianti e quello dell'energia elettrica prelevata dall'insieme dei clienti associati; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                l'energia puo' essere condivisa anche attraverso impianti di stoccaggio; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                gli impianti di generazione e di stoccaggio dell'energia elettrica oggetto di condivisione tra i partecipanti alle comunita' energetiche dei cittadini devono risultare nella disponibilita' e nel controllo della comunita' energetica dei cittadini. La gestione, ivi compresi l'installazione, il funzionamento, il trattamento dei dati e la manutenzione, puo' essere demandata ad un soggetto terzo, ivi compreso il proprietario dell'impianto di generazione, fermi restando i poteri di indirizzo e controllo in capo alla comunita'.
+
+8-bis.
+                    
+                        
+                            
+                                ((I clienti attivi possono nominare un terzo quale organizzatore della condivisione dell'energia rinnovabile a fini di:))
+                            
+                        
+                        
+                            a)
+                            
+                                
+                                    ((comunicazione con altri soggetti in ordine agli accordi di condivisione dell'energia rinnovabile, anche per gli aspetti relativi a tariffe e oneri, imposte o prelievi applicabili;))
+                                
+                            
+                        
+                        
+                            b)
+                            
+                                
+                                    ((sostegno alla gestione e al bilanciamento dei carichi flessibili dietro al contatore, della generazione distribuita di energia rinnovabile e degli impianti di stoccaggio che fanno parte dell'accordo di condivisione dell'energia;))
+                                
+                            
+                        
+                        
+                            c)
+                            
+                                
+                                    ((stipula di contratti e fatturazione dei clienti attivi che partecipano alla condivisione dell'energia rinnovabile;))
+                                
+                            
+                        
+                        
+                            d)
+                            
+                                
+                                    ((installazione e funzionamento, comprese la misurazione e la manutenzione, dell'impianto di generazione di energia rinnovabile o dell'impianto di stoccaggio.))
 
 ((L'organizzatore della condivisione dell'energia rinnovabile o il soggetto terzo puo' possedere o gestire un impianto di stoccaggio o di produzione di energia rinnovabile per un massimo di 6 MW, senza essere considerato un cliente attivo, tranne nel caso in cui partecipi al progetto di condivisione dell'energia.
 L'organizzatore della condivisione dell'energia fornisce servizi non discriminatori e prezzi, tariffe e condizioni di servizio trasparenti.))
 
+8-quater.
+                    
+                        
+                            
+                                ((I clienti attivi che partecipano alla condivisione dell'energia rinnovabile:))
+                            
+                        
+                        
+                            a)
+                            
+                                
+                                    ((hanno diritto allo scorporo in bolletta della quota di energia condivisa, fatti salvi le imposte e i prelievi non discriminatori e gli oneri di rete commisurati ai costi applicabili;))
+                                
+                            
+                        
+                        
+                            b)
+                            
+                                
+                                    ((hanno i medesimi diritti e obblighi dei clienti finali;))
+                                
+                            
+                        
+                        
+                            c)
+                            
+                                
+                                    ((non sono tenuti a rispettare gli obblighi previsti in capo ai fornitori, qualora l'energia rinnovabile sia condivisa tra clienti civili con una capacita' installata fino a 30 kW per le singole abitazioni e fino a 100 kW per i condomini;))
+                                
+                            
+                        
+                        
+                            d)
+                            
+                                
+                                    ((hanno accesso a schemi contrattuali tipo su base volontaria che prevedano condizioni eque e trasparenti per gli accordi di condivisione dell'energia;))
+                                
+                            
+                        
+                        
+                            e)
+                            
+                                
+                                    ((hanno accesso alla risoluzione extragiudiziale delle controversie con altri partecipanti all'accordo di condivisione dell'energia;))
+                                
+                            
+                        
+                        
+                            f)
+                            
+                                
+                                    ((sono informati della possibilita' che le zone di offerta siano modificate in conformita' all'articolo 14 del regolamento (UE) 2019/943 del Parlamento europeo e del Consiglio, del 5 giugno 2019, e del fatto che il diritto di condividere energia rinnovabile e' applicato conformemente al comma 8, lettera a);))
+                                
+                            
+                        
+                        
+                            g)
+                            
+                                
+                                    ((notificano gli accordi di condivisione dell'energia ai gestori di sistema e ai partecipanti al mercato interessati, compresi i fornitori, direttamente o tramite un organizzatore della condivisione dell'energia;))
+                                
+                            
+                        
+                        
+                            h)
+                            
+                                
+                                    ((non subiscono un trattamento iniquo e discriminatorio dai partecipanti al mercato o dai loro responsabili del bilanciamento.))
+
 ((Nel caso in cui partecipano alla condivisione dell'energia rinnovabile clienti finali di dimensioni maggiori delle piccole e medie imprese, la capacita' degli impianti di generazione associati alla condivisione non puo' essere superiore a 6 MW.))
+
+8-sexies.
+                    
+                        
+                            
+                                ((I gestori dei sistemi di trasmissione e i gestori dei sistemi di distribuzione raccolgono, convalidano e comunicano, con cadenza mensile, i dati di misura che rilevano ai fini della determinazione dell'energia elettrica condivisa secondo le modalita' definite dall'ARERA. Il Gestore dei servizi energetici S.p.A.:))
+                            
+                        
+                        
+                            a)
+                            
+                                
+                                    ((monitora, con frequenza mensile, i dati relativi all'energia elettrica condivisa con i clienti finali e i partecipanti al mercato interessati;))
+                                
+                            
+                        
+                        
+                            b)
+                            
+                                
+                                    ((fornisce un punto di contatto volto a:)) 
+ 1) ((registrare gli accordi di condivisione dell'energia;)) 
+ 2) ((fornire informazioni per la condivisione dell'energia;)) 
+ 3) ((ricevere informazioni sui punti di misurazione, i cambiamenti di ubicazione e di partecipazione.))
 
 ((L'ARERA adegua i propri provvedimenti alle disposizioni dei commi 8-bis, 8-ter, 8-quater, 8-quinquies e 8-sexies e provvede affinche' lo scorporo dell'energia elettrica condivisa di cui al comma 8-quater, lettera a), sia effettuato tenendo conto dell'intervallo temporale della regolazione degli sbilanciamenti, secondo criteri di gradualita', per le sole configurazioni costituite successivamente all'entrata in vigore dei medesimi provvedimenti)).
 
 Sull'energia prelevata dalle reti pubbliche di cui ai commi 7 e 8, compresa quella condivisa, si applicano gli oneri generali di sistema, ai sensi dell'articolo 6, comma 9, secondo periodo, del decreto-legge 30 dicembre 2016, n. 244, convertito, con modificazioni, dalla legge 27 febbraio 2017, n. 19.
+
+10.
+                    
+                        
+                            Entro sei mesi dalla data di entrata in vigore del presente decreto, l'ARERA adotta uno o piu' provvedimenti per dare attuazione alle disposizioni contenute nel presente articolo. In particolare, l'Autorita' persegue i seguenti obiettivi: 
+ 
+                        
+                        
+                            a)
+                            
+                                assicura che le comunita' energetiche dei cittadini possano partecipare, direttamente ovvero attraverso aggregatori, a tutti i mercati dell'energia elettrica e dei servizi connessi, nel rispetto dei vincoli di sicurezza delle reti e in modo non discriminatorio, e che le medesime comunita' siano finanziariamente responsabili degli eventuali squilibri apportati al sistema, assumendo la relativa responsabilita' di bilanciamento o delegando la stessa a un soggetto terzo, ai sensi dell'articolo 5 del regolamento (UE) 2019/943; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                assicura che sull'energia prelevata dalla rete pubblica dai clienti finali partecipanti alle configurazioni di cui al presente articolo siano applicati gli oneri generali di sistema ai sensi dell'articolo 6, comma 9, secondo periodo, del decreto-legge 30 dicembre 2016, n. 244, convertito, con modificazioni, dalla legge 27 febbraio 2017, n. 19; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                fermo restando quanto previsto alla lettera b), determina, anche in via forfetaria, il valore delle componenti tariffarie regolate che non devono essere applicate all'energia condivisa nell'ambito della porzione di rete di distribuzione sottesa alla stessa cabina primaria e istantaneamente auto-consumata, in quanto corrispondenti a costi evitati per il sistema, determinati in funzione della localizzazione sulla rete elettrica dei punti di immissione e di prelievo facenti parte di ciascuna configurazione di autoconsumo collettivo o di comunita' energetica dei cittadini; A tal fine, prevede che i gestori della rete di distribuzione rendano pubblici i perimetri delle cabine primarie, anche in via semplificata o forfettaria; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                definisce le specifiche ragioni di carattere tecnico, tenuto conto del rapporto costi benefici per i clienti finali, che devono ricorrere affinche' la condivisione dell'energia elettrica eventualmente prodotta dalle comunita' energetiche avvenga in virtu' di contratti di locazione o di acquisto di porzioni della rete di distribuzione esistente ovvero mediante reti di nuova realizzazione; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                adotta provvedimenti volti alla sperimentazione, attraverso progetti pilota, di criteri di promozione dell'auto bilanciamento all'interno delle configurazioni di cui al presente articolo, valorizzando i benefici dell'autoconsumo sull'efficienza di approvvigionamento dei servizi ancillari, anche prevedendo che le stesse siano considerate utenti del dispacciamento in forma aggregata; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                assicura che le comunita' energetiche dei cittadini possano organizzare la condivisione, al loro interno, dell'energia elettrica auto-prodotta, consentendo altresi' ai membri o ai soci della comunita' di conservare i propri diritti di clienti finali; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                adotta le disposizioni necessarie affinche' per le isole minori non interconnesse non si applichi il limite della cabina primaria ai fini dell'accesso al meccanismo di cui alla lettera c).
+
+11.
+                    
+                        
+                            Il Ministro della transizione ecologica adotta atti di indirizzo: 
+ 
+                        
+                        
+                            a)
+                            
+                                affinche' il Gestore del sistema di distribuzione e il Gestore della rete di trasmissione nazionale cooperino per consentire l'attuazione delle disposizioni del presente articolo, con particolare riguardo alle modalita' con le quali sono rese disponibili le misure dell'energia condivisa e alle modalita' di partecipazione ai mercati dei servizi, nel rispetto dei vincoli di sicurezza; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                affinche' sia istituito, presso il Gestore dei servizi energetici S.p.a., un sistema di monitoraggio continuo delle configurazioni realizzate in attuazione del presente articolo. In tale ambito, dovra' prevedersi l'evoluzione dell'energia elettrica soggetta al pagamento degli oneri generali e delle diverse componenti tariffarie, tenendo conto dello sviluppo delle configurazioni di autoconsumo e dell'evoluzione del fabbisogno complessivo delle diverse componenti.
 
 ## Art. 15. — Accesso ai sistemi di trasmissione 
  e di distribuzione e linee dirette
@@ -282,10 +1183,135 @@ L'ARERA, entro sei mesi dalla data di entrata in vigore del presente decreto, ag
 
 ## Art. 17. — Sistemi di distribuzione chiusi
 
+1.
+                    
+                        
+                            Dalla data di entrata in vigore del presente decreto, possono essere realizzati sistemi di distribuzione chiusi per la distribuzione di energia elettrica a unita' di consumo industriali, commerciali o di servizi condivisi, collocate all'interno di un'area geograficamente limitata, nei casi in cui: 
+ 
+                        
+                        
+                            a)
+                            
+                                per specifiche ragioni tecniche o di sicurezza, le operazioni o il processo di produzione degli utenti di tale sistema sono integrati, per cui le unita' di consumo risultano funzionalmente essenziali al processo produttivo integrato; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                il sistema distribuisce energia elettrica principalmente al proprietario o al gestore del sistema e alle loro imprese correlate, in un'area insistente sul territorio di non piu' di due comuni adiacenti, fatte salve le specifiche esigenze di cui alla lettera a).
+
+2.
+                    
+                        
+                            Per la realizzazione dei sistemi di distribuzione chiusi di cui al comma 1 sono rispettate le seguenti condizioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                il gestore del sistema di distribuzione chiuso deve essere titolare di una sub-concessione di distribuzione stipulata con il gestore del sistema di distribuzione, previa autorizzazione del Ministero della transizione ecologica. 
+
+                            
+                        
+                        
+                            b)
+                            
+                                il sistema non puo' fornire energia elettrica ai clienti civili, fatta eccezione per l'uso accidentale da parte di un numero limitato di nuclei familiari, legati al proprietario del sistema di distribuzione da un rapporto di lavoro o professionale ovvero da un vincolo simile e situati nell'area servita dal sistema stesso.
+
 I sistemi di distribuzione chiusi di cui al comma 1 sono considerati reti pubbliche di distribuzione con obbligo di connessione dei terzi, indipendentemente dalla proprieta' della rete.
 Il gestore del sistema di distribuzione chiuso, in qualita' di sub-concessionario, e' tenuto all'osservanza degli stessi obblighi e delle stesse condizioni cui e' sottoposto il gestore del sistema di distribuzione, fatto salvo quanto stabilito dal comma 4 del presente articolo e dai commi 5-bis e 5-ter dell'articolo 38 del decreto legislativo 1° giugno 2011, n. 93.
 
+4.
+                    
+                        
+                            Il gestore di un sistema di distribuzione chiuso e' esentato dai seguenti obblighi: 
+ 
+                        
+                        
+                            a)
+                            
+                                approvazione delle tariffe praticate o delle metodologie di calcolo delle stesse da parte dell'ARERA; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                approvvigionamento dei servizi non relativi alla frequenza e dell'energia a copertura delle perdite di rete secondo procedure trasparenti, non discriminatorie e basate su criteri di mercato; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                approvvigionamento dei servizi necessari al funzionamento della rete; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                presentazione del piano di sviluppo della rete di distribuzione dell'energia elettrica.
+
 Il gestore di un sistema di distribuzione chiuso puo' liberamente sviluppare e gestire punti di ricarica di veicoli elettrici, a condizione di garantire un accesso aperto e non discriminatorio agli stessi, nonche' realizzare e gestire sistemi di stoccaggio dell'energia elettrica.
+
+6.
+                    
+                        
+                            Entro nove mesi dalla data di entrata in vigore del presente decreto l'ARERA provvede a: 
+ 
+                        
+                        
+                            a)
+                            
+                                predisporre le convenzioni-tipo per il rilascio della sub-concessione di cui al comma 2, lettera a), del presente articolo; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                approvare le linee guida sulla base delle quali deve essere verificato il rispetto delle condizioni di cui al comma 1, lettere a) e b), e di cui al comma 2, lettera b), del presente articolo, nonche' a stabilire condizioni specifiche per la delimitazione geografica dei siti su cui e' possibile realizzare sistemi di distribuzione chiusi; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                adeguare, ove necessario, la regolazione dei servizi di connessione, misura, trasmissione, distribuzione, dispacciamento e vendita, secondo criteri di proporzionalita' e semplificazione; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                determinare le modalita' attraverso le quali un utente del sistema di distribuzione chiuso puo' richiedere all'Autorita' di esaminare e approvare le tariffe praticate dal gestore del sistema ovvero le metodologie di calcolo delle medesime tariffe.
+
+7.
+                    
+                        
+                            Entro nove mesi dalla data di entrata in vigore del presente decreto, con decreto del Ministro della transizione ecologica, adottato ai sensi dell'articolo 17, comma 3, della legge 23 agosto 1988, n. 400 e senza nuovi o maggiori oneri a carico della finanza pubblica, si prevede: 
+ 
+                        
+                        
+                            a)
+                            
+                                l'istituzione dell'albo dei sistemi di distribuzione chiusi realizzati in attuazione del presente articolo; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                la procedura di autorizzazione alla stipula della sub-concessione da parte del medesimo Ministero, ai sensi del comma 2, lettere a), del presente articolo; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                la procedura per l'iscrizione all'albo dei sistemi di distribuzione chiusi autorizzati o realizzati alla data del 15 agosto 2009, attraverso le reti elettriche individuate dall'articolo 38, comma 5, del decreto legislativo 1° giugno 2011, n. 93, per i quali i relativi gestori hanno effettuato la comunicazione all'ARERA entro sei mesi dalla data di entrata in vigore del presente decreto.
 
 Nel caso di modifica dell'area di pertinenza dei sistemi di distribuzione chiusi iscritti nell'albo ai sensi del precedente comma, il gestore del sistema di distribuzione chiuso e' tenuto a richiedere la sub-concessione di cui al comma 2, lettera a), del presente articolo per l'intero sistema ed e' soggetto a tutte le disposizioni del presente articolo.
 
@@ -301,11 +1327,90 @@ Entro 180 giorni dalla data di entrata in vigore del presente decreto, al fine d
 
 La proposta distingue il fabbisogno, oltre che su base geografica, anche sotto il profilo del tipo di accumulo in relazione al tipo di funzione cui si riferisce il fabbisogno.
 
+3.
+                    
+                        
+                            In relazione allo sviluppo della capacita' di stoccaggio e' definito, ai sensi del comma 6, un sistema di approvvigionamento a lungo termine basato su aste concorrenziali, trasparenti, non discriminatorie, svolte dal Gestore della rete di trasmissione nazionale e orientate a minimizzare gli oneri per i clienti finali, regolato dai seguenti principi: 
+ 
+                        
+                        
+                            a)
+                            
+                                l'approvvigionamento riguarda capacita' di stoccaggio di nuova realizzazione, secondo aste periodiche e contingenti di capacita'; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                l'approvvigionamento e' effettuato secondo criteri di neutralita' tecnologica nel rispetto dei requisiti tecnici definiti da Gestore della rete di trasmissione nazionale, in funzione degli obiettivi di cui al comma 1 del presente articolo e dei vincoli di sicurezza; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                in esito alle aste, e' riconosciuta ai titolari della capacita' di stoccaggio aggiudicata una remunerazione annua per tutto l'orizzonte temporale di lungo termine previsto dalle aste stesse, a fronte dell'obbligo di rendere disponibile tale capacita' a soggetti terzi per la partecipazione ai mercati dell'energia elettrica e dei servizi connessi; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                l'aggiudicazione in esito alle aste e' subordinata al rilascio di apposita garanzia prestata dai soggetti aggiudicatari.
+
 ((COMMA ABROGATO DAL D.L. 13 GIUGNO 2023, N. 69, CONVERTITO CON MODIFICAZIONI DALLA L. 10 AGOSTO 2023, N. 103)).
 
 La capacita' di stoccaggio realizzata ai sensi del presente articolo e' allocata attraverso una piattaforma centralizzata, organizzata e gestita dal Gestore dei mercati energetici, secondo criteri di mercato trasparenti e non discriminatori. I proventi dell'allocazione sono utilizzati per la riduzione dei corrispettivi per la copertura dei costi di approvvigionamento della capacita' di stoccaggio.
 
 Entro sei mesi dalla data di entrata in vigore del presente decreto, l'Autorita' di regolazione per energia reti e ambiente definisce i criteri e le condizioni sulla base dei quali il Gestore della rete di trasmissione nazionale, entro i successivi sei mesi, elabora e presenta al Ministro della transizione ecologica per la relativa approvazione una proposta di disciplina del sistema di approvvigionamento di cui al comma 2, prevedendo una fase sperimentale di avvio del sistema. L'attuazione della misura e' subordinata alla approvazione da parte della Commissione europea.
+
+7.
+                    
+                        
+                            L'ARERA, con uno o piu' atti regolatori adottati entro nove mesi dall'entrata in vigore del presente decreto, individua inoltre: 
+ 
+                        
+                        
+                            a)
+                            
+                                i criteri di aggiudicazione della capacita' di stoccaggio di energia elettrica, tenendo conto dei costi di investimento, dei costi operativi, delle diverse tecnologie, nonche' di una equa remunerazione del capitale investito; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                le modalita' di copertura dei costi di approvvigionamento della capacita' di stoccaggio, attraverso meccanismi tariffari idonei a minimizzare gli oneri per i clienti finali; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                
+                                    ((LETTERA ABROGATA DAL D.L. 13 GIUGNO 2023, N. 69, CONVERTITO CON MODIFICAZIONI DALLA L. 10 AGOSTO 2023, N. 103)); 
+
+                            
+                        
+                        
+                            d)
+                            
+                                le condizioni in base alle quali la capacita' di stoccaggio aggiudicata e' resa disponibile al mercato attraverso la piattaforma organizzata di cui al comma 5, nonche' i criteri e le condizioni per l'organizzazione e il funzionamento della piattaforma medesima; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                le modalita' di utilizzo della capacita' di stoccaggio da parte degli operatori di mercato, anche attraverso gli aggregatori; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                le modalita' per il monitoraggio degli effetti del sistema di approvvigionamento sul sistema e sui mercati, anche in relazione all'obiettivo di cui al comma 1 del presente articolo di integrazione delle fonti rinnovabili.
 
 Il Gestore dei mercati energetici, entro tre mesi dalla data di entrata in vigore del provvedimento dell'ARERA di cui al comma 7, lettera d), elabora e sottopone all'approvazione del Ministro della transizione ecologica, sentita l'ARERA, una proposta per l'organizzazione e la gestione della piattaforma di cui al comma 5, tenendo conto dei requisiti tecnici e dei vincoli definiti dal Gestore della rete di trasmissione nazionale.
 
@@ -335,6 +1440,26 @@ Dopo il comma 1 dell'articolo 1-quinquies del decreto-legge 29 agosto 2003, n. 2
  «1-ter. Le misure assunte ai sensi del precedente comma sono immediatamente comunicate dal Ministero della transizione ecologica alla Commissione europea, con adeguata motivazione in ordine ai possibili effetti delle misure stesse sulla concorrenza nazionale e internazionale nei mercati dell'energia elettrica e dei servizi connessi. Il Ministero della transizione ecologica informa la Commissione europea, con cadenza almeno biennale, delle eventuali modifiche apportate alle misure in questione.».
 
 ## Art. 21. — Preparazione ai rischi per la sicurezza del sistema elettrico e disposizioni per l'adeguatezza
+
+1.
+                    
+                        
+                            Al decreto legislativo 1° giugno 2011, n. 93, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                all'articolo 4, dopo il comma 4, e' aggiunto il seguente:
+«4-bis. Le misure relative al settore dell'energia elettrica sono indicate nel Piano di preparazione ai rischi di cui all'articolo 8-bis.» 
+
+                            
+                        
+                        
+                            b)
+                            
+                                dopo l'articolo 8, e' aggiunto il seguente: 
+ «Articolo 8-bis (Predisposizione del Piano di preparazione ai rischi di cui agli articoli 10, 11 e 12 del regolamento (UE) 2019/941). - 1. Il Ministero della transizione ecologica, senza nuovi o maggiori oneri per la finanza pubblica, provvede alla valutazione dei rischi che incidono sulla sicurezza del sistema elettrico nazionale di cui al regolamento (UE) 2019/941 del Parlamento europeo e del Consiglio del 5 giugno 2019, di seguito denominato «Regolamento», e definisce, previa consultazione pubblica, il Piano di preparazione ai rischi, tenuto conto delle disposizioni degli articoli 10, 11 e 12 del regolamento, avvalendosi del Gestore della rete di trasmissione nazionale.
 
 Il Piano di preparazione ai rischi dispone le misure nazionali o regionali, programmate o adottate in via di prevenzione, preparazione o attenuazione delle crisi dell'energia elettrica individuate a norma degli articoli 6 e 7 del regolamento, e contiene almeno quanto previsto dall'articolo 11 del regolamento, specificando tra l'altro, ai sensi del paragrafo 3 dell'articolo 3 del regolamento medesimo, i compiti operativi riguardanti la pianificazione della preparazione ai rischi e la loro gestione, da delegare al Gestore della rete di trasmissione nazionale.
 
@@ -425,6 +1550,34 @@ All'articolo 4 del decreto legislativo 16 dicembre 2016, n. 257, dopo il comma 1
 
 Funzioni e compiti dell'Autorita' di regolazione
 
+1.
+                    
+                        
+                            All'articolo 42, comma 1, del decreto legislativo 1° giugno 2011, n. 93, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                alla lettera a), dopo le parole «mercati interni dell'energia elettrica e del gas naturale concorrenziali,», sono inserite le seguenti: «flessibili,»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                dopo la lettera a) sono inserite le seguenti: 
+ «a-bis) sviluppare mercati regionali transfrontalieri concorrenziali e adeguatamente funzionanti all'interno dell'Unione europea, allo scopo di conseguire gli obiettivi di cui alla precedente lettera a); 
+ a-ter) eliminare le restrizioni agli scambi di energia elettrica tra gli Stati membri e sviluppare adeguate capacita' di trasmissione transfrontaliere, per soddisfare la domanda e migliorare l'integrazione dei mercati nazionali, nonche' al fine di agevolare la circolazione dell'energia elettrica all'interno dell'Unione europea;»; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                dopo la lettera d), e' inserita la seguente: 
+ «d-bis) assicurare che ai gestori e agli utenti dei sistemi di distribuzione e di trasmissione dell'energia elettrica siano offerti incentivi adeguati, a breve e a lungo termine, per migliorare l'efficienza, e soprattutto l'efficienza energetica, delle prestazioni dei sistemi, promuovendo l'integrazione dei mercati;».
+
 All'articolo 43, comma 2, del decreto legislativo 1° giugno 2011, n. 93, la lettera c), e' sostituita dalla seguente: 
  «c) garantisce che i gestori dei sistemi di trasmissione e i gestori dei sistemi di distribuzione e, se necessario, i proprietari dei rispettivi sistemi, nonche' qualsiasi impresa elettrica o di gas naturale o altro partecipante al mercato dell'energia, ottemperino agli obblighi che ad essi incombono ai sensi del presente decreto e della legislazione nazionale vigente, dei regolamenti (UE) 2019/943 e 2009/715, dei codici di rete e degli orientamenti adottati a norma degli articoli 58, 60 e 61 del regolamento (UE) 2019/943, nonche' di tutte le altre disposizioni di diritto dell'Unione europea, anche per quanto riguarda le questioni transfrontaliere, nonche' in forza delle decisioni dell'Agenzia per la cooperazione tra i regolatori nazionali dell'energia (ACER);».
 
@@ -450,10 +1603,79 @@ All'articolo 43, comma 2, del decreto legislativo 1° giugno 2011, n. 93, dopo l
 All'articolo 43 del decreto legislativo 1° giugno 2011, n. 93, dopo il comma 4, e' inserito il seguente: 
  «4-bis. Nelle ipotesi in cui la legge prevede un potere dell'ARERA di verificare le tariffe ovvero le metodologie di calcolo delle tariffe richieste dal gestore della distribuzione ovvero dal gestore della rete di trasmissione nazionale, la medesima Autorita' puo' fissare, in caso di ritardo, tariffe o metodologie provvisorie, pubblicandole sul proprio sito web e prevedendo misure compensatorie nell'ipotesi in cui le tariffe ovvero le metodologie definitivamente stabilite dal gestore della distribuzione o della trasmissione si discostino da quelle stabilite in via provvisoria.».
 
+5.
+                    
+                        
+                            All'articolo 44 del decreto legislativo 1° giugno 2011, n. 93, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                dopo il comma 2, sono inseriti i seguenti: 
+ «2-bis. Nei casi in cui la legge attribuisce all'ARERA il potere di valutare le tariffe o le metodologie di calcolo delle tariffe richieste dal gestore della distribuzione ovvero dal gestore della rete di trasmissione nazionale, i partecipanti al mercato possono proporre reclamo avverso le relative decisioni dinanzi all'Autorita' stessa, entro trenta giorni dalla pubblicazione della decisione ovvero della proposta di decisione. L'Autorita' decide il reclamo entro trenta giorni dal ricevimento del reclamo. Il reclamo non produce alcun effetto sospensivo. 
+ 2-ter. Le decisioni sui reclami di cui ai due commi precedenti sono pubblicate in un'apposita sezione del sito web dell'ARERA, ferma la riservatezza delle informazioni commercialmente sensibili.»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 3, e' aggiunto, in fine, il seguente periodo: «La partecipazione delle imprese elettriche alle procedure di risoluzione delle controversie di cui al presente comma e' obbligatoria.».
+
 ## Art. 25.
 
 Poteri sanzionatori dell'Autorita' 
  di regolazione energia reti e ambiente
+
+1.
+                    
+                        
+                            Fermo restando quanto previsto dalla legge 14 novembre 1995, n. 481, e dall'articolo 45 del decreto legislativo 1° giugno 2011, n. 93, l'Autorita' di regolazione per energia, reti e ambiente irroga sanzioni amministrative pecuniarie in caso di inosservanza delle prescrizioni e degli obblighi previsti dalle seguenti disposizioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                articoli 5, commi da 1 a 13, 6, commi da 1 a 5, 7, commi 1, 2, 4 e 5, 8, commi da 1 a 3, 9, commi 6 e 7, 11, comma 2, 12 commi da 1 a 5, 15, comma 3, del presente decreto; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                articoli 6, paragrafi 13 e 14, 7, 8, 9, 10, 12, paragrafo 1, 13, paragrafi 4, 5 e 7, 16, paragrafi 1, 2, 8 e 11, 17, 23, paragrafo 4, del regolamento (UE) 2019/943; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                
+                                    articoli 37, 42 e 46 del regolamento (UE) 2019/943 con riferimento ai Centri di coordinamento regionale o loro sedi distaccate aventi sede in Italia effettuando ispezioni, anche senza preavviso, presso i loro locali; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                
+                                    articoli 3, comma 2, e 9, comma 1, del decreto legislativo 16 marzo 1999, n. 79; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                
+                                    articolo 35, comma 9, del decreto legislativo 1° giugno 2011, n. 93; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                codici di rete adottati a norma dell'articolo 59 del regolamento (UE) 2019/943 e orientamenti vincolanti adottati a norma dell'articolo 61 del regolamento (UE) 2019/943.
 
 ## Art. 26. — Esenzione per i nuovi interconnettori 
  tra Stati membri dell'UE

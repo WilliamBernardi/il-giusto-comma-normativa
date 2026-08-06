@@ -8,8 +8,8 @@ vigente: true
 source: normattiva-opendata
 collection: Leggi delega e relativi provvedimenti delegati
 vigenza_date: 2021-07-31
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:41:16Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -33,9 +33,295 @@ Il presente decreto stabilisce i requisiti tecnici delle unita' navali addette a
 
 ## Art. 2. — Ambito di applicazione
 
+1.
+                        
+                            
+                                Ferma restando la necessita' di mantenere un adeguato livello di sicurezza per tutte le unita' navali adibite alla navigazione interna, le disposizioni del presente decreto si applicano alle seguenti unita' navali nuove, come definite all'articolo 3, comma 1, lettera v), nelle vie d'acqua interne indicate nell'allegato I: 
+ 
+                            
+                            
+                                a)
+                                
+                                    navi di lunghezza pari o superiore a 20 metri; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    navi per le quali il prodotto tra lunghezza, larghezza e immersione e' pari o superiore in volume a 100 metri cubi; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    rimorchiatori e spintori destinati a rimorchiare o a spingere oppure alla propulsione in formazione di coppia delle unita' navali di cui alle lettere a) e b) o dei galleggianti speciali; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    navi da passeggeri, ad esclusione delle unita' considerate al comma 2, lettera a); 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    galleggianti speciali.
+
+2.
+                        
+                            
+                                Le disposizioni del presente decreto non si applicano alle seguenti unita' navali: 
+ 
+                            
+                            
+                                a)
+                                
+                                    navi traghetto in servizio di collegamento tra due sponde opposte di un fiume, un canale o un lago, a condizione che sia mantenuto il livello di sicurezza e che le unita' siano dotate di mezzi di salvataggio individuali e collettivi, ritenuti adeguati e sufficienti dall'autorita' competente; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    unita' navali militari, nonche' unita' e galleggianti in servizio governativo non commerciale; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    unita' navali adibite alla navigazione marittima, compresi i rimorchiatori e gli spintori, quando in navigazione nelle acque interne, purche' provviste almeno di: 
+ 1) un certificato attestante la conformita' alla convenzione di cui all'articolo 3, comma 1, lettera c), numero 1), o un certificato equivalente e un certificato internazionale per la prevenzione dell'inquinamento da olio minerale (IOPP) che attesti la conformita' alla convenzione di cui all'articolo 3, comma 1, lettera c), numero 2); 
+ 2) un certificato attestante la conformita' alla convenzione di cui all'articolo 3, comma 1, lettera c), numero 3), o un certificato equivalente; 
+ 3) un certificato di sicurezza rilasciato in conformita' al decreto legislativo 4 febbraio 2000, n. 45, per le navi passeggeri cui non si applicano le convenzioni di cui ai numeri 1) e 2); 
+ 4) un certificato di sicurezza rilasciato in conformita' al decreto legislativo 18 luglio 2005, n. 171, per le navi e imbarcazioni da diporto cui non si applicano le convenzioni di cui ai numeri 1) e 2); 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    unita' navali adibite alla navigazione marittima, quando in navigazione nelle acque interne, per le quali non si applicano le convenzioni di cui ai numeri 1) e 2) della lettera c), in possesso dei previsti certificati di cui alla legge 5 giugno 1962, n. 616, e al decreto del Presidente della Repubblica 8 novembre 1991, n. 435.
+
 ## Art. 3. — Definizioni
 
+1.
+                        
+                            
+                                Ai fini del presente decreto, si intende per: 
+ 
+                            
+                            
+                                a)
+                                
+                                    «amministrazione»: il Ministero delle infrastrutture e dei trasporti; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    «autorita' competente»: gli uffici della Motorizzazione civile; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    «convenzioni internazionali»: le convenzioni vigenti di seguito indicate, unitamente ai protocolli, ai successivi emendamenti e relativi codici obbligatori: 
+ 1) la convenzione internazionale sulla linea di massimo carico, adottata a Londra il 5 aprile 1966, resa esecutiva con il decreto del Presidente della Repubblica 8 aprile 1968, n. 777; 
+ 2) la convenzione internazionale del 2 novembre 1973 per la prevenzione dell'inquinamento causato da navi (MARPOL 73/78), ratificata con legge 29 settembre 1980, n. 662, entrata in vigore in Italia il 2 ottobre 1983; 
+ 3) la convenzione internazionale del 1° novembre 1974 per la salvaguardia della vita umana in mare (SOLAS 74), resa esecutiva con legge 23 maggio 1980, n. 313; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    «formazione di coppia»: un insieme di unita' navali accoppiate lateralmente in modo rigido, nessuna delle quali e' collocata davanti a quella che provvede alla propulsione dell'insieme stesso; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    «galleggiante»: qualsiasi zattera o altra costruzione, struttura assemblata o oggetto idoneo a navigare, che non sia una nave, un galleggiante speciale o un impianto galleggiante; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    «galleggiante speciale»: unita' galleggiante provvista di impianti adibiti a lavori, come nel caso di gru, attrezzature per il dragaggio, battipali ed elevatori; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    «impianto galleggiante»: unita' galleggiante che di norma non e' destinata a essere spostata, come stabilimenti balneari, darsene, moli, rimesse per imbarcazioni; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    «immersione (T)»: la distanza verticale in metri fra il punto piu' basso dello scafo, esclusa la chiglia o altri attacchi fissi, e la linea di massima immersione; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    «larghezza (B)»: la larghezza massima dello scafo in metri, misurata esternamente al fasciame, esclusi ruote a pale, parabordi fissi, e simili; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    «lunghezza (L)»: la lunghezza massima dello scafo in metri, esclusi il timone e il bompresso; 
+
+                                
+                            
+                            
+                                m)
+                                
+                                    «nave»: nave addetta alla navigazione interna o alla navigazione marittima; 
+
+                                
+                            
+                            
+                                n)
+                                
+                                    «nave addetta alla navigazione interna»: nave addetta esclusivamente o principalmente alla navigazione interna; 
+
+                                
+                            
+                            
+                                o)
+                                
+                                    «nave da passeggeri»: qualsiasi nave che trasporta piu' di dodici passeggeri, oltre l'equipaggio; 
+
+                                
+                            
+                            
+                                p)
+                                
+                                    «navi e imbarcazioni da diporto»: le navi e le imbarcazioni di cui all'articolo 3 del decreto legislativo 18 luglio 2005, n. 171; 
+
+                                
+                            
+                            
+                                q)
+                                
+                                    «navigazione interna»: la navigazione su laghi, fiumi, canali e altre acque interne; 
+
+                                
+                            
+                            
+                                r)
+                                
+                                    «organismo di classificazione»: il soggetto giuridico e i soggetti da esso controllati e collegati, riconosciuti ai sensi dell'articolo 19, che effettuano compiti e valutazioni di conformita' tecnica delle unita' navali di cui agli allegati II, III e IV; 
+
+                                
+                            
+                            
+                                s)
+                                
+                                    «rimorchiatore»: nave destinata al trasporto per acqua a scopo di rimorchio; 
+
+                                
+                            
+                            
+                                t)
+                                
+                                    «spintore»: nave appositamente costruita per provvedere alla propulsione a spinta di una nave o un convoglio; 
+
+                                
+                            
+                            
+                                u)
+                                
+                                    «unita' navale»: qualsiasi nave o galleggiante speciale; 
+
+                                
+                            
+                            
+                                v)
+                                
+                                    «unita' navali nuove»: unita' la cui chiglia sia stata impostata dopo il 31 dicembre 2018; 
+
+                                
+                            
+                            
+                                z)
+                                
+                                    «unita' veloce»: qualsiasi unita' navale motorizzata in grado di raggiungere velocita' superiori a 21,6 nodi rispetto all'acqua; 
+
+                                
+                            
+                            
+                                aa)
+                                
+                                    «volume d'immersione»: il volume immerso della nave espresso in metri cubi.
+
 ## Art. 4. — Funzioni dell'amministrazione
+
+1.
+                        
+                            
+                                L'amministrazione svolge le seguenti funzioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    attua la normativa in materia di accertamento, certificazione e ispezione relativa alla navigazione interna; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    esercita l'attivita' di coordinamento e indirizzo in materia di navigazione interna; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    assicura il controllo e il coordinamento dell'attivita' di accertamento e di certificazione nonche' dell'attivita' ispettiva; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    programma specifiche campagne ispettive finalizzate alla verifica della conformita' delle unita' navali addette alla navigazione interna sulla base dei rapporti ispettivi, nonche' sulla base di risultati statistici e di apposite ricerche relativamente alle violazioni in materia di conformita'.
+
+2.
+                        
+                            
+                                L'amministrazione trasmette: 
+ 
+                            
+                            
+                                a)
+                                
+                                    alla Commissione europea l'elenco delle autorita' competenti a effettuare le visite di cui all'articolo 6 e a rilasciare i certificati di cui agli articoli 8, 9 e 12; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    alla Commissione europea e agli Stati membri dell'Unione europea le informazioni e i dati di cui all'articolo 2.20 dell'allegato V.
 
 ## - Capo II Certificati della navigazione interna
 
@@ -53,9 +339,73 @@ L'attivita' di accertamento e di certificazione e' svolta secondo le disposizion
 
 L'autorita' competente di cui all'allegato VI, in occasione del rilascio, del rinnovo e della proroga dei certificati previsti dagli articoli 8, 9 e 12, si assicura che le unita' navali addette alla navigazione interna sono conformi ai requisiti tecnici del presente decreto.
 
+3.
+                        
+                            
+                                L'autorita' competente di cui all'allegato VI, secondo le modalita' stabilite dall'articolo 2.03 dell'allegato V, sottopone le unita' navali addette alla navigazione interna alle seguenti visite tecniche: 
+ 
+                            
+                            
+                                a)
+                                
+                                    visita iniziale; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    visita di rinnovo; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    visita addizionale; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    visita volontaria.
+
 La visita iniziale e' effettuata preventivamente alla messa in servizio dell'unita' navale ed e' propedeutica al rilascio da parte dell'autorita' competente di cui all'allegato VI del certificato europeo della navigazione interna di cui all'articolo 8, secondo le modalita' stabilite dall'articolo 2.03, comma 2, dell'allegato V. La visita e' intesa a verificare che l'unita' e' conforme ai requisiti previsti dall'allegato II e alle disposizioni amministrative di cui all'allegato V.
 
 La visita di rinnovo e' effettuata prima della scadenza del certificato europeo della navigazione interna e ha lo scopo di verificare che l'unita' navale continua a essere conforme ai requisiti di cui all'articolo 5.
+
+6.
+                        
+                            
+                                La visita addizionale e' immediatamente chiesta dal proprietario, dall'armatore, o dal loro rappresentante, ed e' effettuata: 
+ 
+                            
+                            
+                                a)
+                                
+                                    ogni volta che si verifica un sinistro o si manifesta un difetto che possa compromettere, a giudizio dell'autorita' competente, la sicurezza dell'unita' navale, l'efficienza o l'integrita' dei mezzi di salvataggio o di altri apparati della stessa; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    ogni volta che l'unita' navale subisce riparazioni o innovazioni importanti incidenti sulla conformita' della stessa ai requisiti tecnici di cui all'allegato II riguardanti la propria integrita' strutturale, navigabilita', manovrabilita' o le sue caratteristiche specifiche; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    quando, nel caso di gravi avarie subite dall'unita' navale o per notevoli mutamenti apportati allo scafo o ai macchinari della medesima, vengono meno i requisiti in base ai quali e' stato rilasciato il certificato europeo della navigazione interna in vigore; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    dopo un periodo di disarmo dell'unita' navale di durata superiore a un anno, al fine di accertare il mantenimento delle condizioni di sicurezza e navigabilita' attestate dal certificato della navigazione interna in vigore.
 
 La visita di cui al comma 6 e' eseguita in modo da garantire che il sinistro di cui alla lettera a) non ha comportato alcun danno ai fini della sicurezza della navigazione, che le riparazioni o innovazioni siano state effettivamente compiute, che i materiali impiegati per le riparazioni e innovazioni e la loro esecuzione siano soddisfacenti e che l'unita' navale risponda a tutte le prescrizioni del presente decreto. La visita prevede prove in navigazione.
 
@@ -69,9 +419,52 @@ Con decreto del Ministro delle infrastrutture e dei trasporti, di concerto con i
 
 Le visite tecniche di cui all'articolo 6 e la visita di cui all'articolo 12, comma 1, sono effettuate dalla Commissione territoriale della navigazione interna, istituita con decreto del Ministero delle infrastrutture e dei trasporti, presso le autorita' competenti di cui all'allegato VI, secondo quanto disposto dagli articoli 2.03 e 2.10 dell'allegato V. La Commissione effettua anche la visita di cui all'articolo 12, comma 2.
 
+2.
+                        
+                            
+                                La Commissione di cui al comma 1 e' presieduta dal direttore dell'ufficio della motorizzazione civile territorialmente competente in relazione al luogo in cui l'unita' navale effettua la visita o da un funzionario, da lui delegato, ed e' composta da: 
+ 
+                            
+                            
+                                a)
+                                
+                                    un funzionario dell'ufficio della motorizzazione civile; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    un ingegnere o perito esperto in materia di costruzioni delle navi addette alla navigazione interna e delle loro macchine; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    un capitano autorizzato.
+
 Le funzioni di segreteria sono svolte dal personale dell'ufficio della motorizzazione civile territorialmente competente.
 
 I componenti della Commissione durano in carica tre anni e possono essere riconfermati. Per ciascun componente e' nominato un supplente.
+
+5.
+                        
+                            
+                                All'atto del conferimento dell'incarico, i componenti della Commissione devono dichiarare preventivamente: 
+ 
+                            
+                            
+                                a)
+                                
+                                    di non avere intrapreso alcuna attivita' che possa essere in conflitto con la loro indipendenza di giudizio o la loro integrita' per quanto riguarda l'attivita' ispettiva; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    di eseguire le visite tecniche con il massimo dell'integrita' professionale e della competenza tecnica e di essere liberi da qualsivoglia pressione o incentivo, soprattutto di ordine finanziario, che puo' influenzare il proprio giudizio o i risultati delle loro attivita' di ispezione.
 
 All'atto delle visite tecniche di cui agli articoli 6 e 12, i componenti della Commissione devono dichiarare di non essere intervenuti nella progettazione, fabbricazione o nella costruzione, nella commercializzazione dell'unita' navale, del galleggiante e dell'impianto galleggiante.
 
@@ -98,6 +491,24 @@ Il proprietario, l'armatore dell'unita' navale, o il loro rappresentante, chiede
 A seguito della visita tecnica di cui all'articolo 6, comma 6, prima di un nuovo viaggio dell'unita' navale, e' rilasciato un nuovo certificato europeo della navigazione interna, che indica le caratteristiche tecniche dell'unita' navale, oppure il certificato esistente e' modificato di conseguenza. Nel caso in cui il certificato precedente e' stato rilasciato o rinnovato in un altro Stato membro dell'Unione europea, l'autorita' competente di cui all'allegato VI informa, entro un mese dal rilascio o dal rinnovo, l'autorita' dello Stato membro dell'Unione europea che aveva proceduto al primo rilascio o rinnovo.
 
 Al momento del rilascio del certificato europeo della navigazione interna, l'autorita' competente di cui all'allegato VI verifica che non siano stati gia' rilasciati validi certificati della navigazione interna da parte di altri Stati membri dell'Unione europea nonche' validi certificati di cui all'articolo 9, comma 1, del presente decreto.
+
+10.
+                        
+                            
+                                Il periodo di validita' del certificato europeo della navigazione interna rilasciato alle unita' navali nuove e' fissato dall'autorita' competente di cui all'allegato VI e non supera: 
+ 
+                            
+                            
+                                a)
+                                
+                                    cinque anni per le navi da passeggeri e le unita' veloci; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    dieci anni per tutti gli altri tipi di unita' navale.
 
 Il periodo di validita' del certificato europeo della navigazione interna e' annotato sul certificato.
 
@@ -128,7 +539,71 @@ L'amministrazione notifica le deroghe autorizzate ai sensi del comma 1 alla Comm
 
 ## Art. 12. — Certificato provvisorio europeo della navigazione interna
 
+1.
+                        
+                            
+                                L'autorita' competente di cui all'allegato VI puo' rilasciare, dopo avere effettuato una specifica visita tecnica, su richiesta del proprietario, dell'armatore, o del loro rappresentante, un certificato provvisorio europeo della navigazione interna all'unita' navale che: 
+ 
+                            
+                            
+                                a)
+                                
+                                    con l'autorizzazione di una delle autorita' competenti di cui all'allegato VI, effettua un viaggio per il rilascio del certificato europeo della navigazione interna; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    ha smarrito o danneggiato il certificato europeo della navigazione interna o cui e' stato temporaneamente revocato lo stesso; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    a seguito di visita tecnica con esito positivo, e' in attesa di rilascio o di rinnovo del certificato europeo della navigazione interna; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    non soddisfa i requisiti previsti per ottenere il certificato europeo della navigazione interna; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    avendo subito danni, non mantiene la conformita' ai requisiti previsti per il rilascio del certificato europeo della navigazione interna; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    beneficia di una deroga agli allegati II e V conformemente agli articoli 25 e 26 della direttiva (UE) 2016/1629, in attesa della adozione dei pertinenti atti di esecuzione da parte della Commissione europea.
+
 L'autorita' competente di cui all'allegato VI puo' rilasciare, dopo avere effettuato una specifica visita tecnica, su richiesta del proprietario, o del suo rappresentante, il certificato di cui al comma 1 a un galleggiante e a un impianto galleggiante, nel caso in cui l'ente competente in materia di trasporti speciali, in base alle disposizioni in materia di sicurezza della navigazione interna, subordina l'autorizzazione a effettuare un trasporto speciale all'ottenimento di detto certificato.
+
+3.
+                        
+                            
+                                Nel certificato di cui al comma 1, rilasciato a seguito dell'accertata sicura idoneita' alla navigabilita' delle unita' navali, degli impianti galleggianti e dei galleggianti, sono inserite le prescrizioni dettate dall'autorita' competente di cui all'allegato VI. Il certificato, conforme al modello di cui all'allegato VII, ha validita': 
+ 
+                            
+                            
+                                a)
+                                
+                                    per un solo viaggio specifico da compiere entro un termine congruo non superiore a un mese nei casi previsti dal comma 1, lettere a), d) ed e), e dal comma 2; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    non superiore a due mesi nei casi previsti dal comma 1, lettere b) e c).
 
 Nel caso previsto dal comma 1, lettera f), il certificato provvisorio europeo della navigazione interna e' valido per sei mesi e puo' essere prorogato per periodi di sei mesi finche' la Commissione europea non adotta i propri atti di esecuzione previsti dagli articoli 25 e 26 della direttiva (UE) 2016/1629.
 
@@ -168,7 +643,64 @@ L'amministrazione trasmette alla Commissione europea l'elenco delle autorita' co
 
 ## Art. 18. — Banca dati europea degli scafi
 
+1.
+                        
+                            
+                                L'autorita' competente di cui all'allegato VI tempestivamente inserisce per ogni unita' nella banca dati europea degli scafi (EHDB) le seguenti informazioni e documentazione: 
+ 
+                            
+                            
+                                a)
+                                
+                                    i dati identificativi dell'unita' navale; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    i dati relativi ai certificati di cui agli articoli 8, 9 e 12 rilasciati, rinnovati, sostituiti o revocati nonche' all'autorita' competente che li rilascia; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    copia digitale di tutti i certificati rilasciati; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    i dati relativi a eventuali istanze respinte o sospese di rilascio dei certificati; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    eventuali modifiche ai dati di cui alle lettere da a) a d).
+
 Nel caso di demolizione dell'unita' navale, l'autorita' competente di cui all'allegato VI elimina dalla banca dati europea degli scafi (EHDB) i dati e le informazioni di cui al comma 1.
+
+3.
+                        
+                            
+                                L'accesso ai dati contenuti nella banca dati europea degli scafi (EHDB) e' consentito all'amministrazione e ai seguenti soggetti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    agli ufficiali e agenti di polizia giudiziaria appartenenti alle Forze di polizia di cui all'articolo 16 della legge 1° aprile 1981, n. 121, nonche' agli ufficiali di pubblica sicurezza, per il tramite del centro elaborazione dati di cui all'articolo 8 della medesima legge; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    agli ufficiali e agenti di polizia giudiziaria appartenenti al Corpo delle capitanerie di porto.
 
 L'amministrazione puo' trasferire i dati di cui al comma 1 a un Paese terzo o a un'organizzazione internazionale, purche' il trasferimento sia effettuato per singole unita' e siano soddisfatti i requisiti della normativa nazionale ed europea in materia di protezione dei dati personali.
 
@@ -188,7 +720,139 @@ Il Ministero delle infrastrutture e dei trasporti, con decreto da adottare entro
 
 L'amministrazione verifica che gli organismi di classificazione svolgono efficacemente i compiti per i quali sono stati autorizzati.
 
+7.
+                        
+                            
+                                Ai fini delle verifiche di cui al comma 6, l'amministrazione: 
+ 
+                            
+                            
+                                a)
+                                
+                                    svolge visite di sorveglianza periodica, con cadenza almeno biennale; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    decide sull'opportunita' di procedere, in ogni momento, di propria iniziativa o a seguito di segnalazioni esterne, al controllo degli organismi per verificare le condizioni in base alle quali gli stessi hanno ottenuto l'autorizzazione, il mantenimento dei requisiti, il regolare svolgimento delle procedure e l'adempimento dei propri obblighi; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    valuta le informazioni acquisite ai sensi del comma 9.
+
 L'amministrazione trasmette alla Commissione europea e agli altri Stati membri dell'Unione europea una relazione sui risultati delle verifiche effettuate, entro il 31 marzo dell'anno successivo a quello in cui queste sono state realizzate.
+
+9.
+                        
+                            
+                                Ai fini delle verifiche di cui al comma 6, l'organismo autorizzato trasmette all'amministrazione: 
+ 
+                            
+                            
+                                a)
+                                
+                                    ogni certificato o attestato rilasciato; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le deficienze o inadeguatezze riscontrate nelle unita' navali, galleggianti e impianti galleggianti certificati; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    l'elenco degli ispettori autorizzati che svolgono i servizi di attestazione e di certificazione alle proprie esclusive dipendenze; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    gli aggiornamenti relativi alla documentazione di cui al comma 3.
+
+10.
+                        
+                            
+                                Nel caso di violazioni in merito al possesso dei requisiti di cui all'allegato IX, al regolare svolgimento delle procedure o all'adempimento dei propri obblighi da parte dell'organismo autorizzato, l'amministrazione limita, sospende o ritira l'autorizzazione di cui al comma 3, a seconda dei casi, in funzione della gravita' del mancato rispetto di tali prescrizioni o dell'inadempimento di tali obblighi, e ne informa immediatamente la Commissione europea e gli altri Stati membri dell'Unione europea. La misura puo' consistere in: 
+ 
+                            
+                            
+                                a)
+                                
+                                    richiamo scritto; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    sospensione parziale o totale dell'autorizzazione per un periodo variabile da tre mesi a un anno, in relazione alla gravita' dell'irregolarita' rilevata; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    revoca dell'autorizzazione.
+
+11.
+                        
+                            
+                                La misura della sospensione parziale o totale di cui al comma 10, si applica quando l'organismo di classificazione autorizzato: 
+ 
+                            
+                            
+                                a)
+                                
+                                    non ottempera alle disposizioni date dall'amministrazione, nonostante il richiamo scritto; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    viola norme legislative e amministrative che regolano l'attivita' di controllo tecnico della conformita' delle unita' navali, dei galleggianti e degli impianti galleggianti addetti alla navigazione interna; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    non comunica o non trasmette le informazioni o i documenti richiesti da parte dell'amministrazione.
+
+12.
+                        
+                            
+                                La misura della revoca dell'autorizzazione e' sempre disposta quando l'organismo di classificazione autorizzato: 
+ 
+                            
+                            
+                                a)
+                                
+                                    ha ricevuto almeno due provvedimenti di sospensione nel quinquennio; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    e' inattivo per oltre un anno salvo comprovati motivi; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    continua a commettere una violazione gia' sanzionata con la sospensione a norma del comma 11.
 
 ((COMMA ABROGATO DAL D.L. 31 MAGGIO 2021, N. 77, CONVERTITO CON MODIFICAZIONI DALLA L. 29 LUGLIO 2021, N. 108)).
 

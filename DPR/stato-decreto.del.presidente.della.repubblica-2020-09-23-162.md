@@ -7,8 +7,8 @@ urn: urn:nir:stato:decreto.del.presidente.della.repubblica:2020-09-23;162
 vigente: true
 source: normattiva-opendata
 collection: DPR
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:47:57Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -25,6 +25,26 @@ Sulla proposta del Ministro della giustizia, di concerto con il Ministro dell'ec
 ## Art. 1.
 
 Modifica dell'articolo 10 del decreto del Presidente della Repubblica 15 novembre 2006, n. 314
+
+1.
+                    
+                        
+                            All'articolo 10 del decreto del Presidente della Repubblica 15 novembre 2006, n. 314, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 10, la lettera a) e' soppressa; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                dopo il comma 13, e' inserito il seguente: 
+ «13-bis. Per la determinazione dei canoni degli immobili ubicati nei centri storici di tutti i Comuni si fa riferimento al valore minimo di mercato calcolato sulla base delle ultime rilevazioni semestrali pubblicate dalla Banca dati delle quotazioni immobiliari dell'Osservatorio del mercato immobiliare dell'Agenzia delle entrate.
+Con provvedimento del Direttore generale del personale e delle risorse sono determinati i coefficienti di merito delle predette unita' immobiliari che tengono conto della presenza o meno di: ascensore; pertinenze; esposizione all'aperto; impianto di riscaldamento autonomo o centralizzato; ingresso dalle portinerie degli istituti penitenziari.».
 
 ## Art. 2. — Disposizione transitoria
 

@@ -8,8 +8,8 @@ codice_redazionale: 092G0474
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:40Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -29,6 +29,31 @@ Udito il parere del Consiglio di Stato espresso nell'adunanza generale del 4 giu
 
 ## Art. 1. — Modalita' di controllo delle deliberazioni camerali
 
+1.
+                        
+                            
+                                Ai fini dei controlli ministeriali previsti dagli articoli 60 e 61 del regio decreto 20 settembre 1934, n. 2011, le deliberazioni delle giunte camerali sono classificate, a seconda della loro rilevanza, come: 
+ 
+                            
+                            
+                                a)
+                                
+                                    soggette ad approvazione esplicita; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    soggette ad approvazione per decorrenza dei termini; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    non soggette ad approvazione.
+
 ## Art. 2. — Criteri relativi all'applicazione dell'approvazione
  per decorrenza termini
 
@@ -39,6 +64,57 @@ I provvedimenti di diniego di cui al comma 1 adottati dal direttore generale deb
 I predetti termini possono essere interrotti per una sola volta qualora, prima della scadenza, il Ministero abbia inviato atti interlocutori anche via telefax. In tal caso le deliberazioni diventano esecutive se, entro trenta giorni dalla data di arrivo alla Direzione generale competente degli elementi istruttori richiesti, il Ministero non abbia espresso il proprio diniego secondo le modalita' previste al comma 1. Qualora la camera di commercio non invii quanto richiesto entro trenta giorni dalla ricezione di detti atti interlocutori, la deliberazione e' assoggettata al regime di approvazione esplicita.
 
 ## Art. 3. — Modalita' per l'utilizzo del telefax
+
+1.
+                        
+                            
+                                Per la trasmissione via telefax dei provvedimenti di cui all'art. 2 si provvede:
+ 
+                            
+                            
+                                a)
+                                
+                                    all'individuazione con ordine di servizio di uno o piu' responsabili sia della trasmissione che della ricezione;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    alla istituzione di un apposito registro su cui annotare in ordine cronologico i provvedimenti trasmessi e ricevuti;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    all'annotazione sul registro di cui alla lettera a) del numero di protocollo e della data del documento trasmesso o ricevuto, nonche' all'annotazione del responsabile della trasmissione o della ricezione oltre al numero di registrazione e la relativa data;
+ove alla trasmissione provveda direttamente l'ufficio protocollo le annotazioni di cui alla lettera c) concernenti il responsabile della trasmissione e della ricezione, il numero di registrazione e la relativa data possono essere fatte direttamente nel registro di protocollo, in luogo della istituzione del registro di cui alla lettera b).
+
+2.
+                        
+                            
+                                L'originale del documento trasmesso deve essere conservato agli atti unitamente al foglio di trasmissione dal quale deve risultare:
+ 
+                            
+                            
+                                a)
+                                
+                                    il nominativo e la firma del responsabile della trasmissione;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il numero delle pagine del documento trasmesso;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il buon esito della trasmissione.
 
 La eventuale elaborazione, trasmissione o riproduzione di atti amministrativi, dati, documenti e informazioni tra le camere di commercio ed il Ministero dell'industria, del commercio e dell'artigianato, nell'ambito dell'attivita' di controllo di cui agli articoli 60 e 61 del regio decreto 20 settembre 1934, n. 2011, mediante sistemi informatici deve avvenire secondo le modalita' di uso previste dall'art. 6-quaterdella legge 15 marzo 1991, n. 80.
 
@@ -70,9 +146,67 @@ Il termine si intende sospeso per il periodo intercorrente tra la richiesta di e
 ## Art. 7. — Deliberazioni soggette ad approvazione
  per decorrenza dei termini
 
+1.
+                        
+                            
+                                Sono soggette ad approvazione per decorrenza dei termini le deliberazioni di giunta riguardanti le seguenti materie:
+ 
+                            
+                            
+                                a)
+                                
+                                    richiesta motivata di deroga al sistema dell'asta pubblica per le alienazioni di importo superiore a lire 15 milioni;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    richiesta motivata per l'adozione dei sistemi della trattativa privata o dell'appalto concorso per l'aggiudicazione dei contratti di fornitura, locazioni, lavori e appalti di gestione di importi superiori a lire 80 milioni piu' IVA, fatto salvo ove prescritto il visto di congruita' dei competenti organi tecnici. L'approvazione per decorrenza dei termini e' in ogni caso esclusa qualora detti contratti rappresentino ripetizioni, frazionamenti, completamento o ampliamento di precedenti lavori, forniture o servizi;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    utilizzazione del fondo di riserva;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    attuazione di nuove iniziative di promozione dell'economia lo- cale.
+
 ## Art. 8. — Deliberazioni non soggette al approvazione ministeriale
 
 Non sono soggette ad approvazione le deliberazioni di giunta attuative di programmi di spese dettagliatamente previsti nel bilancio preventivo e gia' approvati in uno con il documento finanziario.
+
+2.
+                        
+                            
+                                Non sono inoltre seggette all'approvazione le deliberazioni di giunta per l'attuazione di iniziative di promozione dell'economia lo- cale che comportino una spesa non superiore a:
+ 
+                            
+                            
+                                a)
+                                
+                                    lire 8 milioni piu' IVA per le camere di commercio con un numero di ditte iscritte e annotate nel registro delle ditte fino a 20.000 unita';
+
+                                
+                            
+                            
+                                b)
+                                
+                                    lire 24 milioni piu' IVA per le camere di commercio con un numero di ditte iscritte e annotate nel registro delle ditte da 20.000 a 50.000 unita';
+
+                                
+                            
+                            
+                                c)
+                                
+                                    lire 40 milioni piu' IVA per le camere di commercio con un numero di ditte iscritte e annotate nel registro delle ditte superiore a 50.000 unita'.
+ La disposizione di cui al presente comma non e' comunque applicabile nei casi di ripetizione, frazionamento o adeguamento della spesa per la stessa iniziativa.
 
 ## - Capo II ORGANISMI ASSOCIATIVI E AZIENDALI SPECIALI DELLE CAMERE DI COMMERCIO
 

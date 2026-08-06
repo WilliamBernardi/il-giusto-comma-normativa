@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Regolamenti governativi
 vigenza_date: 2020-12-26
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:09Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -28,11 +28,68 @@ Sulla proposta del Ministro della giustizia, di concerto con il Ministro dell'ec
 
 Il presente regolamento disciplina l'assegnazione in uso e la gestione degli alloggi demaniali di servizio annessi alle strutture penitenziarie.
 
+2.
+                    
+                        
+                            Gli alloggi di cui al comma 1 sono assegnati gratuitamente, secondo un criterio di priorita':
+ 
+                        
+                        
+                            a)
+                            
+                                al personale che ricopre gli incarichi indicati all'articolo 2, comma 1;
+
+                            
+                        
+                        
+                            b)
+                            
+                                al personale trasferito per le ragioni indicate all'articolo 4, comma 1;
+
+                            
+                        
+                        
+                            c)
+                            
+                                al personale trasferito per le ragioni indicate all'articolo 4, comma 2;
+
+                            
+                        
+                        
+                            d)
+                            
+                                al personale in servizio presso le sedi indicate all'articolo 5, comma 1.
+
 Gli alloggi di servizio eventualmente rimasti disponibili sono assegnati in temporanea concessione onerosa al personale che ne faccia richiesta.
 
 Il presente regolamento disciplina, altresi', l'individuazione, l'assegnazione e la gestione delle unita' abitative ad uso temporaneo e degli alloggi collettivi di servizio per il personale dell'Amministrazione penitenziaria.
 
 ## Art. 2. — Alloggi assegnati gratuitamente in connessione con l'incarico svolto
+
+1.
+                    
+                        
+                            Gli alloggi di servizio sono assegnati in concessione a titolo gratuito al personale con incarico di:
+ 
+                        
+                        
+                            a)
+                            
+                                direttore titolare di istituto penitenziario o di scuola di formazione ed aggiornamento del personale;
+
+                            
+                        
+                        
+                            b)
+                            
+                                comandante del reparto di istituto penitenziario o di scuola di formazione ed aggiornamento del personale;
+
+                            
+                        
+                        
+                            c)
+                            
+                                provveditore regionale dell'Amministrazione penitenziaria.
 
 All'atto del conferimento di uno degli incarichi indicati al comma 1, e' disposta l'assegnazione dell'alloggio, previa verifica delle condizioni soggettive di cui all'articolo 7.
 
@@ -72,6 +129,70 @@ Gli alloggi di servizio rimasti disponibili a seguito dell'applicazione degli ar
 
 Con provvedimento del direttore generale delle risorse materiali, dei beni e dei servizi, sentite le organizzazioni sindacali maggiormente rappresentative, sono stabiliti, ogni due anni, i criteri e le modalita' per le assegnazioni.
 
+3.
+                    
+                        
+                            L'Amministrazione penitenziaria assicura la preventiva comunicazione al personale presente nella sede di servizio delle seguenti informazioni:
+ 
+                        
+                        
+                            a)
+                            
+                                numero delle unita' immobiliari disponibili;
+
+                            
+                        
+                        
+                            b)
+                            
+                                criteri per la loro assegnazione;
+
+                            
+                        
+                        
+                            c)
+                            
+                                termini e modalita' di presentazione della domanda;
+
+                            
+                        
+                        
+                            d)
+                            
+                                titoli valutabili e ulteriori regole del procedimento.
+
+4.
+                    
+                        
+                            L'Amministrazione penitenziaria valuta i seguenti titoli:
+ 
+                        
+                        
+                            a)
+                            
+                                anzianita' complessiva di servizio;
+
+                            
+                        
+                        
+                            b)
+                            
+                                anzianita' di sede;
+
+                            
+                        
+                        
+                            c)
+                            
+                                composizione del nucleo familiare;
+
+                            
+                        
+                        
+                            d)
+                            
+                                presenza, tra i componenti del nucleo familiare, di persone disabili.
+
 Presso ogni provveditorato regionale dell'Amministrazione penitenziaria, il provveditore regionale nomina una commissione per la valutazione delle domande di assegnazione degli alloggi di servizio disponibili nel territorio di competenza. La commissione resta in carica due anni ed e' composta da cinque dipendenti dei ruoli civili e della Polizia penitenziaria, di cui uno con qualifica dirigenziale, che la presiede. La partecipazione alla commissione non da' luogo alla corresponsione di compensi, indennita', emolumenti o rimborsi spese.
 
 La concessione ha durata non superiore ad otto anni.
@@ -83,6 +204,70 @@ Nel caso di particolari esigenze personali e familiari, la durata della concessi
 E' escluso dall'assegnazione dell'alloggio di servizio il soggetto che, pur trovandosi nelle condizioni indicate negli articoli 2, comma 1, lettera c), 4, comma 2, 5 e 6 dispone di una abitazione in proprieta', in usufrutto, in assegnazione in cooperativa o da parte di un istituto autonomo case popolari o di qualsiasi altro ente pubblico o amministrazione dello Stato, qualora l'immobile sia ubicato nella localita' sede di servizio o comunque in localita' prossima a quella di servizio e distante non oltre 30 chilometri dal confine comunale o il cui coniuge non legalmente separato, ovvero il cui figlio vivente a carico si trovino nelle medesime condizioni.
 
 ## Art. 8. — O n e r i
+
+1.
+                    
+                        
+                            Sono a carico degli assegnatari degli alloggi, qualunque sia il titolo della concessione, i seguenti oneri:
+ 
+                        
+                        
+                            a)
+                            
+                                spese per le piccole riparazioni di cui all'articolo 1609 del codice civile;
+
+                            
+                        
+                        
+                            b)
+                            
+                                spese per i danni prodotti o causati da negligenza o cattivo uso dell'alloggio;
+
+                            
+                        
+                        
+                            c)
+                            
+                                spese per il consumo dell'acqua, dell'energia elettrica, del riscaldamento, per lo smaltimento dei rifiuti ed ogni ulteriore onere per le utenze riconducibili all'alloggio in uso. Nel caso di forniture comuni con la sede dell'istituto, le spese a carico dell'utente dell'alloggio sono, comunque, limitate alla sola parte insistente sull'edificio comune.
+
+2.
+                    
+                        
+                            Sono a carico dell'Amministrazione penitenziaria le spese relative a:
+ 
+                        
+                        
+                            a)
+                            
+                                impianti per la sicurezza e per la prevenzione degli infortuni ritenuti necessari;
+
+                            
+                        
+                        
+                            b)
+                            
+                                servizi per la prevenzione incendi;
+
+                            
+                        
+                        
+                            c)
+                            
+                                illuminazione delle strade di accesso, dei cortili e delle aree di transito;
+
+                            
+                        
+                        
+                            d)
+                            
+                                assicurazioni, se ritenute necessarie dall'Amministrazione, imposte e tasse relative agli immoblli ed agli impianti connessi;
+
+                            
+                        
+                        
+                            e)
+                            
+                                esecuzione dei lavori concernenti la stabilita' e la straordinaria manutenzione.
 
 Restano a carico dell'Amministrazione penitenziaria le eventuali spese di manutenzione che si rendano necessarie nell'intervallo di tempo tra il rilascio dell'alloggio da parte dell'utente e la consegna al successivo assegnatario.
 
@@ -99,6 +284,38 @@ In caso di inottemperanza all'ordine di cui al comma 3, un rappresentante dell'A
 
 Le spese necessarie per l'esecuzione delle operazioni di cui al comma 4 sono anticipate dall'Amministrazione e poste a carico dell'occupante.
 
+6.
+                    
+                        
+                            Oltre a quanto previsto dall'articolo 3, comma 1, l'occupante decade dalla concessione nei seguenti casi:
+ 
+                        
+                        
+                            a)
+                            
+                                impiego dell'alloggio per fini non conformi alla sua specifica funzione;
+
+                            
+                        
+                        
+                            b)
+                            
+                                concessione dell'alloggio in uso a terzi;
+
+                            
+                        
+                        
+                            c)
+                            
+                                sopravvenuto accertamento della mancanza delle condizioni per richiedere l'assegnazione in concessione;
+
+                            
+                        
+                        
+                            d)
+                            
+                                mancato pagamento del canone ed oneri accessori entro sessanta giorni dalla scadenza dei termini.
+
 Nei casi di decadenza, si applicano, in quanto compatibili, i commi 2, 3, 4 e 5.
 
 ## Art. 10. — Determinazione del canone di occupazione
@@ -107,13 +324,171 @@ Per gli alloggi assegnati in concessione onerosa ai sensi dell'articolo 6, il ca
 
 Il valore locativo e' determinato dal prodotto della superficie convenzionale per il costo a metro quadrato.
 
+3.
+                    
+                        
+                            La superficie convenzionale e' stabilita sommando: 
+ 
+                        
+                        
+                            a)
+                            
+                                la superficie abitabile dell'alloggio; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                il 25 per cento della superficie di autorimesse, terrazzi, cantine e simili pertinenze in godimento esclusivo del concessionario.
+
 Le superfici di cui al comma 3, lettere a) e b), sono misurate al netto dei muri perimetrali interni. Dalla superficie, e' detratta, nella misura del 50 per cento, la superficie dei vani con altezza utile inferiore a metri 1,70, con un margine di tre centimetri di tolleranza.
+
+5.
+                    
+                        
+                            Il costo base a metro quadrato per gli alloggi costruiti prima del 31 dicembre 1975, e' fissato in: 
+ 
+                        
+                        
+                            a)
+                            
+                                euro 129,11 per gli alloggi situati in Piemonte, Valle d'Aosta, Liguria, Lombardia, Trentino-Alto Adige, Veneto, Friuli-Venezia Giulia, Emilia-Romagna, Toscana, Umbria, Marche e Lazio; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                euro 116,20 per gli alloggi situati in Campania, Abruzzo, Molise, Puglia, Basilicata, Calabria, Sicilia e Sardegna.
 
 Per gli alloggi costruiti dal 1° gennaio 1976 al 31 dicembre 1997, il costo base a metro quadrato e' determinato applicando i decreti adottati per ciascun anno dal Ministro dei lavori pubblici, ai sensi dell'articolo 22 della legge 27 luglio 1978, n. 392, abrogato dall'articolo 14, comma 4, della legge 9 dicembre 1998, n. 431.
 
 Per gli immobili costruiti dopo il 31 dicembre 1997, il costo base e' determinato adeguando i valori fissati dal decreto del Ministro dei lavori pubblici in data 18 dicembre 1998, pubblicato nella Gazzetta Ufficiale n. 303 del 30 dicembre 1998, nella misura del 75 per cento della variazione accertata dall'ISTAT dell'indice dei prezzi al consumo per le famiglie di operai e impiegati verificatesi negli anni precedenti.
 
 Al costo base sono applicati i coefficienti correttivi stabiliti in funzione della classe demografica dei comuni, dell'ubicazione, del livello di piano, dello stato di conservazione e manutenzione dell'alloggio, dello stato di disagio, come individuati ai successivi commi 9, 10, 11, 12, 13 e 14.
+
+9.
+                    
+                        
+                            In relazione alla classe demografica, si applicano i seguenti coefficienti: 
+ 
+                        
+                        
+                            a)
+                            
+                                1,20 per gli immobili siti in comuni con popolazione superiore a 500.000 abitanti; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                1,10 per gli immobili siti in comuni con popolazione superiore a 250.000 abitanti; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                1,05 per gli immobili siti in comuni con popolazione superiore a 100.000 abitanti; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                0,95 per gli immobili siti in comuni con popolazione superiore a 50.000 abitanti; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                0,90 per gli immobili siti in comuni con popolazione inferiore a 50.000 abitanti.
+
+10.
+                    
+                        
+                            In relazione all'ubicazione degli immobili sul territorio comunale, si applicano i seguenti coefficienti: 
+ 
+                        
+                        
+                            a)
+                            
+                                
+                                    ((LETTERA SOPPRESSA DAL D.P.R. 23 SETTEMBRE 2020, N. 162)); 
+
+                            
+                        
+                        
+                            b)
+                            
+                                1,10 per la zona urbana compresa tra il centro storico e la zona periferica; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                1,00 per la zona urbana periferica; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                0,90 per la zona agricola.
+
+11.
+                    
+                        
+                            In relazione al livello di piano dell'alloggio, si applicano i seguenti coefficienti: 
+ 
+                        
+                        
+                            a)
+                            
+                                0,90 per gli alloggi situati al piano terreno; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                1,00 per gli alloggi situati ai piani intermedi; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                1,10 per gli alloggi situati all'ultimo piano.
+
+12.
+                    
+                        
+                            In relazione allo stato di conservazione e manutenzione dell'alloggio, si applicano i seguenti coefficienti: 
+ 
+                        
+                        
+                            a)
+                            
+                                1,00 se lo stato e' normale; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                0,80 se lo stato e' mediocre; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                0,60 se lo stato e' scadente.
 
 Lo stato di disagio sussiste qualora l'alloggio e' situato sull'area di pertinenza dell'istituto penitenziario. In tale caso si applica un coefficiente correttivo pari a 0,50.
 
@@ -148,4 +523,43 @@ La gestione amministrativo-contabile delle unita' abitative indicate ai commni 1
 ## Art. 13. — Disciplina transitoria
 
 Ai rapporti di concessione in corso alla data di entrata in vigore del presente regolamento si applicano i termini di durata previsti dagli articoli 4, 5 e 6, con decorrenza dalla data di adozione dei relativi provvedimenti.
+
+2.
+                    
+                        
+                            La durata delle concessioni di cui al comma 1 puo' essere prorogata fino ad un ulteriore biennio, qualora ricorra in capo all'assegnatario almeno una delle seguenti condizioni:
+ 
+                        
+                        
+                            a)
+                            
+                                permanenza dei titoli di cui all'articolo 6, comma 4, gia', valutati al momento dell'assegnazione;
+
+                            
+                        
+                        
+                            b)
+                            
+                                accertata impossibilita' di reperire nell'immediato altra abitazione nella localita' di servizio;
+
+                            
+                        
+                        
+                            c)
+                            
+                                sussistenza di particolari situazioni economiche connesse alla infermita' di un convivente;
+
+                            
+                        
+                        
+                            d)
+                            
+                                prossimita' del collocamento a riposo;
+
+                            
+                        
+                        
+                            e)
+                            
+                                previsto trasferimento ad altra sede.
 

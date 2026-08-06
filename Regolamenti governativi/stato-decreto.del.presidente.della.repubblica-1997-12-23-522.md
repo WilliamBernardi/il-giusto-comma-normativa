@@ -8,8 +8,8 @@ codice_redazionale: 098G0162
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti governativi
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:09Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -26,6 +26,66 @@ Sulla proposta del Presidente del Consiglio dei Ministri;
 ## - Titolo I Definizioni e compiti
 
 ## Art. 1. — Definizioni
+
+1.
+                        
+                            
+                                Ai fini del presente regolamento si intende:
+ 
+                            
+                            
+                                a)
+                                
+                                    per Autorita', l'Autorita' per l'informatica nella pubblica amministrazione;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    per Centro, il Centro tecnico previsto dall'articolo 17, comma 19, della legge 15 maggio 1997, n. 127;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    per Rete, la Rete unitaria della pubblica amministrazione;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    per amministrazioni, le amministrazioni dello Stato, anche ad ordinamento autonomo, e gli enti pubblici non economici nazionali, di cui all'articolo 1, comma 1, del decreto legislativo 12 febbraio 1993, n. 39;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    per soggetti che utilizzano la rete, le amministrazioni di cui alla lettera d) e gli altri soggetti pubblici e privati che ne hanno titolo legale o convenzionale;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    per gestore, l'organismo incaricato della prestazione di uno o piu' specifici servizi;
+
+                                
+                            
+                            
+                                g)
+                                
+                                    per sicurezza, l'insieme delle misure volte ad assicurare l'integrita', la disponibilita' e la riservatezza dei dati;
+
+                                
+                            
+                            
+                                h)
+                                
+                                    per servizi, servizi relativi al trasporto dei dati e all'interoperabilita' della rete, regolati dai contrattiquadro e dai relativi atti esecutivi previsti dall'articolo 15, comma 1, della legge 15 marzo 1997, n. 59.
 
 ## Art. 2. — Compiti del Centro
 
@@ -62,6 +122,31 @@ Il Centro presenta all'Autorita', entro il 30 maggio di ogni anno, il piano trie
 Il direttore del Centro e' nominato dall'Autorita', su proposta del presidente di quest'ultima, tra esperti di adeguata competenza e professionalita'; se dipendente pubblico, e' collocato fuori ruolo per la durata dell'incarico. Sovrintende all'esecuzione delle direttive di cui all'articolo 3, comma 1, ed e' responsabile del funzionamento del Centro, anche sotto il profilo amministrativo e contabile, nonche' dei risultati conseguiti. In caso di assenza o impedimento, e' sostituito dal funzionario responsabile di un'Area di cui all'articolo 5, da lui designato. L'incarico, della durata massima di cinque anni, puo' essere rinnovato o revocato per giusta causa.
 
 Con il provvedimento di nomina di cui al comma 1 e', altresi', determinato il trattamento economico, posto a carico del Centro, sulla base delle retribuzioni corrisposte ai dirigenti di aziende industriali.
+
+3.
+                        
+                            
+                                Ai fini dell'assolvimento dei compiti di cui all'articolo 2 e avvalendosi delle strutture di cui all'articolo 5, il direttore:
+ 
+                            
+                            
+                                a)
+                                
+                                    provvede alla direzione e gestione del personale;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    predispone annualmente il programma delle attivita' da sottoporre all'approvazione dell'Autorita', nei limiti delle risorse assegnate al Centro con le modalita' previste all'articolo 6, comma 2;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    dispone l'acquisizione dei beni, dei servizi e di quant'altro necessario per l'attuazione del programma e la gestione del Centro, salvo quanto previsto dagli articoli 6 e 7 del presente regolamento.
 
 ## Art. 5. — Personale e struttura operativa
 

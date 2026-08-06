@@ -7,8 +7,8 @@ urn: urn:nir:ministero.giustizia:decreto:2016-02-25;48
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:41Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -29,6 +29,38 @@ Acquisito il parere delle competenti Commissioni della Camera dei deputati e del
 ## Art. 1. — Oggetto del regolamento. Definizioni
 
 Il presente regolamento disciplina le modalita' e le procedure per lo svolgimento dell'esame di Stato per l'abilitazione all'esercizio della professione forense e per la valutazione delle prove scritte e orali.
+
+2.
+                    
+                        
+                            Ai fini del presente regolamento si intende per: 
+ 
+                        
+                        
+                            a)
+                            
+                                «legge»: la legge 31 dicembre 2012, n. 247; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                «commissione centrale»: la commissione di cui all'articolo 47, comma 1, della legge; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                «commissione distrettuale»: la sottocommissione di cui all'articolo 47, comma 2, della legge; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                «sottocommissione distrettuale»: la sottocommissione di cui all'articolo 47, comma 3, della legge.
 
 ## Art. 2.
 
@@ -181,6 +213,24 @@ Dopo la conclusione dell'esame di abilitazione con risultato positivo, la commis
 I compensi dei componenti effettivi e supplenti della commissione e delle sottocommissioni distrettuali, dei segretari effettivi e supplenti e del personale preposto alla vigilanza sono liquidati a norma del decreto del Ministro dell'universita' e della ricerca scientifica e tecnologica 15 ottobre 1999 e successive modificazioni, avente ad oggetto «Compensi spettanti ai componenti delle commissioni giudicatrici degli esami di Stato di abilitazione all'esercizio delle professioni».
 
 Il compenso fisso di cui al decreto indicato al comma 1 e' liquidato per intero in favore dei componenti effettivi e supplenti che hanno esaminato, nel corso delle prove scritte ed orali, un numero di candidati pari alla media dei candidati. La media dei candidati e' ricavata sommando il numero complessivo di candidati esaminati durante le prove scritte al numero complessivo di candidati esaminati durante le prove orali e dividendo il risultato ottenuto per il numero dei componenti della commissione e delle sottocommissioni distrettuali. Il compenso fisso e' altresi' liquidato per intero ai componenti della commissione e delle sottocommissioni distrettuali che hanno esaminato un numero di candidati non inferiore all'ottanta per cento della media dei candidati e non superiore al centoventi per cento della medesima media. Per ciascun componente, effettivo o supplente, della commissione e delle sottocommissioni distrettuali che ha esaminato un numero di candidati inferiore all'ottanta per cento della media, il compenso fisso e' ridotto in misura pari alla meta' dell'importo previsto dal decreto di cui al comma 1. All'esito delle riduzioni di cui al periodo precedente, gli importi che complessivamente residuano sono attribuiti a norma del comma 3.
+
+3.
+                    
+                        
+                            Ai componenti, effettivi e supplenti, della commissione e delle sottocommissioni distrettuali, che hanno esaminato un numero di candidati pari o superiore al centoventi per cento della media, e' attribuito un compenso fisso in misura corrispondente alla somma: 
+ 
+                        
+                        
+                            a)
+                            
+                                dell'importo di cui all'articolo 1, comma 1, del decreto 15 ottobre 1999; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                dell'importo costituito dalla divisione degli importi di cui al quinto periodo del comma 2 per il numero dei componenti di cui al presente comma.
 
 Le disposizioni di cui ai commi 2 e 3 si applicano anche con riguardo alla liquidazione dei compensi dei segretari effettivi e supplenti.
 

@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
 vigenza_date: 1999-10-27
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:30Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -28,9 +28,80 @@ Sulla proposta del Ministro dell'universita' e della ricerca scientifica e tecno
 
 Il presente decreto legislativo disciplina la trasformazione degli ISEF e l'istituzione della facolta' e dei corsi di laurea e di diploma in scienze motorie ai sensi dell'articolo 17, comma 115, della legge 15 maggio 1997, n. 127.
 
+2.
+                    
+                        
+                            Ai sensi del presente regolamento si intendono: 
+ 
+                        
+                        
+                            a)
+                            
+                                per ISEF, sia l'Istituto superiore di educazione fisica statale di Roma sia gli istituti superiori di educazione fisica pareggiati ai sensi della legge 7 febbraio 1988, n. 88; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                per Ministro, il Ministro dell'universita' e della ricerca scientifica e tecnologica; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                per Ministero, il Ministero dell'universita' e della ricerca scientifica e tecnologica; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                per Osservatorio, l'Osservatorio per la valutazione del sistema universitario di cui all'articolo 5, comma 23, della legge 24 dicembre 1993, n. 537; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                per universita', le universita' e gli istituti di istruzione universitaria statali e non statali che rilasciano titoli di studio con valore legale.
+
 ## Art. 2. — Istituzione del corso di laurea in scienze motorie
 
 La ricerca scientifica e gli studi di livello superiore nel campo delle scienze motorie si svolgono nelle universita'.
+
+2.
+                    
+                        
+                            Il corso di laurea in scienze motorie e' finalizzato all'acquisizione di adeguate conoscenze di metodi e contenuti culturali, scientifici e professionali nelle seguenti aree:
+ 
+                        
+                        
+                            a)
+                            
+                                didatticoeducativa, finalizzata all'insegnamento nelle scuole di ogni ordine e grado;
+
+                            
+                        
+                        
+                            b)
+                            
+                                della prevenzione e dell'educazione motoria adattata, finalizzata a soggetti di diversa eta' e a soggetti disabili;
+
+                            
+                        
+                        
+                            c)
+                            
+                                tecnicosportiva, finalizzata alla formazione nelle diverse discipline;
+
+                            
+                        
+                        
+                            d)
+                            
+                                manageriale, finalizzata all'organizzazione e alla gestione delle attivita' e delle strutture sportive.
 
 Con riferimento alle predette aree i regolamenti didattici di ateneo di cui all'articolo 11 della legge 19 novembre 1990, n. 341, definiscono il relativo ordinamento. In sede di prima applicazione i settori scientificodisciplinari caratterizzanti sono indicati nella tabella allegata.
 

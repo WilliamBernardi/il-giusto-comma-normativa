@@ -8,8 +8,8 @@ codice_redazionale: 092G0228
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:41Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -41,6 +41,53 @@ Su richiesta del Ministro del turismo e dello spettacolo e' disposta, con ordina
 
 ## Art. 2. — Tipologia sale
 
+1.
+                    
+                        
+                            Ai fini del rilascio delle autorizzazioni di competenza del Ministro del turismo e dello spettacolo si intende:
+ 
+                        
+                        
+                            a)
+                            
+                                per sala cinematografica l'insieme dei fabbricati ambienti e luoghi, nonche' dei servizi e dei disimpegni ad essi annessi, destinati alle proiezioni cinematografiche a mezzo di apparecchiature di proiezione o di altra idonea tecnologia;
+
+                            
+                        
+                        
+                            b)
+                            
+                                per cinema-teatro l'insieme dei fabbricati, ambienti e luoghi nonche' dei servizi e disimpegni ad essi annessi, destinati, oltre che alle proiezioni cinematografiche, anche alle rappresentazioni teatrali di qualsiasi genere, da effettuarsi mediante la costruzione di una struttura caratterizzata dalla scena comprendente allestimenti scenici fissi e mobili con relativi meccanismi ed attrezzature cioe' palcoscenico.
+ E' compresa nella predetta fattispecie anche la costruzione di una pedana provvista o non di allestimenti scenici, purche' realizzata nell'ambito di una sala cinematografica, per la realizzazione anche di spettacoli in forma autonoma rispetto a quelli cinematografici. La costruzione di pedana provvista o non di allestimenti scenici in qualsiasi altro locale diverso da sala cinematografica rientra nella competenza dei comuni ai sensi dell'art. 19, punti 5) e 9), del decreto del Presidente della Repubblica 24 luglio 1977, n. 616;
+
+                            
+                        
+                        
+                            c)
+                            
+                                per multisala l'insieme di due o piu' sale cinematografiche, abbisognevoli ciascuna di singola autorizzazione, ai sensi dell'art. 31 della legge 4 novembre 1965, n. 1213, adibite a programmazioni multiple, accorpate in uno stesso immobile sotto il profilo strutturale, sulla base delle vigenti norme di sicurezza.
+
+                            
+                        
+                        
+                            d)
+                            
+                                per arena il cinema all'aperto, funzionante esclusivamente nel periodo estivo, costruito su un'area delimitata ed appositamente attrezzata per le proiezioni cinematografiche;
+
+                            
+                        
+                        
+                            e)
+                            
+                                per cinema "drive in" il cinema all'aperto costruito su una area delimitata ed adibita a parcheggio di autovetture o di altri mezzi di locomozione meccanici, appositamente attrezzate per le proiezioni cinematografiche cui e' possibile assistere rimanendo a bordo del veicolo;
+
+                            
+                        
+                        
+                            f)
+                            
+                                Per cinema ambulante l'esercizio commerciale di proiezioni cinematografiche attuabile con l'impiego di attrezzature mobili installabili in luoghi chiusi o all'aperto, appositamente autorizzati.
+
 ## Art. 3. — Apertura di sale cinematografiche e teatrali
 
 L'apertura di un cinema-teatro con esclusione di quanto previsto al successivo art. 14, inteso secondo la definizione dell'art. 2, e' subordinato ad una duplice preventiva autorizzazione del Ministero del turismo e dello spettacolo, l'una prevista dall'art. 31 della legge 4 novembre 1965, n. 1213, e l'altra prevista dalla legge 18 gennaio 1937, n. 193, nonche' dalle norme di attuazione di cui al regio decreto 20 dicembre 1937, n. 2643.
@@ -49,6 +96,24 @@ L'apertura di un cinema-teatro con esclusione di quanto previsto al successivo a
  con popolazione superiore a 10.000 abitanti
 
 Il rilascio dell'autorizzazione di cui agli articoli 31 e 32 della legge 4 novembre 1965, n. 1213, e' subordinata nel biennio 1992-93 all'incremento della frequenza degli spettatori nelle sale cinematografiche di ogni singolo comune con popolazione superiore ai 10.000 abitanti, quale risulta dal censimento ufficiale e con gli eventuali successivi aggiornamenti risultanti da certificazione del comune.
+
+2.
+                    
+                        
+                            Sono considerati separatamente dai rispettivi capoluoghi, purche' distanti almeno km 2 per vie normali dal piu' vicino cinema al chiuso qualora trattasi di richiesta per tale tipo di locale e dalla piu' vicina arena qualora trattasi di richiesta per cinema estivo:
+ 
+                        
+                        
+                            a)
+                            
+                                tutte le frazioni;
+
+                            
+                        
+                        
+                            b)
+                            
+                                le borgate appartenenti a comuni con popolazione fino a 50.000 abitanti.
 
 La distanza e' calcolata rispetto al centro della frazione e della borgata.
 
@@ -110,6 +175,31 @@ Qualora si tratti di frazioni o borgate l'area prescelta per il progettato local
 
 ## Art. 9. — Deroghe particolari
 
+1.
+                    
+                        
+                            Si puo' prescindere dai criteri indicati agli articoli 4 e 6 e rilasciare l'autorizzazione ai sensi di quanto previsto dall'art. 31 della legge 4 novembre 1965, n. 1213:
+ 
+                        
+                        
+                            a)
+                            
+                                per l'apertura di una nuova sala cinematografica in capoluoghi di provincia non provvisti di sale cinematografiche con una ricettivita' superiore a cinquecento posti;
+
+                            
+                        
+                        
+                            b)
+                            
+                                per l'apertura di sale cinematografiche, di capienza non superiore a quattrocento posti, che siano esclusivamente riservate alla proiezione di film prodotti per i ragazzi, di programmi composti da soli cortometraggi premiati, di film scientifici e didattici e da manifestazioni di carattere culturale organizzate dalla Cineteca nazionale. Tali sale potranno essere destinate anche a manifestazioni organizzate dai circoli di cultura cinematografica aderenti ad associazioni nazionali riconosciute in base all'art. 44 della legge 4 novembre 1965, n. 1213, per un numero annuale di giornate di proiezione non superiore a cinquanta per ciascun circolo. Tale deroga e' ammessa limitatamente a quattro sale cinematografiche per comuni che abbiano una popolazione superiore ad 1.000.000 abitanti, a due sale per comuni che abbiano una popolazione tra i 400.000 ed 1.000.000 di abitanti, ad una sala per comuni che abbiano una popolazione tra i 50.000 e 400.000 abitanti o siano capoluoghi di provincia. Potra' inoltre, essere consentita l'apertura di una nuova sala esclusivamente riservata alla proiezione di film prodotti per i ragazzi anche nei comuni con popolazione inferiore a 50.000 abitanti provvisti di sale di tale tipo;
+
+                            
+                        
+                        
+                            c)
+                            
+                                per l'apertura di un nuovo cinema nel capoluogo di comune ove esiste un unico esercizio cinematografico il quale, se pure idoneo agli effetti della sicurezza degli spettatori, risulti non adeguato alle esigenze cinematografiche dal punto di vista della evoluzione della tecnica, della capacita' e decorosita' ricettiva.
+
 Potra' essere consentita l'apertura di una seconda sala nel capoluogo di comune ove esista un unico esercizio cinematografico la cui programmazione annuale non dia prevalente spazio ai film provvisti di nulla osta di proiezione in pubblico senza limiti di eta' ed ai film con divieto di visione per i minori degli anni quattordici. Le autorizzazioni concesse, ai sensi del presente comma, sono soggette ad una verifica annuale volta ad accertare la sussistenza dei requisiti di programmazione richiesti. Nel caso di accertamento negativo il nulla osta sara' revocato sentita la commissione di cui all'art. 52 della legge 4 novembre 1965, n. 1213.
 
 Analogamente, qualora si tratti di localita' riconosciuta stazione di cura, soggiorno e turismo e l'unico esercizio cinematografico esistente risulti insufficiente in rapporto alle esigenze di interesse turistico della localita' medesima, potra' essere consentita l'apertura di una seconda sala con agibilita' cinematografica limitata al periodo - estivo o invernale - coincidente, in base agli accertamenti eseguiti, con il maggiore afflusso di villegianti o turisti stagionali:
@@ -166,9 +256,89 @@ Ai sensi dell'art. 32 della legge 4 novembre 1965, n. 1213, i criteri di cui agl
 
 Le domande intese ad ottenere l'autorizzazione prevista dagli articoli 31 e 32 della legge 4 novembre 1965, n. 1213, indirizzate al Ministero del turismo e dello spettacolo - Direzione generale dello spettacolo - Via della Ferratella in Laterano, 51, Roma - c.a.p. 00184, devono contenere la specifica indicazione della norma in base alla quale si intende ottenere l'autorizzazione richiesta e la denominazione che si intende assegnare al cinema o cinema-teatro, con obbligo di comunicare ogni sua eventuale variazione.
 
+2.
+                    
+                        
+                            Le domande devono essere presentate, su carta legale, in duplice copia, ai comuni competenti, corredate dalla seguente documentazione:
+ 1) progetto del locale - in duplice copia firmata da un ingegnere o architetto iscritto all'albo professionale comprendente:
+ 
+                        
+                        
+                            a)
+                            
+                                una planimetria generale in scala 1:500 rappresentante l'area destinata o occupata dalla sala cinematografica e le aree adiacenti, con indicazioni esatte relative all'altimetria e alla destinazione degli edifici confinanti o prossimi, fino ad una distanza di 100 metri dal perimetro dell'edificio progettato nonche' le aree limitrofe fino allo sbocco delle strade urbane adiacenti con le rela- tive sezioni stradali.
+
+                            
+                        
+                        
+                            b)
+                            
+                                piante in scala 1:100 rappresentanti gli eventuali diversi piani dell'edificio con l'indicazione della destinazione d'uso dei singoli locali, il numero e la disposizione dei posti, le uscite di sicurezza ed i percorsi di esodo, individuati con i simboli grafici previsti dall'allegato B al decreto del Ministro dell'interno 30 novembre 1983, con l'indicazione del numero massimo di persone che permettono di far defluire, la posizione e le dimensioni delle cabine di proiezione, le installazioni e gli impianti previsti, i servizi igienici e locali destinati ad
+altri usi;
+
+                            
+                        
+                        
+                            c)
+                            
+                                sezioni longitudinali e trasversali in scala 1: 100 dell'edificio;
+
+                            
+                        
+                        
+                            d)
+                            
+                                relazione tecnico-illustrativa, comprendente anche il calcolo della sistemazione acustica;
+ 2) documento comprovante il rilascio della concessione edilizia per l'erigenda sala cinematografica da parte del comune o preventivo parere favorevole da parte della commissione edilizia comunale apposto su una copia del progetto presentato;
+ 3) documento legale comprovante la disponibilita' dell'area ove si tratti di una nuova costruzione o la disponibilita' dell'immobile ove si tratti di locale gia' esistente. In caso di locazione, dovra' essere prodotto il contratto di affitto del locale nonche' un titolo che dimostri la proprieta' dell'immobile da parte del locatore;
+ 4) una carta topografica del comune, frazione o borgata, convalidata dall'ufficio tecnico del comune, con l'indicazione del luogo preciso del costruendo locale e della distanza del cinema piu' vicino per le richieste avanzate ai sensi degli articoli 4, 5, 6 e 7 del presente regolamento. Per le richieste di trasferimento di locali cinematografici gia' in attivita', dovra' risultare con precisione l'ubicazione della nuova area rispetto a quella del preesistente lo- cale e del piu' vicino cinema;
+ 5) certificati della Societa' italiana degli autori ed editori sull'andamento delle frequenze degli spettatori o delle giornate di attivita' nella localita' interessata a seconda che trattasi di comune con popolazione superiore o inferiore a 10.000 abitanti, nelle ipotesi previste dal regolamento.
+
 La trasformazione di una sala cinematografica in due o piu' sale di cui agli articoli 2 e 11, potra' essere richiesta con una istanza corredata da un unico progetto relativo alla realizzazione del manufatto che si intende destinare a multisala.
 
 Per le sale di proiezione di film a formato ridotto, le domande debbono essere corredate dagli stessi documenti previsti nei capoversi precedenti per i cinema con apparecchi a formato normale.
+
+5.
+                    
+                        
+                            A norma dell'art. 19, numeri 5) e 9), del decreto del Presidente della Repubblica 24 luglio 1977, n. 616, i comuni provvederanno all'istruttoria delle pratiche secondo le seguenti modalita':
+ 
+                        
+                        
+                            a)
+                            
+                                accerteranno la completezza della documentazione prodotta, apponendo sulla domanda e su ogni documento allegato il proprio timbro datario;
+
+                            
+                        
+                        
+                            b)
+                            
+                                acquisiranno nei propri atti una copia della domanda e della documentazione, che sara' messa a disposizione della commissione provinciale di vigilanza sui locali di pubblico spettacolo prevista dall'art. 141 del relativo regolamento di esecuzione approvato con decreto 6 maggio 1940, n. 635;
+
+                            
+                        
+                        
+                            c)
+                            
+                                chiederanno alla prefettura la convocazione della suindicata commissione che, esaminata la documentazione, emettera' un motivo parere sul progetto presentato, imponendo, ove necessario, tutte le prescrizioni ritenute opportune per l'agibilita' del locale e redigendo apposito processo verbale. Il segretario della commissione provinciale di vigilanza apporra' il proprio visto su tutti i fogli del progetto esaminato, a certificazione che la documentazione tecnica sulla quale la commissione ha espresso il proprio parere e' quella che poi verra' acquisita agli atti dal Ministero del turismo e dello spettacolo;
+
+                            
+                        
+                        
+                            d)
+                            
+                                trasmetteranno al Ministero del turismo e dello spettacolo copia del verbale redatto dalla commissione provinciale di vigilanza, nonche' una copia della domanda e della documentazione prodotta dall'interessato. La copia del progetto presentato dovra' corrispondere esattamente a quella vistata dalla commissione provinciale di vigilanza;
+
+                            
+                        
+                        
+                            e)
+                            
+                                comunicheranno nella lettera di trasmissione, tutte le informazioni necessarie, indicando in particolare:
+ 1) il numero degli abitanti del comune, ripartito fra le singole frazioni, a convalida del certificato rilasciato all'interessato;
+ 2) il numero dei cinema e dei teatri esistenti nel centro e nelle frazioni, con la precisazione del numero dei posti e distinguendo i locali al chiuso o all'aperto (arene), compresi i locali in costruzione o in via di adattamento e per i quali sia stata gia' concessa o meno l'autorizzazione;
+ 3) a conferma delle indicazioni fornite dall'interessato, la distanza intercorrente tra l'edificanda sala cinematografica ed il cinema o l'arena piu' vicina gia' in attivita'.
 
 Nel caso in cui la localita' fosse sprovvista di sale cinematografiche o teatrali, dovra' essere fatta esplicita menzione.
 
@@ -196,6 +366,31 @@ Ulteriori proroghe - di carattere del tutto eccezionale - sia per l'inizio che p
 Le proroghe debbono essere richieste prima della scadenza del termine utile che decorre dalla data di notifica all'interessato del provvedimento autorizzativo.
 
 ## Art. 18. — Norme in materia di sicurezza e barriere architettoniche
+
+1.
+                    
+                        
+                            Nell'applicazione della presente normativa dovranno essere tenute presenti le disposizioni contenute:
+ 
+                        
+                        
+                            a)
+                            
+                                nella circolare n. 16 del 15 febbraio 1951 del Ministero dell'interno - Direzione generale servizi antincendi, recante "Norme di sicurezza, per la costruzione, l'esercizio e la vigilanza dei teatri, cinematografi ed altri locali di spettacoli in genere e suc- cessive modificazioni ed integrazioni";
+
+                            
+                        
+                        
+                            b)
+                            
+                                negli articoli 27 e 26 rispettivamente della legge 30 marzo 1971, n. 118, concernente "Conversione in legge del decreto-legge 30 gennaio 1971, n. 5, e nuove norme in favore dei mutilati ed invalidi civili" e relativo regolamento di attuazione del citato art. 27 della legge n. 118/71 a favore dei mutilati ed invalidi civili, in materia di barriere architettoniche, approvato con decreto del Presidente della Repubblica in data 27 aprile 1978, n. 384;
+
+                            
+                        
+                        
+                            c)
+                            
+                                nella vigente normativa antisismica.
 
 ## Art. 19.
 

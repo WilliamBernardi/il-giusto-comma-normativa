@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
 vigenza_date: 1995-10-10
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:39Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -32,12 +32,62 @@ Con il presente decreto viene data attuazione alla direttiva del Consiglio delle
 
 Le disposizioni del presente decreto non si applicano alle imprese individuali e societarie che esercitano l'attivita' di trasporto merci su strada con veicoli di portata utili non superiore a 3,5 tonnellate o di peso totale a terra a pieno carico non superiore a 6 tonnellate. Le imprese di cui sopra qualora intendessero esercitare con veicoli di portata e peso superiore dovranno dimostrare i requisiti di capacita' professionale e finanziaria.
 
+3.
+                    
+                        
+                            Le disposizioni del presente decreto non si applicano altresi' alle imprese individuali e societarie che esercitano, in ambito nazionale, attivita' di trasporto di merci su strada con i seguenti veicoli:
+ 
+                        
+                        
+                            a)
+                            
+                                autobetoniere anche se eccedenti i pesi legali;
+
+                            
+                        
+                        
+                            b)
+                            
+                                veicoli attrezzati con carrozzeria speciale atta al carico, alla compattazione, allo scarico e al trasporto di rifiuti solidi urbani;
+
+                            
+                        
+                        
+                            c)
+                            
+                                veicoli permanentemente attrezzati con cisterna per il carico, lo scarico e il trasporto di liquami o liquidi di spurgo dei pozzi neri.
+
 Alle imprese di cui ai commi precedenti continuano ad applicarsi le norme dettate dall'art. 13 della legge 6 giugno 1974, n. 298.
  AVVERTENZA:
  Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, comma 3, del testo unico approvato con D.P.R. 28 dicembre 1985, n. 1092, al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio.
  Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
 
 ## Art. 2. — Requisiti per l'iscrizione all'albo degli autotrasportatori
+
+1.
+                    
+                        
+                            Ai fini dell'iscrizione in via provvisoria nell'elenco di cui al sesto comma dell'art. 13 della legge 6 giugno 1974, n. 298, le imprese individuali e societarie oltre ai requisiti previsti dal gia' citato art. 13, devono dimostrare di:
+ 
+                        
+                        
+                            a)
+                            
+                                soddisfare al requisito della onorabilita';
+
+                            
+                        
+                        
+                            b)
+                            
+                                soddisfare al requisito della capacita' finanziaria;
+
+                            
+                        
+                        
+                            c)
+                            
+                                possedere adeguata capacita' professionale.
 
 Il mancato permanere dei predetti requisiti comporta la esclusione dall'elenco separato di cui al richiamato sesto comma dell'art. 13 della legge n. 298/1974, ovvero la cancellazione dall'albo ai sensi del punto 6) dell'art. 20 della stessa legge.
 
@@ -47,6 +97,59 @@ Il mancato permanere dei predetti requisiti comporta la esclusione dall'elenco s
 Le imprese di autotrasporto che richiedono l'iscrizione all'albo degli autotrasportatori di cose per conto di terzi devono, contestualmente alla domanda prodotta ai sensi degli articoli 12 e 13 della legge 6 giugno 1974, n. 298, produrre l'attestato di capacita' finanziaria riferito all'impresa e quello di capacita' professionale posseduto dal titolare dell'impresa individuale ovvero da chi dirige in maniera permanente ed effettiva l'attivita' di autotrasporto.
 
 ## Art. 4. — Requisito della onorabilita'
+
+1.
+                    
+                        
+                            Il requisito della onorabilita' non si intende soddisfatto da parte di coloro che richiedono l'iscrizione all'albo quando:
+ 
+                        
+                        
+                            a)
+                            
+                                ostino alla iscrizione espresse disposizioni di leggi e regolamenti;
+
+                            
+                        
+                        
+                            b)
+                            
+                                agli interessati siano state inflitte in via definitiva, sanzioni per infrazioni gravi e ripetute alle regolamentazioni vigenti riguardanti:
+ - le condizioni di retribuzione e di lavoro della professione;
+ - l'attivita' di trasporto ed in particolare le norme relative al periodo di guida e di riposo dei conducenti, ai pesi e dimensioni dei veicoli commerciali, alla sicurezza stradale e dei veicoli;
+
+                            
+                        
+                        
+                            c)
+                            
+                                gli interessati abbiano riportato con sentenza passata in giudicato, condanne superiori a due anni di reclusione per delitti non colposi;
+
+                            
+                        
+                        
+                            d)
+                            
+                                gli interessati abbiano riportato una qualsiasi condanna definitiva a pena detentiva per delitti contro:
+ - il patrimonio;
+ - la fede pubblica;
+ - l'ordine pubblico;
+ - l'industria e il commercio;
+
+                            
+                        
+                        
+                            e)
+                            
+                                gli interessati abbiano riportato qualsiasi condanna per reati puniti a norma degli articoli 3 e 4 della legge 20 febbraio 1958, n. 75;
+
+                            
+                        
+                        
+                            f)
+                            
+                                gli interessati risultino sottoposti con provvedimento esecutivo ad una delle misure di prevenzione previste dalla vigente normativa.
+ In tutti i precedenti casi il requisito continua a non essere soddisfatto fintanto che non sia intervenuta la riabilitazione, ovvero una misura di carattere amministrativo con efficacia riabilitativa.
 
 Il requisito della onorabilita' viene meno quando apposite disposizioni di legge lo prevedono, oltre che nei casi di cui al precedente punto 1.
 
@@ -82,6 +185,31 @@ Gli interessati per essere ammessi a sostenere l'esame di capacita' professional
 La domanda, redatta in carta legale e con firma debitamente autenticata del richiedente, dovra' essere protocollata dal segretario della competente commissione d'esame.
 
 ## Art. 7. — Documentazione inerente alle domande d'esame
+
+1.
+                    
+                        
+                            Le domande di cui al precedente articolo dovranno essere corredate da uno dei seguenti documenti:
+ 
+                        
+                        
+                            a)
+                            
+                                attestato di frequenza ad uno dei corsi di formazione professionale;
+
+                            
+                        
+                        
+                            b)
+                            
+                                diploma di scuola media superiore o diploma di laurea;
+
+                            
+                        
+                        
+                            c)
+                            
+                                dichiarazione sostitutiva di atto notorio resa da imprese iscritte all'albo ed in possesso di autorizzazione da cui risulti che il candidato abbia svolto per almeno un anno attivita' direzionale dell'impresa nei termini di cui al successivo art. 8, secondo comma.
 
 I corsi professionali sono affidati ad organismi di formazione professionale con ampia e documentata esperienza, previa autorizzazione del Ministero dei trasporti - Direzione generale M.C.T.C.
 
@@ -149,6 +277,24 @@ A tal fine dovra' essere elaborato un numero di quiz congruo per ogni gruppo di 
 I risultati dello studio saranno trasmessi al comitato centrale per l'albo degli autotrasportatori per il parere di cui alla legge 6 giugno 1974, n. 298, art. 8, lettera e).
 
 ## Art. 14. — Disposizioni relative alla capacita' professionale
+
+1.
+                    
+                        
+                            Il requisito della capacita' professionale deve essere posseduto:
+ 
+                        
+                        
+                            a)
+                            
+                                qualora trattisi di impresa individuale, anche a carattere familiare, dal titolare o dalla persona o dalle persone da lui desig- nate che dirigono l'attivita' di trasporto dell'azienda in maniera permanente ed effettiva. La persona o le persone designate dovranno risultare regolarmente inserite nella struttura dell'impresa di autotrasporto in qualita' di amministratore, dipendente o collaboratore familiare.
+
+                            
+                        
+                        
+                            b)
+                            
+                                qualora trattisi di societa', dalla o dalle persone che dirigono l'attivita' di trasporto della societa' in maniera permanente ed effettiva.
 
 ## Art. 15. — Trasporti nazionali e internazionali
 

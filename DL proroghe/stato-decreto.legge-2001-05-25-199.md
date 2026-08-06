@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: DL proroghe
 vigenza_date: 2001-07-28
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:39:27Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO-LEGGE
@@ -27,6 +27,24 @@ Sulla proposta del Presidente del Consiglio dei Ministri e del Ministro delle po
 
 ## Art. 1.
 
+1.
+                    
+                        
+                            Al decreto-legge 11 gennaio 2001, n. 1, convertito, con modificazioni, dalla legge 9 marzo 2001, n. 49, sono apportate le seguenti modificazioni:
+ 
+                        
+                        
+                            a)
+                            
+                                all'articolo 1, comma 6, le parole: "fino al 31 maggio 2001" sono sostituite dalle seguenti: "((fino al 31 dicembre 2001))";
+
+                            
+                        
+                        
+                            b)
+                            
+                                all'articolo 2, comma 1, le parole: "fino al 31 maggio 2001" sono sostituite dalle seguenti: "((fino al 31 dicembre 2001))".
+
 ## Art. 1-bis.
 
 ((
@@ -38,6 +56,24 @@ Agli oneri derivanti dalla proroga dei termini di cui all'articolo 1, pari a lir
 ## Art. 1-ter.
 
 ((
+
+1.
+                    
+                        
+                            All'articolo 7-ter del decreto-legge 11 gennaio 2001, n. 1, convertito, con modificazioni, dalla legge 9 marzo 2001, n. 49, sono apportate le seguenti modificazioni:
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 2, le parole: "sono sospesi per sei mesi, a decorrere dalla data di entrata in vigore del decreto-legge 14 febbraio 2001, n. 8" sono sostituite dalle seguenti: "sono sospesi, a decorrere dalla data di entrata in vigore del decreto-legge 14 febbraio 2001, n. 8, e fino al 15 dicembre 2001";
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 3, le parole: "per la durata di sei mesi dalla data di entrata in vigore del presente decreto" sono sostituite dalle seguenti: "dalla data di entrata in vigore del presente decreto e fino al 31 dicembre 2001".
 
 In caso di conferma della positivita' dei risultati del test di diagnosi rapida per l'accertamento dell'encefalopatia spongiforme bovina e qualora ricorrano le condizioni di cui all'allegato VII, punto 2, lettera a), del regolamento (CE) n. 999/2001 del Parlamento europeo e del Consiglio, del 22 maggio 2001, come sostituito dall'allegato II del regolamento (CE) n. 1326/2001 della Commissione, del 29 giugno 2001, non si procede all'abbattimento ed alla distruzione di tutti i bovini dell'azienda in cui e' stata confermata la malattia di un animale.
 

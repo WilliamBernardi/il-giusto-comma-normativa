@@ -10,7 +10,7 @@ source: normattiva-opendata
 collection: Atti di recepimento direttive UE
 vigenza_date: 2022-02-01
 zip_date: 2026-07-30
-fetched_at: 2026-08-02T09:40:50Z
+fetched_at: 2026-07-30
 ---
 
 DECRETO LEGISLATIVO
@@ -410,6 +410,46 @@ Informazioni supplementari cui ha diritto il consumatore e indicazioni specifich
  Firma del consumatore".
 
 ## Art. 3. — Abrogazioni
+
+1.
+                    
+                        
+                            Dalla data di entrata in vigore del presente decreto sono abrogati: 
+ 
+                        
+                        
+                            a)
+                            
+                                il decreto del Presidente della Repubblica 4 agosto 1957, n. 918; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                la legge 4 marzo 1958, n. 174, ad esclusione del titolo III ; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                la legge 21 marzo 1958, n. 326; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                la legge 12 marzo 1968, n. 326; 
+ f) la legge 25 agosto 1991, n. 284; 
+ g) l'articolo 16 della legge 7 agosto 1997, n. 266; 
+ h) il decreto-legge 4 novembre 1988, n. 465, convertito, con modificazioni, dalla legge 30 dicembre, 1988, n. 556; 
+ i) il decreto legislativo 23 novembre 1991, n. 392; 
+ l) la legge 29 marzo 2001, n. 135; 
+ m) gli articoli 82, 83, 84, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 95, 96, 97, 98, 99 e 100 del decreto legislativo 6 settembre 2005, n. 206; 
+ n) il comma 4 dell'articolo 10 del decreto-legge 31 gennaio del 2007, n. 7, convertito, con modificazioni, dalla legge 2 aprile 2007, n. 40; 
+ o) l'articolo 83 del decreto legislativo 26 marzo 2010, n. 59.
 
 La legge 27 dicembre 1977, n. 1084, che ha reso esecutiva la Convenzione internazionale sul contratto di viaggio (CCV) del 23 aprile 1970, e' abrogata a decorrere dal momento in cui diviene efficace la denuncia dello Stato italiano della Convenzione internazionale sul contratto di viaggio del 23 aprile 1970, in conformita' a quanto disposto dall'articolo 37 della medesima.
 

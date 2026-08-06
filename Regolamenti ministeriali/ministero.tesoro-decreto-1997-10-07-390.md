@@ -8,8 +8,8 @@ codice_redazionale: 097G0427
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:42Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -32,6 +32,31 @@ La concessione dei mutui ad una impresa, ad una cooperativa o ad altro soggetto 
 La garanzia dello Stato non copre operazioni di finanziamento diverse dai mutui edilizi, ancorche' ad essi preordinate, e diviene operante allorche' la banca abbia osservato quanto disposto nei commi precedenti.
 
 ## Art. 2.
+
+1.
+                    
+                        
+                            In caso di inadempimento del mutuatario, la garanzia prevista dall'articolo 6, comma 6, della legge 17 febbraio 1992, n. 179, diviene operante in seguito alla cancellazione delle ipoteche iscritte e nei limiti dell'importo cancellato, nei seguenti casi:
+ 
+                        
+                        
+                            a)
+                            
+                                per sopravvenuto accertamento della inefficacia definitiva delle iscrizioni ritualmente effettuate sugli immobili rimasti altrui;
+
+                            
+                        
+                        
+                            b)
+                            
+                                per definitivo annullamento, senza possibilita' di rinnovazione, del decreto di espropriazione, se gli immobili ipotecati non sono stati altrimenti acquisiti dal comune o dal consorzio di comuni;
+
+                            
+                        
+                        
+                            c)
+                            
+                                per consolidamento dell'atto che dispone la risoluzione della cessione dell'area in proprieta' o la decadenza dalla concessione in superficie sull'area stessa, se la legge non prescrive il subentro del comune ai sensi dell'articolo 37 della legge 22 ottobre 1971, n. 865.
 
 ## Art. 3.
 

@@ -8,8 +8,8 @@ vigente: true
 source: normattiva-opendata
 collection: Regolamenti governativi
 vigenza_date: 2017-07-07
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:10Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -27,6 +27,31 @@ Sulla proposta del Presidente del Consiglio dei ministri, dei Ministri della dif
 
 ## Art. 1. — Definizioni
 
+1.
+                    
+                        
+                            Ai fini del presente regolamento si intende per: 
+ 
+                        
+                        
+                            a)
+                            
+                                composizione corporea: la percentuale di massa grassa presente nell'organismo, valutata tramite bioimpedenziometria; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                forza muscolare: la forza del muscolo striato valutata con dinamometro alla mano dominante espressa in chilogrammi (Kg); 
+
+                            
+                        
+                        
+                            c)
+                            
+                                massa metabolicamente attiva: la percentuale di massa magra teorica dell'organismo che riveste una rilevanza metabolica con riferimento all'apparato muscolare valutata con bioimpedenziometria.
+
 ## Art. 2.
 
 Finalita' e ambito di applicazione
@@ -43,6 +68,50 @@ Al fine di tener conto di eventuali condizioni tecniche o individuali, e' consid
 
 ## Art. 4. — Disposizioni di adeguamento del decreto del Presidente della Repubblica 15 marzo 2010, n. 90, discendenti dalla legge 12 gennaio 2015, n. 2
 
+1.
+                    
+                        
+                            Al decreto del Presidente della Repubblica 15 marzo 2010, n. 90, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                all'articolo 586, comma 1, lettera b), la parola: «statura,» e' soppressa; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al libro quarto, titolo II, capo II, la rubrica della sezione III e' sostituita dalla seguente: «Requisiti fisici»; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                l'articolo 587 e' sostituito dal seguente: 
+ «Art. 587 (Parametri fisici). - 1. Per l'ammissione ai concorsi per il reclutamento del personale delle Forze armate i concorrenti devono rientrare nei valori limite di ciascuno dei seguenti parametri fisici: 
+ a) composizione corporea: percentuale di massa grassa nell'organismo non inferiore al 7 per cento e non superiore al 22 per cento per i candidati di sesso maschile, e non inferiore al 12 per cento e non superiore al 30 per cento per le candidate di sesso femminile; 
+ b) forza muscolare: non inferiore a 40 kg per i candidati di sesso maschile, e non inferiore a 20 kg per le candidate di sesso femminile; 
+ c) massa metabolicamente attiva: percentuale di massa magra teorica presente nell'organismo non inferiore al 40 per cento per i candidati di sesso maschile, e non inferiore al 28 per cento per le candidate di sesso femminile. 
+ 2. Al fine di tener conto di eventuali condizioni tecniche o individuali, e' considerata ammissibile una percentuale di adeguamento dei valori forniti dagli strumenti di misurazione fino a un massimo del dieci per cento rispetto ai valori limite indicati al comma 1.»; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                dall'articolo 957, comma 2, lettera a), le parole: «, e per i quali non si applicano i limiti di altezza previsti per il reclutamento» sono soppresse; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                all'articolo 958, comma 2, lettera a), le parole: «, e per i quali non si applicano i limiti di altezza previsti per il reclutamento» sono soppresse.
+
 ## Art. 5. — Disposizioni transitorie e finali
 
 Le amministrazioni interessate verificano l'adeguatezza dei valori parametrali individuati nel presente regolamento in relazione allo sviluppo delle conoscenze scientifiche, al fine di promuovere e attivare gli eventuali correttivi.
@@ -52,6 +121,38 @@ Con apposite direttive tecniche, soggette a eventuale aggiornamento anche in rel
 Le disposizioni recate dal presente regolamento si applicano ai concorsi per il reclutamento del personale delle Forze armate e per l'accesso ai ruoli del personale delle Forze di polizia a ordinamento militare e civile e del Corpo dei vigili del fuoco i cui bandi sono pubblicati nella Gazzetta Ufficiale della Repubblica italiana in data successiva alla sua entrata in vigore.
 
 ## Art. 6. — Abrogazioni
+
+1.
+                    
+                        
+                            Dalla data di entrata in vigore del presente regolamento: 
+ 
+                        
+                        
+                            a)
+                            
+                                sono abrogati gli articoli 3, 4 e 5 del decreto del Presidente del Consiglio dei ministri 22 luglio 1987, n. 411, e successive modificazioni; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                all'articolo 2, comma 2, del decreto del Presidente della Repubblica 18 dicembre 2002, n. 316, le parole: «, escluso quello di cui al comma 1, lettera e)» sono soppresse; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                la lettera h) del comma 1 dell'articolo 2 del decreto del Presidente della Repubblica 12 ottobre 2004, n. 287, e il n. 9) della lettera b) del comma 1 dell'articolo 3 del citato decreto del Presidente della Repubblica n. 287 del 2004 sono soppressi; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                all'articolo 1, comma 1, lettera b), del decreto del Presidente della Repubblica 27 febbraio 1991, n. 132, le parole: «statura determinata ai sensi dell'articolo 2 della legge 13 dicembre 1986, n. 874» sono soppresse.
 
 Dalla data di entrata in vigore del presente regolamento, fermo restando quanto previsto dall'articolo 5, comma 3, non e' piu' applicabile, altresi', nessuna disposizione di natura regolamentare o amministrativa, che preveda limiti di altezza in materia di reclutamenti del personale delle Forze armate e per l'accesso ai ruoli del personale delle Forze di polizia a ordinamento militare e civile e del Corpo dei vigili del fuoco.
 

@@ -8,8 +8,8 @@ codice_redazionale: 005G0044
 vigente: true
 source: normattiva-opendata
 collection: DPR
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:47:50Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -48,6 +48,31 @@ La rappresentazione grafica della bandiera d'Istituto del Corpo e' contenuta nel
 ## Art. 3. — Custodia e uso della bandiera
 
 La bandiera d'Istituto del Corpo e' custodita nell'ufficio dell'Ispettore generale capo del Corpo nazionale dei vigili del fuoco, in apposita teca, libera dal fodero. Fuori della sede ordinaria, la bandiera e' custodita in idoneo locale.
+
+2.
+                    
+                        
+                            La bandiera d'Istituto del Corpo viene spiegata alla presenza ufficiale del Capo dello Stato e, altresi', in occasione:
+ 
+                        
+                        
+                            a)
+                            
+                                della festa del Corpo;
+
+                            
+                        
+                        
+                            b)
+                            
+                                di cerimonie di consegna di ricompense al valore;
+
+                            
+                        
+                        
+                            c)
+                            
+                                di altre circostanze stabilite dal Capo del Dipartimento dei vigili del fuoco, del soccorso pubblico e della difesa civile.
 
 Nelle giornate di lutto nazionale, la bandiera d'Istituto del Corpo, se esposta, viene abbrunata con un velo nero, annodato a fiocco sotto il puntale.
 

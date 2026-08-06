@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
 vigenza_date: 2026-01-01
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:32Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -175,6 +175,25 @@ La estinzione anticipata del mutuo o la vendita del fondo acquistato con i sudde
 
 Non incorre nella decadenza dei benefici l'acquirente che, durante il periodo vincolativo di cui ai commi 1 e 2, ferma restando la destinazione agricola, alieni il fondo o conceda il godimento dello stesso a favore del coniuge, di parenti entro il terzo grado o di affini entro il secondo grado, che esercitano l'attivita' di imprenditore agricolo di cui all'articolo 2135 del codice civile, come sostituito dall'articolo 1 del presente decreto. Le disposizioni del presente comma si applicano anche in tutti i casi di alienazione conseguente all'attuazione di politiche comunitarie, nazionali e regionali volte a favorire l'insediamento di giovani in agricoltura o tendenti a promuovere il prepensionamento nel settore.
 
+4.
+                        
+                            
+                                All'articolo 11 della legge 14 agosto 1971, n. 817, sono apportate le seguenti modificazioni:
+ 
+                            
+                            
+                                a)
+                                
+                                    al primo comma, le parole: "trenta anni" sono sostituite dalle seguenti: "quindici anni";
+
+                                
+                            
+                            
+                                b)
+                                
+                                    dopo il terzo comma e' inserito il seguente:
+ "Il suddetto vincolo puo' essere, altresi', revocato, secondo le modalita' di cui al precedente comma, nel caso in cui sia mutata la destinazione agricola del fondo per effetto degli strumenti urbanistici vigenti (( , a condizione che la porzione di terreno interessata sia tale da consentire l'efficiente prosecuzione dell'attivita' agricola sulla restante superficie. Il riscatto anticipato da parte dell'assegnatario avviene sulla base del valore attribuito al terreno all'epoca dell'assegnazione. ))"
+
 ((
 
 Il vincolo di indivisibilita' di cui all'articolo 11 della legge 14 agosto 1971, n. 817, come modificato dall'articolo 11, comma 4, del decreto legislativo del 18 maggio 2001, n. 228, gravante sui terreni assegnati attraverso il regime di aiuto fondiario n. 110/2001/Italia puo' essere, altresi', revocato dall'Istituto di servizi per il mercato agricolo alimentare, limitatamente alla porzione di terreno interessata dalla procedura espropriativa finalizzata alla realizzazione di opere pubbliche o di pubblica utilita' da parte di un soggetto pubblico o privato.
@@ -193,6 +212,67 @@ Entro trenta giorni dalla data di entrata in vigore del presente decreto, le ris
 ## Art. 13. — (Distretti del cibo)
 
 Al fine di promuovere lo sviluppo territoriale, la coesione e l'inclusione sociale, favorire l'integrazione di attivita' caratterizzate da prossimita' territoriale, garantire la sicurezza alimentare, diminuire l'impatto ambientale delle produzioni, ridurre lo spreco alimentare e salvaguardare il territorio e il paesaggio rurale attraverso le attivita' agricole e agroalimentari, sono istituiti i distretti del cibo.
+
+2.
+                        
+                            
+                                Si definiscono distretti del cibo: 
+ 
+                            
+                            
+                                a)
+                                
+                                    i distretti rurali quali sistemi produttivi locali di cui all'articolo 36, comma 1, della legge 5 ottobre 1991, n. 317, caratterizzati da un'identita' storica e territoriale omogenea derivante dall'integrazione fra attivita' agricole e altre attivita' locali, nonche' dalla produzione di beni o servizi di particolare specificita', coerenti con le tradizioni e le vocazioni naturali e territoriali, gia' riconosciuti alla data di entrata in vigore della presente disposizione; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    i distretti agroalimentari di qualita' quali sistemi produttivi locali, anche a carattere interregionale, caratterizzati da significativa presenza economica e da interrelazione e interdipendenza produttiva delle imprese agricole e agroalimentari, nonche' da una o piu' produzioni certificate e tutelate ai sensi della vigente normativa europea o nazionale, oppure da produzioni tradizionali o tipiche, gia' riconosciuti alla data di entrata in vigore della presente disposizione; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    i sistemi produttivi locali caratterizzati da una elevata concentrazione di piccole e medie imprese agricole e agroalimentari, di cui all'articolo 36, comma 1, della legge 5 ottobre 1991, n. 317; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    i sistemi produttivi locali anche a carattere interregionale, caratterizzati da interrelazione e interdipendenza produttiva delle imprese agricole e agroalimentari, nonche' da una o piu' produzioni certificate e tutelate ai sensi della vigente normativa europea, nazionale e regionale; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    i sistemi produttivi locali localizzati in aree urbane o periurbane caratterizzati dalla significativa presenza di attivita' agricole volte alla riqualificazione ambientale e sociale delle aree; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    i sistemi produttivi locali caratterizzati dall'interrelazione e dall'integrazione fra attivita' agricole, in particolare quella di vendita diretta dei prodotti agricoli, e le attivita' di prossimita' di commercializzazione e ristorazione esercitate sul medesimo territorio, delle reti di economia solidale e dei gruppi di acquisto solidale; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    i sistemi produttivi locali caratterizzati dalla presenza di attivita' di coltivazione, allevamento, trasformazione, preparazione alimentare e agroindustriale svolte con il metodo biologico o nel rispetto dei criteri della sostenibilita' ambientale, conformemente alla normativa europea, nazionale e regionale vigente; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    i biodistretti e i distretti biologici, intesi come territori per i quali agricoltori biologici, trasformatori, associazioni di consumatori o enti locali abbiano stipulato e sottoscritto protocolli per la diffusione del metodo biologico di coltivazione, per la sua divulgazione nonche' per il sostegno e la valorizzazione della gestione sostenibile anche di attivita' diverse dall'agricoltura.
+Nelle regioni che abbiano adottato una normativa specifica in materia di biodistretti o distretti biologici si applicano le definizioni stabilite dalla medesima normativa.
 
 Le regioni e le province autonome provvedono all'individuazione dei distretti del cibo e alla successiva comunicazione al Ministero delle politiche agricole alimentari e forestali, presso il quale e' costituito il Registro nazionale dei distretti del cibo.
 
@@ -236,6 +316,31 @@ Le convenzioni di cui al comma 1 definiscono le prestazioni delle pubbliche ammi
  delle imprese gestite direttamente
  dai produttori agricoli
 
+1.
+                        
+                            
+                                Il regime di aiuti istituito dall'articolo 13, comma 1, del decreto legislativo 30 aprile 1998, n. 173, e' finalizzato anche a favorire il riorientamento delle filiere produttive nell'ottica della sicurezza alimentare e della tracciabilita' degli alimenti e si applica prioritariamente a favore delle imprese gestite direttamente dai produttori agricoli, ivi comprese:
+ 
+                            
+                            
+                                a)
+                                
+                                    le societa' cooperative agricole e loro consorzi che utilizzano prevalentemente prodotti conferiti dai soci;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le organizzazioni di produttori e loro forme associate riconosciute ai sensi dell'articolo 26 del presente decreto;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    le societa' di capitali in cui oltre il 50 per cento del capitale sociale sia sottoscritto da imprenditori agricoli o dalle societa' di cui alle lettere a) e b).
+
 ## Art. 17. — Trasferimento di adeguato vantaggio
  economico ai produttori agricoli
 
@@ -246,6 +351,31 @@ Le amministrazioni competenti in relazione all'attuazione dell'intervento indivi
 Al fine di consentire l'effettivo trasferimento del vantaggio economico ai produttori da parte delle imprese beneficiarie delle provvidenze di cui alla legge 8 agosto 1991, n. 252, anche ai soggetti che subiscono gli effetti negativi derivanti dall'epidemia di encefalopatia spongiforme bovina, l'impegno a non cedere o alienare assunto relativamente agli investimenti di cui alla lettera c) dell'allegato C alla circolare del Ministro dell'agricoltura e delle foreste 1o ottobre 1991, n. 265, si intende a tutti gli effetti assolto purche' esso sia stato rispettato per almeno un terzo del periodo inizialmente previsto.
 
 ## Art. 18. — Promozione dei processi di tracciabilita'
+
+1.
+                        
+                            
+                                Con atto di indirizzo e coordinamento deliberato dal Consiglio dei Ministri, su proposta del Ministro delle politiche agricole e forestali, di concerto con il Ministro dell'industria, del commercio e dell'artigianato ed il Ministro della sanita', d'intesa con la Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome, da adottare entro sessanta giorni dalla data di entrata in vigore del presente decreto legislativo, sono definite le modalita' per la promozione, in tutte le fasi della produzione e della distribuzione, di un sistema volontario di tracciabilita' degli alimenti, dei mangimi e degli animali destinati alla produzione alimentare e delle sostanze destinate o atte a far parte di un alimento o di un mangime in base ai seguenti criteri:
+ 
+                            
+                            
+                                a)
+                                
+                                    favorire la massima adesione al sistema volontario di tracciabilita' anche attraverso accordi di filiera;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    definire un sistema di certificazione atto a garantire la tracciabilita', promuovendone la diffusione;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    definire un piano di controllo allo scopo di assicurare il corretto funzionamento del sistema di tracciabilita'.
 
 Le amministrazioni competenti, al fini dell'accesso degli esercenti attivita' agricola, alimentare o mangimistica ai contributi previsti dall'ordinamento nazionale, assicurano priorita' alle imprese che assicurano la tracciabilita', certificata ai sensi dell'atto di indirizzo e coordinamento.
 
@@ -266,6 +396,49 @@ Le modalita' delle ulteriori attivita' di concertazione presso il Ministero dell
 ## Art. 21. — Norme per la tutela dei territori con produzioni
  agricole di particolare qualita' e tipicita'
 
+1.
+                        
+                            
+                                Fermo quanto stabilito dal decreto legislativo 5 febbraio 1997, n. 22, come modificato dal decreto legislativo 8 novembre 1997, n. 389, e senza nuovi o maggiori oneri a carico dei rispettivi bilanci, lo Stato, le regioni e gli enti locali tutelano, nell'ambito delle rispettive competenze:
+ 
+                            
+                            
+                                a)
+                                
+                                    la tipicita', la qualita', le caratteristiche alimentari e nutrizionali, nonche' le tradizioni rurali di elaborazione dei prodotti agricoli e alimentari a denominazione di origine controllata (DOC), a denominazione di origine controllata e garantita (DOCG), a denominazione di origine protetta (DOP), a indicazione geografica protetta (IGP) e a indicazione geografica tutelata (IGT);
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le aree agricole in cui si ottengono prodotti con tecniche dell'agricoltura biologica ai sensi del regolamento (CEE) n. 2092/91 del Consiglio, del 24 giugno 1991;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    le zone aventi specifico interesse agrituristico.
+
+2.
+                        
+                            
+                                La tutela di cui al comma 1 e' realizzata, in particolare, con:
+ 
+                            
+                            
+                                a)
+                                
+                                    la definizione dei criteri per l'individuazione delle aree non idonee alla localizzazione degli impianti di smaltimento e recupero dei rifiuti, di cui all'articolo 22, comma 3, lettera e), del decreto legislativo 5 febbraio 1997, n. 22, come modificato dall'articolo 3 del decreto legislativo 8 novembre 1997, n. 389, e l'adozione di tutte le misure utili per perseguire gli obiettivi di cui al comma 2 dell'articolo 2 del medesimo decreto legislativo n. 22 del 1997;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'adozione dei piani territoriali di coordinamento di cui all'articolo 15, comma 2, della legge 8 giugno 1990, n. 142, e l'individuazione delle zone non idonee alla localizzazione di impianti di smaltimento e recupero dei rifiuti ai sensi dell'articolo 20, comma 1, lettera e), del citato decreto legislativo n. 22 del 1997, come modificato dall'articolo 3 del decreto legislativo n. 389 del 1997.
+
 ## Art. 22. — Sorveglianza rinforzata
 
 I vegetali, le sementi, i prodotti antiparassitari di uso agricolo e i prodotti assimilati, i fertilizzanti, i composti e i materiali di sostegno, che sono composti in tutto o in parte di organismi geneticamente modificati, sono soggetti ad uno specifico monitoraggio territoriale.
@@ -283,6 +456,40 @@ Le denominazioni "montagna", "prodotto di montagna" e simili possono essere util
 Con decreto del Ministro dell'industria, del commercio e dell'artigianato, di concerto con i Ministri delle politiche agricole e forestali e della sanita', sentita la Conferenza permanente per i rapporti tra Stato e regioni, sono definiti, entro centottanta giorni dalla data di entrata in vigore del presente decreto, i criteri per promuovere l'indicazione in etichetta delle modalita' di conservazione dei prodotti agroalimentari in relazione al tempo ed alla temperatura da riportare all'interno ed all'esterno degli imballaggi preconfezionati di prodotti agroalimentari freschi, refrigerati e surgelati di breve durabilita'.
 
 ## Art. 25. — Organizzazioni interprofessionali
+
+1.
+                        
+                            
+                                All'articolo 12 del decreto legislativo 30 aprile 1998, n. 173, sono apportate le seguenti modificazioni:
+ 
+                            
+                            
+                                a)
+                                
+                                    al comma 1, all'alinea, le parole: "qualsiasi organismo che" sono sostituite dalle seguenti: "un'associazione costituita ai sensi degli articoli 14 e seguenti del codice civile e riconosciuta ai sensi del decreto del Presidente della Repubblica 10 febbraio 2000, n. 361";
+
+                                
+                            
+                            
+                                b)
+                                
+                                    al comma 1, la lettera a) e' sostituita dalla seguente:
+ "a) raggruppi organizzazioni nazionali di rappresentanza delle attivita' economiche connesse con la produzione, il commercio e la trasformazione dei prodotti agricoli";
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il comma 2 e' sostituito dai seguenti:
+ "2. Le organizzazioni possono costituire fondi per il conseguimento dei fini istituzionali, imporre contributi e regole obbligatorie per tutte le imprese aderenti, in base alla normativa comunitaria ed alle disposizioni previste dal decreto di cui al comma 2-quater. Al fine dell'imposizione dei contributi e delle regole predette le delibere devono essere adottate con il voto favorevole di almeno l'85% degli associati interessati al prodotto.
+ 2-bis. Il riconoscimento puo' essere concesso ad una sola organizzazione interprofessionale per prodotto, che puo' articolarsi in sezioni regionali o interregionali.
+ 2-ter. Gli accordi conclusi in seno ad una organizzazione interprofessionale non possono comportare restrizioni della concorrenza ad eccezione di quelli che risultino da una programmazione previsionale e coordinata della produzione in funzione degli sbocchi di mercato o da un programma di miglioramento della qualita' che abbia come conseguenza diretta una limitazione del volume di offerta. Gli accordi sono in tali casi adottati all'unanimita' degli associati interessati al prodotto.
+ 2-quater. Con decreto del Ministro delle politiche agricole e forestali di concerto con il Ministro dell'industria, del commercio e dell'artigianato, sentita la Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome di Trento e Bolzano, sono definiti i criteri e le modalita' per:
+ a) l'individuazione delle organizzazioni nazionali di cui alla lettera b) del comma 1;
+ b) il riconoscimento ed i controlli delle organizzazioni interprofessionali;
+ c) la nomina degli amministratori;
+ d) la definizione delle condizioni per estendere anche alle imprese non aderenti le regole approvate ai sensi del comma 2, sempreche' l'organizzazione interprofessionale dimostri di controllare almeno il 75 per cento della produzione o della commercializzazione sul territorio nazionale.".
 
 ## Art. 26. — ((ARTICOLO SOPPRESSO DAL D.LGS. 27 MAGGIO 2005, N. 102))
 
@@ -349,6 +556,24 @@ La garanzia diretta e la cogaranzia sono concesse nel rispetto delle disposizion
 Le disposizioni del presente decreto si applicano alle regioni a statuto speciale ed alle province autonome di Trento e di Bolzano nel rispetto e nei limiti degli statuti di autonomia e delle relative norme di attuazione.
 
 ## Art. 36. — Disposizioni finanziarie
+
+1.
+                        
+                            
+                                Agli oneri derivanti dal presente decreto, quantificati complessivamente in lire 83,895 miliardi per l'anno 2001 e in lire 95,895 miliardi a decorrere dal 2002, di cui lire 68,963 miliardi per l'articolo 1, comma 2, lire 7,052 miliardi per l'articolo 3, lire 12 miliardi a decorrere dal 2002 per l'articolo 8, lire 56 milioni per l'articolo 9, lire 7,824 miliardi per l'articolo 10, si provvede:
+ 
+                            
+                            
+                                a)
+                                
+                                    per gli anni 2001 e 2002 mediante riduzione dell'autorizzazione di spesa recata dall'articolo 25 della legge 17 maggio 1999, n. 144, come rifinanziata dalla legge 23 dicembre 2000, n. 388;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    per l'anno 2003 mediante riduzione dell'autorizzazione di spesa recata - ai sensi dell'articolo 7 del decreto legislativo 27 maggio 1999, n. 165 - dalla tabella C della legge 23 dicembre 2000, n. 388.
 
 Il Ministro del tesoro, del bilancio e della programmazione economica e' autorizzato ad apportare, con propri decreti, le occorrenti variazioni di bilancio.
 

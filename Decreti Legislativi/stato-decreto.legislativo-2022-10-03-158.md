@@ -7,8 +7,8 @@ urn: urn:nir:stato:decreto.legislativo:2022-10-03;158
 vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:29Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -24,4 +24,25 @@ Sulla proposta del Presidente del Consiglio dei Ministri e del Ministro per gli 
 
 ## Art. 1. — Modifiche all'articolo 36-bis del decreto 
  del Presidente della Repubblica 15 luglio 1988, n. 574
+
+1.
+                    
+                        
+                            All'articolo 36-bis, comma 1, del decreto del Presidente della Repubblica 15 luglio 1988, n. 574, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                
+                                    al secondo periodo, le parole: «dal regio decreto-legge 27 novembre 1933, n. 1578
+                                        » sono sostituite dalle seguenti: «dalla disciplina legislativa statale vigente»;
+                                
+                            
+                        
+                        
+                            b)
+                            
+                                
+                                    e' aggiunto, in fine, il seguente periodo: «Nell'ambito della commissione esaminatrice, il componente docente puo' essere nominato, come membro titolare o supplente, anche tra i docenti di materie giuridiche italiane presso universita' austriache che abbiano concluso un accordo con un'universita' italiana ai sensi dell'accordo tra la Repubblica italiana e la Repubblica d'Austria sulla collaborazione interuniversitaria, firmato a Vienna il 20 agosto 1982, al quale e' stata data esecuzione con il decreto del Presidente della Repubblica 5 febbraio 1983, n. 98.».
 

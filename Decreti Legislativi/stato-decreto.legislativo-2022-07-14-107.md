@@ -7,8 +7,8 @@ urn: urn:nir:stato:decreto.legislativo:2022-07-14;107
 vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:23Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -30,6 +30,25 @@ All'articolo 12 del decreto del Presidente della Repubblica 15 luglio 1988, n. 3
 
 ## Art. 2. — Modifiche all'articolo 17 del decreto del Presidente 
  della Repubblica 15 luglio 1988, n. 305
+
+1.
+                    
+                        
+                            All'articolo 17 del decreto del Presidente della Repubblica 15 luglio 1988, n. 305, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                il comma 1-bis e' sostituito dal seguente: «1-bis. La dotazione organica di ciascuna sezione di controllo di cui alle tabelle A e C allegate al presente decreto include due consiglieri nominati con le modalita' e in possesso dei requisiti previsti dall'articolo unico del decreto del Presidente della Repubblica 8 luglio 1977, n. 385 e dalle conseguenti disposizioni regolamentari del Consiglio di presidenza, concernenti i consiglieri di nomina governativa, sulla base di designazione, rispettivamente, del Consiglio della Provincia autonoma di Trento e di quello della Provincia autonoma di Bolzano. La nomina a consigliere ai sensi del presente comma ha effetto fino al collocamento a riposo dello stesso.
+L'assegnazione alla sezione di prima nomina ha la durata minima di 10 anni. Alla scadenza, i consiglieri nominati ai sensi del presente articolo possono essere assegnati esclusivamente ad altra sezione di controllo con carenza di organico avente sede a Trento e a Bolzano, salvo quanto previsto dall'articolo 38 del decreto del Presidente della Repubblica 26 luglio 1976, n. 752. Gli stessi consiglieri non possono accedere al ruolo di presidente di sezione.»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                dopo il comma 1-bis e' aggiunto il seguente: «1-ter. I presidenti delle sezioni di controllo assicurano che le rispettive deliberazioni siano adottate in composizione collegiale con la presenza di almeno tre magistrati, nella quale siano presenti in minoranza magistrati nominati ai sensi del comma 1-bis. Nel caso di cui all'articolo 10 il presidente del collegio composto dalle sezioni riunite regionali assicura che le deliberazioni siano adottate in composizione collegiale con la presenza di almeno cinque magistrati, nella quale siano presenti in minoranza magistrati nominati ai sensi del comma 1-bis.».
 
 ## Art. 3. — Sostituzione delle tabelle allegate al decreto 
  del Presidente della Repubblica 15 luglio 1988, n. 305

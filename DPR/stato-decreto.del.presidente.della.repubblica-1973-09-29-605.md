@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: DPR
 vigenza_date: 2022-06-22
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:47:44Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -143,6 +143,59 @@ Con decreto del Ministro per le finanze sono determinati i dati e le notizie che
  Le concessioni, le autorizzazioni e le licenze di cui alla lettera g) dell'art. 6 non producono effetti se non recano l'indicazione del numero di codice fiscale dei soggetti beneficiari))
 
 ## Art. 13. — Sanzioni.
+
+1.
+                    
+                        
+                            E' punito con la sanzione amministrativa da lire duecentomila a lire quattro milioni chi: 
+ 
+                        
+                        
+                            a)
+                            
+                                non richiede entro i termini prescritti ovvero, salvo i casi in cui cio' sia espressamente previsto, richiede piu' volte l'attribuzione del numero del codice fiscale; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                omette di indicare o indica in maniera inesatta il proprio numero di codice fiscale ovvero indica quello provvisorio dopo, aver ricevuto la comunicazione del numero definitivo o quello emesso in data meno recente; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                non comunica a terzi ovvero comunica in maniera inesatta il proprio numero di codice fiscale ((e i dati catastali di cui all'articolo 7, quinto comma)). 
+
+                            
+                        
+                        
+                            d)
+                            
+                                omette di indicare il numero di codice fiscale comunicato da altri soggetti; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                non presenta entro il termine prescritto dall'articolo 21 la richiesta di integrazione degli atti o delle iscrizioni ivi previste; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                non ottempera in qualita' di pubblico ufficiale alla previsione disposta dall'articolo 11; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                non restituisce nel termine prescritto i questionari indicati all'articolo 8.
 
 Chi omette le comunicazioni previste dall'articolo 7, dal terzo comma dell'articolo 16 e dal primo e dal terzo comma dell'articolo 20 e' punito con la sanzione amministrativa da lire quattrocentomila a lire dieci milioni; la sanzione e' ridotta alla meta' in caso di comunicazioni incomplete o inesatte.
 

@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
 vigenza_date: 2006-04-29
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:27Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -126,9 +126,80 @@ La provincia provvede ad effettuare, avvalendosi dell'ente gestore degli impiant
 
 ## Art. 13. — Determinazione degli importi dei canoni demaniali per concessioni per estrazioni di materiali dall'alveo
 
+1.
+                    
+                        
+                            Gli importi dei canoni demaniali relativi alle concessioni di estrazione di materiali dall'alveo dei corsi d'acqua pubblici sono determinati con decreto del Ministro delle finanze, emanato di concerto con i Ministri dei lavori pubblici, dell'ambiente, dell'industria, del commercio e dell'artigianato e dell'agricoltura e delle foreste. Tali canoni, gia' fissati nella misura minima dall'art. 11 del decreto-legge 2 ottobre 1981, n. 546, convertito nella legge 1 dicembre 1981, n. 692, e successive modifiche, a decorrere dal 1 gennaio 1994, sono determinati, tenuto conto dell'andamento dei prezzi sul libero mercato, in misura non inferiore a: 
+ 
+                        
+                        
+                            a)
+                            
+                                lire 5.700 a metro cubo per ghiaia o sabbia pronta; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                lire 5.200 a metro cubo per misto granulometrico di sabbia e ghiaia da vagliare o lavorare al frantoio; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                lire 5.000 a metro cubo per misto di sabbia e limo argilloso.
+
 Con decreto del Ministro dei lavori pubblici, emanato di concerto con i Ministri delle finanze e dell'ambiente, ai sensi dell'art. 17, comma 3, della legge 23 agosto 1988, n. 400, sono stabiliti criteri e modalita' per la verifica delle quantita' e delle qualita' estratte, anche mediante la previsione dell'obbligo di apposita documentazione dei materiali trasportati. I prelievi di materiali dall'alveo di corsi d'acqua effettuati per quantitativi e tipologie diversi da quelli concessi danno luogo ad azione di risarcimento per danno ambientale a favore dello Stato; gli stessi prelievi sono altresi' puniti con una sanzione amministrativa di valore pari a cinque volte il canone di concessione da applicarsi ai volumi estratti in difformita' dalla concessione e comunque non inferiore a lire tre milioni. E' fatta salva l'irrogazione delle sanzioni penali applicabili ai sensi delle vigenti disposizioni.
 
 ## Art. 14. — Determinazione degli importi dei canoni demaniali per concessioni di spiagge lacuali, superfici e pertinenze di laghi
+
+1.
+                    
+                        
+                            La determinazione dell'importo dei canoni demaniali per le concessioni di spiagge lacuali, superfici e pertinenze di laghi e' effettuata sulla base dei seguenti criteri elencati secondo l'ordine di importanza: 
+ 
+                        
+                        
+                            a)
+                            
+                                estensione dell'area concessa; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                uso per il quale e' accordata la concessione; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                valore, anche paesaggistico ed ambientale, dell'area oggetto della concessione e della zona interessata; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                vantaggi conseguiti dal concessionario; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                entita' della servitu' e delle limitazioni all'uso pubblico che ne derivano; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                importanza e caratteri della concessione.
 
 Gli importi dei canoni sono determinati con il decreto interministerialedi cui all'art. 13, che dovra' prevedere, a decorrere dal 1 gennaio 1994, una maggiorazione pari al 30 per cento sia di quelli applicati alle concessioni in atto alla predetta data, rideterminati in base ai criteri di cui al primo comma, sia di quelle assentite successivamente. La maggiorazione di cui al presente comma si applica anche agli importi minimi annui.
 

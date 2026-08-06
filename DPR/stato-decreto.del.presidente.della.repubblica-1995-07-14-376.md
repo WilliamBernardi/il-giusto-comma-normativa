@@ -8,8 +8,8 @@ codice_redazionale: 095G0410
 vigente: true
 source: normattiva-opendata
 collection: DPR
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:48:02Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -62,11 +62,152 @@ E' consentita la commercializzazione di altre specie di funghi freschi spontanei
 ## Art. 5. — Denominazione "funghi secchi"
  Art. 17, legge 23 agosto 1993, n. 352
 
+1.
+                    
+                        
+                            Con la denominazione di "funghi secchi" si intende il prodotto che, dopo essiccamento naturale o meccanico, presenta un tasso di umidita' non superiore a 12% + 2% m/m e con tale denominazione possono essere posti in commercio funghi appartenenti alle seguenti specie:
+ 
+                        
+                        
+                            a)
+                            
+                                Boletus edulis e relativo gruppo (Boletus pinicola, Boletus aereus, Boletus reticulatus);
+
+                            
+                        
+                        
+                            b)
+                            
+                                Cantharellus (tutte le specie escluse subcibarius, tubaeformis varieta' lutescens e muscigenus);
+
+                            
+                        
+                        
+                            c)
+                            
+                                Agaricus bisporus;
+
+                            
+                        
+                        
+                            d)
+                            
+                                Marasmius oreades;
+
+                            
+                        
+                        
+                            e)
+                            
+                                Auricularia auricula-judae;
+
+                            
+                        
+                        
+                            f)
+                            
+                                Morchella (tutte le specie);
+
+                            
+                        
+                        
+                            g)
+                            
+                                Boletus granulatus;
+
+                            
+                        
+                        
+                            h)
+                            
+                                Boletus luteus;
+
+                            
+                        
+                        
+                            i)
+                            
+                                Boletus badius;
+
+                            
+                        
+                        
+                            l)
+                            
+                                Craterellus cornucupioides;
+
+                            
+                        
+                        
+                            m)
+                            
+                                Psalliota hortensis;
+
+                            
+                        
+                        
+                            n)
+                            
+                                Lentinus edodes;
+
+                            
+                        
+                        
+                            o)
+                            
+                                Pleurotus ostreatus;
+
+                            
+                        
+                        
+                            p)
+                            
+                                Lactarius deliciosus;
+
+                            
+                        
+                        
+                            q)
+                            
+                                Amanita caesarea.
+
 Possono altresi' essere poste in commercio altre specie riconosciute idonee con successivi decreti del Ministro della sanita', di concerto con il Ministro dell'industria, del commercio e dell'artigianato, nonche' quelle provenienti dagli altri Paesi dell'Unione europea e dai Paesi aderenti all'accordo sullo spazio economico europeo, purche' legalmente commercializzate in detti Paesi.
 
 I funghi secchi, provenienti da altri Paesi dell'Unione europea e dai Paesi aderenti all'accordo sullo spazio economico europeo, possono essere commercializzati anche con altre denominazioni che facciano riferimento al trattamento di disidratazione subito, se queste sono consentite nei Paesi suddetti.
 
 La durabilita' dei funghi secchi non puo' essere superiore a 12 mesi dal confezionamento.
+
+5.
+                    
+                        
+                            L'incidenza percentuale delle unita' difettose o alterate, per ogni singola confezione, non deve superare, a seconda della categoria qualitativa di cui al comma 5, il range di 25-40% m/m, suddiviso come segue:
+ 
+                        
+                        
+                            a)
+                            
+                                impurezze minerali, non piu' del 2% m/m;
+
+                            
+                        
+                        
+                            b)
+                            
+                                impurezze organiche di origine vegetale, non piu' dello 0,02% m/m;
+
+                            
+                        
+                        
+                            c)
+                            
+                                tramiti di larve di ditteri micetofilidi, non piu' del 25% m/m;
+
+                            
+                        
+                        
+                            d)
+                            
+                                funghi anneriti, non piu' del 20% m/m.
 
 La denominazione di vendita dei funghi secchi di cui al comma 1, lettera a), deve essere accompagnata da menzioni qualificative rispondenti alle caratteristiche dei funghi, stabilite con decreto del Ministro dell'industria, del commercio e dell'artigianato entro il 30 giugno 1996.
 

@@ -8,8 +8,8 @@ codice_redazionale: 008G0099
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:38Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -33,10 +33,110 @@ Data comunicazione al Presidente del Consiglio dei Ministri ai sensi dell'artico
 
 All'articolo 1 del decreto del Ministro dell'interno 12 ottobre 2007, n. 236, al comma 2, le parole «, nonche' le relative sedi di nucleo disponibili» sono eliminate.
 
+2.
+                    
+                        
+                            All'articolo 3 del decreto del Ministro dell'interno 12 ottobre 2007, n. 236, sono apportate le seguenti modificazioni:
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 2 le parole «, nonche' le relative sedi di nucleo disponibili» sono eliminate;
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 3, le parole da «durante il servizio prestato» fino alla fine del comma, sono sostituite dalle seguenti parole «nei sei anni medesimi, abbia frequentato con profitto i corsi di aggiornamento professionale, a livello nazionale, individuati nella durata, nei contenuti, nelle modalita' di svolgimento e nei criteri di ammissione alla frequenza con decreto del Ministro dell'interno»;
+
+                            
+                        
+                        
+                            c)
+                            
+                                il comma 4 e' abrogato.
+
+3.
+                    
+                        
+                            All'articolo 6, del decreto del Ministro dell'interno 12 ottobre 2007, n. 236, sono apportate le seguenti modificazioni:
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 1 le parole «disponibili all'atto del bando» sono sostituite dalle seguenti parole «indicate dall'amministrazione prima dell'avvio del corso di formazione»;
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 2 le parole «all'atto del bando» sono sostituite dalle seguenti parole «prima dell'avvio del corso di formazione»;
+
+                            
+                        
+                        
+                            c)
+                            
+                                al comma 3 le parole «nel bando», ovunque ricorrano, sono eliminate.
+
 All'articolo 7, del decreto del Ministro dell'interno 12 ottobre 2007, n. 236, il comma 1 e' sostituito dal seguente:
  «1. Il corso di formazione professionale ha una durata non inferiore a tre mesi e si svolge, in relazione alla metodologia utilizzata, presso le sedi individuate, con proprio atto, dal Direttore centrale per la formazione del Dipartimento dei vigili del fuoco, del soccorso pubblico e della difesa civile.».
 
 ## Art. 2. — Modifiche al decreto del Ministro dell'interno 12 ottobre 2007, n. 237
 
 All'articolo 1 del decreto del Ministro dell'interno 12 ottobre 2007, n. 237, al comma 2, le parole «, nonche' le relative sedi di nucleo disponibili» sono eliminate.
+
+2.
+                    
+                        
+                            All'articolo 3 del decreto del Ministro dell'interno 12 ottobre 2007, n. 237, sono apportate le seguenti modificazioni:
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 2 le parole «, nonche' le relative sedi di nucleo disponibili» sono eliminate;
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 3, le parole da «durante il servizio prestato» fino alla fine del comma, sono sostituite dalle seguenti parole «nei sei anni medesimi, abbia frequentato con profitto i corsi di aggiornamento professionale, a livello nazionale, individuati nella durata, nei contenuti, nelle modalita' di svolgimento e nei criteri di ammissione alla frequenza con decreto del Ministro dell'interno»;
+
+                            
+                        
+                        
+                            c)
+                            
+                                il comma 4 e' abrogato;
+
+3.
+                    
+                        
+                            All'articolo 6, del decreto del Ministro dell'interno 12 ottobre 2007, n. 237, sono apportate le seguenti modificazioni:
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 1 le parole «disponibili all'atto del bando» sono sostituite dalle seguenti parole «indicate dall'amministrazione prima dell'avvio del corso di formazione»;
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 2 le parole «all'atto del bando» sono sostituite dalle seguenti parole «prima dell'avvio del corso di formazione»;
+
+                            
+                        
+                        
+                            c)
+                            
+                                al comma 3 le parole «nel bando», ovunque ricorrano, sono eliminate.
 

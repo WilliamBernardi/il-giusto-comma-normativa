@@ -8,8 +8,8 @@ codice_redazionale: 089G0476
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:41Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -25,6 +25,52 @@ Udito il parere del Consiglio di Stato reso nell'adunanza generale del 14 settem
 
 ## Art. 1. — Comunicazioni
  delle camere di commercio all'anagrafe tributaria
+
+1.
+                    
+                        
+                            I dati e le notizie contenuti nelle denunce di iscrizione, variazione e cancellazione ai registri delle ditte tenuti dalle camere di commercio, che devono essere comunicati all'anagrafe tributaria ai sensi degli articoli 7 e 16 del decreto del Presidente della Repubblica 29 settembre 1973, n. 605, e successive modificazioni, sono i seguenti:
+ 
+                        
+                        
+                            a)
+                            
+                                codice fiscale e dati anagrafici del soggetto;
+
+                            
+                        
+                        
+                            b)
+                            
+                                capitale sociale;
+
+                            
+                        
+                        
+                            c)
+                            
+                                estremi di iscrizione nel registro delle ditte e nel registro delle imprese;
+
+                            
+                        
+                        
+                            d)
+                            
+                                sedi delle unita' locali;
+
+                            
+                        
+                        
+                            e)
+                            
+                                attivita' svolte in ciascuna unita' locale;
+
+                            
+                        
+                        
+                            f)
+                            
+                                componenti degli organi sociali.
 
 I dati di cui alle lettere a), d) ed e) del comma 1 saranno comunicati successivamente dal Ministero delle finanze ai comuni per l'esecuzione dei controlli previsti dalla legge 24 aprile 1989, n. 144.
 

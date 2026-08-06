@@ -8,8 +8,8 @@ codice_redazionale: 098G0122
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:41Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -32,6 +32,52 @@ E DELLA PROGRAMMAZIONE ECONOMICA
 Udito il parere del Consiglio di Stato n. 38/1998, reso nell'adunanza della sezione consultiva per gli atti normativi del 9 marzo 1998;
 
 ## Art. 1. — Definizioni
+
+1.
+                    
+                        
+                            Ai fini del presente regolamento si intendono per:
+ 
+                        
+                        
+                            a)
+                            
+                                "imprese", i soggetti autorizzati ad espletare i servizi di comunicazioni mobili e personali, per il cui esercizio sono disposte le modifiche al piano nazionale di ripartizione delle radiofrequenze;
+
+                            
+                        
+                        
+                            b)
+                            
+                                "modifiche al piano", in particolare:
+ 1) le liberazioni di banda che il Ministero della difesa deve effettuare per le esigenze dei servizi mobili e personali ivi comprese quelle di cui al disposto dell'articolo 2, comma 1, lettere b) e
+                            
+                        
+                        
+                            c)
+                            
+                                del decreto-legge 1 maggio 1997, n. 115, convertito, con modificazioni, dalla legge 1 luglio 1997, n. 189;
+ 2) le riallocazioni di banda operate con i decreti del Ministro delle poste e delle telecomunicazioni 14 ottobre 1996 e 3 giugno 1997, recanti modificazioni al piano nazionale di ripartizione delle frequenze, pubblicati, rispettivamente, nelle Gazzette Ufficiali della Repubblica italiana del 22 ottobre 1996, n. 248, e del 12 giugno 1997, n. 135, e le liberazioni gia' effettuate nella banda 900 MHz in precedenza, per ragioni di urgenza, dal Ministero della difesa per le esigenze dei servizi di comunicazioni mobili e personali;
+ c) "oneri", i costi e le spese derivanti al Ministero della difesa, anche in relazione alle attribuzioni esercitate in favore dei corpi di polizia e delle altre strutture competenti per la sicurezza dello Stato, computati come appresso specificato.
+ 1) Rilevano ai fini del presente regolamento: i costi direttamente conseguenti alla necessita' di modificare ovvero di sostituire gli impianti e i sistemi impiegati nelle bande di frequenze da liberare con altri idonei allo svolgimento dei servizi svolti nell'ambito della Difesa. Tali costi comprendono le spese di modifica degli impianti e dei sistemi suscettibili di modifiche in modo da poter operare nelle altre bande di frequenze ovvero le spese di acquisizione di nuovi impianti e sistemi destinati a sostituire quelli non modificabili. Nell'ambito dei costi sono incluse le spese necessarie ad assicurare temporaneamente l'espletamento del servizio, nelle more della acquisizione di impianti e sistemi idonei ad operare nelle bande di frequenze ove il servizio viene trasferito.
+Nell'ambito dei costi sono comprese: le spese per la installazione e la messa in opera degli impianti e sistemi acquisiti; le spese per l'acquisizione del supporto logistico necessario agli impianti e sistemi modificati o acquisiti; le spese di dismissione degli impianti, sistemi e materiali non piu' impiegabili e delle relative parti ricambio; le spese amministrative connesse alle attivita' di cui sopra. Rilevano altresi' le spese conseguenti alla diminuita disponibilita' di spettro che vengono determinati ai sensi dell'articolo 2.
+ 2) Nella valutazione dei costi per la sostituzione di impianti e sistemi non modificabili, va operata una riduzione pari ai fondi eventualmente gia' allocati dalla Difesa per la sostituzione o la manutenzione dei predetti sistemi ed impianti.
+ 3) Ai fini di quanto disposto al punto 1), per "supporto logistico" si intende l'insieme dei materiali e delle attivita' necessari al mantenimento in servizio per tre anni dei sistemi di comunicazione, costituito dalle parti di ricambio, dalla documentazione tecnica e dai corsi per il personale addetto all'impiego ed alla manutenzione.
+Si intende per "spese amministrative" l'insieme delle spese connesse all'acquisizione di beni e servizi, relative all'elaborazione dei capitolati tecnici di fornitura, agli studi eventualmente necessari ed alla formalizzazione dell'intero iter tecnicoamministrativo, compresa la gestione contrattuale, l'effettuazione dei collaudi e la liquidazione;
+
+                            
+                        
+                        
+                            d)
+                            
+                                "quota annuale di partecipazione agli oneri": la quota annuale che grava su ciascuna delle imprese in relazione a ciascun sistema tecnico utilizzato per l'espletamento del servizio di comunicazioni mobili e personali per le quali e' autorizzata, secondo la procedura di cui all'articolo 2;
+
+                            
+                        
+                        
+                            e)
+                            
+                                "quota provvisoria di partecipazione agli oneri": la quota annuale di partecipazione agli oneri derivanti dalla applicazione del criterio relativo alla ampiezza della banda di frequenza assegnata, che e' utilizzata per l'espletamento delle procedure di cui all'articolo
 
 Le assegnazioni effettuate in corso d'anno si considerano comunque decorrenti, ai fini della presente lettera, dal l gennaio per le assegnazioni effettuate entro il 30 giugno, e dal l luglio per quelle effettuate entro il 31 dicembre;
  f) "quota definitiva di partecipazione agli oneri": la quota di partecipazione relativa alla situazione esistente al 31 dicembre di ciascun anno. Ai fini della determinazione della quota definitiva di partecipazione agli oneri, le assegnazioni di bande di frequenze effettuate in corso di anno si considerano come decorrenti comunque dall'inizio del mese in cui sono state disposte.

@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: DPR
 vigenza_date: 2026-02-19
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:48:14Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -1261,6 +1261,42 @@ A decorrere dal 1° marzo 2022, al personale di cui al presente titolo, per il c
 
 A decorrere dal 1° marzo 2022, al personale di cui al presente titolo, per ciascun figlio a carico, spetta un assegno pari all'8 per cento della retribuzione annua base stabilita, conformemente all'articolo 157, per un impiegato a contratto con mansioni esecutive di nuova assunzione nella medesima sede di servizio. L'importo dell'assegno di cui al presente comma non e' inferiore a 960 euro ne' e' superiore a 2.100 euro in ragione d'anno per ciascun figlio a carico. L'assegno spetta, nell'interesse del figlio, in parti uguali a chi esercita la responsabilita' genitoriale.
 
+3.
+                        
+                            
+                                Agli effetti del comma 2, per figli si intendono: 
+ 
+                            
+                            
+                                a)
+                                
+                                    i nuovi nati a decorrere dal settimo mese di gravidanza; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    i figli fino al compimento di diciotto anni di eta'; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    i figli di eta' compresa tra diciotto e ventuno anni non compiuti, per i quali ricorre una delle seguenti condizioni: 
+ 1) frequentano un corso di formazione scolastica o professionale ovvero un corso di laurea; 
+ 2) svolgono un tirocinio o un'attivita' lavorativa con una retribuzione annua inferiore all'importo di cui al comma 4; 
+ 3) sono registrati come disoccupati e in cerca di un lavoro presso i servizi pubblici per l'impiego del luogo di residenza; 
+ 4) svolgono il servizio civile universale in Italia; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    i figli con disabilita', senza limiti di eta'.
+
 Agli effetti del presente articolo, il coniuge, la parte di unione civile e i figli sono considerati a carico quando possiedono un reddito complessivo annuo inferiore a un sesto della retribuzione annua base stabilita, conformemente all'articolo 157, per un impiegato a contratto con mansioni esecutive di nuova assunzione nella medesima sede di servizio.
 
 In alternativa agli assegni di cui ai commi 1 e 2, per i familiari a carico alla data del 28 febbraio 2022, in relazione ai quali era in godimento l'assegno per il nucleo familiare di cui all'articolo 2 del decreto-legge 13 marzo 1988, n. 69, convertito, con modificazioni, dalla legge 13 maggio 1988, n. 153, il dipendente puo' optare per un assegno ad personam non riassorbibile, di importo pari alla misura del predetto beneficio spettante alla medesima data.
@@ -1512,6 +1548,49 @@ Il personale dell'Amministrazione degli affari esteri, oltre allo stipendio e ag
 
 L'indennita' di servizio all'estero non ha natura retributiva essendo destinata a sopperire agli oneri derivanti dal servizio all'estero ed e' ad essi commisurata. Essa tiene conto della peculiarita' della prestazione lavorativa all'estero, in relazione alle specifiche esigenze del servizio diplomaticoconsolare.
 
+2.
+                        
+                            
+                                L'indennita' di servizio all'estero e' costituita: 
+ 
+                            
+                            
+                                a)
+                                
+                                    dall'indennita' base di cui all'allegata tabella A; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    dalle maggiorazioni relative ai singoli uffici determinate secondo coefficienti di sede da fissarsi con decreto del Ministro degli affari esteri, di concerto con il Ministro del tesoro, del bilancio e della programmazione economica sentita la commissione di cui all'articolo 172. Qualora ricorrano esigenze particolari, possono essere fissati coefficienti differenti per i singoli posti di organico in uno stesso ufficio.
+
+3.
+                        
+                            
+                                I coefficienti di sede sono fissati, nei limiti delle disponibilita' finanziarie, sulla base: 
+ 
+                            
+                            
+                                a)
+                                
+                                    del costo della vita, desunto dai dati statistici elaborati dalle Nazioni Unite e dall'Unione europea, con particolare riferimento al costo dei servizi. Il Ministero puo' a tal fine avvalersi di agenzie specializzate a livello internazionale; (52) 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    degli oneri connessi con la vita all'estero, determinati in relazione al tenore di vita ed al decoro connesso con gli obblighi derivanti dalle funzioni esercitate, anche sulla base delle relazioni dei capi delle rappresentanze diplomatiche e degli uffici consolari, nonche' dei rapporti dell'Ispettore generale del Ministero e delle rappresentanze all'estero; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    del corso dei cambi.
+
 Ai fini dell'adeguamento dei coefficienti alle variazioni del costo della vita si seguono i parametri di riferimento indicati nel comma 3, lettera a). Tale adeguamento sara' ponderato in relazione agli oneri indicati nel comma 3, lettera b).
 
 Nelle sedi in cui esistono ((comprovate difficolta' di copertura o)) situazioni di rischio e disagio, da valutarsi in base alle condizioni di sicurezza, alle condizioni sanitarie ed alle strutture medico-ospedaliere, alle condizioni climatiche e di inquinamento, al grado di isolamento, nonche' a tutte le altre condizioni locali tra cui anche la notevole distanza geografica dall'Italia, il personale percepisce una apposita maggiorazione dell'indennita' di servizio prevista dal comma 1. Tale maggiorazione viene determinata con decreto del Ministro degli affari esteri, di intesa con il Ministro del tesoro, del bilancio e della programmazione economica, sentita la commissione permanente di finanziamento, tenendo conto delle classificazioni delle sedi estere in base al disagio adottate dalla Commissione dell'Unione europea. Essa non puo' in alcun caso superare (( il 120 )) per cento dell'indennita' ed e' soggetta a verifica periodica, almeno biennale.
@@ -1650,6 +1729,45 @@ I capi delle rappresentanze diplomatiche hanno diritto, per se', per i familiari
 
 Fatto salvo quanto disposto dagli articoli 84 e 177, il personale in servizio all'estero deve acquisire nella sede di servizio o nelle immediate vicinanze la disponibilita' di un'abitazione adeguata alle esigenze di sicurezza e di decoro inerenti alle funzioni svolte.
 
+2.
+                        
+                            
+                                Per le spese di abitazione spetta una maggiorazione dell'indennita' di cui all'articolo 171 determinata secondo i seguenti criteri: 
+ 
+                            
+                            
+                                a)
+                                
+                                    l'importo e' parametrato all'indennita' personale secondo percentuali, anche differenti per i singoli posti di organico in uno stesso ufficio, soggette a revisione annuale, non superiori all'80 per cento, stabilite con decreto del Ministro degli affari esteri e della cooperazione internazionale, di concerto con il Ministro dell'economia e delle finanze, sentita la Commissione permanente di cui all'articolo 172, sulla base dei costi di alloggi rispondenti alle caratteristiche di cui al comma 1 del presente articolo; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la maggiorazione non puo' eccedere il costo effettivo della locazione di un alloggio adeguato alle funzioni svolte; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    la maggiorazione e' corrisposta dall'assunzione di funzioni nella sede alla cessazione definitiva delle funzioni stesse, inclusi i periodi di congedo e quelli in cui e' sospesa o diminuita l'indennita' personale; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    nel caso di dipendenti che condividano l'abitazione, la maggiorazione spetta soltanto al dipendente che vi ha diritto nella misura piu' elevata, aumentata del 20 per cento; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    la maggiorazione non spetta se il dipendente o i familiari conviventi anche non a carico sono proprietari, nella sede di servizio, di un'abitazione idonea alle funzioni svolte.
+
 3. La maggiorazione e' versata in rate semestrali anticipate.
 L'amministrazione puo' versare le prime due rate al momento dell'assunzione di funzioni nella sede, se nel locale mercato immobiliare e' prassi costante pretendere per la stipulazione dei contratti di locazione il pagamento anticipato del canone per uno o piu' anni))
 
@@ -1703,7 +1821,43 @@ Al personale che trovandosi in congedo riceva l'ordine di rientrare in sede a no
 
 ((
 
+1.
+                        
+                            
+                                Il limite massimo di assenza dal servizio all'estero, con esclusione dei periodi di ferie, nonche' delle assenze connesse al servizio stesso, e' fissato in complessivi sessanta giorni in ragione d'anno, durante i quali spetta il seguente trattamento economico:
+ 
+                            
+                            
+                                a)
+                                
+                                    in caso di assenza per infermita' l'indennita' personale e' corrisposta per intero per i primi quarantacinque giorni ed e' sospesa per il restante periodo;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    in caso di altre assenze consentite dalle disposizioni applicabili ai pubblici dipendenti, per motivi diversi da quelli di salute, la corresponsione dell'indennita' personale e' sospesa.
+
 Il limite massimo di assenza previsto dal comma 1 e' aumentato fino a 4 mesi nei casi in cui per infermita' il personale non possa essere trasferito senza danno, ferma restando la disposizione di cui al comma 1, lettera a).
+
+3.
+                        
+                            
+                                Alle lavoratrici madri in astensione dal lavoro ai sensi della legge 30 dicembre 1971, n. 1204, nonche' ai lavoratori padri ai sensi della legge 9 dicembre 1977, n. 903, spetta il seguente trattamento economico:
+ 
+                            
+                            
+                                a)
+                                
+                                    in caso di astensione obbligatoria l'indennita' personale e' corrisposta per intero;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    in caso di astensione facoltativa l'indennita' personale e' sospesa.
 
 4. Trascorsi i periodi indicati ai commi 1 e 2, nonche' quelli previsti dagli articoli 4 e 5 della legge 30 dicembre 1971, n. 1204, ulteriori assenze del dipendente, pur se consentite dall'attuale ordinamento, comportano la decadenza dall'organico dell'ufficio all'estero.))
 
@@ -1837,6 +1991,39 @@ Al personale incaricato del trasporto delle bolgette e dei plichi diplomatici sp
                              La L. 18 dicembre 1973, n. 836 ha disposto (con l'art. 13, comma 3) che "E' abrogata la norma concernente l'assicurazione per i percorsi aerei contenuta nel primo comma dell'articolo 198 del decreto del Presidente della Repubblica 5 gennaio 1967, n. 18."
 
 ## Art. 199. — (Contributo per il trasporto degli effetti)
+
+1.
+                        
+                            
+                                Per i viaggi di trasferimento di cui all'articolo 190, per consentire di far fronte alle spese aggiuntive necessarie per il trasporto degli effetti, comprensivi di bagaglio, mobili e masserizie, spetta al personale ((una maggiorazione dell'indennita' di servizio all'estero la cui misura e' rapportata all'indennita' personale spettante per sessantacinque giorni, calcolata con l'applicazione del coefficiente di cui all'articolo 176, comma 2)).
+Tale misura e' pari ad una percentuale compresa fra il 30 e il 100 per cento di dette indennita' a seconda della distanza intercorrente fra la sede di servizio e quella di destinazione, ed e' stabilita secondo la seguente parametrazione: 
+ 
+                            
+                            
+                                a)
+                                
+                                    per distanze non maggiori di 500 chilometri: 30 per cento; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    per distanze maggiori di chilometri 500 e non maggiori di chilometri 1.500: 50 per cento; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    per distanze maggiori di chilometri 1.500 e non maggiori di chilometri 3.500: 75 per cento; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    per distanze maggiori di chilometri 3.500: 100 per cento. ((79))
 
 La parametrazione di cui al comma 1 puo' essere modificata, senza introdurre maggiori oneri, con decreto del Ministro di concerto con il Ministro dell'economia e delle finanze. ((La maggiorazione di cui al comma 1 non e' in ogni caso superiore a un nono dell'indennita' personale annuale, calcolata, a parita' di situazione di famiglia, per il posto di capo di missione diplomatica, con l'applicazione del coefficiente di cui all'articolo 176, comma 2, e rapportata alla distanza conformemente al comma 1)).((79))
 

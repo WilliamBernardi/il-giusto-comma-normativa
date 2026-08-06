@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
 vigenza_date: 2001-06-23
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:30Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -38,7 +38,113 @@ Gli istituti forniscono agli organi ed enti del Servizio sanitario nazionale il 
 
 ## Art. 2. — Competenze statali
 
+1.
+                    
+                        
+                            Al Ministero della sanita' compete: 
+ 
+                        
+                        
+                            a)
+                            
+                                il riconoscimento del carattere scientifico degli istituti e la relativa revoca; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                la definizione dei criteri generali per la redazione degli statuti e dei regolamenti degli istituti; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                l'attivita' di controllo; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                l'alta vigilanza.
+
 I provvedimenti di cui alla lettera a) del comma 1, sono emanati sentiti il Ministro del tesoro, il Ministro dell'universita' e della ricerca scientifica e tecnologica e la Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome. ((1))
+
+3.
+                    
+                        
+                            Entro centoventi giorni dalla data di entrata in vigore del presente decreto, con regolamento emanato con decreto del Presidente della Repubblica, previa deliberazione del Consiglio dei Ministri, su proposta del Ministro della sanita', di concerto con il Ministro dell'universita' e della ricerca scientifica e tecnologica, sentita la Conferenza permanente per i rapporti tra lo Stato, le regioni e le provincie autonome, sono disciplinati: 
+ 
+                        
+                        
+                            a)
+                            
+                                i criteri generali per il riconoscimento degli Istituti e la definizione delle strutture e attrezzature destinate all'attivita' di ricerca biomedica, organizzativa e gestionale dei servizi sanitari, nonche' dell'attivita' di ricerca ed assistenza svolta, necessarie per il riconoscimento; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                le procedure per il riconoscimento e la revoca del carattere scientifico degli istituti; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                le norme transitorie per la revisione dei riconoscimenti gia' concessi; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                gli atti degli Istituti sottoposti al controllo e il relativo procedimento; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                i criteri generali per l'adeguamento degli statuti e dei regolamenti da parte degli Istituti; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                l'istituzione e la disciplina in ciascun istituto di comitati per la valutazione etica della attivita' di ricerca e di sperimentazione clinica; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                le convenzioni fra istituti per realizzare programmi comuni nel settore della ricerca biomedica, nella organizzazione e gestione dei servizi sanitari, nella sperimentazione di interesse generale e nella formazione continua professionale; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                le procedure per lo svolgimento di ricerche finalizzate e a pagamento; 
+
+                            
+                        
+                        
+                            i)
+                            
+                                i criteri per la valutazione dei costi e dei rendimenti e per l'utilizzazione delle risorse, allo scopo di ridurre l'onere a carico dei bilanci pubblici. 
+
+                            
+                        
+                        
+                            l)
+                            
+                                l'attivita' del Direttore scientifico che assume la responsabilita' complessiva delle attivita' di ricerca anche per quanto attiene alla gestione delle risorse ad essa destinate nel quadro della programmazione dell'Istituto.
 
 E' fatta salva l'autonomia giuridico-amministrativa degli Istituti con personalita' giuridica di diritto privato. 
  

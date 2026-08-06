@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
 vigenza_date: 2021-03-30
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:40Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -34,6 +34,66 @@ Qualora la Banca d'Italia si avvalga di un ente esterno per la gestione dell'arc
 
 ## Art. 2. — Dati contenuti nell'archivio
 
+1.
+                    
+                        
+                            Nell'archivio sono iscritti i seguenti dati: 
+ 
+                        
+                        
+                            a)
+                            
+                                estremi identificativi del soggetto che trasmette i dati e data della trasmissione; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                per le persone fisiche traenti degli assegni emessi senza autorizzazione o senza provvista e per i titolari delle carte di pagamento per le quali sia stata revocata l'autorizzazione all'utilizzo in conseguenza del mancato pagamento o della mancata costituzione dei fondi relativi alle transazioni effettuate: cognome, nome, luogo e data di nascita, sesso, codice fiscale, domicilio eletto all'atto della conclusione della convenzione di assegno; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                per gli enti, anche se privi di personalita' giuridica, traenti degli assegni emessi senza autorizzazione o senza provvista e titolari di carte di pagamento per le quali sia stata revocata l'autorizzazione all'utilizzo in conseguenza del mancato pagamento o della mancata costituzione dei fondi relativi alle transazioni effettuate: denominazione o ragione sociale, sede legale, codice fiscale, eventuale iscrizione alla camera di commercio, industria, agricoltura e artigianale; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                per gli assegni emessi senza autorizzazione o senza provvista: coordinate, divisa, importo; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                coordinate dei moduli di assegno dei quali sia stato denunciato il furto o lo smarrimento; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                coordinate dei moduli di assegno non restituiti; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                per le carte di pagamento per le quali sia stata revocata l'autorizzazione all'utilizzo: emittente, numero, scadenza ((e avvenuto pagamento, effettuato successivamente all'iscrizione nell'archivio, di tutte le ragioni di debito nei confronti dell'emittente)); 
+
+                            
+                        
+                        
+                            h)
+                            
+                                per le carte di pagamento delle quali sia stato denunciato il furto o lo smarrimento: emittente, numero, scadenza.
+
 Sono altresi' iscritti in archivio i dati relativi all'indicazione dell'autorita' procedente, del tipo e della durata delle sanzioni e dei divieti di cui all'articolo 10-bis, comma 1, lettera c), della legge 15 dicembre 1990, n. 386, delle norme di legge violate, nonche' del cognome, del nome, del luogo, della data di nascita, del sesso, della residenza, domicilio o dimora e del codice fiscale del soggetto nei cui confronti sono state applicate le suddette sanzioni.
 
 ## Art. 3. — Modalita' della trasmissione dei dati
@@ -55,6 +115,31 @@ I dati relativi alle sanzioni penali e connessi divieti applicati per l'inosserv
 
 ## Art. 5. — Trasmissione dei dati relativi alla revoca
  delle autorizzazioni
+
+1.
+                    
+                        
+                            Nei casi di cui all'articolo 9 della legge 15 dicembre 1990, n. 386, il trattario trasmette alla sezione centrale dell'archivio i seguenti dati:
+ 
+                        
+                        
+                            a)
+                            
+                                le generalita' di coloro che hanno sottoscritto l'assegno, quando per l'emissione del titolo e' richiesta la firma congiunta;
+
+                            
+                        
+                        
+                            b)
+                            
+                                le generalita' del delegante nel caso di delega di traenza;
+
+                            
+                        
+                        
+                            c)
+                            
+                                la denominazione o la ragione sociale dell'ente, anche privo di personalita' giuridica, nel caso di assegno emesso in nome e per conto di quest'ultimo.
 
 Quando il traente non e' identificabile il trattario non effettua alcuna trasmissione di dati all'archivio.
 

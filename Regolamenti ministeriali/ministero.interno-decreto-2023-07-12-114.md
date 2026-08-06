@@ -7,8 +7,8 @@ urn: urn:nir:ministero.interno:decreto:2023-07-12;114
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:39Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -49,6 +49,390 @@ Nota redazionale
 
 ## Art. 2. — Definizioni
 
+1.
+                        
+                            
+                                Ai fini del presente regolamento, si intende per: 
+ 
+                            
+                            
+                                a)
+                                
+                                    «armi», le armi da fuoco e le armi diverse da quelle da fuoco; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    «arma da fuoco», l'arma da fuoco, come definita dall'articolo 1-bis, comma 1, lettera a), del decreto legislativo 30 dicembre 1992, n. 527, l'arma da fuoco per uso scenico di cui all'articolo 22, primo comma, della legge 18 aprile 1975, n. 110, nonche' l'arma da fuoco antica, artistica o rara di importanza storica disciplinata dal decreto del Ministro dell'interno 14 aprile 1982, emanato ai sensi dell'articolo 10, settimo comma, della medesima legge n. 110 del 1975; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    «arma diversa dalle armi da fuoco», l'arma comune da sparo ad aria o a gas compressi, lunga o corta, i cui proiettili erogano un'energia cinetica superiore a 7,5 joule, nonche' l'arma da sparo con modesta capacita' offensiva, funzionante a aria o a gas compressi, i cui proiettili erogano un'energia cinetica non superiore a 7,5 joule; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    «armaiolo», l'operatore economico che esercita le attivita' in materia di armi da fuoco e munizioni indicate dall'articolo 1-bis, comma 1, lettera g), del decreto legislativo n. 527 del 1992; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    «autorita' nazionale», l'autorita' nazionale competente allo scambio delle informazioni in materia di trasferimenti, a titolo definitivo, di armi da fuoco, individuata nel competente Ufficio per l'Amministrazione generale del Dipartimento della pubblica sicurezza; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    «CED», il Centro elaborazione dati di cui all'articolo 8 della legge 1° aprile 1981, n. 121; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    «CEN», il Centro elettronico nazionale della Polizia di Stato per la gestione, il coordinamento e lo sviluppo degli archivi e delle procedure informatizzate; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    «DIA», la Direzione investigativa antimafia, di cui all'articolo 108 del decreto legislativo 6 settembre 2011, n. 159; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    «decreto legislativo n. 51 del 2018», il decreto legislativo 18 maggio 2018, n. 51; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    «decreto legislativo n. 104 del 2018», il decreto legislativo 10 agosto 2018, n. 104; 
+
+                                
+                            
+                            
+                                m)
+                                
+                                    «Dipartimento della pubblica sicurezza», il Dipartimento della pubblica sicurezza del Ministero dell'interno di cui all'articolo 4 della legge 1° aprile 1981, n. 121; 
+
+                                
+                            
+                            
+                                n)
+                                
+                                    «Focal Point» il personale delle Forze di polizia di cui all'articolo 16, primo comma, della legge 1° aprile 1981, n. 121, incaricato della formazione e della gestione operativa degli utenti che accedono al SITAM; 
+
+                                
+                            
+                            
+                                o)
+                                
+                                    «Forze di polizia», le Forze di polizia di cui all'articolo 16, primo comma, della legge 1° aprile 1981, n. 121 e successive modificazioni; 
+
+                                
+                            
+                            
+                                p)
+                                
+                                    «intermediario», l'operatore economico che esercita le attivita' in materia di armi da fuoco e munizioni indicate dall'articolo 1-bis, comma 1, lett. f), del decreto legislativo n. 527 del 1992; 
+
+                                
+                            
+                            
+                                q)
+                                
+                                    «legge n. 110 del 1975», la legge 18 aprile 1975, n. 110; 
+
+                                
+                            
+                            
+                                r)
+                                
+                                    «legge n. 121 del 1981», la legge 1° aprile 1981, n. 121; 
+
+                                
+                            
+                            
+                                s)
+                                
+                                    «munizione», la munizione utilizzata in un'arma da fuoco come definita dall'articolo 1-bis, comma 1, lettera d) del predetto decreto legislativo n. 527 del 1992; 
+
+                                
+                            
+                            
+                                t)
+                                
+                                    «parte d'arma», una delle componenti essenziali di un'arma da fuoco come definite dall'articolo 1-bis, comma 1, lettera b) del decreto legislativo n. 527 del 1992; 
+
+                                
+                            
+                            
+                                u)
+                                
+                                    «Prefettura-UTG», la Prefettura - Ufficio territoriale del Governo; 
+
+                                
+                            
+                            
+                                v)
+                                
+                                    «rappresentante», la persona fisica, dipendente dell'armaiolo, che abbia ottenuto l'approvazione della nomina a rappresentante del medesimo armaiolo ai sensi dell'articolo 8, secondo comma, TULPS; 
+
+                                
+                            
+                            
+                                z)
+                                
+                                    «regolamento delegato (UE) 2019/686», il regolamento delegato (UE) 2019/686 della Commissione del 16 gennaio 2019; 
+
+                                
+                            
+                            
+                                aa)
+                                
+                                    «replica di arma antica ad avancarica a colpo singolo», la replica di arma antica ad avancarica a colpo singolo di modello e/o tipologia anteriore al 1890, come definita all'articolo 12 del decreto ministeriale 9 agosto 2001, n. 362; 
+
+                                
+                            
+                            
+                                bb)
+                                
+                                    «SITAM», il «sistema informatico dedicato» per la tracciabilita' delle armi e delle munizioni, di cui all'articolo 11 del decreto legislativo 10 agosto 2018, n. 104; 
+
+                                
+                            
+                            
+                                cc)
+                                
+                                    «TULPS», il testo unico delle leggi di pubblica sicurezza, di cui al regio decreto 18 giugno 1931, n. 773.
+
+2.
+                        
+                            
+                                Ai fini del presente regolamento, si intende, inoltre, per: 
+ 
+                            
+                            
+                                a)
+                                
+                                    «accesso», l'operazione di trattamento elettronico che consente di prendere visione e di estrarre copia, memorizzandola su qualunque tipo di supporto, dei dati conservati nel SITAM e di quelli riguardanti i detentori delle armi e delle munizioni conservati nel CED; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    «aggiornamento», l'operazione di trattamento elettronico che consente di modificare o di cancellare, con modalita' sicure, i dati gia' contenuti nel SITAM, nel rispetto dei principi stabiliti dall'articolo 3 del decreto legislativo n. 51 del 2018; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    «amministratore locale SITAM», il dipendente della Polizia di Stato in servizio presso le Questure addetto alla gestione delle utenze per l'accesso al SITAM da parte degli utenti di cui al successivo punto i); 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    «consultazione», l'operazione di trattamento elettronico che consente di accedere, nei limiti stabiliti dal relativo profilo di autorizzazione di cui al comma 3, lettera h), alle informazioni conservate nel SITAM; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    «immissione», l'operazione di trattamento elettronico che consente l'inserimento di dati nel SITAM, per le finalita' per cui esso e' istituito, nel rispetto dei principi stabiliti dall'articolo 3 del decreto legislativo n. 51 del 2018; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    «interrogazione», l'operazione di collegamento telematico con il SITAM al fine di effettuare l'accesso, la consultazione, l'immissione o l'aggiornamento dei dati conservati nel SITAM; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    «operatore», l'appartenente alle Forze di polizia di cui all'articolo 16, primo comma, della legge n. 121 del 1981, in servizio presso il Dipartimento della pubblica sicurezza, le Questure, gli uffici e comandi delle predette Forze di polizia, nei cui confronti sono state rilasciate le credenziali di autenticazione che consentono di effettuare le interrogazioni del SITAM; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    «operatore dell'Amministrazione civile dell'interno», l'appartenente all'Amministrazione civile dell'interno in servizio presso il Dipartimento della pubblica sicurezza, le Prefetture-UTG, le Questure e gli uffici locali di pubblica sicurezza, nei cui confronti sono state rilasciate le credenziali di autenticazione che consentono l'accesso o la consultazione del SITAM; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    «utente», l'armaiolo, il suo rappresentante o i dipendenti dell'armaiolo, nonche' l'intermediario o i suoi dipendenti.
+
+3.
+                        
+                            
+                                Ai fini del presente regolamento si intendono, altresi', per: 
+ 
+                            
+                            
+                                a)
+                                
+                                    «autenticazione», l'insieme degli strumenti elettronici delle procedure per la verifica dell'identita' dell'operatore, dell'operatore dell'Amministrazione civile dell'interno o dell'utente; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    «autenticazione forte», metodo di autenticazione multifattore che si basa sull'utilizzo congiunto di due o piu' fattori di autenticazione individuale; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    «casella di posta elettronica assegnata dall'Amministrazione», casella di posta elettronica istituzionale rilasciata all'operatore, all'operatore dell'Amministrazione civile dell'interno dall'Amministrazione o dall'ente di appartenenza; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    «client», postazione di lavoro che accede ai servizi o alle risorse di un'altra componente servente; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    «credenziali di autenticazione», i dati e i dispositivi in possesso dell'operatore, dell'operatore dell'Amministrazione civile dell'interno ovvero dell'utente, da questi conosciuti e ad essi univocamente correlati, necessari per l'autenticazione; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    «login», la procedura di autenticazione per l'effettuazione di operazioni di trattamento all'interno del SITAM; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    «password», sequenza di caratteri alfanumerici utilizzata per accedere in modo esclusivo a una risorsa informatica; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    «profilo di autorizzazione», l'insieme delle informazioni univocamente associate all'operatore, all'operatore dell'Amministrazione civile dell'interno o all'utente che consente di individuare a quali dati conservati nel SITAM questi ultimi sono abilitati ad accedere, nonche' quali trattamenti sono abilitati ad effettuare; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    «sistema di autorizzazione», l'insieme degli strumenti e delle procedure che abilitano il trattamento dei dati del SITAM in funzione del profilo di autorizzazione riconosciuto all'operatore, all'operatore dell'Amministrazione civile dell'interno ovvero all'utente, a seconda della categoria di soggetti cui esso appartiene o da cui dipende; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    «URL», l'Uniform Resource Locator, sequenza di caratteri che identifica univocamente l'indirizzo di rete del SITAM; 
+
+                                
+                            
+                            
+                                m)
+                                
+                                    «username», nome con il quale l'utente viene riconosciuto da un computer o da un programma informatico; 
+
+                                
+                            
+                            
+                                n)
+                                
+                                    «violazione dei dati personali», la violazione della sicurezza che comporta colposamente o dolosamente la distruzione, la perdita, la modifica, la divulgazione non autorizzata o l'accesso ai dati personali trasmessi, conservati o comunque trattati.
+
+4.
+                        
+                            
+                                Ai fini del presente regolamento, si intendono, altresi', per: 
+ 
+                            
+                            
+                                a)
+                                
+                                    «articolazione competente per la gestione del CED», l'articolazione del servizio per i Sistemi Informativi della Direzione centrale della polizia criminale del Dipartimento della pubblica sicurezza, competente per la gestione del CED; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    «Direzione centrale della polizia criminale», la Direzione centrale della polizia criminale di cui all'articolo 4, comma 2, lettera g), del decreto del Presidente del Consiglio dei ministri 11 giugno 2019, n. 78.
+
+5.
+                        
+                            
+                                Infine, ai fini del presente regolamento, si intendono per: 
+ 
+                            
+                            
+                                a)
+                                
+                                    «CIE», il documento di identita' personale rilasciato dal Ministero dell'interno denominato «Carta di identita' elettronica», come definito dall'articolo 1 del decreto legislativo 7 marzo 2005, n. 82 (CAD); 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    «Identita' digitale», la rappresentazione informatica della corrispondenza biunivoca tra un utente e i suoi attributi identificativi, verificata attraverso l'insieme dei dati raccolti e registrati in forma digitale secondo le modalita' di cui al decreto del Presidente del Consiglio dei ministri, in data 24 ottobre 2014, recante «Definizione delle caratteristiche del sistema pubblico per la gestione dell'identita' digitale di cittadini e imprese (SPID), nonche' dei tempi e delle modalita' di adozione del sistema SPID da parte delle pubbliche amministrazioni e delle imprese» e dei suoi regolamenti attuativi; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    «Identita' digitale uso professionale», l'identita' digitale SPID contenente un attributo che dichiara tale caratteristica, rilasciata secondo le linee guida di cui alla determina dell'AGID n. 318/2019; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    «Regolamento UE 910/2014», il Regolamento UE n. 910/2014 del Parlamento europeo e del Consiglio del 23 luglio 2014, in materia di identificazione elettronica e servizi fiduciari per le transazioni elettroniche nel mercato interno e che abroga la direttiva 1999/93/CE; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    «SPID», il sistema pubblico dell'identita' digitale, istituito ai sensi dell'articolo 64 del CAD, come modificato dall'articolo 17-ter del decreto-legge 21 giugno 2013, n. 69, convertito, con modificazioni, dalla legge 9 agosto 2013, n. 98.
+
 ## - Capo II Dati contenuti nel SITAM e finalità del loro trattamento
 
 ## Art. 3.
@@ -56,6 +440,31 @@ Nota redazionale
 Finalita' dei trattamenti
 
 I dati contenuti nel SITAM sono trattati a fini di controllo sulla circolazione delle armi e delle munizioni, anche nella forma del rilascio, del rinnovo o del diniego delle autorizzazioni, licenze e nulla osta previsti dalla vigente normativa, nonche' a fini di prevenzione e repressione dei reati.
+
+2.
+                        
+                            
+                                I dati contenuti nel SITAM, preventivamente resi anonimi e in forma aggregata, possono essere trattati, altresi', nell'ambito delle rispettive attribuzioni, anche per scopi statistici da: 
+ 
+                            
+                            
+                                a)
+                                
+                                    gli uffici del Dipartimento della pubblica sicurezza competenti ad esercitare il controllo sulla circolazione delle armi e delle munizioni, anche nella forma del rilascio, del rinnovo o del diniego delle autorizzazioni, licenze e nulla osta previsti dalla vigente normativa, nonche' in materia di prevenzione e repressione dei reati; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le Prefetture-UTG; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    le Questure e gli altri uffici della Polizia di Stato, nonche' i comandi e reparti dell'Arma dei carabinieri e della Guardia di finanza, competenti nella materia di cui alla lettera a).
 
 Per le finalita' di cui al comma 2, il SITAM e' dotato di un sistema per le elaborazioni statistiche che permette di analizzare in forma anonima e aggregata i dati riguardanti le armi, le parti di arma e le munizioni, nonche' il numero aggregato degli armaioli, degli intermediari e degli altri soggetti che detengono le armi, le parti di arma e le munizioni.
 
@@ -69,9 +478,54 @@ I dati presenti negli archivi informatici sono configurati in maniera conforme a
 
 ## Art. 5. — Periodo di conservazione dei dati contenuti nel SITAM
 
+1.
+                        
+                            
+                                I periodi di conservazione dei dati di cui all'articolo 4 sono stabiliti come segue: 
+ 
+                            
+                            
+                                a)
+                                
+                                    per i dati di cui all'Allegato A al presente regolamento, relativi alle armi da fuoco e alle parti di arma, compresi i dati identificativi dei fornitori, degli acquirenti e dei detentori, 30 anni dalla data della distruzione dell'arma o della parte di essa; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    per i dati di cui all'Allegato B, relativi alle armi diverse da quelle da fuoco ed alle repliche di armi antiche ad avancarica a colpo singolo, compresi i dati identificativi dei fornitori, degli acquirenti e dei detentori: 
+ 1) 30 anni dalla data della distruzione dell'arma ad aria o a gas compressi, lunga o corta, i cui proiettili erogano un'energia cinetica superiore a 7,5 joule; 
+ 2) 10 anni dalla data in cui si e' conclusa l'operazione di esportazione, di trasferimento verso un Paese dell'Unione europea, ovvero di vendita o di cessione a qualunque altro titolo in favore di un soggetto diverso dagli armaioli o dagli intermediari, per l'arma da sparo a modesta capacita' offensiva, funzionante ad aria o a gas compressi, i cui proiettili erogano un'energia cinetica non superiore a 7,5 joule; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    per i dati di cui all'Allegato C, relativi alle munizioni, 5 anni dalla data in cui si e' conclusa l'operazione di esportazione o importazione, di trasferimento da e verso un Paese dell'Unione europea, ovvero di vendita o di cessione a qualunque altro titolo in favore di un soggetto diverso dagli armaioli o dagli intermediari.
+
 Decorsi i termini di cui al comma 1, i dati raccolti nel SITAM sono cancellati o resi anonimi con modalita' automatizzate.
 
 ## Art. 6. — Raffronto con i dati inseriti nel CED
+
+1.
+                        
+                            
+                                Il SITAM, attraverso meccanismi di cooperazione applicativa, consente agli operatori di connettersi al CED, al fine di: 
+ 
+                            
+                            
+                                a)
+                                
+                                    raffrontare i dati esistenti nello stesso CED, relativi alle armi e alle munizioni, con quelli acquisiti ai fini dell'immissione nel SITAM; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    acquisire, ai fini dell'immissione nel SITAM, i dati conservati nel CED relativi alle armi, in modo da garantire la completezza ed esattezza dei dati inseriti.
 
 ## - Capo III Organizzazione e struttura del SITAM
 
@@ -91,13 +545,131 @@ Il CEN cura il ciclo di vita delle utenze degli amministratori locali SITAM pres
 ## Art. 9. — Compiti della Direzione centrale della 
  polizia criminale
 
+1.
+                        
+                            
+                                La Direzione centrale della polizia criminale, attraverso la propria articolazione competente per la gestione del CED, relativamente al trattamento dei dati presenti nel SITAM, e' responsabile del rilascio, secondo le politiche di sicurezza conformi agli standard stabiliti dalle vigenti normative in materia di protezione dei dati personali, dei profili di autorizzazione nei confronti di: 
+ 
+                            
+                            
+                                a)
+                                
+                                    soggetti di cui all'articolo 16, comma 1, lettere a), b), c), d), e), f) e g); 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    appartenenti agli Organismi di informazione e sicurezza, di cui all'articolo 19, comma 1; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    operatori dell'Amministrazione civile dell'interno in servizio presso le Prefetture-UTG, di cui all'articolo 18, comma 1.
+
 I soggetti di cui al comma 1, lettere a), b) e c) accedono al SITAM per il tramite del portale dell'articolazione competente per la gestione del CED. I soggetti di cui al comma 1, lettere a), b) e c), che accedono al portale sono identificati tramite un codice univoco e sono abilitati allo svolgimento delle funzioni applicative di competenza dell'unita' organizzativa cui sono preposti o assegnati, coerentemente con l'ambito di trattamento consentito dal profilo di autorizzazione. Ai fini dell'accesso al SITAM, il codice identificativo e le credenziali di autenticazione di cui all'articolo 2, comma 3, lettera e), sono conformi almeno al livello 2 di sicurezza o garanzia (Level of Assurance - LoA) previsto dallo standard internazionale ISO/IEC 29115, con impiego di un sistema di autenticazione a due fattori, non necessariamente basato su certificati digitali.
 
 ## Art. 10. — Compiti delle Questure
 
+1.
+                        
+                            
+                                Le Questure provvedono, per il tramite dell'amministratore locale SITAM, ad effettuare le seguenti operazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    abilitare, previa verifica dei requisiti previsti dal presente regolamento, gli utenti nei casi previsti dall'articolo 24; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    verificare il corretto utilizzo delle abilitazioni per l'accesso al sistema da parte degli utenti; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    disabilitare l'accesso al SITAM nei casi previsti dagli articoli 25 e 26.
+
 ## Art. 11. — Archivi informatici del SITAM
 
+1.
+                        
+                            
+                                Il SITAM e' composto dai seguenti archivi informatici: 
+ 
+                            
+                            
+                                a)
+                                
+                                    l'archivio delle armi da fuoco, nel quale sono riportati, per ciascuna arma da fuoco e per ciascuna parte di arma da fuoco, i dati di cui all'Allegato A; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'archivio delle armi diverse da quelle da fuoco e delle repliche di armi antiche ad avancarica a colpo singolo, nel quale sono riportati per ciascuna arma i dati di cui all'Allegato B; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    l'archivio delle munizioni, nel quale sono riportati per ogni unita' elementare di imballaggio delle munizioni per armi da fuoco, i dati di cui all'Allegato C.
+
+2.
+                        
+                            
+                                Gli archivi di cui al comma 1, lettere a) e b) sono strutturati in modo da consentire ai soggetti autorizzati alla consultazione di effettuare ricerche finalizzate a: 
+ 
+                            
+                            
+                                a)
+                                
+                                    ricostruire la filiera dei passaggi di proprieta' e comunque della cessione, a qualunque titolo, di ciascuna arma da fuoco, parte di arma da fuoco e arma diversa da quella da fuoco; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    riepilogare le eventuali modifiche che abbiano mutato le caratteristiche tecniche dell'arma da fuoco o gli interventi di sostituzione delle parti di arma.
+
 L'archivio di cui al comma 1 lettera c) e' strutturato in modo da consentire ai soggetti autorizzati alla consultazione di effettuare ricerche finalizzate a ricostruire la filiera dei passaggi di proprieta' e comunque della cessione, a qualunque titolo, di ciascuna unita' elementare di imballaggio delle munizioni per armi da fuoco.
+
+4.
+                        
+                            
+                                Gli archivi di cui al comma 1 sono, inoltre, strutturati in modo da consentire: 
+ 
+                            
+                            
+                                a)
+                                
+                                    l'elaborazione automatica di un riepilogo mensile delle operazioni compiute da ciascun armaiolo e dall'intermediario e il suo invio automatico alle Questure e agli altri uffici e comandi delle Forze di polizia per le finalita' previste dall'articolo 3, commi 1 e 2; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    ai soggetti autorizzati alla consultazione, l'effettuazione di ricerche finalizzate ad acquisire i dati relativi a ciascun armaiolo, intermediario o soggetto che detenga o abbia detenuto armi, parti di arma da fuoco o munizioni; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    la trattazione dei dati per finalita' statistiche dei dati resi anonimi e aggregati, di cui all'articolo 3, commi 2 e 3.
 
 L'elaborazione automatica del riepilogo mensile delle operazioni compiute dall'armaiolo o intermediario e la sua messa a disposizione delle Questure e degli altri uffici e comandi delle Forze di polizia tiene luogo della comunicazione mensile prevista dagli articoli 35, comma 4, e 55, primo comma, terzo periodo, TULPS.
 
@@ -127,6 +699,59 @@ Le interrogazioni sono effettuate dai soggetti indicati dagli articoli 16, 17, 1
 
 ## Art. 16. — Soggetti legittimati all'accesso al SITAM
 
+1.
+                        
+                            
+                                I soggetti che possono effettuare operazioni di accesso ai dati conservati nel SITAM sono: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il Questore e il dirigente che ne svolge le funzioni vicarie; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il personale delle Forze di polizia delle qualifiche, anche non dirigenziali, in servizio presso gli uffici del Dipartimento della pubblica sicurezza competenti ad esercitare il controllo sulla circolazione delle armi e delle munizioni, anche nella forma del rilascio, del rinnovo o del diniego delle autorizzazioni, licenze e nulla osta previsti dalla vigente normativa, nonche' in materia di prevenzione e repressione dei reati; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il personale della Polizia di Stato, anche delle qualifiche non dirigenziali, della Questura e degli uffici di pubblica sicurezza, preposto o addetto agli uffici, competenti ad esercitare il controllo sulla circolazione delle armi e delle munizioni, anche nella forma del rilascio, del rinnovo o del diniego delle autorizzazioni, licenze e nulla osta previsti dalla vigente normativa, nonche' in materia di prevenzione e repressione dei reati; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    gli ufficiali dell'Arma dei carabinieri e della Guardia di finanza preposti o addetti a comandi, unita' o reparti, competenti a contribuire, anche sul piano informativo, alle attivita' di controllo sulla circolazione delle armi e delle munizioni, nonche' in materia di prevenzione e repressione dei reati; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    il personale dell'Arma dei carabinieri e della Guardia di finanza appartenente ai comandi, unita' o reparti di cui alla lettera d), autorizzato dai relativi responsabili; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    il personale dell'Amministrazione civile dell'interno delle qualifiche non dirigenziali, addetto alle articolazioni della Questura, nonche' degli altri uffici locali di pubblica sicurezza, competenti ad esercitare il controllo sulla circolazione delle armi e delle munizioni, anche nella forma del rilascio, del rinnovo o del diniego delle autorizzazioni, licenze e nulla osta previsti dalla vigente normativa; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    il personale dell'Amministrazione civile dell'interno delle qualifiche non dirigenziali, addetto alle articolazioni del Dipartimento della pubblica sicurezza, competenti ad esercitare il controllo sulla circolazione delle armi e delle munizioni, anche nella forma del rilascio, del rinnovo o del diniego delle autorizzazioni, licenze e nulla osta previsti dalla vigente normativa.
+
 Le operazioni di accesso ai dati conservati nel SITAM possono altresi' essere effettuate dall'amministratore locale SITAM limitatamente allo svolgimento delle attivita', di sicurezza, tenuta e conservazione dei dati.
 
 L'accesso da parte dei soggetti di cui ai commi 1 e 2 avviene esclusivamente per il tramite del portale di accesso ai servizi dell'articolazione competente per la gestione del CED, mediante tecniche di identita' federata, con accreditamento unico per l'intero dominio, secondo le politiche di sicurezza conformi agli standard stabiliti dalle vigenti normative in materia di protezione dei dati personali.
@@ -153,6 +778,31 @@ Gli operatori, gli operatori dell'Amministrazione civile dell'interno in servizi
 Gli utenti effettuano la correzione per via telematica degli eventuali errori materiali commessi, entro settantadue ore lavorative dalla prima immissione degli stessi. Decorso tale termine, gli utenti comunicano l'errore materiale commesso e la correzione da apportare alla Questura territorialmente competente, che provvede all'immissione, dopo aver verificato l'esattezza delle relative correzioni.
 
 ## Art. 18. — Consultazione del SITAM da parte del personale dell'Amministrazione civile dell'interno in servizio presso le Prefetture-UTG
+
+1.
+                        
+                            
+                                Il SITAM puo' essere consultato dal seguente personale appartenente all'Amministrazione civile dell'interno: 
+ 
+                            
+                            
+                                a)
+                                
+                                    Prefetti in servizio presso le Prefetture-UTG; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    viceprefetti vicari delle Prefetture-UTG; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    personale, anche delle carriere non dirigenziali, preposto o addetto agli uffici della Prefettura-UTG, competenti ad esercitare il controllo sulla circolazione delle armi e delle munizioni, anche nella forma del rilascio, del rinnovo o del diniego delle autorizzazioni, licenze e nulla osta previsti dalla vigente normativa.
 
 Al predetto personale sono rilasciate, dall'articolazione competente per la gestione del CED, le credenziali di autenticazione che consentono esclusivamente le operazioni di consultazione del SITAM.
 
@@ -190,6 +840,59 @@ Assegnazione delle credenziali di autenticazione al personale in servizio presso
 
 Il Questore o, su sua delega, il dirigente che ne svolge le funzioni vicarie, e il responsabile del competente ufficio o comando di livello provinciale delle Forze di polizia comunicano, per via telematica, all'articolazione competente per la gestione del CED, gli elenchi dei propri dipendenti per i quali viene richiesto il rilascio delle credenziali di autenticazione per finalita' di accesso, di immissione o aggiornamento dei dati.
 
+2.
+                        
+                            
+                                Per ciascun operatore devono essere riportati i seguenti dati: 
+ 
+                            
+                            
+                                a)
+                                
+                                    nome e cognome; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    data e luogo di nascita; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    luogo di residenza; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    codice fiscale; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    qualifica o grado; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    Ufficio di appartenenza; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    casella di posta elettronica assegnata dall'Amministrazione.
+
 L'articolazione competente per la gestione del CED genera le credenziali di autenticazione e le assegna individualmente a ciascuno dei soggetti di cui all'articolo 9, secondo le politiche di sicurezza adottate.
 
 La procedura di cui al comma 1 si applica anche al personale non dirigente della Amministrazione civile dell'interno, preposto o addetto agli uffici della Questura competenti ad esercitare il controllo sulla circolazione delle armi e delle munizioni, anche nella forma del rilascio, del rinnovo o del diniego delle autorizzazioni, licenze e nulla osta previsti dalla vigente normativa.
@@ -203,6 +906,31 @@ L'assegnazione delle credenziali di autenticazione per finalita' di consultazion
 ## Art. 24.
 
 Richiesta di abilitazione degli utenti per finalita' di accesso, di immissione o di aggiornamento dei dati
+
+1.
+                        
+                            
+                                L'armaiolo, il suo rappresentante, ovvero l'intermediario, titolare di un'identita' digitale di cui all'articolo 17, comma 3, richiede l'abilitazione per l'accesso al SITAM alla Questura: 
+ 
+                            
+                            
+                                a)
+                                
+                                    del luogo in cui ha sede legale l'impresa, relativamente all'armaiolo o all'intermediario; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    del luogo in cui si trova lo stabilimento, l'opificio o il ramo d'azienda per la cui gestione il rappresentante dell'armaiolo ha conseguito l'approvazione ai sensi dell'articolo 8, secondo comma, TULPS; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    del luogo in cui si trova lo stabilimento, l'opificio o la sede dell'impresa presso i quali i dipendenti dell'armaiolo e dell'intermediario svolgono la propria attivita' lavorativa.
 
 La Questura provvede a verificare che il soggetto che ha richiesto l'abilitazione per l'accesso al SITAM rivesta la qualita' di utente e comunica l'avvenuta abilitazione.
 
@@ -262,6 +990,98 @@ Il SITAM implementa apposite funzioni, al fine di consentire agli utenti di eseg
 Il SITAM segnala, in un apposito registro accessibile alle Questure e agli altri uffici e comandi delle Forze di polizia, le correzioni o le rettifiche dei dati inseriti, apportate ai sensi del comma 2.
 
 ## Art. 28. — Immissione ed aggiornamento dei dati da parte delle Questure e degli altri uffici e comandi delle Forze di polizia
+
+1.
+                        
+                            
+                                Le Questure, gli uffici di pubblica sicurezza, i comandi territoriali dell'Arma dei carabinieri immettono nel SITAM i dati indicati negli Allegati A, B, C riguardanti le seguenti operazioni compiute da soggetti privati diversi dall'armaiolo o dall'intermediario aventi ad oggetto armi da fuoco, parti di arma, armi diverse da quelle da fuoco ovvero le repliche di armi antiche ad avancarica a colpo singolo: 
+ 
+                            
+                            
+                                a)
+                                
+                                    denuncia di detenzione di arma da fuoco o di parte di arma; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    cessione o acquisto dell'arma da fuoco o di parte di arma; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    furto, appropriazione indebita, smarrimento e rinvenimento dell'arma da fuoco o di parte di arma; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    ritiro cautelare e confisca dell'arma da fuoco o di parte di arma disposto, ai sensi delle vigenti normative, dall'Autorita' provinciale di pubblica sicurezza; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    disattivazione o distruzione dell'arma da fuoco; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    versamento spontaneo dell'arma da fuoco presso la Questura ovvero presso gli altri uffici e comandi delle Forze di polizia.
+
+2.
+                        
+                            
+                                Le Questure, gli uffici di pubblica sicurezza, i comandi territoriali dell'Arma dei carabinieri immettono nel SITAM i dati indicati negli Allegati A, B, C riguardanti le seguenti operazioni aventi ad oggetto munizioni nel caso in cui esse siano compiute da soggetti privati diversi dall'armaiolo o dall'intermediario e siano assoggettate all'obbligo di denuncia o di licenza rilasciata dall'Autorita' di pubblica sicurezza: 
+ 
+                            
+                            
+                                a)
+                                
+                                    denuncia di detenzione di munizioni; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    cessione o acquisto di munizioni; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    furto o smarrimento di munizioni; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    ritiro cautelare e confisca delle munizioni disposto, ai sensi delle vigenti normative, dall'Autorita' provinciale di pubblica sicurezza; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    distruzione delle munizioni; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    versamento spontaneo delle munizioni presso la Questura ovvero presso gli altri uffici e comandi delle Forze di polizia.
 
 Gli uffici e comandi delle Forze di polizia provvedono, inoltre, ad immettere nel SITAM i dati relativi alle armi da fuoco, alle parti di arma, alle armi diverse da quelle da fuoco, alle repliche di armi antiche ad avancarica a colpo singolo e alle munizioni di cui l'Autorita' giudiziaria abbia disposto il sequestro o la confisca nell'ambito di procedimenti penali o di procedimenti per l'applicazione di una misura di prevenzione personale o patrimoniale.
 

@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Regolamenti di delegificazione
 vigenza_date: 2015-07-16
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:40:24Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -57,6 +57,24 @@ Le istituzioni scolastiche parificate, pareggiate e legalmente riconosciute entr
 
 Ogni istituzione scolastica predispone, con la partecipazione di tutte le sue componenti, il piano triennale dell'offerta formativa, rivedibile annualmente. Il piano e' il documento fondamentale costitutivo dell'identita' culturale e progettuale delle istituzioni scolastiche ed esplicita la progettazione curricolare, extracurricolare, educativa e organizzativa che le singole scuole adottano nell'ambito della loro autonomia.
 
+2.
+                        
+                            
+                                Il piano e' coerente con gli obiettivi generali ed educativi dei diversi tipi e indirizzi di studi, determinati a livello nazionale a norma dell'articolo 8, e riflette le esigenze del contesto culturale, sociale ed economico della realta' locale, tenendo conto della programmazione territoriale dell'offerta formativa. Esso comprende e riconosce le diverse opzioni metodologiche, anche di gruppi minoritari, valorizza le corrispondenti professionalita' e indica gli insegnamenti e le discipline tali da coprire: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il fabbisogno dei posti comuni e di sostegno dell'organico dell'autonomia, sulla base del monte orario degli insegnamenti, con riferimento anche alla quota di autonomia dei curricoli e agli spazi di flessibilita', nonche' del numero di alunni con disabilita', ferma restando la possibilita' di istituire posti di sostegno in deroga nei limiti delle risorse previste a legislazione vigente; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il fabbisogno dei posti per il potenziamento dell'offerta formativa.
+
 Il piano indica altresi' il fabbisogno relativo ai posti del personale amministrativo, tecnico e ausiliario, nel rispetto dei limiti e dei parametri stabiliti dal regolamento di cui al decreto del Presidente della Repubblica 22 giugno 2009, n. 119, tenuto conto di quanto previsto dall'articolo 1, comma 334, della legge 29 dicembre 2014, n. 190, il fabbisogno di infrastrutture e di attrezzature materiali, nonche' i piani di miglioramento dell'istituzione scolastica previsti dal regolamento di cui al decreto del Presidente della Repubblica 28 marzo 2013, n. 80.
 
 Il piano e' elaborato dal collegio dei docenti sulla base degli indirizzi per le attivita' della scuola e delle scelte di gestione e di amministrazione definiti dal dirigente scolastico. Il piano e' approvato dal consiglio d'istituto.
@@ -66,6 +84,41 @@ Il piano e' elaborato dal collegio dei docenti sulla base degli indirizzi per le
 ## Art. 4. — (Autonomia didattica)
 
 Le istituzioni scolastiche, nel rispetto della liberta' di insegnamento, della liberta' di scelta educativa delle famiglie e delle finalita' generali del sistema, a norma dell'articolo 8 concretizzano gli obiettivi nazionali in percorsi formativi funzionali alla realizzazione del diritto ad apprendere e alla crescita educativa di tutti gli alunni, riconoscono e valorizzano le diversita', promuovono le potenzialita' di ciascuno adottando tutte le iniziative utili al raggiungimento del successo formativo.
+
+2.
+                        
+                            
+                                Nell'esercizio dell'autonomia didattica le istituzioni scolastiche regolano i tempi dell'insegnamento e dello svolgimento delle singole discipline e attivita' nel modo piu' adeguato al tipo di studi e ai ritmi di apprendimento degli alunni. A tal fine le istituzioni scolastiche possono adottare tutte le forme di flessibilita' che ritengono opportune e tra l'altro:
+
+                            
+                            
+                                a)
+                                
+                                    l'articolazione modulare del monte ore annuale di ciascuna disciplina e attivita';
+                                
+                            
+                            
+                                b)
+                                
+                                    la definizione di unita' di insegnamento non coincidenti con l'unita' oraria della lezione e l'utilizzazione, nell'ambito del curricolo obbligatorio di cui all'articolo 8, degli spazi orari residui;
+                                
+                            
+                            
+                                c)
+                                
+                                    l'attivazione di percorsi didattici individualizzati, nel rispetto del principio generale dell'integrazione degli alunni nella classe e nel gruppo, anche in relazione agli alunni in situazione di handicap secondo quanto previsto dalla legge 5 febbraio 1992, n. 104;
+                                
+                            
+                            
+                                d)
+                                
+                                    l'articolazione modulare di gruppi di alunni provenienti dalla stessa o da diverse classi o da diversi anni di corso;
+                                
+                            
+                            
+                                e)
+                                
+                                    l'aggregazione delle discipline in aree e ambiti disciplinari.
 
 Nell'ambito dell'autonomia didattica possono essere programmati, anche sulla base degli interessi manifestati dagli alunni, percorsi formativi che coinvolgono piu' discipline e attivita', nonche' insegnamenti in lingua straniera in attuazione di intese e accordi internazionali.
 
@@ -89,6 +142,55 @@ In ciascuna istituzione scolastica le modalita' di impiego dei docenti possono e
 
 ## Art. 6. — (Autonomia di ricerca, sperimentazione e sviluppo)
 
+1.
+                        
+                            
+                                Le istituzioni scolastiche, singolarmente o tra loro associate, esercitano l'autonomia di ricerca, sperimentazione e sviluppo tenendo conto delle esigenze del contesto culturale, sociale ed economico delle realta' locali e curando tra l'altro:
+ 
+                            
+                            
+                                a)
+                                
+                                    la progettazione formativa e la ricerca valutativa;
+                                
+                            
+                            
+                                b)
+                                
+                                    la formazione e l'aggiornamento culturale e professionale del personale scolastico;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    l'innovazione metodologica e disciplinare;
+                                
+                            
+                            
+                                d)
+                                
+                                    la ricerca didattica sulle diverse valenze delle tecnologie dell'informazione e della comunicazione e sulla loro integrazione nei processi formativi;
+                                
+                            
+                            
+                                e)
+                                
+                                    la documentazione educativa e la sua diffusione all'interno della scuola;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    gli scambi di informazioni, esperienze e materiali didattici;
+                                
+                            
+                            
+                                g)
+                                
+                                    l'integrazione fra le diverse articolazioni del sistema scolastico e, d'intesa con i soggetti istituzionali competenti, fra i diversi sistemi formativi, ivi compresa la formazione professionale.
+
 Se il progetto di ricerca e innovazione richiede modifiche strutturali che vanno oltre la flessibilita' curricolare prevista dall'articolo 8, le istituzioni scolastiche propongono iniziative finalizzate alle innovazioni con le modalita' di cui all'articolo 11.
 
 Ai fini di cui al presente articolo le istituzioni scolastiche sviluppano e potenziano lo scambio di documentazione e di informazioni attivando collegamenti reciproci, nonche' con il Centro europeo dell'educazione, la Biblioteca di documentazione pedagogica e gli Istituti regionali di ricerca, sperimentazione e aggiornamento educativi; tali collegamenti possono estendersi a universita' e ad altri soggetti pubblici e privati che svolgono attivita' di ricerca.
@@ -105,6 +207,37 @@ L'accordo individua l'organo responsabile della gestione delle risorse e del rag
 
 Gli accordi sono aperti all'adesione di tutte le istituzioni scolastiche che intendano parteciparvi e prevedono iniziative per favorire la partecipazione alla rete delle istituzioni scolastiche che presentano situazioni di difficolta'.
 
+6.
+                        
+                            
+                                Nell'ambito delle reti di scuole, possono essere istituiti laboratori finalizzati tra l'altro a:
+ 
+                            
+                            
+                                a)
+                                
+                                    la ricerca didattica e la sperimentazione;
+                                
+                            
+                            
+                                b)
+                                
+                                    la documentazione, secondo procedure definite a livello nazionale per la piu' ampia circolazione, anche attraverso rete telematica, di ricerche, esperienze, documenti e informazioni;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    la formazione in servizio del personale scolastico;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    l'orientamento scolastico e professionale.
+
 Quando sono istituite reti di scuole, gli organici funzionali di istituto possono essere definiti in modo da consentire l'affidamento a personale dotato di specifiche esperienze e competenze di compiti organizzativi e di raccordo interistituzionale e di gestione dei laboratori di cui al comma 6.
 
 Le scuole, sia singolarmente che collegate in rete, possono stipulare convenzioni con universita' statali o private, ovvero con istituzioni, enti, associazioni o agenzie operanti sul territorio che intendono dare il loro apporto alla realizzazione di specifici obiettivi.
@@ -116,6 +249,59 @@ Le istituzioni scolastiche possono costituire o aderire a consorzi pubblici e pr
 ## - TITOLO I Istituzioni scolastiche nel quadro dell'autonomia CAPO III CURRICOLO NELL'AUTONOMIA
 
 ## Art. 8. — (Definizione dei curricoli)
+
+1.
+                        
+                            
+                                Il Ministro della pubblica istruzione, previo parere delle competenti Commissioni parlamentari sulle linee e sugli indirizzi generali, definisce a norma dell'articolo 205 del decreto legislativo 16 aprile 1994, n. 297 sentito il Consiglio nazionale della pubblica istruzione, per i diversi tipi e indirizzi di studio:
+ 
+                            
+                            
+                                a)
+                                
+                                    gli obiettivi generali del processo formativo;
+                                
+                            
+                            
+                                b)
+                                
+                                    gli obiettivi specifici di apprendimento relativi alle competenze degli alunni;
+                                
+                            
+                            
+                                c)
+                                
+                                    le discipline e le attivita' costituenti la quota nazionale dei curricoli e il relativo monte ore annuale;
+                                
+                            
+                            
+                                d)
+                                
+                                    l'orario obbligatorio annuale complessivo dei curricoli comprensivo della quota nazionale obbligatoria e della quota obbligatoria riservata alle istituzioni scolastiche;
+                                
+                            
+                            
+                                e)
+                                
+                                    i limiti di flessibilita' temporale per realizzare compensazioni tra discipline e attivita' della quota nazionale del curricolo;
+                                
+                            
+                            
+                                f)
+                                
+                                    gli standard relativi alla qualita' del servizio;
+                                
+                            
+                            
+                                g)
+                                
+                                    gli indirizzi generali circa la valutazione degli alunni, il riconoscimento dei crediti e dei debiti formativi;
+                                
+                            
+                            
+                                h)
+                                
+                                    i criteri generali per l'organizzazione dei percorsi formativi finalizzati all'educazione permanente degli adulti, anche a distanza, da attuare nel sistema integrato di istruzione, formazione, lavoro, sentita la Conferenza unificata.
 
 Le istituzioni scolastiche determinano, nel Piano dell'offerta formativa il curricolo obbligatorio per i propri alunni in modo da integrare, a norma del comma 1, la quota definita a livello nazionale con la quota loro riservata che comprende le discipline e le attivita' da esse liberamente scelte. Nella determinazione del curricolo le istituzioni scolastiche precisano le scelte di flessibilita' previste dal comma 1, lettera e).
 
@@ -209,6 +395,41 @@ L'Avvocatura dello Stato continua ad assumere la rappresentanza e la difesa nei 
 ))
 
 ## Art. 15. — (Competenze escluse)
+
+1.
+                        
+                            
+                                Sono escluse dall'attribuzione alle istituzioni scolastiche le seguenti funzioni in materia di personale, il cui esercizio e' legato ad un ambito territoriale piu' ampio di quello di competenza della singola istituzione, ovvero richiede garanzie particolari in relazione alla tutela della liberta' di insegnamento:
+
+                            
+                            
+                                a)
+                                
+                                    formazione delle graduatorie permanenti riferite ad ambiti territoriali piu' vasti di quelli della singola istituzione scolastica;
+                                
+                            
+                            
+                                b)
+                                
+                                    reclutamento del personale docente, amministrativo, tecnico e ausiliario con rapporto di lavoro a tempo indeterminato;
+                                
+                            
+                            
+                                c)
+                                
+                                    mobilita' esterna alle istituzioni scolastiche e utilizzazione del personale eccedente l'organico funzionale di istituto;
+                                
+                            
+                            
+                                d)
+                                
+                                    autorizzazioni per utilizzazioni ed esoneri per i quali sia previsto un contingente nazionale; comandi, utilizzazioni e collocamenti fuori ruolo;
+                                
+                            
+                            
+                                e)
+                                
+                                    riconoscimento di titoli di studio esteri, fatto salvo quanto previsto nell'articolo 14. comma 2.
 
 Resta ferma la normativa vigente in materia di provvedimenti disciplinari nei confronti del personale docente, amministrativo, tecnico e ausiliario.
 

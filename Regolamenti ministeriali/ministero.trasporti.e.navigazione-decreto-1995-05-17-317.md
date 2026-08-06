@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
 vigenza_date: 2015-05-07
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:38Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -46,6 +46,24 @@ COMMA ABROGATO DAL D.L. 31 GENNAIO 2007, N. 7, CONVERTITO, CON MODIFICAZIONI DAL
 
 ## Art. 2. — Capacita' finanziaria
 
+1.
+                    
+                        
+                            Le persone fisiche o giuridiche, ((per avviare l'esercizio)) dell'attivita' di autoscuola, debbono dimostrare una adeguata capacita' finanziaria mediante un certificato attestante la proprieta' di beni immobili di valore non inferiore a L. 100.000.000 liberi da gravami ipotecari ovvero una attestazione di affidamento nelle varie forme tecniche, rilasciata da parte di: 
+ 
+                        
+                        
+                            a)
+                            
+                                aziende o istituti di credito; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                societa' finanziarie con capitale sociale non inferiore a cinque miliardi.
+
 L'attestazione riferita ad un importo di lire 50.000.000, deve essere formulata secondo lo schema allegato al presente regolamento.
 
 ## Art. 3. — Locali delle autoscuole e dei centri di istruzione
@@ -70,7 +88,115 @@ I criteri dettati nel presente articolo non si applicano alle autoscuole autoriz
 
 ## Art. 4. — Arredamento didattico
 
+1.
+                    
+                        
+                            L'arredamento dell'aula d'insegnamento e' costituito almeno dai seguenti elementi: 
+ 
+                        
+                        
+                            a)
+                            
+                                una cattedra od un tavolo per l'insegnante; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                una lavagna dalle dimensioni minime di metri 1,10 x 0,80 o lavagna luminosa ((, fatta eccezione per il caso che le lezioni teoriche siano svolte avvalendosi dei supporti audiovisivi o multimediali, di cui all'articolo 5, comma 2)); 
+
+                            
+                        
+                        
+                            c)
+                            
+                                posti a sedere per gli allievi in proporzione alla disponibilita' di superficie dell'aula per ogni allievo ((, in conformita' a quanto previsto dal regolamento edilizio vigente nel comune in cui ha sede l'autoscuola)).
+
 ## Art. 5. — Materiale per lezioni teoriche
+
+1.
+                    
+                        
+                            Il materiale didattico per l'insegnamento teorico e' costituito da: 
+ 
+                        
+                        
+                            a)
+                            
+                                una serie di cartelli con le segnalazioni stradali: 
+ segnaletica verticale, segnaletica orizzontale, segnaletica luminosa; 
+                            
+                        
+                        
+                            b)
+                            
+                                un quadro elettrico con impianto di illuminazione degli 
+autoveicoli e dei motoveicoli; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                tavole raffiguranti le cinture di sicurezza, il casco e la loro funzione; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                tavole raffiguranti i dispositivi per ridurre l'inquinamento atmosferico; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                tavole raffiguranti gli interventi di primo soccorso; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                pannelli ovvero tavole relativi al trasporto di merci pericolose e carichi sporgenti; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                una serie di tavole raffiguranti i principali organi del motore, gli impianti di raffreddamento, di lubrificazione, di accensione, il carburatore, la pompa d'iniezione, gli elementi frenanti, le sospensioni, la struttura della carrozzeria degli autoveicoli, la struttura dei motoveicoli; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                un gruppo motore a scoppio e uno diesel anche in scala ridotta pur se monocilindrico, sezionato, dove siano evidenziati il monoblocco, l'impianto di raffreddamento e di lubrificazione; un cambio e freni idraulici; le sospensioni, una ruota con pneumatico sezionato, una pompa di iniezione sezionata. 
+ ((. . . ))
+                                
+                            
+                        
+                        
+                            i)
+                            
+                                una serie di cartelli raffiguranti il motore diesel, l'iniezione, l'alimentazione, il servosterzo, l'droguida, gli impianti e gli elementi frenanti dei veicoli industriali; 
+
+                            
+                        
+                        
+                            l)
+                            
+                                una serie di cartelli raffiguranti gli organi di traino dei veicoli industriali, le loro sospensioni, gli organi di frenatura dei rimorchi, la diversa classificazione di detti veicoli; 
+
+                            
+                        
+                        
+                            m)
+                            
+                                elementi frenanti sia per il freno misto che per quello del tipo ad aria compressa, compresi gli elementi di frenatura del rimorchio.
 
 ((
 
@@ -97,6 +223,45 @@ I veicoli di cui al comma 1 possono essere dotati di cambio manuale, quale defin
 Il centro di istruzione automobilistica, costituito da due o piu' autoscuole ai sensi dell'articolo 123, comma 7, del decreto legislativo 30 aprile 1992, n. 285, e' riconosciuto dalla provincia territorialmente competente in ragione del luogo ove ha sede il centro stesso.
 
 Le autoscuole che aderiscono al consorzio che ha costituito un centro di istruzione automobilistica hanno sede nella medesima provincia ove e' ubicato il predetto centro di istruzione, fatta salva l'ipotesi di autoscuole aventi sede in comuni appartenenti a province diverse, purche' limitrofi al comune in cui e' ubicata la sede del centro stesso.
+
+3.
+                    
+                        
+                            Ai fini del riconoscimento di cui al comma 1, il legale rappresentante del consorzio presenta apposita dichiarazione di inizio di attivita' alla provincia territorialmente competente, recante: 
+ 
+                        
+                        
+                            a)
+                            
+                                la denominazione delle autoscuole aderenti e le generalita' dei rispettivi legali rappresentanti; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                le generalita' del responsabile del centro di istruzione automobilistica, che deve essere in possesso dei requisiti di cui all'articolo 123, commi 5 e 6, del decreto legislativo 30 aprile 1992, n. 285, fatta eccezione per la capacita' finanziaria; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                le generalita' degli insegnanti e degli istruttori dei quali il centro si avvale per l'espletamento della formazione teorica e pratica che le autoscuole consorziate hanno conferito allo stesso; qualora siano stati conferiti esclusivamente corsi di formazione teorica o di formazione pratica, sono indicate le generalita' rispettivamente dei soli insegnanti o dei soli istruttori specificando, per questi ultimi, che sono titolari di abilitazione adeguata alla tipologia di corsi conferiti; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                l'ubicazione della sede del centro di istruzione automobilistica, che deve essere in uno dei comuni in cui ha sede una delle autoscuole consorziate; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                il tipo di corsi di formazione svolti dal centro di istruzione automobilistica.
 
 Con la dichiarazione di inizio attivita' di cui al comma 3, il legale rappresentante del consorzio presenta alla provincia territorialmente competente dichiarazione sostitutiva di atto di notorieta' comprovante la conformita' dei locali, dell'arredamento didattico e del materiale per le lezioni teoriche e per le esercitazioni di guida alle prescrizioni di cui rispettivamente agli articoli 3, 4, 5 e 6, con esclusione del veicolo utile al conseguimento della patente di categoria B. Tale veicolo deve tuttavia essere in dotazione al centro di istruzione automobilistica che svolge i corsi di formazione di insegnanti e di istruttori ai sensi dell'articolo 123, comma 10-bis, lettera a), del decreto legislativo 30 aprile 1992, n. 285.
 
@@ -140,6 +305,24 @@ L'inserimento dei veicoli nel parco veicolare di un'autoscuola o di un centro di
 
 Per i veicoli in dotazione, le autoscuole ed i centri di istruzione automobilistica ottemperano alle disposizioni di cui all'articolo 193, comma 1, del decreto legislativo 30 aprile 1992, n. 285, e provvedono anche alla copertura assicurativa della circolazione durante le esercitazioni di guida e l'effettuazione degli esami.
 
+11.
+                    
+                        
+                            Se un'autoscuola o un centro di istruzione automobilistica sono provvisti di spazi dichiarati idonei dal Dipartimento per i trasporti la navigazione ed i sistemi informativi e statistici, le prove di capacita' e di comportamento per il conseguimento delle patenti di guida di categoria AM, A1, A2 ed A possono essere sostenute presso tali spazi da: 
+ 
+                        
+                        
+                            a)
+                            
+                                allievi rispettivamente dell'autoscuola e delle autoscuole consorziate; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                altri candidati, eventualmente anche iscritti presso altre autoscuole, consorziate o non consorziate, qualora l'autoscuola o il centro di istruzione automobilistica ne consentano la disponibilita'.
+
 ## Art. 8. — (( (Personale docente). ))
 
 ((
@@ -179,6 +362,24 @@ Gli insegnanti e gli istruttori sono autorizzati ad esercitare l'attivita' press
 
 I corsi di formazione teorica per il conseguimento delle patenti di categoria AM, anche speciale, hanno durata non inferiore a tredici ore. I corsi di formazione teorica per il conseguimento delle patenti di categoria A1, A2, A, B1, B, C1, C, D1, D, anche speciali, hanno durata non inferiore a venti ore.
 
+2.
+                    
+                        
+                            Hanno durata non inferiore a cinque ore, i corsi di formazione teorica per sostenere l'esame di revisione della patente posseduta ovvero per il conseguimento di una patente di guida: 
+ 
+                        
+                        
+                            a)
+                            
+                                di categoria BE; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                da parte di un candidato che non abbia conseguito l'idoneita' in una prova d'esame o che sia stato respinto alla seconda prova di verifica delle capacita' e dei comportamenti. ((4
+
 ))
 
 I corsi per il conseguimento del certificato di abilitazione professionale di tipo KA e KB hanno durata non inferiore a dieci ore.
@@ -195,6 +396,55 @@ Ciascuna lezione di guida ha durata di almeno trenta minuti.))
 ## Art. 13. — Registri
 
 
+
+1.
+                    
+                        
+                            Le autoscuole e i centri di istruzione ((automobilistica)) curano la tenuta dei documenti vidimati ((dalla provincia a cui compete la vigilanza sui medesimi soggetti)) e contenenti gli elementi fondamentali appresso indicati: 
+ 
+                        
+                        
+                            a)
+                            
+                                registro di iscrizione: data di iscrizione, generalita' degli allievi, estremi delle autorizzazioni per esercitarsi alla guida, data degli esami di teoria e guida e relativo esito; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                
+                                    ((LETTERA ABROGATA DAL DECRETO 10 GENNAIO 2014, N. 30)); 
+
+                            
+                        
+                        
+                            c)
+                            
+                                
+                                    ((LETTERA ABROGATA DAL DECRETO 10 GENNAIO 2014, N. 30)); 
+
+                            
+                        
+                        
+                            d)
+                            
+                                
+                                    ((LETTERA ABROGATA DAL DECRETO 10 GENNAIO 2014, N. 30)); 
+
+                            
+                        
+                        
+                            e)
+                            
+                                registro degli allievi trasferiti dalle autoscuole al centro di istruzione; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                libro giornale per il rilascio di ricevute, cosi' come previsto dalla legge n. 264/1991, nel caso in cui l'autoscuola svolga anche attivita di consulenza riferita al conducente di veicoli a motore cosi' come definito all'art. 1, comma 1, del presente decreto.
 
 ((Il registro di cui al comma 1, lettera e), deve essere redatto e tenuto dal centro di istruzione automobilistica)) in relazione all'insegnamento teorico e pratico, o solo teorico, o solo pratico degli allievi provenienti dalle autoscuole consorziate che hanno costituito detto centro di istruzione. In tal caso, nel registro di iscrizione delle autoscuole che hanno costituito il centro e' annotato il trasferimento degli allievi al centro stesso.
 

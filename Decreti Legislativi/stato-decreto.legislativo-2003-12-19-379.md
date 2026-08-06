@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
 vigenza_date: 2004-07-29
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:28Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -27,11 +27,68 @@ Sulla proposta del Presidente del Consiglio dei Ministri e del Ministro delle at
 
 Il sistema di remunerazione della disponibilita' di capacita' produttiva di energia elettrica, disciplinato dal presente decreto, assicura il raggiungimento e il mantenimento dell'adeguatezza della capacita' produttiva, al fine di garantire la copertura della domanda nazionale con i necessari margini di riserva.
 
+2.
+                    
+                        
+                            Il sistema di remunerazione di cui al comma 1 e' basato su meccanismi concorrenziali, trasparenti, non discriminatori e non distorsivi per il mercato, orientati a minimizzare gli oneri per i consumatori ed e' regolato dai seguenti principi:
+ 
+                        
+                        
+                            a)
+                            
+                                la remunerazione e' applicata alle unita' di produzione di nuova realizzazione, nonche' al mantenimento, in esercizio efficiente, della capacita' esistente;
+
+                            
+                        
+                        
+                            b)
+                            
+                                la remunerazione e' commisurata agli obiettivi di capacita' produttiva del sistema elettrico indicati dal Gestore della rete di trasmissione nazionale;
+
+                            
+                        
+                        
+                            c)
+                            
+                                la remunerazione puo' essere applicata anche ai consumatori di energia elettrica dotati di caratteristiche tecniche idonee a fornire il servizio di riserva, che non beneficiano di altre agevolazioni;
+
+                            
+                        
+                        
+                            d)
+                            
+                                la remunerazione e' subordinata al rilascio di apposita garanzia prestata dai soggetti beneficiari.
+
 Il sistema di remunerazione di cui al comma 1 e' attuato con modalita' previamente determinate e rese note.
 
 ## Art. 2. — Specificazioni tecniche della misura della remunerazione
 
 Entro tre mesi dalla data di entrata in vigore del presente decreto legislativo, l'Autorita' per l'energia elettrica e il gas definisce i criteri e le condizioni sulla base dei quali il Gestore della rete di trasmissione nazionale elabora, entro i successivi tre mesi, una proposta per disciplinare il sistema di remunerazione di cui all'articolo 1, specificando le modalita' tecniche di calcolo della remunerazione, nonche' i requisiti delle garanzie di cui all'articolo 1, comma 2, lettera d).
+
+2.
+                    
+                        
+                            Con decreto del Ministro delle attivita' produttive, sentita l'Autorita' per l'energia elettrica e il gas, e' approvata la proposta di cui al comma 1 e sono impartite direttive concernenti:
+ 
+                        
+                        
+                            a)
+                            
+                                le responsabilita' del Gestore della rete di trasmissione nazionale in materia di garanzia di adeguatezza di capacita' produttiva;
+
+                            
+                        
+                        
+                            b)
+                            
+                                le responsabilita' del Gestore del mercato elettrico, in ordine al coordinamento con il mercato dell'energia elettrica, al fine di evitare distorsioni dei meccanismi concorrenziali;
+
+                            
+                        
+                        
+                            c)
+                            
+                                gli indirizzi volti a evitare particolari stati di vulnerabilita' del sistema elettrico nazionale, nonche' per favorire la diversificazione delle fonti energetiche.
 
 Il decreto di cui al comma 2 stabilisce, altresi', la data di entrata in funzione del sistema di remunerazione di cui all'articolo 1.
 
@@ -58,6 +115,23 @@ Con provvedimento dell'Autorita' per l'energia elettrica e il gas, su proposta d
 A partire dal primo giorno del mese successivo alla data di entrata in vigore del presente decreto e fino alla data di entrata in funzione del sistema di cui all'articolo 1, la remunerazione della disponibilita' della capacita' produttiva e' disciplinata dal presente articolo.
 
 Il Gestore della rete di trasmissione nazionale definisce e rende pubblici i giorni dell'anno che risultano critici ai fini della copertura della domanda nazionale, comprensiva del necessario margine di riserva di potenza.
+
+3.
+                    
+                        
+                            La remunerazione per la disponibilita' della capacita' produttiva e' applicata a tutte le unita' di produzione ubicate sul territorio nazionale che:
+
+                        
+                        
+                            a)
+                            
+                                risultano dispacciabili secondo le regole per il dispacciamento definite dal Gestore della rete di trasmissione nazionale;
+                            
+                        
+                        
+                            b)
+                            
+                                si rendono disponibili nei giorni di cui al comma 2.
 
 Sono escluse dalla remunerazione di cui al comma 3 le unita' di produzione sottoposte al regime giuridico cui alla deliberazione CIP 29 aprile 1992, n. 6, pubblicata nella Gazzetta Ufficiale n. 109 del 12 maggio 1992, quelle alimentate da fonti eolica, solare, geotermica, del moto ondoso, maremotrice e idraulica ad acqua fluente, ((ma non)) quelle che, nei giorni critici di cui al comma 2, producono sulla base di contratti bilaterali per la quota di capacita' impegnata in detti contratti.
 

@@ -7,8 +7,8 @@ urn: urn:nir:ministero.interno:decreto:2022-04-20;74
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:39Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -48,6 +48,38 @@ Requisiti di idoneita' fisica, psichica e attitudinale
 
 I candidati, al fine di essere sottoposti agli accertamenti relativi all'idoneita' psico-fisica e attitudinale, presentano apposita documentazione sanitaria, propedeutica al rilascio dell'idoneita' fisica per l'attivita' agonistica specifica, rilasciata dal medico afferente al Comitato olimpico nazionale italiano o alla competente Federazione nazionale.
 
+2.
+                    
+                        
+                            L'ammissione al concorso pubblico per l'accesso alla qualifica iniziale del ruolo di atleta del gruppo sportivo dei vigili del fuoco Fiamme Rosse del Corpo nazionale e' subordinata alla verifica del possesso dei seguenti requisiti di idoneita' fisica e psichica: 
+ 
+                        
+                        
+                            a)
+                            
+                                piena integrita' psichica; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                parametri fisici conformi a quanto previsto dall'articolo 3 del decreto del Presidente della Repubblica 17 dicembre 2015, n. 207, ad eccezione dei parametri stabiliti per i valori antropometrici; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                sufficienza del senso cromatico, accertata mediante corretta percezione dei colori staccati; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                normalita' del campo visivo, della visione binoculare e della motilita' oculare.
+
 Per l'ammissione al concorso pubblico, i candidati devono, altresi', possedere, in correlazione alle funzioni previste per la qualifica da ricoprire, adeguate capacita' intellettive, emotive, comportamentali, socio-relazionali, di autocontrollo, di assunzione di responsabilita' decisionali e di gestione pratica di situazioni lavorative e di eventi critici.
 
 La valutazione dei requisiti di cui ai commi 2 e 3, nonche' della documentazione sanitaria di cui al comma 1, e' demandata ad una commissione medica nominata con decreto del Capo del Dipartimento e composta da un appartenente al ruolo dei dirigenti sanitari o medici, che la presiede, e da due direttivi sanitari o medici del Corpo nazionale. Le funzioni di segretario sono svolte da personale con qualifica non inferiore a ispettore logistico-gestionale del Corpo nazionale ovvero da un appartenente ai ruoli del personale dell'amministrazione civile dell'interno di equivalente qualifica in servizio presso il Dipartimento. Per le ipotesi di assenza o impedimento del presidente, di uno o piu' componenti e del segretario della commissione, e' prevista la nomina dei supplenti, che abbiano gli stessi requisiti dei componenti effettivi, da effettuarsi con il decreto di nomina della commissione medesima o con successivo provvedimento.
@@ -85,6 +117,45 @@ Al termine dei trenta giorni, gli atleti in prova del gruppo sportivo vigili del
 Con decreto del Direttore centrale per la formazione del Dipartimento, nell'ambito delle finalita' indicate dal presente articolo, sono individuate le ulteriori misure attuative e di dettaglio.
 
 La commissione dell'esame di fine corso e' nominata con decreto del Capo del Dipartimento. E' presieduta da un dirigente del Corpo nazionale che espleta funzioni operative ed e' composta da un componente appartenente ai ruoli dei direttivi e dei dirigenti che espletano funzioni operative e da un componente appartenente al ruolo dei direttivi ginnico-sportivi. Le funzioni di segretario della commissione sono svolte da personale con qualifica non inferiore a ispettore logistico-gestionale. Con il medesimo decreto sono nominati, per le ipotesi di assenza o impedimento di ciascun componente effettivo, membri supplenti, per l'individuazione dei quali si applicano gli stessi requisiti previsti per i componenti effettivi.
+
+8.
+                    
+                        
+                            Sono dimessi dal corso di formazione gli atleti in prova del gruppo sportivo vigili del fuoco Fiamme Rosse: 
+ 
+                        
+                        
+                            a)
+                            
+                                che non superino l'esame di cui al comma 5; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                che dichiarino di rinunciare al corso; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                che siano stati per qualsiasi motivo assenti dal corso per piu' di otto giorni, anche non consecutivi, salvo i casi di cui alle lettere d) ed e); 
+
+                            
+                        
+                        
+                            d)
+                            
+                                che siano stati assenti dal corso per piu' di dodici giorni, anche non consecutivi, se l'assenza e' stata determinata da infermita' contratta durante il corso o il tirocinio ovvero sia stata riconosciuta dipendente da causa di servizio qualora si tratti di personale gia' appartenente al Corpo nazionale. In tal caso gli atleti in prova sono ammessi a partecipare al primo corso successivo al riconoscimento della idoneita' psicofisica; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                che siano stati assenti dal corso e dal tirocinio per piu' di dodici giorni, anche non consecutivi, se l'assenza e' stata determinata da maternita'. In tal caso le atlete in prova sono ammesse a partecipare al primo corso successivo ai periodi di assenza dal lavoro previsti dalle disposizioni in materia di congedo di maternita'.
 
 Sono espulsi dal corso di formazione e dal tirocinio gli atleti in prova del gruppo sportivo vigili del fuoco Fiamme Rosse responsabili di infrazioni punibili con sanzioni disciplinari pari o piu' gravi della sanzione pecuniaria di cui all'articolo 239, comma 1, del decreto legislativo 13 ottobre 2005, n. 217.
 

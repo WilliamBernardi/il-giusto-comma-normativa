@@ -9,7 +9,7 @@ vigente: true
 source: normattiva-opendata
 collection: Atti di recepimento direttive UE
 zip_date: 2026-07-30
-fetched_at: 2026-08-02T09:40:48Z
+fetched_at: 2026-07-30
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -29,6 +29,38 @@ Il presente decreto regola le restrizioni in materia di immissione sul mercato e
 
 ## Art. 2. — Esclusioni dal campo di applicazione
 
+1.
+                    
+                        
+                            Le norme del presente decreto non si applicano:
+ 
+                        
+                        
+                            a)
+                            
+                                al trasporto per ferrovia, su strada, per via fluviale, marittima ed aerea;
+
+                            
+                        
+                        
+                            b)
+                            
+                                all'esportazione verso i Paesi terzi;
+
+                            
+                        
+                        
+                            c)
+                            
+                                al transito sottoposto a controllo doganale, purche' non si dia luogo ad alcuna trasformazione;
+
+                            
+                        
+                        
+                            d)
+                            
+                                all'immissione sul mercato strettamente finalizzata a scopi di ricerca, di sviluppo e di analisi.
+
 ## Art. 3. — Adeguamenti tecnici
 
 I decreti di cui all'art. 20 della legge 16 aprile 1987, n. 183, sono emanati dal Ministro della sanita', di concerto con i Ministri dell'ambiente, dell'industria, del commercio e dell'artigianato, del lavoro e della previdenza sociale e dell'interno, e possono contenere la fissazione di un termine per lo smaltimento delle sostanze, dei preparati e dei prodotti gia' immessi sul mercato e non conformi alle disposizioni contenute nei decreti medesimi.
@@ -46,6 +78,52 @@ In deroga a quanto previsto dal comma 3, l'immissione sul mercato e la commercia
 Con decreti del Ministro della sanita', di concerto con i Ministri dell'ambiente, dell'industria, del commercio e dell'artigianato, del lavoro e della previdenza sociale e dell'interno, da adottarsi entro e non oltre il 31 dicembre 1990, i termini delle deroghe previste dai commi 2 e 4 possono essere motivatamente prorogati di non oltre due anni e per una sola volta, in caso di accertata perdurante impossibilita' di sostituzione delle fibre di amianto con altri prodotti e sostanze non pericolosi.
 
 ## Art. 5. — Etichettatura
+
+1.
+                    
+                        
+                            I prodotti contenenti le seguenti fibre di amianto, per le quali non e' previsto divieto di immissione in commercio e commercializzazione, devono essere etichettati in conformita' alle disposizioni previste dall'allegato 2:
+ 
+                        
+                        
+                            a)
+                            
+                                crocidolite: CAS n. 12001-28-4;
+
+                            
+                        
+                        
+                            b)
+                            
+                                crisotilo: CAS n. 12001-29-5;
+
+                            
+                        
+                        
+                            c)
+                            
+                                amosite: CAS n. 12172-73-5;
+
+                            
+                        
+                        
+                            d)
+                            
+                                antofillite: CAS n. 77536-67-5;
+
+                            
+                        
+                        
+                            e)
+                            
+                                actinolite: CAS n. 77536-66-4;
+
+                            
+                        
+                        
+                            f)
+                            
+                                tremolite: CAS n. 77536-68-6.
 
 ## Art. 6. — Decorrenza degli effetti
 

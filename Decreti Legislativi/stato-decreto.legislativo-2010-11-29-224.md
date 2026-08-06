@@ -8,8 +8,8 @@ codice_redazionale: 010G0246
 vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:30Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -24,6 +24,48 @@ Acquisiti i pareri delle competenti Commissioni della Camera dei deputati e del 
 Sulla proposta del Presidente del Consiglio dei Ministri e del Ministro dell'economia e delle finanze, di concerto con i Ministri degli affari esteri, della giustizia e dello sviluppo economico;
 
 ## Art. 1. — Modifiche al codice civile
+
+1.
+                    
+                        
+                            L'articolo 2343-ter e' modificato come segue: 
+ 
+                        
+                        
+                            a)
+                            
+                                il secondo comma e' sostituito dal seguente: 
+ «Fuori dai casi in cui e' applicabile il primo comma, non e' altresi' richiesta la relazione di cui all'articolo 2343, primo comma, qualora il valore attribuito, ai fini della determinazione del capitale sociale e dell'eventuale sovrapprezzo, ai beni in natura o crediti conferiti sia pari o inferiore: 
+ a) al fair value iscritto nel bilancio dell'esercizio precedente quello nel quale e' effettuato il conferimento a condizione che il bilancio sia sottoposto a revisione legale e la relazione del revisore non esprima rilievi in ordine alla valutazione dei beni oggetto del conferimento, ovvero; 
+ b) al valore risultante da una valutazione riferita ad una data precedente di non oltre sei mesi il conferimento e conforme ai principi e criteri generalmente riconosciuti per la valutazione dei beni oggetto del conferimento, a condizione che essa provenga da un esperto indipendente da chi effettua il conferimento, dalla societa' e dai soci che esercitano individualmente o congiuntamente il controllo sul soggetto conferente o sulla societa' medesima, dotato di adeguata e comprovata professionalita'.»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                dopo il quarto comma e' aggiunto il seguente: 
+ «Ai fini dell'applicazione del secondo comma, lettera a), per la definizione di "fair value" si fa riferimento ai principi contabili internazionali adottati dall'Unione europea.».
+
+2.
+                    
+                        
+                            L'articolo 2343-quater e' modificato nel modo seguente: 
+ 
+                        
+                        
+                            a)
+                            
+                                il primo comma e' sostituito dal seguente: 
+ «Gli amministratori verificano, nel termine di trenta giorni dalla iscrizione della societa', se, nel periodo successivo a quello di cui all'articolo 2343-ter,primo comma, sono intervenuti fatti eccezionali che hanno inciso sul prezzo dei valori mobiliari o degli strumenti del mercato monetario conferiti in modo tale da modificare sensibilmente il valore di tali beni alla data di iscrizione della societa' nel registro delle imprese, comprese le situazioni in cui il mercato dei valori o strumenti non e' piu' liquido. Gli amministratori verificano altresi' nel medesimo termine se, successivamente al termine dell'esercizio cui si riferisce il bilancio di cui alla lettera a) del secondo comma dell'articolo 2343-ter, o alla data della valutazione di cui alla lettera b) del medesimo comma, si sono verificati fatti nuovi rilevanti tali da modificare sensibilmente il valore dei beni o dei crediti conferiti alla data di iscrizione della societa' nel registro delle imprese, nonche' i requisiti di professionalita' ed indipendenza dell'esperto che ha reso la valutazione di cui all'articolo 2343-ter, secondo comma, lettera b).»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                il secondo comma e' sostituito dal seguente: 
+ «Qualora gli amministratori ritengano che siano intervenuti i fatti di cui al primo comma, ovvero ritengano non idonei i requisiti di professionalita' e indipendenza dell'esperto che ha reso la valutazione di cui all'articolo 2343-ter, secondo comma, lettera b), si procede, su iniziativa degli amministratori, ad una nuova valutazione ai sensi e per gli effetti dell'articolo 2343.».
 
 L'articolo 2357-ter, secondo comma, e' sostituito dal seguente:  «Finche' le azioni restano in proprieta' della societa', il diritto agli utili e il diritto di opzione sono attribuiti proporzionalmente alle altre azioni. Il diritto di voto e' sospeso, ma le azioni proprie sono tuttavia computate ai fini del calcolo delle maggioranze e delle quote richieste per la costituzione e per le deliberazioni dell'assemblea. Nelle societa' che fanno ricorso al mercato del capitale di rischio il computo delle azioni proprie e' disciplinato dall'articolo 2368, terzo comma.».
 

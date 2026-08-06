@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Leggi delega e relativi provvedimenti delegati
 vigenza_date: 2025-01-25
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:41:15Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -62,6 +62,31 @@ Ogni elettore riceve due schede, una per ciascuna delle categorie di magistrati 
 
 ((
 
+1.
+                        
+                            
+                                L'ufficio elettorale:
+ 
+                            
+                            
+                                a)
+                                
+                                    provvede alla determinazione del quoziente base per l'assegnazione dei seggi dividendo la cifra dei voti validi espressi nel collegio relativamente a ciascuna categoria di magistrati di cui all'articolo 1 per il numero dei seggi del collegio stesso;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    determina il numero dei seggi spettante a ciascuna lista dividendo la cifra elettorale dei voti da essa conseguiti per il quoziente base. I seggi non assegnati in tale modo vengono attribuiti in ordine decrescente alle liste cui corrispondono i maggiori resti e, in caso di parita' di resti, a quelle che abbiano avuto la maggiore cifra elettorale; a parita' di cifra elettorale si procede per sorteggio;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    proclama eletti i candidati con il maggior numero di preferenze nell'ambito dei posti attribuiti ad ogni lista. In caso di parita' di voti il seggio e' assegnato al candidato che ha maggiore anzianita' di servizio nell'ordine giudiziario. In caso di pari anzianita' di servizio, il seggio e' assegnato al candidato piu' anziano per eta'.
+
 ))
 
 ## Art. 5. — Durata in carica del Consiglio direttivo della Corte di cassazione
@@ -81,6 +106,66 @@ Finche' non e' insediato il nuovo Consiglio, continua a funzionare quello preced
 Ai componenti non togati del Consiglio direttivo della Corte di cassazione e' corrisposto un gettone di presenza per ciascuna seduta, la cui entita' e' stabilita con decreto del Ministro della giustizia, di concerto con il Ministro dell'economia e delle finanze, da adottarsi entro sessanta giorni dalla data di acquisto di efficacia delle disposizioni del presente decreto.
 
 ## Art. 7. — Competenze del Consiglio direttivo della Corte di cassazione
+
+1.
+                        
+                            
+                                Il Consiglio direttivo della Corte di cassazione esercita le seguenti competenze: 
+ 
+                            
+                            
+                                a)
+                                
+                                    formula il parere sulla tabella della Corte di cassazione ((di cui all'articolo 7-bis, comma 1)), del regio decreto 30 gennaio 1941, n. 12, e successive modificazioni, nonche' sui criteri per l'assegnazione degli affari e la sostituzione dei giudici impediti di cui all'articolo 7-ter, commi 1 e 2, del medesimo regio decreto, proposti dal primo presidente della Corte di cassazione, verificando il rispetto dei criteri generali; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    formula i pareri per la valutazione di professionalita' dei magistrati ((ai sensi degli articoli 11, 11-bis e 11-ter)) del decreto legislativo 5 aprile 2006, n. 160, e successive modificazioni; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    LETTERA ABROGATA DALLA L. 30 LUGLIO 2007, N. 111; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    LETTERA ABROGATA DALLA L. 30 LUGLIO 2007, N. 111; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    LETTERA ABROGATA DALLA L. 30 LUGLIO 2007, N. 111; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    LETTERA ABROGATA DALLA L. 30 LUGLIO 2007, N. 111; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    formula pareri, su richiesta del Consiglio superiore della magistratura, su materie attinenti alle competenze ad esso attribuite; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    puo' formulare proposte al comitato direttivo della Scuola superiore della magistratura in materia di programmazione della attivita' didattica della Scuola.
 
 ## Art. 8. — Composizione del Consiglio direttivo della Corte di cassazione in relazione alle competenze
 
@@ -131,7 +216,64 @@ Le deliberazioni sono valide se adottate a maggioranza dei presenti. In caso di 
 
 ((
 
+1.
+                        
+                            
+                                Nel consiglio giudiziario e' istituita una sezione autonoma per i giudici onorari di pace e i vice procuratori onorari per l'esercizio delle competenze assegnate dalla legge in relazione: 
+ 
+                            
+                            
+                                a)
+                                
+                                    alla procedura di concorso per titoli per l'accesso, all'ammissione al tirocinio e all'organizzazione e al coordinamento del medesimo; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    alla proposta per la nomina di coloro che hanno terminato il tirocinio e alla formazione di una graduatoria degli idonei; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    al giudizio di idoneita' per la conferma nell'incarico; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    alle valutazioni sulle proposte di sospensione dalle funzioni, decadenza, dispensa, revoca dell'incarico e di applicazione di sanzioni disciplinari.
+
 La sezione autonoma e' altresi' competente per l'espressione dei pareri sui provvedimenti organizzativi e sulle proposte di organizzazione dagli uffici del giudice di pace. Essa esercita inoltre le competenze assegnate dalla legge in relazione alle determinazioni organizzative dell'attivita' dei vice procuratori onorari in procura della Repubblica e dei giudici onorari di pace in tribunale, fatta eccezione per le materie di cui all'articolo 7-bis dell'ordinamento giudiziario, di cui al regio decreto 30 gennaio 1941, n. 12.
+
+3.
+                        
+                            
+                                La sezione autonoma e' composta, oltre che dai componenti di diritto del consiglio giudiziario, da: 
+ 
+                            
+                            
+                                a)
+                                
+                                    tre magistrati e un avvocato, eletti dal consiglio giudiziario tra i suoi componenti, e due giudici onorari di pace e un vice procuratore onorario eletti sia dai giudici onorari di pace che dai viceprocuratori onorari in servizio nel distretto, nell'ipotesi di cui all'articolo 9, comma 2; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    cinque magistrati e un avvocato, eletti dal consiglio giudiziario tra i suoi componenti, e tre giudici onorari di pace e due vice procuratori onorari eletti sia dai giudici onorari di pace che dai vice procuratori onorari in servizio nel distretto, nell'ipotesi di cui all'articolo 9, comma 3; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    otto magistrati e due avvocati, eletti dal consiglio giudiziario tra i suoi componenti, e quattro giudici onorari di pace e tre viceprocuratori onorari eletti sia dai giudici onorari di pace che dai viceprocuratori onorari in servizio nel distretto, nell'ipotesi di cui all'articolo 9, comma 3-bis.
 
 Le sedute della sezione autonoma sono valide con la presenza della meta' piu' uno dei componenti e le deliberazioni sono assunte a maggioranza dei presenti. In caso di parita' prevale il voto del presidente.
 
@@ -166,6 +308,31 @@ Ogni elettore riceve due schede, una per ciascuna delle categorie di magistrati 
 
 ((
 
+1.
+                        
+                            
+                                L'ufficio elettorale:
+ 
+                            
+                            
+                                a)
+                                
+                                    provvede alla determinazione del quoziente base per l'assegnazione dei seggi dividendo la cifra dei voti validi espressi nel collegio relativamente a ciascuna categoria di magistrati di cui all'articolo 9 per il numero dei seggi del collegio stesso;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    determina il numero dei seggi spettante a ciascuna lista dividendo la cifra elettorale dei voti da essa conseguiti per il quoziente base. I seggi non assegnati in tal modo sono attribuiti in ordine decrescente alle liste cui corrispondono i maggiori resti e, in caso di parita' di resti, a quelle che abbiano avuto la maggiore cifra elettorale; a parita' di cifra elettorale si procede per sorteggio;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    proclama eletti i candidati con il maggior numero di preferenze nell' ambito dei posti attribuiti ad ogni lista. In caso di parita' di voti il seggio e' assegnato al candidato che ha maggiore anzianita' di servizio nell'ordine giudiziario. In caso di pari anzianita' di servizio, il seggio e' assegnato al candidato piu' anziano per eta'.
+
 ))
 
 ## Art. 12-ter. — (( (Presentazione delle liste per la elezione dei magistrati onorari componenti della sezione autonoma del consiglio giudiziario).))
@@ -184,6 +351,31 @@ Ciascun elettore non puo' presentare piu' di una lista. Le firme di presentazion
  Il D.Lgs. 31 maggio 2016, n. 92 ha disposto (con l'art. 5, comma 1) che "In via straordinaria e in deroga a quanto previsto dall'articolo 12-ter, comma 1, del decreto legislativo 27 gennaio 2006, n. 25, le elezioni dei magistrati onorari componenti della sezione autonoma per i magistrati onorari del Consiglio giudiziario si tengono nella penultima domenica e nel lunedi' seguente del mese di luglio immediatamente successivo alla data di entrata in vigore del presente decreto".
 
 ## Art. 12-quater. — ((Assegnazione dei seggi per i magistrati onorari))
+
+1.
+                        
+                            
+                                L'ufficio elettorale: 
+ 
+                            
+                            
+                                a)
+                                
+                                    provvede alla determinazione del quoziente base per l'assegnazione dei seggi dividendo la cifra dei voti validi espressi nel collegio per il numero dei seggi del collegio stesso; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    determina il numero dei seggi spettante a ciascuna lista dividendo la cifra elettorale dei voti da essa conseguiti per il quoziente base. I seggi non assegnati in tal modo vengono attribuiti in ordine decrescente alle liste cui corrispondono i maggiori resti e, in caso di parita' di resti, a quelle che abbiano avuto la maggiore cifra elettorale; a parita' di cifra elettorale si procede per sorteggio; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    proclama eletti i candidati con il maggior numero di preferenze nell' ambito dei posti attribuiti ad ogni lista. In caso di parita' di voti il seggio e' assegnato al candidato che ha maggiore anzianita' di servizio nell'ordine giudiziario. In caso di pari anzianita' di servizio, il seggio e' assegnato al candidato piu' anziano per eta'.
 
 ## Art. 13. — Durata in carica dei consigli giudiziari
 
@@ -208,6 +400,73 @@ Finche' non e' insediato il nuovo consiglio giudiziario, continua a funzionare q
 
 ## Art. 15. — Competenze dei consigli giudiziari
 
+1.
+                        
+                            
+                                I consigli giudiziari esercitano le seguenti competenze: 
+ 
+                            
+                            
+                                a)
+                                
+                                    formulano il parere sulle tabelle degli uffici giudicanti e sulle tabelle infradistrettuali di cui all'articolo 7-bis del regio decreto 30 gennaio 1941, n. 12, nonche' sui criteri per l'assegnazione degli affari e la sostituzione dei giudici impediti di cui all'articolo 7-ter, commi 1 e 2, del medesimo regio decreto, proposti dai capi degli uffici giudiziari, verificando il rispetto dei criteri generali direttamente indicati dal citato regio decreto numero 12 del 1941 e dalla legge 25 luglio 2005, n. 150; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    formulano i pareri per la valutazione di professionalita' dei magistrati ((ai sensi degli articoli 11, 11-bis e 11-ter)) del decreto legislativo 5 aprile 2006, n. 160, e successive modificazioni; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    LETTERA ABROGATA DALLA L. 30 LUGLIO 2007, N. 111; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    esercitano la vigilanza sull'andamento degli uffici giudiziari del distretto. Il consiglio giudiziario, che nell'esercizio della vigilanza rileva l'esistenza di disfunzioni nell'andamento di un ufficio, le segnala al Ministro della giustizia; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    formulano pareri e proposte sull'organizzazione e il funzionamento degli uffici del giudice di pace del distretto; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    LETTERA ABROGATA DALLA L. 30 LUGLIO 2007, N. 111; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    formulano pareri, anche su richiesta del Consiglio superiore della magistratura, in ordine alla adozione, da parte del medesimo Consiglio, dei provvedimenti inerenti a collocamenti a riposo, dimissioni, decadenze dall'impiego, concessioni di titoli onorifici e riammissioni in magistratura dei magistrati in servizio preso gli uffici giudiziari del distretto o gia' in servizio presso tali uffici al momento della cessazione dal servizio medesimo; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    formulano pareri, su richiesta del Consiglio superiore della magistratura, su materie attinenti alle competenze ad essi attribuite; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    puo' formulare proposte al comitato direttivo della Scuola superiore della magistratura in materia di programmazione della attivita' didattica della Scuola.
+
 Il consiglio giudiziario costituito presso la corte di appello esercita le proprie competenze anche in relazione alle eventuali sezioni distaccate della Corte.
 
 ## Art. 16. — Composizione dei consigli giudiziari in relazione alle competenze
@@ -231,6 +490,24 @@ Agli oneri derivanti dall'articolo 6, comma 1, e dall'articolo 14, comma 1, valu
 Il Ministro dell'economia e delle finanze provvede al monitoraggio dell'attuazione del comma 1 anche ai fini dell'applicazione dell'articolo 11-ter, comma 7, della legge 5 agosto 1978, n. 468, e successive modificazioni, e trasmette alle Camere, corredati da apposite relazioni, gli eventuali decreti adottati ai sensi dell'articolo 7, secondo comma, n. 2), della legge n. 468 del 1978.
 
 ## Art. 18. — Abrogazioni
+
+1.
+                        
+                            
+                                Oltre a quanto previsto dal decreto legislativo di attuazione della delega di cui all'articolo 1, comma 3, della legge numero 150 del 2005, sono abrogati, dalla data di acquisto di efficacia delle disposizioni contenute nel presente decreto:
+ 
+                            
+                            
+                                a)
+                                
+                                    l'articolo 10 del regio decreto 23 giugno 1927, n. 1235;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'articolo 6 del regio decreto legislativo 31 maggio 1946, n. 511, come sostituito dall'articolo 1 della legge 12 ottobre 1966, n. 825.
 
 ## Art. 18-bis. — (( (Regolamento per la disciplina del procedimento elettorale) ))
 

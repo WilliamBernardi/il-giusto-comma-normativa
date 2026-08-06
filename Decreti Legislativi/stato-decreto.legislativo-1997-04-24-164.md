@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
 vigenza_date: 2004-12-05
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:30Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -48,6 +48,24 @@ Si applicano al Fondo le disposizioni dell'articolo 1, comma 1, del decreto - le
 
 La disposizione di cui all'articolo 21 della legge 13 luglio 1965, n. 859, e' abrogata. In materia di prescrizione dell'obbligo contributivo valgono le medesime norme vigenti nel Fondo pensioni lavoratori dipendenti.
 
+12.
+                    
+                        
+                            A favore del personale iscritto al Fondo, sono estese, per periodi successivi alla data di entrata in vigore del presente decreto, ai fini delle prestazioni pensionistiche come disciplinate dalla normativa del Fondo stesso: 
+ 
+                        
+                        
+                            a)
+                            
+                                le disposizioni contenute nell'articolo 5 del decreto del decreto del Presidente della Repubblica 26 aprile 1957, n. 818, nell'articolo 7 della legge 11 novembre 1983, n. 638, e nell'articolo 8 della legge 23 aprile 1981, n. 155, e successive modificazioni, in materia di versamento e di accreditamento dei contributi obbligatori e figurativi; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                tutte le norme che disciplinano la contribuzione figurativa in caso di malattia e nei casi in cui vengano percepite le prestazioni per disoccupazione, con le stesse modalita' e limitazioni previste per gli iscritti al Fondo pensioni lavoratori dipendenti.
+
 Con decreto del Ministro del lavoro e della previdenza sociale, di concerto con il Ministro dei trasporti, si provvede a determinare le modalita' e i termini per l'applicazione dell'articolo 20 della legge 13 luglio 1965, n. 859, finalizzata alla tempestiva acquisizione delle comunicazioni previste dal medesimo articolo 20.
 
 ## Art. 2. — Regime pensionistico degli iscritti al Fondo di previdenza per il personale di volo dipendente da aziende di navigazione aerea.
@@ -83,6 +101,24 @@ Ai soggetti che conseguono il diritto alla pensione ai sensi dei commi 2 e 3 si 
 In caso di accesso alla pensione ai sensi del comma 3, l'importo della quota di pensione calcolata con il metodo retributivo sara' ridotto, in via definitiva, in ragione delle riduzioni di cui alla colonna 2 dell'allegata tabella B. Il numero degli anni mancanti di cui alla colonna 1 della predetta tabella B, e' dato dalla differenza, all'epoca della liquidazione della pensione, fra la somma dei requisiti di eta' e anzianita' previsti dalla normativa in vigore nell'assicurazione generale obbligatoria per la corresponsione della pensione di anzianita' e la somma degli anni di eta' e anzianita' del beneficiario. Ai fini della determinazione delle riduzioni, saranno computati anche gli eventuali anni di contribuzione, diversi da quelli obligatori e volontari, fatti valere presso il Fondo. Nel caso in cui il lavoratore possa far valere dei requisiti di eta' e anzianita' contributiva la cui somma sia pari a 87 le riduzioni non operano.
 
 Con decreto del Ministro del lavoro e della previdenza sociale, di concerto con il Ministro del tesoro, da emanarsi entro 90 giorni dalla data di entrata in vigore del presente decreto, sono determinate le tariffe di capitalizzazione delle rendite, sulla base di aggiornati criteri attuariali, specifici del Fondo, per il calcolo degli oneri di ricongiunzione e di riscatto, da applicarsi alle domande presentate successivamente alla data di entrata in vigore del presente decreto.
+
+7.
+                    
+                        
+                            Il diritto al trattamento pensionistico di vecchiaia si consegue esclusivamente al raggiungimento dei seguenti requisiti:
+ 
+                        
+                        
+                            a)
+                            
+                                un requisito anagrafico ridotto di cinque anni rispetto a quello tempo per tempo in vigore nel regime generale obbligatorio;
+
+                            
+                        
+                        
+                            b)
+                            
+                                un requisito contributivo e assicurativo pari a quello richiesto nel regime generale obbligatorio, sempreche' il lavoratore possa far valere almeno 15 anni di contribuzione obbligatoria o volontaria al Fondo.
 
 Dalla data di entrata in vigore del presente decreto il limite massimo di retribuzione pensionabile calcolato ai sensi dell'articolo 24 della legge 13 luglio 1965, n. 859, come sostituito dall'articolo 8 della legge 31 ottobre 1988, n. 480, e' ridotto nella misura del 10 per cento e a decorrere dal 1 gennaio 2000 e' ridotto del 20 per cento.
 

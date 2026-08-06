@@ -8,8 +8,8 @@ codice_redazionale: 098G0062
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti di delegificazione
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:40:25Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -37,7 +37,99 @@ Gli uffici periferici sono articolati in sedi compartimentali e sedi zonali.
 
 ## Art. 3. — O r g a n i
 
+1.
+                    
+                        
+                            Sono organi dell'Istituto:
+ 
+                        
+                        
+                            a)
+                            
+                                il presidente;
+
+                            
+                        
+                        
+                            b)
+                            
+                                il consiglio di amministrazione;
+
+                            
+                        
+                        
+                            c)
+                            
+                                il consiglio di indirizzo e vigilanza;
+
+                            
+                        
+                        
+                            d)
+                            
+                                il collegio dei sindaci;
+
+                            
+                        
+                        
+                            e)
+                            
+                                il direttore generale.
+
 ## Art. 4. — Presidente
+
+1.
+                    
+                        
+                            Il presidente, nell'ambito delle funzioni di cui all'articolo 3 del decreto legislativo 30 giugno 1994, n. 479, come modificato dall'articolo 17, comma 23, della legge 15 maggio 1997, n. 127:
+ 
+                        
+                        
+                            a)
+                            
+                                predispone l'ordine del giorno degli argomenti da sottoporre al consiglio di amministrazione, dandone comunicazione al presidente del consiglio di indirizzo e vigilanza e ne assicura la relativa istruttoria;
+
+                            
+                        
+                        
+                            b)
+                            
+                                puo' disporre, anche su proposta del direttore generale, in caso di assoluta urgenza che non consenta una convocazione del consiglio di amministrazione in tempo utile ad evitare un pregiudizio per l'Istituto, l'adozione di provvedimenti di competenza del consiglio di amministrazione, salvo l'obbligo di presentarli per la ratifica al consiglio stesso nella prima seduta utile;
+
+                            
+                        
+                        
+                            c)
+                            
+                                convoca il consiglio di amministrazione, quando ne facciano richiesta almeno i due terzi dei suoi componenti, entro otto giorni da tale richiesta, ponendo all'ordine del giorno gli argomenti indicati nella richiesta medesima;
+
+                            
+                        
+                        
+                            d)
+                            
+                                firma gli atti e documenti che comportano impegni per l'Istituto, ferme restando le attribuzioni conferite ai dirigenti dagli articoli 16 e 17 del decreto legislativo 3 febbraio 1993, n. 29, e successive modifiche ed integrazioni;
+
+                            
+                        
+                        
+                            e)
+                            
+                                dispone la trasmissione al consiglio di indirizzo e vigilanza delle deliberazioni adottate dal consiglio di amministrazione;
+
+                            
+                        
+                        
+                            f)
+                            
+                                rappresenta l'Istituto nelle trattative sindacali a livello nazionale;
+
+                            
+                        
+                        
+                            g)
+                            
+                                puo', nei limiti imposti dalla legislazione vigente e nell'ambito dei criteri generali stabiliti dal consiglio di amministrazione, delegare, per il caso di assenza o impedimento, e soltanto per tempo limitato e per oggetti definiti, la rappresentanza legale dell'Istituto ad un membro del consiglio di amministrazione, al direttore generale, ai dirigenti preposti alle unita' centrali e, nell'ambito degli uffici periferici, ai dirigenti periferici.
 
 ## Art. 5. — Consiglio di indirizzo e vigilanza
 
@@ -56,6 +148,24 @@ Il funzionamento del consiglio di indirizzo e vigilanza, ivi compresa l'adozione
 Il consiglio di indirizzo e vigilanza, in coerenza con la natura delle proprie funzioni di programmazione, di indirizzo e di vigilanza puo' avvalersi della struttura per la pianificazione strategica e la formazione del bilancio.
 
 ## Art. 6. — Consiglio di amministrazione
+
+1.
+                    
+                        
+                            Il consiglio di amministrazione svolge le funzioni di cui all'articolo 3 del decreto legislativo 30 giugno 1994, n. 479, e successive modifiche ed integrazioni, ed in particolare, nell'osservanza degli indirizzi generali fissati dal consiglio di indirizzo e vigilanza:
+ 
+                        
+                        
+                            a)
+                            
+                                approva ed attribuisce al direttore generale le risorse annuali di spesa;
+
+                            
+                        
+                        
+                            b)
+                            
+                                delibera i criteri generali per l'assegnazione delle funzioni, per i trasferimenti, nonche' i criteri per l'attribuzione dell'indennita' di funzione per le qualifiche dirigenziali.
 
 Il funzionamento del consiglio di amministrazione, ivi compresa l'adozione delle relative deliberazioni, e' disciplinato con l'apposito regolamento per le adunanze deliberato dal consiglio stesso. Per la validita' delle sedute del consiglio e' richiesta la presenza della maggioranza dei suoi componenti. Le deliberazioni sono assunte con il voto favorevole della maggioranza dei presenti. In caso di parita' di voti prevale il voto del presidente.
 

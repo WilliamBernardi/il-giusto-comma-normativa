@@ -8,8 +8,8 @@ codice_redazionale: 001G0299
 vigente: true
 source: normattiva-opendata
 collection: DPR
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:48:03Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -25,6 +25,80 @@ Sulla proposta del Presidente del Consiglio dei Ministri;
 
 ## Art. 1. — Definizioni
 
+1.
+                    
+                        
+                            Ai fini del presente regolamento, si intende per:
+ 
+                        
+                        
+                            a)
+                            
+                                Legge, la legge 14 novembre 1995, n. 481;
+
+                            
+                        
+                        
+                            b)
+                            
+                                Autorita', l'Autorita' di regolazione dei servizi di pubblica utilita' nel settore dell'energia elettrica e del gas istituita dal comma 1, dell'articolo 2 della legge;
+
+                            
+                        
+                        
+                            c)
+                            
+                                Collegio, il presidente e i membri dell'Autorita';
+
+                            
+                        
+                        
+                            d)
+                            
+                                Uffici, le unita' organizzative previste dal regolamento di cui al comma 28 dell'articolo 2 della legge e successive modificazioni e integrazioni;
+
+                            
+                        
+                        
+                            e)
+                            
+                                Provvedimenti individuali, gli atti e i provvedimenti amministrativi aventi destinatari determinati;
+
+                            
+                        
+                        
+                            f)
+                            
+                                Bollettino, il bollettino di cui al comma 26 dell'articolo 2 della legge;
+
+                            
+                        
+                        
+                            g)
+                            
+                                Utenti, i destinatari di un servizio di produzione, importazione, esportazione, trasmissione, trasporto, stoccaggio, distribuzione e vendita di energia elettrica o di gas, ovvero delle connesse prestazioni;
+
+                            
+                        
+                        
+                            h)
+                            
+                                Consumatori, gli utenti finali di un servizio di fornitura di energia elettrica o di gas, ovvero delle connesse prestazioni, in particolare sulla base di contratti per adesione;
+
+                            
+                        
+                        
+                            i)
+                            
+                                Esercenti, i soggetti che producono, importano, esportano, trasmettono, trasportano, stoccano, distribuiscono o vendono energia elettrica o gas ovvero altri servizi connessi;
+
+                            
+                        
+                        
+                            j)
+                            
+                                Associazioni di utenti o consumatori, ogni forma di organizzazione di utenti o consumatori in possesso dei requisiti fissati dall'Autorita' con il regolamento di cui al comma 23 dell'articolo 2 della legge.
+
 ## Art. 2. — Ambito di applicazione
 
 Il presente regolamento disciplina i procedimenti diretti all'adozione di provvedimenti individuali o all'esercizio di poteri conoscitivi al fine di garantire la piena conoscenza degli atti istruttori, il contraddittorio, in forma scritta e orale, e la verbalizzazione. Con riferimento alla medesima materia, per tutto quanto non specificamente disciplinato dal presente regolamento, si applicano le disposizioni della legge 7 agosto 1990, n. 241.
@@ -36,6 +110,45 @@ L'Autorita', qualora lo ritenga opportuno, definisce forme di introduzione delle
 L'Autorita' esercita d'ufficio le competenze previste dalla legge.
 
 Gli utenti, anche se esercenti, i consumatori, e le associazioni di utenti o consumatori, che intendono avvalersi della facolta' di cui all'articolo 2, comma 12, lettera m), della legge, presentano per iscritto il reclamo, l'istanza o la segnalazione all'Autorita', dopo che l'esercente interessato ha risposto allo stesso atto preventivamente proposto nei suoi confronti o, comunque, decorsi almeno venti giorni lavorativi dalla comunicazione del predetto atto all'esercente medesimo. La comunicazione a quest'ultimo e' effettuata direttamente ai suoi uffici, che ne rilasciano ricevuta, o a mezzo di raccomandata con avviso di ricevimento, telegramma con avviso di ricevimento, telex, telefax con domanda di conferma scritta di ricevimento, posta elettronica o altro mezzo idoneo al raggiungimento dello stesso risultato. Il termine di trenta giorni per la presentazione del reclamo, dell'istanza o della segnalazione all'Autorita' decorre dalla data della ricevuta o dell'avviso di ricevimento. L'atto puo' essere presentato contestualmente all'esercente e all'Autorita' nel caso si riferisca a situazioni che possano cagionare pericolo di danni gravi e irreparabili.
+
+3.
+                    
+                        
+                            Gli atti di cui al comma 2 sono redatti in conformita' ai modelli approvati dall'Autorita' e contengono almeno i seguenti elementi:
+ 
+                        
+                        
+                            a)
+                            
+                                nome, cognome, denominazione o ragione sociale, residenza, domicilio o sede dell'istante;
+
+                            
+                        
+                        
+                            b)
+                            
+                                indicazione della sussistenza dei requisiti di legittimazione di cui all'articolo 1, lettera j), quando l'istante e' un'associazione;
+
+                            
+                        
+                        
+                            c)
+                            
+                                indicazione dell'esercente e del contratto cui l'atto si riferisce;
+
+                            
+                        
+                        
+                            d)
+                            
+                                descrizione dell'irregolarita' lamentata con gli eventuali elementi di prova;
+
+                            
+                        
+                        
+                            e)
+                            
+                                ragione che eventualmente giustifica la presentazione all'Autorita' contestualmente alla presentazione all'esercente.
 
 All'atto di cui al comma 2 e' allegata copia della ricevuta o dell'avviso di ricevimento o della risposta dell'esercente. Sono allegate, altresi', l'eventuale documentazione atta a comprovare l'irregolarita' e la copia del contratto o di altra documentazione ad esso relativa.
 
@@ -58,6 +171,74 @@ Dell'avvio del procedimento e' data, altresi', notizia con la pubblicazione dell
 
 ## Art. 5. — Partecipazione al procedimento
 
+1.
+                    
+                        
+                            Possono partecipare al procedimento:
+ 
+                        
+                        
+                            a)
+                            
+                                i soggetti ai quali e' stata comunicata la decisione di avvio del procedimento;
+
+                            
+                        
+                        
+                            b)
+                            
+                                i soggetti portatori di interessi pubblici o privati, anche costituiti in associazioni o comitati cui possa derivare un pregiudizio diretto, immediato e attuale dai fatti per i quali e' stato avviato il procedimento o dai provvedimenti che possono essere adottati all'esito di quest'ultimo.
+
+2.
+                    
+                        
+                            I soggetti di cui al comma 1, se non gia' destinatari della comunicazione di avvio del procedimento, possono chiedere di intervenire nel procedimento. Detta facolta' e' esercitata con la presentazione all'Autorita', entro trenta giorni dalla pubblicazione dell'avvio del procedimento, di una richiesta scritta, contenente almeno gli elementi di seguito indicati:
+ 
+                        
+                        
+                            a)
+                            
+                                nome, cognome, denominazione o ragione sociale, sede, residenza o domicilio del richiedente;
+
+                            
+                        
+                        
+                            b)
+                            
+                                procedimento nel quale si intende intervenire;
+
+                            
+                        
+                        
+                            c)
+                            
+                                interesse a base dell'intervento.
+
+3.
+                    
+                        
+                            I soggetti che partecipano al procedimento possono:
+ 
+                        
+                        
+                            a)
+                            
+                                presentare memorie scritte, documenti, deduzioni e pareri;
+
+                            
+                        
+                        
+                            b)
+                            
+                                accedere ai documenti inerenti il procedimento;
+
+                            
+                        
+                        
+                            c)
+                            
+                                essere sentiti in un'audizione precedente la discussione finale avanti il Collegio.
+
 ## Art. 6. — Attivita' istruttorie
 
 A norma del comma 22 dell'articolo 2 della legge, le pubbliche amministrazioni e le imprese sono tenute a fornire all'Autorita' le notizie e le informazioni da questa richiesta ed a prestarle collaborazione per l'adempimento delle sue funzioni.
@@ -67,6 +248,45 @@ Alle attivita' istruttorie di cui al comma precedente provvedono gli uffici, esc
 Possono essere acquisiti al singolo procedimento individuale gli elementi risultanti dalle audizioni periodiche disciplinate con regolamento dell'Autorita' a norma dell'articolo 2, comma 23, della legge. Su tali elementi i soggetti intervenuti nel procedimento medesimo possono presentare memorie e controdedurre a norma dell'articolo 5, comma 3.
 
 ## Art. 7. — Richieste di informazioni e documenti
+
+1.
+                    
+                        
+                            Fermo restando quanto previsto all'articolo 2, comma 22, della legge, i provvedimenti aventi ad oggetto la richiesta di informazioni e di esibizione di documenti adottati dal Collegio a norma dell'articolo 2, comma 12, lettera g), e comma 20, lettera a), della legge, sono comunicati con le modalita' di cui all'articolo 11. Dette richieste indicano:
+ 
+                        
+                        
+                            a)
+                            
+                                i fatti e le circostanze sui quali si chiedono i chiarimenti;
+
+                            
+                        
+                        
+                            b)
+                            
+                                la finalita' della richiesta;
+
+                            
+                        
+                        
+                            c)
+                            
+                                il termine entro il quale deve pervenire la risposta o essere esibito il documento richiesto, termine che deve essere congruo in relazione all'urgenza del caso ed alla natura, quantita' e qualita' delle informazioni richieste e deve tenere conto del tempo necessario per predisporle;
+
+                            
+                        
+                        
+                            d)
+                            
+                                le modalita' di trasmissione delle informazioni e la persona cui possono essere esibiti i documenti o comunicate le informazioni richieste;
+
+                            
+                        
+                        
+                            e)
+                            
+                                le sanzioni applicabili in caso di rifiuto, omissione o ritardo, senza giustificato motivo, di fornire le informazioni od esibire i documenti richiesti, ovvero nel caso siano fornite informazioni o esibiti documenti non veritieri.
 
 I documenti, dei quali e' richiesta l'esibizione, sono forniti in originale o copia attestata conforme all'originale da parte del titolare o legale rappresentante dell'impresa.
 
@@ -79,6 +299,56 @@ L'obbligo di fornire le informazioni e di esibire i documenti richiesti grava su
 Fermo restando quanto previsto all'articolo 2, comma 22, della legge il Collegio puo' disporre, a norma dell'articolo 2, comma 12, lettera g), accessi ed ispezioni necessari ad accertare le modalita' di svolgimento dei servizi rientranti nella propria competenza ed a verificare l'adempimento degli obblighi dei soggetti esercenti i servizi medesimi. Nei confronti delle amministrazioni pubbliche e' richiesta, preventivamente, l'esibizione degli atti.
 
 I funzionari dell'Autorita', incaricati di procedere all'accesso o all'ispezione, vi procedono previa presentazione di copia di decisione del collegio di cui al comma precedente, nella quale sono precisati l'oggetto dell'accertamento, le sanzioni in caso di rifiuto, omissione o ritardo, senza giustificato motivo, di fornire informazioni o di esibire documenti richiesti nel corso dell'accesso o dell'ispezione, o di accedere alle richieste fondate sull'effettuazione dei controlli, nonche' nel caso in cui siano fornite informazioni od esibiti documenti non veritieri.
+
+3.
+                    
+                        
+                            In ogni caso, non costituisce giustificato motivo ai fini del comma 2, l'opposizione alla richiesta di:
+ 
+                        
+                        
+                            a)
+                            
+                                vincoli di riservatezza o di competenza imposti da regolamenti aziendali o da prescrizioni interne;
+
+                            
+                        
+                        
+                            b)
+                            
+                                esigenze di autotutela dal rischio di sanzioni fiscali o amministrative;
+
+                            
+                        
+                        
+                            c)
+                            
+                                esigenze di tutela del segreto industriale o aziendale, salvo che l'Autorita' riconosca determinate esigenze segnalate al riguardo.
+
+4.
+                    
+                        
+                            I funzionari incaricati di procedere all'accesso o all'ispezione hanno il potere di:
+ 
+                        
+                        
+                            a)
+                            
+                                accedere a tutti i locali, terreni e mezzi di trasporto del soggetto nei cui confronti si svolge l'ispezione, con esclusione dei luoghi di residenza o di domicilio, estranei all'attivita' aziendale oggetto di indagine;
+
+                            
+                        
+                        
+                            b)
+                            
+                                acquisire e controllare i documenti reperiti estraendone copia;
+
+                            
+                        
+                        
+                            c)
+                            
+                                richiedere informazioni orali.
 
 Nel corso dell'accesso o dell'ispezione, i soggetti interessati possono farsi assistere da consulenti di propria fiducia, senza che tale facolta' comporti la sospensione dell'accesso o dell'ispezione.
 

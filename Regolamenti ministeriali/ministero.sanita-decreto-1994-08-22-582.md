@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
 vigenza_date: 2008-06-12
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:39Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -42,6 +42,57 @@ In conformita' all'art. 2, comma 1, della legge 29 dicembre 1993, n. 578, l'acce
 
 ## Art. 2. — Condizioni che inducono all'accertamento della morte nei soggetti affetti da lesioni encefaliche e sottoposti a misure rianimatorie.
 
+1.
+                    
+                        
+                            Nei soggetti affetti da lesioni encefaliche sottoposti a misure rianimatorie, salvo i casi particolari di cui al comma 2, le condizioni che, ai sensi dell'art. 3 della legge 29 dicembre 1993, n. 
+578, impongono al medico della struttura sanitaria di dare immediata comunicazione alla direzione sanitaria dell'esistenza di un caso di morte per cessazione irreversibile di tutte le funzioni dell'encefalo, sono: 
+ 
+                        
+                        
+                            a)
+                            
+                                stato di incoscienza; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                assenza di riflessi del tronco e di respiro spontaneo; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                silenzio elettrico cerebrale.
+
+2.
+                    
+                        
+                            L'iter diagnostico-terapeutico, finalizzato anche alla certezza della diagnosi eziopatogenetica, deve prevedere, nelle sottoelencate situazioni particolari, l'esecuzione di ulteriori indagini complementari atte ad evidenziare l'esistenza di flusso ematico cerebrale: 
+ 
+                        
+                        
+                            a)
+                            
+                                bambini di eta' inferiore a 1 anno; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                presenza di fattori concomitanti (farmaci depressori del sistema nervoso centrale, ipotermia, alterazioni endocrinometaboliche, ipotensione sistemica pregressa) di grado tale da interferire sul quadro clinico complessivo. In alternativa al rilievo del flusso ematico cerebrale l'iter puo' essere procrastinato fino all'avvenuta normalizzazione delle situazioni predette; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                situazioni che non consentono una diagnosi eziopatogenetica certa o che impediscono l'esecuzione dei riflessi del tronco o dell'elettroencefalogramma (EEG).
+
 Nel caso in cui il flusso ematico cerebrale valutato per i motivi di cui al precedente comma risulti assente, il medico della struttura sanitaria e' tenuto a dare immediata comunicazione alla direzione sanitaria ai sensi dell'art. 3 della legge 29 dicembre 1993, n. 578. 
  
 --------------- 
@@ -50,6 +101,38 @@ Nota redazionale
  E' possibile visualizzare il testo originario accedendo alla versione pdf della relativa Gazzetta di pubblicazione.
 
 ## Art. 3. — Accertamento della morte nei soggetti affetti da lesioni encefaliche e sottoposti a misure rianimatorie
+
+1.
+                    
+                        
+                            Nei soggetti di cui all'art. 2 la morte e' accertata quando sia riscontrata, per il periodo di osservazione previsto dall'art. 4, la contemporanea presenza delle seguenti condizioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                stato di incoscienza; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                assenza di riflesso corneale, riflesso fotomotore, riflesso oculocefalico e oculovestibolare, reazioni a stimoli dolorifici portati nel territorio d'innervazione del trigemino, riflesso carenale e respirazione spontanea dopo sospensione della ventilazione artificiale fino al raggiungimento di ipercapnia accertata da 60 mmHg con pH ematico minore di 7,40; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                silenzio elettrico cerebrale, documentato da EEG eseguito secondo le modalita' tecniche riportate nell'allegato 1; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                assenza di flusso cerebrale preventivamente documentata nelle situazioni particolari previste dal comma 2 dell'art.
 
 2. I riflessi spinali, spontanei o provocati, non hanno rilevanza alcuna ai fini dell'accertamento della morte, essendo essi compatibili con la condizione di cessazione irreversibile di tutte le funzioni encefaliche.
 
@@ -61,6 +144,31 @@ Nota redazionale
  E' possibile visualizzare il testo originario accedendo alla versione pdf della relativa Gazzetta di pubblicazione.
 
 ## Art. 4. — Periodo di osservazione
+
+1.
+                    
+                        
+                            La durata dell'osservazione ai fini dell'accertamento della morte deve essere non inferiore a:
+ 
+                        
+                        
+                            a)
+                            
+                                sei ore per gli adulti e i bambini in eta' superiore a cinque anni;
+
+                            
+                        
+                        
+                            b)
+                            
+                                dodici ore per i bambini di eta' compresa tra uno e cinque anni;
+
+                            
+                        
+                        
+                            c)
+                            
+                                ventiquattro ore nei bambini di eta' inferiore a un anno.
 
 In tutti i casi di danno cerebrale anossico il periodo di osservazione non puo' iniziare prima di 24 ore dal momento dell'insulto anossico.
 

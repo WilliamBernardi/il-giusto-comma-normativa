@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
 vigenza_date: 2006-04-26
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:41Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -68,6 +68,66 @@ Eventuali ispezioni, autorizzate dal capo dell'ufficio, possono essere effettuat
 L'Istituto Poligrafico e Zecca dello Stato provvede a mettere a disposizione idonei locali, attrezzature e materiali d'uso per gli interventi del personale dipendente dall'ufficio cui spetta la vigilanza.
 
 ## Art. 6.
+
+1.
+                    
+                        
+                            L'ufficio di vigilanza e controllo di cui al precedente articolo 3:
+ 
+                        
+                        
+                            a)
+                            
+                                riceve e conserva copia delle ordinazioni dei conii per la monetazione e copia del relativo buono di carico del magazzino di serra e vigila sulla conformita' delle scritture per numero e serie dei conii punzonati;
+
+                            
+                        
+                        
+                            b)
+                            
+                                riceve e conserva copia delle ordinazioni del materiale di cui al terzo comma dell'articolo 3, copia del buono di carico del prodotto finito e l'attestato di spedizione dal relativo magazzino spedizioni, accertando la conformita' delle scritture;
+
+                            
+                        
+                        
+                            c)
+                            
+                                vigila sulla regolare tenuta degli inventari delle materie prime;
+
+                            
+                        
+                        
+                            d)
+                            
+                                vigila sulla rilevazione giornaliera delle monete in lavorazione e che i dati siano riportati in appositi registri distinti per taglio;
+
+                            
+                        
+                        
+                            e)
+                            
+                                vigila sulla rilevazione del passaggio a scarto del materiale controllato e della sua distruzione;
+
+                            
+                        
+                        
+                            f)
+                            
+                                provvede al riscontro dei documenti relativi alla consegna e alla spedizione del materiale di cui al secondo e terzo comma del precedente articolo 3, effettuate dal competente magazzino spedizioni;
+
+                            
+                        
+                        
+                            g)
+                            
+                                puo' effettuare controlli e riscontri di scritture nel magazzino di custodia dei materiali di creazione delle fabbricazioni di cui al primo e terzo comma del precedente articolo 3, nonche' a quelle relative al secondo comma del medesimo articolo qualora le coniazioni siano state sottoposte al controllo del suddetto ufficio;
+
+                            
+                        
+                        
+                            h)
+                            
+                                puo' effettuare, durante tutte le fasi di produzione, verifiche ai valori ed ai materiali.
 
 ## Art. 7.
 
@@ -246,6 +306,31 @@ La somma residua viene versata dalla cassa speciale ad apposito capitolo dello s
 A fronte di tale operazione, la Tesoreria centrale, dietro autorizzazione del Dipartimento del tesoro, provvede a discaricare la cassa speciale, con quietanza di entrata di bilancio, dell'ammontare corrispondente al valore nominale delle suddette monete di serie speciale consegnate dalla cassa speciale all'Istituto Poligrafico e Zecca dello Stato.
 
 ## Art. 28.
+
+1.
+                    
+                        
+                            La commissione permanente tecnico artistica di cui al regio decreto 29 gennaio 1905, n. 27, e successive modifiche, che ha il compito di esaminare i tipi delle nuove monete metalliche nazionali, con esclusione del lato comune delle monete euro ed i relativi conii e di pronunziarsi su ogni altro argomento affine o attinente alla monetazione, e' composta come appresso:
+ 
+                        
+                        
+                            a)
+                            
+                                presidente: il Sottosegretario di Stato per il Tesoro, il bilancio e la programmazione economica;
+
+                            
+                        
+                        
+                            b)
+                            
+                                vice presidente: il direttore generale del Tesoro;
+
+                            
+                        
+                        
+                            c)
+                            
+                                membri: due dirigenti dell'amministrazione del tesoro, del bilancio e della programmazione economica, di cui uno, appositamente delegato, sostituisce nella vice presidenza il direttore generale del Tesoro in caso di sua assenza o impedimento; il presidente ed il direttore generale dell'Istituto Poligrafico e Zecca dello Stato; tre esperti nel campo dell'arte e della storia dell'arte, dei quali almeno uno con competenza specifica nel campo delle incisioni; un esperto con specifiche competenze in materia di monetazione metallica in euro; un rappresentante del Ministero per i beni e le attivita' culturali; un rappresentante del Consiglio per i beni culturali e ambientali; un rappresentante dell'Accademia di belle arti di Roma; un rappresentante dell'insigne Accademia nazionale di San Luca; il direttore della sezione Zecca.
 
 Le mansioni di segretario della commissione sono espletate da un funzionario dell'amministrazione del Tesoro, del bilancio e della programmazione economica.
 

@@ -8,8 +8,8 @@ vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
 vigenza_date: 2021-05-29
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:31Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -36,6 +36,38 @@ Documento unico di circolazione e di proprieta'
 
 A decorrere dal 1° gennaio 2020, la carta di circolazione, redatta secondo le disposizioni contenute nella direttiva 29 aprile 1999, n. 1999/37/CE del Consiglio, costituisce il documento unico contenente i dati di circolazione e di proprieta' degli autoveicoli, dei motoveicoli e dei rimorchi ricadenti nel regime dei beni mobili registrati di cui al libro VI, titolo I, capo III, sezione I, del codice civile.
 
+2.
+                    
+                        
+                            Nella carta di circolazione di cui al comma 1, di seguito denominata «documento unico», sono annotati: 
+ 
+                        
+                        
+                            a)
+                            
+                                i dati tecnici del veicolo; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                i dati di intestazione del veicolo, di cui agli articoli 91, 93 e 94 del decreto legislativo 30 aprile 1992, n. 285; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                i dati validati dal Pubblico registro automobilistico, di seguito PRA, relativi alla situazione giuridico-patrimoniale del veicolo; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                i dati relativi alla cessazione del veicolo dalla circolazione conseguente alla sua demolizione o alla sua definitiva esportazione all'estero.
+
 Nel documento unico sono, altresi', annotati i dati relativi alla sussistenza di privilegi e ipoteche, di provvedimenti amministrativi e giudiziari che incidono sulla proprieta' e sulla disponibilita' del veicolo, annotati presso il PRA, nonche' di provvedimenti di fermo amministrativo, con le modalita', anche telematiche, previste con decreto del Ministero delle infrastrutture e dei trasporti, di concerto con il Ministero della giustizia, da adottarsi entro sessanta giorni dalla data di entrata in vigore del presente decreto.
 
 Il Ministero delle infrastrutture e dei trasporti e' competente al rilascio della carta di circolazione, che ha validita' di certificazione dei dati in essa contenuti, ferma restando la responsabilita' dell'Automobile club d'Italia, di seguito ACI, per i dati relativi alla proprieta' e alla locazione finanziaria dei veicoli, e del Ministero delle infrastrutture e dei trasporti per i dati relativi ai veicoli di cui al presente articolo.
@@ -43,6 +75,24 @@ Il Ministero delle infrastrutture e dei trasporti e' competente al rilascio dell
 Fermo quanto previsto dal comma 1, il Ministero delle infrastrutture e dei trasporti, sentiti l'ACI e le organizzazioni maggiormente rappresentative delle imprese esercenti l'attivita' di consulenza per la circolazione dei mezzi di trasporto, con uno o piu' decreti definisce le modalita' e i termini per la graduale utilizzazione, da completare comunque ((entro il 30 settembre 2021)), delle procedure telematiche per il rilascio del documento unico, specificando anche le cadenze temporali delle fasi di verifica delle funzionalita' da effettuare presso gli Sportelli telematici dell'automobilista (STA) appositamente individuati dal medesimo Ministero. L'inosservanza delle modalita' e dei termini indicati nei decreti di cui al primo periodo determina l'irregolare rilascio del documento ai sensi dell'articolo 6 del regolamento di cui al decreto del Presidente della Repubblica 19 settembre 2000, n. 358.
 
 ## Art. 2. — Procedura di rilascio
+
+1.
+                    
+                        
+                            Il soggetto interessato presenta istanza di rilascio del documento unico di cui all'articolo 1 in sede di prima immatricolazione o di reimmatricolazione o del suo aggiornamento conseguente al trasferimento della proprieta' del veicolo, corredata dalla relativa documentazione e avvalendosi di un modello unificato definito con decreto del Ministero delle infrastrutture e dei trasporti, sentito l'ACI, da adottare entro sessanta giorni dalla data di entrata in vigore del presente decreto: 
+ 
+                        
+                        
+                            a)
+                            
+                                presso qualsiasi Sportello telematico dell'automobilista, di seguito STA, nelle ipotesi previste dal decreto del Presidente della Repubblica 19 settembre 2000, n. 358, ivi compresi gli Uffici dell'ACI in quanto STA; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                presso il competente Ufficio motorizzazione civile, di seguito UMC, nelle ipotesi escluse dall'ambito di applicazione del decreto del Presidente della Repubblica 19 settembre 2000, n. 358.
 
 Per il rilascio e l'aggiornamento della carta di circolazione in sede di prima immatricolazione, di reimmatricolazione o di aggiornamento, e' corrisposta una tariffa unica determinata con decreto del Ministro delle infrastrutture e dei trasporti, di concerto con i Ministri dell'economia e delle finanze e della giustizia, da adottare entro il termine perentorio del 30 aprile 2018, sentiti l'ACI e le organizzazioni maggiormente rappresentative delle imprese di consulenza automobilistica, previo parere delle competenti commissioni parlamentari che si esprimono entro il termine di quindici giorni decorrenti dalla data di ricezione della richiesta. Tale tariffa e' determinata in misura comunque non superiore alla somma dell'importo delle due tariffe previste a normativa vigente, tenuto conto dei costi dei servizi. Con il medesimo decreto e', altresi', determinato l'importo dell'imposta di bollo unificata in misura tale da assicurare che siano garantiti, a seguito dell'unificazione dei documenti di cui all'articolo 1, i medesimi effetti finanziari previsti a legislazione vigente senza impatti negativi sui saldi di bilancio e sono disciplinate le modalita' di versamento delle tariffe all'ACI in maniera diretta e alla Motorizzazione civile, per gli importi di rispettiva competenza.
 Agli aggiornamenti della carta di circolazione relativi a situazioni giuridiche o tecniche non soggette a trascrizione al PRA, continuano ad applicarsi le tariffe previste dalla Tabella 3 allegata alla legge 1° dicembre 1986, n. 870. Con le stesse modalita' previste al primo periodo e' disposto l'aggiornamento della tariffa unica. Il versamento della tariffa unica e dell'imposta di bollo unificata e' consentito anche attraverso modalita' di pagamento elettronico o on line. I risparmi nella gestione dei dati determinati dall'attuazione della presente disciplina sono integralmente destinati a ridurre i costi per l'utenza. In caso di mancata adozione del decreto di cui al presente comma, in sede di prima applicazione la tariffa unica e' determinata quale somma delle due tariffe previste a normativa vigente e l'importo dell'imposta di bollo unificata e' determinato quale somma degli importi delle imposte di bollo dovute a normativa vigente per ciascuna tipologia di documento. Con le medesime modalita' previste a legislazione vigente e' versata all'ACI e alla motorizzazione civile una quota della tariffa unica pari all'importo della tariffa rispettivamente prevista a legislazione vigente. Con decreto del Ministro delle infrastrutture e dei trasporti, di concerto con il Ministro dell'economia e delle finanze, e' disposto l'aggiornamento della tariffa di cui all'ottavo periodo, con eventuale adeguamento degli importi di competenza rispettivamente dell'ACI e della motorizzazione civile.
@@ -71,6 +121,111 @@ Con decreto del Presidente della Repubblica, su proposta del Ministro delle infr
 Sono fatti salvi i diritti attivi e passivi dei contratti in essere alla data del predetto decreto.
 
 ## Art. 5. — Disposizioni di coordinamento e abrogazioni
+
+1.
+                    
+                        
+                            Al decreto legislativo 30 aprile 1992, n. 285, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                all'articolo 93: 
+ 1) il comma 5 e' sostituito dal seguente: «5. Per i veicoli soggetti ad iscrizione nel P.R.A., nella carta di circolazione sono annotati i dati attestanti la proprieta' e lo stato giuridico del veicolo.»; 
+ 2) il comma 9 e' soppresso; 
+ 3) il comma 12 e' sostituito dal seguente: «12. Fermo restando quanto previsto dal decreto del Presidente della Repubblica 19 settembre 2000, n. 358, istitutivo dello sportello telematico dell'automobilista, gli adempimenti amministrativi previsti dal presente articolo e dagli articoli 94 e 103, comma 1, sono gestiti in via telematica dagli uffici del Dipartimento per i trasporti, la navigazione, gli affari generali e del personale, quale centro unico di servizio, attraverso il sistema informativo del Dipartimento stesso.»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                all'articolo 94: 
+ 1) il comma 1 e' sostituito dal seguente: «1. In caso di trasferimento della proprieta' degli autoveicoli, dei motoveicoli e dei rimorchi o nel caso di costituzione dell'usufrutto o di stipulazione di locazione con facolta' di acquisto, l'ufficio competente del Dipartimento per i trasporti, la navigazione, gli affari generali e del personale, su richiesta avanzata dall'acquirente entro sessanta giorni dalla data in cui la sottoscrizione dell'atto e' stata autenticata o giudizialmente accertata, provvede al rilascio di una nuova carta di circolazione nella quale sono annotati gli intervenuti mutamenti della proprieta' e dello stato giuridico del veicolo. Il competente ufficio del P.R.A. provvede alla relativa trascrizione ovvero, in caso di accertate irregolarita', procede alla ricusazione della formalita' entro tre giorni dal ricevimento delle informazioni e delle documentazioni trasmesse, in via telematica, dall'ufficio del Dipartimento per i trasporti, la navigazione, gli affari generali e del personale.»; 
+ 2) il comma 2 e' sostituito dal seguente: «2. In caso di trasferimento della residenza dell'intestatario della carta di circolazione, o di sede se si tratta di persona giuridica, l'ufficio competente del Dipartimento per i trasporti, la navigazione, gli affari generali e del personale procede all'aggiornamento della carta di circolazione.»; 
+ 3) al comma 4, le parole: «dai commi 1 e 2» sono sostituite dalle seguenti: «dal comma 1» e le parole: «e del certificato di proprieta'» sono soppresse; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                all'articolo 94-bis, comma 1, le parole: «, il certificato di proprieta' di cui al medesimo articolo» sono soppresse; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                all'articolo 95: 
+ 1) la rubrica e' sostituita dalla seguente: «Duplicato della carta di circolazione»; 
+ 2) il comma 1 e' soppresso; 
+ 3) il comma 6 e' soppresso; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                all'articolo 96: 
+ 1) il comma 1 e' sostituito dal seguente: «1. Ferme restando le procedure di recupero degli importi dovuti per le tasse automobilistiche, l'ente impositore, anche per il tramite del soggetto cui e' affidata la riscossione, qualora accerti il mancato pagamento delle stesse per almeno tre anni consecutivi, notifica al proprietario l'avviso dell'avvio del procedimento e, in assenza di giustificato motivo, ove non sia dimostrato l'effettuato pagamento entro trenta giorni dalla data di tale notifica, chiede all'ufficio competente del Dipartimento per i trasporti, la navigazione, gli affari generali e del personale la cancellazione d'ufficio dall'archivio nazionale dei veicoli e dal P.R.A. Il predetto ufficio provvede al ritiro delle targhe e della carta di circolazione tramite gli organi di polizia.»; 
+ 2) il comma 2 e' soppresso; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                all'articolo 101: 
+ 1) al comma 3, la parola: «novanta» e' sostituita dalla seguente: «tre»; 
+ 2) al comma 4, le parole: «su apposita segnalazione dell'ufficio del P.R.A.,» sono soppresse; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                all'articolo 103: 
+ 1) il comma 1 e' sostituito dal seguente: «1. Per esportare definitivamente all'estero autoveicoli, motoveicoli o rimorchi, l'intestatario o l'avente titolo chiede all'ufficio competente del Dipartimento per i trasporti, la navigazione, gli affari generali e del personale la cancellazione dall'archivio nazionale dei veicoli e dal P.R.A., restituendo le relative targhe e la carta di circolazione, secondo le procedure stabilite dal Dipartimento stesso nel rispetto delle vigenti norme comunitarie in materia. La cancellazione e' disposta a condizione che il veicolo sia stato sottoposto a revisione, con esito positivo, in data non anteriore a sei mesi rispetto alla data di richiesta di cancellazione. Per raggiungere i transiti di confine per l'esportazione il veicolo cancellato puo' circolare su strada solo se munito del foglio di via e della targa provvisoria prevista dall'articolo 99.»; 
+ 2) al comma 2, le parole: «, altresi'» sono soppresse, le parole: «agli uffici del P.R.A.» sono sostituite dalle seguenti: «al competente ufficio del Dipartimento per i trasporti, la navigazione, gli affari generali e del personale» e il secondo periodo e' sostituito dal seguente: «Il predetto ufficio provvede alla cancellazione dall'archivio nazionale dei veicoli e ne da' notizia al competente ufficio del P.R.A. per la cancellazione dal pubblico registro automobilistico.»; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                all'articolo 201, comma 1, primo periodo, le parole: «dai pubblici registri» sono sostituite dalle seguenti: «dall'archivio nazionale dei veicoli e dal P.R.A.» e al quarto periodo le parole: «dai pubblici registri» sono sostituite dalle seguenti: «dal P.R.A.»; 
+
+                            
+                        
+                        
+                            i)
+                            
+                                all'articolo 213, comma 7, le parole: «al P.R.A. per l'annotazione nei propri registri» sono sostituite dalle seguenti: «all'ufficio competente del Dipartimento per i trasporti, la navigazione, gli affari generali e del personale per l'annotazione al P.R.A..»; 
+
+                            
+                        
+                        
+                            l)
+                            
+                                all'articolo 214-bis, comma 2, ultimo periodo, le parole: «al pubblico registro automobilistico competente per l'aggiornamento delle iscrizioni» sono sostituite dalle seguenti: «all'ufficio competente del Dipartimento per i trasporti, la navigazione, gli affari generali e del personale per l'aggiornamento delle iscrizioni al P.R.A..»; 
+
+                            
+                        
+                        
+                            m)
+                            
+                                all'articolo 214-ter, comma 1, quarto periodo, le parole: «al pubblico registro automobilistico per l'aggiornamento delle iscrizioni» sono sostituite dalle seguenti: «all'ufficio competente del Dipartimento per i trasporti, la navigazione, gli affari generali e del personale per l'aggiornamento delle iscrizioni al P.R.A.»; 
+
+                            
+                        
+                        
+                            n)
+                            
+                                all'articolo 226: 
+ 1) al comma 6, le parole: «del certificato di proprieta',» sono soppresse; 
+ 2) al comma 7, le parole: «dal P.R.A.,» sono soppresse.
 
 All'articolo 231, comma 5, del decreto legislativo 3 aprile 2006, n. 152, il secondo periodo e' sostituito dal seguente: «A tal fine, entro novanta giorni dalla consegna del veicolo o del rimorchio da parte del proprietario, il gestore del centro di raccolta, il concessionario o il titolare della succursale restituisce la carta di circolazione e le targhe ad uno sportello telematico dell'automobilista che provvede secondo le procedure previste dal decreto del Presidente della Repubblica 19 settembre 2000, n. 358.».
 

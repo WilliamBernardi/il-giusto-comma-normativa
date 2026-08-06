@@ -9,7 +9,7 @@ vigente: true
 source: normattiva-opendata
 collection: Atti di recepimento direttive UE
 zip_date: 2026-07-30
-fetched_at: 2026-08-02T09:40:49Z
+fetched_at: 2026-07-30
 ---
 
 DECRETO LEGISLATIVO
@@ -27,13 +27,95 @@ Sulla proposta del Presidente del Consiglio dei Ministri e dei Ministri dell'ind
 
 Il presente decreto legislativo prescrive misure per la tutela della sicurezza e della salute dei lavoratori durante il lavoro nelle attivita' estrattive di sostanze minerali di prima e di seconda categoria, cosi' come definite dall'articolo 2 del regio decreto 29 luglio 1927, n. 1443, e successive modifiche.
 
+2.
+                        
+                            
+                                Le norme del presente decreto si applicano:
+ 
+                            
+                            
+                                a)
+                                
+                                    ai lavori di prospezione, ricerca e coltivazione delle sostanze minerali;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    ai lavori svolti negli impianti connessi alle attivita' minerarie, esistenti entro il perimetro dei permessi di ricerca, delle concessioni o delle autorizzazioni;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    ai lavori svolti negli impianti che costituiscono pertinenze della miniera ai sensi dell'articolo 23 del regio decreto n. 1443 del 1927, anche se ubicati fuori del perimetro delle concessioni;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    ai lavori di frantumazione, vagliatura, squadratura e lizzatura dei prodotti delle cave ed alle operazioni di caricamento di tali prodotti dai piazzali;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    alle attivita' di prospezione, ricerca, coltivazione e stoccaggio degli idrocarburi liquidi e gassosi nel territorio nazionale, nel mare territoriale e nella piattaforma continentale e nelle altre aree sottomarine comunque soggette ai poteri dello Stato.
+
 Per quanto non diversamente disposto, o modificato dal presente decreto, si applicano le norme di cui ai decreti del Presidente della Repubblica 9 aprile 1959, n. 128, e successive modifiche, 24 maggio 1979, n. 886, e successive modifiche, all'articolo 11 della legge 30 luglio 1990, n. 221, al decreto legislativo 19 settembre 1994, n. 626, come modificato dal decreto legislativo 19 marzo 1996, n. 242, di seguito complessivamente denominato decreto legislativo n. 626 del 1994.
 
 Le disposizioni del presente decreto si applicano, nelle regioni a statuto speciale e nelle province autonome di Trento e Bolzano, compatibilmente con i rispettivi statuti e le relative norme di attuazione.
 
 ## Art. 2. — (Definizioni)
 
+1.
+                        
+                            
+                                Agli effetti delle disposizioni di cui al presente decreto si intendono per:
+ 
+                            
+                            
+                                a)
+                                
+                                    luogo di lavoro: ogni luogo destinato ai posti di lavoro ove si svolgono le attivita' di cui all'articolo 1, compresi gli alloggi a cui i lavoratori hanno accesso nell'ambito del loro lavoro, la viabilita' interna a servizio dell'attivita' stessa, le discariche, nonche' le altre aree di deposito, con l'esclusione, per le attivita' condotte mediante perforazione, delle aree di magazzinaggio e deposito non direttamente connesse alle attivita' stesse;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    titolare: l'imprenditore di miniera o cava o il titolare di permesso di prospezione o di ricerca o di concessione di coltivazione o di autorizzazione di cava;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    sorvegliante: persona, in possesso delle capacita' e delle competenze necessarie, designato dal titolare per la sorveglianza sul luogo di lavoro occupato da lavoratori.
+
 ## Art. 3. — (Vigilanza)
+
+1.
+                        
+                            
+                                Ai sensi delle norme vigenti:
+ 
+                            
+                            
+                                a)
+                                
+                                    la vigilanza sull'applicazione delle norme in tema di sicurezza e di salute dei lavoratori nelle attivita' minerarie relative a sostanze minerali di prima categoria spetta al Ministero dell'industria, del commercio e dell'artigianato che la esercita a mezzo della Direzione generale delle miniere e dei suoi uffici periferici ferme restando le attribuzioni e le competenze delle regioni a statuto speciale e delle Provincie autonome di Trento e Bolzano;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    per le attivita' estrattive relative a sostanze minerali di seconda categoria, ad acque minerali e termali, alle piccole utilizzazioni locali di fluidi geotermici di cui all'articolo 9 della legge 9 dicembre 1986, n. 896, nonche' alla coltivazione delle risorse geotermiche classificate di interesse locale di cui all'articolo 8 della stessa legge n. 896 del 1986, la vigilanza sull'applicazione delle norme in tema di sicurezza e di salute dei lavoratori spetta alle regioni e alle province autonome di Trento e Bolzano;
 
 Quando l'autorita' di vigilanza si avvale delle strutture del Servizio Sanitario Nazionale ai sensi dell'articolo 4 del decreto del Presidente della Repubblica n. 128 del 1959, i relativi oneri finanziari sono a carico del datore di lavoro.
 
@@ -47,6 +129,94 @@ Nell'esercizio dei loro compiti, i funzionari incaricati dei controlli ispettivi
 
 ## Art. 5. — (Misure generali di tutela)
 
+1.
+                        
+                            
+                                Le misure generali per la tutela della salute e della sicurezza dei lavoratori, oltre a quelle previste dall'articolo 3 del decreto legislativo n. 626 del 1994, sono le seguenti:
+ 
+                            
+                            
+                                a)
+                                
+                                    i luoghi di lavoro devono essere progettati, realizzati, attrezzati, resi operativi, utilizzati e mantenuti in efficienza in modo da permettere ai lavoratori di espletare le mansioni loro affidate senza compromettere la salute e la sicurezza propria e degli altri lavoratori;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    i posti di lavoro devono essere progettati e costruiti secondo criteri ergonomici, tenendo conto della necessita' che i lavoratori abbiano una visione d'insieme delle operazioni che si svolgono sul loro posto di lavoro;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    i lavori comportanti rischi particolari devono essere affidati soltanto a personale competente ed effettuati conformemente alle istruzioni impartite;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    devono essere fornite attrezzature adeguate di pronto soccorso;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    devono essere svolte adeguate esercitazioni di sicurezza ad intervalli regolari;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    i luoghi di lavoro devono essere progettati ed organizzati in modo da impedire l'innesco e la propagazione di incendi e che siano possibili operazioni antincendio rapide ed efficaci;
+
+                                
+                            
+                            
+                                g)
+                                
+                                    i luoghi di lavoro devono essere dotati di adeguati dispositivi per combattere gli incendi e, ove necessario, di rivelatori d'incendio e sistemi d'allarme;
+
+                                
+                            
+                            
+                                h)
+                                
+                                    i dispositivi di lotta contro gli incendi devono essere indicati con segnaletica conforme alla normativa vigente, apposta in modo durevole nei punti appropriati, e quelli non automatici devono essere facilmente accessibili, di semplice impiego e protetti contro i rischi di deterioramento;
+
+                                
+                            
+                            
+                                i)
+                                
+                                    i luoghi di lavoro devono essere dotati di mezzi o sistemi adeguati di estinzione o di intervento per interrompere gli incendi, con riferimento alle specifiche caratteristiche dell'impianto riguardanti il materiale estratto o trattato; gli estintori portatili o carrellati devono essere di tipo approvato ed in numero adeguato, ubicati in luoghi facilmente accessibili, segnalati e collocati in posizioni tali da consentirne l'immediato uso;
+
+                                
+                            
+                            
+                                l)
+                                
+                                    per attivita' condotte per perforazione, ove necessario, deter- minate attrezzature devono poter essere azionate per comando a distanza a partire da apposite postazioni; tali attrezzature devono includere i sistemi di isolamento e le valvole di scarico di pozzi, impianti e condotte;
+
+                                
+                            
+                            
+                                m)
+                                
+                                    ove necessario, occorre indicare i punti sicuri di raduno, tenere un ruolino d'appello e adottare le opportune disposizioni per il suo funzionamento;
+
+                                
+                            
+                            
+                                n)
+                                
+                                    le misure di prevenzione e protezione dai rischi adottate devono essere verificate periodicamente.
+
 ## - TITOLO I DISPOSIZIONI GENERALI CAPO II OBBLIGHI DEL DATORE DI LAVORO
 
 ## Art. 6. — (Documento di sicurezza e di salute)
@@ -57,7 +227,43 @@ Il datore di lavoro, nel DSS, oltre a quanto previsto dall'articolo 4 del decret
 
 Il datore di lavoro aggiorna il DSS qualora i luoghi di lavoro abbiano subito modifiche rilevanti, nonche', ove se ne manifesti la necessita', a seguito di incidenti rilevanti.
 
+4.
+                        
+                            
+                                Il datore di lavoro trasmette all'autorita' di vigilanza:
+ 
+                            
+                            
+                                a)
+                                
+                                    il DSS prima dell'inizio delle attivita';
+
+                                
+                            
+                            
+                                b)
+                                
+                                    gli aggiornamenti del DSS.
+
 ## Art. 7. — (Obblighi)
+
+1.
+                        
+                            
+                                Il datore di lavoro:
+ 
+                            
+                            
+                                a)
+                                
+                                    designa il sorvegliante nei luoghi di lavoro in cui sono presenti lavoratori;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    trasmette la comunicazione di cui all'articolo 8, comma 11, del decreto legislativo. n. 626 del 1994 anche all'autorita' di vigilanza di cui all'articolo 3.
 
 Nell'ambito degli obblighi previsti dal presente decreto, il titolare non puo' delegare quelli previsti dall'articolo 9, comma 2, lettera b).
 
@@ -75,9 +281,256 @@ Il datore di lavoro trasmette all'Autorita' di vigilanza il verbale della riunio
 
 In caso di affidamento dei lavori all'interno del luogo di lavoro ad imprese appaltatrici o a lavoratori autonomi, o comunque quando nello stesso luogo di lavoro sono presenti lavoratori di piu' imprese, l'articolo 7 del decreto legislativo n. 626 del 1994, si applica limitatamente al comma 1, lettera a).
 
+2.
+                        
+                            
+                                Nei casi di cui al comma 1:
+ 
+                            
+                            
+                                a)
+                                
+                                    Ciascun appaltatore trasmette al titolare la documentazione di cui all'articolo 4 del decreto legislativo n. 626 del 1994;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il titolare valuta le documentazioni di cui alla lettera a), i rischi derivanti dal complesso delle attivita' e le relative misure di prevenzione e di protezione, e predispone un DSS coordinato, contenente le indicazioni previste dall'articolo 10, nel quale sono specificati l'obiettivo, le misure e le modalita' di attuazione del coordinamento;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    gli appaltatori, previa consultazione dei propri rappresentanti per la sicurezza, sottoscrivono il DSS coordinato di cui alla lettera b), divenendone responsabili per l'attuazione della parte di specifica competenza.
+
 ## Art. 10. — (Contenuti del DSS)
 
+1.
+                        
+                            
+                                Il DSS di cui all'articolo 6, e quello di cui all'articolo 9, devono contenere la valutazione dei rischi per la salute e la sicurezza dei lavoratori in relazione all'attivita' svolta e la conseguente individuazione delle misure e modalita' operative, indicando in particolare le soluzioni adottate, o l'assenza di rischio, per ciascuno dei seguenti elementi:
+ 
+                            
+                            
+                                a)
+                                
+                                    protezione contro gli incendi, le esplosioni e le atmosfere esplosive o nocive;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    mezzi di evacuazione e salvataggio;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    sistemi di comunicazione, di avvertimento e di allarme;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    sorveglianza sanitaria;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    programma per l'ispezione sistematica, la manutenzione e la prova di attrezzature, della strumentazione e degli impianti meccanici, elettrici ed elettromeccanici;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    manutenzione del materiale di sicurezza;
+
+                                
+                            
+                            
+                                g)
+                                
+                                    utilizzazione e manutenzione dei recipienti a pressione;
+
+                                
+                            
+                            
+                                h)
+                                
+                                    uso e manutenzione dei mezzi di trasporto;
+
+                                
+                            
+                            
+                                i)
+                                
+                                    esercitazioni di sicurezza;
+
+                                
+                            
+                            
+                                l)
+                                
+                                    aree di deposito;
+
+                                
+                            
+                            
+                                m)
+                                
+                                    stabilita' dei fronti;
+
+                                
+                            
+                            
+                                n)
+                                
+                                    armature di sostegno;
+
+                                
+                            
+                            
+                                o)
+                                
+                                    modalita' della ventilazione;
+
+                                
+                            
+                            
+                                p)
+                                
+                                    zone a rischio di sprigionamenti istantanei di gas, di colpi di massiccio e di irruzioni di acqua;
+
+                                
+                            
+                            
+                                q)
+                                
+                                    evacuazione del personale;
+
+                                
+                            
+                            
+                                r)
+                                
+                                    organizzazione del servizio di salvataggio;
+
+                                
+                            
+                            
+                                s)
+                                
+                                    impiego di adeguate attrezzature di sicurezza per prevenire rischi di eruzione dei pozzi, misure di controllo del fango di perforazione e misure di emergenza in caso di eruzioni;
+
+                                
+                            
+                            
+                                t)
+                                
+                                    dispositivi di sicurezza e cautele operative in perforazione con fluidi diversi dal fango;
+
+                                
+                            
+                            
+                                u)
+                                
+                                    impiego dell'uso di esplosivo;
+
+                                
+                            
+                            
+                                v)
+                                
+                                    eventuale programma di attivita' simultanee;
+
+                                
+                            
+                            
+                                z)
+                                
+                                    criteri per l'addestramento in caso di emergenza;
+
+                                
+                            
+                            
+                                aa)
+                                
+                                    misure specifiche per impianti modulari;
+
+                                
+                            
+                            
+                                bb)
+                                
+                                    comandi a distanza in caso di emergenza;
+
+                                
+                            
+                            
+                                cc)
+                                
+                                    indicazione dei punti sicuri di raduno;
+
+                                
+                            
+                            
+                                dd)
+                                
+                                    disponibilita' della camera iperbarica;
+
+                                
+                            
+                            
+                                ee)
+                                
+                                    protezione degli alloggi dai rischi di incendio ed esplosione.
+
+2.
+                        
+                            
+                                Il DSS deve altresi' contenere indicazioni relative a:
+ 
+                            
+                            
+                                a)
+                                
+                                    attivita' di informazione e formazione dei lavoratori;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    consultazione del rappresentante per la sicurezza.
+
 ## Art. 11. — (Protezione contro gli incendi, le esplosioni e le atmosfere nocive)
+
+1.
+                        
+                            
+                                Il datore di lavoro prende le misure e le precauzioni adatte al tipo di attivita', al fine di:
+ 
+                            
+                            
+                                a)
+                                
+                                    prevenire, rilevare e combattere l'insorgere e il propagarsi di incendi e di esplosioni;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    impedire la formazione, l'accumulo e l'innesco di atmosfere esplosive o nocive alla salute.
 
 ## Art. 12. — (Mezzi di evacuazione e di salvataggio)
 
@@ -104,6 +557,24 @@ La sorveglianza sanitaria prevista dalle disposizioni di cui al comma 2 e' attua
 ## - TITOLO I DISPOSIZIONI GENERALI CAPO III NORME GENERALI
 
 ## Art. 16. — (Commissione Consultiva Permanente per la prevenzione degli infortuni e l'igiene del lavoro)
+
+1.
+                        
+                            
+                                La Commissione di cui all'articolo 393 del decreto del Presidente della Repubblica 27/4/55, n. 547, come sostituito dall'articolo 26 del decreto legislativo n. 626 del 1994, e' integrata, per le questioni riguardanti le attivita' estrattive, da:
+ 
+                            
+                            
+                                a)
+                                
+                                    il direttore del Servizio per la sicurezza mineraria della Direzione generale delle miniere;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    due Ingegneri Capi degli uffici periferici della Direzione generale delle miniere designati dal Direttore generale delle miniere.
 
 Alla copertura degli oneri relativi alle spese di missione per il personale di cui al comma 1, lettere a) e b), si fa fronte con le maggiori entrate derivanti dall'applicazione dell'articolo 102.
 
@@ -436,6 +907,24 @@ Le dimensioni della superficie libera sul posto di lavoro devono essere tali da 
 
 Prima dell'inizio dei lavori di coltivazione, il datore di lavoro predispone una relazione sulla stabilita' dei fronti che prenda in considerazione i rischi di caduta di massi e di franamento; in tale relazione, in conformita' alle vigenti normative tecniche, devono essere definite, in funzione della natura e dello stato del terreno nonche' dei macchinari impiegati, l'altezza e la pendenza dei fronti di coltivazione e dei terreni di copertura nonche' il metodo di coltivazione impiegato; la relazione e' aggiornata annualmente.
 
+2.
+                        
+                            
+                                Ferme restando le disposizioni del Capo II del Titolo IV del decreto del Presidente della Repubblica n. 128 del 1959, il direttore responsabile, nella pianificazione dell'attivita' lavorativa, si attiene ai seguenti criteri:
+ 
+                            
+                            
+                                a)
+                                
+                                    i gradoni e le vie di carreggio devono avere larghezza adeguata a consentire la circolazione del personale e l'operativita' delle macchine ivi utilizzate, nonche' stabilita' sufficiente a sopportarne il peso, la loro sistemazione e manutenzione devono permettere il movimento delle macchine in condizioni di assoluta sicurezza;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    in fase di scavo al piede delle fronti o dei cumuli devono essere evitate situazioni di instabilita'.
+
 ## - TITOLO II NORME SPECIFICHE IN MATERIA DI SICUREZZA E DI SALUTE APPLICABILI ALLE ATTIVITA' ESTRATTIVE A CIELO APERTO O SOTTERRANEE, NONCHE' AGLI IMPIANTI PERTINENTI DI SUPERFICIE CAPO III NORME APPLICABILI ALLE ATTIVITA' IN SOTTERRANEO
 
 ## Art. 53. — (Piani topografici dei lavori)
@@ -515,6 +1004,38 @@ Ferme restando le piu' specifiche disposizioni di cui al Capo X del Titolo X non
 ## - TITOLO III NORME SPECIFICHE IN MATERIA DI SICUREZZA E DI SALUTE APPLICABILI ALLE ATTIVITA' ESTRATTIVE CONDOTTE MEDIANTE PERFORAZIONE CAPO I NORME COMUNI APPLICABILI ALLE ATTIVITA' DI TERRAFERMA ED IN MARE
 
 ## Art. 64. — (Campo di applicazione)
+
+1.
+                        
+                            
+                                Il presente titolo prescrive misure per la tutela della salute e della sicurezza dei lavoratori durante il lavoro nelle attivita' estrattive condotte mediante perforazione, intendendosi per tali:
+ 
+                            
+                            
+                                a)
+                                
+                                    le attivita' di coltivazione di sostanze minerali e delle energie del sottosuolo, industrialmente utilizzabili, sotto qualsiasi forma o condizione fisica, attuata mediante perforazione;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le attivita' di prospezione e di ricerca finalizzate a tale coltivazione;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    le attivita' di lavorazione e di stoccaggio delle materie estratte per renderle idonee alla commercializzazione, escluse le successive attivita' di trasformazione delle materie stesse, relativamente ai lavori svolti negli impianti che costituiscono pertinenze minerarie ai sensi dell'articolo 23 del regio decreto n. 1443 del 1927, anche se ubicati al di fuori del perimetro delle concessioni;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    le attivita' di stoccaggio in giacimento attuale mediante perforazione.
 
 Le norme del presente titolo non si applicano alle perforazioni eseguite all'interno dei sotterranei delle miniere e delle cave.
 
@@ -632,6 +1153,31 @@ Nei luoghi di lavoro di cui al presente capo si applicano le disposizioni di cui
 
 Si intendono per operazioni simultanee tutte quelle operazioni, da effettuarsi in contemporanea da uno stesso cantiere o piattaforma per lo sviluppo e la coltivazione di un giacimento, che, oltre alla perforazione, prevedono produzione, work-over, lavori di saldatura e taglio, o comunque uso di fiamme libere, nonche' movimentazione di carichi suscettibile di arrecare danni ad apparecchiature ed impianti.
 
+2.
+                        
+                            
+                                Il titolare che intenda eseguire operazioni simultanee e' tenuto a chiedere autorizzazione all'autorita' di vigilanza presentando un piano dei lavori comprensivo:
+ 
+                            
+                            
+                                a)
+                                
+                                    del programma di perforazione dei pozzi;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    del programma di intervento ai pozzi;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    delle operazioni speciali da eseguire.
+
 Il piano di cui al comma 2, deve essere modificato o aggiornato ogni qualvolta vengano programmate operazioni simultanee che differiscano in modo significativo da quelle indicate nel piano operativo generale.
 
 Il titolare deve prevedere nel DSS un programma generale delle attivita' simultanee da condurre e deve in particolare dimostrare che dallo svolgimento delle attivita' simultanee non deriva un aggravio dei rischi per il personale, le strutture, l'ambiente ed il buon governo del giacimento.
@@ -654,6 +1200,31 @@ Interventi di emergenza ai pozzi possono essere effettuati in qualsiasi momento 
 
 ## Art. 78. — (Comunicazioni in condizioni normali e in caso di emergenza)
 
+1.
+                        
+                            
+                                Il datore di lavoro, in relazione alla valutazione dei rischi, fornisce per ogni luogo di lavoro occupato da lavoratori:
+ 
+                            
+                            
+                                a)
+                                
+                                    un sistema capace di dare l'allarme con segnali visivi ed acustici in ogni posto di lavoro occupato da lavoratori;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    un sistema di comunicazione udibile distintamente in tutti i punti dell'impianto;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    per le attivita' che si svolgono in mare, un sistema in grado di mantenere le comunicazioni con la terraferma e i sensori di emergenza.
+
 I dispositivi di attivazione dell'allarme di cui al comma 1, lettera a), devono essere collocati in apposite postazioni.
 
 Il datore di lavoro, in caso di presenza di lavoratori in luoghi di lavoro non abitualmente presidiati, deve mettere a loro disposizione sistemi di comunicazione adeguati alle circostanze.
@@ -661,6 +1232,31 @@ Il datore di lavoro, in caso di presenza di lavoratori in luoghi di lavoro non a
 Per le attivita' che si svolgono in mare, i sistemi di cui al comma 1 devono poter rimanere operativi anche in caso di emergenza; il sistema acustico deve essere integrato da sistemi alimentati da fonti energetiche non vulnerabili.
 
 ## Art. 79. — (Esercitazioni di sicurezza)
+
+1.
+                        
+                            
+                                Ad intervalli regolari, in tutti i luoghi di lavoro abitualmente occupati devono essere effettuate esercitazioni di sicurezza nel corso delle quali:
+ 
+                            
+                            
+                                a)
+                                
+                                    si cura e si verifica l'addestramento dei lavoratori incaricati, in caso di emergenza, di compiti specifici per i quali sia necessario usare, maneggiare o mettere in funzione attrezzature di soccorso, nonche' la loro attitudine ad eseguire i compiti loro affidati; ove possibile, i lavoratori devono potersi esercitare ad usare, maneggiare o mettere in funzione dette attrezzature;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    tutte le attrezzature di soccorso usate durante l'esercitazione sono esaminate, pulite ed eventualmente ricaricate o sostituite e tutte le attrezzature portatili rimesse nel luogo nel quale abitualmente sono riposte;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    viene verificato, per le attivita' che si svolgono in mare, il funzionamento delle imbarcazioni di sopravvivenza.
 
 ## - TITOLO III NORME SPECIFICHE IN MATERIA DI SICUREZZA E DI SALUTE APPLICABILI ALLE ATTIVITA' ESTRATTIVE CONDOTTE MEDIANTE PERFORAZIONE CAPO II NORME APPLICABILI ALLE ATTIVITA' DI TERRAFERMA
 
@@ -734,6 +1330,80 @@ Restano ferme le responsabilita' e i compiti attribuiti al Capo piattaforma ed a
 ## Art. 89. — (Misure generali di prevenzione degli incendi)
 
 Devono essere prese precauzioni appropriate per la protezione, la rivelazione e la lotta contro l'innesco e la diffusione degli incendi.
+
+2.
+                        
+                            
+                                I luoghi di lavoro devono essere dotati di sistemi adeguati di rivelazione, di protezione, di allarme e di lotta antincendio, quali in particolare:
+ 
+                            
+                            
+                                a)
+                                
+                                    sistemi di rivelazione di incendi;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    allarmi antincendio;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    condutture principali acqua antincendio;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    manichette e idranti antincendio;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    sistemi di allagamento e lance antincendio brandeggiabili;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    impianti a pioggia;
+
+                                
+                            
+                            
+                                g)
+                                
+                                    sistemi di estintori a gas;
+
+                                
+                            
+                            
+                                h)
+                                
+                                    sistemi di estintori a schiuma;
+
+                                
+                            
+                            
+                                i)
+                                
+                                    estintori portatili;
+
+                                
+                            
+                            
+                                l)
+                                
+                                    sistemi tagliafuoco per segregare le zone a rischio d'incendio.
 
 A bordo dell'impianto deve essere tenuto a disposizione il piano antincendio, in cui siano specificate in dettaglio le precauzioni opportune di protezione, rivelazione e lotta contro l'innesco e la diffusione degli incendi.
 
@@ -823,12 +1493,76 @@ Il datore di lavoro provvede a dotare ogni luogo di lavoro di mezzi e attrezzatu
 
 Il datore di lavoro predispone un piano di soccorso per il salvataggio in mare e l'evacuazione del luogo di lavoro; il piano deve prevedere l'impiego di navi appoggio e di elicotteri adeguati in relazione alla loro capacita' e al tempo d'intervento per ogni impianto di perforazione o produzione.
 
+4.
+                        
+                            
+                                Il datore di lavoro mette a disposizione dei lavoratori imbarcazioni di salvataggio, zattere, boe e giubbotti di salvataggio, di tipo approvato, rispondenti ai seguenti criteri:
+ 
+                            
+                            
+                                a)
+                                
+                                    essere adatti ed eventualmente attrezzati per assicurare la sopravvivenza per un tempo sufficiente;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    essere disponibili in numero sufficiente;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    essere adeguati al luogo di lavoro;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    essere muniti di dispositivi che consentano all'utilizzatore di richiamare l'attenzione delle squadre di salvataggio.
+
 ## Art. 97. — (Camera iperbarica)
 
 All'articolo 53 del decreto del Presidente della Repubblica n. 886 del 1979, dopo il terzo comma, e' aggiunto il seguente:
  "Il datore di lavoro deve prevedere la disponibilita', a seconda delle situazioni, di una camera iperbarica a bordo o di un rapido collegamento con un centro di emergenza dotato di tale attrezzatura."
 
 ## Art. 98. — (Alloggi)
+
+1.
+                        
+                            
+                                Ove lo richiedano la natura, l'entita' o la durata delle operazioni, il datore di lavoro fornisce ai lavoratori un alloggio che, oltre a rispettare i requisiti di cui all'articolo 30 del decreto del Presidente della Repubblica n. 886 del 1979, deve essere progettato e costruito in modo che sia:
+ 
+                            
+                            
+                                a)
+                                
+                                    adeguatamente protetto contro le conseguenze di una esplosione oltre che contro le infiltrazioni di fumo e di gas, contro gli incendi e il loro propagarsi;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    dotato ad ogni livello di almeno due uscite indipendenti che conducano a vie di emergenza;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    protetto contro gli odori e contro i fumi provenienti da altre zone, che possano essere pericolosi, nonche' contro le intemperie;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    situato quanto piu' possibile distante dalle zone di pericolo.
 
 Gli alloggi devono contenere un numero sufficiente di letti o di cuccette per i lavoratori che devono dormire sul posto; i locali dormitorio devono avere uno spazio adeguato dove gli occupanti possano riporre i loro abiti; devono essere previsti dormitori separati per gli uomini e per le donne.
 
@@ -868,6 +1602,77 @@ Nelle more dell'emanazione del decreto di cui al comma 1 continuano ad applicars
 
 ## Art. 103. — (Norme soppresse)
 
+1.
+                        
+                            
+                                Sono soppresse, le seguenti disposizioni del decreto del Presidente della Repubblica n. 128 del 1959:
+ 
+                            
+                            
+                                a)
+                                
+                                    gli articoli da 10 a 19; il Capo V del Titolo II;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la dizione "Capo II - Disposizioni particolari per la ricerca e la coltivazione degli idrocarburi liquidi e gassosi" che figura nel Titolo III;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    gli articoli 48 e 51; l'articolo 60, comma 3, l'articolo 75, l'articolo 77, comma 2; gli articoli 94, comma 3, 95 e 142;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    il secondo e terzo comma dell'articolo 411;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    il comma 6 dell'articolo 535; gli articoli 662 e 667;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    la dizione "sentito il Consiglio Superiore delle Miniere" agli articoli 8, 282, 349, 644 e 687 bis;
+
+                                
+                            
+                            
+                                g)
+                                
+                                    l'articolo 678, ultimo comma.
+
+2.
+                        
+                            
+                                Sono soppresse, le seguenti disposizioni del decreto del Presidente della Repubblica n. 886 del 1979:
+ 
+                            
+                            
+                                a)
+                                
+                                    articoli 10, 11, 41, 50 e 51;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    i commi terzo, quarto, quinto e sesto dell'articolo 75.
+
 ## - TITOLO V SANZIONI
 
 ## Art. 104. — (Contravvenzioni commesse dai datori di lavoro, dai titolari,
@@ -875,7 +1680,80 @@ Nelle more dell'emanazione del decreto di cui al comma 1 continuano ad applicars
 
 Il datore di lavoro e' punito con l'arresto da tre a sei mesi o con l'ammenda da lire tre milioni a lire otto milioni per la violazione degli articoli: 6 commi 2 e 3; 52 comma 1.
 
+2.
+                        
+                            
+                                Il titolare e' punito:
+ 
+                            
+                            
+                                a)
+                                
+                                    con l'arresto da tre a sei mesi o con l'ammenda da lire tre milioni a lire otto milioni per la violazione degli articoli: 9 comma 2 lettera b); 66 comma 1; 76 commi 2, 3 e 4;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    con l'arresto da due a quattro mesi o con l'ammenda da lire un milione a lire cinque milioni per la violazione degli articoli: 20 comma 5; 88 comma 1.
+
+3.
+                        
+                            
+                                Il datore di lavoro ed il dirigente sono puniti:
+ 
+                            
+                            
+                                a)
+                                
+                                    con l'arresto da tre a sei mesi o con l'ammenda da lire tre milioni a lire otto milioni per la violazione degli articoli: 11; 12; 13; 15 comma 1; 19; 24; 33; 35 comma 2; 36; 37 commi 2 e 3; 38 comma 3; 43 comma 1; 44; 45 commi 1 e 2; 48 commi 1 e 2; 55 comma 1; 56 comma 2; 60; 61; 63; 67 comma 1; 70 comma 2; 72 commi 1, 2, 3, 4, 5 e 7; 78; 79; 80 commi 2 e 3; 83; 87; 89; 94; 95 commi 1, 2 e 3; 96.
+
+                                
+                            
+                            
+                                b)
+                                
+                                    con l'arresto da due a quattro mesi o con l'ammenda da lire un milione a lire cinque milioni per la violazione degli articoli: 6 comma 4; 7 comma 1 lettera a); 22; 46 comma 1; 55, comma 2; 80 comma 1; 95 comma 4; 98 commi 2 e 3;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    con la sanzione amministrativa pecuniaria da lire un milione a lire sei milioni per la violazione degli articoli: 7 comma 1 lettera b); 31 comma 1.
+
+4.
+                        
+                            
+                                Il direttore responsabile e' punito:
+ 
+                            
+                            
+                                a)
+                                
+                                    con l'arresto da tre a sei mesi o con l'ammenda da lire tre milioni a lire otto milioni per la violazione degli articoli: 35 commi 1 e 3; 43 comma 2; 47 comma 1; 49; 57 comma 2; 76 comma 5;
+ b)con l'arresto da due a quattro mesi o con l'ammenda da lire un milione a lire cinque milioni per la violazione degli articoli: 23; 25 commi 3, 4, 5 e 7.
+
 ## Art. 105. — (Contravvenzioni commesse dai preposti e dai sorveglianti)
+
+1.
+                        
+                            
+                                I preposti sono puniti:
+ 
+                            
+                            
+                                a)
+                                
+                                    con l'arresto sino a due mesi o con l'ammenda da lire cinquecentomila a lire due milioni per la violazione degli articoli: 11; 12; 13; 15 comma 1; 19; 24; 33; 35 comma 2; 36; 37 commi 2 e 3; 38 comma 3; 43 comma 1; 44; 45, commi 1 e 2; 48 comma 1; 55 comma 1; 56 comma 2; 60; 61 comma 1; 70, comma 2; 72 commi 1, 2, 3, 4, 5 e 7;.78; 79, comma 1 lettere b) e c); 80 commi 2 e 3; 87; 89; 94; 95 commi 1, 2 e 3; 96 commi 2, 3 e 4;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    con l'arresto sino ad un mese o con l'ammenda da lire trecentomila a lire un milione per la violazione degli articoli: 22; 46, comma 1; 55 comma 2; 80 comma 1; 95 comma 4; 98 commi 2 e 3.
 
 I sorveglianti sono puniti con l'arresto sino ad un mese o con l'ammenda da lire trecentomila a lire un milione per la violazione degli articoli: 23; 25 comma 2.
 

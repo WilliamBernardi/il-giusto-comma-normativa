@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
 vigenza_date: 2017-04-15
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:30Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -47,11 +47,82 @@ Sulla base degli indirizzi definiti dal Ministro delle politiche agricole e fore
 
 ## Art. 3. — Finalita' e attivita'
 
+1.
+                        
+                            
+                                Nei settori di cui all'articolo 1, comma 1, il Consiglio, attraverso i suoi istituti:
+ 
+                            
+                            
+                                a)
+                                
+                                    svolge, valorizza e promuove la ricerca scientifica e applicata e l'innovazione, anche attraverso attivita' di tipo sperimentale, nonche' progetti e impianti pilota, anche al fine di promuovere uno sviluppo agricolo e rurale sostenibile e di utilizzare a scopi produttivi e di tutela le zone marginali e svantaggiate del territorio nazionale e i sistemi acquei;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    individua processi produttivi e tecniche di gestione innovativi anche attraverso miglioramenti genetici ed applicazione e controllo delle biotecnologie;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    fornisce consulenza ai Ministeri, alle regioni e province autonome, a loro richiesta, anche nel quadro di accordi di programma stipulati con gli stessi;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    favorisce il processo di trasferimento dei risultati ottenuti alle imprese e collabora a tal fine con le regioni;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    esegue ricerche a favore di imprese del settore agricolo, ittico e agroindustriale.
+
 Le attivita' di cui al comma 1 sono svolte anche nel quadro della collaborazione scientifica e tecnologica con le universita' e loro strutture di ricerca, con gli istituti e laboratori del Consiglio nazionale delle ricerche (C.N.R.), con altri enti pubblici di ricerca e con le stazioni sperimentali per l'industria.
 
 Il Consiglio collabora stabilmente, mediante convenzioni, con l'Istituto sperimentale italiano "Lazzaro Spallanzani" per la fisiopatologia della riproduzione e la fecondazione degli animali domestici, che svolge attivita' di rilevante interesse pubblico nel campo della ricerca sulla riproduzione e selezione animale.
 
 ## Art. 4. — Organi
+
+1.
+                        
+                            
+                                Sono organi del Consiglio: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il presidente; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il consiglio di amministrazione; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il ((consiglio scientifico)); 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    il collegio dei revisori dei conti.
 
 Il presidente ha la rappresentanza del Consiglio, ne sovrintende l'andamento, convoca e presiede il consiglio di amministrazione e il consiglio scientifico. Il presidente, scelto tra personalita' di alta qualificazione scientifica e professionale, nei settori in cui opera l'ente, e' nominato ai sensi dell'articolo 6, comma 2, del decreto legislativo 5 giugno 1998, n. 204.
 
@@ -84,6 +155,66 @@ Il direttore, se dipendente pubblico, con esclusione dei professori e ricercator
 
 ## Art. 6. — Entrate
 
+1.
+                        
+                            
+                                Le entrate del Consiglio sono costituite da:
+ 
+                            
+                            
+                                a)
+                                
+                                    il contributo ordinario annuo a carico dello Stato, a valere su apposita unita' previsionale di base dello stato di previsione del Ministero, per l'espletamento dei compiti previsti dal presente decreto e per le spese del personale;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il contributo per singoli progetti o interventi a carico del fondo integrativo speciale di cui all'articolo 1, comma 3, del decreto legislativo 5 giugno 1998, n. 204;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    i compensi ottenuti da ciascun istituto per le attivita' di ricerca e di consulenza svolte a favore di soggetti pubblici e privati;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    le assegnazioni di spesa finalizzate per progetti speciali da parte del Ministero o di altre amministrazioni pubbliche;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    rendite del proprio patrimonio, fondi provenienti da lasciti, donazioni e contributi da parte di soggetti pubblici e privati;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    i contributi alla ricerca provenienti dall'Unione europea;
+
+                                
+                            
+                            
+                                g)
+                                
+                                    i proventi di brevetti ottenuti a seguito dello svolgimento di ricerche realizzate dagli istituti;
+
+                                
+                            
+                            
+                                h)
+                                
+                                    ogni altra entrata.
+
 Al fine di premiare la competitivita' degli istituti, il consiglio di amministrazione, in sede di riparto delle risorse finanziarie, provvede a riassegnare una congrua quota dei finanziamenti agli istituti che hanno concorso a procurarli.
 
 Il patrimonio del Consiglio e' costituito dal patrimonio degli istituti e strutture di cui all'allegato I. Entro sei mesi dalla data di entrata in vigore del presente decreto, ciascuno di essi provvede all'inventario dei beni e propone al Consiglio la dismissione di quelli che non sono funzionalmente necessari alla ricerca.
@@ -105,6 +236,59 @@ Con lo statuto sono stabiliti i tempi e le modalita' per la razionalizzazione de
 Con uno o piu' decreti legislativi di cui all'articolo 11, comma 3, della legge 15 marzo 1997, n. 59, e successive modificazioni, nel rispetto dei principi generali indicati dall'articolo 14, comma 1, della legge stessa, puo' stabilirsi l'aggregazione al Consiglio di altri istituti pubblici operanti nel settore della ricerca in agricoltura, al fine di evitare duplicazioni e di aumentare l'efficacia del sistema.
 
 ## Art. 8. — Disposizioni applicabili
+
+1.
+                        
+                            
+                                Al Consiglio sono estese le seguenti disposizioni del decreto legislativo 30 gennaio 1999, n. 19, intendendosi il CNR sostituito con il Consiglio e i suoi istituti ed il Ministero dell'universita' e della ricerca scientifica e tecnologica sostituito con il Ministero delle politiche agricole e forestali:
+ 
+                            
+                            
+                                a)
+                                
+                                    articolo 2, comma 1, lettere c), e), g) ed h), in materia di funzioni;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    articolo 3, in materia di strumenti;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    articolo 5, in materia di comitato di valutazione;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    articolo 6, comma 2, in materia di organici del personale;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    articolo 7, comma 1, lettera a), n. 1), in materia di preventiva informativa del personale e lettera b), n. 2), in materia di strumentazione scientifica;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    articolo 11, in materia di procedure di assunzione del personale e di disciplina del rapporto di lavoro;
+
+                                
+                            
+                            
+                                g)
+                                
+                                    articolo 12, in materia di mobilita' temporanea del personale.
 
 Al Consiglio si applica l'articolo 8, in materia di consorzi, del decreto legislativo concernente l'istituzione dell'Istituto nazionale di geofisica e vulcanologia, norme su altri enti di competenza del Ministero dell'universita' e della ricerca scientifica e tecnologica e sull'istituzione di consorzi.
 
@@ -190,6 +374,38 @@ L'Ente nazionale delle sementi elette (ENSE), di cui all'articolo 23 della legge
 
 L'Ente ha autonomia scientifica, statutaria, organizzativa, amministrativa e finanziaria.
 
+3.
+                        
+                            
+                                L'Ente, avvalendosi di sezioni o laboratori periferici, svolge i compiti derivanti dall'applicazione delle norme che disciplinano la produzione e la commercializzazione dei prodotti sementieri ed in particolare quelli di:
+ 
+                            
+                            
+                                a)
+                                
+                                    certificazione ufficiale dei prodotti sementieri, anche in conformita' delle normative regolanti le certificazioni; .
+
+                                
+                            
+                            
+                                b)
+                                
+                                    analisi e controlli qualitativi delle piantine di ortaggi e dei relativi materiali di moltiplicazione, su richiesta dei servizi fitosanitari regionali ai sensi dell'articolo 4 del decreto del Presidente della Repubblica 21 dicembre 1996, n. 698;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    esami tecnici per il riconoscimento varietale e brevettuale delle novita' vegetali di specie agrarie e ortive, prove di controllo, anche previste dalle norme comunitarie e per l'iscrizione nel registro nazionale delle varieta' vegetali;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    studi e ricerche di nuove varieta' e messa a punto di nuove metodologie per la valutazione tecnologica e varietale delle sementi. ((1))
+
 ---------------
                             AGGIORNAMENTO (1)
                              La L. 6 luglio 2002, n. 137 ha disposto (con l'art. 14, comma 2) che "Ai fini dell'applicazione delle disposizioni di cui al comma 1, gli organi del Consiglio e degli istituti di cui, rispettivamente, all'articolo 4 e agli articoli 10, 11, 12 e 13 del decreto legislativo 29 ottobre 1999, n. 454, sono disciolti entro trenta giorni dalla data di entrata in vigore della presente legge."
@@ -218,6 +434,37 @@ Ai sensi del decreto legislativo 3 febbraio 1993, n. 29, e successive modificazi
 ## Art. 14. — Organi dell'I.N.E.A., dell'INRAN, dell'ENSE
  e del Centro di Portici
 
+1.
+                        
+                            
+                                Sono organi degli enti di cui agli articoli 10, 11, 12 e 13:
+ 
+                            
+                            
+                                a)
+                                
+                                    il presidente;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il consiglio di amministrazione;
+
+                                
+                            
+                            
+                                b-bis)
+                                
+                                    il consiglio scientifico;
+                                
+                            
+                            
+                                c)
+                                
+                                    il collegio dei revisori dei conti.
+
 Il presidente ha la rappresentanza legale dell'ente, sovrintende al suo funzionamento e vigila sulla esecuzione delle deliberazioni del consiglio di amministrazione. Il presidente, scelto tra personalita' di alta qualificazione scientifica ((nelle discipline oggetto delle attivita' di ricerca degli enti)), e' nominato ai sensi dell'articolo 6, comma 2, del decreto legislativo 5 giugno 1998, n. 204.
 
 Il consiglio di amministrazione esercita tutte le competenze per l'amministrazione dell'ente che non sono espressamente riservate ad altri organi. Esso, per gli istituti di cui agli articoli 10 e 11, e' composto dal presidente e da quattro membri, nominati con decreto del Ministro, di cui due designati dalla Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome di Trento e di Bolzano. Del consiglio di amministrazione dell'ENSE fanno parte, oltre al presidente ed i quattro membri nominati con le procedure suindicate, anche un rappresentante della categoria dei costitutori ((, un rappresentante per ciascuna delle due associazioni maggiormente rappresentative della categoria dei sementieri e un rappresentante della categoria dei moltiplicatori)). Del consiglio di amministrazione del Centro fanno parte, oltre al presidente, quattro membri nominati con decreto del Ministro, di cui uno designato dalla Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome di Trento e di Bolzano, uno designato dalla Societa' italiana degli economisti agrari e uno designato dall'Universita' degli studi "Federico II" di Napoli. Il consiglio di amministrazione puo' delegare ad uno o piu' componenti funzioni specifiche. Alle sedute del consiglio di amministrazione partecipa, con funzioni consultive, il direttore generale dell'ente, di cui al comma 6.
@@ -232,6 +479,59 @@ Il direttore generale e' nominato da consiglio di amministrazione su proposta de
 Se dipendente pubblico, con esclusione dei professori e ricercatori universitari, e' collocato nella posizione prevista dall'ordinamento di appartenenza o, in mancanza, si applica l'articolo 19, comma 6, ultimo periodo, del decreto legislativo 3 febbraio 1993, n. 29, e successive modificazioni. Se ricercatore o professore universitario e' collocato in aspettativa senza assegni. Il direttore generale e' responsabile della gestione dell'ente.
 
 ## Art. 15. — Entrate
+
+1.
+                        
+                            
+                                Le entrate degli enti di cui agli articoli 10, 11, 12 e 13 sono costituite:
+ 
+                            
+                            
+                                a)
+                                
+                                    da un contributo ordinario annuo a carico dello Stato a valere su apposita unita' previsionale di base dello stato di previsione del Ministero, per l'espletamento dei compiti previsti nel presente decreto;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    da contributi per singoli progetti o interventi a carico del fondo integrativo speciale di cui all'articolo 1, comma 3, del decreto legislativo 5 giugno 1998, n. 204;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    da contributi di enti pubblici o privati;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    dai proventi derivanti da contratti di ricerca stipulati con istituzioni pubbliche o private, nazionali o internazionali;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    da proventi derivanti da prestazioni a pagamento per conto di soggetti o enti pubblici e privati per lo svolgimento di studi e ricerche o per altre attivita' svolte nell'ambito dei propri compiti istituzionali;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    dalle eventuali rendite del proprio patrimonio;
+
+                                
+                            
+                            
+                                g)
+                                
+                                    da ogni altra entrata.
 
 ## Art. 16. — Statuto e regolamenti
 

@@ -8,8 +8,8 @@ vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
 vigenza_date: 2014-06-06
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:42Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -29,9 +29,59 @@ Udito il parere n. 8215 del Consiglio di Stato, espresso dalla sezione consultiv
 
 ## Art. 1. — Definizioni
 
+1.
+                    
+                        
+                            Ai fini del presente decreto sono applicabili le definizioni di cui al paragrafo 2 del regolamento n. 124 della Commissione economica per l'Europa delle Nazioni Unite (UN/ECE) recante: «Disposizioni uniformi relative all'omologazione di ruote per autovetture e loro rimorchi». Inoltre, si intende per: 
+ 
+                        
+                        
+                            a)
+                            
+                                «sistema ruota»: una ruota, diversa dalle «ruote originali» e dalle «ruote sostitutive del costruttore del veicolo», quali definite, rispettivamente, dai punti 2.3 e 2.4.1 del predetto paragrafo 2 del regolamento n. 124 UN/ECE, singolarmente considerata ovvero unitamente ad uno o piu' dei seguenti elementi: pneumatico gia' omologato in base alle disposizioni vigenti in materia, viti o dadi di fissaggio, adattatori o distanziali ruota; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                «tipo di veicolo»: l'insieme dei veicoli quali definiti dall'articolo 3, comma 1, lettera s), del decreto del Ministro delle infrastrutture e dei trasporti 28 aprile 2008; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                «famiglia di veicoli»: sottoinsieme di varianti o versioni, quali definite dall'allegato II , parte B, punto 1, del decreto del Ministro delle infrastrutture e dei trasporti 28 aprile 2008, appartenenti allo stesso tipo di veicolo, che non differiscano per carrozzeria e caratteristiche dimensionali e prestazionali dell'impianto frenante; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                «campo d'impiego»: le famiglie di veicoli sulle quali il «sistema ruota» puo' essere installato.
+
 ## Art. 2. — Campo di applicazione
 
 Il presente decreto disciplina le procedure per l'approvazione nazionale, ai fini dell'omologazione, e le procedure di istallazione di sistemi ruote su veicoli delle categorie internazionali M1 ed M1G, quali elementi di sostituzione dei corrispondenti componenti originali o loro ricambi.
+
+2.
+                    
+                        
+                            Le disposizioni del presente decreto non si applicano: 
+ 
+                        
+                        
+                            a)
+                            
+                                alle «ruote originali» ed alle «ruote sostitutive del costruttore del veicolo», quali definite rispettivamente dai punti 2.3 e 2.4.1 del paragrafo 2 del regolamento n. 124 UN/ECE; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                alle «ruote sostitutive identiche», alle «ruote sostitutive replica» ed alle «ruote sostitutive replica parziale», quali definite, rispettivamente, dai punti 2.4.2, 2.4.3 e 2.4.4 del paragrafo 2 del regolamento n. 124 UN/ECE ed omologate in conformita' allo stesso.
 
 ## Art. 3. — Omologazione
 

@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Leggi delega e relativi provvedimenti delegati
 vigenza_date: 2014-01-30
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:41:19Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -28,6 +28,29 @@ Acquisito il parere della Conferenza Unificata di cui all'articolo 8 del decreto
 Udito il parere del Consiglio di Stato espresso dalla Sezione consultiva per gli atti normativi nell'Adunanza del 25 ottobre 2010;
 
 ## Art. 1. — Ambito di applicazione
+
+1.
+                    
+                        
+                            Ai fini e per gli effetti dell'articolo 14, commi 14, 14-ter e 18, della legge 28 novembre 2005, n. 246, e successive modificazioni, al decreto legislativo 1° dicembre 2009, n. 179, sono apportate le seguenti modificazioni: 
+                        
+                        
+                            a)
+                            
+                                l'Allegato 1 e' integrato dalle disposizioni legislative statali, pubblicate anteriormente al 1° gennaio 1970, inserite nell'Allegato A al presente decreto;
+                            
+                        
+                        
+                            b)
+                            
+                                dall'Allegato 1 sono espunte le disposizioni legislative statali indicate nell'Allegato B al presente decreto;
+                            
+                        
+                        
+                            c)
+                            
+                                le voci di cui all'Allegato C al presente decreto sostituiscono le corrispondenti voci dell'Allegato 1. 
+ ((1))
 
 -------------
                         AGGIORNAMENTO (1)

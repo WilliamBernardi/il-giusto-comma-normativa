@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Regolamenti governativi
 vigenza_date: 2014-12-10
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:11Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -33,6 +33,31 @@ L'esercizio finanziario inizia il 1° gennaio e termina il 31 dicembre dello ste
 Il bilancio di previsione e' composto dal preventivo finanziario decisionale, dal preventivo finanziario gestionale, dal quadro generale riassuntivo della gestione finanziaria e dal preventivo economico. Costituiscono allegati al bilancio di previsione annuale il bilancio pluriennale, la relazione programmatica, la tabella dimostrativa del presunto risultato di amministrazione e la relazione del collegio dei revisori dei conti.
 
 Tutte le entrate e tutte le spese debbono essere iscritte in bilancio nel loro importo integrale.
+
+5.
+                    
+                        
+                            Per ciascun capitolo di entrata e di spesa il bilancio di previsione indica: 
+ 
+                        
+                        
+                            a)
+                            
+                                l'ammontare presunto dei residui attivi e passivi alla chiusura dell'esercizio precedente; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                l'ammontare delle entrate che si prevede di accertare e delle spese che si prevede di impegnare nell'esercizio cui il bilancio si riferisce; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                l'ammontare delle entrate che si prevede di incassare e delle spese che si prevede di pagare nello stesso esercizio senza distinzione tra operazioni in conto competenza ed in conto residui.
 
 Nel bilancio di previsione e' iscritto come prima posta dell'entrata l'ammontare presunto dell'avanzo di amministrazione all'inizio dell'esercizio cui il bilancio si riferisce.
 
@@ -105,6 +130,45 @@ Le scritture finanziarie relative alla gestione del bilancio devono consentire d
 
 Le scritture patrimoniali devono consentire la dimostrazione dello stato dei beni di cui all'articolo 10.
 
+3.
+                    
+                        
+                            Il sistema di scritture della soprintendenza si compone dei seguenti registri:
+ 
+                        
+                        
+                            a)
+                            
+                                un partitario delle entrate, contenente per ciascun capitolo lo stanziamento iniziale e le variazioni, le somme accertate, quelle riscosse e quelle rimaste da riscuotere;
+
+                            
+                        
+                        
+                            b)
+                            
+                                un partitario delle spese, contenente per ciascun capitolo lo stanziamento iniziale e le variazioni, le somme impegnate e quelle rimaste da pagare;
+
+                            
+                        
+                        
+                            c)
+                            
+                                un partitario dei residui, contenente per ciascun capitolo e per esercizio di provenienza, la consistenza dei residui all'inizio dell'esercizio, le somme riscosse o pagate, le somme rimaste da riscuotere o da pagare;
+
+                            
+                        
+                        
+                            d)
+                            
+                                un giornale cronologico sia per le riversali che per i mandati emessi, con indicazioni separate delle riscossioni e dei pagamenti in conto residui;
+
+                            
+                        
+                        
+                            e)
+                            
+                                i registri degli inventari.
+
 Le scritture contabili di cui alle lettere d) ed e) devono essere effettuate su registri numerati e vidimati dal soprintendente o dal suo delegato. Nell'ipotesi di scritture tenute con l'utilizzazione di sistemi di elaborazione automatica dei dati deve essere comunque garantita l'inalterabilita' dei dati archiviati.
 
 ## Art. 8. — Conto consuntivo
@@ -163,6 +227,24 @@ Per la validita' delle sedute del ((consiglio di amministrazione o amministrator
 Il servizio di tesoreria e' affidato, mediante procedura ad evidenza pubblica, ad un'unica banca di cui all'articolo 13 del decreto legislativo 1° settembre 1993, n. 385, e svolto secondo le modalita' indicate in un'apposita convenzione approvata dal ((consiglio di amministrazione o amministratore unico di cui all'articolo 14, comma 2, del decreto-legge 31 maggio 2014, n. 83, convertito, con modificazioni, dalla legge 29 luglio 2014, n. 106)).
 
 Si applicano le disposizioni di cui all'articolo 1 della legge 29 ottobre 1984, n. 720, e successive modificazioni ed integrazioni.
+
+3.
+                    
+                        
+                            La banca tesoriere o cassiere della soprintendenza e' incaricata: 
+ 
+                        
+                        
+                            a)
+                            
+                                di riscuotere le entrate; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                di pagare le spese stanziate in bilancio.
 
 ## Art. 13. — Anticipazioni in contanti
 

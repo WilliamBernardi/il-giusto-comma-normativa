@@ -8,8 +8,8 @@ codice_redazionale: 099G0150
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti governativi
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:15Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -31,6 +31,31 @@ Sulla proposta del Presidente del Consiglio dei Ministri, di concerto con il Min
 
 ## Art. 1. — Composizione Ufficio nazionale
 
+1.
+                    
+                        
+                            Ai fini del presente regolamento si intende: 
+ 
+                        
+                        
+                            a)
+                            
+                                per "legge", la legge 8 luglio 1998, n. 230, recante nuove norme in materia di obiezione di coscienza; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                per "Ufficio nazionale", l'Ufficio nazionale per il servizio civile, istituito ai sensi dell'articolo 8 della legge; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                per "direttore generale", il direttore dell'Ufficio nazionale per il servizio civile, nominato ai sensi dell'articolo 8, comma 1, della legge.
+
 Il direttore generale svolge le funzioni proprie degli incarichi di funzioni dirigenziali generali secondo quanto previsto dagli articoli 16 e 19 del decreto legislativo 3 febbraio 1993, n. 29, e successive modifiche e integrazioni, e cura i rapporti con il Segretario generale della Presidenza del Consiglio dei Ministri e con i Dipartimenti e gli uffici della stessa Presidenza. Nello svolgimento di dette funzioni il Direttore generale si avvale di una segreteria particolare alle sue dirette dipendenze.
 
 Per lo svolgimento dei compiti assegnati, l'Ufficio nazionale si articola in: ufficio di segreteria generale; ufficio del servizio civile e ufficio amministrativo, del personale, degli affari legali e del contenzioso. L'ufficio del servizio civile e' struttura di livello dirigenziale generale ed e' diretto da un dirigente generale ed articolato in servizi di livello dirigenziale. L'ufficio di segreteria generale e l'ufficio amministrativo, del personale, degli affari legali e del contenzioso sono strutture dirette da altro personale dirigente e sono articolati in servizi di livello dirigenziale. L'Ufficio nazionale dispone di sedi regionali, ubicate presso il commissariato del Governo ovvero, previe intese con le regioni e con le province autonome di Trento e di Bolzano, in altre strutture ubicate a livello regionale.
@@ -51,7 +76,92 @@ Il Presidente del Consiglio dei Ministri provvede, con proprio decreto, alla art
 
 ## Art. 3. — Sedi regionali
 
+1.
+                    
+                        
+                            Le sedi regionali curano:
+ 
+                        
+                        
+                            a)
+                            
+                                i rapporti con le regioni e le province autonome di Trento e di Bolzano, gli enti convenzionati e le loro sedi periferiche e i soggetti interessati all'obiezione di coscienza nell'ambito del territorio di competenza, in base a quanto previsto dai protocolli di cui all'articolo 8;
+
+                            
+                        
+                        
+                            b)
+                            
+                                l'acquisizione degli elementi necessari all'espletamento dell'attivita' ispettiva e di controllo sugli enti convenzionati e sugli obiettori di coscienza in servizio;
+
+                            
+                        
+                        
+                            c)
+                            
+                                il rapporto con le strutture periferiche del Servizio sanitario nazionale;
+
+                            
+                        
+                        
+                            d)
+                            
+                                la ricezione da parte degli enti convenzionati e delle loro sedi periferiche dello stato di servizio degli obiettori di coscienza su base periodica e l'inserimento dei dati nel sistema informatico;
+
+                            
+                        
+                        
+                            e)
+                            
+                                la conservazione in forma elettronica dell'albo regionale degli enti convenzionati;
+
+                            
+                        
+                        
+                            f)
+                            
+                                le attivita', indicate dal Direttore generale, per l'ammissione, a decorrere dal 1 gennaio 2000, dei giovani della regione di competenza e l'inserimento dei dati relativi nel sistema informatico;
+
+                            
+                        
+                        
+                            g)
+                            
+                                ogni altra funzione loro attribuita dal Direttore generale.
+
 ## Art. 4. — Adempimenti del Ministero della difesa
+
+1.
+                    
+                        
+                            Entro sessanta giorni dalla data di entrata in vigore del presente regolamento, il Ministero della difesa - Direzione generale della leva e del reclutamento obbligatorio provvede a trasmettere all'Ufficio nazionale:
+ 
+                        
+                        
+                            a)
+                            
+                                le convenzioni stipulate dal Ministero della difesa per l'impiego degli obiettori di coscienza ai sensi della legge 15 dicembre 1972, n. 772, e successive modificazioni ed integrazioni;
+
+                            
+                        
+                        
+                            b)
+                            
+                                la documentazione afferente l'impiego degli obiettori di coscienza, i criteri di assegnazione degli stessi agli enti convenzionati, le informative concernenti la funzionalita' degli stessi enti;
+
+                            
+                        
+                        
+                            c)
+                            
+                                copia dei programmi informatici predisposti per l'ammissione al servizio civile, per la verifica delle cause ostative, per la gestione del contingente, per la chiamata in servizio e per l'assegnazione alle amministrazioni dello Stato, enti ed organizzazioni convenzionati;
+
+                            
+                        
+                        
+                            d)
+                            
+                                a decorrere dal 1 gennaio 2000, trasmette tutte le domande presentate ai sensi dell'articolo 4 della legge, corredate della documentazione prevista e non ancora trasmesse nei termini di cui all'articolo 6.
 
 Alla data della assunzione da parte dell'Ufficio nazionale della responsabilita' della gestione del contingente, della chiamata in servizio degli obiettori e della assegnazione alle amministrazioni dello Stato, enti ed organizzazioni convenzionati, il Ministero della difesa - Direzione generale della leva e del reclutamento obbligatorio - trasmette integralmente all'Ufficio nazionale la base dati relativa agli obiettori in servizio alla stessa data, alla loro assegnazione ed al loro stato di servizio.
 
@@ -84,6 +194,52 @@ Con provvedimento del direttore generale puo' essere affidato ad un cassiere il 
 
 ## Art. 8. — Rapporti con le regioni e con le province autonome
  di Trento e di Bolzano
+
+1.
+                    
+                        
+                            Per l'attuazione di quanto previsto all'articolo 8, commi 2 e 3, della legge, l'Ufficio nazionale stipula con le regioni e con le province autonome di Trento e di Bolzano specifici protocolli d'intesa sulle materie di cui alla seguente tassativa elencazione:
+ 
+                        
+                        
+                            a)
+                            
+                                rapporti tra Ufficio nazionale e regioni relativamente ai compiti di cui all'articolo 8, comma 2, lettera a) della legge;
+
+                            
+                        
+                        
+                            b)
+                            
+                                attivita' di formazione degli obiettori di coscienza e di aggiornamento dei responsabili degli enti di cui all'articolo 8, comma 2, lettere c) e f), della legge, definendo standard, modalita' di erogazione, durata dei corsi, modalita' di finanziamento con le risorse della formazione regionale, criteri di scelta delle strutture di formazione;
+
+                            
+                        
+                        
+                            c)
+                            
+                                forme e condizioni dell'avvalimento delle regioni, senza oneri per l'Ufficio nazionale, per l'acquisizione dei dati necessari alla verifica, da parte dell'Ufficio nazionale, della consistenza, delle modalita' della prestazione del servizio civile da parte degli obiettori di coscienza, del rispetto delle convenzioni con le amministrazioni dello Stato, gli enti e le organizzazioni di cui all'articolo 8, comma 2, lettere a) e b), della legge, e dei progetti di impiego;
+
+                            
+                        
+                        
+                            d)
+                            
+                                individuazione e definizione delle modalita' di scambio con la regione delle informazioni relative al servizio civile nel territorio di competenza;
+
+                            
+                        
+                        
+                            e)
+                            
+                                definizione dei procedimenti di accertamento medico e certificazione nei confronti del personale in servizio civile nella regione da parte delle strutture del Servizio sanitario nazionale operanti nel territorio di competenza;
+
+                            
+                        
+                        
+                            f)
+                            
+                                modalita' di attuazione sul territorio regionale di quanto previsto all'articolo 8, comma 2, lettera g), della legge.
 
 I protocolli di cui al comma 1 possono inoltre prevedere forme di collaborazione per la definizione di progetti speciali, iniziative di monitoraggio e valutazione in materia di obiezione di coscienza e di servizio civile, programmi specifici di interesse nell'ambito regionale, sperimentazione di nuovi servizi relativi allo sviluppo e alla qualificazione del servizio civile, che prevedano la partecipazione degli enti convenzionati e delle sedi periferiche, e per la definizione di modalita' particolari di interscambio di informazioni tra l'Ufficio e le strutture predisposte dalla regione relative agli enti convenzionati e agli obiettori che hanno presentato domanda o svolgono il servizio civile in regione, che siano funzionali e necessarie allo sviluppo dei programmi e dei progetti oggetto dell'accordo tra Ufficio e regione.
 

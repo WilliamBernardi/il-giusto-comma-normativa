@@ -7,8 +7,8 @@ urn: urn:nir:stato:decreto.del.presidente.del.consiglio.dei.ministri:2020-12-28;
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:38Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DEL CONSIGLIO DEI MINISTRI
@@ -30,6 +30,200 @@ Il presente regolamento definisce i limiti e le modalita' di applicazione alla P
 
 ## Art. 2. — Disposizioni applicabili
 
+1.
+                    
+                        
+                            Alla Presidenza del Consiglio dei ministri sono applicabili, nei limiti e con le modalita' indicati nel presente regolamento, le seguenti disposizioni del Titolo II del decreto legislativo n. 150 del 2009: 
+ 
+                        
+                        
+                            a)
+                            
+                                articolo 2; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                articolo 3, con esclusione, al comma 2, delle parole da «secondo le modalita'» fino alla fine del comma; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                articolo 4: 
+ 1) fermo restando che la definizione degli obiettivi che si intendono raggiungere, dei valori attesi di risultato e dei rispettivi indicatori, di cui al comma 2, lettera a), e' effettuata tenendo conto anche dei risultati conseguiti nell'anno precedente, come riportati nella rendicontazione di cui all'articolo 7, comma 5, del presente regolamento; 
+ 2) con esclusione alla lettera f) del comma 2 delle parole da «nonche'» sino alla fine della lettera; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                articolo 5 nei termini e con le modalita' stabiliti dall'articolo 8 del presente regolamento; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                articolo 6 nei termini e con le modalita' stabiliti dall'articolo 9 del presente regolamento; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                articolo 7 nei termini e con le modalita' stabiliti dall'articolo 3 del presente regolamento; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                articolo 8 nei termini e con le modalita' stabiliti dall'articolo 10 del presente regolamento; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                articolo 9, fermo restando che: 
+ 1) la misurazione e la valutazione della performance di cui all'alinea dei commi 1 e 2 e' svolta secondo le modalita' indicate nel sistema di cui all'articolo 3 del presente regolamento; 
+ 2) la capacita' di valutazione dei propri collaboratori di cui al comma 1, lettera d), e' dimostrata anche tramite una significativa differenziazione dei giudizi, valorizzando il merito e individuando le eccellenze; 
+ 3) la misurazione e la valutazione della performance di cui al comma 1-bis e' collegata, altresi', al raggiungimento degli obiettivi individuati nelle direttive generali per l'azione amministrativa e la gestione emanate dal Segretario generale della Presidenza del Consiglio dei ministri e dai Ministri o Sottosegretari delegati dal Presidente del Consiglio dei ministri, nonche' di quelli specifici definiti nel contratto individuale; 
+
+                            
+                        
+                        
+                            i)
+                            
+                                articolo 10, nei termini, nei limiti e con le modalita' stabiliti dagli articoli 3 e 7 del presente regolamento; 
+
+                            
+                        
+                        
+                            l)
+                            
+                                articolo 12, nei termini, nei limiti e con le modalita' stabiliti dagli articoli 5 e 11 del presente regolamento; 
+
+                            
+                        
+                        
+                            m)
+                            
+                                articolo 13; 
+
+                            
+                        
+                        
+                            n)
+                            
+                                articolo 14, nei termini, nei limiti e con le modalita' stabiliti dal presente regolamento, in relazione alle peculiarita' dell'ordinamento della Presidenza del Consiglio dei ministri e alle specificita' delle relative funzioni istituzionali e tenuto conto dell'articolo 5 del presente regolamento; 
+
+                            
+                        
+                        
+                            o)
+                            
+                                articolo 15, comma 1 e comma 2, lettere a) e c), lettera d) quanto al Piano triennale di prevenzione della corruzione di cui all'articolo 1, comma 5, lettera a), della legge 6 novembre 2012, n. 190, e tenuto conto, quanto alla lettera b), che: 
+ 1) il «Piano della performance» e' sostituito dai documenti di cui ai commi 1 e 2 dell'articolo 7 del presente regolamento di seguito indicati: 
+ 1.1 le linee guida del Presidente del Consiglio dei ministri per l'individuazione di indirizzi e obiettivi strategici e operativi, nonche' per la definizione di indicatori per la misurazione e la valutazione della performance dell'amministrazione e di quella individuale, valevoli per l'anno successivo, che si articolano in aree strategiche; 
+ 1.2 le direttive generali per l'azione amministrativa e la gestione delle strutture generali della Presidenza del Consiglio dei ministri emanate dagli organi di indirizzo politico-amministrativo; 
+ 2) la «Relazione sulla performance» e' sostituita dai documenti di cui ai commi 4 e 5 dell'articolo 7 del presente regolamento.
+
+2.
+                    
+                        
+                            Alla Presidenza del Consiglio dei ministri sono applicabili, nei limiti e con le modalita' indicati nel presente regolamento, le seguenti disposizioni del Titolo III del decreto legislativo n. 150 del 2009: 
+ 
+                        
+                        
+                            a)
+                            
+                                articolo 17; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                articolo 18: 
+ 1) con esclusione al comma 1 delle parole da «nonche' valorizzano» fino alla fine del comma e fermo restando che la Presidenza del Consiglio dei ministri promuove, altresi', le migliori performance attraverso l'attribuzione selettiva di incentivi economici; 
+ 2) tenuto conto che le verifiche e le attestazioni di cui al comma 2 sono quelle previste dal presente regolamento; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                articolo 19, tenuto conto di quanto stabilito dall'articolo 6 del presente regolamento; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                articolo 19-bis, tenuto conto delle funzioni di impulso, indirizzo e coordinamento della Presidenza del Consiglio dei ministri di cui all'articolo 2 del decreto legislativo 30 luglio 1999, n. 303; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                articolo 20; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                articolo 21; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                articolo 22, fermo restando che l'assegnazione del premio di cui al comma 3 compete al Collegio di direzione dell'Ufficio controllo interno, trasparenza e integrita', che puo' avvalersi delle competenti strutture della Presidenza del Consiglio dei ministri; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                articolo 23; 
+
+                            
+                        
+                        
+                            i)
+                            
+                                articolo 24; 
+
+                            
+                        
+                        
+                            l)
+                            
+                                articolo 25; 
+
+                            
+                        
+                        
+                            m)
+                            
+                                articolo 26; 
+
+                            
+                        
+                        
+                            n)
+                            
+                                articolo 27, con esclusione del comma 2.
+
 ## Art. 3. — Disposizioni in materia di misurazione 
  e valutazione della performance
 
@@ -42,6 +236,31 @@ Il sistema contiene la previsione delle procedure di conciliazione, a garanzia d
 La funzione di misurazione e valutazione delle performance e' svolta secondo le modalita' definite nel presente regolamento e nel sistema di misurazione e valutazione della performance di cui al comma 1 e in coerenza con gli indirizzi impartiti dal Presidente del Consiglio dei ministri, dal Segretario generale della Presidenza del Consiglio dei ministri e dal Dipartimento della funzione pubblica qualora questi ultimi siano compatibili con la peculiarita' dell'ordinamento della Presidenza del Consiglio dei ministri e con la specificita' delle relative funzioni istituzionali.
 
 ## Art. 4. — Disposizioni in materia di trasparenza
+
+1.
+                    
+                        
+                            La Presidenza del Consiglio dei ministri pubblica sul proprio sito istituzionale, oltre ai dati, le informazioni e i documenti previsti per le altre pubbliche amministrazioni centrali dalla specifica normativa in materia, i seguenti documenti, in luogo del Piano della performance e della Relazione sulla performance di cui all'articolo 10 del decreto legislativo n. 150 del 2009: 
+ 
+                        
+                        
+                            a)
+                            
+                                le linee guida per l'individuazione di indirizzi e obiettivi strategici e operativi, nonche' per la definizione di indicatori per la misurazione e la valutazione della performance dell'amministrazione e di quella individuale, valevoli per l'anno successivo, di cui all'articolo 7, comma 1, del presente regolamento; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                le direttive generali per l'azione amministrativa e la gestione delle strutture generali della Presidenza del Consiglio dei ministri, di cui all'articolo 7, comma 2, del presente regolamento; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                la rendicontazione dei risultati organizzativi e individuali raggiunti rispetto ai singoli obiettivi di direttiva programmati e alle risorse, di cui all'articolo 7, commi 4 e 5, del presente regolamento.
 
 ## Art. 5. — Funzioni di valutazione della performance
 
@@ -84,6 +303,70 @@ L'Ufficio del bilancio e per il riscontro di regolarita' amministrativo-contabil
 
 ## Art. 8. — Obiettivi e indicatori
 
+1.
+                    
+                        
+                            Gli obiettivi si articolano in: 
+ 
+                        
+                        
+                            a)
+                            
+                                obiettivi generali, che identificano, in coerenza con le priorita' delle politiche pubbliche nazionali nel quadro del programma di Governo e con gli eventuali indirizzi adottati dal Presidente del Consiglio dei ministri ai sensi dell'articolo 8 del decreto legislativo 30 luglio 1999, n. 286, le priorita' strategiche delle pubbliche amministrazioni in relazione alle attivita' e ai servizi erogati, anche tenendo conto del comparto autonomo di contrattazione della Presidenza del Consiglio dei ministri e del ciclo della performance; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                obiettivi annuali specifici delle strutture della Presidenza del Consiglio dei ministri ricompresi nelle annuali direttive generali per l'azione amministrativa e la gestione delle strutture generali della Presidenza del Consiglio dei ministri emanate dal Segretario generale della Presidenza del Consiglio dei ministri e dai Ministri o Sottosegretari delegati dal Presidente del Consiglio dei ministri in aderenza alle priorita' individuate nelle aree strategiche incluse nelle annuali linee guida del Presidente del Consiglio dei ministri per l'individuazione di indirizzi e obiettivi strategici e operativi ai fini dell'emanazione delle direttive generali per l'azione amministrativa e la gestione delle strutture generali della Presidenza del Consiglio dei ministri.
+
+2.
+                    
+                        
+                            Gli obiettivi sono: 
+ 
+                        
+                        
+                            a)
+                            
+                                rilevanti e pertinenti rispetto ai bisogni della collettivita', alla missione istituzionale, alle priorita' politiche e alle strategie della Presidenza del Consiglio dei ministri; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                specifici e misurabili in termini concreti e chiari; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                tali da determinare un significativo miglioramento della qualita' dei servizi erogati e degli interventi; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                riferibili ad un arco temporale determinato, di norma corrispondente ad un anno; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                confrontabili con le tendenze della produttivita' dell'amministrazione; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                correlati alla quantita' e alla qualita' delle risorse disponibili.
+
 ## Art. 9. — Monitoraggio della performance
 
 Il Collegio di direzione dell'Ufficio controllo interno, trasparenza e integrita' della Presidenza del Consiglio dei ministri, opera con indipendenza e autonomia e controlla che le eventuali variazioni, verificatesi durante l'esercizio, degli obiettivi e degli indicatori della performance organizzativa e individuale siano esposte, se pertinenti, nella rendicontazione di cui all'articolo 7, comma 5, del presente regolamento.
@@ -93,7 +376,99 @@ Il Collegio di direzione dell'Ufficio controllo interno, trasparenza e integrita
 
 La misurazione e valutazione della performance organizzativa si realizza tramite l'assegnazione, nelle direttive generali per l'azione amministrativa e la gestione delle strutture generali della Presidenza del Consiglio dei ministri emanate dal Segretario generale e dai Ministri o Sottosegretari delegati dal Presidente del Consiglio dei ministri, di obiettivi trasversali e comuni a piu' strutture.
 
+2.
+                    
+                        
+                            Gli obiettivi di performance organizzativa possono riguardare: 
+ 
+                        
+                        
+                            a)
+                            
+                                l'attuazione di politiche e il conseguimento di obiettivi collegati ai bisogni e alle esigenze della collettivita'; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                l'attuazione di piani e programmi, ovvero la misurazione dell'effettivo grado di attuazione dei medesimi, nel rispetto delle fasi e dei tempi previsti, degli standard qualitativi e quantitativi definiti e del livello previsto di assorbimento delle risorse; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                la modernizzazione e il miglioramento qualitativo dell'organizzazione e delle competenze professionali e la capacita' di attuazione di piani e programmi; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                l'efficienza nell'impiego delle risorse, con particolare riferimento al contenimento ed alla riduzione dei costi, nonche' all'ottimizzazione dei tempi dei procedimenti amministrativi; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                la qualita' e la quantita' delle prestazioni e dei servizi erogati; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                il raggiungimento degli obiettivi di promozione delle pari opportunita'.
+
 ## Art. 11. — Soggetti
+
+1.
+                    
+                        
+                            Nel processo di misurazione e valutazione della performance organizzativa e individuale delle strutture della Presidenza del Consiglio dei ministri intervengono: 
+ 
+                        
+                        
+                            a)
+                            
+                                il Presidente del Consiglio dei ministri; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                il Segretario generale della Presidenza del Consiglio dei ministri; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                i Ministri e i Sottosegretari delegati dal Presidente del Consiglio dei ministri; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                l'Ufficio controllo interno, trasparenza e integrita'; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                il Collegio di direzione dell'Ufficio controllo interno, trasparenza e integrita'; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                i dirigenti di ciascuna struttura della Presidenza del Consiglio dei ministri.
 
 ## Art. 12. — Disposizioni finali
 

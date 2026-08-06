@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: DPR
 vigenza_date: 2005-12-02
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:47:46Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -220,6 +220,25 @@ A partire dal 1° gennaio 1988 e fino alla data di entrata in vigore del testo u
 COMMA ABROGATO DAL D.LGS. 2 SETTEMBRE 1997, N. 314.
 
 COMMA ABROGATO DAL D.LGS. 2 SETTEMBRE 1997, N. 314.
+
+4.
+                        
+                            
+                                La ritenuta prevista nell'art. 25 del decreto del Presidente 
+della Repubblica 29 settembre 1973, n. 600, deve essere anche operata: 
+ 
+                            
+                            
+                                a)
+                                
+                                    con l'aliquota del 20 per cento, sui redditi indicati nell'art. 49, comma 2, lettera d), e comma 3, e nell'art. 81, comma 1, lettere g) ed m), del testo unico; per i redditi di cui alla lettera g) la ritenuta e' operata sulla parte imponibile del loro ammontare. Nelle ipotesi di cui al secondo ed al quarto coma del predetto articolo 25 l'aliquota della ritenuta si applica nella misura del 30 per cento; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    con l'aliquota del 20 per cento sulle indennita' di cui all'art. 16, comma 1, lettere e) ed f), del testo unico.
 
 La ritenuta prevista nell'art. 26, comma secondo, del decreto del Presidente della Repubblica 29 settembre 1973, n. 600, deve essere operata anche sulla differenza tra la somma corrisposta alla scadenza e quella ricevuta.
 

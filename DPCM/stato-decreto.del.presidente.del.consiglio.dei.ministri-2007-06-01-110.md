@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: DPCM
 vigenza_date: 2009-12-29
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:40:12Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DEL CONSIGLIO DEI MINISTRI
@@ -73,11 +73,68 @@ Sono vietate compensazioni.
 
 ## Art. 7. — Le entrate
 
+1.
+                        
+                            
+                                Costituiscono entrate:
+ 
+                            
+                            
+                                a)
+                                
+                                    entrate provenienti dal bilancio dello Stato;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    restituzioni, rimborsi, recuperi e proventi vari che affluiscono su apposito conto corrente aperto presso la Tesoreria centrale della Banca d'Italia, intestato al ((DigitPA)), il cui saldo va versato sulle contabilita' speciali di cui all'articolo 2, comma 3;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    avanzo presunto dell'esercizio precedente;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    entrate per partite di giro.
+
 Le entrate sono iscritte in appositi capitoli relativi rispettivamente al funzionamento e ai progetti.
 
 Tutte le entrate formano un'unica unita' previsionale assegnata ad un unico centro di responsabilita' amministrativa.
 
 ## Art. 8. — Le spese
+
+1.
+                        
+                            
+                                Le spese sono classificate in:
+ 
+                            
+                            
+                                a)
+                                
+                                    spese correnti;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    spese in conto capitale;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    spese per partite di giro.
 
 Le spese sono ripartite nelle Sezioni spese di funzionamento e spese per i progetti innovativi di cui all'articolo 4 e all'interno delle stesse in capitoli, secondo l'oggetto e il contenuto economico e funzionale della spesa.
 
@@ -86,6 +143,118 @@ Le spese per i progetti innovativi sono considerate spese in conto capitale.
 Le spese di funzionamento e le spese per i progetti innovativi costituiscono distinte unita' previsionali di base, affidate alla gestione dell'unico centro di responsabilita' amministrativa.
 
 ## Art. 9. — Elenco delle spese di funzionamento
+
+1.
+                        
+                            
+                                Costituiscono spese di funzionamento, qualora non esplicitamente attribuite a specifici progetti innovativi in considerazione della diretta pertinenza della spesa alla realizzazione del progetto, le seguenti:
+ 
+                            
+                            
+                                a)
+                                
+                                    le indennita' spettanti al presidente e ai membri del ((Comitato direttivo)), nonche' al direttore generale, ai sensi dell'articolo 4, comma 5, del decreto legislativo;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    i compensi ai componenti dei Collegio dei revisori dei conti;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    gli stipendi e gli altri assegni fissi spettanti al personale in servizio presso il ((DigitPA)) nazionale;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    i compensi per il lavoro straordinario e quelli incentivanti la produttivita';
+
+                                
+                            
+                            
+                                e)
+                                
+                                    i compensi ai consulenti e alle societa' di consulenza, nonche' quelli concernenti convenzioni di ricerca e collaborazioni con studiosi ed esperti, istituti universitari ed organismi specializzati per l'acquisizione di dati ed elementi utili ai fini del migliore esercizio dei compiti istituzionali;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    le indennita' e i rimborsi-spese per missioni svolte nel territorio nazionale ed all'estero;
+
+                                
+                            
+                            
+                                g)
+                                
+                                    le spese postali, telegrafiche e telefoniche e le altre inerenti al servizio di corrispondenza;
+
+                                
+                            
+                            
+                                h)
+                                
+                                    le spese di locazione, manutenzione, adattamento dei locali e dei relativi impianti, nonche' per l'acquisto, il noleggio e la manutenzione di autoveicoli, carburante e lubrificanti;
+
+                                
+                            
+                            
+                                i)
+                                
+                                    le spese per l'acquisto e la manutenzione di mobili e arredi, per l'acquisto, il noleggio e la manutenzione di macchine da scrivere e da calcolo, di apparecchi televisivi, di registrazione del suono e delle immagini, di fotoriproduzione, di apparati di elaborazione elettronica e relativi programmi;
+
+                                
+                            
+                            
+                                j)
+                                
+                                    le spese per l'acquisto di libri, giornali, riviste ed altre pubblicazioni;
+
+                                
+                            
+                            
+                                k)
+                                
+                                    spese per la comunicazione istituzionale, ivi comprese quelle relative a incontri di studio, convegni, congressi, mostre e altre manifestazioni e partecipazione o organizzazione di eventi;
+
+                                
+                            
+                            
+                                l)
+                                
+                                    le spese di trasporto, imballaggio e facchinaggio;
+
+                                
+                            
+                            
+                                m)
+                                
+                                    le spese per la formazione e l'aggiornamento professionale del personale;
+
+                                
+                            
+                            
+                                n)
+                                
+                                    le spese per interventi assistenziali nei confronti del personale;
+
+                                
+                            
+                            
+                                o)
+                                
+                                    ogni altra spesa necessaria al funzionamento degli uffici dei ((DigitPA)) nazionale, incluse quelle finalizzate a soddisfare le esigenze dei ((DigitPA)) di intrattenere pubbliche relazioni con altri soggetti nell'ambito dei propri fini istituzionali, tra cui, in particolare le seguenti:
+ 1) piccoli doni, quali targhe, medaglie, libri, coppe, oggetti simbolici a personalita' italiane e straniere o a membri di delegazioni straniere in visita al ((DigitPA)) nazionale, oppure in occasione di visite all'estero compiute da rappresentanti o delegazioni ufficiali del ((DigitPA)) nazionale;
+ 2) omaggi floreali, necrologi in occasione della morte di personalita' rilevanti in campo informatico o di componenti degli organi collegiali del ((DigitPA)) nazionale;
+ 3) consumazioni, sulla base dei criteri e delle istruzioni impartite dal ((Comitato direttivo)), in occasione di incontri di lavoro con personalita' estranee al ((DigitPA)) nazionale o in occasione di visite presso il ((DigitPA)) nazionale di rappresentanze ufficiali italiane e straniere.
 
 ## Art. 10. — Fondo di riserva per le spese impreviste di funzionamento
 
@@ -149,6 +318,45 @@ Il rendiconto consuntivo e' strutturato in quattro sezioni dedicate rispettivame
 
 Il rendiconto consuntivo e' inviato al Collegio dei revisori dei conti, unitamente ai rapporti predisposti dalla struttura competente per il controllo di gestione e dalla struttura per la valutazione ed il controllo strategico, almeno quindici giorni prima della riunione dedicata alla sua approvazione.
 
+5.
+                        
+                            
+                                Nel conto sono rappresentate:
+ 
+                            
+                            
+                                a)
+                                
+                                    le previsioni iniziali, le variazioni intercorse durante l'esercizio finanziario e le previsioni definitive;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le entrate di competenza dell'anno, accertate, riscosse e rimaste da riscuotere;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    le spese di competenza dell'anno, impegnate, pagate e rimaste da pagare;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    l'avanzo di esercizio;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    la gestione dei residui attivi e passivi degli esercizi precedenti.
+
 Al conto sono allegati a cura del Direttore generale le deliberazioni di variazione di bilancio, nonche' il conto economico, lo stato patrimoniale e la nota integrativa, redatti tenendo conto dei criteri e metodi disciplinati dagli articoli 4, 42 e 43 del decreto del Presidente della Repubblica 27 febbraio 2003, n. 97, recante il regolamento sull'amministrazione e la contabilita' degli enti pubblici, in quanto compatibile con le esigenze operative del ((DigitPA)) nazionale. I predetti documenti costituiscono parti integranti del rendiconto consuntivo
 
 Entro trenta giorni dall'approvazione, il rendiconto approvato viene trasmesso alla Corte dei conti per il controllo previsto dall'articolo 5 comma 2 del decreto legislativo, accompagnato da una relazione illustrativa del presidente, alla quale viene allegata la relazione del Collegio dei revisori, il rendiconto e', altresi', trasmesso al Presidente del Consiglio dei Ministri o, se nominato, al Ministro delegato per l'innovazione e le tecnologie, ed al Ministero dell'economia e delle finanze - Dipartimento della Ragioneria generale dello Stato.
@@ -171,6 +379,32 @@ Sono impegnate sugli stanziamenti di competenza dell'esercizio le somme dovute a
 
 Gli impegni non possono superare i limiti consentiti dagli stanziamenti programmati.
 
+3.
+                        
+                            
+                                Gli impegni si riferiscono all'esercizio finanziario in corso.
+Fanno eccezione quelli relativi a:
+ 
+                            
+                            
+                                a)
+                                
+                                    spese per i progetti e spese in conto capitale ripartite in piu' esercizi, per le quali l'impegno puo' estendersi a piu' anni ed i cui relativi pagamenti devono essere contenuti nei limiti dei fondi assegnati per ogni esercizio;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    spese correnti per le quali sia indispensabile, allo scopo di assicurare la continuita' del servizio, assumere impegni a carico dell'esercizio successivo;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    spese per affitti ed altre spese continuative e periodiche, per le quali l'impegno puo' estendersi a piu' esercizi, purche' cio' non sia contrario a norme di legge o regolamento e quando ne sia riconosciuta la necessita' o la convenienza.
+
 L'impegno di spesa da' luogo ad annotazioni nelle apposite scritture con imputazione ai capitoli di pertinenza.
 
 In attuazione di deliberazioni programmatiche di spesa adottate dal ((Comitato direttivo)), la struttura competente per il funzionamento annota corrispondenti accantonamenti di somme a titolo di prenotazione per futuri impegni. Tali somme sono indisponibili per qualsiasi altra utilizzazione, salvo nuova diversa e specifica delibera del ((Comitato direttivo)).
@@ -188,6 +422,59 @@ La documentazione posta a base della liquidazione e' allegata in originale da em
 Il pagamento delle spese liquidate e' ordinato con mandato tratto sulle contabilita' speciali da parte del presidente o del direttore generale, nonche', per le spese non discrezionali e per quelle comunque non eccedenti 15.000,00 euro, da parte del responsabile della struttura competente per il funzionamento.
 
 Il mandato di pagamento e' tratto in favore del creditore o, nei casi previsti dal presente regolamento, in favore dell'economo cassiere sull'istituto incaricato del servizio di tesoreria.
+
+3.
+                        
+                            
+                                Il mandato di pagamento contiene le seguenti indicazioni:
+ 
+                            
+                            
+                                a)
+                                
+                                    esercizio finanziario;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    numero d'ordine progressivo e capitolo d'imputazione;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    nominativo del creditore;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    causale del pagamento;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    somma da pagare in cifre e in lettere;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    modalita' di estinzione del titolo;
+
+                                
+                            
+                            
+                                g)
+                                
+                                    data di emissione.
 
 I mandati sono scritti con chiarezza, senza cancellazioni o alterazioni di sorta.
 
@@ -215,6 +502,24 @@ L'economo-cassiere, posto alle dipendenze del responsabile della struttura compe
 
 ## Art. 24. — Scritture contabili
 
+1.
+                        
+                            
+                                L'economo-cassiere tiene:
+ 
+                            
+                            
+                                a)
+                                
+                                    un registro di cassa per tutte le operazioni di entrata e di uscita dal quale risultino, giornalmente, il fondo di cassa iniziale, i pagamenti effettuati nella giornata ed il fondo di cassa esistente alla chiusura della cassa;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    un registro dei valori e dei titoli in deposito.
+
 Il denaro ed i valori debbono essere custoditi in cassaforte.
 Non possono essere depositati in cassaforte denaro, titoli ed oggetti di valore che non siano di pertinenza degli uffici.
 
@@ -227,6 +532,24 @@ L'economo-cassiere compila mensilmente la situazione di cassa su apposito modulo
 Dei beni acquistati o dati in uso al ((DigitPA)) nazionale sono redatti appositi inventari, nei quali i beni stessi sono classificati in conformita' alle disposizioni vigenti per le amministrazioni dello Stato.
 
 L'economo-cassiere svolge le funzioni di consegnatario. Provvede direttamente alla manutenzione dei beni, arredamenti e materiali in dotazione agli uffici e vigila sulla regolare esecuzione dei servizi appaltati.
+
+3.
+                        
+                            
+                                Ai fini di cui al comma 1 l'economo-cassiere tiene:
+ 
+                            
+                            
+                                a)
+                                
+                                    un registro d'inventario per i mobili e le attrezzature in dotazione agli uffici;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    un registro di carico e scarico per il materiale di facile consumo.
 
 Per la dichiarazione di fuori uso e per l'eventuale cessione gratuita dei beni dichiarati fuori uso si applica il decreto del Presidente della Repubblica 4 settembre 2002, n. 254. Per la cessione a titolo oneroso o la permuta si applica, in quanto compatibile, il decreto del Presidente della Repubblica 13 febbraio 2001, n. 189.
 
@@ -293,6 +616,38 @@ Per l'acquisizione di servizi e forniture di beni per i quali non sia possibile 
 
 ## Art. 34. — Studi, ricerche, consulenze e prestazioni professionali
 
+1.
+                        
+                            
+                                Il ((DigitPA)) nazionale, nel rispetto della legislazione vigente, puo' avvalersi di personale esterno per l'effettuazione di compiti:
+ 
+                            
+                            
+                                a)
+                                
+                                    di studio e consulenza che richiedano specifiche competenze non riscontrabili nelle figure professionali esistenti in organico o al momento non disponibili;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    di supporto strumentale all'attivita' di ricerca;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    di partecipazione alle commissioni di cui all'articolo 30, nei casi ivi previsti;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    per le attivita' di collaudo di cui all'articolo 33.
+
 Per lo svolgimento dei compiti di cui al comma 1, possono essere affidati incarichi di collaborazione o consulenza ad esperti o dipendenti pubblici, nei limiti e nelle condizioni previste dalle rispettive norme di stato giuridico, a persone giuridiche pubbliche e private, ditte, associazioni. Tali incarichi possono avere durata massima di un anno, ovvero nel caso di collaborazioni relative a progetti, durata fino a quella del progetto purche' non eccedente tre anni.
 
 I compensi sono stabiliti dal ((Comitato direttivo)) in rapporto alla durata e alla rilevanza delle prestazioni, secondo i criteri stabiliti in un apposito tariffario preventivamente approvato dal ((Comitato direttivo)) medesimo.
@@ -307,7 +662,211 @@ Nessuna acquisizione di lavori, forniture o servizi puo' essere artificiosamente
 
 ## Art. 36. — Servizi e forniture eseguibili in economia
 
+1.
+                        
+                            
+                                In applicazione dell'articolo 125, comma 9 e 10 del decreto legislativo 12 aprile 2006, n. 163, recante codice degli appalti pubblici e dell'articolo 11, comma 4, del decreto del Presidente della Repubblica 20 agosto 2001, n. 384, possono essere acquisiti secondo la procedura in economia le forniture ed i servizi di seguito elencati, nel limite di spesa di euro 200.000,00 IVA esclusa:
+ 
+                            
+                            
+                                a)
+                                
+                                    fornitura (acquisto, noleggio, etc.) e servizi di manutenzione, assistenza e riparazione di mobili e arredi, attrezzature tecniche, prodotti hardware, macchine da ufficio e simili;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    servizi di manutenzione ordinaria dei locali in affitto;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    servizi di pulizia, disinfezione, disinfestazione, derattizzazione e sanificazione;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    servizi di vigilanza e reception;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    servizi di manutenzione aree verdi e servizi di giardinaggio;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    servizi di montaggio, smontaggio e trasporto di mobili e arredi, impianti, macchinari, attrezzature e materiale d'ufficio;
+
+                                
+                            
+                            
+                                g)
+                                
+                                    servizi di trasporto, spedizione, recapito, magazzinaggio, imballaggio e facchinaggio;
+
+                                
+                            
+                            
+                                h)
+                                
+                                    servizi e forniture occorrenti per la prevenzione e la sicurezza sui luoghi di lavoro, per la sicurezza degli impianti e per la protezione del personale;
+
+                                
+                            
+                            
+                                i)
+                                
+                                    servizi di assicurazione (per beni immobili, mobili registrati e mobili di proprieta' del ((DigitPA)) nazionale o di cui il ((DigitPA)) nazionale risponde);
+
+                                
+                            
+                            
+                                j)
+                                
+                                    locazione a breve termine di immobili attrezzati per l'espletamento di concorsi ed esami, per attivita' di formazione ed aggiornamento del personale, per lo svolgimento di convegni, seminari, riunioni di gruppi di lavoro ed altre manifestazioni di interesse istituzionale;
+
+                                
+                            
+                            
+                                k)
+                                
+                                    servizi e forniture connessi all'espletamento di concorsi ed esami, ad attivita' di formazione ed aggiornamento del personale, all'organizzazione di convegni, seminari, riunioni di gruppi di lavoro ed altre manifestazioni di interesse istituzionale;
+
+                                
+                            
+                            
+                                l)
+                                
+                                    servizi di stampa, tipografia, litografia, xerografia o realizzati per mezzo di tecnologia audiovisiva e simili;
+
+                                
+                            
+                            
+                                m)
+                                
+                                    servizi di rilegatura di libri, pubblicazioni ed altro materiale;
+
+                                
+                            
+                            
+                                n)
+                                
+                                    servizi di archiviazione, anche su supporto informatico, deposito e custodia di documentazione del ((DigitPA)) nazionale;
+
+                                
+                            
+                            
+                                o)
+                                
+                                    servizi di traduzioni ed interpretariato;
+
+                                
+                            
+                            
+                                p)
+                                
+                                    servizi di manutenzione, riparazione e rimessaggio di autovetture di servizio;
+
+                                
+                            
+                            
+                                q)
+                                
+                                    fornitura di carburante, lubrificante, pezzi di ricambio ed accessori per autovetture di servizio;
+
+                                
+                            
+                            
+                                r)
+                                
+                                    noleggio di autoveicoli, anche con conducente; fornitura di cancelleria, stampati, registri ed altro materiale d'ufficio in genere;
+
+                                
+                            
+                            
+                                s)
+                                
+                                    acquisto, noleggio e manutenzione di prodotti software;
+
+                                
+                            
+                            
+                                t)
+                                
+                                    provvista di accessori e materiale di consumo relativi al sistema informatico;
+
+                                
+                            
+                            
+                                u)
+                                
+                                    servizi informatici di consulenza e assistenza, ivi compresi servizi di progettazione, realizzazione, gestione, conduzione e successiva manutenzione di sistemi informatici;
+
+                                
+                            
+                            
+                                v)
+                                
+                                    abbonamenti a giornali, riviste, pubblicazioni periodiche e simili, agenzie di informazioni ed acquisto di libri ed altro materiale didattico ed informativo, nonche' relative spese di ordinaria rilegatura;
+
+                                
+                            
+                            
+                                w)
+                                
+                                    spese per l'acquisizione di beni e servizi, nel caso di contratti scaduti, nelle more di svolgimento delle ordinarie procedure di scelta del contraente;
+
+                                
+                            
+                            
+                                x)
+                                
+                                    spese necessarie ai servizi di economato.
+
 ## Art. 37. — Casi particolari
+
+1.
+                        
+                            
+                                Il ricorso al sistema di spese in economia, nei limiti di importo di cui al precedente articolo 36, e' altresi' consentito nelle seguenti ipotesi:
+ 
+                            
+                            
+                                a)
+                                
+                                    risoluzione di un precedente rapporto contrattuale, quando cio' sia ritenuto necessario o conveniente per assicurare la prestazione nel termine previsto dal contratto;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    completamento delle prestazioni non previste dal contratto in corso, qualora non sia possibile imporne l'esecuzione nell'ambito dell'oggetto principale del contratto medesimo;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    prestazioni periodiche di servizi e forniture nella misura strettamente necessaria, nel caso di contratti scaduti, nelle more di svolgimento delle ordinarie procedure di scelta del contraente;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    eventi oggettivamente imprevedibili ed urgenti, al fine di scongiurare situazioni di pericolo a persone, animali o cose, nonche' a danno dell'igiene e salute pubblica o del patrimonio storico, artistico e culturale.
 
 ## Art. 38. — Norme procedurali per l'acquisizione di beni e servizi in economia
 
@@ -316,6 +875,101 @@ La determinazione di acquisire beni o servizi in economia e' assunta dall'organo
 All'acquisizione di beni e servizi in economia provvede, di regola, la struttura competente per il funzionamento, che sceglie altresi' le imprese da invitare sulla base di criteri di trasparenza, competenza e concorrenza. L'invito e' inviato ad almeno cinque imprese.
 
 Per le acquisizioni di beni e servizi di importo non superiori ad euro 20.000,00 IVA esclusa, e' sufficiente l'interpello di tre imprese. Non e' necessaria la richiesta di pluralita' di preventivi, nel caso di nota specialita' del bene o servizio da acquisire, in relazione alle caratteristiche tecniche e di mercato, ovvero se la spesa e' motivata da impellenti e imprevedibili esigenze ovvero nel caso di acquisti da parte dell'economo-cassiere di importo non superiore ad euro 1.000,00, IVA esclusa, autorizzati dal responsabile della struttura competente per il funzionamento.
+
+4.
+                        
+                            
+                                La lettera di richiesta di preventivo contiene i seguenti elementi:
+ 
+                            
+                            
+                                a)
+                                
+                                    oggetto della prestazione;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    modalita' di redazione del preventivo e termine per la ricezione dello stesso;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    eventuali garanzie;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    caratteristiche tecniche eventualmente descritte in apposito capitolato;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    qualita' e le modalita' di esecuzione;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    termine di esecuzione della prestazione;
+
+                                
+                            
+                            
+                                g)
+                                
+                                    penalita' previste;
+
+                                
+                            
+                            
+                                h)
+                                
+                                    modalita' di pagamento;
+
+                                
+                            
+                            
+                                i)
+                                
+                                    criterio in base al quale sara' effettuata la scelta del contraente: la scelta e' effettuata, di norma, secondo il criterio del prezzo piu' basso; puo' farsi ricorso al criterio dell'offerta economicamente piu' vantaggiosa, se le peculiarita' del bene o del servizio da acquisire l'impongano; in tale ultimo caso la lettera indica gli elementi e i parametri, in ordine di importanza, in base ai quali avverra' la valutazione del preventivo;
+
+                                
+                            
+                            
+                                j)
+                                
+                                    termine e modalita' per la presentazione del preventivo;
+
+                                
+                            
+                            
+                                k)
+                                
+                                    dichiarazione che l'impresa deve rilasciare in ordine all'obbligo di assoggettarsi alle condizioni e penalita' previste e di uniformarsi alle vigenti disposizioni;
+
+                                
+                            
+                            
+                                l)
+                                
+                                    indicazione dell'unita' organizzativa responsabile del procedimento, nonche' il nominativo del responsabile;
+
+                                
+                            
+                            
+                                m)
+                                
+                                    ogni ulteriore indicazione necessaria, avuto riguardo alla specificita' dell'acquisizione.
 
 La richiesta di preventivo, di norma, e' inviata a mezzo lettera raccomandata con avviso di ricevimento e contestualmente per telefax, ovvero a mezzo di posta elettronica certificata.
 

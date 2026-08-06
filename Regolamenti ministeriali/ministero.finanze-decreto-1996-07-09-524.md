@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
 vigenza_date: 2001-10-29
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:41Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -25,6 +25,31 @@ Udito il parere del Consiglio di Stato espresso nell'adunanza generale del 14 di
 
 ## Art. 1. — Impiego di alcole denaturato con denaturante generale
 
+1.
+                    
+                        
+                            L'alcole etilico destinato alla vendita per essere utilizzato, in esenzione d'accisa, ai sensi dell'art. 27, comma 3, lettera a), del testo unico delle disposizioni legislative concernenti le imposte sulla produzione e sui consumi e relative sanzioni penali e amministrative, approvato con decreto legislativo 26 ottobre 1995, n. 504, d'ora in avanti denominato "testo unico", deve essere denaturato mediante l'aggiunta, ad ogni ettolitro anidro, di una miscela, denominata "denaturante generale dell'alcole etilico", costituita dalle seguenti sostanze, preventivamente sciolte in litri 2 di metiletilchetone:
+ 
+                        
+                        
+                            a)
+                            
+                                tiofene: grammi 125;
+
+                            
+                        
+                        
+                            b)
+                            
+                                denatonium benzoato: grammi 0,8;
+
+                            
+                        
+                        
+                            c)
+                            
+                                C.I. Reactive Red 24: grammi 3 di soluzione acquosa al 25 per cento in peso.
+
 La denaturazione di cui al comma 1 puo' essere anche effettuata aggiungendo , ad ogni ettolitro anidro di alcole etilico, una "miscela-madre" costituita dalle sostanze indicate nello stesso comma 1, portate al volume di ml 250 con alcole etilico, previamente addizionata a litri 2 di metiletilchetone. Tale "miscela-madre" viene preparata dal laboratorio denaturanti dello Stato ed e' ceduta al prezzo di lire 16.000 al litro.
 
 Fatto salvo quanto stabilito nel comma 12, l'alcole da sottoporre a denaturazione non deve aver subito, successivamente alla produzione, alcuna miscelazione con sostanze diverse, ad eccezione della eventuale diluizione con acqua; deve, inoltre, possedere un tenore effettivo in alcole etilico non inferiore al 90 per cento in volume. Tale tenore, che per gli alcoli aventi i requisiti previsti dall'art. 2 della legge 3 ottobre 1957, n. 1029, d'ora in avanti denominati "buon gusto", o per l'alcole "neutro" definito dall'allegato I al regolamento CEE del Consiglio n. 2046/89 del 19 giugno 1989, o, piu' in generale, dall'allegato I al regolamento CEE del Consiglio n. 1576/89 del 29 maggio 1989, si assume coincidente con la gradazione reale determinata con l'alcolometro, deve essere riportato sui documenti di accompagnamento, dai quali deve anche risultare la denominazione commerciale della merce, utilizzando, per gli alcoli diversi da quelli sopra indicati, a seconda dei casi, le dizioni "alcoli greggi", "teste e code" e simili. Per questi ultimi prodotti deve essere riportata anche la gradazione rilevata con l'alcolometro Tralles, se diversa dal tenore in alcole etilico.
@@ -38,6 +63,31 @@ Dopo la denaturazione e prima della vendita non e' consentita alcuna operazione 
 
 Per gli impieghi di cui al comma 1 puo' essere utilizzato anche alcole, proveniente dagli altri Paesi comunitari, denaturato secondo le formulazioni di cui al regolamento CEE n. 3199/93 della Commissione, del 22 novembre 1993. Non e' consentita la miscelazione di alcoli denaturati secondo diverse formulazioni.
 
+8.
+                    
+                        
+                            Chiunque intende detenere in deposito l'alcole etilico denaturato di cui al presente articolo in quantita' superiore a 300 litri deve farne denuncia al competente UTF, chiedendo il rilascio della licenza di esercizio, soggetta al diritto annuale previsto dall'art. 63, comma 2, lettera d), del testo unico e tenere un registro di carico e scarico su cui devono essere annotate, giornalmente, le partite introdotte e quelle estratte, con riferimento ai relativi documenti di accompagnamento. Per i depo siti per uso privato o industriale, gli scarichi sul registro di carico e scarico vengono effettuati con cadenza decadale. Fermo restando l'obbligo della denuncia e del rilascio della licenza di esercizio, ((le ditte che detengono nei propri locali di vendita il prodotto suddetto, in quantita' superiore a 300 litri, gia' confezionato, in recipienti delle capacita' nominali di cc 250, 500, 750, 1.000, 1.500, 2.000 e 5.000,))chiusi in modo ermetico e tale che non sia possibile l'apertura senza lasciare tracce visibili di effrazione, sono esonerate dalla tenuta del registro di carico e scarico, sotto l'osservanza delle seguenti condizioni:
+ 
+                        
+                        
+                            a)
+                            
+                                i suddetti recipienti devono recare all'esterno, in modo chiaro e visibile, la denominazione della ditta confezionatrice, il luogo dove e' situato l'opificio di confezionamento, il numero della relativa licenza UTF, per i prodotti nazionali, l'indicazione che trattasi di alcole denaturato con denaturante generale, il quantitativo idrato e quello anidro;
+
+                            
+                        
+                        
+                            b)
+                            
+                                le indicazioni del numero della licenza e della sigla della provincia dove ha sede l'UTF che la ha rilasciata devono essere riportate direttamente sul contenitore e sul relativo tappo di chiusura, incise o in rilievo, mentre le altre indicazioni possono essere riportate anche utilizzando apposita etichetta, aderente per tutta la sua superficie al contenitore. In ogni caso sull'etichetta deve essere riportato anche il numero della licenza e la sigla della provincia sede dell'UTF;
+
+                            
+                        
+                        
+                            c)
+                            
+                                l'alcole denaturato deve essere detenuto nei locali di vendita o magazzini di deposito in quantita' non superiore a litri 10.000 ed esitato nelle confezioni originali nella minuta vendita.
+
 La movimentazione intracomunitaria dell'alcole denaturato di cui al presente articolo e' effettuata con la scorta del documento di accompagnamento semplificato comunitario, di cui al regolamento CEE n. 3649/92, della Commissione del 17 dicembre 1992; il trasferimento fra impianti o depositi nazionali viene effettuato con la scorta del suddetto documento, recante una stampigliatura con l'indicazione "Vale per la circolazione interna". Se il destinatario non e' soggetto alla denuncia di deposito, il documento per la circolazione interna viene emesso solo per quantitativi di prodotto superiori a 50 litri.
 
 I documenti di circolazione di cui al comma 9 devono restare allegati ai registri di carico e scarico. Nel caso in cui il titolare del deposito non fosse obbligato alla tenuta del suddetto registro, i documenti devono essere custoditi presso il medesimo per una durata di cinque anni. Se il destinatario non e' tenuto alla denuncia di deposito, i documenti devono essere custoditi per il medesimo tempo previsto per le bolle di accompagnamento dei beni viaggianti.
@@ -50,7 +100,75 @@ I reflui provenienti da lavorazioni industriali, contenenti alcole etilico non s
 
 L'alcole etilico impiegato in esenzione d'accisa, ai sensi dell'art. 27, comma 3, lettera b), del testo unico, nella fabbricazione di prodotti non destinati al consumo umano alimentare deve essere denaturato con denaturanti speciali approvati dall'amministrazione finanziaria, fatto salvo quanto stabilito ai commi 2 e 4. La denaturazione puo' essere effettuata, oltre che presso gli impianti di cui al comma 4 dell'art. 1, anche presso gli utilizzatori, che in tal caso devono dotarsi delle idonee attrezzature, nonche' negli impianti di cui al comma 12 dello stesso art. 1, per gli alcoli recuperati nei medesimi. Per l'istituzione degli opifici di denaturazione, per l'effettuazione delle operazioni di denaturazione e per la contabilizzazione dell'alcole denaturato si osservano le procedure di cui all'art. 1, commi 4 e 5.
 
+2.
+                    
+                        
+                            L'alcole etilico destinato alla fabbricazione delle profumerie e dei prodotti cosmetici di cui all'art. 1 della legge 11 ottobre 1986, n. 713, deve essere denaturato mediante l'aggiunta, ad ogni ettolitro anidro di alcole, delle seguenti sostanze:
+ 
+                        
+                        
+                            a)
+                            
+                                -- denatonium benzoato: grammi 0,8;
+ -- alcool ter-butilico (TBA): grammi 78,8;
+
+                            
+                        
+                        
+                            b)
+                            
+                                -- dietil ftalato: grammi 500;
+ -- alcool ter-butilico (TBA): grammi 78,8;
+
+                            
+                        
+                        
+                            c)
+                            
+                                -- alcool isopropilico: grammi 5.000;
+ -- alcool ter-butilico (TBA): grammi 78,8;
+
+                            
+                        
+                        
+                            d)
+                            
+                                -- muschio naturale o sintetico: grammi 39,5;
+ -- alcool ter-butilico (TBA): grammi 78,8;
+
+                            
+                        
+                        
+                            e)
+                            
+                                -- timolo: grammi 500.
+
 Le formulazioni di cui alle lettere a) e b) del comma 2 devono essere utilizzate per la preparazione delle profumerie alcoliche, quella della lettera c) per i prodotti liquidi e trasparenti ed in particolare per le lacche ed i prodotti per capelli, quella della lettera d) per deodoranti, creme ed altri prodotti per la pelle e quella della lettera e) per prodotti per l'igiene dei denti e della bocca. Previa autorizzazione dell'amministrazione finanziaria, le suddette formulazioni possono essere utilizzate per correlazioni diverse da quelle sopra specificate; analogamente, puo' essere autorizzata la denaturazione con altre sostanze ammesse negli Stati membri dell'Unione europea.(( PERIODO SOPPRESSO DAL DECRETO 26 LUGLIO 2001, N. 340)).
+
+4.
+                    
+                        
+                            L'alcole etilico destinato alla fabbricazione dei detersivi liquidi e in pasta per bucato, per stoviglie e per superfici dure (NC 3402), dei lucidi per scarpe liquidi in confezione autolucidante (NC 3405), dei deodoranti ambientali in forma liquida, aerosol e spray (NC 3307), degli insetticidi in forma liquida, aerosol e spray (NC 3808) deve essere denaturato mediante l'aggiunta, per ogni ettolitro anidro di alcole, delle sottoindicate sostanze(( . . . )):
+ 
+                        
+                        
+                            a)
+                            
+                                4.000 grammi di isopropanolo;
+
+                            
+                        
+                        
+                            b)
+                            
+                                500 grammi di metiletilchetone;
+
+                            
+                        
+                        
+                            c)
+                            
+                                2 grammi di bitrex.
 
 Su motivata richiesta dei fabbricanti dei prodotti di cui al comma 4 l'amministrazione finanziaria puo' consentire che la denaturazione venga effettuata con altre formulazioni. Per i prodotti dei commi 2 e 4 le dizioni "alcole denaturato" e simili possono risultare solo fra i componenti.
 
@@ -58,6 +176,45 @@ Chiunque intenda utilizzare l'alcole denaturato di cui al presente articolo deve
 L'utilizzatore e' obbligato alla tenuta di apposito registro di carico e scarico dell'alcole denaturato, riportando giornalmente le partite pervenute, con riferimento ai relativi documenti di accompagnamento, e decadalmente quelle passate alla lavorazione nonche' i prodotti ottenuti, distintamente per gradazione alcolica.
 
 La movimentazione intracomunitaria dell'alcole denaturato con denaturante speciale e' effettuata con la scorta del documento di accompagnamento comunitario in regime sospensivo di cui al regolamento CEE n. 2719/92 della Commissione dell'11 settembre 1992, e successive modifiche; i trasferimenti interni dagli impianti di denaturazione a quelli di utilizzazione sono effettuati con la scorta del suddetto documento, recante una stampigliatura con l'indicazione "vale per la circolazione interna dell'alcole denaturato con denaturante speciale", senza la prestazione di alcuna cauzione. Nei suddetti documenti deve essere indicata la formula di denaturazione e l'impiego cui l'alcole e' destinato. In caso di denaturanti oggetto di una specifica autorizzazione, devono essere indicati gli estremi di quest'ultima; puo' invece omettersi, per motivi di riservatezza, la formula di denaturazione. I documenti sopracitati devono restare allegati al registro di carico e scarico dell'alcole denaturato.
+
+8.
+                    
+                        
+                            La vigente disciplina fiscale relativa alle profumerie alcoliche e', per quanto riguarda le profumerie prodotte con alcole denaturato, cosi' modificata:
+ 
+                        
+                        
+                            a)
+                            
+                                i fabbricanti ed i confezionatori devono presentare la denuncia di attivazione entro i termini di cui al comma 6 e non sono soggetti all'obbligo della presentazione della dichiarazione di lavoro;
+
+                            
+                        
+                        
+                            b)
+                            
+                                le indicazioni da apporre sulle confezioni sono quelle previste dalla normativa in materia di etichettatura dei prodotti cosmetici;
+
+                            
+                        
+                        
+                            c)
+                            
+                                la disciplina della circolazione prevista per la profumeria confezionata si applica anche ai prodotti allo stato sfuso nonche' ai prodotti intermedi contenenti alcole denaturato destinati alla produzione di profumerie. I documenti di accompagnamento devono essere emessi da una distinta serie speciale; in quelli relativi ai prodotti sfusi e intermedi deve essere fatto riferimento alle tipologie di cui al comma 3 e devono essere indicati il quantitativo di alcole presente e la sua materia prima d'origine, la formula di denaturazione e lo stabilimento d'impiego. Alla custodia dei documenti di accompagnamento si applicano le norme di cui all'art. 1, comma 10;
+
+                            
+                        
+                        
+                            d)
+                            
+                                la circolazione intracomunitaria e' effettuata secondo le modalita' previste dagli Stati comunitari mittenti; in caso di spedizioni dal territorio nazionale, il prodotto deve essere scortato da documenti commerciali dai quali risulti possibile l'identificazione del destinatario;
+
+                            
+                        
+                        
+                            e)
+                            
+                                il deposito dei prodotti sfusi e di quelli intermedi e' soggetto alla denuncia all'UTF ed alla tenuta del registro di carico e scarico, obbligatoria per qualsiasi quantitativo.
 
 E' esonerato dall'accisa l'alcole denaturato contenuto in prodotti, (( provenienti da Paesi non comunitari )), non destinati al consumo umano alimentare ((. . .)). L'alcole contenuto nei suddetti prodotti, preconfezionati, non classificabili fra i solventi e diluenti del codice NC 3814 e diversi dai prodotti cosmetici allo stato liquido, ((. . .)) e' considerato denaturato a norma se e' presente nei suddetti prodotti in una percentuale massima in volume non superiore al 30 per cento. Resta ferma la facolta', per l'amministrazione, di procedere al prelievo di campioni per il controllo della gradazione alcolica. Per percentuali superiori a quella sopraindicata, per i prodotti non preconfezionati, per i solventi e diluenti del codice NC 3814 e per i cosmetici allo stato liquido, la dogana provvede al prelievo di campioni per accertare se l'alcole possa essere ritenuto denaturato, anche se con formula diversa da quella di cui ai precedenti commi, in maniera tale da impedirne un illecito uso ((. . .)). Per i cosmetici dichiarati prodotti con alcole denaturato conformemente alle disposizioni nazionali o a quelle di altri Stati comunitari, scortati da certificazione rilasciata dall'autorita' statale del Paese da cui avviene l'importazione, da cui risulti la formula di denaturazione, il prelievo dei campioni e' effettuato a scandaglio. In caso di esito negativo dell'analisi, qualora non sia possibile la rimessa a norma del prodotto, sull'alcole contenuto nello stesso si rende dovuta l'accisa.
 
@@ -69,6 +226,38 @@ L'alcole contenuto in prodotti non destinati al consumo umano alimentare proveni
 L'impiego dell'alcole etilico o delle bevande alcoliche, in esenzione d'accisa, negli usi di cui all'art. 27, comma 3, lettere d) e g), del testo unico viene effettuato senza preventiva denaturazione. Agli effetti della predetta lettera d), per impiego nella fabbricazione di medicinali si intende quello in cui l'alcole rimane nel medicinale medesimo.
 
 E' esonerato dall'accisa l'alcole contenuto nei medicinali, provenienti dall'estero, rispondenti ai requisiti previsti dall'art. 27, comma 3, lettera d), del testo unico, nonche' nei prodotti alimentari, nei limiti previsti dalla successiva lettera g) della medesima norma, anch'essi provenienti dall'estero. Resta salva la facolta' dell'amministrazione di sottoporre ad analisi campioni di tali prodotti, per il controllo dell'osservanza delle suddette condizioni.
+
+3.
+                    
+                        
+                            Chiunque intende utilizzare alcole etilico o bevande alcoliche, in esenzione d'imposta, negli impieghi di cui al comma 1, fatto salvo quanto disposto all'art. 8, comma 1, deve farne denuncia all'UTF competente per territorio, almeno sessanta giorni prima della data d'inizio dell'attivita'. La denuncia deve essere compilata in duplice esemplare e deve contenere la denominazione della ditta, la sua sede, il codice fiscale, la partita IVA, le generalita' di chi la rappresenta legalmente, il comune, la via ed il numero civico o la localita' in cui si trova l'impianto, nonche' il relativo numero di telefono e di fax. Deve, inoltre, essere corredata da una relazione tecnica, con allegate la planimetria dell'opificio e le tabelle di taratura dei serbatoi dove sono custoditi l'alcole etilico o le bevande alcoliche, riportante le seguenti ulteriori informazioni:
+ 
+                        
+                        
+                            a)
+                            
+                                locali di cui si compone l'impianto ed uso a cui ciascuno e' destinato, con riferimento alla planimetria;
+
+                            
+                        
+                        
+                            b)
+                            
+                                numero dei serbatoi e relative capacita' e quantita' massima dei singoli prodotti esenti che in qualsiasi momento si puo' trovare nell'impianto;
+
+                            
+                        
+                        
+                            c)
+                            
+                                modalita' d'impiego dei prodotti esenti, eventuali processi di lavorazione, qualita' dei prodotti ottenuti da tale lavorazione, con l'indicazione del relativo grado alcolico;
+
+                            
+                        
+                        
+                            d)
+                            
+                                quantitativo massimo di prodotti esenti che si prevede di poter utilizzare in un anno.
 
 La denuncia di cui al comma 3 deve, altresi', contenere una dichiarazione dell'utilizzatore attestante, sotto la propria responsabilita', il possesso di tutte le eventuali altre autorizzazioni di natura non fiscale occorrenti per l'esercizio della propria attivita', nonche' la richiesta di riconoscimento della qualita' di operatore registrato di cui all'art. 8 del testo unico.
 Le ditte che impiegano, negli usi di cui all'art. 27, comma 3, lettera g), del testo unico, quantita' di alcole o di bevande alcoliche in misura non superiore ai 2.000 litri idrati per anno non sono tenute alla presentazione delle tabelle di taratura dei serbatoi di custodia dei suddetti prodotti.

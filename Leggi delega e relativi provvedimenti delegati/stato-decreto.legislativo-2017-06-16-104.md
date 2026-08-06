@@ -8,8 +8,8 @@ vigente: true
 source: normattiva-opendata
 collection: Leggi delega e relativi provvedimenti delegati
 vigenza_date: 2026-05-10
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:41:20Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -30,14 +30,242 @@ Sulla proposta del Presidente del Consiglio dei ministri e del Ministro dell'amb
 Modifiche all'articolo 4 del decreto legislativo 
  3 aprile 2006, n. 152
 
+1.
+                    
+                        
+                            All'articolo 4 del decreto legislativo 3 aprile 2006, n. 152, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 1 la lettera b) e' sostituita dalla seguente: 
+ «b) della direttiva 2014/52/UE del Parlamento europeo e del Consiglio, del 16 aprile 2014, che modifica la direttiva 2011/92/UE concernente la valutazione di impatto ambientale di determinati progetti pubblici e privati»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 4 la lettera b) e' sostituita dalla seguente: 
+ «b) la valutazione ambientale dei progetti ha la finalita' di proteggere la salute umana, contribuire con un miglior ambiente alla qualita' della vita, provvedere al mantenimento delle specie e conservare la capacita' di riproduzione degli ecosistemi in quanto risorse essenziali per la vita. A questo scopo essa individua, descrive e valuta, in modo appropriato, per ciascun caso particolare e secondo le disposizioni del presente decreto, gli impatti ambientali di un progetto come definiti all'articolo 5, comma 1, lettera c).».
+
 ## Art. 2. — Modifiche all'articolo 5 del decreto legislativo 
  3 aprile 2006, n. 152
+
+1.
+                    
+                        
+                            All'articolo 5, comma 1, del decreto legislativo 3 aprile 2006, n. 152, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                la lettera b) e' sostituita dalle seguenti: 
+ «b) valutazione d'impatto ambientale, di seguito VIA: il processo che comprende, secondo le disposizioni di cui al Titolo III della parte seconda del presente decreto, l'elaborazione e la presentazione dello studio d'impatto ambientale da parte del proponente, lo svolgimento delle consultazioni, la valutazione dello studio d'impatto ambientale, delle eventuali informazioni supplementari fornite dal proponente e degli esiti delle consultazioni, l'adozione del provvedimento di VIA in merito agli impatti ambientali del progetto, l'integrazione del provvedimento di VIA nel provvedimento di approvazione o autorizzazione del progetto; 
+ b-bis) valutazione di impatto sanitario, di seguito VIS: elaborato predisposto dal proponente sulla base delle linee guida adottate con decreto del Ministro della salute, che si avvale dell'Istituto superiore di sanita', al fine di stimare gli impatti complessivi, diretti e indiretti, che la realizzazione e l'esercizio del progetto puo' procurare sulla salute della popolazione; 
+ b-ter) valutazione d'incidenza: procedimento di carattere preventivo al quale e' necessario sottoporre qualsiasi piano o progetto che possa avere incidenze significative su un sito o su un'area geografica proposta come sito della rete Natura 2000, singolarmente o congiuntamente ad altri piani e progetti e tenuto conto degli obiettivi di conservazione del sito stesso;»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                la lettera c) e' sostituita dalla seguente: 
+ «c) impatti ambientali: effetti significativi, diretti e indiretti, di un piano, di un programma o di un progetto, sui seguenti fattori: 
+ popolazione e salute umana; 
+ biodiversita', con particolare attenzione alle specie e agli habitat protetti in virtu' della direttiva 92/43/CEE e della direttiva 2009/147/CE; 
+ territorio, suolo, acqua, aria e clima; 
+ beni materiali, patrimonio culturale, paesaggio; 
+ interazione tra i fattori sopra elencati. 
+ Negli impatti ambientali rientrano gli effetti derivanti dalla vulnerabilita' del progetto a rischio di gravi incidenti o calamita' pertinenti il progetto medesimo.»; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                la lettera g) e' sostituita dalle seguenti: 
+ «g) progetto: la realizzazione di lavori di costruzione o di altri impianti od opere e di altri interventi sull'ambiente naturale o sul paesaggio, compresi quelli destinati allo sfruttamento delle risorse del suolo. Ai fini del rilascio del provvedimento di VIA gli elaborati progettuali presentati dal proponente sono predisposti con un livello informativo e di dettaglio almeno equivalente a quello del progetto di fattibilita' come definito dall'articolo 23, commi 5 e 6, del decreto legislativo 18 aprile 2016, n. 50, o comunque con un livello tale da consentire la compiuta valutazione degli impatti ambientali in conformita' con quanto definito in esito alla procedura di cui all'articolo 20; 
+ g-bis) studio preliminare ambientale: documento da presentare per l'avvio del procedimento di verifica di assoggettabilita' a VIA, contenente le informazioni sulle caratteristiche del progetto e sui suoi probabili effetti significativi sull'ambiente, redatto in conformita' alle indicazioni contenute nell'allegato IV-bis alla parte seconda del presente decreto;»; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                la lettera i) e' sostituita dalla seguente: 
+ «i) studio di impatto ambientale: documento che integra gli elaborati progettuali ai fini del procedimento di VIA, redatto in conformita' alle disposizioni di cui all'articolo 22 e alle indicazioni contenute nell'allegato VII alla parte seconda del presente decreto;»; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                la lettera m) e' sostituita dalla seguente: 
+ «m) verifica di assoggettabilita' a VIA di un progetto: la verifica attivata allo scopo di valutare, ove previsto, se un progetto determina potenziali impatti ambientali significativi e negativi e deve essere quindi sottoposto al procedimento di VIA secondo le disposizioni di cui al Titolo III della parte seconda del presente decreto;»; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                la lettera n) e' sostituita dalla seguente: 
+ «n) provvedimento di verifica di assoggettabilita' a VIA: il provvedimento motivato, obbligatorio e vincolante dell'autorita' competente che conclude il procedimento di verifica di assoggettabilita' a VIA;»; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                la lettera o) e' sostituita dalla seguente: 
+ «o) provvedimento di VIA: il provvedimento motivato, obbligatorio e vincolante, che esprime la conclusione dell'autorita' competente in merito agli impatti ambientali significativi e negativi del progetto, adottato sulla base dell'istruttoria svolta, degli esiti delle consultazioni pubbliche e delle eventuali consultazioni transfrontaliere;»; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                dopo la lettera o-bis) sono inserite le seguenti: 
+ «o-ter) condizione ambientale del provvedimento di verifica di assoggettabilita' a VIA: prescrizione vincolante, se richiesta dal proponente, relativa alle caratteristiche del progetto ovvero alle misure previste per evitare o prevenire impatti ambientali significativi e negativi, eventualmente associata al provvedimento negativo di verifica di assoggettabilita' a VIA; 
+ o-quater) condizione ambientale del provvedimento di VIA: prescrizione vincolante eventualmente associata al provvedimento di VIA che definisce i requisiti per la realizzazione del progetto o l'esercizio delle relative attivita', ovvero le misure previste per evitare, prevenire, ridurre e, se possibile, compensare gli impatti ambientali significativi e negativi nonche', ove opportuno, le misure di monitoraggio; 
+ o-quinquies) autorizzazione: il provvedimento che abilita il proponente a realizzare il progetto;»; 
+
+                            
+                        
+                        
+                            i)
+                            
+                                la lettera p) e' sostituita dalla seguente: 
+ «p) autorita' competente: la pubblica amministrazione cui compete l'adozione del provvedimento di verifica di assoggettabilita' a VIA, l'elaborazione del parere motivato, nel caso di valutazione di piani e programmi, e l'adozione dei provvedimenti di VIA, nel caso di progetti ovvero il rilascio dell'autorizzazione integrata ambientale o del provvedimento comunque denominato che autorizza l'esercizio;».
 
 ## Art. 3. — Modifiche all'articolo 6 del decreto legislativo 
  3 aprile 2006, n. 152
 
+1.
+                    
+                        
+                            All'articolo 6 sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 2, lettera a), dopo le parole: «negli allegati II,» sono inserite le seguenti: «II-bis,»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                il comma 5 e' sostituito dal seguente: 
+ «5. La valutazione d'impatto ambientale si applica ai progetti che possono avere impatti ambientali significativi e negativi, come definiti all'articolo 5, comma 1, lettera c).»; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                il comma 6 e' sostituito dal seguente: 
+ «6. La verifica di assoggettabilita' a VIA e' effettuata per: 
+ a) i progetti elencati nell'allegato II alla parte seconda del presente decreto, che servono esclusivamente o essenzialmente per lo sviluppo ed il collaudo di nuovi metodi o prodotti e non sono utilizzati per piu' di due anni; 
+ b) le modifiche o le estensioni dei progetti elencati nell'allegato II, II-bis, III e IV alla parte seconda del presente decreto, la cui realizzazione potenzialmente possa produrre impatti ambientali significativi e negativi, ad eccezione delle modifiche o estensioni che risultino conformi agli eventuali valori limite stabiliti nei medesimi allegati II e III; 
+ c) i progetti elencati nell'allegato II-bis alla parte seconda del presente decreto, in applicazione dei criteri e delle soglie definiti dal decreto del Ministro dell'ambiente e della tutela del territorio e del mare del 30 marzo 2015, pubblicato nella Gazzetta Ufficiale n. 84 dell'11 aprile 2015; 
+ d) i progetti elencati nell'allegato IV alla parte seconda del presente decreto, in applicazione dei criteri e delle soglie definiti dal decreto del Ministro dell'ambiente e della tutela del territorio e del mare del 30 marzo 2015, pubblicato nella Gazzetta Ufficiale n. 84 dell'11 aprile 2015.»; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                il comma 7 e' sostituito dal seguente: 
+ «7. La VIA e' effettuata per: 
+ a) i progetti di cui agli allegati II e III alla parte seconda del presente decreto; 
+ b) i progetti di cui agli allegati II-bis e IV alla parte seconda del presente decreto, relativi ad opere o interventi di nuova realizzazione, che ricadono, anche parzialmente, all'interno di aree naturali protette come definite dalla legge 6 dicembre 1991, n. 394, ovvero all'interno di siti della rete Natura 2000; 
+ c) i progetti elencati nell'allegato II alla parte seconda del presente decreto, che servono esclusivamente o essenzialmente per lo sviluppo ed il collaudo di nuovi metodi o prodotti e non sono utilizzati per piu' di due anni, qualora, all'esito dello svolgimento della verifica di assoggettabilita' a VIA, l'autorita' competente valuti che possano produrre impatti ambientali significativi; 
+ d) le modifiche o estensioni dei progetti elencati negli allegati II e III che comportano il superamento degli eventuali valori limite ivi stabiliti; 
+ e) le modifiche o estensioni dei progetti elencati nell'allegato II, II-bis, III e IV alla parte seconda del presente decreto, qualora, all'esito dello svolgimento della verifica di assoggettabilita' a VIA, l'autorita' competente valuti che possano produrre impatti ambientali significativi e negativi; 
+ f) i progetti di cui agli allegati II-bis e IV alla parte seconda del presente decreto, qualora all'esito dello svolgimento della verifica di assoggettabilita' a VIA, in applicazione dei criteri e delle soglie definiti dal decreto del Ministro dell'ambiente e della tutela del territorio e del mare del 30 marzo 2015, pubblicato nella Gazzetta Ufficiale n. 84 dell'11 aprile 2015, l'autorita' competente valuti che possano produrre impatti ambientali significativi e negativi.»; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                il comma 8 e' soppresso; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                il comma 9 e' sostituito dal seguente: 
+ «9. Per le modifiche, le estensioni o gli adeguamenti tecnici finalizzati a migliorare il rendimento e le prestazioni ambientali dei progetti elencati negli allegati II, II-bis, III e IV alla parte seconda del presente decreto, fatta eccezione per le modifiche o estensioni di cui al comma 7, lettera d), il proponente, in ragione della presunta assenza di potenziali impatti ambientali significativi e negativi, ha la facolta' di richiedere all'autorita' competente, trasmettendo adeguati elementi informativi tramite apposite liste di controllo, una valutazione preliminare al fine di individuare l'eventuale procedura da avviare. L'autorita' competente, entro trenta giorni dalla presentazione della richiesta di valutazione preliminare, comunica al proponente l'esito delle proprie valutazioni, indicando se le modifiche, le estensioni o gli adeguamenti tecnici devono essere assoggettati a verifica di assoggettabilita' a VIA, a VIA, ovvero non rientrano nelle categorie di cui ai commi 6 o 7.»; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                il comma 10 e' sostituito dal seguente: 
+ «10. Per i progetti o parti di progetti aventi quale unico obiettivo la difesa nazionale e per i progetti aventi quali unico obiettivo la risposta alle emergenze che riguardano la protezione civile, il Ministro dell'ambiente e della tutela del territorio e del mare, di concerto con il Ministro dei beni e delle attivita' culturali e del turismo, dopo una valutazione caso per caso, puo' disporre, con decreto, l'esclusione di tali progetti dal campo di applicazione delle norme di cui al titolo III della parte seconda del presente decreto, qualora ritenga che tale applicazione possa pregiudicare i suddetti obiettivi.»; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                il comma 11 e' sostituito dal seguente: 
+ «11. Fatto salvo quanto previsto dall'articolo 32, il Ministro dell'ambiente e della tutela del territorio e del mare puo', in casi eccezionali, previo parere del Ministro dei beni e delle attivita' culturali e del turismo, esentare in tutto o in parte un progetto specifico dalle disposizioni di cui al titolo III della parte seconda del presente decreto, qualora l'applicazione di tali disposizioni incida negativamente sulla finalita' del progetto, a condizione che siano rispettati gli obiettivi della normativa nazionale ed europea in materia di valutazione di impatto ambientale. In tali casi il Ministro dell'ambiente e della tutela del territorio e del mare: 
+ a) esamina se sia opportuna un'altra forma di valutazione; 
+ b) mette a disposizione del pubblico coinvolto le informazioni raccolte con le altre forme di valutazione di cui alla lettera a), le informazioni relative alla decisione di esenzione e le ragioni per cui e' stata concessa; 
+ c) informa la Commissione europea, prima del rilascio dell'autorizzazione, dei motivi che giustificano l'esenzione accordata fornendo tutte le informazioni acquisite.».
+
 ## Art. 4. — Modifiche all'articolo 7 del decreto legislativo 
  3 aprile 2006, n. 152
+
+1.
+                    
+                        
+                            All'articolo 7 del decreto legislativo 3 aprile 2006, n. 152, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                la rubrica e' sostituita dalla seguente: 
+ «Competenze in materia di VAS e di AIA»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                il comma 5 e' sostituito dal seguente: 
+ «5. In sede statale, l'autorita' competente ai fini della VAS e dell'AIA e' il Ministero dell'ambiente e della tutela del territorio e del mare. Il parere motivato in sede di VAS e' espresso dal Ministro dell'ambiente e della tutela del territorio e del mare di concerto con il Ministro dei beni e delle attivita' culturali e del turismo, che collabora alla relativa attivita' istruttoria. Il provvedimento di AIA e' rilasciato dal Ministro dell'ambiente e della tutela del territorio e del mare.»; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                il comma 6 e' sostituito dal seguente: 
+ «6. In sede regionale, l'autorita' competente ai fini della VAS e dell'AIA e' la pubblica amministrazione con compiti di tutela, protezione e valorizzazione ambientale individuata secondo le disposizioni delle leggi regionali o delle Province autonome.»; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                il comma 7 e' sostituito dal seguente: 
+ «7. Le Regioni e le Province autonome di Trento e di Bolzano disciplinano con proprie leggi e regolamenti le competenze proprie e quelle degli altri enti locali in materia di VAS e di AIA.
+Disciplinano inoltre: 
+ a) i criteri per la individuazione degli enti locali territoriali interessati; 
+ b) i criteri specifici per l'individuazione dei soggetti competenti in materia ambientale; 
+ c) fermo il rispetto della legislazione europea, eventuali ulteriori modalita', rispetto a quelle indicate nel presente decreto, purche' con questo compatibili, per l'individuazione dei piani e programmi o progetti o installazioni da sottoporre a VAS ed AIA e per lo svolgimento della relativa consultazione; 
+ d) le modalita' di partecipazione delle regioni e province autonome confinanti al processo di VAS, in coerenza con quanto stabilito dalle disposizioni nazionali in materia; 
+ e) le regole procedurali per il rilascio dei provvedimenti di AIA e dei pareri motivati in sede di VAS di propria competenza, fermo restando il rispetto dei limiti generali di cui al presente decreto ed all'articolo 29 della legge 7 agosto 1990, n. 241, e successive modificazioni.».
 
 ## Art. 5. — Introduzione dell'articolo 7-bis nel decreto legislativo 
  3 aprile 2006, n. 152
@@ -74,6 +302,32 @@ All'atto del collocamento in fuori ruolo e' reso indisponibile per tutta la dura
 
 ## Art. 7. — Modifiche all'articolo 10 del decreto legislativo 
  3 aprile 2006, n. 152
+
+1.
+                    
+                        
+                            All'articolo 10 del decreto legislativo 3 aprile 2006, n. 152, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                la rubrica e' sostituita dalla seguente: «(Coordinamento delle procedure di VAS, VIA, Verifica di assoggettabilita' a VIA, Valutazione di incidenza e Autorizzazione integrata ambientale)»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                il comma 1 e' sostituito dal seguente: 
+ «1. Nel caso di progetti per i quali e' prevista la procedura di verifica di assoggettabilita' a VIA, l'autorizzazione integrata ambientale puo' essere rilasciata solo dopo che, ad esito della predetta procedura di verifica, l'autorita' competente abbia valutato di non assoggettare i progetti a VIA.»; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                al comma 4, le parole: «articolo 20» sono sostituite dalle seguenti: «articolo 19».
 
 ## Art. 8. — Sostituzione dell'articolo 19 del decreto legislativo 
  3 aprile 2006, n. 152
@@ -270,6 +524,24 @@ All'articolo 30 del decreto legislativo 3 aprile 2006, n. 152, il comma 2-bis e'
 ## Art. 20. — Modifiche all'articolo 32 del decreto legislativo 
  3 aprile 2006, n. 152
 
+1.
+                    
+                        
+                            All'articolo 32 del decreto legislativo 3 aprile 2006, n. 152, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 2, ultimo periodo, dopo la parola: «17,» e' inserita la seguente: «25,» e dopo la parola: «27» e' aggiunta la seguente: «27-bis,»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 5-bis le parole: «26, comma 1» sono sostituite dalle seguenti: «25, comma 2».
+
 ## Art. 21. — Modifiche all'articolo 33 del decreto legislativo 
  3 aprile 2006, n. 152
 
@@ -277,6 +549,99 @@ All'articolo 33 del decreto legislativo 3 aprile 2006, n. 152, il comma 1 e' sos
  «1. Le tariffe da applicare ai proponenti, determinate sulla base del costo effettivo del servizio, per la copertura dei costi sopportati dall'autorita' competente per l'organizzazione e lo svolgimento delle attivita' istruttorie, di monitoraggio e controllo delle procedure di verifica di assoggettabilita' a VIA, di VIA e di VAS sono definite con decreto del Ministro dell'ambiente e della tutela del territorio e del mare, di concerto con il Ministro dell'economia e delle finanze.».
 
 ## Art. 22. — Modifiche agli allegati alla parte seconda del decreto legislativo 3 aprile 2006, n. 152
+
+1.
+                    
+                        
+                            All'Allegato II alla parte seconda del decreto legislativo 3 aprile 2006, n. 152, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                al punto 2), sono aggiunti, infine, i seguenti sottopunti: 
+ «impianti termici per la produzione di energia elettrica, vapore e acqua calda con potenza termica complessiva superiore a 150 MW; 
+ impianti eolici per la produzione di energia elettrica sulla terraferma con potenza complessiva superiore a 30 MW.»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al punto 4-bis) le parole: «facenti parte della rete elettrica di trasmissione nazionale» sono abrogate; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                il punto 7) e' sostituito dai seguenti: 
+ «7) perforazione di pozzi finalizzati alla ricerca e coltivazione di idrocarburi liquidi e gassosi sulla terraferma e in mare; 
+ 7.1) coltivazione di idrocarburi liquidi e gassosi, sulla terraferma e in mare, per un quantitativo estratto superiore a 500 tonnellate al giorno per il petrolio e a 500.000 m³ al giorno per il gas naturale; 
+ 7.2) rilievi geofisici attraverso l'uso della tecnica airgun o esplosivo.»; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                il punto 7-quater) e' sostituito dal seguente: 
+ «7-quater) impianti geotermici pilota di cui all'articolo 1, comma 3-bis, del decreto legislativo 11 febbraio 2010, n. 22, e successive modificazioni, nonche' attivita' di ricerca e coltivazione di risorse geotermiche in mare.»; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                dopo il punto 7-quater e' inserito il seguente: 
+ «7-quinquies) attivita' di ricerca e coltivazione delle seguenti sostanze minerali: 
+ minerali utilizzabili per l'estrazione di metalli, metalloidi e loro composti; 
+ grafite, combustibili solidi, rocce asfaltiche e bituminose;  sostanze radioattive.»; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                il punto 8 e' sostituito dal seguente: 
+ «8) Stoccaggio: 
+ di petrolio, prodotti chimici, prodotti petroliferi e prodotti petrolchimici con capacita' complessiva superiore a 40.000 m³; 
+ superficiale di gas naturali con una capacita' complessiva superiore a 40.000 m³; 
+ sotterraneo artificiale di gas combustibili in serbatoi con una capacita' complessiva superiore a 80.000 m³; 
+ di prodotti di gas di petrolio liquefatto e di gas naturale liquefatto con capacita' complessiva superiore a 20.000 m³; 
+ di prodotti combustibili solidi con capacita' complessiva superiore a 150.000 tonnellate.»; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                il punto 9 e' sostituito dal seguente: 
+ «9) Condutture di diametro superiore a 800 mm e di lunghezza superiore a 40 km per il trasporto di gas, petrolio e prodotti chimici e per il trasporto dei flussi di biossido di carbonio (CO2 ) ai fini dello stoccaggio geologico, comprese le relative stazioni di spinta»; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                al punto 10), il secondo e terzo sottopunto sono sostituiti dai seguenti: 
+ «autostrade e strade extraurbane principali; 
+ strade extraurbane a quattro o piu' corsie o adeguamento di strade extraurbane esistenti a due corsie per renderle a quattro o piu' corsie, con una lunghezza ininterrotta di almeno 10 km;»; 
+
+                            
+                        
+                        
+                            i)
+                            
+                                al punto 11, primo periodo, dopo la parola «tonnellate» e' inserito il seguente periodo: 
+ «, nonche' porti con funzione turistica e da diporto quando lo specchio d'acqua e' superiore a 10 ettari o le aree esterne interessate superano i 5 ettari oppure i moli sono di lunghezza superiore ai 500 metri»; 
+
+                            
+                        
+                        
+                            l)
+                            
+                                al punto 17-bis, dopo la parola: «allegato» sono inserite le seguenti: «e nell'allegato III al presente decreto».
 
 Dopo l'Allegato II alla parte seconda del decreto legislativo 3 aprile 2006, n. 152, e' inserito il seguente: 
  
@@ -298,6 +663,134 @@ Dopo l'Allegato II alla parte seconda del decreto legislativo 3 aprile 2006, n. 
  f) porti con funzione turistica e da diporto, quando lo specchio d'acqua e' inferiore o uguale a 10 ettari, le aree esterne interessate non superano i 5 ettari e i moli sono di lunghezza inferiore o uguale a 500 metri; 
  g) coltivazione di idrocarburi liquidi e gassosi, sulla terraferma e in mare, per un quantitativo estratto fino a 500 tonnellate al giorno per il petrolio e a 500.000 m³ al giorno per il gas naturale; 
  h) modifiche o estensioni di progetti di cui all'allegato II, o al presente allegato gia' autorizzati, realizzati o in fase di realizzazione, che possono avere notevoli impatti ambientali significativi e negativi (modifica o estensione non inclusa nell'allegato II).»
+
+3.
+                    
+                        
+                            All'Allegato III alla parte seconda del decreto legislativo 3 aprile 2006, n. 152, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                il punto c-bis) e' sostituito dal seguente: 
+ «c-bis) Impianti eolici per la produzione di energia elettrica sulla terraferma con potenza complessiva superiore a 1 MW, qualora disposto all'esito della verifica di assoggettabilita' di cui all'articolo 19»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                il punto af-bis) e' sostituito dal seguente: 
+ «af-bis) strade urbane di scorrimento; 
+ 4. All'Allegato IV alla parte seconda del decreto legislativo 3 aprile 2006, n. 152, sono apportate le seguenti modificazioni: 
+ a) al punto 1, la lettera e), e' sostituita dalla seguente: 
+ «e) impianti di piscicoltura intensiva per superficie complessiva oltre i 5 ettari;»; 
+ b) il punto 2, e' sostituito dal seguente: 
+ «2. Industria energetica ed estrattiva: 
+ a) attivita' di ricerca sulla terraferma delle sostanze minerali di miniera di cui all'articolo 2, comma 2, del regio decreto 29 luglio 1927, n. 1443, ivi comprese le risorse geotermiche con esclusione degli impianti geotermici pilota di cui all'articolo 1, comma 3-bis, del decreto legislativo 11 febbraio 2010, n. 22, e successive modificazioni, incluse le relative attivita' minerarie; 
+ b) impianti industriali non termici per la produzione di energia, vapore ed acqua calda con potenza complessiva superiore a 1 MW; 
+ c) impianti industriali per il trasporto del vapore e dell'acqua calda, che alimentano condotte con una lunghezza complessiva superiore ai 20 km; 
+ d) impianti eolici per la produzione di energia elettrica sulla terraferma con potenza complessiva superiore a 1 MW; 
+ e) estrazione di sostanze minerali di miniera di cui all'articolo 2, comma 2, del regio decreto 29 luglio 1927, n. 1443, mediante dragaggio marino e fluviale; 
+ f) agglomerazione industriale di carbon fossile e lignite; 
+ g) impianti di superficie dell'industria di estrazione di carbon fossile e di minerali metallici nonche' di scisti bituminose; 
+ h) impianti per la produzione di energia idroelettrica con potenza nominale di concessione superiore a 100 kW e, per i soli impianti idroelettrici che rientrano nella casistica di cui all'articolo 166 del presente decreto ed all'articolo 4, punto 3.b, lettera i), del decreto del Ministro dello sviluppo economico del 6 luglio 2012, pubblicato nel supplemento ordinario alla Gazzetta Ufficiale n. 159 del 10 luglio 2012, con potenza nominale di concessione superiore a 250 kW; 
+ i) impianti di gassificazione e liquefazione del carbone;»; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                al punto 7 la lettera h) e' sostituita dalla seguente: 
+ «h) strade extraurbane secondarie non comprese nell'allegato II-bis e strade urbane con lunghezza superiore a 1.500 metri non comprese nell'allegato III;». 
+ 5. Dopo l'allegato IV e' inserito il seguente: 
+ 
+ «ALLEGATO IV-BIS 
+ Contenuti dello Studio Preliminare Ambientale 
+ di cui all'articolo 19 
+ 
+ 1. Descrizione del progetto, comprese in particolare: 
+ a) la descrizione delle caratteristiche fisiche dell'insieme del progetto e, ove pertinente, dei lavori di demolizione; 
+ b) la descrizione della localizzazione del progetto, in particolare per quanto riguarda la sensibilita' ambientale delle aree geografiche che potrebbero essere interessate. 
+ 2. La descrizione delle componenti dell'ambiente sulle quali il progetto potrebbe avere un impatto rilevante. 
+ 3. La descrizione di tutti i probabili effetti rilevanti del progetto sull'ambiente, nella misura in cui le informazioni su tali effetti siano disponibili, risultanti da: 
+ a) i residui e le emissioni previste e la produzione di rifiuti, ove pertinente; 
+ b) l'uso delle risorse naturali, in particolare suolo, territorio, acqua e biodiversita'. 
+ 4. Nella predisposizione delle informazioni e dei dati di cui ai punti da 1 a 3 si tiene conto, se del caso, dei criteri contenuti nell'allegato V. 
+ 5. Lo Studio Preliminare Ambientale tiene conto, se del caso, dei risultati disponibili di altre pertinenti valutazioni degli effetti sull'ambiente effettuate in base alle normative europee, nazionali e regionali e puo' contenere una descrizione delle caratteristiche del progetto e/o delle misure previste per evitare o prevenire quelli che potrebbero altrimenti rappresentare impatti ambientali significativi e negativi.». 
+ 6. L'Allegato V e' sostituito dal seguente: 
+ 
+ «ALLEGATO V 
+ Criteri per la verifica di assoggettabilita' 
+ di cui all'articolo 19 
+ 
+ 1. Caratteristiche dei progetti. 
+ Le caratteristiche dei progetti debbono essere considerate tenendo conto, in particolare: 
+ a) delle dimensioni e della concezione dell'insieme del progetto; 
+ b) del cumulo con altri progetti esistenti e/o approvati; 
+ c) dell'utilizzazione di risorse naturali, in particolare suolo, territorio, acqua e biodiversita'; 
+ d) della produzione di rifiuti; 
+ e) dell'inquinamento e disturbi ambientali; 
+ f) dei rischi di gravi incidenti e/o calamita' attinenti al progetto in questione, inclusi quelli dovuti al cambiamento climatico, in base alle conoscenze scientifiche; 
+ g) dei rischi per la salute umana quali, a titolo esemplificativo e non esaustivo, quelli dovuti alla contaminazione dell'acqua o all'inquinamento atmosferico. 
+ 2. Localizzazione dei progetti. 
+ Deve essere considerata la sensibilita' ambientale delle aree geografiche che possono risentire dell'impatto dei progetti, tenendo conto, in particolare: 
+ a) dell'utilizzazione del territorio esistente e approvato; 
+ b) della ricchezza relativa, della disponibilita', della qualita' e della capacita' di rigenerazione delle risorse naturali della zona (comprendenti suolo, territorio, acqua e biodiversita') e del relativo sottosuolo; 
+ c) della capacita' di carico dell'ambiente naturale, con particolare attenzione alle seguenti zone: 
+ c1) zone umide, zone riparie, foci dei fiumi; 
+ c2) zone costiere e ambiente marino; 
+ c3) zone montuose e forestali; 
+ c4) riserve e parchi naturali; 
+ c5) zone classificate o protette dalla normativa nazionale; i siti della rete Natura 2000; 
+ c6) zone in cui si e' gia' verificato, o nelle quali si ritiene che si possa verificare, il mancato rispetto degli standard di qualita' ambientale pertinenti al progetto stabiliti dalla legislazione dell'Unione; 
+ c7) zone a forte densita' demografica; 
+ c8) zone di importanza paesaggistica, storica, culturale o archeologica; 
+ c9) territori con produzioni agricole di particolare qualita' e tipicita' di cui all'articolo 21 del decreto legislativo 18 maggio 2001, n. 228. 
+ 3. Tipologia e caratteristiche dell'impatto potenziale. 
+ I potenziali impatti ambientali dei progetti debbono essere considerati in relazione ai criteri stabiliti ai punti 1 e 2 del presente allegato con riferimento ai fattori di cui all'articolo 5, comma 1, lettera c), del presente decreto, e tenendo conto, in particolare: 
+ a) dell'entita' ed estensione dell'impatto quali, a titolo esemplificativo e non esaustivo, area geografica e densita' della popolazione potenzialmente interessata; 
+ b) della natura dell'impatto; 
+ c) della natura transfrontaliera dell'impatto; 
+ d) dell'intensita' e della complessita' dell'impatto; 
+ e) della probabilita' dell'impatto; 
+ f) della prevista insorgenza, durata, frequenza e reversibilita' dell'impatto; 
+ g) del cumulo tra l'impatto del progetto in questione e l'impatto di altri progetti esistenti e/o approvati; 
+ h) della possibilita' di ridurre l'impatto in modo efficace.». 
+ 7. L'Allegato VII e' sostituito dal seguente: 
+ 
+ «ALLEGATO VII 
+ Contenuti dello Studio di Impatto Ambientale 
+ di cui all'articolo 22 
+ 
+ 1. Descrizione del progetto, comprese in particolare: 
+ a) la descrizione dell'ubicazione del progetto, anche in riferimento alle tutele e ai vincoli presenti; 
+ b) una descrizione delle caratteristiche fisiche dell'insieme del progetto, compresi, ove pertinenti, i lavori di demolizione necessari, nonche' delle esigenze di utilizzo del suolo durante le fasi di costruzione e di funzionamento; 
+ c) una descrizione delle principali caratteristiche della fase di funzionamento del progetto e, in particolare dell'eventuale processo produttivo, con l'indicazione, a titolo esemplificativo e non esaustivo, del fabbisogno e del consumo di energia, della natura e delle quantita' dei materiali e delle risorse naturali impiegate (quali acqua, territorio, suolo e biodiversita'); 
+ d) una valutazione del tipo e della quantita' dei residui e delle emissioni previsti, quali, a titolo esemplificativo e non esaustivo, inquinamento dell'acqua, dell'aria, del suolo e del sottosuolo, rumore, vibrazione, luce, calore, radiazione, e della quantita' e della tipologia di rifiuti prodotti durante le fasi di costruzione e di funzionamento; 
+ e) la descrizione della tecnica prescelta, con riferimento alle migliori tecniche disponibili a costi non eccessivi, e delle altre tecniche previste per prevenire le emissioni degli impianti e per ridurre l'utilizzo delle risorse naturali, confrontando le tecniche prescelte con le migliori tecniche disponibili. 
+ 2. Una descrizione delle principali alternative ragionevoli del progetto (quali, a titolo esemplificativo e non esaustivo, quelle relative alla concezione del progetto, alla tecnologia, all'ubicazione, alle dimensioni e alla portata) prese in esame dal proponente, compresa l'alternativa zero, adeguate al progetto proposto e alle sue caratteristiche specifiche, con indicazione delle principali ragioni della scelta, sotto il profilo dell'impatto ambientale, e la motivazione della scelta progettuale, sotto il profilo dell'impatto ambientale, con una descrizione delle alternative prese in esame e loro comparazione con il progetto presentato. 
+ 3. La descrizione degli aspetti pertinenti dello stato attuale dell'ambiente (scenario di base) e una descrizione generale della sua probabile evoluzione in caso di mancata attuazione del progetto, nella misura in cui i cambiamenti naturali rispetto allo scenario di base possano essere valutati con uno sforzo ragionevole in funzione della disponibilita' di informazioni ambientali e conoscenze scientifiche. 
+ 4. Una descrizione dei fattori specificati all'articolo 5, comma 1, lettera c), del presente decreto potenzialmente soggetti a impatti ambientali dal progetto proposto, con particolare riferimento alla popolazione, salute umana, biodiversita' (quali, a titolo esemplificativo e non esaustivo, fauna e flora), al territorio (quale, a titolo esemplificativo e non esaustivo, sottrazione del territorio), al suolo (quali, a titolo esemplificativo e non esaustivo, erosione, diminuzione di materia organica, compattazione, impermeabilizzazione), all'acqua (quali, a titolo esemplificativo e non esaustivo, modificazioni idromorfologiche, quantita' e qualita'), all'aria, ai fattori climatici (quali, a titolo esemplificativo e non esaustivo, emissioni di gas a effetto serra, gli impatti rilevanti per l'adattamento), ai beni materiali, al patrimonio culturale, al patrimonio agroalimentare, al paesaggio, nonche' all'interazione tra questi vari fattori. 
+ 5. Una descrizione dei probabili impatti ambientali rilevanti del progetto proposto, dovuti, tra l'altro: 
+ a) alla costruzione e all'esercizio del progetto, inclusi, ove pertinenti, i lavori di demolizione; 
+ b) all'utilizzazione delle risorse naturali, in particolare del territorio, del suolo, delle risorse idriche e della biodiversita', tenendo conto, per quanto possibile, della disponibilita' sostenibile di tali risorse; 
+ c) all'emissione di inquinanti, rumori, vibrazioni, luce, calore, radiazioni, alla creazione di sostanze nocive e allo smaltimento dei rifiuti; 
+ d) ai rischi per la salute umana, il patrimonio culturale, il paesaggio o l'ambiente (quali, a titolo esemplificativo e non esaustivo, in caso di incidenti o di calamita'); 
+ e) al cumulo con gli effetti derivanti da altri progetti esistenti e/o approvati, tenendo conto di eventuali criticita' ambientali esistenti, relative all'uso delle risorse naturali e/o ad aree di particolare sensibilita' ambientale suscettibili di risentire degli effetti derivanti dal progetto; 
+ f) all'impatto del progetto sul clima (quali, a titolo esemplificativo e non esaustivo, natura ed entita' delle emissioni di gas a effetto serra) e alla vulnerabilita' del progetto al cambiamento climatico; 
+ g) alle tecnologie e alle sostanze utilizzate. 
+ La descrizione dei possibili impatti ambientali sui fattori specificati all'articolo 5, comma 1, lettera c), del presente decreto include sia effetti diretti che eventuali effetti indiretti, secondari, cumulativi, transfrontalieri, a breve, medio e lungo termine, permanenti e temporanei, positivi e negativi del progetto.
+La descrizione deve tenere conto degli obiettivi di protezione dell'ambiente stabiliti a livello di Unione o degli Stati membri e pertinenti al progetto. 
+ 6. La descrizione da parte del proponente dei metodi di previsione utilizzati per individuare e valutare gli impatti ambientali significativi del progetto, incluse informazioni dettagliate sulle difficolta' incontrate nel raccogliere i dati richiesti (quali, a titolo esemplificativo e non esaustivo, carenze tecniche o mancanza di conoscenze) nonche' sulle principali incertezze riscontrate. 
+ 7. Una descrizione delle misure previste per evitare, prevenire, ridurre o, se possibile, compensare gli impatti ambientali significativi e negativi identificati del progetto e, ove pertinenti, delle eventuali disposizioni di monitoraggio (quale, a titolo esemplificativo e non esaustivo, la preparazione di un'analisi ex post del progetto). Tale descrizione deve spiegare in che misura gli impatti ambientali significativi e negativi sono evitati, prevenuti, ridotti o compensati e deve riguardare sia le fasi di costruzione che di funzionamento. 
+ 8. La descrizione degli elementi e dei beni culturali e paesaggistici eventualmente presenti, nonche' dell'impatto del progetto su di essi, delle trasformazioni proposte e delle misure di mitigazione e compensazione eventualmente necessarie. 
+ 9. Una descrizione dei previsti impatti ambientali significativi e negativi del progetto, derivanti dalla vulnerabilita' del progetto ai rischi di gravi incidenti e/o calamita' che sono pertinenti per il progetto in questione. A tale fine potranno essere utilizzate le informazioni pertinenti disponibili, ottenute sulla base di valutazioni del rischio effettuate in conformita' della legislazione dell'Unione (a titolo e non esaustivo la direttiva 2012/18/UE del Parlamento europeo e del Consiglio o la direttiva 2009/71/Euratom del Consiglio), ovvero di valutazioni pertinenti effettuate in conformita' della legislazione nazionale, a condizione che siano soddisfatte le prescrizioni del presente decreto. Ove opportuno, tale descrizione dovrebbe comprendere le misure previste per evitare o mitigare gli impatti ambientali significativi e negativi di tali eventi, nonche' dettagli riguardanti la preparazione a tali emergenze e la risposta proposta. 
+ 10. Un riassunto non tecnico delle informazioni trasmesse sulla base dei punti precedenti. 
+ 11. Un elenco di riferimenti che specifichi le fonti utilizzate per le descrizioni e le valutazioni incluse nello Studio di Impatto Ambientale. 
+ 12. Un sommario delle eventuali difficolta', quali lacune tecniche o mancanza di conoscenze, incontrate dal proponente nella raccolta dei dati richiesti e nella previsione degli impatti di cui al punto 5.».
 
 ## Art. 23. — Disposizioni transitorie e finali
 
@@ -342,6 +835,45 @@ Il decreto del Ministro dell'ambiente e della tutela del territorio e del mare d
 Con accordo ai sensi dell'articolo 15 della legge 8 agosto 1990, n. 241, il Ministero dell'ambiente e della tutela del territorio e del mare e il Ministero dei beni e delle attivita' culturali e del turismo definiscono forme e modalita' di raccordo per l'esercizio delle rispettive competenze disciplinate dal presente decreto.
 
 ## Art. 26. — Abrogazioni e modifiche
+
+1.
+                    
+                        
+                            Dalla data di entrata in vigore del presente decreto sono abrogate le seguenti disposizioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                il comma 2 dell'articolo 4; i commi 3 e 4 dell'articolo 7; i commi 1-bis, 1-ter e 2 dell'articolo 10; i commi 1 e 2 dell'articolo 34; il punto 4-ter dell'Allegato II alla parte seconda; le lettere c), h), h-bis), l), z) ed ab) dell'Allegato III alla parte seconda; i punti 7.e), 7.f), 7.g), 7.m), 7.p), 7.q) e 7.z) dell'Allegato IV alla parte seconda del decreto legislativo 3 aprile 2006, n. 152; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                il decreto del Presidente del Consiglio dei ministri 27 dicembre 1988, recante norme tecniche per la redazione degli studi di impatto ambientale e la formulazione del giudizio di compatibilita' di cui all'articolo 6, legge 8 luglio 1986, n. 349, adottate ai sensi dell'articolo 3 del decreto del Presidente del Consiglio dei ministri 10 agosto 1988, n. 377; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                l'articolo 9 del decreto del Presidente della Repubblica 14 maggio 2007, n. 90; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                l'articolo 7 del decreto-legge 23 maggio 2008, n. 90, convertito, con modificazioni, dalla legge 14 luglio 2008, n. 123; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                i commi 1, 2 e 3 dell'articolo 12 del decreto-legge 24 giugno 2014, n. 91, convertito, con modificazioni, dalla legge 11 agosto 2014, n. 116.
 
 All'articolo 7, comma 3, secondo periodo, del decreto legislativo 11 febbraio 2010, n. 22, la parola: «regionale», ovunque ricorra, e' soppressa.
 

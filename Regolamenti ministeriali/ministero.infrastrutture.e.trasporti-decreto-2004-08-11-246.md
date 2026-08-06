@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
 vigenza_date: 2006-03-07
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:38Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -31,6 +31,25 @@ Udito il parere del Consiglio di Stato espresso dalla Sezione consultiva per gli
 Ai soggetti elencati nell'articolo 12, commi 1 e 3, lettera a), del decreto legislativo 30 aprile 1992, n. 285, e successive modificazioni, abilitati a svolgere compiti di polizia stradale e riconosciuti idonei ai sensi degli articoli 3 e 4 del presente decreto, e' rilasciata una patente di servizio, conforme al modello di cui all'allegato A, per la guida di veicoli adibiti ai servizi di polizia stradale o di veicoli nella disponibilita' dell'Amministrazione utilizzati per l'espletamento di compiti istituzionali dell'ente di appartenenza.
 
 La patente rilasciata ai sensi dell'articolo 138 del decreto legislativo 30 aprile 1992, n. 285, e' equiparata a quella prevista dal comma 1.
+
+3.
+                    
+                        
+                            La patente di servizio e' rilasciata dal Prefetto, nell'ambito del territorio di competenza, a:
+ 
+                        
+                        
+                            a)
+                            
+                                appartenenti ai corpi ed ai servizi di polizia municipale;
+
+                            
+                        
+                        
+                            b)
+                            
+                                appartenenti ai corpi ed ai servizi di polizia provinciale.
+ Ai rimanenti soggetti di cui all'articolo 12, comma 1, e comma 3, lettera a), la patente di servizio e' rilasciata dal competente ufficio dell'Amministrazione di appartenenza ad eccezione dei dipendenti dell'ANAS per i quali, a seguito di istruttoria effettuata dal medesimo Ente, provvede il competente ufficio del Ministero delle infrastrutture e dei trasporti, che stabilisce con proprio decreto i criteri e le modalita' di rilascio.
 
 La patente di servizio autorizza a condurre gli stessi veicoli per i quali il conducente e' abilitato a guidare con la patente conseguita ai sensi degli articoli 116 e 138 del decreto legislativo 30 aprile 1992, n. 285.
  A tal fine, nell'ambito della patente di servizio sono individuati i seguenti tipi di abilitazione:

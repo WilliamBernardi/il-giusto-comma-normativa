@@ -8,8 +8,8 @@ vigente: true
 source: normattiva-opendata
 collection: Leggi delega e relativi provvedimenti delegati
 vigenza_date: 2026-06-12
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:41:20Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -53,6 +53,69 @@ Il capo dell'ufficio, anche avvalendosi dei magistrati da lui individuati, dirig
 
 ## Art. 4. — Componenti degli uffici per il processo e dell'ufficio spoglio, analisi e documentazione
 
+1.
+                        
+                            
+                                
+                                    ((Agli uffici per il processo e all'ufficio spoglio, analisi e documentazione possono essere assegnate le seguenti figure professionali;))
+                                
+                            
+                            
+                                a)
+                                
+                                    quanto agli uffici per il processo presso il tribunale, i giudici onorari di pace di cui agli articoli 10 e 30, comma 1, lettera a), del decreto legislativo 13 luglio 2017, n. 116; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    quanto agli uffici per il processo presso le corti di appello, i giudici ausiliari di cui agli articoli 62 e seguenti del decreto-legge 21 giugno 2013, n. 69, convertito, con modificazioni, dalla legge 9 agosto 2013, n. 98, fino a quando non sara' completato il riordino del ruolo e delle funzioni della magistratura onoraria nei tempi stabiliti dall'articolo 32 del decreto legislativo 13 luglio 2017, n. 116; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    i tirocinanti di cui all'articolo 73 del decreto-legge 21 giugno 2013, n. 69, convertito, con modificazioni, dalla legge 9 agosto 2013, n. 98; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    coloro che svolgono la formazione professionale a norma dell'articolo 37, comma 5, del decreto-legge 6 luglio 2011, n. 98, convertito, con modificazioni, dalla legge 15 luglio 2011, n. 111; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    il personale delle cancellerie o delle segreterie giudiziarie; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    
+                                        ((il personale assunto che ha prestato servizio ai sensi dell'articolo 11 del decreto-legge 9 giugno 2021, n. 80, convertito, con modificazioni, dalla legge 6 agosto 2021, n. 113)); 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    
+                                        ((LETTERA SOPPRESSA DAL D.L. 12 GIUGNO 2026, N. 100)); 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    ogni altra figura professionale istituita dalla legge per lo svolgimento di una o piu' delle attivita' previste dal presente decreto.
+
 Ciascun componente svolge i compiti attribuiti all'ufficio per il processo e all'ufficio spoglio, analisi e documentazione secondo quanto previsto dalla normativa, anche regolamentare, e dalla contrattazione collettiva che regolano la figura professionale cui appartiene.
 
 Salvo che il giudice ritenga di non ammetterli, i componenti dell'ufficio per il processo che assistono il magistrato hanno accesso ai fascicoli processuali, partecipano alle udienze del processo, anche non pubbliche e dinanzi al collegio, e hanno accesso alla camera di consiglio, nei limiti in cui e' necessario per l'adempimento dei compiti previsti dalla legge. Possono altresi' essere ammessi alle riunioni indette dai presidenti di sezione.
@@ -65,27 +128,267 @@ I componenti dell'ufficio per il processo sono tenuti all'obbligo di riservatezz
 
 ## Art. 5. — ((Compiti dell'ufficio per il processo civile presso i tribunali e le corti d'appello))
 
+1.
+                        
+                            
+                                
+                                    ((All'ufficio per il processo civile costituito presso i tribunali ordinari, i tribunali per i minorenni e le corti di appello sono attribuiti i seguenti compiti:))
+                                
+                            
+                            
+                                a)
+                                
+                                    attivita' preparatorie e di supporto ai compiti del magistrato, quali: studio del fascicolo, compilazione di schede riassuntive, preparazione delle udienze e delle camere di consiglio, selezione dei presupposti di mediabilita' della lite, ricerche di giurisprudenza e dottrina, predisposizione di bozze di provvedimenti, assistenza alla verbalizzazione; 
 
+                                
+                            
+                            
+                                b)
+                                
+                                    supporto al magistrato nello svolgimento delle verifiche preliminari previste dall'articolo 171-bis del codice di procedura civile nonche' nell'individuazione dei procedimenti contemplati dall'articolo 348-bis del codice di procedura civile; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    raccordo e coordinamento fra l'attivita' del magistrato e quella delle cancellerie e dei servizi amministrativi degli uffici giudiziari; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    raccolta, catalogazione e archiviazione dei provvedimenti dell'ufficio, anche attraverso banche dati di giurisprudenza locale; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    supporto per l'utilizzo degli strumenti informatici; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    assistenza per l'analisi dei flussi statistici e per il monitoraggio di attivita' dell'ufficio; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    supporto per l'attuazione dei progetti organizzativi finalizzati ad incrementare la capacita' produttiva dell'ufficio, ad abbattere l'arretrato e a prevenirne la formazione.
+
+((Il personale di cui all'articolo 4, comma 1, lettera f), e' impiegato in via ordinaria nelle attivita' di cui al comma 1, lettere a), b) e c) , salvo i casi di urgente e comprovata necessita'.))
 
 ## Art. 6. — ((Compiti dell'ufficio per il processo penale presso i tribunali e le corti d'appello))
 
+1.
+                        
+                            
+                                
+                                    ((All'ufficio per il processo penale costituito presso i tribunali ordinari, i tribunali di sorveglianza, gli uffici di sorveglianza, i tribunali per i minorenni e le corti di appello sono attribuiti i seguenti compiti:))
+                                
+                            
+                            
+                                a)
+                                
+                                    coadiuvare uno o piu' magistrati e, sotto la direzione e il coordinamento degli stessi, compiere tutti gli atti preparatori utili per l'esercizio della funzione giudiziaria da parte del magistrato, provvedendo, in particolare, allo studio dei fascicoli e alla preparazione dell'udienza, all'approfondimento giurisprudenziale e dottrinale e alla predisposizione delle bozze dei provvedimenti; 
 
+                                
+                            
+                            
+                                b)
+                                
+                                    prestare assistenza ai fini dell'analisi delle pendenze e dei flussi delle sopravvenienze, del monitoraggio dei procedimenti di data piu' risalente e della verifica delle comunicazioni e delle notificazioni; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    incrementare la capacita' produttiva dell'ufficio, attraverso la valorizzazione e la messa a disposizione dei precedenti, con compiti di organizzazione delle decisioni, in particolare di quelle aventi un rilevante grado di serialita', e con la formazione di una banca dati dell'ufficio giudiziario di riferimento; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    fornire supporto al magistrato nell'accelerazione dei processi di innovazione tecnologica.
+
+((Il personale di cui all'articolo 4, comma 1, lettera f), e' impiegato in via ordinaria nelle attivita' di cui al comma 1, lettere a), b) e c), salvo i casi di urgente e comprovata necessita'.))
 
 L'ufficio per il processo penale istituito presso la corte di appello effettua prioritariamente uno spoglio mirato dei fascicoli al fine di individuare la prossima scadenza dei termini e la maturazione dell'improcedibilita' per superamento dei termini di durata massima del giudizio di impugnazione.
 
 ## Art. 7. — Compiti dell'ufficio per il processo civile 
  presso la Corte di cassazione
 
+1.
+                        
+                            
+                                All'ufficio per il processo civile istituito presso la Corte di cassazione sono attribuiti uno o piu' fra i seguenti compiti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    assistenza per l'analisi delle pendenze e dei flussi delle sopravvenienze; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    supporto al presidente della Corte di cassazione ai fini dell'adozione dei provvedimenti previsti dall'articolo 363-bis, terzo comma, del codice di procedura civile e nella formulazione delle proposte di definizione di cui all'articolo 380-bis del codice di procedura civile; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    supporto ai magistrati, comprendente, tra l'altro, la compilazione della scheda del ricorso, corredata delle informazioni pertinenti quali la materia, la sintesi dei motivi e l'esistenza di precedenti specifici, lo svolgimento dei compiti necessari per l'organizzazione delle udienze e delle camere di consiglio, anche con l'individuazione di tematiche seriali; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    svolgimento di attivita' preparatorie relative ai provvedimenti giurisdizionali, quali ricerche di giurisprudenza, di legislazione, di dottrina e predisposizione di relazioni; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    supporto per l'utilizzo degli strumenti informatici; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    raccolta di materiale e documentazione anche per le attivita' necessarie per l'inaugurazione dell'anno giudiziario.
+
 ## Art. 8. — Compiti dell'ufficio per il processo penale 
  presso la Corte di cassazione
 
+1.
+                        
+                            
+                                All'ufficio per il processo penale presso la Corte di cassazione sono attribuiti i seguenti compiti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    assistenza per l'analisi delle pendenze e dei flussi delle sopravvenienze e per la verifica delle comunicazioni e delle notificazioni; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    supporto ai magistrati nella complessiva gestione dei ricorsi e dei provvedimenti giudiziari, mediante, tra l'altro: 
+ 1) la compilazione della scheda del ricorso, corredata delle informazioni pertinenti quali la materia, la sintesi dei motivi e l'esistenza di precedenti specifici; 
+ 2) lo svolgimento dei compiti necessari per l'organizzazione delle udienze e delle camere di consiglio; 
+ 3) l'assistenza nella fase preliminare dello spoglio dei ricorsi, anche attraverso l'individuazione di tematiche seriali, la selezione dei procedimenti che presentano requisiti di urgenza, anche in considerazione dell'improcedibilita' per superamento dei termini di cui all'articolo 344-bis del codice di procedura penale, la verifica della compiuta indicazione dei dati di cui all'articolo 165-bis delle norme di attuazione, di coordinamento e transitorie del codice di procedura penale, di cui al decreto legislativo 28 luglio 1989, n. 271, e la verifica della documentazione inviata dal tribunale del riesame nel caso di ricorso immediato per cassazione; 
+ 4) lo svolgimento di attivita' preparatorie relative ai provvedimenti giurisdizionali, quali ricerche di giurisprudenza, di legislazione, di dottrina e di documentazione; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    supporto per l'ottimale utilizzo degli strumenti informatici; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    ausilio ai fini della formazione del ruolo delle udienze dell'apposita sezione di cui all'articolo 610, comma 1, del codice di procedura penale; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    raccolta di materiale e documentazione anche per le attivita' necessarie per l'inaugurazione dell'anno giudiziario.
+
 ## Art. 9. — Compiti dell'ufficio spoglio, analisi e documentazione 
  presso la Procura generale della Corte di cassazione
+
+1.
+                        
+                            
+                                All'ufficio spoglio, analisi e documentazione presso la Procura generale della Corte di cassazione sono attribuiti uno o piu' fra i seguenti compiti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    assistenza per l'analisi preliminare dei procedimenti ai fini dell'eventuale intervento, della formulazione delle conclusioni e della predisposizione delle memorie da depositare dinanzi alle sezioni unite e alle sezioni semplici della Corte; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    supporto ai magistrati comprendente, tra l'altro, la compilazione della scheda del ricorso, l'attivita' di ricerca e analisi su precedenti, orientamenti e prassi degli uffici giudiziari di merito che formano oggetto dei ricorsi e l'individuazione delle questioni che possono formare oggetto del procedimento per l'enunciazione del principio di diritto nell'interesse della legge previsto dall'articolo 363 del codice di procedura civile; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    supporto per l'utilizzo degli strumenti informatici; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    raccolta di materiale e documentazione per la predisposizione dell'intervento del procuratore generale in occasione dell'inaugurazione dell'anno giudiziario.
 
 L'ufficio spoglio, analisi e documentazione opera sotto la supervisione e gli indirizzi degli avvocati generali e dei magistrati dell'ufficio.
 
 ## Art. 10. — Compiti dell'ufficio per il processo penale 
  presso la Procura generale della Corte di cassazione
+
+1.
+                        
+                            
+                                All'ufficio per il processo penale presso la Procura generale della Corte di cassazione sono attribuiti i seguenti compiti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    assistenza ai magistrati per l'analisi preliminare dei procedimenti che pervengono per la requisitoria, per la formulazione delle richieste e per il deposito delle memorie dinanzi alle sezioni unite e alle sezioni semplici della Corte di cassazione; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    supporto ai magistrati nell'attivita' di ricerca e di analisi dei precedenti, degli orientamenti giurisprudenziali e delle prassi degli uffici giudiziari di merito che formano oggetto dei ricorsi, nonche' nell'esame delle questioni che possono richiedere l'assegnazione del ricorso alle sezioni unite; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    supporto per l'utilizzo degli strumenti informatici; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    raccolta di materiale e documentazione per la predisposizione dell'intervento del procuratore generale in occasione dell'inaugurazione dell'anno giudiziario.
 
 L'ufficio per il processo penale presso la Procura generale della Corte di cassazione opera sotto la direzione e il coordinamento degli avvocati generali e dei magistrati dell'ufficio.
 
@@ -138,6 +441,48 @@ Salvo quanto previsto dal comma 1, il Consiglio Superiore della Magistratura e i
 I giudici onorari assegnati ai tribunali per i minorenni al momento dell'istituzione del tribunale per le persone, per i minorenni e per le famiglie, ferme le disposizioni che prevedono la loro presenza nella composizione dei collegi per i minorenni e per le famiglie nella sezione distrettuale, sono assegnati all'ufficio per il processo, oltre che nella sua articolazione distrettuale in relazione alle sue competenze, anche nelle articolazioni circondariali, per lo svolgimento delle loro funzioni.
 
 ## Art. 18. — Modifiche e abrogazioni
+
+1.
+                        
+                            
+                                Al codice di procedura civile sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    
+                                        dopo l'articolo 58 e' inserito il seguente: 
+ «Art. 58-bis (Ufficio per il processo). - L'ufficio per il processo presso i tribunali ordinari, le corti di appello e la Corte di cassazione e l'ufficio spoglio, analisi e documentazione presso la Procura generale della Corte di cassazione operano secondo le disposizioni della legge speciale»;
+                                    
+                                
+                            
+                            
+                                b)
+                                
+                                    
+                                        al libro I, titolo I, la rubrica del capo II e' sostituita dalla seguente: «Del cancelliere, dell'ufficio per il processo e dell'ufficiale giudiziario».
+
+2.
+                        
+                            
+                                Al codice di procedura penale sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    
+                                        all'articolo 124, comma 1, dopo la parola «ausiliari» sono inserite le seguenti: «e collaboratori»;
+                                    
+                                
+                            
+                            
+                                b)
+                                
+                                    
+                                        all'articolo 126, dopo il comma 1, e' aggiunto il seguente:
+«1-bis. Il giudice e' supportato dall'ufficio per il processo penale nei limiti dei compiti a questo attribuiti dalla legge.».
 
 All'articolo 9, comma 2, del decreto legislativo 13 luglio 2017, n. 116, le parole «a norma dell'articolo 16-octies del decreto-legge 18 ottobre 2012, n. 179, convertito, con modificazioni, dalla legge 27 dicembre 2012, n. 221
                                     » sono sostituite dalle seguenti: «a norma del decreto legislativo recante norme sull'ufficio per il processo, in attuazione della legge 26 novembre 2021, n. 206 e della legge 27 settembre 2021, n. 134

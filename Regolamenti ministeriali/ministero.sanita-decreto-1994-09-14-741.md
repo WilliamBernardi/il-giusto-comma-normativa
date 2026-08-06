@@ -8,8 +8,8 @@ codice_redazionale: 095G0003
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:40Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -25,7 +25,57 @@ Udito il parere del Consiglio di Stato, espresso nell'adunanza generale del 4 lu
 
 E' individuata la figura del fisioterapista con il seguente profilo: il fisioterapista e' l'operatore sanitario, in possesso del diploma universitario abilitante, che svolge in via autonoma, o in collaborazione con altre figure sanitarie, gli interventi di prevenzione, cura e riabilitazione nelle aree della motricita', delle funzioni corticali superiori, e di quelle viscerali conseguenti a eventi patologici, a varia eziologia, congenita od acquisita.
 
+2.
+                    
+                        
+                            In riferimento alla diagnosi ed alle prescrizioni del medico, nell'ambito delle proprie competenze, il fisioterapista:
+ 
+                        
+                        
+                            a)
+                            
+                                elabora, anche in equipe multidisciplinare, la definizione del programma di riabilitazione volto all'individuazione ed al superamento del bisogno di salute del disabile;
+
+                            
+                        
+                        
+                            b)
+                            
+                                pratica autonomamente attivita' terapeutica per la rieducazione funzionale delle disabilita' motorie, psicomotorie e cognitive utilizzando terapie fisiche, manuali, massoterapiche e occupazionali;
+
+                            
+                        
+                        
+                            c)
+                            
+                                propone l'adozione di protesi ed ausili, ne addestra all'uso e ne verifica l'efficacia;
+
+                            
+                        
+                        
+                            d)
+                            
+                                verifica le rispondenze della metodologia riabilitativa attuata agli obiettivi di recupero funzionale.
+
 Svolge attivita' di studio, didattica e consulenza professionale, nei servizi sanitari ed in quelli dove si richiedono le sue competenze professionali;
+
+4.
+                    
+                        
+                            Il fisioterapista, attraverso la formazione complementare, integra la formazione di base con indirizzi di specializzazione nel settore della psicomotricita' e della terapia occupazionale:
+ 
+                        
+                        
+                            a)
+                            
+                                la specializzazione in psicomotricita' consente al fisioterapista di svolgere anche l'assistenza riabilitativa sia psichica che fisica di soggetti in eta' evolutiva con deficit neurosensoriale o psichico;
+
+                            
+                        
+                        
+                            b)
+                            
+                                la specializzazione in terapia occupazionale consente al fisioterapista di operare anche nella traduzione funzionale della motricita' residua, al fine dello sviluppo di compensi funzionali alla disabilita', con particolare riguardo all'addestramento per conseguire l'autonomia nella vita quotidiana, di relazione (studio-lavoro-tempo libero), anche ai fini dell'utilizzo di vari tipi di ausili in dotazione alla persona o all'ambiente.
 
 Il percorso formativo viene definito con decreto del Ministero della sanita' e si conclude con il rilascio di un attestato di formazione specialistica che costituisce titolo preferenziale per l'esercizio delle funzioni specifiche nelle diverse aree, dopo il superamento di apposite prove valutative. La natura preferenziale del titolo e' strettamente legata alla sussistenza di obiettive necessita' del servizio e recede in presenza di mutate condizioni di fatto.
 

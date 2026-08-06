@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: DPR
 vigenza_date: 2001-05-09
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:47:41Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -40,9 +40,89 @@ Nei confronti del personale di cui al decreto-legge 2 marzo 1987, n. 57, convert
 
 ## Art. 2. — Accordi decentrati
 
+1.
+                        
+                            
+                                Nell'ambito, nei limiti e sulla base dei criteri stabiliti dal presente decreto e dal decreto del Presidente della Repubblica 1 febbraio 1986, n. 13, e nel rispetto della peculiarita' dell'ordinamento universitario, sono demandati alla negoziazione decentrata a livello di ateneo le seguenti materie:
+ 
+                            
+                            
+                                a)
+                                
+                                    l'organizzazione del lavoro secondo criteri di produttivita' e di efficienza;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la programmazione dell'orario di servizio, l'articolazione dell'orario di lavoro nonche' le modalita' di accertamento del suo rispetto;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    le proposte per la determinazione del fabbisogno e l'utilizzazione del lavoro straordinario;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    l'individuazione delle misure per la sicurezza, la salubrita' dell'ambiente di lavoro, nonche' per l'utilizzazione delle strutture, dei locali e delle attrezzature;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    la predisposizione dei progetti di produttivita' e l'individuazione dei destinatari dei relativi incentivi;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    i programmi per la realizzazione di servizi sociali da mettere a disposizione del personale;
+
+                                
+                            
+                            
+                                g)
+                                
+                                    proposte per l'attuazione di pari opportunita' attraverso piani di azioni positive in favore delle lavoratrici;
+
+                                
+                            
+                            
+                                h)
+                                
+                                    le altre materie, anche relative al trattamento economico accessorio, espressamente demandate dal presente decreto o da specifiche norme alla negoziazione decentrata.
+
 Con la negoziazione decentrata a livello nazionale sulle materie indicate nel comma 1, possono essere definiti criteri e direttive intesi a conseguire uniformita' di conduzione e di risultati fra le diverse universita'.
 
 ## Art. 3. — Titolari del potere di negoziazione decentrata
+
+1.
+                        
+                            
+                                I titolari del potere di negoziazione decentrata a livello di ateneo sono:
+ 
+                            
+                            
+                                a)
+                                
+                                    Per la parte pubblica:
+ 1) una delegazione presieduta dal rettore, anche nella sua qualita' di presidente del consiglio di amministrazione, ovvero da un suo delegato ufficiale. Negli osservatori astronomici, astrofisici e Vesuviano e nelle opere universitarie delle regioni a statuto speciale la delegazione di parte pubblica e' presieduta, rispettivamente, dal direttore e dal presidente, ovvero da loro delegati ufficiali.
+
+                                
+                            
+                            
+                                b)
+                                
+                                    Per la parte sindacale:
+ 1) una delegazione composta da rappresentanti di ciascuna organizzazione sindacale maggiormente rappresentativa nell'ateneo che abbia adottato codici di autoregolamentazione dell'esercizio del diritto di sciopero uguali a quelli adottati dalle organizzazioni sindacali firmatarie dell'accordo recepito dal presente decreto e delle confederazioni maggiormente rappresentative su base nazionale.
 
 Per la negoziazione decentrata a livello nazionale la delegazione di parte pubblica e' presieduta dal Ministro o da un suo delegato.
 
@@ -68,6 +148,38 @@ Gli accordi sono recepiti con decreto o provvedimento amministrativo formale ent
 
 ## Art. 6. — Orario di lavoro
 
+1.
+                        
+                            
+                                Nel rispetto dell'orario massimo giornaliero stabilito per legge, la programmazione dell'orario di servizio e l'articolazione dell'orario di lavoro saranno regolamentati, tenuto conto anche dei principi di cui alla legge 29 gennaio 1986, n. 23, in sede di accordi decentrati, secondo i seguenti criteri:
+ 
+                            
+                            
+                                a)
+                                
+                                    migliore efficienza e produttivita';
+
+                                
+                            
+                            
+                                b)
+                                
+                                    piu' efficace erogazione dei servizi a favore degli utenti;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    ampliamento dell'arco temporale della fruibilita' dei servizi con il ricorso preferenziale ad articolazioni degli orari connesse con la natura delle prestazioni e con le caratteristiche funzionali dei servizi che possono richiedere orari diversi e anche piu' prolungati;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    possibilita' di procedere ad una riduzione progressiva del ricorso al lavoro straordinario, in relazione anche al grado di copertura dei posti previsti in organico.
+
 Pertanto l'orario settimanale di lavoro, distribuito su sei o cinque giornate lavorative, puo' essere articolato, in termini di flessibilita', turnazione, frazionamento, tempo parziale in modo da assicurare il funzionamento delle strutture anche in ore pomeridiane ed, ove necessario, anche notturne.
 
 Il rispetto degli orari di lavoro, come stabiliti dall'accordo, deve essere accertato mediante controlli obiettivi, anche di tipo automatico.
@@ -75,6 +187,31 @@ Il rispetto degli orari di lavoro, come stabiliti dall'accordo, deve essere acce
 Fatta salva la possibilita' di una migliore specificazione dei criteri indicati nei precedenti commi, in sede di accordi decentrati per singole Universita', saranno individuate le modalita' di attuazione in concreto di detta articolazione, tenendo conto delle realta' locali e per meglio corrispondere alle esigenze delle strutture.
 
 Gli istituti riguardanti la flessibilita' dell'orario dei servizi, la turnazione e il tempo parziale possono anche coesistere al fine di rendere concreta la gestione flessibile e mirata dell'organizzazione dei servizi, della dinamica degli organici e dei carichi di lavoro.
+
+6.
+                        
+                            
+                                A tal fine gli accordi decentrati utilizzeranno, quali parametri principali per l'articolazione dell'orario di lavoro, i seguenti:
+ 
+                            
+                            
+                                a)
+                                
+                                    il grado di miglioramento dell'organizzazione del lavoro;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il miglioramento, in termini di coordinamento, del rapporto funzionale tra unita' organiche appartenenti alla medesima struttura, ovvero tra loro correlate sul piano dell'attivita';
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il grado di intensificazione dei rapporti con l'utenza interna ed esterna che deve essere posta in condizione di accedere piu' facilmente alle strutture, uffici, sportelli e servizi delle Universita'.
 
 Ove necessario, qualora con le predette modalita' di articolazione dell'orario di lavoro non siano perseguibili le finalita' connesse alla piu' proficua efficienza, e' consentita la programmazione plurisettimanale dell'orario di lavoro, di norma, entro i limiti di ventiquattro ore e quarantotto massime settimanali.
 
@@ -97,6 +234,45 @@ Tale recupero puo' avvenire anche con la concessione di giorni di riposo compens
 ## Art. 8. — Turnazioni
 
 Laddove l'orario ordinario e l'orario flessibile o frazionato non riescano ad assicurare l'effettuazione di determinati servizi, ovvero lo svolgimento di attivita' particolarmente articolate o diluite nel tempo o che per essere concluse devono attenersi a tempi tecnici non comprimibili o modificabili, l'organizzazione del lavoro puo' essere articolata su due o piu' turni, secondo quanto stabilito dall'art. 2 della legge 29 gennaio 1986, n. 23.
+
+2.
+                        
+                            
+                                I criteri direttivi che devono essere osservati per l'adozione dell'orario di lavoro su turni sono i seguenti:
+ 
+                            
+                            
+                                a)
+                                
+                                    l'adozione del lavoro su turni deve corrispondere ad esigenze non sopprimibili o comprimibili in quanto imposte dall'osservanza di particolari prescrizioni o dalla sequenza di operazioni tecniche collegate od interdipendenti;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'adozione di turni puo' essere altresi' correlata, e quindi limitata nel tempo, allo svolgimento di determinati compiti a stretto tempo di adempimento, ovvero a scadenze periodiche, che ancorche' conosciute, non consentano una programmazione di tipo ordinario per le fasi finali o di completamento di specifici processi, specie tecnici;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    l'adozione dei turni puo' anche prevedere, per limitate aliquote di personale del turno subentrante, una sovrapposizione, da definirsi in sede di negoziazione decentrata, con il turno precedente ai fini dello scambio di consegne, di materiali specifici e di istruzioni, ovvero di affiancamento per esecuzione di attivita' particolarmente delicate o pericolose, nonche' per il controllo dei sistemi sussidiari di sicurezza, in senso generale e di allarme;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    il ricorso al lavoro su turni presuppone, specie quando non connessi a particolari fasi del processo produttivo, la distribuzione del personale, nei vari turni, ripartito sulla base delle professionalita' che devono essere presenti in ciascun turno, con assoluta preminenza, quindi nell'interesse dell'amministrazione su ogni altro;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    il numero dei turni pomeridiani e/o notturni effettuabili nell'arco del mese da ciascun operatore non puo' essere superiore a dieci, facendo comunque salve le esigenze imprevedibili ed eccezionali o quelle derivanti da calamita' o eventi naturali. Per le esigenze funzionali dei policlinici universitari il numero dei turni di servizio pomeridiani e/o notturni sara' definito dal rettore, di intesa con le organizzazioni sindacali interessate.
 
 ## Art. 9. — Permessi e ritardi - Recuperi
 
@@ -124,6 +300,45 @@ I lavori della predetta commissione dovranno concludersi con apposita articolata
 
 Nell'ottava qualifica funzionale dell'area amministrativa-contabile e' istituito il seguente profilo professionale: segretario amministrativo del Dipartimento.
 
+4.
+                        
+                            
+                                Al segretario del Dipartimento competono, sulla base delle direttive degli organi di governo del Dipartimento, funzioni di:
+ 
+                            
+                            
+                                a)
+                                
+                                    collaborazione con il direttore del Dipartimento per le attivita' volte al migliore funzionamento della struttura, ivi compresa l'organizzazione dei corsi, dei convegni, e dei seminari;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    predisposizione tecnica del bilancio preventivo e consuntivo, nonche' della situazione patrimoniale;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    coordinamento delle attivita' amministrativo-contabili assumendo la responsabilita', in solido con il direttore, dei conseguenti atti;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    partecipazione alle sedute del consiglio e della giunta del Dipartimento con funzioni di segretario verbalizzante;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    altre attivita' che saranno individuate dalla commissione di cui al comma 1.
+
 In sede di prima applicazione del presente decreto sono inquadrati nei suddetti profilo professionale e qualifica funzionale il personale che, alla data di entrata in vigore del menzionato decreto, espletino le funzioni di segretario del Dipartimento ed appartengono all'ottava qualifica funzionale.
 
 Sono altresi' inquadrati nei suddetti profilo professionale e qualifica funzionale gli appartenenti alla settima qualifica funzionale che alla data del 1 settembre 1987 espletino le funzioni e superino apposito concorso per esami ad essi riservato.
@@ -137,6 +352,38 @@ La ricorrenza del Santo Patrono viene riconosciuta giornata festiva.
 ## - Capo IV RELAZIONI SINDACALI
 
 ## Art. 13. — Informazione
+
+1.
+                        
+                            
+                                In applicazione di quanto stabilito negli articoli 18 e 20 del decreto del Presidente della Repubblica 1 febbraio 1986, n. 13, l'amministrazione, a tutti i livelli, assicura una preventiva, costante, tempestiva e periodica informazione alle organizzazioni sindacali di cui all'art. 3, comma 1, lettera b), ed, in particolare, sulle seguenti materie:
+ 
+                            
+                            
+                                a)
+                                
+                                    atti e provvedimenti che riguardano il personale, l'organizzazione del lavoro, la politica degli organici, il funzionamento dei servizi, le innovazioni tecnologiche;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    atti e provvedimenti relativi a materie non soggette a contrattazione dai quali comunque derivino conseguenze riguardanti il personale e l'organizzazione del lavoro;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    investimenti e programmi dell'Universita';
+
+                                
+                            
+                            
+                                d)
+                                
+                                    interventi di progettazione e di introduzione di sistemi informatici, o di modifica dei sistemi preesistenti, con informazione specifica sulle caratteristiche dei sistemi stessi, in modo tale da consentire, con congruo anticipo, la valutazione in merito ad eventuali vincoli all'occupazione, alle funzioni ed ai ruoli, all'ambiente ed alla qualita' del lavoro.
 
 Saranno altresi' attuati incontri periodici per la verifica delle modalita' e dei tempi di applicazione delle intese contrattuali e degli accordi decentrati. Negli accordi decentrati potranno essere definiti ulteriori articolazioni in materia di informazione.
 
@@ -240,6 +487,31 @@ Le classi o scatti maturati nel 1987, ed eventualmente corrisposti prima della d
 Il lavoro straordinario non puo' essere utilizzato come fattore ordinario di programmazione del lavoro ed e' consentito solo per esigenze eccezionali, imprevedibili e non programmabili.
 
 Le ore di lavoro straordinario, a richiesta del dipendente, potranno essere compensate con ore libere o riposi giornalieri compensativi, da fruire nel mese successivo con modalita' che tengano conto delle organizzazione ed esigenze delle amministrazioni.
+
+3.
+                        
+                            
+                                Dal 31 dicembre 1987 la misura oraria dei compensi per lavoro straordinario e' determinata maggiorando la misura oraria di lavoro ordinario calcolata convenzionalmente dividendo per 156 i seguenti elementi retributivi:
+ 
+                            
+                            
+                                a)
+                                
+                                    stipendio tabellare base iniziale di livello mensile in vigore;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    indennita' integrativa speciale (I.I.S.) in godimento nel mese di dicembre dell'anno precedente;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    rateo di tredicesima mensilita' delle due precedenti voci.
 
 La maggiorazione di cui sopra e' pari al quindici per cento per lavoro straordinario diurno, al trenta per cento per lavoro straordinario prestato nei giorni festivi o in orario notturno ed al cinquanta per cento per quello prestato in orario notturno festivo.
 

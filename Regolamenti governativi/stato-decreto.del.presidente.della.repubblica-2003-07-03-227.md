@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Regolamenti governativi
 vigenza_date: 2026-01-01
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:17Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -28,9 +28,116 @@ Sulla proposta del Ministro dell'economia e delle finanze, di concerto con il Mi
 
 ## Art. 1. — Definizioni
 
+1.
+                    
+                        
+                            Nel presente regolamento si intendono per:
+ 
+                        
+                        
+                            a)
+                            
+                                uffici di diretta collaborazione: gli uffici di diretta collaborazione con il Ministro dell'economia e delle finanze previsti dall'articolo 14, comma 2, del decreto legislativo 30 marzo 2001, n. 165, e dall'articolo 7 del decreto legislativo 30 luglio 1999, n. 300;
+
+                            
+                        
+                        
+                            b)
+                            
+                                Ministro: il Ministro dell'economia e delle finanze;
+
+                            
+                        
+                        
+                            c)
+                            
+                                Ministero: il Ministero dell'economia e delle finanze;
+
+                            
+                        
+                        
+                            d)
+                            
+                                
+                                    decreto legislativo n. 165 del 2001: il decreto legislativo 30 marzo 2001, n. 165, e successive modificazioni;
+
+                            
+                        
+                        
+                            e)
+                            
+                                Vice Ministri: i Sottosegretari di Stato ai quali sia stato attribuito il titolo di Vice Ministro;
+
+                            
+                        
+                        
+                            f)
+                            
+                                Sottosegretari di Stato: i Sottosegretari di Stato presso il Ministero dell'economia e delle finanze.
+
 ## Art. 2. — Uffici di diretta collaborazione
 
 Gli uffici di diretta collaborazione esercitano le competenze di supporto del Ministro e di raccordo tra questo e l'amministrazione, ai sensi degli articoli 4 e 14, comma 2, del decreto legislativo n. 165 del 2001. Essi prestano collaborazione al Ministro con riguardo alla definizione degli obiettivi ed all'elaborazione delle politiche pubbliche, nonche' alla relativa valutazione ed alle connesse attivita' di comunicazione, e, in particolare, riguardo all'analisi di impatto normativo, all'analisi dei costi e dei benefici ed alla congruenza fra obiettivi e risultati.
+
+2.
+                    
+                        
+                            Sono uffici di diretta collaborazione:
+ 
+                        
+                        
+                            a)
+                            
+                                l'ufficio di Gabinetto;
+
+                            
+                        
+                        
+                            b)
+                            
+                                la segreteria del Ministro;
+
+                            
+                        
+                        
+                            c)
+                            
+                                l'ufficio del coordinamento legislativo;
+
+                            
+                        
+                        
+                            d)
+                            
+                                la segreteria tecnica del Ministro;
+
+                            
+                        
+                        
+                            e)
+                            
+                                l'ufficio stampa;
+
+                            
+                        
+                        
+                            f)
+                            
+                                le segreterie e l'Ufficio dei Vice Ministri;
+
+                            
+                        
+                        
+                            g)
+                            
+                                le segreterie dei Sottosegretari di Stato;
+
+                            
+                        
+                        
+                            h)
+                            
+                                il servizio di controllo interno.
 
 Il Capo di Gabinetto coordina l'intera attivita' di supporto e gli uffici di diretta collaborazione che costituiscono, ai fini di cui al decreto legislativo 7 agosto 1997, n. 279, un unico centro di responsabilita' ed uno o piu' centri di costo. Assolve, altresi', ai compiti di supporto del Ministro per l'esercizio di tutte le ulteriori funzioni attribuitegli dalla legge.
 

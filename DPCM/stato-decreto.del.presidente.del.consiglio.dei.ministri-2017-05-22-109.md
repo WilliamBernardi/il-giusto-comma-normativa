@@ -7,8 +7,8 @@ urn: urn:nir:stato:decreto.del.presidente.del.consiglio.dei.ministri:2017-05-22;
 vigente: true
 source: normattiva-opendata
 collection: DPCM
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:40:13Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DEL CONSIGLIO DEI MINISTRI
@@ -46,9 +46,94 @@ Udito il parere del Consiglio di Stato, espresso dalla sezione consultiva per gl
 
 L'Organismo di conciliazione, istituito ai sensi dell'articolo 31 della legge 6 agosto 2013, n. 97, presso il Ministero delle infrastrutture e dei trasporti, svolge le sue funzioni alle dirette dipendenze del Capo Dipartimento per le infrastrutture, i sistemi informativi e statistici, di seguito Capo Dipartimento, che ne e' il responsabile. Tale organismo si avvale dell'ufficio di segreteria di cui all'articolo 2, che non costituisce articolazione organizzativa di livello dirigenziale.
 
+2.
+                    
+                        
+                            L'Organismo di conciliazione svolge le seguenti funzioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                esamina se le condizioni contrattuali imposte da un esattore di pedaggi a vari fornitori del Servizio europeo di telepedaggio (S.E.T.) sono non discriminatorie e rispecchiano correttamente i costi e i rischi delle parti contrattuali; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                facilita la mediazione, in caso di controversia, tra gli esattori di pedaggi, con un settore sottoposto a pedaggio, e i fornitori del S.E.T. che hanno stipulato contratti o sono impegnati in negoziati contrattuali con tali operatori; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                richiede le informazioni pertinenti agli esattori di pedaggi, ai fornitori del S.E.T. e a eventuali terzi che contribuiscono alla fornitura del S.E.T. nel territorio italiano, nei casi oggetto di controversia; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                collabora con gli organismi di conciliazione degli altri Stati membri dell'Unione europea, scambiando informazioni sul lavoro svolto, nonche' sui principi guida e sulle prassi seguite, fermo restando il principio di riservatezza a tutela dei diritti delle parti.
+
 ## Art. 2. — Ufficio di segreteria
 
 L'ufficio di segreteria si compone di tre unita', una delle quali con funzioni di responsabile, che sono designate dal Capo Dipartimento, nell'ambito del personale in servizio presso il Dipartimento stesso e operano secondo imparzialita', in ottemperanza alle disposizioni vigenti. Il responsabile dell'ufficio di segreteria, con qualifica di funzionario, coordina le attivita' dell'ufficio di segreteria.
+
+2.
+                    
+                        
+                            L'ufficio di segreteria svolge i seguenti compiti: 
+ 
+                        
+                        
+                            a)
+                            
+                                cura il registro degli affari di mediazione, contenente l'elenco dei procedimenti di conciliazione; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                tiene un apposito fascicolo per ogni procedimento di conciliazione, con annotato il numero d'ordine progressivo, i dati identificativi delle parti, l'oggetto della controversia, il conciliatore designato, la durata del procedimento ed il relativo esito; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                riceve la domanda di conciliazione e ne cura la comunicazione alla parte invitata; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                rilascia copia del verbale di accordo sottoscritto dalle parti, dandone comunicazione all'Autorita' di regolazione dei trasporti; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                comunica per iscritto l'avvenuta chiusura del procedimento a seguito della redazione del verbale di esito negativo della conciliazione, dandone comunicazione all'Autorita' di regolazione dei trasporti; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                cura la tenuta dell'archivio dei procedimenti; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                effettua il monitoraggio della casistica europea di settore.
 
 ## Art. 3. — Domanda, atti e sede del procedimento di conciliazione
 
@@ -88,7 +173,78 @@ Al conciliatore ed al consulente tecnico e' fatto divieto di assumere diritti o 
 
 Presso il Ministero delle infrastrutture e dei trasporti e' istituito l'elenco dei soggetti esperti, tra i quali viene individuato il conciliatore da designarsi nel procedimento di conciliazione. Dell'elenco e delle relative modalita' e' data pubblicita' sul sito istituzionale del Ministero.
 
+2.
+                    
+                        
+                            Ad istanza dell'interessato, possono essere inseriti nell'elenco dei soggetti esperti ai fini del procedimento di conciliazione i soggetti appartenenti alle seguenti categorie: 
+ 
+                        
+                        
+                            a)
+                            
+                                avvocati, con esperienza nel settore delle infrastrutture e dei trasporti, iscritti agli albi ordinari, inclusa la sezione speciale degli avvocati stabiliti di cui al decreto legislativo 2 febbraio 2001, n. 96, da almeno cinque anni; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                dottori commercialisti, con esperienza nel settore delle infrastrutture e dei trasporti, iscritti ai relativi albi da almeno cinque anni; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                soggetti, con esperienza nel settore delle infrastrutture e dei trasporti, in possesso del diploma di laurea in ingegneria o architettura, iscritti ai relativi albi da almeno cinque anni; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                dirigenti della pubblica amministrazione, con esperienza nel settore delle infrastrutture e dei trasporti, inseriti nei ruoli dell'amministrazione da almeno un triennio; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                soggetti in possesso di diploma di laurea almeno quadriennale, esperti nell'esercizio dei sistemi di riscossione elettronica dei pedaggi nonche' nella relativa progettazione e realizzazione, di comprovata esperienza almeno decennale, da documentare alla presentazione dell'istanza.
+
 Nella iscrizione e nella rotazione di conferimento dell'incarico di cui all'articolo 4, comma 1, si segue l'ordine cronologico di invio della domanda di iscrizione.
+
+4.
+                    
+                        
+                            I conciliatori devono possedere i requisiti di professionalita', indipendenza, imparzialita', neutralita' e onorabilita', secondo quanto previsto dalla normativa vigente ed in particolare dall'articolo 13 del decreto legislativo 24 febbraio 1998, n. 58, fermo restando per i dipendenti pubblici quanto previsto dall'articolo 53 del decreto legislativo 30 marzo 2001, n. 165, e successive modificazioni. Per quanto riguarda i requisiti di onorabilita', i conciliatori devono dimostrare di: 
+ 
+                        
+                        
+                            a)
+                            
+                                non aver riportato condanne definitive per delitti non colposi o a pena detentiva non sospesa, salvi gli effetti della riabilitazione; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                non versare nelle condizioni previste dall'articolo 2382 del codice civile; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                non essere stati sottoposti a misure di prevenzione personale, negli ultimi dieci anni; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                non aver riportato, negli ultimi otto anni, sanzioni disciplinari superiori a quella minima prevista per la categoria di appartenenza.
 
 Il possesso dei requisiti di cui al comma 2, lettere a), b), c) e d), e al comma 4 puo' essere attestato dall'interessato mediante autocertificazione, resa ai sensi degli articoli 46 e 47 del decreto del Presidente della Repubblica 28 dicembre 2000, n. 445, tenuto conto di quanto prescritto, nel caso di rilascio di falsa dichiarazione, dagli articoli 75 e 76 del citato decreto.
 

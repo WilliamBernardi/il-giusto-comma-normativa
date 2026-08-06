@@ -8,8 +8,8 @@ codice_redazionale: 093G0226
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti governativi
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:15Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -24,6 +24,67 @@ Udito il parere del Consiglio di Stato reso nell'adunanza generale del 29 ottobr
 Sulla proposta del Ministro dell'agricoltura e delle foreste;
 
 ## Art. 1. — Sede del Comitato
+
+1.
+                    
+                        
+                            Il Comitato nazionale per la tutela delle denominazioni di origine degli oli, istituito ai sensi della legge 5 febbraio 1992, n. 169, d'ora in avanti denominato "Comitato", ha sede presso il Ministero dell'agricoltura e delle foreste - Direzione generale della produzione agricola.
+ AVVERTENZA:
+ Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, comma 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con D.P.R. 28 dicembre 1985, n. 1092, al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
+ Note alle premesse:
+ - L'art. 87, comma quinto, della Costituzione conferisce al Presidente della Repubblica il potere di promulgare le leggi e di emanare i decreti aventi valore di legge ed i regolamenti.
+ - La legge n. 169/1992 reca: "Disciplina per il riconoscimento della denominazione di origine controllata degli oli di oliva vergini ed extravergini". Si trascrive il testo del relativo art. 14:
+ "Art. 14. - 1. E' istituito il Comitato nazionale per la tutela della denominazione di origine controllata degli oli.
+ 2. Con decreto del Presidente della Repubblica, su proposta del Ministro dell'agricoltura e delle foreste, sono stabilite le norme sull'organizzazione e sul funzionamento del Comitato.
+ 3. Il Comitato, i cui componenti sono nominati con decreto del Ministro dell'agricoltura e delle foreste, e' composto da:
+ a) un funzionario del Ministero dell'agricoltura e delle foreste;
+ b) un funzionario del Ministero dell'industria, del commercio e dell'artigianato;
+ c) un funzionario del Ministero del commercio con l'estero;
+ d) un funzionario dell'Istituto nazionale per il commercio estero;
+ e) un membro scelto in una terna designata dall'Accademia dell'olivo;
+ f) un esperto particolarmente competente in materia di olivicoltura;
+ g) tre membri, esperti nel settore, designati dalle organizzazioni agricole maggiormente rappresentative a livello nazionale;
+ h) un rappresentante per ciascuna delle unioni nazionali di produttori olivicoli riconosciute ai sensi della legge 20 ottobre 1978, n. 674, e successive modificazioni;
+ i) un rappresentante dell'Unione italiana delle camere di commercio, industria, artigianato e agricoltura;
+ l) due membri in rappresentanza degli oleifici sociali e delle cooperative agricole produttrici;
+ m) un assaggiatore scelto fra gli iscritti all'albo di cui all'articolo l7;
+ n) un membro scelto in una terna designata dalle associazioni nazionali degli industriali oleari;
+ o) un membro scelto in una terna designata dalle organizzazioni sindacali dei commercianti grossisti oleari;
+ p) un membro scelto in una terna designata dalle associazioni nazionali dei consumatori;
+ q) un rappresentante del Consiglio nazionale delle ricerche;
+ r) un rappresentante dell'Istituto sperimentale per la elaiotecnica.
+ 4. Il Comitato e' presieduto dal Ministro dell'agricoltura e delle foreste o da un suo delegato e per il suo funzionamento si avvale delle strutture del Ministero individuate dal decreto di cui al comma 2.
+ 5. La carica di membro del Comitato dura cinque anni e non e' immediatamente rinnovabile".
+ - Il comma 1 dell'art. 17 della legge n. 400/1988 (Disciplina dell'attivita' di Governo e ordinamento della Presidenza del Consiglio dei Ministri) prevede che con decreto del Presidente della Repubblica, previa deliberazione del Consiglio dei Ministri, sentito il parere del Consiglio di Stato che deve pronunziarsi entro novanta giorni dalla richiesta, possono essere emanati regolamenti per:
+ 
+                        
+                        
+                            a)
+                            
+                                l'esecuzione delle leggi e dei decreti legislativi;
+
+                            
+                        
+                        
+                            b)
+                            
+                                l'attuazione e l'integrazione delle leggi e dei decreti legislativi recanti norme di principio, esclusi quelli relativi a materie riservate alla competenza regionale;
+
+                            
+                        
+                        
+                            c)
+                            
+                                le materie in cui manchi la disciplina da parte di leggi o di atti aventi forza di legge, sempre che non si tratti di materie comunque riservate alla legge;
+
+                            
+                        
+                        
+                            d)
+                            
+                                l'organizzazione ed il funzionamento delle amministrazioni pubbliche secondo le disposizioni dettate dalla legge;
+ c) l'organizzazione del lavoro ed i rapporti di lavoro dei pubblici dipendenti in base agli accordi sindacali.
+ Il comma 4 dello stesso articolo stabilisce che gli anzidetti regolamenti debbano recare la denominazione di "regolamento", siano adottati previo parere del Consiglio di Stato, sottoposti al visto ed alla registrazione della Corte dei conti e pubblicati nella Gazzetta Ufficiale.
 
 ## Art. 2. — Delega per la presidenza del Comitato
 
@@ -42,6 +103,24 @@ I componenti del Comitato cessano dalla carica alla scadenza del quinquennio, ov
 La cessazione per dimissioni volontarie ha effetto dalla data della loro accettazione da parte del Ministro dell'agricoltura e delle foreste.
 
 ## Art. 5. — Decadenza dalla carica
+
+1.
+                    
+                        
+                            I componenti del Comitato decadono dalla carica:
+ 
+                        
+                        
+                            a)
+                            
+                                qualora non intervengano a tre sedute consecutive senza giustificato motivo;
+
+                            
+                        
+                        
+                            b)
+                            
+                                qualora vengano a mancare i requisiti richiesti per appartenere al Comitato.
 
 La decadenza e' dichiarata con decreto del Ministro dell'agricoltura e delle foreste d'ufficio, sentito il parere del Comitato, ed e' comunicata all'interessato mediante lettera raccomandata con avviso di ricevimento.
 
@@ -94,6 +173,52 @@ I pareri del Comitato resi ai sensi dell'art. 15, comma 1, lettera a), della leg
 ## Art. 11. — S e g r e t e r i a
 
 E' costituita la segreteria per il disbrigo degli affari amministrativi, tecnici e giuridici inerenti al funzionamento del Comitato nazionale per la tutela delle denominazioni di origine controllata degli oli, e si avvale del personale del Ministero dell'agricoltura e delle foreste gia' in servizio alla data di entrata in vigore del presente regolamento.
+
+2.
+                    
+                        
+                            L'ufficio di segreteria, provvede:
+ 
+                        
+                        
+                            a)
+                            
+                                ad esaminare la documentazione trasmessa a corredo delle domande di riconoscimento delle denominazioni di origine, a richiedere la documentazione eventualmente mancante e quella integrativa necessaria, nonche' ad acquisire ogni altro elemento utile ai fini della decisione del Comitato, ponendo la documentazione e gli elementi raccolti a disposizione dei relatori;
+
+                            
+                        
+                        
+                            b)
+                            
+                                a verificare se sugli argomenti concernenti ciascun affare esistano precedenti pareri e, in caso affermativo, trasmettere al relatore copia degli atti;
+
+                            
+                        
+                        
+                            c)
+                            
+                                a tenere il registro di protocollo generale, nel quale annotare tutti gli affari di competenza del Comitato;
+
+                            
+                        
+                        
+                            d)
+                            
+                                a dare esecuzione alle deliberazioni adottate dal Comitato;
+
+                            
+                        
+                        
+                            e)
+                            
+                                ad assicurare, nei casi previsti dalla legge, la pubblicazione nella Gazzetta Ufficiale della Repubblica italiana delle deliberazioni del Comitato;
+
+                            
+                        
+                        
+                            f)
+                            
+                                ad assolvere ad ogni altro incarico di natura amministrativa conferitogli dal Comitato.
 
 ## Art. 12. — Entrata in vigore
 

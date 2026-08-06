@@ -8,8 +8,8 @@ codice_redazionale: 008G0007
 vigente: true
 source: normattiva-opendata
 collection: Leggi delega e relativi provvedimenti delegati
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:41:16Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -59,13 +59,137 @@ I responsabili dei diversi livelli del sistema di istruzione e altri soggetti pu
 
 Il Ministero della pubblica istruzione sottoscrive specifiche intese con i soggetti pubblici e privati di cui al comma 2, ivi compresi regioni ed enti locali, interessati a partecipare all'iniziativa di valorizzazione delle eccellenze e in grado di rispettare i criteri indicati nel comma 4.
 
+4.
+                    
+                        
+                            Per le iniziative di individuazione delle eccellenze devono essere rispettati i seguenti criteri:
+ 
+                        
+                        
+                            a)
+                            
+                                ogni iniziativa di riconoscimento delle eccellenze deve avere a riferimento un'autorita' scientifica significativa quale ad esempio universita', accademia, istituti di alta ricerca, organizzazioni professionali, per garantire validita' ad ogni valutazione di risultati avanzati ed assicurare la credibilita' delle azioni intraprese, sia presso le scuole e i loro insegnanti, sia nei confronti degli studenti e delle loro famiglie;
+
+                            
+                        
+                        
+                            b)
+                            
+                                per l'accreditamento di soggetti esterni all'amministrazione vengono prese in considerazione le esperienze gia' realizzate con particolare riferimento all'ambito nazionale ed internazionale, la capillarita' della loro presenza territoriale, la capacita' operativa e il prestigio scientifico e culturale, la disponibilita' di risorse organizzative e professionali;
+
+                            
+                        
+                        
+                            c)
+                            
+                                vanno garantiti il pieno rispetto della trasparenza nei criteri di partecipazione, nelle procedure di selezione, nonche' la pubblicita' dei risultati ottenuti.
+
 ## Art. 4. — Riconoscimenti e premi
+
+1.
+                    
+                        
+                            Il riconoscimento dei risultati elevati raggiunti avviene tramite certificazione delle eccellenze, garantisce l'acquisizione di credito formativo e puo' dare origine a varie forme di incentivo, da assumere entro il limite delle disponibilita' finanziarie previste al comma 4 dell'articolo 7:
+ 
+                        
+                        
+                            a)
+                            
+                                benefit e accreditamenti per l'accesso a biblioteche, musei, istituti e luoghi della cultura;
+
+                            
+                        
+                        
+                            b)
+                            
+                                ammissione a tirocini formativi;
+
+                            
+                        
+                        
+                            c)
+                            
+                                partecipazione ad iniziative formative organizzate da centri scientifici nazionali con destinazione rivolta alla qualita' della formazione scolastica;
+
+                            
+                        
+                        
+                            d)
+                            
+                                viaggi di istruzione e visite presso centri specialistici;
+
+                            
+                        
+                        
+                            e)
+                            
+                                benefici di tipo economico;
+
+                            
+                        
+                        
+                            f)
+                            
+                                altre forme di incentivo secondo intese e accordi stabiliti con soggetti pubblici e privati.
 
 ## Art. 5. — Programma annuale
 
 Prima dell'avvio di ogni anno scolastico, con apposito decreto, di natura non regolamentare, del Ministro della pubblica istruzione, viene definito il programma nazionale di promozione dell'eccellenza che fornisce alle scuole, ai docenti, agli studenti e ai loro genitori l'informazione puntuale sulle iniziative proposte per l'intero anno scolastico.
 
 Il programma annuale viene definito sia con riferimento ai risultati dell'analisi valutativa del sistema scolastico condotta dall'INVALSI, sia in coerenza con gli interventi di promozione di specifici settori di competenza, con particolare riferimento allo sviluppo della cultura scientifica, e tenendo presenti le decisioni di sviluppo innovativo del sistema di istruzione, in relazione soprattutto al potenziamento dell'area tecnica e professionale.
+
+3.
+                    
+                        
+                            Il programma annuale contiene:
+ 
+                        
+                        
+                            a)
+                            
+                                le discipline, le aree disciplinari ed i settori tecnico-operativi rispetto ai quali si intende operare;
+
+                            
+                        
+                        
+                            b)
+                            
+                                le certificazioni di cui all'articolo 2, comma 5, il cui conseguimento da' origine a riconoscimento;
+
+                            
+                        
+                        
+                            c)
+                            
+                                le procedure di accreditamento per i soggetti che intendono operare in collaborazione con l'amministrazione scolastica;
+
+                            
+                        
+                        
+                            d)
+                            
+                                i soggetti proponenti, sia dell'amministrazione sia tra gli organismi accreditati;
+
+                            
+                        
+                        
+                            e)
+                            
+                                il calendario delle iniziative, le modalita' di partecipazione;
+
+                            
+                        
+                        
+                            f)
+                            
+                                le procedure di confronto e di competizione e la loro organizzazione;
+
+                            
+                        
+                        
+                            g)
+                            
+                                le risorse finanziarie dedicate, la quota pro capite di incentivo che verra' assicurata agli studenti eccellenti, le modalita' di erogazione delle risorse finanziarie.
 
 Possono confluire nel programma le competizioni che hanno nel tempo conseguito livelli di prestigio e di consenso nelle istituzioni scolastiche per particolari ambiti disciplinari o per specifiche discipline di studio, purche' promosse e realizzate dall'amministrazione scolastica o da soggetti accreditati dall'amministrazione scolastica medesima.
 

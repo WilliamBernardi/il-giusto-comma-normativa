@@ -8,8 +8,8 @@ codice_redazionale: 090G0151
 vigente: true
 source: normattiva-opendata
 collection: DPR
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:48:06Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -36,7 +36,85 @@ Nell'art. 3 del decreto del Presidente della Repubblica 12 novembre 1984, n. 905
 
 ## Art. 2.
 
+1.
+                    
+                        
+                            All'art. 4 del decreto del Presidente della Repubblica 12 novembre 1984, n. 905, sono apportate le seguenti modificazioni:
+ 
+                        
+                        
+                            a)
+                            
+                                al primo comma, la lettera e) e' sostituita dalla seguente:
+ " e) due esperti designati dal Ministero del turismo e dello spettacolo di cui uno scelto dal Ministro in una terna indicata dalla Commissione centrale per la cinematografia prevista dall'art. 3 della legge 4 novembre 1965, n. 1213;";
+
+                            
+                        
+                        
+                            b)
+                            
+                                al primo comma, lettera f), le parole: "quattro esperti" sono sostituite dalle seguenti: "cinque esperti";
+
+                            
+                        
+                        
+                            c)
+                            
+                                al secondo comma, dopo le parole: "per le categorie da c) ad e),", e' inserita la seguente: "rispettivamente";
+
+                            
+                        
+                        
+                            d)
+                            
+                                al terzo comma, le parole: "almeno due degli otto membri" sono sostituite dalle seguenti: "almeno tre dei dieci membri".
+
 ## Art. 3.
 
+1.
+                    
+                        
+                            All'art. 6 del decreto del Presidente della Repubblica 12 novembre 1984, n. 905, sono apportate le seguenti modificazioni:
+ 
+                        
+                        
+                            a)
+                            
+                                al primo comma, le parole: "quattro membri" sono sostituite dalle seguenti: "cinque membri";
+
+                            
+                        
+                        
+                            b)
+                            
+                                al secondo comma, le parole: "almeno cinque membri." sono sostituite dalle seguenti: "almeno sei membri.";
+
+                            
+                        
+                        
+                            c)
+                            
+                                il terzo comma e' sostituito dal seguente:
+ "In caso di assenza o impedimento del presidente, il consiglio e' presieduto dal membro designato nell'ambito della terna di esperti di cui all'art. 4, lettera e), o, in assenza di quest'ultimo, dal piu' anziano dei membri presenti.".
+
 ## Art. 4.
+
+1.
+                    
+                        
+                            All'art. 7 del decreto del Presidente della Repubblica 12 novembre 1984, n. 905, sono apportate le seguenti modificazioni:
+ 
+                        
+                        
+                            a)
+                            
+                                al primo comma, la lettera c) e' sostituita dalla seguente:
+ c) un esperto in contabilita' pubblica designato dal Ministero del turismo e dello spettacolo;";
+ b) al quarto comma, dopo le parole: "per le categorie
+                            
+                        
+                        
+                            b)
+                            
+                                e c),", e' inserita la seguente: "rispettivamente".
 

@@ -8,8 +8,8 @@ codice_redazionale: 096G0103
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:39Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -26,6 +26,63 @@ Ritenuta la necessita' di adeguare il predetto decreto ministeriale alle disposi
 Sono ammesse alla franchigia dai diritti doganali, ai sensi dell'art. 12 delle disposizioni preliminari alla tariffa dei dazi doganali d'importazione, approvate con decreto del Presidente della Repubblica 26 giugno 1965, n. 723, e successive modificazioni, gli oggetti e generi di consumo che i viaggiatori in provenienza da Paesi terzi portano con se' nel proprio bagaglio a condizione che si tratti di importazioni prive di ogni carattere commerciale e il loro valore non superi 175 unita' di conto europee.
 
 Tale importo e' ridotto a novanta unita' di conto europee per i viaggiatori di eta' inferiore a 15 anni.
+
+3.
+                    
+                        
+                            Per i seguenti prodotti la franchigia e' accordata entro i limiti dei quantitativi appresso indicati:
+ Denominazione delle merci Quantita' - -
+ 
+                        
+                        
+                            a)
+                            
+                                Prodotti da tabacco:
+ sigarette 200 pezzi o
+ sigaretti (sigari di peso massimo 3 gr a pezzo) 100 pezzi o
+ sigari 50 pezzi o
+ tabacco da fumare 250 gr
+
+                            
+                        
+                        
+                            b)
+                            
+                                alcol e bevande alcoliche:
+ bevande distillate e bevande alcoliche
+di un grado alcolico superiore a 22% vol.:
+alcol etilico non denaturato di 80 vol. e
+piu' in tot. 1 litro oppure
+ bevande distillate e bevande alcoliche,
+aperitivi a base di vino o di alcole, tafia,
+sake' o bevande simili di un grado alcolico
+pari o inferiore a 22% vol.; vini spumanti,
+vini liquorosi in tot. 2 litri e
+ vini tranquilli in tot. 2 litri
+                            
+                        
+                        
+                            c)
+                            
+                                profumi 50 gr
+ acqua di toiletta 1/4 litro
+                            
+                        
+                        
+                            d)
+                            
+                                caffe' 500 gr
+ o
+ estratti o essenze di caffe' 200 gr
+
+                            
+                        
+                        
+                            e)
+                            
+                                te' 100 gr
+ o
+ estratti o essenze di te' 40 gr
 
 I viaggiatori di eta' inferiore a diciassette anni sono esclusi dalla franchigia prevista per i prodotti di cui alle lettere a) e b) e, se inferiori a quindici anni, anche dalla franchigia di cui alla lettera d).
 
@@ -47,6 +104,63 @@ Il valore dei generi compresi nei quantitativi di cui sopra non va calcolato agl
  Essi debbono essere comunicati al Presidente del Consiglio dei Ministri prima della loro emanazione. Il comma 4 dello stesso articolo stabilisce che gli anzidetti regolamenti debbano recare la denominazione di "regolamento", siano adottati previo parere del Consiglio di Stato, sottoposti al visto ed alla registrazione della Corte dei conti e pubblicati nella Gazzetta Ufficiale.
 
 ## Art. 2.
+
+1.
+                    
+                        
+                            Per gli oggetti e i generi, importati dal personale dei servizi di trasporto adibiti al traffico internazionale, e' concessa la franchigia nei limiti di un valore di 20 unita' di conto europee; per i generi soggetti a limitazione quantitativa i rispettivi limiti sono fissati come segue:
+ 
+                        
+                        
+                            a)
+                            
+                                prodotti del tabacco:
+ sigarette 20 pezzi oppure
+ sigaretti (sigari di peso massimo di 3 gr per pezzo) 10 pezzi oppure
+ sigari 5 pezzi oppure
+ tabacco da fumo 25 gr
+
+                            
+                        
+                        
+                            b)
+                            
+                                bevande alcoliche:
+ bevande distillate e bevande alcoliche,
+aventi titolo alcolometrico superiore a
+22% vol.; alcole etilico non denaturato
+di 80% vol. o piu' 1/8 litro oppure,
+ bevande distillate e bevande alcoliche,
+aperitivi a base di vino o di alcolometrico
+pari o inferiore a 22% vol., vini spumanti,
+vini liquorosi 1/4 litro e
+ vini tranquilli 1/4 litro
+                            
+                        
+                        
+                            c)
+                            
+                                profumi 1 cl
+ e
+ acqua di toilette 2,5 cl
+
+                            
+                        
+                        
+                            d)
+                            
+                                caffe' 15 gr
+ oppure
+ estratti o essenze di caffe' 10 gr
+
+                            
+                        
+                        
+                            e)
+                            
+                                te' 25 gr
+ oppure
+ estratti o essenze di te' 10 gr
 
 Sono esclusi dalla franchigia i medesimi oggetti e prodotti importati nel traffico di frontiera.
 

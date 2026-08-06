@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Regolamenti governativi
 vigenza_date: 2019-02-15
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:15Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -75,6 +75,31 @@ Le riunioni del Comitato sono valide ove sia presente alle medesime la maggioran
 ## Art. 5-bis.
 
 ((
+
+1.
+                    
+                        
+                            I membri del Comitato sono sostituiti, con le modalita' di cui ai commi 5 e 6, nel caso di: 
+ 
+                        
+                        
+                            a)
+                            
+                                assenza ingiustificata a tre sedute nell'arco di dodici mesi; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                assenza, ancorche' giustificata, a cinque sedute consecutive; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                dimissioni.
 
 Nel computo di cui al comma 1 sono calcolate anche le assenze nelle sedute dichiarate deserte per mancanza del numero legale.
 

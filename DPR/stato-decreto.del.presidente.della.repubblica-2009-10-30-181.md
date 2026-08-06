@@ -8,8 +8,8 @@ codice_redazionale: 009G0186
 vigente: true
 source: normattiva-opendata
 collection: DPR
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:48:00Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -27,6 +27,31 @@ Sulla proposta dei Ministri della difesa, dell'interno, della giustizia, del lav
 
 ## Art. 1. — Definizioni
 
+1.
+                    
+                        
+                            Ai fini del presente regolamento: 
+ 
+                        
+                        
+                            a)
+                            
+                                per danno biologico, si intende la lesione di carattere permanente all'integrita' psico-fisica della persona suscettibile di accertamento medico-legale che esplica un'incidenza negativa sulle attivita' quotidiane e sugli aspetti dinamico-relazionali della vita del danneggiato, indipendentemente da eventuali ripercussioni sulla sua capacita' di produrre reddito; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                per danno morale, si intende il pregiudizio non patrimoniale costituito dalla sofferenza soggettiva cagionata dal fatto lesivo in se' considerato; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                per aggravamento fisico, si intende lo stato della menomazione dell'integrita' psico-fisica complessiva derivante dall'evoluzione peggiorativa della patologia da cui e' conseguita l'invalidita' gia' riconosciuta ed indennizzata, nonche' da ogni altra patologia per la quale risulti accertata una correlazione eziopatogenetica per interdipendenza o la cui insorgenza risulti determinata da cure praticate per la patologia gia' riconosciuta.
+
 ## Art. 2. — Disposizioni generali
 
 La valutazione della percentuale d'invalidita' di cui all'articolo 6, comma 1, della legge 3 agosto 2004, n. 206, e' espressa in una percentuale unica d'invalidita', comprensiva del riconoscimento del danno biologico e morale.
@@ -41,6 +66,38 @@ Ai fini dell'espletamento degli accertamenti sanitari, nonche' delle modalita' d
 l. Per l'accertamento dell'invalidita' si procede tenendo conto che la percentuale d'invalidita' permanente (IP), riferita alla capacita' lavorativa, e' attribuita scegliendo il valore piu' favorevole tra quello determinato in base alle tabelle per i gradi di invalidita' e relative modalita' d'uso approvate, in conformita' all'articolo 3, comma 3, della legge 29 dicembre 1990, n. 407, con il decreto del Ministro della sanita' in data 5 febbraio 1992, e successive modificazioni, pubblicato nel supplemento ordinario alla Gazzetta Ufficiale n. 47 del 26 febbraio 1992, e quello determinato in base alle tabelle A, B, E ed F1 annesse al decreto del Presidente della Repubblica 23 dicembre 1978, n. 915, e successive modificazioni, e relativi criteri applicativi. Alla classifica di cui alle categorie della tabella A e alla tabella B sono equiparate le fasce percentuali d'invalidita' permanente, riferite alla capacita' lavorativa, secondo le corrispondenze indicate nella tabella in allegato 1. Alle invalidita' o mutilazioni di prima categoria della tabella A che risultino contemplate anche nella tabella E corrisponde una invalidita' permanente non inferiore al 100%.
 
 ## Art. 4. — Criteri medico-legali per la rivalutazione dell'invalidita' permanente, e per la determinazione del danno biologico e del danno morale
+
+1.
+                    
+                        
+                            Per la rivalutazione delle invalidita' gia' riconosciute e indennizzate, si procede secondo i seguenti criteri e modalita': 
+ 
+                        
+                        
+                            a)
+                            
+                                la percentuale d'invalidita' permanente (IP), riferita alla capacita' lavorativa, e' attribuita secondo quanto indicato all'articolo 3. Resta salva l'applicazione di altri criteri tabellari, adottati in sede di prima valutazione, se piu' favorevoli; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                la percentuale del danno biologico (DB) e' determinata in base alle tabelle delle menomazioni e relativi criteri applicativi di cui agli articoli 138, comma 1, e 139, comma 4, del decreto legislativo 7 settembre 2005, n. 209, e successive modificazioni; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                la determinazione della percentuale del danno morale (DM) viene effettuata, caso per caso, tenendo conto della entita' della sofferenza e del turbamento dello stato d'animo, oltre che della lesione alla dignita' della persona, connessi ed in rapporto all'evento dannoso, fino ad un massimo dei 2/3 del valore percentuale del danno biologico; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                la percentuale unica di invalidita' indicante l'invalidita' complessiva (IC), di cui all'articolo 6 della legge 3 agosto 2004, n. 206, che in ogni caso non puo' superare la misura del cento per cento, e' data dalla somma delle percentuali del danno biologico, del danno morale e del valore, se positivo, risultante dalla differenza tra la percentuale di invalidita' riferita alla capacita' lavorativa e la percentuale del danno biologico: IC= DB+DM+ (IP-DB).
 
 ## Art. 5. — Disposizioni transitorie
 

@@ -7,8 +7,8 @@ urn: urn:nir:ministero.interno:decreto:2023-04-22;67
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:41Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -65,6 +65,59 @@ La prima prova scritta consiste nella stesura di un elaborato ovvero nella rispo
 La seconda prova scritta consiste nell'elaborazione, senza l'ausilio di strumenti informatici personali, di un programma di attivita' fisico-sportiva, a scelta del candidato, tra tre campi di applicazione prospettati dalla commissione.
 
 Sono ammessi alla prova orale i candidati che abbiano riportato in ciascuna prova scritta una votazione non inferiore a 21/30 (ventuno/trentesimi).
+
+5.
+                    
+                        
+                            La prova orale verte, oltre che sulle materie oggetto della prima prova scritta di cui al comma 2, sulle seguenti materie: 
+ 
+                        
+                        
+                            a)
+                            
+                                teoria e metodologia dell'allenamento; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                test e misurazioni nello sport; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                attivita' motoria preventiva e adattata; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                biomeccanica e traumatologia dell'attivita' motoria e sportiva; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                elementi di scienza dell'alimentazione e di igiene della pratica motoria, nonche' regole in materia di contrasto del doping; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                normativa e organizzazione degli organismi sportivi; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                ordinamento del Ministero dell'interno, con particolare riguardo al Dipartimento, e ordinamento del personale del Corpo nazionale.
 
 Nell'ambito della prova orale e' accertata la conoscenza della lingua straniera, scelta dal candidato all'atto della presentazione della domanda, tra quelle indicate nel bando di concorso e la conoscenza dell'uso delle apparecchiature e delle applicazioni informatiche piu' diffuse.
 

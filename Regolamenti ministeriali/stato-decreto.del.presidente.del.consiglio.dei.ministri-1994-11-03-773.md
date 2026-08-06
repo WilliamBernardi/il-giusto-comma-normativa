@@ -8,8 +8,8 @@ codice_redazionale: 095G0264
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:39Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DEL CONSIGLIO DEI MINISTRI
@@ -53,16 +53,111 @@ sociale, dell'industria, del commercio e dell'artigianato e del tesoro, sentito 
 
 Le disponibilita' del Fondo per lo sviluppo, istituito ai sensi dell'art. 1-ter, comma 1, della legge 19 luglio 1993, n. 236, sono destinate a promuovere e realizzare programmi di sviluppo localizzati nelle aree di intervento di cui all'art. 1 della citata legge.
 
+2.
+                    
+                        
+                            I programmi ammissibili al contributo del Fondo per lo sviluppo devono riguardare in via prioritaria: 
+ 
+                        
+                        
+                            a)
+                            
+                                interventi per la realizzazione di nuove iniziative 
+imprenditoriali, di reindustrializzazione, di ristrutturazione e di riconversione dell'apparato produttivo esistente, che prevedano il reimpiego degli addetti espulsi dai processi produttivi, con priorita' per l'attuazione dei programmi di riordino delle imprese gia' appartenenti alle partecipazioni statali; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                interventi indirizzati alla promozione ed al sostegno di 
+iniziative industriali ivi compresi i servizi comuni alle imprese; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                interventi volti alla promozione dell'efficienza complessiva dell'area di intervento, anche attraverso l'acquisizione di aree dismesse, la loro eventuale bonifica ed il loro recupero funzionale, nonche' la realizzazione di infrastrutture tecnologiche.
+
 ## Art. 2. — Programmi di sviluppo
 
 Ai fini dell'attribuzione del contributo a valere sul Fondo per lo sviluppo, i programmi devono essere predisposti secondo lo schema di domanda, oggetto di un'apposita circolare del Ministero del lavoro e della previdenza sociale e inoltrati al medesimo - Direzione generale per l'impiego.
 
 I programmi possono essere presentati da societa' anche consortili, da soggetti pubblici e dalle societa' e dagli enti previsti al comma 3 dell'art. 1-ter della legge 19 luglio 1993, n. 236. I medesimi soggetti saranno responsabili dell'attuazione del programma secondo modalita' da definire con apposita convenzione di cui all'art. 4 del presente regolamento.
 
+3.
+                    
+                        
+                            I programmi devono prevedere:
+ 
+                        
+                        
+                            a)
+                            
+                                le linee di indirizzo generale e le azioni puntuali da compiere per il superamento delle situazioni di crisi;
+
+                            
+                        
+                        
+                            b)
+                            
+                                la definizione degli obiettivi occupazionali direttamente e indirettamente raggiungibili, con l'indicazione degli addetti di cui si prevede il reimpiego;
+
+                            
+                        
+                        
+                            c)
+                            
+                                il piano finanziario del programma, con l'articolazione delle attivita' per categoria d'intervento, di cui siano specificati i soggetti responsabili per l'attuazione, i costi preventivati, gli apporti di risorse previsti e/o richiesti su altre fonti finanziarie regionali, nazionali e comunitarie, le partecipazioni finanziarie e gli altri apporti, anche attraverso conferimenti di aree e beni industriali, da parte di soggetti privati e pubblici, nonche' i residui fabbisogni finanziari richiesti a valere sul Fondo per lo sviluppo.
+
 ## Art. 3. — Esame e istruttoria dei programmi
 
 Per l'esame e l'istruttoria dei programmi di cui all'art. 1 del presente regolamento, il Ministro del lavoro e della previdenza sociale si avvale di un'apposita struttura tecnica, composta da funzionari dell'amministrazione e da rappresentanti del Comitato per il coordinamento delle iniziative per l'occupazione, istituito presso la Presidenza del Consiglio dei Ministri, del Ministero dell'industria, del commercio e dell'artigianato e del Ministero del tesoro designati rispettivamente dal Presidente del Consiglio dei Ministri e dalle amministrazioni interessate. La struttura tecnica puo' richiedere la presenza di rappresentanti delle amministrazioni di volta in volta interessate.
  All'istituzione della struttura tecnica si provvede con decreto del Ministro del lavoro e della previdenza sociale da emanarsi, comunque, entro quindici giorni dalla data di pubblicazione del presente regolamento.
+
+2.
+                    
+                        
+                            L'esame da completarsi entro trenta giorni dalla scadenza del termine di presentazione dei programmi, deve riguardare:
+ 
+                        
+                        
+                            a)
+                            
+                                la verifica preventiva della rispondenza del programma alle finalita' di cui all'art. 1-ter della legge 19 luglio 1993, n. 236;
+
+                            
+                        
+                        
+                            b)
+                            
+                                la valutazione dell'impatto occupazionale previsto dal programma e della sua capacita' di incidenza sullo sviluppo socio-economico dell'area;
+
+                            
+                        
+                        
+                            c)
+                            
+                                la verifica della coerenza e della fattibilita' delle iniziative previste nel programma, considerate singolarmente o in blocchi, a seconda della loro dimensione.
+
+3.
+                    
+                        
+                            In sede di istruttoria dei programmi si tiene conto, ai fini del riconoscimento di priorita', della presenza delle seguenti circostanze:
+ 
+                        
+                        
+                            a)
+                            
+                                localizzazione nelle aree caratterizzate dalla presenza di crisi territoriali e/o settoriali di particolare gravita', con notevole impatto sui livelli occupazionali, per le quali siano stati stipulati protocolli di intesa, di particolare rilevanza sociale, aventi ad oggetto programmi di sviluppo o di reindustrializzazione nonche' di riordino delle imprese gia' appartenenti alle partecipazioni statali;
+
+                            
+                        
+                        
+                            b)
+                            
+                                gestione del programma da parte di una societa', anche consortile, di promozione e di sviluppo che aggreghi le principali forze istituzionali ed economiche dell'area e possa essere abilitata ad accedere ai cofinanziamenti comunitari in particolare mediante l'attivazione di sovvenzioni globali di cui al successivo art. 6.
 
 Le agevolazioni spettanti alle iniziative industriali, ricadenti negli interventi indicati al precedente art. 1, comma 2, lettera a), sono concedibili dal soggetto convenzionato, di cui al comma 2 del precedente art. 2, nella veste di intermediario, previa istruttoria tecnico finanziaria ed in osservanza delle normative applicabili individuate nella convenzione, nel rispetto dei criteri richiamati al comma 4 dell'art. 1-ter della legge 19 luglio 1993, n. 236, e della graduazione dei livelli fissati dal paragrafo 4 della delibera CIPI del 22 aprile 1993 ovvero dei livelli diversi, nazionali e comunitari, in essere alla data della domanda presentata al predetto soggetto convenzionato. Questi e' inoltre autorizzato, con i limiti e le garanzie indicati nella convenzione, ad erogare anticipazioni, a fronte degli investimenti previsti nel programma approvato, a favore delle imprese a cui siano state gia' concesse le agevolazioni da parte delle amministrazioni competenti.
 
@@ -83,6 +178,32 @@ L'erogazione delle quote successive alla prima anticipazione e del saldo e' subo
 Gli eventuali aggiornamenti e modifiche del programma devono essere richiesti al Ministro del lavoro e della previdenza sociale che li autorizza con proprio decreto.
 
 ## Art. 5. — Controllo sull'attuazione dei programmi
+
+1.
+                    
+                        
+                            La vigilanza sull'attuazione del programma si effettua attraverso il monitoraggio di indicatori fisici, occupazionali e finanziari, definiti nella convenzione in funzione delle specificita' del programma, dei suoi obiettivi socio-economici e della configurazione degli interventi che lo costituiscono.
+ Detti indicatori sono strutturati in modo da fornire a cadenza periodica per ciascun programma:
+ 
+                        
+                        
+                            a)
+                            
+                                lo stato di avanzamento dei singoli interventi componenti;
+
+                            
+                        
+                        
+                            b)
+                            
+                                l'andamento della gestione delle iniziative imprenditoriali previste;
+
+                            
+                        
+                        
+                            c)
+                            
+                                gli eventuali problemi connessi all'attuazione del programma.
 
 Il predetto monitoraggio e' effettuato dal Comitato per il coordinamento delle iniziative per l'occupazione, che riferisce al Presidente del Consiglio dei Ministri ed al Ministro del lavoro e della previdenza sociale, con cadenza almeno semestrale, predisponendo apposita relazione sullo stato di avanzamento del programma.
 

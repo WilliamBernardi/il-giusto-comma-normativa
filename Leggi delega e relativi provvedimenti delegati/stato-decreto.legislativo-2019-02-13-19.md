@@ -7,8 +7,8 @@ urn: urn:nir:stato:decreto.legislativo:2019-02-13;19
 vigente: true
 source: normattiva-opendata
 collection: Leggi delega e relativi provvedimenti delegati
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:41:18Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -25,7 +25,53 @@ Sulla proposta del Ministro per gli affari europei e del Ministro dell'economia 
 ## Art. 1. — Modifiche alla parte I del decreto 
  legislativo 24 febbraio 1998, n. 58
 
+1.
+                    
+                        
+                            All'articolo 1, comma 1, del decreto legislativo 24 febbraio 1998, n. 58, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                dopo la lettera c) e' inserita la seguente: 
+ «c-bis) "COVIP": la Commissione di vigilanza sui fondi pensione;»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                dopo la lettera r-ter) sono inserite le seguenti: 
+ «r-ter.1) "indice di riferimento" o "benchmark": l'indice di cui all'articolo 3, paragrafo 1, punto 3), del regolamento (UE) 2016/1011; 
+ r-ter.2) "amministratore di indici di riferimento": la persona fisica o giuridica di cui all'articolo 3, paragrafo 1, punto 6), del regolamento (UE) 2016/1011;».
+
 All'articolo 4, comma 1, del decreto legislativo 24 febbraio 1998, n. 58, le parole: «Commissione di vigilanza sui fondi pensione» sono sostituite dalla seguente: «COVIP».
+
+3.
+                    
+                        
+                            All'articolo 4-quater del decreto legislativo 24 febbraio 1998, n. 58, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                la rubrica e' sostituita dalla seguente: «(Individuazione delle autorita' nazionali competenti ai sensi del regolamento (UE) n. 648/2012 del Parlamento europeo e del Consiglio, del 4 luglio 2012, e ai sensi del regolamento (UE) 2015/2365 del Parlamento europeo e del Consiglio, del 25 novembre 2015)»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 2-bis le parole: «Commissione di vigilanza sui fondi pensione (COVIP)» sono sostituite dalla seguente: «COVIP» e dopo le parole: «dal regolamento (UE) n. 648/2012» sono inserite le seguenti: «e dal regolamento (UE) 2015/2365»; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                il primo periodo del comma 3 e' sostituito dal seguente: «La Consob e' l'autorita' competente nei confronti delle controparti non finanziarie, come definite rispettivamente dal regolamento (UE) n. 648/2012 e dal regolamento (UE) 2015/2365, che non siano soggetti vigilati da altra autorita' ai sensi del presente articolo, per il rispetto degli obblighi previsti dagli articoli 9, 10 e 11 del regolamento (UE) n. 648/2012 e dagli articoli 4 e 15 del regolamento (UE) 2015/2365.».
 
 Dopo l'articolo 4-septies del decreto legislativo 24 febbraio 1998, n. 58, e' inserito il seguente: 
  «Art. 4-septies.1 (Individuazione delle autorita' nazionali competenti ai sensi del regolamento (UE) 2016/1011 sugli indici usati come parametri di riferimento negli strumenti finanziari e nei contratti finanziari o per misurare la performance di fondi di investimento). - 1. Ai sensi dell'articolo 40, paragrafo 1, del regolamento (UE) 2016/1011, la Consob e' l'autorita' competente sugli amministratori di indici di riferimento e sui contributori di dati sottoposti a vigilanza, come definiti dall'articolo 3, paragrafo 1, punto 10), del citato regolamento, stabiliti nel territorio della Repubblica. 
@@ -53,6 +99,58 @@ Dopo l'articolo 190-bis del decreto legislativo 24 febbraio 1998, n. 58, e' inse
  6. Con il provvedimento di applicazione della sanzione amministrativa pecuniaria, in ragione della gravita' della violazione accertata e tenuto conto dei criteri stabiliti dall'articolo 194-bis, puo' essere applicata nei confronti della persona fisica ritenuta responsabile della violazione la sanzione amministrativa accessoria dell'interdizione, per un periodo non inferiore a sei mesi e non superiore a tre anni, dallo svolgimento di funzioni di amministrazione, direzione e controllo presso amministratori di indici di riferimento o contributori di dati sottoposti a vigilanza. 
  7. L'applicazione della sanzione amministrativa pecuniaria comporta la confisca del prodotto o del profitto dell'illecito. Si applica, in tal caso, l'articolo 187-sexies, commi 2 e 3. 
  8. Le sanzioni amministrative previste dal presente articolo sono applicate dalla Banca d'Italia, dalla Consob, dall'IVASS e dalla COVIP, sui soggetti dalle medesime vigilati e secondo le attribuzioni di vigilanza specificate all'articolo 4-septies.1 e le rispettive procedure sanzionatorie. Nei riguardi dell'IVASS e della COVIP trovano comunque applicazione, per quanto di rispettiva competenza e ai fini del presente articolo, gli articoli 194-bis, 194-quater, 194-septies e 195-ter, comma 1-bis. IVASS e COVIP pubblicano le sanzioni irrogate secondo le procedure di settore.».
+
+3.
+                    
+                        
+                            All'articolo 193-quater del decreto legislativo 24 febbraio 1998, n. 58, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                la rubrica e' sostituita dalla seguente: «(Sanzioni amministrative relative alla violazione delle disposizioni previste dal regolamento (UE) n. 648/2012 del Parlamento europeo e del Consiglio, del 4 luglio 2012, e dal regolamento (UE) 2015/2365 del Parlamento europeo e del Consiglio, del 25 novembre 2015)»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 1, dopo le parole «comma 1-bis» sono aggiunte, in fine, le seguenti parole: «, del presente decreto e ai sensi dell'articolo 325-bis del decreto legislativo 7 settembre 2005, n. 209»; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                dopo il comma 1 sono inseriti i seguenti: 
+ «1-bis. Le controparti finanziarie e le controparti non finanziarie, come definite dall'articolo 3, punti 3) e 4), del regolamento (UE) 2015/2365 del Parlamento europeo e del Consiglio, del 25 novembre 2015, le quali non osservano le disposizioni previste dall'articolo 4 del medesimo regolamento e le norme tecniche di regolamentazione e attuazione previste dal medesimo regolamento, sono punite con la sanzione amministrativa pecuniaria da euro cinquemila fino a euro cinque milioni, se sono persone fisiche. Se la violazione e' commessa da una societa' o da un ente, si applica nei confronti di questi ultimi la sanzione amministrativa pecuniaria da euro trentamila fino a euro cinque milioni, ovvero fino al dieci per cento del fatturato complessivo annuo, quando tale importo e' superiore a euro cinque milioni e il fatturato e' determinabile ai sensi dell'articolo 195, comma 1-bis, del presente decreto e ai sensi dell'articolo 325-bis del decreto legislativo 7 settembre 2005, n. 209. 
+ 1-ter. Nei confronti delle controparti indicate al comma 1-bis, le quali non osservano le disposizioni previste dall'articolo 15 del regolamento (UE) 2015/2365 si applica la sanzione amministrativa pecuniaria da euro cinquemila fino a euro cinque milioni, se sono persone fisiche. Se la violazione e' commessa da una societa' o da un ente, si applica nei confronti di questi ultimi la sanzione amministrativa pecuniaria da euro trentamila fino a euro quindici milioni, ovvero fino al dieci per cento del fatturato, quando tale importo e' superiore a euro quindici milioni e il fatturato e' determinabile ai sensi dell'articolo 195, comma 1-bis, del presente decreto e ai sensi dell'articolo 325-bis del decreto legislativo 7 settembre 2005, n. 209.»; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                dopo il comma 2 sono inseriti i seguenti: 
+ «2-bis. Fermo quanto previsto per le societa' e per gli enti nei confronti dei quali sono accertate le violazioni, nei confronti dei soggetti che svolgono funzioni di amministrazione, di direzione o controllo e del personale si applicano le sanzioni previste per le persone fisiche dai commi 1, 1-bis e 1-ter, nei casi previsti dall'articolo 190-bis, comma 1, lettera a). 
+ 2-ter. Con il provvedimento di applicazione della sanzione amministrativa pecuniaria prevista dal comma 2-bis, in ragione della gravita' della violazione accertata e tenuto conto dei criteri stabiliti dall'articolo 194-bis, puo' essere applicata la sanzione amministrativa accessoria dell'interdizione, per un periodo non inferiore a sei mesi e non superiore a tre anni, dallo svolgimento di funzioni di amministrazione, direzione e controllo presso le controparti centrali, i gestori delle sedi di negoziazione e le controparti finanziarie, come definite rispettivamente dagli articoli 2, punto 8), del regolamento (UE) n. 648/2012 e 3, punto 3), del regolamento (UE) 2015/2365. 
+ 2-quater. Se il vantaggio ottenuto dall'autore della violazione come conseguenza della violazione stessa e' superiore ai limiti massimi indicati nel presente articolo, la sanzione amministrativa pecuniaria e' elevata fino al triplo dell'ammontare del vantaggio ottenuto, purche' tale ammontare sia determinabile.»; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                il comma 3 e' sostituito dal seguente: 
+ «3. Le sanzioni previste dal presente articolo sono applicate dalla Banca d'Italia, dalla Consob, dall'IVASS e dalla COVIP, sui soggetti dalle medesime vigilati e secondo le attribuzioni di vigilanza specificate all'articolo 4-quater e le rispettive procedure sanzionatorie. Nei riguardi dell'IVASS e della COVIP trovano comunque applicazione, per quanto di rispettiva competenza e ai fini del presente articolo, gli articoli 194-bis, 194-quater, 194-septies e 195-ter, comma 1-bis. IVASS e COVIP pubblicano le sanzioni irrogate secondo le procedure di settore.»; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                il comma 4 e' abrogato.
 
 All'articolo 194-bis, comma 1, del decreto legislativo 24 febbraio 1998, n. 58, dopo la lettera g) e' inserita la seguente: 
  «g-bis) la criticita' dell'indice di riferimento per la stabilita' finanziaria;».

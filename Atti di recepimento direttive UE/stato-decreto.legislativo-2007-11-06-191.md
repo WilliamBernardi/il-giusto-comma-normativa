@@ -9,7 +9,7 @@ vigente: true
 source: normattiva-opendata
 collection: Atti di recepimento direttive UE
 zip_date: 2026-07-30
-fetched_at: 2026-08-02T09:40:47Z
+fetched_at: 2026-07-30
 ---
 
 DECRETO LEGISLATIVO
@@ -39,7 +39,143 @@ Le disposizioni di cui al presente decreto legislativo si applicano anche alla d
 
 Alle cellule riproduttive, ai tessuti e alle cellule fetali e alle cellule staminali embrionali, si applicano le disposizioni vigenti in materia. Per la conservazione si applicano le disposizioni di cui al presente decreto in quanto compatibili.
 
+4.
+                        
+                            
+                                Il presente decreto non si applica a:
+ 
+                            
+                            
+                                a)
+                                
+                                    tessuti e cellule utilizzati per un trapianto autologo nell'ambito dello stesso intervento chirurgico;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    sangue e suoi componenti secondo la definizione del decreto legislativo 19 agosto 2005, n. 191, e successive modificazioni;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    organi o parti di organi, qualora la loro funzione sia quella di essere utilizzati per lo stesso scopo dell'organo intero nel corpo umano.
+
 ## Art. 3. — Definizioni
+
+1.
+                        
+                            
+                                Ai fini del presente decreto si intende per:
+ 
+                            
+                            
+                                a)
+                                
+                                    «cellule»: le cellule umane singole o un insieme di cellule umane non collegate da alcuna forma di tessuto connettivo;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    «tessuto»: tutte le parti costituenti del corpo umano formate da cellule;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    «donatore»: qualsiasi fonte umana, vivente o deceduta, di cellule o tessuti umani;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    «donazione»: l'atto di donare tessuti o cellule umani destinati ad applicazioni sull'uomo;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    «organo»: una parte differenziata e vitale del corpo umano, formata da diversi tessuti, che mantiene la propria struttura, vascolarizzazione e capacita' di sviluppare funzioni fisiologiche con un sensibile livello di autonomia;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    «approvvigionamento»: il processo che rende disponibile il tessuto o le cellule;
+
+                                
+                            
+                            
+                                g)
+                                
+                                    «lavorazione»: tutte le operazioni connesse con la preparazione, la manipolazione, la conservazione e l'imballaggio dei tessuti o delle cellule destinati ad applicazioni sull'uomo;
+
+                                
+                            
+                            
+                                h)
+                                
+                                    «conservazione»: l'uso di agenti chimici, alterazioni delle condizioni ambientali o altri mezzi impiegati durante la lavorazione per impedire o ritardare il deterioramento biologico o fisico di cellule o tessuti;
+
+                                
+                            
+                            
+                                i)
+                                
+                                    «quarantena»: lo stato dei tessuti o cellule prelevati, o di un tessuto isolato fisicamente o tramite altri mezzi appropriati, in attesa di una decisione sulla loro accettazione o sul loro rifiuto;
+
+                                
+                            
+                            
+                                l)
+                                
+                                    «stoccaggio»: il mantenimento del prodotto in condizioni adeguate e controllate fino alla sua distribuzione;
+
+                                
+                            
+                            
+                                m)
+                                
+                                    «distribuzione»: il trasporto e la consegna di tessuti o cellule destinati ad applicazioni sull'uomo;
+
+                                
+                            
+                            
+                                n)
+                                
+                                    «applicazione sull'uomo»: l'uso di tessuti o cellule su o in un ricevente umano, nonche' le applicazioni extra-corporee;
+
+                                
+                            
+                            
+                                o)
+                                
+                                    «evento avverso grave»: qualunque evento negativo collegato con l'approvvigionamento, il controllo, la lavorazione, lo stoccaggio e la distribuzione di tessuti e cellule, che possa provocare la trasmissione di malattie trasmissibili, la morte o condizioni di pericolo di vita, di invalidita' o incapacita' dei pazienti, o ne produca o prolunghi l'ospedalizzazione o lo stato di malattia;
+
+                                
+                            
+                            
+                                p)
+                                
+                                    «reazione avversa grave»: una risposta non voluta nel donatore o nel ricevente, compresa una malattia trasmissibile, connessa con l'approvvigionamento o l'applicazione sull'uomo di tessuti o cellule, che provochi la morte, metta in pericolo la vita o produca invalidita' o incapacita' dell'interessato, o ne produca o prolunghi l'ospedalizzazione o lo stato di malattia;
+
+                                
+                            
+                            
+                                q)
+                                
+                                    «istituto dei tessuti»: una banca dei tessuti, come prevista dalla legge 1° aprile 1999, n. 91, o una unita' di un ospedale pubblico, o un settore di un servizio trasfusionale come previsto dal decreto legislativo 19 agosto 2005, n. 191, o una struttura sanitaria senza fini di lucro, in cui si effettuano attivita' di lavorazione, conservazione, stoccaggio o distribuzione di tessuti e cellule umani, o una struttura sanitaria autorizzata ai sensi della legge 19 febbraio 2004, n. 40, per le attivita' compatibili con la legge medesima. Fatte salve le competenze delle regioni e province autonome in materia di autorizzazione al funzionamento degli istituti, il Ministero della salute, le regioni e le province autonome di Trento e di Bolzano, di seguito denominate: «province autonome», mediante accordo in Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome di Trento e di Bolzano, emanano le linee guida per l'accreditamento delle attivita' di tali istituti, conformemente alla normativa vigente in materia, sulla base delle indicazioni fornite dal Centro nazionale trapianti, dal Centro nazionale sangue e dall'Istituto superiore di Sanita' secondo i rispettivi ambiti di competenza. L'Istituto dei tessuti puo' inoltre essere incaricato dell'approvvigionamento o del controllo, comprendente anche l'esecuzione degli esami analitici, dei tessuti e delle cellule;
+ s) «uso allogenico»: cellule o tessuti prelevati da una persona ed applicati ad un'altra;
+ t) «uso autologo»: cellule o tessuti prelevati da una persona ed applicati sulla stessa persona.
 
 ## Art. 4. — Attuazione
 
@@ -76,6 +212,31 @@ La regione o la provincia autonoma assicura, inoltre, l'adozione di appropriate 
 
 Le ispezioni e le misure di controllo, di cui ai commi 1 e 2, sono attuate a intervalli di tempo regolari e comunque non superiori a due anni.
 
+4.
+                        
+                            
+                                Tali ispezioni e misure di controllo sono effettuate da personale incaricato che ha il potere di:
+ 
+                            
+                            
+                                a)
+                                
+                                    ispezionare gli istituti dei tessuti e le strutture dei terzi indicati all'articolo 24;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    valutare e verificare le procedure e le attivita' svolte negli istituti dei tessuti, nonche' nelle strutture dei terzi sopraindicati;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    esaminare qualsiasi documento o altre registrazioni connessi a quanto richiesto dalla normativa vigente e dal presente decreto.
+
 Con accordo in sede di Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome di Trento e di Bolzano sono stabiliti, anche in conformita' alle indicazioni fornite dagli organismi europei, i criteri relativi allo svolgimento delle ispezioni e delle misure di controllo, e quelli inerenti alla formazione ed alla qualificazione del personale interessato, al fine di raggiungere livelli omogenei di competenza e rendimento.
 
 La regione o la provincia autonoma organizza ispezioni ed attua misure di controllo adeguate in caso di reazioni o eventi avversi gravi, avvalendosi per gli specifici ambiti di competenza del supporto del CNT o del CNS. In tale caso sono inoltre organizzate ispezioni e attuate misure di controllo su richiesta debitamente motivata da parte delle autorita' competenti di un altro Stato membro.
@@ -102,6 +263,31 @@ Con apposito decreto di recepimento di direttive tecniche europee adottato dal M
 Con decreto del Ministro della salute, adottato di concerto con il Ministro dell'economia e delle finanze, d'intesa con la Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome di Trento e di Bolzano, sono individuate tutte le misure necessarie per garantire che ogni importazione di tessuti e cellule da Paesi terzi sia effettuata da istituti dei tessuti accreditati o designati o autorizzati o titolari di licenza, ai fini dello svolgimento delle proprie attivita' e che i tessuti e le cellule importati siano rintracciabili dal donatore al ricevente e viceversa, come previsto dall'articolo 8. Gli istituti dei tessuti che ricevono tali importazioni da Paesi terzi ne assicurano la conformita' a norme di qualita' e sicurezza equivalenti a quelle fissate dalla normativa vigente e dal presente decreto.
 
 Con il decreto di cui al comma 1 sono fissate, altresi', tutte le misure necessarie per garantire che ogni esportazione di tessuti e cellule verso Paesi terzi sia effettuata da istituti dei tessuti autorizzati e accreditati, e che la stessa sia conforme ai requisiti previsti dalla normativa vigente e dal presente decreto.
+
+3.
+                        
+                            
+                                Il succitato decreto regola anche:
+ 
+                            
+                            
+                                a)
+                                
+                                    l'importazione e l'esportazione di tessuti e cellule specifici, di cui all'articolo 6, comma 6;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'importazione o l'esportazione di tessuti e cellule specifici, di cui all'articolo 6, comma 6, in caso di emergenza;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    l'adozione di tutte le misure necessarie per assicurare che le importazioni e le esportazioni dei tessuti e cellule di cui alle lettere a) e b) siano conformi a norme di qualita' e di sicurezza equivalenti a quelle fissate dalla normativa vigente e dal presente decreto.
 
 Con apposito decreto del Ministro della salute sono recepite le procedure, stabilite in sede europea, volte alla verifica del rispetto delle norme di qualita' e di sicurezza equivalenti.
 
@@ -146,6 +332,31 @@ Con decreto del Ministro della salute, d'intesa con la Conferenza permanente per
 
 Tutti i dati, comprese le informazioni genetiche, raccolti ai sensi delle disposizioni vigenti e del presente decreto ed ai quali abbiano accesso terzi, sono resi anonimi in modo tale che ne' il donatore ne' il ricevente siano identificabili.
 
+2.
+                        
+                            
+                                A tale fine e' garantito che:
+ 
+                            
+                            
+                                a)
+                                
+                                    siano adottate misure di protezione dei dati e misure di tutela volte ad evitare aggiunte, soppressioni o modifiche dei dati non autorizzate negli archivi riguardanti i donatori o nei registri dei donatori esclusi, o qualunque trasferimento di informazioni;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    siano istituite procedure volte a risolvere le divergenze tra i dati;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    non avvenga alcuna divulgazione non autorizzata di tali informazioni, garantendo nel contempo la tracciabilita' delle donazioni.
+
 Nel rispetto delle disposizioni vigenti in materia, l'identita' del o dei riceventi non e' rivelata al donatore o alla sua famiglia e viceversa.
 
 ## Art. 15. — Selezione, valutazione e approvvigionamento
@@ -166,11 +377,100 @@ Con apposito decreto di recepimento di direttive tecniche europee adottato dal M
 
 Con provvedimento analogo sono recepite le norme e le specifiche comunitarie di cui all'articolo 28, comma 1, lettera c), per le attivita' relative al sistema di qualita'.
 
+3.
+                        
+                            
+                                Gli istituti dei tessuti adottano tutte le misure necessarie per assicurare che il sistema di qualita' comprenda almeno la seguente documentazione:
+ 
+                            
+                            
+                                a)
+                                
+                                    procedure operative standard;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    linee-guida;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    manuali di formazione e di riferimento;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    moduli per le relazioni;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    dati relativi ai donatori;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    informazioni sulla destinazione finale dei tessuti o delle cellule.
+
 Gli istituti dei tessuti assicurano la disponibilita' della documentazione di cui al comma 3 nel momento dell'ispezione da parte dell'autorita' competente o delle autorita' competenti, ai sensi dell'articolo 7.
 
 Gli istituti dei tessuti conservano i dati necessari per garantire la tracciabilita' come previsto dall'articolo 8.
 
 ## Art. 17. — Persona responsabile
+
+1.
+                        
+                            
+                                L'Ente titolare dell'autorizzazione e accreditamento, in funzione delle attivita' svolte dall'istituto dei tessuti, ne designa il responsabile che soddisfa almeno le seguenti condizioni:
+ 
+                            
+                            
+                                a)
+                                
+                                    possesso del diploma di laurea in medicina e chirurgia o in scienze biologiche; nel caso in cui la persona responsabile sia un biologo, gli deve essere comunque assicurata la possibilita' di avvalersi di una professionalita' medica per gli aspetti di competenza;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    esperienza pratica di almeno due anni nei settori pertinenti.
+
+2.
+                        
+                            
+                                La persona designata ai sensi del comma 1 ha le seguenti responsabilita':
+ 
+                            
+                            
+                                a)
+                                
+                                    garantire che i tessuti e le cellule umani destinati ad applicazioni sull'uomo, nell'ambito dell'istituto di cui e' responsabile, siano prelevati, controllati, lavorati, stoccati e distribuiti ai sensi delle disposizioni vigenti e del presente decreto;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    fornire alla regione o alla provincia autonoma le informazioni richieste ai sensi dell'articolo 6;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    attuare, relativamente alle attivita' svolte, le disposizioni previste agli articoli 7, 10, 11, 15, 16 ed agli articoli da 18 a 24.
 
 L'Ente titolare dell'autorizzazione e accreditamento comunica alla regione o alla provincia autonoma il nome della persona responsabile dell'istituto dei tessuti. Qualora la persona responsabile debba essere temporaneamente o permanentemente sostituita, il sopraindicato Ente comunica alla regione o alla provincia autonoma il nome del nuovo responsabile e la data di assunzione delle funzioni.
 
@@ -222,6 +522,31 @@ Gli istituti dei tessuti garantiscono la qualita' dei tessuti e delle cellule du
 
 ## Art. 24. — Rapporti fra istituti dei tessuti e terzi
 
+1.
+                        
+                            
+                                Gli istituti dei tessuti, previa autorizzazione della regione o provincia autonoma, concludono accordi scritti con terzi, ogniqualvolta vi sia un intervento esterno e tale attivita' influisca sulla qualita' e la sicurezza dei tessuti e delle cellule lavorati, in particolare nei seguenti casi:
+ 
+                            
+                            
+                                a)
+                                
+                                    qualora l'istituto dei tessuti affidi a terzi una fase della lavorazione dei tessuti o delle cellule;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    qualora i terzi forniscano beni e servizi incidenti sulla garanzia di qualita' e di sicurezza dei tessuti o cellule, inclusa la loro distribuzione;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    qualora un istituto dei tessuti distribuisca tessuti o cellule lavorati da terzi.
+
 Ove i terzi intervengano in una fase della lavorazione dei tessuti e delle cellule, preliminarmente alla stipula dell'accordo, sono sottoposti, da parte del CNT o del CNS, secondo le specifiche competenze, alla verifica del possesso dei requisiti prescritti dalla normativa vigente e dal presente decreto per lo svolgimento della specifica attivita'. Alla verifica del possesso dei requisiti segue il rilascio da parte del Ministero della salute di un nulla osta all'esercizio di detta attivita' di lavorazione a favore di istituti dei tessuti.
 
 Gli istituti dei tessuti conservano un elenco completo degli accordi di cui al comma 1 che essi hanno concluso con terzi.
@@ -258,6 +583,73 @@ Se si tratta di pubblico dipendente si applica l'interdizione dal pubblico uffic
 ## - Capo VI Disposizioni finali
 
 ## Art. 28. — Requisiti tecnici e loro adeguamento al progresso scientifico e tecnico
+
+1.
+                        
+                            
+                                Con appositi decreti del Ministero della salute sono recepite le disposizioni, emanate a livello europeo, per l'adeguamento al progresso tecnico e scientifico dei requisiti tecnici nelle materie di seguito elencate:
+ 
+                            
+                            
+                                a)
+                                
+                                    requisiti per l'autorizzazione e l'accreditamento degli istituti dei tessuti;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    requisiti per l'approvvigionamento di tessuti o cellule umani;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    sistema di qualita', compresa la formazione;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    criteri di selezione dei donatori di tessuti e/o cellule;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    esami di laboratorio richiesti per i donatori;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    procedure per l'approvvigionamento di cellule e/o tessuti e ricevimento all'istituto dei tessuti;
+
+                                
+                            
+                            
+                                g)
+                                
+                                    requisiti per i procedimenti di preparazione di tessuti e cellule;
+
+                                
+                            
+                            
+                                h)
+                                
+                                    lavorazione, stoccaggio e distribuzione di tessuti e cellule;
+
+                                
+                            
+                            
+                                i)
+                                
+                                    requisiti per la distribuzione diretta al ricevente di tessuti e cellule specifici.
 
 ## Art. 29. — Clausola di invarianza degli oneri di spesa
 

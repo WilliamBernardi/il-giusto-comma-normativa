@@ -8,8 +8,8 @@ codice_redazionale: 087U0469
 vigente: true
 source: normattiva-opendata
 collection: DPR
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:48:11Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -25,6 +25,31 @@ Sulla proposta del Presidente del Consiglio dei Ministri, di concerto con i Mini
 
 ## Art. 1. — Abbreviazioni
 
+1.
+                        
+                            
+                                Nel presente decreto sono adottate le seguenti abbreviazioni:
+ 
+                            
+                            
+                                a)
+                                
+                                    per indicare la regione Friuli-Venezia Giulia, le parole "regione Fr.-V.G.";
+
+                                
+                            
+                            
+                                b)
+                                
+                                    per indicare lo statuto speciale della regione Friuli-Venezia Giulia, approvato con legge costituzionale 31 gennaio 1963, n. 1, le parole "statuto speciale";
+
+                                
+                            
+                            
+                                c)
+                                
+                                    per indicare il decreto del Presidente della Repubblica 24 luglio 1977, n. 616, le parole "D.P.R. n. 616".
+
 ## Art. 2. — Regolamenti e direttive della Comunita' economica europea
 
 Le disposizioni dell'art. 6 del D.P.R. n. 616 si applicano anche nei confronti della regione Fr.-V.G., per ciascuna delle materie di sua competenza.
@@ -38,6 +63,31 @@ La regione Fr.-V.G., sulla base di programmi generali, comunicati alla Presidenz
 Delle singole iniziative, che la Regione assume in attuazione dei suddetti programmi, e' data tempestiva notizia alla Presidenza del Consiglio dei Ministri.
 
 ## Art. 4. — Materie di competenza primaria - Intervento del presidente della regione alle riunioni del Consiglio dei Ministri
+
+1.
+                        
+                            
+                                Fra le questioni contemplate nell'art. 44 dello statuto speciale si considerano comprese, relativamente alle materie attribuite alla competenza primaria della regione Fr.-V.G.:
+ 
+                            
+                            
+                                a)
+                                
+                                    la determinazione, per il Friuli-Venezia Giulia, degli obiettivi della programmazione economica nazionale ed, in genere, ogni questione che, incidendo sul territorio regionale, interessi particolarmente la regione Fr.-V.G.;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le determinazioni concernenti i disegni di legge nelle suddette materie, nonche' gli atti di indirizzo e coordinamento;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    le determinazioni concernenti i rapporti internazionali, per la parte che si riferisca espressamente al territorio regionale.
 
 Il presidente della giunta regionale interviene, per essere sentito, anche alle sedute dei comitati o collegi che, per legge o per delega, trattino questioni di competenza del Consiglio dei Ministri, allorche' le questioni stesse interessino particolarmente la regione Fr.-V.G.
 

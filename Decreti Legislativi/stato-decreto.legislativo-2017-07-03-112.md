@@ -8,8 +8,8 @@ vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
 vigenza_date: 2024-08-03
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:31Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -46,9 +46,185 @@ Le disposizioni del presente decreto non si applicano agli enti di cui al decret
 
 Attivita' d'impresa di interesse generale
 
+1.
+                    
+                        
+                            L'impresa sociale esercita in via stabile e principale una o piu' attivita' d'impresa di interesse generale per il perseguimento di finalita' civiche, solidaristiche e di utilita' sociale. Ai fini del presente decreto, si considerano di interesse generale, se svolte in conformita' alle norme particolari che ne disciplinano l'esercizio, le attivita' d'impresa aventi ad oggetto: 
+ 
+                        
+                        
+                            a)
+                            
+                                interventi e servizi sociali ai sensi dell'articolo 1, commi 1 e 2, della legge 8 novembre 2000, n. 328, e successive modificazioni, ed interventi, servizi e prestazioni di cui alla legge 5 febbraio 1992, n. 104, e successive modificazioni, e di cui alla legge 22 giugno 2016, n. 112, e successive modificazioni; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                interventi e prestazioni sanitarie; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                prestazioni socio-sanitarie di cui al decreto del Presidente del Consiglio dei ministri del 14 febbraio 2001, pubblicato nella Gazzetta Ufficiale n. 129 del 6 giugno 2001, e successive modificazioni; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                educazione, istruzione e formazione professionale, ai sensi della legge 28 marzo 2003, n. 53, e successive modificazioni, nonche' le attivita' culturali di interesse sociale con finalita' educativa; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                interventi e servizi finalizzati alla salvaguardia e al miglioramento delle condizioni dell'ambiente e all'utilizzazione accorta e razionale delle risorse naturali, con esclusione dell'attivita', esercitata abitualmente, di raccolta e riciclaggio dei rifiuti urbani, speciali e pericolosi ((, nonche' alla produzione, all'accumulo e alla condivisione di energia da fonti rinnovabili a fini di autoconsumo, ai sensi del decreto legislativo 8 novembre 2021, n. 199)); 
+
+                            
+                        
+                        
+                            f)
+                            
+                                interventi di tutela e valorizzazione del patrimonio culturale e del paesaggio, ai sensi del decreto legislativo 22 gennaio 2004, n. 42, e successive modificazioni; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                formazione universitaria e post-universitaria; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                ricerca scientifica di particolare interesse sociale; 
+
+                            
+                        
+                        
+                            i)
+                            
+                                organizzazione e gestione di attivita' culturali, artistiche o ricreative di interesse sociale, incluse attivita', anche editoriali, di promozione e diffusione della cultura e della pratica del volontariato, e delle attivita' di interesse generale di cui al presente articolo; 
+
+                            
+                        
+                        
+                            j)
+                            
+                                radiodiffusione sonora a carattere comunitario, ai sensi dell'articolo 16, comma 5, della legge 6 agosto 1990, n. 223, e successive modificazioni; 
+
+                            
+                        
+                        
+                            k)
+                            
+                                organizzazione e gestione di attivita' turistiche di interesse sociale, culturale o religioso; 
+
+                            
+                        
+                        
+                            l)
+                            
+                                formazione extra-scolastica, finalizzata alla prevenzione della dispersione scolastica e al successo scolastico e formativo, alla prevenzione del bullismo ed al contrasto della poverta' educativa; 
+
+                            
+                        
+                        
+                            m)
+                            
+                                servizi strumentali alle imprese sociali o ad altri enti del Terzo settore resi da enti composti in misura non inferiore al settanta per cento da imprese sociali o da altri enti del Terzo settore; 
+
+                            
+                        
+                        
+                            n)
+                            
+                                cooperazione allo sviluppo, ai sensi della legge 11 agosto 2014, n. 125, e successive modificazioni; 
+
+                            
+                        
+                        
+                            o)
+                            
+                                attivita' commerciali, produttive, di educazione e informazione, di promozione, di rappresentanza, di concessione in licenza di marchi di certificazione, svolte nell'ambito o a favore di filiere del commercio equo e solidale, da intendersi come un rapporto commerciale con un produttore operante in un'area economica svantaggiata situata, di norma, in un Paese in via di sviluppo, sulla base di un accordo di lunga durata finalizzato a promuovere l'accesso del produttore al mercato, e che preveda il pagamento di un prezzo equo, misure di sviluppo in favore del produttore e l'obbligo del produttore di garantire condizioni di lavoro sicure, nel rispetto delle normative nazionali ed internazionali, in modo da permettere ai lavoratori di condurre un'esistenza libera e dignitosa, e di rispettare i diritti sindacali, nonche' di impegnarsi per il contrasto del lavoro infantile; 
+
+                            
+                        
+                        
+                            p)
+                            
+                                servizi finalizzati all'inserimento o al reinserimento nel mercato del lavoro dei lavoratori e delle persone di cui al comma 4; 
+
+                            
+                        
+                        
+                            q)
+                            
+                                alloggio sociale, ai sensi del decreto del Ministro delle infrastrutture 22 aprile 2008, e successive modificazioni nonche' ogni altra attivita' di carattere residenziale temporaneo diretta a soddisfare bisogni sociali, sanitari, culturali, formativi o lavorativi; 
+
+                            
+                        
+                        
+                            r)
+                            
+                                accoglienza umanitaria ed integrazione sociale dei migranti; 
+
+                            
+                        
+                        
+                            s)
+                            
+                                microcredito, ai sensi dell'articolo 111 del decreto legislativo 1° settembre 1993, n. 385, e successive modificazioni; 
+
+                            
+                        
+                        
+                            t)
+                            
+                                agricoltura sociale, ai sensi dell'articolo 2 della legge 18 agosto 2015, n. 141, e successive modificazioni; 
+
+                            
+                        
+                        
+                            u)
+                            
+                                organizzazione e gestione di attivita' sportive dilettantistiche; 
+
+                            
+                        
+                        
+                            v)
+                            
+                                riqualificazione di beni pubblici inutilizzati o di beni confiscati alla criminalita' organizzata.
+
 Tenuto conto delle finalita' civiche, solidaristiche e di utilita' sociale di cui all'articolo 1, comma 1, della legge n. 106 del 2016, nonche' delle finalita' e dei principi di cui agli articoli 1 e 2 del codice del Terzo settore di cui al decreto legislativo 3 luglio 2017, n. 117, l'elenco delle attivita' d'impresa di interesse generale di cui al comma 1 puo' essere aggiornato con decreto del Presidente del Consiglio dei ministri da adottarsi, ai sensi dell'articolo 17, comma 3, della legge 23 agosto 1988, n. 400, su proposta del Ministro del lavoro e delle politiche sociali, di concerto con il Ministro dell'economia e delle finanze, previa intesa in sede di Conferenza unificata, acquisito il parere delle commissioni parlamentari competenti, che si esprimono entro trenta giorni dalla data di trasmissione del decreto, decorsi i quali quest'ultimo puo' essere comunque adottato.
 
 Ai fini di cui al comma 1, si intende svolta in via principale l'attivita' per la quale i relativi ricavi siano superiori al settanta per cento dei ricavi complessivi dell'impresa sociale, secondo criteri di computo definiti con decreto del Ministro dello sviluppo economico, di concerto con il Ministro del lavoro e delle politiche sociali.
+
+4.
+                    
+                        
+                            Ai fini del presente decreto, si considera comunque di interesse generale, indipendentemente dal suo oggetto, l'attivita' d'impresa nella quale, per il perseguimento di finalita' civiche, solidaristiche e di utilita' sociale, sono occupati: 
+ 
+                        
+                        
+                            a)
+                            
+                                lavoratori molto svantaggiati ai sensi dell'articolo 2, numero 99), del regolamento (UE) n. 651/2014 della Commissione, del 17 giugno 2014, e successive modificazioni; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                persone svantaggiate o con disabilita' ai sensi dell'articolo 112, comma 2, del decreto legislativo 18 aprile 2016, n. 50, e successive modificazioni, nonche' persone beneficiarie di protezione internazionale ai sensi del decreto legislativo 19 novembre 2007, n. 251, e successive modificazioni, e persone senza fissa dimora iscritte nel registro di cui all'articolo 2, quarto comma, della legge 24 dicembre 1954, n. 1228, le quali versino in una condizione di poverta' tale da non poter reperire e mantenere un'abitazione in autonomia.
 
 Ai fini di cui al comma 4, l'impresa sociale impiega alle sue dipendenze un numero di persone di cui alle lettere a) e b) non inferiore al trenta per cento dei lavoratori. Ai fini del computo di questa percentuale minima, i lavoratori di cui alla lettera a) non possono contare per piu' di un terzo e per piu' di ventiquattro mesi dall'assunzione. La situazione dei lavoratori di cui al comma 4 deve essere attestata ai sensi della normativa vigente.
 
@@ -58,7 +234,71 @@ Per gli enti di cui all'articolo 1, comma 3, le disposizioni di cui ai commi 3 e
 
 Salvo quanto previsto dal comma 3 e dall'articolo 16, l'impresa sociale destina eventuali utili ed avanzi di gestione allo svolgimento dell'attivita' statutaria o ad incremento del patrimonio.
 
+2.
+                    
+                        
+                            Ai fini di cui al comma 1, e' vietata la distribuzione, anche indiretta, di utili ed avanzi di gestione, fondi e riserve comunque denominati, a fondatori, soci o associati, lavoratori e collaboratori, amministratori ed altri componenti degli organi sociali, anche nel caso di recesso o di qualsiasi altra ipotesi di scioglimento individuale del rapporto. Nelle imprese sociali costituite nelle forme di cui al libro V del codice civile e' ammesso il rimborso al socio del capitale effettivamente versato ed eventualmente rivalutato o aumentato nei limiti di cui al comma 3, lettera a). Ai sensi e per gli effetti di cui al presente comma, si considerano in ogni caso distribuzione indiretta di utili: 
+ 
+                        
+                        
+                            a)
+                            
+                                la corresponsione ad amministratori, sindaci e a chiunque rivesta cariche sociali di compensi individuali non proporzionati all'attivita' svolta, alle responsabilita' assunte e alle specifiche competenze o comunque superiori a quelli previsti in enti che operano nei medesimi o analoghi settori e condizioni; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                la corresponsione ai lavoratori subordinati o autonomi di retribuzioni o compensi superiori del quaranta per cento rispetto a quelli previsti, per le medesime qualifiche, dai contratti collettivi di cui all'articolo 51 del decreto legislativo 15 giugno 2015, n. 81, salvo comprovate esigenze attinenti alla necessita' di acquisire specifiche competenze ai fini dello svolgimento delle attivita' di interesse generale di cui all'articolo 2, comma 1 ((...)); 
+
+                            
+                        
+                        
+                            c)
+                            
+                                la remunerazione degli strumenti finanziari diversi dalle azioni o quote, a soggetti diversi dalle banche e dagli intermediari finanziari autorizzati, in misura superiore a due punti rispetto al limite massimo previsto per la distribuzione di dividendi dal comma 3, lettera a); 
+
+                            
+                        
+                        
+                            d)
+                            
+                                l'acquisto di beni o servizi per corrispettivi che, senza valide ragioni economiche, siano superiori al loro valore normale; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                le cessioni di beni e le prestazioni di servizi, a condizioni piu' favorevoli di quelle di mercato, a soci, associati o partecipanti, ai fondatori, ai componenti gli organi amministrativi e di controllo, a coloro che a qualsiasi titolo operino per l'organizzazione o ne facciano parte, ai soggetti che effettuano erogazioni liberali a favore dell'organizzazione, ai loro parenti entro il terzo grado ed ai loro affini entro il secondo grado, nonche' alle societa' da questi direttamente o indirettamente controllate o collegate, esclusivamente in ragione della loro qualita', salvo che tali cessioni o prestazioni non costituiscano l'oggetto dell'attivita' di interesse generale di cui all'articolo 2; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                la corresponsione a soggetti diversi dalle banche e dagli intermediari finanziari autorizzati, di interessi passivi, in dipendenza di prestiti di ogni specie, superiori di quattro punti al tasso annuo di riferimento. Il predetto limite puo' essere aggiornato con decreto del Ministro del lavoro e delle politiche sociali, di concerto con il Ministro dell'economia e delle finanze.
+
 Ai fini di cui ai commi 1 e 2, non si considera distribuzione, neanche indiretta, di utili ed avanzi di gestione la ripartizione ai soci di ristorni correlati ad attivita' di interesse generale di cui all'articolo 2, effettuata ai sensi dell'art. 2545-sexies del codice civile e nel rispetto di condizioni e limiti stabiliti dalla legge o dallo statuto, da imprese sociali costituite in forma di societa' cooperativa, a condizione che lo statuto o l'atto costitutivo indichi i criteri di ripartizione dei ristorni ai soci proporzionalmente alla quantita' e alla qualita' degli scambi mutualistici e che si registri un avanzo della gestione mutualistica.
+
+3.
+                    
+                        
+                            L'impresa sociale puo' destinare una quota inferiore al cinquanta per cento degli utili e degli avanzi di gestione annuali, dedotte eventuali perdite maturate negli esercizi precedenti: 
+ 
+                        
+                        
+                            a)
+                            
+                                se costituita nelle forme di cui al libro V del codice civile, ad aumento gratuito del capitale sociale sottoscritto e versato dai soci, nei limiti delle variazioni dell'indice nazionale generale annuo dei prezzi al consumo per le famiglie di operai e di impiegati, calcolate dall'Istituto nazionale di statistica (ISTAT) per il periodo corrispondente a quello dell'esercizio sociale in cui gli utili e gli avanzi di gestione sono stati prodotti, oppure alla distribuzione, anche mediante aumento gratuito del capitale sociale o l'emissione di strumenti finanziari, di dividendi ai soci, in misura comunque non superiore all'interesse massimo dei buoni postali fruttiferi, aumentato di due punti e mezzo rispetto al capitale effettivamente versato; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                a erogazioni gratuite in favore di enti del Terzo settore diversi dalle imprese sociali, che non siano fondatori, associati, soci dell'impresa sociale o societa' da questa controllate, finalizzate alla promozione di specifici progetti di utilita' sociale.
 
 ## Art. 4. — Struttura proprietaria e disciplina dei gruppi
 
@@ -71,6 +311,24 @@ Le societa' costituite da un unico socio persona fisica, gli enti con scopo di l
 Le decisioni assunte in violazione del divieto di cui al comma 3 sono annullabili e possono essere impugnate in conformita' delle norme del codice civile entro il termine di centottanta giorni. La legittimazione ad impugnare spetta anche al Ministero del lavoro e delle politiche sociali.
 
 ## Art. 5. — (Costituzione)
+
+1.
+                    
+                        
+                            L'impresa sociale e' costituita con atto pubblico. Oltre a quanto specificamente previsto per ciascun tipo di organizzazione, secondo la normativa applicabile a ciascuna di esse, gli atti costitutivi devono esplicitare il carattere sociale dell'impresa in conformita' alle norme del presente decreto e in particolare indicare: 
+ 
+                        
+                        
+                            a)
+                            
+                                l'oggetto sociale, con particolare riferimento alle disposizioni di cui all'articolo 2, comma 1, 2 e 3 o le condizioni di cui all'articolo 2, commi 4 e 5; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                l'assenza di scopo di lucro, di cui all'articolo 3.
 
 Gli atti costitutivi, le loro modificazioni e gli altri atti relativi all'impresa devono essere depositati entro trenta giorni a cura del notaio o degli amministratori presso l'ufficio del registro delle imprese nella cui circoscrizione e' stabilita la sede legale, per l'iscrizione in apposita sezione. Si applica l'articolo 31, comma 2, della legge 24 novembre 2000, n. 340.
 
@@ -132,6 +390,24 @@ Nei regolamenti aziendali o negli statuti delle imprese sociali devono essere pr
 Per coinvolgimento deve intendersi un meccanismo di consultazione o di partecipazione mediante il quale lavoratori, utenti e altri soggetti direttamente interessati alle attivita' siano posti in grado di esercitare un'influenza sulle decisioni dell'impresa sociale, con particolare riferimento alle questioni che incidano direttamente sulle condizioni di lavoro e sulla qualita' dei beni o dei servizi.
 
 Le modalita' di coinvolgimento devono essere individuate dall'impresa sociale tenendo conto, tra gli altri elementi, dei contratti collettivi di cui all'articolo 51 del decreto legislativo 15 giugno 2015, n. 81, della natura dell'attivita' esercitata, delle categorie di soggetti da coinvolgere e delle dimensioni dell'impresa sociale, in conformita' a linee guida adottate con decreto del Ministro del lavoro e delle politiche sociali, sentito il Consiglio nazionale del Terzo settore. Delle forme e modalita' di coinvolgimento deve farsi menzione nel bilancio sociale di cui all'articolo 9, comma 2.
+
+4.
+                    
+                        
+                            Gli statuti delle imprese sociali devono in ogni caso disciplinare: 
+ 
+                        
+                        
+                            a)
+                            
+                                i casi e le modalita' della partecipazione dei lavoratori e degli utenti, anche tramite loro rappresentanti, all'assemblea degli associati o dei soci; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                nelle imprese sociali che superino due dei limiti indicati nel primo comma dell'articolo 2435-bis del codice civile ridotti della meta', la nomina, da parte dei lavoratori ed eventualmente degli utenti di almeno un componente sia dell'organo di amministrazione che dell'organo di controllo.
 
 Il presente articolo non si applica alle imprese sociali costituite nella forma di societa' cooperativa a mutualita' prevalente e agli enti di cui all'articolo 1, comma 3.
 
@@ -229,6 +505,65 @@ Le disposizioni di cui ai commi 3 e 4 si applicano anche agli atti di dotazione 
 Con decreto del Ministro del lavoro e delle politiche sociali, di concerto con il Ministro dell'economia e delle finanze e con il Ministro dello sviluppo economico, da adottarsi entro sessanta giorni dalla data di entrata in vigore del presente decreto, sono individuate le modalita' di attuazione delle disposizioni di cui ai commi 3, 4 e 5.
 
 Alle imprese sociali non si applica la disciplina prevista per le societa' di cui all'articolo 30 della legge 23 dicembre 1994, n. 724, all'articolo 2, commi da 36-decies a 36-duodecies del decreto-legge 13 agosto 2011, n. 138, convertito, con modificazioni, dalla legge 14 settembre 2011, n. 148, all'articolo 62-bis del decreto-legge 30 agosto 1993, n. 331, convertito, con modificazioni, dalla legge 29 ottobre 1993, n. 427, all'articolo 3, commi da 181 a 189, della legge 28 dicembre 1995, n. 549 e all'articolo 9-bis del decreto-legge 24 aprile 2017, n. 50, convertito, con modificazioni, dalla legge 21 giugno 2017, n. 96.
+
+8.
+                    
+                        
+                            Al testo unico delle disposizioni in materia di intermediazione finanziaria di cui al decreto legislativo 24 febbraio 1998, n. 58, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                all'articolo 1: 
+ 1) al comma 5-novies, le parole: «portale per la raccolta di capitali per le PMI» sono sostituite dalle seguenti: «portale per la raccolta di capitali per le PMI e per le imprese sociali», e prima delle parole «e degli organismi di investimento collettivo del risparmio» sono inserite le seguenti: «, delle imprese sociali»; 
+ 2) dopo il comma 5-undecies e' inserito il seguente: 
+ «5-duodecies. Per "imprese sociali" si intendono le imprese sociali ai sensi del decreto legislativo di cui all'articolo 1, comma 2, lettera c), della legge 6 giugno 2016, n. 106, costituite in forma di societa' di capitali o di societa' cooperativa»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                la rubrica del capo III-quater, del titolo III, della Parte II, e' sostituita dalla seguente: «Gestione di portali per la raccolta di capitali per le PMI e per le imprese sociali»; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                all'articolo 50-quinquies: 
+ 1) la rubrica e' sostituita dalla seguente: «Gestione di portali per la raccolta di PMI e per le imprese sociali»; 
+ 2) al comma 1, prima delle parole «per gli organismi di investimento collettivo del risparmio» sono inserite le seguenti: «, per le imprese sociali,»; 
+ 3) al comma 2, prima delle parole «per gli organismi di investimento collettivo del risparmio» sono inserite le seguenti: «, per le imprese sociali,»; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                all'articolo 100-ter, comma 1, prima delle parole «dagli organismi di investimento collettivo del risparmio», sono inserite le seguenti parole: «, dalle imprese sociali,»; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                all'articolo 100-ter, comma 2, le parole: «o della PMI innovativa», sono sostituite dalle seguenti: «, della PMI innovativa o dell'impresa sociale»; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                all'articolo 100-ter, comma 2-bis, le parole «e di PMI innovative» sono sostituite dalle seguenti: «, di PMI innovative e di imprese sociali»; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                all'articolo 100-ter, comma 2-quater, le parole «e da PMI innovative» sono sostituite dalle seguenti: «, da PMI innovative e da imprese sociali».
 
 Ai fini dell'applicazione delle disposizioni del presente articolo, le amministrazioni vigilanti trasmettono all'Amministrazione finanziaria gli esiti dei controlli di competenza, ai fini dell'eventuale assunzione dei conseguenti provvedimenti. A seguito della propria attivita' di controllo, l'Amministrazione finanziaria trasmette alle amministrazioni vigilanti ogni elemento utile ai fini della valutazione in merito all'eventuale perdita della qualifica di impresa sociale di cui all'articolo 15, comma 8. E' fatto comunque salvo il potere di autonomo controllo da parte dell'Amministrazione finanziaria.
 

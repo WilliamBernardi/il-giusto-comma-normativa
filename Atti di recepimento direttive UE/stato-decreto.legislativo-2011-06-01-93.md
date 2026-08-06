@@ -10,7 +10,7 @@ source: normattiva-opendata
 collection: Atti di recepimento direttive UE
 vigenza_date: 2026-02-04
 zip_date: 2026-07-30
-fetched_at: 2026-08-02T09:40:51Z
+fetched_at: 2026-07-30
 ---
 
 DECRETO LEGISLATIVO
@@ -79,6 +79,76 @@ I dati di cui al comma 1 comprendono le informazioni sulle caratteristiche delle
 ## - Titolo II MERCATO DEL GAS NATURALE
 
 ## Art. 6. — Modifiche ed integrazioni al decreto legislativo 23 maggio 2000, n. 164
+
+1.
+                        
+                            
+                                All'articolo 2, comma 1, del decreto legislativo n. 164 del 2000 sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    le lettere a) e
+                                
+                            
+                            
+                                b)
+                                
+                                    sono sostituite dalle seguenti: 
+ "a) cliente finale: il cliente che acquista gas naturale per uso proprio, ivi compresi gli impianti di distribuzione di metano per autotrazione che sono considerati clienti finali; 
+ b) cliente grossista: una persona fisica o giuridica, diversa dai gestori dei sistemi di trasporto e dai gestori dei sistemi di distribuzione, che acquista gas naturale a scopo di rivendita all'interno o all'esterno del sistema in cui e' stabilita;". 
+ b) la lettera o) e' sostituita dalla seguente: 
+ "o) fornitura: la vendita, compresa la rivendita, di gas naturale, compreso il gas naturale liquefatto (GNL), ai clienti;"; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    le lettere p) e q) sono sostituite dalle seguenti: 
+ "p) impianto di GNL: un terminale utilizzato per le operazioni di liquefazione del gas naturale o l'importazione, o lo scarico e la rigassificazione di GNL, e comprendente servizi ausiliari e uno stoccaggio provvisorio necessari per il processo di rigassificazione e successiva consegna al sistema di trasporto ma non comprendente eventuali serbatoi ubicati presso i terminali non funzionali al ciclo di rigassificazione e utilizzati per l'attivita' di stoccaggio; 
+ q) impianto di stoccaggio: un impianto utilizzato per lo stoccaggio di gas naturale, di proprieta' o gestito da un'impresa di gas naturale, compresi gli impianti GNL utilizzati per lo stoccaggio, ad esclusione della parte di impianto utilizzata per operazioni di produzione e degli impianti riservati esclusivamente ai gestori dei sistemi di trasporto nello svolgimento delle loro funzioni;"; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    la lettera t) e' sostituita dalla seguente: 
+ "t) impresa di gas naturale: ogni persona fisica o giuridica, ad esclusione dei clienti finali che svolge almeno una delle funzioni seguenti: produzione, trasporto, distribuzione, fornitura, acquisto o stoccaggio di gas naturale, compresa la rigassificazione di GNL e che e' responsabile per i compiti commerciali, tecnici o di manutenzione legati a queste funzioni;"; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    la lettera v) e' sostituita dalla seguente: 
+ "v) impresa verticalmente integrata: un'impresa di gas naturale o un gruppo di imprese di gas naturale nelle quali la stessa persona o le stesse persone, fisiche o giuridiche hanno, direttamente o indirettamente, il potere di esercitare il controllo, e in cui l'impresa o il gruppo di imprese svolge almeno una delle funzioni di trasporto, distribuzione, rigassificazione di GNL o stoccaggio e almeno una delle funzioni di produzione o fornitura di gas naturale;"; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    la lettera aa) e' sostituita dalla seguente: 
+ "aa) rete di gasdotti di coltivazione (gasdotti upstream): ogni gasdotto o rete di gasdotti gestiti o costruiti quale parte di un impianto di produzione di idrocarburi liquidi o di gas naturale, oppure utilizzati per trasportare gas naturale da uno o piu' di tali impianti fino ad un impianto o terminale di trattamento oppure ad un terminale costiero di approdo;"; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    la lettera ee) e' sostituita dalla seguente: 
+ "ee) sistema: reti di trasporto, reti di distribuzione, impianti di GNL o impianti di stoccaggio di proprieta' o gestiti da un'impresa di gas naturale, compresi il linepack e i relativi impianti che forniscono servizi ausiliari nonche' quelli di imprese collegate necessari per dare accesso al trasporto, alla distribuzione e alla rigassificazione di GNL;"; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    la lettera ii) e' sostituita dalla seguente: 
+ "ii) trasporto: il trasporto di gas naturale finalizzato alla fornitura ai clienti, attraverso una rete che comprende soprattutto gasdotti ad alta pressione, diversa da una rete di gasdotti di coltivazione e diversa dalla parte dei gasdotti, anche ad alta pressione, utilizzati principalmente nell'ambito della distribuzione locale del gas naturale, ad esclusione della fornitura;".
 
 All'articolo 2, comma 1, del decreto legislativo n.164 del 2000 dopo la lettera kk) sono aggiunte, infine, le seguenti: 
  "kk-bis) i servizi ausiliari: tutti i servizi necessari per l'accesso e il funzionamento delle reti di trasporto, delle reti di distribuzione, degli impianti di GNL o degli impianti di stoccaggio, compresi il bilanciamento del carico, la miscelazione e l'iniezione di gas inerti, ad esclusione dei servizi resi dagli impianti usati solamente dai gestori dei sistemi di trasporto nello svolgimento delle loro funzioni; 
@@ -173,6 +243,31 @@ Entro il 3 marzo 2012 i gestori dei sistemi di trasporto devono essere certifica
 
 L'Autorita' per l'energia elettrica e il gas avvia, entro un mese dalla data di entrata in vigore del presente decreto, la procedura di certificazione di ciascuna impresa proprietaria della rete di trasporto del gas naturale che alla medesima data agisce in qualita' di gestore di un sistema di trasporto del gas naturale.
 
+3.
+                        
+                            
+                                Successivamente e ove necessario l'Autorita' per l'energia elettrica e il gas avvia le procedure di certificazione: 
+ 
+                            
+                            
+                                a)
+                                
+                                    nei confronti dei gestori dei sistemi di trasporto che ne facciano richiesta; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    di propria iniziativa quando venga a conoscenza del fatto che la prevista modifica dei diritti o dell'influenza nei confronti dei proprietari o dei gestori dei sistemi di trasporto rischia di determinare una violazione dell'articolo 9 della direttiva 2009/73/CE ovvero quando ha motivo di ritenere che tale violazione si sia gia' verificata; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    su motivata richiesta della Commissione europea.
+
 L'Autorita' per l'energia elettrica e il gas deve concludere la procedura di cui al presente articolo con la propria decisione di certificazione, entro un termine di quattro mesi decorrenti dalla data della notificazione effettuata dal gestore del sistema di trasporto o dalla data della richiesta della Commissione europea.
 Decorso tale termine, la certificazione si intende accordata.
 
@@ -190,6 +285,24 @@ Con decreto del Ministro dello sviluppo economico sono stabiliti i criteri per l
 
 ## Art. 10. — Separazione dei proprietari dei sistemi di trasporto e dei gestori dei sistemi di trasporto; designazione del gestore della rete di trasporto del gas naturale e definizione delle attivita'/obblighi
 
+1.
+                        
+                            
+                                Entro il 3 marzo 2012: 
+ 
+                            
+                            
+                                a)
+                                
+                                    l'impresa maggiore di trasporto, proprietaria della rete di trasporto nazionale e regionale del gas naturale si conforma alla disciplina del "Gestore di trasporto indipendente" di cui al capo IV della direttiva 2009/73/CE del 13 luglio 2009; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le imprese proprietarie di reti di trasporto del gas naturale diverse dall'impresa maggiore di trasporto esistenti alla data del 3 settembre 2009, possono proporre, in alternativa alle disposizioni di cui alla lettera a), un Gestore di sistema indipendente a norma dell'articolo 14 della direttiva 2009/73/CE del 13 luglio 2009. In tal caso si applicano le disposizioni di cui all'articolo 17. Ove esse indichino come gestore di sistema indipendente l'impresa maggiore di trasporto di cui alla lettera a), questa e' tenuta a svolgere tale funzione alle condizioni stabilite dall'Autorita' per l'energia elettrica e il gas.
+
 E' fatta salva in ogni momento la possibilita' per le imprese verticalmente integrate di cui alle lettere a) e b) del comma 1 di conformarsi a quanto previsto dall'articolo 9 della direttiva 2009/73/CE, procedendo alla separazione proprietaria dei Gestori di sistemi di trasporto di gas naturale. In tal caso si applicano le disposizioni di cui all'articolo 19.
 
 Nel caso in cui un'impresa di trasporto, alla data del 3 settembre 2009, era nella situazione di separazione proprietaria, di cui all'articolo 9 della direttiva 2009/73/CE, essa non puo' adottare le modalita' di separazione di cui al comma 1.
@@ -198,10 +311,156 @@ Le imprese minori di trasporto regionale proprietarie di gasdotti di cui al decr
 
 Decorsi cinque anni dalla data di entrata in vigore del presente decreto, l'Autorita' garante della concorrenza e del mercato avvia un'indagine conoscitiva sul modello adottato volta a verificare l'esistenza di eventuali comportamenti discriminatori con particolare riferimento all'accesso di terzi alla rete e alle decisioni relative agli investimenti. L'Autorita' garante della concorrenza e del mercato comunica al Ministero dello sviluppo economico, al Parlamento e all'Autorita' per l'energia elettrica e il gas i risultati della verifica. Il Ministero, tenuto conto dei risultati dell'indagine conoscitiva, valuta se procedere alla revisione delle disposizioni in materia di Gestore di trasporto indipendente o adottare diversi modelli di separazione della rete di trasporto di gas naturale anche tenendo conto delle esperienze dei Paesi europei di analoghe dimensioni e struttura di mercato, adottando le necessarie misure nell'ambito della legge annuale per il mercato e la concorrenza di cui all'articolo 47 della legge 23 luglio 2009, n. 99.
 
+6.
+                        
+                            
+                                Ciascun Gestore della rete di trasporto di gas naturale di cui al comma 1: 
+ 
+                            
+                            
+                                a)
+                                
+                                    esercita le attivita' di trasmissione e dispacciamento tramite la gestione unificata della rete di trasporto del gas naturale in condizioni di sicurezza, affidabilita', efficienza ed economicita' del servizio ed ha l'obbligo di connettere alla medesima rete tutti i soggetti che ne facciano richiesta, astenendosi da discriminazioni tra utenti o categorie di utenti, ed in particolare a favore di imprese ad esso collegate, senza compromettere la continuita' del servizio nel rispetto delle regole fissate dall'Autorita' per l'energia elettrica e il gas entro 120 giorni dalla data di entrata in vigore del presente decreto; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    fornisce agli utenti del sistema del gas naturale le informazioni necessarie per un efficiente accesso al sistema stesso; ogni eventuale rifiuto di accesso alla rete di trasporto del gas naturale deve essere debitamente motivato, dandone comunicazione al Ministero dello sviluppo economico e all'Autorita' per l'energia elettrica e il gas; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    si coordina con i soggetti responsabili della gestione di ogni altra rete del gas naturale di Paesi esteri che sia interconnessa con la rete nazionale di trasporto del gas naturale in modo da garantire un funzionamento sicuro ed efficiente del sistema interconnesso; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    costruisce sufficiente capacita' transfrontaliera per integrare l'infrastruttura europea di trasporto del gas naturale accogliendo tutte le richieste di capacita' economicamente ragionevoli e tecnicamente fattibili e tenendo conto della sicurezza degli approvvigionamenti del gas naturale; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    ha l'obbligo di fornire al gestore di ogni altro sistema di trasporto e stoccaggio di gas naturale, di impianto di gas naturale liquefatto, nonche' di ogni sistema di distribuzione di gas naturale interconnesso con la propria rete di trasporto di gas naturale, le informazioni sufficienti per garantire che le attivita' di trasporto e di stoccaggio possano avvenire in maniera compatibile con il funzionamento sicuro ed efficiente del sistema interconnesso del gas naturale; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    gestisce gli impianti in sicurezza, affidabilita', efficienza ed economicita'; a tal fine predispone, con cadenza annuale, un programma di manutenzione della rete di trasporto del gas naturale incluse le interconnessioni con le reti estere; il programma, e' approvato con decreto del Ministro dello sviluppo economico, previo parere dell'Autorita' per l'energia elettrica e il gas ed e' vincolante salvo motivati impedimenti tecnici. I contenuti di tale programma sono comunicati anche alle Regioni; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    stabilisce e rende pubbliche, sulla base dei criteri adottati dall'Autorita' per l'energia elettrica e il gas, le tariffe trasparenti per la connessione efficiente e non discriminatoria degli impianti di stoccaggio di gas naturale, dei terminali di rigassificazione di gas naturale liquefatto e dei clienti industriali alla rete di trasporto del gas naturale; tali tariffe sono approvate dall'Autorita' per l'energia elettrica e il gas, entro 2 mesi dalla data di presentazione alla medesima Autorita'.
+
 Il Ministero dello sviluppo economico, ferme restando le attuali competenze dell'Autorita' per l'energia elettrica e il gas, vigila sul rispetto delle disposizioni e dei tempi previsti dai commi 1 e 2.
 L'Autorita' per l'energia elettrica e il gas, in caso di inadempienza, irroga le sanzioni previste.
 
 ## Art. 11. — Beni, apparecchiature, personale e identita' del gestore di trasporto indipendente
+
+1.
+                        
+                            
+                                Il gestore della rete di trasporto di gas naturale, di seguito anche Gestore, deve dotarsi di tutte le risorse umane, tecniche, strumentali e finanziarie necessarie per assolvere agli obblighi relativi all'attivita' di trasporto di gas naturale, ed in particolare deve disporre: 
+ 
+                            
+                            
+                                a)
+                                
+                                    i beni necessari per l'attivita' di trasporto di gas naturale, compresa la rete di trasporto, che devono essere di proprieta' del Gestore stesso; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il personale necessario per l'attivita' di trasporto di gas naturale, compresa l'effettuazione di tutti i compiti del Gestore.
+Tale personale deve essere assunto dal Gestore medesimo; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    sono vietati il leasing di personale e la prestazione di servizi a favore o da parte di altre parti dell'impresa verticalmente integrata. Il Gestore puo' fornire servizi all'impresa verticalmente integrata a condizione che la fornitura di tali servizi non determini una discriminazione tra gli utenti del sistema e sia a disposizione di tutti gli utenti del sistema secondo le medesime modalita' e condizioni e non limiti, distorca o impedisca la concorrenza in materia di produzione o di fornitura di gas naturale; le modalita' e condizioni della fornitura dei servizi di cui al presente comma sono approvate dall'Autorita' per l'energia elettrica e il gas; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    fatte salve le decisioni dell'Organo di sorveglianza di cui all'articolo 14, le opportune risorse finanziarie necessarie per i progetti d'investimento futuri e per la sostituzione di beni esistenti incluse nel piano di cui all'articolo 16 sono messe a disposizione del Gestore a tempo debito dall'impresa verticalmente integrata a seguito di una opportuna richiesta da parte del Gestore.
+
+2.
+                        
+                            
+                                L'attivita' di trasporto di gas naturale include, oltre a quelli elencati all'articolo 21, almeno i seguenti compiti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la rappresentanza del Gestore e i contatti con i terzi e con le autorita' di regolazione nazionali ed estere; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la rappresentanza del Gestore nell'ambito della Rete europea di gestori di sistemi di trasporto del gas naturale; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    la concessione e la gestione dell'accesso al sistema del gas naturale a terzi in modo trasparente e non discriminatorio tra gli utenti o le categorie di utenti del sistema stesso; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    la riscossione di tutti i corrispettivi collegati al sistema di trasporto del gas naturale, compresi i corrispettivi per l'accesso, gli oneri di bilanciamento, i servizi ausiliari quali il trattamento del gas naturale e l'acquisto di servizi, tra cui i costi di bilanciamento e di compensazione delle perdite; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    la gestione, la manutenzione e lo sviluppo di un sistema di trasporto del gas naturale sicuro, efficiente ed economico; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    la programmazione degli investimenti per assicurare la capacita' a lungo termine del sistema del gas naturale di soddisfare la domanda prevedibile e di garantire la sicurezza degli approvvigionamenti; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    la costituzione di appropriate imprese comuni, anche con uno o piu' gestori di sistemi di trasporto, borse dell'energia ed altri soggetti interessati, perseguendo l'obiettivo di sviluppare la creazione di mercati regionali interconnessi o agevolare il processo di liberalizzazione; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    assicurare la fornitura di tutti i servizi, compresi i servizi giuridici, la contabilita' e i servizi informatici e informativi.
 
 Il Gestore e' organizzato in una delle forme giuridiche contemplate all'articolo 1 della direttiva 68/151/CEE del Consiglio, in conformita' alle disposizioni del codice civile.
 
@@ -213,6 +472,24 @@ Al Gestore e' fatto divieto di condividere sistemi e attrezzature informatici, l
 I conti del Gestore sono controllati da un revisore contabile diverso da quello che controlla i conti dell'impresa verticalmente integrata o parte di essa.
 
 ## Art. 12. — Indipendenza del gestore di trasporto
+
+1.
+                        
+                            
+                                Fatte salve le decisioni dell'Organo di sorveglianza di cui all'articolo 14, il Gestore deve disporre: 
+ 
+                            
+                            
+                                a)
+                                
+                                    di poteri decisionali effettivi e indipendenti dall'impresa verticalmente integrata per quanto riguarda i beni necessari alla gestione, alla manutenzione e allo sviluppo del sistema di trasporto del gas naturale; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    della capacita' di raccogliere fondi sul mercato dei capitali, in particolare mediante operazioni di assunzione di prestiti o di aumento di capitale.
 
 Il Gestore opera in modo da assicurarsi la disponibilita' delle risorse necessarie per svolgere l'attivita' di trasporto in maniera corretta ed efficiente e sviluppare e mantenere un sistema di trasporto efficiente, sicuro ed economico.
 
@@ -236,6 +513,24 @@ Un'impresa certificata conforme ai requisiti del presente articolo dall'Autorita
 ## Art. 13. — Indipendenza del personale e dell'amministrazione del gestore del sistema di trasporto
 
 Le decisioni riguardanti la nomina e il rinnovo, le condizioni di lavoro, compresa la retribuzione e la cessazione del mandato, delle persone responsabili della gestione o dei membri degli organi amministrativi del Gestore sono adottate dall'Organo di sorveglianza nominato a norma dell'articolo14.
+
+2.
+                        
+                            
+                                L'identita' e le condizioni che disciplinano i termini, la durata e la scadenza del mandato delle persone designate dall'organo di sorveglianza per la nomina o il rinnovo in quanto persone responsabili della gestione esecutiva o in quanto membri degli organi amministrativi del Gestore, e le ragioni di qualsiasi decisione proposta per porre fine al mandato, sono notificate all'Autorita' per l'energia elettrica e il gas. Le condizioni e le decisioni di cui al comma 1 diventano vincolanti solo se l'Autorita' per l'energia elettrica e il gas non formula obiezioni al riguardo entro tre settimane dalla notifica. La medesima Autorita' puo' formulare obiezioni sulle decisioni di cui al comma 1: 
+ 
+                            
+                            
+                                a)
+                                
+                                    se sorgono dubbi circa l'indipendenza professionale di una persona nominata responsabile della gestione o di un membro degli organi amministrativi; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    se, in caso di cessazione anticipata di un mandato, esistono dubbi circa la motivazione di una tale cessazione anticipata.
 
 Per un periodo di tre anni prima della nomina, le persone responsabili della gestione e i membri degli organi amministrativi del Gestore non devono aver esercitato alcuna posizione o responsabilita' professionale, ne' interessi o relazioni commerciali, direttamente o indirettamente, nell'impresa verticalmente integrata o parte di essa o con i suoi azionisti di controllo.
 
@@ -266,6 +561,43 @@ Esso e' subordinato all'approvazione dell'Autorita' per l'energia elettrica e il
 
 Il Responsabile della conformita' e' nominato dall'Organo di sorveglianza, fatta salva l'approvazione dell'Autorita' per l'energia elettrica e il gas. La medesima Autorita' puo' respingere la nomina del Responsabile della conformita' solo per ragioni di mancanza di indipendenza o per motivi di incapacita' professionale. Il Responsabile della conformita' puo' essere una persona fisica o una persona giuridica. Al Responsabile della conformita' si applicano le disposizioni dell'articolo 13, commi da 2 a 8.
 
+3.
+                        
+                            
+                                Il Responsabile della conformita' ha i seguenti compiti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    controllare l'attuazione del programma di adempimenti; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    redigere una relazione annuale in cui sono presentate le misure adottate per attuare il programma di adempimenti e trasmetterla all'Autorita' per l'energia elettrica e il gas; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    riferire all'Organo di sorveglianza e formulare raccomandazioni riguardanti il programma di adempimenti e la sua attuazione;
+                                
+                            
+                            
+                                d)
+                                
+                                    notificare all'Autorita' per l'energia elettrica e il gas qualsiasi violazione sostanziale dell'attuazione del programma di adempimenti;
+                                
+                            
+                            
+                                e)
+                                
+                                    riferire all'Autorita' per l'energia elettrica e il gas in merito ad eventuali rapporti commerciali e finanziari tra l'impresa verticalmente integrata e il Gestore.
+
 Il Responsabile della conformita' trasmette all'Autorita' per l'energia elettrica e il gas le decisioni proposte riguardanti il piano di investimenti o gli investimenti autonomi nella rete di trasporto del gas naturale. La trasmissione e' effettuata non oltre il momento in cui il competente organo di gestione o amministrativo del Gestore li trasmette all'Organo di sorveglianza.
 
 Qualora l'impresa verticalmente integrata, nel corso dell'assemblea generale o tramite il voto dei membri dell'Organo di sorveglianza da essa nominati, abbia reso impossibile l'adozione di una decisione impedendo o ritardando in tal modo gli investimenti che, in base al piano decennale di sviluppo della rete, avrebbero dovuto essere eseguiti nei tre anni successivi, il Responsabile della conformita' informa il Ministero dello sviluppo economico e l'Autorita' per l'energia elettrica e il gas. ((L'Autorita' per l'energia elettrica, il gas e il sistema idrico adotta le misure di cui all'articolo 16.))
@@ -273,6 +605,32 @@ Qualora l'impresa verticalmente integrata, nel corso dell'assemblea generale o t
 Le condizioni che disciplinano il mandato o le condizioni di impiego del Responsabile della conformita', compresa la durata del suo mandato, sono soggette all'approvazione dell'Autorita' per l'energia elettrica e il gas. Tali condizioni assicurano l'indipendenza del Responsabile della conformita', fornendogli tra l'altro le risorse necessarie per espletare i propri compiti. Nel corso del suo mandato, il Responsabile della conformita' non deve detenere nessun'altra posizione o responsabilita' di natura professionale ne' interessi, direttamente o indirettamente, in alcuna o con alcuna altra parte dell'impresa verticalmente integrata o con i suoi azionisti di controllo.
 
 Il Responsabile della conformita' fa regolarmente rapporto per iscritto all'Autorita' per l'energia elettrica e il gas e ha il diritto di riferire regolarmente per iscritto all'Organo di sorveglianza del Gestore.
+
+8.
+                        
+                            
+                                Il Responsabile della conformita' puo' presenziare a tutte le riunioni degli organi amministrativi di gestione del Gestore nonche' a quelle dell'Organo di sorveglianza e all'assemblea generale.
+Inoltre il Responsabile della conformita' presenzia a tutte le riunioni riguardanti i seguenti aspetti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    le condizioni di accesso alla rete, quali definite nel regolamento (CE) n. 715/2009, in particolare per quanto riguarda le tariffe, i servizi di accesso di terzi, l'assegnazione di capacita' e la gestione delle congestioni, la trasparenza, il bilanciamento e i mercati secondari; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    i progetti avviati per gestire, mantenere e sviluppare la rete di trasporto, compresi gli investimenti per l'interconnessione e la connessione; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    le operazioni di acquisto o vendita di gas naturale di energia elettrica necessarie per la gestione del sistema di trasporto.
 
 Il Responsabile della conformita' verifica che il Gestore ottemperi all'articolo 16 della direttiva 2009/73/CE.
 
@@ -287,6 +645,38 @@ Il Responsabile della conformita' ha accesso agli uffici del Gestore senza neces
 COMMA ABROGATO DALLA L. 29 LUGLIO 2015, N. 115.
 
 ((L'impresa maggiore di trasporto, anche tenendo conto degli interventi degli altri gestori della rete, trasmette ogni due anni)) all'Autorita' per l'energia elettrica, il gas e il sistema idrico e al Ministero dello sviluppo economico il piano decennale di sviluppo della rete, che contiene misure efficaci atte a garantire l'adeguatezza del sistema e la sicurezza di approvvigionamento, tenendo conto anche dell'economicita' degli investimenti e della tutela dell'ambiente. L'Autorita' per l'energia elettrica, il gas e il sistema idrico, ricevuto il piano, lo sottopone alla consultazione degli utenti della rete effettivi o potenziali secondo modalita' aperte e trasparenti e rende pubblici i risultati della consultazione.
+
+3.
+                        
+                            
+                                In particolare, il piano decennale di sviluppo della rete: 
+ 
+                            
+                            
+                                a)
+                                
+                                    contiene una descrizione di dettaglio delle caratteristiche della rete di trasporto, delle aree in cui la stessa e' funzionalmente articolata, nonche' delle criticita' e delle congestioni presenti o attese; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    indica ai partecipanti al mercato le principali infrastrutture di trasporto da costruire o potenziare nell'arco dei dieci anni successivi; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    contiene tutti gli investimenti gia' decisi ed individua, motivandone la scelta, i nuovi investimenti da realizzare nel triennio successivo, anche ai fini di consentire il superamento delle criticita' presenti o attese; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    indica, per tutti i progetti di investimento, la data prevista di realizzazione.
 
 Nell'elaborare il piano decennale di sviluppo della rete, ((l'impresa maggiore di trasporto)) procede ad una stima ragionevole dell'evoluzione in termini di produzione, fornitura, consumo e scambi di gas naturale con altri Paesi, tenendo conto dei piani di investimento per le reti degli altri Paesi, nonche' dei piani di investimento per lo stoccaggio e per terminali di rigassificazione del GNL.
 
@@ -309,9 +699,82 @@ Le modalita' di valutazione dei piani decennali di sviluppo della rete, di cui a
 
 Entro il 3 gennaio 2012 le imprese proprietarie di reti di trasporto del gas naturale di cui all'articolo 10, comma 1, lettera b), ove intendano avvalersi della possibilita' ivi indicata, rivolgono istanza al Ministero dello sviluppo economico ai fini della designazione di un Gestore di sistema indipendente.
 
+2.
+                        
+                            
+                                Il Ministero dello sviluppo economico verifica che il Gestore di sistema indipendente indicato: 
+ 
+                            
+                            
+                                a)
+                                
+                                    soddisfi le condizioni di cui all'articolo 11, comma 1, lettere b), c) e d); 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    dimostri di disporre delle risorse finanziarie, tecniche, materiali ed umane necessarie per svolgere i compiti di cui all'articolo 10; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    si impegni a rispettare il piano decennale di sviluppo della rete di cui all'articolo 16; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    dimostri di essere in grado di ottemperare agli obblighi impostigli dal regolamento (CE) n.715/2009, anche in ordine alla cooperazione con gli altri Gestori dei sistemi di trasporto a livello europeo; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    dimostri che il proprietario del sistema di trasporto sia in grado di ottemperare agli obblighi di cui al comma 5.
+
 Il Ministero dello sviluppo economico trasmette le designazioni di cui al comma 1 alla Commissione europea per l'approvazione.
 
 Ogni Gestore di sistemi indipendente e' responsabile della concessione e della gestione dell'accesso dei terzi, compresa la riscossione dei corrispettivi per l'accesso e per la gestione e soluzione delle congestioni, ed e' altresi' responsabile del funzionamento, del mantenimento e dello sviluppo del sistema di trasporto, nonche' della capacita' a lungo termine del sistema di soddisfare richieste ragionevoli di trasporto di gas naturale, tramite l'adeguata programmazione degli investimenti. Nello sviluppare il sistema di trasporto il Gestore di sistema indipendente e' responsabile della programmazione, della progettazione e conseguente presentazione dell'istanza di autorizzazione, della costruzione e dell'entrata in servizio della nuova infrastruttura. A tal fine il Gestore di sistema indipendente agisce in qualita' di gestore di sistema di trasporto. Il proprietario del sistema di trasporto non deve avere alcuna responsabilita' nella concessione o nella gestione dell'accesso dei terzi o nella programmazione degli investimenti.
+
+5.
+                        
+                            
+                                Il proprietario del sistema di trasporto e' tenuto a: 
+ 
+                            
+                            
+                                a)
+                                
+                                    fornire al Gestore di sistemi indipendente cooperazione e ausilio nell'espletamento dei suoi compiti e, in particolare, tutte le informazioni pertinenti; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    finanziare gli investimenti decisi dal gestore di sistemi indipendente e approvati dall'Autorita' per l'energia elettrica e il gas, ovvero dare il proprio assenso al finanziamento ad opera di altri soggetti interessati, compreso lo stesso gestore indipendente.
+I meccanismi di finanziamento necessari a tale scopo sono soggetti all'approvazione dell'Autorita' per l'energia elettrica e il gas.
+Prima di tale approvazione, la stessa Autorita' consulta il proprietario del sistema di trasporto e altre parti interessate; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    mantenere in proprio capo la responsabilita' civile afferente le infrastrutture della rete, ad esclusione di quella collegata all'esercizio delle attivita' del Gestore di sistemi indipendente; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    fornire le garanzie necessarie per facilitare il finanziamento di eventuali espansioni di rete, ad eccezione degli investimenti per i quali, ai sensi della lettera b), ha dato l'assenso a finanziamenti da parte di altri soggetti interessati, compreso il Gestore di sistemi indipendente.
 
 L'Autorita' garante della concorrenza e del mercato, in cooperazione con l'Autorita' per l'energia elettrica e il gas, controlla l'osservanza, da parte del proprietario del sistema di trasporto, degli obblighi di cui al comma 5.
 
@@ -319,7 +782,78 @@ L'Autorita' garante della concorrenza e del mercato, in cooperazione con l'Autor
 
 Qualora sia stato nominato un Gestore di sistemi indipendente, un proprietario di un sistema di trasporto e un gestore di un sistema di stoccaggio che fanno parte di un'impresa verticalmente integrata devono essere indipendenti, almeno sotto il profilo della forma giuridica, dell'organizzazione e del potere decisionale, dalle altre attivita' non connesse al trasporto, alla distribuzione e allo stoccaggio.
 
+2.
+                        
+                            
+                                Per garantire l'indipendenza del proprietario del sistema di trasporto e del gestore del sistema di stoccaggio di cui al comma 1, si applicano i seguenti criteri minimi: 
+ 
+                            
+                            
+                                a)
+                                
+                                    i responsabili della direzione dell'impresa proprietaria del sistema di trasporto e del gestore del sistema di stoccaggio non devono far parte di strutture dell'impresa verticalmente integrata nel settore del gas naturale responsabili, direttamente o indirettamente, della gestione quotidiana delle attivita' di produzione e fornitura di gas naturale; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    devono essere adottate misure idonee ad assicurare che gli interessi professionali delle persone responsabili della direzione dell'impresa proprietaria del sistema di trasporto e del gestore del sistema di stoccaggio siano presi in considerazione in modo da consentire loro di agire in maniera indipendente; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il gestore dei sistemi di stoccaggio deve essere dotato di efficaci poteri decisionali, indipendenti dalle imprese di gas naturale integrate, in relazione ai mezzi necessari alla gestione, alla manutenzione e allo sviluppo degli impianti di stoccaggio. Tale disposizione non osta all'esistenza di appropriati meccanismi di coordinamento intesi a garantire la tutela dei diritti di vigilanza economica e amministrativa della societa' controllante per quanto riguarda la redditivita' degli investimenti della societa' controllata. La societa' controllante mantiene il diritto di approvare il piano finanziario annuale, o altro strumento equivalente, del gestore del sistema di stoccaggio e di introdurre limiti globali ai livelli di indebitamento della sua societa' controllata. Non e' consentito alla societa' controllante di dare istruzioni ne' per quanto riguarda le operazioni giornaliere, ne' in relazione a singole decisioni concernenti la costruzione o il miglioramento degli impianti di stoccaggio che non eccedono i termini del piano finanziario approvato o di altro strumento equivalente; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    il proprietario del sistema di trasporto e il gestore del sistema di stoccaggio predispongono un programma di adempimenti, contenente le misure adottate per escludere comportamenti discriminatori e garantire che ne sia adeguatamente controllata l'osservanza. Il programma di adempimenti illustra gli obblighi specifici cui devono ottemperare i dipendenti per raggiungere tali obiettivi. La persona o l'organo responsabile del controllo del programma di adempimenti presenta ogni anno all'Autorita' per l'energia elettrica e il gas una relazione sulle misure adottate, che viene pubblicata in forma adeguata a garantirne la conoscenza da parte dei soggetti interessati.
+
 ## Art. 19. — Separazione dei proprietari dei sistemi di trasporto e dei gestori dei sistemi di trasporto
+
+1.
+                        
+                            
+                                Le imprese verticalmente integrate che intendono conformarsi a quanto previsto dall'articolo 9, della direttiva 2009/73/CE, procedendo alla separazione proprietaria dei Gestori sono tenute al rispetto delle seguenti disposizioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    una impresa proprietaria di un sistema di trasporto deve svolgere le funzioni di Gestore del sistema di trasporto; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la stessa persona o le stesse persone, fisiche o giuridiche, non possono esercitare, direttamente o indirettamente, un controllo su un'impresa che svolge l'attivita' di produzione o di fornitura di gas naturale o di elettricita' e allo stesso tempo, direttamente o indirettamente, un controllo o dei diritti su un gestore di un sistema di trasporto di gas naturale o di trasmissione di elettricita' o su un sistema di trasporto di gas naturale o di trasmissione di energia elettrica; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    la stessa persona o le stesse persone, fisiche o giuridiche, non possono nominare membri del consiglio di vigilanza, del consiglio di amministrazione o degli organi che rappresentano legalmente l'impresa all'interno di un gestore di sistemi di trasporto o di un sistema di trasporto, ne' esercitare direttamente o indirettamente un controllo o diritti sull'attivita' di produzione o di fornitura di gas naturale; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    la stessa persona non puo' essere membro del consiglio di vigilanza, del consiglio di amministrazione o degli organi che rappresentano legalmente un'impresa, sia all'interno di un'impresa che svolge l'attivita' di produzione o di fornitura di gas naturale, sia all'interno di un gestore di sistemi di trasporto o di un sistema di trasporto; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    le informazioni commercialmente sensibili di cui all'articolo 20 del decreto legislativo n.164 del 2000 acquisite dal gestore del sistema di trasporto prima della separazione dall'impresa verticalmente integrata, ne' il personale di tale gestore possono essere trasferiti a imprese che esercitano l'attivita' di produzione o fornitura di gas naturale.
 
 I diritti di cui al comma 1, lettere b) e c), comprendono, in particolare, il potere di esercitare diritti di voto, di nominare membri del consiglio di vigilanza, del consiglio di amministrazione o degli organi che rappresentano legalmente l'impresa, nonche' la detenzione di una quota di maggioranza.
 
@@ -332,6 +866,38 @@ Ferme restando le disposizioni di cui all'articolo 21 del decreto legislativo n.
 L'Autorita' per l'energia elettrica e il gas vigila affinche' i Gestori di cui al comma 1 operino nel rispetto dei principi di obiettivita', di trasparenza e di non discriminatorieta'.
 
 ## Art. 21. — Compiti dei gestori del sistema di trasporto, stoccaggio e GNL
+
+1.
+                        
+                            
+                                Il gestore di un sistema di trasporto, di stoccaggio o di un impianto di rigassificazione di gas naturale liquefatto e' tenuto a: 
+ 
+                            
+                            
+                                a)
+                                
+                                    gestire, mantenere e sviluppare, a condizioni economicamente accettabili, impianti sicuri, affidabili ed efficienti, per garantire un mercato aperto, nel dovuto rispetto dell'ambiente, predisponendo mezzi adeguati a rispondere agli obblighi di servizio; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    astenersi da discriminazioni tra gli utenti o le categorie di utenti del sistema, in particolare a favore di imprese ad esso collegate; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    fornire al gestore di ogni altro sistema di trasporto, stoccaggio o di rigassificazione di gas naturale liquefatto o di ogni altro sistema di distribuzione informazioni sufficienti per garantire che il trasporto e lo stoccaggio di gas naturale possano avvenire in maniera compatibile con il funzionamento sicuro ed efficiente del sistema interconnesso; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    fornire agli utenti del sistema le informazioni necessarie ad un efficiente accesso al sistema.
 
 Ogni gestore del sistema di trasporto costruisce sufficiente capacita' nei punti di connessione transfrontaliera per integrare l'infrastruttura europea di trasporto accogliendo tutte le richieste di capacita' economicamente ragionevoli e tecnicamente fattibili e tenendo conto della sicurezza degli approvvigionamenti del gas naturale.
 
@@ -355,6 +921,38 @@ In particolare, le informazioni commercialmente sensibili non sono divulgate ad 
 ## Art. 23. — Separazione dei gestori dei sistemi di distribuzione
 
 Fermo restando quanto previsto dall'articolo 21, comma 2, del decreto legislativo n.164 del 2000, le imprese di distribuzione del gas naturale che fanno parte di una impresa verticalmente integrata, devono essere indipendenti, sotto il profilo dell'organizzazione e del potere decisionale, dalle altre attivita' non connesse alla distribuzione.
+
+2.
+                        
+                            
+                                Nel caso le imprese di distribuzione del gas naturale di cui al comma 1 abbiano piu' di 100.000 clienti allacciati, si applicano i seguenti requisiti minimi: 
+ 
+                            
+                            
+                                a)
+                                
+                                    i responsabili dell'amministrazione di un gestore del sistema di distribuzione non devono far parte di strutture societarie dell'impresa di gas naturale verticalmente integrata responsabili, direttamente o indirettamente, della gestione quotidiana delle attivita' di produzione, trasporto e fornitura di gas naturale; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    devono essere adottate misure idonee ad assicurare che gli interessi professionali delle persone responsabili dell'amministrazione del gestore dell'impresa di distribuzione siano presi in considerazione in modo da consentire loro di agire in maniera indipendente; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il gestore del sistema di distribuzione deve disporre di effettivi poteri decisionali, indipendenti dall'impresa di gas naturale integrata, in relazione ai mezzi necessari alla gestione, alla manutenzione e allo sviluppo della rete. Ai fini dello svolgimento di tali attivita', il gestore del sistema di distribuzione deve disporre delle risorse necessarie, comprese le risorse umane, tecniche, finanziarie e materiali. Tale disposizione non impedisce l'esistenza di idonei meccanismi di coordinamento intesi a garantire la tutela dei diritti di vigilanza economica e amministrativa della societa' controllante per quanto riguarda la redditivita' degli investimenti nella societa' controllata. E' consentito alla societa' controllante di approvare il piano finanziario annuale, o altro strumento equivalente, del gestore del sistema di distribuzione e di introdurre limiti globali ai livelli di indebitamento della societa' controllata. Non e' consentito alla societa' controllante di dare istruzioni, ne' per quanto riguarda le operazioni giornaliere, ne' in relazione a singole decisioni concernenti la costruzione o il miglioramento delle linee di distribuzione, che non eccedano i termini del piano finanziario approvato o di qualsiasi strumento equivalente; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    il gestore del sistema di distribuzione deve predisporre un programma di adempimenti, contenente le misure adottate per escludere comportamenti discriminatori, e garantire che ne sia adeguatamente controllata l'osservanza. Il programma di adempimenti illustra gli obblighi specifici cui devono ottemperare i dipendenti per raggiungere tale obiettivo. La persona o l'organo responsabile del controllo del programma di adempimenti, il responsabile della conformita' del gestore del sistema di distribuzione, presenta ogni anno all'Autorita' per l'energia elettrica e il gas una relazione sulle misure adottate, che e' pubblicata. Il responsabile della conformita' del gestore del sistema di distribuzione e' pienamente indipendente e deve poter accedere, per lo svolgimento dei suoi compiti, a tutte le informazioni necessarie in possesso del gestore del sistema di distribuzione e di ogni impresa collegata.
 
 Ai gestori di sistemi di distribuzione verticalmente integrati e' fatto divieto di creare confusione, nella loro politica di comunicazione e di marchio, circa l'identita' distinta del ramo 'fornitura' dell'impresa verticalmente integrata. A tal fine i gestori di cui al presente comma si conformano alle disposizioni emanate dall' Autorita' per l'energia elettrica e il gas.
 
@@ -381,6 +979,28 @@ Fermo restando quanto stabilito dall'articolo 21 del decreto legislativo n.164 d
 Le imprese di gas naturale consentono alle autorita' competenti di accedere alla loro contabilita' conformemente alle disposizioni dell'articolo 30 della direttiva 2009/73/CE, mantenendo comunque la riservatezza sulle informazioni commercialmente sensibili.
 
 ## Art. 27. — Disposizioni sullo stoccaggio
+
+1.
+                        
+                            
+                                All'articolo 12 del decreto legislativo n. 164 del 2000 dopo il comma 11 sono aggiunti, in fine, i seguenti: 
+ "11-bis. Lo stoccaggio strategico, offerto in regime regolato, e' posto a carico dei soggetti produttori e dei soggetti importatori di gas naturale, sia nel caso di importazione di gas naturale prodotto in Paesi appartenenti all'Unione europea, sia nel caso di importazione di gas naturale prodotto in Paesi non appartenenti all'Unione europea, secondo quote determinate in funzione, anche non lineare, del volume importato, e dell'infrastruttura di approvvigionamento, stabilite annualmente con decreto del Ministero dello sviluppo economico, in relazione alla evoluzione delle capacita' di importazione delle singole infrastrutture di importazione e della capacita' di produzione nazionale. 
+ 11-ter. Il volume complessivo relativo allo stoccaggio strategico e' stabilito annualmente dal Ministero dello sviluppo economico, sentito il Comitato di emergenza e monitoraggio del sistema del gas naturale, in misura non inferiore al maggiore dei seguenti volumi: 
+ a) volume necessario al fine di poter erogare per almeno 30 giorni continuativi, nel corso di tutto il periodo di punta stagionale, una portata fino al 100 per cento della maggiore delle importazioni provenienti dalla infrastruttura di importazione maggiormente utilizzata; 
+ b) volume necessario per le necessita' di modulazione in caso di inverno rigido, calcolato per l'inverno piu' rigido verificatosi negli ultimi 20 anni. 
+ 11-quater. L'autorizzazione all'uso dello stoccaggio strategico puo' essere rilasciata a una impresa del gas naturale solo nel caso in cui l'intera capacita' di importazione conferita alla stessa impresa, nel periodo per il quale viene richiesto l'accesso allo stoccaggio strategico, sia stata utilizzata, salvo documentati casi di forza maggiore e compatibilmente con le condizioni e i vincoli tecnici esistenti. 
+ 2. All'articolo 12 del decreto legislativo n.164 del 2000 il comma 7 e' sostituito dal seguente: 
+ "7. L'Autorita' per l'energia elettrica e il gas fissa le modalita' atte a garantire a tutti gli utenti la liberta' di accesso a parita' di condizioni, la massima imparzialita' e la neutralita' del servizio di stoccaggio in condizioni di normale esercizio e gli obblighi dei soggetti che svolgono le attivita' di stoccaggio, sulla base dei seguenti criteri: 
+ 
+                            
+                            
+                                a)
+                                
+                                    le capacita' di stoccaggio di modulazione, fatto salvo quanto disposto al comma 5, sono assegnate prioritariamente per le esigenze di fornitura ai clienti civili, ivi comprese le utenze relative ad attivita' di servizio pubblico, tra cui ospedali, case di cura e di riposo, carceri, scuole, e altre strutture pubbliche o private che svolgono un'attivita' riconosciuta di assistenza, nonche' a clienti non civili con consumi non superiori a 50.000 metri cubi annui, per un volume calcolato annualmente e pari al fabbisogno di modulazione stagionale degli stessi clienti in ipotesi di inverno rigido, in base ai criteri di cui all'articolo 18, comma 2. Il rimanente stoccaggio e' assegnato, secondo modalita' stabilite dall'Autorita' per l'energia elettrica e il gas, anche per servizi diversi da quelli di modulazione.". 
+ 3. All'articolo 18, comma 2, del decreto legislativo n.164 del 2000 il secondo periodo e' sostituito dal seguente: "Il Ministero dello sviluppo economico determina i criteri per il calcolo degli obblighi di modulazione per il periodo di punta stagionale per aree di prelievo omogenee in funzione dei valori climatici, tenendo conto degli obblighi di garanzia delle forniture di gas naturale ai clienti vulnerabili di cui all'articolo 8 del regolamento (CE) n.994/2010 del Parlamento europeo e del Consiglio del 20 ottobre 2010.". 
+ 4. All'articolo 18 del decreto legislativo n.164 del 2000 il comma 3 e' sostituito dal seguente: 
+ "3. I soggetti che svolgono attivita' di vendita ai clienti civili, ivi comprese le utenze relative ad attivita' di servizio pubblico, tra cui ospedali, case di cura e di riposo, carceri, scuole, e altre strutture pubbliche o private che svolgono un'attivita' riconosciuta di assistenza, nonche' a clienti non civili con consumi non superiori a 50.000 metri cubi annui, a decorrere dal 1° ottobre 2011 forniscono agli stessi clienti il servizio di modulazione di cui al comma 2, ovvero, ove abbiano installato misuratori multiorari di gas naturale, il servizio richiesto direttamente dai clienti stessi. L'Autorita' per l'energia elettrica ed il gas vigila sulla trasparenza delle condizioni contrattuali e, con proprie deliberazioni, puo' stabilire un codice di condotta commerciale in cui sono determinate le modalita' e i contenuti delle informazioni minime che i soggetti che svolgono l'attivita' di vendita devono fornire ai clienti stessi.". 
+ 5. Al fine di garantire la sicurezza delle forniture di gas naturale utilizzato come carburante, la cassa conguaglio GPL, di cui al provvedimento CIP n. 44 del 28 ottobre 1977, esercita le competenze relative al fondo bombole per metano e alla sua gestione, di cui alla legge 8 luglio 1950, n. 640, e alla legge 7 giugno 1990, n. 145, ad essa trasferite ai sensi dell'articolo 27, commi 3 e 6, della legge 23 luglio 2009, n. 99, mediante il comitato di gestione del fondo bombole per metano di cui alle leggi citate. Sono fatti salvi gli atti amministrativi e di gestione adottati dallo stesso comitato e dalla cassa conguaglio GPL fino alla data di entrata in vigore del presente decreto. Il Ministro dello sviluppo economico, con proprio decreto, da adottare entro novanta giorni dalla data di entrata in vigore del presente decreto, nomina i componenti del comitato di cui al presente comma, riducendone il numero di due unita'. ((6))
 
 ---------------
                             AGGIORNAMENTO (6)
@@ -485,6 +1105,24 @@ COMMA ABROGATO DALLA L. 4 AGOSTO 2017, N. 124. (7) (8) (12)
 
 ((COMMA ABROGATO DAL D.LGS. 8 NOVEMBRE 2021, N. 210)).
 
+4.
+                        
+                            
+                                L'Autorita' per l'energia elettrica e il gas, anche avvalendosi dell'Acquirente Unico Spa e del Gestore dei servizi energetici Spa, ai sensi dell'articolo 27, comma 2, della legge 23 luglio 2009, n. 99, adotta le misure necessarie: 
+ 
+                            
+                            
+                                a)
+                                
+                                    per la diffusione presso i clienti finali di energia elettrica della lista di controllo per i consumatori elaborata dalla Commissione europea contenente informazioni pratiche sui loro diritti; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    per assicurare che i clienti abbiano idonee informazioni, riferite anche alla diffusione della lista di controllo di cui alla lettera a), concernenti i loro diritti, la legislazione in vigore e le modalita' di risoluzione delle controversie di cui dispongono.
+
 Allo scopo di promuovere l'efficienza energetica l'Autorita' per l'energia elettrica e il gas stabilisce criteri in base ai quali le imprese elettriche ottimizzano l'utilizzo dell'energia elettrica, anche fornendo servizi di gestione razionale dell'energia, sviluppando formule di offerta innovative, introducendo sistemi di misurazione intelligenti e reti intelligenti.
 
 --------------
@@ -514,9 +1152,59 @@ COMMA ABROGATO DAL D.LGS. 8 NOVEMBRE 2021, N. 210.
 
 L'Autorita' per l'energia elettrica e il gas, entro tre mesi dell'entrata in vigore del presente decreto, definisce e avvia la procedura ai sensi dell'articolo 10 della direttiva 2009/72/CE per la certificazione del gestore del sistema di trasmissione nazionale, sulla base della quale la medesima Autorita' e' tenuta ad adottare, entro il 3 marzo 2012, una decisione di certificazione nei confronti di Terna Spa.
 
+7.
+                        
+                            
+                                Ai fini della certificazione di cui al comma 6, l'Autorita' per l'energia elettrica e il gas tiene conto dei criteri di cui all'articolo 9 della direttiva 2009/72/CE e in particolare: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la stessa persona o le stesse persone, fisiche o giuridiche, non sono autorizzate ad esercitare contemporaneamente un controllo su un'impresa che esercita l'attivita' di generazione o l'attivita' di fornitura e a esercitare un controllo o diritti sul gestore del sistema di trasmissione; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la stessa persona o le stesse persone, fisiche o giuridiche, non sono autorizzate a nominare membri del collegio sindacale, del consiglio di amministrazione o degli organi che rappresentano legalmente l'impresa all'interno del gestore del sistema di trasmissione e a esercitare direttamente o indirettamente un controllo o diritti su un'impresa che esercita l'attivita' di generazione o l'attivita' di fornitura, e viceversa; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    la stessa persona o le stesse persone, fisiche o giuridiche, non sono autorizzate a essere membri del consiglio di vigilanza, del consiglio di amministrazione o degli organi che rappresentano legalmente un'impresa, sia all'interno del gestore del sistema di trasmissione sia all'interno di un'impresa che esercita l'attivita' di generazione o l'attivita' di fornitura.
+
 Il gestore della rete di trasmissione nazionale notifica tempestivamente all'ARERA tutte le operazioni idonee a richiedere un riesame dell'osservanza delle prescrizioni di cui al precedente comma.
 
 L'Autorita' per l'energia elettrica e il gas comunica al Ministero dello sviluppo economico l'esito della procedura di certificazione di Terna Spa e vigila sulla permanenza delle condizioni favorevoli al rilascio della stessa.
+
+8-bis.
+                        
+                            
+                                L'ARERA avvia una nuova procedura di certificazione di Terna S.p.a.: 
+ 
+                            
+                            
+                                a)
+                                
+                                    se ha ricevuto la notifica di cui al comma 7-bis del presente articolo; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    d'ufficio, quando viene a conoscenza del fatto che una modifica dei diritti o dell'influenza esercitati nei confronti del gestore della rete di trasmissione nazionale rischia di dar luogo a una violazione delle prescrizioni di cui al comma 7 del presente articolo ovvero vi e' fondato motivo di ritenere che tale violazione si sia gia' verificata; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    su richiesta della Commissione europea.
 
 Nelle ipotesi di cui al comma precedente, l'ARERA adotta una nuova decisione entro quattro mesi dalla notifica del gestore, dall'avvio d'ufficio del procedimento ovvero dalla richiesta della Commissione europea. In caso di inutile decorso del termine di quattro mesi, la certificazione si intende rilasciata alle stesse condizioni della precedente.
 
@@ -524,7 +1212,72 @@ La decisione espressa o tacita ai sensi del comma precedente deve essere notific
 
 L'ARERA e la Commissione europea possono richiedere al gestore della rete di trasmissione nazionale e alle imprese che esercitano attivita' di generazione o di fornitura di energia elettrica tutte le informazioni pertinenti ai fini dell'esercizio dei poteri di valutazione loro conferiti. L'Autorita' assicura la segretezza di tutte le informazioni commercialmente sensibili.
 
+9.
+                        
+                            
+                                Ai fini della certificazione di cui al comma 6, l'Autorita' per l'energia elettrica e il gas tiene conto del fatto che porzioni di rete facenti parte della rete di trasmissione nazionale sono di proprieta' di soggetti diversi da Terna Spa e verifica che i suddetti proprietari: 
+ 
+                            
+                            
+                                a)
+                                
+                                    forniscano ogni opportuna cooperazione e ausilio a Terna Spa nell'espletamento dei suoi compiti e, in particolare, forniscano tutte le informazioni pertinenti; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    finanzino gli investimenti decisi da Terna e gli interventi di sviluppo della rete approvati dal Ministero dello sviluppo economico, ovvero diano il proprio assenso al finanziamento ad opera di altri soggetti interessati, compreso lo stesso gestore; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    garantiscano la copertura della responsabilita' civile afferente gli attivi della rete, ad esclusione della responsabilita' collegata all'esercizio delle attivita' di Terna Spa; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    forniscano le garanzie necessarie per facilitare il finanziamento di eventuali espansioni di rete, ad eccezione degli investimenti per i quali, ai sensi della lettera b), hanno dato l'assenso a finanziamenti da parte di altri soggetti interessati, compreso Terna Spa.
+
 Al fine di migliorare la sicurezza e l'efficiente funzionamento della rete elettrica di trasmissione nazionale, l'Autorita' per l'energia elettrica e il gas, entro sei mesi dall'entrata in vigore del presente decreto, determina idonei meccanismi volti a promuovere la completa unificazione della rete di trasmissione nazionale da conseguire nei successivi 36 mesi.
+
+11.
+                        
+                            
+                                Con decreto del Ministro della transizione ecologica, adottato ai sensi dell'articolo 17, comma 3, della legge 23 agosto 1988, n. 400, entro nove mesi dalla data di entrata in vigore della presente disposizione, sono stabiliti i criteri per la certificazione di Terna S.p.a. nell'ipotesi in cui un soggetto stabilito in uno Stato terzo, non appartenente all'Unione europea, ne acquisisca il controllo.
+Ferma restando la disciplina nazionale in materia di poteri speciali sulle attivita' di rilevanza strategica nei settori dell'energia, l'ARERA e' tenuta a decidere in merito alla certificazione sulla base di tali criteri, i quali: 
+ 
+                            
+                            
+                                a)
+                                
+                                    assicurano il rispetto delle prescrizioni di cui al comma 7; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    prevedono che l'ARERA, prima di decidere sulla certificazione, debba richiedere un parere alla Commissione europea circa il rispetto delle prescrizioni di cui al comma 7, nonche' circa gli eventuali rischi per l'approvvigionamento dell'Unione europea, adottando la decisione entro quattro mesi dalla data di ricevimento della richiesta di parere ad opera della Commissione; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    consentono all'ARERA di rifiutare la certificazione, a prescindere dal contenuto del parere della Commissione europea, nel caso in cui il controllo esercitato sul gestore della rete di trasmissione nazionale sia tale da mettere a rischio la sicurezza dell'approvvigionamento nazionale ovvero la sicurezza dell'approvvigionamento di un altro Stato membro dell'Unione europea. 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    stabiliscono che l'ARERA, una volta assunta la decisione finale sulla certificazione, trasmetta la stessa alla Commissione europea, unitamente a tutte le informazioni necessarie. In caso di difformita' rispetto al parere della Commissione, la decisione sulla certificazione deve essere motivata e la relativa motivazione e' pubblicata sul sito web dell'Autorita'.
 
 Il gestore della rete di trasmissione nazionale notifica all'ARERA qualsiasi operazione o circostanza che abbia come risultato l'acquisizione del controllo del medesimo gestore ovvero del sistema di trasmissione da parte di un soggetto stabilito in uno Stato terzo.
 
@@ -563,6 +1316,56 @@ L'Autorita' per l'energia elettrica ed il gas adotta le disposizioni necessarie 
 
 ## Art. 38. — Gestori dei sistemi di distribuzione
 
+1.
+                        
+                            
+                                Fermo restando quanto previsto all'articolo 1, comma 1, del decreto-legge 18 giugno 2007, n. 73, convertito, con modificazioni, dalla legge 3 agosto 2007, n. 125, il gestore del sistema di distribuzione, qualora faccia parte di un'impresa verticalmente integrata, e' indipendente, sotto il profilo dell'organizzazione e del potere decisionale, da altre attivita' non connesse alla distribuzione. Al fine di conseguire tale indipendenza, l'Autorita' adegua i propri provvedimenti ai seguenti criteri minimi: 
+ 
+                            
+                            
+                                a)
+                                
+                                    i responsabili della direzione del gestore del sistema di distribuzione non devono far parte di strutture dell'impresa elettrica integrata responsabili, direttamente o indirettamente, della gestione delle attivita' di generazione, trasmissione o fornitura di energia elettrica; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    devono essere adottate misure idonee ad assicurare che gli interessi professionali delle persone responsabili dell'amministrazione del gestore del sistema di distribuzione siano presi in considerazione in modo da consentire loro di agire in maniera indipendente; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il gestore del sistema di distribuzione deve disporre di effettivi poteri decisionali, indipendenti dall'impresa elettrica integrata, in relazione ai mezzi necessari alla gestione, alla manutenzione o allo sviluppo della rete. Ai fini dello svolgimento di tali compiti, il gestore del sistema di distribuzione dispone delle risorse necessarie, comprese le risorse umane, tecniche, materiali e finanziarie. Cio' non osta alla predisposizione di meccanismi di coordinamento che consentano alla società-madre di esercitare i propri diritti di vigilanza economica e amministrativa per quanto riguarda la redditivita' degli investimenti i cui costi costituiscono componenti tariffarie regolate e, in particolare, di approvare il piano finanziario annuale o qualsiasi strumento equivalente, nonche' di introdurre limiti globali ai livelli di indebitamento della societa' controllata. Non e' viceversa consentito alla società-madre dare istruzioni sulle attivita' giornaliere ne' su singole decisioni concernenti il miglioramento o la costruzione delle linee di distribuzione dell'energia elettrica, purche' esse non eccedano i termini del piano finanziario o dello strumento a questo equivalente; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    il gestore del sistema di distribuzione predispone un programma di adempimenti, contenente le misure adottate per escludere comportamenti discriminatori, e garantisce che ne sia adeguatamente controllata l'osservanza. Il programma di adempimenti illustra gli obblighi specifici cui devono ottemperare i dipendenti per raggiungere questo obiettivo. Il medesimo gestore individua un responsabile della conformita', indipendente e con poteri di accesso a tutte le informazioni necessarie in possesso del medesimo gestore del sistema di distribuzione e delle imprese collegate, che e' responsabile del controllo del programma di adempimenti e presenta annualmente all'Autorita' per l'energia elettrica e il gas una relazione sulle misure adottate.
+
+2.
+                        
+                            
+                                Nel caso di gestore del sistema di distribuzione facente parte di un'impresa verticalmente integrata, lo stesso gestore non puo' trarre vantaggio dall'integrazione verticale per alterare la concorrenza e a tal fine: 
+ 
+                            
+                            
+                                a)
+                                
+                                    le politiche di comunicazione e di marchio non devono creare confusione in relazione al ramo di azienda responsabile della fornitura di energia elettrica; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le informazioni concernenti le proprie attivita', che potrebbero essere commercialmente vantaggiose, sono divulgate in modo non discriminatorio. L'Autorita' per l'energia elettrica e il gas vigila sul rispetto delle disposizioni di cui al presente comma.
+
 Le disposizioni di cui ai commi precedenti non si applicano ai gestori di sistemi di distribuzione di energia elettrica facenti parte di un'impresa verticalmente integrata, che servono meno di 25.000 punti di prelievo.
 
 L'Autorita' per l'energia elettrica, il gas e il sistema idrico adegua i propri provvedimenti in materia di obblighi di separazione funzionale in relazione a quanto previsto dal comma 2-bis, prevedendo altresi' che, per i gestori di sistemi di distribuzione cui si applicano le deroghe previste dal medesimo comma 2-bis, le modalita' di riconoscimento dei costi per le attivita' di distribuzione e misura dell'energia elettrica siano basate su logiche parametriche, che tengano conto anche della densita' dell'utenza servita, nel rispetto dei principi generali di efficienza ed economicita' e con l'obiettivo di garantire la semplificazione della regolazione e la riduzione dei connessi oneri amministrativi.
@@ -577,7 +1380,51 @@ Le disposizioni di cui al comma 1 non si applicano ai gestori dei sistemi di dis
 
 L'Autorita' per l'energia elettrica, il gas e il sistema idrico adegua i propri provvedimenti in materia di obblighi di separazione in relazione a quanto previsto dal comma 5-bis.
 
+5-quater.
+                        
+                            
+                                Entro sei mesi dalla data di entrata in vigore della presente disposizione, l'ARERA con uno o piu' provvedimenti disciplina: 
+ 
+                            
+                            
+                                a)
+                                
+                                    le modalita' con cui i Gestori delle reti di distribuzione dell'energia elettrica cooperano con il Gestore della rete di trasmissione, al fine di ampliare, secondo criteri di efficienza e sicurezza per il sistema, la partecipazione dei soggetti dotati di impianti di generazione, di consumo e di stoccaggio connessi alle reti di distribuzione da essi gestite, anche attraverso gli aggregatori, ai mercati dell'energia, dei servizi ancillari e dei servizi di bilanciamento; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la sperimentazione di un sistema di auto-dispacciamento a livello locale, attraverso un sistema di premi e penalita' che stimoli produttori e clienti finali di energia elettrica a bilanciare le proprie posizioni compensando i consumi con le produzioni locali, nel rispetto dei vincoli di sicurezza della rete. La sperimentazione prende l'avvio non oltre sei mesi dopo l'entrata in vigore dei provvedimenti dell'Autorita' di cui al presente comma.
+
 Entro ventiquattro mesi dall'avvio delle sperimentazioni di cui al comma 6, l'ARERA pubblica gli esiti delle stesse e, sulla base di un'analisi costi-benefici, adotta eventuali modifiche alla disciplina del dispacciamento, volte a promuovere la formazione di profili aggregati di immissione e prelievo maggiormente prevedibili per il gestore della rete di trasmissione dell'energia elettrica.
+
+5-sexies.
+                        
+                            
+                                Entro dodici mesi dalla data di entrata in vigore della presente disposizione, l'ARERA disciplina le modalita' di approvvigionamento da parte dei Gestori dei sistemi di distribuzione, in coordinamento con il Gestore della rete di trasmissione, dei servizi necessari per il funzionamento efficiente, affidabile e sicuro delle reti di distribuzione, definendo in particolare: 
+ 
+                            
+                            
+                                a)
+                                
+                                    le specifiche, i ruoli, le procedure di approvvigionamento e le modalita' di remunerazione dei servizi, al minor costo per il sistema. Le procedure di approvvigionamento dei servizi ancillari non legati alla frequenza devono essere trasparenti, non discriminatorie e basate su criteri di mercato, in modo da consentire la partecipazione effettiva sulla base delle capacita' tecniche dei fornitori dei servizi, ivi inclusi quelli dotati di impianti di generazione da fonti rinnovabili, di consumo, di stoccaggio, nonche' gli aggregatori, a meno che la medesima Autorita' non abbia stabilito che l'approvvigionamento dei predetti servizi non sia economicamente efficiente o che sarebbe comunque fonte di distorsioni del mercato o di maggiore congestione; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le modalita' di copertura dei costi di approvvigionamento dei servizi di cui alla lettera a); 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    individua le informazioni che i gestori del sistema di distribuzione sono tenuti a rendere disponibili ai partecipanti al mercato e agli utenti ai fini delle procedure di approvvigionamento di cui alla lettera a); 
+ 5-sexies.1. ((L'ARERA, entro centottanta giorni dalla data di entrata in vigore della presente disposizione, adotta i criteri e le modalita' sulla base dei quali il gestore della rete di distribuzione rende disponibili, in modo aggregato e anonimo, i dati riguardanti l'energia elettrica da fonti rinnovabili generata e immessa nella rete dagli autoconsumatori e dalle comunita' di energia rinnovabile, assicurando l'interoperabilita' sulla base di formati di dati armonizzati e serie di dati standardizzati affinche' possano essere utilizzati in maniera non discriminatoria dai partecipanti al mercato dell'energia elettrica, dagli aggregatori, dai consumatori e dagli utenti finali e che possano essere letti da dispositivi elettronici di comunicazione.))
 
 Fatti salvi gli obblighi legali di divulgare determinate informazioni, il gestore del sistema di distribuzione ha l'obbligo di mantenere la riservatezza sulle informazioni commercialmente sensibili acquisite nel corso della sua attivita' e deve impedire che le informazioni commercialmente vantaggiose apprese nello svolgimento della propria attivita' siano divulgate in modo discriminatorio.
 
@@ -624,6 +1471,24 @@ Ai fini del conseguimento degli obiettivi nazionali in materia di energie rinnov
 La capacita' di trasmissione di cui al comma 1 e' conferita prioritariamente ai soggetti produttori di energia elettrica rinnovabile nel Paese non appartenente all'Unione europea, che garantiscono il rispetto delle condizioni di cui all'articolo 9 della direttiva 2009/28/CE, i quali si impegnano a stipulare, nell'ambito dei progetti comuni richiamati al medesimo comma 1, contratti di importazione di lunga durata, secondo criteri che tengono conto della durata dei contratti e in subordine dei volumi di energia elettrica oggetto dei medesimi contratti e finalizzata al consumo in Italia.
 L'eventuale quota di capacita' residuale e' assegnata, sulla base di procedure trasparenti e non discriminatorie, ai soggetti importatori o clienti finali o consorzi degli stessi che ne fanno richiesta.
 
+3.
+                        
+                            
+                                Con il decreto del Ministro dello sviluppo economico di cui al comma 1, sono stabiliti i criteri sulla base dei quali l'Autorita' per l'energia elettrica e il gas disciplina: 
+ 
+                            
+                            
+                                a)
+                                
+                                    le garanzie finanziarie relative alla richiesta di conferimento della nuova capacita' da realizzare e le garanzie finanziarie relative alla sottoscrizione del contratto di trasporto; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le penali a carico del gestore di trasmissione nazionale derivanti dai ritardi nella messa a disposizione della capacita' di trasporto di nuova realizzazione, non dipendenti da cause di forza maggiore, nonche' le penali in caso di risoluzione del contratto.
+
 ## Art. 41. — Mercati al dettaglio
 
 Le politiche di comunicazione e di marchio relative all'attivita' di vendita ai clienti del mercato libero ovvero ai clienti riforniti nell'ambito del servizio di maggior tutela di cui all'articolo 1, comma 2, del decreto-legge 18 giugno 2007, n. 73, convertito, con modificazioni, dalla legge 3 agosto 2007, n. 125, non devono creare confusione tra i rami d'azienda ovvero tra le societa' che svolgono le suddette attivita'. Le informazioni concernenti ciascuna attivita', che potrebbero essere commercialmente vantaggiose, sono divulgate in modo non discriminatorio. Nel caso in cui una stessa societa' eserciti attivita' di vendita al mercato libero e al mercato tutelato, l'Autorita' per l'energia elettrica e il gas adotta i provvedimenti necessari affinche' la stessa societa' non possa trarre vantaggio competitivo sia nei confronti dei clienti finali sia sotto il profilo delle valutazioni che la stessa Autorita' effettua in materia di qualita' del servizio, rispetto ad un assetto societario in cui le due attivita' siano attribuite a societa' distinte appartenenti ad uno stesso gruppo. L'Autorita' per l'energia elettrica e il gas vigila sul rispetto delle disposizioni di cui al presente comma.
@@ -632,11 +1497,249 @@ Le politiche di comunicazione e di marchio relative all'attivita' di vendita ai 
 
 ## Art. 42. — Obiettivi dell'Autorita' per l'energia elettrica e il gas
 
+1.
+                        
+                            
+                                Nel quadro dei compiti e delle funzioni attribuiti dalla vigente normativa, l'Autorita' per l'energia elettrica e il gas adotta tutte le misure ragionevoli e idonee al perseguimento delle seguenti finalita', che integrano quelle previste dalla legge 14 novembre 1995, n. 481: 
+ 
+                            
+                            
+                                a)
+                                
+                                    promuovere, in stretta cooperazione con l'Agenzia per la cooperazione fra i regolatori nazionali dell'energia - ACER, con le autorita' di regolamentazione degli altri Stati membri e con la Commissione europea, mercatiinterni dell'energia elettrica e del gas naturale concorrenziali, ((flessibili,)) sicuri e ecologicamente sostenibili, nonche' l'efficaceapertura del mercato per tutti i clienti e i fornitori dell'Unione europea; 
+
+                                
+                            
+                            
+                                a-bis)
+                                
+                                    sviluppare mercati regionali transfrontalieri concorrenziali e adeguatamente funzionanti all'interno dell'Unione europea, allo scopo di conseguire gli obiettivi di cui alla precedente lettera a); 
+
+                                
+                            
+                            
+                                a-ter)
+                                
+                                    eliminare le restrizioni agli scambi di energia elettrica tra gli Stati membri e sviluppare adeguate capacita' di trasmissione transfrontaliere, per soddisfare la domanda e migliorare l'integrazione dei mercati nazionali, nonche' al fine di agevolare la circolazione dell'energia elettrica all'interno dell'Unione europea;
+                                
+                            
+                            
+                                b)
+                                
+                                    assicurare condizioni regolatorie appropriate per il funzionamento efficace e affidabile delle reti dell'elettricita' e del gas, tenendo conto degli obiettivi a lungo termine; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    contribuire a conseguire, nel modo piu' efficace sotto il profilo dei costi, lo sviluppo di sistemi non discriminatori sicuri, affidabili ed efficienti orientati al consumatore e promuovere l'adeguatezza dei sistemi e, in linea con gli obiettivi generali in materia di politica energetica, l'efficienza energetica nonche' l'integrazione della produzione su larga scala e su scala ridotta di energia elettrica e di gas da fonti di energia rinnovabili e la produzione decentrata nelle reti di trasporto, di trasmissione e di distribuzione; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    agevolare l'accesso alla rete di nuova capacita' di generazione, in particolare eliminando gli ostacoli che potrebbero impedire l'accesso di nuovi operatori del mercato e l'immissione dell'energia elettrica e del gas da fonti di rinnovabili; 
+
+                                
+                            
+                            
+                                d-bis)
+                                
+                                    assicurare che ai gestori e agli utenti dei sistemi di distribuzione e di trasmissione dell'energia elettrica siano offerti incentivi adeguati, a breve e a lungo termine, per migliorare l'efficienza, e soprattutto l'efficienza energetica, delle prestazioni dei sistemi, promuovendo l'integrazione dei mercati;
+                                
+                            
+                            
+                                e)
+                                
+                                    provvedere affinche' i clienti beneficino del funzionamento efficiente del mercato nazionale, promuovere una concorrenza effettiva e contribuire a garantire la tutela dei consumatori; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    contribuire a conseguire un servizio pubblico di elevata qualita' nei settori dell'energia elettrica e del gas naturale, contribuire alla tutela dei clienti vulnerabili anche in termini di condizioni economiche di fornitura di gas naturale loro applicate e alla compatibilita' dei processi di scambio dei dati necessari per il cambio di fornitore da parte degli utenti. 
+
+                                
+                            
+                            
+                                f-bis)
+                                
+                                    contribuire a definire, nel rispetto dei principi di economicita', trasparenza e di massima salvaguardia dei clienti idonei, la copertura economica degli accordi di solidarieta' previsti nel piano di emergenza in attuazione degli articoli 8 e 13 del regolamento (UE) 2017/1938, comprese le disposizioni che consentono il calcolo dell'equa compensazione di almeno tutti i costi pertinenti e ragionevoli sostenuti nel prestare solidarieta', come previsto dall'articolo 13, paragrafo 10, del medesimo regolamento.
+
 ## Art. 43. — Ulteriori compiti e poteri dell'Autorita' per l'energia elettrica e il gas
 
 Ferme restando le competenze attribuite all'Autorita' per l'energia elettrica e il gas ai sensi della normativa vigente, l'Autorita' medesima svolge altresi' i compiti e le funzioni indicati ai commi successivi.
 
+2.
+                        
+                            
+                                L'Autorita' per l'energia elettrica e il gas garantisce: 
+ 
+                            
+                            
+                                a)
+                                
+                                    l'applicazione effettiva, da parte degli esercenti i servizi, delle misure di tutela dei consumatori, incluse quelle indicate all'Allegato I delle direttive 2009/72/CE e 2009/73/CE; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'accesso ai dati del consumo dei clienti, la messa a disposizione di un formato armonizzato facilmente comprensibile per i dati relativi ai consumi e il rapido accesso di tutti i clienti ai dati di cui al paragrafo 1, lettera h), dell'Allegato I delle direttive 2009/72/CE e 2009/73/CE; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    garantisce che i gestori dei sistemi di trasmissione e i gestori dei sistemi di distribuzione e, se necessario, i proprietari dei rispettivi sistemi, nonche' qualsiasi impresa elettrica o di gas naturale o altro partecipante al mercato dell'energia, ottemperino agli obblighi che ad essi incombono ai sensi del presente decreto e della legislazione nazionale vigente, dei regolamenti (UE) 2019/943 e 2009/715, dei codici di rete e degli orientamenti adottati a norma degli articoli 58, 60 e 61 del regolamento (UE) 2019/943, nonche' di tutte le altre disposizioni di diritto dell'Unione europea, anche per quanto riguarda le questioni transfrontaliere, nonche' in forza delle decisioni dell'Agenzia per la cooperazione tra i regolatori nazionali dell'energia (ACER); 
+
+                                
+                            
+                            
+                                c-bis)
+                                
+                                    disciplina la deroga all'obbligo di ridispacciamento degli impianti di generazione, dello stoccaggio dell'energia e della gestione della domanda, in base al criterio di mercato di cui all'articolo 13, paragrafo 3, del regolamento (UE) 2019/943; 
+
+                                
+                            
+                            
+                                c-ter)
+                                
+                                    
+                                        ((in stretto coordinamento con le altre autorita' di regolazione, garantisce che la piattaforma unica di allocazione istituita a norma del regolamento (UE) 2016/1719 della Commissione, del 26 settembre 2016, l'European network of transmission system operators for electricity (ENTSO-E) e l'European entity for distribution system operators (EU DSO) ottemperino agli obblighi che ad essi incombono alla stregua delle pertinenti disposizioni di diritto dell'Unione europea e della normativa nazionale di recepimento e attuazione, anche per quanto riguarda le questioni transfrontaliere, nonche' delle decisioni dell'ACER;))
+                                    
+                                
+                            
+                            
+                                c-quater)
+                                
+                                    individua, congiuntamente alle altre autorita' di regolazione europee, l'inadempimento da parte ((della piattaforma unica di allocazione,)) dell'ENTSO-E e dell'EU DSO ai rispettivi obblighi, tenuto conto che, ove le autorita' di regolazione non siano in grado di raggiungere un accordo, la questione e' deferita alla decisione dell'ACER, a norma dell'articolo 6, paragrafo 10, del regolamento (UE) 2019/942; 
+
+                                
+                            
+                            
+                                c-quinquies)
+                                
+                                    disciplina l'applicazione dei codici di rete e degli orientamenti adottati a norma degli articoli 58, 60 e 61 del regolamento (UE) 2019/943, mediante misure nazionali o, se richiesto, adottando misure coordinate a livello regionale o di Unione europea; 
+
+                                
+                            
+                            
+                                c-sexies)
+                                
+                                    coopera con le autorita' di regolazione degli Stati membri interessati, nonche' con l'ACER, sulle questioni transfrontaliere, in particolare attraverso la partecipazione ai lavori del comitato dei regolatori dell'ACER, ai sensi dell'articolo 21 del regolamento (UE) 2019/942; 
+
+                                
+                            
+                            
+                                c-septies)
+                                
+                                    osserva e attua le pertinenti decisioni giuridicamente vincolanti della Commissione europea e dell'ACER; 
+
+                                
+                            
+                            
+                                c-octies)
+                                
+                                    provvede affinche' i gestori dei sistemi di trasmissione mettano a disposizione le capacita' di interconnessione nella misura massima, a norma dell'articolo 16 del regolamento (UE) 2019/943; 
+
+                                
+                            
+                            
+                                c-novies)
+                                
+                                    congiuntamente alle altre autorita' di regolazione nazionali interessate: 
+ 1. approva i costi connessi alle attivita' dei Centri di coordinamento regionali che sono a carico dei gestori dei sistemi di trasmissione, purche' tali costi siano ragionevoli e appropriati, assicurandosi che i Centri di coordinamento regionali dispongano di tutte le risorse umane, tecniche, materiali e finanziarie necessarie per assolvere gli obblighi derivanti dalla legge e per svolgere i loro compiti in modo indipendente e imparziale; 
+ 2. propone eventuali compiti e poteri supplementari da attribuire ai Centri di coordinamento regionali; 
+ 3. individua l'inadempimento, da parte dei centri di coordinamento regionali, dei rispettivi obblighi, adottando decisioni vincolanti per gli stessi; se le autorita' di regolazione non sono in grado di raggiungere un accordo entro un termine di quattro mesi dall'inizio delle consultazioni con le altre autorita', al fine di individuare congiuntamente l'inadempimento, la questione e' deferita all'ACER per la decisione a norma dell'articolo 6, paragrafo 10, del regolamento (UE) 2019/942; 
+ 4. controlla l'esecuzione dei compiti di coordinamento e ne riferisce annualmente all'ACER, conformemente all'articolo 46 del regolamento (UE) 2019/943; 
+ 5. puo' richiedere, anche come iniziativa autonoma, informazioni ai centri di coordinamento regionali; 
+
+                                
+                            
+                            
+                                c-decies)
+                                
+                                    monitora e valuta le prestazioni dei Gestori dei sistemi di trasmissione e dei Gestori dei sistemi di distribuzione in relazione allo sviluppo di una rete intelligente funzionale all'integrazione di energia da fonti rinnovabili per il perseguimento degli obiettivi definiti nel PNIEC, sulla base di una serie limitata di indicatori e pubblica ogni due anni una relazione nazionale che contenga raccomandazioni; 
+
+                                
+                            
+                            
+                                c-undecies)
+                                
+                                    
+                                        ((monitora l'eliminazione degli ostacoli e delle restrizioni ingiustificati allo sviluppo del consumo di energia elettrica autoprodotta, della condivisione dell'energia, delle comunita' di energia rinnovabile e delle comunita' energetiche dei cittadini, compresi gli ostacoli e le restrizioni che impediscono la connessione di sistemi di generazione dell'energia distribuita flessibili entro un termine ragionevole;))
+                                    
+                                
+                            
+                            
+                                c-duodecies)
+                                
+                                    assicura che ai gestori dei sistemi e agli utenti del sistema siano offerti incentivi adeguati per migliorare l'efficienza energetica delle prestazioni del sistema e promuovere l'integrazione del mercato.» 
+
+                                
+                            
+                            
+                                c-terdecies)
+                                
+                                    pubblica e aggiorna con continuita' le previsioni di fabbisogno di medio e lungo termine relative alle tariffe applicate agli utenti di energia elettrica e gas, con particolare riguardo agli oneri di rete e di dispacciamento.
+
 In attuazione dell'allegato I, punto 1, lettera j), della direttiva 2009/72/CE e della direttiva 2009/73/CE, i consumatori ricevono un conguaglio definitivo a seguito di un eventuale cambio del fornitore di energia elettrica o di gas naturale non oltre sei settimane dopo aver effettuato il cambio di fornitore.
+
+3.
+                        
+                            
+                                L'Autorita' per l'energia elettrica e il gas vigila: 
+ 
+                            
+                            
+                                a)
+                                
+                                    sui programmi di investimento dei gestori dei sistemi di trasmissione e dei gestori dei sistemi di trasporto; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    sull'applicazione delle norme che disciplinano funzioni e responsabilita' dei gestori dei sistemi di trasmissione, dei gestori dei sistemi di trasporto, dei gestori dei sistemi di distribuzione, dei fornitori, dei clienti e di altri soggetti partecipanti al mercato ai sensi del regolamento (CE) n. 714/2009 e del regolamento (CE) n. 715/2009; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    sull'applicazione, da parte degli operatori, delle misure di salvaguardia adottate dal Ministero dello sviluppo economico di cui all'articolo 42 della direttiva 2009/72/CE e di cui all'articolo 46 della direttiva 2009/73/CE.
+
+4.
+                        
+                            
+                                L'Autorita' per l'energia elettrica e il gas monitora: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il grado e l'efficacia di apertura dei mercati all'ingrosso e al dettaglio, compresi le borse dell'energia elettrica e del gas naturale, i prezzi fatturati ai clienti civili inclusi i sistemi di prepagamento e gli anticipi, la percentuale dei clienti che cambiano fornitore, la percentuale delle disattivazioni, le spese per i servizi di manutenzione e per la loro esecuzione; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la sussistenza di pratiche contrattuali restrittive, comprese le clausole di esclusiva, che possono impedire ai grandi clienti non civili di impegnarsi simultaneamente con piu' di un fornitore o limitare la loro scelta in tal senso; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    la cooperazione tecnica tra operatori dei sistemi di trasmissione degli Stati membri dell'Unione europea, nonche' dei Paesi terzi.
 
 Nelle ipotesi in cui la legge prevede un potere dell'ARERA di verificare le tariffe ovvero le metodologie di calcolo delle tariffe richieste dal gestore della distribuzione ovvero dal gestore della rete di trasmissione nazionale, la medesima Autorita' puo' fissare, in caso di ritardo, tariffe o metodologie provvisorie, pubblicandole sul proprio sito web e prevedendo misure compensatorie nell'ipotesi in cui le tariffe ovvero le metodologie definitivamente stabilite dal gestore della distribuzione o della trasmissione si discostino da quelle stabilite in via provvisoria.
 
@@ -666,6 +1769,24 @@ L'Autorita' per l'energia elettrica e il gas assicura il trattamento efficace de
 
 ## Art. 45. — Poteri sanzionatori
 
+1.
+                        
+                            
+                                Fermo restando quanto previsto dalla legge 14 novembre 1995, n. 481, l'Autorita' per l'energia elettrica e il gas irroga sanzioni amministrative pecuniarie in caso di inosservanza delle prescrizioni e degli obblighi previsti dalle seguenti disposizioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    articoli 13, 14, 15, 16 e 20 e allegato I del regolamento (CE) n. 714/2009 e degli articoli 36,comma 3, 38, commi 1 e 2, e 41 del presente decreto; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    articoli 13, 14, 15, 16, 17, 18, 19, 20, 21 e 22 e allegato I del regolamento (CE) n. 715/2009 e degli articoli 4, 8, commi 4 e 5, dell'articolo 10, commi 1 e 3, e degli articoli 11, 12, 13, 14, 15, 16 comma 8, 17 commi 4 e 5, 18, 19, 23 e 26 del presente decreto, nonche' l'articolo 20, commi 5bis e 5ter del decreto legislativo n. 164 del 2000, e l'articolo 7, comma 5, del decreto-legge 21 marzo 2022, n. 21,
+
 L'Autorita' per l'energia elettrica e il gas irroga altresi' sanzioni amministrative pecuniarie in caso di mancato rispetto delle decisioni giuridicamente vincolanti dell'ACER o dell'Autorita' medesima.
 
 Entro trenta giorni dalla notifica dell'atto di avvio del procedimento sanzionatorio, l'impresa destinataria puo' presentare all'Autorita' per l'energia elettrica e il gas impegni utili al piu' efficace perseguimento degli interessi tutelati dalle norme o dai provvedimenti violati. L'Autorita' medesima, valutata l'idoneita' di tali impegni, puo' renderli obbligatori per l'impresa proponente e concludere il procedimento sanzionatorio senza accertare l'infrazione. Qualora il procedimento sia stato avviato per accertare violazioni di decisioni dell'ACER, l'Autorita' valuta l'idoneita' degli eventuali impegni, sentita l'ACER. L'Autorita' per l'energia elettrica e il gas puo' riavviare il procedimento sanzionatorio qualora l'impresa contravvenga agli impegni assunti o la decisione si fondi su informazioni incomplete, inesatte o fuorvianti. In questi casi l'Autorita' per l'energia elettrica e il gas puo' irrogare una sanzione amministrativa pecuniaria aumentata fino al doppio di quella che sarebbe stata irrogata in assenza di impegni.
@@ -693,6 +1814,31 @@ Al fine dello svolgimento efficace e coordinato delle attivita' e delle funzioni
 L'Autorita' per l'energia elettrica e il gas coopera con l'ACER, con le autorita' di regolazione degli altri Stati membri e con la Commissione europea al fine di promuovere mercati interni dell'energia elettrica e del gas naturale concorrenziali, sicuri e ecologicamente sostenibili, nonche' l'efficace apertura dei mercati per tutti i clienti e i fornitori, e garantire condizioni appropriate per il funzionamento efficace e affidabile delle reti energetiche.
 
 L'Autorita' per l'energia elettrica e il gas coopera con le autorita' di regolazione e le Amministrazioni competenti degli altri Stati membri, nonche' con l'ACER in ordine alle questioni transfrontaliere.
+
+6.
+                        
+                            
+                                L'Autorita' per l'energia elettrica e il gas coopera con le autorita' di regolazione degli altri Stati membri dell'Unione europea, in particolare al fine di: 
+ 
+                            
+                            
+                                a)
+                                
+                                    promuovere soluzioni pratiche intese a consentire una gestione ottimale delle reti, promuovere le borse dell'energia elettrica e del gas naturale e l'assegnazione di capacita' transfrontaliere, nonche' consentire un adeguato livello minimo di capacita' di interconnessione, anche attraverso nuove interconnessioni, per rendere possibile lo sviluppo di una concorrenza effettiva e il miglioramento della sicurezza dell'approvvigionamento, senza discriminazioni tra le imprese fornitrici nei diversi Stati membri; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    coordinare lo sviluppo di tutti i codici di rete per i gestori dei sistemi di trasporto interessati e gli altri operatori di mercato; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    coordinare lo sviluppo delle norme che disciplinano la gestione delle congestioni.
 
 L'Autorita' per l'energia elettrica e il gas promuove la stipula di accordi di collaborazione con le altre autorita' nazionali di regolamentazione, al fine di promuovere la cooperazione in ambito regolamentare.
 

@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Regolamenti di delegificazione
 vigenza_date: 2009-07-03
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:40:24Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -46,6 +46,38 @@ Ai fini indicati al comma 1, per acquisire o mantenere la personalita' giuridica
 
 Nelle piccole isole, nei comuni montani, nonche' nelle aree geografiche contraddistinte da specificita' etniche o linguistiche, gli indici di riferimento previsti dal comma 2 possono essere ridotti fino a 300 alunni per gli istituti comprensivi di scuola materna, elementare e media, o per gli istituti di istruzione secondaria superiore che comprendono corsi o sezioni di diverso ordine o tipo, previsti dal comma 6; nelle localita' sopra indicate che si trovino in condizioni di particolare isolamento possono, altresi', essere costituiti istituti comprensivi di scuole di ogni ordine e grado.
 L'indice massimo di cui al comma 2 puo' essere superato nelle aree ad alta densita' demografica, con particolare riguardo agli istituti di istruzione secondaria con finalita' formative che richiedono beni strutturali, laboratori ed officine di alto valore artistico o tecnologico.
+
+4.
+                    
+                        
+                            Nell'ambito degli indici, minimo e massimo, stabiliti dal comma 2, la dimensione ottimale di ciascuna istituzione scolastica e' definita in relazione agli elementi di seguito indicati:
+ 
+                        
+                        
+                            a)
+                            
+                                consistenza della popolazione scolastica residente nell'area territoriale di pertinenza, con riferimento a ciascun grado, ordine e tipo di scuola contemplato dall'ordinamento scolastico vigente;
+
+                            
+                        
+                        
+                            b)
+                            
+                                caratteristiche demografiche, orografiche, economiche e socioculturali del bacino di utenza;
+
+                            
+                        
+                        
+                            c)
+                            
+                                estensione dei fenomeni di devianza giovanile e criminalita' minorile;
+
+                            
+                        
+                        
+                            d)
+                            
+                                complessita' di direzione, gestione e organizzazione didattica, con riguardo alla pluralita' di gradi di scuole o indirizzi di studio coesistenti nella stessa istituzione, ivi comprese le attivita' di educazione permanente, di istruzione degli adulti e di perfezionamento o specializzazione, nonche' alla conduzione di aziende agrarie, convitti annessi, officine e laboratori ad alta specializzazione o con rilevante specificita'.
 
 Qualora le singole scuole non raggiungano gli indici di riferimento sopra indicati sono unificate orizzontalmente con le scuole dello stesso grado comprese nel medesimo ambito territoriale o verticalmente in istituti comprensivi, a seconda delle esigenze educative del territorio e nel rispetto della progettualita' territoriale.
 
@@ -93,6 +125,105 @@ I dirigenti dell'amministrazione scolastica periferica adottano, in attuazione d
 Agli enti locali e' attribuita ogni competenza in materia di soppressione, istituzione, trasferimento di sedi, plessi, unita' delle istituzioni scolastiche che abbiano ottenuto la personalita' giuridica e l'autonomia. Tale competenza e' esercitata su proposta e, comunque previa intesa, con le istituzioni scolastiche interessate con particolare riguardo al raggiungimento delle finalita' di cui all'articolo 1, comma 2, nel rispetto delle competenze di cui all'articolo 137 del decreto legislativo 31 marzo 1998, n. 112.
 
 ## Art. 5. — Organici pluriennali
+
+1.
+                    
+                        
+                            La consistenza complessiva degli organici del personale della scuola, ivi compresi i dirigenti scolastici, predeterminata a livello nazionale per il triennio 1998-2000 a norma delle vigenti disposizioni, e' articolata su base regionale e ripartita per aree provinciali o subprovinciali. Le successive rideterminazioni sono attuate ai sensi della normativa in vigore, in relazione alle funzioni di programmazione e riorganizzazione della rete scolastica attribuite alle regioni dal decreto legislativo 31 marzo 1998, n. 112, tenendo conto:
+ 
+                        
+                        
+                            a)
+                            
+                                del numero degli alunni previsti, distinti per eta' e per ordine e grado di scuole;
+
+                            
+                        
+                        
+                            b)
+                            
+                                del numero degli istituti previsti, delle loro dimensioni e dell'articolazione delle stesse istituzioni sul territorio;
+
+                            
+                        
+                        
+                            c)
+                            
+                                delle caratteristiche demografiche e orografiche di ciascuna regione;
+
+                            
+                        
+                        
+                            d)
+                            
+                                degli indici di disagio economico e socioculturale;
+
+                            
+                        
+                        
+                            e)
+                            
+                                degli obiettivi correlati all'economia regionale e all'evoluzione del mercato del lavoro;
+
+                            
+                        
+                        
+                            f)
+                            
+                                della distribuzione per ambiti disciplinari del personale in servizio.
+
+2.
+                    
+                        
+                            Entro il limite della dotazione organica provinciale complessiva l'organico funzionale di ciascuna istituzione scolastica e' definito dai dirigenti dell'amministrazione scolastica periferica, in conformita' ai criteri e ai parametri generali stabiliti a norma del comma 1, sulla base dei seguenti dati di riferimento ed elementi di valutazione:
+ 
+                        
+                        
+                            a)
+                            
+                                numero degli alunni e delle classi previste, distinti per anno di corso e indirizzo di studi;
+
+                            
+                        
+                        
+                            b)
+                            
+                                insegnamenti da impartire nelle classi previste in relazione agli obiettivi formativi previsti dai corrispondenti curricoli;
+
+                            
+                        
+                        
+                            c)
+                            
+                                esigenze di sostegno degli alunni portatori di handicap;
+
+                            
+                        
+                        
+                            d)
+                            
+                                attivita' didattiche finalizzate al recupero della dispersione scolastica e degli insuccessi formativi, alla sperimentazione di nuovi metodi didattici e di nuovi ordinamenti e strutture curricolari, all'adattamento dei percorsi formativi, secondo criteri di flessibilita' e modularita', alle esigenze di personalizzazione dei processi di apprendimento, alle caratteristiche dell'economia regionale o locale e all'evoluzione del mercato del lavoro;
+
+                            
+                        
+                        
+                            e)
+                            
+                                azioni di supporto sociopsicopedagogico, organizzativo e gestionale, di ricerca educativa e scientifica di orientamento scolastico e professionale e di valutazione dei processi formativi, tenuto conto anche dell'eventuale articolazione della funzione docente sulla base di particolari profili di specializzazione;
+
+                            
+                        
+                        
+                            f)
+                            
+                                esigenze specifiche delle istituzioni che operano in zone a rischio di devianza giovanile e criminilita' minorile, ovvero nelle comunita' montane e nelle piccole isole;
+
+                            
+                        
+                        
+                            g)
+                            
+                                prevedibili necessita' di copertura dei posti di insegnamento vacanti e di sostituzione degli insegnanti assenti per periodi di durata inferiore all'intero anno scolastico.
 
 Le risorse umane necessarie per le finalita' indicate alle lettere d), e), f) e g) del comma 2, sono attribuite alle singole istituzioni scolastiche o a reti di scuole, anche sulla base delle richieste e dei progetti formativi delle stesse istituzioni.
 

@@ -9,7 +9,7 @@ vigente: true
 source: normattiva-opendata
 collection: Atti di recepimento direttive UE
 zip_date: 2026-07-30
-fetched_at: 2026-08-02T09:40:50Z
+fetched_at: 2026-07-30
 ---
 
 DECRETO LEGISLATIVO
@@ -35,7 +35,106 @@ I contratti collettivi nazionali, stipulati dalle organizzazioni sindacali compa
 
 Il presente decreto si applica ai lavoratori mobili delle ferrovie addetti a servizi di interoperabilita' transfrontaliera effettuati da imprese ferroviarie.
 
+2.
+                    
+                        
+                            II presente decreto non trova applicazione: 
+ 
+                        
+                        
+                            a)
+                            
+                                per il traffico di passeggeri transfrontaliero locale e regionale e per il traffico merci transfrontaliero che non superi i 15 chilometri al di la' della frontiera; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                per il traffico tra stazioni di frontiera ufficiali la cui lista figura in allegato all'accordo annesso alla direttiva 2005/47/CE; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                per i treni sugli assi transfrontalieri che iniziano e finiscono sull'infrastruttura dello stesso Stato membro e utilizzano l'infrastruttura di un altro Stato membro senza effettuare fermate, operazioni che possono pertanto essere considerate come operazioni di trasporto nazionale.
+
 ## Art. 3. — Definizioni
+
+1.
+                    
+                        
+                            Ai sensi delle disposizioni di cui al presente decreto si intende per: 
+ 
+                        
+                        
+                            a)
+                            
+                                servizi di interoperabilita' transfrontaliera: i servizi transfrontalieri effettuati oltre 15 chilometri al di la' della frontiera e per i quali le imprese ferroviarie necessitano di almeno due certificati di sicurezza; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                lavoratore mobile che effettua servizi di interoperabilita' transfrontaliera: ogni lavoratore membro dell'equipaggio di un treno, addetto a servizi ferroviari e complementari a bordo treno di interoperabilita' transfrontaliera per piu' di un'ora sulla base di una prestazione giornaliera; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                orario di lavoro: qualsiasi periodo in cui il lavoratore sia al lavoro, a disposizione del datore di lavoro e nell'esercizio della sua attivita' o delle sue funzioni; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                periodo di riposo: qualsiasi periodo che non rientra nell'orario di lavoro; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                periodo notturno: qualsiasi periodo di almeno 7 ore, come definito dalla legislazione nazionale, e che comprenda in ogni caso l'intervallo fra le ore 24 e le ore 5; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                prestazione notturna: qualsiasi prestazione di almeno 3 ore di lavoro durante il periodo notturno; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                riposo fuori residenza: riposo giornaliero che non puo' essere effettuato nella normale sede di residenza del personale mobile; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                macchinista: il lavoratore incaricato di guidare una macchina di trazione; 
+
+                            
+                        
+                        
+                            i)
+                            
+                                tempo di guida: la durata di un'attivita' programmata nel corso della quale il macchinista e' responsabile della guida di una macchina di trazione, escluso il tempo previsto per la messa in servizio e per la messa fuori servizio della macchina, comprese le interruzioni programmate nel corso delle quali il macchinista resta responsabile della guida della macchina in trazione; 
+
+                            
+                        
+                        
+                            l)
+                            
+                                alloggio confortevole: qualsiasi soluzione logistica atta a consentire l'effettivo recupero da parte del lavoratore.
 
 ## Art. 4. — Riposo giornaliero in residenza
 
@@ -70,6 +169,31 @@ I commi 2, 3 e 4 del presente articolo non si applicano nel caso in cui sia pres
 In caso di ritardo dei treni, le pause possono essere adattate nel corso della giornata lavorativa.
 
 ## Art. 7. — Riposo settimanale
+
+1.
+                    
+                        
+                            Il lavoratore dispone nell'arco di un anno di 104 periodi di riposo di 24 ore consecutive, che sono fruiti come segue: 
+ 
+                        
+                        
+                            a)
+                            
+                                per ogni periodo di 7 giorni deve essere garantito un riposo minimo di 24 ore al quale si aggiunge il riposo giornaliero di 12 ore di cui all'articolo 4; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                in aggiunta al riposo giornaliero di 12 ore di cui all'articolo 4, viene garantito dodici volte all'anno un riposo doppio di 48 ore che include il sabato e la domenica; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                oltre a quanto previsto alla lettera b) e in aggiunta al riposo giornaliero di 12 ore di cui all'articolo 4, viene altresi' garantito dodici volte all'anno un riposo doppio di 48 ore senza garanzia di inclusione di un sabato o di una domenica.
 
 ## Art. 8. — Tempo di guida
 

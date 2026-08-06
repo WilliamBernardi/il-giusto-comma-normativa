@@ -7,8 +7,8 @@ urn: urn:nir:ministero.economia.e.finanze:decreto:2022-04-22;59
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:40Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -65,6 +65,38 @@ La rete degli esperti svolge attivita' di analisi, coordinamento e sintesi sulle
 Agli esperti non e' corrisposto alcun emolumento, indennita' o rimborso spese.
 
 ## Art. 3. — Documenti sottratti all'accesso
+
+1.
+                    
+                        
+                            Fatta salva l'applicazione delle disposizioni adottate a norma di legge dalle amministrazioni rappresentate nel Comitato per l'individuazione delle categorie di documenti sottratti all'accesso, sono esclusi dall'accesso, ai sensi dell'articolo 3, comma 12, del decreto legislativo 22 giugno 2007, n. 109, nonche' dell'articolo 24, comma 1 lettera a) e comma 2, della legge 7 agosto 1990, n. 241, i seguenti documenti formati o detenuti dal Comitato attinenti alla sicurezza, alla difesa nazionale e alla continuita' e correttezza delle relazioni internazionali: 
+ 
+                        
+                        
+                            a)
+                            
+                                i processi verbali delle riunioni del Comitato e i resoconti sommari delle riunioni della rete degli esperti; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                i documenti contenenti scambi di informazioni tra le amministrazioni rappresentate nel Comitato, il Comitato stesso e autorita' internazionali o Stati esteri; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                atti, studi, analisi, proposte, relazioni che riguardano la posizione italiana nell'ambito dei procedimenti di inserimento e cancellazione dalle liste internazionali di persone ed entita' sospettati di terrorismo, ad eccezione delle parti pubbliche dei motivi che sono a fondamento della decisione di inserimento; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                atti, studi, analisi, proposte, relazioni riguardanti singoli casi ovvero le strategie di prevenzione del riciclaggio e di lotta al finanziamento del terrorismo e della proliferazione delle armi di distruzione di massa nonche' attivita' ispettive e investigative da parte delle autorita' e degli organi investigativi rappresentati nel Comitato.
 
 Oltre i casi di esclusione dell'accesso di cui al comma 1, quando un documento detenuto dal Comitato riguarda informazioni relative ad uno Stato estero ovvero ad un'istituzione internazionale, l'accesso a tale documento e' consentito soltanto quando lo Stato o l'istituzione interessati acconsentono alla divulgazione delle relative informazioni e della propria identita'.
 

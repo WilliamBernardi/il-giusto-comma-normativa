@@ -8,8 +8,8 @@ codice_redazionale: 096G0592
 vigente: true
 source: normattiva-opendata
 collection: DPR
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:47:56Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -27,6 +27,64 @@ Sulla proposta del Ministro delle finanze;
 
 ## Art. 1. — Inattendibilita' della contabilita'
  degli esercenti attivita' d'impresa
+
+1.
+                    
+                        
+                            Ai soli fini dell'applicazione dell'art. 3, comma 181, lettera b), della legge 28 dicembre 1995, n. 549, le irregolarita' delle scritture obbligatorie degli esercenti attivita' d'impresa si considerano gravi e rendono inattendibile la contabilita' ordinaria di tali soggetti, quando:
+ 
+                        
+                        
+                            a)
+                            
+                                le disponibilita' liquide non sono specificate nei conti relativi ai depositi bancari e postali, al denaro e agli altri valori in cassa e i predetti depositi non risultano dalle scritture ausiliarie di cui all'art. 14, primo comma, lettera c), del decreto del Presidente della Repubblica 29 settembre 1973, n. 600, che possono essere sviluppate anche in sottoconti o partitari, intestati analiticamente a ciascuna banca o dipendenza di essa o a ciascun ufficio postale;
+
+                            
+                        
+                        
+                            b)
+                            
+                                i conti che si riferiscono a crediti e a debiti, diversi da quelli relativi alle retribuzioni dei dipendenti, non sono integrati dalle scritture ausiliarie menzionate alla lettera a), in cui siano indicati singolarmente i creditori e i debitori, ovvero, per i crediti derivanti dalle operazioni effettuate dai soggetti di cui all'art. 22 del decreto del Presidente della Repubblica 26 ottobre 1972, n. 633, con riguardo alle quali non e' emessa fattura oppure e' emessa fattura registrata ai sensi dell'art. 24 dello stesso decreto n. 633 del 1972, da scritture elementari in cui siano rilevati singolarmente i debitori;
+
+                            
+                        
+                        
+                            c)
+                            
+                                i versamenti e i prelevamenti effettuati dall'imprenditore o dai soci non sono rilevati in contabilita' ed evidenziati nelle scritture ausiliarie menzionate alla lettera a), anche complessivamente;
+
+                            
+                        
+                        
+                            d)
+                            
+                                i criteri adottati per la valutazione delle rimanenze non sono indicati nella nota integrativa o nel libro degli inventari.
+
+2.
+                    
+                        
+                            Ai medesimi fini indicati nel comma 1, le contraddizioni tra le scritture obbligatorie e i dati e gli elementi direttamente rilevati si considerano gravi e rendono altresi' inattendibile la contabilita' ordinaria degli esercenti attivita' d'impresa, quando:
+ 
+                        
+                        
+                            a)
+                            
+                                i valori rilevati a seguito di ispezioni o verifiche, anche parziali, compresi quelli dei beni di cui alla successiva lettera b), abbiano uno scostamento, rispetto a quelli indicati in contabilita', superiore al 10 per cento del valore complessivo delle voci interessate, a condizione che tale scostamento non sia riconducibile a errata applicazione dei criteri di valutazione ovvero di imputazione temporale sempreche' le annotazioni effettuate in violazione dei criteri di cui all'art. 75 del testo unico delle imposte sui redditi approvato con decreto del Presidente della Repubblica 22 dicembre 1986, n. 917, risultino dalle scritture contabili obbligatorie del periodo d'imposta antecedente o successivo a quello di competenza e derivino dall'adozione di metodi costanti di impostazione contabile. A tal fine per le rimanenze di cui all'art. 59 del citato testo unico delle imposte sui redditi, il controllo deve riguardare beni o categorie di beni il cui valore contabile e' non inferiore al 25 per cento di quello complessivo risultante dall'inventario riportato nel bilancio dell'ultimo periodo d'imposta per il quale e' stata presentata la dichiarazione dei redditi.
+Indipendentemente dal superamento del menzionato limite del 10 per cento, la disposizione non si applica quando lo scostamento e' di importo inferiore a cinque milioni di lire e si applica comunque quando e' superiore all'importo di cinquanta milioni di lire, che va aumentato, con riferimento ai beni di cui al predetto art. 59, dell'1 per cento del valore complessivo dei beni o categorie di beni rilevati a seguito dell'ispezione o verifica fino a tre miliardi di lire e dello 0,5 per cento di tale valore per la parte che eccede i tre miliardi di lire;
+
+                            
+                        
+                        
+                            b)
+                            
+                                non risultano indicati in alcuna delle scritture contabili o, in mancanza dell'obbligo di indicazione nelle stesse, in altra documentazione attendibile, uno o piu' beni strumentali, diversi dagli immobili relativi all'impresa individuale, utilizzati nell'attivita' - anche se non posseduti a titolo di proprieta' e anche se completamente ammortizzati - il cui valore complessivo sia superiore al 10 per cento di quello di tutti i beni strumentali utilizzati, esclusi i menzionati immobili. Indipendentemente dal superamento del predetto limite percentuale, la disposizione non si applica quando lo scostamento e' di importo inferiore a cinque milioni di lire e si applica comunque quando e' superiore a cinquanta milioni di lire. Ai fini della determinazione del valore dei beni, si tiene conto del costo storico, comprensivo degli oneri accessori di diretta imputazione e degli eventuali contributi di terzi, dei beni materiali e immateriali ammortizzabili ai sensi degli articoli 67 e 68 del testo unico delle imposte sui redditi, al lordo degli ammortamenti e delle eventuali rivalutazioni, nonche' di quello dei beni di costo unitario non superiore ad un milione di lire; per i beni acquisiti in dipendenza di contratti di locazione finanziaria, si tiene conto del costo sostenuto dal concedente e, per quelli acquisiti in comodato ovvero in dipendenza di contratti di locazione non finanziaria, del valore normale al momento dell'immissione nell'attivita'. I costi relativi ai beni mobili adibiti promiscuamente all'esercizio dell'impresa ed all'uso personale o familiare dell'imprenditore si computano nella misura del 50 per cento;
+
+                            
+                        
+                        
+                            c)
+                            
+                                sono impiegati lavoratori dipendenti che non risultano iscritti nei libri da tenere ai fini della legislazione sul lavoro e per i quali e' scaduto il primo termine utile per il versamento dei contributi previdenziali ed assistenziali dovuti, o altri addetti, diversi dai familiari di cui all'art. 5, comma 5, del testo unico delle imposte sui redditi che prestano attivita' occasionale, il cui rapporto non risulta dalle scritture contabili o da altra attendibile documentazione rinvenuta nel luogo in cui sono tenute le scritture contabili. Detta disposizione si applica a condizione che i compensi non contabilizzati, calcolati sulla base dei vigenti contratti collettivi nazionali di lavoro ovvero, per gli addetti diversi dai lavoratori dipendenti, sulla base delle retribuzioni mensili previste dagli stessi contratti, siano complessivamente superiori al 10 per cento delle spese per prestazioni di lavoro contabilizzate nello stesso periodo nel corso del quale i lavoratori dipendenti e gli altri addetti hanno prestato l'attivita'. A tal fine non rilevano gli scostamenti riconducibili ad errata applicazione dei criteri di imputazione temporale, sempreche' le annotazioni effettuate in violazione dei criteri di cui all'art. 75 del testo unico delle imposte sui redditi emergano dalle scritture contabili obbligatorie del periodo di imposta antecedente o successivo a quello di competenza e derivino dall'adozione di metodi costanti di impostazione contabile. Indipendentemente dal superamento del predetto limite percentuale, la disposizione non si applica quando l'ammontare complessivo dei compensi non indicati in contabilita' e' di importo inferiore a cinque milioni di lire e si applica comunque quando e' superiore a cinquanta milioni di lire.
 
 Le contraddizioni riscontrate ai sensi del comma 2 sono imputabili al periodo d'imposta 1995 anche se rilevate in periodi d'imposta successivi, salvo che il contribuente dimostri, in base ad elementi certi e precisi, che le stesse sono riferibili a periodi di imposta diversi dal 1995.
  AVVERTENZA:
@@ -55,6 +113,33 @@ Le contraddizioni riscontrate ai sensi del comma 2 sono imputabili al periodo d'
 
 ## Art. 2. — Inattendibilita' della contabilita'
  degli esercenti arti e professioni
+
+1.
+                    
+                        
+                            Ai medesimi fini indicati nell'art. 1, la contabilita' ordinaria degli esercenti arti e professioni e' considerata inattendibile quando:
+ 
+                        
+                        
+                            a)
+                            
+                                i valori rilevati a seguito di ispezioni o verifiche, anche parziali, compresi quelli dei beni di cui alla successiva lettera b), abbiano uno scostamento, rispetto a quelli indicati in contabilita', superiore al 10 per cento del valore complessivo delle voci interessate, a condizione che tale scostamento non sia riconducibile a errata applicazione dei criteri di imputazione temporale e sempreche' le annotazioni risultino dalle scritture contabili obbligatorie del periodo d'imposta antecedente o successivo e derivino dall'adozione di metodi costanti di impostazione contabile.
+Indipendentemente dal superamento del menzionato limite percentuale, la disposizione non si applica quando lo scostamento e' di importo inferiore a cinque milioni di lire e si applica comunque quando e' superiore a cinquanta milioni di lire;
+
+                            
+                        
+                        
+                            b)
+                            
+                                non risultano indicati in alcuna delle scritture contabili o, in mancanza dell'obbligo di indicazione nelle stesse, in altra documentazione attendibile, uno o piu' beni strumentali, diversi dagli immobili utilizzati nell'attivita' - anche se non posseduti a titolo di proprieta' e anche se completamente ammortizzati - il cui valore complessivo sia superiore al 10 per cento di quello di tutti i beni strumentali utilizzati, esclusi i menzionati immobili.
+Indipendentemente dal superamento del predetto limite percentuale, la disposizione non si applica quando lo scostamento e' di importo inferiore a cinque milioni di lire e si applica comunque quando e' superiore a cinquanta milioni di lire. Ai fini della determinazione del valore dei beni si tiene conto del costo storico, comprensivo degli oneri accessori di diretta imputazione, dei beni ammortizzibili ai sensi dell'art. 50, commi 2, 3 e 3-bis, del testo unico delle imposte sui redditi, al lordo degli ammortamenti nonche' di quello dei beni di costo unitario non superiore ad un milione di lire; per i beni acquisiti in dipendenza di contratti di locazione finanziaria, si tiene conto del costo sostenuto dal concedente e, per quelli acquisiti in comodato ovvero in dipendenza di contratti di locazione non finanziaria, del valore normale al momento dell'immissione nell'attivita'. Le spese relative all'acquisto di beni mobili adibiti promiscuamente all'esercizio di arte o professione ed all'uso personale o familiare dell'esercente arte o professione si computano nella misura del 50 per cento;
+
+                            
+                        
+                        
+                            c)
+                            
+                                sono impiegati lavoratori dipendenti che non risultano iscritti nei libri da tenere ai fini della legislazione sul lavoro e per i quali e' scaduto il primo termine utile per il versamento dei contributi previdenziali ed assistenziali dovuti, o altri addetti, diversi dai familiari di cui all'art. 5, comma 5, del testo unico delle imposte sui redditi che prestano attivita' occasionale, il cui rapporto non risulta dalle scritture contabili o da altra attendibile documentazione rinvenuta nel luogo in cui sono conservate le scritture contabili dell'artista o professionista. Detta disposizione si applica a condizione che i compensi non contabilizzati, calcolati sulla base dei vigenti contratti collettivi nazionali di lavoro ovvero, per gli addetti diversi dai lavoratori dipendenti, sulla base delle retribuzioni mensili previste dagli stessi contratti, siano complessivamente superiori al 10 per cento delle spese per prestazioni di lavoro contabilizzate nello stesso periodo nel corso del quale i lavoratori dipendenti e gli altri addetti hanno prestato l'attivita'. Indipendentemente dal superamento del menzionato limite percentuale, la disposizione non si applica quando l'ammontare complessivo dei compensi non indicati in contabilita' e' di importo inferiore a cinque milioni di lire e si applica comunque quando e' superiore a cinquanta milioni di lire.
 
 Le contraddizioni riscontrate ai sensi del comma 1 sono imputabili al periodo d'imposta 1995 anche se rilevate in periodi d'imposta successivi, salvo che il contribuente dimostri, in base ad elementi certi e precisi, che le stesse sono riferibili a periodi di imposta diversi dal 1995.
 

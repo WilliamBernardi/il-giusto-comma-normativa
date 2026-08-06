@@ -7,8 +7,8 @@ urn: urn:nir:infrastrutture.ministero.mobilita.sostenibili:decreto:2021-10-04;20
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:40Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -25,6 +25,24 @@ Udito il parere del Consiglio di Stato espresso dalla Sezione Consultiva per gli
 ## Art. 1. — Oggetto
 
 Il presente regolamento definisce le modalita' e i criteri di riparto delle risorse del fondo destinato ad incentivi per le funzioni tecniche svolte dai dipendenti del Ministero delle infrastrutture e della mobilita' sostenibili, (di seguito «Ministero») secondo quanto previsto dall'articolo 113, comma 3, del decreto legislativo 18 aprile 2016, n. 50, (di seguito «codice dei contratti pubblici»).
+
+2.
+                    
+                        
+                            Per quanto non previsto dal presente regolamento trovano applicazione: 
+ 
+                        
+                        
+                            a)
+                            
+                                le leggi ed i regolamenti nazionali; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                i contratti collettivi nazionali di lavoro del comparto Ministeri (di seguito «CCNL»).
 
 ## Art. 2. — Ambito di applicazione
 
@@ -61,12 +79,90 @@ Nell'ambito degli accordi o convenzioni stipulati con le altre pubbliche amminis
 
 Per ciascuna opera, lavoro servizio o fornitura, il dirigente apicale della struttura ministeriale che opera come stazione appaltante nomina il responsabile unico del procedimento (di seguito «RUP») tra i dipendenti di ruolo in possesso dei requisiti previsti dall'articolo 31 del codice dei contratti pubblici e dal regolamento di cui all'articolo 216, comma 27-octies, del medesimo codice.
 
+2.
+                    
+                        
+                            Il dirigente apicale, assicurando il principio di rotazione ed un'equa ripartizione degli incarichi, su proposta del RUP individua, con apposito decreto direttoriale, i componenti dell'ufficio di supporto al RUP, di direzione lavori, il collaudatore o i componenti della commissione di collaudo, nonche' le altre figure incaricate delle funzioni tecniche attingendo prioritariamente alle risorse umane del Ministero, tenendo conto: 
+ 
+                        
+                        
+                            a)
+                            
+                                della necessita' di integrazione tra diverse competenze professionali anche in relazione alla tipologia dell'opera o lavoro da realizzare; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                delle esperienze professionali eventualmente acquisite; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                dell'espletamento di attivita' analoghe con risultati positivi; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                dell'autonomia e del senso di responsabilita' dimostrate nel portare a termine i compiti affidati; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                della capacita' di collaborare con i colleghi; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                della consequenzialita' e complementarieta' con altri incarichi, eventualmente gia' ricevuti, aventi lo stesso oggetto; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                del rispetto della vigente normativa in merito ai limiti e ai vincoli posti agli appartenenti ai diversi ordini professionali; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                del principio di incentivazione della produttivita', sancito dalla vigente legislazione in materia di pubblico impiego e dalla contrattazione collettiva.
+
 I provvedimenti di nomina del RUP e di individuazione degli incarichi di cui ai commi 1 e 2 per ciascuna opera, lavoro, servizio o fornitura devono essere tempestivamente comunicati dal dirigente apicale della struttura ministeriale che opera come stazione appaltante all'Anagrafe delle prestazioni e comunque non oltre quindici giorni dalla emanazione degli stessi.
 
 Non sono conferiti incarichi a soggetti condannati ai sensi dell'articolo 35-bis del decreto legislativo 30 marzo 2001, n. 165.
 E' fatto obbligo per il dirigente che conferisce l'incarico o autorizza il dipendente a svolgere prestazioni presso altre pubbliche Amministrazioni di accertare preventivamente, tramite l'Ufficio disciplina della Direzione generale del personale e gli affari generali, la sussistenza di carichi pendenti per i reati previsti nel capo I del titolo II del libro secondo del codice penale a carico del dipendente ai sensi della normativa sopra citata.
 
 Nel caso in cui, ai fini della individuazione delle figure professionali necessarie, il dirigente apicale della struttura ministeriale che opera come stazione appaltante non puo' avvalersi di personale dalla stessa dipendente, puo' attingere, per il conferimento del singolo incarico, ad appositi elenchi predisposti a seguito di interpello ministeriale, previo nulla osta del dirigente generale della struttura presso cui il dipendente prescelto presta servizio, in relazione all'impegno previsto per lo svolgimento dell'incarico.
+
+6.
+                    
+                        
+                            Gli incarichi per l'espletamento delle attivita' di cui all'articolo 2, in assenza di precedenti esperienze, sono assegnati ai dipendenti previo accertamento di almeno una delle seguenti condizioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                aver seguito un corso di qualificazione professionale, ai sensi del CCNL vigente; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                aver svolto, senza oneri a carico del Fondo, l'attivita' oggetto dell'incarico per un periodo di formazione in affiancamento concluso con un giudizio positivo espresso dal RUP.
 
 Il dirigente apicale della struttura ministeriale che opera come stazione appaltante e' tenuto a comunicare semestralmente alle organizzazioni sindacali maggiormente rappresentative gli incarichi attribuiti al fine del monitoraggio circa il rispetto dei principi di trasparenza e rotazione degli incarichi.
 
@@ -99,6 +195,66 @@ L'individuazione delle percentuali definitive da attribuire per la ripartizione 
 Ai sensi dell'articolo 113, comma 5, del codice dei contratti pubblici, qualora le strutture ministeriali svolgono i compiti della centrale unica di committenza per l'espletamento di procedure di acquisizione di lavori, servizi e forniture per conto di altri enti, viene riconosciuta ai dipendenti una quota parte, non superiore ad un quarto, dell'incentivo previsto dal comma 2 del medesimo articolo 113. Le modalita' di attribuzione degli incentivi ai destinatari sono stabilite in sede di contrattazione decentrata integrativa.
 
 ## Art. 8. — Criteri di liquidazione dei crediti del dipendente per incentivi
+
+1.
+                    
+                        
+                            Ai fini della liquidazione le prestazioni sono da considerarsi rese: 
+ 
+                        
+                        
+                            a)
+                            
+                                per la direzione lavori, con l'emissione del certificato di ultimazione lavori; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                per il collaudo tecnico-amministrativo, con l'emissione del certificato di collaudo finale, ovvero del certificato di regolare esecuzione o del certificato di conformita', nei casi previsti dalla normativa; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                per la programmazione della spesa per investimenti, con l'emanazione del relativo provvedimento; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                per la verifica dei progetti, con l'invio al RUP della relazione finale di verifica; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                per le procedure di bando, con la pubblicazione del provvedimento di efficacia dell'aggiudicazione; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                per l'esecuzione dei contratti in caso di forniture e servizi, con l'espletamento delle verifiche periodiche; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                per il collaudo statico, con il deposito del certificato; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                per il RUP, all'approvazione del collaudo o della regolare esecuzione.
 
 ## Art. 9.
 

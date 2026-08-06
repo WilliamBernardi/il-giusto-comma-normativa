@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: DPR
 vigenza_date: 2025-05-03
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:47:42Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -677,6 +677,425 @@ Gli aumenti e i valori stipendiali di cui all'articolo 2 hanno
 effetto sulla determinazione delle misure orarie del compenso per lavoro straordinario a decorrere dal 31 dicembre 1999.
 
 ## Art. 4. — (Indennita' pensionabile)
+
+1.
+                        
+                            
+                                Le misure dell'indennita' di cui all'articolo 5 del decreto del Presidente della Repubblica 27 marzo 1984, n. 69, e successive modificazioni ed integrazioni, sono rideterminate a decorrere dalle date di seguito indicate nei seguenti nuovi importi mensili lordi: 
+ 
+
+                            
+                            
+                                a)
+                                
+                                    dal 1° settembre 1998 
+ 
+ 
+ 
+                                    
+                                        
+                                            
+                                                QUALIFICHE 
+                                            
+                                            
+                                                
+                                            
+                                        
+                                        
+                                            
+                                                Vice questore aggiunto e qualifiche equiparate 
+                                            
+                                            
+                                                lire 1.128.000 
+                                            
+                                        
+                                        
+                                            
+                                                Commissario capo e qualifiche equiparate 
+                                            
+                                            
+                                                lire 1.103.000 
+                                            
+                                        
+                                        
+                                            
+                                                Commissario e qualifiche equiparate 
+                                            
+                                            
+                                                lire 1.088.000 
+                                            
+                                        
+                                        
+                                            
+                                                Vice commissario e qualifiche equiparate 
+                                            
+                                            
+                                                lire 1.051.000 
+                                            
+                                        
+                                        
+                                            
+                                                Ispettore superiore S.U.PS e qualifiche equiparate 
+                                            
+                                            
+                                                lire 1.071.000 
+                                            
+                                        
+                                        
+                                            
+                                                Ispettore capo  e qualifiche equiparate 
+                                            
+                                            
+                                                lire 1.021.000 
+                                            
+                                        
+                                        
+                                            
+                                                Ispettore e qualifiche equiparate 
+                                            
+                                            
+                                                lire 985.000 
+                                            
+                                        
+                                        
+                                            
+                                                Vice ispettore e qualifiche equiparate 
+                                            
+                                            
+                                                lire 942.000 
+                                            
+                                        
+                                        
+                                            
+                                                Sovrintendente capo e qualifiche equiparate 
+                                            
+                                            
+                                                lire 980.000 
+                                            
+                                        
+                                        
+                                            
+                                                Sovrintendente e qualifiche equiparate 
+                                            
+                                            
+                                                lire 913.000 
+                                            
+                                        
+                                        
+                                            
+                                                Vice sovrintendente e qualifiche equiparate 
+                                            
+                                            
+                                                lire 908.000 
+                                            
+                                        
+                                        
+                                            
+                                                Assistente capoe qualifiche equiparate 
+                                            
+                                            
+                                                lire 805.000 
+                                            
+                                        
+                                        
+                                            
+                                                Assistente  e qualifiche equiparate 
+                                            
+                                            
+                                                lire 725.000 
+                                            
+                                        
+                                        
+                                            
+                                                Agente scelto e qualifiche equiparate 
+                                            
+                                            
+                                                lire 660.000 
+                                            
+                                        
+                                        
+                                            
+                                                Agente e qualifiche equiparate 
+                                            
+                                            
+                                                lire 604.000 
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                            
+                                b)
+                                
+                                    dal 1° ottobre 1999 
+ 
+                                    
+                                        
+                                            
+                                                QUALIFICHE 
+                                            
+                                            
+                                                
+                                            
+                                        
+                                        
+                                            
+                                                Vice questore aggiunto e qualifiche equiparate 
+                                            
+                                            
+                                                lire 1.145.000 
+                                            
+                                        
+                                        
+                                            
+                                                Commissario capo e qualifiche equiparate 
+                                            
+                                            
+                                                lire 1.120.000 
+                                            
+                                        
+                                        
+                                            
+                                                Commissario e qualifiche equiparate 
+                                            
+                                            
+                                                lire 1.067.000 
+                                            
+                                        
+                                        
+                                            
+                                                Ispettore superiore S.U.PS. e qualifiche equiparate 
+                                            
+                                            
+                                                lire 1.087.000 
+                                            
+                                        
+                                        
+                                            
+                                                Ispettore capo e qualifiche equiparate 
+                                            
+                                            
+                                                lire 1.037.000 
+                                            
+                                        
+                                        
+                                            
+                                                Ispettore e qualifiche equiparate 
+                                            
+                                            
+                                                lire 1.000.000 
+                                            
+                                        
+                                        
+                                            
+                                                Vice ispettore e qualifiche equiparate 
+                                            
+                                            
+                                                lire 956.000 
+                                            
+                                        
+                                        
+                                            
+                                                Sovraintendente capo e qualifiche equiparate 
+                                            
+                                            
+                                                lire 995.000 
+                                            
+                                        
+                                        
+                                            
+                                                Sovraintendente e qualifiche equiparate 
+                                            
+                                            
+                                                lire 927.000 
+                                            
+                                        
+                                        
+                                            
+                                                Vice sovrintendente e qualifiche equiparate 
+                                            
+                                            
+                                                lire 922.000 
+                                            
+                                        
+                                        
+                                            
+                                                Assistente capo e qualifiche equiparate 
+                                            
+                                            
+                                                lire 818.000 
+                                            
+                                        
+                                        
+                                            
+                                                Assistente e qualifiche equiparate 
+                                            
+                                            
+                                                lire 736.000 
+                                            
+                                        
+                                        
+                                            
+                                                Agente scelto e qualifiche equiparate 
+                                            
+                                            
+                                                lire 670.000 
+                                            
+                                        
+                                        
+                                            
+                                                Agente e qualifiche equiparate 
+                                            
+                                            
+                                                lire 614.000 
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                            
+                                c)
+                                
+                                    dal 31 dicembre 1999 
+ 
+                                    
+                                        
+                                            
+                                                QUALIFICHE 
+                                            
+                                            
+                                                
+                                            
+                                        
+                                        
+                                            
+                                                Vice questore aggiunto e qualifiche equiparate 
+                                            
+                                            
+                                                lire 1.162.000 
+                                            
+                                        
+                                        
+                                            
+                                                Commissario capo e qualifiche equiparate 
+                                            
+                                            
+                                                lire 1.140.000 
+                                            
+                                        
+                                        
+                                            
+                                                Commissario e qualifiche equiparate 
+                                            
+                                            
+                                                lire 1.130.000 
+                                            
+                                        
+                                        
+                                            
+                                                Vice commissario  e qualifiche equiparate 
+                                            
+                                            
+                                                lire 1.083.000 
+                                            
+                                        
+                                        
+                                            
+                                                Ispettore superiore S.U.PS. e qualifiche equiparate 
+                                            
+                                            
+                                                lire 1.103.000 
+                                            
+                                        
+                                        
+                                            
+                                                Ispettore capo e qualifiche equiparate 
+                                            
+                                            
+                                                lire 1.053.000 
+                                            
+                                        
+                                        
+                                            
+                                                Ispettore e qualifiche equiparate 
+                                            
+                                            
+                                                lire 1.015.000 
+                                            
+                                        
+                                        
+                                            
+                                                Vice ispettore e qualifiche equiparate 
+                                            
+                                            
+                                                lire 976.000 
+                                            
+                                        
+                                        
+                                            
+                                                Sovraintendente capo e qualifiche equiparate 
+                                            
+                                            
+                                                lire 1.010.000 
+                                            
+                                        
+                                        
+                                            
+                                                Sovraintendente e qualifiche equiparate 
+                                            
+                                            
+                                                lire 941.000 
+                                            
+                                        
+                                        
+                                            
+                                                Vice sovrintendente e qualifiche equiparate 
+                                            
+                                            
+                                                lire 936.000 
+                                            
+                                        
+                                        
+                                            
+                                                Assistente capo e qualifiche equiparate 
+                                            
+                                            
+                                                lire 829.000 
+                                            
+                                        
+                                        
+                                            
+                                                Assistente e qualifiche equiparate 
+                                            
+                                            
+                                                lire 747.000 
+                                            
+                                        
+                                        
+                                            
+                                                Agente scelto e qualifiche equiparate 
+                                            
+                                            
+                                                lire 680.000 
+                                            
+                                        
+                                        
+                                            
+                                                Agente e qualifiche equiparate 
+                                            
+                                            
+                                                lire 622.000 
+                                            
+                                        
+                                    
+                                    
+
+ 
+ 
+ 
+ (2) ((3A))
 
 Dal 1° settembre 1998, e' soppresso l'articolo 4, comma 4, del decreto del Presidente della Repubblica 31 luglio 1995, n. 395.
 
@@ -2368,6 +2787,41 @@ Per il personale della Polizia di Stato, del Corpo della Polizia Penitenziaria e
 
 ## Art. 14. — (Fondo per l'efficienza dei servizi istituzionali)
 
+1.
+                        
+                            
+                                Per ogni forza di polizia ad ordinamento civile e' costituito un Fondo unico per l'efficienza dei servizi istituzionali alimentato dalle seguenti risorse economiche: 
+
+                            
+                            
+                                a)
+                                
+                                    la relativa quota di pertinenza dello stanziamento dello 0,8 per cento di cui all'articolo 2, comma 10, della legge 23 dicembre 1998, n. 449; 
+                                
+                            
+                            
+                                b)
+                                
+                                    i risparmi di spesa e di gestione nelle misure e nei limiti previsti dall'articolo 43, comma 7, della legge 27 dicembre 1997, n. 449; 
+                                
+                            
+                            
+                                c)
+                                
+                                    le risorse provenienti da specifiche disposizioni normative che destinano risparmi per promuovere miglioramenti nell'efficienza dei servizi; 
+                                
+                            
+                            
+                                d)
+                                
+                                    gli importi derivanti dalla riduzione, pari all'1% per il 1999, al 2% per il 2000 e al 3% per il 2001, degli stanziamenti relativi ai compensi per lavoro straordinario previsti negli appositi capitoli di bilancio; 
+                                
+                            
+                            
+                                e)
+                                
+                                    l'importo pro-quota di cui al comma 2 dell'articolo 10. (2) ((2A))
+
 ---------------
                             AGGIORNAMENTO (2)
                             
@@ -2387,6 +2841,45 @@ dall'applicazione dell'articolo 4, comma 4, del presente decreto."
 
 Il Fondo di cui all'articolo 14 e' finalizzato da ogni singola Amministrazione al raggiungimento di qualificati obiettivi ed a promuovere reali e significativi miglioramenti dell'efficienza dei servizi istituzionali.
 
+2.
+                        
+                            
+                                Il fondo indicato al comma 1 e' utilizzato, con le modalita' di cui all'articolo 23, comma 5, lettera a), in particolare per attribuire compensi finalizzati a:
+ 
+                            
+                            
+                                a)
+                                
+                                    incentivare l'impiego del personale nelle attivita' operative;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    fronteggiare particolari situazioni di servizio;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    compensare l'impiego in compiti od incarichi che comportino disagi;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    compensare la presenza qualificata;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    compensare l'incentivazione della produttivita' collettiva per il miglioramento dei servizi.
+
 Le risorse di cui all'articolo 14 non possono comportare una distribuzione indistinta e generalizzata.
 
 ## Art. 16. — (Orario di lavoro)
@@ -2400,6 +2893,38 @@ Dal 1o luglio 1999 al personale impegnato in turni di servizio continuativo che 
 Il personale inviato in servizio fuori sede che sia impiegato oltre la durata del turno giornaliero, comprensivo sia dei viaggi che del tempo necessario all'effettuazione dell'incarico, e' esonerato dall'espletamento del turno ordinario previsto o dal completamento dello stesso.
 
 ## Art. 17. — (Tutela delle lavoratrici madri)
+
+1.
+                        
+                            
+                                Oltre a quanto previsto dalla legge 30 dicembre 1971, n. 1204, e successive modificazioni, per il personale di cui all'articolo 1, comma 1, si applicano le seguenti disposizioni:
+ 
+                            
+                            
+                                a)
+                                
+                                    divieto di sovrapposizione dei turni tra coniugi dipendenti dalla stessa Amministrazione con figli fino a 6 anni di eta';
+
+                                
+                            
+                            
+                                b)
+                                
+                                    esonero, a domanda, per la madre o per le situazioni monoparentali dal turno notturno o da turni continuativi articolati sulle 24 ore sino al compimento del terzo anno di eta' del figlio;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    esonero, a domanda, dal turno notturno per i dipendenti che abbiano a proprio carico un soggetto disabile ai sensi della legge n. 104 del 1992;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    possibilita' per le lavoratrici madri vincitrici di concorso interno, con figli fino al 12o anno di eta', di frequentare il corso di formazione presso la scuola piu' vicina al luogo di residenza, tra quelle in cui il corso stesso si svolge.
 
 ## Art. 18. — (Congedo ordinano)
 
@@ -2444,6 +2969,54 @@ Le giornate destinate alla formazione ed all'aggiornamento professionale di cui 
 
 Il sistema di relazioni sindacali, nel rispetto delle distinzioni delle responsabilita' delle Amministrazioni e delle organizzazioni sindacali e' riordinato in modo coerente all'obiettivo di incrementare e mantenere elevata l'efficienza dei servizi istituzionali unitamente al miglioramento delle condizioni di lavoro e alla crescita professionale degli operatori della sicurezza.
 
+2.
+                        
+                            
+                                Il sistema di relazioni sindacali si articola nei seguenti modelli:
+ 
+                            
+                            
+                                a)
+                                
+                                    contrattazione collettiva:
+ a1) la contrattazione collettiva si svolge a livello nazionale sulle materie, con i tempi e le procedure previste dall'articolo 3, comma 1, e dall'articolo 7 del decreto legislativo 12 maggio 1995, n. 195, individuando anche le risorse da destinare al fondo per il raggiungimento di qualificati obiettavi e il miglioramento dell'efficienza dei servizi;
+ a2) accordo nazionale quadro e contrattazione decentrata;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    informazione che si articola in preventiva e successiva;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    esame;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    consultazione;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    forme di partecipazione;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    norme di garanzia.
+
 ## Art. 23. — (Accordo nazionale quadro di Amministrazione e
  contrattazione decentrata)
 
@@ -2455,11 +3028,190 @@ L'accordo nazionale quadro di Amministrazione ha durata quadriennale e le materi
 
 L'accordo non puo' essere in contrasto con i vincoli risultanti da quanto stabilito nel contratto collettivo nazionale ne' comportare oneri eccedenti le risorse confluite nel fondo di cui all'articolo 14.
 
+5.
+                        
+                            
+                                Le procedure per l'accordo nazionale quadro si svolgono per ciascuna Amministrazione sulle seguenti materie di contrattazione:
+ 
+                            
+                            
+                                a)
+                                
+                                    individuazione delle fattispecie, e delle misure da attribuire a ciascuna di esse, a cui destinare le risorse del fondo per l'efficienza dei servizi istituzionali di cui, all'articolo 14;
+ definizione delle modalita' per la loro destinazione, utilizzazione e attribuzione, nonche' le relative modalita' di verifica.
+ L'accordo su tale punto avra' cadenza annuale;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    principi generali per la definizione degli accordi decentrati di cui al comma 6, unitamente alle procedure di perfezionamento in caso di mancata intesa ed alle modalita' di verifica di tali accordi, nonche' per le determinazioni dei periodi di validita';
+
+                                
+                            
+                            
+                                c)
+                                
+                                    individuazione delle tipologie per l'articolazione dei turni di servizio;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    criteri per la valutazione dell'adeguatezza degli alloggi di servizio utilizzabili dal personale in missione;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    criteri relativi alla formazione ed all'aggiornamento professionale;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    criteri generali, previa informazione dei dati necessari, per la programmazione di turni di lavoro straordinario diretti a consentire ai responsabili degli uffici di fronteggiare, per periodi predeterminati, particolari esigenze di servizio;
+
+                                
+                            
+                            
+                                g)
+                                
+                                    criteri generali per l'applicazione del riposo compensativo;
+
+                                
+                            
+                            
+                                h)
+                                
+                                    criteri generali Per la programmazione di turni di reperibilita';
+
+                                
+                            
+                            
+                                i)
+                                
+                                    indirizzi generali per le attivita' gestionali degli enti di assistenza del personale.
+
+6.
+                        
+                            
+                                La contrattazione decentrata si svolge presso ogni sede centrale e ufficio o istituto o reparto periferico di livello e individuati da ciascuna Amministrazione, senza oneri finanziari aggiuntivi rispetto a quanto previsto dal presente decreto, con le procedure previste dall'articolo 3, comma 7, del decreto legislativo 12 maggio 1995, n. 195, e per le seguenti materie:
+ 
+                            
+                            
+                                a)
+                                
+                                    gestione ed applicazione, con cadenza annuale, di quanto previsto dal comma 5, lettera a), secondo le modalita' ivi definite ed entro 30 giorni dalla data dell'accordo stesso e dei successivi aggiornamenti. Nel caso non si pervenga, entro tale termine, ad, un accordo, la commissione di cui all'articolo 28, comma 3, esprime parere vincolante nel merito;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    criteri applicativi relativi alla formazione ed all'aggiornamento professionale, con riferimento ai tempi ed alle modalita';
+
+                                
+                            
+                            
+                                c)
+                                
+                                    criteri per la verifica della qualita' e della salubrita' dei servizi di mensa e degli spacci;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    criteri per la verifica delle attivita' di protezione sociale e di benessere del personale;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    misure dirette a favorire pari opportunita' nel lavoro e nello sviluppo professionale, ai fini anche delle azioni positive di cui alla legge 10 apriie 1991, n. 125.
+
 ## Art. 24. — (Informazione)
 
 L'informazione si articola in preventiva e successiva.
 
+2.
+                        
+                            
+                                L'informazione preventiva e' fornita da ciascuna Amministrazione, inviando con congruo anticipo alle rispettive organizzazioni sindacali firmatarie dell'accordo sindacale recepito con il presente decreto la documentazione necessaria, relativamente ai criteri generali ed alle iniziative concernenti:
+ 
+                            
+                            
+                                a)
+                                
+                                    l'articolazione dell'orario di lavoro obbligatorio giornaliero e settimanale e dei turni di servizio;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la mobilita' esterna del personale a domanda;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    la programmazione di turni di lavoro straordinario diretti a consentire ai responsabili degli uffici di fronteggiare, per periodi predeterminati, particolari esigenze di servizio;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    l'applicazione del riposo compensativo;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    la programmazione di turni di reperibilita';
+
 Per le materie di cui al comma 2, lettere a), c), d), ed e), l'informazione e' fornita a livello centrale e periferico; per la materia di cui alla lettera b) del medesimo comma 2 l'informazione e' fornita a livello di Amministrazione centrale.
+
+4.
+                        
+                            
+                                L'informazione successiva si attua relativamente ai criteri generali concementi:
+ 
+                            
+                            
+                                a)
+                                
+                                    le misure di massima riguardanti l'organizzaione degli uffici e l'organizzaione del lavoro;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la qualita' del servizio ed i rapporti con l'utenza, nonche' le altre misure di massima volte a migliorare l'efficienza dei servizi;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    l'attuazione di programmi di formazione del personale;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    le misure in materia di igiene e sicurezza nei luoghi di lavoro, anche in relazione all'attuazione della legge n. 626 del 1994.
 
 Per le materie suddette, le Amministrazioni della Polizia di Stato e del Corpo forestale dello Stato forniscono le adeguate informazioni alle rispettive organizzazioni sindacali firmatarie dell'accordo sindacale recepito con il presente decreto in una apposita conferenza di rappresentanti di dette Amministrzioni ed organizzazioni sindacali, non avente alcuna natura negoziale, da riunirsi con cadenza semestrale.
 
@@ -2476,6 +3228,31 @@ Durante il periodo in cui si svolge l'esame, le Amministrazioni non adottano pro
 Per il Corpo di polizia penitenziaria, l'Amministrazione, per tutte le materie indicate negli articoli 24 e 26, procede, prima di assumere le relative determinazioni, all'esame previsto nel comma 1, nel rispetto dei termini massimi ivi stabiliti, dopo aver fornito alle organizzazioni sindacali firmatarie dell'accordo sindacale recepito con il presente decreto operanti Presso il Corpo di polizia penitenziaria le informazioni necessarie.
 
 ## Art. 26. — (Consultazione)
+
+1.
+                        
+                            
+                                La consultazione si svolge relativamente ai criteri generali concernenti:
+ 
+                            
+                            
+                                a)
+                                
+                                    la definizione delle piante organiche;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la gestione del rapporto di impiego relativamente agli atti normativi ed amministrativi di carattere generale concernenti lo stato giuridico, previdenziale ed assistenziale, ivi compresi i criteri di massima da seguirsi negli scrutini per le promozioni;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    l'introduzione di nuove tecnologie e le conseguenti misure di massima riguardanti i processi generali di organizzazione degli uffici centrali e periferici aventi effetti generali sull'organizzazione del lavoro.
 
 Per le materie suddette, prima di assumere le relative determinazioni, le Amministrazioni della Polizia di Stato e del Corpo forestale dello Stato, previa adeguata informazione, acquisiscono senza particolari formalita' il parere delle rispettive organizzazioni sindacali firmatarie dell'accordo sindacale recepito con il presente decreto.
 
@@ -2644,6 +3421,31 @@ AGGIORNAMENTO (1)
 L'indennita' prevista dall'articolo 1, comma 1, del decreto del Presidente della Repubblica 11 ottobre 1988 - registrato dalla Corte dei conti in data 12 dicembre 1988, Reg. n. 59/Finanze, foglio n. 173 - al punto b) dell'annessa tabella A, compete, nella misura del 50%, al personale specializzato delle Forze di Polizia effettivamente impiegato in modo esclusivo nei Comandi e reparti logistico- addestrativi a supporto del dispositivo navale, con le modalita' previste per il personale imbarcato.
 
 ## Art. 40. — (Trattamento di fine rapporto e previdenza complementare)
+
+1.
+                        
+                            
+                                Le procedure di negoziazione e di concertazione attivate, per la prima applicazione, ai sensi dell'articolo 26, comma 20, della legge 23 dicembre 1998, n. 448, provvedono a definire:
+ 
+                            
+                            
+                                a)
+                                
+                                    la costituzione di uno o piu' fondi nazionali pensione complementare per il personale delle Forze armate e delle Forze di polizia ad ordinamento civile e militare, ai sensi del decreto legislativo 21 aprile 1993, n.124, della legge 8 agosto 1995, n.335, della legge 27 dicembre 1997, n. 449, e successive modificazioni ed integrazioni, anche verificando la possibilita' di unificarlo con analoghi fondi istituiti ai sensi delle normative richiamate per i lavoratori del pubblico impiego;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la misura percentuale della quota di contribuzione a carico delle Amministrazioni e di quella dovuta dal lavoratore, nonche' la retribuzione utile alla determinazione delle quote stesse;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    le modalita' di trasformazione della buonuscita in trattamento di fine rapporto, le voci retributive utili per gli accantonamenti del trattamento di fine rapporto, nonche' la quota di trattamento di fine rapporto da destinare a previdenza complementare.
 
 Destinatario dei fondi pensione di cui al comma 1 e' il personale che liberamente aderisce ai fondi stessi.
 
@@ -2864,6 +3666,452 @@ Ai fini della corresponsione dei nuovi stipendi derivanti dall'applicazione del 
 Gli aumenti ed i valori stipendiali di cui all'articolo 2 hanno effetto sulla determinazione delle misure orarie del compenso per lavoro straordinario a decorrere dal 31 dicembre 1999.
 
 ## Art. 44. — (Indennita' pensionabile)
+
+1.
+                        
+                            
+                                Le misure dell'indennita' di cui all'articolo 5 del decreto del Presidente della Repubblica 27 marzo 1984, n. 69, e successive modificazioni ed integrazioni, sono rideterminate, a decorrere dalle date di seguito indicate nei seguenti nuovi importi mensili lordi: 
+ 
+ 
+
+                            
+                            
+                                a)
+                                
+                                    dal 1° settembre 1998 
+ 
+ 
+ 
+                                    
+                                        
+                                            
+                                                Gradi 
+                                            
+                                            
+                                                Lire 
+                                            
+                                        
+                                        
+                                            
+                                                Tenente Colonnello 
+                                            
+                                            
+                                                1.128.000 
+                                            
+                                        
+                                        
+                                            
+                                                Maggiore 
+                                            
+                                            
+                                                1.103.000 
+                                            
+                                        
+                                        
+                                            
+                                                Capitano 
+                                            
+                                            
+                                                1.088.000 
+                                            
+                                        
+                                        
+                                            
+                                                Tenente 
+                                            
+                                            
+                                                1.051.000 
+                                            
+                                        
+                                        
+                                            
+                                                Sottotenente 
+                                            
+                                            
+                                                1.011.000 
+                                            
+                                        
+                                        
+                                            
+                                                Maresciallo aiutante SUPS e maresciallo aiutante 
+                                            
+                                            
+                                                1.071.000 
+                                            
+                                        
+                                        
+                                            
+                                                Maresciallo capo 
+                                            
+                                            
+                                                1.021.000 
+                                            
+                                        
+                                        
+                                            
+                                                Maresciallo ordinario 
+                                            
+                                            
+                                                985.000 
+                                            
+                                        
+                                        
+                                            
+                                                Maresciallo 
+                                            
+                                            
+                                                942.000 
+                                            
+                                        
+                                        
+                                            
+                                                Brigadiere capo 
+                                            
+                                            
+                                                980.000 
+                                            
+                                        
+                                        
+                                            
+                                                Brigadiere 
+                                            
+                                            
+                                                913.000 
+                                            
+                                        
+                                        
+                                            
+                                                Vice brigadiere 
+                                            
+                                            
+                                                908.000 
+                                            
+                                        
+                                        
+                                            
+                                                Appuntato scelto 
+                                            
+                                            
+                                                805.000 
+                                            
+                                        
+                                        
+                                            
+                                                Appuntato 
+                                            
+                                            
+                                                725.000 
+                                            
+                                        
+                                        
+                                            
+                                                Carabiniere scelto e finanziere scelto 
+                                            
+                                            
+                                                660.000 
+                                            
+                                        
+                                        
+                                            
+                                                Carabiniere e finanziere 
+                                            
+                                            
+                                                604.000 
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                            
+                                b)
+                                
+                                    dal 1° ottobre 1999 
+ 
+ 
+ 
+                                    
+                                        
+                                            
+                                                Gradi 
+                                            
+                                            
+                                                Lire 
+                                            
+                                        
+                                        
+                                            
+                                                Tenente colonnello 
+                                            
+                                            
+                                                1.145.000 
+                                            
+                                        
+                                        
+                                            
+                                                Maggiore 
+                                            
+                                            
+                                                1.120.000 
+                                            
+                                        
+                                        
+                                            
+                                                Capitano 
+                                            
+                                            
+                                                1.104.000 
+                                            
+                                        
+                                        
+                                            
+                                                Tenente 
+                                            
+                                            
+                                                1.067.000 
+                                            
+                                        
+                                        
+                                            
+                                                Sottotenente 
+                                            
+                                            
+                                                1.027.000 
+                                            
+                                        
+                                        
+                                            
+                                                Maresciallo aiutante SUPS e maresciallo aiutante 
+                                            
+                                            
+                                                1.087.000 
+                                            
+                                        
+                                        
+                                            
+                                                Maresciallo capo 
+                                            
+                                            
+                                                1.037.000 
+                                            
+                                        
+                                        
+                                            
+                                                Maresciallo ordinario 
+                                            
+                                            
+                                                1.000.000 
+                                            
+                                        
+                                        
+                                            
+                                                Maresciallo 
+                                            
+                                            
+                                                956.000 
+                                            
+                                        
+                                        
+                                            
+                                                Brigadiere capo 
+                                            
+                                            
+                                                995.000 
+                                            
+                                        
+                                        
+                                            
+                                                Brigadiere 
+                                            
+                                            
+                                                927.000 
+                                            
+                                        
+                                        
+                                            
+                                                Vice brigadiere 
+                                            
+                                            
+                                                922.000 
+                                            
+                                        
+                                        
+                                            
+                                                Appuntato scelto 
+                                            
+                                            
+                                                818.000 
+                                            
+                                        
+                                        
+                                            
+                                                Appuntato 
+                                            
+                                            
+                                                736.000 
+                                            
+                                        
+                                        
+                                            
+                                                Carabiniere scelto e finanziere scelto 
+                                            
+                                            
+                                                670.000 
+                                            
+                                        
+                                        
+                                            
+                                                Carabiniere e finanziere 
+                                            
+                                            
+                                                614.000 
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                            
+                                c)
+                                
+                                    dal 31 dicembre 1999 
+ 
+ 
+ 
+                                    
+                                        
+                                            
+                                                Gradi 
+                                            
+                                            
+                                                Lire 
+                                            
+                                        
+                                        
+                                            
+                                                Tenente colonnello 
+                                            
+                                            
+                                                1.162.000 
+                                            
+                                        
+                                        
+                                            
+                                                Maggiore 
+                                            
+                                            
+                                                1.140.000 
+                                            
+                                        
+                                        
+                                            
+                                                Capitano 
+                                            
+                                            
+                                                1.130.000 
+                                            
+                                        
+                                        
+                                            
+                                                Tenente 
+                                            
+                                            
+                                                1.083.000 
+                                            
+                                        
+                                        
+                                            
+                                                Sottotenente 
+                                            
+                                            
+                                                1.043.000 
+                                            
+                                        
+                                        
+                                            
+                                                Maresciallo aiutante SUPS e maresciallo aiutante 
+                                            
+                                            
+                                                1.103.000 
+                                            
+                                        
+                                        
+                                            
+                                                Maresciallo capo 
+                                            
+                                            
+                                                1.053.000 
+                                            
+                                        
+                                        
+                                            
+                                                Maresciallo ordinario 
+                                            
+                                            
+                                                1.015.000 
+                                            
+                                        
+                                        
+                                            
+                                                Maresciallo 
+                                            
+                                            
+                                                976.000 
+                                            
+                                        
+                                        
+                                            
+                                                Brigadiere capo 
+                                            
+                                            
+                                                1.010.000 
+                                            
+                                        
+                                        
+                                            
+                                                Brigadiere 
+                                            
+                                            
+                                                941.000 
+                                            
+                                        
+                                        
+                                            
+                                                Vice brigadiere 
+                                            
+                                            
+                                                936.000 
+                                            
+                                        
+                                        
+                                            
+                                                Appuntato scelto 
+                                            
+                                            
+                                                829.000 
+                                            
+                                        
+                                        
+                                            
+                                                Appuntato 
+                                            
+                                            
+                                                747.000 
+                                            
+                                        
+                                        
+                                            
+                                                Carabiniere scelto e finanziere scelto 
+                                            
+                                            
+                                                680.000 
+                                            
+                                        
+                                    
+                                    
+
+ 
+(2) ((3A))
 
 Dal 1° settembre 1998 e' soppresso il comma 4 dell'articolo 37 del decreto del Presidente della Repubblica 31 luglio 1995, n. 395.
 
@@ -4057,6 +5305,91 @@ Al personale dell'Arma dei carabinieri e del Corpo della guardia di finanza, si 
 
 ## Art. 53. — (Efficienza dei servizi istituzionali)
 
+1.
+                        
+                            
+                                Per ogni Forza di polizia ad ordinamento militare sono finalizzate al raggiungimento di qualificati obiettivi ed a promuovere reali e significativi miglioramenti dell'efficienza dei servizi istituzionali da ogni singola Amministrazione, nell'ambito delle rispettive quote di competenza, le risorse derivanti da: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la relativa quota di pertinenza dello stanziamento dello 0,8 per cento di cui all'articolo 2, comma 10, della legge 23 dicembre 1998, n.449; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    i risparmi di spesa e di gestione nelle misure e limiti previsti dall'articolo 43, comma 7, della legge 27 dicembre 1997, n. 449; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    specifiche disposizioni normative che destinano risparmi per promuovere miglioramenti nell'efficienza dei servizi; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    gli importi derivanti dalla riduzione, pari all'1% per il 1999, al 2% per il 2000 e al 3% per il 2001, degli stanziamenti relativi ai compensi per lavoro straordinario previsti negli appositi capitoli di bilancio; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    gli importi pro-quota, di cui al comma 2 dell'articolo 49.
+
+2.
+                        
+                            
+                                Le risorse indicate al comma 1 sono utilizzate per attribuire compensi finalizzati a: 
+ 
+                            
+                            
+                                a)
+                                
+                                    fronteggiare particolari situazioni di servizio; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    incentivare l'impegno del personale nelle attivita' operative e di funzionamento individuate dal Comandante generale dell'Arma dei carabinieri e dal Comandante generale del Corpo della guardia di finanza; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    compensare l'impiego in compiti od incarichi che comportino l'assunzione di specifiche responsabilita' o disagio; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    compensare la presenza qualificata; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    compensare l'incentivazione della produttivita' collettiva al fine del miglioramento dei servizi. 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    provvedimenti che dispongono stanziamenti in relazione a quanto previsto dall'articolo 19, comma 1, della legge 4 novembre 2010, n. 183, limitatamente alla quota destinata alle finalita' di cui al presente comma.
+
 Con distinti decreti del Ministro della difesa e del Ministro delle finanze, su proposta dei rispettivi Comandanti Generali, previa informazione alle rappresentanze militari centrali, ai sensi dell'articolo 59, sono annualmente determinati i criteri per la destinazione, l'utilizzazione delle risorse indicate al comma 1, disponibili al 31 dicembre di ciascun anno e le modalita' applicative concernenti l'attribuzione dei compensi previsti dal presente articolo.
 
 Le risorse di cui al comma 1 non possono comportare una distribuzione indistinta e generalizzata.(3)
@@ -4210,6 +5543,31 @@ All'articolo 55 del decreto del Presidente della Repubblica 395 del 1995 sono ag
 
 ## Art. 59. — ((Procedure di informazione, pareri e rapporti con le Amministrazioni))
 
+1.
+                        
+                            
+                                Le Amministrazioni informano preventivamente i COCER in ordine: 
+ 
+                            
+                            
+                                a)
+                                
+                                    alle emanande disposizioni applicative che si riferiscono alle materie oggetto di concertazione ai sensi del decreto legislativo 12 maggio 1995, n. 195; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    ai criteri per la destinazione, l'utilizzazione e modalita' di attribuzione delle risorse aggiuntive di cui all'articolo 53 da parte delle Amministrazioni; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    alle modalita' attuative della disciplina del riposo compensativo.
+
 I COCER formulano per iscritto pareri preliminari e proposte sulle disposizioni applicative riguardanti le materie ed i criteri di cui al comma 1, lettera a), b) e c) entro ((30)) giorni dalla data di ricezione della comunicazione.
 
 Ai fini del comma 2 i COCER possono richiedere riunioni informative preliminari, anche di carattere tecnico, che hanno inizio entro 48 ore dalla data di ricezione della comunicazione e si concludono nel termine di 25 giorni, ovvero entro un termine piu' breve per motivi di urgenza.
@@ -4277,6 +5635,31 @@ Sulle procedure e sui tempi di attuazione delle stabili modifiche degli assetti 
 L'Indennita' prevista dall'articolo 1, comma 1, del decreto del Presidente della Repubblica 11 ottobre 1988 - registrato dalla Corte dei conti in data 12 dicembre 1988, Reg. n. 59/Finanze, foglio n. 173- al punto b) dell'annessa tabella A, compete, nella misura del 50%, al personale delle Forze di Polizia effettivamente impiegato in modo esclusivo nei comandi e reparti logistico- addestrativi a supporto del dispositivo navale, con le modalita' previste per il personale imbarcato.
 
 ## Art. 67. — (Trattamento di fine rapporto e previdenza complementare)
+
+1.
+                        
+                            
+                                Le procedure di negoziazione e di concertazione attivate, per la prima applicazione, ai sensi del citato articolo 26, comma 20, della legge n. 448 del 1998, provvedono a definire:
+ 
+                            
+                            
+                                a)
+                                
+                                    la costituzione di uno o piu' fondi nazionali pensione complementare per il personale delle forze armate e delle Forze di polizia ad ordinamento civile e militare, ai sensi del decreto legislativo, n. 124 del 1993, della legge n. 335 del 1995, della legge n. 449 del 1997, e successive modificazioni ed integrazioni, anche verificando la possibilita' di unificarlo con analoghi fondi istituiti ai sensi delle normative richiamate per i lavoratori del pubblico impiego;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la misura percentuale della quota di contribuzione a carico delle Amministrazioni e di quella dovuta dal lavoratore, nonche' la retribuzione utile alla determinazione delle quote stesse;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    le modalita' di trasformazione della buonuscita in trattamento di fine rapporto, le voci retributive utili per gli accantonamenti del trattamento di fine rapporto, nonche' la quota di trattamento di fine rapporto da destinare a previdenza complementare.
 
 Destinatari dei fondi pensione di cui al comma 1 e' il personale che liberamente aderisce ai fondi stessi.
 

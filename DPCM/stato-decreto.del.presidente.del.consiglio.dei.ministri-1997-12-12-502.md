@@ -8,8 +8,8 @@ codice_redazionale: 098G0033
 vigente: true
 source: normattiva-opendata
 collection: DPCM
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:40:13Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DEL CONSIGLIO DEI MINISTRI
@@ -48,6 +48,59 @@ La commissione formula i propri giudizi entro tre mesi dalla scadenza del termin
 ## Art. 4. — Valutazione del colloquio e dei titoli
 
 Il giudizio di idoneita' e' formulato a seguito della valutazione dei titoli di carriera, dei titoli di studio, della anzianita' di servizio, del curriculum formativo e del superamento di un colloquio che, oltre ai contenuti di conoscenza della organizzazione del Servizio sanitario nazionale abbia anche chiari contenuti professionali finalizzati ad accertare il livello di professionalita' dell'interessato.
+
+2.
+                    
+                        
+                            L'idoneita' e' conseguita dagli interessati che superino il colloquio con un punteggio non inferiore a ventuno trentesimi e conseguano un punteggio non inferiore a punti 6,6 relativo ai seguenti titoli:
+ 
+                        
+                        
+                            a)
+                            
+                                orario di incarico nel rapporto convenzionale, ovvero, se ricorre il caso, orario di incarico complessivo nei due rapporti convenzionali di cui ai decreti del Presidente della Repubblica n. 41/1991 e n. 218/1992, per un numero di ore settimanali fino ad un massimo di 38: punti 0,10 per ora;
+
+                            
+                        
+                        
+                            b)
+                            
+                                anzianita' di incarico per i primi cinque anni di attivita': punti 0,10 per mese;
+
+                            
+                        
+                        
+                            c)
+                            
+                                anzianita' di incarico per ciascun anno, o frazione superiore a sei mesi, oltre il quinto anno: punti 0,50;
+
+                            
+                        
+                        
+                            d)
+                            
+                                specializzazione: punti 0,50 per ciascuna specializzazione;
+
+                            
+                        
+                        
+                            e)
+                            
+                                altre lauree, oltre a quella richiesta per l'ammissione al giudizio di idoneita' comprese tra quelle previste per l'appartenenza al ruolo sanitario: punti 0,10 per ognuna fino ad un massimo di punti 0,30;
+
+                            
+                        
+                        
+                            f)
+                            
+                                pubblicazioni e titoli scientifici: fino ad un massimo di punti 3,00;
+
+                            
+                        
+                        
+                            g)
+                            
+                                curriculum formativo: fino ad un massimo di punti 3,00.
 
 Per le valutazioni dei titoli di cui alle lettere f) e g) si applicano i criteri di cui all'articolo 10 del decreto del Ministro della sanita' 30 gennaio 1982 pubblicato nel supplemento ordinario alla Gazzetta Ufficiale n. 51 del 22 febbraio 1982.
 

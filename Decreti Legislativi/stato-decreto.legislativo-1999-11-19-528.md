@@ -8,8 +8,8 @@ codice_redazionale: 000G0026
 vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:21Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -31,13 +31,135 @@ All'articolo 1, comma 3, del decreto legislativo 14 agosto 1996, n. 494, sono ag
 
 ## Art. 2.
 
+1.
+                    
+                        
+                            All'articolo 2, comma 1, del decreto legislativo n. 494 del 1996, sono apportate le seguenti modifiche:
+ 
+                        
+                        
+                            a)
+                            
+                                la lettera a) e' sostituita dalla seguente:
+ "a) cantiere temporaneo o mobile, in appresso denominato "cantiere : qualunque luogo in cui si effettuano lavori edili o di ingegneria civile il cui elenco e' riportato all'allegato I;";
+ b) alla lettera b), e' aggiunto, in fine, il seguente periodo: "Nel caso di appalto di opera pubblica, il committente e' il soggetto titolare del potere decisionale e di spesa relativo alla gestione dell'appalto;";
+ c) la lettera c) e' sostituita dalla seguente:
+ "c) responsabile dei lavori: soggetto che puo' essere incaricato dal committente ai fini della progettazione o della esecuzione o del controllo dell'esecuzione dell'opera. Nel caso di appalto di opera pubblica, il responsabile dei lavori e' il responsabile unico del procedimento ai sensi dell'articolo 7 della legge 11 febbraio 1994, n. 109, e successive modifiche;";
+ d) la lettera f) e' sostituita dalla seguente:
+ "f) coordinatore in materia di sicurezza e di salute durante la realizzazione dell'opera, di seguito denominato coordinatore per l'esecuzione dei lavori: soggetto, diverso dal datore di lavoro dell'impresa esecutrice, incaricato, dal committente o dal responsabile dei lavori, dell'esecuzione dei compiti di cui all'articolo 5.";
+ e) dopo la lettera f), sono aggiunte le seguenti:
+ "f-bis) uomini-giorno: entita' presunta del cantiere rappresentata dalla somma delle giornate lavorative prestate dai lavoratori, anche autonomi, previste per la realizzazione dell'opera;
+ f-ter) piano operativo di sicurezza: il documento che il datore di lavoro dell'impresa esecutrice redige, in riferimento al singolo cantiere interessato, ai sensi dell'articolo 4 del decreto legislativo 19 settembre 1994, n. 626 e successive modifiche.".
+
 ## Art. 3.
 
+1.
+                    
+                        
+                            All'articolo 3 del decreto legislativo n. 494 del 1996, sono apportate le seguenti modifiche:
+ 
+                        
+                        
+                            a)
+                            
+                                il comma 1 e' sostituito dal seguente:
+ "1. Il committente o il responsabile dei lavori, nella fase di progettazione dell'opera, ed in particolare al momento delle scelte tecniche, nell'esecuzione del progetto e nell'organizzazione delle operazioni di cantiere, si attiene ai principi e alle misure generali di tutela di cui all'articolo 3 del decreto legislativo n. 626 del 1994. Al fine di permettere la pianificazione dell'esecuzione in condizioni di sicurezza dei lavori o delle fasi di lavoro che si devono svolgere simultaneamente o successivamente tra loro, il committente o il responsabile dei lavori prevede nel progetto la durata di tali lavori o fasi di lavoro.";
+
+                            
+                        
+                        
+                            b)
+                            
+                                il comma 2 e' sostituito dal seguente:
+ "2. Il committente o il responsabile dei lavori, nella fase della progettazione dell'opera, valuta i documenti di cui all'articolo 4, comma 1, lettere a) e b).";
+
+                            
+                        
+                        
+                            c)
+                            
+                                il comma 3 e' sostituito dal seguente:
+ "3. Nei cantieri in cui e' prevista la presenza di piu' imprese, anche non contemporanea, il committente o il responsabile dei lavori, contestualmente all'affidamento dell'incarico di progettazione, designa il coordinatore per la progettazione in ognuno dei seguenti casi:
+ a) nei cantieri la cui entita' presunta e' pari o superiore a 200 uomini-giorno;
+ b) nei cantieri i cui lavori comportano i rischi particolari elencati nell'allegato II.";
+
+                            
+                        
+                        
+                            d)
+                            
+                                il comma 4 e' sostituito dal seguente:
+ "4. Nei casi di cui al comma 3, il committente o il responsabile dei lavori, prima dell'affidamento dei lavori, designa il coordinatore per l'esecuzione dei lavori, che deve essere in possesso dei requisiti di cui all'articolo 10.";
+
+                            
+                        
+                        
+                            e)
+                            
+                                dopo il comma 4, e' aggiunto il seguente:
+ "4-bis. La disposizione di cui al comma 4 si applica anche caso in cui, dopo l'affidamento dei lavori a un'unica impresa, l'esecuzione dei lavori o di parte di essi sia affidata a una o piu' imprese.";
+
+                            
+                        
+                        
+                            f)
+                            
+                                il comma 8 e' sostituito dal seguente:
+ "8. Il committente o il responsabile dei lavori, anche nel caso di affidamento dei lavori ad un'unica impresa:
+ a) verifica l'idoneita' tecnico-professionale delle imprese esecutrici e dei lavoratori autonomi in relazione ai lavori da affidare, anche attraverso l'iscrizione alla camera di commercio, industria e artigianato;
+ b) chiede alle imprese esecutrici una dichiarazione dell'organico medio annuo, distinto per qualifica, corredata dagli estremi delle denunce dei lavoratori effettuate all'Istituto nazionale della previdenza sociale (INPS), all'Istituto nazionale assicurazione infortuni sul lavoro (INAIL) e alle casse edili, nonche' una dichiarazione relativa al contratto collettivo stipulato dalle organizzazioni sindacali comparativamente piu' rappresentative, applicato ai lavoratori dipendenti.".
+
 ## Art. 4.
+
+1.
+                    
+                        
+                            All'articolo 4 del decreto legislativo n. 494 del 1996 sono apportate le seguenti modifiche:
+ 
+                        
+                        
+                            a)
+                            
+                                il comma 1 e' sostituito dal seguente:
+ "1. Durante la progettazione dell'opera e comunque prima della richiesta di presentazione delle offerte, il coordinatore per la progettazione:
+ a) redige il piano di sicurezza e di coordinamento di cui all'articolo 12, comma 1;
+ b) predispone un fascicolo contenente le informazioni utili ai fini della prevenzione e della protezione dai rischi cui sono esposti i lavoratori, tenendo conto delle specifiche norme di buona tecnica e dell'allegato II al documento UE 26/05/93. Il fascicolo non e' predisposto nel caso di lavori di manutenzione ordinaria di cui all'articolo 31, lettera a), della legge 5 agosto 1978, n. 457.";
+
+                            
+                        
+                        
+                            b)
+                            
+                                il comma 3 e' sostituito dal seguente:
+ "3. Con decreto del Ministro del lavoro e della previdenza sociale, di concerto con i Ministri dell'industria, del commercio e dell'artigianato, della sanita' e dei lavori pubblici, sentita la commissione consultiva permanente per la prevenzione degli infortuni e per l'igiene del lavoro di cui all'articolo 393 del decreto del Presidente della Repubblica 27 aprile 1955, n. 547, come sostituito e modificato dal decreto legislativo n. 626 del 1994, in seguito denominata "commissione prevenzione infortuni", sono definiti i contenuti del fascicolo di cui al comma 1, lettera b).".
 
 Il decreto di cui all'articolo 4, comma 3, del decreto legislativo n. 494 del 1996, e' adottato entro il termine di sei mesi dalla data di entrata in vigore del presente decreto.
 
 ## Art. 5.
+
+1.
+                    
+                        
+                            All'articolo 5 del decreto legislativo n. 494 del 1996, sono apportate le seguenti modifiche:
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 1:
+ 1) la lettera a) e' sostituita dalla seguente:
+ "a) verificare, con opportune azioni di coordinamento e controllo, l'applicazione, da parte delle imprese esecutrici e dei lavoratori autonomi, delle disposizioni loro pertinenti contenute nel piano di sicurezza e di coordinamento di cui all'articolo 12 e la corretta applicazione delle relative procedure di lavoro;";
+ 2) la lettera b) e' sostituita dalla seguente:
+ "b) verificare l'idoneita' del piano operativo di sicurezza, da considerare come piano complementare di dettaglio del piano di sicurezza e coordinamento di cui all'articolo 12, assicurandone la coerenza con quest'ultimo, e adeguare il piano di sicurezza e coordinamento e il fascicolo di cui all'articolo 4, comma 1, lettera b), in relazione all'evoluzione dei lavori ed alle eventuali modifiche intervenute, valutando le proposte delle imprese esecutrici dirette a migliorare la sicurezza in cantiere, nonche' verificare che le imprese esecutrici adeguino, se necessario, i rispettivi piani operativi di sicurezza;";
+ 3) la lettera d) e' sostituita dalla seguente:
+ "d) verificare l'attuazione di quanto previsto negli accordi tra le parti sociali al fine di realizzare il coordinamento tra i rappresentanti della sicurezza finalizzato al miglioramento della sicurezza in cantiere;";
+ 4) la lettera e) e' sostituita dalla seguente:
+ "e) segnalare al committente o al responsabile dei lavori, previa contestazione scritta alle imprese e ai lavoratori autonomi interessati, le inosservanze alle disposizioni degli articoli 7, 8 e 9, e alle prescrizioni del piano di cui all'articolo 12 e proporre la sospensione dei lavori, l'allontanamento delle imprese o dei lavoratori autonomi dal cantiere, o la risoluzione del contratto. Nel caso in cui il committente o il responsabile dei lavori non adotti alcun provvedimento in merito alla segnalazione, senza fornire idonea motivazione, il coordinatore per l'esecuzione provvede a dare comunicazione dell'inadempienza alla azienda unita' sanitaria locale territorialmente competente e alla direzione provinciale del lavoro;";
+ 5) la lettera f) e' sostituita dalla seguente:
+ f) sospendere in caso di pericolo grave e imminente, direttamente riscontrato, le singole lavorazioni fino alla verifica degli avvenuti adeguamenti effettuati dalle imprese interessate.";
+ b) dopo il comma 1, e' aggiunto il seguente:
+ "1-bis. Nei casi di cui all'articolo 3, comma 4-bis, il coordinatore per l'esecuzione, oltre a svolgere i compiti di cui al comma 1, redige il piano di sicurezza e di coordinamento e predispone il fascicolo, di cui all'articolo 4, comma 1, lettere a) e b).";
+ c) i commi 2 e 3 sono soppressi.
 
 ## Art. 6.
 
@@ -52,7 +174,63 @@ All'articolo 8, comma 1, del decreto legislativo n. 494 del 1996 l'alinea e' sos
 
 ## Art. 8.
 
+1.
+                    
+                        
+                            All'articolo 9 del decreto legislativo n. 494 del 1996 sono apportate le seguenti modifiche:
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 1, l'alinea e' sostituito dal seguente:
+ "1. I datori di lavoro delle imprese esecutrici, anche nel caso in cui nel cantiere operi una unica impresa, anche familiare o con meno di dieci addetti:";
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 1, dopo la lettera c) e' aggiunta la seguente;
+ "c-bis) redigono il piano operativo di sicurezza di cui all'articolo 2, comma 1, lettera f-ter);";
+
+                            
+                        
+                        
+                            c)
+                            
+                                il comma 2 e' sostituito dal seguente:
+ "2. L'accettazione da parte di ciascun datore di lavoro delle imprese esecutrici del piano di sicurezza e di coordinamento di cui all'articolo 12 e la redazione del piano operativo di sicurezza costituiscono, limitatamente al singolo cantiere interessato, adempimento alle disposizioni di cui all'articolo 4, commi 1, 2 e 7, e all'articolo 7, comma 1, lettera b), del decreto legislativo n. 626 del 1994.".
+
 ## Art. 9.
+
+1.
+                    
+                        
+                            All'articolo 10 del decreto legislativo n. 494 del 1996 sono apportate le seguenti modifiche:
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 1, la lettera a) e' sostituita dalla seguente:
+ "a) diploma di laurea in ingegneria, architettura, geologia, scienze agrarie o scienze forestali, nonche' attestazione da parte di datori di lavoro o committenti comprovante l'espletamento di attivita' lavorativa nel settore delle costruzioni per almeno un anno;";
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 1, la lettera c) e' sostituita dalla seguente:
+ "c) diploma di geometra o perito industriale o perito agrario o agrotecnico nonche' attestazione da parte di datori di lavoro o committenti comprovante l'espletamento di attivita' lavorativa nel settore delle costruzioni per almeno tre anni.";
+
+                            
+                        
+                        
+                            c)
+                            
+                                il comma 2 e' sostituito dal seguente:
+ "2. I soggetti di cui al comma 1, devono essere, altresi', in possesso di attestato di frequenza a specifico corso in materia di sicurezza organizzato dalle regioni, mediante le strutture tecniche operanti nel settore della prevenzione e della formazione professionale, o, in via alternativa, dall'ISPESL, dall'INAIL, dall'Istituto italiano di medicina sociale, dai rispettivi ordini o collegi professionali, dalle universita', dalle associazioni sindacali dei datori di lavoro e dei lavoratori o dagli organismi paritetici istituiti nel settore dell'edilizia.".
 
 ## Art. 10.
 
@@ -99,12 +277,51 @@ L'articolo 13 del decreto legislativo n. 494 del 1996 e' sostituito dal seguente
 
 ## Art. 13.
 
+1.
+                    
+                        
+                            All'articolo 14 del decreto legislativo n. 494 del 1996 sono apportate le seguenti modifiche:
+ 
+                        
+                        
+                            a)
+                            
+                                il comma 1 e' sostituito dal seguente:
+ "1. Prima dell'accettazione del piano di sicurezza e di coordinamento di cui all'articolo 12 e delle modifiche significative apportate allo stesso, il datore di lavoro di ciascuna impresa esecutrice consulta il rappresentante per la sicurezza e gli fornisce eventuali chiarimenti sul contenuto del piano. Il rappresentante per la sicurezza puo' formulare proposte al riguardo.";
+
+                            
+                        
+                        
+                            b)
+                            
+                                il comma 2 e' soppresso.
+
 ## Art. 14.
 
 All'articolo 16 del decreto legislativo n. 494 del 1996, il comma 2 e' sostituito dal seguente:
  "2. Sul rapporto di valutazione di cui all'articolo 40 del decreto legislativo 15 agosto 1991, n. 277, va riportata la fonte documentale cui si e' fatto riferimento.".
 
 ## Art. 15.
+
+1.
+                    
+                        
+                            All'articolo 17 del decreto legislativo n. 494 del 1996, sono apportate le seguenti modifiche:
+ 
+                        
+                        
+                            a)
+                            
+                                il comma 1 e' sostituito dal seguente:
+ "1. Nei cantieri la cui durata presunta dei lavori e' inferiore ai 200 giorni lavorativi, l'adempimento di quanto previsto dall'articolo 14 costituisce assolvimento dell'obbligo di riunione di cui all'articolo 11 del decreto legislativo n. 626 del 1994, salvo motivata richiesta del rappresentante per la sicurezza.";
+
+                            
+                        
+                        
+                            b)
+                            
+                                il comma 2 e' sostituito dal seguente:
+ "2. Nei cantieri la cui durata presunta dei lavori e' inferiore ai 200 giorni lavorativi, e ove sia prevista la sorveglianza sanitaria di cui al titolo I, capo IV, del decreto legislativo n. 626 del 1994, la visita del medico competente agli ambienti di lavoro in cantieri aventi caratteristiche analoghe a quelli gia' visitati dallo stesso medico competente e gestiti dalle stesse imprese, puo' essere sostituita o integrata, a giudizio del medico competente, con l'esame di piani di sicurezza relativi ai cantieri in cui svolgono la loro attivita' i lavoratori soggetti alla sua sorveglianza.".
 
 ## Art. 16.
 
@@ -154,6 +371,24 @@ I contenuti minimi del piano di sicurezza e di coordinamento di cui all'articolo
 
 ## Art. 23.
 
+1.
+                    
+                        
+                            Con uno o piu' decreti del Ministro del lavoro e della previdenza sociale, di concerto con i Ministri della sanita' e dei lavori pubblici, sentita la Commissione consultiva permanente per la prevenzione degli infortuni e l'igiene del lavoro di cui all'articolo 26 del decreto legislativo n. 626 del 1994, e d'intesa con la Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome di Trento e di Bolzano, da adottarsi entro sei mesi dalla data di entrata in vigore del presente decreto, sono modificati i contenuti dell'allegato V del decreto legislativo n. 494 del 1996 e sono definiti:
+ 
+                        
+                        
+                            a)
+                            
+                                i lavori edili o di ingegneria civile al coordinamento dei quali sono abilitati i soggetti di cui all'articolo 10, comma 1, del decreto legislativo n. 494 del 1996, come modificato dal presente decreto, in relazione alle specifiche competenze connesse al titolo di studio;
+
+                            
+                        
+                        
+                            b)
+                            
+                                i livelli di formazione e qualificazione dei coordinatori per la progettazione e per l'esecuzione di cui al decreto legislativo n. 494 del 1996, in relazione alla tipologia dei lavori da svolgere nel cantiere. Sono validi i corsi di formazione completati entro la data di entrata in vigore del decreto di cui al presente articolo.
+
 ## Art. 24.
 
 L'articolo 15 del decreto legislativo n. 494 del 1996 e' abrogato.
@@ -163,6 +398,24 @@ L'articolo 15 del decreto legislativo n. 494 del 1996 e' abrogato.
 Salvo quanto previsto al comma 2, le disposizioni del presente decreto trovano applicazione nei casi in cui alla data di entrata in vigore del presente decreto non si sia conclusa la fase di progettazione.
 
 Nelle ipotesi in cui l'incarico di progettazione esecutiva sia stato affidato prima del 24 marzo 1997 e sia stata conclusa la fase di progettazione alla data di entrata in vigore del presente decreto, si applica la normativa vigente al momento dell'affidamento dell'incarico.
+
+3.
+                    
+                        
+                            Ai fini delle disposizioni di cui ai commi 1 e 2 la fase di progettazione si intende conclusa:
+ 
+                        
+                        
+                            a)
+                            
+                                nel caso di appalti pubblici, con l'approvazione del progetto esecutivo;
+
+                            
+                        
+                        
+                            b)
+                            
+                                in tutti gli altri casi, con la presentazione, alle autorita' competenti per il controllo dei lavori edili o di ingegneria civile, delle prescritte istanze per l'esecuzione dei lavori; nel caso di lavori di manutenzione, alla data dell'atto di affidamento dei lavori stessi.
 
 ## Art. 26.
 

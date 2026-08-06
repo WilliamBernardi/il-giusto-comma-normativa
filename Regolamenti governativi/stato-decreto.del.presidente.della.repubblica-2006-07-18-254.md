@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Regolamenti governativi
 vigenza_date: 2009-04-17
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:16Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -23,6 +23,52 @@ Entrata in vigore del decreto: 1-1-2007
 Uditi i pareri del Consiglio di Stato, espressi dalla sezione consultiva per gli atti normativi nelle Adunanze del 19 dicembre 2005 e del 27 febbraio 2006;
 
 ## Art. 1. — Definizioni
+
+1.
+                    
+                        
+                            Ai fini del presente regolamento si intende per:
+ 
+                        
+                        
+                            a)
+                            
+                                «codice»: il codice delle assicurazioni private di cui al decreto legislativo 7 settembre 2005, n. 209;
+
+                            
+                        
+                        
+                            b)
+                            
+                                «Isvap»: l'Istituto per la vigilanza sulle assicurazioni private e di interesse collettivo;
+
+                            
+                        
+                        
+                            c)
+                            
+                                «impresa»: la societa' autorizzata ad esercitare nel territorio della Repubblica l'assicurazione obbligatoria per la responsabilita' civile autoveicoli;
+
+                            
+                        
+                        
+                            d)
+                            
+                                «sinistro»: la collisione avvenuta nel territorio della Repubblica tra due veicoli a motore identificati e assicurati per la responsabilita' civile obbligatoria dalla quale siano derivati danni ai veicoli o lesioni di lieve entita' ai loro conducenti, senza coinvolgimento di altri veicoli responsabili;
+
+                            
+                        
+                        
+                            e)
+                            
+                                «danneggiato»: il proprietario o il conducente del veicolo che abbia subito danni a seguito del sinistro;
+
+                            
+                        
+                        
+                            f)
+                            
+                                «lesioni»: le lesioni di lieve entita' definite all'articolo 139 del codice.
 
 Restano ferme, inoltre, le definizioni contenute nell'articolo 1 del codice.
 
@@ -38,6 +84,24 @@ Qualora i terzi trasportati subiscano lesioni, la relativa richiesta del risarci
 
 ## Art. 4. — Veicoli immatricolati all'estero
 
+1.
+                    
+                        
+                            La disciplina del risarcimento diretto si applica ai sinistri che coinvolgono:
+ 
+                        
+                        
+                            a)
+                            
+                                veicoli immatricolati in Italia;
+
+                            
+                        
+                        
+                            b)
+                            
+                                veicoli immatricolati nella Repubblica di San Marino e nello Stato Citta' del Vaticano, se assicurati con imprese con sede legale nello Stato italiano o con imprese che esercitino l'assicurazione obbligatoria responsabilita' civile auto ai sensi degli articoli 23 e 24 del codice e che abbiano aderito al sistema del risarcimento diretto.
+
 ## Art. 5. — Modalita' della richiesta di risarcimento
 
 Il danneggiato che si ritiene non responsabile, in tutto o in parte, del sinistro rivolge la richiesta di risarcimento all'impresa che ha stipulato il contratto relativo al veicolo utilizzato.
@@ -48,6 +112,98 @@ L'impresa che ha ricevuto la richiesta ne da' immediata comunicazione all'impres
 
 ## Art. 6. — Contenuto della richiesta
 
+1.
+                    
+                        
+                            Nell'ipotesi di danni al veicolo e alle cose, la richiesta di risarcimento contiene i seguenti elementi:
+ 
+                        
+                        
+                            a)
+                            
+                                i nomi degli assicurati;
+
+                            
+                        
+                        
+                            b)
+                            
+                                le targhe dei due veicoli coinvolti;
+
+                            
+                        
+                        
+                            c)
+                            
+                                la denominazione delle rispettive imprese;
+
+                            
+                        
+                        
+                            d)
+                            
+                                la descrizione delle circostanze e delle modalita' del sinistro;
+
+                            
+                        
+                        
+                            e)
+                            
+                                le generalita' di eventuali testimoni;
+
+                            
+                        
+                        
+                            f)
+                            
+                                l'indicazione dell'eventuale intervento degli Organi di polizia;
+
+                            
+                        
+                        
+                            g)
+                            
+                                il luogo, i giorni e le ore in cui le cose danneggiate sono disponibili per la perizia diretta ad accertare l'entita' del danno.
+
+2.
+                    
+                        
+                            Nell'ipotesi di lesioni subite dai conducenti, la richiesta indica, inoltre:
+ 
+                        
+                        
+                            a)
+                            
+                                l'eta', l'attivita' e il reddito del danneggiato;
+
+                            
+                        
+                        
+                            b)
+                            
+                                l'entita' delle lesioni subite;
+
+                            
+                        
+                        
+                            c)
+                            
+                                la dichiarazione di cui all'articolo 142 del codice circa la spettanza o meno di prestazioni da parte di istituti che gestiscono assicurazioni sociali obbligatorie;
+
+                            
+                        
+                        
+                            d)
+                            
+                                l'attestazione medica comprovante l'avvenuta guarigione, con o senza postumi permanenti;
+
+                            
+                        
+                        
+                            e)
+                            
+                                l'eventuale consulenza medico-legale di parte, corredata dall'indicazione del compenso spettante al professionista.
+
 ## Art. 7. — Integrazione e regolarizzazione della richiesta
 
 In caso di richiesta incompleta, l'impresa, entro trenta giorni dalla ricezione, offrendo l'assistenza tecnica e informativa prevista dall'articolo 9, invita il danneggiato a fornire le integrazioni e i chiarimenti necessari per la regolarizzazione della richiesta.
@@ -55,6 +211,49 @@ In caso di richiesta incompleta, l'impresa, entro trenta giorni dalla ricezione,
 Nell'ipotesi di cui al comma 1, i termini per la formulazione dell'offerta o per la comunicazione della mancata offerta sono sospesi fino alla data di ricezione delle integrazioni e dei chiarimenti richiesti.
 
 ## Art. 8. — Determinazioni dell'impresa
+
+1.
+                    
+                        
+                            Con apposita comunicazione inviata al danneggiato, l'impresa indica, alternativamente:
+ 
+                        
+                        
+                            a)
+                            
+                                una congrua offerta di risarcimento del danno, eventualmente in forma specifica, se previsto dal contratto;
+
+                            
+                        
+                        
+                            b)
+                            
+                                gli specifici motivi che impediscono di formulare l'offerta di risarcimento del danno.
+
+2.
+                    
+                        
+                            La comunicazione di cui al comma 1 e' inviata entro i seguenti termini:
+ 
+                        
+                        
+                            a)
+                            
+                                novanta giorni, nel caso di lesioni;
+
+                            
+                        
+                        
+                            b)
+                            
+                                sessanta giorni, nel caso di danni riguardanti solo i veicoli o le cose;
+
+                            
+                        
+                        
+                            c)
+                            
+                                trenta giorni, nel caso di danni ai veicoli o alle cose, qualora il modulo di denuncia del sinistro sia sottoscritto da entrambi i conducenti coinvolti nel sinistro.
 
 ## Art. 9. — Assistenza tecnica e informativa ai danneggiati
 
@@ -93,6 +292,40 @@ Le differenziazioni delle compensazioni da applicare ai sensi del comma 2 sono s
 ))
 
 L'attivita' della stanza di compensazione deve svolgersi in regime di completa autonomia rispetto alle imprese di assicurazione ed ai loro organismi associativi.
+
+4.
+                    
+                        
+                            I valori dei costi medi e delle eventuali franchigie di cui al comma 2 vengono calcolati annualmente sulla base dei risarcimenti effettivamente corrisposti nell'esercizio precedente per i sinistri rientranti nell'ambito di applicazione del sistema di risarcimento diretto. Per il calcolo annuale dei valori da assumere ai fini delle compensazioni, sulla base dei dati forniti dalla stanza di compensazione di cui al comma 2, e' istituito presso il Ministero dello sviluppo economico un Comitato tecnico composto dai seguenti componenti: 
+                        
+                        
+                            a)
+                            
+                                un rappresentante del Ministero dello sviluppo economico, con funzioni di Presidente;
+                            
+                        
+                        
+                            b)
+                            
+                                un rappresentante dell'ISVAP;
+                            
+                        
+                        
+                            c)
+                            
+                                un rappresentante dell'Associazione nazionale fra le imprese assicuratrici;
+                            
+                        
+                        
+                            d)
+                            
+                                un esperto in scienze statistiche ed attuariali;
+                            
+                        
+                        
+                            e)
+                            
+                                due rappresentanti del Consiglio nazionale dei consumatori e degli utenti. L'esperto di cui alla lettera d) non deve avere svolto, nei due anni precedenti la nomina, incarichi presso imprese di assicurazione.
 
 Per il primo anno di applicazione del sistema di risarcimento diretto, il Comitato tecnico calcola i valori di cui al comma 4 sulla base di statistiche di mercato.
 

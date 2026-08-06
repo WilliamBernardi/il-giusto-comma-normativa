@@ -10,7 +10,7 @@ source: normattiva-opendata
 collection: Atti di recepimento direttive UE
 vigenza_date: 2026-01-10
 zip_date: 2026-07-30
-fetched_at: 2026-08-02T09:40:51Z
+fetched_at: 2026-07-30
 ---
 
 DECRETO LEGISLATIVO
@@ -239,6 +239,24 @@ All'articolo 67 del decreto legislativo 6 settembre 2005, n. 206, il comma 6 e' 
  «6. Il contratto di credito collegato ai sensi dell'articolo 121, comma 1, lettera d), del decreto legislativo 1° settembre 1993, n. 385, si intende risolto di diritto, senza alcuna penalita', nel caso in cui il consumatore eserciti il diritto di recesso da un contratto di fornitura di beni o servizi disciplinato dal presente titolo conformemente alle disposizioni di cui alla presente sezione.».
 
 ## Art. 3. — Abrogazioni e termini di attuazione
+
+1.
+                        
+                            
+                                Sono abrogati:
+ 
+                            
+                            
+                                a)
+                                
+                                    gli articoli 40, 41 e 42 del decreto legislativo 6 settembre 2005, n. 206 (Codice del consumo) e conseguentemente, all'articolo 43, comma 1, del medesimo decreto legislativo, la parola "restante" e' soppressa;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'articolo 38, primo, secondo e quarto comma, del testo unico delle leggi concernenti il sequestro, il pignoramento e la cessione degli stipendi, salari e pensioni dei dipendenti dalle pubbliche amministrazioni, di cui al d.P.R. 5 gennaio 1950, n. 180, e conseguentemente, al terzo comma dell' articolo 38 del medesimo decreto le parole: "Nello stesso caso" sono sostituite dalle seguenti "In caso di rimborso anticipato".
 
 Le autorita' creditizie adottano le disposizioni di attuazione del presente titolo entro centoventi giorni dalla data di entrata in vigore del presente decreto.
 
@@ -485,6 +503,56 @@ All'articolo 161 del decreto legislativo 1° settembre 1993, n. 385, dopo il com
 
 ((
 
+1-bis.
+                        
+                            
+                                Sono abrogati:
+ 
+                            
+                            
+                                a)
+                                
+                                    l'articolo 10 del decreto-legge 4 luglio 2006, n. 223, convertito, con modificazioni, dalla legge 4 agosto 2006, n. 248;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    gli articoli 7, 8, commi 1, 2, 3, 3-bis e 4, e 13, commi 8-sexies, 8-septies, 8-octies, 8-novies, 8-decies, 8-undecies, 8-quaterdecies del decreto-legge 31 gennaio 2007, n. 7, convertito, con modificazioni, dalla legge 2 aprile 2007, n. 40;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    l'articolo 2, comma 5-quater, del decreto-legge 29 novembre 2008, n. 185, convertito, con modificazioni, dalla legge 28 gennaio 2009, n. 2;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    l'articolo 2, commi 1 e 3, del decreto-legge 1° luglio 2009, n. 78, convertito, con modificazioni, dalla legge 3 agosto 2009, n. 102.
+
+1-ter.
+                        
+                            
+                                Al decreto-legge 31 gennaio 2007, n. 7, convertito, con modificazioni, dalla legge 2 aprile 2007, n. 40, sono apportate le seguenti modificazioni:
+ 
+                            
+                            
+                                a)
+                                
+                                    all'articolo 8, comma 4-bis, le parole: "al comma 2" sono sostituite dalle seguenti: "ai commi 2 e 3, ultimo periodo, dell'articolo 120-quater del decreto legislativo 1° settembre 1993, n. 385, e successive modificazioni";
+
+                                
+                            
+                            
+                                b)
+                                
+                                    all'articolo 8-bis, comma 1, le parole: "7, 8 e 13, commi da 8-sexies a 8-terdecies" sono soppresse e dopo le parole: "presente decreto" sono aggiunte, in fine, le seguenti: "e agli articoli 40-bis, 120-ter e 120-quater del decreto legislativo 1° settembre 1993, n. 385, e successive modificazioni.".
+
 1-quater. All'articolo 2, comma 5-quinquies, del decreto-legge 29 novembre 2008, n. 185, convertito, con modificazioni, dalla legge 28 gennaio 2009, n. 2, le parole: "ai sensi del comma 5-quater" sono sostituite dalle seguenti: "per le violazioni dell'articolo 120-quater del decreto legislativo 1° settembre 1993, n. 385, e successive modificazioni."))
 
 ((2. Le disposizioni contenute nel titolo II del presente decreto entrano in vigore il centoventesimo giorno successivo alla sua pubblicazione. Le disposizioni che a tale data risultano adottate dalle Autorita' creditizie in base a norme modificate o sostituite dal titolo II rimangono in vigore in quanto compatibili.))
@@ -687,6 +755,63 @@ Altre modifiche al decreto legislativo
 L'articolo 58, comma 7, del decreto legislativo 1° settembre 1993, n. 385, e' sostituito dal seguente:
  "7. Le disposizioni del presente articolo si applicano anche alle cessioni in favore dei soggetti, diversi dalle banche, inclusi nell'ambito della vigilanza consolidata ai sensi degli articoli 65 e 109 e in favore degli intermediari finanziari previsti dall'articolo 106.".
 
+2.
+                        
+                            
+                                L'articolo 132 del decreto legislativo 1° settembre 1993, n. 385, e' sostituito dal seguente:
+
+ "Art. 132.
+
+
+ Abusiva attivita' finanziaria
+
+ 1. Chiunque svolge, nei confronti del pubblico una o piu' attivita' finanziarie previste dall'articolo 106, comma 1, in assenza dell'autorizzazione di cui all'articolo 107 o dell'iscrizione di cui all'articolo 111 ovvero dell'articolo 112, e' punito con la reclusione da sei mesi a quattro anni e con la multa da euro 2.065 ad euro 10.329.".
+ 2. All'articolo 133 del decreto legislativo 1° settembre 1993, n. 385, sono apportate le seguenti modificazioni:
+ 
+                            
+                            
+                                a)
+                                
+                                    dopo il comma 1-ter, e' inserito il seguente:
+ "1-quater. L'uso, nella denominazione o in qualsivoglia segno distintivo o comunicazione rivolta al pubblico, della parola "finanziaria" ovvero di altre parole o locuzioni, anche in lingua straniera, idonee a trarre in inganno sulla legittimazione allo svolgimento dell'attivita' finanziaria loro riservata e' vietato ai soggetti diversi dagli intermediari finanziari di cui all'articolo 106.";
+
+                                
+                            
+                            
+                                b)
+                                
+                                    al terzo comma, primo periodo, le parole: "e 1-ter" sono sostituite dalle seguenti: ", 1-ter e 1-quater";
+
+                                
+                            
+                            
+                                c)
+                                
+                                    al terzo comma, secondo periodo, le parole: "ai sensi dell'articolo 107" sono sostituite dalle seguenti "ai sensi dell'articolo 108 o di essere abilitato all'esercizio delle attivita' di cui all'articolo 111".
+ ((1)) 4. All'articolo 137 del decreto legislativo 1° settembre 1993, n. 385, sono apportate le seguenti modificazioni:
+ a) nella rubrica la parola "bancario" e' soppressa;
+ b) al comma 1-bis e' aggiunto il seguente periodo:
+ "Nel caso in cui le notizie o i dati falsi siano forniti ad un intermediario finanziario, si applica la pena dell'arresto fino a un anno o dell'ammenda fino ad euro 10.000.".
+ 5. All'articolo 137 del decreto legislativo 1° settembre 1993, n. 385, al comma 2 le parole "presso una banca nonche' i dipendenti di banche" sono sostituite dalle seguenti: "presso una banca o un intermediario finanziario, nonche' i dipendenti di banche o intermediari finanziari".
+ 6. All'articolo 139 del decreto legislativo 1° settembre 1993, n. 385, al comma 1 le parole: "dell'articolo 108, commi 3 e 4 e dell'articolo 110 comma 4" sono soppresse e dopo il comma 1 e' inserito il seguente: "1-bis. La violazione delle norme di cui al comma 1, in quanto richiamate dall'articolo 110, e' punita con la sanzione amministrativa pecuniaria da euro 5.000 a euro 150.000.".
+ 7. Al comma 2 dell'articolo 139 del decreto legislativo 1° settembre 1993, n. 385, dopo le parole: "dall'articolo 20 comma 2," sono inserite le seguenti: "anche in quanto richiamati dall'articolo 110".
+ 8. Al comma 1 dell'articolo 140 del decreto legislativo 1° settembre 1993, n. 385, le parole: "e 110 commi 1, 2 e 3" sono soppresse e dopo il comma 1 e' inserito il seguente: "1-bis L'omissione delle comunicazioni di cui alle norme indicate nel comma 1, in quanto richiamate dall'articolo 110, e' punita con la sanzione amministrativa pecuniaria ((da euro 5.000 a euro 150.000)).".
+ 9. Al comma 2 dell'articolo 140 del decreto legislativo 1° settembre 1993, n. 385, dopo le parole: "nel comma 1" sono inserite le seguenti: "e nel comma 1-bis".
+ 10. L'articolo 141 del decreto legislativo 1° settembre 1993, n. 385, e' abrogato.
+ 11. Dopo l'articolo 145 del decreto legislativo 1° settembre 1993, n. 385, e' inserito il seguente articolo:
+
+ "Art. 145-bis.
+
+
+ Procedure contenziose
+
+ 1. I provvedimenti sanzionatori emessi dagli Organismi di cui agli articoli 112-bis, 113 e 128-duodecies sono disposti con atto motivato, previa contestazione degli addebiti agli interessati da effettuarsi entro centoventi giorni dall'accertamento ovvero entro duecentoquaranta giorni se l'interessato ha la sede o la residenza all'estero e valutate le deduzioni da essi presentate, rispettivamente, nei successivi quarantacinque e novanta giorni.
+Nello stesso termine gli interessati possono altresi' chiedere di essere sentiti personalmente.
+ 2. Avverso i provvedimenti di cui primo comma, e' ammesso ricorso dell'interessato alla giurisdizione esclusiva del Tribunale amministrativo regionale nella cui circoscrizione ha sede l'Organismo. Il ricorso e' notificato all'Organismo entro sessanta giorni dalla sua comunicazione e depositato presso ((il Tribunale amministrativo regionale competente)) entro trenta giorni dalla notificazione predetta.
+ 3. Si applicano le norme procedurali del processo amministrativo, in quanto compatibili, compresa la sospensione (( . . . )) dell'esecutivita' del provvedimento impugnato per gravi motivi.
+ 4. La decisione del TAR e' impugnabile dinanzi il Consiglio di Stato e copia della stessa e' trasmessa all'Organismo ai fini della pubblicazione, per estratto.".
+ 12. L'articolo 155 del decreto legislativo 1° settembre 1993, n. 385, e' abrogato.
+
 -------------
                             AGGIORNAMENTO (1)
                              Il D.Lgs. 14 dicembre 2010, n. 218 ha disposto (con l'art. 5, comma 1) che "All'articolo 8, comma 3, capoverso articolo 133, dopo la lettera a) e' aggiunta la seguente:
@@ -729,6 +854,45 @@ Fermo restando quanto previsto dall'articolo 37 del decreto legislativo 27 genna
 Fino alla scadenza del periodo indicato al comma 1 e comunque fino al completamento degli adempimenti di cui al comma 4, la Banca d'Italia continua a tenere l'elenco generale, l'elenco speciale e le sezioni separate previste dalle disposizioni del decreto legislativo 1° settembre 1993, n. 385, vigente alla data del 4 settembre 2010; fino al completamento degli adempimenti indicati al comma 3 possono essere iscritti nuovi soggetti, ai quali si applicano i commi 1, 4 e 8.
 
 L'iscrizione nell'albo e negli elenchi previsti dalla disciplina introdotta con il presente Titolo III e' subordinata all'emanazione delle disposizioni attuative nonche', per l'elenco previsto all'articolo 112, comma 1, del decreto legislativo 1° settembre 1993, n. 385, alla costituzione del relativo Organismo; le Autorita' competenti provvedono all'emanazione delle disposizioni attuative e alla nomina dei componenti dell'Organismo di cui all'articolo 112-bis del decreto legislativo 1° settembre 1993, n. 385, al piu' tardi entro il 31 marzo 2013. Ai fini della costituzione dell'Organismo, i primi componenti sono nominati con decreto del Ministro dell'economia e delle finanze, su proposta della Banca d'Italia. L'Organismo provvede all'approvazione del suo statuto, alla definizione dell'aliquota contributiva a carico degli iscritti, alla raccolta dei fondi necessari al suo funzionamento ed all'iscrizione dei confidi secondo le disposizioni di cui all'articolo 112 del decreto legislativo 1° settembre 1993, n. 385, entro il termine del 30 settembre 2013. Decorso tale termine, l'Organismo e' regolato secondo le disposizioni dell'articolo 112-bis vigente.
+
+4.
+                        
+                            
+                                Per assicurare un passaggio ordinato alla nuova disciplina introdotta con il presente titolo III: 
+ 
+                            
+                            
+                                a)
+                                
+                                    entro il termine indicato al comma 1, gli intermediari finanziari che alla data di entrata in vigore del presente decreto legislativo esercitano nei confronti del pubblico l'attivita' di assunzione di partecipazioni ivi compresi quelli di cui all'articolo 155, comma 2, del decreto legislativo 1° settembre 1993, n. 385 abrogato ai sensi dell'articolo 8 del presente decreto, chiedono alla Banca d'Italia la cancellazione dagli elenchi di cui al comma 1, attestando di non esercitare attivita' riservate ai sensi di legge; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    entro tre mesi dall'entrata in vigore delle disposizioni attuative del presente Titolo III, gli intermediari iscritti nell'elenco di cui all'articolo 107 del decreto legislativo 1° settembre 1993, n. 385, vigente alla data del 4 settembre 2010 o inclusi nella vigilanza consolidata bancaria, che alla data di entrata in vigore del presente decreto legislativo esercitano l'attivita' di concessione di finanziamenti sotto qualsiasi forma, presentano istanza di autorizzazione ai fini dell'iscrizione all'albo di cui all'articolo 106 del decreto legislativo 1° settembre 1993, n. 385, come modificato dal presente decreto. L'istanza e' corredata della sola documentazione attestante il rispetto delle previsioni di cui all'articolo 107, comma 1, lettere c), d), e) ed f), del decreto legislativo 1° settembre 1993, n. 385, come modificato dal presente decreto legislativo; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    almeno sei mesi prima della scadenza del termine indicato al comma 1, gli intermediari iscritti nell'elenco di cui all'articolo 106 o in quello di cui all'articolo 107 del decreto legislativo 1° settembre 1993, n. 385, vigenti alla data del 4 settembre 2010, che esercitano attivita' di intermediazione in cambi, chiedono alla Banca d'Italia la cancellazione dagli elenchi, attestando di non esercitare attivita' riservate ai sensi di legge. Agli intermediari iscritti nell'elenco di cui all'articolo 106 o in quello di cui all'articolo 107 del decreto legislativo 1° settembre 1993, n. 385, vigenti alla data del 4 settembre 2010, che esercitano attivita' di intermediazione in cambi rimane in ogni caso preclusa l'attivita' rientrante nell'ambito di applicazione dell'articolo 1, comma 4, del decreto legislativo 24 febbraio 1998, n. 58, come modificato dal presente decreto; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    almeno tre mesi prima della scadenza del termine indicato al comma 1, le societa' fiduciarie previste all'articolo 199, comma 2, del decreto legislativo 24 febbraio 1998, n. 58, come modificato dal presente decreto, presentano istanza di autorizzazione ai fini dell'iscrizione alla sezione separata dell'albo di cui all'articolo 106 del decreto legislativo 1° settembre 1993, n. 385 come modificato dal presente decreto. In pendenza dell'istanza di autorizzazione, esse possono continuare ad operare anche oltre il termine previsto dal comma 1; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    almeno tre mesi prima della scadenza del termine indicato al comma 1, gli altri soggetti ivi indicati presentano istanza di autorizzazione ai fini dell'iscrizione all'albo di cui all'articolo 106, ovvero istanza di iscrizione nell'elenco di cui all'articolo 111 o nelle relative sezioni separate ovvero nell'elenco di cui all'articolo 112, comma 1 del decreto legislativo 1° settembre 1993, n. 385, come modificato dal presente decreto. In pendenza dell'istanza di autorizzazione, essi possono continuare ad operare anche oltre il termine previsto dal comma 1.
 
 In caso di mancato accoglimento delle istanze di cui al comma 4, lettere b), c) ed e), i soggetti ivi indicati deliberano la liquidazione della societa' ovvero modificano il proprio oggetto sociale, eliminando il riferimento ad attivita' riservate ai sensi di legge. Per le societa' fiduciarie di cui al comma 4 il mancato accoglimento dell'istanza comporta la decadenza dell'autorizzazione di cui all'articolo 2 della legge 23 novembre 1939, n. 1966.
 
@@ -918,7 +1082,44 @@ Se mancano o risultano inadeguati i provvedimenti di questa autorita'. L'Organis
 
 ## Art. 12. — Disposizioni di attuazione dell'articolo 128-quater e 128-sexies del decreto legislativo 1° settembre 1993, n. 385
 
-((21))
+1.
+                        
+                            
+                                Non costituisce esercizio di agenzia in attivita' finanziaria, ne' di mediazione creditizia: 
+ 
+                            
+                            
+                                a)
+                                
+                                    
+                                        ((LETTERA ABROGATA DAL D.LGS. 31 DICEMBRE 2025, N. 212)); ((21))
+                                    
+                                
+                            
+                            
+                                b)
+                                
+                                    la ((presentazione o la proposta ovvero)) la conclusione, da parte di banche, intermediari finanziari, imprese di investimento, societa' di gestione del risparmio, SICAV, imprese assicurative, istituti di pagamento, istituti di moneta elettronica e Poste italiane S.p.A. di contratti relativi alla concessione di finanziamenti sotto qualsiasi forma e alla prestazione di servizi di pagamento; ((21))
+                                    
+                                
+                            
+                            
+                                b-bis)
+                                
+                                    
+                                        ((la presentazione o la proposta ovvero la conclusione di contratti relativi alla concessione di finanziamenti o alla prestazione di servizi di pagamento, nonche' di intermediazione nella concessione di prestiti svolta dai fornitori di servizi di crowdfunding alle imprese alle condizioni e nei limiti di cui al regolamento (UE) 2020/1503 del Parlamento europeo e del Consiglio, del 7 ottobre 2020;))
+                                        ((21))
+                                    
+                                
+                            
+                            
+                                c)
+                                
+                                    la stipula, da parte delle associazioni di categoria e dei Confidi, di convenzioni con banche, intermediari finanziari ed altri soggetti operanti nel settore finanziario finalizzate a favorire l'accesso al credito delle imprese associate. Per la raccolta di richieste di finanziamento effettuate sulla base di dette convenzioni, le associazioni possono avvalersi di soggetti in possesso dei requisiti di cui all'articolo 128-novies, comma 1.
+Quanto previsto dalla presente lettera, e' esteso alle societa' di servizi controllate ai sensi dell'articolo 2359 del codice civile, costituite dalle associazioni stesse per il perseguimento delle finalita' associative.
+
+((Non costituisce esercizio di agenzia in attivita' finanziaria la presentazione o la proposta e il collocamento di contratti relativi alla concessione di finanziamenti o alla prestazione di servizi di pagamento da parte dei consulenti finanziari iscritti nell'albo previsto dall'articolo 31 del testo unico delle disposizioni in materia di intermediazione finanziaria di cui al decreto legislativo 24 febbraio 1998, n. 58, effettuate per conto del soggetto abilitato che ha conferito loro l'incarico di consulente finanziario. Il soggetto abilitato cura l'aggiornamento professionale dei propri consulenti finanziari, assicura il rispetto da parte loro della disciplina prevista ai sensi del titolo VI del testo unico delle leggi in materia bancaria e creditizia di cui al decreto legislativo 1° settembre 1993, n. 385, e risponde per i danni da essi cagionati nell'esercizio dell'attivita' prevista dal presente comma, anche se conseguenti a responsabilita' accertata in sede penale.))
+                                ((21))
 
 ((Non costituisce esercizio di agenzia in attivita' finanziaria la presentazione o la proposta e il collocamento di contratti relativi alla concessione di finanziamenti sotto qualsiasi forma da parte degli agenti di assicurazione regolarmente iscritti nel Registro unico degli intermediari assicurativi e riassicurativi di cui all'articolo 109, comma 2, lettera a), del codice delle assicurazioni private di cui al decreto legislativo 7 settembre 2005, n. 209, su mandato diretto di banche e intermediari finanziari previsti dal titolo V del testo unico delle leggi in materia bancaria e creditizia, di cui al decreto legislativo 1° settembre 1993, n. 385.)) Il soggetto mandante cura l'aggiornamento professionale degli agenti assicurativi mandatari, assicura il rispetto da parte loro della disciplina prevista ai sensi del titolo VI del decreto legislativo 1° settembre 1993, n. 385, e risponde per i danni da essi cagionati nell'esercizio dell'attivita' prevista dal presente comma, anche se conseguenti a responsabilita' accertata in sede penale. ((21))
 
@@ -940,11 +1141,98 @@ L'esercizio di agenzia in attivita' finanziaria comporta gli obblighi di contrib
 
 ((L'Organismo di cui all'articolo 128-undecies del testo unico di cui al decreto legislativo n. 385 del 1993 istituisce un registro pubblico informatizzato dei fornitori di beni e prestatori di servizi, nel quale, verificata la completezza delle comunicazioni di cui al comma 3, sono annotati i dati comunicati ai sensi del comma 3, lettera a) e, in un'apposita sezione del medesimo registro, i dati comunicati ai sensi del comma 3, lettera b).))
 
+3.
+                        
+                            
+                                
+                                    ((Sono comunicate al registro di cui al comma 2 le informazioni, definite ai sensi del comma 4, riguardanti i fornitori di beni o i prestatori di servizi diversi dalle microimprese e dalle piccole e medie imprese come definite nella raccomandazione 2003/361/CE della Commissione, del 6 maggio 2003, secondo le seguenti modalita':))
+                                
+                            
+                            
+                                a)
+                                
+                                    
+                                        ((da parte delle banche, degli intermediari finanziari previsti dal titolo V del testo unico di cui al decreto legislativo n. 385 del 1993 o degli altri soggetti autorizzati o abilitati all'erogazione del credito con cui i fornitori di beni o i prestatori di servizi stipulano le convenzioni di cui al comma 1 anche sulla base di dichiarazioni fornite, sotto la propria responsabilita', dagli stessi fornitori di beni o prestatori di servizi;))
+                                    
+                                
+                            
+                            
+                                b)
+                                
+                                    
+                                        ((direttamente da parte dei fornitori di beni o prestatori di servizi che, al di fuori dei casi previsti dall'articolo 122, comma 1, lettere i-bis) e i-ter), del testo unico di cui al decreto legislativo n. 385 del 1993 e in osservanza di quanto previsto dall'articolo 122, comma 5, del medesimo testo unico, concludono contratti di credito a titolo accessorio rispetto alla propria attivita' commerciale o professionale nella sola forma della dilazione di pagamento gratuita per l'acquisto di beni o servizi da essi offerti, salve limitate spese per i ritardi nel rimborso.))
+
+4.
+                        
+                            
+                                
+                                    ((L'Organismo di cui all'articolo 128-undecies del testo unico di cui al decreto legislativo n. 385 del 1993, definisce, sentito il Garante per la protezione dei dati personali, il contenuto delle informazioni da trasmettere ai fini delle annotazioni nel registro di cui al comma 2, le modalita' e i termini delle comunicazioni nonche' eventuali variazioni alle stesse in modo che sia garantita:))
+                                
+                            
+                            
+                                a)
+                                
+                                    
+                                        ((la tempestiva annotazione dei dati comunicati dai soggetti tenuti alle comunicazioni di cui al comma 3 e dei relativi aggiornamenti;))
+                                    
+                                
+                            
+                            
+                                b)
+                                
+                                    
+                                        ((la chiarezza, la completezza e l'accessibilita' dei dati riportati nel registro e nella sezione dedicata di cui al comma 3;))
+                                    
+                                
+                            
+                            
+                                c)
+                                
+                                    
+                                        ((il rispetto delle norme dettate dal codice in materia di protezione dei dati personali di cui al decreto legislativo 30 giugno 2003 n. 196, nonche' il trattamento dei medesimi esclusivamente per le finalita' di cui al presente decreto;))
+                                    
+                                
+                            
+                            
+                                d)
+                                
+                                    
+                                        ((i criteri di determinazione del contributo dovuto, a copertura integrale dei costi di istituzione, sviluppo e gestione del registro e della sezione dedicata, nonche' le modalita' e i termini entro cui provvedere al relativo versamento.))
+
 ((Ai fornitori di beni o prestatori di servizi di cui al presente articolo si applica, ove compatibile, la disciplina di cui al capo II del titolo VI del testo unico di cui al decreto legislativo n. 385 del 1993, in relazione all'attivita' rispettivamente svolta, nonche' l'articolo 13, comma 1-ter, del presente decreto.))
 
 ((L'Organismo di cui all'articolo 128-undecies del testo unico di cui al decreto legislativo n. 385 del 1993 determina e riscuote i contributi dovuti dai soggetti tenuti alle comunicazioni di cui al comma 3 del presente articolo, a copertura integrale dei costi di istituzione, sviluppo e gestione del registro di cui al comma 2, e dei costi di vigilanza, nella misura necessaria a garantire lo svolgimento delle proprie attivita'. I soggetti che effettuano la comunicazione ai sensi del comma 3, lettera a), hanno diritto al rimborso dei contributi versati da parte dei fornitori di beni o prestatori di servizi convenzionati.))
 
 ((L'Organismo di cui all'articolo 128-undecies del testo unico di cui al decreto legislativo n. 385 del 1993, vigila sul rispetto da parte dei fornitori di beni o prestatori di servizi di cui al comma 3 della disciplina loro applicabile ai sensi del comma 5. A tali fini, puo' richiedere agli stessi fornitori di beni o prestatori di servizi la comunicazione di dati e notizie e la trasmissione di atti e documenti inerenti alle attivita' di cui al presente articolo, fissando i relativi termini. L'Organismo puo' effettuare ispezioni presso tali soggetti, anche avvalendosi della Guardia di finanza che agisce con i poteri a essa attribuiti per l'accertamento dell'imposta sul valore aggiunto e delle imposte sui redditi, utilizzando strutture e personale esistenti in modo da non determinare oneri aggiuntivi. Per la violazione della disciplina loro applicabile ai sensi del comma 5, per la mancata o tardiva comunicazione o trasmissione delle informazioni o dei documenti richiesti ovvero in caso di ostacolo alle attivita' di controllo dell'Organismo e' applicata dall'Organismo medesimo nei confronti dei fornitori di beni o i prestatori di servizi di cui al comma 3 la sanzione della sospensione dall'esercizio dell'attivita' di cui al presente articolo da dieci giorni a tre mesi, ovvero la sanzione amministrativa pecuniaria da euro 1000 al 10 per cento del fatturato. L'applicazione della sanzione e' comunicata alla banca, all'intermediario finanziario o al diverso soggetto autorizzato o abilitato all'erogazione del credito che ha stipulato la convenzione con il soggetto sanzionato.))
+
+8.
+                        
+                            
+                                
+                                    ((Nei confronti dei fornitori di beni o prestatori di servizi che si qualificano come microimprese o piccole e medie imprese quali definite nella raccomandazione 2003/361/CE della Commissione europea del 6 maggio 2003 e che esercitano le attivita' previste dal comma 1 o dal comma 3, l'Organismo di cui all'articolo 128-undecies del testo unico di cui al decreto legislativo n. 385 del 1993, interviene, su segnalazione di ogni soggetto interessato, ivi incluse le banche, gli intermediari finanziari previsti dal titolo V del medesimo testo unico, di cui al decreto legislativo n. 385 del 1993 o gli altri soggetti autorizzati o abilitati all'erogazione del credito che stipulano le convenzioni di cui al comma 1, per verificare il rispetto della disciplina loro applicabile ai sensi del comma 5. A tali fini, l'Organismo puo' richiedere agli stessi fornitori di beni o prestatori di servizi la comunicazione di dati e notizie e la trasmissione di atti e documenti inerenti alle attivita' di cui al presente articolo, fissando i relativi termini. La presentazione della segnalazione per l'intervento dell'Organismo comporta il versamento di un contributo per la copertura delle spese di istruttoria la cui misura e' determinata dallo stesso Organismo. Per la violazione della disciplina loro applicabile ai sensi del comma 5, per la mancata o tardiva comunicazione o trasmissione delle informazioni o dei documenti richiesti ovvero in caso di ostacolo alle attivita' di controllo dell'Organismo, l'Organismo medesimo applica nei confronti dei fornitori di beni o prestatori di servizi di cui al presente comma:))
+                                
+                            
+                            
+                                a)
+                                
+                                    
+                                        ((il richiamo scritto;))
+                                    
+                                
+                            
+                            
+                                b)
+                                
+                                    
+                                        ((l'inibizione dalla continuazione dell'attivita' di cui al presente articolo per un periodo non superiore ai tre mesi;))
+                                    
+                                
+                            
+                            
+                                c)
+                                
+                                    
+                                        ((la sanzione amministrativa pecuniaria da euro 500 a euro 30.000. L'applicazione della sanzione e' comunicata alla banca, all'intermediario finanziario o al diverso soggetto autorizzato o abilitato all'erogazione del credito che ha stipulato la convenzione con il soggetto sanzionato.))
 
 ((Ai fornitori di servizi o ai prestatori di beni diversi dalle microimprese o piccole e medie imprese quali definite nella raccomandazione 2003/361/CE non e' consentito l'esercizio delle attivita' previste dai commi 1 e 3 in assenza dell'annotazione nel registro di cui al comma 2.))
 
@@ -983,6 +1271,60 @@ In conformita' all'articolo 5, comma 1, della legge 3 febbraio 1989, n. 39, per 
 
 ## Art. 14. — Requisiti di Professionalita'
 
+1.
+                        
+                            
+                                L'iscrizione delle persone fisiche nell'elenco degli agenti in attivita' finanziaria, di cui all'articolo 128-quater, comma 2, del decreto legislativo 1° settembre 1993, n. 385, e' subordinata al possesso dei seguenti requisiti di professionalita': 
+ 
+                            
+                            
+                                a)
+                                
+                                    titolo di studio non inferiore al diploma di istruzione secondaria superiore, rilasciato a seguito di un corso di durata quinquennale ovvero quadriennale, integrato dal corso annuale previsto per legge, o un titolo di studio estero ritenuto equipollente a tutti gli effetti di legge; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    frequenza di un corso di formazione professionale nelle materie rilevanti nell'esercizio dell'agenzia in attivita' finanziaria; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    possesso di un'adeguata conoscenza in materie giuridiche, economiche, finanziarie e tecniche, accertata tramite il superamento dell'apposito esame, indetto dall'Organismo di cui all'articolo 128-undecies del decreto legislativo 1° settembre 1993, n. 385, secondo le modalita' da questo stabilite.
+
+2.
+                        
+                            
+                                L'iscrizione delle persone giuridiche nell' elenco degli agenti in attivita' finanziaria di cui all'articolo 128-quater, comma 2, e in quello dei mediatori creditizi, di cui all'articolo 128-sexies, comma 2, del decreto legislativo 1° settembre 1993, n. 385, e' subordinata al possesso dei seguenti requisiti di professionalita': 
+ 
+                            
+                            
+                                a)
+                                
+                                    i soggetti con funzioni di amministrazione, direzione e controllo devono essere scelti secondo criteri di professionalita' e competenza fra persone che abbiano maturato una esperienza complessiva di almeno un triennio attraverso l'esercizio di: 
+ 1) attivita' di amministrazione o di controllo ovvero compiti direttivi presso imprese; 
+ 2) attivita' professionali in materia attinente al settore creditizio, finanziario, mobiliare ((, ivi inclusa l'attivita' di agente in attivita' finanziaria di cui all'articolo 128-quater, comma 1, del testo unico di cui al decreto legislativo n. 385 del 1993, ovvero di dipendente o collaboratore a contatto con il pubblico di agenti in attivita' finanziaria o di mediatori creditizi nel rispetto dell'articolo 128-novies, comma 3, del medesimo testo unico di cui al decreto legislativo n. 385 del 1993)); ((21)) 
+ 3) attivita' d'insegnamento universitario in materie giuridiche o economiche; 
+ 4) funzioni amministrative o dirigenziali presso enti pubblici, pubbliche amministrazioni, associazioni imprenditoriali o loro societa' di servizi aventi attinenza con il settore creditizio, finanziario, mobiliare ovvero presso enti pubblici o pubbliche amministrazioni che non hanno attinenza con i predetti settori purche' le funzioni comportino la gestione di risorse economico-finanziarie. 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il presidente del consiglio di amministrazione deve essere scelto secondo criteri di professionalita' e competenza fra persone che abbiano maturato una esperienza complessiva di almeno un quinquennio attraverso l'esercizio dell'attivita' o delle funzioni indicate alla lettera a). 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    l'amministratore unico, l'unico socio della societa' a responsabilita' limitata, l'amministratore delegato e il direttore generale devono essere in possesso di una specifica competenza in materia creditizia, finanziaria, mobiliare maturata attraverso esperienze di lavoro in posizione di adeguata responsabilita' per un periodo non inferiore a un quinquennio. Analoghi requisiti sono richiesti per le cariche che comportano l'esercizio di funzioni equivalenti a quella di direttore generale.
+
 L'iscrizione delle persone giuridiche nell' elenco degli agenti in attivita' finanziaria di cui all'articolo 128-quater, comma 2, e in quello dei mediatori creditizi, di cui all'articolo 128-sexies, comma 2, del decreto legislativo 1° settembre 1993, n. 385, e' altresi' subordinata al possesso dei requisiti di cui al comma 1 per coloro che svolgono funzioni di amministrazione e direzione. 
  (1)
 
@@ -997,6 +1339,35 @@ L'iscrizione delle persone giuridiche nell' elenco degli agenti in attivita' fin
  Ha inoltre disposto (con l'art. 6, comma 3) che "In deroga al comma 2, ai contratti di credito ai consumatori a tempo indeterminato stipulati prima della scadenza del termine di cui al medesimo comma 2 e ancora in essere a tale data si applicano le disposizioni indicate all'articolo 47, terzo comma, della direttiva (UE) 2023/2225 del Parlamento europeo e del Consiglio, del 18 ottobre 2023, secondo le modalita' stabilite dalle disposizioni di attuazione dell'articolo 1 adottate dalla Banca d'Italia".
 
 ## Art. 15. — Requisiti di onorabilita'
+
+1.
+                        
+                            
+                                Non possono essere iscritti nell'elenco degli agenti in attivita' finanziaria di cui all'articolo 128-quater, comma 2, coloro che: 
+ 
+                            
+                            
+                                a)
+                                
+                                    si trovano in una delle condizioni di ineleggibilita' o decadenza previste dall'articolo 2382 del codice civile; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    sono stati sottoposti a misure di prevenzione disposte dall'autorita' giudiziaria ai sensi della legge 27 dicembre 1956, n. 1423, o della legge 31 maggio 1965, n. 575, salvi gli effetti della riabilitazione; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    sono stati condannati con sentenza irrevocabile, salvi gli effetti della riabilitazione: 
+ 1) a pena detentiva per uno dei reati previsti dalle norme che disciplinano l'attivita' bancaria, finanziaria, mobiliare, assicurativa e dalle norme in materia di mercati e valori mobiliari, di strumenti di pagamento; 
+ 2) a pena detentiva per uno dei reati previsti nel titolo XI del libro V del codice civile e nel regio decreto del 16 marzo 1942, n. 267; 
+ 3) a pena detentiva per un tempo non inferiore a un anno per un reato contro la pubblica amministrazione, contro la fede pubblica, contro il patrimonio, contro l'ordine pubblico, contro l'economia pubblica ovvero per delitto in materia tributaria; 
+ 4) alla reclusione per un tempo non inferiore a due anni per un qualunque delitto non colposo.
 
 Non possono essere altresi' iscritti nell'elenco coloro nei confronti dei quali sia stata applicata su richiesta delle parti una delle pene previste dal comma 1, lettera c), salvo il caso dell'estinzione del reato. Nel caso in cui siano state applicate su richiesta delle parti, le pene previste dal comma 1, lettera c), numeri 1) e 2), non rilevano se inferiori a un anno.
 
@@ -1072,6 +1443,24 @@ Ai fini del presente decreto legislativo per collaboratori si intendono coloro c
 
 L'esercizio professionale nei confronti del pubblico dell'attivita' di cambiavalute, anche su base stagionale, consistente nella negoziazione a pronti di mezzi di pagamento in valuta, e' riservato ai soggetti iscritti in un apposito registro tenuto dall'Organismo previsto dall'articolo 128-undecies del decreto legislativo 1° settembre 1993, n. 385.
 
+2.
+                        
+                            
+                                L'iscrizione nel registro di cui al comma 1, e' subordinata al ricorrere dei seguenti requisiti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    per le persone fisiche: cittadinanza italiana o di uno Stato dell'Unione europea ovvero di Stato diverso secondo le disposizioni dell'articolo 2 del testo unico delle disposizioni concernenti la disciplina dell'immigrazione e norme sulla condizione dello straniero, di cui al decreto legislativo 25 luglio 1998, n. 286, e domicilio nel territorio della Repubblica; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    per i soggetti diversi dalle persone fisiche: sede legale e amministrativa o, per i soggetti comunitari, stabile organizzazione nel territorio della Repubblica.
+
 I soggetti iscritti nel registro di cui al comma 1 sono tenuti a trasmettere all'Organismo per via telematica le negoziazioni effettuate. I dati registrati sono conservati per dieci anni.
 
 Il Ministro dell'economia e delle finanze, sentito l'Organismo, individua, con proprio decreto le specifiche tecniche del sistema di conservazione informatica delle negoziazioni di cui al comma 3 e la periodicita' di invio.
@@ -1079,6 +1468,38 @@ Il Ministro dell'economia e delle finanze, sentito l'Organismo, individua, con p
 L'esercizio abusivo dell'attivita' di cui al comma 1 e' punita con una sanzione amministrativa da 2.065 euro a 10.329 euro emanata dal Ministero dell'economia e delle finanze.
 
 L'Organismo dispone la sospensione, non inferiore a tre mesi e non superiore a un anno, dal registro in caso di violazione dell'obbligo di cui al comma 3.
+
+7.
+                        
+                            
+                                L'Organismo dispone la cancellazione dalla sezione di cui al comma 1, nei seguenti casi: 
+ 
+                            
+                            
+                                a)
+                                
+                                    perdita di uno dei requisiti richiesti per l'esercizio dell'attivita'; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    ripetuta violazione dell'obbligo di cui al comma 3; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    inattivita' protrattasi per oltre un anno salvo comprovati motivi; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    cessazione dell'attivita'.
 
 Il Ministero dell'economia e delle finanze vigila sull'attivita' dell'Organismo indicata nel presente articolo.
 
@@ -1111,6 +1532,52 @@ L'iscrizione negli elenchi previsti dagli articoli 128-quater, comma 2, e 128-se
 L'Organismo previsto dall'articolo 128-undecies del decreto legislativo 1° settembre 1993, n. 385, e' composto da un rappresentante del Ministero dell'economia e delle finanze e da tre a cinque membri nominati ai sensi del comma 2.((Il rappresentante del Ministero dell'economia e delle finanze puo' essere revocato in ogni tempo.))
 
 I componenti ((dell'organo di gestione)) dell'Organismo, tra i quali e' eletto il Presidente, sono scelti all'interno delle categorie degli agenti in attivita' finanziaria, dei mediatori creditizi, delle banche, degli intermediari finanziari, degli istituti di pagamento e degli istituti di moneta elettronica, tra persone dotate di comprovata competenza in materie finanziarie, economiche e giuridiche nonche' di caratteristiche di indipendenza tale da assicurarne l'autonomia di giudizio.(( Il voto del presidente prevale in caso di parita' nella votazione dei componenti l'Organismo.))
+
+3.
+                        
+                            
+                                L'Organismo cura la redazione del proprio statuto e di propri regolamenti interni, che contengono previsioni adeguate ad assicurare efficacia e legittimita' nello svolgimento dei propri compiti, nel rispetto, tra l'altro, dei seguenti principi e criteri: 
+ 
+                            
+                            
+                                a)
+                                
+                                    previsione dei criteri, delle modalita' e delle risorse necessarie per l'efficace svolgimento dei compiti; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    previsione di idonei meccanismi di controllo interno volti a garantire il rispetto delle decisioni e delle procedure; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    adozione di un efficace sistema di pubblicita' delle proprie disposizioni sulle attivita' degli agenti in attivita' finanziaria e dei mediatori creditizi; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    adozione di procedure funzionali alla preventiva verifica di legittimita' della propria attivita', con particolare riferimento al rispetto, nell'ambito del procedimento sanzionatorio per violazione dell' articolo 128-((duodecies)) del decreto legislativo 1° settembre 1993, n. 385, del principio del contraddittorio, della conoscenza degli atti istruttori, della verbalizzazione e della distinzione tra funzioni istruttorie e funzioni decisorie; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    adozione di procedure idonee a garantire la riservatezza delle informazioni ricevute; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    adozione di procedure che consentano di fornire tempestivamente alla Banca d'Italia le informazioni dalla stessa richieste.
 
 Lo statuto e i regolamenti interni dell'Organismo sono trasmessi al Ministro dell'economia e delle finanze per la successiva approvazione, sentita la Banca d'Italia, e pubblicazione.((L'Organismo pubblica annualmente una relazione sull'attivita' svolta.)) 
  (1)
@@ -1147,6 +1614,80 @@ L'attivita' dell'Organismo, anche nei rapporti con i terzi, e' disciplinata dal 
 
 ## Art. 21. — Funzioni dell'Organismo
 
+1.
+                        
+                            
+                                Fermo restando quanto previsto dall'articolo 128-decies, comma 2, del decreto legislativo 1° settembre 1993, n. 385, l'Organismo svolge le seguenti funzioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    disciplina la struttura propria e delle eventuali sezioni territoriali al fine di garantirne la funzionalita' e l'efficienza; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    istituisce l'elenco degli agenti in attivita' finanziaria e l'elenco dei mediatori creditizi e provvede alla loro custodia e gestione; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    verifica la permanenza dei requisiti necessari per l'iscrizione negli elenchi di cui agli articoli 128-quater, comma 2, e 128-sexies, comma 2, del decreto legislativo 1° settembre 1993, n. 385; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    verifica il rispetto da parte degli iscritti delle discipline cui essi sono sottoposti; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    verifica l'assenza di cause di incompatibilita', di sospensione e di cancellazione nei confronti degli iscritti negli elenchi; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    verifica l'effettivo svolgimento delle attivita' di cui agli articoli 128-quater e 128-sexies del decreto legislativo 1° settembre 1993, n. 385 ai fini della permanenza dell'iscrizione negli elenchi; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    accerta la sussistenza dei requisiti di professionalita' ai fini dell'iscrizione nell'elenco degli agenti in attivita' finanziaria e dei mediatori creditizi e cura l'aggiornamento professionale degli iscritti; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    stabilisce gli standard dei corsi di formazione che le societa' di mediazione e gli agenti in attivita' finanziaria sono tenuti a svolgere nei confronti dei propri amministratori, direttori dipendenti, e collaboratori; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    secondo quanto previsto dall'articolo 128-novies, stabilisce i contenuti e le modalita' della prova valutativa. 
+
+                                
+                            
+                            
+                                i-bis)
+                                
+                                    stabilisce la periodicita' e le modalita' di invio della comunicazione ai sensi dell'articolo 128-quater, comma 7.
+
 Per lo svolgimento dei compiti di cui al comma 1, lettere b), c), d), e), ed f), l'Organismo puo' chiedere ai soggetti ivi iscritti ((e ai dipendenti e collaboratori di cui all'articolo 128-novies, comma 3, del testo unico di cui al decreto legislativo n. 385 del 1993,)) la comunicazione di dati e notizie, nonche' la trasmissione di atti e documenti secondo le modalita' e i termini dallo stesso determinati, nonche' procedere ad audizione personale e effettuare ispezioni. ((21))
 
 Al fine di assicurare l'efficacia dell'azione ed evitare duplicazioni nei controlli, l'Organismo stipula protocolli di intesa con la Guardia di Finanza in modo da coordinare le ispezioni di cui al precedente comma con quelle effettuate dalla Guardia di Finanza ai sensi dell'articolo 53, comma 2, del decreto legislativo 21 novembre 2007, n. 231. 
@@ -1166,6 +1707,45 @@ Al fine di assicurare l'efficacia dell'azione ed evitare duplicazioni nei contro
 
 Gli elenchi degli agenti in attivita' finanziaria e dei mediatori creditizi sono articolati in sezioni territoriali e gestiti in forma elettronica. Le eventuali sezioni territoriali degli elenchi sono individuate dall'Organismo in numero non inferiore a tre e, in ogni caso, con riferimento al numero e alla distribuzione geografica degli iscritti.
 
+2.
+                        
+                            
+                                Nell'attivita' di gestione degli elenchi l'Organismo: 
+ 
+                            
+                            
+                                a)
+                                
+                                    procede, previa verifica dei requisiti, all'iscrizione nei suddetti elenchi dei soggetti che ne facciano richiesta; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    verifica la permanenza dei requisiti richiesti per l'iscrizione; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    rigetta l'istanza di iscrizione negli elenchi in mancanza dei requisiti necessari e dispone la cancellazione nelle ipotesi di cui all'articolo 128-duodecies. In entrambi i casi ne da' comunicazione all'interessato; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    rilascia gli attestati di iscrizione e cancellazione dagli elenchi; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    aggiorna tempestivamente gli elenchi sulla base dei provvedimenti adottati dall'autorita' giudiziaria, dalla Banca d'Italia e dallo stesso Organismo, nonche' sulla base di comunicazioni ricevute dagli iscritti;
+
 Fermo restando quanto previsto dall'articolo 23, con riferimento al procedimento di iscrizione, al fine di garantire l'efficienza e la trasparenza nell'attivita' di gestione degli elenchi, l'Organismo predispone e rende pubbliche le procedure adottate indicando, tra l'altro, i termini dei procedimenti di propria competenza.
 
 L'Organismo tiene a disposizione del pubblico gli elenchi aggiornati con modalita' idonee ad assicurarne la massima diffusione.
@@ -1178,9 +1758,129 @@ La domanda di iscrizione nell'elenco prende data dal giorno della presentazione 
 
 L'Organismo, accertato il possesso dei requisiti, dispone l'iscrizione nell'elenco, entro il termine di centoventi giorni dal ricevimento della domanda. Qualora entro tale termine non sia adottato un provvedimento di rigetto, la domanda di iscrizione si intende accolta.
 
+3.
+                        
+                            
+                                Nell'elenco degli agenti in attivita' finanziaria sono indicati: 
+ 
+                            
+                            
+                                a)
+                                
+                                    per le persone fisiche: 
+ 1) cognome e nome; 
+ 2) luogo e data di nascita; 
+ 3) codice fiscale; 
+ 4) data di iscrizione nell'elenco; 
+ 5) domicilio eletto in Italia e relativo indirizzo, nonche' il comune di residenza e il relativo indirizzo, se diversi dal domicilio eletto; 
+ 6) indirizzo della casella di posta elettronica certificata; 
+ 7) eventuali provvedimenti di sospensione cautelare ai sensi dell'articolo 128-duodecies del decreto legislativo 1° settembre 1993, n. 385, in essere nei confronti dell'iscritto, nonche' ogni altro provvedimento incidente sull'esercizio dell'attivita'; 
+ 7-bis) gli Stati membri dell'Unione europea in cui l'agente in attivita' finanziaria puo' svolgere le attivita' relative ai contratti di credito disciplinati dal capo I-bis del titolo VI del testo unico di cui al decreto legislativo 1° settembre 1993, n. 385; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    per le persone giuridiche: 
+ 1) denominazione sociale; 
+ 2) data di costituzione; 
+ 3) sede legale e, se diversa dalla sede legale, la sede della direzione generale; 
+ 4) data di iscrizione nell'elenco; 
+ 5) indirizzo della casella di posta elettronica certificata; 
+ 6) eventuali provvedimenti di sospensione cautelare ai sensi dell'articolo 128-ter decies del decreto legislativo 1° settembre 1993, n. 385, in essere nei confronti della societa', nonche' ogni altro provvedimento incidente sull'esercizio dell'attivita' sociale; 
+ 7) i nominativi ((e gli indirizzi di posta elettronica certificata)) dei dipendenti e dei collaboratori di cui l'agente in attivita' finanziaria si avvale nello svolgimento della propria attivita'. ((21)) 
+ 7-bis) gli Stati membri dell'Unione europea in cui l'agente in attivita' finanziaria puo' svolgere, anche senza stabilirvi succursali, le attivita' relative ai contratti di credito disciplinati dal capo I-bis del titolo VI del testo unico di cui al decreto legislativo 1° settembre 1993, n. 385.
+
+4.
+                        
+                            
+                                Nell'elenco dei mediatori creditizi sono indicati: 
+ 
+                            
+                            
+                                a)
+                                
+                                    denominazione sociale; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    data di costituzione; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    sede legale e, se diversa dalla sede legale, la sede della direzione generale; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    data di iscrizione nell'elenco; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    eventuali provvedimenti di sospensione cautelare ai sensi dell'articolo 128-ter decies del decreto legislativo 1° settembre 1993, n. 385, in essere nei confronti della societa', nonche' ogni altro provvedimento incidente sull'esercizio dell'attivita' sociale; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    i nominativi ((e gli indirizzi di posta elettronica certificata)) dei dipendenti e dei collaboratori di cui il mediatore creditizio si avvale nello svolgimento della propria attivita' ai sensi dell'articolo 128-septies, comma 2, e dell'articolo 128-novies;((21))
+                                    
+                                
+                            
+                            
+                                f-bis)
+                                
+                                    indirizzo della casella di posta elettronica certificata; 
+
+                                
+                            
+                            
+                                f-ter)
+                                
+                                    gli Stati membri dell'Unione europea in cui il mediatore creditizio puo' svolgere, anche senza stabilirvi succursali, le attivita' relative ai contratti di credito disciplinati dal capo I-bis del titolo VI del testo unico di cui al decreto legislativo 1° settembre 1993, n. 385.
+
 Alla data dell'iscrizione negli elenchi sono comunicati all'Organismo il luogo di conservazione della documentazione e gli estremi identificativi della polizza assicurativa di cui all'articolo 128-quinquies, comma 1-bis, e all'articolo 128-septies, comma 1-ter, del decreto legislativo 1° settembre 1993, n. 385.
 
 Gli iscritti negli elenchi comunicano entro dieci giorni all'Organismo ogni variazione degli elementi di cui ai commi 3 e 4.
+
+6-bis.
+                        
+                            
+                                Nell'elenco dei soggetti di cui all'articolo 128-novies.1, comma 2, del testo unico di cui al decreto legislativo 1° settembre 1993, n. 385, sono indicate le informazioni contenute nella comunicazione inviata dall'autorita' competente dello Stato membro di origine, compresi almeno: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la denominazione del soggetto; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'indirizzo della sede amministrativa e, se del caso, della succursale con sede in Italia; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    l'indirizzo, anche di posta elettronica, o un altro recapito.  
+ (1)
 
 -------------
                             AGGIORNAMENTO (1)
@@ -1292,6 +1992,217 @@ Le societa' di servizio promosse dalle associazioni imprenditoriali che, in modo
 ## Art. 27. — Modifiche al decreto legislativo 
  21 novembre 2007, n. 231
 
+1.
+                        
+                            
+                                Al decreto legislativo 21 novembre 2007, n. 231, sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    all'articolo 9, comma 2, le parole "e con la UIF" sono sostituite dalle seguenti ", con la UIF, con la Guardia di Finanza e con la DIA"; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    all'articolo 11, comma 1, la lettera l) e' soppressa e dopo la lettera m) e' inserita la seguente: "m-bis) le societa' fiduciarie di cui all'articolo 199, comma 2, del decreto legislativo 24 febbraio 1998, n. 58;"; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    all'articolo 11, comma 1, alla lettera m) le parole: "elenco generale" sono sostituite dalla seguente: "albo"; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    all'articolo 11, comma 2, lettera a), dopo le parole: "di cui alla legge 23 novembre 1939, n. 1966" sono inserite le seguenti: "ad eccezione di quelle di cui all'articolo 199, comma 2, del decreto legislativo 24 febbraio 1998, n. 58"; 
+
+                                
+                            
+                            
+                                d-bis)
+                                
+                                    all'articolo 11, comma 2, la lettera b) e' sostituita dalla seguente: "b) i soggetti disciplinati dagli articoli 111 e 112 del TUB;"; 
+
+                                
+                            
+                            
+                                d-ter)
+                                
+                                    all'articolo 11, comma 2, la lettera c) e' sostituita dalla seguente: "c) i soggetti che esercitano professionalmente l'attivita' di cambiavalute, consistente nella negoziazione a pronti di mezzi di pagamento in valuta;"; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    all'articolo 11, comma 3, le lettere c) e d), sono sostituite dalle seguenti: " c) i mediatori creditizi iscritti nell'elenco previsto dall'articolo 128-sexies, comma 2, del TUB; d) gli agenti in attivita' finanziaria iscritti nell'elenco previsto dall'articolo 128-quater, comma 2, del TUB e gli agenti indicati nell'articolo 128-quater, commi 6 e 7, del medesimo TUB."; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    all'articolo 11, dopo il comma 3, e' inserito il seguente:
+"3-bis. Nelle operazioni di cartolarizzazione di crediti disciplinate dalla legge 30 aprile 1999, n. 130, gli obblighi di cui al presente decreto sono assolti dai soggetti di cui all'articolo 2, comma 6, della medesima legge."; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    all'articolo 13 dopo il comma 2 e' aggiunto il seguente: "Con l'entrata in vigore delle disposizioni attuative del decreto legislativo 27 gennaio 2010, n. 39, la lettera a) del comma 1 si riferisce ai revisori legali e le societa' di revisione con incarichi di revisione su enti di interesse pubblico e la lettera b) del medesimo comma 1 si riferisce ai revisori legali e le societa' di revisione senza incarichi di revisione su enti di interesse pubblico."; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    all'articolo 15: 
+ 1) al comma 3, dopo le parole "gli istituti di moneta elettronica" sono aggiunte le seguenti: ", gli istituti di pagamento"; 
+ 2) il comma 4 e' sostituito dal seguente: "4. Gli agenti di cui all'articolo 11, comma 3, lettera d), osservano gli obblighi di adeguata verifica della clientela anche per le operazioni di importo inferiore a 15.000 euro."; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    all'articolo 23: 
+ 1) dopo il comma 1 e' inserito il seguente: "1-bis. Nel caso in cui non sia possibile rispettare gli obblighi di adeguata verifica relativamente a rapporti continuativi gia' in essere, operazioni o prestazioni professionali in corso di realizzazione, gli enti o le persone soggetti al presente decreto restituiscono al cliente i fondi, gli strumenti e le altre disponibilita' finanziarie di spettanza, liquidandone il relativo importo tramite bonifico su un conto corrente bancario indicato dal cliente stesso. Il trasferimento dei fondi e' accompagnato da un messaggio che indica alla controparte bancaria che le somme sono restituite al cliente per l'impossibilita' di rispettare gli obblighi di adeguata verifica della clientela stabiliti dall'articolo 18, comma 1."; 
+ 2) al comma 2 sono anteposte le seguenti parole: "Nei casi di cui ai commi 1 e 1-bis, "; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    all'articolo 25, comma 1, lettera a), le parole: "lettere b) e c)" sono sostituite dalle seguenti: "lettera b)"; 
+
+                                
+                            
+                            
+                                m)
+                                
+                                    all'articolo 36, il comma 2-bis e' sostituito dal seguente:
+"2-bis. Gli intermediari di cui all'articolo 11, comma 1, registrano con le modalita' indicate nel presente capo e conservano per un periodo di dieci anni anche le operazioni di importo inferiore a 15.000 euro in relazione alle quali gli agenti di cui all'articolo 11, comma 3, lettera d), sono tenuti ad osservare gli obblighi di adeguata verifica della clientela ai sensi dell'articolo 15, comma 4."; 
+
+                                
+                            
+                            
+                                o)
+                                
+                                    all'articolo 42, comma 3, e' aggiunto, in fine, il seguente periodo: "La segnalazione di operazione sospetta e' inviata direttamente alla UIF dai soggetti di cui all'articolo 11, comma 3, lettere b), limitatamente agli intermediari assicurativi di cui all'articolo 109, comma 2, lettera b), del CAP, e lettera c) nel caso in cui un intermediario di riferimento non sia a priori individuabile. La segnalazione e' inviata alla UIF dagli agenti di cui all'articolo 128-quater, comma 7, del TUB direttamente ovvero per il tramite del punto di contatto centrale, insediato in Italia dall'istituto di moneta elettronica o istituto di pagamento comunitario. La costituzione del punto di contatto e' obbligatoria in caso di pluralita' di agenti."; 
+
+                                
+                            
+                            
+                                p)
+                                
+                                    all'articolo 49: 
+ 1) al comma 1, le parole: "istituti di moneta elettronica e Poste italiane S.p.a." sono sostituite dalle seguenti "Poste italiane S.p.a., istituti di moneta elettronica e istituti di pagamento, questi ultimi quando prestano servizi di pagamento diversi da quelli di cui all'articolo 1, comma 1, lettera b), numero 6), del decreto legislativo 27 gennaio 2010, n. 11."; 
+ 2) dopo il comma 1 e' inserito il seguente: "1-bis Per la negoziazione a pronti di mezzi di pagamento in valuta svolta dai soggetti iscritti nella sezione prevista dall'articolo 17-bis del decreto legislativo 13 agosto 2010, n. 141, il limite di cui al comma 1 e' di 2.500 euro.". 
+ 3) al comma 15, dopo le parole "Poste italiane S.p.a." sono aggiunte le seguenti: " istituti di moneta elettronica e istituti di pagamento". 
+
+                                
+                            
+                            
+                                q)
+                                
+                                    all'articolo 53, comma 1, le parole: "intermediari finanziari di cui all'articolo 11, comma 1, lettera c-bis), autorizzati ai sensi dell'articolo 114-novies, comma 4, del decreto legislativo 1° settembre 1993, n. 385, e all'articolo 11, comma 1, lettera m), possono essere eseguiti, previe intese" sono sostituite dalle seguenti: "intermediari finanziari di cui all'articolo 11, comma 1, lettere c-bis), m) ed m-bis), e di cui al combinato disposto delle lettere c-bis) ed n) del medesimo comma, nonche' nei confronti dei revisori legali e delle societa' di revisione di cui all'articolo 13, comma 1, lettera a), possono essere eseguiti, previa intesa"; 
+
+                                
+                            
+                            
+                                r)
+                                
+                                    all'articolo 55, dopo il comma 9, sono aggiunti, in fine, i seguenti: "9-bis. Per le violazioni delle disposizioni di cui all'articolo 131-ter del decreto legislativo 1° settembre 1993, n. 385, nonche' per le gravi e reiterate violazioni delle disposizioni di cui ai commi 1 e 4 del presente articolo e' ordinata, nei confronti degli agenti in attivita' finanziaria che prestano servizi di pagamento attraverso il servizio di rimessa di denaro di cui all'articolo 1, comma 1, lettera n), del decreto legislativo 27 gennaio 2010, n. 11, la confisca degli strumenti che sono serviti a commettere il reato; 
+ 9-ter. Gli strumenti sequestrati ai fini della confisca di cui al comma 9-bis nel corso delle operazioni di polizia giudiziaria, sono affidati dall'Autorita' giudiziaria agli organi di polizia che ne facciano richiesta."; 
+
+                                
+                            
+                            
+                                t)
+                                
+                                    all'articolo 56, comma 2, le parole: "L'autorita' di vigilanza di settore dei soggetti indicati dall'articolo 11, commi 1, lettere m) e m-bis), e 3, lettere c) e d), attiva i procedimenti di cancellazione dai relativi elenchi per gravi violazioni degli obblighi imposti dal presente decreto" sono sostituite dalle seguenti: "Gli Organismi di cui agli articoli 112-bis, 113, comma 4, e 128-undecies del decreto legislativo 1° settembre 1993, n. 385, attivano i procedimenti di cancellazione dai relativi elenchi per gravi violazioni degli obblighi imposti dal presente decreto, sulla base degli esiti dei controlli indicati nell'articolo 53, comma 2.
+Nei casi indicati nel periodo precedente, nei confronti dei soggetti iscritti nell'elenco di cui all'articolo 111 del decreto legislativo 1° settembre 1993, n. 385, i procedimenti di cancellazione sono attivati dalla Banca d'Italia fino alla costituzione dell'Organismo."; 
+
+                                
+                            
+                            
+                                u)
+                                
+                                    all'articolo 56, dopo il comma 2, e' inserito il seguente:
+"2-bis. Quando, a seguito dei controlli effettuati ai sensi dell'articolo 53, comma 2, nei confronti degli agenti di cui all'articolo 128-quater, comma 7, del TUB, siano accertate gravi violazioni degli obblighi imposti dal presente decreto si applica l'articolo 128-duodecies, comma 1-bis."; 
+
+                                
+                            
+                            
+                                v)
+                                
+                                    all'articolo 56, dopo il comma 5, e' aggiunto il seguente: " 5-bis. La sanzione prevista dal comma 1 e' irrogata, con proprio decreto, dal Ministero dell'economia e delle finanze per i soggetti di cui all'articolo 11, comma 1, lettera i), e comma 2, lettera c), dal Ministero dello sviluppo economico per i soggetti di cui all'articolo 11, comma 2, lettera a). Si applicano, in quanto compatibili, le disposizioni della legge 24 novembre 1981, n. 689."; 
+
+                                
+                            
+                            
+                                z)
+                                
+                                    all'articolo 58, comma 1, dopo le parole "all'articolo 49, commi 1," e' aggiunta la seguente: "1-bis"; 
+
+                                
+                            
+                            
+                                aa)
+                                
+                                    all'articolo 58, il comma 2 e' sostituito dal seguente: " 2.
+La violazione della prescrizione di cui all'articolo 49, comma 12, e' punita con la sanzione amministrativa pecuniaria dal 30 al 40 per cento del saldo del libretto al portatore."; 
+
+                                
+                            
+                            
+                                bb)
+                                
+                                    all'articolo 58, il comma 3 e' sostituito dal seguente: "3.
+La violazione della prescrizione contenuta nell'articolo 49, commi 13 e 14, e' punita con la sanzione amministrativa pecuniaria dal 30 al 40 per cento del saldo del libretto al portatore."; 
+
+                                
+                            
+                            
+                                cc)
+                                
+                                    all'articolo 58 il comma 4 e' abrogato; 
+
+                                
+                            
+                            
+                                dd)
+                                
+                                    all'articolo 58 il comma 7-bis e' sostituito dal seguente: 
+ "7-bis. Per le violazioni previste dai commi 1, 1-bis, 2, 3, 5, 6 e 7, la sanzione amministrativa pecuniaria non puo' comunque essere inferiore nel minimo all'importo di tremila euro. Per le violazioni di cui al comma 1 che riguardano importi superiori a cinquantamila euro la sanzione minima e' aumentata di cinque volte. Per le violazioni di cui ai commi 2 e 3 che riguardano importi superiori a cinquantamila euro le sanzioni minima e massima sono aumentate del cinquanta per cento. Per le violazioni di cui al comma 3 che riguardano libretti al portatore con saldo inferiore a 3.000 euro la sanzione e' pari al saldo del libretto stesso."; 
+
+                                
+                            
+                            
+                                ee)
+                                
+                                    all'articolo 60, dopo il comma 2, e' inserito il seguente: 
+ "2-bis. Avverso il decreto di cui al comma 2 del presente articolo, emesso per l'irrogazione delle sanzioni previste dall'articolo 57, puo' essere proposta opposizione, ai sensi dell'articolo 22 della legge 24 novembre 1981, n. 689, secondo la procedura e i termini stabiliti dall'articolo 6 del decreto legislativo 1° settembre 2011, n. 150. E' competente in via esclusiva il Tribunale di Roma."; 
+
+                                
+                            
+                            
+                                ff)
+                                
+                                    all'articolo 63 dopo il comma 6 sono inseriti i seguenti:  " 6-bis. All'articolo 3, comma 2, del decreto legislativo 22 giugno 2007, n. 109, le parole: "11 membri", sono sostituite dalle seguenti: "12 membri". 
+ 6-ter. All'articolo 3, comma 3, del decreto legislativo 22 giugno 2007, n 109, le parole: "e dall'Ufficio italiano dei cambi" sono sostituite dalle seguenti: "dall'Unita' di informazione finanziaria", e dopo le parole: "Agenzia del Demanio" e' inserito il seguente periodo: "Il Comitato e' altresi' integrato da due rappresentanti designati, rispettivamente, dal Ministero dello sviluppo economico e dall'Agenzia delle Dogane ai fini dello svolgimento dei compiti relativi al contrasto della proliferazione delle armi di distruzione di massa. 
+ 6-quater. Agli articoli 6, 7, 10 e 11 e nella rubrica dell'articolo 10 del decreto legislativo 22 giugno 2007, n 109, le parole: "Ufficio italiano dei cambi" sono sostituite dalle seguenti: "Unita' di informazione finanziaria".
+
 Fino all'iscrizione nell'albo o negli elenchi previsti dai titoli III e IV del presente decreto ai soggetti iscritti negli elenchi di cui all'articolo 10, commi 1 e 2, e all'articolo 26, comma 1, continuano ad applicarsi le disposizioni del decreto legislativo 21 novembre 2007, n. 231, vigenti alla data del 4 settembre 2010.
 
 I commi 5 e 7 dell'articolo 49 del decreto legislativo 21 novembre 2007, n. 231, si interpretano nel senso che costituiscono violazione l'emissione, il trasferimento e la presentazione all'incasso di assegni bancari e postali, di assegni circolari, vaglia postali e cambiari privi dell'indicazione del nome o della ragione sociale del beneficiario e della clausola di non trasferibilita' per importi pari o superiori al limite previsto dal comma 1, primo periodo. Il comma 6 dell'articolo 49 del decreto legislativo 21 novembre 2007, n. 231, si interpreta nel senso che il trasferimento e la presentazione all'incasso di assegni bancari e postali emessi all'ordine del traente da parte di soggetto diverso, costituiscono violazione. 
@@ -1303,6 +2214,38 @@ I commi 5 e 7 dell'articolo 49 del decreto legislativo 21 novembre 2007, n. 231,
  Il D.Lgs. 14 dicembre 2010, n. 218 ha disposto (con l'art. 16, comma 8) che "Le disposizioni modificate, introdotte o sostituite dal presente decreto si applicano a decorrere dalla data di entrata in vigore dei corrispondenti articoli del decreto legislativo 13 agosto 2010, n. 141. I termini di conclusione dei procedimenti amministrativi, stabiliti da norme di legge o di regolamento, pendenti alla data del 19 settembre 2010, sono prorogati fino a 120 giorni successivi alla data di entrata in vigore del presente decreto".
 
 ## Art. 28. — Abrogazioni e norme finali
+
+1.
+                        
+                            
+                                Fino alla data di entrata in vigore delle disposizioni di attuazione del Titolo VI-bis del decreto legislativo 1° settembre 1993, n. 385, e del titolo IV del presente decreto, ovvero se posteriore, fino alla costituzione dell'Organismo, continuano ad applicarsi le seguenti disposizioni e le relative norme di attuazione: 
+ 
+                            
+                            
+                                a)
+                                
+                                    l'articolo 3 del decreto legislativo 25 settembre 1999, n. 374, e il decreto del Ministro dell'economia e delle finanze 13 dicembre 2001, n. 485; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'articolo 16 della legge 7 marzo 1996, n. 108, ad eccezione del comma 9, e il decreto del Presidente della Repubblica del 28 luglio 2000, n. 287; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    l'articolo 5, commi 2 e 3, del decreto legislativo 26 maggio 1997, n. 153, per la parte in cui si riferiscono agli agenti in attivita' finanziaria; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    l'articolo 17 della legge 28 dicembre 2005, n. 262.
 
 ((
 
@@ -1359,6 +2302,24 @@ Visto, il Guardasigilli: Alfano
 
 ((
 
+1.
+                        
+                            
+                                Ai fini del presente decreto legislativo per furto d'identita' si intende: 
+ 
+                            
+                            
+                                a)
+                                
+                                    l'impersonificazione totale: occultamento totale della propria identita' mediante l'utilizzo indebito di dati relativi all'identita' e al reddito di un altro soggetto. L'impersonificazione puo' riguardare l'utilizzo indebito di dati riferibili sia ad un soggetto in vita sia ad un soggetto deceduto; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'impersonificazione parziale: occultamento parziale della propria identita' mediante l'impiego, in forma combinata, di dati relativi alla propria persona e l'utilizzo indebito di dati relativi ad un altro soggetto, nell'ambito di quelli di cui alla lettera a).
+
 ))
 
 ## Art. 30-ter. — Sistema di prevenzione
@@ -1406,6 +2367,31 @@ Nell'ambito del sistema di prevenzione opera, senza nuovi o maggiori oneri per i
 
 ## Art. 30-quater. — Finalita' e struttura dell'archivio
 
+1.
+                        
+                            
+                                L'archivio e' composto da tre strumenti informatici: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il primo, denominato interconnessione di rete, consente di dare seguito alle richieste di verifica inviate dagli aderenti mediante il riscontro con i dati di cui all'articolo 30-quinquies, detenuti nelle banche dati degli organismi pubblici e privati; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il secondo, denominato modulo informatico centralizzato, memorizza, in forma aggregata ed anonima, i casi il cui riscontro ha evidenziato la non autenticita' di una o piu' categorie di dati presenti nella richiesta di verifica e permette al titolare dell'archivio e al gruppo di lavoro di cui all'articolo 30-ter, comma 9, lo studio del fenomeno delle frodi, ai fini dell'esercizio della prevenzione, anche mediante la predisposizione e pubblicazione periodica di specifiche linee guida, sul piano amministrativo, nel settore del credito al consumo e dei pagamenti dilazionati o differiti,nonche' nel settore delle assicurazioni Per le finalita' di cui alla presente lettera, il titolare dell'archivio si avvale anche delle elaborazioni dei dati contenuti nell'archivio informatizzato istituito ai sensi dell'articolo 1, comma 4, della legge 17 agosto 2005, n. 166; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il terzo, denominato modulo informatico di allerta, memorizza le informazioni trasmesse dagli aderenti relative alle frodi subite o ai casi che configurano un rischio di frodi nei settori del credito, dei servizi di comunicazione elettronica o interattivi e delle assicurazioni, nonche' le segnalazioni di specifiche allerta preventive trasmesse dal titolare dell'archivio agli aderenti. Tali informazioni sono conservate nell'archivio per il tempo necessario agli aderenti ad accertare l'effettiva sussistenza del rischio di frodi.
+
 L'Arma dei carabinieri, il Corpo della guardia di finanza e la Polizia di Stato possono accedere, a titolo gratuito, al sistema di prevenzione. ((L'accesso a titolo gratuito e' assicurato anche ai gestori dell'identita' digitale di cui all'articolo 64 del decreto legislativo 7 marzo 2005, n. 82 per le verifiche propedeutiche al rilascio delle credenziali di accesso relative al sistema SPID.))
 
 I risultati di specifico interesse sono comunicati, secondo le modalita' stabilite dal decreto di cui all'articolo 30-octies del presente decreto legislativo, agli uffici del Dipartimento della pubblica sicurezza del Ministero dell'interno competenti in materia di analisi dei fenomeni criminali e di cooperazione, anche internazionale, di polizia per l'esercizio delle funzioni di cui agli articoli 4, 6 e 7 della legge 1° aprile 1981, n. 121, nonche', ove rilevanti, all'Unita' di informazione finanziaria della Banca d'Italia e al Nucleo speciale di polizia valutaria della Guardia di finanza.
@@ -1413,6 +2399,31 @@ I risultati di specifico interesse sono comunicati, secondo le modalita' stabili
 Allo scopo di rafforzare il sistema di prevenzione, il titolare dell'archivio, anche ai fini dell'approfondimento delle segnalazioni di cui all'articolo 30-ter, comma 7, ultimo periodo, puo' avvalersi della collaborazione del Nucleo speciale di polizia valutaria della Guardia di finanza, che agisce con i poteri e le facolta' previsti dall'articolo 2 del decreto legislativo 19 marzo 2001, n. 68, utilizzando, nell'ambito delle risorse umane, strumentali e finanziarie disponibili a legislazione vigente, strutture e personale esistenti in modo da non determinare oneri aggiuntivi.
 
 ## Art. 30-quinquies. — Dati oggetto di riscontro
+
+1.
+                        
+                            
+                                Sono assoggettabili a riscontro, con i dati detenuti da organismi pubblici e privati, i dati relativi a persone fisiche che richiedono una dilazione o un differimento di pagamento, un finanziamento o altra analoga facilitazione finanziaria, ((nonche' una prestazione di carattere assicurativo,)) contenuti nelle fonti elencate dalle lettere da 
+                            
+                            
+                                a)
+                                
+                                    a c): 
+ a) documenti di identita' e di riconoscimento, comunque denominati o equipollenti, ancorche' smarriti o rubati; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    partite IVA, codici fiscali e documenti che attestano il reddito esclusivamente per le finalita' perseguite dal presente decreto legislativo; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    posizioni contributive previdenziali ed assistenziali.
 
 Allo scopo di garantire il perseguimento delle finalita' del presente decreto legislativo, gli organismi pubblici e privati che detengono i dati di cui al comma 1, lettere a), b) e c), devono renderli disponibili ((, a titolo gratuito,)) nelle modalita' e nei termini previsti dal decreto di cui all'articolo 30-octies.
 
@@ -1434,6 +2445,31 @@ Con decreto del Ministro dell'economia e delle finanze, sentito il parere del gr
 La quota delle somme introitate dall'ente gestore e non destinata a garantire le spese di progettazione e di realizzazione dell'archivio, nonche' il costo pieno del servizio svolto dall'ente gestore, viene versata annualmente, dal medesimo ente, all'entrata del bilancio dello Stato, per essere riassegnata ad apposito programma dello stato di previsione del Ministero dell'economia e delle finanze, da destinare alla prevenzione dei reati finanziari.
 
 ## Art. 30-octies. — Termini, modalita' e condizioni per la gestione del sistema di prevenzione
+
+1.
+                        
+                            
+                                Con decreto del Ministro dell'economia e delle finanze, da adottare entro sei mesi dalla data di entrata in vigore della presente disposizione: 
+ 
+                            
+                            
+                                a)
+                                
+                                    sono specificati la struttura e i livelli di accesso all'archivio, i singoli elementi identificativi dei dati contenuti nelle fonti elencate dalle lettere da a) a c), da comunicare ai sensi dell'articolo 30-quinquies; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    sono stabilite le modalita' relative al collegamento informatico dell'archivio con le banche dati degli organismi pubblici e privati che detengono i dati di cui all'articolo 30-quinquies; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    sono fissati l'importo del contributo di cui all'articolo 30-sexies, comma 2, nonche' i criteri di determinazione e le modalita' di riscossione del medesimo.
 
 Lo schema del decreto di cui al comma 1 viene trasmesso al Garante per la protezione dei dati personali affinche' esprima il proprio parere entro venti giorni dalla trasmissione.
 

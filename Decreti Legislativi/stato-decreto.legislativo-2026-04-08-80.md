@@ -7,8 +7,8 @@ urn: urn:nir:stato:decreto.legislativo:2026-04-08;80
 vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:33Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -36,7 +36,57 @@ Il Ministero dell'ambiente e della sicurezza energetica e il Ministero dell'agri
 
 Il Ministero dell'ambiente e della sicurezza energetica, nell'ambito delle funzioni di cui al comma 1, e' autorita' nazionale competente per l'applicazione di quanto previsto dagli articoli 4, 6, 8 e 9 del regolamento (UE) 2024/1991.
 
+3.
+                    
+                        
+                            Il Ministero dell'ambiente e della sicurezza energetica e', altresi', autorita' nazionale competente, in coordinamento con il Ministero dell'agricoltura, della sovranita' alimentare e delle foreste, per l'applicazione degli articoli 5, 10 e 13 del regolamento (UE) 2024/1991 per gli aspetti relativi a: 
+ 
+                        
+                        
+                            a)
+                            
+                                la tutela della biodiversita' e il recupero delle condizioni ambientali degli ecosistemi marini da ripristinare, come previsto dall'articolo 5 del regolamento (UE) 2024/1991; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                la tutela e il ripristino delle popolazioni di impollinatori, come previsto dall'articolo 10 del regolamento (UE) 2024/1991; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                il contributo nazionale alla messa a dimora di nuovi alberi a livello dell'Unione europea, al fine di conseguire gli obiettivi e ottemperare agli obblighi di cui agli articoli 4, 8, 9 e 10 del regolamento (UE) 2024/1991, come previsto dall'articolo 13 del medesimo regolamento.
+
 Il Ministero dell'agricoltura, della sovranita' alimentare e delle foreste, nell'ambito delle funzioni di cui al comma 1, e' autorita' nazionale competente, in coordinamento con le regioni e provincie autonome, per l'applicazione di quanto previsto dagli articoli 11 e 12 del regolamento (UE) 2024/1991.
+
+5.
+                    
+                        
+                            Il Ministero dell'agricoltura, della sovranita' alimentare e delle foreste e', altresi', autorita' nazionale competente, in coordinamento con il Ministero dell'ambiente e della sicurezza energetica, per l'applicazione degli articoli 5, 10 e 13 del regolamento (UE) 2024/1991 per gli aspetti relativi a: 
+ 
+                        
+                        
+                            a)
+                            
+                                la pesca e l'acquacoltura nell'ambito del ripristino degli ecosistemi marini, come previsto dall'articolo 5 del regolamento (UE) 2024/1991, assicurando coerenza con la politica comune della pesca dell'Unione europea; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                i rapporti tra agricoltura e ambiente nell'ambito del ripristino delle popolazioni di impollinatori, come previsto dall'articolo 10 del regolamento (UE) 2024/1991; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                il contributo nazionale alla messa a dimora di nuovi alberi a livello dell'Unione europea al fine di conseguire gli obiettivi e ottemperare agli obblighi di cui agli articoli 10, 11 e 12 del regolamento (UE) 2024/1991, come previsto dall'articolo 13 del medesimo regolamento.
 
 ## Art. 3. — Piano nazionale di ripristino
 
@@ -61,7 +111,113 @@ I comuni, le citta' metropolitane e le province sono responsabili per l'attuazio
 
 Le amministrazioni di cui ai commi 2, 3, 4 e 5, nell'attuazione delle misure di cui agli articoli 4, 8, 9, 10, 11 e 12 del regolamento (UE) 2024/1991, contribuiscono all'impegno di piantare nuovi alberi secondo quanto previsto dall'articolo 13 del medesimo regolamento.
 
+7.
+                    
+                        
+                            Le amministrazioni di cui ai commi 1, 2, 3, 4 e 5, per quanto di rispettiva competenza, assicurano, altresi', lo svolgimento delle attivita' relative a: 
+ 
+                        
+                        
+                            a)
+                            
+                                il monitoraggio, come previsto dall'articolo 20 del regolamento (UE) 2024/1991; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                la trasmissione alle autorita' nazionali competenti di cui all'articolo 2 del presente decreto delle informazioni necessarie per le comunicazioni alla Commissione europea, come previsto dall'articolo 21 del regolamento (UE) 2024/1991.
+
 ## Art. 5. — Tavolo di indirizzo e coordinamento strategico
+
+1.
+                    
+                        
+                            E' costituito, presso il Ministero dell'ambiente e della sicurezza energetica, un Tavolo di indirizzo e coordinamento strategico, composto dai seguenti membri: 
+ 
+                        
+                        
+                            a)
+                            
+                                un rappresentante del Ministero dell'ambiente e della sicurezza energetica, con funzioni di presidente; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                un rappresentante del Ministero dell'agricoltura, della sovranita' alimentare e delle foreste; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                un rappresentante del Ministero della cultura; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                un rappresentante del Ministero delle infrastrutture e dei trasporti; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                un rappresentante del Ministero della difesa; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                un rappresentante del Ministero delle imprese e del made in Italy; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                un rappresentante del Ministero della salute; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                un rappresentante del Ministero del turismo; 
+
+                            
+                        
+                        
+                            i)
+                            
+                                un rappresentante della Presidenza del Consiglio dei ministri, ovvero del Ministro per gli affari regionali e le autonomie, ove nominato; 
+
+                            
+                        
+                        
+                            l)
+                            
+                                un rappresentante della Presidenza del Consiglio dei ministri, ovvero del Ministro per la protezione civile e le politiche del mare, ove nominato; 
+
+                            
+                        
+                        
+                            m)
+                            
+                                un rappresentante della Commissione Politiche Agricole e uno della Commissione CAES della Conferenza delle Regioni e delle Province autonome; 
+
+                            
+                        
+                        
+                            n)
+                            
+                                un rappresentante dei Comuni e delle Citta' metropolitane individuato dall'Associazione Nazionale dei Comuni Italiani (ANCI).
 
 Il Tavolo di cui al comma 1 si riunisce con cadenza annuale e assicura il necessario indirizzo e coordinamento tra le amministrazioni coinvolte ai fini della corretta attuazione delle disposizioni del regolamento (UE) 2024/1991 e del coinvolgimento dei soggetti a vario titolo interessati.
 

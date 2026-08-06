@@ -8,8 +8,8 @@ codice_redazionale: 010G0012
 vigente: true
 source: normattiva-opendata
 collection: DPR
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:47:47Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -30,8 +30,58 @@ Sulla proposta del Ministro dell'interno, di concerto con i Ministri per la pubb
 ## Art. 1. — Modifiche all'assetto organizzativo del Dipartimento 
  per gli affari interni e territoriali
 
+1.
+                    
+                        
+                            All'articolo 3 del decreto del Presidente della Repubblica 7 settembre 2001, n. 398, e successive modificazioni, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                il comma 2 e' sostituito dal seguente: 
+ «2. Il Dipartimento per gli affari interni e territoriali e' articolato nelle seguenti direzioni: 
+ a) Direzione centrale per gli uffici territoriali del Governo e per le autonomie locali; 
+ b) Direzione centrale dei servizi elettorali; 
+ c) Direzione centrale della finanza locale; 
+ d) Direzione centrale per i servizi demografici.»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                il comma 3 e' sostituito dal seguente: 
+ «3. Il Dipartimento per gli affari interni e territoriali e' diretto da un Capo Dipartimento e ad esso sono assegnati un Vice Capo Dipartimento per l'espletamento delle funzioni vicarie e un altro Vice Capo Dipartimento al quale e' anche affidata la responsabilita' della Direzione centrale per gli uffici territoriali del Governo e per le autonomie locali. Il Capo del Dipartimento puo' delegare ai Vice Capi, di volta in volta o in via generale, specifiche attribuzioni.».
+
 ## Art. 2. — Modifiche all'assetto organizzativo del Dipartimento 
  per le liberta' civili e l'immigrazione
+
+1.
+                    
+                        
+                            All'articolo 5 del decreto del Presidente della Repubblica 7 settembre 2001, n. 398, e successive modificazioni, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 1, la lettera c) e' sostituita dalla seguente: «c) la cittadinanza, le minoranze e le zone di confine;»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 1, la lettera d) e' sostituita dalla seguente: «d) le confessioni religiose, fatto salvo quanto previsto dall'articolo 2, comma 2, lettera e), del decreto legislativo 30 luglio 1999, n. 303, e l'Amministrazione del patrimonio del Fondo edifici di culto.»; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                il comma 5 e' sostituito dal seguente: 
+ «5. Nell'ambito del Dipartimento opera, altresi', la Commissione nazionale per il diritto di asilo di cui al decreto legislativo 28 gennaio 2008, n. 25.».
 
 ## Art. 3. — Modifiche all'assetto organizzativo del Dipartimento per le politiche del personale dell'Amministrazione civile e per le risorse strumentali e finanziarie
 

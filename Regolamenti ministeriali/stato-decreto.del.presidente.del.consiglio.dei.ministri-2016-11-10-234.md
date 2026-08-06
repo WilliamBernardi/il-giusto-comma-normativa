@@ -7,8 +7,8 @@ urn: urn:nir:stato:decreto.del.presidente.del.consiglio.dei.ministri:2016-11-10;
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:39Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DEL CONSIGLIO DEI MINISTRI
@@ -65,6 +65,31 @@ Quando il Giudice, sulla base dell'atto informativo di cui al comma 1 e degli ac
 Quando il Giudice rilascia l'autorizzazione di cui al comma 1, indica il soggetto che anche temporaneamente esercita i poteri tutelari, nel rispetto di quanto previsto dall'articolo 19, comma 6, del decreto legislativo 18 agosto 2015, n. 142; il Giudice individua, altresi', la struttura sanitaria pubblica dotata di equipe multidisciplinare pediatrica presso la quale svolgere la procedura di cui all'articolo 5, avvalendosi, ove redatto, di un elenco di strutture idonee indicate dalle regioni o dalle province autonome e dettando le conseguenti disposizioni.
 
 ## Art. 4. — Diritto all'informazione
+
+1.
+                    
+                        
+                            Il presunto minore e' preventivamente informato, da personale qualificato della struttura sanitaria designata ai sensi dell'articolo 3, comma 4, circa il fatto che si procedera' a determinare la sua eta' mediante ricorso alle attivita' di accertamento di cui all'articolo 5. L'informazione e' data in una lingua a lui comprensibile e in conformita' al suo grado di maturita' e livello di alfabetizzazione, anche mediante materiale di supporto multilingua e, ove necessario, con l'ausilio di un mediatore culturale. In ogni caso, il presunto minore e' informato: 
+ 
+                        
+                        
+                            a)
+                            
+                                del fatto che la sua eta' sara' determinata mediante una procedura multidisciplinare che puo' comportare accertamenti sanitari; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                delle attivita' in cui si articola tale procedura, di quali siano i risultati attesi e di quali siano le conseguenze; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                del diritto a formulare ragioni di opposizione allo svolgimento di taluno degli accertamenti sanitari di cui all'articolo 5.
 
 Le informazioni di cui al comma 1 sono fornite in presenza del tutore, o della persona che esercita anche temporaneamente i poteri tutelari, che assiste il presunto minore anche nella eventuale formulazione di ragioni di opposizione ai sensi della lettera c).
 

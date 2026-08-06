@@ -7,8 +7,8 @@ urn: urn:nir:stato:decreto.del.presidente.della.repubblica:2015-09-17;201
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti governativi
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:10Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -227,6 +227,49 @@ Nell'ambito dei predetti aeroporti di interesse nazionale, rivestono una partico
                                 
                                 
                                     Cagliari
+
+3.
+                    
+                        
+                            Nell'ambito degli aeroporti di cui al comma 2, rivestono il ruolo di gate intercontinentali, per la loro capacita' di rispondere alla domanda di ampi bacini di traffico ed il loro elevato grado di connettivita' con le destinazioni europee ed internazionali, i seguenti aeroporti: 
+ 
+                        
+                        
+                            a)
+                            
+                                Roma Fiumicino, primario hub nazionale; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                Milano Malpensa; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                Venezia.
+
+4.
+                    
+                        
+                            Gli aeroporti di interesse nazionale, ad esclusione di quelli di particolare rilevanza strategica individuati dal presente decreto, rispettano le seguenti condizioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                l'aeroporto e' in grado di esercitare un ruolo ben definito all'interno del bacino, con una specializzazione dello scalo e una riconoscibile vocazione dello stesso, funzionale al sistema aeroportuale di bacino da incentivare; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                l'aeroporto e' in grado di dimostrare, tramite un piano industriale, corredato da un piano economico-finanziario, il raggiungimento dell'equilibrio economico-finanziario anche tendenziale e di adeguati indici di solvibilita' patrimoniale, almeno su un triennio.
 
 L'aeroporto di Torino e' considerato di particolare rilevanza strategica a condizione che realizzi, in relazione alle interconnessioni ferroviarie AV/AC tra le citta' di Torino e Milano, un sistema di alleanze con l'aeroporto intercontinentale di Milano Malpensa, finalizzato a generare sinergie di sviluppo reciproco e dell'intero bacino del Nord Ovest.
 

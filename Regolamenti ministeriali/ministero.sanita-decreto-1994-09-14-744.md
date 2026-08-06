@@ -8,8 +8,8 @@ codice_redazionale: 095G0006
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:41Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -24,6 +24,52 @@ Udito il parere del Consiglio di Stato, espresso nell'adunanza generale del 4 lu
 ## Art. 1.
 
 E' individuata la figura professionale del dietista con il seguente profilo: il dietista e' l'operatore sanitario, in possesso del diploma universitario abilitante, competente per tutte le attivita' finalizzate alla corretta applicazione dell'alimentazione e della nutrizione ivi compresi gli aspetti educativi e di collaborazione all'attuazione delle politiche alimentari, nel rispetto della normativa vigente.
+
+2.
+                    
+                        
+                            Gli specifici atti di competenza del dietista sono:
+ 
+                        
+                        
+                            a)
+                            
+                                organizza e coordina le attivita' specifiche relative all'alimentazione in generale e alla dietetica in particolare;
+
+                            
+                        
+                        
+                            b)
+                            
+                                collabora con gli organi preposti alla tutela dell'aspetto igienico sanitario del servizio di alimentazione;
+
+                            
+                        
+                        
+                            c)
+                            
+                                elabora, formula ed attua le diete prescritte dal medico e ne controlla l'accettabilita' da parte del paziente;
+
+                            
+                        
+                        
+                            d)
+                            
+                                collabora con altre figure al trattamento multidisciplinare dei disturbi del comportamento alimentare;
+
+                            
+                        
+                        
+                            e)
+                            
+                                studia ed elabora la composizione di razioni alimentari atte a soddisfare i bisogni nutrizionali di gruppi di popolazione e pianifica l'organizzazione dei servizi di alimentazione di comunita' di sani e di malati;
+
+                            
+                        
+                        
+                            f)
+                            
+                                svolge attivita' didattico-educativa e di informazione finalizzate alla diffusione di principi di alimentazione corretta tale da consentire il recupero e il mantenimento di un buono stato di salute del singolo, di collettivita' e di gruppi di popolazione.
 
 Il dietista svolge la sua attivita' professionale in strutture pubbliche o private, in regime di dipendenza o libero-professionale.
  AVVERTENZA:

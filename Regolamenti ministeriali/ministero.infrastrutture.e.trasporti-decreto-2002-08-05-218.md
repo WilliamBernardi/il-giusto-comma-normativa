@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
 vigenza_date: 2006-03-12
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:41Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -39,6 +39,73 @@ Udito il parere del Consiglio di Stato, espresso dalla sezione consultiva per gl
 Il presente regolamento disciplina le norme di sicurezza da applicarsi alle navi che esercitano la pesca costiera, ravvicinata e locale, ((nonche' alle navi e galleggianti di 5ª categoria destinati stabilmente al servizio di impianti di pesca,)) cosi' come definite dall'articolo 9 del decreto del Presidente della Repubblica 2 ottobre 1968 n. 1639, modificato dall'articolo 2, comma 1, del decreto-legge 30 settembre 1994, n. 561, citato in premessa, fatto salvo quanto previsto dal decreto legislativo 18 dicembre 1999, n. 541, per le navi da pesca di lunghezza uguale o superiore a 24 metri sia nuove che esistenti, nella misura in cui a queste ultime si applica tale normativa.
 
 ## Art. 2. — Definizioni
+
+1.
+                        
+                            
+                                I termini utilizzati nel presente decreto devono intendersi secondo le definizioni riportate nell'articolo 9 del decreto del Presidente della Repubblica 2 ottobre 1968, n. 1639, "Regolamento per l'esecuzione della legge 14 luglio 1965, n. 963, concernente la disciplina della pesca marittima" e nell'articolo 1 del decreto del Presidente della Repubblica 8 novembre 1991, n. 435, "Approvazione del regolamento per la sicurezza della navigazione e della vita umana in mare", salvo i seguenti termini per i quali si intende per:
+ 
+                            
+                            
+                                a)
+                                
+                                    "lunghezza": il 96% della lunghezza totale al galleggiamento, posto all'85% della piu' piccola altezza misurata dalla linea di chiglia, oppure la lunghezza misurata dalla faccia prodiera del dritto di prora all'asse di rotazione del timone al predetto galleggiamento, se questo valore e' superiore. Nelle navi progettate con un'inclinazione di chiglia, il galleggiamento al quale e' misurata la lunghezza deve essere parallelo al galleggiamento di progetto;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    "Convenzione Torremolinos": la convenzione internazionale sulla sicurezza delle navi da pesca, adottata a Torremolinos il 2 aprile 1977, alla quale e' stata data adesione con legge 2 maggio 1983, n. 293;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    "Protocollo Torremolinos": il protocollo alla convenzione di Torremolinos del 1977, adottato il 2 aprile 1993, al quale e' stata data adesione con legge 17 dicembre 1999, n. 511;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    "Tipo approvato": la conformita' alle prescrizioni del decreto del Presidente della Repubblica 6 ottobre 1999, n. 407 "Regolamento di attuazione delle direttive 96/98/CE e 98/85/CE";
+
+                                
+                            
+                            
+                                e)
+                                
+                                    "Nave da pesca nuova": una nave da pesca per la quale a decorrere dal 1 gennaio 1999 incluso sia stato stipulato il contratto di costruzione o il contratto per una rilevante trasformazione, oppure il contratto di costruzione o di rilevante trasformazione sia stato stipulato anteriormente al 1 gennaio 1999 e la nave sia stata consegnata tre anni o piu' dopo tale data, oppure in mancanza di un contratto di costruzione a decorrere dal 1 gennaio 1999 incluso sia stata impostata la chiglia, o sia iniziata la costruzione identificabile con una nave particolare, o sia iniziato il montaggio con l'impiego di almeno 50 tonnellate o dell'uno per cento della massa stimata di tutti i materiali di struttura, se quest'ultimo valore e' inferiore;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    "Nave da pesca esistente": una nave da pesca che non sia una nave nuova;
+
+                                
+                            
+                            
+                                g)
+                                
+                                    "Amministrazione": il comando generale del Corpo delle capitanerie di porto;
+
+                                
+                            
+                            
+                                h)
+                                
+                                    "Organismo notificato": un organismo come definito dall'articolo 1, lettera g), del decreto del Presidente della Repubblica 6 ottobre 1999, n. 407;
+
+                                
+                            
+                            
+                                i)
+                                
+                                    "EPIRB": acronimo di Emergency Position Indicating Radio Beacon, cioe' radiofaro di indicazione della posizione di emergenza, utilizzato per la localizzazione dei naufraghi.
 
 ## Art. 3. — Campo di applicazione
 
@@ -73,6 +140,38 @@ Sulle navi sottoposte a riparazioni, modifiche o trasformazioni, le nuove sistem
 L'Amministrazione, se ritiene che le condizioni dell'attivita' di pesca e quelle specifiche delle zone in cui essa si esplica siano tali da rendere non ragionevole o non necessaria l'applicazione di prescrizioni del presente regolamento, puo' esonerare dalle prescrizioni stesse singole navi o categorie di navi.
 
 ## Art. 8. — Imbarco di ricercatori
+
+1.
+                        
+                            
+                                Il capo del compartimento marittimo puo' autorizzare l'imbarco del personale indicato dall'articolo 28 del decreto del Presidente della Repubblica 2 ottobre 1968, n. 1639, come modificato dal decreto del Presidente della Repubblica 9 giugno 1976, n. 1057, in numero non superiore a dodici, a condizione che:
+ 
+                            
+                            
+                                a)
+                                
+                                    non venga superato il numero massimo delle persone imbarcabili, quale risulta dai documenti della nave, o quello fissato, a detti fini, su parere dell'ente tecnico, tenuto conto delle condizioni di stabilita' della nave stessa;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    per ogni persona per la quale viene consentito l'imbarco esistano mezzi di salvataggio collettivi ed individuali nella stessa misura di quelli prescritti per l'equipaggio;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    nel caso di pernottamento a bordo delle persone per le quali viene consentito l'imbarco a norma del presente articolo esistano sistemazioni d'alloggio di caratteristiche pari a quelle dell'equipaggio;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    i lavori e le ricerche da eseguire in navigazione non costituiscano fonte di pericolo per le persone e per la sicurezza della navigazione stessa ovvero non rendano difficile l'effettuazione dei servizi di bordo.
 
 ## Art. 9. — Navigazione oltre i limiti di abilitazione della nave
 
@@ -181,7 +280,68 @@ E' vietata l'installazione di nuovi impianti fissi a idrocarburi alogenati adibi
 
 ## Art. 17. — Segnali di soccorso
 
+1.
+                        
+                            
+                                Le navi abilitate alla pesca costiera ravvicinata e alla pesca costiera locale estesa fino a 12 miglia dalla costa devono essere dotate dei seguenti segnali di soccorso da conservare sul ponte di comando, in apposito contenitore stagno:
+ 
+                            
+                            
+                                a)
+                                
+                                    6 razzi a paracadute a luce rossa;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    3 segnali a luce rossa.
+
+2.
+                        
+                            
+                                Le navi abilitate alla pesca costiera locale devono essere dotate dei seguenti segnali di soccorso, da conservare in apposito contenitore stagno:
+ 
+                            
+                            
+                                a)
+                                
+                                    4 razzi a paracadute a luce rossa;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    2 segnali a luce rossa.
+
 ## Art. 18. — Stabilita'
+
+1.
+                        
+                            
+                                Le navi devono essere sottoposte a prova di stabilita' da eseguirsi, sotto il controllo dell'ente tecnico, con prova pratica al fine di accertare i dati di stabilita' della nave almeno nelle seguenti condizioni di carico:
+ 
+                            
+                            
+                                a)
+                                
+                                    nave vacante;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    nave in assetto di pesca senza carico di pesce;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    nave al ritorno dalle operazioni di pesca con massimo carico di pesce.
 
 Per le navi di lunghezza inferiore a 20 metri puo' essere concesso che gli accertamenti di stabilita' siano eseguiti con prova pratica al fine di ottenere almeno i dati di stabilita' della nave in assetto di pesca senza carico di pesce e in eventuali altre condizioni di carico che, a giudizio dell'ente tecnico, risultino piu' severe nei riguardi della stabilita'.
 
@@ -201,6 +361,66 @@ Tutte le navi devono essere dotate delle carte nautiche relative alle zone di ma
 
 ## Art. 21. — Dotazioni e sistemazioni nautiche nonche' dotazioni varie
 
+1.
+                        
+                            
+                                Fatto salvo quanto previsto al capitolo X dell'allegato al protocollo di Torremolinos le navi abilitate alla pesca costiera ravvicinata devono essere in possesso delle seguenti dotazioni:
+ 
+                            
+                            
+                                a)
+                                
+                                    bandiere da segnalazione corrispondenti al proprio nominativo internazionale;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    elenco dei fari e fanali;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    tabella dei segnali di salvataggio;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    almeno 1 scandaglio a mano;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    un'ancora efficiente in relazione alle dimensioni della nave con cavo di lunghezza adeguata e comunque di lunghezza non inferiore a 50 metri;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    un mezzo di governo ausiliario indipendente dal dispositivo di governo primario (barra amovibile dotata di bicchiere fisso ecc.);
+
+                                
+                            
+                            
+                                g)
+                                
+                                    una pompa di esaurimento;
+
+                                
+                            
+                            
+                                h)
+                                
+                                    dispositivi di segnalazione previsti dalla "Convenzione sul regolamento internazionale del 1972 per prevenire gli abbordi in mare" (Colreg '72).
+
 Le navi abilitate alla pesca costiera ravvicinata limitata a 20 miglia dalla costa e alla pesca costiera locale devono essere in possesso delle medesime dotazioni indicate nel comma precedente, con esclusione dell'elenco fari e fanali.
 
 ## Art. 22. — Certificato di navigabilita'
@@ -210,6 +430,31 @@ Le navi di stazza lorda uguale o superiore a 25 tonnellate, che non siano munite
 ## - Sezione III Disposizioni applicabili solo alle navi di lunghezza inferiore a 24 metri
 
 ## Art. 23. — Visite
+
+1.
+                        
+                            
+                                Le navi oggetto delle presenti norme, ai fini del rilascio delle certificazioni di sicurezza, sono soggette:
+ 
+                            
+                            
+                                a)
+                                
+                                    ad una visita iniziale;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    ad una visita periodica alla scadenza della validita' delle annotazioni di sicurezza;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    a visite occasionali nell'ipotesi di cui all'articolo 26 ovvero quando cio' sia ritenuto opportuno dall'autorita' marittima, e, comunque, in caso di lavori di notevole importanza ovvero in caso di gravi avarie subite dalla nave.
 
 Le visite sono intese ad accertare l'efficienza dello scafo, delle macchine e dell'impianto elettrico, nonche' in generale la rispondenza della nave alle disposizioni contenute nel presente regolamento.
 
@@ -248,9 +493,97 @@ Prima dell'entrata in esercizio della nave deve essere effettuata la compensazio
 
 Sulle piccole navi prive di ponte di comando e' sufficiente una sola bussola magnetica con funzione di normale e di governo principale. A tali navi non si applicano le disposizioni dei commi che seguono.
 
+8.
+                        
+                            
+                                La compensazione delle bussole magnetiche deve essere ricontrollata e se del caso ripetuta ogni due anni, con la determinazione della curva delle deviazioni residue. Tali controlli dovranno comunque essere ripetuti nei seguenti casi:
+ 
+                            
+                            
+                                a)
+                                
+                                    dopo una notevole trasformazione che abbia alterato la massa magnetica della nave;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    dopo importanti lavori in cui sia stato fatto uso di saldatura elettrica;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    quando la nave sia stata colpita dal fulmine;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    quando alle bussole normali o di rotta vengano comunque rilevate deviazioni anormali;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    dopo modifiche alla rete ed alle apparecchiature elettriche e radioelettriche;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    dopo un periodo di disarmo superiore a tre mesi.
+ 2. La compensazione delle bussole magnetiche di bordo deve essere effettuata da persone competenti, autorizzate dall'autorita' marittima. A compensazione avvenuta, devono essere rilasciate le tabelle delle deviazioni residue, tabelle che, dopo essere state vistate dall'autorita' marittima, devono essere esposte in punto ben visibile sul ponte di comando.
+
 ## - Sezione IV Disposizioni applicabili solo alle navi nuove di lunghezza inferiore a 24 metri e a quelle esistenti di lunghezza inferiore a 45 metri
 
 ## Art. 28. — Dotazioni radioelettriche
+
+1.
+                        
+                            
+                                Fino al 31 dicembre 2004, le navi da pesca di stazza lorda inferiore a 30 tonnellate devono essere dotate di:
+ 
+                            
+                            
+                                a)
+                                
+                                    stazione radiotelefonica ad onde metriche (VHF);
+
+                                
+                            
+                            
+                                b)
+                                
+                                    un EPIRB satellitare (406 Mhz).".
+ 2. Fino al 31 dicembre 2004, le navi da pesca di stazza lorda uguale o superiore a 30 tonnellate devono essere dotate di:
+ a) stazione radiotelefonica ad onde metriche (VHF);
+ b) un EPIRB satellitare (406 Mhz);
+ c) stazione radiotelefonica ad onde ettometriche, se effettuano navigazione oltre 20 miglia dalla costa.
+ 3. Gli apparati previsti dai commi precedenti devono essere di tipo idoneo secondo la normativa vigente.
+ 4. A decorrere dal 1° gennaio 2005 le unita' da pesca che effettuano navigazione oltre tre miglia dalla costa devono essere dotate degli apparati radio prescritti al capitolo IX dell'allegato al decreto legislativo 18 dicembre 1999, n. 541, in relazione al tipo di navigazione effettuata nelle diverse aree di mare individuate da tale capitolo. In alternativa:
+ a) le unita' da pesca che effettuano navigazione nell'area di mare A1, come individuata dal capitolo IX dell'allegato al decreto legislativo 18 dicembre 1999, n. 541, devono essere dotate di un apparato radio VHF in grado di trasmettere e ricevere:
+ 1) in DSC "classe D" sulla frequenza di 156,525 MHz (canale 70). Deve essere possibile avviare la trasmissione dell'allarme di soccorso sul canale 70 dalla posizione dalla quale la nave viene normalmente comandata;";
+ 2) in radiotelefonia sulle frequenze di 156,300 MHz (canale 6), 156,650 MHz (canale 13) e 156,800 MHz (canale 16);
+ b) le unita' da pesca che effettuano navigazione nell'area di mare A2, come individuata dal capitolo IX dell'allegato al decreto legislativo 18 dicembre 1999, n. 541, devono essere dotate, in aggiunta agli apparati di cui alla lettera a), almeno di una installazione radio in MF in grado di trasmettere e ricevere, ai fini del soccorso e della sicurezza, sulle frequenze 2187.5 kHz impiegando il DSC "classe E" e 2182 kHz impiegando la radiotelefonia. La nave deve, inoltre, essere in grado di trasmettere e ricevere radiocomunicazioni di carattere generale impiegando la radiotelefonia almeno sulle frequenze di lavoro nelle bande comprese fra 1605 kHz e 4000 kHz;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    le unita' da pesca alle quali si applicano le lettere a) e b), qualora abilitate alla navigazione oltre sei miglia dalla costa, devono essere dotate anche di un EPIRB 406 Mhz.
+ 5. Le unita' da pesca esistenti di cui alla presente Sezione possono essere dotate, in relazione all'area di navigazione in cui operano, delle dotazioni elencate al comma 4, anche prima della data del 1° gennaio 2005.
+ 6. Le aree di mare A1 ed A2 indicate nel comma 4, lettere a) e b), devono essere specificate nel certificato delle annotazioni di sicurezza.
+ 7. Gli apparati previsti dai precedenti commi del presente articolo devono essere di tipo approvato ovvero di tipo conforme alla direttiva CE 1999/05, attuata con decreto legislativo 9 maggio 2001, n. 269.
+ 8. Le navi dotate di apparato "blue box" in grado di inviare i messaggi di allarme tramite INMARSAT, previo parere favorevole del Ministero delle comunicazioni, possono essere esentate dall'obbligo di avere in dotazione l'EPIRB 406 Mhz.
+ 9. Le norme tecniche per l'installazione a bordo degli apparati radioelettrici sono stabilite dal Ministero delle comunicazioni.
+ 10. Il presente articolo si applica alle navi esistenti, abilitate alla pesca costiera locale e alla pesca costiera ravvicinata entro le 20 miglia dalla costa, a decorrere dal 1° gennaio 2005. ((3))
 
 ---------------
                             AGGIORNAMENTO (3)

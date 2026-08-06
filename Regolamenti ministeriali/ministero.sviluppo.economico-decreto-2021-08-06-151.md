@@ -7,8 +7,8 @@ urn: urn:nir:ministero.sviluppo.economico:decreto:2021-08-06;151
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:39Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -37,6 +37,80 @@ Acquisita l'intesa della Conferenza unificata di cui all'articolo 8 del decreto 
 Udito il parere del Consiglio di Stato, espresso dalla Sezione consultiva per gli atti normativi nell'adunanza del 6 giugno 2019;
 
 ## Art. 1. — Definizioni
+
+1.
+                    
+                        
+                            Ai fini del presente decreto si intendono per: 
+ 
+                        
+                        
+                            a)
+                            
+                                «Codice», il decreto legislativo 18 luglio 2005, n. 171; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                «decreto legislativo», il decreto legislativo 26 marzo 2010, n. 59; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                «SCIA», la segnalazione certificata di inizio attivita' di cui all'articolo 19 della legge 7 agosto 1990, n. 241; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                «SUAP», lo sportello unico per le attivita' produttive di cui all'articolo 38, comma 3, del decreto-legge 25 giugno 2008, n. 112, convertito, con modificazioni, dalla legge 6 agosto 2008, n. 133; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                «registro delle imprese», il registro di cui agli articoli 2188 e seguenti del codice civile; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                «REA», il repertorio delle notizie economiche ed amministrative di cui all'articolo 9 del decreto del Presidente della Repubblica 7 dicembre 1995, n. 581; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                «Camera di commercio», la camera di commercio, industria, artigianato e agricoltura, di cui alla legge 29 dicembre 1993, n. 580; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                «Comunicazione unica», la comunicazione unica per la nascita dell'impresa di cui all'articolo 9 del decreto-legge 31 gennaio 2007, n. 7, convertito, con modificazioni, dalla legge 2 aprile 2007, n. 40; 
+
+                            
+                        
+                        
+                            i)
+                            
+                                «attivita'», l'attivita' regolamentata dal decreto legislativo 18 luglio 2005, n. 171; 
+
+                            
+                        
+                        
+                            l)
+                            
+                                «modelli», il modello «MEDIATORI DEL DIPORTO», di cui all'allegato «A» del presente decreto, e il modello intercalare «REQUISITI», di cui all'allegato «B» del presente decreto, da utilizzarsi per gli adempimenti previsti dal presente decreto, presentati come file XML, secondo le specifiche tecniche da approvarsi ai sensi degli articoli 11, comma 1, 14, comma 1, e 18, comma 1, del decreto del Presidente della Repubblica 7 dicembre 1995, n. 581, come allegati alla modulistica informatica registro imprese/REA, redatti secondo gli allegati «A» e «B» del presente decreto.
 
 ## Art. 2. — Presentazione della SCIA
 
@@ -114,6 +188,80 @@ Nel caso delle societa', il requisito del superamento degli esami di cui al comm
 
 I corsi teorico-pratici, organizzati dalle regioni, anche attraverso soggetti accreditati o specificatamente autorizzati, hanno una durata minima di 90 ore e prevedono l'insegnamento delle materie oggetto dell'esame abilitante di cui al comma 4.
 
+4.
+                    
+                        
+                            L'esame consiste in una prova scritta ed in una prova orale; alla prova orale sono ammessi i candidati che abbiano riportato un voto di almeno sette decimi nella prova scritta. L'esame e' superato dai candidati che abbiano ottenuto un voto non inferiore a sei decimi nella prova orale. La prova scritta e quella orale vertono sui seguenti argomenti: 
+ 
+                        
+                        
+                            a)
+                            
+                                norme che regolano la mediazione in generale e quella da diporto in particolare, dettate dal codice civile, da leggi e da regolamenti; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                nozioni teorico-pratiche relative ai contratti-tipo in uso quali i contratti di compravendita, di locazione, anche finanziaria, e di noleggio di unita' da diporto; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                nozioni relative all'immissione in commercio delle imbarcazioni da diporto; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                conoscenza delle caratteristiche e dell'andamento del mercato della nautica da diporto; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                cenni sui principali registri internazionali e sugli aspetti doganali delle unita' provenienti da detti registri; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                conoscenza delle principali disposizioni del codice della navigazione e del Codice, in materia di regime amministrativo delle unita' da diporto, di costruzione, immissione in commercio, di proprieta', di privilegi e di ipoteche, persone trasportabili ed equipaggi; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                nozioni sulle assicurazioni e sulla responsabilita' derivante dalla circolazione delle unita' da diporto; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                conoscenza delle operazioni e dei servizi portuali, delle strutture dedicate alla nautica da diporto, nonche' delle funzioni che svolgono i vari ausiliari del traffico marittimo nella fase portuale; 
+
+                            
+                        
+                        
+                            i)
+                            
+                                conoscenza della geografia politica ed economica; 
+
+                            
+                        
+                        
+                            l)
+                            
+                                conoscenza pratica della lingua inglese ed, in particolare, dei termini tecnici relativi ai vari istituti.
+
 All'esame, diretto ad accertare l'attitudine e la capacita' professionale dell'aspirante mediatore del diporto, provvede una commissione giudicatrice nominata per ogni sessione di esame dal presidente della camera di commercio.
 
 La commissione giudicatrice e' presieduta dal segretario generale della camera di commercio, o da persona da esso delegata con qualifica funzionale dirigenziale ovvero, se non presente, da un funzionario di carriera direttiva; e' inoltre composta da altri due membri, uno dei quali docente di scuola secondaria superiore in una delle materie sulle quali vertono le prove di esame, anche in congedo, ed uno indicato dalla Capitaneria di Porto competente per territorio. Le funzioni di segretario sono svolte da un impiegato della camera di commercio, con qualifica funzionale non inferiore all'area contrattuale C, designato dal segretario generale.
@@ -133,6 +281,31 @@ I mediatori marittimi di cui alla legge 12 marzo 1968, n. 478, regolarmente iscr
 ## Art. 11.
 
 Determinazione dei limiti e dei massimali della polizza di assicurazione della responsabilita' civile per i danni arrecati nell'esercizio dell'attivita'.
+
+1.
+                    
+                        
+                            Gli importi minimi di copertura della polizza di cui all'articolo 49-quater, comma 3, lettera f), del Codice, sono i seguenti: 
+ 
+                        
+                        
+                            a)
+                            
+                                euro 260.000 per le imprese individuali; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                euro 520.000 per le societa' di persone; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                euro 1.550.000 per le societa' di capitali e le cooperative.
 
 La polizza di cui al comma 1 copre tutti coloro che, all'interno dell'impresa, svolgono a qualsiasi titolo l'attivita'.
 

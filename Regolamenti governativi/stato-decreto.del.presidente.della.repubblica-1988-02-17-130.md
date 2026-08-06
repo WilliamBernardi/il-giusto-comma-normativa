@@ -8,8 +8,8 @@ codice_redazionale: 088G0185
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti governativi
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:10Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -37,6 +37,31 @@ Sulle cosce fresche ottenute dalla macellazione dei suini nazionali di cui all'a
 
 Tale timbro e' fornito dall'organismo abilitato che esercita i controlli ritenuti necessari.
 
+3.
+                    
+                        
+                            Un incaricato dell'organismo abilitato prende visione della documentazione sanitaria di accompagnamento, prescritta dalla vigente normativa, delle cosce fresche al momento dell'immissione nello stabilimento di lavorazione e constata altresi':
+ 
+                        
+                        
+                            a)
+                            
+                                il numero complessivo delle cosce munite del timbro indelebile;
+
+                            
+                        
+                        
+                            b)
+                            
+                                l'indicazione del macello di provenienza e la data di spedizione allo stabilimento di destinazione;
+
+                            
+                        
+                        
+                            c)
+                            
+                                l'assenza di qualsiasi trattamento di conservazione e di congelazione sulle carni macellate tranne la refrigerazione.
+
 ## Art. 4.
 
 Per ottenere l'applicazione sulle cosce suine fresche del sigillo previsto dal secondo comma dell'art. 4 della legge, il produttore deve farne richiesta all'organismo abilitato che, mediante i propri incaricati, controlla il corretto svolgimento di tutte le operazioni. L'apposizione del sigillo e' effettuata a cura del produttore, al momento della salagione, sulla cotenna della coscia suina fresca in modo da rimanere visibile fino al momento dell'apposizione del contrassegno finale.
@@ -48,6 +73,38 @@ L'incaricato dell'organismo abilitato puo' vietare l'apposizione del sigillo sul
 L'operazione di apposizione del sigillo deve risultare distintamente su ciascuna partita di cosce nell'apposito registro con le modalita' stabilite nell'art. 10.
 
 ## Art. 5.
+
+1.
+                    
+                        
+                            L'incaricato dell'organismo abilitato, ad avvenuta operazione, deve redigere per ogni partita apposito verbale contenente le seguenti indicazioni:
+ 
+                        
+                        
+                            a)
+                            
+                                gli estremi del documento sanitario di accompagnamento;
+
+                            
+                        
+                        
+                            b)
+                            
+                                la data dell'inizio della salagione;
+
+                            
+                        
+                        
+                            c)
+                            
+                                il numero delle cosce fresche sulle quali e' stato apposto il sigillo;
+
+                            
+                        
+                        
+                            d)
+                            
+                                il numero delle cosce fresche oggetto di contestazione.
 
 Il verbale e' redatto in duplice copia, di cui una e' conservata dal titolare dello stabilimento di lavorazione e una dall'organismo abilitato.
 
@@ -91,11 +148,75 @@ Per le caratteristiche dei locali dello stabilimento di lavorazione si applica l
 
 ## Art. 9.
 
+1.
+                    
+                        
+                            Su istanza del produttore interessato gli incaricati dell'organismo abilitato presenziano all'apposizione del contrassegno previsto dal primo comma dell'art. 4 della legge, eseguita mediante marchiatura con apposito contrassegno, accertando preliminarmente l'esistenza dei seguenti requisiti:
+ 
+                        
+                        
+                            a)
+                            
+                                compimento del periodo di stagionatura prescritto dall'art. 2 della legge, previo esame dei registri, della documentazione e del sigillo apposto sulla coscia fresca; computando nel periodo stesso il mese nel quale e' stato apposto il sigillo;
+
+                            
+                        
+                        
+                            b)
+                            
+                                conformita' delle modalita' di lavorazione alle norme del presente regolamento ed agli usi locali, leali e costanti;
+
+                            
+                        
+                        
+                            c)
+                            
+                                esistenza delle altre caratteristiche merceologiche prescritte dalla legge.
+
 Gli incaricati devono previamente procedere alla spillatura di un numero di prosciutti sufficiente per ricavarne un giudizio probante di qualita'. Se necessario, possono effettuare ispezione del prodotto mediante apertura di un certo numero di prosciutti (fino ad un massimo di cinque per ogni mille e frazione di mille), che restano a carico del produttore. Le caratteristiche organolettiche sono valutate nel loro insieme, potendosi operare una compensazione solo per lievissime deficienze.
 
 L'organismo abilitato custodisce la matrice degli strumenti per l'apposizione del contrassegno. Gli strumenti devono portare ciascuno un particolare segno di identificazione del produttore e sono affidati dall'organismo abilitato ai propri incaricati in occasione dell'applicazione del contrassegno sui prosciutti, che puo' essere eseguita anche a cura del produttore.
 
 Il contrassegno e' apposto anche piu' volte sulla cotenna del prosciutto, in modo da rimanere visibile fino alla completa utilizzazione del prodotto.
+
+5.
+                    
+                        
+                            L'incaricato dell'organismo abilitato preposto alla vigilanza dell'operazione, e' tenuto a compilare, in duplice copia di cui una da consegnare al produttore, apposito verbale da cui deve risultare:
+ 
+                        
+                        
+                            a)
+                            
+                                il numero dei prosciutti presentati per l'apposizione del contrassegno;
+
+                            
+                        
+                        
+                            b)
+                            
+                                la data dell'inizio della stagionatura;
+
+                            
+                        
+                        
+                            c)
+                            
+                                i riferimenti desumibili dall'apposito registro previsto dall'art. 10, necessari per l'individuazione del prodotto;
+
+                            
+                        
+                        
+                            d)
+                            
+                                la data di apposizione del contrassegno e il numero dei prosciutti sui quali esso viene apposto;
+
+                            
+                        
+                        
+                            e)
+                            
+                                il numero dei prosciutti ritenuti inidonei alla produzione tutelata, oggetto di contestazione.
 
 I prosciutti oggetto di contestazione sono custoditi, con la cautela necessaria per impedire la loro sostituzione o comunque la loro manomissione, dall'organismo abilitato, ovvero dal produttore.
 
@@ -110,6 +231,52 @@ Le operazioni di apposizione del contrassegno o di annullamento del sigillo devo
 ## Art. 10.
 
 Il produttore deve tenere, per ogni stabilimento, un apposito registro suddiviso in fogli mensili. Tutte le registrazioni devono essere effettuate, entro i termini prescritti dall'art. 11, nella parte mensile del registro corrispondente al mese e all'anno indicati nel sigillo.
+
+2.
+                    
+                        
+                            Il registro deve distintamente indicare:
+ 
+                        
+                        
+                            a)
+                            
+                                il numero d'ordine progressivo e la data della registrazione;
+
+                            
+                        
+                        
+                            b)
+                            
+                                il numero delle cosce suine con l'indicazione della data di apposizione del sigillo, del macello di provenienza e gli estremi della documentazione di cui all'art. 3;
+
+                            
+                        
+                        
+                            c)
+                            
+                                il numero di cosce suine con sigillo pervenute da altro stabilimento abilitato alla produzione tutelata, anche se appartenente allo stesso produttore;
+
+                            
+                        
+                        
+                            d)
+                            
+                                il numero di cosce suine con sigillo inviate ad altro stabilimento, anche se appartenente allo stesso produttore;
+
+                            
+                        
+                        
+                            e)
+                            
+                                il numero delle cosce suine sulle quali viene annullato il sigillo;
+
+                            
+                        
+                        
+                            f)
+                            
+                                il numero dei prosciutti muniti del contrassegno previsto dall'art. 4 della legge, con l'indicazione della data e del numero progressivo del verbale.
 
 Nel registro sono comunque annotati i provvedimenti degli incaricati dell'organismo abilitato che possono essere oggetto di contestazione da parte della ditta produttrice. Tali annotazioni devono recare a fianco la firma degli interessati e la data.
 
@@ -135,6 +302,31 @@ Il prosciutto disossato puo' essere confezionato, purche' ciascuna parte sia pro
 
 Il produttore deve essere iscritto alla camera di commercio, industria, artigianato e agricoltura competente per territorio ed essere autorizzato dall'organismo abilitato, previo accertamento dei requisiti previsti dall'art. 14.
 
+2.
+                    
+                        
+                            Per ottenere il riconoscimento previsto dal comma 1 gli interessati devono presentare domanda da cui risulti:
+ 
+                        
+                        
+                            a)
+                            
+                                la denominazione e la sede della ditta produttrice;
+
+                            
+                        
+                        
+                            b)
+                            
+                                la sede dello stabilimento o degli stabilimenti per i quali viene richiesto l'attestato di idoneita';
+
+                            
+                        
+                        
+                            c)
+                            
+                                la descrizione dei locali e degli impianti.
+
 Le imprese gia' esistenti alla data di entrata in vigore del presente regolamento debbono, a pena di decadenza, presentare la domanda entro novanta giorni dalla data di pubblicazione del presente regolamento.
 
 Per il periodo di dodici mesi dalla data di entrata in vigore del presente regolamento, l'incaricato dell'organismo abilitato puo' contrassegnare i prosciutti prodotti dalle imprese che hanno presentato la domanda di cui al comma 3, e riconosciuti in possesso dei requisiti previsti dalla legge e dal presente regolamento, soltanto se la loro salagione e' iniziata prima dell'entrata in funzione dell'organismo abilitato.
@@ -154,6 +346,31 @@ Sono a carico degli operatori interessati tutte le spese derivanti dagli adempim
 L'organismo abilitato propone le tariffe relative alle singole operazioni di competenza, che sono approvate dal Ministro dell'industria, del commercio e dell'artigianato, sentiti i Ministri dell'agricoltura e delle foreste e della sanita'.
 
 ## Art. 14.
+
+1.
+                    
+                        
+                            Ogni stabilimento per essere considerato idoneo alla produzione del prosciutto veneto berico-euganeo, secondo le fasi e le modalita' indicate nel presente regolamento, deve essere almeno munito di:
+ 
+                        
+                        
+                            a)
+                            
+                                locali coperti per il ricevimento ed il primo trattamento delle cosce suine;
+
+                            
+                        
+                        
+                            b)
+                            
+                                cella a umidita' e temperatura adeguate per le fasi di salagione, di semipressatura e di riposo;
+
+                            
+                        
+                        
+                            c)
+                            
+                                locali indipendenti per le singole operazioni di stagionatura, conservazione e disossamento dei prosciutti, nel caso che si proceda a quest'ultima operazione.
 
 I locali e le attrezzature dello stabilimento di produzione e del laboratorio di confezionamento devono rispettare i requisiti igienico-sanitari previsti dalla legge 30 aprile 1962, n. 283, modificata dalla legge 26 febbraio 1963, n. 441, e dal decreto del Presidente della Repubblica 26 marzo 1980, n. 327.
 
@@ -186,6 +403,31 @@ Il consiglio di amministrazione e' integrato da un membro designato dalle camere
 Lo statuto del consorzio deve inoltre garantire la parita' dei diritti di tutti gli aderenti ed assicurare ai piccoli produttori un'adeguata rappresentanza nel consiglio di amministrazione.
 
 ## Art. 19.
+
+1.
+                    
+                        
+                            La richiesta per ottenere l'incarico di vigilanza, ai sensi dell'art. 11 della legge, deve essere avanzata dal legale rappresentante del consorzio volontario al Ministero dell'industria, del commercio e dell'artigianato, munita dei seguenti documenti:
+ 
+                        
+                        
+                            a)
+                            
+                                elenco dei soci, corredato di un certificato delle camere di commercio, industria, artigianato e agricoltura competenti per territorio, attestante la sussistenza dei requisiti di cui all'art. 11, n. 6, lettera a), della legge. Per produzione si intende la produzione globale di prosciutto veneto berico-euganeo dei soci in rapporto alla produzione totale ottenuta nella zona tipica;
+
+                            
+                        
+                        
+                            b)
+                            
+                                copia autentica dell'atto costitutivo e dello statuto del consorzio;
+
+                            
+                        
+                        
+                            c)
+                            
+                                relazione dell'organizzazione tecnica ed amministrativa del consorzio e sui mezzi finanziari di cui puo' disporre per l'espletamento dei compiti di vigilanza.
 
 Copia della domanda e dei documenti sopraindicati devono essere inviati anche al Ministero della sanita' ed al Ministero dell'agricoltura e delle foreste.
 

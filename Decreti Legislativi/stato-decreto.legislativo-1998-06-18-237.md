@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
 vigenza_date: 2000-11-28
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:30Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -36,7 +36,78 @@ Il reddito minimo di inserimento e' costituito da interventi volti a perseguire 
 
 La durata della sperimentazione non puo' essere superiore a due anni dalla data di effettivo avvio in ognuno dei comuni individuati ai sensi dell'articolo 4. Essa termina comunque il 31 dicembre 2000.
 
+2.
+                    
+                        
+                            Obiettivi della sperimentazione sono:
+ 
+                        
+                        
+                            a)
+                            
+                                verificare l'efficacia di una misura quale il reddito minimo di inserimento ai fini del superamento, in contesti differenziati, del bisogno economico e della marginalita' sociale dei soggetti privi di reddito e delle persone a loro carico;
+
+                            
+                        
+                        
+                            b)
+                            
+                                verificare l'idoneita' e gli effetti della mobilitazione delle risorse a livello locale finalizzata all'inserimento dei soggetti deboli;
+
+                            
+                        
+                        
+                            c)
+                            
+                                verificare la messa in opera degli strumenti di controllo del reddito;
+
+                            
+                        
+                        
+                            d)
+                            
+                                individuare strumenti di verifica in itinere e di valutazione finale delle attivita' di integrazione.
+
 ## Art. 3. — Titolarita' dell'attuazione della sperimentazione
+
+1.
+                    
+                        
+                            La titolarita' dell'attuazione della sperimentazione, in ogni sua fase, e' del comune nel cui territorio la sperimentazione stessa si svolge. Pertanto il comune:
+ 
+                        
+                        
+                            a)
+                            
+                                definisce le modalita' di presentazione della domanda, prevedendo un termine non superiore a sessanta giorni per la risposta;
+
+                            
+                        
+                        
+                            b)
+                            
+                                stabilisce le modalita' di verifica e di controllo successivo della sussistenza dei requisiti, nel rispetto dei principi stabiliti dal presente decreto;
+
+                            
+                        
+                        
+                            c)
+                            
+                                procede al controllo e alla verifica della attuazione, con riferimento tanto agli obblighi dei beneficiari che alle responsabilita' dei soggetti che cooperano per la realizzazione dei programmi di integrazione sociale;
+
+                            
+                        
+                        
+                            d)
+                            
+                                individua il responsabile del programma di integrazione sociale di cui all'articolo 9;
+
+                            
+                        
+                        
+                            e)
+                            
+                                riferisce al Ministro per la solidarieta' sociale sulla sperimentazione e sui costi legati all'attuazione, con riferimento sia alle erogazioni monetarie che ai costi di gestione e di realizzazione dei programmi di integrazione sociale. A tal fine cura la tenuta di una adeguata documentazione, con particolare riferimento ai soggetti beneficiari, agli interventi promossi, alla loro durata, alle singole modalita' di cessazione ovvero ai motivi della permanenza.
 
 Il comune prevede inoltre che il servizio sociale, anche su iniziativa di enti e organizzazioni di volontariato e del privato sociale, possa provvedere d'ufficio all'inoltro della domanda, in sostituzione dei soggetti impossibilitati o incapaci a farlo.
 
@@ -44,6 +115,45 @@ Il comune prevede inoltre che il servizio sociale, anche su iniziativa di enti e
  in cui effettuare la sperimentazione
 
 Entro trenta giorni dalla data di entrata in vigore del presente decreto legislativo, con decreto del Ministro per la solidarieta' sociale, sentite la Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome di Trento e di Bolzano e la Conferenza Statocitta' e autonomie locali, sono individuati i comuni, singoli o associati, nei quali e' realizzata la sperimentazione.
+
+2.
+                    
+                        
+                            L'individuazione e' effettuata tenuto conto:
+ 
+                        
+                        
+                            a)
+                            
+                                dei livelli di poverta';
+
+                            
+                        
+                        
+                            b)
+                            
+                                della diversita' delle condizioni economiche, demografiche e sociali;
+
+                            
+                        
+                        
+                            c)
+                            
+                                della varieta' delle forme di assistenza gia' attuate dai comuni;
+
+                            
+                        
+                        
+                            d)
+                            
+                                della necessita' di una adeguata distribuzione sul territorio nazionale dei comuni che effettuano la sperimentazione, al fine di garantire la effettiva rappresentativita' dell'intero territorio nazionale;
+
+                            
+                        
+                        
+                            e)
+                            
+                                della disponibilita' del comune a partecipare alla sperimentazione, anche con riferimento a quanto previsto all'articolo 5.
 
 ## Art. 5. — Finanziamento
 
@@ -71,6 +181,31 @@ Con una dichiarazione sottoscritta a norma della legge 4 gennaio 1968, n. 15, e 
 
 Possono inoltrare domanda di ammissione al reddito minimo di inserimento i soggetti indicati all'articolo 6 che alla data di entrata in vigore del presente decreto siano legalmente residenti da almeno dodici mesi, ovvero, se cittadini di Stati non appartenenti all'Unione europea o apolidi, da almeno tre anni, in uno dei comuni che effettuano la sperimentazione.
 
+2.
+                    
+                        
+                            Ai soggetti in eta' lavorativa, non occupati ed abili al lavoro sono richieste la disponibilita' a frequentare corsi di formazione professionale e la disponibilita' al lavoro, da documentare attraverso l'iscrizione all'ufficio di collocamento. Il requisito dell'iscrizione non e' temporaneamente richiesto:
+ 
+                        
+                        
+                            a)
+                            
+                                per coloro che sono impegnati in attivita' di recupero scolastico o di formazione professionale;
+
+                            
+                        
+                        
+                            b)
+                            
+                                per coloro che attendono alla cura di figli in eta' inferiore a tre anni o di persone con handicap in situazione di gravita' accertato ai sensi dell'articolo 4 della legge 5 febbraio 1992, n. 104;
+
+                            
+                        
+                        
+                            c)
+                            
+                                per coloro che sono impegnati in programmi di recupero terapeutico, certificato ed incompatibile con l'attivita' lavorativa.
+
 ## Art. 8. — Integrazione del reddito
 
 L'ammontare del trasferimento monetario integrativo del reddito e' pari alla differenza tra la soglia di L. 500.000 mensili per l'anno l998, di L. 510.000 mensili per l'anno 1999 e di L. 520.000 mensili per l'anno 2000 e il reddito mensile percepito, come determinato ai sensi dell'articolo 6. In presenza di un nucleo familiare composto da due o piu' persone la soglia e' determinata sulla base delle scale di equivalenza allegate al presente decreto.
@@ -83,7 +218,50 @@ Nel definire la prestazione, il comune opera in modo da avere le maggiori garanz
 
 Gli interventi di integrazione sociale di cui all'articolo 1 hanno lo scopo di favorire il superamento dell'emarginazione dei singoli e delle famiglie attraverso la promozione delle capacita' individuali e dell'autonomia economica delle persone. A tali fini il comune, entro trenta giorni dalla data di accoglimento della domanda, elabora, anche in relazione agli interventi previsti nell'ambito delle politiche attive del lavoro, i programmi di integrazione sociale personalizzati, tenendo conto delle caratteristiche personali e familiari dei soggetti e concordando con gli stessi il contenuto e gli impegni derivanti dall'attuazione del programma. Ove e' presente la famiglia, il programma coinvolge tutti i componenti.
 
+2.
+                    
+                        
+                            I programmi di integrazione sociale:
+ 
+                        
+                        
+                            a)
+                            
+                                sono orientati al recupero, alla promozione e allo sviluppo di capacita' personali e alla ricostruzione di reti sociali; per i minori il programma include in primo luogo l'assolvimento dell'obbligo scolastico e successivamente la formazione professionale;
+
+                            
+                        
+                        
+                            b)
+                            
+                                sono coordinati con le altre prestazioni derivanti dall'accesso ad altri servizi sociali da parte dei destinatari.
+
 ## Art. 10. — Obblighi dei soggetti destinatari
+
+1.
+                    
+                        
+                            I soggetti ammessi al reddito minimo di inserimento hanno l'obbligo di:
+ 
+                        
+                        
+                            a)
+                            
+                                comunicare tempestivamente al comune ogni variazione, anche derivante dalla mutata composizione familiare, delle condizioni di reddito e di patrimonio dichiarate al momento della presentazione della domanda e comunque confermare ogni sei mesi il persistere delle condizioni stesse. I servizi sociali assicurano l'assistenza necessaria all'adempimento dell'obbligo per i soggetti piu' deboli e comunque per quelli di cui all'articolo 3, comma 2;
+
+                            
+                        
+                        
+                            b)
+                            
+                                rispettare gli impegni assunti con l'accettazione del programma di integrazione sociale;
+
+                            
+                        
+                        
+                            c)
+                            
+                                per i soggetti di cui all'articolo 7, comma 2, accettare l'eventuale offerta di lavoro anche a tempo determinato che dovessero ricevere, nell'ambito delle disposizioni vigenti in materia di tutela del lavoro.
 
 Il comune sospende o riduce, anche gradualmente e temporaneamente, le prestazioni di reddito minimo di inserimento sulla base della gravita' della violazione degli obblighi e tenuto conto delle condizioni del soggetto inadempiente. La non ottemperanza dell'obbligo di cui al comma 1, lettera c), comporta la revoca della prestazione di reddito minimo di inserimento. In ogni caso il comune tiene conto delle situazioni familiari, con particolare riferimento alla presenza dei minori.
 
@@ -104,6 +282,31 @@ Il sindaco, sentiti i soggetti interessati, decide entro trenta giorni dalla dat
 ## Art. 13. — Valutazione dell'efficacia della sperimentazione
 
 La valutazione tecnica della sperimentazione e' compiuta sia sulle modalita' di svolgimento che sui risultati. A tali fini, entro tre mesi dalla data di entrata in vigore del presente decreto legislativo e previa procedura di selezione preceduta da apposito bando, il Ministro per la solidarieta' sociale affida l'incarico per la valutazione ad idoneo ente o societa'.
+
+2.
+                    
+                        
+                            L'incarico ha principalmente per oggetto:
+ 
+                        
+                        
+                            a)
+                            
+                                gli aspetti relativi alle modalita' di realizzazione della sperimentazione ed i relativi costi, anche in comparazione fra i diversi contesti;
+
+                            
+                        
+                        
+                            b)
+                            
+                                gli effetti del reddito minimo di inserimento con riguardo agli obiettivi, con particolare riferimento all'effettivo contrasto della poverta' e dell'esclusione sociale e alla promozione dell'integrazione sociale e dell'autonomia economica delle persone e delle famiglie, in situazioni di contesto differenziate;
+
+                            
+                        
+                        
+                            c)
+                            
+                                le indicazioni derivanti dalla sperimentazione, nella prospettiva di una generalizzazione dell'istituto all'intero territorio nazionale, con riferimento ai benefici, alle modalita' della sua organizzazione ed ai costi.
 
 Agli oneri derivanti dall'affidamento dell'incarico di valutazione e' destinata una somma non superiore allo 0,3% dello stanziamento del Fondo per le politiche sociali destinato all'introduzione sperimentale del reddito minimo di inserimento per gli anni 1998, 1999 e 2000.
 

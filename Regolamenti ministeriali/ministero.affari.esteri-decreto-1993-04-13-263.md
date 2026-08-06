@@ -8,8 +8,8 @@ codice_redazionale: 093G0336
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:39Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -59,6 +59,101 @@ Udito il parere del Consiglio di Stato espresso nell'adunanza generale del 18 ma
 
 Per la presentazione delle domande di ammissione al concorso deve essere indicato nel bando un termine non inferiore a quarantacinque giorni dalla data di pubblicazione del bando stesso nella Gazzetta Ufficiale.
 
+2.
+                    
+                        
+                            Nella domanda gli aspiranti al concorso devono dichiarare:
+ 
+                        
+                        
+                            a)
+                            
+                                la data ed il luogo di nascita;
+
+                            
+                        
+                        
+                            b)
+                            
+                                il possesso della cittadinanza italiana;
+
+                            
+                        
+                        
+                            c)
+                            
+                                il comune dove sono iscritti nelle liste elettorali ovvero i motivi della non iscrizione o della cancellazione dalle liste medesime;
+
+                            
+                        
+                        
+                            d)
+                            
+                                le eventuali condanne penali riportate, comprese quelle inflitte all'estero, nonche' i procedimenti penali pendenti in Italia o all'estero;
+
+                            
+                        
+                        
+                            e)
+                            
+                                il titolo di studio;
+
+                            
+                        
+                        
+                            f)
+                            
+                                la posizione nei riguardi degli obblighi militari;
+
+                            
+                        
+                        
+                            g)
+                            
+                                i servizi prestati come impiegati presso pubbliche amministrazioni e le cause di risoluzione di precedenti rapporti di pubblico impiego;
+
+                            
+                        
+                        
+                            h)
+                            
+                                i titoli indicati nel successivo art. 4 dei quali siano in possesso;
+
+                            
+                        
+                        
+                            i)
+                            
+                                la lingua straniera, prescelta tra quelle indicate nel successivo art. 5, comma 4, in cui intendono sostenere la prova obbligatoria scritta;
+
+                            
+                        
+                        
+                            l)
+                            
+                                la lingua straniera, prescelta tra quelle indicate nel successivo art. 5, comma 5, lettera b), in cui intendono sostenere la prova obbligatoria orale;
+
+                            
+                        
+                        
+                            m)
+                            
+                                la lingua, o le lingue straniere, prescelte tra quelle indi- cate nel successivo art. 7, comma 1, in cui intendono sostenere prove facoltative orali;
+
+                            
+                        
+                        
+                            n)
+                            
+                                se intendono sostenere la prova facoltativa orale di didattica dell'italiano come lingua seconda, di cui al successivo art. 7, coma 1;
+
+                            
+                        
+                        
+                            o)
+                            
+                                di essere a conoscenza delle norme che regolano il servizio all'estero di cui al decreto del Presidente della Repubblica 5 gennaio 1967, n. 18, e di essere pronti a trasferirsi in qualsiasi sede all'estero ove l'Amministrazione li destini a prestare servizio.
+
 La firma in calce alla domanda deve essere autenticata da una delle autorita' indicate dall'art. 20 della legge 4 gennaio 1968, n. 15. Qualora l'aspirante si trovi all'estero, la firma deve essere autenticata dall'autorita' diplomatica o consolare italiana. Per il dipendente statale e' sufficiente il visto del capo dell'ufficio presso il quale presta servizio.
 
 Alla domanda l'aspirante deve allegare la documentazione relativa ai titoli di cui alla precedente lettera h), nonche' un certificato medico da cui risulti che egli e' di sana e robusta costituzione fisica, con l'esplicita specificazione che e' in grado di affrontare qualsiasi clima, che non ha imperfezioni fisiche che siano d'impedimento o di pregiudizio all'esercizio delle funzioni proprie della qualifica funzionale. La mancanza di tale specificazione comportera' l'esclusione dal concorso. Il certificato deve essere rilasciato da un medico militare o dal medico dell'unitia' sanitaria locale del comune di residenza ovvero, se l'aspirante e' residente all'estero, da un medico di fiducia dell'autorita' diplomatica o consolare italiana, cui spetta di autenticarlo ed eventualmente tradurlo. L'amministrazione si riserva di accertare il requisito dell'idoneita' fisica in qualsiasi momento anche nei riguardi dei vincitori del concorso stesso.
@@ -73,6 +168,31 @@ Le funzioni di segretario della commissione sono svolte da un funzionario del Mi
 
 ## Art. 4. — Titoli
 
+1.
+                    
+                        
+                            La commissione puo' assegnare complessivamente fino a cinque centesimi per i seguenti titoli:
+ 
+                        
+                        
+                            a)
+                            
+                                dottorati di ricerca o diplomi rilasciati da scuole straniere di specializzazione post-laurea;
+
+                            
+                        
+                        
+                            b)
+                            
+                                comprovate esperienze acquisite nel campo della promozione culturale;
+
+                            
+                        
+                        
+                            c)
+                            
+                                pubblicazioni scientifiche.
+
 Il punteggio per i titoli viene assegnato dalla commissione prima dell'inizio delle prove di esame, sulla base della documentazione presentata dal candidato.
 
 ## Art. 5. — Prove obbligatorie
@@ -84,6 +204,24 @@ La prima prova scritta, in lingua italiana, consiste in una composizione intesa 
 La seconda prova scritta, in lingua italiana, consiste in una composizione intesa ad accertare l'ottima conoscenza da parte del candidato della teoria e scienza dell'organizzazione e di gestione delle risorse umane, finanziarie e tecnologiche con specifico riferimento alla promozione culturale.
 
 La terza prova scritta consiste in un tema di cultura generale nella lingua straniera prescelta dal candidato tra le seguenti: francese, inglese, spagnola e tedesca, inteso ad accertare l'ottima conoscenza da parte del candidato della lingua prescelta (e' consentito l'uso del dizionario bilingue).
+
+5.
+                    
+                        
+                            La prova orale verte sulle discipline indicate nei commi 2, 3 e 4 del presente articolo, nonche' sulle seguenti:
+ 
+                        
+                        
+                            a)
+                            
+                                diritto amministrativo e contabilita' di stato;
+
+                            
+                        
+                        
+                            b)
+                            
+                                una seconda lingua straniera prescelta tra arabo, cinese, francese, giapponese, inglese, portoghese, spagnolo, tedesco, lingue slave, ad eccezione di quella prescelta per la prova obbligatoria scritta di lingua straniera di cui al comma 4 del presente articolo.
 
 L'esame orale nelle due lingue obbligatorie consiste in una conversazione e nella traduzione all'impronta di brani sia dall'italiano nelle due lingue straniere che dalle due lingue straniere in italiaano.
 

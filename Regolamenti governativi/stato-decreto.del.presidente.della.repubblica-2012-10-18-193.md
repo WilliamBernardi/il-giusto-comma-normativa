@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Regolamenti governativi
 vigenza_date: 2014-01-18
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:16Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -58,6 +58,27 @@ Alle operazioni di individuazione del campione da sottoporre a verifica, secondo
 Il Ministero dell'interno puo' richiedere all'Istituto nazionale di statistica di intervenire con suoi rappresentanti alle operazioni di cui al comma 5.
 
 ## Art. 3. — Verifica delle dichiarazioni di sostegno
+
+1.
+                    
+                        
+                            Il Ministero dell'interno esegue: 
+ 
+                        
+                        
+                            a)
+                            
+                                il conteggio delle dichiarazioni di sostegno raccolte su carta e in formato elettronico; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                il controllo a campione di tipo casuale semplice, effettuato secondo le modalita' previste nell'allegato A, che accerta: 
+ 1) la ricevibilita' delle dichiarazioni di sostegno. Non sono valide quelle prive della sottoscrizione, ove obbligatoriamente prevista, della data di sottoscrizione, quelle sottoscritte da soggetti ((di eta' inferiore a quella minima richiesta per acquisire il diritto di voto per le elezioni del Parlamento europeo)) e quelle sottoscritte oltre il termine di 12 mesi dall'avvenuta registrazione della proposta ai sensi dell'articolo 4 del regolamento; 
+ 2) la completezza dei dati richiesti per identificare il firmatario. Non sono considerate valide le dichiarazioni di sostegno prive del nome completo, del cognome, del comune di residenza, della data e luogo di nascita, della nazionalita', del tipo e numero di documento e dell'autorita' italiana che lo ha rilasciato; 
+ 3) la veridicita' delle dichiarazioni di sostegno. I relativi controlli sono effettuati mediante un confronto dei dati indicati nelle dichiarazioni di sostegno con i dati detenuti negli archivi anagrafici comunali o con i dati delle questure, limitatamente alla verifica delle dichiarazioni di sostegno nelle quali e' indicato il passaporto.
 
 Nel caso in cui, dall'esame del campione effettuato con le procedure di cui al paragrafo 3 dell'allegato A, risultino sottoscritte piu' dichiarazioni di sostegno dal medesimo firmatario, e' considerata valida una sola dichiarazione, fatte salve le conseguenze di legge a carico del firmatario.
 
